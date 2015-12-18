@@ -5,7 +5,7 @@
 title: Incubateur de Services Numériques
 email: incubateur@data.gouv.fr
 description: Nous modernisons l'État et les administrations en produisant rapidement et durablement des outils numériques qui améliorent le service public.
-baseurl: ""
+baseurl: "/"
 url: "http://mattisg.github.io/lolilolol/"
 
 collections:
