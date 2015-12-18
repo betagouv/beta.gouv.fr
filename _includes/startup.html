@@ -1,0 +1,16 @@
+<div class="startup">
+	<h2>{{ include.description.title }}</h2>
+	<p>{{ include.description.mission }}</p>
+
+	{%if include.description.domain %}
+		<a href="http://{{ include.description.domain }}" title="{{ include.description.title }}">{{ include.description.domain }}</a>
+	{% else %}
+		Pas encore public
+	{% endif %}
+
+	{%if include.description.repository %}
+		<a href="{{ include.description.repository }}">Code source</a>
+	{% else %}
+		Code fermé
+	{% endif %}
+</div>

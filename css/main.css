@@ -1,7 +1,32 @@
 body {
 	font-family: "Century Gothic", "Open Sans", "Gilles Sans", "Arial", "Helvetica Neue", sans-serif;
-	text-align: center;
-	background-color: #222;
+	padding-top: 10em;
+	background-color: #EFEFEF;
+}
+
+header {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	top: 0;
+	padding-right: 1em;
+	padding-left: 1em;
+	padding-bottom: 2em;
+	box-sizing: border-box;
+
+	background-color: #333;
+	background-color: rgba(0, 0, 0, .6);
+	filter: blur(5px);
 	color: white;
 }
 
+main {
+	max-width: 60em;
+	margin: auto;
+}
+
+@media (height < 20em) {
+	header {
+		position: absolute;
+	}
+}

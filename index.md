@@ -7,8 +7,9 @@ layout: default
 	<div id="missionStatement">{{ site.description }}</div>
 </header>
 
-<ul>
+<main>
+	<h1>Nous avons permis…</h1>
 	{% for startup in site.startups %}
-		<li>{{ startup.title }}</li>
+		{% include startup.html description=startup %}
 	{% endfor %}
-</ul>
+</main>
