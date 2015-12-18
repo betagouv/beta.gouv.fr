@@ -19,5 +19,12 @@ defaults:
     values:
       logo: "img/logo-generique-startup-carre.jpg"
 
+phases:
+  discovery: découverte
+  alpha: alpha
+  beta: bêta
+  live: production
+  retirement: retraite
+
 # Build settings
 markdown: kramdown

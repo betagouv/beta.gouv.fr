@@ -1,6 +1,6 @@
 body {
 	font-family: "Century Gothic", "Open Sans", "Gilles Sans", "Arial", "Helvetica Neue", sans-serif;
-	padding-top: 10em;
+	padding-top: 8em;
 	background-color: #EFEFEF;
 }
 
@@ -23,6 +23,50 @@ header {
 main {
 	max-width: 60em;
 	margin: auto;
+}
+
+#counters {
+	display: flex;
+	list-style: none;
+	padding: 0;
+}
+
+.counter {
+	flex: 1;
+	text-align: center;
+	padding: 1em;
+}
+
+.counter--count {
+	font-size: 250%;
+	font-weight: bold;
+}
+
+.counter i {
+	display: block;
+	font-size: 60%;
+	font-style: italic;
+	opacity: .9;
+}
+
+.discovery {
+	background-color: #912b88;
+}
+
+.alpha {
+	background-color: #d53880;
+}
+
+.beta {
+	background-color: #f47738;
+}
+
+.live {
+	background-color: #85994b;
+}
+
+.retirement {
+	background-color: #bfc1c3;
 }
 
 @media (height < 20em) {
