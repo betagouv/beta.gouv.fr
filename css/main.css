@@ -27,6 +27,10 @@ header a {
 	color: inherit;
 }
 
+h1 a {
+	text-decoration: none;
+}
+
 #counters {
 	display: flex;
 	list-style: none;
