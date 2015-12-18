@@ -16,7 +16,7 @@ header {
 
 	background-color: #333;
 	background-color: rgba(0, 0, 0, .6);
-	filter: blur(5px);
+	-webkit-backdrop-filter: blur(10px);
 	color: white;
 }
 
@@ -69,7 +69,7 @@ main {
 	background-color: #bfc1c3;
 }
 
-@media (height < 20em) {
+@media (max-height: 50em) {
 	header {
 		position: absolute;
 	}
