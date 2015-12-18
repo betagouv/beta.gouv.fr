@@ -11,5 +11,13 @@ description: Nous modernisons l'État et les administrations en produisant rapid
 collections:
 - startups
 
+defaults:
+  -
+    scope:
+      path: ""	# means "all files"
+      type: "startups"	# targets a collection
+    values:
+      logo: "img/logo-generique-startup-carre.jpg"
+
 # Build settings
 markdown: kramdown
