@@ -9,7 +9,7 @@ title: Réalisations
 			<li class="counter {{ phase[0] }}">
 				<span class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
 				<i>produits en</i>
-				<span class="counter--name">{{ phase[1] }}</span>
+				<span title="{{ phase[1].description }}" class="tooltip counter--name">{{ phase[1].name }}</span>
 			</li>
 		{% endfor %}
 	</ol>

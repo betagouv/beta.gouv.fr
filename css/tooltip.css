@@ -1,0 +1,25 @@
+.tooltip {
+	position: relative;
+
+	border-bottom: 1px dashed;
+	cursor: help;
+}
+
+.tooltip:hover::after {
+	content: attr(title);
+
+	position: absolute;
+	display: block;
+	top: 2em;
+	left: -1em;
+	width: 15em;
+	z-index: 1;
+
+	padding: .5em;
+
+	text-align: center;
+	color: white;
+	background-color: black;
+	background-color: rgba(0, 0, 0, .8);
+	border-radius: .5em;
+}
