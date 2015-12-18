@@ -7,7 +7,7 @@ body {
 	background-color: #EFEFEF;
 }
 
-header {
+body > header {
 	position: fixed;
 	width: 100%;
 	left: 0;
@@ -72,7 +72,7 @@ header a {
 }
 
 @media (max-height: 50em) {
-	header {
+	body > header {
 		position: absolute;
 	}
 }

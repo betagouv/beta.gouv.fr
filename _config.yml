@@ -9,20 +9,22 @@ baseurl: "/lolilolol/"
 url: "http://mattisg.github.io"
 
 collections:
-- startups
+  startups:
+    output: true
 
 defaults:
   -
     scope:
       path: ""	# means "all files"
-    values:
-      layout: default
-  -
-    scope:
-      path: ""	# means "all files"
       type: startups	# targets a collection
     values:
+      layout: startup
       logo: img/logo-generique-startup-carre.jpg
+  -
+    scope:
+      path: ""  # means "all files"
+    values:
+      layout: default
 
 phases:
   discovery: découverte

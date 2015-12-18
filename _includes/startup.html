@@ -13,6 +13,8 @@
 		<span class="startup--status {{ include.description.status }}">En {{ site.phases[include.description.status] }}</span>
 	</p>
 
+	<a href="{{ include.description.url }}">Historique et opportunités</a>
+
 	{%if include.description.repository %}
 		<a href="{{ include.description.repository }}">Code source</a>
 	{% else %}
