@@ -8,5 +8,8 @@ description: Nous modernisons l'État et les administrations en produisant rapid
 # baseurl: ""
 # url: "https://beta.gouv.fr"
 
+collections:
+- startups
+
 # Build settings
 markdown: kramdown
