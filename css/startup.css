@@ -1,3 +1,12 @@
+.startup {
+	min-height: 7em;
+	border-bottom: 1px solid #CCC;
+}
+
+.startup:last-child {
+	border-bottom: none;
+}
+
 .startup img {
 	float: left;
 	width: 5em;
