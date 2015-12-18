@@ -1,14 +1,17 @@
 <div class="startup">
 	<img src="{{ include.description.logo }}" alt="{{ include.description.title }}" />
 
-	<h2>{{ include.description.title }}</h2>
-	<p>{{ include.description.mission }}</p>
-
-	{%if include.description.domain %}
-		<a href="http://{{ include.description.domain }}" title="{{ include.description.title }}">{{ include.description.domain }}</a>
-	{% else %}
-		Pas encore public
-	{% endif %}
+	<h2><a href="http://{{ include.description.domain }}">{{ include.description.mission }}</a></h2>
+	<p>
+		{{ include.description.title }}
+		{%if include.description.domain %}
+			(<a href="http://{{ include.description.domain }}" title="{{ include.description.title }}">{{ include.description.domain }}</a>)
+		{% else %}
+			(pas encore public)
+		{% endif %}
+		—
+		<span class="startup--status {{ include.description.status }}">En {{ site.phases[include.description.status] }}</span>
+	</p>
 
 	{%if include.description.repository %}
 		<a href="{{ include.description.repository }}">Code source</a>
