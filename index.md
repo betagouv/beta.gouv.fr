@@ -1,12 +1,6 @@
 ---
-layout: default
+title: Réalisations
 ---
-
-<header>
-	<h1>{{ site.title }}</h1>
-	<div id="missionStatement">{{ site.description }}</div>
-</header>
-
 <h2>Nous avons actuellement…</h2>
 
 <section>

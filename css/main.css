@@ -1,6 +1,9 @@
 body {
-	font-family: "Century Gothic", "Open Sans", "Gilles Sans", "Arial", "Helvetica Neue", sans-serif;
 	padding-top: 8em;
+	max-width: 60em;
+	margin: auto;
+
+	font-family: "Century Gothic", "Open Sans", "Gilles Sans", "Arial", "Helvetica Neue", sans-serif;
 	background-color: #EFEFEF;
 }
 
@@ -20,9 +23,8 @@ header {
 	color: white;
 }
 
-main {
-	max-width: 60em;
-	margin: auto;
+header a {
+	color: inherit;
 }
 
 #counters {

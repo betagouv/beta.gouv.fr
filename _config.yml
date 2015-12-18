@@ -15,9 +15,14 @@ defaults:
   -
     scope:
       path: ""	# means "all files"
-      type: "startups"	# targets a collection
     values:
-      logo: "img/logo-generique-startup-carre.jpg"
+      layout: default
+  -
+    scope:
+      path: ""	# means "all files"
+      type: startups	# targets a collection
+    values:
+      logo: img/logo-generique-startup-carre.jpg
 
 phases:
   discovery: découverte
