@@ -31,10 +31,18 @@ h1 a {
 	text-decoration: none;
 }
 
-#counters {
+.counter--incubation, .counter--endgame {
 	display: flex;
 	list-style: none;
 	padding: 0;
+}
+
+.counter--endgame {
+	flex-direction: column;
+	font-size: 80%;
+	border-style: solid;
+	border-width: 10px 0 10px 20px;
+	border-color: transparent transparent transparent black;
 }
 
 .counter {
@@ -55,25 +63,34 @@ h1 a {
 	opacity: .9;
 }
 
-.discovery {
+.investigation {
 	background-color: #912b88;
 }
 
-.alpha {
+.construction {
 	background-color: #d53880;
 }
 
-.beta {
+.consolidation {
 	background-color: #f47738;
 }
 
-.live {
+.passation {
 	background-color: #85994b;
+}
+
+.death {
+	background-color: #444;
 }
 
 .retirement {
 	background-color: #bfc1c3;
 }
+
+.success {
+	background-color: gold;
+}
+
 
 @media (max-height: 50em) {
 	body > header {

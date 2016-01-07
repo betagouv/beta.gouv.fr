@@ -27,21 +27,29 @@ defaults:
       layout: default
 
 phases:
-  discovery:
-    name: découverte
-    description: 3 à 6 semaines pendant lesquelles les besoins utilisateur sont assimilés, les métriques pertinentes définies, et les contraintes techniques, sociales et politiques explorées.
-  alpha:
-    name: alpha
-    description: 4 à 8 semaines pendant lesquelles des solutions sont prototypées pour répondre aux besoins déterminés en Découverte, et confrontées aux retours de toutes les parties prenantes et de testeurs.
-  beta:
-    name: bêta
-    description: Plusieurs mois pendant lesquels la solution validée en Alpha est développée de manière itérative, face à son public cible réel, et passe progressivement à l’échelle.
-  live:
-    name: production
-    description: Durée indéterminée pendant laquelle le service continue à s’améliorer, en répondant aux besoins émergents, aux évolutions techniques, aux nouvelles contraintes…
-  retirement:
-    name: retraite
-    description: Lorsqu’un service est rendu obsolète par des évolutions techniques, règlementaires ou d’usage, il est fermé en lien avec les partenaires, les usagers et en prenant soin des données qui y ont transité.
+  incubation:
+    investigation:
+      name: investigation
+      description: Un besoin est pressenti. Exploration des frictions rencontrées par les usagers, des métriques pertinentes, des contraintes techniques, sociales et politiques et identification des porteurs et du financement.
+    construction:
+      name: construction
+      description: Le besoin a été avéré et le financement validé. Prototypage de solutions confrontées aux retours de toutes les parties prenantes et d'usagers testeurs.
+    consolidation:
+      name: consolidation
+      description: Une solution a été validée par les usagers et considérée comme viable par les parties prenantes. Itérations face au public cible réel et passage progressif à l’échelle.
+    passation:
+      name: passation
+      description: La solution est viable et un repreneur institutionnel a été identifié. Ce repreneur est formé à la maintenance et l'amélioration continue du service.
+  endgame:
+    success:
+      name: succès
+      description: Le service est opéré par son repreneur institutionnel.
+    retirement:
+      name: retraite
+      description: Le service a été rendu obsolète par des évolutions techniques, règlementaires ou d’usage, et il a été fermé en lien avec les partenaires, les usagers et son éventuel successeur.
+    death:
+      name: abandon
+      description: Le service a été abandonné en cours de construction. Un postmortem explique l’abandon pour le capitaliser.
 
 # Build settings
 markdown: kramdown
