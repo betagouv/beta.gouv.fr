@@ -70,4 +70,14 @@ section {
 		width: 100%;
 		font-size: 140%;
 	}
+
+	.counter--incubation {
+		flex-direction: column;
+	}
+
+	.counter--endgame {
+		flex-direction: row;
+		border-width: 20px 10px 0 10px;
+		border-color: black transparent transparent transparent;
+	}
 }
