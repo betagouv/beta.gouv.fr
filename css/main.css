@@ -1,66 +1,8 @@
 body {
-	padding-top: 8em;
-	max-width: 60em;
-	margin: auto;
-
 	font-family: "Century Gothic", "Open Sans", "Gilles Sans", "Arial", "Helvetica Neue", sans-serif;
 	background-color: #EFEFEF;
-}
-
-body > header {
-	position: fixed;
-	width: 100%;
-	left: 0;
-	top: 0;
-	padding-right: 1em;
-	padding-left: 1em;
-	padding-bottom: 2em;
-	box-sizing: border-box;
-
-	background-color: #333;
-	background-color: rgba(0, 0, 0, .6);
-	-webkit-backdrop-filter: blur(10px);
-	color: white;
-}
-
-header a {
-	color: inherit;
-}
-
-h1 a {
-	text-decoration: none;
-}
-
-.counter--incubation, .counter--endgame {
-	display: flex;
-	list-style: none;
-	padding: 0;
-}
-
-.counter--endgame {
-	flex-direction: column;
-	font-size: 80%;
-	border-style: solid;
-	border-width: 10px 0 10px 20px;
-	border-color: transparent transparent transparent black;
-}
-
-.counter {
-	flex: 1;
-	text-align: center;
-	padding: 1em;
-}
-
-.counter--count {
-	font-size: 250%;
-	font-weight: bold;
-}
-
-.counter i {
-	display: block;
-	font-size: 60%;
-	font-style: italic;
-	opacity: .9;
+	max-width: 60em;
+	margin: auto;
 }
 
 .investigation {
@@ -89,11 +31,4 @@ h1 a {
 
 .success {
 	background-color: gold;
-}
-
-
-@media (max-height: 50em) {
-	body > header {
-		position: absolute;
-	}
 }

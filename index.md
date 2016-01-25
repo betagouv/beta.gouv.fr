@@ -1,9 +1,19 @@
 ---
 title: Réalisations
+additional_css: homepage
 ---
-<h2>Nous avons actuellement…</h2>
+<section id="mission-statement">
+	<img src="img/header.jpg" alt="" />
+	<h1>{{ site.description }}</h1>
+</section>
+
+<section id="about">
+	<h2><a href="{{ 'a-propos' | prepend:site.baseurl }}">Nos principes</a></h2>
+</section>
 
 <section id="dashboard">
+	<h2>Nous avons actuellement…</h2>
+
 	<ol class="counter--incubation">
 		{% for phase in site.phases.incubation %}
 			<li class="counter {{ phase[0] }}">
@@ -27,8 +37,8 @@ title: Réalisations
 	</ol>
 </section>
 
-<main>
+<section id="startups">
 	{% for startup in site.startups %}
 		{% include startup.html description=startup %}
 	{% endfor %}
-</main>
+</section>
