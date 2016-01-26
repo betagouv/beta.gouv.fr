@@ -1,5 +1,5 @@
 ---
-title: "API PARTICULIER"
+title: "API Particulier"
 mission: "Simplifier les démarches administratives des usagers"
 domain: "apiparticulier.sgmap.fr"
 repository: "https://github.com/sgmap/api-particulier"
