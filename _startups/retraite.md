@@ -1,7 +1,7 @@
 ---
 title: Retraite simplifiée
 mission: Générer une liste personnalisée des démarches à suivre pour prendre sa retraite.
-domain: recette-retraite.sgmap.fr
+domain: retraite.sgmap.fr
 repository: https://github.com/sgmap/retraite
 status: construction
 contact:
