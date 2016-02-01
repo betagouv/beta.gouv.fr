@@ -1,7 +1,7 @@
 <div class="startup">
 	<img src="{{ include.description.logo }}" alt="{{ include.description.title }}" />
 
-	<h2><a href="http://{{ include.description.domain }}">{{ include.description.mission }}</a></h2>
+	<h2><a href="{{ include.description.url }}">{{ include.description.mission }}</a></h2>
 	<p>
 		{{ include.description.title }}
 		{%if include.description.domain %}
@@ -12,8 +12,6 @@
 		—
 		<span class="startup--status {{ include.description.status }}" title="{{ site.phases.incubation[include.description.status].description }}{{ site.phases.endgame[include.description.status].description }}">En {{ site.phases.incubation[include.description.status].name }}{{ site.phases.endgame[include.description.status].name }}</span>
 	</p>
-
-	<a href="{{ include.description.url }}">Historique et opportunités</a>
 
 	{%if include.description.repository %}
 		<a href="{{ include.description.repository }}">Code source</a>

@@ -5,6 +5,10 @@ layout: default
 	<h1><a href="{{ site.baseurl }}">←</a> {{ page.title }}</h1>
 	<p>{{ page.mission }}</p>
 	<p><a href="mailto:{{ page.contact }}">Contacter l’équipe</a></p>
+
+	{% if page.domain %}
+		<p><a href="http://{{ page.domain }}">Accéder au produit</a></p>
+	{% endif %}
 </header>
 
 <main>
