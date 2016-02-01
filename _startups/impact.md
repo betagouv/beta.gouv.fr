@@ -1,6 +1,6 @@
 ---
 title: Impact
-mission: Simplifier et diminuer le temps de traitement d'un dossier de demande(s) auprès de la MDPH.
+mission: Dématérialiser les demandes auprès des Maisons Départementales des Personnes Handicapées.
 domain: impact.sgmap.fr
 repository: https://github.com/sgmap/impact
 status: construction
