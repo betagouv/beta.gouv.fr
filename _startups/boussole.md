@@ -1,6 +1,6 @@
 ---
 title: Boussole des droits
-mission: Être autonome sans être seul : accéder à l’aide dont j’ai besoin pour construire ma vie.
+mission: "Être autonome sans être seul : accéder à l’aide dont j’ai besoin pour construire ma vie."
 domain:
 repository:
 status: investigation
