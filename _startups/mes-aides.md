@@ -5,6 +5,8 @@ domain: mes-aides.gouv.fr
 repository: https://github.com/sgmap/mes-aides-ui
 status: consolidation
 contact: mes-aides@sgmap.fr
+logo:
+start:
 ---
 
 ## Stages
