@@ -1,10 +1,10 @@
 ---
 title: La Bonne Boîte
-mission: Sélectionner les entreprises susceptibles de me recruter.
+mission: Trouvez les entreprises qui vont recruter près de chez vous.
 domain: labonneboite.pole-emploi.fr
 repository:
 status: consolidation
-contact:
+contact: eric.barthelemy@pole-emploi.fr
 logo: http://labonneboite.pole-emploi.fr/static/images/logo-lbb.png
-start:
+start: 2015-05-01
 ---
