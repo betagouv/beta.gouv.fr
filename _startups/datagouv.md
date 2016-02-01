@@ -1,6 +1,6 @@
 ---
-title: data.gouv.fr
-mission: Amplifier les usages des données publiques.
+title: Data.gouv.fr
+mission: Partagez, améliorez et réutilisez les données publiques.
 domain: data.gouv.fr
 repository: https://github.com/etalab/udata
 status: success
