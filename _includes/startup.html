@@ -10,7 +10,7 @@
 			(pas encore public)
 		{% endif %}
 		—
-		<span class="startup--status {{ include.description.status }}" title="{{ site.phases.incubation[include.description.status].description }}">En {{ site.phases.incubation[include.description.status].name }}</span>
+		<span class="startup--status {{ include.description.status }}" title="{{ site.phases.incubation[include.description.status].description }}{{ site.phases.endgame[include.description.status].description }}">En {{ site.phases.incubation[include.description.status].name }}{{ site.phases.endgame[include.description.status].name }}</span>
 	</p>
 
 	<a href="{{ include.description.url }}">Historique et opportunités</a>
