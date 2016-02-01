@@ -14,7 +14,7 @@ Modifier le fichier de description dans le dossier [`_startups`](https://github.
 
 ## Modifier le site
 
-Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques.
+Ce site est construit avec [Jekyll](https://jekyllrb.com/) ≥ 3.1, un générateur de sites statiques.
 
 Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) et [Jekyll](https://jekyllrb.com/) :
 
@@ -22,7 +22,7 @@ Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) et [Jekyll](h
 git clone https://github.com/sgmap/sgmap.github.io.git
 gem install jekyll
 cd sgmap.github.io
-jekyll serve --watch
+jekyll serve
 ```
 
 
