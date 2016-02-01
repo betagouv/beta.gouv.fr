@@ -1,7 +1,7 @@
 ---
 title: api.gouv.fr
 mission: Mettre en relation les fournisseurs et réutilisateurs d'API d'administrations publiques.
-domain: sgmap.github.io/mas
+domain: api.gouv2.fr
 repository: https://github.com/sgmap/mas
 status: construction
 contact:
