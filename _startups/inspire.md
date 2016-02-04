@@ -1,5 +1,5 @@
 ---
-title: Plateforme Inspire
+title: Passerelle Inspire
 mission: Libérer les données géographiques pour intensifier leurs usages.
 domain: inspire.data.gouv.fr
 repository: https://github.com/sgmap-inspire/
