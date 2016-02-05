@@ -5,6 +5,5 @@ domain: retraite.sgmap.fr
 repository: https://github.com/sgmap/retraite
 status: construction
 contact:
-logo:
 start: 2015-10-01
 ---

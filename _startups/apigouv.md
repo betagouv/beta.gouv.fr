@@ -5,6 +5,5 @@ domain: api.gouv2.fr
 repository: https://github.com/sgmap/mas
 status: construction
 contact:
-logo:
 start: 2016-01-25
 ---

@@ -5,7 +5,6 @@ domain:
 repository:
 status: investigation
 contact: boussole@sgmap.fr
-logo:
 start: 2015-12-01
 ---
 

@@ -5,6 +5,5 @@ domain: bourse.sgmap.fr
 repository: https://github.com/sgmap/bourses/
 status: consolidation
 contact: hela.ghiariani@modernisation.gouv.fr
-logo:
 start:
 ---
