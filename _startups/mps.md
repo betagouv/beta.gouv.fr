@@ -1,6 +1,6 @@
 ---
 title: Marchés Publics Simplifiés
-mission: Réduire le temps de candidature à un marché public, faciliter l'accès aux TPE/PME non-expertes, diminuer les risques de non-conformité, réduire les coûts.
+mission: Candidatez en ligne à un Marché Public avec uniquement votre SIRET, MPS s'occupe du reste.
 domain: mps.apientreprise.fr
 repository:
 status: consolidation
