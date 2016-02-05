@@ -4,7 +4,7 @@ mission: Des outils et des méthodes au service de la modernisation de l’actio
 domain: openacademie.sgmap.fr
 repository: https://github.com/sgmap/open-academie
 status: consolidation
-contact: pierre@pezziardi.net
+contact: pierre.de-maulmont@ac-paris.fr
 logo:
 start: 2015-01
 ---
