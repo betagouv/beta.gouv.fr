@@ -1,0 +1,9 @@
+dependencies:
+  post:
+    - gem install github-pages --no-ri --no-rdoc
+    - jekyll --version  # print it out
+
+test:
+  override:
+    - jekyll doctor
+
