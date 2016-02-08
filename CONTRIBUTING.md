@@ -20,14 +20,14 @@ Modifier le fichier de description de la startup dans le dossier [`_startups`](h
 
 ## Modifier la présentation du site
 
-Ce site est construit avec [Jekyll](https://jekyllrb.com/) ≥ 3.1, un générateur de sites statiques.
+Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est celle [actuellement en production](https://github.com/jekyll/jekyll/issues/4441) sur GitHub Pages.
 
-Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) et [Jekyll](https://jekyllrb.com/) :
+Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) et [Jekyll](https://jekyllrb.com/) par le biais de la gem `github-pages` :
 
 ```sh
 git clone https://github.com/sgmap/sgmap.github.io.git
-gem install jekyll
 cd sgmap.github.io
+gem install github-pages
 jekyll serve
 ```
 
