@@ -42,13 +42,19 @@ phases:
       description: La solution est viable et un repreneur institutionnel a été identifié. Ce repreneur est formé au sein de l'incubateur à la maintenance et à l'amélioration continue du service.
   endgame:
     success:
-      name: institutionnalisé
+      name:
+        singular: transmis
+        plural: transmis
       description: Le service est opéré en mode pérenne par son repreneur institutionnel.
     retirement:
-      name: retraite
+      name:
+        singular: fermé
+        plural: fermés
       description: Le service a été rendu obsolète par des évolutions techniques, règlementaires ou d’usage, et il a été fermé en lien avec les partenaires, les usagers et son éventuel successeur.
     death:
-      name: abandon
+      name:
+        singular: abandonné
+        plural: abandonnés
       description: Le service a été abandonné en cours de construction. Un postmortem explique l’abandon pour le capitaliser.
 
 # Build settings

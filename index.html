@@ -28,8 +28,8 @@ additional_css: homepage
 				{% for phase in site.phases.endgame %}
 					<li class="counter {{ phase[0] }}">
 						<span class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
-						<i>produits en</i>
-						<span title="{{ phase[1].description }}" class="tooltip counter--name">{{ phase[1].name }}</span>
+						<i>produits</i>
+						<span title="{{ phase[1].description }}" class="tooltip counter--name">{{ phase[1].name.plural }}</span>
 					</li>
 				{% endfor %}
 			</ul>

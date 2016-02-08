@@ -10,7 +10,7 @@
 			(<em>pas encore de site public</em>)
 		{% endif %}
 		—
-		<span class="startup--status {{ include.description.status }}" title="{{ site.phases.incubation[include.description.status].description }}{{ site.phases.endgame[include.description.status].description }}">En {{ site.phases.incubation[include.description.status].name }}{{ site.phases.endgame[include.description.status].name }}</span>
+		<span class="startup--status {{ include.description.status }}" title="{{ site.phases.incubation[include.description.status].description }}{{ site.phases.endgame[include.description.status].description }}">{{ site.phases.incubation[include.description.status].name }}{{ site.phases.endgame[include.description.status].name.singular }}</span>
 	</p>
 
 	{%if include.description.repository %}
