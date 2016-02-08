@@ -1,6 +1,8 @@
 machine:
+  environment:
+    RUBY_VERSION: $(curl -s https://raw.githubusercontent.com/github/pages-gem/master/.ruby-version | cut -d '-' -f 1)
   ruby:
-    version: $(curl -s https://raw.githubusercontent.com/github/pages-gem/master/.ruby-version | cut -d '-' -f 1)
+    version: $RUBY_VERSION
 
 dependencies:
   post:
