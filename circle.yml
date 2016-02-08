@@ -13,4 +13,5 @@ test:
   override:
     - grep version circle.yml | grep $GITHUB_PAGES_RUBY_VERSION  # Circle doesn't support interpolation of ruby version, so at least double-check we specified the proper one
     - jekyll doctor
-
+    - jekyll build
+    - grep "css/main.css" _site/index.html  # smoke test that something was actually compiled
