@@ -4,14 +4,11 @@ title: À propos
 
 # À propos de l'Incubateur
 
-Depuis juin 2013, l’État a pu expérimenter au sein du [Secrétariat Général pour la Modernisation de l'Action Publique](https://modernisation.gouv.fr) (SGMAP) une nouvelle manière de construire des services publics numériques.
-
-L'Incubateur de Services Numériques existe en tant que Mission au sein du SGMAP depuis septembre 2015.
-
+Depuis juin 2013, l’État a pu expérimenter au sein du [Secrétariat Général pour la Modernisation de l'Action Publique](https://modernisation.gouv.fr) (SGMAP) une nouvelle manière de construire des services publics numériques. L'Incubateur de Services Numériques existe en tant que Mission depuis septembre 2015.
 
 ## Des produits portés par des intrapreneurs et destinés à résoudre un problème
 
-Qui mieux qu’un acteur public de terrain, témoin quotidien des difficultés de nos concitoyens, pour imaginer les solutions qui viendront résoudre ces irritants ? Une Startup d’État est toujours emmenée par un agent public animé par le désir d’améliorer une situation imparfaite : attente, gaspillage, complexité, non-recours au droit, injustice…
+Qui mieux qu’un acteur public de terrain, témoin quotidien des difficultés de nos concitoyens, pour imaginer les solutions qui viendront résoudre ces irritants ? Une Startup d’État est toujours emmenée par un agent public animé par le désir d’améliorer une situation problématique : attente, gaspillage, complexité, non-recours au droit, injustice…
 
 
 ## Une mise en marché rapide par co-construction avec les parties prenantes
@@ -28,7 +25,7 @@ Le design numérique par la confiance, c’est aussi mettre en place les contre-
 
 ## L’incubateur n’est pas une DSI
 
-L’exigence d’innovation radicale impose d’initier une Startup d’État loin de toute contrainte, pour qu’elle ne reproduise pas les règles (explicites ou implicites) qui fondent le service.
+L’exigence d’innovation radicale impose d’initier une Startup d’État loin de toute contrainte, pour qu’elle ne reproduise pas les règles (explicites ou implicites) qui fondent le service tel qu'il existe aujourd'hui.
 
 Cette posture iconoclaste est vectrice de changements profonds. Elle impose de s'appuyer sur des utilisateurs volontaires qui vont créer de la conviction autour des premiers bénéfices observés. Corollaire : une Startup d’État ne cherche pas à obtenir un consensus général avant de démarrer.
 
@@ -40,3 +37,12 @@ L’incubateur est donc responsable d’un flux de produits numériques, pas le 
 ## Nos résultats
 
 [Nos réalisations]({{ site.baseurl }}) sont la meilleure illustration de nos méthodes.
+
+## Nous contacter
+
+Vous vous reconnaissez dans le profil d'un agent public indigné par une situation irritante pour les usagers ? Vous avez une idée précise d'une solution qui pourrait faire levier sur du numérique ? Vous êtes prêts à vous investir à mi-temps pour la mettre en oeuvre ?
+Vous êtes un développeur agile, pour vous l'informatique sert à résoudre des problèmes, pas forcément à essayer le dernier framework à la mode ? Nous proposons régulièrement des missions ou des CDD pour constituer des startups.
+
+Ecrivez-nous : recrutement (at) beta.gouv.fr
+
+
