@@ -1,8 +1,8 @@
 machine:
-  environment:
-    RUBY_VERSION: $(curl -s https://raw.githubusercontent.com/github/pages-gem/master/.ruby-version | cut -d '-' -f 1)
   ruby:
-    version: $RUBY_VERSION
+    version: 2.1.7
+  environment:
+    GITHUB_PAGES_RUBY_VERSION: $(curl -s https://raw.githubusercontent.com/github/pages-gem/master/.ruby-version | cut -d '-' -f 1)
 
 dependencies:
   post:
@@ -11,5 +11,6 @@ dependencies:
 
 test:
   override:
+    - grep version circle.yml | grep $GITHUB_PAGES_RUBY_VERSION  # Circle doesn't support interpolation of ruby version, so at least double-check we specified the proper one
     - jekyll doctor
 
