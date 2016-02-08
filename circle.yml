@@ -1,6 +1,8 @@
 machine:
   ruby:
     version: 2.1.7
+  java:  # see <https://github.com/svenkreiss/html5validator#integration-with-circleci>
+    version: oraclejdk8
   environment:
     GITHUB_PAGES_RUBY_VERSION: $(curl -s https://raw.githubusercontent.com/github/pages-gem/master/.ruby-version | cut -d '-' -f 1)
 
@@ -8,6 +10,7 @@ dependencies:
   post:
     - gem install github-pages --no-ri --no-rdoc
     - jekyll --version  # print it out
+    - sudo pip install html5validator
 
 test:
   override:
@@ -15,3 +18,4 @@ test:
     - jekyll doctor
     - jekyll build
     - grep "css/main.css" _site/index.html  # smoke test that something was actually compiled
+    - html5validator --root _site
