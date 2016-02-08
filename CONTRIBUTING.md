@@ -10,10 +10,15 @@
 
 ## Éditer la description d'une startup
 
-Modifier le fichier de description dans le dossier [`_startups`](https://github.com/sgmap/sgmap.github.io/tree/master/_startups).
+Modifier le fichier de description de la startup dans le dossier [`_startups`](https://github.com/sgmap/sgmap.github.io/tree/master/_startups).
 
 
-## Modifier le site
+## Modifier le contenu éditorial
+
+[Rechercher le contenu à modifier](https://github.com/sgmap/sgmap.github.io/search?q=contenu+à+modifier&type=Code) et éditer le fichier correspondant.
+
+
+## Modifier la présentation du site
 
 Ce site est construit avec [Jekyll](https://jekyllrb.com/) ≥ 3.1, un générateur de sites statiques.
 
@@ -26,7 +31,11 @@ cd sgmap.github.io
 jekyll serve
 ```
 
+Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `_layouts` et `css`.
+
 
 ## Déployer
 
-Ce site est déployé en continu avec [Github Pages](https://pages.github.com). Pousser sur `master`, c’est partager avec le monde  :)
+Ce site est déployé en continu avec [Github Pages](https://pages.github.com).
+
+Pousser sur `master`, c’est partager avec le monde… ce qui signifie donc qu'il faut être très prudent avec ce pouvoir et privilégier l'usage de [pull requests](https://guides.github.com/introduction/flow/) :wink:
