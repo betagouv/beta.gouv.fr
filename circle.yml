@@ -1,3 +1,7 @@
+machine:
+  ruby:
+    version: $(curl -s https://raw.githubusercontent.com/github/pages-gem/master/.ruby-version | cut -d '-' -f 1)
+
 dependencies:
   post:
     - gem install github-pages --no-ri --no-rdoc
