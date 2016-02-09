@@ -5,6 +5,23 @@ body {
 	margin: auto;
 }
 
+header {
+	background-image: url(/img/marianne.svg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: .8em;
+	background-color: #FEFEFE;
+	color: #555;
+}
+
+header h1 {
+	font-size: 100%;
+	font-weight: normal;
+	text-align: right;
+	padding: .8em;
+	margin: 0;
+}
+
 .investigation {
 	background-color: #912b88;
 }
@@ -31,4 +48,13 @@ body {
 
 .success {
 	background-color: gold;
+}
+
+
+@media (max-width: 50em) {
+	header {
+		background-position: 0;
+		font-size: 60%;
+		padding-left: 2em;
+	}
 }
