@@ -49,3 +49,12 @@ header h1 {
 .success {
 	background-color: gold;
 }
+
+
+@media (max-width: 50em) {
+	header {
+		background-position: 0;
+		font-size: 60%;
+		padding-left: 2em;
+	}
+}
