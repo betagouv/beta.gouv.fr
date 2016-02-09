@@ -1,8 +1,8 @@
 ---
 title: Signaux Faibles
 mission: Mieux cibler les interventions en remédiation de l'état vers les entreprises en difficulté
-domain: 
-repository: 
+domain:
+repository:
 status: investigation
 contact: pierre@pezziardi.net
 start: 2014-05-15  # date au format ISO (AAAA-MM-DD)
@@ -24,17 +24,17 @@ Cette détection se construira sur l’observation d’un ensemble de données p
 
 C’est à la confluence de ces sources d’informations opérantes que se situe le projet « signaux faibles ». Son objectif principal : remettre aux acteurs publics de la cellule de veille un état des entreprises « en risque de difficultés » afin d’examiner, avec celles qui le souhaiteraient, les conditions d’un appui institutionnel.
 
-Nombre des informations nécessaires à ce repérage sont couvertes par une obligation de confidentialité due à leur caractère hautement sensible, pourtant, il est concevable de constituer un groupe de travail régional, permanent et dûment habilité. Ce groupe « expert » serait composé de techniciens appartenant aux institutions précitées. 
+Nombre des informations nécessaires à ce repérage sont couvertes par une obligation de confidentialité due à leur caractère hautement sensible, pourtant, il est concevable de constituer un groupe de travail régional, permanent et dûment habilité. Ce groupe « expert » serait composé de techniciens appartenant aux institutions précitées.
 
 Même si ce montage peut apporter quelque trouble dans l’organisation actuelle de l’appui aux entreprises en difficulté, l’enjeu qui vise à la survie des entreprises en période de crise doit constituer un argument décisif de nature à emporter la conviction des acteurs concernés.
 
-Ce dispositif a été expérimenté en conditions réelles en Bourgogne à la fin 2015. Tous les retours des chargés de mission sont positifs et l’intérêt validé par la CRP Stéphanie Schaer. 
+Ce dispositif a été expérimenté en conditions réelles en Bourgogne à la fin 2015. Tous les retours des chargés de mission sont positifs et l’intérêt validé par la CRP Stéphanie Schaer.
 Éléments méthodologiques
 Le projet sera conduit selon la méthode des Startups d’État décrite plus loin. A noter : une Startup d’État “miroir” a déjà mis en production dans les mêmes conditions un outil de ciblage des entreprises … qui recrutent : labonneboite.pole-emploi.fr.
 
-Le principe fondateur est de réunir dès le début, et tout au long du projet, les principaux partenaires et utilisateurs de l’outil. Nous appelons cette instance OpenLab. Elle se réunit tous les 15 jours, pour réaliser une démonstration de l’outil à date, et discuter les priorités de l’itération suivante. 
+Le principe fondateur est de réunir dès le début, et tout au long du projet, les principaux partenaires et utilisateurs de l’outil. Nous appelons cette instance OpenLab. Elle se réunit tous les 15 jours, pour réaliser une démonstration de l’outil à date, et discuter les priorités de l’itération suivante.
 
-Compte tenu des premiers échanges au niveau régional, le projet est politiquement soutenu sur la région Bourgogne par ses principaux partenaires (Urssaf, DRFIP et DIRECCTE), c’est donc naturellement avec eux que nous démarrerons l’OpenLab. 
+Compte tenu des premiers échanges au niveau régional, le projet est politiquement soutenu sur la région Bourgogne par ses principaux partenaires (Urssaf, DRFIP et DIRECCTE), c’est donc naturellement avec eux que nous démarrerons l’OpenLab.
 
 L’objectif fixé à T0 + 6 mois est d’avoir constitué un outil expérimenté dans 1 à 3 régions pilotes, salué par ses utilisateurs, et généralisable aux autres régions à coût marginal.
 
