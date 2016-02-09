@@ -1,9 +1,9 @@
 ---
 title: Prélèvement à la Source pour les Indépendants
 mission: Simplifier radicalement le règlement des cotisations sociales par les indépendants
-domain: 
-repository: 
-status: investigation  
+domain:
+repository:
+status: investigation
 contact: pierre@pezziardi.net
 start: 2014-12-15  # date au format ISO (AAAA-MM-DD)
 ---
@@ -13,22 +13,23 @@ start: 2014-12-15  # date au format ISO (AAAA-MM-DD)
 « Développer une plate-forme de calcul et de prélèvement automatique des cotisations sociales pour les indépendants ».
 
 ### Valeur
-Supprimer entièrement le décalage temporel entre rentrée de chiffre d'affaires et prélèvements qui induit une défiance terrible entre l'entrepreneur en déficit d'activité et l'institution « aveugle » qui prélève malgré tout. 	
+Supprimer entièrement le décalage temporel entre rentrée de chiffre d'affaires et prélèvements qui induit une défiance terrible entre l'entrepreneur en déficit d'activité et l'institution « aveugle » qui prélève malgré tout.
 Supprimer radicalement l'empilement d'actes administratifs du calendrier actuel : déclaration sociale des indépendants, échéancier et appel provisionnel de cotisation, échéancier et appel provisionnel révisés, remboursement de trop versé, demande de rééchelonnement des cotisations provisionnelles, demande de délais de paiement; ainsi que les relances, réclamations, courriers multiples qui peuvent en découler.
 
 ### Fonctionnement
 
-1- L'indépendant s'inscrit sur un site dédié : apsi.gouv.fr (ou apsi.rsi.fr). Il fournit seulement son SIREN, son RIB personnel, le RIB de son entreprise et le cas échéant précise les organismes conventionnés de son choix.
+1. L'indépendant s'inscrit sur un site dédié : apsi.gouv.fr (ou apsi.rsi.fr). Il fournit seulement son SIREN, son RIB personnel, le RIB de son entreprise et le cas échéant précise les organismes conventionnés de son choix.
 
-2- Chaque fois qu'il souhaite se verser un salaire l'indépendant se connecte au site et déclare le montant net de son choix. Le système calcule automatiquement les cotisations sociales et lui demande de valider une proposition du type : Vous demandez une rémunération nette de 2000 €, cette somme sera versée sur votre compte personnel xxx. Les cotisations sociales correspondant à cette rémunération sont de 1957 €. Votre rémunération brute de 3957 € sera prélevée sur le compte de l'entreprise xxx. Validez / Modifiez.
-	
-3- Une fois la demande validée, la rémunération de l'indépendant, le prélèvement des cotisations sociales et leur affectation à la caisse RSI sont automatiques.
+2. Chaque fois qu'il souhaite se verser un salaire l'indépendant se connecte au site et déclare le montant net de son choix. Le système calcule automatiquement les cotisations sociales et lui demande de valider une proposition du type : Vous demandez une rémunération nette de 2000 €, cette somme sera versée sur votre compte personnel xxx. Les cotisations sociales correspondant à cette rémunération sont de 1957 €. Votre rémunération brute de 3957 € sera prélevée sur le compte de l'entreprise xxx. Validez / Modifiez.
 
-4- Au fil de l'eau le système APSI met à disposition de l'indépendant un relevé des revenus versés et des cotisations prélevées. A la clôture des comptes il appartient à l'expert comptable de s'assurer que l'ensemble des éléments de rémunération (y compris dividendes) ont bien été déclarés.
+3. Une fois la demande validée, la rémunération de l'indépendant, le prélèvement des cotisations sociales et leur affectation à la caisse RSI sont automatiques.
 
-5- Le dispositif APSI devient l'interlocuteur unique de l'indépendant, par délégation du RSI, pour tout ce qui concerne ses revenus et cotisations sociales. Aucun courrier du RSI ou des URSSAF ne s'ajoute au dispositif APSI. Pour le RSI c'est une charge de moins au profit d'un dispositif simple et automatisé (même si une hot-line dédiée peut être prévue).
+4. Au fil de l'eau le système APSI met à disposition de l'indépendant un relevé des revenus versés et des cotisations prélevées. A la clôture des comptes il appartient à l'expert comptable de s'assurer que l'ensemble des éléments de rémunération (y compris dividendes) ont bien été déclarés.
+
+5. Le dispositif APSI devient l'interlocuteur unique de l'indépendant, par délégation du RSI, pour tout ce qui concerne ses revenus et cotisations sociales. Aucun courrier du RSI ou des URSSAF ne s'ajoute au dispositif APSI. Pour le RSI c'est une charge de moins au profit d'un dispositif simple et automatisé (même si une hot-line dédiée peut être prévue).
 
 ### Le « consentement à l'impôt »
+
 Le processus APSI crée un rapport simple à l'impôt, sans surprise car immédiat et définitif.
 Il établit un lien direct, transparent et volontaire, entre le bénéfice d'une rémunération et le paiement de cotisations sociales. Enfin, l’indépendant trouvera sur APSI toutes les informations sur les droits ouverts par ses cotisations : CPA, santé, retraite.
 
@@ -41,7 +42,7 @@ Le dispositif APSI va plus loin puisqu'il prend en charge le calcul des cotisati
 
 Le dispositif APSI peut s'appliquer à tous les indépendants, artisans, commerçants, industriels et profession libérale qui ont choisi l'impôt sur les sociétés, soit environ 400 000 déclarants. Dans ce cas en effet les indépendants se versent bien une rémunération soumise à cotisations sociales. Sont ainsi concernés les gérants majoritaires, les gérants associés minoritaires, les associés non gérants, …, tant qu'ils perçoivent une rémunération et ne sont pas salariés.
 
-Les indépendants qui ont choisi l'impôt sur le revenu payent des cotisations assises sur le bénéfice de l'entreprise. Il n'y a pas à proprement parler de versement de rémunération. La détermination du niveau de cotisation nécessite que le bénéfice de l'entreprise soit connu, ce qui n'arrive qu'une fois par an. Le dispositif APSI n'est donc pas applicable directement pour les indépendants qui ont opté pour l'impôt sur le revenu, et devra évoluer pour les accueillir, par exemple en permettant une saisie mensuelle du résultat prévisionnel. 
+Les indépendants qui ont choisi l'impôt sur le revenu payent des cotisations assises sur le bénéfice de l'entreprise. Il n'y a pas à proprement parler de versement de rémunération. La détermination du niveau de cotisation nécessite que le bénéfice de l'entreprise soit connu, ce qui n'arrive qu'une fois par an. Le dispositif APSI n'est donc pas applicable directement pour les indépendants qui ont opté pour l'impôt sur le revenu, et devra évoluer pour les accueillir, par exemple en permettant une saisie mensuelle du résultat prévisionnel.
 
 Enfin les auto-entrepreneurs disposent déjà d'un régime simplifié avec des cotisations assises sur un chiffre d'affaire, et non sur une rémunération, et un dispositif d'autoliquidation : l'auto-entrepreneur détermine lui-même ses charges et les verse au RSI. Le dispositif APSI n'a donc pas d'intérêt particulier pour eux.
 
@@ -54,16 +55,15 @@ L'engagement d'un dirigeant pour défendre l'innovation à travers son portage �
 La mobilisation d'une équipe restreinte capable de développer rapidement, en méthode agile, le produit réglementaire et le système d'information support de l'innovation. L'expérience montre qu'il est nécessaire que cette équipe soit isolée de l'environnement opérationnel courant qui ne peut que tendre vers la reproduction ou à des arbitrages de ressources ou de calendrier défavorables.
 L'organisation 	permanente d'une interaction avec les futurs « clients » du 	système à travers des ateliers ouverts et récurrents tous les 15 jours. Ces “OpenLab” sont l’unique lieu de gouvernance du produit, toutes les priorités y sont décidées.
 La matérialisation effective et rapide d'une première version du produit en choisissant un terrain restreint d'expérimentation. 	En général un produit « tourne » 3 mois après le lancement du projet et a des dizaines, ou centaines, de clients réels au bout de 6 mois.
-L'arrêt 	de l'innovation dés lors qu'elle ne rencontre pas un marché pour limiter les risques économiques et les « fausses bonnes idées ».	
+L'arrêt 	de l'innovation dés lors qu'elle ne rencontre pas un marché pour limiter les risques économiques et les « fausses bonnes idées ».
 La reprise du produit par un acteur de taille importante, ici le RSI a priori, après 18 à 24 mois d’incubation.
-	
-Illustration dans le cadre d'APSI :
 
 La  Start-up APSI peut être hébergée au SGMAP, dans un ministère ou un établissement doté d'une entité d'accueil de l'innovation ou souhaitant la créer.
 Le champs d'expérimentation peut-être délimité par :
+
 * Un territoire, par exemple ceux des rapporteurs : le Gard et la Vendée.
-* Une sous-catégorie de bénéficiaires : les artisans ou les commerçants en fonction des mobilisations respectives des chambres de métiers ou de commerce locales.	
+* Une sous-catégorie de bénéficiaires : les artisans ou les commerçants en fonction des mobilisations respectives des chambres de métiers ou de commerce locales.
 * La restriction aux nouveaux indépendants créateurs d'entreprise pour ne pas s'engager au démarrage dans les difficultés liées à des reprises d'historique.
 
-Le dispositif APSI sera proposé comme une option à travers les chambres consulaires, les CFE, le RSI, ...
-La gouvernance du projet devra être spécifique et rassembler des 	représentants des ministères de tutelle, du parlement, du RSI, de l’ ACOSS, des chambres consulaires, des organismes conventionnés, …
+Le dispositif APSI sera proposé comme une option à travers les chambres consulaires, les CFE, le RSI…
+La gouvernance du projet devra être spécifique et rassembler des représentants des ministères de tutelle, du parlement, du RSI, de l’ ACOSS, des chambres consulaires, des organismes conventionnés, …
