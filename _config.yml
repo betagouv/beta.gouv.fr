@@ -4,7 +4,7 @@
 # Site settings
 title: Incubateur de Services Numériques
 email: incubateur@sgmap.fr
-description: Nous modernisons l'État et les administrations en produisant rapidement et durablement des outils numériques qui améliorent le service public.
+description: Nous modernisons l'État en travaillant autrement.
 baseurl: "/"
 url: "http://sgmap.github.io"
 
@@ -30,25 +30,31 @@ phases:
   incubation:
     investigation:
       name: investigation
-      description: Un besoin est pressenti. Exploration des frictions rencontrées par les usagers, des métriques pertinentes, des contraintes techniques, sociales et politiques et identification des porteurs et du financement.
+      description: Un besoin est pressenti, c'est à dire des frictions rencontrées par les usagers. Exploration des volumes, des métriques pertinentes, des contraintes techniques, sociales et politiques et enfin identification de(s) porteur(s) et du financement.
     construction:
       name: construction
-      description: Le besoin a été avéré et le financement validé. Prototypage de solutions confrontées aux retours de toutes les parties prenantes et d'usagers testeurs.
+      description: Le besoin est avéré et le financement validé. Une équipe est constituée pour construire une solution qui s'améliore de manière itérative et incrémentale. Elle réunit des parties prenantes volontaires pour expérimenter la solution en conditions réelles.
     consolidation:
       name: consolidation
-      description: Une solution a été validée par les usagers et considérée comme viable par les parties prenantes. Itérations face au public cible réel et passage progressif à l’échelle.
+      description: La solution est désormais utilisée par les parties prenantes pilotes. L'équipe élargit son public cible et itère en vue de satisfaire des usagers au-delà de ce premier cercle d'expérimentateurs.
     passation:
       name: passation
-      description: La solution est viable et un repreneur institutionnel a été identifié. Ce repreneur est formé à la maintenance et l'amélioration continue du service.
+      description: La solution est viable et un repreneur institutionnel a été identifié. Ce repreneur est formé au sein de l'incubateur à la maintenance et à l'amélioration continue du service.
   endgame:
     success:
-      name: succès
-      description: Le service est opéré par son repreneur institutionnel.
+      name:
+        singular: transmis
+        plural: transmis
+      description: Le service est opéré en mode pérenne par son repreneur institutionnel.
     retirement:
-      name: retraite
+      name:
+        singular: fermé
+        plural: fermés
       description: Le service a été rendu obsolète par des évolutions techniques, règlementaires ou d’usage, et il a été fermé en lien avec les partenaires, les usagers et son éventuel successeur.
     death:
-      name: abandon
+      name:
+        singular: abandonné
+        plural: abandonnés
       description: Le service a été abandonné en cours de construction. Un postmortem explique l’abandon pour le capitaliser.
 
 # Build settings
