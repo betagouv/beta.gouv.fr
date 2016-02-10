@@ -39,7 +39,7 @@ additional_css: homepage
 	</ol>
 </section>
 
-<section id="startups">
+<section id="startups" class="ui two stackable cards">
 	{% for startup in site.startups %}
 		{% include startup.html description=startup %}
 	{% endfor %}

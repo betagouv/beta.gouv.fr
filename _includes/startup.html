@@ -1,21 +1,29 @@
-<div class="startup">
-	<img src="{{ include.description.logo }}" alt="{{ include.description.title }}" />
+<div class="ui card" href="{{ include.description.url }}">
+	<div class="content">
+		<img class="right floated mini ui image" src="{{ include.description.logo }}" alt="{{ include.description.title }}"/>
+		<div class="header">{{ include.description.title }}</div>
+		<div class="meta">
+			{% include product-status.html status=include.description.status %}
+		</div>
+		<div class="description">
+			{{ include.description.mission }}
+		</div>
+	</div>
+	<div class="extra content">
+		<div class="left floated">
+			{%if include.description.domain %}
+				<a href="http://{{ include.description.domain }}" title="{{ include.description.title }}">{{ include.description.domain }}</a>
+			{% else %}
+				<em>Pas encore de site public</em>
+			{% endif %}
+		</div>
 
-	<h2><a href="{{ include.description.url }}">{{ include.description.mission }}</a></h2>
-	<p>
-		{{ include.description.title }}
-		{%if include.description.domain %}
-			(<a href="http://{{ include.description.domain }}" title="{{ include.description.title }}">{{ include.description.domain }}</a>)
-		{% else %}
-			(<em>pas encore de site public</em>)
-		{% endif %}
-		—
-		<span class="startup--status {{ include.description.status }}" title="{{ site.phases.incubation[include.description.status].description }}{{ site.phases.endgame[include.description.status].description }}">{{ site.phases.incubation[include.description.status].name }}{{ site.phases.endgame[include.description.status].name.singular }}</span>
-	</p>
-
-	{%if include.description.repository %}
-		<a href="{{ include.description.repository }}">Code source</a>
-	{% else %}
-		Code pas encore ouvert
-	{% endif %}
+		<div class="right floated">
+			{%if include.description.repository %}
+				<a href="{{ include.description.repository }}">Code source</a>
+			{% else %}
+				<em>Code pas encore ouvert</em>
+			{% endif %}
+		</div>
+	</div>
 </div>

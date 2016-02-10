@@ -6,11 +6,14 @@
 	<title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+	<link rel="stylesheet" type="text/css" class="ui" href="//oss.maxcdn.com/semantic-ui/2.1.8/components/card.min.css">
+	<link rel="stylesheet" type="text/css" class="ui" href="//oss.maxcdn.com/semantic-ui/2.1.8/components/image.min.css">
+
 	<link rel="stylesheet" type="text/css" href="{{ "css/main.css" | prepend: site.baseurl }}">
-	<link rel="stylesheet" type="text/css" href="{{ "css/startup.css" | prepend: site.baseurl }}">
 	<link rel="stylesheet" type="text/css" href="{{ "css/tooltip.css" | prepend: site.baseurl }}">
 	{% if page.additional_css %}
 	<link rel="stylesheet" type="text/css" href="{{ "css/" | append: page.additional_css | append: ".css" | prepend: site.baseurl }}">
 	{% endif %}
+
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 </head>
