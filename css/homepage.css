@@ -4,11 +4,6 @@ body {
 	max-width: 100%;
 }
 
-section {
-	max-width: 60em;
-	margin: auto;
-}
-
 #mission-statement {
 	position: relative;
 	max-width: 100%;

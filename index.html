@@ -12,7 +12,7 @@ additional_css: homepage
 	{{ why | markdownify }}
 </section>
 
-<section id="dashboard">
+<section id="dashboard" class="ui container">
 	<h2>Le portefeuille de Startups d'État</h2>
 
 	<ol class="counter--incubation">
@@ -38,7 +38,7 @@ additional_css: homepage
 	</ol>
 </section>
 
-<section id="startups" class="ui two stackable cards">
+<section id="startups" class="ui two stackable cards container">
 	{% for startup in site.startups %}
 		{% include startup.html description=startup %}
 	{% endfor %}
