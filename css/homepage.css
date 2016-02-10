@@ -20,16 +20,22 @@ section {
 
 #mission-statement h1 {
 	position: absolute;
-	top: 50%;
+	top: 20%;
+	left: 5%;
 	width: 70%;
-	padding: .5em;
 	margin: 0;
-	box-sizing: border-box;
+}
 
-	font-size: 200%;
+#mission-statement h1 span {
+	padding: .2em 0;
 
-	color: #FAFAFA;
-	background-color: rgba(0, 0, 0, 0.5);
+	font-size: 150%;
+	line-height: 1.8;
+	letter-spacing: .05em;
+
+	text-transform: uppercase;
+	color: #444;
+	background-color: rgba(255, 255, 255, .6);
 }
 
 .counter--incubation, .counter--endgame {
@@ -67,8 +73,12 @@ section {
 @media (max-width: 50em) {
 	#mission-statement h1 {
 		top: 0;
+		left: 0;
 		width: 100%;
-		font-size: 140%;
+	}
+
+	#mission-statement h1 span {
+		font-size: 90%;
 	}
 
 	.counter--incubation {
