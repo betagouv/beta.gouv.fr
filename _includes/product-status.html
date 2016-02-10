@@ -1,0 +1,5 @@
+{% if site.phases.incubation[include.status] %}
+	En <span title="{{ site.phases.incubation[include.status].description }}">{{ site.phases.incubation[include.status].name }}</span>
+{% else %}
+	<span title="{{ site.phases.endgame[include.status].description }}">{{ site.phases.endgame[include.status].name.singular | capitalize }}</span>
+{% endif %}

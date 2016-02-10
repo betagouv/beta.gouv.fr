@@ -1,18 +1,37 @@
 ---
 layout: default
 ---
-<header>
-	<h1><a href="{{ site.baseurl }}">←</a> {{ page.title }}</h1>
-	<p>{{ page.mission }}</p>
 
-	{% if page.domain %}
-		<p><a href="http://{{ page.domain }}">Accéder au produit</a></p>
-	{% endif %}
+<h1>{{ page.title }}</h1>
 
-	{% if page.contact %}
-		<p><a href="mailto:{{ page.contact }}">Contacter l’équipe</a></p>
-	{% endif %}
-</header>
+<h2>{{ page.mission }}</h2>
+
+
+<ul>
+	<li>
+		{%if page.domain %}
+			Produit disponible sur <a href="http://{{ page.domain }}" title="{{ page.title }}">{{ page.domain }}</a>
+		{% else %}
+			<em>Produit pas encore accessible en public</em>
+		{% endif %}
+	</li>
+
+	<li>
+		{%if page.repository %}
+			<a href="{{ page.repository }}">Code source</a>
+		{% else %}
+			<em>Code source pas encore ouvert</em>
+		{% endif %}
+	</li>
+
+	<li>
+		{% if page.contact %}
+			<a href="mailto:{{ page.contact }}">Contacter l’équipe</a>
+		{% else %}
+			<em><a href="mailto:{{ site.email }}">Contacter l'incubateur</a></em>
+		{% endif %}
+	</li>
+</ul>
 
 <main>
 	{{ content }}

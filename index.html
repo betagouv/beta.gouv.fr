@@ -4,16 +4,15 @@ additional_css: homepage
 
 <section id="mission-statement">
 	<img src="img/header.jpg" alt="" />
-	<h1>{{ site.description }}</h1>
+	<h1><span>{{ site.description }}</span></h1>
 </section>
 
-<section id="about">
-	<h2>Pourquoi un incubateur dans l'État ?</h2>
-	<p>Pour un responsable d'administration, l'exigence d'innovation se heurte toujours à la nécessité de rendre déjà le service tel qu'il est. L'innovation perturbe cet objectif principal, elle impose de «&nbsp;faire autrement&nbsp;» et met ainsi en risque le service rendu au quotidien à des millions d'usagers. Dans ces conditions, l'injonction «&nbsp;Innovez !&nbsp;» est une injonction paradoxale.</p>
-	<p>C’est pourquoi une Startup d’État est une équipe resserrée et autonome de 2 à 4 personnes emmenée par un agent public et engagée à améliorer une situation problématique dans le service public : attente, gaspillage, complexité, non-recours au droit, injustice… <a href="{{ 'a-propos' | prepend:site.baseurl }}">En savoir plus…</a></p>
+<section id="why">
+	{% capture why %}{% include why.md %}{% endcapture %} <!-- http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/ -->
+	{{ why | markdownify }}
 </section>
 
-<section id="dashboard">
+<section id="dashboard" class="ui container">
 	<h2>Le portefeuille de Startups d'État</h2>
 
 	<ol class="counter--incubation">
@@ -39,7 +38,7 @@ additional_css: homepage
 	</ol>
 </section>
 
-<section id="startups">
+<section id="startups" class="ui two stackable cards container">
 	{% for startup in site.startups %}
 		{% include startup.html description=startup %}
 	{% endfor %}

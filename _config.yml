@@ -4,7 +4,7 @@
 # Site settings
 title: Incubateur de Services Numériques de l'État
 email: incubateur@sgmap.fr
-description: Nous modernisons l'État en travaillant autrement.
+description: Nous modernisons l'État en travaillant autrement
 baseurl: "/"
 url: "http://sgmap.github.io"
 
