@@ -80,6 +80,12 @@ body {
 	opacity: .9;
 }
 
+a.ui.card {
+	text-decoration: none;
+	color: inherit;
+	cursor: pointer;
+}
+
 @media (max-width: 50em) {
 	#mission-statement h1 {
 		top: 0;

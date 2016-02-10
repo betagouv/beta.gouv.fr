@@ -1,10 +1,12 @@
-<div class="ui card" href="{{ include.description.url }}">
+<a class="ui card" href="{{ include.description.url }}">
 	<div class="content">
 		<img class="right floated mini ui image" src="{{ include.description.logo }}" alt="{{ include.description.title }}"/>
+
 		<div class="header">{{ include.description.title }}</div>
 		<div class="meta">
 			{% include product-status.html status=include.description.status %}
 		</div>
+
 		<div class="description">
 			{{ include.description.mission }}
 		</div>
@@ -12,7 +14,7 @@
 	<div class="extra content">
 		<div class="left floated">
 			{%if include.description.domain %}
-				<a href="http://{{ include.description.domain }}" title="{{ include.description.title }}">{{ include.description.domain }}</a>
+				{{ include.description.domain }}
 			{% else %}
 				<em>Pas encore de site public</em>
 			{% endif %}
@@ -20,10 +22,10 @@
 
 		<div class="right floated">
 			{%if include.description.repository %}
-				<a href="{{ include.description.repository }}">Code source</a>
+				Code source ouvert
 			{% else %}
 				<em>Code pas encore ouvert</em>
 			{% endif %}
 		</div>
 	</div>
-</div>
+</a>
