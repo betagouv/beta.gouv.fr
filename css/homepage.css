@@ -93,7 +93,7 @@ a.ui.card {
 		width: 100%;
 	}
 
-	#mission-statement h1 span {
+	#mission-statement h1 span, #why {
 		font-size: 90%;
 	}
 
