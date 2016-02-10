@@ -38,6 +38,21 @@ section {
 	background-color: rgba(255, 255, 255, .6);
 }
 
+#why {
+	margin-top: -5px;  /* container above leaks 3~4 pixels in, no idea why */
+	padding: 1em;
+	padding-bottom: 2em;
+	font-size: 130%;
+
+	text-align: center;
+	background-color: #FEFEFE;
+}
+
+#why * {
+	max-width: 60rem;
+	margin: 1em auto;
+}
+
 .counter--incubation, .counter--endgame {
 	display: flex;
 	list-style: none;
