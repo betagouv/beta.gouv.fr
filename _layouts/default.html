@@ -3,9 +3,11 @@
 	{% include head.html %}
 
 	<body>
-		<header>
-			<h1>{{ site.title }}</h1>
-		</header>
+		<a href="{{ site.baseurl }}">
+			<header>
+				<h1>{{ site.title }}</h1>
+			</header>
+		</a>
 
 		{{ content }}
 	</body>

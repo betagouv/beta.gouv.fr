@@ -5,6 +5,11 @@ body {
 	margin: auto;
 }
 
+body > a {
+	text-decoration: none;
+	color: inherit;
+}
+
 header {
 	background-image: url(/img/marianne.svg);
 	background-repeat: no-repeat;
