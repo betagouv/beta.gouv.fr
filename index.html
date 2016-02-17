@@ -8,19 +8,21 @@ additional_css: homepage
 </section>
 
 <section id="why">
+	<h2 class="ui divider horizontal">Pourquoi un incubateur dans l'État ?</h2>
+
 	{% capture why %}{% include why.md %}{% endcapture %} <!-- http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/ -->
 	{{ why | markdownify }}
 </section>
 
-<section id="dashboard" class="ui container">
-	<h2>Le portefeuille de Startups d'État</h2>
+<section id="dashboard">
+	<h2 class="ui divider horizontal">Le parcours d'une Startup d'État</h2>
 
 	<ol class="counter--incubation">
 		{% for phase in site.phases.incubation %}
 			<li class="counter {{ phase[0] }}">
-				<span class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
-				<i>produits en</i>
-				<span title="{{ phase[1].description }}" class="tooltip counter--name">{{ phase[1].name }}</span>
+				<h3>{{ phase[1].name }}</h3>
+				<p>{{ phase[1].description }}</p>
+				<span title="Produits dans cette phase" class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
 			</li>
 		{% endfor %}
 
@@ -28,9 +30,8 @@ additional_css: homepage
 			<ul class="counter--endgame">
 				{% for phase in site.phases.endgame %}
 					<li class="counter {{ phase[0] }}">
-						<span class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
-						<i>produits</i>
-						<span title="{{ phase[1].description }}" class="tooltip counter--name">{{ phase[1].name.plural }}</span>
+						<h3 title="{{ phase[1].description }}" class="tooltip counter--name">{{ phase[1].name.plural }}</h3>
+						<span title="Produits dans cette phase" class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
 					</li>
 				{% endfor %}
 			</ul>
@@ -39,6 +40,8 @@ additional_css: homepage
 </section>
 
 <section id="startups" class="ui two stackable cards container">
+	<h2 class="ui divider horizontal">Nos Startups d'État</h2>
+
 	{% for startup in site.startups %}
 		{% include startup.html description=startup %}
 	{% endfor %}
