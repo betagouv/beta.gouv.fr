@@ -49,6 +49,10 @@ body {
 	margin: 1em auto;
 }
 
+#why ol {
+	list-style-position: inside;
+}
+
 #dashboard {
 	background-color: #EEE;
 	padding: 1em;
@@ -95,6 +99,11 @@ body {
 
 .counter h3 {
 	text-transform: uppercase;
+	margin: .5em;
+}
+
+.counter p {
+	align-self: flex-start;
 }
 
 .counter--count {

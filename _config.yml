@@ -4,7 +4,7 @@
 # Site settings
 title: Incubateur de Services Numériques de l'État
 email: incubateur@sgmap.fr
-description: Nous modernisons l'État en travaillant autrement
+description: Nous créons les services publics numériques du XXIᵉ siècle
 baseurl: "/"
 url: "http://sgmap.github.io"
 
@@ -30,10 +30,10 @@ phases:
   incubation:
     investigation:
       name: investigation
-      description: Une friction avec l’usager est identifiée. Les volumes et contraintes sont déterminées. Porteur(s) et financement sont validés. Une équipe est constituée.
+      description: Une friction avec l’usager est identifiée. Les volumes et contraintes sont déterminées. Porteur(s) et financement sont validés. Une équipe autonome de 2 à 4 personnes est constituée.
     construction:
       name: construction
-      description: L’équipe construit un produit de manière itérative et incrémentale. Des volontaires l'expérimentent en conditions réelles.
+      description: L’équipe comprend le besoin et construit un produit de manière itérative et incrémentale pour y répondre. Des volontaires l'expérimentent en conditions réelles.
     consolidation:
       name: consolidation
       description: Le produit est utilisé par les volontaires pilotes. L'équipe améliore le service et élargit son public cible selon les retours.
