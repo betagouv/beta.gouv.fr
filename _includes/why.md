@@ -1,17 +1,12 @@
 **`bêta`** | **`.gouv`**
-Expérimental | Pour tous
-En co-construction | Service public
-En amélioration continue | Numérique
+Expérimental | Service public
+Fait avec tous | Fait pour tous
+Évolutif | Numérique
 
-<!-- ## Nous créons des _services publics numériques_ avec vous -->
-
-<!-- ## Créez des services publics numériques avec nous -->
 
 ## Nous facilitons la création de services publics numériques
 
-<!-- Vous avez une idée d'amélioration de votre administration ? -->
-
-Votre administration pourrait fournir un meilleur service ? Un produit numérique m2c ?
+Votre administration pourrait fournir un meilleur service grâce à un produit numérique ?
 
 
 ## Nous créons des Startups d'État
