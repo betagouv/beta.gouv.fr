@@ -48,6 +48,11 @@ body {
 	margin: 1em auto;
 }
 
+#dashboard .divider {
+	position: relative;
+	top: -1.5em;
+}
+
 .counter--incubation, .counter--endgame {
 	display: flex;
 	list-style: none;
