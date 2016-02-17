@@ -1,5 +1,5 @@
 ---
-title: Retraite simplifiée
+title: Mon Pass Retraite
 mission: Déterminer les démarches à suivre pour prendre sa retraite.
 domain: retraite.sgmap.fr
 repository: https://github.com/sgmap/retraite
