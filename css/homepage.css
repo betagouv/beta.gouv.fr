@@ -54,6 +54,10 @@ body {
 	padding: 0;
 }
 
+.counter--incubation {
+	color: white;
+}
+
 .counter--endgame {
 	flex-direction: column;
 	font-size: 80%;
