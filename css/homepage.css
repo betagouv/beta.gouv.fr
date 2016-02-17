@@ -2,6 +2,7 @@ body {
 	padding: 0;
 	margin: 0;
 	max-width: 100%;
+	background-color: #DDD;
 }
 
 #mission-statement {
@@ -48,9 +49,20 @@ body {
 	margin: 1em auto;
 }
 
-#dashboard .divider {
+#dashboard {
+	background-color: #EEE;
+	padding: 1em;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+#dashboard .ui.divider {
+	margin-top: -1em;
+}
+
+.ui.divider {
 	position: relative;
-	top: -1.5em;
+	top: -.5em;
 }
 
 .counter--incubation, .counter--endgame {

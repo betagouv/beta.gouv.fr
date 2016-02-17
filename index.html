@@ -14,8 +14,8 @@ additional_css: homepage
 	{{ why | markdownify }}
 </section>
 
-<section id="dashboard" class="ui container">
-	<h2 class="ui divider horizontal">Nos Startups d'État</h2>
+<section id="dashboard">
+	<h2 class="ui divider horizontal">Le parcours d'une Startup d'État</h2>
 
 	<ol class="counter--incubation">
 		{% for phase in site.phases.incubation %}
@@ -40,6 +40,8 @@ additional_css: homepage
 </section>
 
 <section id="startups" class="ui two stackable cards container">
+	<h2 class="ui divider horizontal">Nos Startups d'État</h2>
+
 	{% for startup in site.startups %}
 		{% include startup.html description=startup %}
 	{% endfor %}
