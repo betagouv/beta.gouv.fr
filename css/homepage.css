@@ -68,20 +68,21 @@ body {
 
 .counter {
 	flex: 1;
-	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+
 	padding: 1em;
 }
 
-.counter--count {
-	font-size: 250%;
-	font-weight: bold;
+.counter h3 {
+	text-transform: uppercase;
 }
 
-.counter i {
-	display: block;
-	font-size: 60%;
-	font-style: italic;
-	opacity: .9;
+.counter--count {
+	font-size: 500%;
+	font-weight: bold;
 }
 
 a.ui.card {

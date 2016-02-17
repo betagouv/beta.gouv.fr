@@ -18,9 +18,9 @@ additional_css: homepage
 	<ol class="counter--incubation">
 		{% for phase in site.phases.incubation %}
 			<li class="counter {{ phase[0] }}">
-				<span class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
-				<i>produits en</i>
-				<span title="{{ phase[1].description }}" class="tooltip counter--name">{{ phase[1].name }}</span>
+				<h3>{{ phase[1].name }}</h3>
+				<p>{{ phase[1].description }}</p>
+				<span title="Produits dans cette phase" class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
 			</li>
 		{% endfor %}
 
@@ -28,9 +28,8 @@ additional_css: homepage
 			<ul class="counter--endgame">
 				{% for phase in site.phases.endgame %}
 					<li class="counter {{ phase[0] }}">
-						<span class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
-						<i>produits</i>
-						<span title="{{ phase[1].description }}" class="tooltip counter--name">{{ phase[1].name.plural }}</span>
+						<h3 title="{{ phase[1].description }}" class="tooltip counter--name">{{ phase[1].name.plural }}</h3>
+						<span title="Produits dans cette phase" class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
 					</li>
 				{% endfor %}
 			</ul>
