@@ -4,7 +4,7 @@
 # Site settings
 title: Incubateur de Services Numériques de l'État
 email: incubateur@sgmap.fr
-description: Nous créons les services publics numériques du XXIᵉ siècle
+description: Nous créons des services publics numériques
 baseurl: "/"
 url: "http://sgmap.github.io"
 
@@ -43,8 +43,8 @@ phases:
   endgame:
     success:
       name:
-        singular: transmis
-        plural: transmis
+        singular: repris
+        plural: repris
       description: Le service est opéré de manière pérenne par son repreneur institutionnel.
     retirement:
       name:

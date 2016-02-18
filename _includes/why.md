@@ -1,7 +1,4 @@
-Nous mettons en place des équipes autonomes de deux à quatre personnes, qui vont :
-
-1. **Identifier** une friction entre administration et citoyens.
-2. **Comprendre** le besoin avec les usagers.
-3. **Accompagner** un agent public par des experts du numérique.
-4. **Évaluer** la viabilité du service en six mois.
-5. **Diffuser** à grande échelle en douze mois.
+1. Un agent public **investigue** une friction entre administration et citoyens.
+2. Deux à quatre personnes **construisent** un produit numérique en moins de six mois.
+3. L'équipe **consolide** le service en élargissant son public cible.
+4. Un opérateur institutionnel **reprend** le service et assure sa pérennité.
