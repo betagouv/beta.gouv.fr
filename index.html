@@ -4,7 +4,10 @@ additional_css: homepage
 
 <section id="mission-statement">
 	<img src="img/header.jpg" alt="" />
-	<h1><span>{{ site.description }}</span></h1>
+	<div>
+		<p><span>Votre administration pourrait fournir un meilleur service grâce à un produit numérique ?</span></p>
+		<h1><span>{{ site.description }}</span></h1>
+	</div>
 </section>
 
 <section id="why">
@@ -12,6 +15,14 @@ additional_css: homepage
 
 	{% capture why %}{% include why.md %}{% endcapture %} <!-- http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/ -->
 	{{ why | markdownify }}
+</section>
+
+<section id="startups" class="ui two stackable cards container">
+	<h2 class="ui divider horizontal">Nos Startups d'État</h2>
+
+	{% for startup in site.startups %}
+		{% include startup.html description=startup %}
+	{% endfor %}
 </section>
 
 <section id="dashboard">
@@ -37,12 +48,4 @@ additional_css: homepage
 			</ul>
 		</li>
 	</ol>
-</section>
-
-<section id="startups" class="ui two stackable cards container">
-	<h2 class="ui divider horizontal">Nos Startups d'État</h2>
-
-	{% for startup in site.startups %}
-		{% include startup.html description=startup %}
-	{% endfor %}
 </section>
