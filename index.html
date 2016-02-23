@@ -23,7 +23,14 @@ additional_css: homepage
 {% for phase in site.phases.incubation %}
 	{% assign startups = site.startups | where:'status',phase[0] %}
 	{% assign startupsCount = startups | size %}
-	{% assign featuredStartup = startups[0] %}
+
+	{% assign featuredStartup = false %}
+	{% capture id %}/startups/{{ phase[1].featured}}{% endcapture %}
+	{% for startup in site.startups %}
+		{% if startup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
+			{% assign featuredStartup = startup %}
+		{% endif %}
+	{% endfor %}
 
 
 	<h2 id="{{ phase[0] }}" class="centered row {{ phase[0] }}">
@@ -34,11 +41,10 @@ additional_css: homepage
 		<p class="column">{{ phase[1].description }}</p>
 
 		<div class="column">
-			{% if startupsCount > 0 %}
+			{% if featuredStartup %}
 				<img class="right floated tiny ui image" src="{{ featuredStartup.logo }}" alt="{{ featuredStartup.title }}"/>
 
 				<h3>{{ featuredStartup.title }}</h3>
-
 				<p>{{ featuredStartup.mission }}</p>
 
 				<a href="{{ featuredStartup.url }}">En savoir plus</a>
