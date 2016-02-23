@@ -60,10 +60,9 @@ section {
 	list-style-position: inside;
 }
 
-h3 {
-	margin-top: 0;
+#phases {
+	color: #FEFEFE;
 }
-
 
 @media (max-width: 50em) {
 	#mission-statement h1 {
