@@ -31,12 +31,15 @@ phases:
     investigation:
       name: investigation
       description: Une friction avec l’usager est identifiée. Les volumes et contraintes sont déterminées. Porteur(s) et financement sont validés. Une équipe autonome de 2 à 4 personnes est constituée.
+      featured: psi
     construction:
       name: construction
       description: L’équipe comprend le besoin et construit un produit de manière itérative et incrémentale pour y répondre. Des volontaires l'expérimentent en conditions réelles.
+      featured: ban
     consolidation:
       name: consolidation
       description: Le produit est utilisé par les volontaires pilotes. L'équipe améliore le service et élargit son public cible selon les retours.
+      featured: labonneboite
     passation:
       name: passation
       description: Le service est viable et un repreneur institutionnel a été identifié. Celui-ci prend progressivement en charge la maintenance et l'amélioration continue du service.

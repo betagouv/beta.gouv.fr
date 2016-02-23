@@ -55,6 +55,11 @@ header h1 {
 	background-color: #ffd700;
 }
 
+a.ui.card {
+	text-decoration: none;
+	color: inherit;
+	cursor: pointer;
+}
 
 @media (max-width: 50em) {
 	header {
