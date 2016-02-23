@@ -8,3 +8,5 @@ contact: adresse@data.gouv.fr
 logo: https://pbs.twimg.com/profile_images/665988770509012992/MI6QHh0C.png
 start:
 ---
+
+La Base Adresse Nationale est une base de données qui a pour but de référencer l'intégralité des adresses du territoire français. Son API vous permet d'offrir des formulaires de saisie en auto-completion, de géocoder une adresse ou de reverse-géocoder (quelle est l'adresse de cette latitude/longitude ?), et enfin de poster des demandes de mises à jour.
