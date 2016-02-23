@@ -18,24 +18,40 @@ additional_css: homepage
 </section>
 
 
+<section class="ui vertically divided three columns stackable padded grid">
+
 {% for phase in site.phases.incubation %}
-	<section class="{{ phase[0] }}">
-		<h2 class="ui divider horizontal">{{ phase[1].name }}</h2>
-		<p>{{ phase[1].description }}</p>
+	{% assign startups = site.startups | where:'status',phase[0] %}
+	{% assign startupsCount = startups | size %}
+	{% assign featuredStartup = startups[0] %}
 
-		{% assign startups = site.startups | where:'status',phase[0] %}
-		{% assign startupsCount = startups | size %}
-		{% assign featuredStartup = startups[0] %}
 
-		{% if startupsCount > 0 %}
-			{% include startup.html description=featuredStartup %}
+	<h2 id="{{ phase[0] }}" class="centered row {{ phase[0] }}">
+		{{ phase[1].name | capitalize }}
+	</h2>
 
-			{% if startupsCount > 1 %}
-				<span>…et {{ startupsCount | minus:1 }} autres produits</span>
+	<div class="row {{ phase[0] }}">
+		<div class="column">
+			<h3>On y fait quoi ?</h3>
+			<p>{{ phase[1].description }}</p>
+		</div>
+
+		<div class="column">
+			<h3>Par exemple</h3>
+			{% if startupsCount > 0 %}
+				{% include startup.html description=featuredStartup %}
+			{% else %}
+				<em>Aucun produit actuellement dans cette phase.</em>
 			{% endif %}
-		{% else %}
-			<em>Aucun produit actuellement dans cette phase.</em>
-		{% endif %}
+		</div>
 
-	</section>
+		<ol class="column">
+			<h3>Ou encore…</h3>
+			{% for startup in startups %}
+				<li>{{ startup.title }}</li>
+			{% endfor %}
+		</ol>
+	</div>
 {% endfor %}
+
+</section>
