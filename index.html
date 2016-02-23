@@ -23,9 +23,14 @@ additional_css: homepage
 		<h2 class="ui divider horizontal">{{ phase[1].name }}</h2>
 		<p>{{ phase[1].description }}</p>
 
-		{% assign productsCount = site.startups | where:'status',phase[0] | size %}
-		{% if productsCount > 0 %}
-			<span>{{ productsCount }} produits dans cette phase.</span>
+		{% assign startups = site.startups | where:'status',phase[0] %}
+		{% assign startupsCount = startups | size %}
+		{% assign featuredStartup = startups[0] %}
+
+		{% if startupsCount > 0 %}
+			{% include startup.html description=featuredStartup %}
+
+			<span>…et {{ startupsCount | minus:1 }} autres produits</span>
 		{% endif %}
 
 	</section>
