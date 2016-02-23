@@ -60,6 +60,11 @@ section {
 	list-style-position: inside;
 }
 
+h3 {
+	margin-top: 0;
+}
+
+
 @media (max-width: 50em) {
 	#mission-statement h1 {
 		top: 0;
