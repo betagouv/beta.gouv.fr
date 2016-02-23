@@ -7,7 +7,11 @@ additional_css: homepage
 	<div>
 		<p><span>Votre administration pourrait fournir un meilleur service grâce à un produit numérique ?</span></p>
 		<h1><span>{{ site.description }}</span></h1>
+
+		<a class="ui big orange basic button" href="#why">Découvrez comment&nbsp;&nbsp;⬇︎</a>
+		<a class="ui big teal button" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés&nbsp;&nbsp;➤</a>
 	</div>
+
 </section>
 
 <section id="why">
@@ -29,6 +33,7 @@ additional_css: homepage
 	{% for startup in site.startup %}
 		{% if startup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
 			{% assign featuredStartup = startup %}
+			<!-- {% increment featuredStartupsCount %} {% comment %} HTML-commented because it outputs, but still computed {% endcomment %} -->
 		{% endif %}
 	{% endfor %}
 
@@ -41,7 +46,7 @@ additional_css: homepage
 		<div class="column">
 			<p>{{ phase[1].description }}</p>
 			<p>
-				{{ startupsCount }} produits dans cette phase{% if featuredStartup %}, dont par exemple <em>{{ featuredStartup.title }}</em>{% endif %}.
+				<a href="{{ site.baseurl }}startups">{{ startupsCount }} produits</a> dans cette phase{% if featuredStartup %}, dont par exemple <em>{{ featuredStartup.title }}</em>{% endif %}.
 			</p>
 		</div>
 
@@ -54,5 +59,9 @@ additional_css: homepage
 		</div>
 	</div>
 {% endfor %}
+
+	<div class="row centered column">
+		<a class="ui big orange button" href="{{ site.baseurl }}startups">Explorez nos {{ site.startup | size | minus:featuredStartupsCount }} autres services&nbsp;&nbsp;➤</a>
+	</div>
 
 </section>

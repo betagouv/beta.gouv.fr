@@ -5,6 +5,10 @@ body {
 	background-color: #DDD;
 }
 
+a {
+	color: inherit;
+}
+
 #mission-statement {
 	position: relative;
 	max-width: 100%;
