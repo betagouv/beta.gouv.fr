@@ -18,6 +18,11 @@ Modifier le fichier de description de la startup dans le dossier [`_startups`](h
 [Rechercher le contenu à modifier](https://github.com/sgmap/sgmap.github.io/search?q=contenu+à+modifier&type=Code) et éditer le fichier correspondant.
 
 
+## Modifier les startups mises en avant sur la page d'accueil
+
+Mettre à jour la propriété `featured` de la phase correspondante pour référencer le nom du fichier dans lequel la startup à mettre en avant est décrite dans [`_config.yml`](https://github.com/sgmap/sgmap.github.io/tree/master/_config.yml).
+
+
 ## Modifier la présentation du site
 
 Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est celle [actuellement en production](https://github.com/jekyll/jekyll/issues/4441) sur GitHub Pages.
