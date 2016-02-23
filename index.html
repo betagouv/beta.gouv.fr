@@ -8,17 +8,17 @@ additional_css: homepage
 		<p><span>Votre administration pourrait fournir un meilleur service grâce à un produit numérique ?</span></p>
 		<h1><span>{{ site.description }}</span></h1>
 
-		<a class="ui big orange basic button" href="#why">Découvrez comment&nbsp;&nbsp;⬇︎</a>
+		<a class="ui big orange basic button" href="#methode">Découvrez comment&nbsp;&nbsp;⬇︎</a>
 		<a class="ui big teal button" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés&nbsp;&nbsp;➤</a>
 	</div>
 
 </section>
 
-<section id="why">
+<section id="methode">
 	<h2 class="ui divider horizontal">La méthode Startup d'État</h2>
 
-	{% capture why %}{% include why.md %}{% endcapture %} <!-- http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/ -->
-	{{ why | markdownify }}
+	{% capture method %}{% include method.md %}{% endcapture %} <!-- http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/ -->
+	{{ method | markdownify }}
 </section>
 
 
