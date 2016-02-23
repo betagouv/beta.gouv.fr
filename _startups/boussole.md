@@ -6,6 +6,7 @@ repository:
 status: construction
 contact: boussole@sgmap.fr
 start: 2015-12-01
+owner: GEPVA
 ---
 
 ## Fiche produit
