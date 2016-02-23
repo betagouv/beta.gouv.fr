@@ -17,35 +17,16 @@ additional_css: homepage
 	{{ why | markdownify }}
 </section>
 
-<section id="dashboard">
-	<h2 class="ui divider horizontal">Le parcours d'une Startup d'État</h2>
 
-	<ol class="counter--incubation">
-		{% for phase in site.phases.incubation %}
-			<li class="counter {{ phase[0] }}">
-				<h3>{{ phase[1].name }}</h3>
-				<p>{{ phase[1].description }}</p>
-				<span title="Produits dans cette phase" class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
-			</li>
-		{% endfor %}
+{% for phase in site.phases.incubation %}
+	<section class="{{ phase[0] }}">
+		<h2 class="ui divider horizontal">{{ phase[1].name }}</h2>
+		<p>{{ phase[1].description }}</p>
 
-		<li>
-			<ul class="counter--endgame">
-				{% for phase in site.phases.endgame %}
-					<li class="counter {{ phase[0] }}">
-						<h3 title="{{ phase[1].description }}" class="tooltip counter--name">{{ phase[1].name.plural }}</h3>
-						<span title="Produits dans cette phase" class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
-					</li>
-				{% endfor %}
-			</ul>
-		</li>
-	</ol>
-</section>
+		{% assign productsCount = site.startups | where:'status',phase[0] | size %}
+		{% if productsCount > 0 %}
+			<span>{{ productsCount }} produits dans cette phase.</span>
+		{% endif %}
 
-<section id="startups" class="ui two stackable cards container">
-	<h2 class="ui divider horizontal">Nos Startups d'État</h2>
-
-	{% for startup in site.startups %}
-		{% include startup.html description=startup %}
-	{% endfor %}
-</section>
+	</section>
+{% endfor %}
