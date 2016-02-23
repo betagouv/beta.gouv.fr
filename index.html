@@ -30,7 +30,11 @@ additional_css: homepage
 		{% if startupsCount > 0 %}
 			{% include startup.html description=featuredStartup %}
 
-			<span>…et {{ startupsCount | minus:1 }} autres produits</span>
+			{% if startupsCount > 1 %}
+				<span>…et {{ startupsCount | minus:1 }} autres produits</span>
+			{% endif %}
+		{% else %}
+			<em>Aucun produit actuellement dans cette phase.</em>
 		{% endif %}
 
 	</section>
