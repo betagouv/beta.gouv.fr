@@ -9,14 +9,14 @@ baseurl: "/"
 url: "http://sgmap.github.io"
 
 collections:
-  startups:
+  startup:
     output: true
 
 defaults:
   -
     scope:
       path: ""	# means "all files"
-      type: startups	# targets a collection
+      type: startup	# targets a collection
     values:
       layout: startup
       logo: /img/logo-generique-startup-carre.jpg

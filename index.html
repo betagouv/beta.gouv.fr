@@ -21,12 +21,12 @@ additional_css: homepage
 <section id="phases" class="ui vertically divided two columns stackable padded grid container">
 
 {% for phase in site.phases.incubation %}
-	{% assign startups = site.startups | where:'status',phase[0] %}
+	{% assign startups = site.startup | where:'status',phase[0] %}
 	{% assign startupsCount = startups | size %}
 
 	{% assign featuredStartup = false %}
-	{% capture id %}/startups/{{ phase[1].featured}}{% endcapture %}
-	{% for startup in site.startups %}
+	{% capture id %}/startup/{{ phase[1].featured}}{% endcapture %}
+	{% for startup in site.startup %}
 		{% if startup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
 			{% assign featuredStartup = startup %}
 		{% endif %}
