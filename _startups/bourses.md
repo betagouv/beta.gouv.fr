@@ -5,7 +5,8 @@ domain: bourse.sgmap.fr
 repository: https://github.com/sgmap/bourses/
 status: consolidation
 contact: hela.ghiariani@modernisation.gouv.fr
-start:
+start: 2015-03-01
+owner: SGMAP
 ---
 
 Il n'a jamais été aussi simple de réaliser sa demande de bourse en ligne, et sans justificatifs ! Grâce à Bourse Simplifiée, l'usager n'a plus à fournir de jsutificatifs. Après avoir saisi ses informations, il consent à ce que les personnels en charge dans l'établissement aient accès à son avis d'imposition, et c'est fini ! 
