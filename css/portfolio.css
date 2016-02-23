@@ -27,19 +27,31 @@
 	flex: 1;
 	display: flex;
 	flex-direction: column;
-	justify-content: space-between;
+	justify-content: space-around;
 	align-items: center;
 
 	padding: 1em;
 }
 
-.counter h3 {
+.counter--name, .counter--count {
 	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.counter--name {
+	font-size: 120%;
 }
 
 .counter--count {
 	font-size: 500%;
-	font-weight: bold;
+}
+
+.counter--endgame .counter--count {
+	font-size: 300%;
+}
+
+i {
+	font-size: 80%;
 }
 
 

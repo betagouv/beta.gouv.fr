@@ -1,16 +1,15 @@
 ---
-title: Notre portefeuille
+title: Toute nos Startups d'État
+additional_css: portfolio
 ---
 
 <section id="dashboard">
-	<h2 class="ui divider horizontal">Le parcours d'une Startup d'État</h2>
-
 	<ol class="counter--incubation">
 		{% for phase in site.phases.incubation %}
 			<li class="counter {{ phase[0] }}">
-				<h3>{{ phase[1].name }}</h3>
-				<p>{{ phase[1].description }}</p>
-				<span title="Produits dans cette phase" class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
+				<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
+				<i>startups en</i>
+				<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name }}</span>
 			</li>
 		{% endfor %}
 
@@ -18,8 +17,9 @@ title: Notre portefeuille
 			<ul class="counter--endgame">
 				{% for phase in site.phases.endgame %}
 					<li class="counter {{ phase[0] }}">
-						<h3 title="{{ phase[1].description }}" class="tooltip counter--name">{{ phase[1].name.plural }}</h3>
-						<span title="Produits dans cette phase" class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
+						<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
+
+						<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name.plural }}</span>
 					</li>
 				{% endfor %}
 			</ul>
@@ -27,10 +27,10 @@ title: Notre portefeuille
 	</ol>
 </section>
 
-<section id="startups" class="ui two stackable cards container">
-	<h2 class="ui divider horizontal">Nos Startups d'État</h2>
+<section id="list" class="ui two stackable cards container">
+	<h2 class="ui divider horizontal">Toutes nos Startups d'État</h2>
 
-	{% for startup in site.startups %}
+	{% for startup in site.startup %}
 		{% include startup.html description=startup %}
 	{% endfor %}
 </section>
