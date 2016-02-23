@@ -4,45 +4,55 @@ additional_css: homepage
 
 <section id="mission-statement">
 	<img src="img/header.jpg" alt="" />
-	<h1><span>{{ site.description }}</span></h1>
+	<div>
+		<p><span>Votre administration pourrait fournir un meilleur service grâce à un produit numérique ?</span></p>
+		<h1><span>{{ site.description }}</span></h1>
+	</div>
 </section>
 
 <section id="why">
-	<h2 class="ui divider horizontal">Pourquoi un incubateur dans l'État ?</h2>
+	<h2 class="ui divider horizontal">La méthode Startup d'État</h2>
 
 	{% capture why %}{% include why.md %}{% endcapture %} <!-- http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/ -->
 	{{ why | markdownify }}
 </section>
 
-<section id="dashboard">
-	<h2 class="ui divider horizontal">Le parcours d'une Startup d'État</h2>
 
-	<ol class="counter--incubation">
-		{% for phase in site.phases.incubation %}
-			<li class="counter {{ phase[0] }}">
-				<h3>{{ phase[1].name }}</h3>
-				<p>{{ phase[1].description }}</p>
-				<span title="Produits dans cette phase" class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
-			</li>
-		{% endfor %}
+<section id="phases" class="ui vertically divided two columns stackable padded grid container">
 
-		<li>
-			<ul class="counter--endgame">
-				{% for phase in site.phases.endgame %}
-					<li class="counter {{ phase[0] }}">
-						<h3 title="{{ phase[1].description }}" class="tooltip counter--name">{{ phase[1].name.plural }}</h3>
-						<span title="Produits dans cette phase" class="counter--count">{{ site.startups | where:'status',phase[0] | size }}</span>
-					</li>
-				{% endfor %}
-			</ul>
-		</li>
-	</ol>
-</section>
+{% for phase in site.phases.incubation %}
+	{% assign startups = site.startups | where:'status',phase[0] %}
+	{% assign startupsCount = startups | size %}
 
-<section id="startups" class="ui two stackable cards container">
-	<h2 class="ui divider horizontal">Nos Startups d'État</h2>
-
+	{% assign featuredStartup = false %}
+	{% capture id %}/startups/{{ phase[1].featured}}{% endcapture %}
 	{% for startup in site.startups %}
-		{% include startup.html description=startup %}
+		{% if startup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
+			{% assign featuredStartup = startup %}
+		{% endif %}
 	{% endfor %}
+
+
+	<h2 id="{{ phase[0] }}" class="centered row {{ phase[0] }}">
+		{{ phase[1].name | capitalize }}
+	</h2>
+
+	<div class="row {{ phase[0] }}">
+		<div class="column">
+			<p>{{ phase[1].description }}</p>
+			<p>
+				{{ startupsCount }} produits dans cette phase{% if featuredStartup %}, dont par exemple <em>{{ featuredStartup.title }}</em>{% endif %}.
+			</p>
+		</div>
+
+		<div class="column">
+			{% if featuredStartup %}
+				{% include startup.html description=featuredStartup %}
+			{% else %}
+				<em>Revenez bientôt pour voir des produits dans cette phase !</em>
+			{% endif %}
+		</div>
+	</div>
+{% endfor %}
+
 </section>

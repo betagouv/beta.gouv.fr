@@ -5,5 +5,6 @@ domain: inspire.data.gouv.fr
 repository: https://github.com/sgmap-inspire/
 status: consolidation
 contact: jerome.desboeufs@data.gouv.fr
-start:
+start: 2015-01-01
+owner: SGMAP
 ---
