@@ -7,3 +7,7 @@ status: construction
 contact: embauche@sgmap.fr
 start: 2014-10-01
 ---
+
+Embauche permet l'estimation rapide et précise du coût d'une embauche quelque soit le contexte de l'entreprise et du salarié : salaire, type de contrat de travail (CDD, CDI, interim, indépendant ..), temps partiel, activité, géographie, taille, ... Vous obtiendrez précisément le décompte des cotisations salariales et patronales dans ce contexte. Par exemple, deux requêtes identiques hormis leur lieu d'embauche pourra donner deux résultats différents car le taux du versement transport n'y est pas forcément le même.
+Embauche est disponible au travers d'un site web directement utilisable, en EMBED pour être intégré sur d'autres sites web, et en API.
+
