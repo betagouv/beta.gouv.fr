@@ -5,10 +5,15 @@ domain: mes-aides.gouv.fr
 repository: https://github.com/sgmap/mes-aides-ui
 status: consolidation
 contact: mes-aides@sgmap.fr
-start:
+start: 2014-05-01
+owner: SGMAP
+screenshot: http://www.metronews.fr/_internal/gxml!0/r0dc21o2f3vste5s7ezej9x3a10rp3w$6brd9r1zfbrvb70myu96d46alqv8225/Capture-decran-2014-12-18-a-19.jpeg
 ---
 
-## Stages
+Saisissez la situation de votre foyer, et vous connaîtrez votre éligibilité aux principales prestations sociales : Revenu de Solidarité Active (RSA) socle et activité, Allocation Spécifique de Solidarité (ASS), Couverture Médicale Universelle (CMU), Aide Complémentaire Santé (ACS), Allocation de Solidarité aux Personnes âgées (ASPA), Allocation Familiales (Allocation Soutien Familial, Complément Familial), et Allocations Logement (Allocation Logement Social, Allocation Logement Familial, Aide Personnalisée au Logement). Mes-aides intègre progressivement toutes les aides extra-légales distribuées par les collectivités.
+
+
+## Mes-aides recrute !
 
 Nous sommes prêts à accueillir des stagiaires sur les sujets suivants :
 
