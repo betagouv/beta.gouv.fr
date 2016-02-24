@@ -5,9 +5,12 @@ body {
 	margin: auto;
 }
 
+a {
+	color: inherit;
+}
+
 body > a {
 	text-decoration: none;
-	color: inherit;
 }
 
 header {

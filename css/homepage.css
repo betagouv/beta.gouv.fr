@@ -43,7 +43,7 @@ section {
 	padding-bottom: 2em;
 }
 
-#why {
+#methode {
 	padding: 1em;
 	font-size: 130%;
 
@@ -51,12 +51,12 @@ section {
 	background-color: #FEFEFE;
 }
 
-#why * {
+#methode * {
 	max-width: 60rem;
 	margin: 1em auto;
 }
 
-#why ol {
+#methode ol {
 	list-style-position: inside;
 }
 
@@ -71,7 +71,7 @@ section {
 		width: 100%;
 	}
 
-	#mission-statement h1 span, #why {
+	#mission-statement h1 span, #methode {
 		font-size: 90%;
 	}
 }
