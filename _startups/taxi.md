@@ -11,15 +11,21 @@ owner: Ministère de l'Intérieur
 screenshot: http://static.lexpress.fr/medias_10641/w_1206,h_674,c_crop,x_0,y_10/w_1520,h_855,c_fill,g_north/v1445267305/les-taxis-ont-desormais-leur-appli-de-geolocalisation-pour-contrer-uber_5448509.jpg
 ---
 
-Le Taxi, c'est plus de 50.000 chauffeurs en France, partout sur le territoire, de la plus petite commune à la plus grande métropole
+Le Taxi, c'est plus de 50.000 chauffeurs en France, partout sur le territoire, de la plus petite commune à la plus grande métropole.
 
-DISPONIBILITÉ
+Disponibilité
+-------------
+
 Le Taxi c'est la garantie de commander immédiatement un véhicule au plus près, quel que soit le lieu, le jour ou l'heure.
 
-QUALITÉ
+Qualité
+-------
+
 Le Taxi, c'est une exigence de qualité renforcée, car ce sont désormais les usagers qui participent à l'évaluation permanente du service.
 
-SÉCURITÉ
+Sécurité
+--------
+
 Le Taxi c'est la garantie d'un chauffeur professionnel et d'applications agréées respectueuses de la vie privée.
 
 Sur son smartphone, le client utilise n'importe quelle application agréée pour héler un taxi au plus près, partout en France, 24h/24. Le chauffeur de taxi qui a décidé d'être visible et qui est dans sa zone de prise charge utilise ses outils habituels (terminal embarqué ou application mobile) pour confirmer la course. Le client paie sa course directement au chauffeur, en liquide ou par carte bancaire. Le client peut évaluer la course.
