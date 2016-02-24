@@ -7,28 +7,33 @@ additional_css: homepage
 	<div>
 		<p><span>Votre administration pourrait fournir un meilleur service grâce à un produit numérique ?</span></p>
 		<h1><span>{{ site.description }}</span></h1>
+
+		<a class="ui big orange basic button" href="#methode">Découvrez comment&nbsp;&nbsp;⬇︎</a>
+		<a class="ui big teal button" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés&nbsp;&nbsp;➤</a>
 	</div>
+
 </section>
 
-<section id="why">
+<section id="methode">
 	<h2 class="ui divider horizontal">La méthode Startup d'État</h2>
 
-	{% capture why %}{% include why.md %}{% endcapture %} <!-- http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/ -->
-	{{ why | markdownify }}
+	{% capture method %}{% include method.md %}{% endcapture %} <!-- http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/ -->
+	{{ method | markdownify }}
 </section>
 
 
 <section id="phases" class="ui vertically divided two columns stackable padded grid container">
 
 {% for phase in site.phases.incubation %}
-	{% assign startups = site.startups | where:'status',phase[0] %}
+	{% assign startups = site.startup | where:'status',phase[0] %}
 	{% assign startupsCount = startups | size %}
 
 	{% assign featuredStartup = false %}
-	{% capture id %}/startups/{{ phase[1].featured}}{% endcapture %}
-	{% for startup in site.startups %}
+	{% capture id %}/startup/{{ phase[1].featured}}{% endcapture %}
+	{% for startup in site.startup %}
 		{% if startup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
 			{% assign featuredStartup = startup %}
+			<!-- {% increment featuredStartupsCount %} {% comment %} HTML-commented because it outputs, but still computed {% endcomment %} -->
 		{% endif %}
 	{% endfor %}
 
@@ -41,7 +46,7 @@ additional_css: homepage
 		<div class="column">
 			<p>{{ phase[1].description }}</p>
 			<p>
-				{{ startupsCount }} produits dans cette phase{% if featuredStartup %}, dont par exemple <em>{{ featuredStartup.title }}</em>{% endif %}.
+				<a href="{{ site.baseurl }}startups">{{ startupsCount }} produits</a> dans cette phase{% if featuredStartup %}, dont par exemple <em>{{ featuredStartup.title }}</em>{% endif %}.
 			</p>
 		</div>
 
@@ -54,5 +59,9 @@ additional_css: homepage
 		</div>
 	</div>
 {% endfor %}
+
+	<div class="row centered column">
+		<a class="ui big orange button" href="{{ site.baseurl }}startups">Explorez nos {{ site.startup | size | minus:featuredStartupsCount }} autres services&nbsp;&nbsp;➤</a>
+	</div>
 
 </section>

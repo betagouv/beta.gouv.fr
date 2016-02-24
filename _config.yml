@@ -9,17 +9,17 @@ baseurl: "/"
 url: "http://sgmap.github.io"
 
 collections:
-  startups:
+  startup:
     output: true
 
 defaults:
   -
     scope:
       path: ""	# means "all files"
-      type: startups	# targets a collection
+      type: startup	# targets a collection
     values:
       layout: startup
-      logo: img/logo-generique-startup-carre.jpg
+      logo: /img/logo-generique-startup-carre.jpg
   -
     scope:
       path: ""  # means "all files"
@@ -46,18 +46,18 @@ phases:
   endgame:
     success:
       name:
-        singular: repris
-        plural: repris
+        singular: reprise
+        plural: reprises
       description: Le service est opéré de manière pérenne par son repreneur institutionnel.
     retirement:
       name:
-        singular: fermé
-        plural: fermés
+        singular: fermée
+        plural: fermées
       description: Le service a été rendu obsolète par des évolutions techniques, règlementaires ou d’usage. Il a été fermé en lien avec les partenaires, les usagers et son éventuel successeur.
     death:
       name:
-        singular: abandonné
-        plural: abandonnés
+        singular: abandonnée
+        plural: abandonnées
       description: Le service a été abandonné en cours de construction. L'abandon est expliqué pour capitaliser sur l'expérience accumulée.
 
 # Build settings
