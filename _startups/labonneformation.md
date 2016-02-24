@@ -11,4 +11,4 @@ owner: Pôle Emploi
 screenshot :
 ---
 
-Recherchez une formation efficace pour le retour à l'emploi. Les formations sont disponibles sur la France entière et triés par Taux de Retour à l'Emploi dans les 12 mois. Le moteur liste également les financements disponibles selon le contexte du demandeur (apprentissage, chômage, insertion, compte personnel formation ...).
+Recherchez une formation efficace pour le retour à l'emploi. Les formations sont disponibles sur la France entière et triés par Taux de Retour à l'Emploi dans les 12 mois. Le moteur liste également les financements disponibles selon le contexte du demandeur (apprentissage, chômage, insertion, compte personnel formation…).
