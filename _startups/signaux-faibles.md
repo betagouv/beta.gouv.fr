@@ -6,6 +6,7 @@ repository:
 status: investigation
 contact: pierre@pezziardi.net
 start: 2014-05-15  # date au format ISO (AAAA-MM-DD)
+owner: SGMAP
 ---
 
 ## Fiche produit
