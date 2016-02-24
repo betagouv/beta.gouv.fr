@@ -1,3 +1,7 @@
+.ui.card .extra.content {
+	font-size: 80%;
+}
+
 .ui.card.investigation {
 	box-shadow: 0 0 .2em .1em #1b91a3;
 }
