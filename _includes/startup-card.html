@@ -4,7 +4,11 @@
 
 		<div class="header">{{ include.description.title }}</div>
 		<div class="meta">
+			{% if include.description.owner %}
 			{{ include.description.owner }}
+			{% else %}
+			{% include missing-owner %} {% comment %} poor man's validation ;) {% endcomment %}
+			{% endif %}
 		</div>
 
 		<div class="description">
