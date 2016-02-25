@@ -8,7 +8,7 @@ layout: default
 
 <ul>
 	<li>Le porteur administratif est {{ page.owner }}.</li>
-	<li>Le produit
+	<li>Le produit est en <em>{{ page.status}}</em>, il
 		{%if page.domain %}
 			est disponible sur <a href="http://{{ page.domain }}" title="{{ page.title }}">{{ page.domain }}</a>.
 		{% else %}
