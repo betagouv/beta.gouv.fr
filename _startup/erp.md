@@ -4,7 +4,7 @@ mission: Référencer les établissements recevant du public pour en simplifier 
 domain: erp.ign.fr
 repository: https://github.com/sgmap/erp
 status: construction
-contact: embauche@sgmap.fr
+contact:
 logo:
 start:
 ---
