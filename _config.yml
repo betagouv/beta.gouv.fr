@@ -2,7 +2,7 @@
 # If you change this file, please restart the server process.
 
 # Site settings
-title: Incubateur de Services Numériques de l'État
+title: beta.gouv.fr
 email: incubateur@sgmap.fr
 description: Nous créons des services publics numériques
 baseurl: "/"
