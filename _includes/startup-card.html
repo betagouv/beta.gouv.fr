@@ -1,10 +1,10 @@
-<a class="ui fluid card" href="{{ include.description.url }}">
+<a class="ui fluid {{ include.description.status }} card" href="{{ include.description.url }}">
 	<div class="content">
 		<img class="right floated mini ui image" src="{{ include.description.logo }}" alt="{{ include.description.title }}"/>
 
 		<div class="header">{{ include.description.title }}</div>
 		<div class="meta">
-			{% include product-status.html status=include.description.status %}
+			{% include owner.html owner=include.description.owner %}
 		</div>
 
 		<div class="description">

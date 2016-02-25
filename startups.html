@@ -36,6 +36,6 @@ additional_css: portfolio
 	<h2 class="ui divider horizontal">Toutes nos Startups d'État</h2>
 
 	{% for startup in site.startup %}
-		{% include startup.html description=startup %}
+		{% include startup-card.html description=startup %}
 	{% endfor %}
 </section>
