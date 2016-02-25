@@ -25,7 +25,8 @@ header {
 
 header img {
 	float: right;
-	height: 85%;
+	margin-top: .1em;
+	height: 80%;
 	margin-right: .4em;
 }
 

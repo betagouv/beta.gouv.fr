@@ -6,7 +6,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.1"
-   width="330"
+   width="310"
    height="60">
 
   <metadata>
@@ -27,8 +27,8 @@
       x="0"
       y="50"
       style="font-weight: bold; font-family:'Panic Sans', Monaco, monospace;">
-      beta.gouv<tspan
-        style="font-weight: normal; font-style: italic; font-size: 56.25px; font-family: 'Times New Roman';">.fr
+      beta<tspan
+        style="font-weight: normal; font-style: italic; font-size: 56.25px; font-family: 'Times New Roman';">.gouv.fr
       </tspan>
     </tspan>
   </text>
