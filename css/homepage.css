@@ -17,7 +17,7 @@ body {
 
 #mission-statement div {
 	position: absolute;
-	top: 20%;
+	top: 10%;
 	left: 5%;
 	width: 70%;
 	margin: 0;
@@ -58,6 +58,7 @@ section {
 
 #methode ol {
 	list-style-position: inside;
+	padding-left: 0;
 }
 
 #phases {
@@ -65,13 +66,17 @@ section {
 }
 
 @media (max-width: 50em) {
-	#mission-statement h1 {
-		top: 0;
+	#mission-statement div {
+		top: -12em;
+		margin-bottom: -12em;
 		left: 0;
 		width: 100%;
+		position: relative;
+		text-align: center;
+		font-size: 80%;
 	}
 
-	#mission-statement h1 span, #methode {
-		font-size: 90%;
+	#methode {
+		font-size: 110%;
 	}
 }
