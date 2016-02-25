@@ -39,6 +39,16 @@ jekyll serve
 Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `_layouts` et `css`.
 
 
+## Modifier le logo
+
+La source du logo est dans le répertoire `_sources`. Il s'agit d'un SVG contenant du texte. Pour le rendre accessible à tous les utilisateurs, il importe de le transformer en un SVG contenant des `path`.
+
+Cela peut être fait à la ligne de commande avec [Inkscape](https://inkscape.org/fr/) :
+
+```shell
+inkscape --export-text-to-path $path_to_repo/_sources/logo.svg -l $path_to_repo/img/logo.svg
+```
+
 ## Déployer
 
 Ce site est déployé en continu avec [Github Pages](https://pages.github.com).
