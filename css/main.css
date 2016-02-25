@@ -20,14 +20,13 @@ header {
 	background-position: .8em;
 	background-color: #FEFEFE;
 	color: #555;
+	height: 2.4em;
 }
 
-header h1 {
-	font-size: 100%;
-	font-weight: normal;
-	text-align: right;
-	padding: .8em;
-	margin: 0;
+header img {
+	float: right;
+	height: 85%;
+	margin-right: .4em;
 }
 
 .investigation {
