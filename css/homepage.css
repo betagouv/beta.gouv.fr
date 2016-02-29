@@ -9,22 +9,40 @@ body {
 	position: relative;
 	max-width: 100%;
 	min-height: 30em;
-	padding-top: 8em;
 	background-image: url('/img/header.jpg');
 	background-size: cover;
+	background-position: center;
+	padding: 0;
 }
 
-#mission-statement>div {
-	padding: 1em 2em;
-	max-width: 70%;
+#mission-statement > .wrapper {
+	color: white;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+
+.ui.button {
+	font-weight: 400;
+}
+
+#mission-statement > .wrapper > div {
+	width: 60%;
+	padding-top: 7em;
+	min-height: 30em;
 	line-height: 1.8em;
 	letter-spacing: .05em;
-	color: black;
-	background-color: rgba(255, 255, 255, 0.77);
+	margin: auto;
 }
 
-#mission-statement>div p {
+#mission-statement > .wrapper > div > p {
 	margin-bottom: 0;
+	margin-bottom: 1em;
+	font-weight: 600;
+}
+
+#mission-statement > .wrapper > div > h1 {
+	line-height: 1em;
+	font-size: 3em;
+	margin-top: 0;
 }
 
 .links {
