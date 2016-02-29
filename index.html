@@ -3,15 +3,15 @@ additional_css: homepage
 ---
 
 <section id="mission-statement">
-	<img src="img/header.jpg" alt="" />
 	<div>
-		<p><span>Votre administration pourrait fournir un meilleur service grâce à un produit numérique ?</span></p>
-		<h1><span>{{ site.description }}</span></h1>
+		<p>Votre administration pourrait fournir un meilleur service grâce à un produit numérique&nbsp;?</p>
+		<h1>{{ site.description }}</h1>
 
-		<a class="ui big orange basic button" href="#methode">Découvrez comment&nbsp;&nbsp;⬇︎</a>
-		<a class="ui big teal button" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés&nbsp;&nbsp;➤</a>
+		<div class="links">
+			<a href="#methode">Découvrez comment</a>
+			<a class="ui big teal button" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés</a>
+		</div>
 	</div>
-
 </section>
 
 <section id="methode">

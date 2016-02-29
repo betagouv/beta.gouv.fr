@@ -8,31 +8,41 @@ body {
 #mission-statement {
 	position: relative;
 	max-width: 100%;
-	padding: 0;
+	min-height: 30em;
+	padding-top: 8em;
+	background-image: url('/img/header.jpg');
+	background-size: cover;
 }
 
-#mission-statement img {
-	width: 100%;
-}
-
-#mission-statement div {
-	position: absolute;
-	top: 10%;
-	left: 5%;
-	width: 70%;
-	margin: 0;
-}
-
-#mission-statement span {
-	padding: .2em 0;
-
-	font-size: 150%;
-	line-height: 1.8;
+#mission-statement>div {
+	padding: 1em 2em;
+	max-width: 70%;
+	line-height: 1.8em;
 	letter-spacing: .05em;
+	color: black;
+	background-color: rgba(255, 255, 255, 0.77);
+}
 
+#mission-statement>div p {
+	margin-bottom: 0;
+}
+
+.links {
+	text-align: right;
+	margin-top: 3em;
+}
+
+.links > a {
+	padding: 10px;
+	text-decoration: none;
+}
+
+.links > a:hover, a:focus {
+	text-decoration: underline;
+}
+
+#mission-statement h1 {
 	text-transform: uppercase;
-	color: #444;
-	background-color: rgba(255, 255, 255, .6);
 }
 
 #mission-statement + section {
@@ -63,20 +73,4 @@ section {
 
 #phases {
 	color: #FEFEFE;
-}
-
-@media (max-width: 50em) {
-	#mission-statement div {
-		top: -12em;
-		margin-bottom: -12em;
-		left: 0;
-		width: 100%;
-		position: relative;
-		text-align: center;
-		font-size: 80%;
-	}
-
-	#methode {
-		font-size: 110%;
-	}
 }
