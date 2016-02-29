@@ -5,7 +5,7 @@
 title: beta.gouv.fr
 email: incubateur@sgmap.fr
 description: Nous créons des services publics numériques
-baseurl: "/"
+baseurl: /
 url: https://beta.gouv.fr
 
 collections:
