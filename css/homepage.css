@@ -90,11 +90,22 @@ body {
 	#mission-statement > .wrapper {
 		padding: 2em;
 	}
+
+	.links a {
+		text-align: center;
+		display: inline-block;
+		margin: 0;
+		padding: .5em;
+	}
 }
 
 @media (max-width: 34em) {
 	#mission-statement > .wrapper {
 		padding: 1em 0;
 	}
-}
 
+	.links a {
+		display: block;
+		padding: .75em;
+	}
+}
