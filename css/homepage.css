@@ -13,41 +13,35 @@ body {
 	background-size: cover;
 	background-position: center;
 	padding: 0;
+	color: white;
 }
 
 #mission-statement > .wrapper {
-	color: white;
 	background-color: rgba(0, 0, 0, 0.4);
+	height: 100%;
+	width: 100%;
+	padding: 7em;
+	letter-spacing: .05em;
+	line-height: 1.8;
 }
 
 .ui.button {
 	font-weight: 400;
 }
 
-#mission-statement > .wrapper > div {
-	width: 60%;
-	padding-top: 7em;
-	min-height: 30em;
-	line-height: 1.8em;
-	letter-spacing: .05em;
-	margin: auto;
+#mission-statement p {
+	font-weight: bold;
 }
 
-#mission-statement > .wrapper > div > p {
-	margin-bottom: 0;
-	margin-bottom: 1em;
-	font-weight: 600;
-}
-
-#mission-statement > .wrapper > div > h1 {
-	line-height: 1em;
-	font-size: 3em;
+#mission-statement h1 {
+	text-transform: uppercase;
+	line-height: 1;
+	font-size: 300%;
 	margin-top: 0;
 }
 
 .links {
 	text-align: right;
-	margin-top: 3em;
 }
 
 .links > a {
@@ -57,10 +51,6 @@ body {
 
 .links > a:hover, a:focus {
 	text-decoration: underline;
-}
-
-#mission-statement h1 {
-	text-transform: uppercase;
 }
 
 #mission-statement + section {
