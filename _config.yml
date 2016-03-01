@@ -5,8 +5,8 @@
 title: beta.gouv.fr
 email: incubateur@sgmap.fr
 description: Nous créons des services publics numériques
-baseurl: "/"
-url: "http://sgmap.github.io"
+baseurl: /
+url: https://beta.gouv.fr
 
 collections:
   startup:
@@ -59,6 +59,3 @@ phases:
         singular: abandonnée
         plural: abandonnées
       description: Le service a été abandonné en cours de construction. L'abandon est expliqué pour capitaliser sur l'expérience accumulée.
-
-# Build settings
-markdown: kramdown
