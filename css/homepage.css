@@ -43,6 +43,7 @@ body {
 	padding: .75em;
 	margin: .75em;
 	text-decoration: none;
+	transition: box-shadow .5s;
 }
 
 .links a:last-child {
@@ -52,7 +53,8 @@ body {
 }
 
 .links a:hover, .links a:focus {
-	text-decoration: underline;
+	box-shadow: 0 0 .3em .1em #1b91a3;
+	transition: box-shadow .1s;
 }
 
 #methode {
