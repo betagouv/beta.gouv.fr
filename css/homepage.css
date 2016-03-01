@@ -23,10 +23,6 @@ body {
 	letter-spacing: .05em;
 }
 
-.ui.button {
-	font-weight: 400;
-}
-
 #mission-statement p {
 	font-weight: bold;
 }
@@ -41,6 +37,10 @@ body {
 
 .links {
 	text-align: right;
+}
+
+.links .ui.button {
+	font-weight: normal;
 }
 
 .links > a {
