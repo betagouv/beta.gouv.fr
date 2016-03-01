@@ -8,7 +8,6 @@ body {
 #mission-statement {
 	position: relative;
 	max-width: 100%;
-	min-height: 30em;
 	background-image: url('/img/header.jpg');
 	background-size: cover;
 	background-position: center;
@@ -22,7 +21,6 @@ body {
 	width: 100%;
 	padding: 7em;
 	letter-spacing: .05em;
-	line-height: 1.8;
 }
 
 .ui.button {
@@ -37,6 +35,7 @@ body {
 	text-transform: uppercase;
 	line-height: 1;
 	font-size: 300%;
+	max-width: 20em;
 	margin-top: 0;
 }
 
@@ -45,7 +44,7 @@ body {
 }
 
 .links > a {
-	padding: 10px;
+	padding: 1em;
 	text-decoration: none;
 }
 
@@ -82,3 +81,23 @@ section {
 #phases {
 	color: #FEFEFE;
 }
+
+@media (min-width: 100em) {
+	#mission-statement > .wrapper {
+		font-size: 120%;
+		padding: 14em;
+	}
+}
+
+@media (max-width: 50em) {
+	#mission-statement > .wrapper {
+		padding: 2em;
+	}
+}
+
+@media (max-width: 34em) {
+	#mission-statement > .wrapper {
+		padding: 1em 0;
+	}
+}
+
