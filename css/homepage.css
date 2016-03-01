@@ -39,13 +39,16 @@ body {
 	text-align: right;
 }
 
-.links .ui.button {
-	font-weight: normal;
+.links a {
+	padding: .75em;
+	margin: .75em;
+	text-decoration: none;
 }
 
-.links a {
-	padding: 1em;
-	text-decoration: none;
+.links a:last-child {
+	background-color: #1b91a3;
+	font-size: 130%;
+	font-weight: bold;
 }
 
 .links a:hover, .links a:focus {
