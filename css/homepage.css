@@ -52,14 +52,6 @@ body {
 	text-decoration: underline;
 }
 
-#mission-statement + section {
-	margin-top: -5px;  /* container above leaks 3~4 pixels in, no idea why */
-}
-
-section {
-	padding-bottom: 2em;
-}
-
 #methode {
 	padding: 1em;
 	font-size: 130%;
