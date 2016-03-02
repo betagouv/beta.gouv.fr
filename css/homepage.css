@@ -10,17 +10,9 @@ body {
 	max-width: 100%;
 	background-image: url('/img/header.jpg');
 	background-size: cover;
-	background-position: center;
-	padding: 0;
-	color: white;
-}
-
-#mission-statement > .wrapper {
-	background-color: black;
-	background-color: rgba(0, 0, 0, 0.4);
-	height: 100%;
-	width: 100%;
+	background-position: center right;
 	padding: 7em;
+	color: white;
 	letter-spacing: .05em;
 }
 
@@ -81,14 +73,14 @@ body {
 }
 
 @media (min-width: 100em) {
-	#mission-statement > .wrapper {
+	#mission-statement {
 		font-size: 120%;
 		padding: 14em;
 	}
 }
 
 @media (max-width: 50em) {
-	#mission-statement > .wrapper {
+	#mission-statement {
 		padding: 2em;
 	}
 
@@ -101,12 +93,24 @@ body {
 }
 
 @media (max-width: 34em) {
-	#mission-statement > .wrapper {
+	#mission-statement {
 		padding: 1em 0;
 	}
 
 	.links a {
 		display: block;
 		padding: .75em;
+	}
+}
+
+@media (min-width: 1368px) {
+	#mission-statement {
+		background-image: url('/img/header@2x.jpg');
+	}
+}
+
+@media (min-width: 2736px) {
+	#mission-statement {
+		background-image: url('/img/header@4x.jpg');
 	}
 }
