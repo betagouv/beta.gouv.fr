@@ -8,39 +8,46 @@ body {
 #mission-statement {
 	position: relative;
 	max-width: 100%;
-	padding: 0;
-}
-
-#mission-statement img {
-	width: 100%;
-}
-
-#mission-statement div {
-	position: absolute;
-	top: 10%;
-	left: 5%;
-	width: 70%;
-	margin: 0;
-}
-
-#mission-statement span {
-	padding: .2em 0;
-
-	font-size: 150%;
-	line-height: 1.8;
+	background-image: url('/img/header.jpg');
+	background-size: cover;
+	background-position: center right;
+	padding: 7em;
+	color: white;
 	letter-spacing: .05em;
+}
 
+#mission-statement p {
+	font-weight: bold;
+}
+
+#mission-statement h1 {
 	text-transform: uppercase;
-	color: #444;
-	background-color: rgba(255, 255, 255, .6);
+	line-height: 1;
+	font-size: 300%;
+	max-width: 20em;
+	margin-top: 0;
 }
 
-#mission-statement + section {
-	margin-top: -5px;  /* container above leaks 3~4 pixels in, no idea why */
+.links {
+	text-align: right;
 }
 
-section {
-	padding-bottom: 2em;
+.links a {
+	padding: .75em;
+	margin: .75em;
+	text-decoration: none;
+	transition: box-shadow .5s;
+}
+
+.links a:last-child {
+	background-color: #1b91a3;
+	font-size: 130%;
+	font-weight: bold;
+}
+
+.links a:hover, .links a:focus {
+	box-shadow: 0 0 .3em .1em #1b91a3;
+	transition: box-shadow .1s;
 }
 
 #methode {
@@ -65,18 +72,45 @@ section {
 	color: #FEFEFE;
 }
 
+@media (min-width: 100em) {
+	#mission-statement {
+		font-size: 120%;
+		padding: 14em;
+	}
+}
+
 @media (max-width: 50em) {
-	#mission-statement div {
-		top: -12em;
-		margin-bottom: -12em;
-		left: 0;
-		width: 100%;
-		position: relative;
-		text-align: center;
-		font-size: 80%;
+	#mission-statement {
+		padding: 2em;
 	}
 
-	#methode {
-		font-size: 110%;
+	.links a {
+		text-align: center;
+		display: inline-block;
+		margin: 0;
+		padding: .5em;
+	}
+}
+
+@media (max-width: 34em) {
+	#mission-statement {
+		padding: 1em 0;
+	}
+
+	.links a {
+		display: block;
+		padding: .75em;
+	}
+}
+
+@media (min-width: 1368px) {
+	#mission-statement {
+		background-image: url('/img/header@2x.jpg');
+	}
+}
+
+@media (min-width: 2736px) {
+	#mission-statement {
+		background-image: url('/img/header@4x.jpg');
 	}
 }
