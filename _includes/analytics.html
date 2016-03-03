@@ -1,12 +1,13 @@
 <script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.beta.gouv.fr","*.sgmap.github.io"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
 (function() {
-  var _paq = _paq || [];
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  var u='//stats.data.gouv.fr/';
-  _paq.push(['setTrackerUrl',u+'piwik.php']);
-  _paq.push(['setSiteId',21]);
-  var d=document,g=d.createElement('script'),s=d.getElementsByTagName('script')[0];
+  var u="//stats.data.gouv.fr/";
+  _paq.push(['setTrackerUrl', u+'piwik.php']);
+  _paq.push(['setSiteId', 21]);
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
   g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
 })();
 </script>
