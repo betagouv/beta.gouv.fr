@@ -1,15 +1,22 @@
+html {
+	height: 100%;
+}
+
 body {
+	min-height: 100%;
+	position: relative;
+	padding: 0;
+	padding-bottom: 5rem; /** footer height **/
+
 	font-family: "Century Gothic", "Open Sans", "Gilles Sans", "Arial", "Helvetica Neue", sans-serif;
-	background-color: #EEE;
-	max-width: 60rem;
-	margin: auto;
+	background-color: #F1F1F1;
 }
 
 a {
 	color: inherit;
 }
 
-body > a {
+body > a, footer a {
 	text-decoration: none;
 }
 
@@ -28,6 +35,19 @@ header img {
 	margin-top: .1em;
 	height: 80%;
 	margin-right: .8em;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	font-size: 70%;
+	padding: 1em;
+
+	text-align: center;
+	background-color: #333;
+	color: #EEE;
 }
 
 .investigation {
