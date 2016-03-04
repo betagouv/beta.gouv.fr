@@ -8,6 +8,10 @@ layout: default
 
 	<h2>{{ page.mission }}</h2>
 
+	{% if page.screenshot %}
+		<img class="screenshot" src="{{ page.screenshot }}" alt="Interface de {{ page.title }}" />
+	{% endif %}
+
 	<ul>
 		<li>Le porteur administratif est {{ page.owner }}.</li>
 		<li>Le produit est en <em>{{ page.status}}</em>, il
