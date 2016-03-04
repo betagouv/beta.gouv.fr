@@ -32,20 +32,22 @@ body {
 	text-align: right;
 }
 
-.links a {
+a.cta {
 	padding: .75em;
 	margin: .75em;
+
 	text-decoration: none;
 	transition: box-shadow .5s;
 }
 
-.links a:last-child {
-	background-color: #1b91a3;
+a.primary.cta {
 	font-size: 130%;
+
+	background-color: #1b91a3;
 	font-weight: bold;
 }
 
-.links a:hover, .links a:focus {
+a.cta:hover, a.cta:focus {
 	box-shadow: 0 0 .3em .1em #1b91a3;
 	transition: box-shadow .1s;
 }
@@ -99,7 +101,6 @@ body {
 
 	.links a {
 		display: block;
-		padding: .75em;
 	}
 }
 

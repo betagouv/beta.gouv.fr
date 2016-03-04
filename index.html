@@ -7,8 +7,8 @@ additional_css: homepage
 	<h1>{{ site.description }}</h1>
 
 	<div class="links">
-		<a href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés</a>
-		<a href="#methode">Découvrez comment</a>
+		<a class="cta" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés</a>
+		<a class="primary cta" href="#methode">Découvrez comment</a>
 	</div>
 </section>
 
@@ -59,7 +59,7 @@ additional_css: homepage
 {% endfor %}
 
 	<div class="row centered column">
-		<a class="ui big orange button" href="{{ site.baseurl }}startups">Explorez nos {{ site.startup | size | minus:featuredStartupsCount }} autres services&nbsp;&nbsp;➤</a>
+		<a class="primary cta" href="{{ site.baseurl }}startups">Explorez nos {{ site.startup | size | minus:featuredStartupsCount }} autres services&nbsp;&nbsp;➤</a>
 	</div>
 
 </section>
