@@ -9,7 +9,9 @@ layout: default
 	<h2>{{ page.mission }}</h2>
 
 	{% if page.screenshot %}
-		<img class="screenshot" src="{{ page.screenshot }}" alt="Interface de {{ page.title }}" />
+		{%if page.domain %}<a target="_blank" href="http://{{ page.domain }}">{% endif %}
+			<img class="screenshot" src="{{ page.screenshot }}" alt="Interface de {{ page.title }}" />
+		{%if page.domain %}</a>{% endif %}
 	{% endif %}
 
 	<ul>
