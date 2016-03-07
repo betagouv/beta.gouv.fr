@@ -5,7 +5,7 @@ domain: adresse.data.gouv.fr
 repository: http://adresse.data.gouv.fr/foss/
 status: construction
 contact: adresse@data.gouv.fr
-logo: https://pbs.twimg.com/profile_images/665988770509012992/MI6QHh0C.png
+logo:  https://adresse.data.gouv.fr/static/img/BAN.png
 start: 2014-06-01
 owner: Étalab
 screenshot: http://www.linformaticien.com/Portals/0/2015/Avril/Capture%20d%E2%80%99e%CC%81cran%202015-04-17%20a%CC%80%2011.56.11.png
