@@ -6,7 +6,7 @@ repository: https://github.com/sgmap/cout-embauche
 status: construction
 contact: embauche@sgmap.fr
 start: 2014-10-01
-owner: DINSIC
+owner: SGMAP
 screenshot: http://embauche.sgmap.fr/img/simulateur-statique.gif
 ---
 
