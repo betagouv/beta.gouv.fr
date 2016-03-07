@@ -6,7 +6,7 @@ repository: https://github.com/sgmap/mas
 status: construction
 contact:
 start: 2016-01-25
-owner: DINSIC
+owner: SGMAP
 screenshot:
 ---
 
