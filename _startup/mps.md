@@ -7,7 +7,7 @@ status: consolidation
 contact: philippe.vrignaud@modernisation.gouv.fr
 logo: https://mps.apientreprise.fr/assets/logo-mps-transparant-d4c5ab6d79dd48de3b146e4c585060e4.png
 start: 2014-01-01
-owner: DINSIC
+owner: SGMAP
 screenshot: http://www.modernisation.gouv.fr/sites/default/files/styles/diaporama-visuel_w700_h310/public/thematique/mps_une.jpg?itok=T_Nmstx6
 ---
 
