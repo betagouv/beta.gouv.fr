@@ -10,7 +10,7 @@ Le site public de l'Incubateur de Services Numériques de l'État français.
 3. **Grand public** pour faire connaître la mission.
 
 
-## Tu es incubé·e ? [Ajoute ta startup](https://github.com/sgmap/sgmap.github.io/blob/master/CONTRIBUTING.md) !
+## Tu es incubé·e ? [Ajoute ta startup](https://github.com/sgmap/beta.gouv.fr/blob/gh-pages/CONTRIBUTING.md) !
 
 
 ## `beta.gouv.fr`
