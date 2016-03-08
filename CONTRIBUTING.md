@@ -51,6 +51,8 @@ inkscape --export-text-to-path $path_to_repo/_sources/logo.svg -l $path_to_repo/
 
 ## Déployer
 
-Ce site est déployé en continu avec [Github Pages](https://pages.github.com).
+Ce site est déployé en continu avec [Github Pages](https://pages.github.com). La branche principale, qui reflète la production, est donc `gh-pages`.
 
 Pousser sur `gh-pages`, c’est partager avec le monde… ce qui signifie donc qu'il faut être très prudent avec ce pouvoir et privilégier l'usage de [pull requests](https://guides.github.com/introduction/flow/) :wink:
+
+C'est pourquoi la branche `gh-pages` est [protégée](https://help.github.com/articles/about-protected-branches/) : il est impossible de mettre en production sans que les [tests automatisés](http://circleci.com/gh/sgmap/beta.gouv.fr/207) n'aient validé que le site pouvait être généré correctement.
