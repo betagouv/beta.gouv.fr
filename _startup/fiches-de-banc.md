@@ -6,7 +6,7 @@ repository: https://github.com/sgmap/fiches-de-banc
 status: consolidation
 contact: matti.schneider@data.gouv.fr
 start: 2015-01-12
-owner: DINSIC
+owner: SGMAP
 screenshot: 
 ---
 
