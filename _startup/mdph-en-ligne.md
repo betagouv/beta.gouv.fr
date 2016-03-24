@@ -4,7 +4,7 @@ mission: 'Personnes en situation de handicap : d√©poser un dossier de demande d‚
 domain: impact.sgmap.fr
 repository: https://github.com/sgmap/impact
 status: construction
-contact: hela.ghariani@modernisation.gouv.fr
+contact: fanny.brulebois@modernisation.gouv.fr
 start: 2014-12-01
 owner: CNSA
 screenshot: /img/screenshots/mdph-en-ligne.png
