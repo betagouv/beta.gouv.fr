@@ -30,15 +30,15 @@ phases:
   incubation:
     investigation:
       name: investigation
-      description: "Des circuits administratifs tortueux, des démarches manquant de fluidité… Un agent d’un ministère ou d’un opérateur public identifie une friction existant entre les usagers et son administration. L'incubateur l’aide à vérifier que cette friction concerne un public suffisamment large, qu’un outil numérique pourrait la résoudre, et que les contraintes pour la résoudre sont surmontables. Ils valident avec l'administration porteuse le recrutement d'un à deux développeurs et responsables produits. Ensemble, ils constituent alors une équipe autonome de 2 à 4 personnes, la Startup d’État."
+      description: "Des circuits administratifs tortueux, des démarches manquant de fluidité… Un agent d’un ministère ou d’un opérateur public identifie une friction existant entre les usagers et son administration. Aidé par l'incubateur, il vérifie que cette friction concerne un public suffisamment large, qu’un outil numérique pourrait la faire disparaitre, et que les obstacles sont bien surmontables. Tous deux valident avec l'administration porteuse le recrutement d'un à deux développeurs et responsables produits. Ensemble, ils constituent alors une équipe autonome de 2 à 4 personnes : la Startup d’État."
       featured: psi
     construction:
       name: construction
-      description: "L’équipe cerne le besoin des usagers et affine la promesse du futur produit. Cette promesse est élaborée de manière itérative et incrémentale : à l’aide de discussions méthodiques, de prototypes papier ou d’embryons de code, l'équipe va confirmer ou infirmer de nombreuses hypothèses à moindre coût. Pour n’en retenir qu’une : une proposition de valeur qui résout un problème bien identifié."
+      description: "L’équipe cerne le besoin des usagers et affine la promesse du futur produit. Cette promesse est élaborée de manière itérative et incrémentale. A l’aide de discussions méthodiques, de prototypes papier ou d’embryons de code, l'équipe confirme ou infirme de nombreuses hypothèses à moindre coût. Pour n’en retenir qu’une, en l'occurence la proposition de valeur qui résout le problème bien identifié."
       featured: ban
     consolidation:
       name: consolidation
-      description: "Le service est testé par les usagers d'administrations pilotes. Au niveau technique, la Startup d’État s’assure que la solution est fiable et peut répondre à un nombre croissant de demandes. Sur le plan fonctionnel, les retours d'utilisateurs réels permettent de prendre en compte des cas spécifiques non prévus. Cette expérimentation terrain permet d’améliorer et de clarifier continuellement le service rendu à l'usager."
+      description: "Le service est testé par les usagers d'administrations pilotes. Au niveau technique, la Startup d’État s’assure que la solution est fiable et répond à un nombre croissant de demandes. Sur le plan fonctionnel, les retours d'utilisateurs réels permettent de prendre en compte des cas spécifiques, initialement non prévus. Cette expérimentation terrain améliore et clarifie continuellement le service rendu à l'usager."
       featured: labonneboite
     passation:
       name: passation
@@ -53,9 +53,9 @@ phases:
       name:
         singular: fermée
         plural: fermées
-      description: Le service a été rendu obsolète par des évolutions techniques, règlementaires ou d’usage. Il a été fermé en lien avec les partenaires, les usagers et son éventuel successeur.
+      description: Les évolutions de la technologie, de la réglementation et des usages rendent le service obsolète. Il est fermé en lien avec les partenaires, les usagers et l'administration qui était susceptible  de le reprendre . 
     death:
       name:
         singular: abandonnée
         plural: abandonnées
-      description: Le service a été abandonné en cours de construction. L'abandon est expliqué pour capitaliser sur l'expérience accumulée.
+      description: Le service est abandonné en cours de construction. L'abandon est expliqué pour capitaliser sur l'expérience accumulée (PAS CONVAINCU PAR CETTE IDEE).
