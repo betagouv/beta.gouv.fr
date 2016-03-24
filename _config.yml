@@ -30,19 +30,19 @@ phases:
   incubation:
     investigation:
       name: investigation
-      description: Une friction avec l’usager est identifiée. Les volumes et contraintes sont déterminées. Porteur(s) et financement sont validés. Une équipe autonome de 2 à 4 personnes est constituée.
+      description: "Des circuits administratifs tortueux, des démarches manquant de fluidité, de multiples interlocuteurs à des questions pourtant simples… Un intrapreneur au sein d’un ministère ou d’un opérateur public identifie une friction existante entre les usagers et leurs administrations. Il vérifie d’une part que cette friction concerne un public suffisamment large et mérite qu’on s’y penche. Il s’assure d’autre part que les contraintes pour la résoudre ne sont pas insurmontables. Enfin, il forme une équipe autonome de 2 à 4 personnes, la Startup d’État, et recherche des financements publics."
       featured: psi
     construction:
       name: construction
-      description: L’équipe comprend le besoin et construit un produit de manière itérative et incrémentale pour y répondre. Des volontaires l'expérimentent en conditions réelles.
+      description: "L’équipe cerne ensuite le besoin des usagers et affine la promesse du futur produit. Par exemple : réaliser une demande de bourse scolaire ou dresser la liste des droits qui reviennent à un usager. Soit cette proposition de valeur résout un problème identifié, soit elle incarne littéralement un nouveau service. Dans tous les cas, elle est élaborée de manière itérative et incrémentale. Elle s’appuie sur une expérimentation en conditions réelle reposant sur des volontaires. L’enjeu consiste, à l’aide de discussion, de prototypage papier ou d’embryon de code, de confirmer ou d’infirmer à moindre coût les différentes hypothèses. Pour n’en retenir qu’une."
       featured: ban
     consolidation:
       name: consolidation
-      description: Le produit est utilisé par les volontaires pilotes. L'équipe améliore le service et élargit son public cible selon les retours.
+      description: "Le produit a été développé, le service est testé par les futurs usagers. Plusieurs objectifs : au niveau technique, la startup d’état s’assure que la solution monte correctement en charge et qu’elle ne souffre plus d’aucun bugg. Sur le plan fonctionnel, les retours des utilisateurs mettent en évidence des cas d’usage peu, ou mal pris en compte. Cette expérimentation terrain, permet enfin d’améliorer et de clarifier continuellement le parcours usager."
       featured: labonneboite
     passation:
       name: passation
-      description: Le service est viable et un repreneur institutionnel a été identifié. Celui-ci prend progressivement en charge la maintenance et l'amélioration continue du service.
+      description: "Le service est viable et un repreneur institutionnel a été identifié. Celui-ci prend progressivement en charge la maintenance et l'amélioration continue du service."
   endgame:
     success:
       name:
