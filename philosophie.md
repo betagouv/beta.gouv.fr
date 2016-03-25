@@ -1,5 +1,6 @@
 ---
 title: Incubateurs
+layout: text
 ---
 
 # Philosophie des incubateurs de services numériques

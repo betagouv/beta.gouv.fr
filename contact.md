@@ -1,5 +1,6 @@
 ---
 title: Contact
+layout: text
 ---
 ## Nous contacter
 
