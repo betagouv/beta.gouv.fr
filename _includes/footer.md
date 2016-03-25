@@ -1,1 +1,3 @@
-- [✎ Améliorer cette page](https://github.com/sgmap/beta.gouv.fr/edit/gh-pages/{{ page.path }})
+- [🏛 Une mission du SGMAP](http://modernisation.gouv.fr)
+- [✉️ Nous contacter](contact.html)
+- [✏️ Améliorer cette page](https://github.com/sgmap/beta.gouv.fr/edit/gh-pages/{{ page.path }})
