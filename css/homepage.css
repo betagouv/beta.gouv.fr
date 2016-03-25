@@ -31,17 +31,14 @@ body {
 	text-align: right;
 }
 
-#cycle {
-	padding: 1em;
+section.text {
+	padding-top: 1em;
+	padding-bottom: 1.5em;
 	font-size: 130%;
+	line-height: 2;
 
 	text-align: center;
 	background-color: #FEFEFE;
-}
-
-#cycle * {
-	max-width: 60rem;
-	margin: 1em auto;
 }
 
 #cycle ol {
@@ -96,6 +93,10 @@ body {
 @media (max-width: 34em) {
 	#mission-statement {
 		padding: 1em 0;
+	}
+
+	section.text {
+		text-align: justify;
 	}
 
 	.links a {
