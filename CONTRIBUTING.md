@@ -20,7 +20,7 @@ Modifier le fichier de description de la startup dans le dossier [`_startup`](ht
 
 ## Modifier les startups mises en avant sur la page d'accueil
 
-Mettre à jour la propriété `featured` de la phase correspondante pour référencer le nom du fichier dans lequel la startup à mettre en avant est décrite dans [`_config.yml`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_config.yml).
+Mettre à jour la propriété `featured` de la phase correspondante pour référencer le nom du fichier dans lequel la startup à mettre en avant est décrite dans [`index.html`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/index.html).
 
 
 ## Modifier la présentation du site

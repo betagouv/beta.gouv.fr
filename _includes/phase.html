@@ -1,0 +1,33 @@
+{% assign startups = site.startup | where:'status',include.phase %}
+{% assign startupsCount = startups | size %}
+
+{% assign featuredStartup = false %}
+{% capture id %}/startup/{{ include.featured}}{% endcapture %}
+{% for startup in site.startup %}
+	{% if startup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
+		{% assign featuredStartup = startup %}
+		<!-- {% increment featuredStartupsCount %} {% comment %} HTML-commented because it outputs, but still computed {% endcomment %} -->
+	{% endif %}
+{% endfor %}
+
+
+<h2 id="{{ include.phase }}" class="centered row {{ include.phase }}">
+	{{ site.phases.incubation[include.phase].name | capitalize }}
+</h2>
+
+<div class="row {{ include.phase }}">
+	<div class="column phase--description">
+		{{ include.description }}
+	</div>
+
+	<div class="column">
+		{% if featuredStartup %}
+			{% include startup-card.html description=featuredStartup %}
+			<p>
+				<a href="{{ site.baseurl }}startups">{{ startupsCount }} autres produits</a> dans cette phase.
+			</p>
+		{% else %}
+			<em>Revenez bientôt pour voir des produits dans cette phase !</em>
+		{% endif %}
+	</div>
+</div>
