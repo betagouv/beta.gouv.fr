@@ -6,14 +6,6 @@ title: À propos
 
 Depuis juin 2013, l’État a pu expérimenter au sein du [Secrétariat Général pour la Modernisation de l'Action Publique](https://modernisation.gouv.fr) (SGMAP) une nouvelle manière de construire des services publics numériques. L'Incubateur de Services Numériques existe en tant que Mission depuis septembre 2015.
 
-## Des produits portés par des intrapreneurs et destinés à résoudre un problème
-
-Qui mieux qu’un acteur public de terrain, témoin quotidien des difficultés de nos concitoyens, pour imaginer les solutions qui viendront résoudre ces irritants ? Une Startup d’État est toujours emmenée par un agent public animé par le désir d’améliorer une situation problématique : attente, gaspillage, complexité, non-recours au droit, injustice…
-
-
-## Une mise en marché rapide par co-construction avec les parties prenantes
-
-Fournir un service utile à une population pilote d’usagers et de partenaires dans un délai inférieur à 6 mois impose une dynamique de projet incrémentale et itérative. Réunie en OpenLab toutes les deux semaines, la communauté des utilisateurs voit le système s’améliorer et oriente chaque nouvelle itération jusqu’à obtenir un produit utilisable. Dans une Startup d’État, le chef c’est l’utilisateur.
 
 
 ## Un design fondé sur la simplicité et la confiance
