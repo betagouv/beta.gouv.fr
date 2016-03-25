@@ -16,6 +16,28 @@ a {
 	color: inherit;
 }
 
+a.cta {
+	padding: .75em;
+	margin: .75em;
+
+	text-decoration: none;
+	transition: box-shadow .5s;
+}
+
+a.primary.cta {
+	font-size: 130%;
+
+	font-weight: bold;
+}
+
+a.secondary.cta {
+	background-color: transparent;
+}
+
+a.cta:hover, a.cta:focus {
+	transition: box-shadow .1s;
+}
+
 body > a, footer a {
 	text-decoration: none;
 }
@@ -52,6 +74,10 @@ footer {
 
 .investigation {
 	background-color: #1b91a3;
+}
+
+a.investigation.cta:hover, a.investigation.cta:focus {
+	box-shadow: 0 0 .3em .1em #1b91a3;
 }
 
 .construction {

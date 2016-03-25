@@ -7,16 +7,18 @@ additional_css: homepage
 	<h1>{{ site.description }}</h1>
 
 	<div class="links">
-		<a class="cta" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés</a>
-		<a class="primary cta" href="#cycle">Découvrez comment</a>
+		<a class="secondary investigation cta" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés</a>
+		<a class="primary investigation cta" href="#cycle">Découvrez comment</a>
 	</div>
 </section>
 
-<section id="cycle">
+<section id="cycle" class="text">
 	<h2 class="ui divider horizontal">Déroulé d'une Startup d'État</h2>
 
 	{% capture method %}{% include method.md %}{% endcapture %} <!-- http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/ -->
-	{{ method | markdownify }}
+	<div class="ui container">
+		{{ method | markdownify }}
+	</div>
 </section>
 
 
@@ -57,8 +59,17 @@ additional_css: homepage
 		description=passationDescription
 		featured='' %}
 
-	<div class="row centered column">
-		<a class="primary cta" href="{{ site.baseurl }}startups">Explorez nos {{ site.startup | size | minus:featuredStartupsCount }} autres services&nbsp;&nbsp;➤</a>
+	<div class="centered success row">
+		<a href="startups/" class="primary success cta">Explorez {{ site.startup | size | minus:featuredStartupsCount }} autres Startups d'État&nbsp;&nbsp;➤</a>
 	</div>
+</section>
 
+<section id="incubateur" class="text">
+	<h2 class="ui divider horizontal">L'Incubateur de Services Numériques de la DINSIC</h2>
+
+	<div class="ui container">
+		<p>Le <a href="https://modernisation.gouv.fr"><abbr title="Secrétariat Général pour la Modernisation de l'Action Publique">SGMAP</abbr></a> a expérimenté cette nouvelle manière de construire des services publics numériques dès juin 2013. L'Incubateur de Services Numériques est devenu une mission officielle de la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr> depuis septembre 2015.</p>
+		<p>L'Incubateur du SGMAP accompagne la création de Startups d'État et diffuse ainsi la culture de l'innovation numérique au sein de l'action publique. Il a vocation à faire émerger un réseau d'incubateurs de Startups d'État dans toutes les administrations.</p>
+		<p>Vous souhaitez rejoindre ce mouvement ? Découvrez la <a href="philosophie.html">philosophie des incubateurs de services numériques</a> et <a href="contact.html">contactez-nous</a> !
+	</div>
 </section>
