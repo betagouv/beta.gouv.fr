@@ -7,8 +7,8 @@ additional_css: homepage
 	<h1>{{ site.description }}</h1>
 
 	<div class="links">
-		<a class="cta" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés</a>
-		<a class="primary cta" href="#cycle">Découvrez comment</a>
+		<a class="secondary investigation cta" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés</a>
+		<a class="primary investigation cta" href="#cycle">Découvrez comment</a>
 	</div>
 </section>
 
@@ -57,8 +57,8 @@ additional_css: homepage
 		description=passationDescription
 		featured='' %}
 
-	<div class="row centered column">
-		<a class="primary cta" href="{{ site.baseurl }}startups">Explorez nos {{ site.startup | size | minus:featuredStartupsCount }} autres services&nbsp;&nbsp;➤</a>
+	<div class="centered success row">
+		<a href="startups/" class="primary success cta">Explorez {{ site.startup | size | minus:featuredStartupsCount }} autres Startups d'État&nbsp;&nbsp;➤</a>
 	</div>
 
 </section>

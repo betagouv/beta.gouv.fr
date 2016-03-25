@@ -31,26 +31,6 @@ body {
 	text-align: right;
 }
 
-a.cta {
-	padding: .75em;
-	margin: .75em;
-
-	text-decoration: none;
-	transition: box-shadow .5s;
-}
-
-a.primary.cta {
-	font-size: 130%;
-
-	background-color: #1b91a3;
-	font-weight: bold;
-}
-
-a.cta:hover, a.cta:focus {
-	box-shadow: 0 0 .3em .1em #1b91a3;
-	transition: box-shadow .1s;
-}
-
 #cycle {
 	padding: 1em;
 	font-size: 130%;
@@ -83,6 +63,14 @@ a.cta:hover, a.cta:focus {
 
 .phase--description p:last-child {
 	margin-bottom: 0;
+}
+
+.primary.success.cta {
+	display: block;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	color: black;
 }
 
 @media (min-width: 100em) {
