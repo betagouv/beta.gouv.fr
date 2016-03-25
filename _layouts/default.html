@@ -12,7 +12,8 @@
 		{{ content }}
 
 		<footer>
-			<a href="https://github.com/sgmap/beta.gouv.fr/edit/gh-pages/{{ page.path }}" target="_blank">✎ Améliorer cette page</a>
+			{% capture footer %}{% include footer.md %}{% endcapture %} <!-- http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/ -->
+			{{ footer | markdownify }}
 		</footer>
 
 		{% include analytics.html %}

@@ -67,9 +67,25 @@ footer {
 	font-size: 70%;
 	padding: 1em;
 
-	text-align: center;
 	background-color: #333;
 	color: #EEE;
+}
+
+footer ul {
+	margin: 0;
+	padding: 0 3em;
+}
+
+footer li {
+	list-style-type: none;
+	display: inline-block;
+	width: 30%;
+	text-align: left;
+	margin-bottom: .5em;
+}
+
+footer li a:hover {
+	text-decoration: underline;
 }
 
 .investigation {
@@ -115,5 +131,10 @@ a.ui.card {
 		background-position: 0;
 		font-size: 60%;
 		padding-left: 2em;
+	}
+
+	footer li {
+		width: 100%;
+		text-align: center;
 	}
 }
