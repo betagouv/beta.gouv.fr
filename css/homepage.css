@@ -51,7 +51,7 @@ a.cta:hover, a.cta:focus {
 	transition: box-shadow .1s;
 }
 
-#methode {
+#cycle {
 	padding: 1em;
 	font-size: 130%;
 
@@ -59,12 +59,12 @@ a.cta:hover, a.cta:focus {
 	background-color: #FEFEFE;
 }
 
-#methode * {
+#cycle * {
 	max-width: 60rem;
 	margin: 1em auto;
 }
 
-#methode ol {
+#cycle ol {
 	list-style-position: inside;
 	padding-left: 0;
 }

@@ -8,12 +8,12 @@ additional_css: homepage
 
 	<div class="links">
 		<a class="cta" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés</a>
-		<a class="primary cta" href="#methode">Découvrez comment</a>
+		<a class="primary cta" href="#cycle">Découvrez comment</a>
 	</div>
 </section>
 
-<section id="methode">
-	<h2 class="ui divider horizontal">La méthode Startup d'État</h2>
+<section id="cycle">
+	<h2 class="ui divider horizontal">Déroulé d'une Startup d'État</h2>
 
 	{% capture method %}{% include method.md %}{% endcapture %} <!-- http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/ -->
 	{{ method | markdownify }}
