@@ -30,19 +30,12 @@ phases:
   incubation:
     investigation:
       name: investigation
-      description: "Des circuits administratifs tortueux, des démarches manquant de fluidité… Un agent d’un ministère ou d’un opérateur public identifie une friction existant entre les usagers et son administration. Aidé par l'incubateur, il vérifie que cette friction concerne un public suffisamment large, qu’un outil numérique pourrait la faire disparaitre, et que les obstacles sont bien surmontables. L'administration porteuse valide le recrutement d'un à deux développeurs et responsables produits. Tous ensemble, ils constituent alors une équipe autonome de 2 à 4 personnes : la Startup d’État."
-      featured: psi
     construction:
       name: construction
-      description: "L’équipe cerne le besoin des usagers et affine la promesse du futur produit. Cette promesse est élaborée de manière itérative et incrémentale. À l’aide de discussions méthodiques, de prototypes papier ou d’embryons de code, l'équipe confirme ou infirme de nombreuses hypothèses à moindre coût. Pour n’en retenir qu’une, une proposition de valeur qui résout un problème bien identifié."
-      featured: ban
     consolidation:
       name: consolidation
-      description: "Le service est testé par les usagers d'administrations pilotes. Au niveau technique, la Startup d’État s’assure que la solution est fiable et répond à un nombre croissant de demandes. Sur le plan fonctionnel, les retours d'utilisateurs réels permettent de prendre en compte des cas spécifiques non prévus initialement. Cette expérimentation terrain améliore et clarifie continuellement le service rendu à l'usager."
-      featured: labonneboite
     passation:
       name: passation
-      description: "Le service est considéré comme viable par l'équipe et par l'administration porteuse. Celle-ci prend progressivement en charge la maintenance et l'amélioration continue du service, soit en intégrant l'équipe dans sa structure de manière pérenne, soit en formant son personnel historique à la gestion du service."
   endgame:
     success:
       name:
