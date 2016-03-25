@@ -42,6 +42,11 @@ body > a, footer a {
 	text-decoration: none;
 }
 
+/* degradability, see http://bitsofco.de/styling-broken-images */
+img {
+	font-family: inherit;
+}
+
 header {
 	background-image: url(/img/marianne.svg);
 	background-repeat: no-repeat;
