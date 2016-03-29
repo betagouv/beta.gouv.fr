@@ -24,10 +24,12 @@ a.cta {
 	transition: box-shadow .5s;
 }
 
-a.primary.cta {
-	font-size: 130%;
-
+.cta {
 	font-weight: bold;
+}
+
+.primary.cta {
+	font-size: 130%;
 }
 
 a.secondary.cta {
