@@ -37,12 +37,12 @@ body {
 	font-size: 130%;
 	line-height: 2;
 
+	text-align: center;
 	background-color: #FEFEFE;
 }
 
 #cycle ol, #blog ul {
 	list-style-position: inside;
-	text-align: center;
 	padding-left: 0;
 }
 
@@ -85,9 +85,6 @@ body {
 		margin: 0;
 		padding: .5em;
 	}
-
-	section.text {
-		line-height: 1.5;
 }
 
 @media (max-width: 34em) {
@@ -95,8 +92,9 @@ body {
 		padding: 1em 0;
 	}
 
-	section.text {
-		text-align: justify;
+	#cycle, #blog {
+		text-align: left;
+		line-height: 1.5;
 	}
 
 	.links a {
