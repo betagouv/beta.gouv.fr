@@ -7,13 +7,9 @@ body {
 	position: relative;
 	padding: 0;
 	padding-bottom: 5rem; /** footer height **/
-	font-family: "Open Sans", "Helvetica Neue", sans-serif;
+	font-family: "Century Gothic", "Gilles Sans", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 
 	background-color: #F1F1F1;
-}
-
-h1, h2, h3, .divider, header, .header, .cta, .counter {
-	font-family: "Century Gothic", "Gilles Sans", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 }
 
 a {

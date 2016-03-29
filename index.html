@@ -69,7 +69,7 @@ additional_css: homepage
 <section id="blog">
 	<h2 class="ui divider horizontal">Dernières annonces</h2>
 
-	<ul class="ui text container">
+	<ul class="ui container">
 		{% for post in site.posts | limit:5 %}
 			<li>
 				{% if post.category == 'evenement' %}
