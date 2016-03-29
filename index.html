@@ -25,7 +25,7 @@ additional_css: homepage
 <section id="phases" class="ui vertically divided two columns stackable padded grid container">
 	{% capture investigationDescription %}
 		<p>Un <abbr title="D’un ministère ou d’un opérateur.">agent public</abbr> identifie une friction entre les usagers et son administration.</p>
-		<p>Attente, gaspillage, complexité, non-recours au droit… Aidé par l'incubateur, l'agent public vérifie que cette friction concerne un public suffisamment large, qu’un outil numérique pourrait la faire disparaitre, et que les obstacles techniques sont surmontables. Son administration valide le recrutement d'un ou deux développeurs et responsables produits.</p>
+		<p>Attente, gaspillage, complexité, non-recours … Aidé par l'incubateur, l'agent public vérifie que cette friction concerne un public suffisamment large, qu’un outil numérique pourrait la faire disparaitre, et que les obstacles techniques sont surmontables. Son administration valide le recrutement d'un ou deux développeurs et du responsable produit.</p>
 		<p>Cette équipe de 2 à 4 personnes constitue dès lors une Startup d'État autonome.</p>
 	{% endcapture %}
 	{% include phase.html phase='investigation'
@@ -33,16 +33,16 @@ additional_css: homepage
 		featured='psi' %}
 
 	{% capture constructionDescription %}
-		<p>L’équipe cerne le besoin avec les usagers et affine la promesse du produit.</p>
-		<p>Cette promesse est élaborée de manière itérative et incrémentale. À l’aide de discussions méthodiques, de prototypes papier ou d’embryons de code, l'équipe confirme ou infirme de nombreuses hypothèses à moindre coût. Une proposition de valeur qui résout un problème bien identifié est retenue. Toutes les deux semaines, la communauté des utilisateurs voit le service s'améliorer.</p>
-		<p>La Startup d'État rend disponible au public le service qui répond à cette proposition de valeur.</p>
+		<p>L’équipe cerne le besoin avec les usagers pilote et met en marché un premier produit qui les satisfait.</p>
+		<p>Cette promesse est élaborée de manière itérative et incrémentale. À l’aide de discussions, de prototypes papier et de code, l'équipe confirme ou infirme de nombreuses hypothèses à moindre coût. Une proposition de valeur qui résout un problème bien identifié est retenue. Toutes les deux semaines, la communauté des utilisateurs voit le service s'améliorer.</p>
+		<p>La Startup d'État rend disponible au public en mode "béta" le service qui répond à cette proposition de valeur.</p>
 	{% endcapture %}
 	{% include phase.html phase='construction'
 		description=constructionDescription
 		featured='ban' %}
 
 	{% capture consolidationDescription %}
-		<p>Les usagers d'administrations pilotes testent le service.</p>
+		<p>Les usagers d'administrations pilotes testent et déploient le service.</p>
 		<p>Au niveau technique, la Startup d’État s’assure que la solution est fiable et répond à un nombre croissant de demandes. Sur le plan fonctionnel, les retours d'utilisateurs réels permettent d'améliorer le service en continu et de prendre en compte des cas spécifiques.</p>
 		<p>La Startup d'État améliore et clarifie continuellement le service rendu à l'usager.</p>
 	{% endcapture %}
@@ -52,7 +52,7 @@ additional_css: homepage
 
 	{% capture passationDescription %}
 		<p>L'équipe et l'administration porteuse considèrent que le service est viable.</p>
-		<p>L'administration porteuse prend progressivement en charge la maintenance et l'amélioration continue du service, soit en intégrant l'équipe dans sa structure de manière pérenne, soit en formant son personnel historique à la gestion du service.</p>
+		<p>L'administration porteuse prend progressivement en charge l'exploitation et l'amélioration continue du service, soit en intégrant l'équipe dans sa structure de manière pérenne, soit en formant son personnel historique à la gestion du service.</p>
 		<p>La Startup d'État a terminé sa mission, et le service est opéré et amélioré en continu par l'administration porteuse.</p>
 	{% endcapture %}
 	{% include phase.html phase='passation'
