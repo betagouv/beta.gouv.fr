@@ -88,6 +88,9 @@ section.text {
 		margin: 0;
 		padding: .5em;
 	}
+
+	section.text {
+		line-height: 1.5;
 }
 
 @media (max-width: 34em) {
