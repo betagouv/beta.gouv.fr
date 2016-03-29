@@ -31,18 +31,23 @@ body {
 	text-align: right;
 }
 
-section.text {
+section {
 	padding-top: 1em;
 	padding-bottom: 1.5em;
+
+	background-color: #FEFEFE;
+}
+
+#cycle .container {
 	font-size: 130%;
 	line-height: 2;
-
-	text-align: center;
-	background-color: #FEFEFE;
 }
 
 #cycle ol {
 	list-style-position: inside;
+}
+
+#blog ul {
 	padding-left: 0;
 }
 
@@ -50,15 +55,11 @@ section.text {
 	color: #FEFEFE;
 }
 
-.phase--description {
-	font-size: 120%;
-}
-
 .phase--description p {
 	margin-top: 0;
 }
 
-.phase--description p:last-child {
+.phase--description p:last-child, #blog ul {
 	margin-bottom: 0;
 }
 
@@ -81,6 +82,11 @@ section.text {
 	#mission-statement {
 		padding: 2em;
 	}
+
+	#cycle ol {
+		padding-left: 0;
+	}
+
 
 	.links a {
 		text-align: center;

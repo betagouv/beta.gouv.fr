@@ -12,7 +12,7 @@ additional_css: homepage
 	</div>
 </section>
 
-<section id="cycle" class="text">
+<section id="cycle">
 	<h2 class="ui divider horizontal">Phases d'une Startup d'État</h2>
 
 	<ol class="ui container">
@@ -61,15 +61,15 @@ additional_css: homepage
 		description=passationDescription
 		featured='' %}
 
-	<div class="centered success row">
+	<h3 class="centered success row">
 		<a href="startups" class="primary success cta">Explorez {{ site.startup | size | minus:featuredStartupsCount }} autres Startups d'État&nbsp;&nbsp;➤</a>
-	</div>
+	</h3>
 </section>
 
-<section id="blog" class="text">
+<section id="blog">
 	<h2 class="ui divider horizontal">Dernières annonces</h2>
 
-	<ul class="ui container">
+	<ul class="ui text container">
 		{% for post in site.posts | limit:5 %}
 			<li>
 				{% if post.category == 'evenement' %}
@@ -82,14 +82,13 @@ additional_css: homepage
 	</ul>
 </section>
 
-<section id="incubateur" class="text">
+<section id="incubateur">
 	<h2 class="ui divider horizontal">L'Incubateur <span class="large screen only">de Services Numériques</span> de la DINSIC</h2>
 
-	<div class="ui container">
+	<div class="ui text container">
 		<p>Le <a href="https://modernisation.gouv.fr"><abbr title="Secrétariat Général pour la Modernisation de l'Action Publique">SGMAP</abbr></a> a expérimenté cette nouvelle manière de construire des services publics numériques dès juin 2013. L'Incubateur de Services Numériques est devenu une mission officielle de la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr> depuis septembre 2015.</p>
 		<p>L'Incubateur du SGMAP accompagne la création de Startups d'État et diffuse ainsi la culture de l'innovation numérique au sein de l'action publique. Il a vocation à faire émerger un réseau d'incubateurs de Startups d'État dans toutes les administrations.</p>
-		<p class="cta">Vous souhaitez rejoindre ce mouvement ?<br/>
-			Découvrez la <a href="philosophie.html">philosophie</a> des incubateurs de services numériques et <a href="contact.html">contactez-nous</a> !
+		<p class="cta">Vous souhaitez rejoindre ce mouvement ? Découvrez la <a href="philosophie.html">philosophie</a> des incubateurs de services numériques et <a href="contact.html">contactez-nous</a> !
 		</p>
 	</div>
 </section>
