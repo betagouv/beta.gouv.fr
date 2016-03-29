@@ -55,6 +55,10 @@ h2 {
 	font-size: 300%;
 }
 
+.counter--endgame .counter {
+	min-height: 6em;  /* for IE11 */
+}
+
 i {
 	font-size: 80%;
 }
