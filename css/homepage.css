@@ -31,7 +31,7 @@ body {
 	text-align: right;
 }
 
-section.text {
+#cycle, #blog {
 	padding-top: 1em;
 	padding-bottom: 1.5em;
 	font-size: 130%;
@@ -41,24 +41,21 @@ section.text {
 	background-color: #FEFEFE;
 }
 
-#cycle ol {
+#cycle ol, #blog ul {
 	list-style-position: inside;
 	padding-left: 0;
 }
 
 #phases {
 	color: #FEFEFE;
+	font-size: 110%;
 }
 
-.phase--description {
-	font-size: 120%;
-}
-
-.phase--description p {
+#phases .text.container {
 	margin-top: 0;
 }
 
-.phase--description p:last-child {
+#phases .text.container p:last-child, #blog ul {
 	margin-bottom: 0;
 }
 
@@ -88,9 +85,6 @@ section.text {
 		margin: 0;
 		padding: .5em;
 	}
-
-	section.text {
-		line-height: 1.5;
 }
 
 @media (max-width: 34em) {
@@ -98,8 +92,9 @@ section.text {
 		padding: 1em 0;
 	}
 
-	section.text {
-		text-align: justify;
+	#cycle, #blog {
+		text-align: left;
+		line-height: 1.5;
 	}
 
 	.links a {

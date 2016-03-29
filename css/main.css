@@ -7,8 +7,8 @@ body {
 	position: relative;
 	padding: 0;
 	padding-bottom: 5rem; /** footer height **/
+	font-family: "Century Gothic", "Gilles Sans", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 
-	font-family: "Century Gothic", "Open Sans", "Gilles Sans", "Arial", "Helvetica Neue", sans-serif;
 	background-color: #F1F1F1;
 }
 

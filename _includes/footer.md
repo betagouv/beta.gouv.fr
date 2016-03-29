@@ -1,3 +1,4 @@
-- [🏛 Une mission du SGMAP](http://modernisation.gouv.fr)
-- [✉️ Nous contacter](contact.html)
+- [🏠 Incubateur de services numériques]({{ site.baseurl }})
+- [✉️ Nous contacter]({{ site.baseurl }}contact)
 - [✏️ Améliorer cette page](https://github.com/sgmap/beta.gouv.fr/edit/gh-pages/{{ page.path }})
+- [🏛 Une mission du SGMAP](http://modernisation.gouv.fr)
