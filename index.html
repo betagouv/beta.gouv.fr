@@ -64,6 +64,22 @@ additional_css: homepage
 	</div>
 </section>
 
+<section id="blog" class="text">
+	<h2 class="ui divider horizontal">Dernières annonces</h2>
+
+	<ul class="ui container">
+		{% for post in site.posts | limit:5 %}
+			<li>
+				{% if post.category == 'evenement' %}
+					Retrouvez-nous le <time datetime="{{ post.start }}"></time> pour <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.location }}).
+				{% else %}
+					<a href="{{ post.url }}">{{ post.title }}</a>
+				{% endif %}
+			</li>
+		{% endfor %}
+	</ul>
+</section>
+
 <section id="incubateur" class="text">
 	<h2 class="ui divider horizontal">L'Incubateur <span class="large screen only">de Services Numériques</span> de la DINSIC</h2>
 

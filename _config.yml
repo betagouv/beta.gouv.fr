@@ -23,6 +23,12 @@ defaults:
   -
     scope:
       path: ""  # means "all files"
+      type: posts
+    values:
+      layout: post
+  -
+    scope:
+      path: ""  # means "all files"
     values:
       layout: default
 
