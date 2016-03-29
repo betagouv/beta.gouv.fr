@@ -5,8 +5,8 @@ h2 {
 
 #dashboard {
 	background-color: #EEE;
-	padding: 1em;
 	width: 100%;
+	padding-bottom: 1em;
 	box-sizing: border-box;
 }
 
