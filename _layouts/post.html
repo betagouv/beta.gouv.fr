@@ -11,12 +11,5 @@ layout: default
 		<div class="vevent">
 			<strong><a class="url" href="{{ page.registration }}">Inscrivez-vous</a> pour participer à l'évènement <span class="summary">{{ page.title }}</span></strong> du <time datetime="{{ page.start }}" class="dtstart"></time> au <time datetime="{{ page.end }}" class="dtend"></time> à <span class="location">{{ page.location }}</span>.
 		</div>
-
-		<script>
-			Array.prototype.forEach.call(document.querySelectorAll('time'), function(time) {
-				var date = new Date(time.getAttribute('datetime'));
-				time.innerHTML = date.toLocaleString().replace(/(:00)? ?UTC\+\d/, '');
-			});
-		</script>
 	{% endif %}
 </main>
