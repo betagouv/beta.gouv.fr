@@ -13,6 +13,13 @@
 Modifier le fichier de description de la startup dans le dossier [`_startup`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_startup).
 
 
+## Ajouter un événement
+
+### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/gh-pages/_posts?filename=_posts/AAAA-MM-DD-nom_evenement.md&value=---%0d%0atitle%3a+Nom+de+l%27%c3%a9v%c3%a9nement%0d%0acategory%3a+evenement%0d%0aregistration%3a+https%3a%2f%2feventbrite.com%2f%e2%80%a6+%23+URL+%c3%a0+laquelle+on+peut+s%27inscrire%0d%0alocation%3a+Palais+des+Congr%c3%a8s+de+Paris+%23+lieu+de+l%27%c3%a9v%c3%a9nement%0d%0astart%3a+2016-04-20T09%3a30%2b02%3a00++%23+date+de+d%c3%a9but+au+format+ISO%0d%0aend%3a+2016-04-20T17%3a30%2b02%3a00++%23+date+de+fin+au+format+ISO%0d%0a---%0d%0a%0d%0a%c3%89crire+ici+le+descriptif+de+l%27%c3%a9v%c3%a9nement.+Un+lien+d%27inscription+et+un+descriptif+des+horaires+sera+automatiquement+g%c3%a9n%c3%a9r%c3%a9%2c+ne+pas+l%27%c3%a9crire+ici.%0d%0a%0d%0a**Pensez+%c3%a0+modifier+le+nom+de+ce+fichier+%3a+il+doit+%c3%aatre+au+format+%60AAAA-MM-DD-nom_evenement.md%60+!**) :smiley:
+
+> Sinon, offline : créer un nouveau post dans le dossier [`_posts`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_posts) et renseigner les informations en prenant exemple sur un événement existant déjà dans ce dossier.
+
+
 ## Modifier le contenu éditorial
 
 [Rechercher le contenu à modifier](https://github.com/sgmap/beta.gouv.fr/search?q=contenu+à+modifier&type=Code) et éditer le fichier correspondant.
