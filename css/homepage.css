@@ -103,6 +103,10 @@ section.text {
 	.links a {
 		display: block;
 	}
+
+	.large.screen.only {
+		display: none;
+	}
 }
 
 @media (min-width: 1368px) {
