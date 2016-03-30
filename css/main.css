@@ -138,9 +138,11 @@ a.ui.card {
 	background-color: #222;
 	background-size: cover;
 	background-position: center right;
+	background-attachment: fixed;
 	padding: 7em;
 	color: white;
 	letter-spacing: .05em;
+	box-shadow: inset 0em 0em 1em #000;
 }
 
 #masthead h1 {
