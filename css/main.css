@@ -6,7 +6,7 @@ body {
 	min-height: 100%;
 	position: relative;
 	padding: 0;
-	padding-bottom: 5rem; /** footer height **/
+	padding-bottom: 7rem; /** footer height **/
 	font-family: "Century Gothic", "Gilles Sans", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 
 	background-color: #F1F1F1;
