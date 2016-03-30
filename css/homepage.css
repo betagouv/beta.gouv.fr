@@ -73,15 +73,3 @@ body {
 		display: none;
 	}
 }
-
-@media (min-width: 1368px) {
-	#masthead {
-		background-image: url('/img/index@2x.jpg');
-	}
-}
-
-@media (min-width: 2736px) {
-	#masthead {
-		background-image: url('/img/index@4x.jpg');
-	}
-}
