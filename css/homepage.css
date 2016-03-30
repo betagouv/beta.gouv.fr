@@ -4,27 +4,10 @@ body {
 	background-color: #DDD;
 }
 
-#mission-statement {
-	max-width: 100%;
-	background-color: #222;
+#masthead {
 	background-image: url('/img/header.jpg');
-	background-size: cover;
-	background-position: center right;
-	padding: 7em;
-	color: white;
-	letter-spacing: .05em;
-}
 
-#mission-statement p {
 	font-weight: bold;
-}
-
-#mission-statement h1 {
-	text-transform: uppercase;
-	line-height: 1;
-	font-size: 300%;
-	max-width: 20em;
-	margin-top: 0;
 }
 
 .links {
@@ -67,18 +50,7 @@ body {
 	color: black;
 }
 
-@media (min-width: 100em) {
-	#mission-statement {
-		font-size: 120%;
-		padding: 14em;
-	}
-}
-
 @media (max-width: 50em) {
-	#mission-statement {
-		padding: 2em;
-	}
-
 	.links a {
 		text-align: center;
 		display: inline-block;
@@ -88,10 +60,6 @@ body {
 }
 
 @media (max-width: 34em) {
-	#mission-statement {
-		padding: 1em 0;
-	}
-
 	#cycle, #blog {
 		text-align: left;
 		line-height: 1.5;
@@ -107,13 +75,13 @@ body {
 }
 
 @media (min-width: 1368px) {
-	#mission-statement {
-		background-image: url('/img/header@2x.jpg');
+	#masthead {
+		background-image: url('/img/index@2x.jpg');
 	}
 }
 
 @media (min-width: 2736px) {
-	#mission-statement {
-		background-image: url('/img/header@4x.jpg');
+	#masthead {
+		background-image: url('/img/index@4x.jpg');
 	}
 }

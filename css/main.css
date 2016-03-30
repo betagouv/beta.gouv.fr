@@ -6,7 +6,7 @@ body {
 	min-height: 100%;
 	position: relative;
 	padding: 0;
-	padding-bottom: 5rem; /** footer height **/
+	padding-bottom: 7rem; /** footer height **/
 	font-family: "Century Gothic", "Gilles Sans", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 
 	background-color: #F1F1F1;
@@ -133,6 +133,34 @@ a.ui.card {
 	cursor: pointer;
 }
 
+#masthead {
+	max-width: 100%;
+	background-color: #222;
+	background-size: cover;
+	background-position: center right;
+	padding: 7em;
+	color: white;
+	letter-spacing: .05em;
+}
+
+#masthead h1 {
+	text-transform: uppercase;
+	line-height: 1;
+	font-size: 300%;
+	max-width: 20em;
+	margin-top: 0;
+
+	text-shadow: 0 0 .2em #000;
+}
+
+
+@media (min-width: 100em) {
+	#masthead {
+		font-size: 120%;
+		padding: 14em;
+	}
+}
+
 @media (max-width: 50em) {
 	header {
 		background-position: 0;
@@ -143,5 +171,15 @@ a.ui.card {
 	footer li {
 		width: 100%;
 		text-align: center;
+	}
+
+	#masthead {
+		padding: 2em;
+	}
+}
+
+@media (max-width: 34em) {
+	#masthead {
+		padding: 1em 0;
 	}
 }
