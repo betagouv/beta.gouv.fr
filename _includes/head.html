@@ -25,4 +25,10 @@
 	{% endif %}
 
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+	<style type="text/css">
+		#masthead {
+			background-image: url("/img/{{ page.path | replace:'_posts','posts' | replace:'.html','.jpg' | replace:'.md','.jpg' }}");
+		}
+	</style>
 </head>
