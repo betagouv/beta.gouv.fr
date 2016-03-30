@@ -133,16 +133,18 @@ a.ui.card {
 	cursor: pointer;
 }
 
+footer, #masthead {
+	background-size: cover;
+	background-position: bottom center;
+	background-attachment: fixed;
+}
+
 #masthead {
 	max-width: 100%;
 	background-color: #222;
-	background-size: cover;
-	background-position: center right;
-	background-attachment: fixed;
 	padding: 7em;
 	color: white;
 	letter-spacing: .05em;
-	box-shadow: inset 0em 0em 1em #000;
 }
 
 #masthead h1 {
@@ -152,6 +154,10 @@ a.ui.card {
 	max-width: 20em;
 	margin-top: 0;
 
+}
+
+#masthead, footer {
+	box-shadow: inset 0em 0em 1em #000;
 	text-shadow: 0 0 .2em #000;
 }
 
