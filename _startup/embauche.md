@@ -4,7 +4,7 @@ mission: Estimer le coût d'une embauche en France.
 domain: embauche.beta.gouv.fr
 repository: https://github.com/sgmap/cout-embauche
 status: construction
-contact: embauche@sgmap.fr
+contact: contact@embauche.beta.gouv.fr
 start: 2014-10-01
 owner: SGMAP
 screenshot: https://embauche.beta.gouv.fr/img/simulateur-statique.gif

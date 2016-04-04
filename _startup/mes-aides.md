@@ -4,7 +4,7 @@ mission: Évaluez vos droits à 15 aides sociales. En moins de 6 minutes.
 domain: mes-aides.gouv.fr
 repository: https://github.com/sgmap/mes-aides-ui
 status: consolidation
-contact: mes-aides@sgmap.fr
+contact: contact@mes-aides.gouv.fr
 start: 2014-05-01
 owner: SGMAP
 screenshot: http://www.metronews.fr/_internal/gxml!0/r0dc21o2f3vste5s7ezej9x3a10rp3w$6brd9r1zfbrvb70myu96d46alqv8225/Capture-decran-2014-12-18-a-19.jpeg
