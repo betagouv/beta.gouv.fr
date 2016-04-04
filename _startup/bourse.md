@@ -1,5 +1,5 @@
 ---
-title: Bourses
+title: Bourse
 mission: Demander et liquider une bourse de collège en ligne.
 domain: https://bourse.beta.gouv.fr
 repository: https://github.com/sgmap/bourses/
