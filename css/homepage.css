@@ -11,6 +11,7 @@ body {
 
 .links {
 	text-align: right;
+	text-shadow: none;
 }
 
 #cycle, #blog {

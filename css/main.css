@@ -28,7 +28,7 @@ a.cta {
 	font-weight: bold;
 }
 
-.primary.cta {
+.primary.cta, .secondary.cta {
 	font-size: 130%;
 }
 
@@ -138,7 +138,7 @@ footer, #masthead {
 }
 
 a.investigation.cta:hover, a.investigation.cta:focus {
-	box-shadow: 0 0 .3em .1em #1b91a3;
+	box-shadow: inset 0 0 0 3px white;
 }
 
 .construction {
