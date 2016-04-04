@@ -4,7 +4,7 @@ mission: "Découvrir autour de moi tous les dispositifs publics et privés desti
 domain:
 repository:
 status: construction
-contact: boussole@sgmap.fr
+contact: contact@boussole.beta.gouv.fr
 start: 2015-12-01
 owner: DJEPVA
 ---
