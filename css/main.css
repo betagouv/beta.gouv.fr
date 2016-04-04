@@ -74,8 +74,8 @@ footer {
 	font-size: 70%;
 	padding: 1em;
 
-	background-color: #333;
-	color: #EEE;
+	background-color: #AAA;
+	color: #FFF;
 }
 
 footer ul {
@@ -93,6 +93,35 @@ footer li {
 
 footer li a:hover {
 	text-decoration: underline;
+}
+
+footer, #masthead {
+	background-size: cover;
+	background-position: bottom center;
+	background-attachment: fixed;
+}
+
+#masthead {
+	max-width: 100%;
+	padding: 7em;
+	color: white;
+	letter-spacing: .05em;
+	background-color: #CCC;
+}
+
+#masthead h1 {
+	text-transform: uppercase;
+	line-height: 1;
+	font-size: 300%;
+	max-width: 20em;
+	margin-top: 0;
+
+}
+
+#masthead, footer {
+	box-shadow: inset 0em 0em 1em #666;
+	text-shadow: 0 0 .5em #666;
+	background-blend-mode: darken;
 }
 
 .investigation {
@@ -131,34 +160,6 @@ a.ui.card {
 	text-decoration: none;
 	color: inherit;
 	cursor: pointer;
-}
-
-footer, #masthead {
-	background-size: cover;
-	background-position: bottom center;
-	background-attachment: fixed;
-}
-
-#masthead {
-	max-width: 100%;
-	background-color: #222;
-	padding: 7em;
-	color: white;
-	letter-spacing: .05em;
-}
-
-#masthead h1 {
-	text-transform: uppercase;
-	line-height: 1;
-	font-size: 300%;
-	max-width: 20em;
-	margin-top: 0;
-
-}
-
-#masthead, footer {
-	box-shadow: inset 0em 0em 1em #000;
-	text-shadow: 0 0 .5em #000;
 }
 
 
