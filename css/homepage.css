@@ -1,7 +1,6 @@
 body {
 	margin: 0;
 	max-width: 100%;
-	background-color: #DDD;
 }
 
 #masthead {
@@ -12,11 +11,10 @@ body {
 
 .links {
 	text-align: right;
+	text-shadow: none;
 }
 
 #cycle, #blog {
-	padding-top: 1em;
-	padding-bottom: 1.5em;
 	font-size: 130%;
 	line-height: 2;
 
@@ -71,17 +69,5 @@ body {
 
 	.large.screen.only {
 		display: none;
-	}
-}
-
-@media (min-width: 1368px) {
-	#masthead {
-		background-image: url('/img/index@2x.jpg');
-	}
-}
-
-@media (min-width: 2736px) {
-	#masthead {
-		background-image: url('/img/index@4x.jpg');
 	}
 }
