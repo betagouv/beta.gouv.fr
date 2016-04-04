@@ -9,7 +9,7 @@ body {
 	padding-bottom: 7rem; /** footer height **/
 	font-family: "Century Gothic", "Gilles Sans", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 
-	background-color: #F1F1F1;
+	background-color: #F3F3F3;
 }
 
 a {
@@ -64,6 +64,11 @@ header svg {
 	margin-top: .1em;
 	height: 80%;
 	margin-right: .8em;
+}
+
+main, section {
+	padding-top: 2em;
+	padding-bottom: 2em;
 }
 
 footer {
