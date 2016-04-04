@@ -74,7 +74,7 @@ footer {
 	font-size: 70%;
 	padding: 1em;
 
-	background-color: #AAA;
+	background-color: #888;
 	color: #FFF;
 }
 
@@ -122,6 +122,10 @@ footer, #masthead {
 	box-shadow: inset 0em 0em 1em #666;
 	text-shadow: 0 0 .5em #666;
 	background-blend-mode: darken;
+}
+
+.no-backgroundblendmode footer {
+	background-image: none !important;  /* ensure contrast is sufficient */
 }
 
 .investigation {
