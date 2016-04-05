@@ -27,8 +27,24 @@
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
 	<style type="text/css">
-		#masthead {
-			background-image: url("/img/{{ page.path | replace:'_posts','posts' | replace:'.html','.jpg' | replace:'.md','.jpg' }}");
+		{% capture mastheadImagePath %}{{ site.baseurl }}img/{{ page.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}{% endcapture %}
+
+		#masthead, footer {
+			background-image: url("{{ mastheadImagePath }}.jpg");
+		}
+
+		@media (min-width: 1368px) {
+			#masthead, footer {
+				background-image: url("{{ mastheadImagePath }}@2x.jpg"),
+								  url("{{ mastheadImagePath }}.jpg"); /* fallback */
+			}
+		}
+
+		@media (min-width: 2736px) {
+			#masthead, footer {
+				background-image: url("{{ mastheadImagePath }}@4x.jpg"),
+								  url("{{ mastheadImagePath }}.jpg"); /* fallback */
+			}
 		}
 	</style>
 </head>
