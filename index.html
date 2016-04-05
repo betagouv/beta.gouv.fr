@@ -32,7 +32,7 @@ additional_css: homepage
 	{% endcapture %}
 	{% include phase.html phase='investigation'
 		description=investigationDescription
-		featured='psi' %}
+		illustration='psi' %}
 
 	{% capture constructionDescription %}
 		<p>L’équipe cerne le besoin avec les usagers pilotes et fournit un premier produit qui les satisfait.</p>
@@ -41,7 +41,7 @@ additional_css: homepage
 	{% endcapture %}
 	{% include phase.html phase='construction'
 		description=constructionDescription
-		featured='ban' %}
+		illustration='ban' %}
 
 	{% capture consolidationDescription %}
 		<p>Les usagers d'administrations pilotes utilisent et répandent le service.</p>
@@ -50,7 +50,7 @@ additional_css: homepage
 	{% endcapture %}
 	{% include phase.html phase='consolidation'
 		description=consolidationDescription
-		featured='labonneboite' %}
+		illustration='labonneboite' %}
 
 	{% capture passationDescription %}
 		<p>L'équipe et l'administration porteuse considèrent que le service est viable.</p>
@@ -59,7 +59,7 @@ additional_css: homepage
 	{% endcapture %}
 	{% include phase.html phase='passation'
 		description=passationDescription
-		featured='' %}
+		illustration='' %}
 
 	<h3 class="centered success row">
 		<a href="startups" class="primary success cta">Explorez {{ site.startup | size | minus:featuredStartupsCount }} autres Startups d'État&nbsp;&nbsp;➤</a>
