@@ -12,6 +12,11 @@ body {
 	background-color: #F3F3F3;
 }
 
+/* degradability, see http://bitsofco.de/styling-broken-images */
+img {
+	font-family: inherit;
+}
+
 a {
 	color: inherit;
 }
@@ -42,11 +47,6 @@ a.cta:hover, a.cta:focus {
 
 body > a, footer a {
 	text-decoration: none;
-}
-
-/* degradability, see http://bitsofco.de/styling-broken-images */
-img {
-	font-family: inherit;
 }
 
 header {
@@ -107,7 +107,6 @@ footer, #masthead {
 }
 
 #masthead {
-	max-width: 100%;
 	padding: 7em;
 	color: white;
 	letter-spacing: .05em;
@@ -120,7 +119,6 @@ footer, #masthead {
 	font-size: 300%;
 	max-width: 20em;
 	margin-top: 0;
-
 }
 
 #masthead, footer {
