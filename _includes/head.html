@@ -20,9 +20,9 @@
 	{% if page.layout != 'default' %}
 	<link rel="stylesheet" type="text/css" href="{{ "css/" | append: page.layout | append: ".css" | prepend: site.baseurl }}">
 	{% endif %}
-	{% if page.additional_css %}
-	<link rel="stylesheet" type="text/css" href="{{ "css/" | append: page.additional_css | append: ".css" | prepend: site.baseurl }}">
-	{% endif %}
+	{% for file in page.additional_css %}
+		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}css/{{ file }}.css">
+	{% endfor %}
 
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
