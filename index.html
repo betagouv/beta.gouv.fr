@@ -2,15 +2,48 @@
 additional_css: homepage
 ---
 
-<section id="masthead">
-	<p>Votre administration pourrait fournir un meilleur service grâce à un produit numérique&nbsp;?</p>
-	<h1>{{ site.description }}</h1>
+<section id="masthead" class="ui two columns padded stackable grid">
+	<div class="column">
+		<h1>{{ site.description }}</h1>
 
-	<div class="links">
-		<a class="secondary investigation cta" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés</a>
 		<a class="primary investigation cta" href="#cycle">Découvrez comment</a>
 	</div>
+
+	<div class="column" id="example">
+		Par exemple&nbsp;:
+
+		{% include startup-card.html id='mes-aides' %}
+		{% include startup-card.html id='labonneboite' %}
+		{% include startup-card.html id='embauche' %}
+
+		<span id="otherExample">Voir un autre exemple</span>
+	</div>
 </section>
+
+<script>
+	var currentIndex = 0,
+		total = 0;
+
+	function selectorForIndex(index) {
+		total = total || $('#masthead .card').length;
+		index = index % total;
+		return '#masthead .card:nth-child(' + (index + 1) + ')';
+	}
+
+	function showExample(event) {
+		$(selectorForIndex(currentIndex) + ',' + selectorForIndex(currentIndex + 1))
+			.transition('fade right');
+
+		currentIndex++;
+	}
+
+	window.onload = function() {
+		$('#masthead .card').transition('hide');
+		$(selectorForIndex(currentIndex)).transition('browse');
+	}
+
+	document.getElementById('otherExample').addEventListener('click', showExample);
+</script>
 
 <section id="cycle">
 	<h2 class="ui divider horizontal">Phases d'une Startup d'État</h2>

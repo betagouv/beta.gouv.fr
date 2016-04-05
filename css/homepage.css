@@ -5,13 +5,27 @@ body {
 
 #masthead {
 	background-image: url('/img/header.jpg');
-
-	font-weight: bold;
 }
 
-.links {
-	text-align: right;
-	text-shadow: none;
+.animating.out {
+	position: absolute;
+}
+
+#otherExample {
+	cursor: pointer;
+}
+
+#otherExample:hover {
+	text-decoration: underline;
+}
+
+/* Degradability + avoid FOUC */
+#masthead .card, .no-js #otherExample {
+	visibility: hidden;
+}
+
+#masthead .card:first-child {
+	visibility: visible;
 }
 
 #cycle, #blog {
@@ -48,23 +62,11 @@ body {
 	color: black;
 }
 
-@media (max-width: 50em) {
-	.links a {
-		text-align: center;
-		display: inline-block;
-		margin: 0;
-		padding: .5em;
-	}
-}
 
 @media (max-width: 34em) {
 	#cycle, #blog {
 		text-align: left;
 		line-height: 1.5;
-	}
-
-	.links a {
-		display: block;
 	}
 
 	.large.screen.only {

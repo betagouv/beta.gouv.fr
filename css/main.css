@@ -107,7 +107,7 @@ footer, #masthead {
 }
 
 #masthead {
-	padding: 7em;
+	padding: 5em;
 	color: white;
 	letter-spacing: .05em;
 	background-color: #CCC;
@@ -123,8 +123,11 @@ footer, #masthead {
 
 #masthead, footer {
 	box-shadow: inset 0em 0em 1em #666;
-	text-shadow: 0 0 .5em #666;
 	background-blend-mode: darken;
+}
+
+#masthead h1, footer {
+	text-shadow: 0 0 .5em #666;
 }
 
 .no-backgroundblendmode footer {
