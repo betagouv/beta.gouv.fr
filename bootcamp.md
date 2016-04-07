@@ -13,7 +13,8 @@ En une journée, vous rencontrez des mentors expérimentés des Startups d'Etat 
   - André Dorso, créateur de [Le.Taxi](https://beta.gouv.fr/startup/taxi.html)
   - Christophe Bonraisin, créateur de [La Bonne Formation](https://beta.gouv.fr/startup/labonneformation.html)
   - Hela Ghariani & Matti Schneider, créateurs de [Mes-Aides.gouv.fr](https://beta.gouv.fr/startup/mes-aides.html)
-  - Christian Quest, créateur de la [Base Adresse Nationale](https://beta.gouv.fr/startup/ban.html)
+  - Christian Quest, coordinateur technique de la [Base Adresse Nationale](https://beta.gouv.fr/startup/ban.html)
+  - Pierre De-Maulmont, animateur de la communauté [OpenAcademie](https://openacademie.beta.gouv.fr/)
   - Laurent Bossavit, Ismaël Héry, Pierre Pezziardi, animateurs de la filière des Startups d'Etat
 
 Vous peaufinez votre pitch : valorisation du problème visé, public cible, partenaires, proposition de valeur unique, capacité à mettre en marché en moins de 6 mois…
@@ -24,7 +25,7 @@ Ensuite, à vous de jouer…
 
 ## Quand ?
 
-Le 30 mars 2016, de 9h30 à 17h30
+Le 2 mai 2016, de 9h30 à 17h30
 
 ## Où ?
 
@@ -38,10 +39,10 @@ Une journée conviviale pour s'entraîner et se rencontrer, culminant en une com
 
 ## Pour qui ?
 
-Agents des administrations centrales ou des opérateurs… assumant leur âme d'intrapreneur !
+Agents des administrations ou des opérateurs publics… assumant leur âme d'intrapreneur !
 
 Inscription gratuite, capacité d'accueil limitée à 50 participants.
 
 ## Comment s'inscrire ?
 
-Merci de vous dénoncer par mail à <laurent.bossavit@modernisation.gouv.fr>, en incluant une brève présentation (deux ou trois paragraphes) de votre situation, de vos motivations et des irritants qui vous hérissent le poil.
+Merci de vous dénoncer par mail à <laurent.bossavit@beta.gouv.fr>, en incluant une brève présentation (deux ou trois paragraphes) de votre situation, de vos motivations et des irritants qui vous hérissent le poil.
