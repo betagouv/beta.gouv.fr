@@ -8,7 +8,6 @@
 
 	<link rel="stylesheet" type="text/css" class="ui" href="//oss.maxcdn.com/semantic-ui/2.1.8/components/reset.min.css">
 	<link rel="stylesheet" type="text/css" class="ui" href="//oss.maxcdn.com/semantic-ui/2.1.8/components/container.min.css">
-	<link rel="stylesheet" type="text/css" class="ui" href="//oss.maxcdn.com/semantic-ui/2.1.8/components/button.min.css">
 	<link rel="stylesheet" type="text/css" class="ui" href="//oss.maxcdn.com/semantic-ui/2.1.8/components/grid.min.css">
 	<link rel="stylesheet" type="text/css" class="ui" href="//oss.maxcdn.com/semantic-ui/2.1.8/components/divider.min.css">
 	<link rel="stylesheet" type="text/css" class="ui" href="//oss.maxcdn.com/semantic-ui/2.1.8/components/card.min.css">
@@ -17,9 +16,35 @@
 	<link rel="stylesheet" type="text/css" href="{{ "css/main.css" | prepend: site.baseurl }}">
 	<link rel="stylesheet" type="text/css" href="{{ "css/startup-card.css" | prepend: site.baseurl }}">
 	<link rel="stylesheet" type="text/css" href="{{ "css/tooltip.css" | prepend: site.baseurl }}">
+
+	{% if page.layout != 'default' %}
+	<link rel="stylesheet" type="text/css" href="{{ "css/" | append: page.layout | append: ".css" | prepend: site.baseurl }}">
+	{% endif %}
 	{% if page.additional_css %}
 	<link rel="stylesheet" type="text/css" href="{{ "css/" | append: page.additional_css | append: ".css" | prepend: site.baseurl }}">
 	{% endif %}
 
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+	<style type="text/css">
+		{% capture mastheadImagePath %}{{ site.baseurl }}img/{{ page.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}{% endcapture %}
+
+		#masthead, footer {
+			background-image: url("{{ mastheadImagePath }}.jpg");
+		}
+
+		@media (min-width: 1368px) {
+			#masthead, footer {
+				background-image: url("{{ mastheadImagePath }}@2x.jpg"),
+								  url("{{ mastheadImagePath }}.jpg"); /* fallback */
+			}
+		}
+
+		@media (min-width: 2736px) {
+			#masthead, footer {
+				background-image: url("{{ mastheadImagePath }}@4x.jpg"),
+								  url("{{ mastheadImagePath }}.jpg"); /* fallback */
+			}
+		}
+	</style>
 </head>

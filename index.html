@@ -2,66 +2,93 @@
 additional_css: homepage
 ---
 
-<section id="mission-statement">
-	<img src="img/header.jpg" alt="" />
-	<div>
-		<p><span>Votre administration pourrait fournir un meilleur service grâce à un produit numérique ?</span></p>
-		<h1><span>{{ site.description }}</span></h1>
+<section id="masthead">
+	<p>Votre administration pourrait fournir un meilleur service grâce à un produit numérique&nbsp;?</p>
+	<h1>{{ site.description }}</h1>
 
-		<a class="ui big orange basic button" href="#methode">Découvrez comment&nbsp;&nbsp;⬇︎</a>
-		<a class="ui big teal button" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés&nbsp;&nbsp;➤</a>
+	<div class="links">
+		<a class="secondary investigation cta" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés</a>
+		<a class="primary investigation cta" href="#cycle">Découvrez comment</a>
 	</div>
-
 </section>
 
-<section id="methode">
-	<h2 class="ui divider horizontal">La méthode Startup d'État</h2>
+<section id="cycle">
+	<h2 class="ui divider horizontal">Phases d'une Startup d'État</h2>
 
-	{% capture method %}{% include method.md %}{% endcapture %} <!-- http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/ -->
-	{{ method | markdownify }}
+	<ol class="ui container">
+		<li>Un agent public <strong>investigue</strong> une friction entre administration et citoyens.</li>
+		<li>Deux à quatre personnes <strong>construisent</strong> un produit numérique en moins de six mois.</li>
+		<li>L'équipe <strong>consolide</strong> le service en élargissant son public cible.</li>
+		<li>Un opérateur institutionnel <strong>reprend</strong> le service et assure sa pérennité.</li>
+	</ol>
 </section>
 
 
 <section id="phases" class="ui vertically divided two columns stackable padded grid container">
+	{% capture investigationDescription %}
+		<p>Un <abbr title="D’un ministère ou d’un opérateur.">agent public</abbr> identifie une friction entre les usagers et son administration.</p>
+		<p>Attente, gaspillage, complexité, non-recours… Aidé par l'incubateur, l'agent public vérifie que cette friction concerne un public suffisamment large, qu’un outil numérique pourrait la faire disparaitre, et que les obstacles techniques sont surmontables. Son administration valide le recrutement d'un ou deux développeurs et du responsable produit.</p>
+		<p>Cette équipe de 2 à 4 personnes constitue dès lors une Startup d'État autonome.</p>
+	{% endcapture %}
+	{% include phase.html phase='investigation'
+		description=investigationDescription
+		featured='psi' %}
 
-{% for phase in site.phases.incubation %}
-	{% assign startups = site.startup | where:'status',phase[0] %}
-	{% assign startupsCount = startups | size %}
+	{% capture constructionDescription %}
+		<p>L’équipe cerne le besoin avec les usagers pilotes et fournit un premier produit qui les satisfait.</p>
+		<p>Cette promesse est élaborée de manière itérative et incrémentale. À l’aide de discussions, de prototypes papier et de code, l'équipe confirme ou infirme de nombreuses hypothèses à moindre coût. Une proposition de valeur qui résout un problème bien identifié est retenue. Toutes les deux semaines, la communauté des utilisateurs voit le service s'améliorer.</p>
+		<p>La Startup d'État ouvre au public un service en mode <abbr title="Expérimental">bêta</abbr> qui répond à cette proposition de valeur.</p>
+	{% endcapture %}
+	{% include phase.html phase='construction'
+		description=constructionDescription
+		featured='ban' %}
 
-	{% assign featuredStartup = false %}
-	{% capture id %}/startup/{{ phase[1].featured}}{% endcapture %}
-	{% for startup in site.startup %}
-		{% if startup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
-			{% assign featuredStartup = startup %}
-			<!-- {% increment featuredStartupsCount %} {% comment %} HTML-commented because it outputs, but still computed {% endcomment %} -->
-		{% endif %}
-	{% endfor %}
+	{% capture consolidationDescription %}
+		<p>Les usagers d'administrations pilotes utilisent et répandent le service.</p>
+		<p>Au niveau technique, la Startup d’État s’assure que la solution est fiable et répond à un nombre croissant de demandes. Sur le plan fonctionnel, les retours d'utilisateurs réels permettent d'améliorer le service en continu et de prendre en compte des cas spécifiques.</p>
+		<p>La Startup d'État améliore et clarifie continuellement le service rendu à l'usager.</p>
+	{% endcapture %}
+	{% include phase.html phase='consolidation'
+		description=consolidationDescription
+		featured='labonneboite' %}
 
+	{% capture passationDescription %}
+		<p>L'équipe et l'administration porteuse considèrent que le service est viable.</p>
+		<p>L'administration porteuse prend progressivement en charge l'exploitation et l'amélioration continue du service, soit en intégrant l'équipe dans sa structure de manière pérenne, soit en formant son personnel historique à la gestion du service.</p>
+		<p>La Startup d'État a terminé sa mission, et le service est opéré et amélioré en continu par l'administration porteuse.</p>
+	{% endcapture %}
+	{% include phase.html phase='passation'
+		description=passationDescription
+		featured='' %}
 
-	<h2 id="{{ phase[0] }}" class="centered row {{ phase[0] }}">
-		{{ phase[1].name | capitalize }}
-	</h2>
+	<h3 class="centered success row">
+		<a href="startups" class="primary success cta">Explorez {{ site.startup | size | minus:featuredStartupsCount }} autres Startups d'État&nbsp;&nbsp;➤</a>
+	</h3>
+</section>
 
-	<div class="row {{ phase[0] }}">
-		<div class="column">
-			<p>{{ phase[1].description }}</p>
-			<p>
-				<a href="{{ site.baseurl }}startups">{{ startupsCount }} produits</a> dans cette phase{% if featuredStartup %}, dont par exemple <em>{{ featuredStartup.title }}</em>{% endif %}.
-			</p>
-		</div>
+<section id="blog">
+	<h2 class="ui divider horizontal">Dernières annonces</h2>
 
-		<div class="column">
-			{% if featuredStartup %}
-				{% include startup-card.html description=featuredStartup %}
-			{% else %}
-				<em>Revenez bientôt pour voir des produits dans cette phase !</em>
-			{% endif %}
-		</div>
+	<ul class="ui container">
+		{% for post in site.posts | limit:5 %}
+			<li>
+				{% if post.category == 'evenement' %}
+					Retrouvez-nous le <time datetime="{{ post.start }}"></time> pour <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.location }}).
+				{% else %}
+					<a href="{{ post.url }}">{{ post.title }}</a>
+				{% endif %}
+			</li>
+		{% endfor %}
+	</ul>
+</section>
+
+<section id="incubateur">
+	<h2 class="ui divider horizontal">L'Incubateur <span class="large screen only">de services numériques</span> de la DINSIC</h2>
+
+	<div class="ui text container">
+		<p>Le <a href="https://modernisation.gouv.fr"><abbr title="Secrétariat Général pour la Modernisation de l'Action Publique">SGMAP</abbr></a> a expérimenté cette nouvelle manière de construire des services publics numériques dès juin 2013. L'Incubateur de Services Numériques est devenu une mission officielle de la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr> depuis septembre 2015.</p>
+		<p>L'Incubateur du SGMAP accompagne la création de Startups d'État et diffuse ainsi la culture de l'innovation numérique au sein de l'action publique. Il a vocation à faire émerger un réseau d'incubateurs de Startups d'État dans toutes les administrations.</p>
+		<p class="cta">Vous souhaitez rejoindre ce mouvement ? Découvrez la <a href="philosophie.html">philosophie</a> des incubateurs de services numériques et <a href="contact.html">contactez-nous</a> !
+		</p>
 	</div>
-{% endfor %}
-
-	<div class="row centered column">
-		<a class="ui big orange button" href="{{ site.baseurl }}startups">Explorez nos {{ site.startup | size | minus:featuredStartupsCount }} autres services&nbsp;&nbsp;➤</a>
-	</div>
-
 </section>

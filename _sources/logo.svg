@@ -26,9 +26,9 @@
     <tspan
       x="0"
       y="50"
-      style="font-weight: bold; font-family:'Panic Sans', Monaco, monospace;">
-      beta<tspan
-        style="font-weight: normal; font-style: italic; font-size: 56.25px; font-family: 'Times New Roman';">.gouv.fr
+      style="font-weight: bold; font-family: 'Century Gothic Std';">
+      beta.gouv<tspan
+        style="font-weight: normal; font-style: italic; font-size: 56.25px; font-family: 'Times New Roman';">.fr
       </tspan>
     </tspan>
   </text>

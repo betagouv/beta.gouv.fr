@@ -7,8 +7,10 @@ machine:
     GITHUB_PAGES_RUBY_VERSION: $(curl -s https://raw.githubusercontent.com/github/pages-gem/master/.ruby-version | cut -d '-' -f 1)
 
 dependencies:
+  cache_directories:
+    - /home/ubuntu/.rvm/gems/
   post:
-    - gem install github-pages --no-ri --no-rdoc
+    - if [[ ! -e /home/ubuntu/.rvm/gems/ruby-$GITHUB_PAGES_RUBY_VERSION/gems/github-pages-* ]]; then gem install github-pages --no-ri --no-rdoc; fi
     - jekyll --version  # print it out
     - sudo pip install html5validator
 

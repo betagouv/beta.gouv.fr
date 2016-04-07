@@ -1,82 +1,73 @@
 body {
-	padding: 0;
 	margin: 0;
 	max-width: 100%;
-	background-color: #DDD;
 }
 
-#mission-statement {
-	position: relative;
-	max-width: 100%;
-	padding: 0;
+#masthead {
+	background-image: url('/img/header.jpg');
+
+	font-weight: bold;
 }
 
-#mission-statement img {
-	width: 100%;
+.links {
+	text-align: right;
+	text-shadow: none;
 }
 
-#mission-statement div {
-	position: absolute;
-	top: 10%;
-	left: 5%;
-	width: 70%;
-	margin: 0;
-}
-
-#mission-statement span {
-	padding: .2em 0;
-
-	font-size: 150%;
-	line-height: 1.8;
-	letter-spacing: .05em;
-
-	text-transform: uppercase;
-	color: #444;
-	background-color: rgba(255, 255, 255, .6);
-}
-
-#mission-statement + section {
-	margin-top: -5px;  /* container above leaks 3~4 pixels in, no idea why */
-}
-
-section {
-	padding-bottom: 2em;
-}
-
-#methode {
-	padding: 1em;
+#cycle, #blog {
 	font-size: 130%;
+	line-height: 2;
 
 	text-align: center;
 	background-color: #FEFEFE;
 }
 
-#methode * {
-	max-width: 60rem;
-	margin: 1em auto;
-}
-
-#methode ol {
+#cycle ol, #blog ul {
 	list-style-position: inside;
 	padding-left: 0;
 }
 
 #phases {
 	color: #FEFEFE;
+	font-size: 110%;
+}
+
+#phases .text.container {
+	margin-top: 0;
+}
+
+#phases .text.container p:last-child, #blog ul {
+	margin-bottom: 0;
+}
+
+.primary.success.cta {
+	display: block;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	color: black;
 }
 
 @media (max-width: 50em) {
-	#mission-statement div {
-		top: -12em;
-		margin-bottom: -12em;
-		left: 0;
-		width: 100%;
-		position: relative;
+	.links a {
 		text-align: center;
-		font-size: 80%;
+		display: inline-block;
+		margin: 0;
+		padding: .5em;
+	}
+}
+
+@media (max-width: 34em) {
+	#cycle, #blog {
+		text-align: left;
+		line-height: 1.5;
 	}
 
-	#methode {
-		font-size: 110%;
+	.links a {
+		display: block;
+	}
+
+	.large.screen.only {
+		display: none;
 	}
 }

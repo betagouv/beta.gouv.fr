@@ -1,16 +1,52 @@
+html {
+	height: 100%;
+}
+
 body {
-	font-family: "Century Gothic", "Open Sans", "Gilles Sans", "Arial", "Helvetica Neue", sans-serif;
-	background-color: #EEE;
-	max-width: 60rem;
-	margin: auto;
+	min-height: 100%;
+	position: relative;
+	padding: 0;
+	padding-bottom: 7rem; /** footer height **/
+	font-family: "Century Gothic", "Gilles Sans", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+
+	background-color: #F3F3F3;
 }
 
 a {
 	color: inherit;
 }
 
-body > a {
+a.cta {
+	padding: .75em;
+	margin: .75em;
+
 	text-decoration: none;
+	transition: box-shadow .5s;
+}
+
+.cta {
+	font-weight: bold;
+}
+
+.primary.cta, .secondary.cta {
+	font-size: 130%;
+}
+
+a.secondary.cta {
+	background-color: transparent;
+}
+
+a.cta:hover, a.cta:focus {
+	transition: box-shadow .1s;
+}
+
+body > a, footer a {
+	text-decoration: none;
+}
+
+/* degradability, see http://bitsofco.de/styling-broken-images */
+img {
+	font-family: inherit;
 }
 
 header {
@@ -23,15 +59,86 @@ header {
 	height: 2.4em;
 }
 
-header img {
+header svg {
 	float: right;
 	margin-top: .1em;
 	height: 80%;
 	margin-right: .8em;
 }
 
+main, section {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	font-size: 70%;
+	padding: 1em;
+
+	background-color: #888;
+	color: #FFF;
+}
+
+footer ul {
+	margin: 0;
+	padding: 0 3em;
+}
+
+footer li {
+	list-style-type: none;
+	display: inline-block;
+	width: 30%;
+	text-align: left;
+	margin-bottom: .5em;
+}
+
+footer li a:hover {
+	text-decoration: underline;
+}
+
+footer, #masthead {
+	background-size: cover;
+	background-position: bottom center;
+	background-attachment: fixed;
+}
+
+#masthead {
+	max-width: 100%;
+	padding: 7em;
+	color: white;
+	letter-spacing: .05em;
+	background-color: #CCC;
+}
+
+#masthead h1 {
+	text-transform: uppercase;
+	line-height: 1;
+	font-size: 300%;
+	max-width: 20em;
+	margin-top: 0;
+
+}
+
+#masthead, footer {
+	box-shadow: inset 0em 0em 1em #666;
+	text-shadow: 0 0 .5em #666;
+	background-blend-mode: darken;
+}
+
+.no-backgroundblendmode footer {
+	background-image: none !important;  /* ensure contrast is sufficient */
+}
+
 .investigation {
 	background-color: #1b91a3;
+}
+
+a.investigation.cta:hover, a.investigation.cta:focus {
+	box-shadow: inset 0 0 0 3px white;
 }
 
 .construction {
@@ -64,10 +171,33 @@ a.ui.card {
 	cursor: pointer;
 }
 
+
+@media (min-width: 100em) {
+	#masthead {
+		font-size: 120%;
+		padding: 14em;
+	}
+}
+
 @media (max-width: 50em) {
 	header {
 		background-position: 0;
 		font-size: 60%;
 		padding-left: 2em;
+	}
+
+	footer li {
+		width: 100%;
+		text-align: center;
+	}
+
+	#masthead {
+		padding: 2em;
+	}
+}
+
+@media (max-width: 34em) {
+	#masthead {
+		padding: 1em 0;
 	}
 }
