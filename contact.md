@@ -13,4 +13,5 @@ Vous êtes un développeur agile, pour vous l'informatique sert à résoudre des
 ## Ne pas nous contacter
 
 Vous avez une idée de startup et vous pensez que l'état devrait la financer ou la réaliser ? Contactez plutôt la [BPI](http://www.bpifrance.fr/) ou un incubateur dans votre région, ils seront plus à même de vous aider.
+
 Vous n'êtes pas satisfait des services d'une administration publique et souhaitez le signaler ? Adressez votre demande ou votre idée à [Faire Simple](http://www.faire-simple.gouv.fr/), elle sera entendue.
