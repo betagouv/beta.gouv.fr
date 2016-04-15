@@ -1,5 +1,6 @@
 ---
 additional_css: homepage
+additional_js: homepage
 ---
 
 <section id="masthead" class="ui two columns padded stackable grid">
@@ -17,31 +18,6 @@ additional_css: homepage
 		<span id="otherExample">Voir un autre service&nbsp;➢</span>
 	</div>
 </section>
-
-<script>
-	var currentIndex = 0,
-		total = 0;
-
-	function selectorForIndex(index) {
-		total = total || $('#masthead .card').length;
-		index = index % total;
-		return '#masthead .card:nth-child(' + (index + 1) + ')';
-	}
-
-	function showExample(event) {
-		$(selectorForIndex(currentIndex) + ',' + selectorForIndex(currentIndex + 1))
-			.transition('fade right');
-
-		currentIndex++;
-	}
-
-	window.onload = function() {
-		$('#masthead .card').transition('hide');
-		$(selectorForIndex(currentIndex)).transition('browse');
-	}
-
-	document.getElementById('otherExample').addEventListener('click', showExample);
-</script>
 
 <section id="cycle">
 	<h2 class="ui divider horizontal">Phases d'une Startup d'État</h2>
