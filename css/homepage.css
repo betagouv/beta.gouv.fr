@@ -13,6 +13,10 @@ body {
 
 #otherExample {
 	cursor: pointer;
+	float: right;
+
+	text-shadow: 0 0 .5em #666;
+	transition: opacity 3s 2s;
 }
 
 #otherExample:hover {
@@ -20,6 +24,10 @@ body {
 }
 
 /* Degradability + avoid FOUC */
+.no-js #otherExample {
+	opacity: 0;
+}
+
 #masthead .card, .no-js #otherExample {
 	visibility: hidden;
 }
