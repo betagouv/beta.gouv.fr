@@ -99,6 +99,10 @@ footer li {
 	margin-bottom: .5em;
 }
 
+footer li a {
+	margin-left: .5em;
+}
+
 footer li a:hover {
 	text-decoration: underline;
 }
