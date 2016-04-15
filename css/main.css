@@ -30,6 +30,7 @@ a.cta {
 }
 
 .cta {
+	cursor: pointer;
 	font-weight: bold;
 }
 
@@ -41,7 +42,9 @@ a.secondary.cta {
 	background-color: transparent;
 }
 
-a.cta:hover, a.cta:focus {
+.cta:hover, .cta:focus {
+	text-decoration: underline;
+
 	transition: box-shadow .1s;
 }
 
