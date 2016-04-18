@@ -76,8 +76,4 @@ body {
 		text-align: left;
 		line-height: 1.5;
 	}
-
-	.large.screen.only {
-		display: none;
-	}
 }
