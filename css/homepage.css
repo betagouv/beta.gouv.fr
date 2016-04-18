@@ -31,6 +31,11 @@ body {
 	visibility: visible;
 }
 
+/* IE < 10, nothing is better than fracked layout */
+.no-csstransitions #example, .no-csstransitions #otherExample {
+	display: none;
+}
+
 #cycle, #blog {
 	font-size: 130%;
 	line-height: 2;
