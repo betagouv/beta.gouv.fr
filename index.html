@@ -1,14 +1,24 @@
 ---
 additional_css: homepage
+additional_js: homepage
 ---
 
-<section id="masthead">
-	<p>Votre administration pourrait fournir un meilleur service grâce à un produit numérique&nbsp;?</p>
-	<h1>{{ site.description }}</h1>
+<section id="masthead" class="ui two columns padded stackable grid">
+	<div class="column">
+		<h1>{{ site.description }}</h1>
+	</div>
 
-	<div class="links">
-		<a class="secondary investigation cta" href="{{ site.baseurl }}startups">Explorez les {{ site.startup | size }} déjà créés</a>
+	<div class="column" id="example">
+		{% include startup-card.html id='mes-aides' %}
+		{% include startup-card.html id='labonneboite' %}
+		{% include startup-card.html id='embauche' %}
+	</div>
+
+	<div class="column">
 		<a class="primary investigation cta" href="#cycle">Découvrez comment</a>
+	</div>
+	<div class="column">
+		<span class="cta" id="otherExample">Voir un autre service&nbsp;➢</span>
 	</div>
 </section>
 
@@ -32,7 +42,7 @@ additional_css: homepage
 	{% endcapture %}
 	{% include phase.html phase='investigation'
 		description=investigationDescription
-		featured='psi' %}
+		illustration='psi' %}
 
 	{% capture constructionDescription %}
 		<p>L’équipe cerne le besoin avec les usagers pilotes et fournit un premier produit qui les satisfait.</p>
@@ -41,7 +51,7 @@ additional_css: homepage
 	{% endcapture %}
 	{% include phase.html phase='construction'
 		description=constructionDescription
-		featured='ban' %}
+		illustration='ban' %}
 
 	{% capture consolidationDescription %}
 		<p>Les usagers d'administrations pilotes utilisent et répandent le service.</p>
@@ -50,7 +60,7 @@ additional_css: homepage
 	{% endcapture %}
 	{% include phase.html phase='consolidation'
 		description=consolidationDescription
-		featured='labonneboite' %}
+		illustration='labonneboite' %}
 
 	{% capture passationDescription %}
 		<p>L'équipe et l'administration porteuse considèrent que le service est viable.</p>
@@ -59,7 +69,7 @@ additional_css: homepage
 	{% endcapture %}
 	{% include phase.html phase='passation'
 		description=passationDescription
-		featured='' %}
+		illustration='' %}
 
 	<h3 class="centered success row">
 		<a href="startups" class="primary success cta">Explorez {{ site.startup | size | minus:featuredStartupsCount }} autres Startups d'État&nbsp;&nbsp;➤</a>

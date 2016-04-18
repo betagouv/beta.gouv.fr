@@ -8,7 +8,7 @@ contact: eric.barthelemy@pole-emploi.fr
 logo: http://labonneboite.pole-emploi.fr/static/images/logo-lbb.png
 start: 2015-05-01
 owner: Pôle Emploi
-screenshot: /img/screenshots/labonneboite.png
+screenshot: /img/startups/labonneboite.png
 ---
 
 Trouvez les entreprises qui vont recruter près d'une adresse. Mieux qu'un simple annuaire, la Bonne Boite cible pour vous les entreprises ayant des perspectives d'embauche élevées. Ce ciblage est obtenu par l'analyse de millions de recrutements sur toutes les entreprises françaises.
