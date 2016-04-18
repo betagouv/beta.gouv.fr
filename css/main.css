@@ -12,6 +12,11 @@ body {
 	background-color: #F3F3F3;
 }
 
+/* degradability, see http://bitsofco.de/styling-broken-images */
+img {
+	font-family: inherit;
+}
+
 a {
 	color: inherit;
 }
@@ -25,6 +30,7 @@ a.cta {
 }
 
 .cta {
+	cursor: pointer;
 	font-weight: bold;
 }
 
@@ -36,17 +42,14 @@ a.secondary.cta {
 	background-color: transparent;
 }
 
-a.cta:hover, a.cta:focus {
+.cta:hover, .cta:focus {
+	text-decoration: underline;
+
 	transition: box-shadow .1s;
 }
 
 body > a, footer a {
 	text-decoration: none;
-}
-
-/* degradability, see http://bitsofco.de/styling-broken-images */
-img {
-	font-family: inherit;
 }
 
 header {
@@ -107,8 +110,7 @@ footer, #masthead {
 }
 
 #masthead {
-	max-width: 100%;
-	padding: 7em;
+	padding: 5em;
 	color: white;
 	letter-spacing: .05em;
 	background-color: #CCC;
@@ -116,17 +118,19 @@ footer, #masthead {
 
 #masthead h1 {
 	text-transform: uppercase;
-	line-height: 1;
+	line-height: 1.25;
 	font-size: 300%;
 	max-width: 20em;
 	margin-top: 0;
-
 }
 
 #masthead, footer {
 	box-shadow: inset 0em 0em 1em #666;
-	text-shadow: 0 0 .5em #666;
 	background-blend-mode: darken;
+}
+
+#masthead h1, footer {
+	text-shadow: 0 0 .5em #666;
 }
 
 .no-backgroundblendmode footer {
