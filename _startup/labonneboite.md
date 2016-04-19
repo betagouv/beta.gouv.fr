@@ -5,9 +5,9 @@ domain: labonneboite.pole-emploi.fr
 repository:
 status: consolidation
 contact: eric.barthelemy@pole-emploi.fr
-logo: http://labonneboite.pole-emploi.fr/static/images/logo-lbb.png
 start: 2015-05-01
 owner: Pôle Emploi
+logo: /img/logos/labonneboite.png
 screenshot: /img/startups/labonneboite.png
 ---
 
