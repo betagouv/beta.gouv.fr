@@ -7,7 +7,6 @@ status: consolidation
 contact: contact@mes-aides.gouv.fr
 start: 2014-05-01
 owner: SGMAP
-screenshot: /img/startups/mes-aides.png
 ---
 
 Saisissez la situation de votre foyer, et vous connaîtrez votre éligibilité aux principales prestations sociales : Revenu de Solidarité Active (RSA) socle et activité, Allocation Spécifique de Solidarité (ASS), Couverture Médicale Universelle (CMU), Aide Complémentaire Santé (ACS), Allocation de Solidarité aux Personnes âgées (ASPA), Allocation Familiales (Allocation Soutien Familial, Complément Familial), et Allocations Logement (Allocation Logement Social, Allocation Logement Familial, Aide Personnalisée au Logement). Mes-aides intègre progressivement toutes les aides extra-légales distribuées par les collectivités.

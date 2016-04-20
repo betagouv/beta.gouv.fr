@@ -7,5 +7,6 @@ status: construction
 contact: contact@retraite.beta.gouv.fr
 start: 2015-10-01
 owner: CNAV
+screenshot: false
 ---
 
