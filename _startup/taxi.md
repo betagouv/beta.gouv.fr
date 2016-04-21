@@ -5,7 +5,7 @@ domain: le.taxi
 repository: https://github.com/openmaraude/APITaxi
 status: consolidation
 contact:
-logo: http://le.taxi/theme/images/logo_le.taxi.svg
+logo: https://cdn.rawgit.com/openmaraude/le.taxi/master/themes/taxitheme/static/images/logo_le.taxi.svg
 start: 2015-03-15
 owner: Ministère de l'Intérieur
 screenshot: /img/startups/taxi.jpg
