@@ -9,7 +9,7 @@ layout: default
 	<h2>{{ page.mission }}</h2>
 
 	{% if page.screenshot %}
-		{%if page.domain %}<a target="_blank" href="http://{{ page.domain }}">{% endif %}
+		{%if page.domain %}<a target="_blank" href="https://{{ page.domain }}">{% endif %}
 			<img class="screenshot" src="{{ page.screenshot }}" alt="Interface de {{ page.title }}" />
 		{%if page.domain %}</a>{% endif %}
 	{% endif %}
@@ -18,7 +18,7 @@ layout: default
 		<li>Le porteur administratif est {{ page.owner }}.</li>
 		<li>Le produit est en <em>{{ page.status}}</em>, il
 			{%if page.domain %}
-				est disponible sur <a href="http://{{ page.domain }}" title="{{ page.title }}">{{ page.domain }}</a>.
+				est disponible sur <a href="https://{{ page.domain }}" title="{{ page.title }}">{{ page.domain }}</a>.
 			{% else %}
 				<em>n'est pas encore accessible au public.</em>
 			{% endif %}
