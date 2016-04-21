@@ -8,7 +8,7 @@ contact:
 logo: http://le.taxi/theme/images/logo_le.taxi.svg
 start: 2015-03-15
 owner: Ministère de l'Intérieur
-screenshot: http://static.lexpress.fr/medias_10641/w_1206,h_674,c_crop,x_0,y_10/w_1520,h_855,c_fill,g_north/v1445267305/les-taxis-ont-desormais-leur-appli-de-geolocalisation-pour-contrer-uber_5448509.jpg
+screenshot: /img/startups/taxi.jpg
 ---
 
 Le Taxi, c'est plus de 50.000 chauffeurs en France, partout sur le territoire, de la plus petite commune à la plus grande métropole.
