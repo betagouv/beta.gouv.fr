@@ -1,0 +1,11 @@
+---
+title: L'équipe
+---
+
+<section id="list" class="ui three stackable doubling cards container">
+	<h2 class="ui divider horizontal">Les membres de l'Incubateur</h2>
+
+	{% for person in site.author %}
+		{% include author.html description=person %}
+	{% endfor %}
+</section>

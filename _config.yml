@@ -11,6 +11,8 @@ url: https://beta.gouv.fr
 collections:
   startup:
     output: true
+  author:
+    output: true
 
 defaults:
   -
