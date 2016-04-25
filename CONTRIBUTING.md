@@ -34,15 +34,16 @@ Mettre à jour la propriété `featured` de la phase correspondante pour référ
 
 ## Modifier la présentation du site
 
-Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est celle [actuellement en production](https://github.com/jekyll/jekyll/issues/4441) sur GitHub Pages.
+Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est celle [actuellement en production](https://pages.github.com/versions/) sur GitHub Pages.
 
-Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) à la version indiquée [ici](https://github.com/github/pages-gem/blob/master/.ruby-version) et [Jekyll](https://jekyllrb.com) par le biais de la gem `github-pages` :
+Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) à la version indiquée [ici](https://pages.github.com/versions/) et [Jekyll](https://jekyllrb.com) par le biais de la gem `github-pages` :
 
 ```sh
 git clone https://github.com/sgmap/beta.gouv.fr.git
 cd beta.gouv.fr
-gem install github-pages
-jekyll serve
+gem install bundler --no-ri --no-rdoc
+bundle install
+bundle exec jekyll serve
 ```
 
 Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `_layouts` et `css`.
