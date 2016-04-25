@@ -1,0 +1,13 @@
+<div class="ui card">
+	<div class="bottom aligned content">
+		<div class="center aligned segment">
+			<img class="ui image circular" src="img{{include.description.id}}.jpg" onError="this.src = 'img/author/egg.jpg';" style="width: 150px; height:auto;"/>
+		</div>
+		<br/>
+		<div class="header">{{ include.description.fullname }}</div>
+		<div class="meta">{{ include.description.role }}</div>
+		<div class="description">
+			{{ include.description.bio }}
+		</div>
+	</div>
+</div>
