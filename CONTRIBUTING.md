@@ -12,6 +12,28 @@
 
 Modifier le fichier de description de la startup dans le dossier [`_startup`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_startup).
 
+## Publier un billet
+
+### 1. Écrire le billet
+
+[En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/gh-pages/_posts?filename=_posts/AAAA-MM-DD-titre.md&value=---%0d%0atitle%3a+Nom+du+billet%0d%0aauthor%3a+Jean+Dupont+%23+nom+de+l%27auteur%0d%0a---%0d%0a%0d%0aPour+ajouter+une+image+au+billet%2c+cr%c3%a9er+un+fichier+JPEG+dans+%60img%2fposts%60+du+m%c3%aame+nom+que+le+fichier+contenant+le+post.%0d%0a%0d%0a**Pensez+%c3%a0+modifier+le+nom+de+ce+fichier+%3a+il+doit+%c3%aatre+au+format+%60AAAA-MM-DD-titre.md%60+!**%0d%0aO%c3%b9+%60AAAA-MM-DD%60+est+la+date+%c3%a0+laquelle+vous+souhaitez+que+le+billet+soit+publi%c3%a9.) :smiley:
+
+Pour ajouter une image au billet, créer un fichier JPEG dans `img/posts` du même nom que le fichier contenant le post (donc par exemple `AAAA-MM-DD-titre.jpg`). À l'affichage, l'image sera redimensionnée : les dimensions exactes de l'image ont donc peu d'importance.
+
+> Sinon, offline : créer un nouveau post dans le dossier [`_posts`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_posts).
+
+### 2. Faire revoir le billet
+
+Avant d'ouvrir une pull request, diffuser un lien privé de prévisualisation à `membres@beta.gouv.fr`.
+
+> Par exemple, créer un [Gist](https://gist.github.com) privé.
+
+Après de potentielles itérations, si aucun des destinataires n'a posé de véto à la publication, et dès qu'au moins 25% en ont validé le contenu, l'auteur transmet son billet au directeur de l'incubateur pour confirmation.
+
+### 3. Ouvrir une pull request
+
+Une fois le contenu validé par les pairs et la direction, l'auteur ouvre une pull request pour vérifications syntaxiques et fonctionnelles.
+
 
 ## Ajouter un événement
 
