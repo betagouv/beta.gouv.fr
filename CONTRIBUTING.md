@@ -31,6 +31,9 @@ Pour ajouter une image à l'événement, créer un fichier JPEG dans `img/posts`
 
 Mettre à jour la propriété `featured` de la phase correspondante pour référencer le nom du fichier dans lequel la startup à mettre en avant est décrite dans [`index.html`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/index.html).
 
+## Ajouter un membre à l'équipe Incubateur
+
+Créer un nouveau fichier de description dans le dossier [`_author`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_author) et renseigner les informations en prenant exemple sur un fichier de description existant déjà dans ce dossier.
 
 ## Modifier la présentation du site
 
