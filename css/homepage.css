@@ -5,13 +5,35 @@ body {
 
 #masthead {
 	background-image: url('/img/header.jpg');
-
-	font-weight: bold;
 }
 
-.links {
-	text-align: right;
-	text-shadow: none;
+.animating.out {
+	position: absolute;
+}
+
+#otherExample {
+	float: right;
+
+	text-shadow: 0 0 .5em #666;
+	transition: opacity 3s 2s;
+}
+
+/* Degradability + avoid FOUC */
+.no-js #otherExample {
+	opacity: 0;
+}
+
+#masthead .card, .no-js #otherExample {
+	visibility: hidden;
+}
+
+#masthead .card:first-child {
+	visibility: visible;
+}
+
+/* IE < 10, nothing is better than fracked layout */
+.no-csstransitions #example, .no-csstransitions #otherExample {
+	display: none;
 }
 
 #cycle, #blog {
@@ -48,23 +70,11 @@ body {
 	color: black;
 }
 
-@media (max-width: 50em) {
-	.links a {
-		text-align: center;
-		display: inline-block;
-		margin: 0;
-		padding: .5em;
-	}
-}
 
 @media (max-width: 34em) {
 	#cycle, #blog {
 		text-align: left;
 		line-height: 1.5;
-	}
-
-	.links a {
-		display: block;
 	}
 
 	.large.screen.only {
