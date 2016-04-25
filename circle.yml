@@ -1,6 +1,4 @@
 machine:
-  ruby:
-    version: 2.1.7 # see https://pages.github.com/versions/
   java:  # see <https://github.com/svenkreiss/html5validator#integration-with-circleci>
     version: oraclejdk8
 
