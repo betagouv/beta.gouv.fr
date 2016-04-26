@@ -1,9 +1,18 @@
-<div class="ui card">
-	<div class="bottom aligned content">
+<script type="text/javascript">
+function anonyme(img) {
+	img.onError = null;
+	img.src = 'img/author/egg.jpg';
+	return true;
+}
+</script>
+
+<div class="ui card teammate">
+	<div class="content">
 		<div class="center aligned segment">
-			<img class="ui image circular" alt="Photo de {{ include.description.fullname }}" src="img{{include.description.id}}.jpg" onError="this.src = 'img/author/egg.jpg';" style="width: 150px; height:auto;"/>
+			<img class="ui image circular" alt="Photo de {{ include.description.fullname }}" src="{{site.baseurl}}img{{include.description.id}}.jpg" onError="anonyme(this)"/>
 		</div>
-		<br/>
+	</div>
+	<div class="extra content">
 		<div class="header">{{ include.description.fullname }}</div>
 		<div class="meta">{{ include.description.role }}</div>
 		<div class="description">

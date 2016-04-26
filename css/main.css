@@ -179,6 +179,10 @@ a.ui.card {
 	cursor: pointer;
 }
 
+.teammate img {
+	width: 150px;
+	height: auto;
+}
 
 @media (min-width: 100em) {
 	#masthead {
