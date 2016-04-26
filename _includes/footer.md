@@ -1,5 +1,5 @@
 - 🏠 [Incubateur de services numériques]({{ site.baseurl }})
-- 👥 [Qui sommes-nous?]({{ site.baseurl }}equipe)
+- 👥 [Qui sommes-nous ?]({{ site.baseurl }}equipe)
 - 📩 [Nous contacter]({{ site.baseurl }}contact)
 - 🖊 [Améliorer cette page](https://github.com/sgmap/beta.gouv.fr/edit/gh-pages/{{ page.path }})
 - 🏛 [Une mission du SGMAP](http://modernisation.gouv.fr)
