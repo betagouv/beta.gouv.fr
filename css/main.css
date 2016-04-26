@@ -180,8 +180,8 @@ a.ui.card {
 }
 
 .teammate img {
-	width: 150px;
-	height: auto;
+	width: auto;
+	height: 150px;
 }
 
 @media (min-width: 100em) {
