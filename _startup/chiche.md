@@ -3,7 +3,7 @@ title: ¡Chiche!
 mission: Recrutez des gens, pas des CV
 domain: chiche.beta.gouv.fr
 repository: 
-status: investigation
+status: construction
 contact: lauren.michel@pole-emploi.fr
 start: 2016-02-02
 owner: Pôle Emploi
