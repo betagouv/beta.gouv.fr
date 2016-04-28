@@ -2,7 +2,7 @@
 title: Aides à l'habitat
 mission: Accédez rapidement et simplement aux aides à l'habitat privé
 status: investigation
-contact: contact@mes-aides.gouv.fr  # sera visible de tous
+contact: philippe.cassagne@anah.gouv.fr
 owner: Agence nationale de l'habitat
 start: 2016-05-01
 ---
