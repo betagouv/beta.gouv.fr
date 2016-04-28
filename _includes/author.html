@@ -1,10 +1,12 @@
 <div class="ui card teammate">
-	<div class="content">
-		<div class="center aligned segment">
-			<img class="ui image circular" alt="Photo de {{ include.description.fullname }}" src="{{site.baseurl}}img{{include.description.id}}.jpg" onError="anonyme(this)"/>
-		</div>
+	<div class="image">
+		{% if include.description.avatar %}
+			<img alt="" src="{{ include.description.avatar }}" />
+		{% else %}
+			<img alt="" src="{{ site.baseurl }}img{{ include.description.id }}.jpg" />
+		{% endif %}
 	</div>
-	<div class="extra content">
+	<div class="content">
 		<div class="header">{{ include.description.fullname }}</div>
 		<div class="meta">{{ include.description.role }}</div>
 		<div class="description">
