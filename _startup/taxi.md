@@ -8,7 +8,7 @@ contact:
 logo: https://cdn.rawgit.com/openmaraude/le.taxi/master/themes/taxitheme/static/images/logo_le.taxi.svg
 start: 2015-03-15
 owner: Ministère de l'Intérieur
-screenshot: /img/startups/taxi.jpg
+screenshot: /img/startup/taxi.jpg
 ---
 
 Le Taxi, c'est plus de 50.000 chauffeurs en France, partout sur le territoire, de la plus petite commune à la plus grande métropole.

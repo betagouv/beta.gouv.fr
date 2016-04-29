@@ -16,7 +16,7 @@
 			{% if description.screenshot %}
 				<img src="{{ description.screenshot }}" alt="">
 			{% else %}
-				<img src="{{ site.baseurl }}img/startups/{{ include.id }}.png" alt="">
+				<img src="{{ site.baseurl }}img{{ description.id }}.png" alt="">
 			{% endif %}
 		</div>
 	{% endif %}
