@@ -31,4 +31,4 @@ Un produit incubé sur un sous-domaine en `*.beta.gouv.fr` bénéficie d'un héb
 
 Au vu du public visé, ce site doit être **dégradable** jusqu'à IE8.
 
-> Cela ne signifie pas qu'il doit afficher [la même chose](http://dowebsitesneedtolookexactlythesameineverybrowser.com) dans tous les navigateurs, mais simpelment que son contenu doit être lisible même avec des navigateurs obsolètes.
+> Cela ne signifie pas qu'il doit afficher [la même chose](http://dowebsitesneedtolookexactlythesameineverybrowser.com) dans tous les navigateurs, mais simplement que son contenu doit être lisible même avec des navigateurs obsolètes.
