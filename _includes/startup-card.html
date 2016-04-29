@@ -11,15 +11,9 @@
 
 
 <a class="ui fluid {{ description.status }} card" href="{{ description.url }}">
-	{% if description.status != 'investigation' and description.screenshot != false %}
-		<div class="image">
-			{% if description.screenshot %}
-				<img src="{{ description.screenshot }}" alt="">
-			{% else %}
-				<img src="{{ site.baseurl }}img{{ description.id }}.png" alt="">
-			{% endif %}
-		</div>
-	{% endif %}
+	<div class="image">
+		{% include screenshot.html startup=description %}
+	</div>
 	<div class="content">
 		<img class="right floated mini ui image" src="{{ description.logo }}" alt="{{ description.title }}"/>
 
