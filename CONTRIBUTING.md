@@ -36,7 +36,7 @@ Mettre à jour la propriété `featured` de la phase correspondante pour référ
 
 Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est celle [actuellement en production](https://pages.github.com/versions/) sur GitHub Pages.
 
-Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) à la version indiquée [ici](https://pages.github.com/versions/) et [Jekyll](https://jekyllrb.com) :
+Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) et [Jekyll](https://jekyllrb.com) dans leurs [versions de production](https://pages.github.com/versions/) :
 
 ```sh
 git clone https://github.com/sgmap/beta.gouv.fr.git
