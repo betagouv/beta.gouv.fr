@@ -8,3 +8,6 @@ _site
 
 # Bundler
 Gemfile.lock
+
+# Ruby
+.ruby-gemset
