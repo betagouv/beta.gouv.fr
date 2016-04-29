@@ -20,9 +20,15 @@ Ce nom de domaine héberge :
 - Une présentation de la méthode Startup d'État et valorisation de ses produits.
 - Une présentation de l'Incubateur de Services Numériques du SGMAP, initiateur de la méthode.
 
+### Publication
+
+`beta.gouv.fr` est un site qui ne ressemble pas aux sites administratifs classiques, tout comme les produits qu'il porte.
+
+Cependant, en tant que domaine en `.gouv`, les communications qui y sont faites engagent la responsabilité de l'administration qui héberge l'Incubateur. Toute personne proposant du contenu à publier sur `beta.gouv.fr` doit donc être pleinement consciente que les élasticités règlementaires qui nous permettent de fonctionner ne peuvent exister qu'avec une forme d'auto-régulation. **Demandez systématiquement l'avis de membres plus anciens que vous avant de publier du contenu.**
+
 ### Les sous-domaines
 
-Tout produit respectant les principes décrits sur le site peut prétendre à un sous-domaine `*.beta.gouv.fr`.
+Un sous-domaine de `*.beta.gouv.fr` est un produit respectant les principes décrits sur le site, et donc développé selon l'approche Startup d'État.
 
 Un produit incubé sur un sous-domaine en `*.beta.gouv.fr` bénéficie d'un hébergement fourni par l'incubateur, et de contraintes de sécurité allégées pendant sa durée d'incubation afin d'accélérer les itérations.
 
