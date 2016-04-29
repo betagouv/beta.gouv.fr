@@ -8,7 +8,7 @@ source 'https://rubygems.org'
 # The reason to add a ruby version at .ruby-version and here is to prevent
 # the CI server to push to Github if the versions mismatch.
 # see <https://circleci.com/docs/unrecognized-ruby-version/>
-ruby versions['ruby']
+ruby versions['ruby'] if ENV['CI']
 
 # We need to be sure jekyll gets built in CI using the same version
 # than Github does.
