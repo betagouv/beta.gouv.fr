@@ -179,16 +179,6 @@ a.ui.card {
 	cursor: pointer;
 }
 
-.teammate img {
-	width: auto;
-	height: 150px;
-}
-
-.teammate .extra.content {
-	height: 9em;
-	overflow: scroll;
-}
-
 @media (min-width: 100em) {
 	#masthead {
 		font-size: 120%;
