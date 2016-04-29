@@ -17,7 +17,7 @@ layout: default
 	<ul>
 		<li>Le porteur administratif est {{ page.owner }}.</li>
 		<li>Le produit est en <em>{{ page.status}}</em>, il
-			{%if page.domain %}
+			{% if page.domain %}
 				est disponible sur <a href="https://{{ page.domain }}" title="{{ page.title }}">{{ page.domain }}</a>.
 			{% else %}
 				<em>n'est pas encore accessible au public.</em>
@@ -25,7 +25,7 @@ layout: default
 		</li>
 
 		<li>Le code source
-			{%if page.repository %}
+			{% if page.repository %}
 				<a href="{{ page.repository }}">est libre.</a>
 			{% else %}
 				<em>n'est pas encore ouvert.</em>
