@@ -32,11 +32,6 @@ Un sous-domaine de `*.beta.gouv.fr` est un produit respectant les principes déc
 
 Un produit incubé sur un sous-domaine en `*.beta.gouv.fr` bénéficie d'un hébergement fourni par l'incubateur, et de contraintes de sécurité allégées pendant sa durée d'incubation afin d'accélérer les itérations.
 
-#### Exemples de projets non éligibles à un sous-domaine
-
-- Produits développés selon des méthodes non agiles.
-- Produits hypothétiques type projet de hackathon.
-
 
 ## Support navigateur
 
