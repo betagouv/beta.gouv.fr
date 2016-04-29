@@ -8,11 +8,9 @@ layout: default
 
 	<h2>{{ page.mission }}</h2>
 
-	{% if page.screenshot %}
-		{%if page.domain %}<a target="_blank" href="https://{{ page.domain }}">{% endif %}
-			<img class="screenshot" src="{{ page.screenshot }}" alt="Interface de {{ page.title }}" />
-		{%if page.domain %}</a>{% endif %}
-	{% endif %}
+	{%if page.domain %}<a target="_blank" href="https://{{ page.domain }}">{% endif %}
+		{% include screenshot.html startup=page %}
+	{%if page.domain %}</a>{% endif %}
 
 	<ul>
 		<li>Le porteur administratif est {{ page.owner }}.</li>

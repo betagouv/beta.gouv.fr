@@ -7,6 +7,7 @@ status: construction
 contact: contact@boussole.beta.gouv.fr
 start: 2015-12-01
 owner: DJEPVA
+screenshot: false
 ---
 
 ## Fiche produit

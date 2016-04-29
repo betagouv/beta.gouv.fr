@@ -7,7 +7,6 @@ status: construction
 contact:
 start: 2016-01-25
 owner: SGMAP
-screenshot: /img/startups/api.gouv.png
 ---
 
 api.gouv.fr est le site qui référence toutes **les API de l'état plateforme**, c'est à dire les services électroniques proposés par les administrations publiques et territoriales. 

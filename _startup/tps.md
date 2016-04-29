@@ -8,7 +8,6 @@ contact: contact@tps.apientreprise.fr
 logo: https://tps-dev.apientreprise.fr/assets/logo-tps-33474ee2fd28fc088700df9090971ade28ca6498e3186f457400f31e85a92364.png
 start: 2015-09-15
 owner: SGMAP
-screenshot: /img/startups/tps.png
 ---
 
 Saisir l’administration de manière électronique sans avoir à fournir des informations déjà connues de l’administration ? Faciliter le traitement des procédures, y compris à plusieurs, en consultant en ligne les pièces « confidentielles » des usagers personnes morales ou physiques ; un rêve ? NON.
