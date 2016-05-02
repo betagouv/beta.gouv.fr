@@ -1,6 +1,6 @@
 ---
 fullname: Mauko Quiroga
 role: Développeur
-bio: Entrepreneur et consultant en développement de projets numériques. Partisan d’une action publique du XXIe siècle qui engage la société civile dans la construction des nouveaux espaces démocratiques.
+bio: Engagé dans la construction d’une action publique du XXIe siècle.
 link: http://mauko.me/
 ---
