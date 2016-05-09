@@ -13,3 +13,4 @@ ruby versions['ruby'] if ENV['CI']
 # We need to be sure jekyll gets built in CI using the same version
 # than Github does.
 gem 'github-pages', versions['github-pages'], group: :jekyll_plugins
+gem 'html-proofer', group: :test
