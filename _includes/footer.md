@@ -1,4 +1,5 @@
 - 🏠 [Incubateur de services numériques]({{ site.baseurl }})
+- 🌀 [Notre philosophie]({{ site.baseurl }}philosophie)
 - 👥 [Qui sommes-nous ?]({{ site.baseurl }}equipe)
 - 📩 [Nous contacter]({{ site.baseurl }}contact)
 - 🖊 [Améliorer cette page](https://github.com/sgmap/beta.gouv.fr/edit/gh-pages/{{ page.path }})
