@@ -7,7 +7,7 @@ status: consolidation
 contact: matti.schneider@beta.gouv.fr
 start: 2015-01-12
 owner: SGMAP
-screenshot: 
+screenshot: false
 ---
 
 Gérer collaborativement et en ligne toutes les fiches de banc relatives à un projet de loi.

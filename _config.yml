@@ -1,6 +1,9 @@
 # This file is *NOT* reloaded automatically when you use 'jekyll serve'.
 # If you change this file, please restart the server process.
 
+# see https://jekyllrb.com/docs/continuous-integration/
+exclude: [vendor]
+
 # Site settings
 title: beta.gouv.fr
 email: contact@beta.gouv.fr
@@ -10,6 +13,8 @@ url: https://beta.gouv.fr
 
 collections:
   startup:
+    output: true
+  author:
     output: true
 
 defaults:

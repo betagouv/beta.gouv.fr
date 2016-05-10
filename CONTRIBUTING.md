@@ -44,6 +44,11 @@ Un événement est un type de billet particulier. Il a donc quelques métadonné
 Notamment, attention, la date dans le nom du fichier au format `AAAA-MM-DD-nom_evenement.md` est la date à laquelle vous souhaitez que l'événement soit annoncé sur le site (et non la date de l'événement lui-même).
 
 
+## Ajouter un membre
+
+### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/gh-pages/_posts?filename=_author/id.md&value=---%0d%0afullname%3a+Camille+Dupont+%23+penser+%c3%a0+modifier+le+nom+du+fichier+ci-dessus+!%0d%0arole%3a+Smartass%0d%0abio%3a+%c3%89crit+des+autobiographies+percutantes+en+moins+de+200+caract%c3%a8res+depuis+1972.%0d%0aavatar%3a+%23+uploader+un+fichier+JPG+en+512x512+du+m%c3%aame+nom+que+ce+fichier+dans+%2fimg%2fauthor+et+effacer+cette+ligne%2c+ou+sp%c3%a9cifier+une+URL+externe+en+HTTPS%0d%0alink%3a+%23+optionnel+%3a+lien+vers+une+page+perso+externe.+Effacer+cette+ligne+si+rien+%c3%a0+mettre.%0d%0a---%0d%0a) :smiley:
+
+
 ## Modifier le contenu éditorial
 
 [Rechercher le contenu à modifier](https://github.com/sgmap/beta.gouv.fr/search?q=contenu+à+modifier&type=Code) et éditer le fichier correspondant.
@@ -53,18 +58,22 @@ Notamment, attention, la date dans le nom du fichier au format `AAAA-MM-DD-nom_e
 
 Mettre à jour la propriété `featured` de la phase correspondante pour référencer le nom du fichier dans lequel la startup à mettre en avant est décrite dans [`index.html`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/index.html).
 
+## Ajouter un membre à l'équipe Incubateur
+
+Créer un nouveau fichier de description dans le dossier [`_author`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_author) et renseigner les informations en prenant exemple sur un fichier de description existant déjà dans ce dossier.
 
 ## Modifier la présentation du site
 
-Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est celle [actuellement en production](https://github.com/jekyll/jekyll/issues/4441) sur GitHub Pages.
+Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est celle [actuellement en production](https://pages.github.com/versions/) sur GitHub Pages.
 
-Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) à la version indiquée [ici](https://github.com/github/pages-gem/blob/master/.ruby-version) et [Jekyll](https://jekyllrb.com) par le biais de la gem `github-pages` :
+Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) et [Jekyll](https://jekyllrb.com) dans leurs [versions de production](https://pages.github.com/versions/) :
 
 ```sh
 git clone https://github.com/sgmap/beta.gouv.fr.git
 cd beta.gouv.fr
-gem install github-pages
-jekyll serve
+gem install bundler --no-ri --no-rdoc
+bundle install
+bundle exec jekyll serve
 ```
 
 Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `_layouts` et `css`.

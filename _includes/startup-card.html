@@ -11,11 +11,9 @@
 
 
 <a class="ui fluid {{ description.status }} card" href="{{ description.url }}">
-	{% if description.screenshot %}
-		<div class="image">
-			<img src="{{ description.screenshot }}" alt="">
-		</div>
-	{% endif %}
+	<div class="image">
+		{% include screenshot.html startup=description %}
+	</div>
 	<div class="content">
 		<img class="right floated mini ui image" src="{{ description.logo }}" alt="{{ description.title }}"/>
 

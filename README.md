@@ -10,7 +10,7 @@ Le site public de l'Incubateur de Services Numériques de l'État français.
 3. **Grand public** pour faire connaître la mission.
 
 
-## Tu es incubé·e ? [Ajoute ta startup](https://github.com/sgmap/beta.gouv.fr/blob/gh-pages/CONTRIBUTING.md) !
+## Tu es incubé·e ? [Ajoute-toi et ta Startup](https://github.com/sgmap/beta.gouv.fr/blob/gh-pages/CONTRIBUTING.md) !
 
 
 ## `beta.gouv.fr`
@@ -20,9 +20,15 @@ Ce nom de domaine héberge :
 - Une présentation de la méthode Startup d'État et valorisation de ses produits.
 - Une présentation de l'Incubateur de Services Numériques du SGMAP, initiateur de la méthode.
 
+### Publication
+
+`beta.gouv.fr` est un site qui ne ressemble pas aux sites administratifs classiques, tout comme les produits qu'il porte.
+
+Cependant, en tant que domaine en `.gouv`, les communications qui y sont faites engagent la responsabilité de l'administration qui héberge l'Incubateur. Toute personne proposant du contenu à publier sur `beta.gouv.fr` doit donc être pleinement consciente que les élasticités règlementaires qui nous permettent de fonctionner ne peuvent exister qu'avec une forme d'auto-régulation. **Demandez systématiquement l'avis de membres plus anciens que vous avant de publier du contenu.**
+
 ### Les sous-domaines
 
-Tout produit respectant les principes décrits sur le site peut prétendre à un sous-domaine `*.beta.gouv.fr`.
+Un sous-domaine de `*.beta.gouv.fr` est un produit respectant les principes décrits sur le site, et donc développé selon l'approche Startup d'État.
 
 Un produit incubé sur un sous-domaine en `*.beta.gouv.fr` bénéficie d'un hébergement fourni par l'incubateur, et de contraintes de sécurité allégées pendant sa durée d'incubation afin d'accélérer les itérations.
 
@@ -31,4 +37,4 @@ Un produit incubé sur un sous-domaine en `*.beta.gouv.fr` bénéficie d'un héb
 
 Au vu du public visé, ce site doit être **dégradable** jusqu'à IE8.
 
-> Cela ne signifie pas qu'il doit afficher [la même chose](http://dowebsitesneedtolookexactlythesameineverybrowser.com) dans tous les navigateurs, mais simpelment que son contenu doit être lisible même avec des navigateurs obsolètes.
+> Cela ne signifie pas qu'il doit afficher [la même chose](http://dowebsitesneedtolookexactlythesameineverybrowser.com) dans tous les navigateurs, mais simplement que son contenu doit être lisible même avec des navigateurs obsolètes.

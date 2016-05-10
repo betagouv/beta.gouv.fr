@@ -8,16 +8,14 @@ layout: default
 
 	<h2>{{ page.mission }}</h2>
 
-	{% if page.screenshot %}
-		{%if page.domain %}<a target="_blank" href="https://{{ page.domain }}">{% endif %}
-			<img class="screenshot" src="{{ page.screenshot }}" alt="Interface de {{ page.title }}" />
-		{%if page.domain %}</a>{% endif %}
-	{% endif %}
+	{%if page.domain %}<a target="_blank" href="https://{{ page.domain }}">{% endif %}
+		{% include screenshot.html startup=page %}
+	{%if page.domain %}</a>{% endif %}
 
 	<ul>
 		<li>Le porteur administratif est {{ page.owner }}.</li>
 		<li>Le produit est en <em>{{ page.status}}</em>, il
-			{%if page.domain %}
+			{% if page.domain %}
 				est disponible sur <a href="https://{{ page.domain }}" title="{{ page.title }}">{{ page.domain }}</a>.
 			{% else %}
 				<em>n'est pas encore accessible au public.</em>
@@ -25,7 +23,7 @@ layout: default
 		</li>
 
 		<li>Le code source
-			{%if page.repository %}
+			{% if page.repository %}
 				<a href="{{ page.repository }}">est libre.</a>
 			{% else %}
 				<em>n'est pas encore ouvert.</em>
@@ -34,9 +32,9 @@ layout: default
 
 		<li>
 			{% if page.contact %}
-				<a href="mailto:{{ page.contact }}">Contacter l’équipe</a>.
+				<a href="mailto:{{ page.contact }}?subject={{ page.title | replace: ' ', '%20' }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
 			{% else %}
-				<em><a href="mailto:{{ site.email }}">Contacter l'incubateur</a>.</em>
+				<em><a href="mailto:{{ site.email }}?subject={{ page.title | replace: ' ', '%20' }}">Contacter l'incubateur</a>.</em>
 			{% endif %}
 		</li>
 	</ul>

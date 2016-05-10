@@ -18,6 +18,6 @@ Nous pouvons vous aider à organiser cet évènement interne, sélectionner les 
 
 ## Ne pas nous contacter
 
-Vous avez une idée de startup et vous pensez que l'état devrait la financer ou la réaliser ? Contactez plutôt la [BPI](http://www.bpifrance.fr/) ou un incubateur dans votre région, ils seront plus à même de vous aider.
+Vous avez une idée de startup et vous pensez que l'état devrait la financer ou la réaliser ? Contactez plutôt la [BPI](https://www.bpifrance.fr/) ou un incubateur dans votre région, ils seront plus à même de vous aider.
 
-Vous n'êtes pas satisfait des services d'une administration publique et souhaitez le signaler ? Adressez votre demande ou votre idée à [Faire Simple](http://www.faire-simple.gouv.fr/), elle sera entendue.
+Vous n'êtes pas satisfait des services d'une administration publique et souhaitez le signaler ? Adressez votre demande ou votre idée à [Faire Simple](https://www.faire-simple.gouv.fr/), elle sera entendue.
