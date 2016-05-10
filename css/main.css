@@ -137,6 +137,12 @@ footer, #masthead {
 	text-shadow: 0 0 .5em #666;
 }
 
+.ui.card.author>.image>img {
+	max-height: 258px;
+	overflow: hidden;
+	object-fit: cover;
+}
+
 .no-backgroundblendmode footer {
 	background-image: none !important;  /* ensure contrast is sufficient */
 }
