@@ -17,7 +17,10 @@
 		{{ content }}
 
 		<footer>
-			{% capture footer %}{% include footer.md %}{% endcapture %} <!-- http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/ -->
+			{% comment %}
+			Voir http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/
+			{% endcomment %}
+			{% capture footer %}{% include footer.md %}{% endcapture %}
 			{{ footer | markdownify }}
 		</footer>
 
