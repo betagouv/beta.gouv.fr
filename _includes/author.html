@@ -1,0 +1,16 @@
+<a class="ui card author" {% if include.description.link %} href="{{ include.description.link }}" target="_blank" {% endif %}>
+	<div class="image">
+		{% if include.description.avatar %}
+			<img alt="" src="{{ include.description.avatar }}" />
+		{% else %}
+			<img alt="" src="{{ site.baseurl }}img{{ include.description.id }}.jpg" />
+		{% endif %}
+	</div>
+	<div class="content">
+		<div class="header">{{ include.description.fullname }}</div>
+		<div class="meta">{{ include.description.role }}</div>
+		<div class="description">
+			{{ include.description.bio }}
+		</div>
+	</div>
+</a>
