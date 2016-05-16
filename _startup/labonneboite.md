@@ -2,6 +2,7 @@
 title: La Bonne Boîte
 mission: Trouvez les entreprises qui vont recruter près de chez vous.
 domain: labonneboite.pole-emploi.fr
+link: http://labonneboite.pole-emploi.fr
 repository:
 status: consolidation
 contact: eric.barthelemy@pole-emploi.fr
