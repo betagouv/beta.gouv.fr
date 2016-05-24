@@ -38,13 +38,20 @@
 
 
 <section id="list" class="ui three stackable doubling cards container">
-	<h2 class="ui divider horizontal">Toutes nos Startups d'État{% if include.phase %} en {{ include.phase }}{% endif %}</h2>
+	{% if include.phase %}
+		<h2 class="ui divider horizontal">Nos {{ startups | size }} Startups d'État en {{ include.phase }}</h2>
+	{% else %}
+		<h2 class="ui divider horizontal">Toutes nos Startups d'État</h2>
+	{% endif %}
+
 
 	{% for startup in startups %}
 		{% include startup-card.html description=startup %}
 	{% endfor %}
-
-	{% if include.phase %}
-		<a href=".">Voir toutes les Startups</a>
-	{% endif %}
 </section>
+
+{% if include.phase %}
+<p id="clear-filter">
+	<a class="secondary cta" href="."><i class="grid layout icon"></i>&nbsp;Voir toutes les {{ site.startup | size }} Startups</a>
+</p>
+{% endif %}

@@ -70,6 +70,11 @@ i {
 	font-size: 80%;
 }
 
+#clear-filter {
+	text-align: center;
+	padding-bottom: 1em;
+}
+
 
 @media (max-width: 50em) {
 	.counter--incubation {
