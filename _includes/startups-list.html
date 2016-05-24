@@ -1,8 +1,3 @@
----
-title: Toutes nos Startups d'État
-additional_css: portfolio
----
-
 <h2>
 	{{ site.description }}.<br/>
 	Vous trouverez ici tous les services créés avec l'<a href="{{ site.baseurl }}#cycle">approche Startup d'État</a>.
@@ -12,9 +7,11 @@ additional_css: portfolio
 	<ol class="counter--incubation">
 		{% for phase in site.phases.incubation %}
 			<li class="counter {{ phase[0] }}">
-				<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
-				<i>startups en</i>
-				<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name }}</span>
+				<a href="{{ phase[0] }}#list">
+					<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
+					<i>startups en</i>
+					<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name }}</span>
+				</a>
 			</li>
 		{% endfor %}
 
@@ -32,10 +29,22 @@ additional_css: portfolio
 	</ol>
 </section>
 
-<section id="list" class="ui three stackable doubling cards container">
-	<h2 class="ui divider horizontal">Toutes nos Startups d'État</h2>
 
-	{% for startup in site.startup %}
+{% if include.phase %}
+	{% assign startups = site.startup | where: 'status', include.phase %}
+{% else %}
+	{% assign startups = site.startup %}
+{% endif %}
+
+
+<section id="list" class="ui three stackable doubling cards container">
+	<h2 class="ui divider horizontal">Toutes nos Startups d'État{% if include.phase %} en {{ include.phase }}{% endif %}</h2>
+
+	{% for startup in startups %}
 		{% include startup-card.html description=startup %}
 	{% endfor %}
+
+	{% if include.phase %}
+		<a href=".">Voir toutes les Startups</a>
+	{% endif %}
 </section>
