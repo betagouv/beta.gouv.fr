@@ -12,6 +12,7 @@ h2 {
 
 #dashboard a {
 	text-decoration: none;
+	width: 100%;
 }
 
 .counter--incubation, .counter--endgame {
