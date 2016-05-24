@@ -1,0 +1,60 @@
+---
+title: Toutes nos Startups d'État
+additional_css: portfolio
+---
+
+<h2>
+	{{ site.description }}.<br/>
+	Vous trouverez ici tous les services créés avec l'<a href="{{ site.baseurl }}#cycle">approche Startup d'État</a>.
+</h2>
+
+<section id="dashboard">
+	<ol class="counter--incubation">
+		{% for phase in site.phases.incubation %}
+			<li class="counter {{ phase[0] }}">
+				<a href="#{{ phase[0] }}">
+					<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
+					<i>startups en</i>
+					<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name }}</span>
+				</a>
+			</li>
+		{% endfor %}
+
+		<li>
+			<ul class="counter--endgame">
+				{% for phase in site.phases.endgame %}
+					<li class="counter {{ phase[0] }}">
+						<a href="#{{ phase[0] }}">
+
+							<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
+
+							<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name.plural }}</span>
+						</a>
+					</li>
+				{% endfor %}
+			</ul>
+		</li>
+	</ol>
+</section>
+
+{% for phase in site.phases.incubation %}
+	{% assign startups = site.startup | where:'status',phase[0] %}
+	<section id="{{ phase[0] }}" class="ui three stackable doubling cards container">
+		<h2 class="ui divider horizontal">Nos Startups d'État en {{ phase[1].name }}</h2>
+
+		{% for startup in startups %}
+			{% include startup-card.html description=startup %}
+		{% endfor %}
+	</section>
+{% endfor %}
+
+{% for phase in site.phases.endgame %}
+	{% assign startups = site.startup | where:'status',phase[0] %}
+	<section id="{{ phase[0] }}" class="ui three stackable doubling cards container">
+		<h2 class="ui divider horizontal">Nos Startups d'État {{ phase[1].name.plural }}</h2>
+
+		{% for startup in startups %}
+			{% include startup-card.html description=startup %}
+		{% endfor %}
+	</section>
+{% endfor %}
