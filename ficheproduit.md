@@ -4,12 +4,12 @@ layout: text
 ---
 
 ## Rédiger une fiche produit
-Une startup d'état a pour objectif de produire un outil numérique qui résoud un irritant vécu par les usagers ou les agents. Sa stratégie de passage à l'échelle repose sur une adoption virale par ses usagers et partenaires.
+Une startup d'état a pour objectif de produire un outil numérique qui résoud un irritant vécu par les usagers ou les agents. Sa stratégie de passage à l'échelle repose sur une adoption virale par ses usagers et ses partenaires.
 
-Pour valider la pertinence de votre idéen vous devriez être en mesure de rédiger, sur un format A4 recto, une note en 3 parties :
+Pour valider la pertinence de votre idée, vous devriez être en mesure de rédiger, sur un format A4 recto, une note en 3 parties :
 - *le drame* : chaque année .... tel problème se répète ... il cause des €, du temps perdu, du gaspillage, des arrêts maladie, de la violence, de l'exclusion ...
-- *la solution numérique* : comment ça marche, pas de conditionnel. On écrit comme si le site était là : "grâce à machintruc, chaque collectivité va pouvoir enfin ..."
-- *la stratégie de mise en marché* : autour des premiers partenaires, comment se développent les usages ?
+- *la solution numérique* : comment ça marche ? "grâce à machintruc, chaque collectivité va pouvoir enfin ... chaque citoyen pourra enfin ..."
+- *la stratégie de mise en marché* : autour des premiers partenaires, comment se développent les usages ? Qui sont les prescripteurs ?
 
 ## Exemple : la Bonne Boite
 ### 25  % seulement !
