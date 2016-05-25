@@ -48,6 +48,7 @@ Notamment, attention, la date dans le nom du fichier au format `AAAA-MM-DD-nom_e
 
 ### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/gh-pages/_posts?filename=_author/id.md&value=---%0d%0afullname%3a+Camille+Dupont+%23+penser+%c3%a0+modifier+le+nom+du+fichier+ci-dessus+!%0d%0arole%3a+Smartass%0d%0abio%3a+%c3%89crit+des+autobiographies+percutantes+en+moins+de+200+caract%c3%a8res+depuis+1972.%0d%0aavatar%3a+%23+uploader+un+fichier+JPG+en+512x512+du+m%c3%aame+nom+que+ce+fichier+dans+%2fimg%2fauthor+et+effacer+cette+ligne%2c+ou+sp%c3%a9cifier+une+URL+externe+en+HTTPS%0d%0alink%3a+%23+optionnel+%3a+lien+vers+une+page+perso+externe.+Effacer+cette+ligne+si+rien+%c3%a0+mettre.%0d%0a---%0d%0a) :smiley:
 
+Attention, l'image doit être carrée et de préférence à une résolution supérieure à 512 ⨉ 512 pixels.
 
 ## Modifier le contenu éditorial
 
