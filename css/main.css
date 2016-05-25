@@ -138,7 +138,7 @@ footer, #masthead {
 }
 
 .ui.card.author>.image>img {
-	max-height: 258px;
+	max-height: 16em;
 	overflow: hidden;
 	object-fit: cover;
 }
