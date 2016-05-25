@@ -4,4 +4,4 @@ role: Développeur [...]
 link: https://github.com/laem
 ---
 
-Modernise l'action publique
+Modernise l'action publique.
