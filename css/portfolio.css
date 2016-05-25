@@ -10,6 +10,11 @@ h2 {
 	box-sizing: border-box;
 }
 
+#dashboard a {
+	text-decoration: none;
+	width: 100%;
+}
+
 .counter--incubation, .counter--endgame {
 	display: flex;
 	list-style: none;
@@ -28,13 +33,15 @@ h2 {
 	border-color: transparent transparent transparent black;
 }
 
-.counter {
+.counter, .counter a {
 	flex: 1;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
 	align-items: center;
+}
 
+.counter {
 	padding: 1em;
 }
 
@@ -61,6 +68,11 @@ h2 {
 
 i {
 	font-size: 80%;
+}
+
+#clear-filter {
+	text-align: center;
+	padding-bottom: 1em;
 }
 
 
