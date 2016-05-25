@@ -14,7 +14,7 @@ Vous êtes un **responsable d'administration centrale ou territoriale** et souha
 
 Nous pouvons vous aider à organiser cet évènement interne, sélectionner les innovateurs à haut-potentiel, et les accompagner dans leur réussite. Votre direction n'assumera que la charge de développement, toujours inférieure à 200.000€ (2 ETP informaticiens senior) pour une première mise en marché en 6 mois.
 
-Vous voulez aller encore plus vite ? Diffusez dans votre entourage les startups d'état les plus pertinentes dans votre contexte, notamment territorial :
+Vous voulez agir dès demain matin ? Diffusez dans votre entourage les startups d'état les plus pertinentes dans votre contexte, notamment territorial :
 - sensibiliser les fonctions achat à l'utilisation plus massive des [Marchés Publics Simplifiés](http://mps.apientreprise.fr/)
 - sensibiliser vos missions locales et vos structures concernées par le retour à l'emploi (missions locales, maisons de l'emploi..) à [laBonneBoite](http://labonneboite.pole-emploi.fr/) et à [laBonneFormation](http://labonneformation.pole-emploi.fr/)
 - sensibiliser vos structures d'accueil social (CCAS ..) au simulateur des droits [mes-aides](https://mes-aides.gouv.fr/) puis intégrer les aides sociales extra légales dans le simulateur des droits mes-aides.gouv.fr en mobilisant un informaticien de la collectivité pendant quelques mois
