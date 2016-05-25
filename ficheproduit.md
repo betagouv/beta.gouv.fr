@@ -12,6 +12,7 @@ Pour valider la pertinence de votre idée, vous devriez être en mesure de rédi
 - *la stratégie de mise en marché* : autour des premiers partenaires, comment se développent les usages ? Qui sont les prescripteurs ?
 
 ## Exemple : la Bonne Boite
+
 ### 25  % seulement !
 25 %, c'est la part des recrutements qui sont effectués par l'intermédiaire des réseaux traditionnels du recrutement : Pôle emploi, Monster, l'intérim, la Presse Quotidienne Régionale,.... Ainsi, les chercheurs d'emploi qui se fient uniquement aux offres d'emploi ont une perception partielle et donc faussée du marché de l'emploi, induisant un découragement face à l'absence d'offres ou des demandes de formation inadaptées.
  
