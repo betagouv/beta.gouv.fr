@@ -1,6 +1,6 @@
 ---
 fullname: Lauren Michel
-role: Chef de Produit
+role: Intrapreneur à Pôle Emploi
 ---
 
 Startupeuse curieuse et persévérante !
