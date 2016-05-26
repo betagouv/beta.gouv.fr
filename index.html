@@ -91,7 +91,13 @@ additional_js: homepage
 		{% endfor %}
 	</ul>
 
-	{% include signup.html %}
+	<div class="ui container">
+		<h3>Recevez ces annonces et d'autres informations par mail</h3>
+		<form method="post" action="https://app.mailjet.com/widget/iframe/1O2v/13e">
+			<input required type="email" name="w-field-field-4044-18488-430683-email" placeholder="votre@email.fr">
+			<button type="submit">Abonnez-vous !</button>
+		</form>
+	</div>
 </section>
 
 <section id="incubateur">
