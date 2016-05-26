@@ -1,5 +1,6 @@
 ---
 fullname: Fanny Brûlebois
 role: Product Owner
-bio: Veut prouver que "startup d'Etat" n'est pas un oxymore
 ---
+
+Veut prouver que « Startup d'État » n'est pas un oxymore.
