@@ -1,4 +1,8 @@
+{% if include.description.link %}
 <a class="ui card author" {% if include.description.link %} href="{{ include.description.link }}" target="_blank" {% endif %}>
+{% else %}
+<div class="ui card author">
+{% endif %}
 	<div class="image">
 		{% if include.description.avatar %}
 			<img alt="" src="{{ include.description.avatar }}" />
@@ -13,4 +17,8 @@
 			{{ include.description.content }}
 		</div>
 	</div>
+{% if include.description.link %}
 </a>
+{% else %}
+</div>
+{% endif %}
