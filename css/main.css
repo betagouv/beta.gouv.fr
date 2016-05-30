@@ -12,6 +12,10 @@ body, .menu a {
 	background-color: #F3F3F3;
 }
 
+.menu {
+	text-align: right;
+}
+
 /* degradability, see http://bitsofco.de/styling-broken-images */
 img {
 	font-family: inherit;
