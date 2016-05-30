@@ -87,12 +87,9 @@ La source du logo est dans le répertoire `_sources`. Il s'agit d'un SVG contena
 Cela peut être fait à la ligne de commande avec [Inkscape](https://inkscape.org/fr/) :
 
 ```shell
-inkscape --export-text-to-path `pwd`/_sources/logo.svg -l `pwd`/logo-tmp.svg
+inkscape --export-text-to-path `pwd`/_sources/logo.svg -l `pwd`/img/logo.svg
+svgo --multipass img/logo.svg  # optimisation, cf. https://jakearchibald.github.io/svgomg/
 ```
-
-Le fichier `logo-tmp.svg` doit ensuite être intégré dans `_layouts/default.html`. Il est conseillé de l'optimiser au préalable avec un outil comme [`svgo`](https://jakearchibald.github.io/svgomg/).
-
-> Le SVG est inclus en tant que nœud et non lié en tant que fichier pour des raisons de compatibilité cross-browser (IE≤11 n'est pas capable de le mettre à l'échelle autrement). Cela apporte également un léger gain de performance au premier chargement, compensé par la non-mise en cache du logo.
 
 
 ## Déployer
