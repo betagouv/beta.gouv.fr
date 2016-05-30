@@ -2,7 +2,7 @@ html {
 	height: 100%;
 }
 
-body {
+body, .menu a {
 	min-height: 100%;
 	position: relative;
 	padding: 0;
@@ -58,15 +58,14 @@ header {
 	background-size: contain;
 	background-position: .8em;
 	background-color: #FEFEFE;
-	color: #555;
-	height: 2.4em;
 }
 
-header svg {
-	float: right;
-	margin-top: .1em;
-	height: 80%;
-	margin-right: .8em;
+#logo {
+	color: transparent;
+	background-image: url(/img/logo.svg);
+	background-repeat: no-repeat;
+	background-size: 130%;
+	background-position: left center;
 }
 
 main, section {
