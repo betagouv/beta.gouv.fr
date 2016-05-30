@@ -1,6 +1,6 @@
 ---
 fullname: Vous ?
-role: Développeur, chef de produit numérique, coach lean, marketing digital…
+role: Développeu·r·se, chef·fe de produit numérique, coach lean, expert·e marketing digital…
 link: /contact
 avatar: /img/logo-generique-startup-carre.jpg
 ---
