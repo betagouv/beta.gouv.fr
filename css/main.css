@@ -82,7 +82,6 @@ footer {
 	font-size: 70%;
 	padding: 1em;
 
-	background-color: #888;
 	color: #FFF;
 }
 
@@ -137,12 +136,6 @@ footer li a:hover {
 	text-shadow: 0 0 .5em #666;
 }
 
-@supports (filter: brightness(40%)) or (-webkit-filter: brightness(40%)) {
-	footer {
-		background-color: transparent;
-	}
-}
-
 footer::before {
 	content: '';
 
@@ -152,6 +145,7 @@ footer::before {
 	bottom: 0;
 	left: 0;
 	z-index: -1;
+	background-color: #888;
 
 	filter: brightness(40%);
 }
