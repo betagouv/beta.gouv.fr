@@ -107,7 +107,7 @@ footer li a:hover {
 	text-decoration: underline;
 }
 
-footer, #masthead {
+#masthead, footer::before {
 	background-size: cover;
 	background-position: bottom center;
 	background-attachment: fixed;
@@ -128,7 +128,7 @@ footer, #masthead {
 	margin-top: 0;
 }
 
-#masthead, footer {
+#masthead {
 	box-shadow: inset 0em 0em 1em #666;
 	background-blend-mode: darken;
 }
@@ -137,9 +137,25 @@ footer, #masthead {
 	text-shadow: 0 0 .5em #666;
 }
 
-.no-backgroundblendmode footer {
-	background-image: none !important;  /* ensure contrast is sufficient */
+@supports (filter: brightness(40%)) or (-webkit-filter: brightness(40%)) {
+	footer {
+		background-color: transparent;
+	}
 }
+
+footer::before {
+	content: '';
+
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: -1;
+
+	filter: brightness(40%);
+}
+
 
 .investigation {
 	background-color: #1b91a3;
