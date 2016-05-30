@@ -2,18 +2,29 @@ html {
 	height: 100%;
 }
 
-body, .menu a {
+body {
 	min-height: 100%;
 	position: relative;
 	padding: 0;
 	padding-bottom: 7rem; /** footer height **/
-	font-family: "Century Gothic", "Gilles Sans", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 
 	background-color: #F3F3F3;
 }
 
+body, .menu {
+	font-family: "Century Gothic", "Gilles Sans", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+}
+
 .menu {
 	text-align: right;
+}
+
+.ui.secondary.menu .item {
+	padding: 1em;
+}
+
+.ui.secondary.menu {
+	margin-right: 0;
 }
 
 /* degradability, see http://bitsofco.de/styling-broken-images */
@@ -205,7 +216,6 @@ a.ui.card {
 	header {
 		background-position: 0;
 		font-size: 60%;
-		padding-left: 2em;
 	}
 
 	footer li {
