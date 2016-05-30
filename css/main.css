@@ -236,4 +236,9 @@ a.ui.card {
 	#masthead {
 		padding: 1em 0;
 	}
+
+	#masthead h1 {
+		font-size: 200%;
+		text-align: center;
+	}
 }
