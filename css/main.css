@@ -64,8 +64,10 @@ header {
 	color: transparent;
 	background-image: url(/img/logo.svg);
 	background-repeat: no-repeat;
-	background-size: 130%;
+	background-size: contain;
 	background-position: left center;
+	padding-right: 2em;
+	margin-right: .8em;
 }
 
 main, section {
