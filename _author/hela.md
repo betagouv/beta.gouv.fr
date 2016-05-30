@@ -1,6 +1,6 @@
 ---
 fullname: Hela Ghariani
-role: Product Owner
+role: Responsable de Produit
 ---
 
 Résiliente et engagée.
