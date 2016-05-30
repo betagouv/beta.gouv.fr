@@ -1,6 +1,6 @@
 ---
 fullname: Christian Quest
-role: Product Owner
+role: Responsable de Produit
 ---
 
-data addict, open, maker et récidiviste
+Data addict, open, maker et récidiviste
