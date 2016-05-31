@@ -7,9 +7,24 @@ body {
 	position: relative;
 	padding: 0;
 	padding-bottom: 7rem; /** footer height **/
-	font-family: "Century Gothic", "Gilles Sans", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 
 	background-color: #F3F3F3;
+}
+
+body, .menu {
+	font-family: "Century Gothic", "Gilles Sans", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+}
+
+.menu {
+	text-align: right;
+}
+
+.ui.secondary.menu .item {
+	padding: 1em;
+}
+
+.ui.secondary.menu {
+	margin-right: 0;
 }
 
 /* degradability, see http://bitsofco.de/styling-broken-images */
@@ -58,14 +73,15 @@ header {
 	background-size: contain;
 	background-position: .8em;
 	background-color: #FEFEFE;
-	color: #555;
-	height: 2.4em;
 }
 
-header svg {
-	float: right;
-	margin-top: .1em;
-	height: 80%;
+#logo {
+	color: transparent;
+	background-image: url(/img/logo.svg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: left center;
+	padding-right: 1.5em;
 	margin-right: .8em;
 }
 
@@ -200,7 +216,6 @@ a.ui.card {
 	header {
 		background-position: 0;
 		font-size: 60%;
-		padding-left: 2em;
 	}
 
 	footer li {
@@ -211,10 +226,19 @@ a.ui.card {
 	#masthead {
 		padding: 2em;
 	}
+
+	.large.screen.only {
+		display: none !important;
+	}
 }
 
 @media (max-width: 34em) {
 	#masthead {
 		padding: 1em 0;
+	}
+
+	#masthead h1 {
+		font-size: 200%;
+		text-align: center;
 	}
 }

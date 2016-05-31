@@ -5,4 +5,4 @@ avatar: https://www.gravatar.com/userimage/14275002/03a4283cd1632863672a3e249abd
 link: https://github.com/sgmap/beta.gouv.fr/edit/gh-pages/_author/florian.md
 ---
 
-🖊 [Améliorer cette bio]
+<i class="write icon"></i> [Améliorer cette bio]
