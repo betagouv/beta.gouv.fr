@@ -29,7 +29,6 @@ L'intégralité des manipulations effectuées est disponible dans un [notebook i
 On filtre :
 
 - Les individus de plus de 120 ans, car la probabilité qu'il s'agisse de tests est très élevée.
-- Les individus de moins d'un an (pourquoi ??).
 - Les individus nés le 12/12/2012, car nous utilisons systématiquement cette valeur pour effectuer des tests.
 
 On vérifie la cohérence des données grâce à la répartition temporelle. On suppose que, même si tous les visiteurs arrivant sur la page d'accueil ne vont pas nécessairement faire une simulation, la fréquentation devrait être similaire entre Piwik et les simulations.
@@ -62,11 +61,9 @@ On teste cette hypothèse en ne représentant la répartition de l'âge que pour
 
 Sans grande surprise, les communes où Mes Aides est le plus utilisé sont les communes les plus peuplées.
 
-Contrairement à des préjugés que l'on pourrait avoir, on n'observe [pas de corrélation](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/plot_CP.ipynb) significative entre les indicateurs de pauvreté et l'usage de Mes Aides.
+Contrairement à des préjugés que l'on pourrait avoir, on n'observe [pas de corrélation](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/plot_CP.ipynb) significative entre un indicateur habituel de pauvreté (médiane du revenu disponible par unité de consommation) et l'usage de Mes Aides.
 
-**On peut tout de même observer dans les arrondissements de Paris une répartition d'usage inversement proportionnelle au revenu médian de la population.**
-
-**Pourquoi Marseille absente ??**
+Néanmoins, on peut tout de même observer dans les arrondissements de Paris une répartition d'usage inversement proportionnelle à la richesse de la population. Il est donc probable que le choix d'un autre indicateur de pauvreté puisse montrer une corrélation.
 
 #### Ressources
 
