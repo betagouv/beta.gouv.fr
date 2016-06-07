@@ -16,34 +16,41 @@ begin
   # see <https://circleci.com/docs/unrecognized-ruby-version/>
   ruby versions['ruby'] if ENV['CI']
 
-# If for some reason the production versions check fails, we need to provide
-# a fallback scenario to the user.
-rescue Exception => exception
+# If DNS lookup fails or the versions endpoint is just unreacheable, we do the
+# reasonable assumption that there's no internet connection.
+rescue SocketError => socket_error
   # Halt execution immediatly if CI server run.
-  raise exception if ENV['CI']
+  raise socket_error if ENV['CI']
 
-  # We try to use whatever version is already installed.
+  # Warn the user if we believe she's offline.
+  puts <<-MESSAGE
+
+    Couldn't reach #{uri.to_s}, assuming you're offline.
+
+  MESSAGE
+
+  # Try to use whatever version is already installed.
   gem 'github-pages'
 
-  message = String.new.tap do |message|
-    # We warn the user if we believe she's offline.
-    if exception.is_a?(SocketError)
-      message << "\nWe couldn't reach #{uri.to_s}, we assume you're offline."
-    # Otherwise invite her to report the incident by opening an issue.
-    else
-      message << "\nSomething went wrong trying to parse production versions."
-      message << "\nPlease report the incident at https://github.com/sgmap/beta.gouv.fr/issues:"
-      message << "\n"
-      message << "\n\tException name:    #{exception.class.name}"
-      message << "\n\tException message: #{exception.message}"
-      message << "\n"
-    end
+# If for any other reason the production versions check fails, we still need to provide
+# a fallback scenario to the user.
+rescue => standard_error
+  # Halt execution immediatly if CI server run.
+  raise standard_error if ENV['CI']
 
-    # In any case, let the user know we're providing a fallback strategy.
-    message << "\nAs a fallback, we're using whatever version of 'github-pages' you've already installed.\n\n"
-  end
+  # We invite the user to report the incident by opening an issue.
+  puts <<-MESSAGE
 
-  puts message
+    Something went wrong trying to parse production versions.
+    Please report the incident at https://github.com/sgmap/beta.gouv.fr/issues:
+
+      Exception name:    #{standard_error.class.name}
+      Exception message: #{standard_error.message}
+
+  MESSAGE
+
+  # Try to use whatever version is already installed.
+  gem 'github-pages'
 end
 
 gem 'html-proofer', group: :test
