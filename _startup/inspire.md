@@ -9,9 +9,9 @@ start: 2015-01-01
 owner: SGMAP
 ---
 
-Par l'[Incubateur de Services Numériques](https://beta.gouv.fr) du [Secrétariat Général pour la Modernisation de l'Action Publique](http://modernisation.gouv.fr) et la [mission Etalab](http://www.etalab.gouv.fr), avec le soutien du groupe de travail intéropérabilité de l'[AFIGéo](http://www.afigeo.asso.fr/).
+La passerelle Inspire est un outil coproduit par l'[Incubateur de Services Numériques](https://beta.gouv.fr) du [Secrétariat Général pour la Modernisation de l'Action Publique](http://modernisation.gouv.fr) et la [mission Etalab](http://www.etalab.gouv.fr), avec le soutien du groupe de travail intéropérabilité de l'[AFIGéo](http://www.afigeo.asso.fr/).
 
-Notre ambition est d'apporter de nouveaux outils et bonnes pratiques permettant de répondre de manière plus pragmatique à la [directive Inspire](http://inspire.ec.europa.eu/), et d'en tirer des usages. Cela se concrétise par la mise en place d'une passerelle entre les standards utilisés dans le secteur de la donnée géographique (OGC CSW et ISO19139 en particulier) et le modèle de données et métadonnées du portail [data.gouv.fr](https://www.data.gouv.fr).
+Notre ambition est d'apporter de nouveaux outils et bonnes pratiques permettant de répondre de manière plus pragmatique à la [directive Inspire](http://inspire.ec.europa.eu/), et d'en tirer des usages. Cela se concrétise par la mise en place d'une passerelle entre les standards utilisés dans le secteur de la donnée géographique (OGC CSW et ISO19139 en particulier) et le modèle de données et métadonnées du portail [data.gouv.fr](https://www.data.gouv.fr), aligné sur les standards du web géogrpahique : GeoJSON, CSV, SHP ...
 
 ## Qu'est-ce que la passerelle Inspire ?
 
@@ -20,7 +20,7 @@ Il s'agit d'un ensemble d'outils permettant de publier des jeux de données géo
 Elle répond à plusieurs objectifs :
 * Mieux valoriser l’information géographique via l’Open Data.
 * S’appuyer sur les infrastructures existantes et sur Inspire.
-* Disposer d’un outil de suivi des données performant.
+* Disposer d’un outil performant de suivi des données.
 
 Elle s'appuie sur plusieurs standards devant être mis en oeuvre dans le cadre de la directive Inspire ainsi que sur quelques formats additionnels :
 * Métadonnées : CSW 2.0.2 / ISO-19139, XML / ISO-19139, XML / Dublin-Core
