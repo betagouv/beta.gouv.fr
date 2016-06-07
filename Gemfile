@@ -32,7 +32,11 @@ rescue Exception => exception
     # Otherwise invite her to report the incident by opening an issue.
     else
       message << "\nSomething went wrong trying to parse production versions."
-      message << "\nPlease report the incident at https://github.com/sgmap/beta.gouv.fr/issues."
+      message << "\nPlease report the incident at https://github.com/sgmap/beta.gouv.fr/issues:"
+      message << "\n"
+      message << "\n\tException name:    #{exception.class.name}"
+      message << "\n\tException message: #{exception.message}"
+      message << "\n"
     end
 
     # In any case, let the user know we're providing a fallback strategy.
