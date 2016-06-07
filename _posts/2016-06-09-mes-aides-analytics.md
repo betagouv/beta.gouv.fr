@@ -44,7 +44,7 @@ Cette métrique permet de déterminer si un passage à l'échelle supérieure es
 
 Au-delà des données de fréquentation analysées par Piwik, les situations décrites par les usagers sont également enregistrées lors du calcul des prestations éligibles.
 
-Nous avons travaillé avec Florian Gauthier, analyste de l'[Administrateur Général des Données](http://agd.data.gouv.fr) (une autre mission du SGMAP), pour décrire et analyser les situations simulées sur Mes Aides. L'objectif était triple :
+Nous avons travaillé avec Florian Gauthier, _data scientist_ de l'[Administrateur Général des Données](http://agd.data.gouv.fr) (une autre mission du SGMAP), pour décrire et analyser les situations simulées sur Mes Aides. L'objectif était triple :
 
 - Comprendre la diffusion territoriale de Mes Aides.
 - Déterminer l'usage réel de certains choix de conception pour lesquels nous ne disposions pas de données a priori (catégorie « sans domicile stable », par exemple).
