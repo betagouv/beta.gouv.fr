@@ -68,7 +68,7 @@ Les données sont bien cohérentes temporellement.
 
 On vérifie ensuite la cohérence des situations avec la répartition socio-démographique française :
 
-![](/img/posts/2016-06-09-mes-aides-analytics/repartition-age-situationpro.png)
+![Répartition des situations professionnelle par âge](/img/posts/2016-06-09-mes-aides-analytics/repartition-age-situationpro.png)
 
 Les étudiants sont majoritairement jeunes, les retraités majoritairement vieux, l'invalidité augmente avec l'âge, tout semble correct.
 
@@ -76,14 +76,14 @@ Les étudiants sont majoritairement jeunes, les retraités majoritairement vieux
 
 #### Âge
 
-![](/img/posts/2016-06-09-mes-aides-analytics/repartition-age.png)
+![Répartition de l'âge des individus](/img/posts/2016-06-09-mes-aides-analytics/repartition-age.png)
 
 On observe deux pics : l'un à la naissance, l'autre autour de la vingtaine.
 On peut supposer que le pic à la naissance est lié à l'âge des enfants déclarés par les demandeurs, et le pic en début de vingtaine d'années est attribuable aux demandeurs eux-mêmes. Cet âge pour les demandeurs est d'ailleurs cohérent avec l'âge de leurs enfants.
 
 On teste cette hypothèse en ne représentant la répartition de l'âge que pour les demandeurs.
 
-![](/img/posts/2016-06-09-mes-aides-analytics/repartition-age-demandeurs.png)
+![Répartition de l'âge des demandeurs](/img/posts/2016-06-09-mes-aides-analytics/repartition-age-demandeurs.png)
 
 #### Lieu de vie
 
@@ -97,13 +97,13 @@ Néanmoins, on peut tout de même observer dans les arrondissements de Paris une
 
 On voit que la grande majorité des demandeurs perçoit des salaires, ou un revenu de remplacement du salaire : chômage ou retraite. Ensuite seulement apparaissent les allocations (logement, familiales…), puis d'[autres ressources](/img/posts/2016-06-09-mes-aides-analytics/ressources-sans-top-2.png).
 
-![](/img/posts/2016-06-09-mes-aides-analytics/top-5-ressources.png)
+![Cinq ressources les plus souvent renseignées](/img/posts/2016-06-09-mes-aides-analytics/top-5-ressources.png)
 
 **Histogramme des sommes des revenus**.
 
 #### Logement
 
-![](/img/posts/2016-06-09-mes-aides-analytics/repartition-logement.png)
+![Répartition des types de logements](/img/posts/2016-06-09-mes-aides-analytics/repartition-logement.png)
 
 **À comparer à la répartition en France.**
 
