@@ -9,7 +9,7 @@ start: 2015-01-01
 owner: SGMAP
 ---
 
-Par l'[Incubateur de Services Numériques](http://sgmap.fr) du [Secrétariat Général pour la Modernisation de l'Action Publique](http://modernisation.gouv.fr) et la [mission Etalab](http://www.etalab.gouv.fr), avec le soutien du groupe de travail intéropérabilité de l'[AFIGéo](http://www.afigeo.asso.fr/).
+Par l'[Incubateur de Services Numériques](http://beta.gouv.fr) du [Secrétariat Général pour la Modernisation de l'Action Publique](http://modernisation.gouv.fr) et la [mission Etalab](http://www.etalab.gouv.fr), avec le soutien du groupe de travail intéropérabilité de l'[AFIGéo](http://www.afigeo.asso.fr/).
 
 Notre ambition est d'apporter de nouveaux outils et bonnes pratiques permettant de répondre de manière plus pragmatique à la [directive Inspire](http://inspire.ec.europa.eu/), et d'en tirer des usages. Cela se concrétise par la mise en place d'une passerelle entre les standards utilisés dans le secteur de la donnée géographique (OGC CSW et ISO19139 en particulier) et le modèle de métadonnées/données du portail data.gouv.fr.
 
