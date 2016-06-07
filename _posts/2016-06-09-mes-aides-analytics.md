@@ -105,7 +105,7 @@ On voit que la grande majorité des demandeurs perçoit des salaires, ou un reve
 
 ![Répartition des types de logements](/img/posts/2016-06-09-mes-aides-analytics/repartition-logement.png)
 
-**À comparer à la répartition en France.**
+En France, l'INSEE indique une [répartition](http://www.insee.fr/fr/themes/document.asp?ref_id=T13F072#tableaux) en 2012 de 58,2% de propriétaires, 39,1% de locataires, et 2,7% d'autres statuts. Cette répartition concerne le parc des résidences principales, et n'inclut donc pas les personnes sans domicile stable.
 
 ### Limites de l'étude
 
