@@ -1,10 +1,11 @@
 require 'json'
-require 'open-uri'
+require 'net/http'
 
 source 'https://rubygems.org'
 
 begin
-  versions = JSON.parse(open('https://pages.github.com/versions.json').read)
+  uri      = URI('https://pages.github.com/versions.json')
+  versions = JSON.parse(Net::HTTP.get(uri))
 
   # We need to be sure jekyll gets built in CI using the same version
   # than Github does.
@@ -15,15 +16,30 @@ begin
   # see <https://circleci.com/docs/unrecognized-ruby-version/>
   ruby versions['ruby'] if ENV['CI']
 
-rescue => unreachable_versions
+# If for some reason the production versions check fails, we need to provide
+# a fallback scenario to the user.
+rescue Exception => exception
+  # Halt execution immediatly if CI server run.
+  raise exception if ENV['CI']
+
+  # We try to use whatever version is already installed.
   gem 'github-pages'
 
-  if ENV['CI']
-    raise unreachable_versions
-  else
-    puts "\n**Something went wrong trying to parse production versions. Assuming you're offline.**\n\n"
-  end
-end
+  message = String.new.tap do |message|
+    # We warn the user if we believe she's offline.
+    if exception.is_a?(SocketError)
+      message << "\nWe couldn't reach #{uri.to_s}, we assume you're offline."
+    # Otherwise invite her to report the incident by opening an issue.
+    else
+      message << "\nSomething went wrong trying to parse production versions."
+      message << "\nPlease report the incident at https://github.com/sgmap/beta.gouv.fr/issues."
+    end
 
+    # In any case, let the user know we're providing a fallback strategy.
+    message << "\nAs a fallback, we're using whatever version of 'github-pages' you've already installed.\n\n"
+  end
+
+  puts message
+end
 
 gem 'html-proofer', group: :test
