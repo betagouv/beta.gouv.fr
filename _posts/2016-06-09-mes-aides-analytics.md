@@ -85,6 +85,8 @@ On teste cette hypothèse en ne représentant la répartition de l'âge que pour
 
 ![Répartition de l'âge des demandeurs](/img/posts/2016-06-09-mes-aides-analytics/repartition-age-demandeurs.png)
 
+On obtient bien le résultat attendu.
+
 #### Lieu de vie
 
 Sans grande surprise, les communes où Mes Aides est le plus utilisé sont les communes les plus peuplées.
