@@ -6,6 +6,11 @@
 	<title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+	<!-- For IE 9 and below. ICO should be 32x32 pixels in size -->
+	<!--[if IE]><link rel="shortcut icon" href="/favicon.ico"><![endif]-->
+	<!-- Firefox, Chrome, Safari, IE 11+ and Opera. 196x196 pixels in size. -->
+	<link rel="icon" href="/img/favicon-196x196.png">
+
 	<link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/reset.min.css">
 	<link rel="stylesheet" type="text/css" class="ui" href="//oss.maxcdn.com/semantic-ui/2.1.8/components/menu.min.css">
 	<link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/container.min.css">
