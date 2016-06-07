@@ -1,5 +1,5 @@
 ---
-title: Analyse des usages de Mes Aides
+title: Analyse des usages
 startup: mes-aides
 ---
 
