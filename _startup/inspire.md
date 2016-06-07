@@ -11,7 +11,7 @@ owner: SGMAP
 
 La passerelle Inspire est un outil coproduit par l'[Incubateur de Services Numériques](https://beta.gouv.fr) du [Secrétariat Général pour la Modernisation de l'Action Publique](http://modernisation.gouv.fr) et la [mission Etalab](http://www.etalab.gouv.fr), avec le soutien du groupe de travail intéropérabilité de l'[AFIGéo](http://www.afigeo.asso.fr/).
 
-Notre ambition est d'apporter de nouveaux outils et bonnes pratiques permettant de répondre de manière plus pragmatique à la [directive Inspire](http://inspire.ec.europa.eu/), et d'en tirer des usages. Cela se concrétise par la mise en place d'une passerelle entre les standards utilisés dans le secteur de la donnée géographique (OGC CSW et ISO19139 en particulier) et le modèle de données et métadonnées du portail [data.gouv.fr](https://www.data.gouv.fr), aligné sur les standards du web géogrpahique : GeoJSON, CSV, SHP ...
+Notre ambition est d'apporter de nouveaux outils et bonnes pratiques permettant de répondre de manière plus pragmatique à la [directive Inspire](http://inspire.ec.europa.eu/), et d'en tirer des usages. Cela se concrétise par la mise en place d'une passerelle entre les standards utilisés dans le secteur de la donnée géographique (OGC CSW, ISO19139…) et les standards du web utilisé dans les modèles du portail [data.gouv.fr](https://www.data.gouv.fr) (GeoJSON, CSV, SHP…).
 
 ## Qu'est-ce que la passerelle Inspire ?
 
