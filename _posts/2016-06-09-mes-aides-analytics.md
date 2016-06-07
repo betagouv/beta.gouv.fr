@@ -3,42 +3,70 @@ title: Analyse des usages de Mes Aides
 startup: mes-aides
 ---
 
-Mes Aides est en production depuis le mois d'octobre 2014. Il s'agit du plus ancien produit grand public de l'Incubateur. Nous avons donc pu accumuler des données statistiques intéressantes, à la fois sur l'usage qui est fait de ce simulateur, et des simulations qui y sont faites.
+[Mes Aides](https://mes-aides.gouv.fr) est en production depuis le mois d'octobre 2014. Il s'agit du plus ancien produit grand public de l'Incubateur. Nous avons donc pu accumuler des données statistiques sur l'usage de ce simulateur. Voilà comment nous les analysons.
 
 
 ## Données d'usage
 
-La quasi-totalité des produits de l'Incubateur utilisent [Piwik](https://piwik.org), un outil libre de suivi de fréquentation, pour déterminer notamment le nombre de visites et les contenus les plus populaires. [Ces données](http://stats.data.gouv.fr/index.php?module=MultiSites&action=index&idSite=1&period=range&date=previous30#?module=MultiSites&action=index&idSite=1&period=range&date=previous30&idDashboard=1) sont d'ailleurs librement accessibles.
+Les produits de l'Incubateur utilisent [Piwik](https://piwik.org), un outil libre de suivi de fréquentation, pour déterminer entre autres le nombre de visites et les contenus les plus populaires. [Ces données](http://stats.data.gouv.fr/index.php?module=MultiSites&action=index&idSite=1&period=range&date=previous30#?module=MultiSites&action=index&idSite=1&period=range&date=previous30&idDashboard=1) sont d'ailleurs librement accessibles.
 
-Dans l'équipe Mes Aides, nous utilisons notamment cet outil pour suivre le taux d'activation (ratio nombre de simulations démarrées / nombre de visites sur la page d'accueil), le taux de conversion (ratio nombre de simulations terminées / nombre de simulations démarrées), et les caractéristiques des durées nécessaires pour effectuer une simulation (médiane et 95ème percentile).
+Dans l'équipe Mes Aides, nous utilisons notamment cet outil pour déterminer la clarté de nos messages. Nous suivons pour cela le pourcentage de visiteurs commençant une simulation, le pourcentage la terminant, et la durée nécessaire pour cela.
+
+### Taux d'activation
+
+Le taux d'activation permet d'éclairer si notre message est engageant pour tous les visiteurs, et si le flux entrant est bien qualifié. Il s'agit du ratio de simulations démarrées par rapport au nombre de visites sur la page d'accueil.
+
+Cette métrique ne permet pas de déterminer si notre proposition de valeur est claire. En effet, une proposition de valeur claire peut justement éviter à des personnes qui ne se sentent pas concernées de commencer une interaction qui ne leur apportera pas de valeur.
+
+
+### Taux de conversion
+
+Le taux de conversion permet d'évaluer la qualité de l'interaction avec le système, et l'adéquation de l'interaction proposée avec la proposition de valeur initiale. Il s'agit du ratio de simulations terminées par rapport aux simulations démarrées.
+
+Cette métrique ne permet pas d'identifier précisément les défauts. Il faut pour cela déterminer les pages qui sont les plus source d'abandon, puis mener une analyse qualitative pour en identifier les causes et proposer des correctifs.
+
+
+### Temps nécessaire pour effectuer une simulation
+
+Cette métrique est particulièrement importante, car il s'agit de notre proposition de valeur de base : augmenter fortement le retour sur investissement d'une simulation de droits, pour maximiser leur découverte et donc le recours. Pour maximiser ce retour sur investissement, nous agissons sur plusieurs paramètres. Parmi ceux quantifiables, nous maximisons le nombre de prestations calculées en une seule simulation, et nous minimisons le temps nécessaire pour réaliser cette simulation.
+Pour caractériser correctement cette durée, nous suivons la médiane et le 95ème percentile des simulations terminées.
+
+
+### Taux de demande d'assistance
+
+Le taux de demande d'assistance permet d'évaluer la clarté de l'interface et la fréquence de défauts techniques. Il s'agit du ratio de contacts email au support par rapport au nombre de visiteurs uniques.
+
+
+Cette métrique permet de déterminer si un passage à l'échelle supérieure est envisageable, en répondant à la question suivante : si 1 000 utilisateurs génèrent 2 emails par jour, sommes-nous équipés pour faire face à 20 emails par jour ? Il s'agit de l'un des aspects du « facteur 10 ».
 
 
 ## Données de simulation
 
-Au-delà des données de fréquentation analysées par Piwik, les situations décrites par les usagers sont également enregistrées lors du calcul des prestations éligibles. Rappelons au passage que ces situations ne contiennent aucune donnée personnellement identifiable.
+Au-delà des données de fréquentation analysées par Piwik, les situations décrites par les usagers sont également enregistrées lors du calcul des prestations éligibles.
 
-Nous avons travaillé avec Florian Gauthier, analyste de l'[Administrateur Général des Données](http://agd.data.gouv.fr) (une autre mission du SGMAP), pour décrire et analyser les situations simulées sur Mes Aides. L'objectif était triple : d'une part, déterminer si les
+Nous avons travaillé avec Florian Gauthier, analyste de l'[Administrateur Général des Données](http://agd.data.gouv.fr) (une autre mission du SGMAP), pour décrire et analyser les situations simulées sur Mes Aides. L'objectif était triple :
 
-- Déterminer la diffusion territoriale de Mes Aides.
-- Déterminer l'usage réel de certains choix de conception que nous avions basés sur des considérations éthiques plutôt que sur des données (catégorie « sans domicile stable »).
+- Comprendre la diffusion territoriale de Mes Aides.
+- Déterminer l'usage réel de certains choix de conception pour lesquels nous ne disposions pas de données a priori (catégorie « sans domicile stable », par exemple).
 
-L'intégralité des manipulations effectuées est disponible dans un [notebook iPython](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/stats_descr.ipynb).
+> Pour rappel, ces situations ne contiennent aucune donnée personnellement identifiable.
+> L'intégralité des manipulations effectuées est disponible dans un [notebook iPython](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/stats_descr.ipynb).
 
 ### Nettoyage des données
 
-On filtre :
+On retire de l'échantillon :
 
 - Les individus de plus de 120 ans, car la probabilité qu'il s'agisse de tests est très élevée.
 - Les individus nés le 12/12/2012, car nous utilisons systématiquement cette valeur pour effectuer des tests.
 
 On vérifie la cohérence des données grâce à la répartition temporelle. On suppose que, même si tous les visiteurs arrivant sur la page d'accueil ne vont pas nécessairement faire une simulation, la fréquentation devrait être similaire entre Piwik et les simulations.
 
-![](/img/posts/2016-06-09-mes-aides-analytics/frequentation-backend.png)
-![](/img/posts/2016-06-09-mes-aides-analytics/frequentation-piwik.png)
+![Répartition temporelle des simulations](/img/posts/2016-06-09-mes-aides-analytics/frequentation-backend.png)
+![Répartition temporelle des visites](/img/posts/2016-06-09-mes-aides-analytics/frequentation-piwik.png)
 
 Les données sont bien cohérentes temporellement.
 
-On vérifie ensuite la cohérence des situations avec la répartition socio-démographique française :
+On vérifie ensuite la cohérence des situations avec la répartition socio-démographique française :
 
 ![](/img/posts/2016-06-09-mes-aides-analytics/repartition-age-situationpro.png)
 
@@ -50,7 +78,7 @@ Les étudiants sont majoritairement jeunes, les retraités majoritairement vieux
 
 ![](/img/posts/2016-06-09-mes-aides-analytics/repartition-age.png)
 
-On observe deux pics : l'un à la naissance, l'autre autour de la vingtaine.
+On observe deux pics : l'un à la naissance, l'autre autour de la vingtaine.
 On peut supposer que le pic à la naissance est lié à l'âge des enfants déclarés par les demandeurs, et le pic en début de vingtaine d'années est attribuable aux demandeurs eux-mêmes. Cet âge pour les demandeurs est d'ailleurs cohérent avec l'âge de leurs enfants.
 
 On teste cette hypothèse en ne représentant la répartition de l'âge que pour les demandeurs.
@@ -67,7 +95,7 @@ Néanmoins, on peut tout de même observer dans les arrondissements de Paris une
 
 #### Ressources
 
-On voit que la grande majorité des demandeurs perçoit des salaires, ou un revenu de remplacement du salaire : chômage ou retraite. Ensuite seulement apparaissent les allocations (logement, familiales…), puis d'[autres ressources](/img/posts/2016-06-09-mes-aides-analytics/ressources-sans-top-2.png).
+On voit que la grande majorité des demandeurs perçoit des salaires, ou un revenu de remplacement du salaire : chômage ou retraite. Ensuite seulement apparaissent les allocations (logement, familiales…), puis d'[autres ressources](/img/posts/2016-06-09-mes-aides-analytics/ressources-sans-top-2.png).
 
 ![](/img/posts/2016-06-09-mes-aides-analytics/top-5-ressources.png)
 
