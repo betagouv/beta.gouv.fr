@@ -19,7 +19,7 @@ layout: default
 	{{ page.excerpt }}
 
 	{% if startup %}
-		{% include startup-card.html description=startup %}
+		<aside>{% include startup-card.html description=startup %}</aside>
 	{% endif %}
 
 	{{ content | remove: page.excerpt }}
