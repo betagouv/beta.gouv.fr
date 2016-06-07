@@ -3,7 +3,7 @@ title: Analyse des usages
 startup: mes-aides
 ---
 
-[Mes Aides](https://mes-aides.gouv.fr) est en production depuis le mois d'octobre 2014. Il s'agit du plus ancien produit grand public de l'Incubateur. Nous avons donc pu accumuler des données statistiques sur l'usage de ce simulateur. Voilà comment nous les analysons.
+Nous analysons les données d'usage de [Mes Aides](https://mes-aides.gouv.fr) pour suivre la qualité de service et vérifier la diffusion. Mes Aides est plus ancien produit grand public de l'Incubateur, étant en production depuis le mois d'octobre 2014. Nous avons donc pu accumuler suffisamment de données statistiques sur l'usage de ce simulateur pour mener des analyses approfondies.
 
 
 ## Données d'usage
