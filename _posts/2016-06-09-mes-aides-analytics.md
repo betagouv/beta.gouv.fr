@@ -12,16 +12,16 @@ Les produits de l'Incubateur utilisent [Piwik](https://piwik.org), un outil libr
 
 Dans l'équipe Mes Aides, nous utilisons notamment cet outil pour déterminer la clarté de nos messages. Nous suivons pour cela le pourcentage de visiteurs commençant une simulation, le pourcentage la terminant, et la durée nécessaire pour cela.
 
-### Taux d'activation
+### Taux d'acquisition
 
-Le taux d'activation permet d'éclairer si notre message est engageant pour tous les visiteurs, et si le flux entrant est bien qualifié. Il s'agit du ratio de simulations démarrées par rapport au nombre de visites sur la page d'accueil.
+Le taux d'acquisition<sup>[1][aarrr]</sup> permet d'éclairer si notre message est engageant pour tous les visiteurs, et si le flux entrant est bien qualifié. Il s'agit du ratio de simulations démarrées par rapport au nombre de visites sur la page d'accueil.
 
 Cette métrique ne permet pas de déterminer si notre proposition de valeur est claire. En effet, une proposition de valeur claire peut justement éviter à des personnes qui ne se sentent pas concernées de commencer une interaction qui ne leur apportera pas de valeur.
 
 
-### Taux de conversion
+### Taux d'activation
 
-Le taux de conversion permet d'évaluer la qualité de l'interaction avec le système, et l'adéquation de l'interaction proposée avec la proposition de valeur initiale. Il s'agit du ratio de simulations terminées par rapport aux simulations démarrées.
+Le taux d'activation<sup>[1][aarrr]</sup> permet d'évaluer la qualité de l'interaction avec le système, et l'adéquation de l'interaction proposée avec la proposition de valeur initiale. Il s'agit du ratio de simulations terminées par rapport aux simulations démarrées.
 
 Cette métrique ne permet pas d'identifier précisément les défauts. Il faut pour cela déterminer les pages qui sont les plus source d'abandon, puis mener une analyse qualitative pour en identifier les causes et proposer des correctifs.
 
@@ -115,3 +115,6 @@ Il est important de garder à l'esprit que les données enregistrées par le sim
 
 Nous menons également une [étude précise](https://mes-droits.fr) de l'impact de Mes Aides sur le non-recours, sous l'égide du Poverty Action Lab, un laboratoire de recherche indépendant, et en partenariat avec Pôle Emploi et la <abbr title="Direction Générale de la Cohésion Sociale">DGCS</abbr>. Cette étude sera basée sur une cohorte de plusieurs dizaines de milliers de demandeurs d'emploi identifiés individuellement par Pôle Emploi. Un email les informant de leur participation à une étude et leur présentant Mes Aides leur sera transmis. S'ils acceptent la participation et suivent le lien, leur parcours sur le site sera suivi individuellement, dans une base de données séparée des autres bases présentées plus haut (vous pouvez d'ailleurs auditer ce [code de suivi](https://github.com/sgmap/mes-aides-ui/pull/288)). Cette base est opérée par le Poverty Action Lab, n'est accessible qu'à ses agents, et sera détruite après 36 mois.
 Une demande sera ensuite faite, après 6 mois, au Registre National des Prestations Sociales, pour chacune des personnes ayant participé à l'étude, afin de déterminer si les population ayant utilisé Mes Aides ont statistiquement obtenu plus de prestations sociales que celles ne l'ayant pas fait.
+
+
+[aarrr](http://www.expectedbehavior.com/experiments/pirate_metrics/)
