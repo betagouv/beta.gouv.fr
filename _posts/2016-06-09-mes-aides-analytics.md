@@ -101,7 +101,9 @@ On voit que la grande majorité des demandeurs perçoit des salaires, ou un reve
 
 ![Cinq ressources les plus souvent renseignées](/img/posts/2016-06-09-mes-aides-analytics/top-5-ressources.png)
 
-**Histogramme des sommes des revenus**.
+En valeur, les revenus totaux des individus sont en grande majorité nuls. On observe un second pic aux alentours du SMIC annuel, puis une décroissance exponentielle vers les hauts revenus.
+
+![Répartition des sommes des revenus](/img/posts/2016-06-09-mes-aides-analytics/ressources.png)
 
 #### Logement
 
