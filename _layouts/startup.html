@@ -46,10 +46,10 @@ layout: default
 		{{ content }}
 	</section>
 
-	{% if page.analytics_idSite %}
+	{% if page.analytics_id %}
 	<section class="ui text container">
 		<h2 class="ui divider horizontal">Statistiques de consultation</h2>
-		<a href="https://stats.data.gouv.fr/index.php?idSite={{page.analytics_idSite}}"><img alt="Statistiques de consultation" src="https://stats.data.gouv.fr/index.php?module=API&method=ImageGraph.get&idSite={{page.analytics_idSite}}&apiModule=VisitsSummary&apiAction=get&token_auth=anonymous&graphType=evolution&period=day&date=previous90&width=700&height=200"/>
+		<a href="https://stats.data.gouv.fr/index.php?idSite={{page.analytics_id}}"><img alt="Graphique" src="https://stats.data.gouv.fr/index.php?module=API&method=ImageGraph.get&idSite={{page.analytics_id}}&apiModule=VisitsSummary&apiAction=get&token_auth=anonymous&graphType=evolution&period=day&date=previous90&width=700&height=200"/>
 		<div class="ui center aligned container"><small>(Cliquez pour les statistiques détaillées)</small></div></a>
 	</section>
 	{% endif %}
