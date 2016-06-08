@@ -12,6 +12,8 @@ Vous n'êtes pas satisfait des services d'une administration publique (et non pa
 
 ## Nous rejoindre
 
+Nos [pratiques](https://github.com/sgmap/beta.gouv.fr/wiki), inspirées des mouvements Agiles, Lean Startup et Devops, évoluent au fil de nos apprentissages et s'enrichiront de votre contribution.
+
 ### Agentes et agents publics
 
 Vous vous reconnaissez dans le profil d'un **agent public indigné par une situation irritante pour les usagers** ? Vous avez une idée précise d'une solution qui pourrait faire levier sur du numérique ? Vous êtes prêts à vous investir pour la mettre en œuvre ?
