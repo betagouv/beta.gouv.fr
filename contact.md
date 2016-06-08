@@ -22,7 +22,7 @@ Vous vous reconnaissez dans le profil d'un **agent public indigné par une situa
 
 ### Développeuses et développeurs
 
-Vous êtes **développeur agile**, pour vous l'informatique sert à résoudre des problèmes, pas forcément à essayer le dernier framework à la mode ? Nous proposons régulièrement des missions ou des CDD pour constituer des Startups d'État.
+Vous êtes **développeur**, pour vous l'informatique sert à résoudre des problèmes, pas forcément à essayer le dernier framework à la mode ? Nous proposons régulièrement des missions ou des CDD pour constituer des Startups d'État.
 
 **Suivez-nous sur [@BetaGouv](https://twitter.com/BetaGouv) !**
 
