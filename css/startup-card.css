@@ -1,3 +1,7 @@
+.image {
+	border-top: solid 1px gray;
+}
+
 .ui.card .extra.content {
 	font-size: 80%;
 }

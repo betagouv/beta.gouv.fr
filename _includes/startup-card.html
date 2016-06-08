@@ -11,21 +11,6 @@
 
 
 <a class="ui fluid {{ description.status }} card" href="{{ description.url }}">
-	<div class="image">
-		{% include screenshot.html startup=description %}
-	</div>
-	<div class="content">
-		<img class="right floated mini ui image" src="{{ description.logo }}" alt="{{ description.title }}"/>
-
-		<div class="header">{{ description.title }}</div>
-		<div class="meta">
-			{% include owner.html owner=description.owner %}
-		</div>
-
-		<div class="description">
-			{{ description.mission }}
-		</div>
-	</div>
 	<div class="extra content">
 		<div class="left floated">
 			{%if description.domain %}
@@ -42,5 +27,20 @@
 				<em>Code pas encore ouvert</em>
 			{% endif %}
 		</div>
+	</div>
+	<div class="content">
+		<img class="right floated mini ui image" src="{{ description.logo }}" alt="{{ description.title }}"/>
+
+		<div class="header">{{ description.title }}</div>
+		<div class="meta">
+			{% include owner.html owner=description.owner %}
+		</div>
+
+		<div class="description">
+			{{ description.mission }}
+		</div>
+	</div>
+	<div class="image">
+		{% include screenshot.html startup=description %}
 	</div>
 </a>
