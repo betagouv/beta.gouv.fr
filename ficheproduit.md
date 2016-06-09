@@ -5,7 +5,7 @@ layout: text
 
 ## Rédiger une fiche produit
 
-Une Startup d'État a pour objectif de produire un outil numérique qui résoud un irritant vécu par les usagers ou les agents. Sa stratégie de passage à l'échelle repose sur une adoption virale par ses usagers et ses partenaires.
+Une Startup d'État a pour objectif de produire un service numérique qui résoud un irritant vécu par les usagers ou les agents. Sa stratégie de passage à l'échelle repose sur une adoption virale par ses usagers et ses partenaires.
 
 Pour valider la pertinence de votre idée, vous devriez être en mesure de rédiger, sur un format A4 recto, une note en 3 parties :
 
@@ -24,7 +24,7 @@ Pour valider la pertinence de votre idée, vous devriez être en mesure de rédi
 
 ### La Bonne Boîte facilite l'accès à ce marché caché
 
-Ce nouvel outil permet au chercheur d'emploi de créer son profil, en l'enrichissant de ses compétences mais surtout de ses aspirations. S’il nous y autorise, le demandeur d’emploi pourra aussi importer automatiquement son profil professionnel AUDE (code métier, capacités et compétences associées, éléments de mobilité…).
+Ce nouveau service permet au chercheur d'emploi de créer son profil, en l'enrichissant de ses compétences mais surtout de ses aspirations. S’il nous y autorise, le demandeur d’emploi pourra aussi importer automatiquement son profil professionnel AUDE (code métier, capacités et compétences associées, éléments de mobilité…).
 
 Une fois enregistré sur La Bonne Boîte, l’utilisateur se verra proposer des entreprises susceptibles de rechercher son profil. Fondé sur les données d'entreprises (DPAE, historique Pôle emploi, données ETT, données économiques…), un algorithme sélectionne les entreprises qu'il devrait démarcher. Si l'une d'elle a une offre d'emploi en cours, celle-ci est naturellement remontée.
 
@@ -36,4 +36,4 @@ Qapa ou Leboncoin ont innové sur la facilité d’accès aux offres d’emploi,
 
 ### Une communauté de prescripteurs
 
-Le lancement de l'outil s'appuiera sur des relais : Conseillers Pôle Emploi, Missions Locales (jeunes), CSP (licenciés économiques), Conseil Généraux (bénéficiaires du RSA), associations (publics éloignés de l'emploi), sites dédiés à l'emploi… Ces acteurs auront naturellement intérêt à utiliser et prescrire un outil qui offre une fenêtre sur 75% du marché du travail… et pas 25%.
+Le lancement du service s'appuiera sur des relais : Conseillers Pôle Emploi, Missions Locales (jeunes), CSP (licenciés économiques), Conseil Généraux (bénéficiaires du RSA), associations (publics éloignés de l'emploi), sites dédiés à l'emploi… Ces acteurs auront naturellement intérêt à utiliser et prescrire un outil qui offre une fenêtre sur 75% du marché du travail… et pas 25%.
