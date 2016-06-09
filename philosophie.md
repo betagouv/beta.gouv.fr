@@ -13,7 +13,7 @@ La complexité administrative s’est bâtie à la fois sur le cloisonnement des
 
 ## Une conception fondée sur la simplicité et la confiance
 
-Agir selon un principe de confiance, cela signifie pouvoir déposer une candidature à un marché public avec simplement son numéro de SIRET et recueillir une déclaration sur l’honneur, plutôt qu’exiger des attestations ou une signature numérique compliquée. Cette confiance vis-à-vis des usagers induit de la simplicité.
+Agir selon un principe de confiance, cela signifie pouvoir déposer une candidature à un marché public avec simplement son numéro SIRET et recueillir une déclaration sur l’honneur, plutôt qu’exiger des attestations ou une signature numérique compliquée. Cette confiance vis-à-vis des usagers induit de la simplicité.
 
 Tourné vers les agents, ce principe de confiance accélère le décloisonnement en leur offrant les mêmes niveaux d’accès. Il devient par exemple possible d'instruire un dossier de subvention entre collectivités et préfecture, ou un dossier d'aide sociale entre Pôle Emploi, la CAF et un Conseil Départemental.
 
