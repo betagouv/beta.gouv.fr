@@ -1,6 +1,6 @@
 ---
 title: Mes Aides
-mission: Évaluez vos droits à 15 aides sociales. En moins de 6 minutes.
+mission: Évaluez vos droits à 22 aides sociales. En moins de 6 minutes.
 domain: mes-aides.gouv.fr
 repository: https://github.com/sgmap/mes-aides-ui
 status: consolidation
@@ -9,12 +9,14 @@ start: 2014-05-01
 owner: SGMAP
 ---
 
-Saisissez la situation de votre foyer, et vous connaîtrez votre éligibilité aux principales prestations sociales : Revenu de Solidarité Active (RSA) socle et activité, Allocation Spécifique de Solidarité (ASS), Couverture Médicale Universelle (CMU), Aide Complémentaire Santé (ACS), Allocation de Solidarité aux Personnes âgées (ASPA), Allocation Familiales (Allocation Soutien Familial, Complément Familial), et Allocations Logement (Allocation Logement Social, Allocation Logement Familial, Aide Personnalisée au Logement). Mes-aides intègre progressivement toutes les aides extra-légales distribuées par les collectivités.
+En décrivant votre foyer dans une interface simple, vous connaîtrez immédiatement votre éligibilité aux [principales prestations sociales](https://github.com/sgmap/mes-aides-ui/wiki#les-aides-calculées) nationales.
+
+Mes Aides intègre également progressivement toutes les aides extra-légales distribuées par les collectivités. Vous êtes une collectivité et souhaitez ajouter vos prestations dans Mes Aides ? [Contactez-nous](mailto:contribuer@mes-aides.gouv.fr?Ajouter+une+aide+via+beta.gouv.fr) !
 
 
 ## Mes-aides recrute !
 
-Nous sommes prêts à accueillir des stagiaires sur les sujets suivants :
+Nous sommes prêts à accueillir des stagiaires sur les sujets suivants :
 
 ### Community Management
 
