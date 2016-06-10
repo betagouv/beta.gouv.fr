@@ -7,23 +7,23 @@ layout: text
 
 Depuis juin 2013, l’État a pu expérimenter au sein du [Secrétariat Général pour la Modernisation de l'Action Publique](https://modernisation.gouv.fr) (SGMAP) une nouvelle manière de construire des services publics numériques, en réussissant tout d'abord la refonte de [data.gouv.fr](https://data.gouv.fr). L'Incubateur de Services Numériques existe en tant que Mission de la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr> depuis septembre 2015.
 
-# Philosophie des incubateurs de services numériques
+## Philosophie des incubateurs de services numériques
 
-La complexité administrative s’est bâtie à la fois sur le cloisonnement des guichets et selon un principe de méfiance par défaut. Cette conjonction de "vous n'êtes pas au bon guichet" et "il me faudrait votre fiche d'impôt que l'administration possède déjà" induit beaucoup de frictions avec les usagers. La simplicité qu'exige désormais le numérique appelle de nouvelles règles du jeu. 
+La complexité administrative s’est bâtie à la fois sur le cloisonnement des guichets et selon un principe de méfiance par défaut. Cette alternance de « vous n'êtes pas au bon guichet » et de « il me faudrait votre fiche d'impôt que l'administration possède déjà » induit beaucoup de frictions avec les usagers. La simplicité qu'exige désormais le numérique appelle de nouvelles règles du jeu.
 
 ## Une conception fondée sur la simplicité et la confiance
 
-Agir selon un principe de confiance, cela signifie pouvoir déposer une candidature à un marché public avec simplement son numéro de SIRET et recueillir une déclaration sur l’honneur, plutôt qu’exiger des attestations ou une signature numérique compliquée. Cette confiance vis-à-vis des usagers induit de la simplicité. 
+Agir selon un principe de confiance, cela signifie pouvoir déposer une candidature à un marché public avec simplement son numéro SIRET et recueillir une déclaration sur l’honneur, plutôt qu’exiger des attestations ou une signature numérique compliquée. Cette confiance vis-à-vis des usagers induit de la simplicité.
 
 Tourné vers les agents, ce principe de confiance accélère le décloisonnement en leur offrant les mêmes niveaux d’accès. Il devient par exemple possible d'instruire un dossier de subvention entre collectivités et préfecture, ou un dossier d'aide sociale entre Pôle Emploi, la CAF et un Conseil Départemental.
 
 Le design numérique par la confiance, c’est aussi reconnaître la nécessité du contrôle, mais pas à n'importe quel prix : contrôle ex-post des attestations aux seuls candidats retenus, pression sociale sur la réputation, évaluation et signalement par les internautes, audit des accès par les agents publics…
 
-En somme, nous pensons les services d'abord pour l'immense majorité bien intentionnée, et nous nous protégeons des abus par un contrôle a posteriori puissant. Fou ? Pas vraiment : c'est ainsi que sont gérés les communs collaboratifs comme Wikipedia, OpenStreetMap, OpenFoodFacts…
+En somme, nous pensons les services d'abord pour l'immense majorité bien intentionnée, et nous nous protégeons des abus par un contrôle a posteriori puissant. Fou ? Pas vraiment : c'est ainsi que sont gérés les communs collaboratifs comme Wikipedia, OpenStreetMap, OpenFoodFacts…
 
-## Une startup d'Etat n'est pas une startup
+## Une Startup d'État n'est pas une startup
 
-L’exigence d’innovation radicale impose d’initier une Startup d’État loin de toute contrainte, pour qu’elle ne reproduise pas les règles explicites ou implicites qui fondent le service tel qu'il existe aujourd'hui. Pour autant, elle n'a pas besoin de capital privé. **Une startup d'état est donc simplement une équipe de 2 à 4 personnes financée par une administration et totalement autonome** pour trouver son marché.
+L’exigence d’innovation radicale impose d’initier une Startup d’État loin de toute contrainte, pour qu’elle ne reproduise pas les règles explicites ou implicites qui fondent le service tel qu'il existe aujourd'hui. Pour autant, elle n'a pas besoin de capital privé. **Une Startup d'État est donc simplement une équipe de 2 à 4 personnes financée par une administration et totalement autonome** pour trouver son marché.
 
 Cette posture iconoclaste induit des changements profonds. Elle impose de s'appuyer sur des utilisateurs volontaires qui vont créer de la conviction autour des premiers bénéfices observés. Corollaire : une Startup d’État ne cherche pas à obtenir un consensus général avant de démarrer, elle cherche un premier usager satisfait.
 

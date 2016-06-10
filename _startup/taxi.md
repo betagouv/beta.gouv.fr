@@ -11,7 +11,7 @@ owner: Ministère de l'Intérieur
 screenshot: /img/startup/taxi.jpg
 ---
 
-Le Taxi, c'est plus de 50.000 chauffeurs en France, partout sur le territoire, de la plus petite commune à la plus grande métropole.
+Le Taxi, c'est plus de 50 000 chauffeurs en France, partout sur le territoire, de la plus petite commune à la plus grande métropole.
 
 Disponibilité
 -------------

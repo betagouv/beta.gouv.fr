@@ -2,30 +2,52 @@
 title: Contact
 layout: text
 ---
-## Nous contacter
 
-Vous vous reconnaissez dans le profil d'un **agent public indigné par une situation irritante pour les usagers** ? Vous avez une idée précise d'une solution qui pourrait faire levier sur du numérique ? Vous êtes prêts à vous investir pour la mettre en œuvre ? Rédigez une [fiche produit]({{ site.baseurl }}ficheproduit) et adressez-la nous.
+## Retours sur un service
 
-Vous êtes un **développeur agile**, pour vous l'informatique sert à résoudre des problèmes, pas forcément à essayer le dernier framework à la mode ? Nous proposons régulièrement des missions ou des CDD pour constituer des Startups d'État. Suivez-nous sur [@BetaGouv](https://twitter.com/BetaGouv).
+Les coordonnées des équipes sont accessibles sur la page de chaque Startup. Trouvez la [Startup d'État]({{ site.baseurl}}startups) qui vous concerne et cliquez dessus !
 
-Vous êtes un **responsable d'administration centrale ou territoriale** et souhaitez créer rapidement des outils qui résolvent les problèmes les plus courants rencontrés par vos usagers ? Vous souhaitez accélérer votre transition numérique en mobilisant vos agents sur ces enjeux ? Lancer une startup d'état peut tout simplement débuter par un message à l'ensemble de vos agents :
-
-*Vous êtes le témoin d'irritants récurrents pour les usagers ou les agents ? Vous avez une idée de solution numérique pouvant y remédier ? Vous êtes prêts à vous investir 6 mois autour d'une équipe mise à votre disposition pour réussir ? Rendez-vous le ...*
-
-Nous pouvons vous aider à organiser cet évènement interne, sélectionner les innovateurs à haut-potentiel, et les accompagner dans leur réussite. Votre direction n'assumera que la charge de développement, toujours inférieure à 200.000€ (2 ETP informaticiens senior) pour une première mise en marché en 6 mois.
-
-Vous voulez agir dès demain matin ? Diffusez dans votre entourage les startups d'état les plus pertinentes dans votre contexte, notamment territorial :
-
-- sensibiliser les fonctions achat à l'utilisation plus massive des [Marchés Publics Simplifiés](http://mps.apientreprise.fr/)
-- sensibiliser vos missions locales et vos structures concernées par le retour à l'emploi (missions locales, maisons de l'emploi..) à [laBonneBoite](http://labonneboite.pole-emploi.fr/) et à [laBonneFormation](http://labonneformation.pole-emploi.fr/)
-- sensibiliser vos structures d'accueil social (CCAS ..) au simulateur des droits [mes-aides](https://mes-aides.gouv.fr/) puis intégrer les aides sociales extra légales dans le simulateur des droits mes-aides.gouv.fr en mobilisant un informaticien de la collectivité pendant quelques mois
-- etc.
+Vous n'êtes pas satisfait des services d'une administration publique (et non pas d'une Startup d'État) et souhaitez le signaler ? Adressez votre demande ou votre idée à [Faire Simple](https://www.faire-simple.gouv.fr/), elle sera entendue.
 
 
-[Écrivez-nous](mailto:recrutement@beta.gouv.fr) !
+## Nous rejoindre
 
-## Ne pas nous contacter
+Nos [pratiques](https://github.com/sgmap/beta.gouv.fr/wiki), inspirées des mouvements Agile, Lean Startup et Devops, évoluent au fil de nos apprentissages et s'enrichiront de votre contribution.
 
-Vous avez une idée de startup et vous pensez que l'état devrait la financer ou la réaliser ? Contactez plutôt la [BPI](https://www.bpifrance.fr/) ou un incubateur dans votre région, ils seront plus à même de vous aider.
+### Agentes et agents publics
 
-Vous n'êtes pas satisfait des services d'une administration publique et souhaitez le signaler ? Adressez votre demande ou votre idée à [Faire Simple](https://www.faire-simple.gouv.fr/), elle sera entendue.
+Vous vous reconnaissez dans le profil d'un **agent public indigné par une situation irritante pour les usagers** ? Vous avez une idée précise d'une solution qui pourrait faire levier sur du numérique ? Vous êtes prêts à vous investir pour la mettre en œuvre ?
+
+**Rédigez une [fiche produit]({{ site.baseurl }}ficheproduit) et [adressez-la nous](mailto:recrutement@beta.gouv.fr?subject=Fiche+produit) !**
+
+### Développeuses et développeurs
+
+Vous êtes **développeur**, pour vous l'informatique sert à résoudre des problèmes, pas forcément à essayer le dernier framework à la mode ? Nous proposons régulièrement des missions ou des CDD pour constituer des Startups d'État.
+
+**Suivez-nous sur [@BetaGouv](https://twitter.com/BetaGouv) !**
+
+### Responsables d'administration
+
+Vous êtes **responsable d'administration centrale ou territoriale** et souhaitez créer rapidement des outils qui résolvent les problèmes les plus courants rencontrés par vos usagers ? Vous souhaitez accélérer votre transition numérique en mobilisant vos agents sur ces enjeux ? Lancer une Startup d'État peut tout simplement débuter par un message à l'ensemble de vos agents :
+
+> Vous êtes le témoin d'irritants récurrents pour les usagers ou les agents ? Vous avez une idée de solution numérique pouvant y remédier ? Vous êtes prêts à vous investir six mois autour d'une équipe mise à votre disposition pour réussir ? Rendez-vous le…
+
+Nous pouvons vous aider à organiser cet évènement interne, sélectionner les innovateurs à haut potentiel, et les accompagner dans leur réussite. Votre direction n'assumera que la charge de développement, toujours inférieure à 200 000 € (2 <abbr title="Équivalent Temps Plein">ETP</abbr> informaticiens senior) pour une première mise à disposition en six mois.
+
+**[Écrivez-nous](mailto:recrutement@beta.gouv.fr?subject=Responsable+administratif) !**
+
+Vous voulez agir dès demain matin ? Diffusez dans votre entourage les Startups d'État les plus pertinentes dans votre contexte, notamment territorial :
+
+- Sensibiliser les fonctions achat à l'utilisation plus massive des [Marchés Publics Simplifiés](http://mps.apientreprise.fr/).
+- Sensibiliser vos missions locales et vos structures concernées par le retour à l'emploi (missions locales, maisons de l'emploi…) à [La Bonne Boîte](http://labonneboite.pole-emploi.fr/) et à [La Bonne Formation](http://labonneformation.pole-emploi.fr/).
+- Sensibiliser vos structures d'accueil social (CCAS…) à [Mes Aides](https://mes-aides.gouv.fr/) et intégrer vos aides sociales extra-légales en mobilisant un informaticien de la collectivité pendant quelques jours.
+- Jetez un œil à nos [autres produits]({{ site.baseurl }}startups) !
+
+### Entrepreneurs
+
+Vous avez une idée de startup et vous pensez que l'État devrait la financer ou la réaliser ? Contactez plutôt la [BPI](https://www.bpifrance.fr/) ou un incubateur dans votre région, ils seront plus à même de vous aider. Nos Startups sont simplement des équipes autonomes, elles transforment l'administration et ne [prennent pas de capital]({{ site.baseurl }}philosophie).
+
+
+## Autres
+
+Votre sujet ne correspond à aucun des cas ci-dessus ? [Écrivez-nous](mailto:contact@beta.gouv.fr?subject=Autre+sujet) un mail _concis_  ;)
