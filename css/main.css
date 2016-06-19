@@ -17,6 +17,7 @@ body, .menu {
 
 .menu {
 	text-align: right;
+	padding-right: 2em;
 }
 
 .ui.secondary.menu .item {
@@ -83,6 +84,23 @@ header {
 	background-position: left center;
 	padding-right: 1.5em;
 	margin-right: .8em;
+}
+
+#beta {
+  text-align: center;
+  text-transform: uppercase;
+  position: absolute;
+  top: 21px;
+  right: -40px;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  width: 150px;
+  background-color: #008cba;
+  color: #fff;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 700;
+  z-index: 10;
 }
 
 main, section {
