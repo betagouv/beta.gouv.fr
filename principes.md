@@ -7,7 +7,7 @@ layout: text
 
 Depuis juin 2013, l’État a pu expérimenter au sein du [Secrétariat Général pour la Modernisation de l'Action Publique](https://modernisation.gouv.fr) (SGMAP) une nouvelle manière de construire des services publics numériques, en réussissant tout d'abord la refonte de [data.gouv.fr](https://data.gouv.fr). L'Incubateur de Services Numériques existe en tant que Mission de la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr> depuis septembre 2015.
 
-## Philosophie des incubateurs de services numériques
+## Principe fondateur des incubateurs de services numériques
 
 La complexité administrative s’est bâtie à la fois sur le cloisonnement des guichets et selon un principe de méfiance par défaut. Cette alternance de « vous n'êtes pas au bon guichet » et de « il me faudrait votre fiche d'impôt que l'administration possède déjà » induit beaucoup de frictions avec les usagers. La simplicité qu'exige désormais le numérique appelle de nouvelles règles du jeu.
 
