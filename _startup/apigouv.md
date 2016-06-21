@@ -1,10 +1,10 @@
 ---
 title: api.gouv.fr
 mission: Mettre en relation les fournisseurs et les réutilisateurs d'API publiques.
-domain: api.beta.gouv.fr
-repository: https://github.com/sgmap/mas
+domain: api.gouv.fr
+repository: https://github.com/sgmap/api.gouv.fr
 status: construction
-contact:
+contact: contact@api.gouv.fr
 start: 2016-01-25
 owner: SGMAP
 ---
