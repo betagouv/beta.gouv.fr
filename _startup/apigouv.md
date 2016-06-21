@@ -1,6 +1,6 @@
 ---
 title: api.gouv.fr
-mission: Mettre en relation fournisseurs et réutilisateurs d'API publiques.
+mission: Faciliter l'accès aux API publiques pour faire émerger de nouveaux services.
 domain: api.gouv.fr
 repository: https://github.com/sgmap/api.gouv.fr
 status: construction
