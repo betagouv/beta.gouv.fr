@@ -14,13 +14,18 @@ En décrivant votre foyer dans une interface simple, vous connaîtrez immédiate
 Mes Aides intègre également progressivement toutes les aides extra-légales distribuées par les collectivités. Vous êtes une collectivité et souhaitez ajouter vos prestations dans Mes Aides ? [Contactez-nous](mailto:contribuer@mes-aides.gouv.fr?Ajouter+une+aide+via+beta.gouv.fr) !
 
 
-## Mes-aides recrute !
+## Mes Aides recrute !
 
 Nous sommes prêts à accueillir des stagiaires sur les sujets suivants :
 
-### Community Management
+
+### Business Development
+
+Développer l'usage de Mes Aides, partout en France, à la fois en élargissant le cercle de contributeurs et en faisant connaître l'outil auprès des médiateurs.
 
 Animer la communauté des médiateurs professionnels et bénévoles qui utilisent Mes Aides au quotidien. Consolider les usages et les bonnes pratiques, émettre des newsletters mensuelles. Animer la communauté des utilisateurs particuliers via Facebook et Twitter.
+
+Intéressé·e ? Une [fiche de poste]({{ site.baseurl }}img/startup/mes-aides/stage-bizdev-mes-aides.pdf) standard est disponible pour ce poste.
 
 ### Développement logiciel / Analytics
 
