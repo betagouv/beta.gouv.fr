@@ -13,5 +13,5 @@ test:
     - bundle exec jekyll doctor
     - bundle exec jekyll build
     - grep "css/main.css" _site/index.html # smoke test that something was actually compiled
-    - ./rb/bin/htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore
+    - ./rb/bin/htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --enforce-img-https
     - html5validator --root _site

@@ -14,6 +14,13 @@ opts = args.each_with_object({}) do |option, opts|
   opts[option_name] = true
 end
 
+opts.keys.map(&:to_s).each do |check|
+  if File.file?(File.expand_path("#{__dir__}/../lib/htmlproofer/#{check}.rb"))
+    require_relative "../lib/htmlproofer/#{check}"
+    puts "Loading custom test #{check.camelize}"
+  end
+end
+
 HTMLProofer
-  .check_directory("#{Dir.pwd}/#{dir}", opts)
+  .check_directory(File.expand_path("#{__dir__}/../../#{dir}"), opts)
   .run
