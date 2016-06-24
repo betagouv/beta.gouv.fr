@@ -4,4 +4,5 @@ mission: Faciliter l'accès au statut étudiant entrepreneur et à ses bénéfic
 status: investigation
 contact: sophie.ravel@enseignementsup.gouv.fr
 start: 2016-06-23
+owner: Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche
 ---
