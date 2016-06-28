@@ -1,8 +1,8 @@
 ---
 title: Boussole des droits
 mission: "Découvrir autour de moi tous les dispositifs publics et privés destinés aux jeunes."
-domain:
-repository:
+domain: boussole.beta.gouv.fr
+repository: https://github.com/sgmap/boussole/
 status: construction
 contact: contact@boussole.beta.gouv.fr
 start: 2015-12-01
