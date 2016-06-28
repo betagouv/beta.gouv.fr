@@ -6,7 +6,7 @@ repository: https://github.com/sgmap/open-academie
 status: consolidation
 contact: pierre.de-maulmont@ac-paris.fr
 start: 2015-01
-owner: Ministère de l'Education Nationale
+owner: Ministère de l'Éducation nationale
 ---
 
 Construire le lycée et le collège de demain avec les personnels d'aujourd'hui, en pariant sur l'intelligence locale, l'humilité déterminée, l'action concrète et l'amélioration continue. OpenAcademie est une communauté d'agents de l'éducation nationale qui partage des outils de productivité utiles au quotidien dans la gestion d'un Établissement Public Local d'Enseignement (EPLE).
