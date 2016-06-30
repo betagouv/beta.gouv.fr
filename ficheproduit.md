@@ -11,7 +11,7 @@ Pour valider la pertinence de votre idée, vous devriez être en mesure de rédi
 
 - *le drame* : chaque année… tel problème se répète… il cause des €, du temps perdu, du gaspillage, des arrêts maladie, de la violence, de l'exclusion…
 - *la solution numérique* : comment ça marche ? « grâce à MonSuperService, chaque collectivité va pouvoir enfin… chaque citoyen pourra enfin… », en quoi se différencie-t-elle de l'offre actuelle ? Pourquoi est-elle unique ?
-- *la stratégie de mise en marché* : autour des premiers partenaires, comment se développent les usages ? Qui sont les prescripteurs ?
+- *la stratégie de mise en marché* : autour des premiers partenaires, comment se développent les usages ? Qui sont les prescripteurs ? Quel est le principal effet levier qui permet un impact fort en limitant les ressources de votre équipe ?
 
 
 ## Exemple : la Bonne Boîte
