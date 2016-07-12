@@ -5,15 +5,13 @@ domain: pix.beta.gouv.fr
 repository: https://github.com/sgmap/pix-live
 status: construction
 contact: contact@pix.beta.gouv.fr
-logo: /img/logos/pix-logo.png
+logo: /img/logos/logo.png
 start: 2016-06-08
-screenshot: /img/startup/pix.png
+owner: SGMAP
 ---
 
-## Fiche produit
+PIX s'adresse à tous les citoyen•ne•s français•es (élèves, étudiant•e•s, professionnel•le•s, décrocheur•se•s, demandeur•se•s d'emploi, etc.) qui souhaitent mesurer, développer et valoriser leurs compétences numériques.
 
-Pour tous les citoyens français (élève, étudiant, professionnel, etc.)
-Qui souhaitent mesurer, développer et justifier leurs compétences numériques
-Notre plateforme en ligne d'évaluation et de certification des compétences numériques
-Propose des méthodes d'évaluation innovantes, exigeantes et bienveillantes ainsi que des recommandations de formations ciblées
-Afin de susciter l'envie de se former tout au long de la vie.
+Le service se présente sous la forme d'une plateforme en ligne d'évaluation et de certification des compétences numériques.
+
+Le but de PIX est de susciter l'envie de se former tout au long de la vie en proposant des méthodes d'évaluation innovantes, exigeantes et bienveillantes ainsi que des recommandations de formations ciblées.
