@@ -1,16 +1,46 @@
 # Améliorer le site public de l'Incubateur
 
 
-## Ajouter une startup
+## Ajouter ou modifier une startup
 
-### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/gh-pages/_startup?filename=_startup/nom_startup.md&value=---%0d%0atitle%3a+Mes+Aides++%23+une+majuscule+et+pas+d%27acronymes%0d%0amission%3a+%c3%89valuez+vos+droits+%c3%a0+15+aides+sociales.+En+moins+de+6+minutes.++%23+s%27adresser+aux+utilisateurs+et+finir+par+un+point%0d%0adomain%3a+mes-aides.gouv.fr++%23+ne+pas+ajouter+de+http%3a%2f%2f%0d%0arepository%3a+https%3a%2f%2fgithub.com%2fsgmap%2fmes-aides-ui++%23+ou+page+de+description+des+d%c3%a9p%c3%b4ts+s%27il+y+en+a+plusieurs%0d%0astatus%3a+consolidation++%23+les+phases+possibles+sont+d%c3%a9finies+dans+%5b%60_config.yml%60%5d(https%3a%2f%2fgithub.com%2fsgmap%2fbeta.gouv.fr%2fblob%2fgh-pages%2f_config.yml%23L29-L52)%0d%0acontact%3a+contact%40mes-aides.gouv.fr++%23+sera+visible+de+tous%0d%0alogo%3a+%23+URL+vers+un+logo+%3b+supprimer+cette+ligne+si+pas+de+logo%0d%0astart%3a+2015-01-15++%23+date+au+format+ISO+(AAAA-MM-DD)%0d%0ascreenshot%3a+%2fimg%2fstartup%2fnom_startup.png++%23+en+1280x720+pixels%0d%0a---%0d%0a%0d%0a%23%23+Fiche+produit%0d%0a%0d%0aTexte+libre+au+format+%5bMarkdown%5d(http%3a%2f%2fricostacruz.com%2fcheatsheets%2fmarkdown.html).%0d%0a%0d%0a%0d%0a%23%23+Rappels%0d%0a%0d%0a-+%5b+%5d+Modifier+le+nom+du+fichier+%60nom_startup.md%60+dans+le+champ+ci-dessus.%0d%0a-+%5b+%5d+Cr%c3%a9er+une+nouvelle+branche+pour+l%27ajout+de+ce+fichier%2c+et+la+nommer+du+m%c3%aame+nom+que+le+fichier+%60nom_startup%60.%0d%0a-+%5b+%5d+Ouvrir+une+pull+request+pour+valider+l%27int%c3%a9gration.%0d%0a-+%5b+%5d+Effacer+ce+texte+une+fois+que+vous+l%27avez+lu+%f0%9f%98%89) :smiley:
+### Informations d'une startup
+
+Les informations sont dans le fichier `<id_startup>.md` dans le dossier [`_startup`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_startup).
+
+Exemple de fichier `<id_startup>.md` (avec des indication entre parenthèse ou des exemples de valeurs) :
+
+```md
+---
+title: (titre de la startup, ex : Mes démarches retraite pas à pas)
+mission: (mission, ex : Obtenez en quelques clics la liste personnalisée de vos démarches de retraite.)
+domain: xxx.beta.gouv.fr
+repository: https://xxx/
+status: construction
+contact: contact@xxx.beta.gouv.fr
+logo:  (lien HTTPS vers un éventuel logo)
+start: (ex : 2014-06-01)
+owner: xxx
+screenshot: (1)
+---
+
+Texte de présentation...
+```
+
+(1) `screenshot` peut prendre les valeurs suivantes pour présenter une capture d'écran ou pas :
+* false : pas d'image
+* rien (ligne absente) : une image `<id_startup>.png` (taille recommandée 1280x720, ou au minimum 480 de haut) doit être présente dans le dossier [`img/startup`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/img/startup)
+* lien explicite vers une image hébergée ailleurs
+
+### Ajouter une startup
+
+#### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/gh-pages/_startup?filename=_startup/nom_startup.md&value=---%0d%0atitle%3a+Mes+Aides++%23+une+majuscule+et+pas+d%27acronymes%0d%0amission%3a+%c3%89valuez+vos+droits+%c3%a0+15+aides+sociales.+En+moins+de+6+minutes.++%23+s%27adresser+aux+utilisateurs+et+finir+par+un+point%0d%0adomain%3a+mes-aides.gouv.fr++%23+ne+pas+ajouter+de+http%3a%2f%2f%0d%0arepository%3a+https%3a%2f%2fgithub.com%2fsgmap%2fmes-aides-ui++%23+ou+page+de+description+des+d%c3%a9p%c3%b4ts+s%27il+y+en+a+plusieurs%0d%0astatus%3a+consolidation++%23+les+phases+possibles+sont+d%c3%a9finies+dans+%5b%60_config.yml%60%5d(https%3a%2f%2fgithub.com%2fsgmap%2fbeta.gouv.fr%2fblob%2fgh-pages%2f_config.yml%23L29-L52)%0d%0acontact%3a+contact%40mes-aides.gouv.fr++%23+sera+visible+de+tous%0d%0alogo%3a+%23+URL+vers+un+logo+%3b+supprimer+cette+ligne+si+pas+de+logo%0d%0astart%3a+2015-01-15++%23+date+au+format+ISO+(AAAA-MM-DD)%0d%0ascreenshot%3a+%2fimg%2fstartup%2fnom_startup.png++%23+en+1280x720+pixels%0d%0a---%0d%0a%0d%0a%23%23+Fiche+produit%0d%0a%0d%0aTexte+libre+au+format+%5bMarkdown%5d(http%3a%2f%2fricostacruz.com%2fcheatsheets%2fmarkdown.html).%0d%0a%0d%0a%0d%0a%23%23+Rappels%0d%0a%0d%0a-+%5b+%5d+Modifier+le+nom+du+fichier+%60nom_startup.md%60+dans+le+champ+ci-dessus.%0d%0a-+%5b+%5d+Cr%c3%a9er+une+nouvelle+branche+pour+l%27ajout+de+ce+fichier%2c+et+la+nommer+du+m%c3%aame+nom+que+le+fichier+%60nom_startup%60.%0d%0a-+%5b+%5d+Ouvrir+une+pull+request+pour+valider+l%27int%c3%a9gration.%0d%0a-+%5b+%5d+Effacer+ce+texte+une+fois+que+vous+l%27avez+lu+%f0%9f%98%89) :smiley:
 
 > Sinon, offline : créer un nouveau fichier de description dans le dossier [`_startup`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_startup) et renseigner les informations en prenant exemple sur un fichier de description existant déjà dans ce dossier.
 
 
-## Éditer la description d'une startup
+### Éditer la description d'une startup
 
-Modifier le fichier de description de la startup dans le dossier [`_startup`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_startup).
+Modifier le fichier `<id_startup>.md` de description de la startup dans le dossier [`_startup`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_startup).
 
 ## Publier un billet
 
