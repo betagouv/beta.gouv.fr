@@ -8,7 +8,7 @@
 > Sinon, offline : dupliquer un fichier de description dans le dossier [`_startup`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_startup) et suivre les instruction ci-dessous sur l'édition.
 
 
-### Éditer la description d'une Startup
+## Éditer la description d'une Startup existante
 
 Modifier le fichier `$id_startup.md` de description de la Startup dans le dossier [`_startup`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_startup).
 
