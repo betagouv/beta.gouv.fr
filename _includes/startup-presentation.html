@@ -1,0 +1,23 @@
+{% if include.description %}
+	{% assign description = include.description %}
+{% else %}
+	{% capture id %}/startup/{{ include.id }}{% endcapture %}
+	{% for startup in site.startup %}
+		{% if startup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
+			{% assign description = startup %}
+		{% endif %}
+	{% endfor %}
+{% endif %}
+
+<div class="startup-presentation">
+  <div class="image">
+  	<a href="{{ description.url }}" title="{{ description.title }}">{% include screenshot.html startup=description %}</a>
+  </div>
+
+  <div class="content">
+  	<div class="header">{{ description.title }}</div>
+		<div class="description">
+			{{ description.mission }}
+		</div>
+  </div>
+</div>

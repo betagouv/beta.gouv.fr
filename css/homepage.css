@@ -3,32 +3,17 @@ body {
 	max-width: 100%;
 }
 
-#masthead {
-	background-image: url('/img/header.jpg');
-}
-
 .animating.out {
 	position: absolute;
 }
 
 #otherExample {
 	float: right;
-
-	text-shadow: 0 0 .5em #666;
-	transition: opacity 3s 2s;
 }
 
 /* Degradability + avoid FOUC */
 .no-js #otherExample {
 	opacity: 0;
-}
-
-#masthead .card, .no-js #otherExample {
-	visibility: hidden;
-}
-
-#masthead .card:first-child {
-	visibility: visible;
 }
 
 /* IE < 10, nothing is better than fracked layout */
@@ -61,15 +46,6 @@ body {
 #phases .text.container p:last-child, #blog ul {
 	margin-bottom: 0;
 }
-
-.primary.success.cta {
-	display: block;
-	width: 100%;
-	height: 100%;
-	padding: 0;
-	color: black;
-}
-
 
 @media (max-width: 34em) {
 	#cycle, #blog {
