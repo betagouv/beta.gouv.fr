@@ -192,7 +192,7 @@ h1.page-title {
 	text-align: center;
 	text-transform: uppercase;
 	padding: 1em 0;
-	font-weight: 500;
+	font-weight: normal;
 }
 
 @media (max-width: 50em) {
