@@ -31,7 +31,7 @@
 	border-color: transparent transparent transparent black;
 }
 
-.counter, .counter a {
+.counter, .counter a, .counter div {
 	flex: 1;
 	display: flex;
 	flex-direction: column;

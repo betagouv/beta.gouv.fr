@@ -2,11 +2,20 @@
 	<ol class="counter--incubation">
 		{% for phase in site.phases.incubation %}
 			<li class="counter {{ phase[0] }}">
+				{% if include.link  %}
+				<div>
+				{% else %}
 				<a href="#{{ phase[0] }}">
+				{% endif %}
 					<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
 					<i>startups en</i>
 					<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name }}</span>
+
+				{% if include.link %}
+				</div>
+				{% else %}
 				</a>
+				{% endif %}
 			</li>
 		{% endfor %}
 
@@ -14,12 +23,21 @@
 			<ul class="counter--endgame">
 				{% for phase in site.phases.endgame %}
 					<li class="counter {{ phase[0] }}">
+						{% if include.link %}
+						<div>
+						{% else %}
 						<a href="#{{ phase[0] }}">
+						{% endif %}
 
 							<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
 
 							<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name.plural }}</span>
+
+						{% if include.link == false %}
+						</div>
+						{% else %}
 						</a>
+						{% endif %}
 					</li>
 				{% endfor %}
 			</ul>
