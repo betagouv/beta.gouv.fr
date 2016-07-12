@@ -125,7 +125,7 @@ footer li a:hover {
 	text-decoration: underline;
 }
 
-#masthead {
+#intro-header {
 	background-color: white;
 	display: flex;
 	flex-direction: column;
@@ -134,11 +134,11 @@ footer li a:hover {
 	letter-spacing: .05em;
 }
 
-#masthead h1 {
+#intro-header h1 {
 	margin: 0 0 0.5em 0;
 }
 
-#masthead .tagline {
+#intro-header .tagline {
 	padding: 0.5em 0 0 0;
 	font-size: 2em;
 	font-weight: bold;
