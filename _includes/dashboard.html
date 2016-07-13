@@ -11,7 +11,7 @@
 					<i>startups en</i>
 					<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name }}</span>
 
-				{% if include.link %}
+				{% if include.link  %}
 				</div>
 				{% else %}
 				</a>
@@ -33,7 +33,7 @@
 
 							<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name.plural }}</span>
 
-						{% if include.link == false %}
+						{% if include.link %}
 						</div>
 						{% else %}
 						</a>
