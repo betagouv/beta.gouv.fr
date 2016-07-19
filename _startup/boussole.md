@@ -6,7 +6,7 @@ repository: https://github.com/sgmap/boussole/
 status: construction
 contact: contact@boussole.beta.gouv.fr
 start: 2015-12-01
-owner: DJEPVA
+owner: Direction de la jeunesse
 screenshot: false
 ---
 
