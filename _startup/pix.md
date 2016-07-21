@@ -7,7 +7,7 @@ status: construction
 contact: contact@pix.beta.gouv.fr
 logo: /img/logos/pix.png
 start: 2016-06-08
-owner: SGMAP
+owner: Enseignement supérieur
 screenshot: /img/startup/pix.jpg
 ---
 
