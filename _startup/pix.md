@@ -5,7 +5,7 @@ domain: pix.beta.gouv.fr
 repository: https://github.com/sgmap/pix-live
 status: construction
 contact: contact@pix.beta.gouv.fr
-logo: /img/logos/logo.png
+logo: /img/logos/pix.png
 start: 2016-06-08
 owner: SGMAP
 screenshot: /img/startup/pix.jpg
