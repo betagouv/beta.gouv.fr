@@ -9,8 +9,6 @@ start: 2015-10-01
 owner: CNAV, MSA, RSI
 ---
 
-Ce service détermine la liste personnalisée des démarches à suivre pour préparer au mieux son départ à la retraite.
+Le départ à la retraite est un moment angoissant. Les démarches peuvent être longues et doivent être anticipées très en amont. Pour accompagner les assuré·es dans leur parcours, "Mes démarches retraite pas à pas" donne une liste personnalisée des démarches à suivre pour préparer son départ à la retraite.
 
-Le ou la futur·e retraité·e saisit son nom, date de naissance et numéro de sécurité sociale, répond à quelques questions sur sa carrière et sa situation actuelle, et obtient une liste personnalisée de démarches téléchargeable et imprimable. Cette liste l'accompagnera tout au long de la préparation de sa retraite.
-
-Cette liste est présentée sous forme d'étapes, avec pour chacune d'elles une échéance et toutes les informations nécessaires pour permettre à l'utilisateur de mettre en œuvre les actions adéquates, et de connaître les informations utiles au fur et à mesure de son avancement.
+Le ou la futur·e retraité·e répond à quelques questions sur sa carrière et sa situation actuelle et obtient la liste personnalisée de démarches téléchargeable. Cette liste est un parcours chronologique, avec à chaque étape les démarches à réaliser et les informations qui peuvent l'aider. 
