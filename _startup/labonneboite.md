@@ -7,7 +7,7 @@ repository:
 status: consolidation
 contact: eric.barthelemy@pole-emploi.fr
 start: 2015-05-01
-owner: Pôle Emploi
+owner: Pôle emploi
 logo: /img/logos/labonneboite.png
 ---
 
