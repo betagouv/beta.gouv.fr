@@ -1,6 +1,6 @@
 ---
 title: Boussole des droits
-mission: "Accède au conseil garanti d'un·e professionnel·le, près de chez toi, pour t'aider dans tes projets de formation à trouver une solution pour te loger dans tes projets d'activité à trouver une solution pour te soigner."
+mission: "Accède aux conseils d'un·e professionnel·le près de chez toi pour te loger, te former et trouver un emploi."
 domain: boussole.beta.gouv.fr
 repository: https://github.com/sgmap/boussole/
 status: construction
