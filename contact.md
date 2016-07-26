@@ -30,9 +30,9 @@ Vous êtes **développeur**, pour vous l'informatique sert à résoudre des prob
 
 Vous êtes **responsable d'administration centrale ou territoriale** et souhaitez créer rapidement des outils qui résolvent les problèmes les plus courants rencontrés par vos usagers ? Vous souhaitez accélérer votre transition numérique en mobilisant vos agents sur ces enjeux ? Lancer une Startup d'État peut tout simplement débuter par un message à l'ensemble de vos agents :
 
-> Vous êtes le témoin d'irritants récurrents pour les usagers ou les agents ? Vous avez une idée de solution numérique pouvant y remédier ? Vous êtes prêts à vous investir six mois autour d'une équipe mise à votre disposition pour réussir ? Rendez-vous le…
+> Vous êtes le témoin d'irritants récurrents pour les usagers ou les agents ? Vous avez une idée de solution numérique pouvant y remédier ? Vous êtes prêts à vous investir six mois autour d'une équipe mobilisée pour réussir ? Rendez-vous le…
 
-Nous pouvons vous aider à organiser cet évènement interne, sélectionner les innovateurs à haut potentiel, et les accompagner dans leur réussite. Votre direction n'assumera que la charge de développement, toujours inférieure à 200 000 € (2 <abbr title="Équivalent Temps Plein">ETP</abbr> informaticiens senior) pour une première mise à disposition en six mois.
+Nous pouvons vous aider à organiser cet évènement interne, sélectionner les innovateurs à haut potentiel, et les accompagner dans leur réussite. Votre direction n'assumera que la charge de développement, toujours inférieure à 200 000 € (2 <abbr title="Équivalent Temps Plein">ETP</abbr> informaticiens senior) pour une première livraison en six mois.
 
 **[Écrivez-nous](mailto:recrutement@beta.gouv.fr?subject=Responsable+administratif) !**
 
