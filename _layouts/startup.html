@@ -10,46 +10,57 @@ layout: default
 {% endcapture %}
 
 <main class="ui container">
+	<div class="ui fluid card">
+		<div class="content">
+			<h1 class="card-header">
+				{{ page.title }}
+			</h1>
+			<h2 class="card-header ">{{ page.mission }}</h2>
+		</div>
+		<div class="ui image">
+			{% if url %}<a href="{{ url | strip }}" target="_blank" rel="noopener">{% endif %}
+				{% include screenshot.html startup=page %}
+			{% if url %}</a>{% endif %}
+		</div>
+		<div class="content">
+			<div class="description">
+				<ul>
+					<li>Le porteur administratif est {{ page.owner }}.</li>
+					<li>Le produit est en <em>{{ page.status}}</em>, il
+						{% if page.link %}
+							est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.domain }}</a>.
+						{% elsif page.domain %}
+							est disponible sur <a href="https://{{ page.domain }}" title="{{ page.title }}">{{ page.domain }}</a>.
+						{% else %}
+							<em>n'est pas encore accessible au public.</em>
+						{% endif %}
+					</li>
 
-	<h1>{{ page.title }}</h1>
+					<li>Le code source
+						{% if page.repository %}
+							<a href="{{ page.repository }}">est libre.</a>
+						{% else %}
+							<em>n'est pas encore ouvert.</em>
+						{% endif %}
+					</li>
 
-	<h2>{{ page.mission }}</h2>
+					<li>
+						{% if page.contact %}
+							<a href="mailto:{{ page.contact }}?subject={{ page.title | replace: ' ', '%20' }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
+						{% else %}
+							<em><a href="mailto:{{ site.email }}?subject={{ page.title | replace: ' ', '%20' }}">Contacter l'incubateur</a>.</em>
+						{% endif %}
+					</li>
+				</ul>
+			</div>
+		</div>
 
-	{% if url %}<a href="{{ url | strip }}" target="_blank" rel="noopener">{% endif %}
-	{% include screenshot.html startup=page %}
-	{% if url %}</a>{% endif %}
-
-	<ul>
-		<li>Le porteur administratif est {{ page.owner }}.</li>
-		<li>Le produit est en <em>{{ page.status}}</em>, il
-			{% if page.link %}
-				est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.domain }}</a>.
-			{% elsif page.domain %}
-				est disponible sur <a href="https://{{ page.domain }}" title="{{ page.title }}">{{ page.domain }}</a>.
-			{% else %}
-				<em>n'est pas encore accessible au public.</em>
-			{% endif %}
-		</li>
-
-		<li>Le code source
-			{% if page.repository %}
-				<a href="{{ page.repository }}">est libre.</a>
-			{% else %}
-				<em>n'est pas encore ouvert.</em>
-			{% endif %}
-		</li>
-
-		<li>
-			{% if page.contact %}
-				<a href="mailto:{{ page.contact }}?subject={{ page.title | replace: ' ', '%20' }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
-			{% else %}
-				<em><a href="mailto:{{ site.email }}?subject={{ page.title | replace: ' ', '%20' }}">Contacter l'incubateur</a>.</em>
-			{% endif %}
-		</li>
-	</ul>
-
-
-	<section class="ui text container">
-		{{ content }}
-	</section>
+		<div class="content">
+			<div class="description">
+				<div class="ui text container">
+					{{ content }}
+				</div>
+			</div>
+		</div>
+	</div>
 </main>
