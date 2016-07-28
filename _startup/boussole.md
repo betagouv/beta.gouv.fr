@@ -1,6 +1,6 @@
 ---
 title: Boussole des droits
-mission: "Découvrir autour de moi tous les dispositifs publics et privés destinés aux jeunes."
+mission: "Accède aux conseils d'un·e professionnel·le près de chez toi pour trouver un logement, une formation ou un emploi."
 domain: boussole.beta.gouv.fr
 repository: https://github.com/sgmap/boussole/
 status: construction
@@ -10,22 +10,20 @@ owner: Direction de la jeunesse
 screenshot: false
 ---
 
-## Fiche produit
+Depuis 2013, un travail d’analyse et d’étude a été mené par la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> et le <abbr title="Secrétariat général pour la modernisation de l'action publique">SGMAP</abbr> sur 2 territoires pilotes (Reims et Rennes), pour identifier les besoins des jeunes dans leur accès à l’information et les attentes des professionnels de l’Information Jeunesse en ce qui concerne l’évolution de leur pratique.
 
-De nombreux dispositifs publics et administratifs existent pour accompagner les jeunes dans leur autonomisation, trouver un emploi ou accéder à  une formation, un logement, une assurance, un job d'été, un stage, une activité bénévole … Ces dispositifs territoriaux ou nationaux rencontrent insuffisament les parcours de leur public cible. Ils sont souvent peu ou mal connus des intéressés, qui les découvrent par hasard ou via le bouche à oreille.
+En synthèse, ce travail a montré que les jeunes recherchent de l’information de « proximité » (parents, amis), « en réaction » (à un besoin, un projet) et dans l’urgence. Ils accordent une confiance à l’information publique et de la valeur à l’opinion de leurs pairs.
 
-Quel que soit le parcours, le passage à la vie autonome est un moment de vie angoissant, d’autant que certains des choix faits à ce moment peuvent impacter l’avenir professionnel. Les démarches administratives à entreprendre peuvent contribuer à cette angoisse. Les services proposés manquent souvent de personnalisation et de proactivité. L’information institutionnelle disponible sur internet est trop généraliste, trop centrée sur les acteurs publics, pas toujours facilement compréhensible des publics cibles. Plusieurs sites existent et dispensent des informations parfois contradictoires. L’offre des acteurs locaux (associations, entreprises solidaires…) est peu connue et rarement relayée par les plateformes publiques.
+De leur côté, les professionnels font état d’un manque de lisibilité de l’activité des acteurs et d’un déficit de coordination et de coopération.
 
-Une application web d’information et d’orientation des jeunes dans leur passage à la vie adulte pourrait améliorer cette situation. La valeur d’un tel outil pourrait résider dans :
+Sur la base de ces résultats, une Startup d’État a été portée par la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> au premier trimestre 2016 pour construire un service numérique qui va améliorer l’accès des jeunes à l’information utile à la résolution de leurs besoins. La boussole des droits est inscrite dans la mesure 1.2 du plan Priorité jeunesse, et a été retenue au titre du Programme d’investissements d’avenir (PIA). À ce titre, il dispose d’un budget spécifique de 250 000 €.
 
-- une simulation de droits adaptée aux situations individuelles ;
-- un contenu national enrichi par les parties prenantes de proximité via une interface simple de crowdsourcing par les associations et autres acteurs qui gèrent des dispositifs d’insertion pour les jeunes ;
-- une dimension d’échange entre professionnels autour de cas complexes ;
-- une dimension sociale qui permet la comparaison et la réassurance par les pairs ;
-- une logique de parcours avec une présentation de contenus connexes ;
-- une capitalisation des solutions apportées ou des insuffisances repérées ;
-- une exploitation des sollicitations utile aux concepteurs / financeurs des dispositifs…
+Les premiers tests utilisateurs ont confirmé les besoins des jeunes en matière d’accès à l’emploi, à la formation, au logement et à la santé. Ils valident, également, une préférence pour un contact humain avec des conseillers en capacité de répondre à leurs interrogations.
 
-Les canaux de diffusion de ces contenus sont à construire afin de s’assurer de toucher le public non-recourant et qui fréquente peu les sites institutionnels.
+Sur le territoire d’expérimentation de Reims et de ses environs, des ateliers réguliers réunissent tous les acteurs qui font de l’information auprès des jeunes, sur ces thématiques. Ces ateliers (appelés OpenLabs) sont  l’espace de conception du service. Les informations à adresser et les acteurs vers qui orienter les jeunes en fonction de leur projet et de leur situation sont définis avec les professionnels sur la base de leur expérience.
 
-L’ensemble de ces hypothèses est à tester et à valider avec les usagers et les partenaires volontaires sur les territoires pilotes.
+L’objectif d’inciter le jeune à activer ses droits, de le mettre en lien avec les acteurs locaux qui peuvent l’aider et de découvrir des opportunités connexes.
+
+Les professionnels cherchent aussi à obtenir un premier niveau de connaissance du profil du jeune pour éventuellement gagner du temps lors de leur première rencontre.
+
+La solution vise à systématiser l’orientation des jeunes vers les bons acteurs et les dispositifs qui peuvent les aider en construisant avec les professionnels du terrain des scénarios réalistes. Les professionnels peuvent ainsi choisir de mettre en avant leur offre de service (et définir à quel public l’adresser en priorité), mais également mieux connaître l’offre de service de leurs partenaires locaux. Le service, constitué progressivement, répond à l’attente des professionnels de mise en réseau.
