@@ -46,11 +46,15 @@ Un événement est un type de billet particulier. Il a donc quelques métadonné
 Notamment, attention, la date dans le nom du fichier au format `AAAA-MM-DD-nom_evenement.md` est la date à laquelle vous souhaitez que l'événement soit annoncé sur le site (et non la date de l'événement lui-même).
 
 
-## Ajouter un membre
+## Ajouter un membre à l'équipe Incubateur
+
 
 ### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/gh-pages/_posts?filename=_author/id.md&value=---%0d%0afullname%3a+Camille+Dupont+%23+penser+%c3%a0+modifier+le+nom+du+fichier+ci-dessus+!%0d%0arole%3a+Smartass%0d%0aavatar%3a+%23+uploader+un+fichier+JPG+en+512x512+du+m%c3%aame+nom+que+ce+fichier+dans+%2fimg%2fauthor+et+effacer+cette+ligne%2c+ou+sp%c3%a9cifier+une+URL+externe+en+HTTPS%0d%0alink%3a+%23+optionnel+%3a+lien+vers+une+page+perso+externe.+Effacer+cette+ligne+si+rien+%c3%a0+mettre.%0d%0a---%0d%0a%0d%0a%c3%89crit+des+autobiographies+percutantes+en+moins+de+200+caract%c3%a8res+depuis+1972.) :smiley:
 
 Attention, l'image doit être carrée et de préférence à une résolution supérieure à 512 ⨉ 512 pixels.
+
+> Sinon, offline : créer un nouveau fichier de description dans le dossier [`_author`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_author) et renseigner les informations en prenant exemple sur un fichier de description existant déjà dans ce dossier.
+
 
 ## Modifier le contenu éditorial
 
@@ -60,10 +64,6 @@ Attention, l'image doit être carrée et de préférence à une résolution sup�
 ## Modifier les startups mises en avant sur la page d'accueil
 
 Mettre à jour la propriété `featured` de la phase correspondante pour référencer le nom du fichier dans lequel la startup à mettre en avant est décrite dans [`index.html`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/index.html).
-
-## Ajouter un membre à l'équipe Incubateur
-
-Créer un nouveau fichier de description dans le dossier [`_author`](https://github.com/sgmap/beta.gouv.fr/tree/gh-pages/_author) et renseigner les informations en prenant exemple sur un fichier de description existant déjà dans ce dossier.
 
 ## Modifier la présentation du site
 
