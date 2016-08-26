@@ -80,7 +80,7 @@ additional_js: homepage
 	<h2 class="ui divider horizontal">Dernières annonces</h2>
 
 	<ul class="ui container">
-		{% for post in site.posts | limit:5 %}
+		{% for post in site.posts limit:5 %}
 			<li>
 				{% if post.category == 'evenement' %}
 					Retrouvez-nous le <time datetime="{{ post.start }}"></time> pour <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.location }}).
