@@ -5,6 +5,16 @@ title: La communauté
 	<h2 class="ui divider horizontal">La communauté des Startups d'État</h2>
 
 	{% for person in site.author %}
-		{% include author.html description=person %}
+		{% unless person.end %}
+			{% include author.html description=person %}
+		{% endunless %}
+	{% endfor %}
+
+	<h2 class="ui divider horizontal">Les ancien·ne·s</h2>
+
+	{% for person in site.author %}
+		{% if person.end %}
+			{% include author.html description=person %}
+		{% endif %}
 	{% endfor %}
 </section>
