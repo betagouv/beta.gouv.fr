@@ -1,5 +1,5 @@
 {% if include.description.link %}
-<a class="ui card author" {% if include.description.link %} href="{{ include.description.link }}" target="_blank" {% endif %}>
+<a class="ui card author" {% if include.description.link %} href="{{ include.description.link }}" target="_blank" rel="noopener" {% endif %}>
 {% else %}
 <div class="ui card author">
 {% endif %}

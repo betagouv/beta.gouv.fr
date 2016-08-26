@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+{% capture url %}
+	{% if page.link %}
+		{{ page.link }}
+	{% elsif page.domain %}
+		https://{{ page.domain }}
+	{% endif %}
+{% endcapture %}
 
 <main class="ui container">
 
@@ -8,9 +15,9 @@ layout: default
 
 	<h2>{{ page.mission }}</h2>
 
-	{% if page.link %}<a target="_blank" href="{{ page.link }}">{% elsif page.domain %}<a target="_blank" href="https://{{ page.domain }}">{% endif %}
-		{% include screenshot.html startup=page %}
-	{% if page.link or page.domain %}</a>{% endif %}
+	{% if url %}<a href="{{ url | strip }}" target="_blank" rel="noopener">{% endif %}
+	{% include screenshot.html startup=page %}
+	{% if url %}</a>{% endif %}
 
 	<ul>
 		<li>Le porteur administratif est {{ page.owner }}.</li>
