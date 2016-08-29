@@ -1,6 +1,5 @@
 $(function drawTeamGraph() {
-	var points = [],
-		todayISO = moment().format('YYYY-MM-DD');
+	var points = [];
 
 	starts.forEach(function(date) {
 		if (! date) return;
@@ -21,7 +20,7 @@ $(function drawTeamGraph() {
 	});
 
 	points.push({
-		x: todayISO,
+		x: buildDate,
 		y: 0
 	});
 
@@ -35,7 +34,7 @@ $(function drawTeamGraph() {
 
 	points.some(function(point, index) {
 		todayIndex = index;
-		return point.x == todayISO;
+		return point.x == buildDate;
 	});
 
 	points = points.map(function(point) {
@@ -56,7 +55,7 @@ $(function drawTeamGraph() {
 				data: points,
 				backgroundColor: 'rgba(100, 100, 200, .6)'
 			}, {
-				label: 'Présence future garantie au ' + moment().format('DD/MM/YYYY'),
+				label: 'Présence future garantie au ' + moment(buildDate).format('DD/MM/YYYY'),
 				data: future
 			}],
 			borderWidth: 10
