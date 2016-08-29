@@ -17,10 +17,10 @@ additional_js:
 		{% endif %}
 	{% endfor %}
 
-	<h2 class="ui divider horizontal">Évolution des effectifs</h2>
+	<h2 id="effectifs" class="ui divider horizontal">Évolution des effectifs</h2>
 	<canvas width="768" height="400"></canvas>
 
-	<h2 class="ui divider horizontal">Les ancien·ne·s</h2>
+	<h2 id="alumni" class="ui divider horizontal">Les ancien·ne·s</h2>
 
 	{% for person in site.author %}
 		{% capture end_date_as_string %}{{ person.end }}{% endcapture %}
