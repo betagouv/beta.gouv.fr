@@ -1,5 +1,6 @@
 $(function drawTeamGraph() {
-	var points = [];
+	var points = [],
+		todayISO = moment().format('YYYY-MM-DD');
 
 	starts.forEach(function(date) {
 		if (! date) return;
@@ -19,12 +20,25 @@ $(function drawTeamGraph() {
 		});
 	});
 
-	var currentTotal = 0;
+	points.push({
+		x: todayISO,
+		y: 0
+	});
 
-	points = points.sort(function(first, second) {
+	var currentTotal = 0,
+		todayIndex;
+
+	points.sort(function(first, second) {
 		if (first.x == second.x) return 0;
 		return first.x < second.x ? -1 : 1;
-	}).map(function(point) {
+	});
+
+	points.some(function(point, index) {
+		todayIndex = index;
+		return point.x == todayISO;
+	});
+
+	points = points.map(function(point) {
 		currentTotal += point.y;
 		return {
 			x: point.x,
@@ -32,13 +46,18 @@ $(function drawTeamGraph() {
 		};
 	});
 
+	var future = points.splice(todayIndex);
+
 	new Chart(document.querySelector('canvas'), {
 		type: 'line',
 		data: {
-			labels: [ 'Effectif' ],
 			datasets: [{
-				label: 'Effectif',
-				data: points
+				label: 'Membres ',
+				data: points,
+				backgroundColor: 'rgba(100, 100, 200, .6)'
+			}, {
+				label: 'Présence future garantie au ' + moment().format('DD/MM/YYYY'),
+				data: future
 			}],
 			borderWidth: 10
 		},
