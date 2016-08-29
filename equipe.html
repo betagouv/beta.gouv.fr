@@ -4,13 +4,16 @@ additional_js:
   - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.1/Chart.bundle.min.js
   - equipe
 ---
+{% capture build_date %}{{ site.time | date:"%Y-%m-%d" }}{% endcapture %}
+
 <section class="ui four stackable doubling cards container">
 	<h2 class="ui divider horizontal">La communauté des Startups d'État</h2>
 
 	{% for person in site.author %}
-		{% unless person.end %}
+		{% capture end_date_as_string %}{{ person.end }}{% endcapture %}
+		{% if end_date_as_string == '' or end_date_as_string > build_date %}
 			{% include author.html description=person %}
-		{% endunless %}
+		{% endif %}
 	{% endfor %}
 
 	<h2 class="ui divider horizontal">Évolution des effectifs</h2>
@@ -19,7 +22,8 @@ additional_js:
 	<h2 class="ui divider horizontal">Les ancien·ne·s</h2>
 
 	{% for person in site.author %}
-		{% if person.end %}
+		{% capture end_date_as_string %}{{ person.end }}{% endcapture %}
+		{% if end_date_as_string != '' and end_date_as_string <= build_date %}
 			{% include author.html description=person %}
 		{% endif %}
 	{% endfor %}
@@ -27,7 +31,8 @@ additional_js:
 
 <script type="text/javascript">
 	var starts = [],
-		ends = [];
+		ends = [],
+		buildDate = '{{ build_date }}';
 
 	{% for person in site.author %}
 	starts.push('{{ person.start }}');
