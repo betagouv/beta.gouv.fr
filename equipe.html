@@ -1,5 +1,8 @@
 ---
 title: La communauté
+additional_js:
+  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.1/Chart.bundle.min.js
+  - equipe
 ---
 <section class="ui four stackable doubling cards container">
 	<h2 class="ui divider horizontal">La communauté des Startups d'État</h2>
@@ -22,58 +25,12 @@ title: La communauté
 	{% endfor %}
 </section>
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.1/Chart.bundle.min.js"></script>
 <script type="text/javascript">
-	(function() {
-
 	var starts = [],
-		ends = [],
-		points = [];
+		ends = [];
 
 	{% for person in site.author %}
 	starts.push('{{ person.start }}');
 	ends.push('{{ person.end }}');
 	{% endfor %}
-
-	starts.sort().forEach(function(date) {
-		points.push({
-			x: date,
-			y: 1
-		});
-	});
-
-	ends.sort().forEach(function(date) {
-		points.push({
-			x: date,
-			y: -1
-		});
-	});
-
-	new Chart(document.querySelector('canvas'), {
-		type: 'line',
-		data: {
-			labels: [ 'Effectif' ],
-			datasets: [{
-				label: 'Effectif',
-				data: points
-			}],
-			borderWidth: 10
-		},
-		options: {
-			scales: {
-				xAxes: [{
-					type: 'time',
-					time: {
-						unit: 'month'
-					}
-				}],
-				yAxes: [{
-					ticks: {
-						beginAtZero: true
-					}
-				}]
-			}
-		}
-	});
-	})();
 </script>
