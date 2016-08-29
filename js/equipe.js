@@ -1,18 +1,35 @@
 $(function drawTeamGraph() {
-	var  points = [];
+	var points = [];
 
-	starts.sort().forEach(function(date) {
+	starts.forEach(function(date) {
+		if (! date) return;
+
 		points.push({
 			x: date,
 			y: 1
 		});
 	});
 
-	ends.sort().forEach(function(date) {
+	ends.forEach(function(date) {
+		if (! date) return;
+
 		points.push({
 			x: date,
 			y: -1
 		});
+	});
+
+	var currentTotal = 0;
+
+	points = points.sort(function(first, second) {
+		if (first.x == second.x) return 0;
+		return first.x < second.x ? -1 : 1;
+	}).map(function(point) {
+		currentTotal += point.y;
+		return {
+			x: point.x,
+			y: currentTotal
+		};
 	});
 
 	new Chart(document.querySelector('canvas'), {
