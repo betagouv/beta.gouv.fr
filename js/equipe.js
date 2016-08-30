@@ -53,19 +53,24 @@ $(function drawTeamGraph() {
 			datasets: [{
 				label: 'Membres ',
 				data: points,
+				lineTension: 0,
+				pointRadius: 0,
 				backgroundColor: 'rgba(100, 100, 200, .6)'
 			}, {
 				label: 'Présence future garantie au ' + moment(buildDate).format('DD/MM/YYYY'),
-				data: future
-			}],
-			borderWidth: 10
+				data: future,
+				pointRadius: 0
+			}]
 		},
 		options: {
+			animation: {
+				duration: 0
+			},
 			scales: {
 				xAxes: [{
 					type: 'time',
 					time: {
-						unit: 'month'
+						unit: 'quarter'
 					}
 				}],
 				yAxes: [{
