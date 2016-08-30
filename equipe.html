@@ -1,5 +1,6 @@
 ---
 title: La communauté
+additional_css: equipe
 additional_js:
   - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.1/Chart.bundle.min.js
   - equipe
@@ -26,8 +27,10 @@ hire:
 
 	{% include author.html description=page.hire %}
 
-	<h2 id="effectifs" class="ui divider horizontal">Évolution des effectifs</h2>
-	<canvas width="768" height="400"></canvas>
+	<div id="effectifs">
+		<h2 class="ui divider horizontal">Évolution des effectifs</h2>
+		<canvas width="768" height="400"></canvas>
+	</div>
 
 	<h2 id="alumni" class="ui divider horizontal">Les ancien·ne·s</h2>
 
