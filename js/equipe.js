@@ -19,6 +19,7 @@ new Chart(document.querySelector('canvas'), {
 	},
 	options: {
 		animation: { duration: 0 },
+		maintainAspectRatio: false,
 		scales: {
 			xAxes: [{
 				type: 'time',
