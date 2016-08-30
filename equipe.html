@@ -24,6 +24,10 @@ hire_card:
 			{% include author.html description=person %}
 			<!--{% increment members_count %}-->
 		{% endif %}
+
+		{% unless person.start %}
+			{% include missing-start-date %} {% comment %} poor man's validation through missing file ;) {% endcomment %}
+		{% endunless %}
 	{% endfor %}
 {% endcapture %}
 
