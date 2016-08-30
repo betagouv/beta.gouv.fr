@@ -5,7 +5,6 @@
 	max-height: 30em;
 }
 
-.card-header {
-	margin: 0;
+.card .header {
 	text-align: center;
 }
