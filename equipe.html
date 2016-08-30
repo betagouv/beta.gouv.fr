@@ -1,8 +1,7 @@
 ---
 title: La communauté
 additional_js:
-  - https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.14.1/moment.min.js
-  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.1/Chart.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.1/Chart.bundle.min.js
   - equipe
 ---
 {% capture build_date %}{{ site.time | date:"%Y-%m-%d" }}{% endcapture %}
@@ -31,12 +30,23 @@ additional_js:
 </section>
 
 <script type="text/javascript">
-	var starts = [],
-		ends = [],
-		buildDate = '{{ build_date }}';
+(function() {
+	window.buildDate = '{{ build_date }}';
+	window.data = [];
 
 	{% for person in site.author %}
-	starts.push('{{ person.start }}');
-	ends.push('{{ person.end }}');
+		{% if person.start %}
+			window.data.push({
+				date: '{{ person.start }}',
+				increment: 1
+			});
+		{% endif %}
+		{% if person.end %}
+			window.data.push({
+				date: '{{ person.end }}',
+				increment: -1
+			});
+		{% endif %}
 	{% endfor %}
+})();
 </script>

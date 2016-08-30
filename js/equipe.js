@@ -1,84 +1,66 @@
-$(function drawTeamGraph() {
-	var points = [];
+$(function() {
 
-	starts.forEach(function(date) {
-		if (! date) return;
+var datasets = makeTimeSeries(window.data, window.buildDate);
 
-		points.push({
-			x: date,
-			y: 1
-		});
-	});
-
-	ends.forEach(function(date) {
-		if (! date) return;
-
-		points.push({
-			x: date,
-			y: -1
-		});
-	});
-
-	points.push({
-		x: buildDate,
-		y: 0
-	});
-
-	var currentTotal = 0,
-		todayIndex;
-
-	points.sort(function(first, second) {
-		if (first.x == second.x) return 0;
-		return first.x < second.x ? -1 : 1;
-	});
-
-	points.some(function(point, index) {
-		todayIndex = index;
-		return point.x == buildDate;
-	});
-
-	points = points.map(function(point) {
-		currentTotal += point.y;
-		return {
-			x: point.x,
-			y: currentTotal
-		};
-	});
-
-	var future = points.splice(todayIndex);
-
-	new Chart(document.querySelector('canvas'), {
-		type: 'line',
-		data: {
-			datasets: [{
-				label: 'Membres ',
-				data: points,
-				lineTension: 0,
-				pointRadius: 0,
-				backgroundColor: 'rgba(100, 100, 200, .6)'
-			}, {
-				label: 'Présence future garantie au ' + moment(buildDate).format('DD/MM/YYYY'),
-				data: future,
-				pointRadius: 0
+new Chart(document.querySelector('canvas'), {
+	type: 'line',
+	data: {
+		datasets: [{
+			data: datasets.past,
+			label: 'Membres ',
+			lineTension: 0,
+			pointRadius: 0,
+			backgroundColor: 'rgba(100, 100, 200, .6)'
+		}, {
+			data: datasets.future,
+			label: 'Présence future garantie au ' + window.buildDate.split('-').reverse().join('/'),
+			pointRadius: 0
+		}]
+	},
+	options: {
+		animation: { duration: 0 },
+		scales: {
+			xAxes: [{
+				type: 'time',
+				time: { unit: 'quarter' }
 			}]
-		},
-		options: {
-			animation: {
-				duration: 0
-			},
-			scales: {
-				xAxes: [{
-					type: 'time',
-					time: {
-						unit: 'quarter'
-					}
-				}],
-				yAxes: [{
-					ticks: {
-						beginAtZero: true
-					}
-				}]
-			}
 		}
+	}
+});
+
+
+/**
+*@param	{Array<Object>}	data		An array containing objects with the following properties: `date`, an ISO-formatted date String on which an event happened, `increment`, by which Number the plotted amount has moved that day.
+*@param	{String}		splitDate	The ISO-formatted day on which the past and future datasets are split.
+*/
+function makeTimeSeries(data, splitDate) {
+	data = data.slice();  // copy to work in place
+
+	var splitPoint = {
+		date: splitDate,
+		increment: 0
+	};
+
+	data.push(splitPoint);
+
+	data.sort(function(first, second) {
+		return first.date < second.date ? -1 : 1;
 	});
+
+	var points = data.map(function(point) {
+		this.counter += point.increment;
+		return {
+			x: point.date,
+			y: this.counter
+		};
+	}, { counter: 0 });
+
+	var future = points.splice(data.indexOf(splitPoint));
+
+	return {
+		past: points,
+		future: future
+	}
+}
+
 });
