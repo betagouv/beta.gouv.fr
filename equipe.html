@@ -3,6 +3,13 @@ title: La communauté
 additional_js:
   - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.1/Chart.bundle.min.js
   - equipe
+hire:
+  id: recrutement
+  fullname: Vous ?
+  role: Développeu·r·se, chef·fe de produit numérique, coach lean, expert·e marketing digital…
+  link: /contact
+  avatar: /img/logo-generique-startup-carre.jpg
+  content: <b>Vous avez envie de nous rejoindre ? Contactez-nous !</b>
 ---
 {% capture build_date %}{{ site.time | date:"%Y-%m-%d" }}{% endcapture %}
 
@@ -15,6 +22,8 @@ additional_js:
 			{% include author.html description=person %}
 		{% endif %}
 	{% endfor %}
+
+	{% include author.html description=page.hire %}
 
 	<h2 id="effectifs" class="ui divider horizontal">Évolution des effectifs</h2>
 	<canvas width="768" height="400"></canvas>
