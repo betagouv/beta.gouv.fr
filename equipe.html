@@ -22,6 +22,7 @@ hire:
 		{% capture end_date_as_string %}{{ person.end }}{% endcapture %}
 		{% if end_date_as_string == '' or end_date_as_string > build_date %}
 			{% include author.html description=person %}
+			<!--{% increment members_count %}-->
 		{% endif %}
 	{% endfor %}
 
@@ -29,7 +30,9 @@ hire:
 
 	<div id="effectifs">
 		<h2 class="ui divider horizontal">Évolution des effectifs</h2>
-		<canvas width="768" height="400"></canvas>
+		<canvas width="768" height="400">
+			Nous avons actuellement {% increment members_count %} membres.
+		</canvas>
 	</div>
 
 	<h2 id="alumni" class="ui divider horizontal">Les ancien·ne·s</h2>
