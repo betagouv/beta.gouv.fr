@@ -7,7 +7,7 @@ new Chart(document.querySelector('canvas'), {
 	data: {
 		datasets: [{
 			data: datasets.past,
-			label: 'Membres ',
+			label: 'Membres ',  // trailing space to ensure legend complies with French typography rules
 			lineTension: 0,
 			pointRadius: 0,
 			backgroundColor: 'rgba(100, 100, 200, .6)'
@@ -31,32 +31,33 @@ new Chart(document.querySelector('canvas'), {
 
 
 /**
-*@param	{Array<Object>}	data		An array containing objects with the following properties: `date`, an ISO-formatted date String on which an event happened, `increment`, by which Number the plotted amount has moved that day.
+*@param	{Array<Object>}	events		An array containing objects with the following properties: `date`, an ISO-formatted date String on which an event happened, `increment`, by which Number the plotted amount has moved that day.
 *@param	{String}		splitDate	The ISO-formatted day on which the past and future datasets are split.
 */
-function makeTimeSeries(data, splitDate) {
-	data = data.slice();  // copy to work in place
+function makeTimeSeries(events, splitDate) {
+	events = events.slice();  // copy to work in place
 
 	var splitPoint = {
 		date: splitDate,
 		increment: 0
 	};
 
-	data.push(splitPoint);
+	events.push(splitPoint);
 
-	data.sort(function(first, second) {
+	events.sort(function(first, second) {
 		return first.date < second.date ? -1 : 1;
 	});
 
-	var points = data.map(function(point) {
-		this.counter += point.increment;
+	var currentAmount = 0;
+	var points = events.map(function makeAmountPoint(event) {
+		currentAmount += event.increment;
 		return {
-			x: point.date,
-			y: this.counter
+			x: event.date,
+			y: currentAmount
 		};
-	}, { counter: 0 });
+	});
 
-	var future = points.splice(data.indexOf(splitPoint));
+	var future = points.splice(events.indexOf(splitPoint));
 
 	return {
 		past: points,

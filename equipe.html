@@ -4,7 +4,8 @@ additional_css: equipe
 additional_js:
   - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.1/Chart.bundle.min.js
   - equipe
-hire:
+
+hire_card:
   id: recrutement
   fullname: Vous ?
   role: Développeu·r·se, chef·fe de produit numérique, coach lean, expert·e marketing digital…
@@ -26,11 +27,11 @@ hire:
 		{% endif %}
 	{% endfor %}
 
-	{% include author.html description=page.hire %}
+	{% include author.html description=page.hire_card %}
 
 	<div id="effectifs">
 		<h2 class="ui divider horizontal">Évolution des effectifs</h2>
-		<canvas width="768" height="400">
+		<canvas>
 			Nous avons actuellement {% increment members_count %} membres.
 		</canvas>
 	</div>
