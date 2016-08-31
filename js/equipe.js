@@ -23,7 +23,8 @@ new Chart(document.querySelector('canvas'), {
 		scales: {
 			xAxes: [{
 				type: 'time',
-				time: { unit: 'quarter' }
+				time: { unit: 'quarter' },
+				gridLines: { display: false }
 			}]
 		}
 	}
