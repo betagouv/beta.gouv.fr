@@ -3,27 +3,29 @@ title: Analyse des usages
 startup: mes-aides
 ---
 
-Nous analysons les données d'usage de [Mes Aides](https://mes-aides.gouv.fr) pour suivre la qualité de service et vérifier la diffusion. Mes Aides est plus ancien produit grand public de l'Incubateur, étant en production depuis le mois d'octobre 2014. Nous avons donc pu accumuler suffisamment de données statistiques sur l'usage de ce simulateur pour mener des analyses approfondies.
+Mes Aides est plus ancien produit grand public de l'Incubateur, en production depuis le mois d'octobre 2014. Nous avons donc pu accumuler suffisamment de données statistiques sur l'usage de ce simulateur pour mener des analyses approfondies. Voici quelques-unes des métriques que nous suivons, et quelques conseils pour reproduire cette approche dans vos propres produits.
 
 
 ## Données d'usage
 
-Les produits de l'Incubateur utilisent [Piwik](https://piwik.org), un outil libre de suivi de fréquentation, pour déterminer entre autres le nombre de visites et les contenus les plus populaires. [Ces données](http://stats.data.gouv.fr/index.php?module=MultiSites&action=index&idSite=1&period=range&date=previous30#?module=MultiSites&action=index&idSite=1&period=range&date=previous30&idDashboard=1) sont d'ailleurs librement accessibles.
-
-Dans l'équipe Mes Aides, nous utilisons notamment cet outil pour déterminer la clarté de nos messages. Nous suivons pour cela le pourcentage de visiteurs commençant une simulation, le pourcentage la terminant, et la durée nécessaire pour cela.
+Nous utilisons [Piwik](https://piwik.org), un outil libre de suivi de fréquentation du même type que Google Analytics. Ces outils permettent de déterminer entre autres le nombre de visites et les contenus les plus populaires. Les données fournies peuvent aider à déterminer la clarté des messages envoyés aux utilisateurs, à travers notamment des [métriques pirates][aarrr].
 
 ### Taux d'acquisition
 
-Le taux d'acquisition<sup>[1][aarrr]</sup> permet d'éclairer si notre message est engageant pour tous les visiteurs, et si le flux entrant est bien qualifié. Il s'agit du ratio de simulations démarrées par rapport au nombre de visites sur la page d'accueil.
+Le taux d'acquisition<sup>[1][aarrr]</sup> permet d'évaluer si votre message engage bien les visiteurs, et si le flux entrant est bien qualifié. Plus il est élevé et mieux le message est calibré à son public.
 
-Cette métrique ne permet pas de déterminer si notre proposition de valeur est claire. En effet, une proposition de valeur claire peut justement éviter à des personnes qui ne se sentent pas concernées de commencer une interaction qui ne leur apportera pas de valeur.
+Il s'agit du ratio d'interactions débutées par rapport au nombre d'arrivées sur la page d'accueil.
+
+> Attention, cette métrique ne permet pas de déterminer si votre proposition de valeur est claire. Une proposition de valeur claire peut justement éviter à des personnes qui ne se sentent pas concernées de commencer une interaction qui ne leur apportera pas de valeur. Ce taux ne doit pas être simplement maximisé : si on dit « cliquez ici pour gagner 1 000 € », on aura peut-être un fort taux d'acquisition, mais beaucoup de déception. Ou sinon, envoyez-nous l'adresse de votre produit  ;)
 
 
 ### Taux d'activation
 
-Le taux d'activation<sup>[1][aarrr]</sup> permet d'évaluer la qualité de l'interaction avec le système, et l'adéquation de l'interaction proposée avec la proposition de valeur initiale. Il s'agit du ratio de simulations terminées par rapport aux simulations démarrées.
+Le taux d'activation<sup>[1][aarrr]</sup> permet d'estimer la qualité de l'interaction avec le système, et l'adéquation de l'interaction proposée avec la proposition de valeur initiale.
 
-Cette métrique ne permet pas d'identifier précisément les défauts. Il faut pour cela déterminer les pages qui sont les plus source d'abandon, puis mener une analyse qualitative pour en identifier les causes et proposer des correctifs.
+Pour Mes Aides, il s'agit du ratio de simulations terminées par rapport aux simulations démarrées.
+
+> Attention, cette métrique ne permet pas d'identifier précisément les défauts. Il s'agit simplement d'un _smell_, pas d'un outil de diagnostic. Pour comprendre les difficultés, il faut déterminer les pages qui sont les plus source d'abandon, puis mener des tests utilisateurs pour en identifier les causes et proposer des correctifs.
 
 
 ### Temps nécessaire pour effectuer une simulation
