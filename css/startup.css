@@ -4,3 +4,7 @@
 	max-width: 100%;
 	max-height: 30em;
 }
+
+.card .header {
+	text-align: center;
+}
