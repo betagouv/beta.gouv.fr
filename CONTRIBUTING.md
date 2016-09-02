@@ -94,7 +94,17 @@ svgo --multipass img/logo.svg  # optimisation, cf. https://jakearchibald.github.
 ```
 
 
-## Déployer
+## Déploiement
+
+### Prévisualisation (staging)
+
+Chaque pull request est déployée dans Heroku, une fois le [build passé](https://circleci.com/gh/sgmap/beta.gouv.fr). Une notification est envoyée sur la pull request :
+
+![notification de déploiement en prévisualisation](http://i.imgur.com/7ZuC2Zw.png)
+
+Vous pouvez suivre le lien de la notification pour accéder à la version de l'application correspondant à la pull request.
+
+### Production
 
 Ce site est déployé en continu avec [Github Pages](https://pages.github.com). La branche principale, qui reflète la production, est donc `gh-pages`.
 
