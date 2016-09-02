@@ -2,7 +2,7 @@
 # If you change this file, please restart the server process.
 
 # see https://jekyllrb.com/docs/continuous-integration/
-exclude: [rb, vendor]
+exclude: [rb, vendor, app.json, Gemfile.lock]
 
 # Site settings
 title: beta.gouv.fr
