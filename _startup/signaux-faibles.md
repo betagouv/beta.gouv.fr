@@ -29,22 +29,12 @@ Nombre des informations nécessaires à ce repérage sont couvertes par une obli
 
 Même si ce montage peut apporter quelque trouble dans l’organisation actuelle de l’appui aux entreprises en difficulté, l’enjeu qui vise à la survie des entreprises en période de crise doit constituer un argument décisif de nature à emporter la conviction des acteurs concernés.
 
-Ce dispositif a été expérimenté en conditions réelles en Bourgogne à la fin 2015. Tous les retours des chargés de mission sont positifs et l’intérêt validé par la CRP Stéphanie Schaer.
+Ce dispositif a été expérimenté en conditions réelles en Bourgogne à la fin 2015. Tous les retours des chargés de mission sont positifs et l’intérêt validé par la Commissaire au Redressement Productif de la région Bourgogne.
 
-Éléments méthodologiques
-Le projet sera conduit selon la méthode des Startups d’État décrite plus loin. À noter : une Startup d’État «&nbsp;miroir&nbsp;» a déjà mis en production dans les mêmes conditions un outil de ciblage des entreprises… qui recrutent : [labonneboite.pole-emploi.fr](http://labonneboite.pole-emploi.fr).
+Le projet est conduit selon la méthode des Startups d’État. À noter : une Startup d’État «&nbsp;miroir&nbsp;» a déjà mis en production dans les mêmes conditions un outil de ciblage des entreprises… qui recrutent : [labonneboite.pole-emploi.fr](http://labonneboite.pole-emploi.fr).
 
 Le principe fondateur est de réunir dès le début, et tout au long du projet, les principaux partenaires et utilisateurs de l’outil. Nous appelons cette instance OpenLab. Elle se réunit tous les 15 jours, pour réaliser une démonstration de l’outil à date, et discuter les priorités de l’itération suivante.
 
-Compte tenu des premiers échanges au niveau régional, le projet est politiquement soutenu sur la région Bourgogne par ses principaux partenaires (Urssaf, DRFIP et DIRECCTE), c’est donc naturellement avec eux que nous démarrerons l’OpenLab.
+Compte tenu des premiers échanges au niveau régional, le projet est politiquement soutenu sur la région Bourgogne par ses principaux partenaires (Préfecture de région, Urssaf Bourgogne et Franche Comté, DRFIP et DIRECCTE), c’est donc naturellement avec eux que démarreront les OpenLab.
 
-L’objectif fixé à T0&nbsp;+&nbsp;6&nbsp;mois est d’avoir constitué un outil expérimenté dans 1 à 3 régions pilotes, salué par ses utilisateurs, et généralisable aux autres régions à coût marginal.
-
-D’un point de vue opérationnel, il est important de noter qu’aucune dépense n’est engagée par la DGE. Les investissements sont les suivants :
-
-- Chef de produit&nbsp;: Frédéric Perrier-Cornet, DIRECCTE Bourgogne, à l’origine de l’idée
-Ressource principale d’ingénierie du produit&nbsp;: Briac Piriou, financé par le Corps des Mines.
-- Coach Lean Startup&nbsp;: fourni par l’Incubateur de services numériques de la DINSIC
-Hébergement et maintien en conditions opérationnelles&nbsp;: ressources techniques du SGMAP
-
-Si l’opération est un succès au bout de 6 mois, nous prolongerons la période d’incubation de 12&nbsp;mois pour permettre à la DGE de se préparer à réintégrer l’actif dans son propre système d’information.
+L’objectif fixé à T0&nbsp;+&nbsp;6&nbsp;mois est d’avoir constitué un outil expérimenté dans 1 à 3 régions pilotes, salué par ses utilisateurs et ses bénéficiaires les chefs d'entreprise, et généralisable aux autres régions à coût marginal.
