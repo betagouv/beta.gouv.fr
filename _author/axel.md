@@ -1,7 +1,7 @@
 ---
 fullname: Axel Haustant
 role: Développeur
-start: 2013-07-01
+start: 2013-08-27
 end: 2014-01-01
 ---
 
