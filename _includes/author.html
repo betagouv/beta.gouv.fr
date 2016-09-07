@@ -3,7 +3,7 @@
 {% else %}
 <div class="ui card author">
 {% endif %}
-	<div class="image">
+	<div id="{{ include.description.id | replace:'/author/','' }}" class="image">
 		{% if include.description.avatar %}
 			<img alt="" src="{{ include.description.avatar }}" />
 		{% else %}
