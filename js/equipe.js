@@ -11,11 +11,7 @@ new Chart(document.querySelector('canvas'), {
 			lineTension: 0,
 			pointRadius: 0,
 			backgroundColor: 'rgba(100, 100, 200, .6)'
-		}, {
-			data: datasets.future,
-			label: 'Présence future garantie au ' + window.buildDate.split('-').reverse().join('/'),
-			pointRadius: 0
-		}]
+		}],
 	},
 	options: {
 		animation: { duration: 0 },
