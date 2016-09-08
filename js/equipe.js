@@ -2,7 +2,23 @@ $(function() {
 
 var datasets = {};
 Object.keys(window.data).forEach(function(employerType) {
-	datasets[employerType] = makeTimeSeries(window.data[employerType], window.buildDate);
+	datasets[employerType] = window.data[employerType];
+
+	/** Work around Chart.js' unability to stack time series unless they explicitly share their abscissa, by adding neutral data points to all datasets whenever another changes.
+	*/
+	Object.keys(window.data).forEach(function(otherEmployerType) {
+		if (employerType == otherEmployerType)
+			return;
+
+		datasets[employerType] = datasets[employerType].concat(window.data[otherEmployerType].map(function(event) {
+			return {
+				date: event.date,
+				increment: 0
+			}
+		}));
+	});
+
+	datasets[employerType] = makeTimeSeries(datasets[employerType], window.buildDate);
 });
 
 new Chart(document.querySelector('canvas'), {
