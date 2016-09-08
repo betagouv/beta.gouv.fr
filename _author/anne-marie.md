@@ -1,5 +1,5 @@
 ---
-fullname: Anne-Marie
+fullname: Anne-Marie Esteves
 role: Développeur
 start: 2016-06-16
 end:
