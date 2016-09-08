@@ -24,6 +24,8 @@ additional_js: homepage
 	</div>
 </section>
 
+{% include dashboard.html link=true %}
+
 <section id="cycle">
 	<h2 class="ui divider horizontal">Phases d'une Startup d'État</h2>
 
@@ -33,6 +35,6 @@ additional_js: homepage
 		<li>L'équipe <strong>consolide le service</strong> en élargissant son public cible.</li>
 		<li>Un opérateur institutionnel <strong>reprend le service</strong> et assure sa pérennité.</li>
 	</ol>
-</section>
 
-{% include dashboard.html link=true %}
+	<a href="equipe" class="primary success cta">Une communauté de {{ site.author | size }} membres&nbsp;&nbsp;➤</a>
+</section>
