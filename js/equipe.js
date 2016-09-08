@@ -1,16 +1,37 @@
 $(function() {
 
-var datasets = makeTimeSeries(window.data, window.buildDate);
+var datasets = {};
+Object.keys(window.data).forEach(function(employerType) {
+	datasets[employerType] = makeTimeSeries(window.data[employerType], window.buildDate);
+});
 
 new Chart(document.querySelector('canvas'), {
 	type: 'line',
 	data: {
 		datasets: [{
-			data: datasets.past,
-			label: 'Membres ',  // trailing space to ensure legend complies with French typography rules
+			data: datasets.dinsic.past,
+			label: 'Agents DINSIC ',  // trailing space to ensure legend complies with French typography rules
 			lineTension: 0,
 			pointRadius: 0,
 			backgroundColor: 'rgba(100, 100, 200, .6)'
+		}, {
+			data: datasets.admin.past,
+			label: 'Autres agents publics ',  // trailing space to ensure legend complies with French typography rules
+			lineTension: 0,
+			pointRadius: 0,
+			backgroundColor: 'rgba(200, 100, 100, .6)'
+		}, {
+			data: datasets.independent.past,
+			label: 'Indépendant·e·s ',  // trailing space to ensure legend complies with French typography rules
+			lineTension: 0,
+			pointRadius: 0,
+			backgroundColor: 'rgba(100, 200, 100, .6)'
+		}, {
+			data: datasets.service.past,
+			label: 'Prestataires ',  // trailing space to ensure legend complies with French typography rules
+			lineTension: 0,
+			pointRadius: 0,
+			backgroundColor: 'rgba(150, 150, 150, .6)'
 		}],
 	},
 	options: {
@@ -19,11 +40,17 @@ new Chart(document.querySelector('canvas'), {
 		legend: {
 			onClick: function() { return false }
 		},
+		tooltips: {
+			mode: 'x-axis'
+		},
 		scales: {
 			xAxes: [{
 				type: 'time',
 				time: { unit: 'quarter' },
 				gridLines: { display: false }
+			}],
+			yAxes: [{
+				stacked: true
 			}]
 		}
 	}
