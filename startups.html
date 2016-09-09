@@ -15,6 +15,9 @@ additional_css: dashboard
 	{% assign startups = site.startup | where:'status',phase[0] %}
 	<section id="{{ phase[0] }}" class="ui three stackable doubling cards container">
 		<h2 class="ui divider horizontal">Nos Startups d'État en {{ phase[1].name }}</h2>
+		<div class="ui info message">
+			{{ phase[1].long_description }}
+		</div>
 
 		{% for startup in startups %}
 			{% include startup-card.html description=startup %}
