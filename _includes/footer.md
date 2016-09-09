@@ -1,6 +1,0 @@
-- <i class="large home icon"/> [Incubateur de services numériques]({{ site.baseurl }})
-- <i class="large idea icon"/> [Nos principes]({{ site.baseurl }}principes)
-- <i class="large users icon"/> [Qui sommes-nous ?]({{ site.baseurl }}equipe)
-- <i class="large university icon"/> [Une mission du SGMAP](http://modernisation.gouv.fr)
-- <i class="large write icon"/> [Améliorer cette page](https://github.com/sgmap/beta.gouv.fr/edit/gh-pages/{{ page.path }})
-- <i class="large mail icon"/> [Nous contacter]({{ site.baseurl }}contact)

@@ -3,12 +3,17 @@ html {
 }
 
 body {
-	min-height: 100%;
 	position: relative;
 	padding: 0;
-	padding-bottom: 7rem; /** footer height **/
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
 
 	background-color: #F3F3F3;
+}
+
+.site-content {
+	flex: 1;
 }
 
 body, .menu {
@@ -90,18 +95,19 @@ main, section {
 }
 
 footer {
-	position: absolute;
-	bottom: 0;
-	left: 0;
-	width: 100%;
 	font-size: 70%;
 	padding: 1em;
-	height: 7rem;
 	color: #FFF;
 	background-color: #26353f;
 	text-shadow: none;
-	display: flex;
-	align-items: center;
+}
+
+footer .subscribe form {
+	margin: 2em 0 3em 0;
+}
+
+footer .links {
+	margin: 2em 0;
 }
 
 footer ul {

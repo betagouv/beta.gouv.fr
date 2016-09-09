@@ -15,16 +15,16 @@
 			</nav>
 		</header>
 
-		{{ content }}
+		<div class="site-content">
+			{{ content }}
+		</div>
 
 		<footer>
-			<div class="ui center aligned container">
 			{% comment %}
 			Voir http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/
 			{% endcomment %}
-			{% capture footer %}{% include footer.md %}{% endcapture %}
-			{{ footer | markdownify }}
-			</div>
+
+			{% include footer.html %}
 		</footer>
 
 		<script>
