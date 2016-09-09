@@ -27,25 +27,25 @@ new Chart(document.querySelector('canvas'), {
 		datasets: [{
 			data: datasets.dinsic.past,
 			label: 'Agents DINSIC ',  // trailing space to ensure legend complies with French typography rules
-			backgroundColor: '#EAD900',  // color scheme: credit http://www.colorschemer.com/schemes/viewscheme.php?id=10785
+			backgroundColor: '#EAE5A2',  // color scheme: credit http://www.colorschemer.com/schemes/viewscheme.php?id=10785
 			steppedLine: true,
 			pointRadius: 0
 		}, {
 			data: datasets.admin.past,
 			label: 'Autres agents publics ',  // trailing space to ensure legend complies with French typography rules
-			backgroundColor: '#00EAB4',
+			backgroundColor: '#A2EADA',
 			steppedLine: true,
 			pointRadius: 0
 		}, {
 			data: datasets.independent.past,
 			label: 'Indépendant·e·s ',  // trailing space to ensure legend complies with French typography rules
-			backgroundColor: '#7200EA',
+			backgroundColor: '#C5A2EA',
 			steppedLine: true,
 			pointRadius: 0
 		}, {
 			data: datasets.service.past,
 			label: 'Prestataires ',  // trailing space to ensure legend complies with French typography rules
-			backgroundColor: '#EA7C00',
+			backgroundColor: '#EAC8A2',
 			steppedLine: true,
 			pointRadius: 0
 		}],
