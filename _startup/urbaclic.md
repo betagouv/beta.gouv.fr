@@ -15,6 +15,7 @@ screenshot: /img/startup/urbaclic.jpg
 Pour délivrer les permis de construire, les collectivités doivent consulter de nombreux documents produits par différentes administrations.
 
 Il s'agit en particulier :
+
 * du [plan local d'urbanisme](https://fr.wikipedia.org/wiki/Plan_local_d%27urbanisme)
 * des [servitudes d'utilité publique](https://fr.wikipedia.org/wiki/Servitude_d%27utilit%C3%A9_publique)
 * du [cadastre](https://fr.wikipedia.org/wiki/Cadastre)
@@ -38,6 +39,7 @@ Les cibles sont les collectivités territoriales, les professions spécialisées
 ## Données et API
 
 Pour développer cet outil, nous prenons appui sur :
+
 * la [Base Adresse Nationale](http://adresse.data.gouv.fr)
 * le cadastre DGFiP
 * la [GéoAPI](https://api.gouv.fr/api/geoapi.html)
