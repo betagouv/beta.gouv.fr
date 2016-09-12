@@ -1,20 +1,76 @@
 ---
 title: La communauté
+additional_css: equipe
+additional_js:
+  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.1/Chart.bundle.min.js
+  - equipe
+
+hire_card:
+  id: recrutement
+  fullname: Vous ?
+  role: Développeu·r·se, chef·fe de produit numérique, coach lean, expert·e marketing digital…
+  link: /contact
+  avatar: /img/logo-generique-startup-carre.jpg
+  content: <b>Vous avez envie de nous rejoindre ? Contactez-nous !</b>
 ---
+{% capture build_date %}{{ site.time | date:"%Y-%m-%d" }}{% endcapture %}
+{% assign members = site.author | sort: 'start' | reverse %}
+
+
+{% capture current_members_cards %} {% comment %} Capture in order to get the count right before outputting the cards {% endcomment %}
+	{% for person in members %}
+		{% capture end_date_as_string %}{{ person.end }}{% endcapture %}
+		{% if end_date_as_string == '' or end_date_as_string > build_date %}
+			{% include author.html description=person %}
+			<!--{% increment members_count %}-->
+		{% endif %}
+	{% endfor %}
+{% endcapture %}
+
+
+<section id="effectifs" class="ui container">
+	<h2 class="ui divider horizontal">Évolution des effectifs</h2>
+	<canvas>
+		Nous avons actuellement {% increment members_count %} membres.
+	</canvas>
+	<p>À l'exception de quelques membres permanents qui assurent la passation de la connaissance, le lien avec l'administration hôte et la continuité de l'animation de la communauté, nos membres sont recrutés pour faire réussir <em>une</em> Startup d'État. Leur engagement est limité dans le temps. Cela évite à l'administration qui a lancé une Startup de la considérer comme un investissement impossible à abandonner, qui signerait la fin de son droit à l'échec et donc de sa capacité à innover.</p>
+</section>
+
 <section class="ui four stackable doubling cards container">
 	<h2 class="ui divider horizontal">La communauté des Startups d'État</h2>
 
-	{% for person in site.author %}
-		{% unless person.end %}
-			{% include author.html description=person %}
-		{% endunless %}
-	{% endfor %}
+	{{ current_members_cards }}
 
-	<h2 class="ui divider horizontal">Les ancien·ne·s</h2>
+	{% include author.html description=page.hire_card %}
 
-	{% for person in site.author %}
-		{% if person.end %}
+	<h2 id="alumni" class="ui divider horizontal">Les ancien·ne·s</h2>
+
+	{% for person in members %}
+		{% capture end_date_as_string %}{{ person.end }}{% endcapture %}
+		{% if end_date_as_string != '' and end_date_as_string <= build_date %}
 			{% include author.html description=person %}
 		{% endif %}
 	{% endfor %}
 </section>
+
+<script type="text/javascript">
+(function() {
+	window.buildDate = '{{ build_date }}';
+	window.data = [];
+
+	{% for person in site.author %}
+		{% if person.start %}
+			window.data.push({
+				date: '{{ person.start }}',
+				increment: 1
+			});
+		{% endif %}
+		{% if person.end %}
+			window.data.push({
+				date: '{{ person.end }}',
+				increment: -1
+			});
+		{% endif %}
+	{% endfor %}
+})();
+</script>

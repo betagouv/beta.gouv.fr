@@ -42,7 +42,7 @@
 		<script type="text/javascript" src="https://oss.maxcdn.com/semantic-ui/2.1.8/components/transition.min.js"></script>
 
 		{% for file in page.additional_js %}
-			<script type="text/javascript" src="{{ site.baseurl }}js/{{ file }}.js"></script>
+			<script type="text/javascript" src="{% if file contains '://' %}{{ file }}{% else %}{{ site.baseurl }}js/{{ file }}.js{% endif %}"></script>
 		{% endfor %}
 	</body>
 </html>

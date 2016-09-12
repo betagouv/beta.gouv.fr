@@ -1,7 +1,7 @@
 ---
-fullname: Loïc Delmaire
+fullname: Thomas Wickam
 role: Développeur
+start: 2016-07-15
+end: 2016-12-08
 avatar: /img/logo-generique-startup-carre.jpg
-start: 2013-12-01
-end: 2014-05-31
 ---

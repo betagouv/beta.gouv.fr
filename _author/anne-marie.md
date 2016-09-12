@@ -1,7 +1,7 @@
 ---
-fullname: Loïc Delmaire
+fullname: Anne-Marie Esteves
 role: Développeur
+start: 2016-06-16
+end:
 avatar: /img/logo-generique-startup-carre.jpg
-start: 2013-12-01
-end: 2014-05-31
 ---
