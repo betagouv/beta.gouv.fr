@@ -9,10 +9,30 @@
 					{% if page.url != "/" %}
 						<a class="item" id="logo" href="{{ site.baseurl }}">beta.gouv.fr</a>
 					{% endif %}
-					<a class="item" href="{{ site.baseurl }}startups">Portefeuille</a>
-					<a class="item" href="{{ site.baseurl }}equipe">Équipe</a>
-					<a class="item" href="{{ site.baseurl }}apropos">À propos</a>
-					<a class="item" href="{{ site.baseurl }}annonces">Annonces</a>
+
+					{% if page.url == "/startups.html" %}
+						<a class="item active" href="{{ site.baseurl }}startups">Portefeuille</a>
+					{% else %}
+						<a class="item" href="{{ site.baseurl }}startups">Portefeuille</a>
+					{% endif %}
+
+					{% if page.url == "/equipe.html" %}
+						<a class="item active" href="{{ site.baseurl }}equipe">Équipe</a>
+					{% else %}
+						<a class="item" href="{{ site.baseurl }}equipe">Équipe</a>
+					{% endif %}
+
+					{% if page.url == "/apropos.html" %}
+						<a class="item active" href="{{ site.baseurl }}apropos">À propos</a>
+					{% else %}
+						<a class="item" href="{{ site.baseurl }}apropos">À propos</a>
+					{% endif %}
+
+					{% if page.url == "/annonces.html" %}
+						<a class="item active" href="{{ site.baseurl }}annonces">Annonces</a>
+					{% else %}
+						<a class="item" href="{{ site.baseurl }}annonces">Annonces</a>
+					{% endif %}
 				</div>
 			</nav>
 		</header>
