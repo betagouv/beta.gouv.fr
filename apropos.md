@@ -38,4 +38,3 @@ Le cycle de vie d’une Startup d’État se termine par son intégration à co�
 ## Nos résultats
 
 [Nos réalisations]({{ site.baseurl }}startups) sont la meilleure illustration de nos pratiques.
-

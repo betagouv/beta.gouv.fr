@@ -8,7 +8,7 @@
 	align-items: center;
 }
 
-#dashboard a {
+#dashboard a.phase-link {
 	text-decoration: none;
 }
 

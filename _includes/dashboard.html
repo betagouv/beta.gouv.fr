@@ -5,7 +5,7 @@
 				{% if include.link  %}
 				<div>
 				{% else %}
-				<a href="#{{ phase[0] }}">
+				<a class="phase-link" href="#{{ phase[0] }}">
 				{% endif %}
 					<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
 					<i>startups en</i>

@@ -212,10 +212,6 @@ h1.page-title {
 		text-align: center;
 	}
 
-	footer {
-		height: 10rem;
-	}
-
 	.large.screen.only {
 		display: none !important;
 	}
