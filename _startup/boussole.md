@@ -7,7 +7,6 @@ status: construction
 contact: contact@boussole.beta.gouv.fr
 start: 2015-12-01
 owner: Direction de la jeunesse
-screenshot: false
 ---
 
 Depuis 2013, un travail d’analyse et d’étude a été mené par la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> et le <abbr title="Secrétariat général pour la modernisation de l'action publique">SGMAP</abbr> sur 2 territoires pilotes (Reims et Rennes), pour identifier les besoins des jeunes dans leur accès à l’information et les attentes des professionnels de l’Information Jeunesse en ce qui concerne l’évolution de leur pratique.
