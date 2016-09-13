@@ -10,29 +10,10 @@
 						<a class="item" id="logo" href="{{ site.baseurl }}">beta.gouv.fr</a>
 					{% endif %}
 
-					{% if page.url == "/startups.html" %}
-						<a class="item active" href="{{ site.baseurl }}startups">Portefeuille</a>
-					{% else %}
-						<a class="item" href="{{ site.baseurl }}startups">Portefeuille</a>
-					{% endif %}
-
-					{% if page.url == "/equipe.html" %}
-						<a class="item active" href="{{ site.baseurl }}equipe">Équipe</a>
-					{% else %}
-						<a class="item" href="{{ site.baseurl }}equipe">Équipe</a>
-					{% endif %}
-
-					{% if page.url == "/apropos.html" %}
-						<a class="item active" href="{{ site.baseurl }}apropos">À propos</a>
-					{% else %}
-						<a class="item" href="{{ site.baseurl }}apropos">À propos</a>
-					{% endif %}
-
-					{% if page.url == "/annonces.html" %}
-						<a class="item active" href="{{ site.baseurl }}annonces">Annonces</a>
-					{% else %}
-						<a class="item" href="{{ site.baseurl }}annonces">Annonces</a>
-					{% endif %}
+					{% for item in site.navigation %}
+						<a class="item{% if {{page.url}} == {{item.url}} %} active{%endif%}"
+						href="{{item.url}}">{{item.name}}</a>
+					{% endfor %}
 				</div>
 			</nav>
 		</header>

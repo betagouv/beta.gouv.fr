@@ -11,6 +11,20 @@ description: Nous créons des services publics numériques
 baseurl: /
 url: https://beta.gouv.fr
 
+navigation:
+  -
+    name: Portefeuille
+    url: /startups.html
+  -
+    name: Équipe
+    url: /equipe.html
+  -
+    name: À propos
+    url: /apropos.html
+  -
+    name: Annonces
+    url: /annonces.html
+
 collections:
   startup:
     output: true
