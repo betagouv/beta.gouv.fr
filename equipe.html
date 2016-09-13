@@ -24,6 +24,10 @@ hire_card:
 			{% include author.html description=person %}
 			<!--{% increment members_count %}-->
 		{% endif %}
+
+		{% unless person.start %}
+			{% include missing-start-date %} {% comment %} poor man's validation through missing file ;) {% endcomment %}
+		{% endunless %}
 	{% endfor %}
 {% endcapture %}
 
@@ -56,17 +60,24 @@ hire_card:
 <script type="text/javascript">
 (function() {
 	window.buildDate = '{{ build_date }}';
-	window.data = [];
+	window.data = {
+		dinsic: [],
+		admin: [],
+		independent: [],
+		service: []
+	};
 
 	{% for person in site.author %}
+		var employerType = '{{ person.employer }}'.split('/')[0];
+
 		{% if person.start %}
-			window.data.push({
+			window.data[employerType].push({
 				date: '{{ person.start }}',
 				increment: 1
 			});
 		{% endif %}
 		{% if person.end %}
-			window.data.push({
+			window.data[employerType].push({
 				date: '{{ person.end }}',
 				increment: -1
 			});
