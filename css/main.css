@@ -12,7 +12,7 @@ body {
 	background-color: #F3F3F3;
 }
 
-.site-content {
+main {
 	flex: 1;
 }
 
@@ -89,7 +89,7 @@ header > nav.ui.secondary.menu {
 	padding-right: 1.5em;
 }
 
-main, section {
+section {
 	padding-top: 3em;
 	padding-bottom: 3em;
 }
