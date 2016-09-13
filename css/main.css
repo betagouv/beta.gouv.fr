@@ -217,3 +217,31 @@ h1 {
 		display: none !important;
 	}
 }
+
+#masthead {
+	background-size: cover;
+	background-position: bottom center;
+	background-attachment: fixed;
+	padding: 5em;
+	color: white;
+	letter-spacing: .05em;
+	background-color: #CCC;
+	box-shadow: inset 0em 0em 1em #666;
+	background-blend-mode: darken;
+}
+
+#masthead h1 {
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: bold;
+	line-height: 1.25;
+	font-size: 300%;
+	max-width: 20em;
+	margin-top: 0;
+	text-shadow: 0 0 .5em #666;
+	padding: 0;
+}
+
+.ui.text.container {
+	padding: 1em 0;
+}
