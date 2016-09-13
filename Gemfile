@@ -4,57 +4,21 @@ if ENV['CI']
   require 'json'
   require 'net/http'
 
+  # We assume Internet connectivity in the context of a CI server
+  # (therefore, no need to catch exceptions)
   uri      = URI('https://pages.github.com/versions.json')
   versions = JSON.parse(Net::HTTP.get(uri))
 
-  begin
-    gem 'html-proofer', group: :test
+  gem 'html-proofer', group: :test
 
-    # We need to be sure jekyll gets built in CI using the same version
-    # than Github does.
-    gem 'github-pages', versions['github-pages'], group: :jekyll_plugins
+  # We need to be sure jekyll gets built in CI using the same version
+  # than Github does.
+  gem 'github-pages', versions['github-pages'], group: :jekyll_plugins
 
-    # The reason to add a ruby version at .ruby-version and here is to prevent
-    # the CI server to push to Github if the versions mismatch.
-    # see <https://circleci.com/docs/unrecognized-ruby-version/>
-    ruby versions['ruby']
-
-  # If DNS lookup fails or the versions endpoint is just unreacheable, we do the
-  # reasonable assumption that there's no internet connection.
-  rescue SocketError => socket_error
-    # Halt execution immediatly if CI server run.
-    raise socket_error
-
-    # Warn the user if we believe she's offline.
-    puts <<-MESSAGE
-
-      Couldn't reach #{uri.to_s}, assuming you're offline.
-
-    MESSAGE
-
-    # Try to use whatever version is already installed.
-    gem 'github-pages'
-
-  # If for any other reason the production versions check fails, we still need to provide
-  # a fallback scenario to the user.
-  rescue => standard_error
-    # Halt execution immediatly if CI server run.
-    raise standard_error
-
-    # We invite the user to report the incident by opening an issue.
-    puts <<-MESSAGE
-
-      Something went wrong trying to parse production versions.
-      Please report the incident at https://github.com/sgmap/beta.gouv.fr/issues:
-
-        Exception name:    #{standard_error.class.name}
-        Exception message: #{standard_error.message}
-
-    MESSAGE
-
-    # Try to use whatever version is already installed.
-    gem 'github-pages'
-  end
+  # The reason to add a ruby version at .ruby-version and here is to prevent
+  # the CI server to push to Github if the versions mismatch.
+  # see <https://circleci.com/docs/unrecognized-ruby-version/>
+  ruby versions['ruby']
 else
   gem 'github-pages'
 end
