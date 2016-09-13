@@ -3,10 +3,6 @@ body {
 	max-width: 100%;
 }
 
-#masthead {
-	background-image: url('/img/header.jpg');
-}
-
 .animating.out {
 	position: absolute;
 }

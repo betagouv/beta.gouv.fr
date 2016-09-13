@@ -13,15 +13,7 @@ title: Annonces
 			</div>
 		{% endfor %}
     <div class="ui bottom attached message">
-      <form method="post" action="https://app.mailjet.com/widget/iframe/1O2v/14x" class="ui form">
-        <div class="field">
-          <label class="inverted" for="subscribe-email">Recevez ces annonces et d'autres informations par mail</label>
-          <div class="ui action input">
-            <input required type="email" autocomplete="on" id="subscribe-email" placeholder="votre@email.fr">
-            <button class="ui button" type="submit">Abonnez-vous !</button>
-          </div>
-        </div>
-      </form>
+      {% include subscribe.html %}
     </div>
   </div>
 

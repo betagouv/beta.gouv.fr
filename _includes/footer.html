@@ -1,14 +1,6 @@
 {% if page.url != "/annonces.html" %}
 <div class="ui container subscribe">
-  <form method="post" action="https://app.mailjet.com/widget/iframe/1O2v/14x" class="ui form inverted">
-    <div class="field">
-      <label for="subscribe-email">Inscrivez vous pour recevoir nos annonces et autres informations par email</label>
-      <div class="ui action input">
-        <input required type="email" autocomplete="on" id="subscribe-email" placeholder="votre@email.fr">
-        <button class="ui button" type="submit">Abonnez-vous !</button>
-      </div>
-    </div>
-  </form>
+  {% include subscribe.html formClass="inverted" %}
 </div>
 {% endif %}
 
