@@ -14,16 +14,16 @@ url: https://beta.gouv.fr
 navigation:
   -
     name: Portefeuille
-    url: /startups.html
+    target: startups
   -
     name: Équipe
-    url: /equipe.html
+    target: equipe
   -
     name: À propos
-    url: /apropos.html
+    target: apropos
   -
     name: Annonces
-    url: /annonces.html
+    target: annonces
 
 collections:
   startup:
