@@ -201,23 +201,6 @@ h1 {
 	font-weight: normal;
 }
 
-@media (max-width: 50em) {
-	header {
-		background-position: 0;
-		font-size: 60%;
-		padding: 0;
-	}
-
-	footer li {
-		width: 100%;
-		text-align: center;
-	}
-
-	.large.screen.only {
-		display: none !important;
-	}
-}
-
 #masthead {
 	background-size: cover;
 	background-position: bottom center;
@@ -244,4 +227,43 @@ h1 {
 
 .ui.text.container {
 	padding: 1em 0;
+}
+
+@media (min-width: 100em) {
+	#masthead {
+		font-size: 120%;
+		padding: 14em;
+	}
+}
+
+@media (max-width: 50em) {
+	header {
+		background-position: 0;
+		font-size: 60%;
+		padding: 0;
+	}
+
+	footer li {
+		width: 100%;
+		text-align: center;
+	}
+
+	#masthead {
+		padding: 2em;
+	}
+
+	.large.screen.only {
+		display: none !important;
+	}
+}
+
+@media (max-width: 34em) {
+	#masthead {
+		padding: 1em 0;
+	}
+
+	#masthead h1 {
+		font-size: 200%;
+		text-align: center;
+	}
 }
