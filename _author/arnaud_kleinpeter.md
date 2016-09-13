@@ -5,7 +5,6 @@ avatar: https://travauxlib.cdn.prismic.io/travauxlib/6b46b4eeebb56683abe4b06b7e3
 start: 2014-06-18
 end: 2015-03-31
 employer: service/octo
-link: https://www.travauxlib.com
 ---
 
 Ex-mes-aides.
