@@ -30,23 +30,28 @@ L'existence d'un outil numérique présentant les données disponibles permettra
 L'utilisateur commence par saisir une adresse puis ajuste la localisation de son projet à l'aide d'une carte.
 Les règles d'urbanisme ainsi que toute information complémentaire pertinente lui sont alors présentées de manière synthétique.
 
-## Données et API
+## Collecte des données et API
 
-Cet outil prendrait appui sur :
+Selon le type de données et le niveau d'équipement de l'acteur qui les produit, la collecte sera réalisée :
+
+* manuellement auprès des agents des collectivités et des services de l'État ;
+* via la plateforme régionale [MIPYGéo](www.mipygeo.fr) ;
+* via la plateforme nationale [GeoIDE](catalogue.geo-ide.developpement-durable.gouv.fr) 
+* ou via le [GéoPortail de l'Urbanisme](https://www.geoportail-urbanisme.gouv.fr/).
+
+L'appui de la Préfecture de Région est essentiel durant cette phase, c'est pourquoi les efforts seront concentrés sur la région Languedoc-Roussillon-Midi-Pyrénées.
+
+L'outil prendra aussi appui sur :
 
 * la [Base Adresse Nationale](http://adresse.data.gouv.fr) ;
 * le cadastre DGFiP ;
 * la [GéoAPI](https://api.gouv.fr/api/geoapi.html) ;
-* les plateformes d'information géographique ;
-* le [GéoPortail de l'Urbanisme](https://www.geoportail-urbanisme.gouv.fr/).
+* la [passerelle INSPIRE](https://beta.gouv.fr/startup/inspire.html)
 
 La construction d'__Urbaclic__ permettra de consolider la [GéoAPI](https://api.gouv.fr/api/geoapi.html), en l'enrichissant notamment sur les thématiques __Risques__ et __Urbanisme__.
 
-## Contexte
+## Déploiement
 
-Dans le cadre du programme [OpenData Lab](http://www.opendatalab.fr), un [Projet Investissements d'Avenir](http://www.gouvernement.fr/investissements-d-avenir-cgi) porté par la [Préfecture de Région Languedoc-Roussillon ­Midi­-Pyrénées](http://www.prefectures-regions.gouv.fr/languedoc-roussillon-midi-pyrenees), le SGAR avait organisé une journée de travail conjointe avec la [mission Etalab](http://www.etalab.gouv.fr/) sur les réutilisations des données publiques.
+L'équipe du programme OpenData Lab de la Préfecture de Région va parcourir le territoire régional au contact des collectivités et des usagers. Elle proposera des stratégies d'intégration et récoltera des retours utilisateurs précieux.
 
-
-Le but était d'identifier un problème transversal à toutes les collectivités territoriales, pour lequel la solution pourrait reposer sur des données publiques.
-
-L'urbanisme a été retenu comme le thème privilégié.
+Fort de cette première phase expérimentale, l'outil sera par la suite déployé au niveau national.
