@@ -1,6 +1,7 @@
 ---
 title: Urbaclic
 mission: Accéder aux règles d'urbanisme en quelques clics
+domain: opendatalab.fr/urbaclic
 link: http://www.opendatalab.fr/urbaclic
 repository: https://github.com/sgmap/urbaclic
 status: construction
