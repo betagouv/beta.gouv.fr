@@ -35,8 +35,8 @@ Les règles d'urbanisme ainsi que toute information complémentaire pertinente l
 Selon le type de données et le niveau d'équipement de l'acteur qui les produit, la collecte sera réalisée :
 
 * manuellement auprès des agents des collectivités et des services de l'État ;
-* via la plateforme régionale [MIPYGéo](www.mipygeo.fr) ;
-* via la plateforme nationale [GeoIDE](catalogue.geo-ide.developpement-durable.gouv.fr) 
+* via la plateforme régionale [MIPYGéo](http://www.mipygeo.fr/accueil) ;
+* via la plateforme nationale [GeoIDE](http://catalogue.geo-ide.developpement-durable.gouv.fr/) 
 * ou via le [GéoPortail de l'Urbanisme](https://www.geoportail-urbanisme.gouv.fr/).
 
 L'appui de la Préfecture de Région est essentiel durant cette phase, c'est pourquoi les efforts seront concentrés sur la région Languedoc-Roussillon-Midi-Pyrénées.
