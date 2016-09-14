@@ -1,7 +1,7 @@
 ---
 title: Base Adresse Nationale
 mission: "Un référentiel national ouvert : de l'adresse à la coordonnée géographique."
-domain: adresse.data.gouv.fr
+link: https://adresse.data.gouv.fr
 repository: https://adresse.data.gouv.fr/foss/
 status: construction
 contact: adresse@data.gouv.fr

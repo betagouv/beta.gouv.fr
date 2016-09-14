@@ -1,7 +1,7 @@
 ---
 title: Boussole des droits
 mission: "Accède aux conseils d'un·e professionnel·le près de chez toi pour trouver un logement, une formation ou un emploi."
-domain: boussole.beta.gouv.fr
+link: https://boussole.beta.gouv.fr
 repository: https://github.com/sgmap/boussole/
 status: construction
 contact: contact@boussole.beta.gouv.fr

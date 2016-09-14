@@ -1,7 +1,7 @@
 ---
 title: Urbaclic
 mission: Accéder aux règles d'urbanisme en quelques clics
-domain: urbaclic.beta.gouv.fr
+link: https://urbaclic.beta.gouv.fr
 repository: https://github.com/sgmap/urbaclic
 status: construction
 contact: contact@urbaclic.beta.gouv.fr
