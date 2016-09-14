@@ -10,10 +10,9 @@
 						<a class="item" id="logo" href="{{ site.baseurl }}">beta.gouv.fr</a>
 					{% endif %}
 
-					{% for item in site.navigation %}
-						{% capture target %}{{site.baseurl}}{{item.target}}.html{% endcapture %}
-						<a class="item{% if page.url == target %} active{%endif%}"
-						href="{{ site.baseurl }}{{item.target}}">{{item.name}}</a>
+					{% assign menu_items = site.pages | where: 'in_menu', true %}
+					{% for menu_item in menu_items %}
+						<a class="item{% if page.url == menu_item.url %} active{%endif%}" href="{{ menu_item.url }}">{{ menu_item.title }}</a>
 					{% endfor %}
 				</div>
 			</nav>
