@@ -9,7 +9,7 @@ additional_css: dashboard
 	Vous trouverez ici tous les services créés avec l'<a href="{{ site.baseurl }}#cycle">approche Startup d'État</a>.
 </h1>
 
-{% include dashboard.html link=false %}
+{% include dashboard.html %}
 
 {% for phase in site.phases.incubation %}
 	{% assign startups = site.startup | where:'status',phase[0] %}
