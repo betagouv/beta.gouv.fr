@@ -16,7 +16,8 @@ additional_css: dashboard
 	<section id="{{ phase[0] }}" class="ui three stackable doubling cards container">
 		<h2 class="ui divider horizontal">Nos Startups d'État en {{ phase[1].name }}</h2>
 		<div class="ui info message">
-			{{ phase[1].long_description }}
+			{% capture phase_description %}_phases/{{phase[1].name}}.html{% endcapture %}
+			{% include_relative {{phase_description}} %}
 		</div>
 
 		{% for startup in startups %}
