@@ -1,7 +1,7 @@
 ---
 title: PIX
 mission: Mesurez, développez et valorisez vos compétences numériques.
-domain: pix.beta.gouv.fr
+link: https://pix.beta.gouv.fr
 repository: https://github.com/sgmap/pix-live
 status: construction
 contact: contact@pix.beta.gouv.fr
