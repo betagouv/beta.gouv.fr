@@ -10,7 +10,7 @@
 						<a class="item" id="logo" href="{{ site.baseurl }}">beta.gouv.fr</a>
 					{% endif %}
 
-					{% assign menu_items = site.pages | where: 'in_menu', true %}
+					{% assign menu_items = site.pages | where_exp: 'page', 'page.menu_index > 0' | sort: 'menu_index' %}
 					{% for menu_item in menu_items %}
 						<a class="item{% if page.url == menu_item.url %} active{%endif%}" href="{{ menu_item.url }}">{{ menu_item.title }}</a>
 					{% endfor %}

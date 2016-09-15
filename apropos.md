@@ -1,6 +1,6 @@
 ---
 title: À propos
-in_menu: true
+menu_index: 3
 layout: text
 ---
 
