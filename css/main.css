@@ -70,7 +70,7 @@ body > a, footer a {
 
 header {
 	background-color: #FEFEFE;
-	padding: 25px;
+	padding: 1em;
 }
 
 header > nav.ui.secondary.menu {
@@ -89,9 +89,8 @@ header > nav.ui.secondary.menu {
 	padding-right: 1.5em;
 }
 
-section {
-	padding-top: 3em;
-	padding-bottom: 3em;
+.ui.container.padded, section {
+	padding: 3em 0;
 }
 
 footer {
@@ -194,7 +193,7 @@ a.ui.card {
 	cursor: pointer;
 }
 
-h1 {
+h1.site-description {
 	text-align: center;
 	text-transform: uppercase;
 	padding: 1em 0;
