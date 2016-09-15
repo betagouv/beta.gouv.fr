@@ -1,5 +1,6 @@
 ---
-title: Incubateurs
+title: À propos
+menu_index: 3
 layout: text
 ---
 
