@@ -2,7 +2,7 @@
 	<ol class="counter--incubation">
 		{% for phase in site.phases.incubation %}
 			<li class="counter {{ phase[0] }}">
-				<a class="phase-link" href="{{ include.baseHref }}#{{ phase[0] }}">
+				<a class="phase-link" href="{{ site.baseurl }}/startups#{{ phase[0] }}">
 					<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
 					<i>startups en</i>
 					<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name }}</span>
@@ -14,7 +14,7 @@
 			<ul class="counter--endgame">
 				{% for phase in site.phases.endgame %}
 					<li class="counter {{ phase[0] }}">
-						<a href="{{ include.baseHref }}#{{ phase[0] }}">
+						<a href="{{ site.baseurl }}/startups#{{ phase[0] }}">
 							<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
 
 							<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name.plural }}</span>
@@ -25,8 +25,8 @@
 		</li>
 	</ol>
 
-	{% if include.link  %}
-	<a href="startups" class="primary success cta">Explorez {{ site.startup | size | minus:featuredStartupsCount }} autres Startups d'État&nbsp;&nbsp;➤</a>
+	{% if include.cta  %}
+	<a href="startups" class="primary success cta">Explorez nos {{ site.startup | size }} autres Startups d'État&nbsp;&nbsp;➤</a>
 	{% endif %}
 
 </section>
