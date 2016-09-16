@@ -1,14 +1,6 @@
 ---
 layout: default
 ---
-{% capture url %}
-	{% if page.link %}
-		{{ page.link }}
-	{% elsif page.domain %}
-		https://{{ page.domain }}
-	{% endif %}
-{% endcapture %}
-
 <div class="ui container padded">
 	<div class="ui fluid card">
 		<div class="header">
@@ -16,18 +8,16 @@ layout: default
 			<h2>{{ page.mission }}</h2>
 		</div>
 		<div class="image">
-			{% if url %}<a href="{{ url | strip }}" target="_blank" rel="noopener">{% endif %}
+			{% if page.link %}<a href="{{ page.link | strip }}" target="_blank" rel="noopener">{% endif %}
 				{% include screenshot.html startup=page %}
-			{% if url %}</a>{% endif %}
+			{% if page.link %}</a>{% endif %}
 		</div>
 		<div class="content">
 			<ul class="ui description text container">
 				<li>Le porteur administratif est {{ page.owner }}.</li>
 				<li>Le produit est en <em>{{ page.status}}</em>, il
 					{% if page.link %}
-						est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.domain }}</a>.
-					{% elsif page.domain %}
-						est disponible sur <a href="https://{{ page.domain }}" title="{{ page.title }}">{{ page.domain }}</a>.
+						est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.
 					{% else %}
 						<em>n'est pas encore accessible au public.</em>
 					{% endif %}

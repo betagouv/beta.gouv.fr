@@ -1,7 +1,7 @@
 ---
 title: Étudiant entrepreneur
 mission: Faciliter l'accès au statut étudiant entrepreneur et à ses bénéfices.
-domain: etudiant-entrepreneur.beta.gouv.fr
+link: https://etudiant-entrepreneur.beta.gouv.fr
 repository: https://github.com/sgmap/etudiant-entrepreneur
 status: construction
 contact: contact@etudiant-entrepreneur.beta.gouv.fr
@@ -18,9 +18,9 @@ Actuellement les EEs rencontrent notamment les problèmes suivants :
 
 - Difficulté de remplir et transmettre [la candidature](http://media.etudiant.gouv.fr/file/Statut/01/0/candidature-snee-2016-17_ori_581010.pdf) (logiciel d’édition sous Windows exclusivement; 20% de dossiers invalides; candidature morcelée en plusieurs emails),
 - Manque d’informations ou difficulté à aller piocher les informations disséminées sur plusieurs sites ([<abbr title="Ministère de l'Education Nationale, de l'Enseignement Supérieur et de la Recherche">MENESR</abbr>](http://www.enseignementsup-recherche.gouv.fr/cid79926/statut-national-etudiant-entrepreneur.html), de [PEPITE France](http://www.pepite-france.fr/), sur [etudiant.gouv](http://www.etudiant.gouv.fr/pid33854/entrepreneuriat-etudiant.html) et les sites des <abbr title="Pôles Etudiants pour l'Innovation, le Transfert et l'Entrepreneuriat">PEPITE</abbr>),
-- Absence de visibilité sur le processus de traitement (Quand se tient le prochain comité d’engagement ? Comment et en combien de temps se passe le circuit depuis le MENESR jusqu’au [<abbr title="Pôles Etudiants pour l'Innovation, le Transfert et l'Entrepreneuriat">PEPITE</abbr>](http://www.enseignementsup-recherche.gouv.fr/cid79223/pepite-poles-etudiants-pour-innovation-transfert-entrepreneuriat.html) ?)  
+- Absence de visibilité sur le processus de traitement (Quand se tient le prochain comité d’engagement ? Comment et en combien de temps se passe le circuit depuis le MENESR jusqu’au [<abbr title="Pôles Etudiants pour l'Innovation, le Transfert et l'Entrepreneuriat">PEPITE</abbr>](http://www.enseignementsup-recherche.gouv.fr/cid79223/pepite-poles-etudiants-pour-innovation-transfert-entrepreneuriat.html) ?)
 
-Le MENESR subit un processus de traitement chronophage (3 minutes en moyenne par dossier), complexe, avec beaucoup d’interventions manuelles. 
+Le MENESR subit un processus de traitement chronophage (3 minutes en moyenne par dossier), complexe, avec beaucoup d’interventions manuelles.
 
 Les acteurs PEPITE rencontrent les problèmes suivants :
 
@@ -39,5 +39,5 @@ La mise en place d’une plate-forme communautaire de services destinée à tous
 - une mise en réseau des encadrants (tuteurs académiques et praticiens).
 
 
-Le service est construit de façon itérative en le confrontant systématiquement à ses utilisateurs afin de prioriser les améliorations en fonction de leurs attentes.  
+Le service est construit de façon itérative en le confrontant systématiquement à ses utilisateurs afin de prioriser les améliorations en fonction de leurs attentes.
 

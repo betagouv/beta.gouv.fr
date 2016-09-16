@@ -1,7 +1,6 @@
 ---
 title: La Bonne Formation
 mission: Recherchez une formation efficace pour votre retour à l'emploi et découvrez les financements possibles.
-domain: labonneformation.pole-emploi.fr
 link: http://labonneformation.pole-emploi.fr
 repository:
 status: consolidation

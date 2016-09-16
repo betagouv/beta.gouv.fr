@@ -1,7 +1,7 @@
 ---
 title: MDPH en ligne
 mission: 'Personnes en situation de handicap : déposer un dossier de demande d’aides en ligne.'
-domain: mdph.beta.gouv.fr
+link: https://mdph.beta.gouv.fr
 repository: https://github.com/sgmap/impact
 status: construction
 contact: fanny.brulebois@modernisation.gouv.fr

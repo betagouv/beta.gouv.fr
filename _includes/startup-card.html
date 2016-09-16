@@ -28,8 +28,8 @@
 	</div>
 	<div class="extra content">
 		<div class="left floated">
-			{%if description.domain %}
-				{{ description.domain }}
+			{% if description.link %}
+				{{ description.link | remove: 'https://' | remove: 'http://' }}
 			{% else %}
 				<em>Pas encore de site public</em>
 			{% endif %}
