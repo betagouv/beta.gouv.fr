@@ -1,5 +1,5 @@
 ---
-title: ¡Chouette!
+title: Chouette
 mission: Recrutez des gens, pas des CV
 link: http://chouette.beta.pole-emploi.fr
 status: construction
@@ -17,6 +17,7 @@ Et pour un candidat, il faut en moyenne 30 minutes et pas moins de 10 étapes po
 
 ## CHOUETTE change la donne !
 [CHOUETTE](http://chouette.beta.pole-emploi.fr) c’est : 
+
 * recruter des gens, pas des CV ;
 * en quelques clics sur tablette, mobile ou ordinateur ;
 * pour hier !
