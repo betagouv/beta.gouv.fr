@@ -265,4 +265,8 @@ h1.site-description {
 		font-size: 200%;
 		text-align: center;
 	}
+
+	.ui.action.input {
+		display: block;
+	}
 }

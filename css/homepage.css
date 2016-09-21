@@ -57,9 +57,3 @@ body {
 		line-height: 1.5;
 	}
 }
-
-@media (max-width: 34em) {
-	.ui.action.input {
-		display: block;
-	}
-}
