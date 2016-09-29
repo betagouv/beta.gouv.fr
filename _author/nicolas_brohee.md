@@ -6,4 +6,4 @@ end: 2016-12-20
 employer: service/octo
 ---
 
-Ne blâme pas les usagers: améliore le système !
+Ne blâme pas les usagers : améliore le système !
