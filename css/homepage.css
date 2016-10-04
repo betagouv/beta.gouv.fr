@@ -21,7 +21,7 @@ body {
 	display: none;
 }
 
-#cycle, #blog {
+#cycle {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -33,7 +33,7 @@ body {
 	background-color: #FEFEFE;
 }
 
-#cycle ol, #blog ul {
+#cycle ol {
 	list-style-position: inside;
 	padding-left: 0;
 }
@@ -47,12 +47,12 @@ body {
 	margin-top: 0;
 }
 
-#phases .text.container p:last-child, #blog ul {
+#phases .text.container p:last-child {
 	margin-bottom: 0;
 }
 
 @media (max-width: 34em) {
-	#cycle, #blog {
+	#cycle {
 		text-align: left;
 		line-height: 1.5;
 	}
