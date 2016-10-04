@@ -41,19 +41,16 @@ a {
 	color: inherit;
 }
 
-a.cta {
-	padding: .75em;
-	margin: .75em;
-	text-decoration: none;
-}
-
 .cta {
 	cursor: pointer;
 	font-weight: bold;
+	text-decoration: none;
 }
 
 .primary.cta, .secondary.cta {
 	font-size: 1.2rem;
+	padding: .75em;
+	margin: .75em;
 }
 
 a.secondary.cta {

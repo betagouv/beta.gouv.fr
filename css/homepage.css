@@ -31,7 +31,6 @@ body {
 	align-items: center;
 
 	font-size: 130%;
-	line-height: 2;
 
 	text-align: center;
 	background-color: #FEFEFE;
@@ -40,6 +39,7 @@ body {
 #cycle ol {
 	list-style-position: inside;
 	padding-left: 0;
+	line-height: 2;
 }
 
 #phases {
@@ -56,7 +56,7 @@ body {
 }
 
 @media (max-width: 34em) {
-	#cycle {
+	#cycle ol {
 		text-align: left;
 		line-height: 1.5;
 	}
