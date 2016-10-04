@@ -266,4 +266,8 @@ h1.site-description {
 	.ui.action.input {
 		display: block;
 	}
+
+	.ui.horizontal.divider {
+	  white-space: normal;
+	}
 }
