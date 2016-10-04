@@ -24,7 +24,11 @@ additional_js: homepage
 	</div>
 </section>
 
-{% include dashboard.html cta=true %}
+<section id="dashboard">
+	{% include dashboard.html %}
+
+	<a href="startups" class="primary success cta">Explorez nos {{ site.startup | size }} Startups d'État&nbsp;&nbsp;➤</a>
+</section>
 
 <section id="cycle">
 	<h2 class="ui divider horizontal">Phases d'une Startup d'État</h2>

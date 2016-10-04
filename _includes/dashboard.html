@@ -1,32 +1,25 @@
-<section id="dashboard">
-	<ol class="counter--incubation">
-		{% for phase in site.phases.incubation %}
-			<li class="counter {{ phase[0] }}">
-				<a class="phase-link" href="{{ site.baseurl }}/startups#{{ phase[0] }}">
-					<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
-					<i>startups en</i>
-					<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name }}</span>
-				</a>
-			</li>
-		{% endfor %}
-
-		<li>
-			<ul class="counter--endgame">
-				{% for phase in site.phases.endgame %}
-					<li class="counter {{ phase[0] }}">
-						<a href="{{ site.baseurl }}/startups#{{ phase[0] }}">
-							<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
-
-							<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name.plural }}</span>
-						</a>
-					</li>
-				{% endfor %}
-			</ul>
+<ol class="counter--incubation">
+	{% for phase in site.phases.incubation %}
+		<li class="counter {{ phase[0] }}">
+			<a href="{{ site.baseurl }}/startups#{{ phase[0] }}">
+				<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
+				<i>startups en</i>
+				<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name }}</span>
+			</a>
 		</li>
-	</ol>
+	{% endfor %}
 
-	{% if include.cta  %}
-	<a href="startups" class="primary success cta">Explorez nos {{ site.startup | size }} Startups d'État&nbsp;&nbsp;➤</a>
-	{% endif %}
+	<li>
+		<ul class="counter--endgame">
+			{% for phase in site.phases.endgame %}
+				<li class="counter {{ phase[0] }}">
+					<a href="{{ site.baseurl }}/startups#{{ phase[0] }}">
+						<span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
 
-</section>
+						<span class="tooltip counter--name" title="{{ phase[1].description }}">{{ phase[1].name.plural }}</span>
+					</a>
+				</li>
+			{% endfor %}
+		</ul>
+	</li>
+</ol>

@@ -21,6 +21,10 @@ body {
 	display: none;
 }
 
+#dashboard {
+	text-align: center;
+}
+
 #cycle {
 	display: flex;
 	flex-direction: column;
