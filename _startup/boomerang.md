@@ -8,7 +8,6 @@ contact: sebastien.cadiou@pole-emploi.fr
 logo:
 start: 2016-01-03
 owner: Pôle emploi
-# screenshot: ajouter une image en 1280x720px dans /img/startups/$nom_startup.png et effacer cette ligne ; à défaut, URL en HTTPS ; à défaut, mettre screenshot: false
 ---
 
 ## Fiche produit
