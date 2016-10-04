@@ -3,8 +3,8 @@ title: Annonces
 menu_index: 4
 ---
 <section id="blog" class="ui container">
-  <div class="ui segments">
-    {% for post in site.posts limit:5 %}
+	<div class="ui segments">
+		{% for post in site.posts %}
 			<div class="ui segment">
 				{% if post.category == 'evenement' %}
 					Retrouvez-nous le <time datetime="{{ post.start }}"></time> pour <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.location }}).
@@ -13,9 +13,8 @@ menu_index: 4
 				{% endif %}
 			</div>
 		{% endfor %}
-    <div class="ui bottom segment">
-      {% include subscribe.html %}
-    </div>
-  </div>
-
+		<div class="ui bottom segment">
+			{% include subscribe.html %}
+		</div>
+	</div>
 </section>
