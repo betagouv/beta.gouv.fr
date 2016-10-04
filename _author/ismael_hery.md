@@ -6,3 +6,4 @@ end: 2016-12-16
 avatar: /img/logo-generique-startup-carre.jpg
 employer: independent/octo
 ---
+La Bonne Boite, La Bonne Formation, Boomerang.
