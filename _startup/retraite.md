@@ -3,7 +3,7 @@ title: Mes démarches retraite pas à pas
 mission: Obtenez en quelques clics la liste personnalisée de vos démarches de retraite.
 link: https://retraite.beta.gouv.fr
 repository: https://github.com/sgmap/retraite
-status: Passation
+status: passation
 contact: contact@retraite.beta.gouv.fr
 start: 2015-10-01
 owner: CNAV, MSA, RSI
