@@ -24,6 +24,9 @@ body {
 #dashboard {
 	text-align: center;
 	background-color: #EEE;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
 #cycle {
