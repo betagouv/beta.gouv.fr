@@ -6,14 +6,19 @@ body {
 	position: relative;
 	padding: 0;
 	display: flex;
-	min-height: 100vh;
+	height: 100%;
 	flex-direction: column;
-
 	background-color: #F3F3F3;
 }
 
+header,
+footer {
+  flex: none;
+}
+
 main {
-	flex: 1;
+  flex: 1 0 auto;
+  width: 100%;
 }
 
 body, .menu {
