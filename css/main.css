@@ -11,14 +11,13 @@ body {
 	background-color: #F3F3F3;
 }
 
-header,
-footer {
+header, footer {
 	flex: none;
 }
 
 main {
-  flex: 1 0 auto;
-  width: 100%;
+	flex: 1 0 auto;
+	width: 100%;
 }
 
 body, .menu {
