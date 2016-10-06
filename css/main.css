@@ -13,7 +13,7 @@ body {
 
 header,
 footer {
-  flex: none;
+	flex: none;
 }
 
 main {
