@@ -131,36 +131,6 @@ footer li a:hover {
 	text-decoration: underline;
 }
 
-#intro-header {
-	background-color: white;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	color: white;
-	letter-spacing: .05em;
-}
-
-#intro-header h1 {
-	margin: 0 0 0.5em 0;
-	padding: 0;
-}
-
-#intro-header .tagline {
-	padding: 0.5em 0 0 0;
-	font-size: 2em;
-	font-weight: bold;
-	color: #373c42;
-	line-height: 1.25;
-	text-transform: uppercase;
-	border-top: 1px solid #ddd;
-	text-align: center;
-	margin-bottom: 1em;
-}
-
-#presentation {
-	justify-content: center;
-}
-
 .investigation {
 	background-color: #1b91a3;
 }
