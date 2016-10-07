@@ -36,7 +36,7 @@ body {
 }
 
 .tagline {
-	padding: 0.5em 0 0 0;
+	padding: 0.5em 0 1em 0;
 	font-size: 2em;
 	font-weight: bold;
 	color: #373c42;
@@ -44,7 +44,6 @@ body {
 	text-transform: uppercase;
 	border-top: 1px solid #ddd;
 	text-align: center;
-	margin-bottom: 1em;
 }
 
 #presentation {
