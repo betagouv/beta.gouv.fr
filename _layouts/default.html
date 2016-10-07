@@ -6,24 +6,28 @@
 		<header>
 			<nav class="ui secondary menu">
 				<div class="right menu">
-					<a class="large screen only item" href="{{ site.baseurl }}#cycle">Démarche</a>
-					<a class="large screen only item" href="{{ site.baseurl }}#blog">Actualités</a>
-					<a class="item" href="{{ site.baseurl }}startups">Portefeuille</a>
-					<a class="item" id="logo" href="{{ site.baseurl }}">beta.gouv.fr</a>
+					{% if page.url != "/" %}
+						<a class="item" id="logo" href="{{ site.baseurl }}">beta.gouv.fr</a>
+					{% endif %}
+
+					{% assign menu_items = site.pages | where_exp: 'page', 'page.menu_index > 0' | sort: 'menu_index' %}
+					{% for menu_item in menu_items %}
+						<a class="item large screen only
+							{% if page.url == menu_item.url %} active{%endif%}"
+							href="{{ menu_item.url }}">
+							{{ menu_item.title }}
+						</a>
+					{% endfor %}
 				</div>
 			</nav>
 		</header>
 
-		{{ content }}
+		<main>
+			{{ content }}
+		</main>
 
 		<footer>
-			<div class="ui center aligned container">
-			{% comment %}
-			Voir http://wolfslittlestore.be/2013/10/rendering-markdown-in-jekyll/
-			{% endcomment %}
-			{% capture footer %}{% include footer.md %}{% endcapture %}
-			{{ footer | markdownify }}
-			</div>
+			{% include footer.html %}
 		</footer>
 
 		<script>
