@@ -57,6 +57,10 @@ a {
 	margin: .75em;
 }
 
+.primary.investigation.cta {
+	color: white;
+}
+
 a.secondary.cta {
 	background-color: transparent;
 }
