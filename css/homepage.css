@@ -35,7 +35,7 @@ body {
 	padding: 0;
 }
 
-#intro-header .tagline {
+.tagline {
 	padding: 0.5em 0 0 0;
 	font-size: 2em;
 	font-weight: bold;
