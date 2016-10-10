@@ -246,3 +246,8 @@ h1.site-description {
 	  white-space: normal;
 	}
 }
+
+.optout {
+    border-width: 0px;
+    width: 100%;
+ }
