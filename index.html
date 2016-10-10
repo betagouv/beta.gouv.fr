@@ -1,25 +1,31 @@
 ---
-additional_css: homepage
+additional_css:
+- homepage
+- dashboard
+- startup-presentation
 additional_js: homepage
 ---
 
-<section id="masthead" class="ui two columns padded stackable grid">
-	<div class="column">
-		<h1>{{ site.description }}</h1>
+<section id="intro-header">
+	<h1 id="logo">beta.gouv.fr</h1>
+	<div class="tagline">{{ site.description }}</div>
+	<a class="primary investigation cta" href="#cycle">Découvrez comment</a>
+</section>
+
+<section id="presentation" class="ui container">
+	<div id="example">
+		{% include startup-presentation.html id='mes-aides' %}
+		{% include startup-presentation.html id='labonneboite' %}
+		{% include startup-presentation.html id='mps' %}
 	</div>
 
-	<div class="column" id="example">
-		{% include startup-card.html id='mes-aides' %}
-		{% include startup-card.html id='labonneboite' %}
-		{% include startup-card.html id='mps' %}
-	</div>
+	<span class="cta" id="otherExample">Voir d'autres exemples</span>
+</section>
 
-	<div class="column">
-		<a class="primary investigation cta" href="#cycle">Découvrez comment</a>
-	</div>
-	<div class="column">
-		<span class="cta" id="otherExample">Voir d'autres exemples&nbsp;➢</span>
-	</div>
+<section id="dashboard">
+	{% include dashboard.html %}
+
+	<a href="startups" class="primary success cta">Explorez nos {{ site.startup | size }} Startups d'État&nbsp;&nbsp;➤</a>
 </section>
 
 <section id="cycle">
@@ -31,81 +37,6 @@ additional_js: homepage
 		<li>L'équipe <strong>consolide le service</strong> en élargissant son public cible.</li>
 		<li>Un opérateur institutionnel <strong>reprend le service</strong> et assure sa pérennité.</li>
 	</ol>
-</section>
 
-
-<section id="phases" class="ui vertically divided two columns stackable padded grid container">
-	{% capture investigationDescription %}
-		<p>Un <abbr title="D’un ministère ou d’un opérateur.">agent public</abbr> identifie une friction entre les usagers et son administration.</p>
-		<p>Attente, gaspillage, complexité, non-recours… Aidé par l'incubateur, l'agent public vérifie que cette friction concerne un public suffisamment large, qu’un outil numérique pourrait la faire disparaitre, et que les obstacles techniques sont surmontables. Son administration valide le recrutement d'un ou deux développeurs et du responsable produit.</p>
-		<p>Cette équipe de 2 à 4 personnes constitue dès lors une Startup d'État autonome.</p>
-	{% endcapture %}
-	{% include phase.html phase='investigation'
-		description=investigationDescription
-		illustration='psi' %}
-
-	{% capture constructionDescription %}
-		<p>L’équipe cerne le besoin avec les usagers pilotes et fournit un premier produit qui les satisfait.</p>
-		<p>Cette promesse est élaborée de manière itérative et incrémentale. À l’aide de discussions, de prototypes papier et de code, l'équipe confirme ou infirme de nombreuses hypothèses à moindre coût. Une proposition de valeur qui résout un problème bien identifié est retenue. Toutes les deux semaines, la communauté des utilisateurs voit le service s'améliorer.</p>
-		<p>La Startup d'État ouvre au public un service en mode <abbr title="Expérimental">bêta</abbr> qui répond à cette proposition de valeur.</p>
-	{% endcapture %}
-	{% include phase.html phase='construction'
-		description=constructionDescription
-		illustration='ban' %}
-
-	{% capture consolidationDescription %}
-		<p>Les usagers d'administrations pilotes utilisent et répandent le service.</p>
-		<p>Au niveau technique, la Startup d’État s’assure que la solution est fiable et répond à un nombre croissant de demandes. Sur le plan fonctionnel, les retours d'utilisateurs réels permettent d'améliorer le service en continu et de prendre en compte des cas spécifiques.</p>
-		<p>La Startup d'État améliore et clarifie continuellement le service rendu à l'usager.</p>
-	{% endcapture %}
-	{% include phase.html phase='consolidation'
-		description=consolidationDescription
-		illustration='labonneboite' %}
-
-	{% capture passationDescription %}
-		<p>L'équipe et l'administration porteuse considèrent que le service est viable.</p>
-		<p>L'administration porteuse prend progressivement en charge l'exploitation et l'amélioration continue du service, soit en intégrant l'équipe dans sa structure de manière pérenne, soit en formant son personnel historique à la gestion du service.</p>
-		<p>La Startup d'État a terminé sa mission, et le service est opéré et amélioré en continu par l'administration porteuse.</p>
-	{% endcapture %}
-	{% include phase.html phase='passation'
-		description=passationDescription
-		illustration='' %}
-
-	<h3 class="centered success row">
-		<a href="startups" class="primary success cta">Explorez {{ site.startup | size | minus:featuredStartupsCount }} autres Startups d'État&nbsp;&nbsp;➤</a>
-	</h3>
-</section>
-
-<section id="blog">
-	<h2 class="ui divider horizontal">Dernières annonces</h2>
-
-	<ul class="ui container">
-		{% for post in site.posts limit:5 %}
-			<li>
-				{% if post.category == 'evenement' %}
-					Retrouvez-nous le <time datetime="{{ post.start }}"></time> pour <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.location }}).
-				{% else %}
-					<a href="{{ post.url }}">{{ post.title }}</a>
-				{% endif %}
-			</li>
-		{% endfor %}
-	</ul>
-
-	<div class="ui container">
-		<h3>Recevez ces annonces et d'autres informations par mail</h3>
-		<form method="post" action="https://app.mailjet.com/widget/iframe/1O2v/14x">
-			<input required type="email" autocomplete="on" name="w-field-field-4125-18987-430683-email" placeholder="votre@email.fr">
-			<button type="submit">Abonnez-vous !</button>
-		</form>
-	</div>
-</section>
-
-<section id="incubateur">
-	<h2 class="ui divider horizontal">L'Incubateur <span class="large screen only">de services numériques</span> de la DINSIC</h2>
-
-	<div class="ui text container">
-		<p>Le <a href="https://modernisation.gouv.fr"><abbr title="Secrétariat Général pour la Modernisation de l'Action Publique">SGMAP</abbr></a> a expérimenté une nouvelle manière de construire des services publics numériques dès juin 2013. L'Incubateur de Services Numériques est devenu une mission officielle de la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr> depuis septembre 2015.</p>
-		<p>L'Incubateur du SGMAP accompagne la création de Startups d'État et diffuse ainsi la <a href="https://beta.gouv.fr/principes">culture de l'innovation numérique</a> au sein de l'action publique. Il a vocation à faire émerger un réseau d'incubateurs de Startups d'État dans toutes les administrations.</p>
-		<p>Vous souhaitez rejoindre ce mouvement ? <a href="contact.html">Contactez-nous</a> !</p>
-	</div>
+	<a href="equipe" class="primary success cta">Une communauté de {{ site.author | size }} personnes&nbsp;&nbsp;➤</a>
 </section>

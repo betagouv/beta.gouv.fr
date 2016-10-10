@@ -15,6 +15,10 @@
 	<link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/image.min.css">
 	<link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/transition.min.css">
 	<link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/icon.min.css">
+	<link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/form.min.css">
+	<link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/button.min.css">
+	<link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/input.min.css">
+	<link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/segment.min.css">
 
 	<link rel="stylesheet" type="text/css" href="{{ "css/main.css" | prepend: site.baseurl }}">
 	<link rel="stylesheet" type="text/css" href="{{ "css/startup-card.css" | prepend: site.baseurl }}">
@@ -54,22 +58,19 @@
 
 	<style type="text/css">
 		{% capture mastheadImagePath %}{{ site.baseurl }}img/{{ page.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}{% endcapture %}
-
 		#masthead, footer::before {
 			background-image: url("{{ mastheadImagePath }}.jpg");
 		}
-
 		@media (min-width: 1368px) {
 			#masthead, footer::before {
 				background-image: url("{{ mastheadImagePath }}@2x.jpg"),
-								  url("{{ mastheadImagePath }}.jpg"); /* fallback */
+									url("{{ mastheadImagePath }}.jpg"); /* fallback */
 			}
 		}
-
 		@media (min-width: 2736px) {
 			#masthead, footer::before {
 				background-image: url("{{ mastheadImagePath }}@4x.jpg"),
-								  url("{{ mastheadImagePath }}.jpg"); /* fallback */
+									url("{{ mastheadImagePath }}.jpg"); /* fallback */
 			}
 		}
 	</style>
