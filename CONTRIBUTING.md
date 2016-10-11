@@ -29,7 +29,7 @@ Pour ajouter une image au billet, créer un fichier JPEG dans `img/posts` du mê
 
 ### 2. Faire revoir le billet
 
-Avant d'ouvrir une pull request, diffuser un lien privé de prévisualisation à `membres@beta.gouv.fr`.
+Avant d'ouvrir une pull request, diffuser un lien privé de prévisualisation à `incubateur@beta.gouv.fr`.
 
 > Par exemple, créer un [Gist](https://gist.github.com) privé.
 
