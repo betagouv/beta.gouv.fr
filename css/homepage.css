@@ -22,12 +22,13 @@ body {
 }
 
 #intro-header {
-	background-color: white;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	color: white;
 	letter-spacing: .05em;
+	text-align: center; /* degradability */
+	background-color: white;
+	color: #373c42;
 }
 
 #intro-header h1 {
@@ -35,11 +36,10 @@ body {
 	padding: 0;
 }
 
-.tagline {
+#intro-header .tagline {
 	padding: 0.5em 0 1em 0;
-	font-size: 2em;
+	font-size: 200%;
 	font-weight: bold;
-	color: #373c42;
 	line-height: 1.25;
 	text-transform: uppercase;
 	border-top: 1px solid #ddd;
