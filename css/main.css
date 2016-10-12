@@ -250,3 +250,8 @@ h1.site-description {
 	  white-space: normal;
 	}
 }
+
+iframe {
+    border-width: 0px;
+    width: 100%;
+ }
