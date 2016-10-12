@@ -4,6 +4,4 @@
 - <i class="large university icon"/> [Une mission du SGMAP](http://modernisation.gouv.fr)
 - <i class="large write icon"/> [Améliorer cette page](https://github.com/sgmap/beta.gouv.fr/edit/gh-pages/{{ page.path }})
 - <i class="large mail icon"/> [Nous contacter]({{ site.baseurl }}contact)
-- <i class="placeholder"/>
 - <i class="large privacy icon"/> [Suivi d'audience et vie privée]({{ site.baseurl }}suivi)
-- <i class="placeholder"/>
