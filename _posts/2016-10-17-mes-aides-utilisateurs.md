@@ -39,9 +39,9 @@ L'usage du simulateur reflète ainsi aujourd'hui plus certainement l'activité d
 
 ![Types de logements simulés : 55% de locataires, 30% de propriétaires, 12% de personnes hébergées, 3% sans domicile.](/img/posts/2016-06-09-mes-aides-analytics/repartition-logement.png)
 
-En France, l'INSEE indique une [répartition](http://www.insee.fr/fr/themes/document.asp?ref_id=T13F072#tableaux) en 2012 de 58,2% de propriétaires, 39,1% de locataires, et 2,7% d'autres statuts. Cette répartition concerne le parc des _résidences principales_, et ne comprend donc pas les personnes sans domicile stable.
+On peut comparer les types de logements simulés dans Mes Aides à la [répartition](http://www.insee.fr/fr/themes/document.asp?ref_id=T13F072#tableaux) de l'INSEE en 2012. Cette répartition concerne le parc des _résidences principales_, et ne comprend donc pas les personnes sans domicile stable.
 
-Nous ordonnons bien dans l'application les options de type de logement pour refléter cette répartition.
+On voit bien la différence de répartition entre locataires et propriétaires. Nous ordonnons dans l'application les options de type de logement pour refléter la répartition de nos utilisateurs plutôt que celle de la population générale, afin d'accélérer leur navigation.
 
 ![Sélection du logement : locataire, propriétaire, hébergé (incluant gratuit), sans domicile.](/img/posts/2016-06-09-mes-aides-analytics/selection-type-logement.png)
 
