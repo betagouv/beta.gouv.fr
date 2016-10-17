@@ -92,3 +92,17 @@ Les données sont bien cohérentes temporellement.
 Il est important de garder à l'esprit que les données enregistrées par le simulateur sont purement déclaratives, et que les usagers sont encouragés à s'en emparer comme d'un outil de prospective, en simulant des situations futures probables. De même, de nombreux professionnels confrontés pour la première fois à cet outil font des simulations fictives.
 
 Aucune situation individuelle ne peut donc être considérée comme reflétant une situation réelle. En revanche, nous considérons que les tendances qui se dégagent de l'analyse statistique sont représentatives des usages et des usagers des Mes Aides.
+
+
+### Pour aller plus loin
+
+Une [étude précise](https://mes-droits.fr) de l'impact de Mes Aides sur le non-recours est en cours, sous l'égide du Poverty Action Lab, un laboratoire de recherche indépendant, en partenariat avec Pôle Emploi et la <abbr title="Direction Générale de la Cohésion Sociale">DGCS</abbr>.
+
+Cette étude sera basée sur une cohorte de plusieurs dizaines de milliers de demandeurs d'emploi identifiés individuellement par Pôle Emploi. Un email les informant de leur participation à une étude et leur présentant Mes Aides leur sera transmis. S'ils acceptent la participation et suivent le lien, leur parcours sur le site sera suivi individuellement, dans une base de données séparée des autres bases présentées plus haut.
+
+> Cette base est opérée par le Poverty Action Lab, n'est accessible qu'à ses agents, et sera détruite après 36 mois.
+> Vous pouvez auditer le [code de suivi](https://github.com/sgmap/mes-aides-ui/pull/288) qui transmet les données des situations à cette base.
+
+Une demande sera ensuite faite par Pôle Emploi au Registre National des Prestations Sociales, pour chacune des personnes ayant participé à l'étude, afin de déterminer si les populations ayant utilisé Mes Aides ont statistiquement obtenu plus de prestations sociales que celles ne l'ayant pas fait.
+
+Nous nous appuierons alors sur ces résultats pour [extrapoler une mesure d'impact globale](https://github.com/sgmap/beta.gouv.fr/wiki/Piloter-par-l'impact).
