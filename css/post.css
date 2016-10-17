@@ -1,3 +1,9 @@
 .vevent .summary {
 	font-weight: bold;
 }
+
+.post img {
+	margin: auto;
+	display: block;
+	max-width: 100%;
+}
