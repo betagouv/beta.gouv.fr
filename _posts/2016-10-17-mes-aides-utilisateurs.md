@@ -41,6 +41,10 @@ L'usage du simulateur et ainsi plus certainement un reflet de l'activité des m�
 
 En France, l'INSEE indique une [répartition](http://www.insee.fr/fr/themes/document.asp?ref_id=T13F072#tableaux) en 2012 de 58,2% de propriétaires, 39,1% de locataires, et 2,7% d'autres statuts. Cette répartition concerne le parc des _résidences principales_, et n'inclut donc pas les personnes sans domicile stable, ainsi qu'une certaine proportion d'étudiants domiciliés par exemple chez leurs parents et comptabilisés indépendamment pour Mes Aides.
 
+Cette inversion des ordres de priorité par rapport à la population générale se retrouve dans l'ordre de sélection des options de type de logement dans l'application.
+
+![Sélection du logement : locataire, propriétaire, hébergé, sans domicile.](/img/posts/2016-06-09-mes-aides-analytics/selection-type-logement.png)
+
 
 ### Âge
 
@@ -59,7 +63,9 @@ On obtient bien le résultat attendu, et on apprend donc que Mes Aides est large
 
 On voit que la grande majorité des demandeurs perçoit des salaires, ou un revenu de remplacement du salaire : chômage ou retraite. Ensuite seulement apparaissent les allocations (logement, familiales…), puis d'[autres ressources](/img/posts/2016-06-09-mes-aides-analytics/ressources-sans-top-2.png).
 
-![Cinq ressources les plus souvent renseignées](/img/posts/2016-06-09-mes-aides-analytics/top-5-ressources.png)
+![Les cinq ressources les plus souvent déclarées : salaire, chômage, retraite, allocation logement, allocations familiales.](/img/posts/2016-06-09-mes-aides-analytics/top-5-ressources.png)
+
+L'application propose actuellement de sélectionner les ressources d'après leur catégorie. Ces données nous orientent à penser une prochaine évolution avec une suggestion « hors catégorie » des ressources les plus fréquemment renseignées.
 
 En valeur, les revenus totaux des individus sont en grande majorité nuls. On observe un second pic aux alentours du SMIC annuel, puis une décroissance exponentielle vers les hauts revenus.
 
