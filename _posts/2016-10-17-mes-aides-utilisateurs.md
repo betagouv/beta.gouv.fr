@@ -6,39 +6,19 @@ startup: mes-aides
 Mes Aides est le plus ancien produit grand public de l'Incubateur, en production depuis le mois d'octobre 2014. Nous avons donc pu accumuler suffisamment de données statistiques sur l'usage de ce simulateur pour mener des analyses approfondies. Nous avons travaillé avec Florian Gauthier, _data scientist_ de l'[Administrateur Général des Données](https://agd.data.gouv.fr) (une autre mission du <abbr title="Secrétariat Général pour la Modernisation de l'Action Publique">SGMAP</abbr>), pour mieux comprendre les situations les plus simulées sur Mes Aides.
 
 
-## Données de simulation
-
-L'objectif était triple :
+## Objectifs
 
 - Comprendre la diffusion territoriale de Mes Aides.
 - Déterminer l'usage réel de certains choix de conception pour lesquels nous ne disposions pas de données a priori (catégorie « sans domicile stable », par exemple).
+- Orienter des décisions de pré-remplissage pour accélérer encore la saisie pour les cas les plus habituels.
 
-> Pour rappel, ces situations ne contiennent aucune donnée personnellement identifiable.
+> Pour rappel, ces situations ne contiennent aucune information nominative.
 > L'intégralité des manipulations effectuées est disponible dans un [notebook iPython](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/stats_descr.ipynb).
 
-### Nettoyage des données
 
-On retire de l'échantillon :
+## Le public de Mes Aides
 
-- Les individus de plus de 120 ans, car la probabilité qu'il s'agisse de tests est très élevée.
-- Les individus nés le 12/12/2012, car nous utilisons systématiquement cette valeur pour effectuer des tests.
-
-On vérifie la cohérence des données grâce à la répartition temporelle. On suppose que, même si tous les visiteurs arrivant sur la page d'accueil ne vont pas nécessairement faire une simulation, la fréquentation devrait être similaire entre Piwik et les simulations.
-
-![Répartition temporelle des simulations](/img/posts/2016-06-09-mes-aides-analytics/frequentation-backend.png)
-![Répartition temporelle des visites](/img/posts/2016-06-09-mes-aides-analytics/frequentation-piwik.png)
-
-Les données sont bien cohérentes temporellement.
-
-On vérifie ensuite la cohérence des situations avec la répartition socio-démographique française :
-
-![Répartition des situations professionnelle par âge](/img/posts/2016-06-09-mes-aides-analytics/repartition-age-situationpro.png)
-
-Les étudiants sont majoritairement jeunes, les retraités majoritairement vieux, l'invalidité augmente avec l'âge, les données semblent cohérentes.
-
-### Le public de Mes Aides
-
-#### Âge
+### Âge
 
 ![Répartition de l'âge des individus](/img/posts/2016-06-09-mes-aides-analytics/repartition-age.png)
 
@@ -51,15 +31,15 @@ On teste cette hypothèse en ne représentant la répartition de l'âge que pour
 
 On obtient bien le résultat attendu, et on apprend donc que Mes Aides est largement utilisé par les personnes entre 20 et 40 ans, avec une baisse d'usage avec l'âge.
 
-#### Lieu de vie
+### Lieu de vie
 
 Sans grande surprise, les communes où Mes Aides est le plus utilisé sont les communes les plus peuplées.
 
-Contrairement à des préjugés que l'on pourrait avoir, on n'observe [pas de corrélation](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/plot_CP.ipynb) significative entre un indicateur habituel de pauvreté (médiane du revenu disponible par unité de consommation) et l'usage de Mes Aides.
+Contrairement à ce qui nous a souvent été suggéré, on n'observe [pas de corrélation](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/plot_CP.ipynb) significative entre pauvreté et usage de Mes Aides.
 
-Néanmoins, on peut tout de même observer dans les arrondissements de Paris une répartition d'usage inversement proportionnelle à la richesse de la population. Il est donc probable que le choix d'un autre indicateur de pauvreté puisse montrer une corrélation.
+Cette observation est du moins valable pour un indicateur habituel de pauvreté (médiane du revenu disponible par unité de consommation). On peut tout de même observer dans les arrondissements de Paris une répartition d'usage inversement proportionnelle à la richesse de la population. Il est donc probable que le choix d'un autre indicateur de pauvreté puisse montrer une corrélation.
 
-#### Ressources
+### Ressources
 
 On voit que la grande majorité des demandeurs perçoit des salaires, ou un revenu de remplacement du salaire : chômage ou retraite. Ensuite seulement apparaissent les allocations (logement, familiales…), puis d'[autres ressources](/img/posts/2016-06-09-mes-aides-analytics/ressources-sans-top-2.png).
 
@@ -69,13 +49,43 @@ En valeur, les revenus totaux des individus sont en grande majorité nuls. On ob
 
 ![Répartition des sommes des revenus](/img/posts/2016-06-09-mes-aides-analytics/ressources.png)
 
-#### Logement
+### Logement
 
 ![Répartition des types de logements](/img/posts/2016-06-09-mes-aides-analytics/repartition-logement.png)
 
 En France, l'INSEE indique une [répartition](http://www.insee.fr/fr/themes/document.asp?ref_id=T13F072#tableaux) en 2012 de 58,2% de propriétaires, 39,1% de locataires, et 2,7% d'autres statuts. Cette répartition concerne le parc des résidences principales, et n'inclut donc pas les personnes sans domicile stable.
 
-### Limites de l'étude
 
-Il est important de garder à l'esprit que les données enregistrées par le simulateur sont purement déclaratives, et que les usagers sont encouragés à s'en emparer comme d'un outil de prospective, en simulant des situations futures probables. De même, de nombreux professionnels confrontés pour la première fois à cet outil font des simulations fictives. Aucune situation individuelle ne peut donc être considérée comme reflétant une situation réelle. En revanche, nous considérons que les tendances qui se dégagent de l'analyse statistique sont représentatives des usages et des usagers des Mes Aides.
+## Nettoyage des données
 
+Nous avons retiré de l'échantillon :
+
+- Les individus de plus de 120 ans, car la probabilité qu'il s'agisse de tests est très élevée.
+- Les individus nés le 12/12/2012, car nous utilisons systématiquement cette valeur pour effectuer des tests.
+
+
+### Tests de cohérence
+
+Nous avons également vérifié que les données enregistrées semblaient cohérentes avec les usages observés.
+
+#### Répartition temporelle
+
+On suppose que, même si tous les visiteurs arrivant sur la page d'accueil ne vont pas nécessairement faire une simulation, la fréquentation devrait être similaire entre les affichages de pages mesurés avec Piwik et les simulations enregistrées.
+
+![Répartition temporelle des simulations](/img/posts/2016-06-09-mes-aides-analytics/frequentation-backend.png)
+![Répartition temporelle des visites](/img/posts/2016-06-09-mes-aides-analytics/frequentation-piwik.png)
+
+Les données sont bien cohérentes temporellement.
+
+#### Répartition socio-démographique
+
+![Répartition des situations professionnelle par âge](/img/posts/2016-06-09-mes-aides-analytics/repartition-age-situationpro.png)
+
+Les étudiants sont majoritairement jeunes, les retraités majoritairement vieux, l'invalidité augmente avec l'âge, les données semblent cohérentes.
+
+
+## Limites de l'étude
+
+Il est important de garder à l'esprit que les données enregistrées par le simulateur sont purement déclaratives, et que les usagers sont encouragés à s'en emparer comme d'un outil de prospective, en simulant des situations futures probables. De même, de nombreux professionnels confrontés pour la première fois à cet outil font des simulations fictives.
+
+Aucune situation individuelle ne peut donc être considérée comme reflétant une situation réelle. En revanche, nous considérons que les tendances qui se dégagent de l'analyse statistique sont représentatives des usages et des usagers des Mes Aides.
