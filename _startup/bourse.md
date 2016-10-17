@@ -4,7 +4,7 @@ mission: Demander et liquider une bourse de collège en ligne.
 link: https://bourse.beta.gouv.fr
 repository: https://github.com/sgmap/bourses/
 status: consolidation
-contact: hela.ghiariani@beta.gouv.fr
+contact: contact@bourse.beta.gouv.fr
 start: 2015-03-01
 owner: SGMAP
 ---
