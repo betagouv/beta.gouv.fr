@@ -16,22 +16,9 @@ Mes Aides est le plus ancien produit grand public de l'Incubateur, en production
 > L'intégralité des manipulations effectuées est disponible dans un [notebook iPython](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/stats_descr.ipynb).
 
 
-## Le public de Mes Aides
+## Résultats
 
-### Âge
-
-![Répartition de l'âge des individus](/img/posts/2016-06-09-mes-aides-analytics/repartition-age.png)
-
-On observe deux pics : l'un à la naissance, l'autre autour de la vingtaine.
-On peut supposer que le pic à la naissance est lié à l'âge des enfants déclarés par les demandeurs, et le pic en début de vingtaine d'années est attribuable aux demandeurs eux-mêmes. Cet âge pour les demandeurs est d'ailleurs cohérent avec l'âge de leurs enfants.
-
-On teste cette hypothèse en ne représentant la répartition de l'âge que pour les demandeurs.
-
-![Répartition de l'âge des demandeurs](/img/posts/2016-06-09-mes-aides-analytics/repartition-age-demandeurs.png)
-
-On obtient bien le résultat attendu, et on apprend donc que Mes Aides est largement utilisé par les personnes entre 20 et 40 ans, avec une baisse d'usage avec l'âge.
-
-### Lieu de vie
+### Répartition géographique
 
 Sans grande surprise, les communes où Mes Aides est le plus utilisé sont les communes les plus peuplées (en nuances de violet sur la carte ci-dessous, plus foncé signifie plus d'usage).
 
@@ -47,6 +34,27 @@ Nous faisons l'hypothèse que cette répartition spécifique de l'usage est lié
 
 L'usage du simulateur et ainsi plus certainement un reflet de l'activité des médiateurs de l'action sociale dans les zones qui s'en sont largement emparé, et donc seulement indirectement de la richesse des habitants.
 
+
+### Types de logement
+
+![Types de logements simulés : 55% de locataires, 30% de propriétaires, 12% de personnes hébergées, 3% sans domicile.](/img/posts/2016-06-09-mes-aides-analytics/repartition-logement.png)
+
+En France, l'INSEE indique une [répartition](http://www.insee.fr/fr/themes/document.asp?ref_id=T13F072#tableaux) en 2012 de 58,2% de propriétaires, 39,1% de locataires, et 2,7% d'autres statuts. Cette répartition concerne le parc des _résidences principales_, et n'inclut donc pas les personnes sans domicile stable, ainsi qu'une certaine proportion d'étudiants domiciliés par exemple chez leurs parents et comptabilisés indépendamment pour Mes Aides.
+
+
+### Âge
+
+![Répartition de l'âge des individus](/img/posts/2016-06-09-mes-aides-analytics/repartition-age.png)
+
+On observe deux pics : l'un à la naissance, l'autre autour de la vingtaine.
+On peut supposer que le pic à la naissance est lié à l'âge des enfants déclarés par les demandeurs, et le pic en début de vingtaine d'années est attribuable aux demandeurs eux-mêmes. Cet âge pour les demandeurs est d'ailleurs cohérent avec l'âge de leurs enfants.
+
+On teste cette hypothèse en ne représentant la répartition de l'âge que pour les demandeurs.
+
+![Répartition de l'âge des demandeurs](/img/posts/2016-06-09-mes-aides-analytics/repartition-age-demandeurs.png)
+
+On obtient bien le résultat attendu, et on apprend donc que Mes Aides est largement utilisé par les personnes entre 20 et 40 ans, avec une baisse d'usage avec l'âge.
+
 ### Ressources
 
 On voit que la grande majorité des demandeurs perçoit des salaires, ou un revenu de remplacement du salaire : chômage ou retraite. Ensuite seulement apparaissent les allocations (logement, familiales…), puis d'[autres ressources](/img/posts/2016-06-09-mes-aides-analytics/ressources-sans-top-2.png).
@@ -57,14 +65,8 @@ En valeur, les revenus totaux des individus sont en grande majorité nuls. On ob
 
 ![Répartition des sommes des revenus](/img/posts/2016-06-09-mes-aides-analytics/ressources.png)
 
-### Logement
 
-![Répartition des types de logements](/img/posts/2016-06-09-mes-aides-analytics/repartition-logement.png)
-
-En France, l'INSEE indique une [répartition](http://www.insee.fr/fr/themes/document.asp?ref_id=T13F072#tableaux) en 2012 de 58,2% de propriétaires, 39,1% de locataires, et 2,7% d'autres statuts. Cette répartition concerne le parc des résidences principales, et n'inclut donc pas les personnes sans domicile stable.
-
-
-## Nettoyage des données
+## Méthodologie
 
 Nous avons retiré de l'échantillon :
 
@@ -92,7 +94,7 @@ Les données sont bien cohérentes temporellement.
 Les étudiants sont majoritairement jeunes, les retraités majoritairement vieux, l'invalidité augmente avec l'âge, les données semblent cohérentes.
 
 
-## Limites de l'étude
+### Limites de l'étude
 
 Il est important de garder à l'esprit que les données enregistrées par le simulateur sont purement déclaratives, et que les usagers sont encouragés à s'en emparer comme d'un outil de prospective, en simulant des situations futures probables. De même, de nombreux professionnels confrontés pour la première fois à cet outil font des simulations fictives.
 
