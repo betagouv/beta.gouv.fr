@@ -24,15 +24,15 @@ Sans grande surprise, les communes où Mes Aides est le plus utilisé sont les c
 
 ![La densité de population détermine la fréquence d'usage.](/img/posts/2016-06-09-mes-aides-analytics/repartition-usage-villes.jpg)
 
-Contrairement à ce qui est souvent imaginé, on n'observe [pas de corrélation](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/plot_CP.ipynb) significative entre pauvreté et usage de Mes Aides, du moins valable pour un indicateur habituel de pauvreté (médiane du revenu disponible par unité de consommation).
+Contrairement à ce qui est souvent imaginé, on n'observe [pas de corrélation](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/plot_CP.ipynb) significative entre pauvreté et usage de Mes Aides, du moins pour un indicateur habituel de pauvreté (médiane du revenu disponible par unité de consommation).
 
-Une exception à cette règle : la région Île-de-France.
+Une exception à ce constat : la région Île-de-France.
 
 ![La richesse semble influer sur l'usage en Île-de-France, à l'exception de Versailles.](/img/posts/2016-06-09-mes-aides-analytics/repartition-usage-idf.jpg)
 
-Nous faisons l'hypothèse que cette répartition spécifique de l'usage est liée à nos partenariats avec le <abbr title="Centre d'Action Sociale de la Ville de Paris">CASVP</abbr>, le département du 93, et à l'usage volontariste que fait le <abbr title="Centre Communal d'Action Sociale">CCAS</abbr> de Versailles du simulateur.
+Nous faisons l'hypothèse que cette répartition spécifique de l'usage est liée à nos partenariats avec notamment le <abbr title="Centre d'Action Sociale de la Ville de Paris">CASVP</abbr> et le département du 93. Cela est également cohérent avec l'usage volontariste que fait le <abbr title="Centre Communal d'Action Sociale">CCAS</abbr> de Versailles du simulateur, alors même que cette zone n'est pas connue pour avoir une population précaire comparable aux autres communes dont la fréquence d'usage est comparable.
 
-L'usage du simulateur et ainsi plus certainement un reflet de l'activité des médiateurs de l'action sociale dans les zones qui s'en sont largement emparé.
+L'usage du simulateur reflète ainsi aujourd'hui plus certainement l'activité des médiateurs de l'action sociale que directement des besoins de la population générale. Nous sommes heureux et fiers de voir que cet outil remplit sa promesse de servir aussi bien le grand public que les professionnel·le·s.
 
 
 ### Types de logement
