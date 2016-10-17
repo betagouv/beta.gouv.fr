@@ -33,11 +33,19 @@ On obtient bien le résultat attendu, et on apprend donc que Mes Aides est large
 
 ### Lieu de vie
 
-Sans grande surprise, les communes où Mes Aides est le plus utilisé sont les communes les plus peuplées.
+Sans grande surprise, les communes où Mes Aides est le plus utilisé sont les communes les plus peuplées (en nuances de violet sur la carte ci-dessous, plus foncé signifie plus d'usage).
 
-Contrairement à ce qui nous a souvent été suggéré, on n'observe [pas de corrélation](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/plot_CP.ipynb) significative entre pauvreté et usage de Mes Aides.
+![La densité de population détermine la fréquence d'usage.](/img/posts/2016-06-09-mes-aides-analytics/repartition-usage-villes.jpg)
 
-Cette observation est du moins valable pour un indicateur habituel de pauvreté (médiane du revenu disponible par unité de consommation). On peut tout de même observer dans les arrondissements de Paris une répartition d'usage inversement proportionnelle à la richesse de la population. Il est donc probable que le choix d'un autre indicateur de pauvreté puisse montrer une corrélation.
+Contrairement à ce qui est souvent imaginé, on n'observe [pas de corrélation](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/plot_CP.ipynb) significative entre pauvreté et usage de Mes Aides, du moins valable pour un indicateur habituel de pauvreté (médiane du revenu disponible par unité de consommation).
+
+Une exception à cette règle : la région Île-de-France.
+
+![La richesse semble influer sur l'usage en Île-de-France, à l'exception de Versailles.](/img/posts/2016-06-09-mes-aides-analytics/repartition-usage-idf.jpg)
+
+Nous faisons l'hypothèse que cette répartition spécifique de l'usage est lié à nos partenariats avec le <abbr title="Centre d'Action Sociale de la Ville de Paris">CASVP</abbr>, le département du 93, et à l'usage que fait le <abbr title="Centre Communal d'Action Sociale">CCAS</abbr> de Versailles du simulateur.
+
+L'usage du simulateur et ainsi plus certainement un reflet de l'activité des médiateurs de l'action sociale dans les zones qui s'en sont largement emparé, et donc seulement indirectement de la richesse des habitants.
 
 ### Ressources
 
