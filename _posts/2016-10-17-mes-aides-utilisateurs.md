@@ -71,6 +71,12 @@ En valeur, les revenus totaux des individus sont en grande majorité nuls. On ob
 
 ![Répartition des sommes des revenus](/img/posts/2016-06-09-mes-aides-analytics/ressources.png)
 
+Bien évidemment, plus une personne est en situation de précarité, et plus elle a intérêt à faire un point sur les aides sociales dont elle peut bénéficier.
+
+Cependant, toutes les aides ne sont pas conditionnées par les ressources (les allocations familiales, par exemple, sont modulées depuis 2016, mais non conditionnées). Une des origines du non-recours est justement de croire à tort qu'on n'est pas concerné par la solidarité nationale.
+
+Alors, vous aussi, [calculez vos droits](https://mes-aides.gouv.fr) dès maintenant !
+
 
 ## Méthodologie
 
