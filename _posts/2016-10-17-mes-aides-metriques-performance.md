@@ -10,11 +10,15 @@ Mes Aides est le plus ancien produit grand public de l'Incubateur, en production
 
 Nous utilisons [Piwik](https://piwik.org), un outil libre de suivi d'audience du même type que Google Analytics. Ces outils permettent de déterminer entre autres le nombre de visites et les contenus les plus populaires. Les données fournies peuvent aider à déterminer la clarté des messages envoyés aux utilisateurs, à travers notamment des [métriques pirates](http://www.expectedbehavior.com/experiments/pirate_metrics/).
 
+[Suivons l'audience](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=yesterday#?module=Actions&action=menuGetPageUrls&idSite=9&period=day&date=yesterday&popover=RowAction$3ARowEvolution$3AActions.getPageUrls$3A$257B$2522action$2522$253A$2522getMultiRowEvolutionPopover$2522$252C$2522column$2522$253A$2522nb_visits$2522$257D$3Afoyer$20$3E$20$40$252Fdemandeur$2C$40$252Findex$2Cfoyer$20$3E$20$40$252Fresultat) de trois pages spécifiques : la page d'accueil, la page de début de simulation, et la page de résultats, et voyons comment interpréter ces données.
+
+![Fréquentation des pages d'accueil, simulation et résultats de Mes Aides.]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-performance/aa-30j.png)
+
 ### Taux d'acquisition
 
 Le [taux d'acquisition](http://www.expectedbehavior.com/experiments/pirate_metrics/) permet d'évaluer si votre message engage bien les visiteurs, et si le flux entrant est bien qualifié. Plus il est élevé et mieux le message est calibré à son public.
 
-Il s'agit du ratio d'interactions débutées par rapport au nombre d'arrivées sur la page d'accueil.
+Pour Mes Aides, il s'agit du ratio de simulations débutées par rapport au nombre d'arrivées sur la page d'accueil.
 
 > Attention, cette métrique ne permet pas de déterminer si votre proposition de valeur est claire. Une proposition de valeur claire peut justement éviter à des personnes qui ne se sentent pas concernées de commencer une interaction qui ne leur apportera pas de valeur. Ce taux ne doit pas être simplement maximisé : si on dit « cliquez ici pour gagner 1 000 € », on aura peut-être un fort taux d'acquisition, mais beaucoup de déception. Ou sinon, envoyez-nous l'adresse de votre produit  ;)
 
@@ -26,6 +30,14 @@ Le [taux d'activation](http://www.expectedbehavior.com/experiments/pirate_metric
 Pour Mes Aides, il s'agit du ratio de simulations terminées par rapport aux simulations démarrées.
 
 > Attention, cette métrique ne permet pas d'identifier précisément les défauts. Il s'agit simplement d'un _smell_, pas d'un outil de diagnostic. Pour comprendre les difficultés, il faut déterminer les pages qui sont les plus source d'abandon, puis mener des tests utilisateurs pour en identifier les causes et proposer des correctifs.
+
+### Représentation graphique
+
+En prenant un jour particulier dans le suivi d'audience présenté plus haut, voilà comment lire graphiquement ces deux taux.
+
+![Acquisition = ratio arrivée/démarrage, activation = ratio arrivée/fin]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-performance/aa-illustration.png)
+
+Un taux d'activation de 57 % est excellent pour un produit web. En fluidifiant encore plus l'entrée des données dans la simulation, nous pourrions probablement encore améliorer ce taux. Mais comment déterminer où focaliser notre attention ?
 
 
 ### Temps nécessaire pour effectuer une simulation
