@@ -22,13 +22,13 @@ Mes Aides est le plus ancien produit grand public de l'Incubateur, en production
 
 Sans grande surprise, les communes où Mes Aides est le plus utilisé sont les communes les plus peuplées (en nuances de violet sur la carte ci-dessous, plus foncé signifie plus d'usage).
 
-![La densité de population détermine la fréquence d'usage.](/img/posts/2016-06-09-mes-aides-analytics/repartition-usage-villes.jpg)
+![La densité de population détermine la fréquence d'usage.](/img/posts/2016-10-17-mes-aides-utilisateurs/repartition-usage-villes.jpg)
 
 Contrairement à ce qui est souvent imaginé, on n'observe [pas de corrélation](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/plot_CP.ipynb) significative entre pauvreté et usage de Mes Aides, du moins pour un indicateur habituel de pauvreté (médiane du revenu disponible par unité de consommation).
 
 Une exception à ce constat : la région Île-de-France.
 
-![La richesse semble influer sur l'usage en Île-de-France, à l'exception de Versailles.](/img/posts/2016-06-09-mes-aides-analytics/repartition-usage-idf.jpg)
+![La richesse semble influer sur l'usage en Île-de-France, à l'exception de Versailles.](/img/posts/2016-10-17-mes-aides-utilisateurs/repartition-usage-idf.jpg)
 
 Nous faisons l'hypothèse que cette répartition spécifique de l'usage est liée à nos partenariats avec notamment le <abbr title="Centre d'Action Sociale de la Ville de Paris">CASVP</abbr> et le département du 93. Cela est également cohérent avec l'usage volontariste que fait le <abbr title="Centre Communal d'Action Sociale">CCAS</abbr> de Versailles du simulateur, alors même que cette zone n'est pas connue pour avoir une population précaire comparable aux autres communes dont la fréquence d'usage est comparable.
 
@@ -37,26 +37,26 @@ L'usage du simulateur reflète ainsi aujourd'hui plus certainement l'activité d
 
 ### Types de logement
 
-![Types de logements simulés : 55% de locataires, 30% de propriétaires, 12% de personnes hébergées, 3% sans domicile.](/img/posts/2016-06-09-mes-aides-analytics/repartition-logement.png)
+![Types de logements simulés : 55% de locataires, 30% de propriétaires, 12% de personnes hébergées, 3% sans domicile.](/img/posts/2016-10-17-mes-aides-utilisateurs/repartition-logement.png)
 
 On peut comparer les types de logements simulés dans Mes Aides à la [répartition](http://www.insee.fr/fr/themes/document.asp?ref_id=T13F072#tableaux) de l'INSEE en 2012. Cette répartition concerne le parc des _résidences principales_, et ne comprend donc pas les personnes sans domicile stable.
 
 On voit bien la différence de répartition entre locataires et propriétaires. Nous ordonnons dans l'application les options de type de logement pour refléter la répartition de nos utilisateurs plutôt que celle de la population générale, afin d'accélérer leur navigation.
 
-![Sélection du logement : locataire, propriétaire, hébergé (incluant gratuit), sans domicile.](/img/posts/2016-06-09-mes-aides-analytics/selection-type-logement.png)
+![Sélection du logement : locataire, propriétaire, hébergé (incluant gratuit), sans domicile.](/img/posts/2016-10-17-mes-aides-utilisateurs/selection-type-logement.png)
 
 
 ### Ressources
 
-La grande majorité des demandeurs perçoit des salaires, ou un revenu de remplacement du salaire : chômage ou retraite. Ensuite seulement apparaissent les allocations (logement, familiales…), puis d'[autres ressources](/img/posts/2016-06-09-mes-aides-analytics/ressources-sans-top-2.png).
+La grande majorité des demandeurs perçoit des salaires, ou un revenu de remplacement du salaire : chômage ou retraite. Ensuite seulement apparaissent les allocations (logement, familiales…), puis d'[autres ressources](/img/posts/2016-10-17-mes-aides-utilisateurs/ressources-sans-top-2.png).
 
-![Les cinq ressources les plus souvent déclarées : salaire, chômage, retraite, allocation logement, allocations familiales.](/img/posts/2016-06-09-mes-aides-analytics/top-5-ressources.png)
+![Les cinq ressources les plus souvent déclarées : salaire, chômage, retraite, allocation logement, allocations familiales.](/img/posts/2016-10-17-mes-aides-utilisateurs/top-5-ressources.png)
 
 L'application propose actuellement de sélectionner les ressources d'après leur catégorie. Ces données nous orientent à penser une prochaine évolution avec une suggestion « hors catégorie » des ressources les plus fréquemment renseignées.
 
 Les revenus totaux sont en grande majorité nuls dans les situations simulées. On observe un second pic aux alentours du SMIC annuel, puis une décroissance exponentielle vers les hauts revenus.
 
-![Répartition des sommes des revenus](/img/posts/2016-06-09-mes-aides-analytics/ressources.png)
+![Répartition des sommes des revenus](/img/posts/2016-10-17-mes-aides-utilisateurs/ressources.png)
 
 Bien évidemment, plus une personne est en situation de précarité, et plus elle a intérêt à faire un point sur les aides sociales dont elle peut bénéficier.
 
@@ -81,8 +81,8 @@ Nous avons également vérifié que les données enregistrées semblaient cohér
 
 On suppose que, même si tous les visiteurs arrivant sur la page d'accueil ne vont pas nécessairement faire une simulation, la fréquentation devrait être similaire entre les affichages de pages mesurés avec Piwik et les simulations enregistrées.
 
-![Répartition temporelle des simulations](/img/posts/2016-06-09-mes-aides-analytics/frequentation-backend.png)
-![Répartition temporelle des visites](/img/posts/2016-06-09-mes-aides-analytics/frequentation-piwik.png)
+![Répartition temporelle des simulations](/img/posts/2016-10-17-mes-aides-utilisateurs/frequentation-backend.png)
+![Répartition temporelle des visites](/img/posts/2016-10-17-mes-aides-utilisateurs/frequentation-piwik.png)
 
 Les données sont bien cohérentes temporellement.
 
