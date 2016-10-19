@@ -12,7 +12,7 @@ Nous utilisons [Piwik](https://piwik.org), un outil libre de suivi d'audience du
 
 [Suivons l'audience](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=yesterday#?module=Actions&action=menuGetPageUrls&idSite=9&period=day&date=yesterday&popover=RowAction$3ARowEvolution$3AActions.getPageUrls$3A$257B$2522action$2522$253A$2522getMultiRowEvolutionPopover$2522$252C$2522column$2522$253A$2522nb_visits$2522$257D$3Afoyer$20$3E$20$40$252Fdemandeur$2C$40$252Findex$2Cfoyer$20$3E$20$40$252Fresultat) de trois pages spécifiques : la page d'accueil, la page de début de simulation, et la page de résultats, et voyons comment interpréter ces données.
 
-![Fréquentation des pages d'accueil, simulation et résultats de Mes Aides.]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-performance/aa-30j.png)
+![Fréquentation des pages d'accueil, simulation et résultats de Mes Aides.]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-performance/audience-pages.png)
 
 ### Taux d'acquisition
 
@@ -35,7 +35,7 @@ Pour Mes Aides, il s'agit du ratio de simulations terminées par rapport aux sim
 
 En prenant un jour particulier dans le suivi d'audience présenté plus haut, voilà comment lire graphiquement ces deux taux.
 
-![Acquisition = ratio arrivée/démarrage, activation = ratio arrivée/fin]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-performance/aa-illustration.png)
+![Acquisition = ratio arrivée/démarrage, activation = ratio arrivée/fin]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-performance/acquisition-activation.png)
 
 Un taux d'activation de 57 % est excellent pour un produit web. En fluidifiant encore plus l'entrée des données dans la simulation, nous pourrions probablement encore améliorer ce taux. Mais comment déterminer où focaliser notre attention ?
 
