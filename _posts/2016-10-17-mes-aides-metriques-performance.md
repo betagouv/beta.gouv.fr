@@ -14,6 +14,11 @@ Nous utilisons [Piwik](https://piwik.org), un outil libre de suivi d'audience du
 
 ![Fréquentation des pages d'accueil, simulation et résultats de Mes Aides.]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-performance/audience-pages.png)
 
+En prenant un jour particulier dans le suivi d'audience ci-dessus, voilà comment lire graphiquement deux valeurs chargées de sens.
+
+![Acquisition = ratio arrivée/démarrage, activation = ratio arrivée/fin]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-performance/acquisition-activation.png)
+
+
 ### Taux d'acquisition
 
 Le [taux d'acquisition](http://www.expectedbehavior.com/experiments/pirate_metrics/) permet d'évaluer si votre message engage bien les visiteurs, et si le flux entrant est bien qualifié. Plus il est élevé et mieux le message est calibré à son public.
@@ -31,11 +36,8 @@ Pour Mes Aides, il s'agit du ratio de simulations terminées par rapport aux sim
 
 > Attention, cette métrique ne permet pas d'identifier précisément les défauts. Il s'agit simplement d'un _smell_, pas d'un outil de diagnostic. Pour comprendre les difficultés, il faut déterminer les pages qui sont les plus source d'abandon, puis mener des tests utilisateurs pour en identifier les causes et proposer des correctifs.
 
-### Représentation graphique
 
-En prenant un jour particulier dans le suivi d'audience présenté plus haut, voilà comment lire graphiquement ces deux taux.
 
-![Acquisition = ratio arrivée/démarrage, activation = ratio arrivée/fin]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-performance/acquisition-activation.png)
 
 Un taux d'activation de 57 % est excellent pour un produit web. En fluidifiant encore plus l'entrée des données dans la simulation, nous pourrions probablement encore améliorer ce taux. Mais comment déterminer où focaliser notre attention ?
 
