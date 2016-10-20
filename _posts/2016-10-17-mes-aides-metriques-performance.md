@@ -6,7 +6,7 @@ startup: mes-aides
 Mes Aides est le plus ancien produit grand public de l'Incubateur, en production depuis le mois d'octobre 2014. Nous avons donc pu accumuler suffisamment de données statistiques sur l'usage de ce simulateur pour mener des analyses approfondies. Voici quelques-unes des métriques que nous suivons, et quelques conseils pour reproduire cette approche dans vos propres produits.
 
 
-## Données d'usage
+## Source des données
 
 Nous utilisons [Piwik](https://piwik.org), un outil libre de suivi d'audience du même type que Google Analytics. Ces outils permettent de déterminer entre autres le nombre de visites et les contenus les plus populaires. Les données fournies peuvent aider à déterminer la clarté des messages envoyés aux utilisateurs, à travers notamment des [métriques pirates](http://www.expectedbehavior.com/experiments/pirate_metrics/).
 
@@ -19,7 +19,7 @@ En prenant un jour particulier dans le suivi d'audience ci-dessus, voilà commen
 ![Acquisition = ratio arrivée/démarrage, activation = ratio arrivée/fin]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-performance/acquisition-activation.png)
 
 
-### Taux d'acquisition
+## Taux d'acquisition
 
 Le [taux d'acquisition](http://www.expectedbehavior.com/experiments/pirate_metrics/) permet d'évaluer si votre message engage bien les visiteurs, et si le flux entrant est bien qualifié. Plus il est élevé et mieux le message est calibré à son public.
 
@@ -28,7 +28,7 @@ Pour Mes Aides, il s'agit du ratio de simulations débutées par rapport au nomb
 > Attention, cette métrique ne permet pas de déterminer si votre proposition de valeur est claire. Une proposition de valeur claire peut justement éviter à des personnes qui ne se sentent pas concernées de commencer une interaction qui ne leur apportera pas de valeur. Ce taux ne doit pas être simplement maximisé : si on dit « cliquez ici pour gagner 1 000 € », on aura peut-être un fort taux d'acquisition, mais beaucoup de déception. Ou sinon, envoyez-nous l'adresse de votre produit  ;)
 
 
-### Taux d'activation
+## Taux d'activation
 
 Le [taux d'activation](http://www.expectedbehavior.com/experiments/pirate_metrics/) permet d'estimer la qualité de l'interaction avec le système, et l'adéquation de l'interaction proposée avec la proposition de valeur initiale.
 
@@ -39,11 +39,11 @@ Pour Mes Aides, il s'agit du ratio de simulations terminées par rapport aux sim
 Un taux d'activation de 57 % est excellent pour un produit web. En fluidifiant encore plus l'entrée des données dans la simulation, nous pourrions probablement encore améliorer ce taux. Mais comment déterminer où focaliser notre attention ?
 
 
-### _Conversion funnel_
+## Tunnel de conversion
 
 La conjonction de deux métriques est pertinente pour évaluer la difficulté que les usagers rencontrent face à une interaction spécifique : le temps passé et le taux de sortie. Plus un usager passe de temps sur une étape plus elle est complexe, et cela devrait se retrouver sur le pourcentage d'usagers qui abandonnent l'interaction en cours de route.
 
-Si nous générons un [rapport](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=yesterday#?module=Actions&action=menuGetPageUrls&idSite=9&period=day&date=yesterday) sur ces métriques et nous focalisons uniquement sur les pages du parcours de simulation (par opposition aux pages de contenu telles qu'à propos, FAQ…), nous pouvons analyser les marges d'amélioration de notre _[conversion funnel](https://en.wikipedia.org/wiki/Conversion_funnel)_.
+Si nous générons un [rapport](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=yesterday#?module=Actions&action=menuGetPageUrls&idSite=9&period=day&date=yesterday) sur ces métriques et nous focalisons uniquement sur les pages du parcours de simulation (par opposition aux pages de contenu telles qu'à propos, FAQ…), nous pouvons analyser les marges d'amélioration de notre [tunnel de conversion](https://en.wikipedia.org/wiki/Conversion_funnel).
 
 > Bien que Mes Aides soit une application « en une seule page » (<abbr title="Single page application">SPA</abbr>), nous [modifions l'adresse du navigateur](https://developer.mozilla.org/fr/docs/Web/Guide/DOM/Manipuler_historique_du_navigateur) à chaque étape d'une simuation. L'outil de suivi d'audience s'adapte tout aussi bien à ce fonctionnement.
 
@@ -74,9 +74,8 @@ Dans notre cas, les marges de progression sont les plus grandes sur la page d'en
 
 Le compte du nombre de vues est également utile dans cette priorisation. Il serait ainsi plus pertinent de se focaliser sur l'amélioration de la première page de simulation (« Demandeur ») que sur la page Patrimoine, même si ses taux de sortie et temps passé sont plus faibles : avec 16 fois plus de passage, l'impact sera bien plus fort.
 
-Contrairement à un site commercial qui serait rémunéré par un affichage de publicité, nous n'avons pas vocation à maximiser le temps passé par nos usagers sur nos produits. Au contraire, plus l'interaction peut être rapide et indolore, mieux c'est !
 
-### Objectif
+## Temps passé total
 
 Cette métrique est particulièrement importante dans le cas de Mes Aides, car il s'agit de notre proposition de valeur de base : augmenter fortement le retour sur investissement d'une simulation de droits, pour augmenter leur découvrabilité et donc le recours. Nous maximisons donc le nombre de prestations calculées en une seule simulation, et nous minimisons le temps nécessaire pour réaliser cette simulation.
 
