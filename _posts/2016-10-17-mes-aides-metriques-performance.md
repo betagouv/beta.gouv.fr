@@ -36,15 +36,47 @@ Pour Mes Aides, il s'agit du ratio de simulations terminées par rapport aux sim
 
 > Attention, cette métrique ne permet pas d'identifier précisément les défauts. Il s'agit simplement d'un _smell_, pas d'un outil de diagnostic. Pour comprendre les difficultés, il faut déterminer les pages qui sont les plus source d'abandon, puis mener des tests utilisateurs pour en identifier les causes et proposer des correctifs.
 
-
-
-
 Un taux d'activation de 57 % est excellent pour un produit web. En fluidifiant encore plus l'entrée des données dans la simulation, nous pourrions probablement encore améliorer ce taux. Mais comment déterminer où focaliser notre attention ?
 
 
-### Temps nécessaire pour effectuer une simulation
+### _Conversion funnel_
+
+La conjonction de deux métriques est pertinente pour évaluer la difficulté que les usagers rencontrent face à une interaction spécifique : le temps passé et le taux de sortie. Plus un usager passe de temps sur une étape plus elle est complexe, et cela devrait se retrouver sur le pourcentage d'usagers qui abandonnent l'interaction en cours de route.
+
+Si nous générons un [rapport](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=yesterday#?module=Actions&action=menuGetPageUrls&idSite=9&period=day&date=yesterday) sur ces métriques et nous focalisons uniquement sur les pages du parcours de simulation (par opposition aux pages de contenu telles qu'à propos, FAQ…), nous pouvons analyser les marges d'amélioration de notre _[conversion funnel](https://en.wikipedia.org/wiki/Conversion_funnel)_.
+
+> Bien que Mes Aides soit une application « en une seule page » (<abbr title="Single page application">SPA</abbr>), nous [modifions l'adresse du navigateur](https://developer.mozilla.org/fr/docs/Web/Guide/DOM/Manipuler_historique_du_navigateur) à chaque étape d'une simuation. L'outil de suivi d'audience s'adapte tout aussi bien à ce fonctionnement.
+
+
+Page | Temps passé | Taux de sortie | Vues | Étape
+----|-------------|----------------|------|------
+Ressources : Demandeur : Montants | 1min 27s | 12 % | 623 | 6
+Revenus n-2 | 40s | 12 % | 229 | 11
+Patrimoine | 41s | 10 % | 52 | 13
+Demandeur | 36s | 8 % | 833 | 1
+Ressources : Individu 2 : Montants | 40s | 7 % | 157 | 8
+Ressources : Demandeur : Types | 35s | 5 % | 688 | 5
+Pensions alimentaires | 6s | 5 % | 593 | 10
+Ressources : Individu 2 : Types | 12s | 4 % | 247 | 7
+Enfants | 18s | 3 % | 735 | 2
+Ressources : Question enfants | 5s | 2 % | 175 | 9
+Logement | 39s | 2 % | 699 | 4
+Conjoint | 15s | 2 % | 709 | 3
+RFR | 37s | 0 % | 22 | 12
+
+> Note : les déclarations de ressource des individus après le second n'ont pas été inclues par souci de lisibilité et de représentativité, car très peu de situations en comprennent.
+
+Pas de surprise : les pages qui font le plus fuir les usagers sont celles où ils doivent remplir des montants précis, données qui ne sont peut-être pas immédiatement accessibles. La pire étant, au vu du temps passé, la première rencontre avec le remplissage des montants des ressources perçues.
+
+**Une analyse quantitative de ce type ne permet pas de suggérer des solutions**, mais elle peut aider l'équipe à valider (ou invalider) ses intuitions, et à focaliser ses efforts là où ils auront le plus d'impact.
+
+Dans notre cas, les marges de progression sont les plus grandes sur la page d'entrée des montants de ressources. Nous nous en doutions, bien évidemment, mais nous avons maintenant une performance de référence par rapport à laquelle mesurer l'efficacité des interfaces alternatives que nous pourrons concevoir.
+
+Le compte du nombre de vues est également utile dans cette priorisation. Il serait ainsi plus pertinent de se focaliser sur l'amélioration de la première page de simulation (« Demandeur ») que sur la page Patrimoine, même si ses taux de sortie et temps passé sont plus faibles : avec 16 fois plus de passage, l'impact sera bien plus fort.
 
 Contrairement à un site commercial qui serait rémunéré par un affichage de publicité, nous n'avons pas vocation à maximiser le temps passé par nos usagers sur nos produits. Au contraire, plus l'interaction peut être rapide et indolore, mieux c'est !
+
+### Objectif
 
 Cette métrique est particulièrement importante dans le cas de Mes Aides, car il s'agit de notre proposition de valeur de base : augmenter fortement le retour sur investissement d'une simulation de droits, pour augmenter leur découvrabilité et donc le recours. Nous maximisons donc le nombre de prestations calculées en une seule simulation, et nous minimisons le temps nécessaire pour réaliser cette simulation.
 
