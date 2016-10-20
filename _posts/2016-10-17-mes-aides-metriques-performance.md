@@ -77,9 +77,17 @@ Le compte du nombre de vues est également utile dans cette priorisation. Il ser
 
 ## Temps passé total
 
-Cette métrique est particulièrement importante dans le cas de Mes Aides, car il s'agit de notre proposition de valeur de base : augmenter fortement le retour sur investissement d'une simulation de droits, pour augmenter leur découvrabilité et donc le recours. Nous maximisons donc le nombre de prestations calculées en une seule simulation, et nous minimisons le temps nécessaire pour réaliser cette simulation.
+Les métriques pirates et la notion de tunnel de conversion sont des pratiques habituelles de e-commerce. J'espère avoir pu vous montrer comment ces concepts peuvent être appliqués dans des services non commerciaux.
 
-Pour caractériser correctement cette durée, nous suivons la médiane et le 95ème percentile des simulations terminées.
+Pourtant, si vous êtes familier·e avec les métriques pirates, vous avez certainement remarqué que je n'ai pas parlé de _rétention_, par exemple. C'est là la limite de ces modèles : contrairement à un site commercial qui serait rémunéré par l'affichage de publicités, nous ne valorisons pas le temps passé par nos usagers sur nos produits. Au contraire, plus l'interaction est rapide et indolore, mieux c'est !
+
+Nous aussi, nous suivons le [temps total](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=yesterday&segment=visitConvertedGoalId%3D%3D1%3Bactions%3E%3D5%3Bactions%3C%3D25#?module=VisitFrequency&action=index&idSite=9&period=day&date=yesterday&segment=visitConvertedGoalId%3D%3D1%3Bactions%3E%3D5%3Bactions%3C%3D25) passé sur Mes Aides… mais en espérant le minimiser !
+
+Pour cela, il faut définir le segment (le sous-ensemble) des visiteurs qui ne font qu'une seule simulation. Nous approximons cette définition en ne considérant que les visiteurs qui ont vu la page de début de simulation et la page de résultats, et qui ont visité au moins 5 pages et au plus 25 (pour ne pas prendre en compte la durée des simulations effectuées en faisant varier les paramètres d'une situation initiale).
+
+![31% des visites prennent 4 à 7 minutes, 58% moins de 7 minutes]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-performance/repartition-temps-total.png)
+
+Pour caractériser correctement cette durée, nous suivons la médiane et le 95ème percentile des simulations terminées. Cela signifie donc qu'aujourd'hui (et de manière stable depuis plusieurs mois), **la moitié des usagers évaluent leurs droits à plus d'une vingtaine de prestations sociales en moins de 7 minutes**, et 95%, ce qui recouvre l'immense majorité des situations, même complexes, en moins de 30 minutes.
 
 
 ## Données de contact
