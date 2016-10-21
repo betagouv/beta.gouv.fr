@@ -1,5 +1,5 @@
 ---
-title: Métriques de performance
+title: Métriques pirates et tunnels de conversion au service de l'intérêt général
 startup: mes-aides
 ---
 
@@ -12,11 +12,11 @@ Nous utilisons [Piwik](https://piwik.org), un outil libre de suivi d'audience du
 
 [Suivons l'audience](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=yesterday#?module=Actions&action=menuGetPageUrls&idSite=9&period=day&date=yesterday&popover=RowAction$3ARowEvolution$3AActions.getPageUrls$3A$257B$2522action$2522$253A$2522getMultiRowEvolutionPopover$2522$252C$2522column$2522$253A$2522nb_visits$2522$257D$3Afoyer$20$3E$20$40$252Fdemandeur$2C$40$252Findex$2Cfoyer$20$3E$20$40$252Fresultat) de trois pages spécifiques : la page d'accueil, la page de début de simulation, et la page de résultats, et voyons comment interpréter ces données.
 
-![Fréquentation des pages d'accueil, simulation et résultats de Mes Aides.]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-performance/audience-pages.png)
+![Fréquentation des pages d'accueil, simulation et résultats de Mes Aides.]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-pirates-tunnel-conversion-public/audience-pages.png)
 
 En prenant un jour particulier dans le suivi d'audience ci-dessus, voilà comment lire graphiquement deux valeurs chargées de sens.
 
-![Acquisition = ratio arrivée/démarrage, activation = ratio arrivée/fin]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-performance/acquisition-activation.png)
+![Acquisition = ratio arrivée/démarrage, activation = ratio arrivée/fin]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-pirates-tunnel-conversion-public/acquisition-activation.png)
 
 
 ## Taux d'acquisition
@@ -83,7 +83,7 @@ Nous aussi, nous suivons le [temps total](https://stats.data.gouv.fr/index.php?m
 
 Pour cela, il faut définir le segment (le sous-ensemble) des visiteurs qui ne font qu'une seule simulation. Nous approximons cette définition en ne considérant que les visiteurs qui ont vu la page de début de simulation et la page de résultats, et qui ont visité au moins 5 pages et au plus 25 (pour ne pas prendre en compte la durée des simulations effectuées en faisant varier les paramètres d'une situation initiale).
 
-![31% des visites prennent 4 à 7 minutes, 58% moins de 7 minutes]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-performance/repartition-temps-total.png)
+![31% des visites prennent 4 à 7 minutes, 58% moins de 7 minutes]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-pirates-tunnel-conversion-public/repartition-temps-total.png)
 
 Pour caractériser correctement cette durée, nous suivons la médiane et le 95ème percentile des simulations terminées. Cela signifie donc qu'aujourd'hui (et de manière stable depuis plusieurs mois), **la moitié des usagers évaluent leurs droits à plus d'une vingtaine de prestations sociales en moins de 7 minutes**, et 95%, ce qui recouvre l'immense majorité des situations, même complexes, en moins de 30 minutes.
 
@@ -92,3 +92,4 @@ Pour caractériser correctement cette durée, nous suivons la médiane et le 95�
 
 Les métriques pirates et la notion de tunnel de conversion sont des pratiques habituelles de e-commerce. J'espère avoir pu vous montrer comment ces concepts peuvent être tout aussi utiles dans des services non commerciaux. Au sein des Startups d'État, nous pensons que les pratiques du numérique peuvent tout aussi bien être appliquées dans l'action publique, au bénéfice de tous: usagers, contribuables, agents publics. Cela vous parle ? [Rejoignez-nous !]({{ site.baseurl }}contact).
 
+Cet article est le premier d'une série sur l'application des pratiques des startups du numérique au sein de l'action publique. La semaine prochaine, nous parlerons de [_10x product launch_]({{ site.baseurl }}2016/10/17/mes-aides-10x-product-launch-public), puis de [_datascience_]({{ site.baseurl }}2016/10/17/mes-aides-datascience-public).
