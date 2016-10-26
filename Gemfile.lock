@@ -22,12 +22,12 @@ GEM
     ffi (1.9.14)
     forwardable-extended (2.6.0)
     gemoji (2.1.0)
-    github-pages (98)
+    github-pages (99)
       activesupport (= 4.2.7)
       github-pages-health-check (= 1.2.0)
       jekyll (= 3.2.1)
       jekyll-coffeescript (= 1.0.1)
-      jekyll-feed (= 0.5.1)
+      jekyll-feed (= 0.7.2)
       jekyll-gist (= 1.4.0)
       jekyll-github-metadata (= 2.1.1)
       jekyll-mentions (= 1.2.0)
@@ -76,7 +76,7 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-coffeescript (1.0.1)
       coffee-script (~> 2.2)
-    jekyll-feed (0.5.1)
+    jekyll-feed (0.7.2)
     jekyll-gist (1.4.0)
       octokit (~> 4.2)
     jekyll-github-metadata (2.1.1)
@@ -117,14 +117,14 @@ GEM
     nokogiri (1.6.8)
       mini_portile2 (~> 2.1.0)
       pkg-config (~> 1.1.7)
-    octokit (4.3.0)
+    octokit (4.4.1)
       sawyer (~> 0.7.0, >= 0.5.3)
     parallel (1.9.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     pkg-config (1.1.7)
     public_suffix (1.5.3)
-    rb-fsevent (0.9.7)
+    rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
     rouge (1.11.1)
@@ -147,7 +147,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 98)
+  github-pages (= 99)
   html-proofer
   json
 
