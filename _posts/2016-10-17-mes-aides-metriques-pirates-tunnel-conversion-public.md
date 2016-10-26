@@ -47,28 +47,17 @@ Si nous générons un [rapport](https://stats.data.gouv.fr/index.php?module=Core
 
 > Bien que Mes Aides soit une application « en une seule page » (<abbr title="Single page application">SPA</abbr>), nous [modifions l'adresse du navigateur](https://developer.mozilla.org/fr/docs/Web/Guide/DOM/Manipuler_historique_du_navigateur) à chaque étape d'une simuation. L'outil de suivi d'audience s'adapte tout aussi bien à ce fonctionnement.
 
+La représentation de ces données est comme toujours cruciale pour que son interprétation soit facilitée.
 
-Page | Temps passé | Taux de sortie | Vues | Étape
-----|-------------|----------------|------|------
-Ressources : Demandeur : Montants | 1min 27s | 12 % | 623 | 6
-Revenus n-2 | 40s | 12 % | 229 | 11
-Patrimoine | 41s | 10 % | 52 | 13
-Demandeur | 36s | 8 % | 833 | 1
-Ressources : Individu 2 : Montants | 40s | 7 % | 157 | 8
-Ressources : Demandeur : Types | 35s | 5 % | 688 | 5
-Pensions alimentaires | 6s | 5 % | 593 | 10
-Ressources : Individu 2 : Types | 12s | 4 % | 247 | 7
-Enfants | 18s | 3 % | 735 | 2
-Ressources : Question enfants | 5s | 2 % | 175 | 9
-Logement | 39s | 2 % | 699 | 4
-Conjoint | 15s | 2 % | 709 | 3
-RFR | 37s | 0 % | 22 | 12
+Ici, je propose une visualisation sous la forme de bulles qui permet de représenter trois dimensions à la fois, avec une clé de lecture simple : plus une page est en haut, plus elle fait fuir les utilisateurs ; plus elle est à droite, plus elle est longue à remplir ; plus sa bulle est grande, plus elle est fréquemment rencontrée.
 
-> Note : les déclarations de ressource des individus après le second n'ont pas été inclues par souci de lisibilité et de représentativité, car très peu de situations en comprennent.
+![La saisie des montants prend 1 minute 27 secondes et a un taux de sortie de 12%. La saisie des revenus N moins 2 prend 40 secondes et a un taux de sortie de 12%.]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-pirates-tunnel-conversion-public/tunnel-conversion.png)
 
-Pas de surprise : les pages qui font le plus fuir les usagers sont celles où ils doivent remplir des montants précis, données qui ne sont peut-être pas immédiatement accessibles. La pire étant, au vu du temps passé, la première rencontre avec le remplissage des montants des ressources perçues.
+> Les déclarations de ressources des individus après le second n'ont pas été inclues par souci de lisibilité et de représentativité, car très peu de situations en comprennent.
 
-**Une analyse quantitative de ce type ne permet pas de suggérer des solutions**, mais elle peut aider l'équipe à valider (ou invalider) ses intuitions, et à focaliser ses efforts là où ils auront le plus d'impact.
+Dans l'état actuel, pas de surprise : les pages qui font le plus fuir les usagers sont celles où ils doivent remplir des montants précis qu'ils n'ont peut-être pas en tête, la pire étant la première rencontre avec la saisie des montants des ressources perçues sur l'année passée.
+
+**Une analyse quantitative de ce type ne permet pas de suggérer des solutions**, mais elle peut aider l'équipe à valider (ou invalider) ses intuitions, et à focaliser ses efforts là où ils auront le plus d'impact. Maximiser le taux d'activation revient à ramener les bulles les plus grandes vers le quadrant inférieur gauche.
 
 Dans notre cas, les marges de progression sont les plus grandes sur la page d'entrée des montants de ressources. Nous nous en doutions, bien évidemment, mais nous avons maintenant une performance de référence par rapport à laquelle mesurer l'efficacité des interfaces alternatives que nous pourrons concevoir.
 
