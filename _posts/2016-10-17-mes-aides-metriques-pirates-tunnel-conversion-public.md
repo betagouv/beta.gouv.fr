@@ -3,7 +3,7 @@ title: Métriques pirates et tunnels de conversion au service de l'intérêt gé
 startup: mes-aides
 ---
 
-Les métriques pirates et la notion de tunnel de conversion sont des pratiques habituelles de e-commerce. Au sein des Startups d'État, nous pensons que les pratiques du numérique peuvent être appliquées dans l'action publique, au bénéfice de toutes et tous. Je vais vous montrer comment l'équipe Mes Aides utilise ces concepts pour maximiser son impact.
+Métriques pirates et tunnel de conversion sont des notions habituelles de e-commerce. Les Startups d'État les utilisent dans l'action publique, au bénéfice de toutes et tous. Je vais vous montrer comment l'équipe Mes Aides utilise ces concepts pour maximiser son impact.
 
 
 ## Source des données
