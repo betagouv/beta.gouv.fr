@@ -47,7 +47,7 @@ Deux métriques sont pertinentes pour évaluer la difficulté que les usagers re
 
 Si nous générons un [rapport](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=yesterday#?module=Actions&action=menuGetPageUrls&idSite=9&period=day&date=yesterday) sur les pages du parcours de simulation (par opposition aux pages de contenu telles que « À propos », « FAQ »…), nous pouvons analyser les marges d'amélioration de notre [tunnel de conversion](https://en.wikipedia.org/wiki/Conversion_funnel).
 
-> Bien que Mes Aides soit une application « en une seule page » (<abbr title="Single page application">SPA</abbr>), nous [modifions l'adresse du navigateur](https://developer.mozilla.org/fr/docs/Web/Guide/DOM/Manipuler_historique_du_navigateur) à chaque étape d'une simuation. L'outil de suivi d'audience s'adapte tout aussi bien à ce fonctionnement.
+> Bien que Mes Aides soit une application « en une seule page » (<abbr title="Single page application">SPA</abbr>), il suffit de modifier l'adresse avec l'<abbr title="Application programming interface">API</abbr> [`history`](https://developer.mozilla.org/fr/docs/Web/Guide/DOM/Manipuler_historique_du_navigateur) à chaque étape pour enregistrer la visite d'une page dans l'outil de suivi. Il est également possible d'enregistrer des événements à la demande. Nous nous arrêtons ici à ce qui est déjà possible sans aucune configuration spécifique.
 
 La représentation de ces données est comme toujours cruciale pour faciliter son interprétation.
 
