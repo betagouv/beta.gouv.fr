@@ -12,7 +12,7 @@ Nous utilisons [Piwik](https://piwik.org), un outil libre de suivi d'audience (c
 
 [Suivons la fréquentation](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=yesterday#?module=Actions&action=menuGetPageUrls&idSite=9&period=day&date=yesterday&popover=RowAction$3ARowEvolution$3AActions.getPageUrls$3A$257B$2522action$2522$253A$2522getMultiRowEvolutionPopover$2522$252C$2522column$2522$253A$2522nb_visits$2522$257D$3Afoyer$20$3E$20$40$252Fdemandeur$2C$40$252Findex$2Cfoyer$20$3E$20$40$252Fresultat) des pages accueil, début de simulation et résultats, et voyons comment interpréter ces données.
 
-![1300 visites de l'accueil, 1000 de la simulation et 700 du résultat.]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-pirates-tunnel-conversion-public/audience-pages.png)
+![1300 visites de l'accueil, 1000 de la simulation et 700 du résultat.]({{ site.baseurl }}img/posts/2016-10-27-mes-aides-metriques-pirates-tunnel-conversion-public/audience-pages.png)
 
 Pour chaque point dans ce suivi d'audience, deux valeurs sont chargées de sens.
 
@@ -23,7 +23,7 @@ Le _taux d'acquisition_ est le rapport entre nombre d'arrivées sur le service e
 
 Pour Mes Aides, nous le définissions comme le ratio de simulations débutées par rapport aux arrivées sur la page d'accueil. Ce taux vaut environ 79 % sur les 2 derniers mois.
 
-![Acquisition = ratio arrivée/démarrage]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-pirates-tunnel-conversion-public/acquisition.png)
+![Acquisition = ratio arrivée/démarrage]({{ site.baseurl }}img/posts/2016-10-27-mes-aides-metriques-pirates-tunnel-conversion-public/acquisition.png)
 
 > Attention, cette métrique ne permet pas de déterminer si votre proposition de valeur est claire. Une proposition de valeur claire peut justement éviter à des personnes qui ne se sentent pas concernées de commencer une interaction qui ne leur apportera pas de valeur. Ce taux ne doit pas être simplement maximisé : si on dit « cliquez ici pour gagner 1 000 € », on aura peut-être un fort taux d'acquisition, mais beaucoup de déception. Ou sinon, envoyez-nous l'adresse de votre produit  ;)
 
@@ -34,7 +34,7 @@ Le _taux d'activation_ est le rapport entre nombre d'arrivées sur le service et
 
 Pour Mes Aides, nous le définissions comme le ratio de simulations terminées par rapport aux arrivées sur la page d'accueil. Ce taux vaut environ 57 % sur les 2 derniers mois.
 
-![Acquisition = ratio arrivée/démarrage, activation = ratio arrivée/demarrage]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-pirates-tunnel-conversion-public/acquisition-activation.png)
+![Acquisition = ratio arrivée/démarrage, activation = ratio arrivée/demarrage]({{ site.baseurl }}img/posts/2016-10-27-mes-aides-metriques-pirates-tunnel-conversion-public/acquisition-activation.png)
 
 > Attention, cette métrique ne permet pas d'identifier précisément les défauts. Il s'agit simplement d'un _smell_, pas d'un outil de diagnostic. Pour comprendre les difficultés, il faut déterminer les pages qui sont les plus source d'abandon, puis mener des tests utilisateurs pour en identifier les causes et proposer des correctifs.
 
@@ -55,7 +55,7 @@ La représentation de ces données est comme toujours cruciale pour faciliter so
 
 Une première représentation simple peut se contenter du temps passé à chaque étape.
 
-![La saisie des montants prend 1 minute 27 secondes. La saisie des revenus N moins 2 prend 40 secondes. Le temps total moyen est de 6 minutes 55 secondes]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-pirates-tunnel-conversion-public/repartition-temps-par-page.png)
+![La saisie des montants prend 1 minute 27 secondes. La saisie des revenus N moins 2 prend 40 secondes. Le temps total moyen est de 6 minutes 55 secondes]({{ site.baseurl }}img/posts/2016-10-27-mes-aides-metriques-pirates-tunnel-conversion-public/repartition-temps-par-page.png)
 
 Cela nous permet de voir que la saisie des ressources est l'interaction la plus longue. Mais comment prioriser nos efforts d'amélioration entre cette page et la saisie du revenu fiscal de référence, par exemple ?
 
@@ -63,7 +63,7 @@ Cela nous permet de voir que la saisie des ressources est l'interaction la plus 
 
 Ici, je propose une visualisation qui permet de représenter trois dimensions à la fois, avec une clé de lecture simple : plus une page est en haut, plus elle fait fuir les utilisateurs ; plus elle est à droite, plus elle est longue à remplir ; plus sa bulle est grande, plus elle est fréquemment rencontrée. Les couleurs servent à distinguer les bulles et les regroupent par type d'information saisie.
 
-![La saisie des montants prend 1 minute 27 secondes et a un taux de sortie de 12%. La saisie des revenus N moins 2 prend 40 secondes et a un taux de sortie de 12%.]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-pirates-tunnel-conversion-public/tunnel-conversion.png)
+![La saisie des montants prend 1 minute 27 secondes et a un taux de sortie de 12%. La saisie des revenus N moins 2 prend 40 secondes et a un taux de sortie de 12%.]({{ site.baseurl }}img/posts/2016-10-27-mes-aides-metriques-pirates-tunnel-conversion-public/tunnel-conversion.png)
 
 > Les déclarations de ressources des individus après le second n'ont pas été inclues par souci de lisibilité et de représentativité, car très peu de situations en comprennent.
 
@@ -78,7 +78,7 @@ Le compte du nombre de vues est également utile dans cette priorisation. Il ser
 
 Si vous êtes familier·e avec les métriques pirates, vous avez certainement remarqué que je n'ai pas parlé de _rétention_, par exemple. C'est là la limite de l'application de ces modèles à l'action publique : contrairement à un site commercial qui serait rémunéré par l'affichage de publicités, nous ne valorisons pas le temps passé par nos usagers sur nos produits. Au contraire, plus l'interaction est rapide et indolore, mieux c'est ! Donc, si nous suivons la [durée d'une simulation](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=yesterday&segment=visitConvertedGoalId%3D%3D1%3Bactions%3E%3D5%3Bactions%3C%3D25#?module=VisitFrequency&action=index&idSite=9&period=day&date=yesterday&segment=visitConvertedGoalId%3D%3D1%3Bactions%3E%3D5%3Bactions%3C%3D25) passé sur Mes Aides, c'est en espérant le minimiser !
 
-![31% des visites prennent 4 à 7 minutes, 58% moins de 7 minutes]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-pirates-tunnel-conversion-public/repartition-temps-total.png)
+![31% des visites prennent 4 à 7 minutes, 58% moins de 7 minutes]({{ site.baseurl }}img/posts/2016-10-27-mes-aides-metriques-pirates-tunnel-conversion-public/repartition-temps-total.png)
 
 > Ces données concernent le _segment_ (le sous-ensemble) des visiteurs qui ne font qu'une seule simulation, défini comme les visiteurs qui ont vu les pages de démarrage et de résultats et qui ont visité entre 5 et 25 pages (pour ne pas prendre en compte la durée des simulations effectuées en faisant varier une situation initiale).
 
