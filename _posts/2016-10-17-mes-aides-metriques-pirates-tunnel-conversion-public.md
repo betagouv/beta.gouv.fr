@@ -3,18 +3,18 @@ title: Métriques pirates et tunnels de conversion au service de l'intérêt gé
 startup: mes-aides
 ---
 
-Métriques pirates et tunnel de conversion sont des notions habituelles de e-commerce. Les Startups d'État les utilisent dans l'action publique, au bénéfice de toutes et tous. Je vais vous montrer comment l'équipe Mes Aides utilise ces concepts pour maximiser son impact.
+Métriques pirates et tunnel de conversion sont des notions habituelles du e-commerce. Les Startups d'État les utilisent dans l'action publique, au bénéfice de toutes et tous. Je vais vous montrer comment l'équipe Mes Aides utilise ces concepts pour maximiser son impact.
 
 
 ## Source des données
 
 Nous utilisons [Piwik](https://piwik.org), un outil libre de suivi d'audience (comme Google Analytics, mais [sans horrible bannière]({{ site.baseurl }}suivi)). Ces outils permettent de suivre les visites et la popularité du contenu. Au travers des [métriques pirates](http://www.expectedbehavior.com/experiments/pirate_metrics/), ces données permettent d'estimer la clarté des messages envoyés aux utilisateurs et les zones d'amélioration.
 
-[Suivons l'audience](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=yesterday#?module=Actions&action=menuGetPageUrls&idSite=9&period=day&date=yesterday&popover=RowAction$3ARowEvolution$3AActions.getPageUrls$3A$257B$2522action$2522$253A$2522getMultiRowEvolutionPopover$2522$252C$2522column$2522$253A$2522nb_visits$2522$257D$3Afoyer$20$3E$20$40$252Fdemandeur$2C$40$252Findex$2Cfoyer$20$3E$20$40$252Fresultat) des pages accueil, début de simulation et résultats, et voyons comment interpréter ces données.
+[Suivons la fréquentation](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=yesterday#?module=Actions&action=menuGetPageUrls&idSite=9&period=day&date=yesterday&popover=RowAction$3ARowEvolution$3AActions.getPageUrls$3A$257B$2522action$2522$253A$2522getMultiRowEvolutionPopover$2522$252C$2522column$2522$253A$2522nb_visits$2522$257D$3Afoyer$20$3E$20$40$252Fdemandeur$2C$40$252Findex$2Cfoyer$20$3E$20$40$252Fresultat) des pages accueil, début de simulation et résultats, et voyons comment interpréter ces données.
 
 ![1300 visites de l'accueil, 1000 de la simulation et 700 du résultat.]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-pirates-tunnel-conversion-public/audience-pages.png)
 
-Pour chaque point dans ce suivi d'audience, on peut lire deux valeurs chargées de sens.
+Pour chaque point dans ce suivi d'audience, deux valeurs sont chargées de sens.
 
 
 ## Taux d'acquisition
@@ -61,7 +61,7 @@ Cela nous permet de voir que la saisie des ressources est l'interaction la plus 
 
 ### Analyse multidimensionnelle
 
-Ici, je propose une visualisation sous qui permet de représenter trois dimensions à la fois, avec une clé de lecture simple : plus une page est en haut, plus elle fait fuir les utilisateurs ; plus elle est à droite, plus elle est longue à remplir ; plus sa bulle est grande, plus elle est fréquemment rencontrée. Les couleurs servent à distinguer les bulles et les regroupent par type d'information saisie.
+Ici, je propose une visualisation qui permet de représenter trois dimensions à la fois, avec une clé de lecture simple : plus une page est en haut, plus elle fait fuir les utilisateurs ; plus elle est à droite, plus elle est longue à remplir ; plus sa bulle est grande, plus elle est fréquemment rencontrée. Les couleurs servent à distinguer les bulles et les regroupent par type d'information saisie.
 
 ![La saisie des montants prend 1 minute 27 secondes et a un taux de sortie de 12%. La saisie des revenus N moins 2 prend 40 secondes et a un taux de sortie de 12%.]({{ site.baseurl }}img/posts/2016-10-17-mes-aides-metriques-pirates-tunnel-conversion-public/tunnel-conversion.png)
 
