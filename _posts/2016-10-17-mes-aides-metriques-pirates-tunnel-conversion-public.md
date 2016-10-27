@@ -88,5 +88,3 @@ Pour caractériser correctement cette durée, nous suivons la médiane et le 95<
 ## De la transférabilité des pratiques
 
 Les métriques pirates et la notion de tunnel de conversion sont des pratiques habituelles de e-commerce. J'espère avoir pu vous montrer comment ces concepts peuvent être tout aussi utiles dans des services non commerciaux. Au sein des Startups d'État, nous pensons que les pratiques du numérique peuvent tout aussi bien être appliquées dans l'action publique, au bénéfice de tous: usagers, contribuables, agents publics. **Cela vous parle ? [Rejoignez-nous]({{ site.baseurl }}contact) !**
-
-Cet article est le premier d'une série sur l'application des pratiques des startups du numérique au sein de l'action publique. La semaine prochaine, nous parlerons de [_10x product launch_]({{ site.baseurl }}2016/10/17/mes-aides-10x-product-launch-public), puis de [_datascience_]({{ site.baseurl }}2016/10/17/mes-aides-datascience-public).
