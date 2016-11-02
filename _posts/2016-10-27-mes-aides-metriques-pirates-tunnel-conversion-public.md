@@ -34,7 +34,7 @@ Le _taux d'activation_ est le rapport entre nombre d'arrivées sur le service et
 
 Pour Mes Aides, nous le définissions comme le ratio de simulations terminées par rapport aux arrivées sur la page d'accueil. Ce taux vaut environ 57 % sur les 2 derniers mois.
 
-![Acquisition = ratio arrivée/démarrage, activation = ratio arrivée/demarrage]({{ site.baseurl }}img/posts/2016-10-27-mes-aides-metriques-pirates-tunnel-conversion-public/acquisition-activation.png)
+![Acquisition = ratio arrivée/démarrage, activation = ratio arrivée/résultats]({{ site.baseurl }}img/posts/2016-10-27-mes-aides-metriques-pirates-tunnel-conversion-public/acquisition-activation.png)
 
 > Attention, cette métrique ne permet pas d'identifier précisément les défauts. Il s'agit simplement d'un _smell_, pas d'un outil de diagnostic. Pour comprendre les difficultés, il faut déterminer les pages qui sont les plus source d'abandon, puis mener des tests utilisateurs pour en identifier les causes et proposer des correctifs.
 
