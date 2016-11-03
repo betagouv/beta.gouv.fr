@@ -1,10 +1,10 @@
 .vevent .summary {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 address {
-	font-style: normal;
-	font-size: 80%;
+  font-style: normal;
+  font-size: 80%;
 }
 
 address.ui.cards {
