@@ -74,20 +74,24 @@
 	<link rel="canonical" href="{{ canonical_url }}">
 	<meta property="og:url" content="{{ canonical_url }}">
 
+
+	{% capture mastheadImagePath %}{{ site.url }}{{ site.baseurl }}img/{{ page.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}.jpg{% endcapture %}
+	<meta name="thumbnail" content="{{ mastheadImagePath }}">
+	<meta property="og:image" content="{{ mastheadImagePath }}">
+
 	<style type="text/css">
-		{% capture mastheadImagePath %}{{ site.baseurl }}img/{{ page.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}{% endcapture %}
 		#masthead, footer::before {
-			background-image: url("{{ mastheadImagePath }}.jpg");
+			background-image: url("{{ mastheadImagePath }}");
 		}
 		@media (min-width: 1368px) {
 			#masthead, footer::before {
-				background-image: url("{{ mastheadImagePath }}@2x.jpg"),
-									url("{{ mastheadImagePath }}.jpg"); /* fallback */
+				background-image: url("{{ mastheadImagePath | replace:'.jpg','@2x.jpg'}}"),
+									url("{{ mastheadImagePath }}"); /* fallback */
 			}
 		}
 		@media (min-width: 2736px) {
 			#masthead, footer::before {
-				background-image: url("{{ mastheadImagePath }}@4x.jpg"),
+				background-image: url("{{ mastheadImagePath | replace:'.jpg','@4x.jpg'}}"),
 									url("{{ mastheadImagePath }}.jpg"); /* fallback */
 			}
 		}
