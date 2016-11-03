@@ -16,9 +16,9 @@ layout: default
 	{% endif %}
 
 	{% if page.authors %}
-	<address class="cards">
+	<address class="ui stackable cards">
 		{% for author in page.authors %}
-		{% include author.html id=author %}
+		{% include author.html id=author size='small' %}
 		{% endfor %}
 	</address>
 	{% endif %}
