@@ -58,7 +58,9 @@
 	<meta name="msapplication-config" content="{{ site.baseurl }}img/favicons/browserconfig.xml">
 	<meta name="theme-color" content="#042075">
 
-	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	{% capture canonical_url %}{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html','' }}{% endcapture %}
+	<link rel="canonical" href="{{ canonical_url }}">
+	<meta property="og:url" content="{{ canonical_url }}">
 
 	<style type="text/css">
 		{% capture mastheadImagePath %}{{ site.baseurl }}img/{{ page.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}{% endcapture %}
