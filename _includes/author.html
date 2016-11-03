@@ -1,23 +1,35 @@
-{% if include.description.link %}
-<a class="ui card author" {% if include.description.link %} href="{{ include.description.link }}" target="_blank" rel="noopener" {% endif %}>
+{% if include.description %}
+	{% assign description = include.description %}
+{% else %}
+	{% capture id %}/author/{{ include.id }}{% endcapture %}
+	{% for author in site.author %}
+		{% if author.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
+			{% assign description = author %}
+		{% endif %}
+	{% endfor %}
+{% endif %}
+
+
+{% if description.link %}
+<a class="ui card author" {% if description.link %} href="{{ description.link }}" target="_blank" rel="noopener" {% endif %}>
 {% else %}
 <div class="ui card author">
 {% endif %}
-	<div id="{{ include.description.id | replace:'/author/','' }}" class="image">
-		{% if include.description.avatar %}
-			<img alt="" src="{{ include.description.avatar }}" />
+	<div id="{{ description.id | replace:'/author/','' }}" class="image">
+		{% if description.avatar %}
+			<img alt="" src="{{ description.avatar }}" />
 		{% else %}
-			<img alt="" src="{{ site.baseurl }}img{{ include.description.id }}.jpg" />
+			<img alt="" src="{{ site.baseurl }}img{{ description.id }}.jpg" />
 		{% endif %}
 	</div>
 	<div class="content">
-		<div class="header">{{ include.description.fullname }}</div>
-		<div class="meta">{{ include.description.role }}</div>
+		<div class="header">{{ description.fullname }}</div>
+		<div class="meta">{{ description.role }}</div>
 		<div class="description">
-			{{ include.description.content }}
+			{{ description.content }}
 		</div>
 	</div>
-{% if include.description.link %}
+{% if description.link %}
 </a>
 {% else %}
 </div>
