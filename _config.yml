@@ -10,6 +10,7 @@ email: contact@beta.gouv.fr
 description: Nous créons des services publics numériques
 baseurl: /
 url: https://beta.gouv.fr
+twitter_id: 715451644683673601  # more stable than the username
 
 collections:
   startup:
