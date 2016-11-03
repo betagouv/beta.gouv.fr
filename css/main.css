@@ -45,6 +45,10 @@ a {
 	color: inherit;
 }
 
+a i.icon {
+	text-decoration: none;
+}
+
 .cta {
 	cursor: pointer;
 	font-weight: bold;
