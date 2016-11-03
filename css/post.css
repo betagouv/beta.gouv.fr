@@ -31,7 +31,7 @@ address.ui.cards {
   -moz-osx-font-smoothing: grayscale;
   -moz-font-feature-settings: "liga" on;
   color: #222;
-  font-size: 18px;
+  font-size: 112%;
   line-height: 1.5;
 
   max-width: 740px;
