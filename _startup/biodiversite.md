@@ -5,6 +5,7 @@ status: construction
 contact: celia.henry@developpement-durable.gouv.fr
 start: 2016-10-01
 owner: Ministère de l'Environnement, de l'Energie et de la Mer
+screenshot: /img/startup/biodiversite.jpg
 ---
 
 De plus en plus de programmes de végétalisation de l’espace public par les citoyens sont lancés par les communes de France. 
