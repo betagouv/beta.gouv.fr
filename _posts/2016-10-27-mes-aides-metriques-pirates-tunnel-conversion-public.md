@@ -36,7 +36,7 @@ Pour Mes Aides, nous le définissions comme le ratio de simulations terminées p
 
 ![Acquisition = ratio arrivée/démarrage, activation = ratio arrivée/résultats]({{ site.baseurl }}img/posts/2016-10-27-mes-aides-metriques-pirates-tunnel-conversion-public/acquisition-activation.png)
 
-> Attention, cette métrique ne permet pas d'identifier précisément les défauts. Il s'agit simplement d'un _smell_, pas d'un outil de diagnostic. Pour comprendre les difficultés, il faut déterminer les pages qui sont les plus source d'abandon, puis mener des tests utilisateurs pour en identifier les causes et proposer des correctifs.
+> Attention, cette métrique ne permet pas d'identifier précisément les défauts. Il s'agit simplement d'un indicateur de qualité globale, pas d'un outil de diagnostic. Pour comprendre les difficultés, il faut déterminer les pages les plus source d'abandons, puis mener des tests utilisateurs pour en identifier les causes et proposer des correctifs.
 
 Un taux d'activation de 57 % est excellent pour un produit web. En fluidifiant encore plus l'entrée des données dans la simulation, nous pourrions probablement encore améliorer ce taux. Mais comment déterminer où focaliser notre attention ?
 
