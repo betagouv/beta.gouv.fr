@@ -6,20 +6,28 @@ layout: default
 	<h1>{{ page.title}}</h1>
 </div>
 
-<article class="ui text container">
-	{{ content }}
+<div class="post-container">
+  <article class="post">
+  	<span class="excerpt">{{ page.excerpt }}</span>
 
-	{% if page.category == 'evenement' %}
-		<div class="vevent">
-			<strong><a class="url" href="{{ page.registration }}">Inscrivez-vous</a> pour participer à l'évènement <span class="summary">{{ page.title }}</span></strong> du <time datetime="{{ page.start }}" class="dtstart"></time> au <time datetime="{{ page.end }}" class="dtend"></time> à <span class="location">{{ page.location }}</span>.
-		</div>
-	{% endif %}
+  	{% if startup %}
+  		<aside>{% include startup-card.html description=startup %}</aside>
+  	{% endif %}
 
-	{% if page.authors %}
-	<address class="ui stackable cards">
-		{% for author in page.authors %}
-		{% include author.html id=author size='small' %}
-		{% endfor %}
-	</address>
-	{% endif %}
-</article>
+  	{{ content | remove: page.excerpt }}
+
+  	{% if page.category == 'evenement' %}
+  		<div class="vevent">
+  			<strong><a class="url" href="{{ page.registration }}">Inscrivez-vous</a> pour participer à l'évènement <span class="summary">{{ page.title }}</span></strong> du <time datetime="{{ page.start }}" class="dtstart"></time> au <time datetime="{{ page.end }}" class="dtend"></time> à <span class="location">{{ page.location }}</span>.
+  		</div>
+  	{% endif %}
+
+  	{% if page.authors %}
+  	<address class="ui stackable cards">
+  		{% for author in page.authors %}
+  		{% include author.html id=author size='small' %}
+  		{% endfor %}
+  	</address>
+  	{% endif %}
+  </article>
+</div>
