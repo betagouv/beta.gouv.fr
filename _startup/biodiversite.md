@@ -8,17 +8,17 @@ owner: Ministère de l'Environnement, de l'Energie et de la Mer
 screenshot: /img/startup/biodiversite.jpg
 ---
 
-De plus en plus de programmes de __végétalisation de l’espace public__ par les citoyens sont lancés par les communes de France. 
+De plus en plus de programmes de __végétalisation de l’espace public__ par les citoyens sont lancés par les communes de France.
 
-Il s’agit notamment d’augmenter la présence de la nature en ville et de favoriser la biodiversité tout en améliorant le cadre de vie. Chacun peut ainsi faire sa demande, à titre personnel ou collectif, et commencer à jardiner. Et jardiner, c’est aussi échanger : des conseils, des plantes, … avec des voisins, des associations, des agents communaux.
+Il s’agit notamment d’augmenter la présence de la nature en ville et de favoriser la biodiversité tout en améliorant le cadre de vie. Chacun peut ainsi faire sa demande, à titre personnel ou collectif, et commencer à jardiner. Et jardiner, c’est aussi échanger : des conseils, des plantes… avec des voisins, des associations, des agents communaux.
 
-Cette dynamique de végétalisation en plein essor peine pourtant à se développer : demandes parfois laborieuse, délais de réponse variables conditionnsé à l’accord des services de voiries, pertes d’opportunités par manque d’information … Se pose également la question de la durabilité de ces projets une fois les beaux jours passés, de leur entretien dans la durée, car le taux d’abandon de parcelles demeure important.
+Cette dynamique de végétalisation en plein essor peine pourtant à se développer : demandes parfois laborieuse, délais de réponse variables conditionnsé à l’accord des services de voiries, pertes d’opportunités par manque d’information… Se pose également la question de la durabilité de ces projets une fois les beaux jours passés, de leur entretien dans la durée, car le taux d’abandon de parcelles demeure important.
 
 __Plante & moi est donc un outil numérique permettant de faciliter la végétalisation de l’espace public à la fois pour le citoyen et pour les collectivités.__
 
 Pour ces dernières, il permettra :
 
-* de cartographier l’univers des possibles en recensant les zones favorables en fonction des contraintes (voiries, réseaux souterrains, largeur de trottoir par exemple) et des opportunités (quartiers et espaces ciblés, ..),
+* de cartographier l’univers des possibles en recensant les zones favorables en fonction des contraintes (voiries, réseaux souterrains, largeur de trottoir par exemple) et des opportunités (quartiers et espaces ciblés…),
 * de guider le demandeur dans son projet, avant, pendant et après sa demande,
 * de recevoir et traiter des dossiers de permis de végétaliser, de suivre dans la durée l’ensemble des projets et des efforts de végétalisation (chaque espace, projet de végétalisation localisé avec toutes les informations le caractérisant).
 
