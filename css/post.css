@@ -1,3 +1,8 @@
 .vevent .summary {
 	font-weight: bold;
 }
+
+address {
+	font-style: normal;
+	font-size: 80%;
+}
