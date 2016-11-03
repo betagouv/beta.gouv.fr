@@ -5,7 +5,10 @@
 address {
 	font-style: normal;
 	font-size: 80%;
-  margin-top: 2em !important;
+}
+
+address.ui.cards {
+  margin-top: 2em;
 }
 
 .post .excerpt p {
