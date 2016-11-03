@@ -16,10 +16,10 @@ layout: default
 	{% endif %}
 
 	{% if page.authors %}
-	<div class="cards">
+	<address class="cards">
 		{% for author in page.authors %}
 		{% include author.html id=author %}
 		{% endfor %}
-	</div>
+	</address>
 	{% endif %}
 </article>
