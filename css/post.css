@@ -2,7 +2,11 @@
   font-weight: bold;
 }
 
-address {
+article footer h3, article footer p {
+  margin: 0;
+}
+
+article footer, address {
   font-style: normal;
   font-size: 80%;
 }
