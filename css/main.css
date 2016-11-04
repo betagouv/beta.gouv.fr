@@ -49,6 +49,13 @@ a i.icon {
 	text-decoration: none;
 }
 
+blockquote {
+	color: #666;
+	border-left: .2em solid #999;
+	margin-left: 0;
+	padding-left: 2em;
+}
+
 .cta {
 	cursor: pointer;
 	font-weight: bold;

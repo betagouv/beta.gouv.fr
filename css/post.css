@@ -44,3 +44,9 @@ address.ui.cards {
   margin: 0 auto;
   box-sizing: border-box;
 }
+
+.post img {
+	margin: auto;
+	display: block;
+	max-width: 100%;
+}
