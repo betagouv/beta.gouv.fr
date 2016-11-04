@@ -44,5 +44,5 @@ Au vu du public visé, ce site doit être **dégradable** jusqu'à IE8.
 
 `beta.gouv.fr` est *principalement* un site statique, mais pas exclusivement. En particulier :
 
-- Il expose une API, pour l'instant limitée aux fiches biographiques des membres de la communauté (https://beta.gouv.fr/api/v1/authors.json).
+- Il expose une API des membres de la communauté : `https://beta.gouv.fr/api/v1/authors.json`.
 - Un _bot_ ou assistant automatique (dont le code est également [disponible](https://github.com/sgmap/betaGouvBot)) exploite cette API pour faciliter la gestion RH de l'Incubateur.
