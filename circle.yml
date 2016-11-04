@@ -5,9 +5,10 @@ machine:
     NOKOGIRI_USE_SYSTEM_LIBRARIES: true # Faster installation of nokogiri, required by html-proofer
 
 dependencies:
+  pre:
+    - pip install --user html5validator
   post:
     - bundle exec jekyll --version # print it out
-    - sudo pip install html5validator
 
 test:
   override:
