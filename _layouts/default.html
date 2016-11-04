@@ -7,7 +7,7 @@
 			<nav class="ui secondary menu">
 				<div class="right menu">
 					{% if page.url != "/" %}
-						<a class="item" id="logo" href="{{ site.baseurl }}/">beta.gouv.fr</a>
+						<a class="item" id="logo" href="/">beta.gouv.fr</a>
 					{% endif %}
 
 					{% assign menu_items = site.pages | where_exp: 'page', 'page.menu_index > 0' | sort: 'menu_index' %}
@@ -39,14 +39,14 @@
 
 		{% include analytics.html %}
 
-		<script type="text/javascript" src="{{ site.baseurl }}/js/lib/modernizr-custom.min.js"></script>
-		<script type="text/javascript" src="{{ site.baseurl }}/js/cross-browser.js"></script>
+		<script type="text/javascript" src="/js/lib/modernizr-custom.min.js"></script>
+		<script type="text/javascript" src="/js/cross-browser.js"></script>
 
 		<script type="text/javascript" src="https://oss.maxcdn.com/jquery/2.2.2/jquery.min.js"></script>
 		<script type="text/javascript" src="https://oss.maxcdn.com/semantic-ui/2.1.8/components/transition.min.js"></script>
 
 		{% for file in page.additional_js %}
-			<script type="text/javascript" src="{% if file contains '://' %}{{ file }}{% else %}{{ site.baseurl }}/js/{{ file }}.js{% endif %}"></script>
+			<script type="text/javascript" src="{% if file contains '://' %}{{ file }}{% else %}/js/{{ file }}.js{% endif %}"></script>
 		{% endfor %}
 	</body>
 </html>
