@@ -38,3 +38,11 @@ Un produit incubé sur un sous-domaine en `*.beta.gouv.fr` bénéficie d'un héb
 Au vu du public visé, ce site doit être **dégradable** jusqu'à IE8.
 
 > Cela ne signifie pas qu'il doit afficher [la même chose](http://dowebsitesneedtolookexactlythesameineverybrowser.com) dans tous les navigateurs, mais simplement que son contenu doit être lisible même avec des navigateurs obsolètes.
+
+
+## Autres usages
+
+`beta.gouv.fr` est *principalement* un site statique, mais pas exclusivement. En particulier:
+
+- il expose une API, pour l'instant limitée aux fiches biographiques des membres de la communauté (https://beta.gouv.fr/api/v1/authors.json)
+- un "bot" ou assistant automatique (dont le code est également [disponible](https://github.com/sgmap/betaGouvBot)) exploite cette API pour faciliter la gestion RH de l'Incubateur
