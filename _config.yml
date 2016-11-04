@@ -8,7 +8,7 @@ exclude: [rb, bin, vendor, app.json, Gemfile.lock]
 title: beta.gouv.fr
 email: contact@beta.gouv.fr
 description: Nous créons des services publics numériques
-baseurl: /
+baseurl: ''  # no trailing slash
 url: https://beta.gouv.fr
 twitter_id: 715451644683673601  # more stable than the username
 
