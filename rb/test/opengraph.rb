@@ -1,11 +1,16 @@
+#!/usr/bin/env ruby
+
+require 'rubygems'
+require 'bundler'
+Bundler.setup :test
 require 'opengraph_parser'
+
 require 'minitest/autorun'
 
 
 class TestHomepage < MiniTest::Unit::TestCase
   def setup
-    @url = "http://localhost:4000/"
-    @home = OpenGraph.new(@url)
+    @home = OpenGraph.new("http://127.0.0.1:4000/")
   end
 
   def test_title
@@ -17,7 +22,7 @@ class TestHomepage < MiniTest::Unit::TestCase
   end
 
   def test_url
-    assert_equal @url, @home.url
+    assert_equal "https://beta.gouv.fr/", @home.url
   end
 
   def test_type
@@ -25,14 +30,13 @@ class TestHomepage < MiniTest::Unit::TestCase
   end
 
   def test_image
-    assert_includes @home.images, "http://localhost:4000/img/index.jpg"
+    assert_includes @home.images, "https://beta.gouv.fr/img/index.jpg"
   end
 end
 
 class TestArticle < MiniTest::Unit::TestCase
   def setup
-    @url = "http://localhost:4000/evenement/2016/03/29/devoxx.html"
-    @post = OpenGraph.new(@url)
+    @post = OpenGraph.new("http://127.0.0.1:4000/evenement/2016/03/29/devoxx.html")
   end
 
   def test_title
@@ -44,7 +48,7 @@ class TestArticle < MiniTest::Unit::TestCase
   end
 
   def test_url
-    assert_equal @url, @post.url
+    assert_equal "https://beta.gouv.fr/evenement/2016/03/29/devoxx.html", @post.url
   end
 
   def test_type
@@ -52,6 +56,6 @@ class TestArticle < MiniTest::Unit::TestCase
   end
 
   def test_image
-    assert_includes @post.images, "http://localhost:4000/img/posts/2016-03-29-devoxx.jpg"
+    assert_includes @post.images, "https://beta.gouv.fr/img/posts/2016-03-29-devoxx.jpg"
   end
 end
