@@ -75,9 +75,9 @@
 	<meta property="og:url" content="{{ canonical_url }}">
 
 
-	{% capture mastheadImagePath %}{{ site.url }}{{ site.baseurl }}img/{{ page.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}.jpg{% endcapture %}
-	<meta name="thumbnail" content="{{ mastheadImagePath }}">
-	<meta property="og:image" content="{{ mastheadImagePath }}">
+	{% capture mastheadImagePath %}{{ site.baseurl }}img/{{ page.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}.jpg{% endcapture %}
+	<meta name="thumbnail" content="{{ site.url }}{{ mastheadImagePath }}">
+	<meta property="og:image" content="{{ site.url }}{{ mastheadImagePath }}">
 
 	<style type="text/css">
 		#masthead, footer::before {
