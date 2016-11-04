@@ -8,6 +8,7 @@ dependencies:
   post:
     - bundle exec jekyll --version # print it out
     - sudo pip install html5validator
+
 test:
   override:
     - bundle exec jekyll doctor
@@ -15,3 +16,7 @@ test:
     - grep "css/main.css" _site/index.html # smoke test that something was actually compiled
     - ./rb/bin/htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
     - html5validator --root _site
+    - bundle exec jekyll serve --safe --skip-initial-build:
+        background: true
+    - while ! curl --silent http://localhost:4000; do sleep 1; done  # wait for server to start
+    - ruby rb/test/opengraph.rb

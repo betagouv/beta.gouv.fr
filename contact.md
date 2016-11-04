@@ -18,7 +18,7 @@ Nos [pratiques](https://github.com/sgmap/beta.gouv.fr/wiki), inspirées des mouv
 
 Vous vous reconnaissez dans le profil d'un **agent public indigné par une situation irritante pour les usagers** ? Vous avez une idée précise d'une solution qui pourrait faire levier sur du numérique ? Vous êtes prêts à vous investir pour la mettre en œuvre ?
 
-**Rédigez une [fiche produit]({{ site.baseurl }}ficheproduit) et [adressez-la nous](mailto:recrutement@beta.gouv.fr?subject=Fiche+produit) !**
+**Rédigez une [fiche produit]({{ site.baseurl }}/ficheproduit) et [adressez-la nous](mailto:recrutement@beta.gouv.fr?subject=Fiche%20produit) !**
 
 ### Développeuses et développeurs
 
@@ -34,7 +34,7 @@ Vous êtes **responsable d'administration centrale ou territoriale** et souhaite
 
 Nous pouvons vous aider à organiser cet évènement interne, sélectionner les innovateurs à haut potentiel, et les accompagner dans leur réussite. Votre direction n'assumera que la charge de développement, toujours inférieure à 200 000 € (2 <abbr title="Équivalent Temps Plein">ETP</abbr> informaticiens senior) pour une première livraison en six mois.
 
-**[Écrivez-nous](mailto:recrutement@beta.gouv.fr?subject=Responsable+administratif) !**
+**[Écrivez-nous](mailto:recrutement@beta.gouv.fr?subject=Responsable%20administratif) !**
 
 Vous voulez agir dès demain matin ? Diffusez dans votre entourage les Startups d'État les plus pertinentes dans votre contexte, notamment territorial :
 
@@ -42,13 +42,13 @@ Vous voulez agir dès demain matin ? Diffusez dans votre entourage les Startups 
 - Sensibiliser vos missions locales et vos structures concernées par le retour à l'emploi (missions locales, maisons de l'emploi…) à [La Bonne Boîte](http://labonneboite.pole-emploi.fr/) et à [La Bonne Formation](http://labonneformation.pole-emploi.fr/).
 - Sensibiliser vos structures d'accueil social (CCAS…) à [Mes Aides](https://mes-aides.gouv.fr/) et intégrer vos aides sociales extra-légales en mobilisant un informaticien de la collectivité pendant quelques jours.
 - Dématérialiser une de vos démarche administrative en quelques minutes grâce à [TPS](http://tps.apientreprise.fr).
-- Jetez un œil à nos [autres produits]({{ site.baseurl }}startups) !
+- Jetez un œil à nos [autres produits]({{ site.baseurl }}/startups) !
 
 ### Entrepreneurs
 
-Vous avez une idée de startup et vous pensez que l'État devrait la financer ou la réaliser ? Contactez plutôt la [BPI](https://www.bpifrance.fr/) ou un incubateur dans votre région, ils seront plus à même de vous aider. Nos Startups sont simplement des équipes autonomes, elles transforment l'administration et ne [prennent pas de capital]({{ site.baseurl }}apropos).
+Vous avez une idée de startup et vous pensez que l'État devrait la financer ou la réaliser ? Contactez plutôt la [BPI](https://www.bpifrance.fr/) ou un incubateur dans votre région, ils seront plus à même de vous aider. Nos Startups sont simplement des équipes autonomes, elles transforment l'administration et ne [prennent pas de capital]({{ site.baseurl }}/apropos).
 
 
 ## Autres
 
-Votre sujet ne correspond à aucun des cas ci-dessus ? [Écrivez-nous](mailto:contact@beta.gouv.fr?subject=Autre+sujet) un mail _concis_  ;)
+Votre sujet ne correspond à aucun des cas ci-dessus ? [Écrivez-nous](mailto:contact@beta.gouv.fr?subject=Autre%20sujet) un mail _concis_  ;)
