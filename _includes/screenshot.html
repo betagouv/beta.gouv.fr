@@ -2,6 +2,6 @@
 	{% if include.startup.screenshot %}
 		<img class="screenshot" src="{{ include.startup.screenshot }}" title="Interface de {{ include.startup.title }}" alt="">
 	{% else %}
-		<img class="screenshot" src="{{ site.baseurl }}img{{ include.startup.id }}.png" title="Interface de {{ include.startup.title }}" alt="">
+		<img class="screenshot" src="/img{{ include.startup.id }}.png" title="Interface de {{ include.startup.title }}" alt="">
 	{% endif %}
 {% endif %}

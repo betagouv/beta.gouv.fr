@@ -25,7 +25,7 @@ Développer l'usage de Mes Aides, partout en France, à la fois en élargissant 
 
 Animer la communauté des médiateurs professionnels et bénévoles qui utilisent Mes Aides au quotidien. Consolider les usages et les bonnes pratiques, émettre des newsletters mensuelles. Animer la communauté des utilisateurs particuliers via Facebook et Twitter.
 
-Intéressé·e ? Une [fiche de poste]({{ site.baseurl }}img/startup/mes-aides/stage-bizdev-mes-aides.pdf) standard est disponible pour ce poste.
+Intéressé·e ? Une [fiche de poste](/img/startup/mes-aides/stage-bizdev-mes-aides.pdf) standard est disponible pour ce poste.
 
 ### Développement logiciel / Analytics
 

@@ -10,7 +10,7 @@
 {% endif %}
 
 {% capture avatar %}
-	<img alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}{{ site.baseurl }}img{{ description.id }}.jpg{% endif %}" />
+	<img alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}/img{{ description.id }}.jpg{% endif %}" />
 {% endcapture %}
 
 

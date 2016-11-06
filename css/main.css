@@ -45,6 +45,17 @@ a {
 	color: inherit;
 }
 
+a i.icon {
+	text-decoration: none;
+}
+
+blockquote {
+	color: #666;
+	border-left: .2em solid #999;
+	margin-left: 0;
+	padding-left: 2em;
+}
+
 .cta {
 	cursor: pointer;
 	font-weight: bold;
@@ -69,7 +80,7 @@ a.secondary.cta {
 	text-decoration: underline;
 }
 
-body > a, footer a {
+body > a, body > footer a {
 	text-decoration: none;
 }
 
@@ -98,7 +109,7 @@ header > nav.ui.secondary.menu {
 	padding: 3em 0;
 }
 
-footer {
+body > footer {
 	font-size: 70%;
 	padding: 1em;
 	color: #FFF;
@@ -106,20 +117,20 @@ footer {
 	text-shadow: none;
 }
 
-footer .subscribe form {
+body > footer .subscribe form {
 	margin: 2em 0 3em 0;
 }
 
-footer .links {
+body > footer .links {
 	margin: 2em 0;
 }
 
-footer ul {
+body > footer ul {
 	margin: 0;
 	padding: 0 3em;
 }
 
-footer li {
+body > footer li {
 	list-style-type: none;
 	display: inline-block;
 	width: 30%;
@@ -127,11 +138,11 @@ footer li {
 	margin-bottom: .5em;
 }
 
-footer li a {
+body > footer li a {
 	margin-left: .5em;
 }
 
-footer li a:hover {
+body > footer li a:hover {
 	text-decoration: underline;
 }
 
