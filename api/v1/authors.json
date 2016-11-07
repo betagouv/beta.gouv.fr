@@ -2,13 +2,13 @@
 layout: null
 ---
 [
-  {% for author in site.author %}
-    {
-      "id": "{{ author.id }}",
-      "fullname": "{{ author.fullname }}",
-      "start": "{{ author.start }}",
-      "end": "{{ author.end }}"
-    }
-    {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+	{% for author in site.author %}
+		{
+			"id": "{{ author.id }}",
+			"fullname": "{{ author.fullname }}",
+			"start": "{{ author.start }}",
+			"end": "{{ author.end }}"
+		}
+		{% unless forloop.last %},{% endunless %}
+	{% endfor %}
 ]

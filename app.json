@@ -1,10 +1,10 @@
 {
-  "name": "beta.gouv.fr",
-  "scripts": {},
-  "env": {},
-  "formation": {},
-  "addons": [],
-  "buildpacks": [{
-      "url": "https://github.com/sgmap/heroku-buildpack-ruby"
-    }]
+	"name": "beta.gouv.fr",
+	"scripts": {},
+	"env": {},
+	"formation": {},
+	"addons": [],
+	"buildpacks": [{
+		"url": "https://github.com/sgmap/heroku-buildpack-ruby"
+	}]
 }

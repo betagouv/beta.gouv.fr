@@ -1,48 +1,48 @@
 .vevent .summary {
-  font-weight: bold;
+	font-weight: bold;
 }
 
 article footer h3, article footer p {
-  margin: 0;
+	margin: 0;
 }
 
 article footer, address {
-  font-style: normal;
-  font-size: 80%;
+	font-style: normal;
+	font-size: 80%;
 }
 
 address.ui.cards {
-  margin-top: 2em;
+	margin-top: 2em;
 }
 
 .post .excerpt p {
-  font-weight: 300;
-  font-size: 22px;
-  letter-spacing: -.022em;
-  color: #777;
+	font-weight: 300;
+	font-size: 22px;
+	letter-spacing: -.022em;
+	color: #777;
 }
 
 .post-container {
-  background-color: white;
+	background-color: white;
 }
 
 .post {
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
-  letter-spacing: 0;
-  font-weight: 400;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -moz-font-feature-settings: "liga" on;
-  color: #222;
-  font-size: 112%;
-  line-height: 1.5;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+	letter-spacing: 0;
+	font-weight: 400;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-moz-font-feature-settings: "liga" on;
+	color: #222;
+	font-size: 112%;
+	line-height: 1.5;
 
-  max-width: 740px;
-  width: 100%;
-  padding: 1em 20px 6em;
-  margin: 0 auto;
-  box-sizing: border-box;
+	max-width: 740px;
+	width: 100%;
+	padding: 1em 20px 6em;
+	margin: 0 auto;
+	box-sizing: border-box;
 }
 
 .post img {
