@@ -1,5 +1,5 @@
 ---
-title: Base Adresse Nationale
+title: Base adresse nationale
 mission: "Un référentiel national ouvert : de l'adresse à la coordonnée géographique."
 link: https://adresse.data.gouv.fr
 repository: https://adresse.data.gouv.fr/foss/
