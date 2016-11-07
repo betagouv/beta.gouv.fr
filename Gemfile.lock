@@ -109,6 +109,9 @@ GEM
       html-pipeline (~> 2.2)
       jekyll (>= 3.0)
     json (1.8.3)
+    jsonlint (0.2.0)
+      oj (~> 2)
+      trollop (~> 2)
     kramdown (1.11.1)
     liquid (3.0.6)
     listen (3.0.6)
@@ -125,6 +128,7 @@ GEM
       pkg-config (~> 1.1.7)
     octokit (4.4.1)
       sawyer (~> 0.7.0, >= 0.5.3)
+    oj (2.17.5)
     opengraph_parser (0.2.3)
       addressable
       nokogiri
@@ -145,6 +149,7 @@ GEM
     terminal-table (1.7.3)
       unicode-display_width (~> 1.1.1)
     thread_safe (0.3.5)
+    trollop (2.1.2)
     typhoeus (0.8.0)
       ethon (>= 0.8.0)
     tzinfo (1.2.2)
@@ -159,6 +164,7 @@ DEPENDENCIES
   github-pages (= 104)
   html-proofer
   json
+  jsonlint
   opengraph_parser
 
 BUNDLED WITH

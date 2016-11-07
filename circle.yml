@@ -6,17 +6,19 @@ machine:
 
 dependencies:
   post:
+    - pip install --user html5validator
     - bundle exec jekyll --version # print it out
-    - sudo pip install html5validator
 
 test:
-  override:
-    - bundle exec jekyll doctor
-    - bundle exec jekyll build
-    - grep "css/main.css" _site/index.html # smoke test that something was actually compiled
-    - ./rb/bin/htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
-    - html5validator --root _site
-    - bundle exec jekyll serve --safe --skip-initial-build:
+  pre:
+    - bundle exec jekyll build --safe
+    - bundle exec jekyll serve --no-watch --skip-initial-build:  # separate build from serve to ensure that the root URL is not set to localhost
         background: true
     - while ! curl --silent http://localhost:4000; do sleep 1; done  # wait for server to start
-    - ruby rb/test/opengraph.rb
+  override:
+    - bundle exec jekyll doctor  # test the configuration file
+    - test -s _site/index.html  # test that something was actually compiled
+    - ruby rb/bin/htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http  # test inner links
+    - html5validator --root _site  # test HTML compliance
+    - ruby rb/test/opengraph.rb  # test social cards
+    - bundle exec jsonlint _site/api/v1/*  # test the API
