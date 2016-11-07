@@ -6,7 +6,7 @@ layout: text
 
 ## Historique
 
-Depuis juin 2013, l’État a pu expérimenter au sein du [Secrétariat Général pour la Modernisation de l'Action Publique](https://modernisation.gouv.fr) (SGMAP) une nouvelle manière de construire des services publics numériques, en réussissant tout d'abord la refonte de [data.gouv.fr](https://data.gouv.fr). <sup><a href="#fn1" id="r1">[1]</a></sup> L'Incubateur de Services Numériques existe en tant que Mission de la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr> depuis septembre 2015.
+Depuis juin 2013, l’État a pu expérimenter au sein du [Secrétariat Général pour la Modernisation de l'Action Publique](https://modernisation.gouv.fr) (SGMAP) une nouvelle manière de construire des services publics numériques, en réussissant tout d'abord la refonte de [data.gouv.fr](https://data.gouv.fr)<sup><a href="#fn1" id="r1">[1]</a></sup>.  L'Incubateur de Services Numériques existe en tant que Mission de la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr> depuis septembre 2015.
 
 ## Principe fondateur des incubateurs de services numériques
 
@@ -40,7 +40,7 @@ Le cycle de vie d’une Startup d’État se termine par son intégration à co�
 
 [Nos réalisations](/startups) sont la meilleure illustration de nos pratiques.
 
-### Notes
+## Notes
 
 <span id="fn1"><a href="#r1">[1]</a></span> Pour comprendre plus en profondeur ces origines, un [mémoire universitaire](https://raw.github.com/wiki/sgmap/beta.gouv.fr/memoire-azoulay.pdf) retrace le contexte de la création de cet incubateur : notamment (pp 53-67) les enjeux et les motivations des choix organisationnels et techniques qui ont présidé à cette refonte.
 
