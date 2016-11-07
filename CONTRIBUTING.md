@@ -10,6 +10,7 @@ Les illustrations doivent être en 16:9, et à une résolution supérieure à 12
 
 > Sinon, offline : dupliquer un fichier de description dans le dossier [`_startup`](https://github.com/sgmap/beta.gouv.fr/tree/master/_startup) et suivre les instruction ci-dessous sur l'édition.
 
+Pour le titre de la startup, s'en tenir aux [règles usuelles](https://fr.wikipedia.org/wiki/Usage_des_majuscules_en_fran%C3%A7ais#R.C3.A8gles_traditionnelles), c'est-à-dire sauf cas particuliers : le premier mot prend une majsucule, les autres non. (Ce n'est pas grave de se tromper, mais il faut s'attendre à ce que ça soit corrigé plus tard.)
 
 ## Éditer la description d'une Startup existante
 
