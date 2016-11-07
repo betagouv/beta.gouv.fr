@@ -86,9 +86,7 @@ Les fichiers pertinents pour une modification de la présentation sont probablem
 
 ### Dépendances : un `Gemfile` particulier
 
-Afin de minimiser les écarts entre les versions de développement et les versions de production, ce dépôt contient les fichiers `Gemfile` (spécification des versions minimum des dépendances) et `Gemfile.lock` (spécification de l'ensemble des versions exactes résultant de l'évaluation de la commande `bundle install`).
-
-Le fichier `Gemfile` a par ailleurs un fonctionnement un peu particulier : lorsque c'est possible, il obtient sur le site de Github le numéro de version de Github Pages le plus récent, et tente de mettre à jour les dépendances. Cela arrive relativement rarement, mais lorsque c'est le cas vous aurez peut-être besoin de committer le fichier `Gemfile.lock`, qui est modifié par `bundle install` ou `bundle exec`.
+Afin de minimiser les écarts entre les versions de développement et les versions de production, ce dépôt contient un fichier `Gemfile` (spécification des versions minimum des dépendances), comme beaucoup de dépôts Ruby. Ce fichier `Gemfile` a par ailleurs un fonctionnement un peu particulier : lorsque c'est possible, il obtient sur le site de Github le numéro de version de Github Pages le plus récent, et tente de mettre à jour les dépendances.
 
 ## Modifier le logo
 
