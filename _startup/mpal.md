@@ -1,5 +1,5 @@
 ---
-title: Mon Projet d'Amélioration du Logement
+title: Mon Projet d'amélioration du logement
 mission: Accédez rapidement et simplement aux aides à l'habitat privé
 status: construction
 contact: contact@mpal.beta.gouv.fr
