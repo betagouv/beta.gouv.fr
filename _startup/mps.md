@@ -1,5 +1,5 @@
 ---
-title: Marchés Publics Simplifiés
+title: Marchés publics simplifiés
 mission: Candidatez en ligne à un Marché Public avec uniquement votre SIRET, MPS s'occupe du reste.
 link: https://mps.apientreprise.fr
 repository:
