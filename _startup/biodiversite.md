@@ -29,4 +29,4 @@ Et pour les particuliers, il s’agira :
 * de recevoir des conseils de plantation et d’entretien au fil des saisons,
 * de voir ce que font les voisins, se donner des idées et se motiver.
 
-__Arles et Paris__ seront les premières collectivités à mettre en place le service, qui sera notamment fourni en marque blanche pour être intégré dans leurs espaces numériques existants.
+__Arles__ sera la première collectivité à mettre en place le service, qui sera notamment fourni en marque blanche pour être intégré dans ses espaces numériques existants.
