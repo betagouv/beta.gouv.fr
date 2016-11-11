@@ -1,6 +1,6 @@
 ---
 title: Mes démarches retraite pas à pas
-mission: Obtenez en quelques clics la liste personnalisée de vos démarches de retraite.
+mission: Obtenir en quelques clics la liste personnalisée de ses démarches de retraite
 link: https://retraite.beta.gouv.fr
 repository: https://github.com/sgmap/retraite
 status: passation

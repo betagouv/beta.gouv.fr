@@ -1,6 +1,6 @@
 ---
 title: Chouette
-mission: Recrutez des gens, pas des CV
+mission: Recruter des gens, pas des CV
 link: http://chouette.beta.pole-emploi.fr
 status: construction
 contact: lauren.michel@pole-emploi.fr

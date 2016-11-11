@@ -1,6 +1,6 @@
 ---
 title: Téléprocédure simplifiée
-mission: Simplifiez toutes vos démarches pour les rendre 100% en ligne.
+mission: Simplifier toutes les démarches administratives en ligne
 link: https://tps.apientreprise.fr
 repository: https://github.com/sgmap/tps
 status: construction

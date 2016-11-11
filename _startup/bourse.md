@@ -1,6 +1,6 @@
 ---
 title: Bourse
-mission: Demander et liquider une bourse de collège en ligne.
+mission: Demander et liquider une bourse de collège en ligne
 link: https://bourse.beta.gouv.fr
 repository: https://github.com/sgmap/bourses/
 status: consolidation

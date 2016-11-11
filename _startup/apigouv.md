@@ -1,6 +1,6 @@
 ---
 title: api.gouv.fr
-mission: Faciliter l'accès aux API publiques pour faire émerger de nouveaux services.
+mission: Faciliter l'accès aux API publiques pour faire émerger de nouveaux services
 link: https://api.gouv.fr
 repository: https://github.com/sgmap/api.gouv.fr
 status: construction

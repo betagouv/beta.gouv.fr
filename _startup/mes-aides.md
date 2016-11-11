@@ -1,6 +1,6 @@
 ---
 title: Mes Aides
-mission: Évaluez vos droits à 22 aides sociales. En moins de 6 minutes.
+mission: Évaluer ses droits à 22 aides sociales, en moins de 6 minutes
 link: https://mes-aides.gouv.fr
 repository: https://github.com/sgmap/mes-aides-ui
 status: consolidation
