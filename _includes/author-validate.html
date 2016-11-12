@@ -1,5 +1,6 @@
-{% if include.employer %}
-{% comment %} employer data is present {% endcomment %}
-{% else %}
+{% unless include.employer %}
 	{% include missing-employer %} {% comment %} poor man's validation through missing file ;) {% endcomment %}
-{% endif %}
+{% endunless %}
+{% unless include.start %}
+	{% include missing-start-date %} {% comment %} poor man's validation through missing file ;) {% endcomment %}
+{% endunless %}
