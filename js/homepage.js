@@ -12,6 +12,7 @@ $(function initHomepage() {
 		$(selectorForIndex(currentIndex + 1)).transition('fade right');
 
 		currentIndex++;
+		if (currentIndex == total) window.location.href = '/startups';
 	}
 
 	$('#presentation .startup-presentation').transition('hide');
