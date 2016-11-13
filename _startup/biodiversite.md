@@ -30,3 +30,5 @@ Et pour les particuliers, il s’agira :
 * de voir ce que font les voisins, se donner des idées et se motiver.
 
 __Arles__ sera la première collectivité à mettre en place le service, qui sera notamment fourni en marque blanche pour être intégré dans ses espaces numériques existants.
+
+(Source de l'image d'en tête: [New crops](https://www.flickr.com/photos/22748341@N00/2737299930/) )
