@@ -10,6 +10,7 @@ Les illustrations doivent être en 16:9, et à une résolution supérieure à 12
 
 > Sinon, offline : dupliquer un fichier de description dans le dossier [`_startup`](https://github.com/sgmap/beta.gouv.fr/tree/master/_startup) et suivre les instruction ci-dessous sur l'édition.
 
+Pour le titre de la startup, s'en tenir aux [règles usuelles](https://fr.wikipedia.org/wiki/Usage_des_majuscules_en_fran%C3%A7ais#R.C3.A8gles_traditionnelles), c'est-à-dire sauf cas particuliers : le premier mot prend une majsucule, les autres non. (Ce n'est pas grave de se tromper, mais il faut s'attendre à ce que ça soit corrigé plus tard.)
 
 ## Éditer la description d'une Startup existante
 
@@ -52,7 +53,7 @@ Notamment, attention, la date dans le nom du fichier au format `AAAA-MM-DD-nom_e
 ## Ajouter un membre à l'équipe Incubateur
 
 
-### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/master/_posts?filename=_author/id.md&value=---%0d%0afullname%3a+Camille+Dupont+%23+penser+%c3%a0+modifier+le+nom+du+fichier+ci-dessus+!%0d%0arole%3a+Smartass%0d%0astart%3a+2016-12-31+%23+date+d%27arriv%c3%a9e+au+format+ISO+(AAAA-MM-JJ)%0d%0aend%3a+2016-09-15+%23+date+de+fin+de+contrat+au+format+ISO+(AAAA-MM-JJ)%0d%0aavatar%3a+%23+uploader+un+fichier+JPG+en+512x512+du+m%c3%aame+nom+que+ce+fichier+dans+%2fimg%2fauthor+et+effacer+cette+ligne%2c+ou+sp%c3%a9cifier+une+URL+externe+en+HTTPS%0d%0alink%3a+%23+optionnel+%3a+lien+vers+une+page+perso+externe.+Effacer+cette+ligne+si+rien+%c3%a0+mettre.%0d%0a---%0d%0a%0d%0a%c3%89crit+des+autobiographies+percutantes+en+moins+de+200+caract%c3%a8res+depuis+1972.) :smiley:
+### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/master/_posts?filename=_author/id.md&value=---%0d%0afullname%3a+Camille+Dupont+%23+penser+%c3%a0+modifier+le+nom+du+fichier+ci-dessus+!%0d%0arole%3a+Smartass%0d%0astart%3a+2016-12-31+%23+date+d%27arriv%c3%a9e+au+format+ISO+(AAAA-MM-JJ)%0d%0aend%3a+2016-09-15+%23+date+de+fin+de+contrat+au+format+ISO+(AAAA-MM-JJ)%0d%0aavatar%3a+%23+uploader+un+fichier+JPG+en+512x512+du+m%c3%aame+nom+que+ce+fichier+dans+%2fimg%2fauthor+et+effacer+cette+ligne%2c+ou+sp%c3%a9cifier+une+URL+externe+en+HTTPS%0d%0alink%3a+%23+optionnel+%3a+lien+vers+une+page+perso+externe.+Effacer+cette+ligne+si+rien+%c3%a0+mettre.%0d%0aemployer%3a+%23+dinsic+ou+independent%2f%3cemployer%3e+ou+admin%2f%3cemployer%3e%0d%0a---%0d%0a%0d%0a%c3%89crit+des+autobiographies+percutantes+en+moins+de+200+caract%c3%a8res+depuis+1972.) :smiley:
 
 Attention, l'image doit être carrée et de préférence à une résolution supérieure à 512 ⨉ 512 pixels.
 
@@ -86,9 +87,7 @@ Les fichiers pertinents pour une modification de la présentation sont probablem
 
 ### Dépendances : un `Gemfile` particulier
 
-Afin de minimiser les écarts entre les versions de développement et les versions de production, ce dépôt contient les fichiers `Gemfile` (spécification des versions minimum des dépendances) et `Gemfile.lock` (spécification de l'ensemble des versions exactes résultant de l'évaluation de la commande `bundle install`).
-
-Le fichier `Gemfile` a par ailleurs un fonctionnement un peu particulier : lorsque c'est possible, il obtient sur le site de Github le numéro de version de Github Pages le plus récent, et tente de mettre à jour les dépendances. Cela arrive relativement rarement, mais lorsque c'est le cas vous aurez peut-être besoin de committer le fichier `Gemfile.lock`, qui est modifié par `bundle install` ou `bundle exec`.
+Afin de minimiser les écarts entre les versions de développement et les versions de production, ce dépôt contient un fichier `Gemfile` (spécification des versions minimum des dépendances), comme beaucoup de dépôts Ruby. Ce fichier `Gemfile` a par ailleurs un fonctionnement un peu particulier : lorsque c'est possible, il obtient sur le site de Github le numéro de version de Github Pages le plus récent, et tente de mettre à jour les dépendances.
 
 ## Modifier le logo
 

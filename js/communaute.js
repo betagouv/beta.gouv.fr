@@ -59,6 +59,9 @@ new Chart(document.querySelector('canvas'), {
 		tooltips: {
 			mode: 'x-axis'
 		},
+		hover: {
+			mode: 'x-axis'
+		},
 		scales: {
 			xAxes: [{
 				type: 'time',

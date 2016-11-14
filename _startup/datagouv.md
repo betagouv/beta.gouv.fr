@@ -1,5 +1,5 @@
 ---
-title: Data.gouv.fr
+title: data.gouv.fr
 mission: Partagez, améliorez et réutilisez les données publiques.
 link: https://data.gouv.fr
 repository: https://github.com/etalab/udata

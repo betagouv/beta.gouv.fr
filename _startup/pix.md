@@ -7,11 +7,11 @@ status: construction
 contact: contact@pix.beta.gouv.fr
 logo: /img/logos/pix.png
 start: 2016-06-08
-owner: Enseignement supérieur
+owner: Éducation nationale et Enseignement supérieur
 screenshot: /img/startup/pix.jpg
 ---
 
-PIX s'adresse à tous les citoyen•ne•s français•es (élèves, étudiant•e•s, professionnel•le•s, décrocheur•se•s, demandeur•se•s d'emploi, etc.) qui souhaitent mesurer, développer et valoriser leurs compétences numériques.
+PIX s'adresse à tous les citoyen•ne•s français•es et francophones (élèves, étudiant•e•s, professionnel•le•s, décrocheur•se•s, demandeur•se•s d'emploi, etc.) qui souhaitent mesurer, développer et valoriser leurs compétences numériques.
 
 Le service se présente sous la forme d'une plateforme en ligne d'évaluation et de certification des compétences numériques.
 
