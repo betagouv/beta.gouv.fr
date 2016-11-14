@@ -1,6 +1,7 @@
+{% comment %} poor man's validation through missing file ;) {% endcomment %}
 {% unless include.employer %}
-	{% include missing-employer %} {% comment %} poor man's validation through missing file ;) {% endcomment %}
+	{% include missing-employer %}
 {% endunless %}
 {% unless include.start %}
-	{% include missing-start-date %} {% comment %} poor man's validation through missing file ;) {% endcomment %}
+	{% include missing-start-date %}
 {% endunless %}
