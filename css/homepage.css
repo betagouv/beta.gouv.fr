@@ -3,24 +3,6 @@ body {
 	max-width: 100%;
 }
 
-.animating.out {
-	position: absolute;
-}
-
-#otherExample {
-	float: right;
-}
-
-/* Degradability + avoid FOUC */
-.no-js #otherExample {
-	opacity: 0;
-}
-
-/* IE < 10, nothing is better than fracked layout */
-.no-csstransitions #example, .no-csstransitions #otherExample {
-	display: none;
-}
-
 #intro-header {
 	display: flex;
 	flex-direction: column;
@@ -44,10 +26,6 @@ body {
 	text-transform: uppercase;
 	border-top: 1px solid #ddd;
 	text-align: center;
-}
-
-#presentation {
-	justify-content: center;
 }
 
 #dashboard {
