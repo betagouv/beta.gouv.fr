@@ -18,8 +18,6 @@ Three years and a few IT projects later, I thought that I got it right and appli
 
 Yet a few weeks ago, I learned that you can always remove useless things. You just don't know it yet.
 
-<!--more-->
-
 ### Story time
 
 I wanted to create an API above the drugs data set ([freely provided by the French government as CSV files](https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/)). I knew that I needed a script to parse and store the data and a web API to expose them. The code is on [github](https://github.com/sgmap/api-medicaments) and the application is [live](http://medicaments.api.gouv.fr).
