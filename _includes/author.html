@@ -8,6 +8,7 @@
 		{% endif %}
 	{% endfor %}
 {% endif %}
+{% include validate-author.html employer=description.employer start=description.start %}
 
 {% capture avatar %}
 	<img alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}/img{{ description.id }}.jpg{% endif %}" />
