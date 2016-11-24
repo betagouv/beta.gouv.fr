@@ -34,11 +34,7 @@ Avant d'ouvrir une pull request, diffuser un lien privé de prévisualisation à
 
 > Par exemple, créer un [Gist](https://gist.github.com) privé.
 
-Après de potentielles itérations, si aucun des destinataires n'a posé de véto à la publication, et dès qu'au moins 25% en ont validé le contenu, l'auteur transmet son billet au directeur de l'incubateur pour confirmation.
-
-### 3. Ouvrir une pull request
-
-Une fois le contenu validé par les pairs et la direction, l'auteur ouvre une pull request pour vérifications syntaxiques et fonctionnelles.
+Recueillez l'avis d'au moins 2 membres de l'incubateur. Après de potentielles itérations, si aucun des destinataires n'a posé de véto à la publication, l'auteur peut ouvrir une pull request pour dernières vérifications syntaxiques et fonctionnelles.
 
 
 ## Ajouter un événement
