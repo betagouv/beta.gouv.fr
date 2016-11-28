@@ -15,13 +15,13 @@ Dans le domaine militaire, cette doctrine fut pourtant remise en cause dès le 1
 
 La clé de cette doctrine est l'observation suivante : **des troupes sur le terrain auront toujours une information tactique plus complète et plus récente que les généraux qui ont rédigé leurs ordres de mission**.
 
-Imaginez une escouade (15 soldats), dépêchée sur le terrain avec l'intention d'empêcher un ennemi d'investir un village qui constitue une position stratégique. Un pont qui permet de franchir une rivière donne accès au village. L'escouade prend position ; en longeant la rivière, assez loin en amont, elle repère sur la berge une gabare – une barge à fond plat…
+Imaginez une escouade (15 soldats), dépêchée sur le terrain avec l'intention d'empêcher un ennemi d'investir un village qui constitue une position stratégique. Un pont qui permet de franchir une rivière donne accès au village. L'escouade prend position ; en longeant la rivière, assez loin en amont, elle repère une barge sur la berge…
 
 Dans un premier scénario, qui correspond à la doctrine ancienne en vigueur à l'époque de Moltke, l'escouade a reçu l'ordre explicite « prenez position sur le pont, repoussez l'ennemi ». La barge n'est pas de leur ressort : c'est un élément de décor.
 
 La doctrine de Moltke consiste à donner un ordre plus proche de « empêchez l'ennemi d'accéder au village, par tous les moyens ». L'escouade repère la barge, qui prend alors un autre sens : un moyen alternatif d'accéder au village. Elle saborde l'embarcation avant de prendre position.
 
-C'est pour ces motifs, notamment, qu'une équipe autonome est réputée plus efficace. Ce n'est pas parce qu'elle n'a pas de plan ; ce n'est pas parce que les personnes qui la composent « font ce qu'elles veulent » et que c'est plus amusant comme ça. C'est tout simplement parce qu'entre la planification et l'exécution sur le terrain, la réalité peut avoir changé – ou des circonstances similaires à la gabare vont se présenter – et que ceux qui en sont les plus proches ont en main les informations pour prendre les bonnes décisions.
+C'est pour ces motifs, notamment, qu'une équipe autonome est réputée plus efficace. Ce n'est pas parce qu'elle n'a pas de plan; ce n'est pas parce que les personnes qui la composent « font ce qu'elles veulent » et que c'est plus amusant comme ça. C'est tout simplement parce qu'entre la planification et l'exécution sur le terrain, la réalité peut avoir changé - ou des circonstances similaires à la barge vont se présenter - et que ceux qui en sont les plus proches ont en main les informations pour prendre les bonnes décisions.
 
 Transposons cette distinction aux projets numériques de l'administration : on profitera à donner, non pas des directives tactiques détaillées (« Implémentez une application Web dotée d'une fonction d'identification, du choix d'un établissement scolaire et permettant de joindre à une demande un justificatif fiscal ») mais un énoncé succinct de l'enjeu stratégique : « Il s'agit de faciliter l'accès des lycéens aux bourses des collèges ». Sous-entendu : « et peu importent les moyens, débrouillez-vous ».
 
