@@ -22,7 +22,7 @@ La documentation des différentes propriétés à renseigner est accessible en c
 
 ### 1. Écrire le billet
 
-[En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/master/_posts?filename=_posts/AAAA-MM-DD-titre.md&value=---%0d%0atitle%3a+Nom+du+billet%0d%0aauthor%3a+Jean+Dupont+%23+nom+de+l%27auteur%0d%0a---%0d%0a%0d%0aPour+ajouter+une+image+au+billet%2c+cr%c3%a9er+un+fichier+JPEG+dans+%60img%2fposts%60+du+m%c3%aame+nom+que+le+fichier+contenant+le+post.%0d%0a%0d%0a**Pensez+%c3%a0+modifier+le+nom+de+ce+fichier+%3a+il+doit+%c3%aatre+au+format+%60AAAA-MM-DD-titre.md%60+!**%0d%0aO%c3%b9+%60AAAA-MM-DD%60+est+la+date+%c3%a0+laquelle+vous+souhaitez+que+le+billet+soit+publi%c3%a9.) :smiley:
+[En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/master/_posts?filename=_posts/AAAA-MM-DD-titre.md&value=---%0d%0atitle%3a+Nom+du+billet%0d%0aauthors%3a+jean.dupont+%23+id+du+ou+des+auteurs%0d%0a---%0d%0a%0d%0aPour+ajouter+une+image+au+billet%2c+cr%c3%a9er+un+fichier+JPEG+dans+%60img%2fposts%60+du+m%c3%aame+nom+que+le+fichier+contenant+le+post.%0d%0a%0d%0a**Pensez+%c3%a0+modifier+le+nom+de+ce+fichier+%3a+il+doit+%c3%aatre+au+format+%60AAAA-MM-DD-titre.md%60+!**%0d%0aO%c3%b9+%60AAAA-MM-DD%60+est+la+date+%c3%a0+laquelle+vous+souhaitez+que+le+billet+soit+publi%c3%a9.) :smiley:
 
 Pour ajouter une image au billet, créer un fichier JPEG dans `img/posts` du même nom que le fichier contenant le post (donc par exemple `AAAA-MM-DD-titre.jpg`). À l'affichage, l'image sera redimensionnée : les dimensions exactes de l'image ont donc peu d'importance.
 
