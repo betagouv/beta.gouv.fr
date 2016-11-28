@@ -11,7 +11,7 @@ Le problème est que des différences superficielles de méthode, tout en suscit
 
 Cette doctrine encore quasi-universelle est la suivante : la réflexion et la planification sont le domaine exclusif des décideurs et des métiers qui leur sont associés (généralement « maîtrise d'ouvrage »). Tels des généraux, ils étudient le terrain sur lequel on livrera bataille, et fournissent aux fantassins un ordre de mission précis que ces derniers n'ont plus qu'à exécuter. L'exécution compétente des ordres transmis garantira le succès de l'opération.
 
-Dans le domaine militaire, cette doctrine fut pourtant remise en cause dès le 19è siècle par le maréchal prussien Helmuth von Moltke « l'Ancien », qui lui préféra celle connue sous le nom « Auftragstaktik » en allemand (« Mission Style tactics » en anglais). On la résume souvent par un aphorisme : « Aucun plan ne survit au premier contact avec l'ennemi. »
+Dans le domaine militaire, cette doctrine fut pourtant remise en cause dès le 19<sup>ème</sup> siècle par le maréchal prussien Helmuth von Moltke « l'Ancien », qui lui préféra celle connue sous le nom <em lang="de">Auftragstaktik</em> en allemand (<em lang="en">Mission Style tactics</em> en anglais). On la résume souvent par un aphorisme : « Aucun plan ne survit au premier contact avec l'ennemi. »
 
 La clé de cette doctrine est l'observation suivante : **des troupes sur le terrain auront toujours une information tactique plus complète et plus récente que les généraux qui ont rédigé leurs ordres de mission**.
 
