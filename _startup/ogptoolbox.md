@@ -1,8 +1,8 @@
 ---
 title: OGP Toolbox
-mission: Améliorer la démocratie avec le numérique / Find digital tools to improve democracy
+mission: Trouver des outils numériques pour améliorer la démocratie
 link: https://ogptoolbox.org/
-repository: 
+repository:
 status: construction
 contact: paula.forteza@modernisation.gouv.fr
 logo: /img/logos/ogptoolbox.png
@@ -13,11 +13,11 @@ screenshot: /img/startup/ogptoolbox.png
 
 OGP Toolbox est un réseau social pour trouver et partager des outils numériques efficaces au service de l'ouverture des gouvernments et des sociétés civiles.
 
-Ces outils couvrent la "civic tech", la donnée ouverte, la transparence parlementaire, la transparence règlementaire et la simulation, la contribution de la multitude à la donnée publique, les budgets participatifs...
+Ces outils couvrent la <em>civic tech</em>, la donnée ouverte, la transparence parlementaire, la transparence règlementaire et la simulation, la contribution de la multitude à la donnée publique, les budgets participatifs…
 
-Dans OGP Toolbox vous trouverez des outils, mais aussi des gens et leurs histoires!
+Dans OGP Toolbox vous trouverez des outils, mais aussi des gens et leurs histoires !
 
-Destiné aux citoyens, aux gouvernements nationaux et locaux, aux mouvements politiques et aux associations.
+Un outil destiné aux citoyens, aux gouvernements nationaux et locaux, aux mouvements politiques et aux associations.
 
 ---
 
