@@ -3,7 +3,7 @@ title: Qu'est-ce qu'une équipe autonome ?
 authors: lbo
 ---
 
-Une Startup d'Etat est « une équipe de 2 à 4 personnes financée par une administration et totalement autonome »… Mais qu'entend-on exactement par « autonome », et pourquoi est-ce important ?
+Une Startup d'État est « une équipe de 2 à 4 personnes financée par une administration et totalement autonome »… Mais qu'entend-on exactement par « autonome », et pourquoi est-ce important ?
 
 Pour l'illustrer, un bref détour est nécessaire. Les débats autours de la manière de mener les projets de développement informatiques s'organisent souvent autour de la notion de « méthode » : c'est ainsi qu'on parle de « méthode agile », en l'opposant à d'autres dénommées « cycle en V ». L'une s'appuierait sur la notion de « backlog », un découpage des tâches à effectuer souvent réifié sous la forme de Post-Its, l'autre sur le « cahier des charges », un classique document Word. L'une mobilise un rôle de « scrum master » alors que l'autre confère des responsabilités similaires à un « chef de projet ».
 
