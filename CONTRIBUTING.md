@@ -54,7 +54,7 @@ Notamment, attention, la date dans le nom du fichier au format `AAAA-MM-DD-nom_e
 
 Attention, l'image doit être carrée et de préférence à une résolution supérieure à 512 ⨉ 512 pixels.
 
-Le nom du fichier est important: il doit correspondre au nom de la personne, selon le schéma `prenom.nom`. Les parties `prenom` et `nom` sont en minuscules et sans accents. Les espaces des noms propres sont remplacés par `_` et les tirets restent. Rien de très important ne dépend du respect de ces conventions, par contre **il est important que cet identifiant et celui du mail @beta.gouv.fr correspondent**. Cela nous permet de traiter automatiquement divers sujets liés à la gestion RH tels que abonnement et désabonnement des listes de diffusion, anticipation des fins de contrat, etc.
+Le nom du fichier est important : il doit correspondre au nom de la personne, selon le schéma `prenom.nom`. Les parties `prenom` et `nom` sont en minuscules et sans accents. Les espaces des noms propres sont remplacés par `_` et les tirets restent. Rien de très important ne dépend du respect de ces conventions, par contre **il est important que cet identifiant et celui du mail `@beta.gouv.fr` correspondent**. Cela nous permet de traiter [automatiquement](https://github.com/sgmap/betaGouvBot) divers sujets liés à la gestion RH tels que abonnement et désabonnement des listes de diffusion, anticipation des fins de contrat, etc.
 
 > Sinon, offline : créer un nouveau fichier de description dans le dossier [`_author`](https://github.com/sgmap/beta.gouv.fr/tree/master/_author) et renseigner les informations en prenant exemple sur un fichier de description existant déjà dans ce dossier.
 
