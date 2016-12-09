@@ -1,7 +1,7 @@
 ---
 fullname: Jérémy Buget
 role: Développeur
-start: 2017-01-02
+start: 2016-06-08
 end: 2017-04-14
 employer: service/octo
 ---
