@@ -1,6 +1,6 @@
 ---
 title: Le Taxi
-mission: Un clic, un taxi.
+mission: Commander un taxi, rapidement
 link: https://le.taxi
 repository: https://github.com/openmaraude/APITaxi
 status: consolidation

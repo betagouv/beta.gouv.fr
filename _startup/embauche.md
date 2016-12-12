@@ -1,6 +1,6 @@
 ---
 title: Simulateur de coût d’embauche
-mission: Estimer le coût d'une embauche en France.
+mission: Estimer le coût d'une embauche en France
 link: https://embauche.beta.gouv.fr
 repository: https://github.com/sgmap/cout-embauche
 status: consolidation

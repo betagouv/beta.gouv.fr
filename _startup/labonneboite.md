@@ -1,6 +1,6 @@
 ---
 title: La Bonne Boîte
-mission: Trouvez les entreprises qui vont recruter près de chez vous.
+mission: Trouver les entreprises qui vont recruter près de chez soi
 link: http://labonneboite.pole-emploi.fr
 repository:
 status: consolidation

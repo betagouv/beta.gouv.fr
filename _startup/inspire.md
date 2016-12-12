@@ -1,6 +1,6 @@
 ---
 title: inspire.data.gouv.fr
-mission: Libérer les données géographiques pour intensifier leurs usages.
+mission: Libérer les données géographiques pour intensifier leurs usages
 link: https://inspire.data.gouv.fr
 repository: https://github.com/sgmap-inspire/
 status: consolidation

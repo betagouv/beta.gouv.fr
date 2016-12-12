@@ -1,6 +1,6 @@
 ---
 title: Boomerang
-mission: Suivez toutes vos candidatures en un seul endroit
+mission: Suivre toutes ses candidatures en un seul endroit
 link: http://boomerang.beta.pole-emploi.fr/
 status: construction
 contact: sebastien.cadiou@pole-emploi.fr
