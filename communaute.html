@@ -3,7 +3,7 @@ title: Communauté
 menu_index: 2
 additional_css: communaute
 additional_js:
-  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.1/Chart.bundle.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.bundle.min.js
   - communaute
 
 hire_card:
@@ -34,9 +34,11 @@ hire_card:
 
 <section id="effectifs" class="ui container">
 	<h2 class="ui divider horizontal">Évolution des effectifs</h2>
-	<canvas>
-		Nous avons actuellement {% increment members_count %} membres.
-	</canvas>
+	<div class="chart-wrapper">
+		<canvas>
+			Nous avons actuellement {% increment members_count %} membres.
+		</canvas>
+	</div>
 	<p>À l'exception de quelques membres permanents qui assurent la passation de la connaissance, le lien avec l'administration hôte et la continuité de l'animation de la communauté, nos membres sont recrutés pour faire réussir <em>une</em> Startup d'État. Leur engagement est limité dans le temps. Cela évite à l'administration qui a lancé une Startup de la considérer comme un investissement impossible à abandonner, qui signerait la fin de son droit à l'échec et donc de sa capacité à innover.</p>
 </section>
 

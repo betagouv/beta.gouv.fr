@@ -1,3 +1,8 @@
+#effectifs .chart-wrapper {
+    position: relative;
+    height: 60vh;
+}
+
 #effectifs canvas {
 	height: 60vh;
 	width: 100%;
