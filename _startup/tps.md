@@ -5,7 +5,7 @@ link: https://tps.apientreprise.fr
 repository: https://github.com/sgmap/tps
 status: construction
 contact: contact@tps.apientreprise.fr
-logo: https://tps-dev.apientreprise.fr/assets/logo-tps-33474ee2fd28fc088700df9090971ade28ca6498e3186f457400f31e85a92364.png
+logo: https://cdn.rawgit.com/sgmap/tps/e10c218d3a20e7e86afd3a4da5e1176772365c3d/app/assets/images/logos/logo-tps.png
 start: 2015-09-15
 owner: SGMAP
 ---
