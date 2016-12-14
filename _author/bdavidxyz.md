@@ -8,4 +8,4 @@ link: http://bdavidxyz.com
 employer:  independent/octo
 ---
 
-Développeur web avec une préférence pour l'UI et le Javascript.
+Développeur web avec une préférence pour l’UI et le Javascript.
