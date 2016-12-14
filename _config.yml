@@ -43,7 +43,7 @@ defaults:
       layout: default
 
 phases:
-  linking: startups en
+  startups_in: startups en
   incubation:
     investigation:
       name: investigation
@@ -69,19 +69,19 @@ phases:
       description: Le service a été abandonné en cours de construction. L'abandon est expliqué pour capitaliser sur l'expérience accumulée.
 
 phases_en:
-  linking: startups being
+  startups_in: startups under
   incubation:
     investigation:
-      name: investigated
+      name: investigation
       description: A civil servant has identified a pain point affecting citizens dealing with government
     construction:
-      name: built
+      name: construction
       description: A team of two to four has been formed to hash out a viable solution.
     consolidation:
-      name: scaled out
+      name: consolidation
       description: Initial users are enjoying actual benefits from the service, which expands its reach to new users.
     passation:
-      name: transferred
+      name: handover
       description: The team and the public body responsible for the product are satisfied of its viability.
   endgame:
     success:
