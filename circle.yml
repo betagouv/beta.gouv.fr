@@ -24,4 +24,4 @@ test:
     - ruby rb/test/opengraph.rb  # test social cards
     - bundle exec jsonlint _site/api/v1/*  # test the API
   post:
-    - find . -type d \( -path ./_site -o -path ./.git -o -path ./img -o -path ./vendor \) -prune -o -print | xargs eclint check
+    - find . -type d \( -path ./_site -o -path ./.git -o -path ./img -o -path ./vendor \) -prune -o -not -name nohup.out -print | xargs eclint check
