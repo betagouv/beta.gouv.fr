@@ -1,5 +1,6 @@
+{% assign phases = include.phases %}
 <ol class="counter--incubation">
-    {% for phase in site.phases.incubation %}
+    {% for phase in phases.incubation %}
         <li class="counter {{ phase[0] }}">
             <a href="/startups#{{ phase[0] }}">
                 <span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
@@ -11,7 +12,7 @@
 
     <li>
         <ul class="counter--endgame">
-            {% for phase in site.phases.endgame %}
+            {% for phase in phases.endgame %}
                 <li class="counter {{ phase[0] }}">
                     <a href="/startups#{{ phase[0] }}">
                         <span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>

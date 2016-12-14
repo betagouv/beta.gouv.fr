@@ -8,6 +8,7 @@ exclude: [rb, bin, vendor, app.json]
 title: beta.gouv.fr
 email: contact@beta.gouv.fr
 description: Nous créons des services publics numériques
+description_en: We build digital public services
 url: https://beta.gouv.fr
 twitter_id: 715451644683673601  # more stable than the username
 
@@ -42,6 +43,7 @@ defaults:
       layout: default
 
 phases:
+  linking: startups en
   incubation:
     investigation:
       name: investigation
@@ -57,19 +59,39 @@ phases:
       description: L'équipe et l'administration porteuse considèrent que le service est viable.
   endgame:
     success:
-      name:
-        singular: reprise
-        plural: reprises
+      name: reprises
       description: Le service est opéré de manière pérenne par son repreneur institutionnel.
     retirement:
-      name:
-        singular: fermée
-        plural: fermées
+      name: fermées
       description: Les évolutions de la technologie, de la réglementation ou des usages ont rendu le service obsolète. Il a été fermé en lien avec les partenaires, les usagers et l'administration qui le portait.
     death:
-      name:
-        singular: abandonnée
-        plural: abandonnées
+      name: abandonnées
       description: Le service a été abandonné en cours de construction. L'abandon est expliqué pour capitaliser sur l'expérience accumulée.
+
+phases_en:
+  linking: startups being
+  incubation:
+    investigation:
+      name: investigated
+      description: A civil servant has identified a pain point affecting citizens dealing with government
+    construction:
+      name: built
+      description: A team of two to four has been formed to hash out a viable solution.
+    consolidation:
+      name: scaled out
+      description: Initial users are enjoying actual benefits from the service, which expands its reach to new users.
+    passation:
+      name: transferred
+      description: The team and the public body responsible for the product are satisfied of its viability.
+  endgame:
+    success:
+      name: live
+      description: The service has been fully entrusted to the care of a public sector body.
+    retirement:
+      name: retired
+      description: Changes in technology, regulation or usage have made the service obsolete. It has been shut down by the public body responsible for it.
+    death:
+      name: abandoned
+      description: The service has been discontinued while under construction. A post-mortem has been conducted to extract value from the experiment.
 
 excerpt_separator: <!--more-->

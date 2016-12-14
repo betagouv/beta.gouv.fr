@@ -1,0 +1,44 @@
+---
+title: (en)
+additional_css:
+- homepage
+- dashboard
+- startup-presentation
+additional_js: homepage
+menu_index: 5
+---
+
+<section id="intro-header">
+	<h1 id="logo">beta.gouv.fr</h1>
+	<div class="tagline">{{ site.description_en }}</div>
+	<a class="primary investigation cta" href="#cycle">Find out how</a>
+</section>
+
+<section id="presentation" class="ui container">
+	<div id="example">
+		{% include startup-presentation.html id='mes-aides' %}
+		{% include startup-presentation.html id='labonneboite' %}
+		{% include startup-presentation.html id='mps' %}
+	</div>
+
+	<span class="cta" id="otherExample">More examples</span>
+</section>
+
+<section id="dashboard">
+	{% include dashboard.html phases=site.phases_en %}
+
+	<a href="startups" class="primary success cta">Explore our {{ site.startup | size }} State Startups&nbsp;&nbsp;➤</a>
+</section>
+
+<section id="cycle">
+	<h2 class="ui divider horizontal">How State Startups work</h2>
+
+	<ol class="ui container">
+		<li>A civil servant <strong>investigates a pain point</strong> affecting citizens dealing with government.</li>
+		<li>A team of two to four <strong>builds a product</strong> in under six months using modern technologies.</li>
+		<li>The team <strong>scales the service out</strong> by meeting the needs of a broader user population.</li>
+		<li>A public sector body <strong>assumes ownership</strong> of the product and continuously improves it.</li>
+	</ol>
+
+	<a href="communaute" class="primary success cta">A community of {{ site.author | size }} people&nbsp;&nbsp;➤</a>
+</section>
