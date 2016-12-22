@@ -19,14 +19,6 @@ Mes Aides intègre également progressivement toutes les aides extra-légales di
 Nous sommes prêts à accueillir des stagiaires sur les sujets suivants :
 
 
-### Business Development
-
-Développer l'usage de Mes Aides, partout en France, à la fois en élargissant le cercle de contributeurs et en faisant connaître l'outil auprès des médiateurs.
-
-Animer la communauté des médiateurs professionnels et bénévoles qui utilisent Mes Aides au quotidien. Consolider les usages et les bonnes pratiques, émettre des newsletters mensuelles. Animer la communauté des utilisateurs particuliers via Facebook et Twitter.
-
-Intéressé·e ? Une [fiche de poste](/img/startup/mes-aides/stage-bizdev-mes-aides.pdf) standard est disponible pour ce poste.
-
 ### Développement logiciel / Analytics
 
 Créer un dashboard de suivi interactif des métriques clés (KPI) de la vie de l'application (charge, nombre de visites, état de la production…).
