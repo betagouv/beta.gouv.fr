@@ -4,7 +4,7 @@ layout: null
 [
   {% for author in site.author %}
     {
-      "id": "{{ author.id }}",
+      "id": "{{ author.id | replace:'/author/','' }}",
       "fullname": "{{ author.fullname }}",
       "start": "{{ author.start }}",
       "end": "{{ author.end }}"
