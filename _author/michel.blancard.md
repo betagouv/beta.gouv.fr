@@ -6,4 +6,4 @@ end: 2019-12-29
 employer: dinsic
 ---
 
-Artisant de l'information
+Artisan de l'information
