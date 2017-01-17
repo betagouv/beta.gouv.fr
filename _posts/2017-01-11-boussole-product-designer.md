@@ -11,4 +11,4 @@ L'équipe Boussole cherche un·e product designer pour prototyper, tester et imp
 * vous aimez le design simple qui privilégie l'utilisabilité à l'esthétique ;
 * vous êtes familier·e avec le Lean UX ?
 
-Ecrivez-nous à l'adresse contact@boussole.beta.gouv.fr et venez partager votre expérience et vos belles histoires dans la construction de services qui marchent ;)
+Ecrivez-nous à l'adresse `contact@boussole.beta.gouv.fr` et venez partager votre expérience et vos belles histoires dans la construction de services qui marchent ;)
