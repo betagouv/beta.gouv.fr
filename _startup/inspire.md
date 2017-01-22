@@ -2,9 +2,9 @@
 title: inspire.data.gouv.fr
 mission: Libérer les données géographiques pour intensifier leurs usages
 link: https://inspire.data.gouv.fr
-repository: https://github.com/sgmap-inspire/
+repository: https://github.com/sgmap/inspire
 status: consolidation
-contact: jerome.desboeufs@data.gouv.fr
+contact: inspire@data.gouv.fr
 start: 2015-01-01
 owner: SGMAP
 ---
