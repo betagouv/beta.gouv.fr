@@ -6,7 +6,7 @@ repository: https://github.com/sgmap/inspire
 status: consolidation
 contact: inspire@data.gouv.fr
 start: 2015-01-01
-owner: SGMAP
+owner: Étalab
 ---
 
 La passerelle Inspire est un outil coproduit par l'[Incubateur de Services Numériques](https://beta.gouv.fr) du [Secrétariat Général pour la Modernisation de l'Action Publique](http://modernisation.gouv.fr) et la [mission Etalab](http://www.etalab.gouv.fr), avec le soutien du groupe de travail intéropérabilité de l'[AFIGéo](http://www.afigeo.asso.fr/).
