@@ -4,6 +4,10 @@
 # see https://jekyllrb.com/docs/continuous-integration/
 exclude: [rb, vendor, app.json, Gemfile.lock]
 
+markdown: kramdown
+kramdown:
+  input: GFM
+
 # Site settings
 title: beta.gouv.fr
 email: contact@beta.gouv.fr
