@@ -3,7 +3,6 @@ additional_css:
 - homepage
 - dashboard
 - startup-presentation
-additional_js: homepage
 ---
 
 <section id="intro-header">
@@ -12,20 +11,15 @@ additional_js: homepage
 	<a class="primary investigation cta" href="#cycle">Découvrez comment</a>
 </section>
 
-<section id="presentation" class="ui container">
-	<div id="example">
-		{% include startup-presentation.html id='mes-aides' %}
-		{% include startup-presentation.html id='labonneboite' %}
-		{% include startup-presentation.html id='mps' %}
-	</div>
-
-	<span class="cta" id="otherExample">Voir d'autres exemples</span>
+<section id="presentation" class="ui three column stackable grid container">
+	<div class="column">{% include startup-presentation.html id='mes-aides' %}</div>
+	<div class="column">{% include startup-presentation.html id='labonneboite' %}</div>
+	<div class="column">{% include startup-presentation.html id='mps' %}</div>
 </section>
 
 <section id="dashboard">
-	{% include dashboard.html %}
-
 	<a href="startups" class="primary success cta">Explorez nos {{ site.startup | size }} Startups d'État&nbsp;&nbsp;➤</a>
+	{% include dashboard.html %}
 </section>
 
 <section id="cycle">
