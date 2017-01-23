@@ -12,6 +12,12 @@ $(function initHomepage() {
 		$(selectorForIndex(currentIndex + 1)).transition('fade right');
 
 		currentIndex++;
+		if (currentIndex == total-1) {
+			$('#otherExample').text("C'est tout. Cliquez pour voir toutes nos startups !");
+		}
+		if (currentIndex == total) {
+			window.location.href = '/startups';
+		}
 	}
 
 	$('#presentation .startup-presentation').transition('hide');
