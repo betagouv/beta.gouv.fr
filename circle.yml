@@ -22,6 +22,6 @@ test:
     - ruby rb/bin/htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http  # test inner links
     - html5validator --root _site  # test HTML compliance
     - ruby rb/test/opengraph.rb  # test social cards
-    - bundle exec jsonlint _site/api/v1/*  # test the API
+    - bundle exec jsonlint _site/api/v*/*  # test the API
   post:
     - find . -type d \( -path ./_site -o -path ./.git -o -path ./img -o -path ./vendor \) -prune -o -not -name nohup.out -print | xargs eclint check
