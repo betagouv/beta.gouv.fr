@@ -1,0 +1,15 @@
+---
+layout: null
+---
+[
+  {% for author in site.author %}
+    {
+      "id": "{{ author.id | replace:'/author/','' }}",
+      "fullname": "{{ author.fullname }}",
+      "start": "{{ author.start }}",
+      "end": "{{ author.end }}",
+      "employer:": "{{ author.employer }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
