@@ -5,7 +5,7 @@ authors: ismael.hery
 
 # L’intrapreneur de Startup d'État, un entrepreneur comme les autres ?
 
-Entreprendre au sein de l’administration c’est possible. Le faire dans un cadre léger, agile, et focalisé à chaque instant sur ses usagers, c’est encore mieux. C’est toute la mission de l’intrapreneur de [Startup d’État](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-des-services-numeriques-aux-usagers/startups-d-etat). 
+Entreprendre au sein de l’administration c’est possible. Le faire dans un cadre léger, agile, et focalisé à chaque instant sur ses usagers, c’est encore mieux. C’est toute la mission de l’intrapreneur de [Startup d’État](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-des-services-numeriques-aux-usagers/startups-d-etat).
 
 Mais c’est quoi un intrapreneur de Startup d'État ? Quelle est sa mission ? Il fait quoi concrètement au quotidien ? Et on la trouve dans les choux ou dans les fleurs, cette nouvelle star de l’administration ?
 
@@ -51,17 +51,17 @@ Vous l’avez compris, l’intrapreneur ne se contente pas de générer de nouve
 
 ## Mesurer ce qui peut l’être… et le reste aussi
 
-« In God we trust, all others must bring data ». – W. Edwards Deming 
+« In God we trust, all others must bring data ». – W. Edwards Deming
 
 ![L'intrapreneur mesure](/img/posts/intrapreneur-mesurer.jpg)
 
-La responsabilité suivante de l’intrapreneur de Startup d'État consiste à **mesurer la performance de sa solution** et en tirer les conséquences sur sa startup. 
+La responsabilité suivante de l’intrapreneur de Startup d'État consiste à **mesurer la performance de sa solution** et en tirer les conséquences sur sa startup.
 
 Premier défi dans ce cadre : définir **la métrique principale** qui va mesurer la réussite (ou pas) de sa startup. Non, ce n’est pas le nombre d’usagers de son service. Non, ce n’est pas le nombre de couvertures presse. Non, ce n’est pas le nombre de fonctionnalités développées. Oui, c’est la proportion du problème concret que la solution a résolu. Oui, ce sera compliqué à mesurer. Mais la mesure des changements dans le réel sera le seul juge incontestable des effets de la startup.
 
 Exemple de métrique principale : le temps effectivement gagné par les entreprises grâce aux Marchés Publics Simplifiés. Ou encore le nombre de demandeurs d’emploi qui ont retrouvé un travail grâce à la Bonne Boite.
 
-L’intrapreneur va aussi suivre les **métriques produit** qui lui permettent de savoir comment fonctionne son produit. Ces métriques lui permettent de comprendre ce qui est utilisé, dans quelle proportion, à quel moment de la journée, par qui… À cette fin, l’intrapreneur va prendre en main les outils d’« analytics » et de suivi des comportements utilisateur. 
+L’intrapreneur va aussi suivre les **métriques produit** qui lui permettent de savoir comment fonctionne son produit. Ces métriques lui permettent de comprendre ce qui est utilisé, dans quelle proportion, à quel moment de la journée, par qui… À cette fin, l’intrapreneur va prendre en main les outils d’« analytics » et de suivi des comportements utilisateur.
 
 Enfin, conscient qu’un utilisateur passe du stade « je ne connais pas le service » au stade « ce service me sauve la vie et j’en parle autour de moi », l’intrapreneur va piloter la maturation de ses utilisateurs avec les [métriques pirates](https://beta.gouv.fr/2016/11/04/mes-aides-metriques-pirates-tunnel-conversion-public.html).
 
@@ -84,7 +84,7 @@ L’intrapreneur va aussi se charger de **commercialiser et déployer** sa solut
 
 D’abord en communiquant sur sa solution, avec les canaux institutionnels de son administration mais aussi en expérimentant de **nouveaux canaux**, notamment numériques. Par exemple, pourquoi ne pas expérimenter un groupe Facebook réunissant les utilisateurs les plus engagés ? Le tout dans une temporalité qui tranche avec les habitudes de communication et de vente de sa structure. Une startup dont l’espérance de vie est de 6 mois ne peut exécuter un plan de communication à la vitesse moyenne d’un service communication d’une structure de 20 000 personnes.
 
-Conférence sur son domaine métier, interview radio ou TV, articles papier ou web, l’intrapreneur devient très vite un habitué des projecteurs. 
+Conférence sur son domaine métier, interview radio ou TV, articles papier ou web, l’intrapreneur devient très vite un habitué des projecteurs.
 
 L’intrapreneur va aussi se charger de vendre sa solution à des partenaires qui peuvent à la fois en bénéficier et aussi aider à son déploiement. Il s’agira alors de les convaincre, de les aider à utiliser la solution, d’écouter leurs retours, et de résoudre leurs problèmes.
 
