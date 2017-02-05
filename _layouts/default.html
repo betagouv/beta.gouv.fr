@@ -3,8 +3,8 @@
 	{% include head.html %}
 
 	<body>
-		<header>
-			<nav class="ui secondary menu">
+		<header role="banner">
+			<nav class="ui secondary menu" role="navigation">
 				<div class="right menu">
 					{% if page.url != "/" %}
 						<a class="item" id="logo" href="/">beta.gouv.fr</a>
@@ -22,11 +22,11 @@
 			</nav>
 		</header>
 
-		<main>
+		<main role="main">
 			{{ content }}
 		</main>
 
-		<footer>
+		<footer role="contentinfo">
 			{% include footer.html %}
 		</footer>
 
