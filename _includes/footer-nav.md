@@ -1,4 +1,4 @@
-- <i class="large home icon"/> [Incubateur de services numériques](/)
+- <i class="large home icon"/> [Accueil](/)
 - <i class="large idea icon"/> [À propos](/apropos)
 - <i class="large users icon"/> [Communauté](/communaute)
 - <i class="large university icon"/> [Une mission du SGMAP](http://modernisation.gouv.fr)
