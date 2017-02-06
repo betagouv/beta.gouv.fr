@@ -121,7 +121,7 @@ body > footer {
 }
 
 .footer-space {
-	height: 451px;
+	height: 514px;
 	position: relative;
 	z-index: -2;
 	pointer-events: none;
@@ -144,7 +144,7 @@ body > footer {
 }
 @media (max-width: 1280px) {
 	.footer-space {
-		height: 512px;
+		height: 514px;
 	}
 }
 
