@@ -82,7 +82,7 @@ phases_en:
       description: Initial users are enjoying actual benefits from the service, which expands its reach to new users.
     passation:
       name: handover
-      description: The team and the public body responsible for the product are satisfied of its viability.
+      description: The team and the public body responsible for the service are satisfied of its viability.
   endgame:
     success:
       name: live
