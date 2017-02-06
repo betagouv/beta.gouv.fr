@@ -1,7 +1,4 @@
 - <i class="large home icon"/> [Accueil](/)
 - <i class="large idea icon"/> [À propos](/apropos)
 - <i class="large users icon"/> [Communauté](/communaute)
-- <i class="large university icon"/> [Une mission du SGMAP](http://modernisation.gouv.fr)
-- <i class="large write icon"/> [Améliorer cette page](https://github.com/sgmap/beta.gouv.fr/edit/master/{{ page.path }})
 - <i class="large mail icon"/> [Nous contacter](/contact)
-- <i class="large privacy icon"/> [Suivi d'audience et vie privée](/suivi)

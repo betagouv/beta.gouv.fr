@@ -1,0 +1,3 @@
+- <i class="large university icon"/> [Une mission du SGMAP](http://modernisation.gouv.fr)
+- <i class="large write icon"/> [Améliorer cette page](https://github.com/sgmap/beta.gouv.fr/edit/master/{{ page.path }})
+- <i class="large privacy icon"/> [Suivi d'audience et vie privée](/suivi)
