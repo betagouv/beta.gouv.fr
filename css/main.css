@@ -230,6 +230,7 @@ body > footer .subscribe form input[type=email] {
 	background-color: #f6f8fe;
 	font: inherit;
 	line-height: 1.6;
+	font-size: 1.3em;
 	color: #5c5f6e;
 	border-radius: 2px;
 }
@@ -238,6 +239,7 @@ body > footer .social-links {
 	display: flex;
 	justify-content: center;
 	margin-top: 15px;
+	font-size: 1.2em;
 }
 
 body > footer .social-links a {
