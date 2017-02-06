@@ -1,9 +1,16 @@
-<form method="post" action="https://app.mailjet.com/widget/iframe/1O2v/14x" class="ui form {{ include.formClass }}">
-  <div class="field">
-    <label for="subscribe-email">Suivez <a href="http://twitter.com/intent/follow?user_id=715451644683673601"><i class="twitter icon" title="Sur Twitter"></i>@BetaGouv</a>, <a href="https://github.com/SGMAP"><i class="github icon" title="Sur GitHub"></i>SGMAP</a>, et <i class="mail icon" title="Par email"></i>abonnez-vous pour recevoir nos annonces :</label>
-    <div class="ui action input">
-      <input required type="email" autocomplete="on" id="subscribe-email" name="w-field-field-4125-18987-430683-email" placeholder="votre@email.fr">
-      <button class="ui button" type="submit"><i class="mail icon"></i> Abonnez-vous !</button>
-    </div>
-  </div>
+<h2 for="subscribe-email">Abonnez-vous<br>pour recevoir nos annonces</h2>
+
+<form method="post" action="https://app.mailjet.com/widget/iframe/1O2v/14x">
+  <input required type="email" autocomplete="on" id="subscribe-email" name="w-field-field-4125-18987-430683-email" placeholder="votre@email.fr">
+  <label>
+    <input type="submit" class="submit-arrow" value="Submit">
+    <svg class="search-icon" width="18" height="15" viewBox="0 0 14 12">
+      <path class="arrow-vector" fill="#3C424F" fill-rule="evenodd" d="M120.828427,16.6568542 L111,16.6568542 L111,18.6568542 L120.828427,18.6568542 L117.585786,21.8994949 L119,23.3137085 L124.656854,17.6568542 L123.949747,16.9497475 L119,12 L117.585786,13.4142136 L120.828427,16.6568542 Z" transform="translate(-111 -12)"></path>
+    </svg>
+  </label>
 </form>
+
+<div class="social-links">
+  <a href="http://twitter.com/intent/follow?user_id=715451644683673601"><i class="twitter icon large" title="Sur Twitter"></i>@BetaGouv</a>
+  <a href="https://github.com/SGMAP"><i class="github icon large" title="Sur GitHub"></i>SGMAP</a>
+</div>

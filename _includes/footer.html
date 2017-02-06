@@ -1,14 +1,14 @@
-{% if page.path != "annonces.html" %}
-<div class="ui container subscribe">
-  {% include subscribe.html formClass="inverted" %}
-</div>
-{% endif %}
+<div class="footer-space"></div>
 
-<div class="ui center aligned container links">
-  {% capture nav %}{% include footer-nav.md %}{% endcapture %}
-  {{ nav | markdownify }}
+<div class="footer-main">
+  <div class="ui container subscribe">
+    {% include subscribe.html %}
+  </div>
+
+  <div class="links">
     {% capture nav %}{% include footer-nav.md %}{% endcapture %}
     {{ nav | markdownify }}
     {% capture nav-external %}{% include footer-nav-external.md %}{% endcapture %}
     {{ nav-external | markdownify }}
+  </div>
 </div>
