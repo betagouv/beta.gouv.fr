@@ -258,11 +258,11 @@ h1.site-description {
 	}
 
 	.ui.horizontal.divider {
-	  white-space: normal;
+		white-space: normal;
 	}
 }
 
 iframe {
-    border-width: 0px;
-    width: 100%;
- }
+	border-width: 0px;
+	width: 100%;
+}
