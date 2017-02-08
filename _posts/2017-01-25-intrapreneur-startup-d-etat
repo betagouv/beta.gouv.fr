@@ -84,7 +84,9 @@ L’intrapreneur va aussi se charger de vendre sa solution à des partenaires qu
 
 ## L’agent de la modernisation par le numérique
 
-L’intrapreneur développe sa solution mais il est aussi le meilleur représentant de la modernisation par le numérique au sein de son administration. Dans ce cadre il partage largement son retour d’expérience dans divers séminaires et autres « journées du numérique ». Nos expériences ont montré que ces séances face à des centaines d’agents sont d’immenses sources d’enthousiasme pour les équipes.
+L’intrapreneur développe sa solution mais il est aussi le meilleur représentant de la modernisation par le numérique au sein de son administration. Dans ce cadre il partage largement son retour d’expérience dans divers séminaires et autres « journées du numérique ».
+
+Nos expériences ont montré que ces séances face à des centaines d’agents sont d’immenses sources d’enthousiasme pour les équipes.
 
 ## Une jeune pousse ça croît, ou ça n’est plus une jeune pousse
 
@@ -93,33 +95,34 @@ L’intrapreneur développe sa solution mais il est aussi le meilleur représent
 Comme Paul Graham le dit des startups privées, une Startup d'État a [vocation à croître](http://www.paulgraham.com/growth.html), ou ça n’est plus une startup.
 
 L’intrapreneur a la charge d’identifier puis de développer de nouveaux axes de croissance :
-L’axe de croissance le plus classique : déployer géographiquement une solution d’abord validée localement. Par exemple, je passe de la Bourgogne uniquement à toutes les régions de France.
-Déclinaison sur d’autres profils utilisateurs. Par exemple je traite le financement des formations des salariés après avoir traité avec succès le financement des formations des demandeurs d’emploi.
-Résoudre un problème connexe. Par exemple la mise en place des Marchés Publics Simplifiés a mis le doigt sur le besoin d’échanges sécurisés des données sur les entreprises entre les administrations qui cherchent à rendre réel le « dites-le nous une fois ».
+* L’axe de croissance le plus classique avec un **déploiement géographique progressif** d’une solution d’abord validée localement. Par exemple, je passe de la Bourgogne uniquement à toutes les régions de France.
 
-Dans le cadre de cette croissance, les API pensées dans la stratégie d’API plateforme seront souvent le véhicule indispensable pour aller chercher de nouveaux partenaires.
+* Une **déclinaison sur d’autres profils utilisateurs**. Par exemple je traite le financement des formations des salariés après avoir traité avec succès le financement des formations des demandeurs d’emploi.
 
-Et lorsque la courbe de croissance se tasse, il sera temps d’admettre qu’il ne s’agit plus d’une Startup d'État mais qu’on a tout intérêt à conserver une équipe pluridisciplinaire et autonome pour maintenir la solution.
+* **Résoudre un problème connexe**. Par exemple la mise en place des Marchés Publics Simplifiés a mis le doigt sur le besoin d’échanges sécurisés des données sur les entreprises entre les administrations qui cherchent à rendre réel le « dites-le nous une fois ».
+
+Dans le cadre de cette croissance, la cristallisation autour de nouvelles **API** permettra d’aller chercher de nouveaux usages portés par des partenaires, bien au delà du « site web » initial.
+
+Et lorsque la courbe de croissance se tasse, il sera temps d’admettre qu’il ne s’agit plus d’une Startup d'État mais qu’on a tout intérêt à **conserver une équipe pluridisciplinaire et autonome** pour maintenir la solution.
 
 ## L’expert mondial de son domaine
 
 Effet secondaire de la Startup d'État : l’intrapreneur va développer un expertise pointue du problème que sa solution adresse.
 
-Par exemple l’intrapreneur de la Bonne Boite est sans doute devenu petit à petit l’expert français du recrutement par candidature spontanée : combien de recrutements par candidature spontanée ? qui en fait ? qui devrait en faire plus ? pourquoi ça fait peur aux demandeurs d’emploi ? qu’est-ce qui les peut les inciter à en faire plus ?
-lien LBB
+Par exemple l’intrapreneur à l’origine de [la Bonne Boite](labonneboite.pole-emploi.fr) est sans doute devenu petit à petit l’expert français du recrutement par candidature spontanée : combien de recrutements par candidature spontanée ? qui en fait ? qui devrait en faire plus ? pourquoi ça fait peur aux demandeurs d’emploi ? qu’est-ce qui les peut les inciter à en faire plus ?
 
-Autre exemple, l’intrapreneuse de Plante et moi est devenue la bible vivante de la végétalisation de l’espace public par le particulier, en revisitant en détail les expériences menées dans toute la France.
+Autre exemple, l’intrapreneuse de [Plante et moi](https://beta.gouv.fr/startup/biodiversite.html) est devenue la bible vivante de la végétalisation de l’espace public par le particulier, en revisitant en détail les expériences menées dans toute la France.
 lien fiche produit Plante et moi
 
-Ce serait dommage de ne pas valoriser cet effet secondaire d’expertise pointue, a minima par du partage au sein de son administration et si possible de la formalisation dans des formats ouverts de ces connaissances accumulées.
+Ce serait dommage de ne pas valoriser cette nouvelle expertise hyper pointue, a minima par du partage au sein de son administration. Ou encore mieux avec la formalisation dans des formats ouverts de ces connaissances accumulées (wiki, publications ouvertes…).
 
 ## Conclusion
 Les activités de l’intrapreneur de Startup d'État sont donc extrêmement variées : de la définition du problème à la conception, en passant par le suivi de la performance de son produit et le développement « commercial ». Il arrive même que l’intrapreneur de Startup d'État soit un des principaux développeurs logiciels de sa solution !
 
-L’ambition qu’on donne à ce rôle est élevée mais tout à fait atteignable. Pour preuve les intrapreneurs qui ont enfilé avec succès le costume chez Pôle emploi, ou dans des ministères.
+L’ambition qu’on donne à ce rôle est élevée, mais atteignable. Pour preuve les intrapreneurs qui ont enfilé avec succès le costume chez Pôle emploi, ou dans des administrations.
 
 Un prochain article de cette série sur l’intrapreneur de Startup d'État, détaillera la méthode mise en œuvre pour former les intrapreneurs et leur permettre de réussir leur mission.
 
-Au fait, intrapreneur de Startup d'État, ça vous tente ?
+**Au fait, intrapreneur de Startup d'État, ça vous tente ?**
 
-Vous êtes agent·e du public et vous vous sentez l’âme d’un intrapreneur de Startup d'État. Vous êtes convaincu·e que ce problème qui vous tord le ventre depuis toujours pourrait être attaqué par le numérique et une petite équipe autonome ? Racontez-nous ça par mail à contact@beta.gouv.fr?subject=Candidature%20intrapreneur !
+Vous êtes agent·e du public et vous vous sentez l’âme d’un intrapreneur de Startup d'État. Vous êtes convaincu·e que ce problème qui vous tord le ventre depuis toujours pourrait être attaqué par le numérique et une petite équipe autonome ? Racontez-nous ça par mail à [contact@beta.gouv.fr](contact@beta.gouv.fr?subject=Candidature%20intrapreneur) !
