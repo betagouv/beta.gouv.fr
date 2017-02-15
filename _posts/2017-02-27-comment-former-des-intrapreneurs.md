@@ -1,3 +1,7 @@
+---
+title: Comment former les intrapreneurs de Startup d'État ?
+authors: ismael.hery
+---
 # Comment former les intrapreneurs de Startup d'État ?
 
 Un précédent article de cette série sur l’intrapreneur de Startup d'État précisait ses responsabilités et ses activités : de la définition du problème à la conception, en passant par le suivi de la performance de son produit et le développement « commercial ».
