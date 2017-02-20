@@ -12,7 +12,7 @@ Détaillons la méthode pour former ces innovateurs de la sphère publique.
 
 ## Le coaching
 
-![Coacher l'intrapreneur](https://github.com/sgmap/beta.gouv.fr/raw/post-blog-intrapreneur-comment-les-former/img/posts/intrapreneur-coaching.jpg)
+![Coacher l'intrapreneur](/img/posts/intrapreneur-coaching.jpg)
 
 Dans la démarche Startup d'État, l’intrapreneur n’est pas jeté seul dans la jungle numérique. Il est accompagné par un **coach** du secrétariat général pour la modernisation de l'action publique (SGMAP). Experts du numérique, les coachs de Startup d'État ont déjà construit et opéré avec succès des solutions numériques innovantes grand public. Reconnus par leurs pairs, les coachs ont déjà formé, encadré, managé des personnes sur les différentes activités que l’intrapreneur va devoir prendre à sa charge.
 
