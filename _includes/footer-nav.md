@@ -1,4 +1,4 @@
-- <i class="large home icon"/> [Accueil](/)
-- <i class="large idea icon"/> [À propos](/apropos)
-- <i class="large users icon"/> [Communauté](/communaute)
-- <i class="large mail icon"/> [Nous contacter](/contact)
+- [Accueil](/)
+- [À propos](/apropos)
+- [Communauté](/communaute)
+- [Nous contacter](/contact)

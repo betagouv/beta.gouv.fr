@@ -274,11 +274,6 @@ body > footer li {
 	margin-bottom: .5em;
 }
 
-body > footer i.icon {
-	color: #717d86;
-	margin-right: .5em;
-}
-
 @media (max-width: 768px) {
 	body > footer li i.icon {
 		display: none;
