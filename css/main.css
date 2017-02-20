@@ -155,7 +155,6 @@ body > footer .footer-main {
 	width: 100%;
 	position: fixed;
 	z-index: -1;
-	font-size: 70%;
 	text-shadow: none;
 	will-change: transform;
 	-webkit-backface-visibility: hidden;
@@ -185,21 +184,25 @@ body > footer .footer-main {
 
 body > footer .subscribe {
 	padding: 120px 0;
+	font-size: 70%;
 }
 
-body > footer .subscribe h2 {
+body > footer .subscribe label.title {
+  display: block;
 	text-align: center;
+  width: 100%;
 	margin: 15px 0;
+  font-size: 1.5em;
+  font-weight: bold;
 }
 
 body > footer .subscribe form {
 	margin: 0 auto;
 	max-width: 420px;
 	width: 100%;
-	position: relative;
 }
 
-body > footer .subscribe form label {
+body > footer .subscribe form label.icon {
 	white-space: nowrap;
 	text-overflow: ellipsis;
 	padding: 8px 0;
@@ -215,6 +218,10 @@ body > footer .subscribe form label {
 	-ms-flex-align: center;
 	align-items: center;
 	padding: 24px;
+}
+
+body > footer .input-container {
+  position: relative;
 }
 
 body > footer .subscribe form input[type=submit] {
@@ -253,7 +260,9 @@ body > footer .social-links a:last-child {
 body > footer .links {
 	margin-bottom: 2em;
 	display: flex;
-	justify-content: center;
+  justify-content: space-around;
+  align-items: flex-end;
+	font-size: 90%;
 }
 
 body > footer ul {
@@ -261,7 +270,6 @@ body > footer ul {
 	padding: 0;
 	display: flex;
 	flex-direction: column;
-  margin-right: 50px;
 }
 
 body > footer ul:last-child {
