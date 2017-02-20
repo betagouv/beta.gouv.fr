@@ -15,7 +15,7 @@ L’intrapreneur de Startup d'État est le patron de son « entreprise » au sei
 
 ## Définir le problème
 
-![Définir le problème](https://github.com/sgmap/beta.gouv.fr/raw/intra-startup-etat-article-1/img/posts/intrapreneur-definir-le-probleme.jpg)
+![Définir le problème](/img/posts/intrapreneur-definir-le-probleme.jpg)
 
 Première responsabilité : mettre le doigt sur le problème auquel va répondre sa Startup d’État. Autrement dit, **identifier l’irritant** pour l’usager du service public, qui justifie à ses yeux le lancement d’une Startup d'État.
 
