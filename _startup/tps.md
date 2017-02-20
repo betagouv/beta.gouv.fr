@@ -61,5 +61,5 @@ TPS est pour vous.
 TPS est développé par l’incubateur de services numériques du Secrétariat Général de la Modernisation de l’Action Publique (SGMAP), rattaché aux services du Premier ministre.
 
 Vous voulez en savoir plus ? Vous voulez une démo ? Pour nous contacter :
-E-mail : contact@tps.apientreprise.fr
-Téléphone : + 33 1 40 15 68 49
+- E-mail : contact@tps.apientreprise.fr
+- Téléphone : + 33 1 40 15 68 49
