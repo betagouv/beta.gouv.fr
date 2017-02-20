@@ -53,7 +53,7 @@ Vous l’avez compris, l’intrapreneur ne se contente pas de générer de nouve
 
 « In God we trust, all others must bring data ». – W. Edwards Deming 
 
-![L'intrapreneur mesure](https://github.com/sgmap/beta.gouv.fr/raw/intra-startup-etat-article-1/img/posts/intrapreneur-mesurer.jpg)
+![L'intrapreneur mesure](/img/posts/intrapreneur-mesurer.jpg)
 
 La responsabilité suivante de l’intrapreneur de Startup d'État consiste à **mesurer la performance de sa solution** et en tirer les conséquences sur sa startup. 
 
@@ -77,7 +77,7 @@ Une Startup d'État tend à **autonomiser l’équipe dans tous les domaines**, 
 
 ## Le VRP de sa solution, sans la sacoche en cuir
 
-![L'intrapreneur vendeur](https://github.com/sgmap/beta.gouv.fr/raw/intra-startup-etat-article-1/img/posts/intrapreneur-vendeur.jpg)
+![L'intrapreneur vendeur](/img/posts/intrapreneur-vendeur.jpg)
 *[CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/) - [Businesses in Myanmar - Asian Development Bank](https://www.flickr.com/photos/asiandevelopmentbank/17861602523/)*
 
 L’intrapreneur va aussi se charger de **commercialiser et déployer** sa solution.
@@ -96,7 +96,7 @@ Nos expériences ont montré que ces séances face à des centaines d’agents s
 
 ## Une jeune pousse ça croît, ou ça n’est plus une jeune pousse
 
-![La startup d'Etat est une jeune pousse](https://github.com/sgmap/beta.gouv.fr/raw/intra-startup-etat-article-1/img/posts/intrapreneur-jeune-pousse.jpg)
+![La startup d'Etat est une jeune pousse](/img/posts/intrapreneur-jeune-pousse.jpg)
 
 Comme Paul Graham le dit des startups privées, une Startup d'État a [vocation à croître](http://www.paulgraham.com/growth.html), ou ça n’est plus une startup.
 
