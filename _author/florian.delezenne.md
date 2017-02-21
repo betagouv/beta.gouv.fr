@@ -8,4 +8,4 @@ link: https://github.com/sgmap/beta.gouv.fr/edit/master/_author/florian.md
 employer: service/octo
 ---
 
-<i class="write icon"></i> [Améliorer cette bio]
+[Cliquez ici pour améliorer cette bio]
