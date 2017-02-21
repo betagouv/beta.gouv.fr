@@ -265,6 +265,18 @@ body > footer .links {
 	font-size: 90%;
 }
 
+@media (max-width: 414px) {
+	body > footer .links {
+		flex-direction: column;
+		align-items: flex-start;
+		padding-left: 1em;
+	}
+
+	body > footer .links li {
+		margin-bottom: 0.9em;
+	}
+}
+
 body > footer ul {
 	margin: 0;
 	padding: 0;
