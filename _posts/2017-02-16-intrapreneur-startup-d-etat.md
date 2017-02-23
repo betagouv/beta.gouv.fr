@@ -1,9 +1,9 @@
 ---
-title: L'intrapreneur de Startup d'État, un intrapreneur comme les autres ?
+title: L'intrapreneur de Startup d'État, un entrepreneur comme les autres ?
 authors: ismael.hery
 ---
 
-# L’intrapreneur de Startup d'État, un intrapreneur comme les autres ?
+# L’intrapreneur de Startup d'État, un entrepreneur comme les autres ?
 
 Entreprendre au sein de l’administration c’est possible. Le faire dans un cadre léger, agile, et focalisé à chaque instant sur ses usagers, c’est encore mieux. C’est toute la mission de l’intrapreneur de [Startup d’État](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-des-services-numeriques-aux-usagers/startups-d-etat). 
 
