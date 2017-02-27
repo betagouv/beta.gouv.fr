@@ -21,4 +21,4 @@ test:
     - ruby rb/bin/htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http  # test inner links
     - html5validator --root _site  # test HTML compliance
     - ruby rb/test/opengraph.rb  # test social cards
-    - bundle exec jsonlint _site/api/v1/*  # test the API
+    - bundle exec jsonlint _site/api/*/*  # test the API
