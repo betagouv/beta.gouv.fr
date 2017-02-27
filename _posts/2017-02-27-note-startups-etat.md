@@ -9,6 +9,6 @@ Henri Verdier, directeur interministériel du numérique et du système d’info
 
 ## Découvrez la présentation d'Henri Verdier et Pierre Pezziardi sur la chaine de la Fondation
 
-<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x58uftd" allowfullscreen="true"></iframe>
+<iframe width="480" height="270" src="//www.dailymotion.com/embed/video/x58uftd" allowfullscreen="allowfullscreen"></iframe>
 
 Vous pouvez télécharger l’intégralité de la note sur le site de la [Fondation pour l'Innovation Politique](http://www.fondapol.org/etude/pierre-pezziardi-et-henri-verdier-des-startups-detat-a-letat-plateforme/).
