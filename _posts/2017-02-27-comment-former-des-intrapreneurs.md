@@ -46,4 +46,4 @@ Un prochain article de cette série sur les intrapreneurs de startups d’Etat d
 
 **Au fait, intrapreneur de Startup d'État, ça vous tente ?**
 
-Vous êtes agent public et vous vous sentez une âme d'intrapreneur de Startup d'État. Vous êtes convaincu·e que ce problème qui vous tord le ventre depuis toujours pourrait être attaqué par le numérique et une petite équipe autonome ? Racontez-nous ça par mail à [contact@beta.gouv.fr](contact@beta.gouv.fr?subject=Candidature%20intrapreneur) !
+Vous êtes agent public et vous vous sentez une âme d'intrapreneur de Startup d'État. Vous êtes convaincu·e que ce problème qui vous tord le ventre depuis toujours pourrait être attaqué par le numérique et une petite équipe autonome ? Racontez-nous ça par mail à [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr?subject=Candidature%20intrapreneur) !
