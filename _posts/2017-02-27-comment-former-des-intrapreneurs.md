@@ -24,7 +24,7 @@ Autre facteur critique permettant à l’intrapreneur de grandir : les **dévelo
 
 Enfin, l’intrapreneur va pouvoir petit à petit s’appuyer sur de **nouveaux acteurs** qui viendront rejoindre la Startup au fur et à mesure de sa croissance : expert en développement commercial, expert UX…
 
-Un peu comme dans une startup (pas d'État) qui démarrera souvent à 2 personnes couvrant seules toutes les activités ! Puis petit à petit l’équipe s’étoffe avec des spécialistes, notamment une fois que la Startup d'État a « prouvé » son marché.
+Un peu comme dans une startup (pas d'État) qui démarrera souvent à 2 personnes couvrant seules toutes les activités ! Puis petit à petit l’équipe s’étoffe avec des spécialistes, notamment une fois que la Startup d'État a « [prouvé](/startups#consolidation) » son marché.
 
 ## Le dialogue avec ses pairs
 
