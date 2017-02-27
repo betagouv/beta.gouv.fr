@@ -249,6 +249,11 @@ body > footer .social-links {
 	font-size: 1.2em;
 }
 
+body > footer .social-links svg {
+  height: 1.2em;
+  vertical-align: middle;
+}
+
 body > footer .social-links a {
 	margin-right: 30px;
 }
