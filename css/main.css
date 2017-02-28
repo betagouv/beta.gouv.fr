@@ -315,7 +315,7 @@ body > footer li a:hover {
 }
 
 .investigation {
-	background-color: #1b91a3;
+	background-color: #128297;
 }
 
 .construction {
@@ -331,15 +331,18 @@ body > footer li a:hover {
 }
 
 .death {
-	background-color: #5c5151;
+	color: #000;
+	background-color: #767473;
 }
 
 .retirement {
+	color: #111;
 	background-color: #b3b4b6;
 }
 
 .success {
-	background-color: #ffd700;
+	color: #222;
+	background-color: #FFD700;
 }
 
 a.ui.card {
