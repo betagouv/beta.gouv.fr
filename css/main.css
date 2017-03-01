@@ -250,8 +250,8 @@ body > footer .social-links {
 }
 
 body > footer .social-links svg {
-  height: 1.2em;
-  vertical-align: middle;
+    height: 1.2em;
+    vertical-align: middle;
 }
 
 body > footer .social-links a {
@@ -271,15 +271,15 @@ body > footer .links {
 }
 
 @media (max-width: 414px) {
-	body > footer .links {
-		flex-direction: column;
-		align-items: flex-start;
-		padding-left: 1em;
-	}
+    body > footer .links {
+        flex-direction: column;
+        align-items: flex-start;
+        padding-left: 1em;
+    }
 
-	body > footer .links li {
-		margin-bottom: 0.9em;
-	}
+    body > footer .links li {
+        margin-bottom: 0.9em;
+    }
 }
 
 body > footer ul {
@@ -331,18 +331,18 @@ body > footer li a:hover {
 }
 
 .death {
-	color: #000;
-	background-color: #767473;
+    color: #000;
+    background-color: #767473;
 }
 
 .retirement {
-	color: #111;
-	background-color: #b3b4b6;
+    color: #111;
+    background-color: #b3b4b6;
 }
 
 .success {
-	color: #222;
-	background-color: #FFD700;
+    color: #222;
+    background-color: #FFD700;
 }
 
 a.ui.card {
