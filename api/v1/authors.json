@@ -2,13 +2,20 @@
 layout: null
 ---
 [
-    {% for author in site.author %}
-        {
-            "id": "{{ author.id }}",
-            "fullname": "{{ author.fullname }}",
-            "start": "{{ author.start }}",
-            "end": "{{ author.end }}"
-        }
-        {% unless forloop.last %},{% endunless %}
-    {% endfor %}
+  {% for author in site.author %}
+    {% if author.contracts %}
+      {% for each in author.contracts %}
+        {% assign contract = each %}
+      {% endfor %}
+    {% else %}
+      {% assign contract = author %}
+    {% endif %}
+    {
+      "id": "{{ author.id }}",
+      "fullname": "{{ author.fullname }}",
+      "start": "{{ contract.start }}",
+      "end": "{{ contract.end }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
 ]
