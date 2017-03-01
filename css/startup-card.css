@@ -1,31 +1,31 @@
 .ui.card .extra.content {
-	font-size: 80%;
+    font-size: 80%;
 }
 
 .ui.card.investigation {
-	box-shadow: 0 0 .2em .1em #128297;
+    box-shadow: 0 0 .2em .1em #128297;
 }
 
 .ui.card.construction {
-	box-shadow: 0 0 .2em .1em #067b94;
+    box-shadow: 0 0 .2em .1em #067b94;
 }
 
 .ui.card.consolidation {
-	box-shadow: 0 0 .2em .1em #04677c;
+    box-shadow: 0 0 .2em .1em #04677c;
 }
 
 .ui.card.passation {
-	box-shadow: 0 0 .2em .1em #067071;
+    box-shadow: 0 0 .2em .1em #067071;
 }
 
 .ui.card.death {
-	box-shadow: 0 0 .2em .1em #5c5151;
+    box-shadow: 0 0 .2em .1em #5c5151;
 }
 
 .ui.card.retirement {
-	box-shadow: 0 0 .2em .1em #b3b4b6;
+    box-shadow: 0 0 .2em .1em #b3b4b6;
 }
 
 .ui.card.success {
-	box-shadow: 0 0 .2em .1em #ffd700;
+    box-shadow: 0 0 .2em .1em #ffd700;
 }

@@ -2,7 +2,7 @@
 fullname: Simon Lehericey
 role: Développeur
 start: 2017-02-13
-end: 2017-03-19 
+end: 2017-03-19
 avatar: https://s.gravatar.com/avatar/c8f2f7a1a95a068877772ceb11b9700b?s=512
 employer: independent
 ---

@@ -31,7 +31,7 @@ Comme pour tous les postes de l'incubateur, il s'agit aussi d'une opportunité d
 
 ## Modalités
 
-- Poste ouvert pour un·e indépendant·e (en portage). 
+- Poste ouvert pour un·e indépendant·e (en portage).
 - Télétravail partiel bienvenu, avec 1 à 2 jours par semaine [à Paris](https://github.com/sgmap/beta.gouv.fr/wiki/Locaux) pour bien construire l'équipe.
 - Temps partiel bienvenu (60 % à 100 %).
 

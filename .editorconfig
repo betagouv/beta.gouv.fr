@@ -1,0 +1,28 @@
+# See more at http://EditorConfig.org
+
+root = true  # this is the topmost editorconfig file
+
+[**/*]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+max_line_length = 9999
+trim_trailing_whitespace = true
+
+[{*.yml,Gemfile,Gemfile.lock}]
+indent_size = 2
+indent_style = space
+
+[rb/**/*]
+indent_size = 2
+indent_style = space
+
+[js/lib/**/*]
+indent_size = none
+indent_style = none
+insert_final_newline = none
+
+[Gemfile.lock]
+indent_size = none

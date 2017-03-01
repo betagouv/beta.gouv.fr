@@ -17,7 +17,7 @@ Boomerang me permet d'enregistrer en un clic les offres d'emploi depuis tous les
 
 ### Je marque des points auprès du recruteur
 
-Trop de demandeurs d’emploi croient encore que postuler auprès d’une entreprise consiste à envoyer une candidature à un recruteur et à attendre un retour. Ils ne savent pas que seuls les plus motivés, les plus organisés, ceux qui font la différence en relançant avec les mots justes, seront choisis. 
+Trop de demandeurs d’emploi croient encore que postuler auprès d’une entreprise consiste à envoyer une candidature à un recruteur et à attendre un retour. Ils ne savent pas que seuls les plus motivés, les plus organisés, ceux qui font la différence en relançant avec les mots justes, seront choisis.
 
 ### Je gagne du temps dans ma recherche en faisant la bonne action au bon moment
 

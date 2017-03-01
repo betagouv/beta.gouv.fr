@@ -44,4 +44,4 @@ Le cycle de vie d’une Startup d’État se termine par son intégration à co�
 
 <span id="fn1"><a href="#r1">[1]</a></span> Pour comprendre plus en profondeur ces origines, un [mémoire universitaire](https://raw.github.com/wiki/sgmap/beta.gouv.fr/memoire-azoulay.pdf) retrace le contexte de la création de cet incubateur : notamment (pp 53-67) les enjeux et les motivations des choix organisationnels et techniques qui ont présidé à cette refonte.
 
- > Créer un incubateur de « start-ups d’État » pour impulser une véritable dynamique d’innovation au cœur de l’appareil administratif, contribuant à ce que l’État s’inscrive, bien plus que dans une politique d’open data, dans une politique de gouvernement ouvert. (p. 77)
+> Créer un incubateur de « start-ups d’État » pour impulser une véritable dynamique d’innovation au cœur de l’appareil administratif, contribuant à ce que l’État s’inscrive, bien plus que dans une politique d’open data, dans une politique de gouvernement ouvert. (p. 77)
