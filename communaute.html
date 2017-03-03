@@ -14,8 +14,9 @@ hire_card:
     avatar: /img/logo-generique-startup-carre.jpg
     content: <b>Vous avez envie de nous rejoindre ? Contactez-nous !</b>
     # Not used in page but required to validate the author object
-    employer: none
-    start: site.time
+    contracts:
+    -   employer: none
+        start: site.time
 ---
 {% capture build_date %}{{ site.time | date:"%Y-%m-%d" }}{% endcapture %}
 {% assign members = site.author | sort: 'start' | reverse %}
@@ -70,20 +71,22 @@ hire_card:
     };
 
     {% for person in site.author %}
-        var employerType = '{{ person.employer }}'.split('/')[0];
+        {% for contract in person.contracts %}
+            var employerType = '{{ contract.employer }}'.split('/')[0];
 
-        {% if person.start %}
-            window.data[employerType].push({
-                date: '{{ person.start }}',
-                increment: 1
-            });
-        {% endif %}
-        {% if person.end %}
-            window.data[employerType].push({
-                date: '{{ person.end }}',
-                increment: -1
-            });
-        {% endif %}
+            {% if contract.start %}
+                window.data[employerType].push({
+                    date: '{{ contract.start }}',
+                    increment: 1
+                });
+            {% endif %}
+            {% if contract.end %}
+                window.data[employerType].push({
+                    date: '{{ contract.end }}',
+                    increment: -1
+                });
+            {% endif %}
+        {% endfor %}
     {% endfor %}
 })();
 </script>

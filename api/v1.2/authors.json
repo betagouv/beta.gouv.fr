@@ -6,10 +6,10 @@ layout: null
         {
             "id": "{{ author.id | replace:'/author/','' }}",
             "fullname": "{{ author.fullname }}",
-            "start": "{{ author.start }}",
-            "end": "{{ author.end }}",
-            "employer:": "{{ author.employer }}"
+            "start": "{{ author.contracts.last.start }}",
+            "end": "{{ author.contracts.last.end }}",
+            "employer": "{{ author.contracts.last.employer }}"
         }
-    {% unless forloop.last %},{% endunless %}
+        {% unless forloop.last %},{% endunless %}
     {% endfor %}
 ]
