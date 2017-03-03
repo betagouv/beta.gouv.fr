@@ -8,5 +8,5 @@ contracts:
     employer: dinsic
 -   start: 2016-12-16
     end: 2017-03-19
-    employer: independent
+    employer: independent/octo
 ---

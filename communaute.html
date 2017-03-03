@@ -69,40 +69,23 @@ hire_card:
         service: []
     };
 
-	{% for person in site.author %}
-		{% if person.contracts %}
-			{% for contract in person.contracts %}
-				var employerType = '{{ contract.employer }}'.split('/')[0];
+    {% for person in site.author %}
+        {% for contract in person.contracts %}
+            var employerType = '{{ contract.employer }}'.split('/')[0];
 
-				{% if contract.start %}
-					window.data[employerType].push({
-						date: '{{ contract.start }}',
-						increment: 1
-					});
-				{% endif %}
-				{% if contract.end %}
-					window.data[employerType].push({
-						date: '{{ contract.end }}',
-						increment: -1
-					});
-				{% endif %}
-			{% endfor %}
-		{% else %}
-			var employerType = '{{ person.employer }}'.split('/')[0];
-
-			{% if person.start %}
-				window.data[employerType].push({
-					date: '{{ person.start }}',
-					increment: 1
-				});
-			{% endif %}
-			{% if person.end %}
-				window.data[employerType].push({
-					date: '{{ person.end }}',
-					increment: -1
-				});
-			{% endif %}
-		{% endif %}
-	{% endfor %}
+            {% if contract.start %}
+                window.data[employerType].push({
+                    date: '{{ contract.start }}',
+                    increment: 1
+                });
+            {% endif %}
+            {% if contract.end %}
+                window.data[employerType].push({
+                    date: '{{ contract.end }}',
+                    increment: -1
+                });
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
 })();
 </script>
