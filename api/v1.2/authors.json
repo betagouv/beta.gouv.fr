@@ -3,15 +3,12 @@ layout: null
 ---
 [
     {% for author in site.author %}
-        {% for last in author.contracts %}
-            {% assign contract = last %}
-        {% endfor %}
         {
             "id": "{{ author.id | replace:'/author/','' }}",
             "fullname": "{{ author.fullname }}",
-            "start": "{{ contract.start }}",
-            "end": "{{ contract.end }}",
-            "employer:": "{{ contract.employer }}"
+            "start": "{{ author.contracts.last.start }}",
+            "end": "{{ author.contracts.last.end }}",
+            "employer": "{{ author.contracts.last.employer }}"
         }
         {% unless forloop.last %},{% endunless %}
     {% endfor %}
