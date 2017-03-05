@@ -24,7 +24,7 @@ hire_card:
 
 {% capture current_members_cards %} {% comment %} Capture in order to get the count right before outputting the cards {% endcomment %}
     {% for person in members %}
-        {% capture end_date_as_string %}{{ person.end }}{% endcapture %}
+        {% capture end_date_as_string %}{{ person.contracts.last.end }}{% endcapture %}
         {% if end_date_as_string == '' or end_date_as_string > build_date %}
             {% include author.html description=person %}
             <!--{% increment members_count %}-->
@@ -53,7 +53,7 @@ hire_card:
     <h2 id="alumni" class="ui divider horizontal">Les ancien·ne·s</h2>
 
     {% for person in members %}
-        {% capture end_date_as_string %}{{ person.end }}{% endcapture %}
+        {% capture end_date_as_string %}{{ person.contracts.last.end }}{% endcapture %}
         {% if end_date_as_string != '' and end_date_as_string <= build_date %}
             {% include author.html description=person %}
         {% endif %}
