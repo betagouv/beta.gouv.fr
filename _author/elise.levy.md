@@ -7,4 +7,4 @@ contracts:
     employer: sgmap
 ---
 
-Pourquoi faire compliqué quand on peut faire simple ? 
+Pourquoi faire compliqué quand on peut faire simple ?
