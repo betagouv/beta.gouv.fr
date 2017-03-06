@@ -3,8 +3,11 @@ fullname: Sylvain Dermy
 role: Community Manager
 contracts:
 -   start: 2017-02-01
-    end: 2017-03-08
+    end: 2017-03-07
     employer: independent/octo
+-   start: 2017-03-08
+    end: 2017-08-31
+    employer: dinsic
 ---
 
-(nom commun) : Quelqu'un qui vous sort d'un problème avant qu'il ne se pose. Voir aussi : guide suprême.
+En cas de doute, ajoutez un like.
