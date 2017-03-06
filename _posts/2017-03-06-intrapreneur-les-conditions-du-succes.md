@@ -7,7 +7,7 @@ authors: ismael.hery
 
 Nous avons vu dans des précédents articles que l’ambition du [rôle d’intrapreneur·euse de Startup d'État](/2017/02/16/intrapreneur-startup-d-etat.html) est immense. Nous avons vu aussi que [le coaching et un environnement choisi avec soin](/2017/02/27/comment-former-des-intrapreneurs.html) permettent aux intrapreneurs·euses d’enfiler leur nouveau costume.
 
-N’empêche, malgré toute la bonne volonté et tout l’accompagnement du monde, certaines startups d’État peuvent échouer lorsque certaines conditions ne sont pas réunies.
+N’empêche, malgré toute la bonne volonté et tout l’accompagnement du monde, certaines Startups d’État peuvent échouer lorsque certaines conditions ne sont pas réunies.
 
 Faisons un rapide tour des conditions de succès, qui pour certaines dépendent de sa structure, ministère ou établissement public. Et pour beaucoup d’autres dépendent de l’intrapreneur lui-même !
 
