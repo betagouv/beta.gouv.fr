@@ -1,3 +1,8 @@
+---
+title: Intrapreneur de Startup d'État : les conditions du succès
+authors: ismael.hery
+---
+
 # Intrapreneur de Startup d'État : les conditions du succès
 
 Nous avons vu dans des précédents articles que l’ambition du [rôle d’intrapreneur·euse de Startup d'État](/2017/02/16/intrapreneur-startup-d-etat.html) est immense. Nous avons vu aussi que [le coaching et un environnement choisi avec soin](/2017/02/27/comment-former-des-intrapreneurs.html) permettent aux intrapreneurs·euses d’enfiler leur nouveau costume.
@@ -10,7 +15,7 @@ Faisons un rapide tour des conditions de succès, qui pour certaines dépendent 
 
 * L’intrapreneur est sorti du bois : « je veux porter cette initiative », PUIS il a été adoubé par sa direction générale. Et non l’inverse : « tiens, on a un projet pour toi ».
 
-* Il est disponible pour son projet intraprenarial et libéré de ses autres responsabilités.
+* Elle est disponible pour son projet intraprenarial et libéré de ses autres responsabilités.
 
 * Il a carte blanche pour travailler de manière autonome avec son équipe en sortant des processus standard et des circuits de décision habituels.
 
@@ -18,23 +23,23 @@ Faisons un rapide tour des conditions de succès, qui pour certaines dépendent 
 
 ## Des conditions qui dépendent de l’intrapreneur·euse
 
-* Il est opiniâtre et tenace.
+* Elle est opiniâtre et tenace.
 
 * Il est pragmatique et sait discerner l’essentiel de l’accessoire.
 
-* Il connaît parfaitement le terrain de son administration pour l’avoir pratiqué plusieurs années.
+* Elle connaît parfaitement le terrain de son administration pour l’avoir pratiqué plusieurs années.
 
 * Il a une vraie empathie avec les usagers de son administration ou de son service public et peut raconter 1 000 histoires vécues sur le terrain.
 
-* Il sait sortir des circuits établis de son administration lorsque nécessaire.
+* Elle sait sortir des circuits établis de son administration lorsque nécessaire.
 
 * Il embrasse plus qu’il ne rejette les oppositions et l’incertitude.
 
-* Il est curieux, aime apprendre.
+* Elle est curieuse, aime apprendre.
 
 * Il sait se remettre en question.
 
-* C’est un empêcheur de tourner en rond, mais avec le sourire.
+* C’est une empêcheuse de tourner en rond, mais avec le sourire.
 
 ## Conclusion
 
