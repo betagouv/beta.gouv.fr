@@ -1,9 +1,9 @@
 ---
-title: Intrapreneur de Startup d'État : les conditions du succès
+title: "Intrapreneur de Startup d'État : les conditions du succès"
 authors: ismael.hery
 ---
 
-# "Intrapreneur de Startup d'État : les conditions du succès"
+# Intrapreneur de Startup d'État : les conditions du succès
 
 Nous avons vu dans des précédents articles que l’ambition du [rôle d’intrapreneur·euse de Startup d'État](/2017/02/16/intrapreneur-startup-d-etat.html) est immense. Nous avons vu aussi que [le coaching et un environnement choisi avec soin](/2017/02/27/comment-former-des-intrapreneurs.html) permettent aux intrapreneurs·euses d’enfiler leur nouveau costume.
 
