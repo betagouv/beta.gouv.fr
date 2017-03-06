@@ -2,49 +2,49 @@
 layout: default
 ---
 <div class="ui container padded">
-	<div class="ui fluid card">
-		<div class="header">
-			<h1>{{ page.title }}</h1>
-			<h2>{{ page.mission }}</h2>
-		</div>
-		<div class="image">
-			{% if page.link %}<a href="{{ page.link | strip }}" target="_blank" rel="noopener">{% endif %}
-				{% include screenshot.html startup=page %}
-			{% if page.link %}</a>{% endif %}
-		</div>
-		<div class="content">
-			<ul class="ui description text container">
-				<li>Le porteur administratif est {{ page.owner }}.</li>
-				<li>Le produit est en <em>{{ page.status}}</em>, il
-					{% if page.link %}
-						est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.
-					{% else %}
-						<em>n'est pas encore accessible au public.</em>
-					{% endif %}
-				</li>
+    <div class="ui fluid card">
+        <div class="header">
+            <h1>{{ page.title }}</h1>
+            <h2>{{ page.mission }}</h2>
+        </div>
+        <div class="image">
+            {% if page.link %}<a href="{{ page.link | strip }}" target="_blank" rel="noopener">{% endif %}
+                {% include screenshot.html startup=page %}
+            {% if page.link %}</a>{% endif %}
+        </div>
+        <div class="content">
+            <ul class="ui description text container">
+                <li>Le porteur administratif est {{ page.owner }}.</li>
+                <li>Le produit est en <em>{{ page.status}}</em>, il
+                    {% if page.link %}
+                        est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.
+                    {% else %}
+                        <em>n'est pas encore accessible au public.</em>
+                    {% endif %}
+                </li>
 
-				<li>Le code source
-					{% if page.repository %}
-						<a href="{{ page.repository }}">est libre.</a>
-					{% else %}
-						<em>n'est pas encore ouvert.</em>
-					{% endif %}
-				</li>
+                <li>Le code source
+                    {% if page.repository %}
+                        <a href="{{ page.repository }}">est libre.</a>
+                    {% else %}
+                        <em>n'est pas encore ouvert.</em>
+                    {% endif %}
+                </li>
 
-				<li>
-					{% if page.contact %}
-						<a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
-					{% else %}
-						<em><a href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
-					{% endif %}
-				</li>
-			</ul>
-		</div>
+                <li>
+                    {% if page.contact %}
+                        <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
+                    {% else %}
+                        <em><a href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
+                    {% endif %}
+                </li>
+            </ul>
+        </div>
 
-		<div class="content">
-			<div class="ui text container">
-				{{ content }}
-			</div>
-		</div>
-	</div>
+        <div class="content">
+            <div class="ui text container">
+                {{ content }}
+            </div>
+        </div>
+    </div>
 </div>

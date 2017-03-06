@@ -1,96 +1,96 @@
 body {
-	margin: 0;
-	max-width: 100%;
+    margin: 0;
+    max-width: 100%;
 }
 
 .animating.out {
-	position: absolute;
+    position: absolute;
 }
 
 #otherExample {
-	float: right;
+    float: right;
 }
 
 /* Degradability + avoid FOUC */
 .no-js #otherExample {
-	opacity: 0;
+    opacity: 0;
 }
 
 /* IE < 10, nothing is better than fracked layout */
 .no-csstransitions #example, .no-csstransitions #otherExample {
-	display: none;
+    display: none;
 }
 
 #intro-header {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	letter-spacing: .05em;
-	text-align: center; /* degradability */
-	background-color: white;
-	color: #373c42;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    letter-spacing: .05em;
+    text-align: center; /* degradability */
+    background-color: white;
+    color: #373c42;
 }
 
 #intro-header h1 {
-	margin: 0 0 0.5em 0;
-	padding: 0;
+    margin: 0 0 0.5em 0;
+    padding: 0;
 }
 
 #intro-header .tagline {
-	padding: 0.5em 0 1em 0;
-	font-size: 200%;
-	font-weight: bold;
-	line-height: 1.25;
-	text-transform: uppercase;
-	border-top: 1px solid #ddd;
-	text-align: center;
+    padding: 0.5em 0 1em 0;
+    font-size: 200%;
+    font-weight: bold;
+    line-height: 1.25;
+    text-transform: uppercase;
+    border-top: 1px solid #ddd;
+    text-align: center;
 }
 
 #presentation {
-	justify-content: center;
+    justify-content: center;
 }
 
 #dashboard {
-	text-align: center;
-	background-color: #EEE;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
+    text-align: center;
+    background-color: #EEE;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 #cycle {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
-	font-size: 130%;
+    font-size: 130%;
 
-	text-align: center;
-	background-color: #FEFEFE;
+    text-align: center;
+    background-color: #FEFEFE;
 }
 
 #cycle ol {
-	list-style-position: inside;
-	padding-left: 0;
-	line-height: 2;
+    list-style-position: inside;
+    padding-left: 0;
+    line-height: 2;
 }
 
 #phases {
-	color: #FEFEFE;
-	font-size: 110%;
+    color: #FEFEFE;
+    font-size: 110%;
 }
 
 #phases .text.container {
-	margin-top: 0;
+    margin-top: 0;
 }
 
 #phases .text.container p:last-child {
-	margin-bottom: 0;
+    margin-bottom: 0;
 }
 
 @media (max-width: 34em) {
-	#cycle ol {
-		text-align: left;
-		line-height: 1.5;
-	}
+    #cycle ol {
+        text-align: left;
+        line-height: 1.5;
+    }
 }

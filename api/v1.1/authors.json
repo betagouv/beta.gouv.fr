@@ -2,13 +2,13 @@
 layout: null
 ---
 [
-  {% for author in site.author %}
-    {
-      "id": "{{ author.id | replace:'/author/','' }}",
-      "fullname": "{{ author.fullname }}",
-      "start": "{{ author.start }}",
-      "end": "{{ author.end }}"
-    }
-    {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+    {% for author in site.author %}
+        {
+            "id": "{{ author.id | replace:'/author/','' }}",
+            "fullname": "{{ author.fullname }}",
+            "start": "{{ author.contracts.last.start }}",
+            "end": "{{ author.contracts.last.end }}"
+        }
+        {% unless forloop.last %},{% endunless %}
+    {% endfor %}
 ]

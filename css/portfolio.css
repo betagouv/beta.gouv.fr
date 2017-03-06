@@ -1,13 +1,13 @@
 h2 {
-	text-align: center;
-	text-transform: uppercase;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 i {
-	font-size: 80%;
+    font-size: 80%;
 }
 
 #clear-filter {
-	text-align: center;
-	padding-bottom: 1em;
+    text-align: center;
+    padding-bottom: 1em;
 }

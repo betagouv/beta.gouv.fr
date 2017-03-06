@@ -1,10 +1,10 @@
 .screenshot {
-	display: block;
-	margin: auto;
-	max-width: 100%;
-	max-height: 30em;
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    max-height: 30em;
 }
 
 .card .header {
-	text-align: center;
+    text-align: center;
 }
