@@ -6,6 +6,8 @@ startup: mes-aides
 
 **Ce poste a été pourvu.**
 
+<!--more-->
+
 Mes Aides cherche un·e dev web full-stack, compétent·e en JS, et intéressé·e par l'ops. Venez aider des dizaines de milliers de personnes à accéder à leurs droits chaque jour !
 
 Vous rejoindrez l'[équipe autonome](https://beta.gouv.fr/2016/11/28/equipes-autonomes) qui développe Mes Aides. Dans un premier temps, votre contribution portera sur des chantiers techniques prioritaires déjà identifiés :

@@ -3,26 +3,45 @@ title: Blog
 menu_index: 4
 redirect_from:
 -   /annonces
+additional_css: blog
 ---
 
 <section class="ui container">
-    <div class="ui segments">
-        {% for post in site.posts %}
+    {% for post in site.posts %}
+        <a class="blog-segment" href="{{ post.url }}" alt="{{ post.title }}">
             <div class="ui segment">
-                {% if post.category == 'evenement' %}
-                    Retrouvez-nous le <time datetime="{{ post.start }}"></time> pour <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.location }}).
-                {% elsif post.startup %}
-                    {% capture id %}/startup/{{ post.startup }}{% endcapture %}
-                    {% for currentStartup in site.startup %}
-                        {% if currentStartup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
-                            {% assign startupTitle = currentStartup.title %}
-                        {% endif %}
+
+                {% if post.authors %}
+                    {% for author in post.authors %}
+                        {% capture id %}/author/{{ author }}{% endcapture %}
+                        {% assign description = site.author | where:"id", id  | first %}
+
+                        {% capture avatar %}
+                            <img class="ui avatar image" alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}/img{{ description.id }}.jpg{% endif %}" />
+                        {% endcapture %}
+
+                        <div class="ui horizontal list">
+                          <div class="item">
+                            {{ avatar }}
+                            <div class="content">
+                              <div class="header">{{ description.fullname }}</div>
+                              <div class="description">{{ post.date | date: "%d/%m/%Y" }}</div>
+                            </div>
+                          </div>
+                        </div>
                     {% endfor %}
-                    [{{ startupTitle }}] <a href="{{ post.url }}">{{ post.title }}</a>
-                {% else %}
-                    <a href="{{ post.url }}">{{ post.title }}</a>
                 {% endif %}
+
+                <h2>{{ post.title }}</h2>
+
+                {% if post.category == 'evenement' %}
+                    Retrouvez-nous le <time datetime="{{ post.start }}"></time> ({{ post.location }}).
+                {% endif %}
+
+                <p>{{ post.excerpt | strip_html}}</p>
+
+                <a href="{{ post.url }}">Lire la suite...</a>
             </div>
-        {% endfor %}
-    </div>
+        </a>
+    {% endfor %}
 </section>
