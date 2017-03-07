@@ -70,8 +70,17 @@ Démarrer 1 mois plus tard, pas plus.
 
 ## Conclusion
 
-Les étapes pour trouver l’intrapreneur sont finalement assez légères : un email ou un flyer, un formulaire sur l'intranet et une journée de pitch. Le tout bien cadencé se fait en 1 mois, entre l’appel à projet et l'identification de l’intrapreneur, autant dire un clignement d’œil en comparaison d’une démarche plus classique d’étude d’opportunité et la comitologie qui va avec. Avant même son lancement effectif, la Startup montre déjà que le temps est une ressource précieuse et que de nouvelles règles du jeu permettent de gagner un ordre de grandeur.
+Les étapes pour trouver l’intrapreneur sont finalement assez légères : un email ou un flyer, un formulaire sur l'intranet et une journée de pitch !
 
+Le tout bien cadencé se fait en 1 mois, entre l’appel à projet et l'identification de l’intrapreneur, autant dire un clignement d’œil en comparaison d’une démarche plus classique d’étude d’opportunité et la comitologie qui va avec.
+
+Avant même son lancement effectif, la Startup montre déjà que le temps est une ressource précieuse et que de nouvelles règles du jeu permettent de gagner un ordre de grandeur.
+
+Mais en vérité vous l’aurez compris, les phases capitales qui se jouent  discrètement avant la sélection de l’intrapreneur sont :
+
+* l’obtention d'un sponsor de niveau direction générale ou cabinet
+* l’autonomie de la Startup dans son organisation, et dans ses décisions produit et technique
+* le tampon RH et direction permettant de libérer l’intrapreneur de ses responsabilités habituelles en moins d’un mois
 
 ## Au fait, intrapreneur de Startup d'État, ça vous tente ?
 
