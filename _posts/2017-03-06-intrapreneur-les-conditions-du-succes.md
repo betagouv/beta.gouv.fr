@@ -1,5 +1,5 @@
 ---
-title: "Intrapreneur de Startup d'État : les conditions du succès"
+title: Intrapreneur de Startup d'État, les conditions du succès
 authors: ismael.hery
 ---
 
