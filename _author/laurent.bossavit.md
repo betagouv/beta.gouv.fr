@@ -7,4 +7,4 @@ contracts:
     employer: dinsic
 ---
 
-Je suis coach, développeur repenti, j'aime le café et jouer au Go, je cours le semi-marathon et je lis Bruno Latour. (Mais pas en même temps.)
+Je suis coach, développeur repenti, j'aime le café et jouer au Go, l'escalade en salle et lire Bruno Latour. (Mais pas tout en même temps.)
