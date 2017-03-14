@@ -21,13 +21,13 @@ additional_css: blog
                         {% endcapture %}
 
                         <div class="ui horizontal list">
-                          <div class="item">
-                            {{ avatar }}
-                            <div class="content">
-                              <div class="header">{{ description.fullname }}</div>
-                              <div class="description">{{ post.date | date: "%d/%m/%Y" }}</div>
+                            <div class="item">
+                                {{ avatar }}
+                                <div class="content">
+                                      <div class="header">{{ description.fullname }}</div>
+                                      <div class="description">{{ post.date | date: "%d/%m/%Y" }}</div>
+                                </div>
                             </div>
-                          </div>
                         </div>
                     {% endfor %}
                 {% endif %}
