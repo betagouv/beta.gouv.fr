@@ -7,41 +7,42 @@ additional_css: blog
 ---
 
 <section class="ui container">
+    <ul>
     {% for post in site.posts %}
-        <a class="blog-segment" href="{{ post.url }}">
-            <div class="ui segment">
+        <li class="ui segment blog-segment">
+            <a class="blog-segment-link" title="{{ post.title }}" href="{{ post.url }}"></a>
 
-                {% if post.authors %}
-                    {% for author in post.authors %}
-                        {% capture id %}/author/{{ author }}{% endcapture %}
-                        {% assign description = site.author | where:"id", id  | first %}
+            {% if post.authors %}
+                {% for author in post.authors %}
+                    {% capture id %}/author/{{ author }}{% endcapture %}
+                    {% assign description = site.author | where:"id", id  | first %}
 
-                        {% capture avatar %}
-                            <img class="ui avatar image" alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}/img{{ description.id }}.jpg{% endif %}" />
-                        {% endcapture %}
+                    {% capture avatar %}
+                        <img class="ui avatar image" alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}/img{{ description.id }}.jpg{% endif %}" />
+                    {% endcapture %}
 
-                        <div class="ui horizontal list">
-                            <div class="item">
-                                {{ avatar }}
-                                <div class="content">
-                                      <div class="header">{{ description.fullname }}</div>
-                                      <div class="description">{{ post.date | date: "%d/%m/%Y" }}</div>
-                                </div>
+                    <div class="ui horizontal list">
+                        <div class="item">
+                            {{ avatar }}
+                            <div class="content">
+                                <div class="header">{{ description.fullname }}</div>
+                                <div class="description">{{ post.date | date: "%d/%m/%Y" }}</div>
                             </div>
                         </div>
-                    {% endfor %}
-                {% endif %}
+                    </div>
+                {% endfor %}
+            {% endif %}
 
-                <h2>{{ post.title }}</h2>
+            <a class="blog-title-link" href="{{ post.url }}">{{ post.title }}</a>
 
-                {% if post.category == 'evenement' %}
-                    Retrouvez-nous le <time datetime="{{ post.start }}"></time> ({{ post.location }}).
-                {% endif %}
+            {% if post.category == 'evenement' %}
+                Retrouvez-nous le <time datetime="{{ post.start }}"></time> ({{ post.location }}).
+            {% endif %}
 
-                <p>{{ post.excerpt | strip_html}}</p>
+            <p>{{ post.excerpt | strip_html}}</p>
 
-                <a href="{{ post.url }}">Lire la suite...</a>
-            </div>
-        </a>
+            <a href="{{ post.url }}">Lire la suite...</a>
+        </li>
     {% endfor %}
+    </ul>
 </section>
