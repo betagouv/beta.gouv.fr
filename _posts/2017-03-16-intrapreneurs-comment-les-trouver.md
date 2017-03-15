@@ -43,6 +43,7 @@ Troisème étape : pendant 1 journée les candidats vont répéter plusieurs foi
 ## Le jury
 
 ![Le jury de selection de l'intrapreneur](/img/posts/le-jury-selection-intrapreneur.jpg)
+
 [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) - [Paul Townsend - TV Shows We Used To Watch - BBC Juke Box Jury 1959-67](https://www.flickr.com/photos/brizzlebornandbred/4933754453/in/photostream/)
 
 Un directeur général ou un directeur général adjoint présidera ce jury pour légitimer la personne de l’intrapreneur et souligner l’importance de la Startup qui va ainsi être lancée.
@@ -54,6 +55,7 @@ A l’inverse on évitera de reprendre à l’identique les acteurs qui tiennent
 ## Et le pitch ?
 
 ![Pitch de l’intrapreneur](/img/posts/intrapreneur-pitch-3.jpg)
+
 [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) – [Ben Stanfield - Steve Jobs Speaks At WWDC07](https://www.flickr.com/photos/acaben/541334636)
 
 On ne va pas demander au futur intrapreneur d’être le roi du pitch à ce stade. En revanche on s’attachera au caractéristiques suivantes dans son pitch :
