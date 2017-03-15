@@ -93,7 +93,7 @@ Ce qui signifie bien sûr qu’on aura assuré avant même l’appel à projet q
 
 Les étapes pour trouver l’intrapreneur sont finalement assez légères : un email ou un flyer, un formulaire sur l'intranet et une journée de pitch !
 
-Le tout bien cadencé se fait en 2 mois, entre l’appel à projet et les premiers travaux concrets de la Startup, autant dire un clignement d’œil en comparaison d’une démarche plus classique d’étude d’opportunité et de comitologie…
+Le tout bien cadencé se fait en 2 mois, entre le lancement de l’appel à projet, et les premiers travaux concrets de la Startup. Autant dire un clignement d’œil en comparaison d’une démarche plus classique d’étude d’opportunité et de comitologie…
 
 Avant même son lancement effectif, la Startup montre déjà que le temps est une ressource précieuse et que de nouvelles règles du jeu permettent de gagner un ordre de grandeur.
 
