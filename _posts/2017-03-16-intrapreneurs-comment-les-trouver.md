@@ -34,7 +34,6 @@ Bien sûr la page de dépot de projet sur l'intranet propose un formulaire qui p
 * les grands axes de sa solution
 * une description du monde tel qu’il sera après la mise en place de la solution
 
- 
 Deuxième étape : on ramasse les copies 1 mois plus tard puis on sélectionne et invite les 10 à 20 participants les plus prometteurs pour une journée de « pitch ».
 
 Troisème étape : pendant 1 journée les candidats vont répéter plusieurs fois leur pitch, devant des coachs, des externes, ou des responsables de l’administration. Un dernier passage en grande pompe devant un jury permettra de nommer le ou les vainqueurs qui se verront nommés véritablement intrapreneur de Startup d'État !
