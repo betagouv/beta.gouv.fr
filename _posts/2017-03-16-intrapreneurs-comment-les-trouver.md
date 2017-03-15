@@ -53,7 +53,9 @@ A choix innovant, jury innovant. On cherchera ainsi à diversifier les profils q
 A l’inverse on évitera de reprendre à l’identique les acteurs qui tiennent déjà le portefeuille des projets. Une Startup d’Etat se structurera sur des problèmes et des solutions différentes si les responsables du choix ont des expériences, des intuitions et des envies différentes.
 
 ## Et le pitch ?
-On ne peut pas demander au futur intrapreneur d’être le roi du pitch à ce stade. En revanche on s’attachera au caractéristiques suivantes dans son pitch :
+
+
+On ne va pas demander au futur intrapreneur d’être le roi du pitch à ce stade. En revanche on s’attachera au caractéristiques suivantes dans son pitch :
 
 **Son histoire de l’irritant est convaincante :**
 * En tant que citoyen l’irritant fait du sens. Il s’agit d’un problème qui impacte directement l’usager du service public et pas d’une idée d’optimisation d’un processus interne de comptabilité ou de ressources humaines.
@@ -72,7 +74,9 @@ On ne peut pas demander au futur intrapreneur d’être le roi du pitch à ce st
 
 **Et la faisabilité dans tout ça :**
 * Lors de cette journée pitch, le jury va lancer une Startup en se fiant à ses intuitions sur la possibilité de mettre en œuvre une solution qui fonctionne en moins de 6 mois : « oui, nous pensons qu’une petite équipe autonome, engagée et débrouillarde, a de bonnes chances de résoudre ce problème en moins de 6 mois ».  
-* On s’oppose ici aux approches classiques qui consistent à « dérisquer » par des études profondes et des artefacts textuels et contractuels plut^ôt que logiciels ! Au lieu de couvrir des armoires entières d’études d’opportunité et de spécifications détaillées la Startup va montrer dans les faits que c’est possible… ou pas.
+* On s’oppose ici aux approches classiques qui consistent à « dérisquer » par des études profondes et des artefacts textuels et contractuels plutôt que logiciels ! Au lieu de couvrir des armoires entières d’études d’opportunité et de spécifications détaillées la Startup va montrer dans les faits que c’est possible… ou pas.
+
+Dans les faits nos expériences montrent que les candidats à l’intraprenariat sans aucune expérience du pitch produisent des performances remarquables lors de cet exercice !
 
 # Et ensuite ?
 
