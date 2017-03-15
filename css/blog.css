@@ -57,3 +57,9 @@ a.blog-title-link {
     -ms-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
 }
+
+@media (max-width: 414px) {
+    .thumbnail {
+        height: 100px;
+    }
+}
