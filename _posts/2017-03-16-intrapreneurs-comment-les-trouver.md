@@ -99,9 +99,9 @@ Avant même son lancement effectif, la Startup montre déjà que le temps est un
 
 Mais en vérité vous l’aurez compris, les phases capitales qui se jouent  discrètement avant la sélection de l’intrapreneur sont :
 
-* l’obtention d'un sponsor de niveau direction générale ou cabinet
-* l’autonomie de la Startup dans son organisation, et dans ses décisions produit et technique
-* le tampon RH et direction permettant de libérer l’intrapreneur de ses responsabilités habituelles en moins d’un mois
+* l’obtention d'un **sponsor de niveau direction générale ou cabinet**
+* la validation de **l’autonomie de la Startup** dans son organisation, et dans ses décisions produit et technique
+* les tampons RH et direction permettant de **libérer l’intrapreneur** de ses responsabilités habituelles en moins d’un mois
 
 ## Au fait, intrapreneur de Startup d'État, ça vous tente ?
 
