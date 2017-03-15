@@ -53,7 +53,6 @@ A l’inverse on évitera de reprendre à l’identique les acteurs qui tiennent
 
 ## Et le pitch ?
 
-![Pitch de l’intrapreneur](/img/posts/intrapreneur-pitch.jpg)
 
 [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) – [Ben Stanfield - Steve Jobs Speaks At WWDC07](https://www.flickr.com/photos/acaben/541334636)
 
