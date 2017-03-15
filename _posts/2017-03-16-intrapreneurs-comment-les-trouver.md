@@ -42,6 +42,10 @@ Troisème étape : pendant 1 journée les candidats vont répéter plusieurs foi
 
 ## Le jury
 
+![Le jury de selection de l'intrapreneur](/img/posts/le-jury-selection-intrapreneur.jpg)
+
+[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) - [Paul Townsend - TV Shows We Used To Watch - BBC Juke Box Jury 1959-67](https://www.flickr.com/photos/brizzlebornandbred/4933754453/in/photostream/)
+
 Un directeur général ou un directeur général adjoint présidera ce jury pour légitimer la personne de l’intrapreneur et souligner l’importance de la Startup qui va ainsi être lancée.
 
 A choix innovant, jury innovant. On cherchera ainsi à diversifier les profils qui composent ce jury. Par exemple en panachant le jury avec des acteurs externes issus du numérique et proches des problèmes que va devoir affronter l’intrapreneur. Des startupeurs, des investisseurs, des entrepreneurs… D’expérience un jury de 5 personnes permet de mixer ces types de profil mais aussi d’arriver à un consensus en 1 heure, la journée étant très rythmée.
