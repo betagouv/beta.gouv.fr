@@ -35,6 +35,11 @@ additional_css: blog
 
             <a class="blog-title-link" href="{{ post.url }}">{{ post.title }}</a>
 
+            {% capture mastheadImagePath %}/img/{{ post.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}.jpg{% endcapture %}
+            <div class="thumbnail">
+                <img src="{{ site.url }}{{ mastheadImagePath }}">
+            </div>
+
             {% if post.category == 'evenement' %}
                 Retrouvez-nous le <time datetime="{{ post.start }}"></time> ({{ post.location }}).
             {% endif %}
