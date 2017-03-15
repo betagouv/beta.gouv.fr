@@ -72,18 +72,17 @@ On ne peut pas demander au futur intrapreneur d’être le roi du pitch à ce st
 
 # Et ensuite ?
 
-On a trouvé l’intrapreneur, la Startup d'État va démarrer en moins d’un mois, le temps de le libérer de ses obligations actuelles et de trouver un ou quelques développeurs pour former l’équipe. Le tout à marche forcée puisque l’intrapreneur a bien identifié un irritant qui ne peut pas attendre !
+On a trouvé l’intrapreneur, la Startup d'État **va démarrer en moins d’un mois**, le temps de le libérer de ses obligations actuelles et de trouver un ou quelques développeurs pour former l’équipe.
 
-Les libérer
-S'assurer avant le challenge qu'ils pourront être libéré de leur poste
-S'assurer avant le challenge que le budget est dispo pour recruter un développeur
-Démarrer 1 mois plus tard, pas plus.
+Le tout à marche forcée puisque l’intrapreneur a bien identifié un irritant qui ne peut pas attendre !
+
+Ce qui signifie bien sûr qu’on aura assuré avant même l’appel à projet que le gagnant sera libéré de ses obligations et que le budget est disponible pour recruter un ou quelques développeurs.
 
 ## Conclusion
 
 Les étapes pour trouver l’intrapreneur sont finalement assez légères : un email ou un flyer, un formulaire sur l'intranet et une journée de pitch !
 
-Le tout bien cadencé se fait en 1 mois, entre l’appel à projet et l'identification de l’intrapreneur, autant dire un clignement d’œil en comparaison d’une démarche plus classique d’étude d’opportunité et la comitologie qui va avec.
+Le tout bien cadencé se fait en 2 mois, entre l’appel à projet et les premiers travaux concrets de la Startup, autant dire un clignement d’œil en comparaison d’une démarche plus classique d’étude d’opportunité et de comitologie…
 
 Avant même son lancement effectif, la Startup montre déjà que le temps est une ressource précieuse et que de nouvelles règles du jeu permettent de gagner un ordre de grandeur.
 
