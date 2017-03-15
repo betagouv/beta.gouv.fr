@@ -1,17 +1,19 @@
 ---
-title: "Intrapreneur de Startup d'État : comment les former"
+title: "Intrapreneur de Startup d'État : comment les trouver ?"
 authors: ismael.hery
 ---
 
 Cette série sur l’intrapreneur de Startup d’État nous a permis de mieux comprendre [ses responsabilités](/2017/02/16/intrapreneur-startup-d-etat.html), la méthode pour [le former](/2017/02/27/comment-former-des-intrapreneurs.html) et les [conditions nécessaires à son succès](/2017/03/06/intrapreneur-les-conditions-du-succes.html).
 
-Terminons cette série par le commencement, c’est-à-dire par les premières étapes concrètes qui permettent de trouver cet intrapreneur !
+Terminons cette série par le commencement, c’est-à-dire par les premières étapes concrètes qui permettent de trouver cet intrapreneur·euse !
 
-# Intrapreneurs·euses de Startups d’État : comment les former
+<!--more-->
+
+# Intrapreneurs·euses de Startups d’État : comment les trouver ?
 
 ## D’où vient-il·elle ?
 
-L’intrapreneur vient du terrain où il a pu observer le problème sous toutes ses facettes. Il a 10 000 histoires d’usager à raconter parce qu’il rencontre ses usagers physiquement tous les jours depuis des années. Il ne sera pas issu de la DSI ou de la MOA, sinon ça s’appelle un projet informatique, pas une Startup d'État.
+L’intrapreneur vient du terrain où il a pu observer le problème qu’il cherche à résoudre sous toutes ses facettes. Il a 10 000 histoires d’usager à raconter parce qu’il rencontre ses usagers physiquement tous les jours depuis des années. Il ne sera pas issu de la DSI ou de la MOA, sinon ça s’appelle un projet informatique, pas une Startup d'État.
 
 ## La sélection
 
@@ -26,41 +28,51 @@ Cet appel à candidature pourra ressembler à ça :
 > Sans être nécessairement un.e expert.e en informatique, internet vous intéresse ?
 > Vous avez une idée de solution numérique pouvant remédier au problème identifié ?
 > Vous êtes prêt.e à vous investir six mois autour d’une équipe mobilisée pour réussir ?
-> Dans ce cas, déposez votre idée sur l’intranet à l’adresse http://monadministration.fr/appel-intrapreneur, vous serez peut-être sélectionné pour défendre votre projet devant un jury le … à … !
+> Dans ce cas, déposez votre idée sur l’intranet à l’adresse http://monadministration.fr/appel-intrapreneur, vous serez peut-être sélectionné pour défendre votre projet devant un jury le xxx à 9h !
 
-Bien sûr la page de dépot de projet sur l'intranet propose un formulaire qui permet à l’agent de décrire son projet avec :
+La page de dépot d’idée sur l'intranet propose un simple formulaire qui permet à l’agent de décrire son projet avec :
 * le nom du projet
 * l’irritant ou le problème auquel il veut s’attaquer
 * les grands axes de sa solution
 * une description du monde tel qu’il sera après la mise en place de la solution
 
-Deuxième étape : on ramasse les copies 1 mois plus tard puis on sélectionne et invite les 10 à 20 participants les plus prometteurs pour une journée de « pitch ».
+Deuxième étape : on ramasse les copies 1 mois plus tard, puis on **sélectionne et invite les 10 à 20 participants** les plus prometteurs pour une journée de « pitch ».
 
-Troisème étape : pendant 1 journée les candidats vont répéter plusieurs fois leur pitch, devant des coachs, des externes, ou des responsables de l’administration. Un dernier passage en grande pompe devant un jury permettra de nommer le ou les vainqueurs qui se verront nommés véritablement intrapreneur de Startup d'État !
+Troisème étape : pendant 1 journée les candidats vont répéter plusieurs fois leur **pitch**, devant des coachs, des externes, ou des responsables de l’administration. Un dernier passage en grande pompe devant un jury permettra de nommer le ou les vainqueurs qui se verront nommés véritablement intrapreneur de Startup d'État !
 
 ## Le jury
-Un directeur général ou un directeur général adjoint présidera ce jury pour légitimer la personne de l’intrapreneur et souligner l’importance des Startups qui vont démarrer. A choix innovant, jury innovant. On cherchera ainsi à diversifier les profils qui composent ce jury. Par exemple en panachant le jury avec des acteurs externes issus du numérique et proches des problèmes que va devoir affronter l’intrapreneur. Des startupeurs, des investisseurs, des entrepreneurs…
 
-A l’inverse on évitera de recopier à l’identique les acteurs qui tiennent déjà le portefeuille des projets informatiques. Une Startup d’Etat se structurera sur des problèmes et des solutions différentes si les responsables du choix ont des expériences/intuitions/envies différentes.
+Un directeur général ou un directeur général adjoint présidera ce jury pour légitimer la personne de l’intrapreneur et souligner l’importance de la Startup qui va ainsi être lancée.
+
+A choix innovant, jury innovant. On cherchera ainsi à diversifier les profils qui composent ce jury. Par exemple en panachant le jury avec des acteurs externes issus du numérique et proches des problèmes que va devoir affronter l’intrapreneur. Des startupeurs, des investisseurs, des entrepreneurs… D’expérience un jury de 5 personnes permet de mixer ces types de profil mais aussi d’arriver à un consensus en 1 heure, la journée étant très rythmée.
+
+A l’inverse on évitera de reprendre à l’identique les acteurs qui tiennent déjà le portefeuille des projets. Une Startup d’Etat se structurera sur des problèmes et des solutions différentes si les responsables du choix ont des expériences, des intuitions et des envies différentes.
 
 ## Et le pitch ?
 On ne peut pas demander au futur intrapreneur d’être le roi du pitch à ce stade. En revanche on s’attachera au caractéristiques suivantes dans son pitch :
 
-Son histoire de l’irritant est convaincante :
-En tant que citoyen l’irritant fait du sens. Il s’agit d’un problème qui impacte directement l’usager du service public et pas d’une idée d’optimisation d’un processus interne de comptabilité ou de ressources humaines.
-on sent qu’il a vécu concrètement cet irritant 1 000 fois sur le terrain. Il peut dès le lendemain tester des prototypes de sa solutions dans le monde réel (ou, quand, comment).
-on sent que ce problème lui prend les tripes et que sa résolution lui donnera envie de se lever le matin avec énergie tout le temps de la startup.
+**Son histoire de l’irritant est convaincante :**
+* En tant que citoyen l’irritant fait du sens. Il s’agit d’un problème qui impacte directement l’usager du service public et pas d’une idée d’optimisation d’un processus interne de comptabilité ou de ressources humaines.
+* On sent qu’il a vécu concrètement cet irritant 1 000 fois sur le terrain. Il peut dès le lendemain tester des prototypes de sa solutions dans le monde réel (ou, quand, comment).
+* On sent aussi que ce problème lui prend les tripes et que sa résolution lui donnera envie de se lever le matin avec énergie tout le temps de la startup.
 
-Une solution enthousiasmante :
-Le levier du numérique proposé par l’intrapreneur est une vraie rupture dans la pensée de ce problème.
-L’intrapreneur définit bien les grands axes de la solution mais il est souple sur les détails. On peut le tester sur ce plan par des questions sur des pivots éventuelles et voir ce qu’il retient (l’essentiel ?) ou ce à quoi il s’accroche (des détails ?).
-L’irritant passe avant sa solution.
+**Sa solution est enthousiasmante :**
+* Le levier du numérique proposé par l’intrapreneur est une vraie rupture dans la pensée de ce problème.
+* L’intrapreneur définit bien les grands axes de la solution mais il est souple sur les détails. On peut le tester sur ce plan par des questions sur des pivots éventuelles et voir ce qu’il retient (l’essentiel ?) ou ce à quoi il s’accroche (des détails ?).
+* Il est plus attaché à l’irritant qu’à sa solution.
 
-Une personne tenace et convaincante : les questions parfois acides qui suivent le pitch ne vont pas le désarçonner
+**Une personne à l’écoute mais tenace et convaincante :**
+* Il s’est déjà renseigné énormément sur ce problème. Il a déjà les réponses aux questions les plus basiques sur le sujet. Il a tenté des choses avec les outils à sa disposition, il a déjà bidouillé des débuts de solution DIY à base d’excel ou de bous de ficelle.
+* Les retours donnés pendant la journée par des coachs ou d’autres intrapreneurs conduisent parfois à des changements de cap dans le pitch… ou au contraire à des positions ré affirmées
+* Les questions parfois acides du jury ne vont pas le désarçonner
+
+**Et la faisabilité dans tout ça :**
+* Lors de cette journée pitch, le jury va lancer une Startup en se fiant à ses intuitions sur la possibilité de mettre en œuvre une solution qui fonctionne en moins de 6 mois : « oui, nous pensons qu’une petite équipe autonome, engagée et débrouillarde, a de bonnes chances de résoudre ce problème en moins de 6 mois ».  
+* On s’oppose ici aux approches classiques qui consistent à « dérisquer » par des études profondes et des artefacts textuels et contractuels plut^ôt que logiciels ! Au lieu de couvrir des armoires entières d’études d’opportunité et de spécifications détaillées la Startup va montrer dans les faits que c’est possible… ou pas.
 
 # Et ensuite ?
 
-On a trouvé l’intrapreneur, la Startup d'État va démarrer en moins d’un mois, le temps de le libérer de ses obligations actuelles. Le tout à marche forcée puisque l’intrapreneur a bien identifié un irritant qui ne peut pas attendre !
+On a trouvé l’intrapreneur, la Startup d'État va démarrer en moins d’un mois, le temps de le libérer de ses obligations actuelles et de trouver un ou quelques développeurs pour former l’équipe. Le tout à marche forcée puisque l’intrapreneur a bien identifié un irritant qui ne peut pas attendre !
 
 Les libérer
 S'assurer avant le challenge qu'ils pourront être libéré de leur poste
