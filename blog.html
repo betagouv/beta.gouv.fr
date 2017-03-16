@@ -37,7 +37,7 @@ additional_css: blog
 
             {% capture mastheadImagePath %}/img/{{ post.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}.jpg{% endcapture %}
             <div class="thumbnail">
-                <img src="{{ site.url }}{{ mastheadImagePath }}" alt="">
+                <img src="{{ mastheadImagePath }}" alt="">
             </div>
 
             {% if post.category == 'evenement' %}
