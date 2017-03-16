@@ -2,8 +2,7 @@
 fullname: Yohan Boniface
 role: Développeur
 avatar: /img/logo-generique-startup-carre.jpg
-contracts:
--   start: 2014-11-01
-    end: 2016-09-30
-    employer: independent/octo
+start: 2014-11-01
+end: 2016-09-30
+employer: independent/octo
 ---
