@@ -3,12 +3,12 @@
 Le statu quo ouvrira un boulevard à des acteurs innovants - privés pour la plupart - qui s’empareront des problèmes des citoyens - chômage, non-recours aux aides publiques, mal-logement, santé…-, reléguant l’État à un rôle de soutier bougon et procédurier plus que de protecteur bienveillant. Si nous ne réussissons pas la généralisation de mes-aides.gouv.fr, n’importe quel Google proposera sous peu un guichet moderne de sécurité sociale. Prenons-en bien toute la mesure.
 
 <!--more-->
- 
+
 À l’inverse, nombre de ces initiatives feront émerger des services publics réutilisables par d’autres opérateurs, et qui simplifieront l’action de l’État auprès de l’usager, où qu’il soit, quel qu’il soit. Surtout si l’État adopte les stratégies de plateforme qui permettent à ses ressources de stimuler, et si nécessaire d’orienter, un flux d’innovations. Le.taxi en est un bon exemple. Il en va de même pour La Bonne Boîte, dont le but n’est pas de capter toute l’audience des chercheurs d’emploi sur son site Web, mais d’être aussi réutilisé par différents services d’aide au retour à l’emploi, publics comme privés, offrant ainsi une variété d’offres aux usagers.
 
 ##La souveraineté sans le monopole
 
-Cette posture est nouvelle pour un État qui se vit aujourd’hui plus en service monopolistique qu’en stimulateur (ou coproducteur) de l’initiative de la société. Pourtant, cet « État plateforme » n’est pas la fin de l’État, mais au contraire l’incarnation d’une souveraineté retrouvée au centre du jeu numérique. Il est par exemple très facile à le.taxi de fixer une commission maximale ou à La Bonne Boite d’imposer une gratuité pour les demandeurs d’emploi : c’est l’État qui donne, ou pas, la clé d’accès ! 
+Cette posture est nouvelle pour un État qui se vit aujourd’hui plus en service monopolistique qu’en stimulateur (ou coproducteur) de l’initiative de la société. Pourtant, cet « État plateforme » n’est pas la fin de l’État, mais au contraire l’incarnation d’une souveraineté retrouvée au centre du jeu numérique. Il est par exemple très facile à le.taxi de fixer une commission maximale ou à La Bonne Boite d’imposer une gratuité pour les demandeurs d’emploi : c’est l’État qui donne, ou pas, la clé d’accès !
 
 Ceci n’est qu’un modeste début. Le défi, c’est la modernisation numérique de la société et pas seulement celle de l'État. L’organisation pyramidale est-elle l’unique moyen de déployer massivement un service universel ?
 
