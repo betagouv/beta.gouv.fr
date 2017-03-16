@@ -76,7 +76,7 @@ On ne va pas demander au futur intrapreneur d’être le roi du pitch à ce stad
 * Les questions parfois acides du jury ne vont pas le désarçonner
 
 **Et la faisabilité dans tout ça :**
-* Lors de cette journée pitch, le jury va lancer une Startup en se fiant à ses intuitions sur la possibilité de mettre en œuvre une solution qui fonctionne en moins de 6 mois : « oui, nous pensons qu’une petite équipe autonome, engagée et débrouillarde, a de bonnes chances de résoudre ce problème en moins de 6 mois ».  
+* Lors de cette journée pitch, le jury va lancer une Startup en se fiant à ses intuitions sur la possibilité de mettre en œuvre une solution qui fonctionne en moins de 6 mois : « oui, nous pensons qu’une petite équipe autonome, engagée et débrouillarde, a de bonnes chances de résoudre ce problème en moins de 6 mois ».
 * On s’oppose ici aux approches classiques qui consistent à « dérisquer » par des études profondes et des artefacts textuels et contractuels plutôt que logiciels ! Au lieu de couvrir des armoires entières d’études d’opportunité et de spécifications détaillées la Startup va montrer dans les faits que c’est possible… ou pas.
 
 Dans les faits nos expériences montrent que les candidats à l’intraprenariat sans aucune expérience du pitch produisent des performances remarquables lors de cet exercice !
