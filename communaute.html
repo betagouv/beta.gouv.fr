@@ -19,11 +19,25 @@ hire_card:
         start: site.time
 ---
 {% capture build_date %}{{ site.time | date:"%Y-%m-%d" }}{% endcapture %}
-{% assign members = site.author | sort: 'start' | reverse %}
 
-
-{% capture current_members_cards %} {% comment %} Capture in order to get the count right before outputting the cards {% endcomment %}
+{% comment %} The sort filter will not work on fields in nested objects {% endcomment %}
+{% assign members = site.author %}
+{% capture member_sort %}
     {% for person in members %}
+    {{ person.contracts.first.start }}={{ person.id }}{% unless forloop.last %}|{% endunless %}
+    {% endfor %}
+{% endcapture %}
+{% assign member_order = member_sort | split: '|' | sort | reverse %}
+
+{% capture current_members_cards %}
+{% comment %} Capture in order to get the count right before outputting the cards {% endcomment %}
+    {% for pair in member_order %}
+        {% assign member_id = pair | split: '=' | last | strip %}
+        {% for author in site.author %}
+            {% if author.id == member_id %} {% comment %} where query doesn't work on id {% endcomment %}
+                {% assign person = author %}
+            {% endif %}
+        {% endfor %}
         {% capture end_date_as_string %}{{ person.contracts.last.end }}{% endcapture %}
         {% if end_date_as_string == '' or end_date_as_string > build_date %}
             {% include author.html description=person %}
@@ -31,7 +45,6 @@ hire_card:
         {% endif %}
     {% endfor %}
 {% endcapture %}
-
 
 <section id="effectifs" class="ui container">
     <h2 class="ui divider horizontal">Évolution des effectifs</h2>
@@ -52,7 +65,13 @@ hire_card:
 
     <h2 id="alumni" class="ui divider horizontal">Les ancien·ne·s</h2>
 
-    {% for person in members %}
+    {% for pair in member_order %}
+        {% assign member_id = pair | split: '=' | last | strip %}
+        {% for author in site.author %}
+            {% if author.id == member_id %} {% comment %} where query doesn't work on id {% endcomment %}
+                {% assign person = author %}
+            {% endif %}
+        {% endfor %}
         {% capture end_date_as_string %}{{ person.contracts.last.end }}{% endcapture %}
         {% if end_date_as_string != '' and end_date_as_string <= build_date %}
             {% include author.html description=person %}
