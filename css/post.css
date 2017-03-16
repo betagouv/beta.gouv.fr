@@ -15,13 +15,6 @@ address.ui.cards {
     margin-top: 2em;
 }
 
-.post .excerpt p {
-    font-weight: 300;
-    font-size: 22px;
-    letter-spacing: -.022em;
-    color: #777;
-}
-
 .post-container {
     background-color: white;
 }
