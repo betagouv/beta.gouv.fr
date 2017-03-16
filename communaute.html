@@ -35,10 +35,17 @@ hire_card:
 
 <section id="effectifs" class="ui container">
     <h2 class="ui divider horizontal">Évolution des effectifs</h2>
-    <div id="chart-wrapper">
-        <canvas>
-            Nous avons actuellement {% increment members_count %} membres.
-        </canvas>
+    <div class="chart-wrapper">
+        <div class="ten column" id="chart-effectifs">
+            <canvas>
+                Nous avons actuellement {% increment members_count %} membres...
+            </canvas>
+        </div>
+        <div class="six column" id="chart-repartition">
+            <canvas>
+                ...dont X agents DINSIC, X autres agents publics, X prestataires, X indépendant•e•s
+            </canvas>
+        </div>
     </div>
     <p>À l'exception de quelques membres permanents qui assurent la passation de la connaissance, le lien avec l'administration hôte et la continuité de l'animation de la communauté, nos membres sont recrutés pour faire réussir <em>une</em> Startup d'État. Leur engagement est limité dans le temps. Cela évite à l'administration qui a lancé une Startup de la considérer comme un investissement impossible à abandonner, qui signerait la fin de son droit à l'échec et donc de sa capacité à innover.</p>
 </section>
@@ -62,31 +69,28 @@ hire_card:
 
 <script type="text/javascript">
 (function() {
+    window.data = [];
+    window.employers = {};
     window.buildDate = '{{ build_date }}';
-    window.data = {
-        dinsic: [],
-        admin: [],
-        independent: [],
-        service: []
-    };
 
     {% for person in site.author %}
-        {% for contract in person.contracts %}
-            var employerType = '{{ contract.employer }}'.split('/')[0];
+        var employerType = '{{ person.contracts.last.employer }}'.split('/')[0];
+        if (window.employers[employerType] == null) window.employers[employerType] = 0;
+        if ('{{ person.contracts.last.end }}' == '' || '{{ person.contracts.last.end }}' > window.buildDate)
+            window.employers[employerType] += 1;
 
-            {% if contract.start %}
-                window.data[employerType].push({
-                    date: '{{ contract.start }}',
-                    increment: 1
-                });
-            {% endif %}
-            {% if contract.end %}
-                window.data[employerType].push({
-                    date: '{{ contract.end }}',
-                    increment: -1
-                });
-            {% endif %}
-        {% endfor %}
+        {% if person.contracts.last.start %}
+            window.data.push({
+                date: '{{ person.contracts.last.start }}',
+                increment: 1
+            });
+        {% endif %}
+        {% if person.contracts.last.end %}
+            window.data.push({
+                date: '{{ person.contracts.last.end }}',
+                increment: -1
+            });
+        {% endif %}
     {% endfor %}
 })();
 </script>
