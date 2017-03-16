@@ -44,7 +44,9 @@ additional_css: blog
                 Retrouvez-nous le <time datetime="{{ post.start }}"></time> ({{ post.location }}).
             {% endif %}
 
-            <p>{{ post.excerpt }}</p>
+            <div>
+                {{ post.excerpt }}
+            </div>
 
             <a href="{{ post.url }}">Lire la suite...</a>
         </li>
