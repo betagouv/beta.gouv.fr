@@ -1,5 +1,5 @@
 ---
-title: "Intrapreneur de Startup d'État : comment les trouver ?"
+title: "Intrapreneur de Startup d'État, comment les trouver ?"
 authors: ismael.hery
 ---
 
