@@ -72,13 +72,13 @@ hire_card:
     {% for person in site.author %}
         var employerType = '{{ person.employer }}'.split('/')[0];
 
-        {% if contract.start %}
+        {% if person.start %}
             window.data[employerType].push({
                 date: '{{ person.start }}',
                 increment: 1
             });
         {% endif %}
-        {% if contract.end %}
+        {% if person.end %}
             window.data[employerType].push({
                 date: '{{ person.end }}',
                 increment: -1
