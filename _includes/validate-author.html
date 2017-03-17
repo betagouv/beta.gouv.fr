@@ -1,14 +1,7 @@
 {% comment %} poor man's validation through missing file ;) {% endcomment %}
-
-{% unless include.author.contracts %}
-    {% include no-contracts-{{include.id}} %}
+{% unless include.employer %}
+    {% include missing-employer-{{include.id}} %}
 {% endunless %}
-
-{% for contract in include.author.contracts %}
-    {% unless contract.employer %}
-        {% include missing-employer-{{include.id}} %}
-    {% endunless %}
-    {% unless contract.start %}
-        {% include missing-start-date-{{include.id}} %}
-    {% endunless %}
-{% endfor %}
+{% unless include.start %}
+    {% include missing-start-date-{{include.id}} %}
+{% endunless %}

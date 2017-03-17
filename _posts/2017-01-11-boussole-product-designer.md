@@ -6,6 +6,8 @@ startup: boussole
 
 **Ce poste a été pourvu.**
 
+<!--more-->
+
 L'équipe Boussole cherche un·e product designer pour prototyper, tester et implémenter en continu de super améliorations au service !
 
 * Vous voulez faire partie d'une [petite équipe produit autonome](https://beta.gouv.fr/2016/11/28/equipes-autonomes), focalisée autour d'un problème précis ;
