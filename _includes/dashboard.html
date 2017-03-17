@@ -13,7 +13,7 @@
     <li>
         <ul class="counter--endgame">
             {% for phase in phases.endgame %}
-                 <li class="counter {{ phase[0] }}">
+                <li class="counter {{ phase[0] }}">
                     <a href="/startups#{{ phase[0] }}">
                         <span class="counter--count">{{ site.startup | where:'status',phase[0] | size }}</span>
 
