@@ -2,9 +2,8 @@
 fullname: Fabien Champigny
 role: Développeur
 link: http://champigny.name
-contracts:
--   start: 2017-02-09
-    end: 2017-06-30
-    employer: independent/evoluchain
+start: 2017-02-09
+end: 2017-06-30
+employer: independent/evoluchain
 ---
 « Soyez le changement que vous voulez voir dans le monde », Gandhi
