@@ -14,9 +14,8 @@ hire_card:
     avatar: /img/logo-generique-startup-carre.jpg
     content: <b>Vous avez envie de nous rejoindre ? Contactez-nous !</b>
     # Not used in page but required to validate the author object
-    contracts:
-    -   employer: none
-        start: site.time
+    employer: none
+    start: site.time
 ---
 {% capture build_date %}{{ site.time | date:"%Y-%m-%d" }}{% endcapture %}
 {% assign members = site.author | sort: 'start' | reverse %}
@@ -24,7 +23,7 @@ hire_card:
 
 {% capture current_members_cards %} {% comment %} Capture in order to get the count right before outputting the cards {% endcomment %}
     {% for person in members %}
-        {% capture end_date_as_string %}{{ person.contracts.last.end }}{% endcapture %}
+        {% capture end_date_as_string %}{{ person.end }}{% endcapture %}
         {% if end_date_as_string == '' or end_date_as_string > build_date %}
             {% include author.html description=person %}
             <!--{% increment members_count %}-->
@@ -53,7 +52,7 @@ hire_card:
     <h2 id="alumni" class="ui divider horizontal">Les ancien·ne·s</h2>
 
     {% for person in members %}
-        {% capture end_date_as_string %}{{ person.contracts.last.end }}{% endcapture %}
+        {% capture end_date_as_string %}{{ person.end }}{% endcapture %}
         {% if end_date_as_string != '' and end_date_as_string <= build_date %}
             {% include author.html description=person %}
         {% endif %}
@@ -71,22 +70,20 @@ hire_card:
     };
 
     {% for person in site.author %}
-        {% for contract in person.contracts %}
-            var employerType = '{{ contract.employer }}'.split('/')[0];
+        var employerType = '{{ person.employer }}'.split('/')[0];
 
-            {% if contract.start %}
-                window.data[employerType].push({
-                    date: '{{ contract.start }}',
-                    increment: 1
-                });
-            {% endif %}
-            {% if contract.end %}
-                window.data[employerType].push({
-                    date: '{{ contract.end }}',
-                    increment: -1
-                });
-            {% endif %}
-        {% endfor %}
+        {% if person.start %}
+            window.data[employerType].push({
+                date: '{{ person.start }}',
+                increment: 1
+            });
+        {% endif %}
+        {% if person.end %}
+            window.data[employerType].push({
+                date: '{{ person.end }}',
+                increment: -1
+            });
+        {% endif %}
     {% endfor %}
 })();
 </script>
