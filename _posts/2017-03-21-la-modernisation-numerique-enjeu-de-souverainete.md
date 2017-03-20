@@ -52,4 +52,4 @@ Qui appellera-t-on lorsqu'il faudra bâtir un cadastre collaboratif en Afrique ?
 
 Qui parlera mieux de ville intelligente, les éditeurs privés Américains ou les spécialistes des ouvrages collaboratifs Français ?
 
-Derrière tout soft power, se dessinent aussi de fructueux rouages économiques.
+Derrière tout soft power, se dessinent aussi de fructueux rouages économiques. **Aux grands dirigeants de la fonction publique de saisir cette opportunité**, dans les administrations centrales, territoriales et hospitalières. Le chemin est désormais balisé !
