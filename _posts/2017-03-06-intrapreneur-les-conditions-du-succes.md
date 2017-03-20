@@ -3,13 +3,13 @@ title: Intrapreneur de Startup d'État, les conditions du succès
 authors: ismael.hery
 ---
 
-# Intrapreneur de Startup d'État : les conditions du succès
-
 Nous avons vu dans des précédents articles que l’ambition du [rôle d’intrapreneur·euse de Startup d'État](/2017/02/16/intrapreneur-startup-d-etat.html) est immense. Nous avons vu aussi que [le coaching et un environnement choisi avec soin](/2017/02/27/comment-former-des-intrapreneurs.html) permettent aux intrapreneurs·euses d’enfiler leur nouveau costume.
 
 N’empêche, malgré toute la bonne volonté et tout l’accompagnement du monde, certaines Startups d’État peuvent échouer lorsque certaines conditions ne sont pas réunies.
 
 Faisons un rapide tour des conditions de succès, qui pour certaines dépendent de sa structure, ministère ou établissement public. Et pour beaucoup d’autres dépendent de l’intrapreneur lui-même !
+
+<!--more-->
 
 ## Des conditions qui dépendent de sa structure
 
@@ -50,4 +50,3 @@ Le droit de se détacher de l’existant organisationnel et métier est un pré-
 ## Au fait, intrapreneur de Startup d'État, ça vous tente ?
 
 Vous êtes agent·e du public et vous vous sentez l’âme d’un intrapreneur de Startup d'État. Vous êtes convaincu·e que ce problème qui vous tord le ventre depuis toujours pourrait être attaqué par le numérique et une petite équipe autonome ? Racontez-nous ça par mail à [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr?subject=Candidature%20intrapreneur) !
-

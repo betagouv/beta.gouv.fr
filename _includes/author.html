@@ -8,10 +8,7 @@
         {% endif %}
     {% endfor %}
 {% endif %}
-{% for contract in description.contracts %}
-    {% assign last = contract %}
-{% endfor %}
-{% include validate-author.html author=description id=include.id %}
+{% include validate-author.html employer=description.employer start=description.start id=include.id %}
 
 {% capture avatar %}
     <img alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}/img{{ description.id }}.jpg{% endif %}" />

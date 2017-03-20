@@ -11,7 +11,7 @@ additional_css: dashboard
 </h1>
 
 <section id="dashboard">
-    {% include dashboard.html %}
+    {% include dashboard.html phases=site.phases %}
 </section>
 
 {% for phase in site.phases.incubation %}
@@ -33,7 +33,7 @@ additional_css: dashboard
 {% for phase in site.phases.endgame %}
     {% assign startups = site.startup | where:'status',phase[0] %}
     <section id="{{ phase[0] }}" class="ui three stackable doubling cards container">
-        <h2 class="ui divider horizontal">Nos Startups d'État {{ phase[1].name.plural }}</h2>
+        <h2 class="ui divider horizontal">Nos Startups d'État {{ phase[1].name }}</h2>
         <div>
             {% capture phase_description %}_phases/{{phase[0]}}.md{% endcapture %}
             {% capture phase_description %}{% include_relative {{phase_description}} %}{% endcapture %}

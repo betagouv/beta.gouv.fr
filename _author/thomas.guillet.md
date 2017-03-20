@@ -1,9 +1,7 @@
 ---
-fullname: Julien Dauphant
+fullname: Thomas Guillet
 role: Développeur
-start: 2016-11-03
+start: 2017-03-06
 end: 2017-07-20
 employer: independent/octo
 ---
-
-Chercheur de simplicité

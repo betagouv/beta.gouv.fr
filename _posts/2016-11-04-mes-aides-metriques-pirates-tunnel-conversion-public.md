@@ -6,6 +6,7 @@ authors: matti.schneider
 
 Métriques pirates et tunnel de conversion sont des notions habituelles du e-commerce. Les Startups d'État les utilisent dans l'action publique, au bénéfice de toutes et tous. Je vais vous montrer comment l'équipe Mes Aides utilise ces concepts pour maximiser son impact.
 
+<!--more-->
 
 ## Source des données
 
