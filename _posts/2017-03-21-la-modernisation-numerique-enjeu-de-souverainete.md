@@ -6,6 +6,7 @@ Les startups d'État ne sont pas seulement de petites équipes frugales et auton
 L’État plateforme, c’est l’actualisation en France d’une vision essentielle née dans les communautés numériques : le government as a platform.
 
 _Texte publié dans la note "Des Startup d'État à l'État plateforme", Pierre Pezziardi & Henri Verdier (Fondation pour l'innovation politique, Paris, 2017)_
+
 <!--more-->
 
 # L’Etat-plateforme : la plus grande plateforme de l’économie numérique ?
