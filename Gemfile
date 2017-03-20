@@ -55,4 +55,5 @@ end
 
 gem 'html-proofer', group: :test
 gem 'jsonlint', group: :test
+gem 'kwalify', group: :test
 gem 'opengraph_parser', group: :test

@@ -1,0 +1,26 @@
+#!/usr/bin/env ruby
+
+require 'kwalify'
+require 'yaml'
+require 'rake'
+
+schema = Kwalify::Yaml.load_file(ARGV[0])
+validator = Kwalify::Validator.new(schema)
+all_errors = {}
+
+Rake::FileList[ARGV[1]].each do |file|
+  document = Kwalify::Yaml.load_file(file)
+  errors = validator.validate(document)
+  if errors && !errors.empty?
+    all_errors[file] = errors
+  end
+end
+
+if !all_errors.empty?
+  for file, errors in all_errors
+    for e in errors
+      puts "Error in #{file}: [#{e.path}] #{e.message}"
+    end
+  end
+  exit 1
+end

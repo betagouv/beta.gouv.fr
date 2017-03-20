@@ -19,6 +19,7 @@ test:
   override:
     - bundle exec jekyll doctor  # test the configuration file
     - test -s _site/index.html  # test that something was actually compiled
+    - ruby rb/bin/validate rb/schema/author.yml "_author/*.md" # test YAML files against schema
     - ruby rb/bin/htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http  # test inner links
     - html5validator --root _site  # test HTML compliance
     - ruby rb/test/opengraph.rb  # test social cards
