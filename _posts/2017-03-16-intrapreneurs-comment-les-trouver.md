@@ -71,7 +71,7 @@ On ne va pas demander au futur intrapreneur d’être le roi du pitch à ce stad
 * Il est plus attaché à l’irritant lui-même qu’aux détails de sa solution.
 
 **Une personne à l’écoute mais tenace et convaincante :**
-* Il s’est déjà renseigné énormément sur ce problème. Il a déjà les réponses aux questions les plus basiques sur le sujet. Il a tenté des choses avec les outils à sa disposition, il a déjà bidouillé des débuts de solution DIY à base d’excel ou de bous de ficelle.
+* Il s’est déjà renseigné énormément sur ce problème. Il a déjà les réponses aux questions les plus basiques sur le sujet. Il a tenté des choses avec les outils à sa disposition, il a déjà bidouillé des débuts de solution DIY à base d’excel ou de bouts de ficelle.
 * Les retours donnés pendant la journée par des coachs ou d’autres intrapreneurs conduisent parfois à des changements de cap dans le pitch… ou au contraire à des positions ré affirmées
 * Les questions parfois acides du jury ne vont pas le désarçonner
 
