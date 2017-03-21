@@ -14,24 +14,18 @@ validator   = Kwalify::Validator.new(schema)
 list_path   = ARGV[1]
 list        = Rake::FileList[list_path]
 
-puts "Running #{schema_path} on #{list_path}"
+puts("Running #{schema_path} on #{list_path}...")
 
-errors = list.each_with_object({}) do |file_path, list_errors|
-  file                   = Kwalify::Yaml.load_file(file_path)
-  file_errors            = validator.validate(file)
-  list_errors[file_path] = file_errors if file_errors && !file_errors.empty?
+error_count = list.reduce(0) do |acc, file_path|
+  file   = Kwalify::Yaml.load_file(file_path)
+  errors = validator.validate(file)
+
+  next(acc) unless errors && !errors.empty?
+
+  errors.map { |e| puts("Error in #{file_path}: [#{e.path}] #{e.message}!") }
+  acc + errors.count
 end
 
-puts "Run on #{list.count} files...\n"
+puts("Run on #{list.count} file(s) and found #{error_count} error(s).")
 
-if errors.empty?
-  puts 'All good!'
-else
-  errors.each do |file_path, file_errors|
-    file_errors.each do |error|
-      puts "Error in #{file_path}: [#{error.path}] #{error.message}"
-    end
-  end
-
-  exit 1
-end
+error_count.zero? ? exit(0) : exit(1)
