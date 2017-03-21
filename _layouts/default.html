@@ -30,13 +30,6 @@
             {% include footer.html %}
         </footer>
 
-        <script>
-            Array.prototype.forEach.call(document.querySelectorAll('time'), function(time) {
-                var date = new Date(time.getAttribute('datetime'));
-                time.innerHTML = date.toLocaleString().replace(/(:00)? ?(UTC\+\d)?$/, '');
-            });
-        </script>
-
         {% include analytics.html %}
 
         <script type="text/javascript" src="/js/lib/modernizr-custom.min.js"></script>
