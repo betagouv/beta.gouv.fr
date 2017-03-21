@@ -68,7 +68,7 @@ On ne va pas demander au futur intrapreneur d’être le roi du pitch à ce stad
 **Sa solution est enthousiasmante :**
 * Le levier du numérique proposé par l’intrapreneur est une vraie rupture dans la pensée de ce problème.
 * L’intrapreneur définit bien les grands axes de la solution mais il est souple sur les détails. On peut le tester sur ce plan par des questions sur des pivots éventuelles et voir ce qu’il retient (l’essentiel ?) ou ce à quoi il s’accroche (des détails ?).
-* Il est plus attaché à l’irritant qu’à sa solution.
+* Il est plus attaché à l’irritant lui-même qu’aux détails de sa solution.
 
 **Une personne à l’écoute mais tenace et convaincante :**
 * Il s’est déjà renseigné énormément sur ce problème. Il a déjà les réponses aux questions les plus basiques sur le sujet. Il a tenté des choses avec les outils à sa disposition, il a déjà bidouillé des débuts de solution DIY à base d’excel ou de bous de ficelle.
