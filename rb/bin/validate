@@ -8,17 +8,26 @@ require 'kwalify'
 require 'yaml'
 require 'rake'
 
-schema = Kwalify::Yaml.load_file(ARGV[0])
-validator = Kwalify::Validator.new(schema)
-all_errors = {}
+schema_path    = ARGV[0]
+schema         = Kwalify::Yaml.load_file(schema_path)
+validator      = Kwalify::Validator.new(schema)
 
-Rake::FileList[ARGV[1]].each do |file|
+file_list_path = ARGV[1]
+file_list      = Rake::FileList[file_list_path]
+
+all_errors     = {}
+
+puts "Running #{schema_path} on #{file_list_path}"
+
+file_list.each do |file|
   document = Kwalify::Yaml.load_file(file)
   errors = validator.validate(document)
   if errors && !errors.empty?
     all_errors[file] = errors
   end
 end
+
+puts  "Run on #{file_list.count} files...\n"
 
 if !all_errors.empty?
   for file, errors in all_errors
@@ -27,4 +36,6 @@ if !all_errors.empty?
     end
   end
   exit 1
+else
+  puts  "All good!"
 end
