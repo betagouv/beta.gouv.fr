@@ -63,7 +63,7 @@ On ne va pas demander au futur intrapreneur d’être le roi du pitch à ce stad
 **Son histoire de l’irritant est convaincante :**
 * En tant que citoyen l’irritant fait du sens. Il s’agit d’un problème qui impacte directement l’usager du service public et pas d’une idée d’optimisation d’un processus interne de comptabilité ou de ressources humaines.
 * On sent qu’il a vécu concrètement cet irritant 1 000 fois sur le terrain. Il peut dès le lendemain tester des prototypes de sa solutions dans le monde réel (où, quand, comment).
-* On sent aussi que ce problème lui prend les tripes et que sa résolution lui donnera envie de se lever le matin avec énergie tout le temps de la startup.
+* On sent aussi que ce problème lui prend les tripes et que sa résolution lui donnera envie de se lever le matin avec énergie, tout le temps que durera la startup.
 
 **Sa solution est enthousiasmante :**
 * Le levier du numérique proposé par l’intrapreneur est une vraie rupture dans la pensée de ce problème.
