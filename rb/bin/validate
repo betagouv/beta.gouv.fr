@@ -8,34 +8,30 @@ require 'kwalify'
 require 'yaml'
 require 'rake'
 
-schema_path    = ARGV[0]
-schema         = Kwalify::Yaml.load_file(schema_path)
-validator      = Kwalify::Validator.new(schema)
+schema_path = ARGV[0]
+schema      = Kwalify::Yaml.load_file(schema_path)
+validator   = Kwalify::Validator.new(schema)
+list_path   = ARGV[1]
+list        = Rake::FileList[list_path]
 
-file_list_path = ARGV[1]
-file_list      = Rake::FileList[file_list_path]
+puts "Running #{schema_path} on #{list_path}"
 
-all_errors     = {}
-
-puts "Running #{schema_path} on #{file_list_path}"
-
-file_list.each do |file|
-  document = Kwalify::Yaml.load_file(file)
-  errors = validator.validate(document)
-  if errors && !errors.empty?
-    all_errors[file] = errors
-  end
+errors = list.each_with_object({}) do |file_path, list_errors|
+  file                   = Kwalify::Yaml.load_file(file_path)
+  file_errors            = validator.validate(file)
+  list_errors[file_path] = file_errors if file_errors && !file_errors.empty?
 end
 
-puts  "Run on #{file_list.count} files...\n"
+puts "Run on #{list.count} files...\n"
 
-if !all_errors.empty?
-  for file, errors in all_errors
-    for e in errors
-      puts "Error in #{file}: [#{e.path}] #{e.message}"
+if errors.empty?
+  puts 'All good!'
+else
+  errors.each do |file_path, file_errors|
+    file_errors.each do |error|
+      puts "Error in #{file_path}: [#{error.path}] #{error.message}"
     end
   end
+
   exit 1
-else
-  puts  "All good!"
 end
