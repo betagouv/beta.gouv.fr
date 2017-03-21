@@ -37,7 +37,7 @@ Non ce n’est pas une fatalité que nos agents de police passent 60% de leur te
 Ainsi des modalités plus organiques, fondées sur des collectifs à taille humaine, autonomes et responsables, sont la réelle possibilité de progrès qu’offre le numérique. Il était impossible d’en assurer la cohérence avant l’existence d’un moyen universel de partage de l’information. Or, il est désormais possible d’échanger à coût marginal données et services, garantissant une qualité uniforme du service plus que son uniformité.
 
 # La fragilité du modèle français
-Dans la révolution numérique, les Français ne sont pour l’instant champions de rien. « Champion », au sens de leader incontestable de son marché mondial. Les Américains ont diffusé leurs technologies du sol au plafond, les Allemands un système de gestion mondial aligné sur l’entreprise hiérarchique classique (SAP), et nous pas grand chose, à part des systèmes de niche assis sur des rentes réglementaires (comme les systèmes de paie, de gestion de marchés publics, de processus bancaires ..).
+Dans la révolution numérique, les Français ne sont pour l’instant champions de rien. « Champion », au sens de leader incontestable de son marché mondial. Les Américains ont diffusé leurs technologies du sol au plafond, les Allemands un système de gestion mondial aligné sur l’entreprise hiérarchique classique (SAP), et nous pas grand chose, à part des systèmes de niche assis sur des rentes réglementaires (comme les systèmes de paie, de gestion de marchés publics, de processus bancaires…).
 
 Plus de 500 000 personnes travaillent dans ce marché endogame et fragile. Or tous les Etats seront confrontés à ces questions de souveraineté et de débureaucratisation, et les Français désormais en mesure d’exporter un savoir-faire unique aligné sur des valeurs humanistes de confiance et de coopération.
 
@@ -50,4 +50,4 @@ Qui appellera-t-on lorsqu'il faudra bâtir un cadastre collaboratif en Afrique ?
 
 Qui parlera mieux de ville intelligente, les éditeurs privés Américains ou les spécialistes des ouvrages collaboratifs Français ?
 
-Derrière tout soft power, se dessinent aussi de fructueux rouages économiques. **Aux grands dirigeants de la fonction publique de saisir cette opportunité**, dans les administrations centrales, territoriales et hospitalières, comme l'on déjà fait les Pôle Emploi, ANAH, Ministères de l'Environnement ou de l'Éducation. Le chemin est désormais balisé, [contactez-nous](mailto:contact@beta.gouv.fr?subject=Contact Direction) !
+Derrière tout soft power, se dessinent aussi de fructueux rouages économiques. **Aux grands dirigeants de la fonction publique de saisir cette opportunité**, dans les administrations centrales, territoriales et hospitalières, comme l'ont déjà fait les Pôle Emploi, ANAH, Ministères de l'Environnement ou de l'Éducation. Le chemin est désormais balisé, [contactez-nous](mailto:contact@beta.gouv.fr?subject=Contact Direction) !
