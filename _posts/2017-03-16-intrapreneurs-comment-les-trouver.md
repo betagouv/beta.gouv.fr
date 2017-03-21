@@ -87,7 +87,7 @@ On a trouvé l’intrapreneur, la Startup d'État **va démarrer en moins d’un
 
 Le tout à marche forcée puisque l’intrapreneur a bien identifié un irritant qui ne peut pas attendre !
 
-Ce qui signifie bien sûr qu’on aura assuré avant même l’appel à projet que le gagnant sera libéré de ses obligations et que le budget est disponible pour recruter un ou quelques développeurs.
+Ce qui signifie bien sûr qu’on aura assuré **avant même l’appel à projet que le gagnant sera libéré de ses obligations** et que le **budget est disponible** pour recruter un ou quelques développeurs.
 
 ## Conclusion
 
