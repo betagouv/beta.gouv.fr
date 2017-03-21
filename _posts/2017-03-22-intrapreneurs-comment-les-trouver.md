@@ -5,7 +5,7 @@ authors: ismael.hery
 
 Cette série sur l’intrapreneur de Startup d’État nous a permis de mieux comprendre [ses responsabilités](/2017/02/16/intrapreneur-startup-d-etat.html), la méthode pour [le former](/2017/02/27/comment-former-des-intrapreneurs.html) et les [conditions nécessaires à son succès](/2017/03/06/intrapreneur-les-conditions-du-succes.html).
 
-Terminons cette série par le commencement, c’est-à-dire par les premières étapes concrètes qui permettent de trouver cet intrapreneur·euse !
+Terminons cette série par le commencement, c’est-à-dire par les premières étapes concrètes qui permettent de trouver cet intrapreneur·euse&#x202F;!
 
 <!--more-->
 
@@ -17,7 +17,7 @@ L’intrapreneur vient du terrain où il a pu observer le problème qu’il cher
 
 ## La sélection
 
-Voici la méthode qui a fait ses preuves pour trouver les intrapreneurs de Startup d’État : l’appel à idée puis la journée « pitch ».
+Voici la méthode qui a fait ses preuves pour trouver les intrapreneurs de Startup d’État : l’appel à idée puis la journée «&#x202F;pitch&#x202F;».
 
 Première étape : publier sur votre intranet ou votre newsletter interne préférée l’ouverture d’un **appel à intrapreneurs** avec lien vers un formulaire de soumission de candidature.
 
@@ -28,7 +28,7 @@ Cet appel à candidature pourra ressembler à ça :
 > Sans être nécessairement un.e expert.e en informatique, internet vous intéresse ?
 > Vous avez une idée de solution numérique pouvant remédier au problème identifié ?
 > Vous êtes prêt.e à vous investir six mois autour d’une équipe mobilisée pour réussir ?
-> Dans ce cas, déposez votre idée sur l’intranet à l’adresse http://monadministration.fr/appel-intrapreneur, vous serez peut-être sélectionné pour défendre votre projet devant un jury le xxx à 9h !
+> Dans ce cas, déposez votre idée sur l’intranet à l’adresse http://monadministration.fr/appel-intrapreneur, vous serez peut-être sélectionné pour défendre votre projet devant un jury le xxx à 9h&#x202F;!
 
 La page de dépot d’idée sur l'intranet propose un simple formulaire qui permet à l’agent de décrire son projet avec :
 * le nom du projet
@@ -36,9 +36,9 @@ La page de dépot d’idée sur l'intranet propose un simple formulaire qui perm
 * les grands axes de sa solution
 * une description du monde tel qu’il sera après la mise en place de la solution
 
-Deuxième étape : on ramasse les copies 1 mois plus tard, puis on **sélectionne et invite les 10 à 20 participants** les plus prometteurs pour une journée de « pitch ».
+Deuxième étape : on ramasse les copies 1 mois plus tard, puis on **sélectionne et invite les 10 à 20 participants** les plus prometteurs pour une journée de «&#x202F;pitch&#x202F;».
 
-Troisème étape : pendant 1 journée les candidats vont répéter plusieurs fois leur **pitch**, devant des coachs, des externes, ou des responsables de l’administration. Un dernier passage en grande pompe devant un jury permettra de nommer le ou les vainqueurs qui se verront nommés véritablement intrapreneur de Startup d'État !
+Troisème étape : pendant 1 journée les candidats vont répéter plusieurs fois leur **pitch**, devant des coachs, des externes, ou des responsables de l’administration. Un dernier passage en grande pompe devant un jury permettra de nommer le ou les vainqueurs qui se verront nommés véritablement intrapreneur de Startup d'État&#x202F;!
 
 ## Le jury
 
@@ -76,22 +76,22 @@ On ne va pas demander au futur intrapreneur d’être le roi du pitch à ce stad
 * Les questions parfois acides du jury ne vont pas le désarçonner.
 
 ### Et la faisabilité dans tout ça ?
-* Lors de cette journée pitch, le jury va lancer une Startup en se fiant à ses intuitions sur la possibilité de mettre en œuvre une solution qui fonctionne en moins de 6 mois : « oui, nous pensons qu’une petite équipe autonome, engagée et débrouillarde, a de bonnes chances de résoudre ce problème en moins de 6 mois ».
-* On s’oppose ici aux approches classiques qui consistent à « dérisquer » par des études profondes et des artefacts textuels et contractuels plutôt que logiciels ! Au lieu de couvrir des armoires entières d’études d’opportunité et de spécifications détaillées la Startup va montrer dans les faits que c’est possible… ou pas.
+* Lors de cette journée pitch, le jury va lancer une Startup en se fiant à ses intuitions sur la possibilité de mettre en œuvre une solution qui fonctionne en moins de 6 mois : «&#x202F;oui, nous pensons qu’une petite équipe autonome, engagée et débrouillarde, a de bonnes chances de résoudre ce problème en moins de 6 mois&#x202F;».
+* On s’oppose ici aux approches classiques qui consistent à «&#x202F;dérisquer&#x202F;» par des études profondes et des artefacts textuels et contractuels plutôt que logiciels&#x202F;! Au lieu de couvrir des armoires entières d’études d’opportunité et de spécifications détaillées la Startup va montrer dans les faits que c’est possible… ou pas.
 
-Dans les faits nos expériences montrent que les candidats à l’intraprenariat sans aucune expérience du pitch produisent des performances remarquables lors de cet exercice !
+Dans les faits nos expériences montrent que les candidats à l’intraprenariat sans aucune expérience du pitch produisent des performances remarquables lors de cet exercice&#x202F;!
 
 # Et ensuite ?
 
 On a trouvé l’intrapreneur, la Startup d'État **va démarrer en moins d’un mois**, le temps de le libérer de ses obligations actuelles et de trouver un ou quelques développeurs pour former l’équipe.
 
-Le tout à marche forcée puisque l’intrapreneur a bien identifié un irritant qui ne peut pas attendre !
+Le tout à marche forcée puisque l’intrapreneur a bien identifié un irritant qui ne peut pas attendre&#x202F;!
 
 Ce qui signifie bien sûr qu’on aura assuré **avant même l’appel à projet que le gagnant sera libéré de ses obligations** et que le **budget est disponible** pour recruter un ou quelques développeurs.
 
 ## Conclusion
 
-Les étapes pour trouver l’intrapreneur sont finalement assez légères : un email ou un flyer, un formulaire sur l'intranet et une journée de pitch !
+Les étapes pour trouver l’intrapreneur sont finalement assez légères : un email ou un flyer, un formulaire sur l'intranet et une journée de pitch&#x202F;!
 
 Le tout bien cadencé se fait en 2 mois, entre le lancement de l’appel à projet, et les premiers travaux concrets de la Startup. Autant dire un clignement d’œil en comparaison d’une démarche plus classique d’étude d’opportunité et de comitologie…
 
@@ -105,4 +105,4 @@ Mais en vérité vous l’aurez compris, les phases capitales qui se jouent  dis
 
 ## Au fait, intrapreneur de Startup d'État, ça vous tente ?
 
-Vous êtes agent·e du public et vous vous sentez l’âme d’un intrapreneur de Startup d'État. Vous êtes convaincu·e que ce problème qui vous tord le ventre depuis toujours pourrait être attaqué par le numérique et une petite équipe autonome ? Racontez-nous ça par mail à [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr?subject=Candidature%20intrapreneur) !
+Vous êtes agent·e du public et vous vous sentez l’âme d’un intrapreneur de Startup d'État. Vous êtes convaincu·e que ce problème qui vous tord le ventre depuis toujours pourrait être attaqué par le numérique et une petite équipe autonome ? Racontez-nous ça par mail à [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr?subject=Candidature%20intrapreneur)&#x202F;!
