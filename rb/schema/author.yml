@@ -1,20 +1,20 @@
 type:       map
 mapping:
- "fullname":
+  "fullname":
     type:      str
     required:  yes
- "role":
+  "role":
     type:      str
     required:  yes
- "start":
+  "start":
     type:      date
     required:  yes
- "end":
+  "end":
     type:      date
- "employer":
+  "employer":
     type:      str
     assert:    "['dinsic','service','independent','admin'].include?(val.split('/').first)"
- "link":
+  "link":
     type:      str
- "avatar":
+  "avatar":
     type:      str
