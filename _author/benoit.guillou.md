@@ -1,7 +1,8 @@
 ---
 fullname: Benoit Guillou
-role: Coach de Startups d'État
+role: Coach, Rails Dev
 start: 2017-04-01
 end: 2017-05-30
-employer: independent
+employer: independent/octo
 ---
+Je sais, un peu partout, tout le monde s'entretue, c'est pas gai, mais d'autres s'entrevivent, j'irai les retrouver
