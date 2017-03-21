@@ -13,13 +13,13 @@ Terminons cette série par le commencement, c’est-à-dire par les premières �
 
 ## D’où vient-il·elle ?
 
-L’intrapreneur vient du terrain où il a pu observer le problème qu’il cherche à résoudre sous toutes ses facettes. Il a 10 000 histoires d’usager à raconter parce qu’il rencontre ses usagers physiquement tous les jours depuis des années. Il ne sera pas issu de la DSI ou de la MOA, sinon ça s’appelle un projet informatique, pas une Startup d'État.
+L’intrapreneur vient du terrain où il a pu observer le problème qu’il cherche à résoudre sous toutes ses facettes. Il a 10 000 histoires d’usagers à raconter, parce qu’il rencontre ses usagers physiquement tous les jours depuis des années. Il ne sera pas issu de la DSI ou de la MOA, sinon ça s’appelle un projet informatique, pas une Startup d'État.
 
 ## La sélection
 
 Voici la méthode qui a fait ses preuves pour trouver les intrapreneurs de Startup d’État : l’appel à idée puis la journée « pitch ».
 
-Première étape : publier sur votre intranet ou votre newsletter interne préférée l’ouverture d’un **appel à intrapreneur** avec lien vers un formulaire de soumission de candidature.
+Première étape : publier sur votre intranet ou votre newsletter interne préférée l’ouverture d’un **appel à intrapreneurs** avec lien vers un formulaire de soumission de candidature.
 
 Cet appel à candidature pourra ressembler à ça :
 
