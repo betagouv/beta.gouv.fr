@@ -6,7 +6,7 @@ machine:
 
 dependencies:
   post:
-    - npm install -g eclint
+    - npm install -g eclint@1.1.5
     - pip install --user html5validator
     - bundle exec jekyll --version # print it out
 
