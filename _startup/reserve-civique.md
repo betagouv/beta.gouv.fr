@@ -1,3 +1,13 @@
+---
+title: Réserve civique
+mission: Donner de son temps pour l'intérêt général
+link: https://reserve-civique.beta.gouv.fr
+status: construction
+contact: contact@reserve-civique.beta.gouv.fr
+start: 2017-03-23
+owner: Haut Commissariat à l'engagement civique
+---
+
 Et si chacun d'entre nous pouvez donner de son temps pour l'intérêt général, simplement ? 
 Se rendre utile, occasionnellement et prêt de chez soi, tranquillement ?
 
