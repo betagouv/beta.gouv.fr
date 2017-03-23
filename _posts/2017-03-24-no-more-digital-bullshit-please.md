@@ -11,6 +11,7 @@ Plus de 10 000 visites sur mon site ! Plus de 120 personnes réunies à mon hack
 « _Plus un indicateur quantitatif est utilisé pour prendre des décisions, plus il va être manipulé et plus son usage va aboutir à corrompre le processus qu’il était censé améliorer._ » (loi de Campbell, 1976). Il est en effet clair que si une administration se voyait responsable de publier un « taux de satisfaction » ou un « coût par transaction », ces mesures deviendraient un objectif de facto, que ce soit vis-à-vis du gouvernement ou de la société civile. Ainsi, il faut être extrêmement attentif à ce que les mesures soient celles d’un impact réel et non des mesures d’efficience interne, aux effets délétères assurés. 
 
 Certaines mesures d’impact (Key Performance Indicators, KPI) semblent pourtant capturables assez facilement :
+
 * Une [course sur le.taxi](https://api.taxi/stats), génère en moyenne 15€ de valeur ajoutée,
 * Une [pièce justificative non-demandée](https://api.gouv.fr/api/api-entreprise.html), c'est bien
 * Le temps moyen de dénouement d’un dossier MDPH en ligne par rapport au temps moyen de dénouement sans
