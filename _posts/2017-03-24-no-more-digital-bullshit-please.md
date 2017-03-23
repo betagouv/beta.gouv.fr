@@ -2,7 +2,7 @@
 title: No more Digital bullshit please
 authors: pierre.pezziardi
 ---
-Plus de 10 000 visites sur mon site ! Plus de 120 personnes réunies à mon hackathon ! Plus de 53 000 post-its collés depuis l'oouverture de notre incubateur interne ! Mais qu'en est-il des usagers ? Qu'est-ce qui va mieux pour eux après le passage de l'Innovation ?
+Plus de 10 000 visites sur mon site ! Plus de 120 personnes réunies à mon hackathon ! Plus de 53 000 post-its collés depuis l'ouverture de notre incubateur interne ! Mais qu'en est-il des usagers ? Qu'est-ce qui va mieux pour eux après le passage de l'Innovation ?
 .... Et si l'on arrêtait de mesurer nos _moyens_, mais plutôt nos _résultats_ ?
 
 ## Pourquoi mesurer un impact ?
