@@ -11,6 +11,9 @@ insert_final_newline = true
 max_line_length = 9999
 trim_trailing_whitespace = true
 
+[_posts/*]
+trim_trailing_whitespace = false
+
 [{*.yml,Gemfile,Gemfile.lock}]
 indent_size = 2
 indent_style = space
