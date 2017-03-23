@@ -2,7 +2,7 @@
 fullname: Axel Haustant
 role: Développeur
 start: 2013-08-27
-end: 2014-01-01
+end: 2017-06-30
 employer: dinsic
 ---
 
