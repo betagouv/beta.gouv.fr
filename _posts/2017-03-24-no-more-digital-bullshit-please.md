@@ -5,6 +5,8 @@ authors: pierre.pezziardi
 Plus de 10 000 visites sur mon site ! Plus de 120 personnes réunies à mon hackathon ! Plus de 53 000 post-its collés depuis l'ouverture de notre incubateur interne ! Mais qu'en est-il des usagers ? Qu'est-ce qui va mieux pour eux après le passage de l'Innovation ?
 .... Et si l'on arrêtait de mesurer nos _moyens_, mais plutôt nos _résultats_ ?
 
+<!--more-->
+
 ## Pourquoi mesurer un impact ?
 « _Plus un indicateur quantitatif est utilisé pour prendre des décisions, plus il va être manipulé et plus son usage va aboutir à corrompre le processus qu’il était censé améliorer._ » (loi de Campbell, 1976). Il est en effet clair que si une administration se voyait responsable de publier un « taux de satisfaction » ou un « coût par transaction », ces mesures deviendraient un objectif de facto, que ce soit vis-à-vis du gouvernement ou de la société civile. Ainsi, il faut être extrêmement attentif à ce que les mesures soient celles d’un impact réel et non des mesures d’efficience interne, aux effets délétères assurés. 
 
