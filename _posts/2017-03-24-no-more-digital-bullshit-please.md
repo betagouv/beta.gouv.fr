@@ -39,13 +39,15 @@ Pour autant, cette mesure indirecte, n’est que la meilleure manière de mesure
 Pour construire une mesure d’impact nous distinguons deux temps, le temps court et le temps long.
 
 **A court terme :**
-* Pendant la rédaction de la fiche produit : répondre collectivement à la question « Qu’est-ce que l’on cherche à améliorer ? Qu'est-ce qui ira mieux lorsque l'on sera en production ? Pour qui ? Si on pouvait trouver une mesure simple de cet impact ce serait quoi ? ». Ne pas se poser la question de _comment_ on la mesure. Afficher une ambition et l'insérer dans la fiche produit.
+* Pendant la rédaction de la fiche produit : répondre collectivement à la question «&#x202F;Qu’est-ce que l’on cherche à améliorer ? Qu'est-ce qui ira mieux lorsque l'on sera en production ? Pour qui ? Si l'on pouvait trouver une mesure simple de cet impact quelle serait-elle&#x202F;?&#x202F;». Ne pas se poser la question de _comment_ on la mesure. Afficher une ambition et l'insérer dans la fiche produit.
 * Avec le produit beta : sonder, échantillonner, et extrapoler. Fastidieux mais efficace : avec le téléphone ou l’email de ses usagers, on peut en appeler plusieurs centaines pour savoir ce qui s’est passé pour eux ensuite. En multipliant par le nombre total on obtient une idée des vrais résultats !
 * Faire des sondages en ligne (ou IRL) avant et après
-* Inciter les usagers à revenir quand ils ont «&#x202F;gagné&#x202F;». Il faut alors prévoir un bénéfice pour eux ... Exemple : dans Boomerang, si l'on décroche un job, le conseiller est averti.
-* Suivre les métriques d'audience, même si elles sont d'ordre 2 la plupart du temps.
+* Inciter les usagers à revenir quand ils ont «&#x202F;gagné&#x202F;». Il faut alors prévoir un bénéfice pour eux ... Exemple : dans Memo, le service de suivi de candidature, si l'on décroche un job, le conseiller est averti.
+* Suivre les métriques d'audience, même si elles sont d'ordre 2 la plupart du temps, pour pouvoir extrapoler l'impact.
 * Afficher en permanence ces métriques sur une page mastartup/stats
 
 **A long terme :**
 * Construire une cohorte que l’on suit dans le temps en s’y prenant très en amont. Pour cela mesurer la différence “avec” et “sans” sur 2 groupes les plus similaires possibles (entre 100 et 100 000 personnes suivant l’importance de la précision). Un service statistique dans l'administration est souvent nécessaire.
-* Discuter régulièrement devant la page mastartup/stats : qu'a-t-on fait récemment pour augmenter l'impact ? pourquoi ça monte là ? y-a-t-il des poches d'impact (géographiques, organisationnelles, clientèles  ..) que nous adressons mal ? ...
+* Discuter régulièrement devant la page mastartup/stats : qu'a-t-on fait récemment pour augmenter l'impact&#x202F;? pourquoi ça monte là&#x202F;? y-a-t-il des poches d'impact (des géographies, des organisations, des clientèles  ..) que nous adressons mal&#x202F;? nous avons résolu un premier problème, mais le goulet ne s'est-il pas déplacé désormais&#x202F;? ...
+
+Remerciements à Ismaël Hery et Matti Schneider pour leurs précieuses contributions.
