@@ -26,7 +26,6 @@ additional_css: blog
                             {{ avatar }}
                             <div class="content">
                                 <div class="header">{{ description.fullname }}</div>
-                                <div class="description">{{ post.date | date: "%d/%m/%Y" }}</div>
                             </div>
                         </div>
                     </div>
@@ -34,6 +33,8 @@ additional_css: blog
             {% endif %}
 
             <a class="blog-title-link" href="{{ post.url }}">{{ post.title }}</a>
+
+            <div class="blog-parution-date">Paru le {{ post.date | date: "%d/%m/%Y" }}</div>
 
             {% capture mastheadImagePath %}/img/{{ post.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}.jpg{% endcapture %}
             <div class="thumbnail">
