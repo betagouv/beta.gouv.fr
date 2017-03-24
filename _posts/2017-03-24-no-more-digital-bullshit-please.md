@@ -10,7 +10,7 @@ Plus de 10 000 visites sur mon site ! Plus de 120 personnes réunies à mon hack
 <!--more-->
 
 ## Pourquoi mesurer un impact ?
-« _Plus un indicateur quantitatif est utilisé pour prendre des décisions, plus il va être manipulé et plus son usage va aboutir à corrompre le processus qu’il était censé améliorer._ » (loi de Campbell, 1976). Il est en effet clair que si une administration se voyait responsable de publier un « taux de satisfaction » ou un « coût par transaction », ces mesures deviendraient un objectif de facto, que ce soit vis-à-vis du gouvernement ou de la société civile. Ainsi, il faut être extrêmement attentif à ce que les mesures soient celles d’un impact réel et non des mesures d’efficience interne, aux effets délétères assurés. 
+«&#x202F; _Plus un indicateur quantitatif est utilisé pour prendre des décisions, plus il va être manipulé et plus son usage va aboutir à corrompre le processus qu’il était censé améliorer._ &#x202F;» (loi de Campbell, 1976). Il est en effet clair que si une administration se voyait responsable de publier un «&#x202F;taux de satisfaction&#x202F;» ou un «&#x202F;coût par transaction&#x202F;», ces mesures deviendraient un objectif de facto, que ce soit vis-à-vis du gouvernement ou de la société civile. Ainsi, il faut être extrêmement attentif à ce que les mesures soient celles d’un impact réel et non des mesures d’efficience interne, aux effets délétères assurés. 
 
 Certaines mesures d’impact (Key Performance Indicators, KPI) semblent pourtant capturables assez facilement :
 
@@ -22,9 +22,9 @@ Certaines mesures d’impact (Key Performance Indicators, KPI) semblent pourtant
 
 Malheureusement, l’impact réel est souvent difficile à mesurer. La difficulté principale dans la construction de la métrique pour la plupart des produits vient du fait que le parcours utilisateur se finit hors du produit et qu’on ne peut donc pas savoir si l’objectif est atteint au-delà des clics : l’usager a-t-il obtenu le RSA après une simulation sur Mes Aides ? A-t-il suivi la formation trouvée sur La Bonne Formation ? Cette formation a-t-elle accéléré son retour à l’emploi par rapport au délai moyen ?
 
-Le **risque est ainsi de mesurer ce que l’on peut mesurer plutôt que ce qu’il faudrait mesurer**. Notre approche est de nous accorder sur une métrique stratégique non mesurable dans l’immédiat, et nous satisfaire d’une métrique qualitative ou indirecte (dite « proxy »), mesurable dans l’immédiat. Il ne faut pas chercher à tout prix la justesse. L’objectif de la métrique est d’indiquer l’effet attendu, de rendre des comptes, d’orienter des décisions budgétaires, d’obtenir du soutien politique. Le bon niveau de justesse est celui qui remplit ces objectifs, ni plus ni moins. 
+Le **risque est ainsi de mesurer ce que l’on peut mesurer plutôt que ce qu’il faudrait mesurer**. Notre approche est de nous accorder sur une métrique stratégique non mesurable dans l’immédiat, et nous satisfaire d’une métrique qualitative ou indirecte (dite «&#x202F;proxy&#x202F;»), mesurable dans l’immédiat. Il ne faut pas chercher à tout prix la justesse. L’objectif de la métrique est d’indiquer l’effet attendu, de rendre des comptes, d’orienter des décisions budgétaires, d’obtenir du soutien politique. Le bon niveau de justesse est celui qui remplit ces objectifs, ni plus ni moins. 
 
-À beta.gouv.fr, le processus de définition des KPI est surtout **une maïeutique permettant de nous questionner sur les investissements dans nos produits**. « Sommes-nous collectivement d’accord que notre but principal est ?… Si oui, alors notre succès pourrait se mesurer par… », « Si je fais ça, quel chance ai-je d’augmenter notre impact, mesuré dans telle KPI ? »
+À beta.gouv.fr, le processus de définition des KPI est surtout **une maïeutique permettant de nous questionner sur les investissements dans nos produits**. «&#x202F;Sommes-nous collectivement d’accord que notre but principal est ?… Si oui, alors notre succès pourrait se mesurer par…&#x202F;», «&#x202F;Si je fais ça, quel chance ai-je d’augmenter notre impact, mesuré dans telle KPI&#x202F;?&#x202F;»
 
 ## Mesurer quand même
 Quand le KPI n'est pas disponible facilement, il existe une méthode simple et frugale d’évaluer l’utilité perçue d’un service : le [Net Promoter Score](https://en.wikipedia.org/wiki/Net_Promoter). Demander à ses usagers s’ils recommanderaient votre service sur une échelle de 1 à 10, pour subjectif que cela puisse paraître, est une mesure très utile, simple à capturer, et, associée à un commentaire libre, qui peut aider à adresser les problèmes que rencontrent les usagers. Cette méthode peut aisément être intégrée dans tout produit Web, avec des solutions freemium comme [Hotjar](https://www.hotjar.com/).
@@ -40,14 +40,14 @@ Pour autant, cette mesure indirecte, n’est que la meilleure manière de mesure
 ## Notre boite à outils
 Pour construire une mesure d’impact nous distinguons deux temps, le temps court et le temps long.
 
-A court terme : 
+**A court terme :**
 * Pendant la rédaction de la fiche produit : répondre collectivement à la question « Qu’est-ce que l’on cherche à améliorer ? Qu'est-ce qui ira mieux lorsque l'on sera en production ? Pour qui ? Si on pouvait trouver une mesure simple de cet impact ce serait quoi ? ». Ne pas se poser la question de _comment_ on la mesure. Afficher une ambition et l'insérer dans la fiche produit.
 * Avec le produit beta : sonder, échantillonner, et extrapoler. Fastidieux mais efficace : avec le téléphone ou l’email de ses usagers, on peut en appeler plusieurs centaines pour savoir ce qui s’est passé pour eux ensuite. En multipliant par le nombre total on obtient une idée des vrais résultats !
 * Faire des sondages en ligne (ou IRL) avant et après
-* Inciter les usagers à revenir quand ils ont « gagné ». Il faut alors prévoir un bénéfice pour eux ... Exemple : dans Boomerang, si l'on décroche un job, le conseiller est averti.
+* Inciter les usagers à revenir quand ils ont «&#x202F;gagné&#x202F;». Il faut alors prévoir un bénéfice pour eux ... Exemple : dans Boomerang, si l'on décroche un job, le conseiller est averti.
 * Suivre les métriques d'audience, même si elles sont d'ordre 2 la plupart du temps.
 * Afficher en permanence ces métriques sur une page mastartup/stats
 
-A long terme :
+**A long terme :**
 * Construire une cohorte que l’on suit dans le temps en s’y prenant très en amont. Pour cela mesurer la différence “avec” et “sans” sur 2 groupes les plus similaires possibles (entre 100 et 100 000 personnes suivant l’importance de la précision). Un service statistique dans l'administration est souvent nécessaire.
 * Discuter régulièrement devant la page mastartup/stats : qu'a-t-on fait récemment pour augmenter l'impact ? pourquoi ça monte là ? y-a-t-il des poches d'impact (géographiques, organisationnelles, clientèles  ..) que nous adressons mal ? ...
