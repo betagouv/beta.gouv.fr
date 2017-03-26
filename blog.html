@@ -42,7 +42,9 @@ additional_css: blog
             </div>
 
             {% if post.category == 'evenement' %}
-                Retrouvez-nous le <time datetime="{{ post.start }}"></time> ({{ post.location }}).
+                <div class="vevent">
+                    Retrouvez-nous le <time datetime="{{ post.start }}">{{ post.start | date: "%m/%d/%Y à %R" }}</time> ({{ post.location }}).
+                </div>
             {% endif %}
 
             <div>
