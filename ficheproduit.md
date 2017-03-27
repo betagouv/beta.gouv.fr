@@ -5,7 +5,7 @@ layout: text
 
 ## Rédiger une fiche produit
 
-Une Startup d'État a pour objectif de produire un service numérique qui résoud un irritant vécu par les usagers ou les agents. Sa stratégie de passage à l'échelle repose sur une adoption virale par ses usagers et ses partenaires.
+Une Startup d'État a pour objectif de produire un service numérique qui résout un irritant vécu par les usagers ou les agents. Sa stratégie de passage à l'échelle repose sur une adoption virale par ses usagers et ses partenaires.
 
 Pour valider la pertinence de votre idée, vous devriez être en mesure de rédiger, sur un format A4 recto, une note en 3 parties :
 
