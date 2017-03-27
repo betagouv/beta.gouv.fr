@@ -2,7 +2,7 @@
 title: Mes démarches retraite pas à pas
 mission: Obtenir en quelques clics la liste personnalisée de ses démarches de retraite
 repository: https://github.com/sgmap/retraite
-status: reprise
+status: success
 contact: cisse.traore@cnav.fr
 start: 2015-10-01
 owner: CNAV, MSA, RSI
