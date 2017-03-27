@@ -3,8 +3,8 @@ title: MDPH en ligne
 mission: Déposer un dossier de demande d’aides en ligne pour une situation de handicap
 link: https://mdph.beta.gouv.fr
 repository: https://github.com/sgmap/impact
-status: construction
-contact: fanny.brulebois@modernisation.gouv.fr
+status: passation
+contact: contact@mdph.beta.gouv.fr
 start: 2014-12-01
 owner: Caisse de solidarité pour l'autononomie (CNSA)
 ---
