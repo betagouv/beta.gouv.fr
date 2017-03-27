@@ -6,7 +6,6 @@ machine:
 
 dependencies:
   post:
-    - npm install -g eclint@1.1.5
     - pip install --user html5validator
     - bundle exec jekyll --version # print it out
 
@@ -24,5 +23,3 @@ test:
     - ./checks/html5-standard-compliance
     - ./checks/social-network-optimizations
     - ./checks/json-syntax
-  post:
-    - ./checks/whitespace-rules
