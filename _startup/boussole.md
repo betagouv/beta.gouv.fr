@@ -3,7 +3,7 @@ title: Boussole des droits
 mission: Accéder aux conseils d'un·e professionnel·le à proximité pour trouver un logement, une formation ou un emploi
 link: https://boussole.beta.gouv.fr
 repository: https://github.com/sgmap/boussole/
-status: construction
+status: passation
 contact: contact@boussole.beta.gouv.fr
 start: 2015-12-01
 owner: Direction de la jeunesse
