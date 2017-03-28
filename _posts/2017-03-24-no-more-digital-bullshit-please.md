@@ -1,5 +1,5 @@
 ---
-title: No more Digital bullshit please
+title: No more digital bullshit please
 authors:
     - pierre.pezziardi
     - ismael.hery
