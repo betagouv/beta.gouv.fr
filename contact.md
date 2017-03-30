@@ -18,7 +18,7 @@ Nos [pratiques](https://github.com/sgmap/beta.gouv.fr/wiki), inspirées des mouv
 
 Vous vous reconnaissez dans le profil d'un **agent public indigné par une situation irritante pour les usagers** ? Vous avez une idée précise d'une solution qui pourrait faire levier sur du numérique ? Vous êtes prêts à vous investir pour la mettre en œuvre ?
 
-**Rédigez une [fiche produit](/ficheproduit) et [adressez-la nous](mailto:recrutement@beta.gouv.fr?subject=Fiche%20produit) !**
+**Rédigez une [fiche produit](/ficheproduit) et :envelope: [adressez-la nous](mailto:recrutement@beta.gouv.fr?subject=Fiche%20produit) !**
 
 ### Développeuses et développeurs
 
@@ -34,7 +34,7 @@ Vous êtes **responsable d'administration centrale ou territoriale** et souhaite
 
 Nous pouvons vous aider à organiser cet évènement interne, sélectionner les innovateurs à haut potentiel, et les accompagner dans leur réussite. Votre direction n'assumera que la charge de développement, toujours inférieure à 200 000 € (2 <abbr title="Équivalent Temps Plein">ETP</abbr> informaticiens senior) pour une première livraison en six mois.
 
-**[Écrivez-nous](mailto:recrutement@beta.gouv.fr?subject=Responsable%20administratif) !**
+**:envelope: [Écrivez-nous](mailto:recrutement@beta.gouv.fr?subject=Responsable%20administratif) !**
 
 Vous voulez agir dès demain matin ? Diffusez dans votre entourage les Startups d'État les plus pertinentes dans votre contexte, notamment territorial :
 
@@ -51,4 +51,4 @@ Vous avez une idée de startup et vous pensez que l'État devrait la financer ou
 
 ## Autres
 
-Votre sujet ne correspond à aucun des cas ci-dessus ? [Écrivez-nous](mailto:contact@beta.gouv.fr?subject=Autre%20sujet) un mail _concis_  ;)
+Votre sujet ne correspond à aucun des cas ci-dessus ? :envelope: [Écrivez-nous](mailto:contact@beta.gouv.fr?subject=Autre%20sujet) un mail _concis_  ;)
