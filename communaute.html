@@ -18,7 +18,7 @@ hire_card:
     start: site.time
 ---
 {% capture build_date %}{{ site.time | date:"%Y-%m-%d" }}{% endcapture %}
-{% assign members = site.author | sort: 'start' | reverse %}
+{% assign members = site.authors | sort: 'start' | reverse %}
 
 
 {% capture current_members_cards %} {% comment %} Capture in order to get the count right before outputting the cards {% endcomment %}
@@ -69,7 +69,7 @@ hire_card:
         service: []
     };
 
-    {% for person in site.author %}
+    {% for person in site.authors %}
         var employerType = '{{ person.employer }}'.split('/')[0];
 
         {% if person.start %}

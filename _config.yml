@@ -19,7 +19,7 @@ gems:
 collections:
   startup:
     output: true
-  author:
+  authors:
     output: true
 
 defaults:

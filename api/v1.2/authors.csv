@@ -2,5 +2,5 @@
 layout: null
 ---
 id;fullname;start;end;employer
-{% for author in site.author %}{{ author.id | replace:'/author/','' }},{{ author.fullname }},{{ author.contracts.last.start }},{{ author.contracts.last.end }},{{ author.contracts.last.employer }}
+{% for author in site.authors %}{{ author.id | replace:'/authors/','' }},{{ author.fullname }},{{ author.contracts.last.start }},{{ author.contracts.last.end }},{{ author.contracts.last.employer }}
 {% endfor %}
