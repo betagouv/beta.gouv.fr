@@ -1,6 +1,7 @@
 ---
 title: Vague de recrutements
-authors: pierre.pezziardi
+authors:
+ -  pierre.pezziardi
 category: recrutement
 ---
 
