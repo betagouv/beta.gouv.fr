@@ -368,6 +368,13 @@ h1.site-description {
     background-color: #CCC;
     box-shadow: inset 0em 0em 1em #666;
     background-blend-mode: darken;
+    position: relative;
+}
+
+#masthead .subtitle {
+    position: absolute;
+    bottom: 1em;
+    left: 5em;
 }
 
 #masthead h1 {
@@ -391,6 +398,9 @@ h1.site-description {
         font-size: 120%;
         padding: 14em;
     }
+    #masthead .subtitle {
+        left: 14em;
+    }
 }
 
 @media (max-width: 50em) {
@@ -402,6 +412,10 @@ h1.site-description {
 
     #masthead {
         padding: 2em;
+    }
+
+    #masthead .subtitle {
+        left: 2em;
     }
 
     .large.screen.only {
@@ -416,6 +430,11 @@ h1.site-description {
 
     #masthead h1 {
         font-size: 200%;
+        text-align: center;
+    }
+
+    #masthead .subtitle {
+        position: relative;
         text-align: center;
     }
 
