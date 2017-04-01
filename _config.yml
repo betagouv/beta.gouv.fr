@@ -15,6 +15,7 @@ twitter_id: 715451644683673601  # more stable than the username
 # Plugins
 gems:
   - jekyll-redirect-from
+  - jemoji
 
 collections:
   startup:
