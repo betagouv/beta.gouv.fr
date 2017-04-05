@@ -6,6 +6,8 @@
     <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 
+    {% feed_meta %}
+
     {% capture description %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
     <meta name="description" content="{{ description }}">
     <meta property="og:description" content="{{ description }}">

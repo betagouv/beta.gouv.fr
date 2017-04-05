@@ -14,8 +14,8 @@ additional_css: blog
 
             {% if post.authors %}
                 {% for author in post.authors %}
-                    {% capture id %}/author/{{ author }}{% endcapture %}
-                    {% assign description = site.author | where:"id", id  | first %}
+                    {% capture id %}/authors/{{ author }}{% endcapture %}
+                    {% assign description = site.authors | where:"id", id  | first %}
 
                     {% capture avatar %}
                         <img class="ui avatar image" alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}/img{{ description.id }}.jpg{% endif %}" />

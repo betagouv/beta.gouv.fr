@@ -1,8 +1,8 @@
 {% if include.description %}
     {% assign description = include.description %}
 {% else %}
-    {% capture id %}/author/{{ include.id }}{% endcapture %}
-    {% for author in site.author %}
+    {% capture id %}/authors/{{ include.id }}{% endcapture %}
+    {% for author in site.authors %}
         {% if author.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
             {% assign description = author %}
         {% endif %}
@@ -20,7 +20,7 @@
 <div class="ui card author">
 {% endif %}
     {% if include.size != 'small' %}
-    <div id="{{ description.id | replace:'/author/','' }}" class="image">{{ avatar }}</div>
+    <div id="{{ description.id | replace:'/authors/','' }}" class="image">{{ avatar }}</div>
     {% endif %}
     <div class="content">
         {% if include.size == 'small' %}

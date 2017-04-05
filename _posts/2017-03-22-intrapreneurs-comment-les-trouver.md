@@ -1,6 +1,7 @@
 ---
 title: "Intrapreneurs de Startups d'État, comment les trouver ?"
-authors: ismael.hery
+authors:
+ - ismael.hery
 ---
 
 Cette série sur l’intrapreneur de Startup d’État nous a permis de mieux comprendre [ses responsabilités](/2017/02/16/intrapreneur-startup-d-etat.html), la méthode pour [le former](/2017/02/27/comment-former-des-intrapreneurs.html) et les [conditions nécessaires à son succès](/2017/03/06/intrapreneur-les-conditions-du-succes.html).

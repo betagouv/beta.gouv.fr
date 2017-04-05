@@ -2,9 +2,9 @@
 layout: null
 ---
 [
-    {% for author in site.author %}
+    {% for author in site.authors %}
         {
-            "id": "{{ author.id | replace:'/author/','' }}",
+            "id": "{{ author.id | replace:'/authors/','' }}",
             "fullname": "{{ author.fullname }}",
             "start": "{{ author.start }}",
             "end": "{{ author.end }}"
