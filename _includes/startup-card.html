@@ -1,46 +1,46 @@
 {% if include.description %}
-	{% assign description = include.description %}
+    {% assign description = include.description %}
 {% else %}
-	{% capture id %}/startup/{{ include.id }}{% endcapture %}
-	{% for startup in site.startup %}
-		{% if startup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
-			{% assign description = startup %}
-		{% endif %}
-	{% endfor %}
+    {% capture id %}/startup/{{ include.id }}{% endcapture %}
+    {% for startup in site.startup %}
+        {% if startup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
+            {% assign description = startup %}
+        {% endif %}
+    {% endfor %}
 {% endif %}
 
 
 <a class="ui fluid {{ description.status }} card" href="{{ description.url }}">
-	<div class="image">
-		{% include screenshot.html startup=description %}
-	</div>
-	<div class="content">
-		<img class="right floated mini ui image" src="{{ description.logo }}" alt="{{ description.title }}"/>
+    <div class="image">
+        {% include screenshot.html startup=description %}
+    </div>
+    <div class="content">
+        <img class="right floated mini ui image" src="{{ description.logo }}" alt="{{ description.title }}" title="{{ description.title }}"/>
 
-		<div class="header">{{ description.title }}</div>
-		<div class="meta">
-			{% include owner.html owner=description.owner %}
-		</div>
+        <div class="header">{{ description.title }}</div>
+        <div class="meta">
+            {% include owner.html owner=description.owner %}
+        </div>
 
-		<div class="description">
-			{{ description.mission }}
-		</div>
-	</div>
-	<div class="extra content">
-		<div class="left floated">
-			{% if description.link %}
-				{{ description.link | remove: 'https://' | remove: 'http://' }}
-			{% else %}
-				<em>Pas encore de site public</em>
-			{% endif %}
-		</div>
+        <div class="description">
+            {{ description.mission }}
+        </div>
+    </div>
+    <div class="extra content">
+        <div class="left floated">
+            {% if description.link %}
+                {{ description.link | remove: 'https://' | remove: 'http://' }}
+            {% else %}
+                <em>Pas encore de site public</em>
+            {% endif %}
+        </div>
 
-		<div class="right floated">
-			{%if description.repository %}
-				Code source ouvert
-			{% else %}
-				<em>Code pas encore ouvert</em>
-			{% endif %}
-		</div>
-	</div>
+        <div class="right floated">
+            {%if description.repository %}
+                Code source ouvert
+            {% else %}
+                <em>Code pas encore ouvert</em>
+            {% endif %}
+        </div>
+    </div>
 </a>

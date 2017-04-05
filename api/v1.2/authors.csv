@@ -1,0 +1,6 @@
+---
+layout: null
+---
+id;fullname;start;end;employer
+{% for author in site.authors %}{{ author.id | replace:'/authors/','' }},{{ author.fullname }},{{ author.contracts.last.start }},{{ author.contracts.last.end }},{{ author.contracts.last.employer }}
+{% endfor %}

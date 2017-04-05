@@ -1,52 +1,45 @@
 <!DOCTYPE html>
 <html class="no-js" lang="fr">
-	{% include head.html %}
+    {% include head.html %}
 
-	<body>
-		<header>
-			<nav class="ui secondary menu">
-				<div class="right menu">
-					{% if page.url != "/" %}
-						<a class="item" id="logo" href="/">beta.gouv.fr</a>
-					{% endif %}
+    <body>
+        <header>
+            <nav class="ui secondary menu">
+                <div class="right menu">
+                    {% if page.url != "/" and page.url != "/en/" %}
+                        <a class="item" id="logo" href="/">beta.gouv.fr</a>
+                    {% endif %}
 
-					{% assign menu_items = site.pages | where_exp: 'page', 'page.menu_index > 0' | sort: 'menu_index' %}
-					{% for menu_item in menu_items %}
-						<a class="item large screen only
-							{% if page.url == menu_item.url %} active{%endif%}"
-							href="{{ menu_item.url }}">
-							{{ menu_item.title }}
-						</a>
-					{% endfor %}
-				</div>
-			</nav>
-		</header>
+                    {% assign menu_items = site.pages | where_exp: 'page', 'page.menu_index > 0' | sort: 'menu_index' %}
+                    {% for menu_item in menu_items %}
+                        <a class="item large screen only
+                            {% if page.url == menu_item.url %} active{%endif%}"
+                            href="{{ menu_item.url }}">
+                            {{ menu_item.title }}
+                        </a>
+                    {% endfor %}
+                </div>
+            </nav>
+        </header>
 
-		<main>
-			{{ content }}
-		</main>
+        <main>
+            {{ content }}
+        </main>
 
-		<footer>
-			{% include footer.html %}
-		</footer>
+        <footer>
+            {% include footer.html %}
+        </footer>
 
-		<script>
-			Array.prototype.forEach.call(document.querySelectorAll('time'), function(time) {
-				var date = new Date(time.getAttribute('datetime'));
-				time.innerHTML = date.toLocaleString().replace(/(:00)? ?(UTC\+\d)?$/, '');
-			});
-		</script>
+        {% include analytics.html %}
 
-		{% include analytics.html %}
+        <script type="text/javascript" src="/js/lib/modernizr-custom.min.js"></script>
+        <script type="text/javascript" src="/js/cross-browser.js"></script>
 
-		<script type="text/javascript" src="/js/lib/modernizr-custom.min.js"></script>
-		<script type="text/javascript" src="/js/cross-browser.js"></script>
+        <script type="text/javascript" src="https://oss.maxcdn.com/jquery/2.2.2/jquery.min.js"></script>
+        <script type="text/javascript" src="https://oss.maxcdn.com/semantic-ui/2.1.8/components/transition.min.js"></script>
 
-		<script type="text/javascript" src="https://oss.maxcdn.com/jquery/2.2.2/jquery.min.js"></script>
-		<script type="text/javascript" src="https://oss.maxcdn.com/semantic-ui/2.1.8/components/transition.min.js"></script>
-
-		{% for file in page.additional_js %}
-			<script type="text/javascript" src="{% if file contains '://' %}{{ file }}{% else %}/js/{{ file }}.js{% endif %}"></script>
-		{% endfor %}
-	</body>
+        {% for file in page.additional_js %}
+            <script type="text/javascript" src="{% if file contains '://' %}{{ file }}{% else %}/js/{{ file }}.js{% endif %}"></script>
+        {% endfor %}
+    </body>
 </html>

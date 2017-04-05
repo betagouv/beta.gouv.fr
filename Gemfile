@@ -53,6 +53,10 @@ rescue => standard_error
   gem 'github-pages'
 end
 
-gem 'html-proofer', group: :test
-gem 'jsonlint', group: :test
-gem 'opengraph_parser', group: :test
+group :test do
+  gem 'html-proofer'
+  gem 'jsonlint'
+  gem 'rake'
+  gem 'kwalify'
+  gem 'opengraph_parser'
+end

@@ -1,17 +1,16 @@
 {% if include.description %}
-	{% assign description = include.description %}
+    {% assign description = include.description %}
 {% else %}
-	{% capture id %}/author/{{ include.id }}{% endcapture %}
-	{% for author in site.author %}
-		{% if author.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
-			{% assign description = author %}
-		{% endif %}
-	{% endfor %}
+    {% capture id %}/authors/{{ include.id }}{% endcapture %}
+    {% for author in site.authors %}
+        {% if author.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
+            {% assign description = author %}
+        {% endif %}
+    {% endfor %}
 {% endif %}
-{% include validate-author.html employer=description.employer start=description.start id=include.id %}
 
 {% capture avatar %}
-	<img alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}/img{{ description.id }}.jpg{% endif %}" />
+    <img alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}/img{{ description.id }}.jpg{% endif %}" />
 {% endcapture %}
 
 
@@ -20,19 +19,19 @@
 {% else %}
 <div class="ui card author">
 {% endif %}
-	{% if include.size != 'small' %}
-	<div id="{{ description.id | replace:'/author/','' }}" class="image">{{ avatar }}</div>
-	{% endif %}
-	<div class="content">
-		{% if include.size == 'small' %}
-		<div class="ui mini right floated image">{{ avatar }}</div>
-		{% endif %}
-		<div class="header">{{ description.fullname }}</div>
-		<div class="meta">{{ description.role }}</div>
-		<div class="description">
-			{{ description.content }}
-		</div>
-	</div>
+    {% if include.size != 'small' %}
+    <div id="{{ description.id | replace:'/authors/','' }}" class="image">{{ avatar }}</div>
+    {% endif %}
+    <div class="content">
+        {% if include.size == 'small' %}
+        <div class="ui mini right floated image">{{ avatar }}</div>
+        {% endif %}
+        <div class="header">{{ description.fullname }}</div>
+        <div class="meta">{{ description.role }}</div>
+        <div class="description">
+            {{ description.content }}
+        </div>
+    </div>
 {% if description.link %}
 </a>
 {% else %}

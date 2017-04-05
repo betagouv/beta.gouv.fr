@@ -4,6 +4,10 @@ category: recrutement
 startup: mes-aides
 ---
 
+**Ce poste a été pourvu.**
+
+<!--more-->
+
 Mes Aides cherche un·e dev web full-stack, compétent·e en JS, et intéressé·e par l'ops. Venez aider des dizaines de milliers de personnes à accéder à leurs droits chaque jour !
 
 Vous rejoindrez l'[équipe autonome](https://beta.gouv.fr/2016/11/28/equipes-autonomes) qui développe Mes Aides. Dans un premier temps, votre contribution portera sur des chantiers techniques prioritaires déjà identifiés :
@@ -31,7 +35,7 @@ Comme pour tous les postes de l'incubateur, il s'agit aussi d'une opportunité d
 
 ## Modalités
 
-- Poste ouvert pour un·e indépendant·e (en portage). 
+- Poste ouvert pour un·e indépendant·e (en portage).
 - Télétravail partiel bienvenu, avec 1 à 2 jours par semaine [à Paris](https://github.com/sgmap/beta.gouv.fr/wiki/Locaux) pour bien construire l'équipe.
 - Temps partiel bienvenu (60 % à 100 %).
 
