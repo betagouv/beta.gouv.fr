@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+{% capture status %}
+    {% if site.phases.incubation[page.status].name %}
+        en {{ site.phases.incubation[page.status].name }}
+    {% else %}
+        {{ site.phases.endgame[page.status].singular }}
+    {% endif %}
+{% endcapture %}
 <div class="ui container padded">
     <div class="ui fluid card">
         <div class="header">
@@ -15,7 +22,7 @@ layout: default
         <div class="content">
             <ul class="ui description text container">
                 <li>Le porteur administratif est {{ page.owner }}.</li>
-                <li>Le produit est en <em>{{ page.status}}</em>, il
+                <li>Le produit est <em>{{ status | strip }}</em>, il
                     {% if page.link %}
                         est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.
                     {% else %}
