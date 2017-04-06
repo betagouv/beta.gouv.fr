@@ -4,7 +4,7 @@ mission: Simplifier radicalement le règlement des cotisations sociales par les 
 domain:
 repository:
 status: investigation
-contact: pierre@beta.gouv.fr
+contact: pierre.pezziardi@beta.gouv.fr
 start: 2014-12-15  # date au format ISO (AAAA-MM-DD)
 owner: SGMAP
 ---
