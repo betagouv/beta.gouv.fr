@@ -1,7 +1,7 @@
 ---
 title: Qu'est-ce qu'une équipe autonome ?
 authors:
- -  laurent.bossavit
+    - laurent.bossavit
 ---
 
 Une Startup d'État est « une équipe de 2 à 4 personnes financée par une administration et totalement autonome »… Mais qu'entend-on exactement par « autonome », et pourquoi est-ce important ?
