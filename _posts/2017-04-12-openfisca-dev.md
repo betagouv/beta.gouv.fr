@@ -6,7 +6,7 @@ authors:
   - florian.pagnoux
 ---
 
-OpenFisca cherche un·e dev compétent en Python et / ou JS, et intéressé·e par découvrir l'autre. Venez aider des dizaines de milliers de personnes à accéder à leurs droits chaque jour !
+OpenFisca cherche un·e dev compétent en Python et / ou JS, et intéressé·e par découvrir l'autre. Apportez vos compétences pour rendre le droit calculable dans le monde entier et outiller d'autres devs !
 
 <!--more-->
 
