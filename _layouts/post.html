@@ -13,7 +13,7 @@ layout: default
 
 <div id="masthead">
     <h1>{% if startup %}[{{ startup.title }}] {% endif %}{{ page.title}}</h1>
-    <div class="subtitle">Paru le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%m/%d/%Y" }}</time></div>
+    <div class="subtitle">Paru le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%d/%m/%Y" }}</time></div>
 </div>
 
 <div class="post-container">
