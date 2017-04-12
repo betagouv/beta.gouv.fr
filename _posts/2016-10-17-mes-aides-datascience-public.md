@@ -1,6 +1,7 @@
 ---
 title: Statistiques descriptives au service de l'intérêt général
 startup: mes-aides
+author: matti.schneider
 ---
 
 Mes Aides est le plus ancien produit grand public de l'Incubateur, en production depuis le mois d'octobre 2014. Nous avons donc pu accumuler suffisamment de données statistiques sur l'usage de ce simulateur pour mener des analyses approfondies. Nous avons travaillé avec Florian Gauthier, _data scientist_ de l'[Administrateur Général des Données](https://agd.data.gouv.fr) (une autre mission du <abbr title="Secrétariat Général pour la Modernisation de l'Action Publique">SGMAP</abbr>), pour mieux comprendre les situations les plus simulées sur Mes Aides.
