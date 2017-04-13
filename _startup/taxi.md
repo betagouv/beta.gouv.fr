@@ -7,7 +7,7 @@ status: consolidation
 contact:
 logo: https://cdn.rawgit.com/openmaraude/le.taxi/master/themes/taxitheme/static/images/logo_le.taxi.svg
 start: 2015-03-15
-owner: Ministère de l'Intérieur
+owner: Ministère des Transports
 screenshot: /img/startup/taxi.jpg
 ---
 
