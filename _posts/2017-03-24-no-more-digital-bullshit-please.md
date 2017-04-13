@@ -55,6 +55,6 @@ Pour construire une mesure d’impact nous distinguons deux temps, le temps cour
 **À long terme :**
 
 * Construire une cohorte que l’on suit dans le temps en s’y prenant très en amont. Pour cela mesurer la différence “avec” et “sans” sur 2 groupes les plus similaires possibles (entre 100 et 100 000 personnes suivant l’importance de la précision). Un service statistique dans l'administration est souvent nécessaire.
-* Discuter régulièrement devant la page mastartup/stats : qu'a-t-on fait récemment pour augmenter l'impact&#x202F;? pourquoi ça monte là&#x202F;? y-a-t-il des poches d'impact (des géographies, des organisations, des clientèles  ..) que nous adressons mal&#x202F;? nous avons résolu un premier problème, mais le goulet ne s'est-il pas déplacé désormais&#x202F;? …
+* Discuter régulièrement devant la page mastartup/stats : qu'a-t-on fait récemment pour augmenter l'impact&#x202F;? pourquoi ça monte là&#x202F;? y-a-t-il des poches d'impact (des géographies, des organisations, des clientèles…) que nous adressons mal&#x202F;? Nous avons résolu un premier problème, mais le goulet ne s'est-il pas déplacé désormais&#x202F;?
 
 <small><a title="War On The Big Pink Bullshit!" href="https://flickr.com/photos/dullhunk/2346562184">War On The Big Pink Bullshit!</a> flickr photo by <a href="https://flickr.com/people/dullhunk">dullhunk</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons (BY) license</a></small>
