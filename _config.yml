@@ -15,7 +15,6 @@ twitter_id: 715451644683673601  # more stable than the username
 # Plugins
 gems:
   - jekyll-redirect-from
-  - jekyll-feed
 
 # Default author for blog posts, can be overridden in each post
 author:
