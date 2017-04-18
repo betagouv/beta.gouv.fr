@@ -4,7 +4,7 @@ role: Développeur web
 avatar: https://res.cloudinary.com/bdavidxyz-com/image/upload/v1471575050/menice3_reoxvv.png
 link: http://bdavidxyz.com
 start: 2016-09-15
-end: 2017-04-15
+end: 2017-10-15
 employer:  independent/octo
 ---
 
