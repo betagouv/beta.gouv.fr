@@ -3,7 +3,7 @@ title: Base adresse nationale
 mission: Référencer l'intégralité des adresses du territoire français
 link: https://adresse.data.gouv.fr
 repository: https://adresse.data.gouv.fr/foss/
-status: construction
+status: success
 contact: adresse@data.gouv.fr
 logo:  https://adresse.data.gouv.fr/static/img/BAN.png
 start: 2014-06-01
