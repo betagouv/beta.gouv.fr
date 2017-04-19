@@ -1,9 +1,9 @@
 ---
 title: Urbaclic
 mission: Accéder aux règles d'urbanisme en quelques clics
-link: https://urbaclic.beta.gouv.fr
+link: http://www.opendatalab.fr/urbaclic
 repository: https://github.com/sgmap/urbaclic
-status: construction
+status: success
 contact: contact@urbaclic.beta.gouv.fr
 start: 2016-03-01
 owner: SGAR Occitanie, Étalab
