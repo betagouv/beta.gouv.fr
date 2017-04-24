@@ -2,6 +2,7 @@
 fullname: Raphaëlle Gaillard
 role: Chargée de développement
 start: 2016-11-01
+mail: raphaelle.gaillard@pole-emploi.fr
 employer: admin/pole-emploi
 ---
 
