@@ -15,4 +15,4 @@ Acteurs de la commande publique, n'exigez plus qu'un numéro de SIRET pour accep
 
 Entreprises, fini les formulaires DC1, DC2, DC3, DC4, terminé les pièces justificatives à retirer dans les guichets administratifs, et surtout plus d'incertitude sur la conformité de votre proposition commerciale : est-elle complète ? est-elle correctement signée ? aux bons endroits ? MPS, et la commande publique redevient enfin simple.
 
-MPS est implémenté dans plus de 50 places de marchés au niveau national, et est utilisé au 1 mai 2017 par plus de 2500 organismes publics.
+MPS est implémenté dans plus de 50 places de marchés au niveau national, et est utilisé au 1er mai 2017 par plus de 2500 organismes publics.
