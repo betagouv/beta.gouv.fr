@@ -2,7 +2,7 @@
 title: MAINTENANT
 mission: Recruter des gens, pas des CV
 link: http://chouette.beta.pole-emploi.fr
-status: construction
+status: consolidation
 contact: lauren.michel@pole-emploi.fr
 start: 2016-02-02
 owner: Pôle emploi
