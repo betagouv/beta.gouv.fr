@@ -1,6 +1,6 @@
 ---
 fullname: Marie Briche
-role: Intrapreneur sur la VAE
+role: Intrapreneuse
 start: 2017-05-01
 employer: admin/pole-emploi
 ---
