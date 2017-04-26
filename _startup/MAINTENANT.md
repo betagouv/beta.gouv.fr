@@ -1,14 +1,14 @@
 ---
 title: MAINTENANT
-mission: Recruter des gens, pas des CV
-link: http://chouette.beta.pole-emploi.fr
+mission: Recrutez des gens, pas des CV
+link: http://maintenant.pole-emploi.fr
 status: consolidation
 contact: lauren.michel@pole-emploi.fr
 start: 2016-02-02
 owner: Pôle emploi
 ---
 
-# Recruter des gens, pas des CV !
+# Recrutez des gens, pas des CV !
 
 En moyenne, il faut à un recruteur 20 minutes pour déposer une offre d’emploi. Trop long, trop compliqué, inadapté aux secteurs en tension ou saisonniers comme la restauration, la vente ou encore l'hôtellerie.
 
