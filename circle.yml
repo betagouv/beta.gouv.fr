@@ -16,7 +16,7 @@ test:
         background: true
     - while ! curl --silent http://localhost:4000; do sleep 1; done  # wait for server to start
   override:
-    - ./checks/author_file_format
+    - ./checks/author_filename
     - ./checks/configuration-ok
     - ./checks/site-was-built
     - ./checks/correct-yaml-data
