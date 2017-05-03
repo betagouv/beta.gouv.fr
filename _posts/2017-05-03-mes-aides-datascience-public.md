@@ -28,13 +28,13 @@ En analysant ces données, nous souhaitions être mieux équipés pour :
 
 Les communes où Mes Aides est le plus utilisé sont les communes les plus peuplées. Sur la carte ci-dessous, plus la couleur est foncée, plus l’usage est important. Cela laisse donc supposer que la diffusion de l’usage est homogène sur le territoire.
 
-![La densité de population détermine la fréquence d'usage.]({{ site.baseurl }}img/posts/2017-05-03-mes-aides-datascience-public/repartition-usage-villes.jpg)
+![La densité de population détermine la fréquence d'usage.](/img/posts/2017-05-03-mes-aides-datascience-public/repartition-usage-villes.jpg)
 
 Contrairement à une idée reçue, on n'observe [pas de corrélation](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/plot_CP.ipynb) significative entre pauvreté et usage de Mes Aides (pour un indicateur habituel de pauvreté qu'est la médiane du revenu disponible par unité de consommation).
 
 Une exception à ce constat est la région Île-de-France.
 
-![La richesse semble influer sur l'usage en Île-de-France, à l'exception de Versailles.]({{ site.baseurl }}img/posts/2017-05-03-mes-aides-datascience-public/repartition-usage-idf.jpg)
+![La richesse semble influer sur l'usage en Île-de-France, à l'exception de Versailles.](/img/posts/2017-05-03-mes-aides-datascience-public/repartition-usage-idf.jpg)
 
 Nous faisons l'hypothèse que cette répartition spécifique de l'usage est liée à nos partenariats, notamment le <abbr title="Centre d'Action Sociale de la Ville de Paris">CASVP</abbr> et le département du 93. Cela est également cohérent avec l'usage volontariste que fait le <abbr title="Centre Communal d'Action Sociale">CCAS</abbr> de Versailles du simulateur : cette zone n'est pas connue pour avoir une part de population précaire comparable aux autres communes qui utilisent pourtant autant Mes Aides.
 
@@ -42,26 +42,26 @@ L'usage du simulateur reflète aujourd'hui plus certainement l'activité des mé
 
 ### Types de logement
 
-![Types de logements simulés : 55% de locataires, 30% de propriétaires, 12% de personnes hébergées, 3% sans domicile.]({{ site.baseurl }}img/posts/2017-05-03-mes-aides-datascience-public/repartition-logement.png)
+![Types de logements simulés : 55% de locataires, 30% de propriétaires, 12% de personnes hébergées, 3% sans domicile.](/img/posts/2017-05-03-mes-aides-datascience-public/repartition-logement.png)
 
 On peut comparer les types de logements simulés dans Mes Aides à la [répartition](http://www.insee.fr/fr/themes/document.asp?ref_id=T13F072#tableaux) de l'INSEE en 2012. Cette répartition concerne le parc des _résidences principales_, et ne comprend pas les personnes sans domicile stable.
 
 On voit bien la différence de répartition entre locataires et propriétaires. Afin d’accélérer la navigation des utilisateurs, nous faisons le choix d’ordonner dans l’application les options de type de logement pour que le sens de lecture corresponde aux usages les plus fréquents.
 
-![Sélection du logement : locataire, propriétaire, hébergé (incluant gratuit), sans domicile.]({{ site.baseurl }}img/posts/2017-05-03-mes-aides-datascience-public/selection-type-logement.png)
+![Sélection du logement : locataire, propriétaire, hébergé (incluant gratuit), sans domicile.](/img/posts/2017-05-03-mes-aides-datascience-public/selection-type-logement.png)
 
 
 ### Ressources
 
-La grande majorité des visiteurs perçoit des salaires, ou un _revenu de remplacement_ du salaire : chômage ou retraite. Ensuite seulement apparaissent les allocations (logement, familiales…), puis d'[autres ressources]({{ site.baseurl }}img/posts/2017-05-03-mes-aides-datascience-public/ressources-sans-top-2.png).
+La grande majorité des visiteurs perçoit des salaires, ou un _revenu de remplacement_ du salaire : chômage ou retraite. Ensuite seulement apparaissent les allocations (logement, familiales…), puis d'[autres ressources](/img/posts/2017-05-03-mes-aides-datascience-public/ressources-sans-top-2.png).
 
-![Les cinq ressources les plus souvent déclarées : salaire, chômage, retraite, allocation logement, allocations familiales.]({{ site.baseurl }}img/posts/2017-05-03-mes-aides-datascience-public/top-5-ressources.png)
+![Les cinq ressources les plus souvent déclarées : salaire, chômage, retraite, allocation logement, allocations familiales.](/img/posts/2017-05-03-mes-aides-datascience-public/top-5-ressources.png)
 
 L'application propose actuellement de sélectionner les ressources d'après leur catégorie. Ces données nous orientent à penser une prochaine évolution avec une suggestion « hors catégorie » des ressources les plus fréquemment renseignées.
 
 Les revenus totaux sont en grande majorité nuls dans les situations simulées. On observe un second pic aux alentours du SMIC annuel, puis une décroissance exponentielle vers les hauts revenus.
 
-![Répartition des sommes des revenus]({{ site.baseurl }}img/posts/2017-05-03-mes-aides-datascience-public/ressources.png)
+![Répartition des sommes des revenus](/img/posts/2017-05-03-mes-aides-datascience-public/ressources.png)
 
 Bien évidemment, plus une personne est en situation de précarité, et plus elle a intérêt à faire un point sur les aides sociales dont elle peut bénéficier.
 
@@ -90,8 +90,8 @@ Nous avons retiré de l'échantillon :
 
 Afin de valider les données obtenues avec les usages observés de Mes Aides, nous avons confronté nos [statistiques de fréquentation](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=range&date=last30#?module=Dashboard&action=embeddedIndex&idSite=9&period=range&date=last30&idDashboard=1) mesurées sur Piwik avec le nombre de simulations calculées sur Mes Aides. Même si tous les visiteurs arrivant sur la page d'accueil ne vont pas nécessairement faire une simulation, on suppose que la fréquentation devrait être similaire.
 
-![Répartition temporelle des simulations]({{ site.baseurl }}img/posts/2017-05-03-mes-aides-datascience-public/frequentation-backend.png)
-![Répartition temporelle des visites]({{ site.baseurl }}img/posts/2017-05-03-mes-aides-datascience-public/frequentation-piwik.png)
+![Répartition temporelle des simulations](/img/posts/2017-05-03-mes-aides-datascience-public/frequentation-backend.png)
+![Répartition temporelle des visites](/img/posts/2017-05-03-mes-aides-datascience-public/frequentation-piwik.png)
 
 Les données sont bien cohérentes temporellement.
 
