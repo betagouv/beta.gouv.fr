@@ -81,7 +81,7 @@ Dans notre cas, en parallèle des améliorations continues que nous menons et de
 
 ## Notes méthodologiques
 
-Nous avons retiré de l'échantillon :
+Cette analyse est basée sur des données recueillies entre avril 2015 et mai 2016. Nous avons retiré de l'échantillon :
 
 - Les individus de plus de 120 ans, car la probabilité qu'il s'agisse de tests est très élevée (100 % [d’après Wikipédia](https://fr.wikipedia.org/wiki/Liste_de_grands_centenaires_fran%C3%A7ais)).
 - Les individus ayant des caractéristiques utilisées systématiquement comme valeurs de test : la commune de [Beaumont-en-Verdunois](https://fr.wikipedia.org/wiki/Beaumont-en-Verdunois) est par exemple utilisée comme ville de test, car il s’agit d’une commune n’ayant plus aucun habitant depuis la Première Guerre mondiale (si cela vous intéresse, nous avons d’autres [codes postaux de test](https://github.com/sgmap/codes-postaux#notable-subset) à recommander).
