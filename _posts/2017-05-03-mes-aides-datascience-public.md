@@ -1,7 +1,8 @@
 ---
 title: Statistiques descriptives au service de l'intérêt général
 startup: mes-aides
-author: matti.schneider
+authors:
+  - matti.schneider
 ---
 
 La « _datascience_ », ou science de la donnée, évoque plus une discipline à part entière qu’un outil parmi d’autres dans l’ingénierie logicielle. Et pourtant, l’équipe Mes Aides l’utilise aussi pour améliorer l’expérience de ses utilisateurs !
