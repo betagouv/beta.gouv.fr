@@ -8,6 +8,8 @@ La « _datascience_ », ou science de la donnée, évoque plus une discipline à
 
 Mes Aides est le plus ancien produit grand public de l'Incubateur de services numériques. Accessible depuis le mois d’octobre 2014, c’est le candidat parfait pour explorer des données réelles. Avec l’aide de Florian Gauthier, _data scientist_ de la mission [Administrateur général des données](https://agd.data.gouv.fr), nous avons cherché à mieux comprendre les situations les plus simulées afin de nous améliorer.
 
+<!--more-->
+
 ## Objectifs
 
 En analysant ces données, nous souhaitions être mieux équipés pour :
