@@ -14,7 +14,7 @@ Mes Aides est le plus ancien produit grand public de l'Incubateur de services n
 En analysant ces données, nous souhaitions être mieux équipés pour :
 
 - Comprendre la diffusion territoriale de l’usage de Mes Aides.
-- Déterminer l'usage réel de certains choix de conception pour lesquels nous ne disposions pas de données a priori (catégorie « sans domicile stable » par exemple).
+- Déterminer l'usage réel de certains choix de conception pour lesquels nous ne disposions pas de données a priori. Nous avons par exemple ajouté une catégorie « sans domicile stable » sans statistiques d'usage connues : cette catégorie est-elle utilisée ?
 - Orienter des décisions de préremplissage pour accélérer encore la saisie pour les cas les plus habituels.
 
 > Pour rappel, les situations que nous enregistrons ne contiennent [aucune information nominative](https://mes-aides.gouv.fr/cgu#donnees).
@@ -108,3 +108,5 @@ Cette étude est basée sur une cohorte de plusieurs dizaines de milliers de dem
 > Vous pouvez auditer le [code de suivi](https://github.com/sgmap/mes-aides-ui/pull/288) qui transmet les données des situations à cette base de données.
 
 Suite à cette étude, Pôle Emploi fera une demande au [Registre National Commun des Prestations Sociales](http://www.securite-sociale.fr/Repertoire-National-Commun-de-la-Protection-Sociale-RNCPS) (RNCPS) pour chacune des personnes ayant participé à l’étude.
+
+Nous publierons un article dès que nous en aurons reçu les résultats finaux.
