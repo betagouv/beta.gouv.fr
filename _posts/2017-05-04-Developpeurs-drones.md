@@ -22,7 +22,7 @@ Il s’agit de développer :
 
 Comme pour tous les postes de l'incubateur, il s'agit aussi d'une opportunité de [co-construire `beta.gouv.fr`](https://github.com/sgmap/beta.gouv.fr/wiki) avec [plein de gens bien](https://beta.gouv.fr/communaute) et de participer à la transformation numérique de l'administration française.
 
- ## Modalités :
+## Modalités :
 
 - Postes ouverts pour des indépendant·e·s (en portage).
 - Disponibilité six mois minimum.
