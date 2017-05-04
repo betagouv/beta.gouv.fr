@@ -1,6 +1,6 @@
 ---
 title: Mes Aides
-mission: Évaluer ses droits à 22 aides sociales, en moins de 6 minutes
+mission: Évaluer ses droits à 25 aides sociales. En moins de 7 minutes.
 link: https://mes-aides.gouv.fr
 repository: https://github.com/sgmap/mes-aides-ui
 status: consolidation
@@ -9,9 +9,13 @@ start: 2014-05-01
 owner: SGMAP
 ---
 
-En décrivant votre foyer dans une interface simple, vous connaîtrez immédiatement votre éligibilité aux [principales prestations sociales](https://github.com/sgmap/mes-aides-ui/wiki#les-aides-calculées) nationales.
+Simulez vos droits à plus d’une vingtaine de prestations sociales en quelques minutes. Mes Aides compare votre situation personnelle aux critères des [principales aides nationales](https://github.com/sgmap/mes-aides-ui/wiki#les-aides-calculées), comme le RSA, la CMU-C ou les allocations familiales, ainsi que de certaines aides locales.
 
-Mes Aides intègre également progressivement toutes les aides extra-légales distribuées par les collectivités. Vous êtes une collectivité et souhaitez ajouter vos prestations dans Mes Aides ? [Contactez-nous](mailto:contribuer@mes-aides.gouv.fr?Ajouter+une+aide+via+beta.gouv.fr) !
+Grâce aux informations que vous nous transmettez, nous estimons à quelles aides vous avez droit ainsi que leurs montants et conditions d'attribution. Vous pouvez ensuite engager les démarches auprès des organismes ciblés.
+
+Un de nos buts est de toujours augmenter le nombre d’aides simulées en une seule fois. En tant que collectivité proposant une prestation sociale, n'hésitez pas à [nous contacter](mailto:contribuer@mes-aides.gouv.fr?Ajouter+une+aide+via+beta.gouv.fr).
+
+Mes Aides se base sur [OpenFisca] (https://beta.gouv.fr/startup/openfisca.html), un moteur de calcul libre et ouvert utilisé par des chercheurs en économie et d’autres services publics.
 
 
 ## Mes Aides recrute !
