@@ -77,9 +77,8 @@ Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) et [Jekyll](h
 ```sh
 git clone https://github.com/sgmap/beta.gouv.fr.git
 cd beta.gouv.fr
-gem install bundler --no-ri --no-rdoc
-bundle install
-bundle exec jekyll serve
+make install
+make run
 ```
 
 Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `_layouts` et `css`.

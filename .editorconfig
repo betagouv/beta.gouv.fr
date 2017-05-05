@@ -26,3 +26,6 @@ insert_final_newline = none
 
 [Gemfile.lock]
 indent_size = none
+
+[Makefile]
+indent_style = tab
