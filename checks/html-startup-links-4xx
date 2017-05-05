@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Checking if startup links are valid (not 4xx)"
+bundle exec htmlproofer ./_site/startup --checks-to-ignore ImageCheck,ScriptCheck --only-4xx --assume-extension --external_only
