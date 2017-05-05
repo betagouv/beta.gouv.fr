@@ -12,8 +12,6 @@ authors:
 
 OpenFisca cherche un·e dev compétent en Python et / ou JS, et intéressé·e par découvrir l'autre. Apportez vos compétences pour rendre le droit calculable dans le monde entier et outiller d'autres devs !
 
-<!--more-->
-
 Vous rejoindrez l'[équipe autonome](https://beta.gouv.fr/2016/11/28/equipes-autonomes) qui développe OpenFisca.
 
 OpenFisca rend le droit calculable. Il s’agit d’un moteur de calcul libre et ouvert qui permet de modéliser le système socio-fiscal de manière collaborative et transparente. Ce logiciel est utilisé par des chercheurs en économie et d’autres services publics comme [Mes Aides](/startup/mes-aides) ou le [simulateur de coût d'embauche](/startup/embauche).
