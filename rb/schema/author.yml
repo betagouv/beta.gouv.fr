@@ -18,3 +18,5 @@ mapping:
     type:      str
   "avatar":
     type:      str
+  "github":
+    type:      str
