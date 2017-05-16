@@ -8,6 +8,7 @@ contact: eric.barthelemy@pole-emploi.fr
 start: 2015-05-01
 owner: Pôle emploi
 logo: /img/logos/labonneboite.png
+stats: true
 ---
 
 Le saviez-vous ? Seules 20% des embauches sont le fruit d'une rencontre entre une offre d'emploi et une demande ! 80% du marché de l'emploi est dit « caché », et relève des **candidatures spontanées** et des cooptations.
