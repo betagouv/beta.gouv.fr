@@ -1,7 +1,8 @@
 ---
 fullname: Samuel Faure
-role: Stagiaire
+role: Développeur (stagiaire)
 avatar: https://avatars3.githubusercontent.com/zerhariel?s=600
+github: Zerhariel
 start: 2017-04-24
 end: 2017-10-24
 employer: dinsic
