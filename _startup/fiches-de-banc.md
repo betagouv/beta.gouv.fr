@@ -13,6 +13,27 @@ Une application web permettant d'émettre des avis sur les amendements déposés
 
 Ces réponses sont appelées « fiches de banc », du nom des fiches que les représentants du gouvernement utilisent comme support pour les présenter aux députés.
 
+
+Abandon
+-------
+
+Cette Startup a été abandonnée en septembre 2016.
+
+La raison en est que la temporalité de construction est incompatible avec les besoins des utilisateurs.
+
+En effet, un cabinet ministériel se préoccupe d'améliorer les outils lui permettant de rédiger des fiches de banc lorsqu'il fait face à un projet de loi générant une quantité inhabituellement élevée d'amendements. Dans ce cas, il est par définition très peu disponible. Le travail nocturne, voire intérimaire, n'est pas inhabituel dans ces situations. La disponibilité pour co-construire un nouvel outil est donc extrêmement réduite.
+
+Cette faible disponibilité est combinée à un enjeu démesuré : si le projet de loi nécessitant la rédaction de fiches de banc a généré autant d'amendements, c'est qu'il a une forte visibilité politique. Une incertitude sur le traitement est donc inacceptable, et les utilisateurs veulent par sécurité conserver leur processus habituel, très coûteux mais éprouvé. Cela leur rend inacceptable l'investissement supplémentaire, même s'il est plus faible, dans un nouvel outil.
+
+Nous avons ainsi été sollicités à trois reprises dans ce genre de cas, et n'avons jamais réussi à obtenir une utilisation réelle au-delà des premiers tests, alors même qu'ils étaient très satisfaisants.
+
+L'alternative consisterait à mobiliser les utilisateurs sur un projet de loi à faible impact et faible visibilité. Néanmoins, dans ce cas, les processus habituels sont effectifs, et le surcoût que représenterait l'investissement dans un nouvel outil est considéré comme inutile. Nous avons tenté à deux reprises cette démarche, mais n'avons pas obtenu d'engagement des cabinets démarchés.
+
+Une Startup d'État, qui construit _avec_ ses utilisateurs, ne semble donc pas adaptée au problème visé.
+
+Le [code](https://github.com/sgmap/fiches-de-banc) reste libre et ouvert, et toute reprise du produit, sur la base du code en question ou en s'inspirant de l'expérience utilisateur proposée, est la bienvenue.
+
+
 Usage
 -----
 

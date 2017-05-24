@@ -50,7 +50,7 @@ Notamment, attention, la date dans le nom du fichier au format `AAAA-MM-DD-nom_e
 
 ## Ajouter un membre à l'équipe Incubateur
 
-### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/master/_posts?filename=_authors/prenom.nom.md&value=---%0Afullname%3A%20Camille%20Dupont%20%23%20penser%20%C3%A0%20modifier%20le%20nom%20du%20fichier%20ci-dessus%20!%0Arole%3A%20Smartass%0Aavatar%3A%20%23%20uploader%20un%20fichier%20JPG%20en%20512x512%20du%20m%C3%AAme%20nom%20que%20ce%20fichier%20dans%20%2Fimg%2Fauthors%20et%20effacer%20cette%20ligne%2C%20ou%20sp%C3%A9cifier%20une%20URL%20externe%20en%20HTTPS%0Alink%3A%20%23%20optionnel%20%3A%20lien%20vers%20une%20page%20perso%20externe.%20Effacer%20cette%20ligne%20si%20rien%20%C3%A0%20mettre.%0Astart%3A%202016-12-31%20%23%20date%20d%27arriv%C3%A9e%20au%20format%20ISO%20(AAAA-MM-JJ)%0Aend%3A%202017-09-15%20%23%20date%20de%20fin%20de%20contrat%20au%20format%20ISO%20(AAAA-MM-JJ)%0Aemployer%3A%20%23%20dinsic%20ou%20independent%2F%3Cemployer%3E%20ou%20admin%2F%3Cemployer%3E%0A---%0A%0A%C3%89crit%20des%20autobiographies%20percutantes%20en%20moins%20de%20200%20caract%C3%A8res%20depuis%201972.) :smiley:
+### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/master/_posts?filename=_authors/prenom.nom.md&value=---%0Afullname%3A%20Camille%20Dupont%20%23%20penser%20%C3%A0%20modifier%20le%20nom%20du%20fichier%20ci-dessus%20!%0Arole%3A%20Smartass%0A%23%20ci-dessous%2C%20tu%20peux%20aussi%20remplacer%20sgmap-bot%20par%20ton%20propre%20pseudo%20Github%0A%23%20ou%20bien%20fournir%20l%27URL%20(HTTPS%20obligatoire)%20d%27une%20image%20carr%C3%A9e%20512x512%20minimum%0A%23%20ou%20bien%20uploader%20un%20fichier%20JPG%20en%20512x512%20du%20m%C3%AAme%20nom%20que%20ce%20fichier%20dans%20%2Fimg%2Fauthors%20et%20effacer%20cette%20ligne%0Aavatar%3A%20https%3A%2F%2Favatars3.githubusercontent.com%2Fsgmap-bot%3Fs%3D600%0Alink%3A%20%23%20optionnel%20%3A%20lien%20vers%20une%20page%20perso%20externe.%20Effacer%20cette%20ligne%20si%20rien%20%C3%A0%20mettre.%0Astart%3A%202016-12-31%20%23%20date%20d%27arriv%C3%A9e%20au%20format%20ISO%20(AAAA-MM-JJ)%0Aend%3A%202017-09-15%20%23%20date%20de%20fin%20de%20contrat%20au%20format%20ISO%20(AAAA-MM-JJ)%0Aemployer%3A%20%23%20dinsic%20ou%20independent%2F%3Cemployer%3E%20ou%20admin%2F%3Cemployer%3E%0A---%0A%0A%C3%89crit%20des%20autobiographies%20percutantes%20en%20moins%20de%20200%20caract%C3%A8res%20depuis%201972.) :smiley:
 
 Attention, l'image doit être carrée et de préférence à une résolution supérieure à 512 ⨉ 512 pixels, optimisée au préalable avec un outil du type [ImageOptim](https://imageoptim.com/mac) - choisir des réglages "lossy" donnant en général plus de 50% de gains à la compression, mais ne pas supprimer les métadonnées d'images.
 
@@ -98,6 +98,26 @@ Cela peut être fait à la ligne de commande avec [Inkscape](https://inkscape.or
 inkscape --export-text-to-path `pwd`/_sources/logo.svg -l `pwd`/img/logo.svg
 svgo --multipass img/logo.svg  # optimisation, cf. https://jakearchibald.github.io/svgomg/
 ```
+
+## Relire les changements
+
+Pour encourager les contributions, éviter les erreurs d'inattention, et se mettre d'accord collectivement sur le contenu publié au nom de l'incubateur, chaque modification doit être relue et approuvée par une autre personne que l'auteur avant d’être intégrée.
+
+### Conseils pour demander une relecture
+
+Pour les relectures de code, il vaut mieux choisir une personne ayant un peu l'habitude de Jekyll, de Ruby ou du développement web. En revanche, en cas d'urgence sur une relecture éditoriale, toute personne de l'incubateur est légitime à approuver les modifications.
+
+**L'auteur d'une modification est responsable de pousser pour obtenir une relecture**, en relançant les gens périodiquement. Pour demander une relecture :
+
+1. **Ouvrir une <abbr title="Demande de modification sur GitHub">pull request</abbr>**, sans mentionner de relecteur explicitement. Les relecteurs potentiels vont recevoir une notification, et peuvent s'auto-assigner la relecture.
+2. **Si plusieurs jours s'écoulent sans relecture** (entre 2 et 5 jours, à la louche), ajouter un commentaire à la pull request, en demandant explicitement une relecture à un relecteur potentiel.
+3. **Si plusieurs jours s'écoulent à nouveau**, contacter directement un relecteur potentiel (par exemple par message privé sur le [Slack de l'incubateur](https://github.com/sgmap/beta.gouv.fr/wiki/Slack), ou en présentiel dans les locaux de _beta.gouv.fr_).
+
+### Conseils pour les relecteurs
+
+- **Commentez le code ou le texte – pas l'auteur** : on ne cherche pas à assigner de responsabilités ou à critiquer l'auteur ; mais juste à voir comment un bout de code ou de texte pourrait être plus pertinent.
+- **Si vous critiquez, proposez** : si quelque chose ne vous plait pas, expliquez comment vous proposeriez de l'améliorer.
+- **Soyez souple** : si vous avez une remarque mineure, ne bloquez pas la pull request avec une revue négative. Il vaut mieux approuver la pull request, en laissant l'auteur responsable de prendre en compte (ou pas) vos remarques.
 
 ## Déploiement
 

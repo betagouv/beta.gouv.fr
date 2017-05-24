@@ -6,9 +6,11 @@ authors:
   - florian.pagnoux
 ---
 
-OpenFisca cherche un·e dev compétent en Python et / ou JS, et intéressé·e par découvrir l'autre. Apportez vos compétences pour rendre le droit calculable dans le monde entier et outiller d'autres devs !
+**Ce poste a été pourvu.**
 
 <!--more-->
+
+OpenFisca cherche un·e dev compétent en Python et / ou JS, et intéressé·e par découvrir l'autre. Apportez vos compétences pour rendre le droit calculable dans le monde entier et outiller d'autres devs !
 
 Vous rejoindrez l'[équipe autonome](https://beta.gouv.fr/2016/11/28/equipes-autonomes) qui développe OpenFisca.
 

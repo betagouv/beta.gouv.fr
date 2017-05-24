@@ -3,11 +3,12 @@ title: Téléprocédure simplifiée
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
 link: https://tps.apientreprise.fr
 repository: https://github.com/sgmap/tps
-status: construction
+status: consolidation
 contact: contact@tps.apientreprise.fr
 logo: https://cdn.rawgit.com/sgmap/tps/e10c218d3a20e7e86afd3a4da5e1176772365c3d/app/assets/images/logos/logo-tps.png
 start: 2015-09-15
 owner: SGMAP
+stats: true
 ---
 
 “TéléProcédure Simplifiée” (TPS) est une application entièrement en ligne qui permet à tous les organismes assurant des missions de service public de créer des téléprocédures en quelques minutes et de gérer les demandes des usagers sur une plateforme dédiée.

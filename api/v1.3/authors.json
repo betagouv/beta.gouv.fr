@@ -1,0 +1,16 @@
+---
+layout: null
+---
+[
+    {% for author in site.authors %}
+        {
+            "id": "{{ author.id | replace:'/authors/','' }}"
+            ,"fullname": "{{ author.fullname }}"
+            ,"start": "{{ author.start }}"
+            ,"end": "{{ author.end }}"
+            ,"employer": "{{ author.employer }}"
+            {% if author.github %},"github": "{{ author.github }}"{% endif %}
+        }
+        {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+]

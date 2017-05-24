@@ -7,6 +7,7 @@ contact: sebastien.cadiou@pole-emploi.fr
 logo: https://memo.pole-emploi.fr/pic/logo_memo.png
 start: 2016-01-03
 owner: Pôle emploi
+stats: true
 ---
 
 ### Toutes mes candidatures en un clin d’oeil

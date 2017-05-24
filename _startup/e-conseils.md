@@ -30,3 +30,5 @@ Un outil numérique est au cœur de ce réseau et permet de le fédérer. Des al
 
 
 Le réseau e-conseils permet ainsi à l’administration de développer un rôle de conseil à destination des entreprises en complément de son rôle régalien de contrôle.
+
+<sub>_Crédit photo : ©fotolia_</sub>
