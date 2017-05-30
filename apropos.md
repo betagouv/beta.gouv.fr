@@ -38,7 +38,7 @@ Le cycle de vie d’une Startup d’État se termine par son intégration à co�
 
 ## Nos résultats
 
-[Nos réalisations](/startups) sont la meilleure illustration de nos pratiques. Un résumé de notre activité annuelle est disponible [au format PDF](/rapportannuel.pdf).
+[Nos réalisations](/startups) sont la meilleure illustration de nos pratiques. Un résumé de notre activité annuelle est disponible [au format PDF](rapportannuel.pdf).
 
 ## Notes
 
