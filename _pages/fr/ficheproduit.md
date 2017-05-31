@@ -1,6 +1,7 @@
 ---
 title: Rédiger une fiche produit
 layout: text
+permalink: /ficheproduit
 ---
 
 ## Rédiger une fiche produit

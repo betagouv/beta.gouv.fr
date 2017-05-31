@@ -1,6 +1,7 @@
 ---
 title: Suivi d'audience et vie privée
 layout: text
+permalink: /suivi
 ---
 
 ## Cookies déposés et opt-out

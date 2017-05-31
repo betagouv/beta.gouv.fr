@@ -2,6 +2,7 @@
 title: About
 layout: text
 redirect_from: /en/apropos  # support adding `/en` prefix in front of the French version
+permalink: /en/about
 ---
 
 ## Background

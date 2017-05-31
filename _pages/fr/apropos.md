@@ -2,6 +2,7 @@
 title: À propos
 menu_index: 3
 layout: text
+permalink: /apropos
 ---
 
 ## Historique

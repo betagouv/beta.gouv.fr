@@ -16,6 +16,8 @@ hire_card:
     # Not used in page but required to validate the author object
     employer: none
     start: site.time
+
+permalink: /communaute
 ---
 {% capture build_date %}{{ site.time | date:"%Y-%m-%d" }}{% endcapture %}
 {% assign members = site.authors | sort: 'start' | reverse %}

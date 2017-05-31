@@ -6,6 +6,7 @@ additional_css:
 - startup-presentation
 additional_js: homepage
 menu_index: 5
+permalink: /en/
 ---
 
 <section id="intro-header">
@@ -26,7 +27,7 @@ menu_index: 5
 </section>
 
 <section id="dashboard">
-    {% include dashboard.html phases=site.phases_en %}
+    {% include dashboard.html phases=site.data.en.phases %}
 
     <a href="/startups" class="primary success cta">Explore our {{ site.startup | size }} State Startups (fr)&nbsp;&nbsp;➤</a>
 </section>
