@@ -21,6 +21,7 @@ test:
     - ./checks/site-was-built
     - ./checks/correct-yaml-data
     - ./checks/html-common-mistakes
+    - ./checks/html-startup-links-4xx
     - ./checks/html5-standard-compliance
     - ./checks/social-network-optimizations
     - ./checks/json-syntax
