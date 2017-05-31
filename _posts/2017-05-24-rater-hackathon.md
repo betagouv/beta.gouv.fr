@@ -9,7 +9,7 @@ Remettons le couvert aujourd'hui en parlant du phénomène des Hackathons : dé
 
 <!--more-->
 
-Commençons par les bases: investissez le maximum d'argent et d'effort dans la communication, le papier glacé, le lieu prestigieux qui en jette et les petits fours. Ne vous préoccupez surtout pas de l'organisation effective de l'événement, des compétences nécessaires pour l'animation, de la sélection des participants ou encore [des règles du jeu garantissant l'équitable accès](http://ww2.kqed.org/news/2013/11/25/salesforce-hack-scandal/) des participants à la sélection par le jury.
+Commençons par les bases : investissez le maximum d'argent et d'effort dans la communication, le papier glacé, le lieu prestigieux qui en jette et les petits fours. Ne vous préoccupez surtout pas de l'organisation effective de l'événement, des compétences nécessaires pour l'animation, de la sélection des participants ou encore [des règles du jeu garantissant l'équitable accès](http://ww2.kqed.org/news/2013/11/25/salesforce-hack-scandal/) des participants à la sélection par le jury.
 
 Ces détails ont d'autant moins d'importance que vous pouvez, en suivant une stratégie à la mode, appeler [n'importe quel type d'événement un Hackathon](https://www.slideteam.net/blog/presentation-hackathon-simple-powerpoint-hacks-to-create-stunning-slides). Cela n'aura aucun impact : personne ne sait de quoi il s'agit ! Une stratégie inverse mais également populaire consiste à organiser un hackathon mais décider de [l'appeler autrement, juste pour brouiller les pistes](https://www.quora.com/Whats-an-alternative-name-for-a-hackathon).
 
