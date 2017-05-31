@@ -6,17 +6,38 @@
         <header>
             <nav class="ui secondary menu">
                 <div class="right menu">
-                    {% if page.ref != "landing" %}
+                    {% if page.ref != 'landing' %}
                         <a class="item" id="logo" href="/">beta.gouv.fr</a>
                     {% endif %}
 
                     {% assign menu_items = site.pages | where_exp: 'page', 'page.menu_index > 0' | sort: 'menu_index' %}
                     {% for menu_item in menu_items %}
-                        <a class="item large screen only
-                            {% if page.url == menu_item.url %} active{%endif%}"
-                            href="{{ menu_item.url }}">
-                            {{ menu_item.title }}
-                        </a>
+                        {% assign translation = site.pages | where: 'ref', menu_item.ref | where: 'lang', 'en' %}
+                        {% if page.lang == 'en' and translation[0] %}
+                            <a class="item large screen only
+                                {% if page.url == translation[0].url %} active{%endif%}"
+                                href="{{ translation[0].url }}">
+                                {{ translation[0].title }}
+                            </a>
+                         {% else %}
+                            <a class="item large screen only
+                                {% if page.url == menu_item.url %} active{%endif%}"
+                                href="{{ menu_item.url }}">
+                                {{ menu_item.title }}
+                            </a>
+
+                        {% endif %}
+                    {% endfor %}
+
+                    {% assign switches = site.pages | where: 'ref', 'landing' %}
+                    {% for switch in switches %}
+                        {% if switch.lang != page.lang %}
+                            <a class="item large screen only
+                                {% if page.url == switch.url %} active{%endif%}"
+                                href="{{ switch.url }}">
+                                {{ switch.title }}
+                            </a>
+                        {% endif %}
                     {% endfor %}
                 </div>
             </nav>
