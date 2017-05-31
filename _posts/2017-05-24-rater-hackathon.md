@@ -17,7 +17,7 @@ Si vous pouvez faire monter sur scène un maximum d'intervenants dont [le caract
 
 ## Eviter les réveils douloureux
 
-Vous pouvez rouvrir les yeux, secouer la tête pour éloigner les vestiges du cauchemar; toutes ces dérives, que nous ne cautionnons évidemment en aucune façon, sont surtout constatées aux Etats-Unis, en tout cas dans leur forme la plus exacerbée.
+Vous pouvez rouvrir les yeux, secouer la tête pour éloigner les vestiges du cauchemar ; toutes ces dérives, que nous ne cautionnons évidemment en aucune façon, sont surtout constatées aux Etats-Unis, en tout cas dans leur forme la plus exacerbée.
 
 Une menace plus subtile mais plus sérieuse plane cependant sur ceux qui se lanceraient dans l'organisation d'un événement de ce type en faisant l'économie d'une réflexion aboutie sur leurs intentions. C'est l'effet « gueule de bois » qui accompagne les lendemains de fête. On a cru échapper à la réalité, mais le matin venu, on s'aperçoit que rien n'a réellement changé.
 
