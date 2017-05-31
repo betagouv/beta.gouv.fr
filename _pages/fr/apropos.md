@@ -3,6 +3,8 @@ title: À propos
 menu_index: 3
 layout: text
 permalink: /apropos
+lang: fr
+ref: about
 ---
 
 ## Historique
