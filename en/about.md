@@ -12,7 +12,7 @@ A State Startup is not just an oxymoron, but a match between a team and a missio
 
 ## Objectives and main results achieved
 
-The new version of the French Open Data Portal (data.gouv.fr) was the first State Startup to come into existence, back in June of 2013. Made publicly available in December that same year, it brought social features to a tool that used to be a catalog of spreadsheets —as in every other country at the time. The new interface created feedback loops from civil society, that could now publish reuses, towards the institutions producing data, thus allowing them to increase the quality of their datasets by leveraging the crowd. Being open-source, this tool is now used in other countries such as Luxembourg, transferring capabilities EU-wide.
+The new version of the French Open Data Portal (data.gouv.fr) was the first State Startup to come into existence, back in June of 2013<sup><a href="#fn1" id="r1">[1]</a></sup>. Made publicly available in December that same year, it brought social features to a tool that used to be a catalog of spreadsheets —as in every other country at the time. The new interface created feedback loops from civil society, that could now publish reuses, towards the institutions producing data, thus allowing them to increase the quality of their datasets by leveraging the crowd. Being open-source, this tool is now used in other countries such as Luxembourg, transferring capabilities EU-wide.
 
 Another example is Mes Aides, a web application that helps citizens know which benefits they are entitled to. The base friction is citizens not claiming benefits they are eligible to due to the complexity of law. As a matter of fact, in 2012, up to 80 % of French citizens eligible to financial help for health insurance did not request it. A State Startup was incubated in February 2014, and made a service publicly available at mes-aides.gouv.fr in September. Two years in, over 1400 individuals assess each day their eligibility to 22 social benefits, for the majority in under 7 minutes. A large-scale evaluation of this service, led by independent researchers with controlled cohorts, is currently underway.
 
@@ -25,3 +25,8 @@ Our continued growth, our now 27 products, as well as our increasing number of p
 ## Lessons learnt
 
 We have learnt that the best strategy in digital transformation is delivery. Rather than trying to convince other stakeholders —be they fellow administrations, the private sector or individuals— to work towards a specific goal, it is more efficient to start working on it, while opening at the same time as many ways for contribution as possible. As feedback is truly listened to and taken action upon, a community starts shaping itself and the power of the crowd is leveraged. That support can then be shifted into resources, but also into political power to support larger transformation efforts, convincing more reluctant actors to consider digital transformation as an opportunity rather than a challenge.
+
+
+## Notes
+
+<span id="fn1"><a href="#r1">[1]</a></span> Several academic papers present this history and analyse the public value impact of the incubator. Alexandra Foucaud’s [When the French State works in startup mode](https://raw.github.com/wiki/sgmap/beta.gouv.fr/files/StateStartups-Foucaud.pdf) can give more detailed insight.
