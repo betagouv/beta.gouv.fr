@@ -1,5 +1,5 @@
 ---
-title: Les services publics numériques, une armée de males blancs trentenaires ?
+title: La diversité, pour des services numériques à l'image de la société
 ---
 
 C'est un constat qu'on peut aisément faire à la consultation de la page [Communauté](/communaute) de l'Incubateur: nous ne reflétons pas, dans les visages qui y sont affichés, la même diversité de population que celle qu'on peut voir en prenant le métro le matin.
