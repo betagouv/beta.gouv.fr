@@ -12,12 +12,12 @@
 
                     {% assign menu_items = site.pages | where_exp: 'page', 'page.menu_index > 0' | sort: 'menu_index' %}
                     {% for menu_item in menu_items %}
-                        {% assign translation = site.pages | where: 'ref', menu_item.ref | where: 'lang', 'en' %}
-                        {% if page.lang == 'en' and translation[0] %}
+                        {% assign translation = site.pages | where: 'ref', menu_item.ref | where: 'lang', 'en' | first %}
+                        {% if page.lang == 'en' and translation %}
                             <a class="item large screen only
-                                {% if page.url == translation[0].url %} active{%endif%}"
-                                href="{{ translation[0].url }}">
-                                {{ translation[0].title }}
+                                {% if page.url == translation.url %} active{%endif%}"
+                                href="{{ translation.url }}">
+                                {{ translation.title }}
                             </a>
                          {% else %}
                             <a class="item large screen only
@@ -29,16 +29,13 @@
                         {% endif %}
                     {% endfor %}
 
-                    {% assign switches = site.pages | where: 'ref', 'landing' %}
-                    {% for switch in switches %}
-                        {% if switch.lang != page.lang %}
-                            <a class="item large screen only
-                                {% if page.url == switch.url %} active{%endif%}"
-                                href="{{ switch.url }}">
-                                {{ switch.title }}
-                            </a>
-                        {% endif %}
-                    {% endfor %}
+                    {% assign landing_fr = site.pages | where: 'ref', 'landing' | where: 'lang', 'fr' | first %}
+                    {% assign landing_en = site.pages | where: 'ref', 'landing' | where: 'lang', 'en' | first %}
+                    {% if page.lang == 'fr' and landing_en %}
+                        <a class="item large screen only" href="{{ landing_en.url }}">English</a>
+                    {% else %}
+                        <a class="item large screen only" href="{{ landing_fr.url }}">Français</a>
+                    {% endif %}
                 </div>
             </nav>
         </header>
