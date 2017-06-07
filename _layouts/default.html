@@ -19,13 +19,18 @@
                                 href="{{ translation.url }}">
                                 {{ translation.title }}
                             </a>
+                         {% elsif page.lang == 'en' %}
+                            <a class="item large screen only
+                                {% if page.url == menu_item.url %} active{%endif%}"
+                                href="{{ menu_item.url }}">
+                                {{ menu_item.title }} (fr)
+                            </a>
                          {% else %}
                             <a class="item large screen only
                                 {% if page.url == menu_item.url %} active{%endif%}"
                                 href="{{ menu_item.url }}">
                                 {{ menu_item.title }}
                             </a>
-
                         {% endif %}
                     {% endfor %}
 
