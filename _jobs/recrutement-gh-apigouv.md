@@ -1,6 +1,5 @@
 ---
 title: api.gouv.fr recrute un ou une growth hacker
-category: recrutement
 ---
 
 **Ce poste a été pourvu.**

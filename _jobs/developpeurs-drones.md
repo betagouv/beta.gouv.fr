@@ -1,6 +1,5 @@
 ---
 title: Développeurs drones
-category: recrutement
 authors:
   - ivan.collombet
 ---

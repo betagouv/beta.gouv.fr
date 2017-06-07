@@ -1,6 +1,5 @@
 ---
 title: Community Manager
-category: recrutement
 startup: mes-aides
 ---
 

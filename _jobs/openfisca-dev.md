@@ -1,6 +1,5 @@
 ---
 title: Dev
-category: recrutement
 authors:
   - matti.schneider
   - florian.pagnoux

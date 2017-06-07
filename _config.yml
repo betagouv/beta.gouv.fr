@@ -27,6 +27,8 @@ collections:
     output: true
   authors:
     output: true
+  jobs:
+    output: true
 
 defaults:
   -
@@ -47,5 +49,12 @@ defaults:
       path: ""  # means "all files"
     values:
       layout: default
+  -
+    scope:
+      path: ""  # means "all files"
+      type: jobs
+    values:
+      layout: job
+      additional_css: post
 
 excerpt_separator: <!--more-->

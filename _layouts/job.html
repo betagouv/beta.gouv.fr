@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{% if page.startup %}
+    {% capture id %}/startup/{{ page.startup }}{% endcapture %}
+    {% for currentStartup in site.startup %}
+        {% if currentStartup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
+            {% assign startup = currentStartup %}
+        {% endif %}
+    {% endfor %}
+{% endif %}
+
+<div class="post-container">
+    <article class="post">
+        <h1>{% if startup %}{{ startup.title }}{% else %}beta.gouv.fr{% endif %} recrute un·e {{ page.title}}</h1>
+
+        <div class="excerpt">{{ page.excerpt }}</div>
+
+        {{ content | remove: page.excerpt }}
+
+        {% if startup %}
+            <aside>{% include startup-card.html description=startup %}</aside>
+        {% endif %}
+
+        <footer>
+            <p>Poste ouvert le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%d/%m/%Y" }}</time>.</p>
+            <div class="ui divider"></div>
+            <h3>Une question ?</h3>
+            <p>Écrivez-nous <a href="https://twitter.com/intent/tweet?text=%40BetaGouv%20Au%20sujet%20de%20{{ page.title | uri_escape }}%20%3a%20">@BetaGouv sur Twitter</a> ou envoyez-nous <a href="mailto:social@beta.gouv.fr?subject={{ page.title | uri_escape }}">un mail</a>.</p>
+            <p>Vous avez repéré une coquille ? <a href="https://github.com/sgmap/beta.gouv.fr/edit/master/{{ page.path }}">Corrigez-la</a> !</p>
+        </footer>
+
+    </article>
+</div>

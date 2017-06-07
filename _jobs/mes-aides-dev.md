@@ -1,6 +1,5 @@
 ---
 title: Full stack web dev
-category: recrutement
 startup: mes-aides
 ---
 

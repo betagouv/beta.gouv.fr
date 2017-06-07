@@ -1,6 +1,5 @@
 ---
 title: Product designer
-category: recrutement
 startup: boussole
 ---
 

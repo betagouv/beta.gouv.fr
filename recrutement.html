@@ -6,17 +6,17 @@ additional_css: blog
 
 <section class="ui container blog-container">
     <ul>
-    {% for post in site.categories.recrutement %}
+    {% for job in site.jobs %}
         <li class="ui segment blog-segment">
-            <a class="blog-segment-link" title="{{ post.title }}" href="{{ post.url }}"></a>
+            <a class="blog-segment-link" title="{{ job.title }}" href="{{ job.url }}"></a>
 
-            <a class="blog-title-link" href="{{ post.url }}">{{ post.title }}</a>
+            <a class="blog-title-link" href="{{ job.url }}">{{ job.title }}</a>
 
             <div>
-                {{ post.excerpt }}
+                {{ job.excerpt }}
             </div>
 
-            <a href="{{ post.url }}">Voir l'offre</a>
+            <a href="{{ job.url }}">Voir l'offre</a>
         </li>
     {% endfor %}
     </ul>

@@ -11,7 +11,7 @@ ref: blog
 
 <section class="ui container blog-container">
     <ul>
-    {% for post in site.posts %}{% unless post.category == 'recrutement' %}
+    {% for post in site.posts %}
         <li class="ui segment blog-segment">
             <a class="blog-segment-link" title="{{ post.title }}" href="{{ post.url }}"></a>
 
@@ -56,6 +56,6 @@ ref: blog
 
             <a href="{{ post.url }}">Lire la suite...</a>
         </li>
-    {% endunless %}{% endfor %}
+    {% endfor %}
     </ul>
 </section>
