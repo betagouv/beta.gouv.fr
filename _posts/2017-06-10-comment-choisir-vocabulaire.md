@@ -31,8 +31,6 @@ J'ai donc combiné plusieurs sources de données pour objectiver la fréquence d
 
 ### Résultats Google
 
-![Filtrage par pays dans la recherche Google](/img/posts/2017-06-10-comment-choisir-vocabulaire/google-france.png)
-
 Le nombre de résultats Google permet d'évaluer la fréquence d'utilisation sur le web. Dans ce cas, deux précautions à prendre :
 
 1. Le terme à rechercher doit être entouré de guillemets (`"`) pour s'assurer que c'est bien l'expression exacte qui est cherchée.
@@ -41,9 +39,7 @@ Le nombre de résultats Google permet d'évaluer la fréquence d'utilisation sur
 Attention également à ce que Google ne corrige pas tout seul votre recherche ! Même si cela donne déjà une information, cela rend la comparaison impossible.
 
 
-### Ngram
-
-
+###
 
 
 | Syntaxe             | Nombre de résultats Google | Nombre d’occurrences ngram 2008 | Nombre de résultats Google legifrance | Google Trends France septembre 2014 |
