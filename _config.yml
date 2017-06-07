@@ -55,6 +55,5 @@ defaults:
       type: jobs
     values:
       layout: job
-      additional_css: post
 
 excerpt_separator: <!--more-->
