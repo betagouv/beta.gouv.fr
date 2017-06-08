@@ -1,6 +1,6 @@
 ---
 title: Ma VAE, mon diplôme - MVMD
-mission: Obtenez un diplôme grâce à vos compétences 
+mission: Obtenir un diplôme grâce à vos compétences 
 status: construction
 contact: marie.briche@beta.gouv.fr
 start: 2017-05-01
@@ -24,5 +24,5 @@ Malheureusement pour Marie-Cécile, __ce dispositif est méconnu__ et reste __co
 
 MVMD aidera Marie-Cécile a trouver le diplôme qui lui correspond suivant son expérience et ses compétences. Pour tous les demandeurs d'emploi, les actifs, les conseillers emplois ainsi que les employeurs, MVMD deviendra le moyen le plus simple de se certifier. __Nous accompagnerons le candidat dans sa démarche : diagnostic des compétences, identification des certifications et des certificateurs, mise en oeuvre de la démarche de VAE__.
 
-Nous déploierons MVMD en Ile de France sur les certifications les plus populaires (CAP petite enfance, DEAS, TP ADVF...) avant un déploiement national. MVMD sera présent sur l'emploi-store, l'espace employeur, dans le script d'inscription du demandeur d'emploi sur pole-emploi.fr, ainsi que sur les job boards afin de proposer un diplôme selon le profil du candidat. 
+Nous déploierons MVMD en Île-de-France sur les certifications les plus populaires (CAP petite enfance, DEAS, TP ADVF…) avant un déploiement national. MVMD sera présent sur l'emploi-store, l'espace employeur, dans le script d'inscription du demandeur d'emploi sur pole-emploi.fr, ainsi que sur les job boards afin de proposer un diplôme selon le profil du candidat. 
 
