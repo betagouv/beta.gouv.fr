@@ -1,6 +1,9 @@
 ---
 title: Contact
 layout: text
+permalink: /contact
+lang: fr
+ref: contact
 ---
 
 ## Retours sur un service

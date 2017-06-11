@@ -4,6 +4,9 @@ additional_css:
 - dashboard
 - startup-presentation
 additional_js: homepage
+permalink: /
+lang: fr
+ref: landing
 ---
 
 <section id="intro-header">
@@ -23,7 +26,7 @@ additional_js: homepage
 </section>
 
 <section id="dashboard">
-    {% include dashboard.html phases=site.phases %}
+    {% include dashboard.html phases=site.data.fr.phases %}
 
     <a href="startups" class="primary success cta">Explorez nos {{ site.startup | size }} Startups d'État&nbsp;&nbsp;➤</a>
 </section>

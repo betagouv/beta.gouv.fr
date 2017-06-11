@@ -1,6 +1,9 @@
 ---
 title: Rédiger une fiche produit
 layout: text
+permalink: /ficheproduit
+lang: fr
+ref: product-card
 ---
 
 ## Rédiger une fiche produit

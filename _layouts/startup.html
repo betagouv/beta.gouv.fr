@@ -2,10 +2,10 @@
 layout: default
 ---
 {% capture status %}
-    {% if site.phases.incubation[page.status].name %}
-        en {{ site.phases.incubation[page.status].name }}
+    {% if site.data.fr.phases.incubation[page.status].name %}
+        en {{ site.data.fr.phases.incubation[page.status].name }}
     {% else %}
-        {{ site.phases.endgame[page.status].singular }}
+        {{ site.data.fr.phases.endgame[page.status].singular }}
     {% endif %}
 {% endcapture %}
 <div class="ui container padded">

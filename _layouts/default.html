@@ -6,18 +6,41 @@
         <header>
             <nav class="ui secondary menu">
                 <div class="right menu">
-                    {% if page.url != "/" and page.url != "/en/" %}
+                    {% if page.ref != 'landing' %}
                         <a class="item" id="logo" href="/">beta.gouv.fr</a>
                     {% endif %}
 
                     {% assign menu_items = site.pages | where_exp: 'page', 'page.menu_index > 0' | sort: 'menu_index' %}
                     {% for menu_item in menu_items %}
-                        <a class="item large screen only
-                            {% if page.url == menu_item.url %} active{%endif%}"
-                            href="{{ menu_item.url }}">
-                            {{ menu_item.title }}
-                        </a>
+                        {% assign translation = site.pages | where: 'ref', menu_item.ref | where: 'lang', 'en' | first %}
+                        {% if page.lang == 'en' and translation %}
+                            <a class="item large screen only
+                                {% if page.url == translation.url %} active{%endif%}"
+                                href="{{ translation.url }}">
+                                {{ translation.title }}
+                            </a>
+                         {% elsif page.lang == 'en' %}
+                            <a class="item large screen only
+                                {% if page.url == menu_item.url %} active{%endif%}"
+                                href="{{ menu_item.url }}">
+                                {{ menu_item.title }} (fr)
+                            </a>
+                         {% else %}
+                            <a class="item large screen only
+                                {% if page.url == menu_item.url %} active{%endif%}"
+                                href="{{ menu_item.url }}">
+                                {{ menu_item.title }}
+                            </a>
+                        {% endif %}
                     {% endfor %}
+
+                    {% assign landing_fr = site.pages | where: 'ref', 'landing' | where: 'lang', 'fr' | first %}
+                    {% assign landing_en = site.pages | where: 'ref', 'landing' | where: 'lang', 'en' | first %}
+                    {% if page.lang == 'fr' and landing_en %}
+                        <a class="item large screen only" href="{{ landing_en.url }}">English</a>
+                    {% else %}
+                        <a class="item large screen only" href="{{ landing_fr.url }}">Français</a>
+                    {% endif %}
                 </div>
             </nav>
         </header>

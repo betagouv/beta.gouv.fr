@@ -3,6 +3,9 @@ title: Portefeuille
 menu_index: 1
 additional_css: portfolio
 additional_css: dashboard
+permalink: /startups
+lang: fr
+ref: portfolio
 ---
 
 <h1 class="site-description">
@@ -11,16 +14,16 @@ additional_css: dashboard
 </h1>
 
 <section id="dashboard">
-    {% include dashboard.html phases=site.phases %}
+    {% include dashboard.html phases=site.data.fr.phases %}
 </section>
 
-{% for phase in site.phases.incubation %}
+{% for phase in site.data.fr.phases.incubation %}
     {% assign startups = site.startup | where:'status',phase[0] %}
     <section id="{{ phase[0] }}" class="ui three stackable doubling cards container">
         <h2 class="ui divider horizontal">Nos Startups d'État en {{ phase[1].name }}</h2>
         <div>
-            {% capture phase_description %}_phases/{{phase[0]}}.md{% endcapture %}
-            {% capture phase_description %}{% include_relative {{phase_description}} %}{% endcapture %}
+            {% capture phase_description %}phases/{{phase[0]}}.md{% endcapture %}
+            {% capture phase_description %}{% include {{phase_description}} %}{% endcapture %}
             {{ phase_description | markdownify }}
         </div>
 
@@ -30,13 +33,13 @@ additional_css: dashboard
     </section>
 {% endfor %}
 
-{% for phase in site.phases.endgame %}
+{% for phase in site.data.fr.phases.endgame %}
     {% assign startups = site.startup | where:'status',phase[0] %}
     <section id="{{ phase[0] }}" class="ui three stackable doubling cards container">
         <h2 class="ui divider horizontal">Nos Startups d'État {{ phase[1].name }}</h2>
         <div>
-            {% capture phase_description %}_phases/{{phase[0]}}.md{% endcapture %}
-            {% capture phase_description %}{% include_relative {{phase_description}} %}{% endcapture %}
+            {% capture phase_description %}phases/{{phase[0]}}.md{% endcapture %}
+            {% capture phase_description %}{% include {{phase_description}} %}{% endcapture %}
             {{ phase_description | markdownify }}
         </div>
 
