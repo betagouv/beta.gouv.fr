@@ -32,6 +32,6 @@ Et pour les particuliers, il s’agira :
 
 Nous travaillons avec les villes de __Amiens__, __Arles__, __Dijon__, __Romainville__ et __Malakoff__.
 
-__Romainville__ ([Jardin'émoi](http://romainville.plante-et-moi.fr/jardin-emoi/)) et __Dijon__ ([J'adopte un arbre](jadopteunarbre.dijon.fr)) seront les premières collectivités à avoir mis en place le service, qui est fourni en marque blanche pour être intégré dans ses espaces numériques existants.
+__Romainville__ ([Jardin'émoi](http://romainville.plante-et-moi.fr/jardin-emoi/)) et __Dijon__ ([J'adopte un arbre](http://jadopteunarbre.dijon.fr)) seront les premières collectivités à avoir mis en place le service, qui est fourni en marque blanche pour être intégré dans ses espaces numériques existants.
 
 (Source de l'image d'en-tête: [New crops](https://www.flickr.com/photos/22748341@N00/2737299930/) )
