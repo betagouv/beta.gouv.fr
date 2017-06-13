@@ -1,10 +1,11 @@
 ---
 title: Plante & Moi
 mission: Augmenter la présence de la nature en ville
+repository: https://github.com/sgmap/plante-et-moi
 status: construction
-contact: celia.henry@developpement-durable.gouv.fr
+contact: biodiversite@beta.gouv.fr
 start: 2016-10-01
-owner: Ministère de l'Environnement, de l'Energie et de la Mer
+owner: Ministère de la Transition écologique et solidaire
 screenshot: /img/startup/biodiversite.jpg
 ---
 
@@ -29,6 +30,8 @@ Et pour les particuliers, il s’agira :
 * de recevoir des conseils de plantation et d’entretien au fil des saisons,
 * de voir ce que font les voisins, se donner des idées et se motiver.
 
-__Arles__, __Romainville__ et __Dijon__  seront les premières collectivités à mettre en place le service, qui sera notamment fourni en marque blanche pour être intégré dans ses espaces numériques existants.
+Nous travaillons avec les villes de __Amiens__, __Arles__, __Dijon__, __Romainville__ et __Malakoff__.
+
+__Romainville__ ([Jardin'émoi](http://romainville.plante-et-moi.fr/jardin-emoi/)) et __Dijon__ ([J'adopte un arbre](jadopteunarbre.dijon.fr)) seront les premières collectivités à avoir mis en place le service, qui est fourni en marque blanche pour être intégré dans ses espaces numériques existants.
 
 (Source de l'image d'en-tête: [New crops](https://www.flickr.com/photos/22748341@N00/2737299930/) )
