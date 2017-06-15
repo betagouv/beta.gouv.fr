@@ -1,5 +1,5 @@
 ---
-title: Vague de recrutements
+title: Plusieurs développeur·e·s
 authors:
     - pierre.pezziardi
 ---

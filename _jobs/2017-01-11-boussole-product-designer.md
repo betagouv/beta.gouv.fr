@@ -1,5 +1,5 @@
 ---
-title: Product designer
+title: Product designer H/F
 startup: boussole
 ---
 

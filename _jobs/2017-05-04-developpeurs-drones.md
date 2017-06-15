@@ -1,5 +1,5 @@
 ---
-title: Développeurs drones
+title: Développeur·e·s drones
 authors:
   - ivan.collombet
 ---
