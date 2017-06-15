@@ -1,7 +1,7 @@
 ---
 title: Suivi d'audience et vie privée
 layout: text
-permalink: /suivi
+permalink: /suivi/
 lang: fr
 ref: privacy
 ---
