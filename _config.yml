@@ -29,6 +29,7 @@ collections:
     output: true
   jobs:
     output: true
+    permalink: /recrutement/:year/:month/:day/:title.html
 
 defaults:
   -
