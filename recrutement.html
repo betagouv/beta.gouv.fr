@@ -6,7 +6,8 @@ additional_css: blog
 
 <section class="ui container blog-container">
     <ul>
-    {% for job in site.jobs %}
+    {% assign jobs = site.jobs | sort: 'date' | reverse %}
+    {% for job in jobs %}
         <li class="ui segment blog-segment">
             <a class="blog-segment-link" title="{{ job.title }}" href="{{ job.url }}"></a>
 
