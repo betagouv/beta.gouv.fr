@@ -18,3 +18,5 @@ Notre wiki aborde des sujets très divers allant de l'achat de prestations à l'
 Il reflète, tout comme notre blog, tout comme notre site beta.gouv.fr, le fait que nous cherchons en permanence à valoriser l'apprentissage à travers l'action.
 
 Si vous souhaitez entrer dans les coulisses de l'Incubateur, nous vous invitons à [le découvrir](https://github.com/sgmap/beta.gouv.fr/wiki/), en espérant qu'il vous donne envie de nous rencontrer.
+
+<small><a title="pen and paper" href="https://flickr.com/photos/mlpdesign/23643416">pen and paper</a> par <a href="https://flickr.com/people/mlpdesign">mlpdesign</a> sous license <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons (BY)</a></small>
