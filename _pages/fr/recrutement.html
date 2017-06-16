@@ -18,6 +18,8 @@ ref: jobs
                     {% assign startup = currentStartup %}
                 {% endif %}
             {% endfor %}
+        {% else %}
+            {% assign startup = false %}
         {% endif %}
 
         <li class="ui segment blog-segment">
