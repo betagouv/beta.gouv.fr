@@ -1,5 +1,5 @@
 ---
-title: Growth hacker H/F
+title: Growth hacker
 startup: apigouv
 ---
 

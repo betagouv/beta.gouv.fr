@@ -1,5 +1,5 @@
 ---
-title: Dev H/F
+title: Dev
 startup: openfisca
 authors:
   - matti.schneider

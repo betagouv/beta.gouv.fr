@@ -1,5 +1,5 @@
 ---
-title: Full stack web dev H/F
+title: Full stack web dev
 startup: mes-aides
 ---
 

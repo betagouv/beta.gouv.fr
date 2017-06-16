@@ -1,5 +1,5 @@
 ---
-title: Community Manager H/F
+title: Community Manager
 startup: mes-aides
 ---
 
