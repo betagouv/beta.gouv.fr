@@ -11,10 +11,19 @@ ref: jobs
     <ul>
     {% assign jobs = site.jobs | sort: 'date' | reverse %}
     {% for job in jobs %}
+        {% if job.startup %}
+            {% capture id %}/startup/{{ job.startup }}{% endcapture %}
+            {% for currentStartup in site.startup %}
+                {% if currentStartup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
+                    {% assign startup = currentStartup %}
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+
         <li class="ui segment blog-segment">
             <a class="blog-segment-link" title="{{ job.title }}" href="{{ job.url }}"></a>
 
-            <a class="blog-title-link" href="{{ job.url }}">{{ job.title }}</a>
+            <a class="blog-title-link" href="{{ job.url }}">{% if startup %}{{ startup.title }}{% else %}beta.gouv.fr{% endif %} recrute {{ job.title | downcase }}</a>
 
             <div>
                 {{ job.excerpt }}
