@@ -1,6 +1,5 @@
 ---
-title: Community Manager
-category: recrutement
+title: Community Manager H/F
 startup: mes-aides
 ---
 

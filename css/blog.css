@@ -29,7 +29,6 @@ a.blog-segment-link {
 
 a.blog-title-link {
     display: block;
-    margin-top: 1em;
     padding: 0;
     font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
     font-weight: 700;
@@ -37,6 +36,10 @@ a.blog-title-link {
     font-size: 1.2em;
     text-decoration: none;
     color: rgba(0,0,0,.87);
+}
+
+.blog-container .ui.horizontal.list + a.blog-title-link {
+    margin-top: 1em;
 }
 
 .blog-parution-date {

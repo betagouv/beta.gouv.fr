@@ -1,0 +1,38 @@
+---
+title: Recrutement
+menu_index: 4
+additional_css: blog
+permalink: /recrutement/
+lang: fr
+ref: jobs
+---
+
+<section class="ui container blog-container">
+    <ul>
+    {% assign jobs = site.jobs | sort: 'date' | reverse %}
+    {% for job in jobs %}
+        {% if job.startup %}
+            {% capture id %}/startup/{{ job.startup }}{% endcapture %}
+            {% for currentStartup in site.startup %}
+                {% if currentStartup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
+                    {% assign startup = currentStartup %}
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+
+        <li class="ui segment blog-segment">
+            <a class="blog-segment-link" title="{{ job.title }}" href="{{ job.url }}"></a>
+
+            <a class="blog-title-link" href="{{ job.url }}">{% if startup %}{{ startup.title }}{% else %}beta.gouv.fr{% endif %} recrute {{ job.title | downcase }}</a>
+
+            <div class="blog-parution-date">Paru le {{ job.date | date: "%d/%m/%Y" }}</div>
+
+            <div>
+                {{ job.excerpt }}
+            </div>
+
+            <a href="{{ job.url }}">Voir l'offre</a>
+        </li>
+    {% endfor %}
+    </ul>
+</section>

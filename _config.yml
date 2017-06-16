@@ -27,6 +27,9 @@ collections:
     output: true
   authors:
     output: true
+  jobs:
+    output: true
+    permalink: /recrutement/:year/:month/:day/:title.html
 
 defaults:
   -
@@ -47,5 +50,11 @@ defaults:
       path: ""  # means "all files"
     values:
       layout: default
+  -
+    scope:
+      path: ""  # means "all files"
+      type: jobs
+    values:
+      layout: job
 
 excerpt_separator: <!--more-->

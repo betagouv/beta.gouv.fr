@@ -1,6 +1,6 @@
 ---
-title: Dev
-category: recrutement
+title: Dev H/F
+startup: openfisca
 authors:
   - matti.schneider
   - florian.pagnoux

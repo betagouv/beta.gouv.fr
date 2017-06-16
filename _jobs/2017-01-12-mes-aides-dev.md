@@ -1,6 +1,5 @@
 ---
-title: Full stack web dev
-category: recrutement
+title: Full stack web dev H/F
 startup: mes-aides
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Rédiger une fiche produit
 layout: text
-permalink: /ficheproduit
+permalink: /ficheproduit/
 lang: fr
 ref: product-card
 ---

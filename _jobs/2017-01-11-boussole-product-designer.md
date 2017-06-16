@@ -1,6 +1,5 @@
 ---
-title: Product designer
-category: recrutement
+title: Product designer H/F
 startup: boussole
 ---
 

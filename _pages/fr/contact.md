@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: text
-permalink: /contact
+permalink: /contact/
 lang: fr
 ref: contact
 ---
