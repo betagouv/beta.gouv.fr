@@ -15,6 +15,8 @@ layout: default
     <article class="post">
         <h1>{% if startup %}{{ startup.title }}{% else %}beta.gouv.fr{% endif %} recrute {{ page.title | downcase }}</h1>
 
+        <p>Poste ouvert le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%d/%m/%Y" }}</time>.</p>
+
         <div class="excerpt">{{ page.excerpt }}</div>
 
         {{ content | remove: page.excerpt }}
@@ -24,7 +26,6 @@ layout: default
         {% endif %}
 
         <footer>
-            <p>Poste ouvert le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%d/%m/%Y" }}</time>.</p>
             <div class="ui divider"></div>
             <h3>Une question ?</h3>
             <p>Écrivez-nous <a href="https://twitter.com/intent/tweet?text=%40BetaGouv%20Au%20sujet%20de%20{{ page.title | uri_escape }}%20%3a%20">@BetaGouv sur Twitter</a> ou envoyez-nous <a href="mailto:social@beta.gouv.fr?subject={{ page.title | uri_escape }}">un mail</a>.</p>
