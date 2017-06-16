@@ -5,6 +5,8 @@ authors:
 ---
 Dans certaines entreprises on distribue un « manuel de l'employé ». Il permet de s'orienter, de savoir quoi faire le premier jour et où poser ses affaires. Nous pensons qu'un « manuel de l'employé » est une excellente idée, et qu'elle est meilleure encore s'il est collaboratif et ouvert.
 
+<!--more-->
+
 À l'image d'un certain nombre d'entreprises du privé, comme [Basecamp](https://github.com/basecamp/handbook) ou [Valve](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf), nous avons dès le début décidé de le [rendre public](https://github.com/sgmap/beta.gouv.fr/wiki/). Si vous envisagez de travailler chez nous, ou de travailler avec nous, il vous permettra de savoir à quoi vous attendre, avant même le premier jour.
 
 Nous avons également tenu à en faire un document évolutif que chacun a le droit et le devoir d'entretenir, pour l'améliorer ou le mettre à jour. C'est pourquoi il a dès le début pris la forme d'un [Wiki](https://fr.wikipedia.org/wiki/Wiki) - un site Web dont chaque page peut être modifée par tous les membres de notre communauté sans distinction de rôle ou de fonction et sans avoir à demander l'autorisation.
