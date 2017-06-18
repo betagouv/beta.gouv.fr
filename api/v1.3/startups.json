@@ -1,0 +1,13 @@
+---
+layout: null
+---
+{ "links":
+    { "self": "{{ site.url }}/startups" }
+, "data":{% assign startups = site.startup | where_exp: 'startup', 'startup.status != death' %}{% for startup in startups  %}
+    {% if forloop.first %}  [ {% else %}  , {% endif %}{ "id"        : "{{ startup.id | remove: '/startup/' }}"
+        , "type"      : "startup"
+        , "attributes":
+          { "name"          : "{{ startup.title }}"
+          , "pitch"         : "{{ startup.mission }}"
+          , "status"        : "{{ startup.status}}"
+          , "screenshot-url": "{{ site.url}}{% if startup.screenshot %}{{ startup.screenshot }}{% else %}/img{{ startup.id }}.png{% endif %}" } }{% endfor %} ] }
