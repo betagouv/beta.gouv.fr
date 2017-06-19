@@ -1,0 +1,21 @@
+---
+layout: null
+---
+
+{ "links":
+    { "self": "{{ site.url }}/startups" }
+, "data":
+    [
+    {% assign startups = site.startup | where_exp: 'startup', 'startup.status != death' %}
+    {% for startup in startups %}
+        {% capture fallback_screenshot_path %}/img{{ startup.id }}.png{% endcapture %}
+        { "id"        : "{{ startup.id | remove: '/startup/' }}"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "{{ startup.title }}"
+            , "pitch"         : "{{ startup.mission }}"
+            , "status"        : "{{ startup.status}}"
+            , "screenshot-url": "{{ site.url}}{{ startup.screenshot | default: fallback_screenshot_path }}" } }
+        {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ] }
