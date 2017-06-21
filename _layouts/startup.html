@@ -57,7 +57,7 @@ layout: default
         </div>
 
         {% assign startup_id = page.id | replace:"/startup/" %}
-        {% assign jobs = site.jobs | where: "startup",startup_id | sort: 'date' | reverse %}
+        {% assign jobs = site.jobs | where: "startup",startup_id | where:"open",true | sort: 'date' | reverse %}
         {% if jobs[0] %}
             <div class="content">
                 <div class ="ui text container">

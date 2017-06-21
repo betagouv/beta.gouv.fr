@@ -1,6 +1,7 @@
 ---
 title: Community Manager
 startup: mes-aides
+open: false
 ---
 
 **Ce poste a été pourvu.**

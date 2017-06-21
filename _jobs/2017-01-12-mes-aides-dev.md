@@ -1,6 +1,7 @@
 ---
 title: Full stack web dev
 startup: mes-aides
+open: false
 ---
 
 **Ce poste a été pourvu.**

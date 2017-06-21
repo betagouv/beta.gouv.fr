@@ -1,6 +1,7 @@
 ---
 title: Product designer
 startup: boussole
+open: false
 ---
 
 **Ce poste a été pourvu.**
