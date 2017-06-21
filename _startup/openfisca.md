@@ -3,7 +3,7 @@ title: OpenFisca
 mission: Modèles ouverts de calcul des systèmes socio-fiscaux
 link: https://www.openfisca.fr/
 repository: https://github.com/openfisca
-status: consolidation
+status: success
 contact: contact@openfisca.fr
 logo:  https://www.openfisca.fr/hotlinks/logo-openfisca.svg
 start: 2011-11-06
