@@ -4,7 +4,7 @@ mission: Trouver des outils numériques pour améliorer la démocratie
 link: https://ogptoolbox.org/
 repository: https://github.com/ogptoolbox/ogptoolbox-ui
 status: success
-contact: paula.forteza@modernisation.gouv.fr
+contact: emmanuel@raviart.com
 logo: /img/logos/ogptoolbox.png
 start: 2016-06-08
 owner: Etalab - Open Government Partnership
