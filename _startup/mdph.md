@@ -1,12 +1,13 @@
 ---
 title: MDPH en ligne
-mission: Déposer un dossier de demande d’aides en ligne pour une situation de handicap
+mission: Faciliter les demandes de compensation du handicap auprès des MDPH
 link: https://mdph.beta.gouv.fr
-repository: https://github.com/sgmap/impact
+repository: https://github.com/sgmap/mdph
 status: passation
 contact: contact@mdph.beta.gouv.fr
 start: 2014-12-01
 owner: Caisse de solidarité pour l'autononomie (CNSA)
+stats: true
 ---
 
 Prestation de compensation du handicap (PCH), allocation d’éducation de l’enfant handicapé (AEEH), allocation aux adultes handicapés (AAH), carte d’invalidité, de priorité ou de stationnement… ce sont autant de démarches à réaliser pour les personnes en situation de handicap ou leurs aidants.
