@@ -1,7 +1,7 @@
 ---
 title: Community Manager
 startup: mes-aides
-open: false
+open: true
 ---
 
 Dans un premier temps, le poste se concentrera sur les besoins de [Mes Aides](https://mes-aides.gouv.fr), un simulateur qui permet à toute personne d’évaluer ses droits à plus d’une vingtaine de prestations sociales. Lancé en 2014, le service est le produit grand public le plus mature de l’Incubateur.
