@@ -60,8 +60,9 @@ Le nom du fichier est important : il doit correspondre au nom de la personne, s
 
 ## Ajouter une offre d'emploi
 
-### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/master/_posts?filename=_jobs/AAAA-MM-DD-nom_offre.md&value=---%0d%0atitle%3a+Nom+de+l%27offre%0d%0astartup%3a+identifiant_startup++%23+identifiant+de+la+startup+pour+laquelle+le+recrutement+est+fait+%3b+supprimer+la+ligne+si+la+startup+n%27existe+pas+encore%0d%0a---%0d%0a%0d%0a%C3%89crire+ici+le+descriptif+du+poste.+Attention+%C3%A0+la+neutralit%C3%A9+de+genre+!%0d%0a%0d%0a**Pensez+%C3%A0+modifier+le+nom+de+ce+fichier+%3a+il+doit+%C3%AAtre+au+format+%60AAAA-MM-DD-nom_offre.md%60+!**%0d%0aO%C3%B9+%60AAAA-MM-DD%60+est+la+date+%C3%A0+laquelle+vous+souhaitez+que+l%27offre+soit+publi%C3%A9e.) :smiley:
+### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/master/_posts?filename=_jobs/AAAA-MM-DD-nom_offre.md&value=---%0d%0atitle%3a+Nom+de+l%27offre%0d%0astartup%3a+identifiant_startup++%23+identifiant+de+la+startup+pour+laquelle+le+recrutement+est+fait+%3b+supprimer+la+ligne+si+la+startup+n%27existe+pas+encore%0aopen%3a+true%0d%0a---%0d%0a%0d%0a%C3%89crire+ici+le+descriptif+du+poste.+Attention+%C3%A0+la+neutralit%C3%A9+de+genre+!%0d%0a%0d%0a**Pensez+%C3%A0+modifier+le+nom+de+ce+fichier+%3a+il+doit+%C3%AAtre+au+format+%60AAAA-MM-DD-nom_offre.md%60+!**%0d%0aO%C3%B9+%60AAAA-MM-DD%60+est+la+date+%C3%A0+laquelle+vous+souhaitez+que+l%27offre+soit+publi%C3%A9e.) :smiley:
 
+> Une fois l'offre pourvue, bien penser à changer la valeur du flag `open` et de la mettre à `false`.
 
 ## Modifier le contenu éditorial
 

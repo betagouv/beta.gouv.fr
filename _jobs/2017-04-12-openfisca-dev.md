@@ -4,13 +4,12 @@ startup: openfisca
 authors:
   - matti.schneider
   - florian.pagnoux
+open: false
 ---
 
-**Ce poste a été pourvu.**
+OpenFisca cherche un·e dev compétent en Python et / ou JS, et intéressé·e par découvrir l'autre. Apportez vos compétences pour rendre le droit calculable dans le monde entier et outiller d'autres devs !
 
 <!--more-->
-
-OpenFisca cherche un·e dev compétent en Python et / ou JS, et intéressé·e par découvrir l'autre. Apportez vos compétences pour rendre le droit calculable dans le monde entier et outiller d'autres devs !
 
 Vous rejoindrez l'[équipe autonome](https://beta.gouv.fr/2016/11/28/equipes-autonomes) qui développe OpenFisca.
 

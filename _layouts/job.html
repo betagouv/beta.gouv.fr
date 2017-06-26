@@ -17,6 +17,10 @@ layout: default
 
         <p>Poste ouvert le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%d/%m/%Y" }}</time>.</p>
 
+        {% unless page.open %}
+            {{ "**Ce poste a été pourvu.**" | markdownify }}
+        {% endunless %}
+
         <div class="excerpt">{{ page.excerpt }}</div>
 
         {{ content | remove: page.excerpt }}

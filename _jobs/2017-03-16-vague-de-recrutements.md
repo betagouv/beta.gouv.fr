@@ -2,6 +2,7 @@
 title: Plusieurs développeur·e·s
 authors:
     - pierre.pezziardi
+open: true
 ---
 
 Une fois n'est pas coutume, ce post annonce l'ouverture de plusieurs postes en CDD (3 ans) et pour des prestataires indépendants dans les différents produits de l'incubateur.

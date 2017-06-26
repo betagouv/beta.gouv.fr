@@ -2,6 +2,7 @@
 title: Développeur·e·s drones
 authors:
   - ivan.collombet
+open: true
 ---
 
 `beta.gouv.fr` recherche deux développeur·e·s indépendant·e·s pour construire un système national d’enregistrement et de géolocalisation en temps réel des drones civils.
