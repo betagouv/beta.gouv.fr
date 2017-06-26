@@ -1,7 +1,7 @@
 ---
 title: Full stack web dev
 startup: mes-aides
-open: false
+open: true
 ---
 
 Mes Aides cherche un·e dev web full-stack, compétent·e en JS, et intéressé·e par l'ops. Venez aider des dizaines de milliers de personnes à accéder à leurs droits chaque jour !
