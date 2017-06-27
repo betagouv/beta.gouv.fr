@@ -1,7 +1,5 @@
 ---
 title: Plusieurs développeur·e·s
-authors:
-    - pierre.pezziardi
 open: true
 ---
 
