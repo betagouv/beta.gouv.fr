@@ -2,6 +2,7 @@
 title: API Drones
 mission: Une meilleure connaissance du ciel pour plus de sécurité et d'innovation
 link: https://drone.beta.gouv.fr/developers/
+repository: https://framagit.org/drone
 status: construction
 contact: yohan.boniface@data.gouv.fr
 start: 2017-06-01
