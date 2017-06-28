@@ -8,16 +8,13 @@ start: 2017-06-01
 owner: SGDSN
 ---
 
-Plus de 300 000 objets volants non identifiés
-=================================================
+## Plus de 300 000 objets volants non identifiés
 
 L’espace aérien proche est en train de devenir, comme les routes au cours du siècle dernier, une zone de circulation massive. Il existe déjà en France près de 300 000 drones et ce nombre est en augmentation rapide. Aucun système ne permet aujourd’hui de suivre et de coordonner leurs vols.
 
 A compter du 1er juillet 2018, les possesseurs de drones de loisirs devront enregistrer les drones dépassant un certain seuil de masse et les équiper d’un dispositif de signalisation. L’API Drones tire parti de ce nouveau cadre réglementaire pour développer une infrastructure rendant les vols plus sûrs et contribuant à l’aménagement d’un territoire propice à l’utilisation des drones pour des usages industriels, agricoles ou récréatifs.
 
-
-Localiser les drones pour créer des services innovants
-============================================
+## Localiser les drones pour créer des services innovants
 
 L’API Drones permet de collecter et d’utiliser les données relatives à l’identité et à la localisation de ces objets volants.
 
