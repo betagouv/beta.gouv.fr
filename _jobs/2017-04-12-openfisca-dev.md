@@ -1,9 +1,6 @@
 ---
 title: Dev
 startup: openfisca
-authors:
-  - matti.schneider
-  - florian.pagnoux
 open: false
 ---
 

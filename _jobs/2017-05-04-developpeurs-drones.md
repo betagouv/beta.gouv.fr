@@ -1,7 +1,5 @@
 ---
 title: Développeur·e·s drones
-authors:
-  - ivan.collombet
 open: false
 ---
 
