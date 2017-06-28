@@ -1,6 +1,6 @@
 ---
 title: Growth hacker
-startup: apigouv
+startup: api.gouv.fr
 open: false
 ---
 

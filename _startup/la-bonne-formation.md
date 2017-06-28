@@ -9,6 +9,8 @@ logo: https://cloud.githubusercontent.com/assets/1038499/12721825/f6081cf6-c901-
 start: 2015-05-01
 owner: Pôle emploi
 stats: true
+redirect_from:
+  - /startup/labonneformation
 ---
 
 Enfin un annuaire complet des formations en France ! Et pour vous permettre de faire le meilleur choix, les formations sont triées par Taux de Retour à l'Emploi dans les 12 mois : grâce aux données internes de Pôle emploi nous savons vous dire quelle formation est le plus susceptible d'accélérer votre retour à l'emploi.

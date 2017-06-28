@@ -6,7 +6,9 @@ status: construction
 contact: biodiversite@beta.gouv.fr
 start: 2016-10-01
 owner: Ministère de la Transition écologique et solidaire
-screenshot: /img/startup/biodiversite.jpg
+screenshot: /img/startup/plante-et-moi.jpg
+redirect_from:
+  - /startup/biodiversite
 ---
 
 De plus en plus de programmes de __végétalisation de l’espace public__ par les citoyens sont lancés par les communes de France.
