@@ -1,7 +1,7 @@
 ---
 title: API Drones
 mission: Une meilleure connaissance du ciel pour plus de sécurité et d'innovation
-repository: https://drone.beta.gouv.fr/developers/
+link: https://drone.beta.gouv.fr/developers/
 status: construction
 contact: yohan.boniface@data.gouv.fr
 start: 2017-06-01
