@@ -34,7 +34,7 @@ Deuxième responsabilité : **incarner** la solution qu’il pense mettre en œu
 
 Incarner sa solution c’est aussi très vite écrire **la fiche produit** : formuler en moins d’une page le problème, les grands axes de sa solution et sa stratégie de « mise en marché ».
 
-Comme on peut le voir sur [cet exemple de fiche produit de la Bonne Boite](https://beta.gouv.fr/startup/labonneboite.html), le format tient plus d’un communiqué de presse dans un futur probable que d’une spécification détaillée. Ici aussi on se focalise sur la résolution du problème plutôt que sur les caractéristiques visibles de la solution numérique !
+Comme on peut le voir sur [cet exemple de fiche produit de la Bonne Boite](https://beta.gouv.fr/startup/la-bonne-boite.html), le format tient plus d’un communiqué de presse dans un futur probable que d’une spécification détaillée. Ici aussi on se focalise sur la résolution du problème plutôt que sur les caractéristiques visibles de la solution numérique !
 
 ## Chef·fe de produit
 
@@ -119,7 +119,7 @@ Effet secondaire de la Startup d'État : l’intrapreneur va développer un expe
 
 Par exemple l’intrapreneur à l’origine de [la Bonne Boite](https://labonneboite.pole-emploi.fr) est sans doute devenu petit à petit l’expert français du recrutement par candidature spontanée : combien de recrutements par candidature spontanée ? qui en fait ? qui devrait en faire plus ? pourquoi ça fait peur aux demandeurs d’emploi ? qu’est-ce qui les peut les inciter à en faire plus ?
 
-Autre exemple, l’intrapreneuse de [Plante et moi](https://beta.gouv.fr/startup/biodiversite.html) est devenue la bible vivante de la végétalisation de l’espace public par le particulier, en revisitant en détail les expériences menées dans toute la France.
+Autre exemple, l’intrapreneuse de [Plante et moi](https://beta.gouv.fr/startup/plante-et-moi.html) est devenue la bible vivante de la végétalisation de l’espace public par le particulier, en revisitant en détail les expériences menées dans toute la France.
 
 Ce serait dommage de ne pas valoriser cette nouvelle expertise hyper pointue, a minima par du partage au sein de son administration. Ou encore mieux avec la formalisation dans des formats ouverts de ces connaissances accumulées (wiki, publications ouvertes…).
 

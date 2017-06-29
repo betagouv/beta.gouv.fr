@@ -7,6 +7,8 @@ status: construction
 contact: contact@api.gouv.fr
 start: 2016-01-25
 owner: SGMAP
+redirect_from:
+  - /startup/apigouv
 ---
 
 api.gouv.fr référence les API de l'**État plateforme**, c'est à dire les services électroniques réutilisables proposés par les administrations, centrales, territoriales et hospitalière ainsi que leurs opérateurs.
