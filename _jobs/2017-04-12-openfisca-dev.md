@@ -1,5 +1,5 @@
 ---
-title: Dev
+title: un·e développeur·e
 startup: openfisca
 open: false
 ---

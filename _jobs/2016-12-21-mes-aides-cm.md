@@ -1,5 +1,5 @@
 ---
-title: Community Manager
+title: un·e community manager
 startup: mes-aides
 open: false
 ---

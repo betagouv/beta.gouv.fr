@@ -1,5 +1,5 @@
 ---
-title: Développeur·e·s
+title: deux développeur·e·s
 startup: signaux-faibles
 open: true
 ---
