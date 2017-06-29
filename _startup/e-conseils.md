@@ -1,7 +1,7 @@
 ---
 title: Réso
 mission: Apporter l'ensemble des aides publiques aux entreprises qui en ont besoin
-link: http://reso.beta.gouv.fr
+link: https://reso.beta.gouv.fr/
 repository: https://github.com/sgmap/reso
 status: construction
 contact: juliette.culot@beta.gouv.fr
