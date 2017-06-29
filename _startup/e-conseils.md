@@ -1,7 +1,8 @@
 ---
-title: Réseau e-conseils
+title: Réso
 mission: Apporter l'ensemble des aides publiques aux entreprises qui en ont besoin
-repository: https://github.com/sgmap/e-conseils
+link: https://reso.beta.gouv.fr/
+repository: https://github.com/sgmap/reso
 status: construction
 contact: juliette.culot@beta.gouv.fr
 start: 2017-04-03
@@ -20,7 +21,7 @@ L’activité de ces conseillers est aujourd’hui confrontée à un double prob
 Un guichet unique à la porte des entreprises
 ============================================
 
-Avec le réseau e-conseils, l’État ouvre un guichet unique qu’il apporte aux entreprises en ayant le plus besoin. Les organismes publics proposant des aides les mettent à la disposition de l’ensemble des conseillers qui vont au contact des chefs d’entreprise. Cette mutualisation des moyens permet des visites d’entreprise plus productives et des dispositifs d’aide qui trouvent mieux leur public.
+Avec Réso, l’État ouvre un guichet unique qu’il apporte aux entreprises en ayant le plus besoin. Les organismes publics proposant des aides les mettent à la disposition de l’ensemble des conseillers qui vont au contact des chefs d’entreprise. Cette mutualisation des moyens permet des visites d’entreprise plus productives et des dispositifs d’aide qui trouvent mieux leur public.
 
 
 Un outil numérique au service du conseil public
@@ -29,6 +30,6 @@ Un outil numérique au service du conseil public
 Un outil numérique est au cœur de ce réseau et permet de le fédérer. Des algorithmes utilisant des bases de données publiques (activités, résultats financiers, export…) permettent de cibler la prospection : entreprises en pré-difficulté, à fort potentiel de croissance ou ayant un projet de recrutement… Un simulateur permet aux conseillers de proposer aux chefs d’entreprise un premier niveau d’information sur les aides correspondant à leurs besoins et, le cas échéant, d’identifier un contact au sein de l’administration capable de les accompagner dans leurs démarches.
 
 
-Le réseau e-conseils permet ainsi à l’administration de développer un rôle de conseil à destination des entreprises en complément de son rôle régalien de contrôle.
+Réso permet ainsi à l’administration de développer un rôle de conseil à destination des entreprises en complément de son rôle régalien de contrôle.
 
 <sub>_Crédit photo : ©fotolia_</sub>
