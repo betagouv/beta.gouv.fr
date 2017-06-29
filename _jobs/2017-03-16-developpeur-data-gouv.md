@@ -1,6 +1,6 @@
 ---
 title: Développeur·e·s
-startup: datagouv
+startup: data.gouv.fr
 open: true
 ---
 
