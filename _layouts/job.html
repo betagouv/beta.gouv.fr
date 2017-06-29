@@ -13,7 +13,7 @@ layout: default
 
 <div class="post-container">
     <article class="post">
-        <h1>{% if startup %}{{ startup.title }}{% else %}beta.gouv.fr{% endif %} recrute {{ page.title | downcase }}</h1>
+        <h1>{% if startup %}{{ startup.title }}{% else %}beta.gouv.fr{% endif %} recrute {{ page.roles | downcase }}</h1>
 
         <p>Poste ouvert le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%d/%m/%Y" }}</time>.</p>
 

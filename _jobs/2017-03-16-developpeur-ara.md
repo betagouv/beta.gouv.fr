@@ -1,5 +1,5 @@
 ---
-title: un·e développeur·e
+roles: un·e développeur·e
 startup: ara
 open: true
 ---

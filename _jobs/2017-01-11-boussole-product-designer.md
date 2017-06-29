@@ -1,5 +1,5 @@
 ---
-title: un·e product designer
+roles: un·e product designer
 startup: boussole
 open: false
 ---
