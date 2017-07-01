@@ -1,5 +1,5 @@
 ---
-title: Développeur·e·s
+roles: deux développeur·e·s
 startup: data.gouv.fr
 open: true
 ---
