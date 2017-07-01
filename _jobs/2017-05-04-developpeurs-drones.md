@@ -1,5 +1,5 @@
 ---
-title: Développeur·e·s drones
+roles: deux développeur·e·s
 startup: api-drones
 open: false
 ---

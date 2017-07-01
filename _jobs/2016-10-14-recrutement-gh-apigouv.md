@@ -1,5 +1,5 @@
 ---
-title: Growth hacker
+roles: un·e growth hacker
 startup: api.gouv.fr
 open: false
 ---

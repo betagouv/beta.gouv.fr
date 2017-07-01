@@ -1,5 +1,5 @@
 ---
-title: Full stack web dev
+roles: un·e dev web full-stack
 startup: mes-aides
 open: false
 ---
