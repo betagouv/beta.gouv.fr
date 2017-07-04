@@ -4,7 +4,7 @@ startup: transport
 open: true
 ---
 
-La verticale transport de data.gouv.fr et le.taxi cherchent une personne compétente en Python / Java / JS  et intéressé·e par les transports et l'open-data !
+La verticale transport de data.gouv.fr et le.taxi cherchent une personne compétente en Python / Java / JS  et intéressé·e par les transports et les données ouvertes !
 
 <!--more-->
 
