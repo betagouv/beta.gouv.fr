@@ -1,5 +1,5 @@
 ---
-roles: un·e développeur·e
+roles: un·e développeur·se
 startup: ara
 open: true
 ---
