@@ -1,10 +1,10 @@
 ---
-roles: deux développeur·e·s
+roles: deux développeu·r·se·s
 startup: api-drones
 open: false
 ---
 
-`beta.gouv.fr` recherche deux développeur·e·s indépendant·e·s pour construire un système national d’enregistrement et de géolocalisation en temps réel des drones civils.
+`beta.gouv.fr` recherche deux développeu·r·se·s indépendant·e·s pour construire un système national d’enregistrement et de géolocalisation en temps réel des drones civils.
 
 <!--more-->
 

@@ -1,10 +1,10 @@
 ---
-roles: deux développeur·e·s
+roles: deux développeu·r·se·s
 startup: data.gouv.fr
 open: true
 ---
 
-[Data.gouv.fr](http://data.gouv.fr) grandit et recherche deux développeur.e.s en CDD (3 ans).
+[Data.gouv.fr](http://data.gouv.fr) grandit et recherche deux développeu·r·se·s en CDD (3 ans).
 
 <!--more-->
 

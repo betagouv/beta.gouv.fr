@@ -1,10 +1,10 @@
 ---
-roles: un·e développeur·e
+roles: un·e développeur·se
 startup: mvmd
 open: true
 ---
 
-MVMD cherche un.e développeur.se pour un CDD (3 ans) ou un.e prestataire indépendant.e.
+MVMD cherche un·e développeur·se pour un CDD (3 ans) ou un·e prestataire indépendant·e.
 
 <!--more-->
 
