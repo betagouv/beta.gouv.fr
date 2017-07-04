@@ -1,10 +1,10 @@
 ---
-roles: deux développeur·e·s
+roles: deux développeu·r·se·s
 startup: signaux-faibles
 open: true
 ---
 
-[Signaux Faibles](https://beta.gouv.fr/startup/signaux-faibles.html) passe la seconde et recrute deux développeur.e.s. indépendants.
+[Signaux Faibles](https://beta.gouv.fr/startup/signaux-faibles.html) passe la seconde et recrute deux développeu·r·se·s. indépendant·e·s.
 
 <!--more-->
 
