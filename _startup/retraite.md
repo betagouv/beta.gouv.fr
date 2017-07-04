@@ -13,4 +13,7 @@ Le départ à la retraite est un moment angoissant. Les démarches peuvent être
 
 Le ou la futur·e retraité·e répond à quelques questions sur sa carrière et sa situation actuelle et obtient la liste personnalisée de démarches téléchargeable. Cette liste est un parcours chronologique, avec à chaque étape les démarches à réaliser et les informations qui peuvent l'aider.
 
-Après avoir conçu et testé le service avec leurs utilisateurs, les caisses de retraite (CNAV, MSA et RSI) mènent les tests de recette nécessaires pour intégrer le service sur leurs différents portails.
+Les caisses de retraite portant le projet (CNAV, MSA et RSI) ont déployé le service :
+* CNAV : https://mesdemarchesretraite.fr/lassuranceretraite
+* MSA : http://www.msa.fr/lfr/retraite/demande-de-retraite
+* RSI : https://www.rsi.fr/mes-demarches-retraite
