@@ -27,7 +27,11 @@ ref: jobs
 
             <a class="blog-title-link" href="{{ job.url }}">{% if startup %}{{ startup.title }}{% else %}beta.gouv.fr{% endif %} recrute {{ job.roles | downcase }}</a>
 
-            <div class="blog-parution-date">Paru le {{ job.date | date: "%d/%m/%Y" }}</div>
+            <div class="blog-parution-date">
+                Paru le {{ job.date | date: "%d/%m/%Y" }}
+                {% if job.techno %}<br /><span class="blog-techno">{{ job.techno }}</span>{% endif %}
+            </div>
+
 
             <div>
                {% if job.open %}

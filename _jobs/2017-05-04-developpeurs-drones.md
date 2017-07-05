@@ -1,6 +1,7 @@
 ---
 roles: deux développeu·r·se·s
 startup: api-drones
+techno: Choix technologiques ouverts parmi les solutions libres du marché
 open: false
 ---
 
@@ -16,8 +17,6 @@ Il s’agit de développer :
 - une base d’enregistrement et une base de géolocalisation ;
 - une API permettant aux entreprises (fabricants de drones, fournisseurs de dispositifs de signalisation, startups...) de pousser des données et de développer des services innovants ;
 - des applications pour fournir un service de base et illustrer les usages de l’API.
-
-*Choix technologiques ouverts parmi les solutions libres du marché (Node, Rails, Python…).*
 
 Comme pour tous les postes de l'incubateur, il s'agit aussi d'une opportunité de [co-construire `beta.gouv.fr`](https://github.com/sgmap/beta.gouv.fr/wiki) avec [plein de gens bien](https://beta.gouv.fr/communaute) et de participer à la transformation numérique de l'administration française.
 

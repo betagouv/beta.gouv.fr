@@ -48,6 +48,11 @@ a.blog-title-link {
     margin-bottom: 1em;
 }
 
+.blog-techno {
+    font-size: 1em;
+    color: rgba(0, 0, 0, .5);
+}
+
 .thumbnail {
     position: relative;
     width: 100%;

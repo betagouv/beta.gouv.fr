@@ -1,10 +1,11 @@
 ---
 roles: un·e dev web full-stack
 startup: mes-aides
+techno: JavaScript
 open: false
 ---
 
-Mes Aides cherche un·e dev web full-stack, compétent·e en JS, et intéressé·e par l'ops. Venez aider des dizaines de milliers de personnes à accéder à leurs droits chaque jour !
+Mes Aides cherche un·e dev web full-stack et intéressé·e par l'ops. Venez aider des dizaines de milliers de personnes à accéder à leurs droits chaque jour !
 
 <!--more-->
 
