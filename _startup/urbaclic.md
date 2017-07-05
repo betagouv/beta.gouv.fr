@@ -7,7 +7,6 @@ status: success
 contact: contact@urbaclic.beta.gouv.fr
 start: 2016-03-01
 owner: SGAR Occitanie, Etalab
-screenshot: /img/startup/urbaclic.jpg
 ---
 
 ## Problème

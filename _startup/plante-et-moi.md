@@ -6,7 +6,6 @@ status: construction
 contact: biodiversite@beta.gouv.fr
 start: 2016-10-01
 owner: Ministère de la Transition écologique et solidaire
-screenshot: /img/startup/plante-et-moi.jpg
 redirect_from:
   - /startup/biodiversite
 ---

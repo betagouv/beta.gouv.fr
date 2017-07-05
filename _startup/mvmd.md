@@ -5,7 +5,6 @@ status: construction
 contact: marie.briche@beta.gouv.fr
 start: 2017-05-01
 owner: Pôle emploi
-screenshot: /img/startup/mvmd.jpg
 ---
 
 Marie-Cécile est aide à domicile depuis 17 ans et ne trouve plus d’employeurs. __Malgré ses connaissances et ses compétences, un diplôme est maintenant demandé__ par tous les organismes qui placent les aides à domicile. 
