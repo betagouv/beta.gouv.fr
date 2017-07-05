@@ -9,6 +9,7 @@ logo: https://cdn.rawgit.com/openmaraude/le.taxi/master/themes/taxitheme/static/
 start: 2015-03-15
 owner: Ministère des Transports
 screenshot: /img/startup/le-taxi.jpg
+stats: true
 redirect_from:
   - /startup/taxi
 ---
