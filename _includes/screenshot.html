@@ -1,16 +1,11 @@
-{% if include.startup.status != 'investigation' and include.startup.screenshot != false %}
-    {% assign file_paths = site.static_files | map: 'path' %}
-    {% capture png_path %}/img{{ include.startup.id }}.png{% endcapture %}
-    {% capture jpg_path %}/img{{ include.startup.id }}.jpg{% endcapture %}
+{% if include.startup.status != 'investigation' %}
+    {% assign startup_id = include.startup.id | remove: '/startup/' %}
+    {% assign screenshot_file = site.static_files | where: 'basename', startup_id | first %}
 
-    {% if include.startup.screenshot %}
-        {% assign screenshot_path = include.startup.screenshot %}
-    {% elsif file_paths contains png_path %}
-        {% assign screenshot_path = png_path %}
-    {% elsif file_paths contains jpg_path %}
-        {% assign screenshot_path = jpg_path %}
+    {% if screenshot_file %}
+        {% assign screenshot_path = screenshot_file.path %}
     {% else %}
-        {% assign screenshot_path = "NO_SCREENSHOT_ERROR_CAUGHT_BY_HTML-COMMON-MISTAKES" %}
+        {% assign screenshot_path = '/img/startup/' | append: startup_id | append: '.png' %}
     {% endif %}
 
     <img class="screenshot" src="{{ screenshot_path }}" title="Interface de {{ include.startup.title }}" alt="">
