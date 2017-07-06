@@ -1,5 +1,5 @@
 ---
-fullname: Pascal Knoth # penser à modifier le nom du fichier ci-dessus !
+fullname: Pascal Knoth
 role: awesome dev
 avatar: https://avatars3.githubusercontent.com/pknoth?s=600
 link:
