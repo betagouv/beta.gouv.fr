@@ -2,7 +2,7 @@
 title: transport.data.gouv.fr
 mission: Rendre disponible, valoriser et améliorer les données transport
 link: https://transport.beta.gouv.fr
-repository: https://github.com/etalab/transport-landing
+repository: https://github.com/etalab/transport-landingpage
 status: construction
 contact: vincent.lara@data.gouv.fr
 start: 2017-07-03

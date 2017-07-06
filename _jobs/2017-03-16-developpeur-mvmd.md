@@ -1,7 +1,7 @@
 ---
 roles: un·e développeur·se
 startup: mvmd
-open: true
+open: false
 ---
 
 MVMD cherche un·e développeur·se pour un CDD (3 ans) ou un·e prestataire indépendant·e.

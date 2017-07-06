@@ -5,7 +5,6 @@ status: construction
 contact: anne-camille.monet@beta.gouv.fr
 start: 2017-04-01
 owner: Pôle emploi
-screenshot: /img/startup/ara.jpg
 ---
 
 Les demandeurs d’emploi se privent d’opportunités professionnelles faute d’avoir connaissance d’aides leur permettant un retour efficace à l’emploi.  __Les aides sont nombreuses et les critères d’attribution sont méconnus__. Difficile, dans ce contexte, de savoir quelle information chercher et où la chercher…
