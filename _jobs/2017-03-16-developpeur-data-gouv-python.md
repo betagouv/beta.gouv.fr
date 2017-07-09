@@ -1,5 +1,5 @@
 ---
-roles: un·e développeu·r·se·s
+roles: un·e développeu·r·se
 startup: data.gouv.fr
 techno: Python
 open: true
