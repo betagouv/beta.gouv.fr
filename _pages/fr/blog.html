@@ -37,7 +37,9 @@ ref: blog
 
             <a class="blog-title-link" href="{{ post.url }}">{{ post.title }}</a>
 
-            <div class="blog-parution-date">Paru le {{ post.date | date: "%d/%m/%Y" }}</div>
+            <div class="excerpt-meta-informations">
+                <div class="excerpt-parution-date">Paru le {{ post.date | date: "%d/%m/%Y" }}</div>
+            </div>
 
             {% capture mastheadImagePath %}/img/{{ post.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}.jpg{% endcapture %}
             <div class="thumbnail">
