@@ -1,6 +1,6 @@
 ---
 roles: deux développeu·r·se·s
-open: true
+open: false
 ---
 
 Le pôle Géo recherche deux développeu·r·se·s indépendant·e·s.
