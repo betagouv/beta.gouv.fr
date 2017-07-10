@@ -1,6 +1,5 @@
 ---
 roles: un·e développeur·se
-startup: openfisca
 open: false
 ---
 
