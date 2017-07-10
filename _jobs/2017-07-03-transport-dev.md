@@ -1,10 +1,11 @@
 ---
 roles: une / un développeuse, développeur
 startup: transport
+techno: Python / Java / JavaScript
 open: true
 ---
 
-La verticale transport de data.gouv.fr et le.taxi cherchent une personne compétente en Python / Java / JS  et intéressé·e par les transports et les données ouvertes !
+La verticale transport de data.gouv.fr et le.taxi cherchent une personne intéressé·e par les transports et les données ouvertes !
 
 <!--more-->
 
@@ -22,7 +23,7 @@ Nous cherchons une personne expérimentée pour rejoindre notre équipe et nous 
 Il s’agit donc d’intervenir :
 
 - Sur une [base de code](https://github.com/openmaraude/) en Python pour le.taxi.
-- Sur une [autre en Java](https://github.com/etalab/datatools-server) et en [JS](https://github.com/etalab/catalogue_ui) 
+- Sur une [autre en Java](https://github.com/etalab/datatools-server) et en [JS](https://github.com/etalab/catalogue_ui)
 - Et de construire la communauté pour réussir ces objectifs.
 
 Nous cherchons à créer une équipe multidisciplinaire : pas besoin d’être expert·e de tous ces sujets, nous nous répartirons la charge selon les intérêts et expertises de chaque membre.

@@ -56,8 +56,8 @@ layout: default
             </ul>
         </div>
 
-        {% assign startup_id = page.id | replace:"/startup/" %}
-        {% assign jobs = site.jobs | where: "startup",startup_id | where:"open",true | sort: 'date' | reverse %}
+        {% assign startup_id = page.id | remove: '/startup/' %}
+        {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
         {% if jobs[0] %}
             <div class="content">
                 <div class ="ui text container">
@@ -65,7 +65,9 @@ layout: default
                     <ul>
                         {% for job in jobs %}
                             <li>
-                                <a href="{{ job.url }}">{{ job.title }}</a>
+                                <a href="{{ job.url }}">
+                                    {{ page.title }} recrute {{ job.roles | downcase }}.
+                                </a>
                             </li>
                         {% endfor %}
                     </ul>

@@ -42,10 +42,17 @@ a.blog-title-link {
     margin-top: 1em;
 }
 
-.blog-parution-date {
-    font-size: 0.8em;
-    color: #333;
+.excerpt-meta-informations {
+    font-size: .8em;
     margin-bottom: 1em;
+}
+
+.excerpt-parution-date {
+    color: #333;
+}
+
+.excerpt-job-techno {
+    color: rgba(0, 0, 0, .55);
 }
 
 .thumbnail {

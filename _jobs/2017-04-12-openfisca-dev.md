@@ -1,9 +1,10 @@
 ---
 roles: un·e développeur·se
+techno: Python et/ou JavaScript
 open: false
 ---
 
-OpenFisca cherche un·e dev compétent en Python et / ou JS, et intéressé·e par découvrir l'autre. Apportez vos compétences pour rendre le droit calculable dans le monde entier et outiller d'autres devs !
+OpenFisca cherche un·e dev intéressé·e par découvrir l'autre. Apportez vos compétences pour rendre le droit calculable dans le monde entier et outiller d'autres devs !
 
 <!--more-->
 
