@@ -1,7 +1,7 @@
 ---
 roles: deux développeu·r·se·s
 startup: api-drones
-techno: Choix technologiques ouverts parmi les solutions libres du marché
+techno: Python et JavaScript
 open: false
 ---
 
