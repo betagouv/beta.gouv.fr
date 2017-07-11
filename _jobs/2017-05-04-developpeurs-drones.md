@@ -5,7 +5,7 @@ techno: Python et JavaScript
 open: false
 ---
 
-`API Drones` recherche deux développeu·r·se·s indépendant·e·s pour construire un système national d’enregistrement et de géolocalisation en temps réel des drones civils.
+API Drones recherche deux développeu·r·se·s indépendant·e·s pour construire un système national d’enregistrement et de géolocalisation en temps réel des drones civils.
 
 <!--more-->
 
