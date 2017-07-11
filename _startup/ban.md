@@ -1,8 +1,8 @@
 ---
-title: Base adresse nationale
+title: Base Adresse Nationale
 mission: Référencer l'intégralité des adresses du territoire français
 link: https://adresse.data.gouv.fr
-repository: https://adresse.data.gouv.fr/foss/
+repository: https://github.com/BaseAdresseNationale
 status: success
 contact: adresse@data.gouv.fr
 logo:  https://adresse.data.gouv.fr/img/BAN.png
@@ -10,4 +10,16 @@ start: 2014-06-01
 owner: Etalab
 ---
 
-La Base Adresse Nationale est une base de données qui a pour but de référencer l'intégralité des adresses du territoire français. Son API vous permet d'offrir des formulaires de saisie en auto-completion, de géocoder une adresse ou de reverse-géocoder (quelle est l'adresse de cette latitude/longitude ?), et enfin de poster des demandes de mises à jour.
+La Base Adresse Nationale est une base de données qui a pour but de référencer l'intégralité des adresses du territoire français.
+
+Elle est le fruit de la collaboration de :
+
+* l'[IGN](http://www.ign.fr/) ;
+* [La Poste](https://www.laposte.fr/entreprise/produits-et-services/sna-normalisation-des-adresses) ;
+* [OpenStreetMap France](http://openstreetmap.fr/) ; et
+* [Etalab](http://www.etalab.gouv.fr/).
+
+Par ailleurs, Etalab met à disposition des outils complémentaires gratuits pour faciliter la mise à jour de la base et sa réutilisation :
+
+* une [API de géocodage](https://api.gouv.fr/api/base-adresse-nationale.html) qui permet aussi de faire de l'auto-complétion ; et
+* une application mobile qui permet à chacun de contribuer au référentiel _(à venir)_.
