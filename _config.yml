@@ -38,7 +38,7 @@ defaults:
       type: startup	# targets a collection
     values:
       layout: startup
-      logo: /img/logo-generique-startup-carre.jpg
+      logo: /img/logo-generique-startup-carre-70x70.jpg
   -
     scope:
       path: ""  # means "all files"
