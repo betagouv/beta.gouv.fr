@@ -2,7 +2,7 @@
 fullname: Nicolas Brohée
 role: Développeur
 start: 2016-06-23
-end: 2017-07-19
+end: 2017-08-04
 employer: service/octo
 ---
 
