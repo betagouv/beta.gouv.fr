@@ -49,13 +49,13 @@ Le nombre de résultats Google permet d'évaluer la fréquence d'utilisation sur
 1. Le terme à rechercher doit être entouré de guillemets (`"`) pour s'assurer que c'est bien l'expression exacte qui est cherchée.
 2. Si vous visez une zone géographique spécifique, utilisez les outils de recherche pour cibler. Dans l'exemple du Simulateur de coût d'embauche, sélectionner « Pays : France » permet d'éviter les usagers francophones non ciblés.
 
-![Recherche bulletin de PAYE. Essayez avec cette orthographe : bulletin de PAIE.](/img/posts/2017-06-10-comment-choisir-vocabulaire/google-france.png)
+![Recherche bulletin de PAYE. Essayez avec cette orthographe : bulletin de PAIE.](/img/posts/2017-07-21-comment-ecrire-proposition-valeur/google-france.png)
 
 Attention également à ce que Google ne corrige pas tout seul votre recherche ! Même si cela donne déjà une information, cela rend la comparaison impossible.
 
 Si l'on compte le nombre de résultats remontés pour chaque formulation, on peut comparer leur fréquence d'utilisation sur le web.
 
-![Fiche de paie : 324000 résultats ; fiche de paye : 97700 résultats ; bulletin de salaire : 317000 résultats ; bulletin de paie : 301000 résultats ; bulletin de paye : 79800 résultats.](/img/posts/2017-06-10-comment-choisir-vocabulaire/google-results.png)
+![Fiche de paie : 324000 résultats ; fiche de paye : 97700 résultats ; bulletin de salaire : 317000 résultats ; bulletin de paie : 301000 résultats ; bulletin de paye : 79800 résultats.](/img/posts/2017-07-21-comment-ecrire-proposition-valeur/google-results.png)
 
 Il semblerait donc que la forme avec un Y soit peu utilisée… du moins sur le web en général. Le fait que le grand public utilise souvent la graphie « fiche de paie » ne signifie pas que les professionnel·le·s le font.
 
@@ -63,7 +63,7 @@ Il semblerait donc que la forme avec un Y soit peu utilisée… du moins sur le 
 
 Un outil permet de comparer l'évolution de l'usage de différents termes dans le temps, dans un vaste corpus de livres numérisés : [Ngram viewer](https://books.google.com/ngrams).
 
-![Valeurs pour 2008. Fiche de paie : 83695 ; fiche de paye : 25921 ; bulletin de salaire : 69342 ; bulletin de paie : 132310 ; bulletin de paye : 22443.](/img/posts/2017-06-10-comment-choisir-vocabulaire/ngrams.png)
+![Valeurs pour 2008. Fiche de paie : 83695 ; fiche de paye : 25921 ; bulletin de salaire : 69342 ; bulletin de paie : 132310 ; bulletin de paye : 22443.](/img/posts/2017-07-21-comment-ecrire-proposition-valeur/ngrams.png)
 
 La graphie avec un Y n’est donc pas simplement peu utilisée, elle est en réalité datée. Le terme de « bulletin de paie », après avoir remplacé la graphie « bulletin de paye » dans les années 60, semble diminuer au profit de « fiche de paie ». L'effondrement observé à partir du milieu des années 90 est cohérent avec ce qu'on observe aujourd'hui sur le web, dont le corpus est bien plus récent.
 
@@ -73,7 +73,7 @@ On comprend mieux la dynamique de l'usage des différents termes… pour les ré
 
 Là encore, un outil peut nous aider. [Google Trends](https://trends.google.com) permet de comparer l'évolution dans le temps des recherches effectuées sur Google dans un pays. Ce moteur de recherche ayant [90 % des parts de marché de la recherche](http://gs.statcounter.com/search-engine-market-share/all/france) en France, on peut considérer ces résultats comme représentatifs.
 
-![Valeurs pour septembre 2014. Fiche de paie : 94 ; fiche de paye : 22 ; bulletin de salaire : 49 ; bulletin de paie : 29 ; bulletin de paye : 6.](/img/posts/2017-06-10-comment-choisir-vocabulaire/trends.png)
+![Valeurs pour septembre 2014. Fiche de paie : 94 ; fiche de paye : 22 ; bulletin de salaire : 49 ; bulletin de paie : 29 ; bulletin de paye : 6.](/img/posts/2017-07-21-comment-ecrire-proposition-valeur/trends.png)
 
 On retrouve la même tendance qu'auparavant, avec le remplacement de « bulletin de salaire » par « fiche de paie » en 2010, ce qui est cohérent avec ce qu'on a observé sur Ngram. Si l'on s'adresse au grand public, il faudra donc parler de « fiche de paie ».
 
@@ -83,7 +83,7 @@ L'énorme écart observée entre les publications papier, qui respectent la form
 
 Pour répondre, on peut réutiliser la technique de mesure des résultats Google, en ajoutant le [mot-clé `site:legifrance.gouv.fr`](https://support.google.com/websearch/answer/2466433?hl=fr) aux requêtes sur les termes.
 
-![Valeurs pour septembre 2014. Fiche de paie : 1260 ; fiche de paye : 152 ; bulletin de salaire : 7380 ; bulletin de paie : 6970 ; bulletin de paye : 817.](/img/posts/2017-06-10-comment-choisir-vocabulaire/google-legifrance.png)
+![Valeurs pour septembre 2014. Fiche de paie : 1260 ; fiche de paye : 152 ; bulletin de salaire : 7380 ; bulletin de paie : 6970 ; bulletin de paye : 817.](/img/posts/2017-07-21-comment-ecrire-proposition-valeur/google-legifrance.png)
 
 Il est amusant de constater que, même si la loi indique le terme officiel, la totalité du corpus législatif ne l'utilise pas. Néanmoins, l'usage reste très différent de celui fait par le grand public. Si l'on s'adresse à des juristes, on privilégiera donc « bulletin de paie ».
 
@@ -92,6 +92,6 @@ Il est amusant de constater que, même si la loi indique le terme officiel, la t
 
 Chacun de ces outils nous a permis d'évaluer la prévalence relative d'un terme dans un média. On pourra donc formuler la proposition de valeur en déterminant le média de référence pour chaque public visé.
 
-![Fiche de paie est prévalent dans les recherches ; bulletin de salaire est prévalent dans la loi ; bulletin de paie est prévalent dans les livres.](/img/posts/2017-06-10-comment-choisir-vocabulaire/recap.png)
+![Fiche de paie est prévalent dans les recherches ; bulletin de salaire est prévalent dans la loi ; bulletin de paie est prévalent dans les livres.](/img/posts/2017-07-21-comment-ecrire-proposition-valeur/recap.png)
 
 > Pour les valeurs évoluant dans le temps, j'ai choisi les données les plus récentes disponibles, soit 2008 pour Ngram et 2014 pour Trends.
