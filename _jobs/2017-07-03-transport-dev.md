@@ -2,7 +2,7 @@
 roles: une / un développeuse, développeur
 startup: transport
 techno: Python / Java / JavaScript
-open: true
+open: false
 ---
 
 La verticale transport de data.gouv.fr et le.taxi cherchent une personne intéressé·e par les transports et les données ouvertes !
