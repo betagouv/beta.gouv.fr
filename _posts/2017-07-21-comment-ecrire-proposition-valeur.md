@@ -11,13 +11,13 @@ Une proposition de valeur est la description d'**un** service pour **un** public
 
 ## Utilité
 
-Une proposition de valeur est la phrase que vous allez présenter à un segment des usagers pressentis de votre service pour valider votre compréhension de leurs besoins. C'est un élément crucial pour itérer rapidement au lancement d'un produit. En effet, vous pouvez modifier cette phrase à chaque fois que vous apprenez de nouveaux éléments, et modifier des mots coûte moins cher que de modifier des maquettes (et donc bien moins cher que de modifier du code). Au fur et à mesure que vous développerez de l'empathie pour votre public cible, vous modifierez cette proposition et la raffinerez. En partant à la base d'une idée très large, vous vous approprierez le vocabulaire des usagers visés, et utiliserez leurs mots pour présenter votre idée.
+Une proposition de valeur est la phrase que vous allez présenter à un segment des usagers pressentis de votre service pour valider votre compréhension de leurs besoins. C'est un élément crucial pour itérer rapidement au lancement d'un produit. En effet, vous pouvez modifier cette phrase à chaque fois que vous apprenez de nouveaux éléments. Modifier des mots coûte moins cher que de modifier des maquettes (et donc bien moins cher que de modifier du code). Au fur et à mesure que vous développerez de l'empathie pour votre public cible, vous modifierez cette proposition et la raffinerez. En partant à la base d'une idée très large, vous vous approprierez le vocabulaire des usagers visés et utiliserez leurs mots pour présenter votre idée.
 
 On peut généralement considérer qu'une proposition de valeur est bonne lorsque 8 personnes sur 10 auxquelles on la présente demandent plus de détails et sont prêtes à laisser leur adresse email pour être informées de l'ouverture du service. Atteindre ce stade signifie qu'on a suffisamment compris les enjeux et le public pour commencer à créer des maquettes.
 
-Cette phrase permet donc en premier lieu de mesurer votre compréhension d'un domaine. Mais son utilité ne s'arrête pas là. Elle sera aussi certainement le slogan que vous afficherez en page d'accueil de votre service. Elle débutera votre [_elevator pitch_](https://fr.wikipedia.org/wiki/Elevator_pitch). Elle pourra être une partie de votre _mission statement_.
+Cette phrase permet ainsi en premier lieu de mesurer votre compréhension d'un domaine. Mais son utilité ne s'arrête pas là. Elle sera aussi certainement le slogan que vous afficherez en page d'accueil de votre service. Elle débutera votre [_elevator pitch_](https://fr.wikipedia.org/wiki/Elevator_pitch). Elle pourra être une partie de votre _mission statement_.
 
-Cet objet apporte donc une grande valeur, à la fois parce qu'il pousse à développer son empathie pour ses usagers, qu'il permet de remettre en question la définition du public (une même phrase peut marcher pour un public et pas un autre), qu'il borne l'exploration qualitative (une fois l'objectif de 80 % de taux d'activation atteint, on peut se focaliser sur la réalisation), qu'il permet de présenter votre service sans y réfléchir, et qu'il normalise le discours pour toute l'équipe.
+Cet objet apporte donc une grande valeur : il pousse à développer son empathie pour ses usagers, permet de remettre en question la définition du public (une même phrase peut marcher pour un public et pas un autre), borne l'exploration qualitative (une fois l'objectif de 80 % de taux d'activation atteint, on peut se focaliser sur la réalisation), permet de présenter votre service sans y réfléchir, et normalise le discours pour toute l'équipe.
 
 
 ## Sensibilité
@@ -79,7 +79,7 @@ On retrouve la même tendance qu'auparavant, avec le remplacement de « bulleti
 
 ### Légifrance
 
-L'énorme écart observée entre les publications papier, qui respectent la formulation donnée par la loi, et l'usage par le grand public, qui semble être passé de « bulletin de salaire » par « fiche de paie » sans trop s'être approprié le terme officiel « bulletin de paie », a de quoi intriguer. L'un de nos publics pourra être les experts juridiques. Comment s’adresser à eux ? Les parlementaires sont aussi des citoyen·ne·s. Alors, le législateur a-t-il choisi la loi ou l'usage ?
+On observe un énorme écart entre les publications papier, qui respectent la formulation donnée par la loi, et l'usage par le grand public, qui semble être passé de « bulletin de salaire » par « fiche de paie » sans trop s'être approprié le terme officiel « bulletin de paie ». L'un de nos publics pourra être les experts juridiques. Comment s’adresser à eux ? Les parlementaires sont aussi des citoyen·ne·s. Alors, le législateur a-t-il choisi la loi ou l'usage ?
 
 Pour répondre, on peut réutiliser la technique de mesure des résultats Google, en ajoutant le [mot-clé `site:legifrance.gouv.fr`](https://support.google.com/websearch/answer/2466433?hl=fr) aux requêtes sur les termes.
 
