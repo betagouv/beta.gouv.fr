@@ -1,17 +1,40 @@
 ---
 title: Recrutement
 menu_index: 4
-additional_css: blog
+additional_css:
+- blog
+- recrutement
 permalink: /recrutement/
 lang: fr
 ref: jobs
 ---
 
 <section class="ui container blog-container">
-    <ul>
     {% assign jobs = site.jobs | sort: 'date' | reverse %}
-    {% for job in jobs %}
-        {% include job-preview.html job=job %}
-    {% endfor %}
+    {% assign opened_jobs = jobs | where:'open',true %}
+    {% assign closed_jobs = jobs | where:'open',false %}
+
+    <ul class="job-offers-list">
+        <li>
+            <h2>Offres disponibles</h2>
+        </li>
+
+        {% if opened_jobs[0] %}
+            {% for job in opened_jobs %}
+                {% include job-preview.html job=job %}
+            {% endfor %}
+        {% else %}
+            <li>Nous n'avons aucun poste ouvert pour le moment.</li>
+        {% endif %}
+    </ul>
+
+    <ul class="job-offers-list">
+        <li>
+            <h2>Offres pourvues</h2>
+        </li>
+
+        {% for job in closed_jobs %}
+            {% include job-preview.html job=job %}
+        {% endfor %}
     </ul>
 </section>
