@@ -26,7 +26,7 @@ Si l'on comprend la puissance de cette pratique, on peut aussi en voir la fragil
 
 Le premier discriminant doit être la compréhension par le public visé. Ainsi, les termes de jargon qu'il faut éviter dans une interface ou dans une présentation peuvent être bienvenus s'ils permettent de prouver la connivence ou d'être particulièrement concis. Rappelons-nous en effet qu'une proposition de valeur est le _binôme_ d'une phrase et d'un public, et que les mots employés le sont dans le contexte de ce public. Par exemple, si vous construisez un service comme [Plante & Moi](https://beta.gouv.fr/startup/plante-et-moi), parler de « végétalisation » peut être bienvenu si vous vous adressez aux professionnel·le·s de l'urbanisme, même si le terme n'est pas clair pour le grand public.
 
-Néanmoins, si plusieurs termes sont utilisés indifféremment par les futurs usagers, alors comment choisir ? C'est le cas auquel j'ai été confronté lors de la phase d'investigation du Simulateur de coût d'embauche, ou les termes « fiche de paie », « bulletin de paie » et « bulletin de salaire » étaient utilisés indifféremment par tous les acteurs. Et la situation était encore pire à l'écrit, en raison des variantes orthographiques entre « paie » et « paye » !
+Néanmoins, si plusieurs termes sont utilisés indifféremment par les futurs usagers, alors comment choisir ? C'est le cas auquel j'ai été confronté lors de la phase d'investigation du Simulateur de coût d'embauche, où les termes « fiche de paie », « bulletin de paie » et « bulletin de salaire » étaient utilisés indifféremment par tous les acteurs. Et la situation était encore pire à l'écrit, en raison des variantes orthographiques entre « paie » et « paye » !
 
 
 ## Détermination
