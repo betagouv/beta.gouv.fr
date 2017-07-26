@@ -1,52 +1,40 @@
 ---
 title: Recrutement
 menu_index: 4
-additional_css: blog
+additional_css:
+- blog
+- recrutement
 permalink: /recrutement/
 lang: fr
 ref: jobs
 ---
 
 <section class="ui container blog-container">
-    <ul>
     {% assign jobs = site.jobs | sort: 'date' | reverse %}
-    {% for job in jobs %}
-        {% if job.startup %}
-            {% capture id %}/startup/{{ job.startup }}{% endcapture %}
-            {% for currentStartup in site.startup %}
-                {% if currentStartup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
-                    {% assign startup = currentStartup %}
-                {% endif %}
+    {% assign opened_jobs = jobs | where:'open',true %}
+    {% assign closed_jobs = jobs | where:'open',false %}
+
+    <ul class="job-offers-list">
+        <li>
+            <h2>Offres disponibles</h2>
+        </li>
+
+        {% if opened_jobs[0] %}
+            {% for job in opened_jobs %}
+                {% include job-preview.html job=job %}
             {% endfor %}
         {% else %}
-            {% assign startup = false %}
+            <li>Nous n'avons aucun poste ouvert pour le moment.</li>
         {% endif %}
+    </ul>
 
-        <li class="ui segment blog-segment">
-            <a class="blog-segment-link" title="{{ job.title }}" href="{{ job.url }}"></a>
-
-            <a class="blog-title-link" href="{{ job.url }}">{% if startup %}{{ startup.title }}{% else %}beta.gouv.fr{% endif %} recrute {{ job.roles | downcase }}</a>
-
-            <div class="excerpt-meta-informations">
-                <div class="excerpt-parution-date">
-                    Paru le {{ job.date | date: "%d/%m/%Y" }}
-                </div>
-
-                {% if job.techno %}
-                    <div class="excerpt-job-techno">{{ job.techno }}</div>
-                {% endif %}
-            </div>
-
-            <div>
-               {% if job.open %}
-                    {{ job.excerpt }}
-                {% else %}
-                    {{ "**Ce poste a été pourvu.**" | markdownify }}
-                {% endif %}
-            </div>
-
-            <a href="{{ job.url }}">Voir l'offre</a>
+    <ul class="job-offers-list">
+        <li>
+            <h2>Offres pourvues</h2>
         </li>
-    {% endfor %}
+
+        {% for job in closed_jobs %}
+            {% include job-preview.html job=job %}
+        {% endfor %}
     </ul>
 </section>

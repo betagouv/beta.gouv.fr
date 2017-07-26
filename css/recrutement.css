@@ -1,0 +1,8 @@
+.job-offers-list {
+  padding: 0;
+  margin: 0;
+}
+
+.job-offers-list:not(:first-child) {
+  margin-top: 60px;
+}
