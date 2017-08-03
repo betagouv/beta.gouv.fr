@@ -15,7 +15,7 @@ Grâce aux informations que vous nous transmettez, nous estimons à quelles aide
 
 Un de nos buts est de toujours augmenter le nombre d’aides simulées en une seule fois. En tant que collectivité proposant une prestation sociale, n'hésitez pas à [nous contacter](mailto:contribuer@mes-aides.gouv.fr?Ajouter+une+aide+via+beta.gouv.fr).
 
-Mes Aides se base sur [OpenFisca] (https://beta.gouv.fr/startup/openfisca.html), un moteur de calcul libre et ouvert utilisé par des chercheurs en économie et d’autres services publics.
+Mes Aides se base sur [OpenFisca](https://beta.gouv.fr/startup/openfisca.html), un moteur de calcul libre et ouvert utilisé par des chercheurs en économie et d’autres services publics.
 
 
 ## Mes Aides recrute !
