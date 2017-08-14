@@ -15,7 +15,7 @@ layout: default
 {% assign assets = site.static_files | where: 'basename', startup_id %}
 {% for asset in assets %}
     {% if asset.path contains 'video/' %}
-        {% assign screencast_path = asset.path %}
+        {% assign video_path = asset.path %}
     {% endif %}
     {% if asset.path contains 'img/startup' %}
         {% assign screenshot_path = asset.path %}
@@ -30,8 +30,8 @@ layout: default
             <h2>{{ page.mission }}</h2>
         </div>
         <div class="image">
-            {% if screencast_path %}
-                <video class="screenshot" src="{{ screencast_path }}" poster="{{ screenshot_path }}" controls></video>
+            {% if video_path %}
+                <video class="screenshot" src="{{ video_path }}" poster="{{ screenshot_path }}" controls></video>
             {% else %}
                 {% if page.link %}<a href="{{ page.link | strip }}" target="_blank" rel="noopener">{% endif %}
                     {% include screenshot.html startup=page %}
