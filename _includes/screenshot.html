@@ -1,7 +1,13 @@
 {% if include.startup.status != 'investigation' %}
     {% assign startup_id = include.startup.id | remove: '/startup/' %}
     {% assign screenshot_files =  site.static_files | where_exp:"item", "item.path contains '/startup'" %}
-    {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
+    {% assign screenshot_candidates = screenshot_files | where: 'basename', startup_id | first %}
 
-    <img class="screenshot" src="{{ screenshot_file.path }}" title="Interface de {{ include.startup.title }}" alt="">
+    {% for screenshot_candidate in screenshot_candidates %}
+        {% if screenshot_candidate.path contains 'img/startup' %}
+            {% assign screenshot_path = screenshot_candidate.path %}
+        {% endif %}
+    {% endfor %}
+
+    <img class="screenshot" src="{{ screenshot_path }}" title="Interface de {{ include.startup.title }}" alt="">
 {% endif %}
