@@ -1,5 +1,5 @@
 ---
-title: "Les 6 prochains mois d’une Startup d’État"
+title: Les 6 prochains mois d’une Startup d’État
 authors: ismael.hery
 ---
 
