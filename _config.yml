@@ -13,6 +13,10 @@ description_en: We build digital public services
 url: https://beta.gouv.fr
 twitter_id: 715451644683673601  # more stable than the username
 
+# Do not publish future dated blog posts / job offers.
+# @see https://jekyllrb.com/docs/configuration/
+future: false
+
 # Plugins
 gems:
   - jekyll-redirect-from
