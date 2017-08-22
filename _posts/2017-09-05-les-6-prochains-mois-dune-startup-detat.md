@@ -5,8 +5,8 @@ authors: ismael.hery
 
 Notre intrapreneur de Startup d’État rencontre son sponsor tous les 6 mois, pour faire le point sur sa Startup et permettre à ce dernier de décider parmi les choix suivants :
 * on arrête tout
-* on continue avec le même investissement
-* j’en veux plus, augmentons les moyens de cette Startup !
+* fini le mode Startup, le produit peut rentrer en maintenance
+* j’en veux d’avantage et plus vite, augmentons les moyens de cette Startup !
 
 À cette occasion, sa présentation est ponctuée d’une démo et d’un point sur les métriques, puis se termine souvent par la description du futur de sa Startup dans le fameux slide « les 6 prochains mois », alias « la suite », alias « le futur de la Startup ».
 
