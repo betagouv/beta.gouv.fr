@@ -33,32 +33,32 @@ Un intrapreneur n’est donc pas un Product Owner, titre qui dessine un costume 
 On attend d’un patron d’une Startup d’État plus que ce que recouvre le rôle de PO. En particulier, il aura à sa charge des responsabilités de gestion de produit qui sont absentes du rôle de PO, mais qu’on retrouve classiquement chez les chefs de produit (product manager en anglais).
 
 Voici quelques exemples d’activités essentielles du chef de produit sur lesquels Scrum n’a rien à nous apprendre :
+
 * Comment réaliser des tests utilisateurs ? Quels outils de feedback adopter pour quelle taille de Startup ?
 * Comment suivre la performance de mon produit ? C’est quoi une KPI ?
 * Comment faire un test AB ? C’est quoi la significativité statistique ? 
 * Sans parler des questions d’UX sur lequel le patron de Startup se doit d’être (ou de devenir) compétent dans les premiers temps de la Startup.
 
-Illustration des trous (béants) dans la raquette du Product Owner, voici les bénéfices attendus de la certification Scrum Product Owner selon la Scrum Alliance :
-Découvrir les fondations de Scrum et le périmètre de la certification Scrum Product Owner avec les experts de Scrum.
-Démontrer à ses responsables et à ses pairs la connaissance du cœur de Scrum.
-Étendre ses opportunités de carrière en étant marketable au sein de toute une industrie qui adopte les pratiques Agile
-Rencontrer une communauté d’experts Scrum, reconnus, et engagés dans un cycle d’amélioration continue
+Illustration des trous (béants) dans la raquette du Product Owner, voici les bénéfices attendus de la certification Scrum Product Owner selon la [Scrum Alliance](https://www.scrumalliance.org/certifications/practitioners/cspo-certification) :
 
-lien source https://www.scrumalliance.org/certifications/practitioners/cspo-certification
+* Découvrir les fondations de Scrum et le périmètre de la certification Scrum Product Owner avec les experts de Scrum.
+* Démontrer à ses responsables et à ses pairs la connaissance du cœur de Scrum.
+* Étendre ses opportunités de carrière en étant marketable au sein de toute une industrie qui adopte les pratiques Agile
+* Rencontrer une communauté d’experts Scrum, reconnus, et engagés dans un cycle d’amélioration continue
 
 Quitte à payer pour envoyer des leaders de Startups d’État en formation, j’aurai plutôt attendu des bénéfices autour de compétences de gestion de produit numérique :
-Découvrir les principes techniques de base structurant le web (HTML, HTTP, code serveur vs code client, API), de ce qui est de l’ordre du possible techniquement, des ordres des grandeurs de développement
-Savoir préparer, animer, analyser un test utilisateur
-Apprendre les bases de l’ergonomie et de la conception d’interface (Don’t make me think, best practices essentielles, comment rester informé dans ce domaine)
+
+* Découvrir les principes techniques de base structurant le web (HTML, HTTP, code serveur vs code client, API), de ce qui est de l’ordre du possible techniquement, des ordres des grandeurs de développement
+* Savoir préparer, animer, analyser un test utilisateur
+* Apprendre les bases de l’ergonomie et de la conception d’interface (Don’t make me think, best practices essentielles, comment rester informé dans ce domaine)
 
 Tout ça pour dire qu’un patron de Startup d’État qui souhaite progresser sur le volet produit aura beaucoup plus à apprendre d’un chef de produit de « savon à main parfum coco » de chez Procter et Gamble, que d’un certificateur Scrum Product Owner.
 
 Alors le leader de la Startup d’État c’est un chef de produit ? Oui, il est plus chef de produit que Product Owner. Mais non, il n’est pas seulement chef de produit.
 
-Conclusion
-Le patron de la Startup d’État est plus proche d’un entrepreneur que d’un chef de produit. En plus des problématiques produit, son aventure va le confronter à des enjeux métier, de financement, d’organisation, de communication, et de partenariat.
+## Conclusion
 
-lien https://beta.gouv.fr/2017/02/16/intrapreneur-startup-d-etat.html
+Le patron de la Startup d’État est plus proche d’un entrepreneur que d’un chef de produit. En plus des problématiques produit, [son aventure va le confronter à des enjeux métier, de financement, d’organisation, de communication, et de partenariat](https://beta.gouv.fr/2017/02/16/intrapreneur-startup-d-etat.html).
 
 Ça y est, on a trouvé. C’est un intrapreneur de Startup d’État !
 
