@@ -1,3 +1,7 @@
+---
+title: "L’intrapreneur n’est pas un Product Owner"
+authors: ismael.hery
+---
 
 Comment nommer le patron d’une Startup d’État ? Intrapreneur ? Product Owner ? Chef de Produit ?
 
