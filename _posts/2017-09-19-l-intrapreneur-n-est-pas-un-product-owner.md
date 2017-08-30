@@ -24,20 +24,19 @@ En somme, ce PO ressemble à un gestionnaire de spécification, avec un outillag
 
 Passons rapidement sur les arguments classiques du « Scrum Bashing » : l’essentiel de Scrum a été posé il y a 15 ans, de l’eau a coulé sous les ponts depuis sur les meilleures façons de construire du logiciel qui rapporte de l’argent et/ou des usagers satisfaits. En particulier, les enrichissements issus des communautés agiles Kanban et DevOps doivent maintenant faire partie de la boîte à outils de base d’un profil type maîtrise d’ouvrage, au même titre que l’outillage Scrum.
 
-Mais surtout les champions du numérique ne se sont jamais revendiqués comme Agile. A part peut-être chez Spotify, où les coachs Agiles ont une place prépondérante. Et encore, on peut y voir l’effet conjoncturel de la présence des très bons agilistes de Crisp, comme Henrik Kniberg. Les autres, que ce soit les GAFAM ou les plus petites structures en succès, ne revendiquent jamais Scrum, le backlog, ou les user stories comme ingrédients prépondérants de leur réussite numérique !
-
-lien http://dna.crisp.se/docs/index.html
+Mais surtout les champions du numérique ne se sont jamais revendiqués comme Agile. A part peut-être chez Spotify, où les coachs Agiles ont une place prépondérante. Et encore, on peut y voir l’effet conjoncturel de la présence des très bons agilistes de [Crisp](http://dna.crisp.se/docs/index.html), comme Henrik Kniberg. Les autres, que ce soit les GAFAM ou les plus petites structures en succès, ne revendiquent jamais Scrum, le backlog, ou les user stories comme ingrédients prépondérants de leur réussite numérique !
 
 Un intrapreneur n’est donc pas un Product Owner, titre qui dessine un costume trop étriqué, et qui se charge années après années de connotations négatives.
 
-Un chef de produit c’est beaucoup plus qu’un Product Owner
+## Un chef de produit c’est beaucoup plus qu’un Product Owner
+
 On attend d’un patron d’une Startup d’État plus que ce que recouvre le rôle de PO. En particulier, il aura à sa charge des responsabilités de gestion de produit qui sont absentes du rôle de PO, mais qu’on retrouve classiquement chez les chefs de produit (product manager en anglais).
 
 Voici quelques exemples d’activités essentielles du chef de produit sur lesquels Scrum n’a rien à nous apprendre :
-Comment réaliser des tests utilisateurs ? Quels outils de feedback adopter pour quelle taille de Startup ?
-Comment suivre la performance de mon produit ? C’est quoi une KPI ?
-Comment faire un test AB ? C’est quoi la significativité statistique ? 
-Sans parler des questions d’UX sur lequel le patron de Startup se doit d’être (ou de devenir) compétent dans les premiers temps de la Startup.
+* Comment réaliser des tests utilisateurs ? Quels outils de feedback adopter pour quelle taille de Startup ?
+* Comment suivre la performance de mon produit ? C’est quoi une KPI ?
+* Comment faire un test AB ? C’est quoi la significativité statistique ? 
+* Sans parler des questions d’UX sur lequel le patron de Startup se doit d’être (ou de devenir) compétent dans les premiers temps de la Startup.
 
 Illustration des trous (béants) dans la raquette du Product Owner, voici les bénéfices attendus de la certification Scrum Product Owner selon la Scrum Alliance :
 Découvrir les fondations de Scrum et le périmètre de la certification Scrum Product Owner avec les experts de Scrum.
