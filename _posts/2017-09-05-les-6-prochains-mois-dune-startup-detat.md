@@ -80,10 +80,10 @@ Les 4 domaines (produit, marché, diffusion, impact) ne se valent pas. Des produ
 Ces principes vont donc guider l’intrapreneur dans l’écriture de son slide « la suite » :
 * Une long terme pas si lointain
 * Ne pas se focaliser sur les fonctionnalités
-* Principe de progressivité
-* Principe d’augmentation de la difficulté
-* Principe d’accélération
-* Principe de priorité : impact et marché avant produit et diffusion
+* Principe de **progressivité**
+* Principe d’**augmentation de la difficulté**
+* Principe d’**accélération**
+* Principe de **priorité** : impact et marché avant produit et diffusion
 
 Finie la description du futur de la Startup par le détail des tâches projet envisagées. En respectant ces principes de conception des prochaines marches, notre intrapreneur va pouvoir présenter un slide « la suite » bien plus perspicace que sa première liste à la Prévert. Il pourrait ressembler à ça :
 
