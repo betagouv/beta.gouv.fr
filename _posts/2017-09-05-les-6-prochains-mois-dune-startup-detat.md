@@ -25,7 +25,7 @@ La définition du futur à 6 mois par des objectifs plutôt que par des tâches 
 
 <!--more-->
 
-## Un long terme pas si lointain
+## Un long terme pas si loin
 
 Des objectifs à 6 mois, c’est déjà du long terme ! Au delà des 6 mois la Startup peut être tuée, ou alors son contexte règlementaire peut avoir évolué radicalement, ou l’équipe de la Startup peut avoir été bouleversée en profondeur. Autant dire que tout ce qui se passe après les 6 mois à venir, c’est de la science-fiction. Rien n’empêche d’en parler brièvement, mais en évitant de se laisser aller à écrire du mauvais Asimov.
 
