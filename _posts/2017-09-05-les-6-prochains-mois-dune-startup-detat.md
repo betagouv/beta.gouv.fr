@@ -59,7 +59,7 @@ Illustration côté produit : j’ai fait 10 tests utilisateurs qui se sont trè
 
 Appliquons le principe d’augmentation de la difficulté sur le marché sur l’exemple du service destiné aux alternants. Disons que 80% des jeunes en contrat d’apprentissage utilisent avec succès ma solution, il est plus que temps de s’attaquer aux contrats pro !
 
-Dans le cas de la diffusion : nous arrivons au bout du traffic qu’on peut généré avec notre base de 50 000 emails, il est temps de se pencher sur d’autres mécanismes d’acquisition (publicité, SEO, partenariats…).
+Dans le cas de la diffusion : nous arrivons au bout du traffic qu’on peut générer avec notre base de 50 000 emails, il est temps de se pencher sur d’autres mécanismes d’acquisition (publicité, SEO, partenariats…).
 
 Côté impact : il y a maintenant 10 000 marchés publics chaque mois publiés sur ma plateforme de simplification. Génial, visons les 50 000 mensuels d’ici 6 mois !
 
