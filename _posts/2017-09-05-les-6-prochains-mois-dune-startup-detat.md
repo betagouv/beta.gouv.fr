@@ -68,7 +68,7 @@ Le principe de progressivité peut être remis en cause quand le marché et l’
 
 Par exemple mon service d’aide au financement de formation est encore très incomplet mais l’impact est déjà prouvé car il a aidé drastiquement ses premiers milliers d’utilisateurs. Tant pis pour la progressivité, accélérons la diffusion le plus possible pour le mettre dans les mains de millions de demandeurs d’emploi au plus vite.
 
-Principe de priorité : impact et marché avant produit et diffusion
+## Principe de priorité : impact et marché avant produit et diffusion
 Les 4 domaines (produit, marché, diffusion, impact) ne se valent pas. Des produits génialissimes sans marché et sans impact s’empilent dans les cimetières numériques des acteurs privés ou publics. Comme nous le rappellent [Marc Andreesen](http://pmarchive.com/guide_to_startups_part4.html) et [Brian Balfour](http://www.priceintelligently.com/blog/brian-balfour-saas-product-market-fit-is-wrong), la progression sur les domaines impact et marché doit contraindre et guider la progression côté produit et diffusion !
 
 ## Conclusion
