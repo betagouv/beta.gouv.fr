@@ -3,7 +3,7 @@ title: "L’intrapreneur n’est pas un Product Owner"
 authors: ismael.hery
 ---
 
-Comment nommer le patron d’une Startup d’État ? Intrapreneur ? Product Owner ? Chef de Produit ?
+Comment nommer le porteur d’une Startup d’État ? Intrapreneur ? Product Owner ? Chef de Produit ?
 
 La question du choix des mots n’est pas anodine, et ces trois terminologies sont loin d’être interchangeables. Mais alors pourquoi l’intrapreneur n’est-il pas un Product Owner ? Et pourquoi ne peut-on pas l’appeler non plus chef de produit ?
 
@@ -30,18 +30,18 @@ Passons rapidement sur les arguments classiques du « Scrum Bashing » : l’ess
 
 Mais surtout les champions du numérique ne se sont jamais revendiqués comme Agile. A part peut-être chez Spotify, où les coachs Agiles ont une place prépondérante. Et encore, on peut y voir l’effet conjoncturel de la présence des très bons agilistes de [Crisp](http://dna.crisp.se/docs/index.html), comme Henrik Kniberg. Les autres, que ce soit les GAFAM ou les plus petites structures en succès, ne revendiquent jamais Scrum, le backlog, ou les user stories comme ingrédients prépondérants de leur réussite numérique !
 
-Le patron de Startup d’État ne peut pas être qualifié de PO. En effet la dimension produit de sa Startup est trop critique pour s’arrêter à ce que recommande le rôle Scrum de PO. Le costume est trop étriqué.
+Le porteur de Startup d’État ne peut pas être qualifié de PO. En effet la dimension produit de sa Startup est trop critique pour s’arrêter à ce que recommande le rôle Scrum de PO. Le costume est trop étriqué.
 
 ## Un chef de produit c’est beaucoup plus qu’un Product Owner
 
-On attend d’un patron d’une Startup d’État plus que ce que recouvre le rôle de PO. En particulier, il aura à sa charge des responsabilités de gestion de produit qui sont absentes du rôle de PO, mais qu’on retrouve classiquement chez les chefs de produit (product manager en anglais).
+On attend d’un porteur d’une Startup d’État plus que ce que recouvre le rôle de PO. En particulier, il aura à sa charge des responsabilités de gestion de produit qui sont absentes du rôle de PO, mais qu’on retrouve classiquement chez les chefs de produit (product manager en anglais).
 
 Voici quelques exemples d’activités essentielles du chef de produit sur lesquels Scrum n’a rien à nous apprendre :
 
 * Comment réaliser des tests utilisateurs ? Quels outils de feedback adopter pour quelle taille de Startup ?
 * Comment suivre la performance de mon produit ? C’est quoi une KPI ?
 * Comment faire un test AB ? C’est quoi la significativité statistique ? 
-* Sans parler des questions d’UX sur lequel le patron de Startup se doit d’être (ou de devenir) compétent dans les premiers temps de la Startup.
+* Sans parler des questions d’UX sur lequel le porteur de Startup se doit d’être (ou de devenir) compétent dans les premiers temps de la Startup.
 
 Illustration des trous (béants) dans la raquette du Product Owner, voici les bénéfices attendus de la certification Scrum PO selon la [Scrum Alliance](https://www.scrumalliance.org/certifications/practitioners/cspo-certification) :
 
@@ -50,19 +50,19 @@ Illustration des trous (béants) dans la raquette du Product Owner, voici les b�
 * Étendre ses opportunités de carrière en étant marketable au sein de toute une industrie qui adopte les pratiques Agile
 * Rencontrer une communauté d’experts Scrum, reconnus, et engagés dans un cycle d’amélioration continue
 
-Quitte à payer pour envoyer des leaders de Startups d’État en formation, j’aurai plutôt attendu des bénéfices autour de compétences de gestion de produit numérique :
+Quitte à payer pour envoyer des porteurs de Startups d’État en formation, j’aurai plutôt attendu des bénéfices autour de compétences de gestion de produit numérique :
 
 * Découvrir les principes techniques de base structurant le web (HTML, HTTP, code serveur vs code client, API), de ce qui est de l’ordre du possible techniquement, des ordres des grandeurs de développement
 * Savoir préparer, animer, analyser un test utilisateur
 * Apprendre les bases de l’ergonomie et de la conception d’interface (Don’t make me think, best practices essentielles, comment rester informé dans ce domaine)
 
-Tout ça pour dire qu’un patron de Startup d’État qui souhaite progresser sur le volet produit aura beaucoup plus à apprendre d’un chef de produit de « savon à main parfum coco » de chez Procter et Gamble, que d’un certificateur Scrum Product Owner.
+Tout ça pour dire qu’un porteur de Startup d’État qui souhaite progresser sur le volet produit aura beaucoup plus à apprendre d’un chef de produit de « savon à main parfum coco » de chez Procter et Gamble, que d’un certificateur Scrum Product Owner.
 
 Alors le leader de la Startup d’État c’est un chef de produit ? Oui, il est plus chef de produit que Product Owner. Mais non, il n’est pas seulement chef de produit.
 
 ## Conclusion
 
-Le patron de la Startup d’État est plus proche d’un entrepreneur que d’un chef de produit. En plus des problématiques produit, [son aventure va le confronter à des enjeux métier, de financement, d’organisation, de communication, et de partenariat](https://beta.gouv.fr/2017/02/16/intrapreneur-startup-d-etat.html).
+Le porteur de la Startup d’État est plus proche d’un entrepreneur que d’un chef de produit. En plus des problématiques produit, [son aventure va le confronter à des enjeux métier, de financement, d’organisation, de communication, et de partenariat](https://beta.gouv.fr/2017/02/16/intrapreneur-startup-d-etat.html).
 
 Ça y est, on a trouvé. C’est un intrapreneur de Startup d’État !
 
