@@ -77,9 +77,7 @@ Les 4 domaines (produit, marché, diffusion, impact) ne se valent pas. Des produ
 
 ## Conclusion
 
-Ces principes vont donc guider l’intrapreneur dans l’écriture de son slide « la suite » :
-* Une long terme pas si lointain
-* Ne pas se focaliser sur les fonctionnalités
+En évitant de se focaliser uniquement sur les fonctionnalités, ces principes vont donc guider l’intrapreneur dans l’écriture de son slide « les 6 mois à venir » :
 * Principe de **progressivité**
 * Principe d’**augmentation de la difficulté**
 * Principe d’**accélération**
@@ -90,8 +88,8 @@ Concrètement le mode opératoire est le suivant. On va dérouler les principes 
 * accélération : si l’impact est prouvé, comment accélérer la diffusion ?
 
 Puis sur chacun des axes produit, marché, et diffusion, on peut définir intelligemment les 6 mois à venir en se posant les questions suivantes :
-* progressivité : comment continuer sur cet axe sans sauter d’étapes indispensables ?
-* augmentation de la difficulté : comment grandir sur cet axe et ne pas se contenter de ce qu’on a ?
+* progressivité : comment continuer sur cet axe avec des étapes intermédiaires astucieuses ?
+* augmentation de la difficulté : comment grandir sur cet axe pour ne pas se contenter de ce qu’on a ?
 
 Finie la description du futur de la Startup par le détail des tâches projet envisagées. En respectant ces principes de conception des prochaines marches, notre intrapreneur va pouvoir présenter un slide « la suite » bien plus perspicace que sa première liste à la Prévert. Il pourrait ressembler à ça :
 
