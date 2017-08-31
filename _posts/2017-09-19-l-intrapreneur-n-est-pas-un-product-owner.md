@@ -7,7 +7,7 @@ Comment nommer le patron d’une Startup d’État ? Intrapreneur ? Product Owne
 
 La question du choix des mots n’est pas anodine, et ces trois terminologies sont loin d’être interchangeables. Mais alors pourquoi l’intrapreneur n’est-il pas un Product Owner ? Et pourquoi ne peut-on pas l’appeler non plus chef de produit ?
 
-<!-- more-->
+<!--more-->
 
 ## They are legions
 
