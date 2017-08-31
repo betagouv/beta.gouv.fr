@@ -30,7 +30,7 @@ Passons rapidement sur les arguments classiques du « Scrum Bashing » : l’ess
 
 Mais surtout les champions du numérique ne se sont jamais revendiqués comme Agile. A part peut-être chez Spotify, où les coachs Agiles ont une place prépondérante. Et encore, on peut y voir l’effet conjoncturel de la présence des très bons agilistes de [Crisp](http://dna.crisp.se/docs/index.html), comme Henrik Kniberg. Les autres, que ce soit les GAFAM ou les plus petites structures en succès, ne revendiquent jamais Scrum, le backlog, ou les user stories comme ingrédients prépondérants de leur réussite numérique !
 
-Un intrapreneur n’est donc pas un Product Owner, titre qui dessine un costume trop étriqué, et qui se charge années après années de connotations négatives.
+Le patron de Startup d’État ne peut pas être qualifié de Product Owner. En effet la dimension produit de sa Startup est trop critique pour s’arrêter à ce que recommande le rôle Scrum de Product Owner. Le costume est trop étriqué.
 
 ## Un chef de produit c’est beaucoup plus qu’un Product Owner
 
