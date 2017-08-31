@@ -84,8 +84,11 @@ Finie la description du futur de la Startup par le détail des tâches projet en
 
 Dans les 6 prochains mois :
 > Impact : atteindre les 1 millions de transactions réussies chaque mois. À cette fin :
+
 > Produit : permettre aux utilisateurs d’ajouter des pièces jointes
+
 > Marché : faire passer la proportion des usagers de moins de 25 ans à 10%.
+
 > Diffusion : mettre en place le partenariat avec les Chambre de Commerce et d’Industrie pour atteindre 10 000 utilisateurs par mois issus de ce canal
 
 Les conséquences positives de cette forme de slide « la suite » seront multiples. D'aboard, le sponsor sera incité à poser des questions plus pertinentes que « avez-vous finalisé la nouvelle charte graphique ? ». Par exemple il demandera « alors, combien d’utilisateur satisfaits sont maintenant issus des Chambre de Commerce et d’Industrie chaque mois ? ».
