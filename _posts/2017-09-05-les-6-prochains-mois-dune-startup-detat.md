@@ -32,6 +32,7 @@ Des objectifs à 6 mois, c’est déjà du long terme ! Au delà des 6 mois la S
 Autre intérêt d’arrêter le long terme à 6 mois, c’est une échelle déjà longue, mais encore assez courte pour conserver le focus et la motivation d’une équipe de Startup d’État.
 
 ## Ne pas se focaliser sur les fonctionnalités
+
 La facilité consiste à lister des idées de fonctionnalité produit (des idées, on en a tous 15 par nuit), en oubliant que la Startup d’État se doit d’abord de gagner de nouveaux utilisateurs, trouver de nouveaux canaux de diffusion, et maximiser l’impact de ses efforts sur le réel.
 
 * Le futur du produit : quelles prochaines fonctionnalités ou éléments d’expérience utilisateur permettraient de résoudre encore mieux le problème de l’usager ?
@@ -55,6 +56,7 @@ Exemple de progressivité sur l’impact : disons que notre Startup cherche à d
 
 
 ## Principe d’augmentation de la difficulté
+
 Illustration côté produit : j’ai fait 10 tests utilisateurs qui se sont très bien passés pour 9 d’entre eux avec des utilisateurs qui sont allé au bout du service et ont été satisfaits. De nouveaux tests utilisateur dans le même cadre mais avec 100 personnes ne vont sans doute pas m’apprendre grand chose de nouveau. Il est peut-être temps de mettre le service dans les mains de quelques centaines d’utilisateurs pour mesurer quantitativement les usages et analyser les comportements in situ.
 
 Appliquons le principe d’augmentation de la difficulté sur le marché sur l’exemple du service destiné aux alternants. Disons que 80% des jeunes en contrat d’apprentissage utilisent avec succès ma solution, il est plus que temps de s’attaquer aux contrats pro !
@@ -64,14 +66,17 @@ Dans le cas de la diffusion : nous arrivons au bout du traffic qu’on peut gén
 Côté impact : il y a maintenant 10 000 marchés publics chaque mois publiés sur ma plateforme de simplification. Génial, visons les 50 000 mensuels d’ici 6 mois !
 
 ## Principe d’accélération
+
 Le principe de progressivité peut être remis en cause quand le marché et l’impact sont assurés. Dans ce cas on peut être tenté de diffuser le plus rapidement possible, quitte à sauter quelques étapes intermédiaires.
 
 Par exemple mon service d’aide au financement de formation est encore très incomplet mais l’impact est déjà prouvé car il a aidé drastiquement ses premiers milliers d’utilisateurs. Tant pis pour la progressivité, accélérons la diffusion le plus possible pour le mettre dans les mains de millions de demandeurs d’emploi au plus vite.
 
 ## Principe de priorité : impact et marché avant produit et diffusion
+
 Les 4 domaines (produit, marché, diffusion, impact) ne se valent pas. Des produits génialissimes sans marché et sans impact s’empilent dans les cimetières numériques des acteurs privés ou publics. Comme nous le rappellent [Marc Andreesen](http://pmarchive.com/guide_to_startups_part4.html) et [Brian Balfour](http://www.priceintelligently.com/blog/brian-balfour-saas-product-market-fit-is-wrong), la progression sur les domaines impact et marché doit contraindre et guider la progression côté produit et diffusion !
 
 ## Conclusion
+
 Ces principes vont donc guider l’intrapreneur dans l’écriture de son slide « la suite » :
 * Une long terme pas si lointain
 * Ne pas se focaliser sur les fonctionnalités
