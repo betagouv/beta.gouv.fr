@@ -27,26 +27,26 @@ Supprimer entièrement le décalage temporel entre rentrée de chiffre d'affaire
 
 3. Une fois la demande validée, la rémunération brute de l'indépendant est prélevée sur le compte professionnel (SEPA Direct Debit), le net versé sur le compte personnel (SEPA Credit Transfer) et les cotisations sociales ventilées vers les organismes.
 
-4. Au fil de l'eau le système met à disposition de l'indépendant un relevé des revenus versés et des cotisations prélevées. A la clôture des comptes, un bouclage automatique avec la liasse fiscale permet de s'assurer que toutes les rémunérations ont bien été captées par le système. Un dernier paiement (ou rétrocession) peut alors être déclenché avec le consentement de l'usager.
+4. Au fil de l'eau le système met à disposition de l'indépendant un relevé des revenus versés et des cotisations prélevées. A la clôture des comptes, un bouclage automatique avec la liasse fiscale permet de s'assurer que toutes les rémunérations ont bien été captées par le système (notamment plus ou moins-values de cession et, depuis 2013, les dividendes versés). Un dernier paiement (ou rétrocession) peut alors être déclenché avec le consentement de l'usager.
 
-5. Le dispositif devient __l'interlocuteur unique__ de l'indépendant, par délégation du RSI, pour tout ce qui concerne ses revenus et cotisations sociales. Aucun courrier du RSI ou des URSSAF ne s'ajoute au dispositif. Pour le RSI c'est une charge de moins au profit d'un dispositif simple et automatisé au maximum (une hot-line dédiée sera nécessaire pour les cas non-nominaux, voir plus loin).
+5. Le dispositif devient __l'interlocuteur unique__ de l'indépendant pour tout ce qui concerne ses revenus et cotisations sociales. Aucune interaction avec l'URSSAF ou les organismes ne s'ajoute au dispositif. Pour l'État c'est une charge de moins (chaque organisme calcule et prélève aujourd'hui) au profit d'un dispositif simple et automatisé à son maximum (une hot-line dédiée sera nécessaire pour les cas non-nominaux, voir plus loin).
 
-### Le «&nbsp;consentement à l'impôt&nbsp;»
+### Le «&nbsp;consentement au prélèvement social&nbsp;»
 
-Un tel processus crée un rapport simple à l'impôt, sans surprise car immédiat et définitif.
+Un tel processus crée un rapport simple au paiement des charges sociales, sans surprise car immédiat et définitif.
 Il établit un lien direct, transparent et volontaire, entre le bénéfice d'une rémunération et le paiement de cotisations sociales. Enfin, l’indépendant trouvera dans son espace personnel toutes les informations sur les droits ouverts par ses cotisations : santé, retraite, formation ... Ces organismes se limitant désormais à la gestion des droits.
 
 #### Différence avec le système d’autoliquidation hisotriquement proposé par les experts comptables
 
-Les experts comptables proposent de faire eux-mêmes le calcul des cotisations sociales et de les verser directement au RSI chaque fois qu'un indépendant souhaite se verser une rémunération. Cette proposition permet, comme pour le dispositif proposé, de verser une rémunération et de payer les cotisations afférentes dans une même unité de temps.
-Le dispositif va plus loin puisqu'il prend en charge le calcul des cotisations, celui-ci étant réalisé automatiquement, et donc avec une fiabilité garantie, à l'image des simplifications majeures apportées par le Chèque Emploi Service ou le Titre Emploi Service Entreprise. 
+Les experts comptables proposent de faire eux-mêmes le calcul des cotisations sociales et de les verser directement aux organismes chaque fois qu'un indépendant souhaite se verser une rémunération. Cette proposition permet, comme pour le dispositif proposé, de verser une rémunération et de payer les cotisations afférentes dans une même unité de temps.
+Le dispositif proposé va plus loin puisqu'il prend en charge le calcul des cotisations, celui-ci étant réalisé automatiquement, et donc avec une fiabilité garantie, à l'image des simplifications majeures apportées par le Chèque Emploi Service ou le Titre Emploi Service Entreprise. 
 
 ### Périmètre d'application
 
 Le dispositif d'autoliquidation peut s'appliquer à tous les indépendants, artisans, commerçants, industriels et professions libérales au réel ou réel simplifié. Selon que l'entreprise est à l'IR ou à l'IS, le dialogue usager sera différencié :
 
 - à l'IS : la détermination des cotisations se fonde uniquement sur le montant de la rémunération, le système demande donc la rémunération nette souhaitée, demande de valider que le compte soit provisionné du montant chargé et procède au prélèvement puis au virement ;
-- à l'IR : la détermination des cotisations se fonde sur le bénéfice de l'entreprise, or il n'est connu qu'à la fin de l'exercice. L'interface de paiement propose donc d'estimer un résultat mensuel pour convenir d'une rémunération, dont le brut chargé doit être disponible sur le compte.
+- à l'IR : la détermination des cotisations se fonde sur le bénéfice de l'entreprise, or il n'est connu qu'à la fin de l'exercice. Pour autant, l'entrepreneur individuel se paye régulièrement. L'interface propose donc comme précédemment de saisir la rémunération nette souhaitée, en aidant l'usager à estimer son résultat mensuel pour éviter de trop grands écarts de régularisation en fin de cycle.
 
 Enfin les auto-entrepreneurs disposent déjà d'un régime simplifié avec des cotisations assises sur un chiffre d'affaire, et non sur une rémunération, et un dispositif d'autoliquidation : l'auto-entrepreneur détermine lui-même ses charges et les verse au RSI. Le dispositif  n'a donc pas d'intérêt particulier pour eux.
 
