@@ -12,7 +12,7 @@ Alors, j’explicite : l’incubateur des Startups d'État est rattaché au SGMA
 
 <!--more-->
 
-Jusqu’à ce qu’on me parle de [beta.gouv.fr](https://beta.gouv.fr/) : un espace dédié à l’innovation ? au cœur de la machine administrative de l’État ? chargée de la moderniser de l’intérieur ? avec des petites équipes qui livrent en moins de 6 mois ? Difficile à croire.
+Jusqu’à ce qu’on me parle de [beta.gouv.fr](https://beta.gouv.fr/) : un espace dédié à l’innovation ? au cœur de la machine administrative de l’État ? chargé de la moderniser de l’intérieur ? avec des petites équipes qui livrent en moins de 6 mois ? Difficile à croire.
 
 ## Des services publics numériques construits en mode startup
 
