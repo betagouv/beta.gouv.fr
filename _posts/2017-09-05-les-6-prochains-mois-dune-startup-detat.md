@@ -85,6 +85,14 @@ Ces principes vont donc guider l’intrapreneur dans l’écriture de son slide 
 * Principe d’**accélération**
 * Principe de **priorité** : impact et marché avant produit et diffusion
 
+Concrètement le mode opératoire est le suivant. On va dérouler les principes dans l’ordre inverse :
+* priorité : l’impact et le marché guident tout le reste, quelles contraintes sur le produit et sur la diffusion dans les 6 mois ?
+* accélération : si l’impact est prouvé, comment accélérer sur les axes produit/marché/diffusion ?
+
+Puis sur chacun des axes produit, marché, diffusion, on peut définir intelligemment les 6 mois à venir en se posant les questions suivantes :
+* progressivité : comment continuer sur cet axe progressivement ?
+* augmentation de la difficulté : comment grandir sur cet axe et ne pas se contenter de ce qu’on a ?
+
 Finie la description du futur de la Startup par le détail des tâches projet envisagées. En respectant ces principes de conception des prochaines marches, notre intrapreneur va pouvoir présenter un slide « la suite » bien plus perspicace que sa première liste à la Prévert. Il pourrait ressembler à ça :
 
 Dans les 6 prochains mois :
