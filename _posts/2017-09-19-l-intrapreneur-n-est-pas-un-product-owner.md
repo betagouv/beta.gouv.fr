@@ -11,11 +11,11 @@ La question du choix des mots n’est pas anodine, et ces trois terminologies so
 
 ## They are legions
 
-Le rôle de Product Owner a été popularisé par la méthode Agile Scrum. [En Scrum](https://www.scrumguides.org/scrum-guide.html#team-po) le Product Owner est responsable de maximiser la valeur du produit et la valeur issue des travaux de l’équipe de développement.
+Le rôle de Product Owner (PO) a été popularisé par la méthode Agile Scrum. [En Scrum](https://www.scrumguides.org/scrum-guide.html#team-po) le PO est responsable de maximiser la valeur du produit et la valeur issue des travaux de l’équipe de développement.
 
 Ne nions pas les avancées issues du génie et de l’énergie des créateurs de Scrum, Ken Schwaber et Jeff Sutherland. Ils ont réussi à tirer vers le haut une industrie entière, par la remise en cause de la lourdeur de la formalisation, et par la mise en œuvre d’un outillage de gestion de projet simple et efficace.
 
-Rançon du succès, des armées de profils du type maîtrise d’ouvrage, issues de structures privées ou publiques, ont passé la certification Scrum Product Owner ces dernières années. Est-ce que pour autant les délais des projets, leurs coûts et la satisfaction des usagers se sont améliorés depuis ? J’en doute. En tout cas pas à la hauteur de l’effort (et du budget) de formation Product Owner.
+Rançon du succès, des armées de profils du type maîtrise d’ouvrage, issues de structures privées ou publiques, ont passé la certification Scrum PO ces dernières années. Est-ce que pour autant les délais des projets, leurs coûts et la satisfaction des usagers se sont améliorés depuis ? J’en doute. En tout cas pas à la hauteur de l’effort (et du budget) de formation Product Owner.
 
 Il y a bien sûr de très bons POs, mais statistiquement le terme de « Certified PO » m’évoque dorénavant le profil suivant :
 
@@ -30,7 +30,7 @@ Passons rapidement sur les arguments classiques du « Scrum Bashing » : l’ess
 
 Mais surtout les champions du numérique ne se sont jamais revendiqués comme Agile. A part peut-être chez Spotify, où les coachs Agiles ont une place prépondérante. Et encore, on peut y voir l’effet conjoncturel de la présence des très bons agilistes de [Crisp](http://dna.crisp.se/docs/index.html), comme Henrik Kniberg. Les autres, que ce soit les GAFAM ou les plus petites structures en succès, ne revendiquent jamais Scrum, le backlog, ou les user stories comme ingrédients prépondérants de leur réussite numérique !
 
-Le patron de Startup d’État ne peut pas être qualifié de Product Owner. En effet la dimension produit de sa Startup est trop critique pour s’arrêter à ce que recommande le rôle Scrum de Product Owner. Le costume est trop étriqué.
+Le patron de Startup d’État ne peut pas être qualifié de PO. En effet la dimension produit de sa Startup est trop critique pour s’arrêter à ce que recommande le rôle Scrum de PO. Le costume est trop étriqué.
 
 ## Un chef de produit c’est beaucoup plus qu’un Product Owner
 
@@ -43,9 +43,9 @@ Voici quelques exemples d’activités essentielles du chef de produit sur lesqu
 * Comment faire un test AB ? C’est quoi la significativité statistique ? 
 * Sans parler des questions d’UX sur lequel le patron de Startup se doit d’être (ou de devenir) compétent dans les premiers temps de la Startup.
 
-Illustration des trous (béants) dans la raquette du Product Owner, voici les bénéfices attendus de la certification Scrum Product Owner selon la [Scrum Alliance](https://www.scrumalliance.org/certifications/practitioners/cspo-certification) :
+Illustration des trous (béants) dans la raquette du Product Owner, voici les bénéfices attendus de la certification Scrum PO selon la [Scrum Alliance](https://www.scrumalliance.org/certifications/practitioners/cspo-certification) :
 
-* Découvrir les fondations de Scrum et le périmètre de la certification Scrum Product Owner avec les experts de Scrum.
+* Découvrir les fondations de Scrum et le périmètre de la certification PO avec les experts de Scrum.
 * Démontrer à ses responsables et à ses pairs la connaissance du cœur de Scrum.
 * Étendre ses opportunités de carrière en étant marketable au sein de toute une industrie qui adopte les pratiques Agile
 * Rencontrer une communauté d’experts Scrum, reconnus, et engagés dans un cycle d’amélioration continue
