@@ -52,10 +52,11 @@ Enfin les auto-entrepreneurs disposent déjà d'un régime simplifié avec des c
 
 ### Recouvrement amiable, recouvrement contentieux, fraude
 
-Le système est structurellement vertueux, le dirigeant est incité à ne se rémunérer qu'à hauteur des moyens de son entreprise, en plein connaissance des charges obligatoires. Cela réduira considérablement le taux d'anomalies, à commencer par la taxation d'office (200 000 occurences / an aujourd'hui) et le recouvrement amiable qu'elle génère. 
+Le système classique génère un nombre extrêmement important de difficultés de paiement : au titre des cotisations dues en 2016, près de 300.000 cotisants sont en retard de paiement au 31/12/2016, et auront donc fait l’objet de relances amiables, ou d’engagements d’opérations de recouvrement forcés.
 
-Lorsqu'un prélèvement échoue, là encore le système n'est pas en mode contentieux, et considère qu'il doit se caler sur les [cotisations minimales](https://www.rsi.fr/cotisations/artisans-commercants/calcul-des-cotisations/cotisations-minimales.html). Lorsque ce prélèvement minimal échoue, le système entre dans un dialogue manuel.
+Le système proposé n’induit aucun risque de fraude supplémentaire : il repose, comme le système actuel, sur la même déclaration annuelle de revenus. Mieux, il est structurellement vertueux, car le dirigeant est incité à ne se rémunérer qu'à hauteur des moyens de son entreprise, en pleine connaissance des charges obligatoires. Les cas de défaut de provision seront rares, car le système proposera au cotisant d’ajuster le montant qu’il veut se verser additionné des cotisations en lui permettant de tenir compte des liquidités de son compte professionnel. Lorsqu'un prélèvement échoue, là encore le système n'est pas en mode contentieux, et considère qu'il doit se caler sur les [cotisations minimales](https://www.rsi.fr/cotisations/artisans-commercants/calcul-des-cotisations/cotisations-minimales.html). Lorsque ce prélèvement minimal échoue, le système entre dans un dialogue manuel.
 
+En réduisant considérablement le taux d'anomalies, nous libérons des gains importants pour les opérations de recouvrement amiable et forcé. Des moyens supplémentaires pourraient ainsi être mis au contrôle des éléments déclaratifs d’assiette, et donc permettre une action plus efficace contre les risques de fraudes déclaratives.
 
 ### La démarche de mise en œuvre : héberger l'innovation
 
