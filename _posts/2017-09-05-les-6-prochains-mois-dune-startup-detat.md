@@ -3,14 +3,15 @@ title: Les 6 prochains mois d’une Startup d’État
 authors: ismael.hery
 ---
 
-Notre intrapreneur de Startup d’État rencontre son sponsor tous les 6 mois, pour faire le point sur sa Startup et permettre à ce dernier de décider parmi les choix suivants :
-* on arrête tout
-* fini le mode Startup, le produit peut rentrer en maintenance
-* j’en veux d’avantage et plus vite, augmentons les moyens de cette Startup !
+Notre intrapreneur de Startup d’État rencontre son sponsor tous les 6 mois, pour faire le point sur sa Startup et permettre à ce dernier de décider parmi les choix de tout arrêter, de continuer en sortant du mode Startup, ou d’augmenter l'investissement pour accélérer la Startup.
 
 À cette occasion, sa présentation est ponctuée d’une démo et d’un point sur les métriques, puis se termine souvent par la description du futur de sa Startup dans le fameux slide « les 6 prochains mois », alias « la suite », alias « le futur de la Startup ».
 
-Cette dernière partie de sa présentation prend parfois la forme d’une liste d’activités à venir pour l’équipe. Ce qui pourrait ressembler à ça :
+Quelle est la meilleure façon de concevoir ces 6 mois à venir ?
+
+<!--more-->
+
+L’intrapreneur débutant est tenté de définir les 6 mois à venir sous la forme d’une liste d’activités envisagées pour l’équipe. Ce qui pourrait ressembler à ça :
 * écrire des CGUs avec le juridique
 * développer des règles métier spécifiques à la région Haut-de-France
 * implémenter la nouvelle charte graphique
@@ -22,8 +23,6 @@ Malheureusement, cette description du futur de la Startup en liste de tâches à
 Ensuite, cette vue en activités est pauvre parce qu’elle n’aide pas l’intrapreneur et l’équipe de la Startup d’État à se poser les questions qui vont leur permettre de trouver le meilleur chemin vers la réussite de la Startup.
 
 La définition du futur à 6 mois par des objectifs plutôt que par des tâches ou des activités constitue une première amélioration évidente. D’autres principes de conception vont aider notre intrapreneur à mieux définir la suite. Passons en revue ces principes.
-
-<!--more-->
 
 ## Un long terme pas si loin
 
