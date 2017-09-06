@@ -360,32 +360,31 @@ h1.site-description {
 
 #masthead {
     background-size: cover;
-    background-position: bottom center;
+    background-position: top center;
     background-attachment: fixed;
-    padding: 5em;
+    padding: 5em 0 2.5em;
     color: white;
-    letter-spacing: .05em;
     background-color: #CCC;
     box-shadow: inset 0em 0em 1em #666;
     background-blend-mode: darken;
     position: relative;
+    text-shadow: 7px 3px 16px #000;
 }
 
-#masthead .subtitle {
-    position: absolute;
-    bottom: 1em;
-    left: 5em;
+#masthead .masthead-wrapper {
+    max-width: 740px;
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
 }
 
 #masthead h1 {
-    text-transform: uppercase;
+    font-size: 300%;
     text-align: left;
     font-weight: bold;
     line-height: 1.25;
-    font-size: 300%;
     max-width: 20em;
-    margin-top: 0;
-    text-shadow: 0 0 .5em #666;
+    margin: 0;
     padding: 0;
 }
 
