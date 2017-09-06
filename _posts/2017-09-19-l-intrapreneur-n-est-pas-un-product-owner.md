@@ -68,7 +68,7 @@ Le porteur de la Startup d’État est plus proche d’un entrepreneur que d’u
 
 Ça y est, on a trouvé. C’est un intrapreneur de Startup d’État !
 
-Le terme intrapreneur ne tire pas les connotations restrictives de PO et englobe plus que les missions du chef de produit. Bien sûr, le terme deviendra beaucoup moins sexy dans 5 ans, quand des intrapreneurs de tout poil auront envahi les organisations, et que le terme sera devenu galvaudé ... à moins que nous gardions bien en tête la définition suivante : celui qui se revendique intrapreneur doit fournir un URL. 
+Le terme intrapreneur ne tire pas les connotations restrictives de PO et englobe plus que les missions du chef de produit. Bien sûr, le terme deviendra beaucoup moins sexy dans 5 ans, quand des intrapreneurs de tout poil auront envahi les organisations, et que le terme sera devenu galvaudé… À moins que nous gardions bien en tête la définition suivante : peut se revendiquer comme intrapreneur en succès celui ou celle qui fournit un URL et les preuves d'utilisateurs satisfaits.
 
 Les intrapreneurs ne courant pas encore les couloirs des administrations, il nous arrive de mener des Startups d’État avec de très bons Product Owner. Dans cette situation tout se cale plus facilement une fois qu’on se l’est dit : ce n’est pas le même job (comprendre "va falloir sortir de ta zone de confort coco").
 
