@@ -36,7 +36,7 @@ Supprimer entièrement le décalage temporel entre rentrée de chiffre d'affaire
 Un tel processus crée un rapport simple au paiement des charges sociales, sans surprise car immédiat et définitif.
 Il établit un lien direct, transparent et volontaire, entre le bénéfice d'une rémunération et le paiement de cotisations sociales. Enfin, l’indépendant trouvera dans son espace personnel toutes les informations sur les droits ouverts par ses cotisations : santé, retraite, formation ... Ces organismes se limitant désormais à la gestion des droits.
 
-#### Différence avec le système d’autoliquidation hisotriquement proposé par les experts comptables
+#### Différence avec le système d’autoliquidation historiquement proposé par les experts comptables
 
 Les experts comptables proposent de faire eux-mêmes le calcul des cotisations sociales et de les verser directement aux organismes chaque fois qu'un indépendant souhaite se verser une rémunération. Cette proposition permet, comme pour le dispositif proposé, de verser une rémunération et de payer les cotisations afférentes dans une même unité de temps.
 Le dispositif proposé va plus loin puisqu'il prend en charge le calcul des cotisations, celui-ci étant réalisé automatiquement, et donc avec une fiabilité garantie, à l'image des simplifications majeures apportées par le Chèque Emploi Service ou le Titre Emploi Service Entreprise. 
