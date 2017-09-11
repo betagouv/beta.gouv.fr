@@ -12,14 +12,14 @@ layout: default
 {% endif %}
 
 <div id="masthead">
-    <h1>{% if startup %}[{{ startup.title }}] {% endif %}{{ page.title}}</h1>
-    <div class="subtitle">Paru le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%d/%m/%Y" }}</time></div>
+    <div class="masthead-wrapper">
+        <h1>{{ page.title}}</h1>
+        <p>Paru le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%d/%m/%Y" }}</time></p>
+    </div>
 </div>
 
 <div class="post-container">
     <article class="post">
-        <h1>{{ page.title }}</h1>
-
         <div class="excerpt">{{ page.excerpt }}</div>
 
         {% if startup %}
