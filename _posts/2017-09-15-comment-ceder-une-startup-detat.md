@@ -1,5 +1,5 @@
 ---
-title: Comment céder une Startup d’État ?
+title: Comment céder une startup d’État ?
 authors: pierre.pezziardi
 ---
 
@@ -11,11 +11,11 @@ Au bout d’un à trois ans, une startup incubée aura obtenu à peu de frais la
 
 ## Le mariage impossible
 
-Les services construits par des Startups d’État sont le fruit de pratiques souvent très différentes de celles en vigueur dans les directions informatiques des administrations. Équipes produit intégrées en contact direct à l’usager, itérations courtes (livraison d’une nouvelle version toutes les deux semaines) et permanentes (le produit ne cessera de s’améliorer tant qu’il aura des usagers)… 
+Les services construits par des startups d’État sont le fruit de pratiques souvent très différentes de celles en vigueur dans les directions informatiques des administrations. Équipes produit intégrées en contact direct à l’usager, itérations courtes (livraison d’une nouvelle version toutes les deux semaines) et permanentes (le produit ne cessera de s’améliorer tant qu’il aura des usagers)… 
 
 Les DSI des administrations sont quant à elles plus habituées à une séparation des rôles entre maîtrise d’ouvrage, maîtrise d’oeuvre, fonctions support (architecture, sécurité, achat…), recette, équipes d’exploitation, gestion du changement, TMA … Cette organisation fonctionne en étapes longues de plusieurs mois structurées par des contrats formels (cahier des charges, spécifications, cahier de recette, cahier d’exploitation…). Une séparation nette est maintenue entre équipes « projet » auxquelles succèdent des équipes « maintenance », là où une Startup d’État ne retient qu’une équipe permanente, à l'affût des améliorations permettant d’améliorer et de diffuser le service.
 
-Transférer un service public numérique d’une petite organisation de culture agile vers une grande organisation de culture contractuelle va donc naturellement provoquer un désir de « retour à la normale » vers le cadre contractuel connu. Mais mettre en risque les pratiques qui ont permis de construire le service, c’est mettre en péril le service lui-même ! Facebook pourrait-il encore être le premier réseau social mondial s’il était en maintenance dans une SSII ?
+Transférer un service public numérique d’une petite organisation de culture agile vers une grande organisation de culture contractuelle va donc naturellement provoquer un désir de « retour à la normale » vers le cadre contractuel connu. Mais mettre en risque les pratiques qui ont permis de construire le service, c’est mettre en péril le service lui-même ! Facebook pourrait-il encore être le premier réseau social mondial s’il était en maintenance dans une SSII&nbsp;?
 
 ## Éloge de la différence
 
@@ -27,7 +27,7 @@ Les bénéfices sont triples :
 
 * continuer à enrichir le produit qui a montré l'efficacité de l’organisation intégrée jusqu'ici;
 * enrichir l’offre de service de la DSI, en proposant un nouveau guichet à ses usagers : l’offre agile ;
-* permettre à d’autres équipes existantes d’envisager basculer dans ce mode si elles le souhaitent : la présence d’une première équipe agile permet de lever les barrières et d’aider les informaticiens volontaires à basculer, notamment ceux qui touchent les limites du système contractuel, là où cela fonctionne le moins bien.
+* permettre à d’autres équipes existantes d’envisager basculer [dans ce mode](https://beta.gouv.fr/2016/11/28/equipes-autonomes.html) si elles le souhaitent : la présence d’une première équipe agile permet de lever les barrières et d’aider les informaticiens volontaires à basculer, notamment ceux qui touchent les limites du système contractuel, là où cela fonctionne le moins bien.
 
 ## Une passation en douceur
 
