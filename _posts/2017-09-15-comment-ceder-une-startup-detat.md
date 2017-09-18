@@ -27,7 +27,7 @@ Les bénéfices sont triples :
 
 * continuer à enrichir le produit qui a montré l'efficacité de l’organisation intégrée jusqu'ici ;
 * enrichir l’offre de service de la DSI, en proposant un nouveau guichet à ses usagers : l’offre agile ;
-* permettre à d’autres équipes existantes d’envisager basculer [dans ce mode](https://beta.gouv.fr/2016/11/28/equipes-autonomes.html) si elles le souhaitent : la présence d’une première équipe agile permet de lever les barrières au changement et d’aider les informaticiens volontaires à basculer.
+* permettre à d’autres équipes existantes d’envisager de basculer [dans ce mode](https://beta.gouv.fr/2016/11/28/equipes-autonomes.html) si elles le souhaitent : la présence d’une première équipe agile permet de lever les barrières au changement et d’aider les informaticiens volontaires à basculer.
 
 ## Une passation en douceur
 
