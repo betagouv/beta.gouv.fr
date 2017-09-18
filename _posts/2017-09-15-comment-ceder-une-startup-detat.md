@@ -15,7 +15,7 @@ Les services construits par des Startups d’État sont le fruit de pratiques so
 
 Les DSI des administrations sont quant à elles plus habituées à une séparation des rôles entre maîtrise d’ouvrage, maîtrise d’oeuvre, architecture, sécurité, achat, recette, équipes d’exploitation, gestion du changement, TMA… Cette organisation fonctionne en étapes longues de plusieurs mois structurées par des contrats formels (cahier des charges, spécifications, cahier de recette, doissier de sécurité, cahier d’exploitation…). Une séparation nette est maintenue entre équipes « projet » auxquelles succèdent des équipes « maintenance », là où une Startup d’État ne retient qu’une équipe permanente, à l'affût des améliorations permettant d’améliorer et de diffuser le service.
 
-Transférer un service public numérique d’une petite organisation de culture agile vers une grande organisation de culture contractuelle va donc naturellement provoquer un désir de « retour à la normale » vers le cadre contractuel connu. Mais mettre en risque les pratiques qui ont permis de construire le service, c’est mettre en péril le service lui-même ! Facebook pourrait-il encore être le premier réseau social mondial s’il était en maintenance dans une SSII&nbsp;?
+Transférer un service public numérique d’une petite organisation de culture agile vers une grande organisation de culture contractuelle va donc naturellement provoquer un désir de « retour à la normale » vers le cadre contractuel connu. Mais mettre en risque les pratiques qui ont permis de construire le service, c’est mettre en péril le service lui-même ! Facebook pourrait-il encore être le premier réseau social mondial s’il était en maintenance dans une SSII ?
 
 ## Éloge de la différence
 
