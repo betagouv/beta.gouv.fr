@@ -5,11 +5,11 @@ authors: ismael.hery
 
 En tant que membre de l’incubateur, je suis encore surpris à chaque fois qu’une présentation de la démarche Startup d’État conduit à une réaction laconique du type « un Product Owner et de l’agile, rien de nouveau sous le soleil, on fait ça dans notre administration depuis des années ».
 
-Effectivement toutes les grandes organisations informatiques, qu’elles soient publiques ou privées, se revendiquent aujourd’hui des méthodes agiles. Pour autant une Startup d’État c’est un peu plus qu’une équipe qui fait des itérations et livrent régulièrement du logiciel. Pour preuve la figure de l’intrapreneur, qu’on ne peut pas réduire au rôle de Product Owner.
+Effectivement toutes les grandes organisations informatiques, qu’elles soient publiques ou privées, se revendiquent aujourd’hui des méthodes agiles. Pour autant une Startup d’État c’est un peu plus qu’une équipe qui développe en itérations et livre régulièrement du logiciel. Pour preuve la figure de l’intrapreneur, qu’on ne peut pas réduire au rôle de Product Owner.
 
 <!--more-->
 
-## They are legions
+## They are legion
 
 Le rôle de Product Owner (PO) a été popularisé par la méthode Agile Scrum. [En Scrum](https://www.scrumguides.org/scrum-guide.html#team-po) le PO est responsable de maximiser la valeur du produit et la valeur issue des travaux de l’équipe de développement.
 
