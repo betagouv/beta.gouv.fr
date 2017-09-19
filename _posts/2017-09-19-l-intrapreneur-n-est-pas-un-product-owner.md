@@ -74,3 +74,4 @@ Le terme intrapreneur ne tire pas les connotations restrictives de PO et englobe
 
 Les intrapreneurs ne courant pas encore les couloirs des administrations, il nous arrive de mener des Startups d’État avec de très bons Product Owner. Dans cette situation tout se cale plus facilement une fois qu’on se l’est dit : ce n’est pas le même job (comprendre "va falloir sortir de ta zone de confort coco").
 
+Vous cochez déjà la case Product Owner mais vous voulez en savoir plus sur les cordes qui manquent à votre arc ? Ou alors vous voulez tout simplement participer à la modernisation de l’action publique par le numérique. Dans ce cas, la formation « alpha » que nous créons en ce moment est peut-être pour vous. [Contactez-nous](mailto:contact@beta.gouv.fr) si vous voulez en savoir plus.
