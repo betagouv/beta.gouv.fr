@@ -3,9 +3,9 @@ title: "L’intrapreneur n’est pas un Product Owner"
 authors: ismael.hery
 ---
 
-Comment nommer le porteur d’une Startup d’État ? Intrapreneur ? Product Owner ? Chef de Produit ?
+En tant que membre de l’incubateur, je suis encore surpris à chaque fois qu’une présentation de la démarche Startup d’État conduit à une réaction laconique du type « un Product Owner et de l’agile, rien de nouveau sous le soleil, on fait ça dans notre administration depuis des années ».
 
-La question du choix des mots n’est pas anodine, et ces trois terminologies sont loin d’être interchangeables. Mais alors pourquoi l’intrapreneur n’est-il pas un Product Owner ? Et pourquoi ne peut-on pas l’appeler non plus chef de produit ?
+Effectivement toutes les grandes organisations informatiques, qu’elles soient publiques ou privées, se revendiquent aujourd’hui des méthodes agiles. Pour autant une Startup d’État c’est un peu plus qu’une équipe qui fait des itérations et livrent régulièrement du logiciel. Pour preuve la figure de l’intrapreneur, qu’on ne peut pas réduire au rôle de Product Owner.
 
 <!--more-->
 
