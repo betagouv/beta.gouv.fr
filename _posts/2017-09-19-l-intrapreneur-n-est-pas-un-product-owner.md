@@ -59,7 +59,7 @@ Quitte à payer pour envoyer des porteurs de Startups d’État en formation, no
 * Conception incrémentale : "construis ta cabane, on mettra les fleurs ensuite", KISS…
 * Vendre : penser au bénéfice pour celui qui utilise ou prescrit l'utilisation
 
-__Tout ça pour dire qu’un porteur de Startup d’État qui souhaite progresser sur le volet produit aura beaucoup plus à apprendre d’un chef de produit de « savon à main parfum coco » de chez Procter et Gamble, que d’un certificateur Scrum Product Owner.__
+__Un porteur de Startup d’État qui souhaite progresser sur le volet produit aura beaucoup plus à apprendre d’un chef de produit de « savon à main parfum coco » de chez Procter et Gamble, que d’un certificateur Scrum Product Owner.__
 
 Alors le leader de la Startup d’État c’est un chef de produit ? Oui, il est plus chef de produit que Product Owner. Mais non, il n’est pas seulement chef de produit.
 
