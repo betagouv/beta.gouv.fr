@@ -13,7 +13,7 @@ authors: ismael.hery
 
 « Je suis pas expert UX et on a pas les moyens de payer un consultant UX pour réaliser ces tests. »
 
-« Pas besoin de le tester, notre service ne contient que quelques pages extrêmement simples. »
+« Les tests utilisateurs ne sont pas nécessaire puisque notre service ne contient que quelques pages extrêmement simples. »
 
 « Pas le temps, nous sommes sous l’eau et la release approche. »
 
