@@ -73,6 +73,6 @@ La démarche de lancement d’une Startup d’État nous amène souvent à trouv
 
 Le terme intrapreneur ne tire pas les connotations restrictives de PO et englobe plus que les missions du chef de produit. Bien sûr, le terme deviendra beaucoup moins sexy dans 5 ans, quand des intrapreneurs de tout poil auront envahi les organisations, et que le terme sera devenu galvaudé… À moins que nous gardions bien en tête la définition suivante : peut se revendiquer comme intrapreneur en succès celui ou celle qui fournit un URL et les preuves d'utilisateurs satisfaits.
 
-Les intrapreneurs ne courant pas encore les couloirs des administrations, il nous arrive de mener des Startups d’État avec de très bons Product Owner. Dans cette situation tout se cale plus facilement une fois qu’on se l’est dit : ce n’est pas le même job (comprendre "va falloir sortir de ta zone de confort coco").
+Les intrapreneurs ne courant pas encore les couloirs des administrations, il nous arrive de mener des Startups d’État avec de très bons Product Owner. Dans cette situation tout se cale plus facilement une fois qu’on se l’est dit : ce n’est pas le même job.
 
 Vous cochez déjà la case Product Owner mais vous voulez en savoir plus sur les cordes qui manquent à votre arc ? Ou alors vous voulez tout simplement participer à la modernisation de l’action publique par le numérique. Dans ce cas, la formation « alpha » que nous créons en ce moment est peut-être pour vous. [Contactez-nous](mailto:contact@beta.gouv.fr) si vous voulez en savoir plus.
