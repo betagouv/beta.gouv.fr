@@ -44,7 +44,7 @@ Voici quelques exemples d’activités essentielles du chef de produit sur lesqu
 * Comment faire un test AB ? C’est quoi la significativité statistique ? 
 * Sans parler des questions d’UX sur lequel le porteur de Startup se doit d’être (ou de devenir) compétent dans les premiers temps de la Startup.
 
-Illustration des trous (béants) dans la raquette du Product Owner, voici les bénéfices attendus de la certification Scrum PO selon la [Scrum Alliance](https://www.scrumalliance.org/certifications/practitioners/cspo-certification) :
+Illustrons les trous (béants) dans la raquette du Product Owner, en jettant un œil aux bénéfices attendus d’une [certification Scrum PO](https://www.scrumalliance.org/certifications/practitioners/cspo-certification) :
 
 * Découvrir les fondations de Scrum et le périmètre de la certification PO avec les experts de Scrum.
 * Démontrer à ses responsables et à ses pairs la connaissance du cœur de Scrum.
