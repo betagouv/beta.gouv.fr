@@ -3,9 +3,9 @@ title: "10 bonnes raisons pour ne pas faire de tests utilisateurs"
 authors: ismael.hery
 ---
 
-« Nous travaillons sur ce service depuis si longtemps que nous savons parfaitement ce qui pose réellement problème aux utilisateurs. »
+« Nous travaillons sur ce service depuis si longtemps que nous savons exactement ce qui pose encore problème aux utilisateurs. »
 
-« On a déjà fait des tests utilisateurs avec notre agence media, ça a été très long et coûteux et on a pas appris grand chose. »
+« On a déjà fait des tests utilisateurs avec notre agence media, ça a été très long et très coûteux, et on a pas appris grand chose au final. »
 
 « C’est beaucoup trop tôt, le produit n’implémente pas encore toutes les règles métier, et toutes les données de références ne sont pas encore intégrées. »
 
@@ -15,9 +15,9 @@ authors: ismael.hery
 
 « Les tests utilisateurs ne sont pas nécessaires puisque notre service ne contient que quelques pages extrêmement simples. »
 
-« Pas le temps, nous sommes sous l’eau et la release approche. »
+« Pas le temps, nous sommes sous l’eau et la grosse release approche. »
 
-« On ne va rien apprendre de fiable en rencontrant 10 utilisateurs, il nous faut une approche quantitative. »
+« On ne va rien apprendre de fiable en rencontrant 10 utilisateurs, il nous faut une approche quantitative, des métriques et des tests AB. »
 
 « Impossible de faire des tests utilisateur à ce stade, les demandes de changements qui vont émerger des tests vont nous mettre hors budget/hors planning. »
 
