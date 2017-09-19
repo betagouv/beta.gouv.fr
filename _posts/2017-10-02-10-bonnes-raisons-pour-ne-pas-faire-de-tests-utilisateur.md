@@ -17,7 +17,7 @@ authors: ismael.hery
 
 « Pas le temps, nous sommes sous l’eau et la grosse release approche. »
 
-« On ne va rien apprendre de fiable en rencontrant 10 utilisateurs, il nous faut une approche quantitative, des métriques et des tests AB. »
+« On ne va rien apprendre de fiable en rencontrant 10 utilisateurs, il nous faut une approche quantitative, des analytics et des tests AB. »
 
 « Impossible de faire des tests utilisateur à ce stade, les demandes de changements qui vont émerger des tests vont nous mettre hors budget/hors planning. »
 
