@@ -55,7 +55,8 @@ Quitte à payer pour envoyer des porteurs de Startups d’État en formation, no
 
 * Découvrir les principes techniques de base structurant le web (HTML, HTTP, code serveur vs code client, API), de ce qui est de l’ordre du possible techniquement, des ordres des grandeurs de développement
 * Savoir préparer, animer, analyser un test utilisateur
-* Apprendre les bases de l’ergonomie et de la conception d’interface ("Don’t make me think", ergonomie incrémentale : "bouche le trou, on mettra les fleurs ensuite", KISS ...)
+* Apprendre les bases de l’ergonomie et de la conception d’interface ("Don’t make me think"…)
+* Conception incrémentale : "construis ta cabane, on mettra les fleurs ensuite", KISS…
 * Vendre : penser au bénéfice pour celui qui utilise ou prescrit l'utilisation
 
 __Tout ça pour dire qu’un porteur de Startup d’État qui souhaite progresser sur le volet produit aura beaucoup plus à apprendre d’un chef de produit de « savon à main parfum coco » de chez Procter et Gamble, que d’un certificateur Scrum Product Owner.__
