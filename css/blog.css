@@ -23,6 +23,16 @@ p {
     position: relative;
 }
 
+.ui.segment.blog-segment-friend {
+    background-color: rgb(232, 232, 232);
+}
+
+.ui.segment.blog-segment-friend .ad {
+    color: green;
+    float: right;
+    font-style: italic;
+}
+
 a.blog-segment-link {
     position: absolute;
     top: 0;

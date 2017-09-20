@@ -21,7 +21,11 @@ ref: jobs
 
         {% if opened_jobs[0] %}
             {% for job in opened_jobs %}
-                {% include job-preview.html job=job %}
+                {% if job.friend %}
+                    {% include friend-job-preview.html job=job %}
+                {% else %}
+                    {% include job-preview.html job=job %}
+                {% endif %}
             {% endfor %}
         {% else %}
             <li>Nous n'avons aucun poste ouvert pour le moment.</li>
