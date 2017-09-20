@@ -5,6 +5,6 @@ start: 2017-09-14
 employer: admin/dila
 ---
 
-Dynamiseuse d'ambiance et Dilamiseuse...
+Dilamiseuse d'ambiance ...
 
 ...Non je ne suis pas folle, je suis une drôle de dame.
