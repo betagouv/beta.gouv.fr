@@ -2,6 +2,8 @@
 title: About
 layout: text
 permalink: /en/about/
+additional_css:
+- blog
 lang: en
 ref: about
 ---

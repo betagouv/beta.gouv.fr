@@ -9,7 +9,7 @@
     {% assign startup = false %}
 {% endif %}
 
-<li class="ui segment blog-segment">
+<li class="blog-segment">
     <a class="blog-segment-link" title="{{ include.job.title }}" href="{{ include.job.url }}"></a>
 
     <a class="blog-title-link" href="{{ include.job.url }}">{% if startup %}{{ startup.title }}{% else %}beta.gouv.fr{% endif %} recrute {{ include.job.roles | downcase }}</a>
