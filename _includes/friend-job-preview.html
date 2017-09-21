@@ -1,28 +1,31 @@
 <li class="ui segment blog-segment blog-segment-friend">
-    <div class="ad">Chez nos ami·e·s</div>
-    <a class="blog-segment-link" title="{{ include.job.title }}" href="{{ include.job.url }}"></a>
+    <div class="ad">Nos ami·e·s recrutent</div>
 
-    <a class="blog-title-link" href="{{ include.job.url }}">{{ include.job.friend }} recrute {{ include.job.roles | downcase }}</a>
+    <div class="content">
+        <a class="blog-segment-link" title="{{ include.job.title }}" href="{{ include.job.url }}"></a>
 
-    <div class="excerpt-meta-informations">
-        <div class="excerpt-parution-date">
-            Paru le {{ include.job.date | date: "%d/%m/%Y" }}
+        <a class="blog-title-link" href="{{ include.job.url }}">{{ include.job.friend }} recrute {{ include.job.roles | downcase }}</a>
+
+        <div class="excerpt-meta-informations">
+            <div class="excerpt-parution-date">
+                Paru le {{ include.job.date | date: "%d/%m/%Y" }}
+            </div>
+
+            {% if include.job.techno %}
+                <div class="excerpt-job-techno">{{ include.job.techno }}</div>
+            {% endif %}
         </div>
 
-        {% if include.job.techno %}
-            <div class="excerpt-job-techno">{{ include.job.techno }}</div>
-        {% endif %}
-    </div>
+        <div>
+            {% if include.job.open %}
+                {{ include.job.excerpt }}
+            {% else %}
+                {{ "**Ce poste a été pourvu.**" | markdownify }}
+            {% endif %}
+        </div>
 
-    <div>
-        {% if include.job.open %}
-            {{ include.job.excerpt }}
-        {% else %}
-            {{ "**Ce poste a été pourvu.**" | markdownify }}
-        {% endif %}
+        <a href="{{ include.job.url }}">Voir l'offre</a>
+        &nbsp;|&nbsp;
+        <a class="external-link" href="{{ include.job.externalURL}}">Voir l'offre sur le site de {{ include.job.friend }}</a>
     </div>
-
-    <a href="{{ include.job.url }}">Voir l'offre</a>
-    &nbsp;|&nbsp;
-    <a class="external-link" href="{{ include.job.externalURL}}">Voir l'offre sur le site de {{ include.job.friend }}</a>
 </li>

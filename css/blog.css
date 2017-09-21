@@ -24,13 +24,20 @@ p {
 }
 
 .ui.segment.blog-segment-friend {
+    padding: 0;
     background-color: rgb(232, 232, 232);
 }
 
 .ui.segment.blog-segment-friend .ad {
-    color: green;
-    float: right;
-    font-style: italic;
+    width: 100%;
+    background-color: whitesmoke;
+    border-radius: .28571429rem;
+    padding: 1em;
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+
+.ui.segment.blog-segment-friend .content {
+    padding: 1em;
 }
 
 a.blog-segment-link {
