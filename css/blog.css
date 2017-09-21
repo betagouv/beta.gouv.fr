@@ -23,12 +23,12 @@ p {
     position: relative;
 }
 
-.ui.segment.blog-segment-friend {
+.blog-segment-friend {
     padding: 0;
-    background-color: rgb(232, 232, 232);
+    background-color: #efefef;
 }
 
-.ui.segment.blog-segment-friend .ad {
+.blog-segment-friend .ad {
     width: 100%;
     background-color: whitesmoke;
     border-radius: .28571429rem;
@@ -36,7 +36,7 @@ p {
     font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
 }
 
-.ui.segment.blog-segment-friend .content {
+.blog-segment-friend .content {
     padding: 1em;
 }
 

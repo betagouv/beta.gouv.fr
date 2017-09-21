@@ -5,14 +5,35 @@
             {% assign startup = currentStartup %}
         {% endif %}
     {% endfor %}
+    {% assign friend = false %}
+{% else if include.job.type == 'friend' %}
+    {% assign startup = false %}
+    {% assign friend = true %}
 {% else %}
     {% assign startup = false %}
+    {% assign friend = false %}
 {% endif %}
 
+{% if friend %}
+<li class="blog-segment blog-segment-friend">
+    <div class="ad">Nos ami·e·s recrutent</div>
+    <div class="content">
+{% else %}
 <li class="blog-segment">
+{% endif %}
+
     <a class="blog-segment-link" title="{{ include.job.title }}" href="{{ include.job.url }}"></a>
 
-    <a class="blog-title-link" href="{{ include.job.url }}">{% if startup %}{{ startup.title }}{% else %}beta.gouv.fr{% endif %} recrute {{ include.job.roles | downcase }}</a>
+    <a class="blog-title-link" href="{{ include.job.url }}">
+        {% if startup %}
+            {{ startup.title }}
+        {% else if friend %}
+            {{ include.job.friend }}
+        {% else %}
+            beta.gouv.fr
+        {% endif %}
+        recrute {{ include.job.roles | downcase }}
+    </a>
 
     <div class="excerpt-meta-informations">
         <div class="excerpt-parution-date">
@@ -33,4 +54,10 @@
     </div>
 
     <a href="{{ include.job.url }}">Voir l'offre</a>
+
+    {% if friend %}
+    &nbsp;|&nbsp;
+    <a class="external-link" href="{{ include.job.externalURL}}">Voir l'offre sur le site de {{ include.job.friend }}</a>
+    </div>
+    {% endif %}
 </li>
