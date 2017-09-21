@@ -15,7 +15,7 @@ layout: default
 <div class="post-container">
     <article class="post">
         <h1>{% if startup %}{{ startup.title }}{% else if job.type == 'friend' %}{{ job.friend }}{% else %}beta.gouv.fr{% endif %} recrute {{ job.roles | downcase }}</h1>
-        {% if job.type == 'friend' %}<div class="subtitle">Une offre à pourvoir chez nos amis</div>{% endif %}
+        {% if job.type == 'friend' %}<div class="subtitle">Une offre à pourvoir chez nos ami·e·s</div>{% endif %}
 
         <p>Poste ouvert le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time>.</p>
 
