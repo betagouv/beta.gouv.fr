@@ -463,6 +463,9 @@ iframe {
 }
 
 .subtitle {
-    color: green;
     margin-top: -30px;
+}
+
+.external-link {
+    color: green;
 }

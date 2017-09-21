@@ -17,7 +17,7 @@ layout: default
         <h1>{% if startup %}{{ startup.title }}{% else if job.type == 'friend' %}{{ job.friend }}{% else %}beta.gouv.fr{% endif %} recrute {{ job.roles | downcase }}</h1>
 
         {% if job.type == 'friend' %}
-            <div class="subtitle">
+            <div class="subtitle external-link">
                 Une offre à pourvoir chez nos ami·e·s <br>
                 <a href="{{ job.externalURL}}">Voir l'offre sur le site de {{ job.friend }}</a>
             </div>
