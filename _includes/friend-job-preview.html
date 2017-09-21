@@ -10,7 +10,7 @@
         </div>
 
         {% if include.job.techno %}
-            <div class="excerpt-job-techno">{{ job.techno }}</div>
+            <div class="excerpt-job-techno">{{ include.job.techno }}</div>
         {% endif %}
     </div>
 
@@ -23,4 +23,6 @@
     </div>
 
     <a href="{{ include.job.url }}">Voir l'offre</a>
+    &nbsp;|&nbsp;
+    <a href="{{ include.job.externalURL}}">Voir l'offre sur le site de {{ include.job.friend }}</a>
 </li>
