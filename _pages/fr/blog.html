@@ -10,9 +10,12 @@ ref: blog
 ---
 
 <section class="ui container blog-container">
+
+    <h2>Notre blog</h2>
+
     <ul>
     {% for post in site.posts %}
-        <li class="ui segment blog-segment">
+        <li class="blog-segment">
             <a class="blog-segment-link" title="{{ post.title }}" href="{{ post.url }}"></a>
 
             {% if post.authors %}
