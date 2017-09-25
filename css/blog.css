@@ -23,6 +23,23 @@ p {
     position: relative;
 }
 
+.blog-segment-friend {
+    padding: 0;
+    background-color: #efefef;
+}
+
+.blog-segment-friend .ad {
+    width: 100%;
+    background-color: whitesmoke;
+    border-radius: .28571429rem;
+    padding: 1em;
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+
+.blog-segment-friend .content {
+    padding: 1em;
+}
+
 a.blog-segment-link {
     position: absolute;
     top: 0;
