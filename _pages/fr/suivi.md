@@ -1,6 +1,8 @@
 ---
 title: Suivi d'audience et vie privée
 layout: text
+additional_css:
+- blog
 permalink: /suivi/
 lang: fr
 ref: privacy
