@@ -1,6 +1,8 @@
 ---
 title: Contact
 layout: text
+additional_css:
+- blog
 permalink: /contact/
 lang: fr
 ref: contact

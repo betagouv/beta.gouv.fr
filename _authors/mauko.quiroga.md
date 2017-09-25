@@ -1,10 +1,10 @@
 ---
 fullname: Mauko Quiroga
-role: Prolétaire numérique
+role: Incarnation catégorique
 link: http://mauko.me/
 start: 2016-02-15
-end: 2017-07-31
-employer: independent
+end: 2017-12-19
+employer: independent/octo
 ---
 
-Engagé dans la construction d’une action publique au XXI<sup>e</sup> siècle.
+Engagé dans la construction d’un État au XXI<sup>e</sup> siècle.
