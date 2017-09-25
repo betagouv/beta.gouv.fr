@@ -14,6 +14,7 @@ body {
     height: 100%;
     flex-direction: column;
     background-color: $theme-background-grey;
+    font-family: 'Helvetica', Arial, sans-serif;
 }
 
 main {
@@ -21,10 +22,6 @@ main {
     width: 100%;
     z-index: 2;
     background-color: $theme-background-grey;
-}
-
-body, .menu {
-    font-family: "Century Gothic", "Gilles Sans", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 }
 
 .menu {
