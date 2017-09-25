@@ -1,6 +1,8 @@
 ---
 title: Rédiger une fiche produit
 layout: text
+additional_css:
+- blog
 permalink: /ficheproduit/
 lang: fr
 ref: product-card
