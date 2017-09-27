@@ -15,7 +15,7 @@ authors: ismael.hery
 
 « Les tests utilisateurs ne sont pas nécessaires puisque notre service ne contient que quelques pages extrêmement simples. »
 
-« Pas le temps, nous sommes sous l’eau et la grosse release approche. »
+« Le produit est stratégique et nous souhaitons le garder confidentiel jusqu'à sa release, impossible de le montrer à des utilisateurs. »
 
 « Mais on n’a pas de labo, pas de vitre sans tain, et aucun moyen de rémunérer les testeurs !»
 
