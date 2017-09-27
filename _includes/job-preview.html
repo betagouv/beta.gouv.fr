@@ -6,7 +6,7 @@
         {% endif %}
     {% endfor %}
     {% assign friend = false %}
-{% else if include.job.type == 'friend' %}
+{% elsif include.job.type == 'friend' %}
     {% assign startup = false %}
     {% assign friend = true %}
 {% else %}
@@ -27,7 +27,7 @@
     <a class="blog-title-link" href="{{ include.job.url }}">
         {% if startup %}
             {{ startup.title }}
-        {% else if friend %}
+        {% elsif friend %}
             {{ include.job.friend }}
         {% else %}
             beta.gouv.fr
