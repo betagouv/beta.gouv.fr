@@ -17,7 +17,7 @@ authors: ismael.hery
 
 « Pas le temps, nous sommes sous l’eau et la grosse release approche. »
 
-« Mais on a pas de labo, pas de vitre sans tain, et aucun moyen de rémunérer les testeurs !»
+« Mais on n’a pas de labo, pas de vitre sans tain, et aucun moyen de rémunérer les testeurs !»
 
 « On ne va rien apprendre de fiable en rencontrant 10 utilisateurs, il nous faut une approche quantitative, des analytics et des tests AB. »
 
