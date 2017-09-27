@@ -11,7 +11,7 @@ authors: ismael.hery
 
 « Impossible, c’est très compliqué de trouver des utilisateurs représentatifs de notre cible d’usager. »
 
-« Je suis pas expert UX et on a pas les moyens de payer un consultant UX pour réaliser ces tests. »
+« Je suis pas expert UX et on n’a pas les moyens de payer un consultant UX pour réaliser ces tests. »
 
 « Les tests utilisateurs ne sont pas nécessaires puisque notre service ne contient que quelques pages extrêmement simples. »
 
