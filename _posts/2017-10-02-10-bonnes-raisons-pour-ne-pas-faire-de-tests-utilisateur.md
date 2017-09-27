@@ -3,7 +3,7 @@ title: "10 bonnes raisons pour ne pas faire de tests utilisateurs"
 authors: ismael.hery
 ---
 
-« Nous travaillons sur ce service depuis si longtemps que nous savons exactement ce qui pose encore problème aux utilisateurs. »
+« Nous sommes les spécialistes de ce service depuis longtemps et nous le connaissons mieux que n’importe quel utilisateur. »
 
 « On a déjà fait des tests utilisateurs avec notre agence media, ça a été très long et très coûteux, et on a pas appris grand chose au final. »
 
