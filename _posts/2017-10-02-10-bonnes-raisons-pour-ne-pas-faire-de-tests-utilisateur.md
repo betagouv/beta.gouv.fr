@@ -5,7 +5,7 @@ authors: ismael.hery
 
 « Nous sommes les spécialistes de ce service depuis longtemps et nous le connaissons mieux que n’importe quel utilisateur. »
 
-« On a déjà fait des tests utilisateurs avec notre agence media, ça a été très long et très coûteux, et on a pas appris grand chose au final. »
+« On a déjà fait des tests utilisateurs avec notre agence media, ça a été très long et très coûteux, et on n’a pas appris grand chose au final. »
 
 « C’est beaucoup trop tôt, le produit n’implémente pas encore toutes les règles métier, et toutes les données de références ne sont pas encore intégrées. »
 
