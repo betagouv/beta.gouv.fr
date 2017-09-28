@@ -5,7 +5,6 @@ link: https://tps.apientreprise.fr
 repository: https://github.com/sgmap/tps
 status: consolidation
 contact: contact@tps.apientreprise.fr
-logo: https://cdn.rawgit.com/sgmap/tps/e10c218d3a20e7e86afd3a4da5e1176772365c3d/app/assets/images/logos/logo-tps.png
 start: 2015-09-15
 owner: SGMAP
 stats: true
