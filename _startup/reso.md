@@ -7,6 +7,8 @@ status: construction
 contact: juliette.culot@beta.gouv.fr
 start: 2017-04-03
 owner: DIRECCTE Haut-de-France
+redirect_from:
+	  - /startup/e-conseils
 ---
 
 Des entrepreneurs isolés, des conseils cloisonnés
