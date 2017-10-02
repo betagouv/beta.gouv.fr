@@ -1,5 +1,5 @@
 ---
-title: "10 bonnes raisons pour ne pas faire de tests utilisateurs"
+title: "10 bonnes raisons pour ne pas faire de tests utilisateur"
 authors: ismael.hery
 ---
 
