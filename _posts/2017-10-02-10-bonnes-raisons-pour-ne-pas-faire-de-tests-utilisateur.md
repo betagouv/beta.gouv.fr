@@ -17,7 +17,7 @@ authors: ismael.hery
 
 « Le produit est stratégique et nous souhaitons le garder confidentiel jusqu'à sa release, impossible de le montrer à des utilisateurs. »
 
-« Mais on n’a pas de labo, pas de vitre sans tain, et aucun moyen de rémunérer les testeurs !»
+« Mais on n’a pas de labo, pas de vitre sans tain, et aucun moyen de rémunérer les testeurs ! »
 
 « On ne va rien apprendre de fiable en rencontrant 10 utilisateurs, il nous faut une approche quantitative, des analytics et des tests AB. »
 
