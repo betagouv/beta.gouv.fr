@@ -5,4 +5,4 @@ start: 2015-04-01
 end: 2017-12-30
 employer: independent/octo
 ---
-La Bonne Boite, La Bonne Formation, Boomerang, Plante et moi, Open Academie
+La Bonne Boite, La Bonne Formation, MEMO, Plante et moi, Open Academie
