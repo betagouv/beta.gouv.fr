@@ -5,6 +5,8 @@ authors: ismael.hery
 
 « Nous sommes les spécialistes de ce service depuis longtemps et nous le connaissons mieux que n’importe quel utilisateur. »
 
+<!--more-->
+
 « On a déjà fait des tests utilisateurs avec notre agence media, ça a été très long et très coûteux, et on n’a pas appris grand chose au final. »
 
 « C’est beaucoup trop tôt, le produit n’implémente pas encore toutes les règles métier, et toutes les données de références ne sont pas encore intégrées. »
@@ -17,7 +19,7 @@ authors: ismael.hery
 
 « Le produit est stratégique et nous souhaitons le garder confidentiel jusqu'à sa release, impossible de le montrer à des utilisateurs. »
 
-« Mais on n’a pas de labo, pas de vitre sans tain, et aucun moyen de rémunérer les testeurs !»
+« Mais on n’a pas de labo, pas de vitre sans tain, et aucun moyen de rémunérer les testeurs ! »
 
 « On ne va rien apprendre de fiable en rencontrant 10 utilisateurs, il nous faut une approche quantitative, des analytics et des tests AB. »
 
