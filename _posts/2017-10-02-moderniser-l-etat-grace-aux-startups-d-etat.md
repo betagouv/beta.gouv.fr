@@ -13,7 +13,7 @@ Cet article présente les enjeux des Startups d’État à travers le prisme de 
 
 > La **transformation numérique** est le terme utilisé pour **un changement très profond dans la manière de concevoir et livrer des services publics**. Il ne cherche pas à opposer le stylo et le papier au clavier et à l'écran, mais plutôt de **contraster l'informatisation** (automatiser ce qui est déjà normé) **avec la numérisation** (faire émerger de nouveaux usages).
 
-Matti Schneider, European Public Mosaic (EPuM), September 2017
+*Matti Schneider, European Public Mosaic (EPuM), September 2017*
 
 Vous pouvez consulter l’article et le magazine sur [le site de l’administration scolaire publique de Catalogne](http://www.gencat.cat/eapc/epum/N2/index.html). L’article et le journal sont sous licence [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/).
 
