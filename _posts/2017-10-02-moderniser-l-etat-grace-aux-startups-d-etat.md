@@ -7,7 +7,7 @@ Un article de Matti Schneider, ancien de [beta.gouv.fr](https://beta.gouv.fr), v
 
 <!--more-->
 
-Cet article raconte pourquoi nous avons choisis de créer des Startups d’État dans le cadre de la transition numérique du secteur public. Ses propos sont illustrés par des retours d’expérience sur des produits comme [Mes Aides](https://mes-aides.gouv.fr) ou bien [data.gouv.fr](https://data.gouv.fr).
+Cet article raconte pourquoi nous avons choisi de créer des Startups d’État dans le cadre de la transition numérique du secteur public. Ses propos sont illustrés par des retours d’expérience sur des produits comme [Mes Aides](https://mes-aides.gouv.fr) ou bien [data.gouv.fr](https://data.gouv.fr).
 
 > **Digital transformation** is the term for **a very profound change in how we design and deliver public services**. It does not seek to compare pen and paper to keyboard and screen, but rather to **contrast computerisation** (automating what is already normalised) **with digitalisation** (making new practices emerge).
 
