@@ -8,7 +8,7 @@ avatar: https://avatars3.githubusercontent.com/melaniemeb?s=600
 link: # optionnel 
 start: 2017-10-05 # date d'arrivée au format ISO (AAAA-MM-JJ)
 end: 2018-10-05 # date de fin de contrat au format ISO (AAAA-MM-JJ)
-employer: Pix
+employer: service/octo
 ---
 
 Développeur travaillant chez Octo Technologie, en mission chez Pix.
