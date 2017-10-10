@@ -11,10 +11,10 @@ owner: DILA
 
 ## Fiche produit
 
-Un conducteur stresse en cas de contrôle routier de ne pas avoir sur lui l’ensemble de ses papiers (oubli, perte, etc.).
+L'irritant : un conducteur stresse en cas de contrôle routier de ne pas avoir sur lui l’ensemble de ses papiers (oubli, perte, etc.).
 La promesse : utiliser son smartphone pour justifier auprès de l’agent qu’on a le droit de conduire ce véhicule. 
-La solution en 2 temps :
-1. l’appli génère avec ma connexion France Connect un flashcode. Je montre mon gencod à l’agent.
-2. L’agent scanne mon flashcode et a accès à mes données (FranceConnect) justifiant que j’ai le droit de conduire le véhicule (j’ai les points sur mon permis, mon véhicule est inscrit au SIV et est en règle, y compris au niveau du contrôle technique, et il est assuré par tel assureur).
+La piste de solution en 2 temps :
+1. Le conducteur montre à l’agent le code qu'il a obtenu en se connectant à l'application, via FranceConnect.
+2. L’agent scanne ce code lui permettant l'accès aux données justifiant le droit de conduire le véhicule (il a les points sur son permis, son véhicule est inscrit au SIV et est en règle, y compris au niveau du contrôle technique, et il est assuré par tel assureur et dispose éventuellement de la vignette Crit'Air).
 
-Stratégie de démarrage : débuter avec une assurance (pour l’attestation) et les points du permis. Tester sur une localité avec des forces de l’ordre (zone à définir).
+Stratégie de démarrage : débuter localement avec une version utilisant un "coffre" contenant les documents dématérialisés (carte grise, assurance...). Ajouter progressivement des services d'accès en ligne à ces données. 
