@@ -11,16 +11,20 @@ owner: CNAMTS - CPAM de la Haute-Garonne (31)
 
 ## Fiche produit
 
-Selon l'état de santé et sur prescription de votre médecin, l'Assurance Maladie rembourse les frais d'utilisation de votre véhicule personnel ou de transports en commun. Ce mode de transport plus flexible, plus rapide, plus économique est pourtant le plus compliqué et long à se faire rembourser.
+Sur prescription de votre médecin, l'Assurance Maladie rembourse les frais d'utilisation de votre véhicule personnel ou de transports en commun. Plus flexible, plus rapide, plus économique, le recours au véhicule personnel est pourtant le mode de transport le plus compliqué et le plus long à se faire rembourser.
 
 Avec MRS, l'assuré peut déclarer en ligne ses frais :
-1. il renseigne son trajet
-2. il prend en photo ses justificatifs (prescription, tickets péages/parking...)
-3. il valide sa demande
-Cette dernière est transmise à la Caisse pour traitement et sous 3 jours il est remboursé.
 
-Aujourd'hui, il est possible de se faire rembourser via un formulaire papier CERFA S-3140C.
+* il renseigne son trajet
+* il prend en photo ses justificatifs (prescription, tickets péages/parking...)
+* il valide sa demande
+
+Le transport est remboursé en moins d'une semaine.
+
+Le remboursement est possible aujourd'hui via un formulaire papier CERFA S-3140C.
 La stratégie est en deux temps et consiste :
-1. faire basculer les personnes utilisant le formulaire papier vers MRS
-2. permettre aux prescripteurs (médecins en hôpitaux et/ou libéraux) de basculer les prescriptions médicales de transports en Taxi/VSL (Véhicule Sanitaire Léger) vers le véhicule personnel ou les transports en commun grâce à MRS, solution avantageuse pour tous
 
+* donner aux prescripteurs (médecins en hôpitaux et/ou libéraux) une véritable alternative au transport en Taxi/VSL en favorisant le recours au véhicule personnel ou aux transports en commun grâce à une application facilitant le remboursement
+* faire basculer les personnes utilisant le formulaire papier vers MRS
+
+MRS permet la promotion du véhicule personnel ou des transports en commun, solution la plus avantageuse pour tous.
