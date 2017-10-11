@@ -14,7 +14,7 @@ ref: jobs
     {% assign opened_jobs = jobs | where:'open',true %}
     {% assign closed_jobs = jobs | where:'open',false %}
 
-    <ul class="job-offers-list">
+    <ul class="job-offers-list unstyled">
         <li>
             <h2>Offres disponibles</h2>
         </li>
@@ -28,7 +28,7 @@ ref: jobs
         {% endif %}
     </ul>
 
-    <ul class="job-offers-list">
+    <ul class="job-offers-list unstyled">
         <li>
             <h2>Offres pourvues</h2>
         </li>
