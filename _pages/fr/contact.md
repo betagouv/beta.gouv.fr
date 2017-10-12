@@ -43,11 +43,11 @@ Nous pouvons vous aider à organiser cet évènement interne, sélectionner les 
 
 Vous voulez agir dès demain matin ? Diffusez dans votre entourage les Startups d'État les plus pertinentes dans votre contexte, notamment territorial :
 
-- Sensibiliser les fonctions achat à l'utilisation plus massive des [Marchés Publics Simplifiés](http://mps.apientreprise.fr/).
-- Sensibiliser vos missions locales et vos structures concernées par le retour à l'emploi (missions locales, maisons de l'emploi…) à [La Bonne Boîte](http://labonneboite.pole-emploi.fr/) et à [La Bonne Formation](http://labonneformation.pole-emploi.fr/).
-- Sensibiliser vos structures d'accueil social (CCAS…) à [Mes Aides](https://mes-aides.gouv.fr/) et intégrer vos aides sociales extra-légales en mobilisant un informaticien de la collectivité pendant quelques jours.
-- Dématérialiser une de vos démarche administrative en quelques minutes grâce à [TPS](http://tps.apientreprise.fr).
-- Jetez un œil à nos [autres produits](/startups) !
+* Sensibiliser les fonctions achat à l'utilisation plus massive des [Marchés Publics Simplifiés](http://mps.apientreprise.fr/).
+* Sensibiliser vos missions locales et vos structures concernées par le retour à l'emploi (missions locales, maisons de l'emploi…) à [La Bonne Boîte](http://labonneboite.pole-emploi.fr/) et à [La Bonne Formation](http://labonneformation.pole-emploi.fr/).
+* Sensibiliser vos structures d'accueil social (CCAS…) à [Mes Aides](https://mes-aides.gouv.fr/) et intégrer vos aides sociales extra-légales en mobilisant un informaticien de la collectivité pendant quelques jours.
+* Dématérialiser une de vos démarche administrative en quelques minutes grâce à [TPS](http://tps.apientreprise.fr).
+* Jetez un œil à nos [autres produits](/startups) !
 
 ### Entrepreneurs
 

@@ -14,7 +14,7 @@ layout: default
 
 <div class="post-container">
     <article class="post">
-        <h1>{% if startup %}{{ startup.title }}{% else if job.type == 'friend' %}{{ job.friend }}{% else %}beta.gouv.fr{% endif %} recrute {{ job.roles | downcase }}</h1>
+        <h1>{% if startup %}{{ startup.title }}{% elsif job.type == 'friend' %}{{ job.friend }}{% else %}beta.gouv.fr{% endif %} recrute {{ job.roles | downcase }}</h1>
 
         {% if job.type == 'friend' %}
             <div class="subtitle external-link">
