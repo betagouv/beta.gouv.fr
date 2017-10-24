@@ -481,3 +481,25 @@ iframe {
 .author .tiny.label a {
     color: black;
 }
+
+.author .image {
+    margin-bottom: 1em;
+}
+
+.author img {
+    width: calc(25vw - 2.5em);
+    height: auto;
+    border-radius: 3px;
+}
+
+@media (max-width: 414px) {
+    .author .image {
+        float: right;
+        margin-right: 0;
+        margin-bottom: 1em;
+        margin-left: 1em;
+        width: 35px;
+        height: auto;
+        font-size: .71428571rem;
+    }
+}
