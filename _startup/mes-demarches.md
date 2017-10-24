@@ -1,6 +1,6 @@
 ---
-title: Mes Démarches
-mission: Savoir où en sont mes démarches pour éviter ou résoudre les blocages de dossiers
+title: A+, le service public VIP pour tous
+mission: Anticiper ou résoudre les blocages de dossiers
 link: 
 repository:
 status: investigation
@@ -9,24 +9,29 @@ start: 2017-10-01
 owner: DILA
 ---
  
- 
- ## Le drame : 
-Des usagers peuvent basculer dans la précarité parce qu’ils sont victimes d’un blocage de leur dossier entre administrations.
+ ## Des blocages administratifs parfois dramatiques
 
-> Par exemple : Martin, autiste, subit une suspension de son Allocation Adulte Handicapé par la CAF, car le temps que le dossier soit instruit par la MDPH sur 4 mois, le certificat médical est périmé au bout de 3 mois.
+Qui n’a pas vécu ces casse-têtes : démarche en attente, pièces manquantes, renvoi d’un guichet à l’autre, dossier perdu, … comme Astérix à la recherche du laisser-passer A38 dans la “maison qui rend fou”. 
 
-## Notre promesse :
-Donner de l’information en temps réel sur l’instruction du dossier 
-pour permettre à l’usager (ou un aidant) d’anticiper ou de résoudre les blocages administratifs. 
-> Avec notre service, Martin (ou son assistante sociale) peut anticiper le besoin de renouveller du certificat médical en étant alerté par le service → ses aides ne seront pas suspendues
+Les conséquences peuvent être graves ; l’usager peut basculer dans la précarité à cause d’un blocage absurde de son dossier entre administrations :
+
+> Par exemple, Julie ayant récemment demandé son transfert de la CAF de Paris à Marseille, elle ne sait pas à quelle caisse adresser sa déclaration de revenus trimestrielle. Un mauvais choix et elle risque une suspension de son RSA.
+
+Souvent, il suffirait de savoir où est le dossier pour résoudre la situation. Mais les guichets et centres d’appels sont débordés et le suivi des démarches sur les sites web des organismes est inégal et siloté entre administrations. 
+
+## Le service A+ pour résoudre les blocages.
+
+Le service s'appuie sur la communauté des A+, des agents relais, volontaires, bienveillants, essaimés dans les administrations (CAF, CNAM, Pôle Emploi, CNAV, MDPH, Préfectures, ...) 
+
+Lorsque l'usager (ou son aidant) rencontre un blocage, il.elle envoie un appel au service A+.
+La demande est aiguillée vers les agents A+ des services concernés. Ceux-ci recherchent l'information en interne et communiquent entre eux et avec l'usager pour résoudre le blocage.
 
 
-## Solution envisagée à terme :
-* Tableau de suivi de mes démarches avec informations à jour des administrations (automatiquement par api)
-* Notifications d'avancement du dossier (par sms,mail ou in-app)
-* Fédérer les défenseurs de droits (médiateurs, conciliateurs, …) pour qu’ils communiquent les statuts détaillés des dossiers (baisse des recours auprès des médiateurs car anticipation des blocages)
+> Avec notre service A+ , Julie sait que sa demande de transfert est toujours à Paris. Sur l’espace collaboratif, elle échange avec son assistante sociale, l’agent relais “A” à Marseille et l’agent traitant à Paris, pour que l’agent traitant à Paris diffère la suspension et que le relais A+  à Marseille retrouve l’attestation et la renvoie à Paris.
 
-## Stratégie de démarrage :
-* pour les démarches des parents d’autistes du 95 : MDPH + CAF + asso (82 familles)
-* ou démarches CAF/CPAM/Mairie Paris 2è
-* 1ère solution technique : 1 mini démarche TPS avec authentification France Connect + conversation entre usagers, aidants et médiateurs autour du dossier.
+## Démarrage par des pilotes locaux
+
+La communauté des A+ est en train d’être constituée. 
+Nous commençons par des expérimentations sur des territoires pilotes, notamment dans des Maisons de Services au Public. 
+Vous êtes un agent d'opérateur public, vous êtes intéressé.e pour participer à la création de ce service ? Contactez-nous  : zohra.lebel@dila.gouv.fr. 
+Vous êtes développeur.se, vous voulez debugger l'administration ? Répondez à l'annonce A+ sur https://beta.gouv.fr/recrutement/
