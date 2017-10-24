@@ -23,7 +23,7 @@ Les conséquences peuvent être graves ; l’usager peut basculer dans la préca
 Le service s'appuie sur la communauté des A+, des agents relais, volontaires, bienveillants dans les administrations (CAF, CNAM, Pôle Emploi, CNAV, MDPH, Préfectures, ...).
 
 Lorsque l'usager (ou son aidant) rencontre un blocage, il·elle fait appel au service A+.
-L'agent A+ utilise l'espace collaboratif de la communauté A+ pour chercher les raisons du blocage. Puis, il·elle communique les informations utiles à l'usager pour débloquer sa situation.
+L'agent A+ utilise l'espace collaboratif de la communauté  pour chercher les raisons du blocage. Puis, il·elle communique les informations utiles à l'usager pour débloquer sa situation.
 
 > Avec notre service A+ , Julie est rassurée : l'agent A+ lui a confirmé que son dossier était toujours à Paris. Elle enverra donc sa déclaration à Paris. Son allocation ne sera pas suspendue.
 
