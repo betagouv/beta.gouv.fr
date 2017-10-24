@@ -9,7 +9,7 @@ start: 2017-10-01
 owner: DILA
 ---
  
- ## Des blocages administratifs parfois dramatiques
+## Des blocages administratifs parfois dramatiques
 
 Qui n’a pas vécu ce casse-tête : démarche en attente, pièces manquantes, renvoi d’un guichet débordé à l’autre, dossier perdu, information en ligne insuffisante, ... ? 
 
