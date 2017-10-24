@@ -32,6 +32,6 @@ L'agent A+ utilise l'espace collaboratif de la communauté  pour chercher les ra
 La communauté des A+ est en train d’être constituée. 
 Nous commençons par des expérimentations sur des territoires pilotes, avec un service accessible uniquement à la communauté des agents. 
 
-Vous êtes un agent d'opérateur public, vous êtes intéressé·e pour participer à la création de ce service ? Contactez-nous  : contact@a+.beta.gouv.fr.gouv.fr. 
+Vous êtes un agent d'opérateur public, vous êtes intéressé·e pour participer à la création de ce service ? Contactez-nous  : contact@aplus.beta.gouv.fr
 
 Vous êtes développeur·se, vous voulez debugger l'administration ? Répondez à l'annonce A+ sur https://beta.gouv.fr/recrutement/
