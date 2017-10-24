@@ -18,7 +18,7 @@ Les conséquences peuvent être graves ; l’usager peut basculer dans la préca
 > Par exemple, Julie a déménagé à Marseille et a demandé le transfert de son dossier CAF depuis Paris. Elle craint une suspension de RSA si elle n'envoit pas sa déclaration de revenus trimestrielle à la bonne CAF.
 
 
-## Le service A+ pour résoudre les blocages.
+## Le service A+ pour résoudre les blocages
 
 Le service s'appuie sur la communauté des A+, des agents relais, volontaires, bienveillants dans les administrations (CAF, CNAM, Pôle Emploi, CNAV, MDPH, Préfectures, ...).
 
