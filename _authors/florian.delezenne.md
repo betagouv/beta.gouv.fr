@@ -6,6 +6,9 @@ link: https://github.com/sgmap/beta.gouv.fr/edit/master/_authors/florian.delezen
 start: 2014-06-01
 end: 2017-11-17
 employer: service/octo
+startups:
+    - mdph
+    - bourse
 ---
 
 [Cliquez ici pour améliorer cette bio]
