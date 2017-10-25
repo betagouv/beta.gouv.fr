@@ -15,7 +15,7 @@ Qui n’a pas vécu ce casse-tête : démarche en attente, pièces manquantes, r
 
 Les conséquences peuvent être graves ; l’usager peut basculer dans la précarité à cause d’un blocage absurde de son dossier entre administrations :
 
-> Par exemple, Julie a déménagé à Marseille et a demandé le transfert de son dossier CAF depuis Paris. Elle craint une suspension de RSA si elle n'envoit pas sa déclaration de revenus trimestrielle à la bonne CAF.
+> Par exemple, Julie a déménagé à Marseille et a demandé le transfert de son dossier CAF depuis Paris. Elle craint une suspension de son allocation RSA si elle n'envoit pas sa déclaration de revenus trimestrielle à la bonne CAF.
 
 
 ## Le service A+ pour résoudre les blocages
