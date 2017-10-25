@@ -4,6 +4,11 @@ role: Responsable de Produit
 start: 2014-11-01
 end: 2019-10-30
 employer: dinsic
+startups:
+    - mdph
+    - bourse
+    - 'etudiant-entrepreneur'
+    - boussole
 ---
 
 Résiliente et engagée.

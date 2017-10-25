@@ -19,6 +19,7 @@ layout: default
                 {% include screenshot.html startup=page %}
             {% if page.link %}</a>{% endif %}
         </div>
+
         <div class="content">
             <ul class="ui description text container">
                 <li>Le porteur administratif est {{ page.owner }}.</li>
@@ -78,6 +79,21 @@ layout: default
         <div class="content">
             <div class="ui text container">
                 {{ content }}
+            </div>
+        </div>
+
+        <div class="content">
+            <div class="ui text container">
+                <div class="ui stackable cards">
+                    {% for author in site.authors %}
+                        {% for startup in author.startups %}
+                            {% capture currentId %}/startup/{{ startup }}{% endcapture %}
+                            {% if currentId == page.id %} {% comment %} where query doesn't work on id {% endcomment %}
+                                {% include author.html description=author size='small' %}
+                            {% endif %}
+                        {% endfor %}
+                    {% endfor %}
+                </div>
             </div>
         </div>
     </div>
