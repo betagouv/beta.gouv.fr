@@ -14,15 +14,17 @@
 {% endcapture %}
 
 <div class="ui card author">
-    {% if include.size != 'small' %}
-    <div id="{{ description.id | replace:'/authors/','' }}" class="image">{{ avatar }}</div>
-    {% endif %}
 
     {% if description.link %}
     <a class="content" href="{{ description.link }}" target="_blank" rel="noopener">
     {% else %}
     <div class="content">
     {% endif %}
+
+        {% if include.size != 'small' %}
+        <div id="{{ description.id | replace:'/authors/','' }}" class="ui image">{{ avatar }}</div>
+        {% endif %}
+
         {% if include.size == 'small' %}
         <div class="ui mini right floated image">{{ avatar }}</div>
         {% endif %}
