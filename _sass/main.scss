@@ -1,3 +1,5 @@
+@import "header";
+
 html {
     height: 100%;
 }
@@ -11,7 +13,7 @@ body {
     background-color: #F3F3F3;
 }
 
-header, footer {
+footer {
     flex: none;
 }
 
@@ -84,19 +86,6 @@ a.secondary.cta {
 
 body > a, body > footer a {
     text-decoration: none;
-}
-
-header {
-    background-color: #FEFEFE;
-    padding: 1em;
-    z-index: 2;
-}
-
-header > nav.ui.secondary.menu {
-    background-image: url(/img/marianne.svg);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: .8em;
 }
 
 #logo {
@@ -403,12 +392,6 @@ h1.site-description {
 }
 
 @media (max-width: 50em) {
-    header {
-        background-position: 0;
-        font-size: 60%;
-        padding: 0;
-    }
-
     #masthead {
         padding: 2em;
     }

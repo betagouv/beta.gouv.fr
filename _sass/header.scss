@@ -1,0 +1,20 @@
+header {
+    background-color: #FEFEFE;
+    padding: 1em;
+    z-index: 2;
+}
+
+header > nav.ui.secondary.menu {
+    background-image: url(/img/marianne.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: .8em;
+}
+
+@media (max-width: 50em) {
+    header {
+        background-position: 0;
+        font-size: 60%;
+        padding: 0;
+    }
+}
