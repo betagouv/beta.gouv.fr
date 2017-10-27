@@ -1,20 +1,70 @@
-header {
-    background-color: #FEFEFE;
+@import "dropdown";
+
+.nav {
+    width: 100%;
+    background: #fff;
+    z-index: 100;
+}
+
+.nav-fixed {
+    position: fixed;
+    top: 0;
+}
+
+.nav__container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.nav__home,
+.nav__logo {
+    height: 40px;
     padding: 1em;
-    z-index: 2;
+    box-sizing: content-box;
 }
 
-header > nav.ui.secondary.menu {
-    background-image: url(/img/marianne.svg);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: .8em;
+.nav__links {
+    display: inline;
+    margin: 0;
+    padding: 0.5em 1em;
+    list-style-type: none;
+    text-align: right;
 }
 
-@media (max-width: 50em) {
-    header {
-        background-position: 0;
-        font-size: 60%;
-        padding: 0;
+.nav__links li {
+    padding: 0;
+    display: inline;
+    line-height: 2em;
+}
+
+.nav__links a {
+    padding: 0.4em 0.8em;
+    border-radius: 3px;
+}
+
+.nav__links a:after {
+    content: none;
+}
+
+.nav__links a.active {
+    background: $lighter-grey;
+}
+
+.side-nav,
+.button-collapse {
+     display: none;
+}
+
+.nav a {
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+@media (max-width: 550px) {
+    .nav__links {
+        padding-top: 0;
     }
 }
