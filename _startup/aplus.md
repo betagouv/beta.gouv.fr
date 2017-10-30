@@ -30,6 +30,7 @@ L'agent A+ utilise l'espace collaboratif de la communauté  pour chercher les ra
 ## Démarrage par des pilotes locaux
 
 La communauté des A+ est en train d’être constituée. 
-Nous commençons par des expérimentations sur des territoires pilotes, avec un service accessible uniquement à la communauté des agents. 
+Nous commençons par des expérimentations sur des territoires pilotes, avec un service accessible uniquement à la communauté des agents.
+Après l'expérimentation et la généralisation du service au niveau national, le suivi des démarches sera intégré au compte personnel de l'usager sur service-public.fr.
 
 Vous êtes un agent d'opérateur public, vous êtes intéressé·e pour participer à la création de ce service ? Contactez-nous  : contact@aplus.beta.gouv.fr
