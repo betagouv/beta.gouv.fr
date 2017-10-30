@@ -11,7 +11,7 @@ body {
     display: flex;
     height: 100%;
     flex-direction: column;
-    background-color: #F3F3F3;
+    background-color: $theme-background-grey;
 }
 
 footer {
@@ -22,7 +22,7 @@ main {
     flex: 1 0 auto;
     width: 100%;
     z-index: 2;
-    background-color: #F3F3F3;
+    background-color: $theme-background-grey;
 }
 
 body, .menu {
@@ -55,8 +55,8 @@ a i.icon {
 }
 
 blockquote {
-    color: #666;
-    border-left: .2em solid #999;
+    color: $theme-grey-text;
+    border-left: .2em solid $theme-border-grey;
     margin-left: 0;
     padding-left: 2em;
 }
