@@ -2,7 +2,7 @@
 fullname: Etienne Puydebois
 role: Développeur Concepteur Open Académie
 startups:
-    -open-academie
+    - open-academie
 avatar: https://avatars3.githubusercontent.com/rosedeschamps?s=600
 start: 2017-09-04
 end: 2018-03-02
