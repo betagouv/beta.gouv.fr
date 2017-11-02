@@ -1,9 +1,9 @@
 #!/bin/bash
 # -*- coding: UTF8 -*-
 
-docker images | grep -q jeckyll_make
+docker images | grep -q jekyll_make
 if [ $? -ne 0 ];
 then
-  docker build -t jeckyll_make . 
+  docker build -t jekyll_make . 
 fi
-docker run --rm --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:4000:4000 jeckyll_make jekyll serve --drafts --watch
+docker run --rm --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:4000:4000 jekyll_make jekyll serve --drafts --watch
