@@ -99,7 +99,7 @@ Les fichiers pertinents pour une modification de la présentation sont probablem
 
 ### Utiliser docker
 
-Quand cette procédure ne fonctionne pas (version de ruby inférieure à 2) 
+Quand installer les gem comme décrit précédemment ne fonctionne pas (version de ruby inférieure à 2)
 un Dockerfile disponible à la racine est activable avec le script :
 
 ```sh
