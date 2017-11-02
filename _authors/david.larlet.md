@@ -6,6 +6,9 @@ link: https://larlet.fr/david/
 start: 2015-04-22
 end: 2017-12-31
 employer: independent/octo
+startups:
+    - api-drones
+    - data.gouv.fr
 ---
 
 Artisan, geek et citoyen.
