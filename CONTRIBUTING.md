@@ -97,6 +97,22 @@ bundle exec jekyll serve
 
 Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `_layouts` et `css`.
 
+### Utiliser docker
+
+Quand cette procédure ne fonctionne pas (version de ruby inférieure à 2) 
+un Dockerfile disponible à la racine est activable avec le script :
+
+```sh
+./docker_jekyll.sh
+```
+
+ou bien en tapant directement les commandes :
+
+``sh
+docker build -t jeckyll_make .
+docker run --rm --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:4000:4000 jeckyll_make jekyll serve --drafts --watch
+```
+
 ### Dépendances : un `Gemfile` particulier
 
 Afin de minimiser les écarts entre les versions de développement et les versions de production, ce dépôt contient un fichier `Gemfile` (spécification des versions minimum des dépendances), comme beaucoup de dépôts Ruby. Ce fichier `Gemfile` a par ailleurs un fonctionnement un peu particulier : lorsque c'est possible, il obtient sur le site de Github le numéro de version de Github Pages le plus récent, et tente de mettre à jour les dépendances.
