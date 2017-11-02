@@ -108,7 +108,7 @@ un Dockerfile disponible à la racine est activable avec le script :
 
 ou bien en tapant directement les commandes :
 
-``sh
+```sh
 docker build -t jeckyll_make .
 docker run --rm --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:4000:4000 jeckyll_make jekyll serve --drafts --watch
 ```
