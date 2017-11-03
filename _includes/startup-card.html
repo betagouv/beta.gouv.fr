@@ -43,12 +43,13 @@
             {% endif %}
         </div>
     </div>
-    {% capture members %}{{ site.authors | where_exp:"item","item.startups contains id"}}{% endcapture %}
-    {% if members %}
-    <address class="ui stackable cards">
-        {% for author in page.authors %}
-        {% include author.html id=author size='small' %}
-        {% endfor %}
-    </address>
-    {% endif %}
+    <div class="extra content">
+        {% assign shortid = description.id | remove: '/startup/' %}
+        {% assign members = site.authors | where_exp:"item","item.startups contains shortid" %}
+        {% if members %}
+            {% for author in members %}
+            <div class="ui tiny label">{{author.fullname}}</div>
+            {% endfor %}
+        {% endif %}
+    </div>
 </a>
