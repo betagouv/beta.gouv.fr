@@ -7,9 +7,9 @@ start: 2017-10-26
 owner: Ministère des Affaires sociales
 ---
 
-Aujourd’hui, la France compte entre 800 000 et 1 million de personnes sous mesure de protection (tutelle, curatelle, sauvegarde de justice). Chaque année plusieurs milliers de majeurs sont nouvellement concernés.
+Aujourd’hui, la France compte entre 800 000 et 1 million de personnes sous mesure de protection (tutelle, curatelle, sauvegarde de justice). Chaque année plusieurs milliers de personnes majeures sont nouvellement concernés.
 
-Ces derniers, dans l’impossibilité de pourvoir seuls à leurs intérêts (à cause d’une altération de leur faculté mentale ou corporelle) ont besoin d’être assistés ou représentés par un proche ou un professionnel.
+Ces dernières, dans l’impossibilité de pourvoir seules à leurs intérêts (à cause d’une altération de leur faculté mentale ou corporelle) ont besoin d’être assistées ou représentées par un proche ou un professionnel.
 
 Aujourd’hui les juges attribuent les mesures de protection sans avoir connaissance en temps réel de l’activité des travailleurs sociaux et de leur zone d’intervention géographique. La personne à protéger n’a donc pas systématiquement une prise en charge optimale. 
 
