@@ -48,6 +48,12 @@ new Chart(document.querySelector('canvas'), {
             backgroundColor: '#EAC8A2',
             steppedLine: true,
             pointRadius: 0
+        }, {
+            data: datasets.alumni.past,
+            label: 'Ancien·ne·s ',  // trailing space to ensure legend complies with French typography rules
+            backgroundColor: '#A2EEAA',
+            steppedLine: true,
+            pointRadius: 0
         }],
     },
     options: {

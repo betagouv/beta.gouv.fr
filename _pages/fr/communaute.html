@@ -70,7 +70,8 @@ ref: community
         dinsic: [],
         admin: [],
         independent: [],
-        service: []
+        service: [],
+        alumni: []
     };
 
     {% for person in site.authors %}
@@ -86,6 +87,10 @@ ref: community
             window.data[employerType].push({
                 date: '{{ person.end }}',
                 increment: -1
+            });
+            window.data['alumni'].push({
+                date: '{{ person.end }}',
+                increment: 1
             });
         {% endif %}
     {% endfor %}
