@@ -9,19 +9,19 @@ Le service A+ propose de faire appel à une communauté d'agents A+, dissémmin�
 
 <!--more-->
 
->> voir la fiche produit
+>> voir la [https://beta.gouv.fr/startup/aplus.html fiche produit]
 
 ## La première Startup d'Etat de la DILA
-A+ est la première Startup issue de la nouvelle collaboration entre l'incubateur et le DILA. Vous connaissez la Direction de l'Information Légale et Administrative au travers de leurs services service-public.fr, legifrance.gouv.fr, journal-officiel.gouv.fr, boamp.fr  ladocumentationfrancaise.fr...
+A+ est la première Startup issue de la collaboration entre l'incubateur et le DILA. Vous connaissez la Direction de l'Information Légale et Administrative au travers de leurs services service-public.fr, legifrance.gouv.fr, journal-officiel.gouv.fr, boamp.fr,  ladocumentationfrancaise.fr...
 
 Suite à un challenge d'intrapreneuriat mi septembre, Zohra Lebel a été désignée par le jury pour incuber son concept pendant 6 mois à l'incubateur.
 
-## Prochaine étape :
+## Prochaines étapes :
 
 L'équipe est maintenant constituée de Zohra Lebel, attachée de mission, Yan Tanguy, rédacteur sur service-public.fr, Julien Dauphant, développeur (à qui l'on doit Plantes&Moi) et Dominique Lequepeys, coach de l'incubateur.
 
-Nous disposons d'un prototype fonctionnel. Nous comptons lancer quelques expérimentations sur des territoires pilotes, notamment dans les quartiers difficiles.
+Nous disposons d'un prototype fonctionnel. Nous comptons commencer par quelques expérimentations sur des territoires pilotes, notamment dans les quartiers difficiles, pour rôder le concept.
 
-Le 15 mars, nous devons avoir le témoignage de premiers utilisateurs satisfaits pour convaincre le jury de poursuivre le financement de la Startup.
+Objectif pour le 15 mars : avoir le témoignage de premiers utilisateurs satisfaits pour convaincre le jury de poursuivre le financement de la Startup.
 
 Si vous êtes intéressé.e, vous voulez aider, ou avez des contacts à nous partager, contactez-nous : contact@aplus.beta.gouv.fr
