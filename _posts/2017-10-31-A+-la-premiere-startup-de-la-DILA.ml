@@ -3,8 +3,7 @@ title: A+, la nouvelle Startup d'Etat qui va vous faire aimer les fonctionnaires
 authors: dominique.lequepeys
 ---
 
-## Breaking news:  A+, le service VIP pour tous.
-Le 15 septembre, la startup A+ s'est lancée. 
+## Breaking news: Le 15 septembre, la startup A+ s'est lancée. 
 
 Vous avez déjà sûrement connu des situations kafkaïennes dans l'administration : renvoi d'un guichet à l'autre, dossier perdu...
 Le service A+ propose de faire appel à une communauté d'agents A+, dissémminés dans les administrations pour vous informer sur la situation de votre dossier et comment le débloquer.
