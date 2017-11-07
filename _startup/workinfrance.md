@@ -17,7 +17,7 @@ Qu’il s’agisse d’un futur salarié ou d’une entreprise, la demande d’a
 
 Légitimement, les usagers à la recherche de réponses concrètes contactent la DIRECCTE pour être tenus informés du statut de leur demande : 
 
-> Avez vous reçu ma demande ?
+> Avez-vous reçu ma demande ?
 > Quand vais-je recevoir mon autorisation de travail ?
 
 La lenteur de la procédure et son manque de transparence retardent ainsi la prise de poste du salarié et pénalisent l’entreprise qui n’est pas en mesure d’avoir une visibilité sur la validation du recrutement de son personnel. 
