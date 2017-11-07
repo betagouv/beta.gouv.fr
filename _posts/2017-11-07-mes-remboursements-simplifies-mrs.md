@@ -30,7 +30,7 @@ L'équipe initiale de la CPAM de Toulouse coachée par Beta.gouv, est à l'œuvr
 
 Notre stratégie se décline en deux temps :
 * en premier convertir un panel d'assurés utilisateurs du remboursement actuel papier (formulaire Cerfa s3140) vers le service MRS.
-* puis basculer par défaut les prescriptions en véhicule personnel ou transports en commun de deux établissements de santé toulousains.
+* puis favoriser la prescription initiale en véhicule personnel ou transports en commun sur deux établissements de santé toulousains.
 
 **L'enjeu** est d'offrir d'ici 5 mois, **un service facilitateur** aux assurés et de **convertir**, lorsque cela est médicalement possible, **les utilisateurs** de transports sanitaires (Taxi/VSL) **à la voiture personnel** ou aux transports en commun.
 
