@@ -1,5 +1,5 @@
 ---
-title: "Mes Remboursements Simplifiés (MRS) : mieux servir les assurés en réduisant nos dépenses de santé"
+title: "Mes remboursements simplifiés (MRS) : mieux servir les assurés tout en réduisant nos dépenses de santé"
 authors:
   - frederic.boulay
   - brice.jones
