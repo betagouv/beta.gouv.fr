@@ -8,8 +8,7 @@ employer: independent/octo
 startups:
     - aplus
     - psi
-    - 'siganux-faibles'
-    - boussole
+    - 'signaux-faibles'
     - transport
     - 'le-taxi'
     - maintenant
