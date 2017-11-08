@@ -15,7 +15,7 @@ Comme souvent, une méconnaissance des modes de transports sanitaires pouvant ê
 
 Ainsi en Haute-Garonne, la prise en charge des frais d'utilisation du véhicule personnel représente moins de 1% des dépenses de transport sanitaire. Et pourtant, faire basculer un transport sur 10 du taxi vers le véhicule personnel permettrait une économie de 1 million d'euros par an uniquement sur le plus gros établissement de soins de la région…
 
-## Comment convaincre nos assurés d'utiliser leur voiture, mode de transport sanitaire le plus flexible et le mieux remboursé ?
+## Comment convaincre nos assurés d'utiliser leur voiture, mode de transport sanitaire le plus flexible et le mieux remboursé ?
 
 Challengé dans le cadre d'un concours interne sur la régulation des dépenses de santé en juin 2017, la CPAM de la Haute-Garonne a porté une réponse simple :
 * **accompagner** les prescripteurs (hôpitaux, médecins libéraux...) pour promouvoir le recours au véhicule personnel,
@@ -29,10 +29,10 @@ MRS est une plateforme numérique visant à simplifier et accélérer le rembour
 L'équipe initiale de la CPAM de Toulouse coachée par Beta.gouv, est à l'œuvre depuis maintenant un mois. Nous construisons un prototype qui sera testé et amélioré au fur et à mesure des retours des utilisateurs.
 
 Notre stratégie se décline en deux temps :
-* en premier convertir un panel d'assurés utilisateurs du remboursement actuel papier (formulaire Cerfa s3140) vers le service MRS.
+* en premier convertir un panel d'assurés utilisateurs du remboursement actuel papier (formulaire Cerfa S3140) vers le service MRS.
 * puis favoriser la prescription initiale en véhicule personnel ou transports en commun sur deux établissements de santé toulousains.
 
-**L'enjeu** est d'offrir d'ici 5 mois, **un service facilitateur** aux assurés et de **convertir**, lorsque cela est médicalement possible, **les utilisateurs** de transports sanitaires (Taxi/VSL) **à la voiture personnel** ou aux transports en commun.
+**L'enjeu** est d'offrir d'ici 5 mois, **un service facilitateur** aux assurés et de **convertir**, lorsque cela est médicalement possible, **les utilisateurs** de transports sanitaires (Taxi/VSL) **à la voiture personnelle** ou aux transports en commun.
 
 <br/>
 
