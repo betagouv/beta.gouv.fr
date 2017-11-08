@@ -41,7 +41,9 @@
         </div>
 
         {% if include.job.techno %}
-            <div class="excerpt-job-techno">{{ job.techno }}</div>
+            <div class="excerpt-job-techno">{{ job.techno }}
+            {% if job.junior %} - débutant·e·s bienvenu·e·s{% endif %}
+            </div>
         {% endif %}
     </div>
 
