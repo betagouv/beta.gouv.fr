@@ -18,13 +18,13 @@ Ainsi en Haute-Garonne, la prise en charge des frais d'utilisation du véhicule 
 ## Comment convaincre nos assurés d'utiliser leur voiture, mode de transport sanitaire le plus flexible et le mieux remboursé ?
 
 Challengé dans le cadre d'un concours interne sur la régulation des dépenses de santé en juin 2017, la CPAM de la Haute-Garonne a porté une réponse simple :
-* **accompagner** les prescripteurs pour promouvoir le recours au véhicule personnel,
+* **accompagner** les prescripteurs (hôpitaux, médecins libéraux...) pour promouvoir le recours au véhicule personnel,
 * **faciliter** l'accès aux établissements de santé en prenant en charge les frais de parking,
-* **simplifier** le circuit de remboursement, l'objet de MRS.
+* **simplifier** le circuit de remboursement, l'objet de cette nouvelle Startup Mes Remboursements Simplifiés (MRS).
 
 Beta.gouv en lien avec la CNAMTS repère le projet et propose à la CPAM de la Haute-Garonne d'intégrer l'incubateur. MRS est depuis octobre la première Startup d'État de l'Assurance Maladie.
 
-MRS est une plateforme numérique visant à simplifier et accélérer le remboursement du transport personnel. En quelques clics, l'assuré saisit sa demande et ajoute ses justificatifs, il sera alors remboursé sous 1 semaine. Cette solution **divise par 4 le délai moyen de remboursement**. Retrouvez plus d'informations sur [mrs.beta.gouv.fr](http://mrs.beta.gouv.fr/).
+MRS est une plateforme numérique visant à simplifier et accélérer le remboursement du transport personnel. En quelques clics, l'assuré saisit sa demande et ajoute ses justificatifs, il sera alors remboursé sous 1 semaine. Cette solution **divise par 4 le délai moyen de remboursement**. Découvrez et suivez l'évolution du service ici : [mrs.beta.gouv.fr](http://mrs.beta.gouv.fr/).
 
 L'équipe initiale de la CPAM de Toulouse coachée par Beta.gouv, est à l'œuvre depuis maintenant un mois. Nous construisons un prototype qui sera testé et amélioré au fur et à mesure des retours des utilisateurs.
 
