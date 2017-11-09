@@ -117,11 +117,6 @@ body > footer {
     pointer-events: none;
 }
 
-@media (max-width: 414px) {
-    .footer-space {
-        height: 392px;
-    }
-}
 @media (max-width: 768px) {
     .footer-space {
         height: 466px;
@@ -152,8 +147,11 @@ body > footer .footer-main {
 }
 
 @media (max-width: 414px) {
-    body > footer .subscribe {
-            padding: 56px 0;
+    .footer-space {
+        height: 0px;
+    }
+    body > footer .footer-main {
+        position: initial;
     }
 }
 @media (max-width: 768px) {
