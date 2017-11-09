@@ -26,7 +26,13 @@ layout: default
         <p>Poste ouvert le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time>.</p>
 
         {% if job.techno %}
-            <p><em>{{ job.techno }}</em>.</p>
+            <p>
+            {% if job.junior %}
+                Juniors bienvenu·e·s sur ce poste. L'équipe assurera votre
+                formation aux technologies retenues :
+            {% endif %}
+            <em>{{ job.techno }}</em>.
+            </p>
         {% endif %}
 
         {% unless job.open %}
