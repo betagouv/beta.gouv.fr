@@ -1,6 +1,6 @@
 ---
 roles: un·e développeur·se
-startup: mvmd
+startup: avril
 techno: Choix technologiques ouverts parmi les solutions libres du marché
 open: false
 ---
