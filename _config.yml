@@ -63,3 +63,6 @@ defaults:
       layout: job
 
 excerpt_separator: <!--more-->
+
+sass:
+  style: compressed

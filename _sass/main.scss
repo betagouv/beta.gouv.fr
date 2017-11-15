@@ -1,3 +1,6 @@
+@import "theme";
+@import "header";
+
 html {
     height: 100%;
 }
@@ -8,10 +11,10 @@ body {
     display: flex;
     height: 100%;
     flex-direction: column;
-    background-color: #F3F3F3;
+    background-color: $theme-background-grey;
 }
 
-header, footer {
+footer {
     flex: none;
 }
 
@@ -19,7 +22,7 @@ main {
     flex: 1 0 auto;
     width: 100%;
     z-index: 2;
-    background-color: #F3F3F3;
+    background-color: $theme-background-grey;
 }
 
 body, .menu {
@@ -52,8 +55,8 @@ a i.icon {
 }
 
 blockquote {
-    color: #666;
-    border-left: .2em solid #999;
+    color: $theme-grey-text;
+    border-left: .2em solid $theme-border-grey;
     margin-left: 0;
     padding-left: 2em;
 }
@@ -84,19 +87,6 @@ a.secondary.cta {
 
 body > a, body > footer a {
     text-decoration: none;
-}
-
-header {
-    background-color: #FEFEFE;
-    padding: 1em;
-    z-index: 2;
-}
-
-header > nav.ui.secondary.menu {
-    background-image: url(/img/marianne.svg);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: .8em;
 }
 
 #logo {
@@ -403,12 +393,6 @@ h1.site-description {
 }
 
 @media (max-width: 50em) {
-    header {
-        background-position: 0;
-        font-size: 60%;
-        padding: 0;
-    }
-
     #masthead {
         padding: 2em;
     }
