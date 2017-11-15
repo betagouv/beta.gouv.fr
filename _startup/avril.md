@@ -3,7 +3,7 @@ title: Avril - La V.A.E. facile
 mission: Obtenir un diplôme grâce à vos compétences 
 link: http://avril.pole-emploi.fr
 status: construction
-contact: marie.briche@beta.gouv.fr
+contact: marie.briche@pole-emploi.fr
 start: 2017-05-01
 owner: Pôle emploi
 ---
