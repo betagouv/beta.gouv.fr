@@ -1,6 +1,7 @@
 ---
-title: Ma VAE, mon diplôme - MVMD
+title: Avril - La V.A.E. facile
 mission: Obtenir un diplôme grâce à vos compétences 
+link: http://avril.pole-emploi.fr
 status: construction
 contact: marie.briche@beta.gouv.fr
 start: 2017-05-01
@@ -21,7 +22,7 @@ En 2015, __+ de 80% des demandeurs d'emploi qui ont obtenus un titre professionn
 
 Malheureusement pour Marie-Cécile, __ce dispositif est méconnu__ et reste __complexe dans sa mise en oeuvre__.  Il existe 14 000 certifications, les procédures de financement peuvent être lourdes, et de ce fait les professionnels de l'emploi hésitent à le promouvoir. 
 
-MVMD aidera Marie-Cécile a trouver le diplôme qui lui correspond suivant son expérience et ses compétences. Pour tous les demandeurs d'emploi, les actifs, les conseillers emplois ainsi que les employeurs, MVMD deviendra le moyen le plus simple de se certifier. __Nous accompagnerons le candidat dans sa démarche : diagnostic des compétences, identification des certifications et des certificateurs, mise en oeuvre de la démarche de VAE__.
+Avril aidera Marie-Cécile a trouver le diplôme qui lui correspond suivant son expérience et ses compétences. Pour tous les demandeurs d'emploi, les actifs, les conseillers emplois ainsi que les employeurs, Avril deviendra le moyen le plus simple de se certifier. __Nous accompagnerons le candidat dans sa démarche : diagnostic des compétences, identification des certifications et des certificateurs, mise en oeuvre de la démarche de VAE__.
 
-Nous déploierons MVMD en Île-de-France sur les certifications les plus populaires (CAP petite enfance, DEAS, TP ADVF…) avant un déploiement national. MVMD sera présent sur l'emploi-store, l'espace employeur, dans le script d'inscription du demandeur d'emploi sur pole-emploi.fr, ainsi que sur les job boards afin de proposer un diplôme selon le profil du candidat. 
+Nous déploierons Avril en Île-de-France sur les certifications les plus populaires (CAP petite enfance, DEAS, TP ADVF…) avant un déploiement national. Avril sera présent sur l'emploi-store, l'espace employeur, dans le script d'inscription du demandeur d'emploi sur pole-emploi.fr, ainsi que sur les job boards afin de proposer un diplôme selon le profil du candidat. 
 
