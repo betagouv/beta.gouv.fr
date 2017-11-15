@@ -26,3 +26,9 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+@media all and (max-width : 768px) {
+    .dropdown {
+        display: none;
+    }
+}
