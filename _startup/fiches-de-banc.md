@@ -1,7 +1,6 @@
 ---
 title: Fiches de banc
 mission: Augmenter la productivité du traitement des amendements dans les cabinets ministériels
-link: https://fiches-de-banc.beta.gouv.fr
 repository: https://github.com/sgmap/fiches-de-banc
 status: death
 contact: matti.schneider@beta.gouv.fr
@@ -16,6 +15,8 @@ Ces réponses sont appelées « fiches de banc », du nom des fiches que les r
 
 Abandon
 -------
+
+_Le certificat ayant expiré, le service n'est plus en ligne._
 
 Cette Startup a été abandonnée en septembre 2016.
 
