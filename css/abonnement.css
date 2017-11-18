@@ -1,0 +1,8 @@
+body > main, body > footer .footer-space {
+    color: #FFF;
+    background: #26353f;
+}
+
+body > footer .subscribe {
+    display: none !important;
+}

@@ -172,12 +172,12 @@ body > footer .footer-main {
     }
 }
 
-body > footer .subscribe {
+body .subscribe {
     padding: 120px 0;
     font-size: 70%;
 }
 
-body > footer .subscribe label.title {
+body .subscribe label.title {
     display: block;
     text-align: center;
     width: 100%;
@@ -186,13 +186,13 @@ body > footer .subscribe label.title {
     font-weight: bold;
 }
 
-body > footer .subscribe form {
+body .subscribe form {
     margin: 0 auto;
     max-width: 420px;
     width: 100%;
 }
 
-body > footer .subscribe form label.icon {
+body .subscribe form label.icon {
     white-space: nowrap;
     text-overflow: ellipsis;
     padding: 8px 0;
@@ -210,15 +210,15 @@ body > footer .subscribe form label.icon {
     padding: 24px;
 }
 
-body > footer .input-container {
+body .subscribe .input-container {
     position: relative;
 }
 
-body > footer .subscribe form input[type=submit] {
+body .subscribe form input[type=submit] {
     display: none;
 }
 
-body > footer .subscribe form input[type=email] {
+body .subscribe form input[type=email] {
     transition: all .25s ease-in-out;
     width: 100%;
     border: none;
@@ -232,23 +232,23 @@ body > footer .subscribe form input[type=email] {
     border-radius: 2px;
 }
 
-body > footer .social-links {
+body .subscribe .social-links {
     display: flex;
     justify-content: center;
     margin-top: 15px;
     font-size: 1.2em;
 }
 
-body > footer .social-links svg {
+body .subscribe .social-links svg {
     height: 1.2em;
     vertical-align: middle;
 }
 
-body > footer .social-links a {
+body .subscribe .social-links a {
     margin-right: 30px;
 }
 
-body > footer .social-links a:last-child {
+body .subscribe .social-links a:last-child {
     margin-right: 0;
 }
 
