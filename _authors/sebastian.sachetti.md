@@ -6,7 +6,7 @@ employer: dinsic
 startups:
     - aplus
     - 'api-particulier'
-    - franceconnect agent
+    - franceconnect-agent
     - mrs
     - pass-culture
     - plante-et-moi
