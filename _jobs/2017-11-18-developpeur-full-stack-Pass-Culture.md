@@ -5,7 +5,7 @@ techno: Choix technologiques ouverts parmi les solutions libres du marché
 open: true
 ---
 
-Pass Culture cherche un·e développeur·se pour un CDD ou un·e prestataire indépendant·e. Si vous voulez construire un outil grand public qui facilite l’accès au cinéma, au spectacle vivant, à la littérature ou encore à l’apprentissage musical, rejoignez-nous !
+Le Pass Culture cherche un·e développeur·se pour un CDD ou un·e prestataire indépendant·e. Si vous voulez construire un outil mobile grand public qui facilite l’accès au spectacle vivant, à la littérature ou encore à l’apprentissage musical, rejoignez-nous !
 
 <!--more-->
 
@@ -27,6 +27,6 @@ Vous serez en charge de construire (from scratch) le produit / service pour les 
 
 * Poste ouvert pour un·e indépendant·e (en portage)
 * Temps partiel accepté (80% minimum)
-* Télétravail partiel bienvenu, avec quelques jours à Toulouse pour retrouver toute l'équipe.
+* Télétravail partiel bienvenu.
 
 Pour postuler, écrivez-nous à l'adresse [`recrutement@beta.gouv.fr`](mailto:recrutement@beta.gouv.fr) avec votre LinkedIn / CV et votre compte GitHub.
