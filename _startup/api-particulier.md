@@ -6,6 +6,7 @@ repository: https://github.com/sgmap/api-particulier
 status: consolidation
 contact: contact@particulier.api.gouv.fr
 logo:
+owneer: Etalab
 start: 2015-10-11
 ---
 
