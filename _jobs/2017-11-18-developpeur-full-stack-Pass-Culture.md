@@ -1,6 +1,6 @@
 ---
 roles: un·e développeur·se full stack
-startup: Pass Culture
+startup: pass-culture
 techno: Choix technologiques ouverts parmi les solutions libres du marché
 open: true
 ---
