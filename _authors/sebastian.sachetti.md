@@ -6,8 +6,10 @@ employer: dinsic
 startups:
     - aplus
     - 'api-particulier'
+    - franceconnect agent
     - mrs
+    - pass-culture
     - plante-et-moi
-    - TPS
+    - tps
 ---
 Interface Humaine à la recherche de connections pour développer les services publics numériques de demain
