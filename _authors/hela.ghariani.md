@@ -9,6 +9,7 @@ startups:
     - bourse
     - 'etudiant-entrepreneur'
     - boussole
+    - reserve-civique
 ---
 
 Résiliente et engagée.

@@ -6,7 +6,6 @@ end: 2017-12-31
 employer: independent/octo
 startups:
     - 'api-entreprise'
-
 ---
 
 Petit mais costaud !

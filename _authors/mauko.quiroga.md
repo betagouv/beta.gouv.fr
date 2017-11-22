@@ -5,6 +5,9 @@ link: http://mauko.me/
 start: 2016-02-15
 end: 2017-12-19
 employer: independent/octo
+startups:
+    - transport
+    - boussole
 ---
 
 Engagé dans la construction d’un État au XXI<sup>e</sup> siècle.

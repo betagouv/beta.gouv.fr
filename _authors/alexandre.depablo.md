@@ -4,6 +4,8 @@ role: Développeur
 start: 2017-02-01
 end: 2017-12-31
 employer: independent/OCTO
+startups:
+    - api-entreprise
 ---
 
 Ah, Biographie ! … Biographie…

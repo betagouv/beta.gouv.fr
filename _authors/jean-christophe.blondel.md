@@ -5,6 +5,8 @@ avatar: https://cloudinary-a.akamaihd.net/hopwork/image/upload/w_360,h_340,c_thu
 start: 2016-10-16
 end: 2017-02-10
 employer: service/octo
+startups:
+    - api-entreprise
 ---
 
 Celui qui doute teste.
