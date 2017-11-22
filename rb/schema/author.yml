@@ -20,3 +20,7 @@ mapping:
     type:      str
   "github":
     type:      str
+  "startups":
+    type:      seq
+    sequence:
+        - type:      str

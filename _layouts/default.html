@@ -3,47 +3,53 @@
     {% include head.html %}
 
     <body>
-        <header>
-            <nav class="ui secondary menu">
-                <div class="right menu">
-                    {% if page.ref != 'landing' %}
-                        <a class="item" id="logo" href="/">beta.gouv.fr</a>
-                    {% endif %}
+        <nav class="nav">
+            <div class="nav__container">
+                <a href="/"><img class="nav__logo" src="/img/logo-betagouv.svg" alt="Accueil de beta.gouv.fr" /></a>
 
+                <ul class="nav__links">
                     {% assign menu_items = site.pages | where_exp: 'page', 'page.menu_index > 0' | sort: 'menu_index' %}
                     {% for menu_item in menu_items %}
                         {% assign translation = site.pages | where: 'ref', menu_item.ref | where: 'lang', 'en' | first %}
                         {% if page.lang == 'en' and translation %}
-                            <a class="item large screen only
-                                {% if page.url == translation.url %} active{%endif%}"
-                                href="{{ translation.url }}">
-                                {{ translation.title }}
-                            </a>
+                            <li>
+                                <a class="{% if page.url == translation.url %} active{%endif%}" href="{{ translation.url }}">
+                                    {{ translation.title }}
+                                </a>
+                            </li>
                          {% elsif page.lang == 'en' %}
-                            <a class="item large screen only
-                                {% if page.url == menu_item.url %} active{%endif%}"
-                                href="{{ menu_item.url }}">
-                                {{ menu_item.title }} (fr)
-                            </a>
+                             <li>
+                                 <a class="{% if page.url == menu_item.url %} active{%endif%}" href="{{ menu_item.url }}">
+                                    {{ menu_item.title }} (fr)
+                                </a>
+                            </li>
                          {% else %}
-                            <a class="item large screen only
-                                {% if page.url == menu_item.url %} active{%endif%}"
-                                href="{{ menu_item.url }}">
-                                {{ menu_item.title }}
-                            </a>
+                             <li>
+                                 <a class="{% if page.url == menu_item.url %} active{%endif%}" href="{{ menu_item.url }}">
+                                    {{ menu_item.title }}
+                                </a>
+                            </li>
                         {% endif %}
                     {% endfor %}
 
                     {% assign landing_fr = site.pages | where: 'ref', 'landing' | where: 'lang', 'fr' | first %}
                     {% assign landing_en = site.pages | where: 'ref', 'landing' | where: 'lang', 'en' | first %}
-                    {% if page.lang == 'en' and landing_fr %}
-                        <a class="item large screen only" href="{{ landing_fr.url }}">Français</a>
-                    {% else %}
-                        <a class="item large screen only" href="{{ landing_en.url }}">English</a>
-                    {% endif %}
-                </div>
-            </nav>
-        </header>
+                    <li>
+                        <div class="dropdown">
+                            {% if page.lang == 'en' %}
+                                Language
+                            {% else %}
+                                Langue
+                            {% endif %}
+                            <div class="dropdown-content">
+                                <a href="{{ landing_fr.url }}">Français 🇫🇷</a>
+                                <a href="{{ landing_en.url }}">English 🇬🇧</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
 
         <main>
             {{ content }}

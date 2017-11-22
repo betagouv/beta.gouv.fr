@@ -1,8 +1,9 @@
 ---
-title: Aide à la Reprise d'Activité - ARA
+title: Clara - Vos aides en un clic
 mission: Découvrir les aides et mesures Pôle emploi qui accélèrent la reprise d'activité
+link: http://clara.pole-emploi.fr/
 status: construction
-contact: anne-camille.monet@beta.gouv.fr
+contact: anne-camille.monet@pole-emploi.fr
 start: 2017-04-01
 owner: Pôle emploi
 ---
@@ -13,13 +14,13 @@ Pourtant leur efficacité est prouvée : parmi les demandeurs d’emploi qui ont
 
 Un profil éligible aux aides de l’Etat c’est aussi un moyen de booster une candidature auprès des entreprises. Uniquement sur l’année dernière, 1,56 million de contrats aidés ont été signés, permettant à des candidats très éloignés du marché du travail de mettre ou remettre un pied dans l’emploi.
 
-__ARA ouvre de nouvelles opportunités de reprise d’emploi, en portant l’existence des aides à la connaissance des bénéficiaires et aussi en leur indiquant leur éligibilité aux contrats aidés__.
+__Clara ouvre de nouvelles opportunités de reprise d’emploi, en portant l’existence des aides à la connaissance des bénéficiaires et aussi en leur indiquant leur éligibilité aux contrats aidés__.
 
-ARA fournira dès sa sortie l’accès à des aides nationales et régionales. La priorité est de mettre le plus rapidement possible un service indispensable entre les mains des demandeurs d’emploi puis offrir un gain de temps aux conseiller·e·s emploi.
+Clara fournira dès sa sortie l’accès à des aides nationales et régionales. La priorité est de mettre le plus rapidement possible un service indispensable entre les mains des demandeurs d’emploi puis offrir un gain de temps aux conseiller·e·s emploi.
 
-Afin d’avoir des retours rapides et enrichir notre couverture d’aides locales, nous commencerons par déployer ARA en Hauts-de-France afin de trouver un ou plusieurs référents aides et des utilisateurs cibles. Cette stratégie de déploiement sera ensuite étendue région par région.
+Afin d’avoir des retours rapides et enrichir notre couverture d’aides locales, nous commencerons par déployer Clara en Hauts-de-France afin de trouver un ou plusieurs référents aides et des utilisateurs cibles. Cette stratégie de déploiement sera ensuite étendue région par région.
 
-A terme ARA sera intégré dans les services déjà connus de demandeurs d'emploi et des conseiller·e·s :
+A terme Clara sera intégré dans les services déjà connus de demandeurs d'emploi et des conseiller·e·s :
 
 * Lors de la consultation des offres par les demandeurs d’emploi
 * Dans le profil du demandeur d’emploi sur pole-emploi.fr 

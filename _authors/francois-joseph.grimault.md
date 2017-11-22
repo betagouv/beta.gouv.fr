@@ -6,5 +6,7 @@ start: 2017-10-01
 end: 2017-12-31
 employer: independent
 github: fjg
+startups:
+    - mrs
 ---
-Tolosa-MRS
+Dubito ergo sum
