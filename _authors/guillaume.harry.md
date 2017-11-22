@@ -1,14 +1,15 @@
----
-fullname: Guillaume HARRY # penser à modifier le nom du fichier ci-dessus !
+fullname: Guillaume HARRY
 role: PO FranceConnect Agent
-# ci-dessous, tu peux aussi remplacer sgmap-bot par ton propre pseudo Github
-# ou bien fournir l'URL (HTTPS obligatoire) d'une image carrée 512x512 minimum
-# ou bien uploader un fichier JPG en 512x512 du même nom que ce fichier dans /img/authors et effacer cette ligne
 avatar: https://avatars3.githubusercontent.com/sgmap-bot?s=600
-#link: # optionnel : lien vers une page perso externe. Effacer cette ligne si rien à mettre.
-start: 2017-10-18 # date d'arrivée au format ISO (AAAA-MM-JJ)
-end: 2018-05-31 # date de fin de contrat au format ISO (AAAA-MM-JJ)
-employer: dinsic # dinsic ou independent/<employer> ou admin/<employer>
----
+link: http://aresu.dsi.cnrs.fr/spip.php?auteur18
+start: 2017-10-18
+end: 2018-12-31
+employer: dinsic 
 
-Écrit des autobiographies percutantes en moins de 200 caractères depuis 1972.
+Après l'obtention d'une maîtrise en informatique, j'ai eu une première expérience de trois ans chez Michelin. Cette expérience m'a permis de me former au métier d'architecte des bases de données dans un contexte international.
+J'ai ensuite intégré la DSI du CNRS en 2004. J'ai eu essentiellement des activités orientées vers l'administration des environnements Oracle, dont les bases de données, les serveurs d'applications J2E et les annuaires LDAP. J'ai également collaboré sur les problématiques de performances des applications.
+En parallèle de mes activités, j'ai entamé une démarche auprès du Cnam.
+Ingénieur diplômé et bénéficiant  d’une expertise significative à la fois dans les domaines techniques et système d’information du CNRS, le périmètre de mes activités et responsabilités a continué à progresser.
+EN 20014, j'ai créé et pris la responsabilité de la cellule « Annuaires & Habilitations ». J'ai ainsi pris en charge l'ensemble des sujets liés à l'authentification et à la gestion des 130 000 comptes utilisateurs du système d'information.
+Dans le cadre de ces activités, j'ai eu l'occasion d'échanger sur le sujet FranceConnect avec la DINSIC.
+Ayant amélioré significativement la qualité et le niveau de sécurité des accès aux services nationaux du CNRS, j'ai souhaité mettre à profit mes compétences dans le projet FranceConnect.
