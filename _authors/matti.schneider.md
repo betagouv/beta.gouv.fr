@@ -6,6 +6,11 @@ link: http://mattischneider.fr
 start: 2014-10-01
 end: 2017-08-31
 employer: dinsic
+startups:
+    - 'mes-aides'
+    - embauche
+    - 'fiches-de-banc'
+    - api.gouv.fr
 ---
 
 Ingénieur transdisciplinaire. Sceptique des aphorismes autobiographiques.
