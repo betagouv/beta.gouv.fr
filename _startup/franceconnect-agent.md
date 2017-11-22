@@ -1,8 +1,8 @@
 ---
 title: FranceConnect Agent
-mission: Identifier et authentifier les agents du service public au moment d'accéder aux services
+mission: Identifier et authentifier les agents du service public et les élus avec un compte unique
 status: construction
-contact: Guillaume HARRY
+contact: guillaume.harry@beta.gouv.fr
 start: 2017-10-18
 owner: FranceConnect Agent
 ---
