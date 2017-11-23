@@ -9,4 +9,5 @@ employer: dinsic
 ---
 
 Spécialiste Gestion des Identités et des Accès
-https://www.linkedin.com/in/guillaume-harry-32885637/
+
+[LinkedIn](https://www.linkedin.com/in/guillaume-harry-32885637/)
