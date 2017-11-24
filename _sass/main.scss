@@ -110,50 +110,14 @@ body > footer {
     z-index: 0;
 }
 
-.footer-space {
-    height: 514px;
-    position: relative;
-    z-index: -2;
-    pointer-events: none;
-}
-
-@media (max-width: 768px) {
-    .footer-space {
-        height: 466px;
-    }
-}
-@media (max-width: 1024px) {
-    .footer-space {
-        height: 490px;
-    }
-}
-@media (max-width: 1280px) {
-    .footer-space {
-        height: 514px;
-    }
-}
-
 body > footer .footer-main {
     background: #26353f;
     color: #FFF;
     bottom: 0;
     width: 100%;
-    position: fixed;
-    z-index: -1;
     text-shadow: none;
-    will-change: transform;
-    -webkit-backface-visibility: hidden;
-    -webkit-transform: translate3d(0,0,0);
 }
 
-@media (max-width: 414px) {
-    .footer-space {
-        height: 0px;
-    }
-    body > footer .footer-main {
-        position: initial;
-    }
-}
 @media (max-width: 768px) {
     body > footer .subscribe {
             padding: 88px 0;
