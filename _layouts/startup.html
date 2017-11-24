@@ -31,7 +31,7 @@ layout: default
         </div>
         <div class="image">
             {% if video_path %}
-                <video class="screenshot" src="{{ video_path }}" poster="{{ screenshot_path }}" controls></video>
+                <video class="screenshot" src="https://github.com/sgmap/beta.gouv.fr/blob/master/{{ video_path }}?raw=true" poster="{{ screenshot_path }}" controls></video>
             {% else %}
                 {% if page.link %}<a href="{{ page.link | strip }}" target="_blank" rel="noopener">{% endif %}
                     {% include screenshot.html startup=page %}
