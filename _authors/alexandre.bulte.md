@@ -6,6 +6,8 @@ link: https://alexandre.bulte.net
 start: 2017-06-01
 end: 2017-12-31
 employer: independent/octo
+startups:
+    - data.gouv.fr
 ---
 
 KISS.

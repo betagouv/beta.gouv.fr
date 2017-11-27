@@ -6,6 +6,8 @@ link: http://christophe.robillard.pro
 start: 2016-06-01
 end: 2017-04-15
 employer: independent/octo
+startups:
+    - mpal
 ---
 
 Développeur et musicien

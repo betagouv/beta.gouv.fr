@@ -5,6 +5,10 @@ avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAhqAAAAJDE
 start: 2015-06-22
 end: 2017-02-22
 employer: service/octo
+startups:
+    - mps
+    - tps
+    - api-entreprise
 ---
 
 La confiance n'exclut pas le contrôle.

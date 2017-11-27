@@ -5,6 +5,9 @@ avatar: https://www.gravatar.com/userimage/11519889/4018a8806740b9842b9fa9efbc32
 start: 2016-02-01
 end: 2016-09-16
 employer: service/octo
+startups:
+    - api-entreprise
+    - mps
 ---
 
 Quand tu veux abandonner, souviens-toi pourquoi tu as commencé.

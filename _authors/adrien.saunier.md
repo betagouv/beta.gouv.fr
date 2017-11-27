@@ -4,6 +4,8 @@ role: Développeur
 start: 2017-04-01
 end: 2017-09-30
 employer: service/octo
+startups:
+    - pix
 ---
 
 Inventeur de blagues nulles, Eleveur de loutres
