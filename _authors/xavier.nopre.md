@@ -7,4 +7,5 @@ end: 2016-11-08
 employer: independent/octo
 startups:
     - retraite
+    - maintenant
 ---
