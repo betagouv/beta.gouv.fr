@@ -12,7 +12,7 @@ Le Pass Culture cherche un·e développeur·se pour un CDD ou un·e prestataire 
 # Pass Culture
 
 L'équipe Pass Culture cherche un·e développeur·se web fullstack pour un CDD ou un·e prestataire indépendant·e.
-Le Ministère de la Culture lance sa 1ère startup d’État, et pas la moindre : la politique d'accès à la culture pour les 18-25 ans.
+Le Ministère de la Culture lance sa 1ère startup d’État, et pas la moindre : la politique d'accès à la culture pour les jeunes!
 Venez rejoindre une équipe motivée à proposer un service simple, pratique, confortable pour les usagers et un intérêt pour la société dans son ensemble.
 Vous serez en charge de construire (from scratch) le produit / service pour les usagers.
 
