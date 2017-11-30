@@ -2,7 +2,7 @@
 roles: un·e développeu·r·se
 startup: data.gouv.fr
 techno: JavaScript
-open: true
+open: false
 ---
 
 [Data.gouv.fr](http://data.gouv.fr) grandit et recherche un·e développeur·se en CDD (3 ans).
