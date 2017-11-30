@@ -4,6 +4,10 @@ startup: LeBonTuteur
 open: true
 ---
 
+LeBonTuteur est une des premières Start-up d'Etat du ministère des Affaires sociales et cherche un dèv·e pour améliorer la mise en oeuvre des mesures de tutelle / curatelle. 
+
+<!--more-->
+
 LeBonTuteur recrute un·e dev web full-stack
 
 Vous êtes développeur full stack, et voulez mettre vos compétences au profit de l’amélioration du service public ?
