@@ -1,0 +1,15 @@
+---
+fullname: Alexandre Cantin 
+role: Développeur
+start: 2017-09-18
+employer: admin/pole-emploi
+avatar: /img/authors/alexandre.cantin.jpg
+startups:
+    - la-bonne-boite
+---
+
+Agent de Pôle Emploi et développeur pour La Bonne Boite.
+Basé dans les locaux de Pôle Emploi à Nantes.
+Aime faire des découvertes autour du Web.
+
+« Ils ne savaient pas que c’était impossible, alors ils l’ont fait. » Mark Twain
