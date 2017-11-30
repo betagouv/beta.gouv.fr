@@ -1,6 +1,6 @@
 ---
 roles: un·e dev web full stack
-startup: WorkinFrance
+startup: workinfrance
 open: true
 ---
 
