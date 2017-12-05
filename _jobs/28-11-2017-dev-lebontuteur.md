@@ -4,7 +4,7 @@ startup: LeBonTuteur
 open: true
 ---
 
-LeBonTuteur cherche un dèv·e pour améliorer la mise en oeuvre des mesures de tutelle / curatelle. 
+LeBonTuteur cherche un·e dev pour améliorer la mise en oeuvre des mesures de tutelle / curatelle. 
 
 <!--more-->
 
