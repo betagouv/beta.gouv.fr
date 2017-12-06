@@ -4,7 +4,7 @@ startup: LeBonTuteur
 open: true
 ---
 
-LeBonTuteur cherche un·e dev pour améliorer la mise en oeuvre des mesures de tutelle / curatelle. 
+LeBonTuteur cherche un·e dev pour améliorer la mise en oeuvre des mesures de tutelle / curatelle.
 
 <!--more-->
 
@@ -14,7 +14,7 @@ LeBonTuteur veut améliorer l'efficacité des mesures de protection, tutelle ou 
 
 Aujourd’hui, la France compte entre 800 000 et 1 million de personnes sous mesure de protection (tutelle, curatelle, sauvegarde de justice). Chaque année plusieurs milliers de personnes majeures sont nouvellement concernés.
 
-L’objectif du Bon Tuteur est de choisir au mieux le professionnel qui sera en charge de l’accompagnement (tutelle, curatelle, sauvegarde de justice) notamment sur la base d’un référentiel géolocalisé des tuteurs. 
+L’objectif du Bon Tuteur est de choisir au mieux le professionnel qui sera en charge de l’accompagnement (tutelle, curatelle, sauvegarde de justice) notamment sur la base d’un référentiel géolocalisé des tuteurs.
 
 ## Responsabilités
 
@@ -50,5 +50,3 @@ Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre
 
 
 À bientôt ! 😀
-
-
