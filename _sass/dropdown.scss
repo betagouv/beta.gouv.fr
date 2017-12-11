@@ -1,15 +1,17 @@
 .dropdown {
     position: relative;
-    display: inline-block;
 }
 
 .dropdown-content {
     display: none;
     position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
     background-color: #fff;
     min-width: 110px;
     text-align: center;
-    margin: 0 -50px;
+    padding: 0;
     z-index: 1;
 }
 
@@ -23,12 +25,6 @@
   background-color: $light-grey;
 }
 
-.dropdown:hover .dropdown-content {
+.dropdown.open .dropdown-content {
   display: block;
-}
-
-@media all and (max-width : 768px) {
-    .dropdown {
-        display: none;
-    }
 }

@@ -34,18 +34,16 @@
 
                     {% assign landing_fr = site.pages | where: 'ref', 'landing' | where: 'lang', 'fr' | first %}
                     {% assign landing_en = site.pages | where: 'ref', 'landing' | where: 'lang', 'en' | first %}
-                    <li>
-                        <div class="dropdown">
-                            {% if page.lang == 'en' %}
-                                Language
-                            {% else %}
-                                Langue
-                            {% endif %}
-                            <div class="dropdown-content">
-                                <a href="{{ landing_fr.url }}">Français 🇫🇷</a>
-                                <a href="{{ landing_en.url }}">English 🇬🇧</a>
-                            </div>
-                        </div>
+                    <li class="dropdown">
+                        {% if page.lang == 'en' %}
+                            <a href="#">Language</a>
+                        {% else %}
+                            <a href="#">Langue</a>
+                        {% endif %}
+                        <ul class="dropdown-content">
+                            <a href="{{ landing_fr.url }}">Français 🇫🇷</a>
+                            <a href="{{ landing_en.url }}">English 🇬🇧</a>
+                        </ul>
                     </li>
                 </ul>
             </div>
@@ -70,5 +68,7 @@
         {% for file in page.additional_js %}
             <script type="text/javascript" src="{% if file contains '://' %}{{ file }}{% else %}/js/{{ file }}.js{% endif %}"></script>
         {% endfor %}
+
+        <script type="text/javascript" src="/js/dropdown-menu.js"></script>
     </body>
 </html>
