@@ -34,11 +34,11 @@
 
                     {% assign landing_fr = site.pages | where: 'ref', 'landing' | where: 'lang', 'fr' | first %}
                     {% assign landing_en = site.pages | where: 'ref', 'landing' | where: 'lang', 'en' | first %}
-                    <li class="dropdown">
+                    <li class="dropdown" id="lang">
                         {% if page.lang == 'en' %}
-                            <a href="#">Language</a>
+                            <a href="#lang">Language</a>
                         {% else %}
-                            <a href="#">Langue</a>
+                            <a href="#lang">Langue</a>
                         {% endif %}
                         <ul class="dropdown-content">
                             <a href="{{ landing_fr.url }}">Français 🇫🇷</a>
