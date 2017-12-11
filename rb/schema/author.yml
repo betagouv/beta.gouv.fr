@@ -23,4 +23,4 @@ mapping:
   "startups":
     type:      seq
     sequence:
-        - type:      str
+        - type:      any
