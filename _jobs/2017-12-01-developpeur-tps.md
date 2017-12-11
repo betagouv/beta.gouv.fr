@@ -2,7 +2,7 @@
 roles: un·e développeur·se
 startup: tps
 techno: Ruby on Rails
-open: true
+open: false
 ---
 
 L'équipe Téléprocédures simplifiées cherche un·e développeur·se Ruby on Rails freelance pour l'aider à développer de nouvelles features et améliorer la qualité de sa codebase
