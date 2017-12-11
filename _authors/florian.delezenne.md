@@ -7,12 +7,16 @@ start: 2014-06-01
 end: 2017-12-12
 employer: service/octo
 startups:
-    - mdph
+    - mdph:
+        inactive
     - bourse
-    - mes-aides
-    - api-particulier
+    - mes-aides:
+        inactive
+    - api-particulier:
+        inactive
     - api.gouv.fr
-    - inspire
+    - inspire:
+        inactive
 ---
 
 [Cliquez ici pour améliorer cette bio]

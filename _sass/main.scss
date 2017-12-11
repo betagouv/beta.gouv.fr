@@ -250,12 +250,22 @@ iframe {
     color: green;
 }
 
+.author.inactive {
+    opacity: 0.5;
+}
+
 .author a {
     text-decoration: none;
 }
 
 .author .tiny.label {
     margin-bottom: 4px;
+}
+
+.tiny.label.inactive {
+    color: rgba(0, 0, 0, .4);
+    background: white;
+    border: 1px solid #e8e8e8;
 }
 
 .author .tiny.label a {
