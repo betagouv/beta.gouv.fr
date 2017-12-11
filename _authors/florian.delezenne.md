@@ -7,8 +7,7 @@ start: 2014-06-01
 end: 2017-12-12
 employer: service/octo
 startups:
-    - mdph:
-        inactive
+    - mdph
     - bourse
     - mes-aides:
         inactive

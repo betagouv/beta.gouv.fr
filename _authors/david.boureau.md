@@ -7,7 +7,8 @@ start: 2016-09-15
 end: 2017-12-31
 employer:  independent/octo
 startups:
-    - pix
+    - pix:
+        inactive
     - clara
 ---
 

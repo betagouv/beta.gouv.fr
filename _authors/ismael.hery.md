@@ -8,7 +8,8 @@ startups:
     - la-bonne-boite
     - la-bonne-formation
     - memo
-    - plante-et-moi
+    - plante-et-moi:
+        inactive
     - open-academie
 ---
 La Bonne Boite, La Bonne Formation, MEMO, Plante et moi, Open Academie

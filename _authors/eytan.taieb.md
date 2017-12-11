@@ -5,7 +5,8 @@ start: 2016-01-18
 end: 2016-07-08
 employer: admin/education-nationale
 startups:
-    - open-academie
+    - open-academie:
+        inactive
 ---
 
 Mettre en place des outils qui facilitent le quotidien.

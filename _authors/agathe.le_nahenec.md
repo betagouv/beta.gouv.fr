@@ -6,6 +6,8 @@ start: 2015-06-01
 end: 2016-01-31
 employer: dinsic
 startups:
-    - mdph
-    - embauche
+    - mdph:
+        inactive
+    - embauche:
+        inactive
 ---

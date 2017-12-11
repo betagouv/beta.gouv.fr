@@ -6,6 +6,7 @@ start: 2017-02-09
 end: 2017-06-30
 employer: independent/evoluchain
 startups:
-    - mdph
+    - mdph:
+        inactive
 ---
 « Soyez le changement que vous voulez voir dans le monde », Gandhi
