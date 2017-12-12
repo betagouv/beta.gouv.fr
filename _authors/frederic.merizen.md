@@ -9,6 +9,7 @@ link: # optionnel : lien vers une page perso externe. Effacer cette ligne si rie
 start: 2017-12-12 # date d'arrivée au format ISO (AAAA-MM-JJ)
 end: 2018-01-12 # date de fin de contrat au format ISO (AAAA-MM-JJ)
 employer: independent
+github: fredZen
 startups:
     - tps
 ---
