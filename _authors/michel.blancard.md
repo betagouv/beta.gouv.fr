@@ -6,8 +6,10 @@ start: 2016-12-30
 end: 2017-10-06
 employer: dinsic
 startups:
-    - mes-aides
-    - la-bonne-boite
+    - mes-aides:
+        inactive
+    - la-bonne-boite:
+        inactive
 ---
 
 Artisan de l'information

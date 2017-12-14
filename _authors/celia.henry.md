@@ -6,5 +6,6 @@ start: 2016-09-01
 end: 2017-08-31
 employer: admin/MEEM
 startups:
-    - plante-et-moi
+    - plante-et-moi:
+        inactive
 ---

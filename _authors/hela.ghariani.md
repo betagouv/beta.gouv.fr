@@ -7,9 +7,12 @@ employer: dinsic
 startups:
     - mdph
     - bourse
-    - 'etudiant-entrepreneur'
-    - boussole
-    - reserve-civique
+    - 'etudiant-entrepreneur':
+        inactive
+    - boussole:
+        inactive
+    - reserve-civique:
+        inactive
 ---
 
 Résiliente et engagée.

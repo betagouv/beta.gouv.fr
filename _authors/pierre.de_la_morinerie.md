@@ -7,7 +7,8 @@ start: 2017-01-24
 end: 2017-07-31
 employer: independent/octo
 startups:
-    - mpal
+    - mpal:
+        inactive
 ---
 
 Chasseur de bogues, amoureux des trains.

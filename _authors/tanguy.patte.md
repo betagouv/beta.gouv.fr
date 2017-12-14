@@ -6,6 +6,8 @@ start: 2014-06-01
 end: 2016-01-31
 employer: service/octo
 startups:
-    - mps
-    - api-entreprise
+    - mps:
+        inactive
+    - api-entreprise:
+        inactive
 ---
