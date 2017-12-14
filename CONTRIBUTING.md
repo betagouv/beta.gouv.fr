@@ -105,10 +105,6 @@ Les fichiers pertinents pour une modification de la présentation sont probablem
 
 Afin de minimiser les écarts entre les versions de développement et les versions de production, ce dépôt contient un fichier `Gemfile` (spécification des versions minimum des dépendances), comme beaucoup de dépôts Ruby. Ce fichier `Gemfile` a par ailleurs un fonctionnement un peu particulier : lorsque c'est possible, il obtient sur le site de Github le numéro de version de Github Pages le plus récent, et tente de mettre à jour les dépendances.
 
-**Avertissement de sécurité:** tel que signalé [ici](https://github.com/sgmap/beta.gouv.fr/pull/1071), Github Pages utilise actuellement (9 décembre 2017) la version 2.4.0 de Ruby, qui contient certaines vulnérabilités n'affectant pas le site web https://beta.gouv.fr mais qui peuvent concerner les développeurs·ses qui tirent le dépôt et reproduisent les versions de Ruby et des gems à l'identique de Github Pages. Pour des raisons qui ne **sont pas liées au code applicatif de beta.gouv.fr** mais au code de RubyGems, leur utilisation de la version 2.4.0 peut les exposer à des vulnérabilités connues.
-
-Nous estimons que la probabilité d'être ciblé·e par une telle attaque est extrêmement faible car elle suppose la prise de contrôle par l'attaquant d'une infrastructure encore plus difficile à cibler que le poste de développement. Nous recommandons cependant aux développeurs d'être prudents et de consulter [les références](https://www.ruby-lang.org/en/news/2017/09/14/ruby-2-4-2-released/) des correctifs de sécurité apportés dans Ruby 2.4.2 afin de comprendre les risques encourus.
-
 ## Modifier le logo
 
 La source du logo est dans le répertoire `_sources`. Il s'agit d'un SVG contenant du texte. Pour le rendre accessible à tous les utilisateurs, il importe de le transformer en un SVG contenant des `path`.
