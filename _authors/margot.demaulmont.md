@@ -6,5 +6,6 @@ start: 2017-07-10
 end: 2017-08-18
 employer: dinsic
 startups:
-    - open-academie
+    - open-academie:
+        inactive
 ---

@@ -7,7 +7,8 @@ end: 2017-12-19
 employer: independent/octo
 startups:
     - transport
-    - boussole
+    - boussole:
+        inactive
 ---
 
 Engagé dans la construction d’un État au XXI<sup>e</sup> siècle.

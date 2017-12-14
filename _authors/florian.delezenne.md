@@ -9,10 +9,13 @@ employer: service/octo
 startups:
     - mdph
     - bourse
-    - mes-aides
-    - api-particulier
+    - mes-aides:
+        inactive
+    - api-particulier:
+        inactive
     - api.gouv.fr
-    - inspire
+    - inspire:
+        inactive
 ---
 
 [Cliquez ici pour améliorer cette bio]

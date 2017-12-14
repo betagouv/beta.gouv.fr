@@ -18,7 +18,8 @@ startups:
     - 'api-particulier'
     - ban
     - 'data.gouv.fr'
-    - 'fiches-de-banc'
+    - 'fiches-de-banc':
+        inactive
 ---
 
 Débureaucratisation et Rock & Roll

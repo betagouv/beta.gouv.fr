@@ -5,7 +5,8 @@ start: 2017-04-10
 end: 2017-04-21
 employer: independent
 startups:
-    - boussole
+    - boussole:
+        inactive
 ---
 
 Citoyenne qui souhaite donner du sens à la technologie, dans la bonne humeur.

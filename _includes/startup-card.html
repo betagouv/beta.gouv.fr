@@ -45,11 +45,22 @@
     </div>
     <div class="extra content">
         {% assign shortid = description.id | remove: '/startup/' %}
-        {% assign members = site.authors | where_exp:"item","item.startups contains shortid" %}
-        {% if members %}
-            {% for author in members %}
-            <div class="ui tiny label">{{author.fullname}}</div>
+
+        {% for author in site.authors %}
+            {% for startup in author.startups %}
+
+                {% if startup.first %}
+                    {% assign currentId = startup.first[0] %}
+                    {% assign isInactive = true %}
+                {% else %}
+                    {% assign currentId = startup %}
+                    {% assign isInactive = false %}
+                {% endif %}
+
+                {% if currentId == shortid %}
+                    <div class="ui tiny label {% if isInactive %}inactive{% endif %}">{{author.fullname}}</div>
+                {% endif %}
             {% endfor %}
-        {% endif %}
+        {% endfor %}
     </div>
 </a>

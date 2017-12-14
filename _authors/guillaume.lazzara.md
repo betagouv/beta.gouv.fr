@@ -6,8 +6,10 @@ start: 2016-02-01
 end: 2016-09-16
 employer: service/octo
 startups:
-    - api-entreprise
-    - mps
+    - api-entreprise:
+        inactive
+    - mps:
+        inactive
 ---
 
 Quand tu veux abandonner, souviens-toi pourquoi tu as commencé.
