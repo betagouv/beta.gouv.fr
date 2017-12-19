@@ -38,13 +38,13 @@ ref: jobs
             {% if forloop.index <= 5 %}
                 {% include job-preview.html job=job %}
             {% else %}
-                <div class="view-more">
-                    {% include job-preview.html job=job %}
-                </div>
+                {% include job-preview.html job=job class="view-more" %}
             {% endif %}
 
             {% if forloop.index == 5 %}
-                <button class="ui button" id="toogle-view-button">Voir toutes les offres pourvues</button>
+                <li>
+                    <button class="ui button" id="toogle-view-button">Voir toutes les offres pourvues</button>
+                </li>
             {% endif %}
         {% endfor %}
     </ul>

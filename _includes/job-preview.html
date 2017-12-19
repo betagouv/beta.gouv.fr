@@ -15,11 +15,11 @@
 {% endif %}
 
 {% if friend %}
-<li class="blog-segment blog-segment-friend">
+<li class="blog-segment blog-segment-friend {{ include.class }}">
     <div class="ad">Nos ami·e·s recrutent</div>
     <div class="content">
 {% else %}
-<li class="blog-segment">
+<li class="blog-segment {{ include.class }}">
 {% endif %}
 
     <a class="blog-segment-link" title="{{ include.job.title }}" href="{{ include.job.url }}"></a>
