@@ -6,3 +6,7 @@
 .job-offers-list:not(:first-child) {
   margin-top: 60px;
 }
+
+.view-more {
+    display: none;
+}

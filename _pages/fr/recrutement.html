@@ -2,8 +2,9 @@
 title: Recrutement
 menu_index: 4
 additional_css:
-- blog
-- recrutement
+    - blog
+    - recrutement
+additional_js: recrutement
 permalink: /recrutement/
 lang: fr
 ref: jobs
@@ -34,7 +35,17 @@ ref: jobs
         </li>
 
         {% for job in closed_jobs %}
-            {% include job-preview.html job=job %}
+            {% if forloop.index <= 5 %}
+                {% include job-preview.html job=job %}
+            {% else %}
+                <div class="view-more">
+                    {% include job-preview.html job=job %}
+                </div>
+            {% endif %}
+
+            {% if forloop.index == 5 %}
+                <button class="ui button" id="toogle-view-button">Voir toutes les offres pourvues</button>
+            {% endif %}
         {% endfor %}
     </ul>
 </section>
