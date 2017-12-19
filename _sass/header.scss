@@ -55,6 +55,7 @@
 .nav a {
     cursor: pointer;
     text-decoration: none;
+    display: inline-block;
 }
 
 @media (max-width: 550px) {
