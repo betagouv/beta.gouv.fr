@@ -2,6 +2,8 @@
 roles: un·e dev web full stack
 startup: Code du travail numérique
 open: true
+startup: codedutravail
+techno: Choix technologiques ouverts parmi les solutions libres du marché
 ---
 
 Et si on rendait le droit du travail executable ?!
