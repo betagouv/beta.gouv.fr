@@ -1,9 +1,9 @@
 ---
 friend: 'FUN Mooc'
-roles: Développeur Python Django
+roles: un développeur Python Django
 techno: Python / Open edX
 type: 'friend'
-externalURL:
+externalURL: https://www.fun-mooc.fr/
 open: true
 ---
 
