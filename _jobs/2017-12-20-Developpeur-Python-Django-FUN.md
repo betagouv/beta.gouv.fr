@@ -33,8 +33,8 @@ Intégré.e à l’équipe technique, vous participerez au développement d’Op
 * Déplacements à prévoir à l’étranger.
 
 ## Mots clés
-Linux, Python, Django, Html, Css, Git, Docker, Rancher, Ansible, OpenStack, SQL, Mangodb, Elasticsearch, Hadoop, OpenEdx, Javascript, React.
+Linux, Python, Django, Html, Css, Git, Docker, Rancher, Ansible, OpenStack, SQL, Mongodb, Elasticsearch, Hadoop, OpenEdx, Javascript, React.
 
 ## Postuler
-Merci d'envoyer votre candidature (CV et lettre de motivation) par mail à  samuel.paccoud@fun-mooc.fr avec pour objet « FUN-MOOC - Recrutement • Développeur Python Django».
+Merci d'envoyer votre candidature (CV et lettre de motivation) par mail à samuel.paccoud@fun-mooc.fr avec pour objet « FUN-MOOC - Recrutement • Développeur Python Django».
 
