@@ -37,6 +37,6 @@ Vous êtes familier avec le concept de "Code is law" et particulièrement intér
 - Poste ouvert pour un·e indépendant·e pour un contrat de 6 mois.
 - Télétravail partiel bienvenu, avec une présence régulière à Paris pour participer aux rituels d'équipes et autres tests utilisateurs.
 
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à *recrutement@beta.gouv.fr*.
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr).
 
 À bientôt ! 😀
