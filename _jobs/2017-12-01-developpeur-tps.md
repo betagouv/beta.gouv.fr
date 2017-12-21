@@ -5,7 +5,7 @@ techno: Ruby on Rails
 open: false
 ---
 
-L'équipe Téléprocédures simplifiées cherche un·e développeur·se Ruby on Rails freelance pour l'aider à développer de nouvelles features et améliorer la qualité de sa codebase
+L'équipe Téléprocédures simplifiées cherche un·e développeur·se Ruby on Rails freelance pour l'aider à développer de nouvelles features et améliorer la qualité de sa codebase.
 
 <!--more-->
 
@@ -20,7 +20,7 @@ L'application est structurée en 3 parties :
 
 Nous exposons aussi une API pour permettre aux administrations de faire des traitements automatisés.
 
-Nous sommes une équipe de 6 personnes dont 3 devs. Nous faisons des itérations courtes. Nous rencontrons souvent des administrations qui utilisent notre produit et nous participons au support client afin de mieux se confronter aux problèmes rencontrés par nos utilisateurs.
+Nous sommes une équipe de 6 personnes dont 3 devs. Nous faisons des itérations courtes. Nous rencontrons souvent les administrations qui utilisent notre produit, et nous participons au support client afin de mieux nous confronter aux problèmes rencontrés par nos utilisateurs.
 
 # Où en sommes-nous ?
 
