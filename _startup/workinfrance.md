@@ -9,7 +9,7 @@ start: 2017-10-26
 owner: Ministère des Affaires Sociales
 ---
  
-Tout étudiant étranger qui voudrait travaillait en France, au delà du mi-temps, doit déposer une demande d'autorisation de travail en DIRECCTE<sup>1</sup>. C'est généralement une démarche critique pour le projet de l'étudiant ; pourra-t-il rester en France, payer ses études, valider l'expérience professionnelle nécessaire à son diplôme ?   
+Tout étudiant étranger qui voudrait travailler en France, au delà du mi-temps, doit déposer une demande d'autorisation de travail en DIRECCTE<sup>1</sup>. C'est généralement une démarche critique pour le projet de l'étudiant ; pourra-t-il rester en France, payer ses études, valider l'expérience professionnelle nécessaire à son diplôme ?   
 
 **La demande d’autorisation de travail, ce parcours du combattant**
 
