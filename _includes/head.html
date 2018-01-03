@@ -24,6 +24,8 @@
         {% endfor %}
     {% endif %}
 
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700" rel="stylesheet">
+
     <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/reset.min.css">
     <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/menu.min.css">
     <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/container.min.css">
@@ -45,8 +47,9 @@
     <link rel="stylesheet" type="text/css" href="/css/tooltip.css">
 
     {% if page.layout != 'default' %}
-    <link rel="stylesheet" type="text/css" href="/css/{{ page.layout }}.css">
+        <link rel="stylesheet" type="text/css" href="/css/{{ page.layout }}.css">
     {% endif %}
+
     {% for file in page.additional_css %}
         <link rel="stylesheet" type="text/css" href="/css/{{ file }}.css">
     {% endfor %}
