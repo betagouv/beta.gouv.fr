@@ -13,16 +13,16 @@ Tout étudiant étranger qui voudrait travailler en France, au delà du mi-temps
 
 **La demande d’autorisation de travail, ce parcours du combattant**
 
-La demande d’autorisation de travail et la réception de l’autorisation se fait aujourd’hui par courrier. Sans informer l’étudiant et son employeur de l’état du traitement de sa demande.
+La demande d’autorisation de travail et la réception de l’autorisation se fait aujourd’hui par courrier. Sans que l’étudiant et son employeur ne soient tenus informés de l'avancement de la demande.
 
-Légitimement, les usagers à la recherche de réponses concrètes contactent la DIRECCTE, voire se déplace, pour être tenus informés du statut de leur demande : 
+Légitimement, les usagers à la recherche de réponses concrètes contactent la DIRECCTE, voire se déplacent, pour être tenus informés du statut de leur demande : 
 
 > Avez-vous reçu ma demande ?
 > Quand vais-je recevoir mon autorisation de travail ?
 
 La lenteur de la procédure et son manque de transparence retardent ainsi la prise de poste du salarié et pénalisent l’entreprise qui n’est pas en mesure d’avoir une visibilité sur la validation du recrutement de son personnel. 
 
-La plupart des personnes qui se déplacent aujourd’hui en permanence d'accueil sont des étudiants, en traitant leurs demandes, nous espérons désengorger l'accueil et ainsi libérer du temps de travail pour les agents. Que ce soit par téléphone, par mail ou dans des services d'accueil, un temps considérable des agents est dédié pour répondre aux questions des usagers, au détriment du traitement normal des demandes d’autorisation de travail.
+La plupart des personnes qui se déplacent aujourd’hui à l'accueil des DIRECCTE sont des étudiants. Que ce soit par téléphone, par mail ou dans les accueils, les agents passent un temps considérable à répondre aux questions des usagers, au détriment du traitement normal des demandes d’autorisation de travail. Avec WorkInFrance, en traitant simplement la plupart des demandes, nous libérerons du temps de travail pour les agents. 
 
 De plus, l’administration est en charge de l’ensemble des instructions des demandes d’autorisation, en réceptionnant des demandes en format papier (CERFA et pièces justificatives obligatoires) obligeant celles-ci à stocker des volumes conséquents de documents, et posant de surcroît des difficultés pour accéder à un dossier « en cours ».
 
