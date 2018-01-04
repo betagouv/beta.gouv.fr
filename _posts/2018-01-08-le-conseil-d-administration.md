@@ -32,6 +32,7 @@ Réunir un Conseil aurait pu nous aider. En effet, aucun acteur en place ne va a
 
 C'est ainsi que ces _Communs_ équipent aujourd'hui le site [mesdroitssociaux](https://www.mesdroitssociaux.gouv.fr/) et pour la formation équiperont bientôt le site du CPA et de Pôle Emploi. 
 
+## Call to action
 Si vous êtes une Startup d'État, vous avez probablement autour de vous un OpenLab, un lieu où vos partenaires opérationnels décident régulièrement de l'orientation concrète du produit. Cet OpenLab est la garantie de subsidiarité de l'équipe pour résoudre avant tout les problèmes des usagers plus que ceux de la hiérarchie.
 
 Mais à un moment donné, les problèmes de la hiérarchie deviennent les problèmes des usagers quand une startup ne se déploie pas à hauteur de sa "part de marché" naturelle !
