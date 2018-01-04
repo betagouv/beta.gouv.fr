@@ -5,9 +5,7 @@ authors: pierre.pezziardi
 
 A beta.gouv.fr, nous encourageons la constitution d'écosystèmes d'innovateurs au plus près de chaque administration. 
 
-L'incubateur de Pôle Emploi a été fondé en 2014 dans cette perspective et compte désormais 6 startups pour un budget annuel de 3M€, mais surtout un impact majeur sur l'institution (voir  [l'audition de Jean Bassères au Sénat en décembre 2017](https://www.senat.fr/les_actus_en_detail/article/audition-de-m-jean-basseres.html) notamment à 32", 1'06, 1'23, 1'32, 1'50 et 1'56).
-
-Ces chiffres vont doubler en 2018. Mais ces résultats ne sont pas le fruit du hasard, il y a une raison pour laquelle les Startups d'État de Pôle Emploi font partie des plus performantes : elles ont une sorte de Conseil d'Administration...
+L'incubateur de Pôle Emploi a été fondé en 2014 dans cette perspective et compte désormais 6 startups pour un budget annuel de 3M€, mais surtout un [impact majeur sur l'institution](https://www.senat.fr/les_actus_en_detail/article/audition-de-m-jean-basseres.html) (écouter notamment à 32", 1'06, 1'23, 1'32, 1'50 et 1'56). Ces chiffres vont doubler en 2018. Mais ces résultats ne sont pas le fruit du hasard, il y a une raison pour laquelle les Startups d'État de Pôle Emploi font partie des plus performantes : elles ont une sorte de Conseil d'Administration...
 <!--more-->
 
 Un Conseil d'Administration, c'est l'autorité vers laquelle on rend des comptes, mais aussi celle qui désire ardemment le succès de la Startup et qui va y contribuer.
