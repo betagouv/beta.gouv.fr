@@ -1,5 +1,5 @@
 ---
-title: Le Conseil d'Administration, WTF?
+title: Le Board, une planche de salut ?
 authors: pierre.pezziardi
 ---
 
