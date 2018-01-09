@@ -20,12 +20,13 @@ Plusieurs acteurs liés aux ministères de la Transition écologique et solidair
 
 
 Le problème ?
-Trouver des projets dans lesquels s’impliquer est souvent bien plus long que la contribution elle-même. 
-Il n’existe pas de service qui présente la richesse et la diversité des projets disponibles. L’information est éclatée (sur Internet, presse, conférence), parcellaire, détenue par des acteurs spécialisés. Finalement une personne qui voudrait contribuer à faire avancer la connaissance ou protéger l’environnement, n’a pas vraiment le choix quant au choix des projets sur lesquels contribuer. Et si elle a contribué, elle doit recommencer tout le processus pour trouver un autre projet, ce qui est souvent décourageant.
+Pour réussir un projet collaboratif, il faut parvenir à une masse critique de contributeurs en termes de nombre de contributions et de couverture géographique. Le premier cercle est constitué de passionnés ou de l’écosystème immédiat du projet. Mais réussir à recruter et à fidéliser des contributeurs plus éloignés est souvent coûteux en temps et en énergie et nécessite des compétences spécifiques qui ne sont pas le coeur de métier des porteurs de projets. 
+En mettant en visibilité la diversité des sujets et des types de contributions demandés, l’objectif est donc de développer et fidéliser une communauté de contributeurs à des projets existants. Et de constituer ainsi une réserve de participants intéressés qui pourraient plus facilement et efficacement être mobilisés pour de nouveaux projets. 
+De plus, côté contributeur trouver des projets dans lesquels s’impliquer est souvent bien plus long que la contribution elle-même. L’information est éclatée (sur Internet, presse, conférence), parcellaire, détenue par des acteurs spécialisés. Et après une contribution, il doit recommencer tout le processus pour trouver un autre projet, ce qui est souvent décourageant et limite le nombre de contributions.
 
-Co-construisons est le service en ligne qui réunit les porteurs de projets collaboratifs et les contributeurs volontaires. 
+Co-construisons est une communauté digitale qui réunit les porteurs de projets collaboratifs et les contributeurs volontaires. 
  
-Aux contributeurs volontaires du grand public, il : 
+Aux contributeurs volontaires, il : 
 
 - Présentera un choix de projets auxquels contribuer en fonction de leurs centres d’intérêts et du type de contribution souhaité (photo, questionnaire, observation), 
 - leur permettra, dans un deuxième temps, de proposer des projets dans une démarche d’innovation ouverte.
