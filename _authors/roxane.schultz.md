@@ -10,6 +10,6 @@ employer: service/NUMA
 startups:
     - Co-construisons
     - Aides Territoires
-    github: roxanesch
+github: roxanesch
 ---
 Fan d'utilité sociale et d'avocats
