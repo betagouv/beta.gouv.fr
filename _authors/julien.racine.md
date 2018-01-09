@@ -2,7 +2,8 @@
 fullname: Julien Racine
 role: DEV Fullstack
 start: 2016-10-01
-employer: admin/pole-emploi/dsi
+employer: admin/pole-emploi
+avatar: /img/authors/julien.racine.jpg
 startups:
     - MEMO
 ---
