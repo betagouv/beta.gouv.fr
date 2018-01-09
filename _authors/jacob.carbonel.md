@@ -5,6 +5,8 @@ avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAMAAQDGAAwAAQAAAAAAAA4
 start: 2018-01-01
 end: 2018-06-30
 employer: admin/MTES
+github: jcarb
+startups: AERIS
 ---
 
 “Le langage informatique permet de lever des ambiguïtés parfois permises par les rédactions littéraires”
