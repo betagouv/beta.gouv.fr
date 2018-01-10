@@ -1,6 +1,6 @@
 ---
 title: Camino  # une majuscule et pas d'acronymes
-mission: Demander, suivre et connaitre les titres et projets miniers. En investissant dans ce produit l'État cherche à concrétiser la transition numérique de l’administration des mines. # infinitif, pas de point ; compléter la phrase « En investissant dans ce produit l'État cherche à… »
+mission: Simplifier, fluidifier et consulter les projets miniers. En investissant dans ce produit l'État cherche à concrétiser la transition numérique de l’administration des mines. # infinitif, pas de point ; compléter la phrase « En investissant dans ce produit l'État cherche à… »
 link: 
 repository:   # ou page de description des dépôts s'il y en a plusieurs
 status: investigation  # les phases possibles sont définies dans [`_config.yml`](https://github.com/sgmap/beta.gouv.fr/blob/master/_config.yml#L29-L52)
