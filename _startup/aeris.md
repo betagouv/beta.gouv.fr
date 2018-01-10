@@ -16,7 +16,8 @@ owner : Ministère de la transition écologique et solidaire
 En France, 45 000 installations industrielles sont régulièrement contrôlées par 1 500 inspecteurs de l'environnement.
 Parmi elles, plus de 2 500 installations présentent des enjeux particuliers vis-à-vis de la qualité de l'air et doivent réaliser des mesures fréquentes des polluants rejetés.  
 Ces industries sont soumises à des règles complexes (européennes, nationales ou locales) fixant des niveaux limites de polluants rejetés et la fréquence des analyses à réaliser. 
-Le problème, c’est que ces règles ne sont pas toujours bien interprétées, et que les données des analyses ne sont pas suffisamment utilisées.  
+Le problème, c’est que ces règles ne sont pas toujours bien interprétées, et que les données des analyses ne sont pas suffisamment utilisées, ce qui peut conduire à ne pas réagir face à des dépassements des niveaux limites.  
+
 Le suivi des rejets de polluants de l’installation, nommé “autosurveillance”, relève de la responsabilité de l'exploitant de l’installation.
 Le respect des niveaux limites de polluants rejetés est l'un des critères principaux pour le pilotage d'une installation industrielle.
 Les exploitants transmettent actuellement les résultats d’autosurveillance à l’inspection par courrier postal ou électronique, sans cadre défini, entraînant une grande diversité de pratiques d’une installation à une autre. 
