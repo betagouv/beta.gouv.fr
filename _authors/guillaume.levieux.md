@@ -6,7 +6,7 @@ avatar: https://github.com/betagouv/beta.gouv.fr/blob/master/img/authors/guillau
 github: guillaumelevieux 
 start: 2017-12-15
 end: 2018-06-30
-admin/Ministère de la transition écologique et solidaire
+employer: admin/Ministère de la transition écologique et solidaire
 ---
 
 Pour chaque mission, l'expérience du terrain est salutaire et décisive pour mieux observer, comprendre, proposer et faire le pas de côté qui fera progresser le commun dans l’intérêt général. Sinon, toujours fan de volcans et de ceux qui vivent dessus.
