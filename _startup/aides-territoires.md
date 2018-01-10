@@ -6,6 +6,8 @@ repository:
 status: investigation  
 contact: elise.marion@beta.gouv.fr  
 start: 2018-01-01  
+end: 2018-07-30
+owner: elise.marion
 ---
 
 _Aides territoires_ les meilleures aides pour votre projet de territoire
