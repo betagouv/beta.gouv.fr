@@ -7,7 +7,7 @@ status: investigation
 contact: elise.marion@beta.gouv.fr  
 start: 2018-01-01  
 end: 2018-07-30
-owner: Ministère de la Cohésion des territoires/Ministère de la Transition écologique et solidaire 
+owner: Ministère de la Cohésion des Territoires / Ministère de la Transition Ecologique et Solidaire 
 ---
 
 _Aides territoires_ les meilleures aides pour les projets de votre territoire
