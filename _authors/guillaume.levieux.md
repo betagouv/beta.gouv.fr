@@ -8,4 +8,4 @@ end: 2018-06-30
 employer: admin/Ministère de la transition écologique et solidaire
 ---
 
-Pour chaque mission, l'expérience du terrain est salutaire et décisive pour mieux observer, comprendre, proposer et faire le pas de côté qui fera progresser le commun dans l’intérêt général. Sinon, toujours fan de volcans et de ceux qui vivent dessus.
+Investigateur, réaliste. A chaque mission, l'expérience du terrain est salutaire et décisive. Toujours fan des volcans et de ceux qui vivent dessus.
