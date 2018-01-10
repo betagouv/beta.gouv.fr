@@ -20,7 +20,7 @@ Pour les 35 416 communes et 1 266 regroupements de communes françaises, accéde
 Des dispositifs de recherche existent, mais ils sont le plus souvent construits de manière individuelle, avec des outils peu collaboratifs et à la visibilité limitée (tableur, liste de diffusion, etc).
 Ensuite, il faut être en mesure de sélectionner les aides les plus adaptées à son projet et de compléter les dossiers de candidature ad hoc. 
 Des chefs de projets peuvent ainsi passer plus de deux tiers de leur temps à rechercher ces fameuses aides… alors qu’ils pourraient consacrer ce temps au projet en lui même !
-Ce travail, excessivement chronophage, est susceptible d’accentuer les inégalités entre les collectivités : dans le meilleur des cas, elles vont dédier des fiches de poste à ce duo «veille-candidature», dans le pire des cas, elles renonceront à certaines aides par méconnaissance ou manque de temps.
+Ce travail, excessivement chronophage, est susceptible d’accentuer les inégalités entre les collectivités : dans le meilleur des cas, elles vont dédier des fiches de poste à ce duo « veille-candidature », dans le pire des cas, elles renonceront à certaines aides par méconnaissance ou manque de temps.
 Ceci engendre des situations aberrantes, avec des doutes sur l’apport réel de ces dispositifs : frustration du côté des financeurs qui n’atteindront pas leur coeur de cible, et lassitude des collectivités, n’ayant aucune garantie quand elles remplissent un dossier. 
 
 **Le produit : Aides-territoires**
