@@ -1,7 +1,7 @@
 ---
 fullname: Guillaume Levieux
 role: Intrapreneur Camino
-avatar: https://media.licdn.com/media/p/4/000/161/2c8/0ef6647.jpg
+avatar: https://github.com/betagouv/beta.gouv.fr/blob/master/img/authors/guillaume.levieux.jpg
 # link: # optionnel : lien vers une page perso externe. Effacer cette ligne si rien à mettre.
 github: guillaumelevieux 
 start: 2017-12-15
