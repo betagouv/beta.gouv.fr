@@ -1,6 +1,6 @@
 ---
 title: Aides-territoires
-mission: Accéder aux meilleures aides pour vos projets de territoires
+mission: Accéder aux meilleures aides pour les projets de votre territoire
 link: 
 repository:  
 status: investigation  
@@ -10,7 +10,7 @@ end: 2018-07-30
 owner: elise.marion
 ---
 
-_Aides territoires_ les meilleures aides pour votre projet de territoire
+_Aides territoires_ les meilleures aides pour les projets de votre territoire
 ===
 
 ---
