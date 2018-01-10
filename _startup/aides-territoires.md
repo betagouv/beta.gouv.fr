@@ -28,6 +28,7 @@ Ceci engendre des situations aberrantes, avec des doutes sur l’apport réel de
 Aides territoires est une base de données à jour permettant aux agents des collectivités et chefs de projets et à ceux qui les accompagnent, d’effectuer une veille active sur les aides disponibles pour leur projet et d’identifier les plus pertinentes au moyen de quelques critères.
 
 Par exemple, une collectivité qui a un projet urbain intégrant la restructuration d’une zone d’activité commerciale ancienne ou obsolète, pourra aisément identifier l’appel à projet dédié du ministère de la cohésion des territoires “repenser la périphérie commerciale”, parmi les autres aides type “fonds national d’aménagement et de développement du territoire” . 
+
 En capitalisant les données avec lesquelles les collectivités alimentent dans les différents dossiers, cet outil permettra de les réutiliser (*Dites-le nous une fois*) pour faciliter le remplissage des dossiers… en proposant *à terme* un service de dépôt de projet en ligne.
 
 ## Les premières étapes
