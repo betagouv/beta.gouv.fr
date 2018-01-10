@@ -52,12 +52,3 @@ Chaque mois, les inspecteurs et les exploitants consacrent plusieurs heures à l
 En cas de dépassement des niveaux limites de polluants, ce qui peut arriver plusieurs fois par an, des inspections supplémentaires sont souvent réalisées.  
 
 Le service serait d'abord déployé auprès d'exploitants et d'inspecteurs au niveau local (Grand Est). Par la suite, le service pourrait être étendu aux incinérateurs de déchets dans toute la France, puis à d’autres secteurs industriels.
-
-
-
-## Rappels
-
-- [ ] Modifier le nom du fichier `nom_startup.md` dans le champ ci-dessus.
-- [ ] Créer une nouvelle branche pour l'ajout de ce fichier, et la nommer du même nom que le fichier `nom_startup`.
-- [ ] Ouvrir une pull request pour valider l'intégration.
-- [ ] Effacer ce texte une fois que vous l'avez lu 😉
