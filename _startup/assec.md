@@ -1,6 +1,6 @@
 ---
 title: Assec
-mission: En investissant dans ce produit, l'Etat cherche à optimiser la réponse collective des agriculteurs et de ses services au problème de pénurie d'eau en période de sécheresse 
+mission: En investissant dans ce produit, l'Etat cherche à optimiser la réponse collective du monde agricole et des services départementaux de l'Etat au problème de pénurie d'eau en période de sécheresse 
 link: 
 repository: 
 status: investigation
@@ -21,12 +21,12 @@ La préoccupation première des irrigants est de limiter l’impact des restrict
 ## L'outil Assec
 
 Assec donnera en temps réel une information légale sur les restrictions applicables et expliquera le sens des efforts demandés. Il sera alimenté par les services du préfet qui édictent les restrictions et les organismes professionnels qui le cas échéant organisent une répartition.
-En l’absence d’organisme assurant la répartition des restrictions, les irrigants pourront faire remonter leurs consommations d'eau (Assec leur facilite cette obligation réglementaire), et indiquer leurs besoins et contraintes individuelles qui déterminent l'impact économique. Ils recevront un premier conseil pour adapter leurs pratiques et cultures à la situation. 
-Forts de ces données, les services de l'Etat et les organismes professionnels pourront adapter les règles et plans de répartition, dans une logique d’optimisation globale de la réponse à la sécheresse.
+En l’absence d’organisme assurant la répartition des restrictions, les irrigants pourront faire remonter leurs consommations d'eau (Assec leur facilite cette obligation réglementaire), et indiquer les besoins et contraintes déterminant l'impact économique qu'il subissent. Ils recevront un premier conseil pour adapter leurs pratiques et cultures à la situation. 
+Forts de ces données, les services de l'Etat et les organismes professionnels pourront adapter les règles et plans de répartition pour minimiser l'impact économique des restrictions, dans une logique d’optimisation globale de la réponse à la sécheresse.
 
 ## Un outil à développer pas à pas
 
-Nous voulons d’abord développer l’outil sur des territoires restreints où la sécheresse sévit fréquemment : l’Asse dans les Alpes de Haute Provence et la rivière Lézarde en Martinique. Ce premier pas offrira un service utile qui correspond aux besoins des communautés d'irrigants, toutes cultures confondues, qui dépendent d'une même ressource en eau. Les perspectives d’extension seront multiples :
+Nous voulons d’abord développer l’outil sur des territoires restreints où la sécheresse sévit fréquemment : l’Asse dans les Alpes de Haute Provence et la rivière Lézarde en Martinique. Ce premier pas offrira un service utile qui correspond aux besoins de communautés d'irrigants qui dépendent d'une même ressource en eau, toutes cultures confondues. Les perspectives d’extension seront multiples :
 - extension géographique. Chaque territoire est géré de manière particulière et appelle donc des adaptations de développement parallèlement à la constitution d’une communauté d’utilisateurs.
 - extension aux industriels et particuliers. Le site Météo-France et des sites institutionnels permettront de capter progressivement le grand public et d’ajuster le service à ses attentes.
 Le passage à l’échelle départementale apportera un service à plusieurs milliers d’irrigants, d’industriels et plusieurs dizaines de milliers de foyers.
