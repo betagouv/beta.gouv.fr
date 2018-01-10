@@ -33,4 +33,4 @@ La communauté des A+ est en train d’être constituée.
 Nous commençons par des expérimentations sur des territoires pilotes, avec un service accessible uniquement à la communauté des agents.
 Après l'expérimentation et la généralisation du service au niveau national, le suivi des démarches sera intégré au compte personnel de l'usager sur service-public.fr.
 
-Vous êtes un agent d'opérateur public, vous êtes intéressé·e pour participer à la création de ce service ? [Contactez-nous !](mailto:contact@aplus.beta.gouv.fr?subject=Contact%20Site%20Beta%20Gouv)
+Vous êtes un agent d'opérateur public, vous êtes intéressé·e pour participer à la création de ce service ? [Contactez-nous](mailto:contact@aplus.beta.gouv.fr?subject=Contact%20Site%20Beta%20Gouv).
