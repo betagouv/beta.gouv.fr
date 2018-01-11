@@ -2,9 +2,8 @@ fullname: Marion Le Galle
 role: Ux Designer
 start: 2016-04-01
 employer: admin/pole-emploi
-avatar: /img/authors/marion-le-galle.jpg
 startups:
-    - CLARA
+    - clara
 ---
 
 Agent à la DSI de Nantes - Equipe Studio - Design & intégration et Accompagnement UX
