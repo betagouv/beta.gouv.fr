@@ -6,7 +6,7 @@ machine:
 
 dependencies:
   post:
-    - pip install --user html5validator
+    - pip install --user html5validator==0.2.7
     - bundle exec jekyll --version # print it out
 
 test:
