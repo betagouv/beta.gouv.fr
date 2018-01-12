@@ -1,9 +1,8 @@
 ---
 title: Assec
 mission: Optimiser la réponse collective du monde agricole et des services de l'Etat au problème de pénurie d'eau en période de sécheresse 
-link: 
-repository: 
 status: investigation
+owner: Ministeres de la Transition écologique et solidaire et de la Cohésion des territoires
 contact: michel.perrel@beta.gouv.fr
 start: 2017-12-31
 # screenshot: ajouter une image en 1280x720px dans /img/startups/$nom_startup.png (ou .jpg) et effacer cette ligne
