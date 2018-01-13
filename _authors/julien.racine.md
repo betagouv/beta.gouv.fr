@@ -5,7 +5,7 @@ start: 2016-10-01
 employer: admin/pole-emploi
 avatar: /img/authors/julien.racine.jpg
 startups:
-    - MEMO
+    - memo
 ---
 
   Agent à la DSI à Aix-En-Provence.
