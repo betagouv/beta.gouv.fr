@@ -16,7 +16,7 @@ Toutes ces questions essentielles ne trouvent pas facilement de réponses.
 
 Dès le projet esquissé, un véritable calvaire commence et se répète ensuite à chaque nouvelle procédure administrative. Déposer une demande de titres, actualiser son dossier papier de plusieurs milliers de pages auprès de multiples services de l’État, suivre l'avancement de sa demande, faire ses déclarations au bon moment et au bon format, sont autant de démarches complexes et consommatrices de temps à toutes les étapes de la vie d'un projet minier.
 
-De son côté, **l'administration traite chaque année plus 2 500 démarches conduites au titre du code minier**, avec des systèmes d’information fermés, des tableaux de suivi pléthoriques, des archives papier et des gigaoctets de dossiers dispersés dans ses services nationaux et locaux.
+De son côté, **l'administration traite chaque année près de 2 000 démarches conduites au titre du code minier**, avec des systèmes d’information fermés, des tableaux de suivi pléthoriques, des archives papier et des gigaoctets de dossiers dispersés dans ses services nationaux et locaux.
 
 ### L’enregistrement, la consultation et la valorisation des données de l’administration des mines est impossible ou trop peu efficace.
 
