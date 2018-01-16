@@ -20,7 +20,7 @@ Le problème, c’est que les règles ne sont pas toujours connues ou bien inter
 La quantité de données est telle qu’il est difficile d’y déceler une dérive des niveaux de polluants rejetés. 
 Cette situation peut conduire les inspecteurs de l’environnement à réagir trop tard face à une surveillance insuffisante ou face à des émissions de polluants trop élevées.
 Des pollutions non détectées peuvent avoir un impact sur la santé des riverains et sur les productions alimentaires environnantes.
-L’impact sera d’autant plus élevé que la situation aura perdurée, d’autant plus que certains polluants comme les dioxines s’accumulent dans la chaîne alimentaire.
+L’impact sera d’autant plus élevé que la situation aura perduré, d’autant plus que certains polluants comme les dioxines s’accumulent dans la chaîne alimentaire.
 En l’absence de réaction à une pollution, exploitants de sites industriels et inspecteurs de l’environnement courent un risque juridique.
 
 
