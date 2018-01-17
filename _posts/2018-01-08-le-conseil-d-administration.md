@@ -34,8 +34,6 @@ Dans ces situations, l'utilité de la Startup est souvent contestée par les act
 
 __Réunir un Conseil aurait pu nous aider. En effet, aucun acteur en place ne va accepter de changer d'habitudes et encore moins d'être déligitimé par un petit nouvel entrant__. Cette attitude des acteurs n'est pas que rationnelle, et l'appui de hiérarques va favoriser les conditions de l'adoption, tout comme la stratégie de plateforme que nous impulsons à la plupart des Startups d'État : en proposant gratuitement en mode API des services et des données que nul ne peut produire tout seul (_toutes_ les pièces justificatives nécessaires au contrôle d'une personne morale, _toutes_ les aides sociales, _toutes_ les formations, _tous_ les financements possibles de formation, pour demandeurs d'emploi comme pour salariés, etc.), les acteurs historiques peuvent eux-aussi bénéficier des apports du nouveau service en l'intégrant dans leur(s) propre(s) guichet(s).
 
-C'est ainsi que ces _Communs_ équipent aujourd'hui le site [mesdroitssociaux](https://www.mesdroitssociaux.gouv.fr/) et pour la formation équiperont bientôt le site du CPA et de Pôle emploi.
-
 ## Call to action
 Si vous êtes une Startup d'État, vous avez probablement autour de vous un OpenLab, une réunion régulière où vos partenaires opérationnels décident de l'orientation concrète du produit. Cet OpenLab est la garantie de subsidiarité de l'équipe pour résoudre avant tout les problèmes des usagers plus que ceux des sponsors.
 
@@ -48,4 +46,6 @@ Un Conseil d'Administration, ou plutôt :
 * devant des sponsors bienveillants,
 * capables d'inspirer l'équipe d'un point de vue stratégique et de résoudre des problèmes politiques.
 
-C'est à dire une Amicale des Sponsors de la Transformation Publique induite par votre produit ... et que vous aurez recrutée au long du chemin !
+Et bien sûr, ce n'est pas son rôle que de définir les fonctionnalités à produire ou de vérifier la feuille de route précise d'un projet. Bref, un Conseil ne micro-manage pas l'activité des startups.
+
+Au fond, ce Conseil sera une Amicale des Sponsors de la Transformation Publique induite par votre produit ... que vous aurez recrutée au long du chemin !
