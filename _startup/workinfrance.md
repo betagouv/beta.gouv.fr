@@ -13,7 +13,7 @@ Les étudiant·e·s étranger·e·s qui voudraient travailler en France, au-del�
 
 **La demande d’autorisation de travail, ce parcours du combattant**
 
-La demande d’autorisation de travail et la réception de l’autorisation se font aujourd’hui par courrier. Sans que l’étudiant·e et son employeur ne soient tenus informés de l'avancement de la demande.
+La demande d’autorisation de travail et la réception de l’autorisation se font aujourd’hui par courrier. Sans que l’étudiant·e et son employeur soient tenu·e·s informé·e·s de l'avancement de la demande.
 
 Légitimement, les usagers à la recherche de réponses concrètes contactent la DIRECCTE, voire se déplacent, pour être tenus informés du statut de leur demande : 
 
