@@ -7,8 +7,6 @@ start: 2018-01-01
 owner : Ministère de la transition écologique et solidaire
 ---
 
-## Fiche produit
-
 
 En France, 45 000 installations industrielles sont régulièrement contrôlées par 1 500 inspecteurs de l'environnement.
 Plus de 2 500 de ces installations présentent des enjeux particuliers vis-à-vis de la qualité de l'air. 
@@ -16,12 +14,15 @@ Les législations européennes, nationales ou locales définissent des règles c
 
 Aujourd’hui, les exploitants transmettent les résultats de surveillance des rejets de polluants aux inspecteurs de l’environnement par courrier postal ou électronique, sans cadre défini.
 
-Le problème, c’est que les règles ne sont pas toujours connues ou bien interprétées, et que les données de surveillance ne sont pas suffisamment utilisées. 
-La quantité de données est telle qu’il est difficile d’y déceler une dérive des niveaux de polluants rejetés. 
+Le problème, c’est que l’absence d’outil standardisé pour la transmission de la surveillance entraîne de grandes disparités de pratiques sur les données envoyées par les exploitants. 
+Sans données fiables et exploitables, les inspecteurs de l’environnement ne peuvent pas suivre l’évolution dans le temps des quantités de polluants rejetées, ni même évaluer si les règles sont respectées ou non à un instant donné.
+
 Cette situation peut conduire les inspecteurs de l’environnement à réagir trop tard face à une surveillance insuffisante ou face à des émissions de polluants trop élevées.
-Des pollutions non détectées peuvent avoir un impact sur la santé des riverains et sur les productions alimentaires environnantes.
-L’impact sera d’autant plus élevé que la situation aura perduré, d’autant plus que certains polluants comme les dioxines s’accumulent dans la chaîne alimentaire.
-En l’absence de réaction à une pollution, exploitants de sites industriels et inspecteurs de l’environnement courent un risque juridique.
+Ces pollutions non détectées auront potentiellement un impact sur la santé des riverains et sur les productions alimentaires environnantes.
+L’impact sera d’autant plus élevé que la situation aura perduré, d’autant plus que certains polluants, comme les dioxines, s’accumulent dans la chaîne alimentaire.
+De plus, exploitants et inspecteurs courent un risque juridique en cas d’absence de réaction à une pollution.
+
+Les exploitants, qui sont responsables du suivi des rejets de polluants de leur installation, peuvent éprouver par le manque de standardisation des données envoyées des difficultés à évaluer s’ils respectent ou non la réglementation.
 
 
 ### Aeris, un service de déclaration et d’interprétation des données d’autosurveillance
