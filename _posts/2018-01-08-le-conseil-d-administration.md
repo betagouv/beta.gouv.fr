@@ -5,7 +5,7 @@ authors: pierre.pezziardi
 
 À beta.gouv.fr, nous encourageons la constitution d'écosystèmes d'innovateurs au plus près de chaque administration et de ses usagers. 
 
-L'incubateur de Pôle emploi a été créé en 2014 dans cette perspective et compte désormais 6 startups pour un budget annuel de 3 M€, mais surtout un [impact majeur sur l'institution](https://www.senat.fr/les_actus_en_detail/article/audition-de-m-jean-basseres.html) (écouter notamment à 32", 1'06, 1'23, 1'32, 1'50 et 1'56). 
+L'incubateur de Pôle emploi a été créé en 2014 dans cette perspective et compte désormais 6 startups pour un budget annuel de 3 M€, mais surtout un [impact majeur sur l'institution](http://videos.assemblee-nationale.fr/video.5293706_5a27bdce077fa.commission-des-affaires-sociales--m-jean-basseres-dont-le-renouvellement-de-dg-de-pole-emploi-est-6-decembre-2017) (écouter notamment à 32", 1'07, 1'23, 1'32, 1'50 et 1'56).
 
 Ces chiffres vont doubler en 2018. Mais ces résultats ne sont pas le fruit du hasard, __il y a une raison pour laquelle les Startups d'État de Pôle emploi font partie des plus performantes : elles ont une sorte de Conseil d'Administration__...
 
@@ -26,7 +26,7 @@ Très concrètement, ce rendez-vous n'est pas vécu comme un reporting de plus q
 Après une année, nous avons décidé d'en faire un rituel établi, dans la droite ligne de [l'Art du Pitch](https://guykawasaki.com/the-art-of-the-pitch/) de Guy Kawasaky. Songez-y, la capacité à pitcher est l'un des talents principaux de l'intrapreneur, car il passe sa vie à convaincre ses sponsors, mais aussi et surtout ses partenaires et ses clients !
 
 ## A l'aide !
-Beaucoup de Startups d'État ont occupé un espace qui n'existait simplement pas. Prenons [PIX](https://pix.beta.gouv.fr/) ou [LaBonneBoite](https://labonneboite.pole-emploi.fr/) par exemple. Personne dans l'administration n'était en charge d'un « TOEFL du numérique » ou d'un outil de ciblage de candidatures spontanées. Lorsqu'elles deviennent matures, ces startups ne font donc d'ombre à personne et tout le monde se réjouit de leur succès.
+Beaucoup de Startups d'État ont occupé un espace qui n'existait simplement pas. Prenons [PIX](https://pix.beta.gouv.fr/) ou [LaBonneBoite](https://labonneboite.pole-emploi.fr/) par exemple. Personne dans l'administration n'était en charge d'une certification numérique ou d'un outil de ciblage de candidatures spontanées. Lorsqu'elles deviennent matures, ces startups ne font donc d'ombre à personne et tout le monde se réjouit de leur succès.
 
 D'autres Startups d'État prennent elles une place déjà occupée par d'autres, souvent de manière insatisfaisante. C'est le cas par exemple de [LaBonneFormation](https://labonneformation.pole-emploi.fr/) ou du simulateur des droits sociaux [mes-aides.gouv.fr](https://mes-aides.gouv.fr/), dont on retrouve des bouts chez différents acteurs, comme respectivement les [CARIF](http://www.intercariforef.org/formations/recherche-formations.html), le [Compte Personnel Activité](https://www.moncompteactivite.gouv.fr/cpa-public/), le site [Pôle Emploi](https://candidat.pole-emploi.fr/formations/accueil) et les simulateurs d'aides de la CAF, de la CNAM, des départements, etc. La force des nouveaux produits étant précisemment de proposer une expérience globale, simplifiée et centrée non pas sur l'administration, mais sur l'usager.
 
@@ -41,7 +41,7 @@ Mais à un moment donné, les problèmes des sponsors deviennent les problèmes 
 
 La plupart des Startups d'État sont des initiatives "bottom-up" qui n'ont pas bénéficié d'une phase de consensus en amont et réuni autour d'elle un tour de table de sponsors. Alors si tel est votre cas, si vous vous interrogez sur l'intérêt à poursuivre l'investissement dans votre produit ou si vous souffrez d'un manque de soutien politique, c'est peut-être le moment de réunir autour de vous un second cercle formé de __dirigeants__ (secrétaires généraux, directeurs.ices d'administration centrale, directeurs.ices généraux des services ..), de __personnalités qualifiées__ (dirigeants d'association dont l'objet social est aligné avec celui de la startup,  ..), ou encore de __personnalités politiques__ (élus nationaux ou locaux, membres de cabinets ..) que vous aimeriez revoir tous les 6 mois. 
 
-Un Conseil d'Administration, ou plutôt :
+Un Conseil, ou plutôt :
 * un rendez-vous régulier,
 * devant des sponsors bienveillants,
 * capables d'inspirer l'équipe d'un point de vue stratégique et de résoudre des problèmes politiques.
