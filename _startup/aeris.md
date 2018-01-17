@@ -34,10 +34,7 @@ Il pourra y retrouver un suivi des émissions sur une période donnée, mis en p
 * d’anticiper les épisodes de dépassements en identifiant les polluants dont le niveau d’émission se rapproche de la limite.  
 L’outil pourra également être utilisé en interne de sa société pour permettre à un responsable d’usine non spécialiste de garder une vision sur les performances environnementales de son site.
 
-L’automatisation du travail d’analyse des données d’autosurveillance permettra aux inspecteurs de cibler de manière plus précise les industries à inspecter, et de libérer du temps pour travailler sur les causes profondes des pollutions, et non pas sur leurs conséquences.
-
-Pour que le service soit adopté par les utilisateurs, la transmission des résultats de surveillance des rejets dans l'air doit être plus simple que la méthode actuelle (en général un tableau transmis par courrier postal ou électronique). 
-Le service se démarquera encore plus s'il offre aux inspecteurs et aux exploitants un outil commun d’interprétation de la réglementation, pédagogique, et utilisé en amont des inspections. 
+L’automatisation du travail d’analyse des données d’autosurveillance permettra aux inspecteurs de cibler de manière plus précise les industries à inspecter, et de libérer du temps pour travailler sur les causes profondes des pollutions.
 
 ### Stratégie de mise sur le marché  
 
@@ -46,6 +43,6 @@ Ces installations présentent de forts enjeux de surveillance des rejets atmosph
 Ces installations sont inspectées au moins une fois par an, et chaque inspection nécessite plusieurs jours de travail de préparation en amont.
 
 Le service serait d'abord déployé auprès d'exploitants et d'inspecteurs au niveau local (Grand Est). 
-Par la suite, le service pourrait être étendu aux incinérateurs de déchets dans toute la France, puis à d’autres secteurs industriels
+Par la suite, le service pourrait être étendu aux incinérateurs de déchets dans toute la France, puis à d’autres secteurs industriels, par exemple les installations de combustion.
 
 
