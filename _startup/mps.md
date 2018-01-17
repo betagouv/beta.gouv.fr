@@ -2,7 +2,7 @@
 title: Marchés publics simplifiés
 mission: Candidater en ligne à un Marché Public avec uniquement son SIRET
 owner: DINSIC
-status: consolidation
+status: passation
 start: 2014-01-01
 end:
 link: https://mps.apientreprise.fr
