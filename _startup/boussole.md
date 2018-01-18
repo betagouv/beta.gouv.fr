@@ -9,7 +9,7 @@ start: 2015-12-01
 owner: Direction de la jeunesse
 ---
 
-Depuis 2013, un travail d’analyse et d’étude a été mené par la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> et le <abbr title="Secrétariat général pour la modernisation de l'action publique">SGMAP</abbr> sur 2 territoires pilotes (Reims et Rennes), pour identifier les besoins des jeunes dans leur accès à l’information et les attentes des professionnels de l’Information Jeunesse en ce qui concerne l’évolution de leur pratique.
+Depuis 2013, un travail d’analyse et d’étude a été mené par la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> et le <abbr title="direction interministérielle du numérique et du système d'information et de communication de l'État">DINSIC</abbr> sur 2 territoires pilotes (Reims et Rennes), pour identifier les besoins des jeunes dans leur accès à l’information et les attentes des professionnels de l’Information Jeunesse en ce qui concerne l’évolution de leur pratique.
 
 En synthèse, ce travail a montré que les jeunes recherchent de l’information de « proximité » (parents, amis), « en réaction » (à un besoin, un projet) et dans l’urgence. Ils accordent une confiance à l’information publique et de la valeur à l’opinion de leurs pairs.
 

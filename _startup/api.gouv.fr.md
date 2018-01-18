@@ -6,7 +6,7 @@ repository: https://github.com/betagouv/api.gouv.fr
 status: construction
 contact: contact@api.gouv.fr
 start: 2016-01-25
-owner: SGMAP
+owner: DINSIC
 redirect_from:
   - /startup/apigouv
 ---

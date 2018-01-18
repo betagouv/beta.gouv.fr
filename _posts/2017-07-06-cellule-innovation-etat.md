@@ -8,7 +8,7 @@ authors:
 
 Quand on me demande où je fais mon stage cet été, je réponds que je m’occupe d’une « Startup d'État ». La réaction la plus fréquente ? Un regard inquisiteur, un peu incrédule. Une « Startup d'État » ? L’expression, presque antinomique, fait sourire.
 
-Alors, j’explicite : l’incubateur des Startups d'État est rattaché au SGMAP, un service du Premier Ministre. « Ah, tu travailles dans l’administration, donc. » Oui. Dans le cadre de mon cursus en Affaires Publiques, il me fallait effectuer un stage dans l’Administration. M’imaginant vivre plusieurs mois dans un bureau fermé, en chemise-cravate, au bas de l’échelle d’une hiérarchie kafkaïenne, l’idée ne m’enchantait pas forcément.
+Alors, j’explicite : l’incubateur des Startups d'État est rattaché à la DINSIC, un service du Premier Ministre. « Ah, tu travailles dans l’administration, donc. » Oui. Dans le cadre de mon cursus en Affaires Publiques, il me fallait effectuer un stage dans l’Administration. M’imaginant vivre plusieurs mois dans un bureau fermé, en chemise-cravate, au bas de l’échelle d’une hiérarchie kafkaïenne, l’idée ne m’enchantait pas forcément.
 
 <!--more-->
 

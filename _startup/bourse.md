@@ -6,7 +6,7 @@ repository: https://github.com/betagouv/bourses/
 status: consolidation
 contact: contact@bourse.beta.gouv.fr
 start: 2015-03-01
-owner: SGMAP
+owner: DINSIC
 stats: true
 ---
 

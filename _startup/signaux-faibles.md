@@ -6,7 +6,7 @@ repository:
 status: construction
 contact: pierre@pezziardi.net
 start: 2014-05-15  # date au format ISO (AAAA-MM-DD)
-owner: SGMAP
+owner: DINSIC
 ---
 
 ## Fiche produit
