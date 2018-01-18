@@ -33,4 +33,4 @@ We have learnt that the best strategy in digital transformation is delivery. Rat
 
 ## Notes
 
-<span id="fn1"><a href="#r1">[1]</a></span> Several academic papers present this history and analyse the public value impact of the incubator. Alexandra Foucaud’s [When the French State works in startup mode](https://raw.github.com/wiki/sgmap/beta.gouv.fr/files/StateStartups-Foucaud.pdf) can give more detailed insight.
+<span id="fn1"><a href="#r1">[1]</a></span> Several academic papers present this history and analyse the public value impact of the incubator. Alexandra Foucaud’s [When the French State works in startup mode](https://raw.github.com/wiki/betagouv/beta.gouv.fr/files/StateStartups-Foucaud.pdf) can give more detailed insight.

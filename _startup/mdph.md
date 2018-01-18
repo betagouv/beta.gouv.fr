@@ -2,7 +2,7 @@
 title: MDPH en ligne
 mission: Faciliter les demandes de compensation du handicap auprès des MDPH
 link: https://mdphenligne.cnsa.fr
-repository: https://github.com/sgmap/mdph
+repository: https://github.com/betagouv/mdph
 status: passation
 contact: contact@mdph.beta.gouv.fr
 start: 2014-12-01

@@ -2,7 +2,7 @@
 title: API Particulier
 mission: Récupérer les données des particuliers
 link: https://particulier.api.gouv.fr/
-repository: https://github.com/sgmap/api-particulier
+repository: https://github.com/betagouv/api-particulier
 status: consolidation
 contact: contact@particulier.api.gouv.fr
 logo:
