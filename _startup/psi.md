@@ -11,7 +11,7 @@ owner: SGMAP
 
 ## Autoliquidation par prélèvement à la source des cotisations sociales des indépendants
 
-Une plate-forme de calcul et de prélèvement automatique qui se substitue aux multiples systèmes de recouvrement aujourd'hui au contact de l'indépendant : RSI, Urssaf et organismes de santé et de retraite conventionnés.
+Une plate-forme de calcul et de prélèvement automatique qui se substitue aux multiples systèmes de recouvrement aujourd'hui au contact de l'indépendant : la Sécurité sociale pour les indépendants (ex-RSI), Urssaf et organismes de santé et de retraite conventionnés.
 
 ### Valeur
 
@@ -48,7 +48,7 @@ Le dispositif d'autoliquidation peut s'appliquer à tous les indépendants, arti
 - à l'IS : la détermination des cotisations se fonde uniquement sur le montant de la rémunération, le système demande donc la rémunération nette souhaitée, demande de valider que le compte soit provisionné du montant chargé et procède au prélèvement puis au virement ;
 - à l'IR : la détermination des cotisations se fonde sur le bénéfice de l'entreprise, or il n'est connu qu'à la fin de l'exercice. Pour autant, l'entrepreneur individuel se paye régulièrement. L'interface propose donc comme précédemment de saisir la rémunération nette souhaitée, en aidant l'usager à estimer son résultat mensuel pour éviter de trop grands écarts de régularisation en fin de cycle.
 
-Enfin les auto-entrepreneurs disposent déjà d'un régime simplifié avec des cotisations assises sur un chiffre d'affaire, et non sur une rémunération, et un dispositif d'autoliquidation : l'auto-entrepreneur détermine lui-même ses charges et les verse au RSI. Le dispositif  n'a donc pas d'intérêt particulier pour eux.
+Enfin les auto-entrepreneurs disposent déjà d'un régime simplifié avec des cotisations assises sur un chiffre d'affaire, et non sur une rémunération, et un dispositif d'autoliquidation : l'auto-entrepreneur détermine lui-même ses charges et les verse à la Sécurité sociale pour les indépendants. Le dispositif  n'a donc pas d'intérêt particulier pour eux.
 
 ### Recouvrement amiable, recouvrement contentieux, fraude
 
@@ -71,4 +71,4 @@ La reprise du produit par un acteur de taille importante, ici l'ACOSS a priori, 
 
 La  Startup d'État peut être hébergée au SGMAP, dans un ministère ou un établissement doté d'une entité d'accueil de l'innovation ou souhaitant la créer. Le champ d'expérimentation doit plutôt être délimité par le volontariat des usagers que par une obligation sur un territoire. Cibler les nouveaux indépendants créateurs d'entreprise permettra d'éviter les difficultés liées à des reprises d'historique.
 
-La gouvernance du projet s'appuiera sur le modèle des startups d'État, c'est à dire constituée d'une équipe pluridisciplinaire autonome sur le produit et pilotée stratégiquement par un comité sponsor réunissant les représentants des ministères de tutelle, du parlement, du RSI, de l’ACOSS, des chambres consulaires, des organismes conventionnés…
+La gouvernance du projet s'appuiera sur le modèle des startups d'État, c'est à dire constituée d'une équipe pluridisciplinaire autonome sur le produit et pilotée stratégiquement par un comité sponsor réunissant les représentants des ministères de tutelle, du parlement, de la Sécurité sociale pour les indépendants, de l’ACOSS, des chambres consulaires, des organismes conventionnés…
