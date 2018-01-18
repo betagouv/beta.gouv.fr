@@ -2,7 +2,7 @@
 title: Téléprocédures Simplifiées
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
 link: https://tps.apientreprise.fr
-repository: https://github.com/sgmap/tps
+repository: https://github.com/betagouv/tps
 status: consolidation
 contact: contact@tps.apientreprise.fr
 start: 2015-09-15

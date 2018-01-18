@@ -39,7 +39,7 @@ Nous cherchons à créer une équipe multidisciplinaire : pas besoin d’être e
 ## Modalités
 
 - Poste ouvert pour un·e indépendant·e (en portage).
-- Télétravail partiel bienvenu, avec 2 jours toutes les deux semaines [à Paris](https://github.com/sgmap/beta.gouv.fr/wiki/Locaux) pour participer aux sessions communes de démonstration, rétrospective et planification… et pour avoir le sentiment de construire une équipe !
+- Télétravail partiel bienvenu, avec 2 jours toutes les deux semaines [à Paris](https://github.com/betagouv/beta.gouv.fr/wiki/Locaux) pour participer aux sessions communes de démonstration, rétrospective et planification… et pour avoir le sentiment de construire une équipe !
 - Temps partiel accepté (80 % minimum).
 
 ## Candidater

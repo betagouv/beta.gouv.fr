@@ -2,7 +2,7 @@
 title: Mes démarches retraite pas à pas
 mission: Obtenir en quelques clics la liste personnalisée de ses démarches de retraite
 link : https://mesdemarchesretraite.fr
-repository: https://github.com/sgmap/retraite
+repository: https://github.com/betagouv/retraite
 status: success
 contact: cisse.traore@cnav.fr
 start: 2015-10-01

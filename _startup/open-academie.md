@@ -2,7 +2,7 @@
 title: Open Académie
 mission: Construire le lycée et le collège de demain
 link: https://openacademie.beta.gouv.fr
-repository: https://github.com/sgmap/open-academie
+repository: https://github.com/betagouv/open-academie
 status: consolidation
 contact: pierre.de-maulmont@ac-paris.fr
 start: 2015-01

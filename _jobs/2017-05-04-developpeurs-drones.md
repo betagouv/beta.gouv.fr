@@ -18,14 +18,14 @@ Il s’agit de développer :
 - une API permettant aux entreprises (fabricants de drones, fournisseurs de dispositifs de signalisation, startups...) de pousser des données et de développer des services innovants ;
 - des applications pour fournir un service de base et illustrer les usages de l’API.
 
-Comme pour tous les postes de l'incubateur, il s'agit aussi d'une opportunité de [co-construire `beta.gouv.fr`](https://github.com/sgmap/beta.gouv.fr/wiki) avec [plein de gens bien](https://beta.gouv.fr/communaute) et de participer à la transformation numérique de l'administration française.
+Comme pour tous les postes de l'incubateur, il s'agit aussi d'une opportunité de [co-construire `beta.gouv.fr`](https://github.com/betagouv/beta.gouv.fr/wiki) avec [plein de gens bien](https://beta.gouv.fr/communaute) et de participer à la transformation numérique de l'administration française.
 
 ## Modalités :
 
 - Postes ouverts pour des indépendant·e·s (en portage).
 - Disponibilité six mois minimum.
 - Temps partiel accepté (80 % minimum).
-- Télétravail partiel possible avec 2 jours toutes les deux semaines [à Paris](https://github.com/sgmap/beta.gouv.fr/wiki/Locaux) pour participer aux sessions communes de démonstration, rétrospective et planification… et pour avoir le sentiment de construire une équipe.
+- Télétravail partiel possible avec 2 jours toutes les deux semaines [à Paris](https://github.com/betagouv/beta.gouv.fr/wiki/Locaux) pour participer aux sessions communes de démonstration, rétrospective et planification… et pour avoir le sentiment de construire une équipe.
 
 ## Pour candidater :
 

@@ -1,7 +1,7 @@
 ---
 title: Fiches de banc
 mission: Augmenter la productivité du traitement des amendements dans les cabinets ministériels
-repository: https://github.com/sgmap/fiches-de-banc
+repository: https://github.com/betagouv/fiches-de-banc
 status: death
 contact: matti.schneider@beta.gouv.fr
 start: 2015-01-12
@@ -32,7 +32,7 @@ L'alternative consisterait à mobiliser les utilisateurs sur un projet de loi à
 
 Une Startup d'État, qui construit _avec_ ses utilisateurs, ne semble donc pas adaptée au problème visé.
 
-Le [code](https://github.com/sgmap/fiches-de-banc) reste libre et ouvert, et toute reprise du produit, sur la base du code en question ou en s'inspirant de l'expérience utilisateur proposée, est la bienvenue.
+Le [code](https://github.com/betagouv/fiches-de-banc) reste libre et ouvert, et toute reprise du produit, sur la base du code en question ou en s'inspirant de l'expérience utilisateur proposée, est la bienvenue.
 
 
 Usage
