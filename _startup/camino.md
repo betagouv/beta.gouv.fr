@@ -18,7 +18,7 @@ Dès le projet esquissé, un véritable calvaire commence et se répète ensuite
 
 De son côté, **l'administration traite chaque année près de 2 000 démarches conduites au titre du code minier**, avec des systèmes d’information fermés, des tableaux de suivi pléthoriques, des archives papier et des gigaoctets de dossiers dispersés dans ses services nationaux et locaux.
 
-### De fait, l’enregistrement, la consultation et la valorisation des données de l’administration des mines est impossible ou trop peu efficace. C'est donc, l’ensemble des acteurs du secteur qui souffrent des difficultés d'accès aux informations et du dépassement des délais d’instruction prévus par la loi. 
+**De fait, l’enregistrement, la consultation et la valorisation des données de l’administration des mines est impossible ou trop peu efficace. C'est donc, l’ensemble des acteurs du secteur qui souffrent des difficultés d'accès aux informations et du dépassement des délais d’instruction prévus par la loi.**
 
 Sans réponse explicite et à défaut de pouvoir suivre précisément l’évolution de leurs demandes, les entreprises n’ont pas de visibilité sur le développement de leurs projets. Elles protègent leurs droits en déposant des recours contentieux qui sont encore une charge supplémentaire pour elles et pour l’État.
 
