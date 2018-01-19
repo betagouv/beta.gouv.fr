@@ -1,6 +1,6 @@
 ---
 fullname: James Pic
-role: Full Stack Dev
+role: Développeur full-stack
 start: 2017-11-30
 end: 2018-03-31
 employer: independent/octo

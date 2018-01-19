@@ -8,5 +8,5 @@ employer: service/octo
 github: thomaspepio
 ---
 
-Former java/jee/js/css (I guess fullstack is appropriate) developer and tech lead.
+Former java/jee/js/css (I guess full-stack is appropriate) developer and tech lead.
 Now fallen in the bright world of *operations* o7
