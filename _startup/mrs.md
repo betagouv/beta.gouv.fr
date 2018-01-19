@@ -6,7 +6,7 @@ repository:
 status: investigation
 contact: frederic.boulay@beta.gouv.fr
 start: 2017-10-01
-owner: CNAMTS - CPAM de la Haute-Garonne (31)
+owner: CNAMTS / CPAM de la Haute-Garonne (31)
 ---
 
 ## Fiche produit
@@ -16,7 +16,7 @@ Sur prescription de votre médecin, l'Assurance Maladie rembourse les frais d'ut
 Avec MRS, l'assuré peut déclarer en ligne ses frais :
 
 1. il renseigne son trajet
-2. il prend en photo ses justificatifs (prescription, tickets péages/parking...)
+2. il prend en photo ses justificatifs (prescription, tickets péages/parking…)
 3. il valide sa demande
 
 Le transport est remboursé en moins d'une semaine.

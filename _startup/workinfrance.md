@@ -1,28 +1,28 @@
 ---
 title: Work in France
 mission: La plateforme de demande d’autorisations provisoires de travail.
-link: 
+link:
 repository:
 status: investigation
 contact: contact@workinfrance.beta.gouv.fr
 start: 2017-10-26
-owner: Ministère des Affaires Sociales
+owner: Ministère des Affaires sociales
 ---
- 
-Les étudiant·e·s étranger·e·s qui voudraient travailler en France, au-delà du mi-temps, doivent déposer une demande d'autorisation de travail en DIRECCTE<sup>1</sup>. C'est généralement une démarche critique pour le projet de l'étudiant·e ; « pourrais-je rester en France, payer mes études, valider l'expérience professionnelle nécessaire à mon diplôme ? »  
+
+Les étudiant·e·s étranger·e·s qui voudraient travailler en France, au-delà du mi-temps, doivent déposer une demande d'autorisation de travail en DIRECCTE<sup>1</sup>. C'est généralement une démarche critique pour le projet de l'étudiant·e ; « pourrais-je rester en France, payer mes études, valider l'expérience professionnelle nécessaire à mon diplôme ? »
 
 **La demande d’autorisation de travail, ce parcours du combattant**
 
 La demande d’autorisation de travail et la réception de l’autorisation se font aujourd’hui par courrier. Sans que l’étudiant·e et son employeur soient tenu·e·s informé·e·s de l'avancement de la demande.
 
-Légitimement, les usagers à la recherche de réponses concrètes contactent la DIRECCTE, voire se déplacent, pour être tenus informés du statut de leur demande : 
+Légitimement, les usagers à la recherche de réponses concrètes contactent la DIRECCTE, voire se déplacent, pour être tenus informés du statut de leur demande :
 
 > Avez-vous reçu ma demande ?
 > Quand vais-je recevoir mon autorisation de travail ?
 
-La lenteur de la procédure et son manque de transparence retardent ainsi la prise de poste et pénalisent l’entreprise qui n’est pas en mesure d’avoir une visibilité sur la validation du recrutement de son personnel. 
+La lenteur de la procédure et son manque de transparence retardent ainsi la prise de poste et pénalisent l’entreprise qui n’est pas en mesure d’avoir une visibilité sur la validation du recrutement de son personnel.
 
-Les étudiant·e·s consituent la majeure partie du public qui se déplace à l'accueil des DIRECCTE. Que ce soit par téléphone, par mail ou dans les accueils, les agents passent un temps considérable à répondre aux questions des usagers, au détriment du traitement normal des demandes d’autorisation de travail. Avec WorkInFrance, en traitant simplement la plupart des demandes, nous libérerons du temps de travail pour les agents. 
+Les étudiant·e·s consituent la majeure partie du public qui se déplace à l'accueil des DIRECCTE. Que ce soit par téléphone, par mail ou dans les accueils, les agents passent un temps considérable à répondre aux questions des usagers, au détriment du traitement normal des demandes d’autorisation de travail. Avec WorkInFrance, en traitant simplement la plupart des demandes, nous libérerons du temps de travail pour les agents.
 
 De plus, l’administration est en charge de l’ensemble des instructions des demandes d’autorisation, en réceptionnant des demandes en format papier (CERFA et pièces justificatives obligatoires) obligeant celles-ci à stocker des volumes conséquents de documents, et posant de surcroît des difficultés pour accéder à un dossier « en cours ».
 

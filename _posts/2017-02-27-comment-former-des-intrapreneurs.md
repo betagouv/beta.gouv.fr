@@ -16,7 +16,7 @@ Détaillons la méthode pour former ces innovateurs de la sphère publique.
 
 ![Coacher l'intrapreneur](/img/posts/intrapreneur-coaching.jpg)
 
-Dans la démarche Startup d'État, l’intrapreneur n’est pas jeté seul dans la jungle numérique. Il est accompagné par un **coach** du secrétariat général pour la modernisation de l'action publique (SGMAP). Experts du numérique, les coachs de Startup d'État ont déjà construit et opéré avec succès des solutions numériques innovantes grand public. Reconnus par leurs pairs, les coachs ont déjà formé, encadré, managé des personnes sur les différentes activités que l’intrapreneur va devoir prendre à sa charge.
+Dans la démarche Startup d'État, l’intrapreneur n’est pas jeté seul dans la jungle numérique. Il est accompagné par un **coach** sélectionné par la direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC). Experts du numérique, les coachs de Startup d'État ont déjà construit et opéré avec succès des solutions numériques innovantes grand public. Reconnus par leurs pairs, les coachs ont déjà formé, encadré, managé des personnes sur les différentes activités que l’intrapreneur va devoir prendre à sa charge.
 
 L’objectif étant l’autonomie de l’intrapreneur, le coach va souvent **faire, puis faire avec l’intrapreneur, puis observer l’intrapreneur faire** en lui donnant du « feedback ». Puis disparaître !
 
@@ -40,7 +40,7 @@ Cercle des intrapreneurs, guilde des intrapreneurs, réunion des intrapreneurs, 
 
 ## Conclusion
 
-Au delà du partage avec leurs pairs, les intrapreneurs les plus expérimentés deviennent **les relais de la méthode Startup d'État**, en particulier lorsque le coaching du SGMAP s’atténue voire disparaît. Ils assurent alors eux-mêmes le coaching des nouvelles startups qui se lancent dans leur structure.
+Au delà du partage avec leurs pairs, les intrapreneurs les plus expérimentés deviennent **les relais de la méthode Startup d'État**, en particulier lorsque le coaching de la DINSIC s’atténue voire disparaît. Ils assurent alors eux-mêmes le coaching des nouvelles startups qui se lancent dans leur structure.
 
 Aucun Scrum Master ou autre coach Lean ne sera aussi pertinent que ces intrapreneurs qui ont su innover, ont porté à terme une initiative de modernisation, et ont résolu concrètement des problèmes pour les usagers de leur service public… et le tout à l’échelle grâce au levier du numérique !
 

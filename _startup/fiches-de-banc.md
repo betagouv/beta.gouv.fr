@@ -5,7 +5,7 @@ repository: https://github.com/betagouv/fiches-de-banc
 status: death
 contact: matti.schneider@beta.gouv.fr
 start: 2015-01-12
-owner: SGMAP
+owner: DINSIC
 ---
 
 Une application web permettant d'émettre des avis sur les amendements déposés à l'Assemblée Nationale, et de répartir les réponses parmi plusieurs collaborateurs.

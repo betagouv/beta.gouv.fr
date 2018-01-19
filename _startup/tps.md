@@ -6,7 +6,7 @@ repository: https://github.com/betagouv/tps
 status: consolidation
 contact: contact@tps.apientreprise.fr
 start: 2015-09-15
-owner: SGMAP
+owner: DINSIC
 stats: true
 ---
 
@@ -22,7 +22,7 @@ C’est encore loin d’être le cas.
 
 Pour les seules démarches des entreprises sous la responsabilité de l’Etat, plus de 1000 procédures sont encore uniquement en papier. Au rythme actuel d’environ 100 démarches dématérialisées par an, il faudra près de 10 ans pour achever la dématérialisation.
 
-Et si chaque administration fait le choix de développer ses propres outils informatique (au lieu d’utiliser un outil mutualisé comme TPS), ce sont des dizaines de millions d’euros qui seront dépensés en pure perte...
+Et si chaque administration fait le choix de développer ses propres outils informatique (au lieu d’utiliser un outil mutualisé comme TPS), ce sont des dizaines de millions d’euros qui seront dépensés en pure perte…
 
 **TPS, c’est pour qui ?**
 
@@ -58,7 +58,7 @@ TPS est pour vous.
 
 **Contact**
 
-TPS est développé par l’incubateur de services numériques du Secrétariat Général de la Modernisation de l’Action Publique (SGMAP), rattaché aux services du Premier ministre.
+TPS est développé par l’incubateur de services numériques de la direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC), rattaché aux services du Premier ministre.
 
 Vous voulez en savoir plus ? Vous voulez une démo ? Pour nous contacter :
 - Email : contact@tps.apientreprise.fr

@@ -25,4 +25,4 @@ authors: ismael.hery
 
 « Impossible de faire des tests utilisateur à ce stade, les demandes de changements qui vont émerger des tests vont nous mettre hors budget et hors planning. »
 
-<small>Illustration : <a title="I Can't See You..." href="https://www.flickr.com/photos/12023825@N04/2898021822">I Can't See You...</a> par <a href="https://www.flickr.com/photos/12023825@N04/">Peter</a> sous license <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a></small>
+<small>Illustration : <a title="I Can't See You…" href="https://www.flickr.com/photos/12023825@N04/2898021822">I Can't See You…</a> par <a href="https://www.flickr.com/photos/12023825@N04/">Peter</a> sous license <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a></small>

@@ -15,7 +15,7 @@ Vous rejoindrez une [équipe autonome](https://beta.gouv.fr/2016/11/28/equipes-a
 
 Il s’agit de développer :
 - une base d’enregistrement et une base de géolocalisation ;
-- une API permettant aux entreprises (fabricants de drones, fournisseurs de dispositifs de signalisation, startups...) de pousser des données et de développer des services innovants ;
+- une API permettant aux entreprises (fabricants de drones, fournisseurs de dispositifs de signalisation, startups…) de pousser des données et de développer des services innovants ;
 - des applications pour fournir un service de base et illustrer les usages de l’API.
 
 Comme pour tous les postes de l'incubateur, il s'agit aussi d'une opportunité de [co-construire `beta.gouv.fr`](https://github.com/betagouv/beta.gouv.fr/wiki) avec [plein de gens bien](https://beta.gouv.fr/communaute) et de participer à la transformation numérique de l'administration française.

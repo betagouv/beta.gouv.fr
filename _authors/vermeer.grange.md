@@ -1,5 +1,5 @@
 ---
-fullname: Vermeer Grange 
+fullname: Vermeer Grange
 role: Développeur / Data scientist
 start: 2016-10-24
 employer: independent/ey

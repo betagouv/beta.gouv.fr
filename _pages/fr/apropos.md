@@ -11,7 +11,7 @@ ref: about
 
 ## Historique
 
-Depuis juin 2013, l’État a pu expérimenter au sein du [Secrétariat Général pour la Modernisation de l'Action Publique](https://modernisation.gouv.fr) (SGMAP) une nouvelle manière de construire des services publics numériques, en réussissant tout d'abord la refonte de [data.gouv.fr](https://data.gouv.fr)<sup><a href="#fn1" id="r1">[1]</a></sup>.  L'Incubateur de Services Numériques existe en tant que Mission de la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr> depuis septembre 2015.
+Depuis juin 2013, l’État a expérimenté une nouvelle manière de construire des services publics numériques, d'abord au sein du [Secrétariat Général pour la Modernisation de l'Action Publique](https://modernisation.gouv.fr) (SGMAP) en réussissant tout d'abord la refonte de [data.gouv.fr](https://data.gouv.fr)<sup><a href="#fn1" id="r1">[1]</a></sup>, avant la création en septembre 2015 d'une structure dédiée. Cette structure, l'Incubateur de Services Numériques, est une Mission de la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr>.
 
 ## Principe fondateur des incubateurs de services numériques
 
@@ -21,7 +21,7 @@ La complexité administrative s’est bâtie à la fois sur le cloisonnement des
 
 Agir selon un principe de confiance, cela signifie pouvoir déposer une candidature à un marché public avec simplement son numéro SIRET et recueillir une déclaration sur l’honneur, plutôt qu’exiger des attestations ou une signature numérique compliquée. Cette confiance vis-à-vis des usagers induit de la simplicité.
 
-Tourné vers les agents, ce principe de confiance accélère le décloisonnement en leur offrant les mêmes niveaux d’accès. Il devient par exemple possible d'instruire un dossier de subvention entre collectivités et préfecture, ou un dossier d'aide sociale entre Pôle Emploi, la CAF et un Conseil Départemental.
+Tourné vers les agents, ce principe de confiance accélère le décloisonnement en leur offrant les mêmes niveaux d’accès. Il devient par exemple possible d'instruire un dossier de subvention entre collectivités et préfecture, ou un dossier d'aide sociale entre Pôle emploi, la CAF et un Conseil Départemental.
 
 Le design numérique par la confiance, c’est aussi reconnaître la nécessité du contrôle, mais pas à n'importe quel prix : contrôle ex-post des attestations aux seuls candidats retenus, pression sociale sur la réputation, évaluation et signalement par les internautes, audit des accès par les agents publics…
 
