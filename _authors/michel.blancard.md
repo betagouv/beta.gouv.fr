@@ -1,6 +1,6 @@
 ---
 fullname: Michel Blancard
-role: Datascientist
+role: Data scientist
 link: https://www.linkedin.com/in/mblancard/
 start: 2016-12-30
 end: 2017-10-06
