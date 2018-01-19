@@ -48,6 +48,6 @@ Vous êtes en mesure de jouer sur 2 tableaux :
 * Temps partiel accepté (80 % minimum).
 * Démarrage en février
 
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à recrutement.mineco@beta.gouv.fr.
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à [recrutement.mineco@beta.gouv.fr](mailto:recrutement.mineco@beta.gouv.fr).
 
 À bientôt ! 😀
