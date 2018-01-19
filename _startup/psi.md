@@ -34,7 +34,7 @@ Supprimer entièrement le décalage temporel entre rentrée de chiffre d'affaire
 ### Le «&nbsp;consentement au prélèvement social&nbsp;»
 
 Un tel processus crée un rapport simple au paiement des charges sociales, sans surprise car immédiat et définitif.
-Il établit un lien direct, transparent et volontaire, entre le bénéfice d'une rémunération et le paiement de cotisations sociales. Enfin, l’indépendant trouvera dans son espace personnel toutes les informations sur les droits ouverts par ses cotisations : santé, retraite, formation ... Ces organismes se limitant désormais à la gestion des droits.
+Il établit un lien direct, transparent et volontaire, entre le bénéfice d'une rémunération et le paiement de cotisations sociales. Enfin, l’indépendant trouvera dans son espace personnel toutes les informations sur les droits ouverts par ses cotisations : santé, retraite, formation... Ces organismes se limitant désormais à la gestion des droits.
 
 #### Différence avec le système d’autoliquidation historiquement proposé par les experts comptables
 

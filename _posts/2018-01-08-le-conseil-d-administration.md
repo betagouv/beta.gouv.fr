@@ -39,7 +39,7 @@ Si vous êtes une Startup d'État, vous avez probablement autour de vous un Open
 
 Mais à un moment donné, les problèmes des sponsors deviennent les problèmes des usagers quand une startup ne se déploie pas à hauteur de sa « part de marché » naturelle !
 
-La plupart des Startups d'État sont des initiatives "bottom-up" qui n'ont pas bénéficié d'une phase de consensus en amont et réuni autour d'elle un tour de table de sponsors. Alors si tel est votre cas, si vous vous interrogez sur l'intérêt à poursuivre l'investissement dans votre produit ou si vous souffrez d'un manque de soutien politique, c'est peut-être le moment de réunir autour de vous un second cercle formé de __dirigeants__ (secrétaires généraux, directeurs.ices d'administration centrale, directeurs.ices généraux des services ..), de __personnalités qualifiées__ (dirigeants d'association dont l'objet social est aligné avec celui de la startup, ..), ou encore de __personnalités politiques__ (élus nationaux ou locaux, membres de cabinets ..) que vous aimeriez revoir tous les 6 mois.
+La plupart des Startups d'État sont des initiatives "bottom-up" qui n'ont pas bénéficié d'une phase de consensus en amont et réuni autour d'elle un tour de table de sponsors. Alors si tel est votre cas, si vous vous interrogez sur l'intérêt à poursuivre l'investissement dans votre produit ou si vous souffrez d'un manque de soutien politique, c'est peut-être le moment de réunir autour de vous un second cercle formé de __dirigeants__ (secrétaires généraux, directeurs.ices d'administration centrale, directeurs.ices généraux des services...), de __personnalités qualifiées__ (dirigeants d'association dont l'objet social est aligné avec celui de la startup...), ou encore de __personnalités politiques__ (élus nationaux ou locaux, membres de cabinets...) que vous aimeriez revoir tous les 6 mois.
 
 Un Conseil, ou plutôt :
 * un rendez-vous régulier,
@@ -48,4 +48,4 @@ Un Conseil, ou plutôt :
 
 Et bien sûr, ce n'est pas son rôle que de définir les fonctionnalités à produire ou de vérifier la feuille de route précise d'un projet. Bref, un Conseil ne micro-manage pas l'activité des startups.
 
-Au fond, ce Conseil sera une Amicale des Sponsors de la Transformation Publique induite par votre produit ... que vous aurez recrutée au long du chemin !
+Au fond, ce Conseil sera une Amicale des Sponsors de la Transformation Publique induite par votre produit... que vous aurez recrutée au long du chemin !

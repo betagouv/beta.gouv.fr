@@ -7,6 +7,6 @@ startups :
     - aplus
 ---
 
-Dilamiseuse d'ambiance ...
+Dilamiseuse d'ambiance...
 
 ...Non je ne suis pas folle, je suis une drôle de dame.
