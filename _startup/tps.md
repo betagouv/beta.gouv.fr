@@ -2,11 +2,11 @@
 title: Téléprocédures Simplifiées
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
 link: https://tps.apientreprise.fr
-repository: https://github.com/sgmap/tps
+repository: https://github.com/betagouv/tps
 status: consolidation
 contact: contact@tps.apientreprise.fr
 start: 2015-09-15
-owner: SGMAP
+owner: DINSIC
 stats: true
 ---
 
@@ -58,7 +58,7 @@ TPS est pour vous.
 
 **Contact**
 
-TPS est développé par l’incubateur de services numériques du Secrétariat Général de la Modernisation de l’Action Publique (SGMAP), rattaché aux services du Premier ministre.
+TPS est développé par l’incubateur de services numériques de la direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC), rattaché aux services du Premier ministre.
 
 Vous voulez en savoir plus ? Vous voulez une démo ? Pour nous contacter :
 - Email : contact@tps.apientreprise.fr

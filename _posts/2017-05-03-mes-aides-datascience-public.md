@@ -20,7 +20,7 @@ En analysant ces données, nous souhaitions être mieux équipés pour :
 - Orienter des décisions de préremplissage pour accélérer encore la saisie pour les cas les plus habituels.
 
 > Pour rappel, les situations que nous enregistrons ne contiennent [aucune information nominative](https://mes-aides.gouv.fr/cgu#donnees).
-> L'intégralité des manipulations effectuées est disponible dans un [notebook iPython](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/stats_descr.ipynb).
+> L'intégralité des manipulations effectuées est disponible dans un [notebook iPython](https://github.com/betagouv/mes-aides-analytics/blob/dev/python/stats_descr.ipynb).
 
 
 ## Résultats
@@ -31,7 +31,7 @@ Les communes où Mes Aides est le plus utilisé sont les communes les plus peup
 
 ![La densité de population détermine la fréquence d'usage.](/img/posts/2017-05-03-mes-aides-datascience-public/repartition-usage-villes.jpg)
 
-Contrairement à une idée reçue, on n'observe [pas de corrélation](https://github.com/sgmap/mes-aides-analytics/blob/dev/python/plot_CP.ipynb) significative entre pauvreté et usage de Mes Aides (pour un indicateur habituel de pauvreté qu'est la médiane du revenu disponible par unité de consommation).
+Contrairement à une idée reçue, on n'observe [pas de corrélation](https://github.com/betagouv/mes-aides-analytics/blob/dev/python/plot_CP.ipynb) significative entre pauvreté et usage de Mes Aides (pour un indicateur habituel de pauvreté qu'est la médiane du revenu disponible par unité de consommation).
 
 Une exception à ce constat est la région Île-de-France.
 
@@ -85,7 +85,7 @@ Dans notre cas, en parallèle des améliorations continues que nous menons et de
 Cette analyse est basée sur des données recueillies entre avril 2015 et mai 2016. Nous avons retiré de l'échantillon :
 
 - Les individus de plus de 120 ans, car la probabilité qu'il s'agisse de tests est très élevée (100 % [d’après Wikipédia](https://fr.wikipedia.org/wiki/Liste_de_grands_centenaires_fran%C3%A7ais)).
-- Les individus ayant des caractéristiques utilisées systématiquement comme valeurs de test : la commune de [Beaumont-en-Verdunois](https://fr.wikipedia.org/wiki/Beaumont-en-Verdunois) est par exemple utilisée comme ville de test, car il s’agit d’une commune n’ayant plus aucun habitant depuis la Première Guerre mondiale (si cela vous intéresse, nous avons d’autres [codes postaux de test](https://github.com/sgmap/codes-postaux#notable-subset) à recommander).
+- Les individus ayant des caractéristiques utilisées systématiquement comme valeurs de test : la commune de [Beaumont-en-Verdunois](https://fr.wikipedia.org/wiki/Beaumont-en-Verdunois) est par exemple utilisée comme ville de test, car il s’agit d’une commune n’ayant plus aucun habitant depuis la Première Guerre mondiale (si cela vous intéresse, nous avons d’autres [codes postaux de test](https://github.com/betagouv/codes-postaux#notable-subset) à recommander).
 
 ### Test de cohérence
 
@@ -107,7 +107,7 @@ Aucune situation individuelle ne peut donc être considérée comme reflétant u
 Cette étude est basée sur une cohorte de plusieurs dizaines de milliers de demandeurs d'emploi identifiés individuellement par Pôle Emploi. Contactés par email, les personnes volontaires sont invitées à se connecter à Mes Aides à travers un lien spécial. Leur parcours sur le site est alors suivi individuellement dans une base de données séparée.
 
 > Cette base de données, opérée par le Poverty Action Lab, n'est accessible qu'à ses agents et sera détruite après 36 mois.
-> Vous pouvez auditer le [code de suivi](https://github.com/sgmap/mes-aides-ui/pull/288) qui transmet les données des situations à cette base de données.
+> Vous pouvez auditer le [code de suivi](https://github.com/betagouv/mes-aides-ui/pull/288) qui transmet les données des situations à cette base de données.
 
 Suite à cette étude, Pôle Emploi fera une demande au [Registre National Commun des Prestations Sociales](http://www.securite-sociale.fr/Repertoire-National-Commun-de-la-Protection-Sociale-RNCPS) (RNCPS) pour chacune des personnes ayant participé à l’étude.
 

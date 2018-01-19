@@ -5,7 +5,7 @@ status: passation
 contact: contact@anah.beta.gouv.fr
 owner: Agence nationale de l’habitat
 start: 2016-05-01
-repository: https://github.com/sgmap/mpal
+repository: https://github.com/betagouv/mpal
 ---
 
 Vous reculez devant un projet d’amélioration de votre logement pourtant nécessaire à votre santé et votre confort, car la complexité des démarches vous effraie : vous ne savez pas à qui vous adresser, vous ne savez pas évaluer le coût restant de votre poche, vous ne savez pas combien de temps cela prendra.

@@ -1,9 +1,9 @@
 ---
 fullname: Mauko Quiroga
-role: Incarnation catégorique
+role: Sorcier
 link: http://mauko.me/
 start: 2016-02-15
-end: 2017-12-19
+end: 2018-03-31
 employer: independent/octo
 startups:
     - transport
