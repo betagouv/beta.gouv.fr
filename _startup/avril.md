@@ -25,4 +25,3 @@ Malheureusement pour Marie-Cécile, __ce dispositif est méconnu__ et reste __co
 Avril aidera Marie-Cécile a trouver le diplôme qui lui correspond suivant son expérience et ses compétences. Pour tous les demandeurs d'emploi, les actifs, les conseillers emplois ainsi que les employeurs, Avril deviendra le moyen le plus simple de se certifier. __Nous accompagnerons le candidat dans sa démarche : diagnostic des compétences, identification des certifications et des certificateurs, mise en oeuvre de la démarche de VAE__.
 
 Nous déploierons Avril en Île-de-France sur les certifications les plus populaires (CAP petite enfance, DEAS, TP ADVF…) avant un déploiement national. Avril sera présent sur l'emploi-store, l'espace employeur, dans le script d'inscription du demandeur d'emploi sur pole-emploi.fr, ainsi que sur les job boards afin de proposer un diplôme selon le profil du candidat.
-

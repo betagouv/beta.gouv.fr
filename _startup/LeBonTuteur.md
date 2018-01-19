@@ -24,4 +24,3 @@ Le service numérique sera testé dans un premier temps sur le Nord Pas de Calai
 Le rapport de la Cour des Comptes 2016 sur la protection juridique des majeurs confirme l’insuffisance des outils actuels dans la gestion des mesures de protection.
 
 Le Bon Tuteur est une première réponse pour une meilleure gestion des mesures de protection et a pour objectif de simplifier à terme toutes les démarches des personnes sous protection.
-

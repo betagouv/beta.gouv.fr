@@ -39,6 +39,3 @@ L’outil concerne dans un premier temps les aides relatives à l’aménagement
 L’objectif pour la première version est d’avoir rapidement une base de données représentative des aides disponibles, en s’appuyant sur une communauté de contributeurs constituée dans les administrations ci-dessus citées, passant par la mobilisation de toute la chaîne de production et de sollicitation des aides.
 
 Certains territoires sont en avance sur ce sujet, ils pourront figurer parmi les premiers utilisateurs et permettront de définir les différents critères pour faciliter la sélection des aides. C’est le cas de la la Nouvelle Aquitaine, où la DREAL organise la veille sur les aides. Dans une approche un peu différente, l’Outre-Mer pourrait tester le couplage de l’outil numérique avec un guichet physique.
-
-
-

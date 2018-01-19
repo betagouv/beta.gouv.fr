@@ -37,4 +37,3 @@ Linux, Python, Django, Html, Css, Git, Docker, Rancher, Ansible, OpenStack, SQL,
 
 ## Postuler
 Merci d'envoyer votre candidature (CV et lettre de motivation) par mail à samuel.paccoud@fun-mooc.fr avec pour objet « FUN-MOOC - Recrutement • Développeur Python Django».
-

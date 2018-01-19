@@ -56,5 +56,3 @@ Démarrage des projets en Janvier.
 Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à recrutement@beta.gouv.fr.
 
 À bientôt ! 😀
-
-
