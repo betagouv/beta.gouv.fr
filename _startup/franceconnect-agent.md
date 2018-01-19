@@ -6,4 +6,4 @@ contact: guillaume.harry@beta.gouv.fr
 start: 2017-10-18
 owner: FranceConnect Agent
 ---
-FranceConnect Agent permet aux agents du service public et aux élus d'utiliser un compte unique pour accéder aux services des différentes administrations et collectivités. 
+FranceConnect Agent permet aux agents du service public et aux élus d'utiliser un compte unique pour accéder aux services des différentes administrations et collectivités.

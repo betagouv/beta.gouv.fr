@@ -1,17 +1,17 @@
 ---
 title: A+, le service public VIP pour tous.
 mission: La communauté des Agents A+ vous aide à résoudre les blocages administratifs.
-link: 
+link:
 repository:
 status: construction
 contact: contact@aplus.beta.gouv.fr
 start: 2017-10-01
 owner: DILA
 ---
- 
+
 ## Des blocages administratifs parfois dramatiques
 
-Qui n’a pas vécu ce casse-tête : démarche en attente, pièces manquantes, renvoi d’un guichet débordé à l’autre, dossier perdu, information en ligne insuffisante… ? 
+Qui n’a pas vécu ce casse-tête : démarche en attente, pièces manquantes, renvoi d’un guichet débordé à l’autre, dossier perdu, information en ligne insuffisante… ?
 
 Les conséquences peuvent être graves : l’usager peut basculer dans la précarité à cause d’un blocage absurde de son dossier entre administrations.
 
@@ -29,7 +29,7 @@ L'agent A+ utilise l'espace collaboratif de la communauté  pour chercher les ra
 
 ## Démarrage par des pilotes locaux
 
-La communauté des A+ est en train d’être constituée. 
+La communauté des A+ est en train d’être constituée.
 Nous commençons par des expérimentations sur des territoires pilotes, avec un service accessible uniquement à la communauté des agents.
 Après l'expérimentation et la généralisation du service au niveau national, le suivi des démarches sera intégré au compte personnel de l'usager sur service-public.fr.
 

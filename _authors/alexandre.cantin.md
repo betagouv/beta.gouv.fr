@@ -1,5 +1,5 @@
 ---
-fullname: Alexandre Cantin 
+fullname: Alexandre Cantin
 role: Développeur
 start: 2017-09-18
 employer: admin/pole-emploi

@@ -23,7 +23,7 @@ Afin d’avoir des retours rapides et enrichir notre couverture d’aides locale
 A terme Clara sera intégré dans les services déjà connus de demandeurs d'emploi et des conseiller·e·s :
 
 * Lors de la consultation des offres par les demandeurs d’emploi
-* Dans le profil du demandeur d’emploi sur pole-emploi.fr 
+* Dans le profil du demandeur d’emploi sur pole-emploi.fr
 * Sur le CV du demandeur d’emploi
 * Dans le profil consulté par les conseiller·e·s emplois (Aude)
 * Sur Map, mes-aides.gouv.fr, embauche.gouv.fr et sur le portail du CPA

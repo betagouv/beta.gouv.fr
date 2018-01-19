@@ -4,7 +4,7 @@ startup: workinfrance
 open: true
 ---
 
-WorkinFrance est une des premières Start-up d'Etat du ministère des Affaires sociales et cherche un dèv·e pour faciliter les demandes d'autorisation de travail pour les étrangers en France. 
+WorkinFrance est une des premières Start-up d'Etat du ministère des Affaires sociales et cherche un dèv·e pour faciliter les demandes d'autorisation de travail pour les étrangers en France.
 
 <!--more-->
 
@@ -12,15 +12,15 @@ Vous êtes développeur full stack, et voulez mettre vos compétences au profit 
 
 Vous êtes à votre aise dans les contextes de petites équipes autonomes, agiles, et proches de leurs utilisateurs ?
 
-Vous avez à cœur de rendre un service de qualité qui transforme la relation des usagers aux services publics, y compris en outillant des contributeurs/ré-utilisateurs potentiellement peu à l’aise avec le développement logiciel ? 
+Vous avez à cœur de rendre un service de qualité qui transforme la relation des usagers aux services publics, y compris en outillant des contributeurs/ré-utilisateurs potentiellement peu à l’aise avec le développement logiciel ?
 
 En rejoignant une Startup d'État, vous participez à l’aventure d’une nouvelle vision de  l’administration, moderne et proche de ses usagers.
 
 ## Présentation
 
-L’équipe WorkInFrance cherche un·e développeur·se web fullstack indépendant·e pour ses 6 premiers mois. 
+L’équipe WorkInFrance cherche un·e développeur·se web fullstack indépendant·e pour ses 6 premiers mois.
 
-WorkInFrance est une des startups d'État du ministère des Solidarités et de la Santé qui s’est lancée dans la simplification des demandes d’autorisations de travail pour les travailleurs étrangers. 
+WorkInFrance est une des startups d'État du ministère des Solidarités et de la Santé qui s’est lancée dans la simplification des demandes d’autorisations de travail pour les travailleurs étrangers.
 
 ## Responsabilités
 
