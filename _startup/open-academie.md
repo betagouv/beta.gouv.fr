@@ -6,7 +6,7 @@ repository: https://github.com/betagouv/open-academie
 status: consolidation
 contact: pierre.de-maulmont@ac-paris.fr
 start: 2015-01
-owner: Éducation nationale
+owner: Ministère de l'Éducation nationale
 redirect_from:
   - /startup/openacademie
 ---
