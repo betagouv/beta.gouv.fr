@@ -15,7 +15,7 @@ Notre ambition est d'apporter de nouveaux outils et bonnes pratiques permettant 
 
 ## Qu'est-ce que la passerelle Inspire ?
 
-Il s'agit d'un ensemble d'outils permettant de publier des jeux de données géographiques _"Inspire"_  sur la plateforme des données publiques françaises, [data.gouv.fr](https://www.data.gouv.fr).
+Il s'agit d'un ensemble d'outils permettant de publier des jeux de données géographiques _"Inspire"_ sur la plateforme des données publiques françaises, [data.gouv.fr](https://www.data.gouv.fr).
 
 Elle répond à plusieurs objectifs :
 

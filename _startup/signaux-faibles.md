@@ -5,7 +5,7 @@ domain:
 repository:
 status: construction
 contact: pierre@pezziardi.net
-start: 2014-05-15  # date au format ISO (AAAA-MM-DD)
+start: 2014-05-15 # date au format ISO (AAAA-MM-DD)
 owner: DINSIC
 ---
 

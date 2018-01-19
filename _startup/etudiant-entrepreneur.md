@@ -40,4 +40,3 @@ La mise en place d’une plate-forme communautaire de services destinée à tous
 
 
 Le service est construit de façon itérative en le confrontant systématiquement à ses utilisateurs afin de prioriser les améliorations en fonction de leurs attentes.
-

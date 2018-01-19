@@ -3,7 +3,7 @@ title: Le Board, une planche de salut ?
 authors: pierre.pezziardi
 ---
 
-À beta.gouv.fr, nous encourageons la constitution d'écosystèmes d'innovateurs au plus près de chaque administration et de ses usagers. 
+À beta.gouv.fr, nous encourageons la constitution d'écosystèmes d'innovateurs au plus près de chaque administration et de ses usagers.
 
 L'incubateur de Pôle emploi a été créé en 2014 dans cette perspective et compte désormais 6 startups pour un budget annuel de 3 M€, mais surtout un [impact majeur sur l'institution](http://videos.assemblee-nationale.fr/video.5293706_5a27bdce077fa.commission-des-affaires-sociales--m-jean-basseres-dont-le-renouvellement-de-dg-de-pole-emploi-est-6-decembre-2017) (écouter notamment à 32", 1'07, 1'23, 1'32, 1'50 et 1'56).
 
@@ -14,7 +14,7 @@ Ces chiffres vont doubler en 2018. Mais ces résultats ne sont pas le fruit du h
 Un Conseil d'Administration, c'est l'autorité à laquelle on rend des comptes, mais aussi celle qui désire ardemment le succès de la Startup et qui va y contribuer.
 
 ## Redevabilité
-Dans le contexte de Pôle emploi, ce Conseil d'Administration prend la forme d'une réunion semestrielle devant le comité de direction. La startup y présente avant tout son impact et ses objectifs pour le prochain semestre. On relira avantageusement [No more digital bullshit](https://beta.gouv.fr/2017/03/24/no-more-digital-bullshit-please.html) pour bien faire la différence entre mesure d'impact dans le monde réel et métriques de « vanité ». 
+Dans le contexte de Pôle emploi, ce Conseil d'Administration prend la forme d'une réunion semestrielle devant le comité de direction. La startup y présente avant tout son impact et ses objectifs pour le prochain semestre. On relira avantageusement [No more digital bullshit](https://beta.gouv.fr/2017/03/24/no-more-digital-bullshit-please.html) pour bien faire la différence entre mesure d'impact dans le monde réel et métriques de « vanité ».
 
 C'est face à ces objectifs que le Conseil décide de poursuivre l'investissement, de l'accélerer ou de l'arrêter : il n'y a pas de dépense d'argent public qui ne soit justifiée par une contribution à une politique publique. Par exemple, [si l'on dépense encore 1 €/an dans laBonneBoite, c'est que l'on en gagne 60 €/an en mois de chômage évités](http://www.fondapol.org/wp-content/uploads/2017/01/096-PEZZIARDI_2016-12-22-web.pdf).
 
@@ -39,7 +39,7 @@ Si vous êtes une Startup d'État, vous avez probablement autour de vous un Open
 
 Mais à un moment donné, les problèmes des sponsors deviennent les problèmes des usagers quand une startup ne se déploie pas à hauteur de sa « part de marché » naturelle !
 
-La plupart des Startups d'État sont des initiatives "bottom-up" qui n'ont pas bénéficié d'une phase de consensus en amont et réuni autour d'elle un tour de table de sponsors. Alors si tel est votre cas, si vous vous interrogez sur l'intérêt à poursuivre l'investissement dans votre produit ou si vous souffrez d'un manque de soutien politique, c'est peut-être le moment de réunir autour de vous un second cercle formé de __dirigeants__ (secrétaires généraux, directeurs.ices d'administration centrale, directeurs.ices généraux des services ..), de __personnalités qualifiées__ (dirigeants d'association dont l'objet social est aligné avec celui de la startup,  ..), ou encore de __personnalités politiques__ (élus nationaux ou locaux, membres de cabinets ..) que vous aimeriez revoir tous les 6 mois. 
+La plupart des Startups d'État sont des initiatives "bottom-up" qui n'ont pas bénéficié d'une phase de consensus en amont et réuni autour d'elle un tour de table de sponsors. Alors si tel est votre cas, si vous vous interrogez sur l'intérêt à poursuivre l'investissement dans votre produit ou si vous souffrez d'un manque de soutien politique, c'est peut-être le moment de réunir autour de vous un second cercle formé de __dirigeants__ (secrétaires généraux, directeurs.ices d'administration centrale, directeurs.ices généraux des services ..), de __personnalités qualifiées__ (dirigeants d'association dont l'objet social est aligné avec celui de la startup, ..), ou encore de __personnalités politiques__ (élus nationaux ou locaux, membres de cabinets ..) que vous aimeriez revoir tous les 6 mois.
 
 Un Conseil, ou plutôt :
 * un rendez-vous régulier,
