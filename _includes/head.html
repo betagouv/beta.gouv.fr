@@ -46,7 +46,7 @@
     <link rel="stylesheet" type="text/css" href="/css/startup-card.css">
     <link rel="stylesheet" type="text/css" href="/css/tooltip.css">
 
-    {% if page.layout != 'default' %}
+    {% if !['default', 'text'].include?(page.layout) %}
         <link rel="stylesheet" type="text/css" href="/css/{{ page.layout }}.css">
     {% endif %}
 
