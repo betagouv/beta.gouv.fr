@@ -5,7 +5,7 @@ techno: Choix technologiques ouverts parmi les solutions libres du marché
 open: true
 ---
 
-Les Startups d'État du ministère de la Transition Écologique et Solidaire cherchent leurs développeurs.
+Les Startups d'État du Ministère de la Transition Écologique et Solidaire cherchent leurs développeurs.
 
 <!--more-->
 
