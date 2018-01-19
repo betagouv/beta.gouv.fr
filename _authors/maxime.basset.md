@@ -5,8 +5,8 @@ avatar: https://i.imgur.com/QMHjIph.png
 start: 2017-09-01
 employer: service/NUMA
 startups:
-    - Work In France
-    - Le Bon Tuteur
+    - workinfrance
+    - LeBonTuteur
 ---
 
 Harder Better Faster Stronger.
