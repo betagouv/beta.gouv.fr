@@ -11,7 +11,7 @@ Au bout d’un à trois ans, une startup incubée aura obtenu à peu de frais la
 
 ## Le mariage impossible
 
-Les services construits par des Startups d’État sont le fruit de pratiques souvent très différentes de celles en vigueur dans les directions informatiques des administrations. Équipes produit intégrées au contact direct de l’usager, itérations courtes (livraison d’une nouvelle version toutes les deux semaines) et permanentes (le produit ne cessera de s’améliorer tant qu’il aura des usagers)… 
+Les services construits par des Startups d’État sont le fruit de pratiques souvent très différentes de celles en vigueur dans les directions informatiques des administrations. Équipes produit intégrées au contact direct de l’usager, itérations courtes (livraison d’une nouvelle version toutes les deux semaines) et permanentes (le produit ne cessera de s’améliorer tant qu’il aura des usagers)…
 
 Les DSI des administrations sont quant à elles plus habituées à une séparation des rôles entre maîtrise d’ouvrage, maîtrise d’oeuvre, architecture, sécurité, achats, recette, équipes d’exploitation, gestion du changement, TMA… Cette organisation fonctionne en étapes longues de plusieurs mois structurées par des contrats formels (cahier des charges, spécifications, cahier de recette, dossier de sécurité, cahier d’exploitation…). Une séparation nette est maintenue entre équipes « projet » auxquelles succèdent des équipes « maintenance », là où une Startup d’État ne retient qu’une équipe permanente, à l'affût des améliorations permettant d’améliorer et de diffuser le service.
 
@@ -21,7 +21,7 @@ Transférer un service public numérique d’une petite organisation de culture 
 
 À la vérité, l’immense majorité des DSI souhaite aujourd’hui intégrer de nouvelles manières de faire, sans toujours trouver le chemin qui leur permette de s’extraire d’habitudes ancrées dans l’organisation.
 
-Accueillir une équipe travaillant autrement est donc une opportunité unique d’initier un tel changement, sans rupture. En effet, rien n’empêche la DSI de fonctionner dans ses habitudes et son organisation classique MOA/MOE/Exploitation, et d’héberger dans le même temps des équipes intégrées, de l’utilisateur à l’exploitant, en passant par le développeur. 
+Accueillir une équipe travaillant autrement est donc une opportunité unique d’initier un tel changement, sans rupture. En effet, rien n’empêche la DSI de fonctionner dans ses habitudes et son organisation classique MOA/MOE/Exploitation, et d’héberger dans le même temps des équipes intégrées, de l’utilisateur à l’exploitant, en passant par le développeur.
 
 Les bénéfices sont triples :
 

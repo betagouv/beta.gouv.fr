@@ -21,7 +21,7 @@ ref: blog
             {% if post.authors %}
                 {% for author in post.authors %}
                     {% capture id %}/authors/{{ author }}{% endcapture %}
-                    {% assign description = site.authors | where:"id", id  | first %}
+                    {% assign description = site.authors | where:"id", id | first %}
 
                     {% capture avatar %}
                         <img class="ui avatar image" alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}/img{{ description.id }}.jpg{% endif %}" />
@@ -59,7 +59,7 @@ ref: blog
                 {{ post.excerpt }}
             </div>
 
-            <a href="{{ post.url }}">Lire la suite...</a>
+            <a href="{{ post.url }}">Lire la suite…</a>
         </li>
     {% endfor %}
     </ul>

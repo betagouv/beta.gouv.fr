@@ -6,7 +6,7 @@ repository:
 status: investigation
 contact: pierre.pezziardi@beta.gouv.fr
 start: 2014-12-15
-owner: SGMAP
+owner: DINSIC
 ---
 
 ## Autoliquidation par prélèvement à la source des cotisations sociales des indépendants
@@ -34,12 +34,12 @@ Supprimer entièrement le décalage temporel entre rentrée de chiffre d'affaire
 ### Le «&nbsp;consentement au prélèvement social&nbsp;»
 
 Un tel processus crée un rapport simple au paiement des charges sociales, sans surprise car immédiat et définitif.
-Il établit un lien direct, transparent et volontaire, entre le bénéfice d'une rémunération et le paiement de cotisations sociales. Enfin, l’indépendant trouvera dans son espace personnel toutes les informations sur les droits ouverts par ses cotisations : santé, retraite, formation ... Ces organismes se limitant désormais à la gestion des droits.
+Il établit un lien direct, transparent et volontaire, entre le bénéfice d'une rémunération et le paiement de cotisations sociales. Enfin, l’indépendant trouvera dans son espace personnel toutes les informations sur les droits ouverts par ses cotisations : santé, retraite, formation… Ces organismes se limitant désormais à la gestion des droits.
 
 #### Différence avec le système d’autoliquidation historiquement proposé par les experts comptables
 
 Les experts comptables proposent de faire eux-mêmes le calcul des cotisations sociales et de les verser directement aux organismes chaque fois qu'un indépendant souhaite se verser une rémunération. Cette proposition permet, comme pour le dispositif proposé, de verser une rémunération et de payer les cotisations afférentes dans une même unité de temps.
-Le dispositif proposé va plus loin puisqu'il prend en charge le calcul des cotisations, celui-ci étant réalisé automatiquement, et donc avec une fiabilité garantie, à l'image des simplifications majeures apportées par le Chèque Emploi Service ou le Titre Emploi Service Entreprise. 
+Le dispositif proposé va plus loin puisqu'il prend en charge le calcul des cotisations, celui-ci étant réalisé automatiquement, et donc avec une fiabilité garantie, à l'image des simplifications majeures apportées par le Chèque Emploi Service ou le Titre Emploi Service Entreprise.
 
 ### Périmètre d'application
 
@@ -48,7 +48,7 @@ Le dispositif d'autoliquidation peut s'appliquer à tous les indépendants, arti
 - à l'IS : la détermination des cotisations se fonde uniquement sur le montant de la rémunération, le système demande donc la rémunération nette souhaitée, demande de valider que le compte soit provisionné du montant chargé et procède au prélèvement puis au virement ;
 - à l'IR : la détermination des cotisations se fonde sur le bénéfice de l'entreprise, or il n'est connu qu'à la fin de l'exercice. Pour autant, l'entrepreneur individuel se paye régulièrement. L'interface propose donc comme précédemment de saisir la rémunération nette souhaitée, en aidant l'usager à estimer son résultat mensuel pour éviter de trop grands écarts de régularisation en fin de cycle.
 
-Enfin les auto-entrepreneurs disposent déjà d'un régime simplifié avec des cotisations assises sur un chiffre d'affaire, et non sur une rémunération, et un dispositif d'autoliquidation : l'auto-entrepreneur détermine lui-même ses charges et les verse à la Sécurité sociale pour les indépendants. Le dispositif  n'a donc pas d'intérêt particulier pour eux.
+Enfin les auto-entrepreneurs disposent déjà d'un régime simplifié avec des cotisations assises sur un chiffre d'affaire, et non sur une rémunération, et un dispositif d'autoliquidation : l'auto-entrepreneur détermine lui-même ses charges et les verse à la Sécurité sociale pour les indépendants. Le dispositif n'a donc pas d'intérêt particulier pour eux.
 
 ### Recouvrement amiable, recouvrement contentieux, fraude
 
@@ -60,7 +60,7 @@ En réduisant considérablement le taux d'anomalies, nous libérons des gains im
 
 ### La démarche de mise en œuvre : héberger l'innovation
 
-Le dispositif de prélèvement à la source est une innovation radicale. L’État, par le SGMAP, s'est doté d'un savoir-faire en matière d'innovation à travers le concept de «&nbsp;Start-up  d’État&nbsp;», celui-ci transpose les bonnes pratiques de l'innovation qui ont fait leurs preuves dans la nouvelle économie :
+Le dispositif de prélèvement à la source est une innovation radicale. L’État, par la DINSIC, s'est doté d'un savoir-faire en matière d'innovation à travers le concept de «&nbsp;Start-up d’État&nbsp;», celui-ci transpose les bonnes pratiques de l'innovation qui ont fait leurs preuves dans la nouvelle économie :
 
 - L'engagement d'un dirigeant pour défendre l'innovation à travers son portage économique et l'adoption d'une attitude bienveillante : passer d'une logique de «&nbsp;pourquoi ?&nbsp;» à une logique de «&nbsp;pourquoi pas ?&nbsp;».
 - La mobilisation d'une équipe restreinte capable de développer rapidement, en méthode agile, le produit réglementaire et le système d'information support de l'innovation. L'expérience montre qu'il est nécessaire que cette équipe soit isolée de l'environnement opérationnel courant qui ne peut que tendre vers la reproduction ou à des arbitrages de ressources ou de calendrier défavorables.
@@ -69,6 +69,6 @@ Le dispositif de prélèvement à la source est une innovation radicale. L’Ét
 - L'arrêt de l'innovation dés lors qu'elle ne rencontre pas un marché pour limiter les risques économiques et les «&nbsp;fausses bonnes idées&nbsp;».
 La reprise du produit par un acteur de taille importante, ici l'ACOSS a priori, après 18 à 24 mois d’incubation.
 
-La  Startup d'État peut être hébergée au SGMAP, dans un ministère ou un établissement doté d'une entité d'accueil de l'innovation ou souhaitant la créer. Le champ d'expérimentation doit plutôt être délimité par le volontariat des usagers que par une obligation sur un territoire. Cibler les nouveaux indépendants créateurs d'entreprise permettra d'éviter les difficultés liées à des reprises d'historique.
+La Startup d'État peut être hébergée à la DINSIC, dans un ministère ou un établissement doté d'une entité d'accueil de l'innovation ou souhaitant la créer. Le champ d'expérimentation doit plutôt être délimité par le volontariat des usagers que par une obligation sur un territoire. Cibler les nouveaux indépendants créateurs d'entreprise permettra d'éviter les difficultés liées à des reprises d'historique.
 
 La gouvernance du projet s'appuiera sur le modèle des startups d'État, c'est à dire constituée d'une équipe pluridisciplinaire autonome sur le produit et pilotée stratégiquement par un comité sponsor réunissant les représentants des ministères de tutelle, du parlement, de la Sécurité sociale pour les indépendants, de l’ACOSS, des chambres consulaires, des organismes conventionnés…

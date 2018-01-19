@@ -7,7 +7,7 @@ status: success
 contact: emmanuel@raviart.com
 logo: /img/logos/ogptoolbox.png
 start: 2016-06-08
-owner: Etalab - Open Government Partnership
+owner: Etalab / Open Government Partnership
 ---
 
 OGP Toolbox est un réseau social pour trouver et partager des outils numériques efficaces au service de l'ouverture des gouvernments et des sociétés civiles.
@@ -27,4 +27,3 @@ The tools range from civic tech, open data, parliament transparency, law transpa
 Inside OGP Toolbox, you will find tools, but also people and success stories!
 
 Public: Citizens, National governements, Local governments, Political movements, Non-profit organizations
-

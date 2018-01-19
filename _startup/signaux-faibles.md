@@ -5,8 +5,8 @@ domain:
 repository:
 status: construction
 contact: pierre@pezziardi.net
-start: 2014-05-15  # date au format ISO (AAAA-MM-DD)
-owner: SGMAP
+start: 2014-05-15 # date au format ISO (AAAA-MM-DD)
+owner: DINSIC
 ---
 
 ## Fiche produit

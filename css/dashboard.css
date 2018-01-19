@@ -52,7 +52,7 @@
 }
 
 .counter--endgame .counter {
-    min-height: 6em;  /* for IE11 */
+    min-height: 6em; /* for IE11 */
 }
 
 @media (max-width: 50em) {

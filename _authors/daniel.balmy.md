@@ -8,4 +8,4 @@ startups:
     - workinfrance
 ---
 
-Linchpin mindset, fighting mediocrity, the status quo... and the lizard brain!
+Linchpin mindset, fighting mediocrity, the status quo… and the lizard brain!

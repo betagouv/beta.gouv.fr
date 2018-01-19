@@ -1,8 +1,8 @@
 ---
 fullname: Sebastian Sachetti
 role: Business developer
-start: 2017-04-10 
-employer: dinsic 
+start: 2017-04-10
+employer: dinsic
 startups:
     - aplus
     - 'api-particulier'
