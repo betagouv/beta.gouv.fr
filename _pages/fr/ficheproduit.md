@@ -41,4 +41,4 @@ Qapa ou Leboncoin ont innové sur la facilité d’accès aux offres d’emploi,
 
 ### Une communauté de prescripteurs
 
-Le lancement du service s'appuiera sur des relais : Conseillers Pôle Emploi, Missions Locales (jeunes), CSP (licenciés économiques), Conseil Généraux (bénéficiaires du RSA), associations (publics éloignés de l'emploi), sites dédiés à l'emploi… Ces acteurs auront naturellement intérêt à utiliser et prescrire un outil qui offre une fenêtre sur 75% du marché du travail… et pas 25%.
+Le lancement du service s'appuiera sur des relais : Conseillers Pôle emploi, Missions Locales (jeunes), CSP (licenciés économiques), Conseil Généraux (bénéficiaires du RSA), associations (publics éloignés de l'emploi), sites dédiés à l'emploi… Ces acteurs auront naturellement intérêt à utiliser et prescrire un outil qui offre une fenêtre sur 75% du marché du travail… et pas 25%.

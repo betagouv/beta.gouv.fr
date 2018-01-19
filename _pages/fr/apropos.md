@@ -21,7 +21,7 @@ La complexité administrative s’est bâtie à la fois sur le cloisonnement des
 
 Agir selon un principe de confiance, cela signifie pouvoir déposer une candidature à un marché public avec simplement son numéro SIRET et recueillir une déclaration sur l’honneur, plutôt qu’exiger des attestations ou une signature numérique compliquée. Cette confiance vis-à-vis des usagers induit de la simplicité.
 
-Tourné vers les agents, ce principe de confiance accélère le décloisonnement en leur offrant les mêmes niveaux d’accès. Il devient par exemple possible d'instruire un dossier de subvention entre collectivités et préfecture, ou un dossier d'aide sociale entre Pôle Emploi, la CAF et un Conseil Départemental.
+Tourné vers les agents, ce principe de confiance accélère le décloisonnement en leur offrant les mêmes niveaux d’accès. Il devient par exemple possible d'instruire un dossier de subvention entre collectivités et préfecture, ou un dossier d'aide sociale entre Pôle emploi, la CAF et un Conseil Départemental.
 
 Le design numérique par la confiance, c’est aussi reconnaître la nécessité du contrôle, mais pas à n'importe quel prix : contrôle ex-post des attestations aux seuls candidats retenus, pression sociale sur la réputation, évaluation et signalement par les internautes, audit des accès par les agents publics…
 
