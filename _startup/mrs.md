@@ -6,7 +6,7 @@ repository:
 status: investigation
 contact: frederic.boulay@beta.gouv.fr
 start: 2017-10-01
-owner: CNAMTS - CPAM de la Haute-Garonne (31)
+owner: CNAMTS / CPAM de la Haute-Garonne (31)
 ---
 
 ## Fiche produit
