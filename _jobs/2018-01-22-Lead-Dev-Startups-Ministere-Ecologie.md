@@ -1,16 +1,16 @@
 ---
-roles: Lead Dev d'une Startup d'État du Ministère de L'écologie
+roles: Un·e Lead Dev d'une Startup d'État du Ministère de L'écologie
 startup: Startups d'État du Ministère de l'écologie
-techno: Choix libre
+techno: Choix technologiques ouverts parmi les solutions libres du marché
 open: true
 ---
 
-#H1 Les Startups d'État du Ministère de l'Écologie cherchent leurs développeurs !
-
 Les Startups d'Etat du ministère de la Transition Écologique et Solidaire cherchent leurs développeurs.
 
+<!--more-->
 
-## H2 Présentation
+
+Présentation
 
 Vous êtes développeur full stack, et voulez mettre vos compétences au profit de l’amélioration du service public ? Vous êtes à votre aise dans les contextes de petites équipes autonomes, agiles, et proches de leurs utilisateurs ?
 
@@ -19,7 +19,7 @@ Vous avez à cœur de rendre un service de qualité qui transforme la relation d
 En rejoignant une Startup d’État, vous participez à l’aventure d’une nouvelle vision de l’administration, moderne et proche de ses usagers.
 
 
-## H2 Responsabilités
+Responsabilités
 
 Vous serez en charge de construire (from scratch) le service pour les usagers. Vous participez à la conception, aux études terrain, aux tests utilisateur avec les intrapreneurs.
 
@@ -33,7 +33,7 @@ La découverte : « Vite un prototype pour tester une hypothèse avec des utilis
 L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
 
 
-## H2 Compétences
+Compétences
 
 * Développeur web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, Rails, Symfony, Laravel, Django/Flask…).
 * Bonne maîtrise du développement front-end (HTML, CSS, Javascript).
@@ -41,7 +41,7 @@ L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur 
 * Expérience de l’écosystème technique web : test AB, analytics…
 * Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
 
-## H2 Modalités
+Modalités
 
 * Poste ouvert pour un·e indépendant·e pour un contrat de 6 mois.
 * Télétravail partiel bienvenu, avec une présence régulière à Paris (La Défense) pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification
