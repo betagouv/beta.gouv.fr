@@ -14,7 +14,7 @@ redirect_from:
 Des entrepreneurs isolés, des conseils cloisonnés
 =================================================
 
-Plus de 2 000 aides publiques existent mais les chefs entreprises n’ont ni le temps, ni les moyens d’en faire la demande. De nombreux organismes publics - Chambres de Commerce, DIRECCTE, Région... - ont donc déployé sur le terrain des conseillers pour apporter directement ces aides aux entreprises.
+Plus de 2 000 aides publiques existent mais les chefs entreprises n’ont ni le temps, ni les moyens d’en faire la demande. De nombreux organismes publics - Chambres de Commerce, DIRECCTE, Région… - ont donc déployé sur le terrain des conseillers pour apporter directement ces aides aux entreprises.
 
 
 L’activité de ces conseillers est aujourd’hui confrontée à un double problème de ciblage et de cloisonnement. D’une part, les conseillers ciblent fréquemment les mêmes entreprises qui se plaignent d’être sur-sollicitées alors que celles qui ont le plus besoin d’aide ne sont souvent pas accompagnées. D’autre part, les conseillers ne proposent que les dispositifs d’aide des institutions auxquelles ils sont rattachés et ne sont donc en mesure de répondre qu’à une fraction des besoins exprimés par les chefs d’entreprise.

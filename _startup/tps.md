@@ -22,7 +22,7 @@ C’est encore loin d’être le cas.
 
 Pour les seules démarches des entreprises sous la responsabilité de l’Etat, plus de 1000 procédures sont encore uniquement en papier. Au rythme actuel d’environ 100 démarches dématérialisées par an, il faudra près de 10 ans pour achever la dématérialisation.
 
-Et si chaque administration fait le choix de développer ses propres outils informatique (au lieu d’utiliser un outil mutualisé comme TPS), ce sont des dizaines de millions d’euros qui seront dépensés en pure perte...
+Et si chaque administration fait le choix de développer ses propres outils informatique (au lieu d’utiliser un outil mutualisé comme TPS), ce sont des dizaines de millions d’euros qui seront dépensés en pure perte…
 
 **TPS, c’est pour qui ?**
 

@@ -13,7 +13,7 @@ Ces dernières, dans l’impossibilité de pourvoir seules à leurs intérêts (
 
 Aujourd’hui les juges attribuent les mesures de protection sans avoir connaissance en temps réel de l’activité des travailleurs sociaux et de leur zone d’intervention géographique. La personne à protéger n’a donc pas systématiquement une prise en charge optimale.
 
-Concrètement un travailleur social peut passer trop de temps pour se rendre chez la personne au détriment de son accompagnement. Un professionnel surchargé peut être mobilisé pour un accompagnement alors qu’un homologue plus près de la personne serait disponible...
+Concrètement un travailleur social peut passer trop de temps pour se rendre chez la personne au détriment de son accompagnement. Un professionnel surchargé peut être mobilisé pour un accompagnement alors qu’un homologue plus près de la personne serait disponible…
 
 Avec Le Bon Tuteur, le magistrat pourra choisir au mieux le professionnel qui sera en charge de la mesure (tutelle, curatelle, sauvegarde de justice) sur la base d’un référentiel géolocalisé des tuteurs. Pour faciliter la mise en place de la mesure, il pourra éventuellement notifier en direct sa décision.
 
