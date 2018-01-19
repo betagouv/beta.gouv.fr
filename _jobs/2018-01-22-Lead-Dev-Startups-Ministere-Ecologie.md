@@ -9,7 +9,6 @@ Les Startups d'Etat du ministère de la Transition Écologique et Solidaire cher
 
 <!--more-->
 
-
 # Présentation
 
 Vous êtes développeur full stack, et voulez mettre vos compétences au profit de l’amélioration du service public ? Vous êtes à votre aise dans les contextes de petites équipes autonomes, agiles, et proches de leurs utilisateurs ?
@@ -17,7 +16,6 @@ Vous êtes développeur full stack, et voulez mettre vos compétences au profit 
 Vous avez à cœur de rendre un service de qualité qui transforme la relation des usagers aux services publics, y compris en outillant des contributeurs/ré-utilisateurs potentiellement peu à l’aise avec le développement logiciel ?
 
 En rejoignant une Startup d’État, vous participez à l’aventure d’une nouvelle vision de l’administration, moderne et proche de ses usagers.
-
 
 # Responsabilités
 
@@ -31,7 +29,6 @@ Vous êtes en mesure de jouer sur 2 tableaux :
 
 * La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
 * L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
-
 
 # Compétences
 
