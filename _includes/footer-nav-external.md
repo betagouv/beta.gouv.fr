@@ -1,3 +1,3 @@
-- [Une mission du SGMAP](http://modernisation.gouv.fr)
+- [Une mission de la DINSIC](http://modernisation.gouv.fr)
 - [Améliorer cette page](https://github.com/betagouv/beta.gouv.fr/edit/master/{{ page.path }})
 - [Suivi d'audience et vie privée](/suivi)
