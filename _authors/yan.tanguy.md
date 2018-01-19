@@ -1,6 +1,6 @@
 ---
 fullname: Yan Tanguy
-role: Intrapreneur DILA
+role: Intrapreneur
 start: 2017-09-14
 employer: admin/dila
 startups :

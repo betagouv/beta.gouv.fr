@@ -1,6 +1,6 @@
 ---
 fullname: Zohra Lebel
-role: Intrapreneuse DILA
+role: Intrapreneuse
 start: 2017-09-14
 employer: admin/dila
 startups :
