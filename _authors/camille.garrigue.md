@@ -1,6 +1,6 @@
 ---
 fullname: Camille Garrigue
-role: Business Developer
+role: Business developer
 avatar: https://avatars3.githubusercontent.com/CamilleGarrigue?s=600
 start: 2017-11-02
 end: 2018-03-01
