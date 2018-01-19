@@ -1,6 +1,6 @@
 ---
 fullname: Sebastian Sachetti
-role: Business developer
+role: Chargé de développement
 start: 2017-04-10
 employer: dinsic
 startups:

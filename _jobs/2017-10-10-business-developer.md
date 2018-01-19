@@ -1,14 +1,14 @@
 ---
-roles: un·e business developer
+roles: un·e chargée de développement
 startup: mes-aides
 open: false
 ---
 
-Veux-tu faire passer les [startups d'État](https://beta.gouv.fr/startups/) à la vitesse supérieure ? On recrute un·e business developer pour un CDD (6 mois) !
+Veux-tu faire passer les [startups d'État](https://beta.gouv.fr/startups/) à la vitesse supérieure ? On recrute un·e chargé·e de développement pour un CDD (6 mois) !
 
 <!--more-->
 
-En tant que business developer des startups d'État, tu :
+En tant que chargé·e de développement des startups d'État, tu :
 
 * Cibleras, identifieras et engageras des partenaires potentiels (revendeurs, distributeurs, partenaires technologiques, partenaires financiers, etc.)
 * Contribueras à la priorisation des améliorations à apporter sur la base des retours utilisateurs
