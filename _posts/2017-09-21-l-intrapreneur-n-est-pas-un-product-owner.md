@@ -38,7 +38,7 @@ On attend d’un porteur d’une Startup d’État plus que ce que recouvre le r
 
 Voici quelques exemples d’activités essentielles du chef de produit sur lesquels Scrum n’a rien à nous apprendre :
 
-* Comment suivre la performance de mon produit ? C’est quoi une KPI ? C'est quoi la bonne KPI pour mon produit, à cet instant (exemple : la satisfaction de mes 10 usagers pilote, puis le nombre de connexions uniques par semaine, puis le taux de pénétration dans tel réseau de distribution...) ? Que pourrait-on faire pour améliorer cette KPI ?
+* Comment suivre la performance de mon produit ? C’est quoi une KPI ? C'est quoi la bonne KPI pour mon produit, à cet instant (exemple : la satisfaction de mes 10 usagers pilote, puis le nombre de connexions uniques par semaine, puis le taux de pénétration dans tel réseau de distribution…) ? Que pourrait-on faire pour améliorer cette KPI ?
 * Comment vendre mon produit à un premier utilisateur ? à 100 000 utilisateurs ? quels relais ?
 * Comment réaliser des tests utilisateurs ? Quels outils de feedback adopter pour quelle taille de Startup ? Comment faire un test AB ? C’est quoi la significativité statistique ?
 * Sans parler des questions d’UX sur lequel le porteur de Startup se doit d’être (ou de devenir) compétent dans les premiers temps de la Startup.

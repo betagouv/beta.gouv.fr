@@ -6,4 +6,4 @@ employer: admin/pole-emploi
 startups:
     - avril
 ---
-Conseillère référente VAE, formatrice Pôle Emploi. Curieuse, impertinente parfois, impliquée toujours ! Vive la VAE !!!!
+Conseillère référente VAE, formatrice Pôle emploi. Curieuse, impertinente parfois, impliquée toujours ! Vive la VAE !!!!

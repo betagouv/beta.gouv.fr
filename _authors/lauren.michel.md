@@ -1,6 +1,6 @@
 ---
 fullname: Lauren Michel
-role: Intrapreneur à Pôle Emploi
+role: Intrapreneur à Pôle emploi
 start: 2016-04-01
 employer: admin/pole-emploi
 startups:
