@@ -14,7 +14,7 @@ Vous êtes à votre aise dans les contextes de petites équipes autonomes, agile
 
 Vous avez à cœur de rendre un service de qualité qui transforme la relation des usagers aux services publics, y compris en outillant des contributeurs/ré-utilisateurs potentiellement peu à l’aise avec le développement logiciel ?
 
-En rejoignant une Startup d'État, vous participez à l’aventure d’une nouvelle vision de  l’administration, moderne et proche de ses usagers.
+En rejoignant une Startup d'État, vous participez à l’aventure d’une nouvelle vision de l’administration, moderne et proche de ses usagers.
 
 ## Présentation
 

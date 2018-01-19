@@ -8,7 +8,7 @@ start: 2017-04-01
 owner: Pôle emploi
 ---
 
-Les demandeurs d’emploi se privent d’opportunités professionnelles faute d’avoir connaissance d’aides leur permettant un retour efficace à l’emploi.  __Les aides sont nombreuses et les critères d’attribution sont méconnus__. Difficile, dans ce contexte, de savoir quelle information chercher et où la chercher…
+Les demandeurs d’emploi se privent d’opportunités professionnelles faute d’avoir connaissance d’aides leur permettant un retour efficace à l’emploi. __Les aides sont nombreuses et les critères d’attribution sont méconnus__. Difficile, dans ce contexte, de savoir quelle information chercher et où la chercher…
 
 Pourtant leur efficacité est prouvée : parmi les demandeurs d’emploi qui ont réussi à accéder à l’information, 84 % des bénéficiaires de l’aide au transport ont repris une activité pérenne dans les 6 mois qui ont suivi l’attribution de l’aide. De plus, __en l’absence de cette aide, la moitié d’entre eux aurait hésité, voire refusé le déplacement__.
 

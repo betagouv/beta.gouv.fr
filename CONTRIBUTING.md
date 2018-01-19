@@ -113,7 +113,7 @@ Cela peut être fait à la ligne de commande avec [Inkscape](https://inkscape.or
 
 ```shell
 inkscape --export-text-to-path `pwd`/_sources/logo.svg -l `pwd`/img/logo.svg
-svgo --multipass img/logo.svg  # optimisation, cf. https://jakearchibald.github.io/svgomg/
+svgo --multipass img/logo.svg # optimisation, cf. https://jakearchibald.github.io/svgomg/
 ```
 
 ## Relire les changements

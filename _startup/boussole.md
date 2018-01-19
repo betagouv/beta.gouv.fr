@@ -19,7 +19,7 @@ Sur la base de ces résultats, une Startup d’État a été portée par la <abb
 
 Les premiers tests utilisateurs ont confirmé les besoins des jeunes en matière d’accès à l’emploi, à la formation, au logement et à la santé. Ils valident, également, une préférence pour un contact humain avec des conseillers en capacité de répondre à leurs interrogations.
 
-Sur le territoire d’expérimentation de Reims et de ses environs, des ateliers réguliers réunissent tous les acteurs qui font de l’information auprès des jeunes, sur ces thématiques. Ces ateliers (appelés OpenLabs) sont  l’espace de conception du service. Les informations à adresser et les acteurs vers qui orienter les jeunes en fonction de leur projet et de leur situation sont définis avec les professionnels sur la base de leur expérience.
+Sur le territoire d’expérimentation de Reims et de ses environs, des ateliers réguliers réunissent tous les acteurs qui font de l’information auprès des jeunes, sur ces thématiques. Ces ateliers (appelés OpenLabs) sont l’espace de conception du service. Les informations à adresser et les acteurs vers qui orienter les jeunes en fonction de leur projet et de leur situation sont définis avec les professionnels sur la base de leur expérience.
 
 L’objectif d’inciter le jeune à activer ses droits, de le mettre en lien avec les acteurs locaux qui peuvent l’aider et de découvrir des opportunités connexes.
 

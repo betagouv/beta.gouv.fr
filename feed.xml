@@ -38,8 +38,8 @@ layout: null
             <link href="{{ site.url }}{{ post.url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
             <published>{{ post.date | date_to_xmlschema }}</published>
             <updated>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</updated>
-            <id>{{ site.url | xml_escape  }}{{ post.url | xml_escape }}</id>
-            <content type="html" xml:base="{{ site.url | xml_escape  }}{{ post.url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+            <id>{{ site.url | xml_escape }}{{ post.url | xml_escape }}</id>
+            <content type="html" xml:base="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
 
             {% assign post_author = post.author | default: post.authors[0] | default: site.author %}
             {% assign post_author = site.data.authors[post_author] | default: post_author %}
