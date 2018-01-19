@@ -6,7 +6,7 @@ repository: https://github.com/betagouv/etudiant-entrepreneur
 status: passation
 contact: contact@etudiant-entrepreneur.beta.gouv.fr
 start: 2016-06-23
-owner: Enseignement supérieur
+owner: Ministère de l'Enseignement supérieur
 ---
 
 <iframe style="border:none;" width="560" height="315" src="//www.dailymotion.com/embed/video/x4aa7o4" allowfullscreen></iframe>
