@@ -1,6 +1,6 @@
 ---
 fullname: Dominique Lequepeys
-role: Coach startup d'État DILA
+role: Coach
 start: 2017-09-18
 employer: service/octo
 startups :
