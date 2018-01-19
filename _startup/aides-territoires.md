@@ -7,7 +7,7 @@ status: investigation
 contact: elise.marion@beta.gouv.fr  
 start: 2018-01-01  
 end: 2018-07-30
-owner: Ministère de la Cohésion des Territoires / Ministère de la Transition Ecologique et Solidaire 
+owner: Ministère de la Cohésion des Territoires / Ministère de la Transition écologique et solidaire
 ---
 
 _Aides territoires_ les meilleures aides pour les projets de votre territoire
@@ -34,7 +34,7 @@ En capitalisant les données avec lesquelles les collectivités alimentent dans 
 ## Les premières étapes
 
 L’outil concerne dans un premier temps les aides relatives à l’aménagement durable du territoire. 
--  L’offre (financements, aides en ingénierie, appels à projets) émane des directions générales des ministères (notamment Cohésion des Territoires et Transition Écologique et Solidaire) de l’Agence De l’Environnement et de la Maîtrise de l’Énergie, la Caisse des dépôts, l’Agence Française de la Biodiversité, le commissariat général à l’égalité des territoires. Il faudra également prendre en compte l’offre territorialisée (venant des régions).
+-  L’offre (financements, aides en ingénierie, appels à projets) émane des directions générales des ministères (notamment Cohésion des Territoires et Transition écologique et solidaire) de l’Agence De l’Environnement et de la Maîtrise de l’Énergie, la Caisse des dépôts, l’Agence Française de la Biodiversité, le commissariat général à l’égalité des territoires. Il faudra également prendre en compte l’offre territorialisée (venant des régions).
 -  La demande vient des collectivités et plus particulièrement des agents en charge de la veille sur les aides (qui sont le plus souvent en charge de la coordination de la réponse liée)
 L’objectif pour la première version est d’avoir rapidement une base de données représentative des aides disponibles, en s’appuyant sur une communauté de contributeurs constituée dans les administrations ci-dessus citées, passant par la mobilisation de toute la chaîne de production et de sollicitation des aides.
 
