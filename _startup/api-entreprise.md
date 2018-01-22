@@ -5,7 +5,6 @@ link: https://api.apientreprise.fr/
 repository:
 status: success
 contact: contact@apientreprise.fr
-logo:
 start: 2014-01-01
 owner: DINSIC
 ---
