@@ -6,7 +6,7 @@ start: 2017-09-01
 employer: service/NUMA
 startups:
     - workinfrance
-    - LeBonTuteur
+    - le-bon-tuteur
 ---
 
 Harder Better Faster Stronger.
