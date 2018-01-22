@@ -6,6 +6,7 @@ status: investigation
 start: 2017-10-26
 link:
 repository:
+stats: false
 contact: contact@workinfrance.beta.gouv.fr
 ---
 

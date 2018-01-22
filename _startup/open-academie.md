@@ -6,6 +6,7 @@ status: consolidation
 start: 2015-01
 link: https://openacademie.beta.gouv.fr
 repository: https://github.com/betagouv/open-academie
+stats: false
 contact: pierre.de-maulmont@ac-paris.fr
 redirect_from:
   - /startup/openacademie

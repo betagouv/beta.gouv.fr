@@ -5,6 +5,7 @@ owner: DINSIC
 status: construction
 start: 2014-05-15 # date au format ISO (AAAA-MM-DD)
 repository:
+stats: false
 contact: pierre@pezziardi.net
 ---
 

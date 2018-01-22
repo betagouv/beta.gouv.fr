@@ -6,6 +6,7 @@ status: consolidation
 start: 2015-10-11
 link: https://particulier.api.gouv.fr/
 repository: https://github.com/betagouv/api-particulier
+stats: false
 contact: contact@particulier.api.gouv.fr
 ---
 

@@ -6,6 +6,7 @@ status: success
 start: 2015-10-01
 link: https://mesdemarchesretraite.fr
 repository: https://github.com/betagouv/retraite
+stats: false
 contact: cisse.traore@cnav.fr
 ---
 

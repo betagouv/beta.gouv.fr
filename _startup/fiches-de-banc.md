@@ -5,6 +5,7 @@ owner: DINSIC
 status: death
 start: 2015-01-12
 repository: https://github.com/betagouv/fiches-de-banc
+stats: false
 contact: matti.schneider@beta.gouv.fr
 ---
 

@@ -6,6 +6,7 @@ status: success
 start: 2016-03-01
 link: http://www.opendatalab.fr/urbaclic
 repository: https://github.com/betagouv/urbaclic
+stats: false
 contact: contact@urbaclic.beta.gouv.fr
 ---
 

@@ -6,6 +6,7 @@ status: consolidation
 start: 2014-10-01
 link: https://embauche.beta.gouv.fr
 repository: https://github.com/betagouv/cout-embauche
+stats: false
 contact: contact@embauche.beta.gouv.fr
 ---
 

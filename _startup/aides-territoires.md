@@ -7,6 +7,7 @@ start: 2018-01-01
 end: 2018-07-30
 link:
 repository:
+stats: false
 contact: elise.marion@beta.gouv.fr
 ---
 

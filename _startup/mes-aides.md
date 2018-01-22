@@ -6,6 +6,7 @@ status: consolidation
 start: 2014-05-01
 link: https://mes-aides.gouv.fr
 repository: https://github.com/betagouv/mes-aides-ui
+stats: false
 contact: contact@mes-aides.gouv.fr
 ---
 

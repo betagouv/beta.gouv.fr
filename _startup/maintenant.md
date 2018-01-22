@@ -5,6 +5,7 @@ owner: Pôle emploi
 status: consolidation
 start: 2016-02-02
 link: http://maintenant.pole-emploi.fr
+stats: false
 contact: lauren.michel@pole-emploi.fr
 ---
 

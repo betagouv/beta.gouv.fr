@@ -6,6 +6,7 @@ status: success
 start: 2014-01-01
 link: https://entreprise.api.gouv.fr/
 repository:
+stats: false
 contact: contact@apientreprise.fr
 ---
 

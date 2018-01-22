@@ -6,6 +6,7 @@ status: success
 start: 2015-01-01
 link: https://geo.api.gouv.fr
 repository: https://github.com/etalab/geoapi
+stats: false
 contact: geo@api.gouv.fr
 ---
 

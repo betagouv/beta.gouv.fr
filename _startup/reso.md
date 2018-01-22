@@ -6,6 +6,7 @@ status: construction
 start: 2017-04-03
 link: https://reso.beta.gouv.fr/
 repository: https://github.com/betagouv/reso
+stats: false
 contact: juliette.culot@beta.gouv.fr
 redirect_from:
   - /startup/e-conseils

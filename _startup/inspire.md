@@ -6,6 +6,7 @@ status: success
 start: 2015-01-01
 link: https://inspire.data.gouv.fr
 repository: https://github.com/betagouv/inspire
+stats: false
 contact: inspire@data.gouv.fr
 ---
 

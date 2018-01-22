@@ -6,6 +6,7 @@ status: death
 start: 2015-12-01
 link:
 repository:
+stats: false
 contact: contact@boussole.beta.gouv.fr
 ---
 

@@ -6,6 +6,7 @@ status: success
 start: 2016-06-08
 link: https://pix.beta.gouv.fr
 repository: https://github.com/betagouv/pix-live
+stats: false
 contact: contact@pix.beta.gouv.fr
 ---
 

@@ -5,6 +5,7 @@ owner: Agence nationale de l’habitat
 status: success
 start: 2016-05-01
 repository: https://github.com/betagouv/mpal
+stats: false
 contact: contact@anah.beta.gouv.fr
 ---
 

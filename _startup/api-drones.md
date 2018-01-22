@@ -6,6 +6,7 @@ status: success
 start: 2017-06-01
 link: https://drone.beta.gouv.fr/
 repository: https://framagit.org/drone
+stats: false
 contact: yohan.boniface@data.gouv.fr
 ---
 

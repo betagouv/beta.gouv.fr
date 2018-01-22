@@ -6,6 +6,7 @@ status: investigation
 start: 2017-10-01
 link: http://mrs.beta.gouv.fr
 repository:
+stats: false
 contact: frederic.boulay@beta.gouv.fr
 ---
 

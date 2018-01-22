@@ -5,6 +5,7 @@ owner: DINSIC
 status: investigation
 start: 2014-12-15
 repository:
+stats: false
 contact: pierre.pezziardi@beta.gouv.fr
 ---
 

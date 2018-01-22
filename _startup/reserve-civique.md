@@ -5,6 +5,7 @@ owner: Haut Commissariat à l'engagement civique
 status: construction
 start: 2017-03-23
 link: http://reserve-civique.beta.gouv.fr
+stats: false
 contact: contact@reserve-civique.beta.gouv.fr
 ---
 

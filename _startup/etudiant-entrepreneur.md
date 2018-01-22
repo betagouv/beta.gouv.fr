@@ -6,6 +6,7 @@ status: success
 start: 2016-06-23
 link: https://etudiant-entrepreneur.beta.gouv.fr
 repository: https://github.com/betagouv/etudiant-entrepreneur
+stats: false
 contact: contact@etudiant-entrepreneur.beta.gouv.fr
 ---
 
