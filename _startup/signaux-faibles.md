@@ -1,7 +1,6 @@
 ---
 title: Signaux Faibles
 mission: Mieux cibler les interventions en remédiation de l'État vers les entreprises en difficulté
-domain:
 repository:
 status: construction
 contact: pierre@pezziardi.net

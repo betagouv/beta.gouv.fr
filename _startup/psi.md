@@ -1,7 +1,6 @@
 ---
 title: Prélèvement à la source pour les indépendants
 mission: Simplifier radicalement le règlement des cotisations sociales par les indépendants
-domain:
 repository:
 status: investigation
 contact: pierre.pezziardi@beta.gouv.fr
