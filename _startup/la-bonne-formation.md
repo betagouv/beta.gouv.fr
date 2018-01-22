@@ -4,6 +4,7 @@ mission: Rechercher une formation efficace pour le retour à l'emploi et découv
 owner: Pôle emploi
 status: consolidation
 start: 2015-05-01
+end:
 link: http://labonneformation.pole-emploi.fr
 repository:
 stats: true

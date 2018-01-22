@@ -4,6 +4,7 @@ mission: Demander et liquider une bourse de collège en ligne
 owner: DINSIC
 status: consolidation
 start: 2015-03-01
+end:
 link: https://bourse.beta.gouv.fr
 repository: https://github.com/betagouv/bourses/
 stats: true

@@ -4,6 +4,7 @@ mission: Obtenir en quelques clics la liste personnalisée de ses démarches de 
 owner: CNAV, MSA, Sécurité sociale pour les indépendants
 status: success
 start: 2015-10-01
+end:
 link: https://mesdemarchesretraite.fr
 repository: https://github.com/betagouv/retraite
 stats: false

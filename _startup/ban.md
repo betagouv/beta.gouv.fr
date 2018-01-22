@@ -4,6 +4,7 @@ mission: Référencer l'intégralité des adresses du territoire français
 owner: Etalab
 status: success
 start: 2014-06-01
+end:
 link: https://adresse.data.gouv.fr
 repository: https://github.com/BaseAdresseNationale
 stats: false

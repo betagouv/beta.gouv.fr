@@ -4,6 +4,7 @@ mission: Libérer les données géographiques pour intensifier leurs usages
 owner: Etalab
 status: success
 start: 2015-01-01
+end:
 link: https://inspire.data.gouv.fr
 repository: https://github.com/betagouv/inspire
 stats: false

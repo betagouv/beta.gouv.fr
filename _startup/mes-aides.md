@@ -4,6 +4,7 @@ mission: Évaluer ses droits à 25 aides sociales. En moins de 7 minutes.
 owner: DINSIC
 status: consolidation
 start: 2014-05-01
+end:
 link: https://mes-aides.gouv.fr
 repository: https://github.com/betagouv/mes-aides-ui
 stats: false

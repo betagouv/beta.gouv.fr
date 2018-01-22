@@ -4,6 +4,7 @@ mission: Augmenter la productivité du traitement des amendements dans les cabin
 owner: DINSIC
 status: death
 start: 2015-01-12
+end:
 link:
 repository: https://github.com/betagouv/fiches-de-banc
 stats: false

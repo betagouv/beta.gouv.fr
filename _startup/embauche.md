@@ -4,6 +4,7 @@ mission: Estimer le coût d'une embauche en France
 owner: DINSIC
 status: consolidation
 start: 2014-10-01
+end:
 link: https://embauche.beta.gouv.fr
 repository: https://github.com/betagouv/cout-embauche
 stats: false

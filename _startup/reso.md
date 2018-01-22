@@ -4,6 +4,7 @@ mission: Apporter l'ensemble des aides publiques aux entreprises qui en ont beso
 owner: DIRECCTE Haut-de-France
 status: construction
 start: 2017-04-03
+end:
 link: https://reso.beta.gouv.fr/
 repository: https://github.com/betagouv/reso
 stats: false

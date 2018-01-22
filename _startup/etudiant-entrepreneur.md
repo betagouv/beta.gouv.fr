@@ -4,6 +4,7 @@ mission: Faciliter l'accès au statut étudiant entrepreneur et à ses bénéfic
 owner: Ministère de l'Enseignement supérieur
 status: success
 start: 2016-06-23
+end:
 link: https://etudiant-entrepreneur.beta.gouv.fr
 repository: https://github.com/betagouv/etudiant-entrepreneur
 stats: false

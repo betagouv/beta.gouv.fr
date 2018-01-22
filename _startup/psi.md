@@ -4,6 +4,7 @@ mission: Simplifier radicalement le règlement des cotisations sociales par les 
 owner: DINSIC
 status: investigation
 start: 2014-12-15
+end:
 link:
 repository:
 stats: false

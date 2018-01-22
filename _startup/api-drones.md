@@ -4,6 +4,7 @@ mission: Une meilleure connaissance du ciel pour plus de sécurité et d'innovat
 owner: SGDSN
 status: success
 start: 2017-06-01
+end:
 link: https://drone.beta.gouv.fr/
 repository: https://framagit.org/drone
 stats: false
