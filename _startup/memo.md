@@ -5,6 +5,7 @@ owner: Pôle emploi
 status: consolidation
 start: 2016-01-03
 link: https://memo.pole-emploi.fr/
+repository:
 stats: true
 contact: sebastien.cadiou@pole-emploi.fr
 ---

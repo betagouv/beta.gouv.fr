@@ -5,6 +5,7 @@ owner: Pôle emploi
 status: construction
 start: 2017-05-01
 link: http://avril.pole-emploi.fr
+repository:
 stats: false
 contact: marie.briche@pole-emploi.fr
 ---
