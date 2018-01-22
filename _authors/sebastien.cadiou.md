@@ -3,7 +3,7 @@ fullname: Sébastien Cadiou
 role: Intrapreneur
 start: 2016-04-01
 end: 2017-11-01
-employer: admin
+employer: admin/pole-emploi
 startups:
     - memo
 ---
