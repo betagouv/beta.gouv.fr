@@ -1,6 +1,6 @@
 ---
 roles: un·e dev web full stack
-startup: LeBonTuteur
+startup: le-bon-tuteur
 open: true
 ---
 
