@@ -1,12 +1,12 @@
 ---
 title: OGP Toolbox
 mission: Trouver des outils numériques pour améliorer la démocratie
+owner: Etalab / Open Government Partnership
+status: success
+start: 2016-06-08
 link: https://ogptoolbox.org/
 repository: https://github.com/ogptoolbox/ogptoolbox-ui
-status: success
 contact: emmanuel@raviart.com
-start: 2016-06-08
-owner: Etalab / Open Government Partnership
 ---
 
 OGP Toolbox est un réseau social pour trouver et partager des outils numériques efficaces au service de l'ouverture des gouvernments et des sociétés civiles.

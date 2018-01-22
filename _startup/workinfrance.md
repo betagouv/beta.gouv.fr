@@ -1,12 +1,12 @@
 ---
 title: Work in France
 mission: La plateforme de demande d’autorisations provisoires de travail.
+owner: Ministère des Affaires sociales
+status: investigation
+start: 2017-10-26
 link:
 repository:
-status: investigation
 contact: contact@workinfrance.beta.gouv.fr
-start: 2017-10-26
-owner: Ministère des Affaires sociales
 ---
 
 Les étudiant·e·s étranger·e·s qui voudraient travailler en France, au-delà du mi-temps, doivent déposer une demande d'autorisation de travail en DIRECCTE<sup>1</sup>. C'est généralement une démarche critique pour le projet de l'étudiant·e ; « pourrais-je rester en France, payer mes études, valider l'expérience professionnelle nécessaire à mon diplôme ? »

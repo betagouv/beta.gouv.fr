@@ -1,12 +1,12 @@
 ---
 title: A+, le service public VIP pour tous.
 mission: La communauté des Agents A+ vous aide à résoudre les blocages administratifs.
+owner: DILA
+status: construction
+start: 2017-10-01
 link:
 repository:
-status: construction
 contact: contact@aplus.beta.gouv.fr
-start: 2017-10-01
-owner: DILA
 ---
 
 ## Des blocages administratifs parfois dramatiques

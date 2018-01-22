@@ -1,11 +1,11 @@
 ---
 title: Clara - Vos aides en un clic
 mission: Découvrir les aides et mesures Pôle emploi qui accélèrent la reprise d'activité
-link: http://clara.pole-emploi.fr/
-status: construction
-contact: anne-camille.monet@pole-emploi.fr
-start: 2017-04-01
 owner: Pôle emploi
+status: construction
+start: 2017-04-01
+link: http://clara.pole-emploi.fr/
+contact: anne-camille.monet@pole-emploi.fr
 ---
 
 Les demandeurs d’emploi se privent d’opportunités professionnelles faute d’avoir connaissance d’aides leur permettant un retour efficace à l’emploi. __Les aides sont nombreuses et les critères d’attribution sont méconnus__. Difficile, dans ce contexte, de savoir quelle information chercher et où la chercher…

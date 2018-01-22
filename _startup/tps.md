@@ -1,13 +1,13 @@
 ---
 title: Téléprocédures Simplifiées
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
+owner: DINSIC
+status: consolidation
+start: 2015-09-15
 link: https://tps.apientreprise.fr
 repository: https://github.com/betagouv/tps
-status: consolidation
-contact: contact@tps.apientreprise.fr
-start: 2015-09-15
-owner: DINSIC
 stats: true
+contact: contact@tps.apientreprise.fr
 ---
 
 Téléprocédures Simplifiées (TPS) est une application entièrement en ligne qui permet à tous les organismes assurant des missions de service public de créer des téléprocédures en quelques minutes et de gérer les demandes des usagers sur une plateforme dédiée.

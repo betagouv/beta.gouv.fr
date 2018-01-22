@@ -1,11 +1,11 @@
 ---
 title: Maintenant!
 mission: Recrutez des gens, pas des CV
-link: http://maintenant.pole-emploi.fr
-status: consolidation
-contact: lauren.michel@pole-emploi.fr
-start: 2016-02-02
 owner: Pôle emploi
+status: consolidation
+start: 2016-02-02
+link: http://maintenant.pole-emploi.fr
+contact: lauren.michel@pole-emploi.fr
 ---
 
 # Recrutez des gens, pas des CV !

@@ -1,12 +1,12 @@
 ---
 title: Boussole des droits
 mission: Accéder aux conseils d'un·e professionnel·le à proximité pour trouver un logement, une formation ou un emploi
+owner: Direction de la jeunesse
+status: death
+start: 2015-12-01
 link:
 repository:
-status: death
 contact: contact@boussole.beta.gouv.fr
-start: 2015-12-01
-owner: Direction de la jeunesse
 ---
 
 Depuis 2013, un travail d’analyse et d’étude a été mené par la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> et le <abbr title="direction interministérielle du numérique et du système d'information et de communication de l'État">DINSIC</abbr> sur 2 territoires pilotes (Reims et Rennes), pour identifier les besoins des jeunes dans leur accès à l’information et les attentes des professionnels de l’Information Jeunesse en ce qui concerne l’évolution de leur pratique.

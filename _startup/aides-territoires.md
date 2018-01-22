@@ -1,13 +1,13 @@
 ---
 title: Aides-territoires
 mission: Accéder aux meilleures aides pour les projets de votre territoire
-link:
-repository:
+owner: Ministère de la Cohésion des Territoires / Ministère de la Transition écologique et solidaire
 status: investigation
-contact: elise.marion@beta.gouv.fr
 start: 2018-01-01
 end: 2018-07-30
-owner: Ministère de la Cohésion des Territoires / Ministère de la Transition écologique et solidaire
+link:
+repository:
+contact: elise.marion@beta.gouv.fr
 ---
 
 _Aides territoires_ les meilleures aides pour les projets de votre territoire

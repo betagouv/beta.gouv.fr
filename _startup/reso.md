@@ -1,12 +1,12 @@
 ---
 title: Réso
 mission: Apporter l'ensemble des aides publiques aux entreprises qui en ont besoin
+owner: DIRECCTE Haut-de-France
+status: construction
+start: 2017-04-03
 link: https://reso.beta.gouv.fr/
 repository: https://github.com/betagouv/reso
-status: construction
 contact: juliette.culot@beta.gouv.fr
-start: 2017-04-03
-owner: DIRECCTE Haut-de-France
 redirect_from:
   - /startup/e-conseils
 ---

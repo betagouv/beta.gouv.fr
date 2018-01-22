@@ -1,12 +1,12 @@
 ---
 title: data.gouv.fr
 mission: Partager, améliorer et réutiliser les données publiques
+owner: Etalab
+status: success
+start: 2013-06-01
 link: https://www.data.gouv.fr/
 repository: https://github.com/opendatateam/udata
-status: success
 contact: info@data.gouv.fr
-start: 2013-06-01
-owner: Etalab
 redirect_from:
   - /startup/datagouv
 ---
