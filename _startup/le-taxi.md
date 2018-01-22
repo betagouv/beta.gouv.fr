@@ -5,7 +5,6 @@ link: https://le.taxi
 repository: https://github.com/openmaraude/APITaxi
 status: consolidation
 contact:
-logo: https://cdn.rawgit.com/openmaraude/le.taxi/master/themes/taxitheme/static/images/logo_le.taxi.svg
 start: 2015-03-15
 owner: Ministère de la Transition écologique et solidaire
 stats: true

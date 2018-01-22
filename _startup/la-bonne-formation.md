@@ -5,7 +5,6 @@ link: http://labonneformation.pole-emploi.fr
 repository:
 status: consolidation
 contact: christophe.bonraisin@pole-emploi.fr
-logo: https://cloud.githubusercontent.com/assets/1038499/12721825/f6081cf6-c901-11e5-8531-7f564480fef9.png
 start: 2015-05-01
 owner: Pôle emploi
 stats: true

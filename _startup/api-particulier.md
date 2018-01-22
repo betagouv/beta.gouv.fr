@@ -5,7 +5,6 @@ link: https://particulier.api.gouv.fr/
 repository: https://github.com/betagouv/api-particulier
 status: consolidation
 contact: contact@particulier.api.gouv.fr
-logo:
 owner: Etalab
 start: 2015-10-11
 ---

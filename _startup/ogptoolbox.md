@@ -5,7 +5,6 @@ link: https://ogptoolbox.org/
 repository: https://github.com/ogptoolbox/ogptoolbox-ui
 status: success
 contact: emmanuel@raviart.com
-logo: /img/logos/ogptoolbox.png
 start: 2016-06-08
 owner: Etalab / Open Government Partnership
 ---

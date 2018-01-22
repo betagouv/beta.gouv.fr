@@ -5,7 +5,6 @@ link: https://pix.beta.gouv.fr
 repository: https://github.com/betagouv/pix-live
 status: success
 contact: contact@pix.beta.gouv.fr
-logo: /img/logos/pix.png
 start: 2016-06-08
 owner: Ministère de l'Éducation nationale
 ---

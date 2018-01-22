@@ -5,7 +5,6 @@ link: https://geo.api.gouv.fr
 repository: https://github.com/etalab/geoapi
 status: success
 contact: geo@api.gouv.fr
-logo:
 start: 2015-01-01
 owner: Etalab
 ---
