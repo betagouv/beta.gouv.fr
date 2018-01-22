@@ -1,12 +1,12 @@
 ---
 title: Mes Aides
 mission: Évaluer ses droits à 25 aides sociales. En moins de 7 minutes.
+owner: DINSIC
+status: consolidation
+start: 2014-05-01
 link: https://mes-aides.gouv.fr
 repository: https://github.com/betagouv/mes-aides-ui
-status: consolidation
 contact: contact@mes-aides.gouv.fr
-start: 2014-05-01
-owner: DINSIC
 ---
 
 Simulez vos droits à plus d’une vingtaine de prestations sociales en quelques minutes. Mes Aides compare votre situation personnelle aux critères des [principales aides nationales](https://github.com/betagouv/mes-aides-ui/wiki#les-aides-calculées), comme le RSA, la CMU-C ou les allocations familiales, ainsi que de certaines aides locales.

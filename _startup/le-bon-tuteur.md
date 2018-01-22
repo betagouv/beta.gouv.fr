@@ -1,10 +1,10 @@
 ---
 title: Le Bon Tuteur
 mission: Trouver le bon tuteur pour les personnes sous protection judiciaire
-status: investigation
-contact: contact@lebontuteur.beta.gouv.fr
-start: 2017-10-26
 owner: Ministère des Affaires sociales
+status: investigation
+start: 2017-10-26
+contact: contact@lebontuteur.beta.gouv.fr
 ---
 
 Aujourd’hui, la France compte entre 800 000 et 1 million de personnes sous mesure de protection (tutelle, curatelle, sauvegarde de justice). Chaque année plusieurs milliers de personnes majeures sont nouvellement concernés.

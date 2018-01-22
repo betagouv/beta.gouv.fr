@@ -1,12 +1,12 @@
 ---
 title: Memo
 mission: Vos candidatures en un clin d'oeil
-link: https://memo.pole-emploi.fr/
-status: consolidation
-contact: sebastien.cadiou@pole-emploi.fr
-start: 2016-01-03
 owner: Pôle emploi
+status: consolidation
+start: 2016-01-03
+link: https://memo.pole-emploi.fr/
 stats: true
+contact: sebastien.cadiou@pole-emploi.fr
 ---
 
 ### Toutes mes candidatures en un clin d’oeil

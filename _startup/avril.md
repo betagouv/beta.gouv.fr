@@ -1,11 +1,11 @@
 ---
 title: Avril - La V.A.E. facile
 mission: Obtenir un diplôme grâce à vos compétences
-link: http://avril.pole-emploi.fr
-status: construction
-contact: marie.briche@pole-emploi.fr
-start: 2017-05-01
 owner: Pôle emploi
+status: construction
+start: 2017-05-01
+link: http://avril.pole-emploi.fr
+contact: marie.briche@pole-emploi.fr
 ---
 
 Marie-Cécile est aide à domicile depuis 17 ans et ne trouve plus d’employeurs. __Malgré ses connaissances et ses compétences, un diplôme est maintenant demandé__ par tous les organismes qui placent les aides à domicile.

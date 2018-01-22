@@ -1,11 +1,11 @@
 ---
 title: Plante & Moi
 mission: Augmenter la présence de la nature en ville
-repository: https://github.com/betagouv/plante-et-moi
-status: construction
-contact: biodiversite@beta.gouv.fr
-start: 2016-10-01
 owner: Ministère de la Transition écologique et solidaire
+status: construction
+start: 2016-10-01
+repository: https://github.com/betagouv/plante-et-moi
+contact: biodiversite@beta.gouv.fr
 redirect_from:
   - /startup/biodiversite
 ---

@@ -1,12 +1,11 @@
 ---
 title: Prélèvement à la source pour les indépendants
 mission: Simplifier radicalement le règlement des cotisations sociales par les indépendants
-domain:
-repository:
-status: investigation
-contact: pierre.pezziardi@beta.gouv.fr
-start: 2014-12-15
 owner: DINSIC
+status: investigation
+start: 2014-12-15
+repository:
+contact: pierre.pezziardi@beta.gouv.fr
 ---
 
 ## Autoliquidation par prélèvement à la source des cotisations sociales des indépendants

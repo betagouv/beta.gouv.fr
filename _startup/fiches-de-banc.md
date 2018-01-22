@@ -1,11 +1,11 @@
 ---
 title: Fiches de banc
 mission: Augmenter la productivité du traitement des amendements dans les cabinets ministériels
-repository: https://github.com/betagouv/fiches-de-banc
-status: death
-contact: matti.schneider@beta.gouv.fr
-start: 2015-01-12
 owner: DINSIC
+status: death
+start: 2015-01-12
+repository: https://github.com/betagouv/fiches-de-banc
+contact: matti.schneider@beta.gouv.fr
 ---
 
 Une application web permettant d'émettre des avis sur les amendements déposés à l'Assemblée Nationale, et de répartir les réponses parmi plusieurs collaborateurs.
