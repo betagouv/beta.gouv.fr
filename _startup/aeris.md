@@ -1,6 +1,6 @@
 ---
 title: Aeris 
-mission: Limiter les rejets polluants dans l'air en facilitant la déclaration et le suivi des émissions des industriels
+mission: Limiter les rejets polluants dans l'air en facilitant et en harmonisant la déclaration et le suivi des émissions des industriels
 status: investigation 
 contact: jacob.carbonel@beta.gouv.fr
 start: 2018-01-01
@@ -29,13 +29,13 @@ Les exploitants, qui sont responsables du suivi des rejets de polluants de leur 
 
 Le service AERIS est un outil de transmission et d'analyse des résultats de surveillance des rejets dans l'air des industries, proposant une transposition numérique de la réglementation.
 
-En utilisant le service, un industriel remplira facilement son obligation réglementaire de transmettre à l’inspection les résultats de la surveillance de ses rejets dans l’air.
+En utilisant le service, un industriel remplira facilement son obligation réglementaire de transmettre à l’inspection les résultats de la surveillance de ses rejets dans l’air, en étant assuré que les données demandées sont collectées de façon harmonisée entre les sites industriels.
 Il pourra y retrouver un suivi des émissions sur une période donnée, mis en perspective de la réglementation, ce qui  lui permettra:
 * de s’assurer qu’il prend en compte l’ensemble des contraintes auxquelles il est soumis ;
 * d’anticiper les épisodes de dépassements en identifiant les polluants dont le niveau d’émission se rapproche de la limite.  
 L’outil pourra également être utilisé en interne de sa société pour permettre à un responsable d’usine non spécialiste de garder une vision sur les performances environnementales de son site.
 
-L’automatisation du travail d’analyse des données d’autosurveillance permettra aux inspecteurs de cibler de manière plus précise les industries à inspecter, et de libérer du temps pour travailler sur les causes profondes des pollutions.
+L’automatisation du travail d’analyse des données d’autosurveillance permettra aux inspecteurs de cibler de manière plus précise les industries à inspecter, et de libérer du temps pour travailler sur les causes profondes des pollutions. L'harmonisation des données envoyées permettra d'effectuer des comparaisons
 
 ### Stratégie de mise sur le marché  
 
@@ -43,7 +43,8 @@ Les premières cibles du service sont les exploitants d'incinérateurs de déche
 Ces installations présentent de forts enjeux de surveillance des rejets atmosphériques, par exemple sur la quantité de dioxines émise dans l’air. 
 Ces installations sont inspectées au moins une fois par an, et chaque inspection nécessite plusieurs jours de travail de préparation en amont.
 
-Le service serait d'abord déployé auprès d'exploitants et d'inspecteurs au niveau local (Grand Est). 
+Le service serait d'abord déployé auprès d'exploitants et d'inspecteurs au niveau local (Grand Est). Les éditeurs de logiciels de contrôle des rejets dans l'air seront associés à l'élaboration du service, afin d'optimiser le transfert de données entre ces logiciels et Aeris.
+
 Par la suite, le service pourrait être étendu aux incinérateurs de déchets dans toute la France, puis à d’autres secteurs industriels, par exemple les installations de combustion.
 
 
