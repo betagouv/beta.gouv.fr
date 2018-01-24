@@ -1,12 +1,12 @@
 ---
 title: API Drones
 mission: Une meilleure connaissance du ciel pour plus de sécurité et d'innovation
+owner: SGDSN
+status: success
+start: 2017-06-01
 link: https://drone.beta.gouv.fr/
 repository: https://framagit.org/drone
-status: construction
 contact: yohan.boniface@data.gouv.fr
-start: 2017-06-01
-owner: SGDSN
 ---
 
 ## Plus de 300 000 objets volants non identifiés

@@ -1,13 +1,12 @@
 ---
 title: Base Adresse Nationale
 mission: Référencer l'intégralité des adresses du territoire français
+owner: Etalab
+status: success
+start: 2014-06-01
 link: https://adresse.data.gouv.fr
 repository: https://github.com/BaseAdresseNationale
-status: success
 contact: adresse@data.gouv.fr
-logo:  https://adresse.data.gouv.fr/img/BAN.png
-start: 2014-06-01
-owner: Etalab
 ---
 
 La Base Adresse Nationale est une base de données qui a pour but de référencer l'intégralité des adresses du territoire français.

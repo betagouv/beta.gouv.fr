@@ -7,7 +7,7 @@ role: Intrapreneur
 avatar: https://avatars3.githubusercontent.com/Mhrtl?s=600
 start: 2018-01-01
 end:
-employer: admin/Ministère de la Cohésion des Territoires/Ministère de la Transition Ecologique et Solidaire
+employer: admin/MTES/Ministère de la Cohésion des Territoires
 ---
 
 Transformer l'action publique sans la dénaturer
