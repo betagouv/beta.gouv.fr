@@ -1,5 +1,5 @@
 ---
-roles: un·e dev web full stack
+roles: un·e dev web full-stack
 startup: Code du travail numérique
 open: true
 startup: codedutravail

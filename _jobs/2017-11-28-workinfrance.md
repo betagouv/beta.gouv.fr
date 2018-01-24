@@ -1,5 +1,5 @@
 ---
-roles: un·e dev web full stack
+roles: un·e dev web full-stack
 startup: workinfrance
 open: true
 ---
@@ -8,7 +8,7 @@ WorkinFrance est une des premières Start-up d'Etat du ministère des Affaires s
 
 <!--more-->
 
-Vous êtes développeur full stack, et voulez mettre vos compétences au profit de l’amélioration du service public ?
+Vous êtes développeur full-stack, et voulez mettre vos compétences au profit de l’amélioration du service public ?
 
 Vous êtes à votre aise dans les contextes de petites équipes autonomes, agiles, et proches de leurs utilisateurs ?
 
@@ -18,7 +18,7 @@ En rejoignant une Startup d'État, vous participez à l’aventure d’une nouve
 
 ## Présentation
 
-L’équipe WorkInFrance cherche un·e développeur·se web fullstack indépendant·e pour ses 6 premiers mois.
+L’équipe WorkInFrance cherche un·e développeur·se web full-stack indépendant·e pour ses 6 premiers mois.
 
 WorkInFrance est une des startups d'État du ministère des Solidarités et de la Santé qui s’est lancée dans la simplification des demandes d’autorisations de travail pour les travailleurs étrangers.
 

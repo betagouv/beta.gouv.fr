@@ -31,7 +31,7 @@ Les bénéfices sont triples :
 
 ## Une passation en douceur
 
-Pour sécuriser une passation de service, nous proposons généralement un schéma fondé sur le volontariat : le DSI lance un appel à vocation pour des opérationnels souhaitant s’investir à la fois dans le service et dans les pratiques : _« Vous êtes développeur informatique ou ingénieur système ? Vous souhaitez travailler selon les principes des méthodes agiles dans une équipe devOps intégrée ? Le champ du [domaine de la Startup], et des technologies comme [outils de la Startup] vous intéresse ? Contactez-nous ! »_.
+Pour sécuriser une passation de service, nous proposons généralement un schéma fondé sur le volontariat : le DSI lance un appel à vocation pour des opérationnels souhaitant s’investir à la fois dans le service et dans les pratiques : _« Vous êtes développeur informatique ou ingénieur système ? Vous souhaitez travailler selon les principes des méthodes agiles dans une équipe DevOps intégrée ? Le champ du [domaine de la Startup], et des technologies comme [outils de la Startup] vous intéresse ? Contactez-nous ! »_.
 
 L’incubateur accueille ces personnes pour 3 à 9 mois de travail en binôme avec l’équipe historique de la startup qui l’acculture à ses méthodes : dialogue usager, pilotage par l’impact, itérations fixes, tests automatisés, remaniement de code, rituels d’équipe…
 Lors de ce passage, nous encourageons les membres de l’équipe historique qui souhaiteraient accompagner le service dans la durée à rejoindre cette nouvelle organisation.
