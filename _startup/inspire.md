@@ -1,12 +1,12 @@
 ---
 title: inspire.data.gouv.fr
 mission: Libérer les données géographiques pour intensifier leurs usages
-link: https://inspire.data.gouv.fr
-repository: https://github.com/sgmap/inspire
-status: success
-contact: inspire@data.gouv.fr
-start: 2015-01-01
 owner: Etalab
+status: success
+start: 2015-01-01
+link: https://inspire.data.gouv.fr
+repository: https://github.com/betagouv/inspire
+contact: inspire@data.gouv.fr
 ---
 
 La passerelle Inspire est un outil coproduit par l'[Incubateur de Services Numériques](https://beta.gouv.fr) du [Secrétariat Général pour la Modernisation de l'Action Publique](http://modernisation.gouv.fr) et la [mission Etalab](http://www.etalab.gouv.fr), avec le soutien du groupe de travail intéropérabilité de l'[AFIGéo](http://www.afigeo.asso.fr/).
@@ -15,7 +15,7 @@ Notre ambition est d'apporter de nouveaux outils et bonnes pratiques permettant 
 
 ## Qu'est-ce que la passerelle Inspire ?
 
-Il s'agit d'un ensemble d'outils permettant de publier des jeux de données géographiques _"Inspire"_  sur la plateforme des données publiques françaises, [data.gouv.fr](https://www.data.gouv.fr).
+Il s'agit d'un ensemble d'outils permettant de publier des jeux de données géographiques _"Inspire"_ sur la plateforme des données publiques françaises, [data.gouv.fr](https://www.data.gouv.fr).
 
 Elle répond à plusieurs objectifs :
 

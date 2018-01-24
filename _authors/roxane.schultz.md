@@ -1,6 +1,6 @@
 ---
 fullname: Roxane Schultz
-role: Coach Startup D'Etat
+role: Coach
 
 avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/00c/39a/028a25f.jpg
 link: https://twitter.com/smarterimpact?lang=en

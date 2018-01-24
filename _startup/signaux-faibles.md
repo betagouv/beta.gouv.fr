@@ -1,12 +1,11 @@
 ---
 title: Signaux Faibles
 mission: Mieux cibler les interventions en remédiation de l'État vers les entreprises en difficulté
-domain:
-repository:
+owner: DINSIC
 status: construction
+start: 2014-05-15 # date au format ISO (AAAA-MM-DD)
+repository:
 contact: pierre@pezziardi.net
-start: 2014-05-15  # date au format ISO (AAAA-MM-DD)
-owner: SGMAP
 ---
 
 ## Fiche produit

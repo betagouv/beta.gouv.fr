@@ -1,14 +1,14 @@
 ---
 title: Clara - Vos aides en un clic
 mission: Découvrir les aides et mesures Pôle emploi qui accélèrent la reprise d'activité
-link: http://clara.pole-emploi.fr/
-status: construction
-contact: anne-camille.monet@pole-emploi.fr
-start: 2017-04-01
 owner: Pôle emploi
+status: construction
+start: 2017-04-01
+link: http://clara.pole-emploi.fr/
+contact: anne-camille.monet@pole-emploi.fr
 ---
 
-Les demandeurs d’emploi se privent d’opportunités professionnelles faute d’avoir connaissance d’aides leur permettant un retour efficace à l’emploi.  __Les aides sont nombreuses et les critères d’attribution sont méconnus__. Difficile, dans ce contexte, de savoir quelle information chercher et où la chercher…
+Les demandeurs d’emploi se privent d’opportunités professionnelles faute d’avoir connaissance d’aides leur permettant un retour efficace à l’emploi. __Les aides sont nombreuses et les critères d’attribution sont méconnus__. Difficile, dans ce contexte, de savoir quelle information chercher et où la chercher…
 
 Pourtant leur efficacité est prouvée : parmi les demandeurs d’emploi qui ont réussi à accéder à l’information, 84 % des bénéficiaires de l’aide au transport ont repris une activité pérenne dans les 6 mois qui ont suivi l’attribution de l’aide. De plus, __en l’absence de cette aide, la moitié d’entre eux aurait hésité, voire refusé le déplacement__.
 
@@ -23,7 +23,7 @@ Afin d’avoir des retours rapides et enrichir notre couverture d’aides locale
 A terme Clara sera intégré dans les services déjà connus de demandeurs d'emploi et des conseiller·e·s :
 
 * Lors de la consultation des offres par les demandeurs d’emploi
-* Dans le profil du demandeur d’emploi sur pole-emploi.fr 
+* Dans le profil du demandeur d’emploi sur pole-emploi.fr
 * Sur le CV du demandeur d’emploi
 * Dans le profil consulté par les conseiller·e·s emplois (Aude)
 * Sur Map, mes-aides.gouv.fr, embauche.gouv.fr et sur le portail du CPA

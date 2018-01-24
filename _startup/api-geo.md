@@ -1,13 +1,12 @@
 ---
 title: API Géo
 mission: Interrogez les référentiels géographiques plus facilement
+owner: Etalab
+status: success
+start: 2015-01-01
 link: https://geo.api.gouv.fr
 repository: https://github.com/etalab/geoapi
-status: success
 contact: geo@api.gouv.fr
-logo:
-start: 2015-01-01
-owner: Etalab
 ---
 
 La GéoAPI est une boîte-à-outils facile à prendre en main pour rendre vos applications et bases de données plus intelligentes, en terme de positionnement et de connaissance des territoires.

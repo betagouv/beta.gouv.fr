@@ -1,13 +1,12 @@
 ---
 title: PIX
 mission: Mesurer, développer et valoriser ses compétences numériques
-link: https://pix.beta.gouv.fr
-repository: https://github.com/sgmap/pix-live
+owner: Ministère de l'Éducation nationale
 status: success
-contact: contact@pix.beta.gouv.fr
-logo: /img/logos/pix.png
 start: 2016-06-08
-owner: Éducation nationale et Enseignement supérieur
+link: https://pix.beta.gouv.fr
+repository: https://github.com/betagouv/pix-live
+contact: contact@pix.beta.gouv.fr
 ---
 
 PIX s'adresse à tous les citoyen•ne•s français•es et francophones (élèves, étudiant•e•s, professionnel•le•s, décrocheur•se•s, demandeur•se•s d'emploi, etc.) qui souhaitent mesurer, développer et valoriser leurs compétences numériques.

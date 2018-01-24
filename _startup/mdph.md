@@ -1,13 +1,13 @@
 ---
 title: MDPH en ligne
 mission: Faciliter les demandes de compensation du handicap auprès des MDPH
-link: https://mdphenligne.cnsa.fr
-repository: https://github.com/sgmap/mdph
-status: passation
-contact: contact@mdph.beta.gouv.fr
-start: 2014-12-01
 owner: Caisse de solidarité pour l'autononomie (CNSA)
+status: passation
+start: 2014-12-01
+link: https://mdphenligne.cnsa.fr
+repository: https://github.com/betagouv/mdph
 stats: true
+contact: contact@mdph.beta.gouv.fr
 ---
 
 Prestation de compensation du handicap (PCH), allocation d’éducation de l’enfant handicapé (AEEH), allocation aux adultes handicapés (AAH), carte d’invalidité, de priorité ou de stationnement… ce sont autant de démarches à réaliser pour les personnes en situation de handicap ou leurs aidants.
