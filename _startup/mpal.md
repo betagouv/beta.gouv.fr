@@ -2,7 +2,7 @@
 title: Les aides de l’Anah
 mission: Accéder rapidement et simplement aux aides à l’habitat privé
 owner: Agence nationale de l’habitat
-status: passation
+status: success
 start: 2016-05-01
 repository: https://github.com/betagouv/mpal
 contact: contact@anah.beta.gouv.fr
