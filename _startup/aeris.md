@@ -7,7 +7,6 @@ start: 2018-01-01
 owner : Ministère de la transition écologique et solidaire
 ---
 
-
 En France, 45 000 installations industrielles sont régulièrement contrôlées par 1 500 inspecteurs de l'environnement.
 Plus de 2 500 de ces installations présentent des enjeux particuliers vis-à-vis de la qualité de l'air.
 Les législations européennes, nationales ou locales définissent des règles complexes pour ces installations, leur imposant des niveaux limites de polluants rejetés dans l’air et des mesures fréquentes des quantité de polluants rejetés.
