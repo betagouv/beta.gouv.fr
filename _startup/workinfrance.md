@@ -6,7 +6,7 @@ status: investigation
 start: 2017-10-26
 end:
 link:
-repository:
+repository: https://github.com/SocialGouv/work-in-france
 stats: false
 contact: contact@workinfrance.beta.gouv.fr
 ---
