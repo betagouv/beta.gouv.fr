@@ -32,7 +32,7 @@ Nous connaissons également en ce moment une forte croissance et devons amélior
 
 - Technos : Rails 5, RSpec, un petit peu de JS
 - Tooling : GitHub, CircleCI (CI + CD), Sentry, Skylight
-- Code ouvert et libre : [https://github.com/sgmap/tps](https://github.com/sgmap/tps)
+- Code ouvert et libre : [https://github.com/betagouv/tps](https://github.com/betagouv/tps)
 - Bonnes pratiques : nous testons notre code, nous faisons des reviews systématiques, nous déployons souvent et par petits lots
 
 # Rôle

@@ -1,6 +1,6 @@
 ---
 fullname: Christophe Bonraisin
-role: Intrapreneur à Pôle emploi
+role: Intrapreneur
 start: 2015-05-01
 employer: admin/pole-emploi
 startups:

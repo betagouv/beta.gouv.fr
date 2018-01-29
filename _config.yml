@@ -2,8 +2,8 @@
 # If you change this file, please restart the server process.
 
 # see https://jekyllrb.com/docs/continuous-integration/
-exclude:  [rb, bin, vendor, app.json]
-include:  ['_pages']
+exclude: [rb, bin, vendor, app.json]
+include: ['_pages']
 
 # Site settings
 title: beta.gouv.fr
@@ -12,7 +12,7 @@ description: Nous créons des services publics numériques
 description_en: We build digital public services
 url: https://beta.gouv.fr
 baseurl: ""
-twitter_id: 715451644683673601  # more stable than the username
+twitter_id: 715451644683673601 # more stable than the username
 
 # Do not publish future dated blog posts / job offers.
 # @see https://jekyllrb.com/docs/configuration/
@@ -39,25 +39,24 @@ collections:
 defaults:
   -
     scope:
-      path: ""	# means "all files"
+      path: ""# means "all files"
       type: startup	# targets a collection
     values:
       layout: startup
-      logo: /img/logo-generique-startup-carre.jpg
   -
     scope:
-      path: ""  # means "all files"
+      path: "" # means "all files"
       type: posts
     values:
       layout: post
   -
     scope:
-      path: ""  # means "all files"
+      path: "" # means "all files"
     values:
       layout: default
   -
     scope:
-      path: ""  # means "all files"
+      path: "" # means "all files"
       type: jobs
     values:
       layout: job

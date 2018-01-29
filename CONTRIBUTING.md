@@ -2,12 +2,11 @@
 
 ## Ajouter une Startup
 
-### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/master/_startup?filename=_startup/nom_startup.md&value=---%0d%0atitle%3a+Mes+Aides++%23+une+majuscule+et+pas+d%27acronymes%0d%0amission%3a+Acc%c3%a9der+aux+conseils+d%27un%c2%b7e+professionnel%c2%b7le+%c3%a0+proximit%c3%a9+pour+trouver+un+logement++%23+infinitif%2c+pas+de+point+%3b+compl%c3%a9ter+la+phrase+%c2%ab+En+investissant+dans+ce+produit+l%27%c3%89tat+cherche+%c3%a0%e2%80%a6+%c2%bb%0d%0alink%3a+https%3a%2f%2fmes-aides.gouv.fr%0d%0arepository%3a+https%3a%2f%2fgithub.com%2fsgmap%2fmes-aides-ui++%23+ou+page+de+description+des+d%c3%a9p%c3%b4ts+s%27il+y+en+a+plusieurs%0d%0astatus%3a+consolidation++%23+les+phases+possibles+sont+d%c3%a9finies+dans+%5b%60_config.yml%60%5d(https%3a%2f%2fgithub.com%2fsgmap%2fbeta.gouv.fr%2fblob%2fmaster%2f_config.yml%23L29-L52)%0d%0acontact%3a+contact%40mes-aides.gouv.fr++%23+sera+visible+de+tous%0d%0alogo%3a+%23+URL+vers+un+logo+en+HTTPS+%3b+supprimer+cette+ligne+si+pas+de+logo%0d%0astart%3a+2015-01-15++%23+date+au+format+ISO+(AAAA-MM-DD)%0d%0a%23+screenshot%3a+ajouter+une+image+en+1280x720px+dans+%2fimg%2fstartups%2f%24nom_startup.png+(ou+.jpg)+et+effacer+cette+ligne%0d%0a---%0d%0a%0d%0a%23%23+Fiche+produit%0d%0a%0d%0aTexte+libre+au+format+%5bMarkdown%5d(http%3a%2f%2fricostacruz.com%2fcheatsheets%2fmarkdown.html).%0d%0a%0d%0a%0d%0a%23%23+Rappels%0d%0a%0d%0a-+%5b+%5d+Modifier+le+nom+du+fichier+%60nom_startup.md%60+dans+le+champ+ci-dessus.%0d%0a-+%5b+%5d+Cr%c3%a9er+une+nouvelle+branche+pour+l%27ajout+de+ce+fichier%2c+et+la+nommer+du+m%c3%aame+nom+que+le+fichier+%60nom_startup%60.%0d%0a-+%5b+%5d+Ouvrir+une+pull+request+pour+valider+l%27int%c3%a9gration.%0d%0a-+%5b+%5d+Effacer+ce+texte+une+fois+que+vous+l%27avez+lu+%f0%9f%98%89) :smiley:
+### [En un clic par l'interface web de GitHub](https://github.com/betagouv/beta.gouv.fr/new/master/_startup?filename=_startup/nom_startup.md&value=---%0Atitle%3A%20Mes%20Aides%20%23%20une%20majuscule%20et%20pas%20d%27acronymes%0Amission%3A%20Acc%C3%A9der%20aux%20conseils%20d%27un%C2%B7e%20professionnel%C2%B7le%20%C3%A0%20proximit%C3%A9%20pour%20trouver%20un%20logement%20%23%20infinitif%2C%20pas%20de%20point%20%3B%20compl%C3%A9ter%20la%20phrase%20%C2%AB%20En%20investissant%20dans%20ce%20produit%20l%27%C3%89tat%20cherche%20%C3%A0%E2%80%A6%20%C2%BB%0Aowner%3A%20DINSIC%20%23%20Administration%20porteuse%0Astatus%3A%20consolidation%20%23%20les%20phases%20possibles%20sont%20d%C3%A9finies%20dans%20%5B%60_config.yml%60%5D(https%3A%2F%2Fgithub.com%2Fbetagouv%2Fbeta.gouv.fr%2Fblob%2Fmaster%2F_config.yml%23L29-L52)%0Astart%3A%202015-01-15%20%23%20date%20au%20format%20ISO%20(AAAA-MM-DD)%0Aend%3A%20%23%20laisser%20vide%0Alink%3A%20https%3A%2F%2Fmes-aides.gouv.fr%0Arepository%3A%20https%3A%2F%2Fgithub.com%2Fbetagouv%2Fmes-aides-ui%20%23%20ou%20page%20de%20description%20des%20d%C3%A9p%C3%B4ts%20s%27il%20y%20en%20a%20plusieurs%0Astats%3A%20false%0Acontact%3A%20contact%40mes-aides.gouv.fr%20%23%20sera%20visible%20de%20tous%0A---%0A%0A%23%23%20Fiche%20produit%0A%0ATexte%20libre%20au%20format%20%5BMarkdown%5D(http%3A%2F%2Fricostacruz.com%2Fcheatsheets%2Fmarkdown.html).%0A%0A%0A%23%23%20Rappels%0A%0A-%20%5B%20%5D%20Supprimer%20les%20commentaires%20dans%20le%20front-matter%20%3A%20supprimer%20les%20croisillons%20et%20le%20texte%20qui%20les%20suit%20dans%20la%20partie%20entre%20tirets%0A-%20%5B%20%5D%20Modifier%20le%20nom%20du%20fichier%20%60nom_startup.md%60%20dans%20le%20champ%20ci-dessus.%0A-%20%5B%20%5D%20Screenshot%20%3A%20ajouter%20une%20image%20en%201280x720px%20dans%20%2Fimg%2Fstartups%2F%24nom_startup.png%20(ou%20.jpg)%0A-%20%5B%20%5D%20Cr%C3%A9er%20une%20nouvelle%20branche%20pour%20l%27ajout%20de%20ce%20fichier%2C%20et%20la%20nommer%20du%20m%C3%AAme%20nom%20que%20le%20fichier%20%60nom_startup%60.%0A-%20%5B%20%5D%20Ouvrir%20une%20pull%20request%20pour%20valider%20l%27int%C3%A9gration.%0A-%20%5B%20%5D%20Effacer%20ce%20texte%20une%20fois%20que%20vous%20l%27avez%20lu%20%F0%9F%98%89)
 
-Les logos doivent être carrés et de préférence à une résolution supérieure à 512 ⨉ 512 pixels.
 Les illustrations doivent être en 16:9, au format 1280 ⨉ 720 pixels, optimisées au préalable avec un outil du type [ImageOptim](https://imageoptim.com/mac) - choisir des réglages "lossy" donnant en général plus de 50% de gains à la compression, mais ne pas supprimer les métadonnées d'images.
 
-> Sinon, offline : dupliquer un fichier de description dans le dossier [`_startup`](https://github.com/sgmap/beta.gouv.fr/tree/master/_startup) et suivre les instruction ci-dessous sur l'édition.
+> Sinon, offline : dupliquer un fichier de description dans le dossier [`_startup`](https://github.com/betagouv/beta.gouv.fr/tree/master/_startup) et suivre les instruction ci-dessous sur l'édition.
 
 Pour le titre de la startup, s'en tenir aux [règles usuelles](https://fr.wikipedia.org/wiki/Usage_des_majuscules_en_fran%C3%A7ais#R.C3.A8gles_traditionnelles), c'est-à-dire sauf cas particuliers : le premier mot prend une majsucule, les autres non. (Ce n'est pas grave de se tromper, mais il faut s'attendre à ce que ça soit corrigé plus tard.)
 
@@ -15,7 +14,7 @@ Pour l'énoncé de mission, utiliser une phrase à l'infinitif, qui complète «
 
 ## Éditer la description d'une Startup existante
 
-Modifier le fichier `$id_startup.md` de description de la Startup dans le dossier [`_startup`](https://github.com/sgmap/beta.gouv.fr/tree/master/_startup).
+Modifier le fichier `$id_startup.md` de description de la Startup dans le dossier [`_startup`](https://github.com/betagouv/beta.gouv.fr/tree/master/_startup).
 
 La documentation des différentes propriétés à renseigner est accessible en cliquant sur le lien de création d'une nouvelle Startup dans la section précédente.
 
@@ -23,11 +22,11 @@ La documentation des différentes propriétés à renseigner est accessible en c
 
 ### 1. Écrire le billet
 
-[En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/master/_posts?filename=_posts/AAAA-MM-DD-titre.md&value=---%0d%0atitle%3a+Nom+du+billet%0d%0aauthors%3a+jean.dupont+%23+id+du+ou+des+auteurs%0d%0a---%0d%0a%0d%0aPour+ajouter+une+image+au+billet%2c+cr%c3%a9er+un+fichier+JPEG+dans+%60img%2fposts%60+du+m%c3%aame+nom+que+le+fichier+contenant+le+post.%0d%0a%0d%0a**Pensez+%c3%a0+modifier+le+nom+de+ce+fichier+%3a+il+doit+%c3%aatre+au+format+%60AAAA-MM-DD-titre.md%60+!**%0d%0aO%c3%b9+%60AAAA-MM-DD%60+est+la+date+%c3%a0+laquelle+vous+souhaitez+que+le+billet+soit+publi%c3%a9.) :smiley:
+[En un clic par l'interface web de GitHub](https://github.com/betagouv/beta.gouv.fr/new/master/_posts?filename=_posts/AAAA-MM-DD-titre.md&value=---%0d%0atitle%3a+Nom+du+billet%0d%0aauthors%3a+jean.dupont+%23+id+du+ou+des+auteurs%0d%0a---%0d%0a%0d%0aPour+ajouter+une+image+au+billet%2c+cr%c3%a9er+un+fichier+JPEG+dans+%60img%2fposts%60+du+m%c3%aame+nom+que+le+fichier+contenant+le+post.%0d%0a%0d%0a**Pensez+%c3%a0+modifier+le+nom+de+ce+fichier+%3a+il+doit+%c3%aatre+au+format+%60AAAA-MM-DD-titre.md%60+!**%0d%0aO%c3%b9+%60AAAA-MM-DD%60+est+la+date+%c3%a0+laquelle+vous+souhaitez+que+le+billet+soit+publi%c3%a9.) :smiley:
 
 Pour ajouter une image au billet, créer un fichier JPEG dans `img/posts` du même nom que le fichier contenant le post (donc par exemple `AAAA-MM-DD-titre.jpg`). À l'affichage, l'image sera redimensionnée : les dimensions exactes de l'image ont donc peu d'importance.
 
-> Sinon, offline : créer un nouveau post dans le dossier [`_posts`](https://github.com/sgmap/beta.gouv.fr/tree/master/_posts).
+> Sinon, offline : créer un nouveau post dans le dossier [`_posts`](https://github.com/betagouv/beta.gouv.fr/tree/master/_posts).
 
 ### 2. Faire revoir le billet
 
@@ -40,7 +39,7 @@ Recueillez l'avis d'au moins 2 membres de l'incubateur. Après de potentielles i
 
 ## Ajouter un événement
 
-### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/master/_posts?filename=_posts/AAAA-MM-DD-nom_evenement.md&value=---%0d%0atitle%3a+Nom+de+l%27%c3%a9v%c3%a9nement%0d%0acategory%3a+evenement%0d%0aregistration%3a+https%3a%2f%2feventbrite.com%2f%e2%80%a6+%23+URL+%c3%a0+laquelle+on+peut+s%27inscrire%0d%0alocation%3a+Palais+des+Congr%c3%a8s+de+Paris+%23+lieu+de+l%27%c3%a9v%c3%a9nement%0d%0astart%3a+2016-04-20T09%3a30%2b02%3a00++%23+date+de+d%c3%a9but+au+format+ISO%0d%0aend%3a+2016-04-20T17%3a30%2b02%3a00++%23+date+de+fin+au+format+ISO%0d%0a---%0d%0a%0d%0a%c3%89crire+ici+le+descriptif+de+l%27%c3%a9v%c3%a9nement.+Un+lien+d%27inscription+et+un+descriptif+des+horaires+sera+automatiquement+g%c3%a9n%c3%a9r%c3%a9%2c+ne+pas+l%27%c3%a9crire+ici.%0d%0a%0d%0aPour+ajouter+une+image+%c3%a0+l%27%c3%a9v%c3%a9nement%2c+cr%c3%a9er+un+fichier+JPEG+dans+%60img%2fposts%60+du+m%c3%aame+nom+que+le+fichier+contenant+le+post.%0d%0a%0d%0a**Pensez+%c3%a0+modifier+le+nom+de+ce+fichier+%3a+il+doit+%c3%aatre+au+format+%60AAAA-MM-DD-nom_evenement.md%60+!**%0d%0aO%c3%b9+%60AAAA-MM-DD%60+est+la+date+%c3%a0+laquelle+vous+souhaitez+que+l%27%c3%a9v%c3%a9nement+soit+annonc%c3%a9+sur+le+site+(et+non+la+date+de+l%27%c3%a9v%c3%a9nement+lui-m%c3%aame).) :smiley:
+### [En un clic par l'interface web de GitHub](https://github.com/betagouv/beta.gouv.fr/new/master/_posts?filename=_posts/AAAA-MM-DD-nom_evenement.md&value=---%0d%0atitle%3a+Nom+de+l%27%c3%a9v%c3%a9nement%0d%0acategory%3a+evenement%0d%0aregistration%3a+https%3a%2f%2feventbrite.com%2f%e2%80%a6+%23+URL+%c3%a0+laquelle+on+peut+s%27inscrire%0d%0alocation%3a+Palais+des+Congr%c3%a8s+de+Paris+%23+lieu+de+l%27%c3%a9v%c3%a9nement%0d%0astart%3a+2016-04-20T09%3a30%2b02%3a00++%23+date+de+d%c3%a9but+au+format+ISO%0d%0aend%3a+2016-04-20T17%3a30%2b02%3a00++%23+date+de+fin+au+format+ISO%0d%0a---%0d%0a%0d%0a%c3%89crire+ici+le+descriptif+de+l%27%c3%a9v%c3%a9nement.+Un+lien+d%27inscription+et+un+descriptif+des+horaires+sera+automatiquement+g%c3%a9n%c3%a9r%c3%a9%2c+ne+pas+l%27%c3%a9crire+ici.%0d%0a%0d%0aPour+ajouter+une+image+%c3%a0+l%27%c3%a9v%c3%a9nement%2c+cr%c3%a9er+un+fichier+JPEG+dans+%60img%2fposts%60+du+m%c3%aame+nom+que+le+fichier+contenant+le+post.%0d%0a%0d%0a**Pensez+%c3%a0+modifier+le+nom+de+ce+fichier+%3a+il+doit+%c3%aatre+au+format+%60AAAA-MM-DD-nom_evenement.md%60+!**%0d%0aO%c3%b9+%60AAAA-MM-DD%60+est+la+date+%c3%a0+laquelle+vous+souhaitez+que+l%27%c3%a9v%c3%a9nement+soit+annonc%c3%a9+sur+le+site+(et+non+la+date+de+l%27%c3%a9v%c3%a9nement+lui-m%c3%aame).) :smiley:
 
 Un événement est un type de billet particulier. Il a donc quelques métadonnées supplémentaires (`start`, `end`…), mais est [équivalent](#publier-un-billet) pour le reste, dont l'ajout d'images et la création offline.
 
@@ -49,18 +48,18 @@ Notamment, attention, la date dans le nom du fichier au format `AAAA-MM-DD-nom_e
 
 ## Ajouter un membre à la communauté BetaGouv
 
-### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/master/_posts?filename=_authors/prenom.nom.md&value=---%0Afullname%3A%20Camille%20Dupont%20%23%20penser%20%C3%A0%20modifier%20le%20nom%20du%20fichier%20ci-dessus%20!%0Arole%3A%20Smartass%0A%23%20ci-dessous%2C%20tu%20peux%20aussi%20remplacer%20sgmap-bot%20par%20ton%20propre%20pseudo%20Github%0A%23%20ou%20bien%20fournir%20l%27URL%20(HTTPS%20obligatoire)%20d%27une%20image%20carr%C3%A9e%20512x512%20minimum%0A%23%20ou%20bien%20uploader%20un%20fichier%20JPG%20en%20512x512%20du%20m%C3%AAme%20nom%20que%20ce%20fichier%20dans%20%2Fimg%2Fauthors%20et%20effacer%20cette%20ligne%0Aavatar%3A%20https%3A%2F%2Favatars3.githubusercontent.com%2Fsgmap-bot%3Fs%3D600%0Alink%3A%20%23%20optionnel%20%3A%20lien%20vers%20une%20page%20perso%20externe.%20Effacer%20cette%20ligne%20si%20rien%20%C3%A0%20mettre.%0Astart%3A%202016-12-31%20%23%20date%20d%27arriv%C3%A9e%20au%20format%20ISO%20(AAAA-MM-JJ)%0Aend%3A%202017-09-15%20%23%20date%20de%20fin%20de%20contrat%20au%20format%20ISO%20(AAAA-MM-JJ)%0Aemployer%3A%20%23%20dinsic%20ou%20independent%2F%3Cemployer%3E%20ou%20admin%2F%3Cemployer%3E%20ou%20service%2Focto%0A---%0A%0A%C3%89crit%20des%20autobiographies%20percutantes%20en%20moins%20de%20200%20caract%C3%A8res%20depuis%201972.) :smiley:
+### [En un clic par l'interface web de GitHub](https://github.com/betagouv/beta.gouv.fr/new/master/_posts?filename=_authors/prenom.nom.md&value=---%0Afullname%3A%20Camille%20Dupont%20%23%20penser%20%C3%A0%20modifier%20le%20nom%20du%20fichier%20ci-dessus%20!%0Arole%3A%20Smartass%0A%23%20ci-dessous%2C%20tu%20peux%20aussi%20remplacer%20sgmap-bot%20par%20ton%20propre%20pseudo%20Github%0A%23%20ou%20bien%20fournir%20l%27URL%20(HTTPS%20obligatoire)%20d%27une%20image%20carr%C3%A9e%20512x512%20minimum%0A%23%20ou%20bien%20uploader%20un%20fichier%20JPG%20en%20512x512%20du%20m%C3%AAme%20nom%20que%20ce%20fichier%20dans%20%2Fimg%2Fauthors%20et%20effacer%20cette%20ligne%0Aavatar%3A%20https%3A%2F%2Favatars3.githubusercontent.com%2Fbetagouv-bot%3Fs%3D600%0Alink%3A%20%23%20optionnel%20%3A%20lien%20vers%20une%20page%20perso%20externe.%20Effacer%20cette%20ligne%20si%20rien%20%C3%A0%20mettre.%0Astart%3A%202016-12-31%20%23%20date%20d%27arriv%C3%A9e%20au%20format%20ISO%20(AAAA-MM-JJ)%0Aend%3A%202017-09-15%20%23%20date%20de%20fin%20de%20contrat%20au%20format%20ISO%20(AAAA-MM-JJ)%0Aemployer%3A%20%23%20dinsic%20ou%20independent%2F%3Cemployer%3E%20ou%20admin%2F%3Cemployer%3E%20ou%20service%2Focto%0A---%0A%0A%C3%89crit%20des%20autobiographies%20percutantes%20en%20moins%20de%20200%20caract%C3%A8res%20depuis%201972.) :smiley:
 
 Attention, l'image doit être carrée et de préférence à une résolution supérieure à 512 ⨉ 512 pixels, optimisée au préalable avec un outil du type [ImageOptim](https://imageoptim.com/mac) - choisir des réglages "lossy" donnant en général plus de 50% de gains à la compression, mais ne pas supprimer les métadonnées d'images.
 
-Le nom du fichier est important : il doit correspondre au nom de la personne, selon le schéma `prenom.nom`. Les parties `prenom` et `nom` sont en minuscules et sans accents. Les espaces des noms propres sont remplacés par `_` et les tirets restent. Rien de très important ne dépend du respect de ces conventions, par contre **il est important que cet identifiant et celui du mail `@beta.gouv.fr` correspondent**. Cela nous permet de traiter [automatiquement](https://github.com/sgmap/betaGouvBot) divers sujets liés à la gestion RH tels que abonnement et désabonnement des listes de diffusion, anticipation des fins de contrat, etc.
+Le nom du fichier est important : il doit correspondre au nom de la personne, selon le schéma `prenom.nom`. Les parties `prenom` et `nom` sont en minuscules et sans accents. Les espaces des noms propres sont remplacés par `_` et les tirets restent. Rien de très important ne dépend du respect de ces conventions, par contre **il est important que cet identifiant et celui du mail `@beta.gouv.fr` correspondent**. Cela nous permet de traiter [automatiquement](https://github.com/betagouv/betaGouvBot) divers sujets liés à la gestion RH tels que abonnement et désabonnement des listes de diffusion, anticipation des fins de contrat, etc.
 
-> Sinon, offline : créer un nouveau fichier de description dans le dossier [`_authors`](https://github.com/sgmap/beta.gouv.fr/tree/master/_authors) et renseigner les informations en prenant exemple sur un fichier de description existant déjà dans ce dossier.
+> Sinon, offline : créer un nouveau fichier de description dans le dossier [`_authors`](https://github.com/betagouv/beta.gouv.fr/tree/master/_authors) et renseigner les informations en prenant exemple sur un fichier de description existant déjà dans ce dossier.
 
 
 ## Ajouter une offre d'emploi
 
-### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/master/_posts?filename=_jobs/AAAA-MM-DD-nom_offre.md&value=---%0D%0Aroles%3A%20intitul%C3%A9%20du%2Fdes%20poste%2Fs%20%23%20un%C2%B7e%20d%C3%A9veloppeur%C2%B7e%2C%20deux%20business%20d%C3%A9veloppeur%C2%B7e%C2%B7s%2C%20un%C2%B7e%20d%C3%A9veloppeur%C2%B7e%20et%20une%20un%C2%B7e%20business%20d%C3%A9veloppeur%C2%B7e%2C%20etc.%0D%0Astartup%3A%20identifiant%20de%20la%20startup%20%20%23%20identifiant%20de%20la%20startup%20pour%20laquelle%20le%20recrutement%20est%20fait%20%3B%20cr%C3%A9er%20la%20startup%20si%20elle%20n%27existe%20pas%20encore%0D%0Atechno%3A%20Choix%20libre%20%23%20s%27il%20s%27agit%20d%27une%20offre%20dev%2C%20ajouter%20la%20techno%20ou%20expliciter%20que%20le%20choix%20est%20libre%C2%A0%3B%20enlever%20s%27il%20s%27agit%20d%27un%20autre%20type%20d%27offre%0D%0Ajunior%3A%20true%20%23%20S%27il%20est%20possible%20de%20candidater%20avec%20peu%20d%27exp%C3%A9rience%0D%0Aopen%3A%20true%20%23%20Basculer%20%C3%A0%20%27false%27%20ou%20supprimer%20une%20fois%20l%27offre%20pourvue%0D%0A---%0D%0A%0D%0A%C3%89crire%20ici%20le%20descriptif%20du%20poste.%20Attention%20%C3%A0%20la%20neutralit%C3%A9%20de%20genre%20%21%0D%0A%0D%0A%2A%2APensez%20%C3%A0%20modifier%20le%20nom%20de%20ce%20fichier%20%3A%20il%20doit%20%C3%AAtre%20au%20format%20%60AAAA-MM-DD-nom_offre.md%60%20%21%2A%2A%0D%0AO%C3%B9%20%60AAAA-MM-DD%60%20est%20la%20date%20%C3%A0%20laquelle%20vous%20souhaitez%20que%20l%27offre%20soit%20publi%C3%A9e.) :smiley:
+### [En un clic par l'interface web de GitHub](https://github.com/betagouv/beta.gouv.fr/new/master/_posts?filename=_jobs/AAAA-MM-DD-nom_offre.md&value=---%0D%0Aroles%3A%20intitul%C3%A9%20du%2Fdes%20poste%2Fs%20%23%20un%C2%B7e%20d%C3%A9veloppeur%C2%B7e%2C%20deux%20business%20d%C3%A9veloppeur%C2%B7e%C2%B7s%2C%20un%C2%B7e%20d%C3%A9veloppeur%C2%B7e%20et%20une%20un%C2%B7e%20business%20d%C3%A9veloppeur%C2%B7e%2C%20etc.%0D%0Astartup%3A%20identifiant%20de%20la%20startup%20%20%23%20identifiant%20de%20la%20startup%20pour%20laquelle%20le%20recrutement%20est%20fait%20%3B%20cr%C3%A9er%20la%20startup%20si%20elle%20n%27existe%20pas%20encore%0D%0Atechno%3A%20Choix%20libre%20%23%20s%27il%20s%27agit%20d%27une%20offre%20dev%2C%20ajouter%20la%20techno%20ou%20expliciter%20que%20le%20choix%20est%20libre%C2%A0%3B%20enlever%20s%27il%20s%27agit%20d%27un%20autre%20type%20d%27offre%0D%0Ajunior%3A%20true%20%23%20S%27il%20est%20possible%20de%20candidater%20avec%20peu%20d%27exp%C3%A9rience%0D%0Aopen%3A%20true%20%23%20Basculer%20%C3%A0%20%27false%27%20ou%20supprimer%20une%20fois%20l%27offre%20pourvue%0D%0A---%0D%0A%0D%0A%C3%89crire%20ici%20le%20descriptif%20du%20poste.%20Attention%20%C3%A0%20la%20neutralit%C3%A9%20de%20genre%20%21%0D%0A%0D%0A%2A%2APensez%20%C3%A0%20modifier%20le%20nom%20de%20ce%20fichier%20%3A%20il%20doit%20%C3%AAtre%20au%20format%20%60AAAA-MM-DD-nom_offre.md%60%20%21%2A%2A%0D%0AO%C3%B9%20%60AAAA-MM-DD%60%20est%20la%20date%20%C3%A0%20laquelle%20vous%20souhaitez%20que%20l%27offre%20soit%20publi%C3%A9e.) :smiley:
 
 > Une fois l'offre pourvue, bien penser à changer la valeur du flag `open` et de la mettre à `false`.
 
@@ -72,16 +71,16 @@ Le nom du fichier est important : il doit correspondre au nom de la personne, s
 
 ## Modifier le contenu éditorial
 
-[Rechercher le contenu à modifier](https://github.com/sgmap/beta.gouv.fr/search?q=contenu+à+modifier&type=Code) et éditer le fichier correspondant.
+[Rechercher le contenu à modifier](https://github.com/betagouv/beta.gouv.fr/search?q=contenu+à+modifier&type=Code) et éditer le fichier correspondant.
 
 
 ## Modifier les startups mises en avant sur la page d'accueil
 
-Mettre à jour la propriété `featured` de la phase correspondante pour référencer le nom du fichier dans lequel la startup à mettre en avant est décrite dans [`index.html`](https://github.com/sgmap/beta.gouv.fr/tree/master/index.html).
+Mettre à jour la propriété `featured` de la phase correspondante pour référencer le nom du fichier dans lequel la startup à mettre en avant est décrite dans [`index.html`](https://github.com/betagouv/beta.gouv.fr/tree/master/index.html).
 
 ## Ajouter une page
 
-### [En un clic par l'interface web de GitHub](https://github.com/sgmap/beta.gouv.fr/new/master/_pages/fr?filename=page.html&value=---%0Apermalink%3A%20/page%0Alang%3A%20fr%0Aref%3A%20page%0A---) :smiley:
+### [En un clic par l'interface web de GitHub](https://github.com/betagouv/beta.gouv.fr/new/master/_pages/fr?filename=page.html&value=---%0Apermalink%3A%20/page%0Alang%3A%20fr%0Aref%3A%20page%0A---) :smiley:
 
 Attention, toutes les pages doivent avoir, dans leur [front matter](https://jekyllrb.com/docs/frontmatter/), les variables `permalink`, `lang` et `ref` définies.
 
@@ -92,7 +91,7 @@ Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de s
 Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) et [Jekyll](https://jekyllrb.com) dans leurs [versions de production](https://pages.github.com/versions/) :
 
 ```sh
-git clone https://github.com/sgmap/beta.gouv.fr.git
+git clone https://github.com/betagouv/beta.gouv.fr.git
 cd beta.gouv.fr
 gem install bundler --no-ri --no-rdoc
 bundle install
@@ -113,7 +112,7 @@ Cela peut être fait à la ligne de commande avec [Inkscape](https://inkscape.or
 
 ```shell
 inkscape --export-text-to-path `pwd`/_sources/logo.svg -l `pwd`/img/logo.svg
-svgo --multipass img/logo.svg  # optimisation, cf. https://jakearchibald.github.io/svgomg/
+svgo --multipass img/logo.svg # optimisation, cf. https://jakearchibald.github.io/svgomg/
 ```
 
 ## Relire les changements
@@ -128,7 +127,7 @@ Pour les relectures de code, il vaut mieux choisir une personne ayant un peu l'h
 
 1. **Ouvrir une <abbr title="Demande de modification sur GitHub">pull request</abbr>**, sans mentionner de relecteur explicitement. Les relecteurs potentiels vont recevoir une notification, et peuvent s'auto-assigner la relecture.
 2. **Si plusieurs jours s'écoulent sans relecture** (entre 2 et 5 jours, à la louche), ajouter un commentaire à la pull request, en demandant explicitement une relecture à un relecteur potentiel.
-3. **Si plusieurs jours s'écoulent à nouveau**, contacter directement un relecteur potentiel (par exemple par message privé sur le [Slack de l'incubateur](https://github.com/sgmap/beta.gouv.fr/wiki/Slack), ou en présentiel dans les locaux de _beta.gouv.fr_).
+3. **Si plusieurs jours s'écoulent à nouveau**, contacter directement un relecteur potentiel (par exemple par message privé sur le [Slack de l'incubateur](https://github.com/betagouv/beta.gouv.fr/wiki/Slack), ou en présentiel dans les locaux de _beta.gouv.fr_).
 
 ### Conseils pour les relecteurs
 
@@ -140,7 +139,7 @@ Pour les relectures de code, il vaut mieux choisir une personne ayant un peu l'h
 
 ### Prévisualisation (staging)
 
-Chaque pull request est déployée dans Heroku, une fois le [build passé](https://circleci.com/gh/sgmap/beta.gouv.fr). Une notification est envoyée sur la pull request :
+Chaque pull request est déployée dans Heroku, une fois le [build passé](https://circleci.com/gh/betagouv/beta.gouv.fr). Une notification est envoyée sur la pull request :
 
 ![notification de déploiement en prévisualisation](http://i.imgur.com/7ZuC2Zw.png)
 
@@ -152,4 +151,4 @@ Ce site est déployé en continu avec [Github Pages](https://pages.github.com). 
 
 Pousser sur `master`, c’est partager avec le monde… ce qui signifie donc qu'il faut être très prudent avec ce pouvoir et privilégier l'usage de [pull requests](https://guides.github.com/introduction/flow/) :wink:
 
-C'est pourquoi la branche `master` est [protégée](https://help.github.com/articles/about-protected-branches/) : il est impossible de mettre en production sans que les [tests automatisés](http://circleci.com/gh/sgmap/beta.gouv.fr/207) n'aient validé que le site pouvait être généré correctement et qu'au moins un pair humain ait revu les modifications proposées.
+C'est pourquoi la branche `master` est [protégée](https://help.github.com/articles/about-protected-branches/) : il est impossible de mettre en production sans que les [tests automatisés](http://circleci.com/gh/betagouv/beta.gouv.fr/207) n'aient validé que le site pouvait être généré correctement et qu'au moins un pair humain ait revu les modifications proposées.

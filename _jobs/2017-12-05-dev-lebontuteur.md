@@ -1,7 +1,7 @@
 ---
-roles: un·e dev web full stack
-startup: LeBonTuteur
-open: true
+roles: un·e dev web full-stack
+startup: le-bon-tuteur
+open: false
 ---
 
 LeBonTuteur cherche un·e dev pour améliorer la mise en oeuvre des mesures de tutelle / curatelle.
@@ -33,7 +33,7 @@ Vous êtes en mesure de jouer sur 2 tableaux :
 
 Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
 
-- Développeur web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, Rails, Symfony, Laravel, Django/Flask...).
+- Développeur web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, Rails, Symfony, Laravel, Django/Flask…).
 - Bonne maîtrise du développement front-end (HTML, CSS, Javascript).
 - Expérience en conception orientée utilisateur et en expérience utilisateur.
 - Expérience de l’écosystème technique web : test AB, analytics…

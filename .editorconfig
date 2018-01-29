@@ -1,6 +1,6 @@
 # See more at http://EditorConfig.org
 
-root = true  # this is the topmost editorconfig file
+root = true # this is the topmost editorconfig file
 
 [**/*]
 charset = utf-8

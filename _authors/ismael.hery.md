@@ -1,6 +1,6 @@
 ---
 fullname: Ismaël Hery
-role: Coach de Startups d'État
+role: Coach
 start: 2015-04-01
 end: 2018-03-30
 employer: independent/octo

@@ -9,4 +9,4 @@ startups:
     - clara
 ---
 
-Full stack développeur et touche-à-tout
+Développeur full-stack et touche-à-tout

@@ -18,7 +18,7 @@ Ainsi en Haute-Garonne, la prise en charge des frais d'utilisation du véhicule 
 ## Comment convaincre nos assurés d'utiliser leur voiture, mode de transport sanitaire le plus flexible et le mieux remboursé ?
 
 Challengé dans le cadre d'un concours interne sur la régulation des dépenses de santé en juin 2017, la CPAM de la Haute-Garonne a porté une réponse simple :
-* **accompagner** les prescripteurs (hôpitaux, médecins libéraux...) pour promouvoir le recours au véhicule personnel,
+* **accompagner** les prescripteurs (hôpitaux, médecins libéraux…) pour promouvoir le recours au véhicule personnel,
 * **faciliter** l'accès aux établissements de santé en prenant en charge les frais de parking,
 * **simplifier** le circuit de remboursement, l'objet de cette nouvelle Startup Mes Remboursements Simplifiés (MRS).
 

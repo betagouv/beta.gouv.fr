@@ -1,12 +1,12 @@
 ---
 fullname: Zohra Lebel
-role: Intrapreneuse DILA
+role: Intrapreneuse
 start: 2017-09-14
 employer: admin/dila
 startups :
     - aplus
 ---
 
-Dilamiseuse d'ambiance ...
+Dilamiseuse d'ambiance…
 
-...Non je ne suis pas folle, je suis une drôle de dame.
+…Non je ne suis pas folle, je suis une drôle de dame.
