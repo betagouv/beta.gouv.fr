@@ -5,7 +5,6 @@ status: investigation
 owner: Ministeres de la Transition écologique et solidaire et de la Cohésion des territoires
 contact: michel.perrel@beta.gouv.fr
 start: 2017-12-31
-# screenshot: ajouter une image en 1280x720px dans /img/startups/$nom_startup.png (ou .jpg) et effacer cette ligne
 ---
 
 ## Fiche produit

@@ -2,11 +2,10 @@
 title: Co-construisons
 mission: Mettre les petites contributions numériques au service de l'intérêt général
 link: https://lamat92.github.io/co_construisons/index.html#
-repository: # ou page de description des dépôts s'il y en a plusieurs
+repository:
 status: investigation
-contact: contact@co-construisons.beta.gouv.fr  # sera visible de tous
-start: 2017-12-15  # date au format ISO (AAAA-MM-DD)
-# screenshot: ajouter une image en 1280x720px dans /img/startups/$nom_startup.png (ou .jpg) et effacer cette ligne
+contact: contact@co-construisons.beta.gouv.fr
+start: 2017-12-15
 owner: Ministère de la Transition Ecologique et Solidaire
 ---
 

@@ -3,10 +3,8 @@ title: Camino
 mission: Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.
 status: investigation
 contact: contact@camino.beta.gouv.fr
-#logo: # URL vers un logo en HTTPS ; supprimer cette ligne si pas de logo
 start: 2018-01-01
 owner: Ministère de la transition écologique et solidaire
-# screenshot: ajouter une image en 1280x720px dans /img/startups/$nom_startup.png (ou .jpg) et effacer cette ligne
 ---
 
 ## Le problème
