@@ -1,6 +1,6 @@
 ---
 title: Assec
-mission: Optimiser la réponse collective du monde agricole et des services de l'Etat au problème de pénurie d'eau en période de sécheresse 
+mission: Optimiser la réponse collective du monde agricole et des services de l'Etat au problème de pénurie d'eau en période de sécheresse
 status: investigation
 owner: Ministeres de la Transition écologique et solidaire et de la Cohésion des territoires
 contact: michel.perrel@beta.gouv.fr
@@ -20,8 +20,8 @@ La préoccupation première des irrigants est de limiter l’impact des restrict
 ## L'outil Assec
 
 Assec donnera en temps réel par mail ou SMS une information légale sur les restrictions applicables, expliquera aux particuliers le sens des efforts demandés et personnalisera les conseils aux irrigants, en fonction de leur situation particulière. Il sera alimenté par les services du préfet qui édictent les restrictions et les organismes professionnels qui le cas échéant organisent une répartition. Les irrigants recevront un premier conseil pour adapter leurs pratiques et cultures à la situation.
-En l’absence d’organisme assurant la répartition des restrictions, les irrigants pourront faire remonter leurs consommations d'eau (Assec leur facilite cette obligation réglementaire), et indiquer les besoins et contraintes déterminant l'impact économique qu'ils subissent. 
-Forts de ces données, les services de l'Etat et les organismes professionnels pourront à moyen terme adapter les règles et plans de répartition pour minimiser l'impact économique des restrictions, dans une logique d’optimisation globale de la réponse à la sécheresse. *Exemple : l'organisation de tours d'eau permet de limiter l'ampleur des restrictions individuelles en lissant les prélèvements dans le temps.*  
+En l’absence d’organisme assurant la répartition des restrictions, les irrigants pourront faire remonter leurs consommations d'eau (Assec leur facilite cette obligation réglementaire), et indiquer les besoins et contraintes déterminant l'impact économique qu'ils subissent.
+Forts de ces données, les services de l'Etat et les organismes professionnels pourront à moyen terme adapter les règles et plans de répartition pour minimiser l'impact économique des restrictions, dans une logique d’optimisation globale de la réponse à la sécheresse. *Exemple : l'organisation de tours d'eau permet de limiter l'ampleur des restrictions individuelles en lissant les prélèvements dans le temps.*
 Outre l'amélioration de l'économie des activités agricoles, Assec permettra de dégager des économies d'eau au profit des milieux naturels et des besoins prioritaires en eau potable (consommation humaine, besoins sanitaires et de défense incendie).
 
 ## Un outil à développer pas à pas
