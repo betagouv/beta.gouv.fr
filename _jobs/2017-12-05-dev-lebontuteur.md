@@ -1,7 +1,7 @@
 ---
 roles: un·e dev web full-stack
 startup: le-bon-tuteur
-open: true
+open: false
 ---
 
 LeBonTuteur cherche un·e dev pour améliorer la mise en oeuvre des mesures de tutelle / curatelle.
