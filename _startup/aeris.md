@@ -47,5 +47,3 @@ Ces installations sont inspectées au moins une fois par an, et chaque inspectio
 Le service serait d'abord déployé auprès d'exploitants et d'inspecteurs au niveau local (Grand Est). Les éditeurs de logiciels de contrôle des rejets dans l'air seront associés à l'élaboration du service, afin d'optimiser le transfert de données entre ces logiciels et Aeris.
 
 Par la suite, le service pourrait être étendu aux incinérateurs de déchets dans toute la France, puis à d’autres secteurs industriels, par exemple les installations de combustion.
-
-
