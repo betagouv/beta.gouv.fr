@@ -1,7 +1,7 @@
 ---
 roles: un·e dev web full-stack
 startup: workinfrance
-open: true
+open: false
 ---
 
 WorkinFrance est une des premières Start-up d'Etat du ministère des Affaires sociales et cherche un dèv·e pour faciliter les demandes d'autorisation de travail pour les étrangers en France.
