@@ -1,12 +1,14 @@
 ---
 title: Co-construisons
 mission: Mettre les petites contributions numériques au service de l'intérêt général
+owner: Ministeres de la Transition écologique et solidaire et de la Cohésion des territoires
+status: investigation
+start: 2017-12-15
+end:
 link: https://lamat92.github.io/co_construisons/index.html#
 repository:
-status: investigation
+stats: false
 contact: contact@co-construisons.beta.gouv.fr
-start: 2017-12-15
-owner: Ministère de la Transition Ecologique et Solidaire
 ---
 
 ## Fiche produit
