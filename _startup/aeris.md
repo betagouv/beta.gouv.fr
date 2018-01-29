@@ -30,9 +30,10 @@ Les exploitants, qui sont responsables du suivi des rejets de polluants de leur 
 Le service AERIS est un outil de transmission et d'analyse des résultats de surveillance des rejets dans l'air des industries, proposant une transposition numérique de la réglementation.
 
 En utilisant le service, un industriel remplira facilement son obligation réglementaire de transmettre à l’inspection les résultats de la surveillance de ses rejets dans l’air, en étant assuré que les données demandées sont collectées de façon harmonisée entre les sites industriels.
-Il pourra y retrouver un suivi des émissions sur une période donnée, mis en perspective de la réglementation, ce qui  lui permettra:
+Il pourra y retrouver un suivi des émissions sur une période donnée, mis en perspective de la réglementation, ce qui  lui permettra :
 * de s’assurer qu’il prend en compte l’ensemble des contraintes auxquelles il est soumis ;
 * d’anticiper les épisodes de dépassements en identifiant les polluants dont le niveau d’émission se rapproche de la limite.  
+
 L’outil pourra également être utilisé en interne de sa société pour permettre à un responsable d’usine non spécialiste de garder une vision sur les performances environnementales de son site.
 
 L’automatisation du travail d’analyse des données d’autosurveillance permettra aux inspecteurs de cibler de manière plus précise les industries à inspecter, et de libérer du temps pour travailler sur les causes profondes des pollutions. L'harmonisation des données envoyées permettra d'effectuer des comparaisons
