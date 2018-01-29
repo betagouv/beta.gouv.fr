@@ -1,12 +1,14 @@
 ---
 title: Étudiant entrepreneur
 mission: Faciliter l'accès au statut étudiant entrepreneur et à ses bénéfices
-link: https://etudiant-entrepreneur.beta.gouv.fr
-repository: https://github.com/sgmap/etudiant-entrepreneur
-status: success
-contact: contact@etudiant-entrepreneur.beta.gouv.fr
 owner: Ministère de l'Enseignement supérieur
+status: success
 start: 2016-06-23
+end:
+link: https://etudiant-entrepreneur.beta.gouv.fr
+repository: https://github.com/betagouv/etudiant-entrepreneur
+stats: false
+contact: contact@etudiant-entrepreneur.beta.gouv.fr
 ---
 
 <iframe style="border:none;" width="560" height="315" src="//www.dailymotion.com/embed/video/x4aa7o4" allowfullscreen></iframe>

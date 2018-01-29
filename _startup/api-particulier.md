@@ -4,8 +4,10 @@ mission: Récupérer les données des particuliers
 owner: Etalab
 status: consolidation
 start: 2015-10-11
+end:
 link: https://particulier.api.gouv.fr/
 repository: https://github.com/betagouv/api-particulier
+stats: false
 contact: contact@particulier.api.gouv.fr
 ---
 

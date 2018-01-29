@@ -4,8 +4,10 @@ mission: Interrogez les référentiels géographiques plus facilement
 owner: Etalab
 status: success
 start: 2015-01-01
+end:
 link: https://geo.api.gouv.fr
 repository: https://github.com/etalab/geoapi
+stats: false
 contact: geo@api.gouv.fr
 ---
 

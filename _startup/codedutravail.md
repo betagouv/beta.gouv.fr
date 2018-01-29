@@ -4,6 +4,10 @@ mission: Faciliter l'accès au droit du travail pour les employeur·e·s et les 
 owner: Ministère des Affaires sociales
 status: investigation
 start: 2017-12-01
+end:
+link:
+repository:
+stats: false
 contact: contact@beta.gouv.fr
 ---
 

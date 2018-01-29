@@ -4,8 +4,10 @@ mission: Faciliter l'accès aux API publiques pour faire émerger de nouveaux se
 owner: DINSIC
 status: construction
 start: 2016-01-25
+end:
 link: https://api.gouv.fr
 repository: https://github.com/betagouv/api.gouv.fr
+stats: false
 contact: contact@api.gouv.fr
 redirect_from:
   - /startup/apigouv

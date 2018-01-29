@@ -4,8 +4,10 @@ mission: Accéder aux conseils d'un·e professionnel·le à proximité pour trou
 owner: Direction de la jeunesse
 status: death
 start: 2015-12-01
+end:
 link:
 repository:
+stats: false
 contact: contact@boussole.beta.gouv.fr
 ---
 

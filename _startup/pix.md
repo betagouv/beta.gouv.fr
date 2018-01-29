@@ -4,8 +4,10 @@ mission: Mesurer, développer et valoriser ses compétences numériques
 owner: Ministère de l'Éducation nationale
 status: success
 start: 2016-06-08
+end:
 link: https://pix.beta.gouv.fr
 repository: https://github.com/betagouv/pix-live
+stats: false
 contact: contact@pix.beta.gouv.fr
 ---
 

@@ -4,6 +4,7 @@ mission: Trouver les entreprises qui vont recruter près de chez soi
 owner: Pôle emploi
 status: consolidation
 start: 2015-05-01
+end:
 link: http://labonneboite.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/labonneboite
 stats: true

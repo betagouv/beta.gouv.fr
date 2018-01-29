@@ -4,8 +4,10 @@ mission: Trouver des outils numériques pour améliorer la démocratie
 owner: Etalab / Open Government Partnership
 status: success
 start: 2016-06-08
+end:
 link: https://ogptoolbox.org/
 repository: https://github.com/ogptoolbox/ogptoolbox-ui
+stats: false
 contact: emmanuel@raviart.com
 ---
 

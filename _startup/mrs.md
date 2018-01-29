@@ -4,8 +4,10 @@ mission: Simplifier et accélérer le remboursement des frais d'utilisation du v
 owner: CNAMTS / CPAM de la Haute-Garonne (31)
 status: investigation
 start: 2017-10-01
+end:
 link: http://mrs.beta.gouv.fr
 repository:
+stats: false
 contact: frederic.boulay@beta.gouv.fr
 ---
 

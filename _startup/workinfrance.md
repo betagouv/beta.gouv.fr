@@ -4,8 +4,10 @@ mission: La plateforme de demande d’autorisations provisoires de travail.
 owner: Ministère des Affaires sociales
 status: investigation
 start: 2017-10-26
+end:
 link:
 repository:
+stats: false
 contact: contact@workinfrance.beta.gouv.fr
 ---
 

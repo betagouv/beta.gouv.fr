@@ -4,7 +4,10 @@ mission: Obtenir un diplôme grâce à vos compétences
 owner: Pôle emploi
 status: construction
 start: 2017-05-01
+end:
 link: http://avril.pole-emploi.fr
+repository:
+stats: false
 contact: marie.briche@pole-emploi.fr
 ---
 

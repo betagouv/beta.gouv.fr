@@ -4,8 +4,10 @@ mission: La communauté des Agents A+ vous aide à résoudre les blocages admini
 owner: DILA
 status: construction
 start: 2017-10-01
+end:
 link:
 repository:
+stats: false
 contact: contact@aplus.beta.gouv.fr
 ---
 

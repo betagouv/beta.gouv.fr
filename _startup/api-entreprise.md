@@ -4,8 +4,10 @@ mission: Récupérer les données des entreprises
 owner: DINSIC
 status: success
 start: 2014-01-01
+end:
 link: https://entreprise.api.gouv.fr/
 repository:
+stats: false
 contact: contact@apientreprise.fr
 ---
 
