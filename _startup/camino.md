@@ -9,7 +9,7 @@ owner: Ministère de la transition écologique et solidaire
 # screenshot: ajouter une image en 1280x720px dans /img/startups/$nom_startup.png (ou .jpg) et effacer cette ligne
 ---
 
-## Le problème :
+## Le problème
 
 Pour les entreprises minières, gérer un projet d’exploration ou d’exploitation est un parcours du combattant qui commence dès son élaboration. Quel est l’état juridique du domaine minier sur la zone ? Quelles sont les données minières déjà existantes ? Quelles démarches administratives dois-je suivre ? Quelles contraintes environnementales dois-je intégrer à mon projet ?
 Toutes ces questions essentielles ne trouvent pas facilement de réponses.
@@ -25,7 +25,7 @@ Sans réponse explicite et à défaut de pouvoir suivre précisément l’évolu
 Sur le terrain, les citoyens et les élus ne découvrent les projets qui les concernent qu’au moment d’une consultation ou d’une enquête publique réglementaire faute d’accès simple et durable aux informations sur les projets miniers. Pris de cours, face à des délais très courts et des dossiers complexes ou volumineux, ils dénoncent un manque de considération et de transparence.
 Une telle situation ne permet pas d’engager des débats ouverts, éclairés et sereins sur les projets miniers en France.
 
-## La solution Camino :<br> le *cadastre minier numérique ouvert*, ambitionne d'ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.
+## Camino : le *cadastre minier numérique ouvert*, ambitionne d'ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.
 
 Avec Camino, il sera enfin possible, pour tous les utilisateurs, de consulter les titres miniers et leurs caractéristiques sur une carte à jour et de suivre les projets en cours sur un tableau de bord.
 Avec ce référentiel commun ouvert et partagé des dossiers miniers et des autorisations administratives associées, Camino va résoudre les difficultés de ses 3 utilisateurs principaux : les entreprises, les citoyens et les agents publics :
@@ -34,7 +34,7 @@ Avec ce référentiel commun ouvert et partagé des dossiers miniers et des auto
  * **Les agents publics** pourront simplement accéder aux mêmes dossiers et données partagés entre les services des administrations et opérateurs publics. Il sera possible de co-instruire les demandes, de suivre et anticiper chaque moment de vie d’un projet, de trouver et valoriser les données sur le domaine minier national simplement et sans intermédiaire.
  * **Les ONG, les citoyens et leurs élus** pourront consulter à tout moment les dossiers et les données publiques, à l’échelle de leur territoire pour mieux contribuer, sans précipitation, aux procédures de participation du public et suivre de manière transparente l’actualité des projets.
 
-## Notre premier pas sur Camino
+## Nos premiers pas sur Camino
 
 Une première preuve de concept constituée de tableaux couplés à une carte interactive valide la possibilité de constituer un référentiel commun des titres et projets miniers.
 
