@@ -1,12 +1,14 @@
 ---
 title: Mes remboursements simplifiés (MRS)
 mission: Simplifier et accélérer le remboursement des frais d'utilisation du véhicule personnel ou des transports en commun
+owner: CNAMTS / CPAM de la Haute-Garonne (31)
+status: investigation
+start: 2017-10-01
+end:
 link: http://mrs.beta.gouv.fr
 repository:
-status: investigation
+stats: false
 contact: frederic.boulay@beta.gouv.fr
-start: 2017-10-01
-owner: CNAMTS - CPAM de la Haute-Garonne (31)
 ---
 
 ## Fiche produit
@@ -16,7 +18,7 @@ Sur prescription de votre médecin, l'Assurance Maladie rembourse les frais d'ut
 Avec MRS, l'assuré peut déclarer en ligne ses frais :
 
 1. il renseigne son trajet
-2. il prend en photo ses justificatifs (prescription, tickets péages/parking...)
+2. il prend en photo ses justificatifs (prescription, tickets péages/parking…)
 3. il valide sa demande
 
 Le transport est remboursé en moins d'une semaine.

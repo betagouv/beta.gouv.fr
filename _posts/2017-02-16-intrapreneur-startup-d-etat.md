@@ -10,7 +10,7 @@ Mais c’est quoi un intrapreneur de Startup d'État ? Quelle est sa mission ? I
 
 Commençons par décrire sa mission et son quotidien d’innovateur au sein de l’État.
 
-L’intrapreneur de Startup d'État est le patron de son « entreprise » au sein de l’État. Pour son plus grand bonheur son rôle va donc recouvrir des responsabilités typiques d’un patron de startup, d’un responsable produit, et d’un patron d’initiative de modernisation de l’État. Tout ça.
+L’intrapreneur de Startup d'État est le patron de son « entreprise » au sein de l’État. Pour son plus grand bonheur son rôle va donc recouvrir des responsabilités typiques d’un patron de startup, d’un responsable de produit, et d’un patron d’initiative de modernisation de l’État. Tout ça.
 
 <!--more-->
 

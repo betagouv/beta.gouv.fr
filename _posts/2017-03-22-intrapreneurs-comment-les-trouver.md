@@ -98,7 +98,7 @@ Le tout bien cadencé se fait en 2 mois, entre le lancement de l’appel à proj
 
 Avant même son lancement effectif, la Startup montre déjà que le temps est une ressource précieuse et que de nouvelles règles du jeu permettent de gagner un ordre de grandeur.
 
-Mais en vérité vous l’aurez compris, les phases capitales qui se jouent  discrètement avant la sélection de l’intrapreneur sont :
+Mais en vérité vous l’aurez compris, les phases capitales qui se jouent discrètement avant la sélection de l’intrapreneur sont :
 
 * l’obtention d'un **sponsor de niveau direction générale ou cabinet**
 * la validation de **l’autonomie de la Startup** dans son organisation, et dans ses décisions produit et technique

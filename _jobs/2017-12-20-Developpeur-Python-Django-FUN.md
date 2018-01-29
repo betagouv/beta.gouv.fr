@@ -13,7 +13,7 @@ En France 30% des élèves sont en [échec scolaire](https://www.insee.fr/fr/sta
 
 Pour atteindre cette ambition, FUN doit assurer la production d’une plateforme qui accueille plus d’un million d’usagers, mais surtout augmenter sa capacité à développer des expérimentations (lean startup) pour permettre au produit FUN d’être présent sur tous ces marchés avec cette pleine ambition.
 
-"France Université Numérique" développe et héberge des plateformes d'apprentissage numérique. 
+"France Université Numérique" développe et héberge des plateformes d'apprentissage numérique.
 
 ## Vous
 Passionné.e par l’opensource et le développement web, vous souhaitez mettre vos talents au service de l’open education, au sein d’une communauté internationale. Vous faites une priorité de travailler dans un environnement flexible avec des collègues passionnés et mettant en avant le bien-être et l’inclusion au travail.
@@ -37,4 +37,3 @@ Linux, Python, Django, Html, Css, Git, Docker, Rancher, Ansible, OpenStack, SQL,
 
 ## Postuler
 Merci d'envoyer votre candidature (CV et lettre de motivation) par mail à samuel.paccoud@fun-mooc.fr avec pour objet « FUN-MOOC - Recrutement • Développeur Python Django».
-
