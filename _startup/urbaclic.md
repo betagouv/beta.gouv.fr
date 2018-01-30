@@ -2,7 +2,7 @@
 title: Urbaclic
 mission: Accéder aux règles d'urbanisme en quelques clics
 owner: SGAR Occitanie, Etalab
-status: success
+status: death
 start: 2016-03-01
 end:
 link: http://www.opendatalab.fr/urbaclic
@@ -10,6 +10,10 @@ repository: https://github.com/betagouv/urbaclic
 stats: false
 contact: contact@urbaclic.beta.gouv.fr
 ---
+
+## Abandon
+
+Faute de financement pérenne, le développement du produit est suspendu.
 
 ## Problème
 
@@ -44,12 +48,12 @@ L'appui de la Préfecture de Région est essentiel durant cette phase, c'est pou
 
 L'outil prendra aussi appui sur :
 
-* la [Base Adresse Nationale](http://adresse.data.gouv.fr) ;
-* le cadastre DGFiP ;
-* la [GéoAPI](https://api.gouv.fr/api/geoapi.html) ;
-* la [passerelle INSPIRE](https://beta.gouv.fr/startup/inspire.html)
+* la [Base Adresse Nationale](https://beta.gouv.fr/startup/ban.html) ;
+* le [cadastre](https://cadastre.data.gouv.fr) ;
+* l'[API Géo](https://beta.gouv.fr/startup/api-geo.html) ;
+* la plateforme [geo.data.gouv.fr](https://beta.gouv.fr/startup/geo.data.gouv.fr.html)
 
-La construction d'__Urbaclic__ permettra de consolider la [GéoAPI](https://api.gouv.fr/api/geoapi.html), en l'enrichissant notamment sur les thématiques __Risques__ et __Urbanisme__.
+La construction d'__Urbaclic__ permettra de consolider l'[API Géo](https://beta.gouv.fr/startup/api-geo.html), en l'enrichissant notamment sur les thématiques __Risques__ et __Urbanisme__.
 
 ## Déploiement
 
