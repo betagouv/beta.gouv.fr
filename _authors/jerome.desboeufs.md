@@ -6,7 +6,13 @@ employer: independent/octo
 startups:
     - geo.data.gouv.fr
     - api-geo
-    - urbaclic
+    - ban
+    - urbaclic:
+        inactive
+    - mes-aides:
+        inactive
+    - api.gouv.fr:
+        inactive
 ---
 
-Pôle Géo. Fun.
+🍌
