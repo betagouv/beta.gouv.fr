@@ -14,7 +14,7 @@ startups:
     - api-particulier:
         inactive
     - api.gouv.fr
-    - inspire:
+    - geo-data-gouv:
         inactive
 ---
 

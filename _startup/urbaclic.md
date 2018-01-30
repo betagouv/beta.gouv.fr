@@ -47,7 +47,7 @@ L'outil prendra aussi appui sur :
 * la [Base Adresse Nationale](http://adresse.data.gouv.fr) ;
 * le cadastre DGFiP ;
 * la [GéoAPI](https://api.gouv.fr/api/geoapi.html) ;
-* la [passerelle INSPIRE](https://beta.gouv.fr/startup/inspire.html)
+* [geo.data.gouv.fr](https://beta.gouv.fr/startup/geo-data-gouv.html)]
 
 La construction d'__Urbaclic__ permettra de consolider la [GéoAPI](https://api.gouv.fr/api/geoapi.html), en l'enrichissant notamment sur les thématiques __Risques__ et __Urbanisme__.
 
