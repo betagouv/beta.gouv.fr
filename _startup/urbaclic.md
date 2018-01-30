@@ -51,7 +51,7 @@ L'outil prendra aussi appui sur :
 * la [Base Adresse Nationale](https://beta.gouv.fr/startup/ban.html) ;
 * le [cadastre](https://cadastre.data.gouv.fr) ;
 * l'[API Géo](https://beta.gouv.fr/startup/api-geo.html) ;
-* la [geo.data.gouv.fr](https://beta.gouv.fr/startup/geo.data.gouv.fr.html)
+* la plateforme [geo.data.gouv.fr](https://beta.gouv.fr/startup/geo.data.gouv.fr.html)
 
 La construction d'__Urbaclic__ permettra de consolider l'[API Géo](https://beta.gouv.fr/startup/api-geo.html), en l'enrichissant notamment sur les thématiques __Risques__ et __Urbanisme__.
 
