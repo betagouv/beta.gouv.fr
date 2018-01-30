@@ -254,6 +254,9 @@ iframe {
 .author > a {
     // Do not underline the entire card if it acts as a link
     text-decoration: none;
+
+    // Corrects width and height calculations on small screen
+    display: block;
 }
 
 .author .tiny.label {
