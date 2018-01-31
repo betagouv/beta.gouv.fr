@@ -2,8 +2,7 @@
 fullname: Axel Haustant
 role: Développeur
 start: 2013-08-27
-end: 2017-06-30
-employer: dinsic
+employer: independent
 startups:
     - data.gouv.fr
 ---
