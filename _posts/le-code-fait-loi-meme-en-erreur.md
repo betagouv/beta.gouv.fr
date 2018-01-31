@@ -4,6 +4,9 @@ authors: philippe.blayo
 ---
 
 Un soir, je lis sur slack un message d'erreur postée par une utilisatrice interne.
+
+> Le site est cassé, je peux plus rentrer mes cas types :/
+
 Comme ça doit concerner la dernière réunion de son groupe de travail, je jette un oeil.
 
 Il vient d'y avoir une mise en production, alors ça doit venir de là…
