@@ -65,10 +65,10 @@ Une développeuse d'openFisca me le confirme mais s'interroge sur la possibilit�
 de corriger rapidement le problème.
 
 
-# Le grand plongeon dans mes-aides
+# Le grand plongeon
 
-Je n'ai jamais regardé le code de mes-aides. Je n'y connais rien. Mais je le trouve sur
-[github](https://github.com/betagouv/mes-aides-ui).
+Je n'ai jamais regardé ce code. Je n'y connais rien. Mais je le trouve sur
+github.
 
 Je le clone et je fait un grep à la racine pour voir si des Célibataires ancienne version
 n'auraient pas été oubliés dans un coin reculé du code.
