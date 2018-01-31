@@ -1,5 +1,5 @@
 ---
-title: Le code fait loi, même en erreur
+title: Ce qui se passe dans la tête d'un développeur
 authors: philippe.blayo
 ---
 
