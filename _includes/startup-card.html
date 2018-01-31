@@ -49,7 +49,11 @@
 
                 {% if startup.first %}
                     {% assign currentId = startup.first[0] %}
-                    {% assign isInactive = true %}
+                    {% if startup.first[1] == "inactive" %}
+                        {% assign isInactive = true %}
+                    {% else %}
+                        {% assign isInactive = false %}
+                    {% endif %}
                 {% else %}
                     {% assign currentId = startup %}
                     {% assign isInactive = false %}
