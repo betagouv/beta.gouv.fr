@@ -1,7 +1,7 @@
 ---
 fullname: Alexandre Dupont
 role: Intrapreneur
-avatar: https://ibb.co/cafe4R
+avatar: https://image.ibb.co/bw5qB6/Alex_dupont.png
 start: 2017-01-01
 employer: admin/Direction régionale de l'Environnement, de l'Aménagement et du Logement (DREAL)
 ---
