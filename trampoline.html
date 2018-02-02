@@ -8,13 +8,15 @@ layout: null
         <script src="https://cdn.polyfill.io/v2/polyfill.js?features=default,fetch"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/URI.js/1.19.0/URI.js"></script>
         <script>
-          let templateUrl = "https://raw.githubusercontent.com/betagouv/beta.gouv.fr/decoded-templates/templates/startup.md"
-          let destination = "https://github.com/betagouv/beta.gouv.fr/new/master/_startup?filename=_startup/nom_startup.md&value="
+          let params = new URI(window.location.href).query(true)
+          let what = params.what
+          let where = params.where
+          let templateUrl = "https://raw.githubusercontent.com/betagouv/beta.gouv.fr/decoded-templates/templates/"+what+".md"
           fetch(templateUrl)
             .then(response => response.text())
             .then(body => {
               let encoded = encodeURIComponent(body);
-              let destination = "https://github.com/betagouv/beta.gouv.fr/new/master/_startup?filename=_startup/nom_startup.md&value="+encoded
+              let destination = "https://github.com/betagouv/beta.gouv.fr/new/master/_startup?filename="+where+"&value="+encoded
               window.location = destination
             })
         </script>
