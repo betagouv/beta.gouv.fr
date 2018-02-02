@@ -11,8 +11,6 @@ stats: false
 contact: contact@co-construisons.beta.gouv.fr
 ---
 
-## Fiche produit
-
 **2,5 milliards par an** c’est la valeur estimée des contributions volontaires du grand public sur les 338 projets de sciences participatives en biodiversité analysés par l’Université de Washington.
 Avec nos smartphones, il n’a jamais été aussi simple de collecter des données, de partager des observations, des photographies pour faire progresser la science et la connaissance.
 Grâce à ces petites contributions d’une foule de personnes (on parle de “crowdsourcing”), il est possible de créer de grandes choses comme une encyclopédie (Wikipédia) ou une carte du monde (OpenStreetMap).

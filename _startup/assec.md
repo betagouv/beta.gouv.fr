@@ -11,8 +11,6 @@ stats: false
 contact: michel.perrel@beta.gouv.fr
 ---
 
-## Fiche produit
-
 ## Le problème de la gestion de la sécheresse
 
 Lors d’un épisode de sécheresse, les ressources en eau baissent jusqu’à ne plus satisfaire tous les besoins des particuliers, industriels et irrigants (agriculteurs pratiquant l'irrigation de leurs cultures). L’Etat impose alors des restrictions pour partager l’eau entre usagers. En 2017, plus de la moitié du territoire national a été concerné. Ce phénomène gagne en ampleur avec le changement climatique.

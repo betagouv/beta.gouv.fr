@@ -11,8 +11,6 @@ stats: false
 contact: alexandre.dupont@beta.gouv.fr
 ---
 
-## Fiche produit
-
 ### Le contexte
 
 Le transport de marchandises, bien que très organisé et très réglementé, souffre d'une très forte concurrence, notamment de l'Est de l'Europe, et d'une optimisation perfectible, 20% des transports se faisant à vide.
