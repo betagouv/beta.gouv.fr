@@ -1,16 +1,22 @@
 ---
 layout: null
 ---
-<script src="https://cdn.polyfill.io/v2/polyfill.js?features=default,fetch"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/URI.js/1.19.0/URI.js"></script>
-<script>
-  let templateUrl = "https://raw.githubusercontent.com/betagouv/beta.gouv.fr/decoded-templates/templates/startup.md"
-  let destination = "https://github.com/betagouv/beta.gouv.fr/new/master/_startup?filename=_startup/nom_startup.md&value="
-  fetch(templateUrl)
-    .then(response => response.text())
-    .then(body => {
-      let encoded = encodeURIComponent(body);
-      let destination = "https://github.com/betagouv/beta.gouv.fr/new/master/_startup?filename=_startup/nom_startup.md&value="+encoded
-      window.location = destination
-    })
-</script>
+<!DOCTYPE html>
+<html lang="fr">
+    <head></head>
+    <body>
+        <script src="https://cdn.polyfill.io/v2/polyfill.js?features=default,fetch"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/URI.js/1.19.0/URI.js"></script>
+        <script>
+          let templateUrl = "https://raw.githubusercontent.com/betagouv/beta.gouv.fr/decoded-templates/templates/startup.md"
+          let destination = "https://github.com/betagouv/beta.gouv.fr/new/master/_startup?filename=_startup/nom_startup.md&value="
+          fetch(templateUrl)
+            .then(response => response.text())
+            .then(body => {
+              let encoded = encodeURIComponent(body);
+              let destination = "https://github.com/betagouv/beta.gouv.fr/new/master/_startup?filename=_startup/nom_startup.md&value="+encoded
+              window.location = destination
+            })
+        </script>
+    </body>
+</html>
