@@ -5,7 +5,6 @@ link: https://lamat92.github.io/co_construisons/index.html#
 repository: # ou page de description des dépôts s'il y en a plusieurs
 status: investigation
 contact: contact@co-construisons.beta.gouv.fr  # sera visible de tous
-logo: # URL vers un logo en HTTPS ; supprimer cette ligne si pas de logo
 start: 2017-12-15  # date au format ISO (AAAA-MM-DD)
 # screenshot: ajouter une image en 1280x720px dans /img/startups/$nom_startup.png (ou .jpg) et effacer cette ligne
 owner: Ministère de la Transition Ecologique et Solidaire
