@@ -16,7 +16,7 @@ layout: null
             .then(response => response.text())
             .then(body => {
               let encoded = encodeURIComponent(body);
-              let destination = "https://github.com/betagouv/beta.gouv.fr/new/master/_startup?filename="+where+"&value="+encoded
+              let destination = "https://github.com/betagouv/beta.gouv.fr/new/master/?filename="+where+"&value="+encoded
               window.location = destination
             })
         </script>
