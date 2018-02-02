@@ -6,4 +6,4 @@ start: 2018-01-01
 employer: admin/DREAL
 ---
 
-La transformation numérique, écologique  et économique de notre société s'appuiera sur une transformation de notre action publique.
+La transformation numérique, écologique et économique de notre société s'appuiera sur une transformation de notre action publique.
