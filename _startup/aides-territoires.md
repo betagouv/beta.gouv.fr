@@ -11,9 +11,6 @@ stats: false
 contact: elise.marion@beta.gouv.fr
 ---
 
-_Aides territoires_ les meilleures aides pour les projets de votre territoire
-===
-
 ## Le problème
 
 Pour les 35 416 communes et 1 266 regroupements de communes françaises, accéder à des aides en financement, en accompagnement, ou à des appels à projets est essentiel, car sans aides, il n’y a pas de projets d’aménagement de territoire. C’est surtout un véritable casse-tête en raison de la myriade d’aides disponibles, puisqu’on en recense plus de 300 types, qui relèvent de différents niveaux, régional, national, et même européen : comment s’y retrouver dans ce maquis ?
