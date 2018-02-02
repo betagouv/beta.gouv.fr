@@ -27,8 +27,7 @@ De plus, exploitants et inspecteurs courent un risque juridique en cas d’absen
 
 Les exploitants, qui sont responsables du suivi des rejets de polluants de leur installation, peuvent éprouver par le manque de standardisation des données envoyées des difficultés à évaluer s’ils respectent ou non la réglementation.
 
-
-### Aeris, un service de déclaration et d’interprétation des données d’autosurveillance
+## Aeris, un service de déclaration et d’interprétation des données d’autosurveillance
 
 Le service AERIS est un outil de transmission et d'analyse des résultats de surveillance des rejets dans l'air des industries, proposant une transposition numérique de la réglementation.
 
@@ -41,7 +40,7 @@ L’outil pourra également être utilisé en interne de sa société pour perme
 
 L’automatisation du travail d’analyse des données d’autosurveillance permettra aux inspecteurs de cibler de manière plus précise les industries à inspecter, et de libérer du temps pour travailler sur les causes profondes des pollutions. L'harmonisation des données envoyées permettra d'effectuer des comparaisons
 
-### Stratégie de mise sur le marché
+## Stratégie de mise sur le marché
 
 Les premières cibles du service sont les exploitants d'incinérateurs de déchets (428 installations en fonctionnement) et les inspecteurs qui suivent ces sites.
 Ces installations présentent de forts enjeux de surveillance des rejets atmosphériques, par exemple sur la quantité de dioxines émise dans l’air.
