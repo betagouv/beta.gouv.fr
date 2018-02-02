@@ -1,6 +1,6 @@
 ---
 fullname: Ishan Bhojwani
-role: Business Developer
+role: Chargé de développement
 start: 2017-05-23
 end: 2018-06-30
 employer: dinsic

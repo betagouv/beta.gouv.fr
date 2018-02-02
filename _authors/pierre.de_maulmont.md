@@ -1,6 +1,6 @@
 ---
 fullname: Pierre de Maulmont
-role: Intrapreneur à l'Education Nationale
+role: Intrapreneur
 employer: admin/education-nationale
 start: 2015-09-01
 startups:

@@ -1,6 +1,6 @@
 ---
 fullname: Julien Racine
-role: DEV Fullstack
+role: Développeur full-stack
 start: 2016-10-01
 employer: admin/pole-emploi
 avatar: /img/authors/julien.racine.jpg

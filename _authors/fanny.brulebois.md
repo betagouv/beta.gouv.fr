@@ -1,6 +1,6 @@
 ---
 fullname: Fanny Brûlebois
-role: Responsable de Produit
+role: Responsable de produit
 start: 2016-02-15
 end: 2016-07-01
 employer: dinsic

@@ -1,13 +1,14 @@
 ---
 title: API Entreprise
 mission: Récupérer les données des entreprises
-link: https://api.apientreprise.fr/
-repository:
-status: success
-contact: contact@apientreprise.fr
-logo:
-start: 2014-01-01
 owner: DINSIC
+status: success
+start: 2014-01-01
+end:
+link: https://entreprise.api.gouv.fr/
+repository:
+stats: false
+contact: contact@apientreprise.fr
 ---
 
-API Entreprise est une API qui permet de récupérer des données des entreprises comme la forme juridique, les mandataires sociaux, etc. ainsi que des pièces justificatives (attestations fiscales, sociales ..) en toute sécurité.
+API Entreprise est une API qui permet de récupérer des données des entreprises comme la forme juridique, les mandataires sociaux, etc. ainsi que des pièces justificatives (attestations fiscales, sociales…) en toute sécurité.

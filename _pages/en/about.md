@@ -12,7 +12,7 @@ ref: about
 
 beta.gouv.fr is the Digital Services Incubator, a mission of the French government’s Secretariat-general for Government Modernisation. Our aim is to spread the culture of digital innovation throughout the administration. We do this through State Startups.
 
-A State Startup is not just an oxymoron, but a match between a team and a mission. There is no capital investment, no separate juridical entity, only the usage of the tools and practices of the digital startups to solve a friction in an interaction an administration has with citizens. We help it identify an “intrapreneur”, one of its civil servants ready to hustle her way into delivering a digital public service, and create a team of experts around her. We hire developers, datascientists, designers, product managers and all needed talents, either under short-term contracts or as independent contractors, and coach that team so it stays laser-focused on solving real-world issues for real-world users. This team of 2 to 4 people will have 6 months to prove a digital product can improve the situation.
+A State Startup is not just an oxymoron, but a match between a team and a mission. There is no capital investment, no separate juridical entity, only the usage of the tools and practices of the digital startups to solve a friction in an interaction an administration has with citizens. We help it identify an “intrapreneur”, one of its civil servants ready to hustle her way into delivering a digital public service, and create a team of experts around her. We hire developers, data scientists, designers, product managers and all needed talents, either under short-term contracts or as independent contractors, and coach that team so it stays laser-focused on solving real-world issues for real-world users. This team of 2 to 4 people will have 6 months to prove a digital product can improve the situation.
 
 ## Objectives and main results achieved
 
@@ -33,4 +33,4 @@ We have learnt that the best strategy in digital transformation is delivery. Rat
 
 ## Notes
 
-<span id="fn1"><a href="#r1">[1]</a></span> Several academic papers present this history and analyse the public value impact of the incubator. Alexandra Foucaud’s [When the French State works in startup mode](https://raw.github.com/wiki/sgmap/beta.gouv.fr/files/StateStartups-Foucaud.pdf) can give more detailed insight.
+<span id="fn1"><a href="#r1">[1]</a></span> Several academic papers present this history and analyse the public value impact of the incubator. Alexandra Foucaud’s [When the French State works in startup mode](https://raw.github.com/wiki/betagouv/beta.gouv.fr/files/StateStartups-Foucaud.pdf) can give more detailed insight.
