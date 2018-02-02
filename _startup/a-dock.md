@@ -31,7 +31,7 @@ Pour les chargeurs, les bénéfices sont  :
 * la possibilité de contacter un transporteur facilement et de générer certaines formalités administratives (comme la lettre de voiture par exemple) ;
 * la garantie de la fiabilité et de la traçabilité des données fournies pour concrétiser leurs échanges commerciaux.
 
-## 1ère étape
+## 1re étape
 
 Le territoire breton est propice au lancement de A Dock : 80% des échanges sont intra régionaux ; le monde économique breton est facilement mobilisable sur des sujets fédérateurs ; les politiques locaux agissent beaucoup pour valoriser le secteur et seront des appuis de choix pour convaincre de l'intérêt du produit.
 Les premières étapes seront, avec les fédérations de professionnels du secteur des transports, et les acteurs économiques, de déterminer un premier panel restreint (2 ou 3 transporteurs, et 2 ou 3 chargeurs) qui nous permettra de constituer une cartographie des besoins puis le répertoire initial et ses contenus, de le tester et de l’optimiser.
