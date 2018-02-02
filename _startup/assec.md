@@ -1,7 +1,7 @@
 ---
 title: Assec
 mission: Optimiser la réponse collective du monde agricole et des services de l'Etat au problème de pénurie d'eau en période de sécheresse
-owner: Ministeres de la Transition écologique et solidaire et de la Cohésion des territoires
+owner: Ministère de la Cohésion des Territoires / Ministère de la Transition écologique et solidaire
 status: investigation
 start: 2017-12-31
 end:
