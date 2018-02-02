@@ -1,18 +1,21 @@
 ---
 title: Maintenant!
 mission: Recrutez des gens, pas des CV
-link: http://maintenant.pole-emploi.fr
-status: consolidation
-contact: lauren.michel@pole-emploi.fr
-start: 2016-02-02
 owner: Pôle emploi
+status: consolidation
+start: 2016-02-02
+end:
+link: http://maintenant.pole-emploi.fr
+repository:
+stats: false
+contact: lauren.michel@pole-emploi.fr
 ---
 
 # Recrutez des gens, pas des CV !
 
 En moyenne, il faut à un recruteur 20 minutes pour déposer une offre d’emploi. Trop long, trop compliqué, inadapté aux secteurs en tension ou saisonniers comme la restauration, la vente ou encore l'hôtellerie.
 
-Et pour un candidat, il faut en moyenne 30 minutes et pas moins de 10 étapes pour postuler à une annonce en y incluant un CV et une lettre de motivation ...
+Et pour un candidat, il faut en moyenne 30 minutes et pas moins de 10 étapes pour postuler à une annonce en y incluant un CV et une lettre de motivation…
 
 
 ## Maintenant! change la donne !

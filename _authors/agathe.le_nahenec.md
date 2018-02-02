@@ -1,6 +1,6 @@
 ---
 fullname: Agathe le Nahenec
-role: Responsable produit
+role: Responsable de produit
 avatar: /img/logo-generique-startup-carre.jpg
 start: 2015-06-01
 end: 2016-01-31

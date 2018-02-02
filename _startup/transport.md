@@ -1,12 +1,14 @@
 ---
 title: transport.data.gouv.fr
 mission: Rendre disponible, valoriser et améliorer les données transport
+owner: DGITM
+status: construction
+start: 2017-07-03
+end:
 link: https://transport.beta.gouv.fr
 repository: https://github.com/etalab/transport-landingpage
-status: construction
+stats: false
 contact: vincent.lara@data.gouv.fr
-start: 2017-07-03
-owner: DGITM
 ---
 
 

@@ -42,7 +42,7 @@ rescue => standard_error
   puts <<-MESSAGE
 
     Something went wrong trying to parse production versions.
-    Please report the incident at https://github.com/sgmap/beta.gouv.fr/issues:
+    Please report the incident at https://github.com/betagouv/beta.gouv.fr/issues:
 
       Exception name:    #{standard_error.class.name}
       Exception message: #{standard_error.message}

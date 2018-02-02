@@ -37,8 +37,8 @@ La liste des bonnes boîtes est immédiatement exploitable par le chercheur d'em
 
 ### Une offre unique
 
-Qapa ou Leboncoin ont innové sur la facilité d’accès aux offres d’emploi, mais ils ne suggèrent toujours pas d’entreprises. Les réseaux sociaux, LinkedIn ou Viadeo,  sont destinés à des personnes diplômées, issues de certains secteurs d'activités, et aux entreprises ayant pignon sur rue. La bonne boîte est ouverte à tous les chercheurs d’emploi, et au tissu local d'entreprises.
+Qapa ou Leboncoin ont innové sur la facilité d’accès aux offres d’emploi, mais ils ne suggèrent toujours pas d’entreprises. Les réseaux sociaux, LinkedIn ou Viadeo, sont destinés à des personnes diplômées, issues de certains secteurs d'activités, et aux entreprises ayant pignon sur rue. La bonne boîte est ouverte à tous les chercheurs d’emploi, et au tissu local d'entreprises.
 
 ### Une communauté de prescripteurs
 
-Le lancement du service s'appuiera sur des relais : Conseillers Pôle Emploi, Missions Locales (jeunes), CSP (licenciés économiques), Conseil Généraux (bénéficiaires du RSA), associations (publics éloignés de l'emploi), sites dédiés à l'emploi… Ces acteurs auront naturellement intérêt à utiliser et prescrire un outil qui offre une fenêtre sur 75% du marché du travail… et pas 25%.
+Le lancement du service s'appuiera sur des relais : Conseillers Pôle emploi, Missions Locales (jeunes), CSP (licenciés économiques), Conseil Généraux (bénéficiaires du RSA), associations (publics éloignés de l'emploi), sites dédiés à l'emploi… Ces acteurs auront naturellement intérêt à utiliser et prescrire un outil qui offre une fenêtre sur 75% du marché du travail… et pas 25%.
