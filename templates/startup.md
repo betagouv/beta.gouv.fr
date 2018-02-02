@@ -19,8 +19,9 @@ Texte libre au format [Markdown](http://ricostacruz.com/cheatsheets/markdown.htm
 ## Rappels
 
 - [ ] Supprimer les commentaires dans le front-matter : supprimer les croisillons et le texte qui les suit dans la partie entre tirets
-- [ ] Modifier le nom du fichier `nom_startup.md` dans le champ ci-dessus.
-- [ ] Screenshot : ajouter une image en 1280x720px dans /img/startups/$nom_startup.png (ou .jpg)
-- [ ] Créer une nouvelle branche pour l'ajout de ce fichier, et la nommer du même nom que le fichier `nom_startup`.
+- [ ] Modifier le nom du fichier `nom-startup.md` dans le champ ci-dessus (attention à bien inclure l'extension `.md`)
+- [ ] Assurez-vous que le fichier est bien dans le dossier `/_startup`
+- [ ] Screenshot : ajouter une image en 1280x720px dans /img/startups/$nom-startup.png (ou .jpg)
+- [ ] Créer une nouvelle branche pour l'ajout de ce fichier, et la nommer du même nom que le fichier `nom-startup`.
 - [ ] Ouvrir une pull request pour valider l'intégration.
 - [ ] Effacer ce texte une fois que vous l'avez lu 😉
