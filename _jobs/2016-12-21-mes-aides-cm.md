@@ -18,7 +18,7 @@ Notamment, vous :
 - Co-définirez la stratégie de présence sur les réseaux sociaux, dont le positionnement du [compte Twitter](https://twitter.com/MesAides) et le développement du canal Facebook.
 - Gèrerez et développerez la relation avec les utilisateurs, notamment à travers la réponse aux mails entrants et réseaux sociaux.
 - Transcrirez les besoins repérés dans les échanges avec les usagers en propositions d’améliorations concrètes et actionnables.
-- Outillerez autant que possible ces interactions et [documenterez](https://github.com/sgmap/mes-aides-ui/wiki) de bonnes pratiques pour pérenniser les pratiques mises en place.
+- Outillerez autant que possible ces interactions et [documenterez](https://github.com/betagouv/mes-aides-ui/wiki) de bonnes pratiques pour pérenniser les pratiques mises en place.
 - Nous montrerez ce qu’un·e Community Manager exceptionnel·le sait faire et que nous n'avions pas imaginé.
 
 

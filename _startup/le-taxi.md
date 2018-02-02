@@ -1,14 +1,14 @@
 ---
 title: Le Taxi
 mission: Commander un taxi, rapidement
+owner: Ministère de la Transition écologique et solidaire
+status: consolidation
+start: 2015-03-15
+end:
 link: https://le.taxi
 repository: https://github.com/openmaraude/APITaxi
-status: consolidation
-contact:
-logo: https://cdn.rawgit.com/openmaraude/le.taxi/master/themes/taxitheme/static/images/logo_le.taxi.svg
-start: 2015-03-15
-owner: Ministère des Transports
 stats: true
+contact:
 redirect_from:
   - /startup/taxi
 ---

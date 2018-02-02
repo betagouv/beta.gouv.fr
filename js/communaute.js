@@ -26,25 +26,25 @@ new Chart(document.querySelector('canvas'), {
     data: {
         datasets: [{
             data: datasets.dinsic.past,
-            label: 'Agents DINSIC ',  // trailing space to ensure legend complies with French typography rules
-            backgroundColor: '#EAE5A2',  // color scheme: credit http://www.colorschemer.com/schemes/viewscheme.php?id=10785
+            label: 'Agents DINSIC ', // trailing space to ensure legend complies with French typography rules
+            backgroundColor: '#EAE5A2', // color scheme: credit http://www.colorschemer.com/schemes/viewscheme.php?id=10785
             steppedLine: true,
             pointRadius: 0
         }, {
             data: datasets.admin.past,
-            label: 'Autres agents publics ',  // trailing space to ensure legend complies with French typography rules
+            label: 'Autres agents publics ', // trailing space to ensure legend complies with French typography rules
             backgroundColor: '#A2EADA',
             steppedLine: true,
             pointRadius: 0
         }, {
             data: datasets.independent.past,
-            label: 'Indépendant·e·s ',  // trailing space to ensure legend complies with French typography rules
+            label: 'Indépendant·e·s ', // trailing space to ensure legend complies with French typography rules
             backgroundColor: '#C5A2EA',
             steppedLine: true,
             pointRadius: 0
         }, {
             data: datasets.service.past,
-            label: 'Prestataires ',  // trailing space to ensure legend complies with French typography rules
+            label: 'Prestataires ', // trailing space to ensure legend complies with French typography rules
             backgroundColor: '#EAC8A2',
             steppedLine: true,
             pointRadius: 0
@@ -81,7 +81,7 @@ new Chart(document.querySelector('canvas'), {
 *@param	{String}		splitDate	The ISO-formatted day on which the past and future datasets are split.
 */
 function makeTimeSeries(events, splitDate) {
-    events = events.slice();  // copy to work in place
+    events = events.slice(); // copy to work in place
 
     var splitPoint = {
         date: splitDate,

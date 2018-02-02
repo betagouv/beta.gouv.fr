@@ -11,7 +11,7 @@ MRS cherche un·e développeur·se pour un CDD ou un·e prestataire indépendant
 
 # Ma santé, Mon transport
 
-L'équipe MRS cherche un·e développeur·se web fullstack pour un CDD ou un·e prestataire indépendant·e.
+L'équipe MRS cherche un·e développeur·se web full-stack pour un CDD ou un·e prestataire indépendant·e.
 L’Assurance Maladie lance sa 1ère startup d’État. Deux intrapreneurs se lancent dans un service de simplification des remboursements des transports en véhicules personnels, dans la mesure où votre médecin vous a fait une prescription médicale.
 Venez rejoindre une équipe motivée à proposer un service simple, pratique, confortable pour les usagers et un intérêt pour la société dans son ensemble.
 Vous serez en charge de construire (from scratch) le produit / service pour les usagers.
