@@ -10,4 +10,4 @@ avatar: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAklAAAAJGF
 
 Coach startup<br>
 Orpailleur du service public…<br>
-         en quête de pépites !
+en quête de pépites !
