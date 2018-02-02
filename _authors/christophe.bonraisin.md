@@ -6,4 +6,5 @@ employer: admin/pole-emploi
 startups:
     - la-bonne-formation
 ---
+
 Irrité par les irritants, pugnace pour chercher à les résoudre, avec 😃

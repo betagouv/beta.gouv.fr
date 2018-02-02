@@ -10,4 +10,5 @@ startups:
     - reso
     - signaux-faibles
 ---
+
 Expérimente le marketing GtoG
