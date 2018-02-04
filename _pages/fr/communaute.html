@@ -74,7 +74,7 @@ ref: community
     };
 
     {% for person in site.authors %}
-        var employerType = '{{ person.employer }}'.split('/')[0];
+        var employerType = '{{ person.employer | slugify }}'.split('-')[0];
 
         {% if person.start %}
             window.data[employerType].push({
