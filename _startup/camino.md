@@ -1,12 +1,14 @@
 ---
 title: Camino
 mission: Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.
-status: investigation
-contact: contact@camino.beta.gouv.fr
-#logo: # URL vers un logo en HTTPS ; supprimer cette ligne si pas de logo
-start: 2018-01-01
 owner: Ministère de la transition écologique et solidaire
-# screenshot: ajouter une image en 1280x720px dans /img/startups/$nom_startup.png (ou .jpg) et effacer cette ligne
+status: investigation
+start: 2018-01-01
+end:
+link:
+repository:
+stats: false
+contact: contact@camino.beta.gouv.fr
 ---
 
 ## Le problème
@@ -39,10 +41,10 @@ Avec ce référentiel commun ouvert et partagé des dossiers miniers et des auto
 Une première preuve de concept constituée de tableaux couplés à une carte interactive valide la possibilité de constituer un référentiel commun des titres et projets miniers.
 
 Maintenant, il s’agit de l’étendre à l’ensemble des titres valides énergétiques, non énergétiques et les stockages souterrains (hors substances utiles à l’énergie atomique) pour présenter une cartographie complète et à jour du domaine minier et des projets en cours.
- 
+
 Dans notre démarche utilisateur, nous dématérialiserons les premières procédures les plus fréquentes du code minier et proposerons un tableau de bord aux entreprises qui expérimenteront le service Camino.
- 
+
 Avec les données recueillies, nous automatiserons l’actualisation du cadastre minier et nous diffuserons dans un standard électronique ouvert les données et documents publics déjà disponibles d’ici six mois, notamment via data.gouv.fr.
 Nous travaillons en priorité sur le territoire métropolitain et la Guyane.
- 
+
 Vous êtes en charge de dossiers miniers, vous êtes intéressés pour participer à la création de ce service ? <a href="mailto:contact@camino.beta.gouv.fr?Subject=Camino%20m'intéresse%20!" target="_top">Contactez-nous !</a>
