@@ -8,4 +8,5 @@ github: jpic
 startups:
     - mrs
 ---
+
 Aime Linux, BSD, TDD, CI, CD, DevOps, et le tofu.

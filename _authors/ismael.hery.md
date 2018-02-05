@@ -12,4 +12,3 @@ startups:
         inactive
     - open-academie
 ---
-La Bonne Boite, La Bonne Formation, MEMO, Plante et moi, Open Academie
