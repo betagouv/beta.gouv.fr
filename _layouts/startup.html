@@ -90,7 +90,11 @@ layout: default
 
                             {% if startup.first %}
                                 {% capture currentId %}/startup/{{ startup.first[0] }}{% endcapture %}
-                                {% assign isInactive = true %}
+                                {% if startup.first[1] == "inactive" %}
+                                    {% assign isInactive = true %}
+                                {% else %}
+                                    {% assign isInactive = false %}
+                                {% endif %}
                             {% else %}
                                 {% capture currentId %}/startup/{{ startup }}{% endcapture %}
                                 {% assign isInactive = false %}
