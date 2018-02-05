@@ -13,8 +13,8 @@ layout: null
           let where = params.where
           let templateUrl = "https://raw.githubusercontent.com/betagouv/beta.gouv.fr/templates/"+what+".md"
           fetch(templateUrl)
-            .then(response => response.text())
-            .then(body => {
+            .then(function(response) { return response.text()})
+            .then(function(body) {
               let encoded = encodeURIComponent(body);
               let destination = "https://github.com/betagouv/beta.gouv.fr/new/master/?filename="+where+"&value="+encoded
               window.location = destination
