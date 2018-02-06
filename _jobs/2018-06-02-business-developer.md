@@ -1,6 +1,6 @@
 ---
 roles: Un·e business developer 
-startup: Téléprocedures simplifiées (TPS)
+startup: tps
 open: true
 ---
 
