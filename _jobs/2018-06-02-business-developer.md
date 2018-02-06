@@ -1,5 +1,5 @@
 ---
-roles: Un·e business developer 
+roles: un·e business developer 
 startup: tps
 open: true
 ---
