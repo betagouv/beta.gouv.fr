@@ -29,4 +29,4 @@ Rémunération : 30 000 – 70 000 € brut selon expérience
 
 # Comment postuler ? 
 
-[Explique nous par mail](mailto:recrutement@beta.gouv.fr) pourquoi tu souhaites nous rejoindre et envois nous ton CV et un lien vers ton profil LinkedIn ou équivalent.
+Explique nous par mail pourquoi tu souhaites nous rejoindre et envois nous ton CV et un lien vers ton profil LinkedIn ou équivalent à [contact@tps.apientreprise.fr](contact@tps.apientreprise.fr).
