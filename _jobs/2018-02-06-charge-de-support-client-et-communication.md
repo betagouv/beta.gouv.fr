@@ -4,13 +4,13 @@ startup: Téléprocédures simplifiées (TPS)
 open: true
 ---
 
-# Qui sommes-nous ?
+# Qui sommes-nous ? 
 
-Nous sommes une Startup d’État, accélérée par l’Incubateur de services numériques BetaGouv.
+Téléprocedures simplifiées (TPS) est une Startup d’Etat, accélérée par l’Incubateur de services numériques beta.gouv.fr.
 
 Notre mission : dématérialiser 100 % des démarches administratives pour simplifier les relations entre les usagers et l’administration.
 
-L’an dernier, nous avons construit le produit, déjà adopté par près de 40 organismes publics avec 10 000 dossiers déposés à la clé. Notre ambition pour 2018 ? 500 procédures dématérialisées et 1 million de dossiers déposés. Pour atteindre cet objectif, nous avons besoin de constituer une équipe de choc déterminée et à l’écoute.
+L’an dernier, nous avons construit le produit, déjà adopté par près de 40 organismes publics avec 10 000 dossiers déposés. Notre ambition pour 2018 ? 500 procédures dématérialisées et 1 million de dossiers déposés. Pour atteindre cet objectif, nous avons besoin de constituer une équipe de choc avec des bizdevs déterminés et à l’écoute.
 
 # Ta mission
 
@@ -32,4 +32,4 @@ Si comme nous tu rêves de venir à bout de la paperasse administrative, que tu 
 
 # Comment postuler
 
-Explique nous par mail pourquoi tu souhaites nous rejoindre et envois nous ton CV, un lien vers ton profil LinkedIn ou équivalent à contact@tps.apientreprise.fr
+Explique nous par mail pourquoi tu souhaites nous rejoindre et envois nous ton CV, un lien vers ton profil LinkedIn ou équivalent à [contact@tps.apientreprise.fr](contact@tps.apientreprise.fr).
