@@ -1,5 +1,5 @@
 ---
-roles: Un·e chargé.e de support client et communication
+roles: Un·e chargé·e de support client et communication
 startup: Téléprocédures simplifiées (TPS)
 open: true
 ---
@@ -28,7 +28,6 @@ Si comme nous tu rêves de venir à bout de la paperasse administrative, que tu 
 * Contrat : CDD ou en freelance, temps partiel à 80% minimum
 * Début de la mission : immédiat
 * Rémunération : 25 000 – 50 000 € brut selon expérience
-
 
 # Comment postuler
 
