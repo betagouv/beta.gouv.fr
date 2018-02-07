@@ -4,7 +4,7 @@ startup: tps
 open: true
 ---
 
-L'équipe Téléprocédures simplifiées cherche un·e chargé.e de support client et communication pour l'accompagner dans sa croissance d'activité.
+L'équipe Téléprocédures simplifiées cherche un·e chargé·e de support client et communication pour l'accompagner dans sa croissance d'activité.
 
 <!--more-->
 
