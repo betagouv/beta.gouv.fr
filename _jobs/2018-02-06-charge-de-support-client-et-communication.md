@@ -4,6 +4,10 @@ startup: tps
 open: true
 ---
 
+L'équipe Téléprocédures simplifiées cherche un·e chargé.e de support client et communication pour l'accompagner dans sa croissance d'activité.
+
+<!--more-->
+
 # Qui sommes-nous ? 
 
 [Téléprocedures simplifiées (TPS)](https://tps.apientreprise.fr/) est une Startup d’Etat, accélérée par l’Incubateur de services numériques beta.gouv.fr.
