@@ -1,8 +1,12 @@
 ---
-roles: Un·e business developer 
-startup: Téléprocedures simplifiées (TPS)
+roles: un·e business developer 
+startup: tps
 open: true
 ---
+
+Téléprocedures simplifiées (TPS) cherche un·e business developer pour diffuser notre produit dans les administrations françaises.
+
+<!--more-->
 
 # Qui sommes-nous ? 
 
