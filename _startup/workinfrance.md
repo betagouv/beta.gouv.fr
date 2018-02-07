@@ -2,10 +2,10 @@
 title: Work in France
 mission: La plateforme de demande d’autorisations provisoires de travail.
 owner: Ministère des Affaires sociales
-status: investigation
+status: contruction
 start: 2017-10-26
 end:
-link:
+link: il n'est pas encore accessible au public.
 repository: https://github.com/SocialGouv/work-in-france
 stats: false
 contact: contact@workinfrance.beta.gouv.fr
