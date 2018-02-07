@@ -2,7 +2,7 @@
 title: MDPH en ligne
 mission: Faciliter les demandes de compensation du handicap auprès des MDPH
 owner: Caisse de solidarité pour l'autononomie (CNSA)
-status: passation
+status: success
 start: 2014-12-01
 end:
 link: https://mdphenligne.cnsa.fr
