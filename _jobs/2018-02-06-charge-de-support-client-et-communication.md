@@ -1,6 +1,6 @@
 ---
 roles: un·e chargé·e de support client et communication
-startup: Téléprocédures simplifiées (TPS)
+startup: tps
 open: true
 ---
 
