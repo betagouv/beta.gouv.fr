@@ -18,15 +18,19 @@ L’an dernier, nous avons construit le produit, déjà adopté par près de 40 
 
 # Ta mission
 
-Convertir et accompagner un portefeuille d’organismes publics désireux de dématérialiser leurs procédures avec TPS. Sauver des utilisateurs perdus. Appeler toutes les préfectures de France. Organiser des Open Labs pour présenter le produit devant des centaines de personnes. Vendre un produit, gratuit, dont toutes les administrations rêvaient (si tu as vendu des produits pourris dont personne ne voulait, tu vas voir, ça fait une différence).
+- Convertir et accompagner un portefeuille d’organismes publics désireux de dématérialiser leurs procédures avec TPS
+- Sauver des utilisateurs perdus
+- Appeler toutes les préfectures de France
+- Organiser des Open Labs pour présenter le produit devant des centaines de personnes
+- Vendre un produit, gratuit, dont toutes les administrations rêvaient (si tu as vendu des produits pourris dont personne ne voulait, tu vas voir, ça fait une différence)
 
 Si comme nous tu rêves de venir à bout de la paperasse administrative, que tu souhaites faire changer les choses et construire un État digne du XXIe siècle, alors rejoins-nous !
 
 # Conditions
 
-Contrat : CDD ou en freelance, temps partiel à 80 % minimum
-Début de la mission : immédiat
-Rémunération : 30 000 – 70 000 € brut selon expérience
+- Contrat : CDD ou en freelance, temps partiel à 80 % minimum
+- Début de la mission : immédiat
+- Rémunération : 30 000 – 70 000 € brut selon expérience
 
 # Comment postuler ?
 
