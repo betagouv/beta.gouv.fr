@@ -4,13 +4,13 @@ startup: tps
 open: true
 ---
 
-L'équipe Téléprocédures simplifiées cherche un·e chargé·e de support client et communication pour l'accompagner dans sa croissance d'activité.
+L’équipe Téléprocédures simplifiées cherche un·e chargé·e de support client et communication pour l’accompagner dans sa croissance d’activité.
 
 <!--more-->
 
 # Qui sommes-nous ? 
 
-[Téléprocedures simplifiées (TPS)](https://tps.apientreprise.fr/) est une Startup d’Etat, accélérée par l’Incubateur de services numériques beta.gouv.fr.
+[Téléprocedures simplifiées (TPS)](https://tps.apientreprise.fr/) est une Startup d’État, accélérée par l’Incubateur de services numériques beta.gouv.fr.
 
 Notre mission : dématérialiser 100 % des démarches administratives pour simplifier les relations entre les usagers et l’administration.
 
@@ -21,18 +21,18 @@ L’an dernier, nous avons construit le produit, déjà adopté par près de 40 
 * Assurer le support client : sauver des utilisateurs perdus
 * Animer la communauté des organismes utilisateurs
 * Améliorer le marketing de TPS : création de supports de communication
-* Elargir la communication de TPS : contacter la presse
-* Représenter TPS lors d’événements (colloques, salons, séminaires...)
+* Élargir la communication de TPS : contacter la presse
+* Représenter TPS lors d’événements (colloques, salons, séminaires…)
 * Participer à l’organisation d’Open Labs pour présenter le produit devant des centaines de personnes
 
 Si comme nous tu rêves de venir à bout de la paperasse administrative, que tu souhaites faire changer les choses et construire un État digne du XXIe siècle, alors rejoins-nous !
 
 # Conditions
 
-* Contrat : CDD ou en freelance, temps partiel à 80% minimum
+* Contrat : CDD ou en freelance, temps partiel à 80 % minimum
 * Début de la mission : immédiat
 * Rémunération : 25 000 – 50 000 € brut selon expérience
 
 # Comment postuler
 
-Explique nous par mail pourquoi tu souhaites nous rejoindre et envois nous ton CV, un lien vers ton profil LinkedIn ou équivalent à [contact@tps.apientreprise.fr](mailto:contact@tps.apientreprise.fr).
+Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à [contact@tps.apientreprise.fr](mailto:contact@tps.apientreprise.fr).
