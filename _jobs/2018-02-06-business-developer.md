@@ -10,7 +10,7 @@ Téléprocedures Simplifiées (TPS) cherche un·e business developer pour diffus
 
 # Qui sommes-nous ?
 
-[Téléprocedures Simplifiées (TPS)](https://tps.apientreprise.fr/) est une Startup d’Etat, accélérée par l’Incubateur de services numériques beta.gouv.fr.
+[Téléprocedures Simplifiées (TPS)](https://tps.apientreprise.fr/) est une Startup d’État, accélérée par l’Incubateur de services numériques beta.gouv.fr.
 
 Notre mission : dématérialiser 100 % des démarches administratives pour simplifier les relations entre les usagers et l’administration.
 
