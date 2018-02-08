@@ -10,9 +10,9 @@ Téléprocedures simplifiées (TPS) cherche un·e business developer pour diffus
 
 # Qui sommes-nous ? 
 
-[Téléprocedures simplifiées (TPS)](https://tps.apientreprise.fr/) est une Startup d’Etat, accélérée par l’Incubateur de services numériques beta.gouv.fr.
+[Téléprocedures simplifiées (TPS)](https://tps.apientreprise.fr/) est une Startup d’État, accélérée par l’Incubateur de services numériques beta.gouv.fr.
 
-Notre mission : dématérialiser 100 % des démarches administratives pour simplifier les relations entre les usagers et l’administration.
+Notre mission : dématérialiser 100% des démarches administratives pour simplifier les relations entre les usagers et l’administration.
 
 L’an dernier, nous avons construit le produit, déjà adopté par près de 40 organismes publics avec 10 000 dossiers déposés. Notre ambition pour 2018 ? 500 procédures dématérialisées et 1 million de dossiers déposés. Pour atteindre cet objectif, nous avons besoin de constituer une équipe de choc avec des bizdevs déterminés et à l’écoute.
 
@@ -33,4 +33,4 @@ Rémunération : 30 000 – 70 000 € brut selon expérience
 
 # Comment postuler ? 
 
-Explique nous par mail pourquoi tu souhaites nous rejoindre et envois nous ton CV et un lien vers ton profil LinkedIn ou équivalent à [contact@tps.apientreprise.fr](mailto:contact@tps.apientreprise.fr).
+Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie nous ton CV et un lien vers ton profil LinkedIn ou équivalent à [contact@tps.apientreprise.fr](mailto:contact@tps.apientreprise.fr).
