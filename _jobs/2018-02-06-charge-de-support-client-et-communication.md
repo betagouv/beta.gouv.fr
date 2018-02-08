@@ -18,20 +18,20 @@ L’an dernier, nous avons construit le produit, déjà adopté par près de 40 
 
 # Ta mission
 
-* Assurer le support client : sauver des utilisateurs perdus
-* Animer la communauté des organismes utilisateurs
-* Améliorer le marketing de TPS : création de supports de communication
-* Élargir la communication de TPS : contacter la presse
-* Représenter TPS lors d’événements (colloques, salons, séminaires…)
-* Participer à l’organisation d’Open Labs pour présenter le produit devant des centaines de personnes
+- Assurer le support client : sauver des utilisateurs perdus
+- Animer la communauté des organismes utilisateurs
+- Améliorer le marketing de TPS : création de supports de communication
+- Élargir la communication de TPS : contacter la presse
+- Représenter TPS lors d’événements (colloques, salons, séminaires…)
+- Participer à l’organisation d’Open Labs pour présenter le produit devant des centaines de personnes
 
 Si comme nous tu rêves de venir à bout de la paperasse administrative, que tu souhaites faire changer les choses et construire un État digne du XXIe siècle, alors rejoins-nous !
 
 # Conditions
 
-* Contrat : CDD ou en freelance, temps partiel à 80 % minimum
-* Début de la mission : immédiat
-* Rémunération : 25 000 – 50 000 € brut selon expérience
+- Contrat : CDD ou en freelance, temps partiel à 80 % minimum
+- Début de la mission : immédiat
+- Rémunération : 25 000 – 50 000 € brut selon expérience
 
 # Comment postuler
 
