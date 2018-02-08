@@ -1,5 +1,5 @@
 ---
-roles: un·e business developer 
+roles: un·e business developer
 startup: tps
 open: true
 ---
@@ -8,7 +8,7 @@ Téléprocedures simplifiées (TPS) cherche un·e business developer pour diffus
 
 <!--more-->
 
-# Qui sommes-nous ? 
+# Qui sommes-nous ?
 
 [Téléprocedures simplifiées (TPS)](https://tps.apientreprise.fr/) est une Startup d’Etat, accélérée par l’Incubateur de services numériques beta.gouv.fr.
 
@@ -31,6 +31,6 @@ Début de la mission : immédiat
 Rémunération : 30 000 – 70 000 € brut selon expérience
 
 
-# Comment postuler ? 
+# Comment postuler ?
 
 Explique nous par mail pourquoi tu souhaites nous rejoindre et envois nous ton CV et un lien vers ton profil LinkedIn ou équivalent à [contact@tps.apientreprise.fr](mailto:contact@tps.apientreprise.fr).

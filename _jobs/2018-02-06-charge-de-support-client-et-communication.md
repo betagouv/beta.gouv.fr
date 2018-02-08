@@ -8,7 +8,7 @@ L’équipe Téléprocédures simplifiées cherche un·e chargé·e de support c
 
 <!--more-->
 
-# Qui sommes-nous ? 
+# Qui sommes-nous ?
 
 [Téléprocedures simplifiées (TPS)](https://tps.apientreprise.fr/) est une Startup d’État, accélérée par l’Incubateur de services numériques beta.gouv.fr.
 
