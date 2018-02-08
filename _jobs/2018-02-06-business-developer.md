@@ -26,7 +26,7 @@ Si comme nous tu rêves de venir à bout de la paperasse administrative, que tu 
 
 # Conditions
 
-Contrat : CDD ou en freelance, temps partiel à 80% minimum
+Contrat : CDD ou en freelance, temps partiel à 80 % minimum
 Début de la mission : immédiat
 Rémunération : 30 000 – 70 000 € brut selon expérience
 

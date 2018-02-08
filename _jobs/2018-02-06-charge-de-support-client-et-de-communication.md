@@ -8,7 +8,7 @@ L’équipe Téléprocédures simplifiées cherche un·e chargé·e de support c
 
 <!--more-->
 
-# Qui sommes-nous ?
+# Qui sommes-nous ?
 
 [Téléprocedures simplifiées (TPS)](https://tps.apientreprise.fr/) est une Startup d’État, accélérée par l’Incubateur de services numériques beta.gouv.fr.
 
@@ -31,7 +31,7 @@ Si comme nous tu rêves de venir à bout de la paperasse administrative, que tu 
 
 - Contrat : CDD ou en freelance, temps partiel à 80 % minimum
 - Début de la mission : immédiat
-- Rémunération : 25 000 – 50 000 € brut selon expérience
+- Rémunération : 25 000 – 50 000 € brut selon expérience
 
 # Comment postuler
 
