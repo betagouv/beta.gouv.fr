@@ -5,7 +5,7 @@ owner: Ministère des Affaires sociales
 status: contruction
 start: 2017-10-26
 end:
-link: il n'est pas encore accessible au public.
+link:
 repository: https://github.com/SocialGouv/work-in-france
 stats: false
 contact: contact@workinfrance.beta.gouv.fr
