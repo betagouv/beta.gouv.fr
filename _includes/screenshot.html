@@ -5,12 +5,9 @@
 {% if screenshot_file %}
     {% assign screenshot_path = screenshot_file.path %}
 {% else %}
-    {% assign screenshot_path = '/img/startup/' | append: startup_id | append: '.png' %}
+    {% assign screenshot_path = false %}
 {% endif %}
 
-<!-- Checks if file exists -->
-{% for static_file in site.static_files %}
-    {% if static_file.path == screenshot_path %}
-        <img class="screenshot" src="{{ screenshot_path }}" title="Interface de {{ include.startup.title }}" alt="">
-    {% endif %}
-{% endfor %}
+{% if screenshot_path %}
+    <img class="screenshot" src="{{ screenshot_path }}" title="Interface de {{ include.startup.title }}" alt="">
+{% endif %}
