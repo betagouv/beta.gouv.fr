@@ -2,7 +2,7 @@
 
 ## Ajouter une Startup
 
-### [En un clic par l'interface web de GitHub](/trampoline.html?what=startup&where=_startup/nom-startup.md)
+### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=startup&where=_startup/nom-startup.md)
 
 Les illustrations doivent être en 16:9, au format 1280 ⨉ 720 pixels, optimisées au préalable avec un outil du type [ImageOptim](https://imageoptim.com/mac) - choisir des réglages "lossy" donnant en général plus de 50% de gains à la compression, mais ne pas supprimer les métadonnées d'images.
 
@@ -22,7 +22,7 @@ La documentation des différentes propriétés à renseigner est accessible en c
 
 ### 1. Écrire le billet
 
-[En un clic par l'interface web de GitHub](/trampoline.html?what=post&where=_posts/AAAA-MM-DD-titre.md) :smiley:
+[En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=post&where=_posts/AAAA-MM-DD-titre.md) :smiley:
 
 Pour ajouter une image au billet, créer un fichier JPEG dans `img/posts` du même nom que le fichier contenant le post (donc par exemple `AAAA-MM-DD-titre.jpg`). À l'affichage, l'image sera redimensionnée : les dimensions exactes de l'image ont donc peu d'importance.
 
@@ -39,7 +39,7 @@ Recueillez l'avis d'au moins 2 membres de l'incubateur. Après de potentielles i
 
 ## Ajouter un événement
 
-### [En un clic par l'interface web de GitHub](/trampoline.html?what=event&where=_posts/AAAA-MM-DD-nom_evenement.md) :smiley:
+### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=event&where=_posts/AAAA-MM-DD-nom_evenement.md) :smiley:
 
 Un événement est un type de billet particulier. Il a donc quelques métadonnées supplémentaires (`start`, `end`…), mais est [équivalent](#publier-un-billet) pour le reste, dont l'ajout d'images et la création offline.
 
@@ -48,7 +48,7 @@ Notamment, attention, la date dans le nom du fichier au format `AAAA-MM-DD-nom_e
 
 ## Ajouter un membre à la communauté BetaGouv
 
-### [En un clic par l'interface web de GitHub](/trampoline.html?what=author&where=_authors/prenom.nom.md) :smiley:
+### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=author&where=_authors/prenom.nom.md) :smiley:
 
 Attention, l'image doit être carrée et de préférence à une résolution supérieure à 512 ⨉ 512 pixels, optimisée au préalable avec un outil du type [ImageOptim](https://imageoptim.com/mac) - choisir des réglages "lossy" donnant en général plus de 50% de gains à la compression, mais ne pas supprimer les métadonnées d'images.
 
@@ -59,7 +59,7 @@ Le nom du fichier est important : il doit correspondre au nom de la personne, s
 
 ## Ajouter une offre d'emploi
 
-### [En un clic par l'interface web de GitHub](/trampoline.html?what=job&where=_jobs/AAAA-MM-DD-nom_offre.md) :smiley:
+### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=job&where=_jobs/AAAA-MM-DD-nom_offre.md) :smiley:
 
 > Une fois l'offre pourvue, bien penser à changer la valeur du flag `open` et de la mettre à `false`.
 
@@ -80,7 +80,7 @@ Mettre à jour la propriété `featured` de la phase correspondante pour référ
 
 ## Ajouter une page
 
-### [En un clic par l'interface web de GitHub](/trampoline.html?what=page&where=_pages/page.html) :smiley:
+### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=page&where=_pages/page.html) :smiley:
 
 Attention, toutes les pages doivent avoir, dans leur [front matter](https://jekyllrb.com/docs/frontmatter/), les variables `permalink`, `lang` et `ref` définies.
 
