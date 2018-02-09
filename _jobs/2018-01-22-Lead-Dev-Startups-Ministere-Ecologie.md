@@ -10,7 +10,7 @@ Les Startups d'État du Ministère de la Transition Écologique et Solidaire che
 
 # Présentation
 
-Vous êtes développeur full stack, et voulez mettre vos compétences au profit de l’amélioration du service public ? Vous êtes à votre aise dans les contextes de petites équipes autonomes, agiles, et proches de leurs utilisateurs ?
+Vous êtes développeur full-stack, et voulez mettre vos compétences au profit de l’amélioration du service public ? Vous êtes à votre aise dans les contextes de petites équipes autonomes, agiles, et proches de leurs utilisateurs ?
 
 Vous avez à cœur de rendre un service de qualité qui transforme la relation des usagers aux services publics, y compris en outillant des contributeurs/ré-utilisateurs potentiellement peu à l’aise avec le développement logiciel ?
 
