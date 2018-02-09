@@ -2,6 +2,8 @@
 roles: un·e chargé de déploiement Signaux Faibles
 startup: signaux-faibles
 open: true
+redirect_from:
+  - /recrutement/2017/12/20/Charge-de-deploiement-signaux-faibles.html
 ---
 [Signaux Faibles](https://beta.gouv.fr/startup/signaux-faibles.html) détecte les signes précoces de défaillance des entreprises et permet aux agents publics en région d'engager plus rapidement et plus efficacement les actions en remédiation qui pourront les sauver. Après un an d'expérimentation et des dizaines de visites d'entreprises, l'outil a fait la preuve de son utilité.
 

@@ -5,6 +5,8 @@ techno: Python / Open edX
 type: 'friend'
 externalURL: https://www.fun-mooc.fr/
 open: true
+redirect_from:
+  - /recrutement/2017/12/20/Developpeur-Python-Django-FUN.html
 ---
 
 En France 30% des élèves sont en [échec scolaire](https://www.insee.fr/fr/statistiques/1292995), on compte 5 millions de chômeurs et peut-être autant de salariés dans des jobs sans intérêt. Face à ce problème sociétal en France mais aussi dans toute la Francophonie, FUN ambitionne de mener ces personnes en échec scolaire, au chômage ou en échec de carrière au meilleur niveau de compétences pour s’insérer dans une vie active qu’ils auront souhaité.
