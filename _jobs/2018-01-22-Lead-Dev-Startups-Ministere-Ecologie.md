@@ -1,6 +1,5 @@
 ---
 roles: Un·e Lead Dev d'une Startup d'État du Ministère de l'écologie
-startup: Startups d'État du Ministère de l'écologie
 techno: Choix technologiques ouverts parmi les solutions libres du marché
 open: true
 ---
