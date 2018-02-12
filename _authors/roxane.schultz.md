@@ -7,8 +7,8 @@ start: 2017-12-15
 end: 2018-06-30
 employer: service/NUMA
 startups:
-    - Co-construisons
-    - Aides Territoires
+    - co-construisons
+    - aides-territoires
 github: roxanesch
 ---
 
