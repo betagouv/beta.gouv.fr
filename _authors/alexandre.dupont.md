@@ -4,6 +4,8 @@ role: Intrapreneur
 avatar: https://image.ibb.co/bw5qB6/Alex_dupont.png
 start: 2018-01-01
 employer: admin/DREAL
+startups:
+    - a-dock
 ---
 
 La transformation numérique, écologique et économique de notre société s'appuiera sur une transformation de notre action publique.
