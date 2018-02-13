@@ -1,5 +1,5 @@
 ---
-roles: un·e chargé de déploiement Signaux Faibles
+roles: un·e chargé·e de déploiement Signaux Faibles
 startup: signaux-faibles
 open: true
 ---
