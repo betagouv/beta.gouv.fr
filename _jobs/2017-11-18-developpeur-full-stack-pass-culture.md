@@ -3,6 +3,8 @@ roles: un·e développeur·se full-stack
 startup: pass-culture
 techno: Choix technologiques ouverts parmi les solutions libres du marché
 open: true
+redirect_from:
+  - /recrutement/2017/11/18/developpeur-full-stack-Pass-Culture.html
 ---
 
 Le Pass Culture cherche un·e développeur·se pour un CDD ou un·e prestataire indépendant·e. Si vous voulez construire un outil mobile grand public qui facilite l’accès au spectacle vivant, à la littérature ou encore à l’apprentissage musical, rejoignez-nous !
