@@ -10,4 +10,4 @@ startups:
     - pass-culture
 ---
 
-J'arrive aux start-ups d'état pour aider sur le Pass Culture ! 
+J'arrive aux start-ups d'état pour aider sur le Pass Culture !

@@ -14,7 +14,7 @@ class TestHomepage < MiniTest::Unit::TestCase
   end
 
   def test_title
-    assert_equal('beta.gouv.fr', @home.title)
+    assert_equal('Incubateur de services publics numériques', @home.title)
     assert_equal('beta.gouv.fr', @home_en.title)
   end
 
