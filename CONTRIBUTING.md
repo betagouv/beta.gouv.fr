@@ -104,17 +104,6 @@ Les fichiers pertinents pour une modification de la présentation sont probablem
 
 Afin de minimiser les écarts entre les versions de développement et les versions de production, ce dépôt contient un fichier `Gemfile` (spécification des versions minimum des dépendances), comme beaucoup de dépôts Ruby. Ce fichier `Gemfile` a par ailleurs un fonctionnement un peu particulier : lorsque c'est possible, il obtient sur le site de Github le numéro de version de Github Pages le plus récent, et tente de mettre à jour les dépendances.
 
-## Modifier le logo
-
-La source du logo est dans le répertoire `_sources`. Il s'agit d'un SVG contenant du texte. Pour le rendre accessible à tous les utilisateurs, il importe de le transformer en un SVG contenant des `path`.
-
-Cela peut être fait à la ligne de commande avec [Inkscape](https://inkscape.org/fr/) :
-
-```shell
-inkscape --export-text-to-path `pwd`/_sources/logo.svg -l `pwd`/img/logo.svg
-svgo --multipass img/logo.svg # optimisation, cf. https://jakearchibald.github.io/svgomg/
-```
-
 ## Relire les changements
 
 Pour encourager les contributions, éviter les erreurs d'inattention, et se mettre d'accord collectivement sur le contenu publié au nom de l'incubateur, chaque modification doit être relue et approuvée par une autre personne que l'auteur avant d’être intégrée.
