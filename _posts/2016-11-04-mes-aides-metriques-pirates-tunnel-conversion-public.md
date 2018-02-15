@@ -1,6 +1,5 @@
 ---
 title: Comment utiliser métriques pirates et tunnels de conversion au bénéfice de vos usagers
-startup: mes-aides
 authors:
     - matti.schneider
 ---
