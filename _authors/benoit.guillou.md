@@ -2,7 +2,7 @@
 fullname: Benoit Guillou
 role: Coach, Rails Dev
 start: 2017-04-01
-end: 2017-12-31
+end: 2018-06-30
 employer: independent/octo
 startups:
     - avril
