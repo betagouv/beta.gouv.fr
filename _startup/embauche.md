@@ -7,7 +7,7 @@ start: 2014-10-01
 end:
 link: https://embauche.beta.gouv.fr
 repository: https://github.com/betagouv/cout-embauche
-stats: false
+stats: true
 contact: contact@embauche.beta.gouv.fr
 ---
 
