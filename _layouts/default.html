@@ -8,6 +8,8 @@
                 <a href="/"><img class="nav__logo" src="/img/logo-betagouv.svg" alt="Accueil de beta.gouv.fr" /></a>
 
                 <ul class="nav__links">
+                    <li><a href="https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris" target="new">Agenda</a>
+		    </li>
                     {% assign menu_items = site.pages | where_exp: 'page', 'page.menu_index > 0' | sort: 'menu_index' %}
                     {% for menu_item in menu_items %}
                         {% assign translation = site.pages | where: 'ref', menu_item.ref | where: 'lang', 'en' | first %}
