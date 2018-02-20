@@ -9,8 +9,8 @@ Un soir, Hela poste un message d'erreur sur Slack :
 
 Hela en ce moment elle fait naître des incubateurs, dont
 celui des affaires sociales qu'elle accompagne personnellement.
-Elle a passé l'après-midi avec le groupe de travail pour la
-simplification du calcul des minima sociaux.
+Elle a passé l'après-midi avec le groupe de travail
+de lutte contre le non recours aux droits.
 Elle simulait les conséquences de cette réforme quand l'erreur
 s'est produite.
 
@@ -72,8 +72,8 @@ Je poste cette hypothèse sur slack. Un pouce vers le
 haut me confirme que je suis sur la bonne voie.
 
 Sandra, une développeuse qui passe sur slack, me le confirme mais s'interroge sur la possibilité
-de corriger rapidement le problème. Sandra elle travaille sur la question depuis plus d'un an, elle a été
-lauréate d'un Open Government Partnership en 2016 autour de ce sujet, autant dire qu'elle s'y connait mieux que moi.
+de corriger rapidement le problème. Sandra elle travaille sur la question depuis plus d'un an, elle a
+participé à l'Open Government Partnership en 2016 autour de ce sujet, autant dire qu'elle s'y connait mieux que moi.
 Mais elle dit qu'elle n'aura pas le temps de regarder davantage d'ici demain
 alors que moi je suis disponible tout de suite.
 
@@ -100,13 +100,13 @@ Le lendemain matin, je viens très tôt pour aider à finir de résoudre le prob
 En arrivant, je lis que le développeur du site a intégré ma pull request depuis chez lui.
 Il me remercie chaleureusement. Ca me fait plaisir. Le site n'est pas resté cassé pendant les heures de bureaux.
 
-Et moi j'ai envi de remercier les gens qui ont écrit ce code. Notamment j'ai envi de dire merci
+Et moi j'ai envie de remercier les gens qui ont écrit ce code. Notamment j'ai envie de dire merci
 pour la clarté de l'erreur. Ce qui a fait la différence c'est de donner du contexte,
 dans ce cas précis, les valeurs de l'enum.
 
 ### Un apprentissage sur l'agilité ?
 
-Le midi, Sandra, la fameuse développeuse lauréate de l'Open Governement Partenership me dit avec un grand sourire : hier soir tu m'as appris quelque-chose sur l'agilité. Je ne vois pas de quoi elle parle.
+Le midi, Sandra, la fameuse développeuse de l'Open Governement Partenership me dit avec un grand sourire : hier soir tu m'as appris quelque-chose sur l'agilité. Je ne vois pas de quoi elle parle.
 Elle précise sa pensée : cette nuit comme la correction était petite, c'était bien
 de la pousser pour qu'elle soit intégrée au saut du lit.
 
@@ -116,11 +116,12 @@ Ca l'a empêché de regarder si il n'y avait pas une erreur simple à corriger.
 ### Une erreur qui donne des hypothèses
 
 Je la remercie pour la clarté de l'erreur.
-Sandra me répond que l'erreur aurait aussi pu venir de problèmes plus complexes d'encodage
-en UTF-8. Ca la gène que seule la cause la plus simple soit listée.
+Sandra me répond que l'erreur en aurait peut-être caché une autre.
+Ca la gène que seule la cause la plus simple soit listée comme
+cause potentielle du problème.
 Moi je trouve que c'est beaucoup mieux que rien.
 
-Je lui donne l'exemple de Mockito, une bibliothèque pour les tests automatisés en Java.
+Je lui donne l'exemple de Mockito, une bibliothèque populaire pour les tests automatisés en Java.
 Son erreur la plus courrante peut avoir deux causes :
 * La première est un faux pas comit quand on débute.
 * La seconde provient d'une fonctionnalité avancée qu'on apprends que 
