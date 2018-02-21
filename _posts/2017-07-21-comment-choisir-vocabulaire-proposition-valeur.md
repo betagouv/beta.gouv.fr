@@ -1,6 +1,5 @@
 ---
 title: Comment choisir le vocabulaire d'une proposition de valeur
-startup: embauche
 authors: matti.schneider
 ---
 

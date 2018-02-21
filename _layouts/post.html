@@ -22,10 +22,6 @@ layout: default
     <article class="post">
         <div class="excerpt">{{ page.excerpt }}</div>
 
-        {% if startup %}
-            <aside>{% include startup-card.html description=startup %}</aside>
-        {% endif %}
-
         {{ content | remove: page.excerpt }}
 
         {% if page.category == 'evenement' %}
