@@ -23,4 +23,4 @@ Objectif pour juin 2018 : une première vague de milliers de familles passeront 
 - Temps plein
 - Démarrage dès que possible
 
-Tu es intéressé·e ? Raconte-nous pourquoi tu aurais envie de nous rejoindre et envoie ton LinkedIn / CV / GitHub à <a href="mailto:contact@reso.beta.gouv.fr">contact@openacademie.beta.gouv.fr</a>.
+Intéressé·e ? Racontez-nous pourquoi et envoyez votre LinkedIn / CV / GitHub à <a href="mailto:contact@reso.beta.gouv.fr">contact@openacademie.beta.gouv.fr</a>.
