@@ -17,7 +17,7 @@ Chaque année, des dizaines de milliers de rendez-vous pris dans les maisons dé
 
 Les rendez-vous sont pris par téléphone ou physiquement et les annulations faites par téléphone. Les créneaux sont souvent imposés aux usagers. Il y a rarement de confirmation avant la date de rendez-vous et pas de conséquences pour l’usager qui pose un lapin.
 
-Les activités de la Protection Maternelle et Infantile (PMI) et des Services sociaux locaux (SSL) sont particulièrement concernées. Ces lapins ont un coût financier (environ 18 millions d’euros par an). Ils ont surtout un coût social, avec l’allongement de délais de prise de rendez-vous, des conséquences sur la santé publique et individuelle de populations fragiles et la frustration des agents.
+Les activités de la Protection Maternelle et Infantile (PMI) et des Services sociaux locaux (SSL) sont particulièrement concernées. Ces lapins ont un coût financier substantiel et un coût social, avec l’allongement de délais de prise de rendez-vous, des conséquences sur la santé individuelle de personnes fragiles et des impacts sur les agents.
 
 Il y a lieu de penser que cette situation existe dans un nombre considérable de départements. Les solutions trouvées pour le Pas-de-Calais ont vocation à être répliquées sur l’ensemble du territoire.
 

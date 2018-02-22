@@ -1,5 +1,5 @@
 ---
-fullname: Guillaume HARRY
+fullname: Guillaume Harry
 role: Responsable de produit
 avatar: https://avatars3.githubusercontent.com/sgmap-bot?s=600
 link: https://www.linkedin.com/in/guillaume-harry-32885637/

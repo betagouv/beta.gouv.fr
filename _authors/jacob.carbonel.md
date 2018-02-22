@@ -7,7 +7,7 @@ end: 2018-06-30
 employer: admin/MTES
 github: jcarb
 startups:
-    - AERIS
+    - aeris
 ---
 
 “Le langage informatique permet de lever des ambiguïtés parfois permises par les rédactions littéraires”
