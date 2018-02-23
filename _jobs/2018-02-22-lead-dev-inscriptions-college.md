@@ -1,12 +1,8 @@
 ---
-roles: un·e lead dev
-startup: openacademie
+roles: un·e lead dev full-stack pour dématérialiser l'inscription au collège
+startup: open-academie
 open: true
 ---
-
-Open Académie cherche un·e dev full-stack pour dématérialiser l'inscription au collège.
-
-<!--more-->
 
 Vous avez vu vos parents s’arracher les cheveux pour vous inscrire au collège en remplissant des dossiers papier qui demandaient vos noms et prénoms pour la énième fois ? Vous l'avez fait vous-même pour vos enfants ?
 
@@ -15,6 +11,8 @@ Vous avez envie de relever un challenge technique et UX en seulement quelques mo
 Dans ce cas venez développer chez BetaGouv le service d’inscription au collège, appelé de ses vœux par le Premier ministre !
 
 Objectif pour juin 2018 : une première vague de milliers de familles passeront quelques secondes plutôt que quelques heures à inscrire leurs enfants. Rien que ça.
+
+<!--more-->
 
 # Conditions
 
