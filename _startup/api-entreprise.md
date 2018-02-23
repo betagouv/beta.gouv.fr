@@ -1,7 +1,7 @@
 ---
 title: API Entreprise
 mission: Récupérer les données des entreprises
-owner: DINSIC
+owner: Etalab
 status: success
 start: 2014-01-01
 end:
