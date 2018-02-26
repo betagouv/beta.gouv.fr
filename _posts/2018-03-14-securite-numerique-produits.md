@@ -13,7 +13,7 @@ Pourquoi ? Tout simplement parce que penser en termes de **produit**, plutôt qu
 
 Voici par exemple, illustrées graphiquement, deux conceptions opposées de ce que devrait être la « courbe de diffusion » d’un outil informatique.
 
-![Démarche projet ou démarche produit ?](/img/posts/projet-vs-produit.jpg)
+![Démarche projet ou démarche produit ?](/img/posts/projet-vs-produit.png)
 
 Dans une démarche **projet**, on commence par une (plus ou moins) longue période de conception puis de construction de l’outil, en vue d’une date de déploiement ou de « mise en production » qui concernera la totalité des usagers concernés. Souvent cette longue période de conception se déroule sans avoir rencontré un seul utilisateur.
 
@@ -27,7 +27,7 @@ La courbe de diffusion visée est une courbe en S, ou sigmoïde (si vous voulez 
 
 Cette différence de présupposés induit une façon très différente de traiter la question de la sécurité numérique. Pour l’illustrer, la figure ci-dessous superpose à la courbe de diffusion une courbe hypothétique représentant le jugement qu’un expert en sécurité pourrait porter sur un produit numérique.
 
-![Courbe de risque d'un produit](/img/posts/risque-produit.jpg)
+![Courbe de risque d'un produit](/img/posts/risque-produit.png)
 
 Lorsqu’un MVP est ouvert à ses premiers usagers, et à plus forte raison lors des phases de prototypage, **l’équipe produit** a très peu de temps à consacrer à l’analyse des différents vecteurs d’attaque qui permettraient par exemple à une personne malveillante de corrompre ses bases de données, de rendre le service indisponible en saturant ses serveurs ou d’exfiltrer des données confidentielles.
 
