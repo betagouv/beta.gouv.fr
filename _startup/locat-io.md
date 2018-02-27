@@ -5,7 +5,7 @@ owner: Ministère de la Cohésion des Territoires / Ministère de la Transition 
 status: investigation
 start: 2018-01-01
 end:
-link:
+link: http://locatio.beta.gouv.fr/home
 repository:
 stats: false
 contact: matthieu.heurtel@beta.gouv.fr
