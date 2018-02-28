@@ -1,14 +1,14 @@
 ---
 title: Locat.io
-mission: Remettre la confiance au centre de la relation locataires-bailleurs
+mission: Remettre la confiance au centre de la relation entre propriétaires et locataires
 owner: Ministère de la Cohésion des Territoires / Ministère de la Transition Ecologique et Solidaire
-status: investigation
+status: construction
 start: 2018-01-01
 end:
-link:
+link: http://locatio.beta.gouv.fr/home
 repository:
 stats: false
-contact: matthieu.heurtel@beta.gouv.fr
+contact: contact@locatio.beta.gouv.fr
 ---
 
 ## Une relation tendue
