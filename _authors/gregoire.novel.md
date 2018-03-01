@@ -6,5 +6,5 @@ end: 2018-05-31
 employer: independent/octo
 avatar: https://beta.gouv.fr/img/logo-generique-startup-carre.jpg
 startups:
-    - tps
+    - demarches-simplifiees.fr
 ---

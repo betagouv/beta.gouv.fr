@@ -10,7 +10,7 @@ startups:
     - mrs
     - pass-culture
     - plante-et-moi
-    - tps
+    - demarches-simplifiees.fr
 ---
 
 Interface Humaine à la recherche de connections pour développer les services publics numériques de demain

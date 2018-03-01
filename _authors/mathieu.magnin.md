@@ -6,7 +6,7 @@ start: 2017-01-16
 end: 2018-09-28
 employer: independent/octo
 startups:
-    - tps
+    - demarches-simplifiees.fr
 ---
 
-Dev Rails sur TPS
+Dev Rails sur demarches-simplifiees.fr

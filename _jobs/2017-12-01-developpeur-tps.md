@@ -1,6 +1,6 @@
 ---
 roles: un·e développeur·se
-startup: tps
+startup: demarches-simplifiees.fr
 techno: Ruby on Rails
 open: false
 ---
