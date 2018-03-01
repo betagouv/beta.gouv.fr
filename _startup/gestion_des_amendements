@@ -1,0 +1,31 @@
+---
+title: Gestion des amendements
+mission: Faciliter la réponse aux amendements sur les projets de loi
+owner: DINSIC
+status: investigation
+start: 2018-03-01
+end:
+---
+Pour chaque projet de loi, le Gouvernement doit préparer des réponses aux amendements déposés par les parlementaires. Pour traiter ces amendements, l'administration décortique d’abord un fichier .pdf (.word ou .rtf) qui contient tous les amendements. Des amendements supplémentaires parviennent ensuite au fil de l’eau.  
+
+Au final, l’objectif est de fournir aux ministres un dossier complet de réponses aux amendements du Parlement afin qu’ils puissent défendre la position du Gouvernement pendant le débat parlementaire. 
+
+Concrètement, pour chaque amendement, il faut donc :
+-  analyser son contenu et l’adresser au collaborateur compétent pour répondre, 
+- rédiger la réponse et s’assurer que cette réponse passe toutes les étapes de la chaîne de validation prévue,
+- insérer l’amendement avec sa réponse dans le dossier du ministre. 
+Aujourd’hui, en parallèle du traitement des amendements, les équipes font un état des lieux régulier aux instances interministérielles donc produire des tableaux mis à jour en permanence, et imprimer l’ensemble du dossier pour les archives nationales. 
+
+Tout ce travail se fait parfois dans un délai très court car les parlementaires et le Gouvernement peuvent soumettre, modifier ou retirer des amendements avant et pendant la séance de débat au Parlement. De plus, la difficulté réside dans le volume des amendements à traiter : s’agissant par exemple du projet de loi de financement de la sécurité sociale pour 2018 (PLFSS), il a fallu traiter 1300 amendements en 3 jours, entre le vendredi soir et le début de la séance de débat parlementaire le mardi. 
+
+Pour chaque projet de loi, le cycle se répète 4 fois : lors de la première lecture à l’Assemblée, pour la première lecture au Sénat, puis aux nouvelles lectures à l’Assemblée et au Sénat. Il peut également y avoir des amendements à traiter lors de l’examen du projet de texte par les commissions parlementaires avant chaque lecture. 
+
+Nous proposons de fluidifier la gestion des amendements en :
+- pré-affectant automatiquement (ou semi-automatiquement) les amendements aux équipes compétentes pour répondre ;
+- permettant aux équipes de travailler à plusieurs sur les réponses et sur une interface claire, ergonomique et adaptée ;
+- s’interfaçant avec le système informatique de chacune des 2 Assemblées en temps réel, notamment pour suivre l’évolution de l’article, le dépôt des amendements et leur ordre de lecture en séance ;
+- facilitant le suivi et la consolidation des réponses en temps réel grâce à des documents éditables à tout moment.
+
+Ce service de gestion des amendements simplifié sera testé sur le PLFSS 2019. 
+Pourquoi lui ? Il est voté chaque année et fait l’objet d’une contrainte de délai particulièrement marquée : 50 jours séparent au maximum le dépôt du projet de loi et son vote définitif par le Parlement. 
+L’outil qui sera développé pourra cependant être utilisé pour tout autre projet de loi en vue d’optimiser la gestion de la phase parlementaire.
