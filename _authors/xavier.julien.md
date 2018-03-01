@@ -8,7 +8,7 @@ employer: service/octo
 startups:
     - mps:
         inactive
-    - tps:
+    - demarches-simplifiees.fr:
         inactive
     - api-entreprise:
         inactive

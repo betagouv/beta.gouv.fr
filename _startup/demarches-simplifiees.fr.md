@@ -1,17 +1,19 @@
 ---
-title: Téléprocédures Simplifiées
+title: demarches-simplifiees.fr
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
 owner: DINSIC
 status: consolidation
 start: 2015-09-15
 end:
-link: https://tps.apientreprise.fr
+link: https://www.demarches-simplifiees.fr
 repository: https://github.com/betagouv/tps
 stats: true
-contact: contact@tps.apientreprise.fr
+contact: contact@demarches-simplifiees.fr
+redirect_from:
+  - /startup/tps
 ---
 
-Téléprocédures Simplifiées (TPS) est une application entièrement en ligne qui permet à tous les organismes assurant des missions de service public de créer des téléprocédures en quelques minutes et de gérer les demandes des usagers sur une plateforme dédiée.
+demarches-simplifiees.fr est une application entièrement en ligne qui permet à tous les organismes assurant des missions de service public de créer des démarches en quelques minutes et de gérer les demandes des usagers sur une plateforme dédiée.
 
 **Le constat**
 
@@ -21,19 +23,19 @@ La dématérialisation, quant à elle, ne devrait pas être un investissement hu
 
 C’est encore loin d’être le cas.
 
-Pour les seules démarches des entreprises sous la responsabilité de l’Etat, plus de 1000 procédures sont encore uniquement en papier. Au rythme actuel d’environ 100 démarches dématérialisées par an, il faudra près de 10 ans pour achever la dématérialisation.
+Pour les seules démarches des entreprises sous la responsabilité de l’Etat, plus de 1 000 démarches sont encore uniquement en papier. Au rythme actuel d’environ 100 démarches dématérialisées par an, il faudra près de 10 ans pour achever la dématérialisation.
 
-Et si chaque administration fait le choix de développer ses propres outils informatique (au lieu d’utiliser un outil mutualisé comme TPS), ce sont des dizaines de millions d’euros qui seront dépensés en pure perte…
+Et si chaque administration fait le choix de développer ses propres outils informatique (au lieu d’utiliser un outil mutualisé comme demarches-simplifiees.fr), ce sont des dizaines de millions d’euros qui seront dépensés en pure perte…
 
-**TPS, c’est pour qui ?**
+**demarches-simplifiees.fr, c’est pour qui ?**
 
-Vous travaillez dans un organisme public ? Vous gérez des procédures administratives ? Vous voulez moderniser votre administration ?
+Vous travaillez dans un organisme public ? Vous gérez des démarches administratives ? Vous voulez moderniser votre administration ?
 
-TPS est pour vous.
+demarches-simplifiees.fr est pour vous.
 
-*Faites gagner du temps à vos usagers, faites économiser de l’argent au contribuable et à votre administration : utilisez TPS !*
+*Faites gagner du temps à vos usagers, faites économiser de l’argent au contribuable et à votre administration : utilisez demarches-simplifiees.fr !*
 
-**Pourquoi utiliser TPS ?**
+**Pourquoi utiliser demarches-simplifiees.fr ?**
 
 - Parce que c’est **gratuit** (pour tous les organismes assurant des missions de service public - services de l’Etat, opérateurs, collectivités).
 
@@ -59,8 +61,8 @@ TPS est pour vous.
 
 **Contact**
 
-TPS est développé par l’incubateur de services numériques de la direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC), rattaché aux services du Premier ministre.
+demarches-simplifiees.fr est développé par l’incubateur de services numériques de la direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC), rattaché aux services du Premier ministre.
 
 Vous voulez en savoir plus ? Vous voulez une démo ? Pour nous contacter :
-- Email : contact@tps.apientreprise.fr
+- Email : contact@demarches-simplifiees.fr
 - Téléphone : + 33 1 40 15 68 49

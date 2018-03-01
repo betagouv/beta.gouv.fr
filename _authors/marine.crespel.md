@@ -7,7 +7,7 @@ start: 2017-02-27
 end: 2017-06-30
 employer: independent/octo
 startups:
-    - tps
+    - demarches-simplifiees.fr
 ---
 
 Designer UX/UI
