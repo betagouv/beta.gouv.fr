@@ -1,5 +1,5 @@
 ---
-fullname: Benjamin Doberset 
+fullname: Benjamin Doberset
 role: Chargé de développement
 # ci-dessous, tu peux aussi remplacer sgmap-bot par ton propre pseudo Github
 # ou bien fournir l'URL (HTTPS obligatoire) d'une image carrée 512x512 minimum
@@ -11,5 +11,3 @@ employer: independent/octo
 startups:
     - demarches-simplifiees.fr
 ---
-
-
