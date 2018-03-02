@@ -11,4 +11,4 @@ startups:
     - assec
 ---
 
-J'accompagne des startups dans leur démarche de Product Management et d'organisation de leurs Teams. Avec le framework Xpedition, nous leur apportons des méthodes, des outils, une culture de travail basé des démarches itératives, collaboratives et créatives.
+Coach qui aide à comprendre la logique des réseaux
