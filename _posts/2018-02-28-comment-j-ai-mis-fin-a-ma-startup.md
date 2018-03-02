@@ -44,6 +44,6 @@ Les aspects négatifs de cette expérience (bilan oblige) sont surtout liés à 
 
 Le développement de ce nouveau service n’avait donc plus vraiment d’intérêt et la sagesse m’imposait d’y mettre fin, avec la satisfaction d’avoir abouti rapidement à cette conclusion et sans qu’elle ait nécessité d’y investir des fonds et des moyens humains exorbitants.
 
-Comme je souhaitais continuer à participer à l’amélioration du service public, auquel je suis si attaché (je n’oublie pas que je viens de [www.service-public.fr](www.service-public.fr) ) et réinvestir les acquis de cette expérience, j’ai  rejoint l’équipe de l’autre startup de la Dila, A+, le ServicePublic VIP pour tous pour vivre de nouvelles aventures numériques !
+Comme je souhaitais continuer à participer à l’amélioration du service public, auquel je suis si attaché (je n’oublie pas que je viens de [www.service-public.fr](https://www.service-public.fr) ) et réinvestir les acquis de cette expérience, j’ai  rejoint l’équipe de l’autre startup de la Dila, [« A+, le Service Public VIP pour tous  »](/startup/aplus.html) pour vivre de nouvelles aventures numériques !
 
 Nota : cette expérimentation s’est déroulée du 2 au 20 octobre 2017.
