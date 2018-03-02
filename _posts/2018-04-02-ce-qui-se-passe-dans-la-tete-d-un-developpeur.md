@@ -7,7 +7,7 @@ Un soir, Hela poste un message d'erreur sur Slack :
 
 > Le site est cassé, je peux plus rentrer mes cas types :/
 
-![Une erreur est survenue](img/posts/2018-04-02-ce-qui-se-passe-dans-la-tete-d-un-developpeur/erreur.png)
+![Une erreur est survenue](/img/posts/2018-04-02-ce-qui-se-passe-dans-la-tete-d-un-developpeur/erreur.png)
 
 Hela en ce moment elle fait naître des incubateurs, dont
 celui des affaires sociales qu'elle accompagne personnellement.
