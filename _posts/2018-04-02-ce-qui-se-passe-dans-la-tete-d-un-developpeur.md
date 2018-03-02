@@ -7,6 +7,8 @@ Un soir, Hela poste un message d'erreur sur Slack :
 
 > Le site est cassé, je peux plus rentrer mes cas types :/
 
+![Une erreur est survenue](img/posts/2018-04-02-ce-qui-se-passe-dans-la-tete-d-un-developpeur/erreur.png)
+
 Hela en ce moment elle fait naître des incubateurs, dont
 celui des affaires sociales qu'elle accompagne personnellement.
 Elle a passé l'après-midi avec le groupe de travail
@@ -139,7 +141,9 @@ Pourtant souvent, si je prends le temps de lire en détail ce que le message dit
 je trouve une partie destinée à un humain et cette partie me
 permet d'élaborer des hypothèses.
 
-Pour la résolution, le slow motion a fonctionné aussi. Je ne me suis pas précipité
+Pour la résolution, le slow motion a fonctionné aussi : j'ai pu faire abstraction
+de l'heure tardive, de la fatigue et d'une thématique métier complexe.
+Je ne me suis pas précipité
 sur la partie la plus cryptique des messages d'erreurs (le deuxième message).
 J'ai fait une pose. Tout en gardant dans un coin de ma tête la possibilité de
 continuer, je ne me suis pas acharné. J'ai accepté que l'obstacle puisse être plus
