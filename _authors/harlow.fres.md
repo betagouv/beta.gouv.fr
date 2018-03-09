@@ -1,12 +1,12 @@
 ---
 fullname: Harlow Fres
-role: Developpeur
+role: Développeur
 avatar: https://avatars3.githubusercontent.com/hrlwfres?s=600
 start: 2018-01-01
 end:
-employer: 
+employer: independent/octo
 startups:
     - locat-io
 ---
 
-Developpeur agile mais solide
+Développeur agile mais solide
