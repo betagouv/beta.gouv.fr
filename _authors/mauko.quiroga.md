@@ -3,8 +3,8 @@ fullname: Mauko Quiroga
 role: Sorcier
 link: http://mauko.me/
 start: 2016-02-15
-end: 2018-03-31
-employer: independent/octo
+end: 2020-02-29
+employer: dinsic
 startups:
     - transport
     - boussole:
