@@ -7,7 +7,7 @@ start: 2017-10-01
 end:
 link: https://mrs.beta.gouv.fr
 repository:
-stats: false
+stats: true
 contact: frederic.boulay@beta.gouv.fr
 ---
 
