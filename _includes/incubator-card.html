@@ -1,0 +1,45 @@
+{% if include.description %}
+    {% assign description = include.description %}
+{% else %}
+    {% capture id %}/incubator/{{ include.id }}{% endcapture %}
+    {% for incubator in site.incubator %}
+        {% if incubator.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
+            {% assign description = incubator %}
+        {% endif %}
+    {% endfor %}
+{% endif %}
+{% assign shortid = description.id | remove: '/incubator/' %}
+
+<div class="ui fluid card">
+    <div class="content">
+        <div class="header">{{ description.name }}</div>
+        <div class="meta">
+            {{ description.owner }}
+        </div>
+
+        <div class="description">
+            {{ description.content | markdownify }}
+        </div>
+    </div>
+    <div class="extra content">
+        <div class="map" id="map_{{shortid}}"></div>
+        {{ description.adresse }}
+        <script>
+            $(function() {loadMap("map_{{shortid}}", "{{ description.adresse }}")});
+        </script>
+    </div>
+    <div class="extra content">
+        {% for startup in description.startups %}
+
+            {% capture currentId %}/startup/{{ startup }}{% endcapture %}
+
+            {% for currentStartup in site.startup %}
+                {% if currentStartup.id == currentId %} {% comment %} where query doesn't work on id {% endcomment %}
+                    <div class="ui tiny label {% if isInactive %}inactive{% endif %}">
+                        <a class="ui" href="{{ currentStartup.url }}">{{ currentStartup.title }}</a>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+    </div>
+</div>

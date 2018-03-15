@@ -28,6 +28,8 @@ author:
   twitter: betaGouv
 
 collections:
+  incubator:
+    output: true
   startup:
     output: true
   authors:
