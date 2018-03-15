@@ -6,7 +6,7 @@ status: construction
 start: 2018-01-01
 end:
 link:
-repository:
+repository: https://github.com/MTES-MCT/locatio
 stats: false
 contact: contact@locatio.beta.gouv.fr
 ---
