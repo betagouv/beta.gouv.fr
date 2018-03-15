@@ -15,4 +15,4 @@ Le salaire est un élément incontournable d'une embauche. Le simulateur permet 
 
 L'objectif est d'enlever l'incertitude qui accompagne souvent une embauche ou une négociation salariale. Sont intégrés dans le calcul tous les prélèvements et avantages obligatoires assis sur le salaire. Nous rassemblons pour cela les acteurs institutionnels et privés pour construire une base unifiée et libre de ces règles, rendues calculables et expliquées, croisement entre le droit du travail, de la sécurité sociale et des impôts.
 
-En plus du site embauche.beta.gouv.fr, le simulateur est disponible sous forme de module à intégrer gratuitement et simplement sur tout site Web (aujourd'hui  intégré par Pôle-emploi entreprises, ou encore par BGE, association d'aide à la création d'entreprise).
+En plus du site embauche.beta.gouv.fr, le simulateur est disponible sous forme de module à intégrer gratuitement et simplement sur tout site Web (aujourd'hui intégré par Pôle-emploi entreprises, ou encore par BGE, association d'aide à la création d'entreprise).
