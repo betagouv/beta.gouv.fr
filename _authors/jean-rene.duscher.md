@@ -6,5 +6,5 @@ start: 2018-03-15
 end: 
 employer: admin/affaires-sociales
 startups:
-    - Code du Travail Numérique
+    - codedutravail
 ---
