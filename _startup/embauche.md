@@ -1,6 +1,6 @@
 ---
 title: Simulateur d’embauche
-mission: Estimer le salaire lors d'une embauche en France : total employeur, brut, net.
+mission: "Estimer le salaire lors d'une embauche en France : total employeur, brut, net."
 owner: DINSIC
 status: consolidation
 start: 2014-10-01
