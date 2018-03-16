@@ -5,6 +5,7 @@ role: Smartass
 # tu peux aussi fournir l'URL (HTTPS obligatoire) d'une image carrée 512x512 minimum
 avatar: https://avatars3.githubusercontent.com/betagouv-bot?s=600
 link: # optionnel : lien vers une page perso externe. Effacer ce commentaire si rien à mettre.
+github: nom_utilisateur # optionnel : nom d'utilisateur GitHub, permet d'être ajouté automatiquement à l'organisation GitHub betagouv
 start: 2016-12-31 # date d'arrivée au format ISO (AAAA-MM-JJ)
 end: 2017-09-15 # date de fin de contrat au format ISO (AAAA-MM-JJ)
 employer: # dinsic ou independent/<employer> ou admin/<employer> ou service/octo
