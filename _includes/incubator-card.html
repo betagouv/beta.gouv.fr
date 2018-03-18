@@ -28,6 +28,11 @@
 
             {% for currentStartup in site.startup %}
                 {% if currentStartup.id == currentId %} {% comment %} where query doesn't work on id {% endcomment %}
+                    {% if currentStartup.status == "success" %}
+                        {% assign isInactive = true %}
+                    {% else %}
+                        {% assign isInactive = false %}
+                    {% endif %}
                     <div class="ui tiny label {% if isInactive %}inactive{% endif %}">
                         <a class="ui" href="{{ currentStartup.url }}">{{ currentStartup.title }}</a>
                     </div>
