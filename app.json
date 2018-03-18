@@ -1,7 +1,7 @@
 {
     "name": "beta.gouv.fr",
     "scripts": {},
-    "env": {},
+    "env": {"CI":"true"},
     "formation": {},
     "addons": [],
     "buildpacks": [{
