@@ -22,10 +22,6 @@
         </div>
     </div>
     <div class="extra content">
-        <div class="map" id="map_{{shortid}}" data-address="{{ description.adresse }}"></div>
-        {{ description.adresse }}
-    </div>
-    <div class="extra content">
         {% for startup in description.startups %}
 
             {% capture currentId %}/startup/{{ startup }}{% endcapture %}
@@ -38,5 +34,12 @@
                 {% endif %}
             {% endfor %}
         {% endfor %}
+    </div>
+    <div class="extra content">
+        <a href="mailto:{{ description.contact }}?subject=Incubateur">Nous contacter</a>
+    </div>
+    <div class="extra content">
+        <div class="map" id="map_{{shortid}}" data-address="{{ description.adresse }}"></div>
+        {{ description.adresse }}
     </div>
 </div>
