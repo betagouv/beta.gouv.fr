@@ -1,7 +1,7 @@
 ---
 name: La Fabrique Numérique
-owner: Ministère de l’Environnement et du Développement Durable
-contact: samuel.goldszmidt
+owner: Ministère de la Transition Écologique et Solidaire - Ministère de la Cohésion des Territoires
+contact: samuel.goldszmidt@beta.gouv.fr
 adresse: Arche de la Défense, 1 Parvis de la Défense, Puteaux
 startups:
   - a-dock
