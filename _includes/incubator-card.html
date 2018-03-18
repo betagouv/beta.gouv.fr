@@ -22,11 +22,8 @@
         </div>
     </div>
     <div class="extra content">
-        <div class="map" id="map_{{shortid}}"></div>
+        <div class="map" id="map_{{shortid}}" data-address="{{ description.adresse }}"></div>
         {{ description.adresse }}
-        <script>
-            $(function() {loadMap("map_{{shortid}}", "{{ description.adresse }}")});
-        </script>
     </div>
     <div class="extra content">
         {% for startup in description.startups %}
