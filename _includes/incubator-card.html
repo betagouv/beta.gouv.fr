@@ -41,7 +41,7 @@
         {% endfor %}
     </div>
     <div class="extra content">
-        <a href="mailto:{{ description.contact }}?subject=Incubateur">Nous contacter</a>
+        <a href="{{ description.contact }}">Nous contacter</a>
     </div>
     <div class="extra content">
         <div class="map" id="map_{{shortid}}" data-address="{{ description.adresse }}"></div>

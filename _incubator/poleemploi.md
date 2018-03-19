@@ -1,7 +1,7 @@
 ---
 name: Startups d’État Pôle emploi
 owner: Pôle emploi
-contact: contact@beta.gouv.fr
+contact: https://beta.gouv.fr/contact/
 adresse: 22 Allée Darius Milhaud, Paris 19è
 startups:
   - la-bonne-boite
