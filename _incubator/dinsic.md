@@ -41,4 +41,4 @@ startups:
   - urbaclic
 ---
 
-L'incubateur inter-ministériel à l'origine du concept de Startups d’État. Nous accueillons également les Startups qui ne disposent pas encore d'incubateur dans leur administration.
+L'incubateur interministériel à l'origine du concept de Startups d’État. Nous accueillons également les Startups qui ne disposent pas encore d'incubateur dans leur administration.
