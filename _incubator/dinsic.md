@@ -1,7 +1,7 @@
 ---
 name: L'Incubateur de Services Numériques
 owner: DINSIC
-contact: contact@beta.gouv.fr
+contact: https://beta.gouv.fr/contact/
 adresse: 20 avenue de Ségur, Paris
 startups:
   - api-drones
