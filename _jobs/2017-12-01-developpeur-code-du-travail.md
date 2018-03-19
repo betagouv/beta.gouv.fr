@@ -6,7 +6,7 @@ startup: codedutravail
 techno: Choix technologiques ouverts parmi les solutions libres du marché
 ---
 
-Et si on rendait le droit du travail exécutable ?!
+Et si on rendait le droit du travail plus lisible ?!
 
 <!--more-->
 
