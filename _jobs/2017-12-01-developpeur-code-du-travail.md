@@ -10,7 +10,7 @@ Et si on rendait le droit du travail plus lisible ?!
 
 <!--more-->
 
-On recherche un·e développeur·e pour créer le [code du travail numérique](https://beta.gouv.fr/startups/codedutravail.html). L'objectif de cette Start-up d'État est d'améliorer l'accès au droit du travail, de le rendre compréhensible pour les personnes qu'il concerne : les employeurs et les salariés.
+On recherche un·e développeur·e pour créer le [code du travail numérique](https://beta.gouv.fr/startup/codedutravail.html). L'objectif de cette Start-up d'État est d'améliorer l'accès au droit du travail, de le rendre compréhensible pour les personnes qu'il concerne : les employeurs et les salariés.
 
 Il s'agit dans un premier temps de comprendre les principales questions que se posent employés et employeurs quant à leurs droits et devoirs dans le cadre d'un contrat de travail.
 Pour cela il faut savoir quelle est la source de droit applicable, quelles dispositions s'appliquent au cas particulier de notre utilisateur, et lui donner une réponse claire : soit rendre le droit executable !
