@@ -124,38 +124,34 @@ cause potentielle du problème.
 Moi je trouve que c'est beaucoup mieux que rien.
 
 Je lui donne l'exemple de Mockito, une bibliothèque populaire pour les tests automatisés en Java.
-Son erreur la plus courrante peut avoir deux causes :
+Son erreur la plus courrante peut avoir deux causes : l'une
+commise quand on débute, l'autre quand on connaît très bien
+la librairie et qu'on utilise une fonctionnalité avancée.
+Depuis le code Mockito, il est impossible de savoir laquelle des deux erreurs
+est commise à l'exécution. Alors Mockito affiche les deux causes potentielles.
+C'est beaucoup mieux que de n'en afficher aucune.
 
-*   La première est un faux pas comit quand on débute.
-*   La seconde provient d'une fonctionnalité avancée qu'on apprends que
-    bien plus tard.
-    Depuis le code Mockito, il est impossible de savoir laquelle des deux erreurs
-    est commise à l'exécution. Alors Mockito affiche les deux causes potentielles.
-    C'est beaucoup mieux que de n'en afficher aucune.
 
 ## Ralentir pour aller plus vite
 
-Ce que j'ai fait d'un point de vu théorique, c'est du slow motion.
-M'arrêter. Ralentir. M'obliger à lire en détail des messages d'erreurs même si
+Ce qui a été décisif, c'est de ralentir.
+J'ai pu faire abstraction de l'heure tardive, de la fatigue et de la
+complexité métier.
+Ralentir ça veut dire que je me suis forcé à lire en détail des messages d'erreurs même si
 c'est rébarbatif. De loin ça a l'air incompréhensible, même pour un développeur.
 Pourtant souvent, si je prends le temps de lire en détail ce que le message dit,
 je trouve une partie destinée à un humain et cette partie me
 permet d'élaborer des hypothèses.
 
-Pour la résolution, le slow motion a fonctionné aussi : j'ai pu faire abstraction
-de l'heure tardive, de la fatigue et d'une thématique métier complexe.
-Je ne me suis pas précipité
-sur la partie la plus cryptique des messages d'erreurs (le deuxième message).
-J'ai fait une pause. Tout en gardant dans un coin de ma tête la possibilité de
-continuer, je ne me suis pas acharné. J'ai accepté que l'obstacle puisse être plus
-fort que moi.
-
-Mais comme je connais les personnes qui travaillent autour de ce site, j'ai pensé
-à eux et ça m'a donné l'énergie de m'y remettre plutôt que de regarder la série que
-j'ai prévu à la télé. Mais je me suis donné du temps. Et quand je suis revenu,
-j'avais un autre regard. J'ai cherché le chemin le plus facile plutôt que de comprendre
-la partie qui me semblait la plus mystérieuse.
-
 En allant à mon rythme j'ai pu me faire confiance.
 
 J'écris cet article en espérant que d'autres s'autorisent à en faire autant.
+
+## Des accents dans l'enum ?
+
+Un développeur m'a posé la question : qu'est-ce qui fait qu'il
+n'y avait pas d'accents dans les enums ?
+Ca aurait pu permettre
+d'éviter l'erreur car l'orthographe aurait été la même dans
+toutes les couches du code.
+Je n'ai pas encore la réponse.
