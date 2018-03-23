@@ -1,16 +1,14 @@
 ---
-fullname: Yann Boisselier # penser à modifier le nom du fichier ci-dessus !
+fullname: Yann Boisselier
 role: Développeur
-# ci-dessous, remplace betagouv-bot par ton propre pseudo pour utiliser la photo de ton profil Github
-# tu peux aussi fournir l'URL (HTTPS obligatoire) d'une image carrée 512x512 minimum
 avatar: https://avatars3.githubusercontent.com/nyl-auster?s=600
 link: https://www.happy-dev-nantes.fr/
 github: nyl-auster
-start: 2018-03-06 # date d'arrivée au format ISO (AAAA-MM-JJ)
-end: 2018-04-27 # date de fin de contrat au format ISO (AAAA-MM-JJ)
+start: 2018-03-06
+end: 2018-04-27
 employer: independent/octo
 startups:
-    - aides-territoires # le nom du fichier de la startup dans le répertoire /_startup/ sans l'extension .md
+    - aides-territoires
 ---
 
-Développeur spécialisé web applications : Vue.js, React, Node, API, GraphQL, REST. 
+Développeur spécialisé applications web : Vue.js, React, Node, API, GraphQL, REST.
