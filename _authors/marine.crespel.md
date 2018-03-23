@@ -7,7 +7,8 @@ start: 2017-02-27
 end: 2017-06-30
 employer: independent/octo
 startups:
-    - demarches-simplifiees.fr
+    - demarches-simplifiees.fr:
+        inactive
 ---
 
 Designer UX/UI
