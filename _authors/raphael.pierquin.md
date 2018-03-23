@@ -1,5 +1,5 @@
 ---
-fullname: Raphaël Pierquin 
+fullname: Raphaël Pierquin
 role: Coach et accoucheur de papillons
 avatar: https://avatars1.githubusercontent.com/u/549405?s=400&v=4
 link: https://ut7.fr/
