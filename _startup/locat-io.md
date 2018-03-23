@@ -5,7 +5,7 @@ owner: Ministère de la Cohésion des Territoires / Ministère de la Transition 
 status: construction
 start: 2018-01-01
 end:
-link:
+link: https://locatio.beta.gouv.fr/?utm_source=BetaGouv
 repository: https://github.com/MTES-MCT/locatio
 stats: false
 contact: contact@locatio.beta.gouv.fr
