@@ -6,9 +6,9 @@ role: Développeur
 avatar: https://avatars3.githubusercontent.com/nyl-auster?s=600
 link: https://www.happy-dev-nantes.fr/
 github: nyl-auster
-start: 2018-06-03 # date d'arrivée au format ISO (AAAA-MM-JJ)
-end: 2018-27-04 # date de fin de contrat au format ISO (AAAA-MM-JJ)
-employer: # dinsic ou independent/<employer> ou admin/<employer> ou service/octo
+start: 2018-03-06 # date d'arrivée au format ISO (AAAA-MM-JJ)
+end: 2018-04-27 # date de fin de contrat au format ISO (AAAA-MM-JJ)
+employer: independent/octo
 startups:
     - aides-territoires # le nom du fichier de la startup dans le répertoire /_startup/ sans l'extension .md
 ---
