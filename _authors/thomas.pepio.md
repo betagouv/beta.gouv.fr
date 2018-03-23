@@ -6,6 +6,8 @@ start: 2017-07-11
 end: 2017-10-30
 employer: service/octo
 github: thomaspepio
+startups:
+    - mpal
 ---
 
 Former java/jee/js/css (I guess full-stack is appropriate) developer and tech lead.

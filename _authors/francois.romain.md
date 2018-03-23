@@ -9,6 +9,8 @@ link: https://francoisromain.com
 start: 2018-02-26
 end: 2018-04-27
 employer: service/octo
+startups:
+    - camino
 ---
 
 Développeur / designer freelance
