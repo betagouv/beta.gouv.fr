@@ -8,5 +8,3 @@ employer: independent/octo
 startups:
   - open-academie
 ---
-
-
