@@ -1,7 +1,7 @@
 ---
 fullname: Matthieu Lassalvy
 role: Développeur
-avatar: https://image.ibb.co/c0zXN7/3_Ga_fo_OLOQ3_Z6r_O0glx_CFc6_Ch_Kj_Tmp_KNQm_E8_JNPG5t4.jpg
+avatar: https://image.ibb.co/mzTRkS/Sans_titre.png
 github: sixertoy
 start: 2018-03-12
 employer: independent
