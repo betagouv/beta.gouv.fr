@@ -83,7 +83,9 @@ Mettre à jour la propriété `featured` de la phase correspondante pour référ
 
 Attention, toutes les pages doivent avoir, dans leur [front matter](https://jekyllrb.com/docs/frontmatter/), les variables `permalink`, `lang` et `ref` définies.
 
-## Modifier la présentation du site
+## Modifier la présentation du site en Local
+
+### Utilisation de Jekyll pour le développement en local
 
 Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est celle [actuellement en production](https://pages.github.com/versions/) sur GitHub Pages.
 
@@ -98,6 +100,10 @@ bundle exec jekyll serve
 ```
 
 Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `_layouts` et `css`.
+
+### Utilisation de Docker pour le développement en local
+- Installer (Docker](https://docs.docker.com/compose/install/) (Docker compose est normalement installé automatiquement avec Docker)
+- Lancer `docker-compose up`
 
 ### Dépendances : un `Gemfile` particulier
 
