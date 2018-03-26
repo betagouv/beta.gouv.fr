@@ -6,7 +6,7 @@ status: construction
 start: 2017-07-03
 end:
 link: https://transport.data.gouv.fr
-repository: https://github.com/etalab/transport-landingpage
+repository: https://github.com/etalab/transport-site
 stats: false
 contact: contact@transport.beta.gouv.fr
 ---
