@@ -5,7 +5,7 @@ owner: Pôle emploi
 status: construction
 start: 2017-04-01
 end:
-link: http://clara.pole-emploi.fr/
+link: https://clara.pole-emploi.fr/
 repository:
 stats: false
 contact: anne-camille.monet@pole-emploi.fr

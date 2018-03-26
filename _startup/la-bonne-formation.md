@@ -5,7 +5,7 @@ owner: Pôle emploi
 status: consolidation
 start: 2015-05-01
 end:
-link: http://labonneformation.pole-emploi.fr
+link: https://labonneformation.pole-emploi.fr
 repository:
 stats: true
 contact: christophe.bonraisin@pole-emploi.fr
