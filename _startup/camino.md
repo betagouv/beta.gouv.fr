@@ -5,7 +5,7 @@ owner: Ministère de la transition écologique et solidaire
 status: investigation
 start: 2018-01-01
 end:
-link: http://camino.beta.gouv.fr
+link: https://camino.beta.gouv.fr
 repository:
 stats: false
 contact: contact@camino.beta.gouv.fr
