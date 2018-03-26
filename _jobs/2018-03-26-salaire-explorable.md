@@ -5,26 +5,26 @@ techno: React-Redux-Ramda
 open: true
 ---
 
-Nous cherchons un·e développeur·se pour nous aider à construire https://embauche.beta.gouv.fr.
+Nous cherchons un·e développeur·se pour nous aider à construire [embauche.beta.gouv.fr](https://embauche.beta.gouv.fr).
 
-L'embauche dans le privé est un des sujets politiques les plus chauds du moment, et une embauche passe forcément par un salaire, dont une grosse partie  finance notre système de sécurité sociale. On veut donc expliquer et calculer au mieux les éléments en jeu : salaire total versé par l'employeur, salaire brut sur le contrat, salaire brut touché par le salarié, cotisations sociales...
+L'embauche dans le privé est un des sujets politiques les plus chauds du moment, et une embauche passe forcément par un salaire dont une grosse partie finance notre système de sécurité sociale. On veut donc expliquer et calculer au mieux les éléments en jeu : salaire total versé par l'employeur, salaire brut sur le contrat, salaire brut touché par le salarié, cotisations sociales...
 
 <!--more-->
 
 Bientôt, nous allons ajouter le salaire net après impôts, permettre la simulation à l'échelle de l'entreprise toute entière, et intégrer les particularités des conventions collectives.
 
-Notre objectif : un service public d’information simple, gratuit et fiable pour fluidifier les embauches.
+Notre objectif : un service public d’information simple, gratuit et fiable qui fluidifie les embauches.
 
 # Rôle
 
-Il ou elle rejoindrait une équipe autonome composée pour l’instant de 1.97 personnes (un dev à 4/5e, un autre dev à temps un peu variable, un responsable des partenariats).
+Il ou elle rejoindra une équipe autonome composée pour l’instant de 1.97 personnes (un dev à 4/5e, un autre dev à temps un peu variable, un responsable des partenariats).
 
-Notre démarche est un peu particulière : on développe des [explications explorables](http://explorabl.es) de ce qu’est le salaire, convaincus que documentation et calculs ne doivent pas être separés. On utilise pour ça du Javascript moderne (React, Redux, Webpack; peut-être que le bon terme est « compliqué ») et mâtiné de programmation fonctionnelle (Ramda, peut-être Purescript demain). En bref, on construit un langage de modélisation d’une petite partie de la loi, et une interface qui répond au mieux aux questions de nos utilisateurs.
+Notre démarche est un peu particulière : on développe des [explications explorables](http://explorabl.es) de ce qu’est le salaire, convaincus que documentation et calculs ne doivent pas être separés. On utilise pour ça du JavaScript moderne (React, Redux, Webpack; peut-être que le bon terme est « compliqué ») et mâtiné de programmation fonctionnelle (Ramda, peut-être Purescript demain). En bref, on construit un langage de modélisation d’une petite partie de la loi, et une interface qui répond au mieux aux questions de nos utilisateurs.
 
 Il faudra être rapidement à l’aise dans notre bac à sable, on pense à une personne plutôt expérimentée, mais l’état d’esprit est plus important que le CV.
 
 # Modalités
 
-Post ouvert à un·e indépendant·e, pour une mission initale de 3 mois. Télétravail partiel bienvenu, avec une présence régulière à Paris. 3/5ème minimum.
+Poste ouvert à un·e indépendant·e, pour une mission initale de 3 mois. Télétravail partiel bienvenu, avec une présence régulière à Paris. 3/5ème minimum.
 
 Pour postuler, écrivez-nous à <a href="mailto:recrutement@beta.gouv.fr">recrutement@beta.gouv.fr</a> avec votre LinkedIn / CV et votre compte GitHub.
