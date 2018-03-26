@@ -5,10 +5,10 @@ owner: DGITM
 status: construction
 start: 2017-07-03
 end:
-link: https://transport.beta.gouv.fr
+link: https://transport.data.gouv.fr
 repository: https://github.com/etalab/transport-landingpage
 stats: false
-contact: vincent.lara@data.gouv.fr
+contact: contact@transport.beta.gouv.fr
 ---
 
 
