@@ -1,6 +1,6 @@
 ---
-title: Le Bon Tuteur
-mission: Trouver le bon tuteur pour les personnes sous protection judiciaire
+title: e-MJPM
+mission: Nous simplifions l’attribution des mesures de protection juridique des majeurs
 owner: Ministère des Affaires sociales
 status: investigation
 start: 2017-10-26
