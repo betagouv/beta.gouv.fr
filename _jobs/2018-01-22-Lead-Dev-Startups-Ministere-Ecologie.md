@@ -1,7 +1,7 @@
 ---
 roles: un·e lead dev d'une Startup d'État du Ministère de l'écologie
 techno: Choix technologiques ouverts parmi les solutions libres du marché
-open: true
+open: false
 ---
 
 Les Startups d'État du Ministère de la Transition Écologique et Solidaire cherchent leurs développeurs.
