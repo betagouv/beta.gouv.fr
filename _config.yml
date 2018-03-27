@@ -28,6 +28,9 @@ author:
   twitter: betaGouv
 
 collections:
+  incubator:
+    output: true
+    permalink: /incubateur/:name.html
   startup:
     output: true
   authors:
@@ -45,18 +48,24 @@ defaults:
       layout: startup
   -
     scope:
-      path: "" # means "all files"
+      path: ""
+      type: incubator
+    values:
+      layout: incubator
+  -
+    scope:
+      path: ""
       type: posts
     values:
       layout: post
   -
     scope:
-      path: "" # means "all files"
+      path: ""
     values:
       layout: default
   -
     scope:
-      path: "" # means "all files"
+      path: ""
       type: jobs
     values:
       layout: job
