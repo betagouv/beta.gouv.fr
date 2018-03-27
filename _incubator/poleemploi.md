@@ -2,7 +2,7 @@
 name: La Fabrique Pôle emploi
 owner: Pôle emploi
 contact: mailto:Carole.LECLERC@pole-emploi.fr?subject=Incubateur
-adresse: 22 Allée Darius Milhaud, Paris 19è
+adresse: 22 Allée Darius Milhaud, Paris 19e
 startups:
   - la-bonne-boite
   - la-bonne-formation
