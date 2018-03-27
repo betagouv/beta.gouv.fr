@@ -21,6 +21,11 @@ layout: default
                 <li>
                     Adresse : {{ page.address }}
                 </li>
+                {% if page.website %}
+                    <li>
+                        <a href="{{ page.website }}">Site web</a>
+                    </li>
+                {% endif %}
                 <li>
                     <a href="{{ page.contact }}">Contacter cet incubateur</a>
                 </li>
