@@ -2,7 +2,7 @@
 name: L'Incubateur des Affaires Sociales
 owner: SGMAS
 contact: mailto:julien.bouquillon@sg.social.gouv.fr?subject=Incubateurs
-adresse: 39 quai andré Citroën, Paris 15e
+address: 39 quai andré Citroën, Paris 15e
 startups:
   - codedutravail
   - le-bon-tuteur
