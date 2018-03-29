@@ -39,15 +39,10 @@ layout: default
     </div>
     <h2 class="ui divider horizontal">Nos Startups</h2>
     <div class="ui stackable two cards">
-        {% for startup in page.startups %}
-
-            {% capture currentId %}/startup/{{ startup }}{% endcapture %}
-
-            {% for currentStartup in site.startup %}
-                {% if currentStartup.id == currentId %} {% comment %} where query doesn't work on id {% endcomment %}
-                    {% include startup-card.html description=currentStartup %}
-                {% endif %}
-            {% endfor %}
+        {% assign incubator_id = page.id | remove: '/incubateur/' %}
+        {% assign startups = site.startup | where:'incubator',incubator_id %}
+        {% for startup in startups %}
+            {% include startup-card.html description=startup %}
         {% endfor %}
     </div>
 </div>

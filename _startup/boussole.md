@@ -2,6 +2,7 @@
 title: Boussole des droits
 mission: Accéder aux conseils d'un·e professionnel·le à proximité pour trouver un logement, une formation ou un emploi
 owner: Direction de la jeunesse
+incubator: dinsic
 status: death
 start: 2015-12-01
 end:

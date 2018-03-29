@@ -2,6 +2,7 @@
 title: A+, le service public VIP pour tous.
 mission: La communauté des Agents A+ vous aide à résoudre les blocages administratifs.
 owner: DILA
+incubator: dinsic
 status: construction
 start: 2017-10-01
 end:
