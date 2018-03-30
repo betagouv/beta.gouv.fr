@@ -4,13 +4,13 @@ startup: demarches-simplifiees.fr
 open: true
 ---
 
-Téléprocedures Simplifiées (TPS) cherche un·e business developer pour diffuser notre produit dans les administrations françaises.
+demarches-simplifiees.fr cherche un·e business developer pour diffuser notre produit dans les administrations françaises.
 
 <!--more-->
 
 # Qui sommes-nous ?
 
-[Téléprocedures Simplifiées (TPS)](https://tps.apientreprise.fr/) est une Startup d’État, accélérée par l’Incubateur de services numériques beta.gouv.fr.
+[demarches-simplifiees.fr](https://www.demarches-simplifiees.fr) est une Startup d’État, accélérée par l’Incubateur de services numériques beta.gouv.fr.
 
 Notre mission : dématérialiser 100 % des démarches administratives pour simplifier les relations entre les usagers et l’administration.
 
@@ -18,7 +18,7 @@ L’an dernier, nous avons construit le produit, déjà adopté par près de 40 
 
 # Ta mission
 
-- Convertir et accompagner un portefeuille d’organismes publics désireux de dématérialiser leurs procédures avec TPS
+- Convertir et accompagner un portefeuille d’organismes publics désireux de dématérialiser leurs procédures avec demarches-simplifiees.fr
 - Sauver des utilisateurs perdus
 - Appeler toutes les préfectures de France
 - Organiser des Open Labs pour présenter le produit devant des centaines de personnes
@@ -34,4 +34,4 @@ Si comme nous tu rêves de venir à bout de la paperasse administrative, que tu 
 
 # Comment postuler ?
 
-Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à [contact@tps.apientreprise.fr](mailto:contact@tps.apientreprise.fr).
+Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à [contact@demarches-simplifiees.fr](mailto:contact@demarches-simplifiees.fr).
