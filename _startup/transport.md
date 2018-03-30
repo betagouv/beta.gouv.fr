@@ -11,8 +11,6 @@ stats: false
 contact: contact@transport.beta.gouv.fr
 ---
 
-
-
 Les données de transport en commun, lorsqu'elles existent, sont exposées sur différents portails de diffusion de données ouvertes.
 On constate souvent un manque d'homogénéité entre les différentes sources.
 transport.beta.gouv.fr est la plateforme qui permet à la communauté des diffuseurs et des ré-utilisateurs de se rassembler, de dialoguer, de réfléchir ensemble aux problèmes autour des données transport et de construire les outils qui résolvent ces problèmes.

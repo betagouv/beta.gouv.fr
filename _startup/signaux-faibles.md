@@ -8,7 +8,7 @@ end:
 link:
 repository:
 stats: false
-contact: pierre@pezziardi.net
+contact: pierre.pezziardi@beta.gouv.fr
 ---
 
 ## Fiche produit
