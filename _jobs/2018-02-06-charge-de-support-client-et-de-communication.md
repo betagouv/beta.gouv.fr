@@ -14,7 +14,7 @@ L’équipe demarches-simplifiees.fr cherche un·e chargé·e de support client 
 
 Notre mission : dématérialiser 100 % des démarches administratives pour simplifier les relations entre les usagers et l’administration.
 
-L’an dernier, nous avons construit le produit, déjà adopté par près de 40 organismes publics avec 10 000 dossiers déposés. Notre ambition pour 2018 ? 500 procédures dématérialisées et 1 million de dossiers déposés. Pour atteindre cet objectif, nous avons besoin d’un·e chargé·e de support client et de communication pour accompagner nos nouveaux utilisateurs et diffuser demarches-simplifiees.fr.
+L’an dernier, nous avons construit le produit, déjà adopté par près de 40 organismes publics avec 10 000 dossiers déposés. Notre ambition pour 2018 ? 500 démarches dématérialisées et 1 million de dossiers déposés. Pour atteindre cet objectif, nous avons besoin d’un·e chargé·e de support client et de communication pour accompagner nos nouveaux utilisateurs et diffuser demarches-simplifiees.fr.
 
 # Ta mission
 

@@ -14,11 +14,11 @@ demarches-simplifiees.fr cherche un·e business developer pour diffuser notre pr
 
 Notre mission : dématérialiser 100 % des démarches administratives pour simplifier les relations entre les usagers et l’administration.
 
-L’an dernier, nous avons construit le produit, déjà adopté par près de 40 organismes publics avec 10 000 dossiers déposés. Notre ambition pour 2018 ? 500 procédures dématérialisées et 1 million de dossiers déposés. Pour atteindre cet objectif, nous avons besoin de constituer une équipe de choc avec des bizdevs déterminés et à l’écoute.
+L’an dernier, nous avons construit le produit, déjà adopté par près de 40 organismes publics avec 10 000 dossiers déposés. Notre ambition pour 2018 ? 500 démarches dématérialisées et 1 million de dossiers déposés. Pour atteindre cet objectif, nous avons besoin de constituer une équipe de choc avec des bizdevs déterminés et à l’écoute.
 
 # Ta mission
 
-- Convertir et accompagner un portefeuille d’organismes publics désireux de dématérialiser leurs procédures avec demarches-simplifiees.fr
+- Convertir et accompagner un portefeuille d’organismes publics désireux de dématérialiser leurs démarches avec demarches-simplifiees.fr
 - Sauver des utilisateurs perdus
 - Appeler toutes les préfectures de France
 - Organiser des Open Labs pour présenter le produit devant des centaines de personnes
