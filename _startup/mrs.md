@@ -7,7 +7,7 @@ status: construction
 start: 2017-10-01
 end:
 link: https://mrs.beta.gouv.fr
-repository:
+repository: https://github.com/betagouv/mrs
 stats: true
 contact: frederic.boulay@beta.gouv.fr
 ---
