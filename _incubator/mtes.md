@@ -1,5 +1,5 @@
 ---
-name: La Fabrique Numérique
+title: La Fabrique Numérique
 owner: Ministère de la Transition Écologique et Solidaire - Ministère de la Cohésion des Territoires
 website: https://mtes-mct.github.io/numerique/fabrique-numerique/
 github: https://github.com/MTES-MCT/

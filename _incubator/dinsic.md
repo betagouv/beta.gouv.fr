@@ -1,5 +1,5 @@
 ---
-name: L'Incubateur de Services Numériques
+title: L'Incubateur de Services Numériques
 owner: DINSIC
 website: https://beta.gouv.fr/
 github: https://github.com/betagouv/

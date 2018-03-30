@@ -1,5 +1,5 @@
 ---
-name: La Fabrique Pôle emploi
+title: La Fabrique Pôle emploi
 owner: Pôle emploi
 website:
 github: https://github.com/StartupsPoleEmploi/

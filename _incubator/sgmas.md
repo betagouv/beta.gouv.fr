@@ -1,5 +1,5 @@
 ---
-name: L'Incubateur des Affaires Sociales
+title: L'Incubateur des Affaires Sociales
 owner: SGMAS
 website:
 github: https://github.com/SocialGouv/
