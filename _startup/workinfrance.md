@@ -2,6 +2,7 @@
 title: Work in France
 mission: La plateforme de demande d’autorisations provisoires de travail.
 owner: Ministère des Affaires sociales
+incubator: sgmas
 status: construction
 start: 2017-10-26
 end:

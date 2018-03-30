@@ -2,6 +2,7 @@
 title: Clara - Vos aides en un clic
 mission: Découvrir les aides et mesures Pôle emploi qui accélèrent la reprise d'activité
 owner: Pôle emploi
+incubator: pole-emploi
 status: construction
 start: 2017-04-01
 end:
