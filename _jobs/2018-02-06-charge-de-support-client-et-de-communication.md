@@ -1,7 +1,7 @@
 ---
 roles: un·e chargé·e de support client et de communication
-startup: tps
-open: demarches-simplifiees.fr
+startup: demarches-simplifiees.fr
+open: true
 ---
 
 L’équipe Téléprocédures simplifiées cherche un·e chargé·e de support client et de communication pour l’accompagner dans sa croissance d’activité.
