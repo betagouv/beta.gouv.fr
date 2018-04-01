@@ -7,7 +7,7 @@ Un soir, Hela poste un message d'erreur sur Slack :
 
 > Le site est cassé, je peux plus rentrer mes cas types :/
 
-![Une erreur est survenue](/img/posts/2018-04-02-ce-qui-se-passe-dans-la-tete-d-un-developpeur/erreur.png)
+![Une erreur est survenue](/img/posts/2018-04-02-ce-qui-se-passe-dans-la-tete-d-un-developpeur/la_fameuse_erreur.png)
 
 Hela en ce moment elle fait naître des incubateurs, dont
 celui des affaires sociales qu'elle accompagne personnellement.
@@ -31,7 +31,6 @@ quand un article de presse ou une émission le mentionne donc
 Il vient d'y avoir une mise en production, alors ça doit venir de là…
 
 <!--more-->
-
 ## Sur la piste
 
 Trois messages d'erreur attirent mon attention :
@@ -39,7 +38,6 @@ Trois messages d'erreur attirent mon attention :
 *   "`Célibataire` is not a valid enum value for path `statut_marital`."
 *   "`{VALUE}` is not a valid enum value for path `{PATH}`."
 *   "`Célibataire` is not a valid enum value for path `statut_marital`."
-
 Oui la troisième erreur est bien la même que la première.
 Je ne comprend pas le VALUE entre accolades. Le signe d'une valeur mal remplacée ?
 Ce VALUE m'intrigue. Il m'arrête un moment,
@@ -85,7 +83,7 @@ alors que moi je suis disponible tout de suite.
 Je n'ai jamais regardé ce code. Je n'y connais rien. Mais je le trouve sur
 github.
 
-Je le clone et je fait un grep à la racine pour voir si des Célibataires ancienne version
+Je le clone et je fait une recherche pour voir si des Célibataires ancienne version
 n'auraient pas été oubliés dans un coin reculé du code.
 
     grep -r Célibataire *
@@ -142,10 +140,6 @@ c'est rébarbatif. De loin ça a l'air incompréhensible, même pour un dévelop
 Pourtant souvent, si je prends le temps de lire en détail ce que le message dit,
 je trouve une partie destinée à un humain et cette partie me
 permet d'élaborer des hypothèses.
-
-En allant à mon rythme j'ai pu me faire confiance.
-
-J'écris cet article en espérant que d'autres s'autorisent à en faire autant.
 
 ## Des accents dans l'enum ?
 
