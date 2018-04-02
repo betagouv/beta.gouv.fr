@@ -44,7 +44,7 @@ Ce VALUE m'intrigue. Il m'arrête un moment,
 Il me fait partir sur d'autres activités, dans d'autres fenêtres de mon ordinateur.
 
 Mais Hela a ses projections à rendre demain et je connais le développeur du site
-de simulation. Il est tout seul pour maintenir un site qui fait dix mille visites par jour.
+de simulation. Il est tout seul pour maintenir un site très visité.
 Il va avoir un réveil difficile demain. Alors je m'y remet.
 
 Comme il y a deux fois le même message d'erreur, je me concentre dessus :
@@ -70,10 +70,10 @@ dans openFisca, un moteur que le site utilise.
 Comment je sais ça ? Parce-que j'ai assisté à une démo.
 
 Je poste cette hypothèse sur slack. Un pouce vers le
-haut me confirme que je suis sur la bonne voie.
+haut me conforte dans l'idée que je suis sur la bonne voie.
 
-Sandra, une développeuse qui passe sur slack, me le confirme mais s'interroge sur la possibilité
-de corriger rapidement le problème. Sandra elle travaille sur la question depuis plus d'un an, elle a
+Sandra, une autre développeuse qui passe sur slack, me le confirme mais doute qu'on puisse
+corriger rapidement le problème. Sandra elle travaille sur la question depuis plus d'un an, elle a
 participé à l'Open Government Partnership en 2016 autour de ce sujet, autant dire qu'elle s'y connait mieux que moi.
 Mais elle dit qu'elle n'aura pas le temps de regarder davantage d'ici demain
 alors que moi je suis disponible tout de suite.
@@ -113,22 +113,6 @@ de la pousser pour qu'elle soit intégrée au saut du lit.
 Elle s'était imaginé des cas compliqués qui auraient pu expliquer l'erreur.
 Ca l'a empêché de regarder si il n'y avait pas une erreur simple à corriger.
 
-### Une erreur qui donne des hypothèses
-
-Je la remercie pour la clarté de l'erreur.
-Sandra me répond que l'erreur en aurait peut-être caché une autre.
-Ça la gène que seule la cause la plus simple soit listée comme
-cause potentielle du problème.
-Moi je trouve que c'est beaucoup mieux que rien.
-
-Je lui donne l'exemple de Mockito, une bibliothèque populaire pour les tests automatisés en Java.
-Son erreur la plus courrante peut avoir deux causes : l'une
-commise quand on débute, l'autre quand on connaît très bien
-la librairie et qu'on utilise une fonctionnalité avancée.
-Depuis le code Mockito, il est impossible de savoir laquelle des deux erreurs
-est commise à l'exécution. Alors Mockito affiche les deux causes potentielles.
-C'est beaucoup mieux que de n'en afficher aucune.
-
 
 ## Ralentir pour aller plus vite
 
@@ -136,7 +120,7 @@ Ce qui a été décisif, c'est de ralentir.
 J'ai pu faire abstraction de l'heure tardive, de la fatigue et de la
 complexité métier.
 Ralentir ça veut dire que je me suis forcé à lire en détail des messages d'erreurs même si
-c'est rébarbatif. De loin ça a l'air incompréhensible, même pour un développeur.
+c'est rébarbatif. De loin ça a l'air incompréhensible.
 Pourtant souvent, si je prends le temps de lire en détail ce que le message dit,
 je trouve une partie destinée à un humain et cette partie me
 permet d'élaborer des hypothèses.
