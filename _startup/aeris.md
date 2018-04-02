@@ -43,7 +43,7 @@ L’automatisation du travail d’analyse des données d’autosurveillance perm
 
 ## Stratégie de mise sur le marché
 
-Les premières cibles du service sont les exploitants d'incinérateurs de déchets (428 installations en fonctionnement) et les inspecteurs qui suivent ces sites.
+Les premières cibles du service sont les exploitants d'incinérateurs de déchets (127 installations en fonctionnement) et les inspecteurs qui suivent ces sites.
 Ces installations présentent de forts enjeux de surveillance des rejets atmosphériques, par exemple sur la quantité de dioxines émise dans l’air.
 Ces installations sont inspectées au moins une fois par an, et chaque inspection nécessite plusieurs jours de travail de préparation en amont.
 
