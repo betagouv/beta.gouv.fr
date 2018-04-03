@@ -51,4 +51,4 @@ Le service serait d'abord déployé auprès d'exploitants et d'inspecteurs au ni
 
 Par la suite, le service pourrait être étendu aux incinérateurs de déchets dans toute la France, puis à d’autres secteurs industriels, par exemple les installations de combustion.
 
-<sup>1</sup> : [Ademe : L'essentiel de l'incinération] (http://www.ademe.fr/expertises/dechets/passer-a-laction/valorisation-energetique/dossier/lincineration/lessentiel-lincineration)
+<sup>1</sup> : http://www.ademe.fr/expertises/dechets/passer-a-laction/valorisation-energetique/dossier/lincineration/lessentiel-lincineration
