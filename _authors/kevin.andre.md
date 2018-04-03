@@ -6,9 +6,7 @@ link: http://www.kevinandre.fr
 github: KevinAndre # optionnel : nom d'utilisateur GitHub, permet d'être ajouté automatiquement à l'organisation GitHub betagouv
 start: 2018-04-01 # date d'arrivée au format ISO (AAAA-MM-JJ)
 end: 2018-10-01 # date de fin de contrat au format ISO (AAAA-MM-JJ)
-employer: independent/<employer>
-startups:
-    - super_startup # le nom du fichier de la startup dans le répertoire /_startup/ sans l'extension .md
+employer: independent
 ---
 
 J'accompagne des intrapreneurs et des product managers.
