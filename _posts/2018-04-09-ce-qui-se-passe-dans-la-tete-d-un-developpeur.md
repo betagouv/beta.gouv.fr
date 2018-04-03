@@ -7,8 +7,6 @@ Un soir, Hela poste un message d'erreur sur Slack :
 
 > Le site est cassé, je peux plus rentrer mes cas types :/
 
-![Une erreur est survenue](/img/posts/2018-04-09-ce-qui-se-passe-dans-la-tete-d-un-developpeur/la_fameuse_erreur.png)
-
 Hela, en ce moment, elle fait naître des incubateurs, dont
 celui des affaires sociales qu'elle accompagne personnellement.
 Elle a passé l'après-midi avec le groupe de travail
@@ -17,10 +15,9 @@ Elle simulait les conséquences de cette réforme quand l'erreur
 s'est produite.
 
 C'est important de simuler les conséquences d'une réforme avant de la voter.
-Parce qu'après c'est beaucoup plus compliqué à changer, et pendant
-ce temps des gens en subissent les conséquences.
-C'est un peu l'équivalent en programmation d'écrire des tests avant
-d'écrire le code.
+Parce qu'après c'est beaucoup plus compliqué à changer, et des gens en
+subissent les conséquences. C'est un peu l'équivalent en programmation d'écrire
+des tests avant d'écrire le code.
 
 Je comprends qu'elle a des projections à rendre pour le lendemain.
 
@@ -29,14 +26,17 @@ une demande d'aide. "You see it, you own it" : si je vois un problème,
 je tente de le corriger, même si d'autres sont plus légitimes ou plus
 compétents pour le faire.
 
+<!--more-->
+
 Et puis le site "cassé" est visité dix mille fois par jour, davantage
 quand un article de presse ou une émission le mentionne donc
 ça mérite mon attention.
 
 Il vient d'y avoir une mise en production, alors ça doit venir de là…
 
-<!--more-->
 ## Sur la piste
+
+![Une erreur est survenue](/img/posts/2018-04-09-ce-qui-se-passe-dans-la-tete-d-un-developpeur/la_fameuse_erreur.png)
 
 Trois messages d'erreur attirent mon attention :
 
