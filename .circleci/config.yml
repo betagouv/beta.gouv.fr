@@ -48,6 +48,10 @@ jobs:
           command: $HOME/.local/bin/html5validator --root _site
 
       - run:
+          name: Check author metadata
+          command: ruby rb/bin/validate rb/schema/author.yml "_authors/*.md"
+
+      - run:
           name: Start server
           command: bundle exec jekyll serve --no-watch --skip-initial-build
           background: true
@@ -59,6 +63,5 @@ jobs:
             done
 
       - run: ./checks/author_filename
-      - run: ./checks/correct-yaml-data
       - run: ./checks/social-network-optimizations
       - run: ./checks/json-syntax
