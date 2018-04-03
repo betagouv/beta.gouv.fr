@@ -1,0 +1,52 @@
+# CircleCI 2.0 configuration file. See <https://circleci.com/docs/2.0/language-ruby/>.
+version: 2
+jobs:
+  build:
+    docker:
+       - image: circleci/ruby:2.4.2-browsers  # use the browsers variant image to have Java preinstalled as it is a dependency of html5validator
+
+    steps:
+      - checkout
+      - restore_cache:
+          key: dependency-cache-{{ checksum "Gemfile" }}
+
+      - run:
+          name: Install Ruby dependencies
+          command: bundle install --jobs=4 --retry=3 --path vendor/bundle
+
+      - run:
+          name: Install html5validator
+          command: |
+            sudo apt-get update
+            sudo apt-get install -y python-pip
+            pip install --user --upgrade html5validator  # will install in $HOME/.local
+
+      - save_cache:
+          key: dependency-cache-{{ checksum "Gemfile" }}
+          paths:
+            - ./vendor/bundle
+            - $HOME/.local
+
+      - run:
+          name: Compile website
+          command: bundle exec jekyll build --safe
+
+      - run:
+          name: Start server
+          command: bundle exec jekyll serve --no-watch --skip-initial-build
+          background: true
+      - run:
+          name: Wait for server to start
+          command: |
+            while ! curl --silent http://localhost:4000
+            do sleep 1
+            done
+
+      - run: ./checks/author_filename
+      - run: ./checks/configuration-ok
+      - run: ./checks/site-was-built
+      - run: ./checks/correct-yaml-data
+      - run: ./checks/html-common-mistakes
+      - run: ./checks/html5-standard-compliance
+      - run: ./checks/social-network-optimizations
+      - run: ./checks/json-syntax

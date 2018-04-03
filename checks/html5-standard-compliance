@@ -1,3 +1,6 @@
 #!/bin/bash
 echo "Checking if all your HTML is compliant with HTML5 standard"
-html5validator --root _site
+if [[ $CIRCLECI ]]
+then $HOME/.local/bin/html5validator --root _site
+else html5validator --root _site
+fi
