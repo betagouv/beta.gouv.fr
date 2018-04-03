@@ -43,7 +43,7 @@ L’automatisation du travail d’analyse des données d’autosurveillance perm
 
 ## Stratégie de mise sur le marché
 
-Les premières cibles du service sont les exploitants d'incinérateurs de déchets (127 installations en fonctionnement<sup>1</sup>) et les inspecteurs qui suivent ces sites.
+Les premières cibles du service sont les exploitants d'incinérateurs de déchets (127 installations en fonctionnement<sup>[1](#note1)</sup>) et les inspecteurs qui suivent ces sites.
 Ces installations présentent de forts enjeux de surveillance des rejets atmosphériques, par exemple sur la quantité de dioxines émise dans l’air.
 Ces installations sont inspectées au moins une fois par an, et chaque inspection nécessite plusieurs jours de travail de préparation en amont.
 
@@ -51,4 +51,6 @@ Le service serait d'abord déployé auprès d'exploitants et d'inspecteurs au ni
 
 Par la suite, le service pourrait être étendu aux incinérateurs de déchets dans toute la France, puis à d’autres secteurs industriels, par exemple les installations de combustion.
 
-<sup>1</sup> : http://www.ademe.fr/expertises/dechets/passer-a-laction/valorisation-energetique/dossier/lincineration/lessentiel-lincineration
+### Références
+
+<a name="note1">1</a> : Source [Ademe](http://www.ademe.fr/expertises/dechets/passer-a-laction/valorisation-energetique/dossier/lincineration/lessentiel-lincineration)
