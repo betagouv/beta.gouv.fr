@@ -2,6 +2,7 @@
 title: Avril - La V.A.E. facile
 mission: Obtenir un diplôme grâce à vos compétences
 owner: Pôle emploi
+incubator: pole-emploi
 status: construction
 start: 2017-05-01
 end:

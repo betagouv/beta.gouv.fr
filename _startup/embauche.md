@@ -2,6 +2,7 @@
 title: Simulateur d’embauche
 mission: "Estimer le salaire lors d'une embauche en France : total employeur, brut, net."
 owner: DINSIC
+incubator: dinsic
 status: consolidation
 start: 2014-10-01
 end:

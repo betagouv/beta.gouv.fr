@@ -2,6 +2,7 @@
 title: Locatio
 mission: Remettre la confiance au centre de la relation entre propriétaires et locataires
 owner: Ministère de la Cohésion des Territoires / Ministère de la Transition Ecologique et Solidaire
+incubator: mtes
 status: construction
 start: 2018-01-01
 end:
