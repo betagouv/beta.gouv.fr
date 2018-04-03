@@ -7,9 +7,9 @@ Un soir, Hela poste un message d'erreur sur Slack :
 
 > Le site est cassé, je peux plus rentrer mes cas types :/
 
-![Une erreur est survenue](/img/posts/2018-04-02-ce-qui-se-passe-dans-la-tete-d-un-developpeur/la_fameuse_erreur.png)
+![Une erreur est survenue](/img/posts/2018-04-09-ce-qui-se-passe-dans-la-tete-d-un-developpeur/la_fameuse_erreur.png)
 
-Hela en ce moment elle fait naître des incubateurs, dont
+Hela, en ce moment, elle fait naître des incubateurs, dont
 celui des affaires sociales qu'elle accompagne personnellement.
 Elle a passé l'après-midi avec le groupe de travail
 de lutte contre le non recours aux droits.
@@ -23,6 +23,11 @@ C'est un peu l'équivalent en programmation d'écrire des tests avant
 d'écrire le code.
 
 Je comprends qu'elle a des projections à rendre pour le lendemain.
+
+Je ne travaille pas sur ce sujet mais j'interprète son message comme
+une demande d'aide. "You see it, you own it" : si je vois un problème,
+je tente de le corriger, même si d'autres sont plus légitimes ou plus
+compétents pour le faire.
 
 Et puis le site "cassé" est visité dix mille fois par jour, davantage
 quand un article de presse ou une émission le mentionne donc
@@ -38,14 +43,14 @@ Trois messages d'erreur attirent mon attention :
 *   "`Célibataire` is not a valid enum value for path `statut_marital`."
 *   "`{VALUE}` is not a valid enum value for path `{PATH}`."
 *   "`Célibataire` is not a valid enum value for path `statut_marital`."
-Oui la troisième erreur est bien la même que la première.
+Oui, la troisième erreur est bien la même que la première.
 Je ne comprend pas le VALUE entre accolades. Le signe d'une valeur mal remplacée ?
 Ce VALUE m'intrigue. Il m'arrête un moment,
 Il me fait partir sur d'autres activités, dans d'autres fenêtres de mon ordinateur.
 
 Mais Hela a ses projections à rendre demain et je connais le développeur du site
 de simulation. Il est tout seul pour maintenir un site très visité.
-Il va avoir un réveil difficile demain. Alors je m'y remet.
+Il va avoir un réveil difficile demain. Alors je m'y remets.
 
 Comme il y a deux fois le même message d'erreur, je me concentre dessus :
 
@@ -53,7 +58,7 @@ Comme il y a deux fois le même message d'erreur, je me concentre dessus :
 
 J'imagine que `Célibataire` n'est pas une valeur correcte,
 mais quelles sont les valeurs possibles pour `statut_marital` ?
-Je me force à déchiffrer le reste du message d'erreur et oh joie je trouve un indice :
+Je me force à déchiffrer le reste du message d'erreur et, oh joie, je trouve un indice :
 
 ```
 "enumValues": [
@@ -63,17 +68,17 @@ Je me force à déchiffrer le reste du message d'erreur et oh joie je trouve un 
 ]
 ```
 
-Donc celibataire est bien une valeur possible mais sans la majuscule au début ni
-l'accent.
-C'est peut-être ça l'erreur. D'autant que ces enum sont un ajout récent
-dans openFisca, un moteur que le site utilise.
-Comment je sais ça ? Parce-que j'ai assisté à une démo.
+Donc celibataire est bien une valeur possible, mais sans la majuscule au début,
+ni l'accent. C'est peut-être ça l'erreur. D'autant que ces enum sont un ajout
+récent dans OpenFisca, un moteur que le site utilise. Comment je sais ça ?
+Parce-que j'ai assisté à une démo.
 
-Je poste cette hypothèse sur slack. Un pouce vers le
-haut me conforte dans l'idée que je suis sur la bonne voie.
+Je poste cette hypothèse sur
+[Slack](https://github.com/betagouv/beta.gouv.fr/wiki/Bienvenue#slack).
+Un pouce vers le haut me conforte dans l'idée que je suis sur la bonne voie.
 
 Sandra, une autre développeuse qui passe sur slack, me le confirme mais doute qu'on puisse
-corriger rapidement le problème. Sandra elle travaille sur la question depuis plus d'un an, elle a
+corriger rapidement le problème. Sandra travaille sur la question depuis plus d'un an, elle a
 participé à l'Open Government Partnership en 2016 autour de ce sujet, autant dire qu'elle s'y connait mieux que moi.
 Mais elle dit qu'elle n'aura pas le temps de regarder davantage d'ici demain
 alors que moi je suis disponible tout de suite.
@@ -81,9 +86,9 @@ alors que moi je suis disponible tout de suite.
 ## Le grand plongeon
 
 Je n'ai jamais regardé ce code. Je n'y connais rien. Mais je le trouve sur
-github.
+Github.
 
-Je le clone et je fait une recherche pour voir si des Célibataires ancienne version
+Je le clone et je fait une recherche pour voir si des `Célibataires` ancienne version
 n'auraient pas été oubliés dans un coin reculé du code.
 
     grep -r Célibataire *
