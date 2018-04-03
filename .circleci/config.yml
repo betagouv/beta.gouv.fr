@@ -36,6 +36,10 @@ jobs:
           command: bundle exec jekyll build --safe
 
       - run:
+          name: Check homepage was compiled
+          command: test -s _site/index.html
+
+      - run:
           name: Check HTML common mistakes
           command: bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
 
@@ -55,7 +59,6 @@ jobs:
             done
 
       - run: ./checks/author_filename
-      - run: ./checks/site-was-built
       - run: ./checks/correct-yaml-data
       - run: ./checks/social-network-optimizations
       - run: ./checks/json-syntax
