@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "Checking if your HTML pages make sense"
-ruby rb/bin/htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
