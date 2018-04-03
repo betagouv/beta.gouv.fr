@@ -132,9 +132,19 @@ permet d'élaborer des hypothèses.
 
 ## Des accents dans l'enum ?
 
-Un développeur m'a posé la question : qu'est-ce qui fait qu'il
-n'y avait pas d'accents dans les enums ?
-Ca aurait pu permettre
-d'éviter l'erreur car l'orthographe aurait été la même dans
-toutes les couches du code.
-Je n'ai pas encore la réponse.
+Un développeur m'a demandé pourquoi l'enum ne contenait pas de
+caractère accentué. Si l'orthographe avait été la même dans toutes les
+couches du code (`célibataire` au lieu de `celibataire` sans accent),
+l'erreur aurait-elle pu être évitée ?
+
+Malheureusement, en Python, le langage du moteur de simulation, il est
+possible de mettre des accents dans la partie description d'une enum mais
+pas dans sa partie identifiant et le code suivant génèrerait une erreur  :
+
+```
+class Statut(Enum):
+     célibataire = "Non marié, non PACSé"
+```
+
+Il n'était donc pas possible de préserver les accents tout au long de la
+chaîne de simulation.
