@@ -52,6 +52,10 @@ jobs:
           command: ruby rb/bin/validate rb/schema/author.yml "_authors/*.md"
 
       - run:
+          name: Lint JSON API pages
+          command: bundle exec jsonlint _site/api/v*/*.json
+
+      - run:
           name: Start server
           command: bundle exec jekyll serve --no-watch --skip-initial-build
           background: true
@@ -64,4 +68,3 @@ jobs:
 
       - run: ./checks/author_filename
       - run: ./checks/social-network-optimizations
-      - run: ./checks/json-syntax
