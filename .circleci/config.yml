@@ -83,5 +83,3 @@ jobs:
       - run:
           name: Check social networks friendliness
           command: ruby rb/test/opengraph.rb
-
-      - run: ./checks/author_filename
