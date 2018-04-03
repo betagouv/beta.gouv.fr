@@ -66,5 +66,8 @@ jobs:
             do sleep 1
             done
 
+      - run:
+          name: Check social networks friendliness
+          command: ruby rb/test/opengraph.rb
+
       - run: ./checks/author_filename
-      - run: ./checks/social-network-optimizations
