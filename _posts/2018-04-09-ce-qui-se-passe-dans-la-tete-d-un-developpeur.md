@@ -34,7 +34,7 @@ quand un article de presse ou une émission le mentionne donc
 
 Il vient d'y avoir une mise en production, alors ça doit venir de là…
 
-## Sur la piste
+# Sur la piste
 
 ![Une erreur est survenue](/img/posts/2018-04-09-ce-qui-se-passe-dans-la-tete-d-un-developpeur/la_fameuse_erreur.png)
 
@@ -83,7 +83,7 @@ participé à l'Open Government Partnership en 2016 autour de ce sujet, autant d
 Mais elle dit qu'elle n'aura pas le temps de regarder davantage d'ici demain
 alors que moi je suis disponible tout de suite.
 
-## Le grand plongeon
+# Le grand plongeon
 
 Je n'ai jamais regardé ce code. Je n'y connais rien. Mais je le trouve sur
 Github.
@@ -99,7 +99,7 @@ Je trouve effectivement un bon candidat :
 
 C'est prometteur. Je pousse une correction sous forme de pull request.
 
-## Le jour d'après
+# Le jour d'après
 
 Le lendemain matin, je viens très tôt pour aider à finir de résoudre le problème.
 En arrivant, je lis que le développeur du site a intégré ma pull request depuis chez lui.
@@ -109,7 +109,7 @@ Et moi j'ai envie de remercier les gens qui ont écrit ce code. Notamment j'ai e
 pour la clarté de l'erreur. Ce qui a fait la différence c'est de donner du contexte,
 dans ce cas précis, les valeurs de l'enum.
 
-### Un apprentissage sur l'agilité ?
+## Un apprentissage sur l'agilité ?
 
 Le midi, Sandra, la fameuse développeuse de l'Open Governement Partenership me dit avec un grand sourire : hier soir tu m'as appris quelque-chose sur l'agilité. Je ne vois pas de quoi elle parle.
 Elle précise sa pensée : cette nuit comme la correction était petite, c'était bien
@@ -119,7 +119,7 @@ Elle s'était imaginé des cas compliqués qui auraient pu expliquer l'erreur.
 Ca l'a empêché de regarder si il n'y avait pas une erreur simple à corriger.
 
 
-## Ralentir pour aller plus vite
+# Ralentir pour aller plus vite
 
 Ce qui a été décisif, c'est de ralentir.
 J'ai pu faire abstraction de l'heure tardive, de la fatigue et de la
@@ -130,7 +130,7 @@ Pourtant souvent, si je prends le temps de lire en détail ce que le message dit
 je trouve une partie destinée à un humain et cette partie me
 permet d'élaborer des hypothèses.
 
-## Des accents dans l'enum ?
+# Des accents dans l'enum ?
 
 Un développeur m'a demandé pourquoi l'enum ne contenait pas de
 caractère accentué. Si l'orthographe avait été la même dans toutes les
