@@ -1,6 +1,6 @@
 ---
 title: Zam
-mission: Alléger la charge de préparation par le gouvernement du débat parlementaire sur les lois financières.
+mission: Alléger la charge de préparation par le gouvernement du débat parlementaire.
 owner: DINSIC
 status: investigation
 start: 2018-03-28
@@ -24,7 +24,7 @@ Concrètement, le travail du coordonnateur consiste à :
 - s’assurer que chaque réponse passe toutes les étapes de la chaîne de validation prévue et, le cas échéant, organiser les allers-retours ;
 - insérer chaque amendement et sa réponse dans le dossier du ministre, selon le bon format et en prenant garde à ce que tous les documents nécessaires soient présents et à jour ;
 - réaliser un reporting régulier auprès des instances internes voire interministérielles ;
-...le tout en ayant également à rédiger les réponses aux amendements qui relèvent de sa propre compétence métier.
+... le tout en ayant également à rédiger les réponses aux amendements qui relèvent de sa propre compétence métier.
 
 Pour chaque projet de loi, le processus se répète 4 fois : lors de la première lecture à l’Assemblée, pour la première lecture au Sénat, puis aux nouvelles lectures à l’Assemblée et au Sénat. Il peut également y avoir des amendements à traiter lors de l’examen du projet de texte par les commissions parlementaires avant chaque lecture. 
 Le volume des amendements à traiter peut considérablement jouer sur la complexité et le stress que ce travail implique : s’agissant par exemple du projet de loi de financement de la sécurité sociale pour 2018 (PLFSS), il a fallu traiter 1300 amendements en 3 jours, entre le vendredi soir et le début de la séance de débat parlementaire le mardi.
