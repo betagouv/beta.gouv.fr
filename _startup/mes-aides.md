@@ -1,6 +1,6 @@
 ---
 title: Mes Aides
-mission: Évaluer ses droits à 25 aides sociales. En moins de 7 minutes.
+mission: Évaluer ses droits à 27 aides sociales. En moins de 7 minutes.
 owner: DINSIC
 incubator: dinsic
 status: consolidation
