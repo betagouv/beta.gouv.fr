@@ -2,7 +2,7 @@
 fullname: Marion Georges
 role: Ergonome
 avatar: /img/authors/marion.georges.jpg
-start: 2018-27-03
+start: 2018-03-27
 employer: independent/Sogilis Lyon
 startups:
     - eac
