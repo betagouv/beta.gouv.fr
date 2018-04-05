@@ -32,7 +32,7 @@ Et puis le site "cassé" est visité dix mille fois par jour, davantage
 quand un article de presse ou une émission le mentionne donc
 ça mérite mon attention.
 
-Il vient d'y avoir une mise en production, alors ça doit venir de là.
+Il vient d'y avoir une mise en production, alors ça doit venir de là…
 
 # Sur la piste
 
