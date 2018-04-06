@@ -30,6 +30,7 @@ mapping:
   "contact":
     type:      str
     pattern:   /@/
+    required:  yes
   "redirect_from":
     type:      seq
     sequence:

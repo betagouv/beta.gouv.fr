@@ -9,7 +9,7 @@ end:
 link:
 repository:
 stats: false
-contact:
+contact: pass@culture.gouv.fr
 ---
 Le Pass Culture est une application mobile qui permettra aux jeunes d'avoir accès à l'offre en éducation artistique et culturelle à proximité avec un portefeuille numérique dédié.
 
