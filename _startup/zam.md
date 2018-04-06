@@ -14,9 +14,9 @@ contact: melodie.dahi@beta.gouv.fr
 
 Pour tout projet de loi, l’examen parlementaire est une phase cruciale. Le texte est discuté, retravaillé et voté afin d’aboutir à une loi conforme aux attentes des représentants des citoyens.
 
-Pour le Gouvernement, cette phase est, dans le cycle de vie du projet de loi, celle qui est la plus dense. Les agents doivent répondre aux amendements - parfois très nombreux - déposés par les parlementaires, dans le délai - parfois très court - qui leur est imparti.
+Pour le Gouvernement, cette phase est, dans le cycle de vie du projet de loi, celle qui est la plus dense. Les agents doivent répondre aux amendements, parfois très nombreux, déposés par les parlementaires, dans le délai, parfois très court, qui leur est imparti.
 
-Les équipes - parfois très réduites - chargées de coordonner cette procédure sont donc les garants du respect des délais et des procédures de validation, ainsi que de la complétude du travail réalisé et du dossier qui sera fourni aux ministres pour défendre la position du Gouvernement “au banc”, c’est-à-dire lors du débat parlementaire. C’est la raison pour laquelle cette phase de gestion des amendements est à fort enjeu : la constitution du dossier ministre en dépend. Un retard dans le traitement met en péril la bonne marche des débats parlementaires et peut aboutir à la mise en difficulté du ministre face aux députés ou sénateurs. Cela peut ralentir le débat ou lui faire perdre en fluidité, voire pire, lorsqu’une erreur ou un trou se glisse dans le dossier, modifier le cours des discussions.
+Les équipes chargées de coordonner cette procédure sont donc les garants du respect des délais et des procédures de validation, ainsi que de la complétude du travail réalisé et du dossier qui sera fourni aux ministres pour défendre la position du Gouvernement “au banc”, c’est-à-dire lors du débat parlementaire. C’est la raison pour laquelle cette phase de gestion des amendements est à fort enjeu : en dépend la constitution d'un dossier solide et propre pour le ministre.
 
 Concrètement, le travail du coordonnateur consiste à :
 - rester en veille permanente sur les sites Internet du Parlement pour récupérer tout nouvel amendement déposé ;
@@ -38,7 +38,7 @@ L’outil qui sera développé pourrait être utilisé pour tous les projets de 
 La réussite du projet pourra être mesurée par :
 - le temps gagné par les  utilisateurs, au premier rang desquels les coordonnateurs ;
 - la réduction du stress perçu par les agents impliqués (depuis le bureau métier jusqu’au ministre) ;
-- l’amélioration de la qualité des réponses aux amendements ou la plus-value sur le fond des coordonnateurs (permise grâce à l’optimisation des tâches).
+- l’amélioration de la qualité au fond des réponses aux amendements.
 
 # La stratégie de mise sur le marché
 
