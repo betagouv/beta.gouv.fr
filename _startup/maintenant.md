@@ -2,6 +2,7 @@
 title: Maintenant!
 mission: Recrutez des gens, pas des CV
 owner: Pôle emploi
+incubator: pole-emploi
 status: consolidation
 start: 2016-02-02
 end:

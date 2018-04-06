@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "Checking if all your HTML is compliant with HTML5 standard"
-html5validator --root _site

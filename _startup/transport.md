@@ -2,6 +2,7 @@
 title: transport.data.gouv.fr
 mission: Rendre disponible, valoriser et améliorer les données transport
 owner: DGITM
+incubator: dinsic
 status: construction
 start: 2017-07-03
 end:
@@ -10,8 +11,6 @@ repository: https://github.com/etalab/transport-site
 stats: false
 contact: contact@transport.beta.gouv.fr
 ---
-
-
 
 Les données de transport en commun, lorsqu'elles existent, sont exposées sur différents portails de diffusion de données ouvertes.
 On constate souvent un manque d'homogénéité entre les différentes sources.

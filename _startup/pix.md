@@ -2,6 +2,7 @@
 title: PIX
 mission: Mesurer, développer et valoriser ses compétences numériques
 owner: Ministère de l'Éducation nationale
+incubator: dinsic
 status: success
 start: 2016-06-08
 end:
