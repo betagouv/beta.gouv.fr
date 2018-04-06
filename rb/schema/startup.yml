@@ -30,3 +30,7 @@ mapping:
   "contact":
     type:      str
     pattern:   /@/
+  "startups":
+    type:      seq
+    sequence:
+        - type:      str
