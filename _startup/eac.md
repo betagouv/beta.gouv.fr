@@ -4,7 +4,7 @@ mission: Augmenter le nombre d'actions artistiques et culturelles pour les jeune
 owner: Ministère de la Culture
 incubator: dinsic
 status: investigation
-start:
+start: 2018-04-01
 end:
 link:
 repository:
