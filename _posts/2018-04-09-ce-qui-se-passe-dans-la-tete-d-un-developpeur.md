@@ -121,30 +121,34 @@ Ca l'a empêché de regarder si il n'y avait pas une erreur simple à corriger.
 
 # Ralentir pour aller plus vite
 
-Ce qui a été décisif, c'est de ralentir.
-J'ai pu faire abstraction de l'heure tardive, de la fatigue et de la
-complexité métier.
-Ralentir ça veut dire que je me suis forcé à lire en détail des messages d'erreurs même si
-c'est rébarbatif. De loin ça a l'air incompréhensible.
-Pourtant souvent, si je prends le temps de lire en détail ce que le message dit,
-je trouve une partie destinée à un humain et cette partie me
-permet d'élaborer des hypothèses.
+Ce qui a été décisif, c'est de ralentir. Cela m'a permi de faire abstraction
+de l'heure tardive, de la fatigue et de la complexité métier. Je me suis
+forcé à lire en détail des messages d'erreurs qui, de loin, semblaient
+incompréhensibles. Et comme souvent, j'y ai trouvé une partie destinée à un
+humain et cette partie m'a permi d'élaborer des hypothèses.
 
 # Des accents dans l'enum ?
 
 Un développeur m'a demandé pourquoi l'enum ne contenait pas de
 caractère accentué. Si l'orthographe avait été la même dans toutes les
-couches du code (`célibataire` au lieu de `celibataire` sans accent),
+couches du code (`célibataire` au lieu de `celibataire`, sans accent),
 l'erreur aurait-elle pu être évitée ?
 
-Malheureusement, en Python, le langage du moteur de simulation, il est
-possible de mettre des accents dans la partie description d'une enum mais
-pas dans sa partie identifiant et le code suivant génèrerait une erreur  :
+Malheureusement, le moteur de simulation OpenFisca utilise la version 2 du
+langage Python, version dans laquelle il n'est pas possible d'utiliser un
+caractère accentué dans la partie identifiant (la clef) d'une enum. Le code
+suivant génèrerait une erreur :
 
 ```
 class Statut(Enum):
      célibataire = "Non marié, non PACSé"
 ```
 
-Il n'était donc pas possible de préserver les accents tout au long de la
+Il était donc impossible de préserver les accents tout au long de la
 chaîne de simulation.
+
+En revanche, la dernière version majeure de Python, la version 3, permettrait
+d'utiliser des accents. Le code précédent ne générerait ainsi aucune erreur,
+moyennant un import par `from traitlets import Enum`. La possibilité d'une
+migration d'OpenFisca vers cette version 3 a d'ailleurs été évoquée lors de la
+dernière amicale OpenFisca.
