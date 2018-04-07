@@ -34,7 +34,7 @@ quand un article de presse ou une émission le mentionne donc
 
 Il vient d'y avoir une mise en production, alors ça doit venir de là…
 
-# Sur la piste
+# Sur la piste
 
 ![Une erreur est survenue](/img/posts/2018-04-09-ce-qui-se-passe-dans-la-tete-d-un-developpeur/la_fameuse_erreur.png)
 
