@@ -3,14 +3,13 @@ title: Ce qui se passe dans la tête d'un développeur
 authors: philippe.blayo
 ---
 
-Un soir, Hela poste un message d'erreur sur Slack :
+Une nuit, Hela poste un message d'erreur sur Slack :
 
 > Le site est cassé, je peux plus rentrer mes cas types :/
 
-Hela, en ce moment, elle fait naître des incubateurs, dont
-celui des affaires sociales qu'elle accompagne personnellement.
-Elle a passé l'après-midi avec le groupe de travail
-de lutte contre le non recours aux droits.
+Hela fait naître des incubateurs, dont celui des affaires sociales qu'elle
+accompagne personnellement. Elle a passé l'après-midi avec le groupe de travail
+de lutte contre le non recours aux droits sociaux.
 Elle simulait les conséquences de cette réforme quand l'erreur
 s'est produite.
 
@@ -19,12 +18,13 @@ Parce qu'après c'est beaucoup plus compliqué à changer, et des gens en
 subissent les conséquences. C'est un peu l'équivalent en programmation d'écrire
 des tests avant d'écrire le code.
 
-Je comprends qu'elle a des projections à rendre pour le lendemain.
+Je comprends qu'elle a une analyse à rendre le lendemain.
 
 Je ne travaille pas sur ce sujet mais j'interprète son message comme
-une demande d'aide. "You see it, you own it" : si je vois un problème,
-je tente de le corriger, même si d'autres sont plus légitimes ou plus
-compétents pour le faire.
+une demande d'aide et une des heuristiques de l'incubateur suit le principe
+"You see it, you own it" : si je vois un problème et que je suis seul
+disponible, même si d'autres seraient plus légitimes ou plus compétents, je
+tente de le corriger.
 
 <!--more-->
 
@@ -38,18 +38,19 @@ Il vient d'y avoir une mise en production, alors ça doit venir de là…
 
 ![Une erreur est survenue](/img/posts/2018-04-09-ce-qui-se-passe-dans-la-tete-d-un-developpeur/la_fameuse_erreur.png)
 
-Trois messages d'erreur attirent mon attention :
+Parmi des dizaines et des dizaines de lignes de message d'erreur, trois d'entre
+elles attirent mon attention :
 
 *   "`Célibataire` is not a valid enum value for path `statut_marital`."
 *   "`{VALUE}` is not a valid enum value for path `{PATH}`."
 *   "`Célibataire` is not a valid enum value for path `statut_marital`."
 Oui, la troisième erreur est bien la même que la première.
-Je ne comprend pas le VALUE entre accolades. Le signe d'une valeur mal remplacée ?
-Ce VALUE m'intrigue. Il m'arrête un moment,
-Il me fait partir sur d'autres activités, dans d'autres fenêtres de mon ordinateur.
+Je ne comprends pas le VALUE entre accolades de la deuxième erreur. Le signe
+d'une valeur mal remplacée ? Comme je ne vois pas comment creuser, je laisse
+tomber l'investigation.
 
-Mais Hela a ses projections à rendre demain et je connais le développeur du site
-de simulation. Il est tout seul pour maintenir un site très visité.
+Mais Hela a ses simulations à rendre demain et je connais le développeur de ce
+site très visité. Il est tout seul pour le maintenir.
 Il va avoir un réveil difficile demain. Alors je m'y remets.
 
 Comme il y a deux fois le même message d'erreur, je me concentre dessus :
@@ -88,8 +89,8 @@ alors que moi je suis disponible tout de suite.
 Je n'ai jamais regardé ce code. Je n'y connais rien. Mais je le trouve sur
 Github.
 
-Je le clone et je fait une recherche pour voir si des `Célibataires` ancienne version
-n'auraient pas été oubliés dans un coin reculé du code.
+Je le clone et je cherche si des `Célibataires` ancienne version, avec
+majuscule et accent, ne traineraient pas encore dans un coin reculé du code.
 
     grep -r Célibataire *
 
@@ -97,58 +98,47 @@ Je trouve effectivement un bon candidat :
 
     situationsFamiliales.js:    value: 'Célibataire',  // Enum value 2 in OpenFisca
 
-C'est prometteur. Je pousse une correction sous forme de pull request.
+C'est prometteur. Dans une pull request je pousse une correction qui retire
+majuscule et accent.
 
 # Le jour d'après
 
-Le lendemain matin, je viens très tôt pour aider à finir de résoudre le problème.
-En arrivant, je lis que le développeur du site a intégré ma pull request depuis chez lui.
+Le lendemain matin, j'arrive très tôt pour aider à finir de résoudre le problème.
+Je découvre que le développeur du site a intégré ma pull request depuis chez lui.
 Il me remercie chaleureusement. Ca me fait plaisir. Le site n'est pas resté cassé pendant les heures de bureaux.
 
 Et moi j'ai envie de remercier les gens qui ont écrit ce code. Notamment j'ai envie de dire merci
-pour la clarté de l'erreur. Ce qui a fait la différence c'est de donner du contexte,
-dans ce cas précis, les valeurs de l'enum.
+pour la clarté de l'erreur. Ce qui a fait la différence c'est d'avoir donné du contexte,
+dans ce cas précis, les valeurs valides de l'enum.
 
 ## Un apprentissage sur l'agilité ?
 
-Le midi, Sandra, la fameuse développeuse de l'Open Governement Partenership me dit avec un grand sourire : hier soir tu m'as appris quelque-chose sur l'agilité. Je ne vois pas de quoi elle parle.
-Elle précise sa pensée : cette nuit comme la correction était petite, c'était bien
-de la pousser pour qu'elle soit intégrée au saut du lit.
+Le midi, Sandra, la fameuse développeuse de l'Open Governement Partenership me
+dit avec un grand sourire : hier soir tu m'as appris quelque-chose sur l'agilité,
+cette nuit comme la correction était petite, c'était bien de la pousser pour
+qu'elle soit intégrée au saut du lit.
 
 Elle s'était imaginé des cas compliqués qui auraient pu expliquer l'erreur.
 Ca l'a empêché de regarder si il n'y avait pas une erreur simple à corriger.
 
 
-# Ralentir pour aller plus vite
+# Ce que j'en retire
 
-Ce qui a été décisif, c'est de ralentir. Cela m'a permi de faire abstraction
-de l'heure tardive, de la fatigue et de la complexité métier. Je me suis
-forcé à lire en détail des messages d'erreurs qui, de loin, semblaient
-incompréhensibles. Et comme souvent, j'y ai trouvé une partie destinée à un
-humain et cette partie m'a permi d'élaborer des hypothèses.
+Deux choses me paraîssent avoir permis cette correction en un temps aussi
+court :
+
+- ralentir : en l'occurence me forcer à lire les messages d'erreurs, même si la
+plupart me semblaient incompréhensibles.
+- la force du collectif : le climat de confiance et de bienveillance qui règne
+à l'incubateur m'a permis de faire abstraction de l'heure tardive, de la
+fatigue et de la complexité métier.
+
 
 # Des accents dans l'enum ?
 
-Un développeur m'a demandé pourquoi l'enum ne contenait pas de
-caractère accentué. Si l'orthographe avait été la même dans toutes les
-couches du code (`célibataire` au lieu de `celibataire`, sans accent),
-l'erreur aurait-elle pu être évitée ?
-
-Malheureusement, le moteur de simulation OpenFisca utilise la version 2 du
-langage Python, version dans laquelle il n'est pas possible d'utiliser un
-caractère accentué dans la partie identifiant (la clef) d'une enum. Le code
-suivant génèrerait une erreur :
-
-```
-class Statut(Enum):
-     célibataire = "Non marié, non PACSé"
-```
-
-Il était donc impossible de préserver les accents tout au long de la
-chaîne de simulation.
-
-En revanche, la dernière version majeure de Python, la version 3, permettrait
-d'utiliser des accents. Le code précédent ne générerait ainsi aucune erreur,
-moyennant un import par `from traitlets import Enum`. La possibilité d'une
-migration d'OpenFisca vers cette version 3 a d'ailleurs été évoquée lors de la
-dernière amicale OpenFisca.
+Un développeur m'a demandé pourquoi les clefs de l'enum ne contenaient pas de
+caractère accentué. C'est parce qu'OpenFisca, le moteur de simulation utilisé
+par le site est écrit en Python 2, qui ne l'autorise pas. En Python 3, la
+dernière version majeure du langage, il est possible de mettre de tels accents.
+Une migrationvers cette version 3 a d'ailleurs été évoquée lors de la dernière
+amicale OpenFisca.
