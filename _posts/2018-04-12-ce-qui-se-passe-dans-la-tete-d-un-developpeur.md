@@ -7,9 +7,9 @@ Une nuit, Hela poste un message d'erreur sur Slack :
 
 > Le site est cassé, je peux plus rentrer mes cas types :/
 
-Hela fait naître des incubateurs, dont celui des affaires sociales qu'elle
-accompagne personnellement. Elle a passé l'après-midi avec le groupe de travail
-de lutte contre le non recours aux droits sociaux.
+Hela, en ce moment, elle fait naître des incubateurs, dont celui des affaires
+sociales qu'elle accompagne personnellement. Elle a passé l'après-midi avec le
+groupe de travail de lutte contre le non recours aux droits sociaux.
 Elle simulait les conséquences de cette réforme quand l'erreur
 s'est produite.
 
