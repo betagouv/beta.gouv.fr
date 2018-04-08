@@ -36,7 +36,7 @@ Il vient d'y avoir une mise en production, alors ça doit venir de là…
 
 # Sur la piste
 
-![Une erreur est survenue](/img/posts/2018-04-09-ce-qui-se-passe-dans-la-tete-d-un-developpeur/la_fameuse_erreur.png)
+![Une erreur est survenue](/img/posts/2018-04-12-ce-qui-se-passe-dans-la-tete-d-un-developpeur/la_fameuse_erreur.png)
 
 Parmi des dizaines et des dizaines de lignes de message d'erreur, trois d'entre
 elles attirent mon attention :
