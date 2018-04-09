@@ -9,7 +9,7 @@ Une nuit, Hela poste un message d'erreur sur Slack :
 
 Hela, en ce moment, elle fait naître des incubateurs, dont celui des affaires
 sociales qu'elle accompagne personnellement. Elle a passé l'après-midi avec le
-groupe de travail de lutte contre le non recours aux droits sociaux.
+groupe de travail de lutte contre le non-recours aux droits sociaux.
 Elle simulait les conséquences de cette réforme quand l'erreur
 s'est produite.
 
@@ -20,10 +20,10 @@ des tests avant d'écrire le code.
 
 Je comprends qu'elle a une analyse à rendre le lendemain.
 
-Je ne travaille pas sur ce sujet mais j'interprète son message comme
+Je ne travaille pas sur ce sujet, mais j'interprète son message comme
 une demande d'aide et une des heuristiques de l'incubateur suit le principe
-"You see it, you own it" : si je vois un problème et que je suis seul
-disponible, même si d'autres seraient plus légitimes ou plus compétents, je
+"You see it, you own it" : si je vois un problème et que je suis le seul
+disponible, même si d'autres étaient plus légitimes ou plus compétents, je
 tente de le corriger.
 
 <!--more-->
@@ -69,18 +69,19 @@ Je me force à déchiffrer le reste du message d'erreur et, oh joie, je trouve u
 ]
 ```
 
-Donc celibataire est bien une valeur possible, mais sans la majuscule au début,
+Donc `celibataire` est bien une valeur possible, mais sans la majuscule au début,
 ni l'accent. C'est peut-être ça l'erreur. D'autant que ces enum sont un ajout
-récent dans OpenFisca, un moteur que le site utilise. Comment je sais ça ?
-Parce-que j'ai assisté à une démo.
+récent dans [OpenFisca](https://fr.openfisca.org/), un moteur que le site
+utilise. Comment je sais ça ?
+Parce que j'ai assisté à une [démo](https://github.com/betagouv/beta.gouv.fr/wiki/D%C3%A9mo).
 
 Je poste cette hypothèse sur
 [Slack](https://github.com/betagouv/beta.gouv.fr/wiki/Bienvenue#slack).
 Un pouce vers le haut me conforte dans l'idée que je suis sur la bonne voie.
 
-Sandra, une autre développeuse qui passe sur slack, me le confirme mais doute qu'on puisse
+Sandra, une autre développeuse qui passe sur Slack, me le confirme, mais doute qu'on puisse
 corriger rapidement le problème. Sandra travaille sur la question depuis plus d'un an, elle a
-participé à l'Open Government Partnership en 2016 autour de ce sujet, autant dire qu'elle s'y connait mieux que moi.
+participé à l'Open Government Partnership en 2016 autour de ce sujet, autant dire qu'elle s'y connaît mieux que moi.
 Mais elle dit qu'elle n'aura pas le temps de regarder davantage d'ici demain
 alors que moi je suis disponible tout de suite.
 
@@ -105,16 +106,16 @@ majuscule et accent.
 
 Le lendemain matin, j'arrive très tôt pour aider à finir de résoudre le problème.
 Je découvre que le développeur du site a intégré ma pull request depuis chez lui.
-Il me remercie chaleureusement. Ca me fait plaisir. Le site n'est pas resté cassé pendant les heures de bureaux.
+Il me remercie chaleureusement. Ça me fait plaisir. Le site n'est pas resté cassé pendant les heures de bureau.
 
 Et moi j'ai envie de remercier les gens qui ont écrit ce code. Notamment j'ai envie de dire merci
 pour la clarté de l'erreur. Ce qui a fait la différence c'est d'avoir donné du contexte,
-dans ce cas précis, les valeurs valides de l'enum.
+dans ce cas précis, les valeurs valides de l'`enum`.
 
 ## Un apprentissage sur l'agilité ?
 
-Le midi, Sandra, la fameuse développeuse de l'Open Governement Partenership me
-dit avec un grand sourire : hier soir tu m'as appris quelque-chose sur l'agilité,
+Le midi, Sandra, la fameuse développeuse de l'Open Government Partnership me
+dit avec un grand sourire : hier soir tu m'as appris quelque chose sur l'agilité,
 cette nuit comme la correction était petite, c'était bien de la pousser pour
 qu'elle soit intégrée au saut du lit.
 
@@ -124,21 +125,21 @@ Ca l'a empêché de regarder si il n'y avait pas une erreur simple à corriger.
 
 # Ce que j'en retire
 
-Deux choses me paraîssent avoir permis cette correction en un temps aussi
+Deux choses me paraissent avoir permis cette correction en un temps aussi
 court :
 
-- ralentir : en l'occurence me forcer à lire les messages d'erreurs, même si la
+- ralentir : en l'occurence, me forcer à lire les messages d'erreurs, même si la
 plupart me semblaient incompréhensibles.
 - la force du collectif : le climat de confiance et de bienveillance qui règne
 à l'incubateur m'a permis de faire abstraction de l'heure tardive, de la
 fatigue et de la complexité métier.
 
 
-# Des accents dans l'enum ?
+# Des accents dans l'`enum` ?
 
-Un développeur m'a demandé pourquoi les clefs de l'enum ne contenaient pas de
+Un développeur m'a demandé pourquoi les clefs de l'`enum` ne contenaient pas de
 caractère accentué. C'est parce qu'OpenFisca, le moteur de simulation utilisé
 par le site est écrit en Python 2, qui ne l'autorise pas. En Python 3, la
 dernière version majeure du langage, il est possible de mettre de tels accents.
-Une migrationvers cette version 3 a d'ailleurs été évoquée lors de la dernière
+Une migration vers cette version 3 a d'ailleurs été évoquée lors de la dernière
 amicale OpenFisca.
