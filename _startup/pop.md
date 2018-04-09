@@ -1,8 +1,8 @@
 ## L'étendue de notre patrimoine est méconnue
-" Rendre accessibles au plus grand nombre les œuvres capitales de l'humanité et d'abord de la France ", voilà en substance la mission du Ministère de la Culture.
-L'une des manières d'y parvenir a été de mettre en ligne ses bases de données dès les années 90. En donnant accès aux informations de référence produites ou collectées par ses services sur des sujets aussi variés que la peinture, les manuscrits, l'architecture, la photographie…, dans l'idée de constituer un " bien commun ".
+"Rendre accessibles au plus grand nombre les œuvres capitales de l'humanité et d'abord de la France ", voilà en substance la mission du Ministère de la Culture.
+L'une des manières d'y parvenir a été de mettre en ligne ses bases de données dès les années 90. En donnant accès aux informations de référence produites ou collectées par ses services sur des sujets aussi variés que la peinture, les manuscrits, l'architecture, la photographie…, dans l'idée de constituer un "bien commun".
 
-D'une grande qualité scientifique, parfois inédites, ces données sont très souvent citées comme source d'information, voire comme preuve. Le Ministère de la Culture a donc la responsabilité de garantir aux usagers un accès à des données à jour et fiables. Or, l'état critique et le cloisonnement de son système d'information ne permet plus aux services de l'État d'assurer cette responsabilité, de manière efficiente.
+D'une grande qualité scientifique, parfois inédites, ces données sont très souvent citées comme source d'information, voire comme preuve. Le Ministère de la Culture a donc la responsabilité de garantir aux usagers un accès à des données à jour et fiables. Or, l'état critique et le cloisonnement de son système d'information ne permet plus aux services de l'État d'assurer cette responsabilité de manière efficiente.
 
 ## Le patrimoine est l'affaire de tous : vers une Plateforme Ouverte du Patrimoine (POP)
 POP propose de faire des données patrimoniales un " bien commun " dont il sera aussi simple de se servir que d'y contribuer, au sein d'une seule et même plateforme.
