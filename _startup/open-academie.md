@@ -4,7 +4,7 @@ mission: Construire le lycée et le collège de demain
 owner: Ministère de l'Éducation nationale
 incubator: dinsic
 status: consolidation
-start: 2015-01
+start: 2015-01-01
 end:
 link: https://openacademie.beta.gouv.fr
 repository: https://github.com/betagouv/open-academie

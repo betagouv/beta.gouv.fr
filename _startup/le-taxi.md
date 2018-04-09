@@ -9,7 +9,7 @@ end:
 link: https://le.taxi
 repository: https://github.com/openmaraude/APITaxi
 stats: true
-contact:
+contact: ishan.bhojwani@beta.gouv.fr
 redirect_from:
   - /startup/taxi
 ---

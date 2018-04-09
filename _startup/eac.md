@@ -4,12 +4,12 @@ mission: Augmenter le nombre d'actions artistiques et culturelles pour les jeune
 owner: Ministère de la Culture
 incubator: dinsic
 status: investigation
-start:
+start: 2018-04-01
 end:
 link:
 repository:
 stats: false
-contact:
+contact: pass@culture.gouv.fr
 ---
 La plateforme EAC est une application qui aide les enseignants à identifier et mettre en oeuvre des projets liés à l'éducation artistique et culturelle des élèves.
 
