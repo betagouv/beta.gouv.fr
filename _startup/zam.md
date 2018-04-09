@@ -30,7 +30,7 @@ Concrètement, le travail du coordonnateur consiste à :
 Pour chaque projet de loi, le processus se répète 4 fois : lors de la première lecture à l’Assemblée, pour la première lecture au Sénat, puis aux nouvelles lectures à l’Assemblée et au Sénat. Il peut également y avoir des amendements à traiter lors de l’examen du projet de texte par les commissions parlementaires avant chaque lecture. 
 Le volume des amendements à traiter peut considérablement jouer sur la complexité et le stress que ce travail implique : s’agissant par exemple du projet de loi de financement de la sécurité sociale pour 2018 (PLFSS), il a fallu traiter 1300 amendements en 3 jours, entre le vendredi soir et le début de la séance de débat parlementaire le mardi.
 
-# La solution informatique
+# La solution numérique
 
 Ce gigantesque travail de coordination n’est aujourd’hui facilité par aucun outil suffisamment robuste et adapté, si bien qu’une grande marge d’optimisation existe pour éviter aux agents d’avoir à réaliser de très nombreuses tâches/manipulations sans valeur ajoutée sur le fond.
 
