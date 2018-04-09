@@ -1,12 +1,12 @@
 ---
 title: Work in France
-mission: La plateforme de demande d’autorisations provisoires de travail.
+mission: La plateforme de demande d’autorisations provisoires de travail
 owner: Ministère des Affaires sociales
 incubator: sgmas
 status: construction
 start: 2017-10-26
 end:
-link:
+link: https://workinfrance.beta.gouv.fr
 repository: https://github.com/SocialGouv/work-in-france
 stats: false
 contact: contact@workinfrance.beta.gouv.fr

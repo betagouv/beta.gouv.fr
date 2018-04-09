@@ -6,7 +6,7 @@ start: 2018-01-01
 end:
 employer: independent/octo
 startups:
-    - locat-io
+    - locatio
 ---
 
 Développeur agile mais solide
