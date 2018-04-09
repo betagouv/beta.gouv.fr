@@ -1,3 +1,16 @@
+---
+title: Plateforme Ouverte du Patrimoine
+mission: Valoriser notre patrimoine culturel auprès du plus grand nombre
+incubator: 
+status: construction
+start: 2018-04-01
+end:
+link:
+repository:
+stats: false
+contact: sandrine.della-bartolomea@culture.gouv.fr
+---
+
 ## L'étendue de notre patrimoine est méconnue
 "Rendre accessibles au plus grand nombre les œuvres capitales de l'humanité et d'abord de la France ", voilà en substance la mission du Ministère de la Culture.
 L'une des manières d'y parvenir a été de mettre en ligne ses bases de données dès les années 90. En donnant accès aux informations de référence produites ou collectées par ses services sur des sujets aussi variés que la peinture, les manuscrits, l'architecture, la photographie…, dans l'idée de constituer un "bien commun".
