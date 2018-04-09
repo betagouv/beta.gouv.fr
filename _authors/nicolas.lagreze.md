@@ -9,7 +9,7 @@ end: 2018-10-15
 employer: independent
 startups:
     - eac 
-    - odp
+    - pop
 ---
 
 Step by step we reach the top.
