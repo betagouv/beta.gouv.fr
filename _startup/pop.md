@@ -1,7 +1,7 @@
 ---
 title: Plateforme Ouverte du Patrimoine
 mission: Valoriser notre patrimoine culturel auprès du plus grand nombre
-incubator: 
+incubator: dinsic
 owner: Ministère de la Culture
 status: construction
 start: 2018-04-01
