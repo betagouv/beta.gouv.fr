@@ -8,4 +8,4 @@ startups:
     - 'signaux-faibles'
 ---
 
-Intrapreneuse
+Au service des entreprises
