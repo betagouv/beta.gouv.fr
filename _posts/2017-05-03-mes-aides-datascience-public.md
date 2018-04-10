@@ -1,6 +1,5 @@
 ---
 title: Statistiques descriptives au service de l'intérêt général
-startup: mes-aides
 authors:
   - matti.schneider
 ---

@@ -1,7 +1,8 @@
 ---
 title: API Particulier
-mission: Récupérer les données des particuliers
-owner: Etalab
+mission: Accélérer l’ouverture des données personnelles et leur réutilisation pour simplifier les démarches
+owner: DINSIC
+incubator: dinsic
 status: consolidation
 start: 2015-10-11
 end:
