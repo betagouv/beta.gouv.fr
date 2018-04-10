@@ -2,9 +2,9 @@
 fullname: Anna-Livia Gomart
 role: Développeuse
 avatar: https://avatars3.githubusercontent.com/Anna-Livia?s=600
-link: http://www.anna-livia.com/
+link: https://www.anna-livia.com/
 start: 2017-05-18
-end: 2018-03-30
+end: 2018-09-30
 employer: service/octo
 ---
 

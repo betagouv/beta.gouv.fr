@@ -7,8 +7,8 @@ start: 2017-12-15
 end: 2018-06-30
 employer: service/NUMA/Frontierlab
 startups:
-    - locat-io
+    - locatio
     - assec
 ---
 
-J'accompagne des startups dans leur démarche de Product Management et d'organisation de leurs Teams. Avec le framework Xpedition, nous leur apportons des méthodes, des outils, une culture de travail basé des démarches itératives, collaboratives et créatives.
+Coach qui aide à comprendre la logique des réseaux

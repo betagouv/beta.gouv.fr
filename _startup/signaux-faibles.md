@@ -1,14 +1,15 @@
 ---
 title: Signaux Faibles
 mission: Mieux cibler les interventions en remédiation de l'État vers les entreprises en difficulté
-owner: Direccte Bourgogne Franche-Comté
-status: construction
+owner: DINSIC
+incubator: dinsic
+status: consolidation
 start: 2014-05-15
 end:
 link:
-repository:
+repository: https://github.com/entrepreneur-interet-general/opensignauxfaibles
 stats: false
-contact: pierre@pezziardi.net
+contact: pierre.pezziardi@beta.gouv.fr
 ---
 
 ## La problématique
