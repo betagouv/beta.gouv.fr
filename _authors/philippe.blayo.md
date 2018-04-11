@@ -9,7 +9,7 @@ startups:
   - open-academie
 ---
 
-D'après des ateliers [chimère](https://fr.wikipedia.org/wiki/Chim%C3%A8re)
-animés par Laurent Bossavit, je suis :
-- Un batisseur et un facilitateur.
-- Un Christophe Colomb du code et un galérien du code.
+Comme [chimère](https://fr.wikipedia.org/wiki/Chim%C3%A8re)
+(Laurent Bossavit), je suis :
+- batisseur et facilitateur
+- un Christophe Colomb et un galérien du code
