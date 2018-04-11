@@ -88,7 +88,7 @@ alors que moi je suis disponible tout de suite.
 # Le grand plongeon
 
 Je n'ai jamais regardé ce code. Je n'y connais rien. Mais je le trouve sur
-Github.
+[Github](https://github.com/betagouv/mes-aides-ui).
 
 Je le clone et je cherche si des `Célibataires` ancienne version, avec
 majuscule et accent, ne traineraient pas encore dans un coin reculé du code.
@@ -99,8 +99,9 @@ Je trouve effectivement un bon candidat :
 
     situationsFamiliales.js:    value: 'Célibataire',  // Enum value 2 in OpenFisca
 
-C'est prometteur. Dans une pull request je pousse une correction qui retire
-majuscule et accent.
+C'est prometteur. Dans une
+[pull request](https://github.com/betagouv/mes-aides-ui/pull/782)
+je pousse une correction qui retire majuscule et accent.
 
 # Le jour d'après
 
