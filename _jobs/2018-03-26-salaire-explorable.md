@@ -2,7 +2,7 @@
 roles: un·e développeur·se
 startup: embauche
 techno: React-Redux-Ramda
-open: true
+open: false
 ---
 
 Nous cherchons un·e développeur·se pour nous aider à construire [le Simulateur d'Embauche](https://embauche.beta.gouv.fr).
