@@ -8,3 +8,8 @@ employer: dinsic
 startups:
   - open-academie
 ---
+
+D'après des ateliers [chimère](https://fr.wikipedia.org/wiki/Chim%C3%A8re)
+animés par Laurent Bossavit, je suis :
+- Un batisseur et un facilitateur.
+- Un Christophe Colomb du code et un galérien du code.
