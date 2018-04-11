@@ -36,11 +36,10 @@ Cependant la majorité des projets existants reposant sur des micro-contribution
 
 ## Notre solution
 
-**Co-bot** permet aux porteurs de projets de recourir de façon simple à la contribution citoyenne pour entraîner l’intelligence artificielle sur des jeux d’images disponibles, au profit de nos politiques publiques.
+**Co-construisons** permet aux porteurs de projets de recourir de façon simple à la contribution citoyenne pour entraîner l’intelligence artificielle sur des jeux d’images disponibles, au profit de nos politiques publiques.
 
-Ainsi, co-bot propose :
-Une plateforme destinée aux porteurs de projets qui ont des images à classer ou à faire qualifier permettant de déposer simplement leurs données et de choisir leur besoin de qualification et gérer la fréquence et l’animation des contributions souhaitées.
-Un agent conversationnel qui propose une qualification d’images simple et ludique en s’adressant aux contributeurs sur des outils ou des services que les citoyens utilisent au niveau professionnel dans un premier temps (eg : Slack), personnel dans un second (eg : Facebook).
+Une plateforme destinée aux porteurs de projets qui ont des images à classer ou à faire qualifier permettra de déposer simplement leurs données et de choisir leur besoin de qualification et gérer la fréquence et l’animation des contributions souhaitées.
+Un agent conversationnel, cobot, qui propose une qualification d’images simple et ludique en s’adressant aux contributeurs sur des outils ou des services que les citoyens utilisent au niveau professionnel dans un premier temps (eg : Slack), personnel dans un second (eg : Facebook).
 
 Un produit minimum viable va être déployé en s’appuyant sur le projet OpenSolarMap de calcul automatique du potentiel solaire des toits pour tester la contribution supplémentaire qui pourrait être générée. Ce projet dispose déjà de contributions et la qualification demandée est accessible au grand public. Ce PMV repose sur le développement d’un agent conversationnel sur slack qui permettra de tester différentes fréquences, tons de messages et mode de qualification des données afin de maximiser le recrutement de nouveaux contributeurs et fidéliser leurs contributions.
 
