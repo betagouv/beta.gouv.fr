@@ -1,7 +1,7 @@
 ---
 roles: un·e lead dev Rails
 startup: reso
-open: true
+open: false
 ---
 
 Réso cherche un·e lead dev Rails pour passer à la vitesse supérieure et mieux accompagner les entreprises en difficulté et à fort potentiel de croissance.
