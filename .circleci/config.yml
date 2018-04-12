@@ -66,6 +66,10 @@ jobs:
           command: ruby rb/bin/validate rb/schema/author.yml "_authors/*.md"
 
       - run:
+          name: Check startup metadata
+          command: ruby rb/bin/validate rb/schema/startup.yml "_startup/*.md"
+
+      - run:
           name: Lint JSON API pages
           command: bundle exec jsonlint _site/api/v*/*.json
 

@@ -101,7 +101,7 @@ bundle exec jekyll serve
 
 Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `_layouts` et `css`.
 
-### Utilisation de Docker pour le développement en local
+### Utilisation de Docker pour le développement en local
 - Installer (Docker](https://docs.docker.com/compose/install/) (Docker compose est normalement installé automatiquement avec Docker)
 - Lancer `docker-compose up`
 
