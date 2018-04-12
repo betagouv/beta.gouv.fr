@@ -1,15 +1,15 @@
 ---
 title: e-MJPM
-mission: Nous simplifions l’attribution des mesures de protection juridique des majeurs
+mission: Trouver rapidement le bon professionnel pour les majeurs à protéger
 owner: Ministère des Affaires sociales
 incubator: sgmas
 status: investigation
 start: 2017-10-26
 end:
-link: https://lebontuteur.beta.gouv.fr/
-repository: https://github.com/SocialGouv/lebontuteur-homepage
+link: https://emjpm.beta.gouv.fr/
+repository: https://github.com/SocialGouv/eMJPM-homepage
 stats: false
-contact: contact@lebontuteur.beta.gouv.fr
+contact: contact@emjpm.beta.gouv.fr
 ---
 
 Aujourd’hui, la France compte entre 800 000 et 1 million de personnes sous mesure de protection (tutelle, curatelle, sauvegarde de justice). Chaque année plusieurs milliers de personnes majeures sont nouvellement concernés.
