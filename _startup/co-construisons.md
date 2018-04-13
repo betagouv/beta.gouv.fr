@@ -6,7 +6,7 @@ incubator: dinsic
 status: investigation
 start: 2017-12-15
 end:
-link: https://lamat92.github.io/co_construisons/index.html#
+link: http://site-1356466-3064-3975.strikingly.com/
 repository:
 stats: false
 contact: laurence.matringe@developpement-durable.gouv.fr
