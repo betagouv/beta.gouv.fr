@@ -7,4 +7,4 @@ startups:
     - 'signaux-faibles'
 ---
 
-Au service des entreprises
+Au service des entreprises en difficulté
