@@ -2,7 +2,7 @@
 fullname: Mathieu Gens
 role: Intrapreneur
 start: 2017-10-16
-end: 2017-12-31
+end: 2018-12-31
 employer: admin/mef-calaisis
 startups:
     - reso

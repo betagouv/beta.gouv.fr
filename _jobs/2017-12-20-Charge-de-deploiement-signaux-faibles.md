@@ -30,4 +30,4 @@ Le candidat doit surtout :
 * souhaiter acquérir de nouvelles compétences ;
 * savoir faire preuve d’initiative.
 
-Écris-nous à l'adresse [`recrutement@beta.gouv.fr`](mailto:recrutement@beta.gouv.fr) et viens partager ton expérience et tes belles histoires dans la construction de produits qui marchent ;)
+Écris-nous à l'adresse [`contact@signaux-faibles.beta.gouv.fr`](mailto:contact@signaux-faibles.beta.gouv.fr) et viens partager ton expérience et tes belles histoires dans la construction de produits qui marchent ;)
