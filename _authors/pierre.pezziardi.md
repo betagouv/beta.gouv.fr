@@ -18,6 +18,8 @@ startups:
     - 'api-entreprise'
     - 'api-particulier'
     - ban
+    - eac 
+    - pop
     - 'data.gouv.fr'
     - 'fiches-de-banc':
         inactive
