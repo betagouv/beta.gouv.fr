@@ -2,7 +2,7 @@
 roles: un·e développeur·se full-stack
 startup: pass-culture
 techno: React-Redux
-open: true
+open: false
 ---
 
 L'équipe technique du Pass Culture s'agrandit et a besoin d'un·e développeur·se, en CDD ou en freelance. Si vous voulez construire un outil mobile grand public qui facilite l’accès des jeunes au spectacle vivant, à la littérature ou encore à toutes les formes de pratiques culturelles, rejoignez-nous !
