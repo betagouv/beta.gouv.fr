@@ -9,7 +9,7 @@ end:
 link:
 repository: https://github.com/entrepreneur-interet-general/opensignauxfaibles
 stats: false
-contact: pierre.pezziardi@beta.gouv.fr
+contact: contact@signaux-faibles.beta.gouv.fr
 ---
 
 ## La problématique
