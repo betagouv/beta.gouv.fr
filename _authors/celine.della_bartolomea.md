@@ -1,6 +1,7 @@
 ---
 fullname: Sandrine Della Bartolomea
 role: Intrapreneuse
+avatar: https://avatars3.githubusercontent.com/betagouv-bot?s=600
 github: SandrineDB
 start: 2018-04-05 
 end: 2018-10-15 
