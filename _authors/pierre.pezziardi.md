@@ -18,7 +18,7 @@ startups:
     - 'api-entreprise'
     - 'api-particulier'
     - ban
-    - eac 
+    - eac
     - pop
     - 'data.gouv.fr'
     - 'fiches-de-banc':
