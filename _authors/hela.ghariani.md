@@ -7,7 +7,7 @@ employer: dinsic
 startups:
     - mdph
     - bourse
-    - 'etudiant-entrepreneur':
+    - etudiant-entrepreneur:
         inactive
     - boussole:
         inactive
