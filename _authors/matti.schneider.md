@@ -7,11 +7,11 @@ start: 2014-10-01
 end: 2017-08-31
 employer: dinsic
 startups:
-    - 'mes-aides':
+    - mes-aides:
         inactive
     - embauche:
         inactive
-    - 'fiches-de-banc':
+    - fiches-de-banc:
         inactive
     - api.gouv.fr:
         inactive

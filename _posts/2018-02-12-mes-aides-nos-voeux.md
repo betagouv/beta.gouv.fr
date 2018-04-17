@@ -26,7 +26,7 @@ En 2018, nous souhaitons développer de nouveaux liens avec les lieux d’accuei
 ### Augmenter le nombre d'aides présentées
 En 2018, nous souhaitons proposer de nouvelles aides légales et extra-légales. Le succès de Mes Aides repose sur un moteur de calcul libre et ouvert : [OpenFisca](https://www.openfisca.org). C’est à travers lui que nous pouvons proposer une seule simulation pour plusieurs aides. OpenFisca peut simplement être amélioré en y ajoutant de nouvelles formules et en définissant de nouvelles règles, comme cela a été le cas avec la métropole de Rennes et sa tarification solidaire de transports. Pour 2018, nous souhaitons développer Mes Aides en nous associant à de nouvelles villes, collectivités, régions ou bien encore de nouveaux territoires.
 
-### Développer notre cercle de professionnels 
+### Développer notre cercle de professionnels
 En 2018, nous souhaitons nous lancer dans [la construction d’un réseau d’experts](https://gouv.us12.list-manage.com/subscribe?u=1ec467926df0f8b0be4915921&id=0321551dd4) capables d'éclaircir certains points de la législation ou bien de rapprocher une situation concrète de cette même législation. Ce réseau nous permettra tout d’abord d’être pro-actif dans les améliorations du simulateur : quelles sont les lois qui ont été modifiées récemment ? En quoi les situations actuelles peuvent mieux refléter la réalité ? Afin d’apporter un meilleur conseil auprès des utilisateurs, certains de ces experts pourront également servir de relais locaux afin d’aider nos utilisateurs à interpréter leurs résultats.
 
 ### Faciliter et accélerer les demandes d'instruction
