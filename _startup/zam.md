@@ -45,4 +45,3 @@ La réussite du projet pourra être mesurée par :
 
 L’outil sera testé sur le PLFSS pour 2019. Pourquoi lui ? Le PLFSS est voté chaque année et fait l’objet d’une contrainte de délai particulièrement marquée (50 jours séparent au maximum le dépôt du projet de loi et son vote définitif par le Parlement) et d’un volume d’amendement très important.
 La loi Plan d’Action pour la Croissance et la Compétitivité des Entreprises (portée par le ministère de l’économie), ou la loi Parcours professionnel (porté par le ministère du travail) pourrait être de bonnes échéances intermédiaires de mise en oeuvre expérimentale.
-

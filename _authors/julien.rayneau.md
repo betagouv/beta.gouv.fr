@@ -9,4 +9,3 @@ employer: independent
 startups:
     - reso
 ---
-

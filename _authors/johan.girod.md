@@ -12,4 +12,3 @@ employer: independent # dinsic ou independent/<employer> ou admin/<employer> ou 
 startups:
     - embauche # le nom du fichier de la startup dans le répertoire /_startup/ sans l'extension .md
 ---
-
