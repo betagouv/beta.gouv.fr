@@ -1,8 +1,8 @@
 ---
 title: A+, le service public VIP pour tous.
 mission: La communauté des Agents A+ vous aide à résoudre les blocages administratifs.
-owner: DILA
-incubator: dinsic
+owner: DINSIC
+incubator: DINSIC
 status: consolidation
 start: 2017-10-01
 end:
@@ -31,7 +31,7 @@ C’est un gain de temps pour tous !
 
 ## Démarrage par des pilotes locaux
 
-L’expérimentation a débuté à Argenteuil (Val d’Oise) en décembre et en février dans les Alpes-Maritimes. En trois mois de production, A+ a enregistré plus de 140 demandes et, a satisfait autant d’utilisateurs. Quatre nouveaux territoires ont été désignés pour continuer les phases de tests à grande échelle aussi bien en France métropolitaine avec la Seine-et-Marne et le Jura qu’en Outremer avec la Martinique et la Réunion.
+L’expérimentation a débuté à Argenteuil (Val d’Oise) en décembre 2017 et en février 2018 dans les Alpes-Maritimes. En trois mois de production, A+ a enregistré plus de 140 demandes et, a satisfait autant d’utilisateurs. Quatre nouveaux territoires ont été désignés pour continuer les phases de tests à grande échelle aussi bien en France métropolitaine avec la Seine-et-Marne et le Jura qu’en Outremer avec la Martinique et la Réunion.
 
 Ce sont aujourd’hui 22 partenaires - administrations centrales, opérateurs de l’Etat et collectivités - qui nous ont fait confiance et utilisent A+ au quotidien pour la résolution des blocages administratifs au service des plus démunis.
 
