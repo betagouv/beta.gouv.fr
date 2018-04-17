@@ -5,7 +5,7 @@ start: 2016-04-01
 avatar:
 employer: admin/eig
 startups:
-    - 'signaux-faibles'
+    - signaux-faibles
 ---
 
 Fabricante de data

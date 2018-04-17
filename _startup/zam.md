@@ -27,7 +27,7 @@ Concrètement, le travail du coordonnateur consiste à :
 - réaliser un reporting régulier auprès des instances internes voire interministérielles ;
 - le tout en ayant également à rédiger les réponses aux amendements qui relèvent de sa propre compétence métier.
 
-Pour chaque projet de loi, le processus se répète au minimum 4 fois : lors de la première lecture à l’Assemblée, pour la première lecture au Sénat, puis aux nouvelles lectures à l’Assemblée et au Sénat. Il peut également y avoir des amendements à traiter lors de l’examen du projet de texte par les commissions parlementaires avant chaque lecture. 
+Pour chaque projet de loi, le processus se répète au minimum 4 fois : lors de la première lecture à l’Assemblée, pour la première lecture au Sénat, puis aux nouvelles lectures à l’Assemblée et au Sénat. Il peut également y avoir des amendements à traiter lors de l’examen du projet de texte par les commissions parlementaires avant chaque lecture.
 Le volume des amendements à traiter peut considérablement jouer sur la complexité et le stress que ce travail implique : s’agissant par exemple du projet de loi de financement de la sécurité sociale pour 2018 (PLFSS), il a fallu traiter 1300 amendements en 3 jours, entre le vendredi soir et le début de la séance de débat parlementaire le mardi.
 
 # La solution numérique
@@ -43,6 +43,5 @@ La réussite du projet pourra être mesurée par :
 
 # La stratégie de mise sur le marché
 
-L’outil sera testé sur le PLFSS pour 2019. Pourquoi lui ? Le PLFSS est voté chaque année et fait l’objet d’une contrainte de délai particulièrement marquée (50 jours séparent au maximum le dépôt du projet de loi et son vote définitif par le Parlement) et d’un volume d’amendement très important. 
+L’outil sera testé sur le PLFSS pour 2019. Pourquoi lui ? Le PLFSS est voté chaque année et fait l’objet d’une contrainte de délai particulièrement marquée (50 jours séparent au maximum le dépôt du projet de loi et son vote définitif par le Parlement) et d’un volume d’amendement très important.
 La loi Plan d’Action pour la Croissance et la Compétitivité des Entreprises (portée par le ministère de l’économie), ou la loi Parcours professionnel (porté par le ministère du travail) pourrait être de bonnes échéances intermédiaires de mise en oeuvre expérimentale.
-

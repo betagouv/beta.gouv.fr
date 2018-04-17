@@ -18,21 +18,21 @@ Nous assistons, au sein de l'administration publique, au développement de proje
 
 Ces projets deviennent désormais possibles grâce à l'exploitation d’une nouvelle capacité d’analyse reposant sur les contributions digitales du grand public ou d’experts (on parle de “crowdsourcing”). Ces contributions humaines qualifient des petites quantités de données sur lesquels sont ensuite entraînés des  algorithmes d’intelligence artificielle permettant à terme de démultiplier la capacité d’analyse initiale.
 
-Ces projets sont aussi l’une des réponses possibles au risque de perte d’indépendance de l’état, des collectivités ou d’autres acteurs publics quant à l’accès à des données essentielles pour l’intérêt général. Préserver notre souveraineté numérique impose de bâtir des alliances nouvelles, plus loyales et plus respectueuses, avec les citoyens-contributeurs. 
+Ces projets sont aussi l’une des réponses possibles au risque de perte d’indépendance de l’état, des collectivités ou d’autres acteurs publics quant à l’accès à des données essentielles pour l’intérêt général. Préserver notre souveraineté numérique impose de bâtir des alliances nouvelles, plus loyales et plus respectueuses, avec les citoyens-contributeurs.
 
 
 ## Le problème ?
 
 Le potentiel de l’application de l’intelligence artificielle à la reconnaissance d’images est immense pour l’administration publique.  Citons, à titre d’exemple, le soutien au déploiement des véhicules autonomes grâce à l’analyse automatique des panneaux routiers, la facilitation de la publication massive de données ouvertes [grâce au floutage automatique des visages](https://www.mapillary.com/) ou à l’anonymisation automatisée des décisions administratives.
 
-Tous ces projets reposent sur notre capacité à entraîner des algorithmes d’intelligence artificielle (qualification d’images, analyse sémantique). Le principal frein actuel est de disposer d’un volume suffisant d’images correctement qualifiées (par des humains) pour ensuite pouvoir entraîner les modèles disponibles et mettre à profit le potentiel de l’intelligence artificielle au profit de nos politiques publiques.  
+Tous ces projets reposent sur notre capacité à entraîner des algorithmes d’intelligence artificielle (qualification d’images, analyse sémantique). Le principal frein actuel est de disposer d’un volume suffisant d’images correctement qualifiées (par des humains) pour ensuite pouvoir entraîner les modèles disponibles et mettre à profit le potentiel de l’intelligence artificielle au profit de nos politiques publiques.
 
-Dans le cas du projet d’[opensolarmap](http://opensolarmap.org) les plus de 130 000 contributions ont permis d’entraîner un modèle qui a permis de démultiplier les capacités d’analyse du potentiel de production d’énergie solaire grâce à l’intelligence artificielle. 
+Dans le cas du projet d’[opensolarmap](http://opensolarmap.org) les plus de 130 000 contributions ont permis d’entraîner un modèle qui a permis de démultiplier les capacités d’analyse du potentiel de production d’énergie solaire grâce à l’intelligence artificielle.
 
 
 Les pratiques contributives liées au numérique se développent en France. Selon l’[Agence du Numérique](https://labo.societenumerique.gouv.fr/2017/12/21/pratiques-contributives-francais-sommes/), en 2015, 26 % des Français ont donné sur internet une note, une évaluation ou un commentaire sur un produit. En 2017, plus de 100 000 citoyens ont contribué ou participé à des consultations publiques en ligne .
 
-Cependant la majorité des projets existants reposant sur des micro-contributions de qualification d’images ont du mal à trouver le nombre suffisant de contributeurs pour faire levier sur l’intelligence artificielle. Le premier cercle de contributeurs est constitué de passionnés ou de l’écosystème immédiat du projet. Mais réussir à recruter et à fidéliser des contributeurs plus éloignés est souvent coûteux en temps et en énergie. L’animation des communautés est clé mais ces compétences en community management restent rares dans le secteur public. De plus, la fidélisation des contributeurs est d’autant plus complexe que la contribution demandée est simple. Enfin, les budgets de communication ne permettent pas à ces projets de se faire connaître facilement auprès du deuxième cercle de contributeurs et au-delà.  
+Cependant la majorité des projets existants reposant sur des micro-contributions de qualification d’images ont du mal à trouver le nombre suffisant de contributeurs pour faire levier sur l’intelligence artificielle. Le premier cercle de contributeurs est constitué de passionnés ou de l’écosystème immédiat du projet. Mais réussir à recruter et à fidéliser des contributeurs plus éloignés est souvent coûteux en temps et en énergie. L’animation des communautés est clé mais ces compétences en community management restent rares dans le secteur public. De plus, la fidélisation des contributeurs est d’autant plus complexe que la contribution demandée est simple. Enfin, les budgets de communication ne permettent pas à ces projets de se faire connaître facilement auprès du deuxième cercle de contributeurs et au-delà.
 
 ## Notre solution
 
