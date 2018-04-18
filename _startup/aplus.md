@@ -26,7 +26,7 @@ A+ s’adresse à l’usager, en situation particulièrement vulnérable, qui a 
 A+ va répondre à ces usagers en situation critique en mettant **en relation les aidants et les agents A+** à travers une plateforme qui les décloisonne. 
 - Les *aidants A+* sont ceux 
 ccueillent le public : personnel en mairie, en CCAS, travailleurs sociaux, défenseurs des droits… 
-- Les *agents A+* sont les professionnels des organismes de sécurité sociale (CAF, CPAM, CNAV, Pôle emploi, MDPH, DGFIP, conseils départementaux …) qui ont décidé volontairement de répondre à ces sollicitations. L’usager ne se sentira plus exclu voire contraint d’exercer une action judiciaire pour être entendu. 
+- Les *agents A+* sont les professionnels des organismes de sécurité sociale (CAF, CPAM, CNAV, Pôle emploi, MDPH, DGFIP, conseils départementaux…) qui ont décidé volontairement de répondre à ces sollicitations. L’usager ne se sentira plus exclu voire contraint d’exercer une action judiciaire pour être entendu. 
 
 C’est un gain de temps pour tous ! (moins de déplacements aux guichets, moins d'appels téléphoniques vers les plateformes des administrations et moins de recours administratifs.)
 
