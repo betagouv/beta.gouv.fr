@@ -32,7 +32,7 @@ Avec Réso, l’État ouvre un guichet unique qu’il apporte aux entreprises en
 Un outil numérique au service du conseil public
 ===============================================
 
-Un outil numérique est au cœur de ce réseau et permet de le fédérer. Il permet aux conseillers de proposer aux chefs d’entreprise une mise en relation automatisée vers les bons experts ayant connaissance des aides correspondantes à leurs besoins. Les contacts identifiés au sein de l’administration prendront contact avec l'entrerpise et seront capable de les accompagner dans leurs démarches.
+Un outil numérique est au cœur de ce réseau et permet de le fédérer. Il permet aux conseillers de proposer aux chefs d’entreprise une mise en relation automatisée vers les bons experts ayant connaissance des aides correspondant à leurs besoins. Les experts identifiés au sein de l’administration prendront contact avec l'entreprise et seront en capacité de les accompagner dans leurs démarches.
 
 
 Réso permet ainsi à l’administration de développer un rôle de conseil à destination des entreprises en complément de son rôle régalien de contrôle.
