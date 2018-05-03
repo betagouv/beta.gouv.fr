@@ -34,7 +34,7 @@ quand un article de presse ou une émission le mentionne donc
 
 Il vient d'y avoir une mise en production, alors ça doit venir de là…
 
-# Sur la piste
+## Sur la piste
 
 ![Une erreur est survenue](/img/posts/2018-04-12-ce-qui-se-passe-dans-la-tete-d-un-developpeur/la_fameuse_erreur.png)
 
@@ -85,7 +85,7 @@ participé à l'Open Government Partnership en 2016 autour de ce sujet, autant d
 Mais elle dit qu'elle n'aura pas le temps de regarder davantage d'ici demain
 alors que moi je suis disponible tout de suite.
 
-# Le grand plongeon
+## Le grand plongeon
 
 Je n'ai jamais regardé ce code. Je n'y connais rien. Mais je le trouve sur
 [Github](https://github.com/betagouv/mes-aides-ui).
@@ -103,7 +103,7 @@ C'est prometteur. Dans une
 [pull request](https://github.com/betagouv/mes-aides-ui/pull/782)
 je pousse une correction qui retire majuscule et accent.
 
-# Le jour d'après
+## Le jour d'après
 
 Le lendemain matin, j'arrive très tôt pour aider à finir de résoudre le problème.
 Je découvre que le développeur du site a intégré ma pull request depuis chez lui.
@@ -124,7 +124,7 @@ Elle s'était imaginé des cas compliqués qui auraient pu expliquer l'erreur.
 Ca l'a empêché de regarder si il n'y avait pas une erreur simple à corriger.
 
 
-# Ce que j'en retire
+## Ce que j'en retire
 
 Deux choses me paraissent avoir permis cette correction en un temps aussi
 court :
@@ -136,7 +136,7 @@ plupart me semblaient incompréhensibles.
 fatigue et de la complexité métier.
 
 
-# Des accents dans l'`enum` ?
+## Des accents dans l'`enum` ?
 
 Un développeur m'a demandé pourquoi les clefs de l'`enum` ne contenaient pas de
 caractère accentué. C'est parce qu'OpenFisca, le moteur de simulation utilisé

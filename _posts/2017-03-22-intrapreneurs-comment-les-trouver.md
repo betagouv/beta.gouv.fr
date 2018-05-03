@@ -10,13 +10,13 @@ Terminons cette série par le commencement, c’est-à-dire par les premières �
 
 <!--more-->
 
-# Intrapreneurs·euses de Startups d’État : comment les trouver ?
+## Intrapreneurs·euses de Startups d’État : comment les trouver ?
 
-## D’où vient-il·elle ?
+### D’où vient-il·elle ?
 
 L’intrapreneur vient du terrain où il a pu observer le problème qu’il cherche à résoudre sous toutes ses facettes. Il a 10 000 histoires d’usagers à raconter, parce qu’il rencontre ses usagers physiquement tous les jours depuis des années. Il ne sera pas issu de la DSI ou de la MOA, sinon ça s’appelle un projet informatique, pas une Startup d'État.
 
-## La sélection
+### La sélection
 
 Voici la méthode qui a fait ses preuves pour trouver les intrapreneurs de Startup d’État : l’appel à idée puis la journée «&#x202F;pitch&#x202F;».
 
@@ -41,7 +41,7 @@ Deuxième étape : on ramasse les copies 1 mois plus tard, puis on **sélectionn
 
 Troisème étape : pendant 1 journée les candidats vont répéter plusieurs fois leur **pitch**, devant des coachs, des externes, ou des responsables de l’administration. Un dernier passage en grande pompe devant un jury permettra de nommer le ou les vainqueurs qui se verront nommés véritablement intrapreneur de Startup d'État&#x202F;!
 
-## Le jury
+### Le jury
 
 ![Le jury de selection de l'intrapreneur](/img/posts/le-jury-selection-intrapreneur.jpg)
 
@@ -53,7 +53,7 @@ A choix innovant, jury innovant. On cherchera ainsi à diversifier les profils q
 
 A l’inverse on évitera de reprendre à l’identique les acteurs qui tiennent déjà le portefeuille des projets. Une Startup d’Etat se structurera sur des problèmes et des solutions différentes si les responsables du choix ont des expériences, des intuitions et des envies différentes.
 
-## Et le pitch ?
+### Et le pitch ?
 
 ![Pitch de l’intrapreneur](/img/posts/intrapreneur-pitch-3.jpg)
 
@@ -61,28 +61,28 @@ A l’inverse on évitera de reprendre à l’identique les acteurs qui tiennent
 
 On ne va pas demander au futur intrapreneur d’être le roi du pitch à ce stade. En revanche on s’attachera au caractéristiques suivantes dans son pitch :
 
-### Son histoire de l’irritant est convaincante
+#### Son histoire de l’irritant est convaincante
 * En tant que citoyen l’irritant fait du sens. Il s’agit d’un problème qui impacte directement l’usager du service public et pas d’une idée d’optimisation d’un processus interne de comptabilité ou de ressources humaines.
 * On sent qu’il a vécu concrètement cet irritant 1 000 fois sur le terrain. Il peut dès le lendemain tester des prototypes de sa solutions dans le monde réel (où, quand, comment).
 * On sent aussi que ce problème lui prend les tripes et que sa résolution lui donnera envie de se lever le matin avec énergie, tout le temps que durera la startup.
 
-### Sa solution est enthousiasmante
+#### Sa solution est enthousiasmante
 * Le levier du numérique proposé par l’intrapreneur est une vraie rupture dans la pensée de ce problème.
 * L’intrapreneur définit bien les grands axes de la solution mais il est souple sur les détails. On peut le tester sur ce plan par des questions sur des pivots éventuelles et voir ce qu’il retient (l’essentiel ?) ou ce à quoi il s’accroche (des détails ?).
 * Il est plus attaché à l’irritant lui-même qu’aux détails de sa solution.
 
-### Une personne à l’écoute mais tenace et convaincante
+#### Une personne à l’écoute mais tenace et convaincante
 * Il s’est déjà renseigné énormément sur ce problème. Il a déjà les réponses aux questions les plus basiques sur le sujet. Il a tenté des choses avec les outils à sa disposition, il a déjà bidouillé des débuts de solution DIY à base d’excel ou de bouts de ficelle.
 * Les retours donnés pendant la journée par des coachs ou d’autres intrapreneurs conduisent parfois à des changements de cap dans le pitch… ou au contraire à des positions réaffirmées.
 * Les questions parfois acides du jury ne vont pas le désarçonner.
 
-### Et la faisabilité dans tout ça ?
+#### Et la faisabilité dans tout ça ?
 * Lors de cette journée pitch, le jury va lancer une Startup en se fiant à ses intuitions sur la possibilité de mettre en œuvre une solution qui fonctionne en moins de 6 mois : «&#x202F;oui, nous pensons qu’une petite équipe autonome, engagée et débrouillarde, a de bonnes chances de résoudre ce problème en moins de 6 mois&#x202F;».
 * On s’oppose ici aux approches classiques qui consistent à «&#x202F;dérisquer&#x202F;» par des études profondes et des artefacts textuels et contractuels plutôt que logiciels&#x202F;! Au lieu de couvrir des armoires entières d’études d’opportunité et de spécifications détaillées la Startup va montrer dans les faits que c’est possible… ou pas.
 
 Dans les faits nos expériences montrent que les candidats à l’intraprenariat sans aucune expérience du pitch produisent des performances remarquables lors de cet exercice&#x202F;!
 
-# Et ensuite ?
+## Et ensuite ?
 
 On a trouvé l’intrapreneur, la Startup d'État **va démarrer en moins d’un mois**, le temps de le libérer de ses obligations actuelles et de trouver un ou quelques développeurs pour former l’équipe.
 
@@ -90,7 +90,7 @@ Le tout à marche forcée puisque l’intrapreneur a bien identifié un irritant
 
 Ce qui signifie bien sûr qu’on aura assuré **avant même l’appel à projet que le gagnant sera libéré de ses obligations** et que le **budget est disponible** pour recruter un ou quelques développeurs.
 
-## Conclusion
+### Conclusion
 
 Les étapes pour trouver l’intrapreneur sont finalement assez légères : un email ou un flyer, un formulaire sur l'intranet et une journée de pitch&#x202F;!
 
@@ -104,6 +104,6 @@ Mais en vérité vous l’aurez compris, les phases capitales qui se jouent disc
 * la validation de **l’autonomie de la Startup** dans son organisation, et dans ses décisions produit et technique
 * les tampons RH et direction permettant de **libérer l’intrapreneur** de ses responsabilités habituelles en moins d’un mois
 
-## Au fait, intrapreneur de Startup d'État, ça vous tente ?
+### Au fait, intrapreneur de Startup d'État, ça vous tente ?
 
 Vous êtes agent·e du public et vous vous sentez l’âme d’un intrapreneur de Startup d'État. Vous êtes convaincu·e que ce problème qui vous tord le ventre depuis toujours pourrait être attaqué par le numérique et une petite équipe autonome ? Racontez-nous ça par mail à [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr?subject=Candidature%20intrapreneur)&#x202F;!

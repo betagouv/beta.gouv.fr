@@ -11,7 +11,7 @@ repository:
 stats: false
 contact: melodie.dahi@beta.gouv.fr
 ---
-# Le contexte
+## Le contexte
 
 Pour tout projet de loi, l’examen parlementaire est une phase cruciale. Le texte est discuté, retravaillé et voté afin d’aboutir à une loi conforme aux attentes des représentants des citoyens.
 
@@ -30,7 +30,7 @@ Concrètement, le travail du coordonnateur consiste à :
 Pour chaque projet de loi, le processus se répète au minimum 4 fois : lors de la première lecture à l’Assemblée, pour la première lecture au Sénat, puis aux nouvelles lectures à l’Assemblée et au Sénat. Il peut également y avoir des amendements à traiter lors de l’examen du projet de texte par les commissions parlementaires avant chaque lecture.
 Le volume des amendements à traiter peut considérablement jouer sur la complexité et le stress que ce travail implique : s’agissant par exemple du projet de loi de financement de la sécurité sociale pour 2018 (PLFSS), il a fallu traiter 1300 amendements en 3 jours, entre le vendredi soir et le début de la séance de débat parlementaire le mardi.
 
-# La solution numérique
+## La solution numérique
 
 Ce gigantesque travail de coordination n’est aujourd’hui facilité par aucun outil suffisamment robuste et adapté, les agents réalisent de très nombreuses tâches/manipulations sans valeur ajoutée sur le fond, si bien qu’une grande marge d’optimisation existe.
 
@@ -41,7 +41,7 @@ La réussite du projet pourra être mesurée par :
 - la réduction du stress perçu par les agents impliqués (depuis le bureau métier jusqu’au ministre) ;
 - l’amélioration de la qualité au fond des réponses aux amendements.
 
-# La stratégie de mise sur le marché
+## La stratégie de mise sur le marché
 
 L’outil sera testé sur le PLFSS pour 2019. Pourquoi lui ? Le PLFSS est voté chaque année et fait l’objet d’une contrainte de délai particulièrement marquée (50 jours séparent au maximum le dépôt du projet de loi et son vote définitif par le Parlement) et d’un volume d’amendement très important.
 La loi Plan d’Action pour la Croissance et la Compétitivité des Entreprises (portée par le ministère de l’économie), ou la loi Parcours professionnel (porté par le ministère du travail) pourrait être de bonnes échéances intermédiaires de mise en oeuvre expérimentale.

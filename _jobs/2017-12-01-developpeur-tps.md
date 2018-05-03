@@ -9,7 +9,7 @@ L'équipe Téléprocédures simplifiées cherche un·e développeur·se Ruby on 
 
 <!--more-->
 
-# Téléprocédures simplifiées
+## Téléprocédures simplifiées
 
 Téléprocédures simplifiées (TPS) est un outil qui permet aux administrations de dématérialiser leurs procédures papiers. Nous faisons ainsi gagner du temps aux services instructeurs et aux usagers.
 
@@ -22,20 +22,20 @@ Nous exposons aussi une API pour permettre aux administrations de faire des trai
 
 Nous sommes une équipe de 6 personnes dont 3 devs. Nous faisons des itérations courtes. Nous rencontrons souvent les administrations qui utilisent notre produit, et nous participons au support client afin de mieux nous confronter aux problèmes rencontrés par nos utilisateurs.
 
-# Où en sommes-nous ?
+## Où en sommes-nous ?
 
 Nous avons jusqu'à présent permis la dématérialisation de plus de 600 procédures papiers, et de plus de 8 500 dossiers, mais un nombre très important de procédures reste à dématérialiser. Afin de répondre aux attentes des administrations et des usagers, nous sommes en train de refondre notre interface et d'ajouter de nombreuses fonctionnalités à notre application.
 
 Nous connaissons également en ce moment une forte croissance et devons améliorer notre codebase afin d'avoir de meilleures performances et de pouvoir développer plus rapidement de nouvelles fonctionnalités.
 
-# Stack
+## Stack
 
 - Technos : Rails 5, RSpec, un petit peu de JS
 - Tooling : GitHub, CircleCI (CI + CD), Sentry, Skylight
 - Code ouvert et libre : [https://github.com/betagouv/tps](https://github.com/betagouv/tps)
 - Bonnes pratiques : nous testons notre code, nous faisons des reviews systématiques, nous déployons souvent et par petits lots
 
-# Rôle
+## Rôle
 
 - Déveloper de nouvelles fonctionnalités
 - Implémenter la nouvelle interface graphique de l'application
@@ -43,6 +43,6 @@ Nous connaissons également en ce moment une forte croissance et devons amélior
 - Refactorer le code legacy
 - Participer à la conception de notre infrastructure technique
 
-# Postuler
+## Postuler
 
 Pour postuler, [contactez-nous par email](mailto:contact@tps.apientreprise.fr).

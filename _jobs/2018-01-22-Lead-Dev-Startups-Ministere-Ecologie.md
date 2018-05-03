@@ -8,7 +8,7 @@ Les Startups d'État du Ministère de la Transition Écologique et Solidaire che
 
 <!--more-->
 
-# Présentation
+## Présentation
 
 Vous êtes développeur full-stack, et voulez mettre vos compétences au profit de l’amélioration du service public ? Vous êtes à votre aise dans les contextes de petites équipes autonomes, agiles, et proches de leurs utilisateurs ?
 
@@ -16,7 +16,7 @@ Vous avez à cœur de rendre un service de qualité qui transforme la relation d
 
 En rejoignant une Startup d’État, vous participez à l’aventure d’une nouvelle vision de l’administration, moderne et proche de ses usagers.
 
-# Responsabilités
+## Responsabilités
 
 Vous serez en charge de construire (from scratch) le service pour les usagers. Vous participez à la conception, aux études terrain, aux tests utilisateur avec les intrapreneurs.
 
@@ -29,7 +29,7 @@ Vous êtes en mesure de jouer sur 2 tableaux :
 * La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
 * L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
 
-# Compétences
+## Compétences
 
 * Développeur web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, Rails, Symfony, Laravel, Django/Flask…).
 * Bonne maîtrise du développement front-end (HTML, CSS, Javascript).
@@ -37,7 +37,7 @@ Vous êtes en mesure de jouer sur 2 tableaux :
 * Expérience de l’écosystème technique web : test AB, analytics…
 * Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
 
-# Modalités
+## Modalités
 
 * Poste ouvert pour un·e indépendant·e pour un contrat de 6 mois.
 * Télétravail partiel bienvenu, avec une présence régulière à Paris (La Défense) pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification
