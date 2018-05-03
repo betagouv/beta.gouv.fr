@@ -1,7 +1,7 @@
 ---
-title: La bonne actualisation
-mission: Aider les demandeurs d’emploi qui cumulent emploi et chômage à être payé le bon montant d’allocation chômage chaque mois.
-owner: Pôle emploi
+title: La Bonne Actualisation
+mission: Aider les demandeurs d’emploi qui cumulent emploi et chômage à être payé le bon montant d’allocation chômage chaque mois
+owner: pole-emploi
 incubator: La Fabrique Pôle emploi
 status: construction
 start: 2018-04-01 
@@ -19,10 +19,10 @@ Une actualisation erronée ou un mauvais envoi de document peut déclencher des 
 J’actualise en étant accompagné.e 
 ========
 La Bonne Actualisation vous accompagne dans votre actualisation en prenant en compte votre situation spécifique : 
-- je suis assistante maternelle
-- je suis créateur d’entreprise
-- je travaille en intérim
-- j’ai plusieurs contrats dans un même mois...
+- vous êtes assistante maternelle 
+- vous êtes créateur d’entreprise
+- vous êtes intérimaire
+- vous avez plusieurs contrats dans un même mois
 
 
 Je suis payé.e le bon montant au bon moment 
