@@ -16,7 +16,7 @@ Pour les demandeurs d’emploi qui cumulent emploi et chômage, il n’est pas t
 Une actualisation erronée ou un mauvais envoi de document peut déclencher des paiements indus ou bloquer des paiements.
 
 
-## Vous actualisez en étant accompagné.e
+## Vous actualisez en étant accompagné·e
 
 La Bonne Actualisation vous accompagne dans votre actualisation en prenant en compte votre situation spécifique :
 - vous êtes assistante maternelle
@@ -25,7 +25,7 @@ La Bonne Actualisation vous accompagne dans votre actualisation en prenant en co
 - vous avez plusieurs contrats dans un même mois
 
 
-## Vous êtes payé.e le bon montant au bon moment
+## Vous êtes payé·e le bon montant au bon moment
 
 La Bonne Actualisation aide les demandeurs d’emploi avec plusieurs employeurs à être payé le bon montant d’allocation chômage chaque mois.
 Un tableau de bord permet de renseigner tout au long du mois son activité pour chaque employeur, La Bonne Actualisation indique ensuite ce que l’on doit déclarer et quels documents il faut fournir à Pôle Emploi.
