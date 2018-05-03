@@ -19,10 +19,12 @@ Il est chargé de quatre missions principales :
 * d'une manière générale, faire tout ce qui est nécessaire pour mieux cibler l’accompagnement des entreprises.
 
 ## Type du poste
+
 * CDD de 10 mois, à partir du 1er février 2018.
 * Poste basé à Dijon
 
 ## Compétences et expérience
+
 Il n’est pas nécessaire de disposer de diplômes, d’expérience ou de compétences techniques particulières.
 
 Le candidat doit surtout :

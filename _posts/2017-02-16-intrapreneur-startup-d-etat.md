@@ -124,6 +124,7 @@ Autre exemple, l’intrapreneuse de [Plante et moi](https://beta.gouv.fr/startup
 Ce serait dommage de ne pas valoriser cette nouvelle expertise hyper pointue, a minima par du partage au sein de son administration. Ou encore mieux avec la formalisation dans des formats ouverts de ces connaissances accumulées (wiki, publications ouvertes…).
 
 ## Conclusion
+
 Les activités de l’intrapreneur de Startup d'État sont donc extrêmement variées : de la définition du problème à la conception, en passant par le suivi de la performance de son produit et le développement « commercial ». Il arrive même que l’intrapreneur de Startup d'État soit un des principaux développeurs logiciels de sa solution !
 
 L’ambition qu’on donne à ce rôle est élevée, mais atteignable. Pour preuve les intrapreneurs qui ont enfilé avec succès le costume chez Pôle emploi, ou dans des administrations.
