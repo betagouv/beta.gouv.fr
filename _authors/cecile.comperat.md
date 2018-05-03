@@ -9,4 +9,5 @@ employer: admin/Ministère de la Culture
 startups:
     - pass-culture
 ---
+
 La culture, c'est vital !

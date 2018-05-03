@@ -11,6 +11,7 @@ repository:
 stats: false
 contact: melodie.dahi@beta.gouv.fr
 ---
+
 ## Le contexte
 
 Pour tout projet de loi, l’examen parlementaire est une phase cruciale. Le texte est discuté, retravaillé et voté afin d’aboutir à une loi conforme aux attentes des représentants des citoyens.

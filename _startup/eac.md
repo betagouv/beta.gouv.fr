@@ -11,6 +11,7 @@ repository:
 stats: false
 contact: pass@culture.gouv.fr
 ---
+
 La plateforme EAC est une application qui aide les enseignants à identifier et mettre en oeuvre des projets liés à l'éducation artistique et culturelle des élèves.
 
 La plateforme vise à :

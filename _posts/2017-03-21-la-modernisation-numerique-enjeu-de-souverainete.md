@@ -3,6 +3,7 @@ title: La modernisation numérique, un enjeu de souveraineté
 authors:
     - pierre.pezziardi
 ---
+
 Les startups d'État ne sont pas seulement de petites équipes frugales et autonomes qui développent des applications à partir des usages réels de leurs utilisateurs. Ce sont aussi des équipes qui, au fil des mois, ont développé, avec leurs partenaires, un ensemble de ressources essentielles à une stratégie visant un État qui stimule et accueille l’engagement citoyen, qui favorise et utilise l’innovation du plus grand nombre, qui garantisse les ressources accessible à tous : l’État plateforme.
 L’État plateforme, c’est l’actualisation en France d’une vision essentielle née dans les communautés numériques : le government as a platform.
 
