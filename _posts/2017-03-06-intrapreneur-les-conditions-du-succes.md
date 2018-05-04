@@ -14,33 +14,33 @@ Faisons un rapide tour des conditions de succès, qui pour certaines dépendent 
 
 ## Des conditions qui dépendent de sa structure
 
-* L’intrapreneur est sorti du bois : « je veux porter cette initiative », PUIS il a été adoubé par sa direction générale. Et non l’inverse : « tiens, on a un projet pour toi ».
+- L’intrapreneur est sorti du bois : « je veux porter cette initiative », PUIS il a été adoubé par sa direction générale. Et non l’inverse : « tiens, on a un projet pour toi ».
 
-* Elle est disponible pour son projet intraprenarial et libéré de ses autres responsabilités.
+- Elle est disponible pour son projet intraprenarial et libéré de ses autres responsabilités.
 
-* Il a carte blanche pour travailler de manière autonome avec son équipe en sortant des processus standard et des circuits de décision habituels.
+- Il a carte blanche pour travailler de manière autonome avec son équipe en sortant des processus standard et des circuits de décision habituels.
 
-* Sa direction générale a largement communiqué dans la structure sur la Startup d’État comme nouvelle façon de faire du logiciel au service du citoyen.
+- Sa direction générale a largement communiqué dans la structure sur la Startup d’État comme nouvelle façon de faire du logiciel au service du citoyen.
 
 ## Des conditions qui dépendent de l’intrapreneur·euse
 
-* Elle est opiniâtre et tenace.
+- Elle est opiniâtre et tenace.
 
-* Il est pragmatique et sait discerner l’essentiel de l’accessoire.
+- Il est pragmatique et sait discerner l’essentiel de l’accessoire.
 
-* Elle connaît parfaitement le terrain de son administration pour l’avoir pratiqué plusieurs années.
+- Elle connaît parfaitement le terrain de son administration pour l’avoir pratiqué plusieurs années.
 
-* Il a une vraie empathie avec les usagers de son administration ou de son service public et peut raconter 1 000 histoires vécues sur le terrain.
+- Il a une vraie empathie avec les usagers de son administration ou de son service public et peut raconter 1 000 histoires vécues sur le terrain.
 
-* Elle sait sortir des circuits établis de son administration lorsque nécessaire.
+- Elle sait sortir des circuits établis de son administration lorsque nécessaire.
 
-* Il embrasse plus qu’il ne rejette les oppositions et l’incertitude.
+- Il embrasse plus qu’il ne rejette les oppositions et l’incertitude.
 
-* Elle est curieuse, aime apprendre.
+- Elle est curieuse, aime apprendre.
 
-* Il sait se remettre en question.
+- Il sait se remettre en question.
 
-* C’est une empêcheuse de tourner en rond, mais avec le sourire.
+- C’est une empêcheuse de tourner en rond, mais avec le sourire.
 
 ## Conclusion
 

@@ -3,6 +3,7 @@ title: Beyond Digital Bullshit, ou comment rater son Hackathon ?
 authors:
   - laurent.bossavit
 ---
+
 Il y a quelques semaines nous [avions exploré](https://beta.gouv.fr/2017/03/24/no-more-digital-bullshit-please.html) les effets dévastateurs sur l'innovation du « digital bullshit » : la tendance à rouler des mécaniques en insistant sur les moyens mis en oeuvre plutôt que sur les finalités recherchées — et trop rarement atteintes.
 
 Remettons le couvert aujourd'hui en parlant du phénomène des Hackathons : découvrez nos meilleures recettes pour rater le vôtre le plus complètement possible.

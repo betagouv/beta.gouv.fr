@@ -14,7 +14,7 @@ Objectif pour juin 2018 : une première vague de milliers de familles passeront 
 
 <!--more-->
 
-# Conditions
+## Conditions
 
 - Poste ouvert pour un·e indépendant·e, mission de 6 mois
 - Télétravail partiel possible, 3 jours de présence par semaine à Paris
