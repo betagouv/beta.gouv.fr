@@ -1,5 +1,5 @@
 ---
-fullname: Gabrielle Legeret
+fullname: Gabrielle Légeret
 role: Business dévelopeuse
 avatar: /img/authors/gabrielle.legeret.jpg
 start: 2018-05-09
