@@ -1,14 +1,12 @@
 ---
-fullname: Richard Violet # penser à modifier le nom du fichier ci-dessus !
+fullname: Richard Violet
 role:  Intrapreneur
-# ci-dessous, remplace betagouv-bot par ton propre pseudo pour utiliser la photo de ton profil Github
-# tu peux aussi fournir l'URL (HTTPS obligatoire) d'une image carrée 512x512 minimum
 avatar: https://avatars3.githubusercontent.com/RitchyP?s=600
-link: # optionnel : lien vers une page perso externe. Effacer ce commentaire si rien à mettre.
-github: nom_utilisateur # optionnel : nom d'utilisateur GitHub, permet d'être ajouté automatiquement à l'organisation GitHub betagouv
-start: 2018-03-01 # date d'arrivée au format ISO (AAAA-MM-JJ)
-employer: admin/Ministère de l'Intérieur # dinsic ou independent/<employer> ou admin/<employer> ou service/octo
+link:
+github: nom_utilisateur
+start: 2018-03-01
+employer: admin/Ministère de l'Intérieur
 startups:
-    - histovec # le nom du fichier de la startup dans le répertoire /_startup/ sans l'extension .md
+    - histovec
 ---
 Motard dans l’âme et service rendu au public avant tout.
