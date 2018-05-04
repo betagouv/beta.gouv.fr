@@ -32,10 +32,10 @@ Cet appel à candidature pourra ressembler à ça :
 > Dans ce cas, déposez votre idée sur l’intranet à l’adresse http://monadministration.fr/appel-intrapreneur, vous serez peut-être sélectionné pour défendre votre projet devant un jury le xxx à 9h&#x202F;!
 
 La page de dépot d’idée sur l'intranet propose un simple formulaire qui permet à l’agent de décrire son projet avec :
-* le nom du projet
-* l’irritant ou le problème auquel il veut s’attaquer
-* les grands axes de sa solution
-* une description du monde tel qu’il sera après la mise en place de la solution
+- le nom du projet
+- l’irritant ou le problème auquel il veut s’attaquer
+- les grands axes de sa solution
+- une description du monde tel qu’il sera après la mise en place de la solution
 
 Deuxième étape : on ramasse les copies 1 mois plus tard, puis on **sélectionne et invite les 10 à 20 participants** les plus prometteurs pour une journée de «&#x202F;pitch&#x202F;».
 
@@ -63,26 +63,26 @@ On ne va pas demander au futur intrapreneur d’être le roi du pitch à ce stad
 
 #### Son histoire de l’irritant est convaincante
 
-* En tant que citoyen l’irritant fait du sens. Il s’agit d’un problème qui impacte directement l’usager du service public et pas d’une idée d’optimisation d’un processus interne de comptabilité ou de ressources humaines.
-* On sent qu’il a vécu concrètement cet irritant 1 000 fois sur le terrain. Il peut dès le lendemain tester des prototypes de sa solutions dans le monde réel (où, quand, comment).
-* On sent aussi que ce problème lui prend les tripes et que sa résolution lui donnera envie de se lever le matin avec énergie, tout le temps que durera la startup.
+- En tant que citoyen l’irritant fait du sens. Il s’agit d’un problème qui impacte directement l’usager du service public et pas d’une idée d’optimisation d’un processus interne de comptabilité ou de ressources humaines.
+- On sent qu’il a vécu concrètement cet irritant 1 000 fois sur le terrain. Il peut dès le lendemain tester des prototypes de sa solutions dans le monde réel (où, quand, comment).
+- On sent aussi que ce problème lui prend les tripes et que sa résolution lui donnera envie de se lever le matin avec énergie, tout le temps que durera la startup.
 
 #### Sa solution est enthousiasmante
 
-* Le levier du numérique proposé par l’intrapreneur est une vraie rupture dans la pensée de ce problème.
-* L’intrapreneur définit bien les grands axes de la solution mais il est souple sur les détails. On peut le tester sur ce plan par des questions sur des pivots éventuelles et voir ce qu’il retient (l’essentiel ?) ou ce à quoi il s’accroche (des détails ?).
-* Il est plus attaché à l’irritant lui-même qu’aux détails de sa solution.
+- Le levier du numérique proposé par l’intrapreneur est une vraie rupture dans la pensée de ce problème.
+- L’intrapreneur définit bien les grands axes de la solution mais il est souple sur les détails. On peut le tester sur ce plan par des questions sur des pivots éventuelles et voir ce qu’il retient (l’essentiel ?) ou ce à quoi il s’accroche (des détails ?).
+- Il est plus attaché à l’irritant lui-même qu’aux détails de sa solution.
 
 #### Une personne à l’écoute mais tenace et convaincante
 
-* Il s’est déjà renseigné énormément sur ce problème. Il a déjà les réponses aux questions les plus basiques sur le sujet. Il a tenté des choses avec les outils à sa disposition, il a déjà bidouillé des débuts de solution DIY à base d’excel ou de bouts de ficelle.
-* Les retours donnés pendant la journée par des coachs ou d’autres intrapreneurs conduisent parfois à des changements de cap dans le pitch… ou au contraire à des positions réaffirmées.
-* Les questions parfois acides du jury ne vont pas le désarçonner.
+- Il s’est déjà renseigné énormément sur ce problème. Il a déjà les réponses aux questions les plus basiques sur le sujet. Il a tenté des choses avec les outils à sa disposition, il a déjà bidouillé des débuts de solution DIY à base d’excel ou de bouts de ficelle.
+- Les retours donnés pendant la journée par des coachs ou d’autres intrapreneurs conduisent parfois à des changements de cap dans le pitch… ou au contraire à des positions réaffirmées.
+- Les questions parfois acides du jury ne vont pas le désarçonner.
 
 #### Et la faisabilité dans tout ça ?
 
-* Lors de cette journée pitch, le jury va lancer une Startup en se fiant à ses intuitions sur la possibilité de mettre en œuvre une solution qui fonctionne en moins de 6 mois : «&#x202F;oui, nous pensons qu’une petite équipe autonome, engagée et débrouillarde, a de bonnes chances de résoudre ce problème en moins de 6 mois&#x202F;».
-* On s’oppose ici aux approches classiques qui consistent à «&#x202F;dérisquer&#x202F;» par des études profondes et des artefacts textuels et contractuels plutôt que logiciels&#x202F;! Au lieu de couvrir des armoires entières d’études d’opportunité et de spécifications détaillées la Startup va montrer dans les faits que c’est possible… ou pas.
+- Lors de cette journée pitch, le jury va lancer une Startup en se fiant à ses intuitions sur la possibilité de mettre en œuvre une solution qui fonctionne en moins de 6 mois : «&#x202F;oui, nous pensons qu’une petite équipe autonome, engagée et débrouillarde, a de bonnes chances de résoudre ce problème en moins de 6 mois&#x202F;».
+- On s’oppose ici aux approches classiques qui consistent à «&#x202F;dérisquer&#x202F;» par des études profondes et des artefacts textuels et contractuels plutôt que logiciels&#x202F;! Au lieu de couvrir des armoires entières d’études d’opportunité et de spécifications détaillées la Startup va montrer dans les faits que c’est possible… ou pas.
 
 Dans les faits nos expériences montrent que les candidats à l’intraprenariat sans aucune expérience du pitch produisent des performances remarquables lors de cet exercice&#x202F;!
 
@@ -104,9 +104,9 @@ Avant même son lancement effectif, la Startup montre déjà que le temps est un
 
 Mais en vérité vous l’aurez compris, les phases capitales qui se jouent discrètement avant la sélection de l’intrapreneur sont :
 
-* l’obtention d'un **sponsor de niveau direction générale ou cabinet**
-* la validation de **l’autonomie de la Startup** dans son organisation, et dans ses décisions produit et technique
-* les tampons RH et direction permettant de **libérer l’intrapreneur** de ses responsabilités habituelles en moins d’un mois
+- l’obtention d'un **sponsor de niveau direction générale ou cabinet**
+- la validation de **l’autonomie de la Startup** dans son organisation, et dans ses décisions produit et technique
+- les tampons RH et direction permettant de **libérer l’intrapreneur** de ses responsabilités habituelles en moins d’un mois
 
 ### Au fait, intrapreneur de Startup d'État, ça vous tente ?
 

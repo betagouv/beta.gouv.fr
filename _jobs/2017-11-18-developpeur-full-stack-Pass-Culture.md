@@ -18,15 +18,15 @@ Vous serez en charge de construire (from scratch) le produit / service pour les 
 
 ## Compétences et expérience
 
-* Vous maitrisez un framework web du marché et êtes à l'aise avec son écosystème.
-* Vous avez déjà participé et contribué à des outils open source.
-* Vous avez à cœur de rendre un service de qualité et avez toujours en tête l'utilisateur final lorsque vous travaillez.
-* Plus : vous avez une expérience du développement responsive en environnement mobile, vous avez une expérience dans les infrastructures de paiement SEPA/CB
+- Vous maitrisez un framework web du marché et êtes à l'aise avec son écosystème.
+- Vous avez déjà participé et contribué à des outils open source.
+- Vous avez à cœur de rendre un service de qualité et avez toujours en tête l'utilisateur final lorsque vous travaillez.
+- Plus : vous avez une expérience du développement responsive en environnement mobile, vous avez une expérience dans les infrastructures de paiement SEPA/CB
 
 ## Modalités
 
-* Poste ouvert pour un·e indépendant·e (en portage)
-* Temps partiel accepté (80% minimum)
-* Télétravail partiel bienvenu.
+- Poste ouvert pour un·e indépendant·e (en portage)
+- Temps partiel accepté (80% minimum)
+- Télétravail partiel bienvenu.
 
 Pour postuler, écrivez-nous à l'adresse [`recrutement@beta.gouv.fr`](mailto:recrutement@beta.gouv.fr) avec votre LinkedIn / CV et votre compte GitHub.

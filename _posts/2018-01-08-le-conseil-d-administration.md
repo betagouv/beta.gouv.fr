@@ -20,9 +20,9 @@ Dans le contexte de Pôle emploi, ce Conseil d'Administration prend la forme d'u
 C'est face à ces objectifs que le Conseil décide de poursuivre l'investissement, de l'accélerer ou de l'arrêter : il n'y a pas de dépense d'argent public qui ne soit justifiée par une contribution à une politique publique. Par exemple, [si l'on dépense encore 1 €/an dans laBonneBoite, c'est que l'on en gagne 60 €/an en mois de chômage évités](http://www.fondapol.org/wp-content/uploads/2017/01/096-PEZZIARDI_2016-12-22-web.pdf).
 
 Très concrètement, ce rendez-vous n'est pas vécu comme un reporting de plus qui s'accumulerait sur les épaules de l'intrapreneur, mais au contraire comme une __discussion permanente sur les résultats passés, les objectifs futurs et les moyens nécessaires à la réussite__. Pour le préparer, nous jouons cette discussion tous les 15 jours, oui une douzaine de fois, encore et encore, comme un jeu maïeutique qui nous ré-interroge sur :
-* résultats passés : quel est mon impact réel ? ma mesure actuelle est-elle adaptée ? peut-on l'améliorer voire la changer ?
-* objectifs futurs : si je propose cette roadmap, ne vont-ils pas me dire qu'il y a mieux à faire pour augmenter l'impact ?
-* moyens : dois-je demander des ressources supplémentaires pour amplifier mon impact ou pas ? si oui, puis-je justifier l'effet de levier ? i.e. 1 € supplémentaire dépensé se traduit par plus de 1 € d'impact supplémentaire ?
+- résultats passés : quel est mon impact réel ? ma mesure actuelle est-elle adaptée ? peut-on l'améliorer voire la changer ?
+- objectifs futurs : si je propose cette roadmap, ne vont-ils pas me dire qu'il y a mieux à faire pour augmenter l'impact ?
+- moyens : dois-je demander des ressources supplémentaires pour amplifier mon impact ou pas ? si oui, puis-je justifier l'effet de levier ? i.e. 1 € supplémentaire dépensé se traduit par plus de 1 € d'impact supplémentaire ?
 
 Après une année, nous avons décidé d'en faire un rituel établi, dans la droite ligne de [l'Art du Pitch](https://guykawasaki.com/the-art-of-the-pitch/) de Guy Kawasaky. Songez-y, la capacité à pitcher est l'un des talents principaux de l'intrapreneur, car il passe sa vie à convaincre ses sponsors, mais aussi et surtout ses partenaires et ses clients !
 
@@ -45,9 +45,9 @@ Mais à un moment donné, les problèmes des sponsors deviennent les problèmes 
 La plupart des Startups d'État sont des initiatives "bottom-up" qui n'ont pas bénéficié d'une phase de consensus en amont et réuni autour d'elle un tour de table de sponsors. Alors si tel est votre cas, si vous vous interrogez sur l'intérêt à poursuivre l'investissement dans votre produit ou si vous souffrez d'un manque de soutien politique, c'est peut-être le moment de réunir autour de vous un second cercle formé de __dirigeants__ (secrétaires généraux, directeurs.ices d'administration centrale, directeurs.ices généraux des services…), de __personnalités qualifiées__ (dirigeants d'association dont l'objet social est aligné avec celui de la startup…), ou encore de __personnalités politiques__ (élus nationaux ou locaux, membres de cabinets…) que vous aimeriez revoir tous les 6 mois.
 
 Un Conseil, ou plutôt :
-* un rendez-vous régulier,
-* devant des sponsors bienveillants,
-* capables d'inspirer l'équipe d'un point de vue stratégique et de résoudre des problèmes politiques.
+- un rendez-vous régulier,
+- devant des sponsors bienveillants,
+- capables d'inspirer l'équipe d'un point de vue stratégique et de résoudre des problèmes politiques.
 
 Et bien sûr, ce n'est pas son rôle que de définir les fonctionnalités à produire ou de vérifier la feuille de route précise d'un projet. Bref, un Conseil ne micro-manage pas l'activité des startups.
 

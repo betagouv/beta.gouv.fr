@@ -41,9 +41,9 @@ Il vient d'y avoir une mise en production, alors ça doit venir de là…
 Parmi des dizaines et des dizaines de lignes de message d'erreur, trois d'entre
 elles attirent mon attention :
 
-*   "`Célibataire` is not a valid enum value for path `statut_marital`."
-*   "`{VALUE}` is not a valid enum value for path `{PATH}`."
-*   "`Célibataire` is not a valid enum value for path `statut_marital`."
+-   "`Célibataire` is not a valid enum value for path `statut_marital`."
+-   "`{VALUE}` is not a valid enum value for path `{PATH}`."
+-   "`Célibataire` is not a valid enum value for path `statut_marital`."
 Oui, la troisième erreur est bien la même que la première.
 Je ne comprends pas le VALUE entre accolades de la deuxième erreur. Le signe
 d'une valeur mal remplacée ? Comme je ne vois pas comment creuser, je laisse
@@ -55,7 +55,7 @@ Il va avoir un réveil difficile demain. Alors je m'y remets.
 
 Comme il y a deux fois le même message d'erreur, je me concentre dessus :
 
-*   "`Célibataire` is not a valid enum value for path `statut_marital`."
+-   "`Célibataire` is not a valid enum value for path `statut_marital`."
 
 J'imagine que `Célibataire` n'est pas une valeur correcte,
 mais quelles sont les valeurs possibles pour `statut_marital` ?

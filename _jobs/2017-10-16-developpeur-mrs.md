@@ -18,14 +18,14 @@ Vous serez en charge de construire (from scratch) le produit / service pour les 
 
 ## Compétences et expérience
 
-* Vous maitrisez un framework web du marché et êtes à l'aise avec son écosystème.
-* Vous avez déjà participé et contribué à des outils open source.
-* Vous avez à cœur de rendre un service de qualité et avez toujours en tête l'utilisateur final lorsque vous travaillez.
+- Vous maitrisez un framework web du marché et êtes à l'aise avec son écosystème.
+- Vous avez déjà participé et contribué à des outils open source.
+- Vous avez à cœur de rendre un service de qualité et avez toujours en tête l'utilisateur final lorsque vous travaillez.
 
 ## Modalités
 
-* Poste ouvert pour un·e indépendant·e (en portage)
-* Temps partiel accepté (80% minimum)
-* Télétravail partiel bienvenu, avec quelques jours à Toulouse pour retrouver toute l'équipe.
+- Poste ouvert pour un·e indépendant·e (en portage)
+- Temps partiel accepté (80% minimum)
+- Télétravail partiel bienvenu, avec quelques jours à Toulouse pour retrouver toute l'équipe.
 
 Pour postuler, écrivez-nous à l'adresse [`recrutement@beta.gouv.fr`](mailto:recrutement@beta.gouv.fr) avec votre LinkedIn / CV et votre compte GitHub.

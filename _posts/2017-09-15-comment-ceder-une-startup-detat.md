@@ -25,9 +25,9 @@ Accueillir une équipe travaillant autrement est donc une opportunité unique d�
 
 Les bénéfices sont triples :
 
-* continuer à enrichir le produit sans perturber l'organisation intégrée qui a lui a donné vie ;
-* enrichir l’offre de service de la DSI et de la MOA, en proposant un nouveau guichet à ses usagers finaux : l’offre agile ;
-* permettre à d’autres équipes existantes d’envisager de basculer [dans ce mode](https://beta.gouv.fr/2016/11/28/equipes-autonomes.html) si elles le souhaitent : la présence d’une première équipe agile permet de lever les barrières au changement et d’aider les informaticiens volontaires à faire le pas.
+- continuer à enrichir le produit sans perturber l'organisation intégrée qui a lui a donné vie ;
+- enrichir l’offre de service de la DSI et de la MOA, en proposant un nouveau guichet à ses usagers finaux : l’offre agile ;
+- permettre à d’autres équipes existantes d’envisager de basculer [dans ce mode](https://beta.gouv.fr/2016/11/28/equipes-autonomes.html) si elles le souhaitent : la présence d’une première équipe agile permet de lever les barrières au changement et d’aider les informaticiens volontaires à faire le pas.
 
 ## Une passation en douceur
 
@@ -37,8 +37,8 @@ L’incubateur accueille ces personnes pour 3 à 9 mois de travail en binôme av
 Lors de ce passage, nous encourageons les membres de l’équipe historique qui souhaiteraient accompagner le service dans la durée à rejoindre cette nouvelle organisation.
 
 Autour de ce principe général, se brossent des portraits de cessions assez variés selon les contextes :
-* **satellisé** : [PIX](https://pix.beta.gouv.fr/) est devenu un Groupement d'Intérêt Public (GIP), totalement autonome de son ministère de tutelle. Pourquoi ? Car son activité est indépendante du reste de l'Education Nationale, et n'avait pas d'intérêt à y fusionner.
-* **inter-ministériel** : quelle administration peut porter un système dédié au décloisonnement de *toutes* les administrations ? Aucune n'a cette mission ! Alors il a fallu la créer : [api.gouv.fr](https://api.gouv.fr), une mission de la Direction Interministérielle des Systèmes d'Information et de Communication de l'État (DINSIC) qui industrialise par exemple [API Entreprise](https://api.gouv.fr/api/api-entreprise.html), pour éviter chaque mois aux entreprises la production de 1,3 millions de pièces justificatives.
-* **internalisé DSI** : à Pôle emploi, le produit [MEMO](https://memo.pole-emploi.fr/) est arrivé à [maturité](https://memo.pole-emploi.fr/stats) après un an. Mieux, son mariage avec le site institutionnel est en cours : chaque annonce sur Pôle emploi.fr disposera bientôt d’un bouton « Enregistrer dans MEMO », qui permettra au demandeur d'emploi de mieux gérer son portefeuille d'actions en cours, un problème récurrent lors de la recherche d'emploi. Cette plus grande proximité, qui lie notamment la disponibilité du service MEMO à celle de [Pole-emploi.fr](http://www.pole-emploi.fr/accueil/) va contribuer à rapprocher les équipes…
+- **satellisé** : [PIX](https://pix.beta.gouv.fr/) est devenu un Groupement d'Intérêt Public (GIP), totalement autonome de son ministère de tutelle. Pourquoi ? Car son activité est indépendante du reste de l'Education Nationale, et n'avait pas d'intérêt à y fusionner.
+- **inter-ministériel** : quelle administration peut porter un système dédié au décloisonnement de *toutes* les administrations ? Aucune n'a cette mission ! Alors il a fallu la créer : [api.gouv.fr](https://api.gouv.fr), une mission de la Direction Interministérielle des Systèmes d'Information et de Communication de l'État (DINSIC) qui industrialise par exemple [API Entreprise](https://api.gouv.fr/api/api-entreprise.html), pour éviter chaque mois aux entreprises la production de 1,3 millions de pièces justificatives.
+- **internalisé DSI** : à Pôle emploi, le produit [MEMO](https://memo.pole-emploi.fr/) est arrivé à [maturité](https://memo.pole-emploi.fr/stats) après un an. Mieux, son mariage avec le site institutionnel est en cours : chaque annonce sur Pôle emploi.fr disposera bientôt d’un bouton « Enregistrer dans MEMO », qui permettra au demandeur d'emploi de mieux gérer son portefeuille d'actions en cours, un problème récurrent lors de la recherche d'emploi. Cette plus grande proximité, qui lie notamment la disponibilité du service MEMO à celle de [Pole-emploi.fr](http://www.pole-emploi.fr/accueil/) va contribuer à rapprocher les équipes…
 
 Et vous ? ;)

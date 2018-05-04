@@ -23,9 +23,9 @@ Et pour un candidat, il faut en moyenne 30 minutes et pas moins de 10 étapes po
 
 [Maintenant!](http://maintenant.pole-emploi.fr) c’est :
 
-* recruter des gens, pas des CV ;
-* en quelques clics sur tablette, mobile ou ordinateur ;
-* pour hier !
+- recruter des gens, pas des CV ;
+- en quelques clics sur tablette, mobile ou ordinateur ;
+- pour hier !
 
 ## Comment ça marche ?
 

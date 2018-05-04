@@ -25,16 +25,16 @@ Intégré.e à l’équipe technique, vous participerez au développement d’Op
 
 ## Compétences
 
-* Développement web en Python,
-* Vous aimez écrire du code de qualité, solide, testé et facile à relire,
-* Sens analytique, état d'esprit positif, capacités d'adaptation et de réaction, esprit d'initiative et pragmatisme.
+- Développement web en Python,
+- Vous aimez écrire du code de qualité, solide, testé et facile à relire,
+- Sens analytique, état d'esprit positif, capacités d'adaptation et de réaction, esprit d'initiative et pragmatisme.
 
 ## Contrat
 
-* CDI
-* Salaire : 45-55k€
-* Poste basé à Paris, télétravail possible avec présence nécessaire plusieurs jours par semaine.
-* Déplacements à prévoir à l’étranger.
+- CDI
+- Salaire : 45-55k€
+- Poste basé à Paris, télétravail possible avec présence nécessaire plusieurs jours par semaine.
+- Déplacements à prévoir à l’étranger.
 
 ## Mots clés
 

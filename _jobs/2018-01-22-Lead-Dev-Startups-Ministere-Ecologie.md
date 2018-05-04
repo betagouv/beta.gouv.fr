@@ -26,23 +26,23 @@ Vous êtes entièrement en charge des développements de l’administration syst
 
 Vous êtes en mesure de jouer sur 2 tableaux :
 
-* La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
-* L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
+- La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
+- L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
 
 ## Compétences
 
-* Développeur web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, Rails, Symfony, Laravel, Django/Flask…).
-* Bonne maîtrise du développement front-end (HTML, CSS, Javascript).
-* Expérience en conception orientée utilisateur et en expérience utilisateur.
-* Expérience de l’écosystème technique web : test AB, analytics…
-* Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
+- Développeur web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, Rails, Symfony, Laravel, Django/Flask…).
+- Bonne maîtrise du développement front-end (HTML, CSS, Javascript).
+- Expérience en conception orientée utilisateur et en expérience utilisateur.
+- Expérience de l’écosystème technique web : test AB, analytics…
+- Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
 
 ## Modalités
 
-* Poste ouvert pour un·e indépendant·e pour un contrat de 6 mois.
-* Télétravail partiel bienvenu, avec une présence régulière à Paris (La Défense) pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification
-* Temps partiel accepté (80 % minimum).
-* Démarrage en février
+- Poste ouvert pour un·e indépendant·e pour un contrat de 6 mois.
+- Télétravail partiel bienvenu, avec une présence régulière à Paris (La Défense) pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification
+- Temps partiel accepté (80 % minimum).
+- Démarrage en février
 
 Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à [recrutement.mineco@beta.gouv.fr](mailto:recrutement.mineco@beta.gouv.fr).
 

@@ -42,11 +42,11 @@ Volet suivant des responsabilités de l’intrapreneur : concevoir la solution. 
 
 Sauf que l’intrapreneur de Startup d'État n’en reste pas au stade du cahier des charges qui reproduirait à l’identique les façons de faire de son administration. Il s’empare des pratiques des meilleurs acteurs du numérique :
 
-* Il **teste** chaque semaine ses idées avec des vrais usagers avant de lancer des développements.
-* Il cherche autant à **résoudre des inconnues** qu’à construire du logiciel.
-* Il **révise ses plans** en permanence en fonction de ce qu’il vient d’apprendre.
-* Il recueille chaque jour des **retours utilisateurs** et permet à son équipe de livrer une nouvelle version de la solution toutes les semaines, voire tous les jours.
-* Il **écoute activement** les idées qui lui viennent des acteurs qui l’entourent, développeurs, partenaires, utilisateurs.
+- Il **teste** chaque semaine ses idées avec des vrais usagers avant de lancer des développements.
+- Il cherche autant à **résoudre des inconnues** qu’à construire du logiciel.
+- Il **révise ses plans** en permanence en fonction de ce qu’il vient d’apprendre.
+- Il recueille chaque jour des **retours utilisateurs** et permet à son équipe de livrer une nouvelle version de la solution toutes les semaines, voire tous les jours.
+- Il **écoute activement** les idées qui lui viennent des acteurs qui l’entourent, développeurs, partenaires, utilisateurs.
 
 Vous l’avez compris, l’intrapreneur ne se contente pas de générer de nouvelles idées. Des idées j’en ai eu 15 cette nuit, ça ne fait pas de moi un intrapreneur ! Il valide leur pertinence dans le réel le plus vite possible et porte jusqu’au bout leur mise en musique dans du logiciel.
 
@@ -103,11 +103,11 @@ Comme Paul Graham le dit des startups privées, une Startup d'État a [vocation 
 
 L’intrapreneur a la charge d’identifier puis de développer de nouveaux axes de croissance :
 
-* L’axe de croissance le plus classique avec un **déploiement géographique progressif** d’une solution d’abord validée localement. Par exemple, je passe de la Bourgogne uniquement à toutes les régions de France.
+- L’axe de croissance le plus classique avec un **déploiement géographique progressif** d’une solution d’abord validée localement. Par exemple, je passe de la Bourgogne uniquement à toutes les régions de France.
 
-* Une **déclinaison sur d’autres profils utilisateurs**. Par exemple je traite le financement des formations des salariés après avoir traité avec succès le financement des formations des demandeurs d’emploi.
+- Une **déclinaison sur d’autres profils utilisateurs**. Par exemple je traite le financement des formations des salariés après avoir traité avec succès le financement des formations des demandeurs d’emploi.
 
-* **Résoudre un problème connexe**. Par exemple la mise en place des Marchés Publics Simplifiés a mis le doigt sur le besoin d’échanges sécurisés des données sur les entreprises entre les administrations qui cherchent à rendre réel le « dites-le nous une fois ».
+- **Résoudre un problème connexe**. Par exemple la mise en place des Marchés Publics Simplifiés a mis le doigt sur le besoin d’échanges sécurisés des données sur les entreprises entre les administrations qui cherchent à rendre réel le « dites-le nous une fois ».
 
 Dans le cadre de cette croissance, la cristallisation autour de nouvelles **API** permettra d’aller chercher de nouveaux usages portés par des partenaires, bien au delà du site web initial.
 

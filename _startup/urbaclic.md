@@ -22,10 +22,10 @@ Pour délivrer les permis de construire, les collectivités doivent consulter de
 
 Il s'agit en particulier :
 
-* du [plan local d'urbanisme](https://fr.wikipedia.org/wiki/Plan_local_d%27urbanisme) ;
-* des [servitudes d'utilité publique](https://fr.wikipedia.org/wiki/Servitude_d%27utilit%C3%A9_publique) ;
-* du [cadastre](https://fr.wikipedia.org/wiki/Cadastre) ;
-* les cartes des zones à risque.
+- du [plan local d'urbanisme](https://fr.wikipedia.org/wiki/Plan_local_d%27urbanisme) ;
+- des [servitudes d'utilité publique](https://fr.wikipedia.org/wiki/Servitude_d%27utilit%C3%A9_publique) ;
+- du [cadastre](https://fr.wikipedia.org/wiki/Cadastre) ;
+- les cartes des zones à risque.
 
 L'obtention, la consultation et l'analyse de ces informations est souvent complexe et chronophage. Il est d'ailleurs très difficile de consolider les différentes données et de les maintenir à jour.
 
@@ -40,19 +40,19 @@ Les règles d'urbanisme ainsi que toute information complémentaire pertinente l
 
 Selon le type de données et le niveau d'équipement de l'acteur qui les produit, la collecte sera réalisée :
 
-* manuellement auprès des agents des collectivités et des services de l'État ;
-* via la plateforme régionale [PICTO Occitanie](http://www.picto-occitanie.fr/) ;
-* via la plateforme nationale [GeoIDE](http://catalogue.geo-ide.developpement-durable.gouv.fr/) ;
-* ou via le [GéoPortail de l'Urbanisme](https://www.geoportail-urbanisme.gouv.fr/).
+- manuellement auprès des agents des collectivités et des services de l'État ;
+- via la plateforme régionale [PICTO Occitanie](http://www.picto-occitanie.fr/) ;
+- via la plateforme nationale [GeoIDE](http://catalogue.geo-ide.developpement-durable.gouv.fr/) ;
+- ou via le [GéoPortail de l'Urbanisme](https://www.geoportail-urbanisme.gouv.fr/).
 
 L'appui de la Préfecture de Région est essentiel durant cette phase, c'est pourquoi les efforts seront concentrés sur la région Occitanie.
 
 L'outil prendra aussi appui sur :
 
-* la [Base Adresse Nationale](https://beta.gouv.fr/startup/ban.html) ;
-* le [cadastre](https://cadastre.data.gouv.fr) ;
-* l'[API Géo](https://beta.gouv.fr/startup/api-geo.html) ;
-* la plateforme [geo.data.gouv.fr](https://beta.gouv.fr/startup/geo.data.gouv.fr.html)
+- la [Base Adresse Nationale](https://beta.gouv.fr/startup/ban.html) ;
+- le [cadastre](https://cadastre.data.gouv.fr) ;
+- l'[API Géo](https://beta.gouv.fr/startup/api-geo.html) ;
+- la plateforme [geo.data.gouv.fr](https://beta.gouv.fr/startup/geo.data.gouv.fr.html)
 
 La construction d'__Urbaclic__ permettra de consolider l'[API Géo](https://beta.gouv.fr/startup/api-geo.html), en l'enrichissant notamment sur les thématiques __Risques__ et __Urbanisme__.
 
