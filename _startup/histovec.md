@@ -1,15 +1,15 @@
 ---
-title: HistoVec # une majuscule et pas d'acronymes
-mission: Acheter un véhicule d'occasion en confiance en connaissant son hitorique # infinitif, pas de point ; compléter la phrase « En investissant dans ce produit l'État cherche à… »
-owner: Ministère de l'Intérieur # Administration porteuse
-incubator:  # le nom du fichier de l'incubateur de la startup
-status: investigation # les phases possibles sont définies dans [`_config.yml`](https://github.com/betagouv/beta.gouv.fr/blob/master/_config.yml#L29-L52)
-start: 2018-03-01 # date au format ISO (AAAA-MM-DD)
-end: # laisser vide
+title: HistoVec
+mission: Acheter un véhicule d'occasion en confiance en connaissant son historique
+owner: Ministère de l'Intérieur
+incubator: dinsic
+status: investigation
+start: 2018-03-01
+end:
 link: 
-repository: https://github.com/histovec # ou page de description des dépôts s'il y en a plusieurs
+repository: https://github.com/histovec
 stats: false
-contact: richard.violet@interieur.gouv.fr  # sera visible de tous
+contact: richard.violet@interieur.gouv.fr
 ---
 
 ## Le scandale des arnaques aux véhicules d'occasion
