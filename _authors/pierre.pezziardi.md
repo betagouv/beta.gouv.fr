@@ -8,18 +8,20 @@ employer: independent/octo
 startups:
     - aplus
     - psi
-    - 'signaux-faibles'
+    - signaux-faibles
     - transport
-    - 'le-taxi'
+    - le-taxi
     - maintenant
     - mps
     - pass-culture
     - pix
-    - 'api-entreprise'
-    - 'api-particulier'
+    - api-entreprise
+    - api-particulier
     - ban
-    - 'data.gouv.fr'
-    - 'fiches-de-banc':
+    - eac
+    - pop
+    - data.gouv.fr
+    - fiches-de-banc:
         inactive
 ---
 

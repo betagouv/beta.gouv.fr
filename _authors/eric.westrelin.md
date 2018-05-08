@@ -8,4 +8,5 @@ employer: independent/Sogilis Lyon
 startups:
     - eac
 ---
+
 Développeur Java/JS, mais pas que.

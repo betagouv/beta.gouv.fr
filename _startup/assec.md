@@ -1,12 +1,12 @@
 ---
-title: Assec
+title: ASSEC
 mission: Optimiser la réponse collective du monde agricole et des services de l'État au problème de pénurie d'eau en période de sécheresse
 owner: Ministère de la Cohésion des Territoires / Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: investigation
+status: construction
 start: 2017-12-31
 end:
-link:
+link: http://assec.beta.gouv.fr/
 repository:
 stats: false
 contact: michel.perrel@beta.gouv.fr
@@ -14,21 +14,20 @@ contact: michel.perrel@beta.gouv.fr
 
 ## Le problème de la gestion de la sécheresse
 
-Lors d’un épisode de sécheresse, les ressources en eau baissent jusqu’à ne plus satisfaire tous les besoins des particuliers, industriels et irrigants (agriculteurs pratiquant l'irrigation de leurs cultures). L’État impose alors des restrictions pour partager l’eau entre usagers. En 2017, plus de la moitié du territoire national a été concernée. Ce phénomène gagne en ampleur avec le changement climatique.
-La population méconnaît ou comprend mal ces restrictions, donc les respecte peu. Les irrigants sont mieux avertis et impliqués, mais peinent à disposer d’une information utile dont ils ont besoin pour ne pas se placer en infraction. Une recherche quotidienne sur plusieurs sites, le téléchargement et la lecture d’un arrêté préfectoral long et complexe sont nécessaires.
+Lors d’un épisode de sécheresse, les ressources en eau baissent jusqu’à ne plus satisfaire tous les besoins des particuliers, industriels et agriculteurs. L’État partage alors la ressource restante. En 2017, 85 départements ont été concernés. Avec le changement climatique à l’œuvre, ces situations deviennent plus fréquentes.
+Dans chaque département, la gestion de la sécheresse mobilise des agents de l’État chargés de mesures hydrométriques, de rédiger des arrêtés préfectoraux et d’en contrôler la bonne application. La concertation implique les préfets et les représentants des usagers de l’eau et de la défense de l’environnement.
+La concertation aboutit à ce que le partage de l’eau fasse l’objet de multiples adaptations pour minimiser tant que possible son impact économique sur les activités, notamment agricoles. Par exemple, une restriction d’utilisation agricole de l’eau peut dépendre du bassin versant, de la technique de prélèvement (forage, canal, réseau d’eau potable), de la nature des cultures irriguées etc. Et cette restriction peut connaître 4 degrés d’intensité au cours de la période de sécheresse.
+Pour que les règles de partage décidées soient respectées, il est indispensable qu’elles soient accessibles dans toute leur finesse. C’est là qu’aujourd’hui le bât blesse. L’information sur le niveau d’alerte est reprise dans les médias et sur le site Propluvia du ministère de la transition écologique et solidaire. Mais une recherche quotidienne sur plusieurs sites, le téléchargement et la lecture d’un arrêté préfectoral long et complexe sont nécessaires pour connaître les règles précisément applicables tel jour : un chemin que pratiquement aucun usager n’emprunte.
+La conséquence est une désoptimisation de la réponse collective à la sécheresse : des pertes économiques pour l’agriculture, des rivières à sec, des poissons asphyxiés, et l’achat de bouteilles d’eau par les particuliers.
 
-La préoccupation première des irrigants est de limiter l’impact des restrictions sur leur activité économique. Ce sujet est complexe car l'impact est fonction de la réponse non linéaire des cultures à une réduction des apports en eau, mais encore de la structuration des entreprises et filières agricoles. Exemples : diminuer l’arrosage d’un arbre fruitier est plus pénalisant au début du grossissement des fruits ; une grance exploitation en polyculture est plus résiliente qu'une petite en monoculture. Les organismes professionnels conduisent parfois un complexe travail d’optimisation, qui peut mener à l'organisation de tours d'eau. Lorsque ce n'est pas le cas, les mesures décidées par l’État, dans la concertation mais sur la base d'une connaissance limitée, provoquent plus de pertes économiques pour l'agriculture. Les autres conséquences du mauvais respect des restrictions sont des rivières à sec, des poissons asphyxiés, et l’achat de bouteilles d’eau par les particuliers.
+## L'outil ASSEC
 
-## L'outil Assec
-
-Assec donnera en temps réel par mail ou SMS une information légale sur les restrictions applicables, expliquera aux particuliers le sens des efforts demandés et personnalisera les conseils aux irrigants, en fonction de leur situation particulière. Il sera alimenté par les services du préfet qui édictent les restrictions et les organismes professionnels qui le cas échéant organisent une répartition. Les irrigants recevront un premier conseil pour adapter leurs pratiques et cultures à la situation.
-En l’absence d’organisme assurant la répartition des restrictions, les irrigants pourront faire remonter leurs consommations d'eau : Assec leur facilite cette obligation réglementaire. Ils pourront aussi indiquer les besoins et contraintes déterminant l'impact économique qu'ils subissent.
-Forts de ces données, les services de l'État et les organismes professionnels pourront à moyen terme adapter les règles et plans de répartition pour minimiser l'impact économique des restrictions, dans une logique d’optimisation globale de la réponse à la sécheresse. Exemple : l'organisation de tours d'eau permet de limiter l'ampleur des restrictions individuelles en lissant les prélèvements dans le temps.
-Outre l'amélioration de l'économie des activités agricoles, Assec permettra de dégager des économies d'eau au profit des milieux naturels et des besoins prioritaires en eau potable (consommation humaine, besoins sanitaires et de défense incendie).
+ASSEC donne en trois clics une information légale en temps réel sur les restrictions précisément applicables aux usagers en fonction de leur situation particulière. Une alerte mail permet d’être informé de tout changement de situation. ASSEC est alimenté par les services du préfet qui édictent les restrictions et les organismes professionnels qui le cas échéant organisent la répartition de l’eau.
+ASSEC est une application web qui inclut un widget aisément intégrable dans d’autres sites, afin de capter les usagers là où ils recherchent actuellement cette information : sites des chambres d’agriculture, site des préfectures, site Propluvia, etc.
+ASSEC permettra que la réponse réelle à la sécheresse soit à la hauteur de ce pourquoi les arrêtés sécheresse sont conçus et concertés : un partage équitable de l’eau, avec le souci de minimiser l’impact économique des restrictions et de préserver les usages prioritaires (eau potable pour la consommation humaine, besoins sanitaires et de défense incendie) et les milieux naturels.
 
 ## Un outil à développer pas à pas
 
-Nous voulons d’abord développer l’outil sur des territoires restreints où la sécheresse sévit fréquemment : l’Asse dans les Alpes de Haute Provence et la rivière Lézarde en Martinique. Ce premier pas offrira un service utile qui correspond aux besoins de communautés d'irrigants qui dépendent d'une même ressource en eau, toutes cultures confondues. Les perspectives d’extension seront multiples :
-- extension géographique. Chaque territoire est géré de manière particulière et appelle donc des adaptations de développement parallèlement à la constitution d’une communauté d’utilisateurs.
-- extension aux industriels et particuliers. Le site Météo-France et des sites institutionnels permettront de capter progressivement le grand public et d’ajuster le service à ses attentes.
-Le passage à l’échelle départementale apportera un service à plusieurs centaines d’irrigants, d’industriels et plusieurs dizaines de milliers de foyers.
+Nous développons une version beta dans le Var, département fréquemment concerné par la sécheresse. Ce premier pas offrira un service utile qui correspond aux besoins de communautés d’irrigants qui dépendent d’une même ressource en eau, toutes cultures confondues.
+Il sera testé en conditions réelles lors de la sécheresse estivale 2018. A l’issue, nous pourrons évaluer la satisfaction des usagers quant au service rendu et apprécier son impact sur les pratiques.
+Les perspectives d’extension géographique intéressent un territoire quasi-national. Chaque territoire présente des spécificités qui appellent des adaptations, parallèlement à la constitution d’une communauté d’utilisateurs. D’ores et déjà, les acteurs qui souhaitent bénéficier du déploiement d’ASSEC sur leur territoire peuvent nous contacter !
