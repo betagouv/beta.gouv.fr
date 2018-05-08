@@ -28,7 +28,7 @@ HistoVec permet au vendeur de partager à un acheteur intéressé l’historique
 - les changements de propriétaire,
 - les sinistres à réparation contrôlée,
 - la situation administrative (gage, opposition, vol)
-- etc...
+- etc.
 
 Ainsi, HistoVec permet à l’acheteur d’**acheter en connaissance de cause**, et au vendeur honnête de valoriser son offre.
 
