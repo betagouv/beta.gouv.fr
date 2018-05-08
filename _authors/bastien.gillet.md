@@ -1,6 +1,6 @@
 ---
 fullname: Bastien Gillet
-role: Designer UX/UI
+role: Designer UI / UX
 avatar: https://avatars2.githubusercontent.com/u/38954696?s=460&v=4
 github: bastienCap
 start: 2018-04-24
