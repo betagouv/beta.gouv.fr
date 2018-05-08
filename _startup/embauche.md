@@ -12,7 +12,7 @@ stats: true
 contact: contact@embauche.beta.gouv.fr
 ---
 
-Le salaire est un élément incontournable d'une embauche. Le simulateur permet de calculer le salaire total (le coût d'embauche du point de vue de l'employeur), le salaire brut qui sera le plus souvent écrit dans le contrat, et le salaire net que touchera l'employé sur son compte bancaire. La simulation est ensuite personnalisée selon le contrat et l'entreprise: CDD, statut cadre, effectif, code postal, ... Une visualisation pédagogique de la fiche de paie (cotisations employeur, salariales, réductions et aides) accompagne la simulation.
+Le salaire est un élément incontournable d'une embauche. Le simulateur permet de calculer le salaire total (le coût d'embauche du point de vue de l'employeur), le salaire brut qui sera le plus souvent écrit dans le contrat, et le salaire net que touchera l'employé sur son compte bancaire. La simulation est ensuite personnalisée selon le contrat et l'entreprise: CDD, statut cadre, effectif, code postal... Une visualisation pédagogique de la fiche de paie (cotisations employeur, salariales, réductions et aides) accompagne la simulation.
 
 L'objectif est d'enlever l'incertitude qui accompagne souvent une embauche ou une négociation salariale. Sont intégrés dans le calcul tous les prélèvements et avantages obligatoires assis sur le salaire. Nous rassemblons pour cela les acteurs institutionnels et privés pour construire une base unifiée et libre de ces règles, rendues calculables et expliquées, croisement entre le droit du travail, de la sécurité sociale et des impôts.
 
