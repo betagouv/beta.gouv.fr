@@ -39,11 +39,13 @@ Des sites internet privés existent déjà donnant une information sur les véhi
 HistoVec est un service **gratuit** pour les particuliers, **exhaustif** sur le parc automobile et **officiel** pour acheter en confiance.
 
 ## Comment ça marche ?
+
 1. Le propriétaire s’identifie sur HistoVec avec les informations de sa carte d’immatriculation
 2. Il génère le rapport HistoVec et le partage à l’acheteur
 3. L’acheteur peut accéder au rapport officiel hébergé sur le site de l’administration
 
 ## Lancement progressif
+
 Nous souhaitons lancer le service **fin mai 2018** par un pilote avec des concessionnaires de confiance réalisant de nombreux achats et reventes d’occasion.
 
 Nous étendrons progressivement le service au dernier trimestre avant lancement grand public prévu pour **fin 2018**.
