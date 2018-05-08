@@ -8,7 +8,7 @@ Réso cherche un·e lead dev Rails pour passer à la vitesse supérieure et mieu
 
 <!--more-->
 
-# Mission
+## Mission
 
 [Reso](https://beta.gouv.fr/startup/reso.html) est une Startup d’État, accélérée par l’Incubateur de services numériques beta.gouv.fr.
 
@@ -18,7 +18,7 @@ Un premier produit a été mis en production en 2017 et déployé dans les Hauts
 
 Ta mission ? Faire en sorte que le produit passe à la vitesse supérieure. Tu rejoindras un chef de produit et un bizdev (basés à Lille) ainsi que les deux data-scientists travaillant sur le projet [Signaux Faibles](https://beta.gouv.fr/startup/signaux-faibles.html), et tu pourras monter ton équipe technique.
 
-# Conditions
+## Conditions
 
 - Poste ouvert pour un·e indépendant·e.
 - Télétravail partiel possible, avec une présence régulière à Paris (Bercy) et Lille (Direccte) pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification

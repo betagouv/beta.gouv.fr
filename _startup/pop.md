@@ -21,6 +21,7 @@ D'une grande qualité scientifique, parfois inédites, ces données sont très s
 Au-delà de ces limitations techniques, des __contraintes juridiques ont considérablement restreint le réemploi de ces données à un cadre strictement professionnel__. Les Français ne bénéficient pas de ces informations dans leurs outils du quotidien : cartes, smartphones, assistants de conduite, web ...
 
 ## Le patrimoine est l'affaire de tous : vers une Plateforme Ouverte du Patrimoine (POP)
+
 POP propose de faire des données patrimoniales un bien commun dont il sera aussi simple de se servir que d'y contribuer.
 
 Pour cela, POP permet aux professionnels de constituer et de maintenir un réservoir d'informations certifiées par les services de l'État à travers des outils interopérables et simples d'utilisation. Il permet également la libre consultation de l'ensemble des ressources textuelles et photographiques ainsi que leur réutilisation par d'autres applications grâce à un partage, total ou partiel, en open data.

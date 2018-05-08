@@ -10,4 +10,5 @@ startups:
     - signaux-faibles:
         inactive
 ---
+
 Mission : sauver les entreprises qui vont mal.

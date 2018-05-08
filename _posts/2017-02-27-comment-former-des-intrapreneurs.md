@@ -33,10 +33,10 @@ Un peu comme dans une startup (pas d'État) qui démarrera souvent à 2 personne
 Une Startup d'État en succès va forcément inciter à en créer d’autres dans la même administration. A ce stade l’intrapreneur n’est plus le seul mais il a un alter ego, patron d’une autre Startup d'État dans la même structure.
 
 Cercle des intrapreneurs, guilde des intrapreneurs, réunion des intrapreneurs, appelez-ça comme vous voulez mais on s’assurera que les intrapreneurs d’une même structure :
-* se communiquent leurs réussites et leurs difficultés pour se donner du courage.
-* créent une saine émulation en regardant ce que fait l’autre. « Tiens il en est déjà là au bout de 3 mois seulement ! »
-* partagent leurs meilleures pratiques. « Tiens, regarde comment j’ai envoyé mes 100 000 emails pour ma dernière campagne de communication ».
-* créent des ponts entre leur solution, le plus souvent par des APIs
+- se communiquent leurs réussites et leurs difficultés pour se donner du courage.
+- créent une saine émulation en regardant ce que fait l’autre. « Tiens il en est déjà là au bout de 3 mois seulement ! »
+- partagent leurs meilleures pratiques. « Tiens, regarde comment j’ai envoyé mes 100 000 emails pour ma dernière campagne de communication ».
+- créent des ponts entre leur solution, le plus souvent par des APIs
 
 ## Conclusion
 

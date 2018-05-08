@@ -3,6 +3,7 @@ title: Notre Wiki
 authors:
   - laurent.bossavit
 ---
+
 Dans certaines entreprises on distribue un « manuel de l'employé ». Il permet de s'orienter, de savoir quoi faire le premier jour et où poser ses affaires. Nous pensons qu'un « manuel de l'employé » est une excellente idée, et qu'elle est meilleure encore s'il est collaboratif et ouvert.
 
 <!--more-->

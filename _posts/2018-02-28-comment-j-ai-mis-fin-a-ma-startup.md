@@ -12,10 +12,10 @@ L’objet de ce concours interne était de réfléchir à une solution numériqu
 
 
 Ayant été lauréat de ce challenge, j’ai rejoint l’incubateur Beta.gouv.fr. Très vite, en travaillant mon projet de départ, j’ai compris qu’il fallait envisager d’autres directions que celle envisagée au départ :
-* Obtenir ses papiers avec son smartphone : la plupart des démarches sont faites par téléservice, l’intérêt de le faire par smartphone est donc limité, risque de doublonner le service.
-* Prêter les papiers du véhicule par son smartphone : la réglementation impose de disposer de l’original.
-* Utiliser une carte grise électronique dans le cas de l’auto-partage ou la location entre particuliers : une photocopie suffit, l’intérêt d’une appli pour une simple photo est donc limité.
-* Utiliser la carte grise électronique pour la location longue durée : cas identique à la location, une  photocopie suffit...
+- Obtenir ses papiers avec son smartphone : la plupart des démarches sont faites par téléservice, l’intérêt de le faire par smartphone est donc limité, risque de doublonner le service.
+- Prêter les papiers du véhicule par son smartphone : la réglementation impose de disposer de l’original.
+- Utiliser une carte grise électronique dans le cas de l’auto-partage ou la location entre particuliers : une photocopie suffit, l’intérêt d’une appli pour une simple photo est donc limité.
+- Utiliser la carte grise électronique pour la location longue durée : cas identique à la location, une  photocopie suffit...
 
 Une idée de service mieux définie s’est finalement dessinée :
 
@@ -34,11 +34,11 @@ Lors de l'approfondissement de ce concept, j’ai obtenu un entretien avec un ge
 Un bilan s’impose donc à cet instant.
 
 Ce que j’ai acquis de cette expérience auprès de l’incubateur de beta.gouv.fr :
-* La présentation du pitch, qui consiste à présenter le service de façon très concise (entre 1 et 3 minutes). Débuter en identifiant un irritant (élément qui pose un problème à l’usager), promettre une amélioration au problème rencontré et le résoudre au travers d’une solution numérique. Cette technique est très utile lors des contacts avec des partenaires et/ou des utilisateurs pour les impliquer dans le service.
-* Le travail collaboratif en petite équipe, puisque, dans cette phase, j’étais uniquement épaulé par un coach. Cela m’a appris à travailler en autonomie, en déterminant les objectifs et les moyens pour les atteindre en vérifiant systématiquement l’impact sur les usagers.
-* La vérification des solutions existantes, avant de se lancer, car il existe peut-être des solutions plus simples ou plus économes.
-* Le fonctionnement en mode agile, pour changer de direction dès qu’on constate qu’une trajectoire est une voie sans issue. Cela permet de s’adapter très vite et de réorienter les actions en fonction de nouvelles contraintes, et donc d’être réactif.
-* La technique des petits pas, qui consiste à s’autoriser une solution imparfaite pour débuter une expérimentation et l’améliorer petit à petit.
+- La présentation du pitch, qui consiste à présenter le service de façon très concise (entre 1 et 3 minutes). Débuter en identifiant un irritant (élément qui pose un problème à l’usager), promettre une amélioration au problème rencontré et le résoudre au travers d’une solution numérique. Cette technique est très utile lors des contacts avec des partenaires et/ou des utilisateurs pour les impliquer dans le service.
+- Le travail collaboratif en petite équipe, puisque, dans cette phase, j’étais uniquement épaulé par un coach. Cela m’a appris à travailler en autonomie, en déterminant les objectifs et les moyens pour les atteindre en vérifiant systématiquement l’impact sur les usagers.
+- La vérification des solutions existantes, avant de se lancer, car il existe peut-être des solutions plus simples ou plus économes.
+- Le fonctionnement en mode agile, pour changer de direction dès qu’on constate qu’une trajectoire est une voie sans issue. Cela permet de s’adapter très vite et de réorienter les actions en fonction de nouvelles contraintes, et donc d’être réactif.
+- La technique des petits pas, qui consiste à s’autoriser une solution imparfaite pour débuter une expérimentation et l’améliorer petit à petit.
 
 Les aspects négatifs de cette expérience (bilan oblige) sont surtout liés à la frustration que j’ai pu ressentir d’avoir échoué à mettre en place une startup. Mais l’objet n’était pas de créer une startup, il était d’apporter une solution numérique à un problème. Il faut donc mettre de côté les aspects affectifs et se concentrer sur les aspects positifs de cette expérience.
 

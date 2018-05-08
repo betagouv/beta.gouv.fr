@@ -18,9 +18,9 @@ Ainsi en Haute-Garonne, la prise en charge des frais d'utilisation du véhicule 
 ## Comment convaincre nos assurés d'utiliser leur voiture, mode de transport sanitaire le plus flexible et le mieux remboursé ?
 
 Challengé dans le cadre d'un concours interne sur la régulation des dépenses de santé en juin 2017, la CPAM de la Haute-Garonne a porté une réponse simple :
-* **accompagner** les prescripteurs (hôpitaux, médecins libéraux…) pour promouvoir le recours au véhicule personnel,
-* **faciliter** l'accès aux établissements de santé en prenant en charge les frais de parking,
-* **simplifier** le circuit de remboursement, l'objet de cette nouvelle Startup Mes Remboursements Simplifiés (MRS).
+- **accompagner** les prescripteurs (hôpitaux, médecins libéraux…) pour promouvoir le recours au véhicule personnel,
+- **faciliter** l'accès aux établissements de santé en prenant en charge les frais de parking,
+- **simplifier** le circuit de remboursement, l'objet de cette nouvelle Startup Mes Remboursements Simplifiés (MRS).
 
 Beta.gouv en lien avec la CNAMTS repère le projet et propose à la CPAM de la Haute-Garonne d'intégrer l'incubateur. MRS est depuis octobre la première Startup d'État de l'Assurance Maladie.
 
@@ -29,8 +29,8 @@ MRS est une plateforme numérique visant à simplifier et accélérer le rembour
 L'équipe initiale de la CPAM de Toulouse coachée par Beta.gouv, est à l'œuvre depuis maintenant un mois. Nous construisons un prototype qui sera testé et amélioré au fur et à mesure des retours des utilisateurs.
 
 Notre stratégie se décline en deux temps :
-* en premier convertir un panel d'assurés utilisateurs du remboursement actuel papier (formulaire Cerfa S3140) vers le service MRS.
-* puis favoriser la prescription initiale en véhicule personnel ou transports en commun sur deux établissements de santé toulousains.
+- en premier convertir un panel d'assurés utilisateurs du remboursement actuel papier (formulaire Cerfa S3140) vers le service MRS.
+- puis favoriser la prescription initiale en véhicule personnel ou transports en commun sur deux établissements de santé toulousains.
 
 **L'enjeu** est d'offrir d'ici 5 mois, **un service facilitateur** aux assurés et de **convertir**, lorsque cela est médicalement possible, **les utilisateurs** de transports sanitaires (Taxi/VSL) **à la voiture personnelle** ou aux transports en commun.
 

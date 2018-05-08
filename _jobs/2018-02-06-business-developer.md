@@ -8,7 +8,7 @@ demarches-simplifiees.fr cherche un·e business developer pour diffuser notre pr
 
 <!--more-->
 
-# Qui sommes-nous ?
+## Qui sommes-nous ?
 
 [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr) est une Startup d’État, accélérée par l’Incubateur de services numériques beta.gouv.fr.
 
@@ -16,7 +16,7 @@ Notre mission : dématérialiser 100 % des démarches administratives pour simpl
 
 L’an dernier, nous avons construit le produit, déjà adopté par près de 40 organismes publics avec 10 000 dossiers déposés. Notre ambition pour 2018 ? 500 démarches dématérialisées et 1 million de dossiers déposés. Pour atteindre cet objectif, nous avons besoin de constituer une équipe de choc avec des bizdevs déterminés et à l’écoute.
 
-# Ta mission
+## Ta mission
 
 - Convertir et accompagner un portefeuille d’organismes publics désireux de dématérialiser leurs démarches avec demarches-simplifiees.fr
 - Sauver des utilisateurs perdus
@@ -26,12 +26,12 @@ L’an dernier, nous avons construit le produit, déjà adopté par près de 40 
 
 Si comme nous tu rêves de venir à bout de la paperasse administrative, que tu souhaites faire changer les choses et construire un État digne du XXIe siècle, alors rejoins-nous !
 
-# Conditions
+## Conditions
 
 - Contrat : CDD ou en freelance, temps partiel à 80 % minimum
 - Début de la mission : immédiat
 - Rémunération : 30 000 – 70 000 € brut selon expérience
 
-# Comment postuler ?
+## Comment postuler ?
 
 Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à [contact@demarches-simplifiees.fr](mailto:contact@demarches-simplifiees.fr).

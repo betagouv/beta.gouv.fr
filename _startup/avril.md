@@ -17,9 +17,9 @@ Marie-Cécile est aide à domicile depuis 17 ans et ne trouve plus d’employeur
 
 __Depuis 2002, on peut obtenir un diplôme en faisant valider son expérience__. Ce dispositif s’appelle la VAE, Validation des Acquis de l’expérience. Une VAE se fait en 3 étapes :
 
-* 1 dossier de candidature
-* 1 dossier relatant ses expériences (et compétences acquises que l’on rédige à son rythme, chez soi, sur son temps
-* 1 entretien avec un jury
+- 1 dossier de candidature
+- 1 dossier relatant ses expériences (et compétences acquises que l’on rédige à son rythme, chez soi, sur son temps
+- 1 entretien avec un jury
 
 
 En 2015, __+ de 80% des demandeurs d'emploi qui ont obtenus un titre professionnel par la VAE ont retrouvé un emploi dans les 6 mois qui suivaient__.
