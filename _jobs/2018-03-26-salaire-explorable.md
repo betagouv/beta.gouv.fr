@@ -7,7 +7,7 @@ open: false
 
 Nous cherchons un·e développeur·se pour nous aider à construire [le Simulateur d'Embauche](https://embauche.beta.gouv.fr).
 
-L'embauche dans le privé est un des sujets politiques les plus chauds du moment, et une embauche passe forcément par un salaire dont une grosse partie finance notre système de sécurité sociale. On veut donc expliquer et calculer au mieux les éléments en jeu : salaire total versé par l'employeur, salaire brut sur le contrat, salaire brut touché par le salarié, cotisations sociales...
+L'embauche dans le privé est un des sujets politiques les plus chauds du moment, et une embauche passe forcément par un salaire dont une grosse partie finance notre système de sécurité sociale. On veut donc expliquer et calculer au mieux les éléments en jeu : salaire total versé par l'employeur, salaire brut sur le contrat, salaire brut touché par le salarié, cotisations sociales…
 
 <!--more-->
 

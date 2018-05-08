@@ -15,7 +15,7 @@ Ayant été lauréat de ce challenge, j’ai rejoint l’incubateur Beta.gouv.fr
 - Obtenir ses papiers avec son smartphone : la plupart des démarches sont faites par téléservice, l’intérêt de le faire par smartphone est donc limité, risque de doublonner le service.
 - Prêter les papiers du véhicule par son smartphone : la réglementation impose de disposer de l’original.
 - Utiliser une carte grise électronique dans le cas de l’auto-partage ou la location entre particuliers : une photocopie suffit, l’intérêt d’une appli pour une simple photo est donc limité.
-- Utiliser la carte grise électronique pour la location longue durée : cas identique à la location, une  photocopie suffit...
+- Utiliser la carte grise électronique pour la location longue durée : cas identique à la location, une  photocopie suffit…
 
 Une idée de service mieux définie s’est finalement dessinée :
 
