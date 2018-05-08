@@ -28,7 +28,7 @@ HistoVec permet au vendeur de partager à un acheteur intéressé l’historique
 - les changements de propriétaire,
 - les sinistres à réparation contrôlée,
 - la situation administrative (gage, opposition, vol)
-- etc...
+- etc.
 
 Ainsi, HistoVec permet à l’acheteur d’**acheter en connaissance de cause**, et au vendeur honnête de valoriser son offre.
 
@@ -39,14 +39,15 @@ Des sites internet privés existent déjà donnant une information sur les véhi
 HistoVec est un service **gratuit** pour les particuliers, **exhaustif** sur le parc automobile et **officiel** pour acheter en confiance.
 
 ## Comment ça marche ?
+
 1. Le propriétaire s’identifie sur HistoVec avec les informations de sa carte d’immatriculation
 2. Il génère le rapport HistoVec et le partage à l’acheteur
 3. L’acheteur peut accéder au rapport officiel hébergé sur le site de l’administration
 
 ## Lancement progressif
+
 Nous souhaitons lancer le service **fin mai 2018** par un pilote avec des concessionnaires de confiance réalisant de nombreux achats et reventes d’occasion.
 
 Nous étendrons progressivement le service au dernier trimestre avant lancement grand public prévu pour **fin 2018**.
 
 Nous envisageons aussi de fournir  la donnée par API pour permettre à l'eco-système des sites internet de développer des services à valeur ajoutée à partir d'informations fiables.
-
