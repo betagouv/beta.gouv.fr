@@ -49,4 +49,3 @@ Nous souhaitons lancer le service **fin mai 2018** par un pilote avec des conces
 Nous étendrons progressivement le service au dernier trimestre avant lancement grand public prévu pour **fin 2018**.
 
 Nous envisageons aussi de fournir  la donnée par API pour permettre à l'eco-système des sites internet de développer des services à valeur ajoutée à partir d'informations fiables.
-
