@@ -6,6 +6,7 @@ incubator: pole-emploi
 status: construction
 start: 2018-04-01
 stats: false
+repository: https://github.com/StartupsPoleEmploi/actualisation
 contact: sylvie.lebel@pole-emploi.fr
 ---
 
