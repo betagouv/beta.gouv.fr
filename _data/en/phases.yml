@@ -16,3 +16,5 @@ endgame:
   death:
     name: abandoned
     description: The service has been discontinued while under construction. A post-mortem has been conducted to extract value from the experiment.
+comingsoon:
+  name: survey
