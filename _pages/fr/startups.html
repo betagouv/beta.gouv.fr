@@ -65,6 +65,18 @@ redirect_from:
             </div>
         </section>
     {% endfor %}
+
+    {% assign startups = site.startup | where:'status', 'comingsoon' %}
+    <section id="comingsoon">
+        <h2 class="ui divider horizontal">Nos Startups d'État {{ site.data.fr.phases.comingsoon.name }}</h2>
+        {% capture phase_description %}phases/comingsoon.md{% endcapture %}
+        {% capture phase_description %}{% include {{phase_description}} %}{% endcapture %}
+        {{ phase_description | markdownify }}
+
+        <div class="ui three stackable doubling cards">
+            {% for startup in startups %}
+                {% include startup-card.html description=startup %}
+            {% endfor %}
+        </div>
     </section>
-{% endfor %}
 </section>

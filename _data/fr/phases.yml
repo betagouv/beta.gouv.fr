@@ -19,3 +19,6 @@ endgame:
     singular: abandonné
     name: abandonnées
     description: Le service a été abandonné en cours de construction. L'abandon est expliqué pour capitaliser sur l'expérience accumulée.
+comingsoon:
+    singular: bientôt incubée
+    name: bientôt incubées
