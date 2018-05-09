@@ -1,17 +1,11 @@
 startups_in: startups under
 incubation:
-  investigation:
-    name: investigation
-    description: A civil servant has identified a pain point affecting citizens dealing with government.
   construction:
     name: construction
     description: A team of two to four has been formed to hash out a viable solution.
   consolidation:
     name: consolidation
     description: Initial users are enjoying actual benefits from the service, which expands its reach to new users.
-  passation:
-    name: handover
-    description: The team and the public body responsible for the service are satisfied of its viability.
 endgame:
   success:
     name: live
