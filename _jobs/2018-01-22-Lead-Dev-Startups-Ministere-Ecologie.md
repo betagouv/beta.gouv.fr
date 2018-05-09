@@ -22,7 +22,7 @@ Vous serez en charge de construire (from scratch) le service pour les usagers. V
 
 Les choix technologiques sont ouverts parmi les solutions libres du marché. Vous êtes libre dans le choix et la mise en place de la stack technique.
 
-Vous êtes entièrement en charge des développements de l’administration système au css, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, de monitoring.
+Vous êtes entièrement en charge des développements de l’administration système au CSS, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, de monitoring.
 
 Vous êtes en mesure de jouer sur 2 tableaux :
 
