@@ -32,7 +32,7 @@ Vous êtes en mesure de jouer sur 2 tableaux :
 ## Compétences
 
 - Développeur web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, Rails, Symfony, Laravel, Django/Flask…).
-- Bonne maîtrise du développement front-end (HTML, CSS, Javascript).
+- Bonne maîtrise du développement front-end (HTML, CSS, JavaScript).
 - Expérience en conception orientée utilisateur et en expérience utilisateur.
 - Expérience de l’écosystème technique web : test AB, analytics…
 - Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).

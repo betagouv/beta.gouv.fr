@@ -38,7 +38,7 @@ Intégré.e à l’équipe technique, vous participerez au développement d’Op
 
 ## Mots clés
 
-Linux, Python, Django, Html, Css, Git, Docker, Rancher, Ansible, OpenStack, SQL, Mongodb, Elasticsearch, Hadoop, OpenEdx, Javascript, React.
+Linux, Python, Django, Html, Css, Git, Docker, Rancher, Ansible, OpenStack, SQL, Mongodb, Elasticsearch, Hadoop, OpenEdx, JavaScript, React.
 
 ## Postuler
 
