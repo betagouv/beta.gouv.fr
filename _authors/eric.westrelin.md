@@ -8,6 +8,7 @@ end: 2018-05-09
 employer: independent/Sogilis Lyon
 startups:
     - eac
+        inactive
 ---
 
 Développeur Java/JS, mais pas que.
