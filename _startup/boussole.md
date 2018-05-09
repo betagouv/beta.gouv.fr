@@ -18,22 +18,22 @@ Nous avons accompagné la <abbr title="Direction de la jeunesse, de l’éducati
 
 La phase d’investigation nous a permis de comprendre le problème : les jeunes n’ont pas recours aux services qui existent pour trouver un logement, un emploi ou une formation. Plusieurs services (association, service public…) offrent des solutions, mais les utilisateurs ne savent pas exactement ce qu’ils font/ à quoi ils servent, ou comment ils peuvent les aider.
 
-Avec les premiers tests, nous avons découvert que nos utilisateurs étaient prêts à laisser leur coordonnées en contre partie de la garantie d'être rappeler rapidement. Il fallait donc que tous les services disponibles sur notre produit s’engagent à recontacter les jeunes dans un délai maximal de deux semaines. 
+Avec les premiers tests, nous avons découvert que nos utilisateurs étaient prêts à laisser leur coordonnées en contre partie de la garantie d'être rappeler rapidement. Il fallait donc que tous les services disponibles sur notre produit s’engagent à recontacter les jeunes dans un délai maximal de deux semaines.
 
 Les gros défis n’étaient pas d’ordre technique, mais organisationnel. Plusieurs acteurs devaient se coordonner pour définir ensemble quels services étaient les plus pertinents en fonction des profils de nos utilisateurs. L’enjeu principal était d’animer une communauté de professionnel dans chaque territoire pour coordonner leurs offres.
 
-On a donc développé un produit qui, sur le territoire de Reims, permettait à un jeune d’entrer en contact avec le professionnel qui pouvait l’aider à trouver un logement ou un emploi, avec la garantie d’être contacté en moins de deux semaines. 
+On a donc développé un produit qui, sur le territoire de Reims, permettait à un jeune d’entrer en contact avec le professionnel qui pouvait l’aider à trouver un logement ou un emploi, avec la garantie d’être contacté en moins de deux semaines.
 
-Au bout des 6 premiers mois on avait une solution qui répondait au problème : nous avions mis en relation une quinzaine de jeunes avec des professionnels qui les ont aidés dans leur recherche de logement ou d’emploi. 
+Au bout des 6 premiers mois on avait une solution qui répondait au problème : nous avions mis en relation une quinzaine de jeunes avec des professionnels qui les ont aidés dans leur recherche de logement ou d’emploi.
 
-Ces premiers utilisateurs nous sommes allés les chercher dans les cafés, les centres commerciaux, les universités…, et les suivants sont venus par le bouche-à-oreille. 
+Ces premiers utilisateurs nous sommes allés les chercher dans les cafés, les centres commerciaux, les universités…, et les suivants sont venus par le bouche-à-oreille.
 Nous n’avions pas encore trouvé les leviers de la traction : comment faire en sorte qu’un utilisateur arrive sur la Boussole ? C’était notre priorité.
 
-Nous n’avions pas non plus trouvé la façon de « charger » automatiquement les offres de service des acteurs sur le territoire pilote, pour outiller le déploiement à de nouveaux territoires. 
+Nous n’avions pas non plus trouvé la façon de « charger » automatiquement les offres de service des acteurs sur le territoire pilote, pour outiller le déploiement à de nouveaux territoires.
 
 Au bout des six premiers mois, la DJEPVA a choisi d’accélérer le déploiement du service sans que nous n’ayons de solution aux problèmes de la traction et du déploiement.
 
-Toujours alignés sur la finalité, nous n’étions pas alignés sur la façon d’y arriver. Nous avons donc, d’un commun accord, décidé de mettre fin à notre collaboration. 
+Toujours alignés sur la finalité, nous n’étions pas alignés sur la façon d’y arriver. Nous avons donc, d’un commun accord, décidé de mettre fin à notre collaboration.
 
 Suite à cette expérience, nous avons notamment appris :
 - que l’autonomie de l’équipe n’était pas négociable ;
@@ -44,7 +44,7 @@ Le service est aujourd'hui disponible sur [boussole.jeunes.gouv.fr](boussole.jeu
 Le code source que nous publions [ici](https://github.com/betagouv/boussole) correspond à une branche abandonnée, le produit actuellement en service n'est pas à notre connaissance ouvert sous une licence libre.
 
 
-La fiche produit publiée en 2016 
+La fiche produit publiée en 2016
 -------
 
 Depuis 2013, un travail d’analyse et d’étude a été mené par la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> et le <abbr title="direction interministérielle du numérique et du système d'information et de communication de l'État">DINSIC</abbr> sur 2 territoires pilotes (Reims et Rennes), pour identifier les besoins des jeunes dans leur accès à l’information et les attentes des professionnels de l’Information Jeunesse en ce qui concerne l’évolution de leur pratique.
