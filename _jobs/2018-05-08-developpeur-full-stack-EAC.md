@@ -36,6 +36,6 @@ Vous serez entièrement en charge des développements de l’administration syst
 - Temps partiel accepté (80 % minimum).
 - Démarrage immédiat.
 
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à mailto://recrutement@beta.gouv.fr.
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à <a href="mailto:recrutement@beta.gouv.fr">recrutement@beta.gouv.fr</a>.
 
 À bientôt ! 😀
