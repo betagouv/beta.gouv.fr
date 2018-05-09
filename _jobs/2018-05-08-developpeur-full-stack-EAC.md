@@ -1,7 +1,7 @@
 ---
 roles: un·e dev web full-stack freelance
 startup: eac
-techno: ouverte
+techno: Choix technologiques ouverts parmi les solutions libres du marché
 open: true
 ---
 
