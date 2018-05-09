@@ -22,17 +22,17 @@ Vous serez en charge de construire (from scratch) le service pour les usagers. V
 
 Les choix technologiques sont ouverts parmi les solutions libres du marché. Vous êtes libre dans le choix et la mise en place de la stack technique.
 
-Vous êtes entièrement en charge des développements de l’administration système au css, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, de monitoring.
+Vous êtes entièrement en charge des développements de l’administration système au CSS, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, de monitoring.
 
 Vous êtes en mesure de jouer sur 2 tableaux :
 
-- La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
+- L’exploration : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
 - L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
 
 ## Compétences
 
 - Développeur web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, Rails, Symfony, Laravel, Django/Flask…).
-- Bonne maîtrise du développement front-end (HTML, CSS, Javascript).
+- Bonne maîtrise du développement front-end (HTML, CSS, JavaScript).
 - Expérience en conception orientée utilisateur et en expérience utilisateur.
 - Expérience de l’écosystème technique web : test AB, analytics…
 - Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).

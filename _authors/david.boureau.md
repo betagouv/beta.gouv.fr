@@ -12,4 +12,4 @@ startups:
     - clara
 ---
 
-Développeur web avec une préférence pour l'ergonomie, le Ruby on Rails et le Javascript.
+Développeur web avec une préférence pour l'ergonomie, le Ruby on Rails et le JavaScript.
