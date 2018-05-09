@@ -10,39 +10,98 @@ ref: landing
 title: Incubateur de services publics numériques
 ---
 
-<section id="intro-header">
-    <h1>{{ site.description }}</h1>
-    <a class="primary investigation cta" href="#cycle">Découvrez comment</a>
-</section>
-
-<section id="presentation" class="ui container">
-    <div id="example">
-        {% include startup-presentation.html id='mdph' %}
-        {% include startup-presentation.html id='pix' %}
-        {% include startup-presentation.html id='demarches-simplifiees.fr' %}
-        {% include startup-presentation.html id='mes-aides' %}
-        {% include startup-presentation.html id='la-bonne-boite' %}
-        {% include startup-presentation.html id='mps' %}
+<div class="hero">
+    <div class="hero__container">
+        <h1>{{ site.description }}</h1>
     </div>
+</div>
 
-    <span class="cta" id="otherExample">Voir d'autres exemples</span>
+<section class="presentation">
+    <div class="container">
+        <div class="row">
+            <div class="column">
+                <img src="../img/icons/rings.svg" alt="Icône Cercles" />
+                <p>Les besoins des usagers avant ceux de l’administration</p>
+            </div>
+            <div class="column">
+                <img src="../img/icons/people.svg" alt="Icône Groupe de personnes" />
+                <p>Des équipes pilotées par la finalité plus que par les moyens</p>
+            </div>
+            <div class="column">
+                <img src="../img/icons/tools.svg" alt="Icône Outils" />
+                <p>Amélioration continue plus que conformité à un plan</p>
+            </div>
+        </div>
+        <a class="button">En savoir plus</a>
+    </div>
 </section>
 
-<section id="dashboard">
-    {% include dashboard.html phases=site.data.fr.phases %}
-
-    <a href="startups" class="primary success cta">Explorez nos {{ site.startup | size }} Startups d'État&nbsp;&nbsp;➤</a>
+<section class="section-grey mosaic">
+    <div class="container">
+        <div class="row public-agents">
+            <div class="photo"></div>
+            <div class="stacked">
+                <div class="description">
+                    <h3>Agents publics</h3>
+                    <p>Vous vous reconnaissez dans le profil d’un agent public indigné par une situation irritante pour les usagers ? Vous avez une idée précise d’une solution qui pourrait faire levier sur du numérique ? Vous êtes prêts à vous investir pour la mettre en oeuvre ?</p>
+                </div>
+                <div class="row">
+                    <a class="link">
+                        <img src="../img/icons/pen.svg" alt="Icône stylo" />
+                        <p>Rédigez une fiche produit et adressez-la nous !</p>
+                    </a>
+                    <a class="link">
+                        <img src="../img/icons/book.svg" alt="Icône livre" />
+                        <p>Inscrivez-vous à notre formation gratuite Alpha</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row developers inverted">
+            <div class="photo"></div>
+            <div class="stacked">
+                <div class="description">
+                    <h3>Informaticien·nes, designers, développeur·s·es, commerciaux</h3>
+                    <p>Pour vous l’informatique sert à résoudre des problèmes, pas forcément à essayer la dernière technologie à la mode ? Nous proposons régulièrement des missions freelance ou des CDD pour constituer les Statups d'état.</p>
+                </div>
+                <div class="row">
+                    <a class="link">
+                        <img src="../img/icons/bubbles.svg" alt="Icône bulles de discussion" />
+                        <p>Suivez-nous sur @betagouv et sur notre blog !</p>
+                    </a>
+                    <a class="link">
+                        <img src="../img/icons/files-empty.svg" alt="Icône feuilles" />
+                        <p>Consultez nos offres de recrutement</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row developers">
+            <div class="photo"></div>
+            <div class="stacked">
+                <div class="description">
+                    <h3>Décideurs publics</h3>
+                    <p>Vous êtes responsable d’administration centrale ou territoriale et souhaitez créer rapidement des outils qui résolvent les problèmes les plus courants rencontrés par vos usagers ? Vous souhaitez accélérer votre transition numérique en mobilisant vos agents sur ces enjeux ?</p>
+                </div>
+                <div class="row">
+                    <a class="link">
+                        <img src="../img/icons/rocket.svg" alt="Icône fusée" />
+                        <p>Je déploie une startup d'état existante</p>
+                    </a>
+                    <a class="link">
+                        <img src="../img/icons/pencil.svg" alt="Icône crayon" />
+                        <p>Je lance une startup d'état</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 
-<section id="cycle">
-    <h2 class="ui divider horizontal">Phases d'une Startup d'État</h2>
-
-    <ol class="ui container">
-        <li>Un agent public <strong>investigue une friction</strong> entre administration et citoyens.</li>
-        <li>Deux à quatre personnes <strong>construisent un produit</strong> numérique en moins de six mois.</li>
-        <li>L'équipe <strong>consolide le service</strong> en élargissant son public cible.</li>
-        <li>Un opérateur institutionnel <strong>reprend le service</strong> et assure sa pérennité.</li>
-    </ol>
-
-    <a href="communaute" class="primary success cta">Une communauté de {{ site.authors | size }} personnes&nbsp;&nbsp;➤</a>
+<section class="newsletter">
+    <div class="container">
+        <div class="form__container">
+            {% include subscribe.html %}
+        </div>
+    </div>
 </section>

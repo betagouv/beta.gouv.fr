@@ -12,3 +12,6 @@ Gemfile.lock
 
 # Ruby
 .ruby-gemset
+
+# NPM
+node_modules

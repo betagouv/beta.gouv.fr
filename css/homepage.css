@@ -21,81 +21,118 @@ body {
     display: none;
 }
 
-#intro-header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    letter-spacing: .05em;
-    text-align: center; /* degradability */
+.hero__container h1 {
     color: #fff;
-    background-image: url(/img/pages/index.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 8em 0;
-    min-height: 8em;
-    box-sizing: content-box;
 }
 
-#intro-header h1 {
-    margin: 0;
-    padding: 0;
-}
-
-#intro-header .tagline {
-    padding: 0.5em 0 1em 0;
-    font-size: 200%;
-    font-weight: bold;
-    line-height: 1.25;
-    text-transform: uppercase;
-    border-top: 1px solid #ddd;
+.presentation {
     text-align: center;
 }
 
-#presentation {
-    justify-content: center;
+.presentation .button {
+    margin-top: 2em;
 }
 
-#dashboard {
-    text-align: center;
-    background-color: #EEE;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.presentation img {
+    height: 40px;
 }
 
-#cycle {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    font-size: 130%;
-    text-align: center;
-    background-color: #FEFEFE;
+.mosaic .description {
+    background-color: #fff;
+    padding: 2em;
+    position: relative;
 }
 
-#cycle ol {
-    list-style-position: inside;
-    padding-left: 0;
-    line-height: 2;
+.mosaic .description::before {
+    content: '';
+    border: 20px solid transparent;
+    border-right: 20px solid #fff;
+    position: absolute;
+    left: -39px;
+    height: 20px;
+    width: 20px;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
-#phases {
-    color: #FEFEFE;
-    font-size: 110%;
-}
-
-#phases .text.container {
+.mosaic .description h3 {
     margin-top: 0;
 }
 
-#phases .text.container p:last-child {
-    margin-bottom: 0;
+.mosaic .link {
+    background-color: #27486B;
+    color: #fff;
+    padding: 2em;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
 
-@media (max-width: 34em) {
-    #cycle ol {
-        text-align: left;
-        line-height: 1.5;
+.mosaic .link:hover {
+    text-decoration: underline;
+}
+
+.mosaic .link img {
+    height: 40px;
+}
+
+.mosaic .link + .link {
+    background-color: #0081d5;
+}
+
+.mosaic .link img {
+    display: block;
+    margin: auto;
+}
+
+.mosaic .photo {
+    flex: 1 0 50%;
+    background-size: cover;
+}
+
+.mosaic .inverted {
+    direction: rtl;
+}
+
+.mosaic .inverted .stacked {
+    direction: ltr;
+}
+
+.mosaic .inverted .description::before {
+    border-right: transparent;
+    border-left: 20px solid #fff;
+    right: -20px;
+    left: unset;
+}
+
+.mosaic .photo {
+    background: url('../img/pages/index.jpg') center center;
+}
+
+.mosaic .column {
+    margin: 0;
+}
+
+@media (max-width: 749px) {
+    .mosaic .photo {
+        min-height: 200px;
     }
+
+    .mosaic .inverted {
+        direction: ltr;
+    }
+
+    .mosaic .link {
+        width: 100%;
+    }
+
+    .mosaic .description::before {
+        content: none;
+    }
+}
+
+.newsletter .button {
+    margin-top: 1em;
 }
