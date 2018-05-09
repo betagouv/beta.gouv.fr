@@ -20,7 +20,7 @@ mapping:
   "incubator":
     type:      str
     required:  yes
-    assert:    "['dinsic','mtes','pole-emploi','sgmas'].include?(val)"
+    assert:    "['dinsic','mtes','pole-emploi','sgmas', 'innolab-62'].include?(val)"
   "link":
     type:      str
   "repository":
