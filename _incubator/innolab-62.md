@@ -1,6 +1,6 @@
 ---
 title: Innolab 62
-owner: Département du Pas de Calais
+owner: Département du Pas-de-Calais
 website:
 github:
 contact: mailto:boschi.gilles@pasdecalais.fr
