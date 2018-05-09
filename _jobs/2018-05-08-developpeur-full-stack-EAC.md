@@ -18,7 +18,7 @@ Pour les acteurs culturels (associations, lieux, publics ou privés,…), cette 
 Vous serez en charge de construire le service pour les usagers. Les choix technologiques sont ouverts parmi les solutions libres du marché. Vous participez à la conception, aux études terrain, aux tests utilisateur avec les intrapreneurs qui portent le produit.
 
 Vous serez entièrement en charge des développements de l’administration système au CSS, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, de monitoring. Vous êtes en mesure de jouer sur deux tableaux :
-- L'exploration : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
+- L’exploration : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
 - L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
 
 ## Compétences
