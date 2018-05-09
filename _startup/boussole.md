@@ -12,8 +12,8 @@ stats: false
 contact: contact@boussole.beta.gouv.fr
 ---
 
-Abandon
--------
+## Abandon
+
 Nous avons accompagné la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> dans les phases d’investigation et de construction du service « Boussole de droits » entre 2016 et 2017. Nous avons mis fin à cette collaboration en juillet 2017.
 
 La phase d’investigation nous a permis de comprendre le problème : les jeunes n’ont pas recours aux services qui existent pour trouver un logement, un emploi ou une formation. Plusieurs services (association, service public…) offrent des solutions, mais les utilisateurs ne savent pas exactement ce qu’ils font/ à quoi ils servent, ou comment ils peuvent les aider.
@@ -44,8 +44,7 @@ Le service est aujourd'hui disponible sur [boussole.jeunes.gouv.fr](boussole.jeu
 Le code source que nous publions [ici](https://github.com/betagouv/boussole) correspond à une branche abandonnée, le produit actuellement en service n'est pas à notre connaissance ouvert sous une licence libre.
 
 
-La fiche produit publiée en 2016
--------
+## La fiche produit publiée en 2016
 
 Depuis 2013, un travail d’analyse et d’étude a été mené par la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> et le <abbr title="direction interministérielle du numérique et du système d'information et de communication de l'État">DINSIC</abbr> sur 2 territoires pilotes (Reims et Rennes), pour identifier les besoins des jeunes dans leur accès à l’information et les attentes des professionnels de l’Information Jeunesse en ce qui concerne l’évolution de leur pratique.
 
