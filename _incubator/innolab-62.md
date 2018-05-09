@@ -2,7 +2,7 @@
 title: Innolab 62
 owner: Département du Pas de Calais
 website:
-github: 
+github:
 contact: mailto:boschi.gilles@pasdecalais.fr
 address:  16 place de la Préfecture, 62000 Arras
 ---
