@@ -2,19 +2,14 @@ startups_in: startups under
 incubation:
   construction:
     name: construction
-    description: A team of two to four has been formed to hash out a viable solution.
   consolidation:
     name: consolidation
-    description: Initial users are enjoying actual benefits from the service, which expands its reach to new users.
 endgame:
   success:
     name: live
-    description: The service has been fully entrusted to the care of a public sector body.
   retirement:
     name: retired
-    description: Changes in technology, regulation or usage have made the service obsolete. It has been shut down by the public body responsible for it.
   death:
     name: abandoned
-    description: The service has been discontinued while under construction. A post-mortem has been conducted to extract value from the experiment.
 comingsoon:
   name: survey
