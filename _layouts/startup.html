@@ -25,7 +25,7 @@ layout: default
                 <li>Le porteur administratif est {{ page.owner }}.</li>
                 {% assign incubator_id = page.incubator | prepend: '/incubateur/' %}
                 {% assign incubator = site.incubator | where:'id',incubator_id | first %}
-                <li>L'incubateur est <a href="{{ incubator.link }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.</li>
+                <li>L'incubateur est <a href="{{ incubator.url }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.</li>
                 <li>Le produit est <em>{{ status | strip }}</em>, il
                     {% if page.link %}
                         est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.
