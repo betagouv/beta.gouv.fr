@@ -7,6 +7,7 @@ end: 2018-05-09
 employer: independent/Sogilis Lyon
 startups:
     - eac
+        inactive
 ---
 
 Ergonome, j'observe les comportements des utilisateurs pour identifier les usages et créer des interfaces utiles.
