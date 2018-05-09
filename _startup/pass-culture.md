@@ -3,7 +3,7 @@ title : Pass Culture
 mission: Faciliter l'accès des jeunes à la culture
 owner: Ministère de la Culture
 incubator: dinsic
-status: investigation
+status: construction
 start: 2017-12-01
 end:
 link:
