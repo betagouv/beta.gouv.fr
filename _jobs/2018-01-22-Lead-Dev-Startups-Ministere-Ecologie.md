@@ -26,7 +26,7 @@ Vous êtes entièrement en charge des développements de l’administration syst
 
 Vous êtes en mesure de jouer sur 2 tableaux :
 
-- La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
+- L’exploration : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
 - L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
 
 ## Compétences
