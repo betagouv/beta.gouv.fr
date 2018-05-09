@@ -2,7 +2,7 @@
 title: Lapins
 mission: Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité
 owner: Département du Pas-de-Calais
-incubator: Innolab62
+incubator: innolab-62
 status: investigation
 start: 2018-01-18
 end: 2018-07-18
