@@ -25,7 +25,9 @@ Vous participez à la conception, aux études terrain, aux tests utilisateur ave
 Vous est libre dans le choix et la mise en place de la stack technique.
 
 Vous êtes entièrement en charge des développements de l’administration système au CSS, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, de monitoring.
+
 Vous êtes en mesure de jouer sur 2 tableaux :
+
 - L’exploration : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
 - L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
 
