@@ -16,30 +16,30 @@ contact: contact@boussole.beta.gouv.fr
 
 Nous avons accompagné la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> dans les phases d’investigation et de construction du service « Boussole de droits » entre 2016 et 2017. Nous avons mis fin à cette collaboration en juillet 2017.
 
-La phase d’investigation nous a permis de comprendre le problème : les jeunes n’ont pas recours aux services qui existent pour trouver un logement, un emploi ou une formation. Plusieurs services (association, service public…) offrent des solutions, mais les utilisateurs ne savent pas exactement ce qu’ils font/ à quoi ils servent, ou comment ils peuvent les aider.
+La phase d’investigation nous a permis de comprendre le problème : les jeunes n’ont pas recours aux services qui existent pour trouver un logement, un emploi ou une formation. Plusieurs services (association, service public…) offrent des solutions, mais les utilisateurs ne savent pas ce qu’ils font, à quoi ils servent, ou comment ils peuvent les aider.
 
-Avec les premiers tests, nous avons découvert que nos utilisateurs étaient prêts à laisser leur coordonnées en contre partie de la garantie d'être rappeler rapidement. Il fallait donc que tous les services disponibles sur notre produit s’engagent à recontacter les jeunes dans un délai maximal de deux semaines.
+Avec les premiers tests, nous avons découvert que nos utilisateurs étaient prêts à laisser leurs coordonnées en contrepartie de la garantie d'être rappelés rapidement. Il fallait donc que tous les services référencés sur notre produit s’engagent à recontacter les jeunes dans un délai maximal de deux semaines.
 
-Les gros défis n’étaient pas d’ordre technique, mais organisationnel. Plusieurs acteurs devaient se coordonner pour définir ensemble quels services étaient les plus pertinents en fonction des profils de nos utilisateurs. L’enjeu principal était d’animer une communauté de professionnel dans chaque territoire pour coordonner leurs offres.
+Les gros défis n’étaient pas d’ordre technique, mais organisationnel. Plusieurs acteurs devaient se coordonner pour définir ensemble quels services étaient les plus pertinents en fonction des profils de nos utilisateurs. L’enjeu principal était d’animer une communauté des professionnel·le·s dans chaque territoire pour coordonner leurs offres.
 
-On a donc développé un produit qui, sur le territoire de Reims, permettait à un jeune d’entrer en contact avec le professionnel qui pouvait l’aider à trouver un logement ou un emploi, avec la garantie d’être contacté en moins de deux semaines.
+On a donc développé un produit qui, sur le territoire de Reims, permettait à un·e jeune d’entrer en contact avec les professionnel·le·s qui pouvaient l’aider à trouver un logement ou un emploi, avec la garantie d’être contacté·e en moins de deux semaines.
 
-Au bout des 6 premiers mois on avait une solution qui répondait au problème : nous avions mis en relation une quinzaine de jeunes avec des professionnels qui les ont aidés dans leur recherche de logement ou d’emploi.
+Au bout des 6 premiers mois, nous avions une solution qui répondait au problème : une quinzaine de jeunes ont été contacté·e·s par des professionnels qui les ont aid·é·s dans leur recherche de logement ou d’emploi.
 
-Ces premiers utilisateurs nous sommes allés les chercher dans les cafés, les centres commerciaux, les universités…, et les suivants sont venus par le bouche-à-oreille.
+Ces premiers utilisateurs, nous sommes allés les chercher dans les cafés, les centres commerciaux, les universités…, et les suivants sont venus par le bouche-à-oreille.
 Nous n’avions pas encore trouvé les leviers de la traction : comment faire en sorte qu’un utilisateur arrive sur la Boussole ? C’était notre priorité.
 
 Nous n’avions pas non plus trouvé la façon de « charger » automatiquement les offres de service des acteurs sur le territoire pilote, pour outiller le déploiement à de nouveaux territoires.
 
-Au bout des six premiers mois, la DJEPVA a choisi d’accélérer le déploiement du service sans que nous n’ayons de solution aux problèmes de la traction et du déploiement.
+Au bout des six premiers mois, la DJEPVA a choisi d’accélérer le déploiement du service sans que nous ayons de solution aux problèmes de la traction et du déploiement.
 
-Toujours alignés sur la finalité, nous n’étions pas alignés sur la façon d’y arriver. Nous avons donc, d’un commun accord, décidé de mettre fin à notre collaboration.
+Toujours aligné·e·s sur la finalité, nous n’étions pas d'accord sur la façon d’y arriver. Nous avons donc, d’un commun accord, décidé de mettre fin à notre collaboration.
 
 Suite à cette expérience, nous avons notamment appris :
 - que l’autonomie de l’équipe n’était pas négociable ;
-- qu’il est nécessaire que l’intrapreneur soit séléctionné sur la base du volontariat, et non nommé par son administration pour gérer le produit.
+- qu’il est nécessaire que l’intrapreneur·e soit retenu·e sur la base du volontariat, et non désigné·e par son administration pour gérer le produit.
 
-Le service est aujourd'hui disponible sur [boussole.jeunes.gouv.fr](boussole.jeunes.gouv.fr). La proposition de valeur est toujours celle au contact de nos utilisateurs, mais l’application a changé, notamment pour être développée dans une technologie que maîtrise notre partenaire.
+Le service est aujourd'hui disponible sur [boussole.jeunes.gouv.fr](https://boussole.jeunes.gouv.fr/). La proposition de valeur est toujours celle créée au contact de nos utilisateurs, mais l’application a changé, notamment pour être développée dans une technologie que maîtrise notre partenaire.
 
 Le code source que nous publions [ici](https://github.com/betagouv/boussole) correspond à une branche abandonnée, le produit actuellement en service n'est pas à notre connaissance ouvert sous une licence libre.
 
