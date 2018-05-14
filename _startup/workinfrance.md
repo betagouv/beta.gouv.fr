@@ -8,7 +8,7 @@ start: 2017-10-26
 end:
 link: https://workinfrance.beta.gouv.fr
 repository: https://github.com/SocialGouv/work-in-france
-stats: false
+stats: true
 contact: contact@workinfrance.beta.gouv.fr
 ---
 
