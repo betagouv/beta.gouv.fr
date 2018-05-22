@@ -10,8 +10,6 @@ link: https://dossiersco.beta.gouv.fr
 repository: https://github.com/betagouv/dossiersco
 stats: false
 contact: pierre.de-maulmont@ac-paris.fr
-redirect_from:
-  - /startup/dossiersco
 ---
 
 DossierSCO est un produit de la startup [Open Académie](https://openacademie.beta.gouv.fr).
