@@ -9,7 +9,4 @@ startups:
   - open-academie
 ---
 
-Comme [chimère](https://fr.wikipedia.org/wiki/Chim%C3%A8re)
-au sens de Laurent Bossavit, je suis :
-- Batisseur et facilitateur.
-- Un Christophe Colomb et un galérien du code.
+Développeur sur [DossierSCO](https://www.dossiersco.fr)
