@@ -10,4 +10,4 @@ end: 2018-10-01 # date de fin de contrat au format ISO (AAAA-MM-JJ)
 employer: independent # dinsic ou independent/<employer> ou admin/<employer> ou service/octo
 startups:
     - pop # le nom du fichier de la startup dans le répertoire /_startup/ sans l'extension .md
-
+---
