@@ -2,15 +2,11 @@ startups_in: startups en
 incubation:
   construction:
     name: construction
-  consolidation:
-    name: consolidation
+  acceleration:
+    name: accélération
 endgame:
-  success:
-    singular: repris
-    name: reprises
-  retirement:
-    singular: fermé
-    name: fermées
+  consolidation:
+    name: en consolidation
   death:
     singular: abandonné
     name: abandonnées
