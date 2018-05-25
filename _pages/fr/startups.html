@@ -10,14 +10,9 @@ redirect_from:
   - /portefeuille
 ---
 
-
-{% assign endgame_counter = 0 %}
-{% for phase in site.data.fr.phases.endgame %}
-    {% assign temp = site.startup | where:'status', 'death' | size %}
-    {% assign endgame_counter = endgame_counter | plus: temp %}
-{% endfor %}
-
 {% assign death_counter = site.startup | where:'status', 'death' | size %}
+{% assign consolidation_counter = site.startup | where:'status', 'consolidation' | size %}
+{% assign endgame_counter = consolidation_counter | plus:death_counter %}
 
 <section id="startups" class="ui container">
     <h2 class="ui divider horizontal">Le portefeuille de Startup d'État</h2>

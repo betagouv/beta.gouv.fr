@@ -2,13 +2,11 @@ startups_in: startups under
 incubation:
   construction:
     name: construction
+  acceleration:
+    name: acceleration
+endgame:
   consolidation:
     name: consolidation
-endgame:
-  success:
-    name: live
-  retirement:
-    name: retired
   death:
     name: abandoned
 comingsoon:
