@@ -1,6 +1,7 @@
 .counter--incubation a {
     text-decoration: none;
     width: 100%;
+    color: inherit;
 }
 
 .counter--incubation, .counter--endgame {

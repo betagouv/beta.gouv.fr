@@ -25,12 +25,19 @@ body {
     color: #fff;
 }
 
-.presentation {
-    text-align: center;
+.row.centered {
+    justify-content: center;
+
 }
 
-.presentation .button {
-    margin-top: 2em;
+.presentation {
+    text-align: center;
+    padding: 5em 0;
+}
+
+.presentation a {
+    font-size: 1.2em;
+    margin: 2em 10px 0 10px;
 }
 
 .presentation img {
