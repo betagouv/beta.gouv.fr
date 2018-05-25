@@ -3,12 +3,17 @@ version: 2
 jobs:
   build:
     docker:
-       - image: circleci/ruby:2.4.2-browsers  # use the browsers variant image to have Java preinstalled as it is a dependency of html5validator
+       - image: circleci/node:8-stretch
+       - image: circleci/ruby:2.4.2-browsers # use the browsers variant image to have Java preinstalled as it is a dependency of html5validator
 
     steps:
       - checkout
       - restore_cache:
           key: dependency-cache-{{ checksum "Gemfile" }}
+
+      - run:
+          name: Install Node dependencies
+          command: npm install
 
       - run:
           name: Install Ruby dependencies
