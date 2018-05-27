@@ -6,7 +6,7 @@ link: https://raph.site # optionnel : lien vers une page perso externe. Effacer 
 github: rap2hpoutre
 start: 2018-06-25
 end: 2019-01-01
-employer: independant/octo
+employer: independent/octo
 startups:
     - eac
 ---
