@@ -6,6 +6,8 @@ github: bfriederich
 start: 2018-05-22
 end: 2018-12-22
 employer: independent/ey
+startups:
+    - perspectives
 ---
 
-Développeur sur MRS (méthode de recrutement par simulation)
+Développeur sur Perspectives
