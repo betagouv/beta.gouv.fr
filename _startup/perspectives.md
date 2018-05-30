@@ -5,7 +5,7 @@ owner: Pôle emploi
 incubator: pole-emploi
 status: construction
 start: 2018-05-02
-repository: https://github.com/StartupsPoleEmploi/mrs
+repository: https://github.com/StartupsPoleEmploi/perspectives
 stats: false
 contact: mickael.rizzi@pole-emploi.fr
 ---
