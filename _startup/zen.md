@@ -1,5 +1,5 @@
 ---
-title: La Bonne Actualisation
+title: Zen
 mission: Aider les demandeurs d’emploi qui cumulent emploi et chômage à être payé le bon montant d’allocation chômage chaque mois
 owner: Pôle emploi
 incubator: pole-emploi
@@ -19,7 +19,7 @@ Une actualisation erronée ou un mauvais envoi de document peut déclencher des 
 
 ## Vous actualisez en étant accompagné·e
 
-La Bonne Actualisation vous accompagne dans votre actualisation en prenant en compte votre situation spécifique :
+Zen vous accompagne dans votre actualisation en prenant en compte votre situation spécifique :
 - vous êtes assistante maternelle
 - vous êtes créateur d’entreprise
 - vous êtes intérimaire
@@ -28,8 +28,8 @@ La Bonne Actualisation vous accompagne dans votre actualisation en prenant en co
 
 ## Vous êtes payé·e le bon montant au bon moment
 
-La Bonne Actualisation aide les demandeurs d’emploi avec plusieurs employeurs à être payé le bon montant d’allocation chômage chaque mois.
-Un tableau de bord permet de renseigner tout au long du mois son activité pour chaque employeur, La Bonne Actualisation indique ensuite ce que l’on doit déclarer et quels documents il faut fournir à Pôle Emploi.
+Zen aide les demandeurs d’emploi avec plusieurs employeurs à être payé le bon montant d’allocation chômage chaque mois.
+Un tableau de bord permet de renseigner tout au long du mois son activité pour chaque employeur, Zen indique ensuite ce que l’on doit déclarer et quels documents il faut fournir à Pôle Emploi.
 
 
-**Vous actualisez ? Soyez accompagné !**
+**Avec Zen, fini les trop-perçus**
