@@ -9,6 +9,7 @@ end: 2018-10-01
 employer: independent
 startups:
     - la-bonne-actualisation
+    - perspectives
 ---
 
 J'accompagne des intrapreneurs et des product managers.
