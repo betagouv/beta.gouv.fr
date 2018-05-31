@@ -6,7 +6,7 @@ github: bastienCap
 start: 2018-04-24
 employer: independent/capgemini
 startups:
-    - la-bonne-actualisation
+    - zen
     - perspectives
 ---
 
