@@ -37,3 +37,5 @@ Dans sa version initiale, POP prendra soin de se substituer à toutes les bases 
 En complément, POP mettra à disposition des professionnels du Ministère, des régions et des musées sa propre interface en ligne permettant l'édition, la consolidation, la gestion et l'enregistrement de leurs données dans le réservoir.
 
 Les données de la POP seront rendues accessibles à la fois depuis un nouveau site institutionnel et réglementaire du Ministère de la Culture et depuis la plateforme data.gouv.fr, dans l'optique de valoriser le patrimoine par l'intermédiaire de services tiers, comme des services de cartographies, d'excursions, de tourisme, de visites culturelles virtuelles…
+
+(Source de l'image d'en-tête: [François Bernardin](https://commons.wikimedia.org/wiki/File:F54-Nancy-Maison-Schott-vitraux.jpg/) )
