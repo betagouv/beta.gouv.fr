@@ -104,6 +104,13 @@ layout: default
                             {% endif %}
 
                             {% if currentId == page.id %} {% comment %} where query doesn't work on id {% endcomment %}
+                                {%if author.end %}
+                                    {% capture timestampNow %}{{'now' | date: '%s'}}{% endcapture %}
+                                    {% capture timestampEnd %}{{author.end | date: '%s'}}{% endcapture %}
+                                    {%if timestampNow > timestampEnd %}
+                                            {% assign isInactive = true %}
+                                    {% endif %}
+                                {% endif %}
                                 {% include author.html description=author size='small' isInactive=isInactive %}
                             {% endif %}
                         {% endfor %}
