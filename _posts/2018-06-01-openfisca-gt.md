@@ -2,7 +2,7 @@
 
 Vos revenus actuels décideront-ils de vos aides sociales dans deux ans ?
 
-<!-- more -->
+<!--more-->
 
 ## Contexte
 
@@ -64,13 +64,13 @@ En parallèle des scénarii de réforme, nous avons créé un jeu de situations 
 
 Nous nous sommes finalement concentrés sur une réforme qui considère les revenus des 12 derniers mois comme base de ressources.
 
-![Comparaison de différentes bases ressources par cas types](/img/posts/comparaison_bases_ressources.png)
+![Comparaison de différentes bases ressources par cas types](/img/posts/2018-06-01_openfisca_comparaison_bases_ressources.png)
 
-![3 modes de calcul des aides au logement selon la période des revenus d’activité ](/img/posts/3_modes.png)
+![3 modes de calcul des aides au logement selon la période des revenus d’activité ](/img/posts/2018-06-01_openfisca_3_modes.png)
 
-![Temporalité de l’augmentation de l’aide au logement en cas de baisse de ressources (12 mois)](/img/posts/temporalite_al.png)
+![Temporalité de l’augmentation de l’aide au logement en cas de baisse de ressources (12 mois)](/img/posts/2018-06-01_openfisca_temporalite_al.png)
 
-![Prise en compte des données fiscales, hors revenus d’activité](/img/posts/donnees_fiscales.png)
+![Prise en compte des données fiscales, hors revenus d’activité](/img/posts/2018-06-01_openfisca_donnees_fiscales.png)
 
 > AL_MM01 correspond au calcul des aides au logement basé sur les revenus d’activité du mois M-1.  
 AL_MM03 correspond au calcul des aides au logement basé sur les revenus d’activité du dernier trimestre.  
