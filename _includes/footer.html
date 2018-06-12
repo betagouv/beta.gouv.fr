@@ -1,16 +1,16 @@
-<div class="footer-space"></div>
-
-<div class="footer-main">
-    {% if page.ref != 'abonnement' %}
-    <div class="ui container subscribe">
-        {% include subscribe.html %}
-    </div>
-    {% endif %}
-
-    <div class="links">
+<footer class="footer">
+    <div class="container">
+        <div class="footer__logo">
+            <img src="../img/logo-betagouv-white.svg" alt="Logo beta.gouv.fr">
+            <ul class="footer__social">
+                <li><a href="https://twitter.com/betagouv" title="Twitter"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+                <li><a href="https://github.com/beta.gouv.fr" title="Github"><svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg></a></li>
+            </ul>
+        </div>
         {% capture nav %}{% include footer-nav.md %}{% endcapture %}
         {{ nav | markdownify }}
         {% capture nav-external %}{% include footer-nav-external.md %}{% endcapture %}
         {{ nav-external | markdownify }}
+        </ul>
     </div>
-</div>
+</footer>

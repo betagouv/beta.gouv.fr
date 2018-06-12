@@ -1,0 +1,22 @@
+{
+  "name": "beta.gouv.fr",
+  "version": "1.0.0",
+  "description": "Le site public de l'Incubateur de Services Numériques de l'État français.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betagouv/beta.gouv.fr.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/betagouv/beta.gouv.fr/issues"
+  },
+  "homepage": "https://github.com/betagouv/beta.gouv.fr#readme",
+  "dependencies": {
+    "template.data.gouv.fr": "^1.0.0"
+  }
+}
