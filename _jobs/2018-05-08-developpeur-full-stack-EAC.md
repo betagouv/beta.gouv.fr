@@ -2,7 +2,7 @@
 roles: un·e dev web full-stack freelance
 startup: eac
 techno: Choix technologiques ouverts parmi les solutions libres du marché
-open: true
+open: false
 ---
 
 La Plateforme Éducation Artistique et Culturelle cherche un·e dev full-stack pour construire la plateforme de mise en relation des établissements scolaires et des structures culturelles, afin de faciliter le développement d’actions en commun.

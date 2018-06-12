@@ -7,7 +7,7 @@ status: construction
 start: 2018-04-01
 end:
 link:
-repository:
+repository: https://github.com/betagouv/eac
 stats: false
 contact: pass@culture.gouv.fr
 ---

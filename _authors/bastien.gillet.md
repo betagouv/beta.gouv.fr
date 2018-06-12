@@ -6,7 +6,8 @@ github: bastienCap
 start: 2018-04-24
 employer: independent/capgemini
 startups:
-    - la-bonne-actualisation
+    - zen
+    - perspectives
 ---
 
 Designer depuis plus de 8 ans. J'aime que les choses soient claires, simples et esthétiques.

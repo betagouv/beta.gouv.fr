@@ -2,7 +2,7 @@
 roles: un·e dev web full-stack en CDD
 startup: mes-aides
 techno: JavaScript / Python
-open: true
+open: false
 ---
 
 Mes Aides cherche un·e dev web full-stack. Venez aider des dizaines de milliers de personnes à se renseigner sur leurs droits chaque jour !
