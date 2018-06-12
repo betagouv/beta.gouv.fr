@@ -21,14 +21,14 @@ layout: default
         </div>
 
         <div class="content">
+            <p class="ui description text container">Le produit est <em>{{ status | strip }}</em>, il
+                {% if page.link %}
+                    est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.
+                {% else %}
+                    <em>n'est pas encore accessible au public.</em>
+                {% endif %}
+            </p>
             <ul class="ui description text container">
-                <li>Le produit est <em>{{ status | strip }}</em>, il
-                    {% if page.link %}
-                        est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.
-                    {% else %}
-                        <em>n'est pas encore accessible au public.</em>
-                    {% endif %}
-                </li>
                 <li>Les statistiques d'usage
                     {% if page.stats %}
                         <a href="{{ page.link | strip }}/stats" title="Statistiques de {{ page.title }}">sont disponibles.</a>

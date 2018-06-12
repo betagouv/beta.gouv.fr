@@ -9,7 +9,3 @@
 .card .startup-header {
     text-align: center;
 }
-
-.card .content .description li:nth-child(1) {
-    margin-bottom: 1em;
-}
