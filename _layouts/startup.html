@@ -4,8 +4,10 @@ layout: default
 {% capture status %}
     {% if site.data.fr.phases.incubation[page.status].name %}
         en {{ site.data.fr.phases.incubation[page.status].name }}
+    {% elsif site.data.fr.phases.endgame[page.status].name %}
+        {{ site.data.fr.phases.endgame[page.status].name }}
     {% else %}
-        {{ site.data.fr.phases.endgame[page.status].singular }}
+	{{ site.data.fr.phases.investigation.name }}
     {% endif %}
 {% endcapture %}
 <div class="ui container padded">
