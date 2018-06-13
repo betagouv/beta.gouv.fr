@@ -1,3 +1,3 @@
-L’équipe lance une solution le plus rapidement possible et la teste auprès de premiers usagers.
+__L’équipe lance une solution le plus rapidement possible et la teste auprès de premiers usagers__
 
 L’administration a libéré l'intrapreneur et validé un budget pour une équipe. Cette équipe de 2 à 4 personnes constitue dès lors une Startup d’État autonome. Sans cahier des charges, elle lance un service fonctionnel dès les premiers mois de travaux, quitte à ce qu’il ne réponde pas encore à tous les cas de figures. Développée à coûts réduits par une équipe bénéficiant d’une confiance maximale (elle est responsable de son budget, gère ses RH, choisit ses outils, etc.), la Startup d’État se confronte à de premiers usagers pour tester son produit. Au terme de cette phase, l’administration porteuse prend la décision de refinancer le service si son utilité réel a été prouvée lors de l’expérimentation.
