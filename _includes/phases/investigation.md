@@ -1,5 +1,3 @@
-Un <abbr title="D’un ministère ou d’un opérateur.">agent public</abbr> identifie une friction entre les usagers et son administration.
+__Un agent public ou une administration identifie un problème de politique publique__
 
-Attente, gaspillage, complexité, non-recours… Aidé par l'incubateur, l'agent public vérifie que cette friction concerne un public suffisamment large, qu’un outil numérique pourrait la faire disparaitre, et que les obstacles techniques sont surmontables. Son administration valide le recrutement d'un ou deux développeurs et du responsable de produit.
-
-Cette équipe de 2 à 4 personnes constitue dès lors une Startup d'État [autonome](/2016/11/28/equipes-autonomes.html).
+Files d’attentes, gaspillage, complexité administrative, non-recours… Aidé par l’incubateur, l’agent public ou l’administration porteuse vérifie que cette friction concerne un public suffisamment large, qu’un outil numérique pourrait la faire disparaitre, et que les obstacles techniques sont surmontables. Lorsque l’administration porteuse donne son feu vert pour financer les travaux, l’équipe de la Startup d’État est constituée autour de l’agent public, et la construction du service peut alors débuter.
