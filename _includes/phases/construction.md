@@ -1,5 +1,3 @@
-L’équipe cerne le besoin avec les usagers pilotes et fournit un premier produit qui les satisfait.
+__L’équipe lance une solution le plus rapidement possible et la teste auprès de premiers usagers__
 
-Cette promesse est élaborée de manière itérative et incrémentale. À l’aide de discussions, de prototypes papier et de code, l'équipe confirme ou infirme de nombreuses hypothèses à moindre coût. Une proposition de valeur qui résout un problème bien identifié est retenue. Toutes les deux semaines, la communauté des utilisateurs voit le service s'améliorer.
-
-La Startup d'État ouvre au public un service en mode <abbr title="Expérimental">bêta</abbr> qui répond à cette proposition de valeur.
+L’administration a libéré l'intrapreneur et validé un budget pour une équipe. Cette équipe de 2 à 4 personnes constitue dès lors une Startup d’État autonome. Sans cahier des charges, elle lance un service fonctionnel dès les premiers mois de travaux, quitte à ce qu’il ne réponde pas encore à tous les cas de figures. Développée à coûts réduits par une équipe bénéficiant d’une confiance maximale (elle est responsable de son budget, gère ses RH, choisit ses outils, etc.), la Startup d’État se confronte à de premiers usagers pour tester son produit. Au terme de cette phase, l’administration porteuse prend la décision de refinancer le service si son utilité réel a été prouvée lors de l’expérimentation.
