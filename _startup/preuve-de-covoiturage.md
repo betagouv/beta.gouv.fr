@@ -6,8 +6,6 @@ incubator: dinsic
 status: investigation
 start: 2018-06-04 
 end: 
-link: A définir
-repository: A définir 
 stats: false
 contact: margot.sanchez@beta.gouv.fr 
 ---
