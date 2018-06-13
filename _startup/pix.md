@@ -7,7 +7,7 @@ status: consolidation
 start: 2016-06-08
 end:
 link: https://pix.beta.gouv.fr
-repository: https://github.com/betagouv/pix-live
+repository: https://github.com/1024pix/pix/
 stats: false
 contact: contact@pix.beta.gouv.fr
 ---
