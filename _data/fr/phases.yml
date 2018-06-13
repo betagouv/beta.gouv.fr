@@ -8,7 +8,6 @@ endgame:
   consolidation:
     name: en consolidation
   death:
-    singular: abandonné
-    name: abandonnées
+    name: abandonné
 investigation:
     name: en investigation
