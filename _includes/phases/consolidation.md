@@ -1,5 +1,3 @@
-Les usagers d'administrations pilotes utilisent et répandent le service.
+__La Startup d’État devient un service public numérique national disponible pour tous les usagers.__
 
-Au niveau technique, la Startup d’État s’assure que la solution est fiable et répond à un nombre croissant de demandes. Sur le plan fonctionnel, les retours d'utilisateurs réels permettent d'améliorer le service en continu et de prendre en compte des cas spécifiques.
-
-La Startup d'État améliore et clarifie continuellement le service rendu à l'usager.
+L’accompagnement est terminé. La Startup d’État et son équipe quittent l’incubateur pour rejoindre l’administration porteuse ou pour devenir juridiquement autonome. Le produit n’est pas mis en maintenance ; au contraire, l’équipe est renforcée pour assurer l’exploitation et l’amélioration du service de manière pérenne, le support aux usagers et l’adaptation aux évolutions des besoins, des technologies ou des règlementations.
