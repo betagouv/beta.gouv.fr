@@ -9,5 +9,5 @@ endgame:
     name: consolidation
   death:
     name: abandoned
-comingsoon:
-  name: survey
+investigation:
+  name: investigation
