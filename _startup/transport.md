@@ -3,7 +3,7 @@ title: transport.data.gouv.fr
 mission: Rendre disponible, valoriser et améliorer les données transport
 owner: DGITM
 incubator: dinsic
-status: consolidation
+status: acceleration
 start: 2017-07-03
 end:
 link: https://transport.data.gouv.fr

@@ -3,7 +3,7 @@ title: Signaux Faibles
 mission: Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté
 owner: DINSIC
 incubator: dinsic
-status: consolidation
+status: acceleration
 start: 2014-05-15
 end:
 link:
