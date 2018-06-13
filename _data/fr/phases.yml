@@ -10,6 +10,5 @@ endgame:
   death:
     singular: abandonné
     name: abandonnées
-comingsoon:
-    singular: bientôt incubée
-    name: bientôt incubées
+investigation:
+    name: en investigation
