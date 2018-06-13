@@ -1,27 +1,14 @@
 startups_in: startups en
 incubation:
-  investigation:
-    name: investigation
-    description: Un agent public a identifié une friction entre les usagers et l'administration.
   construction:
     name: construction
-    description: Une équipe de 2 à 4 personnes a été formée pour tester une proposition de valeur.
-  consolidation:
-    name: consolidation
-    description: Des usagers sont satisfaits du service rendu, on le propose à de nouveaux publics.
-  passation:
-    name: passation
-    description: L'équipe et l'administration porteuse considèrent que le service est viable.
+  acceleration:
+    name: accélération
 endgame:
-  success:
-    singular: repris
-    name: reprises
-    description: Le service est opéré de manière pérenne par son repreneur institutionnel.
-  retirement:
-    singular: fermé
-    name: fermées
-    description: Les évolutions de la technologie, de la réglementation ou des usages ont rendu le service obsolète. Il a été fermé en lien avec les partenaires, les usagers et l'administration qui le portait.
+  consolidation:
+    name: en consolidation
   death:
     singular: abandonné
     name: abandonnées
-    description: Le service a été abandonné en cours de construction. L'abandon est expliqué pour capitaliser sur l'expérience accumulée.
+investigation:
+    name: en investigation

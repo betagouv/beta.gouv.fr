@@ -3,7 +3,7 @@ title: Open Académie
 mission: Construire le lycée et le collège de demain
 owner: Ministère de l'Éducation nationale
 incubator: dinsic
-status: consolidation
+status: acceleration
 start: 2015-01-01
 end:
 link: https://openacademie.beta.gouv.fr
