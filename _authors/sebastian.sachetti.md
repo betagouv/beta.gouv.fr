@@ -5,11 +5,11 @@ start: 2017-04-10
 end: 2018-06-01
 employer: dinsic
 startups:
-    - mrs
+    - mrs:
         inactive
-    - pass-culture
+    - pass-culture:
         inactive
-    - plante-et-moi
+    - plante-et-moi:
         inactive
     - demarches-simplifiees.fr:
         inactive
