@@ -3,7 +3,7 @@ title: Le Taxi
 mission: Commander un taxi, rapidement
 owner: Ministère de la Transition écologique et solidaire
 incubator: dinsic
-status: consolidation
+status: acceleration
 start: 2015-03-15
 end:
 link: https://le.taxi
