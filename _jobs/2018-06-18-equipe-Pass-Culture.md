@@ -1,17 +1,17 @@
 ---
-roles: 3 développeur·se full-stack
+roles: 3 développeur·ses full-stack
 startup: pass-culture
 techno: React-Redux-Python-PostgreSQL
 open: true
 ---
 
-L'équipe produit du Pass Culture s'agrandit et recherche des développeur·ses fullstack expérimenté.es en CDI. Si vous voulez construire un outil mobile grand public qui facilite l’accès des jeunes au spectacle vivant, à la littérature ou encore à toutes les formes de pratiques culturelles, rejoignez-nous !
+L'équipe produit du Pass Culture s'agrandit et recherche des développeur.ses fullstack expérimenté.es en CDI. Si vous voulez construire un outil mobile grand public qui facilite l’accès des jeunes au spectacle vivant, à la littérature ou encore à toutes les formes de pratiques culturelles, rejoignez-nous !
 
 <!--more-->
 
 ## Pass Culture
 
-Depuis janvier, le Ministère de la Culture a lancé sa 1re Startup d’État, et pas la moindre : la politique d’accès à la culture pour les jeunes ! Venez rejoindre notre équipe pour développer et exploiter un service simple et pratique pour les usagers :
+Depuis janvier, le Ministère de la Culture a lancé sa 1re Startup d’État, et pas la moindre : la politique d’accès à la culture pour les jeunes ! Venez rejoindre notre équipe au sein de l'Association de Préfiguration du Pass pour développer et exploiter un service simple et pratique pour les usagers :
  * un portefeuille personnalisé des événements/pratiques/oeuvres culturelles disponibles pour les jeunes,
  * un back-office permettant aux acteurs culturels (directeurs de théâtre/producteurs/programmeurs/libraires…) de mettre en avant leurs offres.
 
