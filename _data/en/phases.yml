@@ -1,24 +1,13 @@
 startups_in: startups under
 incubation:
-  investigation:
-    name: investigation
-    description: A civil servant has identified a pain point affecting citizens dealing with government.
   construction:
     name: construction
-    description: A team of two to four has been formed to hash out a viable solution.
+  acceleration:
+    name: acceleration
+endgame:
   consolidation:
     name: consolidation
-    description: Initial users are enjoying actual benefits from the service, which expands its reach to new users.
-  passation:
-    name: handover
-    description: The team and the public body responsible for the service are satisfied of its viability.
-endgame:
-  success:
-    name: live
-    description: The service has been fully entrusted to the care of a public sector body.
-  retirement:
-    name: retired
-    description: Changes in technology, regulation or usage have made the service obsolete. It has been shut down by the public body responsible for it.
   death:
     name: abandoned
-    description: The service has been discontinued while under construction. A post-mortem has been conducted to extract value from the experiment.
+investigation:
+  name: investigation
