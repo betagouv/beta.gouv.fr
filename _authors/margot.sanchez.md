@@ -7,4 +7,5 @@ employer: independent/octo
 avatar: /img/authors/margot.sanchez.jpg
 startups:
     - transport
+    - preuve-de-covoiturage
 ---
