@@ -1,8 +1,8 @@
 ---
 fullname: Ivan Collombet
-role: Responsable de produit
+role: Mentor
 start: 2017-01-01
-end: 2018-06-15
+end: 2018-12-31
 employer: dinsic
 startups:
     - demarches-simplifiees.fr
@@ -11,6 +11,7 @@ startups:
     - reso
     - signaux-faibles
     - lapins
+    - competences-cles
 ---
 
 Expérimente le marketing GtoG
