@@ -3,7 +3,7 @@ title: Compétences clés
 mission: Détecter massivement et orienter correctement les personnes ayant des déficits en compétences clés
 owner: Haut Commissaire à la Transformation des Compétences
 incubator: dinsic
-status: investigation
+status: construction
 start: 2018-06-06
 end:
 link:
