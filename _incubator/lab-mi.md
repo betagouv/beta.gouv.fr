@@ -4,9 +4,9 @@ owner: Ministère de l'Intérieur
 contact: mailto:philippe.bron@interieur.gouv.fr
 address: Immeuble Lumière – 40, avenue des Terroirs de France – 75012 Paris
 ---
+Le Lab MI est l'incubateur du Ministère de l'Intérieur. Il a pour mission de faire émerger de nouveaux services numériques selon les principes et méthodes des Startups d'Etat.
 
-Le Lab du MI a été lancé en 2018 suite à l'organisation d'un hackathon d'innovation au Ministère de l'Intérieur.
+Il a été créé en janvier 2018, suite au hackathon de lutte contre la fraude de décembre 2017 qui a sélectionné les deux premiers problèmes à résoudre.
 
-L'ambition du Lab MI est d'infuser une nouvelle culture de réalisation de services numériques au Ministère de l'Intérieur en s'appuyant sur les bonnes pratiques :
-- de démarche centrée sur les utilisateurs
-- de développement collaboratif et basé sur les nouvelles technologies
+Il est ouvert à toutes les Directions du ministère de l'Intérieur.
+
