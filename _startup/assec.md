@@ -26,8 +26,10 @@ ASSEC donne en trois clics une information légale en temps réel sur les restri
 ASSEC est une application web qui inclut un widget aisément intégrable dans d’autres sites, afin de capter les usagers là où ils recherchent actuellement cette information : sites des chambres d’agriculture, site des préfectures, site Propluvia, etc.
 ASSEC permettra que la réponse réelle à la sécheresse soit à la hauteur de ce pourquoi les arrêtés sécheresse sont conçus et concertés : un partage équitable de l’eau, avec le souci de minimiser l’impact économique des restrictions et de préserver les usages prioritaires (eau potable pour la consommation humaine, besoins sanitaires et de défense incendie) et les milieux naturels.
 
-## Un outil à développer pas à pas
+## Un outil développé pas à pas
 
-Nous développons une version beta dans le Var, département fréquemment concerné par la sécheresse. Ce premier pas offrira un service utile qui correspond aux besoins de communautés d’irrigants qui dépendent d’une même ressource en eau, toutes cultures confondues.
-Il sera testé en conditions réelles lors de la sécheresse estivale 2018. A l’issue, nous pourrons évaluer la satisfaction des usagers quant au service rendu et apprécier son impact sur les pratiques.
-Les perspectives d’extension géographique intéressent un territoire quasi-national. Chaque territoire présente des spécificités qui appellent des adaptations, parallèlement à la constitution d’une communauté d’utilisateurs. D’ores et déjà, les acteurs qui souhaitent bénéficier du déploiement d’ASSEC sur leur territoire peuvent nous contacter !
+Un produit minimum viable a été développé dans le Var, département fréquemment concerné par la sécheresse. Ce premier pas offrait un service utile correspondant aux besoins de communautés d’irrigants qui dépendent d’une même ressource en eau, toutes cultures confondues.
+
+# Abandon
+
+Le déploiement d'ASSEC dans d'autres départements n'a pas trouvé de financement. Le produit minimum viable reste accessible en mode off-line, le travail réalisé a été documenté, et le code ouvert, dans la perspective de moderniser à l'avenir les outils de communication sur la sécheresse.
