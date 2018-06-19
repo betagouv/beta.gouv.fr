@@ -19,10 +19,10 @@ Depuis janvier, le Ministère de la Culture a lancé sa 1re Startup d’État, e
 
 L'équipe est déjà composée de trois développeurs full-stack et un designer. Ces derniers ont mis en place depuis le début de l'année un environnement Docker Nginx-Flask-Postgres + React-Redux pour accueillir l'application.
 
-Pour affronter la croissance vers les 800 000 usagers, nous avons besoin de muscler l'équipe et recherchons 3 informaticiens expérimentés et disponibles dès cet été :
-* un expert React-Redux développeur front-end
-* un responsable du futur module comptabilité & paiement (tenue de compte des bénéficiaires et des offreurs, paiements SEPA ..) 
-* un responsable des micro-services d'interconnexion avec les partenaires techniques de la culture (API billeteries, API agendas, API stocks physiques, API systèmes de caisse ...).
+Pour affronter la croissance vers les 800 000 usagers, nous avons besoin de muscler l'équipe et recherchons 3 renforts expérimenté.es et disponibles dès cet été :
+* un.e expert React-Redux développeur front-end
+* un.e responsable du futur module comptabilité & paiement (tenue de compte des bénéficiaires et des offreurs, paiements SEPA ..) 
+* un.e responsable des micro-services d'interconnexion avec les partenaires techniques de la culture (API billeteries, API agendas, API stocks physiques, API systèmes de caisse ...).
 
 ## Compétences et expérience
 
