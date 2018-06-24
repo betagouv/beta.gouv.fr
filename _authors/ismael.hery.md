@@ -11,4 +11,5 @@ startups:
     - plante-et-moi:
         inactive
     - open-academie
+    - dossiersco
 ---
