@@ -20,7 +20,7 @@ La difficulté d’accès à ces aides est même susceptible d’accentuer ou de
 
 ## Profil
 
-Vous êtes développeur full-stack, et voulez mettre vos compétences au profit de l’amélioration du service public ? 
+Vous êtes développ.eur.euse full-stack, et voulez mettre vos compétences au profit de l’amélioration du service public ? 
 
 Vous êtes à votre aise dans de petites équipes autonomes, agiles, et proches de leurs utilisateurs ?
 
