@@ -14,7 +14,7 @@ contact: guillaume.harry@beta.gouv.fr
 
 FranceConnect Agent permet aux agents du service public et aux élus d'utiliser un compte unique pour accéder aux services des différentes administrations et collectivités.
 
-# Abandon
+# Sortie du portefeuille des Startups d'État
 
 FranceConnect Agent est un service complémentaire à FranceConnect, la solution proposée par l'État pour simplifier la connexion aux services en ligne. FranceConnect n'est pas opéré selon les principes et les méthodes des Startups d'État, mais le lancement de FranceConnect Agent présentait l'occasion d'expérimenter : nous pensions pouvoir les appliquer pour accélérer la rencontre entre le produit et ses usagers.
 
