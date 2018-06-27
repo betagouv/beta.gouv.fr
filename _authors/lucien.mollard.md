@@ -7,4 +7,5 @@ end: 2018-09-30
 employer: independent/octo
 startups:
   - open-academie
+  - dossiersco
 ---
