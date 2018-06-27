@@ -26,7 +26,7 @@ Dans les prochains mois, les travaux d'expérimentation commenceront sur :
 
 Il s’agit donc d’intervenir :
 
-- Majoritairement sur une [base de code en Java](https://github.com/etalab/datatools-server) et en [JS](https://github.com/etalab/catalogue_ui)
+- Majoritairement sur une [base de code en Elixir](https://github.com/etalab/transport-site) et en [Rust](https://github.com/etalab/transport-validator)
 - Sur une [base de code](https://github.com/openmaraude/) en Python pour le.taxi.
 - Et de participer à la création de la communauté pour réussir ces objectifs.
 
