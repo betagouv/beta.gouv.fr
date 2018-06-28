@@ -16,7 +16,7 @@ C’est surtout un véritable casse-tête en raison de la myriade d’aides disp
 
 La difficulté d’accès à ces aides est même susceptible d’accentuer ou de générer des inégalités entre les territoires.
 
-[Aides-territoires](https://www.aides-territoires.beta.gouv.fr) s’adresse aux  agents des collectivités, de leurs chefs de projets,et des services de l’État. Le service leur permet d’effectuer une veille active sur les aides publiques disponibles pour leur projet d’aménagement et d’identifier en quelques clics les plus pertinentes.
+[Aides-territoires](https://www.aides-territoires.beta.gouv.fr) s’adresse aux  agents des collectivités, de leurs chefs de projets, et des services de l’État. Le service leur permet d’effectuer une veille active sur les aides publiques disponibles pour leur projet d’aménagement et d’identifier en quelques clics les plus pertinentes.
 
 ## Profil
 
@@ -42,7 +42,7 @@ Vous êtes entièrement en charge des développements, de l’administration sys
 - Expérience de l’écosystème technique web : test AB, analytics…
 - Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…)
 
-Pour en savoir plus : [Le repo github] (https://github.com/MTES-MCT/aides-territoires), choix technologiques à discuter.
+Pour en savoir plus : [Le repo github](https://github.com/MTES-MCT/aides-territoires), choix technologiques à discuter.
 
 ## Modalités
 
