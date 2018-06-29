@@ -3,7 +3,7 @@ title: API Géo
 mission: Interrogez les référentiels géographiques plus facilement
 owner: Etalab
 incubator: dinsic
-status: success
+status: consolidation
 start: 2015-01-01
 end:
 link: https://geo.api.gouv.fr

@@ -1,3 +1,1 @@
-Le service a été abandonné en cours de construction.
-
-L'abandon est expliqué pour capitaliser sur l'expérience accumulée.
+Le produit est peut-être encore actif, mais l’équipe qui l’opère n’obéit plus au [manifeste](/incubateurs)

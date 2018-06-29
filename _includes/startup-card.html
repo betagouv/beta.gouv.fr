@@ -60,6 +60,13 @@
                 {% endif %}
 
                 {% if currentId == shortid %}
+                    {%if author.end %}
+                        {% capture timestampNow %}{{'now' | date: '%s'}}{% endcapture %}
+                        {% capture timestampEnd %}{{author.end | date: '%s'}}{% endcapture %}
+                        {%if timestampNow > timestampEnd %}
+                                {% assign isInactive = true %}
+                        {% endif %}
+                    {% endif %}
                     <div class="ui tiny label {% if isInactive %}inactive{% endif %}">{{author.fullname}}</div>
                 {% endif %}
             {% endfor %}
