@@ -7,6 +7,9 @@ github: KevinAndre
 start: 2018-04-01
 end: 2018-10-01
 employer: independent
+startups:
+    - zen
+    - perspectives
 ---
 
 J'accompagne des intrapreneurs et des product managers.

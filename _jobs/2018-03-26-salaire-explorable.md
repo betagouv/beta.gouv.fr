@@ -7,7 +7,7 @@ open: false
 
 Nous cherchons un·e développeur·se pour nous aider à construire [le Simulateur d'Embauche](https://embauche.beta.gouv.fr).
 
-L'embauche dans le privé est un des sujets politiques les plus chauds du moment, et une embauche passe forcément par un salaire dont une grosse partie finance notre système de sécurité sociale. On veut donc expliquer et calculer au mieux les éléments en jeu : salaire total versé par l'employeur, salaire brut sur le contrat, salaire brut touché par le salarié, cotisations sociales...
+L'embauche dans le privé est un des sujets politiques les plus chauds du moment, et une embauche passe forcément par un salaire dont une grosse partie finance notre système de sécurité sociale. On veut donc expliquer et calculer au mieux les éléments en jeu : salaire total versé par l'employeur, salaire brut sur le contrat, salaire brut touché par le salarié, cotisations sociales…
 
 <!--more-->
 
@@ -15,7 +15,7 @@ Bientôt, nous allons ajouter le salaire net après impôts, permettre la simula
 
 Notre objectif : un service public d’information simple, gratuit et fiable qui fluidifie les embauches.
 
-# Rôle
+## Rôle
 
 Tu rejoindras une équipe autonome composée pour l’instant de 1.97 personnes (un dev à 4/5e, un autre dev à temps un peu variable, un responsable des partenariats).
 
@@ -23,7 +23,7 @@ On développe des [explications explorables](http://explorabl.es) de ce qu’est
 
 On s'attend à ce que tu sois rapidement à l’aise dans notre bac à sable ; on pense à une personne plutôt expérimentée, mais l’état d’esprit est plus important que le CV.
 
-# Modalités
+## Modalités
 
 Poste ouvert à un·e indépendant·e, pour une mission initale de 3 mois. Télétravail partiel bienvenu, avec une présence régulière à Paris. 3/5es minimum.
 

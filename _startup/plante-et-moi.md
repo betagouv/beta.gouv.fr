@@ -1,7 +1,7 @@
 ---
 title: Plante & Moi
 mission: Augmenter la présence de la nature en ville
-owner: Ministère de la Transition écologique et solidaire
+owner: Direction Interministérielle du Numérique et du Système d'Information et de Communication de l'État 
 incubator: dinsic
 status: construction
 start: 2016-10-01
@@ -24,16 +24,16 @@ __Plante & moi est donc un outil numérique permettant de faciliter la végétal
 
 Pour ces dernières, il permettra :
 
-* de cartographier l’univers des possibles en recensant les zones favorables en fonction des contraintes (voiries, réseaux souterrains, largeur de trottoir par exemple) et des opportunités (quartiers et espaces ciblés…),
-* de guider le demandeur dans son projet, avant, pendant et après sa demande,
-* de recevoir et traiter des dossiers de permis de végétaliser, de suivre dans la durée l’ensemble des projets et des efforts de végétalisation (chaque espace, projet de végétalisation localisé avec toutes les informations le caractérisant).
+- de cartographier l’univers des possibles en recensant les zones favorables en fonction des contraintes (voiries, réseaux souterrains, largeur de trottoir par exemple) et des opportunités (quartiers et espaces ciblés…),
+- de guider le demandeur dans son projet, avant, pendant et après sa demande,
+- de recevoir et traiter des dossiers de permis de végétaliser, de suivre dans la durée l’ensemble des projets et des efforts de végétalisation (chaque espace, projet de végétalisation localisé avec toutes les informations le caractérisant).
 
 
 Et pour les particuliers, il s’agira :
 
-* de trouver où planter, quoi planter et comment planter près de chez soi en quelques clics,
-* de recevoir des conseils de plantation et d’entretien au fil des saisons,
-* de voir ce que font les voisins, se donner des idées et se motiver.
+- de trouver où planter, quoi planter et comment planter près de chez soi en quelques clics,
+- de recevoir des conseils de plantation et d’entretien au fil des saisons,
+- de voir ce que font les voisins, se donner des idées et se motiver.
 
 Nous travaillons avec les villes de __Amiens__, __Arles__, __Dijon__, __Romainville__ et __Malakoff__.
 
