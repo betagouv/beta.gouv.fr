@@ -1,5 +1,5 @@
 ---
-title: Site de signalement
+title: Signalement
 mission: Faire baisser le nombre d'anomalies rencontrées par les consommateurs
 owner: DGCCRF
 incubator: dinsic
