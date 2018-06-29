@@ -28,7 +28,7 @@ L'outil permettra à chaque consommateur de signaler directement les anomalies c
 
 En dernier ressort, les enquêteurs de la DGCCRF exploiteront les données pour intervenir auprès des professionnels et cibler leurs contrôles.
 
-L’impact social recherché est une baisse significative des anomalies rencontrées par les consommateurs.
+L’impact social recherché est une baisse significative des anomalies rencontrées par les consommateurs et une responsabilisation accrue des professionnels..
 
 Une démarche pour les consommateurs
 ===================================
