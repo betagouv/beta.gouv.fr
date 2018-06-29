@@ -15,7 +15,7 @@ contact: magali.marcel@beta.gouv.fr
 Trop d'anomalies aujourd'hui ne sont pas remontées
 ===================================================
 
-Plus de 60 millions de consommateurs fréquentent quotidiennement près de 10 millions d'établissements. Et pour contrôler le droit des consommateurs ? Moins de 3 000 agents de la DGCCRF. https://www.economie.gouv.fr/dgccrf
+Plus de 60 millions de consommateurs fréquentent quotidiennement près de 10 millions d'établissements. Et pour contrôler le droit des consommateurs ? Moins de 3 000 agents de la [DGCCRF](https://www.economie.gouv.fr/dgccrf).
 
 Malgrè l'action des enquêteurs, toutes les anomalies ne peuvent pas être détectées, en particulier les plus mineures et récurrentes, qui pourtant irritent et lèsent les consommateurs dans leur quotidien (absence de prix dans un magasin, problème d’hygiène dans un restaurant..). 
 
