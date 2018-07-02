@@ -12,7 +12,7 @@ D’ici fin 2018, ce seront près de 4000 agents qui devront rejoindre le Minist
 ## Un mode de recrutement inadapté à un besoin urgent
 
 Le Ministère des Armées souffre de déficits de visibilité et d'attractivité pour le recrutement de ses personnels civils car il recrute à nouveau en masse et communique surtout sur les métiers relevant du personnel militaire.
-Qui plus est, le ministère éprouve des difficultés à pourvoir certaines filières alimentées majoritairement par des agents sous contrat qui connaissent une forte concurrence, tant au niveau interministériel que face au secteur privé. La priorité de recrutement concerne les spécialités rares ou en tension : technologies de l’information et de la communication, la conception et la gestion d’infrastructures ou encore le maintien en condition opérationnelle des matériels des armées.
+Qui plus est, le ministère éprouve des difficultés à pourvoir certaines filières alimentées majoritairement par des agents sous contrat qui connaissent une forte concurrence, tant au niveau interministériel que face au secteur privé. La priorité de recrutement concerne les spécialités rares ou en tension : numérique et cybersécurité, conception et gestion d’infrastructures ou encore maintien en condition opérationnelle des matériels des armées.
 
 Enfin, les processus internes de recrutement au sein du ministère font aujourd’hui intervenir de nombreuses entités : employeurs internes, services RH, services administratifs, etc. La multiplicité de ces acteurs et de leurs interactions rend le processus de recrutement long et et parfois opaque. Tellement que certains candidats sont parfois perdus en cours de processus faute d’information ou de réponses à des demandes légitimes.
 
