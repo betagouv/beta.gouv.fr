@@ -1,6 +1,6 @@
 ---
 title: Compétences clés
-mission: Détecter massivement et orienter correctement les personnes ayant des déficits en compétences clés
+mission: Évaluer en ligne les compétences clés à travers des mises en situation
 owner: Haut Commissaire à la Transformation des Compétences
 incubator: dinsic
 status: construction
@@ -14,57 +14,48 @@ contact: hubert.leveque@beta.gouv.fr
 
 ## Problème
 
-Il n’existe pas en France de dispositif de détection massif des compétences clés, or 2,5 millions de français sont en situation d’illettrisme, et au moins autant ont des déficits en compétences clés.
+On constate depuis plusieurs années l’appétence des entreprises pour recruter à partir non pas du CV mais des compétences, dont les compétences transversales (raisonnements et comportements mis en oeuvres lors de la réalisation d’actions, aussi appelés habiletés ou encore qualités professionnelles). Cette approche est particulièrement appréciée pour des embauches concernant des emplois peu qualifiés, et est également privilégiée par Pole emploi.
 
-Le seul dispositif certifiant existant est CléA, qui présente les problèmes suivants :
-- il est lourd (7 h), ce qui nécessite des investissement considérables : financier pour la société, en temps pour le candidat
-- or, bien que son but soit l’évaluation de compétences clés, on retrouve :
-    - 20 % de candidats surqualifiés qui n’auraient pas du être redirigés vers cette évaluation
-    - environ 5 % de candidats en situation d’illettrisme qui auraient du être orientés vers un autre dispositif. Ces personnes sont alors mises en situation d’échec et se retrouvent potentiellement bloquées car il est compliqué d’être redirigé vers une formation pertinente
-- ce dispositif devrait donc être réservé aux personnes pour lesquelles il est adapté, or un préfiltrage permettant de faire une attribution qualitative n’existe pas
+Mais les méthodes actuelles de détection de ces compétences présentent des limitations :
 
-De plus, chaque année, seulement 20 000 personnes suivent le dispositif CLéA, or on trouve dans des formations plus avancées (ex : CQP (Certificat de Qualification Professionnelle) opérateur) des personnes qui n’auraient pas le niveau CLéA, car elles ont été directement orientées vers ces formations par les DRH ou les évaluateur CQP.
+- se baser sur les compétences listées dans des fiches métiers, comme fait lors des entretiens Pole emploi, ne permet d’identifier qu’une partie des compétences d’une personne ; le dialogue entre le conseiller et le candidat est nécessaire pour un identifier d’autres, liées par exemple à des activités extra-professionnels. Dans les deux cas, la maîtrise de ces compétences est purement déclarative et n’est pas toujours fidèle à la réalité.
 
-On a donc besoin d’un dispositif de détection à grande échelle qui puisse détecter les profils suivants et les orienter correctement :
-- personnes en situation d’illetrisme
-- personnes maitrisant déjà les compétences clés
-- personnes pour lesquelles le dispositif CLéA est adapté
-- personnes pour lesquelles un autre dispositif de formation sur les compétences clés est adapté
+- la MRS (méthode de recrutement par simulation), très efficace et approuvée à la fois par les candidats et les entreprises, présente néanmoins quelques problèmes :
+  - seules les compétences transversales nécessaires à un poste précis sont évaluées lors d’une MRS, certaines peuvent donc ne pas être identifiées
+  - cette méthode n’est proposée que dans le cadre de recrutement en partenariat avec une entreprise alors qu’elle pourrait être effectuée de manière spontanée, afin qu’un candidat puisse valider ses compétences même s’il n’y a pas de besoin immédiat
+
+- CLéA, dispositif d’évaluation permettant de bien qualifier un grand nombre de compétences clés, n’est pas parfaitement adapté au besoin des entreprises :
+  - le spectre des connaissances évaluées est plus large que celui attendu par les entreprises pour les postes peu qualifiés
+  - l’évaluation est longue et assez scolaire ce qui rebute certains candidats
+  - ce sont des savoirs qui sont généralement évalués plus que des compétences à proprement parler
+  - enfin, les logiciels d’évaluation ont parfois une ergonomie perfectible
 
 # Solution
 
-Nous voulons mettre en place un dispositif de pré-évaluation, avec les caractéristiques suivantes :
+Nous allons donc créer un logiciel d’évaluation des compétences, à la fois transversales et clés, les plus proches des attentes des entreprises.
 
-- léger et facilement utilisable pour permettre un déploiement massif et éviter le frein à l’engagement que constitue la lourdeur du CLéA
+Notre logiciel se basera sur des mises en situation immersives  inspirées de la MRS, ce qui permettra d’une part d’évaluer de manière fidèle les compétences, mais aussi d’apporter un côté réaliste et ludique à notre évaluation, plus motivant qu’une approche scolaire.
 
-- une approche graduelle, qui permet entre autres de détecter rapidement les personnes en situation d’illettrisme
+Il ne se basera pas uniquement sur les résultats bruts des exercices, mais également sur l’extrapolation du raisonnement et des comportement mis en place par le candidat à partir des actions qu’il a effectuées. Cela permettra de confirmer la bonne mise en oeuvre des compétences évaluées.
 
-- un centrage sur les compétences “coeur” des compétences clés : mathématiques, communication, “apprendre à apprendre” et informatique, compétences les plus pertinentes pour un tel dispositif car relatives à la vie courante et nécessaires pour évoluer dans tout type de métier
+Les compétences évaluées seront non seulement les compétences transversales attendues par les entreprises, mais également les compétences clés qu’elles jugent indispensables.
 
-- une évaluation des compétences par mise en situation pour :
-    - mieux évaluer les compétences clés, qui sont mobilisées lors d’actions (contrairement aux savoirs)
-    - échapper aux freins à l’engagement constitués par la logique d’examen, l’évaluation sommative de savoirs et la faible prise en compte des compétences transversales
-
-- une évaluation qui ne tient pas uniquement compte du résultat final, mais on observe aussi la manière dont le candidat l'a obtenu, sa stratégie, ses comportements, afin d'avoir une meilleure analyse de ses capacités
+À l’issue de l’évaluation, le candidat se verra d’abord présenter les compétences qu’il maîtrise afin de le valoriser, et il sera encouragé à les mettre en avant lors de sa recherche d’emploi. Lui seront aussi présentées les compétences qu’il ne maîtrise pas, accompagnées de recommandations de formations présentées de manière encourageante pour le pousser à compléter son profil de compétences. Enfin, il pourra aussi être orienté vers d’autres évaluations, comme CLéA, ou des dispositifs plus ciblés comme la MRS.
 
 # Mesures d’impact
 
-L’impact social recherché est l’augmentation du nombre de compétences renforcées en France, une mesure d’usage plus réaliste est l’augmentation du nombre de détections de personnes avec des des déficits en compétences clés, donc, en particulier, un plus grand nombre de candidats à l’évaluation CLéA.
-
-D’un point de vue qualitatif, une baisse du taux d’échecs importants et une baisse du taux de validations directes à l’évaluation CLéA témoigneraient de l’efficacité de notre solution.
+L’impact social recherché est la diminution du nombre de personnes en recherche d’emploi en France, une mesure d’usage plus réaliste est l’augmentation du nombre d’inscrits en formation destinées aux personnes avec des déficits en compétences clés.
 
 # Mise en marché
 
 Les prescripteurs de notre solution seront dans un premier temps ceux qui prescrivent aujourd’hui des évaluations CLéA :
-- Conseillers en évolution professionnels
-- CIBC
-- Pole emploi
-- Missions locales
-- Cap emploi
-- DRH
-- etc.
 
-Nous allons tester notre solution d’abord dans les CIBC avec qui nous avons une relation particulière, avant d’étendre le dispositif à d’autres types d’acteurs.
+-  Conseillers en évolution professionnels
+-  CIBC
+-  Pole emploi
+-  Missions locales
+-  Cap emploi
+-  Chantiers d’insertion
+-  etc.
 
-L’avantage pour ces prescripteurs à utiliser notre solution est qu’elle leur permettra de mieux prescrire des parcours par une connaissance plus fine du profil du candidat.
-
+L’avantage pour ces prescripteurs à utiliser notre solution est qu’elle leur permettra d’identifier précisément les compétences d’un candidat attendues par les entreprises.
