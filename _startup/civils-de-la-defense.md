@@ -2,6 +2,7 @@
 title: Civils de la Défense
 mission: Recruter simplement des agents civils sous contrat
 owner: Ministère des armées
+incubator: dinsic
 status: construction
 start: 2018-06-01
 contact: chaker.bejaoui@beta.gouv.fr
