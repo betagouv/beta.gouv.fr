@@ -6,7 +6,6 @@ incubator: mtes
 status: death
 start: 2018-01-01
 end:
-link: https://aeris.beta.gouv.fr/
 repository: https://github.com/mtes-mct/aeris
 stats: false
 contact: jacob.carbonel@beta.gouv.fr
