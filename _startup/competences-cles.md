@@ -30,7 +30,7 @@ Mais les méthodes actuelles de détection de ces compétences présentent des l
   - ce sont des savoirs qui sont généralement évalués plus que des compétences à proprement parler
   - enfin, les logiciels d’évaluation ont parfois une ergonomie perfectible
 
-# Solution
+## Solution
 
 Nous allons donc créer un logiciel d’évaluation des compétences, à la fois transversales et clés, les plus proches des attentes des entreprises.
 
@@ -42,11 +42,11 @@ Les compétences évaluées seront non seulement les compétences transversales 
 
 À l’issue de l’évaluation, le candidat se verra d’abord présenter les compétences qu’il maîtrise afin de le valoriser, et il sera encouragé à les mettre en avant lors de sa recherche d’emploi. Lui seront aussi présentées les compétences qu’il ne maîtrise pas, accompagnées de recommandations de formations présentées de manière encourageante pour le pousser à compléter son profil de compétences. Enfin, il pourra aussi être orienté vers d’autres évaluations, comme CLéA, ou des dispositifs plus ciblés comme la MRS.
 
-# Mesures d’impact
+## Mesures d’impact
 
 L’impact social recherché est la diminution du nombre de personnes en recherche d’emploi en France, une mesure d’usage plus réaliste est l’augmentation du nombre d’inscrits en formation destinées aux personnes avec des déficits en compétences clés.
 
-# Mise en marché
+## Mise en marché
 
 Les prescripteurs de notre solution seront dans un premier temps ceux qui prescrivent aujourd’hui des évaluations CLéA :
 
