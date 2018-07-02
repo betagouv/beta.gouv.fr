@@ -8,9 +8,9 @@
 }
 
 #alumni ~ .author img {
-    filter: sepia(70%);
+    filter: grayscale(100%);
 }
 
 #alumni ~ .author img:hover {
-    filter: sepia(0%)
+    filter: grayscale(0%)
 }
