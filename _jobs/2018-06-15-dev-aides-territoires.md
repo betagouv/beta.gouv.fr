@@ -1,7 +1,7 @@
 ---
 roles: un·e dev fullstack
 startup: aides-territoires
-open: true
+open: false
 ---
 
 Aides-Territoires permet aux collectivités de trouver les aides publiques disponibles et pertinentes pour les projets d'aménagement durable.
