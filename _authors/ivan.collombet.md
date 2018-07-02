@@ -1,15 +1,17 @@
 ---
 fullname: Ivan Collombet
-role: Responsable de produit
+role: Mentor
 start: 2017-01-01
-end: 2018-06-15
-employer: dinsic
+end: 2019-06-31
+employer: independent/icc
 startups:
     - demarches-simplifiees.fr
     - api-drones:
         inactive
     - reso
     - signaux-faibles
+    - competences-cles
+    - signalement
     - lapins
 ---
 
