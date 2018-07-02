@@ -8,7 +8,7 @@ end:
 link: 
 repository: 
 stats: false
-contact: alexandre.dupont@beta.gouv.fr
+contact: nicolas.leyri@beta.gouv.fr
 ---
 # Le problème :
 En sept 2017, Le dispositif classe à 12 initié par le Ministère de l'éducation nationale a permis à plus de 2500 enseignants de se lancer dans l'expérimentation d'une classe à effectif réduit afin de favoriser la réussite des élèves en  éducation prioritaire.
