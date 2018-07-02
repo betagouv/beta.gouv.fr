@@ -2,3 +2,15 @@
     position: relative;
     height: 60vh;
 }
+
+#alumni {
+    margin: 6em 0 2em;
+}
+
+#alumni ~ .author img {
+    filter: sepia(80%);
+}
+
+#alumni ~ .author img:hover {
+    filter: sepia(0%)
+}
