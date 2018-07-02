@@ -8,7 +8,7 @@
 }
 
 #alumni ~ .author img {
-    filter: sepia(80%);
+    filter: sepia(70%);
 }
 
 #alumni ~ .author img:hover {
