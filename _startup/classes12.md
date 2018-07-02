@@ -2,6 +2,7 @@
 title: Classes à 12
 mission: Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves.
 owner: Ministère de l'Education Nationale
+incubator: dinsic
 status: construction
 start: 2018-06-01
 end:
