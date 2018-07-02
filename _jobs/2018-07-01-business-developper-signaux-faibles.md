@@ -16,7 +16,7 @@ Tu seras chargé·e de quatre missions principales :
 * être force de proposition pour mieux cibler l’accompagnement des entreprises.
 
 ## Type de poste
-* CDD ou stage de 3 à 4 mois, à partir du 1er septemble 2018.
+* CDD ou stage de 3 à 4 mois, à partir du 1er septembre 2018.
 * Poste basé à Dijon et intégré à l'équipe de la start-up
 * Déplacements en France à prévoir
 
