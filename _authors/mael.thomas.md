@@ -9,4 +9,4 @@ startups:
     - embauche
 ---
 
-Tombé par hasard dans un mélange de droit du travail, de la sécurité sociale et des impôts.
+Tombé par hasard dans un mélange des droits du travail, de la sécurité sociale et des impôts.
