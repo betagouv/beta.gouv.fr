@@ -61,4 +61,4 @@ Les prescripteurs de notre solution seront dans un premier temps ceux qui prescr
 -  Chantiers d’insertion
 -  etc.
 
-L’avantage pour ces prescripteurs à utiliser notre solution est qu’elle leur permettra d’identifier précisément les compétences d’un candidat attendues par les entreprises.
+L’avantage pour ces prescripteurs à utiliser notre solution est qu’elle leur permettra d’identifier précisément les compétences d’un candidat attendues par les entreprises et qu'elle leur proposera des orientations précises, non limitées à des remises à niveau.
