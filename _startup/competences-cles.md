@@ -1,5 +1,5 @@
 ---
-title: Compétences clés
+title: Compétences pro
 mission: Évaluer en ligne les compétences clés à travers des mises en situation
 owner: Haut Commissaire à la Transformation des Compétences
 incubator: dinsic
