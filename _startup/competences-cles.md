@@ -35,13 +35,13 @@ De plus, les méthodes actuelles de détection des compétences présentent des 
 
 ## Solution
 
-Nous allons donc créer un logiciel d’évaluation des compétences pro, habiletés et savoirs les plus proches des attentes des entreprises.
+Dans un premier temps, nous allons faire la synthèse des différents référentiels existants pour faire émerger un référentiel des compétences pro. Nous le ferons valider auprès de nos partenaires, comme Pole emploi.
 
-Notre logiciel se basera sur des mises en situation immersives  inspirées de la MRS, ce qui permettra d’une part d’évaluer de manière fidèle les compétences pro, mais aussi d’apporter un côté réaliste et ludique à notre évaluation, plus motivant qu’une approche scolaire.
+Nous créerons ensuite un logiciel d’évaluation d'une partie des compétences pro. Les compétences évaluées seront non seulement les habiletés attendues par les entreprises, mais également les savoirs qu’elles jugent indispensables, dont nous étudierons la mobilisation lors de mises en situation.
+
+Il reposera sur des mises en situation immersives  inspirées de la MRS, ce qui permettra d’une part d’évaluer de manière fidèle les compétences pro, mais aussi d’apporter un côté réaliste et ludique à notre évaluation, plus motivant qu’une approche scolaire.
 
 Il ne se basera pas uniquement sur les résultats bruts des exercices, mais également sur l’extrapolation du raisonnement et des comportement mis en place par le candidat à partir des actions qu’il a effectuées. Cela permettra de confirmer la bonne mise en oeuvre des compétences pro évaluées.
-
-Les compétences évaluées seront non seulement les habiletés attendues par les entreprises, mais également les savoirs qu’elles jugent indispensables.
 
 À l’issue de l’évaluation, le candidat se verra d’abord présenter les compétences pro qu’il maîtrise afin de le valoriser, et il sera encouragé à les mettre en avant lors de sa recherche d’emploi. Lui seront aussi présentées les compétences qu’il ne maîtrise pas, accompagnées de recommandations de formations présentées de manière encourageante pour le pousser à compléter son profil de compétences. Enfin, il pourra aussi être orienté vers d’autres évaluations, comme CLéA, ou des dispositifs plus ciblés comme la MRS.
 
