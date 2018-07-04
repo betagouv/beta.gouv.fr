@@ -39,7 +39,7 @@ Dans un premier temps, nous allons faire la synthèse des différents référent
 
 Nous créerons ensuite un logiciel d’évaluation d'une partie des compétences pro. Les compétences évaluées seront non seulement les habiletés attendues par les entreprises, mais également les savoirs qu’elles jugent indispensables, dont nous étudierons la mobilisation lors de mises en situation.
 
-Il reposera sur des mises en situation immersives  inspirées de la MRS, ce qui permettra d’une part d’évaluer de manière fidèle les compétences pro, mais aussi d’apporter un côté réaliste et ludique à notre évaluation, plus motivant qu’une approche scolaire.
+Il reposera sur des mises en situation immersives inspirées de la MRS, ce qui permettra d’une part d’évaluer de manière fidèle les compétences pro, mais aussi d’apporter un côté réaliste et ludique à notre évaluation, plus motivant qu’une approche scolaire.
 
 Il ne se basera pas uniquement sur les résultats bruts des exercices, mais également sur l’extrapolation du raisonnement et des comportement mis en place par le candidat à partir des actions qu’il a effectuées. Cela permettra de confirmer la bonne mise en oeuvre des compétences pro évaluées.
 
