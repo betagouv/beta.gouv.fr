@@ -11,6 +11,7 @@ startups:
     - reso
     - signaux-faibles
     - competences-pro
+    - trouve-ta-voie
     - signalement
     - lapins
 ---
