@@ -1,9 +1,17 @@
-# A Dock recrute un·e business developer en stage
-## Poste ouvert le 02/07/2018.
+---
+roles: une / un business developer
+startup: a-dock
+open: true
+---
+
+A Dock recrute un·e business developer en stage
+
+<!--more-->
 
 A Dock, l’outil qui simplifie les relations entre les transporteurs routiers et leurs clients, cherche un·e business developer pour renforcer son équipe de développement.
 
-**Qui sommes-nous ?**
+## Qui sommes-nous ?
+
 http://adock.beta.gouv.fr/ est une Startup d’État, accélérée par La Fabrique Numérique, l’Incubateur du Ministère de la Transition écologique et solidaire.
 Notre mission : simplifier les relations entre chargeurs et transporteurs français.
 En 6 petits mois d’existence, A Dock est devenu l’annuaire en ligne qui recense la totalité des transporteurs français, soit plus de 54 000 références ! 
@@ -14,7 +22,8 @@ L’objectif à moyen terme est de faire de A Dock la base de données de réfé
 Pour atteindre ces objectifs, nous recherchons un bizdev en herbe, déterminé à faire grandir A Dock le plus possible et toujours à l’écoute des utilisateurs.
  
  
-**Ta mission**
+## Ta mission
+
 Convertir et accompagner les transporteurs pour qu’ils soient présents sur A Dock
 Sauver les utilisateurs perdus et répondre à leurs interrogations
 Appeler les chargeurs bretons, présenter A Dock  et les convaincre de l’utilité du produit
@@ -25,7 +34,8 @@ Participer aux orientations stratégiques sur le produit et sur la proposition d
 
 Si tu souhaites faire changer les choses et construire un État doté d’outils pour faire face aux défis du XXIe siècle, alors rejoins-nous !
 
-**Conditions**
+## Conditions
+
 - Contrat : stage de 4 à 5 mois
 - Début de la mission : les dates sont à convenir avec l’agent intrapreneur Alexandre Dupont, entre juillet 2018 et décembre 2018.
 - Rémunération : 577,50 euros
