@@ -5,6 +5,8 @@ open: true
 ---
 [La start-up d'État Signaux Faibles](https://beta.gouv.fr/startup/signaux-faibles.html) est en phase de croissance et a besoin de toi pour déployer son dispositif dans les régions !  
 
+<!--more-->
+
 Le dispositif est opérationnel en Bourgogne Franche-Comté, lieu de naissance de l'expérimentation, et permet la détection et la prise en charge des entreprises fragilisées. Plusieurs régions ont d'ores et déjà manifesté leur souhait d'intégrer la démarche. Rejoins l'équipe Signaux-Faibles renforcée par le [programme des entrepreneurs d'intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/signauxfaibles/) qui assure le développement du produit.
 
 Ta mission : planifier le passage à l'échelle nationale de la start-up en accompagnant l'entrée des régions dans le dispositif et en facilitant les interactions transversales.
