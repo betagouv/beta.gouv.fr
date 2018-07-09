@@ -8,7 +8,7 @@ start: 2018-06-01
 contact: chaker.bejaoui@beta.gouv.fr
 ---
 
-D’ici fin 2018, ce seront près de 4000 agents qui devront rejoindre le Ministère des Armées, dont un tiers sous contrat. Ces volumes, la concurrence sur le marché du travail et les nouveaux modes de recrutement obligent à repenser la manière de recruter au sein du ministère.
+D’ici fin 2018, ce seront près de 4 000 agents qui devront rejoindre le Ministère des Armées, dont un tiers sous contrat. Ces volumes, la concurrence sur le marché du travail et les nouveaux modes de recrutement obligent à repenser la manière de recruter au sein du ministère.
 
 ## Un mode de recrutement inadapté à un besoin urgent
 
