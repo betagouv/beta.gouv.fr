@@ -10,7 +10,8 @@ startups:
         inactive
     - reso
     - signaux-faibles
-    - competences-cles
+    - competences-pro
+    - trouve-ta-voie
     - signalement
     - lapins
 ---
