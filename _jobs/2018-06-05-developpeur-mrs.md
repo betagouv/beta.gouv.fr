@@ -2,7 +2,7 @@
 roles: un·e développeur·se web
 startup: mrs
 techno: Python / Django
-open: true
+open: false
 ---
 
 MRS cherche un·e développeur·se pour un CDD ou un·e prestataire indépendant·e. Si vous avez déjà rempli le cerfa s3140 et pensez qu'on peut proposer une meilleure approche, venez nous rejoindre !
