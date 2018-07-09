@@ -38,7 +38,7 @@ Ces vidéos seront filmées par les enseignants, pour les enseignants, en condit
 
 Ce réseau a vocation à favoriser la réflexion et le travail collectif dans un climat de bienveillance et d’horizontalité, en tenant compte de la réalité des journées des enseignants.
  
-# # Les premières étapes :
+# Les premières étapes :
 Pour valider nos hypothèses et savoir ce qui fluidifiera le partage de partiques entre pairs, nous allons tester auprès d'enseignants et de communautés existantes la pertinence du format vidéo : 
 - l'intérêt des enseignants pour consulter, partager, commenter des contenus vidéos ; 
 - la volonté à se filmer soi-même pour partager des pratiques.
