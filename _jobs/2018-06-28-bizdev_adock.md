@@ -8,7 +8,7 @@ A Dock propose un stage un·e business developer
 
 <!--more-->
 
-A Dock, l’outil qui simplifie les relations entre les transporteurs routiers et leurs clients, propose un stage de un·e business developer pour renforcer son équipe.
+A Dock, l’outil qui simplifie les relations entre les transporteurs routiers et leurs clients, propose un stage en business développement pour renforcer son équipe.
 
 ## Qui sommes-nous ?
 
@@ -17,7 +17,8 @@ http://adock.beta.gouv.fr/ est une Startup d’État, accélérée par La Fabriq
 Notre mission : simplifier les relations entre chargeurs et transporteurs français.
 En 6 mois d’existence, A Dock est devenu l’annuaire en ligne qui recense la totalité des transporteurs français, soit plus de 54 000 références ! 
 
-Aujourd’hui, A Dock se déploie auprès des transporteurs pour qu’ils actualisent les informations sur leur fiche personnelle. - - Notre objectif est d’avoir plusieurs milliers de transporteurs qui valident leur fiche avant la fin de l’année.
+Aujourd’hui, A Dock se déploie auprès des transporteurs pour qu’ils actualisent les informations sur leur fiche personnelle. 
+- Notre objectif est d’avoir plusieurs milliers de transporteurs qui valident leur fiche avant la fin de l’année.
 - L’autre objectif de l’année porte sur l’utilisation du moteur de recherche par les chargeurs (clients des transporteurs), avec l’ambition d’avoir un taux d’utilisateurs de 50% auprès des chargeurs bretons (région de bêta test de A Dock).
 
 A terme, A Dock souhaite devenir la base de données de référence des transporteurs, avec un accès facile à l’ensemble des documents et données utiles à leurs transactions commerciales.
@@ -39,7 +40,7 @@ Si tu souhaites faire changer les choses et construire un État doté d’outils
 ## Conditions
 
 - Contrat : stage de 4 à 5 mois
-- Début de la mission : les dates sont à convenir avec l’agent intrapreneur Alexandre Dupont, entre juillet 2018 et décembre 2018.
+- Début de la mission : les dates sont à convenir avec l’intrapreneur Alexandre Dupont, entre juillet 2018 et décembre 2018.
 - Rémunération : 577,50 euros
 Le stage se déroulera à Rennes, dans les locaux de la DREAL Bretagne. Un bureau et l’ensemble du matériel informatique sera mis à ta disposition
 - Comment postuler ?
