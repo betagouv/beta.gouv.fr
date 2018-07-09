@@ -1,7 +1,7 @@
 ---
 title: Plante & Moi
 mission: Augmenter la présence de la nature en ville
-owner: Ministère de la Transition écologique et solidaire
+owner: Direction Interministérielle du Numérique et du Système d'Information et de Communication de l'État 
 incubator: dinsic
 status: construction
 start: 2016-10-01
