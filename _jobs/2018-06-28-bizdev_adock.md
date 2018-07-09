@@ -4,7 +4,7 @@ startup: a-dock
 open: true
 ---
 
-A Dock propose un stage un·e business developer
+Stage : Business developer pour A Dock
 
 <!--more-->
 
