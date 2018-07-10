@@ -12,9 +12,9 @@ Un mois et demi plus tard : 400 demandes de végétalisation, une surprise pour 
 
 L’équipe Plante et Moi a pu accompagner la ville d’Amiens sur le construction du programme. 
 
-A la fois pour accélérer la construction du programme en utilisant les expériences d’autres villes avec lesquelles nous travaillons comme Paris, Dijon, Arles, Malakoff, … . 
+A la fois pour accélérer la construction du programme en utilisant les expériences d’autres villes avec lesquelles nous travaillons comme Paris, Dijon, Arles, Malakoff, …
 
-La Startup fournit et héberge des outils numériques pour faire la demande pour le citoyen (accessible sur https://permisdefleurir.amiens.fr/) et ensuite un outil de suivi permettant à la mairie d’instruire. La mairie peut demande l’avis à ces différents services ( espaces verts, voirie et secteur ) et suivre l’ensemble des demandes.
+La Startup fournit et héberge des outils numériques pour faire la demande pour le citoyen (accessible sur [https://permisdefleurir.amiens.fr/](https://permisdefleurir.amiens.fr/)) et ensuite un outil de suivi permettant à la mairie d’instruire. La mairie peut demande l’avis à ces différents services ( espaces verts, voirie et secteur ) et suivre l’ensemble des demandes.
 
 
 ![Vue d’Amiens dans l’administration permettant d’avoir une carte de suivie des demandes
@@ -36,5 +36,5 @@ Au vue des résultats et croyant à la réussite du projet la DINSIC assure la c
 
 ## La suite ?
 
-Si cela correspond à vos missions ou si vous souhaitez augmenter la présence de la nature dans votre ville, contactez-nous sur : biodiversite@beta.gouv.fr
+Si cela correspond à vos missions ou si vous souhaitez augmenter la présence de la nature dans votre ville, contactez-nous sur : [biodiversite@beta.gouv.fr](mailto:biodiversite@beta.gouv.fr)
 
