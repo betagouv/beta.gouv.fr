@@ -6,7 +6,7 @@ La mairie accompagne les habitants en leur fournissant un bac en bois recyclé f
 
 Un mois et demi plus tard : 400 demandes de végétalisation ont été faites ! Une surprise pour la mairie qui ne s’attendait pas un tel engouement de la part des Amiénois.
 
-![Projet de fleurir à Amiens](/img/posts/2018-07-12-amiens-plante-et-moi-projet-amiens.jpg)
+![Projet de fleurir à Amiens](/img/posts/2018-07-12-amiens-plante-et-moi.jpg)
 
 ## Comment on ça marche ?
 
