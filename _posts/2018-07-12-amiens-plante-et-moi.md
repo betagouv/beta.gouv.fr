@@ -1,4 +1,7 @@
-# Ça pousse à Amiens grâce à Plante & Moi !
+---
+title: Ça pousse à Amiens grâce à Plante & Moi !
+authors: julien.dauphant
+---
 
 Dimanche 1e avril (ce n’est pas un poisson), Amiens a lancé le Permis de Fleurir, un dispositif permettant aux Amiénois de fleurir devant chez eux.
 <!--more-->
