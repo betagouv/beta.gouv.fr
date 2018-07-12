@@ -5,5 +5,5 @@ start: 2018-06-07
 end:  2018-10-30
 employer: admin/Académie de Créteil
 startups:
-  - Classes à 12
+  - classes12
 ---
