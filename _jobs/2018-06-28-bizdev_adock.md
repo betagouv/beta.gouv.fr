@@ -1,5 +1,5 @@
 ---
-roles: une / un business developer
+roles: une / un business developer en stage
 startup: a-dock
 open: true
 ---

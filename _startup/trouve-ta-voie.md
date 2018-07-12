@@ -9,14 +9,14 @@ end:
 link:
 repository:
 stats: false
-contact: ivan.collombet@beta.gouv.fr
+contact: pascal.chaumette@id6tm.org
 ---
 
 ## Problème
 
 80 000 jeunes sortent chaque année sans diplôme du système scolaire.  L'école n’a pu faire émerger leurs aspirations ni leur permettre de construire un projet professionnel. Accompagnés par les missions locales, nombre d’entre eux refusent les formations qui leur permettraient de s’insérer plus durablement dans l’emploi.
 
-Or, ils ont des compétences et des aspirations, qu’ils méconnaissent (eux-mêmes ?) et construites la plupart du temps en dehors de l’école.
+Or, ils ont des compétences et des aspirations, qu’ils méconnaissent et construites la plupart du temps en dehors de l’école.
  
 ## Solution
 
