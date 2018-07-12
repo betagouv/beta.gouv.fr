@@ -22,7 +22,7 @@ Enfin, les processus internes de recrutement au sein du ministère font aujourd�
 
 Civils de la Défense est un service numérique qui s'adresse principalement aux employeurs et aux candidats. 
 
-Pour le candidat, Civils de la Défense est un outil qui fournit une information complète, fiable et actualisée sur les offres d’emplois, les missions, les métiers et permettant aux futurs agents de  déposer leurs candidature aux offres du Ministère qu’ils soient jeunes diplômés ou confirmés.
+Pour le candidat, Civils de la Défense est un outil qui fournit une information complète, fiable et actualisée sur les offres d’emplois, les missions, les métiers et permettant aux futurs agents de  déposer leurs candidatures aux offres du Ministère qu’ils soient jeunes diplômés ou confirmés.
 
 Le service rassemble en un espace unique toutes les étapes-clés du recrutement d’un agent sous contrat ; assurant des informations fiables, centralisées, partagées pour simplifier le recrutement du futur agent ainsi que les échanges entre le candidat, l’employeur et les services RH.
 
