@@ -34,5 +34,5 @@ Vous serez en charge de concevoir (from scratch) le jeu vidéo, accompagné par 
 - Temps partiel accepté (80% minimum)
 - Télétravail partiel bienvenu
 
-Pour postuler, écrivez-nous à l'adresse [`vincent.somme@id6tm.org`](mailto: vincent.somme@id6tm.org) avec votre LinkedIn / CV.
+Pour postuler, écrivez-nous à l'adresse [`vincent.somme@id6tm.org`](mailto:vincent.somme@id6tm.org) avec votre LinkedIn / CV.
 
