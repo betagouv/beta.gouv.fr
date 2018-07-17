@@ -1,6 +1,6 @@
 ---
 roles: un·e lean UX designer
-open: true
+open: false
 ---
 
 Veux-tu prototyper, tester et implémenter en continu de super améliorations aux [startups d'État](https://beta.gouv.fr/startups/) ? On recrute un·e Lean UX Designer pour un CDD (6 mois) !

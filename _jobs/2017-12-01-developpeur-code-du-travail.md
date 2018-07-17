@@ -1,7 +1,7 @@
 ---
 roles: un·e dev web full-stack
 startup: Code du travail numérique
-open: true
+open: false
 startup: codedutravail
 techno: Choix technologiques ouverts parmi les solutions libres du marché
 ---
