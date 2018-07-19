@@ -1,7 +1,7 @@
 ---
-roles: un·e dev full-stack
+roles: un·e dev Python (si ReactJS un plus)
 startup: openfisca
-techno: Python / NumPy / ReactJS
+techno: Python / ReactJS
 open: true
 ---
 
@@ -11,7 +11,7 @@ Cela vous dit d'aider le parlement à simuler l'impact de la loi avant de la vo
 
 Cela vous dit de participer au déploiment en France et à l'international d'un logiciel libre avec une communauté de contributeurs qui grandit ?
 
-[OpenFisca](https://openfisca.org/fr/) recrute un·e dév full-stack Python / ReactJS pour un CDD (6 mois) !
+[OpenFisca](https://openfisca.org/fr/) recrute un·e dév Python (si ReactJS un plus) pour un CDD (6 mois) !
 
 <!--more-->
 
