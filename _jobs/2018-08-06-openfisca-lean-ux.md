@@ -54,6 +54,7 @@ Vos activités principales seront :
 ## Modalités
 
 - Poste ouvert pour un CDD vacataire de 6 mois.
+- La rémunération est établie en fonction du diplôme pour les jeunes diplômé·e·s, ou des 12 dernières fiches de paie.
 - Télétravail partiel bienvenu, avec une présence régulière à Paris 75007 (Ségur) pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification.
 - Démarrage dès que possible.
 

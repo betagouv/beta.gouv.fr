@@ -51,7 +51,8 @@ Et au moins :
 ## Votre profil
 
 - Vous êtes titulaire :
-    - d'un diplôme d’école de commerce ou universitaire de niveau BAC+5 dans le domaine de la gestion, du commerce, des sciences humaines ou de l’administration publique ; ou
+    - d'un diplôme d’école de commerce ou universitaire de niveau BAC+5 dans le domaine de la gestion, du commerce, des sciences humaines ou de l’administration publique ;
+    - d’un diplôme de niveau III ou d’un titre de niveau équivalent avec une spécialisation en matière de développement commercial et une expérience significative en matière de déploiement des services numériques ; ou
     - d’une expérience professionnelle équivalente.
 - Vous utilisez la phrase « le mieux est l'ennemi du bien » (80-20).
 - Les langues de travail sont l'anglais et le français. Un niveau d'expression professionnelle est demandé dans ces deux langues.
@@ -59,6 +60,7 @@ Et au moins :
 ## Modalités
 
 - Poste ouvert pour un CDD vacataire de 6 mois.
+- La rémunération est établie en fonction du diplôme pour les jeunes diplômé·e·s, ou des 12 dernières fiches de paie.
 - Télétravail partiel bienvenu, avec une présence régulière à Paris 75007 (Ségur) pour participer aux sessions communes de démonstration, rétrospective et planification.
 - Démarrage dès que possible.
 

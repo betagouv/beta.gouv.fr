@@ -43,7 +43,6 @@ Cela consistera notamment à :
 
 ## Votre profil
 
-- Vous justifiez d’une formation supérieure (Bac +5) ou d’une expérience professionnelle équivalente.
 - Vous avez déjà construits des produits dont vous êtes fiers.
 - Vous avez une inclination marquée pour le logiciel libre.
 - Vous utilisez la phrase « le mieux est l'ennemi du bien » (80-20)
@@ -53,6 +52,7 @@ Cela consistera notamment à :
 ## Modalités
 
 - Poste ouvert pour un CDD vacataire de 6 mois.
+- La rémunération est établie en fonction du diplôme pour les jeunes diplômé·e·s, ou des 12 dernières fiches de paie.
 - Télétravail partiel bienvenu, avec une présence régulière à Paris 75007 (Ségur) pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification.
 - Démarrage dès que possible.
 
