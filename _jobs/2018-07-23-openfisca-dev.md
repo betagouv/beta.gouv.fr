@@ -11,7 +11,7 @@ Souhaitez-vous accompagner le parlement dans la simulation de l'impact des lois 
 
 Souhaitez-vous participer au déploiement en France et à l'international d'un logiciel libre avec une communauté de contributeurs qui grandit ?
 
-[OpenFisca](https://openfisca.org/fr/) cherche un·e dév intéressé·e par la collaboration et l'entraide, pour un CDD (6 mois) !
+[OpenFisca](https://openfisca.org/fr/) cherche un·e dév intéressé·e par la collaboration et l'entraide, pour un CDD (6 mois).
 
 <!--more-->
 
