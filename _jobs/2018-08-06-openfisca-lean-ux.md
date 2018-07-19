@@ -45,6 +45,7 @@ Vos activités principales seront :
 ## Votre profil
 
 - Vous justifiez d'une formation UX/UI ou d’une expérience professionnelle équivalente.
+- Vous êtes à l'aise avec des produits ne disposant pas d'interface graphique.
 - Vous avez déjà construits des produits dont vous êtes fiers.
 - Vous utilisez la phrase « le mieux est l'ennemi du bien » (80-20).
 - Vous êtes à l’aise avec le mode de fonctionnement des organisations horizontales, et avez à cœur de contribuer activement au sein de ce collectif.
