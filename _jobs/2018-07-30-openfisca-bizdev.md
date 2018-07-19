@@ -34,9 +34,9 @@ En tant que Business Developer au sein de l’équipe OpenFisca vous :
 - Suivrez les résultats obtenus sur la base de métriques d’impact.
 - Pratiquerez une veille stratégique et représenterez OpenFisca lors d’événements (colloques, salons, séminaires...).
 
-Vous maîtrisez notamment :
-- Les technologies de suivi client, de promotion sur le web et les réseaux sociaux, de gestion de campagne, et de référencement.
-- Les aspects de contractualisation public et privé (partenariat, contrats, avenants, chartes ou tout support commercial destiné à développer les usages des services numériques...).
+Vous êtes à l'aise avec :
+- Les technologies de suivi client et de référencement.
+- Les aspects de contractualisation public et privé (partenariat, contrats, ou tout support commercial destiné à développer les usages des services numériques...).
 
 Et au moins :
 - L’organisation des administrations publiques ;
