@@ -5,13 +5,13 @@ techno:
 open: true
 ---
 
-Cela vous dit d'aider des governments et la société à contruire des services plus innovants qui aident les citoyens à mieux comprendre leurs droits et obligations ?
+Souhaitez-vous aider des gouvernements et la société civile à construire des services innovants, qui aident les citoyens à mieux comprendre le système socio-fiscal ?
 
-Cela vous dit d'aider le parlement à simuler l'impact de la loi avant de la voter ?
+Souhaitez-vous accompagner le parlement dans la simulation de l'impact des lois avant de les voter ?
 
-Cela vous dit de participer au déploiment en France et à l'international d'un logiciel libre avec une communauté de contributeurs qui grandit ?
+Souhaitez-vous participer au déploiement en France et à l'international d'un logiciel libre avec une communauté de contributeurs qui grandit ?
 
-[OpenFisca](https://openfisca.org/fr/) recrute un·e BizDev pour un CDD (6 mois) !
+[OpenFisca](https://openfisca.org/fr/) cherche un·e BizDev pour un CDD (6 mois).
 
 <!--more-->
 

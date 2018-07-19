@@ -5,13 +5,13 @@ techno: Python / ReactJS
 open: true
 ---
 
-Cela vous dit d'aider des governments et la société à contruire des services plus innovants qui aident les citoyens à mieux comprendre leurs droits et obligations ?
+Souhaitez-vous aider des gouvernements et la société civile à construire des services innovants, qui aident les citoyens à mieux comprendre le système socio-fiscal ?
 
-Cela vous dit d'aider le parlement à simuler l'impact de la loi avant de la voter ?
+Souhaitez-vous accompagner le parlement dans la simulation de l'impact des lois avant de les voter ?
 
-Cela vous dit de participer au déploiment en France et à l'international d'un logiciel libre avec une communauté de contributeurs qui grandit ?
+Souhaitez-vous participer au déploiement en France et à l'international d'un logiciel libre avec une communauté de contributeurs qui grandit ?
 
-[OpenFisca](https://openfisca.org/fr/) recrute un·e dév Python (si ReactJS un plus) pour un CDD (6 mois) !
+[OpenFisca](https://openfisca.org/fr/) cherche un·e dév intéressé·e par la collaboration et l'entraide, pour un CDD (6 mois) !
 
 <!--more-->
 
@@ -36,7 +36,6 @@ De façon pragmatique, vos objectifs seront :
 Cela consistera notamment à :
 - Apporter des modifications aux [différentes briques du logiciel](https://waffle.io/openfisca/openfisca-core) pour améliorer l’expérience de la communauté d’utilisateurs et de contributeurs OpenFisca.
 - Accompagner l’équipe dans leur effort de faire grandir la communauté autour d’OpenFisca.
-
 - Enrichir les produits numériques que l’équipe met à disposition de la communauté, tels que [Legislation Explorer](https://github.com/openfisca/legislation-explorer).
 - Participer à des tests utilisateur pour découvrir avec eux de nouveaux usages et outils que l’équipe pourrait mettre à disposition de la communauté pour la faire grandir, tels que [Reform Simulator](https://reform-simulator.herokuapp.com/).
 - Participer au développement de ces outils, s’ils s’avère qu’ils résoudraient un problème bien identifié des utilisateurs actuels comme nouveaux.
