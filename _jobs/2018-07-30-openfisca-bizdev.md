@@ -53,8 +53,7 @@ Et au moins :
 ## Modalités
 
 - Poste ouvert pour un CDD vacataire de 6 mois.
-- Télétravail bienvenu les lundis et vendredis.
-- Présence régulière à Paris 75007 (Ségur) pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification.
+- Télétravail partiel bienvenu, avec une présence régulière à Paris 75007 (Ségur) pour participer aux sessions communes de démonstration, rétrospective et planification.
 - Démarrage dès que possible.
 
 Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à recrutement@beta.gouv.fr
