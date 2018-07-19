@@ -46,7 +46,7 @@ Cela consistera notamment à :
 - Vous avez une inclination marquée pour le logiciel libre.
 - Vous utilisez la phrase « le mieux est l'ennemi du bien » (80-20)
 - Vous êtes à l’aise avec le mode de fonctionnement des organisations horizontales, et avez à cœur de contribuer activement au sein de ce collectif.
-- Vous avez un niveau d’anglais impeccable (une grande partie des échanges au sein de la communauté se font en anglais).
+- Les langues de travail sont l'anglais et le français. Un niveau d'expression professionnelle est demandé dans ces deux langues.
 
 ## Modalités
 

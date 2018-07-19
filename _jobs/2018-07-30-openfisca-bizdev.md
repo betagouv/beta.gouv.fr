@@ -48,7 +48,7 @@ Et au moins :
     - d'un diplôme d’école de commerce ou universitaire de niveau BAC+5 dans le domaine de la gestion, du commerce, des sciences humaines ou de l’administration publique ; ou
     - d’une expérience professionnelle équivalente.
 - Vous utilisez la phrase « le mieux est l'ennemi du bien » (80-20).
-- Vous avez un niveau d’anglais impeccable (une grande partie des échanges au sein de la communauté se font en anglais).
+- Les langues de travail sont l'anglais et le français. Un niveau d'expression professionnelle est demandé dans ces deux langues.
 
 ## Modalités
 
