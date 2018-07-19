@@ -1,7 +1,7 @@
 ---
-roles: un·e dev Python (si ReactJS un plus)
+roles: un·e dev Python (si JavaScript un plus)
 startup: openfisca
-techno: Python / ReactJS
+techno: Python / JavaScript
 open: true
 ---
 
