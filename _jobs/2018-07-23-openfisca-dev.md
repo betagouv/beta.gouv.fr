@@ -44,7 +44,7 @@ Cela consistera notamment à :
 ## Votre profil
 
 - Vous avez déjà construits des produits dont vous êtes fiers.
-- Vous avez une inclination marquée pour le logiciel libre.
+- Vous avez l’habitude des modalités de contribution du logiciel libre (ouverture par défaut, pull requests, peer reviews, ...).
 - Vous utilisez la phrase « le mieux est l'ennemi du bien » (80-20)
 - Vous êtes à l’aise avec le mode de fonctionnement des organisations horizontales, et avez à cœur de contribuer activement au sein de ce collectif.
 - Les langues de travail sont l'anglais et le français. Un niveau d'expression professionnelle est demandé dans ces deux langues.
