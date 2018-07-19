@@ -39,7 +39,7 @@ Cela consistera notamment à :
 - Enrichir les produits numériques que l’équipe met à disposition de la communauté, tels que [Legislation Explorer](https://github.com/openfisca/legislation-explorer).
 - Participer à des tests utilisateur pour découvrir avec eux de nouveaux usages et outils que l’équipe pourrait mettre à disposition de la communauté pour la faire grandir, tels que [Reform Simulator](https://reform-simulator.herokuapp.com/).
 - Participer au développement de ces outils, s’ils s’avère qu’ils résoudraient un problème bien identifié des utilisateurs actuels comme nouveaux.
-- Accompagner l’équipe dans l’apprentissage et l’adoption des best practices du développement lean et agile (GTD, PK, TDD, Carpaccio, !bikeshedding, 80-20…).
+- Travailler avec l’équipe dans la mise en place des best practices du développement lean et agile (Get Things Done, Personal Kanban, Test-Driven Developement, Domain-Driven Development, Code Carpaccio, 80-20, …),
 
 ## Votre profil
 
