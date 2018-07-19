@@ -27,17 +27,20 @@ OpenFisca permet de comprendre les lois, d'analyser leurs changements et de simu
 
 ## Vos missions et activités
 
-Vous participerez au développement et à l’animation de la communauté qui gravite autour de OpenFisca.
+De façon pragmatique, vos objectifs seront :
+- de participer au développement d'OpenFisca ;
+- de participer à l’animation de sa communauté ; et
+- de travailler avec l’équipe dans la réalisation de la [vision](https://trello.com/b/Y0SQNAVh/roadmap) du produit.
+
 
 Cela consistera notamment à :
-- Travailler avec l’équipe dans la réalisation de la [vision et de la stratégie](https://trello.com/b/Y0SQNAVh/roadmap) du logiciel libre contributif OpenFisca
-- Apporter des modifications aux [différentes briques du logiciel](https://waffle.io/openfisca/openfisca-core) pour améliorer l’expérience de la communauté d’utilisateurs et de contributeurs OpenFisca
-- Accompagner l’équipe dans leur effort de faire grandir la communauté autour d’OpenFisca
+- Apporter des modifications aux [différentes briques du logiciel](https://waffle.io/openfisca/openfisca-core) pour améliorer l’expérience de la communauté d’utilisateurs et de contributeurs OpenFisca.
+- Accompagner l’équipe dans leur effort de faire grandir la communauté autour d’OpenFisca.
 
-- Enrichir les produits numériques que l’équipe met à disposition de la communauté, tels que [Legislation Explorer](https://github.com/openfisca/legislation-explorer)
-- Participer à des tests utilisateur pour découvrir avec eux de nouveaux usages et outils que l’équipe pourrait mettre à disposition de la communauté pour la faire grandir, tels que [Reform Simulator](https://reform-simulator.herokuapp.com/)
+- Enrichir les produits numériques que l’équipe met à disposition de la communauté, tels que [Legislation Explorer](https://github.com/openfisca/legislation-explorer).
+- Participer à des tests utilisateur pour découvrir avec eux de nouveaux usages et outils que l’équipe pourrait mettre à disposition de la communauté pour la faire grandir, tels que [Reform Simulator](https://reform-simulator.herokuapp.com/).
 - Participer au développement de ces outils, s’ils s’avère qu’ils résoudraient un problème bien identifié des utilisateurs actuels comme nouveaux.
-- Accompagner l’équipe dans l’apprentissage et l’adoption des best practices du développement lean et agile (GTD, PK, TDD, Carpaccio, !bikeshedding, 80-20…)
+- Accompagner l’équipe dans l’apprentissage et l’adoption des best practices du développement lean et agile (GTD, PK, TDD, Carpaccio, !bikeshedding, 80-20…).
 
 ## Votre profil
 

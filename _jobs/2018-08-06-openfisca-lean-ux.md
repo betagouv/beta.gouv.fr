@@ -27,20 +27,20 @@ OpenFisca permet de comprendre les lois, d'analyser leurs changements et de simu
 
 ## Vos missions et activités
 
+De façon pragmatique, vos objectifs seront :
+- d'appuyer la croissance d'OpenFisca ;
+- d'accélérer la prise en compte des retours utilisateurs ; et
+- de travailler avec l’équipe dans la réalisation de la [vision](https://trello.com/b/Y0SQNAVh/roadmap) du produit.
+
 En tant que Product Designer de l’équipe OpenFisca vous serez en charge de :
 - Prendre l’ownership de la phase de discovery de nouveaux produits à développer à partir du logiciel OpenFisca.
 - Avoir une vision intégrale du design de l’expérience utilisateur.
 
 Vos activités principales seront :
-- Prototyper des nouveaux produits.
-- Prototyper des améliorations aux produits existants.
-- Systématiser la confrontation de ces produits/améliorations avec des usagers.
 - Mener des tests utilisateurs.
+- Prototyper des nouveaux produits et ou des améliorations aux produits existants.
+- Systématiser la confrontation des produits/améliorations avec des usagers.
 - Implémenter ces produits/améliorations en collaboration avec l’équipe.
-
-De façon pragmatique, vos objectifs seront de :
-- Accélérer la prise en compte des retours utilisateurs dans l’amélioration du service.
-- Collaborer étroitement avec les développeur·e·s et le product manager.
 
 ## Votre profil
 
