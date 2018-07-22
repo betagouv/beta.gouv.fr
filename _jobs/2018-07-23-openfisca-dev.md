@@ -43,7 +43,7 @@ Cela consistera notamment à :
 
 ## Votre profil
 
-- Vous avez déjà construits des produits dont vous êtes fiers.
+- Vous avez déjà construit des produits dont vous êtes fiers.
 - Vous avez l’habitude des modalités de contribution du logiciel libre (ouverture par défaut, pull requests, peer reviews, ...).
 - Vous utilisez la phrase « le mieux est l'ennemi du bien » (80-20)
 - Vous êtes à l’aise avec le mode de fonctionnement des organisations horizontales, et avez à cœur de contribuer activement au sein de ce collectif.
