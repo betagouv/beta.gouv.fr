@@ -16,4 +16,12 @@ Quelques clics pour inscrire votre enfant au collège !
 
 Pour que les parents puissent inscrire leurs enfants au collège sans avoir à renseigner chaque année les mêmes informations déjà connues de l'Education Nationale.
 
+
+Sur les 751 élèves de 4 collèges qui ont bénéficiés de l’expérimentation en juin 2018, le taux de recours au service numérique a été de 98%.
+Les familles ont plébiscité la démarche : invitées à donner une note de 1 (Très insatisfait) à 5 (Très satisfait) en fin de parcours, elles ont attribué
+une note moyenne de 4,5. Le champ lexical des appréciations, très nombreuses, déposées par les familles, est
+remarquablement cohérent, les 5 premiers mots-clé ressortant du « nuage de mot » sont: «bien », « pratique »,
+« simple », « rapide », « merci ».
+
+
 DossierSCO est un produit de la startup [Open Académie](https://openacademie.beta.gouv.fr).
