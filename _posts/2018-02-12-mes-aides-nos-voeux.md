@@ -36,7 +36,7 @@ En 2018, nous souhaitons proposer de nouvelles aides légales et extra-légales.
 
 En 2018, nous souhaitons nous lancer dans [la construction d’un réseau d’experts](https://gouv.us12.list-manage.com/subscribe?u=1ec467926df0f8b0be4915921&id=0321551dd4) capables d'éclaircir certains points de la législation ou bien de rapprocher une situation concrète de cette même législation. Ce réseau nous permettra tout d’abord d’être pro-actif dans les améliorations du simulateur : quelles sont les lois qui ont été modifiées récemment ? En quoi les situations actuelles peuvent mieux refléter la réalité ? Afin d’apporter un meilleur conseil auprès des utilisateurs, certains de ces experts pourront également servir de relais locaux afin d’aider nos utilisateurs à interpréter leurs résultats.
 
-### Faciliter et accélerer les demandes d'instruction
+### Faciliter et accélérer les demandes d'instruction
 
 En 2018, enfin, nous souhaitons raccourcir les démarches qui permettent d'accéder aux aides. Les informations saisies sur le simulateur de Mes Aides peuvent par exemple être récupérées et inscrites directement dans les formulaires de demandes. Pour nous lancer dans cette expérimentation, nous pensons que nos meilleurs alliés seront les collectivités locales. [Contactez-nous](mailto:bonjour@mes-aides.gouv.fr?subject=Exp%C3%A9rimenter%20pour%20des%20d%C3%A9marches%20simplifi%C3%A9es) si vous avez aussi envie de faciliter la vie de vos usagers !
 
