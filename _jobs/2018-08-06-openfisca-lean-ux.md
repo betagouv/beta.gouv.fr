@@ -9,7 +9,7 @@ open: true
 
 Souhaitez-vous aider des gouvernements et la société civile à construire des services innovants, qui aident les citoyens à mieux comprendre le système socio-fiscal ?
 
-Souhaitez-vous accompagner le parlement dans la simulation de l'impact des lois avant de les voter ?
+Souhaitez-vous accompagner le Parlement dans la simulation de l'impact des lois avant de les voter ?
 
 Souhaitez-vous participer au déploiement en France et à l'international d'un logiciel libre avec une communauté de contributeurs qui grandit ?
 
@@ -19,11 +19,11 @@ Souhaitez-vous participer au déploiement en France et à l'international d'un l
 
 Vous rejoindrez l'[équipe autonome](https://beta.gouv.fr/2016/11/28/equipes-autonomes) qui développe OpenFisca.
 
-[OpenFisca](https://openfisca.org/fr/) a pour mission de Transformer le code législatif en code logiciel, puis le code logiciel en code législatif.
+[OpenFisca](https://openfisca.org/fr/) a pour mission de transformer le code législatif en code logiciel, puis le code logiciel en code législatif.
 
-Entièrement libre et gratuit, modulable et réutilisable, OpenFisca est un moteur de microsimulation des système socio-fiscaux.
+Entièrement libre et gratuit, modulable et réutilisable, OpenFisca est un moteur de microsimulation des systèmes socio-fiscaux.
 
-OpenFisca permet de comprendre les lois, d'analyser leurs changements et de simuler des situations, ayant comme but d’aider les citoyens à mieux comprendre les réformes qui impactent leur vie quotidienne.
+OpenFisca permet de comprendre les lois, d'analyser leurs changements et de simuler des situations, ayant ainsi pour but d’aider les citoyens à mieux comprendre les réformes qui impactent leur vie quotidienne.
 
 ## Le rôle
 
