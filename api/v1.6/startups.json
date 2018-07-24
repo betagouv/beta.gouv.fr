@@ -1,0 +1,44 @@
+---
+layout: null
+---
+
+{ "links":
+    { "self": "{{ site.url }}/startups" }
+, "data":
+    [
+    {% assign startups = site.startup | where_exp: 'startup', 'startup.status != death' %}
+    {% for startup in startups %}
+        { "id"        : "{{ startup.id | remove: '/startup/' }}"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"  : "{{ startup.title }}"
+            , "pitch" : "{{ startup.mission }}"
+            , "status": "{{ startup.status}}"
+            }
+        , "relationships":
+            { "incubator":
+                { "data": { "type": "incubator", "id": "{{ startup.incubator}}" }
+                }
+            }
+        }
+        {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ]
+, "included":
+    [
+    {% for incubator in site.incubator %}
+        { "id"        : "{{ incubator.id | remove:'/incubateur/' }}"
+        , "type"      : "incubator"
+        , "attributes":
+            { "title"  : "{{ incubator.title }}"
+            , "owner"  : "{{ incubator.owner }}"
+            , "website": "{{ incubator.website }}"
+            , "github" : "{{ incubator.github }}"
+            , "contact": "{{ incubator.contact }}"
+            }
+        }
+        {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ]
+
+}

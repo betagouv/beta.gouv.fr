@@ -1,7 +1,7 @@
 ---
 roles: un·e business developer
 startup: demarches-simplifiees.fr
-open: true
+open: false
 ---
 
 demarches-simplifiees.fr cherche un·e business developer pour diffuser notre produit dans les administrations françaises.
