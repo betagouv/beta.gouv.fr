@@ -44,9 +44,9 @@ Vous êtes à l'aise avec :
 - Les technologies de suivi client et de référencement.
 - Les aspects de contractualisation public et privé (partenariat, contrats, ou tout support commercial destiné à développer les usages des services numériques...).
 
-Et au moins :
-- L’organisation des administrations publiques ;
-- les organisations gouvernementales et non-gouvernementales liées à l’open government, tant en France comme à l’internationale.
+Les plus :
+- Connaissance de l’organisation des administrations publiques ;
+- Connaissance des organisations gouvernementales et non gouvernementales liées à l’open government, tant en France comme à l’internationale.
 
 ## Votre profil
 
