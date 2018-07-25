@@ -15,8 +15,8 @@ Un mois et demi plus tard : 400 demandes de végétalisation ont été faites ! 
 
 ## Comment ça marche ?
 
-Fort de l’expérience réussie auprès d’autres villes comme Dijon, Malakoff, Arles ou Paris, l’équipe Plante & Moi a accompagné la ville d’Amiens à la mise en place de son programme « Permis de fleurir ». L’étroite collaboration avec les services de la ville a permis de définir les besoins spécifiques à partir desquels la Startup a enrichi le service numérique. L’interface depuis laquelle les Amiénois peuvent demander leur « Permis de fleurir », accessible sur [https://permisdefleurir.amiens.fr/](https://permisdefleurir.amiens.fr/), permet de rassurer les habitants, les aider à construire simplement leur projet et effectuer leur demande. Elle est associée à un outil de suivi et de gestion en interne configuré en fonction de l'organisation des services municipaux. 
-Plante & moi offre ainsi à la ville d’Amiens un service numérique à la fois générique et particulièrement adaptable visant à faciliter les dynamiques de végétalisation de l’espace public par les citoyens. 
+Fort de l’expérience réussie auprès d’autres villes comme Dijon, Malakoff, Arles ou Paris, l’équipe de la Startup d'Etat Plante & Moi a accompagné la ville d’Amiens à la mise en place de son programme « Permis de fleurir ». L’étroite collaboration avec les services de la ville a permis de définir les besoins spécifiques à partir desquels la Startup a enrichi le service numérique. L’interface depuis laquelle les Amiénois peuvent demander leur « Permis de fleurir », accessible sur [https://permisdefleurir.amiens.fr/](https://permisdefleurir.amiens.fr/), permet de rassurer les habitants, les aider à construire simplement leur projet et effectuer leur demande. Elle est associée à un outil de suivi et de gestion en interne configuré en fonction de l'organisation des services municipaux. 
+Plante & Moi offre ainsi à la ville d’Amiens un service numérique à la fois générique et particulièrement adaptable visant à faciliter les dynamiques de végétalisation de l’espace public par les citoyens. 
 
 
 ![Vue cartographique des demandes de végétalisation à Amiens au bout de la première saison de mise en place du programme « Permis de fleurir »](/img/posts/2018-07-12-amiens-plante-et-moi-carte-amiens.jpg)
@@ -29,14 +29,14 @@ Une collaboration réussie entre Amiens et la Startup d’État Plante & Moi : l
 > L’équipe Plante & Moi a été à la fois force de proposition au montage du projet et très à l’écoute des besoins des services de la collectivité. Cela a permis d’adapter l’application à notre action.
 > Un véritable partenariat s’est installé. Plante & Moi continue de suivre le projet et d’adapter encore mieux l’outil à nos besoins, notamment en back office.
 
-## Plante Et Moi ?
+## Plante & Moi ?
 
-Plante et Moi a été lancé avec la collaboration et un premier financement du Ministère de la Transition Écologique et Solidaire. La Startup a accompagné le lancement d’initiatives similaires pour d’autres villes, notamment [`J’adopte un arbre`](https://jadopteunarbre.dijon.fr/) pour Dijon, [`Nature en ville`](https://nature.malakoff.fr/) à Malakoff et [`Jardin’émoi`](https://romainville.plante-et-moi.fr/jardin-emoi/) à Romainville. Et de nouvelles villes se montrent intéressées pour collaborer avec Plante & Moi et lancer leur programme de végétalisation urbaine par leur citoyens. 
+Plante & Moi a été lancé avec la collaboration et un premier financement du Ministère de la Transition Écologique et Solidaire. La Startup a accompagné le lancement d’initiatives similaires pour d’autres villes, notamment [`J’adopte un arbre`](https://jadopteunarbre.dijon.fr/) pour Dijon, [`Nature en ville`](https://nature.malakoff.fr/) à Malakoff et [`Jardin’émoi`](https://romainville.plante-et-moi.fr/jardin-emoi/) à Romainville. Et de nouvelles villes se montrent intéressées pour collaborer avec Plante & Moi et lancer leur programme de végétalisation urbaine par leur citoyens. 
 
-Au vue des résultats et croyant à la réussite du projet la DINSIC assure la continuité du service et cherche aujourd’hui de nouveaux soutiens institutionnels et financiers.
+Au vue des résultats et croyant à la réussite du projet la DINSIC assure la continuité du service et cherche aujourd’hui de nouveaux soutiens institutionnels et financiers pour aider.
 
 ## La suite ?
 
-Si vous souhaitez, vous aussi contribuer à l’augmentation de la nature en ville et participer à la dynamique de jardinage dans l’espace public, contactez-nous sur [biodiversite@beta.gouv.fr](mailto:biodiversite@beta.gouv.fr)
+Si vous souhaitez, vous aussi contribuer à l’augmentation de présence de la nature en ville et participer à la dynamique de jardinage dans l’espace public, contactez-nous sur [biodiversite@beta.gouv.fr](mailto:biodiversite@beta.gouv.fr)
 
 Plus d'information sur Plante & Moi : [par ici](https://beta.gouv.fr/startup/plante-et-moi.html) !
