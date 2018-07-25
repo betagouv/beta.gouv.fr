@@ -11,7 +11,7 @@ La mairie accompagne les habitants en leur fournissant un bac en bois recyclé f
 
 Un mois et demi plus tard : 400 demandes de végétalisation ont été faites ! Une surprise pour la mairie qui ne s’attendait pas un tel engouement de la part des Amiénois.
 
-![Projet de fleurir à Amiens](/img/posts/2018-07-12-amiens-plante-et-moi.jpg)
+![Projet de fleurir à Amiens](/img/posts/2018-09-04-amiens-plante-et-moi.jpg)
 > Exemple de végétalisation de l’espace public par les Amiénois
 
 ## Comment ça marche ?
@@ -20,11 +20,12 @@ Fort de l’expérience réussie auprès d’autres villes comme Dijon, Malakoff
 
 L’interface de demande du [« Permis de fleurir »](https://permisdefleurir.amiens.fr/) amiénois guide pas à pas la personne qui souhaite végétaliser l’espace public : choix du lieu sur une carte, choix du type de projet à l’aide d’exemples illustrés, demande de matériel à la mairie… Une expérience très visuelle et simplifiée qui rompt avec les codes habituels de la démarche administrative en ligne.
 
-INSERER ICI CAPTURE ECRAN SYMPA INTERFACE DEMANDEUR
+![Interface de demande du « Permis de fleurir »](/img/posts/2018-09-04-amiens-plante-et-moi-demande.jpg)
+> Interface de demande du « Permis de fleurir »
 
 L’interface de demande de permis est associée à un outil de suivi et de gestion pour les mairies. Cet outil est configuré en fonction de l'organisation des services municipaux et permet des échanges fluides entre les services pour délivrer au plus tôt le permis.
 
-![Vue cartographique des demandes de végétalisation à Amiens au bout de la première saison de mise en place du programme « Permis de fleurir »](/img/posts/2018-07-12-amiens-plante-et-moi-carte-amiens.jpg)
+![Vue cartographique des demandes de végétalisation à Amiens au bout de la première saison de mise en place du programme « Permis de fleurir »](/img/posts/2018-09-04-amiens-plante-et-moi-carte-amiens.jpg)
 > Vue cartographique des demandes de végétalisation à Amiens au bout de la première saison de mise en place du programme « Permis de fleurir »
 
 ## Collaboration avec la ville d'Amiens
