@@ -22,7 +22,7 @@ Fort de l’expérience réussie auprès d’autres villes comme Dijon, Malakoff
 
 INSERER ICI CAPTURE ECRAN SYMPA INTERFACE DEMANDEUR
 
-L’interface de demande de permis est associée à un outil de suivi et de gestion pour les mairie. Cet outil est configuré en fonction de l'organisation des services municipaux et permet des échanges fluides entre les services pour délivrer au plus tôt le permis.
+L’interface de demande de permis est associée à un outil de suivi et de gestion pour les mairies. Cet outil est configuré en fonction de l'organisation des services municipaux et permet des échanges fluides entre les services pour délivrer au plus tôt le permis.
 
 ![Vue cartographique des demandes de végétalisation à Amiens au bout de la première saison de mise en place du programme « Permis de fleurir »](/img/posts/2018-07-12-amiens-plante-et-moi-carte-amiens.jpg)
 > Vue cartographique des demandes de végétalisation à Amiens au bout de la première saison de mise en place du programme « Permis de fleurir »
