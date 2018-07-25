@@ -18,7 +18,7 @@ Un mois et demi plus tard : 400 demandes de végétalisation ont été faites ! 
 
 Fort de l’expérience réussie auprès d’autres villes comme Dijon, Malakoff, Arles ou Paris, l’équipe de la Startup d'Etat Plante & Moi a accompagné la ville d’Amiens à la mise en place de son programme « Permis de fleurir ». L’étroite collaboration avec les services de la ville a permis de définir les besoins spécifiques à partir desquels la Startup a enrichi le service numérique.
 
-[L’interface de demande du « Permis de fleurir » amiénois](https://permisdefleurir.amiens.fr/) guide pas à pas la personne qui souhaite végétaliser l’espace public : choix du lieu sur une carte, choix du type de projet à l’aide d’exemples illustrés, demande de matériel à la mairie… Une expérience très visuelle et simplifiée qui rompt avec les codes habituels de la démarche administrative en ligne.
+L’interface de demande du [« Permis de fleurir »](https://permisdefleurir.amiens.fr/) amiénois guide pas à pas la personne qui souhaite végétaliser l’espace public : choix du lieu sur une carte, choix du type de projet à l’aide d’exemples illustrés, demande de matériel à la mairie… Une expérience très visuelle et simplifiée qui rompt avec les codes habituels de la démarche administrative en ligne.
 
 INSERER ICI CAPTURE ECRAN SYMPA INTERFACE DEMANDEUR
 
@@ -38,7 +38,9 @@ Une collaboration réussie entre Amiens et la Startup d’État Plante & Moi : l
 
 Plante & Moi a été lancé avec la collaboration du Ministère de la Transition Écologique et Solidaire. La Startup a accompagné le lancement d’initiatives similaires pour d’autres villes, notamment [`J’adopte un arbre`](https://jadopteunarbre.dijon.fr/) pour Dijon, [`Nature en ville`](https://nature.malakoff.fr/) à Malakoff et [`Jardin’émoi`](https://romainville.plante-et-moi.fr/jardin-emoi/) à Romainville.
 
-De nouvelles villes se montrent intéressées pour collaborer avec Plante & Moi et lancer leur programme de végétalisation urbaine par leur citoyens. Aux vues des résultats et croyant à la réussite du projet, la DINSIC assure la continuité du service et cherche aujourd’hui de nouveaux soutiens institutionnels et financiers pour prendre le relai du ministère de la Transition Écologique. *Plante & Moi cherche maintenant à passer un cran : 100 villes partenaires conduiraient à prêt de 50 000 projets de végétalisation. Le tout en cherchant une diversité maximale dans les profils de ces villes !*
+De nouvelles villes se montrent intéressées pour collaborer avec Plante & Moi et lancer leur programme de végétalisation urbaine par leur citoyens. Aux vues des résultats et croyant à la réussite du projet, la DINSIC assure la continuité du service et cherche aujourd’hui de nouveaux soutiens institutionnels et financiers pour prendre le relai du ministère de la Transition Écologique.
+
+**Plante & Moi cherche maintenant à passer un cran : 100 villes partenaires conduiraient à prêt de 50 000 projets de végétalisation. Le tout en cherchant une diversité maximale dans les profils de ces villes !**
 
 ## La suite ?
 
