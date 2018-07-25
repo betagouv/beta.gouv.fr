@@ -20,7 +20,7 @@ Fort de l’expérience réussie auprès d’autres villes comme Dijon, Malakoff
 
 L’interface de demande du [« Permis de fleurir »](https://permisdefleurir.amiens.fr/) amiénois guide pas à pas la personne qui souhaite végétaliser l’espace public : choix du lieu sur une carte, choix du type de projet à l’aide d’exemples illustrés, demande de matériel à la mairie… Une expérience très visuelle et simplifiée qui rompt avec les codes habituels de la démarche administrative en ligne.
 
-![Interface de demande du « Permis de fleurir »](/img/posts/2018-09-04-amiens-plante-et-moi-demande.jpg)
+![Interface de demande du « Permis de fleurir »](/img/posts/2018-09-04-amiens-plante-et-moi-demande.png)
 > Interface de demande du « Permis de fleurir »
 
 L’interface de demande de permis est associée à un outil de suivi et de gestion pour les mairies. Cet outil est configuré en fonction de l'organisation des services municipaux et permet des échanges fluides entre les services pour délivrer au plus tôt le permis.
