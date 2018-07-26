@@ -17,7 +17,7 @@ Souhaitez-vous participer au déploiement en France et à l'international d'un l
 
 ## Qui sommes nous ?
 
-Vous rejoindrez l'[équipe autonome](https://beta.gouv.fr/2016/11/28/equipes-autonomes) qui développe OpenFisca.
+Vous rejoindrez l'[équipe](https://beta.gouv.fr/2016/11/28/equipes-autonomes) qui développe OpenFisca.
 
 [OpenFisca](https://openfisca.org/fr/) a pour mission de transformer le code législatif en code logiciel, puis le code logiciel en code législatif.
 
@@ -29,7 +29,7 @@ OpenFisca permet de comprendre les lois, d'analyser leurs changements et de simu
 
 De façon pragmatique, vos objectifs seront :
 - d'accélérer la croissance d'OpenFisca ;
-- de trouver un modèle économique soutenable ; et
+- de l'engager dans un modèle économique soutenable ; et
 - de travailler avec l’équipe dans la réalisation de la [vision](https://trello.com/b/Y0SQNAVh/roadmap) du produit.
 
 En tant que Business Developer au sein de l’équipe OpenFisca vous :
