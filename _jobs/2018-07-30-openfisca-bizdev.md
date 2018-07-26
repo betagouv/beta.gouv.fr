@@ -32,7 +32,6 @@ De façon pragmatique, vos objectifs seront :
 - de trouver un modèle économique soutenable ; et
 - de travailler avec l’équipe dans la réalisation de la [vision](https://trello.com/b/Y0SQNAVh/roadmap) du produit.
 
-
 En tant que Business Developer au sein de l’équipe OpenFisca vous :
 - Ciblerez, identifierez et engagerez des partenaires potentiels (utilisateurs, contributeurs, partenaires financiers ...), tant en France comme à l’international.
 - Contribuerez à la priorisation des améliorations à apporter sur la base des retours utilisateurs.
