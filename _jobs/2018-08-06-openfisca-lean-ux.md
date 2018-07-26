@@ -17,7 +17,7 @@ Souhaitez-vous participer au déploiement en France et à l'international d'un l
 
 ## Qui sommes nous ?
 
-Vous rejoindrez l'[équipe autonome](https://beta.gouv.fr/2016/11/28/equipes-autonomes) qui développe OpenFisca.
+Vous rejoindrez l'[équipe](https://beta.gouv.fr/2016/11/28/equipes-autonomes) qui développe OpenFisca.
 
 [OpenFisca](https://openfisca.org/fr/) a pour mission de transformer le code législatif en code logiciel, puis le code logiciel en code législatif.
 
@@ -45,7 +45,7 @@ De façon pragmatique, vos objectifs seront :
 - de travailler avec l’équipe dans la réalisation de la [vision](https://trello.com/b/Y0SQNAVh/roadmap) du produit.
 
 En tant que Lean UX de l’équipe OpenFisca vous serez en charge de :
-- Prendre l’ownership de la phase de [discovery](https://svpg.com/dual-track-agile/) de nouveaux produits à développer à partir du logiciel OpenFisca.
+- D'organiser la phase de [découverte](https://svpg.com/dual-track-agile/) de nouveaux produits à développer à partir du logiciel OpenFisca.
 - Avoir une vision intégrale du design de l’expérience utilisateur.
 
 Vos activités principales seront :
