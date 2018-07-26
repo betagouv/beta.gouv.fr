@@ -31,7 +31,7 @@ Nous comprenons le rôle de Lean UX comme quelqu'un·e qui :
 
 - [pense que l’UX est une façon de résoudre les problèmes des usagers, plutôt que de développer la prochaine fonctionnalité dernier cri](https://www.smashingmagazine.com/2014/01/lean-ux-manifesto-principle-driven-design/#measuring-kpis-over-undefined-success-metrics) ;
 - [pense l’UI comme un ensemble de « jobs-to-be-done » des usagers, plutôt que comme un ensemble de fonctionnalités](https://medium.com/@rjs/thinking-of-interfaces-as-sets-of-jobs-7d72f22948c3#.7ygkes289) ;
-- [pense l’UI comme une façon d’éteindre les capabilités des usagers, plutôt que seulement pousser des pixels](https://medium.com/@rjs/ui-and-capability-f713c9828c02#.wb1088vy6) ;
+- [voit l'UX/UI comme une façon de donner un pouvoir aux usagers, plutôt qu'un simple agencement de pixels](https://medium.com/@rjs/ui-and-capability-f713c9828c02#.wb1088vy6) ;
 - [choisit le bon outil pour le travail, plutôt que le bon travail pour l’outil](https://m.signalvnoise.com/the-fidelity-curve-weighing-the-costs-and-benefits-of-interface-design-mockups-b259634807e2#.adrz5n8dy) ;
 - [designs pour tout le monde](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) ; et
 - [est un·e membre de l'équipe produit](https://medium.com/@MattPLavoie/introducing-ux-to-your-development-process-a6e717d52e96#.vl4fp9mp6 ).
@@ -40,7 +40,8 @@ Nous comprenons le rôle de Lean UX comme quelqu'un·e qui :
 
 De façon pragmatique, vos objectifs seront :
 - d'appuyer la croissance d'OpenFisca ;
-- d'accélérer la prise en compte des retours utilisateurs ; et
+- d'en imaginer de nouveaux usages et d'en améliorer les existants ;
+- de récolter les retours des utilisateurs et des contributeurs ; et
 - de travailler avec l’équipe dans la réalisation de la [vision](https://trello.com/b/Y0SQNAVh/roadmap) du produit.
 
 En tant que Lean UX de l’équipe OpenFisca vous serez en charge de :
@@ -55,8 +56,8 @@ Vos activités principales seront :
 
 ## Votre profil
 
-- Vous justifiez d'une formation UX/UI ou d’une expérience professionnelle équivalente.
-- Vous êtes à l'aise avec des produits ne disposant pas d'interface graphique.
+- Vous justifiez d'une formation UX/UI ou d’une expérience professionnelle équivalente (lean UX, product designer, product manager, ...).
+- Au-delà des interfaces graphiques, vous savez réfléchir à l'ensemble de l'expérience utilisateur.
 - Vous avez déjà construits des produits dont vous êtes fiers.
 - Vous utilisez la phrase « le mieux est l'ennemi du bien » (80-20).
 - Vous êtes à l’aise avec le mode de fonctionnement des organisations horizontales, et avez à cœur de contribuer activement au sein de ce collectif.
