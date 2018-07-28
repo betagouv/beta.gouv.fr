@@ -17,7 +17,7 @@ Souhaitez-vous participer au déploiement en France et à l'international d'un l
 
 ## Qui sommes nous ?
 
-Vous rejoindrez l'[équipe autonome](https://beta.gouv.fr/2016/11/28/equipes-autonomes) qui développe OpenFisca.
+Vous rejoindrez l'[équipe](https://beta.gouv.fr/2016/11/28/equipes-autonomes) qui développe OpenFisca.
 
 [OpenFisca](https://openfisca.org/fr/) a pour mission de transformer le code législatif en code logiciel, puis le code logiciel en code législatif.
 
