@@ -2,7 +2,7 @@
 roles: un·e dev fullstack
 startup: civils-de-la-defense
 techno: Choix technologiques ouverts parmi les solutions libres du marché.
-open: true
+open: false
 ---
 
 La Startup d’État “Civils de la défense” recrute un·e lead dev.
