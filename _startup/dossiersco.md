@@ -27,7 +27,7 @@ Quelques améliorations possibles si le ministère de l'éducation nationnale ch
 - générer un formulaire papier préremplit pour communiquer les informations médicales sous plit cacheté (pour des raisons de confidentialité).
 - gérer l'adhésion au foyer socio-éducatif
 - renforcer la séparation entre les deux responsables légaux. Il s'agit notamment de protéger encore plus dans des situations de violence conjugale.
-- augmenter les taux de recouvrement des quotients familiaux (campagnes de sms...)
+- simplifier l'attribution du tarif de cantine approprié pour chaque famille (campagnes de sms...)
 - générer un meilleur courrier d'invitation des familles à se connecter au site
 
 DossierSCO est un produit de la startup [Open Académie](https://openacademie.beta.gouv.fr).
