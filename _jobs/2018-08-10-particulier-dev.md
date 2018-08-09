@@ -13,10 +13,14 @@ données personnelles dans l'administration.
 Notre objectif : simplifier les démarches administratives pour les usagers français en fournissant ou en accompagnant
 la création d'outils numériques (API, briques logicielles autours de [FranceConnect](https://franceconnect.gouv.fr/), etc).
 
+Par exemple, lors de la demande de bourse de collège, nous proposons de récupérer le montant du revenu fiscal de référence du foyer
+directement auprès de la DGFiP. Grâce à cela, le collègien ne transporte plus de photocopies dans son cartable et l'intendant du collège
+n'a plus à vérifier son authenticitée (et gagne de l'espace en se séparant de son armoire d'archive). Nous économisons près de 2h de travail manuel par requête, temos qui peut être utilisé pour accompagner les familles les plus en difficulté.
+
 Nous cherchons une personne expérimentée pour rejoindre notre équipe et nous aider à poursuivre les travaux suivants :
 
 1. La contractualisation et l'enrôlement du plus grand nombre de collectivités territoriales sur api.gouv.fr.
-2. Proposer de nouveaux jeux de données issues d'administrations t.q. la [CNAMt](https://www.ameli.fr/).
+2. Proposer de nouveaux jeux de données issues d'administrations telle que la [CNAM](https://www.ameli.fr/).
 3. Réunir un maximum d'utilisateurs autour de la plateforme particulier.api.gouv.fr.
 4. Assurer la haute disponibilité des API.
 5. Engager des travaux d'expérimentation autour du lien entre l'authentification d'une personne (avec
