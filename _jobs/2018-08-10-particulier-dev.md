@@ -23,7 +23,7 @@ Nous cherchons une personne expérimentée pour rejoindre notre équipe et nous 
 2. Proposer de nouveaux jeux de données issues d'administrations telle que la [CNAM](https://www.ameli.fr/).
 3. Réunir un maximum d'utilisateurs autour de la plateforme particulier.api.gouv.fr.
 4. Assurer la haute disponibilité des API.
-5. Lancer un POC pour permettre s'authentifier avec FranceConnect en tant qu'auto-entrepreneur.
+5. Lancer un POC pour permettre aux auto-entrepreneurs de s'authentifier avec FranceConnect.
 
 En tant que développeur·se, tu interviendras sur une [base de code en React](https://github.com/betagouv/signup-front) et en 
 [NodeJS](https://github.com/betagouv/api-particulier) et de participer à la création de la communauté pour réussir ces objectifs.
