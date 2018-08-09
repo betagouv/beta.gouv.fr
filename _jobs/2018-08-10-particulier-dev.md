@@ -15,12 +15,11 @@ la création d'outils numériques (API, briques logicielles autours de [FranceCo
 
 Nous cherchons une personne expérimentée pour rejoindre notre équipe et nous aider à poursuivre les travaux suivants :
 
-1. Réunir un maximum d'utilisateurs autour de la plateforme particulier.api.gouv.fr.
+1. La contractualisation et l'enrôlement du plus grand nombre de collectivités territoriales sur api.gouv.fr.
 2. Proposer de nouveaux jeux de données issues d'administrations t.q. la [CNAMt](https://www.ameli.fr/).
-3. Assurer la haute disponibilité des API.
-4. La contractualisation et l'enrôlement du plus grand nombre de collectivités territoriales sur api.gouv.fr.
-
-De plus, nous souhaitons engager des travaux d'expérimentation autour du lien entre l'authentification d'une personne (avec
+3. Réunir un maximum d'utilisateurs autour de la plateforme particulier.api.gouv.fr.
+4. Assurer la haute disponibilité des API.
+5. Engager des travaux d'expérimentation autour du lien entre l'authentification d'une personne (avec
 FranceConnect) et son rapport avec une personne morale.
 
 Il s’agit donc d’intervenir sur une [base de code en React](https://github.com/betagouv/signup-front) et en 
