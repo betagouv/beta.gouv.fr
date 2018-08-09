@@ -26,7 +26,7 @@ Nous cherchons une personne expérimentée pour rejoindre notre équipe et nous 
 5. Engager des travaux d'expérimentation autour du lien entre l'authentification d'une personne (avec
 FranceConnect) et son rapport avec une personne morale.
 
-Il s’agit donc d’intervenir sur une [base de code en React](https://github.com/betagouv/signup-front) et en 
+En tant que développeur·se, tu interviendras sur une [base de code en React](https://github.com/betagouv/signup-front) et en 
 [NodeJS](https://github.com/betagouv/api-particulier) et de participer à la création de la communauté pour réussir ces objectifs.
 
 ## Compétences et expérience
