@@ -1,5 +1,5 @@
 ---
-roles: une / un développeuse, développeur
+roles: un·e développeur·se full stack
 startup: api-particulier
 techno: React / NodeJS / Ruby / Ansible
 open: true
