@@ -19,11 +19,11 @@ n'a plus à vérifier son authenticitée (et gagne de l'espace en se séparant d
 
 Nous cherchons une personne expérimentée pour rejoindre notre équipe et nous aider à poursuivre les objectifs suivants :
 
-1. Faciliter la vie des auto-entrepreneurs.
-2. La contractualisation et l'enrôlement du plus grand nombre de collectivités territoriales sur api.gouv.fr.
-3. Proposer de nouveaux jeux de données issues d'administrations telle que la [CNAM](https://www.ameli.fr/).
-4. Réunir un maximum d'utilisateurs autour de la plateforme particulier.api.gouv.fr.
-5. Assurer la haute disponibilité des API.
+1. La contractualisation et l'enrôlement du plus grand nombre de collectivités territoriales sur api.gouv.fr.
+2. Proposer de nouveaux jeux de données issues d'administrations telle que la [CNAM](https://www.ameli.fr/).
+3. Réunir un maximum d'utilisateurs autour de la plateforme particulier.api.gouv.fr.
+4. Assurer la haute disponibilité des API.
+5. Faciliter la vie des auto-entrepreneurs.
 
 En tant que développeur·se, tu interviendras sur une [base de code en React](https://github.com/betagouv/signup-front) et en 
 [NodeJS](https://github.com/betagouv/api-particulier) et de participer à la création de la communauté pour réussir ces objectifs.
