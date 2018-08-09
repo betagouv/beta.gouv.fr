@@ -10,7 +10,7 @@ données personnelles dans l'administration.
 
 <!--more-->
 
-Notre ambition: simplifier les démarches administratives pour les usagers français en fournissant ou en accompagnant
+Notre objectif : simplifier les démarches administratives pour les usagers français en fournissant ou en accompagnant
 la création d'outils numériques (API, briques logicielles autours de [FranceConnect](https://franceconnect.gouv.fr/), etc).
 
 Nous cherchons une personne expérimentée pour rejoindre notre équipe et nous aider à poursuivre les travaux suivants :
