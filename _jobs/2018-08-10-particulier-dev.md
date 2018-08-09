@@ -41,6 +41,6 @@ En tant que développeur·se, tu interviendras sur une [base de code en React](h
 
 ## Candidater
 
-Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV et GitHub, le tout à `recrutement@beta.gouv.fr`.
+Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV et GitHub à `recrutement@beta.gouv.fr`.
 
 À bientôt ! 😀
