@@ -17,7 +17,7 @@ Par exemple, lors de la demande de bourse de collège, nous proposons de récup�
 directement auprès de la DGFiP. Grâce à cela, le collègien ne transporte plus de photocopies dans son cartable et l'intendant du collège
 n'a plus à vérifier son authenticitée (et gagne de l'espace en se séparant de son armoire d'archive). Cela économise près de 1h de travail manuel par requête, temps qui peut être utilisé pour accompagner les familles les plus en difficulté.
 
-Nous cherchons une personne expérimentée pour rejoindre notre équipe et nous aider à poursuivre les travaux suivants :
+Nous cherchons une personne expérimentée pour rejoindre notre équipe et nous aider à poursuivre les objectifs suivants :
 
 1. La contractualisation et l'enrôlement du plus grand nombre de collectivités territoriales sur api.gouv.fr.
 2. Proposer de nouveaux jeux de données issues d'administrations telle que la [CNAM](https://www.ameli.fr/).
