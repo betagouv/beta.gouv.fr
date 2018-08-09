@@ -25,20 +25,15 @@ FranceConnect) et son rapport avec une personne morale.
 Il s’agit donc d’intervenir sur une [base de code en React](https://github.com/betagouv/signup-front) et en 
 [NodeJS](https://github.com/betagouv/api-particulier) et de participer à la création de la communauté pour réussir ces objectifs.
 
-Nous cherchons à créer une équipe multidisciplinaire : pas besoin d’être expert·e de tous ces sujets, nous nous répartirons 
-la charge selon les intérêts et expertises de chaque membre.
-
 ## Compétences et expérience
 
 - Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
-- Vous avez déjà une fois lamentablement échoué à réécrire une base de code from scratch.
 - Vous avez à cœur de rendre un service de qualité et avez toujours en tête l'utilisateur final lorsque vous travaillez.
 
 ## Modalités
 
 - Poste ouvert pour un·e indépendant·e (en portage).
-- Nos locaux sont situes [à Paris](https://github.com/betagouv/beta.gouv.fr/wiki/Locaux).
-- Temps partiel accepté (80 % minimum).
+- Nos locaux sont situés [à Paris](https://github.com/betagouv/beta.gouv.fr/wiki/Locaux).
 
 ## Candidater
 
