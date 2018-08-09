@@ -15,7 +15,7 @@ la création d'outils numériques (API, briques logicielles autours de [FranceCo
 
 Par exemple, lors de la demande de bourse de collège, nous proposons de récupérer le montant du revenu fiscal de référence du foyer
 directement auprès de la DGFiP. Grâce à cela, le collègien ne transporte plus de photocopies dans son cartable et l'intendant du collège
-n'a plus à vérifier son authenticitée (et gagne de l'espace en se séparant de son armoire d'archive). Nous économisons près de 2h de travail manuel par requête, temos qui peut être utilisé pour accompagner les familles les plus en difficulté.
+n'a plus à vérifier son authenticitée (et gagne de l'espace en se séparant de son armoire d'archive). Cela économise près de 1h de travail manuel par requête, temps qui peut être utilisé pour accompagner les familles les plus en difficulté.
 
 Nous cherchons une personne expérimentée pour rejoindre notre équipe et nous aider à poursuivre les travaux suivants :
 
