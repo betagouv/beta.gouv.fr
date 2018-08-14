@@ -2,19 +2,6 @@
     font-weight: bold;
 }
 
-article footer h3, article footer p {
-    margin: 0;
-}
-
-article footer, address {
-    font-style: normal;
-    font-size: 80%;
-}
-
-address.ui.cards {
-    margin-top: 2em;
-}
-
 .post-container {
     background-color: white;
 }
@@ -29,12 +16,6 @@ address.ui.cards {
     color: #222;
     font-size: 112%;
     line-height: 1.5;
-
-    max-width: 740px;
-    width: 100%;
-    padding: 1em 20px 6em;
-    margin: 0 auto;
-    box-sizing: border-box;
 }
 
 .post img {

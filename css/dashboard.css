@@ -20,7 +20,7 @@
     font-size: 80%;
     border-style: solid;
     border-width: 10px 0 10px 20px;
-    border-color: transparent transparent transparent #013b48;
+    border-color: transparent transparent transparent #00234d;
 }
 
 .counter, .counter a {
@@ -64,6 +64,6 @@
     .counter--endgame {
         flex-direction: row;
         border-width: 20px 10px 0 10px;
-        border-color: #222 transparent transparent transparent;
+        border-color: #00234d transparent transparent transparent;
     }
 }

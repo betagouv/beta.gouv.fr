@@ -74,3 +74,6 @@ excerpt_separator: <!--more-->
 
 sass:
   style: compressed
+
+theme: jekyll-theme-gouvfr
+# remote-theme: jekyll-theme-gouvfr

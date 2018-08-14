@@ -11,3 +11,7 @@ i {
     text-align: center;
     padding-bottom: 1em;
 }
+
+.startup-grid .card p.description {
+  color: #1c1c1c;
+}

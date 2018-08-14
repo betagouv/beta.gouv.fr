@@ -3,39 +3,6 @@
 @import "footer";
 @import "subscribe";
 
-html {
-    height: 100%;
-}
-
-body {
-    position: relative;
-    padding: 0;
-    display: flex;
-    height: 100%;
-    flex-direction: column;
-    background-color: $theme-background-grey;
-    font-family: 'Open Sans', Arial, sans-serif;
-}
-
-main {
-    flex: 1 0 auto;
-    width: 100%;
-    z-index: 2;
-    background-color: $theme-background-grey;
-}
-
-.menu {
-    text-align: right;
-}
-
-.ui.secondary.menu .item {
-    padding: 1em;
-}
-
-.ui.secondary.menu {
-    margin-right: 0;
-}
-
 /* degradability, see http://bitsofco.de/styling-broken-images */
 img {
     font-family: inherit;
@@ -45,169 +12,41 @@ a i.icon {
     text-decoration: none;
 }
 
-blockquote {
-    color: $theme-grey-text;
-    border-left: .2em solid $theme-border-grey;
-    margin-left: 0;
-    padding-left: 2em;
-}
-
-.cta {
-    cursor: pointer;
-    font-weight: bold;
-    text-decoration: none;
-}
-
-.primary.cta, .secondary.cta {
-    font-size: 1.2rem;
-    padding: .75em;
-    margin: .75em;
-}
-
-.primary.investigation.cta {
-    color: white;
-}
-
-a.secondary.cta {
-    background-color: transparent;
-}
-
-.cta:hover, .cta:focus {
-    text-decoration: underline;
-}
-
-body > a {
-    text-decoration: none;
-}
-
-.ui.container.padded, section {
-    padding: 3em 0;
-}
-
 .investigation {
-    background-color: #128297;
+    background-color: #1a85ff;
 }
 
 .construction {
-    background-color: #067b94;
+    background-color: #006be6;
 }
 
 .consolidation {
-    background-color: #04677c;
+    background-color: #0053B3;
 }
 
 .passation {
-    background-color: #067071;
+    background-color: #003b80;
 }
 
 .death {
     color: #000;
-    background-color: #767473;
+    background-color: #8393a7;
 }
 
 .retirement {
     color: #111;
-    background-color: #b3b4b6;
+    background-color: #adb9c9;
 }
 
 .success {
     color: #222;
-    background-color: #FFD700;
-}
-
-a.ui.card {
-    text-decoration: none;
-    color: inherit;
-    cursor: pointer;
+    background-color: #03bd5b;
 }
 
 h1.site-description {
     text-align: center;
     text-transform: uppercase;
     padding: 1em 0;
-    font-weight: normal;
-}
-
-#masthead {
-    background-size: cover;
-    background-position: top center;
-    background-attachment: fixed;
-    padding: 5em 0 2.5em;
-    color: white;
-    background-color: #CCC;
-    box-shadow: inset 0em 0em 1em #666;
-    background-blend-mode: darken;
-    position: relative;
-    text-shadow: 7px 3px 16px #000;
-}
-
-#masthead .masthead-wrapper {
-    max-width: 740px;
-    width: 100%;
-    padding: 0 20px;
-    margin: 0 auto;
-}
-
-#masthead h1 {
-    font-size: 300%;
-    text-align: left;
-    font-weight: bold;
-    line-height: 1.25;
-    max-width: 20em;
-    margin: 0;
-    padding: 0;
-}
-
-.ui.text.container {
-    padding: 1em 0;
-}
-
-@media (min-width: 100em) {
-    #masthead {
-        font-size: 120%;
-        padding: 14em;
-    }
-    #masthead .subtitle {
-        left: 14em;
-    }
-}
-
-@media (max-width: 50em) {
-    #masthead {
-        padding: 2em;
-    }
-
-    #masthead .subtitle {
-        left: 2em;
-    }
-
-    .large.screen.only {
-        display: none !important;
-    }
-}
-
-@media (max-width: 34em) {
-    #masthead {
-        padding: 1em 0;
-    }
-
-    #masthead h1 {
-        font-size: 200%;
-        text-align: center;
-    }
-
-    #masthead .subtitle {
-        position: relative;
-        text-align: center;
-    }
-
-    .ui.action.input {
-        display: block;
-    }
-
-    .ui.horizontal.divider {
-        white-space: normal;
-    }
 }
 
 iframe {
@@ -234,50 +73,37 @@ iframe {
     color: green;
 }
 
-.author.inactive {
-    opacity: 0.5;
+.hero {
+  height: 38vh;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.author > a {
-    // Do not underline the entire card if it acts as a link
-    text-decoration: none;
-
-    // Corrects width and height calculations on small screen
-    display: block;
+.hero__container {
+  z-index: 10;
 }
 
-.author .tiny.label {
-    margin-bottom: 4px;
+.hero img {
+  width: 100%;
+  filter: brightness(0.5);
+  position: absolute;
+  z-index: 5;
 }
 
-.tiny.label.inactive {
-    color: rgba(0, 0, 0, .4);
-    background: white;
-    border: 1px solid #e8e8e8;
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 30px;
+  margin-top: 25px;
+  justify-items: center;
+  justify-content: space-evenly;
 }
 
-.author .tiny.label a {
-    color: black;
-}
-
-.author .image {
-    margin-bottom: 1em;
-}
-
-.author img {
-    width: calc(25vw - 2.5em);
-    height: auto;
-    border-radius: 3px;
-}
-
-@media (max-width: 414px) {
-    .author .image {
-        float: right;
-        margin-right: 0;
-        margin-bottom: 1em;
-        margin-left: 1em;
-        width: 35px;
-        height: auto;
-        font-size: .71428571rem;
-    }
+a.card,
+footer a {
+  text-decoration: none;
 }

@@ -1,5 +1,6 @@
 ---
 additional_css:
+- main
 - homepage
 - dashboard
 - startup-presentation
@@ -11,79 +12,73 @@ title: Incubateur de services publics numériques
 ---
 
 <div class="hero">
-    <div class="hero__container">
-        <h1>{{ site.description }}</h1>
-    </div>
+  <div class="hero__container">
+    <h1>{{ site.description }}</h1>
+  </div>
 </div>
 
 <section class="presentation">
-    <div class="container">
-        <div class="row">
-            <div class="column">
-                <p>Les <strong>besoins des usagers</strong> avant ceux de l’administration</p>
-            </div>
-            <div class="column">
-                <p>Des <strong>équipes pilotées par la finalité</strong> plus que par les moyens</p>
-            </div>
-            <div class="column">
-                <p><strong>Amélioration continue</strong> plus que conformité à un plan</p>
-            </div>
-        </div>
-
-        <div class="row centered">
-            <a href="/startups" class="button large secondary">Voir notre portefeuille</a>
-            <a href="/incubateurs" class="button large">En savoir plus</a>
-        </div>
+  <div class="container">
+    <div class="row">
+      <p>Les <strong>besoins des usagers</strong> avant ceux de l’administration</p>
+      <p>Des <strong>équipes pilotées par la finalité</strong> plus que par les moyens</p>
+      <p><strong>Amélioration continue</strong> plus que conformité à un plan</p>
     </div>
+
+    <div class="row centered">
+      <a href="/startups" class="button large secondary">Voir notre portefeuille</a>
+      <a href="/incubateurs" class="button large">En savoir plus</a>
+    </div>
+  </div>
 </section>
 
 <section class="section-grey mosaic">
-    <div class="container">
-        <div class="row public-agents inverted">
-            <div class="photo"></div>
-            <div class="stacked">
-                <div class="description">
-                    <h3>Agents publics</h3>
-                    <p>Vous vous reconnaissez dans le profil d’un agent public indigné par une situation irritante pour les usagers ? Vous avez une idée précise d’une solution qui pourrait faire levier sur du numérique ? Vous êtes prêts à vous investir pour la mettre en oeuvre ?</p>
-                </div>
-                <div class="row">
-                    <a class="link" href="/contact">
-                        <img src="../img/icons/pen.svg" alt="Icône stylo" />
-                        <p>Adressez-nous une<br>fiche produit</p>
-                    </a>
-                    <a class="link">
-                        <img src="../img/icons/book.svg" alt="Icône livre" />
-                        <p>Inscrivez-vous à notre formation gratuite Alpha</p>
-                    </a>
-                </div>
-            </div>
+  <div class="container">
+    <div class="row public-agents inverted">
+      <div class="photo"></div>
+      <div class="stacked">
+        <div class="description">
+          <h3>Agents publics</h3>
+          <p>Vous vous reconnaissez dans le profil d’un agent public indigné par une situation irritante pour les usagers ? Vous avez une idée précise d’une solution qui pourrait faire levier sur du numérique ? Vous êtes prêts à vous investir pour la mettre en oeuvre ?</p>
         </div>
-        <div class="row developers">
-            <div class="photo"></div>
-            <div class="stacked">
-                <div class="description">
-                    <h3>Décideurs publics</h3>
-                    <p>Vous êtes responsable d’administration centrale ou territoriale et souhaitez créer rapidement des outils qui résolvent les problèmes les plus courants rencontrés par vos usagers ? Vous souhaitez accélérer votre transition numérique en mobilisant vos agents sur ces enjeux ?</p>
-                </div>
-                <div class="row">
-                    <a class="link" href="startups">
-                        <img src="../img/icons/pencil.svg" alt="Icône fusée" />
-                        <p>Découvrez une startup d'état existante</p>
-                    </a>
-                    <a class="link">
-                        <img src="../img/icons/rocket.svg" alt="Icône crayon" />
-                        <p>Lancez une startup d'état</p>
-                    </a>
-                </div>
-            </div>
+        <div class="row">
+          <a class="link" href="/contact">
+            <img src="../img/icons/pen.svg" alt="Icône stylo" />
+            <p>Adressez-nous une<br>fiche produit</p>
+          </a>
+          <a class="link">
+            <img src="../img/icons/book.svg" alt="Icône livre" />
+            <p>Inscrivez-vous à notre formation gratuite Alpha</p>
+          </a>
         </div>
+      </div>
     </div>
+    <div class="row developers">
+      <div class="photo"></div>
+      <div class="stacked">
+        <div class="description">
+          <h3>Décideurs publics</h3>
+          <p>Vous êtes responsable d’administration centrale ou territoriale et souhaitez créer rapidement des outils qui résolvent les problèmes les plus courants rencontrés par vos usagers ? Vous souhaitez accélérer votre transition numérique en mobilisant vos agents sur ces enjeux ?</p>
+        </div>
+        <div class="row">
+          <a class="link" href="startups">
+            <img src="../img/icons/pencil.svg" alt="Icône fusée" />
+            <p>Découvrez une startup d'état existante</p>
+          </a>
+          <a class="link">
+            <img src="../img/icons/rocket.svg" alt="Icône crayon" />
+            <p>Lancez une startup d'état</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 <section class="newsletter">
-    <div class="container">
-        <div class="form__container">
-            {% include subscribe.html %}
-        </div>
+  <div class="container">
+    <div class="form__container">
+      {% include subscribe.html %}
     </div>
+  </div>
 </section>

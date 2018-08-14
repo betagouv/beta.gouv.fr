@@ -1,47 +1,54 @@
 body {
-    margin: 0;
-    max-width: 100%;
+  margin: 0;
+  max-width: 100%;
 }
 
 .animating.out {
-    position: absolute;
+  position: absolute;
 }
 
 #otherExample {
-    float: right;
+  float: right;
 }
 
 /* Degradability + avoid FOUC */
 .no-js #otherExample {
-    opacity: 0;
+  opacity: 0;
 }
 
 /* IE < 10, nothing is better than fracked layout */
 .no-csstransitions #example, .no-csstransitions #otherExample {
-    display: none;
+  display: none;
 }
 
 .hero__container h1 {
-    color: #fff;
+  color: #fff;
 }
 
 .row.centered {
-    justify-content: center;
-
+  justify-content: space-around;
 }
 
 .presentation {
-    text-align: center;
-    padding: 5em 0;
+  text-align: center;
+  padding: 5em 0;
 }
 
 .presentation a {
-    font-size: 1.2em;
-    margin: 2em 10px 0 10px;
+  font-size: 1.2em;
+  margin: 2em 10px 0 10px;
 }
 
 .presentation img {
     height: 40px;
+}
+
+.mosaic .row {
+  margin: 0;
+} 
+
+.mosaic .row > * {
+  margin: 0;
 }
 
 .mosaic .description {

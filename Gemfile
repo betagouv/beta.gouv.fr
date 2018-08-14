@@ -2,7 +2,7 @@ require 'json'
 require 'net/http'
 
 source 'https://rubygems.org'
-
+gem 'jekyll-theme-gouvfr', :git => 'https://github.com/thimy/template-jekyll.git'
 begin
   uri      = URI('https://pages.github.com/versions.json')
   versions = JSON.parse(Net::HTTP.get(uri))
