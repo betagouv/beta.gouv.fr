@@ -24,11 +24,11 @@ Les familles ont plébiscité la démarche : invitées à donner une note de 1 (
 
 Le champ lexical des appréciations, très nombreuses, déposées par les familles, est remarquablement cohérent, les 5 premiers mots-clé ressortant du « nuage de mots » sont: « bien », « pratique », « simple », « rapide », « merci ».
 
-Quelques améliorations possibles si le Ministère de l'Éducation nationale choisit de renouveller son soutien au produit :
-- générer un formulaire papier prérempli pour communiquer les informations médicales sous pli cacheté (pour des raisons de confidentialité).
-- gérer l'adhésion au foyer socio-éducatif
-- renforcer la séparation entre les deux responsables légaux. Il s'agit notamment de protéger encore plus dans des situations de violence conjugale.
+Parmi les améliorations envisagées pour la campagne 2019 :
 - simplifier l'attribution du tarif de cantine approprié pour chaque famille
-- générer un meilleur courrier d'invitation des familles à se connecter au site
+- améliorer les moyens fournis aux établissements pour inviter les familles à utiliser le service
+- proposer un formulaire prérempli pour communiquer les informations médicales sous pli cacheté (pour des raisons de confidentialité)
+- faciliter l'adhésion aux initiatives associatives telles que le foyer socio-éducatif
+- fournir des identifiants distincts à chaque responsable légal afin notamment de protéger encore plus dans des situations familiales difficiles.
 
 DossierSCO est un produit de la startup [Open Académie](https://openacademie.beta.gouv.fr).
