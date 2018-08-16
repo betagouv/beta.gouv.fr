@@ -42,7 +42,7 @@ projet et en assurant leur formation et leur accompagnement sur l’utilisation 
 * Postes localisés dans les Directions régionales des affaires culturelles (DRAC) des 5 territoires concernés.
 * De nombreux déplacements sur l’ensemble du département sont à prévoir. Des réunions en soirée et le week-end ainsi que des déplacements hors du territoire (Paris notamment) pourront avoir lieu.
 
-Retrouver toutes les informations pour postuler, sur le portail de la fonction publique :
+Retrouvez toutes les informations pour postuler, sur le portail de la fonction publique :
 * <a href="https://biep-ministere-culture-recrute.talent-soft.com/offre-de-emploi/emploi-attadm-charge-e-de-developpement-territorial-du-pass-culture-h-f_136292.aspx">Fiche de poste pour l'Hérault</a>
 * <a href="https://biep-ministere-culture-recrute.talent-soft.com/offre-de-emploi/emploi-attadm-charge-e-de-developpement-territorial-du-pass-culture-h-f_136289.aspx">Fiche de poste pour la Guyane</a>
 * <a href="https://biep-ministere-culture-recrute.talent-soft.com/offre-de-emploi/emploi-attadm-charge-e-de-developpement-territorial-du-pass-culture-h-f_136290.aspx">Fiche de poste pour la Seine-Saint-Denis</a>
