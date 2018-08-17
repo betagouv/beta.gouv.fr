@@ -66,4 +66,4 @@ demarches-simplifiees.fr est développé par l’incubateur de services numériq
 
 Vous voulez en savoir plus ? Vous voulez une démo ? Pour nous contacter :
 - Email : contact@demarches-simplifiees.fr
-- Téléphone : + 33 1 40 15 68 49
+- Téléphone : 01 76 42 02 87
