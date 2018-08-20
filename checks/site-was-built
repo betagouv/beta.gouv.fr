@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "Checking if Jekyll has built anything at all"
-test -s _site/index.html

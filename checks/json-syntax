@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "Checking if the JSON API pages are well-formed"
-bundle exec jsonlint _site/api/v*/*.json

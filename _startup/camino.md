@@ -2,10 +2,11 @@
 title: Camino
 mission: Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.
 owner: Ministère de la transition écologique et solidaire
-status: investigation
+incubator: mtes
+status: construction
 start: 2018-01-01
 end:
-link: http://camino.beta.gouv.fr
+link: https://camino.beta.gouv.fr
 repository:
 stats: false
 contact: contact@camino.beta.gouv.fr
@@ -32,9 +33,9 @@ Une telle situation ne permet pas d’engager des débats ouverts, éclairés et
 Avec Camino, il sera enfin possible, pour tous les utilisateurs, de consulter les titres miniers et leurs caractéristiques sur une carte à jour et de suivre les projets en cours sur un tableau de bord.
 Avec ce référentiel commun ouvert et partagé des dossiers miniers et des autorisations administratives associées, Camino va résoudre les difficultés de ses 3 utilisateurs principaux : les entreprises, les citoyens et les agents publics :
 
- * **Les entreprises minières** pourront connaitre l’état du domaine minier puis déposer en ligne leurs demandes, les rapports et les données réglementaires. Elles pourront aussi visualiser l’avancement des instructions, suivre leur portefeuille de titres et répondre simplement à leurs obligations à chaque étape des projets.
- * **Les agents publics** pourront simplement accéder aux mêmes dossiers et données partagés entre les services des administrations et opérateurs publics. Il sera possible de co-instruire les demandes, de suivre et anticiper chaque moment de vie d’un projet, de trouver et valoriser les données sur le domaine minier national simplement et sans intermédiaire.
- * **Les ONG, les citoyens et leurs élus** pourront consulter à tout moment les dossiers et les données publiques, à l’échelle de leur territoire pour mieux contribuer, sans précipitation, aux procédures de participation du public et suivre de manière transparente l’actualité des projets.
+ - **Les entreprises minières** pourront connaitre l’état du domaine minier puis déposer en ligne leurs demandes, les rapports et les données réglementaires. Elles pourront aussi visualiser l’avancement des instructions, suivre leur portefeuille de titres et répondre simplement à leurs obligations à chaque étape des projets.
+ - **Les agents publics** pourront simplement accéder aux mêmes dossiers et données partagés entre les services des administrations et opérateurs publics. Il sera possible de co-instruire les demandes, de suivre et anticiper chaque moment de vie d’un projet, de trouver et valoriser les données sur le domaine minier national simplement et sans intermédiaire.
+ - **Les ONG, les citoyens et leurs élus** pourront consulter à tout moment les dossiers et les données publiques, à l’échelle de leur territoire pour mieux contribuer, sans précipitation, aux procédures de participation du public et suivre de manière transparente l’actualité des projets.
 
 ## Nos premiers pas sur Camino
 

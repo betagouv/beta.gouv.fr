@@ -50,12 +50,11 @@ Notamment, attention, la date dans le nom du fichier au format `AAAA-MM-DD-nom_e
 
 ### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=author&where=_authors/prenom.nom.md) :smiley:
 
-Attention, l'image doit être carrée et de préférence à une résolution supérieure à 512 ⨉ 512 pixels, optimisée au préalable avec un outil du type [ImageOptim](https://imageoptim.com/mac) - choisir des réglages "lossy" donnant en général plus de 50% de gains à la compression, mais ne pas supprimer les métadonnées d'images.
-
-Le nom du fichier est important : il doit correspondre au nom de la personne, selon le schéma `prenom.nom`. Les parties `prenom` et `nom` sont en minuscules et sans accents. Les espaces des noms propres sont remplacés par `_` et les tirets restent. Rien de très important ne dépend du respect de ces conventions, par contre **il est important que cet identifiant et celui du mail `@beta.gouv.fr` correspondent**. Cela nous permet de traiter [automatiquement](https://github.com/betagouv/betaGouvBot) divers sujets liés à la gestion RH tels que abonnement et désabonnement des listes de diffusion, anticipation des fins de contrat, etc.
+Le nom du fichier est important : il doit correspondre au nom de la personne, selon le schéma `prenom.nom.md`. Les parties `prenom` et `nom` sont en minuscules et sans accents. Les espaces des noms propres sont remplacés par `_` et les tirets restent. Il faut garder .md à la fin du nom du fichier. **Il est important que cet identifiant et celui du mail `@beta.gouv.fr` correspondent**. Cela nous permet de traiter [automatiquement](https://github.com/betagouv/betaGouvBot) divers sujets liés à la gestion RH tels que abonnement et désabonnement des listes de diffusion, anticipation des fins de contrat, etc.
 
 > Sinon, offline : créer un nouveau fichier de description dans le dossier [`_authors`](https://github.com/betagouv/beta.gouv.fr/tree/master/_authors) et renseigner les informations en prenant exemple sur un fichier de description existant déjà dans ce dossier.
 
+Tu peux fournir un fichier avec ta photo si tu n'as pas de compte Github, ou si tu es à l'aise avec la manip (qui est un peu plus pénible que juste modifier un fichier Markdown). Attention, l'image doit être carrée et de préférence à une résolution supérieure à 512 ⨉ 512 pixels, optimisée au préalable avec un outil du type [ImageOptim](https://imageoptim.com/mac) - choisir des réglages "lossy" donnant en général plus de 50% de gains à la compression, mais ne pas supprimer les métadonnées d'images.
 
 ## Ajouter une offre d'emploi
 
@@ -84,7 +83,9 @@ Mettre à jour la propriété `featured` de la phase correspondante pour référ
 
 Attention, toutes les pages doivent avoir, dans leur [front matter](https://jekyllrb.com/docs/frontmatter/), les variables `permalink`, `lang` et `ref` définies.
 
-## Modifier la présentation du site
+## Modifier la présentation du site en Local
+
+### Utilisation de Jekyll pour le développement en local
 
 Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est celle [actuellement en production](https://pages.github.com/versions/) sur GitHub Pages.
 
@@ -99,6 +100,10 @@ bundle exec jekyll serve
 ```
 
 Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `_layouts` et `css`.
+
+### Utilisation de Docker pour le développement en local
+- Installer (Docker](https://docs.docker.com/compose/install/) (Docker compose est normalement installé automatiquement avec Docker)
+- Lancer `docker-compose up`
 
 ### Dépendances : un `Gemfile` particulier
 

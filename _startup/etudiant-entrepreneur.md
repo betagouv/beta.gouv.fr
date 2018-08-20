@@ -2,7 +2,8 @@
 title: Étudiant entrepreneur
 mission: Faciliter l'accès au statut étudiant entrepreneur et à ses bénéfices
 owner: Ministère de l'Enseignement supérieur
-status: success
+incubator: dinsic
+status: death
 start: 2016-06-23
 end:
 link: https://etudiant-entrepreneur.beta.gouv.fr

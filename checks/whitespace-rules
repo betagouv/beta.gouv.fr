@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "Checking if your files are correctly formatted (indentation and whitespace)"
-find . -type d \( -path ./_site -o -path ./.git -o -path ./img -o -path ./vendor \) -prune -o -not -name nohup.out -print | xargs eclint check

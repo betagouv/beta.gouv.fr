@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "Checking if the Jekyll configuration makes sense"
-bundle exec jekyll doctor

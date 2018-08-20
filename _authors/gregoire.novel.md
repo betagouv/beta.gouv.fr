@@ -7,4 +7,5 @@ employer: independent/octo
 avatar: https://beta.gouv.fr/img/logo-generique-startup-carre.jpg
 startups:
     - demarches-simplifiees.fr
+    - competences-pro
 ---

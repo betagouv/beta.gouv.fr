@@ -2,6 +2,7 @@
 title: Mes Aides # une majuscule et pas d'acronymes
 mission: Accéder aux conseils d'un·e professionnel·le à proximité pour trouver un logement # infinitif, pas de point ; compléter la phrase « En investissant dans ce produit l'État cherche à… »
 owner: DINSIC # Administration porteuse
+incubator: dinsic # le nom du fichier de l'incubateur de la startup
 status: consolidation # les phases possibles sont définies dans [`_config.yml`](https://github.com/betagouv/beta.gouv.fr/blob/master/_config.yml#L29-L52)
 start: 2015-01-15 # date au format ISO (AAAA-MM-DD)
 end: # laisser vide

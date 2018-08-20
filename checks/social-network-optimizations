@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "Checking that the homepage and article layouts are social network friendly"
-ruby rb/test/opengraph.rb # test social cards

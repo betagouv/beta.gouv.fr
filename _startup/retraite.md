@@ -2,7 +2,8 @@
 title: Mes démarches retraite pas à pas
 mission: Obtenir en quelques clics la liste personnalisée de ses démarches de retraite
 owner: CNAV, MSA, Sécurité sociale pour les indépendants
-status: success
+incubator: dinsic
+status: consolidation
 start: 2015-10-01
 end:
 link: https://mesdemarchesretraite.fr
@@ -16,6 +17,6 @@ Le départ à la retraite est un moment angoissant. Les démarches peuvent être
 Le ou la futur·e retraité·e répond à quelques questions sur sa carrière et sa situation actuelle et obtient la liste personnalisée de démarches téléchargeable. Cette liste est un parcours chronologique, avec à chaque étape les démarches à réaliser et les informations qui peuvent l'aider.
 
 Les caisses de retraite portant le projet (CNAV, MSA et la Sécurité sociale pour les indépendants) ont déployé le service :
-* [CNAV](https://mesdemarchesretraite.fr/lassuranceretraite)
-* [MSA](http://www.msa.fr/lfr/retraite/demande-de-retraite)
-* [Sécurité sociale pour les indépendants](https://www.secu-independants.fr/retraite/mes-demarches-retraite/)
+- [CNAV](https://mesdemarchesretraite.fr/lassuranceretraite)
+- [MSA](http://www.msa.fr/lfr/retraite/demande-de-retraite)
+- [Sécurité sociale pour les indépendants](https://www.secu-independants.fr/retraite/mes-demarches-retraite/)

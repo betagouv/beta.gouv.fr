@@ -2,31 +2,18 @@
 title: Clara - Vos aides en un clic
 mission: Découvrir les aides et mesures Pôle emploi qui accélèrent la reprise d'activité
 owner: Pôle emploi
-status: construction
+incubator: pole-emploi
+status: acceleration
 start: 2017-04-01
 end:
-link: http://clara.pole-emploi.fr/
-repository:
+link: https://clara.pole-emploi.fr/
+repository: https://github.com/StartupsPoleEmploi/clara
 stats: false
 contact: anne-camille.monet@pole-emploi.fr
 ---
 
-Les demandeurs d’emploi se privent d’opportunités professionnelles faute d’avoir connaissance d’aides leur permettant un retour efficace à l’emploi. __Les aides sont nombreuses et les critères d’attribution sont méconnus__. Difficile, dans ce contexte, de savoir quelle information chercher et où la chercher…
+Il existe de nombreuses aides et mesures qui peuvent vous aider à reprendre un emploi. Clara permet de savoir quelles aides vous pouvez obtenir, à quels types de contrats vous êtes éligible, quelles prestations vous pouvez mobiliser, en fonction de votre profil et de votre situation.
 
-Pourtant leur efficacité est prouvée : parmi les demandeurs d’emploi qui ont réussi à accéder à l’information, 84 % des bénéficiaires de l’aide au transport ont repris une activité pérenne dans les 6 mois qui ont suivi l’attribution de l’aide. De plus, __en l’absence de cette aide, la moitié d’entre eux aurait hésité, voire refusé le déplacement__.
+Quelques exemples d’aides : immersion professionnelle (PMSMP), évaluation des compétences et capacités professionnelles (ECCP), alternance (contrat de professionnalisation, contrat d’apprentissage), aides à la mobilité (garde d’enfant, transport, restauration, hébergement), aides à la formation, aides à la création ou reprise d’entreprise, emploi international,…
 
-Un profil éligible aux aides de l’Etat c’est aussi un moyen de booster une candidature auprès des entreprises. Uniquement sur l’année dernière, 1,56 million de contrats aidés ont été signés, permettant à des candidats très éloignés du marché du travail de mettre ou remettre un pied dans l’emploi.
-
-__Clara ouvre de nouvelles opportunités de reprise d’emploi, en portant l’existence des aides à la connaissance des bénéficiaires et aussi en leur indiquant leur éligibilité aux contrats aidés__.
-
-Clara fournira dès sa sortie l’accès à des aides nationales et régionales. La priorité est de mettre le plus rapidement possible un service indispensable entre les mains des demandeurs d’emploi puis offrir un gain de temps aux conseiller·e·s emploi.
-
-Afin d’avoir des retours rapides et enrichir notre couverture d’aides locales, nous commencerons par déployer Clara en Hauts-de-France afin de trouver un ou plusieurs référents aides et des utilisateurs cibles. Cette stratégie de déploiement sera ensuite étendue région par région.
-
-A terme Clara sera intégré dans les services déjà connus de demandeurs d'emploi et des conseiller·e·s :
-
-* Lors de la consultation des offres par les demandeurs d’emploi
-* Dans le profil du demandeur d’emploi sur pole-emploi.fr
-* Sur le CV du demandeur d’emploi
-* Dans le profil consulté par les conseiller·e·s emplois (Aude)
-* Sur Map, mes-aides.gouv.fr, embauche.gouv.fr et sur le portail du CPA
+Les aides et informations disponibles dans le site sont régulièrement mises à jour.

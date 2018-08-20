@@ -2,8 +2,9 @@
 title: Open Académie
 mission: Construire le lycée et le collège de demain
 owner: Ministère de l'Éducation nationale
-status: consolidation
-start: 2015-01
+incubator: dinsic
+status: acceleration
+start: 2015-01-01
 end:
 link: https://openacademie.beta.gouv.fr
 repository: https://github.com/betagouv/open-academie
@@ -16,5 +17,5 @@ redirect_from:
 Construire le lycée et le collège de demain avec les personnels d'aujourd'hui, en pariant sur l'intelligence locale, l'humilité déterminée, l'action concrète et l'amélioration continue. OpenAcademie est une communauté d'agents de l'éducation nationale qui partage des outils de productivité utiles au quotidien dans la gestion d'un Établissement Public Local d'Enseignement (EPLE).
 
 - MobiliSco : les voyages scolaires cessent d'être un cauchemar.
-- DossierSco : gérer d'un bout à l'autre les inscriptions des élèves.
+- <a href="https://beta.gouv.fr/startup/dossiersco.html">DossierSco</a> : gérer d'un bout à l'autre les inscriptions des élèves.
 - GemaSco : l'application qui commande, distribue, récupère les manuels et fait même l'inventaire !

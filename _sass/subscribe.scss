@@ -41,7 +41,11 @@
 }
 
 .subscribe form input[type=submit] {
-    display: none;
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
 }
 
 .subscribe form input[type=email] {

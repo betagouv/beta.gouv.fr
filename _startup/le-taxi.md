@@ -2,13 +2,14 @@
 title: Le Taxi
 mission: Commander un taxi, rapidement
 owner: Ministère de la Transition écologique et solidaire
-status: consolidation
+incubator: dinsic
+status: acceleration
 start: 2015-03-15
 end:
 link: https://le.taxi
 repository: https://github.com/openmaraude/APITaxi
 stats: true
-contact:
+contact: ishan.bhojwani@beta.gouv.fr
 redirect_from:
   - /startup/taxi
 ---

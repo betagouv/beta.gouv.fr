@@ -2,13 +2,14 @@
 title: Réso
 mission: Apporter l'ensemble des aides publiques aux entreprises qui en ont besoin
 owner: DIRECCTE Haut-de-France
+incubator: dinsic
 status: construction
 start: 2017-04-03
 end:
 link: https://reso.beta.gouv.fr/
 repository: https://github.com/betagouv/reso
 stats: false
-contact: juliette.culot@beta.gouv.fr
+contact: mathieu.gens@beta.gouv.fr
 redirect_from:
   - /startup/e-conseils
 ---
@@ -31,7 +32,7 @@ Avec Réso, l’État ouvre un guichet unique qu’il apporte aux entreprises en
 Un outil numérique au service du conseil public
 ===============================================
 
-Un outil numérique est au cœur de ce réseau et permet de le fédérer. Des algorithmes utilisant des bases de données publiques (activités, résultats financiers, export…) permettent de cibler la prospection : entreprises en pré-difficulté, à fort potentiel de croissance ou ayant un projet de recrutement… Un simulateur permet aux conseillers de proposer aux chefs d’entreprise un premier niveau d’information sur les aides correspondant à leurs besoins et, le cas échéant, d’identifier un contact au sein de l’administration capable de les accompagner dans leurs démarches.
+Un outil numérique est au cœur de ce réseau et permet de le fédérer. Il permet aux conseillers de proposer aux chefs d’entreprise une mise en relation automatisée vers les bons experts ayant connaissance des aides correspondant à leurs besoins. Les experts identifiés au sein de l’administration prendront contact avec l'entreprise et seront en capacité de les accompagner dans leurs démarches.
 
 
 Réso permet ainsi à l’administration de développer un rôle de conseil à destination des entreprises en complément de son rôle régalien de contrôle.

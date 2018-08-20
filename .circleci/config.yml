@@ -1,0 +1,93 @@
+# CircleCI 2.0 configuration file. See <https://circleci.com/docs/2.0/language-ruby/>.
+version: 2
+jobs:
+  build:
+    docker:
+       - image: circleci/ruby:2.4.2-browsers  # use the browsers variant image to have Java preinstalled as it is a dependency of html5validator
+
+    steps:
+      - checkout
+      - run:
+          name: Generate Gemlock
+          command: bundle lock
+            
+      - restore_cache:
+          key: dependency-cache-{{ checksum "Gemfile.lock" }}
+
+      - run:
+          name: Install Ruby dependencies
+          command: bundle install --jobs=4 --retry=3 --path vendor/bundle
+
+      - run:
+          name: Install html5validator
+          command: |
+            sudo apt-get update
+            sudo apt-get install -y python-pip
+            pip install --user --upgrade html5validator  # will install in $HOME/.local
+
+      - save_cache:
+          key: dependency-cache-{{ checksum "Gemfile.lock" }}
+          paths:
+            - ./vendor/bundle
+            - $HOME/.local
+
+      - run:
+          name: Check authors file name structure (first_name.last_name.md)
+          command: |
+            if ls _authors | grep --line-regexp --invert-match '[a-z_-]\+\.[a-z_-]\+\.md'
+            then cat <<EOF
+              One or more authors do not have the expected structure.
+              Notes:
+              A dot (.) can only appear as a separator between the first and the last names.
+              Dashes in names are kept as-is.
+              Spaces are replaced by underscores (_).
+            EOF
+              exit 1
+            fi
+
+      - run:
+          name: Check Jekyll configuration
+          command: bundle exec jekyll doctor
+
+      - run:
+          name: Compile website
+          command: bundle exec jekyll build --safe
+
+      - run:
+          name: Check homepage was compiled
+          command: test -s _site/index.html
+
+      - run:
+          name: Check HTML common mistakes
+          command: bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
+
+      - run:
+          name: Validate HTML spec compliance
+          command: $HOME/.local/bin/html5validator --root _site
+
+      - run:
+          name: Check author metadata
+          command: ruby rb/bin/validate rb/schema/author.yml "_authors/*.md"
+
+      - run:
+          name: Check startup metadata
+          command: ruby rb/bin/validate rb/schema/startup.yml "_startup/*.md"
+
+      - run:
+          name: Lint JSON API pages
+          command: bundle exec jsonlint _site/api/v*/*.json
+
+      - run:
+          name: Start server
+          command: bundle exec jekyll serve --no-watch --skip-initial-build
+          background: true
+      - run:
+          name: Wait for server to start
+          command: |
+            while ! curl --silent http://localhost:4000
+            do sleep 1
+            done
+
+      - run:
+          name: Check social networks friendliness
+          command: ruby rb/test/opengraph.rb

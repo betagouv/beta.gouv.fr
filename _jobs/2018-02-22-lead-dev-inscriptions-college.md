@@ -1,7 +1,7 @@
 ---
 roles: un·e lead dev full-stack pour dématérialiser l'inscription au collège
 startup: open-academie
-open: true
+open: false
 ---
 
 Vous avez vu vos parents s’arracher les cheveux pour vous inscrire au collège en remplissant des dossiers papier qui demandaient vos noms et prénoms pour la énième fois ? Vous l'avez fait vous-même pour vos enfants ?
@@ -14,7 +14,7 @@ Objectif pour juin 2018 : une première vague de milliers de familles passeront 
 
 <!--more-->
 
-# Conditions
+## Conditions
 
 - Poste ouvert pour un·e indépendant·e, mission de 6 mois
 - Télétravail partiel possible, 3 jours de présence par semaine à Paris

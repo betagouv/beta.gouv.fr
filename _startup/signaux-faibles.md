@@ -1,42 +1,30 @@
 ---
 title: Signaux Faibles
-mission: Mieux cibler les interventions en remédiation de l'État vers les entreprises en difficulté
+mission: Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté
 owner: DINSIC
-status: construction
+incubator: dinsic
+status: acceleration
 start: 2014-05-15
 end:
 link:
-repository:
+repository: https://github.com/entrepreneur-interet-general/opensignauxfaibles
 stats: false
-contact: pierre@pezziardi.net
+contact: contact@signaux-faibles.beta.gouv.fr
 ---
 
-## Fiche produit
+## La problématique
 
-La survie des entreprises en période de crise constitue une priorité du gouvernement, pourtant…
+L’instauration des 22 Commissaires au Redressement Productif (CRP) en 2012 a permis de mieux coordonner l’action de l’État dans l’accompagnement des entreprises en difficulté sur les territoires (en particulier, les PME et ETI de moins de 400 salariés). Leur action permet d’assurer un accompagnement continu et vigilant des cas d’entreprises en difficulté ou en restructuration. Toutefois, le CRP est encore parfois sollicité à un stade avancé de difficulté, ce qui peut limiter le nombre de leviers à actionner pour accompagner l’entreprise et diminuer les chances de succès.
 
-Les constats sur l’évolution du tissu économique sont préoccupants, pour mémoire en Bourgogne fin 2015 &nbsp;: 8&nbsp;000 entreprises liquidées depuis 2008, 29&nbsp;000 emplois supprimés. Évolution de l’emploi salarié : -&nbsp;6,7&nbsp;% (-&nbsp;2,1&nbsp;% au niveau national).
+Les administrations publiques détiennent ensemble des données d’une grande richesse sur la situation économique, financière et sociale des entreprises. L’enjeu du projet « Signaux faibles » est de croiser ces données et de les traiter statistiquement avec un algorithme adapté qui détermine une probabilité de défaillance à 12, 18 et 24 mois. La création d’un outil numérique de détection permettra d’envoyer des alertes aux différentes administrations en mesure de proposer une offre de service aux entreprises concernées.
 
-Les interventions en remédiation organisées par la sphère publique — cellule de veille Commissaire au redressement productif (CRP-Direccte / Urssaf / DRFIP) — sont trop sélectives et trop tardives.
+Au-delà des enjeux techniques (identification des données pertinentes, élaboration de l’algorithme), il s’agit également de faire évoluer le mode de travail des services concernés en décloisonnant davantage les services publics et parapublics afin de développer une offre de service centrée sur l’entreprise, tout en préservant la confidentialité de ces informations.
 
-Une mise en œuvre plus précoce des outils d’appui aux entreprises permettrait d’accroître l’efficacité de l’action publique sans augmentation de coûts.
+## Le défi : détecter en amont la défaillance d’entreprises en utilisant au mieux l’ensemble des données dont disposent les administrations et opérateurs de l’État
 
-Cette mise en œuvre précoce suppose une détection des tout premiers signes de modifications de comportement d’une entreprise, quelle que soit la taille de cette entreprise, que ces modifications soient révélatrices d’une dynamique de développement ou prédictives de difficultés à venir.
+La détection de signaux faibles, qui indiquent une dégradation de la situation de l’entreprise, permet d’identifier de façon plus précoce les entreprises sur lesquelles des actions d’accompagnement peuvent être proposées au chef d’entreprise. Les innovations portent sur :
 
-Cette détection se construira sur l’observation d’un ensemble de données portant sur des aspects multiples de la vie de l’entreprise (gestion des ressources humaines, de l'activité, versement des cotisations sociales, fiscales,…).
+- La mise au point d’un algorithme de détection qui utilise les données et variables pertinents et détecte efficacement les entreprises en difficulté (données URSSAF, DIRECCTE, Banque de France etc.) ;
+- Le développement d’un système informatique de chargement de données capable de rafraichir régulièrement et automatiquement les données à partir des bases opérationnelles. L’objectif est de détecter dynamiquement 2 à 5 nouvelles PME par mois à l’échelle de la Bourgogne Franche-Comté.
 
-C’est à la confluence de ces sources d’informations opérantes que se situe le projet «&nbsp;signaux faibles&nbsp;». Son objectif principal : remettre aux acteurs publics de la cellule de veille un état des entreprises «&nbsp;en risque de difficultés&nbsp;» afin d’examiner, avec celles qui le souhaiteraient, les conditions d’un appui institutionnel.
-
-Nombre des informations nécessaires à ce repérage sont couvertes par une obligation de confidentialité due à leur caractère hautement sensible, pourtant, il est concevable de constituer un groupe de travail régional, permanent et dûment habilité. Ce groupe «&nbsp;expert&nbsp;» est composé de techniciens appartenant aux institutions précitées.
-
-Même si ce montage peut apporter quelque trouble dans l’organisation actuelle de l’appui aux entreprises en difficulté, l’enjeu qui vise à la survie des entreprises en période de crise doit constituer un argument décisif de nature à emporter la conviction des acteurs concernés.
-
-Un premier dispositif de partage a été expérimenté en conditions réelles en Bourgogne à la fin 2015. Tous les retours des chargés de mission sont positifs et l’intérêt validé par la Commissaire au Redressement Productif de la région Bourgogne. Une seconde phase va donc élargir l'ambition en passant du partage de "SIRET présumés en difficulté" au partage de données brutes.
-
-Le projet est conduit selon la méthode des Startups d’État. À noter : une Startup d’État «&nbsp;miroir&nbsp;» a déjà mis en production dans les mêmes conditions un outil de ciblage des entreprises… qui recrutent : [labonneboite.pole-emploi.fr](http://labonneboite.pole-emploi.fr).
-
-Le principe fondateur est de réunir dès le début, et tout au long du projet, les principaux partenaires et utilisateurs de l’outil. Nous appelons cette instance OpenLab. Elle se réunit sur une base hebdomadaire, pour réaliser une démonstration de l’outil à date, collecter le feedback des visites d'entreprise, et discuter les priorités de l’itération suivante.
-
-Le projet est politiquement soutenu sur la région Bourgogne par ses principaux partenaires (Préfecture de région, Urssaf Bourgogne et Franche Comté, DRFIP et DIRECCTE), c’est donc naturellement avec eux que démarreront les OpenLab.
-
-L’objectif fixé à T0&nbsp;+&nbsp;6&nbsp;mois est d’avoir constitué un outil expérimenté dans 1 à 3 régions pilotes, salué par ses utilisateurs et ses bénéficiaires, les chefs d'entreprise, et généralisable aux autres régions à coût marginal.
+Impacts attendus en matière de transformation numérique : une action de l’État déconcentrée encore plus efficace pour accompagner les entreprises fragilisées. À terme, c’est __un véritable « réseau social sécurisé » centré sur l’entreprise qui est amené à devenir l’outil quotidien des acteurs publics mobilisés autour des entreprises en difficulté__.

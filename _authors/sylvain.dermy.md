@@ -2,7 +2,7 @@
 fullname: Sylvain Dermy
 role: Community Manager
 start: 2017-02-01
-end: 2018-03-07
+end: 2018-10-26
 employer: dinsic
 startups:
     - mes-aides

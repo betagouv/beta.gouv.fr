@@ -2,7 +2,8 @@
 title: Bourse
 mission: Demander et liquider une bourse de collège en ligne
 owner: DINSIC
-status: consolidation
+incubator: dinsic
+status: death
 start: 2015-03-01
 end:
 link: https://bourse.beta.gouv.fr

@@ -2,7 +2,8 @@
 title: OGP Toolbox
 mission: Trouver des outils numériques pour améliorer la démocratie
 owner: Etalab / Open Government Partnership
-status: success
+incubator: dinsic
+status: death
 start: 2016-06-08
 end:
 link: https://ogptoolbox.org/

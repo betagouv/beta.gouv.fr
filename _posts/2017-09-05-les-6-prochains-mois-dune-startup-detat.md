@@ -12,11 +12,11 @@ Quelle est la meilleure façon de concevoir ces 6 mois à venir ?
 <!--more-->
 
 L’intrapreneur débutant est tenté de définir les 6 mois à venir sous la forme d’une liste d’activités envisagées pour l’équipe. Ce qui pourrait ressembler à ça :
-* écrire des CGUs avec le juridique
-* développer des règles métier spécifiques à la région Haut-de-France
-* implémenter la nouvelle charte graphique
-* intégrer le bouton France Connect
-* connecter l’API de la CNAV donnant les montants de retraite
+- écrire des CGUs avec le juridique
+- développer des règles métier spécifiques à la région Haut-de-France
+- implémenter la nouvelle charte graphique
+- intégrer le bouton France Connect
+- connecter l’API de la CNAV donnant les montants de retraite
 
 Malheureusement, cette description du futur de la Startup en liste de tâches à la Gantt est pauvre à plusieurs égards. Tout d’abord parce qu’elle n’intéresse pas vraiment le sponsor. L’objectif n’est pas de le rassurer sur le fait que l’équipe de la Startup va « travailler ». Il cherche plutôt à être rassuré sur la stratégie de résolution des problèmes qui font face à la Startup. Est-ce que l’équipe s’y prend de la bonne manière pour maximiser l’impact sur le réel ? Dans ce cas, une liste de tâches à la Prévert va au mieux l’ennuyer, au pire l’inquiéter sur l’absence de stratégie.
 
@@ -34,10 +34,10 @@ Autre intérêt d’arrêter le long terme à 6 mois, c’est une échelle déj�
 
 La facilité consiste à lister des idées de fonctionnalité produit (des idées, on en a tous 15 par nuit), en oubliant que la Startup d’État se doit d’abord de gagner de nouveaux utilisateurs, trouver de nouveaux canaux de diffusion, et maximiser l’impact de ses efforts sur le réel.
 
-* Le futur du produit : quelles prochaines fonctionnalités ou éléments d’expérience utilisateur permettraient de résoudre encore mieux le problème de l’usager ?
-* Le futur du marché : quels nouveaux types d’usagers faut-il attirer sur le service ?
-* Le futur de la diffusion : quels nouveaux moyens de distribution et de diffusion du service devons-nous mettre en œuvre ?
-* Le futur de l’impact : quelles conséquences sur le réel doit-on tenter d’obtenir dans les 6 mois à venir ? Il ne s’agit pas forcément d’euros puisqu’on est dans le cadre d’une Startup d’État mais ça n’empêche pas d’essayer de [mesurer](/2017/03/24/no-more-digital-bullshit-please.html) !
+- Le futur du produit : quelles prochaines fonctionnalités ou éléments d’expérience utilisateur permettraient de résoudre encore mieux le problème de l’usager ?
+- Le futur du marché : quels nouveaux types d’usagers faut-il attirer sur le service ?
+- Le futur de la diffusion : quels nouveaux moyens de distribution et de diffusion du service devons-nous mettre en œuvre ?
+- Le futur de l’impact : quelles conséquences sur le réel doit-on tenter d’obtenir dans les 6 mois à venir ? Il ne s’agit pas forcément d’euros puisqu’on est dans le cadre d’une Startup d’État mais ça n’empêche pas d’essayer de [mesurer](/2017/03/24/no-more-digital-bullshit-please.html) !
 
 Décrire le futur à 6 mois c’est donc se donner des objectifs sur le volet produit mais aussi sur les volets marché, diffusion et bien sûr impact.
 
@@ -77,18 +77,18 @@ Les 4 domaines (produit, marché, diffusion, impact) ne se valent pas. Des produ
 ## Conclusion
 
 En évitant de se focaliser uniquement sur les fonctionnalités, ces principes vont donc guider l’intrapreneur dans l’écriture de son slide « les 6 mois à venir » :
-* Principe de **progressivité**
-* Principe d’**augmentation de la difficulté**
-* Principe d’**accélération**
-* Principe de **priorité** : impact et marché avant produit et diffusion
+- Principe de **progressivité**
+- Principe d’**augmentation de la difficulté**
+- Principe d’**accélération**
+- Principe de **priorité** : impact et marché avant produit et diffusion
 
 Concrètement le mode opératoire est le suivant. On va dérouler les principes dans l’ordre inverse :
-* priorité : l’impact et le marché guident tout le reste, quelles contraintes en découlent sur le produit et sur la diffusion dans les 6 mois ?
-* accélération : si l’impact est prouvé, comment accélérer la diffusion ?
+- priorité : l’impact et le marché guident tout le reste, quelles contraintes en découlent sur le produit et sur la diffusion dans les 6 mois ?
+- accélération : si l’impact est prouvé, comment accélérer la diffusion ?
 
 Puis sur chacun des axes produit, marché, et diffusion, on peut définir intelligemment les 6 mois à venir en se posant les questions suivantes :
-* progressivité : comment continuer sur cet axe avec des étapes intermédiaires astucieuses ?
-* augmentation de la difficulté : comment grandir sur cet axe pour ne pas se contenter de ce qu’on a ?
+- progressivité : comment continuer sur cet axe avec des étapes intermédiaires astucieuses ?
+- augmentation de la difficulté : comment grandir sur cet axe pour ne pas se contenter de ce qu’on a ?
 
 Finie la description du futur de la Startup par le détail des tâches projet envisagées. En respectant ces principes de conception des prochaines marches, notre intrapreneur va pouvoir présenter un slide « la suite » bien plus perspicace que sa première liste à la Prévert. Il pourrait ressembler à ça :
 

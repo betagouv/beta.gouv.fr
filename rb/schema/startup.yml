@@ -1,0 +1,36 @@
+type:       map
+mapping:
+  "title":
+    type:      str
+    required:  yes
+  "mission":
+    type:      str
+    required:  yes
+  "owner":
+    type:      str
+    required:  yes
+  "status":
+    type:      str
+    required:  yes
+  "start":
+    type:      date
+    required:  yes
+  "end":
+    type:      date
+  "incubator":
+    type:      str
+    required:  yes
+  "link":
+    type:      str
+  "repository":
+    type:      str
+  "stats":
+    type:      bool
+  "contact":
+    type:      str
+    pattern:   /@/
+    required:  yes
+  "redirect_from":
+    type:      seq
+    sequence:
+        - type:      str

@@ -2,7 +2,8 @@
 title: demarches-simplifiees.fr
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
 owner: DINSIC
-status: consolidation
+incubator: dinsic
+status: acceleration
 start: 2015-09-15
 end:
 link: https://www.demarches-simplifiees.fr
@@ -65,4 +66,4 @@ demarches-simplifiees.fr est développé par l’incubateur de services numériq
 
 Vous voulez en savoir plus ? Vous voulez une démo ? Pour nous contacter :
 - Email : contact@demarches-simplifiees.fr
-- Téléphone : + 33 1 40 15 68 49
+- Téléphone : 01 76 42 02 87

@@ -1,38 +1,38 @@
 ---
 title: A+, le service public VIP pour tous.
-mission: La communauté des Agents A+ vous aide à résoudre les blocages administratifs.
-owner: DILA
-status: construction
+mission: La communauté des A+ vous aide à résoudre les blocages administratifs.
+owner: DINSIC
+incubator: dinsic
+status: acceleration
 start: 2017-10-01
 end:
 link:
-repository:
+repository: https://github.com/betagouv/aplus
 stats: false
 contact: contact@aplus.beta.gouv.fr
 ---
 
 ## Des blocages administratifs parfois dramatiques
 
-Qui n’a pas vécu ce casse-tête : démarche en attente, pièces manquantes, renvoi d’un guichet débordé à l’autre, dossier perdu, information en ligne insuffisante… ?
-
-Les conséquences peuvent être graves : l’usager peut basculer dans la précarité à cause d’un blocage absurde de son dossier entre administrations.
-
-> Par exemple, Julie a déménagé à Marseille et a demandé le transfert de son dossier CAF depuis Paris. Elle craint une suspension de son allocation RSA si elle n'envoie pas sa déclaration de revenus trimestrielle à la bonne CAF.
+A+ s’adresse à l’usager, en situation particulièrement vulnérable, qui a déposé une demande auprès d’une administration et qui ne parvient pas à la faire aboutir : plus de nouvelles de son état d’avancement, refus injustifié selon lui, impossibilité de réunir des pièces ou de remplir correctement des formulaires…  A+ s’adresse donc en particulier à ceux qui ont des dossiers complexes ou atypiques, des difficultés avec le numérique mais également à ceux qui ont des problèmes de communication, avec la langue de l’administration ou tout simplement avec le français.
+ Des exemples de bénéficiaires de A+ ?
+ - Une personne sans domicile fixe radiée de plusieurs administrations car elle ne répond pas aux courriers.
+ - Un patient hospitalisé et qui est coincé dans son lit sans possibilité de se déplacer pour accomplir ses démarches.
+ - Une femme battue qui fuit avec ses enfants et qui ne parvient pas à réunir tous les documents relatifs à son ex-mari.
 
 
 ## Le service A+ pour résoudre les blocages
 
-Le service s'appuie sur la communauté des A+, des agents relais, volontaires, bienveillants dans les administrations (CAF, CNAM, Pôle emploi, CNAV, MDPH, Préfectures, Collectivités Territoriales…).
+A+ va répondre à ces usagers en situation critique en mettant **en relation les aidants et les agents A+** à travers une plateforme qui les décloisonne.
+- Les *aidants A+* sont ceux qui accueillent le public : personnel en mairie, en CCAS, travailleurs sociaux, défenseurs des droits…
+- Les *agents A+* sont les professionnels des organismes de sécurité sociale (CAF, CPAM, CNAV, Pôle emploi, MDPH, DGFIP, conseils départementaux…) qui ont décidé volontairement de répondre à ces sollicitations. L’usager ne se sentira plus exclu voire contraint d’exercer une action judiciaire pour être entendu.
 
-Lorsque l'usager (ou son aidant) rencontre un blocage, il·elle fait appel au service A+.
-L'agent A+ utilise l'espace collaboratif de la communauté pour chercher les raisons du blocage. Puis, il·elle communique les informations utiles à l'usager pour débloquer sa situation.
-
-> Avec notre service A+ , Julie est rassurée : l'agent A+ lui a confirmé que son dossier était toujours à Paris. Elle enverra donc sa déclaration à Paris. Son allocation ne sera pas suspendue.
+C’est un gain de temps pour tous ! (moins de déplacements aux guichets, moins d'appels téléphoniques vers les plateformes des administrations et moins de recours administratifs.)
 
 ## Démarrage par des pilotes locaux
 
-La communauté des A+ est en train d’être constituée.
-Nous commençons par des expérimentations sur des territoires pilotes, avec un service accessible uniquement à la communauté des agents.
-Après l'expérimentation et la généralisation du service au niveau national, le suivi des démarches sera intégré au compte personnel de l'usager sur service-public.fr.
+L’expérimentation a débuté à Argenteuil (Val d’Oise) en décembre 2017 et en février 2018 dans les Alpes-Maritimes. En trois mois de production, A+ a enregistré plus de 250 demandes. Quatre nouveaux territoires ont été désignés pour continuer les phases de tests à grande échelle aussi bien en France métropolitaine, avec la Seine-et-Marne et le Jura, qu’en Outremer, avec la Martinique et la Réunion.
+
+Ce sont aujourd’hui 22 partenaires - administrations centrales, opérateurs de l’Etat et collectivités - qui nous ont fait confiance et utilisent A+ au quotidien pour la résolution des blocages administratifs au service des plus démunis.
 
 Vous êtes un agent d'opérateur public, vous êtes intéressé·e pour participer à la création de ce service ? [Contactez-nous](mailto:contact@aplus.beta.gouv.fr?subject=Contact%20Site%20Beta%20Gouv).

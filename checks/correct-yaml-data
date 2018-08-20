@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "Checking if things like _author/*.md have correct data"
-ruby rb/bin/validate rb/schema/author.yml "_authors/*.md" # test YAML files against schema

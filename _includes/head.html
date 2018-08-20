@@ -51,7 +51,8 @@
     {% endif %}
 
     {% for file in page.additional_css %}
-        <link rel="stylesheet" type="text/css" href="/css/{{ file }}.css">
+        <link rel="stylesheet" type="text/css"
+        href="{% if file contains '://' %}{{ file }}{% else %}/css/{{ file }}.css{% endif %}">
     {% endfor %}
 
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png">

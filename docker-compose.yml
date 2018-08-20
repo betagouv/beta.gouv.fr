@@ -1,0 +1,9 @@
+version: '2'
+services:
+  web:
+    image: jekyll/jekyll
+    command: jekyll serve --incremental
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - "4000:4000"
