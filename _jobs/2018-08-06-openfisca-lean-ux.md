@@ -1,5 +1,5 @@
 ---
-friend: 'Openfisca'
+friend: 'OpenFisca'
 roles: un·e Lean UX
 type: 'friend'
 open: true

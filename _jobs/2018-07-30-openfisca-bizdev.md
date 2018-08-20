@@ -1,5 +1,5 @@
 ---
-friend: 'Openfisca'
+friend: 'OpenFisca'
 roles: un·e BizDev
 type: 'friend'
 open: true

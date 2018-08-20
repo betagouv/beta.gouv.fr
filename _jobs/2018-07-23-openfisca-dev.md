@@ -1,5 +1,5 @@
 ---
-friend: 'Openfisca'
+friend: 'OpenFisca'
 roles: un·e dev Python/JavaScript
 techno: Python/JavaScript
 type: 'friend'
