@@ -1,7 +1,7 @@
 ---
+friend: 'Openfisca'
 roles: un·e Lean UX
-startup: openfisca
-techno:
+type: 'friend'
 open: true
 ---
 
