@@ -1,7 +1,8 @@
 ---
+friend: 'OpenFisca'
 roles: un·e dev Python/JavaScript
-startup: openfisca
 techno: Python/JavaScript
+type: 'friend'
 open: true
 ---
 
