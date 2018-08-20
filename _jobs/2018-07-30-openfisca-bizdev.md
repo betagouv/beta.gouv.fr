@@ -1,7 +1,7 @@
 ---
+friend: 'Openfisca'
 roles: un·e BizDev
-startup: openfisca
-techno:
+type: 'friend'
 open: true
 ---
 
