@@ -3,14 +3,14 @@ version: 2
 jobs:
   build:
     docker:
-       - image: circleci/ruby:2.4.2-browsers  # use the browsers variant image to have Java preinstalled as it is a dependency of html5validator
+       - image: circleci/ruby:2.5.1-node-browsers  # we need Java (via 'browsers' variant) for html5validator; node for the Jekyll template
 
     steps:
       - checkout
       - run:
           name: Generate Gemlock
           command: bundle lock
-            
+
       - restore_cache:
           key: dependency-cache-{{ checksum "Gemfile.lock" }}
 
