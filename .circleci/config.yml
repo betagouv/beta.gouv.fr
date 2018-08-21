@@ -22,8 +22,8 @@ jobs:
           name: Install html5validator
           command: |
             sudo apt-get update
-            sudo apt-get install -y python-pip
-            pip install --user --upgrade html5validator  # will install in $HOME/.local
+            sudo apt-get install -y python3-pip
+            pip3 install --user --upgrade html5validator  # will install in $HOME/.local
 
       - save_cache:
           key: dependency-cache-{{ checksum "Gemfile.lock" }}
