@@ -10,37 +10,34 @@ Le Groupe de Travail (GT) Accès aux droits et aux services, lutte contre le non
 
 Dans le cadre de ce GT, nous avons proposé d’utiliser [OpenFisca](https://fr.openfisca.org) pour étudier comment le prélèvement à la source de l’impôt pourrait impacter les foyers recevant des aides telles que le [RSA](https://fr.openfisca.org/legislation/rsa), la [PPA](https://fr.openfisca.org/legislation/ppa) et les aides au logement.
 
-Ces ateliers ont réuni, au cours de 3 sessions :
+Ces ateliers ont réuni des experts du calcul des prestations sociales et les équipes d'[Openfisca ](fr.openfisca.org) et de [Mes Aides](mes-aides.gouv.fr).
 
-* des volontaires du GT et d’experts métier sur les différentes aides. En particulier, ont participé à ces ateliers des experts du calcul des prestations sociales de la CNAF (Caisse Nationale des Allocations Familiales) et de la DGCS (Direction Générale de la Cohésion Sociale). Ces profils sont très familiers avec les fonctionnements des différentes formules.
-* des spécialistes de mes-aides.gouv.fr, l’une des Startups d’État de l'Incubateur des services numériques de la DINSIC. 
-
-Les calculs de Mes-Aides sont basés sur [OpenFisca-France](https://fr.openfisca.org), un modèle informatique du système socio-fiscal, capable de simuler, non seulement la législation actuelle, mais aussi l‘impact de réformes sur des individus ou des foyers.
+[Mes Aides](mes-aides.gouv.fr) se base sur [OpenFisca-France](https://fr.openfisca.org), un modèle informatique du système socio-fiscal, capable de simuler, non seulement la législation actuelle, mais aussi l‘impact de réformes sur des individus ou des foyers.
 
 Au cours de ces ateliers, notre hypothèse de départ était qu’on ne pouvait pas simplifier l'accès au droit à cause de la complexité des règles de calcul des prestations sociales. 
 
-On part d'une question qui peut paraître simple : comment évalue-t-on combien gagne une famille lorsque l’on analyse son éligibilité à une prestation sociale ?
+On part d'une question qui peut paraître simple : comment évalue-t-on combien gagne une famille lorsque l’on calcule son éligibilité à une prestation sociale ?
 
-Aujourd’hui, ces règles prévoient une dizaine de méthodes de calcul des revenus d’un foyer. Certaines bases de ressources prennent en compte les revenus des 3 derniers mois, d’autres se basent sur le revenu fiscal de référence, calculé sur les revenus N-2 (année - 2). Le passage au prélèvement à la source de l'impôt sur le revenu nous plaçant dans une temporalité beaucoup plus courte était peut-être l’occasion parfaite de lisser tout cela.
+Aujourd’hui, ces règles prévoient une dizaine de méthodes de calcul des revenus d’un foyer. Certaines prennent en compte les revenus des 3 derniers mois, d’autres se basent sur le revenu fiscal de référence, calculé sur les revenus N-2 (année - 2). Avec le passage au prélèvement à la source de l'impôt sur le revenu, le calcul des prestations sociales pourrait utilisé une donnée plus proche de la situation actuelle des personnes.
 
-Notre hypothèse était qu’en collant plus aux situations des personnes les aides s’appliqueraient au plus près du besoin et cela simplifierait la compréhension de la façon dont elles sont calculées.
+Notre hypothèse était qu’en collant plus aux situations des personnes les aides s’appliqueraient au plus près de leur besoin et cela simplifierait la compréhension de la façon dont elles sont calculées.
 
-Nous sommes entrés dans ce processus pour savoir dans quelle mesure nous pouvions utiliser [OpenFisca](https://fr.openfisca.org) pour accompagner la création d’une réforme. Et, pour l’équipe [OpenFisca](https://fr.openfisca.org), il fallait étudier l’expérience utilisateur dans cette situation.
+Nous voulions savoir :
+* dans quelle mesure nous pouvions utiliser [OpenFisca](https://fr.openfisca.org) pour accompagner la conception d’une réforme.  
+* quelle était l'expérience des utilisateurs d'[OpenFisca](https://fr.openfisca.org) qui voulaient simuler l'impact d'une reforme.
 
-Notre intention était de simuler concrètement une simplification des bases de calcul des prestations sociales, et de définir son l'impact sur différents types de ménages.
-On s'est lancé dans l'exercice sans vision claire ni du résultat attendu ni du chemin pour y arriver.
+Notre intention était de simuler concrètement une simplification des bases de calcul des prestations sociales, et de définir son l'impact sur différents types de ménages. Et nous nous sommes lancé dans l'exercice sans vision claire ni du résultat attendu ni du chemin pour y arriver.
 
 ## La rencontre des experts de la loi et des experts du code
 
-L'objectif initial était de définir quels types de réformes tester et sur quelles typologies de foyers simuler et évaluer leurs impacts. Nous avons commencé par définir 7 scenarii de réformes avec les experts métiers. 
+L'objectif initial était de définir quels types de réformes tester et sur quelles typologies de foyers, simuler et évaluer leurs impacts. Nous avons commencé par définir 7 scenarii de réformes avec les experts métiers. 
 
 Nous avons lancé cette initiative sans filet. En nous laissant la possibilité d’adapter notre travail à ce que nous allions découvrir au fur et à mesure, nous avons appris comment faire dialoguer ces deux domaines, la maïeutique pour partir d'une idée et aller à une réforme. 
 
-Nous nous sommes vite rendu compte que pour accompagner au mieux les travaux du GT avec le temps limité des experts techniques et métier, nous devions en priorité créer des outils de communication et de visualisation. Pour nous permettre de faire cela, nous avons réduit au fur et à mesure le périmètre des réformes pour retenir 2 scenarii.
+En bref : temps réduit, environnements techniques très variables, compétences diversifiées. Nous nous sommes vite rendu compte que pour accompagner au mieux les travaux du GT, nous devions en priorité créer des outils de communication et de visualisation. Pour nous permettre de faire cela, nous avons réduit au fur et à mesure le périmètre des réformes pour retenir 2 scenarii.
 
-En bref : temps réduit, environnements techniques très variables, compétences diversifiées.
+### Simplifier, c'est d'abord comprendre la complexité du droit.
 
-Simplifier, c'est d'abord comprendre la complexité du droit.
 Avant de le coder ou de définir les contours d'une réforme, le premier apprentissage est de comprendre l'esprit de la loi. 
 
 Les raisons de chaque subtilité (par exemple, l’effet figé qui consiste à verser un montant identique entre les deux dates d’évaluation d’une aide) doivent être maîtrisées pour savoir quelle typologie de situation sera affectée par un changement.
@@ -52,18 +49,18 @@ On se rend compte en discutant avec le GT que déterminer combien qu’une perso
 * Que se passe-t-il si elle n'est pas salariée ?
 * Que se passe-t-il si la personne vient de partir à la retraite ?
 
-## Simplifier les formules ou masquer la complexité ?
+### Simplifier les formules ou masquer la complexité ?
 
 Devant la complexité législative inhérente à la diversité des situations familiales, nous nous sommes demandés si l’enjeu au final de facilitation d'accès au droit ne serait pas de masquer la complexité à l'usager en travaillant l'expérience utilisateur. 
+
 C’est le pari du service Mes Aides, une interface qui structure et simplifie la demande d’information à l’utilisateur, puis qui utilise [OpenFisca](https://fr.openfisca.org) pour calculer les droits sociaux auxquelles il peut prétendre.
 Une partie de la solution peut se trouver dans l’ordonnancement des informations et la pédagogie.
 
 Les micro-simulateurs comme [OpenFisca](https://fr.openfisca.org) ont un rôle à jouer, car ils permettent de "Mieux comprendre comment fonctionne le droit adapté à ma situation."
 
-
 ## Comment les réformes affectent les foyers : un exercice de communication politique
 
-En parallèle des scénarii de réforme, nous avons créé un jeu de situations familiales (célibataire avec enfant/sans enfants, sénior touchant une retraite…) qui représentent les situations du livret du pouvoir d'achat du Ministère du Budget. Cela permet de tester les réformes sur des cas concrets et voir comment des changements dans la loi affectent les foyers.
+En parallèle des scénarii de réforme, nous avons créé un jeu de situations familiales (célibataire avec enfant/sans enfants, sénior touchant une retraite…) qui représentent les situations du [livret du pouvoir d'achat du Ministère du Budget](https://www.economie.gouv.fr/files/files/PLF2018/bro-pouvoir-achat-bat-web-10h.pdf). Cela permet de tester les réformes sur des cas concrets et voir comment des changements dans la loi affectent les foyers.
 
 Nous nous sommes finalement concentrés sur une réforme qui considère les revenus des 12 derniers mois comme base de ressources.
 
@@ -85,7 +82,6 @@ Pour communiquer nos résultats, nous avons voulu générer des graphiques sur l
 
 Il y avait un enjeu politique fort dans nos travaux. Nous savions que le délégué n'aurait pas pu annexer nos travaux au rapport du groupe de travail s’il était dit des choses trop loin de la vision du gouvernement. Le fait que 100% des acteurs présents étaient de l'administration (CAF) a donné une caution à nos travaux. 
 
-
 Notre apprentissage principal est qu’[OpenFisca](https://fr.openfisca.org) permet d’ouvrir un espace de dialogue entre les experts de la loi en outillant le calcul et en le rendant plus aisément communicable à d'autres personnes. [OpenFisca](https://fr.openfisca.org) peut objectiver les échanges autour de la rédaction des réformes autour de cas concrets et améliorer la communication autour des réformes sans en enlever la complexité. 
 
 ## Si nous refaisions l'exercice, qu'est ce que nous ferions différemment ?
@@ -96,18 +92,18 @@ Si les situations se représentaient, voici ce que nous ferions différemment :
 Réduire le périmètre législatif : les modifications de la législation sont complexes, et demandent de connaître le métier et [OpenFisca-France](https://fr.openfisca.org/legislation) pour bien comprendre les implications des changements. Chaque modification est très chronophage, il faut donc expliciter le périmètre de la réforme très en amont.  
 
 Prioriser une version simplifiée de bout en bout : de la réforme à la visualisation d’impact, avant d’ajouter des cas tests supplémentaires.
-Pour tester le plus vite possible la réforme sur une situation
-Identifier les visualisations qui mettront en valeur les résultats
+Pour tester le plus vite possible la réforme sur une situation.
+Identifier les visualisations qui mettront en valeur les résultats.
 Faire des workshops plutôt que des réunions : Écrire les réformes et les cas test en séance en binômant métier/tech. 
 
-En sortant de cet exercice, nous avons enrichi notre outillage pour accompagner un nouveau type de clientèle :
-Un ensemble de cas tests, issus du livret du pouvoir d’achat du ministère du budget, réutilisable par n’importe quel utilisateur d’[OpenFisca](https://fr.openfisca.org) sur ses propres réformes.
-Un petit logiciel qui permet d’automatiser les calculs sur les réformes et extraire les résultats dans un tableur .
+En sortant de cet exercice, nous avons enrichi notre outillage pour accompagner un nouveau type d'utilisateurs :
+* des cas tests réutilisables ;
+* un petit logiciel qui permet d’automatiser les calculs sur les réformes et extraire les résultats dans un tableur .
 
 ## Conclusion 
 
 [OpenFisca](https://fr.openfisca.org) peut être utilisé pour créer des simulations de réformes dans le cadre de la création de nouvelles lois. 
-La forme d’équation mathématique des formules de calcul permet à différents experts d’échanger sur les méthodes de calculs.
+La forme mathématique des formules de calcul permet à différents experts d’échanger sur les méthodes de calculs.
 La possibilité de simuler l’impact de réformes sur des individus et des familles donne des clefs pour mitiger les effets de bords potentiels.
 La mise à disposition de cas types et d’exemples de visualisation permet de donner une base de travail qui parle aussi bien aux experts qu’au grand public.
 
