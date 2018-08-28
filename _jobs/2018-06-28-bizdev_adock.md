@@ -42,9 +42,9 @@ Si tu souhaites faire changer les choses et construire un État doté d’outils
 ## Conditions
 
 - Contrat : stage de 4 à 5 mois
-- Début de la mission : les dates sont à convenir avec l’intrapreneur Alexandre Dupont, entre juillet 2018 et décembre 2018.
+- Début de la mission : les dates sont à convenir avec l’intrapreneur Alexandre Dupont, entre septembre 2018 et décembre 2018
 - Gratification : 577,50 euros
-Le stage se déroulera à Rennes, dans les locaux de la DREAL Bretagne. Un bureau et l’ensemble du matériel informatique sera mis à ta disposition
+Le stage se déroulera à Paris, dans les locaux de la Fabrique Numérique, au Ministère de la Transition écologique et solidaire. Un bureau et l’ensemble du matériel informatique sera mis à ta disposition
 
 Comment postuler ?
 Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à contact@adock.beta.gouv.fr
