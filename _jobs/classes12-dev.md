@@ -1,13 +1,19 @@
+---
+roles: un·e développeur·se web full stack
+startup: classes12
+open: true
+---
+
 # Classe à 12 recrute un·e développeur·se web full stack
  
 Classe à 12 cherche un·e développeur·se pour une mission en prestation. 
 
 ## Faire réussir les élèves en éducation prioritaire 
-En sept 2017, le Ministère de l’Education nationale a lancé le dispositif Classe à 12, plus de 2500 enseignants se sont ainsi lancés dans l’expérimentation d’une classe à effectif réduit afin de favoriser la réussite des élèves en éducation prioritaire. 
+En septembre 2017, le Ministère de l’Éducation nationale a lancé le dispositif Classe à 12 ; plus de 2500 enseignants se sont ainsi lancés dans l’expérimentation d’une classe à effectif réduit afin de favoriser la réussite des élèves en éducation prioritaire. 
  
-La Start-up d’Etat Classe à 12 a pour objectif de valoriser les retours d’expérience et les échanges de pratiques entre enseignants concernés, via un produit numérique de type réseau social vidéo, avec une logique horizontale et dans un climat de bienveillance : http://site-1436014-7519-8367.strikingly.com/ (site bêta).
+La Start-up d’État Classe à 12 a pour objectif de valoriser les retours d’expérience et les échanges de pratiques entre enseignants concernés, via un produit numérique de type réseau social vidéo, avec une logique horizontale et dans un climat de bienveillance : http://site-1436014-7519-8367.strikingly.com/ (site beta).
  
-L’équipe Classe à 12 cherche un·e développeur·se web full-stack pour une mission de 3 mois renouvelable en renfort de l’équipe actuelle pour participer au développement du produit from scratch.
+L’équipe Classe à 12 cherche un·e développeur·se web full-stack pour une mission de 3 mois renouvelable en renfort de l’équipe actuelle pour participer au développement du produit « from scratch ».
 
 ## Compétences et expérience
 
