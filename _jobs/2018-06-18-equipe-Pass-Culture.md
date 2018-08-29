@@ -2,7 +2,7 @@
 roles: 3 développeur·se·s full-stack
 startup: pass-culture
 techno: React-Redux-Python-PostgreSQL
-open: true
+open: false
 ---
 
 L'équipe produit du Pass Culture s'agrandit et recherche des développeur·se·s fullstack expérimenté·es en CDI. Si vous voulez construire un outil mobile grand public qui facilite l’accès des jeunes au spectacle vivant, à la littérature ou encore à toutes les formes de pratiques culturelles, rejoignez-nous !
