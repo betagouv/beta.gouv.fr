@@ -1,6 +1,6 @@
 ---
 title: DossierSCO
-mission: S’inscrire au collège n’importe où, n’importe quand
+mission: Inscrire son enfant au collège en quelques clics
 owner: Ministère de l'Éducation nationale
 incubator: dinsic
 status: construction
@@ -12,15 +12,16 @@ stats: true
 contact: pierre.de-maulmont@ac-paris.fr
 ---
 
-Quelques clics pour inscrire votre enfant au collège !
+Permettre aux parents d’inscrire en ligne leurs enfants et de télécharger des pièces justificatives, sans avoir à renseigner chaque année les mêmes informations déjà connues de l’Education nationale.
 
-Pour que les parents puissent inscrire leurs enfants au collège sans avoir à renseigner chaque année les mêmes informations déjà connues de l'Education Nationale.
+Permettre aux agents de récupérer les pièces et les données nouvelles, sans avoir à relire l’ensemble des dossiers d’inscription.
+
 
 ## Campagne 2018
 
 Sur les 751 élèves de 4 collèges qui ont bénéficié de l’expérimentation en juin 2018, le taux de recours au service numérique a été de 98%.
 
-Les familles ont plébiscité la démarche : invitées à donner une note de 1 (Très insatisfait) à 5 (Très satisfait) en fin de parcours, elles ont attribué une note moyenne de 4,5.
+Les familles ont plébiscité la démarche : invitées à donner une note de 1 (Très insatisfait) à 5 (Très satisfait) en fin de parcours, 90ù d'entre elles ont répondu, attribuant une note moyenne de 4,5.
 
 Le champ lexical des appréciations, très nombreuses, déposées par les familles, est remarquablement cohérent, les 5 premiers mots-clé ressortant du « nuage de mots » sont: « bien », « pratique », « simple », « rapide », « merci ».
 
