@@ -21,7 +21,7 @@ Permettre aux agents de récupérer les pièces et les données nouvelles, sans 
 
 Sur les 751 élèves de 4 collèges qui ont bénéficié de l’expérimentation en juin 2018, le taux de recours au service numérique a été de 98%.
 
-Les familles ont plébiscité la démarche : invitées à donner une note de 1 (Très insatisfait) à 5 (Très satisfait) en fin de parcours, 90ù d'entre elles ont répondu, attribuant une note moyenne de 4,5.
+Les familles ont plébiscité la démarche : invitées à donner une note de 1 (Très insatisfait) à 5 (Très satisfait) en fin de parcours, 80% d'entre elles ont répondu, attribuant une note moyenne de 4,5.
 
 Le champ lexical des appréciations, très nombreuses, déposées par les familles, est remarquablement cohérent, les 5 premiers mots-clé ressortant du « nuage de mots » sont: « bien », « pratique », « simple », « rapide », « merci ».
 
