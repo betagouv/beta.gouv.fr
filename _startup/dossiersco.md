@@ -1,7 +1,7 @@
 ---
 title: DossierSCO
 mission: Inscrire son enfant au collège en quelques clics
-owner: Ministère de l'Éducation nationale
+owner: [Ministère de l'Éducation nationale](http://www.education.gouv.fr/110bislab/pid37871/bienvenue-au-110-bis-le-lab-d-innovation-de-l-education-nationale.html)
 incubator: dinsic
 status: construction
 start: 2017-09-01
