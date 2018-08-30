@@ -31,5 +31,3 @@ Parmi les améliorations envisagées pour la campagne 2019 :
 - proposer un formulaire prérempli pour communiquer les informations médicales sous pli cacheté (pour des raisons de confidentialité)
 - faciliter l'adhésion aux initiatives associatives telles que le foyer socio-éducatif
 - fournir des identifiants distincts à chaque responsable légal afin notamment de protéger encore plus dans des situations familiales difficiles.
-
-DossierSCO est un produit de la startup [Open Académie](https://openacademie.beta.gouv.fr).
