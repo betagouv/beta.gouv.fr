@@ -2,7 +2,7 @@
 roles: un·e développeur·se full stack
 startup: api-particulier
 techno: React / NodeJS / Ruby / Ansible
-open: true
+open: false
 ---
 
 L'équipe API Particulier recrute un·e développeur·se full stack pour fluidifier les échanges de
