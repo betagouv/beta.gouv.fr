@@ -22,7 +22,7 @@ Notre ambition est de faire de A Dock la base de données de référencement des
 
 Nos objectifs pour la fin de l'année : 
 - Avoir plusieurs milliers de transporteurs qui valident leur fiche
-- Faire la promotion de adock auprès des clients des transporteur (aka les chargeurs) avec l’ambition d’avoir un taux d’utilisateurs de 50% auprès des chargeurs en Bretagne, qui est notre région de bêta test.
+- Faire la promotion de adock auprès des clients des transporteurs (aka les chargeurs) avec l’ambition d’avoir un taux d’utilisateurs de 50% auprès des chargeurs en Bretagne, qui est notre région de bêta test.
 
 Pour atteindre ces objectifs, nous recherchons un bizdev en herbe, déterminé à faire grandir A Dock le plus possible et toujours à l’écoute des utilisateurs.
  
