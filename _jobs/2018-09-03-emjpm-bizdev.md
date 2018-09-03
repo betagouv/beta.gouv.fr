@@ -4,18 +4,18 @@ startup: e-mjpm
 open: true
 ---
 
-La start-up d'Etat e-MJPM est en phase de croissance et a besoin de toi pour déployer son dispositif dans les régions !
+La Start-up d'État e-MJPM est en phase de croissance et a besoin de toi pour déployer son dispositif dans les régions !
 
 <!--more-->
 
 ## Qui sommes nous ?
 
-e-MJPM est une startup d'État accélérée par [l'incubateur des ministères sociaux](https://incubateur.social.gouv.fr/).
+e-MJPM est une Start-up d'État accélérée par [l'incubateur des ministères sociaux](https://incubateur.social.gouv.fr/).
 
 Notre Mission : aider les juges de tutelle à trouver rapidement le MJPM pour accompagner une personne mise sous protection juridique.
 
 Aujourd'hui en France, entre 800 000 et 1 million de personnes majeures font actuellement l'objet d'une mesure de protection (tutelle, curatelle, sauvegarde de justice).
-Chaque année plusieurs milliers de personnes majeures sont nouvellement concernés.
+Chaque année plusieurs milliers de personnes majeures sont nouvellement concernées.
 
 Le juge des tutelles décide de la mise sous protection. Il confie l'exercice de la mesure en priorité à la famille et à défaut, à un travailleur social appelé MJPM (Mandataire Judiciaire à la Protection des Majeurs). 2200 MJPM accompagnent ces personnes vulnérables sur le territoire national.
 
@@ -31,7 +31,7 @@ Animer le déploiement à l'échelle nationale de e-MJPM
 * Assurer le suivi du déploiement et accompagner l'utilisation du service : sauver des utilisateurs perdus, comprendre les utilisateurs inactifs
 * Contribuer à l'amélioration du service : suivre les retours des utilisateurs et proposer des évolutions
 
-Il s'agit d'un poste	en CDD de 6 mois, à partir du 1er septembre 2018, basé à Paris et intégré à l'équipe de la start-up.
+Il s'agit d'un poste en CDD de 6 mois, à partir du 1er septembre 2018, basé à Paris et intégré à l'équipe de la Start-up d'État.
 Des déplacements en France sont à prévoir. 
 
 ## Ton profil nous intéresse si :
