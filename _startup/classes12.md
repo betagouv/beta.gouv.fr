@@ -6,7 +6,7 @@ incubator: dinsic
 status: construction
 start: 2018-06-01
 end:
-link: 
+link: http://site-1436014-7519-8367.strikingly.com/
 repository: 
 stats: false
 contact: contact@classea12.beta.gouv.fr
