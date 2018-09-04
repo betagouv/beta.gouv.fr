@@ -6,10 +6,10 @@ incubator: lab-mi
 status: construction
 start: 2018-03-01
 end:
-link:
+link: https://histovec.interieur.gouv.fr
 repository: https://github.com/histovec
 stats: false
-contact: richard.violet@interieur.gouv.fr
+contact: histovec@interieur.gouv.fr
 ---
 
 ## Le scandale des arnaques aux véhicules d'occasion
@@ -49,5 +49,3 @@ HistoVec est un service **gratuit** pour les particuliers, **exhaustif** sur le 
 Nous souhaitons lancer le service **fin mai 2018** par un pilote avec des concessionnaires de confiance réalisant de nombreux achats et reventes d’occasion.
 
 Nous étendrons progressivement le service au dernier trimestre avant lancement grand public prévu pour **fin 2018**.
-
-Nous envisageons aussi de fournir  la donnée par API pour permettre à l'eco-système des sites internet de développer des services à valeur ajoutée à partir d'informations fiables.

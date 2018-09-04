@@ -3,7 +3,7 @@ title: La Fabrique Pôle emploi
 owner: Pôle emploi
 website:
 github: https://github.com/StartupsPoleEmploi/
-contact: mailto:Carole.LECLERC@pole-emploi.fr?subject=Incubateur
+contact: mailto:lafabrique@pole-emploi.fr?subject=Incubateur
 address: 22 Allée Darius Milhaud, Paris 19e
 ---
 
