@@ -3,13 +3,13 @@ title: Ça pousse à Amiens grâce à Plante & Moi !
 authors: julien.dauphant
 ---
 
-Dimanche 1e avril (ce n’est pas un poisson), Amiens a lancé le Permis de Fleurir, un dispositif permettant aux Amiénois de fleurir l’espace public devant chez eux.
+Revenons quelqus mois en arrière, le 1e avril, Amiens a lancé le Permis de Fleurir, un dispositif permettant aux Amiénois de fleurir l’espace public devant chez eux.
 
 <!--more-->
 
 La mairie accompagne les habitants en leur fournissant un bac en bois recyclé fabriqué dans le cadre d’une filière d’insertion, de la terre, des graines et des conseils. 
 
-Un mois et demi plus tard : 400 demandes de végétalisation ont été faites ! Une surprise pour la mairie qui ne s’attendait pas un tel engouement de la part des Amiénois.
+Un mois et demi après le lancement : 400 demandes de végétalisation ont été faites ! Une surprise pour la mairie qui ne s’attendait pas un tel engouement de la part des Amiénois et à décider de fermer les inscriptions pour se concentrer sur les premières demandes.
 
 ![Projet de fleurir à Amiens](/img/posts/2018-09-04-amiens-plante-et-moi.jpg)
 > Exemple de végétalisation de l’espace public par les Amiénois
