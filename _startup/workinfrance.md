@@ -25,7 +25,7 @@ Légitimement, les usagers à la recherche de réponses concrètes contactent la
 
 La lenteur de la procédure et son manque de transparence retardent ainsi la prise de poste et pénalisent l’entreprise qui n’est pas en mesure d’avoir une visibilité sur la validation du recrutement de son personnel.
 
-Les étudiant·e·s consituent la majeure partie du public qui se déplace à l'accueil des DIRECCTE. Que ce soit par téléphone, par mail ou dans les accueils, les agents passent un temps considérable à répondre aux questions des usagers, au détriment du traitement normal des demandes d’autorisation de travail. Avec WorkInFrance, en traitant simplement la plupart des demandes, nous libérerons du temps de travail pour les agents.
+Les étudiant·e·s constituent la majeure partie du public qui se déplace à l'accueil des DIRECCTE. Que ce soit par téléphone, par mail ou dans les accueils, les agents passent un temps considérable à répondre aux questions des usagers, au détriment du traitement normal des demandes d’autorisation de travail. Avec WorkInFrance, en traitant simplement la plupart des demandes, nous libérerons du temps de travail pour les agents.
 
 De plus, l’administration est en charge de l’ensemble des instructions des demandes d’autorisation, en réceptionnant des demandes en format papier (CERFA et pièces justificatives obligatoires) obligeant celles-ci à stocker des volumes conséquents de documents, et posant de surcroît des difficultés pour accéder à un dossier « en cours ».
 

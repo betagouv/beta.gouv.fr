@@ -10,3 +10,4 @@ startups:
 ---
 
 Précédemment techlead sur FranceConnect
+Techlead sur Pass Culture

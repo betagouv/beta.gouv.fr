@@ -9,4 +9,5 @@ end: 2019-01-01
 employer: independent/octo
 startups:
     - eac
+    - pop
 ---
