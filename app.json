@@ -1,10 +1,8 @@
 {
     "name": "beta.gouv.fr",
     "scripts": {},
-    "env": {"CI":"true"},
+    "env": {},
     "formation": {},
     "addons": [],
-    "buildpacks": [{
-        "url": "https://github.com/betagouv/heroku-buildpack-ruby"
-    }]
+    "buildpacks": []
 }
