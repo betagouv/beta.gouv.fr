@@ -6,8 +6,8 @@ incubator: sgmas
 status: construction
 start: 2017-12-01
 end:
-link:
-repository:
+link: https://codedutravail.num.social.gouv.fr
+repository: https://github.com/SocialGouv/code-du-travail-explorer
 stats: false
 contact: contact@code-du-travail.beta.gouv.fr
 ---
