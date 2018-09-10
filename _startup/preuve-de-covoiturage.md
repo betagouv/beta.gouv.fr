@@ -6,19 +6,20 @@ incubator: dinsic
 status: investigation
 start: 2018-06-04 
 end: 
+link: http://covoiturage.strikingly.com/
 stats: false
-contact: margot.sanchez@beta.gouv.fr 
+contact: contact@covoiturage.beta.gouv.fr 
 ---
 
 1,08 personnes par véhicule seulement
 =====================================
 
-Aujourd’hui, le remplissage moyen par voiture dans les déplacements quotidiens est de l’ordre de 1,08 personne alors que la plupart de ces véhicules ont été conçus pour accueillir 5 personnes. Le covoiturage présente de nombreux avantages. Créer un élan national autour du covoiturage permettrait notamment de désengorger les voies, gagner de l’espace public, réduire les émissions de gaz à effets de serre et même créer de l'interaction sociale. Mais des freins subsistent à son développement. Ceux-ci sont de plusieurs ordres comme le faible intérêt financier pour le covoitureur et le covoituré, la peur de l’inconnu, les contraintes de déplacement et enfin l’incertitude du trajet retour. En favorisant le développement du covoiturage certains de ces freins pourront être levés. 
+Aujourd’hui, le remplissage moyen par voiture dans les déplacements quotidiens est de l’ordre de 1,08 personne alors que la plupart de ces véhicules ont été conçus pour accueillir 5 personnes. Le covoiturage présente de nombreux avantages. Créer un élan national autour du covoiturage permettrait notamment de désengorger les voies, gagner de l’espace public, réduire les émissions de gaz à effets de serre et même créer de l'interaction sociale. Mais des freins subsistent à son développement. Ceux-ci sont de plusieurs ordres comme le faible intérêt financier pour le covoitureur et le covoituré, la peur de l’inconnu, les contraintes de déplacement et enfin l’incertitude du trajet retour. C'est en levant certains de ces freins que le covoiturage se développera. 
 
 La crainte de la fraude
 =======================
 
-De nouveaux services de covoiturage privés et publics ont fait leur apparition. Les Autorités Organisatrices de la Mobilité (AOM) et acteurs locaux suivent avec un intérêt croissant ces nouveaux services pouvant représenter des solutions de mobilité nouvelles et complémentaires aux dispositifs traditionnels de transport mis en place sur leur territoire. Ainsi, les partenariats avec des opérateurs de covoiturage se multiplient. Lorsqu’une AOM souhaite favoriser la réalisation de trajets partagés en donnant un incitatif à l’opérateur de covoiturage ou à l’usager (covoitureur ou covoituré), cet incitatif se doit d’être à la hauteur des trajets réellement réalisés. En effet, lorsqu’un incitatif se trouve à la clef, il devient monnaie courante de voir la fraude augmenter. Résultat, les acteurs locaux peinent à lancer des expérimentations de mise en place d’incitatif, par crainte de distribuer de l’argent public sans avoir pu mettre en évidence une forme de fraude. 
+De nouveaux services de covoiturage privés et publics ont fait leur apparition. Les Autorités Organisatrices de la Mobilité (AOM) et acteurs locaux suivent avec un intérêt croissant ces nouveaux services pouvant représenter des solutions de mobilité nouvelles et complémentaires aux dispositifs traditionnels de transport. Ainsi, les partenariats avec des opérateurs de covoiturage se multiplient. En donnant des incitatifs aux operateurs et/ou covoitureurs une AOM peut favoriser le développement du covoiturage sur son territoire. Cet incitatif se doit d’être à la hauteur des trajets réellement réalisés. En effet, lorsqu’un incitatif se trouve à la clef, il devient monnaie courante de voir la fraude augmenter. Résultat, les acteurs locaux peinent à lancer des expérimentations de mise en place d’incitatif, par crainte de distribuer des incitatifs sans avoir pu mettre en évidence une forme de fraude. Le registre de preuve de covoiturage est une solution.
 
 Le registre de preuve de covoiturage comme tiers de confiance
 =============================================================
