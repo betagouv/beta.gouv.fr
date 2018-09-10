@@ -10,7 +10,7 @@ Tu es développeur·se full-stack, et tu veux mettre tes compétences au profit 
 
 La mission : créer un élan vers le covoiturage !
 ============================================
-Aujourd’hui le remplissage moyen par véhicule dans les déplacements quotidiens est de l’ordre de 1,08 personne. Notre produit prendra la forme d’un registre de preuve de covoiturage. La preuve de covoiturage est à la fois un label et une plate-forme technique pour distribuer à grande échelle des incitatifs monétaires ou non monétaires, sans risque de fraude massive. Ces incitatifs peuvent être de natures diverses suivant l’objectif visé, le territoire, et la compétence territoriale concernés :
+Aujourd’hui le remplissage moyen par véhicule dans les déplacements quotidiens est de l’ordre de 1,08 personne. Notre produit prendra la forme d’un [registre de preuve de covoiturage](http://covoiturage.strikingly.com/). La preuve de covoiturage est à la fois un label et une plate-forme technique pour distribuer à grande échelle des incitatifs monétaires ou non monétaires, sans risque de fraude massive. Ces incitatifs peuvent être de natures diverses suivant l’objectif visé, le territoire, et la compétence territoriale concernés :
  - Incitation financière via la prise en charge totale ou partielle du trajet.
  - Accès à des places de stationnement réservées ou à tarif préférentiel.
  - Accès aux voies réservées sur autoroutes.
@@ -19,7 +19,7 @@ Aujourd’hui le remplissage moyen par véhicule dans les déplacements quotidie
 
 Le poste : un lead tech 
 ======
-Tu seras en charge de construire le service pour les usagers qui comprendra plusieurs interfaces (covoitureur, opérateur de covoiturage, Autorité Organisatrice de Mobilité, etc.). 
+Tu seras en charge de construire le service pour les usagers qui comprendra plusieurs interfaces (covoitureur, opérateur de covoiturage, Autorité Organisatrice de Mobilité, etc.). Une part importante de ton travail consistera à automatiser les procédures de détéction de fraude sur les données en provenance des opérateurs. 
 Tu participeras à l’ensemble de la construction de ce produit "from scratch", de la conception aux tests utilisateur. Les technologiques ne sont pas fixés et seront définies en fonction de tes compétences.
 Ton objectif : construire avec l’équipe covoiturage un produit visant à rendre service aux usagers. Des connaissances du domaine de la mobilité seraient les bienvenues. 
 
