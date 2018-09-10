@@ -1,5 +1,5 @@
 ---
-fullname: Elogie Quézel
+fullname: Élodie Quézel
 role: Business Developer
 avatar: /img/authors/elodie.quezel.jpg
 start: 2018-10-01
