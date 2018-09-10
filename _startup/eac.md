@@ -6,7 +6,7 @@ incubator: dinsic
 status: construction
 start: 2018-04-01
 end:
-link:
+link: https://education-artistique-culturelle.fr
 repository: https://github.com/betagouv/eac
 stats: false
 contact: pass@culture.gouv.fr
