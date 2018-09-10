@@ -12,7 +12,7 @@ stats: false
 contact: pass@culture.gouv.fr
 ---
 
-**Retrouvez toutes les informations sur l'expérimentation du Pass Culture sur le site [link](https://pass.culture.fr)**
+**Retrouvez toutes les informations sur l'expérimentation du Pass Culture sur le [site](https://pass.culture.fr)**
 
 Le Président de la République a fait du Pass Culture un chantier prioritaire dans le secteur culturel. Ce projet poursuit trois objectifs : (i) Faciliter l’accès de tous à la culture, (ii) Promouvoir la diversité culturelle et (iii) Favoriser l'autonomie des jeunes face à la culture, en particulier des jeunes âgés de 18 ans.
 
