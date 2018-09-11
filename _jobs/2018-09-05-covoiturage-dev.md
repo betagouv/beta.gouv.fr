@@ -1,5 +1,5 @@
 ---
-roles: un·e dev web full-stack
+roles: un·e dev web 
 startup: preuve-de-covoiturage
 open: true
 ---
@@ -7,6 +7,8 @@ open: true
 **L'équipe Covoiturage recrute un·e développeur·se pour lutter contre [l'autosolisme](https://fr.wiktionary.org/wiki/autosolisme) en incitant les citoyens à covoiturer.**
 
 Tu es développeur·se, et tu veux mettre tes compétences au profit de l’amélioration du service public ? Tu es à ton aise dans les contextes de petites équipes autonomes, agiles, et proches de leurs utilisateurs ? En rejoignant une Startup d’État, tu participeras à l’aventure d’une nouvelle vision de l’administration, moderne et proche de ses usagers.
+
+<!--more-->
 
 La mission : créer un élan vers le covoiturage !
 ============================================
