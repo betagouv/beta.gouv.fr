@@ -1,14 +1,18 @@
-# Simuler l'impact de la loi, c'est possible !
+---
+title: Simuler l'impact de la loi, c'est possible !
+authors:
+  - sandra.chakroun
+---
 
 Vos revenus actuels décideront-ils de vos aides sociales dans deux ans ?
 
-<!--more-->
-
 ## Contexte
 
-Le Groupe de Travail (GT) Accès aux droits et aux services, lutte contre le non-recours de la Délégation interministérielle à la prévention et à la lutte contre la pauvreté des enfants et des jeunes s’applique à proposer des solutions pour permettre à toutes et à tous, et surtout aux plus vulnérables, de connaître les moyens mis à leur disposition pour les accompagner.
+Le Groupe de Travail (GT) [Accès aux droits et aux services, lutte contre le non-recours](https://fncp-france.fr/wp-content/uploads/2018/03/rapp-4.pdf) de la [Délégation interministérielle à la prévention et à la lutte contre la pauvreté des enfants et des jeunes](https://twitter.com/delegpauvrete) s’applique à proposer des solutions pour permettre à toutes et à tous, et surtout aux plus vulnérables, de connaître les moyens mis à leur disposition pour les accompagner.
 
-Dans le cadre de ce GT, nous avons proposé d’utiliser [OpenFisca](https://fr.openfisca.org) pour étudier comment le prélèvement à la source de l’impôt pourrait impacter les foyers recevant des aides telles que le [RSA](https://fr.openfisca.org/legislation/rsa), la [PPA](https://fr.openfisca.org/legislation/ppa) et les aides au logement.
+Dans le cadre de ce GT, nous avons proposé d’utiliser [OpenFisca](https://fr.openfisca.org) en atelier pour étudier comment le prélèvement à la source de l’impôt pourrait impacter les foyers recevant des aides telles que le [RSA](https://fr.openfisca.org/legislation/rsa), la [PPA](https://fr.openfisca.org/legislation/ppa) et les aides au logement.
+
+<!--more-->
 
 Ces ateliers ont réuni des experts du calcul des prestations sociales et les équipes d'[Openfisca ](https://fr.openfisca.org) et de [Mes Aides](https://mes-aides.gouv.fr).
 
