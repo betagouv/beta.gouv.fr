@@ -34,11 +34,11 @@ Notre intention était de simuler concrètement une simplification des bases de 
 
 ## La rencontre des experts de la loi et des experts du code
 
-L'objectif initial était de définir quels types de réformes tester et sur quelles typologies de foyers, simuler et évaluer leurs impacts. Nous avons commencé par définir 7 scenarii de réformes avec les experts métiers.
+L'objectif initial était de définir quels types de réformes tester et sur quelles typologies de foyers, simuler et évaluer leurs impacts. Nous avons commencé par définir 7 scenarios de réformes avec les experts métiers.
 
 Nous avons lancé cette initiative sans filet. En nous laissant la possibilité d’adapter notre travail à ce que nous allions découvrir au fur et à mesure, nous avons appris comment faire dialoguer ces deux domaines, la maïeutique pour partir d'une idée et aller à une réforme.
 
-En bref : temps réduit, environnements techniques très variables, compétences diversifiées. Nous nous sommes vite rendu compte que pour accompagner au mieux les travaux du GT, nous devions en priorité créer des outils de communication et de visualisation. Pour nous permettre de faire cela, nous avons réduit au fur et à mesure le périmètre des réformes pour retenir 2 scenarii.
+En bref : temps réduit, environnements techniques très variables, compétences diversifiées. Nous nous sommes vite rendu compte que pour accompagner au mieux les travaux du GT, nous devions en priorité créer des outils de communication et de visualisation. Pour nous permettre de faire cela, nous avons réduit au fur et à mesure le périmètre des réformes pour retenir 2 scenarios.
 
 ### Simplifier, c'est d'abord comprendre la complexité du droit.
 
@@ -64,7 +64,7 @@ Les micro-simulateurs comme [OpenFisca](https://fr.openfisca.org) ont un rôle �
 
 ## Comment les réformes affectent les foyers : un exercice de communication politique
 
-En parallèle des scénarii de réforme, nous avons créé un jeu de situations familiales (célibataire avec enfant/sans enfants, sénior touchant une retraite…) qui représentent les situations du [livret du pouvoir d'achat du Ministère du Budget](https://www.economie.gouv.fr/files/files/PLF2018/bro-pouvoir-achat-bat-web-10h.pdf). Cela permet de tester les réformes sur des cas concrets et voir comment des changements dans la loi affectent les foyers.
+En parallèle des scénarios de réforme, nous avons créé un jeu de situations familiales (célibataire avec enfant/sans enfants, sénior touchant une retraite…) qui représentent les situations du [livret du pouvoir d'achat du Ministère du Budget](https://www.economie.gouv.fr/files/files/PLF2018/bro-pouvoir-achat-bat-web-10h.pdf). Cela permet de tester les réformes sur des cas concrets et voir comment des changements dans la loi affectent les foyers.
 
 Nous nous sommes finalement concentrés sur une réforme qui considère les revenus des 12 derniers mois comme base de ressources.
 
