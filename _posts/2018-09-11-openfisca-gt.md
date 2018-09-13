@@ -48,7 +48,7 @@ Les raisons de chaque subtilité (par exemple, l’effet figé qui consiste à v
 
 Il est facile de se perdre dans la nébuleuse du droit social, même accompagné par des experts.
 
-On se rend compte en discutant avec le GT que déterminer combien qu’une personne, ou une famille gagne aujourd’hui est loin d'être évident :
+On se rend compte en discutant avec le GT que déterminer combien une personne (ou une famille) gagne aujourd’hui est loin d'être évident :
 * Que se passe-t-il si la personne a des revenus qui fluctuent tous les mois ?
 * Que se passe-t-il si elle n'est pas salariée ?
 * Que se passe-t-il si la personne vient de partir à la retraite ?
