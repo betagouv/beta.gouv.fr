@@ -2,6 +2,8 @@
 title: Simuler l'impact de la loi, c'est possible !
 authors:
   - sandra.chakroun
+  - anna-livia.gomart
+  - hela.ghariani
 ---
 
 Vos revenus actuels décideront-ils de vos aides sociales dans deux ans ?
