@@ -22,9 +22,9 @@ Au cours de ces ateliers, notre hypothèse de départ était qu’on ne pouvait 
 
 On part d'une question qui peut paraître simple : comment évalue-t-on combien gagne une famille lorsque l’on calcule son éligibilité à une prestation sociale ?
 
-Aujourd’hui, ces règles prévoient une dizaine de méthodes de calcul des revenus d’un foyer. Certaines prennent en compte les revenus des 3 derniers mois, d’autres se basent sur le revenu fiscal de référence, calculé sur les revenus N-2 (année - 2). Avec le passage au prélèvement à la source de l'impôt sur le revenu, le calcul des prestations sociales pourrait utilisé une donnée plus proche de la situation actuelle des personnes.
+Aujourd’hui, ces règles prévoient une dizaine de méthodes de calcul des revenus d’un foyer. Certaines prennent en compte les revenus des 3 derniers mois, d’autres se basent sur le revenu fiscal de référence, calculé sur les revenus N-2 (année - 2). Avec le passage au prélèvement à la source de l'impôt sur le revenu, le calcul des prestations sociales pourrait utiliser une donnée plus proche de la situation actuelle des personnes.
 
-Notre hypothèse était qu’en collant plus aux situations des personnes les aides s’appliqueraient au plus près de leur besoin et cela simplifierait la compréhension de la façon dont elles sont calculées.
+Notre hypothèse était qu’en collant plus aux situations des personnesn les aides s’appliqueraient au plus près de leur besoin et cela simplifierait la compréhension de la façon dont elles sont calculées.
 
 Nous voulions savoir :
 * dans quelle mesure nous pouvions utiliser [OpenFisca](https://fr.openfisca.org) pour accompagner la conception d’une réforme.
