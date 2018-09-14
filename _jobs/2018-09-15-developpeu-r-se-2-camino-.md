@@ -1,14 +1,10 @@
 ---
-roles: Camino recrute un·e développeur node.js et data
+roles: un·e développeur node.js et data
 startup: camino
 techno: node.js
 junior: true # S'il est possible de candidater avec peu d'expérience
 open: true # Basculer à 'false' ou supprimer une fois l'offre pourvue
 ---
-
-CAMINO recrute un·e développeur node.js et data
-Poste ouvert le 14/09/2018.
-
 camino.beta.gouv.fr cherche un·e développeur avec une forte appétence les données afin de constituer le cadastre minier numérique ouvert français destiné à ouvrir les projets miniers pour mieux les gérer.
 
 <!--more-->
