@@ -1,11 +1,11 @@
 ---
-roles: un·e développeur node.js et data
+roles: un·e développeur·se node.js et data
 startup: camino
 techno: node.js
-junior: true # S'il est possible de candidater avec peu d'expérience
-open: true # Basculer à 'false' ou supprimer une fois l'offre pourvue
+junior: true
+open: true
 ---
-camino.beta.gouv.fr cherche un·e développeur avec une forte appétence les données afin de constituer le cadastre minier numérique ouvert français destiné à ouvrir les projets miniers pour mieux les gérer.
+camino.beta.gouv.fr cherche un·e développeur·se avec une forte appétence les données afin de constituer le cadastre minier numérique ouvert français destiné à ouvrir les projets miniers pour mieux les gérer.
 
 <!--more-->
 
@@ -20,7 +20,7 @@ Avec Camino, il sera enfin possible de consulter les caractéristiques des titre
 
 Depuis janvier 2018, nous avons construit le produit avec près de 200 titres miniers concernant plus de 100 entreprise. Notre ambition pour novembre 2018 ? Publier l’ensemble des titres miniers valides en France métropolitaine et en Guyane et dématérialiser les deux démarches administratives les plus fréquentes pour les opérateurs.
 
-Pour atteindre cet objectif, nous avons besoin de renforcer notre équipe avec un développeur ordonné et déterminé !
+Pour atteindre cet objectif, nous avons besoin de renforcer notre équipe avec un·e développeur·se ordonné·e et déterminé·e !
 
 Deux missions
 =============================
