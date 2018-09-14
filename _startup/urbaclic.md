@@ -9,12 +9,13 @@ end:
 link: http://www.opendatalab.fr/urbaclic
 repository: https://github.com/betagouv/urbaclic
 stats: false
-contact: contact@urbaclic.beta.gouv.fr
+contact: fmoguen@openig.org
 ---
 
 ## Abandon
 
-Faute de financement pérenne, le développement du produit est suspendu.
+Faute de financement pérenne, le développement du produit est suspendu en tant que Startup d'État.
+Mais l'aventure se poursuit au sein du [Projet d'Investissement d'Avenir DataClic](https://www.etalab.gouv.fr/un-second-appel-a-projets-pour-le-developpement-de-lopen-data-au-sein-des-territoires).
 
 ## Problème
 
