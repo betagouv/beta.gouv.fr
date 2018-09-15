@@ -5,7 +5,7 @@ techno: node.js
 junior: false
 open: true
 ---
-[camino.beta.gouv.fr] (https://[camino.beta.gouv.fr) cherche un·e développeur·se avec une forte appétence les données afin de constituer le cadastre minier numérique ouvert français destiné à ouvrir les projets miniers pour mieux les gérer.
+[camino.beta.gouv.fr](https://[camino.beta.gouv.fr) cherche un·e développeur·se avec une forte appétence les données afin de constituer le cadastre minier numérique ouvert français destiné à ouvrir les projets miniers pour mieux les gérer.
 
 <!--more-->
 
@@ -50,8 +50,8 @@ Deux missions
 - frontend : Vue.js, Vuex, Apollo GraphQl client
 
 *Code des frontend et backend déjà créés :*
-- backend : [https://github.com/MTES-MCT/camino-api] (https://github.com/MTES-MCT/camino-api)
-- frontend : [https://github.com/MTES-MCT/camino-ui] (https://github.com/MTES-MCT/camino-ui)
+- backend : [https://github.com/MTES-MCT/camino-api](https://github.com/MTES-MCT/camino-api)
+- frontend : [https://github.com/MTES-MCT/camino-ui](https://github.com/MTES-MCT/camino-ui)
 
 Conditions
 =========================
