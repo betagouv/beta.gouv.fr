@@ -63,7 +63,7 @@ Lieu : télétravail partiel bienvenu, avec 2 jours/semaine à Paris - La Défen
 
 Comment postuler ?
 ==========================
-Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil github ou équivalent à [`camino@beta.gouv.fr`](mailto:camino@beta.gouv.fr).
+Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil github ou équivalent à [camino@beta.gouv.fr](mailto:camino@beta.gouv.fr).
 
 L’entretien se fera sur Paris ou en visio.
 
