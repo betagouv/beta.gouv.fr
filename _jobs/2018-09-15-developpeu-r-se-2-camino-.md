@@ -2,10 +2,10 @@
 roles: un·e développeur·se node.js et data
 startup: camino
 techno: node.js
-junior: true
+junior: false
 open: true
 ---
-camino.beta.gouv.fr cherche un·e développeur·se avec une forte appétence les données afin de constituer le cadastre minier numérique ouvert français destiné à ouvrir les projets miniers pour mieux les gérer.
+[camino.beta.gouv.fr] (https://[camino.beta.gouv.fr) cherche un·e développeur·se avec une forte appétence les données afin de constituer le cadastre minier numérique ouvert français destiné à ouvrir les projets miniers pour mieux les gérer.
 
 <!--more-->
 
@@ -35,11 +35,11 @@ Deux missions
 - utilisation de node.js et npm.
 
 *Scripts d’importation déjà créés :*
-- https://github.com/jdesboeufs/camino-geodata 
-- https://github.com/MTES-MCT/camino-imports-spreadsheet-jorf 
-- https://github.com/MTES-MCT/camino-imports-postgres 
-- https://github.com/MTES-MCT/camino-imports-spreadsheets 
-- https://github.com/MTES-MCT/camino-imports-geojson 
+- [https://github.com/jdesboeufs/camino-geodata](https://github.com/jdesboeufs/camino-geodata) 
+- [https://github.com/MTES-MCT/camino-imports-spreadsheet-jorf](https://github.com/MTES-MCT/camino-imports-spreadsheet-jorf)
+- [https://github.com/MTES-MCT/camino-imports-postgres](https://github.com/MTES-MCT/camino-imports-postgres)
+- [https://github.com/MTES-MCT/camino-imports-spreadsheets](https://github.com/MTES-MCT/camino-imports-spreadsheets)
+- [https://github.com/MTES-MCT/camino-imports-geojson](https://github.com/MTES-MCT/camino-imports-geojson)
 
 **Mission 2 : créer un backoffice**
 
@@ -50,8 +50,8 @@ Deux missions
 - frontend : Vue.js, Vuex, Apollo GraphQl client
 
 *Code des frontend et backend déjà créés :*
-- backend : https://github.com/MTES-MCT/camino-api 
-- frontend : https://github.com/MTES-MCT/camino-ui
+- backend : [https://github.com/MTES-MCT/camino-api] (https://github.com/MTES-MCT/camino-api)
+- frontend : [https://github.com/MTES-MCT/camino-ui] (https://github.com/MTES-MCT/camino-ui)
 
 Conditions
 =========================
@@ -63,7 +63,7 @@ Lieu : télétravail partiel bienvenu, avec 2 jours/semaine à Paris - La Défen
 
 Comment postuler ?
 ==========================
-Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil github ou équivalent à camino@beta.gouv.fr.
+Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil github ou équivalent à [`camino@beta.gouv.fr`](mailto:camino@beta.gouv.fr).
 
 L’entretien se fera sur Paris ou en visio.
 
