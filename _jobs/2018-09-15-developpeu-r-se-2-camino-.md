@@ -18,7 +18,7 @@ Une Startup d’État est une équipe de 2 à 4 personnes financée par une admi
 La mission de l’équipe Camino : numériser l'administration des mines et pour simplifier les démarches des entreprises, ouvrir les données aux citoyens et faciliter le travail des agents publics impliqués dans ces projets miniers.
 Avec Camino, il sera enfin possible de consulter les caractéristiques des titres miniers sur une carte à jour et de suivre les projets en cours à chaque étape importante de leur vie.
 
-Depuis janvier 2018, nous avons construit le produit avec près de 200 titres miniers concernant plus de 100 entreprise. Notre ambition pour novembre 2018 ? Publier l’ensemble des titres miniers valides en France métropolitaine et en Guyane et dématérialiser les deux démarches administratives les plus fréquentes pour les opérateurs.
+Depuis janvier 2018, nous avons construit le produit avec près de 200 titres miniers concernant plus de 100 entreprises. Notre ambition pour novembre 2018 ? Publier l’ensemble des titres miniers valides en France métropolitaine et en Guyane et dématérialiser les deux démarches administratives les plus fréquentes pour les opérateurs.
 
 Pour atteindre cet objectif, nous avons besoin de renforcer notre équipe avec un·e développeur·se ordonné·e et déterminé·e !
 
