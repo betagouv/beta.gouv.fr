@@ -27,7 +27,7 @@ Lorsque nous recevons les usagers au téléphone, nous nous rendons parfois comp
 
 Pour répondre au mieux et au plus vite à chacune des questions de nos usagers, nous utilisons deux outils au quotidien, qui pourront éventuellement être utiles à d’autres startups ayant un gros volume de support : 
 - Helpscout : tous les mails adressés à l’adresse “contact@demarches-simplifiees.fr” arrivent sur cette sorte de boîte mail commune. Nous pouvons ensuite nous les répartir dans l’équipe, ajouter des tags, mettre des commentaires, consulter l’avis d’une autre personne de l’équipe et pré-formater des réponses aux questions récurrentes.
-- Aircall : tous les appels des usagers arrivent sur cette application que nous avons chacun installé sur notre téléphone. Nous avions auparavant “Ringover”, nous l’avons abandonné, suite aux nombreux bugs rencontrés. 
+- Ringover : tous les appels des usagers arrivent sur cette application que nous avons chacun installé sur notre téléphone. Nous avions auparavant “Aircall”, nous l’avons abandonné, suite aux nombreux bugs rencontrés. 
 
 ![ringover](/img/posts/ringover.png)
 
@@ -51,3 +51,5 @@ Lorsque nous sommes confrontés à des volumes importants de questions, les rép
 - Appeler pour éviter 5 échanges de mail : au téléphone, il est possible d’accompagner l’usager pas à pas, de lui demander de décrire son écran, de réorienter directement l’usager s’il n’est pas sur la bonne page, etc. Si l’on ne peut faire cela pour tous les usagers, cela peut être pertinent pour les quelques usagers en grandes difficultés, et pour qui ce sera plus rapide d’appeler que de faire 5 échanges de mail. 
 - Appeler pour investiguer : lorsqu’un problème semble récurrent, appeler l’usager peut permettre, en plus de résoudre la situation, d'investiguer sur les causes possibles et donc de retrouver la source du problème plus rapidement.
 
+
+Pour demarches-simplifiees.fr, cette analyse sur le support nous a permis de soulever un certain nombre de questions importantes pour le futur à moyen terme de notre produit. Si l'un des leitmotiv de Beta.gouv est de "considérer les besoins des usagers avant ceux de l’administration", le support est bien l'un des moyens pour se confronter au terrain. 
