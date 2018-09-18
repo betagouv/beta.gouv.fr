@@ -7,32 +7,43 @@
                 <a href="/"><img class="nav__logo" src="/img/logo-betagouv.svg" alt="Accueil de beta.gouv.fr" /></a>
 
                 <ul class="nav__links">
-                    {% assign menu_items = site.pages | where_exp: 'page', 'page.menu_index > 0' | sort: 'menu_index' %}
-                    {% for menu_item in menu_items %}
-                        {% assign translation = site.pages | where: 'ref', menu_item.ref | where: 'lang', 'en' | first %}
-                        {% if page.lang == 'en' and translation %}
-                            <li>
-                                <a class="{% if page.url == translation.url %} active{%endif%}" href="{{ translation.url }}">
-                                    {{ translation.title }}
-                                </a>
-                            </li>
-                         {% elsif page.lang == 'en' %}
-                             <li>
-                                 <a class="{% if page.url == menu_item.url %} active{%endif%}" href="{{ menu_item.url }}">
-                                    {{ menu_item.title }} (fr)
-                                </a>
-                            </li>
-                         {% else %}
-                             <li>
-                                 <a class="{% if page.url == menu_item.url %} active{%endif%}" href="{{ menu_item.url }}">
-                                    {{ menu_item.title }}
-                                </a>
-                            </li>
+                    <li>
+                        <a class="{% if page.url == '/startups/' %} active{%endif%}" href="/startups/">
+                            Startups{% if page.lang == 'en' %} (fr){% endif %}
+                        </a>
+                    </li>
+                    <li>
+                        <a class="{% if page.url == '/incubateurs/' %} active{%endif%}" href="/incubateurs/">
+                            Incubateurs{% if page.lang == 'en' %} (fr){% endif %}
+                        </a>
+                    </li>
+                    <li>
+                        <a class="{% if page.url == '/communaute/' %} active{%endif%}" href="/communaute/">
+                            Communauté{% if page.lang == 'en' %} (fr){% endif %}
+                        </a>
+                    </li>
+                    <li>
+                        {% if page.lang == 'en' %} (fr)
+                        <a class="{% if page.url == '/en/about/' %} active{%endif%}" href="/en/about/">
+                            About
+                        </a>
+                        {% else %}
+                        <a class="{% if page.url == '/apropos/' %} active{%endif%}" href="/apropos/">
+                            À propos
+                        </a>
                         {% endif %}
-                    {% endfor %}
+                    </li>
+                    <li>
+                        <a class="{% if page.url == '/recrutement/' %} active{%endif%}" href="/recrutement/">
+                            Recrutement{% if page.lang == 'en' %} (fr){% endif %}
+                        </a>
+                    </li>
+                    <li>
+                        <a class="{% if page.url == '/blog/' %} active{%endif%}" href="/blog/">
+                            Blog{% if page.lang == 'en' %} (fr){% endif %}
+                        </a>
+                    </li>
 
-                    {% assign landing_fr = site.pages | where: 'ref', 'landing' | where: 'lang', 'fr' | first %}
-                    {% assign landing_en = site.pages | where: 'ref', 'landing' | where: 'lang', 'en' | first %}
                     <li class="dropdown" id="lang">
                         {% if page.lang == 'en' %}
                             <a href="#lang">Language</a>
@@ -40,8 +51,8 @@
                             <a href="#lang">Langue</a>
                         {% endif %}
                         <ul class="dropdown-content">
-                            <li><a href="{{ landing_fr.url }}">Français&nbsp;🇫🇷</a></li>
-                            <li><a href="{{ landing_en.url }}">English&nbsp;🇬🇧</a></li>
+                            <li><a href="/">Français&nbsp;🇫🇷</a></li>
+                            <li><a href="/en/">English&nbsp;🇬🇧</a></li>
                         </ul>
                     </li>
                 </ul>
