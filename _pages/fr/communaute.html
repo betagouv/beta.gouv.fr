@@ -47,13 +47,13 @@ ref: community
 </section>
 
 <section class="ui four stackable doubling cards container">
-    <h2 class="ui divider horizontal">La communauté des Startups d'État</h2>
+    <h2 class="ui divider horizontal container">La communauté des Startups d'État</h2>
 
     {% include author.html description=page.hire_card %}
 
     {{ current_members_cards }}
 
-    <h2 id="alumni" class="ui divider horizontal">Les ancien·ne·s</h2>
+    <h2 id="alumni" class="ui divider horizontal container">Les ancien·ne·s</h2>
 
     {% for person in members %}
         {% capture end_date_as_string %}{{ person.end }}{% endcapture %}
