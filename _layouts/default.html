@@ -20,43 +20,36 @@
 
                 <nav>
                     <ul class="nav__links">
-                        {% assign menu_items = site.pages | where_exp: 'page', 'page.menu_index > 0' | sort: 'menu_index' %}
-                        {% for menu_item in menu_items %}
-                            {% assign translation = site.pages | where: 'ref', menu_item.ref | where: 'lang', 'en' | first %}
-                            {% if page.lang == 'en' and translation %}
-                                <li class="nav__item">
-                                    <a class="{% if page.url == translation.url %} active{%endif%}" href="{{ translation.url }}">
-                                        {{ translation.title }}
-                                    </a>
-                                </li>
-                             {% elsif page.lang == 'en' %}
-                                 <li class="nav__item">
-                                     <a class="{% if page.url == menu_item.url %} active{%endif%}" href="{{ menu_item.url }}">
-                                        {{ menu_item.title }} (fr)
-                                    </a>
-                                </li>
-                             {% else %}
-                                 <li class="nav__item">
-                                     <a class="{% if page.url == menu_item.url %} active{%endif%}" href="{{ menu_item.url }}">
-                                        {{ menu_item.title }}
-                                    </a>
-                                </li>
-                            {% endif %}
-                        {% endfor %}
-
-                        <!-- {% assign landing_fr = site.pages | where: 'ref', 'landing' | where: 'lang', 'fr' | first %}
-                        {% assign landing_en = site.pages | where: 'ref', 'landing' | where: 'lang', 'en' | first %}
-                        <li class="dropdown nav__item" id="lang">
-                            {% if page.lang == 'en' %}
-                                <a href="#lang">Language</a>
-                            {% else %}
-                                <a href="#lang">Langue</a>
-                            {% endif %}
-                            <ul class="dropdown-content">
-                                <li><a href="{{ landing_fr.url }}">Français&nbsp;🇫🇷</a></li>
-                                <li><a href="{{ landing_en.url }}">English&nbsp;🇬🇧</a></li>
-                            </ul>
-                        </li> -->
+                         <li class="nav__item">
+                            <a class="{% if page.url == '/startups/' %}active{%endif%}" href="/startups/">
+                                Startups
+                            </a>
+                        </li>
+                        <li class="nav__item">
+                            <a class="{% if page.url == '/incubateurs/' %}active{%endif%}" href="/incubateurs/">
+                                Incubateurs
+                            </a>
+                        </li>
+                        <li class="nav__item">
+                            <a class="{% if page.url == '/communaute/' %}active{%endif%}" href="/communaute/">
+                                Communauté
+                            </a>
+                        </li>
+                        <li class="nav__item">
+                            <a class="{% if page.url == '/apropos/' %}active{%endif%}" href="/apropos/">
+                                À propos
+                            </a>
+                        </li>
+                        <li class="nav__item">
+                            <a class="{% if page.url == '/recrutement/' %}active{%endif%}" href="/recrutement/">
+                                Recrutement
+                            </a>
+                        </li>
+                        <li class="nav__item">
+                            <a class="{% if page.url == '/blog/' %}active{%endif%}" href="/blog/">
+                                Blog
+                            </a>
+                        </li>
                     </ul>
                 </nav>
             </div>
