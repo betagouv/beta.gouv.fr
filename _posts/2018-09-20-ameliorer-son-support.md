@@ -6,7 +6,7 @@ authors: clemence.leurent
 Six mois après le lancement officiel de [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr) en mars 2018, nous avons aujourd’hui plus de 50000 dossiers déposés par des usagers sur notre plateforme. Conséquence de cette forte croissance, nous recevons chaque jour plus d’une quarantaine de mails et d’appels d’administrations souhaitant utiliser notre outil pour dématérialiser des procédures, mais aussi d’usagers réalisant une démarche sur notre site. Nous avons profité des 3 mois d’été pour améliorer cette dimension “support” de notre produit, nous partageons ici nos apprentissages.
 
  <!--more-->
- 
+
 ## Changer de posture : le support permet aussi de recueillir des retours utilisateurs
 
 Chaque mail ou appel qui arrive au support peut être vu comme un retour utilisateur en lui-même. Au delà du simple fait de répondre à la question de l’usager, nous avons tenté d’adopter une posture proactive sur le support. Si l’usager n’a pas trouvé l’information, s’il s’est perdu sur le site, s’il n’a pas cliqué au bon endroit, c’est qu’il y a très probablement un problème quelque part en amont, qu’il faut identifier et résoudre. Faire du support implique donc non seulement de répondre aux questions des usagers, mais aussi d’investiguer pour comprendre les causes des problèmes rencontrés, puis de mettre en place des solutions pour éviter qu’ils ne se reproduisent. 
