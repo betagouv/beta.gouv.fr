@@ -52,4 +52,4 @@ Lorsque nous sommes confrontés à des volumes importants de questions, les rép
 - Appeler pour investiguer : lorsqu’un problème semble récurrent, appeler l’usager peut permettre, en plus de résoudre la situation, d'investiguer sur les causes possibles et donc de retrouver la source du problème plus rapidement.
 
 
-Pour demarches-simplifiees.fr, cette analyse sur le support nous a permis de soulever un certain nombre de questions importantes pour le futur à moyen terme de notre produit. Si l'un des leitmotiv de Beta.gouv est de "considérer les besoins des usagers avant ceux de l’administration", le support est bien l'un des moyens pour se confronter au terrain. 
+Pour demarches-simplifiees.fr, cette analyse sur le support nous a permis de soulever un certain nombre de questions importantes pour le futur à moyen terme de notre produit. Si l'un des leitmotiv de beta.gouv.fr est de "considérer les besoins des usagers avant ceux de l’administration", le support est bien l'un des moyens pour se confronter au terrain. 
