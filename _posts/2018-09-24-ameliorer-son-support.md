@@ -3,7 +3,7 @@ title: Comment améliorer son support ?
 authors: clemence.leurent
 ---
 
-Six mois après le lancement officiel de demarches-simplifiees.fr en mars 2018, nous avons aujourd’hui plus de 50000 dossiers déposés par des usagers sur notre plateforme. Conséquence de cette forte croissance, nous recevons chaque jour plus d’une quarantaine de mails et d’appels d’administrations souhaitant utiliser notre outil pour dématérialiser des procédures, mais aussi d’usagers réalisant une démarche sur notre site. Nous avons profité des 3 mois d’été pour améliorer cette dimension “support” de notre produit, nous partageons ici nos apprentissages.
+Six mois après le lancement officiel de [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr) en mars 2018, nous avons aujourd’hui plus de 50000 dossiers déposés par des usagers sur notre plateforme. Conséquence de cette forte croissance, nous recevons chaque jour plus d’une quarantaine de mails et d’appels d’administrations souhaitant utiliser notre outil pour dématérialiser des procédures, mais aussi d’usagers réalisant une démarche sur notre site. Nous avons profité des 3 mois d’été pour améliorer cette dimension “support” de notre produit, nous partageons ici nos apprentissages.
 
  <!--more-->
  
@@ -21,13 +21,13 @@ Si une partie des questions des utilisateurs peuvent donner lieu à des amélior
 
 ## Comment traiter l'illettrisme numérique ?
 
-Lorsque nous recevons les usagers au téléphone, nous nous rendons parfois compte que nos interlocuteurs maîtrisent peu le français, ont des difficultés pour manier leur souris ou pour ouvrir leur navigateur. Il nous arrive alors de passer 45 minutes au téléphone avec eux pour les accompagner clic après clic dans la réalisation de leur démarche. Cette situation peut paraître anecdotique, mais elle nous rappelle que l'illettrisme numérique concerne aujourd’hui 13 millions de personnes en France. Devant ce constat, nous avons identifié plusieurs pistes de solutions que nous partageons ici : avoir un site responsive pour tous les utilisateurs réalisant leur démarche sur téléphone, permettre à une tierce personne de faire la démarche “à la place de”, nouer des partenariats avec des associations telles que “Emmaus Connect” ou “WeTechCare”, identifier un réseau d’aidants numériques sur le territoire vers lesquels nous pourrions orienter ces usagers.
+Lorsque nous recevons les usagers au téléphone, nous nous rendons parfois compte que nos interlocuteurs maîtrisent peu le français, ont des difficultés pour manier leur souris ou pour ouvrir leur navigateur. Il nous arrive alors de passer 45 minutes au téléphone avec eux pour les accompagner clic après clic dans la réalisation de leur démarche. Cette situation peut paraître anecdotique, mais elle nous rappelle que l'illettrisme numérique concerne aujourd’hui 13 millions de personnes en France. Devant ce constat, nous avons identifié plusieurs pistes de solutions que nous partageons ici : avoir un site responsive pour tous les utilisateurs réalisant leur démarche sur téléphone, permettre à une tierce personne de faire la démarche “à la place de”, nouer des partenariats avec des associations telles que [Emmaus Connect](http://emmaus-connect.org) ou [WeTechCare](https://wetechcare.org), identifier un réseau d’aidants numériques sur le territoire vers lesquels nous pourrions orienter ces usagers.
 
 ## Des outils pour faire face à un gros volume de support
 
 Pour répondre au mieux et au plus vite à chacune des questions de nos usagers, nous utilisons deux outils au quotidien, qui pourront éventuellement être utiles à d’autres startups ayant un gros volume de support : 
-- Helpscout : tous les mails adressés à l’adresse “contact@demarches-simplifiees.fr” arrivent sur cette sorte de boîte mail commune. Nous pouvons ensuite nous les répartir dans l’équipe, ajouter des tags, mettre des commentaires, consulter l’avis d’une autre personne de l’équipe et pré-formater des réponses aux questions récurrentes.
-- Ringover : tous les appels des usagers arrivent sur cette application que nous avons chacun installé sur notre téléphone. Nous avions auparavant “Aircall”, nous l’avons abandonné, suite aux nombreux bugs rencontrés. 
+- [Helpscout](https://www.helpscout.net) : tous les mails adressés à l’adresse “contact@demarches-simplifiees.fr” arrivent sur cette sorte de boîte mail commune. Nous pouvons ensuite nous les répartir dans l’équipe, ajouter des tags, mettre des commentaires, consulter l’avis d’une autre personne de l’équipe et pré-formater des réponses aux questions récurrentes.
+- [Ringover](https://www.ringover.com) : tous les appels des usagers arrivent sur cette application que nous avons chacun installé sur notre téléphone. Nous avions auparavant “Aircall”, nous l’avons abandonné, suite aux nombreux bugs rencontrés.
 
 ![ringover](/img/posts/ringover.png)
 
