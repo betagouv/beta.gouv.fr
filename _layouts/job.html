@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Les Startups d’État recrutent
 ---
 
 {% assign job = page %}
@@ -14,7 +15,8 @@ layout: default
 
 <div class="post-container">
     <article class="post">
-        <h1>{% if startup %}{{ startup.title }}{% elsif job.type == 'friend' %}{{ job.friend }}{% else %}beta.gouv.fr{% endif %} recrute {{ job.roles | downcase }}</h1>
+        {% capture pagetitle %}{% if startup %}{{ startup.title }}{% elsif job.type == 'friend' %}{{ job.friend }}{% else %}beta.gouv.fr{% endif %} recrute {{ job.roles | downcase }}{% endcapture %}
+        <h1>{{ pagetitle }}</h1>
 
         {% if job.type == 'friend' %}
             <div class="subtitle external-link">

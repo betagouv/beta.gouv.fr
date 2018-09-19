@@ -6,9 +6,9 @@
 
 Les illustrations doivent être en 16:9, au format 1280 ⨉ 720 pixels, optimisées au préalable avec un outil du type [ImageOptim](https://imageoptim.com/mac) - choisir des réglages "lossy" donnant en général plus de 50% de gains à la compression, mais ne pas supprimer les métadonnées d'images.
 
-> Sinon, offline : dupliquer un fichier de description dans le dossier [`_startup`](https://github.com/betagouv/beta.gouv.fr/tree/master/_startup) et suivre les instruction ci-dessous sur l'édition.
+> Sinon, offline : dupliquer un fichier de description dans le dossier [`_startup`](https://github.com/betagouv/beta.gouv.fr/tree/master/_startup) et suivre les instructions ci-dessous sur l'édition.
 
-Pour le titre de la startup, s'en tenir aux [règles usuelles](https://fr.wikipedia.org/wiki/Usage_des_majuscules_en_fran%C3%A7ais#R.C3.A8gles_traditionnelles), c'est-à-dire sauf cas particuliers : le premier mot prend une majsucule, les autres non. (Ce n'est pas grave de se tromper, mais il faut s'attendre à ce que ça soit corrigé plus tard.)
+Pour le titre de la startup, s'en tenir aux [règles usuelles](https://fr.wikipedia.org/wiki/Usage_des_majuscules_en_fran%C3%A7ais#R.C3.A8gles_traditionnelles), c'est-à-dire sauf cas particuliers : le premier mot prend une majuscule, les autres non. (Ce n'est pas grave de se tromper, mais il faut s'attendre à ce que ça soit corrigé plus tard.)
 
 Pour l'énoncé de mission, utiliser une phrase à l'infinitif, qui complète « En investissant dans ce produit, l'État cherche à… » ou « l'État cherche à rendre plus facile de… ».
 
@@ -34,7 +34,7 @@ Avant d'ouvrir une pull request, diffuser un lien privé de prévisualisation à
 
 > Par exemple, créer un [Gist](https://gist.github.com) privé.
 
-Recueillez l'avis d'au moins 2 membres de l'incubateur. Après de potentielles itérations, si aucun des destinataires n'a posé de véto à la publication, l'auteur peut ouvrir une pull request pour dernières vérifications syntaxiques et fonctionnelles.
+Recueillez l'avis d'au moins 2 membres de l'incubateur. Après de potentielles itérations, si aucun des destinataires n'a posé de veto à la publication, l'auteur peut ouvrir une pull request pour dernières vérifications syntaxiques et fonctionnelles.
 
 
 ## Ajouter un événement
