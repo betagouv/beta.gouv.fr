@@ -21,7 +21,9 @@ Depuis 2013 l’État met en œuvre une nouvelle politique d’innovation, perme
 
 ## Qu’est-ce qu’une Startup d'État ?
 
-Une Startup d'État n’est pas une startup. C’est un service public numérique développé par une équipe autonome pour répondre à un problème lié à une politique publique, financée par une administration porteuse sur la base des résultats qu’elle obtient. Elle n’a pas pour objectif de faire du profit et n’a le plus souvent pas de personnalité juridique propre au moment de son lancement (même si elle peut devenir par la suite une association, un GIP ou encore un service au sein d’une administration). Sa vocation est de maximiser son impact social en répondant aux besoins de ses utilisateurs.
+Une Startup d'État est un service public numérique développé par une équipe autonome pour répondre à un problème lié à une politique publique, financée par une administration porteuse sur la base des résultats qu’elle obtient. Elle n’a pas pour objectif de faire du profit et n’a le plus souvent pas de personnalité juridique propre au moment de son lancement (même si elle peut devenir par la suite une association, un GIP ou encore un service au sein d’une administration). Sa vocation est de maximiser son impact social en répondant aux besoins de ses utilisateurs. 
+
+En particulier, beta.gouv.fr n'incube pas de startups privées.
 
 Le [portefeuille de beta.gouv.fr](https://beta.gouv.fr/startups/) compte des Startups d'État dans des domaines aussi divers que l’emploi, la formation, le travail, le handicap, les aides aux personnes et aux entreprises, l’éducation, la culture, la sécurité sociale, la défense, les transports et la simplification des démarches administratives. 
 
@@ -33,7 +35,7 @@ Il est utile de créer une Startup d'État pour trouver une solution à un probl
 
 ## Comment est financée une Startup d'État ? 
 
-Les coûts de développement et de fonctionnement des Startups d'État restent entièrement à la charge des administrations qui les portent. L’administration partenaire finance les coûts de développement de la Startup d’Etat (au maximum 200 000 € pour les six 6 mois) et s’engage à refinancer le projet en cas de succès en doublant la mise. 
+Les coûts de développement et de fonctionnement des Startups d'État restent entièrement à la charge des administrations qui les portent. L’administration partenaire finance les coûts de développement de la Startup d’Etat (au maximum 200 000 € pour les six premiers mois) et s’engage à refinancer le projet en cas de succès en doublant la mise. 
 
 La communauté beta.gouv.fr et, en particulier, l’incubateur de services numériques de la DINSIC accompagne les acteurs désireux de créer des Startups d'État à toutes les étapes du processus : présentation de la méthode auprès des instances de direction, appui pour le lancement, formation et suivi des équipes, intégration au sein de l’administration... 
 
