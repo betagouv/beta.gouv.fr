@@ -76,4 +76,5 @@ sass:
   style: compressed
   sass_dir: _sass
 
+remote-theme: thimy/template-jekyll
 theme: jekyll-theme-gouvfr
