@@ -10,8 +10,7 @@ lang: fr
 ref: jobs
 ---
 
-<section class="section-grey">
-  <div class="container">
+<section class="ui container blog-container">
     {% assign jobs = site.jobs | sort: 'date' | reverse %}
     {% assign opened_jobs = jobs | where:'open',true %}
     {% assign closed_jobs = jobs | where:'open',false %}
@@ -49,5 +48,4 @@ ref: jobs
             {% endif %}
         {% endfor %}
     </ul>
-  </div>
 </section>

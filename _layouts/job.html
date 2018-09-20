@@ -13,49 +13,48 @@ title: Les Startups d’État recrutent
     {% endfor %}
 {% endif %}
 
-<section class="section-grey">
-    <div class="container">
-        <article class="panel">
-            {% capture pagetitle %}{% if startup %}{{ startup.title }}{% elsif job.type == 'friend' %}{{ job.friend }}{% else %}beta.gouv.fr{% endif %} recrute {{ job.roles | downcase }}{% endcapture %}
-            <h1>{{ pagetitle }}</h1>
+<div class="post-container">
+    <article class="post">
+        {% capture pagetitle %}{% if startup %}{{ startup.title }}{% elsif job.type == 'friend' %}{{ job.friend }}{% else %}beta.gouv.fr{% endif %} recrute {{ job.roles | downcase }}{% endcapture %}
+        <h1>{{ pagetitle }}</h1>
 
-            {% if job.type == 'friend' %}
-                <div class="subtitle external-link">
-                    Une offre à pourvoir chez nos ami·e·s <br>
-                    <a href="{{ job.externalURL}}">Voir l'offre sur le site de {{ job.friend }}</a>
-                </div>
+        {% if job.type == 'friend' %}
+            <div class="subtitle external-link">
+                Une offre à pourvoir chez nos ami·e·s <br>
+                <a href="{{ job.externalURL}}">Voir l'offre sur le site de {{ job.friend }}</a>
+            </div>
+        {% endif %}
+
+        <p>Poste ouvert le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time>.</p>
+
+        {% if job.techno %}
+            <p>
+            {% if job.junior %}
+                Juniors bienvenu·e·s sur ce poste. L'équipe assurera votre
+                formation aux technologies retenues :
             {% endif %}
+            <em>{{ job.techno }}</em>.
+            </p>
+        {% endif %}
 
-            <p>Poste ouvert le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time>.</p>
+        {% unless job.open %}
+            {{ "**Ce poste a été pourvu.**" | markdownify }}
+        {% endunless %}
 
-            {% if job.techno %}
-                <p>
-                {% if job.junior %}
-                    Juniors bienvenu·e·s sur ce poste. L'équipe assurera votre
-                    formation aux technologies retenues :
-                {% endif %}
-                <em>{{ job.techno }}</em>.
-                </p>
-            {% endif %}
+        <div class="excerpt">{{ job.excerpt }}</div>
 
-            {% unless job.open %}
-                {{ "**Ce poste a été pourvu.**" | markdownify }}
-            {% endunless %}
+        {{ content | remove: job.excerpt }}
 
-            <div class="excerpt">{{ job.excerpt }}</div>
+        {% if startup %}
+            <aside>{% include startup-card.html description=startup %}</aside>
+        {% endif %}
 
-            {{ content | remove: job.excerpt }}
+        <footer>
+            <div class="ui divider"></div>
+            <h3>Une question ?</h3>
+            <p>Écrivez-nous <a href="https://twitter.com/intent/tweet?text=%40BetaGouv%20Au%20sujet%20de%20{{ job.title | uri_escape }}%20%3a%20">@BetaGouv sur Twitter</a> ou envoyez-nous <a href="mailto:social@beta.gouv.fr?subject={{ job.title | uri_escape }}">un mail</a>.</p>
+            <p>Vous avez repéré une coquille ? <a href="https://github.com/betagouv/beta.gouv.fr/edit/master/{{ job.path }}">Corrigez-la</a> !</p>
+        </footer>
 
-            {% if startup %}
-                <aside>{% include startup-card.html description=startup %}</aside>
-            {% endif %}
-
-            <footer>
-                <div class="ui divider"></div>
-                <h3>Une question ?</h3>
-                <p>Écrivez-nous <a href="https://twitter.com/intent/tweet?text=%40BetaGouv%20Au%20sujet%20de%20{{ job.title | uri_escape }}%20%3a%20">@BetaGouv sur Twitter</a> ou envoyez-nous <a href="mailto:social@beta.gouv.fr?subject={{ job.title | uri_escape }}">un mail</a>.</p>
-                <p>Vous avez repéré une coquille ? <a href="https://github.com/betagouv/beta.gouv.fr/edit/master/{{ job.path }}">Corrigez-la</a> !</p>
-            </footer>
-        </article>
-    </div>
-</section>
+    </article>
+</div>

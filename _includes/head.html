@@ -1,15 +1,10 @@
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
-
-    <link rel="stylesheet" type="text/css" media="screen,projection" href="{{ site.url }}{{ "/assets/style/main.css" }}">
-    <link rel="stylesheet" type="text/css" media="screen,projection" href="{{ site.url }}{{ "/css/main.css" }}">
-
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}" />
+    <title>{% if page.title %}{{ layout.title | default: page.title }} — {% endif %}{{ site.title }}</title>
+    <meta property="og:title" content="{{ layout.title | default: page.title | default: site.title }}">
 
     <link type="application/atom+xml" rel="alternate" href="{{ site.url }}/feed.xml" title="{{ site.title }}">
 
@@ -29,6 +24,28 @@
         {% endfor %}
     {% endif %}
 
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/reset.min.css">
+    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/menu.min.css">
+    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/container.min.css">
+    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/grid.min.css">
+    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/divider.min.css">
+    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/card.min.css">
+    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/image.min.css">
+    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/transition.min.css">
+    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/form.min.css">
+    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/button.min.css">
+    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/input.min.css">
+    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/label.min.css">
+    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/segment.min.css">
+    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/list.min.css">
+
+
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/css/startup-card.css">
+    <link rel="stylesheet" type="text/css" href="/css/tooltip.css">
+
     {% if page.layout != 'default' %}
         <link rel="stylesheet" type="text/css" href="/css/{{ page.layout }}.css">
     {% endif %}
@@ -37,6 +54,30 @@
         <link rel="stylesheet" type="text/css"
         href="{% if file contains '://' %}{{ file }}{% else %}/css/{{ file }}.css{% endif %}">
     {% endfor %}
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/img/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/img/favicons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/img/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/img/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/img/favicons/manifest.json">
+    <link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg">
+    <link rel="shortcut icon" href="/img/favicons/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="beta.gouv.fr">
+    <meta name="application-name" content="beta.gouv.fr">
+    <meta name="msapplication-TileColor" content="#042075">
+    <meta name="msapplication-TileImage" content="/img/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/img/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#042075">
+
     {% capture canonical_url %}{{ site.url }}{{ page.url | replace:'index.html','' }}{% endcapture %}
     <link rel="canonical" href="{{ canonical_url }}">
     <meta property="og:url" content="{{ canonical_url }}">
@@ -46,4 +87,28 @@
     <meta name="thumbnail" content="{{ site.url }}{{ mastheadImagePath }}">
     <meta property="og:image" content="{{ site.url }}{{ mastheadImagePath }}">
 
+    <style type="text/css">
+        #masthead, footer::before {
+            background-image: url("{{ mastheadImagePath }}");
+        }
+        @media (min-width: 1368px) {
+            #masthead, footer::before {
+                background-image: url("{{ mastheadImagePath | replace:'.jpg','@2x.jpg'}}"),
+                                    url("{{ mastheadImagePath }}"); /* fallback */
+            }
+        }
+        @media (min-width: 2736px) {
+            #masthead, footer::before {
+                background-image: url("{{ mastheadImagePath | replace:'.jpg','@4x.jpg'}}"),
+                                    url("{{ mastheadImagePath }}"); /* fallback */
+            }
+        }
+    </style>
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site:id" content="{{ twitter_id }}">
+
+    <!--[if lt IE 9]>
+        <script src="js/lib/html5shiv.min.js"></script>
+    <![endif]-->
 </head>

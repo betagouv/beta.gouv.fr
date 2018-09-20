@@ -1,27 +1,11 @@
 .screenshot {
-  display: block;
-  margin: auto;
-  margin-bottom: 2em;
-  max-width: 100%;
-  max-height: 30em;
-  width: auto !important;
-
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    max-height: 30em;
+    width: auto !important;
 }
 
-.startup-header {
-  text-align: center;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
-  grid-gap: 2em;
-}
-
-.article__author {
-  width: 100%;
-}
-
-.grid .panel + .panel {
-    margin-left: 0;
+.card .startup-header {
+    text-align: center;
 }

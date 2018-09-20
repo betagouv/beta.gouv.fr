@@ -15,17 +15,16 @@
 {% endif %}
 
 {% if friend %}
-<li class="panel blog-segment-friend {{ include.class }}">
+<li class="blog-segment blog-segment-friend {{ include.class }}">
     <div class="ad">Nos ami·e·s recrutent</div>
     <div class="content">
 {% else %}
-<li class="panel {{ include.class }}">
+<li class="blog-segment {{ include.class }}">
 {% endif %}
 
     <a class="blog-segment-link" title="{{ include.job.title }}" href="{{ include.job.url }}"></a>
 
     <a class="blog-title-link" href="{{ include.job.url }}">
-      <h3>
         {% if startup %}
             {{ startup.title }}
         {% elsif friend %}
@@ -34,7 +33,6 @@
             beta.gouv.fr
         {% endif %}
         recrute {{ include.job.roles }}
-      </h3>
     </a>
 
     <div class="excerpt-meta-informations">

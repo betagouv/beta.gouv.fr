@@ -9,56 +9,55 @@
     {% endfor %}
 {% endif %}
 
-<a class="card" href="{{ description.url }}">
-  {% if description %}
-    <div class="card__cover">
-      {% include screenshot.html startup=description %}
-    </div>
-  {% endif %}
-  <div class="card__content">
-    <h3>{{ description.title }}</h3>
-    <div class="card__meta">
-      {% include owner.html owner=description.owner %}
-    </div>
 
-    <p class="description">
-      {{ description.mission }}
-    </p>
-  </div>
-  <div class="card__extra">
-    <div>
-      {% if description.link %}
-        {{ description.link | remove: 'https://' | remove: 'http://' }}
-      {% else %}
-        <em>Pas encore de site public</em>
-      {% endif %}
+<a class="ui fluid {{ description.status }} card" href="{{ description.url }}">
+    <div class="image">
+        {% include screenshot.html startup=description %}
     </div>
+    <div class="content">
+        <div class="header">{{ description.title }}</div>
+        <div class="meta">
+            {% include owner.html owner=description.owner %}
+        </div>
 
-    <div>
-      {%if description.repository %}
-        Code source ouvert
-      {% else %}
-        <em>Code pas encore ouvert</em>
-      {% endif %}
+        <div class="description">
+            {{ description.mission }}
+        </div>
     </div>
-  </div>
-  <div class="card__extra">
-    {% assign shortid = description.id | remove: '/startup/' %}
+    <div class="extra content">
+        <div class="left floated">
+            {% if description.link %}
+                {{ description.link | remove: 'https://' | remove: 'http://' }}
+            {% else %}
+                <em>Pas encore de site public</em>
+            {% endif %}
+        </div>
 
-    {% for author in site.authors %}
-      {% for startup in author.startups %}
+        <div class="right floated">
+            {%if description.repository %}
+                Code source ouvert
+            {% else %}
+                <em>Code pas encore ouvert</em>
+            {% endif %}
+        </div>
+    </div>
+    <div class="extra content">
+        {% assign shortid = description.id | remove: '/startup/' %}
 
-        {% if startup.first %}
-          {% assign currentId = startup.first[0] %}
-          {% if startup.first[1] == "inactive" %}
-            {% assign isInactive = true %}
-          {% else %}
-            {% assign isInactive = false %}
-          {% endif %}
-        {% else %}
-          {% assign currentId = startup %}
-          {% assign isInactive = false %}
-        {% endif %}
+        {% for author in site.authors %}
+            {% for startup in author.startups %}
+
+                {% if startup.first %}
+                    {% assign currentId = startup.first[0] %}
+                    {% if startup.first[1] == "inactive" %}
+                        {% assign isInactive = true %}
+                    {% else %}
+                        {% assign isInactive = false %}
+                    {% endif %}
+                {% else %}
+                    {% assign currentId = startup %}
+                    {% assign isInactive = false %}
+                {% endif %}
 
                 {% if currentId == shortid %}
                     {%if author.end %}
