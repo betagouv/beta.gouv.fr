@@ -1,6 +1,7 @@
 ---
 title: À propos
 menu_index: 4
+layout: text
 permalink: /apropos/
 additional_css:
 - blog
