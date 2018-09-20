@@ -13,7 +13,7 @@
   <img alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}/img{{ description.id }}.jpg{% endif %}" />
 {% endcapture %}
 
-<div class="article__author panel{% if include.isInactive %} inactive{% endif %}">
+<div class="card {% if include.isInactive %}inactive{% endif %}">
 
   {% if description.link %}
   <a class="content" href="{{ description.link }}" target="_blank" rel="noopener">
@@ -21,21 +21,21 @@
   <div class="content">
   {% endif %}
 
-    <div class="article__author-info">
-      <div class="article__author-name">{{ description.fullname }}</div>
-      <div class="article__author-role">{{ description.role }}</div>
-    </div>
-
     {% if include.size != 'small' %}
+    <div class="card__cover">
       {{ avatar }}
+    </div>
     {% endif %}
 
     {% if include.size == 'small' %}
-      {{ avatar }}
+    <div class="card__cover">{{ avatar }}</div>
     {% endif %}
-
-    <div class="article__author-description">
-      {{ description.content | markdownify }}
+    <div class="card__content">
+      <h3>{{ description.fullname }}</h3>
+      <div class="card__meta">{{ description.role }}</div>
+      <div class="description">
+        {{ description.content | markdownify }}
+      </div>
     </div>
 
   {% if description.link %}
