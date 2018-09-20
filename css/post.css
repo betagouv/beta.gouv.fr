@@ -2,19 +2,6 @@
     font-weight: bold;
 }
 
-article footer h3, article footer p {
-    margin: 0;
-}
-
-article footer, address {
-    font-style: normal;
-    font-size: 80%;
-}
-
-address.ui.cards {
-    margin-top: 2em;
-}
-
 .post-container {
     background-color: white;
 }
@@ -29,16 +16,26 @@ address.ui.cards {
     color: #222;
     font-size: 112%;
     line-height: 1.5;
-
-    max-width: 740px;
-    width: 100%;
-    padding: 1em 20px 6em;
-    margin: 0 auto;
-    box-sizing: border-box;
 }
 
 .post img {
     margin: auto;
     display: block;
     max-width: 100%;
+}
+
+h1.article__title {
+    color: #fff;
+}
+
+aside {
+    max-width: 25em;
+    margin: auto;
+}
+
+.article__hero img {
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
 }
