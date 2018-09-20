@@ -16,18 +16,18 @@ A Dock, l’outil qui simplifie les relations entre les transporteurs routiers e
 
 Notre mission : simplifier les relations entre chargeurs et transporteurs français.
 
-En 6 petits mois d’existence, A Dock est devenu l’annuaire en ligne qui recense la totalité des transporteurs français, soit plus de 54 000 références !
+En 6 petits mois d’existence, A Dock est devenu l’annuaire en ligne qui recense la totalité des transporteurs français, soit plus de 54 000 références ! 
 
-Notre ambition est de faire de A Dock la base de données de référencement des transporteurs, avec un accès facile à l’ensemble des documents et des données utiles à leurs transactions commerciales.
+Notre ambition est de faire de A Dock la base de données de référencement des transporteurs, avec un accès facile à l’ensemble des documents et des données utiles à leurs transactions commerciales. 
 
-Nos objectifs pour la fin de l'année :
+Nos objectifs pour la fin de l'année : 
 - Avoir plusieurs milliers de transporteurs qui valident leur fiche
 - Faire la promotion de adock auprès des clients des transporteurs (aka les chargeurs) avec l’ambition d’avoir un taux d’utilisateurs de 50% auprès des chargeurs en Bretagne, qui est notre région de bêta test.
 
 Pour atteindre ces objectifs, nous recherchons un bizdev en herbe, déterminé à faire grandir A Dock le plus possible et toujours à l’écoute des utilisateurs.
-
-
-## Les contributions possibles
+ 
+ 
+## Les contributions possibles 
 
 - Convertir et accompagner les transporteurs pour qu’ils soient présents sur A Dock
 - Sauver les utilisateurs perdus et répondre à leurs interrogations

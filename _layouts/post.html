@@ -11,44 +11,39 @@ layout: default
     {% endfor %}
 {% endif %}
 
-{% capture imagePath %}/img/{{ page.path | replace: '_pages', 'pages' | replace: '_posts', 'posts' | replace: '_startup', 'startup' | remove: '/fr' | remove: '/en' | remove: '.html' | remove: '.md' }}.jpg{% endcapture %}
-
-<section class="article article__full">
-  <div class="hero article__hero">
-    <img src="{{ imagePath }}" alt="" />
-    <div class="article__container">
-      <h1 class="article__title">{{ page.title }}</h1>
-      <div class="article__meta">Paru le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%d/%m/%Y" }}</time></div>
+<div id="masthead">
+    <div class="masthead-wrapper">
+        <h1>{{ page.title}}</h1>
+        <p>Paru le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%d/%m/%Y" }}</time></p>
     </div>
-  </div>
+</div>
 
-  <div class="article__content">
-    <div class="article__container">
-      <div class="richtext">
+<div class="post-container">
+    <article class="post">
         <div class="excerpt">{{ page.excerpt }}</div>
 
         {{ content | remove: page.excerpt }}
 
         {% if page.category == 'evenement' %}
-          <div class="vevent">
-            <strong><a class="url" href="{{ page.registration }}">Inscrivez-vous</a> pour participer à l'évènement <span class="summary">{{ page.title }}</span></strong> du <time datetime="{{ page.start }}" class="dtstart">{{ page.start | date: "%m/%d/%Y à %R" }}</time> au <time datetime="{{ page.end }}" class="dtend">{{ page.end | date: "%m/%d/%Y à %R" }}</time> à <span class="location">{{ page.location }}</span>.
-          </div>
+            <div class="vevent">
+                <strong><a class="url" href="{{ page.registration }}">Inscrivez-vous</a> pour participer à l'évènement <span class="summary">{{ page.title }}</span></strong> du <time datetime="{{ page.start }}" class="dtstart">{{ page.start | date: "%m/%d/%Y à %R" }}</time> au <time datetime="{{ page.end }}" class="dtend">{{ page.end | date: "%m/%d/%Y à %R" }}</time> à <span class="location">{{ page.location }}</span>.
+            </div>
         {% endif %}
 
         {% if page.authors %}
         <address class="ui stackable cards">
-          {% for author in page.authors %}
-          {% include author.html id=author size='small' %}
-          {% endfor %}
+            {% for author in page.authors %}
+            {% include author.html id=author size='small' %}
+            {% endfor %}
         </address>
         {% endif %}
 
         <footer>
-          <h3>Un avis, une question ?</h3>
-          <p>Écrivez-nous <a href="https://twitter.com/intent/tweet?text=%40BetaGouv%20Au%20sujet%20de%20{{ page.title | uri_escape }}%20%3a%20">@BetaGouv sur Twitter</a> ou envoyez-nous <a href="mailto:social@beta.gouv.fr?subject={{ page.title | uri_escape }}">un mail</a>.</p>
-          <p>Vous avez repéré une coquille ? <a href="https://github.com/betagouv/beta.gouv.fr/edit/master/{{ page.path }}">Corrigez-la</a> !</p>
+            <div class="ui divider"></div>
+            <h3>Un avis, une question ?</h3>
+            <p>Écrivez-nous <a href="https://twitter.com/intent/tweet?text=%40BetaGouv%20Au%20sujet%20de%20{{ page.title | uri_escape }}%20%3a%20">@BetaGouv sur Twitter</a> ou envoyez-nous <a href="mailto:social@beta.gouv.fr?subject={{ page.title | uri_escape }}">un mail</a>.</p>
+            <p>Vous avez repéré une coquille ? <a href="https://github.com/betagouv/beta.gouv.fr/edit/master/{{ page.path }}">Corrigez-la</a> !</p>
         </footer>
-      </div>
-    </div>
-  </div>
-</section>
+
+    </article>
+</div>

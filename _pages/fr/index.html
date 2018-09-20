@@ -1,85 +1,48 @@
 ---
 additional_css:
-- main
 - homepage
 - dashboard
 - startup-presentation
+additional_js: homepage
 permalink: /
 lang: fr
 ref: landing
 title: Incubateur de services publics numériques
 ---
 
-<div class="hero">
-  <div class="hero__container">
+<section id="intro-header">
     <h1>{{ site.description }}</h1>
-  </div>
-</div>
-
-<section class="presentation section-white">
-  <div class="container">
-    <div class="row">
-      <p>Les <strong>besoins des usagers</strong> avant ceux de l’administration</p>
-      <p>Des <strong>équipes pilotées par la finalité</strong> plus que par les moyens</p>
-      <p><strong>Amélioration continue</strong> plus que conformité à un plan</p>
-    </div>
-
-    <div class="row centered">
-      <a href="/startups" class="button large secondary">Voir notre portefeuille</a>
-      <a href="/incubateurs" class="button large">En savoir plus</a>
-    </div>
-  </div>
+    <a class="primary construction cta" href="#cycle">Découvrez comment</a>
 </section>
 
-<section class="section-grey mosaic">
-    <div class="container">
-        <div class="row public-agents inverted">
-            <div class="photo agents"></div>
-            <div class="stacked">
-                <div class="description">
-                    <h3>Agents publics</h3>
-                    <p>Vous vous reconnaissez dans le profil d’un agent public indigné par une situation irritante pour les usagers ? Vous avez une idée précise d’une solution qui pourrait faire levier sur du numérique ? Vous êtes prêts à vous investir pour la mettre en oeuvre ?</p>
-                </div>
-                <div class="row">
-                    <a class="link" href="/contact">
-                        <img src="../img/icons/pen.svg" alt="Icône stylo" />
-                        <p>Adressez-nous une<br>fiche produit</p>
-                    </a>
-                    <a class="link">
-                        <img src="../img/icons/book.svg" alt="Icône livre" />
-                        <p>Inscrivez-vous à notre formation gratuite Alpha</p>
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="row developers">
-            <div class="photo decideurs"></div>
-            <div class="stacked">
-                <div class="description">
-                    <h3>Décideurs publics</h3>
-                    <p>Vous êtes responsable d’administration centrale ou territoriale et souhaitez créer rapidement des outils qui résolvent les problèmes les plus courants rencontrés par vos usagers ? Vous souhaitez accélérer votre transition numérique en mobilisant vos agents sur ces enjeux ?</p>
-                </div>
-                <div class="row">
-                    <a class="link" href="startups">
-                        <img src="../img/icons/pencil.svg" alt="Icône fusée" />
-                        <p>Découvrez une startup d'état existante</p>
-                    </a>
-                    <a class="link">
-                        <img src="../img/icons/rocket.svg" alt="Icône crayon" />
-                        <p>Lancez une startup d'état</p>
-                    </a>
-                </div>
-            </div>
-        </div>
-      </div>
+<section id="presentation" class="ui container">
+    <div id="example">
+        {% include startup-presentation.html id='mdph' %}
+        {% include startup-presentation.html id='pix' %}
+        {% include startup-presentation.html id='demarches-simplifiees.fr' %}
+        {% include startup-presentation.html id='mes-aides' %}
+        {% include startup-presentation.html id='la-bonne-boite' %}
+        {% include startup-presentation.html id='mps' %}
     </div>
-  </div>
+
+    <span class="cta" id="otherExample">Voir d'autres exemples</span>
 </section>
 
-<section class="section-white newsletter">
-  <div class="container">
-    <div class="form__container">
-      {% include subscribe.html %}
-    </div>
-  </div>
+<section id="dashboard">
+    {% include dashboard.html phases=site.data.fr.phases %}
+
+    <a href="startups" class="primary success cta">Explorez nos {{ site.startup | size }} Startups d'État&nbsp;&nbsp;➤</a>
+</section>
+
+<section id="cycle">
+    <h2 class="ui divider horizontal">Phases d'une Startup d'État</h2>
+
+    <ol class="ui container">
+        <li>Un agent public ou une administration <strong>identifie un problème de politique publique</strong>.</li>
+        <li>L’équipe <strong>lance une solution</strong> le plus rapidement possible et la teste auprès de premiers usagers.</li>
+        <li>L’équipe reçoit de quoi <strong>déployer le service sans cesser de l’améliorer</strong>, pour en accroître l’impact.</li>
+        <li>La Startup d’État devient un service public numérique national <strong>disponible pour tous les usagers</strong>.</li>
+    </ol>
+
+    <a href="communaute" class="primary success cta">Une communauté de {{ site.authors | size }} personnes&nbsp;&nbsp;➤</a>
 </section>

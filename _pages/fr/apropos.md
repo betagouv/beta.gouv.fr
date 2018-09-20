@@ -11,9 +11,9 @@ ref: about
 
 ## Qui sommes-nous ?
 
-[beta.gouv.fr](https://beta.gouv.fr/) est le réseau des incubateurs de Startups d’État. Notre mission est d'améliorer le service public de l'intérieur en favorisant le passage à l'action d'agents publics.
+[beta.gouv.fr](https://beta.gouv.fr/) est le réseau des incubateurs de Startups d’État. Notre mission est d'améliorer le service public de l'intérieur en favorisant le passage à l'action d'agents publics. 
 
-Nous animons [une communauté en croissance](https://beta.gouv.fr/communaute/) qui construit les services publics numériques de demain [au sein d’incubateurs](https://beta.gouv.fr/incubateurs/).
+Nous animons [une communauté en croissance](https://beta.gouv.fr/communaute/) qui construit les services publics numériques de demain [au sein d’incubateurs](https://beta.gouv.fr/incubateurs/). 
 
 ## Historique
 
@@ -21,21 +21,21 @@ Depuis 2013 l’État met en œuvre une nouvelle politique d’innovation, perme
 
 ## Qu’est-ce qu’une Startup d'État ?
 
-Une Startup d'État est un service public numérique développé par une équipe autonome pour répondre à un problème lié à une politique publique, financée par une administration porteuse. Elle n’a pas pour objectif de faire du profit et n’a le plus souvent pas de personnalité juridique propre au moment de son lancement (même si elle peut devenir par la suite un service national au sein d’une administration ou au sein d'un [GIP](https://fr.wikipedia.org/wiki/Groupement_d%27int%C3%A9r%C3%AAt_public) autonome). Sa vocation est de maximiser son impact social en répondant aux besoins de ses utilisateurs.
+Une Startup d'État est un service public numérique développé par une équipe autonome pour répondre à un problème lié à une politique publique, financée par une administration porteuse. Elle n’a pas pour objectif de faire du profit et n’a le plus souvent pas de personnalité juridique propre au moment de son lancement (même si elle peut devenir par la suite un service national au sein d’une administration ou au sein d'un [GIP](https://fr.wikipedia.org/wiki/Groupement_d%27int%C3%A9r%C3%AAt_public) autonome). Sa vocation est de maximiser son impact social en répondant aux besoins de ses utilisateurs. 
 
 En particulier, beta.gouv.fr n'incube pas de startups privées.
 
-Le [portefeuille de beta.gouv.fr](https://beta.gouv.fr/startups/) compte des Startups d'État dans des domaines aussi divers que l’emploi, la formation, le travail, le handicap, les aides aux personnes et aux entreprises, l’éducation, la culture, la sécurité sociale, la défense, les transports ou la simplification des démarches administratives.
+Le [portefeuille de beta.gouv.fr](https://beta.gouv.fr/startups/) compte des Startups d'État dans des domaines aussi divers que l’emploi, la formation, le travail, le handicap, les aides aux personnes et aux entreprises, l’éducation, la culture, la sécurité sociale, la défense, les transports ou la simplification des démarches administratives. 
 
 ## Pourquoi lancer une Startup d'État ?
 
 Un responsable d’administration décide de créer une Startup d'État, soit pour répondre à un problème de politique publique prédéfini, soit en lançant un appel à innovateurs permettant d’identifier des agents publics au profil d’[intrapreneur](https://beta.gouv.fr/2017/02/16/intrapreneur-startup-d-etat.html). Une équipe est ensuite mise en place pour développer une solution en travaillant au plus près des usagers. Elle dispose d’un délai de six mois pour lancer une première version de sa solution et obtient des financements complémentaires si et seulement si elle fait la preuve de l’utilité de sa solution.
 
-## Comment est financée une Startup d'État ?
+## Comment est financée une Startup d'État ? 
 
-Les coûts de développement et de fonctionnement des Startups d'État restent entièrement à la charge des administrations qui les portent. L’administration partenaire finance les coûts de développement de la Startup d’État (au maximum 200 000 € pour les six premiers mois) et s’engage à refinancer le projet en cas de succès en doublant et en pérennisant la mise.
+Les coûts de développement et de fonctionnement des Startups d'État restent entièrement à la charge des administrations qui les portent. L’administration partenaire finance les coûts de développement de la Startup d’État (au maximum 200 000 € pour les six premiers mois) et s’engage à refinancer le projet en cas de succès en doublant et en pérennisant la mise. 
 
-La communauté beta.gouv.fr et, en particulier, l’incubateur de services numériques de la DINSIC accompagnent les acteurs désireux de créer des Startups d'État à toutes les étapes du processus : présentation de la méthode auprès des instances de direction, appui pour le lancement, formation et suivi des équipes, intégration au sein de l’administration...
+La communauté beta.gouv.fr et, en particulier, l’incubateur de services numériques de la DINSIC accompagnent les acteurs désireux de créer des Startups d'État à toutes les étapes du processus : présentation de la méthode auprès des instances de direction, appui pour le lancement, formation et suivi des équipes, intégration au sein de l’administration... 
 
 ## Résultats
 
@@ -45,13 +45,13 @@ Toutes les Startups d'État présentent publiquement des mesures d’impact auto
 
 * **_de simplifier la vie des entreprises_** en permettant à 200 000 d’entre elles (notamment des TPE-PME) d’économiser l’équivalent de 5 M€ par an en temps passé sur des formalités : [Marché Public Simplifié](https://mps.apientreprise.fr/).
 
-* **_de réduire les coûts administratifs_** dans plus de 20 organismes publics en diminuant le temps de traitement des dossiers de 50 % : [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/).
+* **_de réduire les coûts administratifs _** dans plus de 20 organismes publics en diminuant le temps de traitement des dossiers de 50 % : [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/).
 
 Elles exercent aussi un effet d’entraînement sur la modernisation des administrations. Au sein de Pôle Emploi, qui a noué dès 2015 un partenariat avec la DINSIC et investit aujourd’hui annuellement près de 6 M€ dans les Startups d'État, les équipes, composées à l’origine essentiellement de freelances, accueillent aujourd’hui des talents issus de la DSI ou des agences, permettant ainsi une diversification des carrières et une réaffectation des agents publics sur des missions à plus fort impact.
 
 ## Plus d’infos ?
 
-L’équipe de beta.gouv.fr peut être contactée directement à [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr).
+L’équipe de beta.gouv.fr peut être contactée directement à [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr). 
 
 ## Liens utiles
 

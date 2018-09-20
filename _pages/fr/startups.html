@@ -1,81 +1,77 @@
 ---
 title: Startups
 menu_index: 1
-additional_css:
-  - startups
-  - dashboard
+additional_css: startups
+additional_css: dashboard
 permalink: /startups/
 lang: fr
 ref: startups
 redirect_from:
   - /portefeuille
 ---
+
 {% assign death_counter = site.startup | where:'status', 'death' | size %}
 {% assign consolidation_counter = site.startup | where:'status', 'consolidation' | size %}
 {% assign endgame_counter = consolidation_counter | plus:death_counter %}
 
-<section id="startups" class="section-white">
-    <div class="container">
-        <h2 class="ui divider horizontal">Le portefeuille de Startup d'État</h2>
+<section id="startups" class="ui container">
+    <h2 class="ui divider horizontal">Le portefeuille de Startup d'État</h2>
+
+    <div class="ui segment">
         <p>
             Une Startup d'État est un service public sans personnalité juridique propre, constituée d’une petite équipe totalement autonome. <br />
             Elle est financée par une administration porteuse qui lui garantit un espace de liberté pour innover.<br />
             Elle naît de l’identification d’un problème rencontré par les citoyens comme par les agents publics, qu’elle se donne pour objectif de résoudre grâce à un service numérique.
         </p>
         <p><strong>{{ site.startup | size }}</strong> Startups d’État incubées dans <strong>{{ site.incubator | size }}</strong> incubateurs, <strong>{{ endgame_counter }}</strong> sorties d’incubation, dont <strong>{{ death_counter }}</strong> abandonnées*.</p>
-
-        <p class="muted">(*) Le produit est peut-être encore actif, mais l’équipe qui l’opère n’obéit plus au <a href="/incubateurs">manifeste</a>.</p>
     </div>
-</section>
 
-{% for phase in site.data.fr.phases.incubation %}
-    {% assign startups = site.startup | where:'status',phase[0] %}
-    <section id="{{ phase[0] }}" class="section-grey">
-        <div class="container">
+    <p class="muted">* Le produit est peut-être encore actif, mais l’équipe qui l’opère n’obéit plus au <a href="/incubateurs">manifeste</a></p>
+
+
+    {% for phase in site.data.fr.phases.incubation %}
+        {% assign startups = site.startup | where:'status',phase[0] %}
+        <section id="{{ phase[0] }}">
             <h2 class="ui divider horizontal">Nos Startups d'État en {{ phase[1].name }}</h2>
             {% capture phase_description %}phases/{{phase[0]}}.md{% endcapture %}
             {% capture phase_description %}{% include {{phase_description}} %}{% endcapture %}
             {{ phase_description | markdownify }}
 
-            <div class="grid">
+            <div class="ui three stackable doubling cards">
                 {% for startup in startups %}
                     {% include startup-card.html description=startup %}
                 {% endfor %}
             </div>
-        </div>
-    </section>
-{% endfor %}
+        </section>
+    {% endfor %}
 
-{% for phase in site.data.fr.phases.endgame %}
-    {% assign startups = site.startup | where:'status',phase[0] %}
-    <section id="{{ phase[0] }}" class="section-grey">
-        <div class="container">
+    {% for phase in site.data.fr.phases.endgame %}
+        {% assign startups = site.startup | where:'status',phase[0] %}
+        <section id="{{ phase[0] }}">
             <h2 class="ui divider horizontal">Nos Startups d'État {{ phase[1].name }}</h2>
             {% capture phase_description %}phases/{{phase[0]}}.md{% endcapture %}
             {% capture phase_description %}{% include {{phase_description}} %}{% endcapture %}
             {{ phase_description | markdownify }}
 
-            <div class="grid">
+            <div class="ui three stackable doubling cards">
                 {% for startup in startups %}
                     {% include startup-card.html description=startup %}
                 {% endfor %}
             </div>
-        </div>
-    </section>
-{% endfor %}
+        </section>
+    {% endfor %}
 
-{% assign startups = site.startup | where:'status', 'investigation' %}
-<section id="investigation" class="section-grey">
-    <div class="container">
+    {% assign startups = site.startup | where:'status', 'investigation' %}
+    <section id="investigation">
         <h2 class="ui divider horizontal">Nos Startups d'État {{ site.data.fr.phases.investigation.name }}</h2>
         {% capture phase_description %}phases/investigation.md{% endcapture %}
         {% capture phase_description %}{% include {{phase_description}} %}{% endcapture %}
         {{ phase_description | markdownify }}
 
-        <div class="grid">
+        <div class="ui three stackable doubling cards">
             {% for startup in startups %}
                 {% include startup-card.html description=startup %}
             {% endfor %}
         </div>
-    </div>
+    </section>
 </section>

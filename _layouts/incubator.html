@@ -1,37 +1,41 @@
 ---
 layout: default
 ---
-<div class="card">
-    <div class="card__content">
-      <h3>{{ page.title }}</h3>
-      <div class="card__meta">{{ page.owner }}</div>
-    </div>
-
-    <div class="content">
-        <div class="ui text container">
-            {{ content }}
+<div class="ui container padded">
+    <div class="ui fluid card">
+        <div class="content">
+            <div class="ui text container">
+                <h1>{{ page.title }}</h1>
+                <h2>{{ page.owner }}</h2>
+            </div>
         </div>
-    </div>
 
-    <div class="content">
-        <ul class="ui description text container">
-            <li>
-                Adresse : {{ page.address }}
-            </li>
-            {% if page.website %}
+        <div class="content">
+            <div class="ui text container">
+                {{ content }}
+            </div>
+        </div>
+
+        <div class="content">
+            <ul class="ui description text container">
                 <li>
-                    <a href="{{ page.website }}">Site web</a>
+                    Adresse : {{ page.address }}
                 </li>
-            {% endif %}
-            {% if page.github %}
+                {% if page.website %}
+                    <li>
+                        <a href="{{ page.website }}">Site web</a>
+                    </li>
+                {% endif %}
+                {% if page.github %}
+                    <li>
+                        <a href="{{ page.github }}">Compte GitHub</a>
+                    </li>
+                {% endif %}
                 <li>
-                    <a href="{{ page.github }}">Compte GitHub</a>
+                    <a href="{{ page.contact }}">Contacter cet incubateur</a>
                 </li>
-            {% endif %}
-            <li>
-                <a href="{{ page.contact }}">Contacter cet incubateur</a>
-            </li>
-        </ul>
+            </ul>
+        </div>
     </div>
     <h2 class="ui divider horizontal">Nos Startups</h2>
     <div class="ui stackable two cards">

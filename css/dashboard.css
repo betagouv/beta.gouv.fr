@@ -1,7 +1,6 @@
 .counter--incubation a {
     text-decoration: none;
     width: 100%;
-    color: inherit;
 }
 
 .counter--incubation, .counter--endgame {
@@ -20,7 +19,7 @@
     font-size: 80%;
     border-style: solid;
     border-width: 10px 0 10px 20px;
-    border-color: transparent transparent transparent #00234d;
+    border-color: transparent transparent transparent #013b48;
 }
 
 .counter, .counter a {
@@ -64,6 +63,6 @@
     .counter--endgame {
         flex-direction: row;
         border-width: 20px 10px 0 10px;
-        border-color: #00234d transparent transparent transparent;
+        border-color: #222 transparent transparent transparent;
     }
 }

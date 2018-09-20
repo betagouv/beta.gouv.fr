@@ -29,43 +29,38 @@ ref: community
     {% for person in members %}
         {% capture end_date_as_string %}{{ person.end }}{% endcapture %}
         {% if end_date_as_string == '' or end_date_as_string > build_date %}
-            {% include member.html description=person %}
+            {% include author.html description=person %}
             <!--{% increment members_count %}-->
         {% endif %}
     {% endfor %}
 {% endcapture %}
 
 
-<section id="effectifs" class="section-grey">
-    <div class="container">
-        <h2>Évolution des effectifs</h2>
-        <div id="chart-wrapper">
-            <canvas>
-                Nous avons actuellement {% increment members_count %} membres.
-            </canvas>
-        </div>
-        <p>À l'exception de quelques membres permanents qui assurent la passation de la connaissance, le lien avec l'administration hôte et la continuité de l'animation de la communauté, nos membres sont recrutés pour faire réussir <em>une</em> Startup d'État. Leur engagement est limité dans le temps. Cela évite à l'administration qui a lancé une Startup de la considérer comme un investissement impossible à abandonner, qui signerait la fin de son droit à l'échec et donc de sa capacité à innover.</p>
+<section id="effectifs" class="ui container">
+    <h2 class="ui divider horizontal">Évolution des effectifs</h2>
+    <div id="chart-wrapper">
+        <canvas>
+            Nous avons actuellement {% increment members_count %} membres.
+        </canvas>
     </div>
+    <p>À l'exception de quelques membres permanents qui assurent la passation de la connaissance, le lien avec l'administration hôte et la continuité de l'animation de la communauté, nos membres sont recrutés pour faire réussir <em>une</em> Startup d'État. Leur engagement est limité dans le temps. Cela évite à l'administration qui a lancé une Startup de la considérer comme un investissement impossible à abandonner, qui signerait la fin de son droit à l'échec et donc de sa capacité à innover.</p>
 </section>
 
-<div id="community" class="container">
-    <h2>La communauté des Startups d'État</h2>
+<section class="ui four stackable doubling cards container">
+    <h2 class="ui divider horizontal container">La communauté des Startups d'État</h2>
 
-    <div class="grid">
-        {% include member.html description=page.hire_card %}
+    {% include author.html description=page.hire_card %}
 
-        {{ current_members_cards }}
-    </div>
+    {{ current_members_cards }}
+
     <h2 id="alumni" class="ui divider horizontal container">Les ancien·ne·s</h2>
 
-    <div class="grid">
-        {% for person in members %}
-            {% capture end_date_as_string %}{{ person.end }}{% endcapture %}
-            {% if end_date_as_string != '' and end_date_as_string <= build_date %}
-                {% include member.html description=person %}
-            {% endif %}
-        {% endfor %}
-    </div>
+    {% for person in members %}
+        {% capture end_date_as_string %}{{ person.end }}{% endcapture %}
+        {% if end_date_as_string != '' and end_date_as_string <= build_date %}
+            {% include author.html description=person %}
+        {% endif %}
+    {% endfor %}
 </section>
 
 <script type="text/javascript">
