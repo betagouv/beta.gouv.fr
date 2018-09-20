@@ -37,7 +37,7 @@ ref: blog
         <a class="article__link" title="{{ post.title }}" href="{{ post.url }}"><h2 class="article__title">{{ post.title }}</h2></a>
 
         <div class="article__meta">
-          Paru le <time datetime="{{ post.date | date:'%Y-%m-%d' }}">{{ post.date | date: "%d/%m/%Y" }}</time>
+          Paru le <time>{{ post.date | date: "%d/%m/%Y" }}</time>
         </div>
 
         {% capture mastheadImagePath %}/img/{{ post.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}.jpg{% endcapture %}
