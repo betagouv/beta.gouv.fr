@@ -11,3 +11,6 @@ _site
 
 # Ruby
 .ruby-gemset
+
+# NPM
+node_modules
