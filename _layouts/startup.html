@@ -12,17 +12,17 @@ layout: default
 	    {{ site.data.fr.phases.investigation.name }}
     {% endif %}
 {% endcapture %}
-<div class="ui container padded">
-    <div class="ui fluid card">
-        <div class="header startup-header">
-            <h1>{{ page.title }}</h1>
-            <h2>{{ page.mission }}</h2>
-        </div>
-        <div class="image">
-            {% if page.link %}<a href="{{ page.link | strip }}" target="_blank" rel="noopener">{% endif %}
-                {% include screenshot.html startup=page %}
-            {% if page.link %}</a>{% endif %}
-        </div>
+<section class="section-grey">
+  <div class="container panel">
+    <div class="header startup-header">
+      <h1>{{ page.title }}</h1>
+      <h2>{{ page.mission }}</h2>
+    </div>
+    <div class="image">
+      {% if page.link %}<a href="{{ page.link | strip }}" target="_blank" rel="noopener">{% endif %}
+        {% include screenshot.html startup=page %}
+      {% if page.link %}</a>{% endif %}
+    </div>
 
         <div class="content">
             <p class="ui description text container">Le produit est <em>{{ status | strip }}</em>, il
@@ -61,63 +61,58 @@ layout: default
             </ul>
         </div>
 
-        {% assign startup_id = page.id | remove: '/startup/' %}
-        {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
-        {% if jobs[0] %}
-            <div class="content">
-                <div class ="ui text container">
-                    <h2>Postes ouverts</h2>
-                    <ul>
-                        {% for job in jobs %}
-                            <li>
-                                <a href="{{ job.url }}">
-                                    {{ page.title }} recrute {{ job.roles | downcase }}.
-                                </a>
-                            </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-            </div>
+  {% assign startup_id = page.id | remove: '/startup/' %}
+  {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
+  {% if jobs[0] %}
+    <div class="content">
+      <div class ="ui text container">
+        <h2>Postes ouverts</h2>
+        <ul>
+          {% for job in jobs %}
+            <li>
+              <a href="{{ job.url }}">
+                {{ page.title }} recrute {{ job.roles | downcase }}.
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  {% endif %}
+
+  <div class="content">
+    <div class="ui text container">
+      {{ content }}
+    </div>
+  </div>
+
+  <div class="grid">
+    {% for author in site.authors %}
+      {% for startup in author.startups %}
+
+        {% if startup.first %}
+          {% capture currentId %}/startup/{{ startup.first[0] }}{% endcapture %}
+          {% if startup.first[1] == "inactive" %}
+            {% assign isInactive = true %}
+          {% else %}
+            {% assign isInactive = false %}
+          {% endif %}
+        {% else %}
+          {% capture currentId %}/startup/{{ startup }}{% endcapture %}
+          {% assign isInactive = false %}
         {% endif %}
 
-        <div class="content">
-            <div class="ui text container">
-                {{ content }}
-            </div>
-        </div>
-
-        <div class="content">
-            <div class="ui text container">
-                <div class="ui stackable cards">
-                    {% for author in site.authors %}
-                        {% for startup in author.startups %}
-
-                            {% if startup.first %}
-                                {% capture currentId %}/startup/{{ startup.first[0] }}{% endcapture %}
-                                {% if startup.first[1] == "inactive" %}
-                                    {% assign isInactive = true %}
-                                {% else %}
-                                    {% assign isInactive = false %}
-                                {% endif %}
-                            {% else %}
-                                {% capture currentId %}/startup/{{ startup }}{% endcapture %}
-                                {% assign isInactive = false %}
-                            {% endif %}
-
-                            {% if currentId == page.id %} {% comment %} where query doesn't work on id {% endcomment %}
-                                {%if author.end %}
-                                    {% capture timestampNow %}{{'now' | date: '%s'}}{% endcapture %}
-                                    {% capture timestampEnd %}{{author.end | date: '%s'}}{% endcapture %}
-                                    {%if timestampNow > timestampEnd %}
-                                            {% assign isInactive = true %}
-                                    {% endif %}
-                                {% endif %}
-                                {% include author.html description=author size='small' isInactive=isInactive %}
-                            {% endif %}
-                        {% endfor %}
-                    {% endfor %}
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+        {% if currentId == page.id %} {% comment %} where query doesn't work on id {% endcomment %}
+            {%if author.end %}
+                {% capture timestampNow %}{{'now' | date: '%s'}}{% endcapture %}
+                {% capture timestampEnd %}{{author.end | date: '%s'}}{% endcapture %}
+                {%if timestampNow > timestampEnd %}
+                        {% assign isInactive = true %}
+                {% endif %}
+            {% endif %}
+            {% include author.html description=author size='small' isInactive=isInactive %}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+  </div>
+</section>

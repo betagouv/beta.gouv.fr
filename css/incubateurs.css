@@ -2,10 +2,6 @@
     height: 18em;
 }
 
-h3 {
-    font-weight: normal;
-}
-
 h3 em {
     font-style: normal;
     font-weight: bold;
@@ -15,4 +11,14 @@ h3 em {
     padding: 1.5em 3em;
     background-color: white;
     border-radius: 4px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2em;
+}
+
+.grid .card + .card {
+    margin-left: 0;
 }
