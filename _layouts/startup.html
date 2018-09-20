@@ -13,106 +13,107 @@ layout: default
     {% endif %}
 {% endcapture %}
 <section class="section-grey">
-  <div class="container panel">
-    <div class="header startup-header">
-      <h1>{{ page.title }}</h1>
-      <h2>{{ page.mission }}</h2>
-    </div>
-    <div class="image">
-      {% if page.link %}<a href="{{ page.link | strip }}" target="_blank" rel="noopener">{% endif %}
-        {% include screenshot.html startup=page %}
-      {% if page.link %}</a>{% endif %}
-    </div>
+    <div class="container panel">
+        <div class="header startup-header">
+            <h1>{{ page.title }}</h1>
+            <h2>{{ page.mission }}</h2>
+        </div>
+        <div class="image">
+            {% if page.link %}<a href="{{ page.link | strip }}" target="_blank" rel="noopener">{% endif %}
+                {% include screenshot.html startup=page %}
+            {% if page.link %}</a>{% endif %}
+        </div>
 
         <div class="content">
             <p class="ui description text container">Le produit est <em>{{ status | strip }}</em>, il
-                {% if page.link %}
-                    est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.
-                {% else %}
-                    <em>n'est pas encore accessible au public.</em>
-                {% endif %}
+            {% if page.link %}
+            est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.
+            {% else %}
+            <em>n'est pas encore accessible au public.</em>
+            {% endif %}
             </p>
             <ul class="ui description text container">
                 <li>Les statistiques d'usage
-                    {% if page.stats %}
-                        <a href="{{ page.link | strip }}/stats" title="Statistiques de {{ page.title }}">sont disponibles.</a>
-                    {% else %}
-                        <em>ne sont pas encore disponibles.</em>
-                    {% endif %}
+                {% if page.stats %}
+                    <a href="{{ page.link | strip }}/stats" title="Statistiques de {{ page.title }}">sont disponibles.</a>
+                {% else %}
+                    <em>ne sont pas encore disponibles.</em>
+                {% endif %}
                 </li>
                 <li>Le code source
-                    {% if page.repository %}
-                        <a href="{{ page.repository }}">est libre.</a>
-                    {% else %}
-                        <em>n'est pas encore ouvert.</em>
-                    {% endif %}
+                {% if page.repository %}
+                    <a href="{{ page.repository }}">est libre.</a>
+                {% else %}
+                    <em>n'est pas encore ouvert.</em>
+                {% endif %}
                 </li>
                 <li>Le porteur administratif est {{ page.owner }}.</li>
                 {% assign incubator_id = page.incubator | prepend: '/incubateur/' %}
                 {% assign incubator = site.incubator | where:'id',incubator_id | first %}
                 <li>L'incubateur est <a href="{{ incubator.url }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.</li>
                 <li>
-                    {% if page.contact %}
-                        <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
-                    {% else %}
-                        <em><a href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
-                    {% endif %}
+                {% if page.contact %}
+                    <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
+                {% else %}
+                    <em><a href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
+                {% endif %}
                 </li>
             </ul>
         </div>
 
-  {% assign startup_id = page.id | remove: '/startup/' %}
-  {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
-  {% if jobs[0] %}
-    <div class="content">
-      <div class ="ui text container">
-        <h2>Postes ouverts</h2>
-        <ul>
-          {% for job in jobs %}
-            <li>
-              <a href="{{ job.url }}">
-                {{ page.title }} recrute {{ job.roles | downcase }}.
-              </a>
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-  {% endif %}
-
-  <div class="content">
-    <div class="ui text container">
-      {{ content }}
-    </div>
-  </div>
-
-  <div class="grid">
-    {% for author in site.authors %}
-      {% for startup in author.startups %}
-
-        {% if startup.first %}
-          {% capture currentId %}/startup/{{ startup.first[0] }}{% endcapture %}
-          {% if startup.first[1] == "inactive" %}
-            {% assign isInactive = true %}
-          {% else %}
-            {% assign isInactive = false %}
-          {% endif %}
-        {% else %}
-          {% capture currentId %}/startup/{{ startup }}{% endcapture %}
-          {% assign isInactive = false %}
+        {% assign startup_id = page.id | remove: '/startup/' %}
+        {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
+        {% if jobs[0] %}
+        <div class="content">
+            <div class ="ui text container">
+                <h2>Postes ouverts</h2>
+                <ul>
+                {% for job in jobs %}
+                    <li>
+                        <a href="{{ job.url }}">
+                            {{ page.title }} recrute {{ job.roles | downcase }}.
+                        </a>
+                    </li>
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
         {% endif %}
 
-        {% if currentId == page.id %} {% comment %} where query doesn't work on id {% endcomment %}
-            {%if author.end %}
-                {% capture timestampNow %}{{'now' | date: '%s'}}{% endcapture %}
-                {% capture timestampEnd %}{{author.end | date: '%s'}}{% endcapture %}
-                {%if timestampNow > timestampEnd %}
-                        {% assign isInactive = true %}
-                {% endif %}
-            {% endif %}
-            {% include author.html description=author size='small' isInactive=isInactive %}
-            {% endif %}
-        {% endfor %}
-    {% endfor %}
-  </div>
+        <div class="content">
+            <div class="ui text container">
+                {{ content }}
+            </div>
+        </div>
+
+        <div class="grid">
+            {% for author in site.authors %}
+                {% for startup in author.startups %}
+
+                    {% if startup.first %}
+                        {% capture currentId %}/startup/{{ startup.first[0] }}{% endcapture %}
+                        {% if startup.first[1] == "inactive" %}
+                            {% assign isInactive = true %}
+                        {% else %}
+                            {% assign isInactive = false %}
+                        {% endif %}
+                    {% else %}
+                        {% capture currentId %}/startup/{{ startup }}{% endcapture %}
+                        {% assign isInactive = false %}
+                    {% endif %}
+
+                    {% if currentId == page.id %} {% comment %} where query doesn't work on id {% endcomment %}
+                        {%if author.end %}
+                            {% capture timestampNow %}{{'now' | date: '%s'}}{% endcapture %}
+                            {% capture timestampEnd %}{{author.end | date: '%s'}}{% endcapture %}
+                            {%if timestampNow > timestampEnd %}
+                                {% assign isInactive = true %}
+                            {% endif %}
+                        {% endif %}
+                        {% include author.html description=author size='small' isInactive=isInactive %}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
 </section>
