@@ -8,8 +8,7 @@ end: 2018-12-31
 employer: service/NUMA
 startups:
     - co-construisons
-    - aides-territoires
 github: roxanesch
 ---
 
-Fan d'utilité sociale et d'avocats
+Fan d'utilité sociale
