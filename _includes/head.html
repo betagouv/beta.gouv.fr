@@ -29,7 +29,7 @@
         {% endfor %}
     {% endif %}
 
-    {% if page.layout != 'default' %}
+    {% if page.layout != 'default' and page.layout != 'text' %}
         <link rel="stylesheet" type="text/css" href="/css/{{ page.layout }}.css">
     {% endif %}
 
