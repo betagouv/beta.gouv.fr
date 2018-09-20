@@ -5,5 +5,5 @@ start: 2018-03-01
 employer: admin/Ministère de l'Intérieur
 startups :
  
-avatar: 
+avatar: /img/_authors/frederic.gillodes.jpg
 ---
