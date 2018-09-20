@@ -10,17 +10,17 @@
 {% endif %}
 {% assign shortid = description.id | remove: '/incubateur/' %}
 
-<a href="{{description.id}}.html" class="ui fluid card">
-    <div class="content">
-        <div class="header">{{ description.title }}</div>
-        <div class="meta">
+<a href="{{description.id}}.html" class="card">
+    <div class="card__content">
+        <h3>{{ description.title }}</h3>
+        <div class="card__meta">
             {{ description.owner }}
         </div>
     </div>
-    <div class="extra content">
+    <div class="card__extra">
         {{ description.address }}
     </div>
-    <div class="extra content">
+    <div class="card__extra">
         <span>Plan d'accès:</span>
         <div class="map" id="map_{{shortid}}" data-address="{{ description.address }}"></div>
     </div>

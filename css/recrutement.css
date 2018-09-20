@@ -1,12 +1,19 @@
-.job-offers-list {
-  padding: 0;
-  margin: 0;
+.panel .content {
+  padding: 2em;
 }
 
-.job-offers-list:not(:first-child) {
-  margin-top: 60px;
+.panel .ad {
+  padding: 1em 2em;
 }
 
 .view-more {
     display: none;
+}
+
+.view-more.visible {
+    display: block;
+}
+
+.panel h3 {
+    margin-top: 0;
 }

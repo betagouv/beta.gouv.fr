@@ -1,0 +1,78 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+
+    <link type="application/atom+xml" rel="alternate" href="{{ site.url }}/feed.xml" title="{{ site.title }}">
+
+    {% capture description %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+    <meta name="description" content="{{ description }}">
+    <meta property="og:description" content="{{ description }}">
+
+    {% if page.collection == 'posts' %}
+        <meta property="og:type" content="article"> {% comment %} Defaults to `website`, which is fine. {% endcomment %}
+
+        {% capture iso_date %}{{ page.date | date:'%Y-%m-%d' }}{% endcapture %}
+        <meta property="date" content="{{ iso_date }}">
+        <meta property="article:published_time" content="{{ iso_date }}">
+
+        {% for author in page.authors %}
+            <meta property="article:author:username" content="{{ author }}">
+        {% endfor %}
+    {% endif %}
+
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/css/startup-card.css">
+    <link rel="stylesheet" type="text/css" href="/css/tooltip.css">
+
+    {% if page.layout != 'default' %}
+        <link rel="stylesheet" type="text/css" href="/css/{{ page.layout }}.css">
+    {% endif %}
+
+    {% for file in page.additional_css %}
+        <link rel="stylesheet" type="text/css"
+        href="{% if file contains '://' %}{{ file }}{% else %}/css/{{ file }}.css{% endif %}">
+    {% endfor %}
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/img/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/img/favicons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/img/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/img/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/img/favicons/manifest.json">
+    <link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg">
+    <link rel="shortcut icon" href="/img/favicons/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="beta.gouv.fr">
+    <meta name="application-name" content="beta.gouv.fr">
+    <meta name="msapplication-TileColor" content="#042075">
+    <meta name="msapplication-TileImage" content="/img/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/img/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#042075">
+
+    {% capture canonical_url %}{{ site.url }}{{ page.url | replace:'index.html','' }}{% endcapture %}
+    <link rel="canonical" href="{{ canonical_url }}">
+    <meta property="og:url" content="{{ canonical_url }}">
+
+
+    {% capture mastheadImagePath %}/img/{{ page.path | replace: '_pages', 'pages' | replace: '_posts', 'posts' | replace: '_startup', 'startup' | remove: '/fr' | remove: '/en' | remove: '.html' | remove: '.md' }}.jpg{% endcapture %}
+    <meta name="thumbnail" content="{{ site.url }}{{ mastheadImagePath }}">
+    <meta property="og:image" content="{{ site.url }}{{ mastheadImagePath }}">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site:id" content="{{ twitter_id }}">
+
+    <!--[if lt IE 9]>
+        <script src="js/lib/html5shiv.min.js"></script>
+    <![endif]-->
+</head>

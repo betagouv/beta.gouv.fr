@@ -1,6 +1,28 @@
+#community {
+  margin-bottom: 2em;
+}
+
 #chart-wrapper {
     position: relative;
     height: 60vh;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  grid-gap: 2em;
+}
+
+.grid .card + .card {
+    margin-left: 0;
+}
+
+.card .card__content {
+  padding: 1em;
+}
+
+a.content {
+  text-decoration: none;
 }
 
 #alumni {

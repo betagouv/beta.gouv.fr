@@ -17,7 +17,6 @@ p {
     background: #fff;
     box-shadow: 0 1px 2px 0 rgba(34,36,38,.15);
     margin: 1rem 0;
-    padding: 1em;
     border-radius: .28571429rem;
     border: 1px solid rgba(34,36,38,.15);
     position: relative;
@@ -98,4 +97,8 @@ a.blog-title-link {
     .thumbnail {
         height: 100px;
     }
+}
+
+.article__container {
+    max-width: 35em;
 }

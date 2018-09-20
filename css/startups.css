@@ -11,3 +11,20 @@ i {
     text-align: center;
     padding-bottom: 1em;
 }
+
+.startup-grid .card p.description {
+  color: #1c1c1c;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 30px;
+  margin-top: 25px;
+  justify-items: center;
+  justify-content: space-evenly;
+}
+
+.grid .card + .card {
+    margin-left: 0;
+}

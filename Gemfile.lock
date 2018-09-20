@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/thimy/template-jekyll.git
+  revision: a4e431bc7f6b331f88834eb2f8683dacf208217b
+  specs:
+    jekyll-theme-gouvfr (0.0.2)
+      jekyll (~> 3.7)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -266,6 +273,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
+  jekyll-theme-gouvfr!
   jsonlint
   kwalify
   opengraph_parser
@@ -275,4 +283,4 @@ RUBY VERSION
    ruby 2.5.1p57
 
 BUNDLED WITH
-   1.16.3
+   1.16.5
