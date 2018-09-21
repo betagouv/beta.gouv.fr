@@ -9,7 +9,7 @@ Six mois après le lancement officiel de [demarches-simplifiees.fr](https://www.
 
 ## Changer de posture : le support permet aussi de recueillir des retours utilisateurs
 
-Chaque mail ou appel qui arrive au support peut être vu comme un retour utilisateur en lui-même. Au delà du simple fait de répondre à la question de l’usager, nous avons tenté d’adopter une posture proactive sur le support. Si l’usager n’a pas trouvé l’information, s’il s’est perdu sur le site, s’il n’a pas cliqué au bon endroit, c’est qu’il y a très probablement un problème quelque part en amont, qu’il faut identifier et résoudre. Faire du support implique donc non seulement de répondre aux questions des usagers, mais aussi d’investiguer pour comprendre les causes des problèmes rencontrés, puis de mettre en place des solutions pour éviter qu’ils ne se reproduisent. 
+Chaque mail ou appel qui arrive au support peut être vu comme un retour utilisateur en lui-même. Au delà du simple fait de répondre à la question de l’usager, nous avons tenté d’adopter une posture proactive sur le support. Si l’usager n’a pas trouvé l’information, s’il s’est perdu sur le site, s’il n’a pas cliqué au bon endroit, c’est qu’il y a très probablement un problème quelque part en amont, qu’il faut identifier et résoudre. Faire du support implique donc non seulement de répondre aux questions des usagers, mais aussi d’investiguer pour comprendre les causes des problèmes rencontrés, puis de mettre en place des solutions pour éviter qu’ils ne se reproduisent.
 
 ## Garder le lien de toute l’équipe avec les utilisateurs ou concentrer la douleur ?
 
@@ -25,17 +25,15 @@ Lorsque nous recevons les usagers au téléphone, nous nous rendons parfois comp
 
 ## Des outils pour faire face à un gros volume de support
 
-Pour répondre au mieux et au plus vite à chacune des questions de nos usagers, nous utilisons deux outils au quotidien, qui pourront éventuellement être utiles à d’autres startups ayant un gros volume de support : 
+Pour répondre au mieux et au plus vite à chacune des questions de nos usagers, nous utilisons deux outils au quotidien, qui pourront éventuellement être utiles à d’autres startups ayant un gros volume de support :
 - [Helpscout](https://www.helpscout.net) : tous les mails adressés à l’adresse “contact@demarches-simplifiees.fr” arrivent sur cette sorte de boîte mail commune. Nous pouvons ensuite nous les répartir dans l’équipe, ajouter des tags, mettre des commentaires, consulter l’avis d’une autre personne de l’équipe et pré-formater des réponses aux questions récurrentes.
 - [Ringover](https://www.ringover.com) : tous les appels des usagers arrivent sur cette application que nous avons chacun installé sur notre téléphone. Nous avions auparavant “Aircall”, nous l’avons abandonné, suite aux nombreux bugs rencontrés.
-
-![ringover](/img/posts/ringover.png)
 
 ## Quelques bonnes pratiques
 
 ### Faire suivre
 
-Pour les questions qui ne nous concernent pas, nous avons constaté que le fait de faire suivre la demande de l’usager peut parfois lui faire gagner plusieurs mois. Au lieu de répondre “vous vous adressez malheureusement au mauvais interlocuteur, contactez la DREAL de la région PACA”, transférer directement le mail de l’usager au bon interlocuteur (lorsqu’il est connu) permet parfois d’éviter à l’usager de passer par le standard de la DREAL PACA, puis d'essayer tant bien que mal de remonter au bon interlocuteur du bon service, de la bonne administration. 
+Pour les questions qui ne nous concernent pas, nous avons constaté que le fait de faire suivre la demande de l’usager peut parfois lui faire gagner plusieurs mois. Au lieu de répondre “vous vous adressez malheureusement au mauvais interlocuteur, contactez la DREAL de la région PACA”, transférer directement le mail de l’usager au bon interlocuteur (lorsqu’il est connu) permet parfois d’éviter à l’usager de passer par le standard de la DREAL PACA, puis d'essayer tant bien que mal de remonter au bon interlocuteur du bon service, de la bonne administration.
 
 ### Taguer les mails
 
@@ -48,8 +46,8 @@ Parfois nous apportons une solution à l'usager par téléphone, puis nous nous 
 ### Répondre par mail ou rappeler l’usager par téléphone ?
 
 Lorsque nous sommes confrontés à des volumes importants de questions, les réponses par mails peuvent s’imposer pour gagner du temps. Rappeler l’usager par téléphone peut cependant être utile dans certains cas, nous proposons ici 2 éléments pour identifier les situations dans lesquelles cela peut être pertinent :
-- Appeler pour éviter 5 échanges de mail : au téléphone, il est possible d’accompagner l’usager pas à pas, de lui demander de décrire son écran, de réorienter directement l’usager s’il n’est pas sur la bonne page, etc. Si l’on ne peut faire cela pour tous les usagers, cela peut être pertinent pour les quelques usagers en grandes difficultés, et pour qui ce sera plus rapide d’appeler que de faire 5 échanges de mail. 
+- Appeler pour éviter 5 échanges de mail : au téléphone, il est possible d’accompagner l’usager pas à pas, de lui demander de décrire son écran, de réorienter directement l’usager s’il n’est pas sur la bonne page, etc. Si l’on ne peut faire cela pour tous les usagers, cela peut être pertinent pour les quelques usagers en grandes difficultés, et pour qui ce sera plus rapide d’appeler que de faire 5 échanges de mail.
 - Appeler pour investiguer : lorsqu’un problème semble récurrent, appeler l’usager peut permettre, en plus de résoudre la situation, d'investiguer sur les causes possibles et donc de retrouver la source du problème plus rapidement.
 
 
-Pour [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr), cette analyse sur le support nous a permis de soulever un certain nombre de questions importantes pour le futur à moyen terme de notre produit. Si l'un des leitmotiv de beta.gouv.fr est de "considérer les besoins des usagers avant ceux de l’administration", le support est bien l'un des moyens pour se confronter au terrain. 
+Pour [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr), cette analyse sur le support nous a permis de soulever un certain nombre de questions importantes pour le futur à moyen terme de notre produit. Si l'un des leitmotiv de beta.gouv.fr est de "considérer les besoins des usagers avant ceux de l’administration", le support est bien l'un des moyens pour se confronter au terrain.
