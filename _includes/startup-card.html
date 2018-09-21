@@ -9,8 +9,18 @@
     {% endfor %}
 {% endif %}
 
+{% assign startup_id = description.id | remove: '/startup/' %}
+{% assign screenshot_files = site.static_files | where_exp:"item", "item.path contains '/startup'" %}
+{% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
+
+{% if screenshot_file %}
+    {% assign screenshot_path = screenshot_file.path %}
+{% else %}
+    {% assign screenshot_path = false %}
+{% endif %}
+
 <a class="card" href="{{ description.url }}">
-  {% if description %}
+  {% if screenshot_path %}
     <div class="card__cover">
       {% include screenshot.html startup=description %}
     </div>
