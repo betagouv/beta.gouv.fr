@@ -74,12 +74,12 @@ Les micro-simulateurs comme [OpenFisca](https://fr.openfisca.org) dont la préci
 ## Comment les réformes affectent les foyers : un exercice de communication politique
 
 En parallèle des scénarios de réforme, nous avons créé un jeu de situations familiales pour lesquelles l'impact de ces réformes allait être évalué. Cela permet de tester les réformes sur des cas concrets et voir comment des changements dans la loi affectent les foyers.
-Ces situations (célibataire avec enfant/sans enfants, sénior touchant une retraite…) étaient issues des situations du [livret du pouvoir d'achat du Ministère du Budget](https://www.economie.gouv.fr/files/files/PLF2018/bro-pouvoir-achat-bat-web-10h.pdf) et rejointes par des situations de personnes aux revenus plus fluctuants. 
+Ces situations (célibataire avec enfant/sans enfants, sénior touchant une retraite…) étaient issues des situations du [livret du pouvoir d'achat du Ministère du Budget](https://www.economie.gouv.fr/files/files/PLF2018/bro-pouvoir-achat-bat-web-10h.pdf) et étendues par des situations de personnes aux revenus plus fluctuants. 
 
 Et, nous nous sommes finalement concentrés sur une réforme qui considère les revenus des 12 derniers mois comme base de ressources. Cela nous a en particulier permis de générer les graphiques suivants :
 
 ![Graphes de comparaison de différentes bases ressources par cas types](/img/posts/2018-09-21_openfisca_comparaison_bases_ressources.png)  
-**Comparaison de différentes bases ressources par cas types.**
+**Comparaison par cas type de différentes bases ressources pour l'aide au logement.**
 
 > Où :  
 `Base` est le mode de calcul actuel des aides au logement sur les revenus N-2 récupérés auprès des impôts.  
@@ -104,7 +104,7 @@ La création de ces graphiques a été chronophage, car nous n’avions pas pré
 
 Il y avait un enjeu politique fort dans nos travaux. Nous savions que le délégué n'aurait pas pu annexer nos travaux au rapport du groupe de travail s’il était dit des choses trop loin de la vision du gouvernement. Le fait que 100% des acteurs présents étaient de l'administration (CAF) a donné une caution à nos travaux.
 
-Notre apprentissage principal est qu’[OpenFisca](https://fr.openfisca.org) permet d’ouvrir un espace de dialogue entre les experts de la loi en outillant le calcul et en le rendant plus aisément communicable à d'autres personnes. Le calculateur [OpenFisca](https://fr.openfisca.org) peut objectiver les échanges autour de la rédaction des réformes autour de cas concrets et améliorer la communication autour des réformes sans en enlever la complexité.
+Notre apprentissage principal est qu’[OpenFisca](https://fr.openfisca.org) permet d’ouvrir un espace de dialogue entre les experts de la loi en outillant le calcul et en le rendant plus aisément communicable à d'autres personnes. À la rédaction des réformes, le calculateur a permis d'objectiver les échanges autour de cas concrets. Il a permis d'améliorer la communication sur les réformes mêmes sans en enlever la complexité.
 
 ## Si nous refaisions l'exercice, qu'est ce que nous ferions différemment ?
 
