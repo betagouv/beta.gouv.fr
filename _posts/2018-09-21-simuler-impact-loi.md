@@ -12,33 +12,34 @@ Vos revenus actuels décideront-ils de vos aides sociales dans deux ans ?
 
 Le Groupe de Travail (GT) [Accès aux droits et aux services, lutte contre le non-recours](https://fncp-france.fr/wp-content/uploads/2018/03/rapp-4.pdf) s’applique à proposer des solutions pour permettre à tou.te.s, et surtout aux plus vulnérables, de connaître les moyens d'accompagnement mis à leur disposition.
 
-Dans le cadre de ce GT de la [Délégation interministérielle à la prévention et à la lutte contre la pauvreté des enfants et des jeunes](https://twitter.com/delegpauvrete), nous avons proposé d’utiliser [OpenFisca](https://fr.openfisca.org) en atelier pour étudier comment le prélèvement à la source de l’impôt pourrait impacter les foyers recevant des aides telles que le [RSA](https://fr.openfisca.org/legislation/rsa), la [PPA](https://fr.openfisca.org/legislation/ppa) et les aides au logement.
+Dans le cadre de ce GT, nous avons proposé d’utiliser le logiciel [OpenFisca](https://fr.openfisca.org) en atelier avec pour hypothèse que pour simplifier l'accès au droit, il fallait chercher à réduire la complexité des règles de calcul des prestations sociales. 
 
 <!--more-->
 
-Ces ateliers ont réuni des experts du calcul des prestations sociales et les équipes d'[Openfisca](https://fr.openfisca.org) et de [Mes Aides](https://mes-aides.gouv.fr).
+Ce GT était porté par la [Délégation interministérielle à la prévention et à la lutte contre la pauvreté des enfants et des jeunes](https://twitter.com/delegpauvrete) et il a été l'opportunité de réunir des experts du calcul des prestations sociales, les équipes du simulateur [Mes Aides](https://mes-aides.gouv.fr) et du moteur de calcul [OpenFisca](https://fr.openfisca.org).
 
-[Mes Aides](https://mes-aides.gouv.fr) se base sur [OpenFisca-France](https://fr.openfisca.org), un modèle informatique du système socio-fiscal, capable de simuler, non seulement la législation actuelle, mais aussi l‘impact de réformes sur des individus ou des foyers.
+[Mes Aides](https://mes-aides.gouv.fr) se base lui-même sur [OpenFisca-France](https://fr.openfisca.org) : un modèle informatique du système socio-fiscal, capable de simuler, non seulement la législation actuelle, mais aussi l‘impact de réformes sur des individus ou des foyers.
 
-Au cours de ces ateliers, notre hypothèse de départ était qu’on ne pouvait pas simplifier l'accès au droit à cause de la complexité des règles de calcul des prestations sociales.
+Nous démarrons donc ces ateliers avec pour hypothèse de départ qu’on ne pouvait pas simplifier l'accès au droit sans traiter de la complexité des règles de calcul des prestations sociales. Celles-ci par exemple, se basent sur des revenus calculés sur des intervalles de temps différents. Nous avons alors pris le parti d'étudier comment le prélèvement à la source de l’impôt pourrait impacter cela. En particulier, en étudiant quel effet cela pourrait avoir sur des foyers recevant des aides telles que le [RSA](https://fr.openfisca.org/legislation/rsa), la [PPA](https://fr.openfisca.org/legislation/ppa) et les aides au logement.
+
 
 On part d'une question qui peut paraître simple : comment évalue-t-on combien gagne une famille lorsque l’on calcule son éligibilité à une prestation sociale ?
 
-Aujourd’hui, ces règles prévoient une dizaine de méthodes de calcul des revenus d’un foyer. Certaines prennent en compte les revenus des 3 derniers mois, d’autres se basent sur le revenu fiscal de référence, calculé sur les revenus N-2 (année - 2). Avec le passage au prélèvement à la source de l'impôt sur le revenu, le calcul des prestations sociales pourrait utiliser une donnée plus proche de la situation actuelle des personnes.
+Aujourd’hui, ces règles prévoient une dizaine de méthodes de calcul des revenus d’un foyer. Certaines prennent en compte les revenus des 3 derniers mois, d’autres se basent sur le revenu fiscal de référence, calculé sur les revenus N-2 (année - 2). Or, avec le passage au prélèvement à la source de l'impôt sur le revenu, le calcul des prestations sociales pourrait utiliser une donnée plus proche de la situation actuelle des personnes.
 
-Notre hypothèse était qu’en collant plus aux situations des personnesn les aides s’appliqueraient au plus près de leur besoin et cela simplifierait la compréhension de la façon dont elles sont calculées.
+Notre hypothèse était qu’en collant plus aux situations des personnes les aides s’appliqueraient au plus près de leur besoin et cela simplifierait la compréhension de la façon dont elles sont calculées.
 
-Nous voulions savoir :
+Nous voulions ainsi savoir :
 * dans quelle mesure nous pouvions utiliser [OpenFisca](https://fr.openfisca.org) pour accompagner la conception d’une réforme.
 * quelle était l'expérience des utilisateurs d'[OpenFisca](https://fr.openfisca.org) qui voulaient simuler l'impact d'une reforme.
 
-Notre intention était de simuler concrètement une simplification des bases de calcul des prestations sociales, et de définir son l'impact sur différents types de ménages. Et nous nous sommes lancé dans l'exercice sans vision claire ni du résultat attendu ni du chemin pour y arriver.
+Notre intention était de simuler concrètement une simplification des bases de calcul des prestations sociales, et de définir son impact sur différents types de ménages. Et nous nous sommes lancé dans l'exercice sans vision claire ni du résultat attendu ni du chemin pour y arriver.
 
 ## La rencontre des experts de la loi et des experts du code
 
-L'objectif initial était de définir quels types de réformes tester et sur quelles typologies de foyers, simuler et évaluer leurs impacts. Nous avons commencé par définir 7 scenarios de réformes avec les experts métiers.
+L'objectif devenait alors de définir quels types de réformes tester et sur quelles typologies de foyers, simuler et évaluer leurs impacts. 
 
-Nous avons lancé cette initiative sans filet. En nous laissant la possibilité d’adapter notre travail à ce que nous allions découvrir au fur et à mesure, nous avons appris comment faire dialoguer ces deux domaines, la maïeutique pour partir d'une idée et aller à une réforme.
+Nous avons commencé par définir 7 scenarios de réformes avec les experts métiers. Nous avons lancé cette initiative sans filet, en nous laissant la possibilité d’adapter notre travail à ce que nous allions découvrir au fur et à mesure. Ceci nous a appris comment faire dialoguer ces deux domaines que sont l'expertise de la loi et le développeent informatique : la maïeutique pour partir d'une idée et aller à une réforme.
 
 En bref : temps réduit, environnements techniques très variables, compétences diversifiées. Nous nous sommes vite rendu compte que pour accompagner au mieux les travaux du GT, nous devions en priorité créer des outils de communication et de visualisation. Pour nous permettre de faire cela, nous avons réduit au fur et à mesure le périmètre des réformes pour retenir 2 scenarios.
 
