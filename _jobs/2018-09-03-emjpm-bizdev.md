@@ -40,6 +40,5 @@ Des déplacements en France sont à prévoir.
 * tu aimes travailler dans une (toute) petite équipe et de manière agile
 * tu sais faire preuve d'initiative et que tu tiens tes engagements
 * tu souhaites acquérir de nouvelles compétences
-* tu es diplômé d'une (grande) école de commerce avec 1 an d'expérience
 
 Interessé·e par la mission ? Ecris-nous à l'adresse contact@emjpm.beta.gouv.fr !
