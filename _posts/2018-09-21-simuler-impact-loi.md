@@ -6,26 +6,30 @@ authors:
   - hela.ghariani
 ---
 
-Vos revenus actuels décideront-ils de vos aides sociales dans deux ans ?
+Vos revenus actuels décideront-ils de vos aides sociales dans deux ans ?  
+Ou, est-il possible de simuler l'impact d'une loi pour que les prestations sociales interviennent au moment où vous en avez besoin ?
 
 ## Contexte
 
 Le Groupe de Travail (GT) [Accès aux droits et aux services, lutte contre le non-recours](https://fncp-france.fr/wp-content/uploads/2018/03/rapp-4.pdf) s’applique à proposer des solutions pour permettre à tou.te.s, et surtout aux plus vulnérables, de connaître les moyens d'accompagnement mis à leur disposition.
 
-Dans le cadre de ce GT, nous avons proposé d’utiliser le logiciel [OpenFisca](https://fr.openfisca.org) en atelier avec pour hypothèse que pour simplifier l'accès au droit, il fallait chercher à réduire la complexité des règles de calcul des prestations sociales. 
+Dans ce cadre, il a été proposé d’utiliser le logiciel [OpenFisca](https://fr.openfisca.org) en atelier avec une hypothèse : simplifier l'accès au droit passerait par la réduction de la complexité des règles de calcul des prestations sociales. 
 
 <!--more-->
 
-Ce GT était porté par la [Délégation interministérielle à la prévention et à la lutte contre la pauvreté des enfants et des jeunes](https://twitter.com/delegpauvrete) et il a été l'opportunité de réunir des experts du calcul des prestations sociales, les équipes du simulateur [Mes Aides](https://mes-aides.gouv.fr) et du moteur de calcul [OpenFisca](https://fr.openfisca.org).
+Porté par la [Délégation interministérielle à la prévention et à la lutte contre la pauvreté des enfants et des jeunes](https://twitter.com/delegpauvrete) ce GT a été l'opportunité de réunir des experts des prestations sociales, les équipes du simulateur [Mes Aides](https://mes-aides.gouv.fr) et du moteur de calcul [OpenFisca](https://fr.openfisca.org).
 
-[Mes Aides](https://mes-aides.gouv.fr) se base lui-même sur [OpenFisca-France](https://fr.openfisca.org) : un modèle informatique du système socio-fiscal, capable de simuler, non seulement la législation actuelle, mais aussi l‘impact de réformes sur des individus ou des foyers.
+> [OpenFisca](https://fr.openfisca.org) est un modèle informatique du système socio-fiscal qui permet de simuler, non seulement la législation actuelle, mais aussi l‘impact de réformes en discussion au Parlement sur des individus ou des foyers.
 
-Nous démarrons donc ces ateliers avec pour hypothèse de départ qu’on ne pouvait pas simplifier l'accès au droit sans traiter de la complexité des règles de calcul des prestations sociales. Celles-ci par exemple, se basent sur des revenus calculés sur des intervalles de temps différents. Nous avons alors pris le parti d'étudier comment le prélèvement à la source de l’impôt pourrait impacter cela. En particulier, en étudiant quel effet cela pourrait avoir sur des foyers recevant des aides telles que le [RSA](https://fr.openfisca.org/legislation/rsa), la [PPA](https://fr.openfisca.org/legislation/ppa) et les aides au logement.
+> [Mes Aides](https://mes-aides.gouv.fr) se base lui-même sur [OpenFisca-France](https://fr.openfisca.org) pour la simulation du droit aux prestations sociales des particuliers et de ceux qui les accompagnent.
 
+Nous démarrons donc ces ateliers avec l'idée de simuler une simplification des règles de calcul des prestations sociales. 
 
-On part d'une question qui peut paraître simple : comment évalue-t-on combien gagne une famille lorsque l’on calcule son éligibilité à une prestation sociale ?
+Les prestations dépendant pour beaucoup des revenus, la première question qui se pose peut paraître simple : comment évalue-t-on combien gagne une famille lorsque l’on calcule son éligibilité à une prestation sociale ?
 
-Aujourd’hui, ces règles prévoient une dizaine de méthodes de calcul des revenus d’un foyer. Certaines prennent en compte les revenus des 3 derniers mois, d’autres se basent sur le revenu fiscal de référence, calculé sur les revenus N-2 (année - 2). Or, avec le passage au prélèvement à la source de l'impôt sur le revenu, le calcul des prestations sociales pourrait utiliser une donnée plus proche de la situation actuelle des personnes.
+Aujourd’hui, il y a une dizaine de méthodes de calcul des revenus d’un foyer. Ceux-ci peuvent être calculés sur des périodes de temps différentes. Certaines prestations sociales prennent en compte les revenus des 3 derniers mois, d’autres se basent sur le revenu fiscal de référence, calculé sur les revenus N-2 (année - 2). Or, avec le passage au prélèvement à la source de l'impôt sur le revenu, le calcul des prestations sociales pourrait se rapprocher de la situation actuelle des personnes.
+
+Nous avons alors pris le parti d'étudier cela sur des foyers recevant le [RSA](https://fr.openfisca.org/legislation/rsa), la [PPA](https://fr.openfisca.org/legislation/ppa) et les aides au logement.
 
 Notre hypothèse était qu’en collant plus aux situations des personnes les aides s’appliqueraient au plus près de leur besoin et cela simplifierait la compréhension de la façon dont elles sont calculées.
 
