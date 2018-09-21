@@ -10,13 +10,13 @@ Vos revenus actuels décideront-ils de vos aides sociales dans deux ans ?
 
 ## Contexte
 
-Le Groupe de Travail (GT) [Accès aux droits et aux services, lutte contre le non-recours](https://fncp-france.fr/wp-content/uploads/2018/03/rapp-4.pdf) de la [Délégation interministérielle à la prévention et à la lutte contre la pauvreté des enfants et des jeunes](https://twitter.com/delegpauvrete) s’applique à proposer des solutions pour permettre à toutes et à tous, et surtout aux plus vulnérables, de connaître les moyens mis à leur disposition pour les accompagner.
+Le Groupe de Travail (GT) [Accès aux droits et aux services, lutte contre le non-recours](https://fncp-france.fr/wp-content/uploads/2018/03/rapp-4.pdf) s’applique à proposer des solutions pour permettre à tou.te.s, et surtout aux plus vulnérables, de connaître les moyens d'accompagnement mis à leur disposition.
 
-Dans le cadre de ce GT, nous avons proposé d’utiliser [OpenFisca](https://fr.openfisca.org) en atelier pour étudier comment le prélèvement à la source de l’impôt pourrait impacter les foyers recevant des aides telles que le [RSA](https://fr.openfisca.org/legislation/rsa), la [PPA](https://fr.openfisca.org/legislation/ppa) et les aides au logement.
+Dans le cadre de ce GT de la [Délégation interministérielle à la prévention et à la lutte contre la pauvreté des enfants et des jeunes](https://twitter.com/delegpauvrete), nous avons proposé d’utiliser [OpenFisca](https://fr.openfisca.org) en atelier pour étudier comment le prélèvement à la source de l’impôt pourrait impacter les foyers recevant des aides telles que le [RSA](https://fr.openfisca.org/legislation/rsa), la [PPA](https://fr.openfisca.org/legislation/ppa) et les aides au logement.
 
 <!--more-->
 
-Ces ateliers ont réuni des experts du calcul des prestations sociales et les équipes d'[Openfisca ](https://fr.openfisca.org) et de [Mes Aides](https://mes-aides.gouv.fr).
+Ces ateliers ont réuni des experts du calcul des prestations sociales et les équipes d'[Openfisca](https://fr.openfisca.org) et de [Mes Aides](https://mes-aides.gouv.fr).
 
 [Mes Aides](https://mes-aides.gouv.fr) se base sur [OpenFisca-France](https://fr.openfisca.org), un modèle informatique du système socio-fiscal, capable de simuler, non seulement la législation actuelle, mais aussi l‘impact de réformes sur des individus ou des foyers.
 
@@ -115,8 +115,8 @@ La mise à disposition de cas types et d’exemples de visualisation permet de d
 
 ## Pour aller plus loin
 
-[Rapport final](https://www.caissedesdepotsdesterritoires.fr/cs/BlobServer?blobkey=id&blobnocache=true&blobwhere=1250171076233&blobheader=application%2Fpdf&blobcol=urldata&blobtable=MungoBlobs)
-[Code source des travaux](https://github.com/openfisca/tutorial/tree/dea8d8fe13e7708af36d7ebfc3496dfb02485ad4/exemples/gt_non_recours)
-[Code source OpenFisca-France](https://github.com/openfisca/openfisca-france)
-[Explorateur de la législation française](https://fr.openfisca.org/legislation)
-[Documentation officielle OpenFisca](https://openfisca.org/doc/)
+* [Rapport final](https://www.caissedesdepotsdesterritoires.fr/cs/BlobServer?blobkey=id&blobnocache=true&blobwhere=1250171076233&blobheader=application%2Fpdf&blobcol=urldata&blobtable=MungoBlobs)
+* [Code source des travaux](https://github.com/openfisca/tutorial/tree/dea8d8fe13e7708af36d7ebfc3496dfb02485ad4/exemples/gt_non_recours)
+* [Code source OpenFisca-France](https://github.com/openfisca/openfisca-france)
+* [Explorateur de la législation française](https://fr.openfisca.org/legislation)
+* [Documentation officielle OpenFisca](https://openfisca.org/doc/)
