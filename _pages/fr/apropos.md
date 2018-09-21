@@ -6,6 +6,7 @@ additional_css:
 - blog
 lang: fr
 ref: about
+layout: text
 ---
 
 ## Qui sommes-nous ?
