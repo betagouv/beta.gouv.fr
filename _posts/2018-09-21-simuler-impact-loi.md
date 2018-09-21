@@ -74,8 +74,8 @@ Ces situations (célibataire avec enfant/sans enfants, sénior touchant une retr
 
 Et, nous nous sommes finalement concentrés sur une réforme qui considère les revenus des 12 derniers mois comme base de ressources. Cela nous a permis de générer les graphes suivants :
 
-![Graphes de comparaison de différentes bases ressources par cas types](/img/posts/2018-09-21_openfisca_comparaison_bases_ressources.png)
-*Comparaison de différentes bases ressources par cas types.*
+![Graphes de comparaison de différentes bases ressources par cas types](/img/posts/2018-09-21_openfisca_comparaison_bases_ressources.png)  
+**Comparaison de différentes bases ressources par cas types.**
 
 > Où :  
 `Base` est le mode de calcul actuel des aides au logement sur les revenus N-2 récupérés auprès des impôts.  
@@ -84,14 +84,14 @@ Et, nous nous sommes finalement concentrés sur une réforme qui considère les 
 `AL_MM12` correspond au calcul des aides au logement basé sur les revenus d’activité des 12 derniers mois.  
 
 
-![Graphes des modes de calcul des aides au logement selon la période des revenus d’activité](/img/posts/2018-09-21_openfisca_3_modes.png)
-*3 modes de calcul des aides au logement selon la période des revenus d’activité.*
+![Graphes des modes de calcul des aides au logement selon la période des revenus d’activité](/img/posts/2018-09-21_openfisca_3_modes.png)  
+**3 modes de calcul des aides au logement selon la période des revenus d’activité.**
 
-![Graphes sur la temporalité de l’augmentation de l’aide au logement en cas de baisse de ressources (12 mois)](/img/posts/2018-09-21_openfisca_temporalite_al.png)
-*Temporalité de l’augmentation de l’aide au logement en cas de baisse de ressources (12 mois).*
+![Graphes sur la temporalité de l’augmentation de l’aide au logement en cas de baisse de ressources (12 mois)](/img/posts/2018-09-21_openfisca_temporalite_al.png)  
+**Temporalité de l’augmentation de l’aide au logement en cas de baisse de ressources (12 mois).**
 
-![Graphes de prise en compte des données fiscales, hors revenus d’activité](/img/posts/2018-09-21_openfisca_donnees_fiscales.png)
-*Prise en compte des données fiscales, hors revenus d’activité*
+![Graphes de prise en compte des données fiscales, hors revenus d’activité](/img/posts/2018-09-21_openfisca_donnees_fiscales.png)  
+**Prise en compte des données fiscales, hors revenus d’activité**
 
 
 Pour communiquer nos résultats, nous avons voulu générer des graphiques sur la rapidité de prise en compte d’un changement de situation (chômage, augmentation, retraite…) en fonction de la base de ressource prise en compte. La création de ces graphiques a été chronophage, car nous n’avions pas prévu la communication des résultats au début de l’exercice. Alors que rendre les résultats lisibles aux yeux des lecteurs est la fin de l’exercice.
