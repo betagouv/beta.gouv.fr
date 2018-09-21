@@ -72,7 +72,7 @@ Les micro-simulateurs comme [OpenFisca](https://fr.openfisca.org) dont la préci
 En parallèle des scénarios de réforme, nous avons créé un jeu de situations familiales pour lesquelles l'impact de ces réformes allait être évalué. Cela permet de tester les réformes sur des cas concrets et voir comment des changements dans la loi affectent les foyers.
 Ces situations (célibataire avec enfant/sans enfants, sénior touchant une retraite…) étaient issues des situations du [livret du pouvoir d'achat du Ministère du Budget](https://www.economie.gouv.fr/files/files/PLF2018/bro-pouvoir-achat-bat-web-10h.pdf) et rejointes par des situations de personnes aux revenus plus fluctuants. 
 
-Et, nous nous sommes finalement concentrés sur une réforme qui considère les revenus des 12 derniers mois comme base de ressources. Cela nous a permis de générer les graphes suivants :
+Et, nous nous sommes finalement concentrés sur une réforme qui considère les revenus des 12 derniers mois comme base de ressources. Cela nous a en particulier permis de générer les graphiques suivants :
 
 ![Graphes de comparaison de différentes bases ressources par cas types](/img/posts/2018-09-21_openfisca_comparaison_bases_ressources.png)  
 **Comparaison de différentes bases ressources par cas types.**
@@ -84,6 +84,8 @@ Et, nous nous sommes finalement concentrés sur une réforme qui considère les 
 `AL_MM12` correspond au calcul des aides au logement basé sur les revenus d’activité des 12 derniers mois.  
 
 
+Pour communiquer nos résultats, nous avons voulu générer des graphiques sur la rapidité de prise en compte d’un changement de situation (chômage, augmentation, retraite…) en fonction de la base de ressource prise en compte :  
+
 ![Graphes des modes de calcul des aides au logement selon la période des revenus d’activité](/img/posts/2018-09-21_openfisca_3_modes.png)  
 **3 modes de calcul des aides au logement selon la période des revenus d’activité.**
 
@@ -91,37 +93,36 @@ Et, nous nous sommes finalement concentrés sur une réforme qui considère les 
 **Temporalité de l’augmentation de l’aide au logement en cas de baisse de ressources (12 mois).**
 
 ![Graphes de prise en compte des données fiscales, hors revenus d’activité](/img/posts/2018-09-21_openfisca_donnees_fiscales.png)  
-**Prise en compte des données fiscales, hors revenus d’activité**
+**Prise en compte des données fiscales, hors revenus d’activité.**
 
 
-Pour communiquer nos résultats, nous avons voulu générer des graphiques sur la rapidité de prise en compte d’un changement de situation (chômage, augmentation, retraite…) en fonction de la base de ressource prise en compte. La création de ces graphiques a été chronophage, car nous n’avions pas prévu la communication des résultats au début de l’exercice. Alors que rendre les résultats lisibles aux yeux des lecteurs est la fin de l’exercice.
+La création de ces graphiques a été chronophage, car nous n’avions pas prévu la communication des résultats au début de l’exercice. Alors que rendre les résultats lisibles aux yeux des lecteurs est la fin de l’exercice.
 
 Il y avait un enjeu politique fort dans nos travaux. Nous savions que le délégué n'aurait pas pu annexer nos travaux au rapport du groupe de travail s’il était dit des choses trop loin de la vision du gouvernement. Le fait que 100% des acteurs présents étaient de l'administration (CAF) a donné une caution à nos travaux.
 
-Notre apprentissage principal est qu’[OpenFisca](https://fr.openfisca.org) permet d’ouvrir un espace de dialogue entre les experts de la loi en outillant le calcul et en le rendant plus aisément communicable à d'autres personnes. [OpenFisca](https://fr.openfisca.org) peut objectiver les échanges autour de la rédaction des réformes autour de cas concrets et améliorer la communication autour des réformes sans en enlever la complexité.
+Notre apprentissage principal est qu’[OpenFisca](https://fr.openfisca.org) permet d’ouvrir un espace de dialogue entre les experts de la loi en outillant le calcul et en le rendant plus aisément communicable à d'autres personnes. Le calculateur [OpenFisca](https://fr.openfisca.org) peut objectiver les échanges autour de la rédaction des réformes autour de cas concrets et améliorer la communication autour des réformes sans en enlever la complexité.
 
 ## Si nous refaisions l'exercice, qu'est ce que nous ferions différemment ?
 
-Cette expérience était complètement nouvelle et ancrée dans le besoin bien réel d’un groupe de travail. Nous en sommes sortis avec une analyse intéressante.
+Cette expérience était complètement nouvelle et ancrée dans le besoin bien réel d’un groupe de travail. Nous en sommes sortis avec une analyse intéressante de ce qu'un tel travail implique.
 Tout ne s’est pas passé exactement comme nous l’aurions souhaité et c’est là que se trouvent généralement les meilleurs apprentissages.
-Si les situations se représentaient, voici ce que nous ferions différemment :
-Réduire le périmètre législatif : les modifications de la législation sont complexes, et demandent de connaître le métier et [OpenFisca-France](https://fr.openfisca.org/legislation) pour bien comprendre les implications des changements. Chaque modification est très chronophage, il faut donc expliciter le périmètre de la réforme très en amont.
 
-Prioriser une version simplifiée de bout en bout : de la réforme à la visualisation d’impact, avant d’ajouter des cas tests supplémentaires.
-Pour tester le plus vite possible la réforme sur une situation.
-Identifier les visualisations qui mettront en valeur les résultats.
-Faire des workshops plutôt que des réunions : Écrire les réformes et les cas test en séance en binômant métier/tech.
+Si les situations se représentaient, voici ce que nous ferions différemment :
+* Réduire le périmètre législatif : les modifications de la législation sont complexes, et demandent de connaître le métier et [OpenFisca-France](https://fr.openfisca.org/legislation) pour bien comprendre les implications des changements. Chaque modification est très chronophage, il faut donc expliciter le périmètre de la réforme très en amont.
+* Prioriser une version simplifiée de bout en bout : de la réforme à la visualisation d’impact, avant d’ajouter des cas tests supplémentaires. Ceci pour tester le plus vite possible la réforme sur une situation.
+* Identifier les visualisations qui mettront en valeur les résultats.
+* Faire des workshops plutôt que des réunions : écrire les réformes et les cas test en séance en binômant métier/tech.
 
 En sortant de cet exercice, nous avons enrichi notre outillage pour accompagner un nouveau type d'utilisateurs :
-* des cas tests réutilisables ;
-* un petit logiciel qui permet d’automatiser les calculs sur les réformes et extraire les résultats dans un tableur .
+* des [cas de tests](https://github.com/openfisca/tutorial/tree/077ed7e49696bcb3150dcd46c2795bc22b0bf733/exemples/gt_non_recours/situations) réutilisables ;
+* un [logiciel simplifié](https://repl.it/@openfisca/framework-openfisca-france) qui permet d’automatiser les calculs sur les réformes et extraire les résultats dans un tableur.
 
 ## Conclusion
 
-[OpenFisca](https://fr.openfisca.org) peut être utilisé pour créer des simulations de réformes dans le cadre de la création de nouvelles lois.
-La forme mathématique des formules de calcul permet à différents experts d’échanger sur les méthodes de calculs.
-La possibilité de simuler l’impact de réformes sur des individus et des familles donne des clefs pour mitiger les effets de bords potentiels.
-La mise à disposition de cas types et d’exemples de visualisation permet de donner une base de travail qui parle aussi bien aux experts qu’au grand public.
+Le logiciel de mico-simulation socio-fiscale [OpenFisca](https://fr.openfisca.org) peut être utilisé pour créer des simulations de réformes dans le cadre de la création de nouvelles lois.
+Son code source ouvert à tous et la forme mathématique des formules de calcul permet à différents experts d’échanger sur les méthodes de calculs.
+La possibilité de simuler l’impact de réformes au niveau des individus et des familles donne des clefs pour mitiger les effets de bords potentiels.
+Enfin, la mise à disposition de cas types et d’exemples de visualisation permet de donner une base de travail qui parle aussi bien aux experts qu’au grand public.
 
 ## Pour aller plus loin
 
