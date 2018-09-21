@@ -29,7 +29,7 @@ Aujourd’hui, ces règles prévoient une dizaine de méthodes de calcul des rev
 
 Notre hypothèse était qu’en collant plus aux situations des personnes les aides s’appliqueraient au plus près de leur besoin et cela simplifierait la compréhension de la façon dont elles sont calculées.
 
-Nous voulions ainsi savoir :
+En tant que contributeurs à [OpenFisca](https://fr.openfisca.org), nous voulions alors savoir :
 * dans quelle mesure nous pouvions utiliser [OpenFisca](https://fr.openfisca.org) pour accompagner la conception d’une réforme.
 * quelle était l'expérience des utilisateurs d'[OpenFisca](https://fr.openfisca.org) qui voulaient simuler l'impact d'une reforme.
 
@@ -41,7 +41,9 @@ L'objectif devenait alors de définir quels types de réformes tester et, sur qu
 
 Nous avons commencé par définir 7 scenarios de réformes avec les experts métiers. Nous avons lancé cette initiative sans filet, en nous laissant la possibilité d’adapter notre travail à ce que nous allions découvrir au fur et à mesure. Ceci nous a appris comment faire dialoguer ces deux domaines que sont l'expertise de la loi et le développement informatique : la maïeutique pour partir d'une idée et aller à une réforme calculable.
 
-En bref : temps réduit, environnements techniques très variables, compétences diversifiées. Nous nous sommes vite rendu compte que pour accompagner au mieux les travaux du GT, nous devions en priorité créer des outils de communication et de visualisation. Pour nous permettre de faire cela, nous avons réduit au fur et à mesure le périmètre des réformes pour retenir 2 scenarios.
+En bref : temps réduit, environnements techniques très variables, compétences diversifiées. 
+
+Nous nous sommes vite rendu compte que pour accompagner au mieux les travaux du GT, nous devions en priorité créer des outils de communication et de visualisation. Pour nous permettre de faire cela, nous avons réduit au fur et à mesure le périmètre des réformes pour retenir 2 scenarios.
 
 ### Simplifier, c'est d'abord comprendre la complexité du droit.
 
@@ -67,22 +69,29 @@ Les micro-simulateurs comme [OpenFisca](https://fr.openfisca.org) dont la préci
 
 ## Comment les réformes affectent les foyers : un exercice de communication politique
 
-En parallèle des scénarios de réforme, nous avons créé un jeu de situations familiales (célibataire avec enfant/sans enfants, sénior touchant une retraite…) qui représentent les situations du [livret du pouvoir d'achat du Ministère du Budget](https://www.economie.gouv.fr/files/files/PLF2018/bro-pouvoir-achat-bat-web-10h.pdf). Cela permet de tester les réformes sur des cas concrets et voir comment des changements dans la loi affectent les foyers.
+En parallèle des scénarios de réforme, nous avons créé un jeu de situations familiales pour lesquelles l'impact de ces réformes allait être évalué. Cela permet de tester les réformes sur des cas concrets et voir comment des changements dans la loi affectent les foyers.
+Ces situations (célibataire avec enfant/sans enfants, sénior touchant une retraite…) étaient issues des situations du [livret du pouvoir d'achat du Ministère du Budget](https://www.economie.gouv.fr/files/files/PLF2018/bro-pouvoir-achat-bat-web-10h.pdf) et rejointes par des situations de personnes aux revenus plus fluctuants. 
 
-Nous nous sommes finalement concentrés sur une réforme qui considère les revenus des 12 derniers mois comme base de ressources.
+Et, nous nous sommes finalement concentrés sur une réforme qui considère les revenus des 12 derniers mois comme base de ressources. Cela nous a permis de générer les graphes suivants :
 
-![Comparaison de différentes bases ressources par cas types](/img/posts/2018-09-21_openfisca_comparaison_bases_ressources.png)
+![Graphes de comparaison de différentes bases ressources par cas types](/img/posts/2018-09-21_openfisca_comparaison_bases_ressources.png)
+*Comparaison de différentes bases ressources par cas types.*
 
-![3 modes de calcul des aides au logement selon la période des revenus d’activité ](/img/posts/2018-09-21_openfisca_3_modes.png)
+> Où :  
+`Base` est le mode de calcul actuel des aides au logement sur les revenus N-2 récupérés auprès des impôts.  
+`AL_MM01` correspond au calcul des aides au logement basé sur les revenus d’activité du mois M-1.  
+`AL_MM03` correspond au calcul des aides au logement basé sur les revenus d’activité du dernier trimestre.  
+`AL_MM12` correspond au calcul des aides au logement basé sur les revenus d’activité des 12 derniers mois.  
 
-![Temporalité de l’augmentation de l’aide au logement en cas de baisse de ressources (12 mois)](/img/posts/2018-09-21_openfisca_temporalite_al.png)
 
-![Prise en compte des données fiscales, hors revenus d’activité](/img/posts/2018-09-21_openfisca_donnees_fiscales.png)
+![Graphes des modes de calcul des aides au logement selon la période des revenus d’activité](/img/posts/2018-09-21_openfisca_3_modes.png)
+*3 modes de calcul des aides au logement selon la période des revenus d’activité.*
 
-> `AL_MM01` correspond au calcul des aides au logement basé sur les revenus d’activité du mois M-1.
-`AL_MM03` correspond au calcul des aides au logement basé sur les revenus d’activité du dernier trimestre.
-`AL_MM12` correspond au calcul des aides au logement basé sur les revenus d’activité des 12 derniers mois.
-`Base` est le mode de calcul actuel des aides au logement sur les revenus N-2 récupérés auprès des impôts.
+![Graphes sur la temporalité de l’augmentation de l’aide au logement en cas de baisse de ressources (12 mois)](/img/posts/2018-09-21_openfisca_temporalite_al.png)
+*Temporalité de l’augmentation de l’aide au logement en cas de baisse de ressources (12 mois).*
+
+![Graphes de prise en compte des données fiscales, hors revenus d’activité](/img/posts/2018-09-21_openfisca_donnees_fiscales.png)
+*Prise en compte des données fiscales, hors revenus d’activité*
 
 
 Pour communiquer nos résultats, nous avons voulu générer des graphiques sur la rapidité de prise en compte d’un changement de situation (chômage, augmentation, retraite…) en fonction de la base de ressource prise en compte. La création de ces graphiques a été chronophage, car nous n’avions pas prévu la communication des résultats au début de l’exercice. Alors que rendre les résultats lisibles aux yeux des lecteurs est la fin de l’exercice.
