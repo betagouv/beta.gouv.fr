@@ -37,9 +37,9 @@ Notre intention était de simuler concrètement une simplification des bases de 
 
 ## La rencontre des experts de la loi et des experts du code
 
-L'objectif devenait alors de définir quels types de réformes tester et sur quelles typologies de foyers, simuler et évaluer leurs impacts. 
+L'objectif devenait alors de définir quels types de réformes tester et, sur quelles typologies de foyers simuler et évaluer leurs impacts. 
 
-Nous avons commencé par définir 7 scenarios de réformes avec les experts métiers. Nous avons lancé cette initiative sans filet, en nous laissant la possibilité d’adapter notre travail à ce que nous allions découvrir au fur et à mesure. Ceci nous a appris comment faire dialoguer ces deux domaines que sont l'expertise de la loi et le développeent informatique : la maïeutique pour partir d'une idée et aller à une réforme.
+Nous avons commencé par définir 7 scenarios de réformes avec les experts métiers. Nous avons lancé cette initiative sans filet, en nous laissant la possibilité d’adapter notre travail à ce que nous allions découvrir au fur et à mesure. Ceci nous a appris comment faire dialoguer ces deux domaines que sont l'expertise de la loi et le développement informatique : la maïeutique pour partir d'une idée et aller à une réforme calculable.
 
 En bref : temps réduit, environnements techniques très variables, compétences diversifiées. Nous nous sommes vite rendu compte que pour accompagner au mieux les travaux du GT, nous devions en priorité créer des outils de communication et de visualisation. Pour nous permettre de faire cela, nous avons réduit au fur et à mesure le périmètre des réformes pour retenir 2 scenarios.
 
@@ -47,11 +47,11 @@ En bref : temps réduit, environnements techniques très variables, compétences
 
 Avant de le coder ou de définir les contours d'une réforme, le premier apprentissage est de comprendre l'esprit de la loi.
 
-Les raisons de chaque subtilité (par exemple, l’effet figé qui consiste à verser un montant identique entre les deux dates d’évaluation d’une aide) doivent être maîtrisées pour savoir quelle typologie de situation sera affectée par un changement.
+Les raisons de chaque subtilité (par exemple, l’effet figé qui consiste à verser un montant identique entre les deux dates d’évaluation d’une aide) doivent être considérées pour savoir quelle typologie de situation sera affectée par un changement.
 
 Il est facile de se perdre dans la nébuleuse du droit social, même accompagné par des experts.
 
-On se rend compte en discutant avec le GT que déterminer combien une personne (ou une famille) gagne aujourd’hui est loin d'être évident :
+On se rend compte en discutant avec le GT que la loi a cette mission particulière de considérer toutes les situations de personnes. Et, déterminer combien une personne (ou une famille) gagne aujourd’hui est loin d'être évident :
 * Que se passe-t-il si la personne a des revenus qui fluctuent tous les mois ?
 * Que se passe-t-il si elle n'est pas salariée ?
 * Que se passe-t-il si la personne vient de partir à la retraite ?
@@ -60,10 +60,10 @@ On se rend compte en discutant avec le GT que déterminer combien une personne (
 
 Devant la complexité législative inhérente à la diversité des situations familiales, nous nous sommes demandés si l’enjeu au final de facilitation d'accès au droit ne serait pas de masquer la complexité à l'usager en travaillant l'expérience utilisateur.
 
-C’est le pari du service Mes Aides, une interface qui structure et simplifie la demande d’information à l’utilisateur, puis qui utilise [OpenFisca](https://fr.openfisca.org) pour calculer les droits sociaux auxquelles il peut prétendre.
+C’est le pari du service [Mes Aides](https://mes-aides.gouv.fr), une interface qui structure et simplifie la demande d’information à l’utilisateur, puis qui utilise [OpenFisca](https://fr.openfisca.org) pour calculer les droits sociaux auxquels cet utilisateur peut prétendre.
 Une partie de la solution peut se trouver dans l’ordonnancement des informations et la pédagogie.
 
-Les micro-simulateurs comme [OpenFisca](https://fr.openfisca.org) ont un rôle à jouer, car ils permettent de "Mieux comprendre comment fonctionne le droit adapté à ma situation."
+Les micro-simulateurs comme [OpenFisca](https://fr.openfisca.org) dont la précision de calcul va jusqu'à l'individu ont un rôle à jouer car ils permettent de "Mieux comprendre comment fonctionne le droit adapté à ma situation."
 
 ## Comment les réformes affectent les foyers : un exercice de communication politique
 
