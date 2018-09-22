@@ -135,12 +135,48 @@ iframe {
 }
 
 .grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  grid-gap: 30px;
-  margin-top: 25px;
-  justify-items: center;
-  justify-content: space-evenly;
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0 -1em;
+}
+
+.grid .card {
+  overflow: initial;
+  margin: 1em;
+  min-width: 30%;
+  max-width: 100%;
+  width: 100%;
+  word-wrap: break-word;
+}
+
+@media (max-width: 399px) {
+  .grid {
+    flex-direction: column;
+    margin: 0;
+  }
+
+  .grid .card {
+    margin: 0;
+  }
+
+  .grid .card + .card {
+    margin-top: 1em;
+  }
+}
+
+@supports (display: grid) {
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 30px;
+    margin-top: 25px;
+    justify-items: center;
+    justify-content: space-evenly;
+  }
+
+  .grid .card {
+    margin: 0;
+  }
 }
 
 a.card,
