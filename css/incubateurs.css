@@ -13,12 +13,10 @@ h3 em {
     border-radius: 4px;
 }
 
-.grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 2em;
-}
-
-.grid .card + .card {
-    margin-left: 0;
+@supports (display: grid) {
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2em;
+  }
 }
