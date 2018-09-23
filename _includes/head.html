@@ -65,7 +65,7 @@
     <meta property="og:url" content="{{ canonical_url }}">
 
 
-    {% capture mastheadImagePath %}/img/{{ page.path | replace: '_pages', 'pages' | replace: '_posts', 'posts' | replace: '_startup', 'startup' | remove: '/fr' | remove: '/en' | remove: '.html' | remove: '.md' }}.jpg{% endcapture %}
+    {% capture mastheadImagePath %}{{site.url}}/img/{{ page.path | replace: '_pages', 'pages' | replace: '_posts', 'posts' | replace: '_startup', 'startup' | remove: '/fr' | remove: '/en' | remove: '.html' | remove: '.md' }}.jpg{% endcapture %}
     <meta name="thumbnail" content="{{ mastheadImagePath }}">
     <meta property="og:image" content="{{ mastheadImagePath }}">
 
