@@ -1,44 +1,47 @@
 ---
 layout: default
 ---
-<div class="card">
-    <div class="card__content">
-      <h3>{{ page.title }}</h3>
-      <div class="card__meta">{{ page.owner }}</div>
-    </div>
+<section class="section-grey">
+    <div class="container panel">
+        <div class="header startup-header">
+          <h2>{{ page.title }} - {{ page.owner }}</h2>
+        </div>
 
-    <div class="content">
-        <div class="ui text container">
+        <div class="content">
             {{ content }}
         </div>
-    </div>
 
-    <div class="content">
-        <ul class="ui description text container">
-            <li>
-                Adresse : {{ page.address }}
-            </li>
-            {% if page.website %}
+        <div class="content">
+            <ul>
                 <li>
-                    <a href="{{ page.website }}">Site web</a>
+                    Adresse : {{ page.address }}
                 </li>
-            {% endif %}
-            {% if page.github %}
+                {% if page.website %}
+                    <li>
+                        <a href="{{ page.website }}">Site web</a>
+                    </li>
+                {% endif %}
+                {% if page.github %}
+                    <li>
+                        <a href="{{ page.github }}">Compte GitHub</a>
+                    </li>
+                {% endif %}
                 <li>
-                    <a href="{{ page.github }}">Compte GitHub</a>
+                    <a href="{{ page.contact }}">Contacter cet incubateur</a>
                 </li>
-            {% endif %}
-            <li>
-                <a href="{{ page.contact }}">Contacter cet incubateur</a>
-            </li>
-        </ul>
+            </ul>
+        </div>
+
+        <h3>Nos Startups</h3>
+
+        <div class="content">
+            <div class="grid">
+                {% assign incubator_id = page.id | remove: '/incubateur/' %}
+                {% assign startups = site.startup | where:'incubator',incubator_id %}
+                {% for startup in startups %}
+                    {% include startup-card.html description=startup %}
+                {% endfor %}
+            </div>
+        </div>
     </div>
-    <h2 class="ui divider horizontal">Nos Startups</h2>
-    <div class="ui stackable two cards">
-        {% assign incubator_id = page.id | remove: '/incubateur/' %}
-        {% assign startups = site.startup | where:'incubator',incubator_id %}
-        {% for startup in startups %}
-            {% include startup-card.html description=startup %}
-        {% endfor %}
-    </div>
-</div>
+</section>
