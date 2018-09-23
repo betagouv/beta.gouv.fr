@@ -13,31 +13,20 @@
   <img alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}/img{{ description.id }}.jpg{% endif %}" />
 {% endcapture %}
 
+
 <div class="card {% if include.isInactive %}inactive{% endif %}">
 
+  <div class="card__cover">{{ avatar }}</div>
   {% if description.link %}
-  <a class="content" href="{{ description.link }}" target="_blank" rel="noopener">
+  <a class="card__content" href="{{ description.link }}" target="_blank" rel="noopener">
   {% else %}
-  <div class="content">
+  <div class="card__content">
   {% endif %}
-
-    {% if include.size != 'small' %}
-    <div class="card__cover">
-      {{ avatar }}
+    <h3>{{ description.fullname }}</h3>
+    <div class="card__meta">{{ description.role }}</div>
+    <div class="description">
+      {{ description.content | markdownify }}
     </div>
-    {% endif %}
-
-    {% if include.size == 'small' %}
-    <div class="card__cover">{{ avatar }}</div>
-    {% endif %}
-    <div class="card__content">
-      <h3>{{ description.fullname }}</h3>
-      <div class="card__meta">{{ description.role }}</div>
-      <div class="description">
-        {{ description.content | markdownify }}
-      </div>
-    </div>
-
   {% if description.link %}
   </a>
   {% else %}
@@ -63,11 +52,12 @@
       {% for currentStartup in site.startup %}
         {% if currentStartup.id == currentId %} {% comment %} where query doesn't work on id {% endcomment %}
           <div class="label {% if isInactive %}label--inactive{% endif %}">
-            <a {% unless isInactive %}class="ui"{% endunless %} href="{{ currentStartup.url }}">{{ currentStartup.title }}</a>
+            <a href="{{ currentStartup.url }}">{{ currentStartup.title }}</a>
           </div>
         {% endif %}
       {% endfor %}
     {% endfor %}
   </div>
   {% endif %}
+
 </div>

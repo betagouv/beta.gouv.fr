@@ -5,17 +5,40 @@
     <title>{% if page.title %}{{ layout.title | default: page.title }} — {% endif %}{{ site.title }}</title>
     <meta property="og:title" content="{{ layout.title | default: page.title | default: site.title }}">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ site.url }}{{ "/assets/style/main.css" }}">
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ site.url }}{{ "/css/main.css" }}">
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/style/main.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}" />
 
-    <link type="application/atom+xml" rel="alternate" href="{{ site.url }}/feed.xml" title="{{ site.title }}">
+    <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="{{ site.title }}">
 
     {% capture description %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
     <meta name="description" content="{{ description }}">
     <meta property="og:description" content="{{ description }}">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/img/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/img/favicons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/img/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/img/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/img/favicons/manifest.json">
+    <link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg">
+    <link rel="shortcut icon" href="/img/favicons/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="beta.gouv.fr">
+    <meta name="application-name" content="beta.gouv.fr">
+    <meta name="msapplication-TileColor" content="#042075">
+    <meta name="msapplication-TileImage" content="/img/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/img/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#042075">
 
     {% if page.collection == 'posts' %}
         <meta property="og:type" content="article"> {% comment %} Defaults to `website`, which is fine. {% endcomment %}
@@ -42,8 +65,8 @@
     <meta property="og:url" content="{{ canonical_url }}">
 
 
-    {% capture mastheadImagePath %}/img/{{ page.path | replace: '_pages', 'pages' | replace: '_posts', 'posts' | replace: '_startup', 'startup' | remove: '/fr' | remove: '/en' | remove: '.html' | remove: '.md' }}.jpg{% endcapture %}
-    <meta name="thumbnail" content="{{ site.url }}{{ mastheadImagePath }}">
-    <meta property="og:image" content="{{ site.url }}{{ mastheadImagePath }}">
+    {% capture mastheadImagePath %}{{site.url}}/img/{{ page.path | replace: '_pages', 'pages' | replace: '_posts', 'posts' | replace: '_startup', 'startup' | remove: '/fr' | remove: '/en' | remove: '.html' | remove: '.md' }}.jpg{% endcapture %}
+    <meta name="thumbnail" content="{{ mastheadImagePath }}">
+    <meta property="og:image" content="{{ mastheadImagePath }}">
 
 </head>
