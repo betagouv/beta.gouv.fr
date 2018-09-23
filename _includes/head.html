@@ -5,13 +5,13 @@
     <title>{% if page.title %}{{ layout.title | default: page.title }} — {% endif %}{{ site.title }}</title>
     <meta property="og:title" content="{{ layout.title | default: page.title | default: site.title }}">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ site.url }}{{ "/assets/style/main.css" }}">
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ site.url }}{{ "/css/main.css" }}">
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/style/main.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}" />
 
-    <link type="application/atom+xml" rel="alternate" href="{{ site.url }}/feed.xml" title="{{ site.title }}">
+    <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="{{ site.title }}">
 
     {% capture description %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
     <meta name="description" content="{{ description }}">
@@ -66,7 +66,7 @@
 
 
     {% capture mastheadImagePath %}/img/{{ page.path | replace: '_pages', 'pages' | replace: '_posts', 'posts' | replace: '_startup', 'startup' | remove: '/fr' | remove: '/en' | remove: '.html' | remove: '.md' }}.jpg{% endcapture %}
-    <meta name="thumbnail" content="{{ site.url }}{{ mastheadImagePath }}">
-    <meta property="og:image" content="{{ site.url }}{{ mastheadImagePath }}">
+    <meta name="thumbnail" content="{{ mastheadImagePath }}">
+    <meta property="og:image" content="{{ mastheadImagePath }}">
 
 </head>
