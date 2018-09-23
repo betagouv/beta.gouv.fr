@@ -151,6 +151,7 @@ iframe {
 
 @media (max-width: 399px) {
   .grid {
+    display: block;
     flex-direction: column;
     margin: 0;
   }
