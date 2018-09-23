@@ -123,8 +123,8 @@ body {
 }
 
 .mosaic .photo {
-    -ms-flex: 1 1 50%;
     flex: 1 0 50%;
+    -ms-flex: 1 1 50%;
     background-size: cover;
 }
 
