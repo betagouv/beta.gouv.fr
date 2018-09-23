@@ -20,10 +20,10 @@
 }
 
 .card .card__cover {
-  height: 220px;
+  height: 310px;
 }
 
-a.content {
+a.card__content {
   text-decoration: none;
 }
 
