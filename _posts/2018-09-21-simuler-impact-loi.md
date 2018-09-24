@@ -129,7 +129,7 @@ En sortant de cet exercice, nous avons enrichi notre outillage pour accompagner 
 Le logiciel [OpenFisca](https://fr.openfisca.org) peut être utilisé pour créer des simulations de réformes dans le cadre de la création de nouvelles lois.
 Son code source ouvert à tous et la forme mathématique des formules de calcul permet à différents experts d’échanger sur les méthodes de calculs.
 Par ailleurs, la possibilité de simuler l’impact de réformes au niveau des individus et des familles donne des clefs pour mitiger les effets de bords potentiels.
-Enfin, la mise à disposition de cas types et d’exemples de visualisation permet de donner une base de travail qui peut aussi bien parler aux experts qu’au grand public.
+Enfin, la mise à disposition de [cas types](https://www.data.gouv.fr/fr/datasets/livret-du-pouvoir-dachat/) et d’exemples de visualisation permet de donner une base de travail qui peut aussi bien parler aux experts qu’au grand public.
 
 ## Pour aller plus loin
 
