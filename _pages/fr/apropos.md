@@ -9,7 +9,7 @@ ref: about
 layout: text
 ---
 
-## Qui sommes-nous ?
+## Qui sommes-nous ?
 
 [beta.gouv.fr](https://beta.gouv.fr/) est le réseau des incubateurs de Startups d’État. Notre mission est d'améliorer le service public de l'intérieur en favorisant le passage à l'action d'agents publics.
 
@@ -19,7 +19,7 @@ Nous animons [une communauté en croissance](https://beta.gouv.fr/communaute/) q
 
 Depuis 2013 l’État met en œuvre une nouvelle politique d’innovation, permettant à des « Startups d’État » d’être incubées pour développer des produits numériques centrés sur les usagers. Suite au succès de [data.gouv.fr](https://data.gouv.fr) et de [mes-aides.gouv.fr](https://mes-aides.gouv.fr), la mission « Incubateur de services numériques » est créée par la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr> en septembre 2015 pour résoudre toujours plus de problèmes liés à des politiques publiques. Elle collabore aujourd’hui avec plus de 15 partenaires publics (ministères, opérateurs publics, collectivités territoriales,...) et accompagne les administrations souhaitant construire leur propre incubateur de Startups d’État.
 
-## Qu’est-ce qu’une Startup d'État ?
+## Qu’est-ce qu’une Startup d'État ?
 
 Une Startup d'État est un service public numérique développé par une équipe autonome pour répondre à un problème lié à une politique publique, financée par une administration porteuse. Elle n’a pas pour objectif de faire du profit et n’a le plus souvent pas de personnalité juridique propre au moment de son lancement (même si elle peut devenir par la suite un service national au sein d’une administration ou au sein d'un [GIP](https://fr.wikipedia.org/wiki/Groupement_d%27int%C3%A9r%C3%AAt_public) autonome). Sa vocation est de maximiser son impact social en répondant aux besoins de ses utilisateurs.
 
@@ -27,11 +27,11 @@ En particulier, beta.gouv.fr n'incube pas de startups privées.
 
 Le [portefeuille de beta.gouv.fr](https://beta.gouv.fr/startups/) compte des Startups d'État dans des domaines aussi divers que l’emploi, la formation, le travail, le handicap, les aides aux personnes et aux entreprises, l’éducation, la culture, la sécurité sociale, la défense, les transports ou la simplification des démarches administratives.
 
-## Pourquoi lancer une Startup d'État ?
+## Pourquoi lancer une Startup d'État ?
 
 Un responsable d’administration décide de créer une Startup d'État, soit pour répondre à un problème de politique publique prédéfini, soit en lançant un appel à innovateurs permettant d’identifier des agents publics au profil d’[intrapreneur](https://beta.gouv.fr/2017/02/16/intrapreneur-startup-d-etat.html). Une équipe est ensuite mise en place pour développer une solution en travaillant au plus près des usagers. Elle dispose d’un délai de six mois pour lancer une première version de sa solution et obtient des financements complémentaires si et seulement si elle fait la preuve de l’utilité de sa solution.
 
-## Comment est financée une Startup d'État ?
+## Comment est financée une Startup d'État ?
 
 Les coûts de développement et de fonctionnement des Startups d'État restent entièrement à la charge des administrations qui les portent. L’administration partenaire finance les coûts de développement de la Startup d’État (au maximum 200 000 € pour les six premiers mois) et s’engage à refinancer le projet en cas de succès en doublant et en pérennisant la mise.
 
@@ -49,7 +49,7 @@ Toutes les Startups d'État présentent publiquement des mesures d’impact auto
 
 Elles exercent aussi un effet d’entraînement sur la modernisation des administrations. Au sein de Pôle Emploi, qui a noué dès 2015 un partenariat avec la DINSIC et investit aujourd’hui annuellement près de 6 M€ dans les Startups d'État, les équipes, composées à l’origine essentiellement de freelances, accueillent aujourd’hui des talents issus de la DSI ou des agences, permettant ainsi une diversification des carrières et une réaffectation des agents publics sur des missions à plus fort impact.
 
-## Plus d’infos ?
+## Plus d’infos ?
 
 L’équipe de beta.gouv.fr peut être contactée directement à [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr).
 
