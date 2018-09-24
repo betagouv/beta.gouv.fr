@@ -23,21 +23,24 @@ Porté par la [Délégation interministérielle à la prévention et à la lutte
 
 > [Mes Aides](https://mes-aides.gouv.fr) se base lui-même sur [OpenFisca-France](https://fr.openfisca.org) pour la simulation du droit aux prestations sociales des particuliers et de ceux qui les accompagnent.
 
-Nous démarrons donc ces ateliers avec un groupe réduit de personnes et l'idée de simuler une simplification des règles de calcul des prestations sociales. 
+Nous démarrons donc ces ateliers avec un groupe réduit de personnes et l'objectif de simplifier des règles de calcul des prestations sociales. 
 
-Les prestations dépendant pour beaucoup des revenus, la première question qui se pose peut paraître simple : comment évalue-t-on combien gagne une famille lorsque l’on calcule son éligibilité à une prestation sociale ?
+Les prestations dépendant pour beaucoup des revenus, la première question que nous nous posons est : comment évalue-t-on combien gagne une famille lorsque l’on calcule son éligibilité à une prestation sociale ?
 
 Aujourd’hui, il y a une dizaine de méthodes de calcul des revenus d’un foyer. Ceux-ci peuvent être calculés sur des périodes de temps différentes. Certaines prestations sociales prennent en compte les revenus des 3 derniers mois, d’autres se basent sur le revenu fiscal de référence, calculé sur les revenus N-2 (année - 2). Or, avec le passage au prélèvement à la source de l'impôt sur le revenu, le calcul des prestations sociales pourrait se rapprocher de la situation actuelle des personnes.
 
 Nous avons alors pris le parti d'étudier cela sur des foyers recevant le [RSA](https://fr.openfisca.org/legislation/rsa), la [PPA](https://fr.openfisca.org/legislation/ppa) ou les aides au logement.
 
-Notre hypothèse était qu’en collant plus aux situations des personnes les aides s’appliqueraient au plus près de leur besoin et cela simplifierait la compréhension de la façon dont elles sont calculées.
+Notre hypothèse était qu’en collant plus aux situations des personnes, les aides s’appliqueraient au plus près de leur besoin, et cela simplifierait la compréhension de la façon dont elles sont calculées.
 
 En tant que contributeurs à [OpenFisca](https://fr.openfisca.org), nous voulions alors savoir :
 * dans quelle mesure pouvions-nous utiliser [OpenFisca](https://fr.openfisca.org) pour accompagner la conception d’une réforme ?
 * quelle était l'expérience des utilisateurs d'[OpenFisca](https://fr.openfisca.org) qui voulaient simuler l'impact d'une reforme ?
 
-Notre intention était de simuler concrètement une simplification des bases de calcul des prestations sociales, et de définir son impact sur différents types de ménages. Et nous nous sommes lancé dans l'exercice sans vision claire ni du résultat attendu ni du chemin pour y arriver.
+Notre intention était de simuler concrètement une simplification des bases de calcul des prestations sociales, et de définir son impact sur différents types de ménages. Le sujet était encore large et les angles de traitement envisageables variés.
+> Exemple illustrant l'ampleur du sujet : règle de calcul de la [base de ressources des aides aux logement](https://fr.openfisca.org/legislation/aide_logement_base_ressources). 
+
+Nous nous sommes lancé.e.s dans l'exercice sans vision claire ni du périmètre exact du résultat attendu ni du chemin pour y arriver.
 
 ## La rencontre des experts de la loi et des experts du code
 
