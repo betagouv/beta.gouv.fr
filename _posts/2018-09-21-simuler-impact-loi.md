@@ -11,7 +11,7 @@ Ou, est-il possible de simuler l'impact d'une loi pour que les prestations socia
 
 ## Contexte
 
-Le Groupe de Travail (GT) [Accès aux droits et aux services, lutte contre le non-recours](https://fncp-france.fr/wp-content/uploads/2018/03/rapp-4.pdf) s’applique à proposer des solutions pour permettre à tou.te.s, et surtout aux plus vulnérables, de connaître les moyens d'accompagnement mis à leur disposition.
+Le Groupe de Travail (GT) [Accès aux droits et aux services, lutte contre le non-recours](https://fncp-france.fr/wp-content/uploads/2018/03/rapp-4.pdf) s’applique à proposer des solutions pour permettre à tou·te·s, et surtout aux plus vulnérables, de connaître les moyens d'accompagnement mis à leur disposition.
 
 Dans ce cadre, il a été proposé d’utiliser le logiciel [OpenFisca](https://fr.openfisca.org) en atelier avec une hypothèse : simplifier l'accès au droit passerait par la réduction de la complexité des règles de calcul des prestations sociales. 
 
@@ -19,7 +19,7 @@ Dans ce cadre, il a été proposé d’utiliser le logiciel [OpenFisca](https://
 
 Porté par la [Délégation interministérielle à la prévention et à la lutte contre la pauvreté des enfants et des jeunes](https://twitter.com/delegpauvrete) ce GT a été l'opportunité de réunir des experts des prestations sociales, les équipes du simulateur [Mes Aides](https://mes-aides.gouv.fr) et du moteur de calcul [OpenFisca](https://fr.openfisca.org).
 
-> [OpenFisca](https://fr.openfisca.org) est un modèle informatique du système socio-fiscal qui permet de simuler, non seulement la législation actuelle, mais aussi l‘impact de réformes en discussion au Parlement sur des individus ou des foyers.
+> [OpenFisca](https://fr.openfisca.org) est un modèle informatique du système socio-fiscal qui permet de simuler aussi bien la législation actuelle que l‘impact de réformes en discussion au Parlement sur des individus ou des foyers.
 
 > [Mes Aides](https://mes-aides.gouv.fr) se base lui-même sur [OpenFisca-France](https://fr.openfisca.org) pour la simulation du droit aux prestations sociales des particuliers et de ceux qui les accompagnent.
 
@@ -38,9 +38,11 @@ En tant que contributeurs à [OpenFisca](https://fr.openfisca.org), nous voulion
 * quelle était l'expérience des utilisateurs d'[OpenFisca](https://fr.openfisca.org) qui voulaient simuler l'impact d'une reforme ?
 
 Notre intention était de simuler concrètement une simplification des bases de calcul des prestations sociales, et de définir son impact sur différents types de ménages. Le sujet était encore large et les angles de traitement envisageables variés.
-> Exemple illustrant l'ampleur du sujet : règle de calcul de la [base de ressources des aides aux logement](https://fr.openfisca.org/legislation/aide_logement_base_ressources). 
+> Exemples illustrant l'ampleur du sujet : 
+> * multiplicité des [allocations logement](https://www.service-public.fr/particuliers/vosdroits/N20360),
+> * règle de calcul de la [base de ressources des aides aux logement](https://fr.openfisca.org/legislation/aide_logement_base_ressources).
 
-Nous nous sommes lancé.e.s dans l'exercice sans vision claire ni du périmètre exact du résultat attendu ni du chemin pour y arriver.
+Nous nous sommes lancé·e·s dans l'exercice sans vision claire ni du périmètre exact du résultat attendu ni du chemin pour y arriver.
 
 ## La rencontre des experts de la loi et des experts du code
 
