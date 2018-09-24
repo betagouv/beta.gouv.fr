@@ -7,7 +7,7 @@ status: construction
 start: 2018-04-01
 end:
 link: http://pop.culture.gouv.fr/
-repository:
+repository: https://github.com/betagouv/pop-consultation
 stats: false
 contact: sandrine.della-bartolomea@culture.gouv.fr
 ---
