@@ -54,7 +54,7 @@ Nous nous sommes vite rendu compte que pour accompagner au mieux les travaux du 
 
 Avant d'écrire une réforme en code informatique, voire même en définir les contours, le premier apprentissage est de comprendre l'esprit de la loi.
 
-Comprendre les raisons de chaque subtilité (par exemple, l’effet figé qui consiste à verser un montant identique entre les deux dates d’évaluation d’une aide) doivent être considérées pour savoir quelle typologie de situation sera affectée par la réforme.
+Les raisons de chaque subtilité (par exemple, l’effet figé qui consiste à verser un montant identique entre les deux dates d’évaluation d’une aide) doivent être considérées pour savoir quelle typologie de situation sera affectée par la réforme.
 
 Il est facile de se perdre dans la nébuleuse du droit social, même accompagné par des experts.
 
@@ -65,7 +65,7 @@ On se rend compte en discutant avec les participants aux ateliers que la loi a c
 
 ### Simplifier les formules ou masquer la complexité ?
 
-Devant la complexité législative inhérente à la diversité des situations familiales, nous nous sommes demandés si l’enjeu au final de facilitation d'accès au droit ne serait pas de masquer la complexité à l'usager en travaillant l'expérience utilisateur.
+Devant la complexité législative inhérente à la diversité des situations familiales, nous nous sommes demandés si l’enjeu de facilitation d'accès au droit ne serait pas dans le masquage de la complexité à l'usager en travaillant l'expérience utilisateur.
 
 C’est le pari du service [Mes Aides](https://mes-aides.gouv.fr), une interface qui structure et simplifie la demande d’information à l’utilisateur, puis qui utilise [OpenFisca](https://fr.openfisca.org) pour calculer les droits sociaux auxquels cet utilisateur peut prétendre.
 Une partie de la solution peut se trouver dans l’ordonnancement des informations et la pédagogie.
@@ -74,10 +74,10 @@ Les micro-simulateurs comme [OpenFisca](https://fr.openfisca.org) dont la préci
 
 ## Comment les réformes affectent les foyers : un exercice de communication politique
 
-En parallèle des scénarios de réforme, nous avons créé un jeu de situations familiales pour lesquelles l'impact de ces réformes allait être évalué. Cela permet de tester les réformes sur des cas concrets et voir comment des changements dans la loi affectent les foyers.
-Ces situations (célibataire avec enfant/sans enfants, sénior touchant une retraite…), issues des situations du [livret du pouvoir d'achat du Ministère du Budget](https://www.economie.gouv.fr/files/files/PLF2018/bro-pouvoir-achat-bat-web-10h.pdf), ont été étendues par des situations de personnes aux revenus plus fluctuants. 
+En parallèle des scénarios de réformes, nous avons créé un jeu de situations familiales. Celui-ci permet de tester les réformes sur des cas concrets et de voir comment des changements dans la loi impactent les foyers.
+Ces situations (célibataire avec enfants/sans enfant, sénior touchant une retraite…), issues du [livret du pouvoir d'achat du Ministère du Budget](https://www.economie.gouv.fr/files/files/PLF2018/bro-pouvoir-achat-bat-web-10h.pdf), ont été étendues par des situations de personnes aux revenus plus fluctuants. 
 
-Nous nous sommes finalement concentrés sur une réforme qui considère les revenus des 12 derniers mois comme base de ressources. Cela nous a en particulier permis de générer les graphiques suivants :
+Nous nous sommes finalement concentrés sur une réforme qui considère les revenus des 12 derniers mois comme base de ressources. Cela nous a en particulier permis de générer les graphiques suivants sur l'aide au logement :
 
 ![Graphes de comparaison de différentes bases ressources par cas types](/img/posts/2018-09-21_openfisca_comparaison_bases_ressources.png)  
 **Comparaison par cas type de différentes bases ressources pour l'aide au logement.**
@@ -101,19 +101,19 @@ Pour communiquer nos résultats, nous avons voulu générer des graphiques sur l
 **Prise en compte des données fiscales, hors revenus d’activité.**
 
 
-La création de ces graphiques a été chronophage, car nous n’avions pas prévu la communication des résultats au début de l’exercice. Alors que rendre les résultats lisibles aux yeux des lecteurs est la fin de l’exercice.
+La création de ces graphiques a été chronophage, car nous n’avions pas assez prévu la communication des résultats au début des ateliers. Nous avions dédié plus de temps aux calculs qu'à rendre les résultats lisibles aux yeux des lecteurs, chose qui constitue pourtant la fin de l’exercice.
 
-Il y avait un enjeu politique fort dans nos travaux. Nous savions que le délégué n'aurait pas pu annexer nos travaux au rapport du groupe de travail s’il était dit des choses trop loin de la vision du gouvernement. Le fait que 100% des acteurs présents étaient de l'administration (CAF) a donné une caution à nos travaux.
+Cela aussi alors qu'il y avait un enjeu politique fort dans nos travaux. Nous savions que le délégué n'aurait pas pu les annexer au rapport du groupe de travail s’il était dit des choses trop loin de la vision du gouvernement. Le fait que 100% des acteurs présents aient été de l'administration (CAF) a donné une caution à ce qui était produit.
 
-Notre apprentissage principal est qu’[OpenFisca](https://fr.openfisca.org) permet d’ouvrir un espace de dialogue entre les experts de la loi en outillant le calcul et en le rendant plus aisément communicable à d'autres personnes. À la rédaction des réformes, le calculateur a permis d'objectiver les échanges autour de cas concrets. Il a permis d'améliorer la communication sur les réformes mêmes sans en enlever la complexité.
+Au final, notre apprentissage principal est qu’[OpenFisca](https://fr.openfisca.org) permet d’ouvrir un espace de dialogue entre les experts de la loi en outillant le calcul et en le rendant plus aisément communicable à d'autres personnes. À la rédaction des réformes, le calculateur a permis d'objectiver les échanges autour de cas concrets. Il a permis d'améliorer la communication sur les réformes mêmes sans en enlever la complexité.
 
-## Si nous refaisions l'exercice, qu'est ce que nous ferions différemment ?
+## Si nous refaisions l'exercice, que ferions-nous différemment ?
 
 Cette expérience était complètement nouvelle et ancrée dans le besoin bien réel d’un groupe de travail. Nous en sommes sortis avec une analyse intéressante de ce qu'un tel travail implique.
 Tout ne s’est pas passé exactement comme nous l’aurions souhaité et c’est là que se trouvent généralement les meilleurs apprentissages.
 
 Si les situations se représentaient, voici ce que nous ferions différemment :
-* Réduire le périmètre législatif : les modifications de la législation sont complexes, et demandent de connaître le métier et [OpenFisca-France](https://fr.openfisca.org/legislation) pour bien comprendre les implications des changements. Chaque modification est très chronophage, il faut donc expliciter le périmètre de la réforme très en amont.
+* Réduire le périmètre législatif : les modifications de la législation sont complexes ; elles demandent de connaître le métier et [OpenFisca-France](https://fr.openfisca.org/legislation) pour bien comprendre les implications des changements. Chaque modification est très chronophage, il faut donc expliciter le périmètre de la réforme très en amont.
 * Prioriser une version simplifiée de bout en bout : de la réforme à la visualisation d’impact, avant d’ajouter des cas tests supplémentaires. Ceci pour tester le plus vite possible la réforme sur une situation.
 * Identifier les visualisations qui mettront en valeur les résultats.
 * Faire des workshops plutôt que des réunions : écrire les réformes et les cas test en séance en binômant métier/tech.
