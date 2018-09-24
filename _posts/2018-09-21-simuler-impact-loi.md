@@ -127,14 +127,19 @@ En sortant de cet exercice, nous avons enrichi notre outillage pour accompagner 
 ## Conclusion
 
 Le logiciel [OpenFisca](https://fr.openfisca.org) peut être utilisé pour créer des simulations de réformes dans le cadre de la création de nouvelles lois.
-Son code source ouvert à tous et la forme mathématique des formules de calcul permet aux experts métiers et techniques d’échanger sur les méthodes de calculs.
+Son code source ouvert à tous et la forme mathématique des formules permet aux experts métiers et techniques d’échanger sur les méthodes de calcul.
 Par ailleurs, la possibilité de simuler l’impact de réformes au niveau des individus et des familles donne des clefs pour mitiger les effets de bords potentiels.
 Enfin, la mise à disposition de [cas types](https://www.data.gouv.fr/fr/datasets/livret-du-pouvoir-dachat/) et d’exemples de visualisation permet de donner une base de travail qui peut aussi bien parler aux experts qu’au grand public.
+
+Tout ceci met en oeuvre des compétences variées qui dépassent le champ des prestations sociales pour traiter de l'ensemble du modèle socio-fiscal et faire de ce commun contributif un espace de transparence et de dialogue. 
+
+L'aventure vous intéresse ? N'hésitez pas à contacter la [communauté](http://openfisca.org/doc/community.html#contact) pour en savoir plus.
 
 ## Pour aller plus loin
 
 * [Rapport final](https://www.caissedesdepotsdesterritoires.fr/cs/BlobServer?blobkey=id&blobnocache=true&blobwhere=1250171076233&blobheader=application%2Fpdf&blobcol=urldata&blobtable=MungoBlobs)
 * [Code source des travaux](https://github.com/openfisca/tutorial/tree/dea8d8fe13e7708af36d7ebfc3496dfb02485ad4/exemples/gt_non_recours)
+* Tester le simulateur [Mes Aides](https://mes-aides.gouv.fr)
 * Pour contribuer à OpenFisca, le [code source OpenFisca-France](https://github.com/openfisca/openfisca-france)
 * [Explorateur de la législation française](https://fr.openfisca.org/legislation) modélisée
 * [Documentation officielle OpenFisca](https://openfisca.org/doc/)
