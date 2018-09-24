@@ -31,9 +31,9 @@ Aujourd’hui, il y a une dizaine de méthodes de calcul des revenus d’un foye
 
 Nous avons alors pris le parti d'étudier cela sur des foyers recevant le [RSA](https://fr.openfisca.org/legislation/rsa), la [PPA](https://fr.openfisca.org/legislation/ppa) ou les aides au logement.
 
-Notre hypothèse était qu’en collant plus aux situations des personnes, les aides s’appliqueraient au plus près de leur besoin, et cela simplifierait la compréhension de la façon dont elles sont calculées.
+Notre hypothèse était qu’en collant plus aux variations de situations des personnes, les aides s’appliqueraient au plus près de leur besoin, et cela simplifierait la compréhension de la façon dont elles sont calculées.
 
-En tant que contributeurs à [OpenFisca](https://fr.openfisca.org), nous voulions alors savoir :
+En tant que contributeurs à [OpenFisca](https://fr.openfisca.org), nous voulions aussi savoir :
 * dans quelle mesure pouvions-nous utiliser [OpenFisca](https://fr.openfisca.org) pour accompagner la conception d’une réforme ?
 * quelle était l'expérience des utilisateurs d'[OpenFisca](https://fr.openfisca.org) qui voulaient simuler l'impact d'une reforme ?
 
@@ -44,19 +44,17 @@ Nous nous sommes lancé.e.s dans l'exercice sans vision claire ni du périmètre
 
 ## La rencontre des experts de la loi et des experts du code
 
-L'objectif devenait alors de définir quels types de réformes tester et, sur quelles typologies de foyers simuler et évaluer leurs impacts. 
-
-Nous avons commencé par définir 7 scenarios de réformes avec les experts métiers. Nous avons lancé cette initiative sans filet, en nous laissant la possibilité d’adapter notre travail à ce que nous allions découvrir au fur et à mesure. Ceci nous a appris comment faire dialoguer ces deux domaines que sont l'expertise de la loi et le développement informatique : la maïeutique pour partir d'une idée et aller à une réforme calculable.
+Nous avons déterminé 7 scenarios de réformes avec les experts métiers. Nous avons lancé cette initiative sans filet, en nous laissant la possibilité d’adapter notre travail à ce que nous allions découvrir au fur et à mesure. Ceci nous a appris comment faire dialoguer ces deux domaines que sont l'expertise de la loi et le développement informatique : la maïeutique pour partir d'une idée et aller à une réforme calculable.
 
 En bref : temps réduit, environnements techniques très variables, compétences diversifiées. 
 
-Nous nous sommes vite rendu compte que pour accompagner au mieux les travaux du GT, nous devions en priorité créer des outils de communication et de visualisation. Pour nous permettre de faire cela, nous avons réduit au fur et à mesure le périmètre des réformes pour retenir 2 scenarios.
+Nous nous sommes vite rendu compte que pour accompagner au mieux les travaux du GT, nous devions en priorité créer des outils de communication et de visualisation. Nous avons donc réduit au fur et à mesure le périmètre des réformes pour retenir 2 scénarios.
 
 ### Simplifier, c'est d'abord comprendre la complexité du droit.
 
-Avant de le coder ou de définir les contours d'une réforme, le premier apprentissage est de comprendre l'esprit de la loi.
+Avant d'écrire une réforme en code informatique, voire même en définir les contours, le premier apprentissage est de comprendre l'esprit de la loi.
 
-Les raisons de chaque subtilité (par exemple, l’effet figé qui consiste à verser un montant identique entre les deux dates d’évaluation d’une aide) doivent être considérées pour savoir quelle typologie de situation sera affectée par un changement.
+Comprendre les raisons de chaque subtilité (par exemple, l’effet figé qui consiste à verser un montant identique entre les deux dates d’évaluation d’une aide) doivent être considérées pour savoir quelle typologie de situation sera affectée par la réforme.
 
 Il est facile de se perdre dans la nébuleuse du droit social, même accompagné par des experts.
 
@@ -72,14 +70,14 @@ Devant la complexité législative inhérente à la diversité des situations fa
 C’est le pari du service [Mes Aides](https://mes-aides.gouv.fr), une interface qui structure et simplifie la demande d’information à l’utilisateur, puis qui utilise [OpenFisca](https://fr.openfisca.org) pour calculer les droits sociaux auxquels cet utilisateur peut prétendre.
 Une partie de la solution peut se trouver dans l’ordonnancement des informations et la pédagogie.
 
-Les micro-simulateurs comme [OpenFisca](https://fr.openfisca.org) dont la précision de calcul va jusqu'à l'individu ont un rôle à jouer car ils permettent de "Mieux comprendre comment fonctionne le droit adapté à ma situation."
+Les micro-simulateurs comme [OpenFisca](https://fr.openfisca.org) dont la précision de calcul va jusqu'à l'individu ont un rôle à jouer car ils permettent de «Mieux comprendre comment fonctionne le droit adapté à ma situation.».
 
 ## Comment les réformes affectent les foyers : un exercice de communication politique
 
 En parallèle des scénarios de réforme, nous avons créé un jeu de situations familiales pour lesquelles l'impact de ces réformes allait être évalué. Cela permet de tester les réformes sur des cas concrets et voir comment des changements dans la loi affectent les foyers.
-Ces situations (célibataire avec enfant/sans enfants, sénior touchant une retraite…) étaient issues des situations du [livret du pouvoir d'achat du Ministère du Budget](https://www.economie.gouv.fr/files/files/PLF2018/bro-pouvoir-achat-bat-web-10h.pdf) et étendues par des situations de personnes aux revenus plus fluctuants. 
+Ces situations (célibataire avec enfant/sans enfants, sénior touchant une retraite…), issues des situations du [livret du pouvoir d'achat du Ministère du Budget](https://www.economie.gouv.fr/files/files/PLF2018/bro-pouvoir-achat-bat-web-10h.pdf), ont été étendues par des situations de personnes aux revenus plus fluctuants. 
 
-Et, nous nous sommes finalement concentrés sur une réforme qui considère les revenus des 12 derniers mois comme base de ressources. Cela nous a en particulier permis de générer les graphiques suivants :
+Nous nous sommes finalement concentrés sur une réforme qui considère les revenus des 12 derniers mois comme base de ressources. Cela nous a en particulier permis de générer les graphiques suivants :
 
 ![Graphes de comparaison de différentes bases ressources par cas types](/img/posts/2018-09-21_openfisca_comparaison_bases_ressources.png)  
 **Comparaison par cas type de différentes bases ressources pour l'aide au logement.**
@@ -126,12 +124,10 @@ En sortant de cet exercice, nous avons enrichi notre outillage pour accompagner 
 
 ## Conclusion
 
-Le logiciel de mico-simulation socio-fiscale [OpenFisca](https://fr.openfisca.org) peut être utilisé pour créer des simulations de réformes dans le cadre de la création de nouvelles lois.
+Le logiciel [OpenFisca](https://fr.openfisca.org) peut être utilisé pour créer des simulations de réformes dans le cadre de la création de nouvelles lois.
 Son code source ouvert à tous et la forme mathématique des formules de calcul permet à différents experts d’échanger sur les méthodes de calculs.
-La possibilité de simuler l’impact de réformes au niveau des individus et des familles donne des clefs pour mitiger les effets de bords potentiels.
-Et, la mise à disposition de cas types et d’exemples de visualisation permet de donner une base de travail qui parle aussi bien aux experts qu’au grand public.
-
-Ainsi, pendant quelque temps, vos revenus actuels décideront peut-être encore de vos aides sociales dans deux ans mais vous saurez plus aisément pourquoi et les personnes souhaitant simplifier ces règles sont plus en capacité d'évaluer leurs propositions de réformes sur votre situation particulière et de vous les communiquer.
+Par ailleurs, la possibilité de simuler l’impact de réformes au niveau des individus et des familles donne des clefs pour mitiger les effets de bords potentiels.
+Enfin, la mise à disposition de cas types et d’exemples de visualisation permet de donner une base de travail qui peut aussi bien parler aux experts qu’au grand public.
 
 ## Pour aller plus loin
 
