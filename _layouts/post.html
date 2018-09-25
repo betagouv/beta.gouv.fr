@@ -35,20 +35,21 @@ layout: default
           </div>
         {% endif %}
 
-        {% if page.authors %}
-        <address class="ui stackable cards">
-          {% for author in page.authors %}
-          {% include author.html id=author size='small' %}
-          {% endfor %}
-        </address>
-        {% endif %}
-
-        <footer>
-          <h3>Un avis, une question ?</h3>
-          <p>Écrivez-nous <a href="https://twitter.com/intent/tweet?text=%40BetaGouv%20Au%20sujet%20de%20{{ page.title | uri_escape }}%20%3a%20">@BetaGouv sur Twitter</a> ou envoyez-nous <a href="mailto:social@beta.gouv.fr?subject={{ page.title | uri_escape }}">un mail</a>.</p>
-          <p>Vous avez repéré une coquille ? <a href="https://github.com/betagouv/beta.gouv.fr/edit/master/{{ page.path }}">Corrigez-la</a> !</p>
-        </footer>
       </div>
+
+      {% if page.authors %}
+      <div class="article__author-list">
+        {% for author in page.authors %}
+        {% include author.html id=author size='small' %}
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      <footer>
+        <h3>Un avis, une question ?</h3>
+        <p>Écrivez-nous <a href="https://twitter.com/intent/tweet?text=%40BetaGouv%20Au%20sujet%20de%20{{ page.title | uri_escape }}%20%3a%20">@BetaGouv sur Twitter</a> ou envoyez-nous <a href="mailto:social@beta.gouv.fr?subject={{ page.title | uri_escape }}">un mail</a>.</p>
+        <p>Vous avez repéré une coquille ? <a href="https://github.com/betagouv/beta.gouv.fr/edit/master/{{ page.path }}">Corrigez-la</a> !</p>
+      </footer>
     </div>
   </div>
 </section>

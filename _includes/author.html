@@ -15,16 +15,10 @@
 
 <div class="article__author panel{% if include.isInactive %} inactive{% endif %}">
 
-    {% if description.link %}
-        <a class="content" href="{{ description.link }}" target="_blank" rel="noopener">
-    {% else %}
-        <div class="content">
-    {% endif %}
-
-    <div class="article__author-info">
-        <div class="article__author-name">{{ description.fullname }}</div>
-        <div class="article__author-role">{{ description.role }}</div>
-    </div>
+  <div class="article__author-info">
+      <div class="article__author-name">{{ description.fullname }}</div>
+      <div class="article__author-role">{{ description.role }}</div>
+  </div>
 
     {% if include.size != 'small' %}
         {{ avatar }}
@@ -35,14 +29,10 @@
     {% endif %}
 
     <div class="article__author-description">
+      {% if description.link %}<a href="{{ description.link }}" target="_blank" rel="noopener">{% endif %}
         {{ description.content | markdownify }}
+      {% if description.link %}</a>{% endif %}
     </div>
-
-    {% if description.link %}
-        </a>
-    {% else %}
-        </div>
-    {% endif %}
 
     {% if description.startups and include.size != 'small' %}
         <div class="card__extra">
