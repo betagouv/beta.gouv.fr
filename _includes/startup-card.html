@@ -78,7 +78,7 @@
                                 {% assign isInactive = true %}
                         {% endif %}
                     {% endif %}
-                    <div class="ui tiny label {% if isInactive %}inactive{% endif %}">{{author.fullname}}</div>
+                    <div class="label {% if isInactive %}label--inactive{% endif %}">{{author.fullname}}</div>
                 {% endif %}
             {% endfor %}
         {% endfor %}
