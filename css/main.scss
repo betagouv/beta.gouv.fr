@@ -170,7 +170,7 @@ iframe {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-gap: 30px;
-    margin-top: 25px;
+    margin: 25px 0 0;
     justify-items: center;
     justify-content: space-evenly;
   }

@@ -28,13 +28,13 @@ a.card__content {
 }
 
 #alumni {
-    margin: 6em 0 2em;
+    margin: 6em auto 2em;
 }
 
-#alumni ~ .author img {
+#alumni .card__cover img {
     filter: grayscale(100%);
 }
 
-#alumni ~ .author img:hover {
+#alumni .card__cover img:hover {
     filter: grayscale(0%)
 }
