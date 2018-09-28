@@ -1,9 +1,9 @@
 ---
 title: Preuve de covoiturage
-mission: Lutter contre l'autosolisme en incitant les citoyens à covoiturer
+mission: Certifiez qu'un covoiturage a bien eu lieu
 owner: DINSIC
 incubator: dinsic 
-status: investigation
+status: construction
 start: 2018-06-04 
 end: 
 link: http://covoiturage.strikingly.com/
