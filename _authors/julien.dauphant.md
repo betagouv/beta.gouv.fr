@@ -3,7 +3,7 @@ fullname: Julien Dauphant
 role: Développeur
 link: https://twitter.com/jdauphant
 start: 2016-11-03
-end: 2018-09-30
+end: 2019-03-01
 employer: independent/octo
 startups :
     - plante-et-moi
