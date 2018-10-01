@@ -1,5 +1,5 @@
 ---
-roles: un.e lead développeur.e
+roles: un·e lead développeur·se
 techno: Choix technologiques ouverts parmi les solutions libres du marché
 open: true
 ---
