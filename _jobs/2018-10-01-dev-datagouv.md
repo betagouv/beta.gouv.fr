@@ -1,12 +1,12 @@
 ---
 friend: 'data.gouv.fr'
-roles: un.e développeur.e
+roles: un·e développeur·se
 techno: Flask / Vue.JS 
 type: 'friend'
 open: true
 ---
 
-[data.gouv.fr](https://data.gouv.fr) cherche un·e dév intéressé·e par les données ouvertes et l'open source, pour un poste de contractuel (~CDD) de 3 ans.
+[data.gouv.fr](https://data.gouv.fr) cherche un·e développeur·se intéressé·e par les données ouvertes et l'open source, pour un poste de contractuel (~CDD) de 3 ans.
 
 <!--more-->
 
