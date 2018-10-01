@@ -6,7 +6,7 @@ incubator: dinsic
 status: d'investigationn
 start: 2018-09-03
 end: 
-link: A venir
+link:
 repository:
 stats: false
 contact: lery.jicquel@beta.gouv.fr # sera visible de tous
