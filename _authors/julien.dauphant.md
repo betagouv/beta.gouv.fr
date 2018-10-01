@@ -8,6 +8,7 @@ employer: independent/octo
 startups :
     - plante-et-moi
     - aplus
+    - startup-jf
 ---
 
 Chercheur de simplicité
