@@ -1,4 +1,4 @@
-------
+---
 fullname: Sophie Jacquemont
 role: Intrapreneur
 avatar: https://image.noelshack.com/fichiers/2018/40/1/1538399580-skx3ldpq.jpg
