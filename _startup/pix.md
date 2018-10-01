@@ -1,15 +1,15 @@
 ---
 title: PIX
-mission: Mesurer, développer et valoriser ses compétences numériques
-owner: Ministère de l'Éducation nationale
+mission: Cultiver ses compétences numériques
+owner: Groupement d’intérêt public PIX
 incubator: dinsic
 status: consolidation
 start: 2016-06-08
 end:
-link: https://pix.beta.gouv.fr
+link: https://pix.fr
 repository: https://github.com/1024pix/pix/
 stats: false
-contact: contact@pix.beta.gouv.fr
+contact: contact@pix.fr
 ---
 
 PIX s'adresse à tous les citoyen•ne•s français•es et francophones (élèves, étudiant•e•s, professionnel•le•s, décrocheur•se•s, demandeur•se•s d'emploi, etc.) qui souhaitent mesurer, développer et valoriser leurs compétences numériques.
