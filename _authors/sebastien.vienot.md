@@ -1,4 +1,4 @@
-------
+---
 fullname: Sebastien Vienot
 role: Intrapreneur
 avatar: https://beta.gouv.fr/img/logo-generique-startup-carre.jpg
