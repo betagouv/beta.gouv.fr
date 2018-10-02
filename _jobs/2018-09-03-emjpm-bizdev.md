@@ -1,7 +1,7 @@
 ---
 roles: un·e bizdev
 startup: e-mjpm
-open: true
+open: false
 ---
 
 La Start-up d'État e-MJPM est en phase de croissance et a besoin de toi pour déployer son dispositif dans les régions !
