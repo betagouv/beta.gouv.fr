@@ -1,7 +1,7 @@
 ---
 roles: un·e dev web 
 startup: preuve-de-covoiturage
-open: true
+open: false
 ---
 
 **L'équipe Covoiturage recrute un·e développeur·se pour lutter contre [l'autosolisme](https://fr.wiktionary.org/wiki/autosolisme) en incitant les citoyens à covoiturer.**
