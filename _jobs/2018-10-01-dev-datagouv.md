@@ -1,8 +1,8 @@
 ---
 friend: 'data.gouv.fr'
+startup: data.gouv.fr
 roles: un·e développeur·se
-techno: Flask / Vue.JS 
-type: 'friend'
+techno: Flask / Vue.JS
 open: true
 ---
 
