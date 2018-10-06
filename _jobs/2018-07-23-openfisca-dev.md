@@ -6,7 +6,7 @@ type: 'friend'
 open: true
 ---
 
-[OpenFisca](https://openfisca.org/fr/) cherche un·e dév intéressé·e par la collaboration et l'entraide, pour un CDD (6 mois).
+[OpenFisca](https://openfisca.org/fr/) cherche un·e dév intéressé·e par la collaboration et l'entraide.
 
 Souhaitez-vous aider des gouvernements et la société civile à construire des services innovants, qui aident les citoyens à mieux comprendre le système socio-fiscal ?
 
@@ -52,7 +52,7 @@ Cela consistera notamment à :
 
 ## Modalités
 
-- Poste ouvert pour un CDD vacataire de 6 mois.
+- Poste ouvert pour un CDD plein temps vacataire de 6 mois ou freelance à 3/5e.
 - La rémunération est établie en fonction du diplôme pour les jeunes diplômé·e·s, ou des 12 dernières fiches de paie.
 - Télétravail partiel bienvenu, avec une présence régulière à Paris 75007 (Ségur) pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification.
 - Démarrage dès que possible.
