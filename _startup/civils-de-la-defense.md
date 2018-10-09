@@ -30,4 +30,4 @@ Le service rassemble en un espace unique toutes les étapes-clés du recrutement
 
 L’outil final traitera à la fois de l’expérience candidat et du process administratif en back-office, tout en assurant une visibilité accrue des offres du Ministère des Armées. Afin de répondre au besoin de recrutements immédiats, le parcours candidat est développé en priorité, la visibilité employeur intervenant dans un second temps.
 
-L’objectif est de déployer en situation réelle une V0 en septembre-octobre 2018 pour un nombre réduit d’offres d’emploi critiques au sein des services du ministère en charge de l'informatique, de l'infrastructure/génie civil et de la maintenance des matériels de l'armée de Terre.
+L’objectif est de déployer en situation réelle une V0 en octobre 2018 pour un nombre réduit d’offres d’emploi critiques au sein des services du ministère en charge de l'informatique, de l'infrastructure/génie civil et de la maintenance des matériels de l'armée de Terre.
