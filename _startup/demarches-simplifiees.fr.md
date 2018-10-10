@@ -9,7 +9,7 @@ end:
 link: https://www.demarches-simplifiees.fr
 repository: https://github.com/betagouv/tps
 stats: true
-contact: contact@demarches-simplifiees.fr
+contact: https://www.demarches-simplifiees.fr/contact
 redirect_from:
   - /startup/tps
 ---
@@ -65,5 +65,4 @@ demarches-simplifiees.fr est pour vous.
 demarches-simplifiees.fr est développé par l’incubateur de services numériques de la direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC), rattaché aux services du Premier ministre.
 
 Vous voulez en savoir plus ? Vous voulez une démo ? Pour nous contacter :
-- Email : contact@demarches-simplifiees.fr
-- Téléphone : 01 76 42 02 87
+- https://www.demarches-simplifiees.fr/contact
