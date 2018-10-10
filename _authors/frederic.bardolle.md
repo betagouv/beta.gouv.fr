@@ -7,4 +7,4 @@ employer: admin/minarm
 github: seiteta
 ---
 
-🤷🏻‍♂️
+¯\_(ツ)_/¯
