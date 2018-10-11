@@ -1,7 +1,7 @@
 ---
 title: e-Chauffeur
 mission: Optimiser le service de voiture de transport avec chauffeur au sein des bases de défense
-owner: le ministère des Armées
+owner: Ministère des Armées
 incubator: dinsic
 status: construction
 start: 2018-09-01
