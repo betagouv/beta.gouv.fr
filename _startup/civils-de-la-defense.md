@@ -1,7 +1,7 @@
 ---
 title: Civils de la Défense
 mission: Recruter simplement des agents civils sous contrat
-owner: le ministère des Armées
+owner: Ministère des Armées
 incubator: dinsic
 status: construction
 start: 2018-06-01
