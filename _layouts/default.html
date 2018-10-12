@@ -66,8 +66,8 @@
         <script type="text/javascript" src="/js/lib/modernizr-custom.min.js"></script>
         <script type="text/javascript" src="/js/cross-browser.js"></script>
 
-        <script type="text/javascript" src="https://oss.maxcdn.com/jquery/2.2.2/jquery.min.js"></script>
-        <script type="text/javascript" src="https://oss.maxcdn.com/semantic-ui/2.1.8/components/transition.min.js"></script>
+        <script type="text/javascript" src="https://unpkg.com/jquery@2.2.2/dist/jquery.min.js"></script>
+        <script type="text/javascript" src="https://unpkg.com/semantic-ui@2.1.8/dist/components/transition.min.js"></script>
 
         {% for file in page.additional_js %}
             <script type="text/javascript" src="{% if file contains '://' %}{{ file }}{% else %}/js/{{ file }}.js{% endif %}"></script>
