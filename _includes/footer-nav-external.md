@@ -1,4 +1,4 @@
-- [Une mission de la DINSIC](http://modernisation.gouv.fr)
+- [Une mission de la DINSIC](https://www.numerique.gouv.fr/)
 - [Améliorer cette page](https://github.com/betagouv/beta.gouv.fr/edit/master/{{ page.path }})
 - [Suivi d'audience et vie privée](/suivi)
 - [Conventions de partenariat](https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/)

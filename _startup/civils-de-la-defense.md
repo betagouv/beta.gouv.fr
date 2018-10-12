@@ -1,7 +1,7 @@
 ---
 title: Civils de la Défense
 mission: Recruter simplement des agents civils sous contrat
-owner: Ministère des armées
+owner: Ministère des Armées
 incubator: dinsic
 status: construction
 start: 2018-06-01
@@ -20,7 +20,7 @@ Enfin, les processus internes de recrutement au sein du ministère font aujourd�
 
 ## Civils de la Défense : simplifier le recrutement des agents civils
 
-Civils de la Défense est un service numérique qui s'adresse principalement aux employeurs et aux candidats. 
+Civils de la Défense est un service numérique qui s'adresse principalement aux employeurs et aux candidats.
 
 Pour le candidat, Civils de la Défense est un outil qui fournit une information complète, fiable et actualisée sur les offres d’emplois, les missions, les métiers et permettant aux futurs agents de  déposer leurs candidatures aux offres du Ministère qu’ils soient jeunes diplômés ou confirmés.
 
@@ -30,4 +30,4 @@ Le service rassemble en un espace unique toutes les étapes-clés du recrutement
 
 L’outil final traitera à la fois de l’expérience candidat et du process administratif en back-office, tout en assurant une visibilité accrue des offres du Ministère des Armées. Afin de répondre au besoin de recrutements immédiats, le parcours candidat est développé en priorité, la visibilité employeur intervenant dans un second temps.
 
-L’objectif est de déployer en situation réelle une V0 en septembre-octobre 2018 pour un nombre réduit d’offres d’emploi critiques au sein des services du ministère en charge de l'informatique, de l'infrastructure/génie civil et de la maintenance des matériels de l'armée de Terre.
+L’objectif est de déployer en situation réelle une V0 en octobre 2018 pour un nombre réduit d’offres d’emploi critiques au sein des services du ministère en charge de l'informatique, de l'infrastructure/génie civil et de la maintenance des matériels de l'armée de Terre.
