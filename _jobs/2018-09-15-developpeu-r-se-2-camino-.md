@@ -3,7 +3,7 @@ roles: un·e développeur·se node.js et data
 startup: camino
 techno: node.js
 junior: false
-open: true
+open: false
 ---
 [camino.beta.gouv.fr](https://camino.beta.gouv.fr) cherche un·e développeur·se avec une forte appétence pour les données afin de constituer le cadastre minier numérique ouvert français destiné à ouvrir les projets miniers pour mieux les gérer.
 
