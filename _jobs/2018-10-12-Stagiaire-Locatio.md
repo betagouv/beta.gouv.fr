@@ -4,7 +4,7 @@ startup: locatio
 open: true
 ---
 
-**La Startup d’Etat Locatio recherche un.e business developeur pour aider l'intrapreneur dans la prise d'ampleur du projet !**
+**La Startup d’Etat Locatio recherche un.e business developeur pour aider l'intrapreneur dans la prise d'ampleur du service !**
 
 <!--more-->
 
