@@ -36,7 +36,7 @@ En plus d'avoir un code libre, le moteur de calcul sous-jacent au simulateur per
 
 ## Budget 💶
 
-La startup a un budget annuel pour l'année 2018 de _220 mille euros_ (tout compris mais hors TVA). La DINSIC et l'ACOSS la financent à parts égales.
+La startup a un budget annuel pour l'année 2018 de _220 000 euros_ (tout compris mais hors TVA). La DINSIC et l'ACOSS la financent à parts égales.
 
 
 
