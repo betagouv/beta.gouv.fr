@@ -32,22 +32,22 @@ Les choix technologiques sont ouverts parmi les solutions libres du marché. Vou
 Vous êtes entièrement en charge des développements, de l’administration système au CSS, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, de monitoring.
 
 Vous êtes en mesure de jouer sur 2 tableaux :
-L’exploration : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
-L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
+- L’exploration : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
+- L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
 
 ## Compétences
 - Développeur web avec une bonne expérience dans (au moins) un framework web moderne (Node.js, Rails, Symfony, Laravel, Django/Flask…).
 - Bonne maîtrise du développement front-end (HTML, CSS, JavaScript).
 - Expérience en conception orientée utilisateur et en expérience utilisateur.
 - Habitude des modalités de contribution du logiciel libre (issues, PR…).
-- Expérience appréciée sur des projets incluant de géolocalisation et de la synthèse vocale
+- Expérience appréciée sur des projets incluant de la géolocalisation et de la synthèse vocale
 
 
 ## Modalités
 - Poste ouvert pour un·e indépendant·e pour un contrat de 3 mois.
-- Télétravail partiel bienvenu, avec une présence régulière à Paris pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification
+- Télétravail partiel bienvenu, avec une présence régulière à Paris pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification.
 - Temps partiel accepté (modalités à débattre).
-- Démarrage en mi-novembre
+- Démarrage en mi-novembre.
 
 
 Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à [frederic.bardolle@def.gouv.fr](mailto:frederic.bardolle@def.gouv.fr). L’entretien se fera sur Paris ou en visio.
