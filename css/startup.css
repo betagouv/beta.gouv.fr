@@ -22,6 +22,15 @@
   width: 100%;
 }
 
+.article__author.panel.inactive {
+    color: #a0a0a0;
+    background-color: #f7f7f7;
+}
+
+.article__author.panel.inactive img {
+    opacity: 0.4;
+}
+
 .grid .panel + .panel {
     margin-left: 0;
 }
