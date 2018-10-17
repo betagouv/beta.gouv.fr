@@ -1,6 +1,6 @@
 ---
 title: Startup Cour des comptes
-mission: Simplifier les échanges entre les juridictions financières et leurs interlocuteurs. Supprimer les irritants rencontrés par les agents des organismes contrôlés et des juridictions financières durant les procédures de contrôle.
+mission: Supprimer les irritants rencontrés par les agents des organismes contrôlés et des juridictions financières durant les procédures de contrôle.
 owner: Cour des comptes
 incubator: dinsic
 status: investigationn
