@@ -9,6 +9,7 @@ startups :
     - plante-et-moi
     - aplus
     - startup-jf
+    - signalement
 ---
 
 Chercheur de simplicité
