@@ -55,10 +55,10 @@ L’équipe de beta.gouv.fr peut être contactée directement à [contact@beta.g
 
 ## Liens utiles
 
-* [Guide de lancement](https://drive.google.com/open?id=1Or8cXtUvn3wujLMCqU30BzV2GlvCaW_c)
+* [Guide de lancement](https://drive.google.com/open?id=1Or8cXtUvn3wujLMCqU30BzV2GlvCaW_c) : facteurs clés de succès, conditions d'engagement, appui opérationnel, formations, supports contractuels ;
 
-* [wiki](https://github.com/betagouv/beta.gouv.fr/wiki) sur Github ;
+* [wiki](https://github.com/betagouv/beta.gouv.fr/wiki) : processus internes ;
 
-* [Des Startups d'État à l'État plateforme](http://www.fondapol.org/etude/pierre-pezziardi-et-henri-verdier-des-startups-detat-a-letat-plateforme/) Les produits numériques des incubateurs publics sont la face émergée d'une transition culturelle profonde des grandes organisations (H. Verdier, P. Pezziardi éd. Fondapol, janvier 2017) ;
+* [Des Startups d'État à l'État plateforme](http://www.fondapol.org/etude/pierre-pezziardi-et-henri-verdier-des-startups-detat-a-letat-plateforme/) : les produits numériques des incubateurs publics sont la face émergée d'une transition culturelle profonde des grandes organisations (H. Verdier, P. Pezziardi éd. Fondapol, janvier 2017) ;
 
-* [rapport d’activité 2017](https://beta.gouv.fr/rapportannuel.pdf) de la communauté beta.gouv.fr.
+* [Rapport d’activité](https://beta.gouv.fr/rapportannuel.pdf) de la communauté beta.gouv.fr.
