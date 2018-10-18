@@ -1,11 +1,42 @@
 .screenshot {
-    display: block;
-    margin: auto;
-    max-width: 100%;
-    max-height: 30em;
-    width: auto !important;
+  display: block;
+  margin: auto;
+  margin-bottom: 2em;
+  max-width: 100%;
+  max-height: 30em;
+  width: auto !important;
+
 }
 
-.card .startup-header {
-    text-align: center;
+.startup-header {
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  grid-gap: 2em;
+}
+
+.article__author {
+  width: 100%;
+}
+
+.article__author.panel.inactive {
+    color: #a0a0a0;
+    background-color: #f7f7f7;
+}
+
+.article__author.panel.inactive img {
+    opacity: 0.4;
+}
+
+.grid .panel + .panel {
+    margin-left: 0;
+}
+
+
+.content p img {
+  display: block;
+  margin: 0 auto;
 }

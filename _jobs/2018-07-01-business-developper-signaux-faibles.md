@@ -1,7 +1,7 @@
 ---
 roles: un business developer
 startup: signaux-faibles
-open: true
+open: false
 ---
 [La start-up d'État Signaux Faibles](https://beta.gouv.fr/startup/signaux-faibles.html) est en phase de croissance et a besoin de toi pour déployer son dispositif dans les régions !  
 

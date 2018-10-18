@@ -1,23 +1,18 @@
 ---
 layout: default
 ---
-<div class="ui container padded">
-    <div class="ui fluid card">
-        <div class="content">
-            <div class="ui text container">
-                <h1>{{ page.title }}</h1>
-                <h2>{{ page.owner }}</h2>
-            </div>
+<section class="section-grey">
+    <div class="container panel">
+        <div class="header startup-header">
+          <h2>{{ page.title }} - {{ page.owner }}</h2>
         </div>
 
         <div class="content">
-            <div class="ui text container">
-                {{ content }}
-            </div>
+            {{ content }}
         </div>
 
         <div class="content">
-            <ul class="ui description text container">
+            <ul>
                 <li>
                     Adresse : {{ page.address }}
                 </li>
@@ -36,13 +31,17 @@ layout: default
                 </li>
             </ul>
         </div>
+
+        <h3>Nos Startups</h3>
+
+        <div class="content">
+            <div class="grid">
+                {% assign incubator_id = page.id | remove: '/incubateur/' %}
+                {% assign startups = site.startup | where:'incubator',incubator_id %}
+                {% for startup in startups %}
+                    {% include startup-card.html description=startup %}
+                {% endfor %}
+            </div>
+        </div>
     </div>
-    <h2 class="ui divider horizontal">Nos Startups</h2>
-    <div class="ui stackable two cards">
-        {% assign incubator_id = page.id | remove: '/incubateur/' %}
-        {% assign startups = site.startup | where:'incubator',incubator_id %}
-        {% for startup in startups %}
-            {% include startup-card.html description=startup %}
-        {% endfor %}
-    </div>
-</div>
+</section>

@@ -1,28 +1,28 @@
 ---
-roles: 5 chargé·e·s de développement territoral
+roles: 5 chargé·e·s de développement territorial
 startup: pass-culture
 open: true
 ---
 
-L'équipe produit du Pass Culture s'agrandit et recherche des chargé·e·s de développement expérimenté·es pour mener à bien son déploiement sur les cinq territoires d'expérimentation (Bas-Rhin, Seine-Saint-Denis, Hérault, Guyane, Finistère). Si vous voulez construire une plateforme grand public qui facilite l’accès des jeunes au spectacle vivant, à la littérature ou encore à toutes les formes de pratiques culturelles, rejoignez-nous !
+L'équipe produit du Pass Culture s'agrandit et recherche des chargé·e·s de développement expérimenté·e·s pour mener à bien son déploiement sur les cinq territoires d'expérimentation (Bas-Rhin, Seine-Saint-Denis, Hérault, Guyane, Finistère). Si vous voulez construire une plateforme grand public qui facilite l’accès des jeunes au spectacle vivant, à la littérature ou encore à toutes les formes de pratiques culturelles, rejoignez-nous !
 
 <!--more-->
 
 ## Pass Culture
 
 Depuis janvier, le Ministère de la Culture a lancé sa 1re Startup d’État, et pas la moindre : la politique d’accès à la culture pour les jeunes ! Venez rejoindre notre équipe au sein de l'Association de Préfiguration du Pass pour développer et exploiter notre plateforme numérique de médiation culturelle :
- * une application mobile universelle, tout à la fois futur agenda national de référence des offres culturelles géolocalisés, mise en avant d’offres spécifiques pour les jeunes de 18 ans et plateforme de services pour lever les freins d’accès à la culture.
- * un back-office permettant aux acteurs culturels (directeurs de théâtre/producteurs/programmeurs/libraires…) de mettre en avant leurs offres sur la plateforme.
+ * une application mobile universelle, tout à la fois futur agenda national de référence des offres culturelles géolocalisées, mise en avant d’offres spécifiques pour les jeunes de 18 ans et plateforme de services pour lever les freins d’accès à la culture.
+ * un back-office permettant aux professions culturelles (directions de théâtre, production, programmation, libraires…) de mettre en avant leurs offres sur la plateforme.
 
 ## Équipe
 
-Hébergée par le ministère de la culture, la Start-up d’Etat Pass Culture a en charge la conception de l’application, de sa phase de test auprès de jeunes dans cinq départements pilotes jusqu’à son déploiement au niveau national. Un comité d’orientation a par ailleurs été installé par la ministre de la culture en mars 2018. Composé d’artistes, de programmateurs culturels, de représentants du secteur associatif et des collectivités locales, de parlementaires, de hauts fonctionnaires, il débat des orientations en matière de conception du pass culture (offre culturelle intégrée au pass culture, articulation avec les « cartes culture » proposées par les collectivités locales, mise en valeur de certaines opérations culturelles, innovations dans les modes d’accès à la culture pour les jeunes, etc.).
+Hébergée par le Ministère de la Culture, la Start-up d’État Pass Culture a en charge la conception de l’application, de sa phase de test auprès de jeunes dans cinq départements pilotes jusqu’à son déploiement au niveau national. Un comité d’orientation a par ailleurs été installé par la ministre de la Culture en mars 2018. Composé d’artistes, de programmateur·trices·s culturel·le·s, de représentant·e·s du secteur associatif et des collectivités locales, de parlementaires, de haut·e·s fonctionnaires, il débat des orientations en matière de conception du Pass Culture (offre culturelle intégrée au Pass Culture, articulation avec les « cartes culture » proposées par les collectivités locales, mise en valeur de certaines opérations culturelles, innovations dans les modes d’accès à la culture pour les jeunes, etc.).
 
-Le développement opérationnel est assuré par l'équipe produit, travaillant en lien direct avec le cabinet de la ministre de la Culture. L’équipe produit est aujourd’hui constituée de 8 développeurs informatiques et 5 chargés de développement territorial, sous la responsabilité d’un chef de produit.
+Le développement opérationnel est assuré par l'équipe produit, travaillant en lien direct avec le cabinet de la ministre de la Culture. L’équipe produit est aujourd’hui constituée de 8 développeur·se·s informatiques et 5 chargé·e·s de développement territorial, sous la responsabilité d’un chef de produit.
 
 ## Description des postes
 
-Vous participerez, sur votre territoire d’expérimentation et en lien avec l’ensemble de l’équipe produit, à l'animation de la communauté des utilisateurs du Pass Culture. Vous serez positionné.e au sein de l’équipe produit du Pass, dans un premier temps sous la responsabilité de l’actuel chargé de développement du département, avant de prendre en charge en propre le territoire concerné dès l’extension du déploiement à de nouveaux territoires.
+Vous participerez, sur votre territoire d’expérimentation et en lien avec l’ensemble de l’équipe produit, à l'animation de la communauté utilisatrice du Pass Culture. Vous vous intégrerez au sein de l’équipe produit du Pass, dans un premier temps sous la responsabilité de l’actuel·le chargé·e de développement du département, avant de prendre en charge en propre le territoire concerné dès l’extension du déploiement à de nouveaux territoires.
 
 Cela consistera notamment à :
  * Mobiliser les collectivités et les services déconcentrés de l’Etat sur le département, en communiquant régulièrement sur le

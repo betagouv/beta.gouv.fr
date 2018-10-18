@@ -3,8 +3,7 @@ fullname: Vincent Lara
 role: Développeur
 link: https://github.com/l-vincent-l
 start: 2015-03-15
-end: 2018-05-31
-employer: independent/octo
+employer: independent/Codeurs en Liberté
 startups:
     - le-taxi
     - transport

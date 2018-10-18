@@ -21,6 +21,7 @@ future: false
 # Plugins
 plugins:
   - jekyll-redirect-from
+  - jekyll-remote-theme
 
 # Default author for blog posts, can be overridden in each post
 author:
@@ -74,3 +75,6 @@ excerpt_separator: <!--more-->
 
 sass:
   style: compressed
+  sass_dir: _sass
+
+remote_theme: thimy/template-jekyll

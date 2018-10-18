@@ -1,0 +1,13 @@
+---
+title: beta.gouv.fr
+nav:
+- 
+  label: Blog
+  target: _pages/blog.md
+- 
+  label: Menu dropdown
+  children:
+    -
+      label: Page
+      target: _pages/page.md
+

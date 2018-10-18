@@ -1,4 +1,4 @@
-body > main, body > footer .footer-space {
-    color: #FFF;
-    background: #26353f;
+main {
+    min-height: 100vh;
+    padding-top: 20vh;
 }

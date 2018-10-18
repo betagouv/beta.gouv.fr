@@ -1,59 +1,21 @@
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
 
-    <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <title>{% if page.title %}{{ layout.title | default: page.title }} — {% endif %}{{ site.title }}</title>
+    <meta property="og:title" content="{{ layout.title | default: page.title | default: site.title }}">
 
-    <link type="application/atom+xml" rel="alternate" href="{{ site.url }}/feed.xml" title="{{ site.title }}">
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/style/main.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css">
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}" />
+
+    <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="{{ site.title }}">
 
     {% capture description %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
     <meta name="description" content="{{ description }}">
     <meta property="og:description" content="{{ description }}">
-
-    {% if page.collection == 'posts' %}
-        <meta property="og:type" content="article"> {% comment %} Defaults to `website`, which is fine. {% endcomment %}
-
-        {% capture iso_date %}{{ page.date | date:'%Y-%m-%d' }}{% endcapture %}
-        <meta property="date" content="{{ iso_date }}">
-        <meta property="article:published_time" content="{{ iso_date }}">
-
-        {% for author in page.authors %}
-            <meta property="article:author:username" content="{{ author }}">
-        {% endfor %}
-    {% endif %}
-
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700" rel="stylesheet">
-
-    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/reset.min.css">
-    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/menu.min.css">
-    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/container.min.css">
-    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/grid.min.css">
-    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/divider.min.css">
-    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/card.min.css">
-    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/image.min.css">
-    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/transition.min.css">
-    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/form.min.css">
-    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/button.min.css">
-    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/input.min.css">
-    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/label.min.css">
-    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/segment.min.css">
-    <link rel="stylesheet" type="text/css" class="ui" href="https://oss.maxcdn.com/semantic-ui/2.1.8/components/list.min.css">
-
-
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link rel="stylesheet" type="text/css" href="/css/startup-card.css">
-    <link rel="stylesheet" type="text/css" href="/css/tooltip.css">
-
-    {% if page.layout != 'default' %}
-        <link rel="stylesheet" type="text/css" href="/css/{{ page.layout }}.css">
-    {% endif %}
-
-    {% for file in page.additional_css %}
-        <link rel="stylesheet" type="text/css"
-        href="{% if file contains '://' %}{{ file }}{% else %}/css/{{ file }}.css{% endif %}">
-    {% endfor %}
 
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/img/favicons/apple-touch-icon-60x60.png">
@@ -78,37 +40,33 @@
     <meta name="msapplication-config" content="/img/favicons/browserconfig.xml">
     <meta name="theme-color" content="#042075">
 
+    {% if page.collection == 'posts' %}
+        <meta property="og:type" content="article"> {% comment %} Defaults to `website`, which is fine. {% endcomment %}
+
+        {% capture iso_date %}{{ page.date | date:'%Y-%m-%d' }}{% endcapture %}
+        <meta property="date" content="{{ iso_date }}">
+        <meta property="article:published_time" content="{{ iso_date }}">
+
+        {% for author in page.authors %}
+            <meta property="article:author:username" content="{{ author }}">
+        {% endfor %}
+    {% endif %}
+
+    {% if page.layout != 'default' and page.layout != 'text' %}
+        <link rel="stylesheet" type="text/css" href="/css/{{ page.layout }}.css">
+    {% endif %}
+
+    {% for file in page.additional_css %}
+        <link rel="stylesheet" type="text/css"
+        href="{% if file contains '://' %}{{ file }}{% else %}/css/{{ file }}.css{% endif %}">
+    {% endfor %}
     {% capture canonical_url %}{{ site.url }}{{ page.url | replace:'index.html','' }}{% endcapture %}
     <link rel="canonical" href="{{ canonical_url }}">
     <meta property="og:url" content="{{ canonical_url }}">
 
 
-    {% capture mastheadImagePath %}/img/{{ page.path | replace: '_pages', 'pages' | replace: '_posts', 'posts' | replace: '_startup', 'startup' | remove: '/fr' | remove: '/en' | remove: '.html' | remove: '.md' }}.jpg{% endcapture %}
-    <meta name="thumbnail" content="{{ site.url }}{{ mastheadImagePath }}">
-    <meta property="og:image" content="{{ site.url }}{{ mastheadImagePath }}">
+    {% capture mastheadImagePath %}{{site.url}}/img/{{ page.path | replace: '_pages', 'pages' | replace: '_posts', 'posts' | replace: '_startup', 'startup' | remove: '/fr' | remove: '/en' | remove: '.html' | remove: '.md' }}.jpg{% endcapture %}
+    <meta name="thumbnail" content="{{ mastheadImagePath }}">
+    <meta property="og:image" content="{{ mastheadImagePath }}">
 
-    <style type="text/css">
-        #masthead, footer::before {
-            background-image: url("{{ mastheadImagePath }}");
-        }
-        @media (min-width: 1368px) {
-            #masthead, footer::before {
-                background-image: url("{{ mastheadImagePath | replace:'.jpg','@2x.jpg'}}"),
-                                    url("{{ mastheadImagePath }}"); /* fallback */
-            }
-        }
-        @media (min-width: 2736px) {
-            #masthead, footer::before {
-                background-image: url("{{ mastheadImagePath | replace:'.jpg','@4x.jpg'}}"),
-                                    url("{{ mastheadImagePath }}"); /* fallback */
-            }
-        }
-    </style>
-
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site:id" content="{{ twitter_id }}">
-
-    <!--[if lt IE 9]>
-        <script src="js/lib/html5shiv.min.js"></script>
-    <![endif]-->
 </head>

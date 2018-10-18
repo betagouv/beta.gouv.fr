@@ -6,8 +6,8 @@ incubator: dinsic
 status: construction
 start: 2018-06-01
 end:
-link: 
-repository: 
+link: http://site-1436014-7519-8367.strikingly.com/
+repository: https://github.com/betagouv/ClasseA12
 stats: false
 contact: contact@classea12.beta.gouv.fr
 ---
@@ -29,18 +29,18 @@ Le retour des enseignants pilote nous a permis d’identifier avec eux les besoi
 - Comment accompagner de manière bienveillante le nouveau dispositif ?
 
 L'objectif est de faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves.
- 
+
 # Le produit :
- 
+
 L’objectif du produit est de valoriser les retours d’expérience et les échanges de pratiques personnalisées entre pairs au moyen de vidéos échangées et commentées via une solution de type de réseau social.
 
 Ces vidéos seront filmées par les enseignants, pour les enseignants, en conditions réelles. Elle porteront sur les thématiques spécifiques aux classes à 12 et s'articuleront avec des communautés existantes.
 
 Ce réseau a vocation à favoriser la réflexion et le travail collectif dans un climat de bienveillance et d’horizontalité, en tenant compte de la réalité des journées des enseignants.
- 
+
 # Les premières étapes :
-Pour valider nos hypothèses et savoir ce qui fluidifiera le partage de partiques entre pairs, nous allons tester auprès d'enseignants et de communautés existantes la pertinence du format vidéo : 
-- l'intérêt des enseignants pour consulter, partager, commenter des contenus vidéos ; 
+Pour valider nos hypothèses et savoir ce qui fluidifiera le partage de partiques entre pairs, nous allons tester auprès d'enseignants et de communautés existantes la pertinence du format vidéo :
+- l'intérêt des enseignants pour consulter, partager, commenter des contenus vidéos ;
 - la volonté à se filmer soi-même pour partager des pratiques.
 
  Nous nous baserons ensuite sur les réseaux d'éducation prioritaire (REP) et plus exactement les coordonateurs REP pour toucher de plus en plus d'enseignants.

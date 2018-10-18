@@ -1,16 +1,40 @@
+#community {
+  margin-bottom: 2em;
+}
+
 #chart-wrapper {
     position: relative;
     height: 60vh;
 }
 
-#alumni {
-    margin: 6em 0 2em;
+@supports (display: grid) {
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+    grid-gap: 2em;
+  }
 }
 
-#alumni ~ .author img {
+.card .card__content {
+  padding: 1em;
+}
+
+.card .card__cover {
+  height: 210px;
+}
+
+a.card__content {
+  text-decoration: none;
+}
+
+#alumni {
+    margin: 6em auto 2em;
+}
+
+#alumni .card__cover img {
     filter: grayscale(100%);
 }
 
-#alumni ~ .author img:hover {
+#alumni .card__cover img:hover {
     filter: grayscale(0%)
 }

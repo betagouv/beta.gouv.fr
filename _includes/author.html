@@ -1,47 +1,41 @@
 {% if include.description %}
-    {% assign description = include.description %}
+  {% assign description = include.description %}
 {% else %}
-    {% capture id %}/authors/{{ include.id }}{% endcapture %}
-    {% for author in site.authors %}
-        {% if author.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
-            {% assign description = author %}
-        {% endif %}
-    {% endfor %}
+  {% capture id %}/authors/{{ include.id }}{% endcapture %}
+  {% for author in site.authors %}
+    {% if author.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
+      {% assign description = author %}
+    {% endif %}
+  {% endfor %}
 {% endif %}
 
 {% capture avatar %}
-    <img alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}/img{{ description.id }}.jpg{% endif %}" />
+  <img alt="" src="{% if description.avatar %}{{ description.avatar }}{% else %}/img{{ description.id }}.jpg{% endif %}" />
 {% endcapture %}
 
-<div class="ui card author {% if include.isInactive %}inactive{% endif %}">
+<div class="article__author panel{% if include.isInactive %} inactive{% endif %}">
 
-    {% if description.link %}
-    <a class="content" href="{{ description.link }}" target="_blank" rel="noopener">
-    {% else %}
-    <div class="content">
+  <div class="article__author-info">
+      <div class="article__author-name">{{ description.fullname }}</div>
+      <div class="article__author-role">{{ description.role }}</div>
+  </div>
+
+    {% if include.size != 'small' %}
+        {{ avatar }}
     {% endif %}
 
-        {% if include.size != 'small' %}
-        <div id="{{ description.id | replace:'/authors/','' }}" class="ui image">{{ avatar }}</div>
-        {% endif %}
+    {% if include.size == 'small' %}
+        {{ avatar }}
+    {% endif %}
 
-        {% if include.size == 'small' %}
-        <div class="ui mini right floated image">{{ avatar }}</div>
-        {% endif %}
-        <div class="header">{{ description.fullname }}</div>
-        <div class="meta">{{ description.role }}</div>
-        <div class="description">
-            {{ description.content | markdownify }}
-        </div>
-
-    {% if description.link %}
-    </a>
-    {% else %}
+    <div class="article__author-description">
+      {% if description.link %}<a href="{{ description.link }}" target="_blank" rel="noopener">{% endif %}
+        {{ description.content | markdownify }}
+      {% if description.link %}</a>{% endif %}
     </div>
-    {% endif %}
 
     {% if description.startups and include.size != 'small' %}
-    <div class="extra">
+        <div class="card__extra">
         {% for startup in description.startups %}
 
             {% if startup.first %}
@@ -58,12 +52,12 @@
 
             {% for currentStartup in site.startup %}
                 {% if currentStartup.id == currentId %} {% comment %} where query doesn't work on id {% endcomment %}
-                    <div class="ui tiny label {% if isInactive %}inactive{% endif %}">
+                    <div class="label {% if isInactive %}label--inactive{% endif %}">
                         <a {% unless isInactive %}class="ui"{% endunless %} href="{{ currentStartup.url }}">{{ currentStartup.title }}</a>
                     </div>
                 {% endif %}
             {% endfor %}
         {% endfor %}
-    </div>
+        </div>
     {% endif %}
 </div>
