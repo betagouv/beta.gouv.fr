@@ -2,7 +2,7 @@
 roles: un-e développeur-se web full stack
 startup: startup-jf
 techno: Python/Django
-junior: true
+junior: false
 open: true
 ---
 
