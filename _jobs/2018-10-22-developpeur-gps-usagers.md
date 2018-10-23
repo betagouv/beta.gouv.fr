@@ -16,7 +16,7 @@ En rejoignant une Startup d’État, vous participez à l’aventure d’une nou
 
 ## Le problème : 50 000 appels sans réponse par an dans le département du Calvados
 
-Dans le département du Calvados, plus de 50% des appels passés par des usagers n’obtiennent pas de réponse à leur demande, soit plus de 50 000 appels sans réponse par an. La majorité des appels concernent les services sociaux du département (RSA, enfance, autonomie, etc.). Ces personnes se trouvent généralement dans une situation précaire et l’absence de réponse à leurs appels est d’autant plus problématique.
+Dans le département du Calvados, plus de 50% des appels passés par des usagers au standard n’obtiennent pas de réponse à leur demande, soit plus de 50 000 appels sans réponse par an. La majorité des appels concernent les services sociaux du département (RSA, enfance, autonomie, etc.). Ces personnes se trouvent généralement dans une situation précaire et l’absence de réponse à leurs appels est d’autant plus problématique.
 
 L’équipe GPS usagers souhaite développer « from scratch » un produit permettant :
 - d’orienter l’usager vers le bon interlocuteur ;
@@ -32,8 +32,9 @@ L’équipe GPS usagers souhaite développer « from scratch » un produit perme
 ## Les modalités
 
 - Poste ouvert pour un·e indépendant·e
-- Télétravail partiel bienvenu, avec une présence régulière à Paris et / ou Caen pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification
-- Temps partiel accepté (60 % minimum)
+- Télétravail partiel bienvenu, avec une présence régulière à Paris ou Caen pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification
+- Temps partiel accepté (3 jours par semaine minimum)
+- Rémunération selon expérience / profil
 - Démarrage mi-novembre 2018
 
 ## Comment candidater
