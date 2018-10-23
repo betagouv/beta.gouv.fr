@@ -24,7 +24,7 @@ L’équipe GPS usagers souhaite développer « from scratch » un produit perme
 
 ## Votre profil
 
-- Vous avez une expérience réussie dans la construction d’un produit from scratch : conception orientée utilisateur, back, front, déploiement, outils de suivi, etc.
+- Vous avez une expérience réussie dans la construction d’un produit from scratch : conception orientée utilisateur, back, front, déploiement, outils de suivi
 - Vous avez déjà participé et contribué à des outils open source
 - Vous avez à cœur de rendre un service de qualité et avez toujours en tête l’utilisateur final lorsque vous travaillez
 - Vous avez une stack web préférée ? Venez nous convaincre qu’elle sera parfaite pour ce projet !
