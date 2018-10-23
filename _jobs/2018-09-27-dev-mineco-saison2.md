@@ -1,7 +1,7 @@
 ---
 roles: un·e lead développeur·se
 techno: Choix technologiques ouverts parmi les solutions libres du marché
-open: true
+open: false
 ---
 
 **Les Startups d'État des Ministères de l’écologie et du logement recrutent des lead dev**

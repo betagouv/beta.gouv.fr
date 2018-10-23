@@ -55,7 +55,7 @@ L’équipe de beta.gouv.fr peut être contactée directement à [contact@beta.g
 
 ## Liens utiles
 
-* [Guide de lancement](https://drive.google.com/open?id=1Or8cXtUvn3wujLMCqU30BzV2GlvCaW_c) : facteurs clés de succès, conditions d'engagement, appui opérationnel, formations, supports contractuels ;
+* [Guide de lancement](https://beta.gouv.fr/guide.pdf) : facteurs clés de succès, conditions d'engagement, appui opérationnel, formations, supports contractuels ;
 
 * [wiki](https://github.com/betagouv/beta.gouv.fr/wiki) : processus internes ;
 

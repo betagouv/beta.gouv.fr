@@ -9,7 +9,7 @@ end:
 link: https://codedutravail.num.social.gouv.fr
 repository: https://github.com/SocialGouv/code-du-travail-explorer
 stats: false
-contact: contact@code-du-travail.beta.gouv.fr
+contact: code-du-travail@beta.gouv.fr
 ---
 
 Seul un public d'expert·e·s maitrîse la complexité du code du travail et de ses différentes sources de droit (conventions collectives, accords de branches et accords d'entreprises…). En plus de la diversité des sources de droit, la technicité de la matière la rend peu accessible pour les concerné·e·s : les employeur·e·s et les salarié·e·s.
