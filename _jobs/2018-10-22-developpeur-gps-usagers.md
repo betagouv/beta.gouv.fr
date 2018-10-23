@@ -16,11 +16,11 @@ En rejoignant une Startup d’État, vous participez à l’aventure d’une nou
 
 ## Le problème : 50 000 appels sans réponse par an dans le département du Calvados
 
-Dans le département du Calvados, plus de 50% des appels passés par des usagers au standard n’obtiennent pas de réponse à leur demande, soit plus de 50 000 appels sans réponse par an. La majorité des appels concernent les services sociaux du département (RSA, enfance, autonomie, etc.). Ces personnes se trouvent généralement dans une situation précaire et l’absence de réponse à leurs appels est d’autant plus problématique.
+Dans le département du Calvados, plus de 50% des appels passés par des usagers au standard n’obtiennent pas de réponse à leur demande, soit plus de 50 000 appels sans réponse par an. La majorité des appels concernent les services sociaux du département (RSA, enfance, autonomie). Ces personnes se trouvent généralement dans une situation précaire et l’absence de réponse à leurs appels est d’autant plus problématique.
 
 L’équipe GPS usagers souhaite développer « from scratch » un produit permettant :
 - d’orienter l’usager vers le bon interlocuteur ;
-- et de lui proposer le bon moyen de communication (mail, téléphone, prise de rendez-vous, demande de rappel dès que possible, chat, etc.).
+- et de lui proposer le bon moyen de communication (mail, téléphone, prise de rendez-vous, demande de rappel dès que possible, chat).
 
 ## Votre profil
 
