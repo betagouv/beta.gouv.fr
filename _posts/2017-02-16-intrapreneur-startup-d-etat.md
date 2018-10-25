@@ -24,7 +24,7 @@ Par exemple, dire tout haut « je pense que l’on peut diviser par 10 le temps 
 
 Ou encore « je suis sûr qu’on montre seulement 20% du marché de l’emploi aux demandeurs d’emploi, en lui cachant les 80% qui restent dans le marché caché ».
 
-Les problèmes c’est comme les chasseurs, il y a le bons problèmes et les mauvais problèmes. Dans le cadre d’une Startup d’État, le bon problème cristallise des situations réelles vécues mille fois par le futur intrapreneur. Le bon problème se focalise sur une douleur perceptible par l’usager et non pas sur une gêne de la technostructure. Enfin, le bon problème obsède beaucoup plus l’intrapreneur que les débuts de solution qu’il a en tête au lancement de la Startup d’État.
+Les problèmes c’est comme les chasseurs, il y a les bons problèmes et les mauvais problèmes. Dans le cadre d’une Startup d’État, le bon problème cristallise des situations réelles vécues mille fois par le futur intrapreneur. Le bon problème se focalise sur une douleur perceptible par l’usager et non pas sur une gêne de la technostructure. Enfin, le bon problème obsède beaucoup plus l’intrapreneur que les débuts de solution qu’il a en tête au lancement de la Startup d’État.
 
 Et si on veut éviter d’en rester au stade de la déclaration d’intention, on vérifiera que le potentiel futur intrapreneur finit bien sa phrase par « …et je suis prêt à porter ce projet, contre vents et marées ! ».
 
