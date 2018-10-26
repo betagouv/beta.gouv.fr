@@ -6,7 +6,7 @@ incubator: sgmas
 status: construction
 start: 2017-10-26
 end:
-link: https://emjpm.beta.gouv.fr/
+link: https://emjpm.num.social.gouv.fr/
 repository: https://github.com/SocialGouv/eMJPM-homepage
 stats: false
 contact: contact@emjpm.beta.gouv.fr
