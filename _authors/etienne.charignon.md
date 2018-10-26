@@ -11,6 +11,4 @@ startups:
     - competences-pro
 ---
 
-J'existe depuis 1973 et je suis développeur professionnel depuis plus de 20 ans. 
-J'ai découvert l'agilité en 2004 et j'ai développé une compétence particulière pour les 
-spécifications executables (les tests fonctionnels automatisés).
+Développeur "tests addict"
