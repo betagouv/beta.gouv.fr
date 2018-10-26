@@ -2,7 +2,7 @@
 friend: 'OpenFisca'
 roles: un·e Lean UX
 type: 'friend'
-open: true
+open: false
 ---
 
 [OpenFisca](https://openfisca.org/fr/) cherche un·e [Lean UX](https://svpg.com/the-product-designer-role/) pour un CDD (6 mois).
