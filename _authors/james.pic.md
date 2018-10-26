@@ -2,7 +2,7 @@
 fullname: James Pic
 role: Développeur full-stack
 start: 2017-11-30
-end: 2018-09-30
+end: 2018-11-30
 employer: independent/octo
 github: jpic
 startups:
