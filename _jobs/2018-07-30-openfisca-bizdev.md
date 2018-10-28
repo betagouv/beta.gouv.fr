@@ -2,7 +2,7 @@
 friend: 'OpenFisca'
 roles: un·e BizDev
 type: 'friend'
-open: true
+open: false
 ---
 
 [OpenFisca](https://openfisca.org/fr/) cherche un·e BizDev pour un CDD (6 mois).
