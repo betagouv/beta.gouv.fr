@@ -3,7 +3,7 @@ friend: 'OpenFisca'
 roles: un·e dev Python/JavaScript
 techno: Python/JavaScript
 type: 'friend'
-open: true
+open: false
 ---
 
 [OpenFisca](https://openfisca.org/fr/) cherche un·e dév intéressé·e par la collaboration et l'entraide.
