@@ -42,4 +42,4 @@ Les qualités nécessaires pour le poste sont les suivantes :
 * Avoir une aisance orale et relationnelle en public
 
 ## Candidater
-Écris-nous à l'adresse [recrutement@beta.gouv.fr](recrutement@beta.gouv.fr) et viens partager ton expérience et tes belles histoires dans la construction de produits qui marchent 😉
+Écris-nous à l'adresse [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr) et viens partager ton expérience et tes belles histoires dans la construction de produits qui marchent 😉
