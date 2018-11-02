@@ -5,17 +5,16 @@ techno:
 open: true
 ---
 
-L'équipe Reso recrute un·e chargé-e de développement
+Veux-tu faire passer une startup d'État à la vitesse supérieure ? On recrute un·e chargé·e de développement en freelance !
 
 <!--more-->
-
-Veux-tu faire passer une startup d'État à la vitesse supérieure ? On recrute un·e chargé·e de développement en freelance !
 
 Poste basé à Lille.
 
 
 ## Qui sommes nous ?
-Réso, Rapprocher les entreprises des solutions publiques optimales
+L'objectif de Réso : Rapprocher les Entreprises des Solutions publiques Optimales.
+
 Nous développons un [outil unique numérique de service public](https://beta.gouv.fr/startup/reso.html) afin de mieux répondre aux besoins des entreprises. 
 
 ## Le poste
