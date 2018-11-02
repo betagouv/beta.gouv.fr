@@ -1,7 +1,7 @@
 ---
 roles: un·e chargé·e de déploiement (stage)
 startup: transport
-open: true
+open: false
 ---
 
 Le Point d'Accès National transport.data.gouv.fr cherche une personne motivée par l'accélération de l'ouverture des données de transport.
