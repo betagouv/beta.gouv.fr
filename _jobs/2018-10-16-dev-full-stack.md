@@ -3,7 +3,7 @@ roles: un·e développeur·se web full-stack
 startup: e-chauffeur
 techno: Choix libre
 junior: false
-open: true
+open: false
 ---
 
 ## Qui sommes-nous ?
