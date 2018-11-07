@@ -6,7 +6,7 @@ incubator: dinsic
 status: construction
 start: 2018-06-04 
 end: 
-link: http://covoiturage.strikingly.com/
+link: http://covoiturage.beta.gouv.fr/
 stats: false
 contact: contact@covoiturage.beta.gouv.fr 
 ---

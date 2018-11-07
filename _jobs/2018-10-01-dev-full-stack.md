@@ -3,7 +3,7 @@ roles: un-e développeur-se web full stack
 startup: startup-jf
 techno: Python/Django
 junior: false
-open: true
+open: false
 ---
 
 Tu es développeur·se, et tu veux mettre tes compétences au profit de l’amélioration du service public ? Tu es à ton aise dans les contextes de petites équipes autonomes, agiles, et proches de leurs utilisateurs ? En rejoignant une Startup d’État, tu participeras à l’aventure d’une nouvelle vision de l’administration, moderne et proche de ses usagers.
