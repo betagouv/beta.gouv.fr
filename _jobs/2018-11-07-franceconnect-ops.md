@@ -10,7 +10,7 @@ Né en 2015, il permet à un citoyen français d’utiliser l’identifiant de s
 
 <!--more-->
 
-En trois ans, le produit s’est bien développé au sein des services du Premier Ministre, et... nous avons grossi !
+En trois ans, le produit s’est bien développé au sein des services du Premier Ministre, et… nous avons grossi !
 Nous sommes actuellement une équipe de 25 personnes constituée de :
  - 12 développeurs plutôt orientés Node JS,
  - 4 personnes pour le support,
@@ -21,19 +21,19 @@ Nous sommes actuellement une équipe de 25 personnes constituée de :
 
 ![Notre équipe](/img/posts/2018-11-07-franceconnect-ops.jpg)
 
-Avec l’équipe nous avons mis en place une architecture logiciel mais nous avons délégué ce qui est matériel à une société privée.
-Notre croissance et les objectifs que nous voulons nous fixer ne nous permettent plus de déléguer __nous avons donc besoin de reprendre la souveraineté de l’infrastructure__.
+Aujourd'hui, nous gérons les scripts de déploiement et de gestion du cycle de vie de l'application, mais l'exploitation des machines est réalisée par notre hébergeur.
+Notre croissance et les objectifs que nous voulons nous fixer ne nous permettent plus de déléguer __nous avons donc besoin de reprendre la maitrise de l’infrastructure__.
 
 Nos trois objectifs actuels sont les suivants :
  - avoir un taux de disponibilité de 99,99%, ;
- - régler des problèmes d’infrastructures majeurs chez nos partenaires (INSEE, le registre d’Etat civil et nos fournisseurs de comptes). Nous devons les aider à faire mieux ;
- - trouver des façons de respecter nos itérations, notre souci d’amélioration continue avec une équipe grandissante et des contraintes toujours plus fortes de l’ANSSI en terme de sécurité.
+ - régler des problèmes d’infrastructures majeurs chez nos partenaires (INSEE, le registre d’Etat civil et nos fournisseurs de comptes) ;
+ - trouver des façons d'améliorer nos cycles d'intégration et de déploiement continu.
 
-__Nos 12 développeurs sont donc à la recherche d’un(e) responsable d’exploitation__ avec une précédente expérience réussie, proactif/ve, qui aime prendre des initiatives, qui ne se repose pas sur l’existant et souhaite vraiment changer les choses.
+__Nos 12 développeurs sont donc à la recherche d’un(e) responsable d’exploitation__ avec une précédente expérience réussie, qui aime prendre des initiatives et qui ne se repose pas sur l’existant.
 
 La vision que nous aimerions partager avec elle ou lui, c’est que FranceConnect puisse participer à l’inclusion numérique en France, pour que tout le monde puisse avoir accès facilement aux services publics français, de manière simple et garantie par l’Etat.
 
-Avec 1 200 000 usagers uniques par mois et 7 millions d’utilisateurs, nous avons des valeurs de transparence et de protection de la vie privée et c’est très important pour nous de travailler avec la CNIL.
+Avec 1 600 000 usagers uniques par mois et 7 millions d’utilisateurs, nous avons des valeurs de transparence et de protection de la vie privée et c’est très important pour nous de travailler avec la CNIL.
 
 Si tu as :
  - une solide culture et expérience de l'exploitation d'infrastructures logicielles en production avec des objectifs de disponibilité
@@ -55,9 +55,10 @@ Que tu as aussi une solide capacité à comprendre les besoins métiers des util
  - tu as envie de monter une équipe
  - tout ce que tu viens de lire t’intéresse et tu aurais bien envie de travailler avec nous…
 
- On aimerait __vraiment__ te rencontrer pour te proposer un poste au sein de la Direction Interministérielle du Numérique et des Systèmes d’Information et de Communication de l’Etat !
+On aimerait __vraiment__ te rencontrer pour te proposer un poste au sein de la [Direction Interministérielle du Numérique et des Systèmes d’Information et de Communication de l’Etat](https://www.numerique.gouv.fr/) !
 
-L’idée ?
+## L’idée ?
+
 Un contrat en CDD de trois ans au sein de la [DINSIC](https://www.numerique.gouv.fr/).
 Avec une rémunération indexée sur ton salaire actuel.
 
