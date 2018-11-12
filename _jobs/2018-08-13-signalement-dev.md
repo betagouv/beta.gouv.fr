@@ -2,7 +2,7 @@
 roles: un·e développeur·se full stack
 startup: signalement
 techno:  
-open: true
+open: false
 ---
 
 L'équipe Signalement recrute un·e développeur·se full stack pour mieux faire respecter le droit de consommation.
