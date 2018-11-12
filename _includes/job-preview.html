@@ -59,9 +59,11 @@
 
     <a href="{{ include.job.url }}">Voir l'offre</a>
 
-    {% if friend %}
+    {% if friend and include.job.externalURL %}
     &nbsp;|&nbsp;
     <a class="external-link" href="{{ include.job.externalURL}}">Voir l'offre sur le site de {{ include.job.friend }}</a>
+    {% endif %}
+    {% if friend %}
     </div>
     {% endif %}
 </li>
