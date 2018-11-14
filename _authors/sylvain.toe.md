@@ -6,6 +6,6 @@ avatar: https://avatars1.githubusercontent.com/u/2660255?s=400&u=4d94b6a9671d594
 start: 2018-11-09
 end: 2019-03-01
 employer: independent/Numa
-startups : 
-  - startup-jf
+startups :
+  - e-controle
 ---

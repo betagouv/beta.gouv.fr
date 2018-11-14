@@ -1,6 +1,6 @@
 ---
 roles: un-e développeur-se web full stack
-startup: startup-jf
+startup: e-controle
 techno: Python/Django
 junior: false
 open: false
