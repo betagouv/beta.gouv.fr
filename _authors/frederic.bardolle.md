@@ -7,6 +7,7 @@ employer: admin/minarm
 github: seiteta
 startups:
     - e-chauffeur
+    - civils-de-la-defense
 ---
 
 🏭🔢

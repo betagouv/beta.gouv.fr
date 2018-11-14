@@ -22,7 +22,9 @@ title: Les Startups d’État recrutent
             {% if job.type == 'friend' %}
                 <div class="subtitle external-link">
                     Une offre à pourvoir chez nos ami·e·s <br>
-                    <a href="{{ job.externalURL}}">Voir l'offre sur le site de {{ job.friend }}</a>
+                    {% if job.externalURL %}
+                        <a href="{{ job.externalURL}}">Voir l'offre sur le site de {{ job.friend }}</a>
+                    {% endif %}
                 </div>
             {% endif %}
 
