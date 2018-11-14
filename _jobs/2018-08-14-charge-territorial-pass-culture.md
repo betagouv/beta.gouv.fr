@@ -1,7 +1,7 @@
 ---
 roles: 5 chargé·e·s de développement territorial
 startup: pass-culture
-open: true
+open: false
 ---
 
 L'équipe produit du Pass Culture s'agrandit et recherche des chargé·e·s de développement expérimenté·e·s pour mener à bien son déploiement sur les cinq territoires d'expérimentation (Bas-Rhin, Seine-Saint-Denis, Hérault, Guyane, Finistère). Si vous voulez construire une plateforme grand public qui facilite l’accès des jeunes au spectacle vivant, à la littérature ou encore à toutes les formes de pratiques culturelles, rejoignez-nous !
