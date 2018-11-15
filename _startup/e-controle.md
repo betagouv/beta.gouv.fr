@@ -10,6 +10,8 @@ link:
 repository:
 stats: false
 contact: lery.jicquel@beta.gouv.fr
+redirect_from:
+  - /startup/startup-jf
 ---
 
 # S’assurer du bon emploi de l’argent public
