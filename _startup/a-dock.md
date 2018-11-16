@@ -8,7 +8,7 @@ start: 2018-01-08
 end:
 link: https://adock.beta.gouv.fr
 repository: https://github.com/MTES-MCT/adock-api
-stats: false
+stats: true
 contact: alexandre.dupont@beta.gouv.fr
 ---
 
