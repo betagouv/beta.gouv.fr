@@ -6,4 +6,5 @@ end: 2020-12-24
 employer: dinsic
 startups:
     - mes-aides
+    - voir-et-localiser
 ---
