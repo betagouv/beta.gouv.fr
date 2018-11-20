@@ -1,7 +1,7 @@
 ---
 title: Voir & Localiser
 mission: Permettre de voir et localiser les appelants aux centres d'appels d'urgence (15, 17, 18/112)
-owner: ASIP Santé : Agence Française de la Santé Numérique
+owner: ASIP Santé - Agence Française de la Santé Numérique
 incubator: dinsic
 status: construction
 start: 2018-11-20
