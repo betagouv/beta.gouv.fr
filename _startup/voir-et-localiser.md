@@ -1,12 +1,12 @@
 ---
 title: Voir & Localiser
-mission: Permettre de voir et localiser les appelants aux centres d'appels d'urgence (15, 17, 18/112)
+mission: Voir et localiser les appelants aux centres d'appels d'urgence (15, 17, 18/112)
 owner: ASIP Santé - Agence Française de la Santé Numérique
 incubator: dinsic
 status: construction
 start: 2018-11-20
 end:
-contact: benjamin.gicquel@beta.gouv.fr
+contact: contact@voir-et-localiser.beta.gouv.fr
 ---
 # Le problème
 
@@ -19,12 +19,12 @@ Par exemple, la gravité initiale d'un accident de la route est difficile à év
 # Le produit
 
 Le produit permettra de géolocaliser et de voir la situation de détresse et son environnement. Un SMS contenant un lien sera envoyé à l'appelant.
-Il lui permettra de partager sa position voire de partager l'image de sa caméra avec le médecin régulateur.
+Il lui permettra de partager sa position et l'image de sa caméra avec le médecin régulateur.
 
 # Les prochaines étapes
 
-- Intégrer la communauté GendLoc, outil de géolocalisation développé par la gendarmerie nationale mais non disponible pour l'ensemble des services d'aide médicale urgente (SAMU) ;
+- Intégrer la communauté GendLoc, outil de géolocalisation développé par la gendarmerie nationale mais non disponible pour l'ensemble des SAMU ;
 - Créer une communauté de médecins régulateurs volontaires pour être utilisateurs pilotes, au démarrage dans le centre SAMU 85 à la Roche sur Yon ;
 - Recruter une personne pour tester la réutilisation de GendLoc (ou autre solution pour implémenter la géolocalisation de l'appelant) et l'intégrer dans un fonds de carte OpenStreetMap ;
-- Faire des premières géolocalisations grâce au produit et en analyser l'impact (raccourcissement effectif du temps nécessaire à la détermination précise de l'appelant 
-- Implémenter la visio-régulation grâce à la caméra du téléphone de l'appelant, et en analyser l'impact (améliorer la proportionnalité des moyens mis en oeuvre) .
+- Faire des premières géolocalisations grâce au produit et en analyser l'impact (raccourcissement effectif du temps nécessaire à la détermination précise de l'appelant) ;
+- Implémenter la visio-régulation grâce à la caméra du téléphone de l'appelant, et en analyser l'impact (améliorer la proportionnalité des moyens mis en oeuvre).
