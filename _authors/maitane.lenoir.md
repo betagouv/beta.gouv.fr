@@ -1,7 +1,7 @@
 ---
 fullname: Maïtané Lenoir
 role: Designer
-avatar: http://www.maiwann.net/img/photo_profil.jpg
+avatar: https://avatars3.githubusercontent.com/maiwann?s=600
 link: http://www.maiwann.net/
 start: 2018-04-10
 end: 2018-12-31
