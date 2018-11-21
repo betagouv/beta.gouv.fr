@@ -1,119 +1,91 @@
 ---
 layout: default
 ---
-{% capture status %}
-    {% if site.data.fr.phases.incubation[page.status].name %}
-        en {{ site.data.fr.phases.incubation[page.status].name }}
-    {% elsif site.data.fr.phases.endgame[page.status].singular %}
-        {{ site.data.fr.phases.endgame[page.status].singular }}
-    {% elsif site.data.fr.phases.endgame[page.status].name %}
-        {{ site.data.fr.phases.endgame[page.status].name }}
-    {% else %}
-	    {{ site.data.fr.phases.investigation.name }}
-    {% endif %}
-{% endcapture %}
-<section class="section-grey">
-    <div class="container panel">
-        <div class="header startup-header">
-            <h1>{{ page.title }}</h1>
-            <h2>{{ page.mission }}</h2>
-        </div>
-        <div class="image">
-            {% if page.link %}<a href="{{ page.link | strip }}" target="_blank" rel="noopener">{% endif %}
-                {% include screenshot.html startup=page %}
-            {% if page.link %}</a>{% endif %}
-        </div>
 
-        <div class="content">
-            <p class="ui description text container">Le produit est <em>{{ status | strip }}</em>, il
-            {% if page.link %}
-            est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.
-            {% else %}
-            <em>n'est pas encore accessible au public.</em>
-            {% endif %}
-            </p>
-            <ul class="ui description text container">
-                <li>Les statistiques d'usage
-                {% if page.stats %}
-                    <a href="{{ page.link | strip }}/stats" title="Statistiques de {{ page.title }}">sont disponibles.</a>
-                {% else %}
-                    <em>ne sont pas encore disponibles.</em>
-                {% endif %}
-                </li>
-                <li>Le code source
-                {% if page.repository %}
-                    <a href="{{ page.repository }}">est libre.</a>
-                {% else %}
-                    <em>n'est pas encore ouvert.</em>
-                {% endif %}
-                </li>
-                <li>Le porteur administratif est {{ page.owner }}.</li>
-                {% assign incubator_id = page.incubator | prepend: '/incubateur/' %}
-                {% assign incubator = site.incubator | where:'id',incubator_id | first %}
-                <li>L'incubateur est <a href="{{ incubator.url }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.</li>
-                <li>
-                {% if page.contact %}
-                    <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
-                {% else %}
-                    <em><a href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
-                {% endif %}
-                </li>
-            </ul>
-        </div>
+{% assign lang = page.lang | default: site.lang | default: "fr" %}
+<div class="page article">
+  {% include hero-startup.html title=page.title mission=page.mission %}
 
-        {% assign startup_id = page.id | remove: '/startup/' %}
-        {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
-        {% if jobs[0] %}
-        <div class="content">
-            <div class ="ui text container">
-                <h2>Postes ouverts</h2>
-                <ul>
-                {% for job in jobs %}
-                    <li>
-                        <a href="{{ job.url }}">
-                            {{ page.title }} recrute {{ job.roles | downcase }}.
-                        </a>
-                    </li>
-                {% endfor %}
-                </ul>
-            </div>
-        </div>
-        {% endif %}
-
-        <div class="content">
-            <div class="ui text container">
-                {{ content }}
-            </div>
-        </div>
-
-        <div class="grid">
-            {% for author in site.authors %}
-                {% for startup in author.startups %}
-
-                    {% if startup.first %}
-                        {% capture currentId %}/startup/{{ startup.first[0] }}{% endcapture %}
-                        {% if startup.first[1] == "inactive" %}
-                            {% assign isInactive = true %}
-                        {% else %}
-                            {% assign isInactive = false %}
-                        {% endif %}
-                    {% else %}
-                        {% capture currentId %}/startup/{{ startup }}{% endcapture %}
-                        {% assign isInactive = false %}
-                    {% endif %}
-
-                    {% if currentId == page.id %} {% comment %} where query doesn't work on id {% endcomment %}
-                        {%if author.end %}
-                            {% capture timestampNow %}{{'now' | date: '%s'}}{% endcapture %}
-                            {% capture timestampEnd %}{{author.end | date: '%s'}}{% endcapture %}
-                            {%if timestampNow > timestampEnd %}
-                                {% assign isInactive = true %}
-                            {% endif %}
-                        {% endif %}
-                        {% include author.html description=author size='small' isInactive=isInactive %}
-                    {% endif %}
-                {% endfor %}
-            {% endfor %}
-        </div>
+  <section class="section section-grey">
+    <div class="container">
+      {% include screenshot.html startup=page %}
     </div>
-</section>
+  </section>
+
+  {% comment %} Détection du status de la startup {% endcomment %}
+  {% capture phase_id %}/phases/{{ page.status }}{% endcapture %}
+  {% assign phase = site.phases | where: "id", phase_id | first %}
+  {% if page.link %}
+    <div class="notification full-width">Le produit est <em>{{ phase.label | downcase | prepend: "en " }}</em>, il est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.</div>
+  {% else %}
+    <div class="notification warning full-width">Le produit est <em>{{ phase.label | downcase | prepend: "en " }}</em>, il n'est pas encore accessible au public.</div>
+  {% endif %}
+
+  <section class="section section-white">
+    <div class="container">
+      <div class="text-quote">
+        <p>
+          <li>
+            Les statistiques d'usage
+            {% if page.stats %}
+              <a href="{{ page.link | strip }}/stats" title="Statistiques de {{ page.title }}">sont disponibles.</a>
+            {% else %}
+              <em>ne sont pas encore disponibles.</em>
+            {% endif %}
+          </li>
+          <li>
+            Le code source
+            {% if page.repository %}
+              <a href="{{ page.repository }}">est libre.</a>
+            {% else %}
+              <em>n'est pas encore ouvert.</em>
+            {% endif %}
+          </li>
+          <li>
+            Le porteur administratif est {{ page.owner }}.
+          </li>
+          {% comment %} Détection de l'incubateur {% endcomment %}
+          {% capture incubator_id %}/incubateurs/{{ page.incubator }}{% endcapture %}
+          {% assign incubator = site.incubators | where:'id', incubator_id | first %}
+          <li>L'incubateur est <a href="{{ incubator.url }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.</li>
+          <li>
+            {% if page.contact %}
+              <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
+            {% else %}
+              <em><a href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
+            {% endif %}
+          </li>
+        </p>
+      </div>
+    </div>
+
+    {% assign startup_id = page.id | remove: '/startups/' %}
+    {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
+    {% if jobs[0] %}
+      <div class="container">
+        <div class ="richtext">
+          <h3>Postes ouverts</h3>
+          <ul>
+            {% for job in jobs %}
+              <li><a href="{{ job.url }}">{{ page.title }} recrute {{ job.roles | downcase }}.</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    {% endif %}
+
+    <div class="container">
+      <div class="richtext">
+        {{ content }}
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-grey">
+    <div class="container">
+      {% assign id = page.id | remove: '/startups/' %}
+      {% include grid-authors.html id=id %}
+    </div>
+  </section>
+
+</div>

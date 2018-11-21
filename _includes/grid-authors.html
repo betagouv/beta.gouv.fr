@@ -1,0 +1,100 @@
+{% comment %}
+  Appeler cette page avec en paramètre l'ID d'une startup
+  ex : {% include grid-authors.html id=id %}
+{% endcomment %}
+
+{% assign current_team = "" %}{% comment %}membres actuels, actifs{% endcomment %}
+{% assign inactive_team = "" %}{% comment %}membres actuels, inactifs{% endcomment %}
+{% assign past_team = "" %}{% comment %}anciens membres, toujours actifs{% endcomment %}
+{% assign inactive_past_team = "" %}{% comment %}anciens membres, inactifs{% endcomment %}
+
+{% assign id = include.id %}
+
+{% assign team = site.authors | where:"startups", id %}
+{% for people in team %}
+  {% if people.end %}
+    {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
+    {% capture timestampEnd %}{{ people.end | date: '%s' }}{% endcapture %}
+    {% if timestampNow > timestampEnd %}
+      {% capture to_append %}
+      <div class="article__author panel inactive">
+        <div class="article__author-info">
+            <div class="article__author-name">{{ people.fullname }}</div>
+            <div class="article__author-role">{{ people.role }}</div>
+        </div>
+          <img alt="" src="{% if people.avatar %}{{ people.avatar }}{% else %}/img{{ people.id }}.jpg{% endif %}" />
+          <div class="article__author-description">
+            {% if people.link %}<a href="{{ people.link }}" target="_blank" rel="noopener">{% endif %}
+              {{ people.content | markdownify }}
+            {% if people.link %}</a>{% endif %}
+          </div>
+      </div>
+      {% endcapture %}
+      {% assign inactive_team = inactive_team | append: to_append %}
+      {% continue %}
+    {% endif %}
+  {% endif %}
+  {% capture to_append %}
+  <div class="article__author panel">
+    <div class="article__author-info">
+        <div class="article__author-name">{{ people.fullname }}</div>
+        <div class="article__author-role">{{ people.role }}</div>
+    </div>
+      <img alt="" src="{% if people.avatar %}{{ people.avatar }}{% else %}/img{{ people.id }}.jpg{% endif %}" />
+      <div class="article__author-description">
+        {% if people.link %}<a href="{{ people.link }}" target="_blank" rel="noopener">{% endif %}
+          {{ people.content | markdownify }}
+        {% if people.link %}</a>{% endif %}
+      </div>
+  </div>
+  {% endcapture %}
+  {% assign current_team = current_team | append: to_append %}
+{% endfor %}
+
+{% assign team = site.authors | where:"previously", id %}
+{% for people in team %}
+  {% if people.end %}
+    {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
+    {% capture timestampEnd %}{{ people.end | date: '%s' }}{% endcapture %}
+    {% if timestampNow > timestampEnd %}
+      {% capture to_append %}
+      <div class="article__author panel inactive">
+        <div class="article__author-info">
+            <div class="article__author-name">{{ people.fullname }}</div>
+            <div class="article__author-role">{{ people.role }}</div>
+        </div>
+          <img alt="" src="{% if people.avatar %}{{ people.avatar }}{% else %}/img{{ people.id }}.jpg{% endif %}" />
+          <div class="article__author-description">
+            {% if people.link %}<a href="{{ people.link }}" target="_blank" rel="noopener">{% endif %}
+              {{ people.content | markdownify }}
+            {% if people.link %}</a>{% endif %}
+          </div>
+      </div>
+      {% endcapture %}
+      {% assign inactive_past_team = inactive_past_team | append: to_append %}
+      {% continue %}
+    {% endif %}
+  {% endif %}
+  {% capture to_append %}
+  <div class="article__author panel inactive">
+    <div class="article__author-info">
+        <div class="article__author-name">{{ people.fullname }}</div>
+        <div class="article__author-role">{{ people.role }}</div>
+    </div>
+      <img alt="" src="{% if people.avatar %}{{ people.avatar }}{% else %}/img{{ people.id }}.jpg{% endif %}" />
+      <div class="article__author-description">
+        {% if people.link %}<a href="{{ people.link }}" target="_blank" rel="noopener">{% endif %}
+          {{ people.content | markdownify }}
+        {% if people.link %}</a>{% endif %}
+      </div>
+  </div>
+  {% endcapture %}
+  {% assign inactive_team = inactive_team | append: to_append %}
+{% endfor %}
+
+<div class="grid">
+  {{ current_team }}
+  {{ past_team }}
+  {{ inactive_team }}
+  {{ inactive_past_team }}
+</div>

@@ -1,0 +1,6 @@
+# Réécrire les anciens liens vers les pages startups et incubateurs
+/incubateur/*  /incubateurs/:splat
+/startup/*  /startups/:splat
+/blog/* /blog/
+/rapportannuel.pdf /content/docs/rapportannuel.pdf
+/guide.pdf /content/docs/guide.pdf

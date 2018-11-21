@@ -1,15 +1,34 @@
 <footer class="footer">
-    <div class="container">
-        <div class="footer__logo">
-            <img src="{{file_path}}/img/logo-betagouv-white.svg" alt="Logo beta.gouv.fr">
-            <ul class="footer__social">
-                <li><a href="https://twitter.com/betagouv" title="Twitter"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
-                <li><a href="https://github.com/betagouv/beta.gouv.fr" title="Github"><svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg></a></li>
-            </ul>
-        </div>
-        {% capture nav %}{% include footer-nav.md %}{% endcapture %}
-        {{ nav | markdownify }}
-        {% capture nav-external %}{% include footer-nav-external.md %}{% endcapture %}
-        {{ nav-external  | markdownify }}
+  <div class="container">
+    <div class="footer__logo">
+      <img src="{{file.path}}/assets/images/betagouvfr.svg" alt="beta.gouv.fr">
+      {% if site.data.footer.social %}
+      <ul class="footer__social">
+        {% for item in site.data.footer.social %}
+        <li><a href="{{ item.url }}"><svg class="icon icon-{{ item.icon }}"><use xlink:href="#icon-{{ item.icon }}"></use></svg></a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
     </div>
+
+    {% for item in site.data.footer.links %}
+    <div class="footer__links">
+      {% if item.label %}
+        <h2>{{ item.label}}</h2>
+      {% endif %}
+      <ul>
+      {% for link in item.children %}
+        {% if link.target %}
+          {% assign target = site.pages | where:"path",link.target | first %}
+          <li><a href="{{ target.url }}">{{ link.label }}</a></li>
+        {% elsif link.url %}
+          <li><a href="{{ link.url }}">{{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+
+    <div></div>
+  </div>
 </footer>

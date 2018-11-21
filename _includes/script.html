@@ -1,0 +1,4 @@
+<!--  Scripts-->
+{% for file in page.additional_js %}
+  <script type="text/javascript" src="{% if file contains '://' %}{{ file }}{% else %}/assets/additional/js/{{ file }}{% endif %}"></script>
+{% endfor %}

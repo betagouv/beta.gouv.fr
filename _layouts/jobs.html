@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+{% assign lang = page.lang | default: site.lang | default: "fr" %}
+<div class="page article">
+  {% include hero-page.html title=page.title %}
+  <section class="section section-white cards">
+    <div class="container jobs">
+      <h3>Offres disponibles</h3>
+      <div class="grid">
+        {% assign jobs = site.jobs | where: "open", 'true' | reverse %}
+        {% for job in jobs %}
+          {% include card-job.html job=job %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  <section class="section section-grey cards">
+    <div class="container jobs">
+      <h3>Offres pourvues</h3>
+      <div class="grid">
+        {% assign jobs = site.jobs | where: "open", 'false' | reverse %}
+        {% for job in jobs %}
+          {% include card-job.html job=job %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+</div>

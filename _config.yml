@@ -1,80 +1,89 @@
-# This file is *NOT* reloaded automatically when you use 'jekyll serve'.
-# If you change this file, please restart the server process.
-
-# see https://jekyllrb.com/docs/continuous-integration/
-exclude: [rb, bin, vendor, app.json]
-include: ['_pages']
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
 title: beta.gouv.fr
 email: contact@beta.gouv.fr
 description: Nous créons des services publics numériques
-description_en: We build digital public services
-url: https://beta.gouv.fr
-baseurl: ""
-twitter_id: 715451644683673601 # more stable than the username
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://beta.gouv.fr # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: BetaGouv
+github_username:  betagouv
+github_repository: BetaGouv/beta.gouv.fr
 
-# Do not publish future dated blog posts / job offers.
-# @see https://jekyllrb.com/docs/configuration/
-future: false
-
-# Plugins
+# Build settings
+markdown: kramdown
 plugins:
   - jekyll-redirect-from
-  - jekyll-remote-theme
 
-# Default author for blog posts, can be overridden in each post
-author:
-  name: beta.gouv.fr
-  twitter: betaGouv
+# Options du template
 
-collections:
-  incubator:
-    output: true
-    permalink: /incubateur/:name.html
-  startup:
-    output: true
-  authors:
-    output: true
-  jobs:
-    output: true
-    permalink: /recrutement/:year/:month/:day/:title.html
+lang: fr
 
-defaults:
-  -
-    scope:
-      path: ""# means "all files"
-      type: startup	# targets a collection
-    values:
-      layout: startup
-  -
-    scope:
-      path: ""
-      type: incubator
-    values:
-      layout: incubator
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-  -
-    scope:
-      path: ""
-    values:
-      layout: default
-  -
-    scope:
-      path: ""
-      type: jobs
-    values:
-      layout: job
-
-excerpt_separator: <!--more-->
+include: ["_pages", "_redirects"]
+exclude: ["content/templates", "CONTRIBUTING.md", "rb"]
 
 sass:
   style: compressed
   sass_dir: _sass
 
-remote_theme: thimy/template-jekyll
+excerpt_separator: <!--more-->
+
+# Collections
+
+collections_dir:
+  content
+
+collections:
+  authors:
+  incubators:
+    output: true
+    permalink: /incubateurs/:title.html
+  startups:
+    output: true
+    permalink: /startups/:title.html
+  phases:
+  jobs:
+    output: true
+    permalink: /recrutement/:year/:month/:day/:title.html
+
+defaults:
+  - scope:
+      path: "img/startups"
+    values:
+      startups_img: true
+  - scope:
+      path: "img/authors"
+    values:
+      authors_img: true
+  - scope:
+      path: ""
+      type: "startups"
+    values:
+      layout: startup
+      additional_css:
+        - startups.css
+        - authors-grid.css
+  - scope:
+      path: ""
+      type: "incubators"
+    values:
+      layout: incubateur
+      additional_css:
+        - side-panel.css
+        - grid.css
+  - scope:
+      path: ""
+      type: "jobs"
+    values:
+      layout: job
+      title: Recrutement
+      additional_css:
+        - grid.css

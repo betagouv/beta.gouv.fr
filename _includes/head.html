@@ -2,42 +2,34 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
 
-    <title>{% if page.title %}{{ layout.title | default: page.title }} — {% endif %}{{ site.title }}</title>
-    <meta property="og:title" content="{{ layout.title | default: page.title | default: site.title }}">
+    <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="/assets/style/main.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css">
-
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}" />
-
-    <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="{{ site.title }}">
-
-    {% capture description %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+    {% assign description = page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
     <meta name="description" content="{{ description }}">
     <meta property="og:description" content="{{ description }}">
 
-    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicons/apple-touch-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicons/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicons/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicons/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicons/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicons/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon-180x180.png">
-    <link rel="icon" type="image/png" href="/img/favicons/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="/img/favicons/android-chrome-192x192.png" sizes="192x192">
-    <link rel="icon" type="image/png" href="/img/favicons/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="/img/favicons/favicon-16x16.png" sizes="16x16">
-    <link rel="manifest" href="/img/favicons/manifest.json">
-    <link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg">
-    <link rel="shortcut icon" href="/img/favicons/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/assets/images/favicons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/assets/images/favicons/manifest.json">
+    <link rel="mask-icon" href="/assets/images/favicons/safari-pinned-tab.svg">
+    <link rel="shortcut icon" href="/assets/images/favicons/favicon.ico">
     <meta name="apple-mobile-web-app-title" content="beta.gouv.fr">
     <meta name="application-name" content="beta.gouv.fr">
     <meta name="msapplication-TileColor" content="#042075">
-    <meta name="msapplication-TileImage" content="/img/favicons/mstile-144x144.png">
-    <meta name="msapplication-config" content="/img/favicons/browserconfig.xml">
+    <meta name="msapplication-TileImage" content="/assets/images/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/assets/images/favicons/browserconfig.xml">
     <meta name="theme-color" content="#042075">
 
     {% if page.collection == 'posts' %}
@@ -52,21 +44,26 @@
         {% endfor %}
     {% endif %}
 
-    {% if page.layout != 'default' and page.layout != 'text' %}
-        <link rel="stylesheet" type="text/css" href="/css/{{ page.layout }}.css">
-    {% endif %}
+
+    <link rel="stylesheet" type="text/css" media="screen,projection" href="/assets/style/main.css">
+    <link rel="stylesheet" type="text/css" media="screen,projection" href="/assets/main.css">
 
     {% for file in page.additional_css %}
-        <link rel="stylesheet" type="text/css"
-        href="{% if file contains '://' %}{{ file }}{% else %}/css/{{ file }}.css{% endif %}">
+      <link rel="stylesheet" type="text/css" href="{% if file contains '://' %}{{ file }}{% else %}/assets/additional/style/{{ file }}{% endif %}">
     {% endfor %}
+
     {% capture canonical_url %}{{ site.url }}{{ page.url | replace:'index.html','' }}{% endcapture %}
     <link rel="canonical" href="{{ canonical_url }}">
     <meta property="og:url" content="{{ canonical_url }}">
 
 
-    {% capture mastheadImagePath %}{{site.url}}/img/{{ page.path | replace: '_pages', 'pages' | replace: '_posts', 'posts' | replace: '_startup', 'startup' | remove: '/fr' | remove: '/en' | remove: '.html' | remove: '.md' }}.jpg{% endcapture %}
-    <meta name="thumbnail" content="{{ mastheadImagePath }}">
-    <meta property="og:image" content="{{ mastheadImagePath }}">
+    {% capture mastheadImagePath %}{% if page.image %}{{ page.image }}{% else %}/img/logo-generique-startup-carre.jpg{% endif %}{% endcapture %}
+    <meta name="thumbnail" content="{{ site.url }}{{ mastheadImagePath }}">
+    <meta property="og:image" content="{{ site.url }}{{ mastheadImagePath }}">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site:id" content="{{ twitter_id }}">
+
+    {% include analytics.html %}
 
 </head>

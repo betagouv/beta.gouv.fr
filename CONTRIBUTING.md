@@ -2,11 +2,11 @@
 
 ## Ajouter une Startup
 
-### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=startup&where=_startup/nom-startup.md)
+### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/content/templates/trampoline.html?what=startups&where=content/_startups/nom-startup.md)
 
 Les illustrations doivent être en 16:9, au format 1280 ⨉ 720 pixels, optimisées au préalable avec un outil du type [ImageOptim](https://imageoptim.com/mac) - choisir des réglages "lossy" donnant en général plus de 50% de gains à la compression, mais ne pas supprimer les métadonnées d'images.
 
-> Sinon, offline : dupliquer un fichier de description dans le dossier [`_startup`](https://github.com/betagouv/beta.gouv.fr/tree/master/_startup) et suivre les instructions ci-dessous sur l'édition.
+> Sinon, offline : dupliquer un fichier de description dans le dossier [`/content/_startups`](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_startups) et suivre les instructions ci-dessous sur l'édition.
 
 Pour le titre de la startup, s'en tenir aux [règles usuelles](https://fr.wikipedia.org/wiki/Usage_des_majuscules_en_fran%C3%A7ais#R.C3.A8gles_traditionnelles), c'est-à-dire sauf cas particuliers : le premier mot prend une majuscule, les autres non. (Ce n'est pas grave de se tromper, mais il faut s'attendre à ce que ça soit corrigé plus tard.)
 
@@ -14,51 +14,23 @@ Pour l'énoncé de mission, utiliser une phrase à l'infinitif, qui complète «
 
 ## Éditer la description d'une Startup existante
 
-Modifier le fichier `$id_startup.md` de description de la Startup dans le dossier [`_startup`](https://github.com/betagouv/beta.gouv.fr/tree/master/_startup).
+Modifier le fichier `$id_startup.md` de description de la Startup dans le dossier [`content/_startups`](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_startups).
 
 La documentation des différentes propriétés à renseigner est accessible en cliquant sur le lien de création d'une nouvelle Startup dans la section précédente.
 
-## Publier un billet
-
-### 1. Écrire le billet
-
-[En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=post&where=_posts/AAAA-MM-DD-titre.md) :smiley:
-
-Pour ajouter une image au billet, créer un fichier JPEG dans `img/posts` du même nom que le fichier contenant le post (donc par exemple `AAAA-MM-DD-titre.jpg`). À l'affichage, l'image sera redimensionnée : les dimensions exactes de l'image ont donc peu d'importance.
-
-> Sinon, offline : créer un nouveau post dans le dossier [`_posts`](https://github.com/betagouv/beta.gouv.fr/tree/master/_posts).
-
-### 2. Faire revoir le billet
-
-Avant d'ouvrir une pull request, diffuser un lien privé de prévisualisation à `incubateur@beta.gouv.fr`.
-
-> Par exemple, créer un [Gist](https://gist.github.com) privé.
-
-Recueillez l'avis d'au moins 2 membres de l'incubateur. Après de potentielles itérations, si aucun des destinataires n'a posé de veto à la publication, l'auteur peut ouvrir une pull request pour dernières vérifications syntaxiques et fonctionnelles.
-
-
-## Ajouter un événement
-
-### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=event&where=_posts/AAAA-MM-DD-nom_evenement.md) :smiley:
-
-Un événement est un type de billet particulier. Il a donc quelques métadonnées supplémentaires (`start`, `end`…), mais est [équivalent](#publier-un-billet) pour le reste, dont l'ajout d'images et la création offline.
-
-Notamment, attention, la date dans le nom du fichier au format `AAAA-MM-DD-nom_evenement.md` est la date à laquelle vous souhaitez que l'événement soit annoncé sur le site (et non la date de l'événement lui-même).
-
-
 ## Ajouter un membre à la communauté BetaGouv
 
-### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=author&where=_authors/prenom.nom.md) :smiley:
+### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/content/templates/trampoline.html?what=authors&where=content/_authors/prenom.nom.md) :smiley:
 
 Le nom du fichier est important : il doit correspondre au nom de la personne, selon le schéma `prenom.nom.md`. Les parties `prenom` et `nom` sont en minuscules et sans accents. Les espaces des noms propres sont remplacés par `_` et les tirets restent. Il faut garder .md à la fin du nom du fichier. **Il est important que cet identifiant et celui du mail `@beta.gouv.fr` correspondent**. Cela nous permet de traiter [automatiquement](https://github.com/betagouv/betaGouvBot) divers sujets liés à la gestion RH tels que abonnement et désabonnement des listes de diffusion, anticipation des fins de contrat, etc.
 
-> Sinon, offline : créer un nouveau fichier de description dans le dossier [`_authors`](https://github.com/betagouv/beta.gouv.fr/tree/master/_authors) et renseigner les informations en prenant exemple sur un fichier de description existant déjà dans ce dossier.
+> Sinon, offline : créer un nouveau fichier de description dans le dossier [`content/_authors`](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_authors) et renseigner les informations en prenant exemple sur un fichier de description existant déjà dans ce dossier.
 
 Tu peux fournir un fichier avec ta photo si tu n'as pas de compte Github, ou si tu es à l'aise avec la manip (qui est un peu plus pénible que juste modifier un fichier Markdown). Attention, l'image doit être carrée et de préférence à une résolution supérieure à 512 ⨉ 512 pixels, optimisée au préalable avec un outil du type [ImageOptim](https://imageoptim.com/mac) - choisir des réglages "lossy" donnant en général plus de 50% de gains à la compression, mais ne pas supprimer les métadonnées d'images.
 
 ## Ajouter une offre d'emploi
 
-### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=job&where=_jobs/AAAA-MM-DD-nom_offre.md) :smiley:
+### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/content/templates/trampoline.html?what=jobs&where=content/_jobs/AAAA-MM-DD-nom_offre.md) :smiley:
 
 > Une fois l'offre pourvue, bien penser à changer la valeur du flag `open` et de la mettre à `false`.
 
@@ -72,24 +44,13 @@ Tu peux fournir un fichier avec ta photo si tu n'as pas de compte Github, ou si 
 
 [Rechercher le contenu à modifier](https://github.com/betagouv/beta.gouv.fr/search?q=contenu+à+modifier&type=Code) et éditer le fichier correspondant.
 
-
-## Modifier les startups mises en avant sur la page d'accueil
-
-Mettre à jour la propriété `featured` de la phase correspondante pour référencer le nom du fichier dans lequel la startup à mettre en avant est décrite dans [`index.html`](https://github.com/betagouv/beta.gouv.fr/tree/master/index.html).
-
-## Ajouter une page
-
-### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=page&where=_pages/page.html) :smiley:
-
-Attention, toutes les pages doivent avoir, dans leur [front matter](https://jekyllrb.com/docs/frontmatter/), les variables `permalink`, `lang` et `ref` définies.
-
 ## Modifier la présentation du site en Local
 
 ### Utilisation de Jekyll pour le développement en local
 
-Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est celle [actuellement en production](https://pages.github.com/versions/) sur GitHub Pages.
+Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est celle [actuellement en production](https://github.com/jekyll/jekyll/releases/tag/v3.8.5/).
 
-Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) et [Jekyll](https://jekyllrb.com) dans leurs [versions de production](https://pages.github.com/versions/) :
+Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) et [Jekyll](https://jekyllrb.com) dans leurs [versions de production](https://github.com/jekyll/jekyll/releases/tag/v3.8.5) :
 
 ```sh
 git clone https://github.com/betagouv/beta.gouv.fr.git
@@ -99,15 +60,11 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `_layouts` et `css`.
-
-### Utilisation de Docker pour le développement en local
-- Installer (Docker](https://docs.docker.com/compose/install/) (Docker compose est normalement installé automatiquement avec Docker)
-- Lancer `docker-compose up`
+Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `assets\additional` et `layout`. Le fichier `_sass\hacks.css` permet d'effectuer des modifications de style globale sans toucher aux feuilles de style de base.
 
 ### Dépendances : un `Gemfile` particulier
 
-Afin de minimiser les écarts entre les versions de développement et les versions de production, ce dépôt contient un fichier `Gemfile` (spécification des versions minimum des dépendances), comme beaucoup de dépôts Ruby. Ce fichier `Gemfile` a par ailleurs un fonctionnement un peu particulier : lorsque c'est possible, il obtient sur le site de Github le numéro de version de Github Pages le plus récent, et tente de mettre à jour les dépendances.
+Afin de minimiser les écarts entre les versions de développement et les versions de production, ce dépôt contient un fichier `Gemfile` (spécification des versions minimum des dépendances), comme beaucoup de dépôts Ruby.
 
 ## Relire les changements
 
@@ -133,16 +90,12 @@ Pour les relectures de code, il vaut mieux choisir une personne ayant un peu l'h
 
 ### Prévisualisation (staging)
 
-Chaque pull request est déployée dans Heroku, une fois le [build passé](https://circleci.com/gh/betagouv/beta.gouv.fr). Une notification est envoyée sur la pull request :
-
-![notification de déploiement en prévisualisation](http://i.imgur.com/7ZuC2Zw.png)
-
-Vous pouvez suivre le lien de la notification pour accéder à la version de l'application correspondant à la pull request.
+Chaque pull request est déployée dans Netlify, une fois le [build passé](https://circleci.com/gh/betagouv/beta.gouv.fr). Vous pouvez la retrouver dans la partie des "Checks" au nom de *deploy/netlify*. Vous pouvez suivre le lien associé pour accéder à la version de l'application correspondant à la pull request.
 
 ### Production
 
-Ce site est déployé en continu avec [Github Pages](https://pages.github.com). La branche qui reflète la production est `master`.
+Ce site est déployé en continu avec [Netlify](https://www.netlify.com/). La branche qui reflète la production est `master`.
 
 Pousser sur `master`, c’est partager avec le monde… ce qui signifie donc qu'il faut être très prudent avec ce pouvoir et privilégier l'usage de [pull requests](https://guides.github.com/introduction/flow/) :wink:
 
-C'est pourquoi la branche `master` est [protégée](https://help.github.com/articles/about-protected-branches/) : il est impossible de mettre en production sans que les [tests automatisés](http://circleci.com/gh/betagouv/beta.gouv.fr/207) n'aient validé que le site pouvait être généré correctement et qu'au moins un pair humain ait revu les modifications proposées.
+C'est pourquoi la branche `master` est [protégée](https://help.github.com/articles/about-protected-branches/) : il est impossible de mettre en production sans que les [tests automatisés](https://circleci.com/gh/betagouv/beta.gouv.fr) n'aient validé que le site pouvait être généré correctement et qu'au moins un pair humain ait revu les modifications proposées.

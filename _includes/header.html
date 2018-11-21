@@ -1,49 +1,37 @@
+
 <header class="navbar">
   <div class="navbar__container">
     <a class="navbar__home" href="{{ "/" | relative_url }}">
       <img class="navbar__logo" src="{{ '/assets/images/logo-marianne.svg' | relative_url }}"
-        alt="Logo Marianne" /><img src="{{ '/assets/images/betagouvfr.svg' }}" class="navbar__gouvfr" alt="beta.gouv.fr" />
+        alt="{{ site.title }}" /><span class="navbar__domain">{{ site.data.menu.title }}</span><img src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" class="navbar__gouvfr" alt="gouv.fr" />
     </a>
 
     <nav>
       <ul class="nav__links">
-        {% assign menu_items = site.pages | where_exp: 'page', 'page.menu_index > 0' | sort: 'menu_index' %}
-        {% for menu_item in menu_items %}
-          {% assign translation = site.pages | where: 'ref', menu_item.ref | where: 'lang', 'en' | first %}
-          {% if page.lang == 'en' and translation %}
-            <li class="nav__item">
-              <a class="{% if page.url == translation.url %} active{%endif%}" href="{{ translation.url }}">
-                {{ translation.title }}
-              </a>
-            </li>
-           {% elsif page.lang == 'en' %}
-             <li class="nav__item">
-               <a class="{% if page.url == menu_item.url %} active{%endif%}" href="{{ menu_item.url }}">
-                {{ menu_item.title }} (fr)
-              </a>
-            </li>
-           {% else %}
-             <li class="nav__item">
-               <a class="{% if page.url == menu_item.url %} active{%endif%}" href="{{ menu_item.url }}">
-            {{ menu_item.title }}
-              </a>
-            </li>
-          {% endif %}
-        {% endfor %}
-
-        <!-- {% assign landing_fr = site.pages | where: 'ref', 'landing' | where: 'lang', 'fr' | first %}
-        {% assign landing_en = site.pages | where: 'ref', 'landing' | where: 'lang', 'en' | first %}
-        <li class="dropdown nav__item" id="lang">
-          {% if page.lang == 'en' %}
-            <a href="#lang">Language</a>
+        {% for item in site.data.menu.nav %}
+        <li class="nav__item">
+          {% if item.children %}
+            <div class="dropdown">
+              {{ item.label }}
+              <div class="dropdown-content">
+                {% for child in item.children %}
+                  {% if child.target %}
+                    {% assign target = site.pages | where:"path",child.target | first %}
+                    <a href="{{ target.url }}">{{ child.label }}</a>
+                  {% else %}
+                    <a href{% if child.url %}="{{ child.url }}"{% endif %}>{{ child.label }}</a>
+                  {% endif %}
+                {% endfor %}
+              </div>
+            </div>
+          {% elsif item.target %}
+            {% assign target = site.pages | where:"path",item.target | first %}
+            <a {% if page.url contains target.url %}class="active"{% endif %} href="{{ target.url }}">{{ item.label }}</a>
           {% else %}
-            <a href="#lang">Langue</a>
+            <a href{% if item.url %}="{{ item.url }}"{% endif %}>{{ item.label }}</a>
           {% endif %}
-          <ul class="dropdown-content">
-            <li><a href="{{ landing_fr.url }}">Français&nbsp;🇫🇷</a></li>
-            <li><a href="{{ landing_en.url }}">English&nbsp;🇬🇧</a></li>
-          </ul>
-        </li> -->
+        </li>
+        {% endfor %}
       </ul>
     </nav>
   </div>
