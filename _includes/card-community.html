@@ -15,7 +15,7 @@
       <div class="card__meta">
         {{ author.role }}
       </div>
-      <p>{{ author.content | markdownify }}</p>
+      {{ author.content | markdownify }}
     </div>
   {% if author.link %}</a>{% endif %}
   <div class="card__extra">

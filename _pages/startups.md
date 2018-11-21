@@ -1,7 +1,7 @@
 ---
 layout: startups
 title: Le portefeuille de Startups d'État
-permalink: /startups
+permalink: /startups/
 additional_css:
   - side-panel.css
   - grid.css

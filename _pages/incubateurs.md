@@ -1,7 +1,7 @@
 ---
 layout: incubateurs
 title: Les incubateurs de Startups d'État
-permalink: /incubateurs
+permalink: /incubateurs/
 additional_css:
   - side-panel.css
 ---

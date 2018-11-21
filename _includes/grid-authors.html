@@ -22,7 +22,7 @@
             <div class="article__author-name">{{ people.fullname }}</div>
             <div class="article__author-role">{{ people.role }}</div>
         </div>
-          <img alt="" src="{% if people.avatar %}{{ people.avatar }}{% else %}/img{{ people.id }}.jpg{% endif %}" />
+          {% include avatar.html author=people %}
           <div class="article__author-description">
             {% if people.link %}<a href="{{ people.link }}" target="_blank" rel="noopener">{% endif %}
               {{ people.content | markdownify }}
@@ -40,7 +40,7 @@
         <div class="article__author-name">{{ people.fullname }}</div>
         <div class="article__author-role">{{ people.role }}</div>
     </div>
-      <img alt="" src="{% if people.avatar %}{{ people.avatar }}{% else %}/img{{ people.id }}.jpg{% endif %}" />
+      {% include avatar.html author=people %}
       <div class="article__author-description">
         {% if people.link %}<a href="{{ people.link }}" target="_blank" rel="noopener">{% endif %}
           {{ people.content | markdownify }}
@@ -63,7 +63,7 @@
             <div class="article__author-name">{{ people.fullname }}</div>
             <div class="article__author-role">{{ people.role }}</div>
         </div>
-          <img alt="" src="{% if people.avatar %}{{ people.avatar }}{% else %}/img{{ people.id }}.jpg{% endif %}" />
+          {% include avatar.html author=people %}
           <div class="article__author-description">
             {% if people.link %}<a href="{{ people.link }}" target="_blank" rel="noopener">{% endif %}
               {{ people.content | markdownify }}
@@ -81,7 +81,7 @@
         <div class="article__author-name">{{ people.fullname }}</div>
         <div class="article__author-role">{{ people.role }}</div>
     </div>
-      <img alt="" src="{% if people.avatar %}{{ people.avatar }}{% else %}/img{{ people.id }}.jpg{% endif %}" />
+      {% include avatar.html author=people %}
       <div class="article__author-description">
         {% if people.link %}<a href="{{ people.link }}" target="_blank" rel="noopener">{% endif %}
           {{ people.content | markdownify }}

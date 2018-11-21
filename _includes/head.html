@@ -45,8 +45,8 @@
     {% endif %}
 
 
-    <link rel="stylesheet" type="text/css" media="screen,projection" href="/assets/style/main.css">
-    <link rel="stylesheet" type="text/css" media="screen,projection" href="/assets/main.css">
+    <link rel="stylesheet" type="text/css" href="/assets/style/main.css">
+    <link rel="stylesheet" type="text/css" href="/assets/main.css">
 
     {% for file in page.additional_css %}
       <link rel="stylesheet" type="text/css" href="{% if file contains '://' %}{{ file }}{% else %}/assets/additional/style/{{ file }}{% endif %}">

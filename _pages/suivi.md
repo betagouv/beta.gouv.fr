@@ -8,7 +8,7 @@ title: Suivi d'audience et vie privée
 
 Ce site dépose un petit fichier texte (un « cookie ») sur votre ordinateur lorsque vous le consultez. Cela nous permet de mesurer le nombre de visites et de comprendre quelles sont les pages les plus consultées.
 
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" class="optout ui raised segment" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr" width="100%"></iframe>
+<iframe class="optout ui raised segment" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr" style="border-width: 0px; overflow:hidden; width:100%;"></iframe>
 
 ### Ce site n'affiche pas de bannière de consentement aux cookies, pourquoi ?
 

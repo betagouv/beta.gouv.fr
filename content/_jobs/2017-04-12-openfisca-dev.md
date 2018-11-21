@@ -8,9 +8,9 @@ OpenFisca cherche un·e dev intéressé·e par découvrir l'autre. Apportez vos 
 
 <!--more-->
 
-Vous rejoindrez l'[équipe autonome](https://beta.gouv.fr/2016/11/28/equipes-autonomes) qui développe OpenFisca.
+Vous rejoindrez l'[équipe autonome](https://blog.beta.gouv.fr/general/2016/11/28/equipes-autonomes/) qui développe OpenFisca.
 
-OpenFisca rend le droit calculable. Il s’agit d’un moteur de calcul libre et ouvert qui permet de modéliser le système socio-fiscal de manière collaborative et transparente. Ce logiciel est utilisé par des chercheurs en économie et d’autres services publics comme [Mes Aides](/startup/mes-aides) ou le [simulateur de coût d'embauche](/startup/embauche).
+OpenFisca rend le droit calculable. Il s’agit d’un moteur de calcul libre et ouvert qui permet de modéliser le système socio-fiscal de manière collaborative et transparente. Ce logiciel est utilisé par des chercheurs en économie et d’autres services publics comme [Mes Aides](/startups/mes-aides.html) ou le [simulateur de coût d'embauche](/startups/embauche.html).
 
 Nous cherchons une personne expérimentée pour rejoindre notre équipe et nous aider à atteindre les objectifs suivants :
 

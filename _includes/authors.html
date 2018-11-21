@@ -12,7 +12,7 @@
         <div class="article__author-name">{{ author.fullname }}</div>
         <div class="article__author-role">{{ author.role }}</div>
     </div>
-      <img alt="" src="{% if author.avatar %}{{ author.avatar }}{% else %}/img{{ target }}.jpg{% endif %}" />
+      {% include avatar.html author=author %}
       <div class="article__author-description">
         {% if author.link %}<a href="{{ author.link }}" target="_blank" rel="noopener">{% endif %}
           {{ author.content | markdownify }}
