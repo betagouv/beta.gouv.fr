@@ -28,7 +28,7 @@ plugins:
 lang: fr
 
 include: ["_pages", "_redirects"]
-exclude: ["CONTRIBUTING.md", "rb"]
+exclude: ["content/templates", "CONTRIBUTING.md", "rb"]
 
 sass:
   style: compressed
