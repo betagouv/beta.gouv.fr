@@ -1,6 +1,14 @@
 # Réécrire les anciens liens vers les pages startups et incubateurs
 /incubateur/*  /incubateurs/:splat
 /startup/*  /startups/:splat
+
+# Gérer la redirection vers blog.beta.gouv.fr
 /blog/* /blog/
+/2016/* /blog/
+/2017/* /blog/
+/2018/* /blog/
+/evenement/* /blog/
+
+# Gérer les liens vers les anciens documents
 /rapportannuel.pdf /content/docs/rapportannuel.pdf
 /guide.pdf /content/docs/guide.pdf
