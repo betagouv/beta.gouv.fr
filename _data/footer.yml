@@ -1,0 +1,48 @@
+---
+social:
+-
+  icon: twitter
+  url: https://www.twitter.com/betagouv
+-
+  icon: linkedin
+  url: https://www.linkedin.com/company/betagouv/
+-
+  icon: github
+  url: https://www.github.com/betagouv
+-
+
+links:
+-
+    label:
+    children:
+    -
+      label: English presentation
+      target: _pages/en/home.md
+    -
+      label: À propos
+      target: _pages/about.md
+    -
+      label: En détails et en chiffres
+      url: /content/docs/rapportannuel.pdf
+    -
+      label: Communauté
+      target: _pages/communaute.md
+    -
+      label: Nous contacter
+      target: _pages/contact.md
+-
+    label:
+    children:
+    -
+      label: Une mission de la DINSIC
+      url: https://www.numerique.gouv.fr/
+    -
+      label: Code source
+      url: https://github.com/betagouv/beta.gouv.fr/
+    -
+      label: Suivi d'audience et vie privée
+      target: _pages/suivi.md
+    -
+      label: Conventions de partenariat
+      url: https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/
+-

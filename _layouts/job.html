@@ -1,63 +1,53 @@
 ---
 layout: default
-title: Les Startups d’État recrutent
 ---
 
-{% assign job = page %}
-{% if job.startup %}
-    {% capture id %}/startup/{{ job.startup }}{% endcapture %}
-    {% for currentStartup in site.startup %}
-        {% if currentStartup.id == id %} {% comment %} where query doesn't work on id {% endcomment %}
-            {% assign startup = currentStartup %}
-        {% endif %}
-    {% endfor %}
-{% endif %}
+{% capture startup_id %}/startups/{{ page.startup }}{% endcapture %}
+{% assign startup = site.startups | where: "id", startup_id | first %}
 
-<section class="section-grey">
+{% assign lang = page.lang | default: site.lang | default: "fr" %}
+<div class="page article">
+  {% include hero-job.html startup=startup roles=page.roles friend=page.friend %}
+
+  {% if page.type == 'friend' %}
+    <div class="notification full-width">Une offre à pourvoir chez nos ami·e·s <br /><a href="{{ page.externalURL}}">Voir l'offre sur le site de {{ page.friend }}</a></div>
+  {% endif %}
+
+  {% if page.open %}
+    <div class="notification full-width">Poste ouvert le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%d/%m/%Y" }}</time></div>
+  {% else %}
+    <div class="notification warning full-width">Ce poste a été pourvu depuis son ouverture le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%d/%m/%Y" }}</time></div>
+  {% endif %}
+
+  <section class="section section-white">
+    {% if page.techno or page.junior %}
+      <div class="container">
+        <div class="text-quote">
+          <ul>
+            {% if page.junior %}<li>Les juniors sont bienvenu·e·s sur ce poste ! L'équipe assurera votre formation.</li>{% endif %}
+            {% if page.techno %}<li>Technologie·s retenue·s : {{ page.techno }}.</li>{% endif %}
+          </ul>
+        </div>
+      </div>
+    {% endif %}
     <div class="container">
-        <article class="panel">
-            {% capture pagetitle %}{% if startup %}{{ startup.title }}{% elsif job.type == 'friend' %}{{ job.friend }}{% else %}beta.gouv.fr{% endif %} recrute {{ job.roles | downcase }}{% endcapture %}
-            <h1>{{ pagetitle }}</h1>
-
-            {% if job.type == 'friend' %}
-                <div class="subtitle external-link">
-                    Une offre à pourvoir chez nos ami·e·s <br>
-                    {% if job.externalURL %}
-                        <a href="{{ job.externalURL}}">Voir l'offre sur le site de {{ job.friend }}</a>
-                    {% endif %}
-                </div>
-            {% endif %}
-
-            <p>Poste ouvert le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time>.</p>
-
-            {% if job.techno %}
-                <p>
-                {% if job.junior %}
-                    Juniors bienvenu·e·s sur ce poste. L'équipe assurera votre
-                    formation aux technologies retenues :
-                {% endif %}
-                <em>{{ job.techno }}</em>.
-                </p>
-            {% endif %}
-
-            {% unless job.open %}
-                {{ "**Ce poste a été pourvu.**" | markdownify }}
-            {% endunless %}
-
-            <div class="excerpt">{{ job.excerpt }}</div>
-
-            {{ content | remove: job.excerpt }}
-
-            {% if startup %}
-                <aside>{% include startup-card.html description=startup %}</aside>
-            {% endif %}
-
-            <footer>
-                <div class="ui divider"></div>
-                <h3>Une question ?</h3>
-                <p>Écrivez-nous <a href="https://twitter.com/intent/tweet?text=%40BetaGouv%20Au%20sujet%20de%20{{ job.title | uri_escape }}%20%3a%20">@BetaGouv sur Twitter</a> ou envoyez-nous <a href="mailto:social@beta.gouv.fr?subject={{ job.title | uri_escape }}">un mail</a>.</p>
-                <p>Vous avez repéré une coquille ? <a href="https://github.com/betagouv/beta.gouv.fr/edit/master/{{ job.path }}">Corrigez-la</a> !</p>
-            </footer>
-        </article>
+      <div class="lead-text">
+        {{ page.excerpt }}
+      </div>
+      <div class="richtext">
+        {{ content | remove: page.excerpt }}
+      </div>
     </div>
-</section>
+  </section>
+
+  {% if startup %}
+    <section class="section section-grey">
+      <div class="container startups">
+        <div class="row">
+          {% include card-startup.html startup = startup %}
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
+</div>

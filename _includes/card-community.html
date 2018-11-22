@@ -1,0 +1,33 @@
+{% comment %}
+  Appeler cette page avec un author
+  Ex : {% include card-community.html author=author %}
+{% endcomment %}
+
+{% assign author= include.author %}
+
+<div class="card">
+  {% if author.link %}<a href="{{ author.link }}" target="\_blank" rel="noopener">{% endif %}
+    <div class="card__cover">
+      {% include avatar.html author=author force=true %}
+    </div>
+    <div class="card__content">
+      <h3>{{ author.fullname }}</h3>
+      <div class="card__meta">
+        {{ author.role }}
+      </div>
+      {{ author.content | markdownify }}
+    </div>
+  {% if author.link %}</a>{% endif %}
+  <div class="card__extra">
+    {% for startup in author.startups %}
+      {% capture startup_id %}/startups/{{ startup }}{% endcapture %}
+      {% assign this_startup = site.startups | where: "id", startup_id | first %}
+      <div class="label label--active"><a href="{{ this_startup.url }}">{{ this_startup.title }}</a></div>
+    {% endfor %}
+    {% for startup in author.previously %}
+      {% capture startup_id %}/startups/{{ startup }}{% endcapture %}
+      {% assign this_startup = site.startups | where: "id", startup_id | first %}
+      <div class="label label--inactive"><a href="{{ this_startup.url }}">{{ this_startup.title }}</a></div>
+    {% endfor %}
+  </div>
+</div>

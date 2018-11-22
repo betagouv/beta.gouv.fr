@@ -6,9 +6,9 @@ layout: null
     { "self": "{{ site.url }}/startups" }
 , "data":
     [
-    {% assign startups = site.startup | where_exp: 'startup', 'startup.status != death' %}
+    {% assign startups = site.startups | where_exp: 'startups', 'startups.status != death' %}
     {% for startup in startups %}
-        { "id"        : "{{ startup.id | remove: '/startup/' }}"
+        { "id"        : "{{ startup.id | remove: '/startups/' }}"
         , "type"      : "startup"
         , "attributes":
             { "name"          : "{{ startup.title }}"
