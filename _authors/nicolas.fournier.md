@@ -6,5 +6,5 @@ github: nfournier
 start: 2018-10-29
 employer: OCTO
 startups:
-    - passculture
+    - pass-culture
 ---
