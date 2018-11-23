@@ -2,7 +2,7 @@
 
 ## Ajouter une Startup
 
-### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/content/templates/trampoline.html?what=startups&where=content/_startups/nom-startup.md)
+### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=startups&where=content/_startups/nom-startup.md)
 
 Les illustrations doivent être en 16:9, au format 1280 ⨉ 720 pixels, optimisées au préalable avec un outil du type [ImageOptim](https://imageoptim.com/mac) - choisir des réglages "lossy" donnant en général plus de 50% de gains à la compression, mais ne pas supprimer les métadonnées d'images.
 
@@ -20,7 +20,7 @@ La documentation des différentes propriétés à renseigner est accessible en c
 
 ## Ajouter un membre à la communauté BetaGouv
 
-### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/content/templates/trampoline.html?what=authors&where=content/_authors/prenom.nom.md) :smiley:
+### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=authors&where=content/_authors/prenom.nom.md) :smiley:
 
 Le nom du fichier est important : il doit correspondre au nom de la personne, selon le schéma `prenom.nom.md`. Les parties `prenom` et `nom` sont en minuscules et sans accents. Les espaces des noms propres sont remplacés par `_` et les tirets restent. Il faut garder .md à la fin du nom du fichier. **Il est important que cet identifiant et celui du mail `@beta.gouv.fr` correspondent**. Cela nous permet de traiter [automatiquement](https://github.com/betagouv/betaGouvBot) divers sujets liés à la gestion RH tels que abonnement et désabonnement des listes de diffusion, anticipation des fins de contrat, etc.
 
@@ -30,7 +30,7 @@ Tu peux fournir un fichier avec ta photo si tu n'as pas de compte Github, ou si 
 
 ## Ajouter une offre d'emploi
 
-### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/content/templates/trampoline.html?what=jobs&where=content/_jobs/AAAA-MM-DD-nom_offre.md) :smiley:
+### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=jobs&where=content/_jobs/AAAA-MM-DD-nom_offre.md) :smiley:
 
 > Une fois l'offre pourvue, bien penser à changer la valeur du flag `open` et de la mettre à `false`.
 
