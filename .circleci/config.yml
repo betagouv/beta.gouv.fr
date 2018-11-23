@@ -14,8 +14,9 @@ jobs:
 
       - restore_cache:
           keys:
-            - rubygems-v1-{{ checksum "Gemfile.lock" }}
-            - rubygems-v1-fallback
+            - gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+            - gem-cache-v1-{{ arch }}-{{ .Branch }}
+            - gem-cache-v1
 
       - run:
           name: Bundle Install
@@ -29,7 +30,7 @@ jobs:
             pip3 install --user --upgrade html5validator  # will install in $HOME/.local
 
       - save_cache:
-          key: rubygems-v1-{{ checksum "Gemfile.lock" }}
+          key: gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
 
