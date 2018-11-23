@@ -14,12 +14,13 @@ jobs:
 
       - restore_cache:
           keys:
-            - rubygems-v1-{{ checksum "Gemfile.lock" }}
-            - rubygems-v1-fallback
+            - gem-cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+            - gem-cache-v2-{{ arch }}-{{ .Branch }}
+            - gem-cache-v2
 
       - run:
           name: Bundle Install
-          command: bundle check || bundle install
+          command: bundle check || bundle install --path vendor/bundle
 
       - run:
           name: Install html5validator
@@ -29,7 +30,7 @@ jobs:
             pip3 install --user --upgrade html5validator  # will install in $HOME/.local
 
       - save_cache:
-          key: rubygems-v1-{{ checksum "Gemfile.lock" }}
+          key: gem-cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
 
@@ -95,3 +96,4 @@ jobs:
 #      - run:
 #          name: Check social networks friendliness
 #          command: ruby rb/test/opengraph.rb
+
