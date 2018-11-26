@@ -1,7 +1,7 @@
 <nav class="side-pane">
   <ul class="side-pane__menu sticky">
     <li class="side-pane__dropdown {% if page.url == "/startups/" %}unfolded active{% endif %}">
-      <a class="side-pane__link" href="/startups/">Nos {{ site.startups | size }} Startups d'État</a>
+      <a class="side-pane__link" href="/startups/#presentation">Nos {{ site.startups | size }} Startups d'État</a>
       <ul class="side-pane__submenu">
         {% assign phases = site.phases | sort: 'order' %}
         {% for phase in phases %}
