@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% comment %}additional_css : side-panel.css{% endcomment %}
+
+{% assign lang = page.lang | default: site.lang | default: "en" %}
+
+<div class="page article" id="presentation">
+  {% include hero-page.html title=page.title %}
+</div>
+
+<section class="documentation">
+  {% include sidebar-alpha.html %}
+  <div class="main-pane">
+    <div class="markdown">
+      {{ content }}
+    </div>
+  </div>
+</section>
