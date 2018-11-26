@@ -53,4 +53,4 @@ En dernière année d’une école d’ingénieur, de management ou de commerce 
 * Pour postuler, écrivez-nous à l’adresse recrutement@beta.gouv.fr avec votre LinkedIn / CV
 * L’entretien se fera à Cahors.
 
-Intéressé·e par la mission ? Ecrivez-nous à l'adresse contact@lotocar.fr
+Intéressé·e par la mission ? Ecrivez-nous vite.
