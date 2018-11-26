@@ -30,7 +30,7 @@ Par ailleurs, on estime que **70% des dossiers déposés sont considérés incom
 
 ## Le produit : Monpermisdeconstruirefacile 
 
-La plateforme envisagée permettra pour le demandeur de déposer simplement en ligne sa demande en toute sécurité et de pouvoir interagir directement avec le service instructeur (par exemple modifier son dossier pour répondre aux problématiques de complétude). 
+La plateforme envisagée permettra pour le demandeur de déposer simplement en ligne sa demande en toute sécurité et de pouvoir interagir directement avec le service instructeur (par exemple pour apporter des précisions à son dossier, ou ajouter des documents manquants).
 
 L’ensemble du dossier sera stocké et les échanges seront tracés et datés pour rendre l’instruction transparente. **Le demandeur, le service instructeur et le service de l’urbanisme de la mairie auront accès à un dossier unique, partagé et sécurisé.** Le demandeur pourra suivre l’avancement du traitement de son dossier (statut). 
  
