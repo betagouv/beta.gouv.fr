@@ -83,8 +83,7 @@ layout: default
 
   <section class="section section-grey">
     <div class="container">
-      {% assign id = page.id | remove: '/startups/' %}
-      {% include grid-authors.html id=id %}
+      {% include grid-authors.html startup=page %}
     </div>
   </section>
 
