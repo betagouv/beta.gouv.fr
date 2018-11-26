@@ -1,6 +1,6 @@
 ---
 title: Mobilot
-mission:
+mission: Solution de mobilité en milieu rural
 owner: Préfecture du lot (46) / ADEME
 incubator: dinsic
 status: construction
