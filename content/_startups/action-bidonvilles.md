@@ -1,7 +1,7 @@
 ---
 title: Action Bidonvilles
 mission: Partager l'information sur les bidonvilles pour favoriser la mise en place d'actions pertinentes
-owner: Délégation interministérielle à l'hébergement et à l'accès au logement (Dihal)
+owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 incubator: mtes
 status: construction
 start: 2018-10-01
