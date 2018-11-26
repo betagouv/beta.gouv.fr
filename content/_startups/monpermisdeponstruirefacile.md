@@ -1,6 +1,6 @@
 ---
-title: MonPermisdeConstruireFacile
-mission: Déposez et gérez votre demande de permis en toute simplicité
+title: Monpermisdeconstruirefacile
+mission: Déposez et gérez votre demande de permis de construire en toute simplicité
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
 status: construction
@@ -16,7 +16,7 @@ contact: jean-michel.coste@developpement-durable.gouv.fr
 
 Déposer un permis de construire est une démarche importante dans le projet de vie d’un usager. Aujourd’hui, elle est souvent considérée comme un “parcours du combattant” semé d’incertitudes et d’interactions 100% papier avec le service qui l’instruit. 
 
-**Chaque année, plus d’un million de demandes d’autorisation d’urbanisme** (permis de construire, d'aménager ou de démolir, déclarations préalables) **sont déposées en France** par des particuliers et des professionnels (pour 20 %).
+**Chaque année, plus d’un million de demandes d’autorisation d’urbanisme** (permis de construire, d'aménager ou de démolir, déclarations préalables) **sont déposées en France** par des particuliers (80% des demandes) et des professionnels.
 
 En application du principe du guichet unique, elles sont adressées par courrier recommandé avec AR ou déposées à la mairie de la commune dans laquelle les travaux sont envisagés. **Plusieurs copies du dossier sont exigées et jusqu’à 6 copies de certaines pièces** soit environ 2 kilos de papier par dossier pour des particuliers.
 
@@ -26,7 +26,7 @@ Aujourd’hui, l’intégralité du travail d’instruction et la consultation d
 
 Par ailleurs, on estime que **70% des dossiers déposés sont considérés incomplets** par les services instructeurs générant des aller retour avec le demandeur et un allongement des délais d’instruction. 
 
-**De part sa construction, le processus “papier” de l’instruction des DAU souffre d'opacité, de pratiques hétérogènes, génère des coûts importants de fonctionnement mais surtout est considéré comme un véritable “parcours du combattant” par beaucoup d’usagers qui appréhendent délais, coûts et incertitudes liés à ce projet de vie.  **
+**De par sa construction, le processus “papier” de l’instruction des Demandes d’Autorisation d’Urbanisme (DAU) souffre d'opacité, de pratiques hétérogènes, génère des coûts importants de fonctionnement mais surtout est considéré comme un véritable “parcours du combattant” par beaucoup d’usagers qui appréhendent délais, coûts et incertitudes liés à ce projet de vie.**
 
 ## Le produit : Monpermisdeconstruirefacile 
 
@@ -34,7 +34,7 @@ La plateforme envisagée permettra pour le demandeur de déposer simplement en l
 
 L’ensemble du dossier sera stocké et les échanges seront tracés et datés pour rendre l’instruction transparente. **Le demandeur, le service instructeur et le service de l’urbanisme de la mairie auront accès à un dossier unique, partagé et sécurisé.** Le demandeur pourra suivre l’avancement du traitement de son dossier (statut). 
  
-**Le service instructeur aura la possibilité d’ouvrir le dossier ou une partie de celui-ci à un service qu’il doit consulter pour qu’il dépose un avis. **
+**Le service instructeur aura la possibilité d’ouvrir le dossier ou une partie de celui-ci à un service qu’il doit consulter pour qu’il dépose un avis.**
 
 Le service de l’urbanisme pourra récupérer la proposition de décision du service instructeur et déposer sa décision finale sur la plate forme sans signature électronique.
 
@@ -42,7 +42,7 @@ Le demandeur sera informé automatiquement et immédiatement de la décision con
 
 ## Les premières étapes 
 
-L’équipe analyse actuellement l’intérêt de se “raccorder” avec la solution “démarches simplifiées” portée par la DINSIC qui répond fonctionnellement à de nombreux aux éléments coeur envisagés dans le produit. L’articulation avec le produit ALDAU (assistance en ligne des demandes d’autorisation d’urbanisme) sera également analysée.
+L’équipe analyse actuellement l’intérêt de se “raccorder” avec la solution “démarches simplifiées” portée par la DINSIC qui répond fonctionnellement à de nombreux aux éléments coeur envisagés dans le produit. L’articulation avec le produit ALDAU (Assistance en Ligne des Demandes d’Autorisation d’Urbanisme) sera également analysée.
 
 L’ambition est de démarrer avec dépôt dématérialisé des déclarations préalables, actes simples qui représentent 70% des actes d’urbanisme instruits chaque année, soit près de 700 000, pour vérifier si le produit répond bien aux irritants identifiés.
 
