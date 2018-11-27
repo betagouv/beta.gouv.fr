@@ -5,6 +5,20 @@
 
 {% assign author= include.author %}
 
+{% comment %}
+  Détecter si l'author est actif ou non. Par défaut, oui.
+{% endcomment %}
+
+{% capture label %}label--active{% endcapture %}
+
+{% if author.end %}
+  {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
+  {% capture timestampEnd %}{{ author.end | date: '%s' }}{% endcapture %}
+  {% if timestampNow > timestampEnd %}
+    {% capture label %}label--inactive{% endcapture %}
+  {% endif %}
+{% endif %}
+
 <div class="card">
   {% if author.link %}<a href="{{ author.link }}" target="\_blank" rel="noopener">{% endif %}
     <div class="card__cover">
@@ -22,7 +36,7 @@
     {% for startup in author.startups %}
       {% capture startup_id %}/startups/{{ startup }}{% endcapture %}
       {% assign this_startup = site.startups | where: "id", startup_id | first %}
-      <div class="label label--active"><a href="{{ this_startup.url }}">{{ this_startup.title }}</a></div>
+      <div class="label {{ label }}"><a href="{{ this_startup.url }}">{{ this_startup.title }}</a></div>
     {% endfor %}
     {% for startup in author.previously %}
       {% capture startup_id %}/startups/{{ startup }}{% endcapture %}

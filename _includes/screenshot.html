@@ -3,9 +3,9 @@
   Ex : {% include screenshot.html startup=startup %}
 {% endcomment %}
 
-{% assign id = include.startup.id | remove: '/startups/' %}
+{% assign startup_id = include.startup.id | remove: '/startups/' %}
 {% assign screenshot_files = site.static_files | where: "startups_img", true %}
-{% assign screenshot_file = screenshot_files | where: 'basename', id | first %}
+{% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
 {% if screenshot_file %}
   {% assign screenshot_path = screenshot_file.path %}
   <img class="screenshot" src="{{ screenshot_path }}" title="Interface de {{ include.startup.title }}" alt="">
