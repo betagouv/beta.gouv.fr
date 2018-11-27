@@ -50,9 +50,9 @@ L’équipe de beta.gouv.fr peut être contactée directement à [contact@beta.g
 
 ### Liens utiles
 
-* [Guide de lancement](/content/docs/guide.pdf) : facteurs clés de succès, conditions d'engagement, appui opérationnel, formations, supports contractuels ;
+* [Guide de lancement](/content/docs/guide.pdf) : Découvrez les facteurs clés de succès, conditions d'engagement, appui opérationnel, formations, supports contractuels pour lancer une Startup d'Etat ;
 
-* [wiki](https://github.com/betagouv/beta.gouv.fr/wiki) : processus internes ;
+* [Wiki](https://github.com/betagouv/beta.gouv.fr/wiki) : Où sont documenter les processus internes, règles et bonnes pratiques ;
 
 * [Des Startups d'État à l'État plateforme](http://www.fondapol.org/etude/pierre-pezziardi-et-henri-verdier-des-startups-detat-a-letat-plateforme/) : les produits numériques des incubateurs publics sont la face émergée d'une transition culturelle profonde des grandes organisations (H. Verdier, P. Pezziardi éd. Fondapol, janvier 2017) ;
 
