@@ -1,4 +1,13 @@
 <!--  Scripts-->
+<script type="text/javascript" src="https://unpkg.com/lozad@1.7.0/dist/lozad.min.js"></script>
 {% for file in page.additional_js %}
   <script type="text/javascript" src="{% if file contains '://' %}{{ file }}{% else %}/assets/additional/js/{{ file }}{% endif %}"></script>
 {% endfor %}
+
+<script type="text/javascript">
+    window.addEventListener('load', function () {
+        // lazy loads elements with default selector as '.lozad'
+        const observer = lozad();
+        observer.observe();
+    });
+</script>

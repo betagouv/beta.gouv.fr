@@ -8,10 +8,10 @@
 {% assign screenshot_file = screenshot_files | where: 'basename', author_id | first %}
 {% if screenshot_file %}
   {% assign screenshot_path = screenshot_file.path %}
-  <img class="screenshot" src="{{ screenshot_path }}" title="{{ include.author.fullname }}" alt="">
+  <img class="screenshot lozad" data-src="{{ screenshot_path }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
 {% elsif include.author.avatar %}
-  <img class="screenshot" src="{{ include.author.avatar }}" title="{{ include.author.fullname }}" alt="">
+  <img class="screenshot lozad" data-src="{{ include.author.avatar }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
 {% elsif include.force %}
   {% assign screenshot_path = "/img/logo-generique-startup-carre.jpg" %}
-  <img class="screenshot" src="{{ screenshot_path }}" title="{{ include.author.fullname }}" alt="">
+  <img class="screenshot lozad" data-src="{{ screenshot_path }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
 {% endif %}
