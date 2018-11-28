@@ -50,7 +50,7 @@ L’équipe de beta.gouv.fr peut être contactée directement à [contact@beta.g
 
 ### Liens utiles
 
-* [Guide de lancement](/content/docs/guide.pdf) : Découvrez les facteurs clés de succès, les conditions d'engagement, l'appui opérationnel, les formations ou encore les supports contractuels pour lancer une Startup d'Etat ;
+* [Guide de lancement](/content/docs/guide.pdf) : Découvrez les facteurs clés de succès, les conditions d'engagement, l'appui opérationnel, les formations ou encore les supports contractuels pour lancer une Startup d'État ;
 
 * [Wiki](https://github.com/betagouv/beta.gouv.fr/wiki) : Où sont documentés nos processus internes, règles et bonnes pratiques ;
 
