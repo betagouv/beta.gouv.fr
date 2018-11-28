@@ -2,7 +2,7 @@
 roles: un·e chargé.e de développement
 startup: mobilot
 techno:
-open: true
+open: false
 ---
 
 Au sein d’une équipe resserrée (une intrapreneur(e), un coach et vous) sous la tutelle des services du premier ministre, vous contribuerez à la conception/déploiement d’une solution innovante visant à impacter la vie d’une partie importante de la population rurale française.
