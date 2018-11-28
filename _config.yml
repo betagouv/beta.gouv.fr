@@ -27,7 +27,7 @@ plugins:
 
 lang: fr
 
-include: ["_pages", "_redirects"]
+include: ["_pages", "_redirects", "_headers"]
 exclude: ["content/templates", "CONTRIBUTING.md", "rb", "vendor"]
 
 sass:
