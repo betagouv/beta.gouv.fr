@@ -22,9 +22,9 @@ Chaque année, près de 16 millions de ces bordereaux sont édités. Cependant e
 
 En 2016, on évaluait à 35% le delta entre la production de déchets dangereux (11 010 281 tonnes) et leur traitement (7 165 233 tonnes, Eurostat 2016) **indiquant une perte de traçabilité de presque 3.9 millions de tonnes de déchets dangereux**, mais surtout un risque environnemental majeur avec la  “disparition” de déchets dans la nature...
 
-Les déchets dangereux abandonnés (exploitants défaillants) génèrent également pollutions et interventions de l’état. La prise en charge des sites pollués à responsables défaillants par l’ADEME a représenté entre 2011-2014 près de 107 millions d’euros.
+Les déchets dangereux abandonnés (exploitants défaillants) génèrent également pollutions et interventions de l’État. La prise en charge des sites pollués à responsables défaillants par l’ADEME a représenté entre 2011-2014 près de 107 millions d’euros.
 
-Il arrive de façon récurrente que certains sites de stockage autorisés (en difficultés financières par exemple) dépassent les seuils autorisés. Ces surstockage indiquent un risque imminent pour l’environnement et le voisinage (pollution, incendie, etc). Or ces sociétés ne font pas nécessairement l’objet d’un contrôle du fait que les services de l’Etat ne disposent pas d’alertes spécifiques.
+Il arrive de façon récurrente que certains sites de stockage autorisés (en difficultés financières par exemple) dépassent les seuils autorisés. Ces surstockages indiquent un risque imminent pour l’environnement et le voisinage (pollution, incendie, etc). Or ces sociétés ne font pas nécessairement l’objet d’un contrôle du fait que les services de l’État ne disposent pas d’alertes spécifiques.
 
 **Au delà d’un enjeu d’efficience, un problème d’efficacité de la traçabilité qui questionne et génère des irritants forts pour les professionnels**
 
