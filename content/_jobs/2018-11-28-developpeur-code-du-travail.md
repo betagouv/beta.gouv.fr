@@ -12,8 +12,7 @@ Et si on rendait le droit du travail plus lisible ?!
 
 On recherche un·e développeur·e backend pour nous aider à créer le [code du travail numérique](https://beta.gouv.fr/startup/codedutravail.html). L'objectif de cette Start-up d'État est d'améliorer l'accès au droit du travail, de le rendre compréhensible pour les personnes qu'il concerne : les employeurs et les salariés.
 
-Pour relever ce défi et pouvoir apporter une réponse personnalisée à nos usagers, nous devons impérativement interroger les conventions collectives et les intégrer aux réponses du site du
-Code du travail numérique.
+Pour relever ce défi et pouvoir apporter une réponse personnalisée à nos usagers, nous devons impérativement interroger les conventions collectives et les intégrer aux réponses du site du Code du travail numérique.
 
 Il s'agit donc dans un premier temps d'intégrer la base des conventions collectives ([KALI](https://www.data.gouv.fr/fr/datasets/kali-conventions-collectives-nationales/)), de fournir une API, et d'intégrer ces données aux résultats site du code du travail numérique.
 
@@ -31,7 +30,7 @@ Vous avez l’habitude des modalités de contribution du logiciel libre (issues,
 
 Vous êtes particulièrement sensible à vos utilisateurs et à l'expérience que vous leur proposez.
 
-Vous êtes familier avec le concept de "Code is law" et particulièrement intéressé par le droit du travail et ses spécificités.
+Vous êtes familier avec le concept de "Code is law" et souhaitez rendre le droit du travail plus accessible aux citoyens.
 
 ## Modalités
 
