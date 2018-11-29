@@ -5,7 +5,7 @@ avatar: https://avatars3.githubusercontent.com/SelimBoudaa?s=600
 link: http://www.sinusoide.fr
 github: SelimBoudaa # optionnel : nom d'utilisateur GitHub, permet d'être ajouté automatiquement à l'organisation GitHub betagouv
 start: 2018-10-05
-end: 2018-12-31
+end: 2018-11-30
 employer: independent/octo
 startups:
 previously:
