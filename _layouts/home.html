@@ -60,6 +60,19 @@ layout: default
     </div>
 </section>
 
-<section class="section section-grey newsletter">
-  <iframe src="https://app.mailjet.com/widget/iframe/1O2v/9ud" width="790" height="390" style="border-width: 0px;"></iframe>
+<section class="section section-white newsletter">
+  <div class="container">
+    <div class="form__container">
+      <form action="https://app.mailjet.com/widget/iframe/1O2v/9ud#" method="post" name="form" target="_blank" novalidate="">
+        <input type="hidden" id="csrf_token" name="csrf_token" value="NmQ4NDQ5NmQ4MDY2NmQ4YmU0YjVlMjc4Y2RkZGMwNWJkOTI3NmE0NmIyM2I0ZTU1NzYwZWZiNWExNmE3YjBmMQ==">
+        <div class="form__group">
+          <label for="form-email">
+            En renseignant votre adresse mail, vous recevrez régulièrement nos actualités. Vous pourrez à tout moment vous désinscrire de nos envois :
+          </label>
+          <input type="email" placeholder="Adresse E-Mail" name="w-field-field-36469-172104-430683-email" id="form-email" required="required">
+        </div>
+        <button class="button" type="submit" name="subscribe" id="form-submit">Je m'inscris à la newsletter de beta.gouv.fr</button>
+      </form>
+    </div>
+  </div>
 </section>
