@@ -1,7 +1,7 @@
 ---
 roles: un·e développeur·se web full-stack
 startup: gps-usagers
-techno: Choix libre
+techno: javascript ou ruby ou python
 junior: true
 open: true
 ---
