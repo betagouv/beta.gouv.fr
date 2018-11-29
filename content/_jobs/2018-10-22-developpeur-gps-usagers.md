@@ -3,7 +3,7 @@ roles: un·e développeur·se web full-stack
 startup: gps-usagers
 techno: javascript ou ruby ou python
 junior: true
-open: true
+open: false
 ---
 
 La startup GPS usagers recherche un·e développeur·se web full-stack à partir de mi-novembre 2018.
