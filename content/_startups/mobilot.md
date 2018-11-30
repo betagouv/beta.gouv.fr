@@ -1,5 +1,5 @@
 ---
-title: Mobilot
+title: MobiLot
 mission: Covoiturage solidaire entre les habitants des communes et villages du Lot
 owner: Ademe / Préfecture du Lot (46)
 incubator: dinsic
@@ -14,22 +14,22 @@ contact: contact@mobilot.beta.gouv.fr
 
 ## Le constat
 
-Dans les milieux ruraux, en l’absence d’un maillage des transports en commun suffisant, les populations fragiles, qui n’ont souvent pas de véhicule (qui sont sans véhicule), sont dans une situation d’isolement. Cela concerne 10% de la population totale du Lot, soit 17.000 personnes qui éprouvent des difficultés à trouver un emploi, à accéder à des soins ou des services collectifs ou encore effectuer des démarches administratives.
+Dans les milieux ruraux, en l’absence d’un maillage des transports en commun suffisant, les populations fragiles, pour la plupart non véhiculées, sont dans une situation d’isolement. Cela concerne 10% de la population totale du Lot (nous territoire d'expérimentation), soit 17.000 personnes qui éprouvent des difficultés à trouver un emploi, à accéder à des soins ou des services collectifs ou encore effectuer des démarches administratives.
 
 Des offres de transport alternatives - auto-partage, covoiturage, ... - existent grâce aux solidarités locales, mais sont peu connues et/ou sous-utilisées. La fracture numérique rend les solutions numériques existantes difficilement utilisables dans ces territoires. Enfin, les problèmes de mobilité ont des répercussions sur l’attractivité du territoire et l’accessibilité des services et des entreprises.
 
-## Mobilot
+## MobiLot
 
-Mobilot souhaite créer un maillage (dense dans l'idéal) de lignes de covoiturage alimentées par les trajets réguliers des conducteurs et faire que le service soit accessible pour une personne ne disposant ni d’un accès internet, ni d’un smartphone.
+MobiLot souhaite créer un maillage (dense dans l'idéal) de lignes de covoiturage alimentées par les trajets réguliers des conducteurs et faire que le service soit accessible pour une personne ne disposant ni d’un accès internet, ni d’un smartphone.
 
 La personne souhaitant effectuer un déplacement fait sa requête à la plateforme par appel téléphonique ou SMS. La plateforme consulte la base de données et si le trajet est pris en charge, opère une vérification de disponibilité auprès du conducteur (SMS ou appel) avant d’envoyer aux deux parties les détails du covoiturage (horaire, lieu, participation, etc).
 
-Pour s’adapter à la typologie de transport du Lot, la solution combinera à la fois des éléments de fonctionnement du covoiturage entre villes (comme Blablacar) et du covoiturage urbain domicile-travail tout en prenant en compte les particularités démographiques et la couverture réseau du département :
+Pour s’adapter à la typologie de transport du Lot, la solution combinera à la fois des éléments de fonctionnement du covoiturage entre villes et du covoiturage urbain domicile-travail tout en prenant en compte les particularités démographiques et la couverture réseau du département :
 - La distance entre 2 adresses d’une même commune étant négligeables, seuls des trajets entre des communes différentes seront traités. Ils seront simplifiés comme des "lignes" ou des "couloirs" entre commune A et commune B.
 - Pour créer un maillage avec une certaine garantie de disponibilité, seuls les trajets réguliers des conducteurs seront comptabilisés. Cela simplifie en outre la déclaration des trajets par les conducteurs.
 - Pour toucher une population de tous âges disposant souvent d’une couverture internet insuffisante, la canal SMS sera privilégié avec la possibilité de recourir aux appels téléphoniques.
 
-Parallèlement au développement de cette solution, il sera fait l’expérimentation de 3 outils déjà existants (Ecosyst'm, Reso pousse et Atchoum) sur des zones spécifiques afin d’en évaluer la pertinence et l’efficacité (KPIs à l’appui) sur une région comme le Lot.
+Parallèlement au développement de cette solution, il sera fait l’expérimentation de 3 outils déjà existants (Ecosyst'm, Rezopouce et Atchoum) sur des zones spécifiques afin d’en évaluer la pertinence et l’efficacité (KPIs à l’appui) sur une région comme le Lot.
 
 À la fin des expérimentations, si les résultats sont concluants, le dispositif adopté pourra être constitué d’une solution unique mais aussi d’une combinaison de solutions.
 
