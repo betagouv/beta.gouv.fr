@@ -2,3 +2,13 @@
 {% for file in page.additional_js %}
   <script type="text/javascript" src="{% if file contains '://' %}{{ file }}{% else %}/assets/additional/js/{{ file }}{% endif %}"></script>
 {% endfor %}
+
+<!-- Lazy Loading par défaut sur toutes les pages -->
+<script type="text/javascript" src="/assets/additional/js/lozad.min.js"></script>
+<script type="text/javascript">
+    window.addEventListener('load', function () {
+        // lazy loads elements with default selector as '.lozad'
+        const observer = lozad();
+        observer.observe();
+    });
+</script>
