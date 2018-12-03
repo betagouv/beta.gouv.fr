@@ -23,6 +23,9 @@ markdown: kramdown
 plugins:
   - jekyll-redirect-from
 
+# Permettre de créer des publications datées dans le futur
+future: true
+
 # Options du template
 
 lang: fr
