@@ -16,7 +16,7 @@ alpha-more:
 alpha-link: https://startupdetat.typeform.com/to/kS1xfw
 ---
 
-Pour aller plus loin, et parce que les Startups d'État et leurs intrapreneurs vont être de plus en plus nombreux dans les mois et années à venir, il était nécessaire qu’une formation accélérée sur les méthodes de la communauté beta.gouv.fr voit le jour.
+Alpha est la formation accélérée aux méthodes de la communauté beta.gouv.fr. Elle est destinée à accompagner les nouvelle Startups d'États et leurs intrapreneurs.
 
 La formation Alpha est née en novembre 2017. Depuis, les sessions se sont succédé et la formule n'a cessé de s'améliorer. Elle reste **la meilleure façon de découvrir la méthode Startup d'État** et se destine aux acteurs de l’innovation du secteur public, membres d’une Startup d'État ou désireux d’en créer une.
 
@@ -24,6 +24,6 @@ Pour les accompagner, nos intervenants coachs, intrapreneurs, développeurs et c
 
 <img src="/img/alpha/alpha-first-session.jpg" alt="Première session Alpha, 6 et 7 novembre 2017" style="width:75%;display: block;margin-left: auto;margin-right: auto;"/>
 
-Vous êtes coach, développeur·se, designer, chargé·e de développement, intrapreneur·se, sponsor, (futur·e) membre d’une Startup d’État ? Vous êtes agent public désireux d'innover et vous ne savez pas comment faire ? **La formation Alpha est faite pour vous !**
+Vous êtes coach, développeuse, designer, chargée de développement, intrapreneur, sponsor, (futurs) membres d’une Startup d’État ? Vous êtes agent public, vous souhaitez innover et vous ne savez pas comment faire ? **La formation Alpha est faite pour vous !**
 
 Venez vivre « des journées intenses, riches, ponctuées de rencontres », prendre « une grande claque », découvrir « une nouvelle façon de travailler » avec « des intervenants investis par une bonne énergie » à travers « une formation percutante et interactive » parce que vous êtes « convaincu et décidé à faire éclore et réussir le projet » et que vous avez besoin de « repères utiles pour démarrer en confiance » comme en témoignent nos participants !
