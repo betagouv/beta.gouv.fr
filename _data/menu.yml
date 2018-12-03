@@ -11,6 +11,9 @@ nav:
   label: Communauté
   target: _pages/communaute.md
 -
+  label: Formation
+  target: _pages/formation/alpha.md
+-
   label: À propos
   target: _pages/about.md
 -

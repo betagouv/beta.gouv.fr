@@ -54,3 +54,41 @@ blockquote {
 .side-pane li.unfolded.side-pane__dropdown:hover .side-pane__link {
   background-image: url("/assets/images/icons/external/arrow-down-white.svg");
 }
+
+/* Styles pour les iframes de vidéos */
+
+.mooc-iframe-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 749px) {
+  .mooc-iframe-center {
+    width: 100%
+  }
+}
+
+@media (min-width: 750px) {
+  .mooc-iframe-center {
+    text-align: center;
+    width: 75%
+  }
+}
+
+.mooc-iframe-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.mooc-iframe-container iframe, .mooc-iframe-container object, .mooc-iframe-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0px;
+}
