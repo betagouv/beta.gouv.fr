@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+{% comment %}additional_css : side-panel.css grid.css{% endcomment %}
+
+{% assign lang = page.lang | default: site.lang | default: "en" %}
+
+<div class="page article" id="presentation">
+  {% include hero-page.html title=page.title %}
+</div>
+
+<section class="documentation">
+  {% include sidebar-alpha.html %}
+  <div class="main-pane">
+    <div class="markdown">
+      {{ content }}
+    </div>
+    <h2>Découvrez notre équipe</h2>
+    <div class="community">
+      <div class="grid">
+        {% for intervenant in page.intervenants %}
+          {% capture target %}/authors/{{ intervenant }}{% endcapture %}
+          {% assign author = site.authors | where: "id", target | first %}
+          {% include card-community.html author=author %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

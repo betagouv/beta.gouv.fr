@@ -1,0 +1,4 @@
+## Permettrea aux autres sites d'avoir accès à l'API via https://beta.gouv.fr/api/*
+## Documentation : https://www.netlify.com/docs/headers-and-basic-auth/
+/api/*
+  Access-Control-Allow-Origin: *

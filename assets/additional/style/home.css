@@ -18,15 +18,10 @@
   margin-bottom: 2em;
 }
 
-/* Centrer l'iframe pour la newsletter */
+/* Centrer la section newsletter */
 
 .newsletter {
-  width=100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding-top: 0em;
-  padding-bottom: 1em;
+  text-align: center;
 }
 
 /* Ancien CSS épuré : reprise de la section mosaic */

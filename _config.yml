@@ -23,11 +23,14 @@ markdown: kramdown
 plugins:
   - jekyll-redirect-from
 
+# Permettre de créer des publications datées dans le futur
+future: true
+
 # Options du template
 
 lang: fr
 
-include: ["_pages", "_redirects"]
+include: ["_pages", "_redirects", "_headers"]
 exclude: ["content/templates", "CONTRIBUTING.md", "rb", "vendor"]
 
 sass:
@@ -46,31 +49,18 @@ collections:
   incubators:
     output: true
     permalink: /incubateurs/:title.html
-  startups:
-    output: true
-    permalink: /startups/:title.html
-  phases:
   jobs:
     output: true
     permalink: /recrutement/:year/:month/:day/:title.html
+  mooc:
+    output: true
+    permalink: /alpha/mooc/:title.html
+  phases:
+  startups:
+    output: true
+    permalink: /startups/:title.html
 
 defaults:
-  - scope:
-      path: "img/startups"
-    values:
-      startups_img: true
-  - scope:
-      path: "img/authors"
-    values:
-      authors_img: true
-  - scope:
-      path: ""
-      type: "startups"
-    values:
-      layout: startup
-      additional_css:
-        - startups.css
-        - authors-grid.css
   - scope:
       path: ""
       type: "incubators"
@@ -87,3 +77,26 @@ defaults:
       title: Recrutement
       additional_css:
         - grid.css
+  - scope:
+      path: ""
+      type: "mooc"
+    values:
+      layout: formation/mooc
+      additional_css:
+        - side-panel.css
+  - scope:
+      path: ""
+      type: "startups"
+    values:
+      layout: startup
+      additional_css:
+        - startups.css
+        - authors-grid.css
+  - scope:
+      path: "img/authors"
+    values:
+      authors_img: true
+  - scope:
+      path: "img/startups"
+    values:
+      startups_img: true

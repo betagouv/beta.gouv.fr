@@ -3,6 +3,10 @@
 /startup/*  /startups/:splat
 
 # Gérer la redirection vers blog.beta.gouv.fr
+
+# Hack de l'ancien lien de l'article Alpha, bien référencé
+/2017/12/08/alpha1.html /alpha/
+
 /blog/* /blog/
 /2016/* /blog/
 /2017/* /blog/

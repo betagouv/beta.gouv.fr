@@ -3,7 +3,6 @@
   Ex : {% include card-startup.html startup = startup %}
 {% endcomment %}
 
-{% assign id = startup.id | remove: '/startups/' %}
 <div class="card">
   <a href="{{ startup.url }}">
     <div class="card__cover">
@@ -35,42 +34,42 @@
     </p>
   </div>
   <div class="card__extra">
-    {% assign id = startup.id | remove: "/startups/" %}
+    {% comment %}<!-- Initialiser les équipes : les actuels, ceux qui sont parti, et ceux qui se sont retirés -->{% endcomment %}
     {% assign current_team = "" %}{% comment %}membres actuels, actifs{% endcomment %}
-    {% assign inactive_team = "" %}{% comment %}membres actuels, inactifs{% endcomment %}
+    {% assign current_inactive_team = "" %}{% comment %}membres actuels, inactifs{% endcomment %}
     {% assign past_team = "" %}{% comment %}anciens membres, toujours actifs{% endcomment %}
-    {% assign inactive_past_team = "" %}{% comment %}anciens membres, inactifs{% endcomment %}
-    {% assign team = site.authors | where:"startups", id %}
+
+    {% comment %}<!-- Initialiser l'id -->{% endcomment %}
+    {% assign startup_id = startup.id | remove: "/startups/" %}
+
+    {% comment %}<!-- On boucle en premier sur tous ceux qui se sont déclarés actifs sur la startup -->{% endcomment %}
+    {% assign team = site.authors | where:"startups", startup_id %}
     {% for people in team %}
+      {% comment %}<!-- On détecte ceux qui ne sont plus actifs sur la communauté -->{% endcomment %}
       {% if people.end %}
         {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
         {% capture timestampEnd %}{{ people.end | date: '%s' }}{% endcapture %}
         {% if timestampNow > timestampEnd %}
           {% capture to_append %}<div class="label label--inactive">{{ people.fullname }}</div>{% endcapture %}
-          {% assign inactive_team = inactive_team | append: to_append %}
+          {% assign current_inactive_team = current_inactive_team | append: to_append %}
           {% continue %}
         {% endif %}
       {% endif %}
+      {% comment %}<!-- On passe aux actifs de la communauté et de la startup -->{% endcomment %}
       {% capture to_append %}<div class="label label--active">{{ people.fullname }}</div>{% endcapture %}
       {% assign current_team = current_team | append: to_append %}
     {% endfor %}
-    {% assign team = site.authors | where:"previously", id %}
+
+    {% comment %}<!-- Maintenant, on passe à tous ceux qui se sont déclarés inactifs spontanément -->{% endcomment %}
+    {% assign team = site.authors | where:"previously", startup_id %}
     {% for people in team %}
-      {% if people.end %}
-        {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
-        {% capture timestampEnd %}{{ people.end | date: '%s' }}{% endcapture %}
-        {% if timestampNow > timestampEnd %}
-          {% capture to_append %}<div class="label label--inactive">{{ people.fullname }}</div>{% endcapture %}
-          {% assign inactive_past_team = inactive_past_team | append: to_append %}
-          {% continue %}
-        {% endif %}
-      {% endif %}
       {% capture to_append %}<div class="label label--inactive">{{ people.fullname }}</div>{% endcapture %}
       {% assign past_team = past_team | append: to_append %}
     {% endfor %}
+
+    {% comment %}<!-- Pour l'affichage, on met les actifs, ceux qui ne sont plus dans la commaunté, puis ceux déclarés inactifs -->{% endcomment %}
     {{ current_team }}
+    {{ current_inactive_team }}
     {{ past_team }}
-    {{ inactive_team }}
-    {{ inactive_past_team }}
   </div>
 </div>
