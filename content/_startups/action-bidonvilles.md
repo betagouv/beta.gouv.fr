@@ -20,7 +20,7 @@ Pour résorber ces bidonvilles, les territoires sont désormais incités par [l�
 
 Cependant, ces actions ne sont aujourd’hui déployées que sur une partie des bidonvilles : certains sont exempts de toute intervention, d’autres font l’objet de solutions de court-terme ne permettant pas une résorption durable des sites.
 
-Cela s’explique en grande partie par la multiplicité des acteurs et la difficulté de les mobiliser ainsi que par le manque d’informations partagées sur les bidonvilles et sur les résultats des actions menées. Au regard de ces éléments et de la rapidité avec laquelle les situations évoluent, les territoires ne sont aujourd’hui pas en mesure de connaître avec précision où sont les bidonvilles et quelles actions y sont menées.
+Cela s’explique en grande partie par la multiplicité des acteurs et la difficulté de les mobiliser ainsi que par le manque d’informations partagées sur les bidonvilles et sur les résultats des actions menées. Au regard de ces éléments et de la rapidité avec laquelle les situations évoluent, les territoires ne sont aujourd’hui pas en mesure de connaître avec précision où sont les bidonvilles et quelles actions y sont menées. Savoir ce qui marche et ce qui ne marche pas, renforcer l'observation et l'information, consolider le pilotage aux niveaux national et local, cela permettra d’agir plus et mieux.
 
 ## La mission d’Action Bidonvilles : partager l’information pour favoriser la mise en place d’interventions pertinentes
 
