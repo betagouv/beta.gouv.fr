@@ -17,7 +17,7 @@ Nous sommes aujourd'hui une équipe de 5 personnes : 3 développeurs (Antoine, T
 
 L'équipe est financée par le Ministère chargé des Transports qui nous laisse une autonomie totale sur la communication, l'agenda, les outils utilisés, la gestion du budget et les recrutements. En particulier, nous n'exécutons donc pas de cahier des charges, ne dépendons pas de circuits de validation interminables et tentons de limiter les réunions internes au strict minimum pour laisser le temps à chacun de s'organiser comme il s'entend pour être le plus efficace possible.
 
-Nous travaillons à l'incubateur de services numériques de la Direction interministérielle du numérique (DINSIC), mais avons de nombreuses interactions avec les équipes voisines d'Etalab (qui sont notamment en charge de l'ouverture des données publiques et qui gèrent la plateforme data.gouv.fr). Notre feuille de route est guidée par les besoins de nos utilisateurs et par notre objectif partagé de rendre l'ouverture des données tranport la plus utile possible pour améliorer l'information des voyageurs sur l'ensemble du territoire français, dans les grandes métropoles comme dans les zones rurales, et ce, le plus rapidement possible.
+Nous travaillons à l'incubateur de services numériques de la Direction interministérielle du numérique (DINSIC), mais avons de nombreuses interactions avec les équipes voisines d'Etalab (qui sont notamment en charge de l'ouverture des données publiques et qui gèrent la plateforme data.gouv.fr). Notre feuille de route est guidée par les besoins de nos utilisateurs et par notre objectif partagé de rendre l'ouverture des données tranport la plus rapide et la plus utile possible pour améliorer l'information des voyageurs sur l'ensemble du territoire français, dans les grandes métropoles comme dans les zones rurales.
 
 Nos bureaux sont à Paris, avenue de Ségur, mais nous travaillons ponctuellement d’un peu partout. Nous sommes profondément intégrés à la communauté beta.gouv.fr, interagissons régulièrement avec d'autres équipes intervenant sur d'autres Startups d'État pour partager nos expériences respectives et participons fréquemment au [standup](https://github.com/betagouv/beta.gouv.fr/wiki/Standup) et au [séminaire](https://github.com/betagouv/beta.gouv.fr/wiki/S%C3%A9minaire).
 
@@ -35,9 +35,9 @@ En rejoignant transport.data.gouv.fr qui est incubée à la DINSIC, dans l'un de
 ### Le produit
 Nous travaillons à la construction de la plateforme transport.data.gouv.fr qui vise à regrouper sur une même plateforme toutes les données ouvertes pertinentes pour faciliter les déplacements en améliorant l’information voyageur (par exemple les horaires des lignes de bus partout en France, ou encore la localisation des stations de vélos en libre service). Ces données sont mises à disposition de manière ouverte afin de faciliter la diffusion d’une information voyageur fiable sur tous les services (applications de planification de trajets, de calcul d'itinéraire…) utilisés par le grand public partout en France.
 
-[Notre dernière newsletter](https://mailchi.mp/48614dee442a/transportdatagouvfr-quelques-nouvelles-avant-lt-1675069) est une belle introduction pour comprendre ce que nous faisons.
+[Notre dernière newsletter](https://mailchi.mp/48614dee442a/transportdatagouvfr-quelques-nouvelles-avant-lt-1675069) constitue une bonne lecture pour comprendre ce que nous faisons.
 
-La plateforme ne s’adresse donc pas directement aux usagers des services de transport, mais aux producteurs de données qui peuvent publier via data.gouv.fr leurs données transport comme la règlementation l'exige, et aux réutilisateurs de données (éditeurs d’applications, fournisseur de services d’information, etc.) qui souhaitent par exemple déployer leurs services dans de nouveaux territoires ou encore créer de nouveaux services de mobilité grâce aux données fournies.
+La plateforme ne s’adresse  pas directement aux usagers des services de transport, mais aux producteurs de données qui peuvent publier via data.gouv.fr leurs données transport comme la règlementation l'exige, et aux réutilisateurs de données (éditeurs d’applications, fournisseur de services d’information, etc.) qui souhaitent par exemple déployer leurs services dans de nouveaux territoires ou encore créer de nouveaux services de mobilité grâce aux données fournies.
 
 Aujourd’hui transport.data.gouv.fr référence près de 70 jeux de données décrivant l'offre de transport public d'autant d'agglomérations en France. Ces jeux de données sont essentiellement réutilisés par des services fournissant de l'information aux voyageurs : Handisco, Here Technologies, Kisio Digital, Mappy, MobiGIS, Mybus, Transit, Urban Pulse.
 
@@ -84,7 +84,7 @@ Votre objectif sera d'accélérer l'ouverture des données susceptible d'amélio
 - codéfinir avec l'écosystème les modalités juridiques de l'ouverture des données ;
 - participer activement à la définition des priorités d'évolution du produit, en lien avec les besoins des utilisateurs. 
 
-Pour faire tout cela, vous passerez beaucoup de temps au téléphone, rencontrerez de nombreux acteurs, et répondrez à de nombreux mails. En revanche, vous préparerez peu de notes, réaliserez peu de Powerpoints et passerez peu de temps à faire du reporting.
+Pour faire tout cela, vous passerez beaucoup de temps au téléphone, rencontrerez de nombreux acteurs, et répondrez à de nombreux mails. En revanche, vous préparerez peu de notes, réaliserez peu de PowerPoints et passerez peu de temps à faire du reporting.
  
 ### Détails techniques
 #### Contrat
