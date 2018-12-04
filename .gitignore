@@ -12,5 +12,7 @@ _site
 # Ruby
 .ruby-gemset
 
-# VS Code
+# IDE
 .history
+.idea
+*.iml
