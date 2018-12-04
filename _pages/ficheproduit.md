@@ -12,6 +12,9 @@ Pour valider la pertinence de votre idée, vous devriez être en mesure de rédi
 - *la solution numérique* : comment ça marche ? « grâce à MonSuperService, chaque collectivité va pouvoir enfin… chaque citoyen pourra enfin… », en quoi se différencie-t-elle de l'offre actuelle ? Pourquoi est-elle unique ?
 - *la stratégie de mise en marché* : autour des premiers partenaires, comment se développent les usages ? Qui sont les prescripteurs ? Quel est le principal effet levier qui permet un impact fort en limitant les ressources de votre équipe ?
 
+> Vous voulez approfondir votre fiche produit ?  
+> Vous pouvez suivre le MOOC "[Créer des services publics innovants](/alpha/mooc)".  
+> Les vidéos explicatives vous guideront dans la création et l'approfondissement de votre fiche produit.
 
 ### Exemple : la Bonne Boîte
 
