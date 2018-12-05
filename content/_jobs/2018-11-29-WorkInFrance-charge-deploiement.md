@@ -44,6 +44,6 @@ Il s’agira donc de :
 - Démarrage en Janvier 2019
 
 ## Candidater
-Écrivez-nous à l'adresse [contact@workinfrance@beta.gouv.fr](mailto:contact@workinfrance@beta.gouv.fr) et venez partager vos expériences et vos belles histoires dans la construction de produits qui marchent 😉
+Écrivez-nous à l'adresse [contact@workinfrance.beta.gouv.fr](mailto:contact@workinfrance.beta.gouv.fr) et venez partager vos expériences et vos belles histoires dans la construction de produits qui marchent 😉
 
 
