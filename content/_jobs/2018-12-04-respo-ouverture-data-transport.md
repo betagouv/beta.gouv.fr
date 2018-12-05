@@ -103,7 +103,7 @@ La mission de transport.data.gouv.fr est d'accélérer l'ouverture des données 
 Début février 2019.
 
 #### Formation
-Nous formons celles et ceux qui rejoignent la communauté beta.gouv.fr aux méthodes des Startups d'État à l'occasion du [programme Alpha](https://beta.gouv.fr/alpha/), qui a lieu tous les 2 mois en moyenne. Un cours en ligne qui reprend les principaux enseignements de ces sessions est à votre disposition ici. 
+Nous formons celles et ceux qui rejoignent la communauté beta.gouv.fr aux méthodes des Startups d'État à l'occasion du [programme Alpha](https://beta.gouv.fr/alpha/), qui a lieu tous les 2 mois en moyenne. Un cours en ligne qui reprend les principaux enseignements de ces sessions est à votre disposition [ici](https://beta.gouv.fr/alpha/mooc/). 
 
 Au sein de l'équipe transport.data.gouv.fr, nous veillerons à vous former sur nos outils si vous ne les connaissez pas et nous vous donnerons la liste des acronymes à connaître pour bien naviguer au sein de l’administration. En février, Henri qui a pendant plusieurs mois assuré le rôle de responsable de l'ouverture des données transport, pourra vous accompagner au quotidien dans votre prise de fonction.
 
