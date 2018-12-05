@@ -4,7 +4,7 @@ startup: mobilot
 open: true
 ---
 
-Lotocar souhaite créer un maillage (dense dans l'idéal) de lignes de covoiturage alimentées par les trajets réguliers des conducteurs et faire que le service soit accessible pour une personne ne disposant ni d’un accès internet, ni d’un smartphone.
+[Lotocar](https://www.lotocar.fr) souhaite créer un maillage (dense dans l'idéal) de lignes de covoiturage alimentées par les trajets réguliers des conducteurs et faire que le service soit accessible pour une personne ne disposant ni d’un accès internet, ni d’un smartphone.
 Au sein d’une équipe resserrée, vous contribuerez à la conception et au déploiement de Lotocar pour aider la vie d’une partie importante de la population rurale française.
 
 <!--more-->
@@ -44,7 +44,7 @@ Nous allons tester de nouvelles solutions et les valider auprès des citoyens du
 
 ## Formation
 
-En dernière année d’une école d’ingénieur, de management ou de commerce ou à l’IEP, cette mission pourra faire office de stage de fin d’études (sous forme de CDD).
+En dernière année d’une école d’ingénieur, de management ou de commerce ou à l’IEP, cette mission pourra faire office de première expérience dans votre parcours professionnel.
 
 * CDD de 5 mois (janvier à mai 2019) à Cahors - Lot (46)
 * Rémunération attractive
