@@ -40,7 +40,7 @@ Vous voulez agir dès demain matin ? Diffusez dans votre entourage les Startups 
 - Sensibiliser vos missions locales et vos structures concernées par le retour à l'emploi (missions locales, maisons de l'emploi…) à [La Bonne Boîte](http://labonneboite.pole-emploi.fr/) et à [La Bonne Formation](http://labonneformation.pole-emploi.fr/).
 - Sensibiliser vos structures d'accueil social (CCAS…) à [Mes Aides](https://mes-aides.gouv.fr/) et intégrer vos aides sociales extra-légales en mobilisant un informaticien de la collectivité pendant quelques jours.
 - Dématérialiser une de vos démarche administrative en quelques minutes grâce à [demarches-simplifiees.fr](http://www.demarches-simplifiees.fr).
-- Faîtes progresser les compétences numériques de vos agents et de vos concitoyens avec [PIX](https://pix.beta.gouv.fr/), plateforme publique d’évaluation et de certification en ligne.
+- Faîtes progresser les compétences numériques de vos agents et de vos concitoyens avec [PIX](https://pix.fr/), plateforme publique d’évaluation et de certification en ligne.
 - Jetez un œil à nos [autres produits](/startups) !
 
 #### Entrepreneurs

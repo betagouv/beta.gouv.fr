@@ -1,12 +1,12 @@
 ---
-title: MobiLot
+title: Lotocar / Mobilot
 mission: Covoiturage solidaire entre les habitants des communes et villages du Lot
 owner: Ademe / Préfecture du Lot (46)
 incubator: dinsic
 status: construction
 start: 2018-11-26
 end:
-link:
+link: https://www.lotocar.fr
 repository:
 stats: false
 contact: contact@mobilot.beta.gouv.fr
@@ -18,9 +18,9 @@ Dans les milieux ruraux, en l’absence d’un maillage des transports en commun
 
 Des offres de transport alternatives - auto-partage, covoiturage, etc. - existent grâce aux solidarités locales, mais sont peu connues et/ou sous-utilisées. La fracture numérique rend les solutions numériques existantes difficilement utilisables dans ces territoires. Enfin, les problèmes de mobilité ont des répercussions sur l’attractivité du territoire et l’accessibilité des services et des entreprises.
 
-## MobiLot
+## Lotocar
 
-MobiLot souhaite créer un maillage (dense dans l'idéal) de lignes de covoiturage alimentées par les trajets réguliers des conducteurs et faire que le service soit accessible pour une personne ne disposant ni d’un accès internet, ni d’un smartphone.
+Lotocar souhaite créer un maillage (dense dans l'idéal) de lignes de covoiturage alimentées par les trajets réguliers des conducteurs et faire que le service soit accessible pour une personne ne disposant ni d’un accès internet, ni d’un smartphone.
 
 La personne souhaitant effectuer un déplacement fait sa requête à la plateforme par appel téléphonique ou SMS. La plateforme consulte la base de données et si le trajet est pris en charge, opère une vérification de disponibilité auprès du conducteur (SMS ou appel) avant d’envoyer aux deux parties les détails du covoiturage (horaire, lieu, participation, etc).
 
