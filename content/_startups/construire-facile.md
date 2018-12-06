@@ -1,5 +1,5 @@
 ---
-title: Monpermisdeconstruirefacile
+title: Construire facile
 mission: Déposez et gérez votre demande de permis de construire en toute simplicité
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
@@ -28,7 +28,7 @@ Par ailleurs, on estime que **70% des dossiers déposés sont considérés incom
 
 **De par sa construction, le processus “papier” de l’instruction des Demandes d’Autorisation d’Urbanisme (DAU) souffre d'opacité, de pratiques hétérogènes, génère des coûts importants de fonctionnement mais surtout est considéré comme un véritable “parcours du combattant” par beaucoup d’usagers qui appréhendent délais, coûts et incertitudes liés à ce projet de vie.**
 
-## Le produit : Monpermisdeconstruirefacile 
+## Le produit : "Construire facile"
 
 La plateforme envisagée permettra pour le demandeur de déposer simplement en ligne sa demande en toute sécurité et de pouvoir interagir directement avec le service instructeur (par exemple pour apporter des précisions à son dossier, ou ajouter des documents manquants).
 
@@ -46,4 +46,4 @@ L’équipe analyse actuellement l’intérêt de se “raccorder” avec la sol
 
 L’ambition est de démarrer avec dépôt dématérialisé des déclarations préalables, actes simples qui représentent 70% des actes d’urbanisme instruits chaque année, soit près de 700 000, pour vérifier si le produit répond bien aux irritants identifiés.
 
-Monpermisdeconstruirefacile prévoit d’expérimenter dans un premier temps avec des services instructeurs état et des collectivités (mairies instructrices en priorité et/ou services mutualisés) qui ont exprimé leur intérêt à participer à la démarche et/ou une proximité géographique avec Paris. Des acteurs gravitant dans le domaine des demandes d’urbanismes (startups, professionnels) seront également étroitement associés à la démarche. 
+**Construire facile** prévoit d’expérimenter dans un premier temps avec des services instructeurs état et des collectivités (mairies instructrices en priorité et/ou services mutualisés) qui ont exprimé leur intérêt à participer à la démarche et/ou une proximité géographique avec Paris. Des acteurs gravitant dans le domaine des demandes d’urbanismes (startups, professionnels) seront également étroitement associés à la démarche. 
