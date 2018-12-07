@@ -21,7 +21,7 @@ Le·la chargé·e de mission aura pour mission de :
 
 ### Gestion de projet
 
-Seul·e membre de l’équipe à être à plein temps sur le projet (intrepreneure et coach à mi-temps), vous aurez à maintenir au même niveau d’information l’ensemble des contributeurs et des parties prenantes et à garantir une cohérence de l’ensemble des actions.
+Seul·e membre de l’équipe à être à plein temps sur le projet (intrapreneure et coach à mi-temps), vous aurez à maintenir au même niveau d’information l’ensemble des contributeurs et des parties prenantes et à garantir une cohérence de l’ensemble des actions.
 
 ### Communication
 
