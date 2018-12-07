@@ -6,7 +6,7 @@ incubator: dinsic
 status: construction
 start: 2018-11-26
 end:
-link:
+link: https://www.lotocar.fr
 repository:
 stats: false
 contact: contact@mobilot.beta.gouv.fr
