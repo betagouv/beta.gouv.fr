@@ -31,7 +31,7 @@ layout: default
                         <img src="../img/layouts/home/icons/pen.svg" alt="Icône stylo" />
                         <p>Adressez-nous une<br>fiche produit</p>
                     </a>
-                    <a class="link" href="https://startupdetat.typeform.com/to/kS1xfw">
+                    <a class="link" href="/alpha/">
                         <img src="../img/layouts/home/icons/book.svg" alt="Icône livre" />
                         <p>Inscrivez-vous à notre formation gratuite Alpha</p>
                     </a>
@@ -64,6 +64,7 @@ layout: default
   <div class="container">
     <div class="form__container">
       <form method="post" action="https://app.mailjet.com/widget/iframe/1O2v/9ud" id="newsletter">
+      <input type="hidden" id="csrf_token" name="csrf_token" value="MmE2NTZkNWQ0MGQ0Y2IzOWQyZTllOWUxZGI2OWJhMTM2OTJhMDRjNzJjYjM5NWQ4MTRkM2UwNmRlYzBjM2RiYg==">
         <div class="form__group">
           <label for="subscribe-email" class="title" aria-label="Renseignez votre adresse e-mail pour recevoir nos annonces">En renseignant votre adresse mail, vous recevrez régulièrement nos actualités. Vous pourrez à tout moment vous désinscrire de nos envois :</label>
           <input required="" type="email" autocomplete="on" id="subscribe-email" name="w-field-field-36469-172104-430683-email" placeholder="votre@email.fr" />
