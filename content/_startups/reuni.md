@@ -1,6 +1,6 @@
 ---
 title: REUNI
-mission: 
+mission: Développer un référentiel partagé sur la donnée entreprise permettant aux agents de se recentrer sur leurs objectifs stratégiques
 owner: Direction générale des entreprises (DGE)
 incubator: dinsic
 status: construction
