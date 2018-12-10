@@ -1,5 +1,5 @@
 ---
-title: Preuve de covoiturage
+title: Registre de preuve de covoiturage
 mission: Certifiez qu'un covoiturage a bien eu lieu
 owner: DINSIC
 incubator: dinsic 
