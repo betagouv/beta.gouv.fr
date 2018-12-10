@@ -47,5 +47,5 @@ Nous allons tester de nouvelles solutions et les valider auprès des citoyens du
 En dernière année d’une école d’ingénieur, de management ou de commerce ou à l’IEP, cette mission pourra faire office de première expérience dans votre parcours professionnel.
 
 * CDD de 5 mois (janvier à mai 2019) à Cahors - Lot (46)
-* Rémunération selon votre diplôme si vous sortez d'études, sinon selon votre expérience
+* Rémunération : 1600€ net
 * Pour postuler, écrivez-nous à l’adresse recrutement@beta.gouv.fr avec votre LinkedIn / CV
