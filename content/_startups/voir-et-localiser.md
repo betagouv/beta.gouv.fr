@@ -1,6 +1,6 @@
 ---
 title: Voir & Localiser
-mission: Voir et localiser les appelants aux centres d'appels d'urgence (15, 17, 18/112)
+mission: Voir et localiser les appelants aux centres d'appels d'urgence
 owner: ASIP Santé - Agence Française de la Santé Numérique
 incubator: dinsic
 status: construction
@@ -16,7 +16,7 @@ Son objectif est d’utiliser les ressources médicales à sa disposition de fa�
 
 Par exemple, la gravité initiale d’un accident de la route est difficile à évaluer. L’aide du témoin appelant est précieuse mais parfois insuffisante pour adapter les moyens. Dans certaines situations, il ne sait pas donner sa position avec précision, ni décrire ce qu’il voit.
 
-La mise en place d’un système de géolocalisation et de partage en direct de photos et vidéos, faciliterait la prise de décision du médecin régulation dans plus 30% des cas. 
+La mise en place d’un système de géolocalisation, de partage en direct de photos et vidéos faciliterait la prise de décision du médecin régulateur dans plus 30% des cas. 
 
 # Le produit
 
@@ -24,7 +24,7 @@ Le produit permettra de géolocaliser et de voir la situation de détresse et so
 
 # Les prochaines étapes
 
-   - Recruter une personne pour
+   - Recruter une personne pour :
 
         * Installer le logiciel Loc’Alerte (développé par le ST(SI)2 à la Direction Générale de la Gendarmerie Nationale)
         * Tester sa réutilisation
