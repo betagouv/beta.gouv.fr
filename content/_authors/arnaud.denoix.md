@@ -6,6 +6,7 @@ github: adenoix
 start: 2018-12-07
 employer: independent/dinsic
 startups:
+  - la-bonne-boite
 ---
 
 
