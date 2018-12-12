@@ -2,7 +2,7 @@
 roles: un·e senior game designer basé·e à Lille
 startup: trouve-ta-voie
 techno: Choix technologiques ouverts parmi les solutions libres du marché
-open: true
+open: false
 ---
 
 Trouve ta voie cherche un·e game designer senior. Vous voulez relever le défi de développer un jeu vidéo permettant aux jeunes en situation d’échec de se rendre compte qu’ils savent faire et qu’ils aiment des choses ? Rejoignez-nous.
