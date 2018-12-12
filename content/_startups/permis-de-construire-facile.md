@@ -33,8 +33,6 @@ Par ailleurs, on estime que **70% des dossiers déposés sont considérés incom
 La plateforme envisagée permettra pour le demandeur de déposer simplement en ligne sa demande en toute sécurité et de pouvoir interagir directement avec le service instructeur (par exemple pour apporter des précisions à son dossier, ou ajouter des documents manquants).
 
 L’ensemble du dossier sera stocké et les échanges seront tracés et datés pour rendre l’instruction transparente. **Le demandeur, le service instructeur et le service de l’urbanisme de la mairie auront accès à un dossier unique, partagé et sécurisé.** Le demandeur pourra suivre l’avancement du traitement de son dossier (statut). 
- 
-**Le service instructeur aura la possibilité d’ouvrir le dossier ou une partie de celui-ci à un service qu’il doit consulter pour qu’il dépose un avis.**
 
 Le service de l’urbanisme pourra récupérer la proposition de décision du service instructeur et déposer sa décision finale sur la plate forme sans signature électronique.
 
