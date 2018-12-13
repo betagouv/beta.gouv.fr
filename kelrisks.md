@@ -1,6 +1,6 @@
 ---
 title: Kelrisks
-mission: Evaluer et conseiller sur le risques de pollution d’un terrain.
+mission: Evaluer et conseiller sur les risques de pollution d’un terrain.
 owner: Ministère de la Transition écologique et solidaire
 incubator: MTES - La Fabrique Numérique
 status: construction
@@ -25,8 +25,9 @@ Les pouvoirs publics ont constitué au fil des années plusieurs bases de donné
 L’intérêt pour ces bases de données est bien réel  : 2 millions de consultations annuelles pour la seule base de donnée Basias. 
 Mais cette mise à disposition de l’information n’est pas optimale et reste une affaire de spécialistes :
 * l’information est morcelée : 4 bases de données, consultables par des interfaces différentes ce qui  nécessite de consacrer beaucoup de temps (selon les interviews menées auprès des utilisateurs, 1 heure à 1 heure et demie pour des professionnels) 
-* l’information est peu lisible : lorsque ses recherches aboutissent, le particulier sait si son bien apparaît dans tel ou tel inventaire sans savoir ce que cela signifie concrètement en terme de pollution.
+* l’information est peu lisible : lorsque ses recherches aboutissent, le particulier sait si son bien apparaît dans tel ou tel inventaire sans savoir ce que cela signifie concrètement en terme de pollution
 * l’information n’est pas opérationnelle : le particulier ne sait quelle suite il doit donner à cette information.
+
 Au final, dans un département comme l’Essonne, la DRIEE reçoit chaque année environ 300 courriers de notaires souhaitant obtenir des informations alors même que cette information est publique. Cela signifie bien qu’en dépit des heures passés sur les bases, l’utilisateur  peine à répondre à la question que tout investisseur se pose : quel risque je prends en achetant ce terrain ou cette maison ? 
 
 ## KELRISKS : Evaluez simplement et rapidement le risque de pollution votre terrain
@@ -46,4 +47,4 @@ Après 15 jours de mise en service,  le prototype a permis de traiter une quinza
 
 Sur la base de ces premiers tests il est prévu que le service soit déployé dans une première phase à l’échelle du département de l’Essonne, puis dans un deuxième temps, généralisé à l’Ile-de-France, premier marché de l’immobilier national.  
 
-Pour la diffusion du produit nous comptons nous appuyer sur la profession des notaires, des avocats et des bureaux d’études spécialisés dans le domaine des audits environnementaux. Il connaissent les bases actuelles et mesureront facilement le gain qu’offre le service Kelrisks.
+Pour la diffusion du produit nous comptons nous appuyer sur la profession des notaires, des avocats et des bureaux d’études spécialisés dans le domaine des audits environnementaux. Ils connaissent les bases actuelles et mesureront facilement le gain qu’offre le service Kelrisks.
