@@ -1,4 +1,3 @@
-<!doctype html>
 ---
 title: Kelrisks
 mission: Evaluer le risque de pollution d’un terrain et donner à l’utilisateur des conseils sur la suite dans le cas où il souhaiterait acheter, vendre ou louer un bien.
