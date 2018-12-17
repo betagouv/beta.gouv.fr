@@ -1,6 +1,6 @@
 ---
 roles: un·e responsable de l'ouverture des données transport
-open: true
+open: false
 startup: transport
 ---
 # [transport.data.gouv.fr](https://transport.data.gouv.fr) cherche une ou un responsable de l'ouverture des données transport pour améliorer l'information des voyageurs partout en France et faciliter leurs déplacements au quotidien.
