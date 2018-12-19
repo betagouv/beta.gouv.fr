@@ -7,7 +7,7 @@ status: construction
 start: 2018-10-01
 end:
 link:
-repository:
+repository: https://github.com/betagouv/gps-usagers
 stats: false
 contact: clotilde.gournay@beta.gouv.fr
 ---
