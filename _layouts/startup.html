@@ -41,6 +41,11 @@ layout: default
               <em>n'est pas encore ouvert.</em>
             {% endif %}
           </li>
+          {% if page.techno %}
+          <li>
+             Technologies utilisées : {% for item in page.techno %}{% item %}{% if not forloop.last %},{% endif %}{% endif %}
+          </li>
+          {% endif %}
           <li>
             Le porteur administratif est {{ page.owner }}.
           </li>
