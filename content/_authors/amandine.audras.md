@@ -5,7 +5,7 @@ avatar: https://avatars3.githubusercontent.com/renardpal?s=600
 link: https://renardpal.com
 github: renardpal
 start: 2018-11-02
-end: 2018-12-31
+end: 2019-02-28
 employer: dinsic
 startups:
 ---
