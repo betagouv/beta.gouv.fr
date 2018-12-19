@@ -31,6 +31,9 @@
       {% else %}
         <em>Code pas encore ouvert</em>
       {% endif %}
+      {% if startup.techno %}
+        {% for item in startup.techno %}<div class="label label--active">{{ item }}</div>{% endfor %}
+      {% endif %}
     </p>
   </div>
   <div class="card__extra">
