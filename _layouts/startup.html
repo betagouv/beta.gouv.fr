@@ -43,7 +43,7 @@ layout: default
           </li>
           {% if page.techno %}
           <li>
-             Technologies utilisées : {% for item in page.techno %}{{ item }}{% if not forloop.last %},{% endif %}{% endfor %}
+             Technologies utilisées : {{ page.techno | join: ", " }}
           </li>
           {% endif %}
           <li>
