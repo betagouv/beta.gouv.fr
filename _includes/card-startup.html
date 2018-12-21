@@ -31,10 +31,11 @@
       {% else %}
         <em>Code pas encore ouvert</em>
       {% endif %}
+     {% if page.techno %}
+        <br /> 
+        Technologies utilisées : {{ page.techno | join: ", " }}
+     {% endif %}
     </p>
-    {% if startup.techno %}
-      {% for item in startup.techno %}<div class="label label--active">{{ item }}</div>{% endfor %}     
-    {% endif %}
   </div>
   <div class="card__extra">
     {% comment %}<!-- Initialiser les équipes : les actuels, ceux qui sont parti, et ceux qui se sont retirés -->{% endcomment %}
