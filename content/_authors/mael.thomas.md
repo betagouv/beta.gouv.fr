@@ -3,7 +3,7 @@ fullname: Maël Thomas
 role: Développeur […]
 link: https://github.com/laem
 start: 2015-10-01
-end: 2018-12-31
+end: 2019-06-30
 employer: dinsic
 startups:
     - embauche
