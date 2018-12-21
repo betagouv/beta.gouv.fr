@@ -19,8 +19,10 @@ La Startup d'État Voir & Localiser cherche un·e développeur·se DevOps.
    - Angular
    - RabbitMQ
    - Kurento (WebRTC)
-   
-   Une partie du travail à réaliser consiste à comprendre les limitations de la solution telle qu'elle existe aujourd'hui et à contribuer à son amélioration continue.
+
+Dans un premier temps, il s'agira de faire fonctionner les briques élémentaires de cette solution. Il faudra découvrir et documenter les limitations qui empêchent sa réutilisation et leur trouver des solutions.
+
+Ensuite, après l'avoir mise dans les mains des assistants de régulation médicale (ARM) et des médecins régulateurs, il s'agira d'adapter la solutions aux retours ces usagers et à leurs usages.
 
 ## Compétences et expérience
 
