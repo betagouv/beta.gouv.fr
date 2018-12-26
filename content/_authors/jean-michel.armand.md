@@ -6,7 +6,7 @@ github: mrjmad # optionnel : nom d'utilisateur GitHub, permet d'être ajouté au
 start: 2018-12-21 # date d'arrivée au format ISO (AAAA-MM-JJ)
 end: 2019-12-25 # date de fin de contrat au format ISO (AAAA-MM-JJ)
 employer: independent # dinsic ou independent/<employer> ou admin/<employer> ou service/octo
-startups: Voir et localiser # ta ou tes startups actuelles
+startups: # ta ou tes startups actuelles
     - voir-et-localiser # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
 ---
 
