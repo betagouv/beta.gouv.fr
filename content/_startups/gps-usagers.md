@@ -1,13 +1,13 @@
 ---
 title: GPS usagers
-mission: Réduire les appels sans réponse dans le département du Calvados
+mission: Orienter les usagers qui souhaitent joindre le département du Calvados vers le bon interlocuteur et le bon moyen de communication
 owner: DINSIC
 incubator: dinsic
 status: construction
 start: 2018-10-01
 end:
 link:
-repository:
+repository: https://github.com/betagouv/gps-usagers
 stats: false
 contact: clotilde.gournay@beta.gouv.fr
 ---
