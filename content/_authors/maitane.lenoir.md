@@ -4,7 +4,7 @@ role: Designer
 avatar: https://avatars3.githubusercontent.com/maiwann?s=600
 link: http://www.maiwann.net/
 start: 2018-04-10
-end: 2018-12-31
+end: 2019-06-30
 employer: independent/octo
 startups:
   - zam
