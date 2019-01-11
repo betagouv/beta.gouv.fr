@@ -12,4 +12,4 @@ previously:
   - mpal
 ---
 
-Développeur et musicien
+Développeur, musicien et bipodocrate junior
