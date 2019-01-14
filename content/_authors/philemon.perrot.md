@@ -11,4 +11,5 @@ github: philemon95 # optionnel : nom d'utilisateur GitHub, permet d'être ajout�
 start: 2019-01-14 # date d'arrivée au format ISO (AAAA-MM-JJ)
 end: 2019-06-01 # date de fin de contrat au format ISO (AAAA-MM-JJ)
 employer:  dinsic
-startups:  demarches-simplifiees.fr
+startups:
+  - demarches-simplifiees.fr
