@@ -10,6 +10,6 @@ link: # optionnel : lien vers une page perso externe. Effacer cette ligne si rie
 github: philemon95 # optionnel : nom d'utilisateur GitHub, permet d'être ajouté automatiquement à l'organisation GitHub betagouv
 start: 2019-01-14 # date d'arrivée au format ISO (AAAA-MM-JJ)
 end: 2019-06-01 # date de fin de contrat au format ISO (AAAA-MM-JJ)
-employer: # dinsic
-startups: # demarches-simplifiees.fr
+employer:  dinsic
+startups:  demarches-simplifiees.fr
 
