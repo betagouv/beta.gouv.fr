@@ -5,7 +5,7 @@ avatar: https://avatars3.githubusercontent.com/u/38190705?s=400&u=77bba6c343053a
 link: https://www.linkedin.com/in/nlagreze/
 github: nlagreze
 start: 2018-04-05
-end: 2018-12-31
+end: 2019-06-30
 employer: independent
 startups:
     - eac
