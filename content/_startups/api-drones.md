@@ -3,7 +3,7 @@ title: API Drones
 mission: Une meilleure connaissance du ciel pour plus de sécurité et d'innovation
 owner: SGDSN
 incubator: dinsic
-status: consolidation
+status: death
 start: 2017-06-01
 end:
 link: https://drone.beta.gouv.fr/
