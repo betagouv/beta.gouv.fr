@@ -3,7 +3,7 @@ title: Réso
 mission: Apporter l'ensemble des aides publiques aux entreprises qui en ont besoin
 owner: DIRECCTE Haut-de-France
 incubator: dinsic
-status: construction
+status: acceleration
 start: 2017-04-03
 end:
 link: https://reso.beta.gouv.fr/
