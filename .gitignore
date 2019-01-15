@@ -16,3 +16,4 @@ _site
 .history
 .idea
 *.iml
+.vscode
