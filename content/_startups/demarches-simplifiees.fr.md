@@ -3,7 +3,7 @@ title: demarches-simplifiees.fr
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
 owner: DINSIC
 incubator: dinsic
-status: acceleration
+status: consolidation
 start: 2015-09-15
 end:
 link: https://www.demarches-simplifiees.fr
