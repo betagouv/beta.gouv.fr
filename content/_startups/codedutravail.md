@@ -3,7 +3,7 @@ title: Code du travail numérique
 mission: Faciliter l'accès au droit du travail pour les employeur·e·s et les employé·e·s.
 owner: Ministère des Affaires sociales
 incubator: sgmas
-status: construction
+status: acceleration
 start: 2017-12-01
 end:
 link: https://codedutravail.num.social.gouv.fr

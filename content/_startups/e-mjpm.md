@@ -3,7 +3,7 @@ title: e-MJPM
 mission: Trouver rapidement le bon professionnel pour les majeurs à protéger
 owner: Ministère des Affaires sociales
 incubator: sgmas
-status: construction
+status: acceleration
 start: 2017-10-26
 end:
 link: https://emjpm.num.social.gouv.fr/
