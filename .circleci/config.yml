@@ -3,10 +3,14 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.5.1-node-browsers
+      - image: circleci/ruby:2.4.3-node-browsers
 
     steps:
       - checkout
+
+      - run:
+          name: Update bundler
+          command: gem install bundler
 
       - run:
           name: Generate Gemlock
