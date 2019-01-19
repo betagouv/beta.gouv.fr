@@ -22,7 +22,7 @@ En particulier, beta.gouv.fr n'incube pas de startups privées.
 
 Le [portefeuille de beta.gouv.fr](/startups/) compte des Startups d'État dans des domaines aussi divers que l’emploi, la formation, le travail, le handicap, les aides aux personnes et aux entreprises, l’éducation, la culture, la sécurité sociale, la défense, les transports ou la simplification des démarches administratives.
 
-### Pourquoi lancer une Startup d'État ?
+### <a name="pourquoi-lancer-une-startup-detat"></a>Pourquoi lancer une Startup d'État ?
 
 Un responsable d’administration décide de créer une Startup d'État, soit pour répondre à un problème de politique publique prédéfini, soit en lançant un appel à innovateurs permettant d’identifier des agents publics au profil d’[intrapreneur](https://blog.beta.gouv.fr/general/2017/02/16/intrapreneur-startup-d-etat/). Une équipe est ensuite mise en place pour développer une solution en travaillant au plus près des usagers. Elle dispose d’un délai de six mois pour lancer une première version de sa solution et obtient des financements complémentaires si et seulement si elle fait la preuve de l’utilité de sa solution.
 

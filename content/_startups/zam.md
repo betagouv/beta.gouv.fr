@@ -16,33 +16,33 @@ contact: melodie.dahi@beta.gouv.fr
 
 Pour tout projet de loi, l’examen parlementaire est une phase cruciale. Le texte est discuté, retravaillé et voté afin d’aboutir à une loi conforme aux attentes des représentants des citoyens.
 
-Pour le Gouvernement, cette phase est, dans le cycle de vie du projet de loi, celle qui est la plus dense. Les agents doivent répondre aux amendements, parfois très nombreux, déposés par les parlementaires, dans le délai, parfois très court, qui leur est imparti.
+Pour le Gouvernement, cette phase est, dans le cycle de vie du projet de loi, celle qui est la plus dense. Les agents doivent répondre aux amendements, parfois très nombreux, déposés par les parlementaires, dans le délai, parfois très court, qui leur est imparti. Le fruit de ce travail est matérialisé par le dossier qui sera fourni au(x) ministre(s) et conseillers ministériels pour défendre la position du Gouvernement “au banc”, c’est-à-dire lors du débat parlementaire. C’est la raison pour laquelle cette phase de gestion des amendements est à fort enjeu : en dépend la constitution d'un dossier solide et propre pour le ministre.
 
-Les équipes chargées de coordonner cette procédure sont donc les garants du respect des délais et de la chaîne de validation, ainsi que de la complétude du travail réalisé et du dossier qui sera fourni aux ministres pour défendre la position du Gouvernement “au banc”, c’est-à-dire lors du débat parlementaire. C’est la raison pour laquelle cette phase de gestion des amendements est à fort enjeu : en dépend la constitution d'un dossier solide et propre pour le ministre.
+Concrètement, le travail des services du Gouvernement consiste à :
+- récupérer les amendements déposés sur le projet, dès l’expiration du délai de dépôt imparti aux parlementaires ;
+- rester en veille permanente sur les sites Internet du Parlement pour être informé de tout nouvel (sous-)amendement déposé ou toute rectification d’amendements ;
+- analyser le contenu de chaque amendement et le mettre entre les mains de l’agent compétent pour y répondre (le nombre d’agents potentiellement concernés peut parfois monter jusqu’à plusieurs centaines) ;
+- rédiger une réponse qui doit ensuite être revue par l’ensemble des valideurs compétents au sein du ministère concerné ;
+- identifier et soumettre à l’arbitrage interministériel les éventuels points de difficulté ;
+- réaliser un dossier de banc contenant l’ensemble des amendements, réponses et autres documents nécessaires à l’argumentation, en s’assurant qu’ils soient au bon format, à jour et dans le bon ordre (en fonction de l’ordre du jour de la séance) ;
+- être présents pendant les débats afin de répondre aux urgences (dépôt d’amendement / sous-amendement, fourniture d’éléments de langage supplémentaires, mise à jour des documents du dossier).
 
-Concrètement, le travail du coordonnateur consiste à :
-- rester en veille permanente sur les sites Internet du Parlement pour récupérer tout nouvel amendement déposé ;
-- analyser le contenu de chaque amendement et l’adresser à l’agent compétent pour répondre (le nombre d’agents potentiellement concernés peut parfois monter jusqu’à plusieurs centaines) ;
-- s’assurer que chaque réponse passe toutes les étapes de la chaîne de validation prévue et, le cas échéant, organiser les allers-retours ;
-- insérer chaque amendement et sa réponse dans le dossier du ministre, selon le bon format et en prenant garde à ce que tous les documents nécessaires soient présents, à jour et dans le bon ordre ;
-- réaliser un reporting régulier auprès des instances internes voire interministérielles ;
-- le tout en ayant également à rédiger les réponses aux amendements qui relèvent de sa propre compétence métier.
-
-Pour chaque projet de loi, le processus se répète au minimum 4 fois : lors de la première lecture à l’Assemblée, pour la première lecture au Sénat, puis aux nouvelles lectures à l’Assemblée et au Sénat. Il peut également y avoir des amendements à traiter lors de l’examen du projet de texte par les commissions parlementaires avant chaque lecture.
-Le volume des amendements à traiter peut considérablement jouer sur la complexité et le stress que ce travail implique : s’agissant par exemple du projet de loi de financement de la sécurité sociale pour 2018 (PLFSS), il a fallu traiter 1300 amendements en 3 jours, entre le vendredi soir et le début de la séance de débat parlementaire le mardi.
+Pour chaque projet de loi, le processus se répète au minimum 4 fois : lors de la première lecture à l’Assemblée, pour la première lecture au Sénat, puis aux nouvelles lectures à l’Assemblée et au Sénat. Le volume des amendements à traiter peut considérablement jouer sur la complexité et le stress que ce travail implique : s’agissant par exemple du projet de loi de financement de la sécurité sociale pour 2018 (PLFSS), il a fallu traiter 1300 amendements en 3 jours, entre le vendredi soir et le début de la séance de débat parlementaire le mardi à l’Assemblée nationale.
 
 ## La solution numérique
 
-Ce gigantesque travail de coordination n’est aujourd’hui facilité par aucun outil suffisamment robuste et adapté, les agents réalisent de très nombreuses tâches/manipulations sans valeur ajoutée sur le fond, si bien qu’une grande marge d’optimisation existe.
+Ce gigantesque travail n’est aujourd’hui facilité par aucun outil suffisamment robuste et adapté, les agents réalisent de très nombreuses tâches/manipulations sans valeur ajoutée sur le fond, si bien qu’une grande marge d’optimisation existe.
 
-L’outil qui sera proposé pourrait être utilisé pour tous les projets de loi examinés par le Parlement. La mise en place d’un outil dédié permettrait de faciliter la vie des agents coordonnateurs et celle des autres acteurs impliqués (notamment les cabinets ministériels, les rédacteurs, les valideurs, et les instances interministérielles).
+L’outil qui sera proposé pourrait être utilisé pour tous les projets de loi examinés par le Parlement. La mise en place d’un outil dédié permettrait de faciliter la vie de l’ensemble des agents impliqués (rédacteurs, valideurs internes et instances interministérielles, coordinateurs, cabinets ministériels).
 
-La réussite du projet pourra être mesurée par :
-- le temps gagné par les  utilisateurs, au premier rang desquels les coordonnateurs ;
+La réussite de Zam pourra être mesurée par :
+- le temps gagné par les utilisateurs ;
 - la réduction du stress perçu par les agents impliqués (depuis le bureau métier jusqu’au ministre) ;
 - l’amélioration de la qualité au fond des réponses aux amendements.
 
 ## La stratégie de mise sur le marché
 
-L’outil sera testé sur le PLFSS pour 2019. Pourquoi lui ? Le PLFSS est voté chaque année et fait l’objet d’une contrainte de délai particulièrement marquée (50 jours séparent au maximum le dépôt du projet de loi et son vote définitif par le Parlement) et d’un volume d’amendement très important.
-La loi Plan d’Action pour la Croissance et la Compétitivité des Entreprises (portée par le ministère de l’économie), ou la loi Parcours professionnel (porté par le ministère du travail) pourrait être de bonnes échéances intermédiaires de mise en oeuvre expérimentale.
+La solution numérique a été expérimentée fin 2018 sur le PLFSS et le projet de loi de finances (PLF) pour 2019. Ces utilisations ont permis de tester le prototype sur des projets de loi annuels, au nombre de contributeurs élevé et dont la volumétrie d’amendements est, chaque année, importante. Le bilan est positif : les utilisateurs ont gagné en confort de travail et entendent renouveler l’utilisation de Zam fin 2019.
+
+Pour l’année 2019, les développements du prototype sont à poursuivre, guidés par les retours des testeurs sur les lois financières ainsi que par les expertises métier des membres du groupe d’utilisateurs (passés, futurs et potentiels) qui a été formé.
+Les mises en production tests sont également à poursuivre tout au long de l’année. Sont déjà pressentis comme utilisateurs 2019 les directions portant le projet de loi fonction publique, le projet de loi bioéthique ou encore le projet de loi éducation nationale.
