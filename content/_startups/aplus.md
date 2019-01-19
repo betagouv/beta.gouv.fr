@@ -10,6 +10,11 @@ link:
 repository: https://github.com/betagouv/aplus
 stats: false
 contact: contact@aplus.beta.gouv.fr
+techno:
+   - Scala
+   - Play Framework
+   - PostgreSQL
+   - Clever Cloud
 ---
 
 ## Des blocages administratifs parfois dramatiques
