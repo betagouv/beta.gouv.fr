@@ -22,7 +22,7 @@ En tant que chargé·e de développement, tu participeras à la montée en charg
 Pour y parvenir tes principales missions seront de :
 
 * Maintenir un contact régulier avec les utilisateurs du produit :
-    - En appelant des conseillers entreprise pour les encourager dans la détection de besoins lors de visites en entreprises, les accompagner lors des premières utilisations du produit, les féliciter pour leurs actions, répondre à leurs interrogations.
+    - En appelant des entreprises, des experts comptables, des conseillers entreprise pour encourager l’identification et le partage de besoins liés à des projets, des difficultés ou des questions d’entreprise au quotidien. Tu pourras les accompagner lors des premières utilisations du produit, les féliciter pour leurs actions, répondre à leurs interrogations, etc.
     - En appelant des Référents pour les mobiliser dans la bonne prise en charge des besoins d’entreprise et pour développer le réflexe de partage d’information entre les différentes parties prenantes.
     - Et, en analysant et partageant toutes ces interactions et retours utilisateurs afin de proposer d’autres actions pertinentes visant à décupler l’utilisation du produit ou permettant la bonne évolution du produit.
 
