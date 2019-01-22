@@ -10,6 +10,9 @@ link:
 repository: https://github.com/betagouv/zam
 stats: false
 contact: melodie.dahi@beta.gouv.fr
+techno:
+    - Python
+    - PostgreSQL
 ---
 
 ## Le contexte
