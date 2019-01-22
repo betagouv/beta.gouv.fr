@@ -10,6 +10,11 @@ repository:
 incubator: mtes
 stats: false
 contact: romain.campillo@developpement-durable.gouv.fr
+techno:
+  - Vue
+  - Go
+  - PostgreSQL
+  - Docker
 ---
 
 ## La protection des personnes et de l’environnement, un enjeu collectif
