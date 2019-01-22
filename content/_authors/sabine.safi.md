@@ -8,8 +8,6 @@ end:
 employer: independent/lazone
 startups:
     - transport
-previously: 
-    - 
 ---
 
 A renoncé à écrire une biographie percutante.
