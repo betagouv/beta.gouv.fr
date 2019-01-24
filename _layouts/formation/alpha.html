@@ -25,7 +25,7 @@ layout: default
           <li>
             <b>Quand ?</b><br />
             {% if page.alpha-start == page.alpha-end %} Le {{ page.alpha-start | date: "%d/%m/%y" }} {% else %} Du {{ page.alpha-start | date: "%d/%m/%y" }} au {{ page.alpha-end | date: "%d/%m/%y" }}{% endif %} {{ page.alpha-time }}
-          </li> 
+          </li>
           <li>
             <b>Où ?</b><br />
             <a href="{{ page.alpha-location-link }}">{{ page.alpha-location }}</a>
@@ -33,11 +33,11 @@ layout: default
           {% if page.alpha-catering %}
             <li>
               <b>Quelle prise en charge ?</b><br />
-              {{ page.alpha-catering }}
+              {{ page.alpha-catering | markdownify }}
             </li>
           {% endif %}
           {% if page.alpha-more %}
-            <li>{{ page.alpha-more }}</li>
+            <li>{{ page.alpha-more | markdownify }}</li>
           {% endif %}
           <li>
             <a href="{{ page.alpha-link }}">Réserver sa place en ligne</a>

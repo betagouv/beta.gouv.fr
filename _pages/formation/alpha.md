@@ -12,7 +12,7 @@ alpha-time: de 9h à 18h30
 alpha-location: 20 avenue de Ségur, 75007 Paris
 alpha-location-link: https://www.openstreetmap.org/#map=19/48.85049/2.30812
 alpha-catering: Le CNFPT prend en charge les frais de déplacement (A/R), d'hébergement (la veille) et de repas des agents territoriaux.
-alpha-more: Le visionnage du MOOC est obligatoire en amont de cette session
+alpha-more: [Le visionnage du MOOC](/alpha/mooc/) est obligatoire en amont de cette session
 alpha-link: https://startupdetat.typeform.com/to/zwXhOT
 ---
 
