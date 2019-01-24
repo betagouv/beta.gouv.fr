@@ -32,12 +32,12 @@ layout: default
           </li>
           {% if page.alpha-catering %}
             <li>
-              <b>Quelle prise en charge ?</b><br />
-              {{ page.alpha-catering | markdownify }}
+              <b>Quelle prise en charge ?</b><br/>
+              {{ page.alpha-catering | markdownify | remove: '<p>' | remove: '</p>' }}
             </li>
           {% endif %}
           {% if page.alpha-more %}
-            <li>{{ page.alpha-more | markdownify }}</li>
+            <li>{{ page.alpha-more | markdownify | remove: '<p>' | remove: '</p>' }}</li>
           {% endif %}
           <li>
             <a href="{{ page.alpha-link }}">Réserver sa place en ligne</a>
