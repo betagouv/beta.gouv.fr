@@ -11,9 +11,7 @@ Pour affronter la croissance vers les 800 000 usagers annuels, nous recherchons 
 
 ## Pass Culture
 
-La société pass Culture est une société commerciale qui a en charge la conception de l’application, de sa phase d’expérimentation jusqu’à son déploiement au niveau national. Issue d’une start up d’État, la société pass Culture conserve un fonctionnement en mode agile avec une équipe d’environ quarante salariés organisés, en plus du secrétariat général, autour d’un pôle produit, un pôle développement territorial et un pôle stratégie.
-
-Cette société, créée en 2019, doit à la fois permettre une expérimentation réussie du pass Culture et sa généralisation à tous les jeunes de 18 ans mais également envisager les suites et les extensions possibles. En effet, la première mission de cette société dont les deux actionnaires sont l’État et la Banque des territoires, est de développer un service d’intérêt général pour les jeunes de 18 ans. Au-delà, des extensions à d’autres catégories d’usagers pourront être envisagées. 
+L'équipe du pass Culture a en charge la conception de l’application, de sa phase d’expérimentation jusqu’à son déploiement au niveau national. Elle est organisée sous la forme d'une startup d'Etat et fonctionne en mode agile avec une équipe d’environ 25 personnes autour d’un pôle produit, un pôle développement territorial et un pôle stratégie.
 
 L’équipe produit est composée d'une dizaine de développeurs full stack, d'un designer UI/UX et d'un PO, sous la responsabilité d’un responsable produit. Elle développe des logiciels libres en utilisant les méthodes des [startups d'état](https://beta.gouv.fr/apropos/) : agile, lean, auto-organisation…
 
@@ -48,7 +46,6 @@ De nombreux chantiers intéressants sont prévus, parmi lesquels le développeme
 
 ## Modalités
 
-- Postes ouverts en CDI
 - Temps partiel accepté (80% minimum)
 - Télétravail partiel possible
 - Démarrage dès que possible
