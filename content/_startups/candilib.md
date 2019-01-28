@@ -6,7 +6,7 @@ incubator: dinsic
 status: acceleration
 start: 2018-05-01
 end:
-link:
+link: https://beta.interieur.gouv.fr/candilib
 repository: https://github.com/LAB-MI/candilibV2
 stats: false
 contact: frederic.gillodes@interieur.gouv.fr
