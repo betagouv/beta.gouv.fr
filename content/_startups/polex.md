@@ -1,6 +1,6 @@
 ---
 title: Polex
-mission: Détecter et suivre les fraudes à l’examen du code de la route :
+mission: Détecter et suivre les fraudes à l’examen du code de la route
  
 owner: Ministère de l'Intérieur
 incubator: dinsic
@@ -21,7 +21,7 @@ Depuis 2017, les examens pratique au permis de conduire (le “code”) sont op�
 
 Les dispositifs contre la fraude doivent être adaptés aux nouvelles conditions de passage.
 
-## Polex, alerte et suivi des suspicions de fraude
+## Polex alerte et suit les suspicions de fraude
 
 Polex permet aux délégués à l'éducation routière : 
 
