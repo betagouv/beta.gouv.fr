@@ -3,8 +3,8 @@ title: CandiLib
 mission: Réserver en ligne votre place d'examen pratique
 owner: Ministère de l'Intérieur
 incubator: dinsic
-status: investigation
-start: 2018-03-01
+status: acceleration
+start: 2018-05-01
 end:
 link:
 repository: https://github.com/LAB-MI/candilibV2
