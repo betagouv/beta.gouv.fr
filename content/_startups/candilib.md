@@ -12,7 +12,7 @@ stats: false
 contact: frederic.gillodes@interieur.gouv.fr
 ---
 
-## Des conditions dégradées pour les candidats libres.
+## Des conditions dégradées pour les candidats libres
 
 Les candidats libres sont les candidats à l’examen du permis de conduire qui ne sont pas présentés sur les droits à places des auto-écoles. 
 
