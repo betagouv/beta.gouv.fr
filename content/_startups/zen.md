@@ -3,10 +3,11 @@ title: Zen
 mission: Aider les demandeurs d’emploi qui cumulent emploi et chômage à être payé le bon montant d’allocation chômage chaque mois
 owner: Pôle emploi
 incubator: pole-emploi
-status: construction
+status: acceleration
 start: 2018-04-01
+link: https://zen.pole-emploi.fr
 stats: false
-repository: https://github.com/StartupsPoleEmploi/actualisation
+repository: https://github.com/StartupsPoleEmploi/zen
 contact: sylvie.lebel@pole-emploi.fr
 ---
 
