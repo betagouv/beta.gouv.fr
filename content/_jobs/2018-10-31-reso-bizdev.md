@@ -2,7 +2,7 @@
 roles: un·e chargé.e de développement
 startup: reso
 techno:  
-open: true
+open: false
 ---
 
 Veux-tu faire passer une startup d'État à la vitesse supérieure ? On recrute un·e chargé·e de développement en freelance !
