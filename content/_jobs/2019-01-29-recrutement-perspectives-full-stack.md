@@ -52,10 +52,10 @@ Vous travaillerez au sein d’une équipe de 4 personnes composée de : 1 intrap
 Le travail s’effectue à distance, mais il faut prévoir des déplacements de 2 jours sur Paris tous les 15 jours.
 
 - Charge : 4/5eme
-- Durée : 6 mois renouvelables 
+- Durée : 6 mois renouvelables
 - Début souhaité : mars 2019
 - Contrat: CDD ou Freelance
 
 
-## Vous souhaitez rejoindre la startup Perspectives? 
-Envoyez votre candidature sous la forme que vous souhaitez à brice.friederich@beta.gouv.fr
+## Vous souhaitez rejoindre la startup Perspectives?
+Envoyez votre LinkedIn / CV / GitHub sous la forme que vous souhaitez à [brice.friederich@beta.gouv.fr](mailto:brice.friederich@beta.gouv.fr)
