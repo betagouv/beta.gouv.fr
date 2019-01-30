@@ -20,7 +20,7 @@ Cela fait depuis près de 10 ans que les mêmes blocages sont remontés par des 
 
 Plusieurs rapports appuient ces constats : le rapport remis par Valérie Petit et Pierre Morel-à-l’Huissier, sur les dispositifs d’évaluation des politiques publiques ; celui réalisé par Jean-Noël Barrot et Jean-François Eliaou sur les moyens de contrôle et d’évaluation, ainsi que de fréquentes remarques du Conseil d’État qui alerte sur la nécessité démocratique d’une meilleure simulation des effets des lois.
 
-Pourtant, légiférer efficacement c’est aussi connaître l’impact des réformes sur les citoyen·ne·s avant qu’elles ne soient votées : voter une loi suppose d’avoir une vision de la réalité fiscale du pays, et notamment de la répartition des revenus.
+Pourtant, légiférer efficacement c’est aussi connaître l’impact des réformes sur les citoyen·ne·s avant qu’elles ne soient votées : voter une loi suppose d’avoir une vision de la répartition des revenus du pays, et de l’impact de la fiscalité sur nos vies.
 
 # Le produit
 
