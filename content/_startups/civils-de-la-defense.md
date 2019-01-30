@@ -8,7 +8,7 @@ start: 2018-06-01
 link: https://civilsdeladefense.fabnum.fr
 repository: https://github.com/betagouv/civilsdeladefense
 stats: false
-contact: contact@civils-de-la-defense.beta.gouv.fr
+contact: frederic.bardolle@def.gouv.fr
 ---
 
 D’ici fin 2018, ce seront près de 4 000 agents qui devront rejoindre le ministère des Armées, dont un tiers sous contrat. Ces volumes, la concurrence sur le marché du travail et les nouveaux modes de recrutement obligent à repenser la manière de recruter au sein du ministère.
