@@ -35,10 +35,10 @@ En binôme du développeur en place depuis le début du projet, vous développer
 
 
 ## Votre profil
-- Vous avez plusieurs années d’expérience en développement de site web responsive avec des framework modernes (Vue, React ou Angular), HTML5, SASS & CSS
+- Vous avez plusieurs années d’expérience en développement de site web responsive avec des frameworks modernes (Vue, React ou Angular), HTML5, SASS & CSS
 - Vous connaissez les bonnes pratiques en accessibilité et SEO
 - Vous maîtrisez le développement Web, ses concepts et ses standards
-- Vous disposer d’une expérience concrète sur un projet en Scala
+- Vous disposez d’une expérience concrète sur un projet en Scala
 - Vous êtes habitué à gérer du code source via GIT
 - Vous avez une capacité d’écoute, d’analyse 
 - Vous êtes autonome et force de proposition 
