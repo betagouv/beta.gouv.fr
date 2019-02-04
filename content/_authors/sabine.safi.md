@@ -1,6 +1,6 @@
 ---
 fullname: Sabine Safi
-role: PO / Chargée de développement 
+role: PO / Chargée de déploiement 
 avatar: https://avatars3.githubusercontent.com/sabinesafi?s=600
 github: sabinesafi 
 start: 2019-02-04
