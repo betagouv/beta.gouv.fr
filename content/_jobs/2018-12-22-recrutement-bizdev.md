@@ -1,7 +1,7 @@
 ---
 roles: un·e chargé·e de développement 
 startup: signalement
-open: true
+open: false
 ---
 
 L'équipe Signalement recrute un·e chargé·e de développement pour mieux faire respecter le droit de consommation.
