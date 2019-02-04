@@ -1,7 +1,7 @@
 ---
 roles: un·e dev web full stack
 open: true
-startup: Avril - La V.A.E. facile
+startup: avril
 ---
 
 Aidez les demandeurs d'emploi et salariés à obtenir un diplôme !
