@@ -25,9 +25,9 @@ Les dispositifs contre la fraude doivent être adaptés aux nouvelles conditions
 
 Polex permet aux délégués à l'éducation routière : 
 
-- d’être alertés d'une suspicion de fraude à partir de croisements de données automatiques ;
-- d’analyser les cas à partir de requêtes préconfigurées sur les patterns de suspicion de fraude ;
+- d’être alertés d'une suspicion de fraude à partir d'incohérences dans le croisement de données des examens ;
+- d’affiner l'analyse à partir de requêtes préconfigurées pour détecter des patterns de suspicion de fraude ;
 - de suivre les dossiers liés aux alertes pertinentes.
 
-Une version beta a été déployée auprès de premiers délégués testeurs fin novembre 2018. La généralisation est prévue d'ici juin 2019.
+Une version beta est testée depuis janvier 2019. La généralisation est prévue d'ici juin 2019.
 
