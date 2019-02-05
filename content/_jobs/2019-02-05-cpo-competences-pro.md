@@ -35,7 +35,7 @@ Après validation du besoin et de notre piste de solution, nous avons prototypé
 - Très bonne organisation
 - Capacité à prioriser
 - Capacité à interagir avec des interlocuteurs techniques et non techniques
-- Bon goût
+- Forte sensibilité graphique et visuelle
 
 ## Bonus
 
