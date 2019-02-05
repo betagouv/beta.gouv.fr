@@ -14,15 +14,14 @@ contact: frederic.gillodes@interieur.gouv.fr
 
 ## Des conditions dégradées pour les candidats libres
 
-Les candidats libres sont les candidats à l’examen du permis de conduire qui ne sont pas présentés sur les droits à places des auto-écoles. 
+Les candidats libres sont les candidats à l’examen du permis de conduire qui ne sont pas présentés par une auto-école. 
 
-Les conditions de convocation des candidats libres sont actuellement dégradées. La procédure est longue, encore gérée par courriers mails voire postaux. Un scénario typique est que le candidat attend des mois sans nouvelles en continuant à s’entraîner a minima. Il reçoit soudain une convocation pour une date proche qui ne lui convient pas forcément. 
+Les conditions de convocation des candidats libres sont actuellement dégradées. La procédure est longue, encore gérée par des courriers mails ou des envois postaux. Le scénario type est celui du candidat qui attend des mois sans nouvelles en continuant à s’entraîner a minima. Il reçoit soudain une convocation pour une date proche qui ne lui convient pas forcément. 
 
 Ces mauvaises conditions de préparation entraînent de fait une situation discriminante pour ces candidats.
 
 Du côté de l’administration, la gestion largement manuelle des candidats libres devient ingérable dans certains départements urbains.
-En Seine-Saint-Denis, 75% du travail des agents du service des places d'examens est consacré à 10% des candidats : les candidats libres. 
-
+En Seine-Saint-Denis, les candidats libres (10% des candidats) accaparent 75% du travail des agents du service des places d'examens !
 Le phénomène ne fait que monter en puissance.
 
 
