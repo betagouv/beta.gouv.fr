@@ -4,13 +4,13 @@ startup: competences-pro
 open: true
 ---
 
-L’équipe Compétences Pro cherche un·e CPO pour l’aider à développer et diffuser son jeu sérieux.
+L’équipe Compétences Pro cherche un·e CPO pour l’aider à développer son outil d'évaluation des compétences basé sur des jeux vidéos.
 
 <!--more-->
 
 ## Compétences Pro
 
-En France, 2,5 millions de personne sont en situation d’illettrisme, et 40 000 sont détectées chaque année. Ces personnes ont besoin de renforcer leurs compétences professionnelles afin d’améliorer leur potentiel d’employabilité, or les solutions d’évaluation existantes sont restées bloquées en 1990.
+En France, 2,5 millions de personne sont en situation d’illettrisme, et 40 000 sont détectées chaque année. Ces personnes ont besoin de renforcer leurs compétences professionnelles afin d’améliorer leur potentiel d’employabilité, or les solutions d’évaluation existantes datent du siècle précédent.
 
 Compétences Pro est un outil de diagnostic reposant sur une série de jeux sérieux dans des environnements professionnels immersifs. L’objectif étant d'interpréter les stratégies mises en oeuvre par les utilisateurs à partir d’une analyse fine de leur comportement pour détecter de manière bien plus efficace les besoins de renforcement en compétences clés par rapport à ce qui est fait aujourd’hui. Il se base sur les compétences attendues par les entreprises, et non des savoirs peu utiles en situation professionnelle, comme fait pour le moment.
 
