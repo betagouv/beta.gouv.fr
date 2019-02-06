@@ -1,12 +1,12 @@
 ---
-title: Signalement
+title: SignalConso
 mission: Faire baisser le nombre d'anomalies rencontrées par les consommateurs
 owner: Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)
 incubator: dinsic
 status: construction
 start: 2018-06-18
 end:
-link: https://signalement.beta.gouv.fr
+link: https://signalconso.beta.gouv.fr
 repository:
 stats: false
 contact: magali.marcel@beta.gouv.fr
