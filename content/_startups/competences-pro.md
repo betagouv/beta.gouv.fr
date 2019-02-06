@@ -7,7 +7,7 @@ status: construction
 start: 2018-06-06
 end:
 link:
-repository:
+repository: https://github.com/betagouv/competences-pro/
 stats: false
 contact: hubert.leveque@beta.gouv.fr
 ---
