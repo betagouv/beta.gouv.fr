@@ -2,14 +2,14 @@
 title: DomiFa (domiciliation facilitée) 
 mission: Faciliter la gestion de la domiciliation, un premier pas vers l’accès aux droits pour les personnes sans domicile stable  
 owner: Ministère des Solidarités et de la Santé 
-incubator: mas 
+incubator: sgmas 
 status: construction 
 start: 2019-01-15 
 end: 
 link: 
 repository: 
 stats: false
-contact: 
+contact: contact@domifa.beta.gouv.fr
 ---
 
 # DomiFa (Domiciliation Facilitée)
