@@ -1,5 +1,4 @@
 ---
-title: DomiFa
 roles: Un·e développeur·e full stack
 startup: DomiFa
 techno: Choix libre
@@ -66,6 +65,4 @@ Démarrage des projets fin février - début mars.
 Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV et GitHub, le tout à recrutement@beta.gouv.fr, julien.bouquillon@sg.social.gouv.fr, eric.heijligers@sg.social.gouv.fr
 
 À bientôt ! 😀
-
-
 
