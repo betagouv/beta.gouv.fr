@@ -12,9 +12,9 @@ stats: false
 contact: contact@covoiturage.beta.gouv.fr 
 ---
 
-Le développement du court-voiturage, un problème d’intérêt général
+1,08 personnes par véhicule seulement dans les déplacements professionnels
 ==========================================================
-Le développement du covoiturage courte distance n’a pas connu le même essor que son pendant sur longue distance. Chaque jour, des opérateurs privés, de ce que l’on appelle le court-voiturage, se créent, fusionnent ou bien ferment leur service. Du côté des plateformes publiques, le constat est identique ; des collectivités, parc nationaux, départements, régions ont développé leur propre plateforme de covoiturage sans atteindre la masse critique ou la qualité de service leur permettant d’être pérenne. Le paysage du court-voiturage français se retrouve ainsi morcelé. Pourtant, c’est une question d’intérêt général que ce secteur se développe. En effet, les bénéfices à l’échelle locale sont multiples tant en termes de désengorgement des voies que de gain de l’espace public, en passant par la réduction des gaz à effets de serre et la création d’interactions sociales.
+Le développement du covoiturage courte distance n’a pas connu le même essor que son pendant sur longue distance. Que ce soit des opérateurs privés ou des plateformes de covoiturage publiques, le constat est identique. Le paysage du covoiturage courte distance français se retrouve ainsi morcelé. Pourtant, c’est une question d’intérêt général que ce secteur se développe. En effet, les bénéfices à l’échelle locale sont multiples tant en termes de désengorgement des voies que de gain de l’espace public, en passant par la réduction des gaz à effets de serre et la création d’interactions sociales. A titre d'exemple, on estime que chaque kilomètre covoituré par passager permet d'éviter l'émission de 195 g CO2 équivalent (1).
 
 Le manque d’outils et d’accompagnement des territoires face à ce problème
 ========================================
@@ -34,4 +34,4 @@ Grâce au registre, une autorité organisatrice a désormais en main, l’ensemb
 - Accès à tarif réduit ou gratuit à d’autres services publics (piscine municipale, bibliothèque, musée, etc.).
 - Incitations non financières diverses (composteur, panier de légumes, etc.)
 
-
+(1) Selon, l’ADEME (Agence de l’Environnement et de la Maîtrise de l'Énergie), les émissions moyennes de Gaz à Effet de Serre (GES) par véhicule et par kilomètre (du puits à la roue) sont de 195 g CO2 équivalent par véhicule-kilomètre (chiffres de 2016). 
