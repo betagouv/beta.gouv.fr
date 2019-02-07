@@ -1,4 +1,5 @@
 ---
+title: DomiFa
 roles: Un·e développeur·e full stack
 startup: DomiFa
 techno: Choix libre
