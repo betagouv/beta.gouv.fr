@@ -1,9 +1,8 @@
 ---
-roles: Un·e développeur·e full stack # un·e développeur·e, deux business développeur·e·s, un·e développeur·e et une un·e business développeur·e, etc.
-startup: DomiFa (Domiciliation Facilitée)  # identifiant de la startup pour laquelle le recrutement est fait ; créer la startup si elle n'existe pas encore
-techno: Choix libre # s'il s'agit d'une offre dev, ajouter la techno ou expliciter que le choix est libre ; enlever s'il s'agit d'un autre type d'offre
-junior: false # S'il est possible de candidater avec peu d'expérience
-open: true # Basculer à 'false' ou supprimer une fois l'offre pourvue
+roles: Un·e développeur·e full stack
+startup: DomiFa
+techno: Choix libre
+open: true
 ---
 
 ## Qui sommes-nous ?
