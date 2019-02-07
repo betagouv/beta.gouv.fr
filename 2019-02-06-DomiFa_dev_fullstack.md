@@ -7,6 +7,8 @@ open: true
 
 *DomiFa (Domiciliation Facilitée), une des startups d'État du ministère des Solidarités et de la Santé, cherche un.e dev.e pour améliorer l'accès aux droits des personnes sans domiciles stables.*
 
+<!--more-->
+
 ## Qui sommes-nous ?
 
 L’objectif de DomiFa est d’améliorer la prise en charge des personnes sans domiciles stables par la création d’une solution de gestion des domiciliations pour les organismes domiciliataires (CCAS, CIAS, associations agréées). 
