@@ -6,6 +6,7 @@ employer: admin/Ministère de l'Intérieur
 startups:
     - histovec
     - candilib
+    - polex
 avatar: https://lab-mi.github.io/img/equipe/petit/philippe_bron.jpg
 ---
 
