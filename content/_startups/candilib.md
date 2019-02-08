@@ -1,6 +1,6 @@
 ---
 title: CandiLib
-mission: Réserver en ligne votre place d'examen pratique
+mission: Réserver simplement sa place d'examen pratique au permis de conduire
 owner: Ministère de l'Intérieur
 incubator: dinsic
 status: acceleration
@@ -42,7 +42,7 @@ Candilib permet aussi à l’administration de respecter l’équité de traitem
 
 ## Lancement progressif
 
-Une version limitée a été beta-testée en Seine-Saint-Denis depuis Juillet 2018. Sur 5 mois, le taux de non présentation est de 1% versus 18% pour les candidats libres convoqués selon la méthode traditionnelle. 
+Une version beta est testée en Seine-Saint-Denis depuis Juillet 2018. Sur 6 mois, le taux de non présentation est de 1% versus 18% pour les candidats libres convoqués selon la méthode traditionnelle. 
 
 Les résultats restent à prouver en 2019 sur la réduction des délais et la réussite.
 
