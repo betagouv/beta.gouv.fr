@@ -1,6 +1,6 @@
 ---
 title: Polex
-mission: Détecter et suivre les fraudes à l’examen du code de la route
+mission: Détecter et suivre les fraudes à l’examen du permis de conduire
  
 owner: Ministère de l'Intérieur
 incubator: dinsic
