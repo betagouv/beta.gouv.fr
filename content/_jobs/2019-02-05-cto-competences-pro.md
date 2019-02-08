@@ -45,6 +45,13 @@ Après validation du besoin et de notre piste de solution, nous avons prototypé
 
 - Expérience dans le développement de jeux vidéos
 
+## Modalités
+
+- Contrat : freelance (on peut vous accompagner pour le devenir)
+- Localisation : Paris (télétravail partiel possible)
+- Rythme : au moins 4/5e
+- Rémunération : en fonction du profil
+
 ## Postuler
 
 Pour postuler, contactez-nous [par email](mailto:emmanuel.gaillot@beta.gouv.fr).
