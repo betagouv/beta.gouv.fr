@@ -1,6 +1,6 @@
 ---
 roles: un·e dev web frontend
-open: true
+open: false
 startup: codedutravail
 ---
 
