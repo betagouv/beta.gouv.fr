@@ -42,6 +42,13 @@ Après validation du besoin et de notre piste de solution, nous avons prototypé
 - Expérience en tant que product manager sur un jeu vidéo
 - Expérience entrepreneuriale bienvenue
 
+## Modalités
+
+- Contrat : freelance (on peut vous accompagner pour le devenir)
+- Localisation : Paris (télétravail partiel possible)
+- Rythme : au moins 4/5e
+- Rémunération : en fonction du profil
+
 ## Postuler
 
 Pour postuler, contactez-nous [par email](mailto:gregoire.novel@beta.gouv.fr).
