@@ -2,7 +2,7 @@
 title: CandiLib
 mission: Réserver simplement sa place d'examen pratique au permis de conduire
 owner: Ministère de l'Intérieur
-incubator: dinsic
+incubator: lab-mi
 status: acceleration
 start: 2018-05-01
 end:
