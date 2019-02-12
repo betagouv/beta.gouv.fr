@@ -1,6 +1,7 @@
 ---
 roles: un·e developpeur full-stack
 startup: e-controle
+techno: Javascript ES5/ES6, VueJS ou React,Python/Django
 open: true
 ---
 
