@@ -1,7 +1,7 @@
 ---
-roles: Un·e développeur·e full stack
-startup: DomiFa
-techno: Choix libre
+roles: un·e développeur·e full stack
+startup: domifa
+techno: choix libre
 open: true
 ---
 
