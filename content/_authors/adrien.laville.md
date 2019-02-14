@@ -6,5 +6,5 @@ start: 2018-12-01
 employer: service/NUMA
 github: AdrienLaville
 startups:
-  -domifa
+  - domifa
 ---
