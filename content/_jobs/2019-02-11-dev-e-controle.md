@@ -34,5 +34,5 @@ L’équipe “e-contrôle” cherche un·e développeur·se pour des besoins en
 
 ## Postuler
 
-Raconte-nous pourquoi tu aurais envie de nous rejoindre et envoie-nous ton LinkedIn / CV / GitHub, le tout à [lery.jicquel@beta.gouv.fr] (mailto:lery.jicquel@beta.gouv.fr) et recrutement@beta.gouv.fr.
+Raconte-nous pourquoi tu aurais envie de nous rejoindre et envoie-nous ton LinkedIn / CV / GitHub. Pour postuler c'est par ici: https://beta.gouv.fr/postuler.
 L’entretien se fera sur Paris ou en visio.
