@@ -2,7 +2,7 @@
 title: Civils de la Défense
 mission: Recruter simplement des agents civils sous contrat
 owner: Ministère des Armées
-incubator: dinsic
+incubator: fabnumdef
 status: construction
 start: 2018-06-01
 link: https://civilsdeladefense.fabnum.fr
