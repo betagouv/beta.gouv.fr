@@ -20,7 +20,7 @@ order: 5
   <div class="mooc-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkfhh" allowfullscreen></iframe>
   </div>
-  <p>Julien Dauphant - Développeur beta.gouv.fr</p>
+  <p>Philippe Vrignaud - Directeur de projets DINSIC et Serial Intrapreur beta.gouv.fr</p>
   <p><a href="/content/docs/mooc/22-tester-sans-developpeur.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
 
