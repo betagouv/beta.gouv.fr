@@ -17,9 +17,9 @@ La domiciliation est un premier pas vers l’accès aux droits des personnes san
 
 Le processus de domiciliation pose aujourd’hui plusieurs difficultés liées à l’absence d’outil de suivi commun :
 - Du point de vue des organismes domiciliataires, il peut être chronophage et se résumer pour l’essentiel à des tâches de gestion administrative et de gestion des courriers. Certaines structures rencontrent également d’importants problèmes de surcharge avec une augmentation continue du nombre de demandes. 
-- Du point de vue des domiciliés, il est peu lisible et les obligations qu’il emporte sont susceptibles d’engendrer des ruptures de droits préjudiciables à des individus déjà fragilisés. 
+- Du point de vue des domiciliés, il est peu lisible et les obligations qu’il implique sont susceptibles d’engendrer des ruptures de droits préjudiciables à des individus déjà fragilisés. 
 
-L’outil sur lequel nous travaillons devra faciliter les tâches de gestion administrative des structures pour permettre un accompagnement social renforcé des domiciliés. 
+La solution sur laquelle nous travaillons devra faciliter les tâches de gestion administrative des structures pour permettre un accompagnement social renforcé des domiciliés. 
 
 La Startup d'État a démarré début Janvier 2019. Un premier travail terrain à été réalisé en allant à la rencontre des futurs utilisateurs pour définir une première vision produit. L’objectif est maintenant de lancer une V.0 pour Juin 2019. 
 
