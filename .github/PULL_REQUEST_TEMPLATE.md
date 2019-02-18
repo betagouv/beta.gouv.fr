@@ -1,6 +1,6 @@
 Merci de contribuer au site de beta.gouv.fr ! 
 
-Merci 🙂
+🙂
 
 Vous pouvez
 - [ ] Effacez les lignes d'explications ci-dessus
