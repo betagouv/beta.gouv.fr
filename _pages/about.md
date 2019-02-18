@@ -10,6 +10,12 @@ title: À propos
 
 Nous animons [une communauté en croissance](/communaute/) qui construit les services publics numériques de demain [au sein d’incubateurs](/incubateurs/).
 
+## Éditeur
+Incubateur de services numériques de la Direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC) - 20, avenue de Ségur - 75007 Paris.
+
+## Directeur de la publication
+Directeur interministériel du numérique et du système d'information et de communication de l'État
+
 ### Historique
 
 Depuis 2013 l’État met en œuvre une nouvelle politique d’innovation, permettant à des « Startups d’État » d’être incubées pour développer des produits numériques centrés sur les usagers. Suite au succès de [data.gouv.fr](https://data.gouv.fr) et de [mes-aides.gouv.fr](https://mes-aides.gouv.fr), la mission « Incubateur de services numériques » est créée par la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr> en septembre 2015 pour résoudre toujours plus de problèmes liés à des politiques publiques. Elle collabore aujourd’hui avec plus de 15 partenaires publics (ministères, opérateurs publics, collectivités territoriales,...) et accompagne les administrations souhaitant construire leur propre incubateur de Startups d’État.
