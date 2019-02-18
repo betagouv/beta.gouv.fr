@@ -18,7 +18,6 @@ La startup est conçue et développée par une petite équipe agile et autonome,
 
 Financée par Pôle Emploi, [Avril](https://avril.pole-emploi.fr/) fonctionne comme une startup d’état, selon le [manifeste](https://beta.gouv.fr/incubateurs/) de beta.gouv.
 
-
 ## La mission
 En binôme avec un autre développeur, au sein d’une équipe de 6 à 7 personnes, vous développerez les futures fonctionnalités d’[Avril](https://avril.pole-emploi.fr/) et dessinerez l’avenir du produit. 
 
@@ -32,6 +31,7 @@ En binôme avec un autre développeur, au sein d’une équipe de 6 à 7 personn
 - Participer activement à la vie de l’équipe (stand up quotidien de 20 min en visio-conférence, journée _open lab_ à Paris deux fois par mois, rétrospectives)
 - Etre force de proposition au sein de l’équipe sur les évolutions possibles du produit
 
+
 ## Votre profil
 - Vous savez parler “moldu” aux non-tech de l’équipe !
 - Vous avez plusieurs années d’expérience en développement de site web _mobile first / responsive_ avec des framework modernes (Vue, React), HTML5, SASS & CSS
@@ -43,8 +43,6 @@ En binôme avec un autre développeur, au sein d’une équipe de 6 à 7 personn
 - Vous aimez travailler en équipe et coder en binôme
 
 - Vous ne maîtrisez pas tout ça, mais vous avez envie d’apprendre !
-
-
 
 ## Environnement de travail
 Vous travaillerez au sein d’une équipe composée de : 1 intrapreneur, 2 développeurs, 1 designer UX/UI, 2 _business developers_ et 1 coach.
@@ -58,4 +56,4 @@ L’équipe est dispersée à travers la France, et se retrouve deux fois par mo
 
 
 ## Vous souhaitez rejoindre la startup Avril ?
-Envoyez votre LinkedIn / CV / GitHub sous la forme que vous souhaitez à [marie.briche@beta.gouv.fr](mailto:marie.briche@beta.gouv.fr) et [arnaud.denoix@beta.gouv.fr](mailto:arnaud.denoix@beta.gouv.fr)
+Pour postuler, c'est par ici : [beta.gouv.fr/postuler](https://beta.gouv.fr/postuler)
