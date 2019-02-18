@@ -56,4 +56,4 @@ L’équipe est dispersée à travers la France, et se retrouve deux fois par mo
 
 
 ## Vous souhaitez rejoindre la startup Avril ?
-Pour postuler, c'est par ici : [beta.gouv.fr/postuler](https://betagouvfr.recruitee.com/o/tu-veux-rejoindre-une-startup-detat-ecrisnous/c/new)
+Pour postuler, c'est par ici : [beta.gouv.fr/postuler](https://beta.gouv.fr/postuler)
