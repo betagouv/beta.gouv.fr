@@ -12,9 +12,6 @@ stats: false
 contact: contact@domifa.beta.gouv.fr
 ---
 
-# DomiFa (Domiciliation Facilitée)
-*Faciliter l'accès aux droits pour les personnes sans domicile stable, en simplifiant la gestion de la domiciliation* 
-
 ## Qu’est-ce que la domiciliation ? 
 
 La domiciliation est un premier pas vers l’accès aux droits des personnes sans domicile stable. Elle leur permet de disposer d'une adresse administrative où recevoir leur courrier et de faire valoir leurs droits civils, civiques et sociaux (comme la délivrance d’un titre national d’identité, l’inscription sur les listes électorales, l’accès à des aides sociales…).
@@ -37,7 +34,7 @@ Du point de vue des services de l’Etat, l’absence d’outil partagé rend co
 
 Grâce à DomiFa, les structures en charge de la domiciliation peuvent suivre les dossiers plus facilement pour offrir un meilleur service aux bénéficiaires.
 
-La solution permettra, d’abord, de dématérialiser une partie de la procédure de domiciliation et d’automatiser le suivi des dossier (enregistrement et instruction des demandes, suivi des dates d’échéance et de l’archivage des dossiers...). Elle s’adresse d’abord aux structures qui n’ont pas d’outils de suivi et rencontrent des problèmes de surcharge. 
+La solution permettra, dans un premier temps, de dématérialiser une partie de la procédure de domiciliation et d’automatiser le suivi des dossier (enregistrement et instruction des demandes, suivi des dates d’échéance et de l’archivage des dossiers...). Elle s’adresse d’abord aux structures qui n’ont pas d’outils de suivi et rencontrent des problèmes de surcharge. 
 
 La solution intégrera ensuite d’autres services identifiés et développés avec ces structures (communication avec les domiciliés, gestion des courriers, recherche statistiques…). Elle s’adresse alors à tous les organismes domiciliataires. 
 
