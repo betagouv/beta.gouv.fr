@@ -1,39 +1,57 @@
 ---
-title: Simulateur d’embauche
-mission: "Estimer le salaire lors d'une embauche en France : total employeur, brut, net."
+title: Mon-entreprise.fr
+mission: "Le guide officiel du créateur d'entreprise"
 owner: DINSIC
 incubator: dinsic
 status: acceleration
 start: 2014-10-01
 end:
-link: https://embauche.beta.gouv.fr
+link: https://mon-entreprise.fr
 repository: https://github.com/betagouv/syso
 stats: true
-contact: contact@embauche.beta.gouv.fr
+contact: contact@mon-entreprise.beta.gouv.fr
 ---
+# Mon-entreprise.fr
 
-## Embauche.beta.gouv.fr
+## Le drame
+Monter une entreprise n'est pas simple. Le créateur cherche d'un côté des clients et un besoin auquel il est où sera capable de répondre. De l'autre, il doit déclarer son activité et s'assurer qu'elle soit conforme à la loi.
 
-Le salaire est un élément incontournable d'une embauche. Le simulateur permet de calculer le salaire total (et donc le "coût d'embauche" cher à l'employeur), le salaire brut du contrat de travail, et le salaire net après impôt que touchera l'employé sur son compte bancaire. La simulation est ensuite personnalisée selon le contrat et l'entreprise : CDD, statut cadre, effectif, code postal… Une visualisation pédagogique de la fiche de paie (cotisations employeur, salariales, réductions et aides) accompagne la simulation.
-
-L'objectif est d'_enlever l'incertitude qui accompagne souvent une embauche ou une négociation salariale_. Sont intégrés dans le calcul tous les prélèvements et avantages obligatoires assis sur le salaire. En plus du site embauche.beta.gouv.fr, le simulateur est disponible sous forme de module à intégrer gratuitement et simplement sur tout site Web (aujourd'hui intégré par Pôle-emploi entreprises, ou encore par BGE, association d'aide à la création d'entreprise).
-
-![Capture simulateur d'embauche](/img/startups/embauche/simulateur-embauche-268x352.jpg)
-
-## Mycompanyinfrance.fr
-
-Mais l'embauche, ça intervient _après_ les créations d'entreprise, qui sont de l'ordre d'un demi million chaque année. Forme juridique (SAS, SARL, EURL, auto-entreprise...), démarche de création, salaire du dirigeant, salaire des employés, démarche d'embauche, autant de sujets qui ne sont aujourd'hui pas expliqués _simplement_ par l'administration. Nous avons donc lancé avec l'ACOSS (le réseau des URSSAF)  [mycompanyinfrance.fr](https://mycompanyinfrance.fr), pour guider les entrepreneurs étrangers, avant d'en faire une version française.
-
-![Capture Mycompanyinfrance](/img/startups/embauche/mycompanyinfrance.jpg)
+Et cette seconde étape a de quoi faire oublier la première ! Tout d'abord, vient l'enregistrement de l'activité. Il faut se renseigner sur énormément de paramètres si l'on veut être sur de faire le bon choix. Entre autres :
 
 
-## Un moteur de calcul nouveau
+- Les différents status juridique et leur lien avec le régime de protection sociale
+- Les différences entre les régimes de protection sociale (retraite, at/mp)
+- Les différents mode de comptabilité (micro-BNC / micro-BIC / BNC / BIC)
+- La différence entre IS et IR
+- Les régime d'imposition de la TVA
+- Les conditions d'applications de la flat tax.
+- Les différents fonctionnement du recouvrement des cotisations sociale entre indépendant et assimilé salarié
+- Estimer les cotisations pour l'établissement du budget prévisionnel
 
-En plus d'avoir un code libre, le moteur de calcul sous-jacent au simulateur permet à tout citoyen de comprendre les règles en jeu, croisement entre le droit du travail, de la sécurité sociale et des impôts. Pourquoi ce salaire net après impôt ? Il suffit de cliquer pour comprendre le calcul de l'impôt, des cotisations sociales, de la cotisation retraite... Pas de code incompréhensible ou abstrait : les calculs sont expliqués en français sur la base de la situation concrète saisie par l'utilisateur.
 
-![Capture moteur de calcul](/img/startups/embauche/syso-426x642-319x481.jpg)
+Une fois l'entreprise lancée, les échéances fiscales et comptable rythme l'année. Parmis elles : la TVA, le bilan annuel, les cotisations sociales, la CFE, la taxe d'apprentissage, la contribution à la formation professionnelle. 
+
+Si le créateur s'en est sorti, il pourra alors embaucher et découvrir le prochain épisode des contraintes légales.
+
+
+Résultat : **créer une entreprise sans formation préalable ou accompagnement relève d'un véritable parcours du combattant**. L'information disponible est éclatée sur les sites institutionnels des différents acteurs, et souvent présentée sous forme de long paragraphe décontextualisé de la situation de l'entrepreneur.
+
+Hors on observe une nette croissance du nombre d'entreprise crée en France (+18,5% sur les douze derniers mois). Cela s'explique nottament par le développement de l'économie collaborative et des créations d'entreprise qui en découle (phénomène désigné par "l'uberisation de l'économie"). 
+
+**Il devient donc urgent d'accompagner ces nouveaux dirigeants dans la création de leur entreprise à traver un parcours clair et personalisé**
+
+## Mon-entreprise.fr : le guide personnalisé pour créer et administrer son activité
+
+Le principe : poser des questions ciblées à l'utilisateur pour le guider vers son choix; fusionner documentation et simulation. En bref : lever tous les freins et les questionnement au fur et à mesure de la progression du projet.
+
+Nos cibles sont en particulier : 
+- le citoyen (par exemple un salarié) qui décide de se lancer en tant qu'indépendant
+- le citoyen qui se demande s'il faut et comment déclarer ses revenus de l'économie collaborative (livreur à vélo; VTC; loueur sur AirBnB; partage de voiture entre particuliers...)
+- Et plus généralement, le créateur d'entreprise qui découvre tout ce monde
+
+Mon-entreprise.fr travaillera en collaboration avec le réseau des URSSAF, notament avec l'URSSAF Midi-Pyrenées, qui a déjà entrepris un gros travail de recherche utilisateur sur le sujet.
 
 
 ## Budget 💶
 
-La startup a un budget annuel pour l'année 2018 de _220 000 euros_ (tout compris mais hors TVA). La DINSIC et l'ACOSS la financent à parts égales.
+La startup a un budget annuel pour l'année 2018 de _280 000 euros_ (tout compris mais hors TVA). La DINSIC et l'ACOSS la financent se partagent le financement.
