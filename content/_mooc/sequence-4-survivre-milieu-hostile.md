@@ -6,8 +6,8 @@ order: 4
 
 ## Survivre en milieu hostile
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkgk5" allowfullscreen></iframe>
   </div>
   <p>Héla Ghariani - Coach beta.gouv.fr</p>
@@ -16,8 +16,8 @@ order: 4
 
 ## Identifier les problèmes imaginaires
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkgfb" allowfullscreen></iframe>
   </div>
   <p>Héla Ghariani - Coach beta.gouv.fr</p>
@@ -26,8 +26,8 @@ order: 4
 
 <br>
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkgbq" allowfullscreen></iframe>
   </div>
   <p>Héla Ghariani - Coach beta.gouv.fr</p>
@@ -36,8 +36,8 @@ order: 4
 
 ## Quatre conseils à suvire pour maîtriser les imprévus
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkg5g" allowfullscreen></iframe>
   </div>
   <p>Héla Ghariani - Coach beta.gouv.fr</p>
@@ -46,8 +46,8 @@ order: 4
 
 ## Maîtriser les imprévus : le témoignage de Work In France
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkfz0" allowfullscreen></iframe>
   </div>
   <p>Daniel Balmy - Intrapreneur beta.gouv.fr</p>
