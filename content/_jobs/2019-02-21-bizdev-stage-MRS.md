@@ -14,6 +14,11 @@ Poste ouvert le 21/02/2019
 
 ## Qui sommes-nous ?
 
+Mes Remboursements Simplifiés est composé de 5 personnes (3 salariés de la CPAM, 1 coach et un développeur) et peut-être prochainement toi derrière ton écran ! Le produit existe depuis octobre 2017 et connait sa 3ème itération de 6 mois. Nous sommes en phase d'accélération et ton renfort sera le bienvenu.
+Une semaine au sein MRS c'est quoi ? 2 standup par semaine en visio et une journée avec l'ensemble de l'équipe pour prioriser les actions et mener des ateliers collectifs. Méthodologie et motivation sont nos moteurs !
+
+## Notre produit :
+
 Chaque année, 4 milliards d’euros de dépenses de transport sont remboursés par l’Assurance Maladie. 
 Le transport en véhicule particulier représente moins de 1% de ces dépenses.
 Le véhicule particulier est le mode de transport le plus simple à utiliser et le moins onéreux… mais le plus complexe pour se faire rembourser. 
