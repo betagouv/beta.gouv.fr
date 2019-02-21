@@ -6,8 +6,8 @@ additional_css:
   - side-panel.css
 
 # Dates de la prochaine formation
-alpha-start: 2019-03-27
-alpha-end: 2019-03-27
+alpha-start: 2019-04-04
+alpha-end: 2019-04-04
 alpha-time: de 9h à 18h30
 alpha-location: 20 avenue de Ségur, 75007 Paris
 alpha-location-link: https://www.openstreetmap.org/#map=19/48.85049/2.30812
