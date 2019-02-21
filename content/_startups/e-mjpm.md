@@ -23,7 +23,11 @@ Le rapport de la Cour des Comptes 2016 sur la protection juridique des majeurs c
 
 Avec e-mjpm, le magistrat peut choisir au mieux le professionnel qui sera en charge de la mesure (tutelle, curatelle, sauvegarde de justice) sur la base d’un référentiel géolocalisé des tuteurs. Pour faciliter la mise en place de la mesure, il peut éventuellement notifier en direct sa décision.
 
-[![Vidéo de présentation de e_MJPM](https://i.goopics.net/wbGKY.png)](https://www.dailymotion.com/embed/video/x6z9qkc "Vidéo de présentation de e_MJPM")
+<div class="mooc-iframe-center">
+  <div class="mooc-iframe-container">
+    <iframe src="https://www.dailymotion.com/embed/video/x6z9qkc" allowfullscreen></iframe>
+  </div>
+</div>
 
 Ce service consolide ainsi une base de données des mesures en cours sur le territoire. Ces données ont une valeur essentielle dans le pilotage de la politique publique de la protection juridique des majeurs (connaître le profil des personnes sous protection, adapter l’offre des tuteurs aux spécificités du territoire, identifier les mesures familiales et adapter l’information et le soutien proposé…).
 
