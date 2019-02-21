@@ -30,13 +30,13 @@ Si tu as déjà testé le formulaire Cerfa S3140 et que tu penses qu’il existe
 Pour mener à bien tes mission, tu seras accompagné(e) par le responsable développement et l’équipe MRS pour :
 
 Côté « assurés » :
-•	Élargir la communication pour augmenter le nombre d’utilisateurs 
-•	Trouver de nouveaux canaux d’acquisition (partenariat, réseaux sociaux…)
-•	Etudier pourquoi certaines cibles n’utilisent pas notre produit (freins/ motivations…)	
+-  Élargir la communication pour augmenter le nombre d’utilisateurs 
+-  Trouver de nouveaux canaux d’acquisition (partenariat, réseaux sociaux…)
+-  Etudier pourquoi certaines cibles n’utilisent pas notre produit (freins/ motivations…)	
 
 Côté « professionnels de santé » :
-•	Embarquer un maximum de professionnels dans le produit
-•	Etre force de proposition pour mieux cibler le besoin de professionnels
+-  Embarquer un maximum de professionnels dans le produit
+-  Etre force de proposition pour mieux cibler le besoin de professionnels
 
 C’est l’occasion parfaite pour te doter d’une solide expérience en business développement, au sein du réseau Assurance Maladie, organisme public d’intérêt général, avec une grande liberté d’action, un état d’esprit startup et une équipe ultra-engagée !
 
