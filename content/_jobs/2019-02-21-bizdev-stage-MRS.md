@@ -1,7 +1,7 @@
 ---
 roles: un·e chargé·e de développement 
 startup: Mes Remboursements Simplifiés
-open: 
+open: true
 ---
 
 La start-up d’Etat Mes Remboursements Simplifiés (MRS) de la CPAM de la Haute-Garonne recherche un(e) chargé(e) de développement en stage pour renforcer l’équipe MRS.
