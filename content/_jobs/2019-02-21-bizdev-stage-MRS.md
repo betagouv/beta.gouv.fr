@@ -1,6 +1,6 @@
 ---
 roles: un·e chargé·e de développement (stage)
-startup: Mes Remboursements Simplifiés
+startup: mrs
 open: true
 ---
 
