@@ -8,7 +8,7 @@ La Startup d’État Mes Remboursements Simplifiés (MRS) de la Caisse Primaire 
 
 <!--more-->
 
-##  L'équipe MRS recrute un·e chargé·e de développement 
+##  L'équipe MRS recrute un·e chargé·e de développement (stage)
 Poste ouvert le 21/02/2019
 
 
