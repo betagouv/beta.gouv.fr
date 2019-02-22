@@ -46,9 +46,10 @@ Côté « professionnels de santé » :
 C’est l’occasion parfaite pour te doter d’une solide expérience en business développement, au sein du réseau Assurance Maladie, un organisme public d’intérêt général, avec une grande liberté d’action, un état d’esprit startup et une équipe ultra-engagée !
 
 ## Compétences :
+
 Ton profil nous intéresse si:
 -  tu sais faire preuve d’initiative et tu n’as pas peur de décrocher ton téléphone ;
--  le webmarketing pour toi n'est pas que de l'emailing
+-  le webmarketing pour toi n'est pas que de l'emailing ;
 -  tu es animé·e par la volonté d’améliorer le service public ;
 -  tu aimes travailler de manière agile ;
 -  tu souhaites acquérir de nouvelles compétences ;
