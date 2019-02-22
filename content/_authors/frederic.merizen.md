@@ -2,7 +2,7 @@
 fullname: Frederic Merizen
 role: Développeur
 start: 2017-12-12
-end: 2019-02-22
+end: 2019-03-31
 employer: independent/octo
 github: fredZen
 startups:
