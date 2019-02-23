@@ -10,7 +10,7 @@ avatar: https://avatars3.githubusercontent.com/pydarnaudet?s=600
 github: pydarnaudet # optionnel : nom d'utilisateur GitHub, permet d'être ajouté automatiquement à l'organisation GitHub betagouv
 start: 2019-01-01 # date d'arrivée au format ISO (AAAA-MM-JJ)
 end: 2019-06-30 # date de fin de contrat au format ISO (AAAA-MM-JJ)
-employer: ARS Occitanie # dinsic ou independent/<employer> ou admin/<employer> ou service/octo
+employer: admin/ARS Occitanie # dinsic ou independent/<employer> ou admin/<employer> ou service/octo
 startups: Tremplin # ta ou tes startups actuelles
    # - super_startup  le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
  # previously: ta ou tes anciennes startups
