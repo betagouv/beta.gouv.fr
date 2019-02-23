@@ -9,7 +9,7 @@ end: # laisser vide
 link: 
 repository:  # ou page de description des dépôts s'il y en a plusieurs
 stats: false
-contact:  # sera visible de tous
+contact: pierre-yves.darnaudet@ars-sante.fr # sera visible de tous
 ---
 
 ## Fiche produit
