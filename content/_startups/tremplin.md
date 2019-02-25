@@ -12,18 +12,12 @@ stats: false
 contact: pierre-yves.darnaudet@ars-sante.fr
 ---
 
-## Fiche produit
+## TREMPLIN : Territoire REMPLacement INinstallation
+*Rapprocher les professionnels de santé de leur futur territoire d’exercice*
 
-**TREMPLIN**
+## Comment une diffusion de l’information inadaptée renforce les déserts médicaux
 
-**T**erritoire **REMPL**acement **IN**stallation
-
-**Rapprocher les professionnels de santé de leur futur territoire d’exercice**
-
-Comment une diffusion de l’information inadaptée renforce les déserts médicaux.
-------------------------------------------------------------------------------
-
-Aujourd’hui,Plus de 5 millions de français vivent dans une zone déficitaire en médecin.
+Aujourd’hui, plus de 5 millions de français vivent dans une zone déficitaire en médecin.
 
 Et si certains déserts médicaux résultaient d’un mauvais partage d’informations plutôt que d’attractivité ?
 
@@ -32,8 +26,7 @@ Et si certains déserts médicaux résultaient d’un mauvais partage d’inform
 
 Certaines opportunités au sein de déserts médicaux ne trouvent donc pas preneur alors même qu’elles correspondent à ce que recherchent les soignants.
 
-Pourquoi Tremplin ?
-------------------
+## Pourquoi Tremplin ?
 
 De nombreux dispositifs d'accompagnement existent, et pourtant les professionnels de santé doivent consacrer beaucoup trop de temps et d’énergie à leur recherche.
 
@@ -52,10 +45,7 @@ Tremplin se donne pour objectifs de:
 
 En rendant visible les opportunités et les atouts existants sur les territoires, en permettant un vrai choix pour les professionnels de santé et en simplifiant la mise en relation,  Tremplin veut résorber une partie du problème des déserts médicaux et installer des soignants dans les territoires qui en ont le plus besoin.
 
-Stratégie de développement
--------------------------
-
-Par quoi on commence?
+## Stratégie de développement
 
 *Valoriser l’offre des territoires*
 
