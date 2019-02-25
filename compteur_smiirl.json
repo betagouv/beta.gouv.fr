@@ -2,10 +2,5 @@
 ---
 
     {
-
-      "authors"    : "{{ site.authors | size }}",
-      "incubateurs"   : "{{ site.incubators | size }}",
-      "startups" : "{{ site.startups | size }}"
-
+      "number" : {{ site.startups | size }}
     }
-
