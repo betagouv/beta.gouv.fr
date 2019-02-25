@@ -1,6 +1,6 @@
 ---
 ---
-[
+
     {
 
       "authors"    : "{{ site.authors | size }}",
@@ -8,4 +8,4 @@
       "startups" : "{{ site.startups | size }}"
 
     }
-]
+
