@@ -9,9 +9,7 @@ avatar: https://avatars3.githubusercontent.com/morissetcl?s=600
 github: morissetcl
 start: 2019-03-25
 end: 2019-07-31 # date de fin de contrat au format ISO (AAAA-MM-JJ)
-employer: service/ut7
+employer: service/captive
 startups: # ta ou tes startups actuelles
     - competences-pro
 ---
-
-Écrit des autobiographies percutantes en moins de 200 caractères depuis 1972.
