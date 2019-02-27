@@ -1,6 +1,6 @@
 ---
 roles: un·e développeur·e web full stack
-open: true
+open: false
 startup: avril
 ---
 
