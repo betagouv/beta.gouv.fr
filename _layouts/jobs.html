@@ -16,15 +16,31 @@ layout: default
       </div>
     </div>
   </section>
-  <section class="section section-grey cards">
-    <div class="container jobs">
-      <h3>Offres pourvues</h3>
-      <div class="grid">
+  <section class="section section-grey">
+    <div class="container">
+      <a class="button" onclick="toggle_visibility('previous_jobs');">Offres pourvues</a>
+      <div id="previous_jobs" style="display:none">
         {% assign jobs = site.jobs | where: "open", 'false' | reverse %}
-        {% for job in jobs %}
-          {% include card-job.html job=job %}
-        {% endfor %}
+        <ul>
+      {% for job in jobs %}
+        {% capture startup_id %}/startups/{{ job.startup }}{% endcapture %}
+        {% assign startup = site.startups | where: "id", startup_id | first %}
+        <li><a href="{{ job.url }}">{% if job.friend %}{{ job.friend }}{% else %}{{ startup.title | default: "beta.gouv.fr"}}{% endif %} : {{ job.roles }}, le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></a></li>
+      {% endfor %}
+        </ul>
       </div>
     </div>
   </section>
 </div>
+
+<script type="text/javascript">
+<!--
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
+//-->
+</script>
