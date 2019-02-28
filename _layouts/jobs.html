@@ -18,7 +18,7 @@ layout: default
   </section>
   <section class="section section-grey">
     <div class="container">
-      <a class="button" href="#previoux_jobs" onclick="toggle_visibility('previous_jobs');">Offres pourvues</a>
+      <a class="button" href="#previous_jobs" onclick="toggle_visibility('previous_jobs');">Offres pourvues</a>
       <div id="previous_jobs" style="display:none">
         {% assign jobs = site.jobs | where: "open", 'false' | reverse %}
         <p>
