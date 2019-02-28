@@ -7,7 +7,7 @@ externalURL: https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-ex
 ---
 
 On recherche un expert Node.js F/H pour FranceConnect, un produit qui fête ses 4 ans et permet aujourd'hui 1.5 millions de connexions par mois.
-Il permet à un citoyen français d’utiliser l’identifiant de son choix (son numéro de sécurité, son identifiant des impôts, son compte MSA, son compte La Poste ou encore son compte Orange) pour se connecter à un maximum de services publics (les impôts, les services de la ville, la sécurité sociale, etc.) et privés.
+Il permet à un citoyen français d’utiliser l’identifiant de son choix (son numéro de sécurité sociale, son identifiant des impôts, son compte MSA, son compte La Poste ou encore son compte Orange) pour se connecter à un maximum de services publics (les impôts, les services de la ville, la sécurité sociale, etc.) et privés.
 
 <!--more-->
 
@@ -22,15 +22,15 @@ Nous sommes actuellement une équipe constituée de :
 ![Notre équipe](/img/jobs/2018-11-07-franceconnect-ops.jpg)
 
 Nos objectifs actuels sont les suivants :
- - avoir un taux de disponibilité de 99,99% ;
- - trouver des façons d'améliorer nos cycles d'intégration et de déploiement continu ;
- - régler des problèmes d’infrastructures chez nos partenaires.
+ - atteindre un taux de disponibilité de 99,99% ;
+ - fluidifier nos cycles d'intégration et de déploiement continu ;
+ - être intégrés sur de nouveaux services publics emblématiques.
 
 __Notre équipe est donc à la recherche d’un·e expert Node.js__ avec une précédente expérience réussie, qui aime prendre des initiatives et qui ne se repose pas sur l’existant.
 
 La vision que nous aimerions partager avec elle ou lui, c’est que FranceConnect puisse participer à l’inclusion numérique en France, pour que tout le monde puisse avoir accès facilement aux services publics français, de manière simple et garantie par l’État.
 
-Avec 1 600 000 usagers uniques par mois et 7 millions d’utilisateurs, nous avons des valeurs de transparence et de protection de la vie privée, et nous sommes accompagnés par la CNIL et l'ANSSI pour y veiller.
+Avec 1 600 000 usagers uniques par mois et 7 millions d’utilisateurs, nous défendons des valeurs de transparence et de protection de la vie privée, et nous sommes accompagnés par la CNIL et l'ANSSI pour y veiller.
 
 Au sein de l’équipe, tu assureras 3 missions principales:
 1.	Conception et développement
