@@ -1,5 +1,6 @@
 ---
 fullname: Sofía Calcagno
+github: sofcalca
 role: Développeur / Data Scientist
 start: 2018-07-02
 end: 2019-06-30
