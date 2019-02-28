@@ -1,11 +1,11 @@
 ---
-roles: un·e développeur·e full stack
+roles: un développeur ou une développeuse full stack
 startup: domifa
 techno: Choix technologiques ouverts parmi les solutions libres du marché
 open: true
 ---
 
-*DomiFa (Domiciliation Facilitée), une des startups d'État du ministère des Solidarités et de la Santé, cherche un·e développeur·e pour améliorer l'accès aux droits des personnes sans domicile stable.*
+*DomiFa (Domiciliation Facilitée), une des startups d'État du ministère des Solidarités et de la Santé, cherche un développeur ou une développeuse pour améliorer l'accès aux droits des personnes sans domicile stable.*
 
 <!--more-->
 
@@ -25,13 +25,13 @@ La Startup d'État a démarré début janvier 2019. Un premier travail terrain a
 
 ## Le Poste
 
-Vous êtes développeur·e full stack et voulez mettre vos compétences au profit de l’amélioration du service public ?
+Vous êtes développeur ou développeuse full stack et voulez mettre vos compétences au profit de l’amélioration du service public ?
 
 Vous êtes à votre aise dans les contextes de petites équipes autonomes, agiles, et proches de leurs utilisateurs ?
 
 Vous avez à cœur de rendre un service de qualité qui transforme la relation des usagers aux services publics, y compris en outillant des contributeurs/ré-utilisateurs potentiellement peu à l’aise avec le développement logiciel ?
 
-En rejoignant une Startup d'État, vous participez à l’aventure d’une nouvelle vision de  l’administration, moderne et proche de ses usagers.
+En rejoignant une Startup d'État, vous participez à l’aventure d’une nouvelle vision de l’administration, moderne et proche de ses usagers.
 
 ## Responsabilités
 
@@ -57,7 +57,7 @@ Expérience de l’écosystème technique web : test AB, analytics, etc.
 
 ## Modalités
 
-Poste ouvert pour un·e indépendant·e pour un premier contrat de 3 mois renouvelable.
+Poste ouvert pour un indépendant ou une indépendante pour un premier contrat de 3 mois renouvelable.
 Une présence régulière à Paris est demandée pour participer aux sessions communes de tests utilisateurs, démonstrations, rétrospective et planification. Le télétravail est possible.
 Temps partiel accepté (80 % minimum).
 Démarrage des projets fin février - début mars.

@@ -1,5 +1,5 @@
 ---
-roles: un·e responsable d'exploitation
+roles: un ou une responsable d'exploitation
 friend: FranceConnect
 type: 'friend'
 open: true

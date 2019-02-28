@@ -1,5 +1,5 @@
 ---
-roles: un·e dev web full stack
+roles: un développeur ou une développeuse web full stack
 open: true
 startup: perspectives
 ---
@@ -10,9 +10,9 @@ Accélérez le retour à l'emploi !
 
 ## Contexte
 
-[Perspectives](https://beta.gouv.fr/startups/perspectives.html) est une start-up Pole Emploi créée en mai 2018 dont le but est d’accélérer le retour à l’emploi des candidats validés par la Méthode de Recrutement par Simulation (MRS). La MRS évalue les aptitudes des demandeurs d’emploi qui souhaitent exercer un nouveau métier encore jamais pratiqué. 
+[Perspectives](https://beta.gouv.fr/startups/perspectives.html) est une start-up Pole Emploi créée en mai 2018 dont le but est d’accélérer le retour à l’emploi des candidats validés par la Méthode de Recrutement par Simulation (MRS). La MRS évalue les aptitudes des demandeurs d’emploi qui souhaitent exercer un nouveau métier encore jamais pratiqué.
 
-Ce service est développé par Pôle emploi dans le cadre d’une Startup d’Etat. La startup est conçue et développée par une petite équipe agile et autonome, à l’écoute de ses utilisateurs et dotée d’une forte autonomie. 
+Ce service est développé par Pôle emploi dans le cadre d’une Startup d’État. La startup est conçue et développée par une petite équipe agile et autonome, à l’écoute de ses utilisateurs et dotée d’une forte autonomie.
 
 Rejoindre l’équipe de [Perspectives](https://beta.gouv.fr/startups/perspectives.html), c’est participer à l’aventure de la nouvelle administration au service de ses usagers.
 
@@ -40,8 +40,8 @@ En binôme du développeur en place depuis le début du projet, vous développer
 - Vous maîtrisez le développement Web, ses concepts et ses standards
 - Vous disposez d’une expérience concrète sur un projet en Scala
 - Vous êtes habitué à gérer du code source via GIT
-- Vous avez une capacité d’écoute, d’analyse 
-- Vous êtes autonome et force de proposition 
+- Vous avez une capacité d’écoute, d’analyse
+- Vous êtes autonome et force de proposition
 - Vous aimez travailler en équipe et coder en binôme
 - Vous ne maîtrisez pas tout ça, mais vous avez envie d’apprendre
 

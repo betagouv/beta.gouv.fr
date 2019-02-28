@@ -1,7 +1,9 @@
 ---
 friend: 'PIX'
-roles: un.e développeur.e fullstack JS
-techno: Ember.JS / Node.JS 
+roles: un développeur ou une développeuse full stack JS
+techno:
+  - Ember.JS
+  - Node.JS
 type: 'friend'
 externalURL: 'https://pix.fr/recrutement/developpeur-web'
 open: true
@@ -51,4 +53,4 @@ La stack technique globale comprend :
 
 ## Postuler
 
-Si un bon CV est toujours agréable à lire, nous pensons qu’une bonne histoire bien racontée (avec son lot de projets et d’expériences, réussites ou échecs) est encore plus intéressante à découvrir. Décrivez-nous qui vous êtes et ce que vous pensez apporter à l’équipe par mail : recrutement@pix.fr
+Si un bon CV est toujours agréable à lire, nous pensons qu’une bonne histoire bien racontée (avec son lot de projets et d’expériences, réussites ou échecs) est encore plus intéressante à découvrir. Décrivez-nous qui vous êtes et ce que vous pensez apporter à l’équipe par mail : [recrutement@pix.fr](mailto:recrutement@pix.fr).
