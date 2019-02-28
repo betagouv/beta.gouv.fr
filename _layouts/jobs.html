@@ -21,15 +21,13 @@ layout: default
       <a class="button" href="#previous_jobs" onclick="toggle_visibility('previous_jobs');">Offres pourvues</a>
       <div id="previous_jobs" style="display:none">
         {% assign jobs = site.jobs | where: "open", 'false' | reverse %}
-        <p>
-          <ul>
-        {% for job in jobs %}
-          {% capture startup_id %}/startups/{{ job.startup }}{% endcapture %}
-          {% assign startup = site.startups | where: "id", startup_id | first %}
-          <li><a href="{{ job.url }}">{% if job.friend %}{{ job.friend }}{% else %}{{ startup.title | default: "beta.gouv.fr"}}{% endif %} : {{ job.roles }}, le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></a></li>
-        {% endfor %}
-          </ul>
-        </p>
+        <ul>
+      {% for job in jobs %}
+        {% capture startup_id %}/startups/{{ job.startup }}{% endcapture %}
+        {% assign startup = site.startups | where: "id", startup_id | first %}
+        <li><a href="{{ job.url }}">{% if job.friend %}{{ job.friend }}{% else %}{{ startup.title | default: "beta.gouv.fr"}}{% endif %} : {{ job.roles }}, le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></a></li>
+      {% endfor %}
+        </ul>
       </div>
     </div>
   </section>
