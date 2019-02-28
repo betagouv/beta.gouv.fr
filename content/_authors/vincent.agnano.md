@@ -9,7 +9,7 @@ end: 2019-12-31
 employer: independent/lazone
 startups:
   - eac
-  - classea12
+  - classes12
 previously:
   - api-drones
   - data.gouv.fr
