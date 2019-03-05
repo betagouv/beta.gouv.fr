@@ -1,7 +1,8 @@
 ---
 fullname: Jihane Herizi
-role: Responsable du programme Alpha
+role: 
 start: 2017-10-11
+enD: 2019-09-01
 employer: dinsic
 startups:
 previously:
