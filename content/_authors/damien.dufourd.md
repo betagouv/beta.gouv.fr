@@ -8,4 +8,5 @@ end: 2019-12-31
 employer: independent
 startups:
   - trouve-ta-voie
+  - trait-d-union
 ---
