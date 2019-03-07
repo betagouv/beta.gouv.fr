@@ -1,5 +1,5 @@
 ---
-title: Trouve ta voie
+title: DiagOriente
 mission: Permettre aux jeunes en difficulté de découvrir leurs compétences et leurs aspirations
 owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi
 incubator: dinsic
@@ -12,36 +12,22 @@ stats: false
 contact: pascal.chaumette@id6tm.org
 ---
 
-## Problème
+## Le problème (enfin les problèmes…)
 
-80 000 jeunes sortent chaque année sans diplôme du système scolaire.  L'école n’a pu faire émerger leurs aspirations ni leur permettre de construire un projet professionnel. Accompagnés par les missions locales, nombre d’entre eux refusent les formations qui leur permettraient de s’insérer plus durablement dans l’emploi.
+Chaque année, plus de 80 000 jeunes sortent du système scolaire sans diplôme ni projet autre que d’entrer dans la vie active. Accompagnés par les Missions locales, ils entrent dans le dispositif Garantie Jeunes avec la ferme intention de se faire un peu d’expérience professionnelle (via des « stages ») tout en étant rémunérés et de financer ainsi leur permis de conduire. La plupart d’entre eux n’ont pas vu de conseiller d’orientation à l’école et ne connaissent qu’une dizaine de métiers, parfois très superficiellement. La Garantie Jeunes leur permettra de tester ces quelques idées de métiers via des stages (une à deux semaines de mise en situation en milieu professionnel).
 
-Or, ils ont des compétences et des aspirations, qu’ils méconnaissent et construites la plupart du temps en dehors de l’école.
+A ce problème d’orientation professionnelle, s’ajoute une seconde difficulté : la plupart des jeunes décrocheurs scolaires souhaitent moins que tout au monde retourner sur les bancs de l’école. Pourtant, si certains métiers ne nécessitent pas de qualification, il s’agit souvent d’emplois peu considérés, précaires ou sans débouchés, dans lesquels ces jeunes n’arrivent pas à se maintenir durablement.
+Or, si l’on écoute le discours des jeunes, ils disent vouloir apprendre « sur le tas », qu’on leur laisse le temps de faire leurs preuves mais en étant rémunérés afin de subvenir à leurs besoins. Un verbatim qui fait écho à la définition de la formation en alternance ?
+Qu’en pensent-ils ? Rien pour 70% des jeunes interviewés qui ne connaissent pas l’apprentissage… Une fois briefés, 9 jeunes sur 10 affirment être intéressés par cette façon de s’insérer dans l’emploi qualifié.
 
-## Solution
+## Le produit
 
 Pour que ces jeunes deviennent acteurs de leur orientation, il faut leur montrer qu’ils savent et aiment faire des choses et mettre en lien ces compétences et ces aspirations avec des champs métiers et des filières d’emploi.
 
 "Trouve ta voie" permet d’engager ce processus dans un univers vidéoludique tranchant radicalement avec le monde scolaire. Les jeunes sont invités à choisir parmi des contextes, des situations, des expériences qui leur sont familières ou qu’ils apprécient (un match de foot, une soirée d’anniversaire, un projet humanitaire, un weekend à l’étranger…) et entrent dans l’épisode de jeu correspondant pour jouer à quelques scènes sur lesquelles ils sont amenés à réfléchir a posteriori. Au fil du processus déroulé par l’application, l’élève découvre ses expériences les plus significatives et réalise une cartographie de ses compétences transversales qui peut, en un clic, être rapprochée de celles des champs métiers et secteurs eux-mêmes pré-analysés sous l’angle des compétences transversales qui y dominent.
 
-## Mesures d’impact
+## La mise en marché
 
-La réussite du projet sera mesurée par la baisse du taux d’abandon dans les études et en formation ainsi que par l’amélioration de l’insertion des jeunes dans l’emploi.
-
-## Mise en marché
-
-Les prescripteurs de notre solution seront d’abord ceux qui font aujourd’hui office de conseil en orientation scolaire et/ou professionnelle :
-
-Pour les élèves de la 3ème à la Terminale :
--	Professeurs
--	Psychologues de l’éducation nationale
--	Formateurs (Apprentis)
-
-Pour les jeunes en situation de décrochage :
--	Missions locales
--	Pôle emploi
--	Cap Emploi
--	Organismes de Formation (maintenant en charge du diagnostic d’orientation également)
--	etc.
-
-La solution sera d’abord testée dans les collèges, lycées, CFA et missions locales intéressés par la démarche (diffusion et mobilisation par open labs) avant d’être étendue à d’autres types d’acteurs.
+DiagOriente est aujourd’hui en phase d’expérimentation avec pour ambition d’être proposée à tous les jeunes entrant dans le dispositif Garantie jeunes sur tout le territoire national.  
+Les prescripteurs de notre solution seront d’abord ceux qui font aujourd’hui ce travail d’orientation dans les Missions locales : les conseillers Garantie Jeunes.
+A moyen terme, une fois l’application et ses impacts stabilisés sur ce terrain, nous envisageons d’en faire bénéficier tous les lycéens, voire collégiens, de France via une prescription réalisée par les professeurs principaux en charge de cette délicate question de l’orientation.
