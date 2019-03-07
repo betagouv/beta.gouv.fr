@@ -8,5 +8,4 @@ end:
 employer: admin/MTES-MCT
 startups: 
     - aides-territoires.beta.gouv.fr
-github: msoldano
 ---
