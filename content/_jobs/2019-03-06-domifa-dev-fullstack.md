@@ -1,10 +1,7 @@
 ---
 roles: un·e développeur·e full stack
 startup: domifa
-techno: 
- - Javascript ou 
- - NodeJS ou Django
- - React ou Angular
+techno: bon niveau en JavaScript souhaité
 open: true
 ---
 
