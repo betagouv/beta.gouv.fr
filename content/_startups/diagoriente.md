@@ -10,6 +10,9 @@ link:
 repository:
 stats: false
 contact: pascal.chaumette@id6tm.org
+redirect_from:
+  - /startups/trouve-ta-voie
+
 ---
 
 ## Le problème (enfin les problèmes…)
