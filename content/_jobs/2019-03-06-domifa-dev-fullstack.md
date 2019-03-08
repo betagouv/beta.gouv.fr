@@ -1,7 +1,7 @@
 ---
 roles: un·e développeur·e full stack
 startup: domifa
-techno: Choix technologiques ouverts parmi les solutions libres du marché
+techno: bon niveau en JavaScript souhaité
 open: true
 ---
 
@@ -60,7 +60,7 @@ Expérience de l’écosystème technique web : test AB, analytics, etc.
 Poste ouvert pour un·e indépendant·e pour un premier contrat de 3 mois renouvelable.
 Une présence régulière à Paris est demandée pour participer aux sessions communes de tests utilisateurs, démonstrations, rétrospective et planification. Le télétravail est possible.
 Temps partiel accepté (80 % minimum).
-Démarrage des projets fin février - début mars.
+Démarrage à partir de mi-mars.
 
 ## Candidater
 
