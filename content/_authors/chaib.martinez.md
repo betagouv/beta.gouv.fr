@@ -9,4 +9,5 @@ end: 2019-03-31
 employer: independent/octo
 startups:
     - demarches-simplifiees.fr
+    - trait-d-union
 ---
