@@ -7,5 +7,5 @@ start: 2018-12-15
 end: 2019-12-31
 employer: independent
 startups:
-  - trouve-ta-voie
+  - diagoriente
 ---
