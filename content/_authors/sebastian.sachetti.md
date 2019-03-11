@@ -12,7 +12,6 @@ previously:
   - demarches-simplifiees.fr
   - aplus
   - api-particulier
-  - franceconnect-agent
 ---
 
 Interface Humaine à la recherche de connections pour développer les services publics numériques de demain
