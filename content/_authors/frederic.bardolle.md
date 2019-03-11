@@ -8,6 +8,7 @@ github: seiteta
 startups:
     - e-chauffeur
     - civils-de-la-defense
+    - sepia
 ---
 
 🏭🔢
