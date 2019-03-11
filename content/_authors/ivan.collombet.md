@@ -9,7 +9,7 @@ startups:
   - reso
   - signaux-faibles
   - competences-pro
-  - trouve-ta-voie
+  - diagoriente
   - signalement
   - lapins
 previously:
