@@ -12,14 +12,14 @@ stats: false
 contact: pierre-yves.darnaudet@ars-sante.fr
 ---
 
-## TREMPLIN : Territoire REMPLacement INinstallation
+## TREMPLIN : Territoire REMPLacement INstallation
 *Rapprocher les professionnels de santé de leur futur territoire d’exercice*
 
 ## Comment une diffusion de l’information inadaptée renforce les déserts médicaux
 
 Aujourd’hui, plus de 5 millions de français vivent dans une zone déficitaire en médecin.
 
-Et si certains déserts médicaux résultaient d’un mauvais partage d’informations plutôt que d’attractivité ?
+Et si certains déserts médicaux résultaient d’un mauvais partage d’informations plutôt que d’un problème d'attractivité?
 
 * D’un côté, les professionnels de santé cherchent leurs futurs lieux d’installation en fonction de critères professionnels (infrastructures médicales, patientèle, aides publiques à l'installation...) et personnels (emploi du conjoint, écoles, transports, offres de loisirs etc…). Pour trouver les bonnes informations, ils doivent consulter de nombreuses sources peu accessibles ou de qualité variable. Ainsi, un professionnel de santé, même s’il aspire à une installation dans une commune rurale, peut s’installer, par défaut, à proximité d’un centre urbain qui garantit une réponse à ses contraintes personnelles.
 * De l’autre côté, les acteurs des territoires (soignants, collectivités,…) qui cherchent à attirer de nouveaux professionnels, le temps d’un remplacement ou pour une installation rencontrent des difficultés pour mettre en valeur et diffuser leurs offres.
@@ -34,10 +34,10 @@ Les acteurs des territoires (soignants, collectivités,…)  s’investissent be
 
 Tremplin se donne pour objectifs de:
 
-* permettre aux professionnels de santé l’accès à une information plus complète, plus facilement,  en indiquant, pour chaque territoire:
-  * Quel est le cadre de vie
-  * Quelles sont les opportunités
-  * Les contacts des acteurs de terrain
+* permettre aux professionnels de santé d'accéder à une information plus complète, plus facilement,  en indiquant, pour chaque territoire:
+  * le cadre de vie
+  * les opportunités
+  * les contacts des acteurs de terrain
 
 * Renforcer l’action des acteurs de terrain et simplifier leurs démarches:
   * en leur permettant de rédiger facilement et rapidement des annonces efficaces aux yeux des professionnels de santé.
@@ -63,9 +63,7 @@ Tremplin sera d’abord expérimenté sur le territoire de l’Occitanie avec po
 
 Pour ce faire, nous sommes en lien avec des internes en médecine générale, des médecins généralistes remplaçants et installés , des plateformes de diffusion d’offres et leurs sponsors  ainsi que des collectivités territoriales.
 
-Et ensuite?
-
-*Rassembler les informations et accompagner les professionnels de santé dans leur prise de décision*
+* Et ensuite? Rassembler les informations et accompagner les professionnels de santé dans leur prise de décision*
 
 Parce qu’il vaut mieux passer du temps à construire son projet qu’à compiler des données, il apparaît essentiel que les professionnels en recherche puissent consulter l’ensemble des informations et se mettre en lien avec le terrain rapidement et facilement.
 
