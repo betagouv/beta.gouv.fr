@@ -19,9 +19,11 @@ intervenants:
   - jihane.herizi
 ---
 
-## Inès Hijazi - Responsable de la formation Alpha et coach junior auprès des collectivités territoriales
+## Inès Hijazi - Responsable de la formation Alpha et du programme de pré-incubation
 
-Anciennement data analyste chez Airbnb et Google, Inès a également accompagné le développement de plusieurs projets numériques, notamment relatif à l'éducation. Après une formation en Analyse et Evaluation des Politiques Publiques, elle rejoint beta.gouv.fr en 2018. En 2019, elle met en place le programme de pré-incubation lancé par beta.gouv.fr afin d'accompagner les agents des collectivités territoriales à l'identification de problèmes et de solutions de politiques publiques. En parallèle, elle est responsable de la formation Alpha, ayant pour but de former les agents publics à la méthode Startup d'État.
+Anciennement data analyste chez Airbnb et Google, Inès a également accompagné le développement de plusieurs projets numériques, notamment relatif à l'éducation. Après une formation en Analyse et Evaluation des Politiques Publiques, elle rejoint beta.gouv.fr en 2018 en tant que chargée de déploiement pour la plateforme d'Education Artistique et Culturelle. Depuis mars 2019, elle est en charge de la formation Alpha, ayant pour but de former les agents publics à la méthode Startup d'État. Dans le cadre du programme de pré-incubation lancé par beta.gouv.fr, elle accompagne les agents des collectivités territoriales à l'identification de problèmes et de solutions de politiques publiques.
+
+_Inès Hijazi remplace Jihane Herizi à la tête de la formation Alpha depuis mars 2019. Jihane Herizi a lancé la formation Alpha en 2017 avant de coordooner le cours en ligne ouvert à tous en 2018._
 
 ## Héla Ghariani - Responsable de l'Incubateur des services numériques et Coach beta.gouv.fr
 
