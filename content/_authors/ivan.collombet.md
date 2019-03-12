@@ -6,7 +6,7 @@ end: 2019-06-30
 employer: independent/icc
 startups:
   - demarches-simplifiees.fr
-  - reso
+  - place-des-entreprises
   - signaux-faibles
   - competences-pro
   - diagoriente
