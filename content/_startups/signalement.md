@@ -10,6 +10,13 @@ link: https://signalconso.beta.gouv.fr
 repository:
 stats: false
 contact: magali.marcel@beta.gouv.fr
+techno:
+  - Scala
+  - TypeScript
+  - PostgreSQL
+  - Play Framework
+  - Angular
+  - Clever Cloud
 ---
 
 Trop d'anomalies aujourd'hui ne sont pas remontées
