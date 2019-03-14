@@ -6,7 +6,7 @@ end: 2017-10-31
 employer: service/octo
 startups:
 previously:
-  - reso
+  - place-des-entreprises
 ---
 
 Simplifier, gamifier, donner du feedback, être bienveillant !
