@@ -14,7 +14,7 @@ contact: aidantsconnect@beta.gouv.fr
 
 ## Contexte
 
-Lors de la phase de consultation de la Stratégie nationale pour un numérique inclusif a été souligné l’importance de la sécurisation de l’ensemble des aidants numériques (haut conseil du travail social, médiateurs numériques, intervenants sociaux, agents d’accueil en collectivité territoriale, etc.) tant pour orienter et accompagner les usagers en difficulté que pour les aider à effectuer leurs démarches administratives.
+Lors de la phase de consultation de la Stratégie nationale pour un numérique inclusif a été souligné l’importance de la sécurisation juridique de l’ensemble des aidants numériques (haut conseil du travail social, médiateurs numériques, intervenants sociaux, agents d’accueil en collectivité territoriale, etc.) tant pour orienter et accompagner les usagers en difficulté que pour les aider à effectuer leurs démarches administratives.
 
 Si la création d’une charte de l’aidant numérique a notamment été suggérée par des représentants des professionnels au contact des publics les plus en difficulté avec les outils numériques, il est préconisé d’aller plus loin dans la sécurisation du professionnel comme de l’usager avec un dispositif « Aidants Connect ».
 
