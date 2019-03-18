@@ -20,7 +20,7 @@ Si la création d’une charte de l’aidant numérique a notamment été suggé
 
 ## Sécuriser les démarches administratves en ligne réalisées avec l'aide d'un tiers
 
-En collaboration avec la Direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC), il s’agira de permettre une connexion sécurisée par un professionnel habilité préalablement qui sera amené à faire des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule.
+L’objectif est de permettre à un professionnel habilité préalablement de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule via une connexion sécurisée.
 
 Ce dispositif permettra un suivi des actions réalisées sur le compte de la personne, à destination des usagers et des autorités administratives compétentes, et une protection du professionnel déclarant comme de la personne accompagnée en cas d’erreur. L’enjeu est d’empêcher par un tiers l’utilisation de l’identité numérique d’une personne en difficulté avec les outils numériques (comme cela se fait en pratique, avec inscription des mots de passe dans un carnet papier). 
 
