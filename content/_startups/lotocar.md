@@ -1,5 +1,5 @@
 ---
-title: Lotocar / Mobilot
+title: Lotocar
 mission: Covoiturage solidaire entre les habitants des communes et villages du Lot
 owner: Ademe / Préfecture du Lot (46)
 incubator: dinsic
