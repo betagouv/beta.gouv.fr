@@ -1,6 +1,6 @@
 ---
 title: Aidants Connect
-mission: Permettre à un professionnel habilité préalablement de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule via une connexion sécurisée
+mission: Permettre à un professionnel habilité  de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule.
 owner: Agence du Numérique
 incubator: dinsic
 status: construction
