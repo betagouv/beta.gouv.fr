@@ -36,7 +36,7 @@ La première version du service proposera :
      1. le demandeur accepte d'utiliser un moyen d'identification autre présent sur FranceConnect
      2. l'aidant récupère les données d'identité de la personne accompagnée
      
-Les hypothèses que l'équie souhaite confronter au terrain sont:
+Les hypothèses que l'équipe souhaite confronter au terrain sont:
 - [ ] le demandeur est en capacite de se connecter avec FranceConnect lors de sa rencontre avec l'aidant
 - [ ] il est possible de créer un fournisseur d'identité expérimental sur FranceConnect
 - [ ] le demandeur est connu dans 80% des cas par les services d'état-civil en France
