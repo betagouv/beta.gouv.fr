@@ -24,3 +24,22 @@ L’objectif est de permettre à un professionnel habilité préalablement de r�
 
 Ce dispositif permettra un suivi des actions réalisées sur le compte de la personne, à destination des usagers et des autorités administratives compétentes, et une protection du professionnel déclarant comme de la personne accompagnée en cas d’erreur. L’enjeu est d’empêcher par un tiers l’utilisation de l’identité numérique d’une personne en difficulté avec les outils numériques (comme cela se fait en pratique, avec inscription des mots de passe dans un carnet papier). 
 
+## Périmetre de la version beta
+
+Pour cette iteration du produit, l'équipe se concentrera sur des aidants professionnels (agents publics, associations conventionnées) ayant au moins une rencontre en tête-à-tête avec le demandeur.
+
+La première étape est d'identifier une antenne locale (administration partenaire, MDPH, CCAS, mairies...), présenter la maquette réalisée et identifier des agents volontaires pour commencer à utiliser le service.
+
+La première version du service proposera :
+ - une inscription des aidants sur le service, en signant une charte de déontologie
+ - deux moyens d'identifier le demandeur:
+     1. le demandeur accepte d'utiliser un moyen d'identification autre présent sur FranceConnect
+     2. l'aidant récupère les données d'identité de la personne accompagnée
+     
+Les hypothèses que l'équie souhaite confronter au terrain sont:
+- [ ] le demandeur est en capacite de se connecter avec FranceConnect lors de sa rencontre avec l'aidant
+- [ ] il est possible de créer un fournisseur d'identité expérimental sur FranceConnect
+- [ ] le demandeur est connu dans 80% des cas par les services d'état-civil en France
+- [ ] les aidants acceptent de signer une charte de déontologie
+- [ ] les demandeurs acceptent de déléguer leurs démarches sans être notifiés des actions menée
+- [ ] les aidants ciblés ont accès à internet
