@@ -18,7 +18,7 @@ Lors de la phase de consultation de la Stratégie nationale pour un numérique i
 
 Si la création d’une charte de l’aidant numérique a notamment été suggérée par des représentants des professionnels au contact des publics les plus en difficulté avec les outils numériques, il est préconisé d’aller plus loin dans la sécurisation du professionnel comme de l’usager avec un dispositif « Aidants Connect ».
 
-## Sécuriser les démarches administratves en ligne réalisées avec l'aide d'un tiers
+## Sécuriser les démarches administratives en ligne réalisées avec l'aide d'un tiers
 
 L’objectif est de permettre à un professionnel habilité préalablement de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule via une connexion sécurisée.
 
