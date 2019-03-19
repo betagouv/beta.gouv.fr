@@ -5,7 +5,7 @@ techno:
   - Javascript ES5/ES6
   - VueJS ou React
   - Python/Django
-open: true
+open: false
 ---
 
 L’équipe e-contrôle cherche un·e developpeur full-stack pour l’aider à développer son outil permettant de soulager les agents de la Cour des comptes et des organismes contrôlés dans leurs échanges de documents.
