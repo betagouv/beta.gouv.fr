@@ -1,0 +1,49 @@
+backend:
+  name: github
+  base_url: https://api.staticweb-01.etalab.gouv.fr
+  site_domain: beta.gouv.fr
+  repo: betagouv/beta.gouv.fr
+  # Personnalisation des messages de commit
+  commit_messages:
+    create: Bienvenue à “{{slug}}”
+    update: Mise à jour “{{slug}}”
+    delete: Suppression “{{slug}}”
+    uploadMedia: Nouvelle image “{{path}}”
+    deleteMedia: Suppression d'image “{{path}}”
+  squash_merges: true
+
+
+media_folder: "img/posts"
+
+display_url: https://beta.gouv.fr
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "."
+
+# Editorial workflow: validate changes through pull requests
+publish_mode: editorial_workflow
+
+collections:
+   -  name: "authors"
+      identifier_field: fullname
+      label: "Auteurs"
+      label_singular: "Auteur"
+      description: "Les membres de la communauté beta.gouv.fr"
+      folder: "content/_authors"
+      create: true
+      delete: false
+      slug: "{{slug}}"
+      editor:
+        preview: false
+      fields:
+       - {label: "Nom complet (Prénom Nom)", name: "fullname", widget: "string"}
+       - {label: "Rôle", name: "role", widget: "string"}
+       - {label: "Avatar", name: "avatar", widget: "string", required: false}
+       - {label: "Date de début", name: "start", widget: "date", format: "YYYY-MM-DD"}
+       - {label: "Date de fin", name: "end", widget: "date", format: "YYYY-MM-DD"}
+       - {label: "Employeur", name: "employer", widget: "string"}
+       - {label: "Startup(s)", name: "startups", widget: "list", field: {label: "Identifiant de la Startup", name: "startups", widget: "string", required: false}}
+       - {label: "Ancienne(s) Startup(s)", name: "previously", widget: "list", field: {label: "Identifiant de la Startup", name: "previously", widget: "string", required: false}}
+       - {label: "Description", name: "body", widget: "text", required: false}
