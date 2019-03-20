@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.4.3-node-browsers
+      - image: circleci/ruby:2.6.1-node-browsers
 
     steps:
       - checkout
@@ -100,4 +100,3 @@ jobs:
 #      - run:
 #          name: Check social networks friendliness
 #          command: ruby rb/test/opengraph.rb
-
