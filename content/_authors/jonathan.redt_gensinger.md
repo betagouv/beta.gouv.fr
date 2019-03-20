@@ -2,7 +2,7 @@
 fullname: Jonathan Redt Gensinger
 role: Intrapreneur
 start: 2017-09-28
-end: 2018-12-31
+end: 2019-12-31
 employer: admin/affaires-sociales
 startups:
     - workinfrance

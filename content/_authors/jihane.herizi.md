@@ -1,10 +1,10 @@
 ---
 fullname: Jihane Herizi
-role: Responsable du programme Alpha
+role: J'anime des communautés 
 start: 2017-10-11
-end: 2019-01-15
-employer: dinsic
-startups:
+end: 2019-09-01
+employer: independent
+startups: 
 previously:
   - pass-culture
 ---

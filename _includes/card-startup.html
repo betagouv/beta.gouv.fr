@@ -32,6 +32,9 @@
         <em>Code pas encore ouvert</em>
       {% endif %}
     </p>
+    {% if startup.techno %}
+      {% for item in startup.techno %}<div class="label">{{ item }}</div>{% endfor %}     
+    {% endif %}
   </div>
   <div class="card__extra">
     {% comment %}<!-- Initialiser les équipes : les actuels, ceux qui sont parti, et ceux qui se sont retirés -->{% endcomment %}

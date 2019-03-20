@@ -6,7 +6,7 @@ incubator: mtes
 status: construction
 start: 2018-11-01
 end:
-link:
+link: https://trackdechets.beta.gouv.fr
 repository: https://github.com/MTES-MCT/trackdechets
 stats: false
 contact: emmanuel.flahaut@developpement-durable.gouv.fr
@@ -14,20 +14,18 @@ contact: emmanuel.flahaut@developpement-durable.gouv.fr
 
 En 2016, 12 millions de tonnes de déchets dangereux ont été produits en France. Il s’agit de déchets contenants des éléments toxiques ou dangereux qui présentent des risques pour la santé et l'environnement. 
 
-Ces déchets sont soumis à une réglementation particulière pour leur gestion et leur valorisation. Afin de contrôler le traitement effectif des déchets, la loi impose aux sociétés productrices une traçabilité rigoureuse assurée par un bordereau de suivi de déchets qui permet de suivre le déchet de sa collecte à son traitement. 
-
-Chaque année, près de 16 millions de ces bordereaux sont édités. Cependant en 2016, près de 4 millions de tonnes de ces déchets sont en déficit de traçabilité. Ces données questionnent : qu’est-il est advenu de 35% des déchets dangereux produits, ont-ils été traités, sont-ils stockés ou ont-il été abandonnés dans la nature ?
+Ces déchets sont soumis à une réglementation particulière pour leur gestion et leur valorisation. Afin de contrôler le traitement effectif des déchets, la loi impose aux sociétés productrices une traçabilité rigoureuse assurée par un bordereau de suivi de déchets qui permet de suivre le déchet de sa collecte à son traitement. Chaque année, près de 16 millions de ces bordereaux sont édités.
 
 # Les problèmes actuels
 ## Un impact environnemental majeur
 
-En 2016, on évaluait à 35% le delta entre la production de déchets dangereux (11 010 281 tonnes) et leur traitement (7 165 233 tonnes, Eurostat 2016) **indiquant une perte de traçabilité de presque 3.9 millions de tonnes de déchets dangereux**, mais surtout un risque environnemental majeur avec la  “disparition” de déchets dans la nature...
+L'efficacité de la traçabilité des déchets dangereux est lourdement questionnée par les données officielles (delta production vs. traitement) et les pratiques observées (fraude, traitements inadaptés) indiquant un risque environnemental majeur avec la *disparition* de déchets dans la nature…
 
 Les déchets dangereux abandonnés (exploitants défaillants) génèrent également pollutions et interventions de l’État. La prise en charge des sites pollués à responsables défaillants par l’ADEME a représenté entre 2011-2014 près de 107 millions d’euros.
 
 Il arrive de façon récurrente que certains sites de stockage autorisés (en difficultés financières par exemple) dépassent les seuils autorisés. Ces surstockages indiquent un risque imminent pour l’environnement et le voisinage (pollution, incendie, etc). Or ces sociétés ne font pas nécessairement l’objet d’un contrôle du fait que les services de l’État ne disposent pas d’alertes spécifiques.
 
-**Au delà d’un enjeu d’efficience, un problème d’efficacité de la traçabilité qui questionne et génère des irritants forts pour les professionnels**
+**Au delà d’un enjeu d’efficacité, un problème d’efficience de la traçabilité qui questionne et génère des irritants forts pour les professionnels**
 
 La traçabilité du bordereau est aujourd’hui très complexe (près de 13 000 sociétés concernées, pas de pratique unifiée tels que les logiciels ou la transmission des informations), source de nombreux irritants et d’une perte d’efficience pour les entreprises.
 
@@ -39,6 +37,10 @@ Face à un impact environnemental substantiel représenté par la “perte” de
 
 # Mise en place de Trackdéchets
 ## Les premières étapes
+
+Trackdéchets a pour objectifs de :
+- simplifier la gestion quotidienne de la traçabilité des déchets dangereux
+- apporter de la transparence et valoriser les entreprises vertueuses
 
 Trackdéchets doit permettre le remplissage numérique d’un bordereau (par le producteur ou le collecteur) en simplifiant, sécurisant et fiabilisant les données (vérification des sociétés en s’adossant  à la base Sirene et Installations classées, vérification des codes déchets et code traitement en s’appuyant sur des  bases de données). La responsabilité du producteur sera remise au coeur de la démarche avec la validation de la prise en charge.
 

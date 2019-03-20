@@ -1,7 +1,7 @@
 ---
 roles: une / un business developer en stage
 startup: a-dock
-open: true
+open: false
 ---
 
 Stage : Business developer pour A Dock
