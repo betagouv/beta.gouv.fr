@@ -48,6 +48,9 @@ Nos cibles sont en particulier :
 
 Mon-entreprise.fr se développera en collaboration avec le réseau des URSSAF, notament l'agence Midi-Pyrenées, qui a déjà entrepris un gros travail de recherche utilisateur sur le sujet.
 
+Le site s'appuie sur le succès du *simulateur d'embauche*, intégré aujourd'hui sur une multitudes de sites Web (urssaf.fr, pole-emploi.fr, aides-entreprise.fr, et une cinquentaine d'autres). Le module leur reste disponible, et la simulation devient une section de mon-entreprise.fr.
+
+
 ## Budget 💶
 
 La startup a un budget annuel pour l'année 2018 de _280 000 euros_ (tout compris mais hors TVA). La DINSIC et l'ACOSS se partagent le financement.
