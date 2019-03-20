@@ -10,6 +10,12 @@ title: À propos
 
 Nous animons [une communauté en croissance](/communaute/) qui construit les services publics numériques de demain [au sein d’incubateurs](/incubateurs/).
 
+## Éditeur
+Incubateur de services numériques de la Direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC) - 20, avenue de Ségur - 75007 Paris.
+
+## Directeur de la publication
+Directeur interministériel du numérique et du système d'information et de communication de l'État
+
 ### Historique
 
 Depuis 2013 l’État met en œuvre une nouvelle politique d’innovation, permettant à des « Startups d’État » d’être incubées pour développer des produits numériques centrés sur les usagers. Suite au succès de [data.gouv.fr](https://data.gouv.fr) et de [mes-aides.gouv.fr](https://mes-aides.gouv.fr), la mission « Incubateur de services numériques » est créée par la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr> en septembre 2015 pour résoudre toujours plus de problèmes liés à des politiques publiques. Elle collabore aujourd’hui avec plus de 15 partenaires publics (ministères, opérateurs publics, collectivités territoriales,...) et accompagne les administrations souhaitant construire leur propre incubateur de Startups d’État.
@@ -22,7 +28,7 @@ En particulier, beta.gouv.fr n'incube pas de startups privées.
 
 Le [portefeuille de beta.gouv.fr](/startups/) compte des Startups d'État dans des domaines aussi divers que l’emploi, la formation, le travail, le handicap, les aides aux personnes et aux entreprises, l’éducation, la culture, la sécurité sociale, la défense, les transports ou la simplification des démarches administratives.
 
-### Pourquoi lancer une Startup d'État ?
+### <a name="pourquoi-lancer-une-startup-detat"></a>Pourquoi lancer une Startup d'État ?
 
 Un responsable d’administration décide de créer une Startup d'État, soit pour répondre à un problème de politique publique prédéfini, soit en lançant un appel à innovateurs permettant d’identifier des agents publics au profil d’[intrapreneur](https://blog.beta.gouv.fr/general/2017/02/16/intrapreneur-startup-d-etat/). Une équipe est ensuite mise en place pour développer une solution en travaillant au plus près des usagers. Elle dispose d’un délai de six mois pour lancer une première version de sa solution et obtient des financements complémentaires si et seulement si elle fait la preuve de l’utilité de sa solution.
 

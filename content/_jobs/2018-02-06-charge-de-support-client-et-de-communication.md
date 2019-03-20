@@ -1,7 +1,7 @@
 ---
 roles: un·e chargé·e de support client et de communication
 startup: demarches-simplifiees.fr
-open: true
+open: false
 ---
 
 L’équipe demarches-simplifiees.fr cherche un·e chargé·e de support client et de communication pour l’accompagner dans sa croissance d’activité.

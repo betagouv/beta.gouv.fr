@@ -6,6 +6,8 @@ employer: service/octo
 startups :
   - aplus
   - histovec
+  - candilib
+  - polex
 ---
 
 Coach startup<br>

@@ -9,4 +9,5 @@ employer: independent
 startups:
     - gps-usagers
     - action-bidonvilles
+    - codedutravail
 ---
