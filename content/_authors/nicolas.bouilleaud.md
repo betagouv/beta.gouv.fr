@@ -6,5 +6,5 @@ end: 2019-06-30
 employer: independent/Codeurs en Liberté
 github: n-b
 startups:
-    - reso
+    - place-des-entreprises
 ---

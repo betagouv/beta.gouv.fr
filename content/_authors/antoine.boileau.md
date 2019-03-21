@@ -7,7 +7,7 @@ employer: service/octo
 startups:
 previously:
   - pix
-  - reso
+  - place-des-entreprises
 ---
 
 :turtle:
