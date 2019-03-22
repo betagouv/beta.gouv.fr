@@ -8,4 +8,4 @@ startups: # ta ou tes startups actuelles
     - /content/_startups/trmplin
 ---
 
-mangeur de graines, tree hugger et dévelppeur full stack pour certaines choses
+mangeur de graines, tree hugger et développeur full stack pour certaines choses
