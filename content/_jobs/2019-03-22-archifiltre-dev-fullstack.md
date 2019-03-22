@@ -1,6 +1,6 @@
 ---
 roles: un·e développeur·e full stack
-startup: archifiltre
+startup: Archifiltre
 techno: bon niveau en JavaScript souhaité
 open: true
 ---
@@ -40,8 +40,8 @@ Vous pourrez participer à la conception, aux études terrain, aux tests utilisa
 Vous êtes entièrement en charge des développements de l’administration système au css, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, de monitoring.
 
 Vous êtes en mesure de jouer sur 2 tableaux :  
-La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »  
-L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
+- La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »  
+- L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
 
 ## Compétences
 
@@ -63,4 +63,3 @@ Temps partiel accepté (80 % minimum).
 Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV et GitHub, le tout à [recrutement@beta.gouv.fr, julien.bouquillon@sg.social.gouv.fr et eric.heijligers@sg.social.gouv.fr](mailto:recrutement@beta.gouv.fr;julien.bouquillon@sg.social.gouv.fr;eric.heijligers@sg.social.gouv.fr).
 
 À bientôt ! 😀
-cra
