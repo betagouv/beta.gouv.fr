@@ -54,8 +54,8 @@ Appétence pour l’UX/UI et le design.
 
 ## Modalités
 
-Poste ouvert pour un·e indépendant·e pour un premier contrat de 3 mois renouvelable.
-Une présence régulière à Paris est demandée pour participer aux sessions communes de conception, de test utilisateur, démonstration, rétrospective et planification. Le télétravail est possible.
+Poste ouvert pour un·e indépendant·e pour un premier contrat de 3 mois renouvelable.  
+Une présence régulière à Paris est demandée pour participer aux sessions communes de conception, de test utilisateur, démonstration, rétrospective et planification. Le télétravail est possible.  
 Temps partiel accepté (80 % minimum).
 
 ## Candidater
