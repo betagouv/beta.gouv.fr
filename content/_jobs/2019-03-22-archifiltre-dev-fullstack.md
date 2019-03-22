@@ -2,7 +2,7 @@
 roles: un·e développeur·e full stack
 startup: archifiltre
 techno: bon niveau en JavaScript souhaité
-open: false
+open: true
 ---
 
 Archifiltre, une des startups d'État du ministère des Solidarités et de la Santé, cherche un·e développeur·e pour améliorer son produit .\_
@@ -39,17 +39,17 @@ Vous pourrez participer à la conception, aux études terrain, aux tests utilisa
 
 Vous êtes entièrement en charge des développements de l’administration système au css, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, de monitoring.
 
-Vous êtes en mesure de jouer sur 2 tableaux :
-La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
+Vous êtes en mesure de jouer sur 2 tableaux :  
+La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »  
 L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
 
 ## Compétences
 
-Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
-Développeur web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, ...).
-Bonne maîtrise du développement front-end (HTML, CSS, React).
-Expérience en conception orientée utilisateur et en expérience utilisateur.
-Expérience de l’écosystème technique web : test AB, analytics…
+Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).  
+Développeur web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, ...).  
+Bonne maîtrise du développement front-end (HTML, CSS, React).  
+Expérience en conception orientée utilisateur et en expérience utilisateur.  
+Expérience de l’écosystème technique web : test AB, analytics…  
 Appétence pour l’UX/UI et le design.
 
 ## Modalités
