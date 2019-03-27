@@ -27,13 +27,13 @@ Et cette seconde étape a de quoi faire oublier la première ! Tout d'abord, vie
 - Les différences de fonctionnement du recouvrement des cotisations sociales entre indépendant et assimilé salarié
 - Estimer les cotisations pour l'établissement du budget prévisionnel
 
-Une fois l'entreprise lancée, les échéances fiscales et comptables rythment l'année. Parmis elles : la TVA, le bilan annuel, les cotisations sociales, la CFE, la taxe d'apprentissage, la contribution à la formation professionnelle. 
+Une fois l'entreprise lancée, les échéances fiscales et comptables rythment l'année. Parmis elles : la TVA, le bilan annuel, les cotisations sociales, la CFE, la taxe d'apprentissage, la contribution à la formation professionnelle.
 
 Si le créateur s'en est sorti, il pourra alors embaucher et découvrir le prochain épisode des contraintes légales.
 
 Résultat : **créer une entreprise sans formation préalable ou accompagnement relève d'un véritable parcours du combattant**. L'information disponible est éclatée sur les sites institutionnels des différents acteurs, et souvent présentée sous la forme de longs paragraphes décontextualisés de la situation de l'entrepreneur.
 
-Or on observe une nette croissance du nombre d'entreprises crées en France (+18,5% sur les douze derniers mois). Cela s'explique nottament par le développement de l'économie collaborative (phénomène désigné par "l'uberisation de l'économie"), qui dans de nombreux cas impose la création d'une entreprise. 
+Or on observe une nette croissance du nombre d'entreprises crées en France (+18,5% sur les douze derniers mois). Cela s'explique nottament par le développement de l'économie collaborative (phénomène désigné par "l'uberisation de l'économie"), qui dans de nombreux cas impose la création d'une entreprise.
 
 **Il devient donc urgent d'accompagner ces nouveaux dirigeants dans la création de leur entreprise à travers un parcours simple et personnalisé**
 
@@ -41,16 +41,16 @@ Or on observe une nette croissance du nombre d'entreprises crées en France (+18
 
 Le principe : poser des questions ciblées à l'utilisateur pour le guider vers son choix; fusionner documentation et simulation. En bref : lever tous les freins et les questionnements au fur et à mesure de la progression du projet.
 
-Nos cibles sont en particulier : 
+Nos cibles sont en particulier :
 - le citoyen (par exemple un salarié) qui décide de se lancer en tant qu'indépendant
 - le citoyen qui se demande s'il faut et comment déclarer ses revenus de l'économie collaborative (livreur à vélo; VTC; loueur sur AirBnB; partage de voiture entre particuliers...)
 - Et plus généralement, le créateur d'entreprise qui découvre tout ce monde
 
-Mon-entreprise.fr se développera en collaboration avec le réseau des URSSAF, notament l'agence Midi-Pyrenées, qui a déjà entrepris un gros travail de recherche utilisateur sur le sujet.
+Mon-entreprise.fr est développé en étroite collaboration avec le réseau des URSSAF, et tous les acteurs institutionnels qui se montrerons intéressés.
 
-Le site s'appuie sur le succès du *simulateur d'embauche*, intégré aujourd'hui sur une multitudes de sites Web (urssaf.fr, pole-emploi.fr, aides-entreprise.fr, et une cinquentaine d'autres). Le module leur reste disponible, et la simulation devient une section de mon-entreprise.fr.
+Ce site s'appuiera sur le succès du *simulateur d'embauche*, intégré aujourd'hui sur une multitudes de sites Web (urssaf.fr, pole-emploi.fr, aides-entreprise.fr, et une cinquentaine d'autres). Le module leur reste disponible, et la simulation devient une section de mon-entreprise.fr.
 
 
 ## Budget 💶
 
-La startup a un budget annuel pour l'année 2018 de _280 000 euros_ (tout compris mais hors TVA). La DINSIC et l'ACOSS se partagent le financement.
+La startup a un budget annuel pour l'année 2018 de _300 000 euros_ (tout compris mais hors TVA). La DINSIC et l'ACOSS se partagent le financement.
