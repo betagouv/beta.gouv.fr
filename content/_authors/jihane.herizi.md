@@ -5,7 +5,7 @@ start: 2017-10-11
 end: 2019-09-01
 employer: independent
 startups: 
-  - embauche
+  - mon-entreprise
 previously:
   - pass-culture
 ---
