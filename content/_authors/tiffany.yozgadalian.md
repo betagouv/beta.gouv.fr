@@ -6,7 +6,7 @@ end: 2017-10-31
 employer: dinsic
 startups:
 previously:
-  - reso
+  - place-des-entreprises
   - signaux-faibles
 ---
 

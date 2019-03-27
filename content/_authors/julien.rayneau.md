@@ -7,6 +7,6 @@ start: 2018-04-10
 end: 2019-12-31
 employer: independent
 startups:
-    - reso
+    - place-des-entreprises
     - signalement 
 ---

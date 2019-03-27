@@ -6,6 +6,6 @@ end: 2016-01-31
 employer: dinsic
 startups:
 previously:
-  - mdph
-  - embauche
+    - mdph
+    - mon-entreprise
 ---

@@ -7,10 +7,11 @@ start: 2014-06-01
 end: 2021-02-15
 employer: dinsic
 startups:
-  - bourse
   - api-particulier
   - api.gouv.fr
+  - aidantsconnect
 previously:
+  - bourse
   - mdph
   - mes-aides
   - geo.data.gouv.fr
