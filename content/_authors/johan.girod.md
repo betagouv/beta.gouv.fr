@@ -8,5 +8,5 @@ start: 2018-04-24
 end: 2019-06-30
 employer: independent
 startups:
-    - embauche
+    - mon-entreprise
 ---
