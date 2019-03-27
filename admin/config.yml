@@ -28,9 +28,9 @@ publish_mode: editorial_workflow
 collections:
    -  name: "authors"
       identifier_field: fullname
-      label: "Auteurs"
-      label_singular: "Auteur"
-      description: "Les membres de la communauté beta.gouv.fr"
+      label: "Members"
+      label_singular: "Member"
+      description: "Les membres de la communauté beta.gouv.fr. Tu viens de nous rejoindre ? Ajoute ta fiche à l'aide du bouton 'New Member !'"
       folder: "content/_authors"
       create: true
       delete: false
@@ -38,12 +38,14 @@ collections:
       editor:
         preview: false
       fields:
-       - {label: "Nom complet (Prénom Nom)", name: "fullname", widget: "string"}
-       - {label: "Rôle", name: "role", widget: "string"}
-       - {label: "Avatar", name: "avatar", widget: "string", required: false}
-       - {label: "Date de début", name: "start", widget: "date", format: "YYYY-MM-DD"}
-       - {label: "Date de fin", name: "end", widget: "date", format: "YYYY-MM-DD"}
-       - {label: "Employeur", name: "employer", widget: "string"}
-       - {label: "Startup(s)", name: "startups", widget: "list", field: {label: "Identifiant de la Startup", name: "startups", widget: "string", required: false}}
-       - {label: "Ancienne(s) Startup(s)", name: "previously", widget: "list", field: {label: "Identifiant de la Startup", name: "previously", widget: "string", required: false}}
-       - {label: "Description", name: "body", widget: "text", required: false}
+       - {label: "Nom complet", hint: "Format : Prénom Nom. Attention à l'orthographe !", name: "fullname", widget: "string"}
+       - {label: "Rôle", hint: "Développeuse ? Intrapreneur ? Chargée de développement ? Coach ?", name: "role", widget: "string"}
+       - {label: "Avatar", hint: "Tu peux : (1) remplacer pseudo_github par ton pseudo_github dans https://avatars3.githubusercontent.com/pseudo_github?s=600 pour utiliser ta photo sous Github (2) fournir une URL (HTTPS obligatoire) d'une image carrée 512x512 minimum (3) ne rien remplir et mettre une image au format prenom.nom dans le dossier /img/authors/ (4) ou bien ne rien faire du tout et avoir la fiole en image de remplacement.", name: "avatar", widget: "string", required: false}
+       - {label: "Lien externe", hint: "Lien vers une page perso externe", name: "link", widget: "string", required: false}
+       - {label: "Github", hint: "Ton nom d'utilisateur GitHub. Il te permet d'être ajouté automatiquement à l'organisation GitHub betagouv.", name: "github", widget: "string", required: false}
+       - {label: "Date de début", hint: "Depuis quand tu es chez nous ?", name: "start", widget: "date", format: "YYYY-MM-DD"}
+       - {label: "Date de fin", hint: "Fin de ton contrat ou de ton financement", name: "end", widget: "date", format: "YYYY-MM-DD"}
+       - {label: "Employeur", hint: "dinsic -- independent/<employer> -- admin/<employer> ou service/<employer>", name: "employer", widget: "string"}
+       - {label: "Startup(s)", hint: "Si la startup n'apparait pas encore dans la liste, fais d'abord la fiche produit !", name: "startups", widget: "list", field: {label: "Identifiant de la Startup", name: "startups", widget: "string", required: false}, required: false}
+       - {label: "Ancienne(s) Startup(s)", hint: "Sur quelles startups de la communauté tu as travaillé avant ?", name: "previously", widget: "list", field: {label: "Identifiant de la Startup", name: "previously", widget: "string", required: false}, required: false}
+       - {label: "Description", hint: "Raconte-nous qui tu es !", name: "body", widget: "text", required: false}
