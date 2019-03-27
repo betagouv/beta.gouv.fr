@@ -6,5 +6,5 @@ employer: dinsic
 startups:
   - mps
 previously:
-  - embauche
+  - mon-entreprise
 ---
