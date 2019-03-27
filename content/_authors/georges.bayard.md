@@ -4,6 +4,7 @@ role: Responsable de produit
 start: 2016-03-01
 employer: dinsic
 startups:
-    - mps
-    - embauche
+  - mps
+previously:
+  - embauche
 ---
