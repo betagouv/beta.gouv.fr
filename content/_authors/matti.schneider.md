@@ -8,10 +8,10 @@ end: 2017-08-31
 employer: dinsic
 startups:
 previously:
-  - mes-aides
-  - embauche
-  - fiches-de-banc
-  - api.gouv.fr
+    - mes-aides
+    - mon-entreprise
+    - fiches-de-banc
+    - api.gouv.fr
 ---
 
 Ingénieur transdisciplinaire. Sceptique des aphorismes autobiographiques.
