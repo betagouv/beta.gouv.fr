@@ -7,5 +7,6 @@ employer: dinsic
 avatar: /img/authors/charlotte.lecuit.jpg
 startups:
     - mes-aides
+previously:
     - la-bonne-formation
 ---
