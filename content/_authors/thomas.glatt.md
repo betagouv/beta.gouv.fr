@@ -9,4 +9,4 @@ startups:
     - tremplin
 ---
 
-Développeur, au delà des aspects techniques, j'apprécie particulèrement d'accompagner les projets dès la phase de conception et imaginer des solutions adaptées aux besoins utilisateurs.
+Développeur, au delà des aspects techniques, j'apprécie particulèrement accompagner les projets dès la phase de conception et imaginer des solutions adaptées aux besoins utilisateurs.
