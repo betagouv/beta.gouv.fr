@@ -1,6 +1,6 @@
 ---
 roles: un·e développeur·se
-startup: embauche
+startup: mon-entreprise
 techno: React-Redux-Ramda
 open: false
 ---
