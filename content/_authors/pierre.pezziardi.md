@@ -22,7 +22,7 @@ startups:
   - pop
   - data.gouv.fr
   - mes-aides
-  - embauche
+  - mon-entreprise
 previously:
   - fiches-de-banc
 ---
