@@ -1,7 +1,6 @@
 ---
 fullname: Yannick François
 role: Développeur
-avatar: https://avatars3.githubusercontent.com/u/42057?s=460&v=4
 link: https://elsif.fr
 github: yaf
 start: 2018-12-12

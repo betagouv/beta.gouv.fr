@@ -1,7 +1,6 @@
 ---
 fullname: Thibaut Sailly
 role: Designer
-avatar: https://avatars3.githubusercontent.com/thibautsailly?s=600
 link: https://tsailly.net
 github: thibautsailly
 start: 2019-02-01

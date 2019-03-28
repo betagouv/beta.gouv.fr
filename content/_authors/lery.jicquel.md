@@ -1,7 +1,6 @@
 ---
 fullname: Léry Jicquel
 role: Intrapreneur
-avatar: https://avatars3.githubusercontent.com/LeryJ
 github: LeryJ
 start: 2018-09-01
 end: 2021-03-01

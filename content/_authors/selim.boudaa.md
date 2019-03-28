@@ -1,9 +1,8 @@
 ---
-fullname: Sélim Boudaa # penser à modifier le nom du fichier ci-dessus en prenom.nom.md !
+fullname: Sélim Boudaa
 role: Développeur
-avatar: https://avatars3.githubusercontent.com/SelimBoudaa?s=600
 link: http://www.sinusoide.fr
-github: SelimBoudaa # optionnel : nom d'utilisateur GitHub, permet d'être ajouté automatiquement à l'organisation GitHub betagouv
+github: SelimBoudaa
 start: 2018-10-05
 end: 2018-11-30
 employer: independent/octo
