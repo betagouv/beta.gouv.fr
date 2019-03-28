@@ -1,7 +1,6 @@
 ---
 fullname: Augustin Wenger
 role: Développeur
-avatar: https://avatars3.githubusercontent.com/magemax?s=600
 link:
 github: magemax
 start: 2019-01-21
