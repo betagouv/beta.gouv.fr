@@ -40,9 +40,9 @@ collections:
       fields:
        - {label: "Nom complet", hint: "Format : Prénom Nom. Attention à l'orthographe !", name: "fullname", widget: "string"}
        - {label: "Rôle", hint: "Développeuse ? Intrapreneur ? Chargée de développement ? Coach ?", name: "role", widget: "string"}
-       - {label: "Avatar", hint: "Tu peux : (1) remplacer pseudo_github par ton pseudo_github dans https://avatars3.githubusercontent.com/pseudo_github?s=600 pour utiliser ta photo sous Github (2) fournir une URL (HTTPS obligatoire) d'une image carrée 512x512 minimum (3) ne rien remplir et mettre une image au format prenom.nom dans le dossier /img/authors/ (4) ou bien ne rien faire du tout et avoir la fiole en image de remplacement.", name: "avatar", widget: "string", required: false}
+       - {label: "Github", hint: "Ton nom d'utilisateur GitHub. Il te permet de rejoindre automatiquement l'organisation GitHub betagouv.", name: "github", widget: "string", required: false}
+       - {label: "Avatar", hint: "À remplir si tu veux mettre un avatar depuis un site externe. Tu peux aussi laisser ce champs vide et mettre une image dans le dossier /img/authors/. À défaut, on regardera si tu as une image sur ton profil Github. En dernier, la fiole beta.gouv.fr sera affichée sur la page communauté.", name: "avatar", widget: "string", required: false}
        - {label: "Lien externe", hint: "Lien vers une page perso externe", name: "link", widget: "string", required: false}
-       - {label: "Github", hint: "Ton nom d'utilisateur GitHub. Il te permet d'être ajouté automatiquement à l'organisation GitHub betagouv.", name: "github", widget: "string", required: false}
        - {label: "Date de début", hint: "Depuis quand tu es chez nous ?", name: "start", widget: "date", format: "YYYY-MM-DD"}
        - {label: "Date de fin", hint: "Fin de ton contrat ou de ton financement", name: "end", widget: "date", format: "YYYY-MM-DD"}
        - {label: "Employeur", hint: "dinsic -- independent/<employer> -- admin/<employer> ou service/<employer>", name: "employer", widget: "string"}
