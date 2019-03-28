@@ -4,7 +4,8 @@ role: Développeur
 github: bfriederich
 start: 2018-05-22
 end: 2019-04-30
-employer: independent/ey
+status: independent
+employer: ey
 startups:
     - perspectives
 ---

@@ -4,7 +4,8 @@ role: Designer UI / UX
 github: bastienCap
 start: 2018-04-24
 end: 2018-10-01
-employer: independent/capgemini
+status: independent
+employer: capgemini
 startups:
     - zen
     - perspectives

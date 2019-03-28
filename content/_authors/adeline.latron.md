@@ -2,9 +2,11 @@
 fullname: Adeline Latron
 role: Chargée de développement
 github: adeline-lrn
-start: 2019-02-07
-end: 2019-12-31
-employer: independent
+missions:
+  -  
+    start: 2019-02-07
+    end: 2019-12-31
+    status: independent
 startups:
     - place-des-entreprises
 ---

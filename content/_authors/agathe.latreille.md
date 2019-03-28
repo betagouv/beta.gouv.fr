@@ -2,7 +2,8 @@
 fullname: Agathe Latreille
 role: Chargée de développement
 start: 2016-11-01
-employer: admin/pole-emploi
+status: admin
+employer: pole-emploi
 startups:
     - la-bonne-boite
 ---

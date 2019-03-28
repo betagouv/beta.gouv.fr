@@ -2,7 +2,7 @@
 fullname: Axel Haustant
 role: Développeur
 start: 2013-08-27
-employer: independent
+status: independent
 startups:
     - data.gouv.fr
 ---

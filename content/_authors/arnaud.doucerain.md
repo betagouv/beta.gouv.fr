@@ -3,7 +3,8 @@ fullname: Arnaud Doucerain
 role: Développeur
 start: 2017-04-03
 end: 2017-10-31
-employer: service/octo
+status: service
+employer: octo
 startups:
 previously:
   - place-des-entreprises

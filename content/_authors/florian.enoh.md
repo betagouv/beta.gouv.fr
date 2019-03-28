@@ -3,7 +3,8 @@ fullname: Florian Enoh
 role: Développeur
 start: 2017-01-10
 end: 2017-12-31
-employer: service/octo
+status: service
+employer: octo
 startups:
     - pix
 ---

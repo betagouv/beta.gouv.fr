@@ -3,7 +3,8 @@ fullname: Hugo Lepetit
 role: Développeur
 start: 2013-12-01
 end: 2019-12-31
-employer: independent/octo
+status: independent
+employer: octo
 startups:
     - api-entreprise
 ---

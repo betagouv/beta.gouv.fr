@@ -4,7 +4,8 @@ role: Développeur
 github: ericwes
 start: 2018-03-27
 end: 2018-05-09
-employer: independent/Sogilis Lyon
+status: independent
+employer: Sogilis Lyon
 startups:
 previously:
   - eac

@@ -4,7 +4,8 @@ role: Business développeuse
 avatar: /img/authors/gabrielle.legeret.jpg
 start: 2018-05-09
 end: 2018-06-08
-employer: independent/octo
+status: independent
+employer: octo
 startups:
     - open-academie
     - dossiersco

@@ -4,7 +4,8 @@ role: Développeur full-stack
 avatar: https://avatars3.githubusercontent.com/u/24386934?s=96&v=4
 start: 2016-03-01
 end:
-employer: independent/pole-emploi
+status: independent
+employer : pole-emploi
 startups:
     - memo
 ---

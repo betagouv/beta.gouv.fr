@@ -2,7 +2,7 @@
 fullname: Georges Bayard
 role: Responsable de produit
 start: 2016-03-01
-employer: dinsic
+status: dinsic
 startups:
   - mps
 previously:

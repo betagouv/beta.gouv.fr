@@ -4,7 +4,8 @@ role: Entrepreneur d'intérêt général
 avatar: /img/authors/christophe.ninucci.jpg
 start: 2018-02-01
 end: 2020-01-31
-employer: admin/eig
+status: admin
+employer: eig
 startups:
     - signaux-faibles
 ---

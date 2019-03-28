@@ -4,7 +4,8 @@ role: Intrapreneur
 github: guillaumelevieux
 start: 2017-12-15
 end: 2019-12-31
-employer: admin/MTES
+status: admin
+employer: MTES
 startups:
     - camino
 ---

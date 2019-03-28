@@ -2,7 +2,7 @@
 fullname: Carole Thonnelier
 role: Designer UX / UI
 start: 2018-11-26
-employer: independent
+status: independent
 link: https://www.linkedin.com/in/carolethonnelier/
 startups:
     - perspectives

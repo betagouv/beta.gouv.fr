@@ -4,7 +4,7 @@ role: Développeur
 github: mrjmad
 start: 2018-12-21
 end: 2019-12-25
-employer: independent
+status: independent
 startups:
     - voir-et-localiser
 ---

@@ -3,7 +3,7 @@ fullname: Benjamin Henkel
 role: Chargé de développement
 start: 2017-06-01
 end: 2017-10-30
-employer: dinsic
+status: dinsic
 startups:
 previously:
   - demarches-simplifiees.fr

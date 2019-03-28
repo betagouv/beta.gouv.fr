@@ -4,7 +4,8 @@ role: Développeur
 avatar: https://avatars3.githubusercontent.com/hrlwfres?s=600
 start: 2018-01-01
 end:
-employer: independent/octo
+status: independent
+employer: octo
 startups:
     - locatio
 ---

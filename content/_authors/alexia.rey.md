@@ -3,7 +3,8 @@ fullname: Alexia Rey
 role: Développeuse
 start: 2017-04-10
 end: 2017-04-21
-employer: independent/red-innovation
+status: independent
+employer: red-innovation
 startups:
 previously:
   - boussole

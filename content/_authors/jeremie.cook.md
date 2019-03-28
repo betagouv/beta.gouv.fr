@@ -1,11 +1,11 @@
 ---
 fullname: Jérémie Cook
 role: UX Designer
-avatar: 
+avatar:
 link: https://jeremiecook.com
 start: 2018-07-10
 end: 2019-07-01
-employer: dinsic
+status: dinsic
 startups:
   - codedutravail
   - classes12

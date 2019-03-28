@@ -5,7 +5,8 @@ avatar: https://res.cloudinary.com/bdavidxyz-com/image/upload/v1471575050/menice
 link: http://bdavidxyz.com
 start: 2016-09-15
 end: 2017-12-31
-employer: independent/octo
+status: independent
+employer: octo
 startups:
   - clara
 previously:

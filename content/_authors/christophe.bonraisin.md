@@ -2,7 +2,8 @@
 fullname: Christophe Bonraisin
 role: Intrapreneur
 start: 2015-05-01
-employer: admin/pole-emploi
+status: admin
+employer: pole-emploi
 startups:
     - la-bonne-formation
 ---

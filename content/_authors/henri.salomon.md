@@ -4,7 +4,7 @@ role: Chargé de déploiement
 github: henrisalomon
 start: 2018-09-10
 end:  2019-02-28
-employer: independent
+status: independent
 startups:
   - transport
 ---

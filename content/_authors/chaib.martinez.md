@@ -6,7 +6,8 @@ link: http://chaib-martinez.com/
 github: chaibax
 start: 2018-06-26
 end: 2019-09-30
-employer: independent/octo
+status: independent
+employer: octo
 startups:
     - demarches-simplifiees.fr
     - trait-d-union
