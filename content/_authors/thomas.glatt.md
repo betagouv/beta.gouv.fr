@@ -9,4 +9,4 @@ startups:
     - tremplin
 ---
 
-j'apprécie accompagner les projets dès la phase de conception et imaginer collectivement des solutions adaptées aux besoins utilisateurs.
+j'apprécie accompagner les projets dès la phase de conception et imaginer collectivement des solutions adaptées aux besoins des utilisateurs.
