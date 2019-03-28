@@ -10,6 +10,8 @@ link: https://www.lotocar.fr
 repository:
 stats: false
 contact: contact@mobilot.beta.gouv.fr
+redirect_from:
+  - /startups/mobilot
 ---
 
 ## Le constat
