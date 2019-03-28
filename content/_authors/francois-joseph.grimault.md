@@ -7,7 +7,7 @@ end: 2019-05-31
 employer: independent
 github: fjg
 startups:
-    - mobilot
+    - lotocar
     - mrs
 ---
 
