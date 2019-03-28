@@ -1,7 +1,6 @@
 ---
 fullname: Tristram Gräbener
 role: Développeur
-avatar: https://avatars2.githubusercontent.com/u/12235
 github: Tristramg
 start: 2018-03-01
 end: 2020-02-28
