@@ -1,7 +1,6 @@
 ---
 fullname: Mathieu Agopian
 role: Développeur
-avatar: https://avatars3.githubusercontent.com/magopian?s=600
 link: https://agopian.info/
 github: magopian
 start: 2018-10-01

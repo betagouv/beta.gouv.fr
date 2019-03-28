@@ -1,7 +1,6 @@
 ---
 fullname: Stéphane Legouffe
 role: Développeur
-avatar: https://avatars3.githubusercontent.com/slegouffe?s=600
 link: https://wawy.io
 github: slegouffe
 start: 2018-03-08

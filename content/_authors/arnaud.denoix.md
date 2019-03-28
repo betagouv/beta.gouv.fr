@@ -1,7 +1,6 @@
 ---
 fullname: Arnaud Denoix
-role: Coach 
-avatar: https://avatars3.githubusercontent.com/adenoix?s=600
+role: Coach
 github: adenoix
 start: 2018-12-07
 employer: independent/dinsic
@@ -10,5 +9,3 @@ startups:
   - la-bonne-formation
   - memo
 ---
-
-
