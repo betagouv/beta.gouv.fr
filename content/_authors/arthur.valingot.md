@@ -2,9 +2,10 @@
 fullname: Arthur Valingot
 role: Développeur
 github: ArthV
-start: 2019-01-07
-end: 2021-09-15
-status: admin
+missions:
+  - start: 2019-01-07
+    end: 2021-09-15
+    status: admin
 startups:
     - e-controle
 ---

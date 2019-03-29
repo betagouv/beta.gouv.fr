@@ -1,9 +1,11 @@
 ---
 fullname: Anne-Camille Monet
 role: Intrapreneuse
-start: 2017-04-01
-status: admin
-employer: pole-emploi
+missions:
+  - start: 2017-04-01
+    end:
+    status: admin
+    employer: pole-emploi
 startups:
     - clara
 ---

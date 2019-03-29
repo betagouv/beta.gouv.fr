@@ -3,9 +3,10 @@ fullname: Augustin Wenger
 role: Développeur
 link:
 github: magemax
-start: 2019-01-21
-end: 2019-11-20
-status: dinsic
+missions:
+  - start: 2019-01-21
+    end: 2019-11-20
+    status: dinsic
 startups:
   - leximpact
 ---

@@ -2,10 +2,11 @@
 fullname: Fabien Champigny
 role: Développeur
 link: http://champigny.name
-start: 2017-02-09
-end: 2017-06-30
-status: independent
-employer: evoluchain
+missions:
+  - start: 2017-02-09
+    end: 2017-06-30
+    status: independent
+    employer: evoluchain
 startups:
 previously:
   - mdph

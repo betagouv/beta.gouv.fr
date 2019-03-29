@@ -3,10 +3,11 @@ fullname: Hugo Agbonon
 role: Développeur web
 link: https://www.codeheroics.com
 github: codeheroics
-start: 2018-04-24
-end:
-status: independent
-employer: codeheroics
+missions:
+  - start: 2018-04-24
+    end:
+    status: independent
+    employer: codeheroics
 startups:
     - zen
 ---

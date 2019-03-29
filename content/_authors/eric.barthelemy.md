@@ -1,9 +1,11 @@
 ---
 fullname: Eric Barthélémy
 role: Intrapreneur
-start: 2015-05-01
-status: admin
-employer: pole-emploi
+missions:
+  - start: 2015-05-01
+    end:
+    status: admin
+    employer: pole-emploi
 startups:
     - la-bonne-boite
     - memo

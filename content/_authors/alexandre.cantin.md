@@ -1,9 +1,11 @@
 ---
 fullname: Alexandre Cantin
 role: Développeur
-start: 2017-09-18
-status: admin
-employer: pole-emploi
+missions:
+  - start: 2017-09-18
+    end:
+    status: admin
+    employer: pole-emploi
 avatar: /img/authors/alexandre.cantin.jpg
 startups:
     - la-bonne-boite

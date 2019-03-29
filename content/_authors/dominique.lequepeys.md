@@ -1,9 +1,11 @@
 ---
 fullname: Dominique Lequepeys
 role: Coach
-start: 2017-09-18
-status: service
-employer: octo
+missions:
+  - start: 2017-09-18
+    end:
+    status: service
+    employer: octo
 startups :
   - aplus
   - histovec

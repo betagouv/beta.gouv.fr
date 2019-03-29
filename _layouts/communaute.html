@@ -19,8 +19,6 @@ layout: default
 
 {% for author in authors %}
   {% capture end_date_as_string %}{{ author.missions.last.end }}{% endcapture %}
-  {{ author.missions.first.start }}
-  {{ author.missions.last.end }}
   {% if end_date_as_string == '' or end_date_as_string > build_date %}
     {% capture to_append %}
       {% include card-community.html author=author %}
