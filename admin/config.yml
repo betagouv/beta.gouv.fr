@@ -71,7 +71,7 @@ collections:
         widget: 'list'
         fields:
           - label: "Statut"
-            hint: "Quel est ta relation professionnelle avec nous ?"
+            hint: "Quelle est ta relation professionnelle avec nous ?"
             name: "status"
             widget: "select"
             options:
@@ -81,10 +81,9 @@ collections:
               - { label: "Prestataire", value: "service" }
 
           - label: "Employeur"
-            hint: "Si applicable, ton ministère d'origine, ta SSII, etc."
+            hint: "Si applicable, ton mi  nistère d'origine, ta SSII, etc."
             name: "employer"
             widget: "string"
-            required: false
 
           - label: "Date de début"
             hint: "Début de ton contrat ou de ton financement"
@@ -102,16 +101,14 @@ collections:
         hint: "Si la startup n'apparait pas encore dans la liste, fais d'abord la fiche produit !"
         name: "startups"
         widget: "list"
-        field:
-          - {label: "Identifiant de la Startup", name: "startups", widget: "string", required: false}
+        field: { label: "Identifiant de la Startup", name: "startups", widget: "string" }
         required: false
 
       - label: "Ancienne(s) Startup(s)"
         hint: "Sur quelles startups de la communauté tu as travaillé avant ?"
         name: "previously"
         widget: "list"
-        field:
-          - {label: "Identifiant de la Startup", name: "previously", widget: "string", required: false}
+        field: { label: "Identifiant de la Startup", name: "previously", widget: "string" }
         required: false
 
       - label: "Description"
