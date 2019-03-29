@@ -3,9 +3,11 @@ fullname: Raphaël Dubigny
 role: Développeur
 link: http://red-needles.com/
 github: rdubigny
-start: 2018-05-30
-end: 2019-05-30
-employer: independent/octo
+missions:
+  - start: 2018-05-30
+    end: 2019-05-30
+    status: independent
+    employer: octo
 startups:
     - api-particulier
 ---

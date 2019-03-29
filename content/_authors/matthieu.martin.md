@@ -3,8 +3,10 @@ fullname: Matthieu Martin
 role: Illustrateur
 link: https://matthieu-martin.fr
 github: MatthieuMARTIN
-start: 2019-02-01
-employer: independent
+missions:
+  - start: 2019-02-01
+    end:
+    status: independent
 startups:
     - competences-pro
 ---

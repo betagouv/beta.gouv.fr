@@ -7,7 +7,10 @@ layout: default
 {% endcomment %}
 
 {% capture build_date %}{{ site.time | date:"%Y-%m-%d" }}{% endcapture %}
-{% assign authors = site.authors | sort: missions.first.start | reverse %}
+
+{% assign authors = site.authors %}
+{% assign authors = authors | sort: 'fullname' %}
+
 {% assign authors_active = '' %}
 {% assign authors_inactive = '' %}
 {% assign members_count = 0 %}

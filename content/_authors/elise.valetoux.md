@@ -1,5 +1,5 @@
 ---
-fullname: Élise Valetoux
+fullname: Elise Valetoux
 role: Intrapreneure
 missions:
   - start: 2019-01-31

@@ -1,9 +1,11 @@
 ---
 fullname: Thomas Pepio
 role: DevOps
-start: 2017-07-11
-end: 2017-10-30
-employer: service/octo
+missions:
+  - start: 2017-07-11
+    end: 2017-10-30
+    status: service
+    employer: octo
 github: thomaspepio
 startups:
 previously:

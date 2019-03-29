@@ -7,7 +7,7 @@ missions:
   - start: 2018-11-26
     end:
     status: independent
-Sstartups:
+startups:
     - zen
 ---
 

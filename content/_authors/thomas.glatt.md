@@ -2,9 +2,10 @@
 fullname: Thomas Glatt
 role: Développeur
 github: tglatt
-start: 2019-02-18
-end: 2019-06-30
-employer: independent
+missions:
+  - start: 2019-02-18
+    end: 2019-06-30
+    status: independent
 startups:
     - tremplin
 ---
