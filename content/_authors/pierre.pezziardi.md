@@ -21,6 +21,8 @@ startups:
   - eac
   - pop
   - data.gouv.fr
+  - mes-aides
+  - mon-entreprise
 previously:
   - fiches-de-banc
 ---
