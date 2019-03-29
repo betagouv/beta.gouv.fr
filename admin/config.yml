@@ -26,26 +26,96 @@ slug:
 publish_mode: editorial_workflow
 
 collections:
-   -  name: "authors"
-      identifier_field: fullname
-      label: "Members"
-      label_singular: "Member"
-      description: "Les membres de la communauté beta.gouv.fr. Tu viens de nous rejoindre ? Ajoute ta fiche à l'aide du bouton 'New Member !'"
-      folder: "content/_authors"
-      create: true
-      delete: false
-      slug: "{{slug}}"
-      editor:
-        preview: false
-      fields:
-       - {label: "Nom complet", hint: "Format : Prénom Nom. Attention à l'orthographe !", name: "fullname", widget: "string"}
-       - {label: "Rôle", hint: "Développeuse ? Intrapreneur ? Chargée de développement ? Coach ?", name: "role", widget: "string"}
-       - {label: "Github", hint: "Ton nom d'utilisateur GitHub. Il te permet de rejoindre automatiquement l'organisation GitHub betagouv.", name: "github", widget: "string", required: false}
-       - {label: "Avatar", hint: "À remplir si tu veux mettre un avatar depuis un site externe. Tu peux aussi laisser ce champs vide et mettre une image dans le dossier /img/authors/. À défaut, on regardera si tu as une image sur ton profil Github. En dernier, la fiole beta.gouv.fr sera affichée sur la page communauté.", name: "avatar", widget: "string", required: false}
-       - {label: "Lien externe", hint: "Lien vers une page perso externe", name: "link", widget: "string", required: false}
-       - {label: "Date de début", hint: "Depuis quand tu es chez nous ?", name: "start", widget: "date", format: "YYYY-MM-DD"}
-       - {label: "Date de fin", hint: "Fin de ton contrat ou de ton financement", name: "end", widget: "date", format: "YYYY-MM-DD"}
-       - {label: "Employeur", hint: "dinsic -- independent/<employer> -- admin/<employer> ou service/<employer>", name: "employer", widget: "string"}
-       - {label: "Startup(s)", hint: "Si la startup n'apparait pas encore dans la liste, fais d'abord la fiche produit !", name: "startups", widget: "list", field: {label: "Identifiant de la Startup", name: "startups", widget: "string", required: false}, required: false}
-       - {label: "Ancienne(s) Startup(s)", hint: "Sur quelles startups de la communauté tu as travaillé avant ?", name: "previously", widget: "list", field: {label: "Identifiant de la Startup", name: "previously", widget: "string", required: false}, required: false}
-       - {label: "Description", hint: "Raconte-nous qui tu es !", name: "body", widget: "text", required: false}
+  - name: "authors"
+    identifier_field: fullname
+    label: "Members"
+    label_singular: "Member"
+    description: "Les membres de la communauté beta.gouv.fr. Tu viens de nous rejoindre ? Ajoute ta fiche à l'aide du bouton 'New Member !'"
+    folder: "content/_authors"
+    create: true
+    delete: false
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - label: "Nom complet"
+        hint: "Format : Prénom Nom. Attention à l'orthographe !"
+        name: "fullname"
+        widget: "string"
+
+      - label: "Rôle"
+        hint: "Développeuse ? Intrapreneur ? Chargée de développement ? Coach ?"
+        name: "role"
+        widget: "string"
+
+      - label: "Github"
+        hint: "Ton nom d'utilisateur GitHub. Il te permet de rejoindre automatiquement l'organisation GitHub betagouv."
+        name: "github"
+        widget: "string"
+        required: false
+
+      - label: "Avatar"
+        hint: "À remplir si tu veux mettre un avatar depuis un site externe. Tu peux aussi laisser ce champs vide et mettre une image dans le dossier /img/authors/. À défaut, on regardera si tu as une image sur ton profil Github. En dernier, la fiole beta.gouv.fr sera affichée sur la page communauté."
+        name: "avatar"
+        widget: "string"
+        required: false
+
+      - label: "Lien externe"
+        hint: "Lien vers une page perso externe"
+        name: "link"
+        widget: "string"
+        required: false
+
+      - label: 'Missions'
+        name: 'missions'
+        widget: 'list'
+        fields:
+          - label: "Statut"
+            hint: "Quel est ta relation professionnelle avec nous ?"
+            name: "status"
+            widget: "select"
+            options:
+              - { label: "Agent DINSIC", value: "dinsic" }
+              - { label: "Agent d'une autre administration", value: "admin" }
+              - { label: "Indépendant", value: "independent" }
+              - { label: "Prestataire", value: "service" }
+
+          - label: "Employeur"
+            hint: "Si applicable, ton ministère d'origine, ta SSII, etc."
+            name: "employer"
+            widget: "string"
+            required: false
+
+          - label: "Date de début"
+            hint: "Début de ton contrat ou de ton financement"
+            name: "start"
+            widget: "date"
+            format: "YYYY-MM-DD"
+
+          - label: "Date de fin"
+            hint: "Fin de ton contrat ou de ton financement"
+            name: "end"
+            widget: "date"
+            format: "YYYY-MM-DD"
+
+      - label: "Startup(s)"
+        hint: "Si la startup n'apparait pas encore dans la liste, fais d'abord la fiche produit !"
+        name: "startups"
+        widget: "list"
+        field:
+          - {label: "Identifiant de la Startup", name: "startups", widget: "string", required: false}
+        required: false
+
+      - label: "Ancienne(s) Startup(s)"
+        hint: "Sur quelles startups de la communauté tu as travaillé avant ?"
+        name: "previously"
+        widget: "list"
+        field:
+          - {label: "Identifiant de la Startup", name: "previously", widget: "string", required: false}
+        required: false
+
+      - label: "Description"
+        hint: "Raconte-nous qui tu es !"
+        name: "body"
+        widget: "text"
+        required: false
