@@ -27,7 +27,6 @@ Qu’en pensent-ils ? Rien pour 70% des jeunes interviewés qui ne connaissent p
 
 Pour que ces jeunes deviennent acteurs de leur orientation, il faut leur montrer qu’ils savent et aiment faire des choses et mettre en lien ces compétences et ces aspirations avec des champs métiers et des filières d’emploi.
 
-"Trouve ta voie" permet d’engager ce processus dans un univers vidéoludique tranchant radicalement avec le monde scolaire. Les jeunes sont invités à choisir parmi des contextes, des situations, des expériences qui leur sont familières ou qu’ils apprécient (un match de foot, une soirée d’anniversaire, un projet humanitaire, un weekend à l’étranger…) et entrent dans l’épisode de jeu correspondant pour jouer à quelques scènes sur lesquelles ils sont amenés à réfléchir a posteriori. Au fil du processus déroulé par l’application, l’élève découvre ses expériences les plus significatives et réalise une cartographie de ses compétences transversales qui peut, en un clic, être rapprochée de celles des champs métiers et secteurs eux-mêmes pré-analysés sous l’angle des compétences transversales qui y dominent.
 
 ## La mise en marché
 
