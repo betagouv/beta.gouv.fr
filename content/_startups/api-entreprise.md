@@ -8,7 +8,7 @@ start: 2014-01-01
 end:
 link: https://entreprise.api.gouv.fr/
 repository:
-stats: false
+stats: true
 contact: contact@apientreprise.fr
 ---
 
