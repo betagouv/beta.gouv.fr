@@ -7,8 +7,8 @@ start: 2018-04-26
 end:
 employer: independent/lazone
 startups:
-    - dossierSCO
-    - classeà12
+    - dossiersco
+    - classes12
 ---
 
 faire des trucs utiles avec des personnes enthousiastes en portant l'attention sur la qualité de vie - 🐾
