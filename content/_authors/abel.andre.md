@@ -11,12 +11,3 @@ missions:
 startups:
   - pass-culture
 ---
-
-
-missions:
-  -
-    start: 2017-02-01
-    end: 2017-03-08
-    status: independent
-    employer: octo
-  -
