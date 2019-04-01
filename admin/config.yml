@@ -1,7 +1,7 @@
 backend:
   name: github
   base_url: https://api.staticweb-01.etalab.gouv.fr
-  site_domain: beta.gouv.fr
+  site_domain: relaxed-bassi-0967e6.netlify.com
   repo: monbocal/beta.gouv.fr
   # Personnalisation des messages de commit
   # Attention, quand et si on passe aux fiches produits, à modifier !
@@ -16,7 +16,7 @@ backend:
 
 media_folder: "img/netlifycms"
 
-display_url: https://beta.gouv.fr
+display_url: https://relaxed-bassi-0967e6.netlify.com
 
 # La preview n'est pas utile juste pour modifier des auteurs
 show_preview_links: false
