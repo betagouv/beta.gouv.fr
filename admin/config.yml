@@ -9,8 +9,8 @@ backend:
     create: Bienvenue à {{slug}} !
     update: Mise à jour de la fiche de {{slug}}
     delete: Suppression de {{slug}}
-    uploadMedia: Nouvelle image : {{path}}
-    deleteMedia: Suppression d'image : {{path}}”
+    uploadMedia: Nouvelle image au {{path}}
+    deleteMedia: Suppression d'image au {{path}}
   squash_merges: true
 
 
