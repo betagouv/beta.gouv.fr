@@ -5,7 +5,7 @@ techno: bon niveau en JavaScript souhaité
 open: true
 ---
 
-Archifiltre (https://archifiltre.github.io/), une des startups d'État du ministère des Solidarités et de la Santé, cherche un·e développeur·e pour améliorer son produit .\_
+Archifiltre (https://archifiltre.github.io/), une des startups d'État du ministère des Solidarités et de la Santé, cherche un·e développeur·e pour améliorer son produit.\_
 
 <!--more-->
 
@@ -40,8 +40,9 @@ Vous pourrez participer à la conception, aux études terrain, aux tests utilisa
 Vous êtes entièrement en charge des développements de l’administration système au css, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, de monitoring.
 
 Vous êtes en mesure de jouer sur 2 tableaux :
-- La découverte : « Vite une nouvelle version pour tester une hypothèse avec des utilisateurs dès demain ! »  
-- L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
+
+-   La découverte : « Vite une nouvelle version pour tester une hypothèse avec des utilisateurs dès demain ! »
+-   L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
 
 ## Compétences
 
