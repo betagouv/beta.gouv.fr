@@ -16,5 +16,3 @@ previously:
 ---
 
 Chercheur de simplicité
-
-foo
