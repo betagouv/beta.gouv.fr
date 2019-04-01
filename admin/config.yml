@@ -105,19 +105,188 @@ collections:
 
       - label: "Startups"
         label_singular: "Startup"
-        hint: "Attention à bien indiquer l'identifiant de la Startup !"
-        # hint: "Si la startup n'apparait pas encore dans la liste, fais d'abord la fiche produit !"
+        hint: "Si la startup n'apparait pas encore dans la liste, contacte un administrateur du site !"
         name: "startups"
-        widget: "list"
-        field: { label: "Identifiant de la Startup", name: "startups", widget: "string" }
+        widget: "select"
+        multiple: true
+        options:
+          - { label: "A Dock", value: "a-dock" }
+          - { label: "Action Bidonvilles", value: "action-bidonvilles" }
+          - { label: "Aeris", value: "aeris" }
+          - { label: "Aidants Connect", value: "aidantsconnect" }
+          - { label: "Aides-territoires", value: "aides-territoires" }
+          - { label: "API Drones", value: "api-drones" }
+          - { label: "API Entreprise", value: "api-entreprise" }
+          - { label: "API Géo", value: "api-geo" }
+          - { label: "API Particulier", value: "api-particulier" }
+          - { label: "api.gouv.fr", value: "api.gouv.fr" }
+          - { label: "A+, le service public VIP pour tous.", value: "aplus" }
+          - { label: "ASSEC", value: "assec" }
+          - { label: "Avril - La V.A.E. facile", value: "avril" }
+          - { label: "Base Adresse Nationale", value: "ban" }
+          - { label: "Bourse", value: "bourse" }
+          - { label: "Boussole des droits", value: "boussole" }
+          - { label: "Camino", value: "camino" }
+          - { label: "CandiLib", value: "candilib" }
+          - { label: "Civils de la Défense", value: "civils-de-la-defense" }
+          - { label: "Clara - Vos aides en un clic", value: "clara" }
+          - { label: "Classes à 12", value: "classes12" }
+          - { label: "Co-construisons", value: "co-construisons" }
+          - { label: "Code du travail numérique", value: "codedutravail" }
+          - { label: "Compétences pro", value: "competences-pro" }
+          - { label: "data.gouv.fr", value: "data.gouv.fr" }
+          - { label: "demarches-simplifiees.fr", value: "demarches-simplifiees.fr" }
+          - { label: "DiagOriente", value: "diagoriente" }
+          - { label: "DomiFa (domiciliation facilitée)", value: "domifa" }
+          - { label: "DossierSCO", value: "dossiersco" }
+          - { label: "e-Chauffeur", value: "e-chauffeur" }
+          - { label: "E-contrôle", value: "e-controle" }
+          - { label: "e-MJPM", value: "e-mjpm" }
+          - { label: "Plateforme EAC", value: "eac" }
+          - { label: "Ecoscore Bêta", value: "ecoscore" }
+          - { label: "Étudiant entrepreneur", value: "etudiant-entrepreneur" }
+          - { label: "Fiches de banc", value: "fiches-de-banc" }
+          - { label: "Fil’harmonic", value: "filharmonic" }
+          - { label: "Fluctu@t", value: "fluctuat" }
+          - { label: "geo.data.gouv.fr", value: "geo.data.gouv.fr" }
+          - { label: "GPS usagers", value: "gps-usagers" }
+          - { label: "HistoVec", value: "histovec" }
+          - { label: "Kelrisks", value: "kelrisks" }
+          - { label: "La Bonne Boîte", value: "la-bonne-boite" }
+          - { label: "La Bonne Formation", value: "la-bonne-formation" }
+          - { label: "Lapins", value: "lapins" }
+          - { label: "Le Taxi", value: "le-taxi" }
+          - { label: "LexImpact", value: "leximpact" }
+          - { label: "Locatio", value: "locatio" }
+          - { label: "Lotocar", value: "lotocar" }
+          - { label: "Maintenant!", value: "maintenant" }
+          - { label: "MDPH en ligne", value: "mdph" }
+          - { label: "Memo", value: "memo" }
+          - { label: "Mes Aides", value: "mes-aides" }
+          - { label: "Mon-entreprise.fr", value: "mon-entreprise" }
+          - { label: "Mon stage de 3è", value: "monstage" }
+          - { label: "Les aides de l’Anah", value: "mpal" }
+          - { label: "Marchés publics simplifiés", value: "mps" }
+          - { label: "Mes remboursements simplifiés (MRS)", value: "mrs" }
+          - { label: "OGP Toolbox", value: "ogptoolbox" }
+          - { label: "Open Académie", value: "open-academie" }
+          - { label: "Pass Culture", value: "pass-culture" }
+          - { label: "Permis de construire facile", value: "permis-de-construire-facile" }
+          - { label: "Perspectives", value: "perspectives" }
+          - { label: "Pix", value: "pix" }
+          - { label: "Place des Entreprises", value: "place-des-entreprises" }
+          - { label: "Plante & Moi", value: "plante-et-moi" }
+          - { label: "Polex", value: "polex" }
+          - { label: "Plateforme Ouverte du Patrimoine", value: "pop" }
+          - { label: "Registre de preuve de covoiturage", value: "preuve-de-covoiturage" }
+          - { label: "Prélèvement à la source pour les indépendants", value: "psi" }
+          - { label: "Réserve civique", value: "reserve-civique" }
+          - { label: "Mes démarches retraite pas à pas", value: "retraite" }
+          - { label: "SEPIA", value: "sepia" }
+          - { label: "SignalConso", value: "signalement" }
+          - { label: "Signaux Faibles", value: "signaux-faibles" }
+          - { label: "Trackdéchets", value: "trackdechets" }
+          - { label: "Trait d’Union", value: "trait-d-union" }
+          - { label: "transport.data.gouv.fr", value: "transport" }
+          - { label: "Tremplin", value: "tremplin" }
+          - { label: "Urbaclic", value: "urbaclic" }
+          - { label: "Voir & Localiser", value: "voir-et-localiser" }
+          - { label: "Work in France", value: "workinfrance" }
+          - { label: "Zam", value: "zam" }
+          - { label: "Zen", value: "zen" }
         required: false
 
       - label: "Anciennes Startups"
         label_singular: "Ancienne Startup"
         hint: "Sur quelles startups de la communauté tu as travaillé avant ?"
         name: "previously"
-        widget: "list"
-        field: { label: "Identifiant de la Startup", name: "previously", widget: "string" }
+        widget: "select"
+        multiple: true
+        options:
+          - { label: "A Dock", value: "a-dock" }
+          - { label: "Action Bidonvilles", value: "action-bidonvilles" }
+          - { label: "Aeris", value: "aeris" }
+          - { label: "Aidants Connect", value: "aidantsconnect" }
+          - { label: "Aides-territoires", value: "aides-territoires" }
+          - { label: "API Drones", value: "api-drones" }
+          - { label: "API Entreprise", value: "api-entreprise" }
+          - { label: "API Géo", value: "api-geo" }
+          - { label: "API Particulier", value: "api-particulier" }
+          - { label: "api.gouv.fr", value: "api.gouv.fr" }
+          - { label: "A+, le service public VIP pour tous.", value: "aplus" }
+          - { label: "ASSEC", value: "assec" }
+          - { label: "Avril - La V.A.E. facile", value: "avril" }
+          - { label: "Base Adresse Nationale", value: "ban" }
+          - { label: "Bourse", value: "bourse" }
+          - { label: "Boussole des droits", value: "boussole" }
+          - { label: "Camino", value: "camino" }
+          - { label: "CandiLib", value: "candilib" }
+          - { label: "Civils de la Défense", value: "civils-de-la-defense" }
+          - { label: "Clara - Vos aides en un clic", value: "clara" }
+          - { label: "Classes à 12", value: "classes12" }
+          - { label: "Co-construisons", value: "co-construisons" }
+          - { label: "Code du travail numérique", value: "codedutravail" }
+          - { label: "Compétences pro", value: "competences-pro" }
+          - { label: "data.gouv.fr", value: "data.gouv.fr" }
+          - { label: "demarches-simplifiees.fr", value: "demarches-simplifiees.fr" }
+          - { label: "DiagOriente", value: "diagoriente" }
+          - { label: "DomiFa (domiciliation facilitée)", value: "domifa" }
+          - { label: "DossierSCO", value: "dossiersco" }
+          - { label: "e-Chauffeur", value: "e-chauffeur" }
+          - { label: "E-contrôle", value: "e-controle" }
+          - { label: "e-MJPM", value: "e-mjpm" }
+          - { label: "Plateforme EAC", value: "eac" }
+          - { label: "Ecoscore Bêta", value: "ecoscore" }
+          - { label: "Étudiant entrepreneur", value: "etudiant-entrepreneur" }
+          - { label: "Fiches de banc", value: "fiches-de-banc" }
+          - { label: "Fil’harmonic", value: "filharmonic" }
+          - { label: "Fluctu@t", value: "fluctuat" }
+          - { label: "geo.data.gouv.fr", value: "geo.data.gouv.fr" }
+          - { label: "GPS usagers", value: "gps-usagers" }
+          - { label: "HistoVec", value: "histovec" }
+          - { label: "Kelrisks", value: "kelrisks" }
+          - { label: "La Bonne Boîte", value: "la-bonne-boite" }
+          - { label: "La Bonne Formation", value: "la-bonne-formation" }
+          - { label: "Lapins", value: "lapins" }
+          - { label: "Le Taxi", value: "le-taxi" }
+          - { label: "LexImpact", value: "leximpact" }
+          - { label: "Locatio", value: "locatio" }
+          - { label: "Lotocar", value: "lotocar" }
+          - { label: "Maintenant!", value: "maintenant" }
+          - { label: "MDPH en ligne", value: "mdph" }
+          - { label: "Memo", value: "memo" }
+          - { label: "Mes Aides", value: "mes-aides" }
+          - { label: "Mon-entreprise.fr", value: "mon-entreprise" }
+          - { label: "Mon stage de 3è", value: "monstage" }
+          - { label: "Les aides de l’Anah", value: "mpal" }
+          - { label: "Marchés publics simplifiés", value: "mps" }
+          - { label: "Mes remboursements simplifiés (MRS)", value: "mrs" }
+          - { label: "OGP Toolbox", value: "ogptoolbox" }
+          - { label: "Open Académie", value: "open-academie" }
+          - { label: "Pass Culture", value: "pass-culture" }
+          - { label: "Permis de construire facile", value: "permis-de-construire-facile" }
+          - { label: "Perspectives", value: "perspectives" }
+          - { label: "Pix", value: "pix" }
+          - { label: "Place des Entreprises", value: "place-des-entreprises" }
+          - { label: "Plante & Moi", value: "plante-et-moi" }
+          - { label: "Polex", value: "polex" }
+          - { label: "Plateforme Ouverte du Patrimoine", value: "pop" }
+          - { label: "Registre de preuve de covoiturage", value: "preuve-de-covoiturage" }
+          - { label: "Prélèvement à la source pour les indépendants", value: "psi" }
+          - { label: "Réserve civique", value: "reserve-civique" }
+          - { label: "Mes démarches retraite pas à pas", value: "retraite" }
+          - { label: "SEPIA", value: "sepia" }
+          - { label: "SignalConso", value: "signalement" }
+          - { label: "Signaux Faibles", value: "signaux-faibles" }
+          - { label: "Trackdéchets", value: "trackdechets" }
+          - { label: "Trait d’Union", value: "trait-d-union" }
+          - { label: "transport.data.gouv.fr", value: "transport" }
+          - { label: "Tremplin", value: "tremplin" }
+          - { label: "Urbaclic", value: "urbaclic" }
+          - { label: "Voir & Localiser", value: "voir-et-localiser" }
+          - { label: "Work in France", value: "workinfrance" }
+          - { label: "Zam", value: "zam" }
+          - { label: "Zen", value: "zen" }
         required: false
 
       - label: "Description"
