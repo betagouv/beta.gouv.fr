@@ -4,18 +4,22 @@ backend:
   site_domain: beta.gouv.fr
   repo: betagouv/beta.gouv.fr
   # Personnalisation des messages de commit
+  # Attention, quand et si on passe aux fiches produits, à modifier !
   commit_messages:
-    create: Bienvenue à “{{slug}}”
-    update: Mise à jour “{{slug}}”
-    delete: Suppression “{{slug}}”
-    uploadMedia: Nouvelle image “{{path}}”
-    deleteMedia: Suppression d'image “{{path}}”
+    create: Bienvenue à {{slug}} !
+    update: Mise à jour de la fiche de {{slug}}
+    delete: Suppression de {{slug}}
+    uploadMedia: Nouvelle image : {{path}}
+    deleteMedia: Suppression d'image : {{path}}”
   squash_merges: true
 
 
-media_folder: "img/posts"
+media_folder: "img/netlifycms"
 
 display_url: https://beta.gouv.fr
+
+# La preview n'est pas utile juste pour modifier des auteurs
+show_preview_links: false
 
 slug:
   encoding: "ascii"
@@ -67,6 +71,8 @@ collections:
         required: false
 
       - label: 'Missions'
+        label_singular: "Mission"
+        hint: "Ton historique de missions avec nous dans l'ordre chronologique."
         name: 'missions'
         widget: 'list'
         fields:
@@ -78,10 +84,10 @@ collections:
               - { label: "Agent DINSIC", value: "dinsic" }
               - { label: "Agent d'une autre administration", value: "admin" }
               - { label: "Indépendant", value: "independent" }
-              - { label: "Prestataire", value: "service" }
+              - { label: "Société ou prestataire de services", value: "service" }
 
           - label: "Employeur"
-            hint: "Si applicable, ton mi  nistère d'origine, ta SSII, etc."
+            hint: "Si applicable, ton ministère d'origine, ta SSII, etc."
             name: "employer"
             widget: "string"
 
@@ -92,19 +98,22 @@ collections:
             format: "YYYY-MM-DD"
 
           - label: "Date de fin"
-            hint: "Fin de ton contrat ou de ton financement"
+            hint: "Fin de ton contrat ou de ton financement - tu pourras la modifier quand tu le souhaites"
             name: "end"
             widget: "date"
             format: "YYYY-MM-DD"
 
-      - label: "Startup(s)"
-        hint: "Si la startup n'apparait pas encore dans la liste, fais d'abord la fiche produit !"
+      - label: "Startups"
+        label_singular: "Startup"
+        hint: "Attention à bien indiquer l'identifiant de la Startup !"
+        # hint: "Si la startup n'apparait pas encore dans la liste, fais d'abord la fiche produit !"
         name: "startups"
         widget: "list"
         field: { label: "Identifiant de la Startup", name: "startups", widget: "string" }
         required: false
 
-      - label: "Ancienne(s) Startup(s)"
+      - label: "Anciennes Startups"
+        label_singular: "Ancienne Startup"
         hint: "Sur quelles startups de la communauté tu as travaillé avant ?"
         name: "previously"
         widget: "list"
