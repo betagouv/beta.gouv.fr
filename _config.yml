@@ -13,7 +13,7 @@ title: beta.gouv.fr
 email: contact@beta.gouv.fr
 description: Nous créons des services publics numériques
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://beta.gouv.fr # the base hostname & protocol for your site, e.g. http://example.com
+url: https://relaxed-bassi-0967e6.netlify.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BetaGouv
 github_username:  betagouv
 github_repository: BetaGouv/beta.gouv.fr
