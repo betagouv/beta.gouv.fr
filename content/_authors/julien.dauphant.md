@@ -5,7 +5,7 @@ link: 'https://twitter.com/jdauphant'
 missions:
   - employer: octo
     end: '2019-07-01'
-    start: 2016-11-03T00:00:00.000Z
+    start: '2016-11-03'
     status: independent
 startups:
   - plante-et-moi
