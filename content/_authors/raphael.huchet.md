@@ -3,9 +3,11 @@ fullname: Raphaël Huchet
 role: Développeur
 link: https://raph.site
 github: rap2hpoutre
-start: 2018-06-25
-end: 2019-06-30
-employer: independent/octo
+missions:
+  - start: 2018-06-25
+    end: 2019-06-30
+    status: independent
+    employer: octo
 startups:
     - eac
     - pop

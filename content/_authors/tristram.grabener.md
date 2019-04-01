@@ -2,9 +2,11 @@
 fullname: Tristram Gräbener
 role: Développeur
 github: Tristramg
-start: 2018-03-01
-end: 2020-02-28
-employer: independent/Codeurs en Liberté
+missions:
+  - start: 2018-03-01
+    end: 2020-02-28
+    status: independent
+    employer: Codeurs en Liberté
 startups:
   - transport
 ---

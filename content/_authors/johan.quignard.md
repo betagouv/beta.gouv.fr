@@ -1,9 +1,12 @@
 ---
 fullname: Johan Quignard
 role: Business Developer
-start: 2017-09-27
 github: Johan1983
-employer: admin/CNAM
+missions:
+  - start: 2017-09-27
+    end:
+    status: admin
+    employer: CNAM
 startups:
     - mrs
 ---

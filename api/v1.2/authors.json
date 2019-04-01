@@ -6,9 +6,9 @@ layout: null
         {
             "id": "{{ author.id | replace:'/authors/','' }}",
             "fullname": "{{ author.fullname }}",
-            "start": "{{ author.start }}",
-            "end": "{{ author.end }}",
-            "employer": "{{ author.employer }}"
+            "start": "{{ author.missions.first.start }}",
+            "end": "{{ author.missions.last.end }}",
+            "employer": "{{ author.missions.last.status }}/{{ author.missions.last.employer }}"
         }
         {% unless forloop.last %},{% endunless %}
     {% endfor %}
