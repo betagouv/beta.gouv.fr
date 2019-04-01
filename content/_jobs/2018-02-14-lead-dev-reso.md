@@ -1,6 +1,6 @@
 ---
 roles: un·e lead dev Rails
-startup: reso
+startup: place-des-entreprises
 open: false
 ---
 

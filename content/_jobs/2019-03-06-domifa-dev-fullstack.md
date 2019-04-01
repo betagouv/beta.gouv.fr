@@ -2,7 +2,7 @@
 roles: un·e développeur·e full stack
 startup: domifa
 techno: bon niveau en JavaScript souhaité
-open: true
+open: false
 ---
 
 *DomiFa (Domiciliation Facilitée), une des startups d'État du ministère des Solidarités et de la Santé, cherche un·e développeur·e pour améliorer l'accès aux droits des personnes sans domicile stable.*
