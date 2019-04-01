@@ -2,7 +2,7 @@
 fullname: Stéphanie Schaer
 role: Intrapreneuse
 missions:
-  - start: 2016-04-01
+  - start: '2016-04-01'
     end:
     status: admin
     employer: eig

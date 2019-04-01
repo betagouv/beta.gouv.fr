@@ -2,7 +2,7 @@
 fullname: Jérôme Desboeufs
 role: Développeur
 missions:
-  - start: 2014-03-10
+  - start: '2014-03-10'
     end:
     status: independent
     employer: octo
