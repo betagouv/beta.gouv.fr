@@ -97,12 +97,14 @@ collections:
             name: "start"
             widget: "date"
             format: "YYYY-MM-DD"
+            dateFormat: "LL"
 
           - label: "Date de fin"
             hint: "Fin de ton contrat ou de ton financement - tu pourras la modifier quand tu le souhaites"
             name: "end"
             widget: "date"
             format: "YYYY-MM-DD"
+            dateFormat: "LL"
 
       - label: "Startups"
         label_singular: "Startup"
