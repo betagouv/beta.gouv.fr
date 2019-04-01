@@ -7,7 +7,10 @@ layout: default
 {% endcomment %}
 
 {% capture build_date %}{{ site.time | date:"%Y-%m-%d" }}{% endcapture %}
-{% assign authors = site.authors | sort: 'start' | reverse %}
+
+{% assign authors = site.authors %}
+{% assign authors = authors | sort: 'fullname' %}
+
 {% assign authors_active = '' %}
 {% assign authors_inactive = '' %}
 {% assign members_count = 0 %}
@@ -18,7 +21,7 @@ layout: default
 {% assign authors_active = authors_active | append: to_append %}
 
 {% for author in authors %}
-  {% capture end_date_as_string %}{{ author.end }}{% endcapture %}
+  {% capture end_date_as_string %}{{ author.missions.last.end }}{% endcapture %}
   {% if end_date_as_string == '' or end_date_as_string > build_date %}
     {% capture to_append %}
       {% include card-community.html author=author %}
@@ -82,20 +85,22 @@ layout: default
     };
 
     {% for person in site.authors %}
-        var employerType = '{{ person.employer | slugify }}'.split('-')[0];
+      {% for mission in person.missions %}
+          var employerType = '{{ mission.status }}';
 
-        {% if person.start %}
-            window.data[employerType].push({
-                date: '{{ person.start }}',
-                increment: 1
-            });
-        {% endif %}
-        {% if person.end %}
-            window.data[employerType].push({
-                date: '{{ person.end }}',
-                increment: -1
-            });
-        {% endif %}
+          {% if mission.start %}
+              window.data[employerType].push({
+                  date: '{{ mission.start }}',
+                  increment: 1
+              });
+          {% endif %}
+          {% if mission.end %}
+              window.data[employerType].push({
+                  date: '{{ mission.end }}',
+                  increment: -1
+              });
+          {% endif %}
+      {% endfor %}
     {% endfor %}
 })();
 </script>

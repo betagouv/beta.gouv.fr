@@ -7,9 +7,9 @@ status: construction
 start: 2018-09-03
 end:
 link:
-repository:
+repository: https://github.com/betagouv/e-controle
 stats: false
-contact: lery.jicquel@beta.gouv.fr
+contact: e-controle@beta.gouv.fr
 redirect_from:
   - /startups/startup-jf
 ---

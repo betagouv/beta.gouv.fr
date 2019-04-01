@@ -1,7 +1,7 @@
 ---
 roles: un·e CPO
 startup: competences-pro
-open: true
+open: false
 ---
 
 L’équipe Compétences Pro cherche un·e CPO pour l’aider à développer son outil d'évaluation des compétences basé sur des jeux vidéos.

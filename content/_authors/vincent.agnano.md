@@ -4,12 +4,14 @@ role: Développeur
 avatar: https://vinyll.github.io/images/avatar.jpg
 link: https://vinyll.github.io/
 github: vinyll
-start: 2016-04-01
-end: 2019-12-31
-employer: independent/lazone
+missions:
+  - start: 2016-04-01
+    end: 2019-12-31
+    status: independent
+    employer: lazone
 startups:
   - eac
-  - classea12
+  - classes12
 previously:
   - api-drones
   - data.gouv.fr
