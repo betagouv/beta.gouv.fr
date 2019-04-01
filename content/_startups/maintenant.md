@@ -8,7 +8,7 @@ start: 2016-02-02
 end:
 link: https://maintenant.pole-emploi.fr
 repository:
-stats: https://maintenant.pole-emploi.fr/stats.html
+stats: true
 contact: maintenant@pole-emploi.fr
 ---
 
