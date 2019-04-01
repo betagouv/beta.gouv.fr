@@ -8,7 +8,7 @@ start: 2018-04-01
 link: https://zen.pole-emploi.fr
 stats: false
 repository: https://github.com/StartupsPoleEmploi/zen
-contact: sylvie.lebel@pole-emploi.fr
+contact: zen@pole-emploi.fr
 ---
 
 Chaque mois plus de 3 millions de demandeurs d’emploi actualisent leur situation pour récupérer leur allocation chômage.
