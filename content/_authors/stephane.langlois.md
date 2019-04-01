@@ -3,9 +3,11 @@ fullname: Stéphane Langlois
 role: coach (co-pilote), PO (difficultateur bientraitant), bizdev (?)
 avatar: https://gitlab.com/uploads/-/system/user/avatar/302910/munny.png
 link: http://scopyleft.fr
-start: 2018-04-26
-end:
-employer: independent/lazone
+missions:
+  - start: 2018-04-26
+    end:
+    status: independent
+    employer: lazone
 startups:
     - dossiersco
     - classes12
