@@ -2,9 +2,10 @@
 fullname: Jean-Michel Armand
 role: Développeur
 github: mrjmad
-start: 2018-12-21
-end: 2019-12-25
-employer: independent
+missions:
+  - start: 2018-12-21
+    end: 2019-12-25
+    status: independent
 startups:
     - voir-et-localiser
 ---

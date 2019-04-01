@@ -1,10 +1,10 @@
 ---
 fullname: Charlotte Lecuit
 role: Chargé de déploiement
-start: 2018-05-14
-end: 2019-06-30
-employer: dinsic
-avatar: /img/authors/charlotte.lecuit.jpg
+missions:
+  - start: 2018-05-14
+    end: 2019-06-30
+    status: dinsic
 startups:
     - mes-aides
 previously:

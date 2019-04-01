@@ -1,10 +1,12 @@
 ---
 fullname: Sabine Safi
 role: PO / Chargée de déploiement
-github: sabinesafi 
-start: 2019-02-04
-end:
-employer: independent/lazone
+github: sabinesafi
+missions:
+  - start: 2019-02-04
+    end:
+    status: independent
+    employer: lazone
 startups:
     - transport
 ---

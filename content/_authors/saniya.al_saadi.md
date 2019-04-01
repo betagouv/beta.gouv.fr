@@ -1,10 +1,12 @@
 ---
 fullname: Saniya Al Saadi
-role: Designer 
+role: Designer
 avatar: https://i.goopics.net/rbAWD.png
-start: 2018-01-01
-end: 2022-03-01
-employer: independent/octo
+missions:
+  - start: 2018-01-01
+    end: 2022-03-01
+    status: independent
+    employer: octo
 startups:
     - workinfrance
     - domifa

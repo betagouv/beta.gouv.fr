@@ -1,9 +1,11 @@
 ---
 fullname: Thomas Parisot
 role: Software Designer
-start: 2017-06-14
-end: 2017-12-30
-employer: independent/octo
+missions:
+  - start: 2017-06-14
+    end: 2017-12-30
+    status: independent
+    employer: octo
 link: https://oncletom.io
 github: oncletom
 startups:
