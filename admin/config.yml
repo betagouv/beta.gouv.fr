@@ -91,11 +91,11 @@ collections:
             name: "employer"
             widget: "string"
 
-          - label: "Date de début"
+          - label: "Date de début (DD/MM/YYYY)"
             hint: "Début de ton contrat ou de ton financement"
             name: "start"
             widget: "date"
-            dateFormat: "DD-MM-YYYY"
+            dateFormat: "DD/MM/YYYY"
             format: "YYYY-MM-DD"
 
           - label: "Date de fin"
