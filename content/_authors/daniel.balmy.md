@@ -3,7 +3,7 @@ fullname: Daniel Balmy
 role: Intrapreneur
 missions:
   - start: 2017-09-28
-    end: 2019-03-31
+    end: 2019-06-31
     status: admin
     employer: affaires-sociales
 startups:
