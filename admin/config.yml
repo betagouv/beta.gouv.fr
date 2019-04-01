@@ -90,6 +90,7 @@ collections:
             hint: "Si applicable, ton ministère d'origine, ta SSII, etc."
             name: "employer"
             widget: "string"
+            required: false
 
           - label: "Date de début"
             hint: "Début de ton contrat ou de ton financement"
