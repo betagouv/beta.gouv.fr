@@ -2,7 +2,7 @@ backend:
   name: github
   base_url: https://api.staticweb-01.etalab.gouv.fr
   site_domain: beta.gouv.fr
-  repo: betagouv/beta.gouv.fr
+  repo: monbocal/beta.gouv.fr
   # Personnalisation des messages de commit
   # Attention, quand et si on passe aux fiches produits, à modifier !
   commit_messages:
