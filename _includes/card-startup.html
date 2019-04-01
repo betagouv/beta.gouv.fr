@@ -33,7 +33,7 @@
       {% endif %}
     </p>
     {% if startup.techno %}
-      {% for item in startup.techno %}<div class="label">{{ item }}</div>{% endfor %}     
+      {% for item in startup.techno %}<div class="label">{{ item }}</div>{% endfor %}
     {% endif %}
   </div>
   <div class="card__extra">
@@ -49,9 +49,9 @@
     {% assign team = site.authors | where:"startups", startup_id %}
     {% for people in team %}
       {% comment %}<!-- On détecte ceux qui ne sont plus actifs sur la communauté -->{% endcomment %}
-      {% if people.end %}
+      {% if people.missions.last.end %}
         {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
-        {% capture timestampEnd %}{{ people.end | date: '%s' }}{% endcapture %}
+        {% capture timestampEnd %}{{ people.missions.last.end | date: '%s' }}{% endcapture %}
         {% if timestampNow > timestampEnd %}
           {% capture to_append %}<div class="label label--inactive">{{ people.fullname }}</div>{% endcapture %}
           {% assign current_inactive_team = current_inactive_team | append: to_append %}

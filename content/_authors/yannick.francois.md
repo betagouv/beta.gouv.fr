@@ -3,9 +3,11 @@ fullname: Yannick François
 role: Développeur
 link: https://elsif.fr
 github: yaf
-start: 2018-12-12
-end: 2019-03-31
-employer: service/ut7
+missions:
+  - start: 2018-12-12
+    end: 2019-03-31
+    status: service
+    employer: ut7
 startups:
     - dossiersco
 ---

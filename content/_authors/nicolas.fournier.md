@@ -2,8 +2,11 @@
 fullname: Nicolas Fournier
 role: Product Owner
 github: nfournier
-start: 2018-10-29
-employer: service/octo
+missions:
+  - start: 2018-10-29
+    end:
+    status: service
+    employer: octo
 startups:
     - pass-culture
 ---
