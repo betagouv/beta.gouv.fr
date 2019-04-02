@@ -1,8 +1,8 @@
 backend:
   name: github
   base_url: https://api.staticweb-01.etalab.gouv.fr
-  site_domain: relaxed-bassi-0967e6.netlify.com
-  repo: monbocal/beta.gouv.fr
+  site_domain: beta.gouv.fr
+  repo: betagouv/beta.gouv.fr
   # Personnalisation des messages de commit
   # Attention, quand et si on passe aux fiches produits, à modifier !
   commit_messages:
@@ -16,7 +16,7 @@ backend:
 
 media_folder: "img/netlifycms"
 
-display_url: https://relaxed-bassi-0967e6.netlify.com
+display_url: https://beta.gouv.fr
 
 # La preview n'est pas utile juste pour modifier des auteurs
 show_preview_links: false
@@ -31,7 +31,7 @@ publish_mode: editorial_workflow
 
 collections:
   - name: "authors"
-    identifier_field: "fullname"
+    identifier_field: fullname
     label: "Members"
     label_singular: "Member"
     description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, direction \"New Member\" !"
