@@ -96,7 +96,6 @@ collections:
             hint: "Début de ton contrat ou de ton financement"
             name: "start"
             widget: "date"
-            dateFormat: "DD/MM/YYYY"
             format: "YYYY-MM-DD"
             dateFormat: "LL"
 
@@ -104,7 +103,6 @@ collections:
             hint: "Fin de ton contrat ou de ton financement - tu pourras la modifier quand tu le souhaites"
             name: "end"
             widget: "date"
-            dateFormat: "DD-MM-YYYY"
             format: "YYYY-MM-DD"
             dateFormat: "LL"
 
