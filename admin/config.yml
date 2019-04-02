@@ -43,7 +43,7 @@ collections:
       preview: false
     fields:
       - label: "Nom complet"
-        hint: "Format : Prénom Nom. Attention à l'orthographe !"
+        hint: "Format : Prénom Nom. Ton nom complet est utilisé pour le nom de ta fiche. Attention à ton orthographe !"
         name: "fullname"
         widget: "string"
 
@@ -59,13 +59,13 @@ collections:
         required: false
 
       - label: "Avatar"
-        hint: "À remplir si tu veux mettre un avatar depuis un site externe. Tu peux aussi laisser ce champs vide et mettre une image dans le dossier /img/authors/. À défaut, on regardera si tu as une image sur ton profil Github. En dernier, la fiole beta.gouv.fr sera affichée sur la page communauté."
+        hint: "À remplir si tu veux mettre un avatar depuis un site externe. Tu peux aussi laisser vide et mettre une image dans le dossier /img/authors/. À défaut, on regardera si tu as une image sur ton profil Github. En dernier, la fiole beta.gouv.fr sera affichée sur la page communauté. Dans le doute : demande à ton marrain !"
         name: "avatar"
         widget: "string"
         required: false
 
       - label: "Lien externe"
-        hint: "Lien vers une page perso externe"
+        hint: "Lien vers une page perso externe."
         name: "link"
         widget: "string"
         required: false
@@ -87,20 +87,20 @@ collections:
               - { label: "Société ou prestataire de services", value: "service" }
 
           - label: "Employeur"
-            hint: "Si applicable, ton ministère d'origine, ta SSII, etc."
+            hint: "Si besoin de préciser : ton ministère d'origine, ta SSII, etc."
             name: "employer"
             widget: "string"
             required: false
 
           - label: "Date de début"
-            hint: "Début de ton contrat ou de ton financement"
+            hint: "Début de ton contrat ou de ton financement."
             name: "start"
             widget: "date"
             format: "YYYY-MM-DD"
             dateFormat: "LL"
 
           - label: "Date de fin"
-            hint: "Fin de ton contrat ou de ton financement - tu pourras la modifier quand tu le souhaites"
+            hint: "Fin de ton contrat ou de ton financement - tu pourras la modifier plus tard."
             name: "end"
             widget: "date"
             format: "YYYY-MM-DD"
@@ -108,7 +108,7 @@ collections:
 
       - label: "Startups"
         label_singular: "Startup"
-        hint: "Si la startup n'apparait pas encore dans la liste, contacte un administrateur du site !"
+        hint: "Plusieurs choix possibles. Si la startup n'apparait pas encore dans la liste, contacte un administrateur du site !"
         name: "startups"
         widget: "select"
         multiple: true
@@ -205,7 +205,7 @@ collections:
 
       - label: "Anciennes Startups"
         label_singular: "Ancienne Startup"
-        hint: "Sur quelles startups de la communauté tu as travaillé avant ?"
+        hint: "Plusieurs choix possibles : sur quelles startups de la communauté tu as travaillé avant ?"
         name: "previously"
         widget: "select"
         multiple: true
@@ -301,7 +301,7 @@ collections:
         required: false
 
       - label: "Description"
-        hint: "Raconte-nous qui tu es !"
+        hint: "Raconte-nous qui tu es dans une phrase percutante !"
         name: "body"
         widget: "text"
         required: false
