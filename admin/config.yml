@@ -31,7 +31,7 @@ publish_mode: editorial_workflow
 
 collections:
   - name: "authors"
-    identifier_field: fullname
+    identifier_field: "fullname"
     label: "Members"
     label_singular: "Member"
     description: "Les membres de la communauté beta.gouv.fr. Tu viens de nous rejoindre ? Ajoute ta fiche à l'aide du bouton 'New Member !'"
