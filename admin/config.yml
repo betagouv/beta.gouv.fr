@@ -90,6 +90,7 @@ collections:
             hint: "Si applicable, ton ministère d'origine, ta SSII, etc."
             name: "employer"
             widget: "string"
+            required: false
 
           - label: "Date de début (DD/MM/YYYY)"
             hint: "Début de ton contrat ou de ton financement"
@@ -97,6 +98,7 @@ collections:
             widget: "date"
             dateFormat: "DD/MM/YYYY"
             format: "YYYY-MM-DD"
+            dateFormat: "LL"
 
           - label: "Date de fin"
             hint: "Fin de ton contrat ou de ton financement - tu pourras la modifier quand tu le souhaites"
@@ -104,6 +106,7 @@ collections:
             widget: "date"
             dateFormat: "DD-MM-YYYY"
             format: "YYYY-MM-DD"
+            dateFormat: "LL"
 
       - label: "Startups"
         label_singular: "Startup"

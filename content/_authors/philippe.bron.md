@@ -2,7 +2,7 @@
 fullname: Philippe Bron
 role: Responsable Lab du Ministère de l'intérieur
 missions:
-  - start: 2018-03-01
+  - start: '2018-03-01'
     end:
     status: admin
     employer: Ministère de l'Intérieur

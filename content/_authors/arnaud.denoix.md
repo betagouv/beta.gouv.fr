@@ -3,7 +3,7 @@ fullname: Arnaud Denoix
 role: Coach
 github: adenoix
 missions:
-  - start: 2018-12-07
+  - start: '2018-12-07'
     end:
     status: independent
     employer: dinsic
