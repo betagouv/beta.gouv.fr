@@ -1,7 +1,7 @@
 ---
 roles: un·e chargé.e de déploiement
-startup: mobilot
-open: true
+startup: lotocar
+open: false
 ---
 
 [Lotocar](https://www.lotocar.fr) souhaite créer un maillage (dense dans l'idéal) de lignes de covoiturage alimentées par les trajets réguliers des conducteurs et faire que le service soit accessible pour une personne ne disposant ni d’un accès internet, ni d’un smartphone.

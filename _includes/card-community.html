@@ -11,9 +11,9 @@
 
 {% capture label %}label--active{% endcapture %}
 
-{% if author.end %}
+{% if author.missions.last.end %}
   {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
-  {% capture timestampEnd %}{{ author.end | date: '%s' }}{% endcapture %}
+  {% capture timestampEnd %}{{ author.missions.last.end | date: '%s' }}{% endcapture %}
   {% if timestampNow > timestampEnd %}
     {% capture label %}label--inactive{% endcapture %}
   {% endif %}

@@ -1,7 +1,7 @@
 ---
 roles: un·e lead développeur·se
 techno: Choix libre
-open: true
+open: false
 ---
 
 beta.gouv.fr lance une Startup d’Etat pour accompagner le programme du Gouvernement visant à offrir 30 000 stages de 3e de qualité en REP+. Tu veux construire un outil mobile grand public qui fasse du stage de 3e un vrai tremplin professionnel pour les jeunes issus de quartiers défavorisés et leur permettre de mieux s’orienter au lycée ? Rejoins-nous.

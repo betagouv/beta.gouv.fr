@@ -3,7 +3,7 @@ roles: un·e développeur·se DevOps
 startup: voir-et-localiser
 techno: Node.JS, Angular, RabbitMQ, Kurento
 junior: false
-open: true
+open: false
 ---
 
 La Startup d'État Voir & Localiser cherche un·e développeur·se DevOps.

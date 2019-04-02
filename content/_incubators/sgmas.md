@@ -3,7 +3,7 @@ title: L'Incubateur des Affaires Sociales
 owner: SGMAS
 website: https://incubateur.social.gouv.fr/
 github: https://github.com/SocialGouv/
-contact: mailto:julien.bouquillon@sg.social.gouv.fr?subject=Incubateurs
+contact: mailto:yann-fanch.madaule@sg.social.gouv.fr?subject=Incubateurs
 address: 39 quai andré Citroën, Paris 15e
 ---
 

@@ -50,7 +50,17 @@ Tu peux fournir un fichier avec ta photo si tu n'as pas de compte Github, ou si 
 
 Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est celle [actuellement en production](https://github.com/jekyll/jekyll/releases/tag/v3.8.5/).
 
-Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) et [Jekyll](https://jekyllrb.com) dans leurs [versions de production](https://github.com/jekyll/jekyll/releases/tag/v3.8.5) :
+Pour initialiser votre environnement de développement, commencez par installer [Ruby](https://www.ruby-lang.org/fr/) dans la version spécifiée par le fichier `.ruby-version`.
+Si vous utilisez RVM pour isoler votre environnement, vous pouvez le faire avec la commande suivante:
+
+```sh
+rvm install `cat .ruby-version`
+```
+
+Toujours avec RVM, vous pouvez créer un fichier `.ruby-gemset` contenant un nom de gemset à utiliser en local.
+Il vous suffit alors de sortir puis revenir du répertoire pour que le gemset soit créé correctement si votre shell est bien configuré.
+
+Ensuite, exécutez les commandes suivantes :
 
 ```sh
 git clone https://github.com/betagouv/beta.gouv.fr.git

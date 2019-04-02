@@ -1,15 +1,22 @@
 ---
-title: Signalement
+title: SignalConso
 mission: Faire baisser le nombre d'anomalies rencontrées par les consommateurs
 owner: Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)
 incubator: dinsic
-status: construction
+status: acceleration
 start: 2018-06-18
 end:
-link: https://signalement.beta.gouv.fr
-repository:
-stats: false
-contact: magali.marcel@beta.gouv.fr
+link: https://signalconso.beta.gouv.fr
+repository: https://github.com/betagouv/signalement-app
+stats: true
+contact: contact@signalconso.beta.gouv.fr
+techno:
+  - Scala
+  - TypeScript
+  - PostgreSQL
+  - Play Framework
+  - Angular
+  - Clever Cloud
 ---
 
 Trop d'anomalies aujourd'hui ne sont pas remontées
@@ -24,13 +31,18 @@ Or, le consommateur est l'acteur le mieux placé pour repérer de possibles anom
 Signaler pour faire agir les professionnels
 ===========================================
 
-L'outil permettra à chaque consommateur de signaler directement les anomalies constatées dans sa vie de tous les jours (chez son épicier, dans un bar..), de manière très rapide et très simple auprès du professionnel. Les consommateurs participent ainsi à créer un état des lieux des problèmes rencontrés, leurs récurrence et leurs localisations. Grâce à un mécanisme le plus automatisé possible, les professionnels concernés pourront prendre connaissance des signalements et corriger les anomalies.
+L’outil  accompagnera le consommateur avant, pendant et après ses achats, et lui permettra de signaler les problèmes rencontrés dans sa vie de tous les jours (chez son épicier, dans un bar..)
 
-En dernier ressort, les enquêteurs de la DGCCRF exploiteront les données pour intervenir auprès des professionnels et cibler leurs contrôles.
+Simple : Un pas-à-pas pour guider le consommateur afin de signaler rapidement son problème et lui faire connaître ses droits. Le cas échéant, l’outil conseillera sur les démarches à faire en parallèle du signalement.
 
-L’impact social recherché est une baisse significative des anomalies rencontrées par les consommateurs et une responsabilisation accrue des professionnels..
+Transparent : Les professionnels concernés pourront prendre connaissance des signalements et corriger les anomalies spontanément, sans sanction.
+
+Si les signalements sont trop nombreux ou fréquents pour un établissement, les enquêteurs de la DGCCRF interviendront auprès des professionnels.
+
+L’impact social recherché est une baisse significative des anomalies rencontrées par les consommateurs et une responsabilisation accrue des professionnels.
+
 
 Une démarche pour les consommateurs
 ===================================
 
-Le lancement du service s’appuiera sur des relais de consommateurs (associations de consommateurs), les services d'enquête de la DGCCRF, ainsi que des associations interprofessionnelles et des entreprises intéressées pour faire avancer la démarche.
+Le lancement du service s’appuiera sur des consommateurs, des associations de consommateurs, les services de la DGCCRF, ainsi que des associations interprofessionnelles et des entreprises intéressées pour faire avancer la démarche.
