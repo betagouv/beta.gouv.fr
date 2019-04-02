@@ -38,6 +38,9 @@ layout: default
 {% assign authors_active = authors_active | append: to_append %}
 
 {% for start_date in start_dates %}
+  {% if start_date > build_date %}
+    {% continue %}
+  {% endif %}
   {% for author in authors %}
     {% if author.missions.first.start == start_date %}
       {% capture end_date_as_string %}{{ author.missions.last.end }}{% endcapture %}
