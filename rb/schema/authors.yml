@@ -18,10 +18,10 @@ mapping:
         - type:      map
           mapping:
             "start":
-              type:      date
+              type:      str
               required:  yes
             "end":
-              type:      date
+              type:      str
             "status":
               type:      str
               assert:    "['dinsic','service','independent','admin'].include?(val)"
