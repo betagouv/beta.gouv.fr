@@ -1,14 +1,5 @@
 ---
-<<<<<<< HEAD
-firstname: Jill-Jênn
-<<<<<<< HEAD
-lastname: Vie
-=======
 fullname: Jill-Jênn Vie
->>>>>>> parent of 942b53f6... WIP: FirstNameLastName
-=======
-lastnamme: Vie
->>>>>>> parent of cc008c96... fix CI
 role: Ingénieur recherche
 link: http://jill-jenn.net
 missions:
