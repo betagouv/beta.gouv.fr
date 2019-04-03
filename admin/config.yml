@@ -31,26 +31,25 @@ publish_mode: editorial_workflow
 
 collections:
   - name: "authors"
-    summary: "{{firstname}} {{lastname}}"
-    identifier_field: lastname
+    identifier_field: uid
     label: "Members"
     label_singular: "Member"
     description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, direction \"New Member\" !"
     folder: "content/_authors"
     create: true
     delete: false
-    slug: "{{firstname}}\.{{slug}}"
+    slug: "{{uid}}"
     editor:
       preview: false
     fields:
-      - label: "Prénom"
-        hint: "Ton nom complet est utilisé pour le nom de ta fiche. Attention à ton orthographe !"
-        name: "firstname"
+      - label: "Nom complet (Prénom Nom)"
+        hint: "Attention à ton orthographe !"
+        name: "fullname"
         widget: "string"
 
-      - label: "Nom de famille"
-        hint: "Ton nom complet est utilisé pour le nom de ta fiche. Attention à ton orthographe !"
-        name: "lastname"
+      - label: "Identifiant unique"
+        hint: "Il s'agit du début de ton adresse mail, prenom.nom . Les espaces sont à remplacer par des _ et les accents sont à supprimer : camille.dupont, emilie.de_paris, jean-edouard.d'artagnan..."
+        name: "uid"
         widget: "string"
 
       - label: "Rôle"
