@@ -1,6 +1,5 @@
 ---
-firstname: Clément
-lastname: Morisset
+fullname: Clément Morisset
 role: Développeur
 github: morissetcl
 missions:

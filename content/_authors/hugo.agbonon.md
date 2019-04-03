@@ -1,6 +1,5 @@
 ---
-firstname: Hugo
-lastname: Agbonon
+fullname: Hugo Agbonon
 role: Développeur web
 link: https://www.codeheroics.com
 github: codeheroics

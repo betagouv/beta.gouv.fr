@@ -1,6 +1,5 @@
 ---
-firstname: Elise
-lastname: Marion
+fullname: Elise Marion
 role: Intrapreneure / "Aides-territoires"
 github: elisemarion
 missions:

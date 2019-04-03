@@ -1,6 +1,5 @@
 ---
-firstname: Marc
-lastname: Hertzog
+fullname: Marc Hertzog
 role: Développeur web
 missions:
   - start: '2016-12-12'

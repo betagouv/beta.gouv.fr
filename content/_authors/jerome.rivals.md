@@ -1,6 +1,5 @@
 ---
-firstname: Jérôme
-lastname: Rivals
+fullname: Jérôme Rivals
 role: Développeur
 github: jrivals
 missions:

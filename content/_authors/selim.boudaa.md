@@ -1,6 +1,5 @@
 ---
-firstname: Sélim
-lastname: Boudaa
+fullname: Sélim Boudaa
 role: Développeur
 link: http://www.sinusoide.fr
 github: SelimBoudaa

@@ -1,6 +1,5 @@
 ---
-firstname: François
-lastname: Romain
+fullname: François Romain
 role: Développeur
 avatar: https://avatars3.githubusercontent.com/u/156539
 link: https://francoisromain.com

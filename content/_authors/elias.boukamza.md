@@ -1,6 +1,5 @@
 ---
-firstname: Elias
-lastname: Boukamza
+fullname: Elias Boukamza
 role: Développeur
 avatar: https://i.goopics.net/ZV8v3.jpg
 github: eboukamza

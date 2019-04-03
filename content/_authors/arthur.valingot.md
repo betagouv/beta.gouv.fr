@@ -1,6 +1,5 @@
 ---
-firstname: Arthur
-lastname: Valingot
+fullname: Arthur Valingot
 role: Développeur
 github: ArthV
 missions:

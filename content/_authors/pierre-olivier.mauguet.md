@@ -1,6 +1,5 @@
 ---
-firstname: Pierre-Olivier
-lastname: Mauguet
+fullname: Pierre-Olivier Mauguet
 role: Développeur
 link: http://pom421.github.io/
 github: pom421

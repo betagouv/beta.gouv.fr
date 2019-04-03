@@ -1,6 +1,5 @@
 ---
-firstname: Julien
-lastname: Dauphant
+fullname: Julien Dauphant
 role: Coach et Développeur
 link: https://twitter.com/jdauphant
 missions:

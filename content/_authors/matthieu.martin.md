@@ -1,6 +1,5 @@
 ---
-firstname: Matthieu
-lastname: Martin
+fullname: Matthieu Martin
 role: Illustrateur
 link: https://matthieu-martin.fr
 github: MatthieuMARTIN

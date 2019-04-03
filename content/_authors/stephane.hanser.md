@@ -1,6 +1,5 @@
 ---
-firstname: Stéphane
-lastname: Hanser
+fullname: Stéphane Hanser
 role: Développeur
 link: https://captive.fr
 github: shanser

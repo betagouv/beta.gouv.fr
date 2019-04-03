@@ -1,6 +1,5 @@
 ---
-firstname: Joël
-lastname: Cantaut
+fullname: Joël Cantaut
 role: Intrapreneur
 link:
 missions:

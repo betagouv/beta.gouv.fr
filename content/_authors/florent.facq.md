@@ -1,6 +1,5 @@
 ---
-firstname: Florent
-lastname: Facq
+fullname: Florent Facq
 role: Chargé de développement territorial Seine-Saint-Denis
 github: flofcq
 missions:

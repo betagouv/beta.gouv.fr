@@ -1,6 +1,5 @@
 ---
-firstname: Julien
-lastname: Vignolles
+fullname: Julien Vignolles
 role: Développeur
 avatar: https://s3-eu-west-1.amazonaws.com/vignolles/files/julien.vignolles.jpg
 link: http://www.julien-vignolles.com

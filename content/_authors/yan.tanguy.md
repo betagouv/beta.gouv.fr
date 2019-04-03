@@ -1,6 +1,5 @@
 ---
-firstname: Yan
-lastname: Tanguy
+fullname: Yan Tanguy
 role: Intrapreneur
 missions:
   - start: '2017-09-14'

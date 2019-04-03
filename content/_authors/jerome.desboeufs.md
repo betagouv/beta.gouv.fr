@@ -1,6 +1,5 @@
 ---
-firstname: Jérôme
-lastname: Desboeufs
+fullname: Jérôme Desboeufs
 role: Développeur
 missions:
   - start: '2014-03-10'

@@ -1,6 +1,5 @@
 ---
-firstname: Alexia
-lastname: Rey
+fullname: Alexia Rey
 role: Développeuse
 missions:
   - start: '2017-04-10'

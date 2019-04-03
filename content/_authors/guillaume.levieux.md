@@ -1,6 +1,5 @@
 ---
-firstname: Guillaume
-lastname: Levieux
+fullname: Guillaume Levieux
 role: Intrapreneur
 github: guillaumelevieux
 missions:

@@ -1,6 +1,5 @@
 ---
-firstname: Antoine
-lastname: Bigard
+fullname: Antoine Bigard
 role: Développeur
 github: gethi
 missions:

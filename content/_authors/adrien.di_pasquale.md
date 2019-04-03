@@ -1,6 +1,5 @@
 ---
-firstname: Adrien
-lastname: Di Pasquale
+fullname: Adrien Di Pasquale
 role: Développeur Fullstack
 link: https://adrien.dipasquale.fr
 github: adipasquale

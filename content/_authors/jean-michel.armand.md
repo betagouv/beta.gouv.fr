@@ -1,6 +1,5 @@
 ---
-firstname: Jean-Michel
-lastname: Armand
+fullname: Jean-Michel Armand
 role: Développeur
 github: mrjmad
 missions:

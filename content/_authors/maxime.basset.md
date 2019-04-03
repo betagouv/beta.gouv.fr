@@ -1,6 +1,5 @@
 ---
-firstname: Maxime
-lastname: Basset
+fullname: Maxime Basset
 role: Coach
 avatar: https://i.imgur.com/QMHjIph.png
 missions:

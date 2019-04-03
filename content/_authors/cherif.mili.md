@@ -1,6 +1,5 @@
 ---
-firstname: Chérif
-lastname: Mili
+fullname: Chérif Mili
 role: Coach
 missions:
   - start: '2018-11-19'

@@ -1,6 +1,5 @@
 ---
-firstname: Luc
-lastname: Bersat
+fullname: Luc Bersat
 role: Intrapreneur
 avatar: https://image.ibb.co/gnpw7J/3150475.png
 missions:

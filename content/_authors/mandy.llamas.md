@@ -1,6 +1,5 @@
 ---
-firstname: Mandy
-lastname: Llamas
+fullname: Mandy Llamas
 role: Chargée de suivi de l'expérimentation
 missions:
   - start: '2019-01-07'

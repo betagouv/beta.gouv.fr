@@ -1,6 +1,5 @@
 ---
-firstname: Pierre
-lastname: Momboisse
+fullname: Pierre Momboisse
 role: Chargé de développement
 missions:
   - start: '2018-04-25'

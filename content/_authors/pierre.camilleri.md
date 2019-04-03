@@ -1,6 +1,5 @@
 ---
-firstname: Pierre
-lastname: Camilleri
+fullname: Pierre Camilleri
 role: Entrepreneur d'intérêt général
 missions:
   - start: '2018-03-01'

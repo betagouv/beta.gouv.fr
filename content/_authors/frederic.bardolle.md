@@ -1,6 +1,5 @@
 ---
-firstname: Frédéric
-lastname: Bardolle
+fullname: Frédéric Bardolle
 role: Chef de la Fabrique numérique
 missions:
   - start: '2018-09-01'

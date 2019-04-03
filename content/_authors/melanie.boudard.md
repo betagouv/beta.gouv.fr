@@ -1,6 +1,5 @@
 ---
-firstname: Mélanie
-lastname: Boudard
+fullname: Mélanie Boudard
 role: Développeur
 avatar: https://avatars3.githubusercontent.com/melaniemeb?s=600
 missions:

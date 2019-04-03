@@ -1,6 +1,5 @@
 ---
-firstname: Anthony
-lastname: Tusithiphonexay
+fullname: Anthony Tusithiphonexay
 github: atusithi
 role: Développeur
 missions:

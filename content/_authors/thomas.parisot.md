@@ -1,6 +1,5 @@
 ---
-firstname: Thomas
-lastname: Parisot
+fullname: Thomas Parisot
 role: Software Designer
 missions:
   - start: '2017-06-14'

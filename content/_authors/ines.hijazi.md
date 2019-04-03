@@ -1,6 +1,5 @@
 ---
-firstname: Inès
-lastname: Hijazi
+fullname: Inès Hijazi
 role: Responsable de la formation Alpha et du programme de pré-incubation
 missions:
   - start: '2018-09-12'

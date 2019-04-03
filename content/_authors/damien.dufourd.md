@@ -1,6 +1,5 @@
 ---
-firstname: Damien
-lastname: Dufourd
+fullname: Damien Dufourd
 role: Coach
 github: damiendufourd
 missions:

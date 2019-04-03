@@ -1,6 +1,5 @@
 ---
-firstname: Nicolas
-lastname: Mérigot
+fullname: Nicolas Mérigot
 role: Développeur
 github: nmrgt
 missions:

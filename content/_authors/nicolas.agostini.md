@@ -1,6 +1,5 @@
 ---
-firstname: Nicolas
-lastname: Agostini
+fullname: Nicolas Agostini
 role: Développeur
 missions:
   - start: '2018-06-01'

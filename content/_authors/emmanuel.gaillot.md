@@ -1,6 +1,5 @@
 ---
-firstname: Emmanuel
-lastname: Gaillot
+fullname: Emmanuel Gaillot
 role: Développeur
 link: https://ut7.fr
 github: egaillot

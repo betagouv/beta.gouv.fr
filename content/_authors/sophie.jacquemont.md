@@ -1,6 +1,5 @@
 ---
-firstname: Sophie
-lastname: Jacquemont
+fullname: Sophie Jacquemont
 role: Intrapreneuse
 avatar: https://image.noelshack.com/fichiers/2018/40/1/1538399580-skx3ldpq.jpg
 missions:

@@ -1,6 +1,5 @@
 ---
-firstname: Céline
-lastname: Rouot
+fullname: Céline Rouot
 role: Statisticienne
 missions:
   - start: '2016-06-01'

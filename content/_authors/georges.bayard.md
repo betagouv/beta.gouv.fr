@@ -1,6 +1,5 @@
 ---
-firstname: Georges
-lastname: Bayard
+fullname: Georges Bayard
 role: Responsable de produit
 missions:
   - start: '2016-03-01'

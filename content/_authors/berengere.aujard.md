@@ -1,6 +1,5 @@
 ---
-firstname: Bérengère
-lastname: Aujard
+fullname: Bérengère Aujard
 role: Intrapreneuse
 github: BerengereAujard
 missions:

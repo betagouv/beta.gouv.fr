@@ -1,6 +1,5 @@
 ---
-firstname: Tiffany
-lastname: Yozgadalian
+fullname: Tiffany Yozgadalian
 role: Chargée de développement
 missions:
   - start: '2017-07-01'

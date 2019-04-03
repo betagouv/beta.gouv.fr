@@ -1,6 +1,5 @@
 ---
-firstname: Sebastian
-lastname: Sachetti
+fullname: Sebastian Sachetti
 role: Chargé de développement
 missions:
   - start: '2017-04-10'

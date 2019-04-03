@@ -1,6 +1,5 @@
 ---
-firstname: Romy
-lastname: Alula
+fullname: Romy Alula
 role: Développeuse
 github: Goumies
 missions:

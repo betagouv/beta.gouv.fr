@@ -1,6 +1,5 @@
 ---
-firstname: Karl
-lastname: Dupart
+fullname: Karl Dupart
 role: Intrapreneur
 avatar: https://image.noelshack.com/fichiers/2018/40/1/1538399033-karl.png
 missions:

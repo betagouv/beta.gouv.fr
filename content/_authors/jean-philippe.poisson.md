@@ -1,6 +1,5 @@
 ---
-firstname: Jean-Philippe
-lastname: Poisson
+fullname: Jean-Philippe Poisson
 role: Coach
 avatar: https://avatars3.githubusercontent.com/jppoisson?s=600
 missions:

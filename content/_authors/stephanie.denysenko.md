@@ -1,6 +1,5 @@
 ---
-firstname: Stéphanie
-lastname: Denysenko
+fullname: Stéphanie Denysenko
 role: Chargée de développement
 missions:
   - start: '2018-04-12'

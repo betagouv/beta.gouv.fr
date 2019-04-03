@@ -1,6 +1,5 @@
 ---
-firstname: Alexandre
-lastname: De Pablo
+fullname: Alexandre De Pablo
 role: Développeur
 missions:
   - start: '2017-02-01'

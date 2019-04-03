@@ -1,6 +1,5 @@
 ---
-firstname: Estelle
-lastname: Comment
+fullname: Estelle Comment
 role: Développeu·r·se
 github: estellecomment
 missions:

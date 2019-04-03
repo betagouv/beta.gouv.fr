@@ -1,6 +1,5 @@
 ---
-firstname: Anna-Livia
-lastname: Gomart
+fullname: Anna-Livia Gomart
 role: Développeuse
 avatar: https://avatars3.githubusercontent.com/Anna-Livia?s=600
 link: https://www.anna-livia.com/

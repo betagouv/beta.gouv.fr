@@ -1,6 +1,5 @@
 ---
-firstname: Lucie
-lastname: Prohin
+fullname: Lucie Prohin
 role: Business Developer
 avatar: https://i.goopics.net/Pno5Q.jpg
 missions:

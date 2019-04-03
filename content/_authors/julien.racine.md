@@ -1,6 +1,5 @@
 ---
-firstname: Julien
-lastname: Racine
+fullname: Julien Racine
 role: Développeur full-stack
 missions:
   - start: '2016-10-01'

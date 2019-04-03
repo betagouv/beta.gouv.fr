@@ -1,6 +1,5 @@
 ---
-firstname: François-Joseph
-lastname: Grimault
+fullname: François-Joseph Grimault
 role: Coach
 missions:
   - start: '2017-10-01'

@@ -1,6 +1,5 @@
 ---
-firstname: Aryana
-lastname: Pezé
+fullname: Aryana Pezé
 role: Développeuse full-stack
 github: AryanaP
 missions:

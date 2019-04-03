@@ -1,6 +1,5 @@
 ---
-firstname: Clément
-lastname: Chapalain
+fullname: Clément Chapalain
 role: Coach
 github: ClementChapalain
 missions:

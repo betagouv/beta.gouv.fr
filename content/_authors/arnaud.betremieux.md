@@ -1,6 +1,5 @@
 ---
-firstname: Arnaud
-lastname: Bétrémieux
+fullname: Arnaud Bétrémieux
 role: Développeur
 avatar: https://avatars2.githubusercontent.com/u/185428?s=460&v=4
 missions:

@@ -1,6 +1,5 @@
 ---
-firstname: Rédouane
-lastname: Bouchane
+fullname: Rédouane Bouchane
 role: Chargé de développement
 link:
 github: Red1bush

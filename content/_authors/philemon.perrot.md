@@ -1,6 +1,5 @@
 ---
-firstname: Philémon
-lastname: Perrot
+fullname: Philémon Perrot
 role:  Chargé de développement
 github: philemon95
 missions:

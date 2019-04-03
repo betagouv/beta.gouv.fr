@@ -1,6 +1,5 @@
 ---
-firstname: Arnaud
-lastname: Kleinpeter
+fullname: Arnaud Kleinpeter
 role: Développeur
 missions:
   - start: '2014-06-18'

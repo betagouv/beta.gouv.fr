@@ -1,6 +1,5 @@
 ---
-firstname: Eytan
-lastname: Taieb
+fullname: Eytan Taieb
 role: Développeur
 missions:
   - start: '2016-01-18'

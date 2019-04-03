@@ -1,6 +1,5 @@
 ---
-firstname: Elise
-lastname: Levy
+fullname: Elise Levy
 role: Responsable de produit junior
 missions:
   - start: '2017-03-06'

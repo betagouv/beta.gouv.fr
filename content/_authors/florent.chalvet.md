@@ -1,6 +1,5 @@
 ---
-firstname: Florent
-lastname: Chalvet
+fullname: Florent Chalvet
 role: Développeur
 missions:
   - start: '2019-03-01'

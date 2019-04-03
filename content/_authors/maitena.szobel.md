@@ -1,6 +1,5 @@
 ---
-firstname: Maïtena
-lastname: Skzobel
+fullname: Maïtena Skzobel
 role: Développement commercial
 github:
 missions:

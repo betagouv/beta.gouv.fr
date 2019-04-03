@@ -1,6 +1,5 @@
 ---
-firstname: Chaker
-lastname: Bejaoui
+fullname: Chaker Bejaoui
 role: coach
 avatar: https://image.ibb.co/jJrbSd/CB.png
 missions:

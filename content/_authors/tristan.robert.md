@@ -1,6 +1,5 @@
 ---
-firstname: Tristan
-lastname: Robert
+fullname: Tristan Robert
 role: Développeur
 github: tristanrobert
 missions:

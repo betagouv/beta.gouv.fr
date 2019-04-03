@@ -1,6 +1,5 @@
 ---
-firstname: Agathe
-lastname: le Nahenec
+fullname: Agathe le Nahenec
 role: Responsable de produit
 missions:
   - start: '2015-06-01'

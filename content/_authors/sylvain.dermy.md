@@ -1,6 +1,5 @@
 ---
-firstname: Sylvain
-lastname: Dermy
+fullname: Sylvain Dermy
 role: Community Manager
 missions:
   - start: '2017-02-01'

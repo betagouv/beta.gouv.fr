@@ -1,6 +1,5 @@
 ---
-firstname: Allison
-lastname: Chanat
+fullname: Allison Chanat
 role: Chargée de développement
 missions:
   - start: '2016-11-01'

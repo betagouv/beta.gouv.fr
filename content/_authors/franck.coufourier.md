@@ -1,6 +1,5 @@
 ---
-firstname: Franck
-lastname: Coufourier
+fullname: Franck Coufourier
 role: Développeur
 github: fcoufour
 missions:

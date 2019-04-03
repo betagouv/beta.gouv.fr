@@ -1,6 +1,5 @@
 ---
-firstname: Stéphane
-lastname: Legouffe
+fullname: Stéphane Legouffe
 role: Développeur
 link: https://wawy.io
 github: slegouffe

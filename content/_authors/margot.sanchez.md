@@ -1,6 +1,5 @@
 ---
-firstname: Margot
-lastname: Sanchez
+fullname: Margot Sanchez
 role: Cheffe de produit
 missions:
   - start: '2018-06-04'

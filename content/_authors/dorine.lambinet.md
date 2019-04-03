@@ -1,6 +1,5 @@
 ---
-firstname: Dorine
-lastname: Lambinet
+fullname: Dorine Lambinet
 role: Designere
 github: DorineLam
 missions:

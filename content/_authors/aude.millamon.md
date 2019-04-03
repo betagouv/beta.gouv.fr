@@ -1,6 +1,5 @@
 ---
-firstname: Aude
-lastname: Millamon
+fullname: Aude Millamon
 role: Intrapreneuse
 missions:
   - start: '2018-01-01'

@@ -1,9 +1,6 @@
 type:       map
 mapping:
-  "firstname":
-    type:      str
-    required:  yes
-  "lastname":
+  "fullname":
     type:      str
     required:  yes
   "role":

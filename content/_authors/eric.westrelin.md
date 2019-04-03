@@ -1,6 +1,5 @@
 ---
-firstname: Eric
-lastname: Westrelin
+fullname: Eric Westrelin
 role: Développeur
 github: ericwes
 missions:

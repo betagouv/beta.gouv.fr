@@ -1,6 +1,5 @@
 ---
-firstname: Ivan
-lastname: Collombet
+fullname: Ivan Collombet
 role: Mentor
 missions:
   - start: '2017-01-01'

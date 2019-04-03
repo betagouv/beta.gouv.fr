@@ -1,6 +1,5 @@
 ---
-firstname: Julien
-lastname: Dreher
+fullname: Julien Dreher
 role: Coach
 link: https://www.linkedin.com/in/julien-dreher-a81a5010/
 missions:

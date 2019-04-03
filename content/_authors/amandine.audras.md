@@ -1,6 +1,5 @@
 ---
-firstname: Amandine
-lastname: Audras
+fullname: Amandine Audras
 role: UX Designer
 link: https://renardpal.com
 github: renardpal

@@ -1,6 +1,5 @@
 ---
-firstname: Sylvie
-lastname: Lebel
+fullname: Sylvie Lebel
 role: Intrapreneuse
 avatar: https://avatars1.githubusercontent.com/u/38952269?s=460&v=4
 missions:

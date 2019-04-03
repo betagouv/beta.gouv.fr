@@ -1,6 +1,5 @@
 ---
-firstname: Hubert
-lastname: Leveque
+fullname: Hubert Leveque
 role: Intrapreneur
 avatar:
 link:

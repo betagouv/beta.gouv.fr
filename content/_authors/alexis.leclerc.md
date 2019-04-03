@@ -1,6 +1,5 @@
 ---
-firstname: Alexis
-lastname: Leclerc
+fullname: Alexis Leclerc
 role: Développeur
 missions:
   - start: '2017-03-01'

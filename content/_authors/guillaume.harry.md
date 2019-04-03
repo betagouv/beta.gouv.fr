@@ -1,6 +1,5 @@
 ---
-firstname: Guillaume
-lastname: Harry
+fullname: Guillaume Harry
 role: Responsable de produit
 link: https://www.linkedin.com/in/guillaume-harry-32885637/
 missions:

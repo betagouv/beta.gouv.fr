@@ -1,6 +1,5 @@
 ---
-firstname: Adrien
-lastname: Gonzalez
+fullname: Adrien Gonzalez
 role: Développeur
 link:
 missions:

@@ -1,6 +1,5 @@
 ---
-firstname: Thibaut
-lastname: Sailly
+fullname: Thibaut Sailly
 role: Designer
 link: https://tsailly.net
 github: thibautsailly

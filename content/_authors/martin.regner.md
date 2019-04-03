@@ -1,6 +1,5 @@
 ---
-firstname: Martin
-lastname: Régner
+fullname: Martin Régner
 role: Intrapreneur
 missions:
   - start: '2019-01-10'

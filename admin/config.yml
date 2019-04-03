@@ -24,32 +24,27 @@ show_preview_links: false
 slug:
   encoding: "ascii"
   clean_accents: true
-  sanitize_replacement: "_"
+  sanitize_replacement: "."
 
 # Editorial workflow: validate changes through pull requests
 publish_mode: editorial_workflow
 
 collections:
   - name: "authors"
-    summary: "{{firstname}} {{lastname}}"
+    identifier_field: fullname
     label: "Members"
     label_singular: "Member"
     description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, direction \"New Member\" !"
     folder: "content/_authors"
     create: true
     delete: false
-    slug: "{{firstname}}.{{lastname}}"
+    slug: "{{slug}}"
     editor:
       preview: false
     fields:
-      - label: "Prénom"
-        hint: "Ton nom complet est utilisé pour le nom de ta fiche. Attention à ton orthographe !"
-        name: "firstname"
-        widget: "string"
-
-      - label: "Nom de famille"
-        hint: "Ton nom complet est utilisé pour le nom de ta fiche. Attention à ton orthographe !"
-        name: "lastname"
+      - label: "Nom complet"
+        hint: "Format : Prénom Nom. Ton nom complet est utilisé pour le nom de ta fiche. Attention à ton orthographe !"
+        name: "fullname"
         widget: "string"
 
       - label: "Rôle"

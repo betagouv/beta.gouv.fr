@@ -1,6 +1,5 @@
 ---
-firstname: Charlotte
-lastname: Lecuit
+fullname: Charlotte Lecuit
 role: Chargé de déploiement
 missions:
   - start: '2018-05-14'

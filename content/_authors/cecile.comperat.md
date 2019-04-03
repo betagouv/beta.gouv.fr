@@ -1,6 +1,5 @@
 ---
-firstname: Cécile
-lastname: Compérat
+fullname: Cécile Compérat
 role: Chargée de développement territorial Hérault
 github: ccompera
 missions:

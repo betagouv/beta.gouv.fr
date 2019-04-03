@@ -22,7 +22,7 @@
       {% capture to_append %}
       <div class="article__author panel inactive">
         <div class="article__author-info">
-            <div class="article__author-name">{{ people.firstname }} {{ people.lastname }}</div>
+            <div class="article__author-name">{{ people.fullname }}</div>
             <div class="article__author-role">{{ people.role }}</div>
         </div>
           {% include avatar.html author=people %}
@@ -41,7 +41,7 @@
   {% capture to_append %}
   <div class="article__author panel">
     <div class="article__author-info">
-        <div class="article__author-name">{{ people.firstname }} {{ people.lastname }}</div>
+        <div class="article__author-name">{{ people.fullname }}</div>
         <div class="article__author-role">{{ people.role }}</div>
     </div>
       {% include avatar.html author=people %}
@@ -61,7 +61,7 @@
   {% capture to_append %}
   <div class="article__author panel inactive">
     <div class="article__author-info">
-        <div class="article__author-name">{{ people.firstname }} {{ people.lastname }}</div>
+        <div class="article__author-name">{{ people.fullname }}</div>
         <div class="article__author-role">{{ people.role }}</div>
     </div>
       {% include avatar.html author=people %}

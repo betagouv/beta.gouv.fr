@@ -1,6 +1,5 @@
 ---
-firstname: James
-lastname: Pic
+fullname: James Pic
 role: Développeur full-stack
 missions:
   - start: '2017-11-30'

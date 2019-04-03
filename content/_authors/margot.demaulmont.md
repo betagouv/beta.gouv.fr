@@ -1,6 +1,5 @@
 ---
-firstname: Margot
-lastname: de Maulmont
+fullname: Margot de Maulmont
 role: Chargée de développement stagiaire
 avatar: https://avatars3.githubusercontent.com/MargotDem?s=600
 missions:

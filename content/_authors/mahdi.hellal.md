@@ -1,6 +1,5 @@
 ---
-firstname: Mahdi
-lastname: Hellal
+fullname: Mahdi Hellal
 role: Développeur
 github: maydon
 missions:

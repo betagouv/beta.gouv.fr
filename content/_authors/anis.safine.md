@@ -1,6 +1,5 @@
 ---
-firstname: Anis
-lastname: Safine
+fullname: Anis Safine
 role: Développeur
 github: anis
 missions:

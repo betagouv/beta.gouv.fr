@@ -1,6 +1,5 @@
 ---
-firstname: Camille
-lastname: Garrigue
+fullname: Camille Garrigue
 role: Chargée de développement
 avatar: https://avatars3.githubusercontent.com/CamilleGarrigue?s=600
 missions:

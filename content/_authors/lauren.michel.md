@@ -1,6 +1,5 @@
 ---
-firstname: Lauren
-lastname: Michel
+fullname: Lauren Michel
 role: Intrapreneuse
 missions:
   - start: '2016-04-01'

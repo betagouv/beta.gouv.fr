@@ -1,6 +1,5 @@
 ---
-firstname: Jérémie
-lastname: Cook
+fullname: Jérémie Cook
 role: UX Designer
 avatar:
 link: https://jeremiecook.com

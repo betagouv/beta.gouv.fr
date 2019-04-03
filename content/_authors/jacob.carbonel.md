@@ -1,6 +1,5 @@
 ---
-firstname: Jacob
-lastname: Carbonel
+fullname: Jacob Carbonel
 role: Intrapreneur
 missions:
   - start: '2018-01-01'

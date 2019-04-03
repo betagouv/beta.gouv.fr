@@ -1,6 +1,5 @@
 ---
-firstname: Elodie
-lastname: Vaneecke
+fullname: Elodie Vaneecke
 role: Intrapreneuse
 missions:
   - start: '2018-01-01'

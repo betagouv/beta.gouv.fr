@@ -1,6 +1,5 @@
 ---
-firstname: Thomas
-lastname: Guillet
+fullname: Thomas Guillet
 role: Développeur
 missions:
   - start: '2017-03-06'

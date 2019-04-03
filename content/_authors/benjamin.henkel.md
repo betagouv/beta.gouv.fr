@@ -1,6 +1,5 @@
 ---
-firstname: Benjamin
-lastname: Henkel
+fullname: Benjamin Henkel
 role: Chargé de développement
 missions:
   - start: '2017-06-01'

@@ -1,6 +1,5 @@
 ---
-firstname: Léa
-lastname: Guzzo
+fullname: Léa Guzzo
 role: Chargée de développement territorial Bas-Rhin
 avatar : https://i.imgur.com/3zLuMBw.jpg
 missions:

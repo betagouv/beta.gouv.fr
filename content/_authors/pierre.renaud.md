@@ -1,6 +1,5 @@
 ---
-firstname: Pierre
-lastname: Renaud
+fullname: Pierre Renaud
 role: Chargé de développement territorial Hérault
 avatar : https://i.imgur.com/y97G4zW.jpg
 missions:

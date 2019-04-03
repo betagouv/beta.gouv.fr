@@ -1,6 +1,5 @@
 ---
-firstname: Anne-Marie
-lastname: Esteves
+fullname: Anne-Marie Esteves
 role: Développeuse
 missions:
   - start: '2016-06-16'

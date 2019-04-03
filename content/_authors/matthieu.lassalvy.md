@@ -1,6 +1,5 @@
 ---
-firstname: Matthieu
-lastname: Lassalvy
+fullname: Matthieu Lassalvy
 role: Développeur
 avatar: https://image.ibb.co/mzTRkS/Sans_titre.png
 github: sixertoy

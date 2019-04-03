@@ -1,6 +1,5 @@
 ---
-firstname: Maxime
-lastname: Devallez
+fullname: Maxime Devallez
 role: Développeur
 missions:
   - start: '2018-03-01'

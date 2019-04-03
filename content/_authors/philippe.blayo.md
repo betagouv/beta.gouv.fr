@@ -1,6 +1,5 @@
 ---
-firstname: Philippe
-lastname: Blayo
+fullname: Philippe Blayo
 role: Développeur
 missions:
   - start: '2017-11-09'

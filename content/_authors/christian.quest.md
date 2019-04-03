@@ -1,6 +1,5 @@
 ---
-firstname: Christian
-lastname: Quest
+fullname: Christian Quest
 role: Responsable de produit
 missions:
   - start: '2014-09-01'

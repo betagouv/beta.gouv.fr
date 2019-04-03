@@ -1,6 +1,5 @@
 ---
-firstname: Léry
-lastname: Jicquel
+fullname: Léry Jicquel
 role: Intrapreneur
 github: LeryJ
 missions:

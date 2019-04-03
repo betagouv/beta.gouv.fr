@@ -1,6 +1,5 @@
 ---
-firstname: Nicolas
-lastname: Fournier
+fullname: Nicolas Fournier
 role: Product Owner
 github: nfournier
 missions:

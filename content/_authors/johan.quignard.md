@@ -1,6 +1,5 @@
 ---
-firstname: Johan
-lastname: Quignard
+fullname: Johan Quignard
 role: Business Developer
 github: Johan1983
 missions:

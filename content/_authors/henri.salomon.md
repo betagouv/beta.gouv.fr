@@ -1,6 +1,5 @@
 ---
-firstname: Henri
-lastname: Salomon
+fullname: Henri Salomon
 role: Chargé de déploiement
 github: henrisalomon
 missions:

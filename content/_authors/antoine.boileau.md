@@ -1,6 +1,5 @@
 ---
-firstname: Antoine
-lastname: Boileau
+fullname: Antoine Boileau
 role: Développeur
 missions:
   - start: '2017-04-03'

@@ -1,6 +1,5 @@
 ---
-firstname: Emmanuel
-lastname: Flahaut
+fullname: Emmanuel Flahaut
 role: Intrapreneur
 avatar: https://image.noelshack.com/fichiers/2018/40/1/1538399322-emmanuel.png
 missions:

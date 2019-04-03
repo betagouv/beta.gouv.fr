@@ -1,6 +1,5 @@
 ---
-firstname: Clemence
-lastname: Leurent
+fullname: Clemence Leurent
 role: Chargée de développement
 github: clemenceleurent
 missions:

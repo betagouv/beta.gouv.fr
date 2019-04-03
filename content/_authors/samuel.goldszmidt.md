@@ -1,6 +1,5 @@
 ---
-firstname: Samuel
-lastname: Goldszmidt
+fullname: Samuel Goldszmidt
 role: Gentil organisateur
 missions:
   - start: '2018-01-08'

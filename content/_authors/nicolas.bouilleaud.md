@@ -1,6 +1,5 @@
 ---
-firstname: Nicolas
-lastname: Bouilleaud
+fullname: Nicolas Bouilleaud
 role: Développeur
 missions:
   - start: '2018-04-09'

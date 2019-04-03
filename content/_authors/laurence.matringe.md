@@ -1,6 +1,5 @@
 ---
-firstname: Laurence
-lastname: Matringe
+fullname: Laurence Matringe
 role: Intrapreneuse
 missions:
   - start: '2017-07-15'

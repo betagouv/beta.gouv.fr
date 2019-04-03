@@ -1,6 +1,5 @@
 ---
-firstname: Magali
-lastname: Marcel
+fullname: Magali Marcel
 role: Intrapreneuse
 link:
 missions:

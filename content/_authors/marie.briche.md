@@ -1,6 +1,5 @@
 ---
-firstname: Marie
-lastname: Briche
+fullname: Marie Briche
 role: Intrapreneuse
 missions:
   - start: '2017-05-01'

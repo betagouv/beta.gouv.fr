@@ -1,6 +1,5 @@
 ---
-firstname: Lucie-Anna
-lastname: Oddon
+fullname: Lucie-Anna Oddon
 role: Chargé de déploiement
 missions:
   - start: '2018-05-17'

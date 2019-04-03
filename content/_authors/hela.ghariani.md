@@ -1,6 +1,5 @@
 ---
-firstname: Hela
-lastname: Ghariani
+fullname: Hela Ghariani
 role: Responsable de produit
 missions:
   - start: '2014-11-01'

@@ -1,6 +1,5 @@
 ---
-firstname: Bertrand
-lastname: Marron
+fullname: Bertrand Marron
 role: Développeur
 missions:
   - start: '2017-07-10'

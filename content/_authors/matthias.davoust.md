@@ -1,6 +1,5 @@
 ---
-firstname: Matthias
-lastname: Davoust
+fullname: Matthias Davoust
 role: Biz dev
 missions:
   - start: '2018-02-01'

@@ -1,6 +1,5 @@
 ---
-firstname: Tommy
-lastname: Jarnac
+fullname: Tommy Jarnac
 role: Développeur
 missions:
   - start: '2015-04-01'

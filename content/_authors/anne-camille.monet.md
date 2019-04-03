@@ -1,6 +1,5 @@
 ---
-firstname: Anne-Camille
-lastname: Monet
+fullname: Anne-Camille Monet
 role: Intrapreneuse
 missions:
   - start: '2017-04-01'

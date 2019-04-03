@@ -1,6 +1,5 @@
 ---
-firstname: Marine
-lastname: Crespel
+fullname: Marine Crespel
 role: Designer UI / UX
 avatar: https://fr.gravatar.com/userimage/31364701/8753dea2fd715af95068c0f0f6a673fe.jpeg?size=512
 link: http://marinecrespel.fr/

@@ -1,6 +1,5 @@
 ---
-firstname: Sofía
-lastname: Calcagno
+fullname: Sofía Calcagno
 github: sofcalca
 role: Développeur / Data Scientist
 missions:

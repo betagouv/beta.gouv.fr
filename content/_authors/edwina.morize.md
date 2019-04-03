@@ -1,6 +1,5 @@
 ---
-firstname: Edwina
-lastname: Morize
+fullname: Edwina Morize
 role: Intrapreneuse
 avatar: https://i.ibb.co/1mLK3Q1/edwina.jpg
 missions:

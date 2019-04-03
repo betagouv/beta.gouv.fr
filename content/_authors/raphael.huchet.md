@@ -1,6 +1,5 @@
 ---
-firstname: Raphaël
-lastname: Huchet
+fullname: Raphaël Huchet
 role: Développeur
 link: https://raph.site
 github: rap2hpoutre

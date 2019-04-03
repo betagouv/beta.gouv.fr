@@ -1,6 +1,5 @@
 ---
-firstname: Régis
-lastname: Behmo
+fullname: Régis Behmo
 role: Développeur full-stack senior / Data trucs
 missions:
   - start: '2017-10-05'

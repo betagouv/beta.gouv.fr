@@ -1,6 +1,5 @@
 ---
-firstname: Xavier
-lastname: Nopre
+fullname: Xavier Nopre
 role: Développeur
 missions:
   - start: '2015-10-01'

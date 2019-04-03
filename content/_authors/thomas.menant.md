@@ -1,6 +1,5 @@
 ---
-firstname: Thomas
-lastname: Menant
+fullname: Thomas Menant
 role: Expertise juridique
 missions:
   - start: '2014-01-01'

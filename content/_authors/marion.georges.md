@@ -1,6 +1,5 @@
 ---
-firstname: Marion
-lastname: Georges
+fullname: Marion Georges
 role: Ergonome
 missions:
   - start: '2018-03-27'

@@ -1,6 +1,5 @@
 ---
-firstname: Thomas
-lastname: Pepio
+fullname: Thomas Pepio
 role: DevOps
 missions:
   - start: '2017-07-11'

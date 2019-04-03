@@ -1,6 +1,5 @@
 ---
-firstname: Roxane
-lastname: Schultz
+fullname: Roxane Schultz
 role: Coach
 link: https://twitter.com/smarterimpact?lang=en
 missions:

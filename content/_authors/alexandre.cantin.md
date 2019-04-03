@@ -1,6 +1,5 @@
 ---
-firstname: Alexandre
-lastname: Cantin
+fullname: Alexandre Cantin
 role: Développeur
 missions:
   - start: '2017-09-18'

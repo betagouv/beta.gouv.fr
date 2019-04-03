@@ -1,6 +1,5 @@
 ---
-firstname: Tanguy
-lastname: Patte
+fullname: Tanguy Patte
 role: Développeur
 missions:
   - start: '2014-06-01'

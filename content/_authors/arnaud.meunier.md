@@ -1,6 +1,5 @@
 ---
-firstname: Arnaud
-lastname: Meunier
+fullname: Arnaud Meunier
 role: Coach
 github: arnaudmeunier
 missions:

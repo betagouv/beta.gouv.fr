@@ -1,6 +1,5 @@
 ---
-firstname: Pascal
-lastname: Knoth
+fullname: Pascal Knoth
 role: awesome dev
 avatar: https://avatars3.githubusercontent.com/pknoth?s=600
 link:

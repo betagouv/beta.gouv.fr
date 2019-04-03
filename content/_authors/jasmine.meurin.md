@@ -1,6 +1,5 @@
 ---
-firstname: Jasmine
-lastname: Meurin
+fullname: Jasmine Meurin
 role: Intrapreneur
 missions:
   - start: '2017-12-01'

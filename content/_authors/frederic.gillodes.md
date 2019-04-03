@@ -1,6 +1,5 @@
 ---
-firstname: Frédéric
-lastname: Gillodes
+fullname: Frédéric Gillodes
 role: Intrapreneur
 missions:
   - start: '2018-03-01'

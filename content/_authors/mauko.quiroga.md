@@ -1,6 +1,5 @@
 ---
-firstname: Mauko
-lastname: Quiroga
+fullname: Mauko Quiroga
 role: Sorcier
 link: http://mauko.me/
 missions:

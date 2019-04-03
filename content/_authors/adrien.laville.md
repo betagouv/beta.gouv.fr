@@ -1,6 +1,5 @@
 ---
-firstname: Adrien
-lastname: Laville
+fullname: Adrien Laville
 role: Coach
 avatar: https://i.goopics.net/dpgnJ.jpg
 missions:

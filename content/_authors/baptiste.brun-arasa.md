@@ -1,6 +1,5 @@
 ---
-firstname: Baptiste
-lastname: Brun-Arasa
+fullname: Baptiste Brun-Arasa
 role: Développeur
 avatar:
 github: BaptisteB-A

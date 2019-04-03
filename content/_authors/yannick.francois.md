@@ -1,6 +1,5 @@
 ---
-firstname: Yannick
-lastname: François
+fullname: Yannick François
 role: Développeur
 link: https://elsif.fr
 github: yaf

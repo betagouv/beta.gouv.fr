@@ -1,6 +1,5 @@
 ---
-firstname: Laurent
-lastname: Bossavit
+fullname: Laurent Bossavit
 role: Coach
 missions:
   - start: '2016-03-01'

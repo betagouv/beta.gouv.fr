@@ -1,6 +1,5 @@
 ---
-firstname: Nabil
-lastname: Servais
+fullname: Nabil Servais
 role: Développeur
 missions:
   - start: '2014-11-03'

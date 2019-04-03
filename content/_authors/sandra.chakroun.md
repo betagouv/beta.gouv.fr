@@ -1,6 +1,5 @@
 ---
-firstname: Sandra
-lastname: Chakroun
+fullname: Sandra Chakroun
 role: Développeuse
 missions:
   - start: '2017-05-10'

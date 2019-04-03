@@ -1,6 +1,5 @@
 ---
-firstname: Jonathan
-lastname: Redt Gensinger
+fullname: Jonathan Redt Gensinger
 role: Intrapreneur
 missions:
   - start: '2017-09-28'

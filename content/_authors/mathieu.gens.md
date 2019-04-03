@@ -1,6 +1,5 @@
 ---
-firstname: Mathieu
-lastname: Gens
+fullname: Mathieu Gens
 role: Intrapreneur
 missions:
   - start: '2017-10-16'

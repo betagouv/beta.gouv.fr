@@ -1,6 +1,5 @@
 ---
-firstname: Michel
-lastname: Blancard
+fullname: Michel Blancard
 role: Data scientist
 link: https://www.linkedin.com/in/mblancard/
 missions:

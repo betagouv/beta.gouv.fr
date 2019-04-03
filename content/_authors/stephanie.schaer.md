@@ -1,6 +1,5 @@
 ---
-firstname: Stéphanie
-lastname: Schaer
+fullname: Stéphanie Schaer
 role: Intrapreneuse
 missions:
   - start: '2016-04-01'

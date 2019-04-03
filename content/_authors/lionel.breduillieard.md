@@ -1,6 +1,5 @@
 ---
-firstname: Lionel
-lastname: Breduillieard
+fullname: Lionel Breduillieard
 role: Développeur
 link: http://lumographe.fr
 github: lionelb

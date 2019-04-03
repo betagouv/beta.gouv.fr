@@ -1,6 +1,5 @@
 ---
-firstname: Simon
-lastname: Pineau
+fullname: Simon Pineau
 role: Chargé de développement
 github: simonpineau
 missions:

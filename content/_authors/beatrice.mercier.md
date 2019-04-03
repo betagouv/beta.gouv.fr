@@ -1,6 +1,5 @@
 ---
-firstname: Beatrice
-lastname: Mercier
+fullname: Beatrice Mercier
 role: Chargée de deploiement
 github: be-mercier
 missions:

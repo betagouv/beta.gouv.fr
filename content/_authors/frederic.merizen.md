@@ -1,6 +1,5 @@
 ---
-firstname: Frederic
-lastname: Merizen
+fullname: Frederic Merizen
 role: Développeur
 missions:
   - start: '2017-12-12'

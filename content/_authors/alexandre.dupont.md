@@ -1,6 +1,5 @@
 ---
-firstname: Alexandre
-lastname: Dupont
+fullname: Alexandre Dupont
 role: Intrapreneur
 avatar: https://image.ibb.co/bw5qB6/Alex_dupont.png
 missions:

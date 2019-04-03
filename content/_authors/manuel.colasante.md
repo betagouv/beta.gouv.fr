@@ -1,6 +1,5 @@
 ---
-firstname: Manuel
-lastname: Colasante
+fullname: Manuel Colasante
 role: Developper
 avatar: https://avatars3.githubusercontent.com/u/705453?s=400&v=4
 missions:

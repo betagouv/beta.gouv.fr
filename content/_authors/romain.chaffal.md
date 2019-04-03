@@ -1,6 +1,5 @@
 ---
-firstname: Romain
-lastname: Chaffal
+fullname: Romain Chaffal
 role: Chargé de développement
 missions:
   - start: '2018-04-05'

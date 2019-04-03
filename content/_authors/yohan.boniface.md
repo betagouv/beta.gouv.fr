@@ -1,6 +1,5 @@
 ---
-firstname: Yohan
-lastname: Boniface
+fullname: Yohan Boniface
 role: Développeur
 missions:
   - start: '2014-11-01'
