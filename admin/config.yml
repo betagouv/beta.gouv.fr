@@ -38,7 +38,7 @@ collections:
     folder: "content/_authors"
     create: true
     delete: false
-    slug: "{{uid}}"
+    slug: "{{slug}}"
     editor:
       preview: false
     fields:
