@@ -22,17 +22,16 @@ display_url: https://beta.gouv.fr
 show_preview_links: false
 
 slug:
-  encoding: "unicode"
+  encoding: "ascii"
   clean_accents: true
-  sanitize_replacement: "_"
+  sanitize_replacement: "."
 
 # Editorial workflow: validate changes through pull requests
 publish_mode: editorial_workflow
 
 collections:
   - name: "authors"
-    identifier_field: uid
-    summary: fullname
+    identifier_field: fullname
     label: "Members"
     label_singular: "Member"
     description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, direction \"New Member\" !"
@@ -46,11 +45,6 @@ collections:
       - label: "Nom complet (Prénom Nom)"
         hint: "Attention à ton orthographe !"
         name: "fullname"
-        widget: "string"
-
-      - label: "Identifiant unique"
-        hint: "Il s'agit du début de ton adresse mail, prenom.nom . Les espaces sont à remplacer par des _ et les accents sont à supprimer : camille.dupont, emilie.de_paris, jean-edouard.d'artagnan..."
-        name: "uid"
         widget: "string"
 
       - label: "Rôle"
