@@ -31,7 +31,7 @@ publish_mode: editorial_workflow
 
 collections:
   - name: "authors"
-    summary: "{{firstname}} {{lastname}}"
+    summary: "{{slug}}"
     label: "Members"
     label_singular: "Member"
     description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, direction \"New Member\" !"
