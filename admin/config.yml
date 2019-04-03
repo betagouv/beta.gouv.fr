@@ -22,7 +22,7 @@ display_url: https://beta.gouv.fr
 show_preview_links: false
 
 slug:
-  encoding: "ascii"
+  encoding: "unicode"
   clean_accents: true
   sanitize_replacement: "_"
 
