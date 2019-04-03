@@ -39,7 +39,7 @@ collections:
     folder: "content/_authors"
     create: true
     delete: false
-    slug: "{{firstname}}.{{slug}}"
+    slug: "{{firstname}}\.{{slug}}"
     editor:
       preview: false
     fields:
