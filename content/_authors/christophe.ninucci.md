@@ -1,5 +1,6 @@
 ---
-fullname: Christophe Ninucci
+firstname: Christophe
+lastname: Ninucci
 role: Entrepreneur d'intérêt général
 avatar: /img/authors/christophe.ninucci.jpg
 missions:

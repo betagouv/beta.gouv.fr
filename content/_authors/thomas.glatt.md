@@ -1,5 +1,6 @@
 ---
-fullname: Thomas Glatt
+firstname: Thomas
+lastname: Glatt
 role: Développeur
 github: tglatt
 missions:

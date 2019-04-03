@@ -1,5 +1,6 @@
 ---
-fullname: Paul Emptaz
+firstname: Paul
+lastname: Emptaz
 role: Équipe projet
 missions:
   - start: '2018-09-01'

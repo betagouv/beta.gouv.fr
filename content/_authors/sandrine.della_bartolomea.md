@@ -1,5 +1,6 @@
 ---
-fullname: Sandrine Della Bartolomea
+firstname: Sandrine
+lastname: Della Bartolomea
 role: Intrapreneuse
 github: SandrineDB
 missions:

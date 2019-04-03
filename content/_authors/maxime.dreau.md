@@ -1,5 +1,6 @@
 ---
-fullname: Maxime Dréau
+firstname: Maxime
+lastname: Dréau
 role: Développeur
 avatar: https://i.goopics.net/pZwkP.jpg
 missions:

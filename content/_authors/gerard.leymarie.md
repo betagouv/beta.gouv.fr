@@ -1,5 +1,6 @@
 ---
-fullname: Gérard Leymarie
+firstname: Gérard
+lastname: Leymarie
 role: Responsable de produit
 missions:
   - start: '2017-05-04'

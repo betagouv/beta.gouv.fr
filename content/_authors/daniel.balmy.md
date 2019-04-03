@@ -1,9 +1,10 @@
 ---
-fullname: Daniel Balmy
+firstname: Daniel
+lastname: Balmy
 role: Intrapreneur
 missions:
   - start: '2017-09-28'
-    end: '2019-03-31'
+    end: '2019-06-30'
     status: admin
     employer: affaires-sociales
 startups:

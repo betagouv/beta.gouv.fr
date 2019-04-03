@@ -1,5 +1,6 @@
 ---
-fullname: Philippe Vrignaud
+firstname: Philippe
+lastname: Vrignaud
 role: Intrapreneur
 missions:
   - start: '2014-01-01'

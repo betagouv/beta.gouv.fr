@@ -1,5 +1,6 @@
 ---
-fullname: Vincent Caillaux
+firstname: Vincent
+lastname: Caillaux
 role: Chargé de développement territorial Seine-Saint-Denis
 avatar : https://i.imgur.com/NryIlYi.jpg
 missions:

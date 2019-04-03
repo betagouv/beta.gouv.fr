@@ -1,5 +1,6 @@
 ---
-fullname: Jérémy Buget
+firstname: Jérémy
+lastname: Buget
 role: CTO
 missions:
   - start: '2016-06-08'

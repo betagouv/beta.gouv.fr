@@ -1,5 +1,6 @@
 ---
-fullname: Brice Friederich
+firstname: Brice
+lastname: Friederich
 role: Développeur
 github: bfriederich
 missions:

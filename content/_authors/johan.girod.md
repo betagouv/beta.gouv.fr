@@ -1,5 +1,6 @@
 ---
-fullname: Johan Girod
+firstname: Johan
+lastname: Girod
 role: Développeur
 link: https://johangirod.com
 github: johangirod

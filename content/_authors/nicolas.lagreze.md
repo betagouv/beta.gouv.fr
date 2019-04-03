@@ -1,5 +1,6 @@
 ---
-fullname: Nicolas Lagrèze
+firstname: Nicolas
+lastname: Lagrèze
 role: Coach
 link: https://www.linkedin.com/in/nlagreze/
 github: nlagreze

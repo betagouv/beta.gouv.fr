@@ -1,5 +1,6 @@
 ---
-fullname: Quentin Cattez
+firstname: Quentin
+lastname: Cattez
 role: Développeur
 missions:
   - start: '2017-03-06'

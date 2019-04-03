@@ -1,5 +1,6 @@
 ---
-fullname: Christophe Bonraisin
+firstname: Christophe
+lastname: Bonraisin
 role: Intrapreneur
 missions:
   - start: '2015-05-01'

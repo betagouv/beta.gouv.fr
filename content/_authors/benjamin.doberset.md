@@ -1,5 +1,6 @@
 ---
-fullname: Benjamin Doberset
+firstname: Benjamin
+lastname: Doberset
 role: Chargé de développement
 avatar: https://avatars3.githubusercontent.com/Benjamin-Doberset?s=600
 missions:

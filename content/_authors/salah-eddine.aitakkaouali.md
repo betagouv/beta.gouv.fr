@@ -1,5 +1,6 @@
 ---
-fullname: Salah-Eddine Aitakkaouali
+firstname: Salah-Eddine
+lastname: Aitakkaouali
 role: Business Developer
 avatar: https://i.goopics.net/n0Zgl.jpeg
 missions:

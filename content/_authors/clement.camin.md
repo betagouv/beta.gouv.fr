@@ -1,5 +1,6 @@
 ---
-fullname: Clément Camin
+firstname: Clément
+lastname: Camin
 role: Développeur
 link: https://blog.keiruaprod.fr
 github: keirua

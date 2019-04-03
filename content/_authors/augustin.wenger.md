@@ -1,5 +1,6 @@
 ---
-fullname: Augustin Wenger
+firstname: Augustin
+lastname: Wenger
 role: Développeur
 link:
 github: magemax

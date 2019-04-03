@@ -1,5 +1,6 @@
 ---
-fullname: Amélie Metaldi
+firstname: Amélie
+lastname: Metaldi
 role: Sociologue
 missions:
   - start: '2018-07-01'

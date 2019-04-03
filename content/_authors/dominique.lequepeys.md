@@ -1,5 +1,6 @@
 ---
-fullname: Dominique Lequepeys
+firstname: Dominique
+lastname: Lequepeys
 role: Coach
 missions:
   - start: '2017-09-18'

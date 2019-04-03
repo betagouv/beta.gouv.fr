@@ -1,5 +1,6 @@
 ---
-fullname: Stéphane Raimbault
+firstname: Stéphane
+lastname: Raimbault
 role: Développeur
 link: https://webstack.fr
 github: stephane

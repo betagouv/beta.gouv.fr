@@ -1,5 +1,6 @@
 ---
-fullname: Saniya Al Saadi
+firstname: Saniya
+lastname: Al Saadi
 role: Designer
 avatar: https://i.goopics.net/rbAWD.png
 missions:

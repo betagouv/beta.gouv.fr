@@ -1,5 +1,6 @@
 ---
-fullname: Gaelle Rousseau
+firstname: Gaelle
+lastname: Rousseau
 role: Intrapreneuse
 missions:
   - start: '2018-11-06'

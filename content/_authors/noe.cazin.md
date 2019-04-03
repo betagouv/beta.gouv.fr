@@ -1,5 +1,6 @@
 ---
-fullname: Noé Cazin
+firstname: Noé
+lastname: Cazin
 role: Ingénieur pédagogique multimedia
 missions:
   - start: '2018-07-01'

@@ -1,5 +1,6 @@
 ---
-fullname: Adrien Saunier
+firstname: Adrien
+lastname: Saunier
 role: Développeur
 missions:
   - start: '2017-04-01'

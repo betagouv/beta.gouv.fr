@@ -1,5 +1,7 @@
 ---
-fullname: Camille Dupont # penser à modifier le nom du fichier ci-dessus en prenom.nom.md !
+firstname: Camille
+lastname: Dupont
+# penser à modifier le nom du fichier ci-dessus en firstname.lastname.md !
 role: Smartass # Développeu·r·se / Intrapreneu·r·se / Coach / Chargé de développement / ...
 github: pseudo_github # optionnel : nom d'utilisateur GitHub, permet d'être ajouté automatiquement à l'organisation GitHub betagouv
 avatar: # optionnel, voir ci-dessous

@@ -1,5 +1,6 @@
 ---
-fullname: Eric Barthélémy
+firstname: Eric
+lastname: Barthélémy
 role: Intrapreneur
 missions:
   - start: '2015-05-01'

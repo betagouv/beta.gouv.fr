@@ -1,5 +1,6 @@
 ---
-fullname: Maïtané Lenoir
+firstname: Maïtané
+lastname: Lenoir
 role: Designer
 avatar: https://avatars3.githubusercontent.com/maiwann?s=600
 link: http://www.maiwann.net/

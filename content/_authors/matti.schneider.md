@@ -1,5 +1,6 @@
 ---
-fullname: Matti Schneider
+firstname: Matti
+lastname: Schneider
 role: Permanent
 avatar: https://gravatar.com/avatar/81ee62724136cc42065a0af37aa0edc1.jpg?s=512
 link: https://mattischneider.fr

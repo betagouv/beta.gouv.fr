@@ -1,5 +1,6 @@
 ---
-fullname: Laurene Taravella
+firstname: Laurene
+lastname: Taravella
 role: Chargée de développement territorial Bas-Rhin
 avatar : https://avatars1.githubusercontent.com/u/37693384?s=514&v=4
 missions:

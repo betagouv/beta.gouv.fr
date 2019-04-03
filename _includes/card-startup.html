@@ -53,20 +53,20 @@
         {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
         {% capture timestampEnd %}{{ people.missions.last.end | date: '%s' }}{% endcapture %}
         {% if timestampNow > timestampEnd %}
-          {% capture to_append %}<div class="label label--inactive">{{ people.fullname }}</div>{% endcapture %}
+          {% capture to_append %}<div class="label label--inactive">{{ people.firstname }} {{ people.lastname }}</div>{% endcapture %}
           {% assign current_inactive_team = current_inactive_team | append: to_append %}
           {% continue %}
         {% endif %}
       {% endif %}
       {% comment %}<!-- On passe aux actifs de la communauté et de la startup -->{% endcomment %}
-      {% capture to_append %}<div class="label label--active">{{ people.fullname }}</div>{% endcapture %}
+      {% capture to_append %}<div class="label label--active">{{ people.firstname }} {{ people.lastname }}</div>{% endcapture %}
       {% assign current_team = current_team | append: to_append %}
     {% endfor %}
 
     {% comment %}<!-- Maintenant, on passe à tous ceux qui se sont déclarés inactifs spontanément -->{% endcomment %}
     {% assign team = site.authors | where:"previously", startup_id %}
     {% for people in team %}
-      {% capture to_append %}<div class="label label--inactive">{{ people.fullname }}</div>{% endcapture %}
+      {% capture to_append %}<div class="label label--inactive">{{ people.firstname }} {{ people.lastname }}</div>{% endcapture %}
       {% assign past_team = past_team | append: to_append %}
     {% endfor %}
 

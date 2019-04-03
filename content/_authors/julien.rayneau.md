@@ -1,5 +1,6 @@
 ---
-fullname: Julien Rayneau
+firstname: Julien
+lastname: Rayneau
 role: Coach
 github: jrayneau
 missions:

@@ -1,5 +1,6 @@
 ---
-fullname: Pierre-Yves Darnaudet
+firstname: Pierre-Yves
+lastname: Darnaudet
 role: Intrapreneur
 github: pydarnaudet
 missions:

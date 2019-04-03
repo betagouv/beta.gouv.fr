@@ -1,5 +1,6 @@
 ---
-fullname: Yann Klis
+firstname: Yann
+lastname: Klis
 role: Développeur
 avatar: https://avatars2.githubusercontent.com/u/11287?s=460&v=4
 link:

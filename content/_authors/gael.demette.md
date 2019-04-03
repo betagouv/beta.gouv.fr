@@ -1,5 +1,6 @@
 ---
-fullname: Gaël Demette
+firstname: Gaël
+lastname: Demette
 role: Développeur
 missions:
   - start: '2018-11-09'

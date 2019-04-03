@@ -1,5 +1,6 @@
 ---
-fullname: Thibault Jouannic
+firstname: Thibault
+lastname: Jouannic
 role: Développeur
 link: https://www.miximum.fr
 github: thibault

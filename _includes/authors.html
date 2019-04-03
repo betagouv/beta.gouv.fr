@@ -9,7 +9,7 @@
   {% assign author = site.authors | where: "id", target | first %}
   <div class="article__author panel">
     <div class="article__author-info">
-        <div class="article__author-name">{{ author.fullname }}</div>
+        <div class="article__author-name">{{ author.firstname }} {{ author.lastname }}</div>
         <div class="article__author-role">{{ author.role }}</div>
     </div>
       {% include avatar.html author=author %}

@@ -1,5 +1,6 @@
 ---
-fullname: Nicolas Leyri
+firstname: Nicolas
+lastname: Leyri
 role: Intrapreneur
 missions:
   - start: '2018-06-07'

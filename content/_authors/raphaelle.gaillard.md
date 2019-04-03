@@ -1,5 +1,6 @@
 ---
-fullname: Raphaëlle Gaillard
+firstname: Raphaëlle
+lastname: Gaillard
 role: Chargée de développement
 missions:
   - start: '2016-11-01'

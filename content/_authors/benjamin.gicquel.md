@@ -1,5 +1,6 @@
 ---
-fullname: Benjamin Gicquel
+firstname: Benjamin
+lastname: Gicquel
 role: Intrapreneur
 github: BenjaminUrg
 missions:

@@ -1,5 +1,6 @@
 ---
-fullname: Harlow Fres
+firstname: Harlow
+lastname: Fres
 role: Développeur
 avatar: https://avatars3.githubusercontent.com/hrlwfres?s=600
 missions:

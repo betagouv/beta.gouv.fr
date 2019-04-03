@@ -1,5 +1,6 @@
 ---
-fullname: Joeffrey Arruyer
+firstname: Joeffrey
+lastname: Arruyer
 role: Startup Coach
 link: https://www.linkedin.com/in/joeffrey-arruyer-5392a744
 missions:

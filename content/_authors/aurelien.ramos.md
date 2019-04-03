@@ -1,5 +1,6 @@
 ---
-fullname: Aurélien Ramos
+firstname: Aurélien
+lastname: Ramos
 role: Expert jardinage dans l'espace public
 missions:
   - start: '2018-05-30'

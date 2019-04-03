@@ -1,5 +1,6 @@
 ---
-fullname: Aymeric Faivre
+firstname: Aymeric
+lastname: Faivre
 role: Designer
 avatar:
 link:

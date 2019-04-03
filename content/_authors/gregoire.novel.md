@@ -1,5 +1,6 @@
 ---
-fullname: Grégoire Novel
+firstname: Grégoire
+lastname: Novel
 role: Développeur
 missions:
   - start: '2017-03-21'

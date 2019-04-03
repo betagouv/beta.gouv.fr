@@ -1,5 +1,6 @@
 ---
-fullname: Axel Haustant
+firstname: Axel
+lastname: Haustant
 role: Développeur
 missions:
   - start: '2013-08-27'

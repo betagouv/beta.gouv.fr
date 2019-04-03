@@ -1,5 +1,6 @@
 ---
-fullname: Mohamed Loucif
+firstname: Mohamed
+lastname: Loucif
 role: Chargé de développement
 missions:
   - start: '2018-04-12'

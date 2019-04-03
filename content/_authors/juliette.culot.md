@@ -1,5 +1,6 @@
 ---
-fullname: Juliette Culot
+firstname: Juliette
+lastname: Culot
 role: Intrapreneuse
 missions:
   - start: '2017-03-27'

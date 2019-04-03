@@ -1,5 +1,6 @@
 ---
-fullname: Mélodie Dahi
+firstname: Mélodie
+lastname: Dahi
 role: Intrapreneuse
 missions:
   - start: '2018-03-13'

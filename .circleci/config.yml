@@ -41,14 +41,11 @@ jobs:
       - run:
           name: Check authors file name structure (first_name.last_name.md)
           command: |
-            if ls _authors | grep --line-regexp --invert-match '[a-z_\.-]\+\.md'
+            if ls _authors | grep --line-regexp --invert-match '[a-z_-]\+\.[a-z_-]\+\.md'
             then cat <<EOF
               One or more authors do not have the expected structure.
+              Contact a website administrator if your generated member file breaks the validator.
               Notes:
-              Generated authors files should respect a modified RFC3986 (see: https://tools.ietf.org/html/rfc3986).
-              Authorized characters are a-z, _, . and - , follow by the expansion .md.
-              Contact a website administrator if your generated author file breaks the validator.
-              Legacy notation is as follow:
               A dot (.) can only appear as a separator between the first and the last names.
               Dashes in names are kept as-is.
               Spaces are replaced by underscores (_).

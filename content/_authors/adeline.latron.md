@@ -1,5 +1,6 @@
 ---
-fullname: Adeline Latron
+firstname: Adeline
+lastname: Latron
 role: Chargée de développement
 github: adeline-lrn
 missions:

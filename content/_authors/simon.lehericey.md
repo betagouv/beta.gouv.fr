@@ -1,5 +1,6 @@
 ---
-fullname: Simon Lehericey
+firstname: Simon
+lastname: Lehericey
 role: Développeur
 avatar: https://s.gravatar.com/avatar/c8f2f7a1a95a068877772ceb11b9700b?s=512
 missions:

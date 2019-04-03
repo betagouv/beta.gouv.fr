@@ -1,5 +1,6 @@
 ---
-fullname: Jihane Herizi
+firstname: Jihane
+lastname: Herizi
 role: J'anime des communautés
 missions:
   - start: '2017-10-11'

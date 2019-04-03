@@ -1,5 +1,6 @@
 ---
-fullname: Raphaël Dubigny
+firstname: Raphaël
+lastname: Dubigny
 role: Développeur
 link: http://red-needles.com/
 github: rdubigny

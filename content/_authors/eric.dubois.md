@@ -1,5 +1,6 @@
 ---
-fullname: Eric Dubois
+firstname: Eric
+lastname: Dubois
 role: Coach
 link:
 missions:

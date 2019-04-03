@@ -1,5 +1,6 @@
 ---
-fullname: Gaëlle Ottan
+firstname: Gaëlle
+lastname: Ottan
 role: Chef de produit
 github: gaelleottan
 missions:

@@ -1,5 +1,6 @@
 ---
-fullname: Xavier Julien
+firstname: Xavier
+lastname: Julien
 role: Dev Agile
 missions:
   - start: '2015-06-22'

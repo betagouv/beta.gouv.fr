@@ -1,5 +1,6 @@
 ---
-fullname: Chaïb Martinez
+firstname: Chaïb
+lastname: Martinez
 role: Growth Hacker
 avatar: https://pbs.twimg.com/profile_images/803636352348725248/c_j2qY7f_400x400.jpg
 link: http://chaib-martinez.com/

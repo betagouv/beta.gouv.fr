@@ -1,5 +1,6 @@
 ---
-fullname: Théophile Merlière
+firstname: Théophile
+lastname: Merlière
 role: Développeur
 avatar: https://fr.gravatar.com/avatar/f8ce5d98554aa7d7e31747512b95c06e?size=512
 missions:

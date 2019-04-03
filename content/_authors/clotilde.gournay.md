@@ -1,5 +1,6 @@
 ---
-fullname: Clotilde Gournay
+firstname: Clotilde
+lastname: Gournay
 role: Intrapreneuse
 avatar: https://avatars3.githubusercontent.com/clotildeGOURNAY?s=600
 missions:

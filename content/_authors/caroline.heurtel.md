@@ -1,5 +1,6 @@
 ---
-fullname: Caroline Heurtel
+firstname: Caroline
+lastname: Heurtel
 role: datalchemist & business developper
 link: https://www.linkedin.com/in/caroline-heurtel-b6309b162
 missions:

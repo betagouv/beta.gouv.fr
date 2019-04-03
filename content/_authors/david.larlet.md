@@ -1,5 +1,6 @@
 ---
-fullname: David Larlet
+firstname: David
+lastname: Larlet
 role: Développeur
 avatar: https://larlet.fr/static/david/david-larlet-avatar.jpg
 link: https://larlet.fr/david/

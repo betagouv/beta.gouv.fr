@@ -1,5 +1,6 @@
 ---
-fullname: Loup Wolff
+firstname: Loup
+lastname: Wolff
 role: Intrapreneur
 missions:
   - start: '2018-03-27'

@@ -1,5 +1,6 @@
 ---
-fullname: Charlotte Christiaën
+firstname: Charlotte
+lastname: Christiaën
 role: Relation et service à l'usager
 missions:
   - start: '2019-02-01'

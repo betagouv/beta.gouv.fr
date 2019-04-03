@@ -1,5 +1,6 @@
 ---
-fullname: Matthieu Heurtel
+firstname: Matthieu
+lastname: Heurtel
 role: Intrapreneur
 avatar: https://avatars3.githubusercontent.com/Mhrtl?s=600
 missions:

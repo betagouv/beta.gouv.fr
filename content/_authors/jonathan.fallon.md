@@ -1,5 +1,6 @@
 ---
-fullname: Jonathan Fallon
+firstname: Jonathan
+lastname: Fallon
 role: Développeur
 github: jonathanfallon
 missions:

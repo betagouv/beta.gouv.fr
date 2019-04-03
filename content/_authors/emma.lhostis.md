@@ -1,5 +1,6 @@
 ---
-fullname: Emma L'Hostis
+firstname: Emma
+lastname: L'Hostis
 role: Chargée de développement territorial Hérault
 avatar : https://pbs.twimg.com/profile_images/2666384631/0d0e51f7f151b0c5c17548f0831497b0_400x400.jpeg
 missions:

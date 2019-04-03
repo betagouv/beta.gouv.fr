@@ -1,5 +1,6 @@
 ---
-fullname: Ismaël Hery
+firstname: Ismaël
+lastname: Hery
 role: Coach
 missions:
   - start: '2015-04-01'

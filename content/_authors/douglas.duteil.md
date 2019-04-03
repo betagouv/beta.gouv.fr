@@ -1,5 +1,6 @@
 ---
-fullname: Douglas Duteil
+firstname: Douglas
+lastname: Duteil
 role: Lead Developper
 avatar: https://avatars1.githubusercontent.com/u/730511?s=460&v=4
 link:

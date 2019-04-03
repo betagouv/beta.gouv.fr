@@ -1,5 +1,6 @@
 ---
-fullname: Roxane Ricci
+firstname: Roxane
+lastname: Ricci
 role: Développeur
 missions:
   - start: '2014-11-17'

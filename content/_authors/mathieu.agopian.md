@@ -1,5 +1,6 @@
 ---
-fullname: Mathieu Agopian
+firstname: Mathieu
+lastname: Agopian
 role: Développeur
 link: https://agopian.info/
 github: magopian

@@ -1,5 +1,6 @@
 ---
-fullname: François de Metz
+firstname: François
+lastname: de Metz
 role: Développeur
 link: https://2metz.fr/
 github: francois2metz

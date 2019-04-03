@@ -1,5 +1,6 @@
 ---
-fullname: Florent Jaby
+firstname: Florent
+lastname: Jaby
 role: Punk Développeur
 link: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 missions:

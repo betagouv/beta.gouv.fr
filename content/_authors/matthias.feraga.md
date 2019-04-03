@@ -1,5 +1,6 @@
 ---
-fullname: Matthias Feraga
+firstname: Matthias
+lastname: Feraga
 role: Chargé de développement
 avatar: https://avatars1.githubusercontent.com/u/20679179?s=460&v=4
 missions:

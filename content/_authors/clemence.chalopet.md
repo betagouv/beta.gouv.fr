@@ -1,5 +1,6 @@
 ---
-fullname: Clémence Chalopet
+firstname: Clémence
+lastname: Chalopet
 role: Chargée de développement Seine-Saint-Denis & opérateurs nationaux
 missions:
   - start: '2018-03-26'

@@ -1,5 +1,6 @@
 ---
-fullname: Frederic Boulay
+firstname: Frederic
+lastname: Boulay
 role: CNAMien spécialiste de l'organisation sanitaire.
 missions:
   - start: '2017-09-27'
