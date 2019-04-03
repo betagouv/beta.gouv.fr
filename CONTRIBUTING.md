@@ -18,7 +18,13 @@ Modifier le fichier `$id_startup.md` de description de la Startup dans le dossie
 
 La documentation des différentes propriétés à renseigner est accessible en cliquant sur le lien de création d'une nouvelle Startup dans la section précédente.
 
-## Ajouter un membre à la communauté BetaGouv
+## Ajouter ou modifier un membre à la communauté BetaGouv
+
+### [À travers l'interface web Netlify CMS (pour ne pas avoir à écrire de code)](https://beta.gouv.fr/admin/)
+
+Cette interface permet à toutes les personnes de la communauté d'ajouter de nouveaux membres ou de modifier des fiches. Si c'est pour créer ta fiche, demande à ton marrain de t'aider !
+
+**Attention** : en cas d'ajout de fiche, toi ou ton marrain doit vérifier que le nom du fichier se conforme aux indications ci-dessous.
 
 ### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=authors&where=content/_authors/prenom.nom.md) :smiley:
 

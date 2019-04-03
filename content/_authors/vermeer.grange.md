@@ -2,7 +2,7 @@
 fullname: Vermeer Grange
 role: Développeur / data scientist
 missions:
-  - start: 2016-10-24
+  - start: '2016-10-24'
     end:
     status: independent
     employer: ey

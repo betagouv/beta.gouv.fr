@@ -4,7 +4,7 @@ role: Développeur
 link: https://blog.keiruaprod.fr
 github: keirua
 missions:
-  - start: 2018-03-14
+  - start: '2018-03-14'
     end:
     status: independent
     employer: KeiruaProd

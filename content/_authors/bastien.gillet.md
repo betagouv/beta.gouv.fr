@@ -3,8 +3,8 @@ fullname: Bastien Gillet
 role: Designer UI / UX
 github: bastienCap
 missions:
-  - start: 2018-04-24
-    end: 2018-10-01
+  - start: '2018-04-24'
+    end: '2018-10-01'
     status: independent
     employer: capgemini
 startups:
