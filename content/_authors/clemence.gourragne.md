@@ -1,5 +1,6 @@
 ---
-fullname: Clémence Gourragne
+firstname: Clémence
+lastname: Gourragne
 role: BizDev (stagiaire)
 missions:
   - start: '2018-11-22'

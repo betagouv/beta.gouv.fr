@@ -1,5 +1,6 @@
 ---
-fullname: Hugo Lepetit
+firstname: Hugo
+lastname: Lepetit
 role: Développeur
 missions:
   - start: '2013-12-01'

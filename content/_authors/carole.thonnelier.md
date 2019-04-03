@@ -1,5 +1,6 @@
 ---
-fullname: Carole Thonnelier
+firstname: Carole
+lastname: Thonnelier
 role: Designer UX / UI
 missions:
   - start: '2018-11-26'

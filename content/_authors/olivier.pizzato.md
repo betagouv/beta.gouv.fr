@@ -1,5 +1,6 @@
 ---
-fullname: Olivier Pizzato
+firstname: Olivier
+lastname: Pizzato
 role: Coach
 github: opizzato
 missions:

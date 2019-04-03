@@ -1,5 +1,6 @@
 ---
-fullname: Florian Pagnoux
+firstname: Florian
+lastname: Pagnoux
 role: Développeur
 missions:
   - start: '2015-04-30'

@@ -1,5 +1,6 @@
 ---
-fullname: Arnaud Denoix
+firstname: Arnaud
+lastname: Denoix
 role: Coach
 github: adenoix
 missions:

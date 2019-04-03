@@ -1,5 +1,6 @@
 ---
-fullname: Caroline Macé
+firstname: Caroline
+lastname: Macé
 role: Équipe projet
 missions:
   - start: '2018-09-01'

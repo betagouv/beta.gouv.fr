@@ -1,5 +1,6 @@
 ---
-fullname: Sabine Safi
+firstname: Sabine
+lastname: Safi
 role: PO / Chargée de déploiement
 github: sabinesafi
 missions:

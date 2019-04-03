@@ -1,5 +1,6 @@
 ---
-fullname: Romy Duhem-Verdière
+firstname: Romy
+lastname: Duhem-Verdière
 role: UX designer
 link: http://romy.tetue.net
 missions:

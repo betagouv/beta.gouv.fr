@@ -1,5 +1,6 @@
 ---
-fullname: Brice Durand
+firstname: Brice
+lastname: Durand
 role: Développeur
 missions:
   - start: '2018-12-01'

@@ -1,5 +1,6 @@
 ---
-fullname: Vincent Sommé
+firstname: Vincent
+lastname: Sommé
 role: Ingénieur pédagogique multimédia
 missions:
   - start: '2018-07-01'

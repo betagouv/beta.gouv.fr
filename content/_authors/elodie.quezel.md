@@ -1,5 +1,6 @@
 ---
-fullname: Elodie Quézel
+firstname: Elodie
+lastname: Quézel
 role: Business Developer
 avatar: /img/authors/elodie.quezel.jpg
 missions:

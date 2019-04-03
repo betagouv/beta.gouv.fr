@@ -1,5 +1,6 @@
 ---
-fullname: Thomas Bouchardon
+firstname: Thomas
+lastname: Bouchardon
 role: Développeur
 github: alfabouch
 missions:

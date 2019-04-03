@@ -1,5 +1,6 @@
 ---
-fullname: Vincent Agnano
+firstname: Vincent
+lastname: Agnano
 role: Développeur
 avatar: https://vinyll.github.io/images/avatar.jpg
 link: https://vinyll.github.io/

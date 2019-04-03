@@ -1,5 +1,6 @@
 ---
-fullname: Ishan Bhojwani
+firstname: Ishan
+lastname: Bhojwani
 role: Chargé de déploiement
 missions:
   - start: '2017-05-23'

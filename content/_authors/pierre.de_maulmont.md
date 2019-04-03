@@ -1,5 +1,6 @@
 ---
-fullname: Pierre de Maulmont
+firstname: Pierre
+lastname: de Maulmont
 role: Intrapreneur
 missions:
   - start: '2015-09-01'

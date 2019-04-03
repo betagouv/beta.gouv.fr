@@ -1,5 +1,6 @@
 ---
-fullname: Antoine Haguenauer
+firstname: Antoine
+lastname: Haguenauer
 role: Coach
 missions:
   - start: '2018-01-01'

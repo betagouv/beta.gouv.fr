@@ -1,5 +1,6 @@
 ---
-fullname: Jill-Jênn Vie
+firstname: Jill-Jênn
+lastnamme: Vie
 role: Ingénieur recherche
 link: http://jill-jenn.net
 missions:

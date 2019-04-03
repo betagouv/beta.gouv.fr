@@ -1,5 +1,6 @@
 ---
-fullname: Alexandre Michel # penser à modifier le nom du fichier ci-dessus en prenom.nom.md !
+firstname: Alexandre
+lastname: Michel
 role: Chargé de développement
 github: AlexandreMICHEL28
 avatar: https://avatars0.githubusercontent.com/u/47142859?s=400&v=4

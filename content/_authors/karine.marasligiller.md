@@ -1,5 +1,6 @@
 ---
-fullname: Karine Marasligiller
+firstname: Karine
+lastname: Marasligiller
 role: UX designer
 missions:
   - start: '2017-04-24'

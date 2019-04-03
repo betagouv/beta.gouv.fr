@@ -1,5 +1,6 @@
 ---
-fullname: Grégoire Aubert
+firstname: Grégoire
+lastname: Aubert
 role: Chargé de développement
 github: Gregoire-Aubert
 missions:

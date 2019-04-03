@@ -1,5 +1,6 @@
 ---
-fullname: Fabien Champigny
+firstname: Fabien
+lastname: Champigny
 role: Développeur
 link: http://champigny.name
 missions:

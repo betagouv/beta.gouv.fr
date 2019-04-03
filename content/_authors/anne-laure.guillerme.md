@@ -1,5 +1,6 @@
 ---
-fullname: Anne-Laure Guillerme
+firstname: Anne-Laure
+lastname: Guillerme
 role: Cheffe de produit
 missions:
   - start: '2018-11-19'

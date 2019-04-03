@@ -1,5 +1,6 @@
 ---
-fullname: Jennifer Sanchez
+firstname: Jennifer
+lastname: Sanchez
 role: Designer UX / UI
 github: jennichou
 link: https://www.linkedin.com/in/jennifersanchezdesign/

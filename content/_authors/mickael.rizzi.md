@@ -1,5 +1,6 @@
 ---
-fullname: Mickael Rizzi
+firstname: Mickael
+lastname: Rizzi
 role: Intrapreneur
 missions:
   - start: '2018-05-02'

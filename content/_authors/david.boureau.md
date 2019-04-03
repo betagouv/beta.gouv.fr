@@ -1,5 +1,6 @@
 ---
-fullname: David Boureau
+firstname: David
+lastname: Boureau
 role: Développeur web
 avatar: https://res.cloudinary.com/bdavidxyz-com/image/upload/v1471575050/menice3_reoxvv.png
 link: http://bdavidxyz.com

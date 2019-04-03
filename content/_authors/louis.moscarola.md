@@ -1,5 +1,6 @@
 ---
-fullname: Louis MOSCAROLA
+firstname: Louis
+lastname: MOSCAROLA
 role: Animateur de la Communauté A+
 github: MOSCAROLA
 avatar: https://avatars2.githubusercontent.com/u/47106810?s=400&v=4

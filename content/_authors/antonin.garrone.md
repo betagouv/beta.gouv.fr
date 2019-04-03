@@ -1,5 +1,6 @@
 ---
-fullname: Antonin Garrone
+firstname: Antonin
+lastname: Garrone
 role: Business Developer
 avatar: https://avatars3.githubusercontent.com/u/46677938?s=400&u=bbfe2189507f07759b1deab5380b9c09502abbe1&v=4
 link: https://www.linkedin.com/in/antonin-garrone-8272bb154/

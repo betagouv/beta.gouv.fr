@@ -1,5 +1,6 @@
 ---
-fullname: Maël Thomas
+firstname: Maël
+lastname: Thomas
 role: Développeur […]
 link: https://github.com/laem
 missions:

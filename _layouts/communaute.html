@@ -9,7 +9,7 @@ layout: default
 {% capture build_date %}{{ site.time | date:"%Y-%m-%d" }}{% endcapture %}
 
 {% assign authors = site.authors %}
-{% assign authors = authors | sort: 'fullname' %}
+{% assign authors = authors | sort: 'lastname' %}
 
 {% comment %}
   Pour le tri des auteurs, il faut tricher !

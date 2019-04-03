@@ -1,5 +1,6 @@
 ---
-fullname: Pierre de La Morinerie
+firstname: Pierre
+lastname: de La Morinerie
 role: Développeur
 avatar: https://secure.gravatar.com/avatar/05113b49212e22f15ee21bf03e149d8e.jpg?s=512
 link: https://kemenaran.winosx.com

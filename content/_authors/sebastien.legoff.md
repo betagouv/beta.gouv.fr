@@ -1,5 +1,6 @@
 ---
-fullname: Sebastien Le Goff
+firstname: Sebastien
+lastname: Le Goff
 role: CTO
 github: goffle
 missions:

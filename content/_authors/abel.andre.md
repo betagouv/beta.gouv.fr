@@ -1,5 +1,6 @@
 ---
-fullname: Abel André
+firstname: Abel
+lastname: André
 github: abel-andre
 role: Développeur
 missions:

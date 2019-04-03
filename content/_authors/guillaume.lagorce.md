@@ -1,5 +1,6 @@
 ---
-fullname: Guillaume Lagorce
+firstname: Guillaume
+lastname: Lagorce
 role: Développeur
 github: heygul
 missions:

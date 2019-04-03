@@ -1,5 +1,6 @@
 ---
-fullname: Loïc Guillois
+firstname: Loïc
+lastname: Guillois
 role: Développeur
 avatar: https://pbs.twimg.com/profile_images/775267571667009537/q3kfTV75.jpg
 missions:

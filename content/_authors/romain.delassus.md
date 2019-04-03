@@ -1,5 +1,6 @@
 ---
-fullname: Romain Delassus
+firstname: Romain
+lastname: Delassus
 role: Chef de Produit
 avatar:
 missions:

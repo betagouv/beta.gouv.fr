@@ -1,5 +1,6 @@
 ---
-fullname: Salim Boulkour # penser à modifier le nom du fichier ci-dessus en prenom.nom.md !
+firstname: Salim
+lastname: Boulkour # penser à modifier le nom du fichier ci-dessus en prenom.nom.md !
 role: Ops / DevOps
 github: sboulkour
 missions:

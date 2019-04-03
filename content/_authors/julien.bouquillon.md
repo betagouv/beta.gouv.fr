@@ -1,5 +1,6 @@
 ---
-fullname: Julien Bouquillon
+firstname: Julien
+lastname: Bouquillon
 role: Tech lead
 avatar: https://avatars1.githubusercontent.com/u/124937?s=460&v=4
 link:

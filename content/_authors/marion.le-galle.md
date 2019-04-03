@@ -1,5 +1,6 @@
 ---
-fullname: Marion Le Galle
+firstname: Marion
+lastname: Le Galle
 role: UX designer
 missions:
   - start: '2016-04-01'

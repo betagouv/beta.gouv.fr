@@ -1,5 +1,6 @@
 ---
-fullname: Thomas Wickham
+firstname: Thomas
+lastname: Wickham
 role: Développeur
 missions:
   - start: '2016-07-15'

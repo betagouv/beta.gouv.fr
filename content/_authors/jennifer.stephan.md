@@ -1,5 +1,6 @@
 ---
-fullname: Jennifer Stephan
+firstname: Jennifer
+lastname: Stephan
 role: Chargée de déploiement
 avatar: https://avatars3.githubusercontent.com/u/36134318?s=400&v=4
 missions:

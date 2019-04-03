@@ -1,5 +1,6 @@
 ---
-fullname: Benoit Guillou
+firstname: Benoit
+lastname: Guillou
 role: Coach, Rails Dev
 missions:
   - start: '2017-04-01'

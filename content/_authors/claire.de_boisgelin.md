@@ -1,5 +1,6 @@
 ---
-fullname: Claire de Boisgelin
+firstname: Claire
+lastname: de Boisgelin
 role: Chargée de développement territorial
 missions:
   - start: '2018-09-12'

@@ -1,5 +1,6 @@
 ---
-fullname: Antoine Desbordes
+firstname: Antoine
+lastname: Desbordes
 role: Développeur
 avatar: https://www.codeursenliberte.fr/bios/antoine.jpg
 github: antoine-de

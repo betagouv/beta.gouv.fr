@@ -1,5 +1,6 @@
 ---
-fullname: Zohra Lebel
+firstname: Zohra
+lastname: Lebel
 role: Intrapreneuse
 missions:
   - start: '2017-09-14'

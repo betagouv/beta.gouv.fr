@@ -1,5 +1,6 @@
 ---
-fullname: Lucien Mollard
+firstname: Lucien
+lastname: Mollard
 role: Développeur
 avatar: https://avatars3.githubusercontent.com/LucienMLD?s=600
 missions:

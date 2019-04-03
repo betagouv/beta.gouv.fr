@@ -1,5 +1,6 @@
 ---
-fullname: Daniel Balmy
+firstname: Daniel
+lastname: Balmy
 role: Intrapreneur
 missions:
   - start: '2017-09-28'

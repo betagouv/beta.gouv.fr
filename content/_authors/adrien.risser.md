@@ -1,5 +1,6 @@
 ---
-fullname: Adrien Risser
+firstname: Adrien
+lastname: Risser
 role: Développeur
 avatar: https://i.goopics.net/wLLYD.png
 missions:

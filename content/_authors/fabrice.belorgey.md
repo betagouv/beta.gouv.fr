@@ -1,5 +1,6 @@
 ---
-fullname: Fabrice Belorgey
+firstname: Fabrice
+lastname: Belorgey
 role: Intrapreneur
 missions:
   - start: '2018-09-01'

@@ -1,5 +1,6 @@
 ---
-fullname: Thibault Vigouroux
+firstname: Thibault
+lastname: Vigouroux
 role: Développeur
 missions:
   - start: '2014-06-01'

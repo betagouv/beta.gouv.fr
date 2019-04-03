@@ -1,5 +1,6 @@
 ---
-fullname: Vincent Lara
+firstname: Vincent
+lastname: Lara
 role: Développeur
 link: https://github.com/l-vincent-l
 missions:

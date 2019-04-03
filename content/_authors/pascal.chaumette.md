@@ -1,5 +1,6 @@
 ---
-fullname: Pascal Chaumette
+firstname: Pascal
+lastname: Chaumette
 role: Responsable de produit
 missions:
   - start: '2018-07-01'

@@ -1,5 +1,6 @@
 ---
-fullname: Vincent B.
+firstname: Vincent
+lastname: B.
 role: Responsable de produit
 missions:
   - start: '2015-03-01'

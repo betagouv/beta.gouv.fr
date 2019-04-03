@@ -1,5 +1,6 @@
 ---
-fullname: Richard Violet
+firstname: Richard
+lastname: Violet
 role: Intrapreneur
 avatar: https://avatars3.githubusercontent.com/RitchyP?s=600
 link:

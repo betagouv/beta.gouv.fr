@@ -1,5 +1,6 @@
 ---
-fullname: Sebastien Vienot
+firstname: Sebastien
+lastname: Vienot
 role: Intrapreneur
 missions:
   - start: '2018-10-01'

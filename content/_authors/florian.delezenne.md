@@ -1,5 +1,6 @@
 ---
-fullname: Florian Delezenne
+firstname: Florian
+lastname: Delezenne
 role: Développeur
 avatar: https://www.gravatar.com/userimage/14275002/03a4283cd1632863672a3e249abdb8cb.png?size=512
 link: https://github.com/betagouv/beta.gouv.fr/edit/master/content/_authors/florian.delezenne.md

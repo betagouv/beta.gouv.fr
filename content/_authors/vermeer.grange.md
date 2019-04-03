@@ -1,5 +1,6 @@
 ---
-fullname: Vermeer Grange
+firstname: Vermeer
+lastname: Grange
 role: Développeur / data scientist
 missions:
   - start: '2016-10-24'

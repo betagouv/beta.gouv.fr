@@ -1,5 +1,6 @@
 ---
-fullname: Alan Le Ruyet
+firstname: Alan
+lastname: Le Ruyet
 role: Développeur full-stack
 avatar: https://avatars3.githubusercontent.com/u/24386934?s=96&v=4
 missions:

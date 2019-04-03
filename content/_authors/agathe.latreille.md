@@ -1,5 +1,6 @@
 ---
-fullname: Agathe Latreille
+firstname: Agathe
+lastname: Latreille
 role: Chargée de développement
 missions:
   - start: '2016-11-01'

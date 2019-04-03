@@ -1,5 +1,6 @@
 ---
-fullname: Benjamin Marteau
+firstname: Benjamin
+lastname: Marteau
 role: Responsable de produit
 missions:
   - start: '2016-06-01'

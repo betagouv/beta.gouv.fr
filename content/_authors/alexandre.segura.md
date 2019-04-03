@@ -1,5 +1,6 @@
 ---
-fullname: Alexandre Segura
+firstname: Alexandre
+lastname: Segura
 role: Développeur
 missions:
   - start: '2018-05-14'

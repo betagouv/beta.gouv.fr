@@ -1,5 +1,6 @@
 ---
-fullname: Nicolas Kremer
+firstname: Nicolas
+lastname: Kremer
 role: Développeur
 github: soulso
 missions:

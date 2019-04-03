@@ -1,5 +1,6 @@
 ---
-fullname: Pierre-Louis Rolle
+firstname: Pierre-Louis
+lastname: Rolle
 role: Intrapreneur
 link: https://www.societenumerique.gouv.fr
 github: PLrolle

@@ -1,5 +1,6 @@
 ---
-fullname: Ivan Gabriele
+firstname: Ivan
+lastname: Gabriele
 role: Développeur
 link: https://github.com/ivangabriele
 github: ivangabriele

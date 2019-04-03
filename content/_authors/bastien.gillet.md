@@ -1,5 +1,6 @@
 ---
-fullname: Bastien Gillet
+firstname: Bastien
+lastname: Gillet
 role: Designer UI / UX
 github: bastienCap
 missions:

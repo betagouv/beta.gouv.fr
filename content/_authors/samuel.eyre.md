@@ -1,5 +1,6 @@
 ---
-fullname: Samuel Eyre
+firstname: Samuel
+lastname: Eyre
 role: Développeur
 github: samueleyre
 missions:

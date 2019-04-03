@@ -1,5 +1,6 @@
 ---
-fullname: Fanny Brûlebois
+firstname: Fanny
+lastname: Brûlebois
 role: Responsable de produit
 missions:
   - start: '2016-02-15'

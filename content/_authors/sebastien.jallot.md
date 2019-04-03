@@ -1,5 +1,6 @@
 ---
-fullname: Sebastien Jallot
+firstname: Sebastien
+lastname: Jallot
 role: Coach
 avatar: https://i.goopics.net/O3njr.jpeg
 missions:

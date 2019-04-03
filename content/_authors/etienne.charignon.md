@@ -1,5 +1,6 @@
 ---
-fullname: Etienne Charignon
+firstname: Etienne
+lastname: Charignon
 role: Développeur
 link: https://ut7.fr
 github: etiennecharignon

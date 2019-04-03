@@ -1,5 +1,6 @@
 ---
-fullname: Nicolas Brohée
+firstname: Nicolas
+lastname: Brohée
 role: Développeur
 missions:
   - start: '2016-06-23'

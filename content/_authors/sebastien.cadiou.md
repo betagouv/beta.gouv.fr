@@ -1,5 +1,6 @@
 ---
-fullname: Sébastien Cadiou
+firstname: Sébastien
+lastname: Cadiou
 role: Intrapreneur
 missions:
   - start: '2016-04-01'

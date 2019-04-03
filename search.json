@@ -8,14 +8,14 @@
     {% assign team = site.authors | where:"startups", startup_id %}
     {% assign current_team = "" %}
     {% for people in team %}
-      {% capture to_append %}{{people.fullname}}, {% endcapture %}
+      {% capture to_append %}{{people.firstname}} {{people.lastname}}, {% endcapture %}
       {% assign current_team = current_team | append: to_append %}
     {% endfor %}
 
     {% assign team = site.authors | where:"previously", startup_id %}
     {% assign past_team = "" %}
     {% for people in team %}
-      {% capture to_append %}{{people.fullname}}, {% endcapture %}
+      {% capture to_append %}{{people.firstname}} {{people.lastname}}, {% endcapture %}
       {% assign past_team = past_team | append: to_append %}
     {% endfor %}
 

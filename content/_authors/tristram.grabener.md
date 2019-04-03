@@ -1,5 +1,6 @@
 ---
-fullname: Tristram Gräbener
+firstname: Tristram
+lastname: Gräbener
 role: Développeur
 github: Tristramg
 missions:

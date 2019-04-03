@@ -1,5 +1,6 @@
 ---
-fullname: Etienne Puydebois
+firstname: Etienne
+lastname: Puydebois
 role: Maker
 avatar: https://avatars3.githubusercontent.com/rosedeschamps?s=600
 missions:

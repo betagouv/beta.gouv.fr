@@ -1,5 +1,6 @@
 ---
-fullname: Malika Alouani
+firstname: Malika
+lastname: Alouani
 role: Intrapreneur
 missions:
   - start: '2018-06-07'

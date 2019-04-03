@@ -1,5 +1,6 @@
 ---
-fullname: Gabrielle Légeret
+firstname: Gabrielle
+lastname: Légeret
 role: Business développeuse
 missions:
   - start: '2018-05-09'

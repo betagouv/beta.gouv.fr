@@ -1,5 +1,6 @@
 ---
-fullname: Arnaud Doucerain
+firstname: Arnaud
+lastname: Doucerain
 role: Développeur
 missions:
   - start: '2017-04-03'

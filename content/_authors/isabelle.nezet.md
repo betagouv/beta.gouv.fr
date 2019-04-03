@@ -1,5 +1,6 @@
 ---
-fullname: Isabelle Nezet
+firstname: Isabelle
+lastname: Nezet
 role: Intrapreneuse
 avatar: https://avatars3.githubusercontent.com/NEZETisabelle?s=600
 missions:

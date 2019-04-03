@@ -1,5 +1,6 @@
 ---
-fullname: Lucie Delorme
+firstname: Lucie
+lastname: Delorme
 role: Intrapreneuse
 missions:
   - start: '2017-12-01'

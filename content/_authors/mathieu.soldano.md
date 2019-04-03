@@ -1,5 +1,6 @@
 ---
-fullname: Mathieu SOLDANO
+firstname: Mathieu
+lastname: SOLDANO
 role: Développeur
 github: msoldano
 missions:

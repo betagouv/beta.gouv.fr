@@ -1,5 +1,6 @@
 ---
-fullname: Loïc Delmaire
+firstname: Loïc
+lastname: Delmaire
 role: Développeur
 missions:
   - start: '2013-12-01'

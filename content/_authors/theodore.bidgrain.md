@@ -1,5 +1,6 @@
 ---
-fullname: Théodore Bidgrain
+firstname: Théodore
+lastname: Bidgrain
 role: Intrapreneur
 missions:
   - start: '2019-01-31'

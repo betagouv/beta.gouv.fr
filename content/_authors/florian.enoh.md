@@ -1,5 +1,6 @@
 ---
-fullname: Florian Enoh
+firstname: Florian
+lastname: Enoh
 role: Développeur
 missions:
   - start: '2017-01-10'

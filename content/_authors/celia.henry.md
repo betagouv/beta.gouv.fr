@@ -1,5 +1,6 @@
 ---
-fullname: Célia Henry
+firstname: Célia
+lastname: Henry
 role: Intrapreneur
 missions:
   - start: '2016-09-01'

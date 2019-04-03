@@ -1,5 +1,6 @@
 ---
-fullname: Samuel Faure
+firstname: Samuel
+lastname: Faure
 role: Développeur Fullstack
 github: Samuelfaure
 missions:

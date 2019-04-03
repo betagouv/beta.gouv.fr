@@ -1,5 +1,6 @@
 ---
-fullname: Martin Fourcade
+firstname: Martin
+lastname: Fourcade
 role: Développeur
 github: mfo
 missions:

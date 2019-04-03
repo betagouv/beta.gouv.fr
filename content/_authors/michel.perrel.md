@@ -1,5 +1,6 @@
 ---
-fullname: Michel Perrel
+firstname: Michel
+lastname: Perrel
 role: Intrapreneur
 github: michelperrel
 missions:

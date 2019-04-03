@@ -1,5 +1,6 @@
 ---
-fullname: Valéry Nelcha
+firstname: Valéry
+lastname: Nelcha
 role: Business Development
 missions:
   - start: '2018-03-27'
