@@ -3,8 +3,8 @@ fullname: Grégoire Aubert
 role: Chargé de développement
 github: Gregoire-Aubert
 missions:
-  - start: 2019-01-14
-    end: 2019-07-14
+  - start: '2019-01-14'
+    end: '2019-07-14'
     status: admin
     employer: DGCCRF
 startups:
