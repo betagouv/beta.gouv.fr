@@ -1,15 +1,15 @@
 ---
 fullname: Lionel Breduillieard
 role: Développeur
-link: http://lumographe.fr
 github: lionelb
+link: 'http://lumographe.fr'
 missions:
-  - start: '2018-10-08'
-    end: '2019-03-31'
+  - employer: octo
+    end: '2019-06-01'
+    start: '2018-10-08'
     status: independent
-    employer: octo
 startups:
-    - codedutravail
+  - codedutravail
 ---
 
 #TODO
