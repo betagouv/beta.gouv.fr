@@ -10,5 +10,5 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     status: independent
     employer: # si applicable, le nom de ton administration, SSII, etc.
 startups: # ta ou tes startups actuelles
-    - Domifa
+    - domifa
 ---
