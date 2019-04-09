@@ -1,10 +1,10 @@
 ---
-roles: un·e dev web full stack
+roles: un ou une dev web full stack
 startup: aidantsconnect
 open: true
 ---
 
-Aidants Connect cherche un·e développeur·e pour permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d'une personne ne parvenant pas à les faire seule.
+Aidants Connect cherche un développeur ou une développeuse pour permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d'une personne ne parvenant pas à les faire seule.
 
 <!--more-->
 
@@ -28,7 +28,7 @@ La Startup d’Etat a démarré début mars 2019 et l’objectif est de valider 
 
 ## Le Poste
 
-Vous êtes développeur·se full stack et voulez mettre vos compétences au profit de l’amélioration du service public ?
+Vous êtes un développeur ou une développeuse full stack et voulez mettre vos compétences au profit de l’amélioration du service public ?
 Vous êtes à votre aise dans les contextes de petites équipes autonomes, agiles, et proches de leurs utilisateurs ?
 Vous avez à cœur de rendre un service de qualité qui transforme la relation des usagers aux services publics, y compris en outillant des contributeurs/ré-utilisateurs potentiellement peu à l’aise avec le développement logiciel ?
 En rejoignant une Startup d’État, vous participez à l’aventure d’une nouvelle vision de l’administration, moderne et proche de ses usagers.
@@ -45,12 +45,14 @@ L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur 
 
 ## Compétences
 
-Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR, etc.). Développeur web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, Django/Flask, etc.). Bonne maîtrise du développement front-end (HTML, CSS, React ou Angular). Expérience en conception orientée utilisateur et en expérience utilisateur. Expérience de l’écosystème technique web : test AB, analytics, etc.
-Modalités
+Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR, etc.). Développeur ou développeuse web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, Django/Flask, etc.). Bonne maîtrise du développement front-end (HTML, CSS, React ou Angular). Expérience en conception orientée utilisateur et en expérience utilisateur. Expérience de l’écosystème technique web : test AB, analytics, etc.
 
-Poste ouvert pour un·e indépendant·e pour un premier contrat de 3 mois renouvelable. Une présence régulière à Paris est demandée pour participer aux sessions communes de tests utilisateurs, démonstrations, rétrospective et planification. Le télétravail est possible. Temps partiel accepté (80 % minimum). Démarrage dès que possible.
-Candidater
+## Modalités
 
-Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV et GitHub, le tout à [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr) et [aidants.connect@beta.gouv.fr](mailto:aidants.connect@beta.gouv.fr).
+Poste ouvert pour un indépendant ou une indépendante pour un premier contrat de 3 mois renouvelable. Une présence régulière à Paris est demandée pour participer aux sessions communes de tests utilisateurs, démonstrations, rétrospective et planification. Le télétravail est possible. Temps partiel accepté (80 % minimum). Démarrage dès que possible.
+
+## Candidater
+
+Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr) et [aidants.connect@beta.gouv.fr](mailto:aidants.connect@beta.gouv.fr).
 
 À bientôt !
