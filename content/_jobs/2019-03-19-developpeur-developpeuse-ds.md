@@ -2,7 +2,7 @@
 roles: un·e développeur·se
 startup: demarches-simplifiees.fr
 techno: Ruby on Rails
-open: true
+open: false
 ---
 
 L’équipe demarches-simplifiees.fr cherche un·e développeur·se Ruby on Rails freelance pour l’aider à développer de nouvelles fonctionnalités et faciliter la dématérialisation des démarches publiques.
