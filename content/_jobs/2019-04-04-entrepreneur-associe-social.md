@@ -23,7 +23,7 @@ Votre rôle en tant qu’entrepreneur associé : identifier le bon angle d’att
 - Vous êtes indigné par un des problèmes sociaux auquel nous voulons nous attaquer.
 - Vous voyez comment le résoudre (en tout cas comment commencer).
 - Vous êtes prêt à faire tout ce qu’il faut pour que le projet réussisse et capable de prendre des décisions fondées sur des éléments objectifs.
-- Vous avez fait des choses qui nous impressionnent.
+- __Vous avez fait des choses qui nous impressionnent__ : vous justifiez d'une expérience réussie dans l'entrepreneuriat.
 
 ## Postuler
 
