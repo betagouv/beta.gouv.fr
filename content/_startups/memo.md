@@ -7,9 +7,9 @@ status: consolidation
 start: 2016-01-03
 end:
 link: https://memo.pole-emploi.fr/
-repository:
-stats: true
-contact: sebastien.cadiou@pole-emploi.fr
+repository: https://github.com/StartupsPoleEmploi/memo
+stats: false
+contact: zohra.hadji@pole-emploi.fr 
 ---
 
 ### Toutes mes candidatures en un clin d’oeil
