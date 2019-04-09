@@ -12,6 +12,9 @@ startups:
     - e-mjpm
     - codedutravail
     - workinfrance
+    - domifa
+    - tremplin
+
 ---
 
 Living JS build tool.
