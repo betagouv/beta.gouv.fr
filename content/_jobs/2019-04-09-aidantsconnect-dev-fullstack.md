@@ -28,20 +28,21 @@ La Startup d’Etat a démarré début mars 2019 et l’objectif est de valider 
 
 ## Le Poste
 
-Vous êtes un développeur ou une développeuse full stack et voulez mettre vos compétences au profit de l’amélioration du service public ?
-Vous êtes à votre aise dans les contextes de petites équipes autonomes, agiles, et proches de leurs utilisateurs ?
-Vous avez à cœur de rendre un service de qualité qui transforme la relation des usagers aux services publics, y compris en outillant des contributeurs/ré-utilisateurs potentiellement peu à l’aise avec le développement logiciel ?
+Vous êtes un développeur ou une développeuse full stack et voulez mettre vos compétences au profit de l’amélioration du service public ?  
+Vous êtes à votre aise dans les contextes de petites équipes autonomes, agiles, et proches de leurs utilisateurs ?  
+Vous avez à cœur de rendre un service de qualité qui transforme la relation des usagers aux services publics, y compris en outillant des contributeurs/ré-utilisateurs potentiellement peu à l’aise avec le développement logiciel ?  
 En rejoignant une Startup d’État, vous participez à l’aventure d’une nouvelle vision de l’administration, moderne et proche de ses usagers.
 
 ## Responsabilités
 
-Vous serez en charge de construire (from scratch) le service pour les usagers. Les choix technologiques sont ouverts parmi les solutions libres du marché.
-Vous pourrez participer à la conception, aux études terrain, aux tests utilisateur avec les intrapreneurs.
-Les langages supportés à l'Incubateur de Services Numériques sont JavaScript, Python et Ruby.
+Vous serez en charge de construire (from scratch) le service pour les usagers. Les choix technologiques sont ouverts parmi les solutions libres du marché.  
+Vous pourrez participer à la conception, aux études terrain, aux tests utilisateur avec les intrapreneurs.  
+Les langages supportés à l'Incubateur de Services Numériques sont JavaScript, Python et Ruby.  
 Vous êtes entièrement en charge des développements, de l’administration système aux CSS, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, et de monitoring.
+
 Vous êtes en mesure de jouer sur 2 tableaux :
-La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
-L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
+- La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
+- L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
 
 ## Compétences
 
