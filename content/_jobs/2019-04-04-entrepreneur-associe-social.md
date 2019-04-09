@@ -16,7 +16,7 @@ Beta.gouv.fr recrute plusieurs entrepreneur·se·s associé·e·s pour des proje
 
 ## Rôle
 
-Votre rôle en tant qu’entrepreneur associé : identifier le bon angle d’attaque pour résoudre le problème concerné, monter une équipe, tester des solutions et les passer à l’échelle si les résultats sont au rendez-vous.
+Votre rôle en tant qu’entrepreneur associé : à partir d'une __feuille d'objectifs__ fournie par le commanditaire politique, identifier le bon angle d’attaque pour résoudre le problème concerné, monter une équipe, tester des solutions et les passer à l’échelle si les résultats sont au rendez-vous.
 
 ## Compétences
 
