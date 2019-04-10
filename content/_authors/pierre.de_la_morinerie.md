@@ -7,7 +7,7 @@ missions:
   - employer: Codeurs en Liberté
     end: '2019-06-30'
     start: '2018-06-11'
-    status: independent
+    status: service
 startups:
   - demarches-simplifiees.fr
   - place-des-entreprises
