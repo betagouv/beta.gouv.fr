@@ -1,6 +1,6 @@
 ---
 title: ID QUART
-mission: Récupérer les données des entreprises
+mission: Permettre aux citoyens de participer aux projets urbains de proximité
 owner: Agglomération de Pau
 incubator: preincubation
 status: investigation
@@ -11,4 +11,4 @@ stats: false
 contact: contact@beta.gouv.fr
 ---
 
-TODO
+Chaque année, le nombre de plaintes lié aux travaux et aux aménagement des quartiers augmente. Pourtant, le niveau de participation aux réunions publiques locales pour participer à l'aménagement du territoire est très faible. ID-Quart, la plateforme qui permet aux citoyens de participer aux investissements modestes qui changent la vie. 
