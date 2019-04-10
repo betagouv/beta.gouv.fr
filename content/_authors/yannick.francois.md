@@ -4,8 +4,8 @@ role: Développeur
 link: https://elsif.fr
 github: yaf
 missions:
-  - start: 2018-12-12
-    end: 2019-03-31
+  - start: '2018-12-12'
+    end: '2019-03-31'
     status: service
     employer: ut7
 startups:

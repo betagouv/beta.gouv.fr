@@ -1,12 +1,13 @@
 ---
 fullname: Margot Sanchez
-role: Cheffe de produit
+role: Intrapreneure
 missions:
-  - start: 2018-06-04
-    end: 2019-04-30
+  - start: '2018-06-04'
+    end: '2019-12-31'
     status: independent
-    employer: octo
+    employer: Codeurs en Liberté
 startups:
-    - transport
     - preuve-de-covoiturage
+previously:
+    - transport
 ---

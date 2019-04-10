@@ -4,8 +4,8 @@ role: Développeur
 link: https://webstack.fr
 github: stephane
 missions:
-  - start: 2018-02-26
-    end: 2019-06-30
+  - start: '2018-02-26'
+    end: '2019-06-30'
     status: service
     employer: octo
 startups:

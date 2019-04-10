@@ -2,8 +2,8 @@
 fullname: Thomas Menant
 role: Expertise juridique
 missions:
-  - start: 2014-01-01
-    end: 2018-09-01
+  - start: '2014-01-01'
+    end: '2018-09-01'
     status: dinsic
 startups:
   - api-particulier
