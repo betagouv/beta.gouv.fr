@@ -1,7 +1,7 @@
 ---
 roles: un·e chargé·e de développement (stage)
 startup: mrs
-open: false
+open: true
 ---
 
 La Startup d’État Mes Remboursements Simplifiés (MRS) de la Caisse Primaire d'Assurance Maladie (CPAM) de la Haute-Garonne recherche un·e chargé·e de développement en stage pour intégrer l’équipe MRS.
@@ -49,7 +49,7 @@ Ton profil nous intéresse si:
 ##  Conditions :
 
 - Avoir la possibilité d'obtenir une convention de stage par ton école ;
-- Etre disponible rapidement pour un stage de 3 à 6 mois ;
+- Etre disponible rapidement pour un stage de 2 mois (du 15 mai au 15 juillet) ;
 - Être au moins en 2e année de Licence/BTS/DUT, une spécialisation marketing est appréciée mais pas obligatoire ;
 - Travailler sur Toulouse (près de la station de métro François Verdier), des déplacements ponctuels peuvent avoir lieu.
 
