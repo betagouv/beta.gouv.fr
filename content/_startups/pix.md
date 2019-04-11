@@ -12,7 +12,7 @@ stats: false
 contact: contact@pix.fr
 ---
 
-Pix s'adresse à tous les citoyen·ne·s français·es et francophones (élèves, étudiant·e·s, professionnel·le·s, décrocheur·se·s, demandeur·se·s d'emploi, etc.) qui souhaitent mesurer, développer et valoriser leurs compétences numériques.
+Pix s'adresse aux françaises, français et francophones (élèves, étudiantes, professionnels, décrocheuses, demandeurs d'emploi, etc.) qui souhaitent mesurer, développer et valoriser leurs compétences numériques.
 
 Le service se présente sous la forme d'une plateforme en ligne d'évaluation et de certification des compétences numériques.
 
