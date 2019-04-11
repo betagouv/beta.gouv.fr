@@ -1,10 +1,10 @@
 ---
-roles: un·e chargé·e de développement (stage)
+roles: une chargée ou un chargé de développement (stage)
 startup: mrs
 open: true
 ---
 
-La Startup d’État Mes Remboursements Simplifiés (MRS) de la Caisse Primaire d'Assurance Maladie (CPAM) de la Haute-Garonne recherche un·e chargé·e de développement en stage pour intégrer l’équipe MRS.
+La Startup d’État Mes Remboursements Simplifiés (MRS) de la Caisse Primaire d'Assurance Maladie (CPAM) de la Haute-Garonne recherche un chargé ou une chargée de développement en stage pour intégrer l’équipe MRS.
 
 <!--more-->
 
@@ -23,7 +23,7 @@ Mes Remboursements Simplifiés a pour objectif d’augmenter le recours au véhi
 
 Mettre ton dynamisme et ta créativité au service de MRS pour simplifier les démarches de remboursement de transport des assurés et convaincre les prescripteurs (professionnels de santé). Si tu as déjà testé le formulaire Cerfa S3140 et que tu penses qu’il existe d’autres solutions, « you’re welcome » (si tu n’as pas testé, mais que les formulaires papier te donnent des boutons, ça marche aussi !).
 
-Pour mener à bien tes mission, tu seras accompagné·e par le responsable développement et l’équipe MRS pour :
+Pour mener à bien tes mission, le responsable développement et l’équipe MRS t'accompagnera pour :
 
 * Côté « assurés » :
   * Développer une stratégie de communication pour augmenter le nombre d’utilisateurs.
@@ -42,7 +42,7 @@ Ton profil nous intéresse si:
 -  tu souhaites acquérir de nouvelles compétences ;
 -  tu sais faire preuve d’initiative et tu n’as pas peur de décrocher ton téléphone ;
 -  le webmarketing pour toi n'est pas que de l'emailing ;
--  tu es animé·e par la volonté d’améliorer le service public ;
+-  la volonté d’améliorer le service public t'anime ;
 -  tu aimes travailler de manière agile.
 
 
