@@ -32,14 +32,12 @@ La première étape est d'identifier une antenne locale (administration partenai
 
 La première version du service proposera :
  - une inscription des aidants sur le service, en signant une charte de déontologie
- - deux moyens d'identifier le demandeur:
-     1. le demandeur accepte d'utiliser un moyen d'identification autre présent sur FranceConnect
-     2. l'aidant récupère les données d'identité de la personne accompagnée
+ - une identification du demandeur; l'aidant récupère les données d'identité de la personne accompagnée et la transmet à FranceConnect
      
 Les hypothèses que l'équipe souhaite confronter au terrain sont:
-- [ ] le demandeur est en capacite de se connecter avec FranceConnect lors de sa rencontre avec l'aidant
-- [ ] il est possible de créer un fournisseur d'identité expérimental sur FranceConnect
-- [ ] le demandeur est connu dans 80% des cas par les services d'état-civil en France
-- [ ] les aidants acceptent de signer une charte de déontologie
-- [ ] les demandeurs acceptent de déléguer leurs démarches sans être notifiés des actions menée
-- [ ] les aidants ciblés ont accès à internet
+- le demandeur est en capacite de se connecter avec FranceConnect lors de sa rencontre avec l'aidant
+- il est possible de créer un fournisseur d'identité expérimental sur FranceConnect
+- le demandeur est connu dans 80% des cas par les services d'état-civil en France
+- les aidants acceptent de signer une charte de déontologie
+- les demandeurs acceptent de déléguer leurs démarches sans être notifiés des actions menée
+- les aidants ciblés ont accès à internet
