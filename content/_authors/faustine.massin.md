@@ -7,5 +7,6 @@ missions:
     end: '2020-04_12'
     status: service
     employer: OCTO
-startups: pass-culture
+startups: 
+  - pass-culture
 ---
