@@ -13,7 +13,7 @@ additional_js:
 hire_card:
     id: recrutement
     fullname: Vous ?
-    role: Développeur, cheffe de produit numérique, coach lean, experte marketing digital…
+    role: Développer, porter un produit, coaching lean, marketing numérique…
     link: /contact
     avatar: /img/logo-generique-startup-carre.jpg
     content: <b>Vous avez envie de nous rejoindre ? Contactez-nous !</b>
