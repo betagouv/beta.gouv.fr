@@ -1,6 +1,6 @@
 ---
 title: Saisissez au vol !
-mission: Permettre aux contrôleurs aériens d'assurer un haut niveau de sécurité
+mission: Soutenir les agents qui assurent la sécurité aérienne
 owner: DGAC
 incubator: DINSIC
 status: investigation
@@ -17,7 +17,7 @@ En France, le trafic aérien a augmenté de 5,8% en 2018. Jusqu’en 2030, une a
 
 Chaque année, environ 25 000 événements relatifs notamment à la sécurité de la navigation aérienne sont reportés manuellement par les contrôleurs sur divers supports (papier, applications locales, main courante électronique etc.). Au delà de la perte de temps que cela représente, cela induit une perte de richesse des détails de l'événement qui peut in fine amener à une investigation incomplète et des conditions de travail pour les contrôleurs aériens non optimales.
 
-## Mission : Assurer un haut niveau de sécurité
+## Mission : Soutenir les agents qui assurent la sécurité aérienne
 
 Grâce à « Saisissez au vol ! », saisissez directement et facilement votre constat :
 - Reportez l’évènement sans perdre de temps ;
