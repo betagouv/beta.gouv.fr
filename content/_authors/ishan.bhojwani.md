@@ -18,4 +18,5 @@ startups:
     - preuve-de-covoiturage
     - ecoscore
     - lotocar
+    - auvol
 ---
