@@ -2,7 +2,7 @@
 title: Saisissez au vol !
 mission: Soutenir les agents qui assurent la sécurité aérienne
 owner: DGAC
-incubator: DINSIC
+incubator: dinsic
 status: investigation
 start: 2019-03-01
 end:
