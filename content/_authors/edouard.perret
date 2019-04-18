@@ -1,12 +1,12 @@
 ---
 fullname: Edouard Perret
 github: edupedup
-role: Développeur
+role: Ops
 avatar: https://avatars3.githubusercontent.com/u/12249697?s=400&v=4
 missions:
   - start: '2018-01-03'
     end: '2019-03-31'
-    status: independent
+    status: service
     employer: octo
 startups:
     - pass-culture
