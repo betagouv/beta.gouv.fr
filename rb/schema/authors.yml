@@ -6,21 +6,28 @@ mapping:
   "role":
     type:      str
     required:  yes
-  "start":
-    type:      date
-    required:  yes
-  "end":
-    type:      date
-  "employer":
-    type:      str
-    assert:    "['dinsic','service','independent','admin'].include?(val.split('/').first)"
-    required:  yes
   "link":
     type:      str
   "avatar":
     type:      str
   "github":
     type:      str
+  "missions":
+    type:      seq
+    sequence:
+        - type:      map
+          mapping:
+            "start":
+              type:      str
+              required:  yes
+            "end":
+              type:      str
+            "status":
+              type:      str
+              assert:    "['dinsic','service','independent','admin'].include?(val)"
+              required:  yes
+            "employer":
+              type:      str
   "startups":
     type:      seq
     sequence:

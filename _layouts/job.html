@@ -25,7 +25,15 @@ layout: default
         <div class="text-quote">
           <ul>
             {% if page.junior %}<li>Les juniors sont bienvenu·e·s sur ce poste ! L'équipe assurera votre formation.</li>{% endif %}
-            {% if page.techno %}<li>Technologie·s retenue·s : {{ page.techno }}.</li>{% endif %}
+            {% if page.techno %}
+              <li>Technologie·s retenue·s :
+                <ul>
+                  {% for techno in page.techno %}
+                  <li>{{ techno }}</li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% endif %}
           </ul>
         </div>
       </div>

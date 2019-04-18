@@ -2,8 +2,11 @@
 fullname: Sylvie Lebel
 role: Intrapreneuse
 avatar: https://avatars1.githubusercontent.com/u/38952269?s=460&v=4
-start: 2018-04-01
-employer: admin/pole-emploi
+missions:
+  - start: '2018-04-01'
+    end:
+    status: admin
+    employer: pole-emploi
 startups:
     - zen
 ---

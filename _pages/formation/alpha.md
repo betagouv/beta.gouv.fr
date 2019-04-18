@@ -6,14 +6,14 @@ additional_css:
   - side-panel.css
 
 # Dates de la prochaine formation
-alpha-start: 2018-12-04
-alpha-end: 2018-12-05
-alpha-time: de 9h à 18h
-alpha-location: CNFPT (Centre National de la Fonction Publique Territoriale)- Paris 12e
-alpha-location-link: http://www.cnfpt.fr/sites/default/files/siege.1.2-v2.pdf
-alpha-catering: Déjeuner pris en charge pour tous. Dîner, hôtel et transports uniquement pour les agents publics territoriaux
-alpha-more:
-alpha-link: https://startupdetat.typeform.com/to/kS1xfw
+alpha-start: 2019-06-12
+alpha-end: 2019-06-12
+alpha-time: de 9h à 18h30
+alpha-location: CNFPT - 78 rue de Reuilly, 75012 Paris
+alpha-location-link: https://www.openstreetmap.org/#map=19/48.84347/2.39093
+alpha-catering: Le CNFPT prend en charge les frais de déplacement (A/R), d'hébergement (la veille) et de repas des agents territoriaux.
+alpha-more: "[Le visionnage du MOOC](/alpha/mooc/) est obligatoire en amont de cette session."
+alpha-link: https://startupdetat.typeform.com/to/Iuwd3O
 ---
 
 Alpha est la formation accélérée aux méthodes de la communauté beta.gouv.fr. Elle est destinée à accompagner les nouvelle Startups d'États et leurs intrapreneurs.

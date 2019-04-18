@@ -1,9 +1,11 @@
 ---
 fullname: Aude Millamon
 role: Intrapreneuse
-start: 2018-01-01
-end:
-employer: admin/Département du Pas-de-Calais
+missions:
+  - start: '2018-01-01'
+    end:
+    status: admin
+    employer: Département du Pas-de-Calais
 startups:
   - lapins
 ---

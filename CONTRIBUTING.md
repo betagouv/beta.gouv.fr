@@ -18,7 +18,13 @@ Modifier le fichier `$id_startup.md` de description de la Startup dans le dossie
 
 La documentation des différentes propriétés à renseigner est accessible en cliquant sur le lien de création d'une nouvelle Startup dans la section précédente.
 
-## Ajouter un membre à la communauté BetaGouv
+## Ajouter ou modifier un membre à la communauté BetaGouv
+
+### [À travers l'interface web Netlify CMS (pour ne pas avoir à écrire de code)](https://beta.gouv.fr/admin/)
+
+Cette interface permet à toutes les personnes de la communauté d'ajouter de nouveaux membres ou de modifier des fiches. Si c'est pour créer ta fiche, demande à ton marrain de t'aider !
+
+**Attention** : en cas d'ajout de fiche, toi ou ton marrain doit vérifier que le nom du fichier se conforme aux indications ci-dessous.
 
 ### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=authors&where=content/_authors/prenom.nom.md) :smiley:
 
@@ -50,7 +56,17 @@ Tu peux fournir un fichier avec ta photo si tu n'as pas de compte Github, ou si 
 
 Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de sites statiques. La version utilisée est celle [actuellement en production](https://github.com/jekyll/jekyll/releases/tag/v3.8.5/).
 
-Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) et [Jekyll](https://jekyllrb.com) dans leurs [versions de production](https://github.com/jekyll/jekyll/releases/tag/v3.8.5) :
+Pour initialiser votre environnement de développement, commencez par installer [Ruby](https://www.ruby-lang.org/fr/) dans la version spécifiée par le fichier `.ruby-version`.
+Si vous utilisez RVM pour isoler votre environnement, vous pouvez le faire avec la commande suivante:
+
+```sh
+rvm install `cat .ruby-version`
+```
+
+Toujours avec RVM, vous pouvez créer un fichier `.ruby-gemset` contenant un nom de gemset à utiliser en local.
+Il vous suffit alors de sortir puis revenir du répertoire pour que le gemset soit créé correctement si votre shell est bien configuré.
+
+Ensuite, exécutez les commandes suivantes :
 
 ```sh
 git clone https://github.com/betagouv/beta.gouv.fr.git

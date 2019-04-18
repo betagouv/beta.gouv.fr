@@ -57,26 +57,26 @@ blockquote {
 
 /* Styles pour les iframes de vidéos */
 
-.mooc-iframe-center {
+.video-iframe-center {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
 @media (max-width: 749px) {
-  .mooc-iframe-center {
+  .video-iframe-center {
     width: 100%
   }
 }
 
 @media (min-width: 750px) {
-  .mooc-iframe-center {
+  .video-iframe-center {
     text-align: center;
     width: 75%
   }
 }
 
-.mooc-iframe-container {
+.video-iframe-container {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
@@ -84,7 +84,7 @@ blockquote {
   max-width: 100%;
 }
 
-.mooc-iframe-container iframe, .mooc-iframe-container object, .mooc-iframe-container embed {
+.video-iframe-container iframe, .video-iframe-container object, .video-iframe-container embed {
   position: absolute;
   top: 0;
   left: 0;

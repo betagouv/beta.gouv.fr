@@ -3,9 +3,11 @@ fullname: Stéphane Raimbault
 role: Développeur
 link: https://webstack.fr
 github: stephane
-start: 2018-02-26
-end: 2019-06-30
-employer: service/octo
+missions:
+  - start: '2018-02-26'
+    end: '2019-06-30'
+    status: service
+    employer: octo
 startups:
     - a-dock
 ---

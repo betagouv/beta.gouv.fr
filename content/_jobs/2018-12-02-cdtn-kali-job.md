@@ -1,6 +1,6 @@
 ---
 roles: un·e dev web backend
-open: true
+open: false
 startup: codedutravail
 techno: Stack Javascript / Python
 ---

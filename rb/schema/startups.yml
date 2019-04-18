@@ -30,6 +30,10 @@ mapping:
     type:      str
     pattern:   /@/
     required:  yes
+  "techno":
+    type:      seq
+    sequence:
+        - type:      str
   "redirect_from":
     type:      seq
     sequence:

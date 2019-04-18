@@ -1,9 +1,10 @@
 ---
 fullname: Florian Pagnoux
 role: Développeur
-start: 2015-04-30
-end: 2017-10-26
-employer: dinsic
+missions:
+  - start: '2015-04-30'
+    end: '2017-10-26'
+    status: dinsic
 startups:
 previously:
   - mes-aides

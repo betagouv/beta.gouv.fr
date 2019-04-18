@@ -2,8 +2,11 @@
 fullname: Mélanie Rogé
 role: Chargée de développement
 avatar: https://image.noelshack.com/fichiers/2018/41/2/1539097039-melanie.jpeg
-start: 2018-10-08
-employer: admin/Ministères Sociaux
+missions:
+  - start: '2018-10-08'
+    end: '2019-06-30'
+    status: admin
+    employer: Ministères Sociaux
 startups:
     - e-mjpm
 ---

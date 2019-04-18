@@ -2,9 +2,11 @@
 fullname: Elodie Quézel
 role: Business Developer
 avatar: /img/authors/elodie.quezel.jpg
-start: 2018-10-01
-end: 2019-04-01
-employer: admin/eig
+missions:
+  - start: '2018-10-01'
+    end: '2019-09-01'
+    status: admin
+    employer: eig
 startups:
     - signaux-faibles
 ---

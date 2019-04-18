@@ -24,18 +24,20 @@ layout: default
         <ul>
           <li>
             <b>Quand ?</b><br />
-            Du {{ page.alpha-start | date: "%d/%m/%y" }} au {{ page.alpha-end | date: "%d/%m/%y" }} {{ page.alpha-time }}
+            {% if page.alpha-start == page.alpha-end %} Le {{ page.alpha-start | date: "%d/%m/%y" }} {% else %} Du {{ page.alpha-start | date: "%d/%m/%y" }} au {{ page.alpha-end | date: "%d/%m/%y" }}{% endif %} {{ page.alpha-time }}
           </li>
           <li>
             <b>Où ?</b><br />
             <a href="{{ page.alpha-location-link }}">{{ page.alpha-location }}</a>
           </li>
-          <li>
-            <b>Quelle prise en charge ?</b><br />
-            {{ page.alpha-catering }}
-          </li>
+          {% if page.alpha-catering %}
+            <li>
+              <b>Quelle prise en charge ?</b><br/>
+              {{ page.alpha-catering | markdownify | remove: '<p>' | remove: '</p>' }}
+            </li>
+          {% endif %}
           {% if page.alpha-more %}
-            <li>{{ page.alpha-more }}</li>
+            <li>{{ page.alpha-more | markdownify | remove: '<p>' | remove: '</p>' }}</li>
           {% endif %}
           <li>
             <a href="{{ page.alpha-link }}">Réserver sa place en ligne</a>

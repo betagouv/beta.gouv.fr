@@ -1,9 +1,11 @@
 ---
 fullname: Allison Chanat
 role: Chargée de développement
-start: 2016-11-01
-end: 2017-07-01
-employer: admin/pole-emploi
+missions:
+  - start: '2016-11-01'
+    end: '2017-07-01'
+    status: admin
+    employer: pole-emploi
 startups:
 previously:
   - memo

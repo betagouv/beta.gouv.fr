@@ -1,13 +1,13 @@
 ---
 title: Action Bidonvilles
-mission: Partager l'information sur les bidonvilles pour favoriser la mise en place d'actions pertinentes
+mission: Connaître, partager et agir pour résorber les bidonvilles
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 incubator: mtes
 status: construction
 start: 2018-10-01
 end: 
-link: 
-repository: 
+link: http://action-bidonvilles.beta.gouv.fr/
+repository: https://github.com/MTES-MCT/action-bidonvilles
 stats: false
 contact: sophie.jacquemont@developpement-durable.gouv.fr
 ---

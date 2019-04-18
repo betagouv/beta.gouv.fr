@@ -2,9 +2,11 @@
 fullname: Romy Duhem-Verdière
 role: UX designer
 link: http://romy.tetue.net
-start: 2017-05-03
-end: 2017-08-31
-employer: service/octo
+missions:
+  - start: '2017-05-03'
+    end: '2017-08-31'
+    status: service
+    employer: octo
 startups:
   - pass-culture
 previously:

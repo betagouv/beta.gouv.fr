@@ -2,7 +2,7 @@
 roles: un·e développeur·se mobile
 startup: signalement
 techno: React Native
-open: true
+open: false
 ---
 
 L'équipe Signalement recrute un·e développeur·se mobile pour mieux faire respecter le droit de consommation.

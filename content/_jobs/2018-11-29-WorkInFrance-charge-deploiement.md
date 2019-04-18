@@ -1,7 +1,7 @@
 ---
 roles: un·e chargé·e de déploiement
 startup: workinfrance
-open: true
+open: false
 ---
 
 La Start Up WorkinFrance cherche un·e Chargé·e de déploiement avec une forte appétence pour le droit des étrangers pour aider l'équipe à passer à la vitesse supérieure !
@@ -44,6 +44,6 @@ Il s’agira donc de :
 - Démarrage en Janvier 2019
 
 ## Candidater
-Écrivez-nous à l'adresse [contact@workinfrance@beta.gouv.fr](mailto:contact@workinfrance@beta.gouv.fr) et venez partager vos expériences et vos belles histoires dans la construction de produits qui marchent 😉
+Écrivez-nous à l'adresse [contact@workinfrance.beta.gouv.fr](mailto:contact@workinfrance.beta.gouv.fr) et venez partager vos expériences et vos belles histoires dans la construction de produits qui marchent 😉
 
 

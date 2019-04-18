@@ -3,11 +3,12 @@ title: Zen
 mission: Aider les demandeurs d’emploi qui cumulent emploi et chômage à être payé le bon montant d’allocation chômage chaque mois
 owner: Pôle emploi
 incubator: pole-emploi
-status: construction
+status: acceleration
 start: 2018-04-01
+link: https://zen.pole-emploi.fr
 stats: false
-repository: https://github.com/StartupsPoleEmploi/actualisation
-contact: sylvie.lebel@pole-emploi.fr
+repository: https://github.com/StartupsPoleEmploi/zen
+contact: zen@pole-emploi.fr
 ---
 
 Chaque mois plus de 3 millions de demandeurs d’emploi actualisent leur situation pour récupérer leur allocation chômage.

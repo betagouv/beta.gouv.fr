@@ -2,8 +2,11 @@
 fullname: Alexandre Dupont
 role: Intrapreneur
 avatar: https://image.ibb.co/bw5qB6/Alex_dupont.png
-start: 2018-01-01
-employer: admin/DREAL
+missions:
+  - start: '2018-01-01'
+    end:
+    status: admin
+    employer: DREAL
 startups:
     - a-dock
 ---

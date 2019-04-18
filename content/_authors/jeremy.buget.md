@@ -1,8 +1,11 @@
 ---
 fullname: Jérémy Buget
 role: CTO
-start: 2016-06-08
-employer: service/pix
+missions:
+  - start: '2016-06-08'
+    end:
+    status: service
+    employer: pix
 startups:
     - pix
 ---

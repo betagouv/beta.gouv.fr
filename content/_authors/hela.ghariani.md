@@ -1,9 +1,10 @@
 ---
 fullname: Hela Ghariani
 role: Responsable de produit
-start: 2014-11-01
-end: 2019-10-30
-employer: dinsic
+missions:
+  - start: '2014-11-01'
+    end: '2019-10-30'
+    status: dinsic
 startups:
   - mdph
   - bourse

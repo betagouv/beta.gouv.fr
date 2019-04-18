@@ -2,9 +2,10 @@
 fullname: Adrien Gonzalez
 role: Développeur
 link:
-start: 2018-02-12
-end:  2018-06-01
-employer: independent
+missions:
+  - start: '2018-02-12'
+    end:  '2020-01-01'
+    status: independent
 startups:
   - e-mjpm
 ---
