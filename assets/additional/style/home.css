@@ -1,0 +1,145 @@
+/* Suppresion de l'effet shadow de l'image du hero */
+
+.article__hero img {
+    filter:none;
+}
+
+/* Centrer les accroches */
+
+.centered {
+  text-align: center;
+  justify-content: space-around;
+}
+
+/* Mettre des marges autour de la section mosaic */
+
+.mosaic {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+/* Centrer la section newsletter */
+
+.newsletter {
+  text-align: center;
+}
+
+/* Ancien CSS épuré : reprise de la section mosaic */
+
+.mosaic .photo {
+    /* background-image: url('/img/pages/agent_public.jpg'); */
+    overflow: hidden;
+}
+
+.mosaic .row {
+  margin: 0;
+}
+
+.mosaic .row > * {
+  margin: 0;
+}
+
+.mosaic .description {
+    background-color: #fff;
+    padding: 2em;
+    position: relative;
+}
+
+.mosaic .description::before {
+    content: '';
+    border: 20px solid transparent;
+    border-right: 20px solid #fff;
+    position: absolute;
+    left: -39px;
+    height: 0;
+    width: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.mosaic .description h3 {
+    margin-top: 0;
+}
+
+.mosaic .link {
+    background-color: #27486B;
+    color: #fff;
+    padding: 2em;
+    width: 50%;
+    display: flex;
+    flex-grow: 2;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.mosaic .link:hover {
+    text-decoration: underline;
+}
+
+.mosaic .link p {
+  width: 100%;
+}
+
+.mosaic .link img {
+    height: 40px;
+}
+
+.mosaic .link + .link {
+    background-color: #0081d5;
+}
+
+.mosaic .link img {
+    display: block;
+    margin: auto;
+}
+
+.mosaic .photo {
+    flex: 1 0 50%;
+    -ms-flex: 1 1 50%;
+    background-size: cover;
+}
+
+.mosaic .photo.decideurs {
+    background-image: url("/img/layouts/home/decideur_public.jpg");
+}
+
+.mosaic .photo.agents {
+    background-image: url("/img/layouts/home/agent_public.jpg");
+}
+
+.mosaic .inverted {
+    direction: rtl;
+}
+
+.mosaic .inverted .stacked {
+    direction: ltr;
+}
+
+.mosaic .inverted .description::before {
+    border-right: transparent;
+    border-left: 20px solid #fff;
+    right: -20px;
+    left: unset;
+    height: 0;
+    width: 0;
+    transform: translateY(-50%);
+}
+
+@media (max-width: 749px) {
+    .mosaic .photo {
+        min-height: 200px;
+    }
+
+    .mosaic .inverted {
+        direction: ltr;
+    }
+
+    .mosaic .link {
+        width: 100%;
+    }
+
+    .mosaic .description::before {
+        content: none;
+    }
+}

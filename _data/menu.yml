@@ -1,13 +1,24 @@
 ---
-title: beta.gouv.fr
+title:
 nav:
-- 
+-
+  label: Startups
+  target: _pages/startups.md
+-
+  label: Incubateurs
+  target: _pages/incubateurs.md
+-
+  label: Communauté
+  target: _pages/communaute.md
+-
+  label: Formation
+  target: _pages/formation/alpha.md
+-
+  label: À propos
+  target: _pages/about.md
+-
+  label: Recrutement
+  target: _pages/recrutement.md
+-
   label: Blog
-  target: _pages/blog.md
-- 
-  label: Menu dropdown
-  children:
-    -
-      label: Page
-      target: _pages/page.md
-
+  url: https://blog.beta.gouv.fr

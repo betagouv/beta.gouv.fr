@@ -1,0 +1,35 @@
+{% comment %}
+  Appeler cette page avec un job.
+  Ex : {% include card-job.html job = job %}
+{% endcomment %}
+
+{% assign job = include.job %}
+
+{% capture startup_id %}/startups/{{ job.startup }}{% endcapture %}
+{% assign startup = site.startups | where: "id", startup_id | first %}
+<div class="card {% if job.type == 'friend' %}friend {% endif %}{% unless job.open %}closed {% endunless %}">
+  <a href="{{ job.url }}">
+    <div class="card__cover">
+      {% include screenshot.html startup=startup force=true %}
+    </div>
+    <div class="card__content">
+      <h3>{{ job.roles | capitalize }}</h3>
+      <div class="card__meta">Offre de {% if job.friend %}{{ job.friend | strip_html }}{% else %}{{ startup.title | default: "beta.gouv.fr" | strip_html}}{% endif %}</div>
+      <p>{{ job.excerpt | truncate: 280 | strip_html }}</p>
+    </div>
+  </a>
+  <div class="card__extra">
+    {% if job.open %}
+      <p>Poste ouvert le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></p>
+    {% else %}
+      <p>Ce poste a été pourvu depuis son ouverture le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></p>
+    {% endif %}
+  </div>
+  {% if job.techno or job.junior or job.type == 'friend' %}
+    <div class="card__extra">
+      {% if job.type == 'friend' %}<div class="label label--active">Nos ami·e·s recrutent</div>{% endif %}
+      {% if job.junior %}<div class="label label--active">Juniors bienvenu·e·s</div>{% endif %}
+      {% if job.techno %}<div class="label label--inactive">{{ job.techno }}</div>{% endif %}
+    </div>
+  {% endif %}
+</div>

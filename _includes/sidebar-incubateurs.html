@@ -1,0 +1,13 @@
+<nav class="side-pane">
+  <ul class="side-pane__menu sticky">
+    <li {% if page.url == "/incubateurs/" %}class="active"{% endif %}>
+      <a class="side-pane__link" href="/incubateurs">Le manifeste</a>
+    </li>
+  {% assign incubators = site.incubators %}
+  {% for incubator in incubators %}
+    <li {% if page.id == incubator.id %}class="active"{% endif %}>
+      <a class="side-pane__link" href="{{ incubator.url | relative_url }}">{{ incubator.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+</nav>

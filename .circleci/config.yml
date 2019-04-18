@@ -3,20 +3,24 @@ version: 2
 jobs:
   build:
     docker:
-       - image: circleci/ruby:2.5.1-node-browsers  # we need Java (via 'browsers' variant) for html5validator; node for the Jekyll template
+      - image: circleci/ruby:2.5.1-node-browsers
 
     steps:
       - checkout
+
       - run:
           name: Generate Gemlock
           command: bundle lock
 
       - restore_cache:
-          key: dependency-cache-{{ checksum "Gemfile.lock" }}
+          keys:
+            - gem-cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+            - gem-cache-v2-{{ arch }}-{{ .Branch }}
+            - gem-cache-v2
 
       - run:
-          name: Install Ruby dependencies
-          command: bundle install --jobs=4 --retry=3 --path vendor/bundle
+          name: Bundle Install
+          command: bundle check || bundle install --path vendor/bundle
 
       - run:
           name: Install html5validator
@@ -26,10 +30,9 @@ jobs:
             pip3 install --user --upgrade html5validator  # will install in $HOME/.local
 
       - save_cache:
-          key: dependency-cache-{{ checksum "Gemfile.lock" }}
+          key: gem-cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
           paths:
-            - ./vendor/bundle
-            - $HOME/.local
+            - vendor/bundle
 
       - run:
           name: Check authors file name structure (first_name.last_name.md)
@@ -50,7 +53,7 @@ jobs:
           command: bundle exec jekyll doctor
 
       - run:
-          name: Compile website
+          name: Jekyll build
           command: bundle exec jekyll build
 
       - run:
@@ -63,15 +66,15 @@ jobs:
 
       - run:
           name: Validate HTML spec compliance
-          command: $HOME/.local/bin/html5validator --root _site
+          command: $HOME/.local/bin/html5validator --root _site --ignore 'Element "img" is missing required attribute "src"'
 
       - run:
           name: Check author metadata
-          command: ruby rb/bin/validate rb/schema/author.yml "_authors/*.md"
+          command: ruby rb/bin/validate rb/schema/authors.yml "content/_authors/*.md"
 
       - run:
           name: Check startup metadata
-          command: ruby rb/bin/validate rb/schema/startup.yml "_startup/*.md"
+          command: ruby rb/bin/validate rb/schema/startups.yml "content/_startups/*.md"
 
       - run:
           name: Lint JSON API pages
@@ -81,6 +84,7 @@ jobs:
           name: Start server
           command: bundle exec jekyll serve --no-watch --skip-initial-build
           background: true
+
       - run:
           name: Wait for server to start
           command: |
@@ -88,6 +92,8 @@ jobs:
             do sleep 1
             done
 
-      - run:
-          name: Check social networks friendliness
-          command: ruby rb/test/opengraph.rb
+# Permettre la migration plus facilement ; à remettre ASAP
+#      - run:
+#          name: Check social networks friendliness
+#          command: ruby rb/test/opengraph.rb
+

@@ -6,15 +6,16 @@ layout: null
     { "self": "{{ site.url }}/startups" }
 , "data":
     [
-    {% assign startups = site.startup | where_exp: 'startup', 'startup.status != death' %}
+    {% assign startups = site.startups | where_exp: 'startups', 'startups.status != death' %}
     {% for startup in startups %}
-        {% assign startup_id = startup.id | remove: '/startup/' %}
-        {% assign screenshot_file = site.static_files | where: 'basename', startup_id | first %}
+        {% assign startup_id = startup.id | remove: '/startups/' %}
+        {% assign screenshot_files = site.static_files | where: "startups_img", true %}
+        {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
 
         {% if screenshot_file %}
-            {% assign screenshot_path = screenshot_file.path %}
+          {% assign screenshot_path = screenshot_file.path %}
         {% else %}
-            {% assign screenshot_path = '/img/startup/' | append: startup_id | append: '.png' %}
+          {% assign screenshot_path = '/img/startups/' | append: startup_id | append: '.png' %}
         {% endif %}
 
         { "id"        : "{{ startup_id }}"
