@@ -1,5 +1,5 @@
 ---
-title: A+, le service public VIP pour tous.
+title: Administration+, le service public VIP pour tous.
 mission: La communauté des A+ vous aide à résoudre les blocages administratifs.
 owner: DINSIC
 incubator: dinsic
@@ -39,6 +39,6 @@ C’est un gain de temps pour tous ! (moins de déplacements aux guichets, moins
 
 L’expérimentation a débuté à Argenteuil (Val d’Oise) en décembre 2017 et en février 2018 dans les Alpes-Maritimes. Elle vient par ailleurs d'initier son déploiement à Cahors (Lot) dans le cadre de l'expérimentation Carte Blanche portée par le Premier Ministre Edouard Philippe et la Direction interministérielle de la transformation publique (DITP). Depuis sa mise en production, A+ a enregistré plus de 320 demandes de résolution de blocages administratifs complexes.
 
-Ce sont aujourd’hui 22 partenaires - administrations centrales, opérateurs de l’Etat et collectivités - qui nous ont fait confiance et utilisent A+ au quotidien pour la résolution des blocages administratifs au service des plus démunis.
+Ce sont aujourd’hui 23 partenaires - administrations centrales, opérateurs de l’Etat et collectivités - qui nous ont fait confiance et utilisent A+ au quotidien pour la résolution des blocages administratifs au service des plus démunis.
 
 Vous êtes un agent d'opérateur public, vous êtes intéressé·e pour participer à la création de ce service ? [Contactez-nous](mailto:contact@aplus.beta.gouv.fr?subject=Contact%20Site%20Beta%20Gouv).
