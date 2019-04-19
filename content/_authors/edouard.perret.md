@@ -4,8 +4,8 @@ github: edupedup
 role: Ops
 avatar:
 missions:
-  - start: '2018-01-03'
-    end: '2019-03-31'
+  - start: '2019-04-15'
+    end: '2019-12-31'
     status: service
     employer: octo
 startups:
