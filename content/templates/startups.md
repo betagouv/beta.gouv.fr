@@ -8,7 +8,8 @@ start: 2015-01-15 # date au format ISO (AAAA-MM-DD)
 end: # laisser vide
 link: https://mes-aides.gouv.fr
 repository: https://github.com/betagouv/mes-aides-ui # ou page de description des dépôts s'il y en a plusieurs
-stats: false
+stats: false # mettre à true pour renvoyer vers ta page de stats. Attention, elle doit se trouver sur [url du site]/stats !
+stats_url: # optionnel, si stats est à true, alors tu peux indiquer vers quelle URL pointer vers tes stats.
 contact: contact@mes-aides.gouv.fr # sera visible de tous
 ---
 
