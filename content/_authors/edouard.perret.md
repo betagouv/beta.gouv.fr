@@ -2,7 +2,6 @@
 fullname: Edouard Perret
 github: edupedup
 role: Ops
-avatar:
 missions:
   - start: '2019-04-15'
     end: '2019-12-31'
