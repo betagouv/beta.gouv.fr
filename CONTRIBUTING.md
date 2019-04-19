@@ -18,6 +18,10 @@ Modifier le fichier `$id_startup.md` de description de la Startup dans le dossie
 
 La documentation des différentes propriétés à renseigner est accessible en cliquant sur le lien de création d'une nouvelle Startup dans la section précédente.
 
+## Ajouter ou modifier l'image d'illustration d'un Startup existante
+
+Ajouter un image `$id_startup.jpg`ou .png dans le dossier [img/startups](https://github.com/betagouv/beta.gouv.fr/tree/master/img/startups)
+
 ## Ajouter ou modifier un membre à la communauté BetaGouv
 
 ### [À travers l'interface web Netlify CMS (pour ne pas avoir à écrire de code)](https://beta.gouv.fr/admin/)
