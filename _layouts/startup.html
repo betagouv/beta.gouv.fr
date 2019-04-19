@@ -28,7 +28,7 @@ layout: default
           <li>
             Les statistiques d'usage
             {% if page.stats %}
-              <a href="{{ page.link | strip }}/stats" title="Statistiques de {{ page.title }}">sont disponibles.</a>
+              <a href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">sont disponibles.</a>
             {% else %}
               <em>ne sont pas encore disponibles.</em>
             {% endif %}

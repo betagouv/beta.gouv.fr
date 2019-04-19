@@ -8,7 +8,8 @@ start: 2018-09-03
 end:
 link:
 repository: https://github.com/betagouv/e-controle
-stats: false
+stats: true
+stats_url: https://infogram.com/indicateurs-1h0n250kv01l4pe?live
 contact: e-controle@beta.gouv.fr
 redirect_from:
   - /startups/startup-jf
