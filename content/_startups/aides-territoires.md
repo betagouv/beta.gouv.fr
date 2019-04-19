@@ -9,7 +9,7 @@ end: 2018-07-30
 link: http://www.aides-territoires.beta.gouv.fr/
 repository:
 stats: false
-contact: elise.marion@beta.gouv.fr
+contact: aides-territoires@beta.gouv.fr
 ---
 
 ## Le problème
