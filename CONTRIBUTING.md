@@ -44,7 +44,7 @@ Tu peux fournir un fichier avec ta photo si tu n'as pas de compte Github, ou si 
 
 > Pour un premier recrutement (le CTO de la Startup), la valeur conseillée de ce champ est "Choix technologiques ouverts parmi les solutions libres du marché."
 
-> Pour les recrutements ultérieurs, vous pouvez préciser s'ils sont ouverts aux débutant·e·s. Le recrutement de ces profils "juniors" est un élément important pour augmenter la diversité au sein de notre collectif ; prenez le temps de réfléchir à vos besoins pour ce recrutement avant d'écarter cette possibilité.
+> Pour les recrutements ultérieurs, vous pouvez préciser s'ils sont ouverts aux juniors. Le recrutement de ces profils "juniors" est un élément important pour augmenter la diversité au sein de notre collectif ; prenez le temps de réfléchir à vos besoins pour ce recrutement avant d'écarter cette possibilité.
 
 ## Modifier le contenu éditorial
 

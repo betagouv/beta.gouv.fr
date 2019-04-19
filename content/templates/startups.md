@@ -1,6 +1,6 @@
 ---
 title: Mes Aides # une majuscule et pas d'acronymes
-mission: Accéder aux conseils d'un·e professionnel·le à proximité pour trouver un logement # infinitif, pas de point ; compléter la phrase « En investissant dans ce produit l'État cherche à… »
+mission: Accéder aux conseils de professionnels à proximité pour trouver un logement # infinitif, pas de point ; compléter la phrase « En investissant dans ce produit l'État cherche à… »
 owner: DINSIC # Administration porteuse
 incubator: dinsic # le nom du fichier de l'incubateur de la startup
 status: consolidation # les phases possibles sont définies dans /content/_phases/
