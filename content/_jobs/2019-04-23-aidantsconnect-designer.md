@@ -4,11 +4,9 @@ startup: aidantsconnect
 open: true
 ---
 
-Aidants Connect cherche une personne chargée de la recherche utilisateurs !
+Aidants Connect a pour objectif de permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule. 
 
 <!--more-->
-
-Aidants Connect a pour objectif de permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule. 
 
 ### Qui sommes nous ?
 Notre équipe souhaite faciliter l’accompagnement des usagers les plus en difficulté avec le numérique, qui expriment un besoin immédiat d’accès à leurs droits et plus largement aux services publics.
