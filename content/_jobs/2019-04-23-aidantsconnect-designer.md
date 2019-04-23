@@ -4,7 +4,7 @@ startup: aidantsconnect
 open: true
 ---
 
-Aidants Connect a pour objectif de permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule. 
+Aidants Connect a pour objectif de permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule.
 
 <!--more-->
 
@@ -24,7 +24,7 @@ La première version du service proposerait :
 La Startup d’Etat a démarré début mars 2019 et l’objectif est de valider l’hypothèse de solution pour fin août 2019.
 
 ### Le rôle
-Nous comprenons le rôle de l'UX comme quelqu’un·e qui :
+Nous comprenons le rôle de l'UX une personne qui :
 
 * pense que l’UX est une façon de résoudre les problèmes des usagers, plutôt que de développer la prochaine fonctionnalité dernier cri ;
 * voit l’UX/UI comme une façon de donner un pouvoir aux usagers, plutôt qu’un simple agencement de pixels ;
