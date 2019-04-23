@@ -8,7 +8,8 @@ start: 2015-10-11
 end:
 link: https://particulier.api.gouv.fr/
 repository: https://github.com/betagouv/api-particulier
-stats: false
+stats: true
+stats_url: https://particulier.api.gouv.fr/stats.html
 contact: contact@particulier.api.gouv.fr
 ---
 
