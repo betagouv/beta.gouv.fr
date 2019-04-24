@@ -1,7 +1,7 @@
 ---
 title: Registre de preuve de covoiturage
 mission:  Développez le covoiturage sur votre territoire
-owner: DINSIC
+owner: DGITM
 incubator: dinsic 
 status: acceleration
 start: 2018-06-04 

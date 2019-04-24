@@ -6,8 +6,8 @@ incubator: dinsic
 status: construction
 start: 2019-01-21
 end:
-link:
-repository:
+link: https://leximpact.beta.gouv.fr/
+repository: https://github.com/betagouv/leximpact/
 stats: false
 contact: leximpact@openfisca.org
 ---
