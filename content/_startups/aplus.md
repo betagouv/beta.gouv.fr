@@ -41,4 +41,4 @@ L’expérimentation a débuté à Argenteuil (Val d’Oise) en décembre 2017 e
 
 Ce sont aujourd’hui 22 partenaires - administrations centrales, opérateurs de l’Etat et collectivités - qui nous ont fait confiance et utilisent A+ au quotidien pour la résolution des blocages administratifs au service des plus démunis.
 
-Vous êtes un agent d'opérateur public, vous êtes intéressé·e pour participer à la création de ce service ? [Contactez-nous](mailto:contact@aplus.beta.gouv.fr?subject=Contact%20Site%20Beta%20Gouv).
+Vous êtes une agente ou un agent d'opérateur public, vous souhaitez participer à la création de ce service ? [Contactez-nous](mailto:contact@aplus.beta.gouv.fr?subject=Contact%20Site%20Beta%20Gouv).

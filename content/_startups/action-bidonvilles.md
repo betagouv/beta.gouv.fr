@@ -3,13 +3,13 @@ title: Action Bidonvilles
 mission: Connaître, partager et agir pour résorber les bidonvilles
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: construction
+status: acceleration
 start: 2018-10-01
 end: 
 link: http://action-bidonvilles.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/action-bidonvilles
 stats: false
-contact: sophie.jacquemont@developpement-durable.gouv.fr
+contact: contact@action-bidonvilles.beta.gouv.fr
 ---
 
 ## La situation actuelle des bidonvilles
@@ -33,13 +33,22 @@ Le partage d’informations mises à jour régulièrement permettra :
 
 La vision à long-terme du projet est de permettre de mobiliser l’ensemble des acteurs susceptibles d’intervenir sur le sujet : collectivités, associations bénévoles, citoyens.
 
-## Une première expérimentation à Toulouse
+## Déploiement
 
-La Haute-Garonne est représentative des enjeux liés aux bidonvilles au niveau national, en termes :
+### Toulouse et Bordeaux
+
+Action bidonvilles est actuellement déployée en Haute-Garonne et en Gironde. Ces territoires ont été choisis car ils sont représentatifs des enjeux liés aux bidonvilles au niveau national, en termes :
 - d’acteurs impliqués : services de l’Etat, collectivités, associations ;
 - de types de sites : immeubles et terrains ;
 - de solutions mobilisées : évacuations avec accompagnement des personnes dans le logement, accompagnement sur site, service civique, médiation sanitaire.
 
-Le développement de ce service en lien avec la Haute-Garonne permettra donc d’appréhender la diversité des enjeux nationaux tout en limitant le périmètre géographique afin d’itérer plus rapidement sur le produit.
+Après un mois d'utilisation, les résultats sont les suivants :
+- 100% des sites sur les territoires expérimentaux sont rentrés et suivis via Action bidonvilles : 39 sites en Haute-Garonne et 135 en Gironde ;
+- La plateforme est utilisée lors des réunions de suivi en Haute-Garonne : 23 créations de sites, 32 modifications, 2 déclarations de fermeture ;
+- 11 demandes spontanées d'accès à la plateforme ont été formulées dont plusieurs associations, démontrant un intérêt réel pour la plateforme dans les territoires.
 
-Au cours de cette première période de 6 mois, nous nous attacherons à mesurer et tenter d’augmenter le nombre d’actions menées et le taux de couverture du territoire (taux de bidonvilles dans lesquels une action a été menée ou est en cours).
+### Déploiement national
+
+L'objectif est désormais de déployer la plateforme Action bidonvilles sur l'ensemble des territoires concernés par la présences de bidonvilles (40 départements en France métropolitaine) en s'appuyant sur les correspondants territoriaux de la Dihal.
+
+Nous travaillons également au développement d'une nouvelle partie de la plateforme permettant de suivre précisément les différentes actions sociales menées sur les bidonvilles afin de soutenir les territoires dans la mise en place de stratégies globales de résorption des bidonvilles.
