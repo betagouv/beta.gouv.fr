@@ -1,9 +1,9 @@
 ---
-friend: "PIX"
+friend: 'PIX'
 roles: un.e développeur.e fullstack JS
 techno: Ember.JS / Node.JS
-type: "friend"
-externalURL: "https://pix.fr/recrutement/developpeur-web"
+type: 'friend'
+externalURL: 'https://pix.fr/recrutement/developpeur-web'
 open: true
 ---
 
