@@ -9,7 +9,7 @@ end:
 link:
 repository: https://github.com/betagouv/aplus
 stats: true
-stats_url: https://infogram.com/app/#edit/d6938650-a91e-4f19-90de-05802ef833bf
+stats_url: https://infogram.com/stats-dusage-dadministration-1hmr6gm9mk5o6nl?live
 contact: contact@aplus.beta.gouv.fr
 techno:
    - Scala
