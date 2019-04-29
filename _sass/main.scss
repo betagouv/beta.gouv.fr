@@ -13,32 +13,3 @@
 .article__preview img + .article__author-name {
   margin-left: 0.5em;
 }
-
-
-.card.card__alternative {
-
-}
-
-.card__alternative .card__cover {
-  border-radius: 50%;
-  min-width: 60px;
-  max-width: 60px;
-  height: 60px;
-  margin: 25px 10px 10px 10px;
-}
-
-.card__alternative .card__content {
-  padding: 10px;
-  word-break: break-word;
-}
-
-.card__alternative .card__body {
-  flex-grow: 0;
-  display: flex;
-  flex-direction: row;
-}
-
-.card__alternative .card__extra {
-  border: none;
-  background-color: #ebeff3;
-}
