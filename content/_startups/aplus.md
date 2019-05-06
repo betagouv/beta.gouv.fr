@@ -8,7 +8,8 @@ start: 2017-10-01
 end:
 link:
 repository: https://github.com/betagouv/aplus
-stats: false
+stats: true
+stats_url: https://infogram.com/stats-dusage-dadministration-1hmr6gm9mk5o6nl?live
 contact: contact@aplus.beta.gouv.fr
 techno:
    - Scala
