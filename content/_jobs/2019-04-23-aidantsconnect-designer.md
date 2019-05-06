@@ -1,5 +1,5 @@
 ---
-roles: une personne chargée de la recherche utilisateurs
+roles: une ou un designer en charge de la recherche utilisateurs
 startup: aidantsconnect
 open: true
 ---
