@@ -50,6 +50,6 @@ Si tu souhaites faire changer les choses et construire un État doté d’outils
 Le poste est basé à Paris, avec possibilité de télétravail bien évidemment.
 
 ## Comment postuler ?
-Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à [emmanuel.flahaut@developpement-durable.gouv.fr](emmanuel.flahaut@developpement-durable.gouv.fr).
+Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à [emmanuel.flahaut@developpement-durable.gouv.fr](mailto:emmanuel.flahaut@developpement-durable.gouv.fr).
 
 Si tu as des questions avant de postuler, n’hésite pas à nous écrire !
