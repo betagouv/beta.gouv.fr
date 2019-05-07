@@ -9,6 +9,7 @@ end:
 link: https://pix.fr
 repository: https://github.com/1024pix/pix/
 stats: true
+stats_url: https://stats.pix.fr
 contact: contact@pix.fr
 ---
 
