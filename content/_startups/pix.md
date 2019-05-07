@@ -8,7 +8,7 @@ start: 2016-06-08
 end:
 link: https://pix.fr
 repository: https://github.com/1024pix/pix/
-stats: false
+stats: true
 contact: contact@pix.fr
 ---
 
