@@ -1,3 +1,9 @@
+---
+roles: Un.e data scientist
+startup: trackdechets
+open: true
+---
+
 # Trackdéchets et Kelrisks recrutent un.e data scientist 
 
 _Poste ouvert le 3/05/2019_
