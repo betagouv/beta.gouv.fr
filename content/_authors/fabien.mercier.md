@@ -9,8 +9,6 @@ missions:
     employer: octo
 startups:
     - pass-culture
-previously:
-    - N/A
 ---
 
 Développeur fullstack
