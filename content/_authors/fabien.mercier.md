@@ -1,5 +1,6 @@
 ---
 fullname: Fabien Mercier
+github: NerOcrO
 role: Développeur
 missions:
   - start: '2019-05-13'
