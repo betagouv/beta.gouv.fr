@@ -8,11 +8,14 @@ nav:
   label: Incubateurs
   target: _pages/incubateurs.md
 -
-  label: Communauté
-  target: _pages/communaute.md
--
   label: Formation
   target: _pages/formation/alpha.md
+-
+  label: Préincubation
+  target: _pages/preincubation/presentation.md
+-
+  label: Communauté
+  target: _pages/communaute.md
 -
   label: À propos
   target: _pages/about.md

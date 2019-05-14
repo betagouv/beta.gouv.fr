@@ -1,0 +1,28 @@
+<nav class="side-pane">
+  <ul class="side-pane__menu sticky">
+    <li class="side-pane__dropdown {% if page.url == "/preincubation/" %}unfolded active{% endif %}">
+      <a class="side-pane__link" href="/preincubation/#presentation">Le programme de préincubation</a>
+      <ul class="side-pane__submenu">
+        <li>
+          <a class="side-pane__sublink" href="/preincubation/#inscription">S'inscrire à la prochaine saison</a>
+        </li>
+      </ul>
+    </li>
+    <li class="side-pane__dropdown {% if page.url contains "/preincubation/startups/" %}unfolded active{% endif %}">
+      <a class="side-pane__link" href="/preincubation/startups/">Les promotions</a>
+      <ul class="side-pane__submenu">
+        <!--
+          Reprendre le code du sidebar des startups
+          Classer par saison et non par phase
+          "Promo 1 : Néosud"
+        -->
+        {% assign mooc = site.mooc | sort: 'order' %}
+        {% for sequence in mooc %}
+        <li {% if page.url == sequence.url %}class="active"{% endif %}>
+          <a class="side-pane__sublink" href="{{ sequence.url }}">{{ sequence.label }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </li>
+  </ul>
+</nav>
