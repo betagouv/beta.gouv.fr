@@ -6,8 +6,8 @@ incubator: dinsic
 status: construction
 start: 2019-01-01
 end:
-link:https://candidat.traitdunion.beta.gouv.fr?utm_source=SiteBeta
-repository:https://github.com/betagouv/trait-d-union
+link: https://candidat.traitdunion.beta.gouv.fr?utm_source=SiteBeta
+repository: https://github.com/betagouv/trait-d-union
 stats: false
 contact: edwina.morize@beta.gouv.fr
 ---
