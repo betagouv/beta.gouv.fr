@@ -1,13 +1,13 @@
 ---
 title: Trait d'Union
-mission: Améliorer le retour à l'emploi des demandeurs d'emploi sortant d'une formation financée par la région Grand Est
+mission: Mettre en relation des demandeurs d'emploi et des entreprises de la région Grand Est autour d'un projet de formation
 owner: Région Grand Est
 incubator: dinsic
 status: construction
 start: 2019-01-01
 end:
-link:
-repository:
+link:https://candidat.traitdunion.beta.gouv.fr?utm_source=SiteBeta
+repository:https://github.com/betagouv/trait-d-union
 stats: false
 contact: edwina.morize@beta.gouv.fr
 ---
