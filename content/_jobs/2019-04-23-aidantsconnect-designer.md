@@ -1,5 +1,6 @@
 ---
 roles: une ou un designer en charge de la recherche utilisateurs
+title: "beta.gouv recrute : une ou un designer pour Aidants Connect"
 startup: aidantsconnect
 open: true
 ---
