@@ -1,6 +1,6 @@
 ---
 roles: Stagiaire bras droit
-startup: Locatio
+startup: locatio
 open: true
 ---
 
