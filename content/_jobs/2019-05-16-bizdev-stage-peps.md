@@ -59,7 +59,7 @@ Comme mentionné plus haut, les missions sont amenées à évoluer au fur et à 
 Le poste est basé à Paris, avec possibilité de télétravail bien évidemment.
 
 ## Comment postuler ?
-Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à [maud.blanck@beta.gouv.fr](mailto:maud.blanck@beta.gouv.fr).
+Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à [peps@beta.gouv.fr](mailto:peps@beta.gouv.fr).
 
 Si tu as des questions avant de postuler, n’hésite pas à nous écrire !
 
