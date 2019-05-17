@@ -137,3 +137,29 @@ blockquote {
   font-style: italic;
   margin: 0;
 }
+
+.article__hero {
+  min-height: 12em;
+  height: auto;
+}
+
+.card__cover {
+  height: 100px;
+}
+
+.card__cover img {
+  object-position: top;
+}
+
+.startup__title {
+  color: #0053b3;
+}
+
+h2.phase-title {
+  font-weight: normal;
+}
+
+h2.phase-title em {
+  font-style: normal;
+  font-weight: bold;
+}
