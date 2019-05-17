@@ -28,7 +28,7 @@ En système grandes cultures & élevage et pour le glyphosate par exemple, la mo
 
 Pas à pas, Peps permet aux agriculteurs de tracer une trajectoire vers leurs objectifs de réduction de produits phytosanitaires. Cette trajectoire est définie à partir de la situation initiale de l’exploitation et ses objectifs de production. Pour mener à bien son but, l’utilisateur bénéficie tout au long de sa démarche de l’apport de connaissances techniques, de support et de collaboration entre usagers. 
 
-En cohérence avec le centre national de ressource glyphosate et les ressources disponibles dans [EcophytoPic](http://www.ecophytopic.fr/), Peps permet d’atteindre les informations personnalisées s’adaptant aux conditions de production de l’utilisateur.
+En cohérence avec le centre national de ressource glyphosate, les ressources disponibles dans [EcophytoPic](http://www.ecophytopic.fr/) ansi les pratiques présentes dans fiches action des Certificats d'Economie de Produits Phytopharmaceutiques [CEPP](https://alim.agriculture.gouv.fr/cepp/#/content/ap-fichesaction), Peps permet de donner des informations personnalisées s'adaptant aux conditions de production de l'utilisateur.
 
 La première version de notre solution comportera :
 - une application permettant à l’agriculteur de renseigner rapidement sa situation initiale et son objectif
