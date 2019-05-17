@@ -5,29 +5,61 @@ layout: default
 {% comment %}additional_css : side-panel.css grid.css{% endcomment %}
 
 {% assign lang = page.lang | default: site.lang | default: "en" %}
+{% assign phases = site.phases | where:"related","incubation" | sort: 'order' %}
+{% assign phases_with_stopped = site.phases | sort: 'order' %}
+{% assign incubators = site.incubators %}
 
 <div class="page article" id="presentation">
   {% include hero-page.html title=page.title %}
 </div>
 
-<section class="documentation">
-  {% include sidebar-startups.html %}
-  <div class="main-pane">
-    <div class="markdown">
-      {{ content }}
+<section class="section section-white">
+    <div class="container startup-lists">
+        <ul>
+            {% for phase in phases %}
+              {% assign counter_target = phase.id | remove: "/phases/" %}
+              {% assign counter = site.startups | where:'status', counter_target | size %}
+              <li>
+                <div class="startup-lists__counter">{{ counter }}</div>
+                <div class="startup-lists__label">{{ phase.label }}</div>
+                <p class="startup-lists__description">{{ phase.short_description }}</p>
+                <a class="startup-lists__link" href="/startups/#{{ phase.status }}">Voir toutes les startups</a>
+              </li>
+            {% endfor %}
+        </ul>
     </div>
-    {% assign phases = site.phases | sort: 'order' %}
-    {% for phase in phases %}
-      <h2 id="{{ phase.status }}">Nos Startups d’État en {{ phase.label | downcase }}</h2>
-      <div class="markdown">
-        {{ phase.content | markdownify }}
-      </div>
-      <div class="grid">
-        {% assign startups = site.startups | where:"status", phase.status %}
-        {% for startup in startups %}
-          {% include card-startup.html startup = startup %}
-        {% endfor %}
-      </div>
-    {% endfor %}
-  </div>
 </section>
+<section class="section section-grey">
+    <div class="container">
+        {{ content }}
+        {% assign phases = site.phases | sort: 'order' %}
+        {% for phase in phases %}
+          {% assign counter_target = phase.id | remove: "/phases/" %}
+          {% assign counter = site.startups | where:'status', counter_target | size %}
+          <h2 class="phase-title" id="{{ phase.status }}"><em>{{ counter }}</em> Startups d’État en <em>{{ phase.label | downcase }}</em></h2>
+          <div class="markdown">
+            {{ phase.content | markdownify }}
+          </div>
+          <div class="grid">
+            {% assign startups = site.startups | where:"status", phase.status %}
+            {% for startup in startups %}
+              {% include card-startup.html startup = startup %}
+            {% endfor %}
+          </div>
+        {% endfor %}
+    </div>
+</section>
+
+<!-- Script pointing to search-script.js -->
+<script src="/assets/additional/js/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  searchResultTemplate: "<li><p><a href=\"{url}\">{title}</a> - {owner}<br>{mission}<p></li>",
+  noResultsText: "<li class=\"empty\">Aucun résultat</li>",
+  json: '/search.json'
+})
+</script>
