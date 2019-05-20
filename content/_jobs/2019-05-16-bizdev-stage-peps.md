@@ -4,16 +4,14 @@ startup: peps
 open: true 
 ---
 
-# Peps recrute un•e Business Developer en stage
-
-_Peps, le service public numérique qui accompagne les agriculteurs vers des pratiques économes en produits phytosanitaires._
+# Offre de stage - Business Developer
 
 ## Qui sommes-nous ?
-Peps est une Startup d’État créée en partenariat entre le Ministère de l’Agriculture et de l’Alimentation et le Ministère de la Transition Écologique et Solidaire.
+[Peps](https://beta.gouv.fr/startups/peps.html) est une Startup d’État créée en partenariat entre le Ministère de l’Agriculture et de l’Alimentation et le Ministère de la Transition Écologique et Solidaire.
 
-**Notre mission** : accompagner les agriculteurs vers des pratiques économes en phytos
+**Notre mission**, accompagner les agriculteurs vers des pratiques économes en produits phytosanitaires
 
-**Comment ?** : 
+**Comment ?** 
 - en proposant un itinéraire adapté la situation de chaque agriculteur (historique, pratiques actuelles, milieu…) 
 - en facilitant l’accès au conseil, au support et à la collaborations entre usagers
 
@@ -25,17 +23,19 @@ En 6 mois nous devons prouver que nous pouvons apporter de la valeur à l’util
 C’est pour atteindre cet objectif ambitieux que nous cherchons une quatrième personne motivée.
 
 ## Tes qualités
+Ton profil nous intéresse si tu es une personne :
+
 Autonome, tu sais prendre des initiatives
 
 Flexible, tes missions vont évoluer au fil des semaines
 
-Polyvalent•e, quand on est 4 il faut savoir toucher à tout !
+Polyvalente, quand on est 4 il faut savoir toucher à tout !
 
-Curieux•euse, l’apprentissage perpétuel est de mise
+Curieuse, l’apprentissage perpétuel est de mise
 
 Téméraire, décrocher ton téléphone ou aller sur le terrain ne te fait pas peur 
 
-Organisé•e, 6 mois ne laissent de temps au chaos
+Organisée, 6 mois ne laissent de temps au chaos
 
 ## Tes missions 
 - Participer aux orientations stratégiques sur la proposition de valeur et le produit
@@ -54,7 +54,7 @@ Comme mentionné plus haut, les missions sont amenées à évoluer au fur et à 
 
 - Contrat : stage de 6 mois
 - Début de la mission : dès que possible
-- Rémunération : à discuter
+- Gratification : à discuter
 
 Le poste est basé à Paris, avec possibilité de télétravail bien évidemment.
 
