@@ -39,5 +39,4 @@ Les hypothèses que l'équipe souhaite confronter au terrain sont:
 - il est possible de créer un fournisseur d'identité expérimental sur FranceConnect
 - le demandeur est connu dans 80% des cas par les services d'état-civil en France
 - les aidants acceptent de signer une charte de déontologie
-- les demandeurs acceptent de déléguer leurs démarches sans être notifiés des actions menée
 - les aidants ciblés ont accès à internet
