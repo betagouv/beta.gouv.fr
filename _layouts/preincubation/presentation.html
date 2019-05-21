@@ -16,27 +16,5 @@ layout: default
     <div class="markdown">
       {{ content }}
     </div>
-    <h2 id="inscription">Prochaine saison</h2>
-    {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
-    {% capture timestampEnd %}{{ page.season-end | date: '%s' }}{% endcapture %}
-    {% if timestampNow < timestampEnd %}
-      <div class="text-quote">
-        <ul>
-          <li>
-            <b>Quand ?</b><br />
-            {% if page.season-start == page.season-end %} Le {{ page.season-start | date: "%d/%m/%y" }} {% else %} Du {{ page.season-start | date: "%d/%m/%y" }} au {{ page.season-end | date: "%d/%m/%y" }}{% endif %}
-          </li>
-          {% if page.season-more %}
-            <li>{{ page.season-more | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-          {% endif %}
-          <li>
-            <a href="{{ page.season-link }}">S'inscrire</a>
-          </li>
-        </ul>
-      </div>
-    {% else %}
-      <p>Les dates de la prochaine saison seront bientôt annoncées.</p>
-      <p>Vous pouvez vous renseigner dès à présent auprès sur <a href="mailto:XXX@beta.gouv.fr">XXX@beta.gouv.fr</a>.</p>
-    {% endif %}
   </div>
 </section>

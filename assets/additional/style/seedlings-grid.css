@@ -1,0 +1,30 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  grid-gap: 2em;
+}
+
+.article__author {
+  width: 100%;
+}
+
+.article__author.panel.inactive {
+    color: #53657d;
+    background-color: #c9d3df;
+}
+
+.article__author.panel.inactive img {
+    filter: sepia(100%);
+}
+
+.article__author.panel.inactive img:hover {
+    filter: sepia(0%);
+}
+
+.grid .panel + .panel {
+    margin-left: 0;
+}
+
+.article__author a {
+  text-decoration: none;
+}
