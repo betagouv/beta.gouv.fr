@@ -22,39 +22,14 @@ layout: default
 
     {% for seedling in seedlings %}
       <div class="card">
-        <a href="{{ seedling.url }}">
-          <div class="card__cover">
-            {% include screenshot.html startup=seedling force=true %}
+        <div class="card__content">
+          <h3>{{ seedling.title | strip_html }}</h3>
+          <div class="card__meta">
+            {{ seedling.owner | strip_html }}
           </div>
-          <div class="card__content">
-            <h3>{{ seedling.title | strip_html }}</h3>
-            <div class="card__meta">
-              {{ seedling.owner | strip_html }}
-            </div>
-            <p>
-              {{ seedling.mission | strip_html }}
-            </p>
-          </div>
-        </a>
-        <div class="card__extra">
           <p>
-            {% if seedling.link %}
-              <a href="{{ seedling.link }}">{{ seedling.link | remove: 'https://' | remove: 'http://' }}</a>
-            {% else %}
-              <em>Démo non disponible</em>
-            {% endif %}
-          <br />
-            {% if seedling.repository %}
-              <a href="{{ seedling.repository }}">Code source ouvert</a>
-            {% else %}
-              <em>Code pas encore ouvert</em>
-            {% endif %}
+            {{ seedling.content | strip_html }}
           </p>
-        </div>
-        <div class="card__extra">
-        {% for people in seedling.team %}
-          <div class="label label--active">{{ people.name }}</div>
-        {% endfor %}
         </div>
       </div>
     {% endfor %}
