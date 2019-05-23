@@ -1,12 +1,12 @@
 ---
-roles: Stagiaire bras droit
+roles: Chargé(e) de déploiement (Stage)
 startup: locatio
 open: true
 ---
 
-# Locatio recrute un stagiaire bras droit du fondateur
+# Locatio recrute un(e) chargé(e) de déploiement !
 
-_Poste ouvert le 01/06/2019_
+_Poste ouvert le 15/06/2019_
 
 **1 startup d'État de l’Incubateur du Ministère de la Transition Écologique et Solidaire recrute un ou une stagiaire pour l'aider à résoudre des problématiques essentielles à la réussite de leur produit**
 
@@ -37,8 +37,10 @@ En vrac, quelques missions de nos précédents stagiaires :
 
 ## Conditions pratiques
 
-Durée : 6 mois (adaptable)
-Dates : juillet à décembre 2019 (adaptable)
+Durée : Stage de 3 à 6 mois
+
+Dates : entre juillet et décembre 2019 (adaptable)
+
 Lieu de stage : Région parisienne
 
 
