@@ -8,7 +8,7 @@ start: 2018-06-04
 end: 
 link: http://covoiturage.beta.gouv.fr/
 repository: https://github.com/betagouv/preuve-covoiturage
-stats: false
+stats: true https://app.covoiturage.beta.gouv.fr/stats
 contact: contact@covoiturage.beta.gouv.fr 
 ---
 
