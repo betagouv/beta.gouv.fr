@@ -2,7 +2,7 @@
 roles: une ou un designer en charge de la recherche utilisateurs
 title: "beta.gouv recrute : une ou un designer pour Aidants Connect"
 startup: aidantsconnect
-open: true
+open: false
 ---
 
 Aidants Connect a pour objectif de permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule.

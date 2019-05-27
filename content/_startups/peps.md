@@ -35,8 +35,8 @@ La première version de notre solution comportera :
 - une proposition de pratiques disponibles, éprouvées par ses pairs, qu’il peut facilement mettre en oeuvre pour commencer sa transition
 - un suivi dans le temps et des propositions de nouvelles pratiques allant plus loin dans la réduction des produits phytosanitaires sur son exploitation
 
-Aujourd’hui, les hypothèses  que l’équipe souhaite tester sur le terrain sont :
-- un outil utilisable par les agriculteurs en autonomie et en collaboration avec les conseillers de terrain permettraient à des dispositifs expérimentaux comme les fermes DEPHY de passer à l’échelle avec des moyens allégés par rapport à ceux mis en oeuvre dans le format actuel du réseau
-- des réponses concrètes aux questions des agriculteurs concernant la gestion des bioagresseurs sans pesticides permettraient de les engager dans une démarche de réduction des produits phytosanitaires 
-- la labellisation ou certification des productions avec utilisation réduite de produits phytosanitaires permettraient d’engager plus d’agriculteurs à initier cette démarche 
+Aujourd’hui, les hypothèses  que l’équipe souhaite tester sur le terrain sont les suivantes :
+1. Un outil utilisable par les agriculteurs en autonomie et en collaboration avec les conseillers de terrain permettrait à des dispositifs expérimentaux comme les fermes DEPHY de passer à l’échelle avec des moyens allégés par rapport à ceux mis en oeuvre dans le format actuel du réseau.
+2. Des réponses concrètes aux questions des agriculteurs concernant la gestion des bioagresseurs sans pesticides permettraient de les engager dans une démarche de réduction des produits phytosanitaires.
+3. La labellisation ou certification des productions avec utilisation réduite de produits phytosanitaires permettraient d’engager plus d’agriculteurs à initier cette démarche.
 
