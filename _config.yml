@@ -56,12 +56,10 @@ collections:
     output: true
     permalink: /alpha/mooc/:title.html
   phases:
+  seedlings:
   startups:
     output: true
     permalink: /startups/:title.html
-  seedlings:
-    output: true
-    permalink: /preincubation/seedlings/:title.html
 
 defaults:
   - scope:
@@ -95,14 +93,6 @@ defaults:
       additional_css:
         - startups.css
         - authors-grid.css
-  - scope:
-      path: ""
-      type: "seedlings"
-    values:
-      layout: seedling
-      additional_css:
-        - seedlings.css
-        - seedlings-grid.css
   - scope:
       path: "img/authors"
     values:
