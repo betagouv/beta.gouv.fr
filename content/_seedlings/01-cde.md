@@ -1,6 +1,6 @@
 ---
 title: Centre départemental de l'enfance
-season: saison01-neosud
+season: 01-neosud
 owner: Département du Var
 ---
 
