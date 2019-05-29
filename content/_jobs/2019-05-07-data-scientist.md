@@ -1,7 +1,7 @@
 ---
 roles: Une ou un data scientist
 startup: trackdechets
-open: true
+open: false
 ---
 
 # Trackdéchets et Kelrisks recrutent une ou un data scientist
