@@ -13,26 +13,27 @@ stats_url:
 contact: peps@beta.gouv.fr
 ---
 
-## Des solutions existent 
+L’agriculture française consomme un peu plus de produits phytosanitaires chaque année, cela malgré une volonté politique et de la société civile de diminution de ces intrants. Peps vise à accompagner les agriculteurs vers des pratiques plus économes en produits phytosanitaires.
 
-L’agriculture française consomme un peu plus de produits phytosanitaires chaque année, cela malgré une volonté politique et de la société civile de diminution de ces intrants. 
+## La coopérative, modèle dominant pour le conseil des agriculteurs
 
-Pour une majorité des usages, des alternatives existent mais sont peu utilisées par les agriculteurs. Outre les problématiques d’accès à ces ressources, ceux-ci les jugent trop coûteuses, trop risquées ou encore trop complexes à mettre en oeuvre.
+L'adhésion à une coopérative reste le modèle dominant dans la filière grandes cultures & polyculture élevage. La coopérative achète les produits de l’agriculteur, les stocke et en parallèle lui vend et le conseille sur l’achat des intrants nécessaires pour sa production (produits phytosanitaires, semences, engrais…).
 
-Cependant, les résultats des fermes du [réseau DEPHY](http://www.ecophytopic.fr/tr/innovation-en-marche/réseau-dephy) - aujourd’hui 3 000 exploitations agricoles engagées dans une démarche volontaire de réduction de l’usage de produits phytosanitaires - montrent qu’avec un accompagnement adapté et un objectif précis, les agriculteurs réduisent leur consommation de ces produits. 
+Environ un quart des agriculteurs choisissent de faire appel à des structures de conseil indépendantes de la vente de produits (Chambres d'Agriculture, [CIVAM](http://www.civam.org/), [GAB](http://www.fnab.org/un-reseau-des-valeurs-des-hommes/qui-sommes-nous/150-fonctionnement-reseau) ou autres). Ces structures fonctionnent en grande majorité avec un groupe constitué d’agriculteurs. Grâce au groupe, les agriculteurs peuvent rentabiliser les frais d’un conseiller. Des aides financières sont également possibles dans le cadre d’un projet de groupe pour payer tout ou partie de la rémunération du conseiller mis à leur disposition. Ce sont les groupes [DEPHY](https://agriculture.gouv.fr/fermes-dephy), [GIEE](https://agriculture.gouv.fr/les-groupements-dinteret-economique-et-environnemental-giee), [30000](https://agriculture.gouv.fr/ecophyto-objectif-30-000-exploitations-agricoles) et d’autres plus localement.
 
-En système grandes cultures & élevage et pour le glyphosate par exemple, la modification des  pratiques peut se faire sans observer de différences notables en terme de performances pour l’exploitation. 
+## Pour les trois quart des agriculteurs, les solutions d’accompagnement indépendant ne conviennent pas
 
+Les dispositifs cités plus haut ne conviennent pas à la grande majorité des exploitants. Pour autant, ces exploitants se renseignent, et internet est une de leur source. L’étude [Agrinautes 2018 réalisée par BVA pour Terre-net Média et Hyltel](http://fichiers.hyltel.fr/PDF/AGRINAUTES_2018.pdf) montre que 85% des agrinautes recherchent sur internet des informations technique sur leurs cultures. Aussi, près de 40% ont installé une application de type “portail agricole” sur leur téléphone.
 
 ## Peps apporte un accompagnement spécifique à chaque agriculteur 
 
-Pas à pas, Peps permet aux agriculteurs de tracer une trajectoire vers leurs objectifs de réduction de produits phytosanitaires. Cette trajectoire est définie à partir de la situation initiale de l’exploitation et ses objectifs de production. Pour mener à bien son but, l’utilisateur bénéficie tout au long de sa démarche de l’apport de connaissances techniques, de support et de collaboration entre usagers. 
-
-En cohérence avec le centre national de ressource glyphosate, les ressources disponibles dans [EcophytoPic](http://www.ecophytopic.fr/) ainsi les pratiques présentes dans fiches action des Certificats d'Economie de Produits Phytopharmaceutiques [CEPP](https://alim.agriculture.gouv.fr/cepp/#/content/ap-fichesaction), Peps permet de donner des informations personnalisées s'adaptant aux conditions de production de l'utilisateur.
+A partir d’un problème rencontré par l’agriculteur, l’outil permet de trouver des pratiques adaptées à la situation de son exploitation et à son objectif plus long terme de production. 
+Les contenus des propositions sont basées sur les ressources existantes dans [EcophytoPic](http://www.ecophytopic.fr/), les pratiques présentes dans fiches action des Certificats d'Économie de Produits Phytopharmaceutiques [CEPP](https://alim.agriculture.gouv.fr/cepp/#/content/ap-fichesaction) ou toute autre ressource pertinente. 
 
 La première version de notre solution comportera :
 - une application permettant à l’agriculteur de renseigner rapidement sa situation initiale et son objectif
 - une proposition de pratiques disponibles, éprouvées par ses pairs, qu’il peut facilement mettre en oeuvre pour commencer sa transition
+- une méthodologie simple pour commencer à tester ces nouvelles pratiques et analyser les résultats
 - un suivi dans le temps et des propositions de nouvelles pratiques allant plus loin dans la réduction des produits phytosanitaires sur son exploitation
 
 Aujourd’hui, les hypothèses  que l’équipe souhaite tester sur le terrain sont les suivantes :
