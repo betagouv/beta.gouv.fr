@@ -8,7 +8,7 @@ additional_css:
 
 Le programme de préincubation proposé par beta.gouv.fr vise à accompagner les **administrations centrales**, les **administrations déconcentrées**, les **collectivités territoriales** ou encore les **opérateurs publics** dans l'amélioration continue des services publics et dans la mise en oeuvre des politiques publiques selon la [méthode Startup d’État](apropos/#pourquoi-lancer-une-startup-detat).
 
-Ce programme vise à faire émerger des projets d’innovation radicale à fort impact social ou retour sur investissement potentiel conduits selon l’approche Startup d’État, c’est-à-dire par des équipes autonomes développant des solutions à un problème de politique publique avec une approche incrémentale.
+D'une durée de trois mois, ce programme vise à faire émerger des projets d’innovation radicale à fort impact social ou retour sur investissement potentiel conduits selon l’approche Startup d’État, c’est-à-dire par des équipes autonomes développant des solutions à un problème de politique publique avec une approche incrémentale.
 
 L’objectif du programme est de préciser l’ampleur du problème visé et de présenter des premiers éléments de solution pour le résoudre.
 
@@ -26,4 +26,4 @@ Pour la préincubation, les intrapreneurs sont libérés de leur tâches habitue
 
 ### Vous souhaitez rejoindre le programme de préincubation ?
 
-Vous êtes une admininistration centrale ou déconcentrée, une collectivité territoriale, un opérateur public, vous souhaitez lancer un programme de préincubation auprès de vos services ou équipes : [contactez Inès Hijazi](mailto:ines.hijazi@beta.gouv.fr), responsable du programme de préincubation.
+Vous êtes une admininistration centrale ou déconcentrée, une collectivité territoriale, un opérateur public, vous souhaitez lancer un programme de préincubation (trois mois) auprès de vos services ou équipes : [contactez Inès Hijazi](mailto:ines.hijazi@beta.gouv.fr), responsable du programme de préincubation.
