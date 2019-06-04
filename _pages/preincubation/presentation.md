@@ -6,7 +6,7 @@ additional_css:
   - side-panel.css
 ---
 
-Le programme de préincubation proposé par beta.gouv.fr vise à accompagner les **administrations centrales**, les **administrations déconcentrées**, les **collectivités territoriales** ou encore les **opérateurs publics** dans l'amélioration continue des services publics et dans la mise en oeuvre des politiques publiques selon la [méthode Startup d’État](apropos/#pourquoi-lancer-une-startup-detat).
+Le programme de préincubation proposé par beta.gouv.fr vise à accompagner les **administrations centrales**, les **administrations déconcentrées**, les **collectivités territoriales** ou encore les **opérateurs publics** dans l'amélioration continue des services publics et dans la mise en oeuvre des politiques publiques selon la méthode Startup d’État.
 
 D'une durée de trois mois, ce programme vise à faire émerger des projets d’innovation radicale à fort impact social ou retour sur investissement potentiel conduits selon l’approche Startup d’État, c’est-à-dire par des équipes autonomes développant des solutions à un problème de politique publique avec une approche incrémentale.
 
