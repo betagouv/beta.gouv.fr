@@ -15,7 +15,9 @@ techno:
    - Scala
    - Play Framework
    - PostgreSQL
-   - Clever Cloud
+   - Atos Worldine
+   - OpenShift
+   - Mailjet
 ---
 
 ## Avec Administration+, aucun blocage ne vous résiste
