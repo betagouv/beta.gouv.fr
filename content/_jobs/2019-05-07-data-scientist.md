@@ -1,5 +1,6 @@
 ---
 roles: Une ou un data scientist
+title: "beta.gouv recrute : une ou un data scientist pour Trackdéchets et Kelrisks"
 startup: trackdechets
 open: false
 ---
