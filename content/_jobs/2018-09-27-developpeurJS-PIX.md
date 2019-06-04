@@ -1,6 +1,7 @@
 ---
 friend: 'PIX'
 roles: un.e développeur.e fullstack JS
+title: "beta.gouv recherche : un.e développeur.e fullstack JS pour PIX.fr"
 techno: Ember.JS / Node.JS
 type: 'friend'
 externalURL: 'https://pix.fr/recrutement/developpeur-web'

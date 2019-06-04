@@ -3,6 +3,7 @@ roles: un·e responsable d'exploitation
 friend: FranceConnect
 type: 'friend'
 open: true
+title: "beta.gouv recherche : un·e responsable d'exploitation pour FranceConnect"
 externalURL: https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-exploitation--franceconnect--fh-reference-2018-138887
 ---
 
