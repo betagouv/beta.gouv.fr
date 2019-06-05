@@ -56,6 +56,7 @@ collections:
     output: true
     permalink: /alpha/mooc/:title.html
   phases:
+  seedlings:
   startups:
     output: true
     permalink: /startups/:title.html
