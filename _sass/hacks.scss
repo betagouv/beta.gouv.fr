@@ -253,3 +253,8 @@ header.navbar {
     color: #000;
     padding: 4em 0;
 }
+
+/* Pour qu'il n'y ai pas deux pages entre le titre de page et la 1ere section */
+.hero + .section {
+    padding-top: 0;
+}
