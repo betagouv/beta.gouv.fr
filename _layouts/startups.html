@@ -13,7 +13,7 @@ layout: default
   {% include hero-page.html title=page.title %}
 </div>
 
-<section class="section section-white">
+<section class="section section-white" style="padding-top: 0;">
     <div class="container startup-lists">
         <ul>
             {% for phase in phases %}
@@ -49,13 +49,8 @@ layout: default
         </div>
     </section>
 
-    <section class="section section-grey">
+    <section class="section section-white">
         <div class="container">
-            <p>
-                Une Startup d’État est un service public sans personnalité juridique propre, constituée d’une petite équipe totalement autonome.<br>
-                Elle est financée par une administration porteuse qui lui garantit un espace de liberté pour innover.<br>
-                Elle naît de l’identification d’un problème rencontré par les citoyens comme par les agents publics, qu’elle se donne pour objectif de résoudre grâce à un service numérique.
-            </p>
             {% assign phases = site.phases | sort: 'order' %}
             {% for phase in phases %}
               {% assign counter_target = phase.id | remove: "/phases/" %}
@@ -66,10 +61,8 @@ layout: default
               {% endif %}
               <div id="{{ phase.status }}" style="padding-top: 4em;">
                   <h2 class="phase-title"><em>{{ counter }}</em> Startup{{ plural }} d’État en <em>{{ phase.label | downcase }}</em></h2>
-                  <div class="markdown">
-                    {{ phase.content | markdownify }}
-                  </div>
-                  <div class="grid">
+                  <p class="phase-description">{{ phase.short_description }}.</p>
+                  <div class="startups grid">
                     {% assign startups = site.startups | where:"status", phase.status %}
                     {% for startup in startups %}
                       {% include card-startup.html startup = startup %}

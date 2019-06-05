@@ -164,6 +164,10 @@ h2.phase-title em {
   font-weight: bold;
 }
 
+.phase-description {
+    font-style: italic;
+    color: $darker-grey;
+}
 
 .filters {
     padding: 1em 0;
@@ -233,6 +237,19 @@ h2.phase-title em {
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
+/* Hack pour que les menus sticky restent visibles */
 .sticky {
     z-index: 1;
+}
+
+/* Prévisions d'évolutions template */
+header.navbar {
+    border-bottom: none;
+    box-shadow: none;
+}
+
+.hero.article__hero {
+    background-color: #fff;
+    color: #000;
+    padding: 4em 0;
 }
