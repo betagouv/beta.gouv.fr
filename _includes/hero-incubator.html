@@ -1,11 +1,11 @@
-<div class="hero {% if include.image %}article__hero{% endif %}">
+<div class="hero article__hero">
   <div class="hero__container">
     {% if include.image %}
       <img src="{{ include.image }}" alt="{{ include.title }}" />
     {% endif %}
     <div class="article__container" style="text-align: center;">
       <h1 class="article__title">{{ include.title | escape }}</h1>
-      <h2 class="article__title">{{ include.owner | escape }}</h2>
+      <p class="article__title">{{ include.owner | escape }}</p>
     </div>
   </div>
 </div>
