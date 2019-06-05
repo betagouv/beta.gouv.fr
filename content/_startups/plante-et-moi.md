@@ -17,6 +17,7 @@ techno:
   - Play Framework
   - PostgreSQL
   - Clever Cloud
+  - Mailjet
 ---
 
 De plus en plus de programmes de __végétalisation de l’espace public__ par les citoyens sont lancés par les communes de France.
