@@ -1,5 +1,5 @@
 ---
-fullname: Sébastien Vienot
+fullname: Christophe Riboulet
 role: Intrapreneur
 missions:
   - start: '2018-10-01'

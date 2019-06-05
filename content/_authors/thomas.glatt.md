@@ -8,6 +8,7 @@ missions:
     status: independent
 startups:
     - tremplin
+    - workinfrance
 ---
 
-j'apprécie accompagner les projets dès la phase de conception et imaginer collectivement des solutions adaptées aux besoins des utilisateurs.
+Accompagner les projets dès la phase de conception / imaginer collectivement des solutions adaptées et simples

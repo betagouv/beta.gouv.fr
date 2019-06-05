@@ -1,5 +1,6 @@
 ---
 roles: plusieurs entrepreneur·se·s associé·e·s dans le domaine social
+title: "beta.gouv recherche : plusieurs entrepreneur·se·s associé·e·s dans le domaine social"
 open: true
 ---
 
