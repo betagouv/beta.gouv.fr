@@ -12,13 +12,3 @@
   display: block;
   margin: 0 auto;
 }
-
-.phase-title {
-    font-weight: normal;
-    text-align: center;
-}
-
-.phase-title em {
-    font-style: normal;
-    font-weight: bold;
-}

@@ -123,21 +123,8 @@
 /* ---*/
 /* Startups */
 
-/* Plus de stratups par lignes */
+/* Plus de gap entre les startups */
 
-.startups .grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  grid-gap: 1em;
-  margin-top: 1em;
-  justify-items: center;
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
-}
-
-/* Hack pour une seule stratup par ligne */
-
-.startups .row .card {
-  margin: auto;
+.startups.grid {
+  grid-gap: 2em;
 }
