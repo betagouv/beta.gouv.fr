@@ -92,3 +92,48 @@ blockquote {
   height: 100%;
   border: 0px;
 }
+
+/* Styles petites cartes */
+
+.card__alternative .card__cover {
+  border-radius: 50%;
+  min-width: 80px;
+  max-width: 80px;
+  height: 80px;
+  margin: 10px 10px 10px 0;
+}
+
+.card__alternative .card__content {
+  padding: 10px;
+  word-break: break-word;
+}
+
+.card__alternative .card__body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between
+}
+
+.card__alternative .card__extra {
+  border: none;
+  background-color: whitesmoke;
+  padding: 5px 10px;
+}
+
+.card__alternative .label {
+  color: #0053b3;
+  background-color: inherit;
+  margin: 0 5px;
+  padding: 0;
+  border: none;
+}
+
+.card__alternative .label--inactive {
+  color: darkgrey;
+  background-color: inherit;
+}
+
+.author-quote p {
+  font-style: italic;
+  margin: 0;
+}

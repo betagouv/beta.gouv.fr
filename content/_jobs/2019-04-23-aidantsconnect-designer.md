@@ -1,10 +1,11 @@
 ---
-roles: une personne chargée de la recherche utilisateurs
+roles: une ou un designer en charge de la recherche utilisateurs
+title: "beta.gouv recrute : une ou un designer pour Aidants Connect"
 startup: aidantsconnect
-open: true
+open: false
 ---
 
-Aidants Connect a pour objectif de permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule. 
+Aidants Connect a pour objectif de permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule.
 
 <!--more-->
 
@@ -24,7 +25,7 @@ La première version du service proposerait :
 La Startup d’Etat a démarré début mars 2019 et l’objectif est de valider l’hypothèse de solution pour fin août 2019.
 
 ### Le rôle
-Nous comprenons le rôle de l'UX comme quelqu’un·e qui :
+Nous comprenons le rôle de l'UX une personne qui :
 
 * pense que l’UX est une façon de résoudre les problèmes des usagers, plutôt que de développer la prochaine fonctionnalité dernier cri ;
 * voit l’UX/UI comme une façon de donner un pouvoir aux usagers, plutôt qu’un simple agencement de pixels ;
@@ -41,6 +42,6 @@ Poste ouvert pour un indépendant ou une indépendante pour un premier contrat d
 
 ### Candidater
 
-Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à recrutement@beta.gouv.fr et aidants.connect@beta.gouv.fr.
+Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à recrutement@beta.gouv.fr et aidantsconnect@beta.gouv.fr.
 
 À bientôt !

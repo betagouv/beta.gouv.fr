@@ -1,7 +1,8 @@
 ---
 friend: 'PIX'
 roles: un.e développeur.e fullstack JS
-techno: Ember.JS / Node.JS 
+title: "beta.gouv recherche : un.e développeur.e fullstack JS pour PIX.fr"
+techno: Ember.JS / Node.JS
 type: 'friend'
 externalURL: 'https://pix.fr/recrutement/developpeur-web'
 open: true
@@ -11,7 +12,7 @@ Que ce soit dans la sphère professionnelle, publique ou privée, disposer d’u
 
 Initié il y a 2 ans dans le cadre du dispositif Start​-up d’État, Pix est un service public en ligne d’évaluation et de certification des compétences numériques à l’usage de tous les citoyens et de toutes les organisations francophones.
 
-Localisés en plein coeur de Paris, Pix compte aujourd’hui une vingtaine de professionnels aux expertises / expériences diverses, motivés par le même objectif : “donner envie de développer ses compétences numériques tout au long de sa vie”.
+Localisés en plein coeur de Paris, Pix compte aujourd’hui une vingtaine de professionnels aux expertises / expériences diverses, motivés par le même objectif : « donner envie de développer ses compétences numériques tout au long de sa vie ».
 
 <!--more-->
 
@@ -37,7 +38,7 @@ La stack technique globale comprend :
 - Pour vous, JavaScript est un ami proche ou qui tend à le devenir
 - Vous êtes un partisan de l’artisanat logiciel et du code de qualité
 - Vous aimez travailler en équipe, partager, construire et avancer ensemble
-- Vous avez aimé travaillé dans une équipe agile et souhaitez recommencer
+- Vous avez aimé travailler dans une équipe agile et souhaitez recommencer
 - Vous aimez livrer souvent le bon produit, bien réalisé
 - Vous êtes passionné par l’informatique et menez une veille active
 - Vous maîtrisez l’anglais opérationnel / professionnel
