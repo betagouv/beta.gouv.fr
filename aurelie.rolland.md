@@ -2,7 +2,6 @@
 fullname: Aurélie Rolland
 role: Product designer
 github: auremie
-avatar: 
 link: https://medium.com/@aurlierolland
 missions: 
   - start: '2019-03-01'
