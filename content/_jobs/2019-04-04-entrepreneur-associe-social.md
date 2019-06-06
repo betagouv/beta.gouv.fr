@@ -1,7 +1,7 @@
 ---
 roles: plusieurs entrepreneur·se·s associé·e·s dans le domaine social
 title: "beta.gouv recherche : plusieurs entrepreneur·se·s associé·e·s dans le domaine social"
-open: true
+open: false
 ---
 
 Vous êtes entrepreneur·se ? Vous avez réalisé des projets qui ont eu un vrai impact ? Vous avez créé des services dont vous êtes fiers ? Vous voulez nous aider à réformer l’Etat et à améliorer les politiques sociales ? Rejoignez-nous.
