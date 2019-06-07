@@ -7,5 +7,3 @@ missions:
     end: '2019-12-31'
     status: independent
 ---
-
-Entrepreneur de l'IAE
