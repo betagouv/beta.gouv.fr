@@ -1,9 +1,12 @@
 ---
 fullname: Lucas Miailhes
-role: Bizdev
+role: Chargé de développement
+github : Gruison
 missions:
   - end: '2019-06-07'
     start: '2019-06-07'
     status: independent
+startups : 
+ - competences-pro
 ---
 
