@@ -1,5 +1,5 @@
 ---
-fullname: Benjamin Miailhes
+fullname: Lucas Miailhes
 role: Bizdev
 missions:
   - end: '2020-05-28'
