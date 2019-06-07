@@ -8,7 +8,6 @@ missions:
     employer: Codeurs en Liberté
 startups:
     - preuve-de-covoiturage
-previously:
     - api-particulier
   
 ---
