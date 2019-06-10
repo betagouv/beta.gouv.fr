@@ -1,6 +1,6 @@
 ---
 fullname: Mathilde Petit
-role: Coach
+role: Cheffe de Produit
 github: mtlde
 missions:
   - start: '2019-05-13'
