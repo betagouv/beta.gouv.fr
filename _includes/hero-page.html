@@ -1,10 +1,13 @@
-<div class="hero {% if include.image %}article__hero{% endif %}">
-  <div class="hero__container">
-    {% if include.image %}
-      <img src="{{ include.image }}" alt="{{ include.title }}" />
-    {% endif %}
-    <div class="article__container" style="text-align: center;">
-      <h1 class="article__title">{{ include.title | escape }}</h1>
+<div class="hero article__hero">
+  {% if include.image %}
+    <img src="{{ include.image }}" alt="{{ include.title }}" />
+    <div class="container container__small" style="text-align: center; z-index: 100;">
+      <h1 class="article__title" style="color: #fff;">{{ include.title | escape }}</h1>
     </div>
+  {% else %}
+  <div class="container container__small" style="text-align: center;">
+    <h1 class="article__title">{{ include.title | escape }}</h1>
   </div>
+  {% endif %}
+
 </div>

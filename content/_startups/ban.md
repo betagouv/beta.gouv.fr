@@ -8,7 +8,8 @@ start: 2014-06-01
 end:
 link: https://adresse.data.gouv.fr
 repository: https://github.com/BaseAdresseNationale
-stats: false
+stats: true
+stats_url: https://api.gouv.fr/api/base-adresse-nationale.html
 contact: adresse@data.gouv.fr
 ---
 

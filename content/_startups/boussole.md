@@ -1,6 +1,6 @@
 ---
 title: Boussole des droits
-mission: Accéder aux conseils d'un·e professionnel·le à proximité pour trouver un logement, une formation ou un emploi
+mission: Accéder à des conseils professionnels à proximité pour trouver un logement, une formation ou un emploi
 owner: Direction de la jeunesse
 incubator: dinsic
 status: death
@@ -20,24 +20,25 @@ La phase d’investigation nous a permis de comprendre le problème : les jeunes
 
 Avec les premiers tests, nous avons découvert que nos utilisateurs étaient prêts à laisser leurs coordonnées en contrepartie de la garantie d'être rappelés rapidement. Il fallait donc que tous les services référencés sur notre produit s’engagent à recontacter les jeunes dans un délai maximal de deux semaines.
 
-Les gros défis n’étaient pas d’ordre technique, mais organisationnel. Plusieurs acteurs devaient se coordonner pour définir ensemble quels services étaient les plus pertinents en fonction des profils de nos utilisateurs. L’enjeu principal était d’animer une communauté des professionnel·le·s dans chaque territoire pour coordonner leurs offres.
+Les gros défis n’étaient pas d’ordre technique, mais organisationnel. Plusieurs acteurs devaient se coordonner pour définir ensemble quels services étaient les plus pertinents en fonction des profils de nos utilisateurs. L’enjeu principal était d’animer une communauté professionnelle dans chaque territoire pour coordonner leurs offres.
 
-On a donc développé un produit qui, sur le territoire de Reims, permettait à un·e jeune d’entrer en contact avec les professionnel·le·s qui pouvaient l’aider à trouver un logement ou un emploi, avec la garantie d’être contacté·e en moins de deux semaines.
+On a donc développé un produit qui, sur le territoire de Reims, permettait aux jeunes d'obtenir des conseils professionnels qui pouvaient les aider à trouver un logement ou un emploi, avec la garantie d’avoir un contact en moins de deux semaines.
 
-Au bout des 6 premiers mois, nous avions une solution qui répondait au problème : une quinzaine de jeunes ont été contacté·e·s par des professionnels qui les ont aid·é·s dans leur recherche de logement ou d’emploi.
+Au bout des 6 premiers mois, nous avions une solution qui répondait au problème : une quinzaine de jeunes a été contactée pour être suivie dans leurs recherches de logement ou d’emploi.
 
 Ces premiers utilisateurs, nous sommes allés les chercher dans les cafés, les centres commerciaux, les universités…, et les suivants sont venus par le bouche-à-oreille.
+
 Nous n’avions pas encore trouvé les leviers de la traction : comment faire en sorte qu’un utilisateur arrive sur la Boussole ? C’était notre priorité.
 
 Nous n’avions pas non plus trouvé la façon de « charger » automatiquement les offres de service des acteurs sur le territoire pilote, pour outiller le déploiement à de nouveaux territoires.
 
 Au bout des six premiers mois, la DJEPVA a choisi d’accélérer le déploiement du service sans que nous ayons de solution aux problèmes de la traction et du déploiement.
 
-Toujours aligné·e·s sur la finalité, nous n’étions pas d'accord sur la façon d’y arriver. Nous avons donc, d’un commun accord, décidé de mettre fin à notre collaboration.
+Même si l'alignement sur la finalité était présent, nous n’étions pas d'accord sur la façon d’y arriver. Nous avons donc, d’un commun accord, décidé de mettre fin à notre collaboration.
 
 Suite à cette expérience, nous avons notamment appris :
 - que l’autonomie de l’équipe n’était pas négociable ;
-- qu’il est nécessaire que l’intrapreneur·e soit retenu·e sur la base du volontariat, et non désigné·e par son administration pour gérer le produit.
+- qu’il est nécessaire de retenir un intrapreneur ou une intrapreneuse sur la base du volontariat, et non pas en désigner d'office par son administration pour gérer le produit.
 
 Le service est aujourd'hui disponible sur [boussole.jeunes.gouv.fr](https://boussole.jeunes.gouv.fr/). La proposition de valeur est toujours celle créée au contact de nos utilisateurs, mais l’application a changé, notamment pour être développée dans une technologie que maîtrise notre partenaire.
 

@@ -5,7 +5,7 @@ permalink: /incubateurs/
 additional_css:
   - side-panel.css
 ---
-L’écosystème beta.gouv.fr grandit depuis 2013 et réunit aujourd’hui de nombreux incubateurs autonomes partageant les mêmes objectifs et les mêmes valeurs. Leur ambition : amener à l’excellence les individus qu’ils accueillent – quel que soit leur rôle : responsable de produit, informaticien·ne, coach, designer, chargé·e de développement… – pour construire les services publics les plus utiles à nos concitoyens.
+L’écosystème beta.gouv.fr grandit depuis 2013 et réunit aujourd’hui de nombreux incubateurs autonomes partageant les mêmes objectifs et les mêmes valeurs. Leur ambition : amener à l’excellence les individus qu’ils accueillent – quel que soit leur rôle : porter un produit, développer, coacher, designer, déployer, etc. – pour construire les services publics les plus utiles à nos concitoyens.
 
 Nous faisons partie d’un réseau d’incubateurs de Startups d’État et de Territoires qui :
 

@@ -1,6 +1,6 @@
 ---
 fullname: Ishan Bhojwani
-role: Chargé de déploiement
+role: Coach
 missions:
   - start: '2017-05-23'
     end: '2017-08-31'
@@ -18,4 +18,5 @@ startups:
     - preuve-de-covoiturage
     - ecoscore
     - lotocar
+    - auvol
 ---

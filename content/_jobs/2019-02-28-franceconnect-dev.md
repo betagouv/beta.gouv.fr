@@ -1,9 +1,10 @@
 ---
 roles: un·e expert·e Node.js
 friend: FranceConnect
+title: "beta.gouv recherche : un·e expert·e Node.js pour FranceConnect"
 type: 'friend'
 open: true
-externalURL: https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-exploitation--franceconnect--fh-reference-2018-138887
+externalURL: https://www.place-emploi-public.gouv.fr/offre-emploi/developpeur-fullstack-nodejs--franceconnect--fh-reference-2019-180298
 ---
 
 On recherche un expert Node.js F/H pour FranceConnect, un produit qui fête ses 4 ans et permet aujourd'hui 1.5 millions de connexions par mois.
@@ -61,4 +62,4 @@ Il est cependant possible de télétravailler occasionnellement dans le cas où 
 
 Et surtout, on recrute dès maintenant, alors contacte-nous à **[candidatures@franceconnect.gouv.fr](mailto:candidatures@franceconnect.gouv.fr)** et pose nous tes questions, on se fera un plaisir de te répondre très vite.
 
-Voir aussi : [Fiche de poste : RESPONSABLE EXPLOITATION « FRANCECONNECT » (F/H) 2018-138887](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-exploitation--franceconnect--fh-reference-2018-138887)
+Voir aussi : [Fiche de poste : DEV « FRANCECONNECT » (F/H) 2019-180298](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeur-fullstack-nodejs--franceconnect--fh-reference-2019-180298)

@@ -4,6 +4,12 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Content Manager</title>
+  <style>
+      /* Ugly hack that remove the Media icon from the navbar (it's the third element) */
+      nav > ul > li:nth-child(3) {
+          display: none;
+      }
+  </style>
 </head>
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
