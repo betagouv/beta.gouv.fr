@@ -3,7 +3,7 @@ fullname: François-Joseph Grimault
 role: Coach
 missions:
   - start: '2017-10-01'
-    end: '2019-05-31'
+    end: '2019-12-31'
     status: independent
 github: fjg
 startups:
