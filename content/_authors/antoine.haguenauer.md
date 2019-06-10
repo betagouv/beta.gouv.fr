@@ -4,7 +4,7 @@ role: Coach
 missions:
   - start: '2018-01-01'
     end: '2019-12-30'
-    status: dinsic
+    status: independent
 startups:
     - lapins
 ---
