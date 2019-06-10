@@ -5,7 +5,7 @@ link: https://github.com/laem
 missions:
   - start: '2015-10-01'
     end: '2019-06-30'
-    status: dinsic
+    status: independent
 startups:
     - mon-entreprise
 ---
