@@ -2,6 +2,7 @@
 title: Disinfo
 mission: Diminuer la quantité de désinformation à laquelle un individu est confronté quotidiennement
 owner: Ambassadeur pour le numérique
+incubator: dinsic
 status: investigation
 start: 2019-01-10
 end:
