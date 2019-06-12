@@ -22,15 +22,15 @@ Si la création d’une charte de l’aidant numérique a notamment été suggé
 
 L’objectif est de permettre à un professionnel habilité préalablement de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule via une connexion sécurisée.
 
-Ce dispositif permettra un suivi des actions réalisées sur le compte de la personne, à destination des usagers et des autorités administratives compétentes, et une protection du professionnel déclarant comme de la personne accompagnée en cas d’erreur. L’enjeu est d’empêcher par un tiers l’utilisation de l’identité numérique d’une personne en difficulté avec les outils numériques (comme cela se fait en pratique, avec inscription des mots de passe dans un carnet papier). 
+Ce dispositif permettra un suivi des actions réalisées sur le compte de la personne, à destination des usagers et des autorités administratives compétentes, et une protection du professionnel déclarant comme de la personne accompagnée en cas d’erreur. L’enjeu est d’empêcher par un tiers l’utilisation de l’identité numérique d’une personne en difficulté avec les outils numériques (comme cela se fait en pratique, avec inscription des mots de passe dans un carnet papier).
 
 ## Scénario d'usage en cours de validation
 
 Pour cette première itération, l'équipe se concentrera sur des aidants professionnels (agents publics, associations conventionnées) ayant au moins une rencontre en tête-à-tête avec le demandeur.
 
-![Parcours utilisateurs 1](img/startups/aidantsconnect/ParcoursAidantsConnect1.jpeg)
+![Parcours utilisateurs 1](/img/startups/aidantsconnect/parcoursaidantsconnect1.jpeg)
 
-![Parcours utilisateurs 2](img/startups/aidantsconnect/ParcoursAidantsConnect2.jpeg)
+![Parcours utilisateurs 2](/img/startups/aidantsconnect/parcoursaidantsconnect2.jpeg)
 
 Les hypothèses que l'équipe souhaite confronter au terrain sont:
 - l'usager est en capacite de se connecter avec FranceConnect lors de sa rencontre avec l'aidant
@@ -41,7 +41,7 @@ Les hypothèses que l'équipe souhaite confronter au terrain sont:
 
 ## Feuille de route
 
-![Calendrier Aidants Connect](img/startups/aidantsconnect/CalendrierAidantsConnect.jpeg)
+![Calendrier Aidants Connect](/img/startups/aidantsconnect/calendrieraidantsconnect.jpeg)
 
 ## Pour aller plus loin
 
