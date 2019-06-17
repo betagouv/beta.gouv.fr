@@ -5,7 +5,7 @@ role: Développeur
 missions:
   - start: '2019-06-17'
     end: ''
-    status: indépendant
+    status: independent
     employer: octo
 startups:
   - mrs
