@@ -30,8 +30,6 @@ Des outils d'accompagnement des autorités organisatrices pour faciliter le dév
 Grâce au registre, une autorité organisatrice a désormais en main, l’ensemble des cartes lui permettant de mettre en oeuvre une politique incitative efficace en faveur du covoiturage. Ceci peut se concrétiser de diverses manières :
 - Incitation financière via la prise en charge totale ou partielle du trajet.
 - Accès à des places de stationnement réservées ou à tarif préférentiel.
-- Accès aux voies réservées.
-- Tarif préférentiel à des péages.
 - Accès à tarif réduit ou gratuit à d’autres services publics (piscine municipale, bibliothèque, musée, etc.).
 - Incitations non financières diverses (composteur, panier de légumes, etc.)
 
