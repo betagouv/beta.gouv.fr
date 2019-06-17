@@ -1,8 +1,8 @@
-<div class="hero">
+<div class="hero article__hero">
   <div class="hero__container">
     <div class="article__container" style="text-align: center;">
       <h1 class="article__title">{% if include.friend %}{{ include.friend }}{% else %}{{ include.startup.title | default: "beta.gouv.fr"}}{% endif %} recrute</h1>
-      <h2 class="article__title">{{ include.roles | escape }}</h2>
+      <p class="article__title">{{ include.roles | escape }}</p>
     </div>
   </div>
 </div>
