@@ -1,6 +1,6 @@
 ---
 title: Mon-entreprise.fr
-mission: "Le guide officiel du créateur d'entreprise"
+mission: "L'assistant officiel du créateur d'entreprise"
 owner: DINSIC
 incubator: dinsic
 status: acceleration
