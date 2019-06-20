@@ -1,7 +1,7 @@
 ---
 title: Le Taxi
 mission: Commander un taxi, rapidement
-owner: Ministère de la Transition écologique et solidaire
+owner: DGITM
 incubator: dinsic
 status: acceleration
 start: 2015-03-15
