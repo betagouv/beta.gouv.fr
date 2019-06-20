@@ -9,6 +9,7 @@ end:
 link: https://maintenant.pole-emploi.fr
 repository:
 stats: true
+stats_url: https://maintenant.pole-emploi.fr/stats.html
 contact: maintenant@pole-emploi.fr
 ---
 
