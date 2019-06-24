@@ -7,7 +7,7 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     end: '2019-05-01' # date de fin de contrat au format ISO (AAAA-MM-JJ)
     status: service
     employer: OCTO Technology
- startups:
+startups:
   - reuni
 
 ---
