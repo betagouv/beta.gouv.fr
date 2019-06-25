@@ -14,8 +14,6 @@ lang = page.lang | default: site.lang | default: "en" %}
     <div class="documentation">
       {% include sidebar-alpha.html %}
       <div class="main-pane">
-        <div class="markdown">{{ content }}</div>
-        <h2>Découvrez notre équipe</h2>
         <div class="community">
           <div class="grid">
             {% for intervenant in page.intervenants %} {% capture target
