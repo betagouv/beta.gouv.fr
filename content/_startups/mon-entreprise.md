@@ -1,7 +1,7 @@
 ---
 title: Mon-entreprise.fr
 mission: "L'assistant officiel du créateur d'entreprise"
-owner: DINSIC
+owner: DINSIC / Acoss
 incubator: dinsic
 status: acceleration
 start: 2014-10-01
