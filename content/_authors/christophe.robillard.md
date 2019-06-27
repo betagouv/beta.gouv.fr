@@ -1,6 +1,6 @@
 ---
 fullname: Christophe Robillard
-role: Développeur
+role: Binôme d'intrapreneur
 avatar: 'https://www.gravatar.com/avatar/e8f6f2cce6baadb867e6836fe57b3596?s=512'
 link: 'http://christophe.robiweb.net'
 missions:
@@ -14,4 +14,4 @@ previously:
   - mpal
 ---
 
-Développeur, musicien et bipodocrate junior
+Binôme d'intrapreneur, musicien et bipodocrate junior
