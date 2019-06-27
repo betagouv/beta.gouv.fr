@@ -6,7 +6,7 @@ incubator: dinsic
 status: death
 start: 2016-06-23
 end:
-link: https://etudiant-entrepreneur.beta.gouv.fr
+link: https://snee.esr.gouv.fr/
 repository: https://github.com/betagouv/etudiant-entrepreneur
 stats: false
 contact: contact@etudiant-entrepreneur.beta.gouv.fr
