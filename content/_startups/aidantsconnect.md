@@ -6,8 +6,8 @@ incubator: dinsic
 status: construction
 start: 2019-03-13
 end:
-link: https://aidants-connect-integ.scalingo.io/
-repository: https://github.com/betagouv/Aidants_Connect/
+link: https://aidantsconnect.beta.gouv.fr
+repository: https://github.com/betagouv/Aidants_Connect
 stats: false
 contact: aidantsconnect@beta.gouv.fr
 ---
