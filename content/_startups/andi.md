@@ -1,16 +1,16 @@
 ---
-title: Andi
+title: ANDi
 mission: Faciliter l'insertion professionnelle des personnes en situation de handicap
 owner: Caisse des dépôts 
 incubator: dinsic 
 status: construction
-start: 2015-05-16 
+start: 2019-05-16 
 end: 
 link: 
 repository: 
 stats: false 
 stats_url: 
-contact: 
+contact: kevin.cloarec@beta.gouv.fr
 ---
 
 ## Fiche produit
