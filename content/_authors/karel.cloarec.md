@@ -8,5 +8,5 @@ missions:
     status: independent
     employer: icc
 startups:
-  - 
+  - andi
 ---
