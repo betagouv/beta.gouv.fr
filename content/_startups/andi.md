@@ -10,7 +10,7 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact: kevin.cloarec@beta.gouv.fr
+contact: karel.cloarec@beta.gouv.fr
 ---
 
 ## Fiche produit
