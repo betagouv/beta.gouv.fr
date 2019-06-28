@@ -6,6 +6,6 @@ missions:
     start: '2019-05-02'
     status: admin
 startups:
-  - _in_progress_
+  - andi
 ---
 
