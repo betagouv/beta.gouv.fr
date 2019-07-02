@@ -1,6 +1,6 @@
 ---
 title: ANDi
-mission: Faciliter l'insertion professionnelle des personnes en situation de handicap
+mission: Faciliter l'immersion professionnelle des personnes en situation de handicap
 owner: Caisse des dépôts 
 incubator: dinsic 
 status: construction
@@ -27,15 +27,15 @@ Cette situation, anxiogène pour les usagers, crée de la confusion et de l’an
 
 ## Notre proposition 
 
-Dans le cadre de la phase exploratoire, suite à des entretiens avec des personnes en situation de handicap (PSH), des associations, des travailleurs sociaux, et divers partenaires, nous avons établis que la manière la plus simple et la plus efficace par laquelle la startup peut favoriser l’insertion ou la réinsertion professionnelle des PSH consiste dans un meilleur accès aux périodes d’immersion en milieu professionnel.
+Dans le cadre de la phase exploratoire, suite à des entretiens avec des personnes en situation de handicap (PSH), des associations, des travailleurs sociaux, et divers partenaires, nous avons établi que la manière la plus simple et la plus efficace par laquelle la startup peut favoriser l’insertion ou la réinsertion professionnelle des PSH consiste dans un meilleur accès aux périodes d’immersion en milieu professionnel.
 
-Ces périodes d’immersion professionnelles, accessibles via plusieurs dispositifs existants, connus (stages, apprentissages) ou moins connus (PMSMP), doivent servir à mettre en contact direct les PSH avec les employeurs afin d’acculturer ces derniers au handicap, et de laisser une chances aux PSH de faire valoir et/ou d’évaluer leurs compétences en situation.
+Ces périodes d’immersion professionnelle, accessibles via plusieurs dispositifs existants, connus (stages, apprentissages) ou moins connus (PMSMP), doivent servir à mettre en contact direct les PSH avec les employeurs afin d’acculturer ces derniers au handicap, et de laisser une chance aux PSH de faire valoir et/ou d’évaluer leurs compétences en situation.
 
-Compte tenu de la spécificité des profils des PSH (problèmes d’insertion, problématiques de santé, maintien en emploi parfois difficile) et compte tenu de leur volonté de retour à l’emploi progressif (particulièrement pour les publics les plus éloignés de l’emploi), l’idée de prendre exemple sur un dispositif d’accompagnement existant à émerger.
+Compte tenu de la spécificité des profils des PSH (problèmes d’insertion, problématiques de santé, maintien en emploi parfois difficile) et compte tenu de leur volonté de retour à l’emploi progressif (particulièrement pour les publics les plus éloignés de l’emploi), l’idée de prendre exemple sur un dispositif d’accompagnement existant a émergé.
 
-En effet les Emplois Accompagnés (EA), dispositif couteux et peu étendu sur le territoire français (moins de 1000 bénéficiaires pour un cout de 8000 euros par personne en moyenne) fait ses preuves, tout comme des dispositifs similaires qui ont été expérimentés dans d’autres pays (USA notamment).
+En effet les Emplois Accompagnés (EA), dispositif quoique couteux et peu étendu sur le territoire français (moins de 1000 bénéficiaires pour un cout de 8000 euros par personne en moyenne) fait ses preuves, tout comme des dispositifs similaires qui ont été expérimentés dans d’autres pays (USA notamment).
 
-Il  ne s’agit pas de faire ici de l’EA pour moins cher, mais de prendre le meilleur du dispositif,  de s’associer avec des acteurs du handicap de terrain, et de l’axer sur la validation de projet professionnelle et/ou la préparation à l’embauche.
+Il  ne s’agit pas de faire ici de l’EA pour moins cher, mais de prendre le meilleur du dispositif, de s’associer avec des acteurs du handicap de terrain, et de l’axer sur la validation de projet professionnelle et/ou la préparation à l’embauche.
 
 ## Ce que nous ne sommes pas
 
@@ -43,4 +43,4 @@ Il  ne s’agit pas de faire ici de l’EA pour moins cher, mais de prendre le m
 -	Un remplacement des dispositifs existants. Nous ne faisons que créer une nouvelle manière d’articuler les dispositifs existants entre eux pour maximiser leur efficacité.
 -	Une solution déconnectée du terrain et/ou 100% numérique. Au contraire chaque étape du process comporte une partie humaine non négociable.
 -	Un moyen de remplacer le SPE (Service Public de l’Emploi). Nous fluidifions les parcours professionnels.
--	Un service uniquement à destination des PSH. Il le sera au départ mais à pour vocation d'être à terme à disposition de toute personne souhaitant faire de l’immersion, mais 100% accessible par les PSH.
+-	Un service uniquement à destination des PSH. Il le sera au départ mais a pour vocation d'être à terme à disposition de toute personne souhaitant faire de l’immersion, mais 100% accessible par les PSH.
