@@ -1,5 +1,5 @@
 ---
-roles: un·e développeur·se web full-stack
+roles: une développeuse ou un développeur web full-stack
 startup: trackdechets
 techno: React, NodeJS, Go, Docker
 junior: false
@@ -31,7 +31,7 @@ Sorti de terre en novembre dernier, Trackdéchets est aujourd'hui composé des b
 - déployé chez OVH avec une infra Docker & docker-compose
 - orchestré via CircleCI
 
-Tous le code est open source et consultable [sur GitHub](https://github.com/MTES-MCT/trackdechets).
+Tout le code est open source et consultable [sur GitHub](https://github.com/MTES-MCT/trackdechets).
 
 Vous êtes en mesure de jouer sur 2 tableaux :
 
@@ -40,17 +40,17 @@ Vous êtes en mesure de jouer sur 2 tableaux :
 
 ## Compétences
 
-- Développeur web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, Rails, Symfony, Laravel, Django/Flask…).
+- Développement web avec une bonne expérience dans (au moins) un framework web moderne (NodeJS, Rails, Symfony, Laravel, Django/Flask…).
 - Bonne maîtrise du développement front-end (HTML, CSS, JavaScript).
-- Expérience en conception orientée utilisateur et en expérience utilisateur. Nous travaillons étroitement avec les users pour la conception et l’amélioration de la solution.
+- Expérience en conception orientée utilisateur et en expérience utilisateur. Nous travaillons étroitement avec les utilisateurs pour la conception et l’amélioration de la solution.
 - Expérience de l’écosystème technique web : Docker, test AB, analytics…
 - Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
 
 ## Modalités
 
-- Poste ouvert pour un·e indépendant·e .
-- Télétravail partiel bienvenu, avec une présence régulière à Paris (La Défense) pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification.
-- Temps partiel (4/5éme).
+- Poste ouvert pour un contrat indépendant .
+- Télétravail partiel bienvenu, avec une présence régulière à Paris (La Défense) pour participer aux sessions communes de tests utilisateurs, démonstration, rétrospective et planification.
+- Temps partiel (4/5e).
 - Démarrage ASAP
 
 
@@ -65,4 +65,4 @@ Une équipe très motivée et composée de:
 
 ## Vous souhaitez rejoindre la startup Trackdéchets ?
 
-Envoyez votre LinkedIn / CV / GitHub sous la forme que vous souhaitez à emmanuel.flahaut@developpement-durable.gouv.fr 
+Envoyez votre LinkedIn / CV / GitHub sous la forme que vous souhaitez à [emmanuel.flahaut@developpement-durable.gouv.fr](mailto:emmanuel.flahaut@developpement-durable.gouv.fr)
