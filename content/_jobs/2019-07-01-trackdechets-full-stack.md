@@ -62,3 +62,7 @@ Une équipe très motivée et composée de:
 - Claire VIGIER - Coach
 - Orion Charlier - Développeur
 - Benoit Guigal - Data Scientist
+
+## Vous souhaitez rejoindre la startup Trackdéchets ?
+
+Envoyez votre LinkedIn / CV / GitHub sous la forme que vous souhaitez à emmanuel.flahaut@developpement-durable.gouv.fr 
