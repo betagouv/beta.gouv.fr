@@ -1,5 +1,5 @@
 ---
-fullname: Sarah Lancy
+fullname: Sarah Lancry
 role: Chargée de développement
 missions:
   - end: '2019-12-31'
