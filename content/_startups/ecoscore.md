@@ -1,6 +1,6 @@
 ---
-title: Ecoscore Bêta
-mission:  L’information environnementale en un coup d’oeil pour aider les Français à réduire leur impact
+title: EcoLab
+mission:  Créons ensemble des applications pour la transition écologique
 owner: ADEME
 incubator: dinsic 
 status: construction
