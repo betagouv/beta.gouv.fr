@@ -15,7 +15,7 @@ hire_card:
     fullname: Vous ?
     role: Développer, porter un produit, coaching lean, marketing numérique…
     link: /contact
-    avatar: /img/logo-generique-startup-carre.jpg
+    avatar: /img/logo-generique-startup-carre-2019.jpg
     content: <b>Vous avez envie de nous rejoindre&nbsp;? Contactez-nous&nbsp;!</b>
 ---
 

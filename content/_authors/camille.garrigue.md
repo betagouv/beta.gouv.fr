@@ -8,5 +8,7 @@ missions:
     status: independent
     employer: octo
 startups:
+    - lapins
+previously:
     - demarches-simplifiees.fr
 ---

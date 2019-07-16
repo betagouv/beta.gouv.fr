@@ -16,7 +16,7 @@ startups:
     - le-taxi
     - transport
     - preuve-de-covoiturage
-    - ecoscore
+    - ecolab
     - lotocar
     - auvol
 ---
