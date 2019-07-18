@@ -1,7 +1,7 @@
 ---
 roles: Une ou un Business Developer
 startup: peps
-open: true
+open: false
 ---
 
 # Offre de Business Developer
