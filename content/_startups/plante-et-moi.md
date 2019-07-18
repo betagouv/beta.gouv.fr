@@ -36,7 +36,11 @@ Et pour les particuliers, il s'agit :
 - de trouver où planter, quoi planter et comment planter près de chez soi en quelques clics
 - de savoir où trouver des conseils de plantation et d'entretien
 
-
+En fonction des retours utilisateurs et de la collaboration avec des nouveaux partenaires, les évolutions futures pourrait permettre :
+- de cartographier l'univers des possibles en recensant les zones favorables en fonction des contraintes (voiries, réseaux souterrains, largeur de trottoir par exemple) et des opportunités (quartiers et espaces ciblés…),
+- de recevoir des conseils de plantation et d'entretien au fil des saisons,
+- de voir ce que font les voisins, se donner des idées et se motiver
+- ...
 
 Nous travaillons avec les villes de __Amiens__ ([Permis de Fleurir](https://permisdefleurir.amiens.fr/)), __Arles__, __Dijon__ ([J'adopte un arbre](http://jadopteunarbre.dijon.fr)), __Romainville__ ([Jardin'émoi](http://romainville.plante-et-moi.fr/jardin-emoi/)) et __Malakoff__ ([Nature en ville](https://nature.malakoff.fr/)).
 
