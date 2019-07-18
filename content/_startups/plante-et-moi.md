@@ -31,6 +31,7 @@ __Plante & moi est donc un outil numérique permettant de faciliter la végétal
 Pour ces dernières, il permet :
 - de guider le demandeur dans son projet, avant et pendant sa demande,
 - de recevoir et traiter des dossiers de permis de végétaliser, de suivre l'ensemble des projets
+
 Et pour les particuliers, il s'agit :
 - de trouver où planter, quoi planter et comment planter près de chez soi en quelques clics
 - de savoir où trouver des conseils de plantation et d'entretien
