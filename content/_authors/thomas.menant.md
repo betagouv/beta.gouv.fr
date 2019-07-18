@@ -1,6 +1,6 @@
 ---
 fullname: Thomas Menant
-role: Expertise juridique
+role: Claquettiste 🕺
 missions:
   - start: '2014-01-01'
     end: '2019-12-31'
