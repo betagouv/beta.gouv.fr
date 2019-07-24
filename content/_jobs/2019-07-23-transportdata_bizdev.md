@@ -1,5 +1,5 @@
 ---
-roles: une ou un chargé d’accompagnement à l’ouverture des données de transport # 
+roles: une ou un chargé(e) d’accompagnement à l’ouverture des données de transport #
 startup: transport  # identifiant de la startup pour laquelle le recrutement est fait ; créer la startup si elle n'existe pas encore
 junior: true # S'il est possible de candidater avec peu d'expérience
 open: true # Basculer à 'false' ou supprimer une fois l'offre pourvue
