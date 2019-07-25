@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: ey
 startups:
-    - la-bonne-formation
+    - anotea
 ---
 
 Développeur Web polyglotte et curieux
