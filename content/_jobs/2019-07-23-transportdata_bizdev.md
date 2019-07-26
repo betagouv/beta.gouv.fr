@@ -34,4 +34,4 @@ Nous cherchons spécifiquement quelqu’un pour nous appuyer sur notre mission d
 - Comprendre toute la chaîne de création de valeur des données ouvertes, depuis la production de données à leur circulation et réutilisation.
 - Travailler à concilier des intérêts parfois divergents et trouver des solutions pragmatiques pour débloquer des situations de blocage ou de conflit.
 
-Si la mission vous intéresse, contactez [mailto:recrutement@beta.gouv.fr](recrutement@beta.gouv.fr) pour convenir d'un moment échange. 
+Si la mission vous intéresse, contactez [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr) pour convenir d'un moment échange. 
