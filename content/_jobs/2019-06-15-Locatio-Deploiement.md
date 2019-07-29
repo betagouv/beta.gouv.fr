@@ -6,7 +6,7 @@ open: true
 
 # Locatio recrute un(e) chargé(e) de déploiement !
 
-_Poste ouvert le 15/06/2019_
+_Poste ouvert le 25/07/2019_
 
 **1 startup d'État de l’Incubateur du Ministère de la Transition Écologique et Solidaire recrute un ou une stagiaire pour l'aider à résoudre des problématiques essentielles à la réussite de leur produit**
 
@@ -39,7 +39,7 @@ En vrac, quelques missions de nos précédents stagiaires :
 
 Durée : Stage de 3 à 6 mois
 
-Dates : entre juillet et décembre 2019 (adaptable)
+Dates : à partir de septembre 2019 (adaptable)
 
 Lieu de stage : Région parisienne
 
