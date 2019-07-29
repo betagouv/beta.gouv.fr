@@ -1,7 +1,7 @@
 ---
 roles: Chargé(e) de déploiement (Stage)
 startup: locatio
-open: true
+open: false
 ---
 
 # Locatio recrute un(e) chargé(e) de déploiement !
