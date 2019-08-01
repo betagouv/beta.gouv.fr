@@ -3,10 +3,10 @@ fullname: Ivan Collombet
 role: Mentor
 missions:
   - start: '2017-01-01'
-    end: '2019-12-31'
+    end: '2019-07-31'
     status: independent
     employer: icc
-startups:
+previously:
   - place-des-entreprises
   - signaux-faibles
   - competences-pro
@@ -18,7 +18,6 @@ startups:
   - gps-usagers
   - peps
   - aplus
-previously:
   - api-drones
   - demarches-simplifiees.fr
   - reuni
