@@ -8,7 +8,7 @@ missions:
   - end: '2019-07-31'
     start: '2013-07-01'
     status: independent
-startups:
+previously:
   - aplus
   - psi
   - signaux-faibles
@@ -26,7 +26,6 @@ startups:
   - data.gouv.fr
   - mes-aides
   - mon-entreprise
-previously:
   - fiches-de-banc
 ---
 
