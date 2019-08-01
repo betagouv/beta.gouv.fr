@@ -47,6 +47,12 @@ Concrètement, un travailleur social **Aidant+** utilise la plateforme pour sign
 
 La facilité d’utilisation et la sécurité sont primordiales pour Administration+. L’accès à la plateforme s’effectue depuis les boites mails professionnelles des utilisateurs. Aucun logiciel supplémentaire n’est à installer. La connexion est personnelle et confidentielle : seuls l’Aidant+ et les Agents+ saisis lors d’une demande ont accès à son contenu et aux informations personnelles concernant l’usager.
 
+## Administration+, on en parle !
+
+> Une telle expérimentation, complémentaire des médiations institutionnelles, notamment parce qu’elle est au contact direct des publics fragiles, peut avoir un effet positif pour l’accès aux droits et aux services publics des personnes les plus vulnérables. Et on peut également y voir une occasion pour les médiateurs de se recentrer sur leur cœur de métier
+
+*Médiation accomplie ? Discours et pratiques de la médiation entre citoyens et administrations*, [rapport France Stratégie, 2 juillet 2019](https://www.strategie.gouv.fr/publications/mediation-accomplie-discours-pratiques-de-mediation-entre-citoyens-administrations).
+
 ## État du déploiement
 
 #### Décembre 2017
