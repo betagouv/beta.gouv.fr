@@ -36,7 +36,7 @@ proactif ;
 
 ## Comment envoyer votre candidature ?
 
-Si la mission vous intéresse, envoyez-nous votre candidature par e-mail à l’adresse suivante  : [matthieu.heurtel@beta.gouv.fr](mailto:matthieu.heurtel@beta.gouv.fr)
+Si la mission vous intéresse, envoyez-nous directemment votre candidature par e-mail à l’adresse suivante  : [matthieu.heurtel@beta.gouv.fr](mailto:matthieu.heurtel@beta.gouv.fr)
 
 Pas besoin de lettre de motivation formelle, quelques lignes dans le corps du mail suffisent pour exprimer votre motivation. Ajoutez votre CV ou le lien vers votre compte Linkedin, et tout ce que vous souhaitez nous communiquer qui nous permettra de mieux vous connaître.
 
