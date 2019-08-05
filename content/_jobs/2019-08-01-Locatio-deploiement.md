@@ -10,10 +10,10 @@ title: Offre de responsable des opérations locatio.beta.gouv.fr # Permet d'avoi
 
 Locatio a été déployé sur toute la France en juin 2018 et a déjà aidé plus de  40  000  locataires  à  trouver  leur  logement.  En  pleine  phase  de croissance, nous avons besoin d’aide pour gérer l’intégration de nouveaux partenaires et pour atteindre notre objectif : 100 000 dossiers pour la fin de l’année !
 
-Nous cherchons recherchons quelqu’un afin de nous aider dans la gestion de nos tâches opérationnelles ainsi que dans le développement de Locatio, de **septembre  à  janvier  2019** (flexible,  à  voir  en  fonction  des disponibilités de la candidate/du candidat) des horaires à temps plein ou partiel, rémunérés en statut d’indépendant.
+Nous cherchons quelqu’un afin de nous aider dans la gestion de nos tâches opérationnelles ainsi que dans le développement de Locatio, de **septembre  à  janvier  2019** (flexible : à  voir  en  fonction  des disponibilités de la candidate/du candidat). Télétravail et temps partiel possibles, rémunéré en statut d’indépendant.
 
 ## Concrètement, en quoi consiste la mission ?
-- Responsable des opértations au quotidien pour Locatio ;
+- Responsable des opérations au quotidien pour Locatio ;
 - Interactions directes avec les utilisateurs ; 
 - Reporting, évaluation des résultats sur la base de métriques d’impact ;
 - Rédaction de contenus (site internet) ;
@@ -30,13 +30,13 @@ proactif ;
 - Découvrir beta.gouv.fr, l’incubateur des Start-ups d’état et le domaine des politiques publiques numériques ;
 - Pouvoir effectuer des missions diversifiées ; 
 - Vous pourrez travailler en autonomie, à distance si souhaité. Vous n’aurez pas besoin d’attendre que vos actions soient validées par quelqu’un d’autre - au contraire, on valorise plutôt le sens de l’initiative !
-- En rencontrant autant d’acteurs différents (bailleurs, syndicats, agents immobiliers, start-ups et autre sociétés du numérique travaillant sur le monde du logement), vous deviendrez rapidement expert(e) des questions liées à la transition numérique dans le monde du logement.
+- En rencontrant autant d’acteurs différents (bailleurs, syndicats, agents immobiliers, start-ups et autres sociétés du numérique travaillant sur le monde du logement), vous deviendrez rapidement expert(e) des questions liées à la transition numérique dans le monde du logement.
 - Etre au cœur d’un projet en pleine croissance ;
 - Concilier l’esprit service public avec la démarche start-up.
 
 ## Comment envoyer votre candidature ?
 
-Si la mission vous intéresse, envoyez-nous votre candidature par e-mail à l’adresse suivante  : [matthieu.heurtel@beta.gouv.fr] (mailto:matthieu.heurtel@beta.gouv.fr)
+Si la mission vous intéresse, envoyez-nous votre candidature par e-mail à l’adresse suivante  : [matthieu.heurtel@beta.gouv.fr](mailto:matthieu.heurtel@beta.gouv.fr)
 
 Pas besoin de lettre de motivation formelle, quelques lignes dans le corps du mail suffisent pour exprimer votre motivation. Ajoutez votre CV ou le lien vers votre compte Linkedin, et tout ce que vous souhaitez nous communiquer qui nous permettra de mieux vous connaître.
 
