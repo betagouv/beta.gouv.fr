@@ -11,10 +11,10 @@ missions:
     status: service
 startups:
   - aidantsconnect
-  - api.gouv.fr
-  - api-particulier
 previously:
   - _openfisca_
+  - api.gouv.fr
+  - api-particulier
 ---
 
 Développeuse et amélioratrice de parcours utilisateur. Le reste du temps, je collectionne des livres et de la papeterie.
