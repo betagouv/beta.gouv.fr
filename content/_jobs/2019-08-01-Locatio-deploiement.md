@@ -8,9 +8,9 @@ title: Offre de responsable des opérations locatio.beta.gouv.fr # Permet d'avoi
 
 [locatio.beta.gouv.fr](http://locatio.beta.gouv.fr) vise à remettre la confiance au centre de la relation  entre  les  propriétaires  et  les  locataires.  Comment  ?  En accompagnant  tous  les  publics  dans  la  constitution  de  leur  dossier  de location. Concrètement, nous travaillons au quotidien pour que la barrière de la langue, la difficulté administrative ou la complexité d’une situation particulière ne soient plus jamais des freins dans l’accès au logement !
 
-Locatio a été déployé sur toute la France en juin 2018 et a déjà aidé plus de  40  000  locataires  à  trouver  leur  logement.  En  pleine  phase  de croissance, nous avons besoin d’aide pour gérer l’intégration de nouveaux partenaires et pour atteindre notre objectif : 100 000 dossiers pour la fin de l’année !
+Locatio a été déployé sur toute la France en juin 2018 et a déjà aidé plus de  50  000  locataires  à  trouver  leur  logement.  En  pleine  phase  de croissance, nous avons besoin d’aide pour gérer l’intégration de nouveaux partenaires et pour atteindre notre objectif : 100 000 dossiers pour la fin de l’année !
 
-Nous cherchons quelqu’un afin de nous aider dans la gestion de nos tâches opérationnelles ainsi que dans le développement de Locatio, de **septembre  à  janvier  2019** (flexible : à  voir  en  fonction  des disponibilités de la candidate/du candidat). Télétravail et temps partiel possibles, rémunéré en statut d’indépendant.
+Nous cherchons quelqu’un afin de nous aider dans la gestion de nos tâches opérationnelles ainsi que dans le développement de Locatio, de **septembre  à  janvier  2020** (flexible : à  voir  en  fonction  des disponibilités de la candidate/du candidat). Télétravail et temps partiel possibles, rémunéré en statut d’indépendant.
 
 ## Concrètement, en quoi consiste la mission ?
 - Responsable des opérations au quotidien pour Locatio ;
