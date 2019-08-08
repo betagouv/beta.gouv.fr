@@ -18,7 +18,7 @@ Le produit existe depuis novembre 2017 et est désormais en phase d’accéléra
 
 Administration+ est **une messagerie sécurisée** réservé aux travailleurs sociaux et agents d’opérateurs de l’État (CPAM, DDFIP, MSA, Caf, etc.). Il s’agit d’une plateforme qui permet de résoudre les blocages administratifs complexes. Pour une raison inconnue, ces blocages n’arrivent pas à être traités par les canaux d’informations classiques. Ils doivent cependant être résolus en urgence pour éviter de faire basculer l’usager dans la précarité. **L’usager en situation de fragilité sociale** (perte de mobilité, illectronisme, illettrisme, handicap, hospitalisation, etc.) **n’a pas directement accès à Administration+**. C’est son travailleur social, avec son autorisation, qui utilise la plateforme pour répondre à son problème.
 
-## Ce poste est fait pour vous si
+## Entrez en contact avec nous si
 > Vous souhaitez construire des services innovants et participer à la rénovation et à l’amélioration des services publics par le numérique en particulier dans la sphère sociale.
 
 > Vous souhaitez, œuvrer pour l’accessibilité du service public, participer à la lutte contre le non-recours aux droits et à l’optimisation des canaux d’échanges entre administrations.
@@ -47,7 +47,7 @@ Vous serez également amené à vous déplacer ponctuellement partout en France,
 - Le plus : vous avez déjà accompagné une startup ou une Startup d’État
 
 ## Statut
-Poste ouvert pour une mission de prestataire (freelance, portage salarial, auto-entrepreneur), pour un engagement minimal de quatre mois. L’environnement de travail est sur Paris. Télétravail partiel possible, quelques déplacements à prévoir.
+Mission de prestataire (freelance, portage salarial, auto-entrepreneur), pour un engagement minimal de quatre mois. L’environnement de travail est sur Paris. Télétravail partiel possible, quelques déplacements à prévoir.
 
 ## Postulez !
 Envoyez-nous un message à [contact@aplus.beta.gouv.fr](mailto:contact@aplus.beta.gouv.fr) avec vos motivations et les grandes lignes de votre CV. Vous pouvez compléter votre envoi avec un profil Linkedin et un CV complet.
