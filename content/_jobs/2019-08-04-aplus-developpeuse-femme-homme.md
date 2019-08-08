@@ -47,7 +47,7 @@ Vous serez également amené à vous déplacer ponctuellement partout en France,
 - Le plus : vous avez déjà accompagné une startup ou une Startup d’État
 
 ## Statut
-Poste ouvert pour une mission de prestataire (freelance, portage salarial, auto-entrepreneur), pour un engagement minimal de six mois. L’environnement de travail est sur Paris. Télétravail partiel possible, quelques déplacements à prévoir.
+Poste ouvert pour une mission de prestataire (freelance, portage salarial, auto-entrepreneur), pour un engagement minimal de quatre mois. L’environnement de travail est sur Paris. Télétravail partiel possible, quelques déplacements à prévoir.
 
 ## Postulez !
 Envoyez-nous un message à [contact@aplus.beta.gouv.fr](mailto:contact@aplus.beta.gouv.fr) avec vos motivations et les grandes lignes de votre CV. Vous pouvez compléter votre envoi avec un profil Linkedin et un CV complet.
