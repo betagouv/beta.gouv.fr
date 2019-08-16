@@ -8,8 +8,9 @@ start: 2016-02-02
 end:
 link: https://maintenant.pole-emploi.fr
 repository:
-stats: false
-contact: lauren.michel@pole-emploi.fr
+stats: true
+stats_url: https://maintenant.pole-emploi.fr/stats.html
+contact: maintenant@pole-emploi.fr
 ---
 
 ## Recrutez des gens, pas des CV !

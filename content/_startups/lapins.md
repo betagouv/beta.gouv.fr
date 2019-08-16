@@ -1,33 +1,41 @@
 ---
 title: Lapins
 mission: Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité
-owner: Département du Pas-de-Calais
-incubator: innolab-62
-status: construction
+owner: Consortium de départements
+incubator: dinsic
+status: acceleration
 start: 2018-01-18
-end: 2018-07-18
+end: 
 link:
 repository:
 stats: false
-contact: Vaneecke.Elodie@pasdecalais.fr
+contact: antoine.haguenauer@beta.gouv.fr
 ---
 
-## Des milliers de lapins dans les Maisons départementales de solidarité du Pas-de-Calais !
+## Des milliers de lapins dans les Maisons départementales de solidarité !
 
-Chaque année, des dizaines de milliers de rendez-vous pris dans les maisons départementales de solidarité (MDS) du Pas-de-Calais. Parmi eux, environ 20 % ne sont ni honorés, ni excusés : ce sont des lapins.
+Chaque année, des dizaines de milliers de rendez-vous pris dans les maisons départementales de solidarité (MDS). Selon nos estimations réalisées dans plusieurs départements, près de 20 % en moyenne ne sont ni honorés, ni excusés : ce sont des lapins. A ces lapins s'ajoutent des rendez-vous annulés et non remplacés, portant la moyenne des rendez-vous vacants à près de 25%.
 
-Les rendez-vous sont pris par téléphone ou physiquement et les annulations faites par téléphone. Les créneaux sont souvent imposés aux usagers. Il y a rarement de confirmation avant la date de rendez-vous et pas de conséquences pour l’usager qui pose un lapin.
+Le projet est né dans le Pas-de-Calais, sur proposition de deux travailleuses médico-sociales devenues intrapreneuses du projet. Pendant un an, l'équipe a cherché à caractériser le problème et ses causes et à expérimenter des solutions. Elle a trouvé les moyens de réduire le taux de lapins à un niveau inférieur à 5% sur les zones pilotes. 
 
-Les activités de la Protection Maternelle et Infantile (PMI) et des Services sociaux locaux (SSL) sont particulièrement concernées. Ces lapins ont un coût financier substantiel et un coût social, avec l’allongement de délais de prise de rendez-vous, des conséquences sur la santé individuelle de personnes fragiles et des impacts sur les agents.
+Les conditions de la prise de rendez-vous sont déterminantes. Aujourd'hui, les rendez-vous sont pris par téléphone ou physiquement et les annulations faites par téléphone. Les créneaux sont souvent imposés aux usagers. Les délais d'attente peuvent être importants, ce qui favorise l'oubli. Il y a rarement de confirmation avant la date de rendez-vous et pas de conséquences pour l’usager qui pose un lapin.
 
-Il y a lieu de penser que cette situation existe dans un nombre considérable de départements. Les solutions trouvées pour le Pas-de-Calais ont vocation à être répliquées sur l’ensemble du territoire.
+Les activités de la Protection Maternelle et Infantile (PMI) et d'accueil social sont particulièrement concernées. Ces lapins ont un coût financier substantiel et un coût social, avec l’allongement de délais de prise de rendez-vous, des conséquences sur les situations individuelles de personnes fragiles et des impacts négatifs sur les agents.
 
-## Une solution pour faciliter la prise et l’annulation de rendez-vous
+Les solutions trouvées pour le Pas-de-Calais ont vocation à être étendues, enrichies et partagées avec d'autres départements. Une rapide étude a confirmé l'existence de cette situation  dans un nombre considérable de départements. 
 
-Un site internet permettra de fluidifier la prise de rendez-vous en permettant aux usagers de choisir des créneaux qui leur conviennent. Des rappels automatiques par email et SMS peuvent être mis en place.  Les arguments de la rigidité, de la complexité d’annulation pour l’usager et de l’oubli seraient ainsi résolus.
+En avril 2019, 12 collectivités départementales se sont associées pour former un consortium soutenu par la DINSIC, créer une plateforme commune et partager les bonnes pratiques. 
 
-## Deux sites pilotes : Calais II et Noeux-les-Mines
+## Une solution numérique pour faciliter la prise, l’annulation et le remplacement de rendez-vous
 
-Notre stratégie de déploiement commence par les MDS de Calais II et Noeux-les-Mines. Nous passerons ensuite aux territoires du Calaisis et de l’Artois, avant de généraliser les solutions aux 27 MDS du Pas-de-Calais.
+Une application permettra de fluidifier la prise de rendez-vous. Elle devra permettre la simplification du travail d'organisation et de suivi par les agents. Cinq moyens de base sont identifiés : la saisie unique des informations de l'usager, l'usage d'agendas partagés,  des rappels automatiques par email et SMS. Dans certains cas, les usagers pourront prendre rendez-vous en ligne et modifier ou annuler leur rendez-vous en autonomie. Des files d'attente pour prévenir automatiquement les usagers de créneaux rendus disponibles seront alors mis en place. 
 
-Nos relais sont en priorité les travailleurs des MDS : assistants sociaux, infirmières puéricultrices, médecins de PMI et fonctions support (secrétariat, accueil téléphonique). Nous les interrogeons en direct en mettant leurs témoignages en regard avec ceux des usagers. C’est en les convaincant que nous allons leur simplifier la vie que nous parviendrons à les embarquer dans de nouveaux usages.
+## Une démarche progressive de co-construction avec les utilisateurs
+
+Une organisation projet est mise en place à plusieurs niveaux : une équipe de développement, des référents dans chaque départements, des correspondants dans chaque MDS et des utilisateurs volontaires pour la phase de construction du produit.
+
+Chaque département partenaire identifie une ou plusieurs maisons pilotes. Nos relais sont en priorité les travailleurs des MDS : assistants sociaux, infirmières puéricultrices, médecins de PMI et fonctions support (secrétariat, accueil téléphonique). Nous les interrogeons directement, pour construire avec eux une solution adaptée à leurs usages. Ils testent en continu la solution proposée. 
+
+La démarche est conçue comme progressive. Nous adresserons les enjeux de chaque service, en commençant par la PMI et l'accueil social. Le déploiement de la solution suivra ensuite deux axes : l'extension aux autres services de chaque maison (aide sociale à l'enfance, RSA, etc.) et l'élargissement géographique aux autres maisons du département. 
+
+

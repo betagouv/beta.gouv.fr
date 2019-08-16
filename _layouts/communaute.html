@@ -63,7 +63,7 @@ layout: default
 {% assign lang = page.lang | default: site.lang | default: "fr" %}
 <div class="page article">
   {% include hero-page.html title=page.title %}
-  <section class="section section-grey">
+  <section class="section section-white">
     <div class="container">
       <h3>Évolution des effectifs</h3>
       <div id="chart-wrapper">
@@ -78,7 +78,7 @@ layout: default
       </div>
     </div>
   </section>
-  <section class="section section-white">
+  <section class="section section-grey">
     <div class="container community">
       <h2>Les membres actifs</h2>
       <div class="grid">
@@ -87,9 +87,9 @@ layout: default
     </div>
   </section>
 
-  <section class="section section-grey">
+  <section class="section section-white">
     <div class="container community alumni">
-      <h2>Les ancien·ne·s</h2>
+      <h2>Les anciennes et les anciens</h2>
       <div class="grid">
         {{ authors_inactive }}
       </div>

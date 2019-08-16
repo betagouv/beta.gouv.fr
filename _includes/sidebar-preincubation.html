@@ -1,0 +1,15 @@
+<nav class="side-pane">
+  <ul class="side-pane__menu sticky">
+    <li {% if page.url == "/preincubation/" %}class="active"{% endif %}>
+      <a class="side-pane__link" href="/preincubation/">Le programme de préincubation</a>
+    </li>
+    <li class="side-pane__dropdown unfolded {% if page.url contains "/preincubation/saison" %}active{% endif %}">
+      <a class="side-pane__link" href="/preincubation/saison01-neosud/">Les promotions</a>
+      <ul class="side-pane__submenu">
+        <li {% if page.url == "/preincubation/saison01-neosud/" %}class="active"{% endif %}>
+          <a class="side-pane__sublink" href="/preincubation/saison01-neosud/">Néosud</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>

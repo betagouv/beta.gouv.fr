@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+{% comment %}additional_css : side-panel.css{% endcomment %} {% assign lang =
+page.lang | default: site.lang | default: "en" %}
+
+<div class="page article" id="presentation">
+  {% include hero-page.html title=page.title %}
+</div>
+
+<section class="section section-white" style="padding-top: 0;">
+  <div class="container">
+    <div class="documentation">
+      {% include sidebar-preincubation.html %}
+      <div class="main-pane">
+        <div class="markdown">{{ content }}</div>
+        <h2>Les produits préincubés de la promotion</h2>
+        <div class="grid">
+          {% assign seedlings = site.seedlings | where:"season", page.season %}
+          {% for seedling in seedlings %}
+          <div class="card">
+            <div class="card__content">
+              <h3>{{ seedling.title | strip_html }}</h3>
+              <div class="card__meta">{{ seedling.owner | strip_html }}</div>
+              <p>{{ seedling.content | strip_html }}</p>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

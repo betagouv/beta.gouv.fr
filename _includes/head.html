@@ -57,12 +57,16 @@
     <meta property="og:url" content="{{ canonical_url }}">
 
 
-    {% capture mastheadImagePath %}{% if page.image %}{{ page.image }}{% else %}/img/logo-generique-startup-carre.jpg{% endif %}{% endcapture %}
+    {% capture mastheadImagePath %}{% if page.image %}/{{ page.image }}{% else %}/img/logo-generique-startup-carre-2019.jpg{% endif %}{% endcapture %}
     <meta name="thumbnail" content="{{ site.url }}{{ mastheadImagePath }}">
     <meta property="og:image" content="{{ site.url }}{{ mastheadImagePath }}">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site:id" content="{{ twitter_id }}">
+    {% capture twitter_id %}@{{ site.twitter_username }}{% endcapture %}
+    <meta name="twitter:site" content="{{ twitter_id }}">
+
+    {% capture twitterImagePath %}{% if page.image %}{{page.image}}{% else %}{{ site.url }}/img/logo_twitter_image-2019.jpg{% endif %}{% endcapture %}
+    <meta name="twitter:image" content="{{ twitterImagePath }}">
 
     {% include analytics.html %}
 

@@ -1,8 +1,9 @@
 ---
 roles: un·e expert·e Node.js
 friend: FranceConnect
+title: "beta.gouv recherche : un·e expert·e Node.js pour FranceConnect"
 type: 'friend'
-open: true
+open: false
 externalURL: https://www.place-emploi-public.gouv.fr/offre-emploi/developpeur-fullstack-nodejs--franceconnect--fh-reference-2019-180298
 ---
 

@@ -13,7 +13,7 @@
 }
 
 .richtext h3 {
-  font-size: 1.50em;
+  font-size: 1.5em;
 }
 
 /* Augmenter la taille de la colonne visible pour les articles */
@@ -33,26 +33,14 @@ blockquote {
 /* Margin pour le bouton de la newsletter */
 
 .form__group + .button {
-    margin-top: 2em;
+  margin-top: 2em;
 }
 
 /* Corriger l'effet sous-menu en attendant un patch */
 
-.side-pane li.side-pane__dropdown .side-pane__link {
-  background: url("/assets/images/icons/external/arrow-right.svg") no-repeat;
-  background-position: center right 1em;
-  background-size: 15px 15px;
-}
-
-.side-pane li.side-pane__dropdown:hover .side-pane__link {
-  background: #c9d3df url("/assets/images/icons/external/arrow-right.svg") no-repeat;
-  background-position: center right 1em;
-  background-size: 15px 15px;
-}
-
-.side-pane li.unfolded.side-pane__dropdown .side-pane__link,
-.side-pane li.unfolded.side-pane__dropdown:hover .side-pane__link {
-  background-image: url("/assets/images/icons/external/arrow-down-white.svg");
+.side-pane li.active > a {
+  font-weight: 700;
+  color: #0053b3;
 }
 
 /* Styles pour les iframes de vidéos */
@@ -65,14 +53,14 @@ blockquote {
 
 @media (max-width: 749px) {
   .video-iframe-center {
-    width: 100%
+    width: 100%;
   }
 }
 
 @media (min-width: 750px) {
   .video-iframe-center {
     text-align: center;
-    width: 75%
+    width: 75%;
   }
 }
 
@@ -84,11 +72,179 @@ blockquote {
   max-width: 100%;
 }
 
-.video-iframe-container iframe, .video-iframe-container object, .video-iframe-container embed {
+.video-iframe-container iframe,
+.video-iframe-container object,
+.video-iframe-container embed {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
   border: 0px;
+}
+
+/* Styles petites cartes */
+
+.card__alternative .card__cover {
+  border-radius: 50%;
+  min-width: 80px;
+  max-width: 80px;
+  height: 80px;
+  margin: 10px 10px 10px 0;
+}
+
+.card__alternative .card__content {
+  padding: 10px;
+  word-break: break-word;
+}
+
+.card__alternative .card__body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.card__alternative .card__extra {
+  border: none;
+  background-color: whitesmoke;
+  padding: 5px 10px;
+}
+
+.card__alternative .label {
+  color: #0053b3;
+  background-color: inherit;
+  margin: 0 5px;
+  padding: 0;
+  border: none;
+}
+
+.card__alternative .label--inactive {
+  color: darkgrey;
+  background-color: inherit;
+}
+
+.author-quote p {
+  font-style: italic;
+  margin: 0;
+}
+
+.article__hero {
+  min-height: 12em;
+  height: auto;
+}
+
+.card__cover {
+  height: 100px;
+}
+
+.card__cover img {
+  object-position: top;
+}
+
+.startup__title {
+  color: #0053b3;
+}
+
+h2.phase-title {
+  font-weight: normal;
+}
+
+h2.phase-title em {
+  font-style: normal;
+  font-weight: bold;
+}
+
+.phase-description {
+  font-style: italic;
+  color: $darker-grey;
+}
+
+.filters {
+  padding: 1em 0;
+  background-color: #d7e0e8;
+}
+
+.filters .container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1em;
+}
+
+.filters .selects {
+  grid-column: 1 / 2;
+  display: flex;
+  justify-content: space-between;
+}
+
+.filters input#search-input {
+  grid-column: 3;
+  border-radius: 20px;
+}
+
+.filters input#search-input:focus {
+  border-color: #53667d;
+}
+
+.filters .selects select {
+  background-color: white;
+  color: #53667d;
+  border-radius: 20px;
+  background-size: 15px 1em;
+}
+
+@media (max-width: 751px) {
+  .filters .container {
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+  }
+
+  .filters .selects {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .filters input#search-input {
+    grid-column: 1;
+    grid-row: 2;
+  }
+}
+
+#search-input-button {
+  display: none;
+}
+
+#results-container {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  top: 2em;
+  background-color: white;
+  border: 1px solid #adb9c9;
+  max-width: 660px;
+  min-width: 35vw;
+  right: 0;
+  padding: 1em 2em;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+/* Hack pour que les menus sticky restent visibles */
+.sticky {
+  z-index: 1;
+}
+
+/* Prévisions d'évolutions template */
+header.navbar {
+  border-bottom: none;
+  box-shadow: none;
+}
+
+.hero.article__hero {
+  background-color: #fff;
+  color: #000;
+  padding: 4em 0;
+}
+
+/* Pour qu'il n'y ai pas deux pages entre le titre de page et la 1ere section */
+.hero + .section {
+  padding-top: 0;
 }

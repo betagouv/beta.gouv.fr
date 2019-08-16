@@ -16,7 +16,7 @@ alpha-more: "[Le visionnage du MOOC](/alpha/mooc/) est obligatoire en amont de c
 alpha-link: https://startupdetat.typeform.com/to/Iuwd3O
 ---
 
-Alpha est la formation accélérée aux méthodes de la communauté beta.gouv.fr. Elle est destinée à accompagner les nouvelle Startups d'États et leurs intrapreneurs.
+Alpha est la formation accélérée aux méthodes de la communauté beta.gouv.fr. Elle est destinée à accompagner les nouvelles Startups d'État et de Territoires et leurs intrapreneurs.
 
 La formation Alpha est née en novembre 2017. Depuis, les sessions se sont succédé et la formule n'a cessé de s'améliorer. Elle reste **la meilleure façon de découvrir la méthode Startup d'État** et se destine aux acteurs de l’innovation du secteur public, membres d’une Startup d'État ou désireux d’en créer une.
 

@@ -20,7 +20,7 @@ Le standard reçoit ainsi 400 appels par jour, qui sont redirigés de poste en p
 
 La majorité des appels concernent les services sociaux du département (RSA, enfance, autonomie, etc.). Ces personnes se trouvent généralement dans une situation précaire et l’absence de réponse à leurs appels est d’autant plus problématique.
 
-Ces redirections ont également pour conséquence un flux incessant d’appels dans les services sociaux du département qui ont de plus en plus de mal à trouver du temps pour instruire les dossiers et répondre aux usagers. Les secrétaires et assistant·e·s de directions passent aujourd’hui entre 10 et 30% de leur temps à rediriger des usagers sans pouvoir les aider.
+Ces redirections ont également pour conséquence un flux incessant d’appels dans les services sociaux du département qui ont de plus en plus de mal à trouver du temps pour instruire les dossiers et répondre aux usagers. Les secrétaires, assistantes et assistants de direction passent aujourd’hui entre 10 et 30% de leur temps à rediriger des usagers sans pouvoir les aider.
 
 Notre solution permettra à terme d’éliminer les appels sans réponse pour les usagers et de soulager les agents publics dans leur gestion quotidienne des appels.
 
@@ -43,6 +43,3 @@ Pour la phase de test, nous avons intégré le GPS usagers à la page de contact
 ### Créer une interface d'administration
 
 Actuellement, chaque parcours utilisateur est intégré directement par le développeur de la startup. Afin de permettre une maintenance plus simple et d'offrir de nouvelles possibilités de contact (mail, prise de rendez-vous, demande de rappel, chat, etc.), nous allons développer une interface d'administration de l'application permettant à un.e administrateur.ice de créer, modifier et supprimer des parcours simplement.
-
-
-
