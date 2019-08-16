@@ -6,7 +6,7 @@ incubator: sgmas
 status: acceleration
 start: 2017-10-26
 end:
-link: https://workinfrance.beta.gouv.fr
+link: http://workinfrance.fr
 repository: https://github.com/SocialGouv/work-in-france
 stats: true
 contact: contact@workinfrance.beta.gouv.fr
