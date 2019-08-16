@@ -2,7 +2,7 @@
 roles: une ou un chargé(e) d’accompagnement à l’ouverture des données de transport #
 startup: transport  # identifiant de la startup pour laquelle le recrutement est fait ; créer la startup si elle n'existe pas encore
 junior: true # S'il est possible de candidater avec peu d'expérience
-open: true # Basculer à 'false' ou supprimer une fois l'offre pourvue
+open: false # Basculer à 'false' ou supprimer une fois l'offre pourvue
 title: Offre de chargé(e) de déploiement transport.data.gouv.fr # Permet d'avoir un titre spécifique pour la page de cette offre
 ---
 
