@@ -2,13 +2,13 @@
 roles: une ou un chargé(e) d’accompagnement à l’ouverture des données de transport #
 startup: transport  # identifiant de la startup pour laquelle le recrutement est fait ; créer la startup si elle n'existe pas encore
 junior: true # S'il est possible de candidater avec peu d'expérience
-open: true # Basculer à 'false' ou supprimer une fois l'offre pourvue
+open: false # Basculer à 'false' ou supprimer une fois l'offre pourvue
 title: Offre de chargé(e) de déploiement transport.data.gouv.fr # Permet d'avoir un titre spécifique pour la page de cette offre
 ---
 
 [transport.data.gouv.fr](http://transport.data.gouv.fr) est la plateforme qui vise à référencer dans un seul endroit toute l’information voyageur en France (horaires de passage, localisation des arrêts de bus/train, équipements vélos/parkings, disponibilité en temps réel des modes de transport…) dans un format lisible en machine et accessible librement. Nous avons une double mission : d’un côté, accompagner les acteurs qui produisent ces informations à publier leur données sur notre plateforme, et le cas échéant, les appuyer pour nettoyer et formater leurs données ; et de l’autre, prouver que ces données servent, en facilitant l’intégration de ces données dans des services numériques d’accompagnement à la mobilité (calculateur d’itinéraires comme Mappy ou Google Maps, applications d’aide à la mobilité comme MyBus, services GPS, cabinets d’études sur la mobilité…).
 
-Nous cherchons spécifiquement quelqu’un pour nous appuyer sur notre mission d’accompagnement à la publication et la mise en format de données, de **septembre à janvier 2019** (flexible, à voir en fonction des disponibilités de la candidate/du candidat), sur un rythme de **2-3 jours par semaine**, rémunérés en statut d'indépendant.
+Nous cherchons spécifiquement quelqu’un pour nous appuyer sur notre mission d’accompagnement à la publication et la mise en format de données, de **septembre 2019 à janvier 2020** (flexible, à voir en fonction des disponibilités de la candidate/du candidat), sur un rythme de **2-3 jours par semaine**, rémunérés en statut d'indépendant.
 
 
 
