@@ -8,7 +8,7 @@ start: 2018-01-01
 end:
 link: https://camino.beta.gouv.fr
 repository: https://github.com/MTES-MCT/camino-ui
-stats: https://camino.beta.gouv.fr/statistiques
+stats: true
 contact: camino@beta.gouv.fr
 ---
 
