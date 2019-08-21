@@ -3,7 +3,7 @@ roles: une développeuse ou un développeur web full-stack
 startup: trackdechets
 techno: React, NodeJS, Go, Docker
 junior: false
-open: true
+open: false
 ---
 
 ## Qui sommes-nous ?
