@@ -1,6 +1,6 @@
 ---
 roles: Un·e dev web full stack
-open: true
+open: false
 startup: perspectives
 ---
 
