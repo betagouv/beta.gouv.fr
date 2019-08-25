@@ -16,3 +16,7 @@
 # Gérer les liens vers les anciens documents
 /rapportannuel.pdf /content/docs/rapportannuel.pdf
 /guide.pdf /content/docs/guide.pdf
+
+# Redirection de l'ancienne page de recrutement
+
+/postuler/ /contact/
