@@ -1,11 +1,15 @@
 ---
 fullname: Amandine Audras
 role: UX Designer
-link: https://renardpal.com
 github: renardpal
+link: ''
 missions:
-  - start: '2018-11-02'
-    end: '2019-06-30'
-    status: dinsic
+  - end: '2019-09-30'
+    start: '2018-11-02'
+    status: independent
 startups:
+  - api.gouv.fr
+previously:
+  - _openfisca_
 ---
+
