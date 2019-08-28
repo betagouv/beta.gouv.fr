@@ -1,7 +1,7 @@
 ---
 roles: une ou un business developer
 startup: aides-territoires
-open: true
+open: false
 ---
 
 Végétaliser son centre-ville, faciliter la mobilité de tous, mettre en place des tiers-lieux, construire des crèches, animer l’espace public, valoriser et protéger son patrimoine, faire des territoires plus verts, plus inclusifs... les projets ne manquent pas mais demandent bien souvent des fonds ou de l’ingénierie dont ne disposent pas les porteurs de projets !
