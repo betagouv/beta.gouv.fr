@@ -8,5 +8,5 @@ missions:
     status: independent
     employer: Codeurs en Liberté
 startups:
-    - preuve-de-covoiturage
+  - preuve-de-covoiturage
 ---
