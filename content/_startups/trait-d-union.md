@@ -35,6 +35,6 @@ Pour l’organisme de formation : des stagiaires motivés, qui ont déjà une en
 ## La suite
 
 Afin de continuer les tests sur cette solution :
--          Tester une autre interface
--          Déployer sur d’autres bassins d’emploi
--          En parallèle, la construction d’un partenariat avec différentes parties prenantes
+- Tester une autre interface
+- Déployer sur d’autres bassins d’emploi
+- En parallèle, la construction d’un partenariat avec différentes parties prenantes
