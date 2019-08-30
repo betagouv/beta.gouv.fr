@@ -4,7 +4,7 @@ role: Développeur Fullstack
 github: Samuelfaure
 missions:
   - start: '2017-04-24'
-    end: '2017-10-24'
+    end: '2019-12-31'
     status: dinsic
 startups:
     - api-entreprise
