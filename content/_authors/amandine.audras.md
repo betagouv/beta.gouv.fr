@@ -4,10 +4,10 @@ role: UX Designer
 github: renardpal
 link: ''
 missions:
-  - employer: ''
+  - employer: dinsic
     end: '2019-06-30'
     start: '2018-11-02'
-    status: dinsic
+    status: admin
   - end: '2019-09-30'
     start: '2018-11-02'
     status: independent
