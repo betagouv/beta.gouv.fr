@@ -3,12 +3,15 @@
     <li {% if page.url == "/preincubation/" %}class="active"{% endif %}>
       <a class="side-pane__link" href="/preincubation/">Le programme de préincubation</a>
     </li>
-    <li class="side-pane__dropdown unfolded {% if page.url contains "/preincubation/saison" %}active{% endif %}">
-      <a class="side-pane__link" href="/preincubation/saison01-neosud/">Les promotions</a>
+    <li class="side-pane__dropdown unfolded {% if page.url contains "/preincubation/promotion" %}active{% endif %}">
+      <a class="side-pane__link" href="/preincubation/">Les promotions</a>
       <ul class="side-pane__submenu">
-        <li {% if page.url == "/preincubation/saison01-neosud/" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/preincubation/saison01-neosud/">Néosud</a>
+        {% assign seasons = site.seasons | sort: 'order' %}
+        {% for season in seasons %}
+        <li {% if page.url == season.url %}class="active"{% endif %}>
+          <a class="side-pane__sublink" href="{{ season.url }}">{{ season.title }}</a>
         </li>
+        {% endfor %}
       </ul>
     </li>
   </ul>
