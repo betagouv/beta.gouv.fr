@@ -1,5 +1,6 @@
 ---
 title: Saison 1 - Néosud
+start: 2019-02-01
 ---
 
 Pour la première fois, deux collectivités, le département du Var et l’agglomération de Pau Béarn Pyrénées, ont donné la possibilité à des agents territoriaux d’être détachés à raison d’un jour par semaine pendant trois mois pour s’attaquer à un problème de politique publique.
