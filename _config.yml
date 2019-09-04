@@ -56,6 +56,9 @@ collections:
     output: true
     permalink: /alpha/mooc/:title.html
   phases:
+  seasons:
+    output: true
+    permalink: /preincubation/promotion/:title.html
   seedlings:
   startups:
     output: true
@@ -85,6 +88,14 @@ defaults:
       layout: formation/mooc
       additional_css:
         - side-panel.css
+  - scope:
+      path: ""
+      type: "seasons"
+    values:
+      layout: preincubation/promotion
+      additional_css:
+        - side-panel.css
+        - grid.css
   - scope:
       path: ""
       type: "startups"

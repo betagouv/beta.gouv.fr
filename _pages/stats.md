@@ -8,7 +8,6 @@ beta.gouv.fr a lieu aussi une page stats.
 
 Les indicateurs utilisés sont ...
 
-
 1. Nombre de problèmes investigués
 
 // Cumul : Seedlings + SE

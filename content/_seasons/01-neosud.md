@@ -1,11 +1,5 @@
 ---
-layout: preincubation/promotion
 title: Saison 1 - Néosud
-season: 01-neosud
-permalink: /preincubation/saison01-neosud/
-additional_css:
-  - side-panel.css
-  - grid.css
 ---
 
 Pour la première fois, deux collectivités, le département du Var et l’agglomération de Pau Béarn Pyrénées, ont donné la possibilité à des agents territoriaux d’être détachés à raison d’un jour par semaine pendant trois mois pour s’attaquer à un problème de politique publique.
