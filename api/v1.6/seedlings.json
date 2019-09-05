@@ -30,7 +30,7 @@ layout: null
         , "type"      : "season"
         , "attributes":
             { "title"  : "{{ season.title }}"
-            , "start" : "{{ seedling.start }}"
+            , "start" : "{{ season.start }}"
             }
         }
         {% unless forloop.last %},{% endunless %}
