@@ -1,7 +1,7 @@
 ---
 roles: Référent(e) territorial(e)
 startup: pass Culture
-open: true
+open: false
 ---
 
 # Le pass Culture recrute un(e) référent(e) territorial(e) !

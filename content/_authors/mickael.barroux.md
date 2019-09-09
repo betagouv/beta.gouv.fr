@@ -1,12 +1,12 @@
 ---
-fullname: Brice Friederich
+fullname: Mickaël Barroux
 role: Développeur
-github: bfriederich
+github: mbarroux
 missions:
-  - start: '2018-05-22'
-    end: '2019-10-31'
+  - start: '2019-07-19'
+    end: '2019-11-30'
     status: independent
-    employer: ey
+    employer: inop's
 startups:
     - perspectives
 ---
