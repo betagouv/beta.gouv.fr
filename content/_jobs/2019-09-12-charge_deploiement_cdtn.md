@@ -17,7 +17,7 @@ Or tous les actifs sont impactés tous les jours par le droit qui régit leurs r
 
 Le Code du travail numérique, c’est aujourd’hui une équipe de 12 personnes (développeurs, designer, experts juridiques, data scientists) qui travaille depuis l’incubateur des ministères sociaux, en lien direct avec le ministère du Travail.
 
-[codedutravail.num.social.gouv.fr](codedutravail.num.social.gouv.fr)
+[codedutravail.num.social.gouv.fr](https://codedutravail.num.social.gouv.fr)
 
 ## Missions
 
