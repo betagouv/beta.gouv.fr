@@ -23,7 +23,7 @@ Le Code du travail numérique, c’est aujourd’hui une équipe de 12 personnes
 
 Le Code du travail numérique sortira officiellement le 1er janvier 2020. Nous recherchons dans ce cadre un·e chargé·e de déploiement afin de nous aider à faire croître progressivement l’audience de la version bêta du site.
 Les missions seront très diverses, et nous souhaitons également que la personne recrutée puisse apporter sa pierre à l’édifice. Voici quelques idées que nous aimerions développer d’ici la fin de l’année : 
-- Identifier et rencontrer des prescripteurs institutionnels (conseillers du salariés, organisations syndicales et patronales, comptables, maisons d’accès au droit, associations RH, etc.) afin de leur présenter le produit et de les inciter à le diffuser auprès de leur audience
+- Identifier et rencontrer des prescripteurs institutionnels (conseillers du salarié, organisations syndicales et patronales, comptables, maisons d’accès au droit, associations RH, etc.) afin de leur présenter le produit et de les inciter à le diffuser auprès de leur audience
 - Améliorer la présence en ligne et notamment sur les moteurs de recherche du Code du travail numérique via des améliorations sur le produit et / ou des partenariats de visibilité avec d’autres sites publics
 - Concevoir, organiser et gérer le suivi d’une campagne de tests auprès de professionnels du droit du travail pour valider la pertinence juridique du Code du travail numérique 
 
