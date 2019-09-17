@@ -4,7 +4,7 @@ role: Développeur
 github: anis
 missions:
   - start: '2018-11-19'
-    end: '2019-09-30'
+    end: '2020-01-31'
     status: independent
 startups:
     - action-bidonvilles
