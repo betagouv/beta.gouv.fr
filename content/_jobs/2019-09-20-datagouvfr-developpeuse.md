@@ -7,7 +7,7 @@ externalURL: 'https://www.data.gouv.fr/fr/posts/lequipe-de-data-gouv-fr-recrute-
 open: true
 ---
 
-Nous cherchons une personne intéressée par les données ouvertes, l’open source, Python et JavaScript, dans le but de nous aider à améliorer [data.gouv.fr](https://www.data.gouv.fr/fr/), la plateforme de référence en matière d’ouverture des données publiques. Nous recherchons une développeuse ou un développeur en _freelance_.
+Nous cherchons une personne intéressée par les données ouvertes, l’open source, Python et JavaScript, dans le but de nous aider à améliorer [data.gouv.fr](https://www.data.gouv.fr/fr/), la plateforme de référence en matière d’ouverture des données publiques.
 
 <!--more-->
 
@@ -77,7 +77,7 @@ Nous serions très contents de vous accueillir si :
 
 ## Détails techniques
 
-* **Contrat** — Vous êtes indépendant (_freelance_) avec un contrat de trois mois renouvelable.
+* **Statut** — Freelance / prestataire.
 * **Travail à distance** — Le travail à distance est possible, ponctuellement. Pour que vous puissiez [contribuer à nos rituels](https://github.com/etalab/etalab/blob/master/nos-rituels.md) et discuter avec les autres équipes d’Etalab, nous avons néanmoins besoin d'une présence régulière dans nos bureaux parisiens.
 * **Date de début** — Courant octobre 2019. Nous vous formerons sur nos outils si vous ne les connaissez pas et nous vous donnerons la liste des acronymes à connaître pour bien naviguer au sein de l’administration. En attendant, vous pouvez jeter un œil à [notre livret de bienvenue](https://github.com/etalab/etalab).
 
