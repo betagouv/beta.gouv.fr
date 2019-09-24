@@ -1,7 +1,7 @@
 ---
 roles: deux développeuses ou développeurs
 startup: aplus
-open: true
+open: false
 redirect_from:
   - /recrutement/2019/08/04/aplus-developpeuse-femme-homme.html
 ---
