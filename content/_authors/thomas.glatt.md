@@ -10,7 +10,7 @@ startups:
     - tremplin
     - workinfrance
     - egapro
-    - emjpm
+    - e-emjpm
 ---
 
 Accompagner les projets / imaginer collectivement des solutions adaptées et simples
