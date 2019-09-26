@@ -9,7 +9,7 @@ end:
 link: https://codedutravail.num.social.gouv.fr
 repository: https://github.com/SocialGouv/code-du-travail-explorer
 stats: false
-contact: codedutravail@beta.gouv.fr
+contact: codedutravailnumerique@travail.gouv.fr
 techno:
   - Next.js
   - PostCSS
