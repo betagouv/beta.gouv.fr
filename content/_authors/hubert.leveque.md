@@ -8,6 +8,6 @@ missions:
   - start: '2018-06-06'
     end:
     status: independent
-startups:
+previously:
     - competences-pro
 ---
