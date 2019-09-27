@@ -5,6 +5,8 @@ open: true
 
 L'incubateur de la DINSIC recrute des responsables de portefeuilles pour participer à la mise en place d'une équipe dédiée, autonome et pluridisciplinaire qui se donne pour mission de participer à la réussite du programme beta.gouv.fr
 
+<!--more-->
+
 ## Le contexte
 
 La communauté beta.gouv.fr à, depuis la création de la première Startup d'État, décidé collectivement que la meilleure manière de mettre en oeuvre une politique publique passe par la constitution d'une équipe autonome. Cette équipe est elle-même constituée de membres issus du public ou du privé qui se donnent pour mission de résoudre les problèmes de ses usagers. Elle pilote son action au jour le jour pour atteindre son objectif. Et enfin, elle répond des ses actes de façon transparente envers ses sponsors et ses usagers.
