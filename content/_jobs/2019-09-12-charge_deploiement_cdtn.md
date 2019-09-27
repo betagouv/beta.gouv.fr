@@ -55,4 +55,4 @@ Idéalement vous avez de l’expérience dans un, plusieurs ou tous les domaines
 
 ## Postuler
 
-Vous êtes prêt à postuler ? Envoyez-nous un email à [codedutravail@beta.gouv.fr](mailto:codedutravail@beta.gouv.fr) en expliquant pourquoi vous souhaitez nous rejoindre.
+Vous êtes prêt à postuler ? Envoyez-nous un email à [codedutravailnumerique@travail.gouv.fr](mailto:codedutravailnumerique@travail.gouv.fr) en expliquant pourquoi vous souhaitez nous rejoindre.
