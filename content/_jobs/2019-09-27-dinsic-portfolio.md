@@ -13,7 +13,7 @@ Nous souhaitons construire, au sein de l'incubateur de la DINSIC, une équipe d�
 
 ## Missions
 
-- Tout faire pour garantir le succès des produits : focus, sentiment d'urgence, bonnes métriques, itération rapide, solutions aux goulots d'étranglement, mentalité de croissance… ;
+- Tout faire pour garantir le succès des produits : focus, bonnes métriques, itération rapide, solutions aux goulots d'étranglement, mentalité de croissance… ;
 - Recruter les intrapreneurs publics et les coachs, proposer son aide lors du recrutement des équipes ;
 - Assurer la montée en compétence des équipes : ambiance bienveillante, autonomisation de l’équipe, culture d'amélioration continue, développement de l'efficacité personnelle… ;
 - S’assurer de la bonne gestion administrative des équipes en lien avec le secrétariat général : paiement des intervenants en temps et en heure, services faits, etc. ;
@@ -46,6 +46,6 @@ Poste ouvert à temps plein au sein de l'incubateur DINSIC, sous forme de CDD ou
 
 ## Candidater
 
-Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à florian.delezenne@beta.gouv.fr
+Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à dinsic@beta.gouv.fr
 
 À bientôt !
