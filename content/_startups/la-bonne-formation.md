@@ -7,7 +7,7 @@ status: acceleration
 start: 2015-05-01
 end:
 link: https://labonneformation.pole-emploi.fr
-repository:
+repository: https://git.beta.pole-emploi.fr/open-source/labonneformation
 stats: true
 contact: christophe.bonraisin@pole-emploi.fr
 redirect_from:
