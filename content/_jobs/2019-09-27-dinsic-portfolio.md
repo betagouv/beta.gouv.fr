@@ -16,7 +16,7 @@ Nous souhaitons construire, au sein de l'incubateur de la DINSIC, une équipe d�
 
 ## Missions
 
-- Tout faire pour garantir le succès des produits : focus, bonnes métriques, itération rapide, solutions aux goulots d'étranglement, mentalité de croissance… ;
+- Tout faire pour garantir le succès des produits : se concentrer sur l'impact et les besoins des usagers, bonnes métriques, itération rapide, solutions aux goulots d'étranglement, anticiper le déploiement… ;
 - Recruter les intrapreneurs publics et les coachs, proposer son aide lors du recrutement des équipes ;
 - Assurer la montée en compétence des équipes : ambiance bienveillante, autonomisation de l’équipe, culture d'amélioration continue, développement de l'efficacité personnelle… ;
 - S’assurer de la bonne gestion administrative des équipes en lien avec le secrétariat général : paiement des intervenants en temps et en heure, services faits, etc. ;
