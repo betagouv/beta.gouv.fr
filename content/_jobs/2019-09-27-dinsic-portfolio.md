@@ -12,7 +12,7 @@ L'incubateur de la DINSIC recrute des responsables de portefeuilles pour partici
 
 La communauté beta.gouv.fr à, depuis la création de la première Startup d'État, décidé collectivement que la meilleure manière de mettre en oeuvre une politique publique passe par la constitution d'une équipe autonome. Cette équipe est elle-même constituée de membres issus du public ou du privé qui se donnent pour mission de résoudre les problèmes de ses usagers. Elle pilote son action au jour le jour pour atteindre son objectif. Et enfin, elle répond des ses actes de façon transparente envers ses sponsors et ses usagers.
 
-Nous souhaitons construire, au sein de l'incubateur de la DINSIC, une équipe dédiée à l'accompagnement de ce programme qui respectera ce manifeste. Cette équipe aura pour mission de garantir à toutes les équipes de la communauté, celles de Startup d’État ainsi que celles des incubateurs ministériels qui le souhaitent, les conditions nécessaires à leur réussite, à diffuser cette culture dans de nouvelles administrations et à favoriser la naissance de produit interministériels.
+Nous souhaitons construire, au sein de l'incubateur de la DINSIC, une équipe dédiée à l'accompagnement de ce programme qui respectera ce manifeste. Cette équipe aura pour mission de garantir à toutes les équipes de la communauté, celles de Startup d’État ainsi que celles des incubateurs ministériels qui le souhaitent, les conditions nécessaires à leur réussite, à diffuser cette culture dans de nouvelles administrations et à favoriser la naissance de produits innovants.
 
 ## Missions
 
