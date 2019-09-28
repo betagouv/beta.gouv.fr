@@ -2,7 +2,14 @@
 <header class="navbar">
   <div class="navbar__container">
     <a class="navbar__home" href="{{ "/" | relative_url }}">
-      <img class="navbar__logo" src="{{ '/assets/images/logo-marianne.svg' | relative_url }}"
+      <img class="navbar__logo"
+        src="
+          {% if site.data.header.isMourningDay %}
+            {{ '/assets/images/logo-marianne-deuil.png' | relative_url }}
+          {% else %}
+            {{ '/assets/images/logo-marianne.svg' | relative_url }}
+          {% endif %}
+          "
         alt="{{ site.title }}" /><span class="navbar__domain">{{ site.data.menu.title }}</span><img src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" class="navbar__gouvfr" alt="gouv.fr" />
     </a>
 
