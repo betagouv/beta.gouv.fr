@@ -5,7 +5,7 @@ github: pom421
 link: 'http://pom421.github.io/'
 missions:
   - employer: octo
-    end: '2019-09-30'
+    end: '2019-10-03'
     start: '2019-03-11'
     status: independent
 startups:
