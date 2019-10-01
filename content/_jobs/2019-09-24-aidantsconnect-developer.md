@@ -5,7 +5,7 @@ startup: aidantsconnect
 open: true
 ---
 
-La [Startup d’État Aidants Connect](https://beta.gouv.fr/startups/aidantsconnect.html) recherche un ou une développeur(se) full stack pour accompagner sa phase d'accélération et d'agrégation de ressources.
+La [Startup d’État Aidants Connect](https://beta.gouv.fr/startups/aidantsconnect.html) recherche deux développeur(s) ou développeuse(s) full stack pour accompagner sa phase d'accélération et d'agrégation de ressources.
 
 Aidants Connect a pour objectif de sécuriser les aidants professionnels dans la réalisation de démarches administratives en ligne pour le compte d'usagers ne parvenant pas à les faire seuls. 
 
