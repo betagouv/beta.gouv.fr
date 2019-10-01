@@ -21,11 +21,11 @@ L'adhésion à une coopérative reste le modèle dominant dans la filière grand
 
 Environ un quart des agriculteurs choisissent de faire appel à des structures de conseil indépendantes de la vente de produits (Chambres d'Agriculture, [CIVAM](http://www.civam.org/), [GAB](http://www.fnab.org/un-reseau-des-valeurs-des-hommes/qui-sommes-nous/150-fonctionnement-reseau) ou autres). Ces structures fonctionnent en grande majorité avec un groupe constitué d’agriculteurs. Grâce au groupe, les agriculteurs peuvent rentabiliser les frais d’un conseiller. Des aides financières sont également possibles dans le cadre d’un projet de groupe pour payer tout ou partie de la rémunération du conseiller mis à leur disposition. Ce sont les groupes [DEPHY](https://agriculture.gouv.fr/fermes-dephy), [GIEE](https://agriculture.gouv.fr/les-groupements-dinteret-economique-et-environnemental-giee), [30000](https://agriculture.gouv.fr/ecophyto-objectif-30-000-exploitations-agricoles) et d’autres plus localement.
 
-## Pour les trois quart des agriculteurs, les solutions d’accompagnement indépendant ne conviennent pas
+## Les trois quart des agriculteurs n’intègrent pas les dispositifs d’accompagnement spécifiques à la réduction des produits phytopharmaceutiques
 
-Les dispositifs cités plus haut ne conviennent pas à la grande majorité des exploitants. Pour autant, ces exploitants se renseignent, et internet est une de leur source. L’étude [Agrinautes 2018 réalisée par BVA pour Terre-net Média et Hyltel](http://fichiers.hyltel.fr/PDF/AGRINAUTES_2018.pdf) montre que 85% des agrinautes recherchent sur internet des informations technique sur leurs cultures. Aussi, près de 40% ont installé une application de type “portail agricole” sur leur téléphone.
+La majorité des exploitants ne participent pas aux dispositifs cités plus haut. Pour autant, ces exploitants se renseignent, et internet est une de leur source. L’étude [Agrinautes 2018 réalisée par BVA pour Terre-net Média et Hyltel](http://fichiers.hyltel.fr/PDF/AGRINAUTES_2018.pdf) montre que 85% des agrinautes recherchent sur internet des informations technique sur leurs cultures. Aussi, près de 40% ont installé une application de type “portail agricole” sur leur téléphone.
 
-## Peps apporte un accompagnement spécifique à chaque agriculteur 
+## Peps oriente spécifiquement chaque agriculteur vers des ressources susceptibles de l’intéresser et un relais disponible en région. 
 
 A partir d’un problème rencontré par l’agriculteur, l’outil permet de trouver des pratiques adaptées à la situation de son exploitation et à son objectif plus long terme de production. 
 Les contenus des propositions sont basées sur les ressources existantes dans [EcophytoPic](http://www.ecophytopic.fr/), les pratiques présentes dans fiches action des Certificats d'Économie de Produits Phytopharmaceutiques [CEPP](https://alim.agriculture.gouv.fr/cepp/#/content/ap-fichesaction) ou toute autre ressource pertinente. 
