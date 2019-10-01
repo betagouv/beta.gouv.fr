@@ -8,5 +8,5 @@ missions:
     status: independent 
     employer: octo 
 startups:
-    - aplus # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
+    - aplus
 ---
