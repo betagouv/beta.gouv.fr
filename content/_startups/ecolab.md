@@ -1,6 +1,6 @@
 ---
 title: EcoLab
-mission:  Créons ensemble des applications pour la transition écologique
+mission:  Apporter l'information environnementale au plus près des citoyens
 owner: ADEME
 incubator: dinsic 
 status: construction
