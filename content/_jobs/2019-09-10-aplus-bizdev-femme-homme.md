@@ -1,7 +1,7 @@
 ---
 roles: deux chargées ou chargés de développement
 startup: aplus
-open: true
+open: false
 redirect_from:
   - /recrutement/2019/08/04/aplus-bizdev-femme-homme.html
 ---
