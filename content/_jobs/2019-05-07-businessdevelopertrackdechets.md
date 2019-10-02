@@ -2,7 +2,7 @@
 roles: Une ou un business developer
 title: "beta.gouv recrute : une ou un business developer pour Trackdéchets"
 startup: trackdechets
-open: true
+open: false
 ---
 
 # Trackdéchets recrute une ou un business developer
