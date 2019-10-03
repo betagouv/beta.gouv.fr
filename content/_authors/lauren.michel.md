@@ -7,7 +7,9 @@ missions:
     status: admin
     employer: pole-emploi
 startups:
-    - maintenant
+  - competences-pro
+previously:
+  - maintenant
 ---
 
 Startupeuse curieuse et persévérante !

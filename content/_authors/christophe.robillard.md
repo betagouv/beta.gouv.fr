@@ -14,4 +14,4 @@ previously:
   - mpal
 ---
 
-Binôme d'intrapreneur, musicien et bipodocrate junior
+Développeur, binôme d'intrapreneur, musicien et bipodocrate junior
