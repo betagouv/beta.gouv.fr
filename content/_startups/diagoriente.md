@@ -6,8 +6,8 @@ incubator: dinsic
 status: construction
 start: 2018-06-06
 end:
-link:
-repository:
+link: https://diagoriente.beta.gouv.fr/
+repository: https://github.com/betagouv/diagoriente-front
 stats: false
 contact: pascal.chaumette@id6tm.org
 redirect_from:
