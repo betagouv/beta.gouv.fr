@@ -7,5 +7,7 @@ missions:
     end: '2019-12-31'
     status: independent
 startups:
-    - code-du-travail-numerique
+    - codedutravail
+previously:
+    - gps-usagers
 ---
