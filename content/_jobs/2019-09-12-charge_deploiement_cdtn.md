@@ -2,7 +2,7 @@
 roles: Chargé·e de déploiement
 startup: codedutravail
 junior: true
-open: true
+open: false
 title: Chargé·e de déploiement pour le Code du travail numérique 
 ---
 
