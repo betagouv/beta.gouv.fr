@@ -8,4 +8,6 @@ missions:
     status: independent
 startups:
     - codedutravail
+previously:
+    - gps-usagers
 ---
