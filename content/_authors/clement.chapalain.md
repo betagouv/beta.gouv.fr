@@ -7,7 +7,8 @@ missions:
     end: '2019-12-31'
     status: independent
 startups:
-    - gps-usagers
     - action-bidonvilles
     - codedutravail
+previously:
+    - gps-usagers
 ---
