@@ -5,7 +5,7 @@ link: https://www.linkedin.com/in/kevinandre0/?lipi=urn%3Ali%3Apage%3Ad_flagship
 github: KevinAndre
 missions:
   - start: '2018-04-01'
-    end:
+    end: '2019-09-30'
     status: independent
 startups:
     - zen
