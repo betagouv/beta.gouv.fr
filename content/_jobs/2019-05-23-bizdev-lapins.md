@@ -1,7 +1,7 @@
 ---
 roles: une ou un business developer / chargé(e) d'opérations
 startup: lapins
-open: true
+open: false
 ---
 
 La Startup d’État LAPINS recrute une ou un business developer / chargé(e) d'opérations.
