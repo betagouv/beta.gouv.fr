@@ -8,6 +8,7 @@ techno: Node.js, ElasticSearch, MongoDB
 junior: false
 open: true
 title: Lead dev full stack FranceConnect
+type: 'friend'
 ---
 
 ##FranceConnect recherche son ou sa Lead Dev##
