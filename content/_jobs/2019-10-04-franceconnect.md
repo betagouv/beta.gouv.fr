@@ -1,12 +1,26 @@
+FranceConnectLeadDev.md
+FranceConnectLeadDev
+
 ---
 roles: un Lead développeur ou une Lead développeuse
-startup: FranceConnect
+startup: francefonnect
 techno: Node.js, ElasticSearch, MongoDB
 junior: false
 open: true
 title: Lead dev full stack FranceConnect
 ---
 
+##FranceConnect recherche son ou sa Lead Dev##
+
+### Qui sommes nous ?
+
+La DINSIC est en charge de la transformation numérique de l’État au bénéfice du citoyen comme de l’agent : modernisation du système d’information de l’État, création de services publics innovants pour les citoyens, qualité des démarches en ligne,…
+
+### Le projet ###
+FranceConnect est un dispositif d’identification et d’authentification des particuliers proposé par l’Etat qui facilite l’accès aux services en ligne. FranceConnect permet à l’utilisateur de se connecter à tous les services numériques en s’appuyant sur un seul compte (vérifié parmi six fournisseurs d’identité publics et privés).
+
+
+## Missions
 **Au sein de l’équipe, vous assurerez 3 missions principales:**
 
 ### Référent technique
@@ -29,9 +43,7 @@ title: Lead dev full stack FranceConnect
 - Veiller à l’optimisation des performances et à la sécurité des solutions
 - Préparer les mises en production des différents produits
 
-### Profil recherché
-
-#### Savoirs et expériences :
+## Profil recherché
 
 - Solide culture et expérience de développement de produits numériques
 - Polyvalence sur les technologies web (front-end et back-end)
@@ -43,6 +55,8 @@ title: Lead dev full stack FranceConnect
 - Solide culture de la sécurité des systèmes d’information
 - Compréhension des enjeux et de la réglementation dans le domaine de la protection des données personnelles
 
-## Contact
+## Candidater
 
-[Christine Balian](mailto:christine.balian@modernisation.gouv.fr)
+Envoyez votre LinkedIn, CV ou GitHub à [Christine Balian](mailto:christine.balian@modernisation.gouv.fr)
+
+À bientôt !
