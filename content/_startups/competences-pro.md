@@ -2,8 +2,8 @@
 title: Compétences pro
 mission: Favoriser l’insertion en détectant les compétences transversales et valorisant les potentiels à travers un outil de mise en situation numérique
 
-owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi-  DGEFP
-incubator: dinsic
+owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi - DGEFP
+incubator: DINSIC
 status: construction
 start: 2018-06-06
 end:
@@ -52,4 +52,4 @@ Cibles:
 ## Indicateurs d'impact
 
 - Nombre de personnes intéressées pour bénéficier d'un accompagnement personnalisé à l'issue de l'évaluation
-- Nombre de personnes ayant retrouvé un emploi ou une forùation suite à l'utilisation de l'outil
+- Nombre de personnes ayant retrouvé un emploi ou une formation suite à l'utilisation de l'outil
