@@ -1,7 +1,7 @@
 ---
 roles: deux responsables de portefeuilles
 title: "L'incubateur de la DINSIC recherche : deux responsables de portefeuilles"
-open: true
+open: false
 ---
 
 L'incubateur de la DINSIC recrute des responsables de portefeuilles pour participer à la mise en place d'une équipe dédiée, autonome et pluridisciplinaire qui se donne pour mission de participer à la réussite du programme beta.gouv.fr
