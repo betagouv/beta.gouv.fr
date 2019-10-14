@@ -32,4 +32,5 @@ L’outil proposé peut être utilisé pour tous les types de contrôles de la C
 La mise en place d’un outil dédié permet de simplifier la relation entre un organisme de contrôle et des structures contrôlés afin de leur permettre de se concentrer sur les activités ayant le plus d’impact pour les citoyens.
 
 # La stratégie de mise sur le marché
-L’outil est en cours d'expérimentation.
+L’outil est utilisé à la Cour des comptes depuis janvier 2019.
+Il sera en expérimentation dans une autre administration de contrôle en 2020.
