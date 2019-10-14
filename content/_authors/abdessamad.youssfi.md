@@ -5,7 +5,7 @@ github: Abdessamadyssf
 missions:
   - start: '2019-10-14'
     end: '2020-01-01'
-    status: independant
+    status: independent
 startups:
     - codedutravail
 ---
