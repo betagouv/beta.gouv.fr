@@ -1,12 +1,13 @@
 ---
 fullname: Karel Cloarec
-github: Karel2
 role: Coach
+github: Karel2
 missions:
-  - start: '2019-05-02'
-    end: '2019-11-02'
+  - employer: icc
+    end: '2020-05-02'
+    start: '2019-05-02'
     status: independent
-    employer: icc
 startups:
   - andi
 ---
+
