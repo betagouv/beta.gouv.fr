@@ -5,7 +5,9 @@ techno: Ruby on Rails
 open: true
 ---
 
-L'équipe Lapins recherche un·e développeur·se Ruby on Rails Fullstack. Vous ferez partie de l'équipe produit, participerez à la conception, au développement et au déploiement de l'application. Les retours terrains et les métriques produit donneront du sens à votre travail.
+L'équipe Lapins recherche un·e développeur·se Ruby on Rails. Vous ferez partie de l'équipe produit, participerez à la conception, au développement et au déploiement de l'application.
+
+<!--more-->
 
 ## Lapins
 
