@@ -19,7 +19,7 @@ L'équipe est composée de 6 personnes dont 2 devs. Nous faisons des itérations
 
 ## Où en sommes-nous ?
 
-Nous en sommes au tout début du développement produit. Nous devons livrer une première version de l'application en production début Janvier 2019. Plusieurs fois par semaine, des démos sont réalisées par l'équipe sur le terrain. 
+Nous en sommes au tout début du développement produit. Nous devons livrer une première version de l'application en production début Janvier 2020. Plusieurs fois par semaine, des démos sont réalisées par l'équipe sur le terrain. 
 
 ## Stack
 
