@@ -1,6 +1,6 @@
 ---
 fullname: Sylvain Dermy
-role: Community Manager
+role: Co-responsable du déploiement d'Administration+ sur les Maisons France Service
 missions:
   - start: '2017-02-01'
     end: '2017-02-28'
@@ -13,8 +13,9 @@ missions:
     end: '2021-10-26'
     status: dinsic
 startups:
-    - mes-aides
-    - aplus
+  - aplus
+previously:
+  - mes-aides
 ---
 
 En cas de doute, ajoutez un like.
