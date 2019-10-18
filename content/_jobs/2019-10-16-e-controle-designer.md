@@ -50,6 +50,6 @@ Poste ouvert pour un indépendant ou une indépendante pour un premier contrat d
 
 ### Candidater
 
-Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à recrutement@beta.gouv.fr et aidantsconnect@beta.gouv.fr.
+Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à recrutement@beta.gouv.fr et e-controle@beta.gouv.fr.
 
 À bientôt !
