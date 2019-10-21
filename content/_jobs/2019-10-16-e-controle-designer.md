@@ -46,10 +46,10 @@ Nous comprenons le rôle de l’UX comme une personne qui :
 
 
 ### Modalités
-Poste ouvert pour un indépendant ou une indépendante pour un premier contrat de 3 mois. Une présence régulière à Paris est demandée pour participer aux sessions communes de tests utilisateurs. Le télétravail est possible. Temps partiel accepté (80 % minimum). Démarrage dès que possible.
+Poste ouvert pour un indépendant ou une indépendante pour un premier contrat de 3 mois à temps partiel (3 jours par semaine). Une présence régulière à Paris est demandée pour participer aux sessions communes de tests utilisateurs. Le télétravail est possible. Démarrage à partir de novembre.
 
 ### Candidater
 
-Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à recrutement@beta.gouv.fr et aidantsconnect@beta.gouv.fr.
+Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à recrutement@beta.gouv.fr et e-controle@beta.gouv.fr.
 
 À bientôt !

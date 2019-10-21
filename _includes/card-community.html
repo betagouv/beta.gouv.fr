@@ -54,7 +54,7 @@
             {% capture startup_label %}{{ label }}{% endcapture %}
             {% assign is_previously=author.previously contains startup %}
             {% if is_previously %}
-                {% capture startup_label %}label--active{% endcapture %}
+                {% capture startup_label %}label--inactive{% endcapture %}
             {% endif %}
             {% if forloop.index > 5 %}
               <div class="label label--inactive">Et {{ taille_autres }} autres</div>

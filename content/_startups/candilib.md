@@ -50,3 +50,5 @@ Pour rappel, les candidat·e·s qui peuvent faire partie de l'expérimentation s
 La demande de place d'examen en candidat libre s'effectue auprès du service en charge des examens du permis de conduire de votre lieu de résidence (information et précisions disponibles sur le [site services-public.fr](https://www.service-public.fr/particuliers/vosdroits/F2825)). Toute demande en dehors de ce circuit ne peut pas être prise en compte.
 
 **Les personnes inscrites par ce circuit seront informées par mail de l'ouverture de candilib dans leur département.**
+
+Si vous n'avez pas trouvé de réponse à vos questions dans ces informations, vous pouvez nous contacter à cette adresse [candilib@interieur.gouv.fr](mailto:candilib@interieur.gouv.fr?subject=question_betaGouv).
