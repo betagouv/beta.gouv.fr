@@ -4,7 +4,7 @@ roles: une développeuse ou un développeur
 title: "L’équipe de data.gouv.fr recrute une développeuse ou un développeur"
 type: 'friend'
 externalURL: 'https://www.data.gouv.fr/fr/posts/lequipe-de-data-gouv-fr-recrute-une-developpeuse-ou-un-developpeur/'
-open: true
+open: false
 ---
 
 Nous cherchons une personne intéressée par les données ouvertes, l’open source, Python et JavaScript, dans le but de nous aider à améliorer [data.gouv.fr](https://www.data.gouv.fr/fr/), la plateforme de référence en matière d’ouverture des données publiques.
