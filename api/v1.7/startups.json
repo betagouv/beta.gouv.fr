@@ -14,10 +14,10 @@ layout: null
             { "name"  : "{{ startup.title }}"
             , "pitch" : "{{ startup.mission }}"
             , "start": "{{ startup.start}}"
-            , "status": "{{ startup.status}}"
-            {% if startup.stats %}, "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}
-            {% if startup.link %}, "link": "{{ startup.link}}"{% endif %}
-            {% if startup.repository %}, "repository": "{{ startup.repository}}"{% endif %}
+            , "status": "{{ startup.status}}"{% if startup.stats %}
+            , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}{% if startup.link %}
+            , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
+            , "repository": "{{ startup.repository}}"{% endif %}
             }
         , "relationships":
             { "incubator":
