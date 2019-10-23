@@ -1,0 +1,40 @@
+---
+layout: null
+---
+
+{ "links":
+    { "self": "{{ site.url }}/preincubation" }
+, "data":
+    [
+    {% assign seedlings = site.seedlings %}
+    {% for seedling in seedlings %}
+        { "id"        : "{{ seedling.id | remove: '/seedlings/' }}"
+        , "type"      : "seedling"
+        , "attributes":
+            { "name"  : "{{ seedling.title }}"
+            , "owner" : "{{ seedling.owner }}"
+            }
+        , "relationships":
+            { "season":
+                { "data": { "type": "season", "id": "{{ seedling.season}}" }
+                }
+            }
+        }
+        {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ]
+, "included":
+    [
+    {% for season in site.seasons %}
+        { "id"        : "{{ season.id | remove:'/preincubation/promotion/' }}"
+        , "type"      : "season"
+        , "attributes":
+            { "title"  : "{{ season.title }}"
+            , "start" : "{{ season.start }}"
+            }
+        }
+        {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ]
+
+}
