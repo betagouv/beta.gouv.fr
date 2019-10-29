@@ -1,6 +1,6 @@
 ---
 title: L'Incubateur d'API de la DINSIC
-owner: DINSIC_API
+owner: DINSIC
 website: https://api.gouv.fr/
 github: https://github.com/betagouv/api.gouv.fr
 contact: https://api.gouv.fr/contact
