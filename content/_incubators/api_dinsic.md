@@ -7,7 +7,7 @@ contact: https://api.gouv.fr/contact
 address: 20 avenue de Ségur, Paris 7e
 ---
 
-L'incubateur d'API de la DINSIC: 
+L'incubateur des API: 
 * rassemble les APIs de la DINSIC
 * valorise les APIs des administrations
 * simplifie les démarches en ligne à travers la circulation des données
