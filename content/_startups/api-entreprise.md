@@ -2,7 +2,7 @@
 title: API Entreprise
 mission: Récupérer les données des entreprises
 owner: DINSIC
-incubator: dinsic
+incubator: api_dinsic
 status: consolidation
 start: 2014-01-01
 end:
