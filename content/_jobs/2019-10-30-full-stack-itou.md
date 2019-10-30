@@ -13,7 +13,7 @@ L'équipe Itou recherche un·e développeur·se Django-Python. Vous ferez partie
 
 Chaque année, des centaines de milliers de personnes éloignées de l'emploi sont recrutées par des structures de l'Insertion par l'Activité Économique (IAE): chantiers d'insertion, entreprises d'insertion, associations, etc.
 
-[inclusion.beta.gouv.fr](https://inclusion.beta.gouv.fr/) a pour mission de faciliter l'embauche de ces personnes, en levant les freins qui limitent aujourd'hui l'action de l'IAE : accès aux profils éligibles (« sourcing »), délais de recrutement, lourdeur administrative, etc.
+[inclusion.beta.gouv.fr](https://inclusion.beta.gouv.fr/) a pour mission de faciliter l'embauche de ces personnes, en levant les freins qui limitent aujourd'hui l'action de l'IAE : accès aux profils éligibles (« sourcing »), délais de recrutement, lourdeur administrative.
 
 Nos utilisateurs sont :
 - Les personnes en grande difficulté dans leur recherche d'emploi qui peuvent identifier des employeurs solidaires près de chez eux
