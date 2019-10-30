@@ -11,6 +11,7 @@ missions:
     status: independent
 startups:
     - mon-entreprise
+    - lotocar
 ---
 
 Tombé par hasard dans un mélange des droits du travail, de la sécurité sociale et des impôts.
