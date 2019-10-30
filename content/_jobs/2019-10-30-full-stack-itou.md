@@ -27,11 +27,16 @@ Nous avons lancé inclusion.beta.gouv.fr en octobre et sommes encore en phase de
 
 ## Stack 
 
-- Technos : Rails 6, RSpec, PG, Stimulus, un petit peu de jQuery
-- Ops : AWS
-- Tooling : GitHub, HerokuCI
+- Technos back : Django, Python 3.7, PostgreSQL 11 (avec PostGIS)
+- Technos front : Bootstrap 4, jQuery (Vue.js est envisagé en cas de gros besoins clients)
+- Ops : Docker, Docker Compose, VPS OVH
+- Tooling : GitHub
+- Bonnes pratiques :
+    - nous testons notre code
+    - nous faisons des reviews systématiques
+    - nous déployons souvent et par petits lots
+    - [`black`](https://github.com/psf/black) et [`pylint`](https://www.pylint.org) sont nos amis
 - Code ouvert et libre : [https://github.com/betagouv/itou](https://github.com/betagouv/itou)
-- Bonnes pratiques : nous testons notre code, nous faisons des reviews systématiques, nous déployons souvent et par petits lots
 
 ## Rôle
 
