@@ -47,6 +47,17 @@ Nous avons lancé inclusion.beta.gouv.fr en octobre et sommes encore en phase de
 - Participer activement à la vie de l’équipe (stand up quotidien de 20 min en visio-conférence, open labs deux à 3 fois par mois avec des utilisateurs, rétrospectives).
 - Être force de proposition au sein de l’équipe sur les évolutions possibles du produit.
 
+## Environnement de travail
+Vous travaillerez au sein d’une équipe composée de : 2 intrapreneurs, 3 développeurs, 1 designer UX/UI, 2 _business developers_ et 1 coach.
+
+L’équipe est dispersée à travers la France, et travaille principalement à distance (standup quotidien en visioconférence).
+
+- Charge : 4/5e
+- Durée : 6 mois renouvelables
+- Début souhaité : janvier 
+- Contrat : Freelance
+
+
 ## Postuler
 
 Pour postuler, [contactez-nous par email](mailto:contact@inclusion.beta.gouv.fr).
