@@ -25,7 +25,7 @@ L'équipe est composée de 6 personnes dont 2 devs. Nous faisons des itérations
 
 Nous avons lancé inclusion.beta.gouv.fr en octobre et sommes encore en phase de construction du produit qui devra résoudre une à une les douleurs de l'IAE (candidature, diagnostic d'éligibilité, suivi du candidat, etc.).
 
-## Stack
+## Stack 
 
 - Technos : Rails 6, RSpec, PG, Stimulus, un petit peu de jQuery
 - Ops : AWS
