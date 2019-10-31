@@ -1,7 +1,7 @@
 ---
 title: A Dock
-mission: Simplifier la relation transporteur-chargeur
-owner: Ministère de la Transition écologique et solidaire 
+mission: Le service facilitant les relations entre acteurs du transport routier de marchandises 
+owner: Ministère de la Transition écologique et solidaire / DGITM
 incubator: mtes
 status: acceleration
 start: 2018-01-08
@@ -9,31 +9,52 @@ end:
 link: https://adock.beta.gouv.fr
 repository: https://github.com/MTES-MCT/adock-api
 stats: true
-contact: alexandre.dupont@beta.gouv.fr
+contact: contact@adock.beta.gouv.fr
 ---
 
-## Le contexte
+## Le problème : le contexte complexe du transport routier de marchandises
 
-Le transport de marchandises, bien que très organisé et très réglementé, souffre d'une très forte concurrence, notamment de l'Est de l'Europe, et d'une optimisation perfectible, 20% des transports se faisant à vide.
-Par ailleurs, les relations contractuelles entre chargeurs et transporteurs restent très traditionnelles et, même s'il existe des commissionnaires qui organisent la massification des transports, la transformation numérique du secteur n'est pas encore faite et le secteur souffre d’un manque de souplesse et de réactivité. Ce handicap fait les choux gras des Véhicules Utilitaires Légers (VUL) des pays de l'Est hors de toute réglementation sociale et commerciale.
-Dans ces conditions, le risque de déréglementation est fort et on peut craindre l’émergence d'un acteur numérique susceptible de truster les échanges commerciaux du secteur, sans encadrement légal veillant à la bonne santé du marché.
+Le transport routier de marchandises est un secteur aux acteurs très hétérogènes (près de la moitié sont des TPE-PME), impacté par une concurrence européenne forte et parfois déloyale, challengé par l'essor des Véhicules Utilitaires Légers (VUL) et de nouveaux acteurs issus du numérique. Ces complexités viennent mettre à mal le tissu économique de cette profession réglementée et implantée sur l’ensemble du territoire, et présentent des risques forts de dérèglementation du secteur.
+Le rôle de l'Etat est de garantir une saine concurrence entre entreprises, mais également, à l’ère du numérique, de faciliter leur gestion administrative en effectuant une transformation numérique de ses services.
+A ce titre, il manquait une plateforme publique, dédiée au secteur, un guichet unique, présentant un accès gratuit mais sécurisé aux données professionnelles des quelques 50 000 établissements de transport de France, leur assurant ainsi visibilité et crédibilité, et permettant de réaliser les procédures administratives liées à leur activité de façon simple et dématérialisée.
 
-## L'apport de A Dock
+## La solution : A Dock, la plateforme numérique garantissant l'accès aux données professsionnelles essentielles et aux démarches administratives du transport routier de marchandises 
 
-A Dock a vocation à lutter contre ces trajets à vide et à élargir le panel d’offres de transport aux acteurs économiques, en leur garantissant un accès à des données fiabilisées, parce que portées par l’Etat. A Dock visera également la simplification des échanges administratifs et commerciaux entre chargeurs et transporteurs, en dématérialisant et accélérant les procédures nécessaires.
-A Dock prendra la forme d’un répertoire de données sur les sociétés inscrites au registre national des transporteurs. Les données présentes seront celles strictement nécessaires aux échanges administratifs et commerciaux entre transporteurs, chargeurs, et commissionnaires, données ainsi préservées de toute privatisation, sans nuire à leur exploitation pour proposer des services aux acteurs du secteur (applications exploitant les données). A noter qu’A Dock n‘interviendra pas sur les aspects contractuels et commerciaux.
+Depuis Janvier 2018, nous développons le service numérique A Dock, sponsorisés par la Direction Générale des Infrastructures, des Transports et de la Mer (DGITM), et avec l'appui de la Fabrique Numérique, incubateur du MTES. 
+Il s'agit d'une plateforme qui : 
 
-Ainsi, les bénéfices pour les transporteurs sont :
-- une meilleure visibilité et accessibilité de leur offre auprès des chargeurs ;
-- le libre accès à un large panel de demandes de transport des chargeurs offrira aux transporteurs et aux commissionnaires la possibilité d’optimiser leurs trajets et leurs coûts.
+- Garanti de la visibilité en ligne à l’ensemble des quelques 50 000 établissements de transport de marchandises par route, grâce à une fiche entreprise consolidant leurs données commerciales et professionnelles 
 
-Pour les chargeurs, les bénéfices sont  :
-- un accès élargi à l’offre de transport ;
-- la possibilité de contacter un transporteur facilement et de générer certaines formalités administratives (comme la lettre de voiture par exemple) ;
-- la garantie de la fiabilité et de la traçabilité des données fournies pour concrétiser leurs échanges commerciaux.
+- Garanti un accès gratuit à ces données professionnelles aux acteurs du transport de marchandises par route, grâce à un moteur de recherche multicritère 
 
-## 1re étape
+- Garanti un accès simple et dématérialisé aux démarches administratives essentielles du transport de marchandises par route, accessibles au travers d’un compte transporteur sécurisé.
 
-Le territoire breton est propice au lancement de A Dock : 80% des échanges sont intra régionaux ; le monde économique breton est facilement mobilisable sur des sujets fédérateurs ; les politiques locaux agissent beaucoup pour valoriser le secteur et seront des appuis de choix pour convaincre de l'intérêt du produit.
-Les premières étapes seront, avec les fédérations de professionnels du secteur des transports, et les acteurs économiques, de déterminer un premier panel restreint (2 ou 3 transporteurs, et 2 ou 3 chargeurs) qui nous permettra de constituer une cartographie des besoins puis le répertoire initial et ses contenus, de le tester et de l’optimiser.
-Ensuite, la première version du produit, à l’issue du cycle de travail de 6 mois, sera un répertoire complet de contacts des transporteurs et de leurs informations logistiques, utiles aux chargeurs. Le premier objectif sera que les transporteurs et chargeurs « testeurs » utilisent ce répertoire pour leurs transactions commerciales et leurs échanges administratifs.
+Nous développons A Dock en collaboration avec nos utilisateurs cibles (transporteurs routiers, chargeurs, commissionnaires), ainsi que leurs fédérations professionnelles. 
+A noter : A Dock n‘a pas vocation à intervenir sur les aspects contractuels et commerciaux.
+
+
+## Etape 1 : l'expérimentation en Bretagne
+
+L’intrapreneur étant chef du service Transports de la DREAL Bretagne, cette région a naturellement été choisie comme territoire d’expérimentation et de déploiement initial, présentant un panel de 3500 entreprises. 
+Depuis la mise en ligne de la plateforme en Mai 2018, nous avons pu mesurer les impacts suivants : 
+- le nombre de fiches transporteurs mises à jour par les transporteurs : 730
+- le nombre de fiches consultées : 8000 recherches / 200 000 fiches consultées
+- le nombre de documents générés et téléchargés : 19 générés / + 3000 téléchargés 
+
+De plus, nous expérimentons depuis mi-Septembre 2019, la réalisation d’une procédure administrative 100% dématérialisée (le renouvellement des licences de transport habituellement faite via CERFA). Le panel sollicité et éligible pour cette expérimentation est de 100 entreprises. Nous mesurons à M+2 les impacts suivants : 
+- 31 entreprises ont réalisé la procédure administrative via A Dock 
+- un gain de temps de 55 minutes pour la réalisation de la procédure par les transporteurs (5 minutes versus 60 minutes pour remplir le CERFA + pièces justificatives)
+- un délai d’instruction de réduit de 30%, plus d’agilité dans l’organisation du suivi et le traitement des demandes. 
+
+
+## Etape 2 : le déploiement national 
+
+Notre ambition est que A Dock devienne la plateforme publique dédiée au transport routier de marchandises, point d'entrée unique vers les données essentielles et démarches administratives liées au secteur. A ce titre, le projet A Dock s'inscrit dans la lignée du principe public "Dites-le nous une fois" et répond aux enjeux soulignés par la stratégie TECH.GOUV de la DINUM.
+
+Cette ambition sera mise en oeuvre sur trois axes :  
+
+- le déploiement national de A Dock et de l'ensemble de ses fonctionnalités, grâce à l'appui régional des DREAL et des fédérations professionnelles 
+
+- l'enrichissement des fiches entreprises en nouvelles données pertinentes, en formant des partenariats avec des acteurs publics ou privés (ex kbis, ADEME, Urssaf, assurances ...)
+
+- la dématérialisation de nouvelles procédures administratives (ex. inscription au registre des transports), en formant des partenariats avec les administrations compétentes. 
