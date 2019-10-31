@@ -6,7 +6,7 @@ type: 'friend'
 open: true
 ---
 
-[OpenFisca](https://fr.openfisca.org) cherche un·e dév intéressé·e par la collaboration et l'entraide.
+[OpenFisca](https://fr.openfisca.org), lauréat du [Share&Reuse Awards](https://ec.europa.eu/isa2/news/winners-sharing-reuse-awards-2019-made-public_en), cherche un·e dév intéressé·e par la collaboration et l'entraide.
 
 Souhaitez-vous aider des gouvernements et la société civile à construire des services innovants, qui aident les citoyens à mieux comprendre le système socio-fiscal ?
 
