@@ -1,15 +1,15 @@
 ---
 title: Trait d'Union
-mission: Mettre en relation des demandeurs d'emploi et des entreprises de la région Grand Est autour d'un projet de formation
+mission: Permettre aux demandeurs d'emploi d'essayer des métiers qui recrutent et forment à côté de chez eux
 owner: Région Grand Est
 incubator: dinsic
 status: construction
 start: 2019-01-01
 end:
-link: https://candidat.traitdunion.beta.gouv.fr?utm_source=SiteBeta
+link: https://l.traitdunion.beta.gouv.fr/candidats?utm_source=SiteBeta
 repository: https://github.com/betagouv/trait-d-union
 stats: false
-contact: edwina.morize@beta.gouv.fr
+contact: contact@traitdunion.beta.gouv.fr
 ---
 
 ## Un constat, plusieurs problèmes
@@ -21,20 +21,28 @@ Après une étude de terrain auprès des demandeurs d’emploi, des entreprises 
 
 ## La solution
 
-Faire rencontrer demandeurs d’emploi et entreprises avant une formation et une prise de poste : commencer par le choix d’une offre d’emploi plutôt que par le choix d’une formation.
-Proposer aux demandeurs d’emploi de commencer par candidater à une offre d’emploi à côté de chez lui, puis, s’il convient à l’entreprise, de partir en formation qualifiante pour être opérationnel sur le poste.
-La formation devient un moyen pour accéder à un emploi et non une finalité.
-Le site de Trait d’union propose aujourd’hui la liste des offres d’emploi disponibles autour de Metz qui sont en lien avec au moins une formation financée par la Région Grand Est. 
+### Organiser une immersion professionnelle en entreprise avant une formation.
+
+**Pour les demandeurs d’emploi** : connaître et tester un métier avant une entrée en formation auprès d’entreprises proches de chez lui.
+
+**Pour les entreprises** : se créer un carnet d’adresse de personnes à former et faire découvrir son secteur d’activité.
+
+Le site de Trait d'union propose aujourd’hui des offres d’immersion dans des entreprises de Metz et de Nancy. Pour chacun de ces métiers présentés en immersion, au moins une formation financée par la Région Grand Est existe.
 
 ## Les bénéfices
 
-Pour le demandeur d’emploi : il a accès à une liste inédite d’offres d’emploi qualifiées à côté de chez lui, il n’a pas de recherche de stage et de travail à faire après la formation, il découvre l’environnement de l’entreprise et il a un engagement d’embauche.
-Pour l’entreprise : elle rencontre un candidat motivé car prêt à se former, il habite à côté et sera opérationnel de suite après la formation.
-Pour l’organisme de formation : des stagiaires motivés, qui ont déjà une entreprise pour leur stage, un meilleur taux de réussite.
+**Pour le demandeur d’emploi** :
+
+il teste sans risque des métiers à côté de chez lui dans des secteurs qui recrutent (également proches de chez lui), il découvre l’environnement de l’entreprise, il peut ensuite accéder à une formation financée avec un diplôme à la clé, il prend un premier contact avec une entreprise en vue d’une recherche de stage (pendant la formation) ou d’emploi (après la formation)
+
+**Pour l’entreprise** : elle rencontre des candidats motivés car prêt à découvrir leur métier, elle donne une meilleur image de sa profession, elle peut se créer un carnet d’adresse pour ces prochains recrutements, elle anticipe les rencontres en vue d’un flux d’activité.
+
+**Pour l’organisme de formation** : des stagiaires motivés, qui ont déjà un contact avec une entreprise pour leur stage et un meilleur taux de réussite.
 
 ## La suite
 
-Afin de continuer les tests sur cette solution :
-- Tester une autre interface
-- Déployer sur d’autres bassins d’emploi
-- En parallèle, la construction d’un partenariat avec différentes parties prenantes
+- Nous allons proposer une automatisation du processus actuellement encore « fait main ».
+- Un déploiement de la solution sur toute la Région Grand Est. Avec une géolocalisation des métiers et de l’offre de formations financées.
+- Un espace de mise en ligne d’offres d’immersion pour les entreprises.
+- Une gestion de compte pour les demandeurs d’emploi.
+- Un partenariat avec Pôle emploi
