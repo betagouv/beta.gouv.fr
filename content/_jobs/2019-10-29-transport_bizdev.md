@@ -12,7 +12,7 @@ Nous cherchons une personne intéressée par l’ouverture des données et le mo
 
 Pour atteindre cet objectif, nous souhaiterions trouver quelqu’un pour endosser dès décembre 2019 le rôle de responsable de l’ouverture des données transport, en prestataire (statut micro-entrepreneur, entreprise individuelle, SARL, CAE...) à un rythme de 3 à 5 jours par semaine de décembre 2019 à fin août 2020. 
 
-La nouvelle recrue rejoindra l’équipe chargée de construire le Point d’Accès National transport.data.gouv.fr selon les méthodes des Startups d’État. Sa mission ? Accélérer l’ouverture des données transport en incitant l’ensemble des acteurs à se lancer dans l’aventure : opérateurs de freefloating, de vélos libre-service, de bus, de trams, gestionnaires d'infrastructure routières, acteurs du stationnement, etc.
+La nouvelle recrue rejoindra l’équipe chargée de construire le Point d’Accès National transport.data.gouv.fr selon les méthodes des Startups d’État. Sa mission ? Accélérer l’ouverture des données transport en incitant l’ensemble des acteurs à se lancer dans l’aventure : gestionnaires d'infrastructure routières, acteurs du stationnement, opérateurs de bus, de trams, de freefloating, de vélos libre-service,  etc.
 
 ## A propos de nous
 
