@@ -1,13 +1,13 @@
 ---
 fullname: Pierre-Louis Rolle
 role: Intrapreneur
-link: https://www.societenumerique.gouv.fr
 github: PLrolle
+link: 'https://www.societenumerique.gouv.fr'
 missions:
-  - start: '2019-03-13'
-    end: '2019-11-13'
+  - employer: Mission Société Numérique
+    end: '2022-10-31'
+    start: '2019-03-13'
     status: admin
-    employer: SoNum
 startups:
   - aidantsconnect
 ---

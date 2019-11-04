@@ -2,7 +2,7 @@
 roles: une ou un designer en charge de la recherche utilisateurs
 title: "beta.gouv recrute : une ou un designer pour e.contrôle"
 startup: e-contrôle
-open: true
+open: false
 ---
 
 e.contrôle a pour objectif de simplifier les échanges de documents entre un organisme de contrôle et les organisations contrôlées.

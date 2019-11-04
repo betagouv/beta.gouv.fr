@@ -3,7 +3,7 @@ title : Plateforme EAC
 mission: Augmenter le nombre d'actions artistiques et culturelles pour les jeunes dans les établissements scolaires
 owner: Ministère de la Culture
 incubator: dinsic
-status: construction
+status: death
 start: 2018-04-01
 end:
 link: https://education-artistique-culturelle.fr
