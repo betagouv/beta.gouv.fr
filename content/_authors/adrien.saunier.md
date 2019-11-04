@@ -3,7 +3,7 @@ fullname: Adrien Saunier
 role: Développeur
 missions:
   - start: '2017-04-01'
-    end: '2019-08-31'
+    end: '2020-03-28'
     status: service
     employer: octo
 startups:
