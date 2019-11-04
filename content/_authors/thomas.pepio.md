@@ -1,10 +1,11 @@
 ---
 fullname: Thomas Pepio
 role: DevOps
-avatar: https://avatars1.githubusercontent.com/u/6214327?v=3&u=850d498eb3c255c6ea3bdc630db7ea93628fcee6&s=400
-start: 2017-07-11
-end: 2017-10-30
-employer: service/octo
+missions:
+  - start: '2017-07-11'
+    end: '2017-10-30'
+    status: service
+    employer: octo
 github: thomaspepio
 startups:
 previously:

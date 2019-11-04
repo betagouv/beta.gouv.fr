@@ -1,7 +1,10 @@
 ---
 roles: un·e dev web full stack
-open: true
-techno:  Python / Django / PostgreSQL
+open: false
+techno:
+  - Python
+  - Django
+  - PostgreSQL
 startup: mrs
 ---
 

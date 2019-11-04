@@ -1,8 +1,11 @@
 ---
 fullname: Pierre de Maulmont
 role: Intrapreneur
-employer: admin/education-nationale
-start: 2015-09-01
+missions:
+  - start: '2015-09-01'
+    end:
+    status: admin
+    employer: education-nationale
 startups:
     - open-academie
     - dossiersco

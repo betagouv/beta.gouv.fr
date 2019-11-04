@@ -6,7 +6,7 @@ incubator: dinsic
 status: construction
 start: 2017-09-01
 end:
-link: https://dossiersco.beta.gouv.fr
+link: https://dossiersco.fr
 repository: https://github.com/betagouv/dossiersco
 stats: true
 contact: pierre.de-maulmont@ac-paris.fr

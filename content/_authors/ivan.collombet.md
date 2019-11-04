@@ -1,20 +1,26 @@
 ---
 fullname: Ivan Collombet
 role: Mentor
-start: 2017-01-01
-end: 2019-06-30
-employer: independent/icc
-startups:
-  - demarches-simplifiees.fr
-  - reso
+missions:
+  - start: '2017-01-01'
+    end: '2019-07-31'
+    status: independent
+    employer: icc
+previously:
+  - place-des-entreprises
   - signaux-faibles
   - competences-pro
-  - trouve-ta-voie
+  - diagoriente
   - signalement
   - lapins
-previously:
+  - monstage
+  - trait-d-union
+  - gps-usagers
+  - peps
+  - aplus
   - api-drones
+  - demarches-simplifiees.fr
+  - reuni
 
 ---
 
-Expérimente le marketing GtoG

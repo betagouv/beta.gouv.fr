@@ -1,8 +1,11 @@
 ---
 fullname: Benjamin Marteau
 role: Responsable de produit
-start: 2016-06-01
-employer: admin/education-nationale
+missions:
+  - start: '2016-06-01'
+    end:
+    status: admin
+    employer: education-nationale
 startups:
     - pix
 ---

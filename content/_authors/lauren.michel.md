@@ -1,10 +1,15 @@
 ---
 fullname: Lauren Michel
-role: Intrapreneuse
-start: 2016-04-01
-employer: admin/pole-emploi
+role: Chargée de déploiement
+missions:
+  - start: '2016-04-01'
+    end:
+    status: admin
+    employer:
 startups:
-    - maintenant
+  - competences-pro
+previously:
+  - maintenant
 ---
 
 Startupeuse curieuse et persévérante !

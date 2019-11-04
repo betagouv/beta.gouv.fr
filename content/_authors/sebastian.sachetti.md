@@ -1,9 +1,10 @@
 ---
 fullname: Sebastian Sachetti
 role: Chargé de développement
-start: 2017-04-10
-end: 2018-06-01
-employer: dinsic
+missions:
+  - start: '2017-04-10'
+    end: '2018-06-01'
+    status: dinsic
 startups:
 previously:
   - mrs
@@ -12,7 +13,6 @@ previously:
   - demarches-simplifiees.fr
   - aplus
   - api-particulier
-  - franceconnect-agent
 ---
 
 Interface Humaine à la recherche de connections pour développer les services publics numériques de demain

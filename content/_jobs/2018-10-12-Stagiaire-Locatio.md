@@ -1,7 +1,7 @@
 ---
 roles: Chargé.e de développement (Stage)
 startup: locatio
-open: true
+open: false
 ---
 
 **La Startup d’Etat Locatio recherche un.e business developeur pour aider l'intrapreneur dans la prise d'ampleur du service !**

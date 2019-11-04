@@ -38,7 +38,7 @@ new Chart(document.querySelector('canvas'), {
             pointRadius: 0
         }, {
             data: datasets.independent.past,
-            label: 'Indépendant·e·s ', // trailing space to ensure legend complies with French typography rules
+            label: 'Indépendantes et indépendants ', // trailing space to ensure legend complies with French typography rules
             backgroundColor: '#C5A2EA',
             steppedLine: true,
             pointRadius: 0

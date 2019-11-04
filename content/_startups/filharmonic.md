@@ -2,11 +2,10 @@
 title: Fil'harmonic
 mission: Faciliter le travail administratif autour des contrôles ICPE
 owner: Ministère de la Transition Ecologique et Solidaire
-status: construction
+status: death
 start: 2018-01-08
 end:
-link:
-repository:
+repository: https://github.com/MTES-MCT/filharmonic
 incubator: mtes
 stats: false
 contact: romain.campillo@developpement-durable.gouv.fr
@@ -45,3 +44,8 @@ La communauté des inspecteurs est en demande d’outils modernes, qui leur perm
 Les industriels souhaitent se servir des conclusions de l’inspection comme point de départ à des actions d’amélioration continue à inscrire dans leur démarche qualité. Ils attendent de l’État une action efficace et lisible, garantie nécessaire à la poursuite de leur activité économique.
 
 Le déploiement se basera sur des inspecteurs et des industriels pilotes qui pourront ensuite servir d’ambassadeurs du produit.
+
+## Abandon
+Après six mois d'incubation au sein de la Fabrique numérique du MTES, les retours des utilisateurs du produit (certains inspecteurs des installations classées (ICPE) en région Auvergne-Rhône-Alpes et Bourgogne-Franche-Comté et quelques exploitants d'ICPE) ont convaincu la DGPR d'inclure le projet Fil'harmonic et ses fonctionnalités dans la première version du Guichet Unique Numérique (GUN-S3IC), application nationale en cours de développement et à destination de l'ensemble des inspecteurs.
+
+Les grands principes du produit, associés aux pistes d'amélioration issues de l'utilisation sur le terrain, ont été inclus dans un guide des bonnes pratiques diffusé à l'ensemble des inspecteurs ICPE.

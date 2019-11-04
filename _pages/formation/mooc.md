@@ -8,8 +8,8 @@ additional_css:
 
 ## Découvrez comment créer des services publics innovants
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkiku" allowfullscreen></iframe>
   </div>
 </div>

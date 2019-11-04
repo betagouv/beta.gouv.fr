@@ -1,9 +1,11 @@
 ---
 fullname: Vermeer Grange
 role: Développeur / data scientist
-start: 2016-10-24
-employer: independent/ey
-avatar: /img/authors/vermeer.grange.jpg
+missions:
+  - start: '2016-10-24'
+    end:
+    status: independent
+    employer: ey
 startups:
     - la-bonne-boite
 ---

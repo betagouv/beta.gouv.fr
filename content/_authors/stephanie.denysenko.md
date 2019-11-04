@@ -1,9 +1,11 @@
 ---
 fullname: Stéphanie Denysenko
 role: Chargée de développement
-start: 2018-04-12
-end: 2019-12-31
-employer: admin/direccte
+missions:
+  - start: '2018-04-12'
+    end: '2019-12-31'
+    status: admin
+    employer: direccte
 startups:
-    - reso
+    - place-des-entreprises
 ---

@@ -1,8 +1,11 @@
 ---
 fullname: Julien Racine
 role: Développeur full-stack
-start: 2016-10-01
-employer: admin/pole-emploi
+missions:
+  - start: '2016-10-01'
+    end:
+    status: admin
+    employer: pole-emploi
 avatar: /img/authors/julien.racine.jpg
 startups:
     - memo

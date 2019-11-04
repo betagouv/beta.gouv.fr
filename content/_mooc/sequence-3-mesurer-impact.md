@@ -6,8 +6,8 @@ order: 3
 
 ## La mesure d'impact d'une Startup d'État
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkh2i" allowfullscreen></iframe>
   </div>
   <p>Ismaël Héry - Coach beta.gouv.fr</p>
@@ -16,8 +16,8 @@ order: 3
 
 ## Trois exemples pour mesurer son impact
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkgu3" allowfullscreen></iframe>
   </div>
   <p>Ismaël Héry - Coach beta.gouv.fr</p>
@@ -26,8 +26,8 @@ order: 3
 
 ## L'impact de Maintenant! une Startup d'État Pôle Emploi
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkgn9" allowfullscreen></iframe>
   </div>
   <p>Lauren Michel - Intrapreneuse beta.gouv.fr</p>

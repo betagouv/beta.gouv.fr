@@ -2,47 +2,38 @@
 layout: default
 ---
 
-{% comment %}additional_css : side-panel.css{% endcomment %}
-
-{% assign lang = page.lang | default: site.lang | default: "en" %}
+{% comment %}additional_css : side-panel.css{% endcomment %} {% assign lang =
+page.lang | default: site.lang | default: "en" %}
 
 <div class="page article">
   {% include hero-incubator.html title=page.title owner=page.owner %}
 </div>
 
-<section class="documentation">
-  {% include sidebar-incubateurs.html %}
-  <div class="main-pane">
-    <div class="markdown">
-      {{ content }}
-    </div>
-    <div class="text-quote">
-      <ul>
-        <li>
-          Adresse : {{ page.address }}
-        </li>
-        {% if page.website %}
-          <li>
-            <a href="{{ page.website }}">Site web</a>
-          </li>
-        {% endif %}
-        {% if page.github %}
-          <li>
-            <a href="{{ page.github }}">Compte GitHub</a>
-          </li>
-        {% endif %}
-        <li>
-          <a href="{{ page.contact }}">Contacter cet incubateur</a>
-        </li>
-      </ul>
-    </div>
-    <h3> Nos Startups d’État et de territoires</h3>
-    {% assign incubator_id = page.id | remove: "/incubateurs/" %}
-    {% assign startups = site.startups | where:"incubator", incubator_id %}
-    <div class="grid">
-      {% for startup in startups %}
-        {% include card-startup.html startup = startup %}
-      {% endfor %}
+<section class="section section-white" style="padding-top: 0;">
+  <div class="container">
+    <div class="documentation">
+      {% include sidebar-incubateurs.html %}
+      <div class="main-pane">
+        <div class="markdown">{{ content }}</div>
+        <div class="text-quote">
+          <ul>
+            <li>Adresse : {{ page.address }}</li>
+            {% if page.website %}
+            <li><a href="{{ page.website }}">Site web</a></li>
+            {% endif %} {% if page.github %}
+            <li><a href="{{ page.github }}">Compte GitHub</a></li>
+            {% endif %}
+            <li><a href="{{ page.contact }}">Contacter cet incubateur</a></li>
+          </ul>
+        </div>
+        <h3>Nos Startups d’État et de territoires</h3>
+        {% assign incubator_id = page.id | remove: "/incubateurs/" %} {% assign
+        startups = site.startups | where:"incubator", incubator_id %}
+        <div class="grid">
+          {% for startup in startups %} {% include card-startup.html startup =
+          startup %} {% endfor %}
+        </div>
+      </div>
     </div>
   </div>
 </section>

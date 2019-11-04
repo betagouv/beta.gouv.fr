@@ -6,8 +6,8 @@ order: 5
 
 ## Faire de l’industriel en milieu artisanal
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkfqf" allowfullscreen></iframe>
   </div>
   <p>Julien Dauphant - Développeur beta.gouv.fr</p>
@@ -16,8 +16,8 @@ order: 5
 
 ## Tester ses hypothèses sans développeur
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkfhh" allowfullscreen></iframe>
   </div>
   <p>Julien Dauphant - Développeur beta.gouv.fr</p>
@@ -26,8 +26,8 @@ order: 5
 
 ## Lancez-vous avec demarches-simplifiees.fr !
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkf63" allowfullscreen></iframe>
   </div>
   <p>Philippe Vrignaud - Directeur de projets DINSIC et Serial Intrapreur beta.gouv.fr</p>

@@ -9,7 +9,7 @@ end:
 link: http://classea12.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12
 stats: false
-contact: contact@classea12.beta.gouv.fr
+contact: classea12@education.gouv.fr
 ---
 # Le problème :
 En sept 2017, Le dispositif classe à 12 initié par le Ministère de l'éducation nationale a permis à plus de 2500 enseignants de se lancer dans l'expérimentation d'une classe à effectif réduit afin de favoriser la réussite des élèves en  éducation prioritaire.

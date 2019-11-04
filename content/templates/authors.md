@@ -1,16 +1,18 @@
 ---
 fullname: Camille Dupont # penser à modifier le nom du fichier ci-dessus en prenom.nom.md !
-role: Smartass # Développeu·r·se / Intrapreneu·r·se / Coach / Chargé de développement / ...
-# ci-dessous, remplace pseudo_github par ton propre pseudo Github pour utiliser la photo de ton profil
-# tu peux aussi fournir l'URL (HTTPS obligatoire) d'une image carrée 512x512 minimum
-# à défaut, si tu laisses ce champs vide, alors ton avatar sera l'image prenom.nom du dossier /img/authors/
-# si aucune image n'est trouvée, alors la fiole beta.gouv.fr sera utilisée sur le site
-avatar: https://avatars3.githubusercontent.com/pseudo_github?s=600
-link: # optionnel : lien vers une page perso externe. Effacer cette ligne si rien à mettre.
+role: Smartass # Développeuse / Développeur / Intrapreneuse / Intrapreneur / Coach / Chargée de développement / Chargé de développement...
 github: pseudo_github # optionnel : nom d'utilisateur GitHub, permet d'être ajouté automatiquement à l'organisation GitHub betagouv
-start: 2016-12-31 # date d'arrivée au format ISO (AAAA-MM-JJ)
-end: 2017-09-15 # date de fin de contrat au format ISO (AAAA-MM-JJ)
-employer: # dinsic ou independent/<employer> ou admin/<employer> ou service/octo
+avatar: # optionnel, voir ci-dessous
+# En premier, on va regarder si tu as mis une image au format prenom.nom dans /img/authors/
+# Sinon, on utilisera le lien externe du champs avatar
+# Si tu laisse ce champs vide, alors on regardera si tu as une image sur GitHub
+# Enfin, si aucune image n'est trouvée, alors la fiole beta.gouv.fr sera utilisée sur la page communauté
+link: # optionnel : lien vers une page perso externe.
+missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
+  - start: '2019-01-01' # date d'arrivée au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
+    end: '2019-12-31' # date de fin de contrat au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
+    status: # dinsic (pour agent DINSIC) ou independent (pour indépendant) ou admin (pour agent d'une autre administration) ou service (pour société de service)
+    employer: # si applicable, le nom de ton administration, SSII, etc.
 startups: # ta ou tes startups actuelles
     - super_startup # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
 previously: # ta ou tes anciennes startups

@@ -1,9 +1,12 @@
 ---
 fullname: Céline Rouot
 role: Statisticienne
-start: 2016-06-01
+missions:
+  - start: '2016-06-01'
+    end:
+    status: admin
+    employer: eig
 avatar:
-employer: admin/eig
 startups:
     - signaux-faibles
 ---

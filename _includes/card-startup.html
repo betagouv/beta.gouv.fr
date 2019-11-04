@@ -9,70 +9,15 @@
       {% include screenshot.html startup=startup force=true %}
     </div>
     <div class="card__content">
-      <h3>{{ startup.title | strip_html }}</h3>
+      <h3 class="startup__title">{{ startup.title | strip_html }}</h3>
       <div class="card__meta">
         {{ startup.owner | strip_html }}
       </div>
-      <p>
-        {{ startup.mission | strip_html }}
-      </p>
+      {% if startup.status != 'death'%}
+        <p>
+          {{ startup.mission | strip_html }}
+        </p>
+      {% endif %}
     </div>
   </a>
-  <div class="card__extra">
-    <p>
-      {% if startup.link %}
-        <a href="{{ startup.link }}">{{ startup.link | remove: 'https://' | remove: 'http://' }}</a>
-      {% else %}
-        <em>Pas encore de site public</em>
-      {% endif %}
-    <br />
-      {% if startup.repository %}
-        <a href="{{ startup.repository }}">Code source ouvert</a>
-      {% else %}
-        <em>Code pas encore ouvert</em>
-      {% endif %}
-    </p>
-    {% if startup.techno %}
-      {% for item in startup.techno %}<div class="label">{{ item }}</div>{% endfor %}     
-    {% endif %}
-  </div>
-  <div class="card__extra">
-    {% comment %}<!-- Initialiser les équipes : les actuels, ceux qui sont parti, et ceux qui se sont retirés -->{% endcomment %}
-    {% assign current_team = "" %}{% comment %}membres actuels, actifs{% endcomment %}
-    {% assign current_inactive_team = "" %}{% comment %}membres actuels, inactifs{% endcomment %}
-    {% assign past_team = "" %}{% comment %}anciens membres, toujours actifs{% endcomment %}
-
-    {% comment %}<!-- Initialiser l'id -->{% endcomment %}
-    {% assign startup_id = startup.id | remove: "/startups/" %}
-
-    {% comment %}<!-- On boucle en premier sur tous ceux qui se sont déclarés actifs sur la startup -->{% endcomment %}
-    {% assign team = site.authors | where:"startups", startup_id %}
-    {% for people in team %}
-      {% comment %}<!-- On détecte ceux qui ne sont plus actifs sur la communauté -->{% endcomment %}
-      {% if people.end %}
-        {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
-        {% capture timestampEnd %}{{ people.end | date: '%s' }}{% endcapture %}
-        {% if timestampNow > timestampEnd %}
-          {% capture to_append %}<div class="label label--inactive">{{ people.fullname }}</div>{% endcapture %}
-          {% assign current_inactive_team = current_inactive_team | append: to_append %}
-          {% continue %}
-        {% endif %}
-      {% endif %}
-      {% comment %}<!-- On passe aux actifs de la communauté et de la startup -->{% endcomment %}
-      {% capture to_append %}<div class="label label--active">{{ people.fullname }}</div>{% endcapture %}
-      {% assign current_team = current_team | append: to_append %}
-    {% endfor %}
-
-    {% comment %}<!-- Maintenant, on passe à tous ceux qui se sont déclarés inactifs spontanément -->{% endcomment %}
-    {% assign team = site.authors | where:"previously", startup_id %}
-    {% for people in team %}
-      {% capture to_append %}<div class="label label--inactive">{{ people.fullname }}</div>{% endcapture %}
-      {% assign past_team = past_team | append: to_append %}
-    {% endfor %}
-
-    {% comment %}<!-- Pour l'affichage, on met les actifs, ceux qui ne sont plus dans la commaunté, puis ceux déclarés inactifs -->{% endcomment %}
-    {{ current_team }}
-    {{ current_inactive_team }}
-    {{ past_team }}
-  </div>
 </div>

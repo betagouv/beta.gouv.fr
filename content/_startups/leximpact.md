@@ -1,41 +1,47 @@
 ---
 title: LexImpact
-mission: Simuler l'impact de la loi, c'est possible !
+mission: Aider nos parlementaires à estimer les impacts de leurs amendements avant vote !
 owner: Assemblée nationale
 incubator: dinsic
 status: construction
 start: 2019-01-21
 end:
-link:
-repository:
+link: https://leximpact.beta.gouv.fr/
+repository: https://github.com/betagouv/leximpact/
 stats: false
 contact: leximpact@openfisca.org
 ---
 
 # Le problème
 
-Connaissez-vous les effets de la prochaine réforme des retraites de cet été ? Probablement pas, et vous n’êtes pas seul·e ! Chaque année, plus de 10 000 amendements relatifs aux projets de lois socio-fiscales sont votés à l’Assemblée nationale, avec très peu de moyens d’en vérifier les impacts sur les citoyen·ne·s. D’après Amélie de Montchalin, « les député·e·s travaillent dans le brouillard le plus total ! »
+Chaque année, toute ou partie de la population française est concernée par des changements fiscaux, hérités de modifications législatives régulières.
 
-Cela fait depuis près de 10 ans que les mêmes blocages sont remontés par des député·e·s, des sénateur·e·s, le Conseil d’État, etc. : le bilan des études d’impact est très mitigé, et les parlementaires ne peuvent pas voter en pleine conscience faute de temps, de données, et de moyens.
+Aujourd’hui, le Parlement dispose de peu de moyens d'évaluation des amendements et propositions avant de voter la loi. Les impacts sur la population et les recettes sont donc trop souvent découverts pendant les débats, voire une fois la loi votée et mise à exécution.
 
-Plusieurs rapports appuient ces constats : le rapport remis par Valérie Petit et Pierre Morel-à-l’Huissier, sur les dispositifs d’évaluation des politiques publiques ; celui réalisé par Jean-Noël Barrot et Jean-François Eliaou sur les moyens de contrôle et d’évaluation, ainsi que de fréquentes remarques du Conseil d’État qui alerte sur la nécessité démocratique d’une meilleure simulation des effets des lois.
+En plus des observations fréquentes du Conseil d'État depuis 10 ans, plusieurs rapports appuient ces constats : le rapport remis par Valérie Petit et Pierre Morel-à-l’Huissier, sur [les dispositifs d’évaluation des politiques publiques](http://www.assemblee-nationale.fr/15/rap-info/i0771.asp) ; celui réalisé par Jean-Noël Barrot et Jean-François Eliaou sur [les moyens de contrôle et d’évaluation](http://www2.assemblee-nationale.fr/static/reforme-an/contr%C3%B4le/Rapport-2-GT4-contr%C3%B4le.pdf).
 
-Pourtant, légiférer efficacement c’est aussi connaître l’impact des réformes sur les citoyen·ne·s avant qu’elles ne soient votées : voter une loi suppose d’avoir une vision de la répartition des revenus du pays, et de l’impact de la fiscalité sur nos vies.
+Enfin, au delà du manque de moyens général et en raison du calendrier législatif, les député·e·s et leurs collaborat·eurs·rices disposent de très peu de temps pour le chiffrage de leurs propositions. Or, aujourd’hui, il n’existe aucun outil simple d'accès, sans programmation, qui permette d’évaluer l’impact des réformes du système socio-fiscal, en quelques secondes. 
+
+C'est pourquoi, là où le Parlement détient une expertise politique et juridique, LexImpact souhaite apporter un soutien en chiffrage, permettant de vérifier, dans une certaine mesure, la corrélation entre la vision politique souhaitée et les impacts sur la population française.
 
 # Le produit
 
-Aujourd’hui, il n’existe aucun outil simple qui permet d’évaluer l’impact des réformes du système socio-fiscal. LexImpact est un service qui permet d’évaluer, de façon rapide, l’impact d’environ 80% des réformes socio-fiscales, sur des cas types et sur une base représentative de la population.
+**LexImpact est une interface qui permet d’estimer, en quelques secondes, l'impact des réformes paramétriques** sur un périmètre actuellement limité à l'impôt sur le revenu.
 
-Par le biais d’une interface accessible à tou·te·s, sans recourir à la programmation, un·e député·e peut simuler les effets des réformes paramétriques : changements d’assiettes, des taux… Par exemple, pour connaître les effets redistributifs des initiatives législatives sur les individus et les ménages, les transferts de charges entre tranches de la population, l’impact sur le budget de l’État et les collectivités.
+LexImpact se décline en deux interfaces : 
+- OPEN LexImpact, permettant d'estimer les **impacts d'une réforme sur des foyers fiscaux types**. 
+- LexImpact POP permettant, en plus des fonctionnalités déjà présente sur la version grand public, d'estimer **les impacts macros d'une réforme sur la population et les recettes de l'État**. LexImpact POP est, à ce jour, uniquement accessible aux député·e·s et leurs collaborat·eurs·rices, ainsi qu'aux administrat·eurs·rices de l'Assemblée nationale. 
 
-Ce service s'appuie sur OpenFisca, logiciel libre créé en 2012 pour répondre à ce problème, et utilisé aujourd’hui par Etalab, l’Incubateur des services numériques, l’IPP, l’IDEP et la MSA.
+Le service s'appuie sur OpenFisca, logiciel libre créé en 2012 qui transforme le code législatif en code informatique.
+LexImpact est l'un des défis de la promotion 3 des [Entrepreneurs d'intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/).
+
+Le code de LexImpact est libre, sous licence AGPL-3.0, et peut donc être vérifié et amélioré par toutes et tous.
 
 # Les prochaines étapes
 
-Les premiers usagers sont un groupe des député·e·s —et leurs assistant·e·s parlementaires— les plus en souffrance et en demande de moyens pour mieux objectiver leur mission, ainsi que les administrateurs de la Commission de Finances de l'Assemblée nationale.
+Le produit circonscrit à l'Article 197 du CGI est fonctionnel et accessible. Il est d'ores et déjà connu des collaborateurs de groupe, de certains députés et leurs collaborateurs. Nous avons réalisés plusieurs démonstrations, les utilisateurs sont enthousiastes. D'autres démos sont prévues et vont arriver dans les prochaines semaines, pour diffuser plus largement l'outil au sein de l'Assemblée nationale.
 
-Ils ont déjà fait la demande d'un tel service ! D’après les signataires d’une tribune au Monde portée par Amélie de Montchalin : « Pour voter en pleine conscience, nous devons aux Français de disposer de mesures sérieuses, chiffrées et applicables, forgées sur la base d'un avis indépendant des administrations et des groupes d'intérêts ».
+**Notre premier objectif est que LexImpact soit utilisé largement lors du Projet de Loi de Finances 2020, fasse gagner du temps à nos usagers, tout en leur permettant d'élaborer leurs amendements au plus prêt de leur vision politique.**
 
-Notre premier objectif est que LexImpact fasse ses preuves auprès des usagers et soit utilisé lors de la discussion du Projet de Loi de Finances pour 2020, à partir de septembre. Un premier enjeu sera d’agréger une communauté bien plus large d’usagers à l’Assemblée nationale, et au-delà de nos premiers utilisateurs. Un deuxième enjeu sera d'accompagner nos partenaires dans le passage à l’échelle et dans la pérennisation du service.
+La suite de LexImpact sera d'élargir progressivement le périmètre de l'outil et d'accompagner nos partenaires dans la pérennisation du service *in situ*.
 
-Nous travaillons d’ores et déjà pour mettre autour de la table les administrations clées dans l’évaluation des politiques publiques, d’amélioration et de transparence de l’action publique : Assemblée Nationale, Sénat, Cour de Comptes, Direction du Budget, Direction Générale du Trésor, Direction Générale des Impôts, Direction de la Sécurité Sociale, le Conseil d’État, l’INSEE et la DINSIC.

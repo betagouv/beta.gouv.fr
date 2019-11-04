@@ -1,11 +1,15 @@
 ---
 fullname: Thomas Menant
-role: Expertise juridique
-start: 2014-01-01
-end: 2018-09-01
-employer: dinsic
+role: Claquettiste 🕺
+missions:
+  - start: '2014-01-01'
+    end: '2019-12-31'
+    status: independent
+    employer: Codeurs en Liberté
 startups:
-  - api-particulier
+    - preuve-de-covoiturage
+    - api-particulier
+  
 ---
 
 Le droit c'est tordu.

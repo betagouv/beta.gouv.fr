@@ -1,9 +1,11 @@
 ---
 fullname: Frederic Merizen
 role: Développeur
-start: 2017-12-12
-end: 2019-02-08
-employer: independent/octo
+missions:
+  - start: '2017-12-12'
+    end: '2019-03-31'
+    status: independent
+    employer: octo
 github: fredZen
 startups:
     - demarches-simplifiees.fr

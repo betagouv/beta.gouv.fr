@@ -1,13 +1,15 @@
 ---
 fullname: Antoine Boileau
 role: Développeur
-start: 2017-04-03
-end: 2018-09-30
-employer: service/octo
+missions:
+  - start: '2017-04-03'
+    end: '2018-09-30'
+    status: service
+    employer: octo
 startups:
 previously:
   - pix
-  - reso
+  - place-des-entreprises
 ---
 
 :turtle:

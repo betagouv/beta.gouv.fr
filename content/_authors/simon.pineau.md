@@ -1,10 +1,16 @@
 ---
 fullname: Simon Pineau
 role: Chargé de développement
-avatar: https://avatars3.githubusercontent.com/simonpineau?s=600
 github: simonpineau
-start: 2018-07-11
-employer: independent/informatique convivial
+missions:
+  - start: '2018-07-11'
+    end: '2018-11-30'
+    status: independent
+    employer: icc
+  - start: '2019-07-01'
+    end: '2019-07-31'
+    status: independent
+    employer: octo
 startups:
     - aplus
 ---

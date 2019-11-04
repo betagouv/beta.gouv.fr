@@ -1,0 +1,18 @@
+<nav class="side-pane">
+  <ul class="side-pane__menu sticky">
+    <li {% if page.url == "/preincubation/" %}class="active"{% endif %}>
+      <a class="side-pane__link" href="/preincubation/">Le programme de préincubation</a>
+    </li>
+    <li class="side-pane__dropdown unfolded {% if page.url contains "/preincubation/promotion" %}active{% endif %}">
+      <a class="side-pane__link" href="/preincubation/">Les promotions</a>
+      <ul class="side-pane__submenu">
+        {% assign seasons = site.seasons | sort: 'order' %}
+        {% for season in seasons %}
+        <li {% if page.url == season.url %}class="active"{% endif %}>
+          <a class="side-pane__sublink" href="{{ season.url }}">{{ season.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </li>
+  </ul>
+</nav>

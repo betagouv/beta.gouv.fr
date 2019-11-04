@@ -3,10 +3,14 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.5.1-node-browsers
+      - image: circleci/ruby:2.6.1-node-browsers
 
     steps:
       - checkout
+
+      - run:
+          name: Update bundler
+          command: gem install bundler
 
       - run:
           name: Generate Gemlock
@@ -14,9 +18,9 @@ jobs:
 
       - restore_cache:
           keys:
-            - gem-cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
-            - gem-cache-v2-{{ arch }}-{{ .Branch }}
-            - gem-cache-v2
+            - cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+            - cache-v2-{{ arch }}-{{ .Branch }}
+            - cache-v2
 
       - run:
           name: Bundle Install
@@ -30,9 +34,11 @@ jobs:
             pip3 install --user --upgrade html5validator  # will install in $HOME/.local
 
       - save_cache:
-          key: gem-cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+          key: cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
+            - ~/.local
+            - ~/.cache
 
       - run:
           name: Check authors file name structure (first_name.last_name.md)
@@ -40,6 +46,7 @@ jobs:
             if ls _authors | grep --line-regexp --invert-match '[a-z_-]\+\.[a-z_-]\+\.md'
             then cat <<EOF
               One or more authors do not have the expected structure.
+              Contact a website administrator if your generated author file breaks the validator.
               Notes:
               A dot (.) can only appear as a separator between the first and the last names.
               Dashes in names are kept as-is.
@@ -96,4 +103,3 @@ jobs:
 #      - run:
 #          name: Check social networks friendliness
 #          command: ruby rb/test/opengraph.rb
-

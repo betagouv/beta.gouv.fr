@@ -1,6 +1,6 @@
 ---
 roles: un·e chargé.e de développement
-startup: reso
+startup: place-des-entreprises
 techno:  
 open: false
 ---

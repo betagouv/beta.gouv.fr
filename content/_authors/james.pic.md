@@ -1,9 +1,11 @@
 ---
 fullname: James Pic
 role: Développeur full-stack
-start: 2017-11-30
-end: 2019-03-30
-employer: independent/octo
+missions:
+  - start: '2017-11-30'
+    end: '2019-12-30'
+    status: independent
+    employer: octo
 github: jpic
 startups:
     - mrs

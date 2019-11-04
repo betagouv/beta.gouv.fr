@@ -1,6 +1,11 @@
 ---
-fullname: Sebastien Vienot
+fullname: Sébastien Vienot
 role: Intrapreneur
-start: 2018-10-01
-employer: admin/Ministère de la Transition Ecologique et Solidaire
+missions:
+  - start: '2018-10-01'
+    end:
+    status: admin
+    employer: Ministère de la Transition Ecologique et Solidaire
+startups:
+  - filharmonic
 ---
