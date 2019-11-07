@@ -10,7 +10,7 @@ missions:
     end: '2018-02-28'
     status: dinsic
   - start: '2018-04-01'
-    end: '2021-10-26'
+    end: '2019-11-30'
     status: dinsic
 startups:
   - aplus

@@ -4,7 +4,7 @@ roles: un.e Data Engineer
 title: "Etalab recherche un.e Data Engineer"
 type: 'friend'
 externalURL: 'https://www.etalab.gouv.fr/nous-rejoindre/le-pole-data-recrute-un-e-data-engineer'
-open: true
+open: false
 ---
 
 Etalab recherche un.e Data Engineer susceptible d’accompagner les administrations dans l’identification et la montée en qualité des données.
