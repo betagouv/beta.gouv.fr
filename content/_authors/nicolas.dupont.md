@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/ndpnt/
 missions:
   - start: '2019-04-01'
     status: independent
-    employer: Ministère des affaires étrangères
+    employer: Ministère de l'Europe et des affaires étrangères
 startups:
   - disinfo
 ---
