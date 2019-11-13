@@ -53,4 +53,4 @@ Vous serez en relation directe avec l'équipe d'API Entreprise.
 
 ## Postuler
 
-Pour postuler, [contactez-nous par email](mailto:contact@api.gouv.fr).
+Pour postuler, [contactez-nous par email](mailto:contact@api.gouv.fr) en mettant "recrutement@beta.gouv.fr" en copie.
