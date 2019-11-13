@@ -8,5 +8,5 @@ missions:
     status: independent
     employer: Octo
 startups: 
-    - Lapins
+    - lapins
 ---
