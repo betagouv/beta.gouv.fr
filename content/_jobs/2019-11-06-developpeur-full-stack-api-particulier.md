@@ -1,10 +1,10 @@
 ---
-roles: Développeur full stack NodeJS / Ruby
-startup: API Particulier 
+roles: Développeur / développeuse full stack NodeJS / Ruby
+startup: api-particulier
 techno: nodeJS, Ruby
 junior: false
 open: true
-title: Développeur full stack NodeJS / Ruby
+title: Développeur / développeuse full stack NodeJS / Ruby
 ---
 
 ## L'API Particulier 
