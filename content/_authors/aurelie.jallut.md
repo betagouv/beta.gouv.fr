@@ -9,5 +9,6 @@ missions:
     status: independent
 startups:
  - aplus
+---
  
 Recherche, prototype & design d'interface utilisateur
