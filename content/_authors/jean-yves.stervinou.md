@@ -1,6 +1,6 @@
 ---
 fullname: Jean-Yves Stervinou
-role: Développeur # Développeuse / Développeur / Intrapreneuse / Intrapreneur / Coach / Chargée de développement / Chargé de développement...
+role: Développeur
 github: jystervinou
 missions:
   - start: '2018-02-01'
