@@ -6,7 +6,7 @@ incubator: pole-emploi
 status: acceleration
 start: 2018-04-01
 link: https://anotea.pole-emploi.fr
-stats: false
+stats: true
 repository: https://github.com/StartupsPoleEmploi/anotea
 contact: anotea@pole-emploi.fr
 ---
