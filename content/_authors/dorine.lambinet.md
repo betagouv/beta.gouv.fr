@@ -8,5 +8,5 @@ missions:
     status: dinsic
 startups:
   - leximpact
-  - API Entreprise
+  - api-entreprise
 ---
