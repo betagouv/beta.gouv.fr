@@ -1,5 +1,5 @@
 ---
-fullname: Stanislas Châble
+fullname: Stanislas Chable
 role: Développeur
 github: schable
 missions:
