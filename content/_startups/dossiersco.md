@@ -9,7 +9,7 @@ end: 2019-09-15
 link: https://dossiersco.fr
 repository: https://github.com/betagouv/dossiersco
 stats: true
-contact: pierre.de-maulmont@ac-paris.fr
+contact: equipe@dossiersco.fr
 ---
 
 Permettre aux parents d’inscrire en ligne leurs enfants et de télécharger des pièces justificatives, sans avoir à renseigner chaque année les mêmes informations déjà connues de l’Education nationale.
