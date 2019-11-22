@@ -1,6 +1,6 @@
 ---
 layout: jobs
 permalink: /recrutement/
-title: Les Startups d'État recrutent
+title: beta.gouv.fr recrutent
 additional_css: grid.css
 ---
