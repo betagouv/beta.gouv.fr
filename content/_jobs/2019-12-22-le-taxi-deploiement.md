@@ -18,7 +18,7 @@ Nous cherchons une personne qui puisse porter le déploiement de l'API, en cours
 
 Nous sommes aujourd’hui une équipe de 3 personnes : 2 développeurs (Vincent et Julien) et 1 mentor (Ishan). L'équipe travaille en lien étroit avec la Direction générale des infrastructures, des transports et de la mer (DGITM), l'administration qui s'occupe notamment des transports au ministère de la Transition écologique et solidaire (MTES).
 
-Le MTES finance le service mais nous accorde une grande autonomie sur la communication, l’agenda, les outils utilisés, la gestion du budget et les recrutements. En particulier, nous n’exécutons pas de cahier des charges, ne dépendons pas de circuits de validation et tentons de limiter les réunions internes au strict minimum pour laisser le temps à chacun de s’organiser comme il s’entend pour être le plus efficace possible.
+Le MTES finance le service mais nous accorde une grande autonomie sur la communication, l’agenda, les outils utilisés, la gestion du budget et les recrutements. En particulier, nous n’exécutons pas de cahier des charges, ne dépendons pas de circuits de validation et tentons de limiter les réunions internes au strict minimum pour laisser le temps à chacun de s’organiser comme il l’entend pour être le plus efficace possible.
 
 Notre feuille de route est guidée par les besoins de nos utilisateurs et par notre objectif partagé de créer une infrastructure numérique publique qui permette à la fois une meilleure régulation par la donnée pour le secteur public et la mise en place d'un outil qui soit véritablement au service des taxis.
 
