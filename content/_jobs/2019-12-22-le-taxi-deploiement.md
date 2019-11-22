@@ -12,7 +12,7 @@ Nous cherchons une personne motivée pour accompagner le déploiement de l'API l
 
 Nous avons besoin d'une personne qui puisse porter le déploiement de l'API, en cours de généralisation à toute la France, dès décembre 2019 et au moins jusqu'à fin août 2020, à un rythme de 3 à 4 jours par semaine.
 
-## A propos de nous
+## À propos de nous
 
 ### L’équipe
 
