@@ -6,7 +6,7 @@ open: true
 title: Responsable du déploiement de l'API le.taxi
 ---
 
-## le.taxi cherche une personne responsable de son déploiement pour permettre à 60 000 taxis d'être visibles sur les smartphones des gens
+## le.taxi cherche une personne responsable de son déploiement pour permettre à 60 000 taxis d'être visibles sur les smartphones
 
 Nous cherchons une personne motivée pour accompagner le déploiement de l'API le.taxi, service public numérique qui vise à accroître la présence des taxis dans les services numériques grand public (applications smartphone, site web, etc).
 
