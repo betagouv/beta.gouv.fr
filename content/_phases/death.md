@@ -1,5 +1,5 @@
 ---
-title: Nos Startups d'État abandonnées
+title: Nos services abandonnés
 status: death
 label: Abandon
 related: endgame
