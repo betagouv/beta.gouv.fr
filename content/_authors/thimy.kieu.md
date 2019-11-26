@@ -12,7 +12,7 @@ missions:
     start: '2019-12-06'
     status: independent
 startups:
-  - API Entreprise
+  - api-entreprise
 previously:
   - data.gouv.fr
   - aidantsconnect
