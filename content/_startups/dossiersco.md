@@ -17,15 +17,8 @@ Permettre aux parents d’inscrire en ligne leurs enfants et de télécharger de
 Permettre aux agents de récupérer les pièces et les données nouvelles, sans avoir à relire l’ensemble des dossiers d’inscription.
 
 ## Raisons de l'abandon du produit
-DossierSco simplifie la vie des familles et des établissement en permettant la dématérialisation des inscriptions.
 
-Le produit répond initialement à une volonté de Matignon exprimée début 2018 et reprise par le Ministère de l’Education Nationale. En avril 2018, la convention entre le ministère et beta.gouv.fr est signée afin de répondre à une première saison d’inscriptions en mai-juin 2018. L’avenant prolongeant la convention, prévu pour septembre se fait attendre et cause 4 mois d’interruption du travail de l’équipe fin 2018. Le travail reprend en janvier 2019, couvrant les inscriptions 2019, jusqu’à ce qu’une réunion interministérielle en septembre décrète qu’un autre produit sera préféré à DossierSco. En cause : l’incapacité de l’équipe à généraliser le produit à tous les collèges de France l’année suivante, contrairement au plan initial.
-
-DossierSco a souffert d’une saisonnalité ardue, où l’usage du produit se concentre sur 1 mois de l’année, rendant difficiles les itérations sur le produit. Les 4 mois d’interruption en 2018 ont également coûté cher au produit et à l'équipe (turnover). 
-La répartition des rôles au sein de l’équipe s’est avérée problématique. D’une part, l’intrapreneur a fait l’objet d’attentes trop importantes, au vu de son métier et de sa disponibilité (détaché à 60% seulement sur DossierSco). Par ailleurs, la stratégie de déploiement était insuffisante. Enfin, la collecte des besoins et des retours utilisateurs n'a pas été assez cadrée et régulière, rendant difficile la priorisation des évolutions du produit. L’équipe a eu des désaccords avec son coach ainsi qu’avec l’intrapreneur, menant à leur départ.
-
-Le Ministère de l'Education Nationale va généraliser un autre produit que DossierSco pour les inscriptions au collège et cesse donc le développement de ce dernier.
-
+En cours d'élaboration.
 
 ## Campagne 2018
 
