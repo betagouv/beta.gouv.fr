@@ -2,7 +2,7 @@
 roles: deux dévelopeur(s) ou développeuse(s)
 title: "beta.gouv recrute : deux dévelopeur(s) ou développeuse(s) pour Aidants Connect"
 startup: aidantsconnect
-open: true
+open: false
 ---
 
 La [Startup d’État Aidants Connect](https://beta.gouv.fr/startups/aidantsconnect.html) recherche deux développeur(s) ou développeuse(s) full stack pour accompagner sa phase d'accélération et d'agrégation de ressources.
