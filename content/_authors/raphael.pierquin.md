@@ -10,6 +10,7 @@ missions:
     employer: ut7
 startups:
   - zam
+  - maraudes
 ---
 
 Coach des startups, des papillons et des abeilles aux pieds libres.
