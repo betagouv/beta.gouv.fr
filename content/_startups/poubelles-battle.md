@@ -10,7 +10,7 @@ link:
 repository:
 stats: false
 stats_url:
-contact: uncomposteurici@gmail.com
+contact: poubelles-battle@beta.gouv.fr
 ---
 
 Aujourd’hui, 73,6% de la population paloise habite en appartement, soit 54 122 habitants. 
