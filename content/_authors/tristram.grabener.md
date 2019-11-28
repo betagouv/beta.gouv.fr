@@ -4,9 +4,13 @@ role: Développeur
 github: Tristramg
 missions:
   - start: '2018-03-01'
-    end: '2020-02-28'
+    end: '2019-12-04'
     status: independent
     employer: Codeurs en Liberté
+  - start: '2019-12-06'
+    end: '2020-02-28'
+    status: independent
+    employer: Codeurs en Liberté    
 startups:
   - transport
 ---

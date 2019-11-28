@@ -3,19 +3,22 @@ title: DossierSCO
 mission: Inscrire son enfant au collège en quelques clics
 owner: Ministère de l'Éducation nationale
 incubator: dinsic
-status: construction
+status: death
 start: 2017-09-01
-end:
+end: 2019-09-15
 link: https://dossiersco.fr
 repository: https://github.com/betagouv/dossiersco
 stats: true
-contact: pierre.de-maulmont@ac-paris.fr
+contact: equipe@dossiersco.fr
 ---
 
 Permettre aux parents d’inscrire en ligne leurs enfants et de télécharger des pièces justificatives, sans avoir à renseigner chaque année les mêmes informations déjà connues de l’Education nationale.
 
 Permettre aux agents de récupérer les pièces et les données nouvelles, sans avoir à relire l’ensemble des dossiers d’inscription.
 
+## Raisons de l'abandon du produit
+
+En cours d'élaboration.
 
 ## Campagne 2018
 
