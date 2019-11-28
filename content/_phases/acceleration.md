@@ -1,5 +1,5 @@
 ---
-title: Nos Startups d'État en accélération
+title: Nos services en accélération
 status: acceleration
 label: Accélération
 related: incubation

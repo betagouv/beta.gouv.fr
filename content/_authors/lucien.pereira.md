@@ -4,7 +4,7 @@ role: Développeur
 github: lpereir4
 missions: 
   - start: '2019-10-23'
-    end: '2019-11-31'
+    end: '2020-01-31'
     status: independent
     employer: octo
 startups:
