@@ -9,6 +9,7 @@ missions:
     status: service
 startups:
   - place-des-entreprises
+previously:
   - demarches-simplifiees.fr
 ---
 

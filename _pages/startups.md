@@ -1,6 +1,6 @@
 ---
 layout: startups
-title: Le portefeuille de Startups d'État
+title: Notre travail
 permalink: /startups/
 additional_css:
   - side-panel.css
@@ -10,6 +10,6 @@ redirect_from:
   - /startup
 ---
 
-## Qu'est-ce qu'une Startup d’État ?
+## Sur quoi travaillons-nous ?
 
-Une Startup d'État est un service public sans personnalité juridique propre, constituée d’une petite équipe totalement autonome. Elle est financée par une administration porteuse qui lui garantit un espace de liberté pour innover. Elle naît de l’identification d’un problème rencontré par les citoyens comme par les agents publics, qu’elle se donne pour objectif de résoudre grâce à un service numérique.
+Voici un aperçu du travail des équipes accompagnées par beta.gouv.fr. Chaque équipe est financée par une administration porteuse qui lui garantit un espace de liberté pour tester, se confronter aux utilisateurs, et déployer les solutions les plus pertinentes pour répondre à leurs problèmes. 

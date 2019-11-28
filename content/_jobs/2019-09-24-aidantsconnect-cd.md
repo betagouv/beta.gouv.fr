@@ -2,7 +2,7 @@
 roles: deux chargé(e)s de déploiement
 title: "beta.gouv recrute : deux chargé(e)s de déploiement pour Aidants Connect"
 startup: aidantsconnect
-open: true
+open: false
 ---
 
 La [Startup d’État Aidants Connect](https://beta.gouv.fr/startups/aidantsconnect.html) recherche deux personnes chargé(e)s de déploiement, pour accompagner sa phase d'accélération et de déploiement progressif dans les territoires.
