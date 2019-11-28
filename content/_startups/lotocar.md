@@ -7,9 +7,9 @@ status: construction
 start: 2018-11-26
 end:
 link: https://www.lotocar.fr
-repository:
+repository: https://github.com/DavidBruant/lotocar
 stats: false
-contact: contact@mobilot.beta.gouv.fr
+contact: contact@lotocar.fr
 redirect_from:
   - /startups/mobilot
 ---
