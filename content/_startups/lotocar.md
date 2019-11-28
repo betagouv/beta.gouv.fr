@@ -7,7 +7,7 @@ status: construction
 start: 2018-11-26
 end:
 link: https://www.lotocar.fr
-repository: https://github.com/DavidBruant/lotocar/issues
+repository: https://github.com/DavidBruant/lotocar
 stats: false
 contact: contact@lotocar.fr
 redirect_from:
