@@ -20,7 +20,7 @@ La Fabrique numérique, l'incubateur de services numériques du ministère des a
 
 🤗 Niveau *stack* humaine : autonomie, envie d’apprendre & humilité.
 
-💁 Des exemples de projets qui sortent de chez nous : une plateforme de recrutement (https://beta.gouv.fr/startups/civils-de-la-defense.html), un Uber interne (https://beta.gouv.fr/startups/e-chauffeur.html) ou un outil pour suivre les avions qui survole la France (https://beta.gouv.fr/startups/sepia.html).
+💁 Des exemples de projets qui sortent de chez nous : une plateforme de recrutement (https://beta.gouv.fr/startups/civils-de-la-defense.html), un Uber interne (https://beta.gouv.fr/startups/e-chauffeur.html) ou un outil pour suivre les avions qui survolent la France (https://beta.gouv.fr/startups/sepia.html).
 
 👋 Télétravail partiel OK, avec une présence minimum à Paris de 2 jours par semaine (Javel).
 
