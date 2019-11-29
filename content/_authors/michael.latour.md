@@ -7,5 +7,5 @@ missions:
     end: '2019-06-31'
     status: admin
 startups: 
-    - poubelle-battle
+    - poubelles-battle
 ---
