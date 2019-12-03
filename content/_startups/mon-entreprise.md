@@ -14,16 +14,16 @@ budget:
   2019:
     ACOSS:
       €: 120
-      ETP: 1/5
+      ETP: 1/5 # Bruno
     DINSIC:
-      €: 180
+      €: 180 
   2018:
     ACOSS: 
       €: 120
       ETP: 1/5
     DINSIC:
       €: 180
-      ETP: 1/5
+      ETP: 1/5 # Laurent
   2017:
     DINSIC: 
       ETP: 2 # Laurent/Georges et Mael
@@ -57,7 +57,7 @@ Si le créateur s'en est sorti, il pourra alors embaucher et découvrir le proch
 
 Résultat : **créer une entreprise sans formation préalable ou accompagnement relève d'un véritable parcours du combattant**. L'information disponible est éclatée sur les sites institutionnels des différents acteurs, et souvent présentée sous la forme de longs paragraphes décontextualisés de la situation de l'entrepreneur.
 
-Or on observe une nette croissance du nombre d'entreprises crées en France (+18,5% sur les douze derniers mois). Cela s'explique nottament par le développement de l'économie collaborative (phénomène désigné par "l'uberisation de l'économie"), qui dans de nombreux cas impose la création d'une entreprise.
+Or on observe une nette croissance du nombre d'entreprises crées en France u+18,5% sur les douze derniers mois). Cela s'explique nottament par le développement de l'économie collaborative (phénomène désigné par "l'uberisation de l'économie"), qui dans de nombreux cas impose la création d'une entreprise.
 
 **Il devient donc urgent d'accompagner ces nouveaux dirigeants dans la création de leur entreprise à travers un parcours simple et personnalisé**
 

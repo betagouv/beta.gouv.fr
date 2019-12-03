@@ -1,0 +1,12 @@
+<span>Budget en {{include.annee[0]}}</span>
+<ul>
+    {% for financeur in include.annee[1] %}
+    <li>{{financeur[0]}}:
+        <ul>
+            {% for categorie in financeur[1] %}
+            <li> {% if categorie[0] == '€' %} 💶 {% else %} 🧍 {% endif %} {{categorie[1]}} {{categorie[0]}}</li>
+            {% endfor %}
+        </ul>
+    </li>
+    {% endfor %}
+</ul>

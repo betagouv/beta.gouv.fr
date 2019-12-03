@@ -1,0 +1,10 @@
+{% assign first = include.budget.first %}
+{% include annee-budget-startup.html annee=first %}
+<details>
+    <summary>Voir plus d'années</summary>
+    {% for annee in include.budget %}
+    {% unless forloop.first %}
+    <li>{% include annee-budget-startup.html annee=annee %}</li>
+    {% endunless %}
+    {% endfor %}
+</details>
