@@ -5,7 +5,7 @@ github: antoinemch
 missions:
   - start: '2019-09-02'
     end: ''
-    status: DINUM
+    status: admin
     employer: DINUM
 startups:
 ---
