@@ -4,88 +4,113 @@ layout: default
 
 {% assign lang = page.lang | default: site.lang | default: "fr" %}
 <div class="page article">
+  <h2> Budget</h2>
+  <ul>{% for annee in page.budget %}
+    <li>
+      <h3>{{annee[0]}}</h3>
+      <ul>
+        {% for financeur in annee[1] %}
+        <li>{{financeur[0]}}:
+          <ul>
+            {% for categorie in financeur[1] %}
+            <li>{% if categorie[0] == '€' %} 💶 {% else %} {{categorie[0]}} {% endif %} : {{categorie[1]}}</li>
+            {% endfor %}
+          </ul>
+        </li>
+        {% endfor %}
+      </ul>
+    </li>
+    {% endfor %}
+  </ul>
   {% include hero-startup.html title=page.title mission=page.mission %}
 
   {% comment %} Détection du status de la startup {% endcomment %}
   {% capture phase_id %}/phases/{{ page.status }}{% endcapture %}
   {% assign phase = site.phases | where: "id", phase_id | first %}
   {% if page.link %}
-    <div class="notification full-width">Le produit est <em>{{ phase.label | downcase | prepend: "en " }}</em>, il est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.</div>
-  {% else %}
-    <div class="notification warning full-width">Le produit est <em>{{ phase.label | downcase | prepend: "en " }}</em>, il n'est pas encore accessible au public.</div>
-  {% endif %}
+  <div class="notification full-width">Le produit est <em>{{ phase.label | downcase | prepend: "en " }}</em>, il est
+    disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.</ul>
+    {{for year in page.budget}}</ul>>
+    {% else %}
+    <div class="notification warning full-width">Le produit est <em>{{ phase.label | downcase | prepend: "en " }}</em>,
+      il
+      n'est pas encore accessible au public.</div>
+    {% endif %}
 
-  <section class="section section-white">
-    <div class="container">
-      {% include screenshot.html startup=page %}
-
-      <div class="text-quote">
-        <ul>
-          <li>
-            Les statistiques d'usage
-            {% if page.stats %}
-              <a href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">sont disponibles.</a>
-            {% else %}
-              <em>ne sont pas encore disponibles.</em>
-            {% endif %}
-          </li>
-          <li>
-            Le code source
-            {% if page.repository %}
-              <a href="{{ page.repository }}">est libre.</a>
-            {% else %}
-              <em>n'est pas encore ouvert.</em>
-            {% endif %}
-          </li>
-          {% if page.techno %}
-          <li>
-             Technologies utilisées : {{ page.techno | join: ", " }}
-          </li>
-          {% endif %}
-          <li>
-            Le porteur administratif est {{ page.owner }}.
-          </li>
-          {% comment %} Détection de l'incubateur {% endcomment %}
-          {% capture incubator_id %}/incubateurs/{{ page.incubator }}{% endcapture %}
-          {% assign incubator = site.incubators | where:'id', incubator_id | first %}
-          <li>L'incubateur est <a href="{{ incubator.url }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.</li>
-          <li>
-            {% if page.contact %}
-              <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
-            {% else %}
-              <em><a href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
-            {% endif %}
-          </li>
-        </ul>
-      </div>
-    </div>
-
-    {% assign startup_id = page.id | remove: '/startups/' %}
-    {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
-    {% if jobs[0] %}
+    <section class="section section-white">
       <div class="container">
-        <div class ="richtext">
+        {% include screenshot.html startup=page %}
+
+        <div class="text-quote">
+          <ul>
+            <li>
+              Les statistiques d'usage
+              {% if page.stats %}
+              <a href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}"
+                title="Statistiques de {{ page.title }}">sont disponibles.</a>
+              {% else %}
+              <em>ne sont pas encore disponibles.</em>
+              {% endif %}
+            </li>
+            <li>
+              Le code source
+              {% if page.repository %}
+              <a href="{{ page.repository }}">est libre.</a>
+              {% else %}
+              <em>n'est pas encore ouvert.</em>
+              {% endif %}
+            </li>
+            {% if page.techno %}
+            <li>
+              Technologies utilisées : {{ page.techno | join: ", " }}
+            </li>
+            {% endif %}
+            <li>
+              Le porteur administratif est {{ page.owner }}.
+            </li>
+            {% comment %} Détection de l'incubateur {% endcomment %}
+            {% capture incubator_id %}/incubateurs/{{ page.incubator }}{% endcapture %}
+            {% assign incubator = site.incubators | where:'id', incubator_id | first %}
+            <li>L'incubateur est <a href="{{ incubator.url }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
+            </li>
+            <li>
+              {% if page.contact %}
+              <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter
+                l’équipe</a>.
+              {% else %}
+              <em><a href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter
+                  l'incubateur</a>.</em>
+              {% endif %}
+            </li>
+        </div>
+      </div>
+
+      {% assign startup_id = page.id | remove: '/startups/' %}
+      {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
+      {% if jobs[0] %}
+      <div class="container">
+        <div class="richtext">
           <h3>Postes ouverts</h3>
           <ul>
             {% for job in jobs %}
-              <li><a href="{{ job.url }}">{{ page.title }} recrute {{ job.roles | downcase }}.</a></li>
+            <li><a href="{{ job.url }}">{{ page.title }} recrute {{ job.roles | downcase }}.</a></li>
             {% endfor %}
           </ul>
         </div>
       </div>
-    {% endif %}
+      {% endif %}
 
-    <div class="container">
-      <div class="richtext">
-        {{ content }}
+      <div class="container">
+        <div class="richtext">
+          {{ content }}
+        </div>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <section class="section section-grey">
-    <div class="container">
-      {% include grid-authors.html startup=page %}
-    </div>
-  </section>
+    <section class="section section-grey">
+      <div class="container">
+        {% include grid-authors.html startup=page %}
+      </div>
+    </section>
 
-</div>
+  </div>

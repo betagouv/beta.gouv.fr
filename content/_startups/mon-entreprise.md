@@ -10,6 +10,30 @@ link: https://mon-entreprise.fr
 repository: https://github.com/betagouv/syso
 stats: true
 contact: contact@mon-entreprise.beta.gouv.fr
+budget:
+  2019:
+    ACOSS:
+      €: 120
+      ETP: 1/5
+    DINSIC:
+      €: 180
+  2018:
+    ACOSS: 
+      €: 120
+      ETP: 1/5
+    DINSIC:
+      €: 180
+      ETP: 1/5
+  2017:
+    DINSIC: 
+      ETP: 2 # Laurent/Georges et Mael
+  2016:
+    DINSIC:
+      ETP: 2 # Laurent/Georges et Mael
+  2015: 
+    SGMAP: 
+      ETP: 2 # Agathe puis Georges et Matti puis Mael
+
 ---
 # Mon-entreprise.fr
 
