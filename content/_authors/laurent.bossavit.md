@@ -3,6 +3,9 @@ fullname: Laurent Bossavit
 role: Coach
 missions:
   - start: '2016-03-01'
+    end: '2019-12-04'
+    status: dinsic
+  - start: '2019-12-06'
     end: '2021-04-05'
     status: dinsic
 startups:
