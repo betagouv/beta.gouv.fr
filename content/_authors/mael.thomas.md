@@ -12,6 +12,6 @@ missions:
 startups:
     - mon-entreprise
     - lotocar
+    - ecolab
 ---
 
-Tombé par hasard dans un mélange des droits du travail, de la sécurité sociale et des impôts.
