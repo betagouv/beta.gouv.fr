@@ -2,7 +2,7 @@
 roles: Responsable des opérations Locatio #
 startup: locatio  # identifiant de la startup pour laquelle le recrutement est fait ; créer la startup si elle n'existe pas encore
 junior: true # S'il est possible de candidater avec peu d'expérience
-open: true # Basculer à 'false' ou supprimer une fois l'offre pourvue
+open: false # Basculer à 'false' ou supprimer une fois l'offre pourvue
 title: Offre de responsable des opérations locatio.beta.gouv.fr # Permet d'avoir un titre spécifique pour la page de cette offre
 ---
 
