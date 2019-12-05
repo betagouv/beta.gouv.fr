@@ -9,7 +9,11 @@ missions:
     status: independent
     employer: KeiruaProd
   - start: '2018-11-15'
-    end: '2019-08-31'
+    end: '2019-12-05'
+    status: independent
+    employer: KeiruaProd
+  - start: '2019-12-06'
+    end: '2019-12-31'
     status: independent
     employer: KeiruaProd
 startups:
