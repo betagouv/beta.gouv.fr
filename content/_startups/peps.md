@@ -7,7 +7,7 @@ status: construction
 start: 2019-05-13 
 end: 
 link: https://www.peps.beta.gouv.fr?utm_source=beta_gouv
-repository: 
+repository: https://github.com/betagouv/peps
 stats: false 
 stats_url: 
 contact: peps@beta.gouv.fr
