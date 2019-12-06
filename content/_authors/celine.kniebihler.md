@@ -7,5 +7,5 @@ missions:
     status: independent
     employer: Arolla
 startups:
-    - e-contrôle
+    - e-controle
 ---
