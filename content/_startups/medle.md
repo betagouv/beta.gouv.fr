@@ -45,7 +45,7 @@ Pour les ministères, Medlé permet une vision plus exhaustive des actes réalis
 - Christophe Grassi - Product Manager
 - Pierre-Olivier Mauguet - Développeur
 
-## 01 Le contexte
+## 1 - Le contexte
 
 ### Qu'est-ce que la médecine légale ?
 
@@ -53,7 +53,9 @@ La médecine légale nʼexiste que dans le cadre dʼune procédure pénale. Elle
 
 Une grande partie de cette activité est aujourdʼhui réalisée dans les **47 structures hospitalières**. Un réseau de proximité (établissements publics de santé dépourvus de structures dédiées et médecine libérale) complète le maillage territorial.
 
-Les structures de médecine légale thanatologique sont désormais appelées institut médico-légal (IML) ; celles de médecine légale du vivant sont appelées unité médico-judiciaire (UMJ). Un outil informatique existant obsolète
+Les structures de médecine légale thanatologique sont désormais appelées institut médico-légal (IML) ; celles de médecine légale du vivant sont appelées unité médico-judiciaire (UMJ). 
+
+### Un outil informatique existant obsolète
 
 Dans le cadre de la réforme et dès 2011, en lʼabsence dʼoutils informatiques, le Ministère de la Santé a mis en place une plateforme de renseignements : lʼobservatoire National de la Médecine Légale (oNML). La totalité des examens de médecine légale qui sont réalisés, sont consignés par les établissements de santé sièges dʼune structure à lʼexception de lʼunité médico-judiciaire de lʼHôtel-Dieu à Paris, des IML de lʼIRCGN (Institut de Recherche Criminologique de la Gendarmerie Nationale) et de la Préfecture de Police de Paris placés tous les deux sous lʼautorité du ministère de lʼintérieur. Il en est de même des effectifs alloués au regard de lʼorganisation prévue par le schéma.
 
@@ -67,7 +69,7 @@ LʼoNML a peu évolué en fonction des usages et des besoins de ses utilisateurs
 
 Comment concevoir un outil de reporting de l'activité médico-légale qui permettent aux ministères d'avoir un suivi exhaustif de l'activité, tout en ayant une valeur ajoutée pour les utilisateurs finaux (UMJ et IML) ?
 
-## 02 Le produit
+## 2 - Le produit
 
 ### Notre engagement
 
@@ -86,7 +88,7 @@ Cette plateforme sera utilisée par :
 - les ministères, leur permettant de disposer d'indicateurs afin de mieux ajuster l'offre aux besoins.
 - à terme, lʼensemble des utilisateurs y compris ceux du réseau de proximité
 
-## 03 Les dates clées
+## 3 - Les dates clées
 
 ### Juillet-août 2019 : phase de recherche utilisateurs
 
