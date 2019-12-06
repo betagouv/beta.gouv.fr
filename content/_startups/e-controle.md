@@ -50,4 +50,4 @@ Découvrez un rapide aperçu d'e.contrôle à travers ces courtes vidéos:
 - ["En tant que membre d'une équipe de contrôle, j'explore les réponses réponses dans mon navigateur windows"](https://drive.google.com/open?id=1IXCktxuOidKJYdsaoguYyO34gHxsOl5y)
 - ["En tant qu'organisme interrogé, je dépose des documents de réponse à une question"](https://drive.google.com/open?id=1rzZ5LqJnMkHTjmYajHxvZqDyqHafRQL9)
 
-### 📧 [Contactez nous](e-controle@beta.gouv.fr)
+### 📧 [Contactez nous](mailto:e-controle@beta.gouv.fr)
