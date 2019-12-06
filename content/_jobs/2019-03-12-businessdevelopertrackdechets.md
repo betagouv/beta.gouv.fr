@@ -24,9 +24,9 @@ Après 12 mois d’existence, Trackdéchets est adopté par un certain nombre de
 
 Nos objectifs : embarquer un maximum d’utilisateurs sur la plateforme et consolider les outils qui permettront d’apporter plus de transparence et de sécurité dans le secteur.
 
-Les enjeux des 6 prochains mois sont passionnants : 
+Les enjeux des 6 prochains mois seront passionnants : 
 - réussir la dématérialisation totale de la traçabilité, impliquant d’embarquer tous les acteurs clés : producteurs (de secteurs et tailles variés), transporteurs, professionnels de la collecte et du traitement. 
-- pour les professionnels du déchets, des partenariats doivent être mis en place pour maximiser l’impact et faire aboutir l'interfaçage entre leurs outils métiers et Trackdéchets 
+- pour les professionnels du déchets, des partenariats doivent être mis en place pour maximiser l’impact et faire aboutir la connexion entre leurs outils métiers et Trackdéchets 
 - accompagner les fédérations de producteurs vers ces nouvelles pratiques (implications organisationnelles, métier, etc.)
 - répondre aux besoins de connaissance approfondie sur la gestion des déchets, aujourd’hui parcellaire et insuffisamment fiable pour mener de vraies politiques proactives. 
  
@@ -48,11 +48,11 @@ Bien évidemment ce sont les missions types mais tu auras un très fort niveau d
 **Si tu souhaites faire changer les choses et construire un État doté d’outils pour faire face aux défis du XXIe siècle, alors rejoins-nous !**
 
 ## Conditions
-- Contrat : stage de 4 à 5 mois
+- Contrat : mission de 6 mois, probablement renouvelable !
 - Début de la mission : dès que possible
-- Rémunération : 577,50 euros
-- 2 jours / semaine, possible 3 pour commencer et monter en compétence.
-- **Le poste est basé à Paris**, avec possibilité de télétravail bien évidemment. 
+- Durée : 2 jours à 3 jours par semaine
+- Rémunération : on en parle ensemble 
+- **Le poste est basé à Paris**, avec possibilité de télétravail bien évidemment, l’équipe étant distribuée.
 
 ## Comment postuler ?
 Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à emmanuel.flahaut@developpement-durable.gouv.fr.
