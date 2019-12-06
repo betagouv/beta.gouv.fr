@@ -47,7 +47,7 @@ Il sera en expérimentation dans une autre administration de contrôle en 2020.
 ## 📺 Un rapide aperçu
 Découvrez un rapide aperçu d'e.contrôle à travers ces courtes vidéos:
 - ["En tant que membre d'une équipe de contrôle, je consulte les réponses déposées"](https://drive.google.com/open?id=1mvntyQ0TwET-ENb_xRbc32RiAKu2KnBn)
-- ["En tant que membre d'une équipe de contrôle, j'explore les réponses réponses dans mon navigateur windows"](https://drive.google.com/open?id=1rzZ5LqJnMkHTjmYajHxvZqDyqHafRQL9)
+- ["En tant que membre d'une équipe de contrôle, j'explore les réponses réponses dans mon navigateur windows"](https://drive.google.com/open?id=1IXCktxuOidKJYdsaoguYyO34gHxsOl5y)
 - ["En tant qu'organisme interrogé, je dépose des documents de réponse à une question"](https://drive.google.com/open?id=1rzZ5LqJnMkHTjmYajHxvZqDyqHafRQL9)
 
 ### 📧 [Contactez nous](e-controle@beta.gouv.fr)
