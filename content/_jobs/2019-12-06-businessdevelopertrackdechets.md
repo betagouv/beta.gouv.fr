@@ -9,8 +9,6 @@ open: true
 
 *Trackdéchets, l’outil qui aide à gérer la traçabilité des déchets dangereux en toute sécurité cherche un·e business developer pour renforcer son équipe.*
 
----
-
 ## Qui sommes-nous ?
 
 https://trackdechets.beta.gouv.fr/ est une Startup d’État, accélérée par La Fabrique Numérique, l’Incubateur du Ministère de la Transition écologique et solidaire.
