@@ -15,7 +15,7 @@
     <div class="card__content">
       <h3>{{ job.roles | capitalize }}</h3>
       <div class="card__meta">Offre de {% if job.friend %}{{ job.friend | strip_html }}{% else %}{{ startup.title | default: "beta.gouv.fr" | strip_html}}{% endif %}</div>
-      <p>{{ job.excerpt | truncate: 280 | strip_html }}</p>
+      <p>{{ job.excerpt | strip_html | truncate: 260 }}</p>
     </div>
   </a>
   <div class="card__extra">
