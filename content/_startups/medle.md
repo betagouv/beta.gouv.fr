@@ -9,7 +9,7 @@ end:
 link: https://medle.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/medle
 stats: false
-contact: pierre-olivier.mauguet@beta.gouv.fr
+contact: contact.medle@fabrique.social.gouv.fr
 techno:
   - Next.js
   - React
