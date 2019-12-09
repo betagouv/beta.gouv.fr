@@ -1,10 +1,10 @@
 ---
 fullname: Clément Chapalain
-role: Coach
+role: Chef de produit
 github: ClementChapalain
 missions:
   - start: '2018-09-05'
-    end: '2019-12-31'
+    end: '2020-02-28'
     status: independent
 startups:
     - action-bidonvilles
