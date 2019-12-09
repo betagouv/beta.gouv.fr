@@ -25,10 +25,11 @@ Très vite, l’équipe a mis en contact des bénévoles avec ces personnes âg�
 Chacun s’appropriait ce moment de façon différente : certains ont joué au scrabble, d’autres ont cuisiné, d’autres ont jardiné, certains se sont baladés et parfois il s’agissait juste d’échanges et de bons fous-rires.
 Le résultat a été sans appel : les personnes ont verbalisé l’apport de ces rencontres : "J’ai plus d’énergie pendant la journée", "je dors mieux le soir, "j’attends vendredi avec impatience", "j’ai enfin envie de faire quelque chose".
 
-## Equipe / Promotion : 
+## Equipe : 
 Equipe :
 - Sylvia Gonzalez, chargée de mission Handicap
 - Clémence Hiernard, chef de projet (Nature patrimoine végétal)
 - Christine Mauhourat, aide à domicile
 - Nathalie Pavard, agent de l’équipe portage de repas à domicile
-Promotion : <a href="https://beta.gouv.fr/preincubation/promotion/01-neosud.html">Neosud</a>
+
+## Promotion : <a href="https://beta.gouv.fr/preincubation/promotion/01-neosud.html">Neosud</a>
