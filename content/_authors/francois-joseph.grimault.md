@@ -1,15 +1,21 @@
 ---
 fullname: François-Joseph Grimault
+github: fjg
+link: https://www.sharypic.com
 role: Coach
 missions:
   - start: '2017-10-01'
     end: '2019-07-19'
     status: independent
-github: fjg
-link: https://www.sharypic.com
+  - start: '2019-12-05'
+    end:
+    status: independent
+    employer: numa
+startups:
+  - ecolab
 previously:
-    - lotocar
-    - mrs
+  - lotocar
+  - mrs
 ---
 
 Dubito ergo sum
