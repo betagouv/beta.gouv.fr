@@ -6,7 +6,7 @@ incubator: dinsic
 status: death
 start: 2017-06-01
 end:
-link: https://drone.beta.gouv.fr/
+link:
 repository: https://framagit.org/drone
 stats: false
 contact: yohan.boniface@data.gouv.fr

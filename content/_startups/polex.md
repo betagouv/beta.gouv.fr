@@ -17,7 +17,7 @@ contact: frederic.gillodes@interieur.gouv.fr
 
 La lutte contre la fraude est nécessaire pour garantir la sécurité routière et l’équité des candidats.
  
-Depuis 2017, les examens pratique au permis de conduire (le “code”) sont opérés par des prestataires privés. 
+Depuis 2017, les examens théoriques au permis de conduire (le “code”) sont opérés par des prestataires privés. 
 
 Les dispositifs contre la fraude doivent être adaptés aux nouvelles conditions de passage.
 

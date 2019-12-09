@@ -1,16 +1,20 @@
 ---
 fullname: Julien Dauphant
-role: Coach et Développeur
-link: https://twitter.com/jdauphant
+role: Mentor Technique et Produit
+link: 'https://twitter.com/jdauphant'
 missions:
-  - start: '2016-11-03'
-    end: '2019-06-01'
+  - employer: octo
+    start: '2016-11-03'
+    end: '2019-08-31'
     status: independent
-    employer: octo
-startups :
+  - status: dinsic
+    start: '2019-09-01'
+    end: '2022-08-31'
+startups:
   - plante-et-moi
   - aplus
   - e-controle
+previously:
   - signalement
 ---
 

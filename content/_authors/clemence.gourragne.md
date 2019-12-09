@@ -1,9 +1,9 @@
 ---
 fullname: Clémence Gourragne
-role: BizDev (stagiaire)
+role: Chargée de développement 
 missions:
   - start: '2018-11-22'
-    end:
+    end:   '2020-01-31'
     status: admin
     employer: MTES
 startups:

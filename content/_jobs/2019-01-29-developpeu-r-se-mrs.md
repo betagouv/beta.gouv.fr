@@ -1,6 +1,6 @@
 ---
 roles: un·e dev web full stack
-open: true
+open: false
 techno:
   - Python
   - Django

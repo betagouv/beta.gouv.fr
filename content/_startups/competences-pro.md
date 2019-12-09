@@ -1,64 +1,55 @@
 ---
 title: Compétences pro
-mission: Évaluer en ligne les compétences pro à travers des mises en situation
-owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi
-incubator: dinsic
+mission: Favoriser l’insertion en détectant les compétences transversales et valorisant les potentiels à travers un outil de mise en situation numérique
+
+owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi - DGEFP
+incubator: DINSIC
 status: construction
 start: 2018-06-06
 end:
-link:
+link: https://competences-pro.beta.gouv.fr/
 repository: https://github.com/betagouv/competences-pro/
 stats: false
-contact: hubert.leveque@beta.gouv.fr
+contact: gaelle.ottan@beta.gouv.fr
 ---
 
 ## Problème
 
-On constate depuis plusieurs années l’appétence des entreprises pour recruter à partir non pas du CV mais des compétences, dont les compétences techniques (savoir-faire) et les compétences transversales (savoir-être et savoir-penser), souvent regroupées sous le terme « habiletés » ou encore « qualités professionnelles ». Cette approche est particulièrement appréciée pour des embauches concernant des emplois peu qualifiés, et est également privilégiée par Pole emploi.
+Pour les personnes ne disposant pas de diplômes, d’expérience professionnelle probante ou pour celles les plus éloignées du marché de l’emploi, l’accès à l’emploi et/ou la formation est un enjeu national. Alors que le CV ne représente que 20% de l’employabilité d’un candidat, l’approche par les compétences cognitives et transversales doit être privilégiée, car elle permet de favoriser l’apprentissage et ouvre aux potentialités.
 
-Nous aimons, pour parler de ces compétences (à la fois savoirs et habiletés) attendues par les entreprises, utiliser l’expression « compétences pro », et non pas « compétences clés », qui est plus large, est fortement axée sur une remise à niveau des savoirs, et cible moins l’employabilité. Mais une définition précise du référentiel associé à ces compétences pro n'existe pas encore : elles sont proches mais pas identiques aux compétences clés, pour lesquelles il existe de nombreuses lectures : directives européennes, compétences clés françaises, compétences socles pour les régions, RCCSP pour l'ANLCI, etc.
+L’évaluation et la valorisation de ces compétences constitue à ce titre un facteur d’accélération du retour à l’emploi et à la formation. Pourtant aucun outil ne permet facilement, rapidement et de manière ludique de mesurer ces compétences.
 
-De plus, les méthodes actuelles de détection des compétences présentent des limitations :
-
-- se baser sur les compétences listées dans des fiches métiers, comme fait lors des entretiens Pole emploi, ne permet d’identifier qu’une partie des compétences d’une personne ; le dialogue entre le conseiller et le candidat est nécessaire pour un identifier d’autres, liées par exemple à des activités extra-professionnels. Dans les deux cas, la maîtrise de ces compétences est purement déclarative et n’est pas toujours fidèle à la réalité.
-
-- la MRS (méthode de recrutement par simulation), très efficace et approuvée à la fois par les candidats et les entreprises, présente néanmoins quelques problèmes dus à son format :
-  - seules les compétences pro nécessaires à un poste précis sont évaluées lors d’une MRS, elles ne reflètent pas une vision plus globale des compétences qu'un candidat pourrait montrer
-  - elle demande une ingénérie de conception relativement lourde
-  - elle n’est proposée que dans le cadre de recrutement en partenariat avec une entreprise alors qu’elle pourrait être effectuée de manière spontanée, afin qu’un candidat puisse valider ses compétences même s’il n’y a pas de besoin immédiat, et qu'un recruteur puisse être assuré d'une bonne maîtrise de celles-ci
-
-- CLéA, dispositif d’évaluation permettant de bien qualifier un grand nombre de compétences clés, n’est pas parfaitement adapté au besoin des entreprises :
-  - le spectre des connaissances évaluées est plus large que celui attendu par les entreprises pour les postes peu qualifiés
-  - l’évaluation, qui prend souvent la forme de quiz, est longue et assez scolaire, ce qui rebute certains candidats
-  - ce sont des savoirs qui sont généralement évalués plus que des compétences à proprement parler ; le certificat actuel prouve donc aux entreprises que les candidats ont le « code » alors que les entreprises cherchent des « conducteurs »
-  - enfin, les logiciels d’évaluation ont parfois une ergonomie perfectible
 
 ## Solution
 
-Dans un premier temps, nous allons faire la synthèse des différents référentiels existants pour faire émerger un référentiel des compétences pro. Nous le ferons valider auprès de nos partenaires, comme Pole emploi.
+Compétences Pro ambitionne de s’imposer comme un standard d’évaluation des compétences transversales au travers de mini jeux vidéo sérieux, pour un public éloigné du marché de l’emploi, notamment les personnes en situation d’illettrisme.
 
-Nous créerons ensuite un logiciel d’évaluation d'une partie des compétences pro. Les compétences évaluées seront non seulement les habiletés attendues par les entreprises, mais également les savoirs qu’elles jugent indispensables, dont nous étudierons la mobilisation lors de mises en situation.
+## Mission, objectif et cible
 
-Il reposera sur des mises en situation immersives inspirées de la MRS, ce qui permettra d’une part d’évaluer de manière fidèle les compétences pro, mais aussi d’apporter un côté réaliste et ludique à notre évaluation, plus motivant qu’une approche scolaire.
+Missions
 
-Il ne se basera pas uniquement sur les résultats bruts des exercices, mais également sur l’extrapolation du raisonnement et des comportement mis en place par le candidat à partir des actions qu’il a effectuées. Cela permettra de confirmer la bonne mise en oeuvre des compétences pro évaluées.
+Notre mission principale est d’offrir un outil permettant d’accélérer l’insertion ou le retour à l’emploi ou à la formation. Pour ce faire, Compétences Pro évalue les compétences transversales/ cognitives les plus recherchées pour les métiers peu qualifiés et valorise le potentiel des candidats plutôt que les compétences métiers et l’employabilité immédiate. En privilégiant le ‘faire’ via la mise en situation, Compétences Pro est accessible aux personnes en situation d'illettrisme et pourrait permettre dans ce cadre, d’être également utilisé comme outil de détection.
 
-À l’issue de l’évaluation, le candidat se verra d’abord présenter les compétences pro qu’il maîtrise afin de le valoriser, et il sera encouragé à les mettre en avant lors de sa recherche d’emploi. Lui seront aussi présentées les compétences qu’il ne maîtrise pas, accompagnées de recommandations de formations présentées de manière encourageante pour le pousser à compléter son profil de compétences. Enfin, il pourra aussi être orienté vers d’autres évaluations, comme CLéA, ou des dispositifs plus ciblés comme la MRS.
+Objectifs
 
-## Mesures d’impact
+L’objectif prioritaire de Compétences Pro est de fournir des éléments factuels de positionnement des compétences transversales et certains savoirs de base (numératie et littératie) en vue d’identifier les dispositifs adaptés et de faciliter l’orientation vers: 
 
-L’impact social recherché est la diminution du nombre de personnes en recherche d’emploi en France, une mesure d’usage plus réaliste est l’augmentation du nombre d’inscrits en formation destinées aux personnes avec des déficits en compétences pro.
+- Des formations compétences de base (Fle, Cléa, OCB)...
+- Des formations professionnelles (notamment dispensées par les OPCO des secteurs en tension).
+- Des métiers en tension cherchant à recruter sans qualification des profils disposant des compétences transversales recherchées.
 
-## Mise en marché
+L’objectif secondaire est de permettre à un public souvent dévalorisé et en perte de confiance, d’identifier des points forts dans leur profil et ainsi ouvrir des perspectives et d’engager le public en recherche dans une démarche active et impliquée, en remobilisant leur motivation. 
 
-Les prescripteurs de notre solution seront dans un premier temps ceux qui prescrivent aujourd’hui des évaluations CLéA :
+Cibles:
 
--  Conseillers en évolution professionnels
--  CIBC
--  Pole emploi
--  Missions locales
--  Cap emploi
--  Chantiers d’insertion
--  etc.
+- Demandeurs d'emploi infrabac (7000 nouveaux inscrits mensuel) et/ ou en recherche de réorientation (560 000 personnes répertoriées en 2019)
+- Demandeurs d'emploi longue durée (+ 12 mois)
+- Bénéficiares du RSA (760 000 bénéficiaires sont inscrits chez Pôle emploi)
+- Jeunes sans diplôme (plus d'un million)
+- Public en situation d'illettrisme (7% de la population française)
 
-L’avantage pour ces prescripteurs à utiliser notre solution est qu’elle leur permettra d’identifier précisément les compétences d’un candidat attendues par les entreprises et qu'elle leur proposera des orientations précises, non limitées à des remises à niveau.
+
+## Indicateurs d'impact
+
+- Nombre de personnes intéressées pour bénéficier d'un accompagnement personnalisé à l'issue de l'évaluation
+- Nombre de personnes ayant retrouvé un emploi ou une formation suite à l'utilisation de l'outil

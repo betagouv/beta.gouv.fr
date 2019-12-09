@@ -1,7 +1,7 @@
 ---
 roles: une chargée ou un chargé de développement (stage)
 startup: mrs
-open: true
+open: false
 ---
 
 La Startup d’État Mes Remboursements Simplifiés (MRS) de la Caisse Primaire d'Assurance Maladie (CPAM) de la Haute-Garonne recherche un chargé ou une chargée de développement en stage pour intégrer l’équipe MRS.

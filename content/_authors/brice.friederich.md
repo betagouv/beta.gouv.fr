@@ -6,7 +6,7 @@ missions:
   - start: '2018-05-22'
     end: '2019-09-30'
     status: independent
-    employer: ey
+    employer: inops
 startups:
     - perspectives
 ---

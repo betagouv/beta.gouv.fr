@@ -3,10 +3,11 @@ fullname: Faustine Massin
 role: Développeuse
 github: FaustineMassin
 missions:
-  - start: '2019-04-12'
-    end: '2020-04_12'
+  - employer: OCTO
+    end: '2020-04-12'
+    start: '2019-04-12'
     status: service
-    employer: OCTO
-startups: 
+startups:
   - pass-culture
 ---
+

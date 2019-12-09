@@ -4,7 +4,7 @@ role: Chargée de développement territorial Hérault
 github: ccompera
 missions:
   - start: '2018-04-05'
-    end: '2019-05-31'
+    end: '2019-12-31'
     status: admin
     employer: Ministère de la Culture
 startups:

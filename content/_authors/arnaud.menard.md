@@ -6,5 +6,7 @@ missions:
     end: '2020-03-14'
     status: independent
 startups:
+    - anais
+previously:
     - sepia
 ---

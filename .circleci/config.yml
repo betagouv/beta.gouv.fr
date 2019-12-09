@@ -18,9 +18,9 @@ jobs:
 
       - restore_cache:
           keys:
-            - gem-cache-v3-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
-            - gem-cache-v3-{{ arch }}-{{ .Branch }}
-            - gem-cache-v3
+            - cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+            - cache-v2-{{ arch }}-{{ .Branch }}
+            - cache-v2
 
       - run:
           name: Bundle Install
@@ -34,9 +34,11 @@ jobs:
             pip3 install --user --upgrade html5validator  # will install in $HOME/.local
 
       - save_cache:
-          key: gem-cache-v3-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+          key: cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
+            - ~/.local
+            - ~/.cache
 
       - run:
           name: Check authors file name structure (first_name.last_name.md)

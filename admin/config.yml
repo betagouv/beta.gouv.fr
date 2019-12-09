@@ -1,6 +1,5 @@
 backend:
   name: github
-  base_url: https://api.staticweb-01.etalab.gouv.fr
   site_domain: beta.gouv.fr
   repo: betagouv/beta.gouv.fr
   # Personnalisation des messages de commit
@@ -118,17 +117,20 @@ collections:
           - { label: "__OpenFisca__", value: "_openfisca_" }
           - { label: "__Autre ou à l'aide : je pense à contacter un administrateur après avoir rempli ma fiche__", value: "_help_me_" }
           - { label: "A Dock", value: "a-dock" }
-          - { label: "Action Bidonvilles", value: "action-bidonvilles" }
           - { label: "Aeris", value: "aeris" }
           - { label: "Aidants Connect", value: "aidantsconnect" }
           - { label: "Aides-territoires", value: "aides-territoires" }
+          - { label: "ANAIS", value: "anais" }
+          - { label: "ANDi", value: "andi" }
+          - { label: "Anotea", value: "anotea" }
           - { label: "API Drones", value: "api-drones" }
           - { label: "API Entreprise", value: "api-entreprise" }
           - { label: "API Géo", value: "api-geo" }
           - { label: "API Particulier", value: "api-particulier" }
           - { label: "api.gouv.fr", value: "api.gouv.fr" }
-          - { label: "A+, le service public VIP pour tous.", value: "aplus" }
+          - { label: "Administration+, le service public VIP pour tous", value: "aplus" }
           - { label: "ASSEC", value: "assec" }
+          - { label: "Saisissez au vol !", value: "auvol" }
           - { label: "Avril - La V.A.E. facile", value: "avril" }
           - { label: "Base Adresse Nationale", value: "ban" }
           - { label: "Bourse", value: "bourse" }
@@ -144,13 +146,14 @@ collections:
           - { label: "data.gouv.fr", value: "data.gouv.fr" }
           - { label: "demarches-simplifiees.fr", value: "demarches-simplifiees.fr" }
           - { label: "DiagOriente", value: "diagoriente" }
+          - { label: "Disinfo", value: "disinfo" }
           - { label: "DomiFa (domiciliation facilitée)", value: "domifa" }
           - { label: "DossierSCO", value: "dossiersco" }
           - { label: "e-Chauffeur", value: "e-chauffeur" }
           - { label: "E-contrôle", value: "e-controle" }
           - { label: "e-MJPM", value: "e-mjpm" }
           - { label: "Plateforme EAC", value: "eac" }
-          - { label: "Ecoscore Bêta", value: "ecoscore" }
+          - { label: "EcoLab", value: "ecolab" }
           - { label: "Étudiant entrepreneur", value: "etudiant-entrepreneur" }
           - { label: "Fiches de banc", value: "fiches-de-banc" }
           - { label: "Fil’harmonic", value: "filharmonic" }
@@ -158,6 +161,7 @@ collections:
           - { label: "geo.data.gouv.fr", value: "geo.data.gouv.fr" }
           - { label: "GPS usagers", value: "gps-usagers" }
           - { label: "HistoVec", value: "histovec" }
+          - { label: "Itou", value: "itou" }
           - { label: "Kelrisks", value: "kelrisks" }
           - { label: "La Bonne Boîte", value: "la-bonne-boite" }
           - { label: "La Bonne Formation", value: "la-bonne-formation" }
@@ -171,13 +175,14 @@ collections:
           - { label: "Memo", value: "memo" }
           - { label: "Mes Aides", value: "mes-aides" }
           - { label: "Mon-entreprise.fr", value: "mon-entreprise" }
-          - { label: "Mon stage de 3è", value: "monstage" }
+          - { label: "Mon stage de 3e", value: "monstage" }
           - { label: "Les aides de l’Anah", value: "mpal" }
           - { label: "Marchés publics simplifiés", value: "mps" }
           - { label: "Mes remboursements simplifiés (MRS)", value: "mrs" }
           - { label: "OGP Toolbox", value: "ogptoolbox" }
           - { label: "Open Académie", value: "open-academie" }
           - { label: "Pass Culture", value: "pass-culture" }
+          - { label: "Peps", value: "peps" }
           - { label: "Permis de construire facile", value: "permis-de-construire-facile" }
           - { label: "Perspectives", value: "perspectives" }
           - { label: "Pix", value: "pix" }
@@ -188,7 +193,9 @@ collections:
           - { label: "Registre de preuve de covoiturage", value: "preuve-de-covoiturage" }
           - { label: "Prélèvement à la source pour les indépendants", value: "psi" }
           - { label: "Réserve civique", value: "reserve-civique" }
+          - { label: "Résorption bidonvilles", value: "resorption-bidonvilles" }
           - { label: "Mes démarches retraite pas à pas", value: "retraite" }
+          - { label: "Reuni", value: "reuni" }
           - { label: "SEPIA", value: "sepia" }
           - { label: "SignalConso", value: "signalement" }
           - { label: "Signaux Faibles", value: "signaux-faibles" }
@@ -215,17 +222,20 @@ collections:
           - { label: "__OpenFisca__", value: "_openfisca_" }
           - { label: "__Autre ou à l'aide : je pense à contacter un administrateur après avoir rempli ma fiche__", value: "_help_me_" }
           - { label: "A Dock", value: "a-dock" }
-          - { label: "Action Bidonvilles", value: "action-bidonvilles" }
           - { label: "Aeris", value: "aeris" }
           - { label: "Aidants Connect", value: "aidantsconnect" }
           - { label: "Aides-territoires", value: "aides-territoires" }
+          - { label: "ANAIS", value: "anais" }
+          - { label: "ANDi", value: "andi" }
+          - { label: "Anotea", value: "anotea" }
           - { label: "API Drones", value: "api-drones" }
           - { label: "API Entreprise", value: "api-entreprise" }
           - { label: "API Géo", value: "api-geo" }
           - { label: "API Particulier", value: "api-particulier" }
           - { label: "api.gouv.fr", value: "api.gouv.fr" }
-          - { label: "A+, le service public VIP pour tous.", value: "aplus" }
+          - { label: "Administration+, le service public VIP pour tous", value: "aplus" }
           - { label: "ASSEC", value: "assec" }
+          - { label: "Saisissez au vol !", value: "auvol" }
           - { label: "Avril - La V.A.E. facile", value: "avril" }
           - { label: "Base Adresse Nationale", value: "ban" }
           - { label: "Bourse", value: "bourse" }
@@ -241,13 +251,14 @@ collections:
           - { label: "data.gouv.fr", value: "data.gouv.fr" }
           - { label: "demarches-simplifiees.fr", value: "demarches-simplifiees.fr" }
           - { label: "DiagOriente", value: "diagoriente" }
+          - { label: "Disinfo", value: "disinfo" }
           - { label: "DomiFa (domiciliation facilitée)", value: "domifa" }
           - { label: "DossierSCO", value: "dossiersco" }
           - { label: "e-Chauffeur", value: "e-chauffeur" }
           - { label: "E-contrôle", value: "e-controle" }
           - { label: "e-MJPM", value: "e-mjpm" }
           - { label: "Plateforme EAC", value: "eac" }
-          - { label: "Ecoscore Bêta", value: "ecoscore" }
+          - { label: "EcoLab", value: "ecolab" }
           - { label: "Étudiant entrepreneur", value: "etudiant-entrepreneur" }
           - { label: "Fiches de banc", value: "fiches-de-banc" }
           - { label: "Fil’harmonic", value: "filharmonic" }
@@ -255,6 +266,7 @@ collections:
           - { label: "geo.data.gouv.fr", value: "geo.data.gouv.fr" }
           - { label: "GPS usagers", value: "gps-usagers" }
           - { label: "HistoVec", value: "histovec" }
+          - { label: "Itou", value: "itou" }
           - { label: "Kelrisks", value: "kelrisks" }
           - { label: "La Bonne Boîte", value: "la-bonne-boite" }
           - { label: "La Bonne Formation", value: "la-bonne-formation" }
@@ -268,13 +280,14 @@ collections:
           - { label: "Memo", value: "memo" }
           - { label: "Mes Aides", value: "mes-aides" }
           - { label: "Mon-entreprise.fr", value: "mon-entreprise" }
-          - { label: "Mon stage de 3è", value: "monstage" }
+          - { label: "Mon stage de 3e", value: "monstage" }
           - { label: "Les aides de l’Anah", value: "mpal" }
           - { label: "Marchés publics simplifiés", value: "mps" }
           - { label: "Mes remboursements simplifiés (MRS)", value: "mrs" }
           - { label: "OGP Toolbox", value: "ogptoolbox" }
           - { label: "Open Académie", value: "open-academie" }
           - { label: "Pass Culture", value: "pass-culture" }
+          - { label: "Peps", value: "peps" }
           - { label: "Permis de construire facile", value: "permis-de-construire-facile" }
           - { label: "Perspectives", value: "perspectives" }
           - { label: "Pix", value: "pix" }
@@ -285,7 +298,9 @@ collections:
           - { label: "Registre de preuve de covoiturage", value: "preuve-de-covoiturage" }
           - { label: "Prélèvement à la source pour les indépendants", value: "psi" }
           - { label: "Réserve civique", value: "reserve-civique" }
+          - { label: "Résorption bidonvilles", value: "resorption-bidonvilles" }
           - { label: "Mes démarches retraite pas à pas", value: "retraite" }
+          - { label: "Reuni", value: "reuni" }
           - { label: "SEPIA", value: "sepia" }
           - { label: "SignalConso", value: "signalement" }
           - { label: "Signaux Faibles", value: "signaux-faibles" }

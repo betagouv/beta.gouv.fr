@@ -1,13 +1,19 @@
+{% assign incubators = site.incubators %}
+
 <nav class="side-pane">
   <ul class="side-pane__menu sticky">
     <li {% if page.url == "/incubateurs/" %}class="active"{% endif %}>
       <a class="side-pane__link" href="/incubateurs">Le manifeste</a>
     </li>
-  {% assign incubators = site.incubators %}
-  {% for incubator in incubators %}
-    <li {% if page.id == incubator.id %}class="active"{% endif %}>
-      <a class="side-pane__link" href="{{ incubator.url | relative_url }}">{{ incubator.title }}</a>
+    <li class="side-pane__dropdown unfolded">
+      <a href="/incubateurs/dinsic.html">Les incubateurs</a>
+      <ul class="side-pane__submenu">
+          {% for incubator in incubators %}
+          <li {% if page.id == incubator.id %}class="active"{% endif %}>
+            <a href="{{ incubator.url | relative_url }}">{{ incubator.title }}</a>
+          </li>
+            {% endfor %}
+        </ul>
     </li>
-  {% endfor %}
   </ul>
 </nav>

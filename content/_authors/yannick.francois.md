@@ -1,15 +1,15 @@
 ---
 fullname: Yannick François
 role: Développeur
-link: https://elsif.fr
 github: yaf
+link: 'https://elsif.fr'
 missions:
-  - start: '2018-12-12'
-    end: '2019-03-31'
+  - employer: Scopyleft
+    end: '2019-12-31'
+    start: '2018-12-12'
     status: service
-    employer: ut7
 startups:
-    - dossiersco
+  - dossiersco
 ---
 
-Développeur à tout faire, accompagne les apprenants en programmation.
+Développeur à tout faire.

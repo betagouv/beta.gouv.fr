@@ -3,13 +3,13 @@ title: CandiLib
 mission: Réserver simplement sa place d'examen pratique au permis de conduire
 owner: Ministère de l'Intérieur
 incubator: lab-mi
-status: construction
+status: consolidation
 start: 2018-05-01
 end:
-link: https://beta.interieur.gouv.fr/candilib
+link: https://beta.interieur.gouv.fr/candilib/
 repository: https://github.com/LAB-MI/candilibV2
 stats: false
-contact: frederic.gillodes@interieur.gouv.fr
+contact: candilib@interieur.gouv.fr
 ---
 
 ## Des conditions dégradées pour les candidats libres
@@ -38,12 +38,17 @@ Ainsi Candilib permet au candidat de bénéficier de délais maitrisés, d’une
 
 Candilib permet aussi à l’administration de respecter l’équité de traitement entre tous les candidats, d’optimiser la gestion des places d’examen en limitant les non-présentations de candidats, et de libérer du temps d’agents dédiés à cette gestion.
 
-
-
 ## Lancement progressif
 
-Une version beta est testée en Seine-Saint-Denis depuis Juillet 2018. Sur 6 mois, le taux de non présentation est de 1% versus 18% pour les candidats libres convoqués selon la méthode traditionnelle. 
+Une version beta a été testée en Seine-Saint-Denis pendant 1 an. Durant cette période, le taux d'absentéisme a été de 1,3% contre 25% pour les candidat·e·s libres convoqué·e·s selon la méthode traditionnelle. Depuis le 21 août 2019, cette expérimentation a été élargie à l'ensemble des départements d'Ile de France et au Rhône. 
 
-Les résultats restent à prouver en 2019 sur la réduction des délais et la réussite.
+### Le principe reste le même :
+L'inscription à candilib se fait obligatoirement après réception d'un mail d'invitation envoyé par les services départementaux en charge de l'expérimentation. La priorité est donnée aux cantdidat·e·s qui sont en attente depuis plusieurs mois.
 
-Une nouvelle version est lancée depuis fin décembre. L'expérimentation doit être étendue à d'autres départements en 2019.
+Pour rappel, les candidat·e·s qui peuvent faire partie de l'expérimentation sont inscrits sur le [site Permis de conduire de l'ANTS](https://permisdeconduire.ants.gouv.fr/Services-associes/Effectuer-une-demande-de-permis-de-conduire-en-ligne), ont réussi l'épreuve théorique du code de la route et ont effectué une demande de place d'examen en candidat libre.
+
+La demande de place d'examen en candidat libre s'effectue auprès du service en charge des examens du permis de conduire de votre lieu de résidence (information et précisions disponibles sur le [site services-public.fr](https://www.service-public.fr/particuliers/vosdroits/F2825)). Toute demande en dehors de ce circuit ne peut pas être prise en compte.
+
+**Les personnes inscrites par ce circuit seront informées par mail de l'ouverture de candilib dans leur département.**
+
+Si vous n'avez pas trouvé de réponse à vos questions dans ces informations, vous pouvez nous contacter à cette adresse [candilib@interieur.gouv.fr](mailto:candilib@interieur.gouv.fr?subject=question_betaGouv).

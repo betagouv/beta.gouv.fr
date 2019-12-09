@@ -8,8 +8,8 @@ start: 2018-01-01
 end:
 link: https://camino.beta.gouv.fr
 repository: https://github.com/MTES-MCT/camino-ui
-stats: false
-contact: contact@camino.beta.gouv.fr
+stats: true
+contact: camino@beta.gouv.fr
 ---
 
 ## Le problème

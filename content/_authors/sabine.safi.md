@@ -4,7 +4,7 @@ role: PO / Chargée de déploiement
 github: sabinesafi
 missions:
   - start: '2019-02-04'
-    end:
+    end: '2020-02-04'
     status: independent
     employer: lazone
 startups:

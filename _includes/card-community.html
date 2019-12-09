@@ -19,55 +19,70 @@
   {% endif %}
 {% endif %}
 
-<div class="card">
-  {% if author.link %}<a href="{{ author.link }}" target="\_blank" rel="noopener">{% endif %}
-    <div class="card__cover">
-      {% include avatar.html author=author force=true %}
+<div class="card card__alternative">
+    <div class="card__body">
+        {% if author.link %}<a href="{{ author.link }}" target="\_blank" rel="noopener">{% endif %}
+        <div class="card__content">
+          <h3>{{ author.fullname }}</h3>
+          <div class="card__meta">
+            {{ author.role }}
+          </div>
+        </div>
+        {% if author.link %}</a>{% endif %}
+        <div class="card__cover">
+          {% include avatar.html author=author force=true %}
+        </div>
     </div>
-    <div class="card__content">
-      <h3>{{ author.fullname }}</h3>
-      <div class="card__meta">
-        {{ author.role }}
-      </div>
-      {{ author.content | markdownify }}
-    </div>
-  {% if author.link %}</a>{% endif %}
-  <div class="card__extra">
-    {% for startup in author.startups %}
-      {% if startup == "_in_progress_" %}
-        <div class="label {{ label }}">Fiche produit à venir</div>
-        {% continue %}
-      {% endif %}
-      {% if startup == "_alpha_" %}
-        <div class="label {{ label }}"><a href="/alpha/">Formation Alpha</a></div>
-        {% continue %}
-      {% endif %}
-      {% if startup == "_openfisca_" %}
-        <div class="label {{ label }}"><a href="https://openfisca.org/">OpenFisca</a></div>
-        {% continue %}
-      {% endif %}
-      {% if startup == "_help_me_" %}
-        {% continue %}
-      {% endif %}
-      {% capture startup_id %}/startups/{{ startup }}{% endcapture %}
-      {% assign this_startup = site.startups | where: "id", startup_id | first %}
-      <div class="label {{ label }}"><a href="{{ this_startup.url }}">{{ this_startup.title }}</a></div>
-    {% endfor %}
-    {% for startup in author.previously %}
-      {% if startup == "_in_progress_" or startup == "_help_me_" %}
-        {% continue %}
-      {% endif %}
-      {% if startup == "_alpha_" %}
-        <div class="label label--inactive"><a href="/alpha/">Formation Alpha</a></div>
-        {% continue %}
-      {% endif %}
-      {% if startup == "_openfisca_" %}
-        <div class="label label--inactive"><a href="https://openfisca.org/">OpenFisca</a></div>
-        {% continue %}
-      {% endif %}
-      {% capture startup_id %}/startups/{{ startup }}{% endcapture %}
-      {% assign this_startup = site.startups | where: "id", startup_id | first %}
-      <div class="label label--inactive"><a href="{{ this_startup.url }}">{{ this_startup.title }}</a></div>
-    {% endfor %}
-  </div>
+
+    {% if author.content %}
+        <div class="card__content author-quote">{{ author.content | markdownify }}</div>
+    {% endif %}
+
+    {% assign total_startups = [] %}
+    {% if author.startups %}
+        {% assign total_startups = total_startups | concat: author.startups %}
+    {% endif %}
+    {% if author.previously %}
+        {% assign total_startups = total_startups | concat: author.previously %}
+    {% endif %}
+    {% assign total_count=total_startups | size %}
+    {% capture taille_autres %}{{ total_count | minus:5 }}{% endcapture %}
+
+    {% if total_startups %}
+        <div class="card__extra">
+          {% for startup in total_startups %}
+            {% capture startup_label %}{{ label }}{% endcapture %}
+            {% assign is_previously=author.previously contains startup %}
+            {% if is_previously %}
+                {% capture startup_label %}label--inactive{% endcapture %}
+            {% endif %}
+            {% if forloop.index > 5 %}
+              <div class="label label--inactive">Et {{ taille_autres }} autres</div>
+              {% break %}
+            {% endif %}
+
+            {% if startup == "_help_me_" %}
+              {% continue %}
+            {% endif %}
+            {% if startup == "_in_progress_" %}
+              <div class="label {{ startup_label }}">Fiche produit à venir</div>
+              {% continue %}
+            {% endif %}
+            {% if startup == "_alpha_" %}
+              <div class="label {{ startup_label }}"><a href="/alpha/">Formation Alpha</a></div>
+              {% continue %}
+            {% endif %}
+            {% if startup == "_openfisca_" %}
+              <div class="label {{ startup_label }}"><a href="https://openfisca.org/">OpenFisca</a></div>
+              {% continue %}
+            {% endif %}
+            {% if startup == "_help_me_" %}
+              {% continue %}
+            {% endif %}
+            {% capture startup_id %}/startups/{{ startup }}{% endcapture %}
+            {% assign this_startup = site.startups | where: "id", startup_id | first %}
+            <div class="label {{ startup_label }}"><a href="{{ this_startup.url }}">{{ this_startup.title }}</a></div>
+          {% endfor %}
+        </div>
+    {% endif %}
 </div>

@@ -8,11 +8,11 @@ start: 2016-06-08
 end:
 link: https://pix.fr
 repository: https://github.com/1024pix/pix/
-stats: false
+stats: true
 contact: contact@pix.fr
 ---
 
-Pix s'adresse à tous les citoyen·ne·s français·es et francophones (élèves, étudiant·e·s, professionnel·le·s, décrocheur·se·s, demandeur·se·s d'emploi, etc.) qui souhaitent mesurer, développer et valoriser leurs compétences numériques.
+Pix s'adresse aux françaises, français et francophones (en études, en situation de décrochage, en activité professionnelle, à la recherche d'un emploi, etc.) qui souhaitent mesurer, développer et valoriser leurs compétences numériques.
 
 Le service se présente sous la forme d'une plateforme en ligne d'évaluation et de certification des compétences numériques.
 

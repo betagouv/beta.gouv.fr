@@ -4,10 +4,13 @@ role: Développeur
 github: tglatt
 missions:
   - start: '2019-02-18'
-    end: '2019-06-30'
+    end: '2019-12-31'
     status: independent
 startups:
     - tremplin
+    - workinfrance
+    - egapro
+    - e-emjpm
 ---
 
-j'apprécie accompagner les projets dès la phase de conception et imaginer collectivement des solutions adaptées aux besoins des utilisateurs.
+Accompagner les projets / imaginer collectivement des solutions adaptées et simples

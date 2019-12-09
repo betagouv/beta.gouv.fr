@@ -4,7 +4,7 @@ role: Chargée de développement territorial Finistère et Guyane
 avatar: https://avatars3.githubusercontent.com/u/29817959?s=460&v=4
 missions:
   - start: '2018-04-05'
-    end: '2019-05-31'
+    end: '2019-12-31'
     status: admin
     employer: Ministère de la Culture
 startups:

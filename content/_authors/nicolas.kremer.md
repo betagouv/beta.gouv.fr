@@ -3,9 +3,11 @@ fullname: Nicolas Kremer
 role: Développeur
 github: soulso
 missions:
-  - start: '2018-12-13'
-    end: '2019-09-30'
+  - start: '2019-09-24'
+    end: '2019-12-31'
     status: independent
 startups:
+    - codedutravail
+previously:
     - gps-usagers
 ---

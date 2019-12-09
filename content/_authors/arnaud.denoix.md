@@ -6,9 +6,10 @@ missions:
   - start: '2018-12-07'
     end:
     status: independent
-    employer: dinsic
 startups:
+  - itou
   - avril
+  - itou 
   - la-bonne-formation
   - memo
 ---
