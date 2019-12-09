@@ -26,7 +26,6 @@ Chacun s’appropriait ce moment de façon différente : certains ont joué au s
 Le résultat a été sans appel : les personnes ont verbalisé l’apport de ces rencontres : "J’ai plus d’énergie pendant la journée", "je dors mieux le soir, "j’attends vendredi avec impatience", "j’ai enfin envie de faire quelque chose".
 
 ## Equipe : 
-Equipe :
 - Sylvia Gonzalez, chargée de mission Handicap
 - Clémence Hiernard, chef de projet (Nature patrimoine végétal)
 - Christine Mauhourat, aide à domicile
