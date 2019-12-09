@@ -10,7 +10,7 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact:preincubation@beta.gouv.fr
+contact: preincubation@beta.gouv.fr
 ---
 
 ## Problème investigué :
