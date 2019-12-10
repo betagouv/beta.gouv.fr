@@ -13,12 +13,12 @@ SignalConso recherche un chargé de déploiement axé « professionnels ».
 Poste ouvert le 10/12/2019
 
 ## Qui sommes nous ?
-PLa DGCCRF, autorité de contrôle, agit en faveur :
+La DGCCRF, autorité de contrôle, agit en faveur :
 - du respect des règles de la concurrence ;
 - de la protection économique des consommateurs ;
 - de la sécurité et de la conformité des produits et des services.
 
-En vue d’améliorer l’efficience son action, il est nécessaire de mieux prendre en compte les retours des consommateurs pour programmer les contrôles. L’objectif de SignalConso est de permettre aux consommateurs de signaler des anomalies dans le cadre de leurs actes de consommation,  sans formalisme lourd, via un service ouvert sur internet. Ces signalements sont directement communiqués à la DGCCRF et aux professionnels concernés.  
+En vue d’améliorer l’efficience son action, il est nécessaire de mieux prendre en compte les retours des consommateurs pour programmer les contrôles. L’objectif de SignalConso est de permettre aux consommateurs de signaler des anomalies dans le cadre de leurs actes de consommation, sans formalisme lourd, via un service ouvert sur internet. Ces signalements sont directement communiqués à la DGCCRF et aux professionnels concernés.  
 En savoir plus : https://signalconso.beta.gouv.fr/   https://beta.gouv.fr/startup/signalement.html
 
 ## Ta mission
