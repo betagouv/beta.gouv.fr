@@ -4,7 +4,7 @@ github: edupedup
 role: Ops
 missions:
   - start: '2019-04-15'
-    end: '2019-12-31'
+    end: '2020-02-31'
     status: service
     employer: octo
 startups:
