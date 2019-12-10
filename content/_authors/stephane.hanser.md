@@ -5,11 +5,11 @@ link: https://captive.fr
 github: shanser
 missions:
   - start: '2019-02-25'
-    end: '2019-12-31'
+    end: '2020-06-30'
     status: service
     employer: ut7
 startups:
-  - competences-pro
+  - eva
 ---
 
 Développeur avec du sens, adepte du TDD et des déploiements de logiciels fonctionnels
