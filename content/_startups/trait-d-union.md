@@ -6,9 +6,9 @@ incubator: dinsic
 status: construction
 start: 2019-01-01
 end:
-link: https://l.traitdunion.beta.gouv.fr/candidats?utm_source=SiteBeta
+link: https://traitdunion.beta.gouv.fr/candidats?utm_source=SiteBeta
 repository: https://github.com/betagouv/trait-d-union
-stats: false
+stats: true
 contact: contact@traitdunion.beta.gouv.fr
 ---
 
