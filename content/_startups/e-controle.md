@@ -31,12 +31,12 @@ Les équipes de contrôle doivent surveiller chaque semaine la bonne réception 
 # La solution : e.contrôle
 
 ## 💻 Un service numérique pour faciliter les échanges de document durant les contrôles
-Ces activités de transmissions et de réceptions de documents durant les contrôles de la Cour des compte ne sont aujourd’hui facilitées par aucun outil suffisamment adapté, si bien qu’une marge d’optimisation existe.
+Les activités de transmissions et de réceptions de documents durant les contrôles de la Cour des compte ne sont aujourd’hui facilitées par aucun outil suffisamment adapté, si bien qu’une marge d’optimisation existe.
 L’outil proposé peut être utilisé pour tous les types de contrôles de la Cour des comptes. Il peut aussi servir à d'autres organismes de contrôle rencontrant les mêmes difficultés.
 La mise en place d’un outil dédié permet de simplifier la relation entre un organisme de contrôle et des structures contrôlés afin de leur permettre de se concentrer sur les activités ayant le plus d’impact pour les citoyens.
 
 ## 🙌 Quels sont les gains pour les utilisateurs ?
-- Du temps de gagné : les centaines ou milliers de fichiers de réponses aux questionnaires sont classés et renommés automatiquement. Plus aucun n'agent n'a besoin d'y penser des heures.
+- Du temps de gagné : les centaines ou milliers de fichiers de réponses aux questionnaires sont classés et renommés automatiquement. Plus aucun agent n'a besoin d'y penser des heures.
 - Du temps d'économisé : les équipes de contrôle ne sont dépendantes d'aucun autre service pour créer des espaces de dépots ou des comptes utilisateurs. Elles n'ont plus besoin d'attendre 24 ou 48h.
 - Du stress en moins : l'interface simplifiée est compréhensible pour le plus grand nombre.
 
