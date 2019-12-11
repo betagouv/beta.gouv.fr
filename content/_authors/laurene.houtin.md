@@ -5,11 +5,11 @@ github: laurenehoutin
 link: https://www.ad-hoc-lab.com
 missions:
   - start: '2019-09-26'
-    end: '2019-12-31'
+    end: '2020-06-30'
     status: service
     employer: AD-HOC Lab
-startups: 
-  - competences-pro
+startups:
+  - eva
 ---
 
-Réfutabilité/Méthode/Ethique 
+Réfutabilité/Méthode/Ethique

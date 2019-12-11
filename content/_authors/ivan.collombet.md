@@ -9,7 +9,7 @@ missions:
 previously:
   - place-des-entreprises
   - signaux-faibles
-  - competences-pro
+  - eva
   - diagoriente
   - signalement
   - lapins

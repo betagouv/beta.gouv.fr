@@ -142,7 +142,7 @@ collections:
           - { label: "Classes à 12", value: "classes12" }
           - { label: "Co-construisons", value: "co-construisons" }
           - { label: "Code du travail numérique", value: "codedutravail" }
-          - { label: "Compétences pro", value: "competences-pro" }
+          - { label: "eva", value: "eva" }
           - { label: "data.gouv.fr", value: "data.gouv.fr" }
           - { label: "demarches-simplifiees.fr", value: "demarches-simplifiees.fr" }
           - { label: "DiagOriente", value: "diagoriente" }
@@ -247,7 +247,7 @@ collections:
           - { label: "Classes à 12", value: "classes12" }
           - { label: "Co-construisons", value: "co-construisons" }
           - { label: "Code du travail numérique", value: "codedutravail" }
-          - { label: "Compétences pro", value: "competences-pro" }
+          - { label: "eva", value: "eva" }
           - { label: "data.gouv.fr", value: "data.gouv.fr" }
           - { label: "demarches-simplifiees.fr", value: "demarches-simplifiees.fr" }
           - { label: "DiagOriente", value: "diagoriente" }
