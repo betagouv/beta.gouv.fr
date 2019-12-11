@@ -1,5 +1,5 @@
 ---
-title: eva
+title: eva (anciennement Compétences pro)
 mission: Favoriser l’insertion en détectant les compétences transversales et valorisant les potentiels à travers un outil de mise en situation numérique
 
 owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi - DGEFP
@@ -71,7 +71,7 @@ active et impliquée, en remobilisant leur motivation.
 
 - Demandeurs d'emploi infrabac (7000 nouveaux inscrits mensuel) et/ ou en recherche de réorientation (560 000 personnes répertoriées en 2019)
 - Demandeurs d'emploi longue durée (+ 12 mois)
-- Bénéficiares du RSA (760 000 bénéficiaires sont inscrits chez Pôle emploi)
+- Bénéficiaires du RSA (760 000 bénéficiaires sont inscrits chez Pôle emploi)
 - Jeunes sans diplôme (plus d'un million)
 - Public en situation d'illettrisme (7% de la population française)
 
