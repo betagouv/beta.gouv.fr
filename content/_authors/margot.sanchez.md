@@ -3,7 +3,7 @@ fullname: Margot Sanchez
 role: Intrapreneure
 missions:
   - start: '2018-06-04'
-    end: '2019-12-31'
+    end: '2020-02-28'
     status: independent
     employer: Codeurs en Liberté
 startups:

@@ -5,7 +5,7 @@ github: LaurenTron
 missions:
   - start: '2019-12-07'
     end: '2020-06-07'
-    status: Indépendant
+    status: independent
     employer: Octo
 startups:
   - aidantsconnect
