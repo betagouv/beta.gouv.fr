@@ -1,6 +1,6 @@
 ---
 roles: un·e développeur·se
-startup: La Bonne Boite / La Bonne Alternance
+startup: la-bonne-boite
 techno: Python, Flask, Django, ReactJS
 open: true
 ---
