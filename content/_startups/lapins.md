@@ -6,10 +6,10 @@ incubator: dinsic
 status: acceleration
 start: 2018-01-18
 end: 
-link:
-repository:
+link: https://rdv-solidarites.fr
+repository: https://github.com/betagouv/rdv-solidarites.fr
 stats: false
-contact: antoine.haguenauer@beta.gouv.fr
+contact: lapins@beta.gouv.fr
 ---
 
 ## Des milliers de lapins dans les Maisons départementales de solidarité !
