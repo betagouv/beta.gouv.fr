@@ -6,7 +6,7 @@ avatar: https://pbs.twimg.com/profile_images/1085876848398159872/OGYepz_g_200x20
 link: https://twitter.com/ManonLger
 missions:
   - start: '2018-11-27'
-    end: '2020-12-31'
+    end: '2021-12-31'
     status: independent
 startups:
   - mes-aides
