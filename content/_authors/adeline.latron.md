@@ -1,13 +1,13 @@
 ---
 fullname: Adeline Latron
-role: Chargée de développement
+role: Business Developer
 github: adeline-lrn
 missions:
   - start: '2019-02-07'
-    end: '2019-12-31'
+    end: '2020-07-17'
     status: independent
 startups:
     - place-des-entreprises
 ---
 
-"Le progrès ne vaut que s'il est partagé par tous" Aristote
+
