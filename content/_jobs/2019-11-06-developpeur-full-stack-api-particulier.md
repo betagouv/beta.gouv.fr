@@ -3,7 +3,7 @@ roles: Développeur / développeuse full stack NodeJS / Ruby
 startup: api-particulier
 techno: nodeJS, Ruby
 junior: false
-open: true
+open: false
 title: Développeur / développeuse full stack NodeJS / Ruby
 ---
 
