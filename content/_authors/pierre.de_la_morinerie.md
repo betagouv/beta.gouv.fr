@@ -9,12 +9,11 @@ missions:
     start: '2018-06-11'
     status: service
   - employer: Codeurs en Liberté
-    end: '2019-12-31'
-    start: '2019-12-06'
+    end: '2020-06-31'
+    start: '2019-12-19'
     status: service
 startups:
   - demarches-simplifiees.fr
-  - place-des-entreprises
 ---
 
 Chasseur de bogues, amoureux des trains.
