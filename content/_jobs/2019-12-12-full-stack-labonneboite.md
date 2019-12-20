@@ -5,7 +5,7 @@ techno: Python, Flask, Django, ReactJS
 open: true
 ---
 
-La Startup d'Etat [La Bonne Boite](https://labonneboite.pole-emploi.fr/) ainsi que son sous-projet [La Bonne Alternance](https://labonnealternance.pole-emploi.fr/) recrutent leur nouveau développeur web full stack en freelance! Vous ferez partie de l'équipe produit, participerez à la conception, au développement et au déploiement de l'application.
+La Startup d'Etat [La Bonne Boite](https://labonneboite.pole-emploi.fr/) ainsi que son sous-projet [La Bonne Alternance](https://labonnealternance.pole-emploi.fr/) recrutent leur nouveau·elle développeur·se web full stack en freelance! Vous ferez partie de l'équipe produit, participerez à la conception, au développement et au déploiement de l'application.
 
 <!--more-->
 
@@ -57,4 +57,4 @@ L’équipe est dispersée à travers la France, et travaille principalement à 
 
 ## Postuler
 
-Cela vous intéresse ? Racontez nous pourquoi vous auriez envie de nous rejoindre et montrez nous vos projets par courriel à vermeer.grange@gmail.com et guillet.marion@valeuriad.fr
+Cela vous intéresse ? Racontez nous pourquoi vous auriez envie de nous rejoindre et montrez nous vos projets par courriel à vermeer.grange@beta.gouv.fr, marion.guillet01-ext@pole-emploi.fr et recrutement@beta.gouv.fr
