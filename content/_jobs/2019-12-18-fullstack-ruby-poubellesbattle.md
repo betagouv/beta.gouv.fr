@@ -1,6 +1,6 @@
 ---
 roles: un.e developpeur.se fullstack Ruby on rails
-startup: poubelles battle
+startup: Poubelles Battle
 open: true
 ---
 
