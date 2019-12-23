@@ -3,7 +3,7 @@ title : Pass Culture
 mission: Faciliter l'accès des jeunes à la culture
 owner: Ministère de la Culture
 incubator: dinsic
-status: acceleration
+status: consolidation
 start: 2017-12-01
 end:
 link: https://pass.culture.fr
@@ -52,3 +52,7 @@ Les acteurs culturels prenant part à l’expérimentation pourront s’exprim
 Sur cette plateforme, la procédure de création d’une proposition est, à ce stade de l’expérimentation, aussi simple que la création d’un événement sur un réseau social. Elle nécessite, a minima, une image, une localisation et une courte description. Un espace « guichet » permet aux professionnels de gérer les réservations qu’ils reçoivent et de suivre les transactions financières qui s’effectuent via le pass Culture. Aujourd’hui, plus de 900 acteurs culturels disposent déjà, dans les départements pilotes, d’un compte pass Culture Pro.
 
 S’inscrire sur la plateforme pass Culture pro présente par ailleurs un triple avantage pour les acteurs culturels. C’est non seulement un canal fiable de visibilité et de promotion qui touchera à terme tous les publics, un vecteur de proximité pour se faire connaître auprès des jeunes de 18 ans qui forment le public de demain, mais c’est aussi une plateforme en phase avec les nouveaux usages de la société, qui incite à la consommation d’offres légales. Elle pourra constituer à ce titre pour les acteurs culturels un véritable laboratoire d’expérimentation, à travers lequel ils auront la possibilité de tester des activités inédites, gratuites ou payantes, proposées sur l’application avant de les ouvrir au grand public.
+
+# Sortie d'incubation
+
+Le 22 juillet 2019, le Pass Culture sort de sa phase d'incubation : elle devient la SAS "Pass Culture" (décret n°2019-755 du 22 juillet 2019). Montée avec la Banque des Territoires, cette SAS a pour mission de "de déployer progressivement le pass Culture sur l'ensemble du territoire, de référencer et mettre en valeur les offres des opérateurs culturels et d'assurer une gestion dynamique des comptes des bénéficiaires". Elle devra aussi "créer les conditions adéquates pour la pérennisation du pass Culture, incluant sa généralisation à tous les jeunes de 18 ans éligibles et envisagera le développement d'activités commerciales permettant d'assurer une partie significative de son financement". 

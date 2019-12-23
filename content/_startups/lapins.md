@@ -1,15 +1,15 @@
 ---
-title: Lapins
+title: RDV Solidarités (anciennement Lapins)
 mission: Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité
 owner: Consortium de départements
 incubator: dinsic
 status: acceleration
 start: 2018-01-18
 end: 
-link:
-repository:
+link: https://rdv-solidarites.fr
+repository: https://github.com/betagouv/rdv-solidarites.fr
 stats: false
-contact: antoine.haguenauer@beta.gouv.fr
+contact: contact@rdv-solidarites.fr
 ---
 
 ## Des milliers de lapins dans les Maisons départementales de solidarité !

@@ -4,7 +4,7 @@ role: Développeur
 github: mrjmad
 missions:
   - start: '2018-12-21'
-    end: '2019-12-25'
+    end: '2020-12-25'
     status: independent
 startups:
     - voir-et-localiser
