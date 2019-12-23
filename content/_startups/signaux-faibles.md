@@ -3,10 +3,10 @@ title: Signaux Faibles
 mission: Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté
 owner: DINSIC
 incubator: dinsic
-status: acceleration
+status: consolidation
 start: 2014-05-15
 end:
-link:
+link: 
 repository: https://github.com/entrepreneur-interet-general/opensignauxfaibles
 stats: false
 contact: contact@signaux-faibles.beta.gouv.fr
@@ -28,3 +28,7 @@ La détection de signaux faibles, qui indiquent une dégradation de la situation
 - Le développement d’un système informatique de chargement de données capable de rafraichir régulièrement et automatiquement les données à partir des bases opérationnelles. L’objectif est de détecter dynamiquement 2 à 5 nouvelles PME par mois à l’échelle de la Bourgogne Franche-Comté.
 
 Impacts attendus en matière de transformation numérique : une action de l’État déconcentrée encore plus efficace pour accompagner les entreprises fragilisées. À terme, c’est __un véritable « réseau social sécurisé » centré sur l’entreprise qui est amené à devenir l’outil quotidien des acteurs publics mobilisés autour des entreprises en difficulté__.
+
+## Un déploiement national entériné en avril 2019
+
+Initié en 2014 à une échelle très locale, le déploiement national de Signaux Faibles a été entériné ce 3 avril 2019 grâce à [la signature d’une convention par les partenaires historiques](https://www.entreprises.gouv.fr/files/files/directions_services/politique-et-enjeux/competitivite/politique-industrielle/CRP/Dossier_Presse_-_Signaux_FaiblesVDEF.pdf) du projet. Ce partenariat permet la mise en place d'une équipe pérenne qui rend le passage à échelle possible. Pour le récit détaillé de cette aventure, lire cet [article de blog](https://www.etalab.gouv.fr/signaux-faibles-de-lopen-data-camp-a-une-politique-publique-fondee-sur-la-donnee-recit-dun-passage-a-lechelle-reussi). 

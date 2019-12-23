@@ -4,7 +4,7 @@ role: Développeur
 github: jrivals
 missions:
   - employer: octo
-    end: '2019-12-31'
+    end: '2020-06-30'
     start: '2018-11-08'
     status: independent
 startups:
