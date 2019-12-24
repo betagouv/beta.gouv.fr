@@ -7,7 +7,27 @@ layout: default
 {% endcomment %}
 
 {% capture build_date %}{{ site.time | date:"%Y-%m-%d" }}{% endcapture %}
-{% assign authors = site.authors | sort: 'start' | reverse %}
+
+{% assign authors = site.authors %}
+{% assign authors = authors | sort: 'fullname' %}
+
+{% comment %}
+  Pour le tri des auteurs, il faut tricher !
+  1) Faire une liste de toutes les dates des missions.first.start des membres
+     Liquid ne permet pas d'initialiser proprement un array, il faut tricher très fort
+  2) Supprimer les doublons, la trier et la renverser
+  3) Parcourir la liste et sélectionner les auteurs en fonction de cette date à l'aide d'un if
+{% endcomment %}
+
+{% assign start_dates = ", " | split: ", " %}
+{% for author in authors %}
+  {% assign start_date_to_concat = author.missions.first.start | append: ", " | split: ", " %}
+  {% assign start_dates = start_dates | concat: start_date_to_concat %}
+{% endfor %}
+{% assign start_dates = start_dates | uniq %}
+{% assign start_dates = start_dates | sort %}
+{% assign start_dates = start_dates | reverse %}
+
 {% assign authors_active = '' %}
 {% assign authors_inactive = '' %}
 {% assign members_count = 0 %}
@@ -17,27 +37,33 @@ layout: default
 {% endcapture %}
 {% assign authors_active = authors_active | append: to_append %}
 
-{% for author in authors %}
-  {% capture end_date_as_string %}{{ author.end }}{% endcapture %}
-  {% if end_date_as_string == '' or end_date_as_string > build_date %}
-    {% capture to_append %}
-      {% include card-community.html author=author %}
-    {% endcapture %}
-    {% assign authors_active = authors_active | append: to_append %}
-    {% assign members_count = members_count | plus: 1 %}
-  {% else %}
-    {% capture to_append %}
-      {% include card-community.html author=author %}
-    {% endcapture %}
-    {% assign authors_inactive = authors_inactive | append: to_append %}
+{% for start_date in start_dates %}
+  {% if start_date > build_date %}
+    {% continue %}
   {% endif %}
+  {% for author in authors %}
+    {% if author.missions.first.start == start_date %}
+      {% capture end_date_as_string %}{{ author.missions.last.end }}{% endcapture %}
+      {% if end_date_as_string == '' or end_date_as_string > build_date %}
+        {% capture to_append %}
+          {% include card-community.html author=author %}
+        {% endcapture %}
+        {% assign authors_active = authors_active | append: to_append %}
+        {% assign members_count = members_count | plus: 1 %}
+      {% else %}
+        {% capture to_append %}
+          {% include card-community.html author=author %}
+        {% endcapture %}
+        {% assign authors_inactive = authors_inactive | append: to_append %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
-
 
 {% assign lang = page.lang | default: site.lang | default: "fr" %}
 <div class="page article">
   {% include hero-page.html title=page.title %}
-  <section class="section section-grey">
+  <section class="section section-white">
     <div class="container">
       <h3>Évolution des effectifs</h3>
       <div id="chart-wrapper">
@@ -52,7 +78,7 @@ layout: default
       </div>
     </div>
   </section>
-  <section class="section section-white">
+  <section class="section section-grey">
     <div class="container community">
       <h2>Les membres actifs</h2>
       <div class="grid">
@@ -61,9 +87,9 @@ layout: default
     </div>
   </section>
 
-  <section class="section section-grey">
+  <section class="section section-white">
     <div class="container community alumni">
-      <h2>Les ancien·ne·s</h2>
+      <h2>Les anciennes et les anciens</h2>
       <div class="grid">
         {{ authors_inactive }}
       </div>
@@ -82,20 +108,22 @@ layout: default
     };
 
     {% for person in site.authors %}
-        var employerType = '{{ person.employer | slugify }}'.split('-')[0];
+      {% for mission in person.missions %}
+          var employerType = '{{ mission.status }}';
 
-        {% if person.start %}
-            window.data[employerType].push({
-                date: '{{ person.start }}',
-                increment: 1
-            });
-        {% endif %}
-        {% if person.end %}
-            window.data[employerType].push({
-                date: '{{ person.end }}',
-                increment: -1
-            });
-        {% endif %}
+          {% if mission.start %}
+              window.data[employerType].push({
+                  date: '{{ mission.start }}',
+                  increment: 1
+              });
+          {% endif %}
+          {% if mission.end %}
+              window.data[employerType].push({
+                  date: '{{ mission.end }}',
+                  increment: -1
+              });
+          {% endif %}
+      {% endfor %}
     {% endfor %}
 })();
 </script>

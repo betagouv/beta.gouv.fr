@@ -1,0 +1,322 @@
+backend:
+  name: github
+  site_domain: beta.gouv.fr
+  repo: betagouv/beta.gouv.fr
+  # Personnalisation des messages de commit
+  # Attention, quand et si on passe aux fiches produits, à modifier !
+  commit_messages:
+    create: Bienvenue à {{slug}} !
+    update: Mise à jour de la fiche de {{slug}}
+    delete: Suppression de {{slug}}
+    uploadMedia: Nouvelle image au {{path}}
+    deleteMedia: Suppression d'image au {{path}}
+  squash_merges: true
+
+
+media_folder: "img/netlifycms"
+
+display_url: https://beta.gouv.fr
+
+# La preview n'est pas utile juste pour modifier des auteurs
+show_preview_links: false
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "."
+
+# Editorial workflow: validate changes through pull requests
+publish_mode: editorial_workflow
+
+collections:
+  - name: "authors"
+    identifier_field: fullname
+    label: "Members"
+    label_singular: "Member"
+    description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, direction \"New Member\" !"
+    folder: "content/_authors"
+    create: true
+    delete: false
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - label: "Nom complet"
+        hint: "Format : Prénom Nom. Ton nom complet est utilisé pour le nom de ta fiche. Attention à ton orthographe !"
+        name: "fullname"
+        widget: "string"
+
+      - label: "Rôle"
+        hint: "Développeuse ? Intrapreneur ? Chargée de développement ? Coach ?"
+        name: "role"
+        widget: "string"
+
+      - label: "Github"
+        hint: "Ton nom d'utilisateur GitHub. Il te permet de rejoindre automatiquement l'organisation GitHub betagouv."
+        name: "github"
+        widget: "string"
+        required: false
+
+      - label: "Avatar"
+        hint: "À remplir si tu veux mettre un avatar depuis un site externe. Tu peux aussi laisser vide et mettre une image dans le dossier /img/authors/. À défaut, on regardera si tu as une image sur ton profil Github. En dernier, la fiole beta.gouv.fr sera affichée sur la page communauté. Dans le doute : demande à ton marrain !"
+        name: "avatar"
+        widget: "string"
+        required: false
+
+      - label: "Lien externe"
+        hint: "Lien vers une page perso externe."
+        name: "link"
+        widget: "string"
+        required: false
+
+      - label: 'Missions'
+        label_singular: "Mission"
+        hint: "Ton historique de missions avec nous dans l'ordre chronologique."
+        name: 'missions'
+        widget: 'list'
+        fields:
+          - label: "Statut"
+            hint: "Quelle est ta relation professionnelle avec nous ?"
+            name: "status"
+            widget: "select"
+            options:
+              - { label: "Agent DINSIC", value: "dinsic" }
+              - { label: "Agent d'une autre administration", value: "admin" }
+              - { label: "Indépendant", value: "independent" }
+              - { label: "Société ou prestataire de services", value: "service" }
+
+          - label: "Employeur"
+            hint: "Si besoin de préciser : ton ministère d'origine, ta SSII, etc."
+            name: "employer"
+            widget: "string"
+            required: false
+
+          - label: "Date de début"
+            hint: "Début de ton contrat ou de ton financement."
+            name: "start"
+            widget: "date"
+            format: "YYYY-MM-DD"
+            dateFormat: "LL"
+
+          - label: "Date de fin"
+            hint: "Fin de ton contrat ou de ton financement - tu pourras la modifier plus tard."
+            name: "end"
+            widget: "date"
+            format: "YYYY-MM-DD"
+            dateFormat: "LL"
+
+      - label: "Startups"
+        label_singular: "Startup"
+        hint: "Plusieurs choix possibles. Si la startup n'apparait pas encore dans la liste, contacte un administrateur du site !"
+        name: "startups"
+        widget: "select"
+        multiple: true
+        options:
+          - { label: "__Fiche produit en construction__", value: "_in_progress_" }
+          - { label: "__Formation Alpha (équipe encadrante)__", value: "_alpha_" }
+          - { label: "__OpenFisca__", value: "_openfisca_" }
+          - { label: "__Autre ou à l'aide : je pense à contacter un administrateur après avoir rempli ma fiche__", value: "_help_me_" }
+          - { label: "A Dock", value: "a-dock" }
+          - { label: "Aeris", value: "aeris" }
+          - { label: "Aidants Connect", value: "aidantsconnect" }
+          - { label: "Aides-territoires", value: "aides-territoires" }
+          - { label: "ANAIS", value: "anais" }
+          - { label: "ANDi", value: "andi" }
+          - { label: "Anotea", value: "anotea" }
+          - { label: "API Drones", value: "api-drones" }
+          - { label: "API Entreprise", value: "api-entreprise" }
+          - { label: "API Géo", value: "api-geo" }
+          - { label: "API Particulier", value: "api-particulier" }
+          - { label: "api.gouv.fr", value: "api.gouv.fr" }
+          - { label: "Administration+, le service public VIP pour tous", value: "aplus" }
+          - { label: "ASSEC", value: "assec" }
+          - { label: "Saisissez au vol !", value: "auvol" }
+          - { label: "Avril - La V.A.E. facile", value: "avril" }
+          - { label: "Base Adresse Nationale", value: "ban" }
+          - { label: "Bourse", value: "bourse" }
+          - { label: "Boussole des droits", value: "boussole" }
+          - { label: "Camino", value: "camino" }
+          - { label: "CandiLib", value: "candilib" }
+          - { label: "Civils de la Défense", value: "civils-de-la-defense" }
+          - { label: "Clara - Vos aides en un clic", value: "clara" }
+          - { label: "Classes à 12", value: "classes12" }
+          - { label: "Co-construisons", value: "co-construisons" }
+          - { label: "Code du travail numérique", value: "codedutravail" }
+          - { label: "eva", value: "eva" }
+          - { label: "data.gouv.fr", value: "data.gouv.fr" }
+          - { label: "demarches-simplifiees.fr", value: "demarches-simplifiees.fr" }
+          - { label: "DiagOriente", value: "diagoriente" }
+          - { label: "Disinfo", value: "disinfo" }
+          - { label: "DomiFa (domiciliation facilitée)", value: "domifa" }
+          - { label: "DossierSCO", value: "dossiersco" }
+          - { label: "e-Chauffeur", value: "e-chauffeur" }
+          - { label: "E-contrôle", value: "e-controle" }
+          - { label: "e-MJPM", value: "e-mjpm" }
+          - { label: "Plateforme EAC", value: "eac" }
+          - { label: "EcoLab", value: "ecolab" }
+          - { label: "Étudiant entrepreneur", value: "etudiant-entrepreneur" }
+          - { label: "Fiches de banc", value: "fiches-de-banc" }
+          - { label: "Fil’harmonic", value: "filharmonic" }
+          - { label: "Fluctu@t", value: "fluctuat" }
+          - { label: "geo.data.gouv.fr", value: "geo.data.gouv.fr" }
+          - { label: "GPS usagers", value: "gps-usagers" }
+          - { label: "HistoVec", value: "histovec" }
+          - { label: "Itou", value: "itou" }
+          - { label: "Kelrisks", value: "kelrisks" }
+          - { label: "La Bonne Boîte", value: "la-bonne-boite" }
+          - { label: "La Bonne Formation", value: "la-bonne-formation" }
+          - { label: "Lapins", value: "lapins" }
+          - { label: "Le Taxi", value: "le-taxi" }
+          - { label: "LexImpact", value: "leximpact" }
+          - { label: "Locatio", value: "locatio" }
+          - { label: "Lotocar", value: "lotocar" }
+          - { label: "Maintenant!", value: "maintenant" }
+          - { label: "MDPH en ligne", value: "mdph" }
+          - { label: "Memo", value: "memo" }
+          - { label: "Mes Aides", value: "mes-aides" }
+          - { label: "Mon-entreprise.fr", value: "mon-entreprise" }
+          - { label: "Mon stage de 3e", value: "monstage" }
+          - { label: "Les aides de l’Anah", value: "mpal" }
+          - { label: "Marchés publics simplifiés", value: "mps" }
+          - { label: "Mes remboursements simplifiés (MRS)", value: "mrs" }
+          - { label: "OGP Toolbox", value: "ogptoolbox" }
+          - { label: "Open Académie", value: "open-academie" }
+          - { label: "Pass Culture", value: "pass-culture" }
+          - { label: "Peps", value: "peps" }
+          - { label: "Permis de construire facile", value: "permis-de-construire-facile" }
+          - { label: "Perspectives", value: "perspectives" }
+          - { label: "Pix", value: "pix" }
+          - { label: "Place des Entreprises", value: "place-des-entreprises" }
+          - { label: "Plante & Moi", value: "plante-et-moi" }
+          - { label: "Polex", value: "polex" }
+          - { label: "Plateforme Ouverte du Patrimoine", value: "pop" }
+          - { label: "Registre de preuve de covoiturage", value: "preuve-de-covoiturage" }
+          - { label: "Prélèvement à la source pour les indépendants", value: "psi" }
+          - { label: "Réserve civique", value: "reserve-civique" }
+          - { label: "Résorption bidonvilles", value: "resorption-bidonvilles" }
+          - { label: "Mes démarches retraite pas à pas", value: "retraite" }
+          - { label: "Reuni", value: "reuni" }
+          - { label: "SEPIA", value: "sepia" }
+          - { label: "SignalConso", value: "signalement" }
+          - { label: "Signaux Faibles", value: "signaux-faibles" }
+          - { label: "Trackdéchets", value: "trackdechets" }
+          - { label: "Trait d’Union", value: "trait-d-union" }
+          - { label: "transport.data.gouv.fr", value: "transport" }
+          - { label: "Tremplin", value: "tremplin" }
+          - { label: "Urbaclic", value: "urbaclic" }
+          - { label: "Voir & Localiser", value: "voir-et-localiser" }
+          - { label: "Work in France", value: "workinfrance" }
+          - { label: "Zam", value: "zam" }
+          - { label: "Zen", value: "zen" }
+        required: false
+
+      - label: "Anciennes Startups"
+        label_singular: "Ancienne Startup"
+        hint: "Plusieurs choix possibles : sur quelles startups de la communauté tu as travaillé avant ?"
+        name: "previously"
+        widget: "select"
+        multiple: true
+        options:
+          - { label: "__Fiche produit en construction__", value: "_in_progress_" }
+          - { label: "__Formation Alpha (équipe encadrante)__", value: "_alpha_" }
+          - { label: "__OpenFisca__", value: "_openfisca_" }
+          - { label: "__Autre ou à l'aide : je pense à contacter un administrateur après avoir rempli ma fiche__", value: "_help_me_" }
+          - { label: "A Dock", value: "a-dock" }
+          - { label: "Aeris", value: "aeris" }
+          - { label: "Aidants Connect", value: "aidantsconnect" }
+          - { label: "Aides-territoires", value: "aides-territoires" }
+          - { label: "ANAIS", value: "anais" }
+          - { label: "ANDi", value: "andi" }
+          - { label: "Anotea", value: "anotea" }
+          - { label: "API Drones", value: "api-drones" }
+          - { label: "API Entreprise", value: "api-entreprise" }
+          - { label: "API Géo", value: "api-geo" }
+          - { label: "API Particulier", value: "api-particulier" }
+          - { label: "api.gouv.fr", value: "api.gouv.fr" }
+          - { label: "Administration+, le service public VIP pour tous", value: "aplus" }
+          - { label: "ASSEC", value: "assec" }
+          - { label: "Saisissez au vol !", value: "auvol" }
+          - { label: "Avril - La V.A.E. facile", value: "avril" }
+          - { label: "Base Adresse Nationale", value: "ban" }
+          - { label: "Bourse", value: "bourse" }
+          - { label: "Boussole des droits", value: "boussole" }
+          - { label: "Camino", value: "camino" }
+          - { label: "CandiLib", value: "candilib" }
+          - { label: "Civils de la Défense", value: "civils-de-la-defense" }
+          - { label: "Clara - Vos aides en un clic", value: "clara" }
+          - { label: "Classes à 12", value: "classes12" }
+          - { label: "Co-construisons", value: "co-construisons" }
+          - { label: "Code du travail numérique", value: "codedutravail" }
+          - { label: "eva", value: "eva" }
+          - { label: "data.gouv.fr", value: "data.gouv.fr" }
+          - { label: "demarches-simplifiees.fr", value: "demarches-simplifiees.fr" }
+          - { label: "DiagOriente", value: "diagoriente" }
+          - { label: "Disinfo", value: "disinfo" }
+          - { label: "DomiFa (domiciliation facilitée)", value: "domifa" }
+          - { label: "DossierSCO", value: "dossiersco" }
+          - { label: "e-Chauffeur", value: "e-chauffeur" }
+          - { label: "E-contrôle", value: "e-controle" }
+          - { label: "e-MJPM", value: "e-mjpm" }
+          - { label: "Plateforme EAC", value: "eac" }
+          - { label: "EcoLab", value: "ecolab" }
+          - { label: "Étudiant entrepreneur", value: "etudiant-entrepreneur" }
+          - { label: "Fiches de banc", value: "fiches-de-banc" }
+          - { label: "Fil’harmonic", value: "filharmonic" }
+          - { label: "Fluctu@t", value: "fluctuat" }
+          - { label: "geo.data.gouv.fr", value: "geo.data.gouv.fr" }
+          - { label: "GPS usagers", value: "gps-usagers" }
+          - { label: "HistoVec", value: "histovec" }
+          - { label: "Itou", value: "itou" }
+          - { label: "Kelrisks", value: "kelrisks" }
+          - { label: "La Bonne Boîte", value: "la-bonne-boite" }
+          - { label: "La Bonne Formation", value: "la-bonne-formation" }
+          - { label: "Lapins", value: "lapins" }
+          - { label: "Le Taxi", value: "le-taxi" }
+          - { label: "LexImpact", value: "leximpact" }
+          - { label: "Locatio", value: "locatio" }
+          - { label: "Lotocar", value: "lotocar" }
+          - { label: "Maintenant!", value: "maintenant" }
+          - { label: "MDPH en ligne", value: "mdph" }
+          - { label: "Memo", value: "memo" }
+          - { label: "Mes Aides", value: "mes-aides" }
+          - { label: "Mon-entreprise.fr", value: "mon-entreprise" }
+          - { label: "Mon stage de 3e", value: "monstage" }
+          - { label: "Les aides de l’Anah", value: "mpal" }
+          - { label: "Marchés publics simplifiés", value: "mps" }
+          - { label: "Mes remboursements simplifiés (MRS)", value: "mrs" }
+          - { label: "OGP Toolbox", value: "ogptoolbox" }
+          - { label: "Open Académie", value: "open-academie" }
+          - { label: "Pass Culture", value: "pass-culture" }
+          - { label: "Peps", value: "peps" }
+          - { label: "Permis de construire facile", value: "permis-de-construire-facile" }
+          - { label: "Perspectives", value: "perspectives" }
+          - { label: "Pix", value: "pix" }
+          - { label: "Place des Entreprises", value: "place-des-entreprises" }
+          - { label: "Plante & Moi", value: "plante-et-moi" }
+          - { label: "Polex", value: "polex" }
+          - { label: "Plateforme Ouverte du Patrimoine", value: "pop" }
+          - { label: "Registre de preuve de covoiturage", value: "preuve-de-covoiturage" }
+          - { label: "Prélèvement à la source pour les indépendants", value: "psi" }
+          - { label: "Réserve civique", value: "reserve-civique" }
+          - { label: "Résorption bidonvilles", value: "resorption-bidonvilles" }
+          - { label: "Mes démarches retraite pas à pas", value: "retraite" }
+          - { label: "Reuni", value: "reuni" }
+          - { label: "SEPIA", value: "sepia" }
+          - { label: "SignalConso", value: "signalement" }
+          - { label: "Signaux Faibles", value: "signaux-faibles" }
+          - { label: "Trackdéchets", value: "trackdechets" }
+          - { label: "Trait d’Union", value: "trait-d-union" }
+          - { label: "transport.data.gouv.fr", value: "transport" }
+          - { label: "Tremplin", value: "tremplin" }
+          - { label: "Urbaclic", value: "urbaclic" }
+          - { label: "Voir & Localiser", value: "voir-et-localiser" }
+          - { label: "Work in France", value: "workinfrance" }
+          - { label: "Zam", value: "zam" }
+          - { label: "Zen", value: "zen" }
+        required: false
+
+      - label: "Description"
+        hint: "Raconte-nous qui tu es dans une phrase percutante !"
+        name: "body"
+        widget: "text"
+        required: false

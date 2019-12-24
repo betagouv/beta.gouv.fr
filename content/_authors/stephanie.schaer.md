@@ -1,9 +1,11 @@
 ---
 fullname: Stéphanie Schaer
 role: Intrapreneuse
-avatar: /img/authors/stephanie.schaer.jpg
-start: 2016-04-01
-employer: admin/eig
+missions:
+  - start: '2016-04-01'
+    end:
+    status: admin
+    employer: eig
 startups:
     - signaux-faibles
 ---

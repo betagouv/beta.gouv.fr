@@ -1,8 +1,11 @@
 ---
 fullname: Marie Briche
 role: Intrapreneuse
-start: 2017-05-01
-employer: admin/pole-emploi
+missions:
+  - start: '2017-05-01'
+    end:
+    status: admin
+    employer: pole-emploi
 startups:
     - avril
 ---

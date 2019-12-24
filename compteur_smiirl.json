@@ -1,0 +1,6 @@
+---
+---
+
+    {
+      "number" : {{ site.startups | size }}
+    }

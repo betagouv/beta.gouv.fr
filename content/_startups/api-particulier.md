@@ -2,13 +2,14 @@
 title: API Particulier
 mission: Accélérer l’ouverture des données personnelles et leur réutilisation pour simplifier les démarches
 owner: DINSIC
-incubator: dinsic
-status: acceleration
+incubator: api_dinsic
+status: consolidation
 start: 2015-10-11
 end:
 link: https://particulier.api.gouv.fr/
 repository: https://github.com/betagouv/api-particulier
-stats: false
+stats: true
+stats_url: https://particulier.api.gouv.fr/stats.html
 contact: contact@particulier.api.gouv.fr
 ---
 

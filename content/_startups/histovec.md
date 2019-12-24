@@ -3,7 +3,7 @@ title: HistoVec
 mission: Acheter un véhicule d'occasion en confiance en connaissant son historique
 owner: Ministère de l'Intérieur
 incubator: lab-mi
-status: construction
+status: acceleration
 start: 2018-03-01
 end:
 link: https://histovec.interieur.gouv.fr
@@ -44,8 +44,7 @@ HistoVec est un service **gratuit** pour les particuliers, **exhaustif** sur le 
 2. Il génère le rapport HistoVec et le partage à l’acheteur
 3. L’acheteur peut accéder au rapport officiel hébergé sur le site de l’administration
 
-## Lancement progressif
+## Feuille de route
 
-Nous souhaitons lancer le service **fin mai 2018** par un pilote avec des concessionnaires de confiance réalisant de nombreux achats et reventes d’occasion.
-
-Nous étendrons progressivement le service au dernier trimestre avant lancement grand public prévu pour **fin 2018**.
+HistoVec est lancé en version beta depuis juillet 2018, en lancement officiel depuis janvier 2019. 
+Les principaux chantiers 2019 sont l'intégration des informations de kilométrage issus des contrôles techniques, et une intégration aux applications de l'ANTS pour les professionnels.

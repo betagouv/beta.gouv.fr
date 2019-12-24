@@ -1,6 +1,6 @@
 ---
 roles: un·e chargé.e de déploiement
-startup: mobilot
+startup: lotocar
 open: false
 ---
 

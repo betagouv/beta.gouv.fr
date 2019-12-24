@@ -26,7 +26,7 @@ new Chart(document.querySelector('canvas'), {
     data: {
         datasets: [{
             data: datasets.dinsic.past,
-            label: 'Agents DINSIC ', // trailing space to ensure legend complies with French typography rules
+            label: 'Agents DINUM ', // trailing space to ensure legend complies with French typography rules
             backgroundColor: '#EAE5A2', // color scheme: credit http://www.colorschemer.com/schemes/viewscheme.php?id=10785
             steppedLine: true,
             pointRadius: 0
@@ -38,7 +38,7 @@ new Chart(document.querySelector('canvas'), {
             pointRadius: 0
         }, {
             data: datasets.independent.past,
-            label: 'Indépendant·e·s ', // trailing space to ensure legend complies with French typography rules
+            label: 'Indépendantes et indépendants ', // trailing space to ensure legend complies with French typography rules
             backgroundColor: '#C5A2EA',
             steppedLine: true,
             pointRadius: 0

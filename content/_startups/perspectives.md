@@ -3,11 +3,12 @@ title: Perspectives
 mission: Mettre en relation des candidats validés par la méthode de recrutement par simulation, avec des employeurs et des formations à la recherche de leurs aptitudes
 owner: Pôle emploi
 incubator: pole-emploi
-status: construction
+status: acceleration
 start: 2018-05-02
+link: https://perspectives.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/perspectives
 stats: false
-contact: mickael.rizzi@pole-emploi.fr
+contact: perspectives@pole-emploi.fr
 ---
 
 Pôle Emploi effectue des tests d’évaluations pour détecter les aptitudes à exercer un nouveau métier encore jamais pratiqué.

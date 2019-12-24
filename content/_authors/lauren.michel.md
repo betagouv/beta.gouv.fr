@@ -1,10 +1,16 @@
 ---
 fullname: Lauren Michel
-role: Intrapreneuse
-start: 2016-04-01
-employer: admin/pole-emploi
+role: Chargée de déploiement
+github: Laurenmichel21
+missions:
+  - start: '2016-04-01'
+    end: '2020-06-30'
+    status: admin
+    employer:
 startups:
-    - maintenant
+  - eva
+previously:
+  - maintenant
 ---
 
 Startupeuse curieuse et persévérante !

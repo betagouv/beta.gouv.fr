@@ -6,8 +6,8 @@ order: 2
 
 ## Trouver ses premiers utilisateurs
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkhua" allowfullscreen></iframe>
   </div>
   <p>Ivan Collombet - Mentor beta.gouv.fr</p>
@@ -16,8 +16,8 @@ order: 2
 
 ## Quatre conseils pour trouver ses premiers utilisateurs
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkhn8" allowfullscreen></iframe>
   </div>
   <p>Ivan Collombet - Mentor beta.gouv.fr</p>
@@ -26,8 +26,8 @@ order: 2
 
 <br>
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkhhr" allowfullscreen></iframe>
   </div>
   <p>Ivan Collombet - Mentor beta.gouv.fr</p>
@@ -36,8 +36,8 @@ order: 2
 
 ## Monter son premier Open Lab
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkhdv" allowfullscreen></iframe>
   </div>
   <p>Ivan Collombet - Mentor beta.gouv.fr</p>
@@ -46,8 +46,8 @@ order: 2
 
 ## La stratégie d'OpenAcadémie pour trouver ses premiers utilisateurs
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkh8o" allowfullscreen></iframe>
   </div>
   <p>Pierre de Maulmont - Intrapreneur beta.gouv.fr</p>

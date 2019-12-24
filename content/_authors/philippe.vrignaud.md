@@ -1,8 +1,10 @@
 ---
 fullname: Philippe Vrignaud
 role: Intrapreneur
-start: 2014-01-01
-employer: dinsic
+missions:
+  - start: '2014-01-01'
+    end:
+    status: dinsic
 startups:
     - mps
     - api-entreprise

@@ -15,7 +15,7 @@ description: Nous créons des services publics numériques
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://beta.gouv.fr # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BetaGouv
-github_username:  betagouv
+github_username: betagouv
 github_repository: BetaGouv/beta.gouv.fr
 
 # Build settings
@@ -56,6 +56,10 @@ collections:
     output: true
     permalink: /alpha/mooc/:title.html
   phases:
+  seasons:
+    output: true
+    permalink: /preincubation/promotion/:title.html
+  seedlings:
   startups:
     output: true
     permalink: /startups/:title.html
@@ -84,6 +88,14 @@ defaults:
       layout: formation/mooc
       additional_css:
         - side-panel.css
+  - scope:
+      path: ""
+      type: "seasons"
+    values:
+      layout: preincubation/promotion
+      additional_css:
+        - side-panel.css
+        - grid.css
   - scope:
       path: ""
       type: "startups"

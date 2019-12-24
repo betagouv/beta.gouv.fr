@@ -1,11 +1,15 @@
 ---
 fullname: Eric Barthélémy
 role: Intrapreneur
-start: 2015-05-01
-employer: admin/pole-emploi
+missions:
+  - start: '2015-05-01'
+    end:
+    status: admin
+    employer: pole-emploi
 startups:
     - la-bonne-boite
     - memo
+    - itou
 ---
 
 Un leitmotiv : Mon action permet-elle à un demandeur d’emploi de retrouver un travail ?

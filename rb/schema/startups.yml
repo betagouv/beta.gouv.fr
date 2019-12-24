@@ -26,6 +26,8 @@ mapping:
     type:      str
   "stats":
     type:      bool
+  "stats_url":
+    type:      str
   "contact":
     type:      str
     pattern:   /@/

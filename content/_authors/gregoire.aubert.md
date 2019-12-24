@@ -1,11 +1,12 @@
 ---
 fullname: Grégoire Aubert
 role: Chargé de développement
-avatar: https://avatars3.githubusercontent.com/Gregoire-Aubert?s=600
 github: Gregoire-Aubert
-start: 2019-01-14
-end: 2019-07-14
-employer: dinsic
+missions:
+  - start: '2019-01-14'
+    end: '2020-01-31'
+    status: admin
+    employer: DGCCRF
 startups:
     - signalement
 ---

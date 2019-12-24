@@ -10,9 +10,15 @@ title: À propos
 
 Nous animons [une communauté en croissance](/communaute/) qui construit les services publics numériques de demain [au sein d’incubateurs](/incubateurs/).
 
+## Éditeur
+Incubateur de services numériques de la Direction interministérielle du numérique (DINUM) - 20, avenue de Ségur - 75007 Paris.
+
+## Directeur de la publication
+Directeur interministériel du numérique
+
 ### Historique
 
-Depuis 2013 l’État met en œuvre une nouvelle politique d’innovation, permettant à des « Startups d’État » d’être incubées pour développer des produits numériques centrés sur les usagers. Suite au succès de [data.gouv.fr](https://data.gouv.fr) et de [mes-aides.gouv.fr](https://mes-aides.gouv.fr), la mission « Incubateur de services numériques » est créée par la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr> en septembre 2015 pour résoudre toujours plus de problèmes liés à des politiques publiques. Elle collabore aujourd’hui avec plus de 15 partenaires publics (ministères, opérateurs publics, collectivités territoriales,...) et accompagne les administrations souhaitant construire leur propre incubateur de Startups d’État.
+Depuis 2013 l’État met en œuvre une nouvelle politique d’innovation, permettant à des « Startups d’État » d’être incubées pour développer des produits numériques centrés sur les usagers. Suite au succès de [data.gouv.fr](https://data.gouv.fr) et de [mes-aides.gouv.fr](https://mes-aides.gouv.fr), la mission « Incubateur de services numériques » est créée par la <abbr title="Direction interministérielle du numérique et du système d'information et de communication">DINSIC</abbr> (Ancien nom de l'actuelle DINUM) en septembre 2015 pour résoudre toujours plus de problèmes liés à des politiques publiques. Elle collabore aujourd’hui avec plus de 15 partenaires publics (ministères, opérateurs publics, collectivités territoriales,...) et accompagne les administrations souhaitant construire leur propre incubateur de Startups d’État.
 
 ### Qu’est-ce qu’une Startup d'État ?
 
@@ -30,7 +36,7 @@ Un responsable d’administration décide de créer une Startup d'État, soit po
 
 Les coûts de développement et de fonctionnement des Startups d'État restent entièrement à la charge des administrations qui les portent. L’administration partenaire finance les coûts de développement de la Startup d’État (au maximum 200 000 € pour les six premiers mois) et s’engage à refinancer le projet en cas de succès en doublant et en pérennisant la mise.
 
-La communauté beta.gouv.fr et, en particulier, l’incubateur de services numériques de la DINSIC accompagnent les acteurs désireux de créer des Startups d'État à toutes les étapes du processus : présentation de la méthode auprès des instances de direction, appui pour le lancement, formation et suivi des équipes, intégration au sein de l’administration...
+La communauté beta.gouv.fr et, en particulier, l’incubateur de services numériques de la DINUM accompagnent les acteurs désireux de créer des Startups d'État à toutes les étapes du processus : présentation de la méthode auprès des instances de direction, appui pour le lancement, formation et suivi des équipes, intégration au sein de l’administration...
 
 ### Résultats
 
@@ -42,7 +48,7 @@ Toutes les Startups d'État présentent publiquement des mesures d’impact auto
 
 * **_de réduire les coûts administratifs_** dans plus de 20 organismes publics en diminuant le temps de traitement des dossiers de 50 % : [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/).
 
-Elles exercent aussi un effet d’entraînement sur la modernisation des administrations. Au sein de Pôle Emploi, qui a noué dès 2015 un partenariat avec la DINSIC et investit aujourd’hui annuellement près de 6 M€ dans les Startups d'État, les équipes, composées à l’origine essentiellement de freelances, accueillent aujourd’hui des talents issus de la DSI ou des agences, permettant ainsi une diversification des carrières et une réaffectation des agents publics sur des missions à plus fort impact.
+Elles exercent aussi un effet d’entraînement sur la modernisation des administrations. Au sein de Pôle Emploi, qui a noué dès 2015 un partenariat avec la DINSIC (Ancien nom de l'actuelle DINUM) et investit aujourd’hui annuellement près de 6 M€ dans les Startups d'État, les équipes, composées à l’origine essentiellement de freelances, accueillent aujourd’hui des talents issus de la DSI ou des agences, permettant ainsi une diversification des carrières et une réaffectation des agents publics sur des missions à plus fort impact.
 
 ### Plus d’infos ?
 

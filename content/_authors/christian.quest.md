@@ -1,10 +1,14 @@
 ---
 fullname: Christian Quest
-role: Responsable de produit
-start: 2014-09-01
-end: 2017-09-01
-employer: dinsic
+role: Datatouilleur
+missions:
+  - start: '2014-09-01'
+    end: '2019-03-15'
+    status: dinsic
+  - start: '2019-05-01'
+    status: independent
 startups:
+  - anais
 previously:
   - ban
 ---

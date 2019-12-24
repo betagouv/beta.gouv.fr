@@ -1,12 +1,13 @@
 ---
 fullname: Tiffany Yozgadalian
 role: Chargée de développement
-start: 2017-07-01
-end: 2017-10-31
-employer: dinsic
+missions:
+  - start: '2017-07-01'
+    end: '2017-10-31'
+    status: dinsic
 startups:
 previously:
-  - reso
+  - place-des-entreprises
   - signaux-faibles
 ---
 

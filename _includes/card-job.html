@@ -15,7 +15,7 @@
     <div class="card__content">
       <h3>{{ job.roles | capitalize }}</h3>
       <div class="card__meta">Offre de {% if job.friend %}{{ job.friend | strip_html }}{% else %}{{ startup.title | default: "beta.gouv.fr" | strip_html}}{% endif %}</div>
-      <p>{{ job.excerpt | truncate: 280 | strip_html }}</p>
+      <p>{{ job.excerpt | strip_html | truncate: 260 }}</p>
     </div>
   </a>
   <div class="card__extra">
@@ -27,9 +27,13 @@
   </div>
   {% if job.techno or job.junior or job.type == 'friend' %}
     <div class="card__extra">
-      {% if job.type == 'friend' %}<div class="label label--active">Nos ami·e·s recrutent</div>{% endif %}
-      {% if job.junior %}<div class="label label--active">Juniors bienvenu·e·s</div>{% endif %}
-      {% if job.techno %}<div class="label label--inactive">{{ job.techno }}</div>{% endif %}
+      {% if job.type == 'friend' %}<div class="label label--active">Nos camarades recrutent</div>{% endif %}
+      {% if job.junior %}<div class="label label--active">Bienvenue aux juniors</div>{% endif %}
+      {% if job.techno %}
+        {% for techno in job.techno %}
+        <div class="label label--inactive">{{ techno }}</div>
+        {% endfor %}
+      {% endif %}
     </div>
   {% endif %}
 </div>

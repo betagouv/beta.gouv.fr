@@ -2,17 +2,20 @@
 title: Civils de la Défense
 mission: Recruter simplement des agents civils sous contrat
 owner: Ministère des Armées
-incubator: dinsic
-status: construction
+incubator: fabnumdef
+status: acceleration
 start: 2018-06-01
-contact: contact@civils-de-la-defense.beta.gouv.fr
+link: https://civilsdeladefense.fabnum.fr
+repository: https://github.com/betagouv/civilsdeladefense
+stats: false
+contact: frederic.bardolle@def.gouv.fr
 ---
 
-D’ici fin 2018, ce seront près de 4 000 agents qui devront rejoindre le Ministère des Armées, dont un tiers sous contrat. Ces volumes, la concurrence sur le marché du travail et les nouveaux modes de recrutement obligent à repenser la manière de recruter au sein du ministère.
+D’ici fin 2018, ce seront près de 4 000 agents qui devront rejoindre le ministère des Armées, dont un tiers sous contrat. Ces volumes, la concurrence sur le marché du travail et les nouveaux modes de recrutement obligent à repenser la manière de recruter au sein du ministère.
 
 ## Un mode de recrutement inadapté à un besoin urgent
 
-Le Ministère des Armées souffre de déficits de visibilité et d'attractivité pour le recrutement de ses personnels civils car il recrute et communique surtout sur les métiers relevant du personnel militaire.
+Le ministère des Armées souffre de déficits de visibilité et d'attractivité pour le recrutement de ses personnels civils car il recrute et communique surtout sur les métiers relevant du personnel militaire.
 
 Qui plus est, le ministère éprouve des difficultés à pourvoir certaines filières alimentées majoritairement par des agents sous contrat qui connaissent une forte concurrence, tant au niveau interministériel que face au secteur privé. La priorité de recrutement concerne les spécialités rares ou en tension : numérique et cybersécurité, conception et gestion d’infrastructures ou encore maintien en condition opérationnelle des matériels des armées.
 

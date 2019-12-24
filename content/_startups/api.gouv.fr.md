@@ -2,8 +2,8 @@
 title: api.gouv.fr
 mission: Faciliter l'accès aux API publiques pour faire émerger de nouveaux services
 owner: DINSIC
-incubator: dinsic
-status: acceleration
+incubator: api_dinsic
+status: consolidation
 start: 2016-01-25
 end:
 link: https://api.gouv.fr

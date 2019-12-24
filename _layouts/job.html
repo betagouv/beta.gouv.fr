@@ -10,7 +10,7 @@ layout: default
   {% include hero-job.html startup=startup roles=page.roles friend=page.friend %}
 
   {% if page.type == 'friend' %}
-    <div class="notification full-width">Une offre à pourvoir chez nos ami·e·s <br /><a href="{{ page.externalURL}}">Voir l'offre sur le site de {{ page.friend }}</a></div>
+    <div class="notification full-width">Une offre à pourvoir chez nos camarades <br /><a href="{{ page.externalURL}}">Voir l'offre sur le site de {{ page.friend }}</a></div>
   {% endif %}
 
   {% if page.open %}
@@ -24,8 +24,16 @@ layout: default
       <div class="container">
         <div class="text-quote">
           <ul>
-            {% if page.junior %}<li>Les juniors sont bienvenu·e·s sur ce poste ! L'équipe assurera votre formation.</li>{% endif %}
-            {% if page.techno %}<li>Technologie·s retenue·s : {{ page.techno }}.</li>{% endif %}
+            {% if page.junior %}<li>Bienvenue aux juniors sur ce poste ! L'équipe assurera votre formation.</li>{% endif %}
+            {% if page.techno %}
+              <li>Choix technologiques :
+                <ul>
+                  {% for techno in page.techno %}
+                  <li>{{ techno }}</li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% endif %}
           </ul>
         </div>
       </div>
@@ -43,7 +51,7 @@ layout: default
   {% if startup %}
     <section class="section section-grey">
       <div class="container startups">
-        <div class="row">
+        <div class="grid">
           {% include card-startup.html startup = startup %}
         </div>
       </div>

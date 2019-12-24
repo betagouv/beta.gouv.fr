@@ -2,7 +2,9 @@
 roles: un·e responsable d'exploitation
 friend: FranceConnect
 type: 'friend'
-open: true
+open: false
+title: "beta.gouv recherche : un·e responsable d'exploitation pour FranceConnect"
+externalURL: https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-exploitation--franceconnect--fh-reference-2018-138887
 ---
 
 On recherche un responsable exploitation F/H pour FranceConnect, un produit national qui fête ses 3 ans.
@@ -35,7 +37,7 @@ La vision que nous aimerions partager avec elle ou lui, c’est que FranceConnec
 
 Avec 1 600 000 usagers uniques par mois et 7 millions d’utilisateurs, nous avons des valeurs de transparence et de protection de la vie privée et c’est très important pour nous de travailler avec la CNIL.
 
-Si tu as les compétences techniques d'un·e responsable d'exploitation (détaillées sur [cette fiche de poste](https://biep-recrute.talent-soft.com/offre-de-emploi/emploi-responsable-exploitation-franceconnect-f-h-_138887.aspx)) et qu’en plus :
+Si tu as les compétences techniques d'un·e responsable d'exploitation (détaillées sur [cette fiche de poste](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-exploitation--franceconnect--fh-reference-2018-138887)) et qu’en plus :
  - tu as du leadership
  - tu es force de proposition
  - tu as une expérience réussie dans l’exploitation
@@ -57,4 +59,4 @@ Il est cependant possible de télétravailler occasionnellement dans le cas où 
 
 Et surtout, on recrute dès maintenant, alors contacte-nous à [candidatures@franceconnect.gouv.fr](mailto:candidatures@franceconnect.gouv.fr) et pose nous tes questions, on se fera un plaisir de te répondre très vite.
 
-Voir aussi: [Fiche de poste : RESPONSABLE EXPLOITATION « FRANCECONNECT » (F/H) 2018-138887](https://biep-recrute.talent-soft.com/offre-de-emploi/emploi-responsable-exploitation-franceconnect-f-h-_138887.aspx)
+Voir aussi: [Fiche de poste : RESPONSABLE EXPLOITATION « FRANCECONNECT » (F/H) 2018-138887](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-exploitation--franceconnect--fh-reference-2018-138887)

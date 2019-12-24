@@ -1,9 +1,11 @@
 ---
 fullname: Jacob Carbonel
 role: Intrapreneur
-start: 2018-01-01
-end: 2018-06-30
-employer: admin/MTES
+missions:
+  - start: '2018-01-01'
+    end: '2018-06-30'
+    status: admin
+    employer: MTES
 github: jcarb
 startups:
     - aeris

@@ -11,7 +11,12 @@
   <img class="screenshot lozad" data-src="{{ screenshot_path }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
 {% elsif include.author.avatar %}
   <img class="screenshot lozad" data-src="{{ include.author.avatar }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
+{% elsif include.author.github %}
+  {% capture avatarGithub %}
+    https://avatars3.githubusercontent.com/{{include.author.github}}?s=600
+  {% endcapture %}
+  <img class="screenshot lozad" data-src="{{ avatarGithub }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
 {% elsif include.force %}
-  {% assign screenshot_path = "/img/logo-generique-startup-carre.jpg" %}
+  {% assign screenshot_path = "/img/logo-generique-startup-carre-2019.jpg" %}
   <img class="screenshot lozad" data-src="{{ screenshot_path }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
 {% endif %}

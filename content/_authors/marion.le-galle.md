@@ -1,8 +1,11 @@
 ---
 fullname: Marion Le Galle
 role: UX designer
-start: 2016-04-01
-employer: admin/pole-emploi
+missions:
+  - start: '2016-04-01'
+    end:
+    status: admin
+    employer: pole-emploi
 startups:
     - clara
 ---

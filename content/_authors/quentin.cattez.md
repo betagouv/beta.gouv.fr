@@ -1,9 +1,11 @@
 ---
 fullname: Quentin Cattez
 role: Développeur
-start: 2017-03-06
-end: 2018-09-30
-employer: service/octo
+missions:
+  - start: '2017-03-06'
+    end: '2018-09-30'
+    status: service
+    employer: octo
 startups:
     - pix
     - mpal

@@ -1,9 +1,11 @@
 ---
 fullname: Samuel Goldszmidt
 role: Gentil organisateur
-start: 2018-01-08
-end: 2018-07-08
-employer: admin/MTES-MCT
+missions:
+  - start: '2018-01-08'
+    end: '2019-12-31'
+    status: admin
+    employer: MTES-MCT
 ---
 
 Essaie encore une fois

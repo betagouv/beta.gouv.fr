@@ -8,7 +8,8 @@ start: 2013-06-01
 end:
 link: https://www.data.gouv.fr/
 repository: https://github.com/opendatateam/udata
-stats: false
+stats: true
+stats_url: https://stats.data.gouv.fr
 contact: info@data.gouv.fr
 redirect_from:
   - /startups/datagouv

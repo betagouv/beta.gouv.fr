@@ -1,9 +1,10 @@
 ---
 fullname: Vincent B.
 role: Responsable de produit
-start: 2015-03-01
-end: 2019-12-31
-employer: dinsic
+missions:
+  - start: '2015-03-01'
+    end: '2019-12-31'
+    status: dinsic
 startups:
     - data.gouv.fr
     - le-taxi

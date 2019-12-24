@@ -1,9 +1,10 @@
 ---
 fullname: Chérif Mili
 role: Coach
-start: 2018-11-19
-end: 2019-05-31
-employer: independent
+missions:
+  - start: '2018-11-19'
+    end: '2019-07-31'
+    status: independent
 startups:
-    - mobilot
+    - lotocar
 ---

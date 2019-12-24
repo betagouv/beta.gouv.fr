@@ -1,11 +1,16 @@
 ---
 fullname: Adrien Saunier
 role: Développeur
-start: 2017-04-01
-end: 2018-06-30
-employer: service/octo
+missions:
+  - start: '2017-04-01'
+    end: '2020-03-28'
+    status: service
+    employer: octo
 startups:
+    - pass-culture
+previously:
     - pix
 ---
 
 Inventeur de blagues nulles, Eleveur de loutres
+Anciennement Tech-Lead sur Pix

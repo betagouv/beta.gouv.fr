@@ -7,7 +7,7 @@ status: death
 start: 2017-12-31
 end:
 link: http://assec.beta.gouv.fr/
-repository:
+repository: https://github.com/MTES-MCT/assec
 stats: false
 contact: michel.perrel@beta.gouv.fr
 ---

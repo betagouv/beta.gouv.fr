@@ -3,8 +3,10 @@ fullname: Matthieu Lassalvy
 role: Développeur
 avatar: https://image.ibb.co/mzTRkS/Sans_titre.png
 github: sixertoy
-start: 2018-03-12
-employer: independent
+missions:
+  - start: '2018-03-12'
+    end:
+    status: independent
 startups:
     - assec
 ---

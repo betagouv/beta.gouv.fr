@@ -1,9 +1,11 @@
 ---
 fullname: Ismaël Hery
 role: Coach
-start: 2015-04-01
-end: 2018-12-19
-employer: independent/octo
+missions:
+  - start: '2015-04-01'
+    end: '2018-12-19'
+    status: independent
+    employer: octo
 startups:
 previously:
   - la-bonne-boite

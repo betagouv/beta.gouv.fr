@@ -6,7 +6,7 @@ incubator: dinsic
 status: death
 start: 2016-06-23
 end:
-link: https://etudiant-entrepreneur.beta.gouv.fr
+link: https://snee.esr.gouv.fr/
 repository: https://github.com/betagouv/etudiant-entrepreneur
 stats: false
 contact: contact@etudiant-entrepreneur.beta.gouv.fr
@@ -14,8 +14,8 @@ contact: contact@etudiant-entrepreneur.beta.gouv.fr
 
 <iframe style="border:none;" width="560" height="315" src="//www.dailymotion.com/embed/video/x4aa7o4" allowfullscreen></iframe>
 
-La création d’un statut national étudiant·e entrepreneur·e (EE) pour favoriser l’entrepreneuriat des étudiant·e·s et des diplômé·e·s est une première mondiale. Il s’adresse à une population majoritairement jeune, hyperconnectée et positivement exigeante. Or, candidater au statut relève parfois du parcours du combattant tant le processus est fastidieux et anachronique. L’image d’une administration complexe et vieillotte s’incarne dans ce processus. La relation uniquement administrative du candidat au statut est pointée du doigt et irrite non seulement les candidats mais également tous les acteurs gestionnaires du statut.
-La candidature ne doit plus être un frein sur le parcours de l’étudiant·e entrepreneur·e !
+La création d’un statut national étudiant entrepreneur (EE) pour favoriser l’entrepreneuriat chez la population étudiante ou diplômée est une première mondiale. Il s’adresse à une population majoritairement jeune, hyperconnectée et positivement exigeante. Or, candidater au statut relève parfois du parcours du combattant tant le processus est fastidieux et anachronique. L’image d’une administration complexe et vieillotte s’incarne dans ce processus. La relation uniquement administrative du candidat au statut est pointée du doigt et irrite non seulement les candidats mais également tous les acteurs gestionnaires du statut.
+La candidature ne doit plus être un frein sur le parcours de l’entrepreneuriat étudiant !
 
 Actuellement les EEs rencontrent notamment les problèmes suivants :
 
@@ -31,7 +31,7 @@ Les acteurs PEPITE rencontrent les problèmes suivants :
 - Difficultés pour les tuteurs de suivre les EE en utilisant le format pdf de suivi à leur disposition,
 - Lenteur du processus du dépôt de la candidature qui perturbe l’instruction du dossier en comité d’engagement.
 
-La mise en place d’une plate-forme communautaire de services destinée à tous les étudiant·e·s entrepreneur·e·s et à la communauté PEPITE pourrait améliorer cette situation. La valeur d’une telle plate-forme pourrait résider dans :
+La mise en place d’une plate-forme communautaire de services destinée à l'entrepreneuriat étudiant et à la communauté PEPITE pourrait améliorer cette situation. La valeur d’une telle plate-forme pourrait résider dans :
 
 - une saisie de candidature simplifiée,
 - un meilleur suivi des EE, du dépôt de leur candidature jusqu’à la fin de leur année sous statut.

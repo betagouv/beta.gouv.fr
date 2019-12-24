@@ -2,51 +2,68 @@
 layout: default
 ---
 
-{% comment %}additional_css : side-panel.css{% endcomment %}
-
-{% assign lang = page.lang | default: site.lang | default: "en" %}
+{% comment %}additional_css : side-panel.css{% endcomment %} {% assign lang =
+page.lang | default: site.lang | default: "en" %}
 
 <div class="page article" id="presentation">
   {% include hero-page.html title=page.title %}
 </div>
 
-<section class="documentation">
-  {% include sidebar-alpha.html %}
-  <div class="main-pane">
-    <div class="markdown">
-      {{ content }}
-    </div>
-    <h2 id="inscription">Prochaine session</h2>
-    {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
-    {% capture timestampEnd %}{{ page.alpha-end | date: '%s' }}{% endcapture %}
-    {% if timestampNow < timestampEnd %}
-      <div class="text-quote">
-        <ul>
-          <li>
-            <b>Quand ?</b><br />
-            {% if page.alpha-start == page.alpha-end %} Le {{ page.alpha-start | date: "%d/%m/%y" }} {% else %} Du {{ page.alpha-start | date: "%d/%m/%y" }} au {{ page.alpha-end | date: "%d/%m/%y" }}{% endif %} {{ page.alpha-time }}
-          </li> 
-          <li>
-            <b>Où ?</b><br />
-            <a href="{{ page.alpha-location-link }}">{{ page.alpha-location }}</a>
-          </li>
-          {% if page.alpha-catering %}
+<section class="section section-white" style="padding-top: 0;">
+  <div class="container">
+    <div class="documentation">
+      {% include sidebar-alpha.html %}
+      <div class="main-pane">
+        <div class="markdown">{{ content }}</div>
+        <h2 id="inscription">Prochaine session</h2>
+        {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %} {%
+        capture timestampEnd %}{{ page.alpha-end | date: '%s' }}{% endcapture %}
+        {% if timestampNow < timestampEnd %}
+        <div class="text-quote">
+          <ul>
+            <li>
+              <b>Quand ?</b><br />
+              {% if page.alpha-start == page.alpha-end %} Le {{ page.alpha-start
+              | date: "%d/%m/%y" }} {% else %} Du {{ page.alpha-start | date:
+              "%d/%m/%y" }} au {{ page.alpha-end | date: "%d/%m/%y" }}{% endif
+              %} {{ page.alpha-time }}
+            </li>
+            <li>
+              <b>Où ?</b><br />
+              <a href="{{ page.alpha-location-link }}"
+                >{{ page.alpha-location }}</a
+              >
+            </li>
+            {% if page.alpha-catering %}
             <li>
               <b>Quelle prise en charge ?</b><br />
-              {{ page.alpha-catering }}
+              {{ page.alpha-catering | markdownify | remove: '
+              <p>' | remove: '</p>
+              ' }}
             </li>
-          {% endif %}
-          {% if page.alpha-more %}
-            <li>{{ page.alpha-more }}</li>
-          {% endif %}
-          <li>
-            <a href="{{ page.alpha-link }}">Réserver sa place en ligne</a>
-          </li>
-        </ul>
+            {% endif %} {% if page.alpha-more %}
+            <li>
+              {{ page.alpha-more | markdownify | remove: '
+              <p>' | remove: '</p>
+              ' }}
+            </li>
+            {% endif %}
+            <li>
+              <a href="{{ page.alpha-link }}">Réserver sa place en ligne</a>
+            </li>
+          </ul>
+        </div>
+        {% else %}
+        <p>
+          Les dates de la prochaine session de formation Alpha seront bientôt
+          annoncées.
+        </p>
+        <p>
+          Vous pouvez vous renseigner dès à présent auprès sur
+          <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.
+        </p>
+        {% endif %}
       </div>
-    {% else %}
-      <p>Les dates de la prochaine session de formation Alpha seront bientôt annoncées.</p>
-      <p>Vous pouvez vous renseigner dès à présent auprès sur <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.</p>
-    {% endif %}
+    </div>
   </div>
 </section>

@@ -1,12 +1,12 @@
 ---
 title: GPS usagers
 mission: Orienter les usagers qui souhaitent joindre le département du Calvados vers le bon interlocuteur et le bon moyen de communication
-owner: DINSIC
+owner: Département du Calvados
 incubator: dinsic
-status: construction
+status: acceleration
 start: 2018-10-01
 end:
-link:
+link: https://www.calvados.fr/contact
 repository: https://github.com/betagouv/gps-usagers
 stats: false
 contact: clotilde.gournay@beta.gouv.fr
@@ -20,18 +20,26 @@ Le standard reçoit ainsi 400 appels par jour, qui sont redirigés de poste en p
 
 La majorité des appels concernent les services sociaux du département (RSA, enfance, autonomie, etc.). Ces personnes se trouvent généralement dans une situation précaire et l’absence de réponse à leurs appels est d’autant plus problématique.
 
-Ces redirections ont également pour conséquence un flux incessant d’appels dans les services sociaux du département qui ont de plus en plus de mal à trouver du temps pour instruire les dossiers et répondre aux usagers. Les secrétaires et assistant·e·s de directions passent aujourd’hui entre 10 et 30% de leur temps à rediriger des usagers sans pouvoir les aider.
-
-## Le bon interlocuteur et le bon canal pour chaque demande
-
-Dans un premier temps, notre produit fera en sorte d’orienter l’usager vers le bon interlocuteur (circonscriptions, directions générales, etc.) et de lui proposer le bon moyen de communication (mail, téléphone, prise de rendez-vous, demande de rappel dès que possible, chat, etc.). Le standard unique permettra de traiter les demandes plus complexes ou les urgences.
+Ces redirections ont également pour conséquence un flux incessant d’appels dans les services sociaux du département qui ont de plus en plus de mal à trouver du temps pour instruire les dossiers et répondre aux usagers. Les secrétaires, assistantes et assistants de direction passent aujourd’hui entre 10 et 30% de leur temps à rediriger des usagers sans pouvoir les aider.
 
 Notre solution permettra à terme d’éliminer les appels sans réponse pour les usagers et de soulager les agents publics dans leur gestion quotidienne des appels.
 
-## Les appels concernant le RSA
+## Une première version en ligne
 
-30% des appels passés au standard aujourd’hui concernent le RSA. Nous allons donc travailler dans un premier temps avec la Direction de l’Insertion et du Logement et le standard afin de garantir aux usagers une réponse pour ce type d’appels.
+Actuellement, le GPS usagers est disponible sur le site [calvados.fr](https://www.calvados.fr/contact) et oriente l’usager vers le bon interlocuteur (circonscriptions, directions générales, partenaires extérieurs tels la CAF, la MSA, etc.). Le numéro de téléphone du standard est toujours opérationnel et permet de traiter les demandes plus complexes ou les urgences.
 
-Plus largement, nous avons pour objectif de couvrir le plus rapidement possible tous les appels liés aux services sociaux du département.
+Durant la première phase de test, le GPS usagers a traité environ 600 réponses avec un taux de conversion (% des usagers ayant obtenu une réponse satisfaisante) de 90%.
 
-Les bons interlocuteurs à identifier seront les agents de gestions, les assistant·e·s de gestion et les secrétariats, à la direction générale ainsi que dans les circonscriptions.
+## Accélération
+
+### Couvrir l'ensemble des compétences du département
+
+40% des appels passés au standard aujourd’hui concernent le RSA ou le logement. Nous avons donc travaillé dans un premier temps avec la Direction de l’Insertion et du Logement et le standard afin de garantir aux usagers une réponse pour les appels sur ces sujets. Nous avons comme ambition de couvrir l'ensemble des compétences du département dans les prochains mois.
+
+### Augmenter le nombre de réponses par jour
+
+Pour la phase de test, nous avons intégré le GPS usagers à la page de contact du site calvados.fr. Ceci nous a permis de valider l'intérêt de notre solution. Afin d'augmenter notre impact, nous allons désormais déployer la solution sur la page d'accueil du site calvados.fr, la référencer sur des annuaires externes et proposer à des partenaires extérieurs (la CAF par exemple) de rediriger les usagers vers le GPS usagers plutôt que vers le standard.
+
+### Créer une interface d'administration
+
+Actuellement, chaque parcours utilisateur est intégré directement par le développeur de la startup. Afin de permettre une maintenance plus simple et d'offrir de nouvelles possibilités de contact (mail, prise de rendez-vous, demande de rappel, chat, etc.), nous allons développer une interface d'administration de l'application permettant à un.e administrateur.ice de créer, modifier et supprimer des parcours simplement.

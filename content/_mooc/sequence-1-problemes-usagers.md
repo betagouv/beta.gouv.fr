@@ -6,8 +6,8 @@ order: 1
 
 ## Identifier un problème
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xki7d" allowfullscreen></iframe>
   </div>
   <p>Pierre Pezziardi - Entrepreneur en résidence beta.gouv.fr</p>
@@ -16,8 +16,8 @@ order: 1
 
 ## Trouver une solution
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xki6j" allowfullscreen></iframe>
   </div>
   <p>Pierre Pezziardi - Entrepreneur en résidence beta.gouv.fr</p>
@@ -26,8 +26,8 @@ order: 1
 
 ## Déployer son produit
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xki43" allowfullscreen></iframe>
   </div>
   <p>Pierre Pezziardi - Entrepreneur en résidence beta.gouv.fr</p>
@@ -36,8 +36,8 @@ order: 1
 
 ## Convaincre son sponsor
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkhwh" allowfullscreen></iframe>
   </div>
   <p>Clélia Pienne - Sponsor beta.gouv.fr</p>

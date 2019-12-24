@@ -1,10 +1,8 @@
 ---
-title: Nos Startups d'État en investigation
+title: Les problèmes en cours d'investigation
 status: investigation
 label: Investigation
-related: investigation
-order: 5
+related: incubation
+order: 1
+short_description: Nous accompagnons un agent public pour investiguer un irritant ou un problème de politique publique
 ---
-### Un agent public ou une administration identifie un problème de politique publique
-
-Files d’attentes, gaspillage, complexité administrative, non-recours… Aidé par l’incubateur, l’agent public ou l’administration porteuse vérifie que cette friction concerne un public suffisamment large, qu’un outil numérique pourrait la faire disparaitre, et que les obstacles techniques sont surmontables. Lorsque l’administration porteuse donne son feu vert pour financer les travaux, l’équipe de la Startup d’État est constituée autour de l’agent public, et la construction du service peut alors débuter.

@@ -1,27 +1,59 @@
 ---
 title: Code du travail numérique
-mission: Faciliter l'accès au droit du travail pour les employeur·e·s et les employé·e·s.
-owner: Ministère des Affaires sociales
+mission: Faciliter l'accès au droit du travail pour les entreprises et les employés.
+owner: ministère du Travail
 incubator: sgmas
 status: acceleration
 start: 2017-12-01
 end:
-link: https://codedutravail.num.social.gouv.fr
-repository: https://github.com/SocialGouv/code-du-travail-explorer
+link: https://code.travail.gouv.fr
+repository: https://github.com/SocialGouv/code-du-travail-numerique
 stats: false
-contact: code-du-travail@beta.gouv.fr
+contact: codedutravailnumerique@travail.gouv.fr
+techno:
+  - Next.js
+  - PostCSS
+  - Node.js
+  - Express
+  - Elasticsearch
 ---
 
-Seul un public d'expert·e·s maitrîse la complexité du code du travail et de ses différentes sources de droit (conventions collectives, accords de branches et accords d'entreprises…). En plus de la diversité des sources de droit, la technicité de la matière la rend peu accessible pour les concerné·e·s : les employeur·e·s et les salarié·e·s.
+## Qu’est-ce que le Code du travail numérique ?
 
-Or tous les actifs sont impactés tous les jours par le droit qui régit leurs relations au travail, qui, mal compris, mal appliqué, peut avoir des conséquences importantes pour le salarié·e comme pour l'employeur·e.
+Le Code du travail numérique est un service public en ligne et gratuit vous permettant d’obtenir des réponses personnalisées sur le droit de travail.
 
-Les services de renseignement en droit du travail (dans les DIRECCTE<sup>1</sup>) répondent à plus de 900 000 demandes par an concernant le droit du travail, des questions les plus simples aux cas les plus complexes.
+L’ouverture officielle du site aura lieu le 1er janvier 2020.
 
-L'objectif du code du travail numérique est d'améliorer la lisibilité du droit pour ceux qu'il concerne.
+### Pourquoi le Code du travail numérique ?
 
-Construit avec les utilisateurs (employeurs et salariés) et les experts du terrain (inspecteur du travail services d’inspection du travail et de renseignements en droit du travail notamment), le service répondra aux questions que se posent les employeur·e·s, notamment de TPE PME, quant aux règles applicables à leur situation, ainsi qu'à celles que se posent les salarié·e·s
+Aujourd’hui, seul un public expert maîtrise la complexité du droit du travail et de ses différentes sources (code du travail, conventions collectives, accords d’entreprises, etc.). La technicité du sujet le rend également peu accessible pour les salariés et les employeurs. Or, le droit est d’autant plus facilement appliqué et respecté qu’il est connu et compris.
 
-Pour rendre le droit accessible et compréhensible, nous devons construire un modèle exécutable qui, en fonction de la situation d'une entreprise ou d'un salarié, sera capable de servir les droits et les obligations associées aux différentes thématiques comme la durée du travail, la rémunération, le contrat de travail (l’embauche, son exécution, sa rupture) ou la maladie par exemple. L'enjeu est donc d'identifier la source de droit applicable à des situations spécifiques et de donner une réponse claire sur les dispositions propres à la situation de l'utilisateur.
+La décision de créer le Code du travail numérique a donc été prise et inscrite dans [les ordonnances sur le renforcement du dialogue social de 2017](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=F175675A5AF37BD5745391E7C64C2FAB.tplgfr41s_3?cidTexte=JORFTEXT000035607388&idArticle=LEGIARTI000036762196&dateTexte=20191129&categorieLien=id#LEGIARTI000036762196).
 
-<sup>1</sup> : Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+### À qui ce service s'adresse-t-il ?
+
+Le Code du travail numérique s’adresse à tous les salariés et employeurs de droit privé relevant du code du travail (plus de 25 millions de personnes en France). Les fonctionnaires et les indépendants ne sont par exemple pas concernés.
+
+### Que peut-on trouver sur le site ?
+
+Le Code du travail numérique rassemble différents contenus sur le droit du travail ainsi que des réponses personnalisées selon votre situation.
+
+Plus précisément, vous retrouverez sur le site :
+- des réponses génériques sur le droit du travail dans un langage accessible ;
+- des réponses personnalisées selon votre convention collective ;
+- des simulateurs permettant d’estimer des durées de préavis, des montants d’indemnités… ;
+- des modèles de courrier.
+
+## Qui sommes-nous ?
+
+### Notre équipe
+
+Nous sommes une équipe pluridisciplinaire d’une dizaine de personnes composée de développeurs web, designers d’interface et d’expérience, juristes, inspecteurs du travail, spécialistes de la donnée… L’ensemble des agents du ministère du Travail contribue également au produit en rédigeant des contenus et en assurant la validité juridique des réponses.
+
+Le Code du travail numérique est un service public initié par [le ministère du Travail](https://travail-emploi.gouv.fr/ministere/organisation/article/dgt-direction-generale-du-travail), conçu et développé au sein de [l’incubateur des ministères sociaux](https://incubateur.social.gouv.fr/) en partenariat avec la communauté beta.gouv.fr.
+
+### Notre méthode
+
+Le service est développé en lien étroit avec les utilisateurs (employeurs et salariés) et les praticiens du droit du travail (services du ministère du Travail en région, conseillers du salarié, maisons d’accès au droit, professeurs en droit du travail...).
+
+Le site est en évolution continue et s’enrichit régulièrement de nouveaux contenus et de nouvelles fonctionnalités.

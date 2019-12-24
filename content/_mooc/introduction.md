@@ -6,8 +6,8 @@ order: 0
 
 ## Introduction à la méthode Startup d'État
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkiia" allowfullscreen></iframe>
   </div>
   <p>Pierre Pezziardi - Entrepreneur en résidence beta.gouv.fr</p>
@@ -16,8 +16,8 @@ order: 0
 
 ## Remplir sa fiche produit
 
-<div class="mooc-iframe-center">
-  <div class="mooc-iframe-container">
+<div class="video-iframe-center">
+  <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkifc" allowfullscreen></iframe>
   </div>
   <p>Jihane Herizi - Responsable du programme Alpha</p>

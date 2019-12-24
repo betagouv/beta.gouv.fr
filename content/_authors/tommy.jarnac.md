@@ -1,9 +1,11 @@
 ---
 fullname: Tommy Jarnac
 role: Développeur
-start: 2015-04-01
-end: 2016-11-30
-employer: independent/ey
+missions:
+  - start: '2015-04-01'
+    end: '2016-11-30'
+    status: independent
+    employer: ey
 startups:
 previously:
   - la-bonne-boite
