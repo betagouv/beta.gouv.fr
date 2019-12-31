@@ -8,7 +8,7 @@ start: 2019-06-10 # date au format ISO (AAAA-MM-DD)
 end: # laisser vide
 link: https://inclusion.beta.gouv.fr
 repository: 
-stats: false 
+stats: true 
 contact: contact@inclusion.beta.gouv.fr
 ---
 
