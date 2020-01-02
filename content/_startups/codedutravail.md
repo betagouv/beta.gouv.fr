@@ -22,7 +22,7 @@ techno:
 
 Le Code du travail numérique est un service public en ligne et gratuit vous permettant d’obtenir des réponses personnalisées sur le droit de travail.
 
-L’ouverture officielle du site aura lieu le 1er janvier 2020.
+L’ouverture officielle du site a eu lieu le 1er janvier 2020.
 
 ### Pourquoi le Code du travail numérique ?
 
