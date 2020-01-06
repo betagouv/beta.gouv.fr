@@ -1,0 +1,16 @@
+---
+fullname: Miryad Ali 
+role: Chargée de déploiement
+github: Miryad
+link: https://www.linkedin.com/in/miryad-ali/ 
+missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
+  - start: '2020-01-06' # date d'arrivée au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
+    end: '2020-08-31' # date de fin de contrat au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
+    status:  independent
+    employer: LaZone # si applicable, le nom de ton administration, SSII, etc.
+startups: # ta ou tes startups actuelles
+    - transport # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
+
+---
+
+Écrit des autobiographies percutantes en moins de 200 caractères depuis 1972.
