@@ -4,7 +4,7 @@ role: Chargée de développement
 github: duniaach
 missions: 
   - start: '2019-11-01'
-    end: '2019-12-31'
+    end: '2020-01-31'
     status: independent
     employer: octo
 startups:
