@@ -2,6 +2,7 @@
 fullname: Miryad Ali 
 role: Chargée de déploiement
 github: Miryad
+avatar : img/authors/miryad.ali.jpg
 link: https://www.linkedin.com/in/miryad-ali/ 
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
   - start: '2020-01-06' # date d'arrivée au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
@@ -13,4 +14,3 @@ startups: # ta ou tes startups actuelles
 
 ---
 
-Écrit des autobiographies percutantes en moins de 200 caractères depuis 1972.
