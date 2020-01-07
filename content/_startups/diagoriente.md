@@ -8,7 +8,8 @@ start: 2018-06-06
 end:
 link: https://diagoriente.beta.gouv.fr/
 repository: https://github.com/betagouv/diagoriente-front
-stats: false
+stats: true
+stats_url: https://diagoriente.beta.gouv.fr/statistiques
 contact: pascal.chaumette@id6tm.org
 redirect_from:
   - /startups/trouve-ta-voie
