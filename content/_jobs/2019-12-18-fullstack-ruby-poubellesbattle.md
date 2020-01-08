@@ -1,7 +1,7 @@
 ---
 roles: un.e developpeur.se fullstack Ruby on rails
 startup: Poubelles Battle
-open: true
+open: false
 ---
 
 Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une équipe autonome, agile, et proche de leurs utilisateurs ? 
