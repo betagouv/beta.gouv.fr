@@ -16,8 +16,8 @@ _Poste ouvert le 8/01/2020_
 ## Stack Technique CartoBio
 - Application Web : VueJS, 
 - Server: Geoserver, 
-- BDD: PostGIS, proxy: 
-- NodeJS, 
+- BDD: PostGIS,
+- proxy: NodeJS, 
 - Ops: Docker
 - Back-office : choix techniques à faire
 
@@ -52,7 +52,7 @@ Vous travaillerez au sein d’une équipe composée de : 1 intrapreneur / dével
 Travail à distance possible .
 
 * Charge estimée : 3 jours /semaine
-* Télétravail : flexible. Un minimum de présence ensemble dans les locaux est souhaitée (chaque semaine idéalement) - locaux à la DINUM, 20 avenue de Ségur 75007 PARIS et à Montreuil (Agence Bio: 6, rue Lavoisier 93100 Montreuil) 
+* Télétravail : possible. Un minimum de présence ensemble dans les locaux est tout de même souhaitée (une à deux fois par mois) - locaux à la DINUM, 20 avenue de Ségur 75007 PARIS et à Montreuil (Agence Bio: 6, rue Lavoisier 93100 Montreuil) 
 * Début souhaité : février 2020
 * Durée : 6 mois minimum
 * Contrat : Freelance (capacité à émettre des factures)
