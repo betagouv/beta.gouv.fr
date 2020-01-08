@@ -1,6 +1,6 @@
 ---
 fullname: Anne Becquet
-role: Intrapreneuse mission apprentissage
+role: Intrapreneuse
 github: Anne-Becquet
 ---
 
