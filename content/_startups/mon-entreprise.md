@@ -1,9 +1,9 @@
 ---
 title: Mon-entreprise.fr
 mission: "L'assistant officiel du créateur d'entreprise"
-owner: DINSIC / Acoss
+owner: Acoss
 incubator: dinsic
-status: acceleration
+status: consolidation
 start: 2014-10-01
 end:
 link: https://mon-entreprise.fr
@@ -52,5 +52,7 @@ Ce site s'appuiera sur le succès du *simulateur d'embauche*, intégré aujourd'
 
 
 ## Budget 💶
+
+La startup a un budget annuel pour l'année 2019 de _300 000 euros_ (tout compris, mais hors TVA), et bénéficie de l'aide précieuse de plusieurs agents de l'administration. La DINSIC et l'ACOSS se partagent le financement.
 
 La startup a un budget annuel pour l'année 2019 de _300 000 euros_ (tout compris, mais hors TVA), et bénéficie de l'aide précieuse de plusieurs agents de l'administration. La DINSIC et l'ACOSS se partagent le financement.
