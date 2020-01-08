@@ -1,6 +1,6 @@
 ---
 roles:  développeur.se Back End
-startup: CartoBio
+startup: cartobio
 techno: Choix libre 
 junior: false
 open: true
@@ -52,7 +52,7 @@ Vous travaillerez au sein d’une équipe composée de : 1 intrapreneur / dével
 Travail à distance possible .
 
 * Charge estimée : 3 jours /semaine
-* Télétravail : possible. Un minimum de présence ensemble dans les locaux est tout de même souhaitée (une à deux fois par mois) - locaux à la DINUM, 20 avenue de Ségur 75007 PARIS et à Montreuil (Agence Bio: 6, rue Lavoisier 93100 Montreuil) 
+* Télétravail : possible. Un minimum de présence ensemble dans les locaux est tout de même souhaitée (une à deux fois par mois) - locaux à la DINUM (PARIS 7) et à l'Agence Bio (Montreuil) 
 * Début souhaité : février 2020
 * Durée : 6 mois minimum
 * Contrat : Freelance (capacité à émettre des factures)
