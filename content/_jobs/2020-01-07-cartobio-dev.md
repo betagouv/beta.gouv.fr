@@ -3,7 +3,7 @@ roles:  développeur.se Back End
 startup: cartobio
 techno: Choix libre 
 junior: false
-open: true
+open: false
 ---
 
 
