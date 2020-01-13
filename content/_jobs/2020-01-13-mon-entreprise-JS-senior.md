@@ -1,7 +1,7 @@
 ---
-roles: Dev JS experimenté.e
+roles: Dev JavaScript experimenté.e
 startup: mon-entreprise
-techno: TypeScript, React
+techno: TypeScript / React
 open: true
 ---
 
@@ -20,7 +20,7 @@ Vous pourrez ainsi retrouver sur le site des simulateurs de cotisations sociales
 Le site reçoit près de 200 000 visites par mois, avec une forte croissance. Le projet est financé à 100% par l'Acoss (l'organisme à la tête du réseau des Urssaf).
 
 
-## Techniquement :computer: 
+## Techniquement 💻
 
 - Le site est un site statique, entièrement codé en **TypeScript + React**. 
 - Nous sommes un projet libre et open-source, ouvert aux contributions. Nous utilisons extensivement Github.
