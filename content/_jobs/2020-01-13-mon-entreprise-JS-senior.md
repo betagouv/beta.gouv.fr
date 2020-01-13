@@ -1,6 +1,7 @@
 ---
 roles: Dev JS experimenté.e
 startup: mon-entreprise
+techno: TypeScript, React
 open: true
 ---
 
