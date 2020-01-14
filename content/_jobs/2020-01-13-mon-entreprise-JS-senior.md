@@ -5,6 +5,8 @@ techno: TypeScript / React
 open: true
 ---
 
+![](https://mon-entreprise.fr/images/logo-share.png)
+
 # Mon-entreprise.fr recrute (JS / experimenté.e)
 
 ## Présentation 📯
@@ -27,7 +29,7 @@ Le site reçoit près de 200 000 visites par mois, avec une forte croissance. Le
 - Nous avons développé un language spécifique permettant de décrire de manière lisible la juridiction socio-fiscale (https://publi.codes)
 - Nous avons utilisé ce langage pour développer des simulateurs de revenus ([voir la base de règles](https://mon-entreprise.fr/documentation/))
 
-:point_right: **[Voir le repo](https://github.com/betagouv/mon-entreprise/)**
+👉 **[Voir le repo](https://github.com/betagouv/mon-entreprise/)**
 
 ## La mission 🎯
 
