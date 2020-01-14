@@ -5,7 +5,7 @@ techno: TypeScript / React
 open: true
 ---
 
-![](https://mon-entreprise.fr/images/logo-share.png)
+<img src="https://mon-entreprise.fr/images/logo-share.png" alt="drawing" width="250"/>
 
 # Mon-entreprise.fr recrute (JS / experimenté.e)
 
