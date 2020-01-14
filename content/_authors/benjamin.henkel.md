@@ -12,4 +12,4 @@ startups:
   - demarches-simplifiees.fr
 ---
 
-Trop fan des Startups d'État
+ 
