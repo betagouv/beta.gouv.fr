@@ -1,7 +1,6 @@
 ---
 fullname: Thomas Guillet
 role: Développeur
-link: https://mes-aides.org
 missions:
   - start: '2017-03-06'
     end: '2017-12-26'
