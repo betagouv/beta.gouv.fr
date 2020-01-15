@@ -14,4 +14,6 @@ missions:
 startups:
   - mes-aides
   - voir-et-localiser
+  - lapins
 ---
+Tout faire pour les usagers
