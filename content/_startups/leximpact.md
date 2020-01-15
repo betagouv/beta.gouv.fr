@@ -5,7 +5,7 @@ owner: Assemblée nationale
 incubator: dinsic
 status: consolidation
 start: 2019-01-21
-end: 2019-11-21
+end: 2020-01-03
 link: https://leximpact.beta.gouv.fr/
 repository: https://github.com/betagouv/leximpact/
 stats: false
