@@ -3,7 +3,7 @@ roles:  développeur.se full stack Frontend
 startup: api.gouv.fr
 techno: React 16, NextJS, NodeJS 12
 junior: false
-open: false
+open: true
 ---
 
 ## API.GOUV.FR
@@ -30,7 +30,11 @@ api.gouv.fr est le point d'entrée unique vers l'ensemble des api de l'administr
 
 ## Rôle
 
-Sur api.gouv.fr, tu t'occuperas dans un premier temps d'implémenter les maquettes que notre UX développeuse à conçue suite à son enquête auprès de nos utilisateurs. Cela te permettra de monter en compétence sur la stack technique mais surtout de bien comprendre notre métier. Ensuite nous souhaiterions que tu t'appropries api.gouv.fr et que tu le fasses vivre en tirant des améliorations a partir des questions que ne manqueront pas de nous poser les utilisateurs. Dans la mesure ou api.gouv.fr est notre vitrine, il serait souhaitable que tu sois force de proposition en particulier sur l'expérience utilisateur et le design de l'interface. La réussite de la mission Dites le nous une fois reposera en partie sur ta capacité à faire de api.gouv.fr une platforme intelligible et fluide. Enfin, tes compétences backend serons aussi les bienvenues. Si aujourd'hui api.gouv.fr ne gère pas de données, les évolutions que tu imaginerais pourrait en nécéssiter, et par conséquent, il faudra que tu sois capable d'installer et d'exploiter une base de donnée. Mais pour cette partie pas d'inquiétude, nous sommes plutôt une équipe backend de part notre métier.
+Sur api.gouv.fr, vous vous occuperez dans un premier temps d'implémenter les maquettes que notre UX développeuse a conçu suite à son enquête auprès de nos utilisateurs. Cela vous permettra de monter en compétence sur la stack technique mais surtout de bien comprendre notre métier.
+
+Ensuite nous souhaiterions que vous vous appropriez api.gouv.fr et que vous le fassiez vivre en tirant des améliorations a partir des questions que ne manqueront pas de vous poser les utilisateurs. Dans la mesure ou api.gouv.fr est notre vitrine, il serait souhaitable que vous soyez force de proposition en particulier sur l'expérience utilisateur et le design de l'interface.
+
+La réussite de la mission Dites le nous une fois reposera en partie sur votre capacité à faire de api.gouv.fr une platforme intelligible et fluide. Enfin, vos compétences backend seront aussi les bienvenues. Si aujourd'hui api.gouv.fr ne gère pas de données, les évolutions que vous imaginerez pourrait en nécéssiter, et par conséquent, il faudra que vous soyez capable d'installer et d'exploiter une base de donnée. Mais pour cette partie pas d'inquiétude, nous sommes plutôt une équipe backend de part notre métier.
 
 ## Envrionnement de travail
 
