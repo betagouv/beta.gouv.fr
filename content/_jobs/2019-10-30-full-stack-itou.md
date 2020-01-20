@@ -2,7 +2,7 @@
 roles: un·e développeur·se
 startup: Itou
 techno: Django-Python
-open: false
+open: true
 ---
 
 L'équipe Itou recherche un·e développeur·se Django-Python. Vous ferez partie de l'équipe produit, participerez à la conception, au développement et au déploiement de l'application.
@@ -55,7 +55,7 @@ L’équipe est dispersée à travers la France, et travaille principalement à 
 
 - Charge : 4/5e
 - Durée : 6 mois renouvelables
-- Début souhaité : janvier 
+- Début souhaité : avril 
 - Contrat : Freelance
 
 
