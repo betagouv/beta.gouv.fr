@@ -7,7 +7,8 @@ link: https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/jean-b
 missions: 
   - start: '2020-02-01' 
     end: '2020-12-31' 
-    status: independent 
+    status: independent
+    employer: octo
 startups: 
     - itou
 ---
