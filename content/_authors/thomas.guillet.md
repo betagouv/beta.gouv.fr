@@ -1,6 +1,7 @@
 ---
 fullname: Thomas Guillet
 role: Développeur
+link: https://palya.fr/
 missions:
   - start: '2017-03-06'
     end: '2017-12-26'
