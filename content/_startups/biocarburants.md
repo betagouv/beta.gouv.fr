@@ -9,7 +9,7 @@ end:
 link: 
 repository: https://github.com/MTES-MCT/biocarburants
 stats: false
-contact: 
+contact: guillaume.caillou@developpement-durable.gouv.fr
 ---
 
 ## Le problème
