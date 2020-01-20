@@ -7,6 +7,6 @@ missions:
     end: '2021-01-14'
     status: admin
 startups:
-  - biocarburant
+  - biocarburants
 ---
 Gestionnaire de la durabilité des biocarburants au Ministère de la Transition Écologique et Solidaire
