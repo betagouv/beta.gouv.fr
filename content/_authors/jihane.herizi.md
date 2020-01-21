@@ -1,13 +1,14 @@
 ---
 fullname: Jihane Herizi
-role: Entrepreneure associée
+role: Responsable de portefeuille
 missions:
   - start: '2017-10-11'
-    end: '2019-12-31'
-    status: independent
+    end: '2023-01-05'
+    status: contractuel 
 startups:
-  - mon-entreprise
+  - beta.gouv.fr
 previously:
   - pass-culture
   - Alpha
+  - mon-entreprise
 ---
