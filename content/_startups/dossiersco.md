@@ -18,21 +18,12 @@ Permettre aux agents de récupérer les pièces et les données nouvelles, sans 
 
 ## Raisons de l'abandon du produit
 
-En cours d'élaboration.
+Le produit DossierSco visait initialement à répondre à une volonté de Matignon exprimée début 2018, et reprise par le Ministère de l’éducation nationale et de la jeunesse, de simplifier les inscriptions au collège par la dématérialisation.
 
-## Campagne 2018
+Malgré de premiers résultats prometteurs et après avoir constaté les difficultés d’intégration du produit dans l’écosystème de gestion existant et l’incapacité de l’équipe à généraliser le produit à tous les collèges de France, contrairement aux objectifs fixés par convention, les services du Premier ministre et de l’Education nationale ont décidé conjointement l’arrêt de l’expérimentation en octobre 2019.
 
-Sur les 751 élèves de 4 collèges qui ont bénéficié de l’expérimentation en juin 2018, le taux de recours au service numérique a été de 98%.
+D’autres difficultés liées à la répartition des rôles au sein de l’équipe, au maintien de la mobilisation des ressources et à la stratégie de déploiement notamment expliquent ce constat. L'équipe a également souffert de deux interruptions de travail pour cause de délais de signature des renouvellements de convention, la plus longue ayant coûté 4 mois d'arrêt du développement et des départs dans l'équipe.
 
-Les familles ont plébiscité la démarche : invitées à donner une note de 1 (Très insatisfait) à 5 (Très satisfait) en fin de parcours, 80% d'entre elles ont répondu, attribuant une note moyenne de 4,5.
+DossierSco a par ailleurs souffert d’une saisonnalité particulière, où l’usage du produit se concentre sur 1 mois de l’année, rendant caduque le principe d’itérer régulièrement sur le produit. Par ailleurs, l’intrapreneur a fait l’objet d’attentes difficiles à assumer, au vu de son métier et de sa disponibilité (détaché à 60% sur DossierSco). Enfin, la collecte des besoins et des retours utilisateurs n’a pas été suffisamment cadrée et régulière pour permettre une priorisation efficace des évolutions du produit.
 
-Le champ lexical des appréciations, très nombreuses, déposées par les familles, est remarquablement cohérent, les 5 premiers mots-clé ressortant du « nuage de mots » sont: « bien », « pratique », « simple », « rapide », « merci » (65% des parents ont pris le temps de laisser un message).
-
-Parmi les améliorations envisagées pour la campagne 2019 :
-- simplifier l'attribution du tarif de cantine approprié pour chaque famille
-- améliorer les moyens fournis aux établissements pour inviter les familles à utiliser le service
-- proposer un formulaire prérempli pour communiquer les informations médicales sous pli cacheté (pour des raisons de confidentialité)
-- faciliter l'adhésion aux initiatives associatives telles que le foyer socio-éducatif
-- fournir des identifiants distincts à chaque responsable légal afin notamment de protéger encore plus dans des situations familiales difficiles.
-
-Au sein du Ministère de l'Éducation nationale, DossierSCO est hébergé au lab [110 bis](http://www.education.gouv.fr/110bislab/pid37871/bienvenue-au-110-bis-le-lab-d-innovation-de-l-education-nationale.html).
+En capitalisant sur les enseignements de cette expérience, notamment en termes fonctionnels, d’ergonomie, de recueil de besoins, de mobilisation des utilisateurs finaux, d’évaluation en continu, le ministère de l’Education nationale et de la jeunesse va désormais travailler au développement en interne d’un produit de substitution.
