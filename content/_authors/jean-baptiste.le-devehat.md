@@ -5,7 +5,7 @@ github: jbledevehat
 avatar: https://entrepreneur-interet-general.etalab.gouv.fr//img/communaute/jean-baptiste-le-devehat.png
 link: https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/jean-baptiste-le-devehat.html
 missions: 
-  - start: '2020-02-01' 
+  - start: '2020-01-19' 
     end: '2020-12-31' 
     status: independent
     employer: octo
