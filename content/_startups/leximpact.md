@@ -30,7 +30,7 @@ C'est pourquoi, là où le Parlement détient une expertise politique et juridiq
 
 LexImpact se décline en deux interfaces : 
 - OPEN LexImpact, permettant d'estimer les **impacts d'une réforme sur des foyers fiscaux types**. 
-- LexImpact POP permettant, en plus des fonctionnalités déjà présentes sur la version grand public, d'estimer **les impacts macros d'une réforme sur la population et les recettes de l'État**. LexImpact POP est, à ce jour, uniquement accessible aux parlementair·e·s et leurs collaborat·eurs·rices, ainsi qu'aux administrat·eurs·rices impliqués dans la fabrique de la loi. 
+- LexImpact POP permettant, en plus des fonctionnalités déjà présentes sur la version grand public, d'estimer **les impacts macros d'une réforme sur la population et les recettes de l'État**. LexImpact POP est, à ce jour, uniquement accessible aux parlementaires et leurs collaborat·eurs·rices, ainsi qu'aux administrat·eurs·rices impliqués dans la fabrique de la loi. 
 
 Le service s'appuie sur [OpenFisca](https://openfisca.org), logiciel libre créé en 2011 qui transforme le code législatif en code informatique.
 LexImpact est l'un des défis de la promotion 3 des [Entrepreneurs d'intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/).
@@ -41,7 +41,7 @@ Le code de LexImpact est libre, sous licence AGPL-3.0, et peut donc être vérif
 
 # Les prochaines étapes
 
-Le défi LexImpact est pérénisé à l'Assemblée nationale. Ceci est acté par [décision de Questure au 12 décembre 2019](http://www2.assemblee-nationale.fr/15/le-college-des-questeurs/releves-des-decisions/2019/decisions-de-questure-de-la-reunion-du-12-decembre-2019).
+Le défi LexImpact est pérennisé à l'Assemblée nationale. Ceci est acté par [décision de Questure au 12 décembre 2019](http://www2.assemblee-nationale.fr/15/le-college-des-questeurs/releves-des-decisions/2019/decisions-de-questure-de-la-reunion-du-12-decembre-2019).
 
 Le produit circonscrit à l'Article 197 du CGI est fonctionnel et il a été [utilisé lors du débat du Projet de Loi de Finances 2020](http://www2.assemblee-nationale.fr/recherche/amendements#listeResultats=tru&idDossierLegislatif=&idExamen=&missionVisee=&numAmend=&idAuteur=&premierSignataire=false&idArticle=&idAlinea=&sort=&sousReserveDeTraitement=&dateDebut=&dateFin=&periodeParlementaire=&texteRecherche=leximpact&zoneRecherche=tout&nbres=10&format=html&regleTri=ordre_texte&ordreTri=croissant&start=1). 
 Il est désormais transmis à l'Assemblée nationale et accessible à cette adresse : https://leximpact.an.fr
