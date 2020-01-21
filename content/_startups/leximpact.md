@@ -30,12 +30,14 @@ C'est pourquoi, là où le Parlement détient une expertise politique et juridiq
 
 LexImpact se décline en deux interfaces : 
 - OPEN LexImpact, permettant d'estimer les **impacts d'une réforme sur des foyers fiscaux types**. 
-- LexImpact POP permettant, en plus des fonctionnalités déjà présente sur la version grand public, d'estimer **les impacts macros d'une réforme sur la population et les recettes de l'État**. LexImpact POP est, à ce jour, uniquement accessible aux député·e·s et leurs collaborat·eurs·rices, ainsi qu'aux administrat·eurs·rices de l'Assemblée nationale. 
+- LexImpact POP permettant, en plus des fonctionnalités déjà présentes sur la version grand public, d'estimer **les impacts macros d'une réforme sur la population et les recettes de l'État**. LexImpact POP est, à ce jour, uniquement accessible aux parlementair·e·s et leurs collaborat·eurs·rices, ainsi qu'aux administrat·eurs·rices impliqués dans la fabrique de la loi. 
 
-Le service s'appuie sur OpenFisca, logiciel libre créé en 2012 qui transforme le code législatif en code informatique.
+Le service s'appuie sur [OpenFisca](https://openfisca.org), logiciel libre créé en 2011 qui transforme le code législatif en code informatique.
 LexImpact est l'un des défis de la promotion 3 des [Entrepreneurs d'intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/).
 
-Le code de LexImpact est libre, sous licence AGPL-3.0, et peut donc être vérifié et amélioré par toutes et tous.
+Le code de LexImpact est libre, sous licence AGPL-3.0, et peut donc être vérifié et amélioré par toutes et tous. Ce code source est réparti en deux dépôts GitHub que voici :
+* code source du [client leximpact](https://github.com/betagouv/leximpact-client),
+* code source du [serveur leximpact](http://github.com/betagouv/leximpact-server).
 
 # Les prochaines étapes
 
