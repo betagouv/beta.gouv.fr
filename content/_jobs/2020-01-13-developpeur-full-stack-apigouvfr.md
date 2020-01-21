@@ -3,7 +3,7 @@ roles:  développeur.se full stack Frontend
 startup: api.gouv.fr
 techno: React 16, NextJS, NodeJS 12
 junior: false
-open: true
+open: false
 ---
 
 ## API.GOUV.FR
