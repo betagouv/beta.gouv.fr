@@ -4,7 +4,7 @@ role: Développeur
 github: tglatt
 missions:
   - start: '2019-02-18'
-    end: '2019-12-31'
+    end: '2020-06-30'
     status: independent
 startups:
     - tremplin
