@@ -44,6 +44,6 @@ Le code de LexImpact est libre, sous licence AGPL-3.0, et peut donc être vérif
 Le défi LexImpact est pérennisé à l'Assemblée nationale. Ceci est acté par [décision de Questure au 12 décembre 2019](http://www2.assemblee-nationale.fr/15/le-college-des-questeurs/releves-des-decisions/2019/decisions-de-questure-de-la-reunion-du-12-decembre-2019).
 
 Le produit circonscrit à l'Article 197 du CGI est fonctionnel et il a été [utilisé lors du débat du Projet de Loi de Finances 2020](http://www2.assemblee-nationale.fr/recherche/amendements#listeResultats=tru&idDossierLegislatif=&idExamen=&missionVisee=&numAmend=&idAuteur=&premierSignataire=false&idArticle=&idAlinea=&sort=&sousReserveDeTraitement=&dateDebut=&dateFin=&periodeParlementaire=&texteRecherche=leximpact&zoneRecherche=tout&nbres=10&format=html&regleTri=ordre_texte&ordreTri=croissant&start=1). 
-Il est désormais transmis à l'Assemblée nationale et accessible à cette adresse : https://leximpact.an.fr
+Il est désormais transmis à l'Assemblée nationale et accessible à cette adresse : [leximpact.an.fr](https://leximpact.an.fr)
 
 **Les prochains objectifs sont que LexImpact poursuive son amélioration continue au sein de l'Assemblée nationale et que le service d'évaluation étende son champ d'action à d'autres portions de la loi.**
