@@ -1,11 +1,12 @@
 ---
 fullname: Ivan Gabriele
 role: Développeur
-link: https://github.com/ivangabriele
 github: ivangabriele
+link: https://www.ivangabriele.com
 missions:
-  - start: '2019-02-12'
-    end: '2019-12-31'
+  - employer: octo
+    end: '2020-03-31'
+    start: '2019-02-12'
     status: independent
 startups:
     - codedutravail
