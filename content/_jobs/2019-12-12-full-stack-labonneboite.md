@@ -2,7 +2,7 @@
 roles: un·e développeur·se
 startup: la-bonne-boite
 techno: Python, Flask, Django, ReactJS
-open: true
+open: false
 ---
 
 La Startup d'Etat [La Bonne Boite](https://labonneboite.pole-emploi.fr/) ainsi que son sous-projet [La Bonne Alternance](https://labonnealternance.pole-emploi.fr/) recrutent leur nouveau·elle développeur·se web full stack en freelance! Vous ferez partie de l'équipe produit, participerez à la conception, au développement et au déploiement de l'application.
