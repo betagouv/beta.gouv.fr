@@ -7,4 +7,5 @@ missions:
     end: '2020-04-20'
     status: independent
 startups:
-    - workinfrance
+  - workinfrance
+---
