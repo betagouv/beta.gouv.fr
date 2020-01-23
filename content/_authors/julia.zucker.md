@@ -1,14 +1,12 @@
 ---
 fullname: Julia Zucker
 role: Intrapreneuse
-link: <un lien vers ton site, linkedin, page perso, etc (pas obligatoire)>
+link: https://fr.linkedin.com/in/julia-zucker-37369787
 missions:
-    - start: <date de début de mission>
+    - start: "2019-11-01"
       end:
       status: admin
       employer: SG/DMA
 startups:
     - access4all
 ---
-
-<une courte bio ici si tu le souhaites>
