@@ -23,15 +23,15 @@ Pourtant, mettre progressivement en place des premières actions peut permettre 
 
 ## L’information environnementale au bon moment, au bon endroit
 Pour faciliter et accélérer le passage à l’acte vers de nouveaux modes de vie, il faut pouvoir proposer directement les informations pertinentes au bon moment et sur les applications déjà largement utilisées. Une information environnementale parlante et fiable apportée lors de la décision de consommation, au sein des routines et processus existants.
-Tous les services positionnés sur le "parcours utilisa.teur.trice" sont ainsi pertinents pour exposer ces informations.
+Tous les services positionnés sur le "parcours utilisateur" sont ainsi pertinents pour exposer ces informations.
 
-Pour répondre à leurs utilisa.teurs.trices, les applications ou sites web souhaitent ainsi mieux rendre compte de l'impact des biens ou services qu'elles proposent, ou apporter des informations environnementales. Se retrouvant seules pour traiter cette dimension très complexe, celles-ci font trop souvent le choix de ne pas l’intégrer. Même les applications avec un prisme environnemental fort peinent à trouver des données fiables facilement accessibles et intégrables.
+Pour répondre à leurs utilisateurs, les applications ou sites web souhaitent ainsi mieux rendre compte de l'impact des biens ou services qu'elles proposent, ou apporter des informations environnementales. Se retrouvant seules pour traiter cette dimension très complexe, celles-ci font trop souvent le choix de ne pas l’intégrer. Même les applications avec un prisme environnemental fort peinent à trouver des données fiables facilement accessibles et intégrables.
 
-## Ecolab, un service pour apporter l’information environnementale là où les consomma.teur.trice.s (en) sont
-Ecolab est un service porté par l’ADEME qui vise à susciter des comportements plus durables en apportant une information environnementale fiable au cœur des applications et services les plus utilisés par les particuliers dans leurs différents processus de décisions et de consommation. Il vise donc à mobiliser et à mettre à disposition des entreprises, associations ou collectifs qui créent ces applications, les données environnementales nécessaires et à les accompagner jusqu’à leur diffusion et compréhension auprès des citoyen.ne.s.
+## Ecolab, un service pour apporter l’information environnementale là où les consommateurs (en) sont
+Ecolab est un service porté par l’ADEME qui vise à susciter des comportements plus durables en apportant une information environnementale fiable au cœur des applications et services les plus utilisés par les particuliers dans leurs différents processus de décisions et de consommation. Il vise donc à mobiliser et à mettre à disposition des entreprises, associations ou collectifs qui créent ces applications, les données environnementales nécessaires et à les accompagner jusqu’à leur diffusion et compréhension auprès des citoyens.
 
 
->Pour l'alimentation par exemple, l'utilisateur.trice peut être sensible à ces informations à chaque étape des courses : idée de recette, liste de course, scan en magasin d'un produit depuis son smartphone, paiement, reçu de caisse…
+>Pour l'alimentation par exemple, l'utilisateur ou l'utilisatrice peut être sensible à ces informations à chaque étape des courses : idée de recette, liste de course, scan en magasin d'un produit depuis son smartphone, paiement, reçu de caisse…
 Nous suivons presque tous au moins une de ces étapes.
 
 Il est construit selon l’approche Startup d’État depuis mars 2019, grâce à l’appui stratégique et opérationnel de la DINUM. 
@@ -39,7 +39,7 @@ Il est construit selon l’approche Startup d’État depuis mars 2019, grâce �
 ## Réalisations à date
 La mise à jour et l’élargissement en cours de la base de données d'impact environnemental de l'alimentation étant prévue jusqu’à début 2020, la première période a visé à préparer cette sortie pour que ces données puissent être exposées de manière pertinente, intelligible par le plus grand nombre, et le plus largement possible dès leur publication.
 
-Ainsi, les premiers mois de travail ont permis d’identifier et de mobiliser des relais clés positionnés sur le "parcours utilisa.teur.trice" (40 partenaires sont ainsi désormais impliqués dans la démarche couvrant plus de 10 millions d’utilisa.teurs.trices), pour comprendre leurs besoins, valider un format d’échange, et co-construire des premiers cas d'usage dans leur service.
+Ainsi, les premiers mois de travail ont permis d’identifier et de mobiliser des relais clés positionnés sur le "parcours utilisateur" (40 partenaires sont ainsi désormais impliqués dans la démarche couvrant plus de 10 millions d’utilisateurs), pour comprendre leurs besoins, valider un format d’échange, et co-construire des premiers cas d'usage dans leur service.
 
 ## Perspectives à court, moyen et long termes
 Après s'être concentré sur le secteur alimentaire, le service vise à progressivement couvrir les 3 champs suivants :
@@ -49,6 +49,6 @@ Après s'être concentré sur le secteur alimentaire, le service vise à progres
     * premier zoom : se déplacer
 
 A court terme : concrétiser les cas d’utilisation possibles des données pour co-construire avec les acteurs impliqués dans le secteur des déplacements.
-En plus des données chiffrées d'impact, il s'agira de progressivement structurer de nouvelles informations (informations contextuelles, recommandations…) pour maximiser les changements de comportement et apporter des moyens d'action aux citoyen.ne.s.
+En plus des données chiffrées d'impact, il s'agira de progressivement structurer de nouvelles informations (informations contextuelles, recommandations…) pour maximiser les changements de comportement et apporter des moyens d'action aux citoyens.
 
-A moyen terme : déployer le service auprès de nouveaux partenaires et en mesurer l’impact auprès des utilisa.teurs.trices.
+A moyen terme : déployer le service auprès de nouveaux partenaires et en mesurer l’impact auprès des utilisatrices et utilisateurs.
