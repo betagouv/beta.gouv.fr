@@ -1,6 +1,6 @@
 ---
 fullname: Samir Benfares
-role: Developpeur
+role: Développeur
 github: mistersam91
 missions:
   - start: '2020-01-22'
