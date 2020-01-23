@@ -2,7 +2,7 @@
 roles: une personne responsable du déploiement de l'API le.taxi 
 startup: le-taxi
 junior: false
-open: true
+open: false
 title: Responsable du déploiement de l'API le.taxi
 ---
 
