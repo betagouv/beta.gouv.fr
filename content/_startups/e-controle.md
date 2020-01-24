@@ -6,7 +6,7 @@ incubator: dinsic
 status: acceleration
 start: 2018-09-03
 end:
-link:
+link: https://e-controle-beta.ccomptes.fr
 repository: https://github.com/betagouv/e-controle
 stats: true
 stats_url: https://infogram.com/indicateurs-1h0n250kv01l4pe?live
