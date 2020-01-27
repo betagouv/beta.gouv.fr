@@ -8,7 +8,7 @@ start: 2017-12-01
 end:
 link: https://code.travail.gouv.fr
 repository: https://github.com/SocialGouv/code-du-travail-numerique
-stats: false
+stats: https://code.travail.gouv.fr/stats
 contact: codedutravailnumerique@travail.gouv.fr
 techno:
   - Next.js
