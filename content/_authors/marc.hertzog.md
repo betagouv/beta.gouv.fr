@@ -17,7 +17,7 @@ missions:
     status: independent
     employer: ey
   - start: '2019-07-01'
-    end: '2020-01-31'
+    end: '2020-07-31'
     status: independent
     employer: octo
 startups:
