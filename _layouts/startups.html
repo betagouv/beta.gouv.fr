@@ -19,11 +19,16 @@ layout: default
             {% for phase in phases %}
               {% assign counter_target = phase.id | remove: "/phases/" %}
               {% assign counter = site.startups | where:'status', counter_target | size %}
+              {% if phase.status == "investigation" %}
+                  {% assign title-label = "problème" %}
+              {% else %}
+                  {% assign title-label = "service" %}
+              {% endif %}
               <li>
                 <div class="startup-lists__counter">{{ counter }}</div>
                 <div class="startup-lists__label">{{ phase.label }}</div>
                 <p class="startup-lists__description">{{ phase.short_description }}</p>
-                <a class="startup-lists__link" href="/startups/#{{ phase.status }}">Voir les startups</a>
+                <a class="startup-lists__link" href="/startups/#{{ phase.status }}">Voir les {{title-label}}s</a>
               </li>
             {% endfor %}
         </ul>
@@ -59,8 +64,14 @@ layout: default
               {% if counter > 1 %}
                 {% assign plural = "s" %}
               {% endif %}
+              {% if phase.status == "investigation" %}
+                  {% assign title-label = "problème" %}
+              {% else %}
+                  {% assign title-label = "service" %}
+              {% endif %}
               <div id="{{ phase.status }}" style="padding-top: 4em;">
-                  <h2 class="phase-title"><em>{{ counter }}</em> Startup{{ plural }} d’État en <em>{{ phase.label | downcase }}</em></h2>
+                  
+                  <h2 class="phase-title"><em>{{ counter }}</em> {{ title-label }}{{ plural }} en <em>{{ phase.label | downcase }}</em></h2>
                   <p class="phase-description">{{ phase.short_description }}.</p>
                   <div class="startups grid">
                     {% assign startups = site.startups | where:"status", phase.status %}
