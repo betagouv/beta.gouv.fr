@@ -7,5 +7,5 @@ missions:
     end: '2020-12-31'
     status: admin
 startups: 
-- Anotea
+    - anotea
 ---
