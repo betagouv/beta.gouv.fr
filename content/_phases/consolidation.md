@@ -1,8 +1,8 @@
 ---
 title: Nos services en consolidation
 status: consolidation
-label: Consolidation
+label: Consolidation (sortie d'incubation)
 related: incubation
 order: 4
-short_description: Le service se pérennise et devient un service public numérique national disponible pour tous
+short_description: Le service quitte sa phase d'incubation, se pérennise et devient un service public numérique national ou local disponible pour tous
 ---
