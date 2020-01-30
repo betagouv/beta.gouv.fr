@@ -59,7 +59,7 @@ layout: default
               {% if counter > 1 %}
                 {% assign plural = "s" %}
               {% endif %}
-              {% if phase.status = "investigation" %}
+              {% if phase.status == "investigation" %}
                   {% assign title-label = "problème" %}
               {% else %}
                   {% assign title-label = "service" %}
