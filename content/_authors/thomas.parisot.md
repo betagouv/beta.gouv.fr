@@ -8,8 +8,8 @@ missions:
     employer: octo
   - start: '2020-02-04'
     end: '2020-08-03'
-    status: independant
-    employer: octo
+    status: independent
+    employer: lazone/scopyleft
 link: https://oncletom.io
 github: oncletom
 startups:
