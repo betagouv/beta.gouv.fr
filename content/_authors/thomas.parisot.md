@@ -13,8 +13,9 @@ missions:
 link: https://oncletom.io
 github: oncletom
 startups:
-    - data.gouv.fr
     - cartobio
+previously:
+     - data.gouv.fr
 ---
 
 Vivre un futur désirable.
