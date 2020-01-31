@@ -142,7 +142,7 @@ collections:
           - { label: "Classes à 12", value: "classes12" }
           - { label: "Co-construisons", value: "co-construisons" }
           - { label: "Code du travail numérique", value: "codedutravail" }
-          - { label: "Compétences pro", value: "competences-pro" }
+          - { label: "eva", value: "eva" }
           - { label: "data.gouv.fr", value: "data.gouv.fr" }
           - { label: "demarches-simplifiees.fr", value: "demarches-simplifiees.fr" }
           - { label: "DiagOriente", value: "diagoriente" }
@@ -238,6 +238,7 @@ collections:
           - { label: "Saisissez au vol !", value: "auvol" }
           - { label: "Avril - La V.A.E. facile", value: "avril" }
           - { label: "Base Adresse Nationale", value: "ban" }
+          - { label: "Biocarburants", value: "biocarburant" }
           - { label: "Bourse", value: "bourse" }
           - { label: "Boussole des droits", value: "boussole" }
           - { label: "Camino", value: "camino" }
@@ -247,7 +248,7 @@ collections:
           - { label: "Classes à 12", value: "classes12" }
           - { label: "Co-construisons", value: "co-construisons" }
           - { label: "Code du travail numérique", value: "codedutravail" }
-          - { label: "Compétences pro", value: "competences-pro" }
+          - { label: "eva", value: "eva" }
           - { label: "data.gouv.fr", value: "data.gouv.fr" }
           - { label: "demarches-simplifiees.fr", value: "demarches-simplifiees.fr" }
           - { label: "DiagOriente", value: "diagoriente" }

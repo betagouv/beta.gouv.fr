@@ -8,5 +8,6 @@ missions:
     employer: octo
 startups:
     - demarches-simplifiees.fr
-    - competences-pro
+previously:
+    - eva
 ---

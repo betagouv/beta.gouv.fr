@@ -4,7 +4,7 @@ role: Développeur
 github: nmrgt
 missions:
   - start: '2019-01-28'
-    end: '2019-12-31'
+    end: '2020-02-28'
     status: independent
     employer: Codeurs en Liberté
 startups:

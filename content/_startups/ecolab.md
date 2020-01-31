@@ -1,47 +1,54 @@
 ---
-title: EcoLab
+title: Ecolab
 mission:  Apporter l'information environnementale au plus près des citoyens
 owner: ADEME
-incubator: dinsic 
+incubator: dinsic
 status: construction
 start: 2019-01-02 
 end: 
-link: 
+link: https://ecolab.ademe.fr/
 repository:
 stats: false
 contact: martin.regner@beta.gouv.fr
 ---
 
-2,8 Terre
-==========================================================
-Il faudrait 2,8 Terre si toute l'humanité vivait comme les Français. C’est plus que la moyenne planétaire, autour de 1,7 Terre, mais surtout bien trop par rapport à ce que notre planète peut supporter durablement. Mais pour permettre aux particuliers de réduire l’impact environnemental de leur consommation, il est nécessaire d’apporter une information environnementale parlante et fiable au moment de la décision d’achat.  
+# (Ré)Concilier défi planétaire et vie quotidienne
 
-L'information environnementale en un coup d'oeil
-========================================
+Année après année, les français se déclarent de plus en plus nombreux à vouloir agir en faveur de l'environnement, et le placent même pour la première fois en [haut de la liste de leurs préoccupations](https://presse.ademe.fr/2019/12/barometre-les-francais-placent-lenvironnement-pour-la-premiere-fois-en-haut-de-la-liste-de-leurs-preoccupations.html).
+Mais l'enjeu est de taille : passer d'une empreinte de [11,2 tonnes](https://www.insee.fr/fr/statistiques/3281683?sommaire=3281778) d'équivalent CO2 / an actuellement à [moins de 2 tonnes](http://temis.documentation.developpement-durable.gouv.fr/docs/Temis/0085/Temis-0085717/22640.pdf) pour contenir le réchauffement climatique à moins de 2 °C.
 
-Pour faciliter et accélérer le passage à l’acte en faveur d’une consommation différente, il faut pouvoir proposer directement les informations pertinentes au bon moment et sur les applications déjà largement utilisées. 
+Faire correspondre ces enjeux globaux avec les actions à l'échelle individuelle et collective n'est évident pour personne. Et pris dans nos habitudes et nos routines quotidiennes, il est difficile de savoir que faire.
 
-De nombreuses applications ou sites web proposent à leurs utilisateurs de mieux comprendre quel est l’impact de leur alimentation sur leur santé. La question de l’impact environnemental fait partie des axes de développement de ces applications. Se retrouvant seules pour traiter cette dimension très complexe, celles-ci font le choix de ne pas l’intégrer à leur solution. Même les applications avec un prisme environnemental fort peinent à trouver des données facilement intégrables.
-Au-delà de ces applications, de nombreux services positionnés sur tout le parcours du consommateur pour faire ses courses (idée de recette, liste de course, scan en magasin, paiement…) sont également pertinents pour exposer des informations sur l’impact environnemental de l’alimentation. Tout comme les applications, ces services souhaitent pleinement intégrer cette dimension.
+Pourtant, mettre progressivement en place des premières actions peut permettre de déconstruire l'idée que l'on se trouve face à un mur, un défi hors d'atteinte. Encore faut-il accéder à des informations fiables.
 
-Ecolab, un service pour apporter l’information environnementale en un coup d’oeil, là où les consommateurs sont déjà
-========================================
-Ecolab est un service porté par l’ADEME qui vise à susciter des comportements plus durables en apportant une information environnementale fiable au cœur des applications et services les plus utilisés par les particuliers dans leurs différents processus de décisions et d’achats. Il vise donc à mobiliser et à mettre à disposition des startups et entreprises du numérique, qui créent ces applications, les données environnementales nécessaires et les accompagne jusqu’à leur diffusion auprès des utilisateurs.
+## L’information environnementale au bon moment, au bon endroit
+Pour faciliter et accélérer le passage à l’acte vers de nouveaux modes de vie, il faut pouvoir proposer directement les informations pertinentes au bon moment et sur les applications déjà largement utilisées. Une information environnementale parlante et fiable apportée lors de la décision de consommation, au sein des routines et processus existants.
+Tous les services positionnés sur le "parcours utilisateur" sont ainsi pertinents pour exposer ces informations.
 
-Il est construit selon l’approche Startup d'État depuis mars 2019, grâce à l’appui stratégique et opérationnel de la DINSIC.
-En se concentrant tout d’abord sur le secteur alimentaire, l’objectif des quatres premiers mois est de prouver l’utilité du service, tant auprès des entreprises visées qu’en interne à l’ADEME. Il s’agit également de définir les modalités de diffusion des données et de préfigurer la méthode de réplication à d’autres cas d’usage.
+Pour répondre à leurs utilisateurs, les applications ou sites web souhaitent ainsi mieux rendre compte de l'impact des biens ou services qu'elles proposent, ou apporter des informations environnementales. Se retrouvant seules pour traiter cette dimension très complexe, celles-ci font trop souvent le choix de ne pas l’intégrer. Même les applications avec un prisme environnemental fort peinent à trouver des données fiables facilement accessibles et intégrables.
 
-Réalisations à date
-========================================
-La mise à jour et l’élargissement en cours de la base de données Agribalyse étant prévue jusqu’à début 2020, la première période a visé à préparer cette sortie pour que ces données puissent être exposées de manière pertinente, intelligible par le plus grand nombre, et le plus largement possible dès leur publication.
-
-Ainsi, les premiers mois de travail ont permis d’identifier et de mobiliser des relais clés positionnés sur le parcours utilisateur (30 acteurs sont ainsi désormais impliqués dans la démarche couvrant plus de 10 millions d’utilisateurs), pour comprendre leurs besoins et valider un format d’échange.
+## Ecolab, un service pour apporter l’information environnementale là où les consommateurs (en) sont
+Ecolab est un service porté par l’ADEME qui vise à susciter des comportements plus durables en apportant une information environnementale fiable au cœur des applications et services les plus utilisés par les particuliers dans leurs différents processus de décisions et de consommation. Il vise donc à mobiliser et à mettre à disposition des entreprises, associations ou collectifs qui créent ces applications, les données environnementales nécessaires et à les accompagner jusqu’à leur diffusion et compréhension auprès des citoyens.
 
 
-Perspectives à court, moyen et long termes
-========================================
-A court terme : concrétiser les cas d’utilisation possibles des données pour co-construire avec les acteurs impliqués d’un ou plusieurs indicateurs agrégés de type “score” (méthodologie, lisibilité pour l’utilisateur ...) et des fonctionnalités additionnelles nécessaires pour maximiser les changements de comportement (informations contextuelles, recommandations …)
+>Pour l'alimentation par exemple, l'utilisateur ou l'utilisatrice peut être sensible à ces informations à chaque étape des courses : idée de recette, liste de course, scan en magasin d'un produit depuis son smartphone, paiement, reçu de caisse…
+Nous suivons presque tous au moins une de ces étapes.
 
-A moyen terme : appliquer la méthode à d’autres secteurs et en mesurer l’impact.
+Il est construit selon l’approche Startup d’État depuis mars 2019, grâce à l’appui stratégique et opérationnel de la DINUM. 
 
+## Réalisations à date
+La mise à jour et l’élargissement en cours de la base de données d'impact environnemental de l'alimentation étant prévue jusqu’à début 2020, la première période a visé à préparer cette sortie pour que ces données puissent être exposées de manière pertinente, intelligible par le plus grand nombre, et le plus largement possible dès leur publication.
 
+Ainsi, les premiers mois de travail ont permis d’identifier et de mobiliser des relais clés positionnés sur le "parcours utilisateur" (40 partenaires sont ainsi désormais impliqués dans la démarche couvrant plus de 10 millions d’utilisateurs), pour comprendre leurs besoins, valider un format d’échange, et co-construire des premiers cas d'usage dans leur service.
+
+## Perspectives à court, moyen et long termes
+Après s'être concentré sur le secteur alimentaire, le service vise à progressivement couvrir les 3 champs suivants :
+* Se nourrir
+* Se loger / Habiter
+* Impact climat
+    * premier zoom : se déplacer
+
+A court terme : concrétiser les cas d’utilisation possibles des données pour co-construire avec les acteurs impliqués dans le secteur des déplacements.
+En plus des données chiffrées d'impact, il s'agira de progressivement structurer de nouvelles informations (informations contextuelles, recommandations…) pour maximiser les changements de comportement et apporter des moyens d'action aux citoyens.
+
+A moyen terme : déployer le service auprès de nouveaux partenaires et en mesurer l’impact auprès des utilisatrices et utilisateurs.

@@ -3,13 +3,13 @@ title: LexImpact
 mission: Aider nos parlementaires à estimer les impacts de leurs amendements avant vote !
 owner: Assemblée nationale
 incubator: dinsic
-status: construction
+status: consolidation
 start: 2019-01-21
-end:
-link: https://leximpact.beta.gouv.fr/
-repository: https://github.com/betagouv/leximpact/
+end: 2020-01-03
+link: https://leximpact.an.fr
+repository: https://github.com/betagouv/leximpact-client
 stats: false
-contact: leximpact@openfisca.org
+contact: leximpact@an.fr
 ---
 
 # Le problème
@@ -30,18 +30,20 @@ C'est pourquoi, là où le Parlement détient une expertise politique et juridiq
 
 LexImpact se décline en deux interfaces : 
 - OPEN LexImpact, permettant d'estimer les **impacts d'une réforme sur des foyers fiscaux types**. 
-- LexImpact POP permettant, en plus des fonctionnalités déjà présente sur la version grand public, d'estimer **les impacts macros d'une réforme sur la population et les recettes de l'État**. LexImpact POP est, à ce jour, uniquement accessible aux député·e·s et leurs collaborat·eurs·rices, ainsi qu'aux administrat·eurs·rices de l'Assemblée nationale. 
+- LexImpact POP permettant, en plus des fonctionnalités déjà présentes sur la version grand public, d'estimer **les impacts macros d'une réforme sur la population et les recettes de l'État**. LexImpact POP est, à ce jour, uniquement accessible aux parlementaires et leurs collaborat·eurs·rices, ainsi qu'aux administrat·eurs·rices impliqués dans la fabrique de la loi. 
 
-Le service s'appuie sur OpenFisca, logiciel libre créé en 2012 qui transforme le code législatif en code informatique.
+Le service s'appuie sur [OpenFisca](https://openfisca.org), logiciel libre créé en 2011 qui transforme le code législatif en code informatique.
 LexImpact est l'un des défis de la promotion 3 des [Entrepreneurs d'intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/).
 
-Le code de LexImpact est libre, sous licence AGPL-3.0, et peut donc être vérifié et amélioré par toutes et tous.
+Le code de LexImpact est libre, sous licence AGPL-3.0, et peut donc être vérifié et amélioré par toutes et tous. Ce code source est réparti en deux dépôts GitHub que voici :
+* code source du [client leximpact](https://github.com/betagouv/leximpact-client),
+* code source du [serveur leximpact](http://github.com/betagouv/leximpact-server).
 
 # Les prochaines étapes
 
-Le produit circonscrit à l'Article 197 du CGI est fonctionnel et accessible. Il est d'ores et déjà connu des collaborateurs de groupe, de certains députés et leurs collaborateurs. Nous avons réalisés plusieurs démonstrations, les utilisateurs sont enthousiastes. D'autres démos sont prévues et vont arriver dans les prochaines semaines, pour diffuser plus largement l'outil au sein de l'Assemblée nationale.
+Le défi LexImpact est pérennisé à l'Assemblée nationale. Ceci est acté par [décision de Questure au 12 décembre 2019](http://www2.assemblee-nationale.fr/15/le-college-des-questeurs/releves-des-decisions/2019/decisions-de-questure-de-la-reunion-du-12-decembre-2019).
 
-**Notre premier objectif est que LexImpact soit utilisé largement lors du Projet de Loi de Finances 2020, fasse gagner du temps à nos usagers, tout en leur permettant d'élaborer leurs amendements au plus prêt de leur vision politique.**
+Le produit circonscrit à l'Article 197 du CGI est fonctionnel et il a été [utilisé lors du débat du Projet de Loi de Finances 2020](http://www2.assemblee-nationale.fr/recherche/amendements#listeResultats=tru&idDossierLegislatif=&idExamen=&missionVisee=&numAmend=&idAuteur=&premierSignataire=false&idArticle=&idAlinea=&sort=&sousReserveDeTraitement=&dateDebut=&dateFin=&periodeParlementaire=&texteRecherche=leximpact&zoneRecherche=tout&nbres=10&format=html&regleTri=ordre_texte&ordreTri=croissant&start=1). 
+Il est désormais transmis à l'Assemblée nationale et accessible à cette adresse : [leximpact.an.fr](https://leximpact.an.fr)
 
-La suite de LexImpact sera d'élargir progressivement le périmètre de l'outil et d'accompagner nos partenaires dans la pérennisation du service *in situ*.
-
+**Les prochains objectifs sont que LexImpact poursuive son amélioration continue au sein de l'Assemblée nationale et que le service d'évaluation étende son champ d'action à d'autres portions de la loi.**

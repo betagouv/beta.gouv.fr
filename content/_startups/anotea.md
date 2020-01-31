@@ -3,7 +3,7 @@ title: Anotea
 mission: Eclairer les personnes cherchant une formation professionnelle en affichant les notes et sommentaires collectés auprès des Demandeurs d'Emploi sortants de formation.
 owner: Pôle emploi
 incubator: pole-emploi
-status: Consolidation
+status: consolidation
 start: 2018-04-01
 link: https://anotea.pole-emploi.fr
 stats: true

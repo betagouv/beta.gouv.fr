@@ -1,10 +1,10 @@
 ---
 fullname: Pierre Deleforge
-role: Responsable de produit
-github: pedeleforge
+role: Intrapreneur
+github: pdeleforge
 missions:
   - start: '2019-06-01'
-    end: '2019-12-31'
+    end: '2020-07-31'
     status: independent
 startups:
   - itou
