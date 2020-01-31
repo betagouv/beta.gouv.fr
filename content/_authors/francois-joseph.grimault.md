@@ -8,7 +8,7 @@ missions:
     end: '2019-07-19'
     status: independent
   - start: '2019-12-05'
-    end: '2020-01-31'
+    end: '2020-02-15'
     status: independent
     employer: numa
 startups:
