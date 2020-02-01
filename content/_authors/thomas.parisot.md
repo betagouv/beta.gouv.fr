@@ -6,10 +6,16 @@ missions:
     end: '2017-12-30'
     status: independent
     employer: octo
+  - start: '2020-02-04'
+    end: '2020-08-03'
+    status: independent
+    employer: lazone/scopyleft
 link: https://oncletom.io
 github: oncletom
 startups:
-    - data.gouv.fr
+    - cartobio
+previously:
+     - data.gouv.fr
 ---
 
-Questionne les usages, crée des ponts, cuit du pain et code de temps en temps.
+Vivre un futur désirable.
