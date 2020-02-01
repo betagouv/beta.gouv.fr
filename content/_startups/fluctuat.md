@@ -3,9 +3,9 @@ title: Fluctu@t
 mission:  Aider au développement du transport fluvial en France
 owner: Ministère de la transition écologique et solidaire
 incubator: mtes
-status: construction
+status: death
 start: 2018-11-26
-end:
+end: 2019-09-01
 link:
 repository:
 stats: false
@@ -26,5 +26,5 @@ Il est proposé de créer une plateforme qui servira dans un premier temps de le
 
 Cette plateforme permettra également d'alimenter d'autres procédures administratives. À terme, la plateforme servira de portail pour que l'usager n'ait pas à ressaisir les informations.
 
-## Le déploiement
-Dans un premier temps, la plateforme générera des lettres de voiture électroniques. L’outil sera interfacé avec Veli, application de VNF pour déclarer ses voyages. À terme, d’autres services pourraient être rajoutés (douane, déclaration de transport de matières dangereuses, suivi des déchets, etc). 
+## Passation du projet à VNF
+En septembre 2019 est décidé la sortie d'incubation de Fluctuat, dont le travail sera porté pour les Voies navigables de France (VNF). 
