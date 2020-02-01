@@ -1,6 +1,6 @@
 ---
 title: METIIS
-mission: Mettre en relation les réservistes avec ceux qui en ont besoin 
+mission: Mettre en relation les réservistes avec celles et ceux qui en ont besoin 
 owner: Ministère des Armées
 incubator: fabnumdef
 status: construction
