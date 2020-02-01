@@ -26,10 +26,8 @@
   list-style: none;
   padding: 0;
   margin: 0;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  grid-gap: 5em;
-  justify-items: center;
+  display: flex;
+  flex-wrap: wrap;
   -webkit-box-pack: space-evenly;
       -ms-flex-pack: space-evenly;
           justify-content: space-evenly;
@@ -39,6 +37,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    max-width: 25rem;
 }
 
 .startup-lists__counter {
