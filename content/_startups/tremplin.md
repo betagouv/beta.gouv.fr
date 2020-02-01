@@ -5,7 +5,7 @@ owner: Ministère des Solidarités et de la Santé
 incubator: sgmas
 status: construction
 start: 2019-01-01
-end:
+end: 2020-01-01
 link:
 repository:
 stats: false
@@ -68,3 +68,8 @@ Pour ce faire, nous sommes en lien avec des internes en médecine générale, de
 Parce qu’il vaut mieux passer du temps à construire son projet qu’à compiler des données, il apparaît essentiel que les professionnels en recherche puissent consulter l’ensemble des informations et se mettre en lien avec le terrain rapidement et facilement.
 
 Tremplin proposera un outil de recherche permettant de mettre en avant les territoires qui correspondent le mieux aux critères de chaque professionnel de santé en recherche.
+
+## Arrêt de Tremplin
+
+Ce service a cessé son activité au 01/01/2020
+
