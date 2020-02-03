@@ -1,5 +1,5 @@
 ---
-title: Pass Préservatif
+title: TuMePlay
 mission: Améliorer la prévention sexuelle pour les jeunes de moins de 25 ans
 owner: Ministère des Affaires sociales
 incubator: sgmas
@@ -70,6 +70,8 @@ Plusieurs modes de distribution sont envisagés pour les “box” :
 - la pharmacie
 - le point relais
 - la livraison chez un partenaire (mission locale, association locale, etc.)
+
+Notre [compte Instagram](https://www.instagram.com/tumeplay/).
 
 # Notre écosystème
 
