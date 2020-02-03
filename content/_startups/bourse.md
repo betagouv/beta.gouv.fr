@@ -14,7 +14,7 @@ contact: contact@bourse.beta.gouv.fr
 
 ## Abandon
 
-Le service est désormais fermé suite à la généralisation du [téléservice national](https://www.service-public.fr/particuliers/vosdroits/F984) qui pu bénéficier d'un certain nombre d'apprentissages issus de cette expérimentation.
+Le service est désormais fermé suite à la généralisation du [téléservice national](https://www.service-public.fr/particuliers/vosdroits/F984) qui a pu bénéficier d'un certain nombre d'apprentissages issus de cette expérimentation.
 
 ## Descriptif du service avant l'abandon
 
