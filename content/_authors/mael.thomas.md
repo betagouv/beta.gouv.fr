@@ -7,7 +7,7 @@ missions:
     end: '2017-10-01'
     status: dinsic
   - start: '2017-10-02'
-    end: '2019-12-31'
+    end: '2020-12-31'
     status: independent
 startups:
     - mon-entreprise
