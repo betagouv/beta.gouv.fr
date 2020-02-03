@@ -71,5 +71,5 @@ Tremplin proposera un outil de recherche permettant de mettre en avant les terri
 
 ## Arrêt de Tremplin
 
-Ce service a cessé son activité au 01/01/2020
+Ce service a cessé son activité au 01/01/2020. Le produit n'a pas trouvé son public. L'offre portée par Tremplin n'a pas été jugée assez différenciante pour résoudre le problème des déserts médicaux. 
 
