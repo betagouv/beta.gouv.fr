@@ -5,7 +5,7 @@ title: "beta.gouv recherche : un.e développeur.e fullstack JS pour PIX.fr"
 techno: Ember.JS / Node.JS
 type: 'friend'
 externalURL: 'https://pix.fr/recrutement/developpeur-web'
-open: true
+open: false
 ---
 
 Que ce soit dans la sphère professionnelle, publique ou privée, disposer d’une culture et de savoir-faire numériques est essentiel dans un monde où la technologie revêt une importance toujours plus grande.
