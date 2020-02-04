@@ -2,7 +2,7 @@
 title: OnStage
 mission: Renforcer les liens entre jeunes citoyens et entreprises du departement
 owner: Département des Côtes d'Armor
-incubator: dinsic 
+incubator: preincubation
 status: investigation
 start: 2019-01-12
 end: 

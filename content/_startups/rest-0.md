@@ -2,7 +2,7 @@
 title: Rest'0
 mission: Réduire le gaspillage alimentaire dans les cantines scolaires
 owner: Département des Côtes d'Armor
-incubator: dinsic 
+incubator: preincubation
 status: investigation
 start: 2019-01-12
 end: 
