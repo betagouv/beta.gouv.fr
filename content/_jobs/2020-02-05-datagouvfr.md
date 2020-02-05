@@ -56,7 +56,7 @@ Vous travaillerez au sein d'une équipe polyvalente composée de développeurs, 
 
 Cela vous intéresse ?
 
-Racontez-nous pourquoi vous avez envie de nous rejoindre et parlez-nous de vous, envoyer votre LinkedIn/Github/autre : **candidature at data.gouv.fr**.
+Racontez-nous pourquoi vous avez envie de nous rejoindre et parlez-nous de vous, envoyer votre LinkedIn/GitHub/autre : **candidature at data.gouv.fr**.
 
 10-20 lignes suffisent ;)
 
