@@ -1,7 +1,7 @@
 ---
 fullname: Loïc Guillois
 role: Développeur
-avatar: https://pbs.twimg.com/profile_images/775267571667009537/q3kfTV75.jpg
+avatar: https://pbs.twimg.com/profile_images/1157603316089729025/J9FEqCh-_400x400.jpg
 missions:
   - start: '2016-11-28'
     end: '2019-12-31'
