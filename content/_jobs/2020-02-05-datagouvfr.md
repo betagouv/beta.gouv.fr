@@ -51,3 +51,13 @@ Vous travaillerez au sein d'une équipe polyvalente composée de développeurs, 
 - Poste ouvert pour des indépendant·e·s sur une durée de 3 mois renouvellable
 - Temps partiel accepté (80 % minimum)
 - Démarrage en mars 2020
+
+## Postuler
+
+Cela vous intéresse ?
+
+Racontez-nous pourquoi vous avez envie de nous rejoindre et parlez-nous de vous, envoyer votre LinkedIn/GitHub/autre : **candidature at data.gouv.fr**.
+
+10-20 lignes suffisent ;)
+
+À bientôt !
