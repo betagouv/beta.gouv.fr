@@ -30,27 +30,28 @@ Un objectif donné en 2019 a été « d'absorber » le simulateur [mes-aides.gou
 Le critère qui a été choisi pour rediriger les usagers de Mes Aides est l'ajout des aides locales dans le portail national. Cet ajout a été fait le 14 janvier 2020. Nous avons commencé à rediriger le trafic de Mes Aides vers [mesdroitssociaux.gouv.fr](https://www.mesdroitssociaux.gouv.fr/) le XX février 2020.
 
 
-Voilà quelques éléments qui nous amènent à considérer le simulateur Mes Aides comme abandonné.
+Le regroupement des deux outils aurait pu apparaître comme une consolidation de la Startup d'État Mes Aides mais voici quelques éléments qui nous amènent à plutôt considérer cette Startup d'État comme abandonnée.
 
 
-### Vers quelle organisation ?
+### Vers quelle organisation&nbsp;?
 
-Le simulateur Mes Aides est réalisé par une équipe autome de 2 personnes en moyenne.
+Le simulateur Mes Aides est réalisé par une équipe autonome de 2 personnes en moyenne.
 
 Le PNDS est piloté par la Direction de la Sécurité Sociale, en accompagnement à la maîtrise d'ouvrage (AMOA) à la Caisse Centrale de la Mutualité Sociale Agricole qui délègue à son Groupement d'Întérêt Économique Agora qui sous-traite à Sopra-Steria.
 
-Il ne s'agit pas de remettre en question les qualités et les compétences des personnes mais les structures des équipes mise en place. En effet, cette structure peut libérer les énergies ou bien contraindre les individus dont les initiatives personnelles pourraient bénéficier aux usagers du service. Un service public numérique de qualité qui doit s'adapte très rapidement aux besoins et demandes des usagers à besoin d'une équipe dont les membres.
+Il ne s'agit pas de remettre en question les qualités et les compétences des personnes mais les structures des équipes mise en place. En effet, cette structure peut libérer les énergies ou bien contraindre les individus dont les initiatives personnelles pourraient bénéficier aux usagers du service. Un service public numérique de qualité qui doit s'adapter très rapidement aux besoins et demandes des usagers à besoin d'une équipe dont les membres partagent l'envie vicérale de résoudre le problème de politique publique sous-jacent.
 
-D'un point de vue plus opérationnel&nbsp;:
-- quel délai pour mettre en ligne une correction textuelle&nbsp;?
-- une nouvelle aide&nbsp;? une amélioration du moteur de calculs&nbsp;?
+
+D'un point de vue plus opérationnel, cela pose des questions sur&nbsp;:
+- les délais de mise en ligne d'une correction textuelle ou encore
+- le délai d'intégration d'une nouvelle aide ou d'une amélioration du moteur de calculs.
 
 Nous avons proposé de constituer une équipe plus proche de l'[incubateur des ministères sociaux](https://incubateur.social.gouv.fr/) mais cela n'a pas eu de suite positive.
 
 
 ### Vers quel impact&nbsp;?
 
-Nous avons, dans un article précédent, résumé l'[impact du simulateur Mes Aides](https://blog.beta.gouv.fr/general/2019/11/18/mes-aides-metriques/) et les statistiques sont publiques et mises à jour en temps réel sur [mes-aides.gouv.fr/stats](https://mes-aides.gouv.fr/stats).
+Dans un article précédent, nous avons résumé l'[impact du simulateur Mes Aides](https://blog.beta.gouv.fr/general/2019/11/18/mes-aides-metriques/) et les statistiques sont publiques et mises à jour en temps réel sur [mes-aides.gouv.fr/stats](https://mes-aides.gouv.fr/stats).
 
 En ce qui concerne le portail national, aucune statistique n'est publique, des campagnes de communication ont été faites (via les opérateurs et en dernière page de la déclaration d'impôts) mais, selon les informations qui ont été partagées avec nous, l'impact semble avoir été limité sur le premier indicateur d'impact qu'est la fréquentation du site.
 
@@ -68,9 +69,9 @@ Le code source du portail national est quant à lui fermée. Seulement disponibl
 
 ### Vers quel coût&nbsp;?
 
-Le coût total du simulateur Mes Aides sur ses 5 années et demi d'existence représenté moins de 1 250 000 euros. La détail du budget est accessible à la [page suivante](https://docs.google.com/spreadsheets/d/1QlbBGNerYT1GuVnXRp8vJoQnz-U6e0qqQ636oHNN70g/edit#gid=8773656).
+Le coût total du simulateur Mes Aides sur ses 5 années et demi d'existence représenté de 1,25 millions d'euros. La détail du budget est accessible à la [page suivante](https://docs.google.com/spreadsheets/d/1QlbBGNerYT1GuVnXRp8vJoQnz-U6e0qqQ636oHNN70g/edit#gid=8773656).
 
-Selon nos informations, le budget **annuel** du portail national représente 2 à 3 millions d'euros. Le périmètre est différent mais l'écart reste significaf au vu des simitudes entre les deux propositions de valeur.
+Selon nos informations, le budget **annuel** du portail national représente 2 à 3 millions d'euros. Le périmètre est différent mais l'écart reste significaf au vu des similitudes entre les deux propositions de valeur.
 
 Il nous paraît possible de proposer un service public numérique de qualité de façon frugale et pérenne.
 
@@ -79,4 +80,5 @@ Il nous paraît possible de proposer un service public numérique de qualité de
 
 De nombreux acteurs du privé se positionnent sur l'intermédiation aux prestations sociales et sur la simplification (par l'extérieur) de la relation entre le public et l'administration.
 
-Pour ces différentes raisons, la Startup d'État Mes Aides est considérée comme abandonnée.
+
+En résumé, ces différents remarques peuvent être considérées comme des pistes d'amélioration continue que les équipes du portail national peuvent suivre ou intégrer à leur feuille de route si elles le souhaitent. Dans l'état actuel de la situation, il nous paraît raisonnable de considérer la Startup d'État Mes Aides comme abandonnée.
