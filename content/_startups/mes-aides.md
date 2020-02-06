@@ -42,8 +42,8 @@ Le PNDS est piloté par la Direction de la Sécurité Sociale, en accompagnement
 Il ne s'agit pas de remettre en question les qualités et les compétences des personnes mais les structures des équipes mise en place. En effet, cette structure peut libérer les énergies ou bien contraindre les individus dont les initiatives personnelles pourraient bénéficier aux usagers du service. Un service public numérique de qualité qui doit s'adapte très rapidement aux besoins et demandes des usagers à besoin d'une équipe dont les membres.
 
 D'un point de vue plus opérationnel&nbsp;:
-- quel délai pour mettre en ligne une correction textuelle&bnsp;?
-- une nouvelle aide&bnsp;? une amélioration du moteur de calculs&bnsp;?
+- quel délai pour mettre en ligne une correction textuelle&nbsp;?
+- une nouvelle aide&nbsp;? une amélioration du moteur de calculs&nbsp;?
 
 Nous avons proposé de constituer une équipe plus proche de l'[incubateur des ministères sociaux](https://incubateur.social.gouv.fr/) mais cela n'a pas eu de suite positive.
 
@@ -55,8 +55,8 @@ Nous avons, dans un article précédent, résumé l'[impact du simulateur Mes Ai
 En ce qui concerne le portail national, aucune statistique n'est publique, des campagnes de communication ont été faites (via les opérateurs et en dernière page de la déclaration d'impôts) mais, selon les informations qui ont été partagées avec nous, l'impact semble avoir été limité sur le premier indicateur d'impact qu'est la fréquentation du site.
 
 Au delà de la fréquentation, les statistiques de performance du service ne sont pas connues :
-- Combien de personnes qui commencent leur simulation vont jusqu'au bout&bnsp;?
-- Combien de personnes qui arrivent au bout se lancent dans les démarches&bnsp;?
+- Combien de personnes qui commencent leur simulation vont jusqu'au bout&nbsp;?
+- Combien de personnes qui arrivent au bout se lancent dans les démarches&nbsp;?
 
 
 ### Vers quelle souveraineté&nbsp;?
