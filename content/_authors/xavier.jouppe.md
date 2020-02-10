@@ -5,8 +5,8 @@ github: XavierJp
 avatar:
 link:
 missions:
-  - start: '2019-02-05'
-    end: '2019-05-08'
+  - start: '2020-02-05'
+    end: '2020-05-08'
     status: independent
     employer: OCTO
 startups:
