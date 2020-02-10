@@ -10,7 +10,7 @@ type: 'friend'
 
 ## FranceConnect recherche son ou sa Lead Dev Full Stack JS en CDD (3 ans)
 
-La DINSIC recherche un expert ou une experte Node.js F/H pour FranceConnect, un produit qui fête ses 4 ans et permet aujourd’hui 1,5 millions de connexions par mois. Il permet à un citoyen français d’utiliser l’identifiant de son choix (son numéro de sécurité sociale, son identifiant des impôts, son compte MSA, son compte La Poste ou encore son compte Orange) pour se connecter à un maximum de services publics (les impôts, les services de la ville, la sécurité sociale, etc.) et privés.
+La DINUM recherche un expert ou une experte Node.js F/H pour FranceConnect, un produit qui fête ses 4 ans et permet aujourd’hui 1,5 millions de connexions par mois. Il permet à un citoyen français d’utiliser l’identifiant de son choix (son numéro de sécurité sociale, son identifiant des impôts, son compte MSA, son compte La Poste ou encore son compte Orange) pour se connecter à un maximum de services publics (les impôts, les services de la ville, la sécurité sociale, etc.) et privés.
 
 En trois ans, le produit s’est bien développé au sein des services du Premier Ministre et… nous avons grossi ! Nous sommes actuellement une équipe constituée de :
 
