@@ -10,7 +10,7 @@ link:
 repository:
 stats: false
 stats_url:
-contact: 
+contact: contact@histologe.beta.gouv.fr
 ---
 
 Le mal logement concerne aujourd’hui de nombreux ménages en location.
