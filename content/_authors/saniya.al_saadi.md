@@ -10,4 +10,5 @@ missions:
 startups:
     - workinfrance
     - domifa
+    - didoc
 ---
