@@ -4,11 +4,12 @@ role: Chef de produit
 github: ClementChapalain
 missions:
   - start: '2018-09-05'
-    end: '2020-02-28'
+    end: '2020-06-30'
     status: independent
 startups:
     - action-bidonvilles
     - codedutravail
+    - didoc
 previously:
     - gps-usagers
 ---
