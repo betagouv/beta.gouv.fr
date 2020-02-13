@@ -15,27 +15,17 @@ contact: alban.sestiaa@beta.gouv.fr
 
 ## Problème investigué :
 Le mal logement concerne aujourd’hui plus de 4 millions de ménages en location. 
-Ces conditions entraînent des conséquences graves et irréversibles sur leur vie au quotidien, notamment sur leur santé, sécurité  et, en particulier, celle des enfants. 
-L’habitat dégradé est souvent lié à un manque d’entretien et de rénovation de la part des propriétaires
+Ces conditions entraînent des conséquences graves et irréversibles sur leur vie de locataire au quotidien, notamment sur leur santé, sécurité  et, en particulier, celle des enfants. L’habitat dégradé est souvent lié à un manque d’entretien et de rénovation.
 
 ## Première hypothèse de solution : 
 Histologe permettra à l’occupant (ou au propriétaire) d’intervenir directement sur la situation vécue. 
 L'outil se positionne comme un intermédiaire simple et efficace, capable de mesurer la criticité d’un signalement 
-et de lancer des alertes vers les partenaires en venir d’intervenir. La mesure de cette criticité, 
-établie comme une classe d’étiquette énergie, permettra d’identifier facilement les actions à mettre en œuvre ainsi que leur degré de criticité. 
-Histologe assurera également un accès au suivi des situations signalées. 
-
-## Histologe, une réponse aux problèmes d’habitabilité  
-Histologe facilitera la détection, le signalement, l’évaluation, l’envoi d’alertes et le suivi des logements non conformes pour accélérer 
-la prise en charge du “mal logement”. L'outil proposera une grille nationale d’évaluation unique des critères d’habitabilité, 
-une centralisation des signalements et de leurs traitements.
+et de lancer des alertes vers les partenaires en capacité d’intervenir. La mesure de cette criticité, 
+établie comme une classe d’étiquette énergie, permettra d’identifier facilement les actions à mettre en œuvre ainsi que leur degré de criticité. Histologe assurera également un accès au suivi des situations signalées et facilitera donc la détection, le signalement, l’évaluation, l’envoi d’alertes liées logements non conformes pour accélérer la prise en charge du “mal logement”. L'outil proposera une grille nationale d’évaluation unique des critères d’habitabilité, une centralisation des signalements et de leurs traitements.
 
 
-## Equipe : 
-- Chouaib NOUNES - Responsable de la Maison de l'Habitat de Pau
-- Christelle BONNEMASON-CARRERE - Elue Ville de Pau
-- Alban SESTIAA - Chef de projets numériques 
-
-## Promotion : Nouste 5.0
+## Territoire d'expérimentation : 
+Agglomération Pau Béarn Pyrénées
+ 
 
 
