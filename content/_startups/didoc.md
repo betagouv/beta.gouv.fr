@@ -53,4 +53,4 @@ Ce test est une première expérimentation. Si les résultats s'avèrent conclua
 
 ## Objectifs pour le test initial au sein de la Côte-d'Or
 
-En Côte-d'Or, 59,6% des femmes participent au dépistage. L'objectif à atteindre serait l'augmentation de cette participation d'au minimum de 2% pour la population recevant l'invitation par voie dématérialisée.
+En Côte-d'Or, 59,6% des femmes participent au dépistage. L'objectif à atteindre serait l'augmentation de cette participation d'au minimum de 2% pour la population recevant l'invitation par voie dématérialisée. Cela représente 700 dépistages en plus chaque année en Côte-d'Or uniquement.
