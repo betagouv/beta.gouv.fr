@@ -1,6 +1,6 @@
 ---
 fullname: Alexandre Reynaud
-role: 
+role: co-animateur de l'incubateur 
 github: AleRynd
 missions:
   - start: '2018-01-01'
