@@ -1,16 +1,14 @@
 ---
 fullname: Madina Nouioui
-role: product Manager  
+role: Product Manager  
 missions:
   - start: '2016-12-20'
-    end:
+    end:'2020-12-31'
     status: independent
 startups:
-  - PERSPECTIVES
-  _ LBB/LBA
-  _ AVRIL 
-  _ ESTIM
-  _ CLARA 
-  _ ZEN 
-  _ MEMO
+  - perspectives
+  _ la-bonne-boite
+  - avril 
+  - clara
+  - zen
 ---
