@@ -9,7 +9,7 @@ end:
 link: https://labonneboite.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/labonneboite
 stats: true
-contact: eric.barthelemy@pole-emploi.fr
+contact: marion.guillet01-ext@pole-emploi.fr
 redirect_from:
   - /startups/labonneboite
 ---
