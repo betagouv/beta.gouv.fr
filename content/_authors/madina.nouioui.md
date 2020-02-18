@@ -7,7 +7,7 @@ missions:
     status: independent
 startups:
   - perspectives
-  _ la-bonne-boite
+  - la-bonne-boite
   - avril 
   - clara
   - zen
