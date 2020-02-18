@@ -10,5 +10,4 @@ startups:
   - la-bonne-boite
   - avril 
   - clara
-  - zen
 ---
