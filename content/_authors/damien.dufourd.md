@@ -8,5 +8,6 @@ missions:
     status: independent
 startups:
   - diagoriente
-  - trait-d-union
+  - histologe
+  - mission-apprentissage
 ---

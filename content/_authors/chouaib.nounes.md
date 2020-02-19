@@ -8,5 +8,6 @@ missions:
     status: admin
     employer: Agglomération Pau Béarn Pyrénées
 startups:
+  - histologe
 ---
 
