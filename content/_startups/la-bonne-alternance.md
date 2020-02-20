@@ -9,7 +9,7 @@ end:
 link: https://labonnealternance.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/labonnealternance
 stats: true
-contact: marion.guillet01-ext@pole-emploi.fr
+contact: oui : labonnealternance@pole-emploi.fr
 redirect_from:
   - /startups/labonnealternance
 ---
