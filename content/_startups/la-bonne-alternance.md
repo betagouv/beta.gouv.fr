@@ -9,7 +9,7 @@ end:
 link: https://labonnealternance.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/labonnealternance
 stats: true
-contact: oui : labonnealternance@pole-emploi.fr
+contact: labonnealternance@pole-emploi.fr
 redirect_from:
   - /startups/labonnealternance
 ---
