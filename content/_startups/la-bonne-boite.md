@@ -10,6 +10,7 @@ link: https://labonneboite.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/labonneboite
 stats: true
 contact: marion.guillet01-ext@pole-emploi.fr
+contact: oui : labonneboite@pole-emploi.fr
 redirect_from:
   - /startups/labonneboite
 ---
