@@ -1,5 +1,5 @@
 ---
-title: Les Lauréats 
+title: Les lauréats 
 sidebar: sidebar-fast.html
 ---
 
