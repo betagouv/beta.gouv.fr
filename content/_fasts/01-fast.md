@@ -11,5 +11,5 @@ FAST 1 - Juin 2019 :
 FAST 2 - Novembre 2019 :
 - Trackdéchets, faciliter le suivi du traitement des déchets dangereux.
 - Cmachance, mise en relation entre artisans et apprentis. 
-- Lapins, réduire les rendez-vous non honorés dans les maisons départementales de solidarités :
-- Classe à 12, faciliter le passage en classe à 12 pour les professeurs de CP en REP et REP+ : 
+- Lapins, réduire les rendez-vous non honorés dans les maisons départementales de solidarités.
+- Classe à 12, faciliter le passage en classe à 12 pour les professeurs de CP en REP et REP+.
