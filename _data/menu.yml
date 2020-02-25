@@ -14,9 +14,6 @@ nav:
   label: Préincubation
   target: _pages/preincubation/presentation.md
 -
-  label: FAST
-  target: _pages/fast/presentation.md
--
   label: Communauté
   target: _pages/communaute.md
 -
