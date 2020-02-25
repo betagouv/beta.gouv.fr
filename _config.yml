@@ -59,6 +59,9 @@ collections:
   seasons:
     output: true
     permalink: /preincubation/promotion/:title.html
+  fasts:
+    output: true
+    permalink: /fast/promotion/:title.html
   seedlings:
   startups:
     output: true
@@ -93,6 +96,14 @@ defaults:
       type: "seasons"
     values:
       layout: preincubation/promotion
+      additional_css:
+        - side-panel.css
+        - grid.css
+  - scope:
+      path: ""
+      type: "fasts"
+    values:
+      layout: with-sidebar
       additional_css:
         - side-panel.css
         - grid.css
