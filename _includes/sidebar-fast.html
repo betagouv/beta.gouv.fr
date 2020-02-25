@@ -3,17 +3,12 @@
       <li {% if page.url == "/preincubation/" %}class="active"{% endif %}>
         <a class="side-pane__link" href="/fast/">Le fonds FAST</a>
       </li>
-      <li class="side-pane__dropdown unfolded {% if page.url contains "/fast/promotion" %}active{% endif %}">
-        <a class="side-pane__link" href="/fast/">Les promotions</a>
-        <ul class="side-pane__submenu">
-          {% assign fasts = site.fasts | sort: 'order' %}
-          {% for season in fasts %}
-          <li {% if page.url == season.url %}class="active"{% endif %}>
-            <a class="side-pane__sublink" href="{{ season.url }}">{{ season.title }}</a>
-          </li>
-          {% endfor %}
-        </ul>
+      {% assign fasts = site.fasts | sort: 'order' %}
+      {% for season in fasts %}
+      <li {% if page.url == season.url %}class="active"{% endif %}>
+        <a class="side-pane__link" href="{{ season.url }}">{{ season.title }}</a>
       </li>
+      {% endfor %}
     </ul>
   </nav>
   
