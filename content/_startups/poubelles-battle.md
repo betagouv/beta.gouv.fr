@@ -6,7 +6,7 @@ owner: dinsic
 status: construction
 start: 2019-06-03
 end:
-link:https://www.poubellesbattle.fr/
+link: https://www.poubellesbattle.fr/
 repository: https://github.com/betagouv/poubellesbattle
 stats: false
 stats_url:
