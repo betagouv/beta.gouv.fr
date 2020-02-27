@@ -4,7 +4,7 @@ startup: betagouv
 open: true
 ---
 
-# Nous recrutons plusieurs profils de designers au sein de betagouv
+# Nous recrutons plusieurs profils de designers au sein de beta.gouv.fr
 
 ## Présentation 📢
 
@@ -35,7 +35,7 @@ Cette mission à dessiner ensemble entend principalement former & informer les �
 
 ### un.e designer avec des compétences en recherche / sociologie / politiques publiques
 
-- qui peut être un appui dans la phase d’investigation
+- qui peut être un appui dans la [phase d’investigation](https://beta.gouv.fr/startups/#investigation)
 - qui accompagne les équipes dans la cartographie et la compréhension de leurs utilisateurs
 - qui permet aux équipes de définir le problème auquel elles pourront répondre en ayant le plus d’impact - au vu des connaissances sociétales / sociales apportées
 
@@ -55,7 +55,7 @@ Cette mission à dessiner ensemble entend principalement former & informer les �
 Nous recrutons des freelances, disponibles entre 1 à 4 jours par semaine, pendant les 6 prochains mois. 
 Le télétravail est une possibilité, nos bureaux sont à Paris 7. La date de début de mission est à discuter.
 
-Ecrivez-nous en nous précisant dans quel profil vous vous reconnaissez à recrutement@beta.gouv.fr
+Écrivez-nous **avant le 8 mars 2020** en nous précisant dans quel profil vous vous reconnaissez à [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr)
 Vous pouvez par exemple nous raconter l'histoire d'un de vos projets qui n’a pas marché et d’un projet que vous avez particulièrement aimé faire, en nous expliquant pourquoi. 
 
 Vous pouvez également nous envoyer votre CV / LinkedIn / Portfolio / tout ce que vous jugez intéressant.
