@@ -8,8 +8,8 @@ start: 2019-12-19
 end:
 link: http://cartobio.org
 repository: https://github.com/entrepreneur-interet-general/CartoBio-Presentation
-stats: false
-contact: contact@cartobio.beta.gouv.fr
+stats: true
+contact: cartobio@beta.gouv.fr
 ---
 
 ## Le problème
@@ -42,6 +42,6 @@ Le passage chez beta.gouv.fr va permettre une industrialisation de l’outil, et
 Plus d’informations : <a href="http://cartobio.org/" target="_blank">Site officiel de Cartobio</a>, <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cartobio.html" target="_blank">Page EIG du projet</a>, <a href="https://hackmd.io/@lucasbio/cartobio" target="_blank">description détaillée du projet</a>
 
 
-Vous êtes intéressé.e par le projet ? <a href="mailto:contact@cartobio.beta.gouv.fr?Subject=Cartobio%20m'intéresse%20!" target="_top">Contactez-nous !</a>
+Vous êtes intéressé.e par le projet ? <a href="mailto:cartobio@beta.gouv.fr?Subject=Cartobio%20m'intéresse%20!">Contactez-nous !</a>
 
 
