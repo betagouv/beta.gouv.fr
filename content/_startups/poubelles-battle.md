@@ -6,8 +6,8 @@ owner: dinsic
 status: construction
 start: 2019-06-03
 end:
-link:
-repository:
+link: https://www.poubellesbattle.fr/
+repository: https://github.com/betagouv/poubellesbattle
 stats: false
 stats_url:
 contact: poubelles-battle@beta.gouv.fr
