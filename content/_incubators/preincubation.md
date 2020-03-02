@@ -3,7 +3,7 @@ title: Programme Territoires
 owner: DINUM
 website: https://beta.gouv.fr/preincubation/
 github: https://github.com/betagouv/
-contact: preincubation@beta.gouv.fr
+contact: mailto:preincubation@beta.gouv.fr
 address: 20 avenue de Ségur, Paris 15è
 ---
 
