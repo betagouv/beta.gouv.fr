@@ -8,6 +8,6 @@ missions:
     status: independent
     employer: Codeurs en Liberté
 startups:
-  - Registre-de-preuve-de-covoiturage
-  - Aides-territoires
+  - preuve-de-covoiturage
+  - aides-territoires
 ---
