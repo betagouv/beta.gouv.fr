@@ -12,7 +12,7 @@ stats: true
 contact: contact@mes-aides.gouv.fr
 ---
 
-**Cette Startup d'État a été abandonnée. Pour aller directement au post-mortem, c'est [ici](#pourquoi-cette-startup-détat-est-elle-considérée-comme-abandonnée).**
+**[L'approche Startup d'État](https://github.com/betagouv/beta.gouv.fr/wiki/Comment-pr%C3%A9senter-beta.gouv.fr#approche) a été abandonnée par ce service publique numérique. Pour aller directement au post-mortem, c'est [ici](#quelques-elements-de-contexte).**
 
 Simulez vos droits à plus d’une vingtaine de prestations sociales en quelques minutes. Mes Aides compare votre situation personnelle aux critères des [principales aides nationales](https://github.com/betagouv/mes-aides-ui/wiki#les-aides-calculées), comme le RSA, la CMU-C ou les allocations familiales, ainsi que de certaines aides locales.
 
@@ -23,7 +23,36 @@ Un de nos buts est de toujours augmenter le nombre d’aides simulées en une se
 Mes Aides se base sur [OpenFisca](https://fr.openfisca.org/), un moteur de calcul libre et ouvert utilisé par des chercheurs en économie et d’autres services publics.
 
 
-## Pourquoi cette Startup d'État est-elle considérée comme abandonnée&nbsp;?
+## Quelques éléments de contexte
+
+- 03/2014 Commencement de Mes Aides
+
+- 10/2014 Lancement
+
+- COPIL OK
+
+- COPIL KO
+
+- 19/10/2015 François Hollande « portail des droits » [source](https://www.capital.fr/economie-politique/hollande-souhaite-une-position-commune-sur-le-compte-d-activite-1079072)
+  - Pas de volonté de reprendre le front dans ce contexte
+  - Volonté d'utilisé le même moteur de calculs (OpenFisca)
+
+- 07/03/2019 Lancement Mes Aides [source](https://www.banquedesterritoires.fr/un-simulateur-pour-evaluer-ses-droits-24-aides-sociales-en-moins-de-7-minutes)
+
+- 20/03/2017 Lancement de mesdroissociaux.gouv.fr [source](https://www.banquedesterritoires.fr/le-portail-numerique-des-droits-sociaux-commence-voir-le-jour)
+
+- 03/2019 Ajout du simulateur non connecté
+
+- 07/2019 Demande de rapprochement entre le PNDS et Mes Aides
+
+- 13/11/2019 Arbitrage en faveur de la fermeture de Mes Aides si les aides locales de Mes Aides sont intégrées dans le PNDS
+
+- 14/01/2020 Ajout des autres aides de mes-aides.gouv.fr dans le PNDS
+
+- 01/03/2020 Fermeture définitive de mes-aides.gouv.fr avec une redirection vers le PNDS
+
+## Pourquoi parler d'abandon&nbsp;?
+
 
 Un objectif donné en 2019 a été « d'absorber » le simulateur [mes-aides.gouv.fr](https://mes-aides.gouv.fr/) dans le portail national des droits sociaux (PNDS / [mesdroitssociaux.gouv.fr](https://www.mesdroitssociaux.gouv.fr/)). 
 
