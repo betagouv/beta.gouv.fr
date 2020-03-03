@@ -11,7 +11,7 @@ startups:
   - codedutravail
 ---
 
-Functionnal programming
+Functional programming
 Natural Language Processing
 Machine Learning
 
