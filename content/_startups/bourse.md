@@ -8,7 +8,7 @@ start: 2015-03-01
 end:
 link:
 repository: https://github.com/betagouv/bourses/
-stats: true
+stats: false
 contact: contact@bourse.beta.gouv.fr
 ---
 
