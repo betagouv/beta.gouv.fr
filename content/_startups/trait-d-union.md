@@ -8,7 +8,7 @@ start: 2019-01-01
 end:
 link: https://traitdunion.beta.gouv.fr/candidats?utm_source=SiteBeta
 repository: https://github.com/betagouv/trait-d-union
-stats: true
+stats: https://traitdunion.beta.gouv.fr/stats
 contact: contact@traitdunion.beta.gouv.fr
 ---
 
