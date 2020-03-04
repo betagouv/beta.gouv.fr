@@ -8,13 +8,12 @@ start: 2014-05-01
 end: 2020-03-03
 link: https://mes-aides.gouv.fr
 repository: https://github.com/betagouv/mes-aides-ui
-stats: true
 contact: contact@mes-aides.gouv.fr
 ---
 
-**[L'approche Startup d'État](https://github.com/betagouv/beta.gouv.fr/wiki/Comment-pr%C3%A9senter-beta.gouv.fr#approche) a été abandonnée par ce service publique numérique. Pour aller directement au post-mortem, c'est [ici](#quelques-elements-de-contexte).**
+**[L'approche Startup d'État](https://github.com/betagouv/beta.gouv.fr/wiki/Comment-pr%C3%A9senter-beta.gouv.fr#approche) a été abandonnée par ce service publique numérique. Pour aller directement au post-mortem, c'est [ici](#quelques-éléments-de-contexte).**
 
-Simulez vos droits à plus d’une vingtaine de prestations sociales en quelques minutes. Mes Aides compare votre situation personnelle aux critères des [principales aides nationales](https://github.com/betagouv/mes-aides-ui/wiki#les-aides-calculées), comme le RSA, la CMU-C ou les allocations familiales, ainsi que de certaines aides locales.
+Simulez vos droits à plus d’une trentaine de prestations sociales en quelques minutes. Mes Aides compare votre situation personnelle aux critères des [principales aides nationales](https://github.com/betagouv/mes-aides-ui/wiki#les-aides-calculées), comme le RSA, la CMU-C ou les allocations familiales, ainsi que de certaines aides locales.
 
 Grâce aux informations que vous nous transmettez, nous estimons à quelles aides vous avez droit ainsi que leurs montants et conditions d'attribution. Vous pouvez ensuite engager les démarches auprès des organismes ciblés.
 
@@ -25,64 +24,52 @@ Mes Aides se base sur [OpenFisca](https://fr.openfisca.org/), un moteur de calcu
 
 ## Quelques éléments de contexte
 
-- 03/2014 Commencement de Mes Aides
+- 03/2014 Premiers développements sur mes-aides.gouv.fr
+  - Des comités de pilotage sont organisés pour échanger avec les acteurs de la sphère sociale
+- 10/2014 Ouverture et communication
+  - Lors des comités de pilotage, les organismes tiennent à ralentir le déploiement tant que les calculs ne sont pas totalement fiables. Les tentatives d'échanges pour la fiabilisation n'abouttissant pas, les personnes voient de moins en moins d'intérêt à participer aux comités de pilotage. Ces comités ne rassemblent plus et ne sont pas renouvelés.
+- 19/10/2015 Annonce de François Hollande d'un « portail des droits » [source](https://www.capital.fr/economie-politique/hollande-souhaite-une-position-commune-sur-le-compte-d-activite-1079072)
+  - Il n'y a pas eu de demande pour la passation de la partie visible du simulateur (du _front_).
+  - En revanche, seul OpenFisa (le moteur de calculs _sous_ mes-aides.gouv.fr) permet de créer un simulateur multi-prestations. Il est donc utilisé pour le portail national des droits sociaux.
+- 07/03/2017 Lancement officiel de mes-aides.gouv.fr [source](https://www.banquedesterritoires.fr/un-simulateur-pour-evaluer-ses-droits-24-aides-sociales-en-moins-de-7-minutes)
+- 20/03/2017 Lancement officiel de mesdroissociaux.gouv.fr [source](https://www.banquedesterritoires.fr/le-portail-numerique-des-droits-sociaux-commence-voir-le-jour)
+- 08/2017 Déplacement à Montauban de l'équipe mes-aides.gouv.fr pour échanger avec les équipes du Groupement d'Intérêt Économique (GIE) Agora et de Sopra-Steria
+  - L'objectif est de clarifier des pratiques de développement et de contribution à OpenFisca via [GitHub](https://github.com/openfisca/openfisca-france/)
+- 03/2019 Ajout du simulateur non connecté dans mesdroissociaux.gouv.fr
+- 07/2019 Demande de rapprochement entre le mesdroissociaux.gouv.fr et mes-aides.gouv.fr
+- 13/11/2019 Arbitrage en faveur de l'absorption de mes-aides.gouv.fr
+  - La condition pour cette absorption est l'intégration des aides locales de mes-aides.gouv.fr dans mesdroissociaux.gouv.fr
+- 14/01/2020 Ajout des autres aides de mes-aides.gouv.fr dans mesdroissociaux.gouv.fr
+- 01/03/2020 Annonce de la fermeture de mes-aides.gouv.fr sur la page d'accueil
+- 01/03/2020 Fermeture définitive de mes-aides.gouv.fr
+  - Les usagers sont directement redirigés vers mesdroissociaux.gouv.fr
 
-- 10/2014 Lancement
-
-- COPIL OK
-
-- COPIL KO
-
-- 19/10/2015 François Hollande « portail des droits » [source](https://www.capital.fr/economie-politique/hollande-souhaite-une-position-commune-sur-le-compte-d-activite-1079072)
-  - Pas de volonté de reprendre le front dans ce contexte
-  - Volonté d'utilisé le même moteur de calculs (OpenFisca)
-
-- 07/03/2019 Lancement Mes Aides [source](https://www.banquedesterritoires.fr/un-simulateur-pour-evaluer-ses-droits-24-aides-sociales-en-moins-de-7-minutes)
-
-- 20/03/2017 Lancement de mesdroissociaux.gouv.fr [source](https://www.banquedesterritoires.fr/le-portail-numerique-des-droits-sociaux-commence-voir-le-jour)
-
-- 03/2019 Ajout du simulateur non connecté
-
-- 07/2019 Demande de rapprochement entre le PNDS et Mes Aides
-
-- 13/11/2019 Arbitrage en faveur de la fermeture de Mes Aides si les aides locales de Mes Aides sont intégrées dans le PNDS
-
-- 14/01/2020 Ajout des autres aides de mes-aides.gouv.fr dans le PNDS
-
-- 01/03/2020 Fermeture définitive de mes-aides.gouv.fr avec une redirection vers le PNDS
 
 ## Pourquoi parler d'abandon&nbsp;?
 
+La direction de la sécurité sociale et la direction du numérique se sont données comme objectif mi-2019 d'absorber le simulateur [mes-aides.gouv.fr](https://mes-aides.gouv.fr/) dans le portail national des droits sociaux (PNDS / [mesdroitssociaux.gouv.fr](https://www.mesdroitssociaux.gouv.fr/)).
 
-Un objectif donné en 2019 a été « d'absorber » le simulateur [mes-aides.gouv.fr](https://mes-aides.gouv.fr/) dans le portail national des droits sociaux (PNDS / [mesdroitssociaux.gouv.fr](https://www.mesdroitssociaux.gouv.fr/)). 
+La condition pour rediriger les usagers de Mes Aides est l'ajout des aides locales dans mesdroitssociaux.gouv.fr. Cet ajout a été fait le 14 janvier 2020. Nous avons commencé à rediriger le trafic de Mes Aides vers [mesdroitssociaux.gouv.fr](https://www.mesdroitssociaux.gouv.fr/) le 3 mars 2020.
 
-Le critère qui a été choisi pour rediriger les usagers de Mes Aides est l'ajout des aides locales dans le portail national. Cet ajout a été fait le 14 janvier 2020. Nous avons commencé à rediriger le trafic de Mes Aides vers [mesdroitssociaux.gouv.fr](https://www.mesdroitssociaux.gouv.fr/) le XX février 2020.
-
-
-Le regroupement des deux outils aurait pu apparaître comme une consolidation de la Startup d'État Mes Aides mais voici quelques éléments qui nous amènent à plutôt considérer cette Startup d'État comme abandonnée.
+Nous aurions pu considérer le regroupement des deux outils comme un succès, mais nous avons choisi de placer cette fiche parmi les services abandonnés sur le site beta.gouv.fr. Voici quelques éléments qui expliquent ce choix.
 
 
 ### Vers quelle organisation&nbsp;?
 
 Le simulateur Mes Aides est réalisé par une équipe autonome de 2 personnes en moyenne.
 
-Le PNDS est piloté par la Direction de la Sécurité Sociale, en accompagnement à la maîtrise d'ouvrage (AMOA) à la Caisse Centrale de la Mutualité Sociale Agricole qui délègue à son Groupement d'Întérêt Économique Agora qui sous-traite à Sopra-Steria.
+Le PNDS est piloté par la Direction de la Sécurité Sociale, en accompagnement à la maîtrise d'ouvrage (AMOA) à la Caisse Centrale de la Mutualité Sociale Agricole qui délègue au GIE Agora qui sous-traite à la société privée Sopra-Steria.
 
-Il ne s'agit pas de remettre en question les qualités et les compétences des personnes mais les structures des équipes mise en place. En effet, cette structure peut libérer les énergies ou bien contraindre les individus dont les initiatives personnelles pourraient bénéficier aux usagers du service. Un service public numérique de qualité qui doit s'adapter très rapidement aux besoins et demandes des usagers à besoin d'une équipe dont les membres partagent l'envie vicérale de résoudre le problème de politique publique sous-jacent.
+Il aurait pu être fait le choix de poursuivre une démarche centrée sur les utilisateurs animée par une petite équipe intégrée et autonome, capable de s'adapter très rapidement aux besoins et demandes des utilisatrices et utilisateurs, d'assurer des corrections textuelles rapides et d'intégrer des nouvelles aides ou des améliorations de manière réactive.
 
-
-D'un point de vue plus opérationnel, cela pose des questions sur&nbsp;:
-- les délais de mise en ligne d'une correction textuelle ou encore
-- le délai d'intégration d'une nouvelle aide ou d'une amélioration du moteur de calculs.
-
-Nous avons proposé de constituer une équipe plus proche de l'[incubateur des ministères sociaux](https://incubateur.social.gouv.fr/) mais cela n'a pas eu de suite positive.
+L'équipe de l'incubateur de services numérique de la DINUM a proposé de constituer une équipe plus proche de l'[incubateur des ministères sociaux](https://incubateur.social.gouv.fr/) mais cela n'a pas eu de suite positive.
 
 
 ### Vers quel impact&nbsp;?
 
 Dans un article précédent, nous avons résumé l'[impact du simulateur Mes Aides](https://blog.beta.gouv.fr/general/2019/11/18/mes-aides-metriques/) et les statistiques sont publiques et mises à jour en temps réel sur [mes-aides.gouv.fr/stats](https://mes-aides.gouv.fr/stats).
 
-En ce qui concerne le portail national, aucune statistique n'est publique, des campagnes de communication ont été faites (via les opérateurs et en dernière page de la déclaration d'impôts) mais, selon les informations qui ont été partagées avec nous, l'impact semble avoir été limité sur le premier indicateur d'impact qu'est la fréquentation du site.
+En ce qui concerne le portail national, aucune statistique n'est publique.
 
 Au delà de la fréquentation, les statistiques de performance du service ne sont pas connues :
 - Combien de personnes qui commencent leur simulation vont jusqu'au bout&nbsp;?
@@ -93,16 +80,14 @@ Au delà de la fréquentation, les statistiques de performance du service ne son
 
 Le simulateur Mes Aides est en [open source](https://github.com/betagouv/mes-aides-ui/) c'est à dire qu'il est accessible à tous et qu'il peut être réutilisé. Les modifications apportées doivent être publiées conformément à [la licence AGPL-3.0](https://choosealicense.com/licenses/agpl-3.0/).
 
-Le code source du portail national est quant à lui fermée. Seulement disponible à la Mutualité Sociale Agricole et uniquement dans ses systèmes d'information. À l'annonce du rapprochement entre les deux simulateurs nous avons demandé l'accès au code source pour permettre une collaboration sur le code lui-même sans le publier. Aucune réponse n'a été apportée.
+Le code source de mesdroitssociaux.gouv.fr est quant à lui fermée, sans projet d'ouverture à court ou moyen-terme à notre connaissance.
 
 
 ### Vers quel coût&nbsp;?
 
 Le coût total du simulateur Mes Aides sur ses 5 années et demi d'existence représenté de 1,25 millions d'euros. La détail du budget est accessible à la [page suivante](https://docs.google.com/spreadsheets/d/1QlbBGNerYT1GuVnXRp8vJoQnz-U6e0qqQ636oHNN70g/edit#gid=8773656).
 
-Selon nos informations, le budget **annuel** du portail national représente 2 à 3 millions d'euros. Le périmètre est différent mais l'écart reste significaf au vu des similitudes entre les deux propositions de valeur.
-
-Il nous paraît possible de proposer un service public numérique de qualité de façon frugale et pérenne.
+Le budget annuel du portail national représente environ 2 à 3 millions d'euros. Le périmètre est différent mais l'écart reste significatif au vu des similitudes entre les deux propositions de valeur.
 
 
 ### Dépassé par le privé&nbsp;?
@@ -110,4 +95,4 @@ Il nous paraît possible de proposer un service public numérique de qualité de
 De nombreux acteurs du privé se positionnent sur l'intermédiation aux prestations sociales et sur la simplification (par l'extérieur) de la relation entre le public et l'administration.
 
 
-En résumé, ces différents remarques peuvent être considérées comme des pistes d'amélioration continue que les équipes du portail national peuvent suivre ou intégrer à leur feuille de route si elles le souhaitent. Dans l'état actuel de la situation, il nous paraît raisonnable de considérer la Startup d'État Mes Aides comme abandonnée.
+Pour toutes ces raisons (au moment de la rédaction de ce texte [mars 2020]), nous faisons le constat de l'abandon de l'approche Startup d'État.
