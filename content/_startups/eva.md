@@ -8,8 +8,9 @@ status: construction
 start: 2018-06-06
 end:
 link: https://eva.beta.gouv.fr/
-repository: https://github.com/betagouv/competences-pro/
-stats: false
+repository: https://github.com/betagouv/eva/
+stats: true
+stats_url: https://eva.beta.gouv.fr/statistiques/
 contact: contact@eva.beta.gouv.fr
 redirect_from:
   - /startups/competences-pro
