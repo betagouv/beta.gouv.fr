@@ -1,6 +1,6 @@
 ---
 fullname: Jihane Herizi
-role: Responsable de portefeuille
+role: Co-animatrice du programme Startups d'État
 missions:	
   - start: '2017-10-11'	 
     end: '2019-12-31'	    
