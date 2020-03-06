@@ -1,12 +1,12 @@
 ---
 fullname: Léry Jicquel
-role: Intrapreneur
+role: Co-animateur
 github: LeryJ
 missions:
   - start: '2018-09-01'
     end: '2021-03-01'
     status: admin
-    employer: Cour des comptes
+    employer: Beta.gouv
 startups :
   - e-controle
 ---
