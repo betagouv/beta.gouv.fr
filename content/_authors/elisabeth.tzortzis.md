@@ -1,7 +1,6 @@
 ---
 fullname: Elisabeth Tzortzis
 role: Intrapreneuse
-github: ???
 missions:
   - start: '2020-03-01'
     end: '2021-03-01'
@@ -10,6 +9,5 @@ missions:
 startups :
   - e-controle
 ---
-In Bike I Trust.
-Toujours en équipe!
+
 
