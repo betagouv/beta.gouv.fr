@@ -1,7 +1,7 @@
 ---
 roles: des designers !
 startup: betagouv
-open: true
+open: false
 ---
 
 # Nous recrutons plusieurs profils de designers au sein de beta.gouv.fr
