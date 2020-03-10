@@ -11,8 +11,9 @@ missions:
     end: '2019-12-31'    
     status: independent
 startups:
-  - codedutravail
   - classes12
   - mes-aides
   - preuve-de-covoiturage
+previously:
+  - codedutravail
 ---
