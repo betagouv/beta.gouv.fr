@@ -62,6 +62,5 @@ Idéalement vous avez de l’expérience dans un, plusieurs ou tous les domaines
 - Temps plein ou ⅘
 - Rémunération selon profil
 - Poste basé à Paris 15e, télétravail possible 2 jours par semaine
-- Postuler
 
 Vous êtes prêt à postuler ? Envoyez-nous un email à codedutravailnumerique@travail.gouv.fr en expliquant pourquoi vous souhaitez nous rejoindre.
