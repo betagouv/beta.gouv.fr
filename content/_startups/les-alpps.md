@@ -13,9 +13,9 @@ contact: frederic.bardolle@def.gouv.fr
 
 ## Sécuriser les sorties en montagne
 
-L’École militaire de haute montagne (EMHM) a pour vocation la formation des cadres des troupes de montagne, et emploie des instructeurs de montagne militaires et civils, tous guides de haute montagne, moniteurs guides militaires, moniteurs de ski ou de parapente. Lors de stages de formation, les instructeurs qui partent en sortie pour s'entraîner ou avec des stagiaires, doivent préparer leur itinéraire et la soumettre aux officiers de montagne pour :
+L’École militaire de haute montagne (EMHM) a pour vocation la formation des cadres des troupes de montagne, et emploie des instructeurs de montagne militaires et civils, tous guides de haute montagne, moniteurs guides militaires, moniteurs de ski ou de parapente. Lors de stages de formation, les instructeurs qui partent en sortie pour s'entraîner ou avec des stagiaires, doivent préparer leur itinéraire et le soumettre aux officiers de montagne pour :
 
-1. Permettre aux équipe sur site de suivre les sorties et de déclencher les secours en cas de besoin
+1. Permettre aux équipes sur site de suivre les sorties et de déclencher les secours en cas de besoin
 2. D’être couverts juridiquement dans le cadre de leur fonction en cas d’accident
 
 ## Simplifier le processus et le suivi
