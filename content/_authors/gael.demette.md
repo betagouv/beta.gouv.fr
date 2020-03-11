@@ -8,4 +8,5 @@ missions:
 github: Nainterceptor
 startups:
     - e-chauffeur
+    - stargate
 ---
