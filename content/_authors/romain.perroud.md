@@ -11,6 +11,7 @@ startups:
     - e-chauffeur
     - anais
     - sepia
+    - stargate
 ---
 
 🏭🔢
