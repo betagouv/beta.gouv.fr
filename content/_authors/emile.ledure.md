@@ -9,4 +9,5 @@ missions:
       employer: MTES-MCT
 startups:
     - access4all
+    - partaj
 ---
