@@ -118,8 +118,9 @@ layout: default
     selectPhase.addEventListener('change', function(e) {
         var url = location.href;
         var selectedPhase = e.target.value;
-        location.href = "#"+selectedPhase;
-        history.replaceState(null,null,url);
+        var anchor = "#"+selectedPhase
+        location.href = anchor;
+        history.replaceState(null,null,url+anchor);
     });
 </script>
 
