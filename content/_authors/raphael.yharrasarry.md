@@ -12,4 +12,4 @@ startups:
     - Kelrisks
 ---
 ​
-Designer de chaos depuis le dernier milléanire.
+Designer de chaos depuis le dernier milléanaire.
