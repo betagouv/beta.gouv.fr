@@ -50,7 +50,7 @@ Le service serait d'abord déployé auprès d'exploitants et d'inspecteurs au ni
 
 Par la suite, le service pourrait être étendu aux incinérateurs de déchets dans toute la France, puis à d’autres secteurs industriels, par exemple les installations de combustion.
 
-## Abandon
+## Abandon
 
 Suite au départ de l'intrapreneur après une mutation professionnelle, le projet Aeris n'a pas trouvé de repreneur.
 

@@ -1,12 +1,12 @@
 ---
-title: Co-construisons
+title: Cobot
 mission: Mettre les petites contributions numériques au service de l'intérêt général
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: acceleration
+status: death
 start: 2017-12-15
-end:
-link: http://site-1356466-3064-3975.strikingly.com/
+end: 2019-09-01
+link: https://cobot.beta.gouv.fr/
 repository:
 stats: false
 contact: laurence.matringe@developpement-durable.gouv.fr
@@ -36,7 +36,7 @@ Cependant la majorité des projets existants reposant sur des micro-contribution
 
 ## Notre solution
 
-**Co-construisons** permet aux porteurs de projets de recourir de façon simple à la contribution citoyenne pour entraîner l’intelligence artificielle sur des jeux d’images disponibles, au profit de nos politiques publiques.
+**Cobot** permet aux porteurs de projets de recourir de façon simple à la contribution citoyenne pour entraîner l’intelligence artificielle sur des jeux d’images disponibles, au profit de nos politiques publiques.
 
 Une plateforme destinée aux porteurs de projets qui ont des images à classer ou à faire qualifier permettra de déposer simplement leurs données et de choisir leur besoin de qualification et gérer la fréquence et l’animation des contributions souhaitées.
 Un agent conversationnel, cobot, qui propose une qualification d’images simple et ludique en s’adressant aux contributeurs sur des outils ou des services que les citoyens utilisent au niveau professionnel dans un premier temps (eg : Slack), personnel dans un second (eg : Facebook).
@@ -44,3 +44,12 @@ Un agent conversationnel, cobot, qui propose une qualification d’images simple
 Un produit minimum viable va être déployé en s’appuyant sur le projet OpenSolarMap de calcul automatique du potentiel solaire des toits pour tester la contribution supplémentaire qui pourrait être générée. Ce projet dispose déjà de contributions et la qualification demandée est accessible au grand public. Ce PMV repose sur le développement d’un agent conversationnel sur slack qui permettra de tester différentes fréquences, tons de messages et mode de qualification des données afin de maximiser le recrutement de nouveaux contributeurs et fidéliser leurs contributions.
 
 L’expérience acquise sur ce premier projet permettra de déployer ce type d’outils sur de nouveaux enjeux (urbanisme, environnement) avant de se déployer vers de la qualification plus complexe (démultiplication de la capacité d'analyse d’experts, anonymisation) et via d’autres supports (remplacement à terme des Captcha propriétaires sur les sites publics).
+
+## Fin du projet
+
+A l'été 2019, faute de solution pour améliorer l'impact de Cobot dans la sphère publique, l'équipe décide d'arrêter les travaux. 
+
+Afin d’assurer un atterrissage correct du projet, il a été décidé de finaliser les outils en cours de déploiement jusqu’à la fin du mois de juin, de publier les codes associés et la documentation afin qu’ils soient accessibles à toute personne intéressée dans le public ou le privé. Le travail engagé par l'équipe de Cobot a cependant permis d'essaimer dans la sphère privée, puisque une collaboration avec l'entreprise Streetco a permis de multiplier par 4 à 5 la capacité d’identification de parcours pour les personnes en situation de handicap sans même passer à la phase d’entraînement d’une IA.
+
+L’équipe reste à disposition de tout projet qui serait intéressé par cette solution dans la sphère publique.
+

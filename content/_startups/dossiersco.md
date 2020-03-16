@@ -6,7 +6,7 @@ incubator: dinsic
 status: death
 start: 2017-09-01
 end: 2019-09-15
-link: https://dossiersco.fr
+link: https://affectionate-easley-2194cc.netlify.com/
 repository: https://github.com/betagouv/dossiersco
 stats: true
 contact: equipe@dossiersco.fr

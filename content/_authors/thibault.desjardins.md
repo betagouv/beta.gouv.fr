@@ -1,12 +1,13 @@
 ---
 fullname: Thibault Desjardins
-role: Chargé de déploiement 
-github: Tibo-aplus 
+role: Chargé de déploiement
+github: Tibo-aplus
 missions:
-  - start: '2019-10-01' 
-    end: '2020-02-01'
-    status: independent 
-    employer: octo 
+  - employer: octo
+    end: '2020-12-31'
+    start: '2019-10-01'
+    status: independent
 startups:
-    - aplus
+  - aplus
 ---
+

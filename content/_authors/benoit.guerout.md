@@ -4,7 +4,7 @@ role: Développeur
 avatar: https://www.gravatar.com/avatar/af486ff27d192f7a42a215a834c531f4?s=512
 missions:
   - start: '2018-05-14'
-    end: '2019-12-31'
+    end: '2020-03-31'
     status: independent
     employer: ey
 github: bguerout

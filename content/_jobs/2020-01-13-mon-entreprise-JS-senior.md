@@ -2,7 +2,7 @@
 roles: Dev JavaScript experimenté.e
 startup: mon-entreprise
 techno: TypeScript / React
-open: true
+open: false
 ---
 
 <img src="https://mon-entreprise.fr/images/logo-share.png" alt="drawing" width="250"/>
