@@ -1,7 +1,15 @@
 ---
 fullname: Xaviera McGown
 role: Coach
-avatar: >-
-  https://media-exp1.licdn.com/dms/image/C4D03AQETisxCDnyRaQ/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=cwF7BNW2MAamno6F5n5nTB4KYXoY8gZjd9nou7GEPKg
----
 
+link: https://beta.gouv.fr/incubateurs/lab-mi.html
+missions:
+  - start: '2020-02-01'
+    end:
+    status: service
+    employer: octo
+startups:
+    - candilib
+avatar: https://media-exp1.licdn.com/dms/image/C4D03AQETisxCDnyRaQ/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=cwF7BNW2MAamno6F5n5nTB4KYXoY8gZjd9nou7GEPKg
+
+---
