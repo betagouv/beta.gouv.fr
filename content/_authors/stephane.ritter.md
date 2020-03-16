@@ -6,7 +6,7 @@ missions:
   - start: '2020-01-01'
     status: admin
     employer: minint
-github: 
+github: infosteph
 startups:
     - candilib
     - polex
