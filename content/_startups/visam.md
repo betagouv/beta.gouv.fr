@@ -1,7 +1,7 @@
 ---
 title: Visam
-mission: Fluidifier le dialogue social de la  « Direction des ressources humaines » de l’État.
-owner: DINSIC
+mission: Fluidifier le dialogue social de la  « Direction des ressources humaines » de l’État.
+owner: DGAFP
 incubator: dinsic
 status: construction
 start: 2020-02-20
@@ -9,7 +9,7 @@ end:
 link:
 repository: https://github.com/betagouv/visam
 stats: false
-contact: melodie.dahi@beta.gouv.fr
+contact: contact@visam.beta.gouv.fr
 techno:
     - Python
     - PostgreSQL
