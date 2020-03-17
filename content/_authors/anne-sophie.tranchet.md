@@ -12,7 +12,7 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
   - start: '2020-03-17' # date d'arrivée au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
     end: '2020-09-17' # date de fin de contrat au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
     status: independent # dinsic (pour agent DINSIC) ou independent (pour indépendant) ou admin (pour agent d'une autre administration) ou service (pour société de service)
-    employer: Octo# si applicable, le nom de ton administration, SSII, etc.
+    employer: Octo # si applicable, le nom de ton administration, SSII, etc.
 #startups: # ta ou tes startups actuelles
 #    - super_startup # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
 #previously: # ta ou tes anciennes startups
