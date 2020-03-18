@@ -204,6 +204,7 @@ collections:
           - { label: "transport.data.gouv.fr", value: "transport" }
           - { label: "Tremplin", value: "tremplin" }
           - { label: "Urbaclic", value: "urbaclic" }
+          - { label: "Visam", value: "visam" }
           - { label: "Voir & Localiser", value: "voir-et-localiser" }
           - { label: "Work in France", value: "workinfrance" }
           - { label: "Zam", value: "zam" }
@@ -310,6 +311,7 @@ collections:
           - { label: "transport.data.gouv.fr", value: "transport" }
           - { label: "Tremplin", value: "tremplin" }
           - { label: "Urbaclic", value: "urbaclic" }
+          - { label: "Visam", value: "visam" }
           - { label: "Voir & Localiser", value: "voir-et-localiser" }
           - { label: "Work in France", value: "workinfrance" }
           - { label: "Zam", value: "zam" }
