@@ -7,5 +7,5 @@ missions:
     status: admin
     employer: CEREMA
 startups:
-    - Friches
+    - friches
 ---
