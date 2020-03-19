@@ -1,5 +1,5 @@
 ---
-fullname: Raphaël Yharrasarry
+fullname: Raphaël Yharrassarry
 role: UX Designer
 avatar: https://avatars0.githubusercontent.com/u/5681540?s=600&v=4
 link: http://www.iergo.fr
