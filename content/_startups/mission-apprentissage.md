@@ -25,10 +25,11 @@ Les cinq finalités de la mission sont :
 
 Notre impact se mesurera par : 
 
-- L'augmentation du nombre d'apprentis par la concrétisation des voeux en contrat d'apprentissage.
-- La diminution des ruptures par un meilleur accompagnement.
+- L'augmentation du nombre d'apprentis par la concrétisation des voeux en contrat d'apprentissage (l'évaluation se fera par le questionnement du nombre de vœux émis en apprentissage sous ParcourSup et Affelnet par rapport à l'année N-1)
+
+- La diminution des ruptures par un meilleur accompagnement (aujourd'hui le nombre de ruptures est à 28% dans les 9 premiers mois, pour voir si ce taux diminue nous réaliserons une mesure en 2021 en interrogeant la base DECA qui enregistre tous les contrats signés en apprentissage)
 
 D'ores et déja de premières actions ont été réalisées pour la campagne d'inscriptions 2020 : 
 
-- Intégration sur "ParcourSup" des services "La bonne alternance" et offres d'emploi de "Pole-emploi.fr".
+- Intégration sur "ParcourSup" des services "La bonne alternance" et offres d'emploi de "Pole-emploi.fr" en lien avec les formations visées.
 - Constitution d'un premier catalogue des offres de formations en apprentissage.
