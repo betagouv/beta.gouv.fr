@@ -2,7 +2,7 @@
 roles: développeur·se full-stack data.gouv.fr
 startup: data.gouv.fr
 title: "La plateforme data.gouv.fr recherche : un·e développeur·se full-stack"
-open: true
+open: false
 ---
 
 Data.gouv.fr recherche un·e développeur·se full stack afin de participer à l'évolution de la plateforme ouverte de données publiques à partir de mars 2020.

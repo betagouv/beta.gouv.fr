@@ -6,10 +6,10 @@ incubator: dinsic
 status: acceleration
 start: 2018-06-18
 end:
-link: https://signalconso.beta.gouv.fr
+link: https://signal.conso.gouv.fr
 repository: https://github.com/betagouv/signalement-app
 stats: true
-contact: contact@signalconso.beta.gouv.fr
+contact: contact@signal.conso.gouv.fr
 techno:
   - Scala
   - TypeScript

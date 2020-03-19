@@ -3,11 +3,15 @@ title: Voir & Localiser
 mission: Voir et localiser les appelants aux centres d'appels d'urgence
 owner: ASIP Santé - Agence Française de la Santé Numérique
 incubator: dinsic
-status: construction
+status: death
 start: 2018-11-20
 end:
 contact: contact@voir-et-localiser.beta.gouv.fr
 ---
+
+
+> Post mortum en cours de rédaction. La publication suivra.
+
 # Le problème
 
 Le nombre d’appels aux numéros d’urgence comme le SAMU augmente chaque année. En 2017, il y a eu plus de 29 millions d’appels. Ce nombre est en constante augmentation chaque année. Pour celui qui y répond, le médecin régulateur, l’incertitude est omniprésente. Il est formé pour démêler et identifier par téléphone les situations complexes dans l’urgence.
