@@ -51,13 +51,14 @@ jobs:
               A dot (.) can only appear as a separator between the first and the last names.
               Dashes in names are kept as-is.
               Spaces are replaced by underscores (_).
+              File extension must be '.md'
             EOF
               exit 1
             fi
 
       - run:
           name: Check Jekyll configuration
-          command: bundle exec jekyll doctor
+          command: bundle exec jekyll doctor --strict_front_matter
 
       - run:
           name: Jekyll build
