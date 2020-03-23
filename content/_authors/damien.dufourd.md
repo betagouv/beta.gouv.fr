@@ -9,5 +9,5 @@ missions:
 startups:
   - diagoriente
   - histologe
-  - mission-apprentissage
+  - apprentissage
 ---
