@@ -9,5 +9,6 @@ missions:
     status: independent
     employer: education nationale
 startups: 
+  - apprentissage
 ---
 
