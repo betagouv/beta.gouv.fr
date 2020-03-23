@@ -10,7 +10,7 @@ link:
 repository:
 stats: false
 stats_url:
-contact: apprentissage@emploi.gouv.fr
+contact: guillaume.houzel@beta.gouv.fr
 ---
 
 Dans le cadre de la mobilisation nationale pour l’emploi et la transition écologique, engagée par le Premier ministre, Jean-Michel Blanquer, ministre de l’Éducation nationale, Frédérique Vidal, ministre de l’Enseignement supérieur, de la Recherche et de l’Innovation et Muriel Pénicaud, ministre du Travail ont conjointement confié à M. Guillaume Houzel une mission visant à lever les freins à l’essor de l’apprentissage et à faciliter la mise en contact des jeunes, des CFA et des entreprises.
@@ -31,5 +31,5 @@ Notre impact se mesurera par :
 
 D'ores et déja de premières actions ont été réalisées pour la campagne d'inscriptions 2020 : 
 
-- Intégration sur "ParcourSup" des services "La bonne alternance" et offres d'emploi de "Pole-emploi.fr" en lien avec les formations visées.
+- Intégration sur "ParcourSup" d'une information plus complète et précise sur l'apprentissage, des services "La bonne alternance" et offres d'emploi de "Pole-emploi.fr" en lien avec les formations visées.
 - Constitution d'un premier catalogue des offres de formations en apprentissage.
