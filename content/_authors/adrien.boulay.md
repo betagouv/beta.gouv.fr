@@ -9,5 +9,4 @@ missions:
     employer: OCTO Technology
 startups:
     - pass-culture
-previously:
 ---
