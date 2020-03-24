@@ -8,5 +8,6 @@ missions:
     status: service
     employer: OCTO Technology
 startups:
+    - pass-culture
 previously:
 ---
