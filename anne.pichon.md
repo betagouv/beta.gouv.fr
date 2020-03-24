@@ -11,5 +11,4 @@ startups:
     - zen
     - la-bonne-boite
     - la-bonne-alternance
-    - estime
 ---
