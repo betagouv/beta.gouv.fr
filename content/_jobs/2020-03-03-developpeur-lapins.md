@@ -2,7 +2,7 @@
 roles: un·e développeur·se
 startup: lapins
 techno: Ruby on Rails
-open: true
+open: false
 ---
 
 L'équipe RDV-Solidarités recherche un·e développeur·se Ruby on Rails. Vous ferez partie de l'équipe produit, participerez à la conception, au développement et au déploiement de l'application.
