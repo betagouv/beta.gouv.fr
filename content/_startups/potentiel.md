@@ -6,7 +6,7 @@ incubator: mtes
 status: construction
 start: 2020-01-01
 end:
-link: https://potentiel.beta.gouv.fr
+link:
 repository: https://github.com/MTES-MCT/potentiel
 stats: false
 stats_url:
