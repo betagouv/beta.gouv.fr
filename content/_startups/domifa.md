@@ -9,7 +9,7 @@ end:
 link: https://domifa.fabrique.social.gouv.fr
 repository: 
 stats: false
-contact: contact@domifa.beta.gouv.fr
+contact: contact.domifa@fabrique.social.gouv.fr 
 ---
 
 ## Qu’est-ce que la domiciliation ? 
