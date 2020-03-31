@@ -9,6 +9,7 @@ missions:
     start: '2018-12-12'
     status: service
 startups:
+  - lapins
 ---
 
-Développeur à tout faire.
+Coéquipier à tout faire.
