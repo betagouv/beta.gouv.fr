@@ -4,7 +4,7 @@ startup: Mission apprentissage
 open: true
 ---
 
-Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une équipe autonome, agile, et proche de leurs utilisateurs ? 
+Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une équipe autonome, agile, et proche de ses utilisateurs ? 
 
 **La Mission Apprentissage recherche un.e développeur.euse Full Stack JS**
 
