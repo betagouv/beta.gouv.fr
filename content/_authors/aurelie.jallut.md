@@ -5,7 +5,7 @@ github: Aurelie-J
 link: http://www.marquedefabrique.net
 missions:
   - start: '2019-11-12'
-    end: '2020-03-31' 
+    end: '2020-04-30' 
     status: independent
 startups:
  - aplus

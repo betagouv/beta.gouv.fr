@@ -7,5 +7,6 @@ missions:
     end: '2020-12-01'
     status: independent
 startups:
+  - apprentissage
 ---
 
