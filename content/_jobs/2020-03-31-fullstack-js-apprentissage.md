@@ -51,7 +51,7 @@ C’est sur ce 3ème axe que le/la développeur.euse interviendra, en particulie
 ## Environnement de travail
 * Environnement et communauté beta.gouv : https://beta.gouv.fr/ (plus de détails ici également : https://github.com/betagouv/beta.gouv.fr/wiki/Bienvenue) 
 * Poste ouvert pour des indépendant·e·s sur une durée de 3 mois renouvelable
-* Temps partiel accepté
+* Temps partiel accepté (4/5 ou 3/5 accepté)
 * Démarrage en avril 2020
 * Télétravail avec 2 réunions présentielles par mois à Paris (après la période de confinement)
 
