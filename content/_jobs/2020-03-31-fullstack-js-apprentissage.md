@@ -49,14 +49,14 @@ C’est sur ce 3ème axe que le/la développeur.euse interviendra, en particulie
 * Full stack JS : nodeJs, Mongo, Serverless, React, ElasticSearch, graphQI, algorithmie, api rest, ML
 
 ## Environnement de travail
-* Environnement et communauté beta.gouv : https://beta.gouv.fr/
-* Poste ouvert pour des indépendant·e·s sur une durée de 3 mois renouvelables
+* Environnement et communauté beta.gouv : https://beta.gouv.fr/ (plus de détails ici également : https://github.com/betagouv/beta.gouv.fr/wiki/Bienvenue) 
+* Poste ouvert pour des indépendant·e·s sur une durée de 3 mois renouvelable
 * Temps partiel accepté
 * Démarrage en avril 2020
-* Télétravail avec 2 réunions présentielles par mois à Paris
+* Télétravail avec 2 réunions présentielles par mois à Paris (après la période de confinement)
 
 ## Postuler
 Cela vous intéresse ?
-Envoyez votre LinkedIn, CV et GitHub à antoine.bigard@beta.gouv.fr et samir.benfares@beta.gouv.fr
+Envoyez votre LinkedIn et/ou CV et/ou GitHub à antoine.bigard@beta.gouv.fr et samir.benfares@beta.gouv.fr
 
 À bientôt !
