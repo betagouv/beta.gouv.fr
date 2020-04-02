@@ -77,7 +77,7 @@ Canaux de diffusion :
 
 constats et apprentissages :
 
-> démarches administratives longues, fastidieuses et souvent rebutoires (menaces de retrait de plainte par conjoint violent, frustration et donc non dépot, harcélement et non compréhension des gendarmes...). **Sur 80 femmes, 53% sont allées demander conseil à la gendarmerie. Elles ne sont plus que 13% à estimer avoir pu compter sur eux.**
+> démarches administratives longues, fastidieuses et souvent rebutantes (menaces de retrait de plainte par conjoint violent, frustration et donc non dépot, harcélement et non compréhension des gendarmes...). **Sur 80 femmes, 53% sont allées demander conseil à la gendarmerie. Elles ne sont plus que 13% à estimer avoir pu compter sur eux.**
 
 > Second problème conconcomittant à la lenteur administrative, la protection physique et morale pendant les démarches admin et judiciaires : le besoin d'un logement d'urgence.
 
@@ -140,7 +140,7 @@ INDICATEUR : nb d’appels et sollicitations sur le groupe privé whatsapp entre
 
 
 
-📬 NOUS CONTACTER : [jennifer.stephan@beta.gouv.fr](mailto:jennifer.stephan@beta.gouv.fr?subject=[Protege-toit]); en cc : preincubation@beta.gouv.fr
+📬 NOUS CONTACTER : [jennifer.stephan@beta.gouv.fr](mailto:jennifer.stephan@beta.gouv.fr?subject=Protege-toit); en cc : preincubation@beta.gouv.fr
 
 
 
