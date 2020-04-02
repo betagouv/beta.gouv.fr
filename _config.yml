@@ -20,6 +20,7 @@ github_repository: BetaGouv/beta.gouv.fr
 
 # Build settings
 markdown: kramdown
+strict_front_matter: true
 plugins:
   - jekyll-redirect-from
 
