@@ -58,7 +58,7 @@ jobs:
 
       - run:
           name: Check Jekyll configuration
-          command: bundle exec jekyll doctor --strict_front_matter
+          command: bundle exec jekyll doctor
 
       - run:
           name: Jekyll build
