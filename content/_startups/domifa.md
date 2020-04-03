@@ -6,10 +6,10 @@ incubator: sgmas
 status: construction 
 start: 2019-01-15 
 end: 
-link: 
+link: https://domifa.fabrique.social.gouv.fr
 repository: 
 stats: false
-contact: contact@domifa.beta.gouv.fr
+contact: contact.domifa@fabrique.social.gouv.fr 
 ---
 
 ## Qu’est-ce que la domiciliation ? 
