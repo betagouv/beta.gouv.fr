@@ -33,21 +33,22 @@ Le partenaire de ce programme est **le département des Côtes d’Armor.**
 
 ## 🔭 Le problème investigué : au niveau national, le gaspillage alimentaire en restauration scolaire représente près de 135g/repas/personne au collège (source : ADEME).
 
-Dans le département des Côtes d'Armor, chaque jour le collège Val de Rance (terrain d'expérimentation, Catherine, chef de cuisine ; Pascaline, gérante administrative de ce même collège) préparent 650 repas, en respectant les règles de nutrition.
-En moyenne l’équivalent de 148 repas sont jetés chaque jour, soit 70 kg (150 g par élève). En coût denrée, cela représente 35 000€ par an pour le collège.
+Dans le département des Côtes d'Armor, chaque jour, le collège Val de Rance (terrain d'expérimentation où Catherine est cheffe de cuisine ; Pascaline, gérante administrative) préparent 650 repas, en respectant les règles de nutrition.
+En moyenne, l’équivalent de 148 repas sont jetés chaque jour, soit 70 kg (150 g par élève). 
+En coût denrée, cela représente 35 000€ par an pour le collège.
 
 
 **Les objectifs :**
 
-- Réduire la quantité de déchets produits et traités : cela permet des économies de ressources naturelles et limite les coûts de traitement pour la collectivité.
+- Réduire la quantité de déchets produits et traités : cela permet des économies de ressources naturelles et limite les coûts de traitement pour la collectivité
 - Être en conformité avec la loi de transition énergétique pour la croissance verte
 - Améliorer l’équilibre alimentaire des repas
-- Impliquer les équipes et les enfants dans une démarche active et collective : cette action collective permet à chacun de prendre conscience de son impact sur l’environnement et des leviers à sa disposition pour y remédier
+- Impliquer les équipes et les enfants dans une démarche active et respectueuse de la transition ecologique : cette action collective permet à chacun de prendre conscience de son impact sur l’environnement et des leviers à sa disposition pour y remédier
 
 
 ## 🎯 Les actions menées 
 
-1. Questionnaire élèves et adulte sur la restauration au quotidien. Objectif savoir ce que mange chacun et surtout ce qui est jeté. [Lien questionnaire collégien] (https://docs.google.com/forms/d/1H_D2n2NLom9aHpiLM0MP1fDQjPgEiG_Q6YbvpJQBJDg/edit) - (380 réponses) 
+1. Questionnaire élèves et adultes sur la restauration au quotidien. Objectif : savoir ce que mange chacun et surtout ce qui est jeté. [Lien questionnaire collégien] (https://docs.google.com/forms/d/1H_D2n2NLom9aHpiLM0MP1fDQjPgEiG_Q6YbvpJQBJDg/edit) - (380 réponses) 
 
 <img width="400" alt="Rest'0 stat 1" src="https://user-images.githubusercontent.com/36134318/78232277-4bb0fb00-74d4-11ea-8643-942c8c599b08.png">
 
@@ -74,7 +75,7 @@ RÉSULTATS et bénéfices identifiés par les 2 établissements :
         > Reconnaissance du travail des agents
         > Economie d’eau et de vaisselle
 
-4. Test sur une semaine d’un menu self total avec mesure semaine menu égal : gaspi divisé par 2 !
+4. Test sur une semaine d’un self à menu égal : gaspi divisé par 2 !
 
 5. Rencontre avec la DIRPAT, direction du patrimoine, qui a donne son go et accord de principe pour lancer l'expérimentation logistique dans le collège
 
@@ -105,10 +106,10 @@ RÉSULTATS et bénéfices identifiés par les 2 établissements :
 
 - Poursuite des échanges avec les enseignants afin d’inclure le volet pédagogique
 - Chiffrage des scenarii de solutions : plans architecture et logistique de la nouvelle organisation du self dans 1 collège du département
-- Elaboration plan d’actions si 6 collèges du département entreprennent la même organistaiton logistique
-- Rédaction d’un kit de sensibilisation multi-acteurs (collectivités, personnels cuisines, équipe pédagogique) afin de les inclure dans la démarche 
+- Elaboration plan d’actions si 6 collèges du département entreprennent la même organisation logistique
+- Rédaction d’un kit de sensibilisation multi-acteurs (collectivités, personnels des cuisines, équipe pédagogique) afin de les inclure dans la démarche 
 - Consolidation des constats et apprentissages
-- Recherche partenariats, porteurs et porteuses projets, recherche de financement internes au département dans un premier temps
+- Recherche partenariats, porteurs et porteuses projets, recherche de financement interne au département dans un premier temps
 - si tests et impacts vérifiés, déploiement outil au niveau national ?
 
 
