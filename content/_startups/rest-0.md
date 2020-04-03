@@ -28,12 +28,12 @@ Le partenaire de ce programme est **le département des Côtes d’Armor.**
 
 - FEILLEL Pascaline, gérante collège
 - MALLARD Catherine, cheffe cuisine
-- LHOSTIS Frederik, responsable 6 collèges dans le dpt
+- LHOSTIS Frederik, responsable 6 collèges dans le département
 
 
 ## 🔭 Le problème investigué : au niveau national, le gaspillage alimentaire en restauration scolaire représente près de 135g/repas/personne au collège (source : ADEME).
 
-Dans le département des Côtes d'Armor, chaque jour le collège Val de Rance (terrain d'expérimentation, Catherine, chef de cuisine; Pascaline, gérante administrative de ce même collège) préparent 650 repas, en respectant les règles de nutrition.
+Dans le département des Côtes d'Armor, chaque jour le collège Val de Rance (terrain d'expérimentation, Catherine, chef de cuisine ; Pascaline, gérante administrative de ce même collège) préparent 650 repas, en respectant les règles de nutrition.
 En moyenne l’équivalent de 148 repas sont jetés chaque jour, soit 70 kg (150 g par élève). En coût denrée, cela représente 35 000€ par an pour le collège.
 
 
@@ -78,11 +78,11 @@ RÉSULTATS et bénéfices identifiés par les 2 établissements :
 
 5. Rencontre avec la DIRPAT, direction du patrimoine, qui a donne son go et accord de principe pour lancer l'expérimentation logistique dans le collège
 
-6. [Rencontre avec une élue du dpt](https://docs.google.com/document/d/1UmjblytVJYIVNk2u0xbpp6ITdukwso2oN3hIdXa8Plc/edit), idem adhésion totale à la démarche, prête à suivre et promouvoir le projet (en principe)
+6. [Rencontre avec une élue du département](https://docs.google.com/document/d/1UmjblytVJYIVNk2u0xbpp6ITdukwso2oN3hIdXa8Plc/edit), idem adhésion totale à la démarche, prête à suivre et promouvoir le projet (en principe)
 
 7. Mobilisation des éco-délégués et sensibilisation comme “ambassadeurs” de la démarche : [lien entretien](https://docs.google.com/document/d/12maaeGKN27xswOKyn_ASqH4mTlZsfZIOy0owxrfVoSw/edit)
 
-8. L'idée d’investigation des applis de gestion de flux et de réservation de menu en amont a été abandonnée, i.e., tous les jours, le parents ou enfants consultent le menu, indiquent sa présence ou non afin de pouvoir quantité, tracker données affluence et faire prédiction quant grande masse de collecte... 
+8. L'idée d’investigation des applis de gestion de flux et de réservation de menu en amont a été abandonnée, i.e., tous les jours, le parents ou enfants consultent le menu, indiquent sa présence ou non afin de pouvoir quantité, suivre les données affluence et faire une prédiction quant à la masse de collecte... 
 
 **ABANDON de cette idée d'appli numerique de gestion de flux et commandes pour plusieurs raisons :**
 - pas la priorité des parents
@@ -104,8 +104,8 @@ RÉSULTATS et bénéfices identifiés par les 2 établissements :
 ## 📅 Prochaines étapes
 
 - Poursuite des échanges avec les enseignants afin d’inclure le volet pédagogique
-- Chiffrage des scenari de solutions : plans architecture et logistique de la nouvelle organisation du self dans 1 collège du dpt
-- Elaboration plan d’actions si 6 collèges du dpt entreprennent la même orga logistique
+- Chiffrage des scenarii de solutions : plans architecture et logistique de la nouvelle organisation du self dans 1 collège du département
+- Elaboration plan d’actions si 6 collèges du département entreprennent la même organistaiton logistique
 - Rédaction d’un kit de sensibilisation multi-acteurs (collectivités, personnels cuisines, équipe pédagogique) afin de les inclure dans la démarche 
 - Consolidation des constats et apprentissages
 - Recherche partenariats, porteurs et porteuses projets, recherche de financement internes au département dans un premier temps
