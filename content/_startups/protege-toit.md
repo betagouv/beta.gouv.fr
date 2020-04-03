@@ -1,5 +1,5 @@
 ---
-title: [Investigation en cours] Protège-Toit 🏡 (violences conjugales)
+title: Protège-Toit 🏡 (violences conjugales)
 mission: Améliorer la prise en charge d'urgence pour les victimes de violences conjugales
 owner: Département des Côtes d'Armor
 incubator: preincubation
