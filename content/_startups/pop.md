@@ -33,7 +33,7 @@ Fort du succès unanime de la Startup d’Etat POP, et eu égard à l’importan
 Les équipes ministérielles assureront les futurs développements de la plateforme POP.
 
 Derrière cette réussite se trouvent néanmoins de précieux enseignements pour améliorer notre démarche :
-Nous n’avons pas réussi à aligner tous les points de vue sur la finalité de POP - i.e. valoriser et rendre accessible au plus grand nombre le patrimoine de la France. De plus amples efforts de familiarisation à la méthode Startup d’Etat, notamment à l’endroit des directions d’administration centrales, auraient permis à l’équipe d’aller plus loin dans le déploiement de la POP.
+Nous n’avons pas réussi à aligner tous les points de vue sur la finalité de POP - i.e. valoriser et rendre accessible au plus grand nombre le patrimoine de la France. De plus amples efforts de familiarisation à la méthode Startup d’Etat, notamment à l’endroit des directions d’administration centrales, auraient permis à l’équipe d’aller plus loin dans le déploiement de la plateforme POP.
 L’absence de sponsor interne et le manque de légitimité ressenti par l’intrapreneur a limité les ambitions de la Startup
 Nous avons sous-estimé la complexité juridiques sur la réutilisation des données, au sein même du “Ministère des Droits d’Auteur”, ce qui nous a privé d’opportunités de mieux distribuer les données et de toucher plus d’usagers.
 
