@@ -113,4 +113,4 @@ RÉSULTATS et bénéfices identifiés par les 2 établissements :
 
 
 
-📬 NOUS CONTACTER : [jennifer.stephan@beta.gouv.fr](mailto:jennifer.stephan@beta.gouv.fr?subject=Protege-toit); en cc : preincubation@beta.gouv.fr
+📬 NOUS CONTACTER : [jennifer.stephan@beta.gouv.fr](mailto:jennifer.stephan@beta.gouv.fr?subject=Resto); en cc : preincubation@beta.gouv.fr
