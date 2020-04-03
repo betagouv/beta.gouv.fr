@@ -1,5 +1,5 @@
 ---
-title: [Investigation en cours] Rest'0 🍽 (gaspillage alimentaire cantines scolaires)
+title: Rest'0 🍽 (gaspillage alimentaire cantines scolaires)
 mission: Réduire le gaspillage alimentaire dans les cantines scolaires
 owner: Département des Côtes d'Armor
 incubator: preincubation
