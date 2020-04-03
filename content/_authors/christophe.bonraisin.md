@@ -8,6 +8,7 @@ missions:
     employer: pole-emploi
 startups:
     - la-bonne-formation
+    - apprentissage
 ---
 
 Irrité par les irritants, pugnace pour chercher à les résoudre, avec 😃

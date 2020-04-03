@@ -1,7 +1,7 @@
 ---
 roles: Des développeuses et développeurs séniors pour les Startups d'État du Ministère de l'écologie
 techno: Choix technologiques ouverts parmi les solutions libres du marché
-open: true
+open: false
 title: Développeuses/développeurs à l'incubateur de l'écologie
 ---
 

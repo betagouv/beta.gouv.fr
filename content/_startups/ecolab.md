@@ -9,7 +9,7 @@ end:
 link: https://ecolab.ademe.fr/
 repository:
 stats: false
-contact: martin.regner@beta.gouv.fr
+contact: contact@ecolab.beta.gouv.fr
 ---
 
 # (Ré)Concilier défi planétaire et vie quotidienne
