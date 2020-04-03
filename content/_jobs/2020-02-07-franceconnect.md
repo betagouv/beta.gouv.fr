@@ -3,7 +3,7 @@ roles: un Lead développeur ou une Lead développeuse Full Stack JS
 startup: franceconnect
 techno: Node.js, ElasticSearch, MongoDB
 junior: false
-open: true
+open: false
 title: Lead dev full stack JS FranceConnect
 type: 'friend'
 ---
