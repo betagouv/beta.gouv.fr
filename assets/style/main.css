@@ -1450,6 +1450,9 @@ fieldset {
   border-radius: 50%;
   display: inline-block;
   float: right;
+  margin-bottom: 2em;
+  object-fit: cover;
+  object-position: top;
 }
 
 .article__author-info {

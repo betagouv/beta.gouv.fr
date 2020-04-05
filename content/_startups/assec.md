@@ -6,7 +6,7 @@ incubator: mtes
 status: death
 start: 2017-12-31
 end:
-link: http://assec.beta.gouv.fr/
+link: 
 repository: https://github.com/MTES-MCT/assec
 stats: false
 contact: michel.perrel@beta.gouv.fr
@@ -32,4 +32,4 @@ Un produit minimum viable a été développé dans le Var, département fréquem
 
 # Abandon
 
-Le déploiement d'ASSEC dans d'autres départements n'a pas trouvé de financement. Le produit minimum viable reste accessible en mode off-line, le travail réalisé a été documenté, et le code ouvert, dans la perspective de moderniser à l'avenir les outils de communication sur la sécheresse.
+Le déploiement d'ASSEC dans d'autres départements n'a pas trouvé de financement. Le travail réalisé a été documenté, et le code reste ouvert, dans la perspective de moderniser à l'avenir les outils de communication sur la sécheresse.
