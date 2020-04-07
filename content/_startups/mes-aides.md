@@ -80,7 +80,7 @@ Au delà de la fréquentation, les statistiques de performance du service ne son
 
 Le simulateur Mes Aides est en [open source](https://github.com/betagouv/mes-aides-ui/) c'est à dire qu'il est accessible à tous et qu'il peut être réutilisé. Les modifications apportées doivent être publiées conformément à [la licence AGPL-3.0](https://choosealicense.com/licenses/agpl-3.0/).
 
-Le code source de mesdroitssociaux.gouv.fr est quant à lui fermée, sans projet d'ouverture à court ou moyen-terme à notre connaissance.
+Le code source de mesdroitssociaux.gouv.fr est quant à lui fermé, sans projet d'ouverture à court ou moyen-terme à notre connaissance.
 
 
 ### Vers quel coût&nbsp;?
