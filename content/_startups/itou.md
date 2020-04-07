@@ -25,17 +25,17 @@ L'**inclusion dans l'emploi** concerne le vaste dispositif de l'IAE, les [entrep
 
 ### Problématique
 
-Plus de 500.000 personnes sont en chômage de très longue durée (2 an ou plus) ([source INSEE](https://www.insee.fr/fr/statistiques/2417491#tableau-figure1)). L'Insertion par l’Activité Economique (IAE) peut être une des solutions, seulement un certain nombre de problèmes ont été soulevés par la [Cour des Comptes](https://www.ccomptes.fr/system/files/2019-01/20190115-rapport-insertion-chomeurs.pdf), nous alertant sur des freins d’accès à l’IAE et des modèles économiques, peu connus, aux équilibres fragiles. 
+Plus de 500.000 personnes sont en chômage de très longue durée (2 an ou plus) ([source INSEE](https://www.insee.fr/fr/statistiques/2417491#tableau-figure1)). L'Insertion par l’Activité Economique (IAE) peut être une des solutions, seulement un certain nombre de problèmes ont été soulevés par la [Cour des Comptes](https://www.ccomptes.fr/system/files/2019-01/20190115-rapport-insertion-chomeurs.pdf), nous alertant sur des freins d’accès à l’IAE et sur les modèles économiques des structures, peu connus, aux équilibres fragiles. 
 
-Actuellement il existe des délais entre l’orientation d’une personne et son début de contrat. L'agrément IAE, définissant l'éligibilité d'une personne à l'IAE, doit être fiabilisé et simplifié. Enfin, pour les organisations, de nombreux protocoles de gestion sont fastidieux et complexes avec l’[Agence de Services et de Paiement](https://www.asp-public.fr/) (ASP) et les [Direccte](http://direccte.gouv.fr/).
+Actuellement il existe des délais entre l’orientation d’une personne et son début de contrat. L'agrément IAE, définissant l'éligibilité d'une personne à l'IAE, doit être fiabilisé et simplifié. Enfin, les entreprises et autres acteurs de l'IAE passent un temps très important à saisir des données ou établir des rapports sur leur activité, charge administrative récurrente et parfois redondante d'un rapport à l'autre.
 
 ### Vision & ambition
 
 Tous les acteurs mobilisés pour l'inclusion doivent pouvoir partager l'information de manière simple, efficace et rapide. C'est la vision portée par inclusion.beta.gouv.fr. Toutes les informations nécessaires pour lever les différentes contraintes du quotidien – la charge administrative, le recrutement des profils éligibles, etc. – pourront y être centralisées, à la manière d'un « guichet unique ».
 
-L'ambition est de proposer une solution numérique intégrée permettant de lever les freins limitant aujourd'hui l'action de l'IAE (insertion par l'activité économique) : problèmes d'accès en [profils éligibles](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/qui-peut-beneficier-des-contrats-dinsertion-par-lactivite-economique) (« sourcing ») et d'accompagnement vers l'emploi durable, lourdeur administrative, et faible accès à des outils mutualisés de professionnalisation et d'accompagnement des parcours.
+L'ambition est de proposer une solution numérique intégrée permettant de lever les freins limitant aujourd'hui l'action de l'IAE (insertion par l'activité économique) : problèmes d'accès aux [profils éligibles](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/qui-peut-beneficier-des-contrats-dinsertion-par-lactivite-economique) (« sourcing ») et d'accompagnement vers l'emploi durable, lourdeur administrative, et faible accès à des outils mutualisés de professionnalisation et d'accompagnement des parcours.
 
-### Chantiers
+### Finalités
 
 1. **Faciliter l'orientation et l'embauche** de candidats à un emploi accompagné vers des [employeurs solidaires](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/prescripteurs-habilites) (SIAE, GEIQ, EA) en centralisant un registre de l’offre et en refondant l’agrément IAE.
 2. **Réduire la charge administrative** pour tous les acteurs, et **renforcer le pilotage de l’IAE** afin d'optimiser l'offre d'inclusion sur le territoire.
