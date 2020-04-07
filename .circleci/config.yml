@@ -43,7 +43,7 @@ jobs:
       - run:
           name: Check authors file name structure (first_name.last_name.md)
           command: |
-            if ls _authors | grep --line-regexp --invert-match '[a-z_-]\+\.[a-z_-]\+\.md'
+            if ls content/_authors | grep --line-regexp --invert-match '[a-z_-]\+\.[a-z_-]\+\.md'
             then cat <<EOF
               One or more authors do not have the expected structure.
               Contact a website administrator if your generated author file breaks the validator.
@@ -51,6 +51,7 @@ jobs:
               A dot (.) can only appear as a separator between the first and the last names.
               Dashes in names are kept as-is.
               Spaces are replaced by underscores (_).
+              File extension must be '.md'
             EOF
               exit 1
             fi
