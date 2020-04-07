@@ -23,7 +23,7 @@ Nous avons par exemple expérimenté :
 
 - Une [encyclopédie collaborative](https://disinfo.quaidorsay.fr/encyclopedia) qui recense les bonnes pratiques, les meilleurs outils et les acteurs impliqués dans la lutte contre les manipulations de l'information.
 - Un [chat collaboratif](https://disinfo.quaidorsay.fr/collaborate) qui permet de mutualiser les moyens à travers les barrières organisationnelles : les utilisateurs peuvent détecter, qualifier et réagir ensemble aux campagnes de désinformation, selon les processus et avec les outils les plus efficaces d'après l’encyclopédie.
-- Un [détecteur autonome de comptes Twitter robotiques](http://sismo.quaidorsay.fr/).
+- Un [détecteur autonome de comptes Twitter robotiques](https://disinfo.quaidorsay.fr/twitter-bot-clusters/fr/).
 - Une [interface de crowdsourcing](https://disinfo.quaidorsay.fr/political-ads) de la légalité des publicités politiques affichées sur les réseaux sociaux. Cet outil permet à tout‧e citoyen‧ne de voir ces publicités et de les classifier afin de vérifier le respect des règles électorales.
 
 Selon les résultats de l’essai en conditions réelles lors des élections européennes, certains de ces dispositifs pourront être agrandis et améliorés pour de futures échéances électorales.
