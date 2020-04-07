@@ -12,11 +12,11 @@ stats: true
 contact: contact@inclusion.beta.gouv.fr
 ---
 
-[inclusion.beta.gouv.fr](https://inclusion.beta.gouv.fr) permet de mettre en relation des chercheurs d'emploi (aussi nommé candidats) auprès d'[employeurs solidaires](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/employeurs-solidaires) (entreprises, associations...). Les candidats peuvent également bénéficier de l'aide de [prescripteurs](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/prescripteurs-habilites) (Pôle emploi, Missions locales, Cap Emploi...).
+[inclusion.beta.gouv.fr](https://inclusion.beta.gouv.fr) permet de mettre en relation des chercheurs d'emploi (aussi nommés candidats) auprès d'[employeurs solidaires](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/employeurs-solidaires) (entreprises, associations...). Les candidats peuvent également bénéficier de l'aide de [prescripteurs](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/prescripteurs-habilites) (Pôle emploi, Missions locales, Cap Emploi...).
 
 ## Problématique
 
-Actuellement, il n'existe aucune plateforme listant les entreprises de l'inclusion ([SIAE, GIEQ et EA](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/prescripteurs-habilites)) à l'échelle nationale. De plus un certains nombres de problèmes ont été soulevés par la [Cour des Comptes](https://www.ccomptes.fr/system/files/2019-01/20190115-rapport-insertion-chomeurs.pdf), nous alertant sur :
+Actuellement, il n'existe aucune plateforme listant les entreprises de l'inclusion ([SIAE, GEIQ et EA](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/prescripteurs-habilites)) à l'échelle nationale. De plus un certain nombre de problèmes ont été soulevés par la [Cour des Comptes](https://www.ccomptes.fr/system/files/2019-01/20190115-rapport-insertion-chomeurs.pdf), nous alertant sur :
 
 - Les modèles économiques peu connus aux équilibres fragiles
 - Des modalités de financement public à revoir
