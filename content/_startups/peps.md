@@ -1,43 +1,65 @@
 ---
 title: Peps
-mission: Accompagner les agriculteurs vers des Pratiques Économes en produits PhytoSanitaires (PEPS)
+mission: Faciliter le partage d'expérience entre agriculteurs
 owner: Ministère de l'Agriculture et de l'Alimentation - Ministère de la Transition Écologique et Solidaire
 incubator: dinsic 
 status: construction
 start: 2019-05-13 
 end: 
-link: https://www.peps.beta.gouv.fr?utm_source=beta_gouv
+link: 
 repository: https://github.com/betagouv/peps
 stats: false 
 stats_url: 
 contact: peps@beta.gouv.fr
 ---
+## Le constat
 
-L’agriculture française consomme un peu plus de produits phytosanitaires chaque année, cela malgré une volonté politique et de la société civile de diminution de ces intrants. Peps vise à accompagner les agriculteurs vers des pratiques plus économes en produits phytosanitaires.
+Le système agricole actuel est en pleine transformation sous l’effet de différentes dynamiques en particulier la mondialisation du marché agricole - qui entraîne une fluctuation des prix - et la réduction de l’utilisation des produits phytosanitaires - sous l’effet de l’apparition de résistances des adventices/ravageurs, de la demande sociétale et de la réglementation.
 
-## La coopérative, modèle dominant pour le conseil des agriculteurs
+Dans ce contexte, les agriculteurs sont de plus en plus amenés à repenser leur exploitation. Beaucoup cherchent à réduire leurs charges alors que les prix ne sont pas stables et peu prédictibles. D’autres se tournent vers de nouvelles pratiques agroécologiques se substituant à l’action des produits phytosanitaires tandis que certains cherchent des nouvelles cultures ou des nouveaux débouchés afin de diversifier et assurer les revenus. Ces nouvelles pistes ne sont bien évidemment pas exclusives et sont souvent combinées.
 
-L'adhésion à une coopérative reste le modèle dominant dans la filière grandes cultures & polyculture élevage. La coopérative achète les produits de l’agriculteur, les stocke et en parallèle lui vend et le conseille sur l’achat des intrants nécessaires pour sa production (produits phytosanitaires, semences, engrais…).
+## La proposition
 
-Environ un quart des agriculteurs choisissent de faire appel à des structures de conseil indépendantes de la vente de produits (Chambres d'Agriculture, [CIVAM](http://www.civam.org/), [GAB](http://www.fnab.org/un-reseau-des-valeurs-des-hommes/qui-sommes-nous/150-fonctionnement-reseau) ou autres). Ces structures fonctionnent en grande majorité avec un groupe constitué d’agriculteurs. Grâce au groupe, les agriculteurs peuvent rentabiliser les frais d’un conseiller. Des aides financières sont également possibles dans le cadre d’un projet de groupe pour payer tout ou partie de la rémunération du conseiller mis à leur disposition. Ce sont les groupes [DEPHY](https://agriculture.gouv.fr/fermes-dephy), [GIEE](https://agriculture.gouv.fr/les-groupements-dinteret-economique-et-environnemental-giee), [30000](https://agriculture.gouv.fr/ecophyto-objectif-30-000-exploitations-agricoles) et d’autres plus localement.
+Peps est d’une plateforme de partage d’expériences entre agriculteurs. Par expérience nous entendons l’ensemble des projets qu’un agriculteur a pu mener, des petits essais pour améliorer l’existant aux grands changements qui transforment structurellement l’exploitation. 
 
-## Les trois quart des agriculteurs n’intègrent pas les dispositifs d’accompagnement spécifiques à la réduction des produits phytopharmaceutiques
+### Pourquoi nous avons choisi la piste du partage d’expérience?
 
-La majorité des exploitants ne participent pas aux dispositifs cités plus haut. Pour autant, ces exploitants se renseignent, et internet est une de leur source. L’étude [Agrinautes 2018 réalisée par BVA pour Terre-net Média et Hyltel](http://fichiers.hyltel.fr/PDF/AGRINAUTES_2018.pdf) montre que 85% des agrinautes recherchent sur internet des informations technique sur leurs cultures. Aussi, près de 40% ont installé une application de type “portail agricole” sur leur téléphone.
+A la suite d’entretiens avec des agriculteurs, il ressort que ceux ci sont intéressés par les essais mis en place par d’autres agriculteurs, en particulier quand ils sont proches géographiquement. En outre, le partage et l’entraide sont des pratiques traditionnellement répandues parmi cette profession. 
 
-## Peps oriente spécifiquement chaque agriculteur vers des ressources susceptibles de l’intéresser et un relais disponible en région. 
+Plus largement, si les agriculteurs ont toujours mené des essais sur leur exploitation, cette aptitude apparaît aujourd’hui d’autant plus primordiale. En effet, l’adoption des pratiques agroécologiques passe nécessairement par leur expérimentation, celles-ci présentant un caractère moins systématique et plus systémique que les produits phytosanitaires. En outre, la diversification et la recherche d’un nouveau modèle pour une exploitation agricole passe par l’introduction de nouvelles cultures dans les rotations et la diversification des débouchés (vente directe, production d’énergie, nouvel atelier…)
 
-A partir d’un problème rencontré par l’agriculteur, l’outil permet de trouver des pratiques adaptées à la situation de son exploitation et à son objectif plus long terme de production. 
-Les contenus des propositions sont basées sur les ressources existantes dans [EcophytoPic](http://www.ecophytopic.fr/), les pratiques présentes dans fiches action des Certificats d'Économie de Produits Phytopharmaceutiques [CEPP](https://alim.agriculture.gouv.fr/cepp/#/content/ap-fichesaction) ou toute autre ressource pertinente. 
+### Quel sont les objectifs d’un tel service ?
 
-La première version de notre solution comportera :
-- une application permettant à l’agriculteur de renseigner rapidement sa situation initiale et son objectif
-- une proposition de pratiques disponibles, éprouvées par ses pairs, qu’il peut facilement mettre en oeuvre pour commencer sa transition
-- une méthodologie simple pour commencer à tester ces nouvelles pratiques et analyser les résultats
-- un suivi dans le temps et des propositions de nouvelles pratiques allant plus loin dans la réduction des produits phytosanitaires sur son exploitation
+L’objectif du partage d’expérience est de soutenir la pratique de l’expérimentation chez les agriculteurs en : 
 
-Aujourd’hui, les hypothèses  que l’équipe souhaite tester sur le terrain sont les suivantes :
-1. Un outil utilisable par les agriculteurs en autonomie et en collaboration avec les conseillers de terrain permettrait à des dispositifs expérimentaux comme les fermes DEPHY de passer à l’échelle avec des moyens allégés par rapport à ceux mis en oeuvre dans le format actuel du réseau.
-2. Des réponses concrètes aux questions des agriculteurs concernant la gestion des bioagresseurs sans pesticides permettraient de les engager dans une démarche de réduction des produits phytosanitaires.
-3. La labellisation ou certification des productions avec utilisation réduite de produits phytosanitaires permettraient d’engager plus d’agriculteurs à initier cette démarche.
+   - favorisant la découverte de nouvelles idées ou de nouvelles manières de mettre en oeuvre des pratiques qu’ils connaissent déjà. 
+   - montrant ce que fait le terrain et en valorisant un monde agricole qui change.
+   - facilitant la mise en contact entre les agriculteurs
+    
+    
+
+### Comment travaillons-nous pour créer Peps ?
+
+Comme toutes les startups d'État, Peps se construit à partir des retours du terrain.
+Ainsi, depuis le début du projet nous avons conduit des entretiens avec plus de 150 agriculteurs. 
+
+Aujourd’hui, nous cherchons à valider la proposition de valeur présentée plus haut c’est à dire nous assurer que les agriculteurs trouvent de l'intérêt dans un tel service. Pour ce faire, nous lançons un prototype avec les agriculteurs volontaires.
+
+Si vous êtes agriculteurs et souhaitez participer au test de ce prototype, contactez nous : 
+                            
+**peps@beta.gouv.fr** 
+
+
+
+-----------
+
+## Historique 
+
+Dans sa première version, nous avions développé un site qui, à partir de quelques données sur l’exploitation de l’agriculteur, proposait automatiquement des pratiques alternatives à la chimie. Ces pratiques étaient documentées à partir des ressources la plateforme d’EcophytoPIC et notre outil s’inscrivait dans le volet diffusion du plan Ecophyto 2+.
+Vous pouvez consulter l’outil sur notre site : https://peps.beta.gouv.fr . Le simulateur mentionné est accessible depuis le bouton « suggérez moi des pratiques ».
+
+Aujourd’hui, la version 2 n’utilise pas ce simulateur, le choix ayant été fait de se focaliser sur le partage d’expérience et la recherche par zone géographique et/ou catégorie. Néanmoins, l’outil demeure fonctionnel et pourra être intégrée à la nouvelle proposition dans un second temps afin de proposer de nouvelles modalités de recherche d’expérience.
+
+
+
 
