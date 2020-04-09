@@ -28,6 +28,8 @@ A la suite d’entretiens avec des agriculteurs, il ressort que ceux ci sont int
 
 Plus largement, si les agriculteurs ont toujours mené des essais sur leur exploitation, cette aptitude apparaît aujourd’hui d’autant plus primordiale. En effet, l’adoption des pratiques agroécologiques passe nécessairement par leur expérimentation, celles-ci présentant un caractère moins systématique et plus systémique que les produits phytosanitaires. En outre, la diversification et la recherche d’un nouveau modèle pour une exploitation agricole passe par l’introduction de nouvelles cultures dans les rotations et la diversification des débouchés (vente directe, production d’énergie, nouvel atelier…)
 
+![Présentation des expériences d'agriculteurs sur une carte de France Métropolitaine. À droite, une fiche présentant un résumé de l'exploitation de l'agriculteur](/img/startups/peps/carte.png)
+
 ### Quel sont les objectifs d’un tel service ?
 
 L’objectif du partage d’expérience est de soutenir la pratique de l’expérimentation chez les agriculteurs en : 
@@ -36,7 +38,8 @@ L’objectif du partage d’expérience est de soutenir la pratique de l’expé
    - montrant ce que fait le terrain et en valorisant un monde agricole qui change.
    - facilitant la mise en contact entre les agriculteurs
     
-    
+![Présentation detaillée de l'exploitation de l'agriculteur avec les caractéristiques principales ainsi qu'une description générale](/img/startups/peps/details.png)
+
 
 ### Comment travaillons-nous pour créer Peps ?
 
@@ -50,7 +53,6 @@ Si vous êtes agriculteurs et souhaitez participer au test de ce prototype, cont
 **peps@beta.gouv.fr** 
 
 
-
 -----------
 
 ## Historique 
@@ -59,7 +61,3 @@ Dans sa première version, nous avions développé un site qui, à partir de que
 Vous pouvez consulter l’outil sur notre site : https://peps.beta.gouv.fr . Le simulateur mentionné est accessible depuis le bouton « suggérez moi des pratiques ».
 
 Aujourd’hui, la version 2 n’utilise pas ce simulateur, le choix ayant été fait de se focaliser sur le partage d’expérience et la recherche par zone géographique et/ou catégorie. Néanmoins, l’outil demeure fonctionnel et pourra être intégrée à la nouvelle proposition dans un second temps afin de proposer de nouvelles modalités de recherche d’expérience.
-
-
-
-
