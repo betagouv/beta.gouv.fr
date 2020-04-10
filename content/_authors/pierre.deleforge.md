@@ -9,3 +9,5 @@ missions:
 startups:
   - itou
 ---
+
+Malgré tous les obstacles, continuer à avancer sans perdre de vue l'intérêt général et l'inclusion des plus fragiles
