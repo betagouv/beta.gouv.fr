@@ -22,8 +22,6 @@ Cette attestation est valable un an. Elle est soumise à la manifestation régul
 
 ## Un processus complexe qui pose des problèmes de prise en charge
 
-Le processus de domiciliation pose plusieurs difficultés liées à l’absence d’outil de suivi commun. 
-
 Le processus de domiciliation pose plusieurs difficultés liées à l’absence d’outil de suivi commun. Du point de vue des structures, il est chronophage et se résume pour l’essentiel à des tâches de gestion des courriers comme des domiciliations. 
 
 Certaines structures rencontrent également d’important problème de surcharge avec une augmentation continue du nombre de demandes. 
