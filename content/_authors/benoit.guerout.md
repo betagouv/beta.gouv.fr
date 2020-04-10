@@ -6,10 +6,15 @@ missions:
   - start: '2018-05-14'
     end: '2020-03-31'
     status: independent
-    employer: ey
+    employer: inops
+  - start: '2020-04-01'
+    end: '2020-12-01'
+    status: independent
+    employer: OCTO Technology
 github: bguerout
 startups:
     - anotea
+    - apprentissage
 ---
 
 J'évolue sur des projets informatiques à dominante web en prônant une approche simple et pragmatique des développements. Je suis également investi dans la communauté open source au travers du projet Jongo.
