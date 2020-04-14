@@ -1,6 +1,6 @@
 ---
 title: Peps
-mission: Faciliter le partage d'expérience entre agriculteurs
+mission: Faciliter la transition du modèle agricole grâce au partage d'expériences entre agriculteurs
 owner: Ministère de l'Agriculture et de l'Alimentation - Ministère de la Transition Écologique et Solidaire
 incubator: dinsic 
 status: construction
