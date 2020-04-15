@@ -3,7 +3,7 @@ title: Covoit'Scellés
 mission: L’application de co-voiturage de scellés pour la Police et la Gendarmerie
 owner: Ministère de l'Intérieur
 incubator: lab-mi
-status: consolidation
+status: construction
 start: 2019-11-05
 end:
 link: 
