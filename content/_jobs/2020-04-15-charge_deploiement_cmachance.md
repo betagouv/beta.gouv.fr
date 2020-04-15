@@ -26,12 +26,13 @@ Les missions et responsabilités rattachées au poste sont diverses et ne sont p
 - Proposer des plans de communication pluri médias efficients et les piloter en lien avec les différents services de la CMA, en adéquation avec les budgets alloués
 - Déterminer de nouveaux leviers de croissance pour le développement de la plateforme
 - Effectuer une veille concurrentielle et législative complète, afin d’adapter les usages de la plateforme à son environnement
-- Proposer un plan de publication annuel intra-réseaux sociaux de la CMA. Créer des visuels publicitaires en lien avec les graphistes en interne
+- Proposer un plan de publication sur les réseaux sociaux, et créer des visuels publicitaires en lien avec les graphistes en interne
 - Développer des partenariats avec d’autres organisations et institutions publiques et privées, afin de développer la notoriété en ligne et hors-ligne de cmachance.fr
 
 ## Organisation
 
-Vous ferez partie de l’équipe marketing au sein de la Direction de la Stratégie et Performance de la Chambre de Métiers et de l’Artisanat des Hauts-de-France. Le lieu de travail est basé à Lille (Porte d’Arras). 
+Vous ferez partie de l’équipe de la startup, elle-même intégrée à la Direction de la Stratégie et Performance de la Chambre de Métiers et de l’Artisanat des Hauts-de-France. 
+
 Vous travaillerez en étroite collaboration avec les différents services de la direction, ainsi que la Direction de la Formation. Déplacements à prévoir avec des véhicules de service. 
 
 ## Compétences
