@@ -1,6 +1,6 @@
 ---
 title: IDQuart
-mission: 
+mission: Favoriser l'émergence d'une plateforme de concertation innovante entre citoyens et collectivités
 owner: Agglomération de Pau Béarn Pyrénées
 incubator: dinsic 
 status: investigation
