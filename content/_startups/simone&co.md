@@ -1,0 +1,31 @@
+---
+title: Simone & Co
+mission: Aider et accompagner les femmes en situation de précarité pour qu’elles retrouvent une dignité, et une féminité trop souvent mises de côté
+owner: Agglomération de Pau Béarn Pyrénées
+incubator: dinsic 
+status: consolidation
+start: 2019-02-04
+end: 
+link:
+repository: 
+stats: false 
+stats_url: 
+contact: preincubation@beta.gouv.fr
+---
+
+## Problème visé :
+Aujourd’hui en France 9 millions de personnes se privent de produits d’hygiène de base, et 1,7 millions de femmes manquent de protections hygiéniques.
+Un constat alarmant qui pousse ces femmes à utiliser des produits de substitution lors de leurs menstruations (journal, chaussettes..). Non seulement elles mettent leur santé en danger, mais elles rencontrent également des difficultés professionnelles et sociales.
+
+## Solution mise en oeuvre : 
+Simone & Co souhaite aider et accompagner les femmes en situation de précarité pour qu’elles retrouvent une dignité, et une féminité trop souvent mises de côté.
+Des kits mensuels contenants des produits d’hygiène, des protections, et des échantillons beauté sont distribués de manière anonyme aux femmes qui en ont besoin, à travers plusieurs associations, lieux d’accueil, et le CCAS (Centre Communal d'Action Sociale).
+Simone & Co a pour but de devenir une véritable communauté et de briser les tabous autour de la précarité, et notamment la précarité menstruelle, et d'aider les femmes dans leur quotidien.
+
+## Equipe : 
+- Vikie ACHE
+- avec le soutien de Béatrice JOUHANDEAUX, adjointe aux affaires sociales et viceprésidente du CCAS, et de Marie-Laure MESTELAN, conseillère municipale et communautaire déléguée à la lutte contre les discriminations et à l'action locale des
+femmes.
+
+## Territoire d'expérimentation : 
+Agglomération Pau Béarn Pyrénées
