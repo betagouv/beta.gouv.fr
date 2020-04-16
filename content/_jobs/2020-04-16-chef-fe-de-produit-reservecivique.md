@@ -25,7 +25,7 @@ Suite au déploiement rapide de la Réserve Civique face à la crise sanitaire, 
 
 ## Compétences
 
-- Product owner expérimenté.e, disposant de références solides dans la conduite de développement d’application avec une expérience orientée utilisateur
+- Product owner expérimenté·e, disposant de références solides dans la conduite de développement d’application avec une expérience orientée utilisateur
 
 - Bonne connaissance de l’administration publique, de l’écosystème et du fonctionnement beta.gouv
 
