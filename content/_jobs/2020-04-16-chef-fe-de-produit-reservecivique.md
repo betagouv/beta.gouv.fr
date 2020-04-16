@@ -1,6 +1,6 @@
 ---
 roles:  Un·e chef·fe de produit 
-startup: reserve-civique.beta.gouv.fr
+startup: reserve-civique
 junior: false
 open: true
 ---
