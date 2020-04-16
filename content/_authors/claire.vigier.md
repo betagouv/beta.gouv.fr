@@ -10,6 +10,7 @@ missions:
 startups:
   - trackdechets
   - kelrisks
+  - mobilic
 previously:
   - permis-de-construire-facile
 ---
