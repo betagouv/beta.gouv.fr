@@ -37,6 +37,8 @@ Elle est notifiée de certains avancements de l’enquête, par exemple que des 
 
 Elle peut contacter l'enquêteur pour fournir des informations complémentaires, voire pour demander à retirer sa plainte.
 
+Les indicateurs d'impact à suivre seront le score de satisfaction usager et la baisse des appels au standard pour les beta-testeurs.
+
 ## Une expérimentation qui doit s’inscrire dans le cadre de la Procédure Pénale Numérique
 Le gouvernement a annoncé en 2018 le lancement du programme de Procédure Pénale Numérique (PPN), qui inclut notamment la consultation et suivi en ligne de la plainte. 
 Le Portail de Suivi des Plainte souhaite se positionner comme une expérimentation pilote, testée localement, afin d’apporter des retours d’expérience utilisateurs agents et usagers au programme PPN.
