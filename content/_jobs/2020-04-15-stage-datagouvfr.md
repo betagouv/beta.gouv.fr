@@ -13,8 +13,6 @@ Au sein de la Direction Interministérielle du Numérique (DINUM), la mission Et
 
 ## Mission
 
-Durée : 5 à 6 mois
-
 Dans le cadre du développement des activités « design » de la plateforme data.gouv.fr, la/le stagiaire conception de services numériques de la donnée travaille avec l’équipe data.gouv.fr à la structuration, la facilitation et la présentation de l’offre de services des produits « data » à travers l’usage de méthodologies provenant du design.
 
 À l'occasion de votre stage, vos missions seront :
@@ -23,6 +21,14 @@ Dans le cadre du développement des activités « design » de la plateforme dat
 - Participer à des ateliers d’animation de la communauté composée des acteurs de l’administration et de la société civile pour mieux comprendre les enjeux de la plateforme et recueillir les besoins des usagers de la donnée publique. Il sera notamment important d'être ainsi force de proposition sur les méthodes de co-construction des éléments nécessaires à la constitution d’un écosystème de circulation de la donnée ;
 - Contribuer à la documentation écrite et graphique de la stratégie et de l’offre de service de circulation de la donnée publique et de l’articulation avec les politiques publiques concernées ;
 - Participer à la conception d’interfaces expérimentales d’extension de la plateforme. La/le stagiaire peut être amenée à participer à la conduite de recherches utilisateurs.
+
+
+## Profil
+
+Les candidats doivent être en cours de validation :
+-	D’un diplôme de commerce reconnu par la commission des titres ou d’un diplôme universitaire de niveau BAC+5 dans le domaine du design, des sciences politiques ou des sciences humaines ;
+-	D’un diplôme de niveau III ou d’un titre de niveau équivalent avec une spécialisation en matière de développement commercial et une expérience significative en matière de déploiement de services numériques ;
+-	D’un diplôme d’école d’ingénieur ou d’école normale, avec une expérience significative en matière de déploiement de services numériques.
 
 ## Compétences
 
@@ -42,8 +48,10 @@ Dans le cadre du développement des activités « design » de la plateforme dat
 - Fortes qualités relationnelles.
 
 
-## Environnement de travail
+## Environnement de travail et déroulement du stage
 
+- Gratification de 577,50 euros/mois pendant toute la durée du stage ;
+- Durée : 5 à 6 mois ;
 - à la DINUM, 20 avenue de Ségur 75007 PARIS (ligne 10 / ligne 6 / ligne 13 / ligne 8). La/le stagiaire sera encadré(e) par le responsable de portefeuille et intègrera une équipe de 6 personnes.
 
 ## Candidater
