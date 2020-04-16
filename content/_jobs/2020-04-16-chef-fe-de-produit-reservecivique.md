@@ -1,5 +1,5 @@
 ---
-roles:  Un·e chef·fe de produit 
+roles:  un·e chef·fe de produit 
 startup: reserve-civique
 junior: false
 open: true
