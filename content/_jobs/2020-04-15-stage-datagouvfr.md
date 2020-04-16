@@ -52,7 +52,7 @@ Les candidats doivent être en cours de validation :
 
 - Gratification au minimum légal pendant toute la durée du stage ;
 - Durée : 5 à 6 mois ;
-- à la DINUM, 20 avenue de Ségur 75007 PARIS (ligne 10 / ligne 6 / ligne 13 / ligne 8). La/le stagiaire sera encadré(e) par le responsable de portefeuille et intègrera une équipe de 6 personnes.
+- à la DINUM, 20 avenue de Ségur 75007 PARIS (ligne 10 / ligne 6 / ligne 13 / ligne 8). La/le stagiaire sera encadré·e par le responsable de portefeuille et intègrera une équipe de 6 personnes.
 
 ## Candidater
 
