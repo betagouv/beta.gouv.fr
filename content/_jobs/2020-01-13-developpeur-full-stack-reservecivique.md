@@ -1,6 +1,6 @@
 ---
 roles:  développeur.se full stack
-startup: reserve-civique.beta.gouv.fr
+startup: reserve-civique
 techno: NodeJS ,PHP 7 (Laravel), Mysql
 junior: false
 open: true
