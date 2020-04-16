@@ -34,7 +34,7 @@ Suite au déploiement rapide de la Réserve Civique face à la crise sanitaire, 
 
 ## Modalités
 
-- Poste ouvert pour un.e indépendant·e, idéalement qui a l’habitude de travailler avec son équipe technique
+- Poste ouvert pour un·e indépendant·e, idéalement qui a l’habitude de travailler avec son équipe technique
 
 - Télétravail obligatoire pendant le confinement, possible  ensuite, avec une présence très fréquente à Paris pour participer aux sessions communes de test utilisateur, démonstration, rétrospective et planification
 
