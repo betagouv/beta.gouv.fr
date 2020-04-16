@@ -15,14 +15,14 @@ Au sein de la Direction Interministérielle du Numérique (DINUM), la mission Et
 
 Durée : 5 à 6 mois
 
-Dans le cadre du développement des activités « design » de la plateforme data.gouv.fr, la ou le stagiaire conception de services numériques de la donnée travaille avec l’équipe data.gouv.fr à la structuration, la facilitation et la présentation de l’offre de services des produits « data » à travers l’usage de méthodologies provenant du design.
+Dans le cadre du développement des activités « design » de la plateforme data.gouv.fr, la/le stagiaire conception de services numériques de la donnée travaille avec l’équipe data.gouv.fr à la structuration, la facilitation et la présentation de l’offre de services des produits « data » à travers l’usage de méthodologies provenant du design.
 
 À l'occasion de votre stage, vos missions seront :
 
  - Contribuer à la mise en réseau des équipes internes et la communication entre ces équipes afin de faire converger les différents objectifs des services de la plateforme ;
 - Participer à des ateliers d’animation de la communauté composée des acteurs de l’administration et de la société civile pour mieux comprendre les enjeux de la plateforme et recueillir les besoins des usagers de la donnée publique. Il sera notamment important d'être ainsi force de proposition sur les méthodes de co-construction des éléments nécessaires à la constitution d’un écosystème de circulation de la donnée ;
 - Contribuer à la documentation écrite et graphique de la stratégie et de l’offre de service de circulation de la donnée publique et de l’articulation avec les politiques publiques concernées ;
-- Participer à la conception d’interfaces expérimentales d’extension de la plateforme. la ou le stagiaire peut être amenée à participer à la conduite de recherches utilisateurs.
+- Participer à la conception d’interfaces expérimentales d’extension de la plateforme. La/le stagiaire peut être amenée à participer à la conduite de recherches utilisateurs.
 
 ## Compétences
 
@@ -44,7 +44,7 @@ Dans le cadre du développement des activités « design » de la plateforme dat
 
 ## Environnement de travail
 
-- à la DINUM, 20 avenue de Ségur 75007 PARIS (ligne 10 / ligne 6 / ligne 13 / ligne 8). Le/la ou le stagiaire sera encadré(e) par le responsable de portefeuille et intègrera une équipe de 6 personnes.
+- à la DINUM, 20 avenue de Ségur 75007 PARIS (ligne 10 / ligne 6 / ligne 13 / ligne 8). La/le stagiaire sera encadré(e) par le responsable de portefeuille et intègrera une équipe de 6 personnes.
 
 ## Candidater
 
