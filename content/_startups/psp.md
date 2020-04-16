@@ -41,6 +41,6 @@ Les indicateurs d'impact à suivre seront le score de satisfaction usager et la 
 
 ## Une expérimentation qui doit s’inscrire dans le cadre de la Procédure Pénale Numérique
 Le gouvernement a annoncé en 2018 le lancement du programme de Procédure Pénale Numérique (PPN), qui inclut notamment la consultation et suivi en ligne de la plainte. 
-Le Portail de Suivi des Plainte souhaite se positionner comme une expérimentation pilote, testée localement, afin d’apporter des retours d’expérience utilisateurs agents et usagers au programme PPN.
+Le Portail de Suivi des Plainte souhaite se positionner comme une expérimentation pilote temporaire, testée localement, afin d’apporter des retours d’expérience utilisateurs agents et usagers utile au cadrage du programme PPN en 2020.
 
 
