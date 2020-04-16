@@ -12,7 +12,7 @@ La startup d’état Engagement Civique, fruit de la collaboration entre la Dire
 
 ## Contexte: Service National Universel (SNU)
 
-Suite au déploiement rapide de la Réserve Civique face à la crise sanitaire, la startup d'État s’aggrandit recrute une équipe produit dédiée au développement de l’application du Service National Universel (SNU) pour accompagner l’expérience des milliers de jeunes volontaires qui réaliseront une mission d’intérêt général à partir de juillet. En 2019, près de 2000 jeunes volontaires ont déjà participé au SNU. L’équipe produit devra reprendre et faire aboutir les développements réalisés jusqu’alors sur la base des retours collectés par les utilisateurs et des nouveaux objectifs fixés pour 2020.
+Suite au déploiement rapide de la Réserve Civique face à la crise sanitaire, la startup d'État s’aggrandit et recrute une équipe produit dédiée au développement de l’application du Service National Universel (SNU) pour accompagner l’expérience des milliers de jeunes volontaires qui réaliseront une mission d’intérêt général à partir de juillet. En 2019, près de 2000 jeunes volontaires ont déjà participé au SNU. L’équipe produit devra reprendre et faire aboutir les développements réalisés jusqu’alors sur la base des retours collectés par les utilisateurs/utilisatrices et des nouveaux objectifs fixés pour 2020.
 
 ## Rôle
 
@@ -25,7 +25,7 @@ Suite au déploiement rapide de la Réserve Civique face à la crise sanitaire, 
 
 ## Compétences
 
-- Product owner expérimenté, disposant de références solides dans la conduite de développement d’application avec une expérience orientée utilisateur
+- Product owner expérimenté.e, disposant de références solides dans la conduite de développement d’application avec une expérience orientée utilisateur
 
 - Bonne connaissance de l’administration publique, de l’écosystème et du fonctionnement beta.gouv
 
