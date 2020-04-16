@@ -28,7 +28,7 @@ Véritable outil d’aide à l’enquête intégrant une cartographie des faits 
 - aux agents de Police Secours d’optimiser leurs patrouilles de sécurisation, 
 - aux agents d’Identité Judiciaire de mieux planifier leurs déplacements,  
 - aux enquêteurs d’effectuer des recoupements d’affaires, 
-- à la direction d’obtenir une vision d’ensemble et au ministère d’obtenir un taux de couverture de 100%.
+- à la direction et aux usagers d'augmenter le taux d'élucidation.
 
 ## Comment cela marche :
 1. L’agent de Police Secours renseigne le formulaire directement chez la victime à l’aide de sa tablette, même sans connexion,  et transmet la demande
