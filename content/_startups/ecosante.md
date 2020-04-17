@@ -26,7 +26,7 @@ La majorité des données environnementales sont accessibles, cependant elles ne
 Enfin, les comportements à adopter pour limiter les impacts sur notre santé environnement ne sont pas toujours connus : exercices physiques, précautions particulières pour les personnes sensibles (enfants et personnes âgées), etc.
 
 ¹ Organisation Mondiale de la Santé, Près du quart de toutes les maladies sont dues a une exposition environnementale, 2006. URL : https://www.who.int/mediacentre/news/releases/2006/pr32/fr/
-** Pour en savoir plus, nous vous conseillons de vous rendre [ici](https://www.who.int/features/factfiles/environmental-disease-burden/fr/) et de lire le rapport [Prévenir la maladie grâce à un environnement sain : une estimation de la charge de morbidité imputable à l'environnement](https://apps.who.int/iris/bitstream/handle/10665/204585/9789241565196_eng.pdf;jsessionid=2AFB9996BC5A200B74BCAAF3CF4F9449?sequence=1) (en anglais) publié en 2016 par l'OMS. 
+² Pour en savoir plus, nous vous conseillons de vous rendre [ici](https://www.who.int/features/factfiles/environmental-disease-burden/fr/) et de lire le rapport [Prévenir la maladie grâce à un environnement sain : une estimation de la charge de morbidité imputable à l'environnement](https://apps.who.int/iris/bitstream/handle/10665/204585/9789241565196_eng.pdf;jsessionid=2AFB9996BC5A200B74BCAAF3CF4F9449?sequence=1) (en anglais) publié en 2016 par l'OMS. 
 
 ## Focus : la qualité de l'air
 
