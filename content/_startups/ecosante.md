@@ -15,7 +15,7 @@ contact: ishan@beta.gouv.fr
 
 ## Le problème : l'impact de l'environnement sur la santé des citoyens
 
-D’après une étude de l’OMS parue en 2006* les causes environnementales sont directement responsables d’environ 14 % de la mortalité en France, soit 74 300 décès pour l’année de parution. Dans le monde, l'OMS "estime que 12,6 millions de personnes sont décédées du fait d’avoir vécu ou travaillé dans un environnement insalubre en 2012 – ce qui représente près d’un quart des décès dans le monde"**. 
+D’après une étude de l’OMS parue en 2006¹ les causes environnementales sont directement responsables d’environ 14 % de la mortalité en France, soit 74 300 décès pour l’année de parution. Dans le monde, l'OMS "estime que 12,6 millions de personnes sont décédées du fait d’avoir vécu ou travaillé dans un environnement insalubre en 2012 – ce qui représente près d’un quart des décès dans le monde"². 
 
 Les problèmes de santé publique liés à l’environnement (maladies chroniques) explosent, avec un coût de plusieurs milliards d’euros par an.
 
