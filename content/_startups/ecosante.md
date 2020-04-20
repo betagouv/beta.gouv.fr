@@ -45,7 +45,7 @@ Pour répondre à ces questions, l'équipe d'Ecosanté souhaite:
 * Formuler des recommandations sur les comportements à adopter pour se protéger
 
 Pour cela, deux outils seront développés et testés auprès des utilisateurs :
-* La plateforme ecosante.data.gouv pour valoriser les données ouvertes auprès des réutilisateurs (applications mobiles, site internet)
+* ecosante.data.gouv.fr pour valoriser les données ouvertes auprès des réutilisateurs (applications mobiles, site internet)
 * L'Assistant Ecosanté pour permettre aux citoyens de recevoir des alertes d'information sur la qualité de l'air et de recommandations de comportement à adopter. 
 
 ## Calendrier
