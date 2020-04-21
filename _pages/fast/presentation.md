@@ -92,6 +92,8 @@ L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr 
 * L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique
 * L’adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV.
 
+Une grille de sélection pondérée vous sera transmise pour remplir votre dossier selon ces critères. 
+
 ## À quoi servira le ticket de cofinancement ?
 
 L’ensemble de ce ticket sera utilisé par les marchés publics des Startups d'État et de Territoires de la DINUM pour renforcer l'équipe pendant une période approximative de 6 mois (coachs, développeurs, designers, chargés de déploiement). 
