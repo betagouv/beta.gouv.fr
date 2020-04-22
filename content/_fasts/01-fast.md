@@ -50,7 +50,7 @@ sidebar: sidebar-fast.html
 - Nadi Bou Hanna (DINUM)
 - Jean-Séverin Lair (DINUM)
 - Florian Delezenne (DINUM)
-- Thierry Lambert (DITP)
+- Laurent Michel (SIG)
 - Néjia Lanouar (Mairie de Paris) 
 - Hervé Groléas (Métropole du Grand Lyon)
 
