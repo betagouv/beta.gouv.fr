@@ -47,12 +47,12 @@ sidebar: sidebar-fast.html
 ## [FAST 3 - Avril 2020](https://blog.beta.gouv.fr/dinsic/2020/01/29/postulez-au-fonds-d-acceleration-des-startups-d-etat-et-de-territoire-3eme-edition/)
 
 ### **Le comité d'investissement :** ### 
-Nadi Bou Hanna (Dinum)
-Jean-Séverin Lair (Dinum)
-Florian Delezenne (Dinum)
-Thierry Lambert (DITP)
-Néjia Lanouar (Mairie de Paris) 
-Hervé Groléas (Métropole du Grand Lyon)
+- Nadi Bou Hanna (Dinum)
+- Jean-Séverin Lair (Dinum)
+- Florian Delezenne (Dinum)
+- Thierry Lambert (DITP)
+- Néjia Lanouar (Mairie de Paris) 
+- Hervé Groléas (Métropole du Grand Lyon)
 
 ### **Les lauréats Fast 3:** ###
 1. Fiche Commune Entreprise, un portail pour faciliter l’accès aux informations disponibles sur les entreprises et les échanges entre services 
