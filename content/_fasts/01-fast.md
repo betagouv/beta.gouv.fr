@@ -61,4 +61,4 @@ Hervé Groléas (Métropole du Grand Lyon)
 4. Résorption bidonvilles : connaître, partager et agir pour résorber les bidonvilles 
 5. Focus plus, plateforme de référence permettant aux agents de déposer un document tout format et d’obtenir en retour une version du document tel qu’il serait perçu par une personne en situation de handicap et annotée des corrections à apporter 
 
-                                     FAST 4 - Juin 2020 : Candidatez ici ! 
+## [FAST 4 - Juin 2020 : Candidatez ici !](https://beta.gouv.fr/fast/)
