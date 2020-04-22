@@ -23,7 +23,7 @@ Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux ques
 
 ##### Qu’est-ce que beta.gouv.fr ?
 
-Le programme beta.gouv.fr, porté par la Direction interministérielle du numérique (DINUM) aide les administrations et établissements publics à construire des services simples et faciles à utiliser, en axant leurs efforts sur les besoins des utilisateurs. Il a pour objectifs deremettre les personnes au cœur de l’action publique, d’apporter des solutions concrètes à leurs problèmeset d’obtenir le meilleur impactsur le réel.
+Le programme beta.gouv.fr, porté par la Direction interministérielle du numérique (DINUM) aide les administrations et établissements publics à construire des services simples et faciles à utiliser, en axant leurs efforts sur les besoins des utilisateurs. Il a pour objectifs deremettre les personnes au cœur de l’action publique, d’apporter des solutions concrètes à leurs problèmeset d’obtenir le meilleur impact sur le réel.
 
 beta.gouv.fr constitue l’un des principaux leviers de résolutions de problèmes de politiques publiques et de transformation numérique du service public [portés par le programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/).
 
@@ -47,8 +47,7 @@ Pour mieux comprendre l’approche Startup d'État, et en savoir plus sur les m�
 
 ##### Comment les projets sont-ils pré-sélectionnés ?
 
-Les projets sont pré-sélectionnés sur dossier. Que vous représentiez une administration centrale ou déconcentrée, une agence publique, un établissement public ou une autre administration vous pouvez remplir le formulaire de candidature suivant : 
-https://www.demarches-simplifiees.fr/procedures/28924/apercu
+Les projets sont pré-sélectionnés sur dossier. Que vous représentiez une administration centrale ou déconcentrée, une agence publique, un établissement public ou une autre administration vous pouvez remplir [le formulaire de candidature.](https://www.demarches-simplifiees.fr/commencer/fast4) 
 
 A noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
 
@@ -72,7 +71,7 @@ Le dossier de candidature doit préciser clairement :
 
 L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de consolidation. 
 
-[Cliquez ici pour compléter le dossier de candidature avant le lundi 1er juin 23h59.](https://www.demarches-simplifiees.fr/procedures/28924/apercu)
+[Cliquez ici pour compléter le dossier de candidature avant le lundi 1er juin 23h59.](https://www.demarches-simplifiees.fr/commencer/fast4)
 
 ## Quel est le processus de sélection du FAST ?
 
@@ -102,9 +101,9 @@ Autrement, il faudra passer par un fonds de concours.(Si vous avez des questions
 
 Sur une durée d'environ 6 mois, ce ticket permettra donc de mobiliser des moyens supplémentaires sur l’accompagnement d’une équipe de développement et de déploiement pour :
 
-1. Tester de nouveaux canaux de diffusion ;
-2. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
-3. Accompagner cette mise en oeuvre de façon opérationnelle.
+1. Tester de nouveaux canaux de diffusion 
+2. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages
+3. Accompagner cette mise en oeuvre de façon opérationnelle
 
 ## Quels sont les projets non-éligibles au FAST
 
@@ -116,7 +115,7 @@ Sur une durée d'environ 6 mois, ce ticket permettra donc de mobiliser des moyen
 
 ## Comment candidater ?
 
-[Cliquez ici pour compléter le dossier de candidature avant le lundi 1er juin 23h59.](https://www.demarches-simplifiees.fr/procedures/28924/apercu)
+[Cliquez ici pour compléter le dossier de candidature avant le lundi 1er juin 23h59.](https://www.demarches-simplifiees.fr/commencer/fast4)
 
 ## J’ai une question, qui puis-je contacter ?
 
