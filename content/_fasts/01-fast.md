@@ -24,7 +24,7 @@ sidebar: sidebar-fast.html
 
 ## [FAST 2 - Novembre 2019](https://blog.beta.gouv.fr/dinsic/2019/10/01/postulez-au-fonds-d-acceleration-des-startups-d-etat-2eme-edition/)
 
-### **Le comité d'investissement :** ### 
+### **Le comité d'investissement DINUM :** ### 
 - Nadi Bou Hanna
 - Jean Séverin Lair
 - Laure Lucchesi
@@ -47,9 +47,9 @@ sidebar: sidebar-fast.html
 ## [FAST 3 - Avril 2020](https://blog.beta.gouv.fr/dinsic/2020/01/29/postulez-au-fonds-d-acceleration-des-startups-d-etat-et-de-territoire-3eme-edition/)
 
 ### **Le comité d'investissement :** ### 
-- Nadi Bou Hanna (Dinum)
-- Jean-Séverin Lair (Dinum)
-- Florian Delezenne (Dinum)
+- Nadi Bou Hanna (DINUM)
+- Jean-Séverin Lair (DINUM)
+- Florian Delezenne (DINUM)
 - Thierry Lambert (DITP)
 - Néjia Lanouar (Mairie de Paris) 
 - Hervé Groléas (Métropole du Grand Lyon)
