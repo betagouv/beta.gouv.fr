@@ -13,7 +13,7 @@ Celui-ci vise à co-financer des services publics numériques en phase d’accé
 
 Jusqu’à 1 million d’euros pourront être partagés par plusieurs lauréats.
 
-Ces services publics cherchent à résoudre des problèmes de politique publique de grande ampleur - lutte contre le gaspillage des déchets organiques, accès à la formation, faciliter les conditions scolaires pour les enfants handicapés, ouverture des données de transports - remontés par des agents publics.
+Ces services publics cherchent à résoudre des problèmes de politique publique de grande ampleur (ex: lutter contre le gaspillage des déchets organiques, améliorer l'accès à la formation, faciliter les conditions scolaires pour les enfants handicapés, ouvrir les données de transports...) remontés par des agents publics.
 
 Que vous soyez une administration, un établissement public, ou une collectivité territoriale en développement ou en accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction interministérielle du numérique pouvant aller jusqu'à 300 000 euros.
 
