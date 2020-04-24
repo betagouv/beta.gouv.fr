@@ -3,7 +3,7 @@ title: API Particulier
 mission: Accélérer l’ouverture des données personnelles et leur réutilisation pour simplifier les démarches
 owner: DINSIC
 incubator: api_dinsic
-status: consolidation
+status: alumni
 start: 2015-10-11
 end:
 link: https://particulier.api.gouv.fr/

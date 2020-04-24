@@ -3,7 +3,7 @@ title: Mes démarches retraite pas à pas
 mission: Obtenir en quelques clics la liste personnalisée de ses démarches de retraite
 owner: CNAV, MSA, Sécurité sociale pour les indépendants
 incubator: dinsic
-status: death
+status: alumni
 start: 2015-10-01
 end:
 link: https://mesdemarchesretraite.fr
