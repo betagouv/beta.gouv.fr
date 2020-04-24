@@ -3,7 +3,7 @@ title: Voir & Localiser
 mission: Voir et localiser les appelants aux centres d'appels d'urgence
 owner: ASIP Santé - Agence Française de la Santé Numérique
 incubator: dinsic
-status: death
+status: alumni
 start: 2018-11-20
 end:
 contact: contact@voir-et-localiser.beta.gouv.fr

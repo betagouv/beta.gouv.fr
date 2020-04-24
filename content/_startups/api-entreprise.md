@@ -3,7 +3,7 @@ title: API Entreprise
 mission: Récupérer les données des entreprises
 owner: DINSIC
 incubator: api_dinsic
-status: consolidation
+status: alumni
 start: 2014-01-01
 end:
 link: https://entreprise.api.gouv.fr/

@@ -5,7 +5,7 @@ layout: default
 {% comment %}additional_css : side-panel.css grid.css{% endcomment %}
 
 {% assign lang = page.lang | default: site.lang | default: "en" %}
-{% assign phases = site.phases | where:"related","incubation" | sort: 'order' %}
+{% assign phases = site.phases | sort: 'order' %}
 {% assign phases_with_stopped = site.phases | sort: 'order' %}
 
 <div class="page article" id="presentation">

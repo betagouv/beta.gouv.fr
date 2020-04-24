@@ -3,7 +3,7 @@ title: Reuni
 mission: Permettre aux agents publics d'accéder simplement aux documents qu'ils recherchent
 owner: Direction générale des entreprises
 incubator: dinsic 
-status: death
+status: alumni
 start: 2018-12-01 
 end: 
 link: 

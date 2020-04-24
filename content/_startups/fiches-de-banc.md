@@ -3,7 +3,7 @@ title: Fiches de banc
 mission: Augmenter la productivité du traitement des amendements dans les cabinets ministériels
 owner: DINSIC
 incubator: dinsic
-status: death
+status: alumni
 start: 2015-01-12
 end:
 link:
