@@ -6,12 +6,9 @@ sidebar: sidebar-fast.html
 additional_css:
   - side-panel.css
 ---
+L'appel à candidatures du Fonds d’accélération des Startups d’État et de Territoire (FAST) vise à co-financer des services publics numériques en phase d’accélération qui ont pour but de résoudre un problème de politique publique.  
 
-Le programme beta.gouv.fr porté par la Direction Interministérielle du Numérique (DINUM) est également responsable du Fonds d’accélération des Startups d’État et de Territoire (FAST). 
-
-Celui-ci vise à co-financer des services publics numériques en phase d’accélération qui ont pour but de résoudre un problème de politique publique.  
-
-Jusqu’à 1 million d’euros pourront être partagés par plusieurs lauréats.
+Jusqu’à 1 million d’euros en provenance de la Direction Interministérielle du Numérique (DINUM) pourront être partagés par plusieurs lauréats.
 
 Ces services publics cherchent à résoudre des problèmes de politique publique de grande ampleur (ex: lutter contre le gaspillage des déchets organiques, améliorer l'accès à la formation, faciliter les conditions scolaires pour les enfants handicapés, ouvrir les données de transports...) remontés par des agents publics.
 
@@ -23,7 +20,7 @@ Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux ques
 
 ##### Qu’est-ce que beta.gouv.fr ?
 
-Le programme beta.gouv.fr, porté par la Direction interministérielle du numérique (DINUM) aide les administrations et établissements publics à construire des services simples et faciles à utiliser, en axant leurs efforts sur les besoins des utilisateurs. Il a pour objectifs deremettre les personnes au cœur de l’action publique, d’apporter des solutions concrètes à leurs problèmeset d’obtenir le meilleur impact sur le réel.
+Le programme beta.gouv.fr de la Direction interministérielle du numérique (DINUM) aide les administrations et établissements publics à construire des services simples et faciles à utiliser, en axant leurs efforts sur les besoins des utilisateurs. Il a pour objectifs deremettre les personnes au cœur de l’action publique, d’apporter des solutions concrètes à leurs problèmeset d’obtenir le meilleur impact sur le réel.
 
 beta.gouv.fr constitue l’un des principaux leviers de résolutions de problèmes de politiques publiques et de transformation numérique du service public [portés par le programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/).
 
