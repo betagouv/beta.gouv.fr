@@ -12,6 +12,16 @@
 {% comment %}<!-- On boucle sur les membres de l'équipe -->{% endcomment %}
 {% assign team = site.authors | where:"startups", startup_id %}
 {% for people in team %}
+
+  {% capture label %}label--active{% endcapture %}
+  {% if people.missions.last.end %}
+    {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
+    {% capture timestampEnd %}{{ author.missions.last.end | date: '%s' }}{% endcapture %}
+    {% if timestampNow > timestampEnd %}
+      {% capture label %}label--inactive{% endcapture %}
+    {% endif %}
+  {% endif %}
+
   {% capture to_append %}
   <div class="article__author panel">
     <div class="article__author-info">
@@ -19,7 +29,7 @@
         <div class="article__author-role">{{ people.role }}</div>
     </div>
       {% include avatar.html author=people %}
-      <div class="article__author-description">
+      <div class="{{label}} article__author-description">
         {% if people.link %}<a href="{{ people.link }}" target="_blank" rel="noopener">{% endif %}
           {{ people.content | markdownify }}
         {% if people.link %}</a>{% endif %}
