@@ -1,8 +1,8 @@
 ---
 title: API Entreprise
 mission: Récupérer les données des entreprises
-owner: DINSIC
-incubator: api_dinsic
+owner: DINUM
+incubator: apigouv
 status: alumni
 start: 2014-01-01
 end:

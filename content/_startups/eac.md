@@ -2,7 +2,7 @@
 title : Plateforme EAC
 mission: Augmenter le nombre d'actions artistiques et culturelles pour les jeunes dans les établissements scolaires
 owner: Ministère de la Culture
-incubator: dinsic
+incubator: dinum
 status: alumni
 start: 2018-04-01
 end:

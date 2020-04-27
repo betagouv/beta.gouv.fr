@@ -79,7 +79,7 @@ collections:
             name: "status"
             widget: "select"
             options:
-              - { label: "Agent DINSIC", value: "dinsic" }
+              - { label: "Agent DINUM", value: "dinum" }
               - { label: "Agent d'une autre administration", value: "admin" }
               - { label: "Indépendant", value: "independent" }
               - { label: "Société ou prestataire de services", value: "service" }

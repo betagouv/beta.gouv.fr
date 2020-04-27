@@ -2,7 +2,7 @@
 title: Itou
 mission: La réussite pour tous
 owner: la Délégation générale à l’emploi et à la formation professionnelle (DGEFP) & Pôle emploi, appuyé par le Haut-commissariat à l'inclusion dans l'emploi et à l'engagement des entreprises
-incubator: dinsic
+incubator: dinum
 status: construction
 start: 2019-06-10 # date au format ISO (AAAA-MM-DD)
 end: # laisser vide
