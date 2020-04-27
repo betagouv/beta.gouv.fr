@@ -13,17 +13,17 @@
 {% assign team = site.authors | where:"startups", startup_id %}
 {% for people in team %}
 
-  {% capture label %}label--active{% endcapture %}
+  {% capture status %}active{% endcapture %}
   {% if people.missions.last.end %}
     {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
     {% capture timestampEnd %}{{ author.missions.last.end | date: '%s' }}{% endcapture %}
     {% if timestampNow > timestampEnd %}
-      {% capture label %}label--inactive{% endcapture %}
+      {% capture status %}inactive{% endcapture %}
     {% endif %}
   {% endif %}
 
   {% capture to_append %}
-  <div class="{{label}} article__author panel">
+  <div class="{{status}} article__author panel">
     <div class="article__author-info">
         <div class="article__author-name">{{ people.fullname }}</div>
         <div class="article__author-role">{{ people.role }}</div>
