@@ -16,7 +16,7 @@
   {% capture status %}active{% endcapture %}
   {% if people.missions.last.end %}
     {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
-    {% capture timestampEnd %}{{ author.missions.last.end | date: '%s' }}{% endcapture %}
+    {% capture timestampEnd %}{{ people.missions.last.end | date: '%s' }}{% endcapture %}
     {% if timestampNow > timestampEnd %}
       {% capture status %}inactive{% endcapture %}
     {% endif %}
