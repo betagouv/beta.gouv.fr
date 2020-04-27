@@ -23,13 +23,13 @@
   {% endif %}
 
   {% capture to_append %}
-  <div class="article__author panel">
+  <div class="{{label}} article__author panel">
     <div class="article__author-info">
         <div class="article__author-name">{{ people.fullname }}</div>
         <div class="article__author-role">{{ people.role }}</div>
     </div>
       {% include avatar.html author=people %}
-      <div class="{{label}} article__author-description">
+      <div class="article__author-description">
         {% if people.link %}<a href="{{ people.link }}" target="_blank" rel="noopener">{% endif %}
           {{ people.content | markdownify }}
         {% if people.link %}</a>{% endif %}
