@@ -6,16 +6,13 @@ sidebar: sidebar-fast.html
 additional_css:
   - side-panel.css
 ---
+L'appel à candidatures du Fonds d’accélération des Startups d’État et de Territoire (FAST) vise à co-financer des services publics numériques en phase d’accélération qui ont pour but de résoudre un problème de politique publique.  
 
-Le programme beta.gouv.fr porté par la Direction Interministérielle du Numérique (DINUM) est également responsable du Fonds d’accélération des Startups d’État et de Territoire (FAST). 
+Jusqu’à 1 million d’euros en provenance de la Direction Interministérielle du Numérique (DINUM) pourront être partagés par plusieurs lauréats.
 
-Celui-ci vise à co-financer des services publics numériques en phase préliminaire d’investigation, de construction ou d’accélération, qui ont pour but de résoudre un problème de politique publique.  
+Ces services publics cherchent à résoudre des problèmes de politique publique de grande ampleur (ex: lutter contre le gaspillage des déchets organiques, améliorer l'accès à la formation, faciliter les conditions scolaires pour les enfants handicapés, ouvrir les données de transports...) remontés par des agents publics.
 
-Jusqu’à 1 million d’euros pourront être partagés par plusieurs lauréats.
-
-Ces services publics cherchent à résoudre des problèmes de politique publique de grande ampleur - lutte contre le gaspillage des déchets organiques, accès à la formation, faciliter les conditions scolaires pour les enfants handicapés, ouverture des données de transports - remontés par des agents publics.
-
-Que vous soyez une administration, un établissement public, ou une collectivité territoriale, en amorçage, en développement ou en accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction interministérielle du numérique pouvant aller de 35 000 à 300 000 euros.
+Que vous soyez une administration, un établissement public, ou une collectivité territoriale en développement ou en accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction interministérielle du numérique pouvant aller jusqu'à 300 000 euros.
 
 Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux questions dédiée ainsi que les conditions d’éligibilité.
 
@@ -23,7 +20,7 @@ Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux ques
 
 ##### Qu’est-ce que beta.gouv.fr ?
 
-Le programme beta.gouv.fr, porté par la Direction interministérielle du numérique (DINUM) aide les administrations et établissements publics à construire des services simples et faciles à utiliser, en axant leurs efforts sur les besoins des utilisateurs. Il a pour objectifs deremettre les personnes au cœur de l’action publique, d’apporter des solutions concrètes à leurs problèmeset d’obtenir le meilleur impactsur le réel.
+Le programme beta.gouv.fr de la Direction interministérielle du numérique (DINUM) aide les administrations et établissements publics à construire des services simples et faciles à utiliser, en axant leurs efforts sur les besoins des utilisateurs. Il a pour objectifs deremettre les personnes au cœur de l’action publique, d’apporter des solutions concrètes à leurs problèmeset d’obtenir le meilleur impact sur le réel.
 
 beta.gouv.fr constitue l’un des principaux leviers de résolutions de problèmes de politiques publiques et de transformation numérique du service public [portés par le programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/).
 
@@ -33,7 +30,7 @@ Ce fonds a pour objectif d’investir dans des projets apportant des solutions c
 
 ##### Quelles sont les modalités d’investissement ?
 
-L’appel à candidatures de cette 3ème édition cible des services publics numériques qui peuvent être autant au stade de l’idée, que déjà en développement. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
+L’appel à candidatures de cette 4ème édition vise à soutenir des solutions numériques existantes, développées par des administrations publiques (Etat ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
 
 L'administration doit être en mesure de garantir sa capacité à financer la même somme qu'elle sollicite (exemple : si le besoin évalué est de 100 000 euros, vous sollicitez 50 000 euros de la DINUM et vous faites un versement de 50 000 euros sur [une convention public-public](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/)).
 
@@ -47,25 +44,11 @@ Pour mieux comprendre l’approche Startup d'État, et en savoir plus sur les m�
 
 ##### Comment les projets sont-ils pré-sélectionnés ?
 
-Que vous représentiez une administration centrale ou déconcentrée, une agence publique, un établissement public ou une autre administration :
+Les projets sont pré-sélectionnés sur dossier. Que vous représentiez une administration centrale ou déconcentrée, une agence publique, un établissement public ou une autre administration vous pouvez remplir [le formulaire de candidature.](https://www.demarches-simplifiees.fr/commencer/fast4) 
 
-* Si vous avez déjà identifié un ou plusieurs problèmes de politique publique, vous pouvez remplir le formulaire de candidature.
-* Si vous n’avez pas encore identifié de problème précis, vous pouvez utiliser le modèle classique d’appel à intrapreneur mis en place par beta.gouv.fr en adressant à tous vos agents un message inspiré de l’exemple suivant :
-
-Chers agents, votre administration se lance dans une politique d’innovation ambitieuse. Vous êtes confrontés à un problème de politique publique, un irritant récurrent pour les usagers ? Vous avez une idée de solution numérique qui pourrait permettre d’y répondre ? Vous êtes prêts à vous engager au moins six mois à temps plein dans le développement de cette solution ? Postulez pour participer à notre prochain challenge innovation et devenir intrapreneur.
-
-Parmi les candidatures reçues, sélectionnez celles que vous souhaitez présenter et faites remplir aux agents sélectionnés l'appel à candidatures.
+A noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
 
 ## Quelles sont les conditions spécifiques pour candidater ?
-
-* Identifier un irritant administratif ou un problème de politique publique précis
-* Mobiliser un agent public au rôle d’intrapreneur :
-* * L’agent public a du temps à consacrer au service (ou l’administration porteuse lui libère du temps) ;
-  * L’agent public est autorisé (par exemple par une lettre de mission) à ouvrir toutes les portes utiles à sa mission, sans validation préalable, afin d’échanger avec les personnes jugées les plus pertinentes (au sein de son administration ou ailleurs) ;
-  * L’agent public a un ordinateur portable sur lequel il peut ajouter en autonomie des logiciels nécessaires à sa mission ;
-  * L’agent public a un accès à internet « libre », en particulier il peut accéder aux sites couramment utilisés par les équipes beta.gouv.fr (Slack, appear.in, Trello…).
-
-En cas de développement / accélération :
 
 * Avoir mis en place une solution à un problème de politique publique ou une initiative locale qui pourrait passer à l’échelle grâce au levier du numérique ;
 * Si la solution est numérique, avoir ouvert le code (open source) du logiciel ;
@@ -73,32 +56,30 @@ En cas de développement / accélération :
 * Avoir une feuille de route pour le produit et pour le déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service) ;
 * Vouloir faire passer ce produit à l’échelle.
 
-#### Dans les 2 cas, l'administration doit cofinancer l’investissement demandé à 50%.
-
-Par ailleurs, plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
 
 ## Quelles sont les modalités de candidature ?
 
 Le dossier de candidature doit préciser clairement :
 
-* Le problème auquel la solution répond et l'idée de solution envisagée ou la solution déjà mise en place ;
-* Son impact sur le réel chiffré s’il existe déjà ;
+* Le problème auquel la solution répond ;
+* La solution mise en place ;
+* Son impact sur le réel chiffré ;
 * En cas de passage à l’échelle réussi, les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois(ex : sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc).
 
-L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante (accélération ou consolidation).
+L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de consolidation. 
 
-[Cliquez ici pour compléter le dossier de candidature avant le lundi 9 mars 23h59.](https://www.demarches-simplifiees.fr/commencer/fast3)
+[Cliquez ici pour compléter le dossier de candidature avant le lundi 1er juin 23h59.](https://www.demarches-simplifiees.fr/commencer/fast4)
 
 ## Quel est le processus de sélection du FAST ?
 
-* Dans le cas de l'amorçage vous sélectionnez un ou plusieurs problème(s) de politique publique au(x)quel(s) vous voulez répondre. Dans le cas de l'accélération, vous sélectionnez un ou plusieurs services numériques existants ayant un impact mesuré, que vous souhaitez déployer.
+* Vous sélectionnez un ou plusieurs services numériques existants ayant un impact mesuré, que vous souhaitez déployer.
 * Vous postulez en remplissant ce formulaire.
-* À la clôture de l’appel à candidatures, une présélection de 10 services numériques maximum est opérée par l’équipe en charge du FAST. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
+* À la clôture de l’appel à candidatures, une présélection de 10 à 15 services numériques maximum est opérée par l’équipe en charge du FAST. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
 * Les candidats retenus sont coachés par les mentors de beta.gouv.fr pendant une demi-journée.
 * Les candidats retenus présentent leur idée devant les membres du comité du FAST.
-* Si votre candidature est retenue, vous signez une convention de partenariat avec la DINUM dans les semaine suivantes.
-* Le produit est lancé ou accompagné dans son développement par beta.gouv.fr en s'appuyant sur les deux tickets de financement (administration porteuse + DINUM).
-* Pour l'amorçage, les intrapreneurs suivent une session de formation Alpha et commencent à travailler sur le problème à résoudre.
+* Si votre candidature est retenue, vous organisez dans les semaines qui suivent un comité d'engagement entre votre sponsor et l'équipe de co-animateurs de la DINUM pour cadrer les objectifs précis liés au financement. 
+* Vous signez une convention de partenariat avec la DINUM lors de cet échange. 
+* Le produit est accompagné dans son développement par beta.gouv.fr en s'appuyant sur les deux tickets de financement (administration porteuse + DINUM).
 
 ## Quels sont les critères de sélection du comité d’investissement ?
 
@@ -106,6 +87,8 @@ L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr 
 * Un sponsor dans l’administration porteuse
 * L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique
 * L’adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV.
+
+Une grille de sélection pondérée vous sera transmise pour remplir votre dossier selon ces critères. 
 
 ## À quoi servira le ticket de cofinancement ?
 
@@ -115,22 +98,21 @@ Autrement, il faudra passer par un fonds de concours.(Si vous avez des questions
 
 Sur une durée d'environ 6 mois, ce ticket permettra donc de mobiliser des moyens supplémentaires sur l’accompagnement d’une équipe de développement et de déploiement pour :
 
-1. Investiguer un problème de politique publique (amorçage) ;
-2. Rencontrer les premiers utilisateurs (amorçage) ;
-3. Construire une solution centrée sur leurs besoins (amorçage) ;
-4. Tester de nouveaux canaux de diffusion (développement) ;
-5. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages (développement);
-6. Accompagner cette mise en oeuvre de façon opérationnelle.
+1. Tester de nouveaux canaux de diffusion 
+2. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages
+3. Accompagner cette mise en oeuvre de façon opérationnelle
 
 ## Quels sont les projets non-éligibles au FAST
 
-* Des produits existants avec un cahier des charges des fonctionnalités à développer
-* Des projets censés résoudre des problèmes d’organisation interne
-* Des services numériques dont le code n’est pas ouvert (open source), ou pour lesquels le code ne peut pas être ouvert
+* Des produits en phase d'investigation sans solution minimum viable et sans mesures d'impact déjà établies ; 
+* Des produits existants avec un cahier des charges des fonctionnalités à développer ;
+* Des projets censés résoudre des problèmes d’organisation interne ;
+* Des services numériques dont le code n’est pas ouvert (open source), ou pour lesquels le code ne peut pas être ouvert.
+
 
 ## Comment candidater ?
 
-[Cliquez ici pour compléter le dossier de candidature avant le 9 mars 23h59.](https://www.demarches-simplifiees.fr/commencer/fast3)
+[Cliquez ici pour compléter le dossier de candidature avant le lundi 1er juin 23h59.](https://www.demarches-simplifiees.fr/commencer/fast4)
 
 ## J’ai une question, qui puis-je contacter ?
 

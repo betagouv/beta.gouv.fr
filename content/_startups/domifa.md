@@ -14,7 +14,8 @@ contact: contact.domifa@fabrique.social.gouv.fr
 
 ## Qu’est-ce que la domiciliation ? 
 
-**La domiciliation est un premier pas vers l’accès aux droits des personnes sans domicile stable. **Elle leur permet de disposer d'une adresse administrative où recevoir leur courrier et de faire valoir leurs droits civils, civiques et sociaux (comme la délivrance d’un titre national d’identité, l’inscription sur les listes électorales, l’accès à des aides sociales…).
+**La domiciliation est un premier pas vers l’accès aux droits des personnes sans domicile stable.**
+Elle leur permet de disposer d'une adresse administrative où recevoir leur courrier et de faire valoir leurs droits civils, civiques et sociaux (comme la délivrance d’un titre national d’identité, l’inscription sur les listes électorales, l’accès à des aides sociales…).
 
 **Ce sont les communes, les centres communaux ou intercommunaux d’action sociale (CCAS ou CIAS) et les associations agréées qui réalisent la domiciliation.** Après avoir recueilli et instruit la demande du requérant, l’organisme vérifie qu’il satisfait aux conditions de délivrance et émet une attestation de domicile.
 

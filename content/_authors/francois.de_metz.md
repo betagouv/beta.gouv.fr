@@ -7,6 +7,6 @@ missions:
   - start: '2019-02-25'
     end: '2020-03-20'
     status: independent
-startups:
+previously:
     - eva
 ---
