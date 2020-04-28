@@ -9,7 +9,7 @@ end:
 link: https://www.poubellesbattle.fr/
 repository: https://github.com/betagouv/poubellesbattle
 stats: true
-stats_url:https://www.poubellesbattle.fr/stats
+stats_url: https://www.poubellesbattle.fr/stats
 contact: poubelles-battle@beta.gouv.fr
 ---
 
