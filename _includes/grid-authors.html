@@ -37,14 +37,16 @@
   {{ current_team }}
 </div>
 
-<div style="margin-top: 2em; margin-bottom: 1em;">
-  <a class="button" onclick="toggle_visibility('startup-alumni');">Voir les anciens</a>
-  <div id="startup-alumni" style="display:none;">
-    <div class="grid alumni">
-      {{ past_team }}
+{% if past_team != "" %}
+  <div style="margin-top: 2em; margin-bottom: 1em;">
+    <a class="button" onclick="toggle_visibility('startup-alumni');">Voir les anciens</a>
+    <div id="startup-alumni" style="display:none;">
+      <div class="grid alumni">
+        {{ past_team }}
+      </div>
     </div>
   </div>
-</div>
+{% endif %}
 
 <script type="text/javascript">
   <!--
