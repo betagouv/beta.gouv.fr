@@ -49,4 +49,4 @@ Vous savez travailler en équipe et vous êtes intéressé.e à co-construire l�
 - **Date de début** — Courant mai 2020.
 
 ### Envoyer une candidature: 
-sophie.jacquemont@dihal.gouv.fr et anis.safine@beta.gouv.fr 
+sophie.jacquemont@dihal.gouv.fr et anis.safine@beta.gouv.fr, avec en copie recrutement.mineco@beta.gouv.fr
