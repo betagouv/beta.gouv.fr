@@ -13,22 +13,20 @@
 {% comment %}<!-- On boucle sur les membres de l'équipe -->{% endcomment %}
 {% assign team = site.authors | where:"startups", startup_id %}
 
-{% for author in team %}
-  {% capture status %}active{% endcapture %}
+{% for author in team %}      
+  {% capture to_append %}
+    {% include card-community.html author=author %}
+  {% endcapture %}
   {% if author.missions.last.end %}
     {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
     {% capture timestampEnd %}{{ author.missions.last.end | date: '%s' }}{% endcapture %}
     {% if timestampNow > timestampEnd %}
-      {% capture to_append %}
-        {% include card-community.html author=author %}
-      {% endcapture %}
       {% assign past_team = past_team | append: to_append %}
     {% else %}
-      {% capture to_append %}
-        {% include card-community.html author=author %}
-      {% endcapture %}
       {% assign current_team = current_team | append: to_append %}
     {% endif %}
+  {% else %}
+    {% assign current_team = current_team | append: to_append %}
   {% endif %}
 {% endfor %}
 
