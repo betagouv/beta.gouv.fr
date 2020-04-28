@@ -2,7 +2,7 @@
 title: Lotocar
 mission: Permettre aux personnes isolées et parfois coupées d'internet de se déplacer sur les territoires peu denses
 owner: Ademe / Préfecture du Lot (46)
-incubator: dinum
+incubator: anct
 status: construction
 start: 2018-11-26
 end:
