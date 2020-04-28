@@ -116,6 +116,7 @@ defaults:
       additional_css:
         - startups.css
         - authors-grid.css
+        - grid.css
   - scope:
       path: "img/authors"
     values:

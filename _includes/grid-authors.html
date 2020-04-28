@@ -5,40 +5,56 @@
 
 {% comment %}<!-- Initialiser l'équipe -->{% endcomment %}
 {% assign current_team = "" %}{% comment %}membres actifs de la startup{% endcomment %}
+{% assign past_team = "" %}{% comment %}membres inactifs de la startup{% endcomment %}
 
 {% comment %}<!-- Initialiser l'id -->{% endcomment %}
 {% assign startup_id = include.startup.id | remove: '/startups/' %}
 
 {% comment %}<!-- On boucle sur les membres de l'équipe -->{% endcomment %}
 {% assign team = site.authors | where:"startups", startup_id %}
-{% for people in team %}
 
+{% for author in team %}
   {% capture status %}active{% endcapture %}
-  {% if people.missions.last.end %}
+  {% if author.missions.last.end %}
     {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
-    {% capture timestampEnd %}{{ people.missions.last.end | date: '%s' }}{% endcapture %}
+    {% capture timestampEnd %}{{ author.missions.last.end | date: '%s' }}{% endcapture %}
     {% if timestampNow > timestampEnd %}
-      {% capture status %}inactive{% endcapture %}
+      {% capture to_append %}
+        {% include card-community.html author=author %}
+      {% endcapture %}
+      {% assign past_team = past_team | append: to_append %}
+    {% else %}
+      {% capture to_append %}
+        {% include card-community.html author=author %}
+      {% endcapture %}
+      {% assign current_team = current_team | append: to_append %}
     {% endif %}
   {% endif %}
-
-  {% capture to_append %}
-  <div class="{{status}} article__author panel">
-    <div class="article__author-info">
-        <div class="article__author-name">{{ people.fullname }}</div>
-        <div class="article__author-role">{{ people.role }}</div>
-    </div>
-      {% include avatar.html author=people %}
-      <div class="article__author-description">
-        {% if people.link %}<a href="{{ people.link }}" target="_blank" rel="noopener">{% endif %}
-          {{ people.content | markdownify }}
-        {% if people.link %}</a>{% endif %}
-      </div>
-  </div>
-  {% endcapture %}
-  {% assign current_team = current_team | append: to_append %}
 {% endfor %}
 
+<h2>L'équipe actuelle</h2>
 <div class="grid">
   {{ current_team }}
 </div>
+
+<div style="margin-top: 2em; margin-bottom: 1em;">
+  <a class="button" onclick="toggle_visibility('startup-alumni');">Voir les anciens</a>
+  <div id="startup-alumni" style="display:none;">
+    <div class="grid alumni">
+      {{ past_team }}
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  <!--
+      function toggle_visibility(id) {
+         var e = document.getElementById(id);
+         if(e.style.display == 'block')
+            e.style.display = 'none';
+         else
+            e.style.display = 'block';
+      }
+  //-->
+  </script>
+  
