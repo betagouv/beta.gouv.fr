@@ -8,8 +8,8 @@ start: 2019-06-03
 end:
 link: https://www.poubellesbattle.fr/
 repository: https://github.com/betagouv/poubellesbattle
-stats: false
-stats_url:
+stats: true
+stats_url: https://www.poubellesbattle.fr/stats
 contact: poubelles-battle@beta.gouv.fr
 ---
 
