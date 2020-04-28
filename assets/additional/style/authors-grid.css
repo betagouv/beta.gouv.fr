@@ -8,16 +8,20 @@
   width: 100%;
 }
 
-.article__author.panel.inactive {
+.card a {
+  text-decoration: none;
+}
+
+.grid.alumni .article__author.panel {
     color: #53657d;
     background-color: #c9d3df;
 }
 
-.article__author.panel.inactive img {
+.grid.alumni .card__cover img {
     filter: sepia(100%);
 }
 
-.article__author.panel.inactive img:hover {
+.grid.alumni .article__author.panel.inactive img:hover {
     filter: sepia(0%);
 }
 
