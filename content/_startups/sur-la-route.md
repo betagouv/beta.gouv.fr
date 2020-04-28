@@ -25,7 +25,7 @@ Un double solution est enivsagée afin de mettre en place :
 
 ## Equipe : 
 - Stéphanie Delacre
-- Gautier Bail
+- Gautier Bailly
 
 ## Territoire d'expérimentation : 
 Département du Pas-de-Calais (dans le cadre du forum innovation composé de 5 départements)
