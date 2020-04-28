@@ -16,7 +16,7 @@ contact: preincubation@beta.gouv.fr
 ## Problème visé :
 On estime que 30 % des aides sociales n’atteignent pas leurs bénéficiaires.
 Trois motifs de non-recours ont été identifiées :
-- le premier est la pluralité et la clareté des sources d’informations : Il n'existe pas, à ce jour, de référentiel exhaustif et clair du type “guide des aides publiques régionales” ;
+- le premier est la pluralité et la clarté des sources d’informations : il n'existe pas, à ce jour, de référentiel exhaustif et clair du type “guide des aides publiques régionales” ;
 - le second est la non actionnabilité des ressources mises à disposition des usagers : après avoir identifié une aide, l’usager ne connaît pas toujours les étapes suivantes, et doit donc identifier le parcours pour bénéficier de l’aide à laquelle il est éligible en fonction de la collectivité compétente ;
 - le troisième est le manque de lien entre les ressources numériques et les ressources physiques (lieux d’accueil et d’accompagnement des personnes) pourtant souvent nécessaires à un accompagnement complet des personnes, au-delà de l’accès aux prestations.
 
