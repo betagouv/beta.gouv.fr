@@ -15,7 +15,7 @@ contact: contact@beta.interieur.gouv.fr
 
 ## Trop de vols sans recherche de traces
 
-18% des vols par effraction et de véhicules ne font pas l’objet d’analyse de traces et indices par la Police Scientifique. 
+18% des vols par effraction et de véhicules ne font pas l’objet d’analyse de traces et indices par la Police Scientifique (source DCSP). 
 Or l’objectif du Ministère est de rendre ces recherches systématiques : la recherche de traces augmente le taux d’élucidation des affaires et lutte contre la délinquance au quotidien.
 La cause principale de cet écart est la complexité de la procédure fastidieuse et chronophage pour les agents de Police Secours constatant le vol : canaux multiples : notes manuelles, mails, appels téléphoniques, recherche dans les fichiers, tableau partagé, ressaisies manuelles.
 
@@ -35,7 +35,7 @@ Véritable outil d’aide à l’enquête intégrant une cartographie des faits 
 2. L’agent d’Identité Judiciaire réceptionne les demandes et peut se rendre sur les lieux du vol par effraction pour effectuer les recherches de traces et indices
 3. L’agent d’Identité Judiciaire renseignera le résultat de ses recherches qui sera disponible pour les agents de Police Secours, les enquêteurs et la direction.
 4. PSIJ permet aux utilisateurs d’accéder à une cartographie des faits en temps réel
-
+ajoute
 PSIJ sera un outil développé au niveau national permettant une homogénéisation des demandes qui seront systématiques et complètes. 
 
 
