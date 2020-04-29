@@ -3,7 +3,7 @@ title: Aeris
 mission: Limiter les rejets polluants dans l'air en facilitant et en harmonisant la déclaration et le suivi des émissions des industriels
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: death
+status: alumni
 start: 2018-01-01
 end:
 repository: https://github.com/mtes-mct/aeris

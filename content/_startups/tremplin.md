@@ -3,7 +3,7 @@ title: Tremplin
 mission: Rapprocher les professionnels de santé de leur futur territoire d’exercice
 owner: Ministère des Solidarités et de la Santé
 incubator: sgmas
-status: death
+status: alumni
 start: 2019-01-01
 end: 2020-01-01
 link:

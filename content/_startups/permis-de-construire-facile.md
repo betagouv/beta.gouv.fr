@@ -3,7 +3,7 @@ title: Permis de construire facile
 mission: Déposez et gérez votre demande de permis de construire en toute simplicité
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: death
+status: alumni
 start: 2018-11-01
 end: 2019-04-30
 link:
