@@ -12,6 +12,10 @@ backend:
     deleteMedia: Suppression de l'image {{path}}
   squash_merges: true
 
+# Permet d'expérimenter en local
+# cf. https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
+# local_backend: true
+
 media_folder: "img/netlifycms"
 
 display_url: https://beta.gouv.fr
@@ -126,7 +130,93 @@ startup_options: &startup_options
   - { label: "Zam", value: "zam" }
   - { label: "Zen", value: "zen" }
 
+date_field_defaults: &date_field_defaults
+  widget: date
+  format: YYYY-MM-DD
+  dateFormat: YYYY-MM-DD
+  default: ''
+
 collections:
+  - name: incubators
+    label: Incubateurs
+    label_singular: Incubateur
+    folder: "content/_incubators"
+    create: true
+    delete: false
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: Nom, name: title, widget: string }
+      - { label: Responsable, name: owner, widget: string }
+      - { label: Site, name: website, widget: string }
+      - { label: Dépôts des produits, name: github, widget: string }
+      - { label: Contact, name: contact, widget: string }
+      - { label: Adresse, name: address, widget: string }
+      - label: Redirections
+        label_singular: Redirection
+        name: redirect_from
+        widget: list
+        collapsed: false
+        field: { label: Source, name: name, widget: string }
+  - name: startups
+    label: Produits
+    label_singular: Produit
+    folder: "content/_startups"
+    create: true
+    delete: false
+    editor:
+      preview: false
+    fields:
+      - label: Nom
+        name: title
+        widget: string
+      - label: Objectif
+        name: mission
+        widget: string
+      - label: Administration partenaire
+        name: owner
+        widget: string
+      - label: "Incubateur"
+        name: "incubator"
+        widget: string
+      - label: Status
+        name: status
+        widget: string
+      - label: Lien vers le produit
+        name: link
+        widget: string
+        required: false
+      - label: Lien vers le code source
+        name: repository
+        widget: string
+        required: false
+      - label: Email de contat
+        name: contact
+        widget: string
+        required: false
+      - label: Statistiques d'usage publiques
+        name: stats
+        widget: boolean
+        required: false
+      - <<: *date_field_defaults
+        label: "Date de début de l'investigation"
+        name: start
+      - <<: *date_field_defaults
+        label: "Date du lancement du produit"
+        name: product_launch_date
+        required: false
+      - <<: *date_field_defaults
+        label: "Date du passage à un produit d'impact national majeur"
+        name: national_scale_date
+        required: false
+      - <<: *date_field_defaults
+        label: "Date de l'abandon"
+        name: end
+        required: false
+      - label: Description
+        name: body
+        widget: text
   - name: "authors"
     identifier_field: fullname
     label: "Membres"
@@ -172,6 +262,7 @@ collections:
         hint: "Ton historique de missions avec nous dans l'ordre chronologique."
         name: 'missions'
         widget: 'list'
+        collapsed: false
         fields:
           - label: "Statut"
             hint: "Quelle est ta relation professionnelle avec nous ?"
@@ -188,25 +279,21 @@ collections:
             widget: "string"
             required: false
 
-          - label: "Date de début"
+          - <<: *date_field_defaults
+            label: "Date de début"
             hint: "Début de ton contrat ou de ton financement."
             name: "start"
-            widget: "date"
-            format: "YYYY-MM-DD"
-            dateFormat: "LL"
 
-          - label: "Date de fin"
+          - <<: *date_field_defaults
+            label: "Date de fin"
             hint: "Fin de ton contrat ou de ton financement - tu pourras la modifier plus tard."
             name: "end"
-            widget: "date"
-            format: "YYYY-MM-DD"
-            dateFormat: "LL"
 
       - label: "Startups"
         label_singular: "Startup"
         hint: "Plusieurs choix possibles. Si la startup n'apparait pas encore dans la liste, contacte un administrateur du site !"
         name: "startups"
-        widget: "select"
+        widget: "relation"
         multiple: true
         options: *startup_options
         required: false
@@ -215,7 +302,7 @@ collections:
         label_singular: "Ancienne Startup"
         hint: "Plusieurs choix possibles : sur quelles startups de la communauté tu as travaillé avant ?"
         name: "previously"
-        widget: "select"
+        widget: "relation"
         multiple: true
         options: *startup_options
         required: false
