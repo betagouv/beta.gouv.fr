@@ -4,7 +4,7 @@ role: Développeur
 github: morissetcl
 missions:
   - start: '2019-03-25'
-    end: '2020-06-30'
+    end: '2020-04-29'
     status: service
     employer: captive
 startups:
