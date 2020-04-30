@@ -4,16 +4,13 @@ backend:
   name: github
   site_domain: beta.gouv.fr
   repo: betagouv/beta.gouv.fr
-  # Personnalisation des messages de commit
-  # Attention, quand et si on passe aux fiches produits, à modifier !
   commit_messages:
-    create: Bienvenue à {{slug}} !
-    update: Mise à jour de la fiche de {{slug}}
-    delete: Suppression de {{slug}}
-    uploadMedia: Nouvelle image au {{path}}
-    deleteMedia: Suppression d'image au {{path}}
+    create: Création de {{slug}} dans {{collection}} !
+    update: Mise à jour de {{slug}} dans {{collection}}
+    delete: Suppression de {{slug}} dans {{collection}}
+    uploadMedia: Nouvelle image {{path}}
+    deleteMedia: Suppression de l'image {{path}}
   squash_merges: true
-
 
 media_folder: "img/netlifycms"
 
