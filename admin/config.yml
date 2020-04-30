@@ -1,3 +1,5 @@
+locale: fr
+
 backend:
   name: github
   site_domain: beta.gouv.fr
@@ -31,9 +33,9 @@ publish_mode: editorial_workflow
 collections:
   - name: "authors"
     identifier_field: fullname
-    label: "Members"
-    label_singular: "Member"
-    description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, direction \"New Member\" !"
+    label: "Membres"
+    label_singular: "Membre"
+    description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, direction \"Créer une entrée de type Membre\" !"
     folder: "content/_authors"
     create: true
     delete: false
