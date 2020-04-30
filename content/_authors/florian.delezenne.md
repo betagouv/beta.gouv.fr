@@ -5,6 +5,9 @@ avatar: https://www.gravatar.com/userimage/14275002/03a4283cd1632863672a3e249abd
 link: https://github.com/betagouv/beta.gouv.fr/edit/master/content/_authors/florian.delezenne.md
 missions:
   - start: '2014-06-01'
+    end: '2017-06-01'
+    status: prestataire
+  - start: '2017-06-01'
     end: '2021-02-15'
     status: admin
 startups:
