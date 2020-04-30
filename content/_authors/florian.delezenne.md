@@ -6,7 +6,7 @@ link: https://github.com/betagouv/beta.gouv.fr/edit/master/content/_authors/flor
 missions:
   - start: '2014-06-01'
     end: '2021-02-15'
-    status: dinsic
+    status: admin
 startups:
   - api-particulier
   - api.gouv.fr

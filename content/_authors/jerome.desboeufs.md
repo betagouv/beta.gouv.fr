@@ -6,7 +6,7 @@ missions:
   - employer: ''
     end: '2015-03-09'
     start: '2014-03-10'
-    status: dinsic
+    status: admin
   - employer: Octo
     end: '2015-09-09'
     start: '2015-03-10'

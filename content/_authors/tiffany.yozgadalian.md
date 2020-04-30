@@ -4,7 +4,7 @@ role: Chargée de développement
 missions:
   - start: '2017-07-01'
     end: '2017-10-31'
-    status: dinsic
+    status: admin
 startups:
 previously:
   - place-des-entreprises

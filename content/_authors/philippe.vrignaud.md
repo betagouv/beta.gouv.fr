@@ -4,7 +4,7 @@ role: Intrapreneur
 missions:
   - start: '2014-01-01'
     end:
-    status: dinsic
+    status: admin
 startups:
     - mps
     - api-entreprise

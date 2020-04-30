@@ -7,7 +7,7 @@ missions:
     start: '2016-11-03'
     end: '2019-08-31'
     status: independent
-  - status: dinsic
+  - status: admin
     start: '2019-09-01'
     end: '2022-08-31'
 startups:
