@@ -101,29 +101,48 @@ layout: default
 (function() {
     window.buildDate = '{{ build_date }}';
     window.data = {
-        dinsic: [],
-        admin: [],
-        independent: [],
-        service: []
+        admin: [
+          {%- for person in site.authors -%}
+            {%- for mission in person.missions -%}
+              {%- if mission.status == 'admin' -%}
+                {%- if mission.start -%}
+                  { date: '{{ mission.start }}', increment: 1 },
+                {%- endif -%}
+                {%- if mission.end and mission.end != '' -%}
+                  { date: '{{ mission.end }}', increment: -1 },
+                {%- endif -%}
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endfor -%}
+        ],
+        independent: [
+          {%- for person in site.authors -%}
+            {%- for mission in person.missions -%}
+              {%- if mission.status == 'independent' -%}
+                {%- if mission.start -%}
+                  { date: '{{ mission.start }}', increment: 1 },
+                {%- endif -%}
+                {%- if mission.end and mission.end != '' -%}
+                  { date: '{{ mission.end }}', increment: -1 },
+                {%- endif -%}
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endfor -%}
+        ],
+        service: [
+          {%- for person in site.authors -%}
+            {%- for mission in person.missions -%}
+              {%- if mission.status == 'service' -%}
+                {%- if mission.start -%}
+                  { date: '{{ mission.start }}', increment: 1 },
+                {%- endif -%}
+                {%- if mission.end and mission.end != '' -%}
+                  { date: '{{ mission.end }}', increment: -1 },
+                {%- endif -%}
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endfor -%}
+        ]
     };
-
-    {% for person in site.authors %}
-      {% for mission in person.missions %}
-          var employerType = '{{ mission.status }}';
-
-          {% if mission.start %}
-              window.data[employerType].push({
-                  date: '{{ mission.start }}',
-                  increment: 1
-              });
-          {% endif %}
-          {% if mission.end %}
-              window.data[employerType].push({
-                  date: '{{ mission.end }}',
-                  increment: -1
-              });
-          {% endif %}
-      {% endfor %}
-    {% endfor %}
 })();
 </script>

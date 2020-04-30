@@ -6,7 +6,7 @@ avatar: https://avatars2.githubusercontent.com/u/47106810?s=400&v=4
 missions:
   - start: '2019-01-28'
     end: '2019-06-01'
-    status: dinsic
+    status: admin
 startups:
  - aplus
 
