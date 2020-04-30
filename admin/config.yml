@@ -1,17 +1,16 @@
+locale: fr
+
 backend:
   name: github
   site_domain: beta.gouv.fr
   repo: betagouv/beta.gouv.fr
-  # Personnalisation des messages de commit
-  # Attention, quand et si on passe aux fiches produits, à modifier !
   commit_messages:
-    create: Bienvenue à {{slug}} !
-    update: Mise à jour de la fiche de {{slug}}
-    delete: Suppression de {{slug}}
-    uploadMedia: Nouvelle image au {{path}}
-    deleteMedia: Suppression d'image au {{path}}
+    create: Création de {{slug}} dans {{collection}} !
+    update: Mise à jour de {{slug}} dans {{collection}}
+    delete: Suppression de {{slug}} dans {{collection}}
+    uploadMedia: Nouvelle image {{path}}
+    deleteMedia: Suppression de l'image {{path}}
   squash_merges: true
-
 
 media_folder: "img/netlifycms"
 
@@ -31,9 +30,9 @@ publish_mode: editorial_workflow
 collections:
   - name: "authors"
     identifier_field: fullname
-    label: "Members"
-    label_singular: "Member"
-    description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, direction \"New Member\" !"
+    label: "Membres"
+    label_singular: "Membre"
+    description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, direction \"Créer une entrée de type Membre\" !"
     folder: "content/_authors"
     create: true
     delete: false
