@@ -1,41 +1,41 @@
-{% comment %}
+{%- comment -%}
   Appeler cette page avec une startup
-  ex : {% include grid-authors.html startup=startup %}
-{% endcomment %}
+  ex : {%- include grid-authors.html startup=startup -%}
+{%- endcomment -%}
 
-{% comment %}<!-- Initialiser l'équipe -->{% endcomment %}
-{% assign current_team = "" %}{% comment %}membres actifs de la startup{% endcomment %}
-{% assign past_team = "" %}{% comment %}membres inactifs de la startup{% endcomment %}
+{%- comment -%}<!-- Initialiser l'équipe -->{%- endcomment -%}
+{%- assign current_team = "" -%}{%- comment -%}membres actifs de la startup{%- endcomment -%}
+{%- assign past_team = "" -%}{%- comment -%}membres inactifs de la startup{%- endcomment -%}
 
-{% comment %}<!-- Initialiser l'id -->{% endcomment %}
-{% assign startup_id = include.startup.id | remove: '/startups/' %}
+{%- comment -%}<!-- Initialiser l'id -->{%- endcomment -%}
+{%- assign startup_id = include.startup.id | remove: '/startups/' -%}
 
-{% comment %}<!-- On boucle sur les membres de l'équipe -->{% endcomment %}
-{% assign team = site.authors | where:"startups", startup_id %}
+{%- comment -%}<!-- On boucle sur les membres de l'équipe -->{%- endcomment -%}
+{%- assign team = site.authors | where:"startups", startup_id -%}
 
-{% for author in team %}      
-  {% capture to_append %}
-    {% include card-community.html author=author %}
-  {% endcapture %}
-  {% if author.missions.last.end %}
-    {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
-    {% capture timestampEnd %}{{ author.missions.last.end | date: '%s' }}{% endcapture %}
-    {% if timestampNow > timestampEnd %}
-      {% assign past_team = past_team | append: to_append %}
-    {% else %}
-      {% assign current_team = current_team | append: to_append %}
-    {% endif %}
-  {% else %}
-    {% assign current_team = current_team | append: to_append %}
-  {% endif %}
-{% endfor %}
+{%- for author in team -%}      
+  {%- capture to_append -%}
+    {%- include card-community.html author=author -%}
+  {%- endcapture -%}
+  {%- if author.missions.last.end -%}
+    {%- capture timestampNow -%}{{ 'now' | date: '%s' }}{%- endcapture -%}
+    {%- capture timestampEnd -%}{{ author.missions.last.end | date: '%s' }}{%- endcapture -%}
+    {%- if timestampNow > timestampEnd -%}
+      {%- assign past_team = past_team | append: to_append -%}
+    {%- else -%}
+      {%- assign current_team = current_team | append: to_append -%}
+    {%- endif -%}
+  {%- else -%}
+    {%- assign current_team = current_team | append: to_append -%}
+  {%- endif -%}
+{%- endfor -%}
 
 <h2>L'équipe actuelle</h2>
 <div class="grid">
   {{ current_team }}
 </div>
 
-{% if past_team != "" %}
+{%- if past_team != "" -%}
   <div style="margin-top: 2em; margin-bottom: 1em;">
     <a class="button" onclick="toggle_visibility('startup-alumni');">Voir les anciens</a>
     <div id="startup-alumni" style="display:none;">
@@ -45,7 +45,7 @@
       </div>
     </div>
   </div>
-{% endif %}
+{%- endif -%}
 
 <script type="text/javascript">
   <!--
