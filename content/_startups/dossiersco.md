@@ -2,7 +2,7 @@
 title: DossierSCO
 mission: Inscrire son enfant au collège en quelques clics
 owner: Ministère de l'Éducation nationale
-incubator: dinsic
+incubator: dinum
 status: alumni
 start: 2017-09-01
 end: 2019-09-15

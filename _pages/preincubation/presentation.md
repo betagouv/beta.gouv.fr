@@ -12,7 +12,7 @@ D'une durée de trois mois, ce programme vise à faire émerger des projets d’
 
 L’objectif du programme est de préciser l’ampleur du problème visé et de présenter des premiers éléments de solution pour le résoudre.
 
-Le partenaire apporte des projets d’innovation, des agents pour les porter et un financement pour l’accompagnement. La DINSIC apporte un appui opérationnel.
+Le partenaire apporte des projets d’innovation, des agents pour les porter et un financement pour l’accompagnement. La DINUM apporte un appui opérationnel.
 
 Les phases du programme de préincubation sont les suivantes :
 1. Validation de la sélection en accord avec les projets identifiés ;

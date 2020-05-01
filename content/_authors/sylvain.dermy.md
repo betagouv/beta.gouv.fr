@@ -9,9 +9,11 @@ missions:
   - start: '2017-03-01'
     end: '2018-02-28'
     status: admin
+    employer: dinum
   - start: '2018-04-01'
     end: '2019-11-30'
     status: admin
+    employer: dinum
 startups:
   - aplus
 previously:

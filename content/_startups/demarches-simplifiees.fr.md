@@ -1,8 +1,8 @@
 ---
 title: demarches-simplifiees.fr
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
-owner: DINSIC
-incubator: dinsic
+owner: DINUM
+incubator: dinum
 status: success
 start: 2015-09-15
 end:
@@ -62,6 +62,6 @@ demarches-simplifiees.fr est pour vous.
 
 **Contact**
 
-demarches-simplifiees.fr est développé par l’incubateur de services numériques de la direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC), rattaché aux services du Premier ministre.
+demarches-simplifiees.fr est développé par l’incubateur de services numériques de la direction interministérielle du numérique (DINUM), rattaché aux services du Premier ministre.
 
 Vous voulez en savoir plus ? Vous voulez une démo ? <a href="https://www.demarches-simplifiees.fr/contact">Contactez-nous</a>.

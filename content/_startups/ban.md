@@ -2,7 +2,7 @@
 title: Base Adresse Nationale
 mission: Référencer l'intégralité des adresses du territoire français
 owner: Etalab
-incubator: dinsic
+incubator: dinum
 status: success
 start: 2014-06-01
 end:

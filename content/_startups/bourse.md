@@ -1,8 +1,8 @@
 ---
 title: Bourse
 mission: Demander et liquider une bourse de collège en ligne
-owner: DINSIC
-incubator: dinsic
+owner: DINUM
+incubator: dinum
 status: alumni
 start: 2015-03-01
 end:

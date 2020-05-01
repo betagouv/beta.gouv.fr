@@ -2,7 +2,7 @@
 title: Mon stage de 3e
 mission: Permettre aux élèves de 3e d'accéder à des stages pertinents et de qualité visant à accompagner leur émancipation et combattre les déterminismes sociaux
 owner: CGET
-incubator: dinsic
+incubator: dinum
 status: construction
 start: 2018-12-01
 end:

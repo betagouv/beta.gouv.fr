@@ -7,6 +7,7 @@ missions:
   - start: '2014-10-01'
     end: '2017-08-31'
     status: admin
+    employer: dinum
   - start: '2019-01-10'
     end: '2019-02-28'
     status: independent

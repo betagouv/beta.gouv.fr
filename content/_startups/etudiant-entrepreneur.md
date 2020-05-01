@@ -2,7 +2,7 @@
 title: Étudiant entrepreneur
 mission: Faciliter l'accès au statut étudiant entrepreneur et à ses bénéfices
 owner: Ministère de l'Enseignement supérieur
-incubator: dinsic
+incubator: dinum
 status: alumni
 start: 2016-06-23
 end:

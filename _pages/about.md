@@ -48,7 +48,7 @@ Toutes les Startups d'État présentent publiquement des mesures d’impact auto
 
 * **_de réduire les coûts administratifs_** dans plus de 20 organismes publics en diminuant le temps de traitement des dossiers de 50 % : [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/).
 
-Elles exercent aussi un effet d’entraînement sur la modernisation des administrations. Au sein de Pôle Emploi, qui a noué dès 2015 un partenariat avec la DINSIC (Ancien nom de l'actuelle DINUM) et investit aujourd’hui annuellement près de 6 M€ dans les Startups d'État, les équipes, composées à l’origine essentiellement de freelances, accueillent aujourd’hui des talents issus de la DSI ou des agences, permettant ainsi une diversification des carrières et une réaffectation des agents publics sur des missions à plus fort impact.
+Elles exercent aussi un effet d’entraînement sur la modernisation des administrations. Au sein de Pôle Emploi, qui a noué dès 2015 un partenariat avec la DINSIC (ancien nom de l'actuelle DINUM) et investit aujourd’hui annuellement près de 6 M€ dans les Startups d'État, les équipes, composées à l’origine essentiellement de freelances, accueillent aujourd’hui des talents issus de la DSI ou des agences, permettant ainsi une diversification des carrières et une réaffectation des agents publics sur des missions à plus fort impact.
 
 ### Plus d’infos ?
 

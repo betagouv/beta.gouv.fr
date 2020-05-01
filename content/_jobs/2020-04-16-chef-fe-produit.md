@@ -64,10 +64,10 @@ Intervention en appui des équipes sur plusieurs services du portefeuille beta.g
 
 ## Modalités
 
-Poste ouvert à temps plein au sein de l'incubateur DINSIC, sous forme de CDD ou de mission pour les agents publics titulaires, pour une durée initiale de 3 ans. Démarrage dès que possible.
+Poste ouvert à temps plein au sein de l'incubateur DINUM, sous forme de CDD ou de mission pour les agents publics titulaires, pour une durée initiale de 3 ans. Démarrage dès que possible.
 
 ## Candidater
 
-Expliquez-nous pourquoi vous avez envie d'intégrer cette équipe et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à dinsic@beta.gouv.fr
+Expliquez-nous pourquoi vous avez envie d'intégrer cette équipe et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à dinum@beta.gouv.fr
 
 À bientôt !

@@ -1,8 +1,8 @@
 ---
 title: Poubelles Battle
 mission: Faciliter le déploiement de composteurs collectifs et encourager leur utilisation
-incubator: dinsic
-owner: dinsic
+incubator: dinum
+owner: DINUM
 status: construction
 start: 2019-06-03
 end:
