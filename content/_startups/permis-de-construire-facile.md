@@ -3,7 +3,7 @@ title: Permis de construire facile
 mission: Déposez et gérez votre demande de permis de construire en toute simplicité
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: death
+status: alumni
 start: 2018-11-01
 end: 2019-04-30
 link:
@@ -40,7 +40,7 @@ Le demandeur sera informé automatiquement et immédiatement de la décision con
 
 ## Les premières étapes 
 
-L’équipe analyse actuellement l’intérêt de se “raccorder” avec la solution “démarches simplifiées” portée par la DINSIC qui répond fonctionnellement à de nombreux aux éléments coeur envisagés dans le produit. L’articulation avec le produit ALDAU (Assistance en Ligne des Demandes d’Autorisation d’Urbanisme) sera également analysée.
+L’équipe analyse actuellement l’intérêt de se “raccorder” avec la solution “démarches simplifiées” portée par la DINUM qui répond fonctionnellement à de nombreux aux éléments coeur envisagés dans le produit. L’articulation avec le produit ALDAU (Assistance en Ligne des Demandes d’Autorisation d’Urbanisme) sera également analysée.
 
 L’ambition est de démarrer avec dépôt dématérialisé des déclarations préalables, actes simples qui représentent 70% des actes d’urbanisme instruits chaque année, soit près de 700 000, pour vérifier si le produit répond bien aux irritants identifiés.
 

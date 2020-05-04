@@ -4,7 +4,8 @@ role: Responsable de produit junior
 missions:
   - start: '2017-03-06'
     end: '2017-09-06'
-    status: dinsic
+    employer: dinum
+    status: admin
 startups:
 previously:
   - open-academie

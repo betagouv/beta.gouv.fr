@@ -9,7 +9,7 @@ missions:
     end : '2019-12-04'
     status: independent
   - start: '2019-12-09'
-    end : '2020-04-31'
+    end : '2020-07-31'
     status: independent
 startups:
   - camino

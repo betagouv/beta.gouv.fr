@@ -6,7 +6,7 @@ layout: null
     { "self": "{{ site.url }}/startups" }
 , "data":
     [
-    {% assign startups = site.startups | where_exp: 'startups', 'startups.status != death' %}
+    {% assign startups = site.startups | where_exp: 'startups', 'startups.status != alumni' %}
     {% for startup in startups %}
         {% assign startup_id = startup.id | remove: '/startups/' %}
         {% assign screenshot_files = site.static_files | where: "startups_img", true %}

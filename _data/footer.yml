@@ -22,6 +22,9 @@ links:
       label: À propos
       target: _pages/about.md
     -
+      label: Vue d'ensemble
+      target: _pages/dashboard.md
+    -
       label: En détails et en chiffres
       url: /content/docs/rapportannuel.pdf
     -
