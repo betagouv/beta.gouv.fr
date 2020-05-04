@@ -11,5 +11,5 @@ missions:
     status: admin
     employer : Ministère des Affaires Etrangères
 startups:
-  - Disinfo
+  - disinfo
 ---
