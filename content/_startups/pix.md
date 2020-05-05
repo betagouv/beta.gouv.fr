@@ -2,7 +2,7 @@
 title: Pix
 mission: Mesurer, développer et valoriser ses compétences numériques
 owner: GIP PIX
-incubator: dinsic
+incubator: dinum
 status: success
 start: 2016-06-08
 end:

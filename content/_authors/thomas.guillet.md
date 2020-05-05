@@ -10,9 +10,11 @@ missions:
   - start: 2017-12-27
     end: 2019-12-04
     status: admin
+    employer: dinum
   - start: 2019-12-06
     end: 2020-12-24
     status: admin
+    employer: dinum
 startups:
   - mes-aides
   - voir-et-localiser

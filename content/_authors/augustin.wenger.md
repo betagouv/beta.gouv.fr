@@ -6,6 +6,7 @@ github: magemax
 missions:
   - start: '2019-01-21'
     end: '2020-01-03'
+    employer: dinum
     status: admin
 startups:
   - leximpact

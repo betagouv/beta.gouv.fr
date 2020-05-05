@@ -1,8 +1,8 @@
 ---
 title: Mes Aides
 mission: Évaluer ses droits à 28 aides sociales. En moins de 7 minutes.
-owner: DINSIC
-incubator: dinsic
+owner: DINUM
+incubator: dinum
 status: alumni
 start: 2014-05-01
 end: 2020-03-03

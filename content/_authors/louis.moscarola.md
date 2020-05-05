@@ -7,6 +7,7 @@ missions:
   - start: '2019-01-28'
     end: '2019-06-01'
     status: admin
+    employer: dinum
 startups:
  - aplus
 

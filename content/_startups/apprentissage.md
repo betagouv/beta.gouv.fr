@@ -2,7 +2,7 @@
 title: Mission Apprentissage
 mission: Faciliter les entrées en apprentissage
 owner: Délégation générale à l'emploi et à la formation professionnelle (DGEFP)
-incubator: dinsic
+incubator: dinum
 status: construction
 start: 2019-11-01
 end:
