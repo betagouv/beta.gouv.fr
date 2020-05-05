@@ -13,10 +13,18 @@ mapping:
     type:      str
     required:  yes
   "start":
-    type:      date
     required:  yes
+    type:      any
+    assert:    "val.is_a?(Date) || val.nil? || (val.is_a?(String) && (val.empty? || val.match?(/^\d{4}-\d{2}-\d{2}$/)))"
+  "product_launch_date":
+    type:      any
+    assert:    "val.is_a?(Date) || val.nil? || (val.is_a?(String) && (val.empty? || val.match?(/^\d{4}-\d{2}-\d{2}$/)))"
+  "national_scale_date":
+    type:      any
+    assert:    "val.is_a?(Date) || val.nil? || (val.is_a?(String) && (val.empty? || val.match?(/^\d{4}-\d{2}-\d{2}$/)))"
   "end":
-    type:      date
+    type:      any
+    assert:    "val.is_a?(Date) || val.nil? || (val.is_a?(String) && (val.empty? || val.match?(/^\d{4}-\d{2}-\d{2}$/)))"
   "incubator":
     type:      str
     required:  yes
