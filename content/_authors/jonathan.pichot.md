@@ -13,10 +13,6 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     end: '2023-04-30' # date de fin de contrat au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
     status: admin
     employer: ANCT # si applicable, le nom de ton administration, SSII, etc.
-startups: # ta ou tes startups actuelles
-    - super_startup # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
-previously: # ta ou tes anciennes startups
-    - ancienne_super_startup # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
 ---
 
 🇫🇷🇺🇸. Ancien de [NYC Planning Labs](https://labs.planning.nyc.gov/), [Code for America Brigade](https://brigade.codeforamerica.org/).
