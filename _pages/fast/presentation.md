@@ -13,9 +13,9 @@ L'appel à candidatures du Fonds d’accélération des Startups d’État et de
 
 Jusqu’à 1 million d’euros en provenance de la Direction Interministérielle du Numérique (DINUM) pourront être partagés par plusieurs lauréats.
 
-Ces services publics cherchent à résoudre des problèmes de politique publique de grande ampleur (ex: lutter contre le gaspillage des déchets organiques, améliorer l'accès à la formation, faciliter les conditions scolaires pour les enfants handicapés, ouvrir les données de transports...) remontés par des agents publics.
+Ces services publics cherchent à résoudre des problèmes de politique publique de grande ampleur (e.g. lutter contre le gaspillage des déchets organiques, améliorer l'accès à la formation, faciliter les conditions scolaires pour les enfants handicapés, ouvrir les données de transports…) remontés par des agents publics.
 
-Que vous soyez une administration, un établissement public, ou une collectivité territoriale en développement ou en accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction interministérielle du numérique pouvant aller jusqu'à 300 000 euros.
+Que vous soyez une administration, un établissement public, ou une collectivité territoriale engagés développement ou en accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction interministérielle du numérique pouvant aller jusqu'à 300 000 euros.
 
 Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux questions dédiée ainsi que les conditions d’éligibilité.
 
@@ -23,7 +23,7 @@ Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux ques
 
 ##### Qu’est-ce que beta.gouv.fr ?
 
-Le programme beta.gouv.fr de la Direction interministérielle du numérique (DINUM) aide les administrations et établissements publics à construire des services simples et faciles à utiliser, en axant leurs efforts sur les besoins des utilisateurs. Il a pour objectifs deremettre les personnes au cœur de l’action publique, d’apporter des solutions concrètes à leurs problèmeset d’obtenir le meilleur impact sur le réel.
+Le programme beta.gouv.fr de la Direction interministérielle du numérique (DINUM) aide les administrations et établissements publics à construire des services simples et faciles à utiliser, en axant leurs efforts sur les besoins des utilisateurs. Il a pour objectifs de remettre les personnes au cœur de l’action publique, d’apporter des solutions concrètes à leurs problèmes et d’obtenir le meilleur impact sur le réel.
 
 beta.gouv.fr constitue l’un des principaux leviers de résolutions de problèmes de politiques publiques et de transformation numérique du service public [portés par le programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/).
 
@@ -33,9 +33,9 @@ Ce fonds a pour objectif d’investir dans des projets apportant des solutions c
 
 ##### Quelles sont les modalités d’investissement ?
 
-L’appel à candidatures de cette 4ème édition vise à soutenir des solutions numériques existantes, développées par des administrations publiques (Etat ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
+L’appel à candidatures de cette 4ème édition vise à soutenir des solutions numériques existantes, développées par des administrations publiques (Etat ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à l'échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
 
-L'administration doit être en mesure de garantir sa capacité à financer la même somme qu'elle sollicite (exemple : si le besoin évalué est de 100 000 euros, vous sollicitez 50 000 euros de la DINUM et vous faites un versement de 50 000 euros sur [une convention public-public](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/)).
+L'administration doit être en mesure de garantir sa capacité à financer à hauteur de la somme qu'elle sollicite (exemple : si le besoin évalué est de 100 000 euros, vous sollicitez 50 000 euros de la DINUM et vous engagez un versement de 50 000 euros sur [une convention public-public](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/)).
 
 Le montant du ticket global sera dépensé via les marchés de la DINUM sous forme de prestations pour renforcer l'équipe nécessaire à l’accompagnement, au développement et au déploiement du produit. 
 
@@ -58,7 +58,6 @@ A noter : plusieurs administrations et/ou collectivités territoriales peuvent s
 * Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée ;
 * Avoir une feuille de route pour le produit et pour le déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service) ;
 * Vouloir faire passer ce produit à l’échelle.
-
 
 ## Quelles sont les modalités de candidature ?
 
@@ -111,7 +110,6 @@ Sur une durée d'environ 6 mois, ce ticket permettra donc de mobiliser des moyen
 * Des produits existants avec un cahier des charges des fonctionnalités à développer ;
 * Des projets censés résoudre des problèmes d’organisation interne ;
 * Des services numériques dont le code n’est pas ouvert (open source), ou pour lesquels le code ne peut pas être ouvert.
-
 
 ## Comment candidater ?
 
