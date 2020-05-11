@@ -34,4 +34,6 @@ D'ores et déja de premières actions ont été réalisées pour la campagne d'i
 - Intégration sur "ParcourSup" d'une information plus complète et précise sur l'apprentissage, des services "La bonne alternance" et offres d'emploi de "Pole-emploi.fr" en lien avec les formations visées.
 - Constitution d'un premier catalogue des offres de formations en apprentissage.
 
-Guillaume Houzel, inspecteur général œuvrant pour l'éducation et l'accès à l'emploi, préférant entreprendre qu'administrer.
+*Guillaume Houzel, inspecteur général œuvrant pour l'éducation et l'accès à l'emploi, préférant entreprendre qu'administrer.*
+
+<img src="https://github.com/betagouv/beta.gouv.fr/blob/master/img/authors/guillaume.houzel.jpg" width="150">
