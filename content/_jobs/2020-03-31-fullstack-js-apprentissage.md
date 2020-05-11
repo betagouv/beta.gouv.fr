@@ -1,14 +1,14 @@
 ---
 roles: un.e developpeur.se fullstack JS
 startup: Mission apprentissage
-open: false
+open: true
 ---
 
 Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une équipe autonome, agile, et proche de ses utilisateurs ? 
 
 **La Mission Apprentissage recherche un.e développeur.euse Full Stack JS**
 
-_Poste ouvert le 31/03/2020 (mission de 3 mois renouvelables)_
+_Poste ouvert le 06/05/2020 (mission de 3 mois renouvelables)_
 
 ## Qui sommes nous ?
 La mission a pour objectif de lever les freins à l’essor de l’apprentissage et de faciliter la mise en contact des jeunes, des CFA et des entreprises :
@@ -22,7 +22,7 @@ master » pour les poursuites d’études supérieures.
 * Concevoir, prototyper et déployer de nouveaux services numériques, par exemple pour mieux informer les jeunes et leurs familles sur la qualité des formations ou les perspectives
 d’évolution dans l’emploi ou pour mieux identifier leurs compétences et les donner à voir aux entreprises intéressées par les recruter.
 
-C’est sur ce 3ème axe que le/la développeur.euse interviendra, en particulier sur la conception d’un service facilitant la recherche simultanée d'une formation et d'un emploi en apprentissage.
+Le/la développeur.euse interviendra, sur la conception de services liés à ces 3 axes.
 
 ## Mission
 * Organiser, planifier et assurer le développement technique web
