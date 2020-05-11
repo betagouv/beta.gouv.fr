@@ -64,11 +64,11 @@ Le dossier de candidature doit préciser clairement :
 * Le problème auquel la solution répond ;
 * La solution mise en place ;
 * Son impact sur le réel chiffré ;
-* En cas de passage à l’échelle réussi, les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois(ex : sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc).
+* En cas de passage à l’échelle réussi, les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois (ex : sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc).
 
 L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de consolidation. 
 
-[Cliquez ici pour compléter le dossier de candidature avant le lundi 1er juin 23h59.](https://www.demarches-simplifiees.fr/commencer/fast4)
+[Cliquez ici pour compléter le dossier de candidature avant le lundi 15 juin 23h59.](https://www.demarches-simplifiees.fr/commencer/fast4)
 
 ## Quel est le processus de sélection du FAST ?
 
@@ -112,7 +112,7 @@ Sur une durée d'environ 6 mois, ce ticket permettra donc de mobiliser des moyen
 
 ## Comment candidater ?
 
-[Cliquez ici pour compléter le dossier de candidature avant le lundi 1er juin 23h59.](https://www.demarches-simplifiees.fr/commencer/fast4)
+[Cliquez ici pour compléter le dossier de candidature avant le lundi 15 juin 23h59.](https://www.demarches-simplifiees.fr/commencer/fast4)
 
 ## J’ai une question, qui puis-je contacter ?
 
