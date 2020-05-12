@@ -36,4 +36,4 @@ D'ores et déja de premières actions ont été réalisées pour la campagne d'i
 
 *Guillaume Houzel, inspecteur général œuvrant pour l'éducation et l'accès à l'emploi, préférant entreprendre qu'administrer.*
 
-<img alt="Guillaume Houzel" src="https://github.com/betagouv/beta.gouv.fr/blob/master/img/authors/guillaume.houzel.jpg" width="150">
+<img alt="Guillaume Houzel" src="https://raw.githubusercontent.com/betagouv/beta.gouv.fr/master/img/authors/guillaume.houzel.jpg" width="150">
