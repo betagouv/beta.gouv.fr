@@ -7,7 +7,7 @@ link: https://www.linkedin.com/in/merzouknassim/
 missions:
   - start: '2020-05-12'
     end: '2020-12-31'
-    status: indépendant
+    status: independent
     employer: DINUM
 startups:
     - reserve-civique
