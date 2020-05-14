@@ -1,17 +1,18 @@
 ---
 fullname: Nathalie Reyre
-role: Binôme d'intra
+role: Product Owner
 github: nathaliereyre
 avatar: >-
   https://static8.viadeo-static.com/4KOb8isx1rjIYUn1rzQZxPYEWGo=/300x300/member/002j11g5ucsfjqc%3Fts%3D1323192285000
 missions:
   - start: '2019-09-11'
-    end: '2020-05-31'
+    end: '2020-09-30'
     status: independent
-    employer: Codeurs en Liberté
+    employer: Octo
 startups:
- - andi
+    - SNU - Réserve Civique 
 previously:
+  - andi
   - la-bonne-formation
 ---
 
