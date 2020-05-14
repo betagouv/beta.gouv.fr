@@ -1,15 +1,15 @@
 ---
 roles: Développeuse ou développeur full-stack
-startup: [Camino](https://beta.gouv.fr/startups/camino.html)
+startup: camino
 techno: javascript 
 junior: false
 open: true 
-title: Camino - Développeuse ou développeur full-stack
+title: Développeuse ou développeur full-stack
 ---
 
 # L’environnement du poste et l’équipe
 
-La Direction générale de l’aménagement, du logement et de la nature (DGALN) et la Direction de l’eau et de la biodiversité (DEB) sont en charge sous l'autorité du Ministre chargé des mines, de l'administration des autorisations et des titres miniers. 
+La Direction générale de l’aménagement, du logement et de la nature (DGALN) et la Direction de l’eau et de la biodiversité (DEB) sont en charge de l'administration des autorisations et des titres miniers sous l'autorité du Ministre chargé des mines. 
 
 Dans la volonté d'accompagner l'évolution du code minier et de proposer aux usagers du secteur des mines (entreprises, agents publics des différentes directions mais aussi grand public) un service numérique avec les derniers standards de qualité, l'équipe CAMINO a été crée en 2018. 
 
@@ -36,24 +36,24 @@ L’équipe de développement du produit travaille en direct avec ses utilisateu
 
 _Profil recherché_
 
-vous savez travailler en équipe et vous voulez co-construire l’outil en plaçant la culture produit au coeur du travail
-vous avez une bonne expérience en Javascript, typescript et PostgreSQL
-vous êtes intéressé.e par le développement front et back
-vous avez une appétence pour la reprise de données 
-vous avez une bonne capacité à absorber des problématiques métier complexes et de la curiosité 
+- vous savez travailler en équipe et vous voulez co-construire l’outil en plaçant la culture produit au coeur du travail
+- vous avez une bonne expérience en Javascript, typescript et PostgreSQL
+- vous êtes intéressé.e par le développement front et back
+- vous avez une appétence pour la reprise de données 
+- vous avez une bonne capacité à absorber des problématiques métier complexes et de la curiosité 
 
 **Idéalement** :
 
-vous êtes développeur senior full-stack 
-vous connaissez le framework VueJS et nodejs ainsi que docker
-vous portez un intérêt aux projets open source et aux politiques publiques en matière d’environnement et de transition écologique. 
+- vous êtes développeur senior full-stack 
+- vous connaissez le framework VueJS et nodejs ainsi que docker
+- vous portez un intérêt aux projets open source et aux politiques publiques en matière d’environnement et de transition écologique. 
 
 
 _Missions_
 
-Participation au développement de la plateforme, en lien avec le développeur déjà présent sur le projet : reprise du code et prise en main du backlog, participation à l’architecture et poursuite du développement des plateformes web front et back-end
-Optimisation du parcours et l’expérience utilisateur
-Travail avec les communautés open data, logiciel libre
+- Participation au développement de la plateforme, en lien avec le développeur déjà présent sur le projet : reprise du code et prise en main du backlog, participation à l’architecture et poursuite du développement des plateformes web front et back-end
+- Optimisation du parcours et l’expérience utilisateur
+- Travail avec les communautés open data, logiciel libre
 
 _Détails techniques_
 
