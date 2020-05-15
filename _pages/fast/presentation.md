@@ -6,6 +6,9 @@ sidebar: sidebar-fast.html
 additional_css:
   - side-panel.css
 ---
+
+<img src="https://blog.beta.gouv.fr/img/posts/2020_05_07_1200x675_Twitter_FAST.JPG" alt="Image de présentation du FAST" style="width:100%;" />
+
 L'appel à candidatures du Fonds d’accélération des Startups d’État et de Territoire (FAST) vise à co-financer des services publics numériques en phase d’accélération qui ont pour but de résoudre un problème de politique publique.  
 
 Jusqu’à 1 million d’euros en provenance de la Direction Interministérielle du Numérique (DINUM) pourront être partagés par plusieurs lauréats.
