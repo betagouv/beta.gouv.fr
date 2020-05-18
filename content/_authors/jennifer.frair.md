@@ -1,12 +1,16 @@
 ---
 fullname: Jennifer Frair
 role: Chargee de la moderation et de l'animation reseau
-avatar:
+github: jenniferfrair
+avatar: 
 link: linkedin.com/in/jenniferfrair
-missions:
+missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
   - start: '2020-05-18'
-  end: '2020-12-31'
-  status: independent
+    end: '2020-12-31'
+    status: independent
     employer: DJEPVA
-startups: reserve-civique
-previously:
+startups: 
+    - reserve-civique
+previously: 
+    - 
+    ---
