@@ -15,4 +15,4 @@ previously:
     -
 ---
 
-Plume de la Réserve Civique ! 
+Plume de la Reserve Civique ! 
