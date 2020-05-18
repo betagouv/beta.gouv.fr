@@ -1,6 +1,6 @@
 ---
 fullname: Camille Balenieri
-role: Chargée de communication éditoriale
+role: Chargee de communication éditoriale
 github: CamilleBalenieri
 avatar:
 link: https://www.linkedin.com/in/camille-balenieri-80723096/
