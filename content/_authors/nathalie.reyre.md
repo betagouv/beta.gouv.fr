@@ -9,10 +9,10 @@ missions:
     end: '2020-09-30'
     status: independent
     employer: Octo
-startups:
-    - SNU - Réserve Civique 
-previously:
-  - andi
-  - la-bonne-formation
+Missions :
+  - PO et experte métier pour La Bonne Formation (2016 - 2019) 
+  - PO et experte métier pour La Bonne Formation (2016 - 2019)
+  - PO pour Engagement Civique - le Service National Universel (SNU) (2016 - 2019)
+
 ---
 
