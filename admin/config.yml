@@ -195,12 +195,14 @@ collections:
         <<: *relation_default_options
         collection: startups
         multiple: true
+        required: false
       - label: Anciennes Startups
         label_singular: Ancienne Startup
         hint: "Plusieurs choix possibles : sur quelles startups de la communauté tu as travaillé avant ?"
         name: previously
         <<: *relation_default_options
         collection: startups
+        required: false
         multiple: true
       - label: Description
         hint: "Raconte-nous qui tu es dans une phrase percutante !"
