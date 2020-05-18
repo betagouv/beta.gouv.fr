@@ -1,7 +1,7 @@
 ---
 roles: Chef(fe) de Produit
 startup: locatio
-open: true
+open: false
 ---
 
 # DossierFacile recrute un(e) Chef(fe) de Produit !
