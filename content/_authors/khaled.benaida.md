@@ -1,12 +1,12 @@
 ---
 fullname: Khaled Benaida
-role: Chargé de déploiement
+role: Chargé de développement
 github: khaled-benaida
 missions:
-  - start: '2020-05-19'
-    end:'2020-10-19'
+  - start: '2020-06-22'
+    end: '2020-09-25'
     status: admin
     employer: dinum
 startups:
-    - itou
+    - itou 
 ---
