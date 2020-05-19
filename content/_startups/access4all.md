@@ -4,7 +4,7 @@ mission: La plateforme collaborative pour l’accessibilité
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
 status: construction
-link: https://access4all.beta.gouv.fr/
+link: https://access4all.beta.gouv.fr
 repository: https://github.com/MTES-MCT/access4all
 contact: julia.zucker@developpement-durable.gouv.fr
 stats: true
