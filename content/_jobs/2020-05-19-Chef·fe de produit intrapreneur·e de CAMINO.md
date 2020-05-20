@@ -17,7 +17,7 @@ et de la Nature (DGALN)_
 
 _En tant que  chef(fe) de projet transformation numérique de l’administration des mines vous_
 
-- pilotez quotidiennement l’évolution de l’application web – camino.beta.gouv.fr (Cadastre minier numérique ouvert) au contact des utilisateurs, en dirigeant une petite équipe de travail autonome et agile et en bénéficiant de l’appui de la Fabrique Numérique, l’incubateur des startups MTES-MCT
+- pilotez quotidiennement l’évolution de l’application web – [camino.beta.gouv.fr](https://camino.beta.gouv.fr/titres) (Cadastre minier numérique ouvert) au contact des utilisateurs, en dirigeant une petite équipe de travail autonome et agile et en bénéficiant de l’appui de la Fabrique Numérique, l’incubateur des startups MTES-MCT
 - accompagnez les services déconcentrés pour les nouveaux services numériques de l’administration des mines (formations, coaching, présentations, mise en oeuvre)
 - gérez et valorisez des données administratives et techniques des mines non-énergétiques et des carrières
 - contribuez à la réforme du code minier et la dématérialisation des procédures minières notamment grâce à CAMINO
@@ -32,7 +32,7 @@ _Auprès de la sous-direction EARM vous_
 
 # COMPÉTENCES ATTENDUES 
 
-- Compétence en services numériques : vous disposez d’une bonne culture digitale et avez idéalement une première expérience dans les gestions d’un produit numérique (site web, application mobile) dans le cadre professionnel ou personnel  
+- Compétence en services numérique : vous disposez d’une bonne culture digitale et avez idéalement une première expérience dans les gestions d’un produit numérique (site web, application mobile) dans le cadre professionnel ou personnel  
 - Compétence en systèmes d’information géographique : vous avez déjà manipulé un outil SIG tel que QGIS et vous avez développé un intérêt pour les représentations cartographiques
 - Les connaissances de base dans le domaine de l’eau et des ressources minérales sont grandement appréciées ainsi que des compétences en systèmes d’information
 
@@ -56,7 +56,7 @@ Au sein de la DGALN, la direction de l’eau et de la biodiversité (DEB) conço
 - **Localisation** : Grande Arche et Tour Sequoia (La Défense)
 - **Direction de rattachement** : Direction générale de l’aménagement, du logement et de la nature (DGALN) Direction de l’eau et de la biodiversité (DEB) Sous-direction des écosystèmes aquatiques et des ressources minérales (mission 1) – DGALN/DEB/EARM et Bureau de la politique des ressources minérales non énergétiques (mission 2) – DGALN/DEB/EARM/EARM2
 
-**Adresser toute candidature à guillaume.levieux@beta.gouv.fr avec le 31 mai 2020**
+**Adresser toute candidature à guillaume.levieux@beta.gouv.fr avant le 31 mai 2020**
 
 
 
