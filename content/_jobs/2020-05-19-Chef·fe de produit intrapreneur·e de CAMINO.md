@@ -56,7 +56,7 @@ Au sein de la DGALN, la direction de l’eau et de la biodiversité (DEB) conço
 - **Localisation** : Grande Arche et Tour Sequoia (La Défense)
 - **Direction de rattachement** : Direction générale de l’aménagement, du logement et de la nature (DGALN) Direction de l’eau et de la biodiversité (DEB) Sous-direction des écosystèmes aquatiques et des ressources minérales (mission 1) – DGALN/DEB/EARM et Bureau de la politique des ressources minérales non énergétiques (mission 2) – DGALN/DEB/EARM/EARM2
 
-**Adresser toute candidature à guillaume.levieux@beta.gouv.fr (co avant le 31 mai 2020**
+**Adresser toute candidature à guillaume.levieux@beta.gouv.fr avec, en copie recrutement.mineco@beta.gouv.fr, avant le 31 mai 2020**
 
 
 
