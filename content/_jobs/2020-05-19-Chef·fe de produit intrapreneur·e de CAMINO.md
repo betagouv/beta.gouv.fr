@@ -32,7 +32,7 @@ _Auprès de la sous-direction EARM vous_
 
 # COMPÉTENCES ATTENDUES 
 
-- Compétence en services numérique : vous disposez d’une bonne culture digitale et avez idéalement une première expérience dans les gestions d’un produit numérique (site web, application mobile) dans le cadre professionnel ou personnel  
+- Compétence en services numérique : vous disposez d’une bonne culture numérique et avez idéalement une première expérience dans les gestions d’un produit numérique (site web, application mobile) dans le cadre professionnel ou personnel  
 - Compétence en systèmes d’information géographique : vous avez déjà manipulé un outil SIG tel que QGIS et vous avez développé un intérêt pour les représentations cartographiques
 - Les connaissances de base dans le domaine de l’eau et des ressources minérales sont grandement appréciées ainsi que des compétences en systèmes d’information
 
