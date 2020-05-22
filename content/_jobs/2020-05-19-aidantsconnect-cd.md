@@ -9,7 +9,7 @@ La Startup d’État Aidants Connect recherche un(e) "business developer" qui es
 
 Aidants Connect a pour objectif **d'outiller les aidants professionnels pour accompagner et sécuriser leurs actions aupres des usagers éloignés du numérique.**
 
-## Qui sommes nous ?
+## Qui sommes-nous ?
 Notre équipe souhaite faciliter l’accompagnement des usagers les plus en difficulté avec le numérique qui expriment un besoin immédiat d’accès à leurs droits et plus largement aux services publics.
 
 [Aidants Connect](https://aidantsconnect.beta.gouv.fr/guide_utilisation/) s’inscrit dans une double démarche :
