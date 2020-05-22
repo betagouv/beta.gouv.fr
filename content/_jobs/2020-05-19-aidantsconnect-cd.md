@@ -25,7 +25,7 @@ La première version du service propose :
 
 L’une de ces ressources sera une cartographie des lieux et services d’accompagnement au numérique existant sur l’ensemble du territoire national.
 
-Une dizaine de structures ont été sélectionné pour expérimenter la solution en conditions réelles d’accompagnement d’usagers sur la période **février**  à **juillet** 2020.
+Une dizaine de structures ont été sélectionnées pour expérimenter la solution en conditions réelles d’accompagnement d’usagers sur la période **février**  à **juillet** 2020.
 
 Une nouvelle phase de déploiement est prévue à l'été afin d'expérimenter la solution sur 1 000 structures **labellisées** France Services.
 
