@@ -3,7 +3,7 @@ title: mes-aides.bretagne.bzh
 mission: Faciliter l'accès et l’octroi des aides publiques par les collectivités bretonnes
 owner: Région Bretagne
 incubator: dinsic 
-status: construction
+status: almuni
 start: 2019-10-21
 end: 
 link:
@@ -27,9 +27,11 @@ En quelques minutes, il permettrait à une personne ou un foyer :
 - de déclencher la demande d’aide grâce à des liens vers les ressources nécessaires pour faire sa demande (Portail des Aides Breton, informations spécifiques sur chaque aide) ;
 - de connaître les points d’accueil physiques qualifiés dans lesquels obtenir de l’aide pour faire sa démarche ou être accompagné.
 
+Cette initiative est pilotée directement par la région Bretagne et s'inscrit dans un plan plus large de platfeforme d'information atour de la dématérialisation des aides.
+
 ## Equipe : 
-- Manuel Gautier 
+- Manuel Gautier
+- Co-construction de la solution avec l'équipe produit et les services de la collectivité
 
 ## Territoire d'expérimentation : 
 Région Bretagne
-Co-construction de la solution avec l'équipe produit et les services de la collectivité
