@@ -3,7 +3,7 @@ title: Pau Partage
 mission: Lutter contre l'isolement des personnes âgées en favorisant la rencontre avec des bénévoles
 owner: Agglomération de Pau Béarn Pyrénées
 incubator: dinsic 
-status: consolidation
+status: alumni
 start: 2019-02-04
 end: 
 link:
@@ -24,6 +24,11 @@ En rencontrant une dizaine de personnes âgées, l’équipe a rapidement compri
 Très vite, l’équipe a mis en contact des bénévoles avec ces personnes âgées afin d’organiser une fois par semaine des visites visant à être un temps convivial.
 Chacun s’appropriait ce moment de façon différente : certains ont joué au scrabble, d’autres ont cuisiné, d’autres ont jardiné, certains se sont baladés et parfois il s’agissait juste d’échanges et de bons fous-rires.
 Le résultat a été sans appel : les personnes ont verbalisé l’apport de ces rencontres : "J’ai plus d’énergie pendant la journée", "je dors mieux le soir, "j’attends vendredi avec impatience", "j’ai enfin envie de faire quelque chose".
+
+Cette initiative est pilotée directement par l'agglomération Pau Béarn Pyrénées.
+
+En 2019, sur 31 personnes âgées volontaires pour une mise en relation, 23 binômes ont vu le jour.
+L'objectif de l'année 2020 est d'assurer la pérénisation du dispositif au sein des services sociaux de l'agglomération.
 
 ## Equipe : 
 - Sylvia Gonzalez, chargée de mission Handicap
