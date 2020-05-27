@@ -14,7 +14,7 @@ Pour valider la pertinence de votre idée, vous devriez être en mesure de rédi
 
 > N'hésitez pas à nous adresser votre fiche produit sur [alpha@beta.gouv.fr](mailto:alpha@beta.gouv.fr).  
 > Vous souhaitez, et nous vous le conseillons, l'approfondir ?  
-> Vous pouvez suivre le MOOC "[Créer des services publics innovants](/alpha/mooc)".  
+> Vous pouvez suivre le MOOC "[Créer des services publics innovants](/programme/formation/mooc)".  
 > Les vidéos explicatives vous guideront dans la création et l'approfondissement de votre fiche produit.
 
 ### Exemple : la Bonne Boîte

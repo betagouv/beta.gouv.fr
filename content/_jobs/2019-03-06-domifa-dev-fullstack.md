@@ -39,7 +39,7 @@ Vous serez en charge de construire (*from scratch*) le service pour les usagers.
 
 Vous pourrez participer à la conception, aux études terrain, aux tests utilisateur avec les intrapreneurs.
 
-Les langages supportés à [l'Incubateur des Affaires Sociales](/incubateurs/sgmas.html) sont javascript et python.
+Les langages supportés à [l'Incubateur des Affaires Sociales](/programme/incubateurs/sgmas.html) sont javascript et python.
 
 Vous êtes entièrement en charge des développements, de l’administration système aux CSS, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, et de monitoring.
 

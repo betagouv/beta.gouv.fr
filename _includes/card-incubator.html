@@ -7,9 +7,9 @@
   <a href="{{ incubator.url }}" style="text-decoration: none;">
     <div class="card__content">
       <h3>{{ incubator.title }}</h3>
-      <p>
+      <div>
         {{ incubator.content | markdownify }}
-      </p>
+      </div>
       <div class="card__meta">
         <p>{{ incubator.owner }}, {{ incubator.address }}</p>
       </div>

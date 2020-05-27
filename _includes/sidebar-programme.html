@@ -48,7 +48,7 @@
       {% if page.url contains "/programme/formation" %}
       <ul class="side-pane__submenu">
         <li class="side-pane__dropdown {% if page.url == "/programme/formation/mooc" %}unfolded active{% endif %}">
-          <a class="side-pane__link" href="/programme/formation/mooc/">Formation en ligne</a>
+          <a class="side-pane__link" href="/programme/formation/mooc">Formation en ligne</a>
           {% if page.url contains "/programme/formation/mooc" %}
           <ul class="side-pane__submenu">
             {% assign mooc = site.mooc | sort: 'order' %}
