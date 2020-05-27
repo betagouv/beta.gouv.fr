@@ -1,10 +1,12 @@
 ---
 layout: with-sidebar
 title: Fonds d’accélération des Startups d’État et de Territoire (FAST)
-permalink: /fast/
-sidebar: sidebar-fast.html
+permalink: /programme/fast
+sidebar: sidebar-programme.html
 additional_css:
   - side-panel.css
+redirect_from:
+  - /fast
 ---
 
 <img src="https://blog.beta.gouv.fr/img/posts/2020_05_07_1200x675_Twitter_FAST.JPG" alt="Image de présentation du FAST" style="width:100%;" />

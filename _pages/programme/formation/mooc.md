@@ -1,7 +1,8 @@
 ---
-layout: formation/mooc
+layout: with-sidebar
+sidebar: sidebar-programme.html
 title: Formation en ligne ouverte à tous
-permalink: /alpha/mooc/
+permalink: /programme/formation/mooc
 additional_css:
   - side-panel.css
 ---

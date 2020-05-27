@@ -1,10 +1,10 @@
 ---
 layout: formation/alpha
 title: La formation Alpha
-permalink: /alpha/
+permalink: /programme/formation
 additional_css:
   - side-panel.css
-
+  
 # Dates de la prochaine formation
 alpha-start: 2019-06-12
 alpha-end: 2019-06-12
@@ -14,6 +14,8 @@ alpha-location-link: https://www.openstreetmap.org/#map=19/48.84347/2.39093
 alpha-catering: Le CNFPT prend en charge les frais de déplacement (A/R), d'hébergement (la veille) et de repas des agents territoriaux.
 alpha-more: "[Le visionnage du MOOC](/alpha/mooc/) est obligatoire en amont de cette session."
 alpha-link: https://startupdetat.typeform.com/to/Iuwd3O
+redirect_from:
+  - /alpha
 ---
 
 Alpha est la formation accélérée aux méthodes de la communauté beta.gouv.fr. Elle est destinée à accompagner les nouvelles Startups d'État et de Territoires et leurs intrapreneurs.

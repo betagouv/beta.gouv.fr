@@ -1,11 +1,11 @@
 ---
-layout: incubateurs
-title: Les incubateurs de Startups d'État
-permalink: /incubateurs/
+layout: with-sidebar
+sidebar: sidebar-programme.html
+title: Manifeste
+permalink: /programme/manifeste
 additional_css:
   - side-panel.css
 ---
-L’écosystème beta.gouv.fr grandit depuis 2013 et réunit aujourd’hui de nombreux incubateurs autonomes partageant les mêmes objectifs et les mêmes valeurs. Leur ambition : amener à l’excellence les individus qu’ils accueillent – quel que soit leur rôle : porter un produit, développer, coacher, designer, déployer, etc. – pour construire les services publics les plus utiles à nos concitoyens.
 
 Nous faisons partie d’un réseau d’incubateurs de Startups d’État et de Territoires qui :
 
@@ -20,4 +20,3 @@ Nous faisons partie d’un réseau d’incubateurs de Startups d’État et de T
 
 Pour simpliste en apparence, ce manifeste permet en réalité de valider à tout moment que ce que l’on produit est utile à quelqu’un, et ainsi de bâtir non seulement des services publics numériques, mais bien des politiques publiques cohérentes dans leur ensemble.
 
-Par porosité, un incubateur travaille avec son environnement pour faire évoluer les pratiques de l'administration qui le porte.

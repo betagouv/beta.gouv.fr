@@ -1,0 +1,77 @@
+<nav class="side-pane">
+  <ul class="side-pane__menu sticky">
+    <li class="side-pane__dropdown unfolded {% if page.url == "/programme/" %}active{% endif %}">
+      <a class="side-pane__link" href="/programme/">Le programme beta.gouv.fr</a>
+      <ul class="side-pane__submenu">
+        <li {% if page.url == "/programme/manifeste" %}class="active"{% endif %}>
+          <a class="side-pane__sublink" href="/programme/manifeste">Manifeste</a>
+        </li>
+        <li class="side-pane__dropdown 
+          {% if page.url == "/programme/incubateurs" %}
+            active
+          {% endif %}
+          {% if page.url contains "/programme/incubateurs" %}
+            unfolded
+          {% endif %} 
+          ">
+          <a href="/programme/incubateurs" >Les incubateurs</a>
+          {% if page.url contains "/programme/incubateurs" %}
+          <ul class="side-pane__submenu">
+            {%- for incubator in site.incubators | sort: 'creation_date' -%}
+            <li class="side-pane__sublink {% if page.id == incubator.id %}active{% endif %}">
+              <a href="{{ incubator.url | relative_url }}">{{ incubator.title }}</a>
+            </li>
+            {%- endfor -%}
+          </ul>
+          {% endif %}
+        </li>
+        <li {%- if page.url == "/programme/rejoindre" -%}class="active"{%- endif -%}>
+          <a class="side-pane__sublink" href="/programme/rejoindre">Rejoindre le programme</a>
+        </li>
+        <li {%- if page.url == "/programme/questions" -%}class="active"{%- endif -%}>
+          <a class="side-pane__sublink" href="/programme/questions">Questions fréquentes</a>
+        </li>
+        <li {%- if page.url == "/programme/en_savoir_plus" -%}class="active"{%- endif -%}>
+          <a class="side-pane__sublink" href="/programme/en_savoir_plus">Plus d'infos</a>
+        </li>
+      </ul>
+    </li>
+    <!-- <a class="side-pane__link" href="/programme/">Le programme Territoire</a> -->
+    
+    <li class="side-pane__dropdown {% if page.url == "/programme/fast" %}active {% endif %}{% if page.url contains "/programme/fast" %}unfolded{% endif %}">
+      <a class="side-pane__link" href="/programme/fast">Le FAST</a>
+      {% if page.url contains "/programme/fast" %}
+      <ul class="side-pane__submenu">
+        {% assign fasts = site.fasts | sort: 'order' %}
+        {% for fast-page in fasts %}
+        <li {% if page.url == fast-page.url %}class="active"{% endif %}>
+          <a class="side-pane__sublink" href="{{ fast-page.url }}">{{ fast-page.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </li>
+
+    <li class="side-pane__dropdown {% if page.url == "/programme/formation" %}active {% endif %}{% if page.url contains "/programme/formation" %}unfolded{% endif %}">
+      <a class="side-pane__link" href="/programme/formation">Formation</a>
+      {% if page.url contains "/programme/formation" %}
+      <ul class="side-pane__submenu">
+        <li class="side-pane__dropdown {% if page.url == "/programme/formation/mooc" %}unfolded active{% endif %}">
+          <a class="side-pane__link" href="/programme/formation/mooc/">Formation en ligne</a>
+          {% if page.url contains "/programme/formation/mooc" %}
+          <ul class="side-pane__submenu">
+            {% assign mooc = site.mooc | sort: 'order' %}
+            {% for sequence in mooc %}
+            <li {% if page.url == sequence.url %}class="active"{% endif %}>
+              <a class="side-pane__sublink" href="{{ sequence.url }}">{{ sequence.label }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+      </ul>
+      {% endif %}
+    </li>
+    
+  </ul>
+</nav>
