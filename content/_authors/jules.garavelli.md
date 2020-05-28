@@ -10,7 +10,7 @@ missions:
     status: stagiaire
     employer: DGCCRF
 startups: 
-    - signalement
-   ---
+    - signalement  
+---
 
 Parfois, mieux vaut un court silence qu'un long discours 
