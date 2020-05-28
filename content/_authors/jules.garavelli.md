@@ -11,6 +11,6 @@ missions:
     employer: DGCCRF
 startups: 
     - signalement
-   
+   ---
 
 Cet emplacement peut contenir une punchline qui apparaitra sur ta fiche si tu le souhaites
