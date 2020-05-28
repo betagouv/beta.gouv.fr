@@ -7,7 +7,7 @@ link:
 missions: 
   - start: '2020-06-02'
     end: '2020-11-30' 
-    status: stagiaire
+    status: admin
     employer: DGCCRF
 startups: 
     - signalement  
