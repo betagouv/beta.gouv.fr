@@ -1,21 +1,21 @@
 <nav class="side-pane">
   <ul class="side-pane__menu sticky">
-    <li class="side-pane__dropdown unfolded {% if page.url == "/programme/" %}active{% endif %}">
-      <a class="side-pane__link" href="/programme/">Le programme beta.gouv.fr</a>
+    <li class="side-pane__dropdown unfolded {% if page.url == "/approche/" %}active{% endif %}">
+      <a class="side-pane__link" href="/approche/">Le programme beta.gouv.fr</a>
       <ul class="side-pane__submenu">
-        <li {% if page.url == "/programme/manifeste" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/programme/manifeste">Manifeste</a>
+        <li {% if page.url == "/approche/manifeste" %}class="active"{% endif %}>
+          <a class="side-pane__sublink" href="/approche/manifeste">Manifeste</a>
         </li>
         <li class="side-pane__dropdown 
-          {% if page.url == "/programme/incubateurs" %}
+          {% if page.url == "/approche/incubateurs" %}
             active
           {% endif %}
-          {% if page.url contains "/programme/incubateurs" %}
+          {% if page.url contains "/approche/incubateurs" %}
             unfolded
           {% endif %} 
           ">
-          <a href="/programme/incubateurs" >Les incubateurs</a>
-          {% if page.url contains "/programme/incubateurs" %}
+          <a href="/approche/incubateurs" >Les incubateurs</a>
+          {% if page.url contains "/approche/incubateurs" %}
           <ul class="side-pane__submenu">
             {%- for incubator in site.incubators | sort: 'creation_date' -%}
             <li class="side-pane__sublink {% if page.id == incubator.id %}active{% endif %}">
@@ -27,11 +27,11 @@
         </li>
       </ul>
     </li>
-    <!-- <a class="side-pane__link" href="/programme/">Le programme Territoire</a> -->
+    <!-- <a class="side-pane__link" href="/approche/">Le programme Territoire</a> -->
     
-    <li class="side-pane__dropdown {% if page.url == "/programme/fast" %}active {% endif %}{% if page.url contains "/programme/fast" %}unfolded{% endif %}">
-      <a class="side-pane__link" href="/programme/fast">Le FAST</a>
-      {% if page.url contains "/programme/fast" %}
+    <li class="side-pane__dropdown {% if page.url == "/approche/fast" %}active {% endif %}{% if page.url contains "/approche/fast" %}unfolded{% endif %}">
+      <a class="side-pane__link" href="/approche/fast">Le FAST</a>
+      {% if page.url contains "/approche/fast" %}
       <ul class="side-pane__submenu">
         {% assign fasts = site.fasts | sort: 'order' %}
         {% for fast-page in fasts %}
@@ -43,13 +43,13 @@
       {% endif %}
     </li>
 
-    <li class="side-pane__dropdown {% if page.url == "/programme/formation" %}active {% endif %}{% if page.url contains "/programme/formation" %}unfolded{% endif %}">
-      <a class="side-pane__link" href="/programme/formation">Formation</a>
-      {% if page.url contains "/programme/formation" %}
+    <li class="side-pane__dropdown {% if page.url == "/approche/formation" %}active {% endif %}{% if page.url contains "/approche/formation" %}unfolded{% endif %}">
+      <a class="side-pane__link" href="/approche/formation">Formation</a>
+      {% if page.url contains "/approche/formation" %}
       <ul class="side-pane__submenu">
-        <li class="side-pane__dropdown {% if page.url == "/programme/formation/mooc" %}unfolded active{% endif %}">
-          <a class="side-pane__link" href="/programme/formation/mooc">Formation en ligne</a>
-          {% if page.url contains "/programme/formation/mooc" %}
+        <li class="side-pane__dropdown {% if page.url == "/approche/formation/mooc" %}unfolded active{% endif %}">
+          <a class="side-pane__link" href="/approche/formation/mooc">Formation en ligne</a>
+          {% if page.url contains "/approche/formation/mooc" %}
           <ul class="side-pane__submenu">
             {% assign mooc = site.mooc | sort: 'order' %}
             {% for sequence in mooc %}

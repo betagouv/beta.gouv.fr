@@ -1,8 +1,8 @@
 ---
 layout: with-sidebar
-sidebar: sidebar-programme.html
+sidebar: sidebar-approche.html
 title: Manifeste
-permalink: /programme/manifeste
+permalink: /approche/manifeste
 additional_css:
   - side-panel.css
 ---

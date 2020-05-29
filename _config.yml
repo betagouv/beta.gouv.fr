@@ -49,17 +49,17 @@ collections:
   authors:
   incubators:
     output: true
-    permalink: /programme/incubateurs/:title.html
+    permalink: /approche/incubateurs/:title.html
   jobs:
     output: true
     permalink: /recrutement/:year/:month/:day/:title.html
   mooc:
     output: true
-    permalink: /programme/formation/mooc/:title.html
+    permalink: /approche/formation/mooc/:title.html
   phases:
   fasts:
     output: true
-    permalink: /programme/fast/:title.html
+    permalink: /approche/fast/:title.html
   startups:
     output: true
     permalink: /startups/:title.html
@@ -86,7 +86,7 @@ defaults:
       type: "mooc"
     values:
       layout: with-sidebar
-      sidebar: sidebar-programme.html
+      sidebar: sidebar-approche.html
       additional_css:
         - side-panel.css
   - scope:

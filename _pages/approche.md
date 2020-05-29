@@ -1,8 +1,8 @@
 ---
 layout: with-sidebar
-sidebar: sidebar-programme.html
-permalink: /programme/
-title: Le programme
+sidebar: sidebar-approche.html
+permalink: /approche/
+title: Notre approche
 additional_css:
   - side-panel.css
 ---

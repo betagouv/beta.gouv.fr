@@ -1,6 +1,6 @@
 ---
 layout: startups
-title: Notre travail
+title: Nos réalisations
 permalink: /startups/
 additional_css:
   - side-panel.css
@@ -8,6 +8,7 @@ additional_css:
 redirect_from:
   - /portefeuille
   - /startup
+  - /startups
 ---
 
 ## Sur quoi travaillons-nous ?

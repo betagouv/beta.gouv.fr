@@ -1,6 +1,6 @@
 ---
 title: FAST 3 - Avril 2020 
-sidebar: sidebar-programme.html
+sidebar: sidebar-approche.html
 ---
 
 ## [FAST 3 - Avril 2020](https://blog.beta.gouv.fr/dinsic/2020/01/29/postulez-au-fonds-d-acceleration-des-startups-d-etat-et-de-territoire-3eme-edition/)

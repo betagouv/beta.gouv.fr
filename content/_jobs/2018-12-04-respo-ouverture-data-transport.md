@@ -7,7 +7,7 @@ startup: transport
 
 Nous cherchons une personne intéressée par l’ouverture des données et le monde des transports dans le but de faciliter les déplacements des voyageurs partout en France et de permettre à tout un chacun de déterminer le plus simplement possible la meilleure option de mobilité lors d’un trajet : bus, tram, ferry, métro, vélo, voiture… ou tout à la fois ! 
 
-Pour atteindre cet objectif, nous souhaiterions trouver quelqu'un pour endosser dès février 2019 le rôle de responsable de l'ouverture des données transport en contrat de vacataire, ce qui équivaut à un CDD de 6 mois renouvelable une fois. La nouvelle recrue rejoindra l'équipe chargée de construire le Point d'Accès National [transport.data.gouv.fr](https://transport.data.gouv.fr) selon les [méthodes des Startups d'État](https://beta.gouv.fr/programme). Sa mission ? Accélérer l'ouverture des données transport en incitant l'ensemble des acteurs à se lancer dans l'aventure : opérateurs de freefloating, de vélos libre-service, de bus, de trams, acteurs du stationnement, etc.
+Pour atteindre cet objectif, nous souhaiterions trouver quelqu'un pour endosser dès février 2019 le rôle de responsable de l'ouverture des données transport en contrat de vacataire, ce qui équivaut à un CDD de 6 mois renouvelable une fois. La nouvelle recrue rejoindra l'équipe chargée de construire le Point d'Accès National [transport.data.gouv.fr](https://transport.data.gouv.fr) selon les [méthodes des Startups d'État](https://beta.gouv.fr/approche). Sa mission ? Accélérer l'ouverture des données transport en incitant l'ensemble des acteurs à se lancer dans l'aventure : opérateurs de freefloating, de vélos libre-service, de bus, de trams, acteurs du stationnement, etc.
 
 <!--more-->
 

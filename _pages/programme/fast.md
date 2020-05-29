@@ -1,8 +1,8 @@
 ---
 layout: with-sidebar
 title: Fonds d’accélération des Startups d’État et de Territoire (FAST)
-permalink: /programme/fast
-sidebar: sidebar-programme.html
+permalink: /approche/fast
+sidebar: sidebar-approche.html
 additional_css:
   - side-panel.css
 redirect_from:

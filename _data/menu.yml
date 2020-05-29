@@ -2,8 +2,8 @@
 title:
 nav:
 -
-  label: Le programme
-  target: _pages/programme.md
+  label: Notre approche
+  target: _pages/approche.md
 -
   label: Réalisations
   target: _pages/startups.md

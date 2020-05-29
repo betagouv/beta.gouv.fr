@@ -1,7 +1,7 @@
 ---
 layout: formation/alpha
 title: La formation Alpha
-permalink: /programme/formation
+permalink: /approche/formation
 additional_css:
   - side-panel.css
   
@@ -12,7 +12,7 @@ alpha-time: de 9h à 18h30
 alpha-location: CNFPT - 78 rue de Reuilly, 75012 Paris
 alpha-location-link: https://www.openstreetmap.org/#map=19/48.84347/2.39093
 alpha-catering: Le CNFPT prend en charge les frais de déplacement (A/R), d'hébergement (la veille) et de repas des agents territoriaux.
-alpha-more: "[Le visionnage du MOOC](/programme/formation/mooc/) est obligatoire en amont de cette session."
+alpha-more: "[Le visionnage du MOOC](/approche/formation/mooc/) est obligatoire en amont de cette session."
 alpha-link: https://startupdetat.typeform.com/to/Iuwd3O
 redirect_from:
   - /alpha
@@ -22,7 +22,7 @@ Alpha est la formation accélérée aux méthodes de la communauté beta.gouv.fr
 
 La formation Alpha est née en novembre 2017. Depuis, les sessions se sont succédé et la formule n'a cessé de s'améliorer. Elle reste **la meilleure façon de découvrir la méthode Startup d'État** et se destine aux acteurs de l’innovation du secteur public, membres d’une Startup d'État ou désireux d’en créer une.
 
-Pour les accompagner, nos intervenants coachs, intrapreneurs, développeurs et chargés de développement viennent les outiller sur des sujets tels que « [Comment trouver ses premiers utilisateurs](/programme/formation/mooc/sequence-2-premiers-utilisateurs.html) » à « [Mesurer son impact dans le réel](/programme/formation/mooc/sequence-3-mesurer-impact.html) » en passant par « [Survivre en milieu hostile](/programme/formation/mooc/sequence-4-survivre-milieu-hostile.html) » ou encore « [Comment faire de l’industriel en mode artisanal](/programme/formation/mooc/sequence-5-industriel-milieu-artisanal.html) ». Tous nos intervenants sont membres de la [communauté beta.gouv.fr](/communaute) et ne prennent que des cas concrets en exemple.
+Pour les accompagner, nos intervenants coachs, intrapreneurs, développeurs et chargés de développement viennent les outiller sur des sujets tels que « [Comment trouver ses premiers utilisateurs](/approche/formation/mooc/sequence-2-premiers-utilisateurs.html) » à « [Mesurer son impact dans le réel](/approche/formation/mooc/sequence-3-mesurer-impact.html) » en passant par « [Survivre en milieu hostile](/approche/formation/mooc/sequence-4-survivre-milieu-hostile.html) » ou encore « [Comment faire de l’industriel en mode artisanal](/approche/formation/mooc/sequence-5-industriel-milieu-artisanal.html) ». Tous nos intervenants sont membres de la [communauté beta.gouv.fr](/communaute) et ne prennent que des cas concrets en exemple.
 
 <img src="/img/alpha/alpha-first-session.jpg" alt="Première session Alpha, 6 et 7 novembre 2017" style="width:75%;display: block;margin-left: auto;margin-right: auto;"/>
 

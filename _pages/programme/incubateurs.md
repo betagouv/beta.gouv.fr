@@ -1,8 +1,8 @@
 ---
 layout: with-sidebar
-sidebar: sidebar-programme.html
+sidebar: sidebar-approche.html
 title: Incubateurs
-permalink: /programme/incubateurs
+permalink: /approche/incubateurs
 additional_css:
   - side-panel.css
 ---
