@@ -6,7 +6,7 @@ avatar: https://static8.viadeo-static.com/4KOb8isx1rjIYUn1rzQZxPYEWGo=/300x300/m
 missions:
   - start: '2015-01-12'
     end: '2019-30-08'
-    status: salarié
+    status: service
     employer: Pôle emploi
   - start: '2019-09-11'
     end: '2020-05-13'
