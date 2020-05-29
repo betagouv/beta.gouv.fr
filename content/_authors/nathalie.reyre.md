@@ -18,8 +18,8 @@ missions:
     status: independent
     employer: Octo
 startups:
-   - snu 
+  - snu 
 previously:
-   - la-bonne-formation
-   - andi
+  - la-bonne-formation
+  - andi
 ---
