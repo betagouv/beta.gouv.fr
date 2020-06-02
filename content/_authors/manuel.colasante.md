@@ -1,6 +1,6 @@
 ---
 fullname: Manuel Colasante
-role: Developper
+role: Développeur
 avatar: https://avatars3.githubusercontent.com/u/705453?s=400&v=4
 missions:
   - start: '2019-02-18'

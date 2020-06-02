@@ -1,15 +1,15 @@
 ---
 title: Poubelles Battle
 mission: Faciliter le déploiement de composteurs collectifs et encourager leur utilisation
-incubator: dinsic
-owner: dinsic
+incubator: dinum
+owner: DINUM
 status: construction
 start: 2019-06-03
 end:
-link:
-repository:
-stats: false
-stats_url:
+link: https://www.poubellesbattle.fr/
+repository: https://github.com/betagouv/poubellesbattle
+stats: true
+stats_url: https://www.poubellesbattle.fr/stats
 contact: poubelles-battle@beta.gouv.fr
 ---
 
@@ -21,8 +21,6 @@ Or c’est un déchet dont la réduction pourrait passer par une technique bien 
 
 _83kg de déchets par habitant sont incinérés chaque année au lieu d'être valorisés._
 ========================================================================
-
-D’autres catégories de déchets (carton, verre, emballages) ont déjà atteint un taux de tri comparable aux autres communes, c’est donc sur les déchets de cuisine que l’effort à produire est impératif. Or c’est un déchet dont la réduction passe par une technique bien maîtrisée : le compostage.
 
 Depuis 3 mois, dans le cadre du programme de pré-incubation, l'équipe a investigué et rencontré certains acteurs impliqués dans la pratique du compostage (citoyens engagés ou non, associations, agents de gestion des déchets, entreprises solidaires…) afin de mieux comprendre leurs usages et leurs éventuels points de blocage. 
 Les différents échanges nous ont permis d’identifier 3 freins principaux :

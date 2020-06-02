@@ -9,7 +9,7 @@ end:
 link: https://kelrisks.beta.gouv.fr
 repository: https://github.com/MTES-MCT/kelrisks
 stats: false
-contact: contact@kelrisks.gouv.fr
+contact: contact@kelrisks.beta.gouv.fr
 ---
 
 ## La pollution des sols : un risque invisible mais bien réel

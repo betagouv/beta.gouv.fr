@@ -28,7 +28,7 @@ Les indicateurs utilisés sont…
 
 > À faire
 >
-> Données brutes : par SE, +1 à date du début de phase death -1 à la phase d'après != death
+> Données brutes : par SE, +1 à date du début de phase alumni -1 à la phase d'après != alumni
 
 ### 4. Nombre de produits devenus des services publics à impact national majeur au cours de l'année
 

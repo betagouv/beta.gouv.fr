@@ -2,7 +2,7 @@
 title: Administration+, le service public VIP pour tous
 mission: Résoudre les blocages administratifs inextricables
 owner: DINUM
-incubator: dinsic
+incubator: dinum
 status: acceleration
 start: 2017-10-01
 end:

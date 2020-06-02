@@ -1,9 +1,9 @@
 ---
 title: API Géo
 mission: Interrogez les référentiels géographiques plus facilement
-owner: DINSIC
-incubator: api_dinsic
-status: consolidation
+owner: DINUM
+incubator: apigouv
+status: alumni
 start: 2015-01-01
 end:
 link: https://geo.api.gouv.fr

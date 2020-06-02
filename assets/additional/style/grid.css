@@ -16,64 +16,6 @@
 }
 
 /* --- */
-/* Page Startups */
-.container.startup-lists {
-    max-width: 90%;
-    width: 90%;
-}
-
-.startup-lists ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  grid-gap: 5em;
-  justify-items: center;
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
-}
-
-.startup-lists ul li {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.startup-lists__counter {
-    font-size: 2em;
-    font-weight: bold;
-    margin: 10px 0;
-}
-
-.startup-lists__label {
-    font-weight: bold;
-    font-size: 1.2em;
-}
-
-.startup-lists__description {
-    color: #555;
-    text-align: center;
-}
-
-.startup-lists__link,
-.startup-lists__link:visited {
-    background-color: #ebeff3;
-    color: #53667d;
-    padding: 10px 20px;
-    border-radius: 20px;
-    text-decoration: none;
-}
-
-.startup-lists__link:hover,
-.startup-lists__link:focus,
-.startup-lists__link:active {
-    background-color: #d7e0e8;
-    color: #53667d;
-    transition: none;
-}
-/* --- */
 /* Page Jobs */
 
 .jobs .grid {

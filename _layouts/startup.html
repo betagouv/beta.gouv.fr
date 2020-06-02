@@ -12,7 +12,7 @@ layout: default
   {% if page.link %}
     <div class="notification full-width">Le produit est <em>{{ phase.label | downcase | prepend: "en " }}</em>, il est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.</div>
   {% else %}
-    <div class="notification warning full-width">Le produit est <em>{{ phase.label | downcase | prepend: "en " }}</em>, il n'est pas encore accessible au public.</div>
+    <div class="notification warning full-width">Le produit est <em>{{ phase.label | downcase | prepend: "en " }}</em>, il n'est pas actuellement accessible au public.</div>
   {% endif %}
 
   <section class="section section-white">

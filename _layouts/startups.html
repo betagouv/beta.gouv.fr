@@ -5,30 +5,9 @@ layout: default
 {% comment %}additional_css : side-panel.css grid.css{% endcomment %}
 
 {% assign lang = page.lang | default: site.lang | default: "en" %}
-{% assign phases = site.phases | where:"related","incubation" | sort: 'order' %}
+{% assign phases = site.phases | sort: 'order' %}
 {% assign phases_with_stopped = site.phases | sort: 'order' %}
 {% assign incubators = site.incubators %}
-
-<div class="page article" id="presentation">
-  {% include hero-page.html title=page.title %}
-</div>
-
-<section class="section section-white" style="padding-top: 0;">
-    <div class="container startup-lists">
-        <ul>
-            {% for phase in phases %}
-              {% assign counter_target = phase.id | remove: "/phases/" %}
-              {% assign counter = site.startups | where:'status', counter_target | size %}
-              <li>
-                <div class="startup-lists__counter">{{ counter }}</div>
-                <div class="startup-lists__label">{{ phase.label }}</div>
-                <p class="startup-lists__description">{{ phase.short_description }}</p>
-                <a class="startup-lists__link" href="/startups/#{{ phase.status }}">Voir les startups</a>
-              </li>
-            {% endfor %}
-        </ul>
-    </div>
-</section>
 
 <main>
     <section class="filters sticky">
@@ -43,32 +22,40 @@ layout: default
             </div>
             <input type="text" id="search-input" placeholder="Rechercher...">
             <button id="search-input-button" class="overlay-button" aria-label="Effacer" style="width: 29px;">
-              Effacer
+                Effacer
             </button>
             <ul id="results-container"></ul>
         </div>
     </section>
 
-    <section class="section section-white">
+    <section class="section section-grey" style="padding-top: 0;">
         <div class="container">
             {% assign phases = site.phases | sort: 'order' %}
             {% for phase in phases %}
-              {% assign counter_target = phase.id | remove: "/phases/" %}
-              {% assign counter = site.startups | where:'status', counter_target | size %}
-              {% assign plural = "" %}
-              {% if counter > 1 %}
-                {% assign plural = "s" %}
-              {% endif %}
-              <div id="{{ phase.status }}" style="padding-top: 4em;">
-                  <h2 class="phase-title"><em>{{ counter }}</em> Startup{{ plural }} d’État en <em>{{ phase.label | downcase }}</em></h2>
-                  <p class="phase-description">{{ phase.short_description }}.</p>
-                  <div class="startups grid">
-                    {% assign startups = site.startups | where:"status", phase.status %}
-                    {% for startup in startups %}
-                      {% include card-startup.html startup = startup %}
-                    {% endfor %}
-                  </div>
-              </div>
+                {% assign counter_target = phase.id | remove: "/phases/" %}
+                {% assign counter = site.startups | where:'status', counter_target | size %}
+                {% assign plural = "" %}
+                {% if counter > 1 %}
+                    {% assign plural = "s" %}
+                {% endif %}
+                <div id="{{ phase.status }}" style="padding-top: 4em;">
+                    {% if phase.status == 'success' %}
+                        <h2 class="phase-title">Nos <em>{{ phase.label | downcase }}{{ plural }}</em></h2>
+                    {% elsif phase.status == 'alumni' %}
+                        <h2 class="phase-title">Nos <em>{{ phase.label | downcase }}</em></h2>
+                    {% else %}
+                        <h2 class="phase-title"><em>{{ counter }}</em> {{ phase.type_label }}{{ plural }} en
+                        <em>{{ phase.label | downcase }}</em></h2>
+                    {% endif %}
+
+                    <p class="phase-description">{{ phase.short_description }}.</p>
+                    <div class="startups grid">
+                        {% assign startups = site.startups | where:"status", phase.status %}
+                        {% for startup in startups %}
+                            {% include card-startup.html startup = startup %}
+                        {% endfor %}
+                    </div>
+                </div>
             {% endfor %}
         </div>
     </section>
@@ -77,8 +64,8 @@ layout: default
 
 <!-- Filtres -->
 <script>
-    if(typeof(String.prototype.trim) === "undefined") {
-        String.prototype.trim = function() {
+    if (typeof (String.prototype.trim) === "undefined") {
+        String.prototype.trim = function () {
             return String(this).replace(/^\s+|\s+$/g, '');
         };
     }
@@ -87,7 +74,7 @@ layout: default
     var searchInputBtn = document.getElementById('search-input-button');
     var resultsContainer = document.getElementById('results-container');
 
-    searchInput.addEventListener('keyup', function(e) {
+    searchInput.addEventListener('keyup', function (e) {
         if (e.target.value.trim() != '') {
             resultsContainer.style.display = 'block';
             searchInputBtn.style.display = 'block';
@@ -97,18 +84,19 @@ layout: default
         }
     });
 
-    searchInputBtn.addEventListener('click', function(e) {
+    searchInputBtn.addEventListener('click', function (e) {
         searchInput.value = '';
         resultsContainer.style.display = 'none';
         searchInputBtn.style.display = 'none';
     });
 
     var selectPhase = document.getElementById('select-phase');
-    selectPhase.addEventListener('change', function(e) {
-        var url = location.href;
+    selectPhase.addEventListener('change', function (e) {
+        var url = new URL(location.href);
         var selectedPhase = e.target.value;
-        location.href = "#"+selectedPhase;
-        history.replaceState(null,null,url);
+        var hash = "#" + selectedPhase;
+        location.href = hash;
+        history.replaceState(null, null, url.origin + url.pathname + hash);
     });
 </script>
 
@@ -117,11 +105,11 @@ layout: default
 
 <!-- Configuration -->
 <script>
-SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  searchResultTemplate: "<li><p><a href=\"{url}\">{title}</a> - {owner}<br>{mission}<p></li>",
-  noResultsText: "<li class=\"empty\">Aucun résultat</li>",
-  json: '/search.json'
-})
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        searchResultTemplate: "<li><p><a href=\"{url}\">{title}</a> - {owner}<br>{mission}<p></li>",
+        noResultsText: "<li class=\"empty\">Aucun résultat</li>",
+        json: '/search.json'
+    })
 </script>

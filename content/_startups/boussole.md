@@ -2,8 +2,8 @@
 title: Boussole des droits
 mission: Accéder à des conseils professionnels à proximité pour trouver un logement, une formation ou un emploi
 owner: Direction de la jeunesse
-incubator: dinsic
-status: death
+incubator: dinum
+status: alumni
 start: 2015-12-01
 end:
 link:
@@ -47,7 +47,7 @@ Le code source que nous publions [ici](https://github.com/betagouv/boussole) cor
 
 ## La fiche produit publiée en 2016
 
-Depuis 2013, un travail d’analyse et d’étude a été mené par la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> et le <abbr title="direction interministérielle du numérique et du système d'information et de communication de l'État">DINSIC</abbr> sur 2 territoires pilotes (Reims et Rennes), pour identifier les besoins des jeunes dans leur accès à l’information et les attentes des professionnels de l’Information Jeunesse en ce qui concerne l’évolution de leur pratique.
+Depuis 2013, un travail d’analyse et d’étude a été mené par la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> et la <abbr title="direction interministérielle du numérique et du système d'information et de communication de l'État">DINSIC</abbr> sur 2 territoires pilotes (Reims et Rennes), pour identifier les besoins des jeunes dans leur accès à l’information et les attentes des professionnels de l’Information Jeunesse en ce qui concerne l’évolution de leur pratique.
 
 En synthèse, ce travail a montré que les jeunes recherchent de l’information de « proximité » (parents, amis), « en réaction » (à un besoin, un projet) et dans l’urgence. Ils accordent une confiance à l’information publique et de la valeur à l’opinion de leurs pairs.
 

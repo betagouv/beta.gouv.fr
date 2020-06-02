@@ -2,14 +2,14 @@
 title: ANDi
 mission: Faciliter l'immersion professionnelle des personnes en situation de handicap
 owner: Caisse des dépôts 
-incubator: dinsic 
+incubator: dinum
 status: construction
 start: 2019-05-16 
-end: 
-link: 
-repository: 
-stats: false 
-stats_url: 
+end: 2020-05-15
+link: https://andi.beta.gouv.fr/
+repository: https://github.com/betagouv/andi
+stats: true
+stats_url: https://andi.beta.gouv.fr/stats
 contact: karel.cloarec@beta.gouv.fr
 ---
 

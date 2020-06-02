@@ -1,22 +1,22 @@
-{% comment %}
+{%- comment -%}
   S'appelle avec un author. On peut spécifier force=true pour forcer une image.
-  Ex : {% include avatar.html author=author %}
-{% endcomment %}
+  Ex : {%- include avatar.html author=author -%}
+{%- endcomment -%}
 
-{% assign author_id = include.author.id | remove: '/authors/' %}
-{% assign screenshot_files = site.static_files | where: "authors_img", true %}
-{% assign screenshot_file = screenshot_files | where: 'basename', author_id | first %}
-{% if screenshot_file %}
-  {% assign screenshot_path = screenshot_file.path %}
-  <img class="screenshot lozad" data-src="{{ screenshot_path }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
-{% elsif include.author.avatar %}
-  <img class="screenshot lozad" data-src="{{ include.author.avatar }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
-{% elsif include.author.github %}
-  {% capture avatarGithub %}
+{%- assign author_id = include.author.id | remove: '/authors/' -%}
+{%- assign screenshot_files = site.static_files | where: "authors_img", true -%}
+{%- assign screenshot_file = screenshot_files | where: 'basename', author_id | first -%}
+{%- if screenshot_file -%}
+  {%- assign screenshot_path = screenshot_file.path -%}
+      <img class="lozad" data-src="{{ screenshot_path }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
+{%- elsif include.author.avatar -%}
+  <img class="lozad" data-src="{{ include.author.avatar }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
+{%- elsif include.author.github -%}
+  {%- capture avatarGithub -%}
     https://avatars3.githubusercontent.com/{{include.author.github}}?s=600
-  {% endcapture %}
-  <img class="screenshot lozad" data-src="{{ avatarGithub }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
-{% elsif include.force %}
-  {% assign screenshot_path = "/img/logo-generique-startup-carre-2019.jpg" %}
-  <img class="screenshot lozad" data-src="{{ screenshot_path }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
-{% endif %}
+  {%- endcapture -%}
+  <img class="lozad" data-src="{{ avatarGithub }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
+{%- elsif include.force -%}
+  {%- assign screenshot_path = "/img/logo-generique-startup-carre-2019.jpg" -%}
+  <img class="lozad" data-src="{{ screenshot_path }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
+{%- endif -%}

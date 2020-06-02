@@ -3,7 +3,7 @@ title: Aeris
 mission: Limiter les rejets polluants dans l'air en facilitant et en harmonisant la déclaration et le suivi des émissions des industriels
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: death
+status: alumni
 start: 2018-01-01
 end:
 repository: https://github.com/mtes-mct/aeris
@@ -50,7 +50,7 @@ Le service serait d'abord déployé auprès d'exploitants et d'inspecteurs au ni
 
 Par la suite, le service pourrait être étendu aux incinérateurs de déchets dans toute la France, puis à d’autres secteurs industriels, par exemple les installations de combustion.
 
-## Abandon
+## Abandon
 
 Suite au départ de l'intrapreneur après une mutation professionnelle, le projet Aeris n'a pas trouvé de repreneur.
 
