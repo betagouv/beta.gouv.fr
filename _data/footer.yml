@@ -19,7 +19,7 @@ links:
       label: English presentation
       target: _pages/en/home.md
     -
-      label: À propos
+      label: Mentions légales
       target: _pages/about.md
     -
       label: Vue d'ensemble
