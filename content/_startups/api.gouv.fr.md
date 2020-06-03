@@ -34,9 +34,3 @@ api.gouv est un site mais avant tout une équipe qui :
 -   rassure et établit une relation de confiance entre les constructeurs de services informatiques et l'administration responsable de la donnée
 
 Api.gouv.fr est une startup déja incubée, riche d'une expérience de plusieurs années et des dizaines de services déja accompagnés.
-
-Cette annéee, l'accent est mis sur :
-
--   devenir un reflexe pour tous les constructeurs de services numériques
--   être découvrable sur Internet et clarifier le message du site
--   se faire connaître activement des collectivités, des ministères et des administrations
