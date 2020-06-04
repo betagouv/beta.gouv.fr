@@ -63,3 +63,9 @@ Une équipe très motivée et composée de:
 - Orion Charlier - Développeur
 - Benoit Guigal - Développeur
 - Laurent Paoletti - Développeur
+
+## Candidater
+
+Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à emmanuel.flahaut@developpement-durable.gouv.fr 
+
+À bientôt !
