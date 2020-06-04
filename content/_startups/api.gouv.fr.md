@@ -16,11 +16,12 @@ redirect_from:
 
 ## Le problème :
 
-Au sein le service public, la donnée est une ressource dispersée, hétérogène et difficile d'accès.
-Les organisations qui construisent des services numériques pour les citoyens ont besoin de cette donnée et doivent faire face à :
+Au sein des administrations, la donnée est une ressource dispersée, hétérogène et difficile d'accès.
+Les organisations qui construisent des services numériques pour les citoyens ou les agents de la fonction publique ont besoin de cette donnée et doivent faire face à :
 
 -   la multiplicité des sources de données et des interlocuteurs
 -   la difficulté d’identifier la source de donnée adaptée à leur service
+-   la réticence des fournisseurs d’API à ouvrir certaines données
 -   la difficulté d’obtenir l'accès à la donnée
 -   la difficulté de construire un service fiable avec la donnée
 
