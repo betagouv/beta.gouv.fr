@@ -17,8 +17,9 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - reserve-civique
+  - snu
 previously:
   - la-bonne-formation
   - andi
+  - reserve-civique
 ---
