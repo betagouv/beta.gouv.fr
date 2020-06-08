@@ -2,8 +2,8 @@
 title: api.gouv.fr
 mission: Le site qui référence toutes les APIs du service public
 owner: DINUM
-incubator: apigouv
-status: alumni
+incubator: dinum
+status: success
 start: 2016-01-25
 end:
 link: https://api.gouv.fr
@@ -27,7 +27,7 @@ Les organisations qui construisent des services numériques pour les citoyens ou
 
 ## La solution :
 
-[api.gouv.fr](https://api.gouv.fr) est un site mais avant tout une équipe qui :
+[api.gouv.fr](https://api.gouv.fr) est d’abord un site web/internet/public mais c’est aussi une équipe qui :
 
 -   recense les api existantes
 -   conseille et accompagne les constructeurs de services numériques
