@@ -9,7 +9,7 @@ end:
 link: 
 repository: 
 stats: false
-contact: heloise.deffobis@calvados.gouv.fr henry.ciesielski@developpement-durable.gouv.fr 
+contact: henry.ciesielski@developpement-durable.gouv.fr 
 ---
 
 ## Le problème
