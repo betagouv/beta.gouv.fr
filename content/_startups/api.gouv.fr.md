@@ -20,8 +20,7 @@ Au sein des administrations, la donnée est une ressource dispersée, hétérog�
 Les organisations qui construisent des services numériques pour les citoyens ou les agents de la fonction publique ont besoin de cette donnée et doivent faire face à :
 
 -   la multiplicité des sources de données et des interlocuteurs
--   la difficulté d’identifier la source de donnée adaptée à leur service
--   la réticence des fournisseurs d’API à ouvrir certaines données
+-   la difficulté d’identifier la bonne source de donnée adaptée au besoin
 -   la difficulté d’obtenir l'accès à la donnée
 -   la difficulté de construire un service fiable avec la donnée
 
@@ -29,9 +28,9 @@ Les organisations qui construisent des services numériques pour les citoyens ou
 
 [api.gouv.fr](https://api.gouv.fr) est d’abord un site internet public mais c’est aussi une équipe qui :
 
--   recense les api existantes
--   conseille et accompagne les constructeurs de services numériques
--   facilite et numérise les procédures d'habilitation pour accèder à la donnée
--   rassure et établit une relation de confiance entre les constructeurs de services informatiques et l'administration responsable de la donnée
+-   recense les apis existantes
+-   conseille et accompagne les administrations qui construisent des services numériques
+-   facilite et dématérialise l'accès aux données entre administrations habilitées
+-   rassure et établit une relation de confiance entre les administrations qui construisent des services numériques et celles qui mettent à disposition leurs données
 
 [api.gouv.fr](https://api.gouv.fr) est une startup déja incubée, riche d'une expérience de plusieurs années et des dizaines de services déja accompagnés.
