@@ -27,7 +27,7 @@ Les organisations qui construisent des services numériques pour les citoyens ou
 
 ## La solution :
 
-[api.gouv.fr](https://api.gouv.fr) est d’abord un site web/internet/public mais c’est aussi une équipe qui :
+[api.gouv.fr](https://api.gouv.fr) est d’abord un site internet public mais c’est aussi une équipe qui :
 
 -   recense les api existantes
 -   conseille et accompagne les constructeurs de services numériques
