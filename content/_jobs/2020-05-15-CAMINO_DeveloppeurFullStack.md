@@ -3,7 +3,7 @@ roles: Développeuse ou développeur full-stack
 startup: camino
 techno: javascript 
 junior: false
-open: true 
+open: false 
 title: Développeuse ou développeur full-stack
 ---
 
