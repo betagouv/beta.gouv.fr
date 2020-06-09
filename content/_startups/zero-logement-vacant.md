@@ -65,9 +65,9 @@ A terme, cet outil pourrait permettre d’améliorer la connaissance et le suivi
 ## Stratégie
 
 Cette solution s’appuie sur trois hypothèses à valider : 
-- Hypothèse 1 : les données consolidées permettent une prospection plus efficace et les opérateurs en leur possession libèrent effectivement du temps pour la prospection.
-- Hypothèse 2 : les opérateurs et collectivités voient suffisamment de valeur dans l’outil pour alimenter la base de données (à partir de la recherche terrain et de bases de données locales). 
-- Hypothèse 3 : des solutions adaptées sont proposées aux propriétaires qui ne sont pas intéressés par la rénovation. 
+**- Hypothèse 1 :** les données consolidées permettent une prospection plus efficace et les opérateurs en leur possession libèrent effectivement du temps pour la prospection.
+**- Hypothèse 2 :** les opérateurs et collectivités voient suffisamment de valeur dans l’outil pour alimenter la base de données (à partir de la recherche terrain et de bases de données locales). 
+**- Hypothèse 3 :** des solutions adaptées sont proposées aux propriétaires qui ne sont pas intéressés par la rénovation. 
 
 L'équipe souhaite, dans un premier temps, mettre en oeuvre de façon artisanale les services imaginés avec des acteurs de terrain pour 2 territoires.  Il s’agit ici de valider leur pertinence et leur faisabilité avant d'investir dans des développements. 
 
