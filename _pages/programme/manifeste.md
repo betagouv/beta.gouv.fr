@@ -7,7 +7,7 @@ additional_css:
   - side-panel.css
 ---
 
-L'approche beta.gouv.fr induit des manières de faire très différentes pour l’administration. En particulier, elle repose sur trois piliers décrits dans ce manifeste que tous les partenaires de beta.gouv.fr s'engagent à respecter :
+L'approche beta.gouv.fr induit des manières de faire différentes pour l’administration. En particulier, elle repose sur trois piliers décrits dans ce manifeste que les partenaires de beta.gouv.fr s'engagent à respecter :
 
 > ### Les **besoins des utilisateurs** sont prioritaires sur les besoins de l’administration
 > Que ce soient des usagers (citoyens, entreprises, associations, etc) ou des agents publics, l’objectif premier est de construire un service utile et facile à utiliser et qui contribue à la mise en oeuvre d’une politique publique de manière mesurable. La feuille de route opérationnelle est donc guidée par les besoins des utilisateurs finaux et non par les besoins de la structure.
