@@ -2,7 +2,7 @@
 roles:  un·e chef·fe de produit 
 startup: reserve-civique
 junior: false
-open: true
+open: false
 ---
 
 

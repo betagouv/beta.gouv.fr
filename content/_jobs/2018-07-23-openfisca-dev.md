@@ -35,7 +35,7 @@ De façon pragmatique, vos objectifs seront :
 
 
 Cela consistera notamment à :
-- Apporter des modifications aux [différentes briques du logiciel](https://waffle.io/openfisca/openfisca-core) pour améliorer l’expérience de la communauté d’utilisateurs et de contributeurs OpenFisca.
+- Apporter des modifications aux différentes briques du logiciel pour améliorer l’expérience de la communauté d’utilisateurs et de contributeurs OpenFisca.
 - Accompagner l’équipe dans leur effort de faire grandir la communauté autour d’OpenFisca.
 - Enrichir les produits numériques que l’équipe met à disposition de la communauté, tels que [Legislation Explorer](https://github.com/openfisca/legislation-explorer).
 - Participer à des tests utilisateur pour découvrir avec eux de nouveaux usages et outils que l’équipe pourrait mettre à disposition de la communauté pour la faire grandir, tels que [Reform Simulator](https://reform-simulator.herokuapp.com/).

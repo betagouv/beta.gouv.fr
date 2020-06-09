@@ -2,7 +2,7 @@
 title: Ecosanté
 mission: Réduire l’exposition aux facteurs environnementaux nocifs pour la santé
 owner: Ministère de la Santé - Ministère de la Transition Écologique et Solidaire
-incubator: dinsic 
+incubator: dinum
 status: construction
 start: 2019-11-25 
 end: 

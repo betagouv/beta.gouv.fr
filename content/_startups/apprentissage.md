@@ -2,7 +2,7 @@
 title: Mission Apprentissage
 mission: Faciliter les entrées en apprentissage
 owner: Délégation générale à l'emploi et à la formation professionnelle (DGEFP)
-incubator: dinsic
+incubator: dinum
 status: construction
 start: 2019-11-01
 end:
@@ -33,3 +33,7 @@ D'ores et déja de premières actions ont été réalisées pour la campagne d'i
 
 - Intégration sur "ParcourSup" d'une information plus complète et précise sur l'apprentissage, des services "La bonne alternance" et offres d'emploi de "Pole-emploi.fr" en lien avec les formations visées.
 - Constitution d'un premier catalogue des offres de formations en apprentissage.
+
+*Guillaume Houzel, inspecteur général œuvrant pour l'éducation et l'accès à l'emploi, préférant entreprendre qu'administrer.*
+
+<img alt="Guillaume Houzel" src="https://raw.githubusercontent.com/betagouv/beta.gouv.fr/master/img/authors/guillaume.houzel.jpg" width="150">
