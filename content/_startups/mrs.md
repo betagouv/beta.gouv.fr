@@ -34,4 +34,4 @@ MRS permet la promotion du véhicule personnel ou des transports en commun, solu
 
 ## Déploiement national
 
-En juin 2019, au vu du succès de MRS, la CNAM décide de déployer le service au national. La phase de consolidation débute à l'été 2019 et se poursuit début 2020 pour assurer la pérennisation du service.
+En juin 2019, au vu du succès de MRS, la CNAM décide de déployer le service au national. La phase de transfert débute à l'été 2019 et se poursuit début 2020 pour assurer la pérennisation du service.
