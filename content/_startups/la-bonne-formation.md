@@ -3,7 +3,7 @@ title: La Bonne Formation
 mission: Rechercher une formation efficace pour le retour à l'emploi et découvrir les financements possibles
 owner: Pôle emploi
 incubator: pole-emploi
-status: consolidation
+status: success
 start: 2015-05-01
 end:
 link: https://labonneformation.pole-emploi.fr

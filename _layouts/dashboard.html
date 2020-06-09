@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+{% comment %}additional_css : side-panel.css grid.css{% endcomment %}
+
+{% assign lang = page.lang | default: site.lang | default: "en" %}
+{% assign phases = site.phases | sort: 'order' %}
+{% assign phases_with_stopped = site.phases | sort: 'order' %}
+
+<div class="page article" id="presentation">
+  {% include hero-page.html title=page.title %}
+</div>
+
+<main>
+    <section class="section section-white">
+        <div class="container">
+            <div style="text-align: center; margin-bottom: 1em;">
+                <a class="button" href="/api/v1.7/startups.csv">Télécharger au format .csv</a>
+            </div>
+            
+            {% assign phases = site.phases | sort: 'order' %}
+            <table>
+                <colgroup>
+                    <col style="width: 10%;">
+                    <col style="width: 40%;">
+                    <col>
+                    <col>
+                    <col>
+                 </colgroup>
+                <tbody>
+                    <tr>
+                        <th>Nom</th>
+                        <th>Objectif</th>
+                        <th>Phase actuelle</th>
+                        <th>Incubateur</th>
+                        <th>Date de début</th>
+                    </tr>
+                    {% for phase in phases %}
+                        {% assign startups = site.startups | where:"status", phase.status %}
+                        {% for startup in startups %}
+                            <tr>
+                                <td>{{ startup.title }}</td>
+                                <td>{{ startup.mission }}</td>
+                                <td>{{ phase.label }}</td>
+
+                                {% capture incubator_id %}/incubateurs/{{ startup.incubator }}{% endcapture %}
+                                {% assign incubator = site.incubators | where:'id', incubator_id | first %}
+                                <td>{{ incubator.title }}</td>
+
+                                <td>{{ startup.start |  date: '%d/%m/%Y' }}</td>
+                            </tr>
+                        {% endfor %}
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
+</main>

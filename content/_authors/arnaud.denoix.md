@@ -5,7 +5,8 @@ github: adenoix
 missions:
   - start: '2018-12-07'
     end:
-    status: dinsic
+    employer: dinum
+    status: admin
 startups:
   - itou
   - avril

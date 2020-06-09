@@ -14,7 +14,7 @@ L'équipe technique du Pass Culture s'agrandit et a besoin d'un·e développeur�
 Depuis janvier, le Ministère de la Culture a lancé sa 1re Startup d’État, et pas la moindre : la politique d’accès à la culture pour les jeunes ! Venez rejoindre une équipe motivée à proposer un service simple et pratique pour les usagers. Vous serez en charge de développer l'application qui permet de proposer :
 
   - un portefeuille personnalisé des événements/pratiques/oeuvres culturelles disponibles pour les jeunes,
-  - un back-office permettant aux acteurs culturels (directeurs de théâtre/producteurs/programmeurs/libraires…) de saisir leurs offres.
+  - un back-office permettant aux acteurs culturels (directeurs de théâtre/producteurs/approcheurs/libraires…) de saisir leurs offres.
 
 ## Équipe et stack
 

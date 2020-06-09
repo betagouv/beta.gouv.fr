@@ -1,88 +1,87 @@
-{% comment %}
+{%- comment -%}
   Appeler cette page avec un author
-  Ex : {% include card-community.html author=author %}
-{% endcomment %}
+  Ex : {%- include card-community.html author=author -%}
+{%- endcomment -%}
 
-{% assign author= include.author %}
+{%- assign author= include.author -%}
 
-{% comment %}
+{%- comment -%}
   Détecter si l'author est actif ou non. Par défaut, oui.
-{% endcomment %}
+{%- endcomment -%}
 
-{% capture label %}label--active{% endcapture %}
+{%- capture label -%}label--active{%- endcapture -%}
 
-{% if author.missions.last.end %}
-  {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %}
-  {% capture timestampEnd %}{{ author.missions.last.end | date: '%s' }}{% endcapture %}
-  {% if timestampNow > timestampEnd %}
-    {% capture label %}label--inactive{% endcapture %}
-  {% endif %}
-{% endif %}
+{%- if author.missions.last.end -%}
+  {%- capture timestampNow -%}{{ 'now' | date: '%s' }}{%- endcapture -%}
+  {%- capture timestampEnd -%}{{ author.missions.last.end | date: '%s' }}{%- endcapture -%}
+  {%- if timestampNow > timestampEnd -%}
+    {%- capture label -%}label--inactive{%- endcapture -%}
+  {%- endif -%}
+{%- endif -%}
 
 <div class="card card__alternative">
     <div class="card__body">
-        {% if author.link %}<a href="{{ author.link }}" target="\_blank" rel="noopener">{% endif %}
+        {%- if author.link -%}<a href="{{ author.link }}" target="\_blank" rel="noopener">{%- endif -%}
         <div class="card__content">
           <h3>{{ author.fullname }}</h3>
           <div class="card__meta">
             {{ author.role }}
           </div>
         </div>
-        {% if author.link %}</a>{% endif %}
+        {%- if author.link -%}</a>{%- endif -%}
         <div class="card__cover">
-          {% include avatar.html author=author force=true %}
+          {%- include avatar.html author=author force=true -%}
         </div>
     </div>
 
-    {% if author.content %}
+    {%- if author.content -%}
         <div class="card__content author-quote">{{ author.content | markdownify }}</div>
-    {% endif %}
+    {%- endif -%}
 
-    {% assign total_startups = [] %}
-    {% if author.startups %}
-        {% assign total_startups = total_startups | concat: author.startups %}
-    {% endif %}
-    {% if author.previously %}
-        {% assign total_startups = total_startups | concat: author.previously %}
-    {% endif %}
-    {% assign total_count=total_startups | size %}
-    {% capture taille_autres %}{{ total_count | minus:5 }}{% endcapture %}
+    {%- assign total_startups = [] -%}
+    {%- if author.startups -%}
+        {%- assign total_startups = total_startups | concat: author.startups -%}
+    {%- endif -%}
+    {%- if author.previously -%}
+        {%- assign total_startups = total_startups | concat: author.previously -%}
+    {%- endif -%}
+    {%- assign total_count=total_startups | size -%}
+    {%- capture taille_autres -%}{{ total_count | minus:5 }}{%- endcapture -%}
 
-    {% if total_startups %}
+    {%- if total_startups -%}
         <div class="card__extra">
-          {% for startup in total_startups %}
-            {% capture startup_label %}{{ label }}{% endcapture %}
-            {% assign is_previously=author.previously contains startup %}
-            {% if is_previously %}
-                {% capture startup_label %}label--inactive{% endcapture %}
-            {% endif %}
-            {% if forloop.index > 5 %}
+          {%- for startup in total_startups -%}
+            {%- capture startup_label -%}{{ label }}{%- endcapture -%}
+            {%- if author.previously contains startup -%}
+                {%- capture startup_label -%}label--inactive{%- endcapture -%}
+            {%- endif -%}
+            {%- if forloop.index > 5 -%}
               <div class="label label--inactive">Et {{ taille_autres }} autres</div>
-              {% break %}
-            {% endif %}
+              {%- break -%}
+            {%- endif -%}
 
-            {% if startup == "_help_me_" %}
-              {% continue %}
-            {% endif %}
-            {% if startup == "_in_progress_" %}
+            {%- if startup == "_help_me_" -%}
+              {%- continue -%}
+            {%- endif -%}
+            {%- if startup == "_in_progress_" -%}
               <div class="label {{ startup_label }}">Fiche produit à venir</div>
-              {% continue %}
-            {% endif %}
-            {% if startup == "_alpha_" %}
-              <div class="label {{ startup_label }}"><a href="/alpha/">Formation Alpha</a></div>
-              {% continue %}
-            {% endif %}
-            {% if startup == "_openfisca_" %}
+              {%- continue -%}
+            {%- endif -%}
+            {%- if startup == "_alpha_" -%}
+              <div class="label {{ startup_label }}"><a href="approche/formation">Formation Alpha</a></div>
+              {%- continue -%}
+            {%- endif -%}
+            {%- if startup == "_openfisca_" -%}
               <div class="label {{ startup_label }}"><a href="https://openfisca.org/">OpenFisca</a></div>
-              {% continue %}
-            {% endif %}
-            {% if startup == "_help_me_" %}
-              {% continue %}
-            {% endif %}
-            {% capture startup_id %}/startups/{{ startup }}{% endcapture %}
-            {% assign this_startup = site.startups | where: "id", startup_id | first %}
+              {%- continue -%}
+            {%- endif -%}
+            {%- if startup == "_help_me_" -%}
+              {%- continue -%}
+            {%- endif -%}
+            {%- capture startup_id -%}/startups/{{ startup }}{%- endcapture -%}
+            {%- assign this_startup = site.startups | where: "id", startup_id | first -%}
             <div class="label {{ startup_label }}"><a href="{{ this_startup.url }}">{{ this_startup.title }}</a></div>
-          {% endfor %}
+          {%- endfor -%}
         </div>
-    {% endif %}
+    {%- endif -%}
 </div>

@@ -2,7 +2,7 @@
 title: Réserve civique
 mission: Donner de son temps pour l'intérêt général
 owner: Haut-commissariat à l'engagement civique
-incubator: dinsic
+incubator: dinum
 status: construction
 start: 2017-03-23
 end:

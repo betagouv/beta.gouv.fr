@@ -2,7 +2,7 @@
 title: SignalConso
 mission: Faire baisser le nombre d'anomalies rencontrées par les consommateurs
 owner: Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)
-incubator: dinsic
+incubator: dinum
 status: acceleration
 start: 2018-06-18
 end:

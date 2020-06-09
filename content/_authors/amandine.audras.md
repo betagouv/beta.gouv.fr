@@ -4,12 +4,12 @@ role: UX Designer
 github: renardpal
 link: ''
 missions:
-  - employer: dinsic
-    start: '2018-11-02'
+  - start: '2018-11-02'
     end: '2019-06-30'
     status: admin
+    employer: dinum
   - start: '2019-09-02'
-    end: '2020-06-30'
+    end: '2020-08-31'
     status: independent
     employer: octo
 startups:

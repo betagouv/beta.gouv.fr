@@ -2,7 +2,7 @@
 title: DiagOriente
 mission: Permettre aux jeunes en difficulté de découvrir leurs compétences et leurs aspirations
 owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi
-incubator: dinsic
+incubator: dinum
 status: acceleration
 start: 2018-06-06
 end:

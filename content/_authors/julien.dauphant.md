@@ -7,9 +7,10 @@ missions:
     start: '2016-11-03'
     end: '2019-08-31'
     status: independent
-  - status: dinsic
-    start: '2019-09-01'
+  - start: '2019-09-01'
     end: '2022-08-31'
+    status: admin
+    employer: dinum
 startups:
   - plante-et-moi
   - aplus

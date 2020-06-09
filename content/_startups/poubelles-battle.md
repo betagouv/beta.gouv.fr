@@ -1,15 +1,15 @@
 ---
 title: Poubelles Battle
 mission: Faciliter le déploiement de composteurs collectifs et encourager leur utilisation
-incubator: dinsic
-owner: dinsic
+incubator: dinum
+owner: DINUM
 status: construction
 start: 2019-06-03
 end:
 link: https://www.poubellesbattle.fr/
 repository: https://github.com/betagouv/poubellesbattle
-stats: false
-stats_url:
+stats: true
+stats_url: https://www.poubellesbattle.fr/stats
 contact: poubelles-battle@beta.gouv.fr
 ---
 
