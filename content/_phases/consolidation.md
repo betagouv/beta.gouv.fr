@@ -1,8 +1,7 @@
 ---
-title: Nos services en consolidation
 status: consolidation
 label: Consolidation
-related: incubation
-order: 4
-short_description: Le service se pérennise et devient un service public numérique national disponible pour tous
+type_label: service
+order: 2
+short_description: Le service cherche à se pérenniser et devenir un service public numérique national disponible pour tous
 ---

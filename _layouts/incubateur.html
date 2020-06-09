@@ -12,7 +12,7 @@ page.lang | default: site.lang | default: "en" %}
 <section class="section section-white" style="padding-top: 0;">
   <div class="container">
     <div class="documentation">
-      {% include sidebar-incubateurs.html %}
+      {% include sidebar-approche.html %}
       <div class="main-pane">
         <div class="markdown">{{ content }}</div>
         <div class="text-quote">
@@ -27,7 +27,7 @@ page.lang | default: site.lang | default: "en" %}
           </ul>
         </div>
         <h3>Nos Startups d’État et de territoires</h3>
-        {% assign incubator_id = page.id | remove: "/incubateurs/" %} {% assign
+        {% assign incubator_id = page.id | remove: "/approche/incubateurs/" %} {% assign
         startups = site.startups | where:"incubator", incubator_id %}
         <div class="grid">
           {% for startup in startups %} {% include card-startup.html startup =

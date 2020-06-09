@@ -2,7 +2,7 @@
 title: Peps
 mission: Faciliter la transition du modèle agricole grâce au partage d'expériences entre agriculteurs
 owner: Ministère de l'Agriculture et de l'Alimentation - Ministère de la Transition Écologique et Solidaire
-incubator: dinsic 
+incubator: dinum
 status: construction
 start: 2019-05-13 
 end: 

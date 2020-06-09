@@ -3,7 +3,7 @@ title: Maintenant!
 mission: Recrutez des gens, pas des CV
 owner: Pôle emploi
 incubator: pole-emploi
-status: consolidation
+status: success
 start: 2016-02-02
 end:
 link: https://maintenant.pole-emploi.fr

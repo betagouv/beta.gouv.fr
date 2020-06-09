@@ -1,4 +1,5 @@
 #chart-wrapper {
     position: relative;
+    max-height: 440px;
     height: 60vh;
 }

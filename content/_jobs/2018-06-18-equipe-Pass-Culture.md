@@ -13,7 +13,7 @@ L'équipe produit du Pass Culture s'agrandit et recherche des développeur·se·
 
 Depuis janvier, le Ministère de la Culture a lancé sa 1re Startup d’État, et pas la moindre : la politique d’accès à la culture pour les jeunes ! Venez rejoindre notre équipe au sein de l'Association de Préfiguration du Pass pour développer et exploiter un service simple et pratique pour les usagers :
  * un portefeuille personnalisé des événements/pratiques/oeuvres culturelles disponibles pour les jeunes,
- * un back-office permettant aux acteurs culturels (directeurs de théâtre/producteurs/programmeurs/libraires…) de mettre en avant leurs offres.
+ * un back-office permettant aux acteurs culturels (directeurs de théâtre/producteurs/approcheurs/libraires…) de mettre en avant leurs offres.
 
 ## Équipe et stack techno
 

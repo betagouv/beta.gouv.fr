@@ -2,7 +2,7 @@
 title: Itou
 mission: La réussite pour tous
 owner: la Délégation générale à l’emploi et à la formation professionnelle (DGEFP) & Pôle emploi, appuyé par le Haut-commissariat à l'inclusion dans l'emploi et à l'engagement des entreprises
-incubator: dinsic
+incubator: dinum
 status: construction
 start: 2019-06-10 # date au format ISO (AAAA-MM-DD)
 end: # laisser vide
@@ -37,7 +37,7 @@ L'ambition est de proposer une solution numérique intégrée permettant de leve
 
 ### Finalités
 
-1. **Faciliter l'orientation et l'embauche** de candidats à un emploi accompagné vers des [employeurs solidaires](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/prescripteurs-habilites) (SIAE, GEIQ, EA) en centralisant un registre de l’offre et en refondant l’agrément IAE.
+1. **Faciliter l'orientation et l'embauche** de candidats à un emploi accompagné vers des [employeurs solidaires](https://doc.inclusion.beta.gouv.fr/presentation/employeurs-solidaires) (SIAE, GEIQ, EA) en centralisant un registre de l’offre et en refondant l’agrément IAE.
 2. **Réduire la charge administrative** pour tous les acteurs, et **renforcer le pilotage de l’IAE** afin d'optimiser l'offre d'inclusion sur le territoire.
 3. **Faciliter les échanges entre acteurs de l’inclusion** pour améliorer l’accompagnement des personnes et alimenter les politiques publiques.
 4. **Valoriser l'offre commerciale des employeurs solidaires** afin de développer le nombre d'emplois.
