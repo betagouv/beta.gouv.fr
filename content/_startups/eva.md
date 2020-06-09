@@ -1,19 +1,21 @@
 ---
 title: eva (anciennement Compétences pro)
-mission: Favoriser l’insertion en détectant les compétences transversales et valorisant les potentiels à travers un outil de mise en situation numérique
-
+mission: Favoriser l’insertion en détectant les compétences transversales et
+  valorisant les potentiels à travers un outil de mise en situation numérique
 owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi - DGEFP
 incubator: dinum
 status: construction
-start: 2018-06-06
-end:
 link: https://eva.beta.gouv.fr/
 repository: https://github.com/betagouv/eva/
-stats: true
-stats_url: https://eva.beta.gouv.fr/statistiques/
 contact: contact@eva.beta.gouv.fr
+stats: true
+start: 2018-06-06
+product_launch_date: ""
 redirect_from:
   - /startups/competences-pro
+stats_url: https://eva.beta.gouv.fr/statistiques/
+national_scale_date: ""
+end: null
 ---
 
 ## Problème
