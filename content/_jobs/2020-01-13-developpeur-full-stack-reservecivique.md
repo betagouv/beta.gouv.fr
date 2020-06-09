@@ -1,9 +1,9 @@
 ---
 roles:  développeur.se full stack
 startup: reserve-civique
-techno: NodeJS ,PHP 7 (Laravel), Mysql
+techno: Vue.js ,PHP 7 (Laravel), Mysql
 junior: false
-open: true
+open: false
 ---
 
 
@@ -19,8 +19,8 @@ Suite au déploiement rapide de la Réserve Civique face à la crise sanitaire, 
 
 ## Stack
 
-- Front : NodeJS 12 
-- PHP 7.4 (Laravel)
+- Front : Vue.js 
+- Back : Laravel (PHP 7.4)
 - Nginx Mysql 5.7
 - Tooling : GitHub
 

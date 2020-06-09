@@ -1,10 +1,10 @@
 ---
-roles: Chef·fe de produit (Product Manager) Tech
-title: "L'incubateur de la DINUM recherche : un·e Chef·fe de produit (Product Manager) Tech"
+roles: Chief Product Officer Tech
+title: "L'incubateur de la DINUM recherche : un·e Chief Product Officer Tech"
 open: true
 ---
 
-L'incubateur de la DINUM recherche un·e Chef·fe de produit (Product Manager) Tech pour accompagner les équipes et les mentorer sur des compétences de gestion de produit.
+L'incubateur de la DINUM recherche un·e Chief Product Officer Tech pour accompagner les équipes et les mentorer sur des compétences de gestion de produit.
 
 <!--more-->
 
@@ -17,41 +17,41 @@ La communauté beta.gouv.fr a, depuis la création de la première Startup d'Ét
 ## Missions
 
 - Accompagner les équipes pour les mentorer sur des compétences de gestion de produit ;
-- Etre en appui sur les produits Startups d'État avec une architecture ou des enjeux techniques particuliers ;
+- Etre en appui sur les produits Startups d'État avec des enjeux techniques particuliers ;
 - Organiser des travaux techniques et des équipes de développeurs et développeuses.
 
 ## Activités principales en matière de mentorat
 
-- Mentorer les équipes sur les problématiques produit selon l’orientation technique (méthodologies, priorisation, mesure de l’impact, organisation de l’équipe, efficacité d’outillage, hébergement, architecture collaborative ...) ;
-- Assurer la sélection, le suivi, l’intégration de profils techniques aux seins des équipes produits ;
-- Production de contenu et formation pour permettre aux équipes de monter en compétence ;
-- Accompagner les co-animateurs à monter en compétences sur ces sujets.
+- Mentorer les équipes sur les problématiques produit selon l’orientation de faisabilité technique (priorisation, exécution, mesure de l’impact, organisation de l’équipe, efficacité d’outillage, hébergement, architecture collaborative…) ;
+- Assurer la sélection, le suivi, et l’intégration de profils techniques aux sein des équipes ;
+- Production des contenus et des formations pour permettre aux équipes de monter en compétence ;
+- Accompagner les co-animatrices et les co-animateurs à monter en compétence sur ces sujets.
 
-## Activités principales en matière de pilotage de produit Tech
+## Activités principales en matière de pilotage
 
-Intervention en appui des équipes sur plusieurs services du portefeuille beta.gouv.fr afin d’organiser et de prioriser le travail d’équipes de développeurs/développeuses :
+Intervention en appui des équipes sur plusieurs services du portefeuille beta.gouv.fr, afin d’organiser et de prioriser le travail des équipes de développeurs/développeuses :
 
-- Participer à la priorisation backlog court-terme (± 6 semaines) en lien étroit avec les équipes tech ;
-- Organiser des cycles développements ;
-- Définir et consolider des architectures techniques ;
-- Recette et QA ;
-- Coordination avec les autres fonctions (déploiement, support, opérations, etc.) ;
-- Mesurer et analyser l’impact du produit, mise en place d’outils d’analyse de trafic ;
-- Vision technique produit moyen et long-terme (3 mois → 3 ans).
+- Participer à la priorisation du développement court-terme (± 2/4 semaines) ;
+- Participer à la priorisation de la feuille de route technique à moyen-terme (± 3 mois) ;
+- Définir et consolider des architectures techniques de façon itérative et incrémentale ;
+- Mise en place de l'intégration et du déploiement en continu ;
+- Coordination avec le reste de l'équipe produit (déploiement, support, opérations…) ;
+- Mesurer et analyser l’impact du produit, mise en place d’outils et de méthodes d’analyse d’impact ;
+- Vision produit, y.c. technique, moyen et long-terme (3 mois → 3 ans).
 
 ## Profil recherché
 
 ### Savoirs
 
-- Maîtrise de différents langages informatiques : JS, Python, Elixir, Ruby, etc. ;
-- Connaissance des outils utiles à la gestion de produit (github, trello...) ;
-- Conception et gestion d’architectures complexes.
+- Maîtrise de différents langages informatiques : JS, Python, Elixir, Ruby… ;
+- Connaissance des outils utiles à la gestion de produit (github, trello…) ;
+- Conception et gestion pragmatique d’architectures complexes.
 
 ### Savoir-faire
 
-- Savoir faire des raccourcis pour résoudre les problèmes ;
+- Savoir faire des raccourcis pour résoudre des problèmes ;
 - Avoir l’expérience des problématiques d’hébergement d’application ;
-- Avoir l’expérience d’une posture de leader d’une équipe de développement ;
+- Avoir l’expérience d’une posture de leader d’une ou plusieurs équipes de développement ;
 - Avoir un appétit pour les méthodes type lean startup et une expérience dans le développement d’outils numériques (investigation d’un irritant, définition de solutions, analyse des risques, élaboration et suivi d’indicateurs de performance clés, mobilisation d’une communauté d’utilisateurs) ;
 - Avoir démontré sa capacité à conduire un produit complexe et à intervenir dans un environnement pluridisciplinaire.
 
@@ -64,10 +64,10 @@ Intervention en appui des équipes sur plusieurs services du portefeuille beta.g
 
 ## Modalités
 
-Poste ouvert à temps plein au sein de l'incubateur DINSIC, sous forme de CDD ou de mission pour les agents publics titulaires, pour une durée initiale de 3 ans. Démarrage dès que possible.
+Poste ouvert à temps plein au sein de l'incubateur DINUM, sous forme de CDD ou de mission pour les agents publics titulaires, pour une durée initiale de 3 ans. Démarrage dès que possible.
 
 ## Candidater
 
-Expliquez-nous pourquoi vous avez envie d'intégrer cette équipe et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à dinsic@beta.gouv.fr
+Expliquez-nous pourquoi vous avez envie d'intégrer cette équipe et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à dinum@beta.gouv.fr
 
 À bientôt !

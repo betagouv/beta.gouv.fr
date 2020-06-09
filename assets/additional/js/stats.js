@@ -18,17 +18,6 @@ $.ajax(prefix + "startups.json").done(function(response) {
     raw.constructions.push(startup.attributes.start)
     raw.starts.push(startup.attributes.start)
   })
-    
-  $.ajax(prefix + "seedlings.json").done(function(response) {
-    var seasonStarts = {}
-    response.included.forEach(function(inclusion) {
-      if (inclusion.type == 'season') {
-        seasonStarts[inclusion.id] = inclusion.attributes.start
-      }
-    })
-    response.data.forEach(function(seedling) {
-      raw.starts.push(seasonStarts[seedling.relationships.season.data.id])
-    })
 
     raw.starts.sort()
     var start = new Date(raw.starts[0])

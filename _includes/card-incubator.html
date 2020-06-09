@@ -1,0 +1,33 @@
+{% comment %}
+  Appeler cette page avec un incubateur.
+  Ex : {% include card-incubator.html incubator = incubator %}
+{% endcomment %}
+
+<div class="card">
+    <div class="card__content">
+      <a href="{{ incubator.url }}">
+        <h3>{{ incubator.title }}</h3>
+      </a>
+      <div>
+        {{ incubator.content | markdownify }}
+      </div>
+      <div class="card__meta">
+        <p>{{ incubator.owner }}, {{ incubator.address }}</p>
+      </div>
+    </div>
+  <div class="card__extra">
+    {% if incubator.website %}
+    <div class="label">
+      <a class="card__meta_link" href="{{ incubator.website }}">Site web</a>
+    </div>
+    {% endif %} 
+    {% if incubator.github %}
+    <div class="label">
+      <a class="card__meta_link" href="{{ incubator.github }}">Compte GitHub</a>
+    </div>
+    {% endif %} 
+    <div class="label">
+      <a class="card__meta_link" href="{{ incubator.contact }}">Contacter cet incubateur</a>
+    </div>   
+  </div>
+</div>
