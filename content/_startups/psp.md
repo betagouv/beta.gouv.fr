@@ -33,7 +33,7 @@ La victime peut consulter sa plainte sans se déplacer.
 
 Elle peut récupérer ses documents à tout moment facilement  (notamment pour les transmettre à son assureur).
 
-Elle est notifiée de certains avancements de l’enquête, par exemple que des personnes mises en causes ont été interrogées.
+Elle est notifiée de certains avancements de l’enquête, par exemple que des personnes mises en cause ont été interrogées.
 
 Elle peut contacter l'enquêteur pour fournir des informations complémentaires, voire pour demander à retirer sa plainte.
 
