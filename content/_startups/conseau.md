@@ -22,7 +22,7 @@ Les conséquences des crises sécheresses sont environnementales (forte mortalit
 
 ## Constats et apprentissages
 
-L’investigation conduite a mené à une cartographie des problèmes dont les principaux sont les suivant : 
+L’investigation conduite a mené à une cartographie des problèmes dont les principaux sont les suivants : 
 - **Une gouvernance limitée par la faible qualité des données de prélèvements.** Le manque de données de prélèvement au pas de temps adapté impacte la gestion structurelle de la ressource en eau (il réduit la capacité d’anticipation et notamment de modélisation du phénomène). 
 - **Des difficultés dans la prise de décision par les autorités et des problèmes d’anticipation et d’acceptation pour les usagers.** Les mesures de limitation ou de suspension prises chaque année s’appuient sur des critères et des données hétérogènes et ce manque transparence conduit à des conflits d’usages sur les territoires éprouvant des sécheresses.
 - **Une réglementation peu connue, peu respectée et à l’impact peu mesurable.** La communication des mesures n’est pas à la hauteur des enjeux sur la ressource en eau et mériterait une modernisation.
@@ -43,7 +43,7 @@ Cet axe présente des bénéfices directs tant pour la gestion conjoncturelle de
 ## La solution Cons'eau
 
 La solution Cons'eau permettrait de : 
-- faciliter la maîtrise des prélèvements et la réalisation des démarches administratives pour les exploitants des points de prélèvement 
+- faciliter la maîtrise des prélèvements et la réalisation des démarches administratives pour les exploitants des points de prélèvement ;
 - améliorer la gestion de la sécheresse en créant des données dynamiques sur les prélèvements et un canal de communication avec les exploitants pour les autorités.
 
 Cons’eau serait une application mobile qui envoie régulièrement des notifications aux exploitants des points de prélèvement en eau, l’exploitant devra alors alimenter un cahier de suivi de son ouvrage de prélèvement numérique en prenant une photo de l’index du compteur du point de prélèvement. Le cahier de suivi numérique Cons’eau accompagnerait l’exploitant dans la mise en œuvre des prescriptions générales applicables aux points de prélèvement. 
