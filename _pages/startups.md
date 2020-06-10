@@ -8,7 +8,6 @@ additional_css:
 redirect_from:
   - /portefeuille
   - /startup
-  - /startups
 ---
 
 ## Sur quoi travaillons-nous ?
