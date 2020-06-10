@@ -7,7 +7,7 @@ additional_css:
   - side-panel.css
 ---
 
-L'approche beta.gouv.fr induit des manières de faire différentes pour l’administration. En particulier, elle repose sur trois piliers décrits dans ce manifeste que les partenaires de beta.gouv.fr s'engagent à respecter :
+L'approche beta.gouv.fr induit des manières de faire différentes pour l’administration ; elle permet de garantir que les services numériques que nous produirons seront toujours utiles à quelqu'un, utilisables et utilisés, au service de politiques publiques cohérentes. En particulier, elle repose sur trois piliers décrits dans ce manifeste que les partenaires de beta.gouv.fr s'engagent à respecter :
 
 > ### Les **besoins des utilisateurs** sont prioritaires sur les besoins de l’administration
 > Que ce soient des usagers (citoyens, entreprises, associations, etc) ou des agents publics, l’objectif premier est de **construire un service utile et facile à utiliser**, qui résolve efficacement un problème ou qui contribue à la mise en oeuvre d’une politique publique. Le choix des priorités de développement du service est donc guidé par les retours de ses utilisateurs et non par les besoins de la structure.
@@ -17,5 +17,3 @@ L'approche beta.gouv.fr induit des manières de faire différentes pour l’admi
 >
 > ### Le mode de gestion de l’équipe repose sur la **confiance**.
 > Une fois son objectif fixé, une **autonomie la plus large possible** lui est accordée : l’équipe a toute latitude pour prendre les décisions nécessaires au succès du service ; elle a la main sur les décisions opérationnelles (recrutement, communication, organisation interne, gestion du budget alloué). Les commanditaires veillent à n’imposer aucune des contraintes inhérentes à la structure (comitologie, reporting, communication, achat, standard technologique) afin de garantir à l’équipe un espace de liberté pour innover. En contrepartie de cette autonomie, l’équipe assure une **transparence la plus large possible** sur son travail (code source ouvert, mesure de l’impact publique, démonstrations fréquentes, documentation facilement accessible). 
-
-Pour simpliste en apparence, ce manifeste permet en réalité de valider à tout moment que ce que l’on produit est utile à quelqu’un, et ainsi de bâtir non seulement des services publics numériques, mais bien des politiques publiques cohérentes dans leur ensemble.
