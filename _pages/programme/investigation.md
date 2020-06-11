@@ -45,9 +45,7 @@ beta.gouv.fr constitue l’un des principaux leviers de résolutions de problèm
 
 ##### Quand peut démarrer une phase d'investigation ?
 
-A tout moment. 
-
-Suite à votre prise de contact à l'adresse contact@beta.gouv.fr, nous reviendrons vers vous pour un premier échange et éventuellement pour planifier le début de la phase d'investigation. Celle-ci peut démarrer en quelques jours. Le plus important pour lancer les travaux est qu'un agent public de votre administration puisse être disponible au moins un jour par semaine sur le sujet. Si c'est nécessaire, nous vous aiderons à trouver cet agent (appel à intrapreunariat, identification des agents de votre équipe ayant un profil d'intrapreunariat, etc.)
+A tout moment. Suite à votre prise de contact à l'adresse contact@beta.gouv.fr, nous reviendrons vers vous pour un premier échange et éventuellement pour planifier le début de la phase d'investigation. Celle-ci peut démarrer en quelques jours. Le plus important pour lancer les travaux est qu'un agent public de votre administration puisse être disponible au moins un jour par semaine sur le sujet. Si c'est nécessaire, nous vous aiderons à trouver cet agent (appel à intrapreunariat, identification des agents de votre équipe ayant un profil d'intrapreunariat, etc.)
 
 ##### Qu'obtient l'administration à l'issue de l'investigation ?
 
