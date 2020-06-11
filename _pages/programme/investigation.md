@@ -59,14 +59,10 @@ A la fin de cet accompagnement de 9 semaines, une synthèse est produite et cont
 - une analyse des contraintes pouvant freiner le développement d'une solution ;
 - une recommandation documentée comportant souvent plusieurs scénarii (exemples : construction d’un service numérique, collaboration avec le secteur privé, abandon des travaux, etc). 
 
-##### Combien ça coûte ?
+##### Combien cela coûte-t-il ?
 
-Rien. 
-
-La DINUM finance l'accompagnement par un ou une coach, ainsi que l'appui éventuel d'un ou une designer UX, représentant entre 10 et 15 jours d'accompagnement sur les 9 semaines. De son côté, l'administration qui candidate s'engage à libérer un agent public au moins un jour par semaine pendant la même période. 
+Rien. La DINUM finance l'accompagnement par un ou une coach, ainsi que l'appui éventuel d'un ou une designer UX, représentant entre 10 et 15 jours d'accompagnement sur les 9 semaines. De son côté, l'administration qui candidate s'engage à libérer un agent public au moins un jour par semaine pendant la même période. 
 
 ##### Suis-je obligé de lancer une Startups d’État ou de Territoires après cette investigation ?
 
-Non. 
-
-Notre expérience montre que trois quarts des problèmes que nous étudions ont des solutions qui ne relèvent pas de la méthode beta.gouv.fr. L'objectif de l'investigation est justement de vous éclairer sur les pistes de résolution de votre problème. En fin d'investigation, les suites à donner seront décidées avec vous au cours d'un **comité de lancement**.
+Non. Notre expérience montre que trois quarts des problèmes que nous étudions ont des solutions qui ne relèvent pas de la méthode beta.gouv.fr. L'objectif de l'investigation est justement de vous éclairer sur les pistes de résolution de votre problème. En fin d'investigation, les suites à donner seront décidées avec vous au cours d'un **comité de lancement**.
