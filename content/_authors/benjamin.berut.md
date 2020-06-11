@@ -1,5 +1,5 @@
 ---
-fullname: Benjamin Bérut
+fullname: Benjamin Berut
 role: Intrapreneur
 github: BenjaminBerut
 missions:
