@@ -45,7 +45,7 @@ beta.gouv.fr constitue l’un des principaux leviers de résolutions de problèm
 
 ##### Quand peut démarrer une phase d'investigation ?
 
-Au plus tôt. 
+A tout moment. 
 
 Suite à votre prise de contact à l'adresse contact@beta.gouv.fr, nous reviendrons vers vous pour un premier échange et éventuellement pour planifier le début de la phase d'investigation. Celle-ci peut démarrer en quelques jours. Le plus important pour lancer les travaux est qu'un agent public de votre administration puisse être disponible au moins un jour par semaine sur le sujet. Si c'est nécessaire, nous vous aiderons à trouver cet agent (appel à intrapreunariat, identification des agents de votre équipe ayant un profil d'intrapreunariat, etc.)
 
@@ -65,8 +65,8 @@ Rien.
 
 La DINUM finance l'accompagnement par un ou une coach, ainsi que l'appui éventuel d'un ou une designer UX, représentant entre 10 et 15 jours d'accompagnement sur les 9 semaines. De son côté, l'administration qui candidate s'engage à libérer un agent public au moins un jour par semaine pendant la même période. 
 
-##### Suis-je obligé de lancer une start-up d'Etat après cette investigation ?
+##### Suis-je obligé de lancer une Startups d’État ou de Territoires après cette investigation ?
 
 Non. 
 
-Notre expérience montre que trois quarts des problèmes que nous étudions ont des solutions qui ne relèvent pas de la méthode start-up d'Etat (changement de processus, réorganisation, appel aux services d'un éditeur de logiciel, dématérialisation d'une démarche, etc.). L'objectif de l'investigation est justement de vous éclairer sur les pistes de résolution de votre problème. En fin d'investigation, les suites à donner sont décidées avec vous au cours d'un **comité de lancement**.
+Notre expérience montre que trois quarts des problèmes que nous étudions ont des solutions qui ne relèvent pas de la méthode beta.gouv.fr. L'objectif de l'investigation est justement de vous éclairer sur les pistes de résolution de votre problème. En fin d'investigation, les suites à donner seront décidées avec vous au cours d'un **comité de lancement**.
