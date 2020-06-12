@@ -46,7 +46,7 @@ layout: default
             Le porteur administratif est {{ page.owner }}.
           </li>
           {% comment %} Détection de l'incubateur {% endcomment %}
-          {% capture incubator_id %}/incubateurs/{{ page.incubator }}{% endcapture %}
+          {% capture incubator_id %}/approche/incubateurs/{{ page.incubator }}{% endcapture %}
           {% assign incubator = site.incubators | where:'id', incubator_id | first %}
           <li>L'incubateur est <a href="{{ incubator.url }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.</li>
           <li>
