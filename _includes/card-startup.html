@@ -13,11 +13,9 @@
       <div class="card__meta">
         {{ startup.owner | strip_html }}
       </div>
-      {% if startup.status != 'death'%}
-        <p>
-          {{ startup.mission | strip_html }}
-        </p>
-      {% endif %}
+      <p>
+        {{ startup.mission | strip_html }}
+      </p>
     </div>
   </a>
 </div>

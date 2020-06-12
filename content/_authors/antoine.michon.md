@@ -5,5 +5,5 @@ github: antoinemch
 missions:
   - start: '2019-09-02'
     status: admin
-    employer: DINUM
+    employer: dinum
 ---

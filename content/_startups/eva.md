@@ -3,7 +3,7 @@ title: eva (anciennement Compétences pro)
 mission: Favoriser l’insertion en détectant les compétences transversales et valorisant les potentiels à travers un outil de mise en situation numérique
 
 owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi - DGEFP
-incubator: dinsic
+incubator: dinum
 status: construction
 start: 2018-06-06
 end:

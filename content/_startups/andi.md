@@ -2,7 +2,7 @@
 title: ANDi
 mission: Faciliter l'immersion professionnelle des personnes en situation de handicap
 owner: Caisse des dépôts 
-incubator: dinsic 
+incubator: dinum
 status: construction
 start: 2019-05-16 
 end: 2020-05-15

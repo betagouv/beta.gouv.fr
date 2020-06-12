@@ -1,6 +1,7 @@
 ---
 title: Lab MI
 owner: Ministère de l'Intérieur
+website: https://beta.interieur.gouv.fr/
 contact: mailto:stephane.ritter@interieur.gouv.fr
 address: Immeuble Lumière – 40, avenue des Terroirs de France – 75012 Paris
 ---

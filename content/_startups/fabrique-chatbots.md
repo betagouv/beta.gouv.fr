@@ -12,14 +12,14 @@ contact: frederic.bardolle@def.gouv.fr
 ## Trouver l’info
 Entre les directives, textes légaux, réformes, etc. il est parfois difficile de trouver l’info qui correspond à notre profil, notre situation ou notre projet personnel.
 
-Ce foisonnement d’informations créé de la frustration du côté de ceux qui posent les questions : comment trouver l’info correspondant exactement à ma situation?
+Ce foisonnement d’informations créé de la frustration du côté de ceux qui posent les questions : comment trouver l’info correspondant exactement à ma situation ?
 
-… mais également du côté de ceux qui y répondent : comment faire en sorte que certaines infos soient diffusées à toutes les personnes concernées qui la recherchent?
+… mais également du côté de ceux qui y répondent : comment faire en sorte que certaines infos soient diffusées à toutes les personnes concernées qui la recherchent ?
 
 ## Outiller la diffusion d’informations aux agents du Ministère
-La diffusion d’informations à destination des agents du Ministère des Armés peut être améliorée grâce à un canal de distribution : le chatbot.
+La diffusion d’informations à destination des agents du Ministère des Armées peut être améliorée grâce à un canal de distribution : le chatbot.
 
-D’une part, ce moyen permet aux agents de trouver aisément l’information qu’ils cherchent, et de la retrouver, quand ils le veulent, dans un contexte favorable à leur situation (lorsque sur un navire par exemple).
+D’une part, ce moyen permet aux agents de trouver aisément l’information qu’ils cherchent, et de la retrouver, quand ils le veulent, dans un contexte favorable à leur situation (sur un navire par exemple).
 
 D’autre part, certaines questions étant récurrentes, les réponses sont automatisées, ce qui allège la tâche des agents en charge de ces réponses.
 

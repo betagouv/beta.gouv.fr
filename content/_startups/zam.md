@@ -1,8 +1,8 @@
 ---
 title: Zam
 mission: Alléger la charge de préparation par le gouvernement du débat parlementaire.
-owner: DINSIC
-incubator: dinsic
+owner: DINUM
+incubator: dinum
 status: acceleration
 start: 2018-03-28
 end:

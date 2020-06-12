@@ -1,9 +1,9 @@
 ---
 title: api.gouv.fr
-mission: Faciliter l'accès aux API publiques pour faire émerger de nouveaux services
-owner: DINSIC
-incubator: api_dinsic
-status: consolidation
+mission: Le site qui référence toutes les APIs du service public
+owner: DINUM
+incubator: dinum
+status: success
 start: 2016-01-25
 end:
 link: https://api.gouv.fr
@@ -11,9 +11,26 @@ repository: https://github.com/betagouv/api.gouv.fr
 stats: false
 contact: contact@api.gouv.fr
 redirect_from:
-  - /startups/apigouv
+    - /startups/apigouv
 ---
 
-api.gouv.fr référence les API de l'**État plateforme**, c'est à dire les services électroniques réutilisables proposés par les administrations, centrales, territoriales et hospitalière ainsi que leurs opérateurs.
+## Le problème :
 
-Ces services sont exploitables par des entités publiques, mais aussi en grande partie par le secteur privé : géocodage d'adresse, accès sécurisé à des pièces justificatives pour des personnes physiques ou morales, contextualisation du droit selon des données de l'usager, appartenance à des zonages administratifs, recherche de transports publics… sont autant de ressources exploitables par des éditeurs de logiciels.
+Au sein des administrations, la donnée est une ressource dispersée, hétérogène et difficile d'accès.
+Les organisations qui construisent des services numériques pour les citoyens ou les agents de la fonction publique ont besoin de cette donnée et doivent faire face à :
+
+-   la multiplicité des sources de données et des interlocuteurs
+-   la difficulté d’identifier la bonne source de donnée adaptée au besoin
+-   la difficulté d’obtenir l'accès à la donnée
+-   la difficulté de construire un service fiable avec la donnée
+
+## La solution :
+
+[api.gouv.fr](https://api.gouv.fr) est d’abord un site internet public mais c’est aussi une équipe qui :
+
+-   recense les apis existantes
+-   conseille et accompagne les administrations qui construisent des services numériques
+-   facilite et dématérialise l'accès aux données entre administrations habilitées
+-   rassure et établit une relation de confiance entre les administrations qui construisent des services numériques et celles qui mettent à disposition leurs données
+
+[api.gouv.fr](https://api.gouv.fr) est une startup déja incubée, riche d'une expérience de plusieurs années et des dizaines de services déja accompagnés.

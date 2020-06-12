@@ -45,7 +45,7 @@ Vous voulez agir dès demain matin ? Diffusez dans votre entourage les Startups 
 
 #### Entrepreneurs
 
-Vous avez une idée de startup et vous pensez que l'État devrait la financer ou la réaliser ? Contactez plutôt la [BPI](https://www.bpifrance.fr/) ou un incubateur dans votre région, ils seront plus à même de vous aider. Nos Startups sont simplement des équipes autonomes, elles transforment l'administration et ne [prennent pas de capital](/apropos).
+Vous avez une idée de startup et vous pensez que l'État devrait la financer ou la réaliser ? Contactez plutôt la [BPI](https://www.bpifrance.fr/) ou un incubateur dans votre région, ils seront plus à même de vous aider. Nos Startups sont simplement des équipes autonomes, elles transforment l'administration et ne [prennent pas de capital](/approche).
 
 
 ### Autres
