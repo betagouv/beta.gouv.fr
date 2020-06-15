@@ -15,7 +15,7 @@ end: ""
 
 50% des allocataires de Pôle emploi, soit 1 750 000 personnes, perçoivent moins de 860 € net par mois (source : “Les chiffres qui comptent”, UNEDIC). 
 
-Les aides et allocations liées à la reprise d'activité (prime d’activité, RSA, complément d’allocation de retour à l’emploi, Aide à la Garde d’Enfant pour Parent Isolé, etc.) sont parfois méconnues ou complexes à articuler. Aujourd’hui, une personne qui souhaite connaitre l'impact d'une prise de poste sur ses ressources financières doit effectuer plusieurs simulations sur des sites différents, puis effectuer les calculs manuellement, avec un risque d’erreur et de découragement. Des demandeurs d’emploi ont peur de perdre une partie de leurs ressources en reprenant un emploi. 
+Les aides et allocations liées à la reprise d'activité (prime d’activité, RSA, complément d’allocation de retour à l’emploi, Aide à la Garde d’Enfant pour Parent Isolé, etc.) sont parfois méconnues ou complexes à articuler. Aujourd’hui, une personne qui souhaite connaitre l'impact d'une prise de poste sur ses ressources financières doit effectuer plusieurs simulations sur des sites différents, puis effectuer les calculs manuellement, avec un risque d’erreur et de découragement. Des demandeurs d’emploi peuvent ainsi avoir peur de perdre une partie de leurs ressources en reprenant un emploi. 
 
 Pourrions nous déclencher la reprise d’activité des demandeurs d’emploi en les rassurant sur leurs ressources financières à venir ?
 
