@@ -4,11 +4,13 @@ mission: Évaluer ses droits à 28 aides sociales. En moins de 7 minutes.
 owner: DINUM
 incubator: dinum
 status: alumni
-start: 2014-05-01
-end: 2020-03-03
 link: https://mes-aides.gouv.fr
 repository: https://github.com/betagouv/mes-aides-ui
 contact: contact@mes-aides.gouv.fr
+start: 2014-05-01
+product_launch_date: 2014-10-02
+national_scale_date: 2017-03-10
+end: 2020-03-03
 ---
 
 **[L'approche Startup d'État](https://github.com/betagouv/beta.gouv.fr/wiki/Comment-pr%C3%A9senter-beta.gouv.fr#approche) a été abandonnée par ce service publique numérique. Pour aller directement au post-mortem, c'est [ici](#quelques-éléments-de-contexte).**

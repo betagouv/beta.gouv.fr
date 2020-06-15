@@ -44,7 +44,7 @@ layout: default
                                 <td>{{ startup.mission }}</td>
                                 <td>{{ phase.label }}</td>
 
-                                {% capture incubator_id %}/incubateurs/{{ startup.incubator }}{% endcapture %}
+                                {% capture incubator_id %}/approche/incubateurs/{{ startup.incubator }}{% endcapture %}
                                 {% assign incubator = site.incubators | where:'id', incubator_id | first %}
                                 <td>{{ incubator.title }}</td>
 

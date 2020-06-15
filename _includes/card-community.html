@@ -52,8 +52,7 @@
         <div class="card__extra">
           {%- for startup in total_startups -%}
             {%- capture startup_label -%}{{ label }}{%- endcapture -%}
-            {%- assign is_previously=author.previously contains startup -%}
-            {%- if is_previously -%}
+            {%- if author.previously contains startup -%}
                 {%- capture startup_label -%}label--inactive{%- endcapture -%}
             {%- endif -%}
             {%- if forloop.index > 5 -%}
@@ -69,7 +68,7 @@
               {%- continue -%}
             {%- endif -%}
             {%- if startup == "_alpha_" -%}
-              <div class="label {{ startup_label }}"><a href="/alpha/">Formation Alpha</a></div>
+              <div class="label {{ startup_label }}"><a href="approche/formation">Formation Alpha</a></div>
               {%- continue -%}
             {%- endif -%}
             {%- if startup == "_openfisca_" -%}

@@ -3,7 +3,7 @@ roles:  développeur.se full stack
 startup: reserve-civique
 techno: Vue.js ,PHP 7 (Laravel), Mysql
 junior: false
-open: true
+open: false
 ---
 
 
