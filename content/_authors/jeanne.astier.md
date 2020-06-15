@@ -7,6 +7,6 @@ missions:
     end: '2020-09-30'
     status: admin
     employer: dinum
-startup:
+startups:
   - transport
 ---
