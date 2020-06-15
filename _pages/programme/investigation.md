@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 sidebar: sidebar-approche.html
-title: Phase d'investigation
+title: Investigation
 permalink: /approche/investigation
 additional_css:
   - side-panel.css
@@ -16,7 +16,8 @@ Pendant environ 9 semaines et avec l’accompagnement d’un mentor expériment�
 La phase d'investigation permet de produire une synthèse claire et des recommandations concrètes au bout des 9 semaines d'accompagnement. Nous devrions notamment être en mesure de répondre au questions suivantes : 
 
 #### Le problème
-```- Le problème est-il bien qualifié ? 
+```
+- Le problème est-il bien qualifié ? 
 - Quelle est sa taille (nombre de personnes impactées, fréquence, tendance de progression) ? sa criticité (perte de temps ? d'argent ? impact environnemental ? social ?) 
 - L’investigation a-t-elle apporté des preuves du préjudice causé par ce problème ? 
 - S’agit-il d’un problème qu’une équipe réduite peut traiter, quitte à réduire son périmètre ? 
@@ -24,14 +25,16 @@ La phase d'investigation permet de produire une synthèse claire et des recomman
 ```
 
 #### L'intrapreneur
-```- L’administration a-t-elle identifiée une personne au profil d’intrapreneur ? 
+```
+- L’administration a-t-elle identifiée une personne au profil d’intrapreneur ? 
 - Cette personne a-t-elle du temps à consacrer au sujet (dans l'idéal un temps complet, au minimum 60%) ? 
 - Sait-elle prendre en compte les feedbacks tout en restant ferme sur la vision ? 
 - Bénéficie-t-elle d’une certaine zone d’autonomie au sein de son administration pour expérimenter des solutions et pivoter si nécessaire ?
 ```
 
 #### La stratégie à 6 mois
-```- L’équipe a-t-elle une stratégie qui lui permettra, dans 6 mois, de raconter les premiers usages et les premiers succès réels ? 
+```
+- L’équipe a-t-elle une stratégie qui lui permettra, dans 6 mois, de raconter les premiers usages et les premiers succès réels ? 
 - Le premier périmètre choisi est-il réaliste ? 
 - Y’a-t-il un critère de succès à 6 mois qui témoigne d’un impact réel (hypothèses fortes à valider sur les prochains mois) ? 
 - Un premier groupe de futur utilisateurs est-il déjà intéressé ?
@@ -51,6 +54,7 @@ La phase d'investigation est financée par la Direction interministérielle du n
     - L’agent public a un accès à internet « libre », en particulier il peut accéder aux sites couramment utilisés par les équipes beta.gouv.fr (Slack, Trello, GitHub…) ;
     - L’agent public a un ordinateur portable sur lequel il peut installer en autonomie des logiciels nécessaires à sa mission ;
     - L’agent public est autorisé à ouvrir toutes les portes utiles à sa mission, sans validation préalable, afin d’échanger avec les personnes jugées les plus pertinentes (au sein de son administration ou ailleurs) 
+
 - Obtenir le soutien d'un “**sponsor**” de haut niveau (exemples : directeur ou directrice d'administration aentrale ; directeur ou directrice général(e) des services) qui adhère à la démarche beta.gouv.fr, qui garantit l’autonomie et la liberté de l’équipe et qui s'engage à participer au comité de lancement final. Concrètement l’agent public accompagné par beta.gouv.fr rapporte directement au sponsor plutôt qu’à sa hiérarchie habituelle.
 
 Si à l'issue du comité de lancement final il est décidé de poursuivre le partenariat avec beta.gouv.fr et de passer en phase de construction, le financement de l'équipe de développement est à la charge de l'administration partenaire (environ 200 000 euros via une convention de partenariat public-public pour une équipe produit pendant 6 mois). 
