@@ -2,8 +2,8 @@
 title: data.gouv.fr
 mission: Partager, améliorer et réutiliser les données publiques
 owner: Etalab
-incubator: dinsic
-status: consolidation
+incubator: dinum
+status: success
 start: 2013-06-01
 end:
 link: https://www.data.gouv.fr/

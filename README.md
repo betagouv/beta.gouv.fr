@@ -18,7 +18,7 @@ Le site public de l'Incubateur de Services Numériques de l'État français.
 Ce nom de domaine héberge :
 
 - Une présentation de la méthode Startup d'État et valorisation de ses produits.
-- Une présentation de chaque incubateur de la communauté `beta.gouv.fr` dont l'Incubateur de Services Numériques de la DINSIC, initiateur de la méthode.
+- Une présentation de chaque incubateur de la communauté `beta.gouv.fr` dont l'Incubateur de Services Numériques de la DINUM, initiateur de la méthode.
 - Les membres actifs et anciens des incubateurs
 - Les offres de recrutement de la communauté
 
