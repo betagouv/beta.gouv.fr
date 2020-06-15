@@ -39,7 +39,7 @@ Maintenant! vous met en relation directe avec des employeurs. Tenez-vous prêt �
 
 En septembre 2016, six mois après le lancement du projet, le service est ouvert sur la Bourgogne-Franche Comté et a généré un millier de mises en relation et des dizaines de recrutements.
 
-## Consolidation au sein de Pôle emploi en 2019
+## Transfert à l'offre de service de Pôle emploi en 2019
 
 Sur Maintenant!, les chiffres constatés étaient les suivants (chiffres actualisés pour le premier semestre 2019) : 20% des recruteurs qui utilisent Maintenant! recrutent effectivement ; le temps médian d’une première mise en relation était de 2 minutes pour 875 entretiens déclarés chaque mois. 
 
