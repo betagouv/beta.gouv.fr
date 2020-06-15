@@ -9,7 +9,12 @@ missions:
     end: '2020-05-13'
     status: independent
     employer: Codeurs en Liberté
+  - start: '2020-06-15'
+    end:
+    status: independent
+    employer: octo
 startups:
+    - itou
 previously:
     - andi
 ---
