@@ -1,6 +1,6 @@
 ---
 fullname: Jeanne Astier
-role: Chargé d'accompagnement
+role: Chargée d'accompagnement
 github: JeanneAstier
 missions:
   - start: '2020-06-15'
