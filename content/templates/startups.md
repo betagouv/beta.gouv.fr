@@ -3,7 +3,7 @@ title: Mes Aides # une majuscule et pas d'acronymes
 mission: Accéder aux conseils de professionnels à proximité pour trouver un logement # infinitif, pas de point ; compléter la phrase « En investissant dans ce produit l'État cherche à… »
 owner: DINUM # Administration porteuse
 incubator: dinum # le nom du fichier de l'incubateur de la startup
-status: consolidation # les phases possibles sont définies dans /content/_phases/
+status: transfert # les phases possibles sont définies dans /content/_phases/
 start: 2015-01-15 # date au format ISO (AAAA-MM-DD)
 end: # laisser vide
 link: https://mes-aides.gouv.fr
