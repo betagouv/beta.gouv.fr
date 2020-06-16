@@ -9,4 +9,5 @@ startups:
     - la-bonne-formation
     - zen
     - la-bonne-boite
+    - estime
 ---
