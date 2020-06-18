@@ -70,7 +70,7 @@ Le dossier de candidature doit préciser clairement :
 * Son impact sur le réel chiffré ;
 * En cas de passage à l’échelle réussi, les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois (ex : sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc).
 
-L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de consolidation. 
+L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de transfert. 
 
 [Cliquez ici pour compléter le dossier de candidature avant le lundi 15 juin 23h59.](https://www.demarches-simplifiees.fr/commencer/fast4)
 

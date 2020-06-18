@@ -34,7 +34,7 @@ L’utilisation de cette approche dès le début d’un projet permet de réduir
 Tous les six mois, un comité d’investissement détermine en fonction de l’impact mesuré s’il convient de continuer ou d’arrêter le service. 
 
 Cette approche se décline en général en 4 phases&nbsp;: 
-- une phase d’investigation (6 à 9 semaines) pour mieux cerner le problème à résoudre, comprendre les besoins des personnes concernées et déterminer les hypothèses de solutions susceptibles d’avoir le meilleur impact&nbsp;;
-- une phase de construction (6 à 12 mois) pour tester en conditions réelles une ou plusieurs hypothèses de solutions en conditions réelles mais sur un périmètre réduit, afin de se confronter le plus rapidement possible aux utilisateurs et recueillir des retours&nbsp;; 
-- une phase d’accélération (12 à 24 mois) pour améliorer et déployer le service si son utilité est avérée, avec l’objectif de maximiser son impact&nbsp;;
-- une phase de consolidation (6 mois) pour déterminer la meilleure manière de pérenniser le service, en conservant de préférence une approche centrée sur les utilisateurs dans la durée.
+- une **phase d’investigation** (6 à 9 semaines) pour mieux cerner le problème à résoudre, comprendre les besoins des personnes concernées et déterminer les hypothèses de solutions susceptibles d’avoir le meilleur impact&nbsp;;
+- une **phase de construction** (12 mois) pour tester en conditions réelles une ou plusieurs hypothèses de solutions sur un périmètre réduit, afin de se confronter le plus rapidement possible aux utilisateurs et recueillir des retours&nbsp;; 
+- une **phase d’accélération** (12 mois) pour améliorer et déployer le service si son utilité est avérée, avec l’objectif de maximiser son impact&nbsp;;
+- une **phase de transfert** (6 mois) pour aider l'administration porteuse à pérenniser le service numérique dans une structure propice à maintenir l'approche centrée sur les utilisateurs dans la durée.
