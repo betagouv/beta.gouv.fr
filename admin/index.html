@@ -14,5 +14,23 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms/dist/netlify-cms.js"></script>
+  <script type="text/javascript">
+    // Hack to ensure only the date part is persisted
+    // Force format to YYYY-MM-DD
+    // cf. https://github.com/netlify/netlify-cms/issues/3702
+    var fixDateSerialization = {
+      deserialize: function() {
+        throw 'Not implemented' // Not used, deserialize is never called
+      },
+      serialize: function(value) {
+        if (value === '') {
+          return ''
+        }
+
+        return CMS.moment(value).format('YYYY-MM-DD')
+      }
+    }
+    CMS.registerWidgetValueSerializer('date', fixDateSerialization)
+  </script>
 </body>
 </html>

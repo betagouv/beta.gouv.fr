@@ -8,7 +8,8 @@ missions:
     status: admin
   - end: '2021-06-30'
     start: '2018-07-01'
-    status: dinsic
+    status: admin
+    employer: dinum
 startups:
   - aplus
 ---

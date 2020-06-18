@@ -25,29 +25,23 @@ new Chart(document.querySelector('canvas'), {
     type: 'line',
     data: {
         datasets: [{
-            data: datasets.dinsic.past,
-            label: 'Agents DINUM ', // trailing space to ensure legend complies with French typography rules
-            backgroundColor: '#EAE5A2', // color scheme: credit http://www.colorschemer.com/schemes/viewscheme.php?id=10785
-            steppedLine: true,
-            pointRadius: 0
+            data: datasets.admin,
+            label: 'Agents publics ', // trailing space to ensure legend complies with French typography rules
+            backgroundColor: '#EF7D29',
+            pointRadius: 0,
+            lineTension: 0.3
         }, {
-            data: datasets.admin.past,
-            label: 'Autres agents publics ', // trailing space to ensure legend complies with French typography rules
-            backgroundColor: '#A2EADA',
-            steppedLine: true,
-            pointRadius: 0
-        }, {
-            data: datasets.independent.past,
+            data: datasets.independent,
             label: 'Indépendantes et indépendants ', // trailing space to ensure legend complies with French typography rules
-            backgroundColor: '#C5A2EA',
-            steppedLine: true,
-            pointRadius: 0
+            backgroundColor: '#0048B3',
+            pointRadius: 0,
+            lineTension: 0.3
         }, {
-            data: datasets.service.past,
+            data: datasets.service,
             label: 'Prestataires ', // trailing space to ensure legend complies with French typography rules
-            backgroundColor: '#EAC8A2',
-            steppedLine: true,
-            pointRadius: 0
+            backgroundColor: '#3EA9FF',
+            pointRadius: 0,
+            lineTension: 0.3
         }],
     },
     options: {
@@ -83,32 +77,36 @@ new Chart(document.querySelector('canvas'), {
 function makeTimeSeries(events, splitDate) {
     events = events.slice(); // copy to work in place
 
-    var splitPoint = {
-        date: splitDate,
-        increment: 0
-    };
-
-    events.push(splitPoint);
-
     events.sort(function(first, second) {
         return first.date < second.date ? -1 : 1;
     });
 
     var currentAmount = 0;
-    var points = events.map(function makeAmountPoint(event) {
+    var points = [];
+
+    events.forEach(function(event) {
+        event.date = event.date.slice(0, -2) + '01'; // ne garder que les mois
         currentAmount += event.increment;
-        return {
-            x: event.date,
-            y: currentAmount
-        };
+
+        var toAdd = points.find(function(finalEvent) {
+            return event.date == finalEvent.x;
+        });
+
+        if (toAdd == null) {
+            if (event.date > splitDate) {
+                return;
+            }
+
+            points.push({
+                x: event.date,
+                y: currentAmount
+            });
+        } else {
+            toAdd.y += event.increment;
+        }
     });
 
-    var future = points.splice(events.indexOf(splitPoint));
-
-    return {
-        past: points,
-        future: future
-    }
+    return points;
 }
 
 });

@@ -2,7 +2,7 @@
 title: Ecolab
 mission:  Apporter l'information environnementale au plus près des citoyens
 owner: ADEME
-incubator: dinsic
+incubator: dinum
 status: construction
 start: 2019-01-02 
 end: 
