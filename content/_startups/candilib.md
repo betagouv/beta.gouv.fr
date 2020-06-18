@@ -10,6 +10,7 @@ link: https://beta.interieur.gouv.fr/candilib/
 repository: https://github.com/LAB-MI/candilibV2
 stats: false
 contact: candilib@interieur.gouv.fr
+robots: noindex
 ---
 
 ## Des conditions dégradées pour les candidats libres
