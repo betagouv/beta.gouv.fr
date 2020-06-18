@@ -4,7 +4,7 @@ role: Chargée d'accompagnement
 github: Annelise131
 missions:
   - start: '2020-04-01'
-    end: '2020-06-30'
+    end: '2020-07-31'
     status: independent
     employer: Octo technology
 startups:
