@@ -9,7 +9,7 @@ layout: null
             ,"start": "{{ author.missions.first.start }}"
             ,"end": "{{ author.missions.last.end }}"
             ,"employer": "{{ author.missions.last.status }}/{{ author.missions.last.employer }}"
-            ,"role": "{{ author.role }}"
+            ,"role": "{{ author.role | escape }}"
             {% if author.github %},"github": "{{ author.github }}"{% endif %}
         }
         {% unless forloop.last %},{% endunless %}
