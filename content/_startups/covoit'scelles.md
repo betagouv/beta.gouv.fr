@@ -3,9 +3,9 @@ title: Covoit'Scellés
 mission: L’application de co-voiturage de scellés pour la Police et la Gendarmerie
 owner: Ministère de l'Intérieur
 incubator: lab-mi
-status: construction
+status: death
 start: 2019-11-05
-end:
+end: 2020-06-08
 link: 
 repository: 
 stats: false
@@ -35,8 +35,10 @@ Par exemple, un officier de police en commissariat de Lille doit amener un pisto
 Au final, un voyage quasi à vide pour un pistolet est évité, générant des économies d’essence, de personnel et de CO².
 
 
-## Feuille de route : un test pilote sur la région Rhônes-Alpes Auvergne.
+## Feuille de route : Projet gelé jsque début 2021
 
-Nous souhaitons capitaliser sur un réseau  de commissariats de Police de la Région Rhône-Alpes Auvergne pratiquant déjà le co-voiturage de façon informelle, donc convaincus de l’intérêt, et si possible  des brigades territoriales de Gendarmerie.  
+Le projet est mis en pause jusque 2021. l'intrapreneuse est engagée sur le lancement du projet HubScellé pour optimiser la chaîne logistique globale des scellés. Covoit'scellé pourra s'inscrire dans la feuille de route de Hub Scellé à partir de 2021.
+
+Nous souhaiterons capitaliser sur un réseau  de commissariats de Police de la Région Rhône-Alpes Auvergne pratiquant déjà le co-voiturage de façon informelle, donc convaincus de l’intérêt, et si possible  des brigades territoriales de Gendarmerie.  
 
 Ils formeront un noyau d’utilisateurs avertis pour co-créer un outil adaptés à leurs besoins. Ultérieurement ils deviendront des références et ambassadeurs pour déployer naturellement l’outil auprès de leurs collègues d’autres services et d’autres régions.
