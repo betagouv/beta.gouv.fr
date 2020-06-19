@@ -1,4 +1,3 @@
-
 ---
 title: PSIJ (Portail de Saisine de l'Identité Judiciaire)
 mission: Systématiser la recherche d'indices et traces
@@ -43,6 +42,4 @@ PSIJ sera un outil développé au niveau national permettant une homogénéisati
 Les tests de PSIJ débuteront mi-mars 2020 auprès des agents de Police Secours du Commissariat de Villeurbanne dans le Rhône. Le tests  s’assureront qu’il réponde aux attentes de simplicité et rapidité de saisie. 
 Les tests continueront avec les agents d’Identité Judiciaire au cours du deuxième trimestre 2020. 
 Des taux de 100% de couverture et  de 80% de satisfaction de la solution sont attendus.
-
-
 
