@@ -2,7 +2,7 @@
 title: Oz Ensemble
 mission:  Offrir à tous un accès simple aux soins en addictologie
 owner: ARS IdF
-incubator: Fabrique Numérique MAS
+incubator: sgmas
 status: construction
 start: 2020-01-01 
 end: 
@@ -35,4 +35,3 @@ La solution Oz Ensemble développée par les patients consultés va permettre de
 
 Ainsi, nous souhaitons favoriser le passage vers une démarche de soin en s'appuyant sur la motivation du patient quand il pourra par lui-même constater son problème sur la période dont il aura besoin pour assurer cette prise de conscience.
 Cet outil s'intégrera dans l'arsenal des orienteurs et est particulièrement plébiscité par ceux-ci. En effet, pour d'autres pathologies, la mise à disposition d'un outil d'automesure a démontré l'efficacité sur la prise de conscience des troubles par les patients. La combinaison avec l'orientation vers des structures adaptées permettra une identification facile des centres par le patient le jour où il sera prêt.
-
