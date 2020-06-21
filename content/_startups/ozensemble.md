@@ -12,7 +12,7 @@ stats: false
 contact: contact@ozensemble.fr
 ---
 
-#   Le défaut d'accès aux soins condamnent les personnes souffrant de conduites addictives
+##   Le défaut d'accès aux soins condamnent les personnes souffrant de conduites addictives
 
 Aujourd’hui en France, 5 millions de personnes souffrent d’une dépendance à l’alcool qui reste la deuxième cause de mortalité prématurée évitable après le tabac.  
 
