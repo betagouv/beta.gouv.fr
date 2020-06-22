@@ -1,7 +1,7 @@
 ---
 title: Place de marché de l'inclusion
 mission: Promouvoir l'offre commerciale des structures inclusives pour accroître leur capacité d'embauche
-owner: Itou
+owner: Délégation générale à l’emploi et à la formation professionnelle (DGEFP), Itou 
 incubator: dinum
 status: construction
 start: 2020-03-16
@@ -12,8 +12,6 @@ stats: false
 stats_url:
 contact: contact@inclusion.beta.gouv.fr
 ---
-
-## Fiche produit
 
 **Problème**
 
