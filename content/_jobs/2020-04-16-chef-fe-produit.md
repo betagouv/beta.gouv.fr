@@ -1,7 +1,7 @@
 ---
 roles: Chief Product Officer Tech
 title: "L'incubateur de la DINUM recherche : un·e Chief Product Officer Tech"
-open: true
+open: false
 ---
 
 L'incubateur de la DINUM recherche un·e Chief Product Officer Tech pour accompagner les équipes et les mentorer sur des compétences de gestion de produit.
