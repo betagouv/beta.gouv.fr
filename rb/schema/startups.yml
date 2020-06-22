@@ -48,3 +48,5 @@ mapping:
     type:      seq
     sequence:
         - type:      str
+  "robots":
+    type:      str

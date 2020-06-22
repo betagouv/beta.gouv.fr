@@ -5,6 +5,10 @@
     <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 
+    {% if page.robots %}
+      <meta name="robots" content="{{page.robots}}" />
+    {% endif %}
+    
     {% assign description = page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
     <meta name="description" content="{{ description }}">
     <meta property="og:description" content="{{ description }}">
