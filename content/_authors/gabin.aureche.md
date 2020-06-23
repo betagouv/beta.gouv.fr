@@ -1,5 +1,5 @@
 ---
-fullname: Gabin Audrèche !
+fullname: Gabin Aureche
 role: Développeur
 github: zhouzi
 link: https://gabinaureche.com/
@@ -9,6 +9,6 @@ missions:
     status: independent
     employer: Fabrique Numérique du Ministère de l'Ecologie
 startups: 
-    - trackdéchets
+    - trackdechets
 
 ---
