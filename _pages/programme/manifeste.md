@@ -7,16 +7,13 @@ additional_css:
   - side-panel.css
 ---
 
-Nous faisons partie d’un réseau d’incubateurs de Startups d’État et de Territoires qui :
+beta.gouv.fr introduit une nouvelle manière de concevoir l'action publique ; son approche permet de garantir que les services numériques que nous produirons seront toujours utiles à quelqu'un, utilisables et utilisés, parce qu'ils répondent à un vrai problème. En particulier, elle repose sur trois piliers décrits dans ce manifeste que les partenaires de beta.gouv.fr s'engagent à respecter :
 
-> ### Considère les **besoins des usagers** avant ceux de l’**administration**
-> Il cible ses investissements sur des sujets qui en valent la peine, c’est-à-dire où existe un réel irritant supporté par des milliers ou des millions de personnes. Il ne soutient pas d’investissement qui n’ait obtenu de plébiscite usagers au-delà de 6 mois, il incite donc à la confrontation la plus rapide au terrain.
+> ### Les **besoins des utilisateurs** sont prioritaires sur les besoins de l’administration
+> Que ce soient des usagers (citoyens, entreprises, associations, etc) ou des agents publics, l’objectif premier est de **construire un service utile et facile à utiliser**, qui résolve efficacement un problème ou qui contribue à la mise en oeuvre d’une politique publique. Le choix des priorités de développement du service est donc guidé par les retours de ses utilisateurs et non par les besoins de la structure.
 >
-> ### Pilote ses équipes **par la finalité** plus que **par les moyens**
-> Son mode de gestion repose sur la confiance. Une autonomie maximale est concédée aux équipes, pilotées uniquement par leurs objectifs d’impact et non par leurs moyens. Il veille en particulier à ne leur imposer aucune des contraintes inhérentes à la structure (comitologie, communication, achat, standard technologique…).
+> ### L’équipe travaille **sans préjuger à l'avance du résultat final** et progresse en se confrontant le plus rapidement possible à de premiers utilisateurs
+>  Dans un premier temps, la nature et l'étendue des besoins des utilisateurs ne sont pas déterminées avec précision. L’équipe lance rapidement une première version fonctionnelle du service de façon à tester son utilité et à l’ajuster selon les retours du terrain par des améliorations successives, appelées « itérations » ; le service, imparfait au départ, s’améliore en continu pour élargir progressivement le périmètre couvert et maximiser son impact. En particulier, **l'équipe ne suit jamais de cahier des charges**.
 >
-> ### **S'améliore en continu** plus qu’il n'**obéit à un plan**
-> Il s’impose à lui-même la méthode frugale et incrémentale qu’il promeut. En particulier, son objectif initial est de lancer le plus rapidement possible une première startup puis d’améliorer en continu ses méthodes, ses produits et les compétences de ses membres. Dans son portefeuille, rien n’est en maintenance, tout est soit en vie, soit stoppé.
-
-Pour simpliste en apparence, ce manifeste permet en réalité de valider à tout moment que ce que l’on produit est utile à quelqu’un, et ainsi de bâtir non seulement des services publics numériques, mais bien des politiques publiques cohérentes dans leur ensemble.
-
+> ### Le mode de gestion de l’équipe repose sur la **confiance**.
+> Une fois son objectif fixé, une **autonomie la plus large possible** lui est accordée : l’équipe a toute latitude pour prendre les décisions nécessaires au succès du service ; elle a la main sur les décisions opérationnelles (recrutement, communication, organisation interne, gestion du budget alloué). Les commanditaires veillent à imposer le minimum des contraintes inhérentes à la structure (comitologie, reporting, communication, achat, standard technologique) afin de garantir à l’équipe un espace de liberté pour innover. En contrepartie de cette autonomie, l’équipe assure une **transparence la plus large possible** sur son travail (code source ouvert, mesure de l’impact publique, démonstrations fréquentes, documentation facilement accessible). 
