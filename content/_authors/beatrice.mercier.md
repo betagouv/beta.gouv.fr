@@ -10,6 +10,10 @@ missions:
     end: '2020-05-13'
     status: admin
     employer: dinum
+  - start: '2020-06-15'
+    end: '2023-06-14'
+    status: admin
+    employer: dinum
 startups:
     - transport
 ---

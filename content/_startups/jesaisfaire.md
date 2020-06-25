@@ -3,9 +3,9 @@ title: JeSaisFaire
 mission: Réconcilier acheteurs et PME avec les marchés publics.
 owner: Ministère de l'Intérieur
 incubator: lab-mi
-status: investigation
+status: death
 start: 2019-11-05
-end:
+end: 2020-06-08
 link:
 repository:
 stats: false
@@ -52,4 +52,4 @@ En outre, cette démarche favorisera l'accès de PME à des marchés mieux cadr�
 
 ## Stratégie de déploiement
 
-JeSaisFaire est en phase d’exploration. Nous comptons tester un prototype de la solution sur le domaine des achats SI sur le 77 au 3eme trimestre 2020.
+Suite à la phase d'investigation, l'intrapreneur n'est plus disponible pour poursuivre. Le comité d'investissement a acté l'arrêt de la startup.

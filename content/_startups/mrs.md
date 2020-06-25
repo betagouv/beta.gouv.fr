@@ -3,7 +3,7 @@ title: Mes remboursements simplifiés (MRS)
 mission: Simplifier et accélérer le remboursement des frais d'utilisation du véhicule personnel ou des transports en commun
 owner: CNAMTS / CPAM de la Haute-Garonne (31)
 incubator: dinum
-status: consolidation
+status: transfert
 start: 2017-10-01
 end:
 link: https://mrs.beta.gouv.fr
@@ -34,4 +34,4 @@ MRS permet la promotion du véhicule personnel ou des transports en commun, solu
 
 ## Déploiement national
 
-En juin 2019, au vu du succès de MRS, la CNAM décide de déployer le service au national. La phase de consolidation débute à l'été 2019 et se poursuit début 2020 pour assurer la pérennisation du service.
+En juin 2019, au vu du succès de MRS, la CNAM décide de déployer le service au national. La phase de transfert débute à l'été 2019 et se poursuit début 2020 pour assurer la pérennisation du service.
