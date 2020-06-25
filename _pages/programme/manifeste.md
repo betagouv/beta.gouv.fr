@@ -7,7 +7,7 @@ additional_css:
   - side-panel.css
 ---
 
-L'approche beta.gouv.fr induit des manières de faire différentes pour l’administration et la mise en œuvre des politiques publiques ; elle permet de garantir que les services numériques que nous produirons seront toujours utiles à quelqu'un, utilisables et utilisés, parce qu'ils répondent à un vrai problème. En particulier, elle repose sur trois piliers décrits dans ce manifeste que les partenaires de beta.gouv.fr s'engagent à respecter :
+beta.gouv.fr introduit une nouvelle manière de concevoir l'action publique ; son approche permet de garantir que les services numériques que nous produirons seront toujours utiles à quelqu'un, utilisables et utilisés, parce qu'ils répondent à un vrai problème. En particulier, elle repose sur trois piliers décrits dans ce manifeste que les partenaires de beta.gouv.fr s'engagent à respecter :
 
 > ### Les **besoins des utilisateurs** sont prioritaires sur les besoins de l’administration
 > Que ce soient des usagers (citoyens, entreprises, associations, etc) ou des agents publics, l’objectif premier est de **construire un service utile et facile à utiliser**, qui résolve efficacement un problème ou qui contribue à la mise en oeuvre d’une politique publique. Le choix des priorités de développement du service est donc guidé par les retours de ses utilisateurs et non par les besoins de la structure.
