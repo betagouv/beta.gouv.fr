@@ -9,7 +9,7 @@ missions:
       status: independent
       employer: Octo
 startups:
-    - access4all
+    - acceslibre
 previously:
     - egapro
 ---
