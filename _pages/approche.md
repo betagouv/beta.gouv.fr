@@ -14,7 +14,7 @@ additional_css:
 Nous formons des équipes pluridisciplinaires constituées de personnes engagées au service de l'intérêt général, qu'elles viennent du secteur privé ou du secteur public. Nous intégrons des agents publics appelés "**intrapreneurs**" au sein de ces équipes, et nous favorisons leur passage à l'action pour améliorer le service public de l'intérieur.
 
 > Notre travail vise à&nbsp;: 
-> - **simplifier** la vie des usagers, des entreprises ou des agents publics : [démarches-simplifiées](https://www.demarches-simplifiees.fr/), [Code du travail numérique](https://beta.gouv.fr/startups/codedutravail.html), [Mon entreprise](https://beta.gouv.fr/startups/mon-entreprise.html)&nbsp;;
+> - **simplifier** la vie des usagers, des entreprises ou des agents publics : [démarches-simplifiées](https://beta.gouv.fr/startups/demarches-simplifiees.fr.html), [Code du travail numérique](https://beta.gouv.fr/startups/codedutravail.html), [Mon entreprise](https://beta.gouv.fr/startups/mon-entreprise.html)&nbsp;;
 > - **améliorer** l’efficacité de certaines politiques publiques grâce au levier du numérique : [La Bonne Boîte](https://beta.gouv.fr/startups/la-bonne-boite.html), [Administration +](https://beta.gouv.fr/startups/aplus.html), [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html)&nbsp;;
 > - **construire** des services publics nouveaux dans des domaines où la puissance publique n’était pas encore présente : [Pix](https://beta.gouv.fr/startups/pix.html), [transport.data.gouv.fr](https://beta.gouv.fr/startups/transport.html), [le registre de preuve de covoiturage](https://beta.gouv.fr/startups/preuve-de-covoiturage.html)
 
