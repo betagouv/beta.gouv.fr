@@ -24,15 +24,15 @@ Comment une personne en situation de handicap fait-elle pour savoir si elle pour
 
 Pourtant, les exploitants de ces établissements recevant du public (ERP), les services de l’État, les collectivités détiennent des informations mais aujourd’hui, ces informations sont émiettées dans différents services, ne sont pas homogènes, et ne sont pas suffisamment mises à disposition du grand public.
 
-## Le service : Access-4-All, la plateforme collaborative pour l’accessibilité
+## Le service : Acceslibre, la plateforme collaborative pour l’accessibilité
 
-En capitalisant les données des différents acteurs de l’accessibilité sur une plateforme unique, Access-4-All a pour objectif de permettre à l’usager en situation de handicap d’avoir accès aux informations indispensables pour savoir s’il pourra accéder à tel ou tel établissement. Il pourra également visualiser les établissements accessibles à son handicap dans un périmètre de son choix. L’utilisateur pourra contribuer de manière collaborative à enrichir la base en faisant un retour sur son expérience.
+En capitalisant les données des différents acteurs de l’accessibilité sur une plateforme unique, Acceslibre a pour objectif de permettre à l’usager en situation de handicap d’avoir accès aux informations indispensables pour savoir s’il pourra accéder à tel ou tel établissement. Il pourra également visualiser les établissements accessibles à son handicap dans un périmètre de son choix. L’utilisateur pourra contribuer de manière collaborative à enrichir la base en faisant un retour sur son expérience.
 
 Pour les exploitants, cette plateforme permettra de mettre en valeur les travaux de mise en accessibilité réalisés et de valoriser les prestations offertes.
 
 Pour les services en charge de la promotion/contrôle de l’accessibilité, le regroupement de ces données permettra d’avoir une vision globale de l’accessibilité des établissements et ainsi de mieux cibler la stratégie à mener pour faire progresser la politique de l’accessibilité.
 
-Access-4-All s’insère également dans le paysage plus vaste de l’accessibilité, en apportant sa pierre à l’accessibilité de la chaine de déplacement, en complémentarité des données sur la voirie et les transports.
+Acceslibre s’insère également dans le paysage plus vaste de l’accessibilité, en apportant sa pierre à l’accessibilité de la chaine de déplacement, en complémentarité des données sur la voirie et les transports.
 
 ## Les prochaines étapes : Définition d’un standard de données, collecte et mise à disposition
 
