@@ -6,7 +6,6 @@ incubator: mtes
 status: investigation 
 start: 2020-03-01
 end:
-link: construction
 repository:
 stats: false
 contact: brigitte.loubet@developpement-durable.gouv.fr
