@@ -12,12 +12,12 @@ missions:
     status: independent
     employer: cadresenmission
   - start: '2020-04-06'
-    end: '2020-06-30'
+    end: '2020-09-30'
     status: independent
     employer: octo+cadresenmission
 startups:
-  - perspectives
   - signaux-faibles
 previously:
   - signalement
+  - perspectives
 ---
