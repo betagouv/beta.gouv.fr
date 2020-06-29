@@ -13,7 +13,7 @@ product_launch_date: ""
 national_scale_date: ""
 end: null
 redirect_from:
-    - /startups/acces4all
+    - /startups/access4all
 ---
 
 ## Le problème : Le manque d’information sur l’accessibilité des lieux
