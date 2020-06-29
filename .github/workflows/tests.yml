@@ -17,6 +17,15 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.6
+    - uses: actions/cache@v2
+      with:
+        path: |
+          vendor/bundle
+          ~/.local
+          ~/.cache
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
     - name: Install dependencies
       run: bundle check || bundle install --path vendor/bundle
     - name: Install Pip
