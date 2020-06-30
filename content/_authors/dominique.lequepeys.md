@@ -11,6 +11,7 @@ startups :
   - histovec
   - candilib
   - polex
+  - chauffage-urbain
 ---
 
 Coach startup<br>
