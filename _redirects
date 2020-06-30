@@ -1,6 +1,8 @@
-# Réécrire les anciens liens vers les pages startups et incubateurs
-/incubateur/*  /incubateurs/:splat
+# Réécrire les anciens liens vers les pages startups, incubateurs et alpha
+/incubateur/*  /approche/incubateurs/:splat
+/incubateurs/*  /approche/incubateurs/:splat
 /startup/*  /startups/:splat
+/alpha/mooc/*  /approche/formation/mooc/:splat
 
 # Gérer la redirection vers blog.beta.gouv.fr
 

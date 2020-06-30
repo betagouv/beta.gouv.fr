@@ -22,7 +22,7 @@ Nous sommes aujourd’hui une équipe de 7 personnes : 3 développeurs (Antoine,
 
 L’équipe est financée par le Ministère chargé des Transports qui nous laisse une autonomie totale sur la communication, l’agenda, les outils utilisés, la gestion du budget et les recrutements. En particulier, nous n’exécutons pas de cahier des charges, ne dépendons pas de circuits de validation et tentons de limiter les réunions internes au strict minimum pour laisser le temps à chacun de s’organiser comme il s’entend pour être le plus efficace possible.
 
-Nous travaillons à l’incubateur de services numériques de la Direction interministérielle du numérique (DINSIC), mais avons de nombreuses interactions avec les équipes voisines d’Etalab (qui sont notamment en charge de l’ouverture des données publiques et qui gèrent la plateforme data.gouv.fr). Notre feuille de route est guidée par les besoins de nos utilisateurs et par notre objectif partagé de rendre l’ouverture des données tranport la plus rapide et la plus utile possible pour améliorer l’information des voyageurs sur l’ensemble du territoire français, dans les grandes métropoles comme dans les zones rurales.
+Nous travaillons à l’incubateur de services numériques de la Direction interministérielle du numérique (DINUM), mais avons de nombreuses interactions avec les équipes voisines d’Etalab (qui sont notamment en charge de l’ouverture des données publiques et qui gèrent la plateforme data.gouv.fr). Notre feuille de route est guidée par les besoins de nos utilisateurs et par notre objectif partagé de rendre l’ouverture des données tranport la plus rapide et la plus utile possible pour améliorer l’information des voyageurs sur l’ensemble du territoire français, dans les grandes métropoles comme dans les zones rurales.
 
 Nos bureaux sont à Paris, avenue de Ségur, mais nous travaillons ponctuellement d’un peu partout. Nous sommes profondément intégrés à la communauté beta.gouv.fr, interagissons régulièrement avec d’autres équipes intervenant sur d’autres Startups d’État pour partager nos expériences respectives et participons fréquemment au standup et au séminaire.
 
@@ -36,7 +36,7 @@ Par notre travail, nous cherchons à montrer que des équipes autonomes, respons
 
 Au titre de Startup d’État, l’équipe de transport.data.gouv.fr fait partie de la communauté beta.gouv.fr, qui réunit plus de 250 personnes au profil d’innovateur, d’entrepreneur ou d’intrapreneur publics travaillant au sein d’administrations et qui se conforment à notre manifeste.
 
-En rejoignant transport.data.gouv.fr qui est incubée à la DINSIC, dans l’un des 6 incubateurs du réseau beta.gouv.fr, vous rejoindrez une communauté profondément pluridisciplinaire, qui s’efforcera de vous fournir tout le soutien nécessaire à la résolution de vos problèmes au quotidien. Vous pourrez notamment participer à ses formations, ses ateliers de partage d’expérience, et bien sûr à ses pots, en général les mercredis soirs.
+En rejoignant transport.data.gouv.fr qui est incubée à la DINUM, dans l’un des 6 incubateurs du réseau beta.gouv.fr, vous rejoindrez une communauté profondément pluridisciplinaire, qui s’efforcera de vous fournir tout le soutien nécessaire à la résolution de vos problèmes au quotidien. Vous pourrez notamment participer à ses formations, ses ateliers de partage d’expérience, et bien sûr à ses pots, en général les mercredis soirs.
 
 ### Le produit
 

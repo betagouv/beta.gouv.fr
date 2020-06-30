@@ -5,7 +5,7 @@ github: mau-eco
 missions:
   - start: '2020-03-30'
     status: admin
-    employer: Minsitère de la Santé
+    employer: Ministère de la Santé
 startups:
     - ecosante
 ---

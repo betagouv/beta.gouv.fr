@@ -2,8 +2,8 @@
 title: geo.data.gouv.fr
 mission: Trouver facilement les données géographiques dont vous avez besoin
 owner: Etalab
-incubator: dinsic
-status: consolidation
+incubator: dinum
+status: alumni
 start: 2015-01-01
 end:
 link: https://geo.data.gouv.fr

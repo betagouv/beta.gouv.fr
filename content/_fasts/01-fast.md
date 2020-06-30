@@ -1,15 +1,22 @@
 ---
-title: Les lauréats 
-sidebar: sidebar-fast.html
+title: FAST 1 -  Juin 2019
+sidebar: sidebar-approche.html
 ---
 
-FAST 1 - Juin 2019 : 
-- Poubelles Battle, faciliter le compostage en ville.
-- Trait d’Union, favoriser l’insertion des demandeurs d’emploi sur le marché du travail.
-- Académie de Nancy, rendre l’école plus inclusive en facilitant les démarches que doivent accomplir des parents d’élèves en situation de handicap.
+## [FAST 1 - Juin 2019](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/)
 
-FAST 2 - Novembre 2019 :
-- Trackdéchets, faciliter le suivi du traitement des déchets dangereux.
-- Cmachance, mise en relation entre artisans et apprentis. 
-- Lapins, réduire les rendez-vous non honorés dans les maisons départementales de solidarités.
-- Classe à 12, faciliter le passage en classe à 12 pour les professeurs de CP en REP et REP+.
+### **Le comité d'investissement :** ###
+- Nadi Bou Hanna (Directeur interministériel du numérique, président du comité)
+- Laurent Michel (SGPI)
+- Benoit Laroche de Roussane (Direction du Budget)
+- Thierry Legoff (DGAFP)
+- Charles-Edouard Vincent (patron Lulu dans ma rue, Emmaus Defi)
+- Néjia Lanouar (directrice des services numériques de la Ville de Paris)
+- Nicolas Gaudemet (écrivain et ex-dircab secrétaire d’Etat au numérique)
+- Axel Dauchez (make.org)
+- Clémence Pene, C40Cities
+
+### **Les lauréats Fast 1 :** ###
+1. Poubelles Battle, faciliter le compostage en ville.
+2. Trait d’Union, favoriser l’insertion des demandeurs d’emploi sur le marché du travail.
+3. Académie de Nancy, rendre l’école plus inclusive en facilitant les démarches que doivent accomplir des parents d’élèves en situation de handicap.

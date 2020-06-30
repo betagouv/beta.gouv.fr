@@ -3,15 +3,15 @@ fullname: Jérôme Desboeufs
 role: Développeur
 github: jdesboeufs
 missions:
-  - employer: ''
-    end: '2015-03-09'
+  - end: '2015-03-09'
     start: '2014-03-10'
-    status: dinsic
+    employer: dinum
+    status: admin
   - employer: Octo
     end: '2015-09-09'
     start: '2015-03-10'
     status: service
-  - employer: Living Data
+  - employer: 'Living Data'
     end:
     start: '2015-09-18'
     status: independent

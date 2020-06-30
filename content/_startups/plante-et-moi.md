@@ -1,8 +1,8 @@
 ---
 title: Plante & Moi
 mission: Augmenter la présence de la nature en ville
-owner: DINSIC
-incubator: dinsic
+owner: DINUM
+incubator: dinum
 status: construction
 start: 2016-10-01
 end:
