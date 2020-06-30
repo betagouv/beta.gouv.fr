@@ -2,21 +2,22 @@
 fullname: Pieterjan Montens
 role: Full-stack / DevOps / Data Something
 github: PieterjanMontens
-avatar: 
+avatar: null
 link: http://pieterjan.montens.net
 missions:
-  - start: '2019-07-09'
-    end: '2020-05-13'
+  - start: 2019-07-09
+    end: 2020-05-13
     status: independent
     employer: Codeurs en Liberté
-  - start: '2020-06-15'
-    end:
+  - start: 2020-06-15
+    end: 2020-09-30
     status: independent
     employer: octo
 startups:
-    - itou
+  - itou
+  - place-de-marche-inclusion
 previously:
-    - andi
+  - andi
 ---
 
 42
