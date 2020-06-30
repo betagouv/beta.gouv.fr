@@ -4,7 +4,7 @@ role: Coach
 github: damiendufourd
 missions:
   - start: '2018-09-04'
-    end: '2020-06-30'
+    end: '2020-12-30'
     status: independent
 startups:
   - diagoriente
