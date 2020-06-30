@@ -1,6 +1,6 @@
 ---
 fullname: Baptiste N'Tsama
-github: sw1n
+github: Sw1n
 role: Coach
 missions:
   - start: '2020-02-20'
