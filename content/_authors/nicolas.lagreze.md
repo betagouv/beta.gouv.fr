@@ -5,10 +5,14 @@ link: https://www.linkedin.com/in/nlagreze/
 github: nlagreze
 missions:
   - start: '2018-04-05'
-    end: '2020-06-30'
+    end: '2020-12-31'
     status: independent
 startups:
-    - ARS Ile de France
+    - ozensemble
+    - reserve-civique
+previously:
+    - pop
+    - eac   
 ---
 
 Step by step we reach the top.
