@@ -21,7 +21,7 @@ layout: default
 
 {%- assign start_dates = ", " | split: ", " -%}
 {%- for author in authors -%}
-  {%- assign start_date_to_concat = author.missions.first.start | append: ", " | split: ", " -%}
+  {%- assign start_date_to_concat = author.missions.first.start | date: "%Y-%m-%d" | split: " " -%}
   {%- assign start_dates = start_dates | concat: start_date_to_concat -%}
 {%- endfor -%}
 {%- assign start_dates = start_dates | uniq -%}
@@ -42,8 +42,9 @@ layout: default
     {%- continue -%}
   {%- endif -%}
   {%- for author in authors -%}
-    {%- if author.missions.first.start == start_date -%}
-      {%- capture end_date_as_string -%}{{ author.missions.last.end }}{%- endcapture -%}
+    {%- capture start_date_as_string -%}{{ author.missions.first.start | date: "%Y-%m-%d" }}{%- endcapture -%}
+    {%- if start_date_as_string == start_date -%}
+      {%- capture end_date_as_string -%}{{ author.missions.last.end | date: "%Y-%m-%d" }}{%- endcapture -%}
       {%- if end_date_as_string == '' or end_date_as_string > build_date -%}
         {%- capture to_append -%}
           {%- include card-community.html author=author -%}

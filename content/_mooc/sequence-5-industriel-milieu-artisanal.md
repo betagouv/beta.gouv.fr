@@ -30,6 +30,6 @@ order: 5
   <div class="video-iframe-container">
     <iframe src="https://www.dailymotion.com/embed/video/x6xkf63" allowfullscreen></iframe>
   </div>
-  <p>Philippe Vrignaud - Directeur de projets DINUM et Serial Intrapreur beta.gouv.fr</p>
+  <p>Philippe Vrignaud - Directeur de projets DINUM et Serial Intrapreneur beta.gouv.fr</p>
   <p><a href="/content/docs/mooc/23-lancez-vous-avec-demarches-simplifiees.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
