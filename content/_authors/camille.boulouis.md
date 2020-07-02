@@ -6,6 +6,7 @@ missions:
     end: '2022-12-31'
     status: service
     employer: Ministère des armées
+github: camille-boulouis
 startups:
     - fabrique-chatbots
 ---
