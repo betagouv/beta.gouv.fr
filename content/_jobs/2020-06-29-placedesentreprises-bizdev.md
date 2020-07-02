@@ -2,7 +2,7 @@
 roles: Un·e Chargé·e de Développement — Responsable de la Qualité
 startup: placedesentreprises
 junior: true
-open: true  
+open: false  
 ---
 
 # Place des Entreprises recrute
