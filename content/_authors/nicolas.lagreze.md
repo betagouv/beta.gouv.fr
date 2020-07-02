@@ -8,11 +8,11 @@ missions:
     end: '2020-12-31'
     status: independent
 startups:
-    - pop
-    - eac
     - ozensemble
     - reserve-civique
-    - ARS Ile de France
+previously:
+    - pop
+    - eac   
 ---
 
 Step by step we reach the top.
