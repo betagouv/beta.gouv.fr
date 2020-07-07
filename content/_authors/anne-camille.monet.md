@@ -8,6 +8,7 @@ missions:
     employer: pole-emploi
 startups:
     - clara
+    - apprentissage
 ---
 
 Multiples vies professionnelles à Pôle emploi. Porteuse du produit Clara !
