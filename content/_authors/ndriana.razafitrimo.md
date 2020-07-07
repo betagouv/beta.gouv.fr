@@ -2,8 +2,8 @@
 fullname: Ndriana Razafitrimo
 role: Chargé de développement
 missions:
-  - start: '2019-11-04'
-    end: '2020-05-03'
+  - start: 2019-11-04
+    end: 2020-05-03
     status: admin
     employer: dinum
 startups:

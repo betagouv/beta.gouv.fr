@@ -4,8 +4,8 @@ role: Coach Produit
 github: jbnzo
 link: https://www.linkedin.com/in/julie-benzoni-81767592/
 missions:
-  - start: '2019-12-18'
-    end: '2020-06-18'
+  - start: 2019-12-18
+    end: 2020-06-18
     status: independent
 ---
 

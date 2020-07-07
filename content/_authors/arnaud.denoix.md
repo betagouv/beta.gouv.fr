@@ -3,7 +3,7 @@ fullname: Arnaud Denoix
 role: Co-animateur du programme beta.gouv.fr
 github: adenoix
 missions:
-  - start: '2018-12-07'
+  - start: 2018-12-07
     end:
     employer: dinum
     status: admin

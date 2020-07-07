@@ -3,12 +3,12 @@ fullname: Benoît Guérout
 role: Développeur
 avatar: https://www.gravatar.com/avatar/af486ff27d192f7a42a215a834c531f4?s=512
 missions:
-  - start: '2018-05-14'
-    end: '2020-03-31'
+  - start: 2018-05-14
+    end: 2020-03-31
     status: independent
     employer: inops
-  - start: '2020-04-01'
-    end: '2020-12-01'
+  - start: 2020-04-01
+    end: 2020-12-01
     status: independent
     employer: OCTO Technology
 github: bguerout

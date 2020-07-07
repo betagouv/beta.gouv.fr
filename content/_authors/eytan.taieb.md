@@ -2,8 +2,8 @@
 fullname: Eytan Taieb
 role: Développeur
 missions:
-  - start: '2016-01-18'
-    end: '2016-07-08'
+  - start: 2016-01-18
+    end: 2016-07-08
     status: admin
     employer: education-nationale
 startups:

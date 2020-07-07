@@ -3,8 +3,8 @@ fullname: Lucien Pereira
 role: Développeur
 github: lpereir4
 missions: 
-  - start: '2019-10-23'
-    end: '2020-01-31'
+  - start: 2019-10-23
+    end: 2020-01-31
     status: independent
     employer: octo
 startups:
