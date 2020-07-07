@@ -10,6 +10,7 @@ startups:
     - la-bonne-boite
     - la-bonne-alternance
     - jepostule
+    - apprentissage
 ---
 
 Mon objectif est d'aider un maximum de personnes à s'orienter, s'intégrer, trouver un emploi/formation/alternance. Idéalement trouver sa voie, ou à défaut trouver une voie :)
