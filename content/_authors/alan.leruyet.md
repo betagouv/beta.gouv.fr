@@ -9,6 +9,7 @@ missions:
     employer : pole-emploi
 startups:
     - memo
+    - apprentissage
 ---
 
 Développeur full-stack, single page app monomaniac
