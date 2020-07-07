@@ -3,7 +3,7 @@ fullname: Maxime Quandalle
 role: Développeur
 github: mquandalle
 missions:
-  - start: '2019-06-01'
+  - start: 2019-06-01
     end:
     status: independent
 startups:

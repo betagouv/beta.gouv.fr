@@ -2,7 +2,7 @@
 fullname: Philippe Vrignaud
 role: Intrapreneur
 missions:
-  - start: '2014-01-01'
+  - start: 2014-01-01
     end:
     status: admin
     employer: dinum

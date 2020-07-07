@@ -5,8 +5,8 @@ github: jeanbaptistemora
 avatar: 
 link: https://moramora.fr
 missions: 
-  - start: '2019-06-17'
-    end: '2019-12-31'
+  - start: 2019-06-17
+    end: 2019-12-31
     status: independent
     employer: Octo
 startups: 

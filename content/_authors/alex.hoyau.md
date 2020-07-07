@@ -2,7 +2,7 @@
 fullname: Alex Hoyau
 role: Intrapreneur
 missions:
-  - start: '2020-01-21'
+  - start: 2020-01-21
     end:
     status: independent
     employer: pole-emploi

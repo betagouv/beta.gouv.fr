@@ -2,7 +2,7 @@
 fullname: Dominique Lequepeys
 role: Coach
 missions:
-  - start: '2017-09-18'
+  - start: 2017-09-18
     end:
     status: service
     employer: octo
