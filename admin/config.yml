@@ -66,6 +66,20 @@ collections:
         widget: list
         collapsed: false
         field: { label: Source, name: name, widget: string }
+  - name: phases
+    label: Phases
+    label_singular: Phase
+    folder: "content/_phases"
+    delete: false
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: status, name: status, widget: string }
+      - { label: label, name: label, widget: string }
+      - { label: type_label, name: type_label, widget: string }
+      - { label: order, name: order, widget: number }
+      - { label: short_description, name: short_description, widget: string }
   - name: startups
     label: Produits
     label_singular: Produit
@@ -87,10 +101,14 @@ collections:
       - <<: *relation_default_options
         label: Incubateur
         name: incubator
-        collection: "incubators"
-      - label: Status
+        collection: incubators
+      - widget: relation
+        valueField: "{{slug}}"
+        displayFields: [label]
+        searchFields: [slug, label]
+        label: Status
         name: status
-        widget: string
+        collection: phases
       - label: Lien vers le produit
         name: link
         widget: string
