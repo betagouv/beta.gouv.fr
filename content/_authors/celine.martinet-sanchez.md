@@ -4,11 +4,11 @@ role: Développeuse
 github: celine-m-s
 link: https://www.hello-birds.com
 missions:
-  - start: '2019-06-01'
-    end: '2019-08-30'
+  - start: 2019-06-01
+    end: 2019-08-30
     status: independent
     employer: ey
-  - start: '2020-02-03'
+  - start: 2020-02-03
     end:
     status: independent
     employer: octo

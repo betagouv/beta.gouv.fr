@@ -2,7 +2,7 @@
 fullname: Raphaëlle Gaillard
 role: Chargée de développement
 missions:
-  - start: '2016-11-01'
+  - start: 2016-11-01
     end:
     status: admin
     employer: pole-emploi

@@ -4,8 +4,8 @@ role: Développeur
 link: https://wawy.io
 github: slegouffe
 missions:
-  - start: '2018-03-08'
-    end: '2018-12-31'
+  - start: 2018-03-08
+    end: 2018-12-31
     status: independent
 startups:
     - co-construisons

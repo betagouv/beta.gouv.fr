@@ -3,7 +3,7 @@ title: Chauffage-Urbain
 mission: Accélérer le raccordement des copropriétés aux réseaux de chaleur
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: investigation 
+status: investigation
 start: 2020-03-01
 end:
 repository:

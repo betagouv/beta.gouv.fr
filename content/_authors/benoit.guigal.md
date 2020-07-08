@@ -6,7 +6,7 @@ link: https://benoitguigal.fr
 github: benoitguigal
 missions:
   - end: 
-    start: '2019-05-22'
+    start: 2019-05-22
     status: independent
 startups:
   - trackdechets

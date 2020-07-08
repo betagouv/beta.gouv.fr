@@ -4,8 +4,8 @@ role: Développeur
 link: https://captive.fr
 github: shanser
 missions:
-  - start: '2019-02-25'
-    end: '2020-09-30'
+  - start: 2019-02-25
+    end: 2020-09-30
     status: service
     employer: ut7
 startups:
