@@ -9,7 +9,7 @@ missions:
     start: 2018-06-11
     status: service
   - employer: Codeurs en Liberté
-    end: 2020-06-30
+    end: 2021-01-31
     start: 2019-12-19
     status: service
 startups:
