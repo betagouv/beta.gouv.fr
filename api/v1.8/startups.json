@@ -31,7 +31,7 @@ layout: null
 , "included":
     [
     {% for incubator in site.incubators %}
-        { "id"        : "{{ incubator.id | remove:'/incubateurs/' }}"
+        { "id"        : "{{ incubator.id | remove:'/incubateurs/approche' }}"
         , "type"      : "incubator"
         , "attributes":
             { "title"  : "{{ incubator.title }}"
