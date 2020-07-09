@@ -7,6 +7,6 @@ missions:
     end: 2021-12-31
     status: admin
     employer: MTES-MCT
-startups :
+startups:
   - bati-amiante
 ---
