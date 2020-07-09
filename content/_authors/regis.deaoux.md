@@ -1,5 +1,5 @@
 ---
-fullname: Régis Deaoux
+fullname: Régis Deoux
 role: Intrapreneur
 github: regisdeoux
 missions:
