@@ -6,7 +6,7 @@ missions:
     end: 2021-12-31
     status: service
     employer: octo
-startups :
+startups:
   - aplus
   - histovec
   - candilib
