@@ -1,4 +1,3 @@
-
 ---
 fullname: Emeric Vercoutre
 role: intrapreneur
