@@ -8,6 +8,7 @@ missions:
     status: independent
     employer: ey
   - start: 2020-02-05
+    end:
     status: independent
 startups:
     - anotea
