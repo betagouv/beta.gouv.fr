@@ -11,6 +11,7 @@ missions:
     status: independent
 startups:
     - anotea
+previously:
     - mon-entreprise
 ---
 
