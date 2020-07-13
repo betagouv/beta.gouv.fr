@@ -1,6 +1,6 @@
 ---
 title: Intreprenord
-mission: 
+mission: Permettre aux usagers de trouver le bon interlocuteur au sein du département
 owner: Département du Nord
 incubator: dinsic 
 status: investigation
