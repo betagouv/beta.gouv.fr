@@ -1,6 +1,6 @@
 ---
 title: Entreprises.bzh
-mission: 
+mission: Assurer le suivi des demandes des entreprises entre les différents partenaires économiques régionaux
 owner: Région Bretagne
 incubator: dinsic 
 status: alumni
