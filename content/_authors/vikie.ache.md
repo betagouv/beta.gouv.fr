@@ -7,6 +7,6 @@ missions:
     status: admin
     employer: Agglomération de Pau Béarn Pyrénées
 startups:
-  - simone-and-co.md
+  - simone-and-co
 previously: []
 ---
