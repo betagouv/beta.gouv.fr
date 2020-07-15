@@ -5,8 +5,8 @@ github: afriqs
 avatar:
 link:
 missions:
-  - start: '2019-11-04'
-    end: '2020-07-31'
+  - start: 2019-11-04
+    end: 2020-07-31
     status: independent
     employer: Octo
 startups:

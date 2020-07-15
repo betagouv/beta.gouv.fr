@@ -4,8 +4,8 @@ role: Développeur
 link: http://red-needles.com/
 github: rdubigny
 missions:
-  - start: '2018-05-30'
-    end: '2020-12-31'
+  - start: 2018-05-30
+    end: 2020-12-31
     status: independent
     employer: octo
 startups:

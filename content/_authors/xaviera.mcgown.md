@@ -4,8 +4,8 @@ role: Coach
 
 link: https://beta.gouv.fr/incubateurs/lab-mi.html
 missions:
-  - start: '2020-02-01'
-    end: '2021-01-02'
+  - start: 2020-02-01
+    end: 2021-01-02
     status: service
     employer: octo
 startups:

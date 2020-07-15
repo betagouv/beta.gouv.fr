@@ -2,7 +2,7 @@
 fullname: Bertrand Marron
 role: Développeur
 missions:
-  - start: '2017-07-10'
+  - start: 2017-07-10
     end:
     status: independent
     employer: octo

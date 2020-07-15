@@ -3,7 +3,7 @@ title: Korrigo Lycéens
 mission: Mutualiser les services régionaux à destination des lycéens
 owner: Région Bretagne
 incubator: dinsic 
-status: investigation
+status: alumni
 start: 2019-10-21
 end: 
 link:
@@ -23,9 +23,5 @@ Dans ce contexte, KorriGo, la carte bretonne des déplacements et des services, 
 Une solution envisagée serait de permettre aux lycéens d’utiliser leur carte KorriGo pour l’ensemble de leurs accès : le transport, puis au lycée : l’accès à l’établissement et la cantine.
 Pour y arriver, une expérimentation sera conduite pour évaluer les conditions de déploiement du dispositif, la faisabilité technique, les impacts organisationnels et la gouvernance.
 
-## Equipe : 
-- Haude Joffre
-- Odile Bréhier
-
 ## Territoire d'expérimentation : 
-Région Bretagne
+Cette initiative est pilotée en autonomie par la région Bretagne.

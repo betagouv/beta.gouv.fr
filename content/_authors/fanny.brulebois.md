@@ -2,8 +2,8 @@
 fullname: Fanny Brûlebois
 role: Responsable de produit
 missions:
-  - start: '2016-02-15'
-    end: '2016-07-01'
+  - start: 2016-02-15
+    end: 2016-07-01
     employer: dinum
     status: admin
 startups:

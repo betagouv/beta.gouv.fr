@@ -3,8 +3,8 @@ fullname: Samuel Faure
 role: Développeur Fullstack
 github: Samuelfaure
 missions:
-  - start: '2017-04-24'
-    end: '2019-12-31'
+  - start: 2017-04-24
+    end: 2019-12-31
     status: admin
     employer: dinum
 startups:

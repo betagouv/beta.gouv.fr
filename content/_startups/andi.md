@@ -3,7 +3,7 @@ title: ANDi
 mission: Faciliter l'immersion professionnelle des personnes en situation de handicap
 owner: Caisse des dépôts 
 incubator: dinum
-status: construction
+status: alumni
 start: 2019-05-16 
 end: 2020-05-15
 link: https://andi.beta.gouv.fr/
