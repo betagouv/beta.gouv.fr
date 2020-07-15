@@ -12,7 +12,7 @@ missions:
     start: 2015-03-10
     status: service
   - employer: 'Living Data'
-    end:
+    end: 2020-12-31
     start: 2015-09-18
     status: independent
 startups:
