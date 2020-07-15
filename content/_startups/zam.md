@@ -3,7 +3,7 @@ title: Zam
 mission: Alléger la charge de préparation par le gouvernement du débat parlementaire.
 owner: DINUM
 incubator: dinum
-status: partenariat passé
+status: transfert
 start: 2018-03-28
 end:
 link:
