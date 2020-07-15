@@ -52,4 +52,3 @@ En complément des entretiens de candidature avec la DGCCRF, le/la candidat(e) e
 **Adresser toute candidature à magali.marcel@dgccrf.finances.gouv.fr avec, en copie sophie.lenoble@dgccrf.finances.gouv.fr et julien.rayneau@beta.gouv.fr**
 
 
-
