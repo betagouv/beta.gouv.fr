@@ -1,63 +1,55 @@
 ---
-roles: Chef·fe de produit intrapreneur·e de SignalConso et de chargé·e de projets numériques à la DGALN
+roles: Chef·fe de produit intrapreneur·e de SignalConso (DGCCRF)
 startup: signalement
 junior: true 
 open: true 
-title: Chef·fe de produit intrapreneur·e de SignalConso et de chargé de projets numériques à la DGALN
+title: Chef/cheffe de produit intrapreneur de SignalConso
 ---
 
-# Chef·fe de produit intrapreneur·e de SignalConso et de chargé de projets numériques à la DGALN
+# Chef/cheffe de produit intrapreneur de SignalConso
 
 
-_Émis par : Direction Générale de l’Aménagement, du Logement
-et de la Nature (DGALN)_
+Émis par : Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes (DGCCRF)
 
 
 # MISSIONS 
 
-_En tant que  chef(fe) de projet transformation numérique de l’administration des mines vous_
-
-- pilotez quotidiennement l’évolution de l’application web – [signal.conso.gouv.fr](https://signal.conso.gouv.fr/) (Cadastre minier numérique ouvert) au contact des utilisateurs, en dirigeant une petite équipe de travail autonome et agile et en bénéficiant de l’appui de la Fabrique Numérique, l’incubateur des startups MTES-MCT
-- accompagnez les services déconcentrés pour les nouveaux services numériques de l’administration des mines (formations, coaching, présentations, mise en oeuvre)
-- gérez et valorisez des données administratives et techniques des mines non-énergétiques et des carrières
-- contribuez à la réforme du code minier et la dématérialisation des procédures minières notamment grâce à SignalConso
-- contribuez au processus qualité d’instruction des démarches administratives minières (développement et déploiement).
-
-
-_Auprès de la sous-direction EARM vous_
-
-- assistez les actions relatives aux services numériques, aux SI et à la gestion des données sur l’eau et les milieux aquatiques
-- coordonnez les actions et projets des bureaux : services numériques, systèmes d’information et données 
-- apportez un appui et accompagnez les bureaux (chefs et chargés de mission) dans la mise en oeuvre de projets numériques
-
-# COMPÉTENCES ATTENDUES 
-
-- Compétence en services numérique : vous disposez d’une bonne culture numérique et avez idéalement une première expérience dans les gestions d’un produit numérique (site web, application mobile) dans le cadre professionnel ou personnel  
-- Compétence en systèmes d’information géographique : vous avez déjà manipulé un outil SIG tel que QGIS et vous avez développé un intérêt pour les représentations cartographiques
-- Les connaissances de base dans le domaine de l’eau et des ressources minérales sont grandement appréciées ainsi que des compétences en systèmes d’information
-
-
-- Vous disposez d’expériences en tant que chef.fe de projet ou responsable de produit numérique
-- Vous avez déjà directement travaillé avec une équipe de développeurs dans la réalisation d’un produit numérique (en appliquant les méthodes agiles de préférence)
-- Vous disposez de bonnes compétences relationnelles, appréciez le travail collaboratif et pouvez animer une communauté d’intérêt/un réseau
-- Vous êtes à l’aise à l’oral et rompu à l’exercice de présentation devant différents publics
+Le/la chef /Cheffe de produit - intrapreneur pilote l’ensemble de SignalConso et est garant (e) de l’enjeu stratégique du produit pour les usagers et de sa cohérence d’ensemble.
+Il/elle porte la responsabilité des décisions prises à son niveau et la responsabilité concerne toutes les dimensions du produit : stratégique, financière, juridique, organisationnelle et technique.
+La stratégie du projet est portée au plus haut niveau de l’organisation, à laquelle il/elle rend compte régulièrement. 
+L’intrapreneur réalise l’équilibre entre la culture « start-up », d’autonomie, de rapidité et de résultats, et l’ancrage dans la direction, pour garantir l’alignement avec les objectifs stratégiques, et l’adoption par la structure des avancées permises par ce service innovant. 
+Il/elle travaille avec une petite équipe de développeurs, coach, chargés de déploiement et/ou designer. Cette équipe pilote son activité au regard de ces trois principes : les besoins des usagers avant ceux de l’administration, des équipes pilotées par la finalité plus que par les moyens et l'amélioration continue plus que la conformité à un plan. 
+En pratique, l’intrapreneur définit les problèmes que SignalConso cherche à résoudre, conçoit la solution avec son équipe, teste, vérifie les hypothèses et mesure l’impact de la solution. Il incarne la solution auprès du sponsor (Directrice générale), de son administration et des parties prenantes (consommateurs, professionnels, services centraux ou déconcentrés de la DGCCRF…. Le/la chef/cheffe de projet promeut SignalConso (communication interne/externe, interview média, présentation lors de conférence). Il/elle manage son équipe au quotidien et suit le budget du projet.
+Le/la chef/cheffe de projet est recruté(e) pour assurer un tuilage avec la cheffe de projet actuelle jusqu’à l’automne, puis prendra la responsabilité entière du projet ensuite.
 
 
 # CONTEXTE  
 
-Au sein de la DGALN, la direction de l’eau et de la biodiversité (DEB) conçoit anime et évalue les politiques relatives à la connaissance, à la protection, à la police et à la gestion de la nature et de la diversité biologique terrestre et marine, à la police de la chasse et de la pêche et à la politique des matières premières minérales non énergétiques. Dans la sous-direction de la protection et de la gestion de l’eau, des ressources minérales et des écosystèmes aquatiques (EARM), le bureau de la politique des ressources minérales non énergétiques (EARM2) élabore et met en oeuvre la politique et les mesures en matière d'approvisionnement respectueuses de l’économie circulaire pour les minerais, métaux, minéraux industriels, et matériaux de carrières notamment par la gestion des ressources naturelles minérales terrestres ou marines. Il élabore la législation et la réglementation minière et instruit les procédures correspondantes.
+Au sein de l’administration centrale de la DGCCRF, le bureau 2D, composé de 13 agents, est chargé du pilotage et de la coordination des projets de transformation. 
+
+Parmi ces projets, SignalConso est un site internet permettant aux consommateurs de signaler des anomalies avec comme objectif premier une résolution directe par le professionnel. La DGCCRF reçoit l’ensemble des signalements pour analyse et ciblage de son action. Le projet a la particularité d’être mené par une équipe au sein de Beta.gouv, pilotée par l’intrapreneur. Il évolue donc dans cet environnement d’innovation interministérielle tout en restant pleinement intégré à l’équipe de la direction métier, en étant fonctionnellement directement rattaché au Chef du bureau 2D.
+
+# COMPÉTENCES ATTENDUES 
+
+Il est attendu du ou de la candidate qu’il (elle) soit force de proposition, fasse preuve d’une forte autonomie et d’une appétence pour les sujets de transformation.
+Il/Elle dispose de bonnes compétences relationnelles, apprécie le travail collaboratif et peut animer une équipe et une communauté d’intérêt. Il/Elle est à l’aise avec l’oral et rompu (e) à l’exercice de présentation devant différents publics. Il/Elle est à l’aise avec le mode de fonctionnement des organisations horizontales et a à cœur de contribuer activement au sein de ce collectif, notamment en s’exprimant au sein d’une équipe produit pluridisciplinaire, incluant des profils de développeurs, chargés de déploiement et de designers.
+Un coach vous aidera dans votre prise de fonction. Idéalement le/la candidat(e) dispose d’une bonne culture numérique. Il /elle est à l’aise avec la suite bureautique (notamment logiciel de feuilles de calcul type Excel, création de diaporamas).
 
 
 # INFORMATION COMPLÉMENTAIRES  
 
-- **Emploi** : Cadre sectoriel
-- **Catégorie** : A1, “Administratif” ou “Technique”
+- **Catégorie** :A
 - **Ouvert à** : Contractuels, Titulaires
-- **Localisation** : Grande Arche et Tour Sequoia (La Défense)
-- **Direction de rattachement** : Direction générale de l’aménagement, du logement et de la nature (DGALN) Direction de l’eau et de la biodiversité (DEB) Sous-direction des écosystèmes aquatiques et des ressources minérales (mission 1) – DGALN/DEB/EARM et Bureau de la politique des ressources minérales non énergétiques (mission 2) – DGALN/DEB/EARM/EARM2
+- **Localisation** : Paris (DGCCRF et DINUM)
+- **Direction de rattachement** : Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes, bureau 2D (Organisation, innovation, numérique)
 
-**Adresser toute candidature à guillaume.levieux@beta.gouv.fr avec, en copie recrutement.mineco@beta.gouv.fr, avant le 31 mai 2020**
+Une partie du temps de travail est effectué dans l’incubateur de la DINUM (Beta Gouv), 20 Avenue de Ségur, 75007 Paris (Ligne 6, 10, 8) et une autre partie dans les locaux de la DGCCRF, 59 boulevard Vicent Auriol 75013 Paris (ligne 6 et 14, proche RER C).Ces conditions de travail peuvent être étudiées en fonction du profil du ou de la candidat(e).
 
+Une partie de l’équipe de SignalConso travaille à distance. La méthodologie de projet est le Lean Startup. L’avancement se fait par des sprints réguliers. Des déplacements France entière sont à prévoir.
+
+En complément des entretiens de candidature avec la DGCCRF, le/la candidat(e) est amené(e) à rencontrer l’équipe de SignalConso et l’équipe de l’incubateur (Beta Gouv) pendant le processus de recrutement.
+
+**Adresser toute candidature à magali.marcel@dgccrf.finances.gouv.fr avec, en copie sophie.lenoble@dgccrf.finances.gouv.fr et julien.rayneau@beta.gouv.fr**
 
 
 
