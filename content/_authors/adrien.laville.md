@@ -3,7 +3,7 @@ fullname: Adrien Laville
 role: Coach
 avatar: https://i.goopics.net/dpgnJ.jpg
 missions:
-  - start: '2018-12-01'
+  - start: 2018-12-01
     end:
     status: service
     employer: NUMA

@@ -2,7 +2,7 @@
 fullname: Christophe Bonraisin
 role: Intrapreneur
 missions:
-  - start: '2015-05-01'
+  - start: 2015-05-01
     end:
     status: admin
     employer: pole-emploi

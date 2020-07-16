@@ -18,12 +18,10 @@ mapping:
         - type:      map
           mapping:
             "start":
-              type:      any
-              assert:    "val.is_a?(Date) || (val.is_a?(String) && (val.empty? || val.match?(/^\d{4}-\d{2}-\d{2}$/)))"
+              type:      date
               required:  yes
             "end":
-              type:      any
-              assert:    "val.is_a?(Date) || val.nil? || (val.is_a?(String) && (val.empty? || val.match?(/^\d{4}-\d{2}-\d{2}$/)))"
+              type:      date
             "status":
               type:      str
               assert:    "['service','independent','admin'].include?(val)"

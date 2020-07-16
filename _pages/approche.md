@@ -9,7 +9,7 @@ additional_css:
 
 **beta.gouv.fr** aide les ministères et autres partenaires publics à construire des services numériques simples, faciles à utiliser, à l'impact maximal. 
 
-À travers notre approche – parfois appelée "**approche Startup d'État**" – nous remettons les usagers au cœur de l'action publique et cherchons à apporter des solutions concrètes à leurs problèmes. 
+À travers notre approche – parfois appelée "**approche Startup d'État**" – nous remettons les usagers au cœur de l'action publique et cherchons à apporter des solutions concrètes à leurs problèmes pour améliorer leur vie quotidienne. 
 
 Nous formons des équipes pluridisciplinaires constituées de personnes engagées au service de l'intérêt général, qu'elles viennent du secteur privé ou du secteur public. Nous intégrons des agents publics appelés "**intrapreneurs**" au sein de ces équipes, et nous favorisons leur passage à l'action pour améliorer le service public de l'intérieur.
 

@@ -2,8 +2,8 @@
 fullname: Arnaud Kleinpeter
 role: Développeur
 missions:
-  - start: '2014-06-18'
-    end: '2015-03-31'
+  - start: 2014-06-18
+    end: 2015-03-31
     status: service
     employer: octo
 startups:

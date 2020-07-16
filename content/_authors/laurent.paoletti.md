@@ -4,8 +4,8 @@ role: Développeur
 github: providenz
 link: https://twitter.com/providenz
 missions:
-  - start: '2019-09-01'
-    end: '2020-07-15'
+  - start: 2019-09-01
+    end: 2020-07-15
     status: independent
 startups:  
     - trackdechets
