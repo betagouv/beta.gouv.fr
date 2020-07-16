@@ -3,7 +3,7 @@ title: IDQuart
 mission: Favoriser l'émergence d'une plateforme de concertation innovante entre citoyens et collectivités
 owner: Agglomération de Pau Béarn Pyrénées
 incubator: dinsic 
-status: investigation
+status: alumni
 start: 2019-02-04
 end: 
 link:
@@ -23,12 +23,7 @@ Expérimenter une plateforme numérique permettant d’engager le citoyen dans l
 - Permettre de se projeter facilement à l’aide d’un outil de concertation interactive & visuelle ;
 - Favoriser la transparence et la lisibilité de la participation de chacun ;
 - Impliquer la maîtrise d’usage pour livrer un projet adapté aux besoins de l’usager et avec un budget optimisé.
-D’abord limitée à des micro-projets d'aménagement, l'ambition est de devenir une plateforme de concertation innovante entre citoyens et collectivités.
-
-## Equipe : 
-- Emmanuel Bringas
-- Christophe Bovio
-- Marie-Hélène Bru-Dure
+D’abord limitée à des micro-projets d'aménagement, l'ambition est de devenir une plateforme de concertation innovante entre citoyens et collectivités.*
 
 ## Territoire d'expérimentation : 
-Agglomération Pau Béarn Pyrénées
+Cette initiative est pilotée en autonomie par l’agglomération Pau Béarn Pyrénées.

@@ -26,6 +26,6 @@ Comment peut-on accompagner le développement économique des structures inclusi
 
 La phase d’exploration de deux mois et demi s'est appuyée sur plus d'une vingtaine de rapports et a permis de réalisation plus de 35 entretiens qualitatifs avec les différentes parties prenantes impliquées : dirigeants de structures inclusives, acheteurs publics et privés, réseaux fédératifs de l’inclusion, apporteurs de solutions.
 
-Face aux 6 grandes catégories d'irritants identifiés, une solution de place de marché numérique commune à l'ensemble de l'inclusion et destiné à des acheteurs professionnels (publics ou privés) a été retenue.
+Face aux 6 grandes catégories d'irritants identifiés, une solution de place de marché numérique commune à l'ensemble de l'inclusion et destinée à des acheteurs professionnels (publics ou privés) a été retenue.
 
 Nous démarrons la phase de construction produit avec en cibles prioritaires les offres des structures inclusives de 3 régions sur la filière métier du nettoyage et de la propreté, ouverte au sens large.
