@@ -30,6 +30,16 @@
   {%- endif -%}
 {%- endfor -%}
 
+{%- comment -%}<!-- On boucle sur les anciens membres de l'équipe -->{%- endcomment -%}
+{%- assign startup_id = include.startup.id | remove: '/startups/' -%}
+{%- assign team_previous = site.authors | where:"previously", startup_id %}
+{%- for author in team_previous -%}      
+  {%- capture to_append -%}
+    {%- include card-community.html author=author -%}
+  {%- endcapture -%}
+  {%- assign past_team = past_team | append: to_append -%}
+{%- endfor -%}
+
 <h2>L'équipe actuelle</h2>
 <div class="grid">
   {{ current_team }}
@@ -58,4 +68,3 @@
       }
   //-->
   </script>
-  
