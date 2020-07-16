@@ -1,7 +1,7 @@
 ---
 roles: Chef·fe de produit intrapreneur·e de SignalConso (DGCCRF)
 startup: signalement
-junior: true 
+junior: false 
 open: true 
 title: Chef/cheffe de produit intrapreneur de SignalConso
 ---
@@ -15,11 +15,17 @@ title: Chef/cheffe de produit intrapreneur de SignalConso
 # MISSIONS 
 
 Le/la chef /Cheffe de produit - intrapreneur pilote l’ensemble de SignalConso et est garant (e) de l’enjeu stratégique du produit pour les usagers et de sa cohérence d’ensemble.
+
 Il/elle porte la responsabilité des décisions prises à son niveau et la responsabilité concerne toutes les dimensions du produit : stratégique, financière, juridique, organisationnelle et technique.
+
 La stratégie du projet est portée au plus haut niveau de l’organisation, à laquelle il/elle rend compte régulièrement. 
+
 L’intrapreneur réalise l’équilibre entre la culture « start-up », d’autonomie, de rapidité et de résultats, et l’ancrage dans la direction, pour garantir l’alignement avec les objectifs stratégiques, et l’adoption par la structure des avancées permises par ce service innovant. 
+
 Il/elle travaille avec une petite équipe de développeurs, coach, chargés de déploiement et/ou designer. Cette équipe pilote son activité au regard de ces trois principes : les besoins des usagers avant ceux de l’administration, des équipes pilotées par la finalité plus que par les moyens et l'amélioration continue plus que la conformité à un plan. 
+
 En pratique, l’intrapreneur définit les problèmes que SignalConso cherche à résoudre, conçoit la solution avec son équipe, teste, vérifie les hypothèses et mesure l’impact de la solution. Il incarne la solution auprès du sponsor (Directrice générale), de son administration et des parties prenantes (consommateurs, professionnels, services centraux ou déconcentrés de la DGCCRF…. Le/la chef/cheffe de projet promeut SignalConso (communication interne/externe, interview média, présentation lors de conférence). Il/elle manage son équipe au quotidien et suit le budget du projet.
+
 Le/la chef/cheffe de projet est recruté(e) pour assurer un tuilage avec la cheffe de projet actuelle jusqu’à l’automne, puis prendra la responsabilité entière du projet ensuite.
 
 
@@ -31,9 +37,12 @@ Parmi ces projets, SignalConso est un site internet permettant aux consommateurs
 
 # COMPÉTENCES ATTENDUES 
 
-Il est attendu du ou de la candidate qu’il (elle) soit force de proposition, fasse preuve d’une forte autonomie et d’une appétence pour les sujets de transformation.
-Il/Elle dispose de bonnes compétences relationnelles, apprécie le travail collaboratif et peut animer une équipe et une communauté d’intérêt. Il/Elle est à l’aise avec l’oral et rompu (e) à l’exercice de présentation devant différents publics. Il/Elle est à l’aise avec le mode de fonctionnement des organisations horizontales et a à cœur de contribuer activement au sein de ce collectif, notamment en s’exprimant au sein d’une équipe produit pluridisciplinaire, incluant des profils de développeurs, chargés de déploiement et de designers.
-Un coach vous aidera dans votre prise de fonction. Idéalement le/la candidat(e) dispose d’une bonne culture numérique. Il /elle est à l’aise avec la suite bureautique (notamment logiciel de feuilles de calcul type Excel, création de diaporamas).
+- Il est attendu du ou de la candidate qu’il (elle) soit force de proposition, fasse preuve d’une forte autonomie et d’une appétence pour les sujets de transformation.
+- Il/Elle dispose de bonnes compétences relationnelles, apprécie le travail collaboratif et peut animer une équipe et une communauté d’intérêt.
+- Il/Elle est à l’aise avec l’oral et rompu (e) à l’exercice de présentation devant différents publics.
+- Il/Elle est à l’aise avec le mode de fonctionnement des organisations horizontales et a à cœur de contribuer activement au sein de ce collectif, notamment en s’exprimant au sein d’une équipe produit pluridisciplinaire, incluant des profils de développeurs, chargés de déploiement et de designers.
+Un coach vous aidera dans votre prise de fonction. Idéalement le/la candidat(e) dispose d’une bonne culture numérique.
+- Il /elle est à l’aise avec la suite bureautique (notamment logiciel de feuilles de calcul type Excel, création de diaporamas).
 
 
 # INFORMATION COMPLÉMENTAIRES  
