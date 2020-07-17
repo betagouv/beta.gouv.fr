@@ -3,15 +3,16 @@ fullname: Dominique Lequepeys
 role: Coach
 missions:
   - start: 2017-09-18
-    end:
+    end: 2021-12-31
     status: service
     employer: octo
-startups :
+startups:
   - aplus
   - histovec
   - candilib
   - polex
   - chauffage-urbain
+  - bati-amiante
 ---
 
 Coach startup<br>
