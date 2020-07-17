@@ -1,0 +1,48 @@
+---
+layout: null
+---
+
+{ "links":
+    { "self": "{{ site.url }}/startups" }
+, "data":
+    [
+    {% assign startups = site.startups | where_exp: 'startups', 'startups.status != death' %}
+    {% for startup in startups %}
+        { "id"        : "{{ startup.id | remove: '/startups/' }}"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"  : "{{ startup.title }}"
+            , "pitch" : "{{ startup.mission }}"
+            , "start": "{{ startup.start}}"
+            , "status": "{{ startup.status}}"{% if startup.stats %}
+            , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}{% if startup.link %}
+            , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
+            , "repository": "{{ startup.repository}}"{% endif %}
+            }
+        , "relationships":
+            { "incubator":
+                { "data": { "type": "incubator", "id": "{{ startup.incubator}}" }
+                }
+            }
+        }
+        {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ]
+, "included":
+    [
+    {% for incubator in site.incubators %}
+        { "id"        : "{{ incubator.id | remove:'/incubateurs/approche' }}"
+        , "type"      : "incubator"
+        , "attributes":
+            { "title"  : "{{ incubator.title }}"
+            , "owner"  : "{{ incubator.owner }}"
+            , "website": "{{ incubator.website }}"
+            , "github" : "{{ incubator.github }}"
+            , "contact": "{{ incubator.contact }}"
+            }
+        }
+        {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ]
+
+}
