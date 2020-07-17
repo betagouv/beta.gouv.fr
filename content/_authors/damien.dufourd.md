@@ -10,4 +10,5 @@ startups:
   - diagoriente
   - histologe
   - apprentissage
+  - cmachance
 ---
