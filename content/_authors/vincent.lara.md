@@ -10,6 +10,7 @@ missions:
 startups:
     - le-taxi
     - transport
+    - ecosante
 ---
 
 Aide à construire les infrastructures numériques publiques de demain.
