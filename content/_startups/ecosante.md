@@ -10,48 +10,57 @@ link:
 repository:
 stats: false 
 stats_url: 
-contact: ishan@beta.gouv.fr
+contact: ecosante@data.gouv.fr
 ---
 
-## Le problème : l'impact de l'environnement sur la santé des citoyens
+## Contexte
 
-D’après une étude de l’OMS parue en 2006¹ les causes environnementales sont directement responsables d’environ 14 % de la mortalité en France, soit 74 300 décès pour l’année de parution. Dans le monde, l'OMS "estime que 12,6 millions de personnes sont décédées du fait d’avoir vécu ou travaillé dans un environnement insalubre en 2012 – ce qui représente près d’un quart des décès dans le monde"². 
+### Les enjeux santé-environnement
 
-Les problèmes de santé publique liés à l’environnement (maladies chroniques) explosent, avec un coût de plusieurs milliards d’euros par an.
+D’après une étude de l’OMS parue en 2006¹ les causes environnementales sont directement responsables d’environ 14 % de la mortalité en France, soit 74 300 décès pour l’année de parution. 
 
-Par ailleurs, les Français sont en droit, dans les conditions et les limites définies par la loi, d’accéder aux informations relatives à l’environnement détenues par les autorités, comme le prévoit l’article 7 de la Charte de l’environnement de 2004. 
+La majorité des données environnementales sont accessibles, cependant elles ne sont pas forcément rassemblées et organisées pour une valorisation pratique des citoyens.
 
-La majorité des données environnementales sont accessibles, cependant elles ne sont pas forcément rassemblées et organisées pour une valorisation pratique des citoyens, ni par des réutilisateurs. 
+De plus, les comportements à adopter pour limiter les impacts sur notre santé environnement ne sont pas toujours connus.
 
-Enfin, les comportements à adopter pour limiter les impacts sur notre santé environnement ne sont pas toujours connus : exercices physiques, précautions particulières pour les personnes sensibles (enfants et personnes âgées), etc.
+¹Organisation Mondiale de la Santé, Près du quart de toutes les maladies sont dues a une exposition environnementale, 2006. URL : https://www.who.int/mediacentre/news/releases/2006/pr32/fr/
 
-¹ Organisation Mondiale de la Santé, Près du quart de toutes les maladies sont dues a une exposition environnementale, 2006. URL : https://www.who.int/mediacentre/news/releases/2006/pr32/fr/
+## Le cadre légal et administratif
 
-² Pour en savoir plus, nous vous conseillons de vous rendre [ici](https://www.who.int/features/factfiles/environmental-disease-burden/fr/) et de lire le rapport [Prévenir la maladie grâce à un environnement sain : une estimation de la charge de morbidité imputable à l'environnement](https://apps.who.int/iris/bitstream/handle/10665/204585/9789241565196_eng.pdf;jsessionid=2AFB9996BC5A200B74BCAAF3CF4F9449?sequence=1) (en anglais) publié en 2016 par l'OMS. 
+Les Français sont en droit, dans les conditions et les limites définies par la loi, d’accéder aux informations relatives à l’environnement détenues par les autorités, comme le prévoit l’article 7 de la Charte de l’environnement de 2004. 
 
-## Focus : la qualité de l'air
+Ce projet s'inscrit dans le [Plan National Santé-Environnement](https://solidarites-sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-mon-environnement-ma-sante-2020-2024) co-piloté par le Ministère de la Santé et le Ministère de la Transition écologique. 
 
-L'équipe d'Ecosanté a choisi de commencer ce projet sur la qualité de l'air. 
+C'est dans ce contexte qu'est née l'équipe Ecosanté !
 
-* Comment se protéger des impacts de la qualité de l'air sur notre santé ? 
-* Où trouver de l'information sur la qualité de l'air au quotidien ? 
-* Comment interpréter cette information ? 
-* Quel(s) comportement(s) à adopter au regard de cette information ?
+## Notre approche
 
-Pour répondre à ces questions, l'équipe d'Ecosanté souhaite:
-* Sensibiliser les citoyens sur la qualité de l'air 
-* Donner accès aux citoyens à de l'information claire et fiable
-* Donner les clefs de compréhension pour interpréter cette information 
-* Formuler des recommandations sur les comportements à adopter pour se protéger
+### Focus sur une thématique
 
-Pour cela, deux outils seront développés et testés auprès des utilisateurs :
-* ecosante.data.gouv.fr pour valoriser les données ouvertes auprès des réutilisateurs (applications mobiles, site internet)
-* L'Assistant Ecosanté pour permettre aux citoyens de recevoir des alertes d'information sur la qualité de l'air et de recommandations de comportement à adopter. 
+Les enjeux santé-environnement regroupent de nombreux sujets. L'équipe a donc choisi de commencer par l'un d'entre eux : la qualité de l'air. 
+
+### Partir du problème
+
+L'objectif est de trouver une solution à un problème exprimé par la population. 
+
+Nous avons réaliser plus de 50 entretiens qualitatifs avec des catégories de population différente, à la recherche de personnes directement impactées par la qualité de l'air. 
+
+C'est auprès des personnes sensibles, et notamment atteintes de pathologies respiratoires, que nous avons trouvé un problème lié à la qualité de l'air. Ces échanges nous ont permis de formuler le problème suivant : 
+
+*En tant que personne directement affectée par la qualité de l'air, je ne sais pas comment adapter mon comportement pour me protéger des impacts de la qualité de l'air sur ma santé.*
+
+### Tester des solutions
+
+Afin de trouver la meilleure solution à ce problème, nous testons plusieurs format et contenu auprès d'utilisateurs testeurs. 
+
+L'objectif est de co-construire l'outil Ecosanté avec des personnes concernées. 
+
+Pour devenir testeur, c'est [ici](https://betagouv.github.io/ecosante/). 
+
 
 ## Calendrier
 
-AVRIL 2020 : lancement du projet 
-
-## Pour aller plus loin
-
-N'hésitez pas à consulter le [wiki](https://github.com/betagouv/ecosante/wiki/) pour plus d'informations sur l'évolution du projet. 
+* JANVIER 2020 : phase d'investigation
+* AVRIL 2020 : recrutement de l'équipe
+* JUILLET 2020 : début de la phase de test
+* OCTOBRE 2020 : deuxième comité d'investissement
