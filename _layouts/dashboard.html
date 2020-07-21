@@ -48,7 +48,7 @@ layout: default
                                 {% assign incubator = site.incubators | where:'id', incubator_id | first %}
                                 <td>{{ incubator.title }}</td>
 
-                                <td>{{ startup.start |  date: '%d/%m/%Y' }}</td>
+                                <td>{{ startup.phases.first.start |  date: '%d/%m/%Y' }}</td>
                             </tr>
                         {% endfor %}
                     {% endfor %}

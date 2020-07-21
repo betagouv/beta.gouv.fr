@@ -8,7 +8,7 @@ id,name,mission,start,status,incubator,stats,link,repository
     {%- assign id = startup.id | remove: '/startups/' -%}
     {%- assign title = startup.title -%}
     {%- assign mission = startup.mission -%}
-    {%- assign start = startup.start -%}
+    {%- assign start = startup.phases.first.start -%}
     {%- assign status = startup.status -%}
     {%- assign incubator = startup.incubator -%}
     {%- if startup.stats_url -%}{%- assign stats = startup.stats_url -%}{%- else -%}{%- assign stats = 'null' -%}{%- endif -%}
