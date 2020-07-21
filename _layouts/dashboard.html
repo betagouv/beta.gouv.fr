@@ -37,7 +37,7 @@ layout: default
                         <th>Date de début</th>
                     </tr>
                     {% for phase in phases %}
-                        {% assign startups = site.startups | where:"status", phase.status %}
+                        {% assign startups = site.startups | where_phase: phase.status %}
                         {% for startup in startups %}
                             <tr>
                                 <td>{{ startup.title }}</td>

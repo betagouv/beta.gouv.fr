@@ -9,7 +9,7 @@ id,name,mission,start,status,incubator,stats,link,repository
     {%- assign title = startup.title -%}
     {%- assign mission = startup.mission -%}
     {%- assign start = startup.phases.first.start -%}
-    {%- assign status = startup.status -%}
+    {%- assign status = startup | get_phase -%}
     {%- assign incubator = startup.incubator -%}
     {%- if startup.stats_url -%}{%- assign stats = startup.stats_url -%}{%- else -%}{%- assign stats = 'null' -%}{%- endif -%}
     {%- if startup.link -%}{%- assign link = startup.link -%}{%- else -%}{%- assign link = 'null' -%}{%- endif -%}

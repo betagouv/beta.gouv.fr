@@ -23,7 +23,7 @@ layout: null
         , "attributes":
             { "name"          : "{{ startup.title }}"
             , "pitch"         : "{{ startup.mission }}"
-            , "status"        : "{{ startup.status}}"
+            , "status"        : "{{ startup | get_phase }}"
             , "screenshot-url": "{{ site.url}}{{ screenshot_path }}"
             }
         }

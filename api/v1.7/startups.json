@@ -14,7 +14,7 @@ layout: null
             { "name"  : "{{ startup.title }}"
             , "pitch" : "{{ startup.mission }}"
             , "start": "{{ startup.phases.first.start}}"
-            , "status": "{{ startup.status}}"{% if startup.stats %}
+            , "status": "{{ startup | get_phase }}"{% if startup.stats %}
             , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}{% if startup.link %}
             , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
             , "repository": "{{ startup.repository}}"{% endif %}

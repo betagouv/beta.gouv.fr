@@ -14,7 +14,7 @@ layout: null
             { "name"  : "{{ startup.title }}"
             , "pitch" : "{{ startup.mission }}"
             , "start": "{{ startup.phases.first.start}}"
-            , "status": "{{ startup.status}}"
+            , "status": "{{ startup | get_phase }}"
             }
         , "relationships":
             { "incubator":
