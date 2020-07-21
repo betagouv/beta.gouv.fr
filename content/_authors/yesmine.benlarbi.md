@@ -1,7 +1,6 @@
 ---
 fullname: Yesmine Ben Larbi
 role: Stagiaire
-link:
 github: yesmine-ben
 missions:
   - start: 2020-07-21
@@ -9,5 +8,5 @@ missions:
     status: stagiaire
     employer: dinum
 startups:
-  - demarches-simplifiees.fr
+    - demarches-simplifiees.fr
 ---
