@@ -60,7 +60,7 @@ Pour devenir testeur, c'est [ici](https://betagouv.github.io/ecosante/).
 
 ## Calendrier
 
-JANVIER 2020 : phase d'investigation
-AVRIL 2020 : recrutement de l'équipe
-JUILLET 2020 : début de la phase de test
-OCTOBRE 2020 : deuxième comité d'investissement
+* JANVIER 2020 : phase d'investigation
+* AVRIL 2020 : recrutement de l'équipe
+* JUILLET 2020 : début de la phase de test
+* OCTOBRE 2020 : deuxième comité d'investissement
