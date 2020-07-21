@@ -4,7 +4,9 @@ mission: Mieux cibler les interventions en remédiation de l’État vers les en
 owner: DINUM
 incubator: dinum
 status: transfert
-start: 2014-05-15
+phases:
+  - name: investigation
+    start: 2014-05-15
 end:
 link: 
 repository: https://github.com/entrepreneur-interet-general/opensignauxfaibles

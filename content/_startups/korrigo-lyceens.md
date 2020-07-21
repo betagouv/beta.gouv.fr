@@ -4,7 +4,9 @@ mission: Mutualiser les services régionaux à destination des lycéens
 owner: Région Bretagne
 incubator: dinsic 
 status: alumni
-start: 2019-10-21
+phases:
+  - name: investigation
+    start: 2019-10-21
 end: 
 link:
 repository: 

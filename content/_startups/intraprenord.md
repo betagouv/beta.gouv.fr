@@ -4,7 +4,9 @@ mission: Permettre aux usagers de trouver le bon interlocuteur au sein du dépar
 owner: Département du Nord
 incubator: dinsic 
 status: investigation
-start: 2020-01-14
+phases:
+  - name: investigation
+    start: 2020-01-14
 end: 
 link:
 repository: 

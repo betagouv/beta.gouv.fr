@@ -4,7 +4,9 @@ mission: Favoriser l'émergence d'une plateforme de concertation innovante entre
 owner: Agglomération de Pau Béarn Pyrénées
 incubator: dinsic 
 status: alumni
-start: 2019-02-04
+phases:
+  - name: investigation
+    start: 2019-02-04
 end: 
 link:
 repository: 

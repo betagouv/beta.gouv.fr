@@ -4,7 +4,9 @@ mission:  Apporter l'information environnementale au plus près des citoyens
 owner: ADEME
 incubator: dinum
 status: construction
-start: 2019-01-02 
+phases:
+  - name: investigation
+    start: 2019-01-02 
 end: 
 link: https://ecolab.ademe.fr/
 repository:

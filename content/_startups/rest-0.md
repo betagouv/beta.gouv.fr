@@ -4,7 +4,9 @@ mission: Réduire le gaspillage alimentaire dans les cantines scolaires
 owner: Département des Côtes d'Armor
 incubator: preincubation
 status: investigation
-start: 2019-01-12
+phases:
+  - name: investigation
+    start: 2019-01-12
 end: 
 link:
 repository: 

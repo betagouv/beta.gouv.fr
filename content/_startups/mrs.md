@@ -4,7 +4,9 @@ mission: Simplifier et accélérer le remboursement des frais d'utilisation du v
 owner: CNAMTS / CPAM de la Haute-Garonne (31)
 incubator: dinum
 status: transfert
-start: 2017-10-01
+phases:
+  - name: investigation
+    start: 2017-10-01
 end:
 link: https://mrs.beta.gouv.fr
 repository: https://github.com/betagouv/mrs

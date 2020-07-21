@@ -4,7 +4,9 @@ mission: Permettre à un aidant professionnel de réaliser des démarches admini
 owner: Agence du Numérique
 incubator: anct
 status: construction
-start: 2019-03-13
+phases:
+  - name: investigation
+    start: 2019-03-13
 end:
 link: https://aidantsconnect.beta.gouv.fr
 repository: https://github.com/betagouv/Aidants_Connect

@@ -4,7 +4,9 @@ mission: Accéder à des conseils professionnels à proximité pour trouver un l
 owner: Direction de la jeunesse
 incubator: dinum
 status: alumni
-start: 2015-12-01
+phases:
+  - name: investigation
+    start: 2015-12-01
 end:
 link:
 repository: https://github.com/betagouv/boussole

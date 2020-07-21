@@ -4,7 +4,9 @@ mission: Réduire l’exposition aux facteurs environnementaux nocifs pour la sa
 owner: Ministère de la Santé - Ministère de la Transition Écologique et Solidaire
 incubator: dinum
 status: construction
-start: 2019-11-25 
+phases:
+  - name: investigation
+    start: 2019-11-25 
 end: 
 link:
 repository:

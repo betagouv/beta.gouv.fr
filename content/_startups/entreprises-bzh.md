@@ -4,7 +4,9 @@ mission: Assurer le suivi des demandes des entreprises entre les différents par
 owner: Région Bretagne
 incubator: dinsic 
 status: alumni
-start: 2019-10-21
+phases:
+  - name: investigation
+    start: 2019-10-21
 end: 
 link:
 repository: 

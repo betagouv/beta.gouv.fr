@@ -4,7 +4,9 @@ mission: Faciliter le déploiement de composteurs collectifs et encourager leur 
 incubator: dinum
 owner: DINUM
 status: construction
-start: 2019-06-03
+phases:
+  - name: investigation
+    start: 2019-06-03
 end:
 link: https://www.poubellesbattle.fr/
 repository: https://github.com/betagouv/poubellesbattle

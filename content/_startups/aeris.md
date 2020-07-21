@@ -4,7 +4,9 @@ mission: Limiter les rejets polluants dans l'air en facilitant et en harmonisant
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
 status: alumni
-start: 2018-01-01
+phases:
+  - name: investigation
+    start: 2018-01-01
 end:
 repository: https://github.com/mtes-mct/aeris
 stats: false

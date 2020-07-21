@@ -4,7 +4,9 @@ mission: Orienter les usagers qui souhaitent joindre le département du Calvados
 owner: Département du Calvados
 incubator: dinum
 status: alumni
-start: 2018-10-01
+phases:
+  - name: investigation
+    start: 2018-10-01
 end:
 link: https://www.calvados.fr/contact
 repository: https://github.com/betagouv/gps-usagers

@@ -4,7 +4,9 @@ mission: Permettre aux jeunes en difficulté de découvrir leurs compétences et
 owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi
 incubator: dinum
 status: acceleration
-start: 2018-06-06
+phases:
+  - name: investigation
+    start: 2018-06-06
 end:
 link: https://diagoriente.beta.gouv.fr/
 repository: https://github.com/betagouv/diagoriente-front

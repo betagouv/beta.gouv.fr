@@ -4,7 +4,9 @@ mission: Améliorer la prise en charge d'urgence pour les victimes de violences 
 owner: Département des Côtes d'Armor
 incubator: preincubation
 status: investigation
-start: 2019-01-12
+phases:
+  - name: investigation
+    start: 2019-01-12
 end: 
 link: 
 repository: 

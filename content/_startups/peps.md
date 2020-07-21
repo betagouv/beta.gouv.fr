@@ -4,7 +4,9 @@ mission: Faciliter la transition du modèle agricole grâce au partage d'expéri
 owner: Ministère de l'Agriculture et de l'Alimentation - Ministère de la Transition Écologique et Solidaire
 incubator: dinum
 status: construction
-start: 2019-05-13 
+phases:
+  - name: investigation
+    start: 2019-05-13 
 end: 
 link: 
 repository: https://github.com/betagouv/peps

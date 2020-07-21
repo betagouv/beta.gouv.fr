@@ -4,7 +4,9 @@ mission:  Développez le covoiturage sur votre territoire
 owner: DGITM
 incubator: dinum
 status: acceleration
-start: 2018-06-04
+phases:
+  - name: investigation
+    start: 2018-06-04
 end:
 link: http://covoiturage.beta.gouv.fr/
 repository: https://github.com/betagouv/preuve-covoiturage

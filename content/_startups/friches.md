@@ -4,7 +4,9 @@ mission: Faciliter la réhabilitation des friches
 owner: CEREMA
 incubator: dinum
 status: investigation
-start: 2020-02-12
+phases:
+  - name: investigation
+    start: 2020-02-12
 end: 
 link:
 repository: 

@@ -4,7 +4,9 @@ mission: Simplifier l'accès aux données et démarches administratives du trans
 owner: Ministère de la Transition écologique et solidaire / DGITM
 incubator: mtes
 status: acceleration
-start: 2018-01-08
+phases:
+  - name: investigation
+    start: 2018-01-08
 end:
 link: https://adock.beta.gouv.fr
 repository: https://github.com/MTES-MCT/adock-api

@@ -4,7 +4,9 @@ mission: Augmenter le nombre d'actions artistiques et culturelles pour les jeune
 owner: Ministère de la Culture
 incubator: dinum
 status: alumni
-start: 2018-04-01
+phases:
+  - name: investigation
+    start: 2018-04-01
 end:
 link: https://education-artistique-culturelle.fr
 repository: https://github.com/betagouv/eac

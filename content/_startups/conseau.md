@@ -4,7 +4,9 @@ mission: Améliorer la gestion des sécheresses par la maîtrise des prélèveme
 owner: Ministère de la transition écologique et solidaire
 incubator: mtes
 status: investigation
-start: 2020-03-15
+phases:
+  - name: investigation
+    start: 2020-03-15
 end:
 link:
 repository:

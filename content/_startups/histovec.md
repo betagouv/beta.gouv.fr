@@ -4,7 +4,9 @@ mission: Acheter un véhicule d'occasion en confiance en connaissant son histori
 owner: Ministère de l'Intérieur
 incubator: lab-mi
 status: acceleration
-start: 2018-03-01
+phases:
+  - name: investigation
+    start: 2018-03-01
 end:
 link: https://histovec.interieur.gouv.fr
 repository: https://github.com/histovec

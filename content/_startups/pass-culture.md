@@ -4,7 +4,9 @@ mission: Faciliter l'accès des jeunes à la culture
 owner: Ministère de la Culture
 incubator: dinum
 status: alumni
-start: 2017-12-01
+phases:
+  - name: investigation
+    start: 2017-12-01
 end:
 link: https://pass.culture.fr
 repository: https://pass-culture.gitbook.io/documents/informations-techniques#code-source

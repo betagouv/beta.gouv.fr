@@ -4,7 +4,9 @@ mission: Ouvrir les données du domaine minier pour partager l'information sur l
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
 status: acceleration
-start: 2018-01-01
+phases:
+  - name: investigation
+    start: 2018-01-01
 end:
 link: https://camino.beta.gouv.fr
 repository: https://github.com/MTES-MCT/camino-ui

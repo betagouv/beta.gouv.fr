@@ -4,7 +4,9 @@ mission: Obtenir un diplôme grâce à vos compétences
 owner: Pôle emploi
 incubator: pole-emploi
 status: transfert
-start: 2017-05-01
+phases:
+  - name: investigation
+    start: 2017-05-01
 end:
 link: https://avril.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/avril

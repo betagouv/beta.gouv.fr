@@ -4,7 +4,9 @@ mission: L’application de co-voiturage de scellés pour la Police et la Gendar
 owner: Ministère de l'Intérieur
 incubator: lab-mi
 status: alumni
-start: 2019-11-05
+phases:
+  - name: investigation
+    start: 2019-11-05
 end: 2020-06-08
 link: 
 repository: 

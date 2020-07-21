@@ -4,7 +4,9 @@ mission: Trouver des outils numériques pour améliorer la démocratie
 owner: Etalab / Open Government Partnership
 incubator: dinum
 status: alumni
-start: 2016-06-08
+phases:
+  - name: investigation
+    start: 2016-06-08
 end:
 link: https://ogptoolbox.org/
 repository: https://github.com/ogptoolbox/ogptoolbox-ui

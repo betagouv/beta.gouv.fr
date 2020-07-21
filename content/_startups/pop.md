@@ -4,7 +4,9 @@ mission: Valoriser notre patrimoine culturel auprès du plus grand nombre
 incubator: dinum
 owner: Ministère de la Culture
 status: alumni
-start: 2018-04-01
+phases:
+  - name: investigation
+    start: 2018-04-01
 end:
 link: https://pop.culture.gouv.fr/
 repository: https://github.com/betagouv/pop

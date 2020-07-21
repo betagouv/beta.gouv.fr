@@ -4,7 +4,9 @@ mission: Mettre en relation des candidats validés par la méthode de recrutemen
 owner: Pôle emploi
 incubator: pole-emploi
 status: transfert
-start: 2018-05-02
+phases:
+  - name: investigation
+    start: 2018-05-02
 link: https://perspectives.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/perspectives
 stats: false

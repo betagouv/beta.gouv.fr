@@ -4,7 +4,9 @@ mission: Faciliter la remobilisation des logements vacants par les collectivité
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
 status: investigation
-start: 2020-03-15
+phases:
+  - name: investigation
+    start: 2020-03-15
 end:
 link: 
 repository: 

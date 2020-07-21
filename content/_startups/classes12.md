@@ -4,7 +4,9 @@ mission: Faciliter le passage en classe à 12 pour les enseignants et maximiser 
 owner: Ministère de l'Éducation nationale
 incubator: dinum
 status: acceleration
-start: 2018-06-01
+phases:
+  - name: investigation
+    start: 2018-06-01
 end:
 link: http://classea12.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12

@@ -4,7 +4,9 @@ mission: Optimiser la réponse collective du monde agricole et des services de l
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 incubator: mtes
 status: alumni
-start: 2017-12-31
+phases:
+  - name: investigation
+    start: 2017-12-31
 end:
 link: 
 repository: https://github.com/MTES-MCT/assec

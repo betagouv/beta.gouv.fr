@@ -4,7 +4,9 @@ mission: Gérer la traçabilité des déchets, en toute sécurité
 owner: Ministère de la Transition écologique et solidaire 
 incubator: mtes
 status: acceleration
-start: 2018-11-01
+phases:
+  - name: investigation
+    start: 2018-11-01
 end:
 link: https://trackdechets.beta.gouv.fr
 repository: https://github.com/MTES-MCT/trackdechets

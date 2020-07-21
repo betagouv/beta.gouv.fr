@@ -4,7 +4,9 @@ mission: 'TPE & PME, vous avez un projet, une difficulté, une question du quoti
 owner: 'Ministère de l’Économie (DGE) / Ministère du Travail (DGEFP)'
 incubator: dinum
 status: acceleration
-start: 2017-04-03
+phases:
+  - name: investigation
+    start: 2017-04-03
 end:
 link: https://place-des-entreprises.beta.gouv.fr
 repository: https://github.com/betagouv/place-des-entreprises

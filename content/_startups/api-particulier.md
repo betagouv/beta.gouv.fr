@@ -4,7 +4,9 @@ mission: Accélérer l’ouverture des données personnelles et leur réutilisat
 owner: DINUM
 incubator: apigouv
 status: alumni
-start: 2015-10-11
+phases:
+  - name: investigation
+    start: 2015-10-11
 end:
 link: https://particulier.api.gouv.fr/
 repository: https://github.com/betagouv/api-particulier

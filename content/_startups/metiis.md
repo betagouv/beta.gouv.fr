@@ -4,7 +4,9 @@ mission: Révéler le potentiel de la réserve
 owner: Ministère des Armées
 incubator: fabnumdef
 status: construction
-start: 2020-01-01
+phases:
+  - name: investigation
+    start: 2020-01-01
 link:
 repository:
 stats: false

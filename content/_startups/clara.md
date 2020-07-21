@@ -4,7 +4,9 @@ mission: Découvrir les aides et mesures Pôle emploi qui accélèrent la repris
 owner: Pôle emploi
 incubator: pole-emploi
 status: transfert
-start: 2017-04-01
+phases:
+  - name: investigation
+    start: 2017-04-01
 end:
 link: https://clara.pole-emploi.fr/
 repository: https://github.com/StartupsPoleEmploi/clara

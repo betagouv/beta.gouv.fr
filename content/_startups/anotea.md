@@ -4,7 +4,9 @@ mission: Eclairer les personnes qui cherchent une formation professionnelle en a
 owner: Pôle emploi
 incubator: pole-emploi
 status: transfert
-start: 2018-04-01
+phases:
+  - name: investigation
+    start: 2018-04-01
 link: https://anotea.pole-emploi.fr
 stats: true
 repository: https://github.com/StartupsPoleEmploi/anotea

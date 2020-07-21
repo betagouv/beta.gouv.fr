@@ -4,7 +4,9 @@ mission: Améliorer la prévention sexuelle pour les jeunes de moins de 25 ans
 owner: Ministère des Affaires sociales
 incubator: sgmas
 status: construction
-start: 2019-07-01
+phases:
+  - name: investigation
+    start: 2019-07-01
 end:
 link: 
 repository:

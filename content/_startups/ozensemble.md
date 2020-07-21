@@ -4,7 +4,9 @@ mission:  Offrir à tous un accès simple aux soins en addictologie
 owner: ARS IdF
 incubator: sgmas
 status: construction
-start: 2020-01-01 
+phases:
+  - name: investigation
+    start: 2020-01-01 
 end: 
 link: https://www.ozensemble.fr/
 repository:

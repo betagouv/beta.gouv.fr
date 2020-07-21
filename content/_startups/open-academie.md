@@ -4,7 +4,9 @@ mission: Construire le lycée et le collège de demain
 owner: Ministère de l'Éducation nationale
 incubator: dinum
 status: alumni
-start: 2015-01-01
+phases:
+  - name: investigation
+    start: 2015-01-01
 end:
 link: https://openacademie.beta.gouv.fr
 repository: https://github.com/betagouv/open-academie

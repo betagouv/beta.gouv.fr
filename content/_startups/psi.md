@@ -4,7 +4,9 @@ mission: Simplifier radicalement le règlement des cotisations sociales par les 
 owner: DINUM
 incubator: dinum
 status: alumni
-start: 2014-12-15
+phases:
+  - name: investigation
+    start: 2014-12-15
 end:
 link:
 repository:

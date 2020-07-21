@@ -4,7 +4,9 @@ mission: Aider et accompagner les femmes en situation de précarité pour qu’e
 owner: Agglomération de Pau Béarn Pyrénées
 incubator: dinsic 
 status: alumni
-start: 2019-03-09
+phases:
+  - name: investigation
+    start: 2019-03-09
 end: 
 link:
 repository: 

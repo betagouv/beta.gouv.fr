@@ -4,7 +4,9 @@ mission: Suivre sa plainte en ligne.
 owner: Ministère de l'Intérieur
 incubator: lab-mi
 status: investigation
-start: 2019-11-05
+phases:
+  - name: investigation
+    start: 2019-11-05
 end:
 link:
 repository:

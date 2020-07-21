@@ -4,7 +4,9 @@ mission: Optimiser le service de voiture de transport avec chauffeur au sein des
 owner: Ministère des Armées
 incubator: fabnumdef
 status: acceleration
-start: 2018-09-01
+phases:
+  - name: investigation
+    start: 2018-09-01
 repository: https://github.com/fabnumdef/e-chauffeur
 stats: false
 contact: frederic.bardolle@def.gouv.fr

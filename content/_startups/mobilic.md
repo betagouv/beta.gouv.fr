@@ -4,7 +4,9 @@ mission: Simplifier le suivi et le respect du temps de travail des travailleurs 
 owner: Ministère de la Transition écologique et solidaire 
 incubator: mtes
 status: construction
-start: 2019-11-01
+phases:
+  - name: investigation
+    start: 2019-11-01
 end:
 link: https://mobilic.beta.gouv.fr
 repository: https://github.com/MTES-MCT/mobilic

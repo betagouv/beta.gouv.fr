@@ -4,7 +4,9 @@ mission: Trouver rapidement le bon professionnel pour les majeurs à protéger
 owner: Ministère des Affaires sociales
 incubator: sgmas
 status: acceleration
-start: 2017-10-26
+phases:
+  - name: investigation
+    start: 2017-10-26
 end:
 link: https://emjpm.num.social.gouv.fr/
 repository: https://github.com/SocialGouv/eMJPM-homepage

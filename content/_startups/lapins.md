@@ -4,7 +4,9 @@ mission: Réduire le nombre de rendez-vous annulés dans les maisons départemen
 owner: Consortium de départements
 incubator: dinum
 status: acceleration
-start: 2018-01-18
+phases:
+  - name: investigation
+    start: 2018-01-18
 end: 
 link: https://rdv-solidarites.fr
 repository: https://github.com/betagouv/rdv-solidarites.fr

@@ -4,7 +4,9 @@ mission: Interrogez les référentiels géographiques plus facilement
 owner: DINUM
 incubator: apigouv
 status: alumni
-start: 2015-01-01
+phases:
+  - name: investigation
+    start: 2015-01-01
 end:
 link: https://geo.api.gouv.fr
 repository: https://github.com/etalab/geoapi

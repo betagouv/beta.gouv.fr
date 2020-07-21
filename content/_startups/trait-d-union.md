@@ -4,7 +4,9 @@ mission: Permettre aux demandeurs d'emploi d'essayer des métiers qui recrutent 
 owner: Région Grand Est
 incubator: dinum
 status: alumni
-start: 2019-01-01
+phases:
+  - name: investigation
+    start: 2019-01-01
 end:
 link: https://traitdunion.beta.gouv.fr
 repository: https://github.com/betagouv/trait-d-union

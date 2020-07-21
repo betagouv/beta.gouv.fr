@@ -4,7 +4,9 @@ mission: Trouvez ici les entreprises qui recrutent régulièrement en alternance
 owner: Pôle emploi
 incubator: pole-emploi
 status: success
-start: 2018-03-19
+phases:
+  - name: investigation
+    start: 2018-03-19
 end:
 link: https://labonnealternance.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/labonnealternance

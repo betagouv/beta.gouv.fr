@@ -4,7 +4,9 @@ mission: Faire baisser le nombre d'anomalies rencontrées par les consommateurs
 owner: Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)
 incubator: dinum
 status: acceleration
-start: 2018-06-18
+phases:
+  - name: investigation
+    start: 2018-06-18
 end:
 link: https://signal.conso.gouv.fr
 repository: https://github.com/betagouv/signalement-app

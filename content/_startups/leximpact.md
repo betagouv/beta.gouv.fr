@@ -4,7 +4,9 @@ mission: Aider nos parlementaires à estimer les impacts de leurs amendements av
 owner: Assemblée nationale
 incubator: dinum
 status: alumni
-start: 2019-01-21
+phases:
+  - name: investigation
+    start: 2019-01-21
 end: 2020-01-03
 link: https://leximpact.an.fr
 repository: https://github.com/betagouv/leximpact-client

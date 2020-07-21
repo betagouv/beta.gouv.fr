@@ -4,7 +4,9 @@ mission: Permettre aux élèves de 3e d'accéder à des stages pertinents et de 
 owner: CGET
 incubator: dinum
 status: construction
-start: 2018-12-01
+phases:
+  - name: investigation
+    start: 2018-12-01
 end:
 link: https://www.monstagedetroisieme.fr/
 repository: https://github.com/betagouv/monstage

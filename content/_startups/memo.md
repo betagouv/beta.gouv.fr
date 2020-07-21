@@ -4,7 +4,9 @@ mission: Vos candidatures en un clin d'oeil
 owner: Pôle emploi
 incubator: pole-emploi
 status: alumni
-start: 2016-01-03
+phases:
+  - name: investigation
+    start: 2016-01-03
 end:
 link: https://memo.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/memo

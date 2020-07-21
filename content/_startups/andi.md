@@ -4,7 +4,9 @@ mission: Faciliter l'immersion professionnelle des personnes en situation de han
 owner: Caisse des dépôts 
 incubator: dinum
 status: alumni
-start: 2019-05-16 
+phases:
+  - name: investigation
+    start: 2019-05-16 
 end: 2020-05-15
 link: https://andi.beta.gouv.fr/
 repository: https://github.com/betagouv/andi

@@ -4,7 +4,9 @@ mission: Faciliter l'accès au droit du travail pour les entreprises et les empl
 owner: ministère du Travail
 incubator: sgmas
 status: acceleration
-start: 2017-12-01
+phases:
+  - name: investigation
+    start: 2017-12-01
 end:
 link: https://code.travail.gouv.fr
 repository: https://github.com/SocialGouv/code-du-travail-numerique

@@ -4,7 +4,9 @@ mission: Permettre aux personnes isolées et parfois coupées d'internet de se d
 owner: Ademe / Préfecture du Lot (46)
 incubator: anct
 status: construction
-start: 2018-11-26
+phases:
+  - name: investigation
+    start: 2018-11-26
 end:
 link: https://www.lotocar.fr
 repository: https://github.com/DavidBruant/lotocar

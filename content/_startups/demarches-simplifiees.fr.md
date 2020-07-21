@@ -4,7 +4,9 @@ mission: Dématérialiser n’importe quelle démarche administrative en quelque
 owner: DINUM
 incubator: dinum
 status: success
-start: 2015-09-15
+phases:
+  - name: investigation
+    start: 2015-09-15
 end:
 link: https://www.demarches-simplifiees.fr
 repository: https://github.com/betagouv/tps

@@ -4,7 +4,9 @@ mission: Remettre la confiance au centre de la relation entre propriétaires et 
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 incubator: mtes
 status: acceleration
-start: 2018-01-01
+phases:
+  - name: investigation
+    start: 2018-01-01
 end:
 link: https://DossierFacile.fr/?utm_source=BetaGouv
 repository: https://github.com/MTES-MCT/locatio

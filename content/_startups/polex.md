@@ -5,7 +5,9 @@ mission: Détecter et suivre les fraudes à l’examen du permis de conduire
 owner: Ministère de l'Intérieur
 incubator: lab-mi
 status: construction
-start: 2018-03-01
+phases:
+  - name: investigation
+    start: 2018-03-01
 end:
 link:
 repository: 

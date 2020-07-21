@@ -8,7 +8,9 @@ link: https://acceslibre.beta.gouv.fr
 repository: https://github.com/MTES-MCT/acceslibre
 contact: julia.zucker@developpement-durable.gouv.fr
 stats: true
-start: 2019-11-01
+phases:
+  - name: investigation
+    start: 2019-11-01
 product_launch_date: ""
 national_scale_date: ""
 end: null

@@ -4,7 +4,9 @@ mission: L'outil unique de gestion, de pilotage et de valorisation de l'activit�
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
 status: construction
-start: 2019-11-01
+phases:
+  - name: investigation
+    start: 2019-11-01
 end:
 link:
 repository: https://github.com/MTES-MCT/partaj

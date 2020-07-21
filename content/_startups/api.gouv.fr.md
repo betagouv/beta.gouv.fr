@@ -4,7 +4,9 @@ mission: Le site qui référence toutes les APIs du service public
 owner: DINUM
 incubator: dinum
 status: success
-start: 2016-01-25
+phases:
+  - name: investigation
+    start: 2016-01-25
 end:
 link: https://api.gouv.fr
 repository: https://github.com/betagouv/api.gouv.fr

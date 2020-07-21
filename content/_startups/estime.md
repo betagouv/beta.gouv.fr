@@ -6,7 +6,9 @@ owner: Pôle emploi
 incubator: pole-emploi
 status: construction
 contact: juliette.fracchiolla-hurstel@pole-emploi.fr
-start: 2020-04-01
+phases:
+  - name: investigation
+    start: 2020-04-01
 product_launch_date: 2020-06-04
 national_scale_date: 
 end: 

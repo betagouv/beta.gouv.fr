@@ -4,7 +4,9 @@ mission: "L'assistant officiel du créateur d'entreprise"
 owner: Acoss
 incubator: dinum
 status: transfert
-start: 2014-10-01
+phases:
+  - name: investigation
+    start: 2014-10-01
 end:
 link: https://mon-entreprise.fr
 repository: https://github.com/betagouv/mon-entreprise

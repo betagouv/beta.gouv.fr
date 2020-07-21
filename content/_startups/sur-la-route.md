@@ -4,7 +4,9 @@ mission: Eviter les travaux sauvages sur les routes départementales
 owner: Département du Pas-de-Calais
 incubator: dinsic 
 status: alumni
-start: 2020-01-14
+phases:
+  - name: investigation
+    start: 2020-01-14
 end: 
 link:
 repository: 

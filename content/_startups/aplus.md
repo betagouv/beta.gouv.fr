@@ -4,7 +4,9 @@ mission: Résoudre les blocages administratifs inextricables
 owner: DINUM
 incubator: dinum
 status: acceleration
-start: 2017-10-01
+phases:
+  - name: investigation
+    start: 2017-10-01
 end:
 link: https://aplus.beta.gouv.fr/
 repository: https://github.com/betagouv/aplus

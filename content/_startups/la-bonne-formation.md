@@ -4,7 +4,9 @@ mission: Rechercher une formation efficace pour le retour à l'emploi et découv
 owner: Pôle emploi
 incubator: pole-emploi
 status: success
-start: 2015-05-01
+phases:
+  - name: investigation
+    start: 2015-05-01
 end:
 link: https://labonneformation.pole-emploi.fr
 repository: https://git.beta.pole-emploi.fr/open-source/labonneformation

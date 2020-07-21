@@ -4,7 +4,9 @@ mission: Soutenir les agents qui assurent la sécurité aérienne
 owner: DGAC
 incubator: dinum
 status: alumni
-start: 2019-03-01
+phases:
+  - name: investigation
+    start: 2019-03-01
 end:
 repository:
 stats: false

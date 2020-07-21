@@ -4,7 +4,9 @@ mission: Diminuer la quantité de désinformation à laquelle un individu est co
 owner: Ambassadeur pour le numérique
 incubator: dinum
 status: construction
-start: 2019-01-10
+phases:
+  - name: investigation
+    start: 2019-01-10
 end:
 link: https://disinfo.quaidorsay.fr
 repository: https://github.com/AmbaNum/disinfo.quaidorsay.fr
