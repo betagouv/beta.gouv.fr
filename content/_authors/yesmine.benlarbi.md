@@ -9,5 +9,5 @@ missions:
     status: stagiaire
     employer: dinum
 startups:
-    - demarches-simplifiees.fr
+  - demarches-simplifiees.fr
 ---
