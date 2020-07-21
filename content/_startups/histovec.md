@@ -3,11 +3,10 @@ title: HistoVec
 mission: Acheter un véhicule d'occasion en confiance en connaissant son historique
 owner: Ministère de l'Intérieur
 incubator: lab-mi
-status: acceleration
 phases:
   - name: investigation
     start: 2018-03-01
-end:
+  - name: acceleration
 link: https://histovec.interieur.gouv.fr
 repository: https://github.com/histovec
 stats: false

@@ -3,11 +3,12 @@ title: Cobot
 mission: Mettre les petites contributions numériques au service de l'intérêt général
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: alumni
 phases:
   - name: investigation
     start: 2017-12-15
-end: 2019-09-01
+    end: 2019-09-01
+  - name: alumni
+    start: 2019-09-01
 link: https://cobot.beta.gouv.fr/
 repository:
 stats: false

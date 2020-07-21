@@ -3,11 +3,10 @@ title: Registre de preuve de covoiturage
 mission:  Développez le covoiturage sur votre territoire
 owner: DGITM
 incubator: dinum
-status: acceleration
 phases:
   - name: investigation
     start: 2018-06-04
-end:
+  - name: acceleration
 link: http://covoiturage.beta.gouv.fr/
 repository: https://github.com/betagouv/preuve-covoiturage
 stats: true

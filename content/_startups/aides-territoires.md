@@ -3,11 +3,10 @@ title: Aides-territoires
 mission: Accéder aux meilleures aides pour les projets de votre territoire
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: acceleration
 phases:
   - name: investigation
     start: 2018-01-01
-end: 2018-07-30
+  - name: acceleration
 link: https://aides-territoires.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/aides-territoires
 stats: false

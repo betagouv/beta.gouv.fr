@@ -3,11 +3,10 @@ title: Administration+, le service public VIP pour tous
 mission: Résoudre les blocages administratifs inextricables
 owner: DINUM
 incubator: dinum
-status: acceleration
 phases:
   - name: investigation
     start: 2017-10-01
-end:
+  - name: acceleration
 link: https://aplus.beta.gouv.fr/
 repository: https://github.com/betagouv/aplus
 stats: true

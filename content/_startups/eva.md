@@ -4,11 +4,10 @@ mission: Favoriser l’insertion en détectant les compétences transversales et
 
 owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi - DGEFP
 incubator: dinum
-status: construction
 phases:
   - name: investigation
     start: 2018-06-06
-end:
+  - name: construction
 link: https://eva.beta.gouv.fr/
 repository: https://github.com/betagouv/eva/
 stats: true

@@ -3,11 +3,10 @@ title: Pix
 mission: Mesurer, développer et valoriser ses compétences numériques
 owner: GIP PIX
 incubator: dinum
-status: success
 phases:
   - name: investigation
     start: 2016-06-08
-end:
+  - name: success
 link: https://pix.fr
 repository: https://github.com/1024pix/pix/
 stats: true

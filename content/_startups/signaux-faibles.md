@@ -3,11 +3,10 @@ title: Signaux Faibles
 mission: Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté
 owner: DINUM
 incubator: dinum
-status: transfert
 phases:
   - name: investigation
     start: 2014-05-15
-end:
+  - name: transfert
 link: 
 repository: https://github.com/entrepreneur-interet-general/opensignauxfaibles
 stats: false

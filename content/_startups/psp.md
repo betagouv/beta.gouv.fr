@@ -3,11 +3,10 @@ title: Portail Suivi Plaintes
 mission: Suivre sa plainte en ligne.
 owner: Ministère de l'Intérieur
 incubator: lab-mi
-status: investigation
 phases:
   - name: investigation
     start: 2019-11-05
-end:
+  - name: investigation
 link:
 repository:
 stats: false

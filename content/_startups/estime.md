@@ -4,14 +4,13 @@ mission: Soutenir la reprise d'activité des demandeurs d'emploi en leur
   permettant de connaitre les ressources financières dont ils disposeront 
 owner: Pôle emploi
 incubator: pole-emploi
-status: construction
 contact: juliette.fracchiolla-hurstel@pole-emploi.fr
 phases:
   - name: investigation
     start: 2020-04-01
-product_launch_date: 2020-06-04
-national_scale_date: 
-end: 
+    end: 2020-06-04
+  - name: construction
+    start: 2020-06-04
 ---
 **Problème** 
 

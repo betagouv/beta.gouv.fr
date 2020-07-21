@@ -3,11 +3,10 @@ title: RDV Solidarités (anciennement Lapins)
 mission: Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité
 owner: Consortium de départements
 incubator: dinum
-status: acceleration
 phases:
   - name: investigation
     start: 2018-01-18
-end: 
+  - name: acceleration
 link: https://rdv-solidarites.fr
 repository: https://github.com/betagouv/rdv-solidarites.fr
 stats: false

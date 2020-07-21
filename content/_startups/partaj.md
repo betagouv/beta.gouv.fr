@@ -3,11 +3,10 @@ title: Partaj
 mission: L'outil unique de gestion, de pilotage et de valorisation de l'activité conseil des affaires juridiques
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: construction
 phases:
   - name: investigation
     start: 2019-11-01
-end:
+  - name: construction
 link:
 repository: https://github.com/MTES-MCT/partaj
 stats: false

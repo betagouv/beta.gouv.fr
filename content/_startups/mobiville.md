@@ -4,14 +4,13 @@ mission: Diminuer le nombre d'emplois non pourvus en facilitant la mobilité
   géographique des actifs
 owner: "Pôle emploi et Action Logement "
 incubator: pole-emploi
-status: construction
 phases:
   - name: investigation
     start: 2020-04-01
-product_launch_date: 2020-06-04
-national_scale_date: ""
+    end: 2020-06-04
+  - name: construction
+    start: 2020-06-04
 contact: mobiville@pole-emploi.fr
-end: ""
 ---
 **Problème** 
 

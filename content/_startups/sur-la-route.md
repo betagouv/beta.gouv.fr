@@ -3,11 +3,10 @@ title: Sur la route !
 mission: Eviter les travaux sauvages sur les routes départementales
 owner: Département du Pas-de-Calais
 incubator: dinsic 
-status: alumni
 phases:
   - name: investigation
     start: 2020-01-14
-end: 
+  - name: alumni
 link:
 repository: 
 stats: false 

@@ -3,11 +3,10 @@ title: Plateforme Ouverte du Patrimoine
 mission: Valoriser notre patrimoine culturel auprès du plus grand nombre
 incubator: dinum
 owner: Ministère de la Culture
-status: alumni
 phases:
   - name: investigation
     start: 2018-04-01
-end:
+  - name: alumni
 link: https://pop.culture.gouv.fr/
 repository: https://github.com/betagouv/pop
 stats: true

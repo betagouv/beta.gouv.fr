@@ -3,11 +3,10 @@ title: Medlé
 mission: Permettre aux structures de médecine légale de consigner l'activité réalisée sur réquisition judiciaire et les personnels affectés
 owner: Ministère des Solidarités et de la Santé
 incubator: sgmas
-status: construction
 phases:
   - name: investigation
     start: 2019-06-15
-end:
+  - name: construction
 link: https://medle.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/medle
 stats: false

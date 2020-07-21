@@ -3,11 +3,10 @@ title: Mon-entreprise.fr
 mission: "L'assistant officiel du créateur d'entreprise"
 owner: Acoss
 incubator: dinum
-status: transfert
 phases:
   - name: investigation
     start: 2014-10-01
-end:
+  - name: transfert
 link: https://mon-entreprise.fr
 repository: https://github.com/betagouv/mon-entreprise
 stats: true

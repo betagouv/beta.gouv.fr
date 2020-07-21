@@ -3,11 +3,10 @@ title: FEDEL-DM
 mission: Déclarer facilement sa manifestation sur la voie publique
 owner: Ministère de l'Intérieur
 incubator: lab-mi
-status: construction
 phases:
   - name: investigation
     start: 2019-11-05
-end:
+  - name: construction
 link: 
 repository: 
 stats: false

@@ -3,11 +3,10 @@ title: maraudes
 mission: Accompagner l'insertion des personnes à la rue
 incubator: sgmas
 owner: le Ministère des Affaires sociales
-status: construction
 phases:
   - name: investigation
     start: 2019-06-01
-end:
+  - name: construction
 link:
 stats: false
 contact: giulia.reboa@jscs.gouv.fr

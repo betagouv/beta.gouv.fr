@@ -3,11 +3,10 @@ title: Open Académie
 mission: Construire le lycée et le collège de demain
 owner: Ministère de l'Éducation nationale
 incubator: dinum
-status: alumni
 phases:
   - name: investigation
     start: 2015-01-01
-end:
+  - name: alumni
 link: https://openacademie.beta.gouv.fr
 repository: https://github.com/betagouv/open-academie
 stats: false

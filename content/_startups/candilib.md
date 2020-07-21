@@ -3,11 +3,10 @@ title: CandiLib
 mission: Réserver simplement sa place d'examen pratique au permis de conduire
 owner: Ministère de l'Intérieur
 incubator: lab-mi
-status: transfert
 phases:
   - name: investigation
     start: 2018-05-01
-end:
+  - name: transfert
 link: https://beta.interieur.gouv.fr/candilib/
 repository: https://github.com/LAB-MI/candilibV2
 stats: false

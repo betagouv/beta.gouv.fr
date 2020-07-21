@@ -3,11 +3,10 @@ title: API Drones
 mission: Une meilleure connaissance du ciel pour plus de sécurité et d'innovation
 owner: SGDSN
 incubator: dinum
-status: alumni
 phases:
   - name: investigation
     start: 2017-06-01
-end:
+  - name: alumni
 link:
 repository: https://framagit.org/drone
 stats: false

@@ -6,14 +6,13 @@ layout: null
     { "self": "{{ site.url }}/startups" }
 , "data":
     [
-    {% assign startups = site.startups | where_exp: 'startups', 'startups.status != alumni' %}
-    {% for startup in startups %}
+    {% for startup in site.startups %}
         { "id"        : "{{ startup.id | remove: '/startups/' }}"
         , "type"      : "startup"
         , "attributes":
             { "name"          : "{{ startup.title }}"
             , "pitch"         : "{{ startup.mission }}"
-            , "status"        : "{{ startup | get_phase }}"
+            , "status"        : "{{ startup.phases.last.name }}"
             }
         }
         {% unless forloop.last %},{% endunless %}

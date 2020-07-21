@@ -3,10 +3,10 @@ title: Anotea
 mission: Eclairer les personnes qui cherchent une formation professionnelle en affichant les notes et commentaires collectés auprès des demandeurs d'emploi sortis de formation.
 owner: Pôle emploi
 incubator: pole-emploi
-status: transfert
 phases:
   - name: investigation
     start: 2018-04-01
+  - name: transfert
 link: https://anotea.pole-emploi.fr
 stats: true
 repository: https://github.com/StartupsPoleEmploi/anotea

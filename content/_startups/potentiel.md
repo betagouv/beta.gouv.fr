@@ -3,11 +3,10 @@ title: Potentiel
 mission: Accompagner le déploiement des projets d’énergies renouvelables électriques
 owner: Ministère de la transition écologique et solidaire
 incubator: mtes
-status: construction
 phases:
   - name: investigation
     start: 2020-01-01
-end:
+  - name: construction
 link:
 repository: https://github.com/MTES-MCT/potentiel
 stats: false

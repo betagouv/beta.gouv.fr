@@ -3,11 +3,10 @@ title: mes-aides.bretagne.bzh
 mission: Faciliter l'accès et l’octroi des aides publiques par les collectivités bretonnes
 owner: Région Bretagne
 incubator: dinsic 
-status: alumni
 phases:
   - name: investigation
     start: 2019-10-21
-end: 
+  - name: alumni
 link:
 repository: 
 stats: false 

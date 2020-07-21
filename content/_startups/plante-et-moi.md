@@ -3,11 +3,10 @@ title: Plante & Moi
 mission: Augmenter la présence de la nature en ville
 owner: DINUM
 incubator: dinum
-status: construction
 phases:
   - name: investigation
     start: 2016-10-01
-end:
+  - name: construction
 link:
 repository: https://github.com/betagouv/plante-et-moi
 stats: false

@@ -3,11 +3,10 @@ title: Le Taxi
 mission: Commander un taxi, rapidement
 owner: DGITM
 incubator: dinum
-status: acceleration
 phases:
   - name: investigation
     start: 2015-03-15
-end:
+  - name: acceleration
 link: https://le.taxi
 repository: https://github.com/openmaraude/APITaxi
 stats: true

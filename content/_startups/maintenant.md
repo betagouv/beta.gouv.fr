@@ -3,11 +3,10 @@ title: Maintenant!
 mission: Recrutez des gens, pas des CV
 owner: Pôle emploi
 incubator: pole-emploi
-status: success
 phases:
   - name: investigation
     start: 2016-02-02
-end:
+  - name: success
 link: https://maintenant.pole-emploi.fr
 repository: 
 stats: true

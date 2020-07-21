@@ -3,11 +3,10 @@ title: Poubelles Battle
 mission: Faciliter le déploiement de composteurs collectifs et encourager leur utilisation
 incubator: dinum
 owner: DINUM
-status: construction
 phases:
   - name: investigation
     start: 2019-06-03
-end:
+  - name: construction
 link: https://www.poubellesbattle.fr/
 repository: https://github.com/betagouv/poubellesbattle
 stats: true

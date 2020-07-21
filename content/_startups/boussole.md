@@ -3,11 +3,10 @@ title: Boussole des droits
 mission: Accéder à des conseils professionnels à proximité pour trouver un logement, une formation ou un emploi
 owner: Direction de la jeunesse
 incubator: dinum
-status: alumni
 phases:
   - name: investigation
     start: 2015-12-01
-end:
+  - name: alumni
 link:
 repository: https://github.com/betagouv/boussole
 stats: false

@@ -3,11 +3,10 @@ title: Réserve civique
 mission: Donner de son temps pour l'intérêt général
 owner: Haut-commissariat à l'engagement civique
 incubator: dinum
-status: construction
 phases:
   - name: investigation
     start: 2017-03-23
-end:
+  - name: construction
 link: https://reserve-civique.beta.gouv.fr
 repository:
 stats: false

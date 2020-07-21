@@ -3,11 +3,10 @@ title: Bourse
 mission: Demander et liquider une bourse de collège en ligne
 owner: DINUM
 incubator: dinum
-status: alumni
 phases:
   - name: investigation
     start: 2015-03-01
-end:
+  - name: alumni
 link:
 repository: https://github.com/betagouv/bourses/
 stats: false

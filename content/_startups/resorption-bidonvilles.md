@@ -3,11 +3,10 @@ title: Résorption bidonvilles
 mission: Connaître, partager et agir pour résorber les bidonvilles
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: acceleration
 phases:
   - name: investigation
     start: 2018-10-01
-end: 
+  - name: acceleration
 link: http://resorption-bidonvilles.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/action-bidonvilles
 stats: false

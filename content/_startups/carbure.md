@@ -3,11 +3,10 @@ title: Carbure
 mission: Gestion centralisée des flux de biocarburants
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: construction
 phases:
   - name: investigation
     start: 2020-01-01
-end: 
+  - name: construction
 link: https://carbure.beta.gouv.fr
 repository: https://github.com/MTES-MCT/carbure
 stats: false

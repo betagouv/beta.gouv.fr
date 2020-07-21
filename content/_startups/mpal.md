@@ -3,11 +3,10 @@ title: Les aides de l’Anah
 mission: Accéder rapidement et simplement aux aides à l’habitat privé
 owner: Agence nationale de l’habitat (Anah)
 incubator: dinum
-status: alumni
 phases:
   - name: investigation
     start: 2016-05-01
-end:
+  - name: alumni
 link: https://monprojet.anah.gouv.fr/
 repository: 
 stats: true
