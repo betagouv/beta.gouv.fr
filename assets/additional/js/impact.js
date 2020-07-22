@@ -1,5 +1,5 @@
 var impressions = [{
-  id: 'start',
+  id: 'investigation',
 },{
   id: 'construction',
 },{
@@ -24,37 +24,20 @@ $.ajax(prefix + "startups.json").done(function(response) {
       return
     }
 
-    map.start.raw.push(startup.attributes.phases[0].start)
+    map.investigation.raw.push(startup.attributes.phases[0].start)
 
-    const cDate = startup.attributes.phases.reduce(function(date, current) {
-      if (current.start && (current.name === 'investigation' || current.name === 'construction')) {
-        return current.start
+    var steps = ['construction', 'alumni', 'success']
+    steps.forEach(function(step) {
+      const sDate = startup.attributes.phases.reduce(function(date, current) {
+        if (current.start && (current.name === step)) {
+          return current.start
+        }
+        return date
+      }, null)
+      if (sDate) {
+        map[step].raw.push(sDate)
       }
-      return date
-    }, null)
-    if (cDate) {
-      map.construction.raw.push(cDate)
-    }
-
-    const aDate = startup.attributes.phases.reduce(function(date, current) {
-      if (current.start && current.name === 'alumni') {
-        return current.start
-      }
-      return date
-    }, null)
-    if (aDate) {
-      map.alumni.raw.push(aDate)
-    }
-
-    const sDate = startup.attributes.phases.reduce(function(date, current) {
-      if (current.start && current.name === 'success') {
-        return current.start
-      }
-      return date
-    }, null)
-    if (sDate) {
-      map.success.raw.push(sDate)
-    }
+    })
   })
 
   $.ajax(prefix + "authors.json").done(function(response) {
@@ -73,9 +56,9 @@ $.ajax(prefix + "startups.json").done(function(response) {
       }, false)
     })
 
-    map.start.raw.sort()
+    map.investigation.raw.sort()
     var today = new Date()
-    var start = new Date(map.start.raw[0])
+    var start = new Date(map.investigation.raw[0])
     var end = new Date(today.getFullYear() + '-12-31')
     function addDays(date, days) {
       var result = new Date(date)
