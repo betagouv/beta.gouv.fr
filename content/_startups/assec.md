@@ -6,7 +6,12 @@ incubator: mtes
 phases:
   - name: investigation
     start: 2017-12-31
+    end: 2018-04-13
+  - name: construction
+    start: 2018-04-13
+    end: 2018-06-18
   - name: alumni
+    start: 2018-06-18
 link: 
 repository: https://github.com/MTES-MCT/assec
 stats: false

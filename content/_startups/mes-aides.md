@@ -21,7 +21,6 @@ phases:
     end: 2020-03-03
   - name: alumni
     start: 2020-03-03
-  - name: alumni
 ---
 
 **[L'approche Startup d'État](https://github.com/betagouv/beta.gouv.fr/wiki/Comment-pr%C3%A9senter-beta.gouv.fr#approche) a été abandonnée par ce service publique numérique. Pour aller directement au post-mortem, c'est [ici](#quelques-éléments-de-contexte).**

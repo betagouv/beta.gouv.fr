@@ -6,7 +6,12 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2018-11-20
+    end: 2019-01-01
+  - name: construction
+    start: 2019-01-01
+    end: 2019-10-01
   - name: alumni
+    start: 2019-10-01
 contact: contact@voir-et-localiser.beta.gouv.fr
 ---
 
