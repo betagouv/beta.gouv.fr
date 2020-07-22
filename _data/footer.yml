@@ -46,6 +46,9 @@ links:
       label: Suivi d'audience et vie privée
       target: _pages/suivi.md
     -
+      label: Indicateurs & mesure d'impact
+      target: _pages/impact.md
+    -
       label: Conventions de partenariat
       url: https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/
 -

@@ -119,13 +119,13 @@ collections:
         widget: boolean
         required: false
       - label: Phases
-        name: Phases
+        name: phases
         label_singular: phase
         widget: list
         collapsed: false
         fields:
           - label: Nom
-            name: type
+            name: name
             widget: relation
             valueField: "{{slug}}"
             displayFields: ["{{label}} ({{slug}})"]
