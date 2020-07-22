@@ -6,7 +6,7 @@ incubator: pole-emploi
 phases:
   - name: investigation
     start: 2017-05-01
-  - name: transfert
+  - name: transfer
 link: https://avril.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/avril
 stats: true

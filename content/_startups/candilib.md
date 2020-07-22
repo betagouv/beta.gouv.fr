@@ -6,7 +6,7 @@ incubator: lab-mi
 phases:
   - name: investigation
     start: 2018-05-01
-  - name: transfert
+  - name: transfer
 link: https://beta.interieur.gouv.fr/candilib/
 repository: https://github.com/LAB-MI/candilibV2
 stats: false

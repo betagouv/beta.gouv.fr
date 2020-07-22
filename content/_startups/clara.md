@@ -6,7 +6,7 @@ incubator: pole-emploi
 phases:
   - name: investigation
     start: 2017-04-01
-  - name: transfert
+  - name: transfer
 link: https://clara.pole-emploi.fr/
 repository: https://github.com/StartupsPoleEmploi/clara
 stats: true

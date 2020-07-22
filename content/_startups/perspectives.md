@@ -6,7 +6,7 @@ incubator: pole-emploi
 phases:
   - name: investigation
     start: 2018-05-02
-  - name: transfert
+  - name: transfer
 link: https://perspectives.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/perspectives
 stats: false

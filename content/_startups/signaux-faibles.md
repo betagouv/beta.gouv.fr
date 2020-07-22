@@ -6,7 +6,7 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2014-05-15
-  - name: transfert
+  - name: transfer
 link: 
 repository: https://github.com/entrepreneur-interet-general/opensignauxfaibles
 stats: false

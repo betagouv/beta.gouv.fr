@@ -6,7 +6,7 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2018-03-28
-  - name: transfert
+  - name: transfer
 link:
 repository: https://github.com/betagouv/zam
 stats: false

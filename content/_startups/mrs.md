@@ -6,7 +6,7 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2017-10-01
-  - name: transfert
+  - name: transfer
 link: https://mrs.beta.gouv.fr
 repository: https://github.com/betagouv/mrs
 stats: true

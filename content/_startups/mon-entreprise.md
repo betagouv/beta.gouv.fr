@@ -6,7 +6,7 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2014-10-01
-  - name: transfert
+  - name: transfer
 link: https://mon-entreprise.fr
 repository: https://github.com/betagouv/mon-entreprise
 stats: true
