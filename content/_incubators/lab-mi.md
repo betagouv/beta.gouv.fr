@@ -4,6 +4,7 @@ owner: Ministère de l'Intérieur
 website: https://beta.interieur.gouv.fr/
 contact: mailto:stephane.ritter@interieur.gouv.fr
 address: Immeuble Lumière – 40, avenue des Terroirs de France – 75012 Paris
+github: https://github.com/LAB-MI
 ---
 Le Lab MI est l'incubateur du Ministère de l'Intérieur. Il a pour mission de faire émerger de nouveaux services numériques selon les principes et méthodes des Startups d'Etat.
 
