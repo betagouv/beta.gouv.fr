@@ -43,7 +43,7 @@ Les enjeux santé-environnement regroupent de nombreux sujets. L'équipe a donc 
 
 L'objectif est de trouver une solution à un problème exprimé par la population. 
 
-Nous avons réaliser plus de 50 entretiens qualitatifs avec des catégories de population différente, à la recherche de personnes directement impactées par la qualité de l'air. 
+Nous avons réalisé plus de 50 entretiens qualitatifs avec des catégories de population différente, à la recherche de personnes directement impactées par la qualité de l'air. 
 
 C'est auprès des personnes sensibles, et notamment atteintes de pathologies respiratoires, que nous avons trouvé un problème lié à la qualité de l'air. Ces échanges nous ont permis de formuler le problème suivant : 
 
