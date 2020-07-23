@@ -47,7 +47,7 @@ links:
       target: _pages/suivi.md
     -
       label: Indicateurs & mesure d'impact
-      target: _pages/impact.md
+      target: _pages/stats.md
     -
       label: Conventions de partenariat
       url: https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/

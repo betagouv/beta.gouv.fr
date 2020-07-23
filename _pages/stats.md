@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /impact/
+permalink: /stats/
 title: Indicateurs de beta.gouv.fr
 additional_js:
   - https://unpkg.com/jquery@2.2.2/dist/jquery.min.js
-  - impact.js
-redirect_from:
-  - /stats
+  - stats.js
 ---
 
 beta.gouv.fr a aussi une page stats.
