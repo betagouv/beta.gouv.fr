@@ -1,4 +1,4 @@
-var impressions = [{
+var metrics = [{
   id: 'investigation',
 },{
   id: 'construction',
@@ -10,10 +10,10 @@ var impressions = [{
   id: 'people',
 }]
 
-var map = {}
-impressions.forEach(function(i) {
-  i.raw = []
-  map[i.id] = i
+var db = {}
+metrics.forEach(function(metric) {
+  metric.incrementDates = []
+  db[metric.id] = metric
 })
 
 var prefix = '/api/v1.9/'
@@ -24,7 +24,7 @@ $.ajax(prefix + "startups.json").done(function(response) {
       return
     }
 
-    map.investigation.raw.push(startup.attributes.phases[0].start)
+    db.investigation.incrementDates.push(startup.attributes.phases[0].start)
 
     var steps = ['construction', 'alumni', 'success']
     steps.forEach(function(step) {
@@ -35,7 +35,7 @@ $.ajax(prefix + "startups.json").done(function(response) {
         return date
       }, null)
       if (sDate) {
-        map[step].raw.push(sDate)
+        db[step].incrementDates.push(sDate)
       }
     })
   })
@@ -49,16 +49,16 @@ $.ajax(prefix + "startups.json").done(function(response) {
 
       author.missions.reduce(function(done, mission) {
         if (!done && mission.status === 'admin') {
-          map.people.raw.push(mission.start)
+          db.people.incrementDates.push(mission.start)
           return true
         }
         return done
       }, false)
     })
 
-    map.investigation.raw.sort()
+    db.investigation.incrementDates.sort()
     var today = new Date()
-    var start = new Date(map.investigation.raw[0])
+    var start = new Date(db.investigation.incrementDates[0])
     var end = new Date(today.getFullYear() + '-12-31')
     function addDays(date, days) {
       var result = new Date(date)
@@ -76,35 +76,33 @@ $.ajax(prefix + "startups.json").done(function(response) {
         date: new Date(day),
       }
 
-      impressions.forEach(function(i) {
-        obj[day][i.id] = 0
+      metrics.forEach(function(metric) {
+        obj[day][metric.id] = 0
       })
 
       return obj
     }, {})
 
-    impressions.forEach(function(i) {
-      i.raw.forEach(function(s) {
+    metrics.forEach(function(metric) {
+      metric.incrementDates.forEach(function(s) {
         if (!dailyData[s]) {
           console.warn('Missing ' + s)
         }
-        dailyData[s][i.id] = dailyData[s][i.id] + 1
+        dailyData[s][metric.id] = dailyData[s][metric.id] + 1
       })
     })
 
     days.reduce(function(prev, d) {
-      impressions.forEach(function(i) {
-        prev[i.id] = prev[i.id] + dailyData[d][i.id]
-        dailyData[d][i.id + 'Cum'] = prev[i.id]
+      metrics.forEach(function(metric) {
+        prev[metric.id] = prev[metric.id] + dailyData[d][metric.id]
+        dailyData[d][metric.id + 'Cum'] = prev[metric.id]
       })
 
       return prev
-    }, impressions.reduce(function(r, i) {
-      r[i.id] = 0
+    }, metrics.reduce(function(r, metric) {
+      r[metric.id] = 0
       return r
     }, {}))
-
-
 
     var years = dailyDateList.reduce(function(accumulator, item) {
       var year = item.toISOString().slice(0, 4)
@@ -122,8 +120,8 @@ $.ajax(prefix + "startups.json").done(function(response) {
       var item = {
         period: y
       }
-      impressions.forEach(function(i) {
-        item[i.id] = next[i.id + 'Cum'] - (results.prev[i.id + 'Cum'] || 0)
+      metrics.forEach(function(metric) {
+        item[metric.id] = next[metric.id + 'Cum'] - (results.prev[metric.id + 'Cum'] || 0)
       })
       results.values.push(item)
       results.prev = next
@@ -149,31 +147,31 @@ $.ajax(prefix + "startups.json").done(function(response) {
       period: currentYear + '-proj',
       label: 'Projection pour toute l’année en cours (' + currentYear + ')',
     }
-    impressions.forEach(function(i) {
-      pCurrent[i.id] = Math.round(coef * (dailyData[projection.current][i.id + 'Cum'] - dailyData[projection.start][i.id + 'Cum']))
+    metrics.forEach(function(metric) {
+      pCurrent[metric.id] = Math.round(coef * (dailyData[projection.current][metric.id + 'Cum'] - dailyData[projection.start][metric.id + 'Cum']))
     })
     val.values.push(pCurrent)
 
-    var base = val.values.find(function(i) { return i.period === lastYear })
+    var base = val.values.find(function(item) { return item.period === lastYear })
     var current = val.values[val.values.length-1]
     var pNext = {
       period: nextYear + '-proj',
       label: 'Projection pour l’année prochaine (' + nextYear + ')',
     }
-    impressions.forEach(function(i) {
-      pNext[i.id] =  Math.round(current[i.id] * current[i.id] / base[i.id])
+    metrics.forEach(function(metric) {
+      pNext[metric.id] =  Math.round(current[metric.id] * current[metric.id] / base[metric.id])
     })
     val.values.push(pNext)
 
-    impressions.forEach(function(i) {
-      element = document.getElementById(i.id)
+    metrics.forEach(function(metric) {
+      element = document.getElementById(metric.id)
       val.values.forEach(function(item) {
-        if (!item[i.id]) {
+        if (!item[metric.id]) {
           return
         }
         var node = document.createElement('li')
         element.appendChild(node)
-        node.textContent = (item.label || item.period) + ' : ' + item[i.id]
+        node.textContent = (item.label || item.period) + ' : ' + item[metric.id]
       })
     })
   })
