@@ -115,7 +115,7 @@ $.ajax(prefix + "startups.json").done(function(response) {
       yearList: [start.toISOString().slice(0,4)]
     }).yearList
 
-    val = years.reduce(function(results, y) {
+    var displayedValues = years.reduce(function(results, y) {
       var next = dailyData[y + '-12-31']
       var item = {
         period: y
@@ -130,7 +130,7 @@ $.ajax(prefix + "startups.json").done(function(response) {
     }, {
       prev: {},
       values: []
-    })
+    }).values
 
     var lastYear = years[years.length-2]
     var currentYear = years[years.length-1]
@@ -150,10 +150,10 @@ $.ajax(prefix + "startups.json").done(function(response) {
     metrics.forEach(function(metric) {
       pCurrent[metric.id] = Math.round(coef * (dailyData[projection.current][metric.id + 'Cum'] - dailyData[projection.start][metric.id + 'Cum']))
     })
-    val.values.push(pCurrent)
+    displayedValues.push(pCurrent)
 
-    var base = val.values.find(function(item) { return item.period === lastYear })
-    var current = val.values[val.values.length-1]
+    var base = displayedValues.find(function(item) { return item.period === lastYear })
+    var current = displayedValues[displayedValues.length-1]
     var pNext = {
       period: nextYear + '-proj',
       label: 'Projection pour l’année prochaine (' + nextYear + ')',
@@ -161,11 +161,11 @@ $.ajax(prefix + "startups.json").done(function(response) {
     metrics.forEach(function(metric) {
       pNext[metric.id] =  Math.round(current[metric.id] * current[metric.id] / base[metric.id])
     })
-    val.values.push(pNext)
+    displayedValues.push(pNext)
 
     metrics.forEach(function(metric) {
       element = document.getElementById(metric.id)
-      val.values.forEach(function(item) {
+      displayedValues.forEach(function(item) {
         if (!item[metric.id]) {
           return
         }
