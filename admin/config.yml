@@ -122,6 +122,7 @@ collections:
         name: phases
         label_singular: phase
         widget: list
+        hint: Indiquez les étapes de la vie du produit de la plus ancienne à la plus récente.
         collapsed: false
         fields:
           - label: Nom
