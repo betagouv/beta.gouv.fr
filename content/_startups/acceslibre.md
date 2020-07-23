@@ -9,8 +9,8 @@ repository: https://github.com/MTES-MCT/acceslibre
 contact: julia.zucker@developpement-durable.gouv.fr
 stats: true
 start: 2019-11-01
-product_launch_date: ""
-national_scale_date: ""
+product_launch_date: null
+national_scale_date: null
 end: null
 redirect_from:
     - /startups/access4all
