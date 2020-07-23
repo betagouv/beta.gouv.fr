@@ -7,9 +7,9 @@ incubator: pole-emploi
 status: construction
 start: 2020-04-01
 product_launch_date: 2020-06-04
-national_scale_date: ""
+national_scale_date: null
 contact: mobiville@pole-emploi.fr
-end: ""
+end: null
 ---
 **Problème** 
 
