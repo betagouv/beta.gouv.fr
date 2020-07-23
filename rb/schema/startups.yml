@@ -9,6 +9,34 @@ mapping:
   "owner":
     type:      str
     required:  yes
+  "owner_type":
+    type:      str
+    enum:       
+       - administration-centrale
+       - service-deconcentre
+       - operateur
+       - securite-sociale
+       - collectivite-territoriale
+       - autre
+  "domaine_ministeriel":
+    type:      str
+    enum:      
+       - culture
+       - bercy
+       - spm # Service du premier ministre
+       - interieur
+       - environnement
+       - sante
+       - affaires-sociales
+       - travail
+       - education-nat
+       - enseignement-sup
+       - territoires
+       - outre-mer
+       - agriculture
+       - sport
+       - autres
+
   "status":
     type:      str
     required:  yes
