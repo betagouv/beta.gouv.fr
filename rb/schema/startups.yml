@@ -21,6 +21,7 @@ mapping:
   "domaine_ministeriel":
     type:      str
     enum:      
+       - affaires-etrangeres
        - culture
        - bercy
        - spm # Service du premier ministre
