@@ -2,6 +2,8 @@
 title: API Géo
 mission: Interrogez les référentiels géographiques plus facilement
 owner: DINUM
+owner_type: administration-centrale
+domaine_ministeriel: spm # Service du premier ministre
 incubator: apigouv
 status: alumni
 start: 2015-01-01
