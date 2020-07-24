@@ -2,6 +2,8 @@
 title: API Entreprise
 mission: Récupérer les données des entreprises
 owner: DINUM
+domaine_ministeriel: spm # Service du premier ministre
+owner_type: administration-centrale
 incubator: apigouv
 status: alumni
 start: 2014-01-01
