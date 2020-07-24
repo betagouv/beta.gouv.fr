@@ -2,6 +2,8 @@
 title: Bourse
 mission: Demander et liquider une bourse de collège en ligne
 owner: DINUM
+owner_type: administration-centrale
+domaine_ministeriel: spm # Service du premier ministre
 incubator: dinum
 status: alumni
 start: 2015-03-01
