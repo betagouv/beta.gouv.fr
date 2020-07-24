@@ -22,22 +22,22 @@ mapping:
     type:      str
     enum:      
        - affaires-etrangeres
-       - culture
-       - bercy
-       - spm # Service du premier ministre
-       - interieur
-       - environnement
-       - sante
        - affaires-sociales
-       - travail
+       - agriculture
+       - armees
+       - bercy
+       - culture
        - education-nat
        - enseignement-sup
-       - territoires
+       - environnement
+       - interieur
        - outre-mer
-       - agriculture
+       - sante
+       - spm # Service du premier ministre
        - sport
+       - travail
+       - territoires
        - autres
-
   "status":
     type:      str
     required:  yes
