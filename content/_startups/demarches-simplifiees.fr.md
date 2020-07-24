@@ -3,6 +3,8 @@ title: demarches-simplifiees.fr
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
 owner: DINUM
 incubator: dinum
+owner_type: administration-centrale
+domaine_ministeriel: spm # Service du premier ministre
 status: success
 start: 2015-09-15
 end:
