@@ -2,6 +2,8 @@
 title: DomiFa (domiciliation facilitée)
 mission: Faciliter l'accès aux droits pour les personnes sans domicile stable, en simplifiant la gestion de la domiciliation 
 owner: Ministère des Solidarités et de la Santé
+owner_type: administration-centrale
+domaine_ministeriel: affaires-sociales
 incubator: sgmas
 status: acceleration
 start: 2019-01-15
