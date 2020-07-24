@@ -2,10 +2,12 @@
 title: Fiches de banc
 mission: Augmenter la productivité du traitement des amendements dans les cabinets ministériels
 owner: DINUM
+domaine_ministeriel: spm # Service du premier ministre
+owner_type: administration-centrale
 incubator: dinum
 status: alumni
 start: 2015-01-12
-end:
+end:2016-01-09
 link:
 repository: https://github.com/betagouv/fiches-de-banc
 stats: false
