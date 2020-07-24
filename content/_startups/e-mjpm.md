@@ -2,6 +2,8 @@
 title: e-MJPM
 mission: Trouver rapidement le bon professionnel pour les majeurs à protéger
 owner: Ministère des Affaires sociales
+owner_type: administration-centrale
+domaine_ministeriel: sante
 incubator: sgmas
 status: acceleration
 start: 2017-10-26
