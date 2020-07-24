@@ -7,7 +7,7 @@ owner_type: administration-centrale
 incubator: dinum
 status: alumni
 start: 2015-01-12
-end:2016-01-09
+end: 2016-01-09
 link:
 repository: https://github.com/betagouv/fiches-de-banc
 stats: false
