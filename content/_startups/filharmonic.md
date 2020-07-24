@@ -2,6 +2,8 @@
 title: Fil'harmonic
 mission: Faciliter le travail administratif autour des contrôles ICPE
 owner: Ministère de la Transition Ecologique et Solidaire
+owner_type: administration-centrale
+domaine_ministeriel: environnement
 status: alumni
 start: 2018-11-01
 end:
