@@ -2,6 +2,8 @@
 title: Zam
 mission: Alléger la charge de préparation par le gouvernement du débat parlementaire.
 owner: DINUM
+owner_type: administration-centrale
+domaine_ministeriel: spm # Service du premier ministre
 incubator: dinum
 status: transfert
 start: 2018-03-28
