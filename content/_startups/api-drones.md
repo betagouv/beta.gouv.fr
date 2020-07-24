@@ -2,6 +2,8 @@
 title: API Drones
 mission: Une meilleure connaissance du ciel pour plus de sécurité et d'innovation
 owner: SGDSN
+owner_type: administration-centrale
+domaine_ministeriel: armees
 incubator: dinum
 status: alumni
 start: 2017-06-01
