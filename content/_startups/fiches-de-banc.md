@@ -11,7 +11,7 @@ end: 2016-01-09
 link:
 repository: https://github.com/betagouv/fiches-de-banc
 stats: false
-contact: matti.schneider@beta.gouv.fr
+contact: contact@beta.gouv.fr
 ---
 
 Une application web permettant d'émettre des avis sur les amendements déposés à l'Assemblée Nationale, et de répartir les réponses parmi plusieurs collaborateurs.
