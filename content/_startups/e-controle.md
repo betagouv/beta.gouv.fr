@@ -3,9 +3,10 @@ title: E-contrôle
 mission: Simplifier les échanges de documents entre un organisme de contrôle et les organisations contrôlées.
 owner: Cour des comptes
 incubator: dinum
-status: acceleration
-start: 2018-09-03
-end:
+phases:
+  - name: investigation
+    start: 2018-09-03
+  - name: acceleration
 link: https://e-controle-beta.ccomptes.fr
 repository: https://github.com/betagouv/e-controle
 stats: true

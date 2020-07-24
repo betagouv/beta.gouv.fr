@@ -3,9 +3,10 @@ title: MDPH en ligne
 mission: Faciliter les demandes de compensation du handicap auprès des MDPH
 owner: Caisse nationale de solidarité pour l'autonomie (CNSA)
 incubator: dinum
-status: alumni
-start: 2014-12-01
-end:
+phases:
+  - name: investigation
+    start: 2014-12-01
+  - name: alumni
 link: https://mdphenligne.cnsa.fr
 repository: https://github.com/betagouv/mdph
 stats: true

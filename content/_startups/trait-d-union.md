@@ -3,9 +3,10 @@ title: Trait d'Union
 mission: Permettre aux demandeurs d'emploi d'essayer des métiers qui recrutent et forment à côté de chez eux
 owner: Région Grand Est
 incubator: dinum
-status: alumni
-start: 2019-01-01
-end:
+phases:
+  - name: investigation
+    start: 2019-01-01
+  - name: alumni
 link: https://traitdunion.beta.gouv.fr
 repository: https://github.com/betagouv/trait-d-union
 stats: true

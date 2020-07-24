@@ -3,9 +3,10 @@ title:  Service National Universel
 mission: Développer la conscience citoyenne des jeunes en leur proposant de participer dès 15 ans à des missions d'intérêt général
 owner: Direction de la Jeunesse, de l'Education populaire et de la Vie associative, sous l'impulsion du Secrétaire d'Etat auprès du ministre de l'éducation nationale et de la jeunesse
 incubator: dinum
-status: construction
-start: 2020-01-01
-end:
+phases:
+  - name: investigation
+    start: 2020-01-01
+  - name: construction
 link: https://snu.gouv.fr
 repository:
 stats: false
