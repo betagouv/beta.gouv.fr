@@ -3,6 +3,8 @@ title: maraudes
 mission: Accompagner l'insertion des personnes à la rue
 incubator: sgmas
 owner: le Ministère des Affaires sociales
+owner_type: administration-centrale
+domaine_ministeriel: affaires-sociales
 status: construction
 start: 2019-06-01
 end:
