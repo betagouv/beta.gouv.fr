@@ -2,6 +2,8 @@
 title: Partaj
 mission: L'outil unique de gestion, de pilotage et de valorisation de l'activité conseil des affaires juridiques
 owner: Ministère de la Transition écologique et solidaire
+owner_type: administration-centrale
+domaine_ministeriel: environnement
 incubator: mtes
 status: construction
 start: 2019-11-01
