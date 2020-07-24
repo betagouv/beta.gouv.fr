@@ -2,7 +2,9 @@
 title: Plante & Moi
 mission: Augmenter la présence de la nature en ville
 owner: DINUM
+owner_type: administration-centrale
 incubator: dinum
+domaine_ministeriel: environnement
 status: construction
 start: 2016-10-01
 end:
