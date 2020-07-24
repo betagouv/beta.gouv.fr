@@ -2,6 +2,8 @@
 title: ANDi
 mission: Faciliter l'immersion professionnelle des personnes en situation de handicap
 owner: Caisse des dépôts 
+owner_type: service-deconcentre
+domaine_ministeriel: autres
 incubator: dinum
 status: alumni
 start: 2019-05-16 
