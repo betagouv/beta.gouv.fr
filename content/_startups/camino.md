@@ -2,6 +2,8 @@
 title: Camino
 mission: Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.
 owner: Ministère de la Transition écologique et solidaire
+owner_type: administration_centrale
+domaine_ministeriel: environnement
 incubator: mtes
 status: acceleration
 start: 2018-01-01
