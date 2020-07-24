@@ -2,6 +2,8 @@
 title: OGP Toolbox
 mission: Trouver des outils numériques pour améliorer la démocratie
 owner: Etalab / Open Government Partnership
+owner_type: administration-centrale
+domaine_ministeriel: spm # Service du premier ministre
 incubator: dinum
 status: alumni
 start: 2016-06-08
