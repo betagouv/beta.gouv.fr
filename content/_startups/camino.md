@@ -5,9 +5,10 @@ owner: Ministère de la Transition écologique et solidaire
 owner_type: administration-centrale
 domaine_ministeriel: environnement
 incubator: mtes
-status: acceleration
-start: 2018-01-01
-end:
+phases:
+  - name: investigation
+    start: 2018-01-01
+  - name: acceleration
 link: https://camino.beta.gouv.fr
 repository: https://github.com/MTES-MCT/camino-ui
 stats: true

@@ -5,9 +5,12 @@ owner: Caisse des dépôts
 owner_type: service-deconcentre
 domaine_ministeriel: autres
 incubator: dinum
-status: alumni
-start: 2019-05-16 
-end: 2020-05-15
+phases:
+  - name: investigation
+    start: 2019-05-16
+    end: 2020-05-15
+  - name: alumni
+    start: 2020-05-15
 link: https://andi.beta.gouv.fr/
 repository: https://github.com/betagouv/andi
 stats: true

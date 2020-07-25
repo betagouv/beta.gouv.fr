@@ -5,9 +5,10 @@ owner: DINUM
 owner_type: administration-centrale
 incubator: dinum
 domaine_ministeriel: environnement
-status: construction
-start: 2016-10-01
-end:
+phases:
+  - name: investigation
+    start: 2016-10-01
+  - name: construction
 link:
 repository: https://github.com/betagouv/plante-et-moi
 stats: false

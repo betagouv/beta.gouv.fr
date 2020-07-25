@@ -5,9 +5,10 @@ owner: ADEME
 owner_type: administration-centrale
 domaine_ministeriel: environnement
 incubator: dinum
-status: construction
-start: 2019-01-02 
-end: 
+phases:
+  - name: investigation
+    start: 2019-01-02 
+  - name: construction
 link: https://ecolab.ademe.fr/
 repository:
 stats: false

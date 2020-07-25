@@ -5,9 +5,10 @@ owner: Ministère de la Transition écologique et solidaire
 owner_type: administration-centrale
 domaine_ministeriel: environnement
 incubator: mtes
-status: acceleration
-start: 2018-11-01
-end:
+phases:
+  - name: investigation
+    start: 2018-11-01
+  - name: acceleration
 link: https://trackdechets.beta.gouv.fr
 repository: https://github.com/MTES-MCT/trackdechets
 stats: false

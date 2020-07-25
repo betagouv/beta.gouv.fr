@@ -5,9 +5,12 @@ owner: Ministère de la Transition écologique et solidaire
 owner_type: administration-centrale
 domaine_ministeriel: environnement
 incubator: mtes
-status: alumni
-start: 2018-11-01
-end: 2019-04-30
+phases:
+  - name: investigation
+    start: 2018-11-01
+    end: 2019-04-30
+  - name: alumni
+    start: 2019-04-30
 link:
 repository: 
 stats: false

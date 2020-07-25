@@ -3,9 +3,10 @@ title: MobiLIC
 mission: Simplifier le suivi et le respect du temps de travail des travailleurs mobiles
 owner: Ministère de la Transition écologique et solidaire 
 incubator: mtes
-status: construction
-start: 2019-11-01
-end:
+phases:
+  - name: investigation
+    start: 2019-11-01
+  - name: construction
 link: https://mobilic.beta.gouv.fr
 repository: https://github.com/MTES-MCT/mobilic
 stats: false

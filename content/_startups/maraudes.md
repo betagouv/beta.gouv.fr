@@ -5,9 +5,10 @@ incubator: sgmas
 owner: le Ministère des Affaires sociales
 owner_type: administration-centrale
 domaine_ministeriel: affaires-sociales
-status: construction
-start: 2019-06-01
-end:
+phases:
+  - name: investigation
+    start: 2019-06-01
+  - name: construction
 link:
 stats: false
 contact: giulia.reboa@jscs.gouv.fr

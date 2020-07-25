@@ -5,9 +5,10 @@ owner: SGDSN
 owner_type: administration-centrale
 domaine_ministeriel: armees
 incubator: dinum
-status: alumni
-start: 2017-06-01
-end:
+phases:
+  - name: investigation
+    start: 2017-06-01
+  - name: alumni
 link:
 repository: https://framagit.org/drone
 stats: false

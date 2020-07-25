@@ -5,9 +5,10 @@ owner: DINUM
 incubator: dinum
 owner_type: administration-centrale
 domaine_ministeriel: spm # Service du premier ministre
-status: success
-start: 2015-09-15
-end:
+phases:
+  - name: investigation
+    start: 2015-09-15
+  - name: success
 link: https://www.demarches-simplifiees.fr
 repository: https://github.com/betagouv/tps
 stats: true

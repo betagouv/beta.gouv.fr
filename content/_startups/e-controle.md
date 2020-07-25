@@ -5,9 +5,10 @@ owner: Cour des comptes
 domaine_ministeriel: autres
 owner_type: autre
 incubator: dinum
-status: transmission
-start: 2018-09-03
-end:
+phases:
+  - name: investigation
+    start: 2018-09-03
+  - name: acceleration
 link: https://e-controle-beta.ccomptes.fr
 repository: https://github.com/betagouv/e-controle
 stats: true

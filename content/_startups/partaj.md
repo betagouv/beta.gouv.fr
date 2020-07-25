@@ -5,9 +5,10 @@ owner: Ministère de la Transition écologique et solidaire
 owner_type: administration-centrale
 domaine_ministeriel: environnement
 incubator: mtes
-status: construction
-start: 2019-11-01
-end:
+phases:
+  - name: investigation
+    start: 2019-11-01
+  - name: construction
 link:
 repository: https://github.com/MTES-MCT/partaj
 stats: false

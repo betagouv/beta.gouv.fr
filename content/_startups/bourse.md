@@ -5,9 +5,10 @@ owner: DINUM
 owner_type: service-deconcentre
 domaine_ministeriel: education-nat
 incubator: dinum
-status: alumni
-start: 2015-03-01
-end:
+phases:
+  - name: investigation
+    start: 2015-03-01
+  - name: alumni
 link:
 repository: https://github.com/betagouv/bourses/
 stats: false

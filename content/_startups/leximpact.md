@@ -5,9 +5,13 @@ owner: Assemblée nationale
 domaine_ministeriel: autres
 owner_type: autre
 incubator: dinum
-status: alumni
-start: 2019-01-21
-end: 2020-01-03
+phases:
+  - name: investigation
+    start: 2019-01-21
+    end: 2020-01-03
+  - name: alumni
+    start: 2020-01-03
+  - name: alumni
 link: https://leximpact.an.fr
 repository: https://github.com/betagouv/leximpact-client
 stats: false

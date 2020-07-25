@@ -5,9 +5,10 @@ owner: Ministère des Solidarités et de la Santé
 owner_type: administration-centrale
 domaine_ministeriel: affaires-sociales
 incubator: sgmas
-status: acceleration
-start: 2019-01-15
-end:
+phases:
+  - name: investigation
+    start: 2019-01-15
+  - name: acceleration
 link: https://domifa.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/domifa
 stats: false

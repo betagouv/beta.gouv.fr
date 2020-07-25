@@ -37,7 +37,7 @@ layout: default
                         <th>Date de début</th>
                     </tr>
                     {% for phase in phases %}
-                        {% assign startups = site.startups | where:"status", phase.status %}
+                        {% assign startups = site.startups | where_phase: phase.status %}
                         {% for startup in startups %}
                             <tr>
                                 <td>{{ startup.title }}</td>
@@ -48,7 +48,7 @@ layout: default
                                 {% assign incubator = site.incubators | where:'id', incubator_id | first %}
                                 <td>{{ incubator.title }}</td>
 
-                                <td>{{ startup.start |  date: '%d/%m/%Y' }}</td>
+                                <td>{{ startup.phases.first.start |  date: '%d/%m/%Y' }}</td>
                             </tr>
                         {% endfor %}
                     {% endfor %}

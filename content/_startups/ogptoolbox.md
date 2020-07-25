@@ -5,9 +5,10 @@ owner: Etalab / Open Government Partnership
 owner_type: administration-centrale
 domaine_ministeriel: spm # Service du premier ministre
 incubator: dinum
-status: alumni
-start: 2016-06-08
-end:
+phases:
+  - name: investigation
+    start: 2016-06-08
+  - name: alumni
 link: https://ogptoolbox.org/
 repository: https://github.com/ogptoolbox/ogptoolbox-ui
 stats: false
