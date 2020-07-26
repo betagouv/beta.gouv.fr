@@ -3,7 +3,7 @@ title: FAST 4 - Juin 2020
 sidebar: sidebar-approche.html
 ---
 
-## [FAST 4 - Juillet 2020](https://blog.beta.gouv.fr/dinsic/2020/04/23/fast4/)
+## [FAST 4 - Juin 2020](https://blog.beta.gouv.fr/dinsic/2020/04/23/fast4/)
 
 ### **Le comité d'investissement :** ### 
 - Nadi Bou Hanna (DINUM)
