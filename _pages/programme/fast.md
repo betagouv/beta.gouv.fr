@@ -9,7 +9,7 @@ redirect_from:
   - /fast
 ---
 
-<img src="https://blog.beta.gouv.fr/img/posts/2020_05_07_1200x675_Twitter_FAST.JPG" alt="Image de présentation du FAST" style="width:100%;" />
+<img src="https://blog.beta.gouv.fr/img/posts/2020_07_24_1200x675_FAST-5-6_Visuel_Twitter.jpg" alt="Image de présentation du FAST" style="width:100%;" />
 
 L'appel à candidatures du Fonds d’accélération des Startups d’État et de Territoire (FAST) vise à co-financer des services publics numériques en phase d’accélération qui ont pour but de résoudre un problème de politique publique.  
 
@@ -35,7 +35,7 @@ Ce fonds a pour objectif d’investir dans des projets apportant des solutions c
 
 ##### Quelles sont les modalités d’investissement ?
 
-L’appel à candidatures de cette 4ème édition vise à soutenir des solutions numériques existantes, développées par des administrations publiques (Etat ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à l'échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
+Les appels à candidatures de ces deux prochaines éditions visent à soutenir des solutions numériques existantes, développées par des administrations publiques (Etat ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à l'échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
 
 L'administration doit être en mesure de garantir sa capacité à financer à hauteur de la somme qu'elle sollicite (exemple : si le besoin évalué est de 100 000 euros, vous sollicitez 50 000 euros de la DINUM et vous engagez un versement de 50 000 euros sur [une convention public-public](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/)).
 
@@ -49,7 +49,7 @@ Pour mieux comprendre l’approche Startup d'État, et en savoir plus sur les m�
 
 ##### Comment les projets sont-ils pré-sélectionnés ?
 
-Les projets sont pré-sélectionnés sur dossier. Que vous représentiez une administration centrale ou déconcentrée, une agence publique, un établissement public ou une autre administration vous pouvez remplir [le formulaire de candidature.](https://www.demarches-simplifiees.fr/commencer/fast4) 
+Les projets sont pré-sélectionnés sur dossier. Que vous représentiez une administration centrale ou déconcentrée, une agence publique, un établissement public ou une autre administration vous pouvez remplir [le formulaire de candidature.](https://www.demarches-simplifiees.fr/commencer/fast5_6) 
 
 A noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
 
@@ -72,14 +72,13 @@ Le dossier de candidature doit préciser clairement :
 
 L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de transfert. 
 
-[Cliquez ici pour compléter le dossier de candidature avant le lundi 15 juin 23h59.](https://www.demarches-simplifiees.fr/commencer/fast4)
+[Cliquez ici pour compléter le dossier de candidature avant le lundi 28 septembre 23h59 pour Fast 5 et le lundi 16 novembre 23h59 pour Fast 6.](https://www.demarches-simplifiees.fr/commencer/fast5_6)
 
 ## Quel est le processus de sélection du FAST ?
 
 * Vous sélectionnez un ou plusieurs services numériques existants ayant un impact mesuré, que vous souhaitez déployer.
 * Vous postulez en remplissant ce formulaire.
-* À la clôture de l’appel à candidatures, une présélection de 10 à 15 services numériques maximum est opérée par l’équipe en charge du FAST. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
-* Les candidats retenus sont coachés par les mentors de beta.gouv.fr pendant une demi-journée.
+* À la clôture de l’appel à candidatures, une présélection de 10 services numériques maximum est opérée par l’équipe en charge du FAST. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
 * Les candidats retenus présentent leur idée devant les membres du comité du FAST.
 * Si votre candidature est retenue, vous organisez dans les semaines qui suivent un comité d'engagement entre votre sponsor et l'équipe de co-animateurs de la DINUM pour cadrer les objectifs précis liés au financement. 
 * Vous signez une convention de partenariat avec la DINUM lors de cet échange. 
@@ -92,7 +91,7 @@ L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr 
 * L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique
 * L’adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV.
 
-Une grille de sélection pondérée vous sera transmise pour remplir votre dossier selon ces critères. 
+Une grille de sélection vous sera transmise pour présenter votre dossier devant le jury selon ces critères. 
 
 ## À quoi servira le ticket de cofinancement ?
 
@@ -115,7 +114,7 @@ Sur une durée d'environ 6 mois, ce ticket permettra donc de mobiliser des moyen
 
 ## Comment candidater ?
 
-[Cliquez ici pour compléter le dossier de candidature avant le lundi 15 juin 23h59.](https://www.demarches-simplifiees.fr/commencer/fast4)
+[Cliquez ici pour compléter le dossier de candidature avant le lundi 28 septembre 23h59 pour Fast 5 et le lundi 16 novembre 23h59 pour Fast 6.](https://www.demarches-simplifiees.fr/commencer/fast5_6)
 
 ## J’ai une question, qui puis-je contacter ?
 
