@@ -19,6 +19,8 @@ Ces services publics cherchent à résoudre des problèmes de politique publique
 
 Que vous soyez une administration, un établissement public, ou une collectivité territoriale engagés dans le développement ou l'accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction interministérielle du numérique pouvant aller jusqu'à 300 000 euros.
 
+Pour ce dernier semestre 2020, deux éditions sont programmées en septembre et en novembre, vous pouvez candidater sur l'une ou l'autre d'entre-elles. 
+
 Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux questions dédiée ainsi que les conditions d’éligibilité.
 
 ## À propos du FAST
@@ -72,7 +74,7 @@ Le dossier de candidature doit préciser clairement :
 
 L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de transfert. 
 
-[Cliquez ici pour compléter le dossier de candidature avant le lundi 28 septembre 23h59 pour Fast 5 et le lundi 16 novembre 23h59 pour Fast 6.](https://www.demarches-simplifiees.fr/commencer/fast5_6)
+[Candidatez-ici et inscrivez-vous sur la session du 28 septembre ou du 16 novembre 2020.](https://www.demarches-simplifiees.fr/commencer/fast5_6)
 
 ## Quel est le processus de sélection du FAST ?
 
@@ -114,7 +116,7 @@ Sur une durée d'environ 6 mois, ce ticket permettra donc de mobiliser des moyen
 
 ## Comment candidater ?
 
-[Cliquez ici pour compléter le dossier de candidature avant le lundi 28 septembre 23h59 pour Fast 5 et le lundi 16 novembre 23h59 pour Fast 6.](https://www.demarches-simplifiees.fr/commencer/fast5_6)
+[Candidatez-ici et inscrivez-vous sur la session du 28 septembre ou du 16 novembre 2020.](https://www.demarches-simplifiees.fr/commencer/fast5_6)
 
 ## J’ai une question, qui puis-je contacter ?
 
