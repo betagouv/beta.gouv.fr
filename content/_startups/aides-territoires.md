@@ -13,8 +13,6 @@ phases:
     start: 2018-01-01
     end: 2018-09-10
   - name: acceleration
-    start: 2018-09-11
-    end: ""
 ---
 ## Le problème
 
