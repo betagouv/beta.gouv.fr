@@ -2,6 +2,8 @@
 title: GPS usagers
 mission: Orienter les usagers qui souhaitent joindre le département du Calvados vers le bon interlocuteur et le bon moyen de communication
 owner: Département du Calvados
+owner_type: collectivite-territoriale
+domaine_ministeriel: territoires
 incubator: dinum
 phases:
   - name: investigation
