@@ -20,8 +20,8 @@ place de panneaux solaires dans ta commune, cela te parle ? Eh bien ce sont
 autant de projets qui sont réalisés par les collectivités en grande partie
 grâce aux aides publiques. Chaque jour, des milliers de projets dans les
 collectivités voient le jour et la mission d'Aides-territoires est d'aider ces
-communes à obtenir plus facilement des aides. Envie d'en savoir plus ? Visite
-notre site : https://aides-territoires.beta.gouv.fr
+communes à obtenir plus facilement des aides. Envie d'en savoir plus ? [Visite
+notre site.](https://aides-territoires.beta.gouv.fr)
 
 
 ## 🗺️ Le projet
@@ -50,8 +50,8 @@ Assurer la disponibilité technique du site, en veillant à des sujets aussi
 variés que **l'hébergement, le déploiement, l'administration du serveur ou la
 sécurité**.
 
-*Pour plus de détail sur la stack et technologies utilisées, consulte le code du
-produit: https://github.com/MTES-MCT/aides-territoires*.
+*Pour plus de détail sur la stack et technologies utilisées, [consulte le code du
+produit](https://github.com/MTES-MCT/aides-territoires).*
 
 ## ✨ Ton profil
 
