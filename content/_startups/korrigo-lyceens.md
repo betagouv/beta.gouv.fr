@@ -2,6 +2,8 @@
 title: Korrigo Lycéens
 mission: Mutualiser les services régionaux à destination des lycéens
 owner: Région Bretagne
+owner_type: collectivite-territoriale
+domaine_ministeriel: territoires
 incubator: dinsic 
 phases:
   - name: investigation
