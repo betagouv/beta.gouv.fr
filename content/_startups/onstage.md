@@ -2,6 +2,8 @@
 title: OnStage 📚 (stages de 3ème)
 mission: Renforcer les liens entre jeunes citoyens et entreprises du departement
 owner: Département des Côtes d'Armor
+owner_type: collectivite-territoriale
+domaine_ministeriel: territoires
 incubator: preincubation
 phases:
   - name: investigation
