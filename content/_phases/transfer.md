@@ -1,5 +1,5 @@
 ---
-status: transfert
+status: transfer
 label: Transfert
 type_label: service
 order: 2

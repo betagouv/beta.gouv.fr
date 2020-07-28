@@ -3,9 +3,10 @@ title: Fiches de banc
 mission: Augmenter la productivité du traitement des amendements dans les cabinets ministériels
 owner: DINUM
 incubator: dinum
-status: alumni
-start: 2015-01-12
-end:
+phases:
+  - name: investigation
+    start: 2015-01-12
+  - name: alumni
 link:
 repository: https://github.com/betagouv/fiches-de-banc
 stats: false

@@ -3,9 +3,10 @@ title: Place des Entreprises
 mission: 'TPE & PME, vous avez un projet, une difficulté, une question du quotidien ? Service public simple et rapide : vous êtes rappelé par LE conseiller qui peut vous aider.'
 owner: 'Ministère de l’Économie (DGE) / Ministère du Travail (DGEFP)'
 incubator: dinum
-status: acceleration
-start: 2017-04-03
-end:
+phases:
+  - name: investigation
+    start: 2017-04-03
+  - name: acceleration
 link: https://place-des-entreprises.beta.gouv.fr
 repository: https://github.com/betagouv/place-des-entreprises
 stats: true

@@ -3,9 +3,10 @@ title: Ecosanté
 mission: Réduire l’exposition aux facteurs environnementaux nocifs pour la santé
 owner: Ministère de la Santé - Ministère de la Transition Écologique et Solidaire
 incubator: dinum
-status: construction
-start: 2019-11-25 
-end: 
+phases:
+  - name: investigation
+    start: 2019-11-25 
+  - name: construction
 link:
 repository:
 stats: false 
@@ -43,7 +44,7 @@ Les enjeux santé-environnement regroupent de nombreux sujets. L'équipe a donc 
 
 L'objectif est de trouver une solution à un problème exprimé par la population. 
 
-Nous avons réaliser plus de 50 entretiens qualitatifs avec des catégories de population différente, à la recherche de personnes directement impactées par la qualité de l'air. 
+Nous avons réalisé plus de 50 entretiens qualitatifs avec des catégories de population différente, à la recherche de personnes directement impactées par la qualité de l'air. 
 
 C'est auprès des personnes sensibles, et notamment atteintes de pathologies respiratoires, que nous avons trouvé un problème lié à la qualité de l'air. Ces échanges nous ont permis de formuler le problème suivant : 
 
