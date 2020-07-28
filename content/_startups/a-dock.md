@@ -3,9 +3,10 @@ title: A Dock
 mission: Simplifier l'accès aux données et démarches administratives du transport routier de marchandises 
 owner: Ministère de la Transition écologique et solidaire / DGITM
 incubator: mtes
-status: acceleration
-start: 2018-01-08
-end:
+phases:
+  - name: investigation
+    start: 2018-01-08
+  - name: acceleration
 link: https://adock.beta.gouv.fr
 repository: https://github.com/MTES-MCT/adock-api
 stats: true

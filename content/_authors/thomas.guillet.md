@@ -12,7 +12,7 @@ missions:
     status: admin
     employer: dinum
   - start: 2019-12-06
-    end: 2020-12-24
+    end: 2020-12-25
     status: admin
     employer: dinum
 startups:
