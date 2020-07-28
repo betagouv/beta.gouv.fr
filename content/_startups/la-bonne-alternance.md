@@ -3,9 +3,10 @@ title: La Bonne Alternance
 mission: Trouvez ici les entreprises qui recrutent régulièrement en alternance
 owner: Pôle emploi
 incubator: pole-emploi
-status: success
-start: 2018-03-19
-end:
+phases:
+  - name: investigation
+    start: 2018-03-19
+  - name: success
 link: https://labonnealternance.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/labonnealternance
 stats: true

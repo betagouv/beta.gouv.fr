@@ -3,9 +3,10 @@ title: DIDOC
 mission: Dématérialisation des Invitations au Dépistage Organisé des Cancers
 owner: ARS Bourgogne-Franche-Comté et CRCDC Bourgogne-Franche-Comté
 incubator: sgmas
-status: construction
-start: 2020-01-15
-end:
+phases:
+  - name: investigation
+    start: 2020-01-15
+  - name: construction
 stats: false
 contact: Valerie.AGLIETTI@ars.sante.fr 
 ---
