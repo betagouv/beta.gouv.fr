@@ -17,15 +17,15 @@ Composée d'un intrapreneur, d'un développeur et d'un coach, cette petite équi
 
 # Le produit
 
-Le produit [CarbuRe](https://carbure.beta.gouv.fr/) est aujourd'hui en phase de beta-test avec des représentants de tous les maillons de la filière: des producteurs de biocarburants, des opérateurs pétroliers ainsi que des agents du Ministère de la Transition Écologique et Solidaire.
+Le produit [CarbuRe](https://carbure.beta.gouv.fr/) est aujourd'hui en phase de beta-test avec des représentants de tous les maillons de la filière: des producteurs de biocarburants, des opérateurs pétroliers ainsi que des agents du Ministère de la Transition Écologique.
 
-- CarbuRe propose en premier lieu une numérisation de l'Attestation de Durabilité: un document transmis par les producteurs de biocarburants auprès de leurs clients afin d'attester que la matière première ne provient pas de terres déforestées et que l'empreinte carbone totale du biocarburant est à minima 50% inférieure à celle d'un carburant fossile équivalent.
+- CarbuRe propose en premier lieu une numérisation de l'Attestation de Durabilité: un document transmis par les producteurs de biocarburants auprès de leurs clients afin d'attester que la matière première ne provient pas de terres déforestées et que l'empreinte carbone totale du biocarburant est d'au moins 50% inférieure à celle d'un carburant fossile équivalent.
 
 - Les opérateur pétroliers n'ont plus qu'à accepter les Attestations de Durabilité de leurs fournisseurs pour effectuer leur Déclaration de Durabilité auprès de la DGEC. 
 
 - Les intermédiaires et négociants peuvent également utiliser CarbuRe pour envoyer et recevoir les informations de durabilité.
 
-- L'ensemble des données recueillies donne une vision en temps réel de la filière et l'harmonisation des données permet de détecter des erreurs et des fraudes plus facilement ainsi que d'effectuer des contrôles ciblés.
+- L'ensemble des données ainsi recueillies apporte une vision en temps réel de la filière. L'analyse automatique de ces données permet de détecter les erreurs et les fraudes plus facilement ainsi que d'effectuer des contrôles ciblés. Plus globalement, la traçabilité de la filière s'en trouve nettement améliorée.
 
 - Nous souhaitons accélérer le développement de notre produit en accueillant un.e développeur.se supplémentaire. 
 
@@ -43,7 +43,7 @@ _Profil recherché_
 - vous savez travailler en équipe et vous voulez co-construire l’outil en plaçant la culture produit au coeur du travail
 - vous êtes intéressé.e par le développement front et back
 - vous avez une bonne expérience en JavaScript, HTML et CSS et maîtrisez au moins un framework front moderne (React, Angular...)
-- vous êtes familier du langage Python et les pratiques de devop (Docker, Continous Integration, Continuous Deployment)
+- vous êtes familier du langage Python et des pratiques de devops (Docker, Continous Integration, Continuous Deployment)
 
 
 **Idéalement** :
@@ -56,16 +56,17 @@ _Profil recherché_
 _Missions_
 
 - Participation au développement de la plateforme, en lien avec le développeur déjà présent sur le projet : reprise du code et prise en main du backlog, participation à l’architecture et poursuite du développement des plateformes web front et back-end
-- Optimisation du parcours et l’expérience utilisateur
-- Mise en place et maintenance des tests automatisés
+- Amélioration visuelle de l'interface
+- Optimisation du parcours et de l’expérience utilisateur
+- Mise en place et maintenance de tests automatisés
 
 _Détails techniques_
 
 Statut — Freelance
 
-Modalités de travail : télétravail possible en majeure partie, besoin de présence ponctuelle à la Défense (test utilisateur, démonstration, rétrospective et planification)
+Modalités de travail : 2 jours par semaine, télétravail possible en majeure partie, besoin de présence ponctuelle à La Défense (test utilisateur, démonstration, rétrospective et planification)
 
-**Date de début — 1er septembre 2020**
+**Date de début — Septembre 2020**
 
 **Envoyer une candidature** : carbure@beta.gouv.fr avec en copie tristan.robert@beta.gouv.fr 
 
