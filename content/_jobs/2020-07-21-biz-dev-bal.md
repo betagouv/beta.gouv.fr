@@ -59,4 +59,11 @@ Expérience professionnelle sur une mission similaire ou première expérience s
 - Animation d’ateliers de formation sur le produit
 - Gestion d’événements.
 
+## Modalités
+
+- Poste ouvert pour un indépendant ou une indépendante pour un premier contrat de 6 mois renouvelable, temps partiel au 3/5 ou 4/5 par semaine. 
+- Une présence régulière à Paris est demandée pour participer aux sessions stratégiques et collaboratives. 
+- Le télétravail est possible. 
+- Démarrage début septembre 2020.
+
 ### [Candidatez sur le site de l'Incubateur des Territoires](https://incubateur.anct.gouv.fr/recrutements/business-developpeur-se/)
