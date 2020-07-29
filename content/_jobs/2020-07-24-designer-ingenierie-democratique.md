@@ -9,7 +9,7 @@ open: true
 title: "l'Incubateur des Territoires recrute : un designer de services pour une plateforme d’ingénierie démocratique"
 ---
 
-L’Incubateur des Territoires recrute un designer/product manager pour mener une mission recherche utilisateurs avec l’ambition de créer une plateforme d’ingénierie démocratique. Cette startup de territoire vise à aider les collectivités et les acteurs territoriaux, notamment issus de territoires fragiles, à lancer, à gérer et à animer des projets de participation citoyenne. Elle a pour ambition la création d’une ingénierie innovante et partagée, se revendiquant notamment des coopérations interterritoriales et de la création de communs.
+L’Incubateur des Territoires recrute un designer pour mener une mission recherche utilisateurs avec l’ambition de créer une plateforme d’ingénierie démocratique. Cette startup de territoire vise à aider les collectivités et les acteurs territoriaux, notamment issus de territoires fragiles, à lancer, à gérer et à animer des projets de participation citoyenne. Elle a pour ambition la création d’une ingénierie innovante et partagée, se revendiquant notamment des coopérations interterritoriales et de la création de communs.
 
 ## Mission
 
