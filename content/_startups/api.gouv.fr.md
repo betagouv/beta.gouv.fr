@@ -2,14 +2,15 @@
 title: api.gouv.fr
 mission: Le site qui référence toutes les APIs du service public
 owner: DINUM
-incubator: dinum
+incubator: apigouv
 phases:
   - name: investigation
     start: 2016-01-25
   - name: success
 link: https://api.gouv.fr
 repository: https://github.com/betagouv/api.gouv.fr
-stats: false
+stats: true
+stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=22&period=range&date=previous30&updated=1#?idSite=22&period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1
 contact: contact@api.gouv.fr
 redirect_from:
     - /startups/apigouv
