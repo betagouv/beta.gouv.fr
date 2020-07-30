@@ -3,9 +3,10 @@ title: Classes à 12
 mission: Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves.
 owner: Ministère de l'Éducation nationale
 incubator: dinum
-status: acceleration
-start: 2018-06-01
-end:
+phases:
+  - name: investigation
+    start: 2018-06-01
+  - name: acceleration
 link: http://classea12.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12
 stats: false

@@ -3,9 +3,10 @@ title: Oz Ensemble
 mission:  Offrir à tous un accès simple aux soins en addictologie
 owner: ARS IdF
 incubator: sgmas
-status: construction
-start: 2020-01-01 
-end: 
+phases:
+  - name: investigation
+    start: 2020-01-01 
+  - name: construction
 link: https://www.ozensemble.fr/
 repository:
 stats: false
