@@ -2,8 +2,11 @@
 title: Trackdéchets
 mission: Gérer la traçabilité des déchets, en toute sécurité
 owner: Ministère de la Transition écologique et solidaire
-owner_type: administration-centrale
-domaine_ministeriel: environnement
+sponsors:
+    - name: Direction generale de la Prevention des risques
+      shortname: DGPR
+      domaine_ministeriel: environnement
+      type: administration-centrale
 incubator: mtes
 phases:
   - name: investigation
