@@ -1,7 +1,9 @@
 ---
 title : Plateforme EAC
 mission: Augmenter le nombre d'actions artistiques et culturelles pour les jeunes dans les établissements scolaires
-owner: Ministère de la Culture
+owner: Secrétariat général
+owner_type: administration-centrale
+domaine_ministeriel: culture
 incubator: dinum
 phases:
   - name: investigation
