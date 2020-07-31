@@ -2,6 +2,11 @@
 title: Le Taxi
 mission: Commander un taxi, rapidement
 owner: DGITM
+sponsors:
+    - name: Direction generale des Infrastructures, des Transports et de la Mer
+      shortname: DGITM
+      domaine_ministeriel: environnement
+      type: administration-centrale
 incubator: dinum
 phases:
   - name: investigation
