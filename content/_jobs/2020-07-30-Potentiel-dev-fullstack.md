@@ -72,4 +72,4 @@ Modalités de travail : 4 jours par semaine, télétravail possible en majeure p
 
 **Date de début — Septembre 2020**
 
-**Envoyer une candidature** : carbure@beta.gouv.fr avec en copie tristan.robert@beta.gouv.fr 
+**Envoyer une candidature** : contact@potentiel.beta.gouv.fr avec en copie tristan.robert@beta.gouv.fr 
