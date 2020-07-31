@@ -2,8 +2,11 @@
 title: Lotocar
 mission: Permettre aux personnes isolées et parfois coupées d'internet de se déplacer sur les territoires peu denses
 owner: Ademe / Préfecture du Lot (46)
-owner_type: operateur
-domaine_ministeriel: environnement
+sponsors:
+    - name: Agence pour la transition ecologique
+      shortname: ADEME
+      domaine_ministeriel: environnement
+      type: operateur
 incubator: anct
 phases:
   - name: investigation
