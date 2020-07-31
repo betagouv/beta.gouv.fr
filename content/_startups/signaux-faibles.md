@@ -2,6 +2,11 @@
 title: Signaux Faibles
 mission: Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté
 owner: DINUM
+sponsors:
+    - name: Direction generale des Entreprises
+      shortname: DGE
+      domaine_ministeriel: bercy
+      type: administration-centrale
 incubator: dinum
 phases:
   - name: investigation
