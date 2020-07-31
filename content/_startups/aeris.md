@@ -2,6 +2,11 @@
 title: Aeris
 mission: Limiter les rejets polluants dans l'air en facilitant et en harmonisant la déclaration et le suivi des émissions des industriels
 owner: Ministère de la Transition écologique et solidaire
+sponsors:
+    - name: Direction generale de la Prevention des risques
+      shortname: DGPR
+      domaine_ministeriel: environnement
+      type: administration-centrale
 incubator: mtes
 phases:
   - name: investigation
