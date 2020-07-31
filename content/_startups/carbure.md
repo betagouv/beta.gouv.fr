@@ -2,8 +2,11 @@
 title: Carbure
 mission: Gestion centralisée des flux de biocarburants
 owner: Ministère de la Transition écologique et solidaire
-owner_type: administration-centrale
-domaine_ministeriel: environnement
+sponsors:
+    - name: Direction generale de l'Energie et du Climat
+      shortname: DGEC
+      domaine_ministeriel: environnement
+      type: administration-centrale
 incubator: mtes
 phases:
   - name: investigation
