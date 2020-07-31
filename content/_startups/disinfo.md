@@ -2,8 +2,11 @@
 title: Disinfo
 mission: Diminuer la quantité de désinformation à laquelle un individu est confronté quotidiennement
 owner: Ambassadeur pour le numérique
-owner_type: administration-centrale
-domaine_ministeriel: affaires-etrangeres
+sponsors:
+    - name:
+      shortname: 
+      domaine_ministeriel: 
+      type: 
 incubator: dinum
 phases:
   - name: investigation
