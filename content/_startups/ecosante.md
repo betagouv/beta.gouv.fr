@@ -2,6 +2,11 @@
 title: Ecosanté
 mission: Réduire l’exposition aux facteurs environnementaux nocifs pour la santé
 owner: Ministère de la Santé - Ministère de la Transition Écologique et Solidaire
+sponsors:
+    - name: Direction generale de la sante
+      shortname: DGS
+      domaine_ministeriel: affaires-sociales
+      type: administration-centrale
 incubator: dinum
 phases:
   - name: investigation
