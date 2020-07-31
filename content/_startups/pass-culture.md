@@ -1,7 +1,9 @@
 ---
 title : Pass Culture
 mission: Faciliter l'accès des jeunes à la culture
-owner: Ministère de la Culture
+owner: direction générale de la création artistique
+domaine_ministeriel: culture
+owner_type: administration-centrale
 incubator: dinum
 phases:
   - name: investigation
