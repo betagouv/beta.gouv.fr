@@ -3,6 +3,8 @@ title: Poubelles Battle
 mission: Faciliter le déploiement de composteurs collectifs et encourager leur utilisation
 incubator: dinum
 owner: DINUM
+owner_type: administration-centrale
+domaine_ministeriel: environnement
 phases:
   - name: investigation
     start: 2019-06-03
