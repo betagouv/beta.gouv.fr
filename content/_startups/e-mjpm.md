@@ -2,8 +2,11 @@
 title: e-MJPM
 mission: Trouver rapidement le bon professionnel pour les majeurs à protéger
 owner: Ministère des Affaires sociales
-owner_type: administration-centrale
-domaine_ministeriel: sante
+sponsors:
+    - name: Direction generale de la cohesion sociale
+      shortname: DGCS
+      domaine_ministeriel: affaires-sociales
+      type: administration-centrale
 incubator: sgmas
 phases:
   - name: investigation
