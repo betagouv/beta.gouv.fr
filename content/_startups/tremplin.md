@@ -2,6 +2,11 @@
 title: Tremplin
 mission: Rapprocher les professionnels de santé de leur futur territoire d’exercice
 owner: Ministère des Solidarités et de la Santé
+sponsors:
+    - name: Direction generale de la sante
+      shortname: DGS
+      domaine_ministeriel: affaires-sociales
+      type: administration-centrale
 incubator: sgmas
 phases:
   - name: investigation
