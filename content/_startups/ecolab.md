@@ -2,12 +2,16 @@
 title: Ecolab
 mission:  Apporter l'information environnementale au plus près des citoyens
 owner: ADEME
-owner_type: administration-centrale
-domaine_ministeriel: environnement
+sponsors:
+    - name: Agence pour la transition ecologique
+      shortname: ADEME
+      domaine_ministeriel: environnement
+      type: operateur
 incubator: dinum
-status: construction
-start: 2019-01-02 
-end: 
+phases:
+  - name: investigation
+    start: 2019-01-02 
+  - name: construction
 link: https://ecolab.ademe.fr/
 repository:
 stats: false

@@ -3,9 +3,12 @@ title: Friches
 mission: Faciliter la réhabilitation des friches
 owner: CEREMA
 incubator: dinum
-status: investigation
-start: 2020-02-12
-end: 
+domaine_ministeriel: environnement
+owner_type: operateur
+phases:
+  - name: investigation
+    start: 2020-02-12
+  - name: investigation
 link:
 repository: 
 stats: false 

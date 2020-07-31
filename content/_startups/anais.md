@@ -3,8 +3,10 @@ title: ANAIS
 mission: Maîtriser notre espace maritime
 owner: Ministère des Armées
 incubator: fabnumdef
-status: construction
-start: 2019-04-05
+phases:
+  - name: investigation
+    start: 2019-04-05
+  - name: construction
 stats: false
 contact: frederic.bardolle@def.gouv.fr
 ---

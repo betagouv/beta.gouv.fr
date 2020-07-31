@@ -6,54 +6,57 @@ mapping:
   "mission":
     type:      str
     required:  yes
-  "owner":
-    type:      str
-    required:  yes
-  "owner_type":
-    type:      str
-    enum:       
-       - administration-centrale
-       - service-deconcentre
-       - operateur
-       - securite-sociale
-       - collectivite-territoriale
-       - autre
-  "domaine_ministeriel":
-    type:      str
-    enum:      
-       - affaires-etrangeres
-       - culture
-       - bercy
-       - spm # Service du premier ministre
-       - interieur
-       - environnement
-       - sante
-       - affaires-sociales
-       - travail
-       - education-nat
-       - enseignement-sup
-       - territoires
-       - outre-mer
-       - agriculture
-       - sport
-       - autres
-
-  "status":
-    type:      str
-    required:  yes
-  "start":
-    required:  yes
-    type:      any
-    assert:    "val.is_a?(Date) || val.nil? || (val.is_a?(String) && (val.empty? || val.match?(/^\d{4}-\d{2}-\d{2}$/)))"
-  "product_launch_date":
-    type:      any
-    assert:    "val.is_a?(Date) || val.nil? || (val.is_a?(String) && (val.empty? || val.match?(/^\d{4}-\d{2}-\d{2}$/)))"
-  "national_scale_date":
-    type:      any
-    assert:    "val.is_a?(Date) || val.nil? || (val.is_a?(String) && (val.empty? || val.match?(/^\d{4}-\d{2}-\d{2}$/)))"
-  "end":
-    type:      any
-    assert:    "val.is_a?(Date) || val.nil? || (val.is_a?(String) && (val.empty? || val.match?(/^\d{4}-\d{2}-\d{2}$/)))"
+  "sponsors":
+    type:      seq
+    sequence:
+        - type:      map
+          mapping:
+            "name":
+              type:      str
+              required:  yes
+            "shortname":
+              type:      str
+            "type":
+              type:      str
+              enum:
+                - administration-centrale
+                - service-deconcentre
+                - operateur
+                - securite-sociale
+                - collectivite-territoriale
+                - autre
+            "domaine_ministeriel":
+              type:      str
+              enum:
+                - affaires-etrangeres
+                - affaires-sociales
+                - agriculture
+                - armees
+                - bercy
+                - culture
+                - education-nat
+                - enseignement-sup
+                - environnement
+                - interieur
+                - outre-mer
+                - sante
+                - spm # Service du premier ministre
+                - sport
+                - travail
+                - territoires
+                - autres
+  "phases":
+    type:      seq
+    sequence:
+        - type:      map
+          mapping:
+            "start":
+              type:      date
+            "end":
+              type:      date
+            "name":
+              type:      str
+              assert:    "['investigation','construction','acceleration','success','transfer','alumni'].include?(val)"
   "incubator":
     type:      str
     required:  yes

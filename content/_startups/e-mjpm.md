@@ -5,9 +5,10 @@ owner: Ministère des Affaires sociales
 owner_type: administration-centrale
 domaine_ministeriel: sante
 incubator: sgmas
-status: acceleration
-start: 2017-10-26
-end:
+phases:
+  - name: investigation
+    start: 2017-10-26
+  - name: acceleration
 link: https://emjpm.num.social.gouv.fr/
 repository: https://github.com/SocialGouv/eMJPM-homepage
 stats: false

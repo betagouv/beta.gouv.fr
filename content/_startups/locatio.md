@@ -2,10 +2,16 @@
 title: DossierFacile
 mission: Remettre la confiance au centre de la relation entre propriétaires et locataires
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
+sponsors:
+    - name: Direction generale de l'Amenagement, du Logement et de la Nature / Direction de l'habitat, de l'urbanisme et des paysages
+      shortname: DGALN / DHUP
+      domaine_ministeriel: environnement
+      type: administration-centrale
 incubator: mtes
-status: acceleration
-start: 2018-01-01
-end:
+phases:
+  - name: investigation
+    start: 2018-01-01
+  - name: acceleration
 link: https://DossierFacile.fr/?utm_source=BetaGouv
 repository: https://github.com/MTES-MCT/locatio
 stats: false

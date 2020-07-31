@@ -1,11 +1,14 @@
 ---
 title: Résorption bidonvilles
 mission: Connaître, partager et agir pour résorber les bidonvilles
-owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
+owner: Délégation interministérielle à l'hébergement et à l'accès au logement (DIHAL)
+domaine_ministeriel: environnement
+owner_type: administration-centrale
 incubator: mtes
-status: acceleration
-start: 2018-10-01
-end: 
+phases:
+  - name: investigation
+    start: 2018-10-01
+  - name: acceleration
 link: http://resorption-bidonvilles.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/action-bidonvilles
 stats: false

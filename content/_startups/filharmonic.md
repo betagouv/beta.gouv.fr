@@ -2,11 +2,15 @@
 title: Fil'harmonic
 mission: Faciliter le travail administratif autour des contrôles ICPE
 owner: Ministère de la Transition Ecologique et Solidaire
-owner_type: administration-centrale
-domaine_ministeriel: environnement
-status: alumni
-start: 2018-11-01
-end:
+sponsors:
+    - name: Direction generale de la Prevention des risques
+      shortname: DGPR
+      domaine_ministeriel: environnement
+      type: administration-centrale
+phases:
+  - name: investigation
+    start: 2018-11-01
+  - name: alumni
 repository: https://github.com/MTES-MCT/filharmonic
 incubator: mtes
 stats: false

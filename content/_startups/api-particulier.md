@@ -2,10 +2,13 @@
 title: API Particulier
 mission: Accélérer l’ouverture des données personnelles et leur réutilisation pour simplifier les démarches
 owner: DINUM
+owner_type: administration-centrale
+domaine_ministeriel: spm # Service du premier ministre
 incubator: apigouv
-status: alumni
-start: 2015-10-11
-end:
+phases:
+  - name: investigation
+    start: 2015-10-11
+  - name: alumni
 link: https://particulier.api.gouv.fr/
 repository: https://github.com/betagouv/api-particulier
 stats: true

@@ -2,10 +2,16 @@
 title: Le Taxi
 mission: Commander un taxi, rapidement
 owner: DGITM
+sponsors:
+    - name: Direction generale des Infrastructures, des Transports et de la Mer
+      shortname: DGITM
+      domaine_ministeriel: environnement
+      type: administration-centrale
 incubator: dinum
-status: acceleration
-start: 2015-03-15
-end:
+phases:
+  - name: investigation
+    start: 2015-03-15
+  - name: acceleration
 link: https://le.taxi
 repository: https://github.com/openmaraude/APITaxi
 stats: true

@@ -3,9 +3,10 @@ title: Bati-Amiante
 mission: Lutter contre le risque amiante en partageant les diagnostics
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: investigation
-start: 2020-03-01
-end:
+phases:
+  - name: investigation
+    start: 2020-03-01
+  - name: investigation
 repository:
 stats: false
 contact: emeric.vercoutre@developpement-durable.gouv.fr

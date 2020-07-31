@@ -1,11 +1,14 @@
 ---
 title : Pass Culture
 mission: Faciliter l'accès des jeunes à la culture
-owner: Ministère de la Culture
+owner: direction générale de la création artistique
+domaine_ministeriel: culture
+owner_type: administration-centrale
 incubator: dinum
-status: alumni
-start: 2017-12-01
-end:
+phases:
+  - name: investigation
+    start: 2017-12-01
+  - name: alumni
 link: https://pass.culture.fr
 repository: https://pass-culture.gitbook.io/documents/informations-techniques#code-source
 stats: false

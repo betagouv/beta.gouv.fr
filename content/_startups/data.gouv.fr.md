@@ -3,9 +3,12 @@ title: data.gouv.fr
 mission: Partager, améliorer et réutiliser les données publiques
 owner: Etalab
 incubator: dinum
-status: success
-start: 2013-06-01
-end:
+domaine_ministeriel: spm # Service du premier ministre
+owner_type: administration-centrale
+phases:
+  - name: investigation
+    start: 2013-06-01
+  - name: success
 link: https://www.data.gouv.fr/
 repository: https://github.com/opendatateam/udata
 stats: true

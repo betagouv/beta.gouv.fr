@@ -5,9 +5,10 @@ incubator: dinum
 owner: DINUM
 owner_type: administration-centrale
 domaine_ministeriel: environnement
-status: construction
-start: 2019-06-03
-end:
+phases:
+  - name: investigation
+    start: 2019-06-03
+  - name: construction
 link: https://www.poubellesbattle.fr/
 repository: https://github.com/betagouv/poubellesbattle
 stats: true

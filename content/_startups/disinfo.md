@@ -2,12 +2,16 @@
 title: Disinfo
 mission: Diminuer la quantité de désinformation à laquelle un individu est confronté quotidiennement
 owner: Ambassadeur pour le numérique
-owner_type: administration-centrale
-domaine_ministeriel: affaires-etrangeres
+sponsors:
+    - name:
+      shortname: 
+      domaine_ministeriel: 
+      type: 
 incubator: dinum
-status: construction
-start: 2019-01-10
-end:
+phases:
+  - name: investigation
+    start: 2019-01-10
+  - name: construction
 link: https://disinfo.quaidorsay.fr
 repository: https://github.com/AmbaNum/disinfo.quaidorsay.fr
 stats: true

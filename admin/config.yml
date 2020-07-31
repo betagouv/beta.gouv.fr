@@ -102,13 +102,6 @@ collections:
         label: Incubateur
         name: incubator
         collection: incubators
-      - widget: relation
-        valueField: "{{slug}}"
-        displayFields: [label]
-        searchFields: [slug, label]
-        label: Status
-        name: status
-        collection: phases
       - label: Lien vers le produit
         name: link
         widget: string
@@ -125,21 +118,31 @@ collections:
         name: stats
         widget: boolean
         required: false
-      - <<: *date_field_defaults
-        label: "Date de début de l'investigation"
-        name: start
-      - <<: *date_field_defaults
-        label: "Date du lancement du produit"
-        name: product_launch_date
-        required: false
-      - <<: *date_field_defaults
-        label: "Date du passage à un produit d'impact national majeur"
-        name: national_scale_date
-        required: false
-      - <<: *date_field_defaults
-        label: "Date de l'abandon"
-        name: end
-        required: false
+      - label: Phases
+        name: phases
+        label_singular: phase
+        widget: list
+        hint: Indiquez les étapes de la vie du produit de la plus ancienne à la plus récente.
+        collapsed: false
+        fields:
+          - label: Nom
+            name: name
+            widget: relation
+            valueField: "{{slug}}"
+            displayFields: ["{{label}} ({{slug}})"]
+            searchFields: [slug, label]
+            collection: phases
+          - <<: *date_field_defaults
+            label: Date de début
+            name: start
+          - <<: *date_field_defaults
+            label: Date de fin de la phase ou de passage à une autre phase
+            name: end
+            required: false
+          - label: Commentaire
+            name: comment
+            widget: string
+            required: false
       - label: Description
         name: body
         widget: markdown

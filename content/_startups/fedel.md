@@ -1,11 +1,14 @@
 ---
 title: FEDEL-DM
 mission: Déclarer facilement sa manifestation sur la voie publique
-owner: Ministère de l'Intérieur
+owner: Préfecture de police de Paris
+owner_type: service-deconcentre
+domaine_ministeriel: interieur
 incubator: lab-mi
-status: construction
-start: 2019-11-05
-end:
+phases:
+  - name: investigation
+    start: 2019-11-05
+  - name: construction
 link: 
 repository: 
 stats: false

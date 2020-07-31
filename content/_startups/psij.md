@@ -3,9 +3,10 @@ title: PSIJ (Portail de Saisine de l'Identité Judiciaire)
 mission: Systématiser la recherche d'indices et traces
 owner: Ministère de l'Intérieur
 incubator: lab-mi
-status: construction
-start: 2019-11-05
-end:
+phases:
+  - name: investigation
+    start: 2019-11-05
+  - name: construction
 link:
 repository:
 stats: false

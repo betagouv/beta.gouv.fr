@@ -2,11 +2,14 @@
 title: Polex
 mission: Détecter et suivre les fraudes à l’examen du permis de conduire
  
-owner: Ministère de l'Intérieur
+owner: Délégation à la sécurité routière
+domaine_ministeriel: interieur
+owner_type: administration-centrale
 incubator: lab-mi
-status: construction
-start: 2018-03-01
-end:
+phases:
+  - name: investigation
+    start: 2018-03-01
+  - name: construction
 link:
 repository: 
 stats: false

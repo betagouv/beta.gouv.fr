@@ -2,10 +2,16 @@
 title: Registre de preuve de covoiturage
 mission:  Développez le covoiturage sur votre territoire
 owner: DGITM
+sponsors:
+    - name: Direction generale des Infrastructures, des Transports et de la Mer
+      shortname: DGITM
+      domaine_ministeriel: environnement
+      type: administration-centrale
 incubator: dinum
-status: acceleration
-start: 2018-06-04
-end:
+phases:
+  - name: investigation
+    start: 2018-06-04
+  - name: acceleration
 link: http://covoiturage.beta.gouv.fr/
 repository: https://github.com/betagouv/preuve-covoiturage
 stats: true

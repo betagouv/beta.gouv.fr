@@ -1,11 +1,14 @@
 ---
 title: Pau Partage
+owner_type: collectivite-territoriale
+domaine_ministeriel: territoires
 mission: Lutter contre l'isolement des personnes âgées en favorisant la rencontre avec des bénévoles
 owner: Agglomération de Pau Béarn Pyrénées
 incubator: dinsic 
-status: alumni
-start: 2019-02-04
-end: 
+phases:
+  - name: investigation
+    start: 2019-02-04
+  - name: alumni
 link:
 repository: 
 stats: false 
