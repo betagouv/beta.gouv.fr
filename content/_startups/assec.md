@@ -2,8 +2,11 @@
 title: ASSEC
 mission: Optimiser la réponse collective du monde agricole et des services de l'État au problème de pénurie d'eau en période de sécheresse
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
-owner_type: administration-centrale
-domaine_ministeriel: environnement
+sponsors:
+    - name: Direction generale de l'Amenagement, du Logement et de la Nature / Direction de l'Eau et de la Biodiversité
+      shortname: DGALN / DGEB
+      domaine_ministeriel: environnement
+      type: administration-centrale
 incubator: mtes
 phases:
   - name: investigation
