@@ -2,7 +2,8 @@
 roles: un ou une bizdev
 startup: mobilic
 open: true 
-title: Mobilic recrute un·e business developer 
+title: Mobilic recrute un·e business developer
+---
 
 L’outil Mobilic, qui vise à simplifier le suivi du temps de travail des travailleurs mobiles (salariés des transports légers) recrute un·e business developer pour l’aider à accélérer son déploiement !
 
