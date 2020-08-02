@@ -2,8 +2,11 @@
 title: LexImpact
 mission: Aider nos parlementaires à estimer les impacts de leurs amendements avant vote !
 owner: Assemblée nationale
-domaine_ministeriel: autres
-owner_type: autre
+sponsors: 
+    - name: Assemblée nationale
+      shortname: Assemblée nationale
+      domaine_ministeriel: autres
+      type: autre
 incubator: dinum
 phases:
   - name: investigation
