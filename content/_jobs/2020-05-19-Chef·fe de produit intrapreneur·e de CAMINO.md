@@ -2,7 +2,7 @@
 roles: Chef·fe de produit intrapreneur·e de CAMINO et de chargé·e de projets numériques à la DGALN
 startup: camino
 junior: true 
-open: true 
+open: false 
 title: Chef·fe de produit intrapreneur·e de CAMINO et de chargé de projets numériques à la DGALN
 ---
 
