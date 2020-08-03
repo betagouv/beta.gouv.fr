@@ -4,12 +4,13 @@ mission: Améliorer la prévention sexuelle pour les jeunes de moins de 25 ans
 owner: Ministère des Affaires sociales
 incubator: sgmas
 phases:
+  - name: acceleration
   - name: investigation
     start: 2019-07-01
   - name: construction
 link: 
 repository:
-stats: true
+stats: false
 contact: yowa.muzadi@fabrique.social.gouv.fr
 ---
 
