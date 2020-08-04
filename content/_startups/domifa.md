@@ -9,7 +9,8 @@ phases:
   - name: acceleration
 link: https://domifa.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/domifa
-stats: https://domifa.fabrique.social.gouv.fr
+stats: true
+stats url: https://domifa.fabrique.social.gouv.fr
 contact: contact.domifa@fabrique.social.gouv.fr
 ---
 
