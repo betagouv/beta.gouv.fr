@@ -10,7 +10,7 @@ phases:
 link: https://domifa.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/domifa
 stats: true
-stats url: https://domifa.fabrique.social.gouv.fr
+stats_url: https://domifa.fabrique.social.gouv.fr
 contact: contact.domifa@fabrique.social.gouv.fr
 ---
 
