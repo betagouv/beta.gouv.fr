@@ -7,11 +7,14 @@ phases:
   - name: investigation
     start: 2018-09-03
   - name: acceleration
+    start : 2019-10-01
+  - name: tranfert
+    star: 2020-05-01
 link: https://e-controle-beta.ccomptes.fr
 repository: https://github.com/betagouv/e-controle
 stats: true
 stats_url: https://infogram.com/indicateurs-1h0n250kv01l4pe?live
-contact: e-controle@beta.gouv.fr
+contact: e-controle-beta@ccomptes.fr
 redirect_from:
   - /startups/startup-jf
 ---
