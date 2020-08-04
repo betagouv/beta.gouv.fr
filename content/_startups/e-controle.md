@@ -13,7 +13,7 @@ phases:
   - name: acceleration
     start : 2019-10-01
     end: 2020-05-01
-  - name: transfert
+  - name: transfer
     start: 2020-05-01
 link: https://e-controle-beta.ccomptes.fr
 repository: https://github.com/betagouv/e-controle
