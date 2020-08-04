@@ -6,8 +6,13 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2018-09-03
+    end: 2018-11-01
+  - name: construction
+    start: 2018-11-01
+    end: 2019-10-01
   - name: acceleration
     start : 2019-10-01
+    end: 2020-05-01
   - name: tranfert
     start: 2020-05-01
 link: https://e-controle-beta.ccomptes.fr
