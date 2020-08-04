@@ -2,11 +2,11 @@
 roles: Product manager F/H
 friend: Fabrique numérique
 type: 'friend'
-externalURL: 
+externalURL: https://civilsdeladefense.fabnum.fr/offresdemploi/product-owner
 contrat: CDD 36 mois
 equipe: Fabrique numérique
 post_ouvert: 2020-09-01
-contact: incubateur@anct.gouv.fr
+contact: romain.perroud@def.gouv.fr
 open: true
 title: "La Fabrique numérique recrute : un.e product manager"
 ---
