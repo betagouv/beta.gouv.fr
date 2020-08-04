@@ -2,8 +2,11 @@
 title: Mes Aides
 mission: Évaluer ses droits à 28 aides sociales. En moins de 7 minutes.
 owner: DINUM
-domaine_ministeriel: spm # Service du premier ministre
-owner_type: administration-centrale
+sponsors: 
+    - name: Direction interministérielle du numérique
+      shortname: DINUM
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
 incubator: dinum
 link: https://mes-aides.gouv.fr
 repository: https://github.com/betagouv/mes-aides-ui
