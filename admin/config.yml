@@ -125,7 +125,7 @@ collections:
         hint: Indiquez les étapes de la vie du produit de la plus ancienne à la plus récente.
         collapsed: false
         fields:
-          - label: Nom
+          - label: Nom de la phase
             name: name
             widget: relation
             valueField: "{{slug}}"
