@@ -2,9 +2,12 @@
 title: demarches-simplifiees.fr
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
 owner: DINUM
+sponsors: 
+    - name: Direction interministérielle du numérique
+      shortname: DINUM
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
 incubator: dinum
-owner_type: administration-centrale
-domaine_ministeriel: spm # Service du premier ministre
 phases:
   - name: investigation
     start: 2015-09-15
