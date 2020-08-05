@@ -9,27 +9,21 @@ title: Développeuse ou développeur fullstack
 
 # L’environnement du poste et l’équipe
 
-// TODO: adapter à Potentiel
+La Direction Générale de l’Énergie et du Climat a pour mission d’élaborer et de mettre en œuvre la politique relative à l’énergie, aux matières premières énergétiques, ainsi qu’à la lutte contre le réchauffement climatique et la pollution atmosphérique.
 
-La direction générale de l’énergie et du climat a pour mission d’élaborer et de mettre en œuvre la politique relative à l’énergie, aux matières premières énergétiques, ainsi qu’à la lutte contre le réchauffement climatique et la pollution atmosphérique.
+Le projet Potentiel est né fin 2019 sous l'impulsion d'un intrapreneur agent public dans le but d'établir une plateforme nationale de suivi des projets liés aux énergies renouvelables électriques répondant à un mécanisme d'appel d'offres.
 
-Le projet CarbuRe est né fin 2019 sous l'impulsion d'un intrapreneur agent public dans le but d'établir une plateforme nationale de traçabilité des flux de biocarburants.
-
-Composée d'un intrapreneur, d'un développeur et d'un coach, cette petite équipe a pour ambition d'améliorer les pratiques de la filière des biocarburants en facilitant les démarches de déclarations de durabilité pour permettre un meilleur contrôle de la filière.
+Composée d'une intrapreneuse, d'un développeur et d'une coach, cette petite équipe a pour ambition d'améliorer le suivi des projets d'énergies renouvelables électriques en rassemblant l'ensemble des professionnels du secteur afin de permettre une meilleure visibilité concernant l'atteinte des objectifs de la programmation pluriannuelle de l'énergie.
 
 # Le produit
 
-// TODO: adapter à Potentiel
+Le produit [Potentiel](https://potentiel.beta.gouv.fr/) est aujourd'hui en phase de déploiement avec : des porteurs de projets photovoltaïques utilisant la plateforme pour suivre leurs projets, des agents de Directions régionales de l'Environnement, de l'Aménagement et du Logement ainsi que des agents du Ministère de la Transition Écologique gèrent également les pièces et demandes relatives à ces projets.
 
-Le produit [CarbuRe](https://carbure.beta.gouv.fr/) est aujourd'hui en phase de beta-test avec des représentants de tous les maillons de la filière: des producteurs de biocarburants, des opérateurs pétroliers ainsi que des agents du Ministère de la Transition Écologique.
+- Potentiel propose en premier lieu un lieu d'agrégation unique des données relatives aux projets d'énergies renouvelables électriques. Après candidature à un appel d'offres, ceux-ci sont sont notifié lauréat ou non directement à partir de la plateforme qui génère automatiquement une page de suivi pour l'ensemble des projets.
 
-- CarbuRe propose en premier lieu une numérisation de l'Attestation de Durabilité: un document transmis par les producteurs de biocarburants auprès de leurs clients afin d'attester que la matière première ne provient pas de terres déforestées et que l'empreinte carbone totale du biocarburant est d'au moins 50% inférieure à celle d'un carburant fossile équivalent.
+C'est également la plateforme d'échanges privilégiée entre les porteurs de projets, l'administration et bientôt les autres acteurs du secteur également.
 
-- Les opérateur pétroliers n'ont plus qu'à accepter les Attestations de Durabilité de leurs fournisseurs pour effectuer leur Déclaration de Durabilité auprès de la DGEC. 
-
-- Les intermédiaires et négociants peuvent également utiliser CarbuRe pour envoyer et recevoir les informations de durabilité.
-
-- L'ensemble des données ainsi recueillies apporte une vision en temps réel de la filière. L'analyse automatique de ces données permet de détecter les erreurs et les fraudes plus facilement ainsi que d'effectuer des contrôles ciblés. Plus globalement, la traçabilité de la filière s'en trouve nettement améliorée.
+- L'ensemble des données ainsi recueillies apporte une vision en temps réel de la filière. 
 
 - Nous souhaitons accélérer le développement de notre produit en accueillant un.e développeur.se supplémentaire. 
 
