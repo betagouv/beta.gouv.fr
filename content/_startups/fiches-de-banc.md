@@ -2,8 +2,11 @@
 title: Fiches de banc
 mission: Augmenter la productivité du traitement des amendements dans les cabinets ministériels
 owner: DINUM
-domaine_ministeriel: spm # Service du premier ministre
-owner_type: administration-centrale
+sponsors: 
+    - name: Direction interministérielle du numérique
+      shortname: DINUM
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
 incubator: dinum
 phases:
   - name: investigation
