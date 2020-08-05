@@ -16,7 +16,7 @@ metrics.forEach(function(metric) {
   db[metric.id] = metric
 })
 
-var prefix = '/api/v1.9/'
+var prefix = '/api/v2/'
 $.ajax(prefix + "startups.json").done(function(response) {
   response.data.forEach(function(startup) {
     if (!startup.attributes.phases || !startup.attributes.phases.length) {

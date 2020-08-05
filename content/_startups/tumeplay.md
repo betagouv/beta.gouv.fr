@@ -9,12 +9,13 @@ sponsors:
       type: administration-centrale
 incubator: sgmas
 phases:
+  - name: acceleration
   - name: investigation
     start: 2019-07-01
   - name: construction
 link: 
 repository:
-stats: true
+stats: false
 contact: yowa.muzadi@fabrique.social.gouv.fr
 ---
 

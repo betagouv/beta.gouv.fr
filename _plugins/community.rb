@@ -14,11 +14,8 @@ module Jekyll
         end
       end
 
-      if state == 'current'
-        current
-      else
-        past
-      end
+      result = if state == 'current' then current else past end
+      result.sort_by { |person| person.data['missions']&.map{ |e| e['start'] || Date.today }&.min || Date.today }.reverse
     end
   end
 
