@@ -6,15 +6,16 @@ incubator: dinum
 link: https://mes-aides.gouv.fr
 repository: https://github.com/betagouv/mes-aides-ui
 contact: contact@mes-aides.gouv.fr
+events:
+  - name: product_launch
+    date: 2014-10-01
+  - name: national_impact
+    date: 2019-01-01
+  - name: death
+    date: 2020-03-03
 phases:
-  - name: investigation
-    start: 2014-05-01
-    end: 2014-10-01
   - name: construction
-    start: 2014-10-01
-    end: 2015-10-01
-  - name: acceleration
-    start: 2015-10-01
+    start: 2014-05-01
     end: 2017-03-10
   - name: success
     start: 2017-03-10

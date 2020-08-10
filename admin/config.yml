@@ -67,20 +67,6 @@ collections:
         widget: list
         collapsed: false
         field: { label: Source, name: name, widget: string }
-  - name: phases
-    label: Phases
-    label_singular: Phase
-    folder: "content/_phases"
-    delete: false
-    slug: "{{slug}}"
-    editor:
-      preview: false
-    fields:
-      - { label: status, name: status, widget: string }
-      - { label: label, name: label, widget: string }
-      - { label: type_label, name: type_label, widget: string }
-      - { label: order, name: order, widget: number }
-      - { label: short_description, name: short_description, widget: string }
   - name: startups
     label: Produits
     label_singular: Produit
@@ -119,6 +105,26 @@ collections:
         name: stats
         widget: boolean
         required: false
+      - label: Évènements marquants
+        name: events
+        label_singular: évènement marquant
+        widget: list
+        collapsed: false
+        fields:
+          - label: Type d'évènement
+            name: name
+            widget: relation
+            valueField: "{{slug}}"
+            displayFields: ["{{label}} ({{slug}})"]
+            searchFields: [slug, label]
+            collection: events
+          - <<: *date_field_defaults
+            label: Date approximative
+            name: date
+          - label: Commentaire
+            name: comment
+            widget: string
+            required: false
       - label: Phases de la plus ancienne à la plus récente
         name: phases
         label_singular: phase
@@ -231,3 +237,27 @@ collections:
         name: body
         widget: markdown
         required: false
+  - name: phases
+    label: Phases
+    label_singular: Phase
+    folder: "content/_phases"
+    delete: false
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: status, name: status, widget: string }
+      - { label: label, name: label, widget: string }
+      - { label: type_label, name: type_label, widget: string }
+      - { label: order, name: order, widget: number }
+      - { label: short_description, name: short_description, widget: string }
+  - name: events
+    label: Évènement de SET
+    label_singular: Évènement
+    folder: "content/_events"
+    delete: false
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: label, name: label, widget: string }
