@@ -58,11 +58,13 @@ _Missions_
 - Mise en place et maintenance de tests automatisés
 - Conception, implémentation et documentation d'une API ouverte aux autres acteurs (privés et publics)
 
-_Détails techniques_
+_Informations pratiques_
 
-Statut — Freelance
+Statut : Freelance
 
 Modalités de travail : 4 jours par semaine, télétravail possible en majeure partie, besoin de présence ponctuelle à La Défense (test utilisateur, démonstration, rétrospective et planification)
+
+Processus de recrutement : premiers entretiens courant du mois d'août, entretien final au 31/08 (disponibilité souhaitée). Idéalement fin de processus première semaine de septembre pour commencer la mission directement en début de mois.
 
 **Date de début — Septembre 2020**
 
