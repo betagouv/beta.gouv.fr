@@ -24,7 +24,44 @@ $.ajax(prefix + "startups.json").done(function(response) {
       return
     }
 
-    db.investigation.incrementDates.push(startup.attributes.phases[0].start)
+    var basicDateTest = function(s) {
+      return s !== "" && s
+    }
+
+
+    // La meilleure date pour définir un problème investigué est la date de fin de l'investigation
+    // Des dates alternatives sont définies au cas où il n'y a pas de date de fin d'investigation :
+    // - Début de l'investigation
+    // - Première date disponible dans les phases
+    var investigationPhase = startup.attributes.phases.find(function(p) { return p.name === "investigation"})
+    var investigationDateCandidates = [
+      investigationPhase.end,
+      investigationPhase.start,
+    ]
+
+    var dates = startup.attributes.phases.reduce(function(list, p) {
+      var candidates = [p.start, p.end]
+      candidates.forEach(function(c) {
+        if (basicDateTest(c)) {
+          list.push(c)
+        }
+      })
+      return list
+    }, [])
+    dates.sort()
+    if (dates.length) {
+      investigationDateCandidates.push(dates[0])
+    }
+
+    var investigationDate = investigationDateCandidates.reduce(function(pick, value) {
+      return pick || basicDateTest(value)
+    }, false)
+
+    if (!investigationDate) {
+      console.warn(startup.id)
+    } else {
+      db.investigation.incrementDates.push(investigationDate)
+    }
 
     var steps = ['construction', 'alumni', 'success']
     steps.forEach(function(step) {
@@ -34,7 +71,7 @@ $.ajax(prefix + "startups.json").done(function(response) {
         }
         return date
       }, null)
-      if (sDate) {
+      if (basicDateTest(sDate)) {
         db[step].incrementDates.push(sDate)
       }
     })

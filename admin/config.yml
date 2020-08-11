@@ -118,14 +118,14 @@ collections:
         name: stats
         widget: boolean
         required: false
-      - label: Phases
+      - label: Phases de la plus ancienne à la plus récente
         name: phases
         label_singular: phase
         widget: list
         hint: Indiquez les étapes de la vie du produit de la plus ancienne à la plus récente.
         collapsed: false
         fields:
-          - label: Nom
+          - label: Nom de la phase
             name: name
             widget: relation
             valueField: "{{slug}}"

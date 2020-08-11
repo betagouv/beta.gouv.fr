@@ -8,7 +8,7 @@ missions:
     end: 2019-07-01
     status: independent
   - start: 2020-03-30
-    end: 2020-07-31
+    end: 2021-01-31
     status: independent
 startups:
   - lapins

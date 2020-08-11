@@ -37,7 +37,7 @@ Nous avons donc un système archaïque et particulièrement lourd à gérer pour
 
 ## Le produit : CarbuRe
 
-CarbuRe est plateforme permettant de suivre l’ensemble des flux de biocarburants et de relier directement et simplement les flux physiques aux flux administratifs. Cela permet de fiabiliser les données, sécuriser les approvisionnements et diminuer les risques de fraudes.
+CarbuRe est une plateforme permettant de suivre l’ensemble des flux de biocarburants et de relier directement et simplement les flux physiques aux flux administratifs. Cela permet de fiabiliser les données, sécuriser les approvisionnements et diminuer les risques de fraudes.
 
 
 ## Les premières étapes
