@@ -11,13 +11,12 @@ stats: true
 phases:
   - name: investigation
     start: 2018-01-08
-    end: ""
+    end: 2018-07-01
   - start: 2018-07-01
-    end: ""
+    end: 2019-01-23
     name: construction
   - name: acceleration
     start: 2019-01-23
-    end: ""
 ---
 ## Le constat initial : le transport routier de marchandises, un secteur exposé à des risques de déréglementation
 
