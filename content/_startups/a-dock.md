@@ -1,7 +1,6 @@
 ---
 title: A Dock
-mission: Simplifier l'accès aux données et démarches administratives du
-  transport routier de marchandises
+mission: Simplifier l'accès aux données et démarches administratives du transport routier de marchandises
 owner: Ministère de la Transition écologique et solidaire / DGITM
 incubator: mtes
 link: https://adock.beta.gouv.fr
