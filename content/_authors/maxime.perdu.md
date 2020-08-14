@@ -7,10 +7,9 @@ link:
 missions:
   - start: 2020-08-20
     end: 2020-12-31   
-    status: indépendant
-    employer: # si applicable, le nom de ton administration, SSII, etc.
-startup : Reserve Civique
-
+    status: independent
+startup : 
+  - reserve-civique
 ---
 
 Ingénieur matériaux-développement durable qui a viré vers l'écosystème startup. En perpétuel recherche de sens et d'impact. Hédoniste qui veut tirer la meilleur version de lui-même.
