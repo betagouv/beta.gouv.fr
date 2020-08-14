@@ -28,8 +28,16 @@ jobs:
           ${{ runner.os }}-gems-
     - name: Install dependencies
       run: bundle check || bundle install --path vendor/bundle
+    
+    - name: Check author metadata
+      run: ruby rb/bin/validate rb/schema/authors.yml "content/_authors/*.md"
+
+    - name: Check startup metadata
+      run: ruby rb/bin/validate rb/schema/startups.yml "content/_startups/*.md"
+      
     - name: Install Pip
       run: sudo apt-get install python3-pip python3-setuptools
+      
     - name: Install html5validator
       run: pip3 install --user --upgrade html5validator
     - name: "Check authors file name structure (first_name.last_name.md)"
@@ -60,12 +68,6 @@ jobs:
 
     - name: Validate HTML spec compliance
       run: $HOME/.local/bin/html5validator --root _site --ignore 'Element "img" is missing required attribute "src"'
-
-    - name: Check author metadata
-      run: ruby rb/bin/validate rb/schema/authors.yml "content/_authors/*.md"
-
-    - name: Check startup metadata
-      run: ruby rb/bin/validate rb/schema/startups.yml "content/_startups/*.md"
 
     - name: Lint JSON API pages
       run: bundle exec jsonlint _site/api/v*/*.json
