@@ -14,7 +14,7 @@ mapping:
             "name":
               type:      str
               required:  yes
-            "shortname":
+            "acronym":
               type:      str
             "type":
               type:      str
