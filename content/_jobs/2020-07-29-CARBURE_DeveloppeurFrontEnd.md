@@ -3,7 +3,7 @@ roles: Développeuse ou développeur front-end
 startup: carbure
 techno: javascript 
 junior: false
-open: true 
+open: false 
 title: Développeuse ou développeur front-end
 ---
 
