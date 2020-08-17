@@ -1,7 +1,7 @@
 ---
 roles: Chargé·e de déploiement
 startup: cmachance
-open: true
+open: false
 title: Chargé·e de déploiement pour Cmachance
 ---
 
