@@ -1,8 +1,8 @@
 ---
 layout: with-sidebar
 sidebar: sidebar-approche.html
-title: Phase d'investigation
-permalink: /approche/investigation
+title: Phase d'accélération
+permalink: /approche/acceleration
 additional_css:
   - side-panel.css
 ---
