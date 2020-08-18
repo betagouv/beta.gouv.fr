@@ -62,14 +62,11 @@ jobs:
     - name: Check HTML common mistakes
       run: bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
 
-    - name: Install Pip
-      run: sudo apt-get install python3-pip python3-setuptools
-      
-    - name: Install html5validator
-      run: pip3 install --user --upgrade html5validator
-
-    - name: Validate HTML spec compliance
-      run: $HOME/.local/bin/html5validator --root _site --ignore 'Element "img" is missing required attribute "src"'
+    - name: HTML5 Validator
+      uses: Cyb3r-Jak3/html5validator-action@master
+      with:
+        root: _site
+        extra: --ignore 'Element "img" is missing required attribute "src"'
 
     - name: Lint JSON API pages
       run: bundle exec jsonlint _site/api/v*/*.json
