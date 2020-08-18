@@ -2,7 +2,7 @@
 fullname: Amandine Audras
 role: UX Designer
 github: renardpal
-link: ''
+link:
 missions:
   - start: 2018-11-02
     end: 2019-06-30
@@ -14,6 +14,7 @@ missions:
     employer: octo
 startups:
   - api.gouv.fr
+  - datapass
 previously:
   - _openfisca_
 ---
