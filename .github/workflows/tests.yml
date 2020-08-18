@@ -70,6 +70,8 @@ jobs:
 
     - name: Validate HTML spec compliance
       run: $HOME/.local/bin/html5validator --root _site --ignore 'Element "img" is missing required attribute "src"'
+      env:
+        JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
 
     - name: Lint JSON API pages
       run: bundle exec jsonlint _site/api/v*/*.json
