@@ -17,7 +17,7 @@ layout: null
             , "repository": "{{ startup.repository}}"{% endif %}
             , "events": [
                 {% for event in startup.events %}
-                    { "name": "{{event.name}}", "start": "{{event.start}}", "comment": "{{event.comment}}"}{% unless forloop.last %},{% endunless %}
+                    { "name": "{{event.name}}", "date": "{{event.date}}", "comment": "{{event.comment}}"}{% unless forloop.last %},{% endunless %}
                 {% endfor %}
                 ]
             , "phases": [
