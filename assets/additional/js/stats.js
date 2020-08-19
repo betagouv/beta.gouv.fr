@@ -85,15 +85,18 @@ function getFirst(startup, sources) {
 }
 
 function addValue(container, dt, value) {
+  if (dt) {
     var year = dt.slice(0, 4)
     var list = container[year] || []
     list.push(value)
     container[year] = list
+  }
 }
 
 var prefix = '/api/v2/'
 $.ajax(prefix + "startups.json").done(function(response) {
-  response.data.forEach(function(startup) {
+  var startups = response.data
+  startups.forEach(function(startup) {
     if (!startup.attributes.phases || !startup.attributes.phases.length) {
       console.warn(startup.id)
       return
@@ -111,18 +114,26 @@ $.ajax(prefix + "startups.json").done(function(response) {
       addValue(db.investigation.years, dt, startup.id)
     }
 
-    var steps = ['construction', 'alumni', 'success']
-    steps.forEach(function(step) {
-      const sDate = startup.attributes.phases.reduce(function(date, current) {
-        if (current.start && (current.name === step)) {
-          return current.start
-        }
-        return date
-      }, null)
-      if (basicDateTest(sDate)) {
-        addValue(db[step].years, sDate, startup.id)
-      }
-    })
+    var c = getFirst(startup, [
+        { from: 'events', name: 'product_launch', prop: 'date'},
+        { from: 'phases', name: 'construction', prop: 'end'},
+        { from: 'phases', name: 'construction', prop: 'start'},
+        dt
+      ]
+    )
+    addValue(db.construction.years, c, startup.id)
+
+    var d = getFirst(startup, [
+        { from: 'events', name: 'death', prop: 'date'},
+      ]
+    )
+    addValue(db.alumni.years, d, startup.id)
+
+    var s = getFirst(startup, [
+        { from: 'events', name: 'national_impact', prop: 'date'},
+      ]
+    )
+    addValue(db.success.years, s, startup.id)
   })
 
   $.ajax(prefix + "authors.json").done(function(response) {
