@@ -3,6 +3,9 @@ title: La Bonne Boîte
 mission: Trouver les entreprises qui vont recruter près de chez soi
 owner: Pôle emploi
 incubator: pole-emploi
+events:
+  - name: national_impact
+    date: 2017-01-01
 phases:
   - name: investigation
     start: 2015-05-01
