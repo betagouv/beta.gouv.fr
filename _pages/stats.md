@@ -3,6 +3,7 @@ layout: page
 permalink: /stats/
 title: Indicateurs de beta.gouv.fr
 additional_js:
+  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.bundle.min.js
   - https://unpkg.com/jquery@2.2.2/dist/jquery.min.js
   - stats.js
 ---
@@ -15,28 +16,23 @@ Les indicateurs utilisés sont…
 
 ### 1. Nombre de problèmes investigués par an
 
-<ul id="investigation">
-</ul>
+<canvas id="investigation"></canvas>
 
 ### 2. Nombre de produits lancés par an
 
-<ul id="construction">
-</ul>
+<canvas id="construction"></canvas>
 
 ### 3. Nombre de produits abandonnés par an
 
-<ul id="alumni">
-</ul>
+<canvas id="alumni"></canvas>
 
 ### 4. Nombre de produits devenus des services publics à impact national majeur au cours de l'année
 
-<ul id="success">
-</ul>
+<canvas id="success"></canvas>
 
 ### 7. Nombre d'intrapreneurs formés à la méthode Startup d'État
 
-<ul id="people">
-</ul>
+<canvas id="people"></canvas>
 
 #### EIG
 
