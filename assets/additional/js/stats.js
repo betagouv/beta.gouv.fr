@@ -130,7 +130,7 @@ $.ajax(prefix + "startups.json").done(function(response) {
 
     // Date de l'abandon du produit
     var endDate = getFirst(startup, [
-        { from: 'events', name: 'death', prop: 'date'},
+        { from: 'events', name: 'end', prop: 'date'},
       ]
     )
     addValue(db.end.years, endDate, startup.id)
