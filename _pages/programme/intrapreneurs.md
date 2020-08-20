@@ -22,10 +22,13 @@ L'intrapreneur·e est une personne qui :
 - **est prête à incarner le service numérique dont elle a la responsabilité** auprès des parties-prenantes et auprès du grand public lorsque c’est nécessaire.
 
 Les missions que cette personne sera amenée à endosser peuvent être extrêmement variées.
-- pendant la phase d’investigation, avant le lancement du service numérique : 
-  - investiguer le problème : s’entretenir avec des experts, faire de la recherche utilisateur sur le terrain, analyser les résultats pour acquérir une compréhension des utilisateurs du service et de leur comportement ;
-  - convaincre son administration de se lancer : synthétiser l’investigation, élaborer des maquettes et des scénarios de solution, les présenter devant la direction de son administration à un comité de lancement ; 
-- agir comme un·e chef·fe de produit : concevoir la solution en s’emparant des pratiques des meilleurs acteurs du numérique
+
+Pendant la **[phase d’investigation](https://beta.gouv.fr/approche/investigation)** : 
+- **investiguer le problème** : s’entretenir avec des experts, faire de la recherche utilisateur sur le terrain, analyser les résultats pour acquérir une compréhension des utilisateurs du service et de leur comportement ;
+- **convaincre son administration de se lancer** : synthétiser l’investigation, élaborer des maquettes et des scénarios de solution, les présenter devant la direction de son administration à un comité de lancement ; 
+  
+À partir du lancement des travaux :
+- **agir comme une ou un responsable de produit (*Product Manager*)** : concevoir la solution en s’emparant des pratiques des meilleurs acteurs du numérique
   - tester chaque semaine ses idées avec des vrais usagers avant de lancer des développements ;
   - chercher autant à résoudre des inconnues qu’à construire du logiciel ;
   - réviser ses plans en permanence en fonction de ce que l'équipe vient d’apprendre ;
@@ -33,7 +36,7 @@ Les missions que cette personne sera amenée à endosser peuvent être extrêmem
   - écouter activement les idées qui lui viennent des acteurs qui l’entourent, développeurs, partenaires, utilisateurs ;
   - déployer la solution en cherchant à maximiser son impact : nombre d'utilisateurs, d'utilisations, etc ; être le premier “VRP” du service numérique afin qu’il ait le maximum d’impact : gérer les partenariats, déterminer les stratégies de croissance du service, etc.
   - mesurer la performance de sa solution.
-- agir comme un entrepreneur : 
+- **agir comme une ou un entrepreneur au sein de l'administration** : 
   - gérer son budget ; 
   - rendre des comptes à sa direction générale ou à son sponsor à l’occasion de comités d’investissement  et, le cas échéant, convaincre ses financeurs de poursuivre le service ;
   - incarner la solution : il s’agit d’une mission exposée, ce n’est pas une tâche de bureau, il faudra donc animer les ateliers avec les utilisateurs, faire le lien avec les parties-prenantes, communiquer sur le produit.
