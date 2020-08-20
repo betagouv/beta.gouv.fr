@@ -9,10 +9,11 @@ repository: https://github.com/MTES-MCT/aides-territoires
 contact: aides-territoires@beta.gouv.fr
 stats: true
 phases:
-  - name: investigation
+  - name: construction
     start: 2018-01-01
     end: 2018-09-10
   - name: acceleration
+    start: 2018-09-10
 ---
 ## Le problème
 

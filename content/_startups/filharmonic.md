@@ -2,10 +2,15 @@
 title: Fil'harmonic
 mission: Faciliter le travail administratif autour des contrôles ICPE
 owner: Ministère de la Transition Ecologique et Solidaire
+events:
+  - name: end
+    date: 2019-12-01
 phases:
   - name: investigation
     start: 2018-11-01
+    end: 2019-12-01
   - name: alumni
+    start: 2019-12-01
 repository: https://github.com/MTES-MCT/filharmonic
 incubator: mtes
 stats: false
