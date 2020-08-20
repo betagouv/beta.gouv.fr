@@ -14,6 +14,7 @@ startups:
 previously:
   - _openfisca_
   - api.gouv.fr
+  - datapass
   - api-particulier
 ---
 

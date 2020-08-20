@@ -16,6 +16,7 @@ startups:
   - api.gouv.fr
   - aidantsconnect
 previously:
+  - datapass
   - bourse
   - mdph
   - mes-aides
