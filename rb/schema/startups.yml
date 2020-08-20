@@ -9,6 +9,18 @@ mapping:
   "owner":
     type:      str
     required:  yes
+  "events":
+    type:      seq
+    sequence:
+        - type:      map
+          mapping:
+            "name":
+              type:      str
+              assert:    "['product_launch','commitee','other','national_impact','death'].include?(val)"
+            "date":
+              type:      date
+            "comment":
+              type:      str
   "phases":
     type:      seq
     sequence:

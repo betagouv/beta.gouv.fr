@@ -3,6 +3,9 @@ title: Pix
 mission: Mesurer, développer et valoriser ses compétences numériques
 owner: GIP PIX
 incubator: dinum
+events:
+  - name: national_impact
+    date: 2019-09-01
 phases:
   - name: investigation
     start: 2016-06-08

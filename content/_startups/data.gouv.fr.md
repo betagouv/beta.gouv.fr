@@ -3,6 +3,9 @@ title: data.gouv.fr
 mission: Partager, améliorer et réutiliser les données publiques
 owner: Etalab
 incubator: dinum
+events:
+  - name: national_impact
+    date: 2016-01-01
 phases:
   - name: investigation
     start: 2013-06-01
