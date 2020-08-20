@@ -4,7 +4,7 @@ mission: Augmenter le nombre d'actions artistiques et culturelles pour les jeune
 owner: Ministère de la Culture
 incubator: dinum
 events:
-  - name: death
+  - name: end
     date: 2019-12-01
 phases:
   - name: investigation

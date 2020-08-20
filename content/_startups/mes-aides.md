@@ -11,7 +11,7 @@ events:
     date: 2014-10-01
   - name: national_impact
     date: 2017-03-10
-  - name: death
+  - name: end
     date: 2020-03-03
 phases:
   - name: construction

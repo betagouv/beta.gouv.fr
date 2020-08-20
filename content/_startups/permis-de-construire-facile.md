@@ -4,7 +4,7 @@ mission: Déposez et gérez votre demande de permis de construire en toute simpl
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
 events:
-  - name: death
+  - name: end
     date: 2019-04-30
 phases:
   - name: investigation

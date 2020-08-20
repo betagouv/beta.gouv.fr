@@ -4,7 +4,7 @@ mission: Inscrire son enfant au collège en quelques clics
 owner: Ministère de l'Éducation nationale
 incubator: dinum
 events:
-  - name: death
+  - name: end
     date: 2019-09-15
 phases:
   - name: investigation

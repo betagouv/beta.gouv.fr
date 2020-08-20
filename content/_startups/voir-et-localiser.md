@@ -4,7 +4,7 @@ mission: Voir et localiser les appelants aux centres d'appels d'urgence
 owner: ASIP Santé - Agence Française de la Santé Numérique
 incubator: dinum
 events:
-  - name: death
+  - name: end
     date: 2020-01-01
 phases:
   - name: investigation

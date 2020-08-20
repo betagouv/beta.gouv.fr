@@ -16,7 +16,7 @@ mapping:
           mapping:
             "name":
               type:      str
-              assert:    "['product_launch','commitee','other','national_impact','death'].include?(val)"
+              assert:    "['product_launch','commitee','other','national_impact','end'].include?(val)"
             "date":
               type:      date
             "comment":

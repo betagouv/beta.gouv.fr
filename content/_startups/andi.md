@@ -4,7 +4,7 @@ mission: Faciliter l'immersion professionnelle des personnes en situation de han
 owner: Caisse des dépôts 
 incubator: dinum
 events:
-  - name: death
+  - name: end
     date: 2020-05-15
 phases:
   - name: investigation

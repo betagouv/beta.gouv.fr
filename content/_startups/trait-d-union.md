@@ -4,7 +4,7 @@ mission: Permettre aux demandeurs d'emploi d'essayer des métiers qui recrutent 
 owner: Région Grand Est
 incubator: dinum
 events:
-  - name: death
+  - name: end
     date: 2019-12-01
 phases:
   - name: investigation
