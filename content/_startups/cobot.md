@@ -4,7 +4,7 @@ mission: Mettre les petites contributions numériques au service de l'intérêt 
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 incubator: mtes
 events:
-  - name: death
+  - name: end
     date: 2019-09-01
 phases:
   - name: investigation

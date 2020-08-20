@@ -4,7 +4,7 @@ mission: Rapprocher les professionnels de santé de leur futur territoire d’ex
 owner: Ministère des Solidarités et de la Santé
 incubator: sgmas
 events:
-  - name: death
+  - name: end
     date: 2020-01-01
 phases:
   - name: investigation

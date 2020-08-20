@@ -4,7 +4,7 @@ mission: Permettre aux agents publics d'accéder simplement aux documents qu'ils
 owner: Direction générale des entreprises
 incubator: dinum
 events:
-  - name: death
+  - name: end
     date: 2019-12-01
 phases:
   - name: investigation

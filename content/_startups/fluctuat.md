@@ -4,7 +4,7 @@ mission:  Aider au développement du transport fluvial en France
 owner: Ministère de la transition écologique et solidaire
 incubator: mtes
 events:
-  - name: death
+  - name: end
     date: 2019-09-01
 phases:
   - name: investigation
