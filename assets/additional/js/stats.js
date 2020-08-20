@@ -6,28 +6,28 @@ var metrics = [{
     2021: 140,
   }
 },{
-  id: 'construction',
+  id: 'product_launch',
   future: {
     2019: 19,
     2020: 30,
     2021: 40,
   }
 },{
-  id: 'alumni',
+  id: 'end',
   future: {
     2019: 3,
     2020: 10,
     2021: 13,
   }
 },{
-  id: 'success',
+  id: 'national_impact',
   future: {
     2019: 1,
     2020: 2,
     2021: 3,
   }
 },{
-  id: 'people',
+  id: 'agent',
   future: {
     2019: 81,
     2020: 100,
@@ -102,38 +102,45 @@ $.ajax(prefix + "startups.json").done(function(response) {
       return
     }
 
-    var dt = getFirst(startup, [
+    // Les données sont très incomplètes et disparates
+    // Plusieurs dates candidates sont listées et la première disponible est utilisée
+
+    // Date de la fin de l'investigation d'un problème
+    var investigationDate = getFirst(startup, [
         { from: 'phases', name: 'investigation', prop: 'end'},
         { from: 'phases', name: 'investigation', prop: 'start'},
         getFirstStepDate
       ]
     )
-    if (!dt) {
+    if (!investigationDate) {
       console.warn(startup.id)
     } else {
-      addValue(db.investigation.years, dt, startup.id)
+      addValue(db.investigation.years, investigationDate, startup.id)
     }
 
-    var c = getFirst(startup, [
+    // Date du lancement du produit
+    var launchDate = getFirst(startup, [
         { from: 'events', name: 'product_launch', prop: 'date'},
         { from: 'phases', name: 'construction', prop: 'end'},
         { from: 'phases', name: 'construction', prop: 'start'},
-        dt
+        investigationDate
       ]
     )
-    addValue(db.construction.years, c, startup.id)
+    addValue(db.product_launch.years, launchDate, startup.id)
 
-    var d = getFirst(startup, [
+    // Date de l'abandon du produit
+    var endDate = getFirst(startup, [
         { from: 'events', name: 'death', prop: 'date'},
       ]
     )
-    addValue(db.alumni.years, d, startup.id)
+    addValue(db.end.years, endDate, startup.id)
 
+    // Date du passage à un produit d'impact national
     var s = getFirst(startup, [
         { from: 'events', name: 'national_impact', prop: 'date'},
       ]
     )
-    addValue(db.success.years, s, startup.id)
+    addValue(db.national_impact.years, s, startup.id)
   })
 
   $.ajax(prefix + "authors.json").done(function(response) {
@@ -145,7 +152,7 @@ $.ajax(prefix + "startups.json").done(function(response) {
 
       author.missions.reduce(function(done, mission) {
         if (!done && mission.status === 'admin') {
-          addValue(db.people.years, mission.start, author.id)
+          addValue(db.agent.years, mission.start, author.id)
           return true
         }
         return done

@@ -20,19 +20,19 @@ Les indicateurs utilisés sont…
 
 ### 2. Nombre de produits lancés par an
 
-<canvas id="construction"></canvas>
+<canvas id="product_launch"></canvas>
 
 ### 3. Nombre de produits abandonnés par an
 
-<canvas id="alumni"></canvas>
+<canvas id="end"></canvas>
 
 ### 4. Nombre de produits devenus des services publics à impact national majeur au cours de l'année
 
-<canvas id="success"></canvas>
+<canvas id="national_impact"></canvas>
 
 ### 7. Nombre d'intrapreneurs formés à la méthode Startup d'État
 
-<canvas id="people"></canvas>
+<canvas id="agent"></canvas>
 
 #### EIG
 
