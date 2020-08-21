@@ -40,7 +40,7 @@ Si l’outil a d'abord concerné, dans un premier temps, les aides relatives au 
 Aides-territoires suit une logique de "place de marché" structurée selon deux profils d'utilisateurs :
 
 * L’offre (financements, aides en ingénierie, appels à projets) émane de nombreux acteurs : les directions générales des ministères (notamment Cohésion des Territoires et Transition écologique et solidaire) ; les agences placées sous la tutelle de l'Etat (Agence De l’Environnement et de la Maîtrise de l’Énergie, Banque des territoires, Office Français pour la Biodiversité, Agence française de développement) ; les collectivités territoriales porteuses d'aides (Conseils régionaux et départementaux, parcs naturels régionaux, pôles d'équilibre territoriaux) ; les structures locales de l'ingénierie (Directions départementales des territoires, Conseils d'Architecture, d'Urbanisme et de l'​Environnement) ; etc.
-* La demande vient des collectivités et plus particulièrement des agents en charge de la veille sur les aides mais également de leurs partenaires locaux (associations, établissements publics) et de stuctures accompagnantes (DDT, PETR, etc.)
+* La demande vient des collectivités et plus particulièrement des agents en charge de la veille sur les aides mais également de leurs partenaires locaux (associations, établissements publics) et de structures accompagnantes (DDT, PETR, etc.)
 
 ## Les perspectives
 
