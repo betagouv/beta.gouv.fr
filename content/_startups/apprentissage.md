@@ -2,7 +2,17 @@
 title: Mission Apprentissage
 mission: Faciliter les entrées en apprentissage
 owner: Délégation générale à l'emploi et à la formation professionnelle (DGEFP)
-incubator: dinum
+sponsors: 
+    - name: Délégation générale à l'emploi et à la formation professionnelle
+      shortname: DGEFP
+      domaine_ministeriel: travail
+      type: administration-centrale
+incubatorsponsors: 
+    - name: Direction interministérielle du numérique
+      shortname: DINUM
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
+: dinum
 phases:
   - name: investigation
     start: 2019-11-01
