@@ -2,8 +2,11 @@
 title: Peps
 mission: Faciliter la transition du modèle agricole grâce au partage d'expériences entre agriculteurs
 owner: direction générale de l'alimentation
-owner_type: administration-centrale
-domaine_ministeriel: agriculture
+sponsors: 
+    - name: Direction générale de l'administration
+      shortname: 
+      domaine_ministeriel: agriculture
+      type: administration-centrale
 incubator: dinum
 phases:
   - name: investigation
