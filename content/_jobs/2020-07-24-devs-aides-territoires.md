@@ -14,6 +14,7 @@ open: true
  - **Où ?** Chez toi ou à La Défense (Grande Arche)
  - **A quelle fréquence ?** Temps plein ou 3 à 4 jours / semaine
  - **Pour combien de temps ?** 6 mois, renouvelable
+ - **Modalités** poste ouvert pour un·e indépendant·e
 
 Les pistes cyclables, la médiathèque, la création d'espaces verts ou la mise en
 place de panneaux solaires dans ta commune, cela te parle ? Eh bien ce sont
