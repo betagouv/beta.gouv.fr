@@ -8,5 +8,5 @@ missions:
     employer: MTES-MCT
 avatar: 
 startups:
-  - Résorption bidonvilles
+  - resorption-bidonvilles
 ---
