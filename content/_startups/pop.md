@@ -3,6 +3,11 @@ title: Plateforme Ouverte du Patrimoine
 mission: Valoriser notre patrimoine culturel auprès du plus grand nombre
 incubator: dinum
 owner: Ministère de la Culture
+sponsors: 
+    - name: Direction générale des patrimoines
+      shortname: DGPat
+      domaine_ministeriel: culture
+      type: administration-centrale
 phases:
   - name: investigation
     start: 2018-04-01
