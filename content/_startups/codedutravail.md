@@ -6,6 +6,8 @@ incubator: sgmas
 phases:
   - name: investigation
     start: 2017-12-01
+  - name: construction
+    start: 2018-03-01
   - name: acceleration
 link: https://code.travail.gouv.fr
 repository: https://github.com/SocialGouv/code-du-travail-numerique
