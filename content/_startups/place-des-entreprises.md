@@ -6,6 +6,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2017-04-03
+  - name: construction
+    start: 2017-04-03
   - name: acceleration
 link: https://place-des-entreprises.beta.gouv.fr
 repository: https://github.com/betagouv/place-des-entreprises
