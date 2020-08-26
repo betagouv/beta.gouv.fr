@@ -1,10 +1,13 @@
 ---
 title: Mes autorisations de stationnement # une majuscule et pas d'acronymes
 mission: Investiguer sur la chaine de gestion des autorisations de stationnement des taxis en France. 
-incubator: mtes # le nom du fichier de l'incubateur de la startup
+owner: DGITM
+incubator: mtes
 phases:
   - name: investigation
     start: 2020-07-21 # date au format ISO (AAAA-MM-DD)
+link: 
+repository: 
 stats: false
 contact: bernard.quach@developpement-durable.gouv.fr
 ---
