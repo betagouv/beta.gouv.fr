@@ -2,6 +2,11 @@
 title: Memo
 mission: Vos candidatures en un clin d'oeil
 owner: Pôle emploi
+sponsors: 
+    - name: Pôle Emploi
+      shortname: PE
+      domaine_ministeriel: travail
+      type: SD # operateur
 incubator: pole-emploi
 phases:
   - name: investigation
