@@ -7,6 +7,7 @@ phases:
   - name: investigation
     start: 2019-11-01
   - name: construction
+    start: 2019-11-01
 link:
 repository: https://github.com/MTES-MCT/partaj
 stats: false
