@@ -1,9 +1,9 @@
 ---
-fullname: Nicolas Boulio
+fullname: Cyril Cincet
 role: Coach
 missions:
-  - start: 2019-09-01
-    end: 2020-07-10
+  - start: 2020-07-01
+    end: 2021-12-31
     status: service
     employer: octo
 startups :
