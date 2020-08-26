@@ -119,13 +119,20 @@ $.ajax(prefix + "startups.json").done(function(response) {
     }
 
     // Date du lancement du produit
-    var launchDate = getFirst(startup, [
+    var items = [
         { from: 'events', name: 'product_launch', prop: 'date'},
-        { from: 'phases', name: 'construction', prop: 'start'},
-        investigationDate
+        { from: 'phases', name: 'construction', prop: 'start'}
       ]
-    )
-    addValue(db.product_launch.years, launchDate, startup.id)
+    
+    if (startup.attributes.phases.length === 1) {  
+        items.push (investigationDate)
+    }
+      
+    var launchDate = getFirst(startup, items)
+    
+    if (launchDate) {
+        addValue(db.product_launch.years, launchDate, startup.id)
+    }
 
     // Date de l'abandon du produit
     var endDate = getFirst(startup, [
