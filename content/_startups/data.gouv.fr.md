@@ -9,6 +9,8 @@ events:
 phases:
   - name: investigation
     start: 2013-06-01
+  - name: construction
+    start: 2013-06-01    
   - name: success
 link: https://www.data.gouv.fr/
 repository: https://github.com/opendatateam/udata
