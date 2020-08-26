@@ -2,6 +2,11 @@
 title: Code du travail numérique
 mission: Faciliter l'accès au droit du travail pour les entreprises et les employés.
 owner: ministère du Travail
+sponsors: 
+    - name: Délégation générale du travail
+      shortname: DGEFP
+      domaine_ministeriel: travail
+      type: administration-centrale
 incubator: sgmas
 phases:
   - name: investigation
