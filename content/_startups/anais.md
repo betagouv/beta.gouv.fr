@@ -7,6 +7,7 @@ phases:
   - name: investigation
     start: 2019-04-05
   - name: construction
+    start: 2019-04-05
 stats: false
 contact: frederic.bardolle@def.gouv.fr
 ---
