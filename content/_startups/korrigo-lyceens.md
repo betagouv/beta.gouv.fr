@@ -6,6 +6,7 @@ incubator: dinsic
 phases:
   - name: investigation
     start: 2019-10-21
+    end: 2020-01-30
   - name: alumni
 link:
 repository: 
