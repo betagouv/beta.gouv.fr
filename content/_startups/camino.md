@@ -6,7 +6,7 @@ incubator: mtes
 phases:
   - name: investigation
     start: 2018-01-01
-   - name: construction
+  - name: construction
     start: 2018-01-01
   - name: acceleration
 link: https://camino.beta.gouv.fr
