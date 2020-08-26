@@ -9,6 +9,9 @@ events:
 phases:
   - name: investigation
     start: 2019-01-01
+    end: 2019-03-30
+  - name: construction
+    start: 2019-03-30
     end: 2020-01-01
   - name: alumni
     start: 2020-01-01

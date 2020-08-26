@@ -5,8 +5,10 @@ owner: Ministère des Armées
 incubator: fabnumdef
 phases:
   - name: investigation
-    start: 2020-01-01
+    start: 2019-10-01
+    end: 2019-11-30
   - name: construction
+    start: 2019-11-30
 link:
 repository:
 stats: false
