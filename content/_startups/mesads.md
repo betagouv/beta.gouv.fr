@@ -5,7 +5,6 @@ incubator: mtes # le nom du fichier de l'incubateur de la startup
 phases:
   - name: investigation
     start: 2020-07-21 # date au format ISO (AAAA-MM-DD)
-    end: 020-09-21 # à remplie plus tard
 stats: false
 contact: bernard.quach@developpement-durable.gouv.fr
 ---
