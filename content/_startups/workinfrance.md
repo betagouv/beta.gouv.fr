@@ -2,6 +2,11 @@
 title: Work in France
 mission: La plateforme de demande d’autorisations provisoires de travail
 owner: Ministère des Affaires sociales
+sponsors: 
+    - name: directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi
+      shortname: DIRECCTE
+      domaine_ministeriel: travail
+      type: SD # Service déconcentré
 incubator: sgmas
 phases:
   - name: investigation
