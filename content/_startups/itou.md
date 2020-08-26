@@ -13,6 +13,8 @@ events: []
 phases:
   - name: investigation
     start: 2019-06-10
+  - name: construction
+    start: 2019-06-10
   - name: acceleration
     start: 2020-07-10
 ---
