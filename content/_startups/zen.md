@@ -2,6 +2,11 @@
 title: Zen
 mission: Aider les demandeurs d’emploi qui cumulent emploi et chômage à être payé le bon montant d’allocation chômage chaque mois
 owner: Pôle emploi
+sponsors: 
+    - name: Pôle Emploi
+      shortname: PE
+      domaine_ministeriel: travail
+      type: SD # operateur
 incubator: pole-emploi
 phases:
   - name: investigation
