@@ -11,9 +11,9 @@ phases:
   - name: investigation
     start: 2018-01-08
     end: 2018-07-01
-  - start: 2018-07-01
+  - name: construction
+    start: 2018-07-01
     end: 2019-01-23
-    name: construction
   - name: acceleration
     start: 2019-01-23
 ---
