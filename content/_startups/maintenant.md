@@ -2,6 +2,10 @@
 title: Maintenant!
 mission: Recrutez des gens, pas des CV
 owner: Pôle emploi
+    - name: Pôle Emploi
+      shortname: PE
+      domaine_ministeriel: travail
+      type: SD # operateur
 incubator: pole-emploi
 phases:
   - name: investigation
