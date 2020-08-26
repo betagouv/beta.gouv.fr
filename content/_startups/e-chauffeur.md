@@ -6,6 +6,8 @@ incubator: fabnumdef
 phases:
   - name: investigation
     start: 2018-09-01
+  - name: construction
+    start: 2018-09-01
   - name: acceleration
 repository: https://github.com/fabnumdef/e-chauffeur
 stats: false
