@@ -1,16 +1,13 @@
 ---
 title: Mes autorisations de stationnement # une majuscule et pas d'acronymes
 mission: Investiguer sur la chaine de gestion des autorisations de stationnement des taxis en France. 
-incubator: Fabrique Numérique # le nom du fichier de l'incubateur de la startup
-phases: # les différentes étapes de la vie des startups - les phases possibles sont définies dans /content/_phases/ 
+incubator: mtes # le nom du fichier de l'incubateur de la startup
+phases:
   - name: investigation
     start: 2020-07-21 # date au format ISO (AAAA-MM-DD)
     end: 020-09-21 # à remplie plus tard
-link: N.A
-repository: N.A # ou page de description des dépôts s'il y en a plusieurs
-stats: false # mettre à true pour renvoyer vers ta page de stats. Attention, elle doit se trouver sur [url du site]/stats !
-stats_url: N.A # optionnel, si stats est à true, alors tu peux indiquer vers quelle URL pointer vers tes stats.
-contact: N.A # sera visible de tous
+stats: false
+contact: bernard.quach@developpement-durable.gouv.fr
 ---
 
 ## Problème investigué
