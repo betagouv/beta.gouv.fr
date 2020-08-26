@@ -121,7 +121,8 @@ $.ajax(prefix + "startups.json").done(function(response) {
     // Date du lancement du produit
     var launchDate = getFirst(startup, [
         { from: 'events', name: 'product_launch', prop: 'date'},
-        { from: 'phases', name: 'construction', prop: 'start'}
+        { from: 'phases', name: 'construction', prop: 'start'},
+        investigationDate
       ]
     )
     addValue(db.product_launch.years, launchDate, startup.id)
