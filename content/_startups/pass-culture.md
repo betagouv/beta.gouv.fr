@@ -6,6 +6,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2017-12-01
+  - name: construction
+    start: 2018-03-01
   - name: alumni
 link: https://pass.culture.fr
 repository: https://pass-culture.gitbook.io/documents/informations-techniques#code-source
