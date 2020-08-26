@@ -2,6 +2,11 @@
 title: Anotea
 mission: Eclairer les personnes qui cherchent une formation professionnelle en affichant les notes et commentaires collectés auprès des demandeurs d'emploi sortis de formation.
 owner: Pôle emploi
+sponsors: 
+    - name: Pôle Emploi
+      shortname: PE
+      domaine_ministeriel: travail
+      type: SD # operateur
 incubator: pole-emploi
 phases:
   - name: investigation
