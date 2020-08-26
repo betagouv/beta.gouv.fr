@@ -8,9 +8,11 @@ missions:
     status: independent
     employer: Living Data
 startups:
-    - geo.data.gouv.fr
-    - api-geo
-    - ban
+  - geo.data.gouv.fr
+  - api-geo
+  - ban
+previously:
+  - datapass
 ---
 
 « The answer to life, the universe and everything. »

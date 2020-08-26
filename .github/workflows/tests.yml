@@ -28,10 +28,13 @@ jobs:
           ${{ runner.os }}-gems-
     - name: Install dependencies
       run: bundle check || bundle install --path vendor/bundle
-    - name: Install Pip
-      run: sudo apt-get install python3-pip python3-setuptools
-    - name: Install html5validator
-      run: pip3 install --user --upgrade html5validator
+    
+    - name: Check author metadata
+      run: ruby rb/bin/validate rb/schema/authors.yml "content/_authors/*.md"
+
+    - name: Check startup metadata
+      run: ruby rb/bin/validate rb/schema/startups.yml "content/_startups/*.md"
+      
     - name: "Check authors file name structure (first_name.last_name.md)"
       run: |
             if ls content/_authors | grep --line-regexp --invert-match '[a-z_-]\+\.[a-z_-]\+\.md'
@@ -46,6 +49,7 @@ jobs:
             EOF
               exit 1
             fi
+            
     - name: Check Jekyll configuration
       run: bundle exec jekyll doctor
 
@@ -58,14 +62,11 @@ jobs:
     - name: Check HTML common mistakes
       run: bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
 
-    - name: Validate HTML spec compliance
-      run: $HOME/.local/bin/html5validator --root _site --ignore 'Element "img" is missing required attribute "src"'
-
-    - name: Check author metadata
-      run: ruby rb/bin/validate rb/schema/authors.yml "content/_authors/*.md"
-
-    - name: Check startup metadata
-      run: ruby rb/bin/validate rb/schema/startups.yml "content/_startups/*.md"
+    - name: HTML5 Validator
+      uses: Cyb3r-Jak3/html5validator-action@master
+      with:
+        root: _site
+        extra: --ignore 'Element "img" is missing required attribute "src"'
 
     - name: Lint JSON API pages
       run: bundle exec jsonlint _site/api/v*/*.json

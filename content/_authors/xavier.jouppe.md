@@ -11,6 +11,7 @@ missions:
       employer: OCTO
 startups:
     - api.gouv.fr
+    - datapass
 previously:
 ---
 
