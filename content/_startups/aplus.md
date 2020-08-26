@@ -6,6 +6,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2017-10-01
+  - name: construction
+    start: 2017-10-01
   - name: acceleration
 link: https://aplus.beta.gouv.fr/
 repository: https://github.com/betagouv/aplus
