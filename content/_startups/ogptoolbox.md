@@ -6,6 +6,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2016-06-08
+  - name: construction
+    start: 2016-06-08
   - name: alumni
 link: https://ogptoolbox.org/
 repository: https://github.com/ogptoolbox/ogptoolbox-ui
