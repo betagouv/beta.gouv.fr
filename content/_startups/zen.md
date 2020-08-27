@@ -6,6 +6,8 @@ incubator: pole-emploi
 phases:
   - name: investigation
     start: 2018-04-01
+  - name: construction
+    start: 2018-04-01
   - name: acceleration
 link: https://zen.pole-emploi.fr
 stats: false

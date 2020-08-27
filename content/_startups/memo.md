@@ -6,6 +6,8 @@ incubator: pole-emploi
 phases:
   - name: investigation
     start: 2016-01-03
+  - name: construction
+    start: 2016-01-03
   - name: alumni
 link: https://memo.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/memo

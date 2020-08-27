@@ -6,6 +6,8 @@ owner: Ministère de la Culture
 phases:
   - name: investigation
     start: 2018-04-01
+  - name: construction
+    start: 2018-04-01
   - name: alumni
 link: https://pop.culture.gouv.fr/
 repository: https://github.com/betagouv/pop

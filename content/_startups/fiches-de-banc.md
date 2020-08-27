@@ -6,6 +6,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2015-01-12
+  - name: construction
+    start: 2015-01-12
   - name: alumni
 link:
 repository: https://github.com/betagouv/fiches-de-banc

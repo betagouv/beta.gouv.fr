@@ -6,6 +6,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2015-03-01
+  - name: construction
+    start: 2015-03-01    
   - name: alumni
 link:
 repository: https://github.com/betagouv/bourses/

@@ -7,6 +7,7 @@ phases:
   - name: investigation
     start: 2019-12-19
   - name: construction
+    start: 2019-12-19
 link: http://cartobio.org
 repository: https://github.com/entrepreneur-interet-general/CartoBio-Presentation
 stats: true

@@ -6,6 +6,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2018-06-18
+  - name: construction
+    start: 2018-06-18
   - name: acceleration
 link: https://signal.conso.gouv.fr
 repository: https://github.com/betagouv/signalement-app

@@ -7,6 +7,7 @@ phases:
   - name: investigation
     start: 2019-06-15
   - name: construction
+    start: 2019-06-15
 link: https://medle.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/medle
 stats: false

@@ -6,6 +6,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2017-06-01
+  - name: construction
+    start: 2017-06-01
   - name: alumni
 link:
 repository: https://framagit.org/drone

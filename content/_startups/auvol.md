@@ -6,6 +6,7 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2019-03-01
+    end: 2019-08-31
   - name: alumni
 repository:
 stats: false

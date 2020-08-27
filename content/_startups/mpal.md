@@ -6,6 +6,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2016-05-01
+  - name: construction
+    start: 2016-05-01
   - name: alumni
 link: https://monprojet.anah.gouv.fr/
 repository: 

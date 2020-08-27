@@ -6,6 +6,8 @@ incubator: mtes
 phases:
   - name: investigation
     start: 2018-01-01
+  - name: construction
+    start: 2018-01-01
   - name: alumni
 repository: https://github.com/mtes-mct/aeris
 stats: false

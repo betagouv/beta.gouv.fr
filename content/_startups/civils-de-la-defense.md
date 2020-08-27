@@ -6,6 +6,8 @@ incubator: fabnumdef
 phases:
   - name: investigation
     start: 2018-06-01
+  - name: construction
+    start: 2018-06-01
   - name: acceleration
 link: https://civilsdeladefense.fabnum.fr
 repository: https://github.com/betagouv/civilsdeladefense

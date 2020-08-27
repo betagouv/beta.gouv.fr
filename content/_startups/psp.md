@@ -6,7 +6,6 @@ incubator: lab-mi
 phases:
   - name: investigation
     start: 2019-11-05
-  - name: investigation
 link:
 repository:
 stats: false

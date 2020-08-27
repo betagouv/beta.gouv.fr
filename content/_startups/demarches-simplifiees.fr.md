@@ -9,6 +9,8 @@ events:
 phases:
   - name: investigation
     start: 2015-09-15
+  - name: construction
+    start: 2015-09-15
   - name: success
 link: https://www.demarches-simplifiees.fr
 repository: https://github.com/betagouv/tps

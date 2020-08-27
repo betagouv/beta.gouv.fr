@@ -5,7 +5,8 @@ owner: DINUM
 incubator: dinum
 phases:
   - name: investigation
-    start: 2014-12-15
+    start: 2018-01-01
+    end: 2018-12-31
   - name: alumni
 link:
 repository:
