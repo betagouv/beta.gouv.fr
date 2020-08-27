@@ -2,6 +2,11 @@
 title: Open Académie
 mission: Construire le lycée et le collège de demain
 owner: Ministère de l'Éducation nationale
+sponsors: 
+    - name: Secrétariat général
+      shortname: SG
+      domaine_ministeriel: education-nat
+      type: administration-centrale
 incubator: dinum
 phases:
   - name: investigation
