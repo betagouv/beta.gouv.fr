@@ -2,6 +2,11 @@
 title: Boussole des droits
 mission: Accéder à des conseils professionnels à proximité pour trouver un logement, une formation ou un emploi
 owner: Direction de la jeunesse
+sponsors: 
+    - name: Direction de la jeunesse, de l'éducation populaire et de la vie associative
+      shortname: DJEPVA
+      domaine_ministeriel: education-nat
+      type: administration-centrale
 incubator: dinum
 phases:
   - name: investigation
