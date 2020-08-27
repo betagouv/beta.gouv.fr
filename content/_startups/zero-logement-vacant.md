@@ -2,8 +2,11 @@
 title: Zéro logement vacant
 mission: Faciliter la remobilisation des logements vacants par les collectivités
 owner: Direction générale de l'aménagement, du logement et de la nature (DGALN)
-domaine_ministeriel: environnement
-owner_type: administration-centrale
+sponsors: 
+    - name: Direction générale de l'aménagement, du logement et de la nature
+      shortname: DGALN
+      domaine_ministeriel: territoires
+      type: administration-centrale
 incubator: mtes
 phases:
   - name: investigation
