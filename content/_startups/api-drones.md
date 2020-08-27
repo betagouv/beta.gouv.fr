@@ -3,6 +3,9 @@ title: API Drones
 mission: Une meilleure connaissance du ciel pour plus de sécurité et d'innovation
 owner: SGDSN
 incubator: dinum
+events:
+  - name: end
+    date: 2018-12-31
 phases:
   - name: investigation
     start: 2017-06-01
