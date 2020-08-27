@@ -2,8 +2,11 @@
 title: Étudiant entrepreneur
 mission: Faciliter l'accès au statut étudiant entrepreneur et à ses bénéfices
 owner: Direction générale de l'enseignement supérieur et de l'insertion professionnelle (DGESIP)
-domaine_ministeriel: enseignement-sup
-owner_type: administration-centrale
+sponsors: 
+    - name: Direction générale de l'enseignement supérieur et de l'insertion professionnelle
+      shortname: DGESIP
+      domaine_ministeriel: enseignement-sup
+      type: administration-centrale
 incubator: dinum
 phases:
   - name: investigation
