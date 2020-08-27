@@ -3,8 +3,11 @@ title: Mon stage de 3e
 mission: Permettre aux élèves de 3e d'accéder à des stages pertinents et de qualité visant à accompagner leur émancipation et combattre les déterminismes sociaux
 owner: CGET
 incubator: dinum
-owner_type: administration-centrale
-domaine_ministeriel: territoires
+sponsors: 
+    - name: Agence nationale de la cohésion des territoires
+      shortname: ANCT
+      domaine_ministeriel: territoires
+      type: opérateur
 phases:
   - name: investigation
     start: 2018-12-01
