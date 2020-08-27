@@ -5,8 +5,10 @@ owner: DGAFP
 incubator: dinum
 phases:
   - name: investigation
-    start: 2020-02-20
+    start: 2019-12-01
+    end: 2020-01-30
   - name: construction
+    start: 2020-01-30
 link:
 repository: https://github.com/betagouv/visam
 stats: false

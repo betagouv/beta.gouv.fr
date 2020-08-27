@@ -7,6 +7,7 @@ phases:
   - name: investigation
     start: 2020-01-01
   - name: construction
+    start: 2020-01-01
 link: https://snu.gouv.fr
 repository:
 stats: false

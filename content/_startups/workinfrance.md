@@ -7,7 +7,7 @@ phases:
   - name: investigation
     start: 2017-10-26
   - name: construction
-    start: 2018-01-30
+    start: 2017-10-26
   - name: acceleration
 link: http://workinfrance.fr
 repository: https://github.com/SocialGouv/work-in-france
