@@ -5,7 +5,7 @@ owner: CNAV, MSA, Sécurité sociale pour les indépendants
 incubator: dinum
 events:
   - name: end
-    date: 2016-31-12
+    date: 2016-12-31
 phases:
   - name: investigation
     start: 2015-10-01
