@@ -1,8 +1,7 @@
 ---
 title: MobiVille
-mission: Diminuer le nombre d'emplois non pourvus en facilitant la mobilité
-  géographique des actifs
-owner: "Pôle emploi et Action Logement "
+mission: Diminuer le nombre d'emplois non pourvus en facilitant la mobilité géographique des actifs
+owner: Pôle emploi et Action Logement
 sponsors: 
     - name: Pôle Emploi
       shortname: PE
@@ -27,11 +26,9 @@ Vous connaissez le *désajustement géographique* ? Dans certains bassins d'empl
 
 Comment réduire le désajustement géographique entre la localisation des compétences candidats et les besoins des territoires ?
 
-
 **Contexte** 
 
 La mobilité reste synonyme de difficulté pour les actifs (demandeurs d'emploi et salariés) qui ne connaissent pas les dispositifs créés pour les aider (727M d’euros prévus par Action logement chaque année). Les personnes qui envisagent de bouger passent à l'action pour des des motivations à la fois professionnelles et personnelles ; il faut donc trouver une approche qui englobe projet de vie et projet professionnel.
-
 
 **Produit** 
 
