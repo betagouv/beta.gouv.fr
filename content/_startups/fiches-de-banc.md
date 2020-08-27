@@ -3,6 +3,9 @@ title: Fiches de banc
 mission: Augmenter la productivité du traitement des amendements dans les cabinets ministériels
 owner: DINUM
 incubator: dinum
+events:
+  - name: end
+    date: 2016-09-30
 phases:
   - name: investigation
     start: 2015-01-12

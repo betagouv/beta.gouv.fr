@@ -3,6 +3,9 @@ title: Boussole des droits
 mission: Accéder à des conseils professionnels à proximité pour trouver un logement, une formation ou un emploi
 owner: Direction de la jeunesse
 incubator: dinum
+events:
+  - name: end
+    date: 2017-06-30
 phases:
   - name: investigation
     start: 2015-12-01

@@ -3,6 +3,9 @@ title: Aeris
 mission: Limiter les rejets polluants dans l'air en facilitant et en harmonisant la déclaration et le suivi des émissions des industriels
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
+events:
+  - name: end
+    date: 2018-12-31
 phases:
   - name: investigation
     start: 2018-01-01
