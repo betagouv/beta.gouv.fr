@@ -12,7 +12,7 @@ phases:
 link: https://pop.culture.gouv.fr/
 repository: https://github.com/betagouv/pop
 stats: true
-contact: sandrine.della-bartolomea@culture.gouv.fr
+contact: pop@culture.gouv.fr
 ---
 
 ## Le patrimoine est l'affaire de tous : vers une Plateforme Ouverte du Patrimoine (POP)
