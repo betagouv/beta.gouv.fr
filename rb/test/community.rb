@@ -1,5 +1,9 @@
 #!/usr/bin/env ruby
 
+require 'rubygems'
+require 'bundler'
+Bundler.setup
+
 gem 'jekyll'
 gem 'minitest'
 
