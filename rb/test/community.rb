@@ -23,7 +23,7 @@ class TestCommunity < MiniTest::Test
 
     no_end = {'name' => 'current_without_end'}
     with_end = {'name' => 'current_with_end', 'missions' => [{'end' => tomorrow}]}
-    alum = {'name' => 'alumni', 'missions' => [{'end' => yesterday}]}
+    alum = {'name' => 'alum', 'missions' => [{'end' => yesterday}]}
 
     members = [no_end, with_end, alum]
     members = members.map {|each| wrapped = OpenStruct.new; wrapped.data = each; wrapped }
@@ -33,6 +33,7 @@ class TestCommunity < MiniTest::Test
 
     assert_equal(2, current.size)
     assert_equal(1, past.size)
+    assert_equal('alum', past.first.data['name'])
   end
 
 end
