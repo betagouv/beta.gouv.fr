@@ -6,7 +6,6 @@ incubator: dinsic
 phases:
   - name: investigation
     start: 2020-01-14
-  - name: investigation
 link:
 repository: 
 stats: false 
