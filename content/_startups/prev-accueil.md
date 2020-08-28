@@ -34,11 +34,13 @@ L’inaccessibilité des structures d’accueil pour les familles à des conséq
 Sans accompagnement, ces situations peuvent basculer dans le champ de la Protection de l’Enfance.
 
 ## Hypothèses de solution : 
-Tester sur 2 centres de PMI du département :
-- la mise en en place un dispositif d’accueil d’urgence d’enfant chez un·e assistant·e maternel·le, sans lourdeur administrative, avec possibilité de prise en charge financière ;
-- l'animation d’un réseau d’assitant·es maternel·les sur le territoire ;
-- l'tilisation d’un outil numérique rendant lisible, en temps réel, les places d’accueil disponibles (groupe de discussion avec les partenaires et assistant·es maternel·les) ;
-- la mise en place d’une convention avec des financeurs pour faciliter l’accès au mode d’accueil.
+La décision post investigation a été de lancer une expérimentation hors Startup de Territoires sur 2 centres de PMI du département :
+- mise en en place un dispositif d’accueil d’urgence d’enfant chez un·e assistant·e maternel·le, sans lourdeur administrative, avec possibilité de prise en charge financière ;
+- animation d’un réseau d’assitant·es maternel·les sur le territoire ;
+- test de l'utilisation d’un outil numérique rendant lisible, en temps réel, les places d’accueil disponibles (groupe de discussion avec les partenaires et assistant·es maternel·les) ;
+- mise en place d’une convention avec des financeurs pour faciliter l’accès au mode d’accueil.
+
+Un premier retour d'expérience (évaluation d'impact) à horizon fin 2020 sera organisé pour capitaliser sur les apprentissages au sein du département.
 
 ## Territoire d'expérimentation : 
 Département du Val d'Oise
