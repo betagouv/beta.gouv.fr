@@ -4,6 +4,9 @@ mission: Améliorer la formation des enseignants
 owner: Reseau Canopé
 incubator: dinum
 contact: karel.cloarec@beta.gouv.fr
+phases:
+  - name: investigation
+    start: 2020-06-10
 ---
 Dans le cadre d'une phase d'investigation de 9 semaines, le Réseau Canopé s'associe à [beta.gouv.fr](http://beta.gouv.fr/) pour mieux comprendre la manière dont les enseignants se forment avec pour objectif d'améliorer le parcours de formation des enseignants.
 
