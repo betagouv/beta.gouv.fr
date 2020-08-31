@@ -58,3 +58,7 @@ Poste ouvert pour un·e **indépendant·e** à pourvoir pour un contrat d’envi
 Réunions d'équipe régulières en format visio. Des réunions en présentiel optionnelles à prévoir sur Paris.
 
 Démarrage courant septembre 2020.
+
+## Comment postuler ?
+
+Envoyez-nous votre candidature et votre CV à l'adresse [acceslibre@beta.gouv.fr](mailto:acceslibre@beta.gouv.fr?Subject=%5BCandidature%5D%20Poste%20de%20designer%20UX-UI%20Acceslibre). Vous pouvez également nous y contacter pour poser vos questions préliminaires.
