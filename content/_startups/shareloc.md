@@ -37,5 +37,8 @@ En parallèle, la durée d’obtention d’un logement social peut s’étendre 
 ## Hypothèses de solution 
 L’idée de solution repose sur la mise en relation des logements de fonction vacants et des agents de la Région ou de l’Etat, en recherche d’un logement. Leur occupation est conditionnée par l’accord du chef d’établissement. Il est indispensable de co-construire la solution avec les lycées volontaires pour recenser les logements vacants, repérer les éventuels travaux à mener, partager l’offre de logements disponibles à la location et faciliter leur gestion administrative.
 
+## Suite pour l'intrapreneure
+Sujet des logements vacants en lycée jugé non prioritaire par la Région, et non adapté à une poursuite au sein de beta.gouv.fr. Proposition à l'intrapreneure d'investiguer en interne d'autres espaces vacants dans les lycées.
+
 ## Territoire d'expérimentation 
 Région Hauts-de-France
