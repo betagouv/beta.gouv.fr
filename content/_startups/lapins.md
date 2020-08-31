@@ -2,8 +2,10 @@
 title: RDV Solidarités (anciennement Lapins)
 mission: Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité
 owner: Consortium de départements
-owner_type: collectivite-territoriale
-domaine_ministeriel: territoires
+sponsors: 
+    - name: Fabrique des territoire
+      shortname:
+      domaine_ministeriel: territoires
 incubator: dinum
 phases:
   - name: investigation
