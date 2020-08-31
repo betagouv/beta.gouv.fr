@@ -3,8 +3,11 @@ title: Histologe
 mission: Le Contrôle Technique Gratuit du Logement 
 owner: Agglomération de Pau Béarn Pyrénées
 incubator: anct
-owner_type: collectivite-territoriale
-domaine_ministeriel: territoires
+sponsors: 
+    - name: Agglomération de Pau Béarn Pyrénées
+      shortname:
+      domaine_ministeriel: territoires
+      type: collectivite-territoriale
 phases:
   - name: investigation
     start: 2019-09-01
