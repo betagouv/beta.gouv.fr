@@ -35,5 +35,8 @@ services régionaux, délais de paiement allongés.
 ## Hypothèses de solution 
 Propositions de dispositifs techniques spécifiques pour mettre en place ces OCS au sein de la région Hauts-de-France
 
+## Suite pour l'équipe
+Sujet administratif qui sera poussé en interne.
+
 ## Territoire d'expérimentation 
 Région Hauts-de-France
