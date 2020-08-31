@@ -34,5 +34,8 @@ La solution optimale permettrait au bénéficiaire d’avoir un accès direct (�
 
 Une présentation de ces propositions a été faite auprès de 6 bénéficiaires qui ont tous plébiscité la possibilité de recevoir des alertes aux étapes clés de leur dossier et d’être avertis des délais « envisageables ».
 
+## Suite pour l'équipe
+Sujet SI à intégrer aux cahiers des charges d'évolution des logiciels utilisés par la Région pour gérer ces aides. Idée appréciée, les intrapreneur.e.s seront sollicité.e.s en interne sur ce sujet.
+
 ## Territoire d'expérimentation 
 Région Hauts-de-France
