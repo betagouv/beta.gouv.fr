@@ -7,12 +7,12 @@ sponsors:
       shortname: DGEFP
       domaine_ministeriel: travail
       type: administration-centrale
-incubatorsponsors: 
+sponsors: 
     - name: Direction interministérielle du numérique
       shortname: DINUM
       domaine_ministeriel: spm # Service du premier ministre
       type: administration-centrale
-: dinum
+incubator: dinum
 phases:
   - name: investigation
     start: 2019-11-01
