@@ -37,7 +37,7 @@ direct ne sont pas des freins pour les citoyens.
 La solution proposée consiste en une refonte de l'ergonomie de la plateforme de demande d'aides individuelles de la Région. Il s'agit notamment
 d'éclaircir d’entrée les conditions d’accès aux aides, afin de simplifier le parcours usager, et de tester une approche par pictogrammes.
 
-## Raison de la non poursuite de l'équipe
+## Suite pour l'équipe
 Projet interne à la Région, les intrapreneures vont être sollicitées sur ce sujet.
 
 ## Territoire d'expérimentation 
