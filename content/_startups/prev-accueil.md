@@ -4,8 +4,10 @@ mission: Permettre aux familles en « situation de vulnérabilité et/ou de dét
 owner: Département du Val d'Oise
 incubator: dinsic 
 phases:
-  - name: alumni
-    start: 2020-01-14
+    - name: investigation
+      start: 2020-01-14
+    - name: alumni
+      start: 2020-07-08
 link:
 repository: 
 stats: false 
