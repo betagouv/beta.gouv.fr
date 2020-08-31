@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: dinum
   - start: 2019-09-02
-    end: 2020-08-31
+    end: 2020-09-30
     status: independent
     employer: octo
 startups:
