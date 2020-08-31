@@ -5,7 +5,7 @@ owner: Agglomération de Pau Béarn Pyrénées
 incubator: dinsic 
 phases:
   - name: investigation
-    start: 2019-03-09
+    start: 2019-11-01
     end: 2020-01-20
   - name: alumni
     start: 2020-01-20
