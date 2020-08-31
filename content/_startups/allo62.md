@@ -2,7 +2,7 @@
 title: Allo 62
 mission: Permettre aux usagers de trouver le bon interlocuteur au sein du département
 owner: Département du Pas-de-Calais
-incubator: dinsic 
+incubator: dinum
 phases:
   - name: investigation
     start: 2020-01-14
