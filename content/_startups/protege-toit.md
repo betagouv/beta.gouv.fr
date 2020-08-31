@@ -3,7 +3,7 @@ title: Protège-Toit 🏡 (violences conjugales)
 mission: Améliorer la prise en charge d'urgence pour les victimes de violences conjugales
 owner: Département des Côtes d'Armor
 sponsors: 
-    - name: Agglomération de Pau Béarn Pyrénées
+    - name: Département des Côtes d'Armor
       shortname:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
