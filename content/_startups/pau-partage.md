@@ -4,6 +4,11 @@ owner_type: collectivite-territoriale
 domaine_ministeriel: territoires
 mission: Lutter contre l'isolement des personnes âgées en favorisant la rencontre avec des bénévoles
 owner: Agglomération de Pau Béarn Pyrénées
+sponsors: 
+    - name: Agglomération de Pau Béarn Pyrénées
+      shortname:
+      domaine_ministeriel: territoires
+      type: collectivite-territoriale
 incubator: dinsic 
 phases:
   - name: investigation
