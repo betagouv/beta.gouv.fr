@@ -7,6 +7,7 @@ phases:
   - name: investigation
     start: 2018-11-26
   - name: construction
+    start: 2019-02-01
 link: https://www.lotocar.fr
 repository: https://github.com/DavidBruant/lotocar
 stats: false

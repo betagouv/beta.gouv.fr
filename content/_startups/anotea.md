@@ -6,6 +6,8 @@ incubator: pole-emploi
 phases:
   - name: investigation
     start: 2018-04-01
+  - name: construction
+    start: 2018-04-01
   - name: transfer
 link: https://anotea.pole-emploi.fr
 stats: true

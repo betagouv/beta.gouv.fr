@@ -6,6 +6,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2014-01-01
+  - name: construction
+    start: 2014-01-01
   - name: alumni
 link: https://mps.apientreprise.fr
 repository:

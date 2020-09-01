@@ -7,6 +7,7 @@ phases:
   - name: investigation
     start: 2019-06-01
   - name: construction
+    start: 2019-06-01
 link:
 stats: false
 contact: giulia.reboa@jscs.gouv.fr

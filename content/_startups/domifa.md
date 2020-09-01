@@ -6,6 +6,8 @@ incubator: sgmas
 phases:
   - name: investigation
     start: 2019-01-15
+  - name: construction
+    start: 2019-01-15
   - name: acceleration
 link: https://domifa.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/domifa

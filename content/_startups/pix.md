@@ -9,6 +9,8 @@ events:
 phases:
   - name: investigation
     start: 2016-06-08
+  - name: construction
+    start: 2016-06-08
   - name: success
 link: https://pix.fr
 repository: https://github.com/1024pix/pix/

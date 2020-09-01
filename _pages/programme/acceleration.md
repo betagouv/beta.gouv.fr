@@ -7,7 +7,7 @@ additional_css:
   - side-panel.css
 ---
 
-> La **phase d’accélération**, qui suit une phase de construction réussie, a pour objectif la croissance de l’impact du service numérique. Elle suppose un déploiement du service à plus large échelle et peut s’accompagner d’un élargissement de l’équipe.
+> La **phase d’accélération**, qui suit une [phase de construction](https://beta.gouv.fr/approche/construction) réussie, a pour objectif la croissance de l’impact du service numérique. Elle suppose un déploiement du service à plus large échelle et peut s’accompagner d’un élargissement de l’équipe.
 
 ## Fonctionnement
 
@@ -18,4 +18,4 @@ Le déroulé de la phase d’accélération continue à reposer sur les [3 pilie
 - Une relation plus étroite avec le sponsor/l’administration porteuse, en vue de déterminer les objectifs de l’équipe, les mesures de soutien possibles de l’administration (financement, communication et promotion, relais locaux, etc.) et enfin la préparation de la phase de transfert le cas échéant ;
 - Un alignement de l’équipe et du sponsor autour d’une obsession commune : la croissance de l’impact du service.
 
-Cette phase s’achève par un comité où l’administration porteuse prend la décision, sur la base des résultats du service, de le pérenniser ou non.
+Cette phase s’achève par un comité où l’administration porteuse prend la décision, sur la base des résultats du service, de [le pérenniser](https://beta.gouv.fr/approche/transfert) ou non. 

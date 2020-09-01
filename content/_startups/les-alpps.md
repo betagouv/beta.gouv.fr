@@ -7,6 +7,7 @@ phases:
   - name: investigation
     start: 2019-08-01
   - name: construction
+    start: 2019-08-01
 link:
 repository:
 stats: false
