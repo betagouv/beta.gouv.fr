@@ -12,7 +12,7 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact: preincubation@beta.gouv.fr
+contact: incubateur@anct.gouv.fr
 ---
 
 ## Problème visé :
