@@ -7,6 +7,7 @@ phases:
   - name: investigation
     start: 2019-06-03
   - name: construction
+    start: 2019-09-03
 link: https://www.poubellesbattle.fr/
 repository: https://github.com/betagouv/poubellesbattle
 stats: true

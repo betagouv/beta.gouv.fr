@@ -6,6 +6,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2018-10-01
+  - name: construction
+    start: 2018-10-01
   - name: alumni
 link: https://www.calvados.fr/contact
 repository: https://github.com/betagouv/gps-usagers

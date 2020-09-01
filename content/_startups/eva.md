@@ -8,6 +8,7 @@ phases:
   - name: investigation
     start: 2018-06-06
   - name: construction
+    start: 2018-06-06
 link: https://eva.beta.gouv.fr/
 repository: https://github.com/betagouv/eva/
 stats: true

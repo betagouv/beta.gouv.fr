@@ -6,6 +6,8 @@ incubator: apigouv
 phases:
   - name: investigation
     start: 2016-01-25
+  - name: construction
+    start: 2016-01-25    
   - name: success
 link: https://api.gouv.fr
 repository: https://github.com/betagouv/api.gouv.fr

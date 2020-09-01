@@ -9,6 +9,8 @@ events:
 phases:
   - name: investigation
     start: 2015-05-01
+  - name: construction
+    start: 2015-05-01    
   - name: success
 link: https://labonneboite.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/labonneboite

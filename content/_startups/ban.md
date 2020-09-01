@@ -6,6 +6,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2014-06-01
+  - name: construction
+    start: 2014-06-01    
   - name: success
 link: https://adresse.data.gouv.fr
 repository: https://github.com/BaseAdresseNationale

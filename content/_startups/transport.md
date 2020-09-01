@@ -4,8 +4,10 @@ mission: De l’information voyageur pour tous, partout en France, grâce à l�
 owner: DGITM
 incubator: dinum
 phases:
-  - name: construction
+  - name: investigation
     start: 2017-07-03
+  - name: construction
+    start: 2017-10-01
   - name: acceleration
 link: https://transport.data.gouv.fr
 repository: https://github.com/etalab/transport-site

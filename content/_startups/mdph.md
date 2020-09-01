@@ -6,6 +6,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2014-12-01
+  - name: construction
+    start: 2014-12-01    
   - name: alumni
 link: https://mdphenligne.cnsa.fr
 repository: https://github.com/betagouv/mdph

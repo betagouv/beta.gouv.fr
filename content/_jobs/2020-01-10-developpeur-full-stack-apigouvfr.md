@@ -3,7 +3,7 @@ roles: Développeur / développeuse full stack Ruby on Rails
 startup: api-entreprise
 techno: Ruby / Ruby on Rails
 junior: false
-open: true
+open: false
 title: Développeur / développeuse full stack Ruby / Ruby on Rails
 ---
 

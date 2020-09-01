@@ -6,6 +6,8 @@ incubator: apigouv
 phases:
   - name: investigation
     start: 2015-01-01
+  - name: construction
+    start: 2015-01-01    
   - name: alumni
 link: https://geo.api.gouv.fr
 repository: https://github.com/etalab/geoapi

@@ -6,6 +6,8 @@ incubator: mtes
 phases:
   - name: investigation
     start: 2018-11-01
+  - name: construction
+    start: 2018-11-01
   - name: acceleration
 link: https://trackdechets.beta.gouv.fr
 repository: https://github.com/MTES-MCT/trackdechets
