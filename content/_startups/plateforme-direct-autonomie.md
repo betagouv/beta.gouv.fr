@@ -2,7 +2,7 @@
 title: Plateforme numérique direct autonomie
 mission: Réduire le délai moyen d'attribution de l'allocation personnalisée d'autonomie
 owner: Département du Var
-incubator: dinum 
+incubator: anct
 phases:
     - name: investigation
       start: 2019-02-04
@@ -12,7 +12,7 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact: preincubation@beta.gouv.fr
+contact: incubateur@anct.gouv.fr
 ---
 
 ## Problème visé :
