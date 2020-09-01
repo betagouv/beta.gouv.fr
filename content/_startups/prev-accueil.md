@@ -2,7 +2,7 @@
 title: Prev' Accueil
 mission: Permettre aux familles en « situation de vulnérabilité et/ou de détresse » d’accéder à un dispositif d’accueil d’urgence d’enfant chez une assistante maternelle, sans lourdeur administrative, avec une possibilité de prise en charge financière.
 owner: Département du Val d'Oise
-incubator: dinum
+incubator: anct
 phases:
     - name: investigation
       start: 2020-01-14
@@ -12,7 +12,7 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact: preincubation@beta.gouv.fr
+contact: incubateur@anct.gouv.fr
 ---
 
 ## Problème visé :
