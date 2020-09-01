@@ -2,7 +2,7 @@
 title: Plateforme numérique du R.S.A
 mission: Réduire le délai moyen pour initier l’accompagnement des bénéficiaires du R.S.A
 owner: Département du Var
-incubator: dinum 
+incubator: anct
 phases:
     - name: investigation
       start: 2019-02-04
@@ -12,7 +12,7 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact: preincubation@beta.gouv.fr
+contact: incubateur@anct.gouv.fr
 ---
 
 ## Problème visé :
