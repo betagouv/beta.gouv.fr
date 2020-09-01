@@ -5,7 +5,7 @@ github: juliette-pal
 missions: 
   - start: 2020-09-01 
     end: 2021-05-01 
-    status: Independante
+    status: Independent
     employer: lazone/scopyleft
 startups: 
     - cartobio
