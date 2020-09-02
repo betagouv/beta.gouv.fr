@@ -10,7 +10,7 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact: valerie.merle@agriculture.gouv.fr
+contact: contact@egalim.beta.gouv.fr
 ---
 
 ## Une alimentation durabl et saine en restauration collective
