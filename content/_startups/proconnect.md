@@ -27,7 +27,7 @@ L'authentification des personnes morales (entreprises, associations, administrat
 Une première brique logicielle est en cours de finalisation, permettant de répondre au premier point, en vérifiant que l'individu est un représentant légal de la structure.
 L'investigation a pour but de connaître les problèmes tels que perçus par les entreprises, et d'en déduire la suite à donner à cette première brique logicielle.
 
-### Les apprentissages et problèmes issus des entretiens
+### Les apprentissages issus des entretiens
 
 - 76% des professionnels interrogés utilisent des comptes partagés entre plusieurs personnes (collaborateurs ou expert comptable) pour accéder aux portails publics. 
 C'est-à-dire qu'ils utilisent un même identifiant et mot de passe. Différents moyens sont utilisés pour enregistrer et partager ces comptes partagés : document partagé en ligne, calepin, enregistrement dans le navigateur...
@@ -41,10 +41,15 @@ Par ailleurs, le délai de création de ces comptes n'est pas nécessairement pr
 **D'une manière générale, les modalités d’identification et d’accès aux téléprocédures ne présentent pas un enjeu majeur pour les entreprises.**
 Quel que soit le problème évoqué en entretien, une solution de contournement a toujours été mise en place. 28% des personnes affirment même n'avoir aucun problème dans la gestion de leur(s) accès aux portails publics.
 
-**Les deux problèmes suivants ont été les plus fréquemment remontés**, bien qu'avec une gravité souvent modérée :
-- Difficulté à mémoriser les identifiants ;
-- Pénibilité de la gestion des comptes individuels quand ils sont utilisés dans l'entreprise, et notamment leur résiliation (lors d'un départ d'un collaborateur par exemple). 
+### Les problèmes issus des entretiens
+
+#### Les deux problèmes suivants ont été les plus fréquemment remontés, bien qu'avec une gravité parfois modérée :
+- Difficile de mémoriser les identifiants ;
+- Pénible de gérer des comptes individuels (quand utilisés), et notamment de les résilier (lors d'un départ d'un collaborateur par exemple). 
 Ce point est alourdi par le nombre de portails potentiellement concernés, et l'impossibilité à l'heure actuelle d'avoir une vision de tous les comptes existants sur l'ensemble des portails publics.
+
+#### Autres problèmes remontés
+*A venir*
 
 
 ## Hypothèses de solution 
