@@ -64,8 +64,6 @@ Statut : Freelance
 
 Modalités de travail : 4 jours par semaine, télétravail possible en majeure partie, besoin de présence ponctuelle à La Défense (test utilisateur, démonstration, rétrospective et planification)
 
-Processus de recrutement : premiers entretiens courant du mois d'août, entretien final au 31/08 (disponibilité souhaitée). Idéalement fin de processus première semaine de septembre pour commencer la mission directement en début de mois.
+**Date de début — Octobre 2020**
 
-**Date de début — Septembre 2020**
-
-**Envoyer une candidature** : contact@potentiel.beta.gouv.fr avec en copie tristan.robert@beta.gouv.fr 
+**Envoyer une candidature (en précisant votre TJM)** : contact@potentiel.beta.gouv.fr avec en copie tristan.robert@beta.gouv.fr
