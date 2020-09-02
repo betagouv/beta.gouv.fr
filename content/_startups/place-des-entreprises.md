@@ -1,7 +1,7 @@
 ---
 title: Place des Entreprises
 mission: 'TPE & PME, vous avez un projet, une difficulté, une question du quotidien ? Service public simple et rapide : vous êtes rappelé par LE conseiller qui peut vous aider.'
-owner: Ministère de l'économie, des finances et de la relance - direction générale des entreprises (DGE) - Ministère du Travail (DGEFP)
+owner: Ministère de l'économie, des finances et de la relance - Direction générale des entreprises (DGE) / Ministère du Travail (DGEFP)
 incubator: dinum
 phases:
   - name: investigation
