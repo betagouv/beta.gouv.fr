@@ -11,7 +11,7 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact: 
+contact: contact@beta.gouv.fr
 ---
 
 ## Problème investigué
