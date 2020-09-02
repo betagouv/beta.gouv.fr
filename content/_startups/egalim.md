@@ -2,6 +2,7 @@
 title: Egalim
 mission: Accompagner au mieux les acteurs de la restauration collective dans leur offre aux consommateurs pour alimentation durable et saine 
 owner: direction générale de l'alimentation (DGAL)
+incubator: dinum
 phases:
     - name: investigation
       start: 2020-09-01
