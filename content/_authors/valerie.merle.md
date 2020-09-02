@@ -5,7 +5,7 @@ avatar:
 missions:
   - start: 2020-09-01
     end: 2020-11-01
-    status: service
+    status: admin
 startups:
     - egalim
 ---
