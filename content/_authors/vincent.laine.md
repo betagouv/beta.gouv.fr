@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Codeurs en Liberté
   - start: 2019-03-01
-    end: 2020-09-01
+    end: 2020-11-30
     status: independent
     employer: OCTO
 startups:
