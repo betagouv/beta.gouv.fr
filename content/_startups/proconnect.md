@@ -38,6 +38,8 @@ C'est-à-dire qu'ils utilisent un même identifiant et mot de passe. Différents
 Une hypothèse pour expliquer le faible recours aux comptes individuels est que les entreprises manquent de visibilité sur les modalités de création de nouveaux comptes (voire ne savent pas que c'est possible). 
 Par ailleurs, le délai de création de ces comptes n'est pas nécessairement précisé alors que les démarches que ces entreprises viennent réaliser en ligne sont en délais contraints.
 
+Certains gestionnaires d'entreprises ou gestionnaires d'accès expriment une volonté d'avoir de la visibilité sur les actions réalisées en ligne par leurs collaborateurs. Dans ce cas, le fait d'utiliser des comptes partagés est jugé problématique. D'autres n'expriment pas ce besoin de contrôle et sont tout à fait satisfaits du partage de compte. Cette volonté ou absence de contrôle n'est pas corrélée à la taille de l'entreprise, elle semble ne dépendre que de la personne ou de la politique interne de chaque organisation.
+
 **D'une manière générale, les modalités d’identification et d’accès aux téléprocédures ne présentent pas un enjeu majeur pour les entreprises.**
 Quel que soit le problème évoqué en entretien, une solution de contournement a toujours été mise en place. 28% des personnes affirment même n'avoir aucun problème dans la gestion de leur(s) accès aux portails publics.
 
