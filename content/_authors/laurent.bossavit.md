@@ -3,7 +3,7 @@ fullname: Laurent Bossavit
 role: Coach
 missions:
   - start: 2016-03-01
-    end: 2021-04-02
+    end: 2021-04-05
     status: admin
     employer: dinum
 startups:
