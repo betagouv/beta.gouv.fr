@@ -7,6 +7,7 @@ group :jekyll_plugins do
 end
 
 group :test do
+  gem 'minitest'
   gem 'html-proofer'
   gem 'jsonlint'
   gem 'rake'
