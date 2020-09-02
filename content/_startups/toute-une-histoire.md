@@ -6,6 +6,9 @@ incubator: anct
 phases:
   - name: investigation
     start: 2020-01-14
+    end: 2020-07-13
+  - name: alumni
+    start: 2020-07-13
 link:
 repository: 
 stats: false 
@@ -29,3 +32,9 @@ Une application en ligne  de création d’albums photos “collaboratifs” . U
 
 ## Territoire d'expérimentation : 
 Département de la Somme
+
+## Équipe
+- Cordiez Virginie
+- Derambure Michéle
+- Mylène Polleux
+
