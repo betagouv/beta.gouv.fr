@@ -10,5 +10,4 @@ missions:
 startups:
   - aplus
 ---
- 
-Recherche, prototype & design d'interface utilisateur
+Recherche, prototype & design d'interface utilisateur // Designers transverses
