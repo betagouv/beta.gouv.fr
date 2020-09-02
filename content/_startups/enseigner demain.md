@@ -1,5 +1,5 @@
 ---
-title: E-inspe
+title: Enseigner demain
 mission: Améliorer la formation des enseignants
 owner: Reseau Canopé
 incubator: dinum
