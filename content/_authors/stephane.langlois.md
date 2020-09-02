@@ -10,9 +10,6 @@ missions:
     employer: lazone/scopyleft
 github: pntbr
 startups:
-    - ecosante
-    - cartobio
-    - classes12
 ---
 faire des trucs utiles avec des personnes enthousiastes en étant attentif sur le consentement - 🐾
 ·|
