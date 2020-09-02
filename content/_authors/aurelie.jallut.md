@@ -9,7 +9,6 @@ missions:
     status: independent
 startups:
   - aplus
-  - Designer transverse
 ---
  
 Recherche, prototype & design d'interface utilisateur
