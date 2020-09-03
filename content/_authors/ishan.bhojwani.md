@@ -21,4 +21,8 @@ startups:
     - ecolab
     - lotocar
     - auvol
+    - egalim
+    - ecosante
+    - friches
+    - cartobio
 ---
