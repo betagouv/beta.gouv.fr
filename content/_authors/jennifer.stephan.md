@@ -10,4 +10,8 @@ missions:
 startups:
     - ecolab
     - poubelles-battle
+    - egalim
+    -protege-toit
+previously: 
+    - pop
 ---
