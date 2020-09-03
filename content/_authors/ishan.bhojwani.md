@@ -1,6 +1,6 @@
 ---
 fullname: Ishan Bhojwani
-role: Coach
+role: Co-animateur de beta.gouv.fr
 missions:
   - start: 2017-05-23
     end: 2017-08-31
