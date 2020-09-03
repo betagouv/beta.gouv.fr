@@ -1,6 +1,6 @@
 ---
 title: Friches - UrbanVitaliz
-mission: Faciliter la réhabilitation des friches
+mission: Faciliter la réhabilitation des friches urbaines
 owner: CEREMA
 incubator: dinum
 phases:
