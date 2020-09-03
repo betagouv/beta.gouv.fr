@@ -11,7 +11,7 @@ startups:
     - ecolab
     - poubelles-battle
     - egalim
-    -protege-toit
-previously: 
+    - protege-toit
+previously:
     - pop
 ---
