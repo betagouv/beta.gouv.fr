@@ -19,7 +19,7 @@ D’une part nous collectons des données d’accessibilité - selon un format p
 
 Afin d’apporter un réel service au public handicapé, l’exhaustivité et la fiabilité des données constituent deux impératifs. C’est pourquoi nous privilégions, dans un premier temps, une stratégie de déploiement territoriale, pour assurer la qualité des données recueillies.
 
-Pour y parvenir, il nous semble nécessaire de travailler en collaboration avec des trois types d’acteur&nbsp;: des territoires investis sur les questions d’accessibilité, convaincus par la pertinence d’un tel outil autant pour la mise en valeur des ERP présents sur leurs périmètres que pour les habitants&nbsp;; les acteurs proposant des solutions de description d’accessibilité et enfin les grandes plateformes du web (moteur de recherche, itinéraire, réservation, événementiel, etc…).
+Pour y parvenir, il nous semble nécessaire de travailler en collaboration avec trois types d’acteur&nbsp;: des territoires investis sur les questions d’accessibilité, convaincus par la pertinence d’un tel outil autant pour la mise en valeur des ERP présents sur leurs périmètres que pour les habitants&nbsp;; les acteurs proposant des solutions de description d’accessibilité et enfin les grandes plateformes du web (moteur de recherche, itinéraire, réservation, événementiel, etc…).
 
 ## Missions
 
@@ -61,4 +61,4 @@ Démarrage courant septembre 2020.
 
 ## Comment postuler ?
 
-Envoyez-nous votre candidature et votre CV à l'adresse [acceslibre@beta.gouv.fr](mailto:acceslibre@beta.gouv.fr?Subject=%5BCandidature%5D%20Poste%20de%20designer%20UX-UI%20Acceslibre). Vous pouvez également nous y contacter pour poser vos questions préliminaires.
+Envoyez-nous votre **candidature**, votre **CV** ainsi que **votre portfolio** à l'adresse [acceslibre@beta.gouv.fr](mailto:acceslibre@beta.gouv.fr?Subject=%5BCandidature%5D%20Poste%20de%20designer%20UX-UI%20Acceslibre). Vous pouvez également nous y contacter pour poser vos questions préliminaires.
