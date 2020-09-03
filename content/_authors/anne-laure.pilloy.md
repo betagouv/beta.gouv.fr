@@ -1,6 +1,7 @@
 ---
 fullname: Anne-laure Pilloy
 role: Proxy product owner
+github: ledugong
 missions:
   - status: service
     employer: Fabrique des ministères sociaux
