@@ -1,6 +1,6 @@
 ---
 fullname: Anne-laure Pilloy
-role: Proxy Product owner
+role: Proxy product owner
 missions:
   - status: service
     employer: Lab Mass
