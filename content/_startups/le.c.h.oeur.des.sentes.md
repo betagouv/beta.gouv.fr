@@ -15,8 +15,6 @@ phases:
 
 Le quartier des Sentes dans la ville des Lilas est un quartier difficile dans lequel vivent de nombreux usagers en situation d'exclusion sociale, en situation de difficulté sociale et personnelle, en grande précarité, ou en désintégration. 
 
-
-
 **Constats et apprentissages**
 
 Suite aux entretiens et rencontres avec les personnes en situation de rupture et désintégration sociale, nous avons constaté de leur part :
@@ -24,15 +22,11 @@ Suite aux entretiens et rencontres avec les personnes en situation de rupture et
 * Incapacité de projection dans l’avenir ;
 * Sentiment et situation de blocage des personnes malgré un niveau de formation pour certains ;
 * Impossibilité à rêver leur vie/écouter ce qui les anime au plus profond d’eux-mêmes ;
-* Demande et attentes : aide, rencontres, conseils, compréhension, accompagnement car
-
-  manque de confiance en soi, assistance ;
-* Inégalité des chances pour l’accès à l’emploi (portes bloquées ; réseau professionnel limité
-
-  voire inexistant). 
+* Demande et attentes : aide, rencontres, conseils, compréhension, accompagnement car manque de confiance en soi, assistance ;
+* Inégalité des chances pour l’accès à l’emploi (portes bloquées ; réseau professionnel limité voire inexistant). 
 
 **Solution expérimentée** 
 
-Création d’un programme de mentorat local avec pour objectif de mettre sur pied une équipe de mentorat dont le rôle, le contrat, consiste auprès des personnes ciblées, à réactiver une capacité d’agir, à rendre aux personnes une citoyenneté active grâce à une relation interpersonnelle qui permettra au mentoré d’être soutenu dans son développement personnel, professionnel mais aussi dans le développement de ses compétences.
+Création d’un programme de mentorat local avec pour objectif de mettre sur pied une équipe de mentorat dont le rôle, le contrat, consiste auprès des personnes ciblées, à réactiver une capacité d’agir, à rendre aux personnes une citoyenneté active grâce à une relation interpersonnelle qui permettra aux mentoré·e·s d’être soutenu·e·s dans leur développement personnel et professionnel, mais aussi dans le développement de leurs compétences.
 
 Le sujet est toujours en cours d'expérimentation dans la ville des Lilas.
