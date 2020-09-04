@@ -60,6 +60,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     mini_portile2 (2.4.0)
+    minitest (5.14.1)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     nokogumbo (2.0.2)
@@ -100,6 +101,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jsonlint
   kwalify
+  minitest
   opengraph_parser
   rake
   tzinfo-data

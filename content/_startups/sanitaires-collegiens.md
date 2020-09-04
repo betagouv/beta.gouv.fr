@@ -6,6 +6,9 @@ incubator: anct
 phases:
   - name: investigation
     start: 2020-01-14
+    end: 2020-07-13
+  - name: alumni
+    start: 2020-07-13
 link:
 repository: 
 stats: false 
@@ -43,3 +46,6 @@ Le moment pendant lequel ils sont le plus utilisés est la pause méridienne. Or
 
 ## Territoire d'expérimentation : 
 Département du Val d'Oise
+
+## Equipe
+Juliette Pressé
