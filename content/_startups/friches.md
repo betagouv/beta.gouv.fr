@@ -1,12 +1,14 @@
 ---
-title: Friches
-mission: Faciliter la réhabilitation des friches
+title: Friches - UrbanVitaliz
+mission: Faciliter la réhabilitation des friches urbaines
 owner: CEREMA
 incubator: dinum
 phases:
   - name: investigation
     start: 2020-02-12
-  - name: investigation
+    end: 2020-05-19
+  - name: construction
+    start: 2020-09-14
 link:
 repository: 
 stats: false 
@@ -35,12 +37,14 @@ Les élu·e·s et technicien·ne·s sont notamment freiné·e·s par :
 - la difficulté à acquérir le bien concerné,
 - la difficulté à équilibrer l'équation : coûts de remise en état - prix de revente ; équation qui est souvent insoluble sans apport d'argent public.
 
-## La solution : à définir
-En cours d'investigation
+### Le problème que l'on adresse :  les collectivités et porteurs de projet en zones détendues sont souvent démunis face à la complexité des démarches à mener, la diversité des outils et acteurs à contacter pour enclencher la revitalisation d'une friche.
+Impact notable : certaines collectivités renoncent à débloquer les gisements foncier en friche, ou perdent beaucoup de temps et d'argent à défaut de maîtriser les processus.
 
-## Calendrier de l'investigation
+### La solution : UrbanVitaliz
+Un outil numérique facilitateur, qui accompagne/guide dans leurs démarches les porteurs de projets et collectivités en zones détendues. L'objectif sera dans un premier temps d'appuyer trois étapes-clé pour initier des projets de revitalisation des friches urbaines :
+- le pré-renseignement d'un site identifié
+- les acteurs et outils ressource pour lancer de premières études et diagnostics de site
+- la recherche de financements
+La startup d'Etat est lancée en septembre 2020 pour démarrer le développement itératif et l'alimentation de l'outil, en lien avec les organismes ressource et les territoires testeurs : EPF, agences publiques, collectivités, etc.
 
-L'investigation conjointe CEREMA/beta.gouv.fr a commencé le 12 février 2020 pour une durée de 9 semaines.
-Elle doit donc en théorie s'achever fin avril 2020 - calendrier à confirmer selon évolution de la crise sanitaire du printemps 2020.
-
-Un comité de financement clôturera cette phase, où seront présentés les apprentissages de l'investigation, et la ou les solutions pressenties. Le comité se prononcera sur la suite de la démarche : poursuite du déploiement au sein du programme beta.gouv.fr, dans un autre cadre, ou bien arrêt de la démarche.
+Contact : friches@beta.gouv.fr
