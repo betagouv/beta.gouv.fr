@@ -67,7 +67,7 @@ Nous avons mis en place une formation test auprès de 3 personnes. L’atelier s
 au Club des Hortensias. Malgré une appréhension pour 2 d’entre elles à venir à cet atelier, les 3 personnes
 sont reparties satisfaites avec l’envie de poursuivre l’initiation. Nous en retenons que les demandes des
 personnes sont basiques, qu’il faut rendre ces formations accessibles et s’adapter aux personnes
-présentes pour qu’elle se sentent à l’aise d’y participer.
+présentes pour qu’elles se sentent à l’aise d’y participer.
 Par la suite, 5 autres personnes ayant eu connaissance de la tenue d’un premier atelier ont manifesté leur
 intérêt pour y participer à leur tour, ce qui souligne le besoin de développer cette offre et de la rendre
 accessible, de par l'intitulé et le lieu choisi.
