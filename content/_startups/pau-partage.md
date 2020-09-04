@@ -2,7 +2,7 @@
 title: Pau Partage
 mission: Lutter contre l'isolement des personnes âgées en favorisant la rencontre avec des bénévoles
 owner: Agglomération de Pau Béarn Pyrénées
-incubator: dinsic 
+incubator: anct
 phases:
   - name: investigation
     start: 2019-02-04
