@@ -49,7 +49,7 @@ Voici les besoins que nous avons identifié :
 
 * Besoin de se former, de mieux maîtriser Internet et l’ordinateur pour gagner en autonomie ;
 * Besoin d’avoir une présence humaine pour être rassuré.e ;
-* Besoin d’avoir quelqu’un qui réalise la démarche pour la personne ;
+* Besoin d’avoir quelqu’un.e qui réalise la démarche pour la personne ;
 * Besoin d’un lieu pour se connecter et gérer les démarches.
 
 
