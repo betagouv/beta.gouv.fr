@@ -26,4 +26,4 @@ Cette initiative est pilotée en autonomie par la région Bretagne et le TiKub.
 
 ## Suite donnée au projet : 
 En conclusion, les échanges avec des agents de la DEFTLV et de Pôle Emploi, co-porteur du projet Simpliformation au Ti Lab, ont permis de faire le point final sur cette pré-incubation, et d’acter que le projet n’était pas assez mature, ni prioritaire, compte-tenu de développement en cours sur d’autres outils, mais aussi de l’importante charge de travail des équipes.
-Nous avons donc décidé de mettre ce projet en pause, et de le sortir de l’incubation proposée par BétaGouv et le Ti Kub. Les résultats de la pré-incubation pourront être réinvestis sur des projets existant, ou bien à l’occasion d’un autre développement ultérieur, lorsque nous y verrons plus clair.
+Nous avons donc décidé de mettre ce projet en pause, et de le sortir de l’incubation proposée par BetaGouv et le Ti Kub. Les résultats de la pré-incubation pourront être réinvestis sur des projets existant, ou bien à l’occasion d’un autre développement ultérieur, lorsque nous y verrons plus clair.
