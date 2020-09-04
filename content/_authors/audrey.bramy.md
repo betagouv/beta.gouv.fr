@@ -7,9 +7,7 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     end: 2021-03-01
     status: independent
     employer: scopyleft
-startups: # ta ou tes startups actuelles
-    - cartobio
-    - ecosante
+startups:
 ---
 
 Ingénieure Informatique de formation, je me dirige vers le rôle de Product Owner au sein de Beta Gouv.

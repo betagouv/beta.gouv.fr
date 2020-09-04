@@ -8,8 +8,6 @@ missions:
     employer: lazone/scopyleft
 github: edacook
 startups:
-    - ecosante
-    - cartobio
 ---
 faire des trucs utiles avec des personnes enthousiastes en étant attentif sur le consentement - 🐾
 

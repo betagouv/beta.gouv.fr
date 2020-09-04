@@ -5,12 +5,13 @@ module Jekyll
       current = []
       past = []
       people.each do |person|
-        if person.data['missions']&.last and
-          person.data['missions']&.last['end'] and
-          person.data['missions']&.last['end'] > now
-          current << person
-        else
+        missions = person.data['missions']
+        if missions&.last and # they had at least one
+          missions&.last['end'] and # and it had an end date
+          missions&.last['end'] <= now # and the date is in the past
           past << person
+        else
+          current << person
         end
       end
 

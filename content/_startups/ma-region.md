@@ -2,7 +2,7 @@
 title: Ma Région
 mission: Augmenter la connaissance et le taux de recours aux aides régionales
 owner: Région Hauts-de-France
-incubator: dinsic 
+incubator: anct 
 phases:
   - name: investigation
     start: 2020-04-01
