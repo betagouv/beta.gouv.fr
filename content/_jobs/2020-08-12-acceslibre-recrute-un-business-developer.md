@@ -1,7 +1,7 @@
 ---
 roles: un·e chargé·e de déploiement
 startup: acceslibre
-open: true
+open: false
 title: Acceslibre recrute un·e business developer
 ---
 
@@ -68,3 +68,7 @@ Idéalement vous avez de l’expérience dans un, plusieurs ou tous les domaines
 ## Comment postuler ?
 
 Envoyez-nous votre candidature et votre CV à l'adresse [acceslibre@beta.gouv.fr](mailto:acceslibre@beta.gouv.fr?Subject=%5BCandidature%5D%20Poste%20de%20business%20developer%20Acceslibre). Vous pouvez également nous y contacter pour poser vos questions préliminaires.
+
+## Mise à jour du 7 septembre 2020
+
+Le poste est désormais pourvu.
