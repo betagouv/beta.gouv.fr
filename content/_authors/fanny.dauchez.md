@@ -1,6 +1,6 @@
 ---
 fullname: Fanny Dauchez
-role: Chargée de développement
+role: Chargée de déploiement
 missions:
   - start: 2020-09-01
     end: 2020-12-31
