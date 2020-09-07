@@ -33,7 +33,7 @@ Impacts pour la collectivité :
 ## Hypothèses de solution : 
 Déployer un serveur vocal ainsi qu'un outil de prise de rendez-vous sur internet :
 - orientation des appels vers les secrétariats par une messagerie vocale à choix multiples (pour les services les plus demandés : ASPI, ASE et Pôle Accueil) ;
-- orientaion et prise de rendez-vous via le déploiement des services GPS usagers et RDV Solidarités.
+- orientation et prise de rendez-vous via le déploiement des services GPS usagers et RDV Solidarités.
 
 ## Territoire d'expérimentation : 
 Cette initiative est pilotée en autonomie par le département du Var.
