@@ -16,7 +16,7 @@ contact: incubateur@anct.gouv.fr
 ---
 
 ## Problème visé :
-En moyenne, 70% des appels entrants sur l’Unités Territoriales de Solidarité de La Seyne sont perdus !
+En moyenne, 70% des appels entrants sur l’Unité Territoriales de Solidarité de La Seyne sont perdus !
 
 59% des personnes appellent plus de 5 fois avant d’avoir un interlocuteur.
 42% des personnes qui n’arrivent pas à joindre les services sont dans l’obligation de se déplacer sur site.
