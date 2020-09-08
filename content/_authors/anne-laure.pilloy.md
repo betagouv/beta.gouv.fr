@@ -1,6 +1,6 @@
 ---
 fullname: Anne-laure Pilloy
-role: Proxy product owner
+role: Product owner
 github: ledugong
 missions:
   - status: service
@@ -9,4 +9,5 @@ missions:
     end: 2020-12-31
 startups:
   - domifa
+  - egapro
 ---
