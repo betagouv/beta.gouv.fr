@@ -8,11 +8,11 @@ missions:
     status: independent
     employer: octo
   - start: 2019-12-06
-    end: 2019-12-31
+    end: 2020-12-31
     status: independent
     employer: octo
 startups:
     - demarches-simplifiees.fr
 ---
 
-Dev Rails sur demarches-simplifiees.fr. Plutot bêta, il en déduit qu'il est au bon endroit…
+Tech sur demarches-simplifiees.fr.
