@@ -2,7 +2,7 @@
 title: Coûts simplifiés
 mission: Simplifier la gestion des aides européennes par les entreprises
 owner: Région Hauts-de-France
-incubator: dinsic 
+incubator: anct 
 phases:
   - name: investigation
     start: 2020-04-01
