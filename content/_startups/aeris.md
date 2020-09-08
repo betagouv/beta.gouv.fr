@@ -48,7 +48,7 @@ L’automatisation du travail d’analyse des données d’autosurveillance perm
 
 ## Stratégie de mise sur le marché
 
-Les premières cibles du service sont les exploitants d'incinérateurs de déchets (127 installations en fonctionnement<sup>[1](#note1)</sup>) et les inspecteurs qui suivent ces sites.
+Les premières cibles du service sont les exploitants d'incinérateurs de déchets (127 installations en fonctionnement<sup>[Source Ademe](http://www.ademe.fr/expertises/dechets/passer-a-laction/valorisation-energetique/dossier/lincineration/lessentiel-lincineration)</sup>) et les inspecteurs qui suivent ces sites.
 Ces installations présentent de forts enjeux de surveillance des rejets atmosphériques, par exemple sur la quantité de dioxines émise dans l’air.
 Ces installations sont inspectées au moins une fois par an, et chaque inspection nécessite plusieurs jours de travail de préparation en amont.
 
@@ -61,7 +61,3 @@ Par la suite, le service pourrait être étendu aux incinérateurs de déchets d
 Suite au départ de l'intrapreneur après une mutation professionnelle, le projet Aeris n'a pas trouvé de repreneur.
 
 Le service s'adressant à des professionnels et les données collectées n'étant actuellement pas publiques, le service a été fermé et les données ne sont pas publiées. Le travail réalisé a été [documenté](https://github.com/MTES-MCT/aeris/tree/master/documentation), et le [code est ouvert](https://github.com/mtes-mct/aeris), dans la perspective de moderniser à l’avenir d’éventuels outils similaires.
-
-### Références
-
-<a name="note1">1</a> : Source [Ademe](http://www.ademe.fr/expertises/dechets/passer-a-laction/valorisation-energetique/dossier/lincineration/lessentiel-lincineration)
