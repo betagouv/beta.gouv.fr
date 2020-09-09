@@ -11,7 +11,7 @@ missions:
     employer: Lab-MI
 startups: 
     - psij
-previously: Candilib
+previously: 
     - candilib
 ---
 
