@@ -9,7 +9,7 @@ missions:
     end: 2032-01-01
     status: admin
     employer: Lab-MI
-startups: PSIJ
+startups: 
     - psij
 previously: Candilib
     - candilib
