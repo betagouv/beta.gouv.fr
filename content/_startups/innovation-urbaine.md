@@ -24,11 +24,11 @@ L'investigation en cours permettra de choisir l'un de ces champs en fonction not
 
 ## Premières hypothèses de problème
 
-L'investigation nous permettra également de confimer, infirmer, préciser et/ou contextualiser les hypothèses suivantes :
+L'investigation nous permettra également de confimer, infirmer, préciser ou contextualiser les hypothèses suivantes :
 
 En tant que collectivité…
-- j’ai des impératifs qui sont difficilement compatibles avec ces enjeux résilience /sobriété /inclusion (ou qui sont prioritaires dessus)
-- je ne sais pas sur quels leviers agir pour améliorer la résilience /sobriété /inclusion de mon territoire
-- c’est complexe de mettre en place des projets qui améliorent la résilience /sobriété /inclusion (cahier des charges, marchés, financements, choix des prestataires…)
+- j’ai des impératifs qui sont difficilement compatibles avec ces enjeux résilience, sobriété et inclusion (ou qui sont prioritaires dessus)
+- je ne sais pas sur quels leviers agir pour améliorer la résilience, sobriété et inclusion de mon territoire
+- c’est complexe de mettre en place des projets qui améliorent la résilience, sobriété et inclusion (cahier des charges, marchés, financements, choix des prestataires…)
 
 
