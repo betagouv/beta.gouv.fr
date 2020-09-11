@@ -6,8 +6,8 @@ avatar:
 link: https://www.ssi.gouv.fr/
 missions: 
   - start: 2020-09-08
-    end: 20121-03-08
-    status:
+    end: 2021-03-08
+    status: admin
     employer: ANSSI
 startups: 
 previously:
