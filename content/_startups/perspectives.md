@@ -8,7 +8,7 @@ phases:
     start: 2018-05-02
   - name: construction
     start: 2018-05-02
-  - name: transfer
+  - name: alumni
 link: https://perspectives.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/perspectives
 stats: false

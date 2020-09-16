@@ -38,6 +38,7 @@ Les élu·e·s et technicien·ne·s sont notamment freiné·e·s par :
 - la difficulté à équilibrer l'équation : coûts de remise en état - prix de revente ; équation qui est souvent insoluble sans apport d'argent public.
 
 ### Le problème que l'on adresse :  les collectivités et porteurs de projet en zones détendues sont souvent démunis face à la complexité des démarches à mener, la diversité des outils et acteurs à contacter pour enclencher la revitalisation d'une friche.
+
 Impact notable : certaines collectivités renoncent à débloquer les gisements foncier en friche, ou perdent beaucoup de temps et d'argent à défaut de maîtriser les processus.
 
 ### La solution : UrbanVitaliz
@@ -45,6 +46,7 @@ Un outil numérique facilitateur, qui accompagne/guide dans leurs démarches les
 - le pré-renseignement d'un site identifié
 - les acteurs et outils ressource pour lancer de premières études et diagnostics de site
 - la recherche de financements
+
 La startup d'Etat est lancée en septembre 2020 pour démarrer le développement itératif et l'alimentation de l'outil, en lien avec les organismes ressource et les territoires testeurs : EPF, agences publiques, collectivités, etc.
 
 Contact : friches@beta.gouv.fr
