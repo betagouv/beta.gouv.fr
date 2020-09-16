@@ -9,6 +9,6 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
   - start: 2020-09-16 # date d'arrivée au format ISO (AAAA-MM-JJ)
     end: 2020-12-31
     status: independent
-    employer: independent# si applicable, le nom de ton administration, SSII, etc.
+    employer: Numa# si applicable, le nom de ton administration, SSII, etc.
 ---
 Accompagnement au déploiement pour les produits de Gamma
