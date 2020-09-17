@@ -9,7 +9,7 @@ phases:
   - name: construction
     start: 2019-03-01 
 link: https://ecolab.ademe.fr/
-repository:
+repository: https://github.com/betagouv/Ecolab
 stats: true
 contact: contact@ecolab.beta.gouv.fr
 ---
