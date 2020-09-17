@@ -7,6 +7,6 @@ missions:
     end: 2021-02-17
     status: independent
     employer: Scopyleft
-startup:
+startups:
   - aides-territoires
 ---
