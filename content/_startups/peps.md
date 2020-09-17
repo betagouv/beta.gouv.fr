@@ -8,10 +8,10 @@ phases:
     start: 2019-05-13 
   - name: construction
     start: 2019-09-01 
-link: 
+link: https://www.peps.beta.gouv.fr/
 repository: https://github.com/betagouv/peps
-stats: false 
-stats_url: 
+stats: true 
+stats_url: https://peps-metabase.cleverapps.io/public/dashboard/00536261-3e78-4d92-aa9b-a5996c5bf8fb
 contact: peps@beta.gouv.fr
 ---
 ## Le constat
