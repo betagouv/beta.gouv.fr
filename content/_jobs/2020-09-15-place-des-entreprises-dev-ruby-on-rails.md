@@ -31,7 +31,7 @@ Gérer les développements quotidiens de la plateforme, côté frontend et backe
 
 Assurer la disponibilité technique du site, en veillant à des sujets aussi variés que **l’hébergement, le déploiement, l’administration du serveur ou la sécurité**.
 
-*Pour plus de détail sur la stack et technologies utilisées, [consultez le code du produit](httpshttps://github.com/betagouv/place-des-entreprises).*
+*Pour plus de détail sur la stack et technologies utilisées, [consultez le code du produit](https://github.com/betagouv/place-des-entreprises).*
 
 ## ✨ Ton profil
 
