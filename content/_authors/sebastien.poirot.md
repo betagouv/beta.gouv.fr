@@ -4,7 +4,7 @@ role: Intrapreneur
 github: sebpoirotPE
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
   - start: 2020-09-07 # date d'arrivée au format ISO (AAAA-MM-JJ)
-    end: 20XX-XX-XX # date de fin de contrat au format ISO (AAAA-MM-JJ)
+    end: 2021-06-15 # date de fin de contrat au format ISO (AAAA-MM-JJ)
     status: admin
     employer: Pôle Emploi
 ---
