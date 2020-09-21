@@ -17,6 +17,8 @@ DossierFacile est une plateforme en ligne conçue pour aider gratuitement les ca
 Incubée au sein de la Fabrique Numérique des ministères de la Transition écologique et de la Cohésion des territoires (membre de beta.gouv), la startup a connu une forte croissance au point de passer de 10 000 dossiers créés entre juillet et décembre 2018 à plus de 100 000 dossiers 18 mois plus tard. 
 Le produit est disponible à : https://dossierfacile.fr/
 
+DossierFacile est développé en JAVA Spring Boot et Thymeleaf. Nous souhaitons migrer cette architecture vers un backend API JAVA + un frontend Angular ou ReactJS.
+
 # Le poste proposé
 _Poste ouvert le 21/09/2020_
 DossierFacile travaille depuis 2 ans et demi avec un développeur full-stack. Afin d’accompagner sa croissance l’équipe souhaite intégrer un‧e nouveau‧elle développeur‧se full-stack avec une expérience avancée en front-end. En plus de pouvoir soutenir ponctuellement les développements backend et devops du développeur actuel, il lui sera surtout demandé d’améliorer l’interface utilisateur (GUI) pour crédibiliser l’image et asseoir la croissance de DossierFacile.
