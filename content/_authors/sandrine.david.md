@@ -6,6 +6,4 @@ missions:
    end: 2020-03-31
    status: service
    employer: Pôle emploi
-startups: 
- - Pôle emploi action
 ---
