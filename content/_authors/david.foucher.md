@@ -13,4 +13,4 @@ previously:
     - la-bonne-formation
 ---
 
-Passioné par les technologies respectueuses de la biosphère.
+Passionné par les technologies respectueuses de la biosphère.
