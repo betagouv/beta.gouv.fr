@@ -1,6 +1,6 @@
 ---
 fullname: Frédéric Bardolle
-role: Chef de la Fabrique numérique
+role: Ancien chef de la Fabrique numérique
 link: https://f14e.fr/
 missions:
   - start: 2018-09-01
@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: minarm
 github: seiteta
-startups:
+previously:
     - e-chauffeur
     - civils-de-la-defense
 ---
