@@ -18,8 +18,9 @@ La DGCCRF, autorité de contrôle, agit en faveur :
 - de la protection économique des consommateurs ;
 - de la sécurité et de la conformité des produits et des services.
 
-En vue d’améliorer l’efficience son action, il est nécessaire de mieux prendre en compte les retours des consommateurs pour programmer les contrôles. L’objectif de SignalConso est de donner la parole aux consommateurs, en leur permettant de signaler des anomalies à la consommation, sans formalisme lourd, via un service ouvert sur internet. Ces signalements sont communiqués à la DGCCRF et aux professionnels concernés, qui peuvent ainsi ouvrir un dialogue et/ou adresser l'anomalie directement.  
-L'objectif est ainsi de faire baisser significativement les problématiques rencontrées par les consommateurs en responsabilisant les professionnels et en améliorant le ciblage des enquêteurs. 
+En vue d’améliorer l’efficience son action, il est nécessaire de mieux prendre en compte les retours des consommateurs pour programmer les contrôles. 
+L’objectif de SignalConso est de donner la parole aux consommateurs, en leur permettant de signaler des problèmes liés à la consommation (ex: hygiène dans un magasin, garantie non respectée, arnaque..) sans formalisme lourd, via un service ouvert sur internet. Ces signalements sont communiqués à la DGCCRF et aux professionnels concernés, qui peuvent ainsi corriger l’anomalie directement.
+Le but est ainsi de faire baisser significativement les problématiques rencontrées par les consommateurs en responsabilisant les professionnels et en améliorant le ciblage des enquêteurs.
 
 Cette Startup d’État a démarré en juin 2018. D’abord en expérimentation dans 3 régions, le site a été déployé sur l’ensemble du territoire en février 2020.
 
@@ -41,14 +42,15 @@ Support auprès des utilisateurs :
 Communication autour du projet :
 -	 Suivre et analyser les métriques du produit (taux de transformation, indicateurs d’impact...) ;
 -	 Initier notre démarche d'acquisition de nouveaux utilisateurs (growth hacking, référencement naturel...) ;
--	 Présenter SignalConso lors d’évènements extérieurs ;
+-	 Présenter et incarner SignalConso lors d’évènements extérieurs ;
+-    Animer les réseaux sociaux de SignalConso.
 
 Évolution du produit :
--	 Rencontrer de futurs partenaires afin d’étudier les passerelles entre SignalConso et d’autres sites internet ;
--  Faire grandir le produit en étant force de propositions, au regard des contacts pris quotidiennement pendant vos missions. 
+-	Rencontrer de futurs partenaires afin d’étudier les passerelles entre SignalConso et d’autres sites internet ;
+-   Faire grandir le produit en étant force de propositions, au regard des contacts pris quotidiennement pendant vos missions. 
 
 ## Compétences
--   Vous êtes animé(e) par la volonté d’améliorer le service public ;
+-   Vous êtes animé(e) par la volonté d’améliorer le service public et la défense des droits des consommateurs vous tient à coeur ;
 -   Vous aimez travailler de manière agile (méthodologie Lean Startup) ;
 -   Vous faites preuve d’initiative et vous n'avez pas peur de décrocher votre téléphone ;
 -   Vous placez l’usager au centre de vos préoccupations ;
