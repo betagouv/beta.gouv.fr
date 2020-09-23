@@ -7,7 +7,8 @@ missions:
   - start: 2018-11-09
     end: 2021-01-01
     status: independent
-    employer: Numa
+    employer: Octo
 startups :
   - e-controle
+  - aides territoires
 ---
