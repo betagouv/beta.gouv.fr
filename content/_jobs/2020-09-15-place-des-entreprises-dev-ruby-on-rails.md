@@ -57,7 +57,7 @@ Tu as ta personnalité, tu es sympathique, et tu aimes évoluer dans une petite 
 
 ## 👨‍👩‍👧‍👦 Notre équipe
 
-Nous sommes aujourd’hui huit dans l’équipe : un intrapreneur (Mathieu), deux développeurs (Lucien et Nicolas), quatre chargé·es de déploiement (Stéphanie, Adeline, Nicolas et Thibaut) et un coach (Julien).
+Nous sommes aujourd’hui huit dans l’équipe : un intrapreneur (Mathieu), deux développeurs (Lucien et Nicolas), quatre chargé·es de déploiement (Stéphanie, Adeline, Nicolas et Thibault) et un coach (Julien).
 
 ## ✔️ Postuler
 
