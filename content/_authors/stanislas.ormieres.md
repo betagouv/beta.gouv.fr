@@ -1,7 +1,7 @@
 ---
 fullname: Stanislas Ormières # penser à modifier le nom du fichier ci-dessus en prenom.nom.md !
 role: Responsable technique du LAB-MI # Développeur
-github: pseudo_github # optionnel : nom d'utilisateur GitHub, permet d'être ajouté automatiquement à l'organisation GitHub betagouv
+github: laruiss # optionnel : nom d'utilisateur GitHub, permet d'être ajouté automatiquement à l'organisation GitHub betagouv
 avatar: # optionnel, voir ci-dessous
 # En premier, on va regarder si tu as mis une image au format prenom.nom dans /img/authors/
 # Sinon, on utilisera le lien externe du champs avatar
