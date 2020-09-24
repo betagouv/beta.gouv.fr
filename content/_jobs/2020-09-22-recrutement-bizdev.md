@@ -72,6 +72,6 @@ Première expérience réussie en biz-developpement, communication, growth hacki
 -   TJM à définir selon profil.
 
 ## Candidater
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub... à julien.rayneau@beta.gouv.fr et recrutement@beta.gouv.fr copie valentine.michaud@beta.gouv.fr
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub... à recrutement@beta.gouv.fr et julien.rayneau@beta.gouv.fr ou valentine.michaud@beta.gouv.fr
 
 À bientôt !
