@@ -13,7 +13,7 @@ Plus de 60 millions de consommateurs fréquentent quotidiennement près de 10 mi
 Cette Startup d’État a démarré en juin 2018. 
 D'abord en expérimentation dans 3 régions, le site a été déployé sur l’ensemble du territoire en février 2020.
 
-En savoir plus : [https://signal.conso.gouv.fr]
+En savoir plus : [https://signal.conso.gouv.fr](https://signal.conso.gouv.fr)
 
 
 ## Responsabilités
