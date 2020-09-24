@@ -19,17 +19,21 @@ En savoir plus : https://signal.conso.gouv.fr/
 ## Responsabilités
 
 Vous serez en charge de continuer la construction du service pour les usagers. Vous participez à la conception, aux études terrain, aux tests utilisateur. L’équipe travaille en cycle court et en se confrontant en permanence aux retours des utilisateurs.
-En construction depuis deux ans, SignalConso est aujourd'hui composé des briques suivantes:
+Désormais en consolidation, SignalConso est aujourd'hui composé des briques suivantes:
 - frontend en TypeScript RX JS (framework angular)
 - backend en Scala (framework play framework) qui expose une API
 - une BDD PostgreSQL
 - déploiement sur Clever Cloud en production et sur Heroku en test/recette
-Tout le code est open source et consultable [sur GitHub](https://github.com/betagouv/signalement-app).
+
+Tout le code est open source et consultable sur GitHub :
+- Frontend(https://github.com/betagouv/signalement-app)
+- Backend(https://github.com/betagouv/signalement-api)
 
 Vous êtes en mesure de jouer sur 2 tableaux :
 - L’exploration : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
 - L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
 
+Plus qu'un exécutant vous êtes motivé par la vision produit et souhaitez vous impliquer dans les challenges techniques et fonctionnels à relever.
 
 ## Compétences
 
@@ -42,7 +46,7 @@ Vous êtes en mesure de jouer sur 2 tableaux :
 
 ## Modalités
 
-- Poste ouvert pour un indépendant.
+- Poste ouvert pour le statut d'indépendant.
 - Possibilité d’un temps partiel (60 ou 80%).
 - Télétravail bienvenu. Prévoir un déplacement par mois sur Paris pour une réunion d’équipe.
 - Démarrage ASAP.
@@ -60,4 +64,4 @@ Une équipe très motivée et composée de:
 
 ## Vous souhaitez rejoindre la startup SignalConso ?
 
-Envoyez votre LinkedIn / CV / GitHub sous la forme que vous souhaitez à [julien.raynaud@beta.gouv.fr](mailto:julien.raynaud@beta.gouv.fr) copie [jerome.rivals@beta.gouv.fr](mailto:jerome.rivals@beta.gouv.fr)
+Envoyez votre LinkedIn / CV / GitHub sous la forme que vous souhaitez à [julien.raynaud@beta.gouv.fr](mailto:julien.raynaud@beta.gouv.fr) copie [jerome.rivals@beta.gouv.fr](mailto:jerome.rivals@beta.gouv.fr) et [recrutement@beta.gouv.fr](recrutement@beta.gouv.fr)
