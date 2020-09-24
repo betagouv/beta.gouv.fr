@@ -14,8 +14,8 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     status: indépendant
     employer: Econocom # si applicable, le nom de ton administration, SSII, etc.
 startups: # ta ou tes startups actuelles
-    - Candilib # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
-    - PSIJ # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
+    - candilib # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
+    - psij # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
 ---
 
 Écrit des autobiographies percutantes en moins de 200 caractères depuis 1972.
