@@ -8,6 +8,7 @@ missions:
   - start: 2018-02-01
     status: admin
     employer: Lab-MI
+    end: 2021-09-24
 startups: 
     - candilib
 previously: 
