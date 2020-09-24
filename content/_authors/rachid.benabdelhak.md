@@ -1,8 +1,7 @@
 ---
-fullname: Rachid BENABDELHAK
+fullname: Rachid Benabdelhak
 role: Intrapreneur / PM en devenir / Lecteur passioné / Justicié masqué sauveur de chats la nuit
 github: rachidLPB
-avatar:
 link: https://www.linkedin.com/in/benabdelhak-rachid-9487715a/
 missions: 
   - start: 2020/09/07 
@@ -11,4 +10,3 @@ missions:
     employer: pole-emploi
 startups: La Bonne Place
 ---
-Écrit des autobiographies percutantes en moins de 200 caractères depuis 1972.
