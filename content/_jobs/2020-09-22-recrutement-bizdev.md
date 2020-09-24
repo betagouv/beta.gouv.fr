@@ -25,8 +25,8 @@ Le but est ainsi de faire baisser significativement les problématiques rencontr
 Cette Startup d’État a démarré en juin 2018. D’abord en expérimentation dans 3 régions, le site a été déployé sur l’ensemble du territoire en février 2020.
 
 En savoir plus : 
-- [https://signal.conso.gouv.fr]
-- [https://beta.gouv.fr/startup/signalement.html]
+- https://signal.conso.gouv.fr
+- https://beta.gouv.fr/startup/signalement.html
 
 Si vous souhaitez faire changer les choses et construire un État doté d’outils pour faire face aux défis du XXIe siècle, rejoignez une Startup d'Etat ! 
 
@@ -72,6 +72,6 @@ Première expérience réussie en biz-developpement, communication, growth hacki
 -   TJM à définir selon profil.
 
 ## Candidater
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub... à recrutement@beta.gouv.fr et julien.rayneau@beta.gouv.fr ou valentine.michaud@beta.gouv.fr
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub... à [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr) et [julien.rayneau@beta.gouv.fr](mailto:julien.rayneau@beta.gouv.fr) copie [valentine.michaud@beta.gouv.fr](valentine.michaud@beta.gouv.fr)
 
 À bientôt !
