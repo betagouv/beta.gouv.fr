@@ -8,5 +8,5 @@ missions:
     status: admin
     employer: pole-emploi
 startups:
-  - Estime
+  - estime
 ---
