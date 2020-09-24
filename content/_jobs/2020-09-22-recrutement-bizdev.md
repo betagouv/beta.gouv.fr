@@ -25,8 +25,8 @@ Le but est ainsi de faire baisser significativement les problématiques rencontr
 Cette Startup d’État a démarré en juin 2018. D’abord en expérimentation dans 3 régions, le site a été déployé sur l’ensemble du territoire en février 2020.
 
 En savoir plus : 
-[https://signal.conso.gouv.fr](https://signal.conso.gouv.fr)
-[https://beta.gouv.fr/startup/signalement.html](https://beta.gouv.fr/startup/signalement.html)
+- [https://signal.conso.gouv.fr]
+- [https://beta.gouv.fr/startup/signalement.html]
 
 Si vous souhaitez faire changer les choses et construire un État doté d’outils pour faire face aux défis du XXIe siècle, rejoignez une Startup d'Etat ! 
 
