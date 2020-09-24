@@ -13,7 +13,7 @@ Plus de 60 millions de consommateurs fréquentent quotidiennement près de 10 mi
 Cette Startup d’État a démarré en juin 2018. 
 D'abord en expérimentation dans 3 régions, le site a été déployé sur l’ensemble du territoire en février 2020.
 
-En savoir plus : https://signal.conso.gouv.fr/
+En savoir plus : [https://signal.conso.gouv.fr]
 
 
 ## Responsabilités
@@ -26,8 +26,8 @@ Désormais en consolidation, SignalConso est aujourd'hui composé des briques su
 - déploiement sur Clever Cloud en production et sur Heroku en test/recette
 
 Tout le code est open source et consultable sur GitHub :
-- Frontend(https://github.com/betagouv/signalement-app)
-- Backend(https://github.com/betagouv/signalement-api)
+- [Frontend](https://github.com/betagouv/signalement-app)
+- [Backend](https://github.com/betagouv/signalement-api)
 
 Vous êtes en mesure de jouer sur 2 tableaux :
 - L’exploration : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
