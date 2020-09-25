@@ -67,7 +67,6 @@ Première expérience réussie en biz-developpement, communication, growth hacki
 
 ##  Conditions
 -   Poste ouvert pour un(e) indépendant(e) ;
--   Possibilité d’un temps partiel (80%) ;
 -   Télétravail possible ;
 -   TJM à définir selon profil.
 
