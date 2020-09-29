@@ -6,7 +6,6 @@ sponsors:
     - name: Fabrique des territoire
       acronym:
       domaine_ministeriel: territoires
-      sponsors: 
       type: collectivite-territoriale
 incubator: dinum
 phases:
