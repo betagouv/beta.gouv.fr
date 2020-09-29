@@ -4,7 +4,7 @@ startup: aides-territoires
 techno: Django
 junior: true
 title: Aides-territoires recrute deux devs *full stack* en freelance
-open: true
+open: false
 ---
 
 **Un profil expérimenté, un profil junior.**
