@@ -6,9 +6,9 @@ mapping:
   "mission":
     type:      str
     required:  yes
- "owner":
+  "owner":
     type:      str
- "sponsors":
+  "sponsors":
     type:      seq
     sequence:
         - type:      map
@@ -47,7 +47,7 @@ mapping:
                 - travail
                 - territoires
                 - autres
- "events":
+  "events":
     type:      seq
     sequence:
         - type:      map
