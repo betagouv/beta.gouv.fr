@@ -4,7 +4,7 @@ mission: Découvrir les aides et mesures Pôle emploi qui accélèrent la repris
 owner: Pôle emploi
 sponsors: 
     - name: Pôle Emploi
-      shortname: PE
+      acronym: PE
       domaine_ministeriel: travail
       type: operateur
 incubator: pole-emploi

@@ -5,11 +5,11 @@ owner: Ministère de la Cohésion des territoires et des relations avec les
   collectivités territoriales / Ministère de la Transition écologique
 sponsors:
     - name: Direction generale de l'Amenagement, du Logement et de la Nature
-      shortname: DGALN
+      acronym: DGALN
       domaine_ministeriel: environnement
       type: administration-centrale
     - name: Direction de l'habitat, de l'urbanisme et des paysages
-      shortname: DHUP
+      acronym: DHUP
       domaine_ministeriel: environnement
       type: administration-centrale
 incubator: mtes

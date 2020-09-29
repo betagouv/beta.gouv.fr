@@ -4,7 +4,7 @@ mission: Permettre aux personnes isolées et parfois coupées d'internet de se d
 owner: Ademe / Préfecture du Lot (46)
 sponsors:
     - name: Agence pour la transition ecologique
-      shortname: ADEME
+      acronym: ADEME
       domaine_ministeriel: environnement
       type: operateur
 incubator: anct

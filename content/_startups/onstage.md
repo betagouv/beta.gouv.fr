@@ -4,7 +4,7 @@ mission: Renforcer les liens entre jeunes citoyens et entreprises du departement
 owner: Département des Côtes d'Armor
 sponsors: 
     - name: département des Côtes d'Armor
-      shortname:
+      acronym:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
 incubator: preincubation

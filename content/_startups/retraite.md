@@ -4,7 +4,7 @@ mission: Obtenir en quelques clics la liste personnalisée de ses démarches de 
 owner: CNAV, MSA, Sécurité sociale pour les indépendants
 sponsors:
     - name: CNAV
-      shortname: CNAV
+      acronym: CNAV
       domaine_ministeriel: affaires-sociales
       type: securite-sociale
 incubator: dinum

@@ -4,7 +4,7 @@ mission: Mutualiser les services régionaux à destination des lycéens
 owner: Région Bretagne
 sponsors: 
     - name: Région Bretagne
-      shortname:
+      acronym:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
 incubator: anct

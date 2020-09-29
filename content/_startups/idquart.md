@@ -4,7 +4,7 @@ mission: Favoriser l'émergence d'une plateforme de concertation innovante entre
 owner: Agglomération de Pau Béarn Pyrénées
 sponsors: 
     - name: Agglomération de Pau Béarn Pyrénées
-      shortname:
+      acronym:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
 incubator: anct

@@ -5,7 +5,7 @@ mission: Soutenir la reprise d'activité des demandeurs d'emploi en leur
 owner: Pôle emploi
 sponsors: 
     - name: Pôle Emploi
-      shortname: PE
+      acronym: PE
       domaine_ministeriel: travail
       type: operateur
 incubator: pole-emploi

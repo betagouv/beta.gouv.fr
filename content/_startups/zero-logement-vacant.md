@@ -4,7 +4,7 @@ mission: Faciliter la remobilisation des logements vacants par les collectivité
 owner: Direction générale de l'aménagement, du logement et de la nature (DGALN)
 sponsors: 
     - name: Direction générale de l'aménagement, du logement et de la nature
-      shortname: DGALN
+      acronym: DGALN
       domaine_ministeriel: territoires
       type: administration-centrale
 incubator: mtes

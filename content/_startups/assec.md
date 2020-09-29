@@ -4,7 +4,7 @@ mission: Optimiser la réponse collective du monde agricole et des services de l
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 sponsors:
     - name: Direction generale de l'Amenagement, du Logement et de la Nature / Direction de l'Eau et de la Biodiversité
-      shortname: DGALN / DGEB
+      acronym: DGALN / DGEB
       domaine_ministeriel: environnement
       type: administration-centrale
 incubator: mtes

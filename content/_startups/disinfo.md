@@ -4,7 +4,7 @@ mission: Diminuer la quantité de désinformation à laquelle un individu est co
 owner: Ambassadeur pour le numérique
 sponsors:
     - name:
-      shortname: 
+      acronym: 
       domaine_ministeriel: 
       type: 
 incubator: dinum

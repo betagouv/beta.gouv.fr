@@ -4,7 +4,7 @@ mission: La plateforme de demande d’autorisations provisoires de travail
 owner: Ministère des Affaires sociales
 sponsors: 
     - name: directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi
-      shortname: DIRECCTE
+      acronym: DIRECCTE
       domaine_ministeriel: travail
       type: administration-centrale
 incubator: sgmas

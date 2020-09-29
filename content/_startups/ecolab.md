@@ -4,7 +4,7 @@ mission:  Apporter l'information environnementale au plus près des citoyens
 owner: ADEME
 sponsors:
     - name: Agence pour la transition ecologique
-      shortname: ADEME
+      acronym: ADEME
       domaine_ministeriel: environnement
       type: operateur
 incubator: dinum

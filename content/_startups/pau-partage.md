@@ -6,7 +6,7 @@ mission: Lutter contre l'isolement des personnes âgées en favorisant la rencon
 owner: Agglomération de Pau Béarn Pyrénées
 sponsors: 
     - name: Agglomération de Pau Béarn Pyrénées
-      shortname:
+      acronym:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
 incubator: anct

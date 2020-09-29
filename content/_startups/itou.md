@@ -6,7 +6,7 @@ owner: la Délégation générale à l’emploi et à la formation professionnel
   l'emploi et à l'engagement des entreprises
 sponsors: 
     - name: Délégation générale à l'emploi et à la formation professionnelle
-      shortname: DGEFP
+      acronym: DGEFP
       domaine_ministeriel: travail
       type: administration-centrale
     - name: Pôle emploi

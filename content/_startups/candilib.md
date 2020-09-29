@@ -4,7 +4,7 @@ mission: Réserver simplement sa place d'examen pratique au permis de conduire
 owner: Ministère de l'Intérieur
 sponsors: 
     - name: Délégation à la sécurité routière
-      shortname: DSR
+      acronym: DSR
       domaine_ministeriel: interieur
       type: administration-centrale
 incubator: lab-mi

@@ -4,7 +4,7 @@ mission: Permettre aux jeunes en difficulté de découvrir leurs compétences et
 owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi
 sponsors: 
     - name: Haut commissariat aux compétences
-      shortname: 
+      acronym: 
       domaine_ministeriel: travail
       type: administration-centrale
 incubator: dinum

@@ -4,7 +4,7 @@ mission: Rechercher une formation efficace pour le retour à l'emploi et découv
 owner: Pôle emploi
 sponsors: 
   - name: Pôle Emploi
-    shortname: PE
+    acronym: PE
     domaine_ministeriel: travail
     type: operateur
 incubator: pole-emploi

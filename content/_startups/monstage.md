@@ -5,7 +5,7 @@ owner: CGET
 incubator: dinum
 sponsors: 
     - name: Agence nationale de la cohésion des territoires
-      shortname: ANCT
+      acronym: ANCT
       domaine_ministeriel: territoires
       type: opérateur
 phases:

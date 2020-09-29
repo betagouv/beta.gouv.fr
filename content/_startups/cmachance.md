@@ -5,7 +5,7 @@ owner: Chambre de Métiers et de l'Artisanat Hauts-de-France
 incubator: dinum
 sponsors: 
     - name: Chambre de Métiers et de l'Artisanat Hauts-de-France
-      shortname: CMA Hauts de France
+      acronym: CMA Hauts de France
       domaine_ministeriel: territoires
       type: collectivite-territoriale
 phases:

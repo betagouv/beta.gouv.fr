@@ -4,7 +4,7 @@ mission: Faciliter l'immersion professionnelle des personnes en situation de han
 owner: Caisse des dépôts 
 sponsors: 
     - name: Caisse des dépôts et consignations
-      shortname: Caisse des dépôts
+      acronym: Caisse des dépôts
       domaine_ministeriel: autres
       type: administration-autre
 incubator: dinum

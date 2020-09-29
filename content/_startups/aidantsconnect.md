@@ -4,7 +4,7 @@ mission: Permettre à un aidant professionnel de réaliser des démarches admini
 owner: Agence du Numérique
 sponsors: 
     - name: Agence du numérique
-      shortname:
+      acronym:
       domaine_ministeriel: territoires
       type: operateur
 incubator: anct

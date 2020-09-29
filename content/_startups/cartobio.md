@@ -4,7 +4,7 @@ mission: Ouvrir, enrichir et partager les données parcellaires de l’agricultu
 owner: Agence Française pour le Développement et la Promotion de l'Agriculture Biologique (Agence Bio)
 sponsors: 
     - name: Agence Française pour le Développement et la Promotion de l'Agriculture Biologique
-      shortname: Agence Bio
+      acronym: Agence Bio
       domaine_ministeriel: agriculture
       type: opérateur
 incubator: dinum

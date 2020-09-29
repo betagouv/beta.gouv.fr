@@ -4,7 +4,7 @@ mission: Permettre aux agents publics d'accéder simplement aux documents qu'ils
 owner: Direction générale des entreprises
 sponsors: 
     - name: Direction générale des entreprises
-      shortname: DGE
+      acronym: DGE
       domaine_ministeriel: bercy
       type: administration-centrale
 incubator: dinum

@@ -4,7 +4,7 @@ mission: Ouvrir les données du domaine minier pour partager l'information sur l
 owner: Ministère de la Transition écologique et solidaire
 sponsors:
     - name: Direction générale de l'Amenagement, du Logement et de la Nature / Direction de l'Eau et de la Biodiversite
-      shortname: 
+      acronym: 
       domaine_ministeriel: environnement
       type: administration-centrale
 incubator: mtes

@@ -4,7 +4,7 @@ mission: Eclairer les personnes qui cherchent une formation professionnelle en a
 owner: Pôle emploi
 sponsors: 
     - name: Pôle Emploi
-      shortname: PE
+      acronym: PE
       domaine_ministeriel: travail
       type: operateur
 incubator: pole-emploi

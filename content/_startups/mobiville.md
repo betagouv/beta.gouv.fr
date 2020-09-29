@@ -4,11 +4,11 @@ mission: Diminuer le nombre d'emplois non pourvus en facilitant la mobilité gé
 owner: Pôle emploi et Action Logement
 sponsors: 
     - name: Pôle Emploi
-      shortname: PE
+      acronym: PE
       domaine_ministeriel: travail
       type: operateur
   - name: Action Logement
-      shortname:territoires
+      acronym:territoires
       domaine_ministeriel: travail
       type: operateur     
 incubator: pole-emploi

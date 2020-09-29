@@ -4,7 +4,7 @@ mission: Inscrire son enfant au collège en quelques clics
 owner: Ministère de l'Éducation nationale
 sponsors: 
     - name: Secrétariat général
-      shortname: SG
+      acronym: SG
       domaine_ministeriel: education-nat
       type: administration-centrale
 incubator: dinum

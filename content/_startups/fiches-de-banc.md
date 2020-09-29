@@ -4,7 +4,7 @@ mission: Augmenter la productivité du traitement des amendements dans les cabin
 owner: DINUM
 sponsors: 
     - name: Direction interministérielle du numérique
-      shortname: DINUM
+      acronym: DINUM
       domaine_ministeriel: spm # Service du premier ministre
       type: administration-centrale
 incubator: dinum

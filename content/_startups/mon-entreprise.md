@@ -4,7 +4,7 @@ mission: "L'assistant officiel du créateur d'entreprise"
 owner: Acoss
 sponsors:
     - name: ACOSS
-      shortname: ACOSS
+      acronym: ACOSS
       domaine_ministeriel: affaires-sociales
       type: securite-sociale
 incubator: dinum

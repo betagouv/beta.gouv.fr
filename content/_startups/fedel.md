@@ -4,7 +4,7 @@ mission: Déclarer facilement sa manifestation sur la voie publique
 owner: Préfecture de police de Paris
 sponsors: 
     - name: Préfecture de police de Paris
-      shortname: PP
+      acronym: PP
       domaine_ministeriel: interieur
       type: service-deconcentre
 incubator: lab-mi

@@ -4,7 +4,7 @@ mission: Trouver rapidement le bon professionnel pour les majeurs à protéger
 owner: Ministère des Affaires sociales
 sponsors:
     - name: Direction generale de la cohesion sociale
-      shortname: DGCS
+      acronym: DGCS
       domaine_ministeriel: affaires-sociales
       type: administration-centrale
 incubator: sgmas

@@ -4,7 +4,7 @@ mission: Donner de son temps pour l'intérêt général
 owner: Haut-commissariat à l'engagement civique
 sponsors: 
     - name: Direction de la jeunesse, de l'éducation populaire et de la vie associative
-      shortname: DJEPVA
+      acronym: DJEPVA
       domaine_ministeriel: education-nat
       type: administration-centrale
 incubator: dinum

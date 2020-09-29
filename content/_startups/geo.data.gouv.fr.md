@@ -4,7 +4,7 @@ mission: Trouver facilement les données géographiques dont vous avez besoin
 owner: Etalab
 sponsors: 
     - name: Etalab
-      shortname: Etalab
+      acronym: Etalab
       domaine_ministeriel: spm # Service du premier ministre
       type: administration-centrale
 

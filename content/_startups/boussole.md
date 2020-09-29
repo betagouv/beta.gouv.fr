@@ -4,7 +4,7 @@ mission: Accéder à des conseils professionnels à proximité pour trouver un l
 owner: Direction de la jeunesse
 sponsors: 
     - name: Direction de la jeunesse, de l'éducation populaire et de la vie associative
-      shortname: DJEPVA
+      acronym: DJEPVA
       domaine_ministeriel: education-nat
       type: administration-centrale
 incubator: dinum

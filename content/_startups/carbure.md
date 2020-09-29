@@ -4,7 +4,7 @@ mission: Gestion centralisée des flux de biocarburants
 owner: Ministère de la Transition écologique et solidaire
 sponsors:
     - name: Direction generale de l'Energie et du Climat
-      shortname: DGEC
+      acronym: DGEC
       domaine_ministeriel: environnement
       type: administration-centrale
 incubator: mtes

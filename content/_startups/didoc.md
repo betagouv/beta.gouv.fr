@@ -4,7 +4,7 @@ mission: Dématérialisation des Invitations au Dépistage Organisé des Cancers
 owner: ARS Bourgogne-Franche-Comté et CRCDC Bourgogne-Franche-Comté
 sponsors:
     - name: Agence regionale de sante
-      shortname: ARS
+      acronym: ARS
       domaine_ministeriel: affaires-sociales
       type: service-deconcentre
 incubator: sgmas

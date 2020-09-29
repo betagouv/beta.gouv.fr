@@ -4,7 +4,7 @@ mission: Faciliter le travail administratif autour des contrôles ICPE
 owner: Ministère de la Transition Ecologique et Solidaire
 sponsors:
     - name: Direction generale de la Prevention des risques
-      shortname: DGPR
+      acronym: DGPR
       domaine_ministeriel: environnement
       type: administration-centrale
 events:

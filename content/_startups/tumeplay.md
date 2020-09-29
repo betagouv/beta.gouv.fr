@@ -4,7 +4,7 @@ mission: Améliorer la prévention sexuelle pour les jeunes de moins de 25 ans
 owner: Ministère des Affaires sociales
 sponsors:
     - name: Direction generale de la sante
-      shortname: DGS
+      acronym: DGS
       domaine_ministeriel: affaires-sociales
       type: administration-centrale
 incubator: sgmas

@@ -4,7 +4,7 @@ mission: Aider les demandeurs d’emploi qui cumulent emploi et chômage à êtr
 owner: Pôle emploi
 sponsors: 
     - name: Pôle Emploi
-      shortname: PE
+      acronym: PE
       domaine_ministeriel: travail
       type: operateur
 incubator: pole-emploi

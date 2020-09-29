@@ -4,7 +4,7 @@ mission: Faciliter les demandes de compensation du handicap auprès des MDPH
 owner: Caisse nationale de solidarité pour l'autonomie (CNSA)
 sponsors:
     - name: Caisse nationale pour la solidarite et l'autonomie
-      shortname: CNSA
+      acronym: CNSA
       domaine_ministeriel: affaires-sociales
       type: securite-sociale
 incubator: dinum

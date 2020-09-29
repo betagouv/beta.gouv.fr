@@ -4,7 +4,7 @@ mission: Faciliter la transition du modèle agricole grâce au partage d'expéri
 owner: direction générale de l'alimentation
 sponsors: 
     - name: Direction générale de l'administration
-      shortname: 
+      acronym: 
       domaine_ministeriel: agriculture
       type: administration-centrale
 incubator: dinum

@@ -4,7 +4,7 @@ mission: Mettre en relation des candidats validés par la méthode de recrutemen
 owner: Pôle emploi
 sponsors: 
     - name: Pôle Emploi
-      shortname: PE
+      acronym: PE
       domaine_ministeriel: travail
       type: operateur
 incubator: pole-emploi

@@ -4,7 +4,7 @@ mission: Rapprocher les professionnels de santé de leur futur territoire d’ex
 owner: Ministère des Solidarités et de la Santé
 sponsors:
     - name: Direction generale de la sante
-      shortname: DGS
+      acronym: DGS
       domaine_ministeriel: affaires-sociales
       type: administration-centrale
 incubator: sgmas

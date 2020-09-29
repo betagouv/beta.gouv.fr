@@ -4,7 +4,7 @@ mission: Voir et localiser les appelants aux centres d'appels d'urgence
 owner: ASIP Santé - Agence Française de la Santé Numérique
 sponsors:
     - name: Agence du numerique en sante
-      shortname: 
+      acronym: 
       domaine_ministeriel: affaires-sociales
       type: operateur
 incubator: dinum

@@ -4,7 +4,7 @@ mission: L'outil unique de gestion, de pilotage et de valorisation de l'activit�
 owner: Ministère de la Transition écologique et solidaire
 sponsors:
     - name: Secretariat général - Ministere de la Transition ecologique et solidaire
-      shortname: 
+      acronym: 
       domaine_ministeriel: environnement
       type: administration-centrale
 incubator: mtes

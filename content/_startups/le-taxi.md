@@ -4,7 +4,7 @@ mission: Commander un taxi, rapidement
 owner: DGITM
 sponsors:
     - name: Direction generale des Infrastructures, des Transports et de la Mer
-      shortname: DGITM
+      acronym: DGITM
       domaine_ministeriel: environnement
       type: administration-centrale
 incubator: dinum

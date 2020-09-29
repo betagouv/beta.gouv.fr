@@ -5,7 +5,7 @@ incubator: dinum
 owner: DINUM
 sponsors: 
     - name: Direction interministérielle du numérique
-      shortname: DINUM
+      acronym: DINUM
       domaine_ministeriel: environnement
       type: administration-centrale
 phases:

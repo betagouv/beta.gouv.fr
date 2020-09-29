@@ -4,7 +4,7 @@ mission: Fluidifier le dialogue social de la  « Direction des ressources humai
 owner: DGAFP
 sponsors: 
     - name: Direction générale de l'administration et de la fonction publique
-      shortname: DGAFP
+      acronym: DGAFP
       domaine_ministeriel: spm # Service du premier ministre
       type: administration-centrale
 incubator: dinum

@@ -4,7 +4,7 @@ mission: Connaître, partager et agir pour résorber les bidonvilles
 owner: Délégation interministérielle à l'hébergement et à l'accès au logement (DIHAL)
 sponsors: 
     - name: Délégation interministérielle à l'hébergement et à l'accès au logement
-      shortname: DIHAL
+      acronym: DIHAL
       domaine_ministeriel: territoires
       type: administration-centrale
 incubator: mtes

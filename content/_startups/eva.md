@@ -5,7 +5,7 @@ mission: Favoriser l’insertion en détectant les compétences transversales et
 owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi - DGEFP
 sponsors: 
     - name: Haut commissariat aux compétences
-      shortname:
+      acronym:
       domaine_ministeriel: travail
       type: administration-centrale
 incubator: dinum

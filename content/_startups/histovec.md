@@ -4,7 +4,7 @@ mission: Acheter un véhicule d'occasion en confiance en connaissant son histori
 owner: Ministère de l'Intérieur
 sponsors: 
     - name: Délégation à la sécurité routière
-      shortname: DSR
+      acronym: DSR
       domaine_ministeriel: interieur
       type: administration-centrale
 incubator: lab-mi

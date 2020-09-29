@@ -5,7 +5,7 @@ owner: Agglomération de Pau Béarn Pyrénées
 incubator: anct
 sponsors: 
     - name: Agglomération de Pau Béarn Pyrénées
-      shortname:
+      acronym:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
 phases:

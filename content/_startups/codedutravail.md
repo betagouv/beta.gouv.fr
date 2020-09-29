@@ -4,7 +4,7 @@ mission: Faciliter l'accès au droit du travail pour les entreprises et les empl
 owner: ministère du Travail
 sponsors: 
     - name: Délégation générale du travail
-      shortname: DGT
+      acronym: DGT
       domaine_ministeriel: travail
       type: administration-centrale
 incubator: sgmas

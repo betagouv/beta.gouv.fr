@@ -4,7 +4,7 @@ mission: Développer la conscience citoyenne des jeunes en leur proposant de par
 owner: Direction de la Jeunesse, de l'Education populaire et de la Vie associative, sous l'impulsion du Secrétaire d'Etat auprès du ministre de l'éducation nationale et de la jeunesse
 sponsors: 
     - name: Direction de la jeunesse, de l'éducation populaire et de la vie associative
-      shortname: DJEPVA
+      acronym: DJEPVA
       domaine_ministeriel: education-nat
       type: administration-centrale
 incubator: dinum

@@ -4,12 +4,12 @@ mission: Faciliter les entrées en apprentissage
 owner: Délégation générale à l'emploi et à la formation professionnelle (DGEFP)
 sponsors: 
     - name: Délégation générale à l'emploi et à la formation professionnelle
-      shortname: DGEFP
+      acronym: DGEFP
       domaine_ministeriel: travail
       type: administration-centrale
 sponsors: 
     - name: Direction interministérielle du numérique
-      shortname: DINUM
+      acronym: DINUM
       domaine_ministeriel: spm # Service du premier ministre
       type: administration-centrale
 incubator: dinum

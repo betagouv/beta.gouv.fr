@@ -4,7 +4,7 @@ mission: Permettre aux structures de médecine légale de consigner l'activité 
 owner: Ministère des Solidarités et de la Santé
 sponsors:
     - name: Direction generale de l’offre de soins
-      shortname: DGOS
+      acronym: DGOS
       domaine_ministeriel: environnement
       type: administration-centrale
 incubator: sgmas

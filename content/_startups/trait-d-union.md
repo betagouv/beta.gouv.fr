@@ -5,7 +5,7 @@ owner: Région Grand Est
 incubator: dinum
 sponsors: 
     - name: Région Grand Est
-      shortname:
+      acronym:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
 events:

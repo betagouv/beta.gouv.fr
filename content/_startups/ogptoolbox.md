@@ -4,7 +4,7 @@ mission: Trouver des outils numériques pour améliorer la démocratie
 owner: Etalab / Open Government Partnership
 sponsors:
      - name: Etalab
-       shortname: Etalab
+       acronym: Etalab
        domaine_ministeriel: spm # Service du premier ministre
        type: administration-centrale
 incubator: dinum

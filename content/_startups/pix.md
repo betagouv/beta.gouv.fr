@@ -4,7 +4,7 @@ mission: Mesurer, développer et valoriser ses compétences numériques
 owner: GIP PIX
 sponsors: 
     - name: Secrétariat général
-      shortname: SG
+      acronym: SG
       domaine_ministeriel: education-nat
       type: administration-centrale
 incubator: dinum

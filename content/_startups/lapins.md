@@ -4,7 +4,7 @@ mission: Réduire le nombre de rendez-vous annulés dans les maisons départemen
 owner: Consortium de départements
 sponsors: 
     - name: Fabrique des territoire
-      shortname:
+      acronym:
       domaine_ministeriel: territoires
       sponsors: 
       type: collectivite-territoriale

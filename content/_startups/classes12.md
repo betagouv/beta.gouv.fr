@@ -4,7 +4,7 @@ mission: Faciliter le passage en classe à 12 pour les enseignants et maximiser 
 owner: Ministère de l'Éducation nationale
 sponsors: 
     - name: Direction générale de l'enseignement scolaire
-      shortname: DGSCO
+      acronym: DGSCO
       domaine_ministeriel: education-nat
       type: administration-centrale
 incubator: dinum

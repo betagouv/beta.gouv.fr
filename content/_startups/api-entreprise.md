@@ -4,7 +4,7 @@ mission: Récupérer les données des entreprises
 owner: DINUM
 sponsors: 
     - name: Direction interministérielle du numérique
-      shortname: DINUM
+      acronym: DINUM
       domaine_ministeriel: spm # Service du premier ministre
       type: administration-centrale
 incubator: apigouv

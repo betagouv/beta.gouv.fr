@@ -4,7 +4,7 @@ mission: Réduire le gaspillage alimentaire dans les cantines scolaires
 owner: Département des Côtes d'Armor
 sponsors: 
     - name: département des Côtes d'Armor
-      shortname:
+      acronym:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
 incubator: preincubation

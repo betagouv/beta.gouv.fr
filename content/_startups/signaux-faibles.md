@@ -4,11 +4,11 @@ mission: Mieux cibler les interventions en remédiation de l’État vers les en
 owner: Ministère de l'économie, des finances et de la relance - Direction générale des entreprises (DGE) / Ministère du Travail (DGEFP)
 sponsors:
     - name: Direction generale des Entreprises
-      shortname: DGE
+      acronym: DGE
       domaine_ministeriel: bercy
       type: administration-centrale
     - name: Délégation générale à l'emploi et à la formation professionnelle
-      shortname: DGEFP
+      acronym: DGEFP
       domaine_ministeriel: travail
       type: administration-centrale
 incubator: dinum

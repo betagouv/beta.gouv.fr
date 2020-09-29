@@ -4,7 +4,7 @@ mission: Faciliter l'accès aux droits pour les personnes sans domicile stable, 
 owner: Ministère des Solidarités et de la Santé
 sponsors:
     - name: Direction générale de la cohésion sociale
-      shortname: DGCS
+      acronym: DGCS
       domaine_ministeriel: affaires-sociales
       type: administration-centrale
 incubator: sgmas

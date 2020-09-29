@@ -4,7 +4,7 @@ mission:  Aider au développement du transport fluvial en France
 owner: Ministère de la transition écologique et solidaire
 sponsors:
     - name: Direction generale des Infrastructures, des Transports et de la Mer
-      shortname: DGITM
+      acronym: DGITM
       domaine_ministeriel: environnement
       type: administration-centrale
 incubator: mtes

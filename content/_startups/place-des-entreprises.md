@@ -4,11 +4,11 @@ mission: 'TPE & PME, vous avez un projet, une difficulté, une question du quoti
 owner: Ministère de l'économie, des finances et de la relance - Direction générale des entreprises (DGE) / Ministère du Travail (DGEFP)
 sponsors: 
     - name: Direction générale des entreprises
-      shortname: DGE
+      acronym: DGE
       domaine_ministeriel: bercy
       type: administration-centrale
     - name: Délégation générale à l'emploi et à la formation professionnelle
-      shortname: DGEFP
+      acronym: DGEFP
       domaine_ministeriel: travail
       type: administration-centrale
 incubator: dinum

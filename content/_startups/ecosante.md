@@ -4,7 +4,7 @@ mission: Réduire l’exposition aux facteurs environnementaux nocifs pour la sa
 owner: Ministère de la Santé - Ministère de la Transition Écologique et Solidaire
 sponsors:
     - name: Direction generale de la sante
-      shortname: DGS
+      acronym: DGS
       domaine_ministeriel: affaires-sociales
       type: administration-centrale
 incubator: dinum

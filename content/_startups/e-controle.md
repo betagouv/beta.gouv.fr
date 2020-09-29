@@ -4,7 +4,7 @@ mission: Simplifier les échanges de documents entre un organisme de contrôle e
 owner: Cour des comptes
 sponsors: 
     - name: Cour des Comptes
-      shortname: Cour des comptes
+      acronym: Cour des comptes
       domaine_ministeriel: autres
       type: autre
 incubator: dinum

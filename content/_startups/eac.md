@@ -4,7 +4,7 @@ mission: Augmenter le nombre d'actions artistiques et culturelles pour les jeune
 owner: Secrétariat général
 sponsors: 
     - name: secrétariat général
-      shortname:
+      acronym:
       domaine_ministeriel: spm # culture
       type: administration-centrale
 incubator: dinum

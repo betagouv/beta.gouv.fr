@@ -4,7 +4,7 @@ mission: Orienter les usagers qui souhaitent joindre le département du Calvados
 owner: Département du Calvados
 sponsors: 
     - name: département du Calvados
-      shortname:
+      acronym:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
 incubator: dinum

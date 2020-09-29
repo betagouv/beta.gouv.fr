@@ -4,7 +4,7 @@ mission: Augmenter la présence de la nature en ville
 owner: DINUM
 sponsors: 
     - name: Direction interministérielle du numérique
-      shortname: DINUM
+      acronym: DINUM
       domaine_ministeriel: environnement
       type: administration-centrale
 domaine_ministeriel: environnement

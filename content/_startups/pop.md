@@ -5,7 +5,7 @@ incubator: dinum
 owner: Ministère de la Culture
 sponsors: 
     - name: Direction générale des patrimoines
-      shortname: DGPat
+      acronym: DGPat
       domaine_ministeriel: culture
       type: administration-centrale
 phases:
