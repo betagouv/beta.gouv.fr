@@ -6,7 +6,7 @@ sponsors:
     - name: Caisse des dépôts et consignations
       acronym: Caisse des dépôts
       domaine_ministeriel: autres
-      type: administration-autre
+      type: autre
 incubator: dinum
 events:
   - name: end
