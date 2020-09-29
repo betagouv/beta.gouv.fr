@@ -1,15 +1,21 @@
 ---
 title: Signaux Faibles
 mission: Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté
-owner: DINUM
+owner: Ministère de l'économie, des finances et de la relance - Direction générale des entreprises (DGE) / Ministère du Travail (DGEFP)
 sponsors:
     - name: Direction generale des Entreprises
       shortname: DGE
       domaine_ministeriel: bercy
       type: administration-centrale
+    - name: Délégation générale à l'emploi et à la formation professionnelle
+      shortname: DGEFP
+      domaine_ministeriel: travail
+      type: administration-centrale
 incubator: dinum
 phases:
   - name: investigation
+    start: 2014-05-15
+  - name: construction
     start: 2014-05-15
   - name: transfer
 link: 

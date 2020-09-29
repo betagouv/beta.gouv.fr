@@ -8,10 +8,15 @@ sponsors:
       domaine_ministeriel: bercy
       type: administration-centrale
 incubator: dinum
+events:
+  - name: end
+    date: 2019-12-01
 phases:
   - name: investigation
     start: 2018-12-01 
+    end: 2019-03-01
   - name: alumni
+    start: 2019-03-01
 link: 
 repository: 
 stats: false 

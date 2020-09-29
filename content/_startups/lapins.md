@@ -12,6 +12,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2018-01-18
+  - name: construction
+    start: 2018-01-18
   - name: acceleration
 link: https://rdv-solidarites.fr
 repository: https://github.com/betagouv/rdv-solidarites.fr

@@ -8,8 +8,13 @@ sponsors:
       domaine_ministeriel: spm # Service du premier ministre
       type: administration-centrale
 incubator: dinum
+events:
+  - name: end
+    date: 2016-09-30
 phases:
   - name: investigation
+    start: 2015-01-12
+  - name: construction
     start: 2015-01-12
   - name: alumni
     start: 2016-01-09

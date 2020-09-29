@@ -11,6 +11,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2018-06-04
+  - name: construction
+    start: 2018-06-04
   - name: acceleration
 link: http://covoiturage.beta.gouv.fr/
 repository: https://github.com/betagouv/preuve-covoiturage

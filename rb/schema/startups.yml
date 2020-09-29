@@ -8,7 +8,7 @@ mapping:
     required:  yes
  "owner":	  "sponsors":
     type:      str
-  "sponsors":
+ "sponsors":
     type:      seq
     sequence:
         - type:      map
@@ -47,6 +47,18 @@ mapping:
                 - travail
                 - territoires
                 - autres
+ "events":
+    type:      seq
+    sequence:
+        - type:      map
+          mapping:
+            "name":
+              type:      str
+              assert:    "['product_launch','commitee','other','national_impact','end'].include?(val)"
+            "date":
+              type:      date
+            "comment":
+              type:      str
   "phases":
     type:      seq
     sequence:
@@ -55,7 +67,8 @@ mapping:
             "start":
               type:      date
             "end":
-              type:      date
+              type:      any
+              assert:    "val.nil? || val.is_a?(Date) || (val.is_a?(String) && val.empty?)"
             "name":
               type:      str
               assert:    "['investigation','construction','acceleration','success','transfer','alumni'].include?(val)"

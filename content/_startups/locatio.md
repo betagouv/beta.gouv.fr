@@ -11,6 +11,8 @@ incubator: mtes
 phases:
   - name: investigation
     start: 2018-01-01
+  - name: construction
+    start: 2018-01-01
   - name: acceleration
 link: https://DossierFacile.fr/?utm_source=BetaGouv
 repository: https://github.com/MTES-MCT/locatio

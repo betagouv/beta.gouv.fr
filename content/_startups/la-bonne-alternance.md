@@ -11,6 +11,8 @@ incubator: pole-emploi
 phases:
   - name: investigation
     start: 2018-03-19
+  - name: construction
+    start: 2018-03-19
   - name: success
 link: https://labonnealternance.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/labonnealternance

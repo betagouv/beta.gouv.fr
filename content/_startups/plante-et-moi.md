@@ -12,6 +12,7 @@ phases:
   - name: investigation
     start: 2016-10-01
   - name: construction
+    start: 2016-10-01
 link:
 repository: https://github.com/betagouv/plante-et-moi
 stats: false

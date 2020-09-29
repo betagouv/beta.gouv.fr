@@ -12,6 +12,7 @@ phases:
   - name: investigation
     start: 2017-03-23
   - name: construction
+    start: 2017-03-23
 link: https://reserve-civique.beta.gouv.fr
 repository:
 stats: false

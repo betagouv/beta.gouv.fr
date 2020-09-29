@@ -2,7 +2,7 @@
 roles: Chef·fe de produit intrapreneur·e de SignalConso (DGCCRF)
 startup: signalement
 junior: false 
-open: true 
+open: false 
 title: Chef/cheffe de produit intrapreneur de SignalConso
 ---
 

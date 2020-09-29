@@ -9,9 +9,8 @@ sponsors:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
 phases:
-  - name: investigation
-    start: 2020-03-15
   - name: construction
+    start: 2020-03-15
 link: https://www.cmachance.fr/
 repository: 
 stats: false

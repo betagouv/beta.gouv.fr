@@ -8,6 +8,9 @@ sponsors:
       domaine_ministeriel: environnement
       type: administration-centrale
 incubator: mtes
+events:
+  - name: end
+    date: 2018-12-31
 phases:
   - name: investigation
     start: 2017-12-31

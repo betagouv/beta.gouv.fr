@@ -11,6 +11,8 @@ incubator: pole-emploi
 phases:
   - name: investigation
     start: 2016-02-02
+  - name: construction
+    start: 2016-02-02
   - name: success
 link: https://maintenant.pole-emploi.fr
 repository: 

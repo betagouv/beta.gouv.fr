@@ -7,10 +7,18 @@ sponsors:
       shortname: DGPR
       domaine_ministeriel: environnement
       type: administration-centrale
+events:
+  - name: end
+    date: 2019-12-01
 phases:
   - name: investigation
     start: 2018-11-01
+    end: 2018-12-31
+  - name: construction
+    start: 2018-12-31
+    end: 2019-12-01
   - name: alumni
+    start: 2019-12-01
 repository: https://github.com/MTES-MCT/filharmonic
 incubator: mtes
 stats: false

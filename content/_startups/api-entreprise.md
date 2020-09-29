@@ -11,6 +11,8 @@ incubator: apigouv
 phases:
   - name: investigation
     start: 2014-01-01
+  - name: construction
+    start: 2014-01-01
   - name: alumni
 link: https://entreprise.api.gouv.fr/
 repository:

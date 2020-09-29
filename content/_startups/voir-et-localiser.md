@@ -8,6 +8,9 @@ sponsors:
       domaine_ministeriel: affaires-sociales
       type: operateur
 incubator: dinum
+events:
+  - name: end
+    date: 2020-01-01
 phases:
   - name: investigation
     start: 2018-11-20

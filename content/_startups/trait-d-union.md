@@ -8,10 +8,16 @@ sponsors:
       shortname:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
+events:
+  - name: end
+    date: 2019-12-01
 phases:
   - name: investigation
     start: 2019-01-01
+  - name: construction
+    start: 2019-01-01
   - name: alumni
+    start: 2019-12-01
 link: https://traitdunion.beta.gouv.fr
 repository: https://github.com/betagouv/trait-d-union
 stats: true

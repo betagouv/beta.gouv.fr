@@ -18,18 +18,19 @@ repository: https://github.com/MTES-MCT/aides-territoires
 contact: aides-territoires@beta.gouv.fr
 stats: true
 phases:
-  - name: investigation
+  - name: construction
     start: 2018-01-01
     end: 2018-09-10
   - name: acceleration
+    start: 2018-09-10
 ---
 ## Le problème
 
 Pour près de 35 000 communes et 1 260 regroupements de communes françaises, accéder à des aides en financement et en accompagnement est essentiel, car sans aide, il n’y a pas de projets d’aménagement de territoire. C’est surtout un véritable casse-tête en raison de la myriade d’aides disponibles, puisqu’on en recense plus de 300 types, qui relèvent de différents niveaux, régional, national, et même européen : comment s’y retrouver dans ce maquis ?
 
-Des dispositifs de veille existent, mais ils sont le plus souvent construits de manière individuelle, avec des outils peu collaboratifs et à la visibilité limitée (tableur, liste de diffusion, etc). Ensuite, il faut être en mesure de sélectionner les aides les plus adaptées à son projet et de compléter les dossiers de candidature ad hoc. Des chefs de projets peuvent ainsi passer plus de deux tiers de leur temps à rechercher ces fameuses aides… alors qu’ils pourraient consacrer ce temps au projet en lui-même ! 
+Des dispositifs de veille existent, mais ils sont le plus souvent construits de manière individuelle, avec des outils peu collaboratifs et à la visibilité limitée (tableur, liste de diffusion, etc). Ensuite, il faut être en mesure de sélectionner les aides les plus adaptées à son projet et de compléter les dossiers de candidature ad hoc. Des chefs de projets peuvent ainsi passer plus de deux tiers de leur temps à rechercher ces fameuses aides… alors qu’ils pourraient consacrer ce temps au projet en lui-même !
 
-Ceci engendre des situations aberrantes, avec des doutes sur l’apport réel de ces dispositifs : frustration du côté des financeurs qui n’atteindront pas leur coeur de cible, et lassitude des collectivités, n’ayant aucune garantie quand elles remplissent un dossier, si elles arrivent à cette étape.
+Ceci engendre des situations aberrantes, avec des doutes sur l’apport réel de ces dispositifs : frustration du côté des financeurs qui n’atteindront pas leur cœur de cible, et lassitude des collectivités, n’ayant aucune garantie quand elles remplissent un dossier, si elles arrivent à cette étape.
 
 Le travail de recherche d'aides, excessivement chronophage, est susceptible d’accentuer les inégalités entre les collectivités : dans le meilleur des cas, elles vont dédier des fiches de poste à ce duo « veille-candidature », dans le pire des cas, elles renonceront à certaines aides par méconnaissance ou manque de temps. Les aides ne bénéficient alors qu'à celles qui peuvent consacrer des moyens importants au travail de veille, ce qui renforce la fracture territoriale française.
 
@@ -43,12 +44,12 @@ Aides-territoires évite le re-développement de plateformes par chaque porteur 
 
 ## Les premières étapes
 
-Si l’outil a d'abord concerné, dans un premier temps, les aides relatives au développement et à l'aménagement durable dans leurs diverses composantes, aujourd'hui, Aides-territoires répertorie les aides pour toutes les thématiques de projets locaux (transition énergétique, développement économique, mobilité, etc.). De même, la plateforme couvre tous les territoires français, en métropole comme en outre-mer. 
+Si l’outil a d'abord concerné, dans un premier temps, les aides relatives au développement et à l'aménagement durable dans leurs diverses composantes, aujourd'hui, Aides-territoires répertorie les aides pour toutes les thématiques de projets locaux (transition énergétique, développement économique, mobilité, etc.). De même, la plateforme couvre tous les territoires français, en métropole comme en outre-mer.
 
 Aides-territoires suit une logique de "place de marché" structurée selon deux profils d'utilisateurs :
 
-* L’offre (financements, aides en ingénierie, appels à projets) émane de nombreux acteurs : les directions générales des ministères (notamment Cohésion des Territoires et Transition écologique et solidaire) ; les agences placées sous la tutelle de l'Etat (Agence De l’Environnement et de la Maîtrise de l’Énergie, Banque des territoires, Office Français pour la Biodiversité, Agence française de développement) ; les collectivités territoriales porteuses d'aides (Conseils régionaux et départementaux, parcs naturels régionaux, pôles d'équilibre territoriaux) ; les structures locales de l'ingénierie (Directions départementales des territoires, Conseils d'Architecture, d'Urbanisme et de l'​Environnement) ; etc.
-* La demande vient des collectivités et plus particulièrement des agents en charge de la veille sur les aides mais également et de leurs partenaires locaux (associations, établissements publics) et de stuctures accompagnantes (DDT, PETR, etc.)
+* L’offre (financements, aides en ingénierie, appels à projets) émane de nombreux acteurs : les directions générales des ministères (notamment Cohésion des Territoires et Transition écologique et solidaire) ; les agences placées sous la tutelle de l'État (Agence De l’Environnement et de la Maîtrise de l’Énergie, Banque des territoires, Office Français pour la Biodiversité, Agence française de développement) ; les collectivités territoriales porteuses d'aides (Conseils régionaux et départementaux, parcs naturels régionaux, pôles d'équilibre territoriaux) ; les structures locales de l'ingénierie (Directions départementales des territoires, Conseils d'Architecture, d'Urbanisme et de l'​Environnement) ; etc.
+* La demande vient des collectivités et plus particulièrement des agents en charge de la veille sur les aides mais également de leurs partenaires locaux (associations, établissements publics) et de structures accompagnantes (DDT, PETR, etc.)
 
 ## Les perspectives
 

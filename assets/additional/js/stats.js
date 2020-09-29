@@ -1,43 +1,144 @@
 var metrics = [{
   id: 'investigation',
+  future: {
+    2019: 42,
+    2020: 80,
+    2021: 140,
+  }
 },{
-  id: 'construction',
+  id: 'product_launch',
+  future: {
+    2019: 19,
+    2020: 30,
+    2021: 40,
+  }
 },{
-  id: 'alumni',
+  id: 'end',
+  future: {
+    2019: 3,
+    2020: 10,
+    2021: 13,
+  }
 },{
-  id: 'success',
+  id: 'national_impact',
+  future: {
+    2019: 1,
+    2020: 2,
+    2021: 3,
+  }
 },{
-  id: 'people',
+  id: 'agent',
+  future: {
+    2019: 81,
+    2020: 100,
+    2021: 140,
+  }
 }]
 
 var db = {}
 metrics.forEach(function(metric) {
-  metric.incrementDates = []
+  metric.years = {}
   db[metric.id] = metric
 })
 
+function basicDateTest(s) {
+  return s !== "" && s
+}
+
+function getFirstStepDate(startup) {
+  var dates = startup.attributes.phases.reduce(function(list, p) {
+    var candidates = [p.start, p.end]
+    candidates.forEach(function(c) {
+      if (basicDateTest(c)) {
+        list.push(c)
+      }
+    })
+    return list
+  }, [])
+
+  dates.sort()
+  if (dates.length) {
+    return dates[0]
+  }
+}
+
+function get(startup, item) {
+  var obj =  startup.attributes[item.from].find(function(p) { return p.name === item.name})
+  if (obj) {
+    return obj[item.prop]
+  }
+}
+
+function getFirst(startup, sources) {
+  var candidates = sources.map(function(source) {
+    if (typeof source === 'function') {
+      return source(startup)
+    } else if (typeof source === 'string') {
+      return source
+    }
+    return get(startup, source)
+  })
+
+  return candidates.reduce(function(pick, value) {
+    return pick || basicDateTest(value)
+  }, false)
+}
+
+function addValue(container, dt, value) {
+  if (dt) {
+    var year = dt.slice(0, 4)
+    var list = container[year] || []
+    list.push(value)
+    container[year] = list
+  }
+}
+
 var prefix = '/api/v2/'
 $.ajax(prefix + "startups.json").done(function(response) {
-  response.data.forEach(function(startup) {
+  var startups = response.data
+  startups.forEach(function(startup) {
     if (!startup.attributes.phases || !startup.attributes.phases.length) {
       console.warn(startup.id)
       return
     }
 
-    db.investigation.incrementDates.push(startup.attributes.phases[0].start)
+    // Les données sont très incomplètes et disparates
+    // Plusieurs dates candidates sont listées et la première disponible est utilisée
 
-    var steps = ['construction', 'alumni', 'success']
-    steps.forEach(function(step) {
-      const sDate = startup.attributes.phases.reduce(function(date, current) {
-        if (current.start && (current.name === step)) {
-          return current.start
-        }
-        return date
-      }, null)
-      if (sDate) {
-        db[step].incrementDates.push(sDate)
-      }
-    })
+    // Date de la fin de l'investigation d'un problème
+    var investigationDate = getFirst(startup, [
+        { from: 'phases', name: 'investigation', prop: 'end'},
+        { from: 'phases', name: 'investigation', prop: 'start'},
+        getFirstStepDate
+      ]
+    )
+    if (!investigationDate) {
+      console.warn(startup.id)
+    } else {
+      addValue(db.investigation.years, investigationDate, startup.id)
+    }
+
+    // Date du lancement du produit
+    var launchDate = getFirst(startup, [
+        { from: 'events', name: 'product_launch', prop: 'date'},
+        { from: 'phases', name: 'construction', prop: 'start'},
+      ]
+    )
+    addValue(db.product_launch.years, launchDate, startup.id)
+
+    // Date de l'abandon du produit
+    var endDate = getFirst(startup, [
+        { from: 'events', name: 'end', prop: 'date'},
+      ]
+    )
+    addValue(db.end.years, endDate, startup.id)
+
+    // Date du passage à un produit d'impact national
+    var s = getFirst(startup, [
+        { from: 'events', name: 'national_impact', prop: 'date'},
+      ]
+    )
+    addValue(db.national_impact.years, s, startup.id)
   })
 
   $.ajax(prefix + "authors.json").done(function(response) {
@@ -49,130 +150,84 @@ $.ajax(prefix + "startups.json").done(function(response) {
 
       author.missions.reduce(function(done, mission) {
         if (!done && mission.status === 'admin') {
-          db.people.incrementDates.push(mission.start)
+          addValue(db.agent.years, mission.start, author.id)
           return true
         }
         return done
       }, false)
     })
 
-    db.investigation.incrementDates.sort()
-    var today = new Date()
-    var start = new Date(db.investigation.incrementDates[0])
-    var end = new Date(today.getFullYear() + '-12-31')
-    function addDays(date, days) {
-      var result = new Date(date)
-      result.setDate(result.getDate() + days)
-      return result
+    var years = []
+    var end = (new Date()).getFullYear() + 1
+    for (var i = 2013; i<=end; i = i + 1) {
+      years.push(i)
     }
-    var dailyDateList = [start]
-    while(dailyDateList[dailyDateList.length- 1] < end) {
-      dailyDateList.push(addDays(dailyDateList[dailyDateList.length- 1], 1))
-    }
-
-    var days = dailyDateList.map(function(d) { return d.toISOString().slice(0, 10) })
-    var dailyData = days.reduce(function(obj, day) {
-      obj[day] = {
-        date: new Date(day),
-      }
-
-      metrics.forEach(function(metric) {
-        obj[day][metric.id] = 0
-      })
-
-      return obj
-    }, {})
 
     metrics.forEach(function(metric) {
-      metric.incrementDates.forEach(function(s) {
-        if (!dailyData[s]) {
-          console.warn('Missing ' + s)
+      var input = db[metric.id]
+      if (!input) {
+        return
+      }
+      var data = years.map(y => (input.years[y] || []).length)
+      var future = years.map(y => {
+        if (!input.future[y]) {
+          return 0
         }
-        dailyData[s][metric.id] = dailyData[s][metric.id] + 1
+        var v = input.future[y];
+        return v > 0 ? v : 0
       })
-    })
-
-    days.reduce(function(prev, d) {
-      metrics.forEach(function(metric) {
-        prev[metric.id] = prev[metric.id] + dailyData[d][metric.id]
-        dailyData[d][metric.id + 'Cum'] = prev[metric.id]
-      })
-
-      return prev
-    }, metrics.reduce(function(r, metric) {
-      r[metric.id] = 0
-      return r
-    }, {}))
-
-    var years = dailyDateList.reduce(function(accumulator, item) {
-      var year = item.toISOString().slice(0, 4)
-      if (accumulator.yearList.indexOf(year) === -1) {
-        accumulator.yearList.push(year)
-      }
-      return accumulator
-    }, {
-      current: start,
-      yearList: [start.toISOString().slice(0,4)]
-    }).yearList
-
-    var displayedValues = years.reduce(function(results, y) {
-      var next = dailyData[y + '-12-31']
-      var item = {
-        period: y
-      }
-      metrics.forEach(function(metric) {
-        item[metric.id] = next[metric.id + 'Cum'] - (results.prev[metric.id + 'Cum'] || 0)
-      })
-      results.values.push(item)
-      results.prev = next
-
-      return results
-    }, {
-      prev: {},
-      values: []
-    }).values
-
-    var lastYear = years[years.length-2]
-    var currentYear = years[years.length-1]
-    var nextYear = (parseInt(currentYear) + 1).toString()
-
-    var projection = {
-      start: lastYear + '-12-31',
-      current: today.toISOString().slice(0, 10),
-      end: currentYear + '-12-31'
-    }
-
-    var coef = (dailyData[projection.end].date - dailyData[projection.start].date) / (dailyData[projection.current].date - dailyData[projection.start].date)
-    var pCurrent = {
-      period: currentYear + '-proj',
-      label: 'Projection pour toute l’année en cours (' + currentYear + ')',
-    }
-    metrics.forEach(function(metric) {
-      pCurrent[metric.id] = Math.round(coef * (dailyData[projection.current][metric.id + 'Cum'] - dailyData[projection.start][metric.id + 'Cum']))
-    })
-    displayedValues.push(pCurrent)
-
-    var base = displayedValues.find(function(item) { return item.period === lastYear })
-    var current = displayedValues[displayedValues.length-1]
-    var pNext = {
-      period: nextYear + '-proj',
-      label: 'Projection pour l’année prochaine (' + nextYear + ')',
-    }
-    metrics.forEach(function(metric) {
-      pNext[metric.id] =  Math.round(current[metric.id] * current[metric.id] / base[metric.id])
-    })
-    displayedValues.push(pNext)
-
-    metrics.forEach(function(metric) {
-      element = document.getElementById(metric.id)
-      displayedValues.forEach(function(item) {
-        if (!item[metric.id]) {
-          return
+      new Chart(document.getElementById(metric.id), {
+        type: 'bar',
+        data: {
+          labels: years,
+          datasets: [{
+            data: data,
+            label: 'Décompte ', // trailing space to ensure legend complies with French typography rules
+            backgroundColor: '#EF7D29',
+            pointRadius: 0,
+            lineTension: 0.3
+          }, {
+            data: future,
+            label: 'Dernières prévisions ', // trailing space to ensure legend complies with French typography rules
+            backgroundColor: '#f9caa8',
+            pointRadius: 0,
+            lineTension: 0.3
+          }],
+        },
+        options: {
+          scales: {
+            yAxes: [{
+              ticks: {
+                beginAtZero: true
+              }
+            }]
+          },
+          tooltips: {
+            position: 'topLeft',
+            caretSize: 0,
+            callbacks: {
+              footer: function(selection, d) {
+                if (selection[0].datasetIndex == 0) {
+                  var items = input.years[selection[0].xLabel]
+                  if (items.length > 25) {
+                    return items.join(' ').replace(/.{1,40} /g, '$&#').split(' #')
+                  } else {
+                    return items
+                  }
+                }
+              }
+            }
+          }
         }
-        var node = document.createElement('li')
-        element.appendChild(node)
-        node.textContent = (item.label || item.period) + ' : ' + item[metric.id]
       })
     })
   })
 })
+
+Chart.Tooltip.positioners.topLeft = function(elements, eventPosition) {
+    var tooltip = this
+    return {
+        x: 10,
+        y: 10
+    }
+}

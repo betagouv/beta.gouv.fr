@@ -12,6 +12,7 @@ phases:
   - name: investigation
     start: 2019-03-13
   - name: construction
+    start: 2019-03-13
 link: https://aidantsconnect.beta.gouv.fr
 repository: https://github.com/betagouv/Aidants_Connect
 stats: true

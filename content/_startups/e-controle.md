@@ -8,12 +8,12 @@ sponsors:
       domaine_ministeriel: autres
       type: autre
 incubator: dinum
+events:
+  - name: product_launch
+    date: 2019-01-15
 phases:
-  - name: investigation
-    start: 2018-09-03
-    end: 2018-11-01
   - name: construction
-    start: 2018-11-01
+    start: 2018-09-03
     end: 2019-10-01
   - name: acceleration
     start : 2019-10-01

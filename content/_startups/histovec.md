@@ -11,6 +11,8 @@ incubator: lab-mi
 phases:
   - name: investigation
     start: 2018-03-01
+  - name: construction
+    start: 2018-03-01
   - name: acceleration
 link: https://histovec.interieur.gouv.fr
 repository: https://github.com/histovec

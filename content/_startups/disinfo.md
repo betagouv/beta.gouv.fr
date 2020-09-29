@@ -12,6 +12,7 @@ phases:
   - name: investigation
     start: 2019-01-10
   - name: construction
+    start: 2019-01-10
 link: https://disinfo.quaidorsay.fr
 repository: https://github.com/AmbaNum/disinfo.quaidorsay.fr
 stats: true

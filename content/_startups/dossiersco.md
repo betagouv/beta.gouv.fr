@@ -8,9 +8,15 @@ sponsors:
       domaine_ministeriel: education-nat
       type: administration-centrale
 incubator: dinum
+events:
+  - name: end
+    date: 2019-09-15
 phases:
   - name: investigation
     start: 2017-09-01
+    end: 2017-11-30
+  - name: construction
+    start: 2017-11-30
     end: 2019-09-15
   - name: alumni
     start: 2019-09-15

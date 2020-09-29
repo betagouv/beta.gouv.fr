@@ -5,8 +5,13 @@ owner: SGDSN
 owner_type: administration-centrale
 domaine_ministeriel: armees
 incubator: dinum
+events:
+  - name: end
+    date: 2018-12-31
 phases:
   - name: investigation
+    start: 2017-06-01
+  - name: construction
     start: 2017-06-01
   - name: alumni
 link:

@@ -1,15 +1,21 @@
 ---
 title: Place des Entreprises
 mission: 'TPE & PME, vous avez un projet, une difficulté, une question du quotidien ? Service public simple et rapide : vous êtes rappelé par LE conseiller qui peut vous aider.'
-owner: 'Ministère de l’Économie (DGE) / Ministère du Travail (DGEFP)'
+owner: Ministère de l'économie, des finances et de la relance - Direction générale des entreprises (DGE) / Ministère du Travail (DGEFP)
 sponsors: 
     - name: Direction générale des entreprises
       shortname: DGE
       domaine_ministeriel: bercy
       type: administration-centrale
+    - name: Délégation générale à l'emploi et à la formation professionnelle
+      shortname: DGEFP
+      domaine_ministeriel: travail
+      type: administration-centrale
 incubator: dinum
 phases:
   - name: investigation
+    start: 2017-04-03
+  - name: construction
     start: 2017-04-03
   - name: acceleration
 link: https://place-des-entreprises.beta.gouv.fr

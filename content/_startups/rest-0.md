@@ -10,8 +10,10 @@ sponsors:
 incubator: preincubation
 phases:
   - name: investigation
-    start: 2019-01-12
-  - name: investigation
+    start: 2019-12-01
+    end: 2020-06-30
+  - name: alumni
+    start: 2020-06-30
 link:
 repository: 
 stats: false 

@@ -11,6 +11,8 @@ incubator: mtes
 phases:
   - name: investigation
     start: 2018-10-01
+  - name: construction
+    start: 2018-10-01
   - name: acceleration
 link: http://resorption-bidonvilles.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/action-bidonvilles

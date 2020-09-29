@@ -8,6 +8,9 @@ sponsors:
       domaine_ministeriel: education-nat
       type: administration-centrale
 incubator: dinum
+events:
+  - name: end
+    date: 2017-06-30
 phases:
   - name: investigation
     start: 2015-12-01

@@ -11,6 +11,8 @@ incubator: pole-emploi
 phases:
   - name: investigation
     start: 2015-05-01
+  - name: construction
+    start: 2015-05-01    
   - name: success
 link: https://labonneformation.pole-emploi.fr
 repository: https://git.beta.pole-emploi.fr/open-source/labonneformation

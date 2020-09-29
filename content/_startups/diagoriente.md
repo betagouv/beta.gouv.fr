@@ -11,11 +11,13 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2018-06-06
+  - name: construction
+    start: 2018-06-06
   - name: acceleration
 link: https://diagoriente.beta.gouv.fr/
 repository: https://github.com/betagouv/diagoriente-front
 stats: true
-stats_url: https://diagoriente.beta.gouv.fr/statistiques
+stats_url: https://diagoriente.beta.gouv.fr/statistiques/
 contact: pascal.chaumette@id6tm.org
 redirect_from:
   - /startups/trouve-ta-voie

@@ -1,7 +1,7 @@
 ---
 roles: un·e lead développeur·se
 techno: Fullstack Rails
-open: true
+open: false
 ---
 
 beta.gouv.fr accompagne la Startup d’Etat www.monstagedetroisieme.fr (en route vers monstage.gouv.fr).
