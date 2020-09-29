@@ -6,7 +6,7 @@ mapping:
   "mission":
     type:      str
     required:  yes
- "owner":	  "sponsors":
+ "owner":
     type:      str
  "sponsors":
     type:      seq
