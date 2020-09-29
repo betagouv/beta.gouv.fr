@@ -7,7 +7,7 @@ sponsors:
     - name: Agence nationale de la cohésion des territoires
       acronym: ANCT
       domaine_ministeriel: territoires
-      type: opérateur
+      type: operateur
 phases:
   - name: investigation
     start: 2018-12-01

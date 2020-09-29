@@ -2,12 +2,12 @@
 title: Plante & Moi
 mission: Augmenter la présence de la nature en ville
 owner: DINUM
+incubator: dinum
 sponsors: 
     - name: Direction interministérielle du numérique
       acronym: DINUM
       domaine_ministeriel: environnement
       type: administration-centrale
-domaine_ministeriel: environnement
 phases:
   - name: investigation
     start: 2016-10-01
