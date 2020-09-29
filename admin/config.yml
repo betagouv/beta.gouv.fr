@@ -82,7 +82,10 @@ collections:
       - label: Objectif
         name: mission
         widget: string
-      - label: Administrations partenaires
+      - label: Nom d'affichage d'administration partenaire
+        name: owner	       
+        widget: string
+      - label: Détails administrations partenaires 
         name: sponsors
         widget: list
         collapsed: false
