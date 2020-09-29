@@ -2,8 +2,11 @@
 title: API Drones
 mission: Une meilleure connaissance du ciel pour plus de sécurité et d'innovation
 owner: SGDSN
-owner_type: administration-centrale
-domaine_ministeriel: armees
+sponsors: 
+    - name: Secrétariat général de la défense et de la sécurité nationale
+      acronym: SGDSN
+      domaine_ministeriel: spm
+      type: administration-centrale
 incubator: dinum
 events:
   - name: end
