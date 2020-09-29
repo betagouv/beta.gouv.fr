@@ -7,8 +7,7 @@ sponsors:
       acronym: PE
       domaine_ministeriel: travail
       type: operateur
-  - name: Action Logement
-      acronym:territoires
+    - name: Action Logement
       domaine_ministeriel: travail
       type: operateur     
 incubator: pole-emploi
