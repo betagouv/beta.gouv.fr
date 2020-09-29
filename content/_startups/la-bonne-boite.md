@@ -6,7 +6,7 @@ sponsors:
     - name: Pôle Emploi
       shortname: PE
       domaine_ministeriel: travail
-      type: SD # operateur
+      type: operateur
 incubator: pole-emploi
 events:
   - name: national_impact

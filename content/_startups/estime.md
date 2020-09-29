@@ -7,7 +7,7 @@ sponsors:
     - name: Pôle Emploi
       shortname: PE
       domaine_ministeriel: travail
-      type: SD # operateur
+      type: operateur
 incubator: pole-emploi
 contact: juliette.fracchiolla-hurstel@pole-emploi.fr
 phases:

@@ -6,11 +6,11 @@ sponsors:
     - name: Pôle Emploi
       shortname: PE
       domaine_ministeriel: travail
-      type: SD # operateur
+      type: operateur
   - name: Action Logement
       shortname:territoires
       domaine_ministeriel: travail
-      type: SD # operateur     
+      type: operateur     
 incubator: pole-emploi
 phases:
   - name: investigation

@@ -6,7 +6,7 @@ sponsors:
     - name: directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi
       shortname: DIRECCTE
       domaine_ministeriel: travail
-      type: SD # Service déconcentré
+      type: administration-centrale
 incubator: sgmas
 phases:
   - name: investigation
