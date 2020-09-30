@@ -83,7 +83,7 @@ collections:
         name: mission
         widget: string
       - label: Nom affiché pour l'administration partenaire
-        name: owner	       
+        name: owner
         widget: string
       - label: Détails administrations partenaires 
         name: sponsors
