@@ -6,7 +6,7 @@ avatar:
 link:
 missions:
   - start: 2019-11-04
-    end: 2020-09-30
+    end: 2020-12-31
     status: independent
     employer: Octo
 startups:

@@ -6,7 +6,7 @@ avatar: null
 link: https://raphodn.github.io
 missions:
   - start: 2020-01-08
-    end: 2020-09-30
+    end: 2020-12-31
     status: independent
     employer: octo
 startups:
