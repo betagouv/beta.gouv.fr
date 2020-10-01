@@ -3,7 +3,7 @@ roles: Une développeuse ou un développeur
 startup: place-des-entreprises
 techno: Ruby on Rails
 junior: false
-open: true
+open: false
 title: Place des entreprises cherche un·e dév Ruby on Rails expérimenté
 ---
 
