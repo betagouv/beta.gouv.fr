@@ -9,7 +9,7 @@ Si c'est une fiche de membre :
 - [ ] Les fiches auteurs sont dans content/_authors/
 Si c'est une fiche produit ou une offre de recrutement : 
 - [ ] Le problème exprimé est compréhensible par lecteur externe à la communauté
-- [ ] Les recommandations de contribution sont prise en compte https://doc.incubateur.net/communaute/contribuer/recommandations
+- [ ] Les recommandations de contribution sont prises en compte https://doc.incubateur.net/communaute/contribuer/recommandations
   - [ ] Éviter le jargon
   - [ ] Phrases neutres en genre
   
