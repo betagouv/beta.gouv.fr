@@ -1,8 +1,15 @@
-Merci de contribuer au site de beta.gouv.fr ! 
-
 🙂
 
-Vous pouvez
-- [ ] Effacez les lignes d'explications ci-dessus
-- [ ] Expliquer les modifications pour faciliter la relecture
-- [ ] Lancer un appel à review sur le channel #incubateur-site sur Slack
+Pour la review :
+- [ ] Les tests passent (avec un check vert)
+Si c'est un fiche de membre : 
+- [ ] Les commentaires ont été effacé du fichier
+- [ ] Les dates de fin correspondent à un contrat, convention, budget validé
+- [ ] Les dates de fin sont après les dates de début
+- [ ] Les fiches auteurs sont dans content/_authors/
+Si c'est fiche produit ou une offre de recrutement : 
+- [ ] La problème exprimé est compréhensible par lecteur externe à la communauté
+- [ ] Les recommandations de contribution sont prise en compte https://doc.incubateur.net/communaute/contribuer/recommandations
+  - [ ] Éviter le jargon
+  - [ ] Phrases neutres en genre
+  
