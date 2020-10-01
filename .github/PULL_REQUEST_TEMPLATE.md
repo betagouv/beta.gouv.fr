@@ -3,7 +3,7 @@
 Pour la review :
 - [ ] Les tests passent (avec un check vert)
 Si c'est une fiche de membre : 
-- [ ] Les commentaires ont été effacé du fichier
+- [ ] Les commentaires ont été effacés du fichier
 - [ ] Les dates de fin correspondent à un contrat, convention ou budget validé
 - [ ] Les dates de fin sont après les dates de début
 - [ ] Les fiches auteurs sont dans content/_authors/
