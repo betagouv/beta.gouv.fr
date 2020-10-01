@@ -13,3 +13,6 @@ Si c'est une fiche produit ou une offre de recrutement :
   - [ ] Éviter le jargon
   - [ ] Phrases neutres en genre
   
+
+:warning: Pour une simple mise à jour de dates de mission, tu peux merger toi-même sans relecture (tu auras juste à attendre 1-2 mins pour les tests passent)  
+PS : Ne t'attends pas à ce qu'on le fasse pour toi !
