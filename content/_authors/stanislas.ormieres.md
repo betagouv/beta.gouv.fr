@@ -18,4 +18,4 @@ startups: # ta ou tes startups actuelles
     - psij # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
 ---
 
-Écrit des autobiographies percutantes en moins de 200 caractères depuis 1972.
+Développeur Fullstack depuis 2005, JavaScript-only depuis 2013, Freelance depuis 2016. Vue.js advocate. Acrobate et cinéphage.
