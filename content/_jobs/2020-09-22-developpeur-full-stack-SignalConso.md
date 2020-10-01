@@ -47,7 +47,7 @@ Plus qu'un exécutant vous êtes motivé par la vision produit et souhaitez vous
 ## Modalités
 
 - Poste ouvert pour le statut d'indépendant.
-- Possibilité d’un temps partiel (60 ou 80%).
+- Possibilité d’un temps partiel.
 - Télétravail bienvenu. Prévoir un déplacement par mois sur Paris pour une réunion d’équipe.
 - Démarrage ASAP.
 
@@ -64,4 +64,4 @@ Une équipe très motivée et composée de:
 
 ## Vous souhaitez rejoindre la startup SignalConso ?
 
-Envoyez votre LinkedIn / CV / GitHub sous la forme que vous souhaitez à [julien.raynaud@beta.gouv.fr](mailto:julien.raynaud@beta.gouv.fr) copie [jerome.rivals@beta.gouv.fr](mailto:jerome.rivals@beta.gouv.fr) et [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr)
+Envoyez votre LinkedIn / CV / GitHub sous la forme que vous souhaitez à [julien.rayneau@beta.gouv.fr](mailto:julien.rayneau@beta.gouv.fr) copie [jerome.rivals@beta.gouv.fr](mailto:jerome.rivals@beta.gouv.fr) et [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr)
