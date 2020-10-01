@@ -8,6 +8,9 @@ phases:
     start: 2019-06-01
   - name: construction
     start: 2019-06-01
+events:
+  - name: end
+    date: 2020-03-13
 link:
 stats: false
 contact: giulia.reboa@jscs.gouv.fr
