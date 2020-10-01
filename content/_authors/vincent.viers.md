@@ -8,7 +8,7 @@ missions:
   - start: 2020-10-19
     end: 2021-01-19
     status: independent
-    employer:
+    employer: octo
 startups:
     - signaux-faibles
 previously:
