@@ -2,9 +2,9 @@
 
 Pour la review :
 - [ ] Les tests passent (avec un check vert)
-Si c'est un fiche de membre : 
+Si c'est une fiche de membre : 
 - [ ] Les commentaires ont été effacé du fichier
-- [ ] Les dates de fin correspondent à un contrat, convention, budget validé
+- [ ] Les dates de fin correspondent à un contrat, convention ou budget validé
 - [ ] Les dates de fin sont après les dates de début
 - [ ] Les fiches auteurs sont dans content/_authors/
 Si c'est fiche produit ou une offre de recrutement : 
