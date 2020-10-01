@@ -8,11 +8,12 @@ missions:
     status: admin
     employer: dinum
   - start: 2017-10-02
-    end: 2020-12-31
+    end: 2021-01-31
     status: independent
-startups:
+previously:
     - mon-entreprise
     - lotocar
+startups:
     - ecolab
 ---
 

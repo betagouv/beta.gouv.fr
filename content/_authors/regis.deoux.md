@@ -7,4 +7,6 @@ missions:
     end: 2020-10-31
     status: service
     employer: CGI
+startups:
+    - proconnect
 ---
