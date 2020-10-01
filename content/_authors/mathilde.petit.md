@@ -8,4 +8,5 @@ missions:
     status: independent
 startups:
     - peps
+    - cartobio
 ---

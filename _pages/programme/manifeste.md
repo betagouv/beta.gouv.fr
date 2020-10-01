@@ -12,7 +12,7 @@ additional_css:
 > ### Les **besoins des utilisateurs** sont prioritaires sur les besoins de l’administration
 > Que ce soient des usagers (citoyens, entreprises, associations, etc) ou des agents publics, l’objectif premier est de **construire un service utile et facile à utiliser**, qui résolve efficacement un problème ou qui contribue à la mise en oeuvre d’une politique publique. Le choix des priorités de développement du service est donc guidé par les retours de ses utilisateurs et non par les besoins de la structure.
 >
-> ### L’équipe travaille **sans préjuger à l'avance du résultat final** et progresse en se confrontant le plus rapidement possible à de premiers utilisateurs
+> ### L’équipe travaille **sans préjuger à l'avance du résultat final** et n'est pilotée que par **la mesure de l'impact**. Elle progresse en se confrontant le plus rapidement possible à de premiers utilisateurs
 >  Dans un premier temps, la nature et l'étendue des besoins des utilisateurs ne sont pas déterminées avec précision. L’équipe lance rapidement une première version fonctionnelle du service de façon à tester son utilité et à l’ajuster selon les retours du terrain par des améliorations successives, appelées « itérations » ; le service, imparfait au départ, s’améliore en continu pour élargir progressivement le périmètre couvert et maximiser son impact. En particulier, **l'équipe ne suit jamais de cahier des charges**.
 >
 > ### Le mode de gestion de l’équipe repose sur la **confiance**.
