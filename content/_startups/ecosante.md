@@ -2,6 +2,11 @@
 title: Écosanté
 mission: Réduire l’exposition aux facteurs environnementaux nocifs pour la santé
 owner: Ministère de la Santé - Ministère de la Transition Écologique et Solidaire
+sponsors:
+    - name: Direction generale de la sante
+      acronym: DGS
+      domaine_ministeriel: affaires-sociales
+      type: administration-centrale
 incubator: dinum
 link: https://betagouv.github.io/ecosante/index.html
 repository: null

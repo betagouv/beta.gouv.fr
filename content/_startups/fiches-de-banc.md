@@ -2,6 +2,11 @@
 title: Fiches de banc
 mission: Augmenter la productivité du traitement des amendements dans les cabinets ministériels
 owner: DINUM
+sponsors: 
+    - name: Direction interministérielle du numérique
+      acronym: DINUM
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
 incubator: dinum
 events:
   - name: end
@@ -12,10 +17,11 @@ phases:
   - name: construction
     start: 2015-01-12
   - name: alumni
+    start: 2016-01-09
 link:
 repository: https://github.com/betagouv/fiches-de-banc
 stats: false
-contact: matti.schneider@beta.gouv.fr
+contact: contact@beta.gouv.fr
 ---
 
 Une application web permettant d'émettre des avis sur les amendements déposés à l'Assemblée Nationale, et de répartir les réponses parmi plusieurs collaborateurs.

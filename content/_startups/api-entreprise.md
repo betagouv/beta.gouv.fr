@@ -2,6 +2,11 @@
 title: API Entreprise
 mission: Récupérer les données des entreprises
 owner: DINUM
+sponsors: 
+    - name: Direction interministérielle du numérique
+      acronym: DINUM
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
 incubator: apigouv
 phases:
   - name: investigation

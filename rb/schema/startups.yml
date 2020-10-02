@@ -8,7 +8,45 @@ mapping:
     required:  yes
   "owner":
     type:      str
-    required:  yes
+  "sponsors":
+    type:      seq
+    sequence:
+        - type:      map
+          mapping:
+            "name":
+              type:      str
+              required:  yes
+            "acronym":
+              type:      str
+            "type":
+              type:      str
+              enum:
+                - administration-centrale
+                - service-deconcentre
+                - operateur
+                - securite-sociale
+                - collectivite-territoriale
+                - autre
+            "domaine_ministeriel":
+              type:      str
+              enum:
+                - affaires-etrangeres
+                - affaires-sociales
+                - agriculture
+                - armees
+                - bercy
+                - culture
+                - education-nat
+                - enseignement-sup
+                - environnement
+                - interieur
+                - outre-mer
+                - sante
+                - spm # Service du premier ministre
+                - sport
+                - travail
+                - territoires
+                - autres
   "events":
     type:      seq
     sequence:

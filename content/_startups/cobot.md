@@ -2,6 +2,11 @@
 title: Cobot
 mission: Mettre les petites contributions numériques au service de l'intérêt général
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
+sponsors:
+    - name: Direction generale des Infrastructures, des Transports et de la Mer
+      acronym: DGITM
+      domaine_ministeriel: environnement 
+      type: administration-centrale
 incubator: mtes
 events:
   - name: end
