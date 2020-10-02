@@ -5,7 +5,7 @@ github: Zekdar
 missions:
   - start: 2020-10-01
     end: 2021-10-01
-    status: en cours
+    status: independant
     employer: HAIRAPIAN I/O
 startups:
     - potentiel
