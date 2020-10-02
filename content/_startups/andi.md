@@ -2,6 +2,11 @@
 title: ANDi
 mission: Faciliter l'immersion professionnelle des personnes en situation de handicap
 owner: Caisse des dépôts 
+sponsors: 
+    - name: Caisse des dépôts et consignations
+      acronym: Caisse des dépôts
+      domaine_ministeriel: autres
+      type: autre
 incubator: dinum
 events:
   - name: end

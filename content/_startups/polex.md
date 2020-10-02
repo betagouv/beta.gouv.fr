@@ -2,7 +2,12 @@
 title: Polex
 mission: Détecter et suivre les fraudes à l’examen du permis de conduire
  
-owner: Ministère de l'Intérieur
+owner: Délégation à la sécurité routière
+sponsors: 
+    - name: Délégation à la sécurité routière
+      acronym: DSR
+      domaine_ministeriel: interieur
+      type: administration-centrale
 incubator: lab-mi
 phases:
   - name: investigation

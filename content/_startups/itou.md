@@ -4,6 +4,14 @@ mission: La réussite pour tous
 owner: la Délégation générale à l’emploi et à la formation professionnelle
   (DGEFP) & Pôle emploi, appuyé par le Haut-commissariat à l'inclusion dans
   l'emploi et à l'engagement des entreprises
+sponsors: 
+    - name: Délégation générale à l'emploi et à la formation professionnelle
+      acronym: DGEFP
+      domaine_ministeriel: travail
+      type: administration-centrale
+    - name: Pôle emploi
+      domaine_ministeriel: travail
+      type: operateur
 incubator: dinum
 link: https://inclusion.beta.gouv.fr
 repository: http://github.com/betagouv/itou
