@@ -3,9 +3,12 @@ title: geo.data.gouv.fr
 mission: Trouver facilement les données géographiques dont vous avez besoin
 owner: Etalab
 incubator: dinum
-status: alumni
-start: 2015-01-01
-end:
+phases:
+  - name: investigation
+    start: 2015-01-01
+  - name: construction
+    start: 2015-01-01
+  - name: alumni
 link: https://geo.data.gouv.fr
 repository: https://github.com/etalab/geo.data.gouv.fr
 stats: false

@@ -3,8 +3,11 @@ title: Fabrique à chatbots
 mission: Automatiser la conception de chatbots
 owner: Ministère des Armées
 incubator: fabnumdef
-status: construction
-start: 2020-02-01
+phases:
+  - name: investigation
+    start: 2020-02-01
+  - name: construction
+    start: 2020-05-01
 stats: false
 contact: frederic.bardolle@def.gouv.fr
 ---

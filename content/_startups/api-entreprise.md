@@ -3,9 +3,12 @@ title: API Entreprise
 mission: Récupérer les données des entreprises
 owner: DINUM
 incubator: apigouv
-status: alumni
-start: 2014-01-01
-end:
+phases:
+  - name: investigation
+    start: 2014-01-01
+  - name: construction
+    start: 2014-01-01
+  - name: alumni
 link: https://entreprise.api.gouv.fr/
 repository:
 stats: true

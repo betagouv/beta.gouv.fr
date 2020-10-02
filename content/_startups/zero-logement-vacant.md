@@ -3,9 +3,12 @@ title: Zéro logement vacant
 mission: Faciliter la remobilisation des logements vacants par les collectivités
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: investigation
-start: 2020-03-15
-end:
+phases:
+  - name: investigation
+    start: 2020-03-15
+    end: 2020-06-30
+  - name: construction
+    start: 2020-07-03
 link: 
 repository: 
 stats: false

@@ -3,13 +3,15 @@ title: Peps
 mission: Faciliter la transition du modèle agricole grâce au partage d'expériences entre agriculteurs
 owner: Ministère de l'Agriculture et de l'Alimentation - Ministère de la Transition Écologique et Solidaire
 incubator: dinum
-status: construction
-start: 2019-05-13 
-end: 
-link: 
+phases:
+  - name: investigation
+    start: 2019-05-13 
+  - name: construction
+    start: 2019-09-01 
+link: https://www.peps.beta.gouv.fr/
 repository: https://github.com/betagouv/peps
-stats: false 
-stats_url: 
+stats: true 
+stats_url: https://peps-metabase.cleverapps.io/public/dashboard/00536261-3e78-4d92-aa9b-a5996c5bf8fb
 contact: peps@beta.gouv.fr
 ---
 ## Le constat

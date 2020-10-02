@@ -3,9 +3,18 @@ title: Fluctu@t
 mission:  Aider au développement du transport fluvial en France
 owner: Ministère de la transition écologique et solidaire
 incubator: mtes
-status: alumni
-start: 2018-11-26
-end: 2019-09-01
+events:
+  - name: end
+    date: 2019-09-01
+phases:
+  - name: investigation
+    start: 2018-09-30
+    end: 2018-11-26
+  - name: construction
+    start: 2018-11-26
+    end: 2019-09-01
+  - name: alumni
+    start: 2019-09-01
 link:
 repository:
 stats: false

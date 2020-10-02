@@ -2,15 +2,17 @@
 title: Entreprises.bzh
 mission: Assurer le suivi des demandes des entreprises entre les différents partenaires économiques régionaux
 owner: Région Bretagne
-incubator: dinsic 
-status: alumni
-start: 2019-10-21
-end: 
+incubator: anct
+phases:
+  - name: investigation
+    start: 2019-10-21
+    end: 2020-01-31
+  - name: alumni
 link:
 repository: 
 stats: false 
 stats_url: 
-contact: preincubation@beta.gouv.fr
+contact: incubateur@anct.gouv.fr
 ---
 
 ## Problème visé :

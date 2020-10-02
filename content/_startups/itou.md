@@ -1,15 +1,22 @@
 ---
 title: Itou
 mission: La réussite pour tous
-owner: la Délégation générale à l’emploi et à la formation professionnelle (DGEFP) & Pôle emploi, appuyé par le Haut-commissariat à l'inclusion dans l'emploi et à l'engagement des entreprises
+owner: la Délégation générale à l’emploi et à la formation professionnelle
+  (DGEFP) & Pôle emploi, appuyé par le Haut-commissariat à l'inclusion dans
+  l'emploi et à l'engagement des entreprises
 incubator: dinum
-status: construction
-start: 2019-06-10 # date au format ISO (AAAA-MM-DD)
-end: # laisser vide
 link: https://inclusion.beta.gouv.fr
 repository: http://github.com/betagouv/itou
-stats: true 
 contact: contact@inclusion.beta.gouv.fr
+stats: true
+events: []
+phases:
+  - name: investigation
+    start: 2019-06-10
+  - name: construction
+    start: 2019-06-10
+  - name: acceleration
+    start: 2020-07-10
 ---
 
 

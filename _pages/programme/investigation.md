@@ -11,7 +11,7 @@ additional_css:
 
 ## Fonctionnement
 
-Pendant environ 9 semaines et avec l’accompagnement d’un mentor expérimenté, beta.gouv.fr collabore avec votre administration afin d’investiguer un problème et vérifier qu’il est assez universel et criant pour justifier un investissement dans un service numérique. Au terme de cette phase, appelée “**investigation**”, les apprentissages de l'équipe en charge de l'investigation sont présentés durant un **comité de lancement** pour que les décideuses et décideurs publics aient tous les éléments en main afin de savoir s’il convient ou non de poursuivre les travaux. Toutes les investigations n'aboutissent pas sur le lancement de la construction d'un service numérique avec beta.gouv.fr. 
+Pendant environ 9 semaines et avec l’accompagnement d’un mentor expérimenté, beta.gouv.fr collabore avec votre administration afin d’investiguer un problème et vérifier qu’il est assez universel et criant pour justifier un investissement dans un service numérique. Au terme de cette phase, appelée “**investigation**”, les apprentissages de l'équipe en charge de l'investigation sont présentés durant un **comité de lancement** pour que les décideuses et décideurs publics aient tous les éléments en main afin de savoir s’il convient ou non de poursuivre les travaux et de passer en [phase de construction](https://beta.gouv.fr/approche/construction). Toutes les investigations n'aboutissent pas sur le lancement de la construction d'un service numérique avec beta.gouv.fr. 
 
 Ressource utile : [**modèle de grille d'évaluation**](https://beta.gouv.fr/content/docs/grille_lancement.pdf) utilisé en fin de phase d'investigation. 
 

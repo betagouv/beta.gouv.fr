@@ -9,22 +9,31 @@ mapping:
   "owner":
     type:      str
     required:  yes
-  "status":
-    type:      str
-    required:  yes
-  "start":
-    required:  yes
-    type:      any
-    assert:    "val.is_a?(Date) || val.nil? || (val.is_a?(String) && (val.empty? || val.match?(/^\d{4}-\d{2}-\d{2}$/)))"
-  "product_launch_date":
-    type:      any
-    assert:    "val.is_a?(Date) || val.nil? || (val.is_a?(String) && (val.empty? || val.match?(/^\d{4}-\d{2}-\d{2}$/)))"
-  "national_scale_date":
-    type:      any
-    assert:    "val.is_a?(Date) || val.nil? || (val.is_a?(String) && (val.empty? || val.match?(/^\d{4}-\d{2}-\d{2}$/)))"
-  "end":
-    type:      any
-    assert:    "val.is_a?(Date) || val.nil? || (val.is_a?(String) && (val.empty? || val.match?(/^\d{4}-\d{2}-\d{2}$/)))"
+  "events":
+    type:      seq
+    sequence:
+        - type:      map
+          mapping:
+            "name":
+              type:      str
+              assert:    "['product_launch','commitee','other','national_impact','end'].include?(val)"
+            "date":
+              type:      date
+            "comment":
+              type:      str
+  "phases":
+    type:      seq
+    sequence:
+        - type:      map
+          mapping:
+            "start":
+              type:      date
+            "end":
+              type:      any
+              assert:    "val.nil? || val.is_a?(Date) || (val.is_a?(String) && val.empty?)"
+            "name":
+              type:      str
+              assert:    "['investigation','construction','acceleration','success','transfer','alumni'].include?(val)"
   "incubator":
     type:      str
     required:  yes

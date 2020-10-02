@@ -1,6 +1,6 @@
 ---
 fullname: Jonathan Pichot # penser à modifier le nom du fichier ci-dessus en prenom.nom.md !
-role: co-animateur de l'incubateur de l'ANCT
+role: co-animateur de l'Incubateur des Territoires
 github: pichot
 avatar: # optionnel, voir ci-dessous
 # En premier, on va regarder si tu as mis une image au format prenom.nom dans /img/authors/
@@ -15,4 +15,4 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     employer: ANCT # si applicable, le nom de ton administration, SSII, etc.
 ---
 
-🇫🇷🇺🇸. Ancien de [NYC Planning Labs](https://labs.planning.nyc.gov/), [Code for America Brigade](https://brigade.codeforamerica.org/).
+Ancien de [NYC Planning Labs](https://labs.planning.nyc.gov/), [Code for America Brigade](https://brigade.codeforamerica.org/). 🇫🇷🇺🇸

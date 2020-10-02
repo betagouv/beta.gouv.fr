@@ -3,9 +3,10 @@ title: Cons'eau
 mission: Améliorer la gestion des sécheresses par la maîtrise des prélèvements 
 owner: Ministère de la transition écologique et solidaire
 incubator: mtes
-status: investigation
-start: 2020-03-15
-end:
+phases:
+  - name: investigation
+    start: 2020-03-15
+  - name: investigation
 link:
 repository:
 stats: false

@@ -1,13 +1,13 @@
 ---
 fullname: Mathieu Gens
-role: Intrapreneur
+role: Directeur opérationnel
 missions:
   - start: 2017-10-16
-    end: 2020-08-30
+    end: 2022-08-31
     status: admin
-    employer: mef-calaisis
+    employer: DGE
 startups:
-    - place-des-entreprises
+  - place-des-entreprises
 ---
 
 Ceux et celles qui sont assez fous pour croire qu’ils peuvent changer le développement éco., sont en réalité ceux qui le font.

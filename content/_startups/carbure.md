@@ -3,9 +3,12 @@ title: Carbure
 mission: Gestion centralisée des flux de biocarburants
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: construction
-start: 2020-01-01
-end: 
+phases:
+  - name: investigation
+    start: 2019-10-01
+    end: 2019-11-30
+  - name: construction
+    start: 2019-11-30
 link: https://carbure.beta.gouv.fr
 repository: https://github.com/MTES-MCT/carbure
 stats: false
@@ -36,7 +39,7 @@ Nous avons donc un système archaïque et particulièrement lourd à gérer pour
 
 ## Le produit : CarbuRe
 
-CarbuRe est plateforme permettant de suivre l’ensemble des flux de biocarburants et de relier directement et simplement les flux physiques aux flux administratifs. Cela permet de fiabiliser les données, sécuriser les approvisionnements et diminuer les risques de fraudes.
+CarbuRe est une plateforme permettant de suivre l’ensemble des flux de biocarburants et de relier directement et simplement les flux physiques aux flux administratifs. Cela permet de fiabiliser les données, sécuriser les approvisionnements et diminuer les risques de fraudes.
 
 
 ## Les premières étapes

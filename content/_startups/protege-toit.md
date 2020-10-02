@@ -3,9 +3,12 @@ title: Protège-Toit 🏡 (violences conjugales)
 mission: Améliorer la prise en charge d'urgence pour les victimes de violences conjugales
 owner: Département des Côtes d'Armor
 incubator: preincubation
-status: investigation
-start: 2019-01-12
-end: 
+phases:
+  - name: investigation
+    start: 2019-12-01
+    end: 2020-06-30
+  - name: alumni
+    start: 2020-06-30
 link: 
 repository: 
 stats: false 

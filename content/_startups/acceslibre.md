@@ -3,15 +3,15 @@ title: Acceslibre
 mission: La plateforme collaborative pour l’accessibilité
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: construction
 link: https://acceslibre.beta.gouv.fr
 repository: https://github.com/MTES-MCT/acceslibre
 contact: julia.zucker@developpement-durable.gouv.fr
 stats: true
-start: 2019-11-01
-product_launch_date: ""
-national_scale_date: ""
-end: null
+phases:
+  - name: investigation
+    start: 2019-11-01
+  - name: construction
+    start: 2019-11-01
 redirect_from:
     - /startups/access4all
 ---

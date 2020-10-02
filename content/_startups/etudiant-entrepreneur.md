@@ -3,9 +3,15 @@ title: Étudiant entrepreneur
 mission: Faciliter l'accès au statut étudiant entrepreneur et à ses bénéfices
 owner: Ministère de l'Enseignement supérieur
 incubator: dinum
-status: alumni
-start: 2016-06-23
-end:
+events:
+  - name: end
+    date: 2017-12-31
+phases:
+  - name: investigation
+    start: 2016-06-23
+  - name: construction
+    start: 2016-06-23
+  - name: alumni
 link: https://snee.esr.gouv.fr/
 repository: https://github.com/betagouv/etudiant-entrepreneur
 stats: false

@@ -3,12 +3,15 @@ title: TuMePlay
 mission: Améliorer la prévention sexuelle pour les jeunes de moins de 25 ans
 owner: Ministère des Affaires sociales
 incubator: sgmas
-status: construction
-start: 2019-07-01
-end:
+phases:
+  - name: investigation
+    start: 2019-07-01
+  - name: construction
+    start: 2019-09-01
+  - name: acceleration
 link: 
 repository:
-stats: true
+stats: false
 contact: yowa.muzadi@fabrique.social.gouv.fr
 ---
 

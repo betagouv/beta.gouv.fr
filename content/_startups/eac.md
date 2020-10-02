@@ -3,9 +3,18 @@ title : Plateforme EAC
 mission: Augmenter le nombre d'actions artistiques et culturelles pour les jeunes dans les établissements scolaires
 owner: Ministère de la Culture
 incubator: dinum
-status: alumni
-start: 2018-04-01
-end:
+events:
+  - name: end
+    date: 2019-12-01
+phases:
+  - name: investigation
+    start: 2018-04-01
+    end: 2018-07-01
+  - name: construction
+    start: 2018-07-01
+    end: 2019-12-01
+  - name: alumni
+    start: 2019-12-01
 link: https://education-artistique-culturelle.fr
 repository: https://github.com/betagouv/eac
 stats: false

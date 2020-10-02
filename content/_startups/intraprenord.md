@@ -2,15 +2,15 @@
 title: Intraprenord
 mission: Permettre aux usagers de trouver le bon interlocuteur au sein du département
 owner: Département du Nord
-incubator: dinsic 
-status: investigation
-start: 2020-01-14
-end: 
+incubator: anct
+phases:
+  - name: investigation
+    start: 2020-01-14
 link:
 repository: 
 stats: false 
 stats_url: 
-contact: preincubation@beta.gouv.fr
+contact: incubateur@anct.gouv.fr
 ---
 
 ## Problème visé :

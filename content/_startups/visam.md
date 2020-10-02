@@ -3,9 +3,12 @@ title: Visam
 mission: Fluidifier le dialogue social de la  « Direction des ressources humaines » de l’État.
 owner: DGAFP
 incubator: dinum
-status: construction
-start: 2020-02-20
-end:
+phases:
+  - name: investigation
+    start: 2019-12-01
+    end: 2020-01-30
+  - name: construction
+    start: 2020-01-30
 link:
 repository: https://github.com/betagouv/visam
 stats: false
