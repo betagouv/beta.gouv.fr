@@ -66,7 +66,7 @@ jobs:
       run: bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
 
     - name: HTML5 Validator
-      uses: Cyb3r-Jak3/html5validator-action@master
+      uses: Cyb3r-Jak3/html5validator-action@v0.4.2
       with:
         root: _site
         extra: --ignore 'Element "img" is missing required attribute "src"'
