@@ -36,3 +36,10 @@ mapping:
     type:      seq
     sequence:
         - type:      any
+  "badges":
+    type:      seq
+    sequence:
+        - type:
+            type:      str
+            enum:
+              - segur
