@@ -14,6 +14,7 @@ startups:
   - lapins
 previously:
   - codedutravail
+badges: segur
 ---
 
 Python, Ruby on Rails et JS
