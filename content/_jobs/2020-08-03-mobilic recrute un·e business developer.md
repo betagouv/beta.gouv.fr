@@ -1,7 +1,7 @@
 ---
 roles: un ou une bizdev
 startup: mobilic
-open: false 
+open: true 
 title: Mobilic recrute un·e business developer
 ---
 
@@ -54,9 +54,9 @@ Si ce qui est raconté ici te donne envie de rejoindre l’aventure : écris nou
 # Conditions
 
 - Contrat : mission de 6 mois, probablement renouvelable !
-- Début de la mission : fin août / début septembre 
-- Durée : 2 jours à 3 jours par semaine
-- Rémunération : on en parle ensemble 
+- Début de la mission : disponibilité immédiate 
+- Durée : au moins 3 jours par semaine
+- Rémunération : TJM selon profil (nous ne recherchons pas un profil senior)
 - Le poste est basé à Paris, avec possibilité de télétravail bien évidemment
 
 # Comment postuler ?
