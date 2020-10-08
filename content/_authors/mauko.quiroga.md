@@ -14,6 +14,8 @@ startups:
 previously:
   - boussole
   - transport
+badges:
+  - segur
 ---
 
 Engagé dans la construction d’une action publique au XXI<sup>e</sup> siècle.
