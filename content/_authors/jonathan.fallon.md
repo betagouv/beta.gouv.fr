@@ -9,4 +9,6 @@ missions:
     employer: Codeurs en Liberté
 startups:
     - preuve-de-covoiturage
+badges:
+  - segur
 ---

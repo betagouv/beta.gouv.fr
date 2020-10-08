@@ -25,4 +25,6 @@ startups:
     - ecosante
     - friches
     - cartobio
+badges:
+  - segur
 ---
