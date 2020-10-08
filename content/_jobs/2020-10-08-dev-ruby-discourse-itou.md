@@ -1,5 +1,5 @@
 ---
-roles: UX/UI
+roles: Dev Ruby / Discourse
 startup: itou
 open: true
 ---
