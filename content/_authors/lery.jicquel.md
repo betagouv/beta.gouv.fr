@@ -13,6 +13,8 @@ missions:
 
 startups :
   - e-controle
+badges:
+  - segur
 ---
 In Bike I Trust.
 Toujours en équipe!
