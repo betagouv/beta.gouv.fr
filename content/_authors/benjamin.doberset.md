@@ -10,4 +10,6 @@ missions:
 startups:
     - demarches-simplifiees.fr
     - peps 
+badges:
+    - segur
 ---

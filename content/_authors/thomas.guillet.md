@@ -19,5 +19,7 @@ startups:
   - mes-aides
   - voir-et-localiser
   - lapins
+badges:
+  - segur
 ---
 Tout faire pour les usagers
