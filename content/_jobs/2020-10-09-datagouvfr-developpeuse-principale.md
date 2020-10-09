@@ -1,8 +1,7 @@
 ---
-friend: 'Etalab'
-roles: une développeuse ou un développeur
+roles: un·e développeur·se principal·e
+startup: data.gouv.fr
 title: "L’équipe de data.gouv.fr recrute un·e développeur·se principal·e"
-type: 'friend'
 externalURL: 'https://www.data.gouv.fr/fr/posts/lequipe-de-data-gouv-fr-recrute-un-e-developpeur-se-principal-e/'
 open: true
 ---
