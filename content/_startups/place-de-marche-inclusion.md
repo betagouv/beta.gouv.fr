@@ -8,11 +8,11 @@ phases:
     start: 2020-03-16
   - name: construction
     start: 2020-06-30
-link: 
-repository:
-stats: false 
-stats_url:
-contact: contact@inclusion.beta.gouv.fr
+link: https://lemarche.inclusion.beta.gouv.fr
+repository: https://github.com/betagouv/itou-cocorico
+stats: true 
+stats_url: https://lemarche.inclusion.beta.gouv.fr/fr/stats
+contact: lemarche@inclusion.beta.gouv.fr
 ---
 
 **Problème**

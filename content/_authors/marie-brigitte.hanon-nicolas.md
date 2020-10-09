@@ -1,5 +1,5 @@
 ---
-fullname: Marie Hanon
+fullname: Marie-Brigitte Hanon-Nicolas
 role: Intrapreneuse
 missions: 
   - start: 2019-11-20
