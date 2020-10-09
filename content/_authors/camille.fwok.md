@@ -7,5 +7,5 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - Aidants Connect
+  - aidantsconnect
 ---

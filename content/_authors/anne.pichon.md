@@ -11,5 +11,6 @@ startups:
   - zen
   - la-bonne-boite
   - estime
+  - itou
   - place-de-marche-inclusion
 ---

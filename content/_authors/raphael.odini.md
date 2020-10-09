@@ -12,6 +12,8 @@ missions:
 startups:
   - aidantsconnect
 previously: null
+badges:
+    - segur
 ---
 
 Développeur full-stack, j'aime les communs, apprendre (& faire), le vélo et les pingouins.
