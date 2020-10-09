@@ -8,6 +8,7 @@ phases:
     start: 2020-03-15
     end: 2020-06-30
   - name: alumni
+     start: 2020-06-30
 link:
 repository:
 stats: false
@@ -69,5 +70,4 @@ Pour les autorités, il contient :
 **Interruption** 
 
 Le projet n'a pas trouvé de porteur suite à l'investigation.  
-
 
