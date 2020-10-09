@@ -17,6 +17,8 @@ startups:
   - e-controle
 previously:
   - signalement
+badges:
+  - segur
 ---
 
 Chercheur de simplicité
