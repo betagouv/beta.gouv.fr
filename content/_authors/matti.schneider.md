@@ -11,10 +11,15 @@ missions:
   - start: 2019-01-10
     end: 2019-02-28
     status: independent
-    employer: Ministère des affaires étrangères
+    employer: Ministère de l'Europe et des affaires étrangères
   - start: 2019-03-01
+    end: 2019-12-31
     status: admin
-    employer: Ministère des affaires étrangères
+    employer: Ministère de l'Europe et des affaires étrangères
+  - start: 2020-05-01
+    end: 2022-07-01
+    status: admin
+    employer: Secrétariat général de la défense et de la sécurité nationale
 startups:
     - disinfo
 previously:
