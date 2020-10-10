@@ -14,6 +14,7 @@ mapping:
     type:      str
   "missions":
     type:      seq
+    required:  yes
     sequence:
         - type:      map
           mapping:
