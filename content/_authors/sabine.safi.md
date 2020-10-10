@@ -12,5 +12,7 @@ startups:
     - cartobio
 previously:
     - transport
+badges:
+    - segur
 ---
 
