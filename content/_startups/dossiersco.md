@@ -2,11 +2,25 @@
 title: DossierSCO
 mission: Inscrire son enfant au collège en quelques clics
 owner: Ministère de l'Éducation nationale
-incubator: dinsic
-status: death
-start: 2017-09-01
-end: 2019-09-15
-link: https://dossiersco.fr
+sponsors: 
+    - name: Secrétariat général
+      acronym: SG
+      domaine_ministeriel: education-nat
+      type: administration-centrale
+incubator: dinum
+events:
+  - name: end
+    date: 2019-09-15
+phases:
+  - name: investigation
+    start: 2017-09-01
+    end: 2017-11-30
+  - name: construction
+    start: 2017-11-30
+    end: 2019-09-15
+  - name: alumni
+    start: 2019-09-15
+link: https://affectionate-easley-2194cc.netlify.com/
 repository: https://github.com/betagouv/dossiersco
 stats: true
 contact: equipe@dossiersco.fr

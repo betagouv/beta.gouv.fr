@@ -3,8 +3,8 @@ fullname: Matthias Feraga
 role: Chargé de développement
 avatar: https://avatars1.githubusercontent.com/u/20679179?s=460&v=4
 missions:
-  - start: '2016-09-01'
-    end: '2018-12-31'
+  - start: 2016-09-01
+    end: 2018-12-31
     status: service
     employer: octo
 ---

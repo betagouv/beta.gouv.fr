@@ -3,7 +3,7 @@ fullname: Nicolas Petitot
 role: Développeur
 github: NeoBahamut
 missions: 
-  - start: '2019-09-01'
+  - start: 2019-09-01
     end: 
     status: admin
     employer: MTES-MCT

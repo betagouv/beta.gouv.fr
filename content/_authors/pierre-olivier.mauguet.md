@@ -5,8 +5,8 @@ github: pom421
 link: 'http://pom421.github.io/'
 missions:
   - employer: octo
-    end: '2020-06-01'
-    start: '2019-03-11'
+    end: 2020-12-31
+    start: 2019-03-11
     status: independent
 startups:
   - medle

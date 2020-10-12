@@ -2,10 +2,21 @@
 title: Reuni
 mission: Permettre aux agents publics d'accéder simplement aux documents qu'ils recherchent
 owner: Direction générale des entreprises
-incubator: dinsic 
-status: death
-start: 2018-12-01 
-end: 
+sponsors: 
+    - name: Direction générale des entreprises
+      acronym: DGE
+      domaine_ministeriel: bercy
+      type: administration-centrale
+incubator: dinum
+events:
+  - name: end
+    date: 2019-12-01
+phases:
+  - name: investigation
+    start: 2018-12-01 
+    end: 2019-03-01
+  - name: alumni
+    start: 2019-03-01
 link: 
 repository: 
 stats: false 

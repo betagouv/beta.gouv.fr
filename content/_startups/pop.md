@@ -1,15 +1,23 @@
 ---
 title: Plateforme Ouverte du Patrimoine
 mission: Valoriser notre patrimoine culturel auprès du plus grand nombre
-incubator: dinsic
+incubator: dinum
 owner: Ministère de la Culture
-status: consolidation
-start: 2018-04-01
-end:
+sponsors: 
+    - name: Direction générale des patrimoines
+      acronym: DGPat
+      domaine_ministeriel: culture
+      type: administration-centrale
+phases:
+  - name: investigation
+    start: 2018-04-01
+  - name: construction
+    start: 2018-04-01
+  - name: alumni
 link: https://pop.culture.gouv.fr/
 repository: https://github.com/betagouv/pop
 stats: true
-contact: sandrine.della-bartolomea@culture.gouv.fr
+contact: pop@culture.gouv.fr
 ---
 
 ## Le patrimoine est l'affaire de tous : vers une Plateforme Ouverte du Patrimoine (POP)
@@ -33,9 +41,9 @@ Fort du succès unanime de la Startup d’Etat POP, et eu égard à l’importan
 Les équipes ministérielles assureront les futurs développements de la plateforme POP.
 
 Derrière cette réussite se trouvent néanmoins de précieux enseignements pour améliorer notre démarche :
-Nous n’avons pas réussi à aligner tous les points de vue sur la finalité de POP - i.e. valoriser et rendre accessible au plus grand nombre le patrimoine de la France. De plus amples efforts de familiarisation à la méthode Startup d’Etat, notamment à l’endroit des directions d’administration centrales, auraient permis à l’équipe d’aller plus loin dans le déploiement de la POP.
-L’absence de sponsor interne et le manque de légitimité ressenti par l’intrapreneur a limité les ambitions de la Startup
-Nous avons sous-estimé la complexité juridiques sur la réutilisation des données, au sein même du “Ministère des Droits d’Auteur”, ce qui nous a privé d’opportunités de mieux distribuer les données et de toucher plus d’usagers.
+1°) Nous n’avons pas réussi à aligner tous les points de vue sur la finalité de POP - i.e. valoriser et rendre accessible au plus grand nombre le patrimoine de la France. De plus amples efforts de familiarisation à la méthode Startup d’Etat, notamment à l’endroit des directions d’administration centrales, auraient permis à l’équipe d’aller plus loin dans le déploiement de la POP.
+2°) L’absence de sponsor interne et le manque de légitimité ressenti par l’intrapreneur a limité les ambitions de la Startup.
+3°) L'équipe a sous-estimé la complexité juridique sur la réutilisation des données, au sein même du “Ministère des Droits d’Auteur”, ce qui nous a privé d’opportunités de mieux distribuer les données et de toucher plus d’usagers.
 
 La plateforme ouverte du Patrimoine est accessible au lien suivant : https://www.pop.culture.gouv.fr/
 

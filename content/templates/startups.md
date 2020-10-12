@@ -1,11 +1,12 @@
 ---
 title: Mes Aides # une majuscule et pas d'acronymes
 mission: Accéder aux conseils de professionnels à proximité pour trouver un logement # infinitif, pas de point ; compléter la phrase « En investissant dans ce produit l'État cherche à… »
-owner: DINSIC # Administration porteuse
-incubator: dinsic # le nom du fichier de l'incubateur de la startup
-status: consolidation # les phases possibles sont définies dans /content/_phases/
-start: 2015-01-15 # date au format ISO (AAAA-MM-DD)
-end: # laisser vide
+owner: DINUM # Administration porteuse
+incubator: dinum # le nom du fichier de l'incubateur de la startup
+phases: # les différentes étapes de la vie des startups - les phases possibles sont définies dans /content/_phases/ 
+  - name: investigation
+    start: 2020-03-16 # date au format ISO (AAAA-MM-DD)
+    end: # à remplie plus tard
 link: https://mes-aides.gouv.fr
 repository: https://github.com/betagouv/mes-aides-ui # ou page de description des dépôts s'il y en a plusieurs
 stats: false # mettre à true pour renvoyer vers ta page de stats. Attention, elle doit se trouver sur [url du site]/stats !

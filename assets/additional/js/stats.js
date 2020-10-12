@@ -1,130 +1,233 @@
-var impressions = [{
-  id: 'start',
-  label: 'problèmes investigués'
+var metrics = [{
+  id: 'investigation',
+  future: {
+    2019: 42,
+    2020: 80,
+    2021: 140,
+  }
 },{
-  id: 'construction',
-  label: 'produits lancés'
+  id: 'product_launch',
+  future: {
+    2019: 19,
+    2020: 30,
+    2021: 40,
+  }
+},{
+  id: 'end',
+  future: {
+    2019: 3,
+    2020: 10,
+    2021: 13,
+  }
+},{
+  id: 'national_impact',
+  future: {
+    2019: 1,
+    2020: 2,
+    2021: 3,
+  }
+},{
+  id: 'agent',
+  future: {
+    2019: 81,
+    2020: 100,
+    2021: 140,
+  }
 }]
 
-var raw = {
-  constructions: [],
-  starts: [],
+var db = {}
+metrics.forEach(function(metric) {
+  metric.years = {}
+  db[metric.id] = metric
+})
+
+function basicDateTest(s) {
+  return s !== "" && s
 }
-var prefix = '/api/v1.6/'
-$.ajax(prefix + "startups.json").done(function(response) {
 
+function getFirstStepDate(startup) {
+  var dates = startup.attributes.phases.reduce(function(list, p) {
+    var candidates = [p.start, p.end]
+    candidates.forEach(function(c) {
+      if (basicDateTest(c)) {
+        list.push(c)
+      }
+    })
+    return list
+  }, [])
 
-  response.data.forEach(function(startup) {
-    raw.constructions.push(startup.attributes.start)
-    raw.starts.push(startup.attributes.start)
+  dates.sort()
+  if (dates.length) {
+    return dates[0]
+  }
+}
+
+function get(startup, item) {
+  var obj =  startup.attributes[item.from].find(function(p) { return p.name === item.name})
+  if (obj) {
+    return obj[item.prop]
+  }
+}
+
+function getFirst(startup, sources) {
+  var candidates = sources.map(function(source) {
+    if (typeof source === 'function') {
+      return source(startup)
+    } else if (typeof source === 'string') {
+      return source
+    }
+    return get(startup, source)
   })
-    
-  $.ajax(prefix + "seedlings.json").done(function(response) {
-    var seasonStarts = {}
-    response.included.forEach(function(inclusion) {
-      if (inclusion.type == 'season') {
-        seasonStarts[inclusion.id] = inclusion.attributes.start
-      }
-    })
-    response.data.forEach(function(seedling) {
-      raw.starts.push(seasonStarts[seedling.relationships.season.data.id])
-    })
 
-    raw.starts.sort()
-    var start = new Date(raw.starts[0])
-    var end = new Date('2019-12-31')
-    function addDays(date, days) {
-      var result = new Date(date);
-      result.setDate(result.getDate() + days);
-      return result;
-    }
-    var timeSeries = [start]
-    while(timeSeries[timeSeries.length- 1] < end) {
-      timeSeries.push(addDays(timeSeries[timeSeries.length- 1], 1))
-    }
+  return candidates.reduce(function(pick, value) {
+    return pick || basicDateTest(value)
+  }, false)
+}
 
-    var days = timeSeries.map(function(d) { return d.toISOString().slice(0, 10) })
-    var dailyData = days.reduce(function(obj, day) {
-      obj[day] = {
-        date: new Date(day),
-        construction: 0,
-        start: 0,
-      }
+function addValue(container, dt, value) {
+  if (dt) {
+    var year = dt.slice(0, 4)
+    var list = container[year] || []
+    list.push(value)
+    container[year] = list
+  }
+}
 
-      return obj
-    }, {})
-
-    raw.starts.forEach(function(s) {
-      dailyData[s].start = dailyData[s].start + 1
-    });
-
-    raw.constructions.forEach(function(c) {
-      dailyData[c].construction = dailyData[c].construction + 1
-    });
-
-
-    days.reduce(function(prev, d) {
-      prev.construction = prev.construction + dailyData[d].construction
-      dailyData[d].constructionCum = prev.construction
-
-      prev.start = prev.start + dailyData[d].start
-      dailyData[d].startCum = prev.start
-
-      return prev
-    }, {
-      construction: 0,
-      start: 0,
-    })
-
-    val = ['2014', '2015', '2016', '2017', '2018', '2019'].reduce(function(results, y) {
-      var next = dailyData[y + '-12-31']
-      var item = {
-        period: y
-      }
-      item.construction = next.constructionCum - results.prev.constructionCum
-      item.start = next.startCum - results.prev.startCum
-      results.values.push(item)
-      results.prev = next
-
-      return results
-    }, {
-      prev: {
-        constructionCum: 0,
-        startCum: 0,
-      },
-      values: []
-    })
-
-    var projection = {
-      start: '2018-12-31',
-      current: '2019-09-05',
-      end: '2019-12-31',
+var prefix = '/api/v2/'
+$.ajax(prefix + "startups.json").done(function(response) {
+  var startups = response.data
+  startups.forEach(function(startup) {
+    if (!startup.attributes.phases || !startup.attributes.phases.length) {
+      console.warn(startup.id)
+      return
     }
 
-    var coef = (dailyData[projection.end].date - dailyData[projection.start].date) / (dailyData[projection.current].date - dailyData[projection.start].date)
-    val.values.push({
-      period: '2019-proj',
-      label: 'Projection pour toute l\'année 2019',
-      construction: Math.round(coef * (dailyData[projection.current].constructionCum - dailyData[projection.start].constructionCum)),
-      start: Math.round(coef * (dailyData[projection.current].startCum - dailyData[projection.start].startCum)),
+    // Les données sont très incomplètes et disparates
+    // Plusieurs dates candidates sont listées et la première disponible est utilisée
+
+    // Date de la fin de l'investigation d'un problème
+    var investigationDate = getFirst(startup, [
+        { from: 'phases', name: 'investigation', prop: 'end'},
+        { from: 'phases', name: 'investigation', prop: 'start'},
+        getFirstStepDate
+      ]
+    )
+    if (!investigationDate) {
+      console.warn(startup.id)
+    } else {
+      addValue(db.investigation.years, investigationDate, startup.id)
+    }
+
+    // Date du lancement du produit
+    var launchDate = getFirst(startup, [
+        { from: 'events', name: 'product_launch', prop: 'date'},
+        { from: 'phases', name: 'construction', prop: 'start'},
+      ]
+    )
+    addValue(db.product_launch.years, launchDate, startup.id)
+
+    // Date de l'abandon du produit
+    var endDate = getFirst(startup, [
+        { from: 'events', name: 'end', prop: 'date'},
+      ]
+    )
+    addValue(db.end.years, endDate, startup.id)
+
+    // Date du passage à un produit d'impact national
+    var s = getFirst(startup, [
+        { from: 'events', name: 'national_impact', prop: 'date'},
+      ]
+    )
+    addValue(db.national_impact.years, s, startup.id)
+  })
+
+  $.ajax(prefix + "authors.json").done(function(response) {
+    response.forEach(function(author) {
+      if (!author.missions) {
+        console.warn(author.id)
+        return
+      }
+
+      author.missions.reduce(function(done, mission) {
+        if (!done && mission.status === 'admin') {
+          addValue(db.agent.years, mission.start, author.id)
+          return true
+        }
+        return done
+      }, false)
     })
 
-    var base = val.values.find(function(i) { return i.period === '2018' })
-    var current = val.values[val.values.length-1]
-    val.values.push({
-      period: '2020-proj',
-      label: 'Projection pour 2020',
-      construction: Math.round(current.construction * current.construction / base.construction),
-      start: Math.round(current.start * current.start / base.start),
-    })
+    var years = []
+    var end = (new Date()).getFullYear() + 1
+    for (var i = 2013; i<=end; i = i + 1) {
+      years.push(i)
+    }
 
-    impressions.forEach(function(i) {
-      element = document.getElementById(i.id + 's')
-      val.values.forEach(function(item) {
-        var node = document.createElement('li')
-        element.appendChild(node)
-        node.textContent = (item.label || item.period) + ' : ' + item[i.id] + ' ' + i.label
-      });
+    metrics.forEach(function(metric) {
+      var input = db[metric.id]
+      if (!input) {
+        return
+      }
+      var data = years.map(y => (input.years[y] || []).length)
+      var future = years.map(y => {
+        if (!input.future[y]) {
+          return 0
+        }
+        var v = input.future[y];
+        return v > 0 ? v : 0
+      })
+      new Chart(document.getElementById(metric.id), {
+        type: 'bar',
+        data: {
+          labels: years,
+          datasets: [{
+            data: data,
+            label: 'Décompte ', // trailing space to ensure legend complies with French typography rules
+            backgroundColor: '#EF7D29',
+            pointRadius: 0,
+            lineTension: 0.3
+          }, {
+            data: future,
+            label: 'Dernières prévisions ', // trailing space to ensure legend complies with French typography rules
+            backgroundColor: '#f9caa8',
+            pointRadius: 0,
+            lineTension: 0.3
+          }],
+        },
+        options: {
+          scales: {
+            yAxes: [{
+              ticks: {
+                beginAtZero: true
+              }
+            }]
+          },
+          tooltips: {
+            position: 'topLeft',
+            caretSize: 0,
+            callbacks: {
+              footer: function(selection, d) {
+                if (selection[0].datasetIndex == 0) {
+                  var items = input.years[selection[0].xLabel]
+                  if (items.length > 25) {
+                    return items.join(' ').replace(/.{1,40} /g, '$&#').split(' #')
+                  } else {
+                    return items
+                  }
+                }
+              }
+            }
+          }
+        }
+      })
     })
   })
 })
+
+Chart.Tooltip.positioners.topLeft = function(elements, eventPosition) {
+    var tooltip = this
+    return {
+        x: 10,
+        y: 10
+    }
+}

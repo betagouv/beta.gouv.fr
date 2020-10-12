@@ -19,8 +19,11 @@ links:
       label: English presentation
       target: _pages/en/home.md
     -
-      label: À propos
+      label: Mentions légales
       target: _pages/about.md
+    -
+      label: Vue d'ensemble
+      target: _pages/dashboard.md
     -
       label: En détails et en chiffres
       url: /content/docs/rapportannuel.pdf
@@ -42,6 +45,9 @@ links:
     -
       label: Suivi d'audience et vie privée
       target: _pages/suivi.md
+    -
+      label: Indicateurs & mesure d'impact
+      target: _pages/stats.md
     -
       label: Conventions de partenariat
       url: https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/

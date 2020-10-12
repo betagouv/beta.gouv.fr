@@ -8,15 +8,70 @@ mapping:
     required:  yes
   "owner":
     type:      str
-    required:  yes
-  "status":
-    type:      str
-    required:  yes
-  "start":
-    type:      date
-    required:  yes
-  "end":
-    type:      date
+  "sponsors":
+    type:      seq
+    sequence:
+        - type:      map
+          mapping:
+            "name":
+              type:      str
+              required:  yes
+            "acronym":
+              type:      str
+            "type":
+              type:      str
+              enum:
+                - administration-centrale
+                - service-deconcentre
+                - operateur
+                - securite-sociale
+                - collectivite-territoriale
+                - autre
+            "domaine_ministeriel":
+              type:      str
+              enum:
+                - affaires-etrangeres
+                - affaires-sociales
+                - agriculture
+                - armees
+                - bercy
+                - culture
+                - education-nat
+                - enseignement-sup
+                - environnement
+                - interieur
+                - outre-mer
+                - sante
+                - spm # Service du premier ministre
+                - sport
+                - travail
+                - territoires
+                - autres
+  "events":
+    type:      seq
+    sequence:
+        - type:      map
+          mapping:
+            "name":
+              type:      str
+              assert:    "['product_launch','commitee','other','national_impact','end'].include?(val)"
+            "date":
+              type:      date
+            "comment":
+              type:      str
+  "phases":
+    type:      seq
+    sequence:
+        - type:      map
+          mapping:
+            "start":
+              type:      date
+            "end":
+              type:      any
+              assert:    "val.nil? || val.is_a?(Date) || (val.is_a?(String) && val.empty?)"
+            "name":
+              type:      str
+              assert:    "['investigation','construction','acceleration','success','transfer','alumni'].include?(val)"
   "incubator":
     type:      str
     required:  yes
@@ -40,3 +95,5 @@ mapping:
     type:      seq
     sequence:
         - type:      str
+  "robots":
+    type:      str

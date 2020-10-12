@@ -1,11 +1,23 @@
 ---
 title: Place des Entreprises
-mission: Apporter l’ensemble des aides publiques aux entreprises qui en ont besoin
-owner: DIRECCTE Haut-de-France
-incubator: dinsic
-status: acceleration
-start: 2017-04-03
-end:
+mission: 'TPE & PME, vous avez un projet, une difficulté, une question du quotidien ? Service public simple et rapide : vous êtes rappelé par LE conseiller qui peut vous aider.'
+owner: Ministère de l'économie, des finances et de la relance - Direction générale des entreprises (DGE) / Ministère du Travail (DGEFP)
+sponsors: 
+    - name: Direction générale des entreprises
+      acronym: DGE
+      domaine_ministeriel: bercy
+      type: administration-centrale
+    - name: Délégation générale à l'emploi et à la formation professionnelle
+      acronym: DGEFP
+      domaine_ministeriel: travail
+      type: administration-centrale
+incubator: dinum
+phases:
+  - name: investigation
+    start: 2017-04-03
+  - name: construction
+    start: 2017-04-03
+  - name: acceleration
 link: https://place-des-entreprises.beta.gouv.fr
 repository: https://github.com/betagouv/place-des-entreprises
 stats: true
@@ -15,28 +27,40 @@ redirect_from:
   - /startups/reso
 ---
 
-Avec Place des Entreprises, l’État et l’ensemble des organismes publics développent leur rôle de conseil à destination des entreprises. Ils cherchent à détecter plus efficacement les besoins des entreprises et à mieux mobiliser les aides et accompagnement des organismes publics.
+Le service public Place des Entreprises permet à l’État, aux Régions volontaires et à l’ensemble des organismes publics et parapublics de développer leur rôle de conseil auprès des TPE & PME.
 
-L’objectif est simple mais ambitieux : mieux accompagner les entreprises dans leurs projets, leurs difficultés et leurs questions au quotidien - sur tous les sujets d’entreprise.
+## Le problème : des entrepreneurs isolés, des administrations cloisonnées
 
-## Des entrepreneurs isolés, des conseils cloisonnés
+Plus de 2 000 aides publiques aux entreprises existent, ainsi que de multiples accompagnements par différents organismes publics et parapublics. Malheureusement ces dispositifs restent largement méconnus de leurs destinataires, en particulier des TPE & PME. La lisibilité des aides devient également de plus en plus complexe.
 
-Plus de 2 000 aides publiques existent mais les chefs entreprises n’ont souvent ni le temps, ni les moyens d’en faire la demande. L’activité des organismes publics chargés d’apporter ces aides aux entreprises est aujourd’hui confrontée à un double problème de ciblage et de cloisonnement.
+Ensuite, les chefs d’entreprise ne savent pas toujours à qui adresser leurs demandes face à la diversité d’acteurs publics. Identifier le bon interlocuteur dans la bonne administration et parvenir à le joindre relève parfois du parcours du combattant. L’activité du dirigeant ne laisse en outre que peu de disponibilité pour entamer de telles démarches.
 
-D’une part, certaines entreprises sont ciblées de manière répétée et se plaignent d’être sur-sollicitées alors que celles qui ont le plus besoin d’aide ne sont souvent pas accompagnées.
+Enfin, les organismes publics chargés d’accompagner les entreprises sont confrontés à un problème de cloisonnement de leurs champs d’intervention. Ils se trouvent démunis face à des questions qui dépassent leurs attributions. Déjà restreint en pratique, le contact direct avec l’entreprise est aujourd’hui sous exploité et demande à être rénové.
 
-D’autre part, les organismes publics ne proposent que leurs propres dispositifs d’aide et ne sont donc en mesure de répondre qu’à une fraction des besoins exprimés par les chefs d’entreprise.
+## La solution : un système de mise en relation et un immense carnet d’adresses pour un conseil personnalisé
 
-## Un guichet unique à la porte des entreprises
+Un immense carnet d’adresse référence, au sein des administrations et organismes publics partenaires, des experts sur des champs de compétences précis. Ils rappellent et accompagnent les TPE & PME qui ont exprimé une problématique ou une question. La diversité des acteurs emmenés dans la dynamique permet de couvrir l’ensemble des besoins des entreprises : ressources humaines, droit du travail, difficultés financières, investissement, développement commercial, transition numérique, transmission-reprise, santé & sécurité au travail, tansition écologique…
 
-Dans le cadre du projet Réso, dès fin 2017, un outil de mise en relation a été développé. Il permet d’identifier, dans un carnet d’adresses dédié, un contact expert au sein de l’administration et des opérateurs publics capable d’accompagner l’entreprise dans sa démarche.
+Ce carnet d’adresses est associé à un système de mise en relation, permettant d’adresser automatiquement un besoin d’entreprise aux experts compétents. La notification se fait en temps réel et un jeu de bouton permet de coordonner la prise en charge entre les experts notifiés.
 
-Réso est à la fois :
+L’objectif est d’offrir un conseil personnalisé et de proximité aux TPE & PME pour les aider à se développer, mais également à s’adapter aux mutations socio-économiques et environnementales qui bouleversent aujourd’hui notre société.
 
-* Un outil confié aux conseillers publics d’entreprise.  
-De nombreux organismes publics - Chambres de Commerce, DIRECCTE, Région… ont déployé sur le terrain des conseillers pour apporter directement ces aides aux entreprises.  
-Emmenés dans une dynamique de détection de tous les besoins lors des visites en entreprise, les conseillers entreprise vont détecter des besoins hors de leur champ de compétence et notifierons ainsi facilement les bons référents experts des bons organismes publics.
+## Les portes d’entrées du service : du numérique à l’humain
 
-* Un formulaire en libre accès aux chefs d’entreprises.  
-Il permet ainsi aux chefs d’entreprise de solliciter plus rapidement et facilement un organisme public pour lui demander de l’accompagner.  
-Cette mutualisation des moyens et des offres de services favorise des accompagnements aux entreprises plus productifs et des dispositifs d’aide qui trouvent mieux leur public
+Depuis mars 2019, un portail en ligne dédié aux TPE & PME présente les grandes thématiques d’accompagnements publics. Le chef d’entreprise choisit un sujet et dépose simplement son besoin. Il est rappelé et accompagné par l’expert compétent sur son territoire.
+
+Ce service de mise en relation peut être directement intégré sur les sites des partenaires publics qui le souhaitent. Chaque partenaire peut ainsi faciliter l’accès aux accompagnements publics et participer à la satisfaction des besoins des entreprises en bénéficiant du vaste partenariat Place des Entreprises.
+
+Les conseillers du service public en contact avec les entreprises, comme les agents des intercommunalités, sont invités à utiliser l’outil chaque fois qu’un dirigeant leur fait part d’un besoin sur lequel ils ne sont pas experts. Oubliez le maquis administratif, l’orientation vers le bon interlocuteur devient automatique !
+
+## La méthode : une petite équipe inspirée par vous, chefs d’entreprise et agents publics
+
+Le service a été construit pas à pas, en confrontant nos hypothèses de travail avec la réalité du terrain. Notre démarche repose sur des échanges nourris avec les chefs d’entreprise et les conseillers d’entreprises sur les difficultés rencontrées par chacun au quotidien.
+
+L’ensemble des évolutions du service sont guidées par l’impact, afin de s’assurer de leur pertinence pour les utilisateurs.
+
+N’hésitez pas à nous faire part de vos idées et critiques pour améliorer le service.
+
+## Contactez-nous
+
+Pour toute question sur le service Place des Entreprises, écrivez-nous à l’adresse contact@place-des-entreprises.beta.gouv.fr.

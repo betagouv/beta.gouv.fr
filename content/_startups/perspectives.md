@@ -2,9 +2,18 @@
 title: Perspectives
 mission: Mettre en relation des candidats validés par la méthode de recrutement par simulation, avec des employeurs et des formations à la recherche de leurs aptitudes
 owner: Pôle emploi
+sponsors: 
+    - name: Pôle Emploi
+      acronym: PE
+      domaine_ministeriel: travail
+      type: operateur
 incubator: pole-emploi
-status: consolidation
-start: 2018-05-02
+phases:
+  - name: investigation
+    start: 2018-05-02
+  - name: construction
+    start: 2018-05-02
+  - name: alumni
 link: https://perspectives.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/perspectives
 stats: false

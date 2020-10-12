@@ -1,11 +1,19 @@
 ---
 title: API Entreprise
 mission: Récupérer les données des entreprises
-owner: DINSIC
-incubator: api_dinsic
-status: consolidation
-start: 2014-01-01
-end:
+owner: DINUM
+sponsors: 
+    - name: Direction interministérielle du numérique
+      acronym: DINUM
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
+incubator: apigouv
+phases:
+  - name: investigation
+    start: 2014-01-01
+  - name: construction
+    start: 2014-01-01
+  - name: alumni
 link: https://entreprise.api.gouv.fr/
 repository:
 stats: true

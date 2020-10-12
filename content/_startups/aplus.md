@@ -2,10 +2,22 @@
 title: Administration+, le service public VIP pour tous
 mission: Résoudre les blocages administratifs inextricables
 owner: DINUM
-incubator: dinsic
-status: acceleration
-start: 2017-10-01
-end:
+sponsors: 
+    - name: Direction interministérielle du numérique
+      acronym: DINUM
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
+    - name: Agence nationale de la cohésion des territoires
+      acronym: ANCT
+      domaine_ministeriel: territoires
+      type: operateur
+incubator: dinum
+phases:
+  - name: investigation
+    start: 2017-10-01
+  - name: construction
+    start: 2017-10-01
+  - name: acceleration
 link: https://aplus.beta.gouv.fr/
 repository: https://github.com/betagouv/aplus
 stats: true

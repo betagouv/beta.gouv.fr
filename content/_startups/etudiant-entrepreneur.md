@@ -1,11 +1,22 @@
 ---
 title: Étudiant entrepreneur
 mission: Faciliter l'accès au statut étudiant entrepreneur et à ses bénéfices
-owner: Ministère de l'Enseignement supérieur
-incubator: dinsic
-status: death
-start: 2016-06-23
-end:
+owner: Direction générale de l'enseignement supérieur et de l'insertion professionnelle (DGESIP)
+sponsors: 
+    - name: Direction générale de l'enseignement supérieur et de l'insertion professionnelle
+      acronym: DGESIP
+      domaine_ministeriel: enseignement-sup
+      type: administration-centrale
+incubator: dinum
+events:
+  - name: end
+    date: 2017-12-31
+phases:
+  - name: investigation
+    start: 2016-06-23
+  - name: construction
+    start: 2016-06-23
+  - name: alumni
 link: https://snee.esr.gouv.fr/
 repository: https://github.com/betagouv/etudiant-entrepreneur
 stats: false

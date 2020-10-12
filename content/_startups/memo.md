@@ -2,10 +2,18 @@
 title: Memo
 mission: Vos candidatures en un clin d'oeil
 owner: Pôle emploi
+sponsors: 
+    - name: Pôle Emploi
+      acronym: PE
+      domaine_ministeriel: travail
+      type: operateur
 incubator: pole-emploi
-status: consolidation
-start: 2016-01-03
-end:
+phases:
+  - name: investigation
+    start: 2016-01-03
+  - name: construction
+    start: 2016-01-03
+  - name: alumni
 link: https://memo.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/memo
 stats: true

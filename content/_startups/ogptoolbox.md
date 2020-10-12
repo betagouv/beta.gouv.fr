@@ -2,10 +2,21 @@
 title: OGP Toolbox
 mission: Trouver des outils numériques pour améliorer la démocratie
 owner: Etalab / Open Government Partnership
-incubator: dinsic
-status: death
-start: 2016-06-08
-end:
+sponsors:
+     - name: Etalab
+       acronym: Etalab
+       domaine_ministeriel: spm # Service du premier ministre
+       type: administration-centrale
+incubator: dinum
+events:
+  - name: end
+    date: 2018-01-01
+phases:
+  - name: investigation
+    start: 2016-06-08
+  - name: construction
+    start: 2016-06-08
+  - name: alumni
 link: https://ogptoolbox.org/
 repository: https://github.com/ogptoolbox/ogptoolbox-ui
 stats: false

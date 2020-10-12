@@ -2,11 +2,25 @@
 title: Permis de construire facile
 mission: Déposez et gérez votre demande de permis de construire en toute simplicité
 owner: Ministère de la Transition écologique et solidaire
+sponsors:
+    - name: Direction generale de l'Amenagement, du Logement et de la Nature / Direction de l'habitat, de l'urbanisme et des paysages
+      acronym: DGALN / DHUP
+      domaine_ministeriel: environnement
+      type: administration-centrale
 incubator: mtes
-status: death
-start: 2018-11-01
-end: 2019-04-30
-link: https://permis-de-construire-facile.beta.gouv.fr
+events:
+  - name: end
+    date: 2019-04-30
+phases:
+  - name: investigation
+    start: 2018-11-01
+    end: 2018-12-31
+  - name: construction
+    start: 2018-12-31
+    end: 2019-04-30
+  - name: alumni
+    start: 2019-04-30
+link:
 repository: 
 stats: false
 contact: jean-michel.coste@developpement-durable.gouv.fr 
@@ -40,7 +54,7 @@ Le demandeur sera informé automatiquement et immédiatement de la décision con
 
 ## Les premières étapes 
 
-L’équipe analyse actuellement l’intérêt de se “raccorder” avec la solution “démarches simplifiées” portée par la DINSIC qui répond fonctionnellement à de nombreux aux éléments coeur envisagés dans le produit. L’articulation avec le produit ALDAU (Assistance en Ligne des Demandes d’Autorisation d’Urbanisme) sera également analysée.
+L’équipe analyse actuellement l’intérêt de se “raccorder” avec la solution “démarches simplifiées” portée par la DINUM qui répond fonctionnellement à de nombreux aux éléments coeur envisagés dans le produit. L’articulation avec le produit ALDAU (Assistance en Ligne des Demandes d’Autorisation d’Urbanisme) sera également analysée.
 
 L’ambition est de démarrer avec dépôt dématérialisé des déclarations préalables, actes simples qui représentent 70% des actes d’urbanisme instruits chaque année, soit près de 700 000, pour vérifier si le produit répond bien aux irritants identifiés.
 

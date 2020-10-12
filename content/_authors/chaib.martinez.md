@@ -2,14 +2,17 @@
 fullname: Chaïb Martinez
 role: Growth Hacker 🚀
 avatar: https://pbs.twimg.com/profile_images/803636352348725248/c_j2qY7f_400x400.jpg
-link: http://chaib-martinez.com/
+link: https://www.linkedin.com/in/chaibmartinez/
 github: chaibax
 missions:
-  - start: '2018-06-26'
-    end: '2020-02-31'
+  - start: 2018-06-26
+    end: 2020-12-31
     status: independent
     employer: octo
 startups:
     - demarches-simplifiees.fr
     - trait-d-union
+    - cmachance
+badges:
+    - segur
 ---

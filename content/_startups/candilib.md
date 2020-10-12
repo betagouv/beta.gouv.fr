@@ -2,14 +2,23 @@
 title: CandiLib
 mission: Réserver simplement sa place d'examen pratique au permis de conduire
 owner: Ministère de l'Intérieur
+sponsors: 
+    - name: Délégation à la sécurité routière
+      acronym: DSR
+      domaine_ministeriel: interieur
+      type: administration-centrale
 incubator: lab-mi
-status: consolidation
-start: 2018-05-01
-end:
+phases:
+  - name: investigation
+    start: 2018-05-01
+  - name: construction
+    start: 2018-05-01
+  - name: transfer
 link: https://beta.interieur.gouv.fr/candilib/
 repository: https://github.com/LAB-MI/candilibV2
 stats: false
 contact: candilib@interieur.gouv.fr
+robots: noindex # Nous avons mis cette action car il y a beaucoup de contact directe à contact@beta.gouv.fr pour Candilib
 ---
 
 ## Des conditions dégradées pour les candidats libres

@@ -1,11 +1,19 @@
 ---
 title: API Particulier
 mission: Accélérer l’ouverture des données personnelles et leur réutilisation pour simplifier les démarches
-owner: DINSIC
-incubator: api_dinsic
-status: consolidation
-start: 2015-10-11
-end:
+owner: DINUM
+sponsors: 
+    - name: Direction interministérielle du numérique
+      acronym: DINUM
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
+incubator: apigouv
+phases:
+  - name: investigation
+    start: 2015-10-11
+  - name: construction
+    start: 2015-01-01    
+  - name: alumni
 link: https://particulier.api.gouv.fr/
 repository: https://github.com/betagouv/api-particulier
 stats: true

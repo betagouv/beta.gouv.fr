@@ -2,10 +2,24 @@
 title: LexImpact
 mission: Aider nos parlementaires à estimer les impacts de leurs amendements avant vote !
 owner: Assemblée nationale
-incubator: dinsic
-status: consolidation
-start: 2019-01-21
-end: 2020-01-03
+sponsors: 
+    - name: Assemblée nationale
+      acronym: Assemblée nationale
+      domaine_ministeriel: autres
+      type: autre
+incubator: dinum
+phases:
+  - name: investigation
+    start: 2019-01-21
+    end: 2019-04-03
+  - name: construction
+    start: 2019-04-03
+    end: 2019-10-31
+  - name: transfer
+    start: 2019-10-31
+    end: 2020-01-03
+  - name: alumni
+    start: 2020-01-03
 link: https://leximpact.an.fr
 repository: https://github.com/betagouv/leximpact-client
 stats: false

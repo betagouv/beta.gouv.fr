@@ -2,10 +2,13 @@
 title: Base Adresse Nationale
 mission: Référencer l'intégralité des adresses du territoire français
 owner: Etalab
-incubator: dinsic
-status: consolidation
-start: 2014-06-01
-end:
+incubator: dinum
+phases:
+  - name: investigation
+    start: 2014-06-01
+  - name: construction
+    start: 2014-06-01    
+  - name: success
 link: https://adresse.data.gouv.fr
 repository: https://github.com/BaseAdresseNationale
 stats: true

@@ -2,8 +2,8 @@
 fullname: Xavier Nopre
 role: Développeur
 missions:
-  - start: '2015-10-01'
-    end: '2018-03-31'
+  - start: 2015-10-01
+    end: 2018-03-31
     status: independent
     employer: octo
 startups:

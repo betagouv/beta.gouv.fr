@@ -2,10 +2,17 @@
 title: Réserve civique
 mission: Donner de son temps pour l'intérêt général
 owner: Haut-commissariat à l'engagement civique
-incubator: dinsic
-status: construction
-start: 2017-03-23
-end:
+sponsors: 
+    - name: Direction de la jeunesse, de l'éducation populaire et de la vie associative
+      acronym: DJEPVA
+      domaine_ministeriel: education-nat
+      type: administration-centrale
+incubator: dinum
+phases:
+  - name: investigation
+    start: 2017-03-23
+  - name: construction
+    start: 2017-03-23
 link: https://reserve-civique.beta.gouv.fr
 repository:
 stats: false

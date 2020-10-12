@@ -2,10 +2,18 @@
 title: GPS usagers
 mission: Orienter les usagers qui souhaitent joindre le département du Calvados vers le bon interlocuteur et le bon moyen de communication
 owner: Département du Calvados
-incubator: dinsic
-status: acceleration
-start: 2018-10-01
-end:
+sponsors: 
+    - name: département du Calvados
+      acronym:
+      domaine_ministeriel: territoires
+      type: collectivite-territoriale
+incubator: dinum
+phases:
+  - name: investigation
+    start: 2018-10-01
+  - name: construction
+    start: 2018-10-01
+  - name: alumni
 link: https://www.calvados.fr/contact
 repository: https://github.com/betagouv/gps-usagers
 stats: false

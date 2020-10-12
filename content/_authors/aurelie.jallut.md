@@ -4,11 +4,10 @@ role: UX designer
 github: Aurelie-J
 link: http://www.marquedefabrique.net
 missions:
-  - start: '2019-11-12'
-    end: '2020-03-31' 
+  - start: 2019-11-12
+    end: 2020-11-30
     status: independent
 startups:
- - aplus
+  - aplus
 ---
- 
-Recherche, prototype & design d'interface utilisateur
+Recherche, prototype & design d'interface utilisateur // Designers transverses

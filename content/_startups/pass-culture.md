@@ -1,11 +1,19 @@
 ---
 title : Pass Culture
 mission: Faciliter l'accès des jeunes à la culture
-owner: Ministère de la Culture
-incubator: dinsic
-status: consolidation
-start: 2017-12-01
-end:
+sponsors: 
+    - name: Direction générale de la création artistique
+      acronym: DGCA
+      domaine_ministeriel: culture
+      type: administration-centrale
+
+incubator: dinum
+phases:
+  - name: investigation
+    start: 2017-12-01
+  - name: construction
+    start: 2017-12-01
+  - name: alumni
 link: https://pass.culture.fr
 repository: https://pass-culture.gitbook.io/documents/informations-techniques#code-source
 stats: false

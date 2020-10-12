@@ -2,10 +2,18 @@
 title: Open Académie
 mission: Construire le lycée et le collège de demain
 owner: Ministère de l'Éducation nationale
-incubator: dinsic
-status: acceleration
-start: 2015-01-01
-end:
+sponsors: 
+    - name: Secrétariat général
+      acronym: SG
+      domaine_ministeriel: education-nat
+      type: administration-centrale
+incubator: dinum
+phases:
+  - name: investigation
+    start: 2015-01-01
+  - name: construction
+    start: 2015-01-01    
+  - name: alumni
 link: https://openacademie.beta.gouv.fr
 repository: https://github.com/betagouv/open-academie
 stats: false
@@ -18,4 +26,7 @@ Construire le lycée et le collège de demain avec les personnels d'aujourd'hui,
 
 - MobiliSco : les voyages scolaires cessent d'être un cauchemar.
 - <a href="https://beta.gouv.fr/startups/dossiersco.html">DossierSco</a> : gérer d'un bout à l'autre les inscriptions des élèves.
-- GemaSco : l'application qui commande, distribue, récupère les manuels et fait même l'inventaire !
+- GemaSco : l'application qui commande, distribue, récupère les manuels et fait même l'inventaire 
+- D'autres outils référencés sur [cette page](https://openacademie.beta.gouv.fr/outils/)
+
+L'accompagnement beta.gouv.fr est aujourd'hui terminé, mais une vingtaine d'agents travaillent encore sur le terrain à animer cette communauté et à maintenir des outils qui aident les personnels d'établissements scolaires à gagner du temps, grâce à un numérique qui les inclut. 

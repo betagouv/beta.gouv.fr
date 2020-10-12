@@ -4,7 +4,7 @@ role: Développeur
 avatar: https://image.ibb.co/mzTRkS/Sans_titre.png
 github: sixertoy
 missions:
-  - start: '2018-03-12'
+  - start: 2018-03-12
     end:
     status: independent
 startups:

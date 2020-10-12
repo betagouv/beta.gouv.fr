@@ -7,12 +7,12 @@ layout: default
   {% include hero-startup.html title=page.title mission=page.mission %}
 
   {% comment %} Détection du status de la startup {% endcomment %}
-  {% capture phase_id %}/phases/{{ page.status }}{% endcapture %}
+  {% capture phase_id %}/phases/{{ page.phases.last.name }}{% endcapture %}
   {% assign phase = site.phases | where: "id", phase_id | first %}
   {% if page.link %}
     <div class="notification full-width">Le produit est <em>{{ phase.label | downcase | prepend: "en " }}</em>, il est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.</div>
   {% else %}
-    <div class="notification warning full-width">Le produit est <em>{{ phase.label | downcase | prepend: "en " }}</em>, il n'est pas encore accessible au public.</div>
+    <div class="notification warning full-width">Le produit est <em>{{ phase.label | downcase | prepend: "en " }}</em>, il n'est pas actuellement accessible au public.</div>
   {% endif %}
 
   <section class="section section-white">
@@ -46,7 +46,7 @@ layout: default
             Le porteur administratif est {{ page.owner }}.
           </li>
           {% comment %} Détection de l'incubateur {% endcomment %}
-          {% capture incubator_id %}/incubateurs/{{ page.incubator }}{% endcapture %}
+          {% capture incubator_id %}/approche/incubateurs/{{ page.incubator }}{% endcapture %}
           {% assign incubator = site.incubators | where:'id', incubator_id | first %}
           <li>L'incubateur est <a href="{{ incubator.url }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.</li>
           <li>

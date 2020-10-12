@@ -18,13 +18,13 @@ mapping:
         - type:      map
           mapping:
             "start":
-              type:      str
+              type:      date
               required:  yes
             "end":
-              type:      str
+              type:      date
             "status":
               type:      str
-              assert:    "['dinsic','service','independent','admin'].include?(val)"
+              assert:    "['service','independent','admin'].include?(val)"
               required:  yes
             "employer":
               type:      str
@@ -36,3 +36,9 @@ mapping:
     type:      seq
     sequence:
         - type:      any
+  "badges":
+    type:      seq
+    sequence:
+        - type:      str
+          enum:
+            - segur

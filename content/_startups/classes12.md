@@ -2,10 +2,18 @@
 title: Classes à 12
 mission: Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves.
 owner: Ministère de l'Éducation nationale
-incubator: dinsic
-status: acceleration
-start: 2018-06-01
-end:
+sponsors: 
+    - name: Direction générale de l'enseignement scolaire
+      acronym: DGSCO
+      domaine_ministeriel: education-nat
+      type: administration-centrale
+incubator: dinum
+phases:
+  - name: investigation
+    start: 2018-06-01
+  - name: construction
+    start: 2018-06-01
+  - name: acceleration
 link: http://classea12.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12
 stats: false

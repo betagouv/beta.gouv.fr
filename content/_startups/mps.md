@@ -1,11 +1,14 @@
 ---
 title: Marchés publics simplifiés
 mission: Candidater en ligne à un Marché Public avec uniquement son SIRET
-owner: DINSIC
-incubator: dinsic
-status: consolidation
-start: 2014-01-01
-end:
+owner: DINUM
+incubator: dinum
+phases:
+  - name: investigation
+    start: 2014-01-01
+  - name: construction
+    start: 2014-01-01
+  - name: alumni
 link: https://mps.apientreprise.fr
 repository:
 stats: true

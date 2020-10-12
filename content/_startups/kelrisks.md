@@ -3,13 +3,16 @@ title: Kelrisks
 mission: Evaluer et conseiller sur les risques de pollution d’un terrain.
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
-status: construction
-start: 2018-11-05
-end: 
+phases:
+  - name: investigation
+    start: 2018-11-05
+  - name: construction
+    start: 2018-11-05
+  - name: construction
 link: https://kelrisks.beta.gouv.fr
 repository: https://github.com/MTES-MCT/kelrisks
 stats: false
-contact: contact@kelrisks.gouv.fr
+contact: contact@kelrisks.beta.gouv.fr
 ---
 
 ## La pollution des sols : un risque invisible mais bien réel

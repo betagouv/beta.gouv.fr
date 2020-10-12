@@ -2,8 +2,8 @@
 fullname: Alexia Rey
 role: Développeuse
 missions:
-  - start: '2017-04-10'
-    end: '2017-04-21'
+  - start: 2017-04-10
+    end: 2017-04-21
     status: independent
     employer: red-innovation
 startups:

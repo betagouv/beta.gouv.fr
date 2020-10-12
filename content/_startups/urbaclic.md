@@ -2,10 +2,16 @@
 title: Urbaclic
 mission: Accéder aux règles d'urbanisme en quelques clics
 owner: SGAR Occitanie, Etalab
-incubator: dinsic
-status: death
-start: 2016-03-01
-end:
+incubator: dinum
+events:
+  - name: end
+    date: 2017-12-31
+phases:
+  - name: investigation
+    start: 2016-03-01
+  - name: construction
+    start: 2016-03-01
+  - name: alumni
 link: http://www.opendatalab.fr/urbaclic
 repository: https://github.com/betagouv/urbaclic
 stats: false

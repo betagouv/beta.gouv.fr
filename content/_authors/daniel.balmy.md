@@ -1,9 +1,9 @@
 ---
 fullname: Daniel Balmy
-role: Intrapreneur
+role: Mentor
 missions:
-  - start: '2017-09-28'
-    end: '2020-01-31'
+  - start: 2017-09-28
+    end: 2020-12-31
     status: admin
     employer: affaires-sociales
 startups:

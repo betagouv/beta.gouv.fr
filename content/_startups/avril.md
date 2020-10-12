@@ -2,10 +2,18 @@
 title: Avril - La V.A.E. facile
 mission: Obtenir un diplôme grâce à vos compétences
 owner: Pôle emploi
+sponsors: 
+    - name: Pôle Emploi
+      acronym: PE
+      domaine_ministeriel: travail
+      type: operateur
 incubator: pole-emploi
-status: acceleration
-start: 2017-05-01
-end:
+phases:
+  - name: investigation
+    start: 2017-05-01
+  - name: construction
+    start: 2017-05-01
+  - name: transfer
 link: https://avril.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/avril
 stats: true

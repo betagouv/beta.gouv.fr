@@ -2,10 +2,18 @@
 title: RDV Solidarités (anciennement Lapins)
 mission: Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité
 owner: Consortium de départements
-incubator: dinsic
-status: acceleration
-start: 2018-01-18
-end: 
+sponsors: 
+    - name: Fabrique des territoire
+      acronym:
+      domaine_ministeriel: territoires
+      type: collectivite-territoriale
+incubator: dinum
+phases:
+  - name: investigation
+    start: 2018-01-18
+  - name: construction
+    start: 2018-01-18
+  - name: acceleration
 link: https://rdv-solidarites.fr
 repository: https://github.com/betagouv/rdv-solidarites.fr
 stats: false
@@ -24,7 +32,7 @@ Les activités de la Protection Maternelle et Infantile (PMI) et d'accueil socia
 
 Les solutions trouvées pour le Pas-de-Calais ont vocation à être étendues, enrichies et partagées avec d'autres départements. Une rapide étude a confirmé l'existence de cette situation  dans un nombre considérable de départements. 
 
-En avril 2019, 12 collectivités départementales se sont associées pour former un consortium soutenu par la DINSIC, créer une plateforme commune et partager les bonnes pratiques. 
+En avril 2019, 12 collectivités départementales se sont associées pour former un consortium soutenu par la DINUM, créer une plateforme commune et partager les bonnes pratiques. 
 
 ## Une solution numérique pour faciliter la prise, l’annulation et le remplacement de rendez-vous
 

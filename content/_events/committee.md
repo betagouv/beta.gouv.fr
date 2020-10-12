@@ -1,0 +1,3 @@
+---
+label: Passage en comité
+---

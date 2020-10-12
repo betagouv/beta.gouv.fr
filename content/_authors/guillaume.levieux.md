@@ -3,8 +3,8 @@ fullname: Guillaume Levieux
 role: Intrapreneur
 github: guillaumelevieux
 missions:
-  - start: '2017-12-15'
-    end: '2020-07-31'
+  - start: 2017-12-15
+    end: 2020-12-31
     status: admin
     employer: MTES
 startups:

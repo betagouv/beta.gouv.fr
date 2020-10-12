@@ -1,11 +1,18 @@
 ---
 title: Plante & Moi
 mission: Augmenter la présence de la nature en ville
-owner: DINSIC
-incubator: dinsic
-status: construction
-start: 2016-10-01
-end:
+owner: DINUM
+incubator: dinum
+sponsors: 
+    - name: Direction interministérielle du numérique
+      acronym: DINUM
+      domaine_ministeriel: environnement
+      type: administration-centrale
+phases:
+  - name: investigation
+    start: 2016-10-01
+  - name: construction
+    start: 2016-10-01
 link:
 repository: https://github.com/betagouv/plante-et-moi
 stats: false

@@ -2,10 +2,18 @@
 title: e-MJPM
 mission: Trouver rapidement le bon professionnel pour les majeurs à protéger
 owner: Ministère des Affaires sociales
+sponsors:
+    - name: Direction generale de la cohesion sociale
+      acronym: DGCS
+      domaine_ministeriel: affaires-sociales
+      type: administration-centrale
 incubator: sgmas
-status: acceleration
-start: 2017-10-26
-end:
+phases:
+  - name: investigation
+    start: 2017-10-26
+  - name: construction
+    start: 2017-10-26
+  - name: acceleration
 link: https://emjpm.num.social.gouv.fr/
 repository: https://github.com/SocialGouv/eMJPM-homepage
 stats: false

@@ -2,10 +2,18 @@
 title: transport.data.gouv.fr
 mission: De l’information voyageur pour tous, partout en France, grâce à l’ouverture des données.
 owner: DGITM
-incubator: dinsic
-status: acceleration
-start: 2017-07-03
-end:
+sponsors:
+    - name: Direction generale des Infrastructures, des Transports et de la Mer
+      acronym: DGITM
+      domaine_ministeriel: environnement
+      type: administration-centrale
+incubator: dinum
+phases:
+  - name: investigation
+    start: 2017-07-03
+  - name: construction
+    start: 2017-10-01
+  - name: acceleration
 link: https://transport.data.gouv.fr
 repository: https://github.com/etalab/transport-site
 stats: true

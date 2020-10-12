@@ -2,10 +2,13 @@
 title: Les aides de l’Anah
 mission: Accéder rapidement et simplement aux aides à l’habitat privé
 owner: Agence nationale de l’habitat (Anah)
-incubator: dinsic
-status: consolidation
-start: 2016-05-01
-end:
+incubator: dinum
+phases:
+  - name: investigation
+    start: 2016-05-01
+  - name: construction
+    start: 2016-05-01
+  - name: alumni
 link: https://monprojet.anah.gouv.fr/
 repository: 
 stats: true

@@ -2,12 +2,20 @@
 title: Mon-entreprise.fr
 mission: "L'assistant officiel du créateur d'entreprise"
 owner: Acoss
-incubator: dinsic
-status: consolidation
-start: 2014-10-01
-end:
+sponsors:
+    - name: ACOSS
+      acronym: ACOSS
+      domaine_ministeriel: affaires-sociales
+      type: securite-sociale
+incubator: dinum
+phases:
+  - name: investigation
+    start: 2014-10-01
+  - name: construction
+    start: 2014-10-01    
+  - name: transfer
 link: https://mon-entreprise.fr
-repository: https://github.com/betagouv/syso
+repository: https://github.com/betagouv/mon-entreprise
 stats: true
 contact: contact@mon-entreprise.beta.gouv.fr
 ---
@@ -48,9 +56,14 @@ Nos cibles sont en particulier :
 
 Mon-entreprise.fr est développé en étroite collaboration avec le réseau des URSSAF, et tous les acteurs institutionnels qui se montrerons intéressés.
 
-Ce site s'appuiera sur le succès du *simulateur d'embauche*, intégré aujourd'hui sur une multitudes de sites Web (urssaf.fr, pole-emploi.fr, aides-entreprise.fr, et une cinquentaine d'autres). Le module leur reste disponible, et la simulation devient une section de mon-entreprise.fr.
+### Budget 💶
 
+👉 [Consulter la description détaillée et atualisée](https://mon-entreprise.fr/budget)
 
-## Budget 💶
+### Internationalisation 🌍
 
-La startup a un budget annuel pour l'année 2019 de _300 000 euros_ (tout compris, mais hors TVA), et bénéficie de l'aide précieuse de plusieurs agents de l'administration. La DINSIC et l'ACOSS se partagent le financement.
+Le service est également disponible en anglais à l'adresse [mycompanyinfrance.fr](https://mycompanyinfrance.fr)
+
+### Technologie 💻
+
+Tous les simulateurs et formulaires interactifs de mon-entreprise sont basé sur le moteur de calcul [publicodes](https://publi.codes), publié en open-source et réutilisable par tous.

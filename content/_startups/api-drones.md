@@ -2,10 +2,21 @@
 title: API Drones
 mission: Une meilleure connaissance du ciel pour plus de sécurité et d'innovation
 owner: SGDSN
-incubator: dinsic
-status: death
-start: 2017-06-01
-end:
+sponsors: 
+    - name: Secrétariat général de la défense et de la sécurité nationale
+      acronym: SGDSN
+      domaine_ministeriel: spm
+      type: administration-centrale
+incubator: dinum
+events:
+  - name: end
+    date: 2018-12-31
+phases:
+  - name: investigation
+    start: 2017-06-01
+  - name: construction
+    start: 2017-06-01
+  - name: alumni
 link:
 repository: https://framagit.org/drone
 stats: false

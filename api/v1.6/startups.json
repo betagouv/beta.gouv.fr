@@ -6,15 +6,15 @@ layout: null
     { "self": "{{ site.url }}/startups" }
 , "data":
     [
-    {% assign startups = site.startups | where_exp: 'startups', 'startups.status != death' %}
+    {% assign startups = site.startups %}
     {% for startup in startups %}
         { "id"        : "{{ startup.id | remove: '/startups/' }}"
         , "type"      : "startup"
         , "attributes":
             { "name"  : "{{ startup.title }}"
             , "pitch" : "{{ startup.mission }}"
-            , "start": "{{ startup.start}}"
-            , "status": "{{ startup.status}}"
+            , "start": "{{ startup.phases.first.start}}"
+            , "status": "{{ startup.phases.last.name }}"
             }
         , "relationships":
             { "incubator":

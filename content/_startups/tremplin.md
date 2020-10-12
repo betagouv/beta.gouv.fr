@@ -2,10 +2,24 @@
 title: Tremplin
 mission: Rapprocher les professionnels de santé de leur futur territoire d’exercice
 owner: Ministère des Solidarités et de la Santé
+sponsors:
+    - name: Direction generale de la sante
+      acronym: DGS
+      domaine_ministeriel: affaires-sociales
+      type: administration-centrale
 incubator: sgmas
-status: construction
-start: 2019-01-01
-end:
+events:
+  - name: end
+    date: 2020-01-01
+phases:
+  - name: investigation
+    start: 2019-01-01
+    end: 2019-03-30
+  - name: construction
+    start: 2019-03-30
+    end: 2020-01-01
+  - name: alumni
+    start: 2020-01-01
 link:
 repository:
 stats: false
@@ -68,3 +82,8 @@ Pour ce faire, nous sommes en lien avec des internes en médecine générale, de
 Parce qu’il vaut mieux passer du temps à construire son projet qu’à compiler des données, il apparaît essentiel que les professionnels en recherche puissent consulter l’ensemble des informations et se mettre en lien avec le terrain rapidement et facilement.
 
 Tremplin proposera un outil de recherche permettant de mettre en avant les territoires qui correspondent le mieux aux critères de chaque professionnel de santé en recherche.
+
+## Arrêt de Tremplin
+
+Ce service a cessé son activité au 01/01/2020. Le produit n'a pas trouvé son public. L'offre portée par Tremplin n'a pas été jugée assez différenciante pour résoudre le problème des déserts médicaux. 
+

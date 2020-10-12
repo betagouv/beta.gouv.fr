@@ -1,11 +1,11 @@
 ---
 fullname: Clémence Chalopet
-role: Chargée de développement Seine-Saint-Denis & opérateurs nationaux
+role: Responsable de l'atelier numérique du ministère de la Culture
 missions:
-  - start: '2018-03-26'
-    end: '2019-12-31'
+  - start: 2018-03-26
+    end: 2021-12-31
     status: admin
     employer: Ministère de la Culture
-startups:
+previously:
   - pass-culture
 ---
