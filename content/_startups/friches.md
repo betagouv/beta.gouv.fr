@@ -14,7 +14,7 @@ phases:
     end: 2020-05-19
   - name: construction
     start: 2020-09-14
-link:
+link: https://betagouv.github.io/urbanvitaliz/
 repository: 
 stats: false 
 stats_url: 
