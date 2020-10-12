@@ -4,7 +4,7 @@ startup: le-taxi
 techno: Python
 title: L’équipe de l'API le.taxi cherche une développeuse ou un développeur !
 externalURL: https://le.taxi
-open: false
+open: true
 ---
 
 Vous rejoindrez l’équipe autonome qui développe le registre national des taxis !
