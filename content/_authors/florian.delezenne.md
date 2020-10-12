@@ -21,6 +21,8 @@ previously:
   - mdph
   - mes-aides
   - geo.data.gouv.fr
+badges:
+  - segur
 ---
 
 [Cliquez ici pour améliorer cette bio]

@@ -12,6 +12,8 @@ missions:
     employer: dinum
 startups:
   - aplus
+badges:
+  - segur
 ---
 
 Je suis une drôle de dame.

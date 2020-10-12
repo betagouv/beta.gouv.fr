@@ -11,4 +11,6 @@ startups:
   - histologe
   - apprentissage
   - cmachance
+badges:
+  - segur
 ---
