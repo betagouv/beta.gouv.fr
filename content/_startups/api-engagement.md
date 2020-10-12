@@ -26,7 +26,7 @@ contact: contact@api-engagement.beta.gouv.fr
 
 # À quoi sert l’API Engagement ?
 
-L’API Engagement facilite la diffusion des missions de bénévolat et de volontariat partout en France. C’est un service public numérique gratuit qui permet aux plateformes d’engagement publiques et privées de mettre en commun leurs missions. LAPI permet ainsi d'augmenter la visibilité des annonces et le taux d’occupation des places offertes aux potentiels bénévoles et volontaires.
+L’API Engagement facilite la diffusion des missions de bénévolat et de volontariat partout en France. C’est un service public numérique gratuit qui permet aux plateformes d’engagement publiques et privées de mettre en commun leurs missions. L'API permet ainsi d'augmenter la visibilité des annonces et le taux d’occupation des places offertes aux potentiels bénévoles et volontaires.
 
 Concrètement, chaque plateforme peut intégrer l’API pour diffuser ses missions vers les autres plateformes partenaires d'une part, et récupérer les missions disponibles sur les autres plateformes selon des critères spécifiques comme la localisation, le domaine d’action, etc. Le tableau de bord de l’API permet à chaque partenaire de configurer les flux de missions, entrant et sortant, et de mesurer la contribution de chaque plateforme en missions et en trafic.
 
