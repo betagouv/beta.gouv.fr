@@ -6,7 +6,7 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2020-06-23
-    end: 
+    end: 2020-09-15
 link:
 repository: 
 stats: false 
@@ -51,11 +51,14 @@ Quel que soit le problème évoqué en entretien, une solution de contournement 
 Ce point est alourdi par le nombre de portails potentiellement concernés, et l'impossibilité à l'heure actuelle d'avoir une vision de tous les comptes existants sur l'ensemble des portails publics.
 
 #### Autres problèmes remontés
-*A venir*
-
+Voir le document de synthèse de l'investigation plus bas
 
 ## Hypothèses de solution 
-*A venir*
+Voir le document de synthèse de l'investigation plus bas
 
 ## Suites à l'investigation
-*A venir*
+L'investigation est interrompue en septembre 2020 car elle apparaît moins prioritaire que le travail en cours sur la brique "socle" logicielle, mené en parallèle par les intrapreneur·se·s. Il est prévue de la reprendre en 2021, en focalisant sur les besoins des grandes entreprises. En effet, celles-ci ont d'une part été moins entendues que les plus petites au cours de l'investigation. D'autre part, celles interrogées ont fait part de problèmes spécifiques qui pourraient appeler résolution via ProConnect.
+
+2 notes de synthèses ont été produites :
+- [Synthèses des apprentissages de l'investigation](../docs/syntheses_investigations/ProConnect-BilanInvestigation-VF.pdf)
+- [Note expliquant l'interruption de l'investigation](../docs/syntheses_investigations/Note_interruption_investigation_proconnect.pdf)
