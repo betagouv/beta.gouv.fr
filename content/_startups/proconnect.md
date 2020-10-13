@@ -60,5 +60,5 @@ Voir le document de synthèse de l'investigation plus bas
 L'investigation est interrompue en septembre 2020 car elle apparaît moins prioritaire que le travail en cours sur la brique "socle" logicielle, mené en parallèle par les intrapreneur·se·s. Il est prévue de la reprendre en 2021, en focalisant sur les besoins des grandes entreprises. En effet, celles-ci ont d'une part été moins entendues que les plus petites au cours de l'investigation. D'autre part, celles interrogées ont fait part de problèmes spécifiques qui pourraient appeler résolution via ProConnect.
 
 2 notes de synthèses ont été produites :
-- [Synthèses des apprentissages de l'investigation](/docs/syntheses_investigations/ProConnect-BilanInvestigation-VF.pdf)
-- [Note expliquant l'interruption de l'investigation](/docs/syntheses_investigations/Note_interruption_investigation_proconnect.pdf)
+- [Synthèses des apprentissages de l'investigation](/contents/docs/syntheses_investigations/ProConnect-BilanInvestigation-VF.pdf)
+- [Note expliquant l'interruption de l'investigation](/contents/docs/syntheses_investigations/Note_interruption_investigation_proconnect.pdf)
