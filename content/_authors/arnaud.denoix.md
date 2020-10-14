@@ -13,4 +13,6 @@ startups:
   - itou 
   - la-bonne-formation
   - memo
+badges:
+  - segur
 ---
