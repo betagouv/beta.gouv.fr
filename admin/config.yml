@@ -278,6 +278,13 @@ collections:
         collection: startups
         required: false
         multiple: true
+      - label: Badges
+        name: "badges"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+           - { label: "Ségur", value: "segur" }
       - label: Description
         hint: "Raconte-nous qui tu es dans une phrase percutante !"
         name: body

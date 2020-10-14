@@ -14,6 +14,8 @@ mapping:
     type:      str
   "missions":
     type:      seq
+    required:  yes
+    assert:    "val.length() > 0"
     sequence:
         - type:      map
           mapping:
@@ -36,3 +38,9 @@ mapping:
     type:      seq
     sequence:
         - type:      any
+  "badges":
+    type:      seq
+    sequence:
+        - type:      str
+          enum:
+            - segur

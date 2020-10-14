@@ -9,4 +9,6 @@ missions:
     employer: OCTO 
 startups: 
     - signalement
+badges: 
+    - segur
 --- 
