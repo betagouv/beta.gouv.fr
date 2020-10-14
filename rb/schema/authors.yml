@@ -14,6 +14,8 @@ mapping:
     type:      str
   "missions":
     type:      seq
+    required:  yes
+    assert:    "val.length() > 0"
     sequence:
         - type:      map
           mapping:
