@@ -9,6 +9,8 @@ missions:
     status: independent
 startups: 
     - itou
+previously:
+    - andi
 
 ---
 
