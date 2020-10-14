@@ -13,4 +13,5 @@ startups:
     - signaux-faibles
 ---
 
+
 Data scientist full-stack. Fort intérêt pour l'économie, les sciences politiques, et l'amélioration du secteur public. Aime être dehors. il/lui.

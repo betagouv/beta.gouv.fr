@@ -5,7 +5,7 @@ link: https://www.miximum.fr
 github: thibault
 missions:
   - start: 2018-08-01
-    end: 2020-10-01
+    end: 2020-12-31
     status: independent
 startups:
     - aides-territoires

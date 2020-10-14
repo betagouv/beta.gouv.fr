@@ -2,6 +2,11 @@
 title: IDQuart
 mission: Favoriser l'émergence d'une plateforme de concertation innovante entre citoyens et collectivités
 owner: Agglomération de Pau Béarn Pyrénées
+sponsors: 
+    - name: Agglomération de Pau Béarn Pyrénées
+      acronym:
+      domaine_ministeriel: territoires
+      type: collectivite-territoriale
 incubator: anct
 phases:
   - name: investigation

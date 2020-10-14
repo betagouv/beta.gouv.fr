@@ -3,11 +3,19 @@ title: maraudes
 mission: Accompagner l'insertion des personnes à la rue
 incubator: sgmas
 owner: le Ministère des Affaires sociales
+sponsors:
+    - name: Direction generale de la cohesion sociale
+      acronym: DGCS
+      domaine_ministeriel: affaires-sociales
+      type: administration-centrale
 phases:
   - name: investigation
     start: 2019-06-01
   - name: construction
     start: 2019-06-01
+events:
+  - name: end
+    date: 2020-03-13
 link:
 stats: false
 contact: giulia.reboa@jscs.gouv.fr

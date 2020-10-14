@@ -2,6 +2,11 @@
 title: La Bonne Alternance
 mission: Trouvez ici les entreprises qui recrutent régulièrement en alternance
 owner: Pôle emploi
+sponsors: 
+    - name: Pôle Emploi
+      acronym: PE
+      domaine_ministeriel: travail
+      type: operateur
 incubator: pole-emploi
 phases:
   - name: investigation

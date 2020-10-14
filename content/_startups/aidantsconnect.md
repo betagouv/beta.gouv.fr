@@ -2,6 +2,11 @@
 title: Aidants Connect
 mission: Permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule.
 owner: Agence du Numérique
+sponsors: 
+    - name: Agence du numérique
+      acronym:
+      domaine_ministeriel: territoires
+      type: operateur
 incubator: anct
 phases:
   - name: investigation

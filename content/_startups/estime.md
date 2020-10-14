@@ -3,6 +3,11 @@ title: ESTIME
 mission: Soutenir la reprise d'activité des demandeurs d'emploi en leur
   permettant de connaitre les ressources financières dont ils disposeront 
 owner: Pôle emploi
+sponsors: 
+    - name: Pôle Emploi
+      acronym: PE
+      domaine_ministeriel: travail
+      type: operateur
 incubator: pole-emploi
 contact: juliette.fracchiolla-hurstel@pole-emploi.fr
 phases:

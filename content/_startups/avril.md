@@ -2,6 +2,11 @@
 title: Avril - La V.A.E. facile
 mission: Obtenir un diplôme grâce à vos compétences
 owner: Pôle emploi
+sponsors: 
+    - name: Pôle Emploi
+      acronym: PE
+      domaine_ministeriel: travail
+      type: operateur
 incubator: pole-emploi
 phases:
   - name: investigation

@@ -3,6 +3,11 @@ title: Cmachance
 mission: Augmenter le nombre d'apprentis dans l'artisanat 
 owner: Chambre de Métiers et de l'Artisanat Hauts-de-France
 incubator: dinum
+sponsors: 
+    - name: Chambre de Métiers et de l'Artisanat Hauts-de-France
+      acronym: CMA Hauts de France
+      domaine_ministeriel: territoires
+      type: collectivite-territoriale
 phases:
   - name: construction
     start: 2020-03-15

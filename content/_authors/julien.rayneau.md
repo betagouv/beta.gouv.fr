@@ -9,4 +9,6 @@ missions:
 startups:
     - place-des-entreprises
     - signalement
+badges:
+    - segur
 ---
