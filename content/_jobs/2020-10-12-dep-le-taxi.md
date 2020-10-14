@@ -16,9 +16,7 @@ Le.Taxi a été lancé en 2015. Il s’agit d’une API mise à disposition :
 
 # La mission
 
-La Loi d’Orientation des Mobilités votée fin 2019 rend obligatoire la connexion à ce registre pour l’ensemble des taxis français. Cette obligation va déclencher un surcroît d’activité dans les prochains mois, notamment en ce qui concerne la connexion à l’API des opérateurs de taxis. 
- Il s’agira plus particulièrement des missions suivantes : 
-Nous cherchons donc une personne pour rejoindre notre équipe afin d’atteindre l’objectif de connexion de l’ensemble des chauffeurs de taxis au niveau national en 2021. Il s’agira plus particulièrement des missions suivantes : 
+La Loi d’Orientation des Mobilités votée fin 2019 rend obligatoire la connexion à ce registre pour l’ensemble des taxis français. Cette obligation va déclencher un surcroît d’activité dans les prochains mois, notamment en ce qui concerne la connexion à l’API des opérateurs de taxis. Nous cherchons donc une personne pour rejoindre notre équipe afin d’atteindre l’objectif de connexion de l’ensemble des chauffeurs de taxis au niveau national en 2021. Il s’agira plus particulièrement des missions suivantes : 
 - Assister notre responsable de projet dans le déploiement de l’API auprès des partenaires :  équipementiers taxis, applications grand public, applications réservés aux chauffeurs, compagnies de taxis (validation des demandes, suivi de la connexion…)
 - Améliorer les supports de communication à destination des opérateurs et chauffeurs de taxis ;
 - Animer et stimuler les partenariats noués, par exemple en organisant des rencontres de la communauté ;
