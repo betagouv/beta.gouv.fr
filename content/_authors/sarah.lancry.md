@@ -8,7 +8,7 @@ missions:
     start: 2019-07-04
     status: independent
 startups: 
-    - andi
+    - itou
 
 ---
 
