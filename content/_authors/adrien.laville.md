@@ -1,14 +1,17 @@
 ---
 fullname: Adrien Laville
 role: Coach
+github: AdrienLaville
 avatar: https://i.goopics.net/dpgnJ.jpg
 missions:
   - start: 2018-12-01
-    end:
+    end: 2021-01-01
     status: service
     employer: NUMA
-github: AdrienLaville
 startups:
+  - zero-logement-vacant
+previously:
   - domifa
   - tremplin
+  - conseau
 ---
