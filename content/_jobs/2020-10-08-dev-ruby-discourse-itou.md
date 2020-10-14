@@ -28,14 +28,20 @@ En rejoignant les Startups d'Etat vous mettez vos compétences au service du col
 - Modification du thème existant
 - Modification des plugins existants et/ou création des plugins nécessaires
 
-## Compétences
+## Votre profil
 
-- SASS / Ruby on Rails / Postgres
-- Sidekiq / Redis
-- EmberJS
-- Docker
-- Discourse
-- Déploiement automatisé sur Clever Cloud
+- Vous avez au moins 3 ans d'expérience
+- Vous êtes à l’aise avec Ruby on Rails et Ember.js
+- Vous êtes à l’aise avec HTML et CSS
+- Vous êtes à l’aise avec PostgreSQL
+- Vous connaissez Docker
+
+## Vous marquerez des points supplémentaires si
+
+- Vous avez une expérience avec Discourse
+- Vous avez une expérience avec Sidekiq / Redis
+- Vous avez une expérience avec le préprocesseur Sass
+- Vous connaissez le déploiement automatisé avec Clever Cloud
 
 ## Conditions
 
