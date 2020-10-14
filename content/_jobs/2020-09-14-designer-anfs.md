@@ -8,7 +8,7 @@ equipe: Plan de relance Inclusion Numérique
 contrat: indépendant
 post_ouvert: 2020-09-16
 contact: incubateur@anct.gouv.fr
-open: true
+open: false
 ---
 
 La startup d’Etat pilotée par le [Programme Société Numérique](https://societenumerique.gouv.fr) avec l'appui de la [Banque des Territoires](https://www.banquedesterritoires.fr/) qui a pour objectifs de donner à tous les moyens de saisir les opportunités du numérique, levier de l’émancipation et de favoriser la montée en compétences des 13 millions de Français éloignés du numérique.
