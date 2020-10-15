@@ -1,7 +1,7 @@
 ---
 roles: un·e designer UX/UI
 startup: acceslibre
-open: true
+open: false
 title: Acceslibre recrute un·e designer UX/UI
 ---
 
