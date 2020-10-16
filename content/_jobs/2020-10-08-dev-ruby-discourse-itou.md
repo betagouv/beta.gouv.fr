@@ -1,7 +1,7 @@
 ---
 roles: Dev Ruby / Discourse
 startup: itou
-open: true
+open: false
 ---
 
 ## La Plateforme de l'inclusion recrute un dev Ruby / Discourse
