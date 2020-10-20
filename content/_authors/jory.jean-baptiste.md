@@ -1,7 +1,7 @@
 ---
 fullname: Jory JEAN-BAPTISTE
 role: Chargée de communication
-link: www.linkedin.com/in/jory-jean-baptiste
+link: https://www.linkedin.com/in/jory-jean-baptiste
 missions:
   - start: 2019-10-07
     end: 2021-09-30
