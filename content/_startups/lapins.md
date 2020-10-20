@@ -1,5 +1,5 @@
 ---
-title: RDV Solidarités
+title: RDV-Solidarités
 mission: Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité
 owner: Consortium de départements
 sponsors:
