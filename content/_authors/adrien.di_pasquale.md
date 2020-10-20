@@ -1,6 +1,6 @@
 ---
 fullname: Adrien Di Pasquale
-role: Développeur Fullstack
+role: Développeur Web
 github: adipasquale
 link: https://adrien.dipasquale.fr
 missions:
@@ -15,5 +15,3 @@ startups:
 previously:
   - codedutravail
 ---
-
-Python, Ruby on Rails et JS
