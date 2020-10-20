@@ -38,11 +38,11 @@ L’intrapreneur(e) est une personne qui :
 - A une grande connaissance du sujet de l'insertion professionnelle et des problèmes opérationnels / de terrain ;
 - fait preuve de résilience et d'opiniâtreté, prêt(e) à convaincre des acteurs et utilisateurs de tous types et ne pas se laisser décourager si le vent tourne ; 
 - est prêt(e) à être formé(e) par les équipes beta.gouv.fr à des sujets aussi variés que la gestion de produit, la recherche utilisateur, le management, la sécurité numérique, la gestion de la croissance etc ;
-- fait preuve d'autonomie et d'esprit d'initiative, sans attendre de directives ou instructions hiérarchiques, dans un environnement qui promeut l'intelligence collective.
+- fait preuve d'autonomie et d'esprit d'initiative, sans attendre d'éventuelle directive ou instruction émanant de la hiérarchie, dans un environnement qui promeut l'intelligence collective.
 
 ## Environnement de travail   
- - Lieu de travail : télétravail encouragé ; nombreux déplacements de terrain à prévoir pour rencontrer des utilisateurs dans plusieurs départements et bassins d'emploi ;
- - Modalités de contrat : ouvert aux contractuels, fonctionnaires et autres salarié(e) d'un établissement public, d'une association ou d'un opérateur de terrain en délégation de service public. Le cas échéant, une convention de mise à disposition entre la DINUM et l'administration d'origine pourra être étudiée ; 
+ - Lieu de travail : télétravail encouragé ; nombreux déplacements sur le terrain à prévoir pour rencontrer des utilisateurs dans plusieurs départements et bassins d'emploi ;
+ - Modalités de contrat : ouvert aux contractuels, fonctionnaires et autres salarié(e)s d'un établissement public, d'une association ou d'un opérateur de terrain en délégation de service public. Le cas échéant, une convention de mise à disposition entre la DINUM et l'administration d'origine pourra être étudiée ; 
  - Durée : les startups d'Etat sont prolongées tous les 6 mois, à l'occasion d'un comité d'investissement, en fonction de l'impact mesuré par l'intrapreneur(e). La mission est donc de 6 mois renouvelables. 
 
 ## Candidater
