@@ -8,7 +8,7 @@ title: Intrapreneur(e) pour investigations sur le Service Public de l’Insertio
 ## Mission 
 
 - Conduire une investigation de 9 semaines sur un problème terrain lié à l'insertion : s’entretenir avec des utilisateurs sur le terrain, définir précisément le problème que l'on souhaite résoudre, et l'impact attendu, recenser les solution existantes ;
-- A l'issue de l'investigation, agir comme une ou un responsable de produit, au sein de l'équipe de la [Plateforme de l'inclusion](inclusion.beta.gouv.fr) : 
+- A l'issue de l'investigation, agir comme une ou un responsable de produit, au sein de l'équipe de la [Plateforme de l'inclusion](https://inclusion.beta.gouv.fr/) : 
     - tester chaque semaine ses idées auprès d'usagers avant de lancer des développements ;
     - réviser ses plans en permanence en fonction de ce que l’équipe vient d’apprendre ;
     - recueillir chaque jour des retours utilisateurs et permettre à son équipe de livrer une nouvelle version de la solution avec un rythme régulier - toutes les semaines, voire tous les jours en fonction de la phase du développement ;
