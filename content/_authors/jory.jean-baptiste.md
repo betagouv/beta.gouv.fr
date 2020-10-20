@@ -1,5 +1,5 @@
 ---
-fullname: Jory  JEAN-BAPTISTE
+fullname: Jory JEAN-BAPTISTE
 role: Chargée de communication
 link: www.linkedin.com/in/jory-jean-baptiste
 missions:
