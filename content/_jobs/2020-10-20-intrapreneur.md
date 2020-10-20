@@ -24,7 +24,7 @@ title: Intrapreneur(e) pour investigations sur le Service Public de l’Insertio
 - Parmi les actions du SPIE, ont été formulées des hypothèses de solutions numériques à des problèmes terrain, qui feront l'objet de deux investigations dédiées  : 
     1. **"Cartographie de l'offre d'insertion"** : Les accompagnateurs manquent des opportunités de prescriptions faute d’avoir une connaissance en temps réel de l’offre d’insertion sur un territoire (hébergement d'urgence, aide illettrisme etc…) ; 
     2. **"Carnet de bord"** : Les personnes accompagnées ont peu de maîtrise des informations qui circulent sur elles, ou des outils numériques utilisés par les différents acteurs, d'abord pensés pour un usage professionnel. Cela a un impact sur l’autonomie des personnes, ainsi que les délais de leurs parcours. L'enjeu de l'investigation est de déterminer les conditions de réussite d'un service numérique qui s'adresserait d'abord aux usagers. 
-- La [Plateforme de l'inclusion](https://inclusion.beta.gouv.fr/), startup d'Etat qui vise à faciliter les embauches en IAE, a déjà été adoptée par des milliers de prescripteurs, orienteurs, recruteurs et candiat(e)s. L'intrapreneur rejoindra l'équipe de la Plateforme pour prendre en charge une nouvelle investigation et concevoir les solutions associées, au service du SPIE.
+- La [Plateforme de l'inclusion](https://inclusion.beta.gouv.fr/), startup d'Etat qui vise à faciliter les embauches en IAE, a déjà été adoptée par des milliers de prescripteurs, orienteurs, recruteurs et candidat(e)s. L'intrapreneur rejoindra l'équipe de la Plateforme pour prendre en charge une nouvelle investigation et concevoir les solutions associées, au service du SPIE.
 - Les produits développés seront précisés à l'issue de l'investigation : il pourra s'agir d'une flux de données, d'une fonctionalité nouvelle sur des services existants, ou d'autre chose. 
 
 
@@ -34,10 +34,10 @@ title: Intrapreneur(e) pour investigations sur le Service Public de l’Insertio
 
 
 L’intrapreneur(e) est une personne qui :
-- peut se consacrer à temps plein à sa mission (des modalités de compensation pour mise à disposition pourront être envisagées auprès de son employeur ;
+- peut se consacrer à temps plein à sa mission (des modalités de compensation pour mise à disposition pourront être envisagées auprès de son employeur) ;
 - A une grande connaissance du sujet de l'insertion professionnelle et des problèmes opérationnels / de terrain ;
 - fait preuve de résilience et d'opiniâtreté, prêt(e) à convaincre des acteurs et utilisateurs de tous types et ne pas se laisser décourager si le vent tourne ; 
-- est prêt(e) à être formée par les équipes beta.gouv.fr à des sujets aussi variés que la gestion de produit, la recherche utilisateur, le management, la sécurité numérique, la gestion de la croissance etc ;
+- est prêt(e) à être formé(e) par les équipes beta.gouv.fr à des sujets aussi variés que la gestion de produit, la recherche utilisateur, le management, la sécurité numérique, la gestion de la croissance etc ;
 - fait preuve d'autonomie et d'esprit d'initiative, sans attendre de directives ou instructions hiérarchiques, dans un environnement qui promeut l'intelligence collective.
 
 ## Environnement de travail   
