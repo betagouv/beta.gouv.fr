@@ -10,4 +10,4 @@ startups:
   - locatio
 ---
 
-Etudiante à HEC Paris, j'ai rejoins l'équipe DossierFacile en juin 2020.
+Etudiante à HEC Paris, j'ai rejoint l'équipe DossierFacile en juin 2020.
