@@ -7,6 +7,9 @@ missions:
   - start: 2019-12-18
     end: 2021-12-31
     status: independent
+startups:
+    - potenciel
+    - carbure
 ---
 
 Potentiel et CarbuRe @ La Fabrique Numérique MTES 
