@@ -10,7 +10,7 @@ SignalConso recherche un·e chargé·e de déploiement pour accompagner son dév
 <!--more-->
 
 ##  L'équipe SignalConso recrute un·e chargé·e de développement 
-Prise de poste dès que possible
+Prise de poste prévue début Décembre
 
 ## Qui sommes nous ?
 La DGCCRF, autorité de contrôle, agit en faveur :
