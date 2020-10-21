@@ -1,7 +1,10 @@
 ---
+
 title: L'Atelier Numérique du Ministère de la Culture 
 owner: Ministère de la Culture 
-contact: mailto: clemence.chalopet@culture.gouv.fr
+website:
+github:
+contact: mailto:clemence.chalopet@culture.gouv.fr
 address: 182 rue Saint-Honoré, Paris 1e
 
 ---
