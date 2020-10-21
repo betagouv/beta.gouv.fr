@@ -10,7 +10,7 @@ phases:
 link: 
 repository:
 stats: false
-contact: contact@france-transition.beta.gouv.fr
+contact: france-transition@beta.gouv.fr
 ---
 
 ## Le problème
