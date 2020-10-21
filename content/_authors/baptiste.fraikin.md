@@ -1,10 +1,15 @@
 ---
 fullname: Baptiste Fraikin
-role: Responsable SSI fabrique defense connect
+role: Responsable SSI
 missions:
   - start: 2020-01-08
     end: 2021-01-02
     status: independent
-    employer: MinArm
+    employer: minarm
+github: bafraikin
+startups:
+  - metiis
+  - anais
+  - sepia
+  - fabrique-chatbots
 ---
-
