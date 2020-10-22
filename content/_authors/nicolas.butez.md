@@ -7,7 +7,7 @@ missions:
   - start: 2020-06-01
     end: 2020-12-31
     status: service
-    employer: DNUM
+    employer: affaires-sociales
 ---
 
 Travail à rendre Data Driven les Administrations et les Entreprises en démocratisant la Data Science et la Big Data !
