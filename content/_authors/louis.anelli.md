@@ -1,7 +1,7 @@
 ---
 fullname: Louis Anelli
 role: Responsable SSI
-link: louisanelli.com
+link: http://www.louisanelli.com/
 github: b611
 missions:
   - start: 2020-10-22
