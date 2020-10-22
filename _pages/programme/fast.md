@@ -19,7 +19,16 @@ Ces services publics cherchent à résoudre des problèmes de politique publique
 
 Que vous soyez une administration, un établissement public, ou une collectivité territoriale engagés dans le développement ou l'accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction interministérielle du numérique pouvant aller jusqu'à 300 000 euros.
 
-Pour ce dernier semestre 2020, deux éditions sont programmées en septembre et en novembre, vous pouvez candidater sur l'une ou l'autre d'entre-elles. 
+Ce fonds est aussi accessible à des associations ou des entreprises privées :
+
+- appuyées financièrement par un sponsor administratif de haut niveau ;
+
+- dont le produit numérique répond à un problème de politique publique, à minima, au sein de l’administration concernée.
+
+En revanche, c'est obligatoirement l'administration partenaire qui doit candidater. 
+Si une Directrice ou un Directeur d’Administration Centrale (DAC) porte au FAST un dossier sur un produit développé et porté par une association ou une entreprise et demande un co-financement, les fonds du FAST viendront augmenter l’appui financier de l’administration pour aider l’équipe produit à accélérer.
+
+La dernière édition de 2020 se clôturera le 16 novembre. 
 
 Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux questions dédiée ainsi que les conditions d’éligibilité.
 
@@ -37,7 +46,7 @@ Ce fonds a pour objectif d’investir dans des projets apportant des solutions c
 
 ##### Quelles sont les modalités d’investissement ?
 
-Les appels à candidatures de ces deux prochaines éditions visent à soutenir des solutions numériques existantes, développées par des administrations publiques (Etat ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à l'échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
+L'appel à candidatures de cette 6ème édition vise à soutenir des solutions numériques existantes, développées par des administrations publiques (Etat ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à l'échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
 
 L'administration doit être en mesure de garantir sa capacité à financer à hauteur de la somme qu'elle sollicite (exemple : si le besoin évalué est de 100 000 euros, vous sollicitez 50 000 euros de la DINUM et vous engagez un versement de 50 000 euros sur [une convention public-public](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/)).
 
@@ -63,6 +72,13 @@ A noter : plusieurs administrations et/ou collectivités territoriales peuvent s
 * Avoir une feuille de route pour le produit et pour le déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service) ;
 * Vouloir faire passer ce produit à l’échelle.
 
+Ce fonds est aussi accessible à des associations ou des entreprises privées :
+
+- appuyées financièrement par un sponsor administratif de haut niveau ;
+
+- dont le produit numérique répond à un problème de politique publique, à minima, au sein de l’administration concernée.
+En revanche, c'est obligatoirement l'administration partenaire qui doit candidater. 
+
 ## Quelles sont les modalités de candidature ?
 
 Le dossier de candidature doit préciser clairement :
@@ -74,7 +90,7 @@ Le dossier de candidature doit préciser clairement :
 
 L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de transfert. 
 
-[Candidatez-ici et inscrivez-vous sur la session du 28 septembre ou du 16 novembre 2020.](https://www.demarches-simplifiees.fr/commencer/fast5_6)
+[Candidatez-ici sur la session du 16 novembre 2020.](https://www.demarches-simplifiees.fr/commencer/fast5_6)
 
 ## Quel est le processus de sélection du FAST ?
 
@@ -107,16 +123,19 @@ Sur une durée d'environ 6 mois, ce ticket permettra donc de mobiliser des moyen
 2. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages
 3. Accompagner cette mise en oeuvre de façon opérationnelle
 
+Si une Directrice ou un Directeur d’Administration Centrale (DAC) porte au FAST un dossier sur un produit développé et porté par une association ou une entreprise et demande un co-financement, les fonds du FAST viendront augmenter l’appui financier de l’administration pour aider l’équipe produit à accélérer.
+
 ## Quels sont les projets non-éligibles au FAST
 
 * Des produits en phase d'investigation sans solution minimum viable et sans mesures d'impact déjà établies ; 
 * Des produits existants avec un cahier des charges des fonctionnalités à développer ;
 * Des projets censés résoudre des problèmes d’organisation interne ;
 * Des services numériques dont le code n’est pas ouvert (open source), ou pour lesquels le code ne peut pas être ouvert.
+* Des produits appartenant à une association ou une entreprise privée non sponsorisés par une administration (cette dernière doit candidater au fonds)
 
 ## Comment candidater ?
 
-[Candidatez-ici et inscrivez-vous sur la session du 28 septembre ou du 16 novembre 2020.](https://www.demarches-simplifiees.fr/commencer/fast5_6)
+[Candidatez-ici sur la session du 16 novembre 2020.](https://www.demarches-simplifiees.fr/commencer/fast5_6)
 
 ## J’ai une question, qui puis-je contacter ?
 
