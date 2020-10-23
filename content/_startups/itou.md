@@ -50,7 +50,7 @@ rgpd:
       intervenant: Anne-Laure Hochedez-Planche
       date: 2020-10-06
   mesures_securite: "La plateforme est hébergée en France par un prestataire certifié ISO."
-  validite_homologation: 2020-10-06
+  validite_homologation: 2023-10-06
 ---
 
 
