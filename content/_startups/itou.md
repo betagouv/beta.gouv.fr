@@ -26,31 +26,31 @@ phases:
   - name: acceleration
     start: 2020-07-10
 rgpd:
-  - responsable: DGEFP
-    finalites:
-      - faciliter l’identification des structures d’insertion par l’activité économique
-      - fluidifier le recrutement des personnes éligibles
-      - réduire la charge administrative des structures de l’insertion
-      - renforcer les outils de suivi et de pilotage de la performance des structures d’insertion
-      - stimuler le développement et l’accès aux outils digitaux d’appui aux parcours d’insertion
-    controles:
-      - type: Analyse des risques
-        intervenant: Equipe Itou
-        date: 2020-01-07
-      - type: Tests d'intrusion
-        intervenant: Ernst & Young
-        date: 2020-03-01
-      - type: Homologation provisoire
-        intervenant: Anne-Laure Hochedez-Planche
-        date: 2020-04-02
-      - type: Tests d'intrusion
-        intervenant: Ernst & Young
-        date: 2020-05-02
-      - type: Homologation ferme
-        intervenant: Anne-Laure Hochedez-Planche
-        date: 2020-10-06
-    mesures_securite: "La plateforme est hébergée en France par un prestataire certifié ISO."
-    validite_homologation: 2020-10-06
+  responsable: DGEFP
+  finalites:
+    - faciliter l’identification des structures d’insertion par l’activité économique
+    - fluidifier le recrutement des personnes éligibles
+    - réduire la charge administrative des structures de l’insertion
+    - renforcer les outils de suivi et de pilotage de la performance des structures d’insertion
+    - stimuler le développement et l’accès aux outils digitaux d’appui aux parcours d’insertion
+  controles:
+    - type: Analyse des risques
+      intervenant: Equipe Itou
+      date: 2020-01-07
+    - type: Tests d'intrusion
+      intervenant: Ernst & Young
+      date: 2020-03-01
+    - type: Homologation provisoire
+      intervenant: Anne-Laure Hochedez-Planche
+      date: 2020-04-02
+    - type: Tests d'intrusion
+      intervenant: Ernst & Young
+      date: 2020-05-02
+    - type: Homologation ferme
+      intervenant: Anne-Laure Hochedez-Planche
+      date: 2020-10-06
+  mesures_securite: "La plateforme est hébergée en France par un prestataire certifié ISO."
+  validite_homologation: 2020-10-06
 ---
 
 
