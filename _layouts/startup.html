@@ -94,9 +94,9 @@ layout: default
       <h2>Protection des données personnelles</h2>
       <div class="text-quote">
           <ul>
-            <li>Le responsable du traitement est {{ page.rgpd.responsable }}</li>
+            <li>Le responsable du traitement est: <b>{{ page.rgpd.responsable }}</b></li>
             {% if page.rgpd.finalites %}
-            <li>Le traitement a pour finalité(s): {{ page.rgpd.finalites }}</li>
+            <li>Le traitement a pour finalité(s):</li>
             <ul>
               {% for finalite in page.rgpd.finalites %}
               <li>{{ finalite }}</li>
