@@ -88,4 +88,33 @@ layout: default
     </div>
   </section>
 
+  {% if page.rgpd %}
+  <section class="section section-white">
+    <div class="container">
+      <h2>Protection des données personnelles</h2>
+      <div class="text-quote">
+          <ul>
+            <li>Le responsable du traitement est {{ page.rgpd.responsable }}</li>
+            {% if page.rgpd.finalites %}
+            <li>Le traitement a pour finalité(s): {{ page.rgpd.finalites }}</li>
+            <ul>
+              {% for finalite in page.rgpd.finalites %}
+              <li>{{ finalite }}</li>
+              {% endfor %}
+            </ul>
+            {% else %}
+            <li>La finalité du traitement est: {{ page.mission }}</li>
+            {% endif %}
+            <li>Les données personnelles suivantes sont collectées:</li>
+            <ul>
+              {% for donnee in page.rgpd.donnees %}
+              <li>{{ donnee }}</li>
+              {% endfor %}
+            </ul>
+          </ul>
+        </div>
+    </div>
+  </section>
+  {% endif %}
+
 </div>

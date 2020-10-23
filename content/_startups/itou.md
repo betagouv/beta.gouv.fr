@@ -25,6 +25,14 @@ phases:
     start: 2019-06-10
   - name: acceleration
     start: 2020-07-10
+rgpd:
+  - responsable: DGEFP
+    finalites:
+      - faciliter l’identification des structures d’insertion par l’activité économique
+      - fluidifier le recrutement des personnes éligibles
+      - réduire la charge administrative des structures de l’insertion
+      - renforcer les outils de suivi et de pilotage de la performance des structures d’insertion
+      - stimuler le développement et l’accès aux outils digitaux d’appui aux parcours d’insertion
 ---
 
 
