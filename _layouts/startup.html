@@ -111,6 +111,20 @@ layout: default
               <li>{{ donnee }}</li>
               {% endfor %}
             </ul>
+            <li>Les mesures suivantes ont été mises en place en vue d'assurer la sécurité:</li>
+            <ul>
+              {% for controle in page.rgpd.controle %}
+              <li>{{ controle.type }} par {{ controle.intervenant }} le {{ controle.date }}</li>
+              {% endfor %}
+            </ul>
+            {% if page.rgpd.mesures_securite %}
+            <li>{{ page.rgpd.mesures_securite }}</li>
+            {% endif %}
+            {% if page.rgpd.validite_homologation %}
+            <li>Ce produit a fait l'objet d'une homologation de sécurité valable jusqu'au {{ page.rgpd.validite_homologation }}</li>
+            {% else %}
+            <li>Ce produit est encore en cours d'obtention de l'homologation de sécurité</li>
+            {% endif %}
           </ul>
         </div>
     </div>
