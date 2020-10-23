@@ -113,7 +113,7 @@ layout: default
             </ul>
             <li>Les mesures suivantes ont été mises en place en vue d'assurer la sécurité:</li>
             <ul>
-              {% for controle in page.rgpd.controle %}
+              {% for controle in page.rgpd.controles %}
               <li>{{ controle.type }} par {{ controle.intervenant }} le {{ controle.date }}</li>
               {% endfor %}
             </ul>
