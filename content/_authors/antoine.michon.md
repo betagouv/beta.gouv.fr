@@ -1,10 +1,9 @@
 ---
 fullname: Antoine Michon
-role: Chef de projet
+role: Conseiller transformation numérique de l'Etat
 github: antoinemch
 missions:
-  - start: 2019-09-02
-    end: 2020-07-29
+  - start: 2020-07-29
     status: admin
     employer: dinum
 ---
