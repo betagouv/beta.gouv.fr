@@ -1,16 +1,18 @@
 ---
 fullname: Lauren Michel
-role: Cheffe de produit par interim et chargée de déploiement
+role: "Cheffe de produit "
 github: Laurenmichel21
 missions:
-  - start: 2016-04-01
-    end: 2020-10-31
-    status: admin
-    employer:
-startups:
-  - eva
+  - start: 2020-10-11
+    end: 2021-06-30
+    status: independent
+    employer: "Ministère de la Cohésion des territoires et des Relations avec les
+      collectivités territoriales "
+startups: []
 previously:
   - maintenant
+  - place-de-marche-inclusion
+  - eva
 ---
 
 Startupeuse curieuse et persévérante !
