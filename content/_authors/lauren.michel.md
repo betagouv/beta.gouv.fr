@@ -3,7 +3,7 @@ fullname: Lauren Michel
 role: "Cheffe de produit "
 github: Laurenmichel21
 missions:
- - start: 2016-04-01
+  - start: 2016-04-01
     end: 2020-10-10
     status: admin
     employer: Pôle Emploi
