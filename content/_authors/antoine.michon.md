@@ -4,7 +4,7 @@ role: Conseiller transformation numérique
 github: antoinemch
 missions:
   - start: 2019-09-02
-    end: 2020-07-29	
+    end: 2020-07-28	
     status: admin
     employer: dinum
   - start: 2020-07-29
