@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: dinum
   - start: 2020-07-29
-     end: 2021-12-31
+    end: 2021-12-31
     status: admin
     employer: Ministère de la Transformation et de la Fonction publiques 
 ---
