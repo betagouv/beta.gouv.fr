@@ -33,6 +33,14 @@ rgpd:
     - réduire la charge administrative des structures de l’insertion
     - renforcer les outils de suivi et de pilotage de la performance des structures d’insertion
     - stimuler le développement et l’accès aux outils digitaux d’appui aux parcours d’insertion
+  donnees:
+    - "données relatives aux candidats: état-civil détaillé, domicile, téléphone, courriel"
+    - "données relatives à la candidature, au contrat d'agrément et de travail"
+    - "données relatives au parcours de formation"
+    - "critères d'éligibilité des candidats"
+    - "données relatives aux employeurs: nom, prénom, structure, identifiants professionnels"
+    - "données relatives aux prescripteurs: nom, prénom, structure, identifiants professionnels"
+    - "données techniques en vue de la traçabilité des actions sur la plateforme"
   controles:
     - type: Analyse des risques
       intervenant: Equipe Itou
