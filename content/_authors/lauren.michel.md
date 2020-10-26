@@ -4,7 +4,7 @@ role: "Cheffe de produit "
 github: Laurenmichel21
 missions:
  - start: 2016-04-01
-    end: 2020-10-31
+    end: 2020-10-10
     status: admin
     employer: Pôle Emploi
   - start: 2020-10-11
