@@ -9,7 +9,7 @@ redirect_from:
   - /fast
 ---
 
-<img src="https://blog.beta.gouv.fr/img/posts/2020_07_24_1200x675_FAST-5-6_Visuel_Twitter.jpg" alt="Image de présentation du FAST" style="width:100%;" />
+<img src="https://blog.beta.gouv.fr/img/posts/2020_10_13_1200x675_fast6_visuel_twitter.jpg" alt="Image de présentation du FAST" style="width:100%;" />
 
 L'appel à candidatures du Fonds d’accélération des Startups d’État et de Territoire (FAST) vise à co-financer des services publics numériques en phase d’accélération qui ont pour but de résoudre un problème de politique publique.  
 
@@ -46,7 +46,7 @@ Ce fonds a pour objectif d’investir dans des projets apportant des solutions c
 
 ##### Quelles sont les modalités d’investissement ?
 
-L'appel à candidatures de cette 6ème édition vise à soutenir des solutions numériques existantes, développées par des administrations publiques (Etat ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à l'échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
+L'appel à candidatures de cette 6ème édition vise à soutenir des solutions numériques existantes, développées par des administrations publiques (Etat ou collectivités territoriales), qui peuvent également le faire en partenariat avec associations ou entreprises privée, pour en accélérer le déploiement et en favoriser le passage à l'échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
 
 L'administration doit être en mesure de garantir sa capacité à financer à hauteur de la somme qu'elle sollicite (exemple : si le besoin évalué est de 100 000 euros, vous sollicitez 50 000 euros de la DINUM et vous engagez un versement de 50 000 euros sur [une convention public-public](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/)).
 
