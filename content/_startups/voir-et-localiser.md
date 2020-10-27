@@ -24,7 +24,7 @@ contact: contact@voir-et-localiser.beta.gouv.fr
 ---
 
 
-> Après 6 mois d'éxperimentation et un budget de 60k€ la réutilisation de la solution développée pour le ST(SI)² s'est avérée plus compliquée que prévu.
+> Après 6 mois d'expérimentation et un budget de 60k€ la réutilisation de la solution développée pour le ST(SI)² s'est avérée plus compliquée que prévu.
 >
 >La géolocalisation et l'envoi de photos ont pu être expérimentés avec succès mais pas la visiorégulation.
 >
