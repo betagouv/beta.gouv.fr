@@ -8,6 +8,10 @@ missions:
     status: admin
     employer: Pôle Emploi
   - start: 2019-10-01
+    end: 2020-10-12
+    status: independent
+    employer: UT7
+  - start: 2020-10-13
     end: 2021-06-30
     status: independent
     employer: Octo
