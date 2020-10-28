@@ -1,12 +1,12 @@
 ---
-roles: Un ou une chargé(e) de déploiement
+roles: Un ou une chargé(e) de déploiement junior
 startup: le-taxi
-title: L’équipe de l'API le.taxi cherche un(e) chargé(e) de déploiement
-roles: Un(e) chargé(e) de déploiement
+title: L’équipe de l'API le.taxi cherche un(e) chargé(e) de déploiement junior
+roles: Un(e) chargé(e) de déploiement junior
 open: true
 ---
 
-Vous rejoindrez l’équipe autonome qui développe le registre national des taxis !
+Venez rejoindre l’équipe autonome qui développe le registre national des taxis !
 
 # Le produit
 
@@ -26,9 +26,11 @@ La Loi d’Orientation des Mobilités votée fin 2019 rend obligatoire la connex
 
 # Compétences et expérience
 
-Vous avez à cœur de rendre un service de qualité et avez toujours en tête l’utilisateur final lorsque vous travaillez.
-Vous êtes intéressé(e) par les projets open data et par les politiques publiques de transport
-Vous aimez travailler en équipe et avez envie de vous impliquer dans la co-construction d’un produit
+Première expérience dans le secteur du commerce ou de la mobilité souhaitée mais non obligatoire, le poste étant ouvert à des débutants.
+Ce poste vous correspondra si : 
+- Vous avez à cœur de rendre un service de qualité et avez toujours en tête l’utilisateur final lorsque vous travaillez.
+- Vous êtes intéressé(e) par les projets open data et par les politiques publiques de transport.
+- Vous aimez travailler en équipe et avez envie de vous impliquer dans la co-construction d’un produit.
 
 #  L’équipe
 
@@ -38,13 +40,10 @@ Nous travaillons principalement à distance (télétravail ou coworking) et nous
 
 # Modalités
 
-Démarrage : dès que possible 
-Poste ouvert aux personnes travaillant en statut indépendant.
-Si vous vous posez la question, nous sommes nombreux à être contractuels, employés d’une société de prestations ou indépendants au sein de la communauté beta.gouv.fr (plus d’infos : https://beta.gouv.fr/communaute/).
+- Démarrage : janvier 2021
+- Poste ouvert aux personnes travaillant en statut indépendant. Si vous vous posez la question, nous sommes nombreux à être contractuels, employés d’une société de prestations ou indépendants au sein de la communauté beta.gouv.fr (plus d’infos : https://beta.gouv.fr/communaute/).
+- Rémunération : Taux journalier adapté à un profil junior, entre 250 et 300 €, sur 16jours/mois en moyenne.
 
-# Rémunération
-
-La rémunération prévue est calculée à partir d’un taux journalier à définir en fonction de votre niveau d’expérience, entre 250 et 450 euros / jour.
 
 # Candidater
 
