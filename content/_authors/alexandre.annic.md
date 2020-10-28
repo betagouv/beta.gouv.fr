@@ -12,5 +12,5 @@ missions:
 startups:
     - signalement
 badges:
-    - segur # Pour Ségur, si tu penses venir 1 fois par semaine
+    - segur
 ---
