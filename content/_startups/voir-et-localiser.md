@@ -24,7 +24,11 @@ contact: contact@voir-et-localiser.beta.gouv.fr
 ---
 
 
-> Post mortum en cours de rédaction. La publication suivra.
+> Après 6 mois d'expérimentation et un budget de 60k€ la réutilisation de la solution développée pour le ST(SI)² s'est avérée plus compliquée que prévu.
+>
+>La géolocalisation et l'envoi de photos ont pu être expérimentés avec succès mais pas la visiorégulation.
+>
+>À partir de mi-2019, le partenaire a confimé son souhait de mettre en pause ce partenariat pour se concentrer sur le déploiement sur SI SAMU.
 
 # Le problème
 
