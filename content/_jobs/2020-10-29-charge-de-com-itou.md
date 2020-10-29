@@ -28,5 +28,4 @@ title: Chargé(e) de communication auprès des acteurs de l'insertion
  - Modalités de contrat : freelance, 4 jours par semaine.
  
  ## Candidater
-
 Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / autre à recrutement@inclusion.beta.gouv.fr
