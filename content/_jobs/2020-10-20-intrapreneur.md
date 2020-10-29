@@ -47,5 +47,5 @@ L’intrapreneur(e) est une personne qui :
 
 ## Candidater
 
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / autre à contact@inclusion.beta.gouv.fr
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / autre à recrutement@inclusion.beta.gouv.fr
    
