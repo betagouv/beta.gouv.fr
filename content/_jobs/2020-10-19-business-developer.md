@@ -1,7 +1,7 @@
 ---
 roles: Une personne en charge des déploiements
 startup: lapins
-open: true
+open: false
 title: RDV-Solidarités recrute une personne en charge des déploiements
 ---
 
