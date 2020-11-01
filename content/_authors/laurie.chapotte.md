@@ -1,7 +1,7 @@
 ---
 fullname: Laurie Chapotte
 role: Designer 
-github: https://github.com/lauriechap
+github: lauriechap
 missions:
   - start: 2020-05-01
     end: 2021-10-31
