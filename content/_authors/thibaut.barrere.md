@@ -6,7 +6,7 @@ avatar: # dispo sur github
 link: https://thibautbarrere.com
 missions:
   - start: 2020-11-02
-    end: # non déterminé
+    end: 2022-01-01 # non déterminé
     status: independent
     employer: LoGeek
 startups:
