@@ -7,7 +7,7 @@ link: https://thibautbarrere.com
 missions:
   - start: 2020-11-02
     end: 2022-01-01 # non déterminé
-    status: indépendant
+    status: independent
     employer: LoGeek
 startups:
   - transport
