@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: LoGeek
 startups:
-    - transport
+  - transport
 ---
 
 J'aime le code et le "data engineering"!
