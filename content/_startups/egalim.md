@@ -6,6 +6,9 @@ incubator: dinum
 phases:
     - name: investigation
       start: 2020-09-01
+      end: 2020-10-29
+    - name: construction
+      start: 2020-10-29
 link:
 repository: 
 stats: false 
