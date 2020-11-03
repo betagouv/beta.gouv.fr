@@ -6,7 +6,7 @@ missions:
   - start: 2020-11-01
     end: 2023-10-31
     status: admin
-    employer: Le ministère des armées
+    employer: minarm
 ---
 
 Dev @LaFabriqueNumérique entre autres choses
