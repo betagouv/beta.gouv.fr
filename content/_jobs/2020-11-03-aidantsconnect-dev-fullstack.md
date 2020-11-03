@@ -4,7 +4,7 @@ startup: aidantsconnect
 open: true
 ---
 
-Aidants Connect cherche un développeur ou une développeuse pour permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d'une personne ne parvenant pas à les faire seule.
+Aidants Connect cherche un développeur ou une développeuse pour faire passer à l'échelle un service qui permet à un aidant professionnel de réaliser des démarches administratives en ligne à la place d'une personne ne parvenant pas à les faire seule.
 
 <!--more-->
 
@@ -36,19 +36,19 @@ En rejoignant une Startup d’État, vous participez à l’aventure d’une nou
 
 Vous serez en charge de développer le service pour les usagers. Les choix technologiques sont ouverts parmi les solutions libres du marché.  
 Vous pourrez participer à la conception, aux études terrain, aux tests utilisateur avec les intrapreneurs.  
-Les langages supportés à l'Incubateur de Services Numériques sont JavaScript, Python et Ruby.  
-L'équipe technique est  en charge des développements, de l’administration système aux CSS, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, et de monitoring.
+- Les langages supportés à l'Incubateur de Services Numériques sont JavaScript, Python et Ruby.  Aidants Connect est en Django, le code esitant est disponible sur le repo suivant : https://github.com/betagouv/aidants_connect/ ;
+- L'équipe technique est  en charge des développements, de l’administration système aux CSS, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, et de monitoring.
 
 Vous êtes en mesure de jouer sur 2 tableaux :
-- La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
-- L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
+- La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! » ;
+- L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! » .
 
 ## Compétences
 
-- Vous développez en python et idéalement en Django, vous êtes à l'aise avec le HTML et le CSS
-- Vous êtes à l'aise avec l'utilisation d'API REST et idéalement avec le protocole OIDC
-- Vous êtes interessés par les problématiques de protection des données personnelles et de la sécurité informatique.
-- Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR, etc.). 
+- Vous développez en python et idéalement en Django, vous êtes à l'aise avec le HTML et le CSS ;
+- Vous êtes à l'aise avec l'utilisation d'API REST et idéalement avec le protocole OIDC ;
+- Vous êtes interessés par les problématiques de protection des données personnelles et de la sécurité informatique ;
+- Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR, etc.) ;
 - Vous avez utilisé des outils de l’écosystème technique web : tests, analytics, etc.
 
 ## Modalités
