@@ -81,7 +81,7 @@ Nous serions très contents de te rencontrer si :
 - Tu as une sensibilité UX/accessibilité pour la partie front ;
 - Tu as de l’expérience sur un langage de programmation (parmi Python, Javascript (NodeJS ou framework front), Ruby, Java, Scala ou équivalent).
 
-Et si tu es un peu plus expérimenté.e (+ de 5 ans d’expérience) si :
+Et si tu es plus expérimenté.e (+ de 5 ans d’expérience), si :
 - Tu as de très bonnes connaissances en développement logiciel ;
 - Tu as de solides connaissances en intégration et déploiement continu ;
 - Tu peux démontrer tes connaissances en méthodes agiles en environnement devops et lean ;
