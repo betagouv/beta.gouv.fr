@@ -132,7 +132,6 @@ Le délai de recrutement prend en moyenne 4 semaines.
 Envoies-nous ta candidature sur lien DS
 
 Parle-nous de ce qui te donne envie de nous rejoindre (nul besoin de lettre de motivation formelle, quelques lignes dans le corps du mail suffisent). 
-
 Écris avec tes mots à toi — l’emploi de jargon à la mode ne rapporte pas de points supplémentaires. 
 
 Ajoute (de manière facultative) ton CV, ton lien github, un lien vers ton compte Linkedin, et tout ce que tu souhaites nous communiquer (vidéo, compte Twitter, article de blog, produits, lignes de code..) qui nous permettra de mieux te connaître.
@@ -148,3 +147,5 @@ Si tu souhaites mieux comprendre nos sujets, la ressource la plus pertinente à 
 
 Nulle obligation de tout lire, bien sûr.
 Nous avons hâte de te lire.
+
+---
