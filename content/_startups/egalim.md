@@ -1,5 +1,5 @@
 ---
-title: 🍴 ma-cantine.beta.gouv.fr
+title: 🍴 Ma Cantine
 mission: Accompagner au mieux les acteurs de la restauration collective dans leur offre aux consommateurs pour une alimentation de qualité, saine et durable
 owner: direction générale de l'alimentation (DGAL)
 incubator: dinum
@@ -31,30 +31,20 @@ La loi dite « EGAlim » du 30 octobre 2018 a introduit de nouvelles obligations
 
 Par ailleurs, les attentes des citoyens envers leur alimentation sont extrêmement fortes : une alimentation respectueuse de la santé et de l’environnement. La loi EGAlim impose aux restaurants collectifs d’informer les convives de la qualité alimentaire et nutritionnelle et de part des produits de qualité et durables entrant dans la composition des repas servis.
 
+## Bilan de l'investigation
 
-## MA-CANTINE.BETA.GOUV.FR, autodiagnostiquer ma cantine scolaire et mettre en place les actions pour une transition vers une alimentation plus saine et durable
+De début septembre à fin octobre 2020, une équipe de beta.gouv.fr et une intrapreneuse de la direction générale de l’alimentation (DGAL) ont mené une investigation pour mieux comprendre l’écosystème et les attentes et besoins de toutes les parties prenantes de la restauration collective. L’equipe interroge institutions, acheteurs publics, cuisiniers, prestataires, fournisseurs, commenssaux, opérateurs privés et publics… afin de proposer une hypothèse de solution qui réponde véritablement à leurs besoins. Le comité final de présentation des résultats auprès de la DGAL du 29 octobre a été concluant et a validé la construction du produit imaginé suite à cette phase d'investigation. 
+
+## Ma Cantine, autodiagnostiquer ma cantine scolaire et mettre en place les actions pour une transition vers une alimentation plus saine et durable
 
 Le secteur de la restauration collective étant vaste et très divers dans son organisation, ses pratiques et son fonctionnement, l'hypothèse de solution proposée est une plateforme numérique dont la cible est volontairement restreinte, dans un premier temps, aux cantines scolaires autogérées. 
 
-Il s’agit donc de proposer une première brique d’une plateforme numérique, pouvant être, après expérimentation, élargie aux autres secteurs de la restauration collective, si les résultats et l’impact attendus sont montrés sur ce premier secteur d'expérimentation. Cet outil, ma-cantine.beta.gouv.fr, permettrait à un.e élu.e, chef.fe de cantine, gestionnaire… d'évaluer sa conformité avec l’ensemble des mesures de la loi via un test de positionnement et notamment de calculer la part de ses achats de qualité et durables grâce à la mise à disposition d’un outil de type calculette simple et rapide de prise en main.
-Une sorte d’autodiagnostic à un instant t de sa situation l’aiderait à évaluer les pistes d'amélioration pour atteindre des assiettes plus saines et durables pour ses convives. Un tableau de bord, état des lieux, lui serait fourni, en même temps qu’un accès simplifié et centralisé à un bouquet de ressources pour l’accompagner dans l’atteinte de ses objectifs. 
+Cet outil, Ma Cantine, permettra à une élu·e, chef·fe de cantine, gestionnaire… d'évaluer sa conformité avec l’ensemble des mesures de la loi via un test de positionnement et notamment de calculer la part de ses achats de qualité et durables grâce à la mise à disposition d’une calculette simple et facile à prendre en main. Cet autodiagnostic l’aidera à évaluer les pistes d'amélioration pour garantir des assiettes plus saines et durables à ses convives, via un tableau de bord et l'accès à des ressources adaptées à sa situation.  
 
-![Capture d’écran 2020-11-04 à 16 26 26](https://user-images.githubusercontent.com/36134318/98130585-b424e800-1eba-11eb-8392-cca7ae8a3984.png)
+La forme de l’outil, qui se veut encourageante, facile d’accès et interactive, sera déterminée au fil de sa construction au pas à pas avec des cantines pilotes. De premiers établissement ont déjà formulé leur désir de faire partie des beta-testeurs. 
 
-La forme de l’outil, qui se veut encourageante, facile d’accès et interactive, sera à déterminer au fil de sa construction au pas à pas avec des cantines pilotes : degré de finesse de complétion, étapes spécifiques à accompagner particulièrement, différentes options de développement à tester. 
-De premiers utilisateurs ont formulé leur désir de faire partie des beta-testeurs. 
-
-Cet outil évaluant la “compatibilité de ma cantine à la loi” pourra également être envisagé comme un premier canal d’acquisition de données en vue de l’élaboration d’un bilan statistique annuel de la part des produits durables et de qualité (OVQ), à destination des convives et/ou de suivi des objectifs de la loi par l’administration.
-
-
-## Champ d'investigation
-
-Cette initiative a été pilotée en autonomie par une équipe de beta.gouv.fr et une intrapreneuse de la direction générale de l’alimentation (DGAL). L’objectif était de mieux comprendre l’écosystème et les attentes/besoins de toutes les parties prenantes de la restauration collective. L’approche de l’expérimentation rejoint celle de beta.gouv.fr, incrémentale et centrée utilisateurs, l’equipe se donne pour mission de questionner institutions, acheteurs publics, cuisiniers, prestataires, fournisseurs, commenssaux, opérateurs privés et publics… Afin de proposer une hypothèse de solution(s) permettant l’atteinte des objectifs ambitieux de la loi et garantissant un impact maximal sur l’alimentation quotidienne des citoyen.nes.
-
-Calendrier : Phase d’investigation : septembre-octobre 2020. 
-Le comité final de présentation des résultats auprès de la DGAL du 29 octobre a été concluant et a donné son go pour la construction du produit imaginé suite à cette phase d'investigation. 
-
+Ma Cantine est la première brique d’une plateforme numérique, pouvant être, après expérimentation, élargie aux autres secteurs de la restauration collective, si les résultats et l’impact attendus sont montrés sur ce premier secteur d'expérimentation. Cet outil évaluant la “compatibilité de ma cantine à la loi” permettra également de recueillir les données permettant de faire l'état des lieux de la part des produits durables et de qualité au sein de la restauration collective en France.
 
 ## Vous souhaitez nous aider, participer à ce produit ? 
 
-Que vous soyez un acteur de la restauration collective, un.e convive, un.e curieux.se de la thématique, vos retours et avis sont toujours bons à prendre et nous serions ravi.e.s d'échanger avec vous ! N'hésitez pas à nous contacter via notre adresse de contact : contact@egalim.beta.gouv.fr !
+Que vous soyez un acteur de la restauration collective, un·e convive ou simplement curieux·se, vos retours et avis sont toujours bons à prendre et nous serions ravi·e·s d'échanger avec vous ! N'hésitez pas à nous contacter via notre adresse de contact : contact@egalim.beta.gouv.fr !
