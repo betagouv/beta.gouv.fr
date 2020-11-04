@@ -48,7 +48,7 @@ Poste ouvert pour un indépendant ou une indépendante pour un contrat de 4 mois
 
 ## Candidater
 
-Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à [cmachance@cma-hautsdefrance.fr](mailto:cmachance@cma-hautsdefrance.fr) et [chaib.martinez@beta.gouv.fr](mailto:chaib.martinez@beta.gouv.fr).
+Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à [samuel.turpin@beta.gouv.fr](mailto:samuel.turpin@beta.gouv.fr) et [chaib.martinez@beta.gouv.fr](mailto:chaib.martinez@beta.gouv.fr).
 
 À bientôt !
 
