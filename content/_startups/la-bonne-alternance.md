@@ -22,10 +22,12 @@ redirect_from:
   - /startups/labonnealternance
 ---
 
-Le saviez-vous ? 7 employeurs sur 10 recrutent sans déposer d’offres d’emploi.
+Chaque année, 300 000 jeunes commencent une formation en alternance.
+51% d'entre eux trouvent leur entreprise via des candidatures spontanées.
 
-Il est essentiel dans votre recherche de proposer votre candidature à des entreprises n’ayant pas forcément déposé d’offres d’emploi en alternance.
+La Bonne Alternance propose le 1er service permettant la recherche simultanée d'une formation en apprentissage et d'une entreprise recrutant en alternance.
 
-Notre algorithme La Bonne Alternance analyse les offres et les recrutements des 5 dernières années pour vous proposer les entreprises qui recrutent régulièrement en alternance (contrat d'apprentissage ou contrat de professionnalisation).
+Les entreprises à fort potentiel d'embauche sont identifiées grâce à un algorithme prédictif dont les résultats sont mis à jour mensuellement.
+Les données de formation sont collectées auprès des établissements.
 
-Pour une meilleure lisibilité, les résultats sont affichés sur une carte et en liste. Vous pouvez affiner la liste des entreprises par taille, métier et domaine. En cliquant sur une entreprise, vous accédez à sa description, à ses coordonnées ainsi qu'à des conseils pour postuler.
+Pour une meilleure lisibilité, les résultats sont géolocalisés sur une carte et détaillés dans une liste. Vous pouvez affiner les résultats par niveau de diplôme préparé, secteur d’emploi et secteur géographique. En cliquant sur un établissement, vous accédez à ses données-clés, ses coordonnées ainsi qu'à des conseils pour postuler.
