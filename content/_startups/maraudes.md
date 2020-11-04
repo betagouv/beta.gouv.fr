@@ -13,6 +13,8 @@ phases:
     start: 2019-06-01
   - name: construction
     start: 2019-06-01
+  - name : end
+    start: 2020-01-01
 events:
   - name: alumni
     date: 2020-03-13
