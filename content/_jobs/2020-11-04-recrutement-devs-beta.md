@@ -67,7 +67,7 @@ Si tu n’as pas besoin d’une supervision constante pour avancer sur ce que tu
 Nous serions très contents de te rencontrer si :
 - Tu es intéressé·e par la résolution de problèmes de politiques publiques ;
 - Tu as un côté entrepreneurial que tu as envie de développer ; 
-- Tu n’as pas de problème à gérer et prioriser des tâches très nombreuses et très différentes ;
+- Tu sais gérer tes priorités parmi des tâches variées, tu sais dire "non" en cas de trop-plein ;
 - Tu parviens à gérer tes projets de A à Z en autonomie ;
 - Tu aimes les modes de communication asynchrones ;
 - Tu n’as pas peur d'interagir avec une grande variété d’interlocuteurs ;
