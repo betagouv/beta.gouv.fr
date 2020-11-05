@@ -126,7 +126,7 @@ Un jury constitué des différentes équipes intéressés par les profils se ré
 
 Une fois la décision de l'équipe prise, c'est la Direction des services administratifs et financiers des services du Premier Ministre qui prend le relai pour constituer le dossier administratif. 
 
-Le délai de recrutement prend en moyenne 4 semaines. 
+Le délai de recrutement visé est de 4 semaines. 
 
 #### Comment envoyer une candidature 
 Envoies-nous ta candidature sur lien DS
