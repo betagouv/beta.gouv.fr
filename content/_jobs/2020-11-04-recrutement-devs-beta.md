@@ -65,7 +65,7 @@ Une personne autonome est capable de se gérer dans le travail : elle définit s
 Si tu n’as pas besoin d’une supervision constante pour avancer sur ce que tu as prévu de faire, tu seras à ton aise ici.
 
 Nous serions très contents de te rencontrer si :
-- Tu es intéressé.e par la résolution de problèmes de politiques publiques ;
+- Tu es intéressé·e par la résolution de problèmes de politiques publiques ;
 - Tu as un côté entrepreneurial que tu as envie de développer ; 
 - Tu n’as pas de problème à gérer et prioriser des tâches très nombreuses et très différentes ;
 - Tu parviens à gérer tes projets de A à Z en autonomie ;
