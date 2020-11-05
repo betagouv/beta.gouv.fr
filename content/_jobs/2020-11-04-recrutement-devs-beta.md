@@ -68,7 +68,7 @@ Nous serions très contents de te rencontrer si :
 - Tu es intéressé·e par la résolution de problèmes de politiques publiques ;
 - Tu as un côté entrepreneurial que tu as envie de développer ; 
 - Tu sais gérer tes priorités parmi des tâches variées, tu sais dire "non" en cas de trop-plein ;
-- Tu parviens à gérer tes projets de A à Z en autonomie ;
+- Tu sais délimiter des tâches que tu peux mener de A à Z en autonomie, et demander de l'aide si tu les as sous-estimées ;
 - Tu aimes les modes de communication asynchrones ;
 - Tu n’as pas peur d'interagir avec une grande variété d’interlocuteurs ;
 - Tu lances les projets/les choses, même si elles sont imparfaites ;
