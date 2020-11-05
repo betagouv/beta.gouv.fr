@@ -9,9 +9,9 @@ L'incubateur de la DINUM recherche 8 chargé.e.s de déploiement, juniors et exp
 
 
 ## Qui sommes-nous ?
-beta.gouv.fr met en œuvre une politique d’innovation publique en créant de petites équipes autonomes et agiles, nommées Startups d’État qui développent des produits numériques en cycles courts, en lien direct avec leurs usagers et les parties prenantes à la politique publiques à laquelle ils contribuent.
+beta.gouv.fr met en œuvre une politique d’innovation publique en créant de petites équipes autonomes et agiles, nommées Startups d’État, qui développent des produits numériques en cycles courts, en lien direct avec leurs usagers et les parties prenantes à la politique publiques à laquelle ils contribuent.
 
-La communauté beta.gouv.fr de plus de 500 personnes, a, depuis la création de la première Startup d'État, décidé collectivement que la meilleure manière de mettre en œuvre une politique publique passe par la constitution d'une équipe autonome. Cette équipe est elle-même constituée de membres issus du public ou du privé qui se donnent pour mission de résoudre les problèmes de ses usagers.
+La communauté beta.gouv.fr de plus de 500 personnes a, depuis la création de la première Startup d'État, décidé collectivement que la meilleure manière de mettre en œuvre une politique publique passe par la constitution d'une équipe autonome. Cette équipe est elle-même constituée de membres issus du public ou du privé qui se donnent pour mission de résoudre les problèmes de ses usagers.
 
 Nos bureaux sont à Paris, avenue de Ségur, mais nous travaillons ponctuellement d’un peu partout. 
 Si nous communiquons principalement en français, il nous arrive aussi de manier l’anglais lorsque nous collaborons avec des partenaires étrangers.
@@ -30,10 +30,10 @@ Nous documentons régulièrement nos pratiques pour les Startups d’État et po
 Nos statistiques d’impact sont visibles ici : https://beta.gouv.fr/stats
 
 ## La mission 
-Depuis 2013, nous avons construits une centaine de produits sur différents sujets en lien avec des incubateurs partenaires de ministères, opérateurs de l’État ou collectivité. 
-Que ces produits soient en investigation, en construction ou en accélération, voire en transfert, ils sont tous constitués par une équipe autonome avec un.e coach, un.e intrapreneur.e, un.e ou plusieurs chargé.e.s de déploiement et un ou plusieurs développeurs/ses. 
+Depuis 2013, nous avons construits une centaine de produits répondant à des problèmes variés, en lien avec des incubateurs partenaires, portés par des ministères, opérateurs de l’État ou collectivités. 
+Que ces produits soient en investigation, en construction ou en accélération, voire en transfert, ils sont tous constitués par une équipe autonome avec un·e coach, un·e intrapreneur·e, un·e ou plusieurs chargé·e·s de déploiement et un·e ou plusieurs développeu·rs·ses. 
 
-Que tu sois junior, expérimenté.e ou sénior, ta mission si tu l’acceptes en deux parties :
+Que tu sois junior, expérimenté.e ou sénior, ta mission, si tu l’acceptes, tient en deux parties :
 
 #### La partie produit : 
 Participer au déploiement d’un service numérique au sein d’un portefeuille (ministériel la plupart du temps), auprès d’une équipe travaillant selon l’approche Startup d’Etat et notamment : 
@@ -62,20 +62,19 @@ Si tu n’as pas besoin d’une supervision constante pour avancer sur ce que tu
 
 Nous serions très contents de te rencontrer si :
 - Tu n'as pas peur de décrocher ton téléphone et tu es à l'aise à l'oral, même devant un large public ;
-- Tu es intéressé.e par la résolution de problèmes de politiques publiques
+- Tu es intéressé·e par la résolution de problèmes de politiques publiques ;
 - Tu peux gérer des agendas parfois très denses où s'enchaînent les rendez-vous avec les partenaires ;
 - Tu as un côté entrepreneurial que tu as envie de développer ; 
-- Tu n’as pas de problème à gérer et prioriser des tâches très nombreuses et très différentes ;
-- Tu parviens à gérer tes projets de A à Z en autonomie;
+- Tu sais gérer tes priorités parmi des tâches variées, tu sais dire "non" en cas de trop-plein 
+- Tu sais délimiter des tâches que tu peux mener de A à Z en autonomie, et demander de l'aide si tu les as sous-estimées ;
 - Tu aimes les modes de communication asynchrones ;
-- Tu lances les projets/les choses, même si elles sont imparfaites
-- Et tu utilises souvent la phrase «Done is better than perfect » ;
+- Tu n'hésites pas à montrer ou livrer ton travail, même s'il est encore imparfait (bref tu dis souvent «Done is better than perfect »);
 - Tu maîtrises le français et un peu l’anglais dans un contexte professionnel et tu possèdes des qualités rédactionnelles ;
 - Tu aimes utiliser les réseaux sociaux ; 
 - Tu souhaites travailler au service du bien commun et espéres participer à la construction d'une solution qui cherche à tout prix à avoir le maximum d'impact et une utilité avérée ;
 - Tu sais travailler en équipe et tu acceptes de te remettre parfois en question – ou de remettre en question les procédures adoptées par l'équipe – lorsque tu penses pouvoir faire mieux.
 
-Ne te censures pas si tu ne coches pas toutes les cases ci-dessus et que tu ne connais pas très bien l'écosystème de l’administration mais que tu as envie d’apprendre et de progresser. 
+Ne te censure pas si tu ne coches pas toutes les cases ci-dessus et que tu ne connais pas très bien l'écosystème de l’administration mais que tu as envie d’apprendre et de progresser. 
 
 ## Les détails à connaître : 
 
@@ -87,29 +86,28 @@ Si tu te poses la question, nous sommes presque tous contractuels ou indépendan
 Pour un.e chargé.e de déploiement jusqu’à 5 ans d’expérience, le salaire proposé est de 2500 euros nets et pour un.e chargé.e de déploiement au-delà de 5 ans d’expérience le salaire est de 3000 euros nets. 
 
 #### Travail à distance
-Le travail à distance est possible, ponctuellement, sans qu’un préavis ou une validation ne soient nécessaires — sois simplement raisonnable. 
-
+Les équipes sont actuellement organisées pour privilégier le travail à distance, et dans des circonstances plus "normales" il est accepté sous réserve d'une organisation efficace de l'équipe. N'hésite pas à préciser tes souhaits et tes possibilités en la matière.
 Pour contribuer aux rituels d’équipes et discuter avec les autres membres de beta.gouv.fr, les équipes se croisent à leur rythme parfois un jour par semaine, parfois un jour tous les 15 jours au vu des conditions sanitaires actuelles.  
 
 #### Date de début
 Le lundi 4 janvier 2021 
 
 #### Formation
-Nous formons celles et ceux qui rejoignent la communauté beta.gouv.fr aux méthodes des Startups d'État. Un cours en ligne qui reprend les principaux enseignements est à ta disposition ici.
+Nous formons celles et ceux qui rejoignent la communauté beta.gouv.fr aux méthodes des Startups d'État. Un cours en ligne qui reprend les principaux enseignements est à ta disposition ici : https://beta.gouv.fr/approche/formation/mooc
 
 Au sein des équipes, les membres veilleront à te former sur nos outils si tu ne les connais pas et nous te donnerons la liste des acronymes à connaître pour bien naviguer au sein de l’administration. 
 
 #### Perspectives
-Une grande partie des personnes qui rejoignent la communauté beta.gouv.fr pour une mission de courte période finissent par rester chez nous, parfois pour participer à la croissance de la Startup d'État sur laquelle elles interviennent, parfois pour rejoindre d'autres équipes, parfois pour endosser des rôles plus transverses.
+Une grande partie des personnes qui rejoignent la communauté beta.gouv.fr pour une mission de courte période expriment le souhait de rester chez nous, parfois pour participer à la croissance de la Startup d'État sur laquelle elles interviennent, parfois pour rejoindre d'autres équipes, parfois pour endosser des rôles plus transverses.
 
-Attention, nous ne pouvons pas garantir, même si cela peut être possible, la pérennisation du poste au delà de cette période de 6 mois sous la forme d’un contrat.
+Attention, nous ne pouvons pas garantir la pérennisation du poste au delà de cette période de 6 mois. Nous pouvons cependant te renseigner sur différentes possibilités pour poursuivre une collaboration réussie, par exemple des missions futures en tant que freelance ou en rejoignant l'une des entreprises attributaires de nos marchés, ou une candidature sur un autre type de poste.
 
 #### Procédure de recrutement
-Un jury constitué des différentes équipes intéressés par les profils se réunira pour rencontrer les candidats avant de prendre une décision. Si d'aventure cela s'avère compliqué au vu de la situation sanitaire, nous saurons nous adapter.
+Un jury constitué des différentes équipes intéressés par les profils se réunira pour rencontrer les candidats avant de prendre une décision. Les modalités (visio, présentiel dans le respect des gestes de protection) en seront adaptées en fonction de la situation sanitaire et de celle des candidat·e·s.
 
 Une fois la décision de l'équipe prise, c'est la Direction des services administratifs et financiers des services du Premier Ministre qui prend le relai pour constituer le dossier administratif. 
 
-Le délai de recrutement prend en moyenne 4 semaines. 
+Le délai de recrutement visé est de 4 semaines. 
 
 #### Comment envoyer une candidature 
 Envoies-nous ta candidature sur lien DS
