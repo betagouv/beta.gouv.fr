@@ -104,7 +104,7 @@ Si tu te poses la question, nous sommes presque tous contractuels ou indépendan
 Pour une développeuse ou un développeur jusqu’à 5 ans d’expérience, le salaire proposé est de 3000 euros nets et pour une développeuse ou un développeur au-delà de 5 ans d’expérience le salaire est de 3500 euros nets. 
 
 #### Travail à distance
-Le travail à distance est possible, ponctuellement, sans qu’un préavis ou une validation ne soient nécessaires — sois simplement raisonnable. 
+Les équipes sont actuellement organisées pour privilégier le travail à distance, et dans des circonstances plus "normales" il est accepté sous réserve d'une organisation efficace de l'équipe. N'hésite pas à préciser tes souhaits et tes possibilités en la matière.
 
 Pour contribuer aux rituels d’équipes et discuter avec les autres membres de beta.gouv.fr, les équipes se croisent à leur rythme parfois un jour par semaine, parfois un jour tous les 15 jours au vu des conditions sanitaires actuelles.  
 
