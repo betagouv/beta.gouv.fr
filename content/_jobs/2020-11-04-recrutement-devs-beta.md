@@ -112,7 +112,7 @@ Pour contribuer aux rituels d’équipes et discuter avec les autres membres de 
 Le lundi 4 janvier 2021 
 
 #### Formation
-Nous formons celles et ceux qui rejoignent la communauté beta.gouv.fr aux méthodes des Startups d'État. Un cours en ligne qui reprend les principaux enseignements est à ta disposition ici.
+Nous formons celles et ceux qui rejoignent la communauté beta.gouv.fr aux méthodes des Startups d'État. Un cours en ligne qui reprend les principaux enseignements est à ta disposition ici : https://beta.gouv.fr/approche/formation/mooc
 
 Au sein des équipes, les membres veilleront à te former sur nos outils si tu ne les connais pas et nous te donnerons la liste des acronymes à connaître pour bien naviguer au sein de l’administration. 
 
