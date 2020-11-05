@@ -19,7 +19,7 @@ startups:
     - transport
     - preuve-de-covoiturage
     - ecolab
-    - lotocar
+    - comobi
     - auvol
     - egalim
     - ecosante
