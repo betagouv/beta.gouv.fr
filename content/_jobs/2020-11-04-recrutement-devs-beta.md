@@ -11,7 +11,7 @@ L'incubateur de la DINUM recherche plusieurs développeurs et développeuses jun
 ## Qui sommes-nous ?
 beta.gouv.fr met en œuvre une politique d’innovation publique en créant de petites équipes autonomes et agiles, nommées Startups d’État, qui développent des produits numériques en cycles courts, en lien direct avec leurs usagers et les parties prenantes à la politique publiques à laquelle ils contribuent.
 
-La communauté beta.gouv.fr de plus de 500 personnes, a, depuis la création de la première Startup d'État, décidé collectivement que la meilleure manière de mettre en œuvre une politique publique passe par la constitution d'une équipe autonome. Cette équipe est elle-même constituée de membres issus du public ou du privé qui se donnent pour mission de résoudre les problèmes de ses usagers.
+La communauté beta.gouv.fr de plus de 500 personnes a, depuis la création de la première Startup d'État, décidé collectivement que la meilleure manière de mettre en œuvre une politique publique passe par la constitution d'une équipe autonome. Cette équipe est elle-même constituée de membres issus du public ou du privé qui se donnent pour mission de résoudre les problèmes de ses usagers.
 
 Nos bureaux sont à Paris, avenue de Ségur, mais nous travaillons ponctuellement d’un peu partout. 
 Si nous communiquons principalement en français, il nous arrive aussi de manier l’anglais lorsque nous collaborons avec des partenaires étrangers.
