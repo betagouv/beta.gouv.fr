@@ -117,7 +117,7 @@ Nous formons celles et ceux qui rejoignent la communauté beta.gouv.fr aux méth
 Au sein des équipes, les membres veilleront à te former sur nos outils si tu ne les connais pas et nous te donnerons la liste des acronymes à connaître pour bien naviguer au sein de l’administration. 
 
 #### Perspectives
-Une grande partie des personnes qui rejoignent la communauté beta.gouv.fr pour une mission de courte période finissent par rester chez nous, parfois pour participer à la croissance de la Startup d'État sur laquelle elles interviennent, parfois pour rejoindre d'autres équipes, parfois pour endosser des rôles plus transverses.
+Une grande partie des personnes qui rejoignent la communauté beta.gouv.fr pour une mission de courte période expriment le souhait de rester chez nous, parfois pour participer à la croissance de la Startup d'État sur laquelle elles interviennent, parfois pour rejoindre d'autres équipes, parfois pour endosser des rôles plus transverses.
 
 Attention, nous ne pouvons pas garantir, même si cela peut être possible, la pérennisation du poste au delà de cette période de 6 mois sous la forme d’un contrat.
 
