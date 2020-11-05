@@ -71,7 +71,7 @@ Nous serions très contents de te rencontrer si :
 - Tu sais délimiter des tâches que tu peux mener de A à Z en autonomie, et demander de l'aide si tu les as sous-estimées ;
 - Tu aimes les modes de communication asynchrones ;
 - Tu n’as pas peur d'interagir avec une grande variété d’interlocuteurs ;
-- Tu lances les projets/les choses, même si elles sont imparfaites ;
+- Tu n'hésites pas à montrer ou livrer ton travail, même s'il est encore imparfait (bref tu dis souvent «Done is better than perfect »);
 - Et tu utilises souvent la phrase «Done is better than perfect » ;
 - Tu maîtrises le français et un peu l’anglais dans un contexte professionnel et tu possèdes des qualités rédactionnelles ;
 - Tu souhaites travailler au service du bien commun et espères participer à la construction d'une solution qui cherche à tout prix à avoir le maximum d'impact et une utilité avérée ;
