@@ -119,7 +119,7 @@ Au sein des équipes, les membres veilleront à te former sur nos outils si tu n
 #### Perspectives
 Une grande partie des personnes qui rejoignent la communauté beta.gouv.fr pour une mission de courte période expriment le souhait de rester chez nous, parfois pour participer à la croissance de la Startup d'État sur laquelle elles interviennent, parfois pour rejoindre d'autres équipes, parfois pour endosser des rôles plus transverses.
 
-Attention, nous ne pouvons pas garantir, même si cela peut être possible, la pérennisation du poste au delà de cette période de 6 mois sous la forme d’un contrat.
+Attention, nous ne pouvons pas garantir la pérennisation du poste au delà de cette période de 6 mois. Nous pouvons cependant te renseigner sur différentes possibilités pour poursuivre une collaboration réussie, par exemple des missions futures en tant que freelance ou en rejoignant l'une des entreprises attributaires de nos marchés, ou une candidature sur un autre type de poste.
 
 #### Procédure de recrutement
 Un jury constitué des différentes équipes intéressés par les profils se réunira pour rencontrer les candidats avant de prendre une décision. Si d'aventure cela s'avère compliqué au vu de la situation sanitaire, nous saurons nous adapter.
