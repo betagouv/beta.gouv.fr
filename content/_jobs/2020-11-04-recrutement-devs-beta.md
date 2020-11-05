@@ -92,7 +92,7 @@ Et si tu es plus expérimenté·e (+ de 5 ans d’expérience), si :
 - Tu as de l’expérience sur au moins deux langages de programmation ou langages équivalents (parmi Python, Javascript (NodeJS ou framework front), Ruby, Java, Scala) ;
 - Et tu comprends les enjeux et de la réglementation dans le domaine de la protection des données personnelles.
 
-Ne te censures pas si tu ne coches pas toutes les cases ci-dessus et que tu ne connais pas très bien l'écosystème de l’administration mais que tu as envie d’apprendre et de progresser. 
+Ne te censure pas si tu ne coches pas toutes les cases ci-dessus et que tu ne connais pas très bien l'écosystème de l’administration mais que tu as envie d’apprendre et de progresser. 
 
 ## Les détails à connaître : 
 
