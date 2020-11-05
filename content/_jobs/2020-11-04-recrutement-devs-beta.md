@@ -33,7 +33,7 @@ Nos statistiques d’impact sont visibles ici : https://beta.gouv.fr/stats
 Depuis 2013, nous avons construit une centaine de produits sur différents sujets en lien avec des incubateurs partenaires de ministères, opérateurs de l’État ou collectivité. 
 Que ces produits soient en investigation, en construction ou en accélération, voire en transfert, ils sont tous constitués par une équipe autonome avec un·e coach, un·e intrapreneur·e, un·e ou plusieurs chargé·e·s de déploiement et un·e ou plusieurs développeu·rs·ses. 
 
-Que tu sois junior, expérimenté.e ou sénior, ta mission si tu l’acceptes en deux parties :
+Que tu sois junior, expérimenté·e ou sénior, ta mission si tu l’acceptes tient en deux parties :
 
 #### La partie produit : 
 Participer au déploiement d’un service numérique au sein d’un portefeuille (ministériel la plupart du temps), auprès d’une équipe travaillant selon l’approche Startup d’Etat et notamment : 
