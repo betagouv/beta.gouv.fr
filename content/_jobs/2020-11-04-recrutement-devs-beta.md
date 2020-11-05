@@ -122,7 +122,7 @@ Une grande partie des personnes qui rejoignent la communauté beta.gouv.fr pour 
 Attention, nous ne pouvons pas garantir la pérennisation du poste au delà de cette période de 6 mois. Nous pouvons cependant te renseigner sur différentes possibilités pour poursuivre une collaboration réussie, par exemple des missions futures en tant que freelance ou en rejoignant l'une des entreprises attributaires de nos marchés, ou une candidature sur un autre type de poste.
 
 #### Procédure de recrutement
-Un jury constitué des différentes équipes intéressés par les profils se réunira pour rencontrer les candidats avant de prendre une décision. Si d'aventure cela s'avère compliqué au vu de la situation sanitaire, nous saurons nous adapter.
+Un jury constitué des différentes équipes intéressés par les profils se réunira pour rencontrer les candidat·e·s avant de prendre une décision. Si d'aventure cela s'avère compliqué au vu de la situation sanitaire, nous saurons nous adapter.
 
 Une fois la décision de l'équipe prise, c'est la Direction des services administratifs et financiers des services du Premier Ministre qui prend le relai pour constituer le dossier administratif. 
 
