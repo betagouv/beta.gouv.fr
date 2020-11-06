@@ -5,6 +5,7 @@ mission: Diminuer les rendez-vous non-honorés des personnes placées sous main 
 owner: Tribunal de Nanterre et le service pénitentiaire d'insertion et de
   probation du 92
 incubator: dinum
+contact: paul.marcade@beta.gouv.fr
 phases:
   - name: investigation
     start: 2020-10-04
