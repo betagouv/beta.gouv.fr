@@ -12,7 +12,7 @@ missions:
     status: independent
 previously:
     - mon-entreprise
-    - lotocar
+    - comobi
 startups:
     - ecolab
 ---
