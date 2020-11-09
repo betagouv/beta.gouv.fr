@@ -11,6 +11,7 @@ missions:
     employer: octo
 startups:
   - aidantsconnect
+  - aides-territoires
 previously: null
 badges:
     - segur

@@ -1,6 +1,6 @@
 ---
 fullname: Sabine Safi
-role: Coach
+role: Coach / PO
 github: sabinesafi
 missions:
   - start: 2019-02-04
@@ -8,10 +8,12 @@ missions:
     status: independent
 startups:
     - friches
-    - lotocar
-    - cartobio
+    - comobi
+    - Tout est permis
 previously:
     - transport
+    - cartobio
+    - 
 badges:
     - segur
 ---

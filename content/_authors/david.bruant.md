@@ -9,8 +9,9 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     status: independent
     employer: Codeurs en Liberté
 startups: # ta ou tes startups actuelles
-    - lotocar
+    - comobi
     - ecosante
+    - friches
 previously: # ta ou tes anciennes startups
 #    - ancienne_super_startup # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
 ---
