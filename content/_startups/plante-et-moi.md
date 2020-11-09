@@ -21,7 +21,7 @@ phases:
     end: 2017-08-31
 events:
   - name: product_launch
-    start: 2017-05-01
+    date: 2017-05-01
 link:
 repository: https://github.com/betagouv/plante-et-moi
 stats: false
@@ -61,3 +61,13 @@ En fonction des retours utilisateurs et de la collaboration avec des nouveaux pa
 Nous travaillons avec les villes de __Amiens__ ([Permis de Fleurir](https://permisdefleurir.amiens.fr/)), __Arles__, __Dijon__ ([J'adopte un arbre](http://jadopteunarbre.dijon.fr)), __Romainville__ ([Jardin'émoi](http://romainville.plante-et-moi.fr/jardin-emoi/)) et __Malakoff__ ([Nature en ville](https://nature.malakoff.fr/)).
 
 (Source de l'image d'en-tête: [New crops](https://www.flickr.com/photos/22748341@N00/2737299930/) )
+
+## Retex
+
+Le produit c'est construit suite à un concours lancé par la greentech vert et remporté par l'intrapreneuse alors étudiante.
+L'équipe a construit un produit pour les collectivités pour répondre au problème de place dans l'espace public pour les habitants puissent planter fruits, fleurs et légumes. Les mairies étaient intéressés par le sujet et les lancements sur le terrain, on montré l'appétence des habitants pour végétaliser l'espace public.
+Malgrès une réussite auprès des habitants et villes partenaires, la startup d'état n'a pas su trouvé de modéle économique, les mairies étant des trop petites entités pour financer le produit et le CGDD n'a pas voulu financze au delà des fonds prévu dans le concours Greentech Verte.
+Il manque aussi un portage, la DINUM (ex-DINSIC) a assuré un portage temporaire de la startup pendant 2 ans et demi, le temps de trouver un arrimage vers un autre porteur mais ce porteur n'a pas été trouvé.
+Le code de l'application est open source et les travaux peuvent être repris, l'équipe peut encore répondre aux questions des mairies qui souhaitent lancer leur programme de manière autonome.
+
+
