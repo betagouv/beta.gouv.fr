@@ -66,12 +66,14 @@ Nous travaillons avec les villes de __Amiens__ ([Permis de Fleurir](https://perm
 
 (Source de l'image d'en-tête: [New crops](https://www.flickr.com/photos/22748341@N00/2737299930/) )
 
-## Retex
+## Retour d'expérience et arrêt du produit
 
-Le produit c'est construit suite à un concours lancé par la greentech vert et remporté par l'intrapreneuse alors étudiante.
-L'équipe a construit un produit pour les collectivités pour répondre au problème de place dans l'espace public pour les habitants puissent planter fruits, fleurs et légumes. Les mairies étaient intéressés par le sujet et les lancements sur le terrain, on montré l'appétence des habitants pour végétaliser l'espace public.
-Malgrès une réussite auprès des habitants et villes partenaires, la startup d'état n'a pas su trouvé de modéle économique, les mairies étant des trop petites entités pour financer le produit et le CGDD n'a pas voulu financze au delà des fonds prévu dans le concours Greentech Verte.
-Il manque aussi un portage, la DINUM (ex-DINSIC) a assuré un portage temporaire de la startup pendant 2 ans et demi, le temps de trouver un arrimage vers un autre porteur mais ce porteur n'a pas été trouvé.
-Le code de l'application est open source et les travaux peuvent être repris, l'équipe peut encore répondre aux questions des mairies qui souhaitent lancer leur programme de manière autonome.
+Le produit s'est construit suite à un concours lancé par le programme GreenTechVerte, qui a été remporté par l'intrapreneuse alors étudiante.
+L'équipe a construit un produit pour les collectivités pour permettre aux citoyennes et citoyens de trouver facilement un espace pour planter fruits, fleurs et légumes dans leur ville. Les mairies étaient intéressés par le sujet et les lancements sur le terrain ont montré l'appétence des habitants pour végétaliser l'espace public.
+
+Malgrè une réussite auprès des habitants et villes partenaires, le service n'a pas su trouvé de modéle économique, les mairies étant des trop petites entités pour financer le produit et le ministère de la Transition écologique ayant arrêté les financements après ceux consentis par le concours Greentech Verte.
+La DINUM (ex-DINSIC) a assuré un portage temporaire de la startup pendant 2 ans et demi, le temps de trouver un arrimage vers un autre porteur. A la fin de l'été 2020, il est décidé, faute de porteur, d'arrêter le produit.
+
+Le code de l'application est open source et les travaux peuvent être repris, et l'équipe pourra, tant que possible, encore répondre aux questions des mairies qui souhaitent lancer leur service de végétalisation de manière autonome.
 
 
