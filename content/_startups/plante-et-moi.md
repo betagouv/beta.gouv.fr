@@ -6,13 +6,22 @@ incubator: dinum
 sponsors: 
     - name: Direction interministérielle du numérique
       acronym: DINUM
+      domaine_ministeriel: spm
+      type: administration-centrale
+    - name: Commissariat général au développement durable
+      acronym: CGDD
       domaine_ministeriel: environnement
       type: administration-centrale
 phases:
   - name: investigation
-    start: 2016-10-01
+    start: 2016-09-01
+    end: 2016-12-31
   - name: construction
-    start: 2016-10-01
+    start: 2017-01-01
+    end: 2017-08-31
+events:
+  - name: product_launch
+    start: 2017-05-01
 link:
 repository: https://github.com/betagouv/plante-et-moi
 stats: false
