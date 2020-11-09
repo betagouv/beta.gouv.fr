@@ -19,9 +19,13 @@ phases:
   - name: construction
     start: 2017-01-01
     end: 2017-08-31
+  - name: alumni
+    start: 2020-08-01
 events:
   - name: product_launch
     date: 2017-05-01
+  - name: end
+    date: 2020-08-01
 link:
 repository: https://github.com/betagouv/plante-et-moi
 stats: false
