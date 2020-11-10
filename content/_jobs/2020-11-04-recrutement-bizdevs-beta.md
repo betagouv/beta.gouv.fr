@@ -9,9 +9,9 @@ L'incubateur de la DINUM recherche 10 chargé.e.s de déploiement, juniors et ex
 
 ## Qui sommes-nous ?
  
-Découvre le détail de l'appel à candidatures pour en savoir plus sur beta.gouv.fr.
-Maintenant que tu en sais plus, parlons des missions !
+Découvre le détail de l'appel à candidatures sur notre blog pour en savoir plus sur beta.gouv.fr. : 
 
+## La mission 
 Que tu sois junior, expérimenté.e ou sénior, ta mission, si tu l’acceptes, tient en deux parties :
 
 #### La partie produit : 
