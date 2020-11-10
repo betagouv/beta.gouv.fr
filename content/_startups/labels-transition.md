@@ -17,6 +17,13 @@ phases:
     start: 2020-11-03
     end: ""
 ---
+
+## Contexte
+
+Dans le cadre des programmes d'accompagnement des collectivités dans leurs démarches de transition écologique, l'ADEME (l'Agence la transition écologique) s'est associée à beta.gouv.fr pour mener une investigation. 
+
+L'objectif : valider le besoin de développer une interface numérique pour faciliter et accélérer la transition écologique des collectivités. 
+
 ## Une transition écologique lente et complexe
 
 Les collectivités ont un rôle central à jouer dans la transition écologique. Elles possèdent les compétences et l'influence sur de nombreuses activités déterminantes pour la réussite de la transition écologique.
