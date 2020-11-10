@@ -1,37 +1,16 @@
 ---
-roles: 8 chargé.e.s de déploiement 
+roles: Chargé.e.s de déploiement 
 startup: beta.gouv.fr
 open: true
-title: Nous recrutons 8 chargé.e.s de déploiement, juniors et expérimenté.e.s, pour rejoindre 8 produits beta.gouv.fr
+title: Nous recrutons 10 chargé.e.s de déploiement, juniors et expérimenté.e.s, pour rejoindre 10 produits beta.gouv.fr
 ---
 
-L'incubateur de la DINUM recherche 8 chargé.e.s de déploiement, juniors et expérimentés, pour intégrer différentes équipes et les aider à résoudre un problème de politique publique au contact direct des usagers. 
-
+L'incubateur de la DINUM recherche 10 chargé.e.s de déploiement, juniors et expérimentés, pour intégrer différentes équipes et les aider à résoudre un problème de politique publique au contact direct des usagers. 
 
 ## Qui sommes-nous ?
-beta.gouv.fr met en œuvre une politique d’innovation publique en créant de petites équipes autonomes et agiles, nommées Startups d’État, qui développent des produits numériques en cycles courts, en lien direct avec leurs usagers et les parties prenantes à la politique publiques à laquelle ils contribuent.
-
-La communauté beta.gouv.fr de plus de 500 personnes a, depuis la création de la première Startup d'État, décidé collectivement que la meilleure manière de mettre en œuvre une politique publique passe par la constitution d'une équipe autonome. Cette équipe est elle-même constituée de membres issus du public ou du privé qui se donnent pour mission de résoudre les problèmes de ses usagers.
-
-Nos bureaux sont à Paris, avenue de Ségur, mais nous travaillons ponctuellement d’un peu partout. 
-Si nous communiquons principalement en français, il nous arrive aussi de manier l’anglais lorsque nous collaborons avec des partenaires étrangers.
-
-Les différentes équipes, malgré des centres d'intérêt très différents, partagent des valeurs communes : 
-1. l'obsession de la satisfaction de nos utilisateurs ;
-2. la priorité donnée aux tâches qui ont une utilité réelle ;
-3. la certitude qu'il est possible de mettre la technologie au service de l'intérêt général et de la rendre accessible et compréhensible par tous ;
-4. l'intuition que la mise en oeuvre d'une politique publique, même numérique, ne peut se faire sans une forte dose de relations humaines ;
-5. et enfin la volonté de toujours nous améliorer, d'améliorer le service que nous rendons à nos utilisateurs et de partager au maximum ce que nous apprenons avec les communautés qui nous entourent.
-
-Par notre travail, nous cherchons à montrer que des équipes autonomes, responsables et à qui l'on fait confiance peuvent construire des services numériques qui fonctionnent, simples, faciles à utiliser, et qui améliorent le service public.
-
-Nous documentons régulièrement nos pratiques pour les Startups d’État et pour la communauté sur des sujets aussi divers que nos rituels, nos formations, notre fonds d’accélération des Startups d’État ou encore les outils que nous utilisons. 
-
-Nos statistiques d’impact sont visibles ici : https://beta.gouv.fr/stats
-
-## La mission 
-Depuis 2013, nous avons construits une centaine de produits répondant à des problèmes variés, en lien avec des incubateurs partenaires, portés par des ministères, opérateurs de l’État ou collectivités. 
-Que ces produits soient en investigation, en construction ou en accélération, voire en transfert, ils sont tous constitués par une équipe autonome avec un·e coach, un·e intrapreneur·e, un·e ou plusieurs chargé·e·s de déploiement et un·e ou plusieurs développeu·rs·ses. 
+ 
+Découvre le détail de l'appel à candidatures pour en savoir plus sur beta.gouv.fr.
+Maintenant que tu en sais plus, parlons des missions !
 
 Que tu sois junior, expérimenté.e ou sénior, ta mission, si tu l’acceptes, tient en deux parties :
 
