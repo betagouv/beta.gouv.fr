@@ -1,8 +1,13 @@
 ---
 title: La bonne place 
 mission: Mettre en relation demandeurs d'emploi et entreprise de façon à ce que cela dure 
-owner: Pôle-emploi 
-incubator: La Farbik 
+owner: Pôle emploi 
+sponsors:
+  - name: Pôle Emploi
+    acronym: PE
+    domaine_interministeriel: travail
+    type: operateur
+incubator: pole-emploi 
 phases: 
   - name: investigation
     start: 2020-10-26 
@@ -11,15 +16,9 @@ events:
   - name: commitee
     date: 2020-12-10 
     comment: Second comité de financement (investigation>lancement) 
-link: X
-repository: X
 stats: false 
-stats_url: X
 contact: rachid.benabdelhak@pole-emploi.fr
 ---
-
-## Fiche produit
-
 **Problème**
  
 80,2% des 15-34 ans quittent leur CDI avant 1 an (DARES, 2015), et au total, c'est plus de 100.000 démissions chaque mois (DARES, 2018).
