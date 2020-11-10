@@ -38,5 +38,3 @@ Notre solution propose d'industrialiser ce processus.
 La phase d'investigation a permis de confirmer le drame et indique un intérêt pour la solution sous forme de questionnaire.
  
 Nous sommes en phase d'expérimentation afin de tester la valeur d'un recrutement avec La Bonne Place.
-
-
