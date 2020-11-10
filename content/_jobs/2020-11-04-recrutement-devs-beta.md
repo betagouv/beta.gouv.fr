@@ -1,52 +1,27 @@
 ---
-roles: 8 développeurs/ses
+roles: 2 développeurs/ses
 startup: beta.gouv.fr
 open: true
-title: Nous recrutons 8 développeurs ou développeuses, juniors et expérimenté.e.s pour rejoindre 8 produits beta.gouv.fr
+title: Nous recrutons des développeurs ou développeuses expérimenté.e.s pour rejoindre des produits beta.gouv.fr
 ---
 
-L'incubateur de la DINUM recherche plusieurs développeurs et développeuses juniors et expérimentés pour intégrer différentes équipes et les aider à résoudre un problème de politique publique au contact direct des usagers. 
+L'incubateur de la DINUM recherche deux développeurs et développeuses expérimentés pour intégrer deux équipes et les aider à résoudre un problème de politique publique au contact direct des usagers. 
 
-
-## Qui sommes-nous ?
-beta.gouv.fr met en œuvre une politique d’innovation publique en créant de petites équipes autonomes et agiles, nommées Startups d’État, qui développent des produits numériques en cycles courts, en lien direct avec leurs usagers et les parties prenantes à la politique publiques à laquelle ils contribuent.
-
-La communauté beta.gouv.fr de plus de 500 personnes a, depuis la création de la première Startup d'État, décidé collectivement que la meilleure manière de mettre en œuvre une politique publique passe par la constitution d'une équipe autonome. Cette équipe est elle-même constituée de membres issus du public ou du privé qui se donnent pour mission de résoudre les problèmes de ses usagers.
-
-Nos bureaux sont à Paris, avenue de Ségur, mais nous travaillons ponctuellement d’un peu partout. 
-Si nous communiquons principalement en français, il nous arrive aussi de manier l’anglais lorsque nous collaborons avec des partenaires étrangers.
-
-Les différentes équipes, malgré des centres d'intérêt très différents, partagent des valeurs communes : 
-1. l'obsession de la satisfaction de nos utilisateurs ;
-2. la priorité donnée aux tâches qui ont une utilité réelle ;
-3. la certitude qu'il est possible de mettre la technologie au service de l'intérêt général et de la rendre accessible et compréhensible par tous ;
-4. l'intuition que la mise en oeuvre d'une politique publique, même numérique, ne peut se faire sans une forte dose de relations humaines ;
-5. et enfin la volonté de toujours nous améliorer, d'améliorer le service que nous rendons à nos utilisateurs et de partager au maximum ce que nous apprenons avec les communautés qui nous entourent.
-
-Par notre travail, nous cherchons à montrer que des équipes autonomes, responsables et à qui l'on fait confiance peuvent construire des services numériques qui fonctionnent, simples, faciles à utiliser, et qui améliorent le service public.
-
-Nous documentons régulièrement nos pratiques pour les Startups d’État et pour la communauté sur des sujets aussi divers que nos rituels, nos formations, notre fonds d’accélération des Startups d’État ou encore les outils que nous utilisons. 
-
-Nos statistiques d’impact sont visibles ici : https://beta.gouv.fr/stats
-
-## La mission 
-Depuis 2013, nous avons construit une centaine de produits sur différents sujets en lien avec des incubateurs partenaires de ministères, opérateurs de l’État ou collectivité. 
-Que ces produits soient en investigation, en construction ou en accélération, voire en transfert, ils sont tous constitués par une équipe autonome avec un·e coach, un·e intrapreneur·e, un·e ou plusieurs chargé·e·s de déploiement et un·e ou plusieurs développeu·rs·ses. 
+## Qui sommes-nous ? 
+Découvre le détail de l'appel à candidatures pour en savoir plus sur beta.gouv.fr.
+Maintenant que tu en sais plus, parlons des missions !
 
 Que tu sois junior, expérimenté·e ou sénior, ta mission si tu l’acceptes tient en deux parties :
 
 #### La partie produit : 
 Participer au déploiement d’un service numérique au sein d’un portefeuille (ministériel la plupart du temps), auprès d’une équipe travaillant selon l’approche Startup d’Etat et notamment : 
 
-1. pour tous les profils (juniors et expérimentés) :
 - Contribuer à la conception et au développement des produits dans les langages et les frameworks retenus
 - S’assurer de la qualité du code grâce aux outils d’analyse automatisés
 - Participer à la maintenance des environnements
 - Préparer les mises en production des différents produits
 - Coordonner, effectuer la mise à jour de la documentation technique
 - Participer aux événements (OpenLabs, Séminaires, ateliers...).
-
-2. uniquement pour les profils expérimentés :
 - Organiser, planifier et assurer le développement de produits numériques
 - Contribuer à l’amélioration continue du produit, des outils et de l’organisation de l’équipe pour gagner en efficacité
 - Mettre en place les bonnes pratiques favorables à la qualité de la conception et du code
@@ -72,7 +47,6 @@ Nous serions très contents de te rencontrer si :
 - Tu aimes les modes de communication asynchrones ;
 - Tu n’as pas peur d'interagir avec une grande variété d’interlocuteurs ;
 - Tu n'hésites pas à montrer ou livrer ton travail, même s'il est encore imparfait (bref tu dis souvent «Done is better than perfect »);
-- Et tu utilises souvent la phrase «Done is better than perfect » ;
 - Tu maîtrises le français et un peu l’anglais dans un contexte professionnel et tu possèdes des qualités rédactionnelles ;
 - Tu souhaites travailler au service du bien commun et espères participer à la construction d'une solution qui cherche à tout prix à avoir le maximum d'impact et une utilité avérée ;
 - Tu sais travailler en équipe, tu sais écouter et tu acceptes de te remettre parfois en question – ou de remettre en question les procédures adoptées par l'équipe – lorsque tu penses pouvoir faire mieux ;
@@ -80,13 +54,11 @@ Nous serions très contents de te rencontrer si :
 - Tu as des connaissances de base en intégration et déploiement continu ou encore des connaissances méthodologiques en développement itératif ;
 - Tu as une sensibilité UX/accessibilité pour la partie front ;
 - Tu as de l’expérience sur un langage de programmation (parmi Python, Javascript (NodeJS ou framework front), Ruby, Java, Scala ou équivalent).
-
-Et si tu es plus expérimenté·e (+ de 5 ans d’expérience), si :
 - Tu as de très bonnes connaissances en développement logiciel ;
 - Tu as de solides connaissances en intégration et déploiement continu ;
 - Tu peux démontrer tes connaissances en méthodes agiles en environnement devops et lean ;
 - Tu sais t’engager en grande responsabilité pour livrer un produit ;
-- Tu es fiable et rigoureux dans ton exécution ;
+- Tu es fiable et rigoureux/se dans ton exécution ;
 - Tu as une solide culture de la sécurité des systèmes d’information ;
 - Tu as de l’expérience dans l’animation et la coordination de travaux en équipe devops et lean ;
 - Tu as de l’expérience sur au moins deux langages de programmation ou langages équivalents (parmi Python, Javascript (NodeJS ou framework front), Ruby, Java, Scala) ;
@@ -101,7 +73,7 @@ Poste ouvert pour un CDD à temps plein, en contrat de vacataire, d’une durée
 Si tu te poses la question, nous sommes presque tous contractuels ou indépendants au sein de la communauté beta.gouv.fr.
 
 #### Rémunération
-Pour une développeuse ou un développeur jusqu’à 5 ans d’expérience, le salaire proposé est de 3000 euros nets et pour une développeuse ou un développeur au-delà de 5 ans d’expérience le salaire est de 3500 euros nets. 
+Pour une développeuse ou un développeur au-delà de 5 ans d’expérience le salaire est de 3500 euros nets. 
 
 #### Travail à distance
 Les équipes sont actuellement organisées pour privilégier le travail à distance, et dans des circonstances plus "normales" il est accepté sous réserve d'une organisation efficace de l'équipe. N'hésite pas à préciser tes souhaits et tes possibilités en la matière.
