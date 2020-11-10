@@ -101,7 +101,7 @@ Une fois la décision de l'équipe prise, c'est la Direction des services admini
 Le délai de recrutement visé est de 4 semaines. 
 
 #### Comment envoyer une candidature 
-Envoies-nous ta candidature sur lien DS
+Clique ici pour candidater -> https://www.demarches-simplifiees.fr/commencer/rejoigneznous
 
 Le formulaire contient les détails des 2 postes à pourvoir, tu pourras ainsi motiver ta candidature pour rejoindre l'une et/ou l'autre de ces équipes.  
 
