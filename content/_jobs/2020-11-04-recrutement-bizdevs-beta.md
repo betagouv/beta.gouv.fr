@@ -91,6 +91,8 @@ Le délai de recrutement visé est de 4 semaines.
 #### Comment envoyer une candidature 
 Envoies-nous ta candidature sur lien DS
 
+Le formulaire contient les détails des postes à pourvoir, tu pourras ainsi motiver ta candidature pour rejoindre une ou plusieurs de ces équipes. 
+
 Parle-nous de ce qui te donne envie de nous rejoindre (nul besoin de lettre de motivation formelle, quelques lignes dans le corps du mail suffisent). 
 
 Écris avec tes mots à toi — l’emploi de jargon à la mode ne rapporte pas de points supplémentaires. 
