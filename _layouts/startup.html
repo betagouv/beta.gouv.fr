@@ -94,24 +94,24 @@ layout: default
       <h2>Protection des données personnelles</h2>
       <div class="text-quote">
           <ul>
-            <li>Le responsable du traitement est: <b>{{ page.rgpd.responsable }}</b></li>
+            <li>Le responsable du traitement est : <b>{{ page.rgpd.responsable }}</b></li>
             {% if page.rgpd.finalites %}
-            <li>Le traitement a pour finalité(s):</li>
+            <li>Le traitement a pour finalité(s) :</li>
             <ul>
               {% for finalite in page.rgpd.finalites %}
               <li>{{ finalite }}</li>
               {% endfor %}
             </ul>
             {% else %}
-            <li>La finalité du traitement est: {{ page.mission }}</li>
+            <li>La finalité du traitement est : {{ page.mission }}</li>
             {% endif %}
-            <li>Les données personnelles suivantes sont collectées:</li>
+            <li>Les données personnelles suivantes sont collectées :</li>
             <ul>
               {% for donnee in page.rgpd.donnees %}
               <li>{{ donnee }}</li>
               {% endfor %}
             </ul>
-            <li>Les mesures suivantes ont été mises en place en vue d'assurer la sécurité:</li>
+            <li>Les mesures suivantes ont été mises en place en vue d'assurer la sécurité :</li>
             <ul>
               {% for controle in page.rgpd.controles %}
               <li>{{ controle.type }} par {{ controle.intervenant }} le {{ controle.date }}</li>
