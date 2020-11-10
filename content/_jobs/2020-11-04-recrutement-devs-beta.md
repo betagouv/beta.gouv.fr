@@ -8,7 +8,7 @@ title: Nous recrutons des développeurs ou développeuses expérimenté.e.s pour
 L'incubateur de la DINUM recherche deux développeurs et développeuses expérimentés pour intégrer deux équipes et les aider à résoudre un problème de politique publique au contact direct des usagers. 
 
 ## Qui sommes-nous ? 
-Découvre le détail de l'appel à candidatures sur notre blog pour en savoir plus sur beta.gouv.fr. : 
+Clique sur cet article pour en savoir plus sur beta.gouv.fr et notre appel à candidatures avant de découvrir les missions ci-dessous  : https://blog.beta.gouv.fr/dinsic/2020/11/04/nous-recrutons-une-brigade-numerique/
 
 ## La mission 
 Ta mission si tu l’acceptes tient en deux parties :
