@@ -11,7 +11,7 @@ L'incubateur de la DINUM recherche deux développeurs et développeuses expérim
 Découvre le détail de l'appel à candidatures pour en savoir plus sur beta.gouv.fr.
 Maintenant que tu en sais plus, parlons des missions !
 
-Que tu sois junior, expérimenté·e ou sénior, ta mission si tu l’acceptes tient en deux parties :
+Ta mission si tu l’acceptes tient en deux parties :
 
 #### La partie produit : 
 Participer au déploiement d’un service numérique au sein d’un portefeuille (ministériel la plupart du temps), auprès d’une équipe travaillant selon l’approche Startup d’Etat et notamment : 
@@ -102,6 +102,8 @@ Le délai de recrutement visé est de 4 semaines.
 
 #### Comment envoyer une candidature 
 Envoies-nous ta candidature sur lien DS
+
+Le formulaire contient les détails des 2 postes à pourvoir, tu pourras ainsi motiver ta candidature pour rejoindre l'une et/ou l'autre de ces équipes.  
 
 Parle-nous de ce qui te donne envie de nous rejoindre (nul besoin de lettre de motivation formelle, quelques lignes dans le corps du mail suffisent). 
 Écris avec tes mots à toi — l’emploi de jargon à la mode ne rapporte pas de points supplémentaires. 
