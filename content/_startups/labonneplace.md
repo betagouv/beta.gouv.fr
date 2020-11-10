@@ -4,7 +4,7 @@ mission: Mettre en relation demandeurs d'emploi et entreprise de façon à ce qu
 owner: Pôle-emploi 
 incubator: La Farbik 
 phases: 
-  - name: investigation (expérimentation)
+  - name: investigation
     start: 2020-10-26 
     end: 
 events: 
