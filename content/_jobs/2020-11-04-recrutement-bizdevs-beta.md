@@ -9,7 +9,7 @@ L'incubateur de la DINUM recherche 10 chargé.e.s de déploiement, juniors et ex
 
 ## Qui sommes-nous ?
  
-Découvre le détail de l'appel à candidatures sur notre blog pour en savoir plus sur beta.gouv.fr. : 
+Clique sur cet article pour en savoir plus sur beta.gouv.fr et notre appel à candidatures avant de découvrir les missions ci-dessous  : https://blog.beta.gouv.fr/dinsic/2020/11/04/nous-recrutons-une-brigade-numerique/
 
 ## La mission 
 Que tu sois junior, expérimenté.e ou sénior, ta mission, si tu l’acceptes, tient en deux parties :
