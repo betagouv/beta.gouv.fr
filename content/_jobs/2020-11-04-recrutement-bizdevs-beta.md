@@ -1,15 +1,15 @@
 ---
-roles: Chargé.e.s de déploiement 
+roles: 10 Chargé.e.s de déploiement 
 startup: beta.gouv.fr
 open: true
-title: Nous recrutons 10 chargé.e.s de déploiement, juniors et expérimenté.e.s, pour rejoindre 10 produits beta.gouv.fr
+title: Nous recrutons dix chargé.e.s de déploiement, juniors et expérimenté.e.s, pour rejoindre des produits beta.gouv.fr
 ---
 
-L'incubateur de la DINUM recherche 10 chargé.e.s de déploiement, juniors et expérimentés, pour intégrer différentes équipes et les aider à résoudre un problème de politique publique au contact direct des usagers. 
+L'incubateur de la DINUM recherche deux chargé.e.s de déploiement, juniors et expérimentés, pour intégrer différentes équipes et les aider à résoudre un problème de politique publique au contact direct des usagers. 
 
 ## Qui sommes-nous ?
  
-Clique sur cet article pour en savoir plus sur beta.gouv.fr et notre appel à candidatures avant de découvrir les missions ci-dessous  : https://blog.beta.gouv.fr/dinsic/2020/11/10/nous-recrutons-une-brigade-numerique/
+[Avant de découvrir les missions ci-dessous, clique sur cet article pour en savoir plus sur beta.gouv.fr et notre appel à candidatures.](https://blog.beta.gouv.fr/dinsic/2020/11/10/nous-recrutons-une-brigade-numerique/)
 
 ## La mission 
 Que tu sois junior, expérimenté.e ou sénior, ta mission, si tu l’acceptes, tient en deux parties :
@@ -89,11 +89,11 @@ Une fois la décision de l'équipe prise, c'est la Direction des services admini
 Le délai de recrutement visé est de 4 semaines. 
 
 #### Comment envoyer une candidature 
-Clique ici pour candidater -> https://www.demarches-simplifiees.fr/commencer/rejoigneznous
+Clique ici pour candidater -> [https://www.demarches-simplifiees.fr/commencer/rejoigneznous](https://www.demarches-simplifiees.fr/commencer/rejoigneznous)
 
 Le formulaire contient les détails des postes à pourvoir, tu pourras ainsi motiver ta candidature pour rejoindre une ou plusieurs de ces équipes. 
 
-Parle-nous de ce qui te donne envie de nous rejoindre (nul besoin de lettre de motivation formelle, quelques lignes dans le corps du mail suffisent). 
+Parle-nous de ce qui te donne envie de nous rejoindre (nul besoin de lettre de motivation formelle si tu n'en a pas envie). 
 
 Écris avec tes mots à toi — l’emploi de jargon à la mode ne rapporte pas de points supplémentaires. 
 
