@@ -5,7 +5,7 @@ owner: Pôle emploi
 sponsors:
   - name: Pôle Emploi
     acronym: PE
-    domaine_interministeriel: travail
+    domaine_ministeriel: travail
     type: operateur
 incubator: pole-emploi 
 phases: 
