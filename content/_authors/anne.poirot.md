@@ -8,4 +8,5 @@ missions:
     employer: LaZone
 startups:
     - ecosante
+    - labels-transition
 ---
