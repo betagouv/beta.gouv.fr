@@ -10,7 +10,7 @@ missions:
     status: independent
     employer:
 startups: 
-- mon-entreprise.fr 
+- mon-entreprise
 - canope
 
 badges: # enleve le commentaire '#' pour indiquer que tu as demandé un badge 
