@@ -5,7 +5,7 @@ open: true
 title: Nous recrutons dix chargé.e.s de déploiement, juniors et expérimenté.e.s, pour rejoindre des produits beta.gouv.fr
 ---
 
-L'incubateur de la DINUM recherche deux chargé.e.s de déploiement, juniors et expérimentés, pour intégrer différentes équipes et les aider à résoudre un problème de politique publique au contact direct des usagers. 
+L'incubateur de la DINUM recherche dix chargé.e.s de déploiement, juniors et expérimentés, pour intégrer différentes équipes et les aider à résoudre un problème de politique publique au contact direct des usagers. 
 
 ## Qui sommes-nous ?
  
@@ -89,7 +89,7 @@ Une fois la décision de l'équipe prise, c'est la Direction des services admini
 Le délai de recrutement visé est de 4 semaines. 
 
 #### Comment envoyer une candidature 
-Clique ici pour candidater -> [https://www.demarches-simplifiees.fr/commencer/rejoigneznous](https://www.demarches-simplifiees.fr/commencer/rejoigneznous)
+Clique ici pour candidater jusqu'au 23 novembre 23h59 -> [https://www.demarches-simplifiees.fr/commencer/rejoigneznous](https://www.demarches-simplifiees.fr/commencer/rejoigneznous)
 
 Le formulaire contient les détails des postes à pourvoir, tu pourras ainsi motiver ta candidature pour rejoindre une ou plusieurs de ces équipes. 
 
