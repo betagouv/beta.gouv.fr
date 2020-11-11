@@ -1,5 +1,4 @@
-
-    ---
+---
 fullname: Penelope Liot
 role: Coach 
 github: penelopel 
