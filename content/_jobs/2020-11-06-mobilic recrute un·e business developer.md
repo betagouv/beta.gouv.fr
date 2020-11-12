@@ -56,7 +56,7 @@ Si ce qui est raconté ici te donne envie de rejoindre l’aventure : écris nou
 - Contrat : mission de 6 mois, très certainement renouvelable !
 - Début de la mission : tout de suite ! 
 - Durée : 4 jours par semaine 
-- Rémunération : on en parle ensemble, TJM adapté à l'expérience (profil junior / intermédiaire recherché)
+- Rémunération : on en parle ensemble, TJM adapté à l'expérience (profil stagiaire, junior / intermédiaire recherché)
 - Le poste est basé à Paris, avec possibilité de télétravail bien évidemment
 
 # Comment postuler ?

@@ -1,7 +1,7 @@
 ---
 roles: un·e chargé·e de développement 
 startup: signalement
-open: true
+open: false
 ---
 
 Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une petite équipe autonome, agile, et proche de leurs utilisateurs ? 
