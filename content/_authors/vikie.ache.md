@@ -8,5 +8,6 @@ missions:
     employer: Agglomération de Pau Béarn Pyrénées
 startups:
   - simone-and-co
+  - histologe
 previously: []
 ---
