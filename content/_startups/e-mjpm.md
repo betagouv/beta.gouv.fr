@@ -21,7 +21,7 @@ phases:
     start: 2019-01-13
     comment: Reprise d'e-MJPM dans le programme MANDOLINE -> nécessité de revoir
       l'architecture de la plateforme
-  - name: alumni
+  - name: acceleration
     start: 2020-09-01
 ---
 ### Simplifier la relation entre les magistrats et professionnels de la protection juridique des majeurs
