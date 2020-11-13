@@ -1,11 +1,11 @@
 ---
-roles: 10 Chargé.e.s de déploiement 
+roles: Chargé.e.s de déploiement juniors et expérimenté.e.s
 startup: beta.gouv.fr
 open: true
-title: Nous recrutons dix chargé.e.s de déploiement, juniors et expérimenté.e.s, pour rejoindre des produits beta.gouv.fr
+title: Nous recrutons des chargé.e.s de déploiement, juniors et expérimenté.e.s, pour rejoindre des produits beta.gouv.fr
 ---
 
-L'incubateur de la DINUM recherche dix chargé.e.s de déploiement, juniors et expérimentés, pour intégrer différentes équipes et les aider à résoudre un problème de politique publique au contact direct des usagers. 
+L'incubateur de la DINUM recherche des chargé.e.s de déploiement, juniors et expérimentés, pour intégrer différentes équipes et les aider à résoudre un problème de politique publique au contact direct des usagers. 
 
 ## Qui sommes-nous ?
  
