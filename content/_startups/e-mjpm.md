@@ -38,10 +38,6 @@ Avec e-MJPM, le magistrat peut choisir au mieux le professionnel qui sera en cha
 
 Ce service consolide ainsi une base de données des mesures en cours sur le territoire. Ces données ont une valeur essentielle dans le pilotage de la politique publique de la protection juridique des majeurs (connaître le profil des personnes sous protection, adapter l’offre des tuteurs aux spécificités du territoire, identifier les mesures familiales et adapter l’information et le soutien proposé…).
 
-Avec e-MJPM, les mandataires sont informés en temps
+Avec e-MJPM, les mandataires ont un suivi en temps réel des mesures qui leur ont été assignés par les magistrats. 
 
-
-
-Le service numérique est aujourd'hui déployé sur le département des Hauts de France et Paris. Le déploiement sera engagé au fur et à mesure sur de nouveaux territoires, en partenariat avec le ministère de la Justice.
-
-e-MJPM est une première réponse pour une meilleure gestion des mesures de protection et a pour objectif de simplifier à terme toutes les démarches des personnes sous protection.
+Le produit est aujourd'hui déployé et utilisé sur le département des Hauts de France et Paris et poursuit sont déploiement sur tout le territoire national, en partenariat avec le ministère de la Justice.
