@@ -9,7 +9,7 @@ L’e-inspé est un projet de nouvelle plateforme nationale pour la formation de
 Porté par le Secrétariat général pour l’investissement, la Direction générale de l’enseignement scolaire et Réseau Canopé, le projet e-inspé a pour objectif d’assurer un espace de développement professionnel pour tous les enseignants.
 <!--more-->
 ## Qui sommes-nous ?
-L’e-inspé vise à réinventer la formation initiale et continue des enseignants. Le but ? Créer un  service numérique qui leur donne une vision sur le long terme de leur formation et construire leur parcours de développement professionnel. Avec des contenus de très haute qualité et un réseau pour accompagner les enseignants, ce nouveau service cherche à construire la formation de demain : https://beta.gouv.fr/startups/e-insp%C3%A9.html 
+L’e-inspé vise à réinventer la formation initiale et continue des enseignants. Le but ? Créer un  service numérique qui leur donne une vision sur le long terme de leur formation et construire leur parcours de développement professionnel. Avec des contenus de très haute qualité et un réseau pour accompagner les enseignants, ce nouveau service cherche à construire la formation de demain : [startup e-inspé](https://beta.gouv.fr/startups/e-insp%C3%A9.html).
 Le développement de ce service s’appuiera sur la production de contenus de qualité par les différents opérateurs de l’Education nationale, des instituts supérieurs du professorat et de l’éducation ainsi que sur un réseau de pairs mobilisés pour la réussite de la formation de chaque enseignant. La personnalisation et l’articulation entre les temps courts et la vision à long terme de sa formation, adaptées aux besoins des enseignants, seront au coeur de la stratégie de l’e-inspé.
 Le/la développeur.euse interviendra, sur la conception de ce service.
 
@@ -35,7 +35,7 @@ Plus/Bonus :
 - Compréhension des enjeux et de la réglementation dans le domaine de la protection des données personnelles
 - Sensibilité UX/accessibilité pour la partie front Environnement de travail
 ## Modalités
-- Environnement et communauté beta.gouv : https://beta.gouv.fr/ (plus de détails ici également : https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/charte)
+- Environnement et communauté beta.gouv : [https://beta.gouv.fr/](https://beta.gouv.fr/) (plus de détails ici également : [charte travailler à beta-gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/charte))
 - Poste ouvert pour des indépendant·e·s sur une durée de 6 mois renouvelable
 - 3 à 5 jours par semaine 
 - Démarrage en novembre 2020 
