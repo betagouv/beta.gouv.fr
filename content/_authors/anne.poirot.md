@@ -1,6 +1,6 @@
 ---
 fullname: Anne Poirot
-role: Chargée de développement
+role: Chargée de produit
 github: annepoirot
 missions:
   - start: 2020-04-03
