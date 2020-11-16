@@ -88,4 +88,48 @@ layout: default
     </div>
   </section>
 
+  {% if page.rgpd %}
+  <section class="section section-white">
+    <div class="container">
+      <h2>Protection des données personnelles</h2>
+      <div class="text-quote">
+          <ul>
+            <li>Le responsable du traitement est : <b>{{ page.rgpd.responsable }}</b></li>
+            {% if page.rgpd.finalites %}
+            <li>Le traitement a pour finalité(s) :</li>
+            <ul>
+              {% for finalite in page.rgpd.finalites %}
+              <li>{{ finalite }}</li>
+              {% endfor %}
+            </ul>
+            {% else %}
+            <li>La finalité du traitement est : {{ page.mission }}</li>
+            {% endif %}
+            <li>Les données personnelles suivantes sont collectées :</li>
+            <ul>
+              {% for donnee in page.rgpd.donnees %}
+              <li>{{ donnee }}</li>
+              {% endfor %}
+            </ul>
+            <li>Les mesures suivantes ont été mises en place en vue d'assurer la sécurité :</li>
+            <ul>
+              {% for controle in page.rgpd.controles %}
+              <li>{{ controle.type }} par {{ controle.intervenant }} le {{ controle.date }}</li>
+              {% endfor %}
+            </ul>
+            {% if page.rgpd.mesures_securite %}
+            <li>{{ page.rgpd.mesures_securite }}</li>
+            {% endif %}
+            {% if page.rgpd.validite_homologation %}
+            <li>Ce produit a fait l'objet d'une homologation de sécurité valable jusqu'au {{ page.rgpd.validite_homologation }}</li>
+            {% else %}
+            <li>Ce produit est encore en cours d'obtention de l'homologation de sécurité</li>
+            {% endif %}
+          </ul>
+        </div>
+        Pour exercer vos <a href="https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles">droits</a> : <a href="{{ page.rgpd.exercer_vos_droits }}">{{ page.rgpd.exercer_vos_droits }}</a>
+    </div>    
+  </section>
+  {% endif %}
+
 </div>
