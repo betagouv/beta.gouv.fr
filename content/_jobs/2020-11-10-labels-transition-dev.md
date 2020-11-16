@@ -75,7 +75,10 @@ Dès que nous serons en contact nous vous communiquerons un lien vers le dépôt
 ## Nous contacter
 
 Pour en savoir plus et échanger avec nous :
-- [nicolas.vallee@ademe.fr - martin.ruau@ademe.fr - anne.poirot@beta.gouv.fr - stephane.langlois@beta.gouv.fr](mailto:nicolas.vallee@ademe.fr,martin.ruau@ademe.fr,anne.poirot@beta.gouv.fr,stephane.langlois@beta.gouv.fr)
+- nicolas.vallee@ademe.fr - (intra)
+- martin.ruau@ademe.fr - (intra)
+- anne.poirot@beta.gouv.fr - (PO - responsable produit)
+- stephane.langlois@beta.gouv.fr - (coach)
 
 À très vite !
 
