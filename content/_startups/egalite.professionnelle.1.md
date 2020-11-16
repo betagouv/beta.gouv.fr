@@ -6,7 +6,7 @@ owner: Ministère du Travail
 incubator: mtes
 link: https://index-egapro.travail.gouv.fr
 repository: https://github.com/SocialGouv/egapro
-contact: "mailto: index@travail.gouv.fr"
+contact: index@travail.gouv.fr
 phases:
   - name: investigation
     start: 2019-01-01
