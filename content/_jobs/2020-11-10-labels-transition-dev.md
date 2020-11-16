@@ -72,4 +72,6 @@ Dès que nous serons en contact nous vous communiquerons un lien vers le dépôt
 - résultats des phases de cadrage et de consolidation
 - les conditions de portage d'Octo
 
-Ravi·e·s à l'idée de faire votre connaissance ;)
+Ravi·e·s à l'idée de faire votre connaissance ;) 
+
+N'hésitez pas à nous envoyer votre candidature à: nicolas.vallee@ademe.fr; martin.ruau@ademe.fr; anne.poirot@beta.gouv.fr; stephane.langlois@beta.gouv.fr !
