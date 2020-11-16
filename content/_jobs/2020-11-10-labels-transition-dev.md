@@ -75,7 +75,7 @@ Dès que nous serons en contact nous vous communiquerons un lien vers le dépôt
 ## Nous contacter
 
 Pour en savoir plus et échanger avec nous :
-- [nicolas.vallee@ademe.fr;martin.ruau@ademe.fr;anne.poirot@beta.gouv.fr;stephane.langlois@beta.gouv.fr](mailto:nicolas.vallee@ademe.fr,martin.ruau@ademe.fr,anne.poirot@beta.gouv.fr,stephane.langlois@beta.gouv.fr?subject=Contact avec l'équipe - Labels Transition Écologique)
+- [nicolas.vallee@ademe.fr - martin.ruau@ademe.fr - anne.poirot@beta.gouv.fr - stephane.langlois@beta.gouv.fr](mailto:nicolas.vallee@ademe.fr,martin.ruau@ademe.fr,anne.poirot@beta.gouv.fr,stephane.langlois@beta.gouv.fr)
 
 À très vite !
 
