@@ -7,6 +7,13 @@ incubator: mtes
 link: https://index-egapro.travail.gouv.fr
 repository: https://github.com/SocialGouv/egapro
 contact: "mailto: index@travail.gouv.fr"
+phases:
+  - name: investigation
+    start: 2019-01-01
+    end: 2019-02-28
+    comment: Lancement de la startup
+  - name: construction
+    start: 2019-03-01
 ---
 L’index d'égalité professionnelle a été conçu pour faire progresser au sein des entreprises l’égalité salariale entre les femmes et les hommes.
 
