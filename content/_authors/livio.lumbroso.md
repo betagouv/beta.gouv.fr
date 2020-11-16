@@ -8,7 +8,7 @@ missions:
   - start: 2020-11-16 # date d'arrivée au format ISO (AAAA-MM-JJ)
     end: 2021-05-16 # date de fin de contrat au format ISO (AAAA-MM-JJ)
     status: independent
-    employer:
+    employer: numa
 startups:
     - ecosante
 badges: 
