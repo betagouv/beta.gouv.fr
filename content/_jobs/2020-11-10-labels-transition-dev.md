@@ -72,8 +72,11 @@ Dès que nous serons en contact nous vous communiquerons un lien vers le dépôt
 - résultats des phases de cadrage et de consolidation
 - les conditions de portage d'Octo
 
-## Candidater
+## Nous contacter
 
-Cela vous intéresse ? Envoyez votre CV et/ou LinkedIn et/ou  GitHub à nicolas.vallee@ademe.fr; martin.ruau@ademe.fr; anne.poirot@beta.gouv.fr; stephane.langlois@beta.gouv.fr . À bientôt !
+Pour en savoir plus et échanger avec nous :
+- [nicolas.vallee@ademe.fr;martin.ruau@ademe.fr;anne.poirot@beta.gouv.fr;stephane.langlois@beta.gouv.fr](mailto:nicolas.vallee@ademe.fr,martin.ruau@ademe.fr,anne.poirot@beta.gouv.fr,stephane.langlois@beta.gouv.fr?subject=Contact avec l'équipe - Labels Transition Écologique)
+
+À très vite !
 
 Ravi·e·s à l'idée de faire votre connaissance ;)
