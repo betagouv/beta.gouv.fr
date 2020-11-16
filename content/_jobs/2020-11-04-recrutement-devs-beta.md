@@ -1,11 +1,11 @@
 ---
-roles: 2 développeurs/ses
+roles: développeurs/ses expérimenté.e.s
 startup: beta.gouv.fr
 open: true
 title: Nous recrutons des développeurs ou développeuses expérimenté.e.s pour rejoindre des produits beta.gouv.fr
 ---
 
-L'incubateur de la DINUM recherche deux développeurs et développeuses expérimentés pour intégrer deux équipes et les aider à résoudre un problème de politique publique au contact direct des usagers. 
+L'incubateur de la DINUM recherche des développeurs et développeuses expérimentés pour intégrer deux équipes et les aider à résoudre un problème de politique publique au contact direct des usagers. 
 
 ## Qui sommes-nous ? 
 [Avant de découvrir les missions ci-dessous, clique sur cet article pour en savoir plus sur beta.gouv.fr et notre appel à candidatures.](https://blog.beta.gouv.fr/dinsic/2020/11/10/nous-recrutons-une-brigade-numerique/)

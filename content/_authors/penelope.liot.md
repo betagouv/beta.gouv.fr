@@ -11,5 +11,7 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     end: 2020-12-31
     status: independent
     employer: Numa # si applicable, le nom de ton administration, SSII, etc.
+startups:
+  - mon-entreprise
 ---
 Accompagnement de produits Gamma
