@@ -71,8 +71,7 @@ Nous travaillons avec les villes de __Amiens__ ([Permis de Fleurir](https://perm
 Le produit s'est construit suite à un concours lancé par le programme « GreenTech verte », qui a été remporté par l'intrapreneuse alors étudiante.
 L'équipe a construit un produit pour les collectivités pour permettre aux citoyennes et citoyens de trouver facilement un espace pour planter fruits, fleurs et légumes dans leur ville. Les mairies étaient intéressés par le sujet et les lancements sur le terrain ont montré l'appétence des habitants pour végétaliser l'espace public.
 
-Malgrè une réussite auprès des habitants et villes partenaires, le service n'a pas su trouvé de modéle économique, les mairies étant des trop petites entités pour financer le produit et le ministère de la Transition écologique ayant arrêté les financements après ceux consentis par le concours Greentech Verte.
+Malgré une réussite auprès des habitant·e·s et villes partenaires, le service n'a pas su trouvé de modèle économique, les mairies étant de trop petites entités pour financer le produit et le ministère de la Transition écologique n'ayant pas reconduit les financements issus du concours « Greentech Verte ».
 La DINUM (ex-DINSIC) a assuré un portage temporaire de la startup pendant 2 ans et demi, le temps de trouver un arrimage vers un autre porteur. A la fin de l'été 2020, il est décidé, faute de porteur, d'arrêter le produit.
 
 Le code de l'application est open source et les travaux peuvent être repris, et l'équipe pourra, tant que possible, encore répondre aux questions des mairies qui souhaitent lancer leur service de végétalisation de manière autonome.
-
