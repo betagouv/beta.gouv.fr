@@ -72,4 +72,8 @@ Dès que nous serons en contact nous vous communiquerons un lien vers le dépôt
 - résultats des phases de cadrage et de consolidation
 - les conditions de portage d'Octo
 
+## Candidater
+
+Cela vous intéresse ? Envoyez votre CV et/ou LinkedIn et/ou  GitHub à nicolas.vallee@ademe.fr; martin.ruau@ademe.fr; anne.poirot@beta.gouv.fr; stephane.langlois@beta.gouv.fr . À bientôt !
+
 Ravi·e·s à l'idée de faire votre connaissance ;)
