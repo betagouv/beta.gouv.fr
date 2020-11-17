@@ -4,12 +4,11 @@ role: Coach
 avatar: https://i.imgur.com/QMHjIph.png
 missions:
   - start: 2017-09-01
-    end:
+    end: 2019-07-01
     status: service
     employer: NUMA
 startups:
-    - workinfrance
-    - e-mjpm
+  - workinfrance
 ---
 
 Harder Better Faster Stronger.
