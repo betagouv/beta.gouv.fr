@@ -8,7 +8,7 @@ contrat: indépendant
 equipe: Aidants Connect
 post_ouvert: 2020-10-13
 contact: incubateur@anct.gouv.fr
-open: true
+open: false
 ---
 
 **Aidants Connect** est désormais un produit de l'Incubateur des Territoires.
