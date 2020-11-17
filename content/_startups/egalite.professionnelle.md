@@ -3,7 +3,7 @@ title: Egalité professionnelle
 mission: Produit destiné au calcul et à la transmission de l'index égalité
   professionnelle par les entreprises
 owner: Ministère du Travail
-incubator: mtes
+incubator: sgmas
 link: https://index-egapro.travail.gouv.fr
 repository: https://github.com/SocialGouv/egapro
 contact: index@travail.gouv.fr
