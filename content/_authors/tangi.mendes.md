@@ -1,6 +1,6 @@
 ---
 fullname: Tangi Mendès
-role: Döveloppeur
+role: Développeur
 github: tangimds
 missions:
   - start: 2020-11-01
