@@ -6,7 +6,7 @@ missions:
   - start: 2020-07-12
     end: 2021-02-30
     status: independent
-    employer: Numa
+    employer: numa
 startups:
   - Aides-territoires
   - DossierFacile
