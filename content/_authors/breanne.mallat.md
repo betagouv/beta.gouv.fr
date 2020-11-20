@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: numa
 startups:
-  - Aides-territoires
-  - DossierFacile
-  - Mon-entreprise
+  - aides-territoires
+  - locatio
+  - mon-entreprise
 ---
