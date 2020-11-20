@@ -6,7 +6,7 @@ open: true
 
 Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une équipe autonome, agile, et proche de leurs utilisatrices/utilisateurs ?
 
-Ma-cantine.beta.gouv.fr recherche une ou deux personnes pour développer en freelance à partir de décembre 2020 qui participera à la conception, au développement et au déploiement de l’application.
+Ma-cantine recherche une ou deux personnes pour développer en freelance à partir de décembre 2020 qui participera à la conception, au développement et au déploiement de l’application.
 
 Choix technologiques à voir avec la personne sélectionnée, le produit n’attend que d’être développé et confronté à ses premiers usagers… :) 
 
