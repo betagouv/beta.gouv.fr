@@ -1,5 +1,5 @@
 ---
-roles: Développeuse ou Développeur 
+roles: Personne développeuse
 startup: egalim
 open: true
 ---
@@ -11,7 +11,7 @@ Ma-cantine.beta.gouv.fr recherche une ou deux personnes pour développer en free
 Choix technologiques à voir avec la personne sélectionnée, le produit n’attend que d’être développé et confronté à ses premiers usagers… :) 
 
 
-## L’équipe ma-cantine.beta.gouv.fr recherche une ou deux personnes expérimentées pour développer
+## L’équipe ma-cantine.beta.gouv.fr recherche une ou deux personnes expérimentées pour développer la plateforme
 
 La mission : garantir un système permettant une alimentation saine, durable, moins animale et plus végétale, respectueuse de la production et du climat, peu émettrice de gaz à effet de serre et accessible à tous, notamment en rendant la loi EGalim.
 
