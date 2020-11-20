@@ -11,13 +11,13 @@ Ma-cantine recherche une ou deux personnes pour développer en freelance à part
 Choix technologiques à voir avec la personne sélectionnée, le produit n’attend que d’être développé et confronté à ses premiers usagers… :) 
 
 
-## L’équipe ma-cantine.beta.gouv.fr recherche une ou deux personnes expérimentées pour développer la plateforme
+## L’équipe ma-cantine recherche une ou deux personnes expérimentées pour développer la plateforme
 
 La mission : garantir un système permettant une alimentation saine, durable, moins animale et plus végétale, respectueuse de la production et du climat, peu émettrice de gaz à effet de serre et accessible à tous, notamment en rendant la loi EGalim.
 
 Pour information, la loi EGalim prévoit, en restauration collective, entre autres mesures : 50% d’aliments durables dont 20% bio, une diversification des sources de protéines, un un menu végétarien par semaine dans les cantines scolaires.
 
-15 millions de Français prennent chaque jour au moins un repas hors de leur domicile, dont plus de la moitié en restauration collective. Cette spécificité française fait de la restauration collective un passage obligé pour de nombreux français. Au total, ce sont près de 100 000 structures de restauration collective, publiques ou privées, qui distribuent plus de 3,5 milliards de repas par an. Compte tenu de l’importance de ce secteur, il est essentiel d’en faire un levier de premier plan dans la transformation de notre modèle alimentaire. La restauration collective est un levier puissant pour faire évoluer les pratiques alimentaires, réduire les inégalités et recréer de la valeur ajoutée pour les filières locales. Ce projet s’inscrit dans le cadre du Programme National de l’Alimentation, piloté par le Ministère chargé de l’Agriculture et de l’Alimentation.
+15 millions de Français prennent chaque jour au moins un repas hors de leur domicile, dont plus de la moitié en restauration collective. Cette spécificité française fait de la restauration collective un passage obligé pour de nombreux français. Au total, ce sont près de 100 000 structures de restauration collective, publiques ou privées, qui distribuent plus de 3,5 milliards de repas par an. Compte tenu de l’importance de ce secteur, il est essentiel d’en faire un levier de premier plan dans la transformation de notre modèle alimentaire. La restauration collective est un levier puissant pour faire évoluer les pratiques alimentaires, réduire les inégalités et recréer de la valeur ajoutée pour les filières locales. Ce projet s’inscrit dans le cadre du Programme National de l’Alimentation, piloté par le ministère de l’Agriculture et de l’Alimentation.
 
 
 ## L’objectif du produit
@@ -35,7 +35,7 @@ Pour qui :
 
 ## Contexte
 
-Le secteur de la restauration collective étant vaste et très divers dans son organisation, ses pratiques et son fonctionnement, l'hypothèse de solution proposée est une plateforme numérique dont la cible est volontairement restreinte, dans un premier temps, aux cantines scolaires autogérées. Il s’agit donc de proposer une première brique d’une plateforme numérique, pouvant être, après expérimentation, élargie aux autres secteurs de la restauration collective, si les résultats et l’impact attendus sont montrés sur ce premier secteur d'expérimentation. Cet outil, ma-cantine.beta.gouv.fr, permettrait à un.e élu.e, chef.fe de cantine, gestionnaire… d'évaluer sa conformité avec l’ensemble des mesures de la loi via un test de positionnement et notamment de calculer la part de ses achats de qualité et durables grâce à la mise à disposition d’un outil de type calculette simple et rapide de prise en main.
+Le secteur de la restauration collective étant vaste et très divers dans son organisation, ses pratiques et son fonctionnement, l'hypothèse de solution proposée est une plateforme numérique dont la cible est volontairement restreinte, dans un premier temps, aux cantines scolaires autogérées. Il s’agit donc de proposer une première brique d’une plateforme numérique, pouvant être, après expérimentation, élargie aux autres secteurs de la restauration collective, si les résultats et l’impact attendus sont montrés sur ce premier secteur d'expérimentation. Cet outil, ma-cantine, permettrait à un·e élu·e, chef·fe de cantine, gestionnaire… d'évaluer sa conformité avec l’ensemble des mesures de la loi via un test de positionnement et notamment de calculer la part de ses achats de qualité et durables grâce à la mise à disposition d’un outil de type calculette simple et rapide de prise en main.
 
 Une sorte d’autodiagnostic à un instant t de sa situation l’aiderait à évaluer les pistes d'amélioration pour atteindre des assiettes plus saines et durables pour ses convives. Un tableau de bord, état des lieux, lui serait fourni, en même temps qu’un accès simplifié et centralisé à un bouquet de ressources pour l’accompagner dans l’atteinte de ses objectifs. 
 
