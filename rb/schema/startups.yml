@@ -72,6 +72,8 @@ mapping:
             "name":
               type:      str
               assert:    "['investigation','construction','acceleration','success','transfer','alumni'].include?(val)"
+            "comment":
+              type:      str
   "incubator":
     type:      str
     required:  yes
@@ -97,3 +99,5 @@ mapping:
         - type:      str
   "robots":
     type:      str
+  "rgpd":
+    type:      any
