@@ -6,12 +6,12 @@ open: true
 
 Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une équipe autonome, agile, et proche de leurs utilisatrices/utilisateurs ?
 
-Ma-cantine.beta.gouv.fr recherche un.e ou deux développeur.se en freelance à partir de décembre 2020 qui participera à la conception, au développement et au déploiement de l’application.
+Ma-cantine.beta.gouv.fr recherche une ou deux personnes pour développer en freelance à partir de décembre 2020 qui participera à la conception, au développement et au déploiement de l’application.
 
 Choix technologiques à voir avec la personne sélectionnée, le produit n’attend que d’être développé et confronté à ses premiers usagers… :) 
 
 
-## L’équipe ma-cantine.beta.gouv.fr recherche un.e ou deux développeur.se front-end expérimenté.e
+## L’équipe ma-cantine.beta.gouv.fr recherche une ou deux personnes expérimentées pour développer le front-end 
 
 La mission : garantir un système permettant une alimentation saine, durable, moins animale et plus végétale, respectueuse de la production et du climat, peu émettrice de gaz à effet de serre et accessible à tous, notamment en rendant la loi EGalim.
 
