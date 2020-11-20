@@ -15,7 +15,7 @@ Choix technologiques à voir avec la personne sélectionnée, le produit n’att
 
 La mission : garantir un système permettant une alimentation saine, durable, moins animale et plus végétale, respectueuse de la production et du climat, peu émettrice de gaz à effet de serre et accessible à tous, notamment en rendant la loi EGalim.
 
-Pour information, la loi EGalim prévoit, en restauration collective, entre autres mesures : 50% d’aliments durables dont 20% bio, une diversification des sources de protéines, un menu végétarien obligatoire dans les cantines scolaires.
+Pour information, la loi EGalim prévoit, en restauration collective, entre autres mesures : 50% d’aliments durables dont 20% bio, une diversification des sources de protéines, un un menu végétarien par semaine dans les cantines scolaires.
 
 15 millions de Français prennent chaque jour au moins un repas hors de leur domicile, dont plus de la moitié en restauration collective. Cette spécificité française fait de la restauration collective un passage obligé pour de nombreux français. Au total, ce sont près de 100 000 structures de restauration collective, publiques ou privées, qui distribuent plus de 3,5 milliards de repas par an. Compte tenu de l’importance de ce secteur, il est essentiel d’en faire un levier de premier plan dans la transformation de notre modèle alimentaire. La restauration collective est un levier puissant pour faire évoluer les pratiques alimentaires, réduire les inégalités et recréer de la valeur ajoutée pour les filières locales. Ce projet s’inscrit dans le cadre du Programme National de l’Alimentation, piloté par le Ministère chargé de l’Agriculture et de l’Alimentation.
 
