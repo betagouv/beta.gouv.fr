@@ -11,7 +11,7 @@ Ma-cantine.beta.gouv.fr recherche une ou deux personnes pour développer en free
 Choix technologiques à voir avec la personne sélectionnée, le produit n’attend que d’être développé et confronté à ses premiers usagers… :) 
 
 
-## L’équipe ma-cantine.beta.gouv.fr recherche une ou deux personnes expérimentées pour développer le front-end 
+## L’équipe ma-cantine.beta.gouv.fr recherche une ou deux personnes expérimentées pour développer
 
 La mission : garantir un système permettant une alimentation saine, durable, moins animale et plus végétale, respectueuse de la production et du climat, peu émettrice de gaz à effet de serre et accessible à tous, notamment en rendant la loi EGalim.
 
@@ -23,7 +23,7 @@ Pour information, la loi EGalim prévoit, en restauration collective, entre autr
 ## L’objectif du produit
 
 
-MVP : auto-diagnostic de mon restaurant sur les 5 mesures-phare de la loi EGalim
+- MVP : auto-diagnostic de mon restaurant sur les 5 mesures-phare de la loi EGalim
 
 Pour qui :
 
