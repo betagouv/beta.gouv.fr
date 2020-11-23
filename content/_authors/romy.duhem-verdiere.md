@@ -1,16 +1,17 @@
 ---
 fullname: Romy Duhem-Verdière
-role: UX designer
+role: Designer UX & a11y
 link: http://romy.tetue.net
 missions:
   - start: 2017-05-03
-    end: 2019-12-31
+    end:
     status: service
     employer: octo
 startups:
+  - acceslibre
+previously:
   - monstage
   - pass-culture
-previously:
   - mpal
 ---
 
