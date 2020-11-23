@@ -23,6 +23,7 @@ Les candidats ne peuvent pas et ne savent pas identifier les événements offran
 Ils ratent donc des opportunités de rencontre avec les recruteurs !
 
 **Produit**
+
 Seuls les candidats ayant eu l'information de l'existence de l'organisation de rencontre de recrutement peuvent participer à un événement de recrutement. Aujourd'hui, l'information est reçue aléatoirement par le candidat.
 
 
