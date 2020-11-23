@@ -8,8 +8,6 @@ missions:
     status: service
     employer: OCTO
 startups:
-  - workinfrance
-  - ANSSI
 ---
 
 Harder Better Faster Stronger.
