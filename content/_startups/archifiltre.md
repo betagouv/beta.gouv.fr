@@ -44,7 +44,15 @@ Depuis quelques années, la généralisation des outils informatiques et la mult
 
 Face à ces volumes dont l'ampleur est difficile à matérialiser, les organisations ne réalisent pas l'accumulation et l'engorgement, sur les serveurs, de fichiers très anciens voire obsolètes pour lesquels elles ne savent de toutes façons pas réaliser de tri.
 
-Les conséquences peuvent être de différents ordres pour les agents des administrations: des espaces serveur surchargés qui coûtent inutilement en terme de stockage (coût financier et écologique), une grande difficulté à retrouver des documents perdus dans une organisation difficile à comprendre et souvent redondante ou encore un risque juridique à ne pas retrouver l'information  pour les besoins de l'administration ou des citoyens ou à conserver des données qui devraient être détruites depuis longtemps.
+Les conséquences peuvent être de différents ordres pour les agents des administrations: 
+
+\- des espaces serveur surchargés qui coûtent inutilement en terme de stockage (coût financier et écologique), 
+
+\- une grande difficulté à retrouver des documents perdus dans une organisation difficile à comprendre et souvent redondante
+
+\-  un risque juridique à ne pas retrouver l'information pour les besoins de l'administration ou des citoyens 
+
+\-  une conservation des données qui devraient être détruites depuis longtemps.
 
 # Notre cible
 
