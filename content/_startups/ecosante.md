@@ -11,7 +11,7 @@ incubator: dinum
 link: https://ecosante.beta.gouv.fr/
 repository: https://github.com/betagouv/ecosante/
 contact: ecosante@data.gouv.fr
-stats_url: null
+stats_url: https://ecosante.beta.gouv.fr/stats/
 stats: false
 phases:
   - name: investigation
