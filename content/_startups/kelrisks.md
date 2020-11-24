@@ -3,15 +3,18 @@ title: Kelrisks
 mission: Evaluer et conseiller sur les risques de pollution d’un terrain.
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
+events:
+  - name: end
+    date: 2020-07-01
 phases:
   - name: investigation
     start: 2018-11-05
   - name: construction
     start: 2018-11-05
-  - name: consolidation
-  - start: 2020-03-06
-  - end: 2020-07-10
-
+  - name: transfer
+    start: 2020-03-01
+  - name: alumni
+    start: 2020-07-10
 link: https://kelrisks.beta.gouv.fr
 repository: https://github.com/MTES-MCT/kelrisks
 stats: false
