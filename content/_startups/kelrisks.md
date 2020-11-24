@@ -8,7 +8,10 @@ phases:
     start: 2018-11-05
   - name: construction
     start: 2018-11-05
-  - name: construction
+  - name: consolidation
+  - start: 2020-03-06
+  - end: 2020-07-10
+
 link: https://kelrisks.beta.gouv.fr
 repository: https://github.com/MTES-MCT/kelrisks
 stats: false
