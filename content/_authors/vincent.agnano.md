@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: lazone
 startups:
-  - Egapro
+  - egalite.professionnelle
 previously:
   - classes12
   - saisissezauvol
