@@ -1,7 +1,7 @@
 ---
 roles: un ou une bizdev
 startup: mobilic
-open: true 
+open: false 
 title: Mobilic recrute un·e business developer
 ---
 
