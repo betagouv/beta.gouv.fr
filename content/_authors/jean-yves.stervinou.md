@@ -4,10 +4,16 @@ role: Développeur
 github: jystervinou
 missions:
   - start: 2018-02-01
-    end: 2020-09-30
+    end: 2019-12-31
     status: independent
-    employer: Mirific Labs
+    employer: ey
+  - start: 2020-05-04
+    end: 2021-06-30
+    status: independent
+    employer: octo
 startups:
+    - snu
+previously:
     - la-bonne-formation
 ---
 
