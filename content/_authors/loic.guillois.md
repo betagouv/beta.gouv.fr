@@ -8,12 +8,17 @@ missions:
     status: independent
     employer: ey
   - start: 2020-02-05
-    end:
+    end: 2020-03-19
     status: independent
+  - start: 2020-05-04
+    end: 2021-30-06
+    status: independent
+    employer: octo
 startups:
-    - anotea
+    - snu
 previously:
     - mon-entreprise
+    - anotea
 ---
 
 Développeur Web polyglotte et curieux
