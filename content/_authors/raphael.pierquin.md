@@ -10,6 +10,7 @@ missions:
     employer: ut7
 startups:
   - visam
+  - dumas
 previously:
   - zam
   - maraudes
