@@ -31,8 +31,6 @@ title: Responsable de produit data.insertion (Service Public de l’Insertion et
  - Lieu de travail : télétravail encouragé ; nombreux déplacements de terrain à prévoir pour rencontrer des utilisateurs dans plusieurs départements et bassins d'emploi ;
  - Modalités de contrat : freelance / prestation (les règles des marchés public s'appliquent) ; 
  - Durée : un an minimum.     
- 
- ## Candidater
 
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / autre à recrutement@inclusion.beta.gouv.fr
+**Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / autre à recrutement@inclusion.beta.gouv.fr**
  
