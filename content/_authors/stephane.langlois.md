@@ -10,6 +10,13 @@ missions:
     employer: lazone/scopyleft
 github: pntbr
 startups:
+  - labels-transition 
+  - egalim
+previously:
+  - ecosante
+  - dossierSCO
+  - classeà12 
+  - lotocar
 ---
 faire des trucs utiles avec des personnes enthousiastes en étant attentif sur le consentement - 🐾
 ·|
