@@ -7,8 +7,10 @@ missions:
     end: 2022-08-31
     status: service
     employer: Pôle emploi
+startups:
+  - pole-emploi-action
 previously:
-    - la-bonne-formation
+  - la-bonne-formation
 ---
 
 Passionné par les technologies respectueuses de la biosphère.
