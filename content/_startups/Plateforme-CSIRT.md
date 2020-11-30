@@ -15,11 +15,11 @@ contact: contact@beta.gouv.fr
 
 ## Contexte
 
-Les incidents de cybersécurité sont de plus en plus fréquents, et l’impact sur des acteurs publics comme privés est de plus en plus grave. Peuvent être cités comme exemples [les ransomwares qui ont affecté la chaîne M6](https://www.usinenouvelle.com/article/pourquoi-m6-redoute-les-vendredis-soirs.N922269)en octobre 2019, [l’attaque informatique qui a touché le centre hospitalier universitaire (CHU) de Rouen](https://www.lemonde.fr/pixels/article/2019/11/26/apres-la-cyberattaque-au-chu-de-rouen-l-enquete-s-oriente-vers-la-piste-crapuleuse_6020609_4408996.html) en novembre 2019 ou encore [l’attaque des usines Fleury Michon](https://www.bfmtv.com/economie/consommation/cyberattaque-5-jours-d-arret-pour-les-usines-fleury-michon_AN-201904150220.html) en avril 2019. (https://www.google.com)
+Les incidents de cybersécurité sont de plus en plus fréquents, et l’impact sur des acteurs publics comme privés est de plus en plus grave. Peuvent être cités comme exemples [les ransomwares qui ont affecté la chaîne M6](https://www.usinenouvelle.com/article/pourquoi-m6-redoute-les-vendredis-soirs.N922269) en octobre 2019, [l’attaque informatique qui a touché le centre hospitalier universitaire (CHU) de Rouen](https://www.lemonde.fr/pixels/article/2019/11/26/apres-la-cyberattaque-au-chu-de-rouen-l-enquete-s-oriente-vers-la-piste-crapuleuse_6020609_4408996.html) en novembre 2019 ou encore [l’attaque des usines Fleury Michon](https://www.bfmtv.com/economie/consommation/cyberattaque-5-jours-d-arret-pour-les-usines-fleury-michon_AN-201904150220.html) en avril 2019. 
 
 Ainsi, des entreprises et des organisations publiques de toutes tailles et de tous moyens sont les cibles de cyber attaques avec des coûts directs et indirects pouvant s’élever à [plusieurs millions d'euros](https://www.silicon.fr/ransomware-sopra-steria-40-millions-euros-352165.html). Il est estimé que les violations de sécurité en entreprise ont augmenté de 67% ces cinq dernières années à l’échelle mondiale.
 
-Face à l’augmentation de ces risques de cyber attaques, les grandes entreprises se dotent des services d’équipes de réponse à incident dédiées ou de services commerciaux d’un prestataire spécialisé. Ces équipes sont nommées CSIRT (Computer Security Incident Response Team) ou CERT (Computer Emergency Response Team). On compte aujourd’hui en France près d’une centaine d’équipes de ce type, internes ou commerciales.
+Face à l’augmentation de ces risques de cyber attaques, les grandes entreprises se dotent des services d’équipes de réponse à incident dédiées ou de services commerciaux d’un prestataire spécialisé. On compte aujourd'hui en France près d'une centaine de ces équipes qui sont nommées CSIRT (Computer Security Incident Response Team) ou CERT (Computer Emergency Response Team).
 
 De nombreuses organisations n’ont à ce jour pas de dispositif pour la réponse à incident de cybersécurité, et l’ANSSI (Agence Nationale de la Sécurité des Systèmes d’Information) observe une augmentation des projets de constitution d’équipes CSIRT. Cependant, les étapes à suivre ne sont pas toujours suffisamment claires et accessibles aux entreprises qui peinent à trouver un accompagnement au développement capacitaire nécessaire. Ainsi, de plus en plus d’équipes CSIRT en cours de constitution sollicitent un accompagnement de l’ANSSI sur le suivi de démarches précises et la formalisation de nombreuses procédures. 
 
@@ -33,7 +33,7 @@ L’investigation va permettre de distinguer les différents profils (entreprise
 
 ## Premières hypothèses de solution
 
-La création d’une plateforme numérique permettant d'assurer un bon niveau d’information, une montée en compétence maîtrisée ou des échanges avec l’écosystème serait bénéfique pour l’ensemble de l’écosystème cyber français, et de premières pistes de solutions sont envisagées dans ce sens :
+La création d’une plateforme numérique permettant d'assurer un bon niveau d’information, une montée en compétence maîtrisée ou des échanges avec l’écosystème serait bénéfique pour l’ensemble de l’écosystème cyber français. De premières pistes de solutions sont envisagées dans ce sens :
 - Une plateforme de formation
 - Une école/incubateur de CSIRT
 - Un réseau social de la communauté de réponse à incident
