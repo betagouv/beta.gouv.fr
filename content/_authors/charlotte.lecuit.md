@@ -1,3 +1,4 @@
+---
 fullname: Charlotte Lecuit
 role: Product Owner
 github: charlottelecuit
