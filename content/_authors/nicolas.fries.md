@@ -1,5 +1,5 @@
 ---
-fullname: Nicoals Fries
+fullname: Nicolas Fries
 role: Développeur
 github: pseudonyme21
 avatar: # dispo sur github
