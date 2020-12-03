@@ -1,5 +1,5 @@
 ---
-fullname: Nassim Prost
+fullname: Yannick Prost
 role: Chef de Mission Réserve Civique
 missions:
   - start: 2016-09-03
