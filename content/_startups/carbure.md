@@ -16,7 +16,7 @@ phases:
     start: 2019-11-30
 link: https://carbure.beta.gouv.fr
 repository: https://github.com/MTES-MCT/carbure
-stats: https://carbure.beta.gouv.fr/stats
+stats: true
 contact: guillaume.caillou@developpement-durable.gouv.fr
 ---
 
