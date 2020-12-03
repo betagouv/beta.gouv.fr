@@ -1,5 +1,5 @@
 ---
-title: Poubelles Battle
+title: Au Compost Mitoyen !
 mission: Faciliter le déploiement de composteurs collectifs et encourager leur utilisation
 incubator: dinum
 owner: DINUM
@@ -36,9 +36,9 @@ Les différents échanges nous ont permis d’identifier 3 freins principaux :
 - *Pour les citoyens usagers de composteurs collectifs et pour les agents de l'agglomération* : peu, voire pas de suivi logistique et maintenance des composteurs collectifs en activité 
 - *Pour tout l'écosystème (communauté de composteurs, jardins collectifs, entreprises paysages, agriculteurs…)* : manque de mise en commun des matières et outils...
 
-Des défis auxquels Poubelles Battle s’attelle petit à petit en confrontant régulièrement son produit minimum viable (une plateforme numérique et de services, encore en cours d’idéation) à ses futurs utilisateurs. 
+Des défis auxquels Au Compost Mitoyen s’attelle petit à petit en confrontant régulièrement son produit minimum viable (une plateforme numérique et de services, encore en cours d’idéation) à ses futurs utilisateurs. 
 
-_Poubelles Battle vise à faciliter le déploiement de composteurs collectifs, à encourager leur utilisation en habitat vertical et à mettre en relation producteurs et utilisateurs de compost._
+_Au Compost Mitoyen vise à faciliter le déploiement de composteurs collectifs, à encourager leur utilisation en habitat vertical et à mettre en relation producteurs et utilisateurs de compost._
 ========================================================================
 
 Le produit permettra de faciliter la demande et l’installation d’un composteur, qu’il soit collectif ou pas, tout en s’assurant que chaque demandeur soit formé correctement.
