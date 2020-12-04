@@ -1,11 +1,9 @@
 ---
 fullname: Florian d'Erfurth
 role: Développeur
-github: 
-avatar: 
 link: www.derfurth.com
 missions: 
-  - start: 2020-12-03
+  - start: 2020-12-04
     end: 2021-05-31
     status: independent
     employer:
