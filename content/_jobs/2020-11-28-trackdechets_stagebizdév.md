@@ -1,8 +1,8 @@
 ---
 roles: un ou une bizdev
-startup: trackdéchets
-junior: true# 
-open: true#
+startup: trackdechets
+junior: true
+open: true
 title: un·e stagiaire bizdév. 
 ---
 
