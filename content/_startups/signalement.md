@@ -13,7 +13,7 @@ phases:
   - name: transfer
     start: 2020-09-01
 events:
-    name: national_impact
+  - name: national_impact
     date: 2020-02-01
 link: https://signal.conso.gouv.fr
 repository: https://github.com/betagouv/signalement-app
