@@ -14,6 +14,9 @@ phases:
   - name: construction
     start: 2017-04-01
   - name: transfer
+    start: 2019-09-01
+  - name: success
+    start: 2020-03-01
 link: https://clara.pole-emploi.fr/
 repository: https://github.com/StartupsPoleEmploi/clara
 stats: true
