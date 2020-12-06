@@ -1,11 +1,12 @@
 ---
-roles: Un.e chargé.e de déploiement
-startup: zero-logement-vacant.md
+roles: Un·e chargé·e de déploiement
+startup: zero-logement-vacant
 junior: true
 open: true
-title: 
+title: Zéro Logement Vacant recrute une personne en charge du déploiement
 ---
-L'équipe Zéro Logement Vacant cherche un.e chargé.e de déploiement pour accompagner les territoires et les propriétaires dans la remobilisation des logements vacants et améliorer le produit. 
+
+L'équipe Zéro Logement Vacant cherche un·e chargé·e de déploiement pour accompagner les territoires et les propriétaires dans la remobilisation des logements vacants et améliorer le produit. 
 
 # Zero Logement Vacant, qu’est-ce que c’est ? 
 
@@ -31,7 +32,7 @@ En facilitant la collaboration entre les acteurs, Zero Logement Vacant doit perm
 # Les missions 
 L’équipe est aujourd’hui composée d’un intrapreneur, Henry Ciesielski, Chef de projet Lutte contre la vacance de logements à la DGALN et d’un coach produit de la Fabrique Numérique, Adrien Laville. 
 
-Pour atteindre nos objectifs, nous souhaitons associer à l’équipe un chargé de déploiement puis un développeur. 
+Pour atteindre nos objectifs, nous souhaitons associer à l’équipe un·e chargé·e de déploiement puis une développeuse ou un développeur. 
 
 Les premières missions du chargé de déploiement seront les suivantes : 
 - Participer au recrutement des collectivités tests en s’assurant de leur motivation ; 
@@ -43,8 +44,7 @@ Les premières missions du chargé de déploiement seront les suivantes :
 - Préparer et participer à l’animation des ateliers de conception avec les collectivités ;
 - Proposer des pistes d’amélioration. 
 
-Ces missions ont de fortes chances d’évoluer avec le produit. Le chargé de déploiement aura un rôle clé dans la construction du produit. Le développeur qui rejoindra l’équipe dans quelques mois s’appuiera sur son travail pour améliorer la solution et la rendre plus utile pour ses utilisateurs et plus simple à déployer.  
-
+Ces missions ont de fortes chances d’évoluer avec le produit. Le ou la chargé(e) de déploiement aura un rôle clé dans la construction du produit. Le développeur qui rejoindra l’équipe dans quelques mois s’appuiera sur son travail pour améliorer la solution et la rendre plus utile pour ses utilisateurs et plus simple à déployer.  
 Dans le cas où le produit prouvera sa valeur, le chargé de déploiement pourra ainsi accompagner plus de collectivités et se concentrer sur les missions à forte valeur ajoutée. 
 
 # Profil recherché 
