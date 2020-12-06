@@ -20,7 +20,7 @@ phases:
     end: 2020-05-01
   - name: transfer
     start: 2020-05-01
-  - name: sucess
+  - name: success
     start: 2020-09-01
 link: https://e-controle-beta.ccomptes.fr
 repository: https://github.com/betagouv/e-controle
