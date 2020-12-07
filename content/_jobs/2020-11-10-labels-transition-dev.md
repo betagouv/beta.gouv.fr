@@ -1,7 +1,7 @@
 ---
 roles: une personne développeuse
 startup: Labels de Transition Écologique
-open: true 
+open: false 
 title: Recherche d'une personne développeuse pour Labels de Transition Écologique
 ---
     
