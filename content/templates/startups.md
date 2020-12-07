@@ -8,7 +8,7 @@ phases: # les différentes étapes de la vie des startups - les phases possibles
     start: 2020-03-16 # date au format ISO (AAAA-MM-DD)
     end: # à remplir plus tard
 events: # les évènements marquants de la startup - les noms possibles sont définies dans /content/_events/
-  - name: commitee
+  - name: committee
     date: 2020-03-16 # date au format ISO (AAAA-MM-DD)
     comment: Premier comité de financement # Informations complémentaires
 link: https://mes-aides.gouv.fr
