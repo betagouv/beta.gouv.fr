@@ -1,6 +1,6 @@
 ---
 roles: un.e chargé.e de déploiement
-startup: Aidants Connect
+startup: aidantsconnect
 junior: true
 open: true
 ---
@@ -20,7 +20,7 @@ Aidants Connect s’inscrit dans une double démarche :
 
 Le service a été expérimenté auprès de 16 structures afin de tester l'outil en conditions réelles sur la période février à décembre 2020. En parallèle, l'équipe d'Aidants Connect travaille aussi à la réalisation d'une cartographie des lieux et services de médiation numérique sur le territoire national. 
 
-Aidants Connect est maintenant en passe d'être généralisé. La première phase de déploiement est prévue au début de l'année 2021 avec pour objectif de former les aidants professionnels puis de les accompagner dans leurs prises en main de l'outil.
+Aidants Connect est maintenant en passe d'être généralisé. La première phase de déploiement est prévue au début de l'année 2021 avec pour objectif de former les aidants professionnels puis de les accompagner dans leur prise en main de l'outil.
 
 ## Missions
 
