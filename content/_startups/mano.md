@@ -4,7 +4,7 @@ mission: Service de soutien aux équipes mobiles visant à améliorer la vie des
   populations en rue et à favoriser leur réinsertion.
 owner: MANO
 sponsors:
-  - name: Fabrique numérique des ministères sociaux
+  - name: Agence régionale de santé d'Île de France
 incubator: sgmas
 repository: https://github.com/SocialGouv/mano/
 events: []
