@@ -1,10 +1,10 @@
 ---
-roles: Un.e chargé.e de déploiement en stage / césure
+roles: Un.e chargé.e de déploiement en mission étudiant.e
 startup: peps
 open: true
 ---
 
-# Peps recrute un.e chargé.e de déploiement en stage / césure
+# Peps recrute un.e chargé.e de déploiement en mission étudiant.e
 
 _Peps est un site de partage d’expériences entre agriculteurs qui les accompagne dans leur transition vers un modèle agricole plus durable._
 
@@ -37,13 +37,13 @@ Benjamin, chargé de déploiement
 
 ## Tes missions
 Nous cherchons une personne pour prêter main forte à Benjamin afin de diffuser Peps au plus grand nombre. Dans les grandes lignes :
-Conduire des entretiens avec les agriculteurs afin de récolter leurs témoignages
-Entrer en contact avec les acteurs publics et privés afin de nouer des partenariats
-Organiser des événements / webinaires permettant de donner de la visibilité au projet
+- Conduire des entretiens avec les agriculteurs afin de récolter leurs témoignages
+- Entrer en contact avec les acteurs publics et privés afin de nouer des partenariats
+- Organiser des événements / webinaires permettant de donner de la visibilité au projet
 
 Tu feras également partie de l’équipe Peps et de la communauté Beta.gouv ce qui implique de :
-Participer à la vie de l’équipe et aux orientations stratégiques du projet Peps
-Participer aux événements de la communauté beta.gouv.fr 
+- Participer à la vie de l’équipe et aux orientations stratégiques du projet Peps
+- Participer aux événements de la communauté beta.gouv.fr 
 
 Les missions sont amenées à évoluer au fur et à mesure du développement de la Startup et de tes prises d’initiatives. 
 
@@ -64,7 +64,7 @@ Tu as de l’empathie, et tu peux t’adapter en fonction de ton interlocuteur
 - Durée de la mission : 4-6 mois 
 - Rémunération : à discuter
 
-L’équipe est basée à Paris et à Lyon. Possibilité de télétravail partiel d’une autre ville.
+L’équipe est basée à Paris et à Lyon. Possibilité de télétravail partiel d’une autre ville. Trajets à prévoir 1 à 2 fois par mois à Lyon ou à Paris, remboursement complet des frais pour ces déplacements. 
 
 ## Comment postuler ?
 Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à [peps@beta.gouv.fr](mailto:peps@beta.gouv.fr).
