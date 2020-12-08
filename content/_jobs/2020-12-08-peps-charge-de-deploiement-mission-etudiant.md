@@ -20,7 +20,7 @@ de consulter les témoignages d’autres agriculteurs selon les critères de leu
 d’entrer en contact pour échanger sur ces expériences
 
 Aujourd’hui plus de 100 agriculteurs ont publié près de 200 retours d’expérience sur le site. De premiers échanges sont nés sur la plateforme.
-> https://peps.beta.gouv.fr/ 
+https://peps.beta.gouv.fr/ 
 
 **Peps, dans les prochains mois**
 Après un an de construction au sein de l'incubateur, Peps va rejoindre l'administration (soit l'agriculture soit l'environnement). Pour la période janvier - mai 2021, Peps aura deux objectifs :
