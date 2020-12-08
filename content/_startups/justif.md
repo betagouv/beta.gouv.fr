@@ -1,5 +1,5 @@
 ---
-title: Justif
+title: Mon Suivi Justice
 mission: Diminuer les rendez-vous non-honorés des personnes placées sous main de
   justice.
 owner: Tribunal de Nanterre et le service pénitentiaire d'insertion et de

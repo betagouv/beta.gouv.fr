@@ -1,7 +1,7 @@
 ---
 roles: une personne développeuse
 startup: Labels de Transition Écologique
-open: true 
+open: false 
 title: Recherche d'une personne développeuse pour Labels de Transition Écologique
 ---
     
@@ -71,5 +71,15 @@ Dès que nous serons en contact nous vous communiquerons un lien vers le dépôt
 - backlog
 - résultats des phases de cadrage et de consolidation
 - les conditions de portage d'Octo
+
+## Nous contacter
+
+Pour en savoir plus et échanger avec nous :
+- nicolas.vallee@ademe.fr - (intra)
+- martin.ruau@ademe.fr - (intra)
+- anne.poirot@beta.gouv.fr - (PO - responsable produit)
+- stephane.langlois@beta.gouv.fr - (coach)
+
+À très vite !
 
 Ravi·e·s à l'idée de faire votre connaissance ;)
