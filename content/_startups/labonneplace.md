@@ -13,7 +13,7 @@ phases:
     start: 2020-10-26 
     end: 
 events: 
-  - name: commitee
+  - name: committee
     date: 2020-12-10 
     comment: Second comité de financement (investigation>lancement) 
 stats: false 
