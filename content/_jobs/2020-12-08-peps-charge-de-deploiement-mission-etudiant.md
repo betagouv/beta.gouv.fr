@@ -1,10 +1,10 @@
 ---
-roles: Un.e chargé.e de déploiement en mission étudiant.e
+roles: Un.e chargé.e de déploiement en mission étudiante
 startup: peps
 open: true
 ---
 
-# Peps recrute un.e chargé.e de déploiement en mission étudiant.e
+# Peps recrute un.e chargé.e de déploiement en mission étudiante
 
 _Peps est un site de partage d’expériences entre agriculteurs qui les accompagne dans leur transition vers un modèle agricole plus durable._
 
