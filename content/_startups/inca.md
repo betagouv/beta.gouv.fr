@@ -1,8 +1,10 @@
 ---
-title: Inca
+title: Living Lab de l'Institut national du cancer
+
 mission: Améliorer la mise en relation des acteurs qui œuvrent pour
   l’amélioration de la vie des patients atteints de cancer
-owner: Institut national du cancer
+owner: Living Lab de l'Institut national du cancer
+
 sponsors:
   - name: Institut national du cancer
     acronym: INCA
@@ -16,21 +18,23 @@ phases:
 
 Quelques chiffres sur les patients atteints de cancer : 
 
-• 350 000 nouveaux cas par an ;
+• 400 000 nouveaux cas par an ;
 
-• 150 000 décès tous les ans ;
+• 155 000 décès tous les ans ;
 
 • 3,8 millions personnes atteintes d’un cancer ou qui ont été atteintes ;
 
-• 5 à 8 millions d’aidants ;
+• plus de 5 millions d’aidants ;
 
-• 20% de personnes connectées.
+• 80% des malades chroniques n'ont jamais téléchargé d'application mobile de santé (source : Santé mobile et connectée : usages, attitudes et attentes des malades chroniques - Le Lab e-Santé - 5 juin 2015).
 
-Pour tous les patients atteints de cancer, à tout moment de leur parcours : les solutions développées (privées et publiques) pour résoudre leurs problèmes ne répondent pas à leurs besoins réels ou ne répondent pas à des besoins clés.
+Aujourd'hui les solutions développées pour résoudre les problèmes des patients atteints de cancer ne répondent pas à leurs besoins réels ou ne répondent pas à des besoins clés.
 
 Cette affirmation s'appuie sur les données suivantes : 
 
 • Il existe 100 000 solutions en santé en 2019 mais une seule est remboursée par la Sécurité Sociale ;
+
+• Seulement 2% des patients atteints de cancer utilisent des objets connectés (Source : enquête B3TSI du 7 septembre 2018)
 
 • Moins de 10 ont fait l’objet d’études randomisées et seulement quatre ont été publiées et ont montré un bénéfice en survie ;
 
@@ -38,7 +42,7 @@ Cette affirmation s'appuie sur les données suivantes :
 
 • 70% à 95% des investissements publics et privés en recherche des TIC ne réussissent pas à produire une valeur de marché significative ;
 
-• 75% des consommateurs jugent que l’usage des TIC induit un niveau de stress accru par manque d’interaction avec les usagers dans toutes les phases de conception et développement. (Source : INVIVO Canada 2014).
+• 75% des consommateurs jugent que l’usage des TIC induit un niveau de stress accru par manque d’interaction avec les usagers dans toutes les phases de conception et développement. (Source :  Coll, umvelt, Montréal in vivo mars 2014).
 
 # Notre hypothèse de problème
 
@@ -46,10 +50,10 @@ Nous pensons que cela est en partie dû à une mauvaise coordination des différ
 
 En cause : 
 
-• Un foisonnement des acteurs et des initiatives qui entraîne un manque de lisibilité et la tenue d’initiatives en doublon sur le territoire ;
+• Un foisonnement des acteurs et des initiatives qui entraîne un manque de lisibilité et parfois la tenue d’initiatives en doublon sur le territoire;
 
-• Des enjeux différents et sources de motivation différentes selon les acteurs qui peut entraîner un manque de confiance entre les acteurs ;
+• Des enjeux et des sources de motivation différents selon les acteurs qui peut entraîner un manque de confiance et freiner les envies de collaboration entre les acteurs;
 
-• Des projets qui n’avancent pas ou s’arrêtent faute des bons interlocuteurs et des bons garants ;
+• Des projets qui n’avancent pas ou s’arrêtent faute des bons interlocuteurs et des bons garants;
 
-• Des acteurs ayant des problématiques proches qui ne travaillent pas ensemble ce qui a pour conséquence que les fonds alloués sont divisés entre plusieurs acteurs poursuivant le même but.
+• Des acteurs ayant des problématiques proches qui ne travaillent pas ensemble ce qui a pour conséquence que les fonds alloués sont divisés entre plusieurs acteurs poursuivant le même but. Et ce qui baisse leur poids.
