@@ -6,6 +6,8 @@ missions:
     end: 2021-01-29
     status: service
     employer: Liberte Living-Lab
+startups:
+  - inca
 badges:
   - segur
 ---
