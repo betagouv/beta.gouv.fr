@@ -6,6 +6,7 @@ owner: MANO
 sponsors:
   - name: Agence régionale de santé d'Île de France
 incubator: sgmas
+contact: caroline.de_kerhor@beta.gouv.fr
 repository: https://github.com/SocialGouv/mano/
 events: []
 phases:
