@@ -9,4 +9,5 @@ missions:
     end: 2020-12-31
 startups:
   - domifa
+  - egalite.professionnelle
 ---
