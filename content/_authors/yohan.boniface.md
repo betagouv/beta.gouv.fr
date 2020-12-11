@@ -7,6 +7,7 @@ missions:
     status: independent
     employer: octo
 startups:
-    - ban
-    - api-drones
+  - ban
+  - api-drones
+  - egalite.professionnelle
 ---
