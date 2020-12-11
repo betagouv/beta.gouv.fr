@@ -1,7 +1,7 @@
 ---
 title: Monsuivipsy
 mission: Mieux connaître mes symptômes pour un meilleur accompagnement par mon médecin
-owner: Direction Générale de la Santé
+owner: Agence Régionale de Santé Ile-de-France
 incubator: sgmas
 link: https://monsuivipsy.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/monsuivipsy
