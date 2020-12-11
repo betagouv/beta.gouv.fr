@@ -14,7 +14,7 @@ missions:
     end: 2021-01-07
 startups:
   - classes12
-  - saisissez au vol
+  - egalite.professionnelle
 ---
 
 Insatiable Curieux
