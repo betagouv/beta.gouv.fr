@@ -7,7 +7,9 @@ missions:
     end: 2021-03-31
     status: independent
 startups:
-    - Aidants Connect
+    - aidantsconnect
+previously:
+    - voir-et-localiser    
 ---
 
 Code, Django et Cassoulet
