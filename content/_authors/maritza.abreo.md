@@ -6,4 +6,6 @@ missions:
     end: 2020-12-31
     status: service
     employer: Ippon
+startups:
+  - 1000.jours
 ---
