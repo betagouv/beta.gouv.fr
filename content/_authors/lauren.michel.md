@@ -16,7 +16,7 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - ambassadeurs-numeriques
+  - conseiller-numerique
 previously:
   - maintenant
   - place-de-marche-inclusion
