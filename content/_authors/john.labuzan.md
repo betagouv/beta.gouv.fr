@@ -1,9 +1,9 @@
 ---
 fullname: John Labuzan
-role: UX & growth
+role: Product management, UX design & Growth
 missions:
   - start: 2019-07-02
-    end: 2020-12-31
+    end: 2021-06-30
     status: independent
 startups: 
   - aides-territoires   
