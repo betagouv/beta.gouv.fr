@@ -9,6 +9,7 @@ missions:
     status: independent
 startups:
   - demarches-simplifiees.fr
+previously:
   - mon-entreprise
 ---
 
