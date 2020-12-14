@@ -7,10 +7,13 @@ link: https://monsuivipsy.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/monsuivipsy
 contact: monsuivipsy@fabrique.social.gouv.fr
 phases:
-  - name: success
+  - name: investigation
     start: 2020-09-22
+    end: 2020-11-01
+  - name: construction
+    start: 2020-11-01
 ---
-#### **Les troubles psychiatriques touchent plus de 20 % de la population, à un moment de la vie. Et trouver le bon traitement peut prendre plusieurs années. Pendant ce temps-là, les symptômes évoluent, peuvent devenir chroniques et l’état du patient s’aggrave. L’impact peut être dramatique.** 
+Les troubles psychiatriques touchent plus de 20 % de la population, à un moment de la vie. Et trouver le bon traitement peut prendre plusieurs années. Pendant ce temps-là, les symptômes évoluent, peuvent devenir chroniques et l’état du patient s’aggrave. L’impact peut être dramatique. 
 
 **Comment en arrive-t-on là ?**
 
