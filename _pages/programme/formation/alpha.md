@@ -6,14 +6,14 @@ additional_css:
   - side-panel.css
   
 # Dates de la prochaine formation
-alpha-start: 2019-06-12
-alpha-end: 2019-06-12
-alpha-time: de 9h à 18h30
-alpha-location: CNFPT - 78 rue de Reuilly, 75012 Paris
-alpha-location-link: https://www.openstreetmap.org/#map=19/48.84347/2.39093
-alpha-catering: Le CNFPT prend en charge les frais de déplacement (A/R), d'hébergement (la veille) et de repas des agents territoriaux.
-alpha-more: "[Le visionnage du MOOC](/approche/formation/mooc/) est obligatoire en amont de cette session."
-alpha-link: https://startupdetat.typeform.com/to/Iuwd3O
+alpha-start: 2021-01-26
+alpha-end: 2021-01-26
+alpha-time: de 9h30 à 17h00
+alpha-location: en ligne
+alpha-location-link:
+alpha-catering:
+alpha-more:
+alpha-link: https://startupdetat.typeform.com/to/SGQMt9f0
 redirect_from:
   - /alpha
 ---
@@ -43,14 +43,6 @@ La formation se déroule sur une journée au cours de laquelle vous apprendrez �
 - 16h00- 17h00 : Restitution sur les travaux des équipes
 - 17h00 : Fin de la formation
 
-**Prochaine session**
-
-La prochaine session aura lieu le **mardi 26 janvier 2021**.
-
-Vous pouvez vous inscrire ici : https://startupdetat.typeform.com/to/SGQMt9f0
-
-Pour plus d’information écrivez-nous à alpha@beta.gouv.fr.
- 
 **Formation dédiée**
 
 Vous êtes une administration et vous souhaitez une formation Alpha dédiée à vos services ? Parlez-nous de votre besoin à alpha@beta.gouv.fr. 
