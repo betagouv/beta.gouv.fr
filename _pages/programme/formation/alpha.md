@@ -47,7 +47,7 @@ La formation se déroule sur une journée au cours de laquelle vous apprendrez �
 
 La prochaine session aura lieu le **mardi 26 janvier 2021**.
 
-Vous pouvez vous inscrire ici : https://startupdetat.typeform.com/to/SGQMt9f0
+Vous pouvez vous inscrire [via ce formulaire](https://startupdetat.typeform.com/to/SGQMt9f0).
 
 Pour plus d’information écrivez-nous à alpha@beta.gouv.fr.
  
