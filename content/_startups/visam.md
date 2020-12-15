@@ -16,6 +16,9 @@ phases:
     start: 2020-01-30
   - name: alumni
     start: 2020-12-14
+events:
+  - name: end
+    date: 2020-12-14
 link:
 repository: https://github.com/betagouv/visam
 stats: false
