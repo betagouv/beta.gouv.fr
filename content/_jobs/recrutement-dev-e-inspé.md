@@ -1,7 +1,7 @@
 ---
 roles: développeur full stack senior
 startup: e-inspé
-open: true
+open: false
 ---
 Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une équipe agile, et proche de ses utilisateurs ? L’e-inspé recherche un.e développeur.euse Full Stack senior !
 
