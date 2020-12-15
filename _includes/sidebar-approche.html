@@ -61,7 +61,7 @@
       {% endif %}
     </li>
 
-    <li class="side-pane__dropdown {% if page.url == "/approche/formation" %}active {% endif %}">
+    <li class="{% if page.url == "/approche/formation" %}active {% endif %}">
       <a class="side-pane__link" href="/approche/formation">La formation Alpha</a>
     </li>
     <li class="side-pane__dropdown {% if page.url == "/approche/formation/mooc" %}unfolded active{% endif %}">
