@@ -47,7 +47,7 @@
     </li>
     <!-- <a class="side-pane__link" href="/approche/">Le programme Territoire</a> -->
     
-    <li class="side-pane__dropdown {% if page.url == "/approche/fast" %}active {% endif %}{% if page.url contains "/approche/fast" %}unfolded{% endif %}">
+    <li class="{% if page.url == "/approche/fast" %}active {% endif %}{% if page.url contains "/approche/fast" %}unfolded{% endif %}">
       <a class="side-pane__link" href="/approche/fast">Le FAST</a>
       {% if page.url contains "/approche/fast" %}
       <ul class="side-pane__submenu">
@@ -61,7 +61,7 @@
       {% endif %}
     </li>
 
-    <li class="side-pane__dropdown {% if page.url == "/approche/formation" %}active {% endif %}{% if page.url contains "/approche/formation" %}unfolded{% endif %}">
+    <li class="side-pane__dropdown {% if page.url == "/approche/formation" %}active {% endif %}">
       <a class="side-pane__link" href="/approche/formation">La formation Alpha</a>
     </li>
     <li class="side-pane__dropdown {% if page.url == "/approche/formation/mooc" %}unfolded active{% endif %}">
