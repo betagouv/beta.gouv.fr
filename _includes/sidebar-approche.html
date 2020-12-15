@@ -62,22 +62,18 @@
     </li>
 
     <li class="side-pane__dropdown {% if page.url == "/approche/formation" %}active {% endif %}{% if page.url contains "/approche/formation" %}unfolded{% endif %}">
-      <a class="side-pane__link" href="/approche/formation">Formation</a>
-      {% if page.url contains "/approche/formation" %}
+      <a class="side-pane__link" href="/approche/formation">La formation Alpha</a>
+    </li>
+    <li class="side-pane__dropdown {% if page.url == "/approche/formation/mooc" %}unfolded active{% endif %}">
+      <a class="side-pane__link" href="/approche/formation/mooc">La formation en ligne</a>
+      {% if page.url contains "/approche/formation/mooc" %}
       <ul class="side-pane__submenu">
-        <li class="side-pane__dropdown {% if page.url == "/approche/formation/mooc" %}unfolded active{% endif %}">
-          <a class="side-pane__link" href="/approche/formation/mooc">Formation en ligne</a>
-          {% if page.url contains "/approche/formation/mooc" %}
-          <ul class="side-pane__submenu">
-            {% assign mooc = site.mooc | sort: 'order' %}
-            {% for sequence in mooc %}
-            <li {% if page.url == sequence.url %}class="active"{% endif %}>
-              <a class="side-pane__sublink" href="{{ sequence.url }}">{{ sequence.label }}</a>
-            </li>
-            {% endfor %}
-          </ul>
-          {% endif %}
+        {% assign mooc = site.mooc | sort: 'order' %}
+        {% for sequence in mooc %}
+        <li {% if page.url == sequence.url %}class="active"{% endif %}>
+          <a class="side-pane__sublink" href="{{ sequence.url }}">{{ sequence.label }}</a>
         </li>
+        {% endfor %}
       </ul>
       {% endif %}
     </li>
