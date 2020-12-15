@@ -31,16 +31,16 @@ La formation se déroule sur une journée au cours de laquelle vous apprendrez �
 **Programme type**
 - 09h30 : Accueil 
 - 09h45 : Introduction + tour de table et présentation du déroulé de la matinée
-- 10h00-10h45 : Le quiz spécial beta.gouv.fr 
+- 10h00 - 10h45 : Le quiz spécial beta.gouv.fr 
 - 10h45 - 11h30 : Présentation et exercices “C’est quoi un bon problème !?! »
-- 10h30-11h45 : Témoignage d’intrapreneur
-- 11h45- 12h : Q&R et présentation du déroulé de l’après-midi
+- 10h30 - 11h45 : Témoignage d’intrapreneur
+- 11h45 - 12h : Q&R et présentation du déroulé de l’après-midi
  
 - 12h00 : Pause déjeuner 
  
-- 14h00- 15h30 : Travail en groupe ou en individuel avec des coachs
-- 15h30-16h : Témoignage d’intrapreneur
-- 16h00- 17h00 : Restitution sur les travaux des équipes
+- 14h00 - 15h30 : Travail en groupe ou en individuel avec des coachs
+- 15h30 - 16h : Témoignage d’intrapreneur
+- 16h00 - 17h00 : Restitution sur les travaux des équipes
 - 17h00 : Fin de la formation
 
 **Prochaine session**
