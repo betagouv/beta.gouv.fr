@@ -26,7 +26,7 @@ Depuis novembre 2017, la formation Alpha est la meilleure façon de découvrir l
 
 La formation se déroule sur une journée au cours de laquelle vous apprendrez à identifier « un bon problème » et vous bénéficierez d’un coaching individuel afin de commencer l’investigation de votre problème. 
 
-![alt tag](https://raw.githubusercontent.com/betagouv/beta.gouv.fr/master/img/alpha/alpha-first-session.jpg)
+<img src="https://raw.githubusercontent.com/betagouv/beta.gouv.fr/master/img/alpha/alpha-first-session.jpg" alt="Images des précédentes formations" style="width: 100%;">
 
 **Programme type**
 - 09h30 : Accueil 
