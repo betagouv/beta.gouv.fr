@@ -47,5 +47,5 @@ Le moment pendant lequel ils sont le plus utilisés est la pause méridienne. Or
 ## Territoire d'expérimentation : 
 Département du Val d'Oise
 
-## Equipe
+## Équipe
 Juliette Pressé
