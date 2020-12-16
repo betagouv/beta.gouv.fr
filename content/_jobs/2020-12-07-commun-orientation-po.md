@@ -6,7 +6,7 @@ externalURL: https://incubateur.anct.gouv.fr/recrutements/commun-orientation-che
 type: 'friend'
 contrat: indépendant
 equipe: Commun orientation
-post_ouvert: 2020-10-13
+post_ouvert: 2020-12-14
 contact: incubateur@anct.gouv.fr
 open: true
 ---

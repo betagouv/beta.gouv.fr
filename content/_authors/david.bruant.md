@@ -8,16 +8,13 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     end: 2020-02-28
     status: independent
     employer: Codeurs en Liberté
-  - start: 2020-04-01 # Écosanté
-    end: 2020-09-25
-    status: independent
-    employer: Scopyleft
-  - start: 2020-09-01 # Friches / UrbanVitaliz
+  - start: 2020-04-01 # Écosanté / Friches / UrbanVitaliz
     end: 2021-03-30
     status: independent
     employer: Scopyleft
 startups: # ta ou tes startups actuelles
     - friches
+    - comobi
 previously: # ta ou tes anciennes startups
     - lotocar
     - ecosante

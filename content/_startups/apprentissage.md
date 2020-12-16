@@ -19,7 +19,7 @@ phases:
     end: 2020-03-01
   - name: construction
     start: 2020-03-01
-link:
+link: https://mission-apprentissage.gitbook.io/general/
 repository:
 stats: false
 stats_url:

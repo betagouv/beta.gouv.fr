@@ -14,6 +14,9 @@ phases:
   - name: construction
     start: 2017-10-01
   - name: acceleration
+    start: 2018-09-01
+  - name: transfer
+    start: 2020-09-01
 link: https://transport.data.gouv.fr
 repository: https://github.com/etalab/transport-site
 stats: true
