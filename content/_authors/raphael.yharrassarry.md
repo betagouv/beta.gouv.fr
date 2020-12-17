@@ -8,7 +8,8 @@ missions:
     end: 2021-06-30
     status: independent
 startups:
-    - Trackdechets
+    - trackdechets
+    - kelrisks
 ---
 
 Lead UX Designer depuis le dernier millénaire.
