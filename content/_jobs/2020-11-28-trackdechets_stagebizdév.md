@@ -1,9 +1,9 @@
 ---
-roles: un ou une bizdev
-startup: trackdéchets
-junior: true# 
-open: true#
-title: un·e stagiaire bizdév. 
+roles: un·e chargé·e de déploiement (stage)
+startup: trackdechets
+junior: true
+open: true
+title: un·e chargé·e de déploiement (stage)
 ---
 
 Trackdéchets, l’outil qui permet de gérer la traçabilité des déchets dangereux en toute sécurité cherche un·e business developer pour renforcer son équipe. 

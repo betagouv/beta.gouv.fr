@@ -7,6 +7,8 @@ missions:
     end: 2021-02-12
     status: admin
     employer: Institut national du cancer
+startups:
+  - inca
 badges:
   - segur
 ---
