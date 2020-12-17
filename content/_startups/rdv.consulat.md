@@ -31,19 +31,19 @@ Les dysfonctionnements de l’application développée en interne et les récrim
 * structurelle (technologie vieillissante, ergonomie dépassée, rigidité de son utilisation et de son paramétrage) 
 * conjoncturelle, alors que la prise de rendez-vous est devenue une étape obligatoire dans toutes les démarches dans un contexte de plus en plus contraint et instable (Diminution des effectifs, élargissement des services offerts, besoin d’assistance accru avec les crises et les évènements internationaux comme la Covid, le Brexit, les élections ou des évènements plus ponctuels).
 
-Les conséquences peuvent amener un allongement des délais voire l’impossibilité de prendre rendez-vous dans certains consulats. Face aux obstacles qu’ils peuvent rencontrer, certains usagers préfèrent radicalement renoncer à effectuer leur démarche (en état-civil par exemple).
+Les conséquences peuvent amener un allongement des délais, voire l’impossibilité de prendre rendez-vous dans certains consulats. Face aux obstacles qu’ils peuvent rencontrer, certains usagers préfèrent radicalement renoncer à effectuer leur démarche (en état-civil par exemple).
 
-Ces difficultés provoquent des incompréhensions du public et alimentent des situations anxiogènes qui constituent autant d’entraves à la bonne marche des services publics tout en amenuisant le bien être des usagers et celui des agents publics qui les servent. 
+Ces difficultés provoquent des incompréhensions du public et alimentent des situations anxiogènes qui constituent autant d’entraves à la bonne marche des services publics, tout en amenuisant le bien être des usagers et celui des agents publics qui les servent. 
 
 # Notre stratégie
 
-Notre objectif sera d’établir un diagnostic aussi précis que possible des difficultés rencontrées. A cet effet, nous allons aller à la rencontre de Français de l'étranger pour mieux comprendre leur expérience lors de la prise de rendez vous en consulat ainsi que leurs besoins.
+Notre objectif sera d’établir un diagnostic aussi précis que possible des difficultés rencontrées. A cet effet, nous allons aller à la rencontre de Français de l'étranger pour mieux comprendre leur expérience lors de la prise de rendez vous en consulat, ainsi que leurs besoins.
 
-Une démarche parallèle sera adressée à nos postes consulaires via des entretiens en personne ainsi qu’un formulaire afin qu’ils recensent les difficultés qu’ils ont pu rencontrer pour octroyer des rendez-vous aux usagers.
+Une démarche parallèle sera adressée à nos postes consulaires via des entretiens en personne, ainsi qu’un formulaire afin qu’ils recensent les difficultés qu’ils ont pu rencontrer pour octroyer des rendez-vous aux usagers.
 
 Cette étude devra permettre :
 
-\- de mieux cerner les problèmes auquel sont confrontés les français de l'étranger ayant besoin de prendre rendez-vous dans un consulat, 
+\- de mieux cerner les problèmes auquel sont confrontés les français de l'étranger ayant besoin de prendre rendez-vous dans un consulat ;
 
 \- de mesurer l'écart entre la solution existante au MEAE et les difficultés rencontrées du point de vue des usagers et des agents;
 
