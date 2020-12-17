@@ -7,9 +7,8 @@ missions:
   - start: 2019-12-15
     end: 2021-06-30
     status: independent
-    
 startups:
-    - Trackdéchets
+    - Trackdechets
 ---
 
 Lead UX Designer depuis le dernier millénaire.
