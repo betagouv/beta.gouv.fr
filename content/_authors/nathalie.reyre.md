@@ -13,13 +13,14 @@ missions:
     status: independent
     employer: Codeurs en liberté
   - start: 2019-05-01
-    end: 2020-12-31
+    end: 2021-06-30
     status: independent
     employer: Octo
 startups:
-  - snu
+  - 
 previously:
   - la-bonne-formation
   - andi
   - reserve-civique
+  - snu
 ---
