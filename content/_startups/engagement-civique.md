@@ -14,7 +14,7 @@ phases:
   - name: construction
     start: 2017-03-23
 events:
-  - name: investigation
+  - name: other
     date: 2020-01-01
     comment: Investigation SNU
   - name: other
