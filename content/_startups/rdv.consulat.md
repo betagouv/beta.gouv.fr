@@ -43,7 +43,7 @@ Une démarche parallèle sera adressée à nos postes consulaires via des entret
 
 Cette étude devra permettre :
 
-\- de mieux cerner les problèmes auquel sont confrontés les français de l'étranger ayant besoin de prendre rendez-vous dans un consulat ;
+\- de mieux cerner les problèmes auquel sont confrontés les français de l'étranger ayant besoin de prendre rendez-vous dans un consulat;
 
 \- de mesurer l'écart entre la solution existante au MEAE et les difficultés rencontrées du point de vue des usagers et des agents;
 
