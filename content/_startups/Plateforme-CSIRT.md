@@ -41,5 +41,11 @@ La création d’une plateforme numérique permettant d'assurer un bon niveau d�
 - Une plateforme de partage d’indicateurs de compromission entre CSIRT
 - La création d’une qualification ANSSI pour les CSIRT internes
 
+## Bilan de l’investigation
+
+Une vingtaine d’acteurs de la cybersécurité, avec des CSIRT ou des projets de CSIRT à différents niveaux de maturité, ont été rencontrés durant l’investigation. Des difficultés rencontrées lors de la montée en compétence des CSIRT en maturation ont été relevées. Cependant, aucun problème ne semble indiquer qu’un produit numérique offrira un impact significatif à l’échelle. De plus, la base d’utilisateurs très restreinte ne justifie pas l’investissement dans un produit numérique dédié à ce public.
+
+La solution qui semble aujourd’hui la plus adaptée aux besoins de ce public est un incubateur pour les CSIRT en cours de maturation. Ce terme, apparu lors d’échanges pendant l’investigation, met en évidence que l’angle “accompagnement humain” opéré par la cellule CERT est en adéquation avec les besoins des CSIRT en maturation. Cependant, à court terme, un service numérique dédié appuyant l’activité de l’incubateur n’apportera pas de valeur significative à cet accompagnement humain.
+
 
 
