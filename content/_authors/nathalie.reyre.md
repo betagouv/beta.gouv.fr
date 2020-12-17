@@ -16,10 +16,8 @@ missions:
     end: 2020-12-31
     status: independent
     employer: Octo
-startups:
-  - snu
 previously:
   - la-bonne-formation
   - andi
-  - reserve-civique
+  - engagement-civique
 ---
