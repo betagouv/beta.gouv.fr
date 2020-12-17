@@ -6,12 +6,13 @@ avatar:
 link:
 missions:
   - start: 2020-10-19
-    end: 2021-01-19
+    end: 2021-04-05
     status: independent
     employer: octo
 startups:
     - signaux-faibles
+    - disinfo
 ---
 
 
-Data scientist full-stack. Fort intérêt pour l'économie, les sciences politiques, et l'amélioration du secteur public. Aime être dehors. il/lui.
+Data scientist full-stack. il/lui.
