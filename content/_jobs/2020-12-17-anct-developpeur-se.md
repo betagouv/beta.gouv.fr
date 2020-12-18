@@ -1,6 +1,6 @@
 ---
 roles: Développeur.se
-title: L'équipe Conseiller Numérique recrute : un.e développeur.se'
+title: L'équipe Conseiller Numérique recrute : un.e développeur.se
 contrat: indépendant
 equipe: Conseiller Numérique
 friend: Incubateur des Territoires
