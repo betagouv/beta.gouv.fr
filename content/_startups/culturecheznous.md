@@ -4,8 +4,8 @@ mission: Avec Culture chez Nous, la Culture vient à vous !
 owner: Ministère de la Culture
 incubator: culture
 phases:
-  - name: investigation
-    start: 2020-09-14
+  - name: construction
+    start: 2020-04-01
 link:
 repository:
 stats: false
