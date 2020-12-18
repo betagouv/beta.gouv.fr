@@ -71,8 +71,8 @@ L’API Engagement facilite la diffusion des missions de bénévolat et de volon
 
 Concrètement, chaque plateforme peut intégrer l’API pour diffuser ses missions vers les autres plateformes partenaires d'une part, et récupérer les missions disponibles sur les autres plateformes selon des critères spécifiques comme la localisation, le domaine d’action, etc. Le tableau de bord de l’API permet à chaque partenaire de configurer les flux de missions, entrant et sortant, et de mesurer la contribution de chaque plateforme en missions et en trafic.
 
+Pour contacter l'équipe: contact@api-engagement.beta.gouv.fr
+
 # À propos de la startup d'État Engagement Civique
 
 Notre mission ? Favoriser et promouvoir l’engagement de chacun pour tous,  sur tous les territoires et pour toutes les causes d’intérêt général. Pour ce faire, la startup incube, accélère et intègre des services numériques de mobilisation. Elle développe la plateforme JeVeuxAider de la Réserve Civique, la plateforme Service National Universel et l’API Engagement.
-
-Pour contacter l'équipe: contact@api-engagement.beta.gouv.fr
