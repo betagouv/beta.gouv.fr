@@ -15,8 +15,10 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     employer: # si applicable, le nom de ton administration, SSII, etc.
 startups: # ta ou tes startups actuelles
     - super_startup # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
-previously: # ta ou tes anciennes startups
-    - ancienne_super_startup # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
+#previously: # enleve le commentaire '#' de la première ligne pour indiquer ta ou tes anciennes startups
+#    - ancienne_super_startup # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
+#badges: # enleve le commentaire '#' pour indiquer que tu as demandé un badge 
+#    - segur # Pour Ségur, si tu penses venir 1 fois par semaine
 ---
 
 Écrit des autobiographies percutantes en moins de 200 caractères depuis 1972.

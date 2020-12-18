@@ -2,11 +2,16 @@
 title: Écosanté
 mission: Réduire l’exposition aux facteurs environnementaux nocifs pour la santé
 owner: Ministère de la Santé - Ministère de la Transition Écologique et Solidaire
+sponsors:
+    - name: Direction generale de la sante
+      acronym: DGS
+      domaine_ministeriel: affaires-sociales
+      type: administration-centrale
 incubator: dinum
-link: https://betagouv.github.io/ecosante/index.html
-repository: null
+link: https://ecosante.beta.gouv.fr/
+repository: https://github.com/betagouv/ecosante/
 contact: ecosante@data.gouv.fr
-stats_url: null
+stats_url: https://ecosante.beta.gouv.fr/stats/
 stats: false
 phases:
   - name: investigation
@@ -59,7 +64,7 @@ Afin de trouver la meilleure solution à ce problème, nous testons plusieurs fo
 
 L'objectif est de co-construire l'outil Ecosanté avec des personnes concernées. 
 
-Pour devenir testeur, c'est [ici](https://betagouv.github.io/ecosante/). 
+Pour devenir testeur, c'est [ici](https://ecosante.beta.gouv.fr/). 
 
 
 ## Calendrier

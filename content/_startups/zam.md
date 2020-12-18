@@ -1,7 +1,11 @@
 ---
 title: Zam
 mission: Alléger la charge de préparation par le gouvernement du débat parlementaire.
-owner: DINUM
+sponsors: 
+    - name: Direction interministérielle du numérique
+      acronym: DINUM
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
 incubator: dinum
 phases:
   - name: investigation
@@ -9,6 +13,9 @@ phases:
   - name: construction
     start: 2018-03-28
   - name: transfer
+    start: 2020-01-01
+  - name: alumni
+    start: 2020-07-01
 link:
 repository: https://github.com/betagouv/zam
 stats: false

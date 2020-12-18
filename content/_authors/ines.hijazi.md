@@ -15,4 +15,6 @@ missions:
 previously:
     - eac
     - auvol 
+badges:
+  - segur
 ---

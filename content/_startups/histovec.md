@@ -2,6 +2,11 @@
 title: HistoVec
 mission: Acheter un véhicule d'occasion en confiance en connaissant son historique
 owner: Ministère de l'Intérieur
+sponsors: 
+    - name: Délégation à la sécurité routière
+      acronym: DSR
+      domaine_ministeriel: interieur
+      type: administration-centrale
 incubator: lab-mi
 phases:
   - name: investigation

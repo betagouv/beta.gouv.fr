@@ -3,11 +3,19 @@ title: maraudes
 mission: Accompagner l'insertion des personnes à la rue
 incubator: sgmas
 owner: le Ministère des Affaires sociales
+sponsors:
+    - name: Direction generale de la cohesion sociale
+      acronym: DGCS
+      domaine_ministeriel: affaires-sociales
+      type: administration-centrale
 phases:
   - name: investigation
     start: 2019-06-01
   - name: construction
     start: 2019-06-01
+  - name : alumni
+    start: 2020-01-01
+
 link:
 stats: false
 contact: giulia.reboa@jscs.gouv.fr
@@ -44,3 +52,7 @@ Cette application sera mise entre les mains de maraudes pour un test à petit
 média, on pourra s'intéresser au contenu d'un dossier social partagé, tout en
 assurant la protection des données des personnes accompagnées, et en permettant
 l'alimentation en donnéesle système de veille sociale de l'état.
+
+# Abandon
+
+Suite au départ de l'intrapreneuse après une mutation professionnelle, le produit Maraude n'a pas trouvé de repreneur.

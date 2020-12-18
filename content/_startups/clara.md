@@ -2,6 +2,11 @@
 title: Clara - Vos aides en un clic
 mission: Découvrir les aides et mesures Pôle emploi qui accélèrent la reprise d'activité
 owner: Pôle emploi
+sponsors: 
+    - name: Pôle Emploi
+      acronym: PE
+      domaine_ministeriel: travail
+      type: operateur
 incubator: pole-emploi
 phases:
   - name: investigation
@@ -9,6 +14,8 @@ phases:
   - name: construction
     start: 2017-04-01
   - name: transfer
+    start: 2019-09-01
+  - name: success
 link: https://clara.pole-emploi.fr/
 repository: https://github.com/StartupsPoleEmploi/clara
 stats: true

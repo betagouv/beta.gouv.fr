@@ -8,6 +8,7 @@ missions:
     status: independent
 startups:
   - itou
+  - place-de-marche-inclusion
 ---
 
 

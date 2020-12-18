@@ -2,6 +2,15 @@
 title: Administration+, le service public VIP pour tous
 mission: Résoudre les blocages administratifs inextricables
 owner: DINUM
+sponsors: 
+    - name: Direction interministérielle du numérique
+      acronym: DINUM
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
+    - name: Agence nationale de la cohésion des territoires
+      acronym: ANCT
+      domaine_ministeriel: territoires
+      type: operateur
 incubator: dinum
 phases:
   - name: investigation

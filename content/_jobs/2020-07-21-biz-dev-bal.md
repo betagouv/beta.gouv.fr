@@ -6,7 +6,7 @@ externalURL: https://incubateur.anct.gouv.fr/recrutements/business-developpeur-s
 contrat: freelance
 post_ouvert: 2020-07-21
 contact: incubateur@anct.gouv.fr
-open: true
+open: false
 title: "Bases Adresses Locales recrute : un.e business développeur.se"
 ---
 

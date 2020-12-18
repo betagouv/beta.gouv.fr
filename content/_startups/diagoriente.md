@@ -2,6 +2,11 @@
 title: DiagOriente
 mission: Permettre aux jeunes en difficulté de découvrir leurs compétences et leurs aspirations
 owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi
+sponsors: 
+    - name: Haut commissariat aux compétences
+      acronym: 
+      domaine_ministeriel: travail
+      type: administration-centrale
 incubator: dinum
 phases:
   - name: investigation
@@ -12,7 +17,7 @@ phases:
 link: https://diagoriente.beta.gouv.fr/
 repository: https://github.com/betagouv/diagoriente-front
 stats: true
-stats_url: https://diagoriente.beta.gouv.fr/statistiques
+stats_url: https://diagoriente.beta.gouv.fr/statistiques/
 contact: pascal.chaumette@id6tm.org
 redirect_from:
   - /startups/trouve-ta-voie

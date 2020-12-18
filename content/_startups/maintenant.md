@@ -2,6 +2,11 @@
 title: Maintenant!
 mission: Recrutez des gens, pas des CV
 owner: Pôle emploi
+sponsors: 
+    - name: Pôle Emploi
+      acronym: PE
+      domaine_ministeriel: travail
+      type: operateur
 incubator: pole-emploi
 phases:
   - name: investigation
@@ -51,4 +56,3 @@ Fort de cet impact, fin 2018, un comité présidé par le Directeur général de
 Ainsi, les développeurs de la DSI ont pu apprendre de nouvelles technologies (Scala, React), ont poursuivi les bonnes pratiques d’une approche orientée utilisateurs (mesure de la valeur, rencontres régulières), et ont décidé de continuer l’amélioration continue du service afin de l’adapter sans cesse aux commentaires d’utilisateurs toujours plus nombreux. Principal enseignement : ne pas d’abord chercher à fusionner le produit à un socle technique existant; mais plutôt concentrer ses efforts sur le partage de méthodes de travail et d’objectifs de croissance du service. 
 
 Finalement, le produit termine sa période d'incubation en juin 2019. Il est passé d’une équipe à l’autre en conservant son agilité. L'équipe actuelle est composée de 0.3 ETP (équivalent temps-plein) métier, 1.5 ETP de développement. **La passation de Maintenant! a permis de faire évoluer significativement les méthodes de travail et de contribuer à la transformation des pratiques de l’organisation Pôle emploi.**
-
