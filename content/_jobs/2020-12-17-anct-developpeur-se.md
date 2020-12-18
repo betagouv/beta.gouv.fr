@@ -8,7 +8,7 @@ type: 'friend'
 externalURL: https://incubateur.anct.gouv.fr/recrutements/
 post_ouvert: 2020-12-17
 poste_ferme: 2021-02-01
-contact: recrutement@conseillernumerique.fr
+contact: lauren.michel@anct.gouv.fr
 status: open
 poste_pourvu: false
 open: true
@@ -69,4 +69,4 @@ Le rythme de travail est de 5 jours par semaine, Le télétravail est la norme m
 
 **Date de début  souhaitée : janvier 2021**
 Envoyer une candidature (en précisant votre TJM) : 
-recrutement@conseillernumerique.fr
+lauren.michel@anct.gouv.fr et contactincubateur@anct.gouv.fr
