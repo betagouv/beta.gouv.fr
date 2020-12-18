@@ -1,7 +1,7 @@
 ---
 title: Engagement Civique
 mission: Donner de son temps pour l'intérêt général
-owner: Haut-commissariat à l'engagement civique
+owner: DJEPVA
 sponsors: 
     - name: Direction de la jeunesse, de l'éducation populaire et de la vie associative
       acronym: DJEPVA
@@ -23,25 +23,20 @@ events:
   - name: other
     date: 2020-07-13
     comment: Convention globale
-link: https://reserve-civique.beta.gouv.fr
+link:
 repository:
 stats: false
 contact: contact@reserve-civique.beta.gouv.fr
 ---
 
 L'équipe "Engagement Civique" est en charge de trois produits distincts:
-- la Réserve Civique
+- la Plateforme JeVeuxAider.gouv.fr de la Réserve Civique
 - la plateforme SNU
 - l'API Engagement
 
-# [La Réserve Civique](https://reserve-civique.beta.gouv.fr)
+# [La Plateforme JeVeuxAider.gouv.fr] (https://www.jeveuxaider.gouv.fr/)
 
-Et si chacun d'entre nous pouvait donner de son temps pour l'intérêt général, simplement ?
-Se rendre utile, occasionnellement et près de chez soi, tranquillement ?
-
-La réserve civique met en lien de potentiels bénévoles et des associations ou des organismes publics qui ont besoin de renfort dans leur mission !
-
-La réserve civique expérimente une nouvelle façon de renforcer le lien social.
+JeVeuxAider.gouv.fr est la plateforme publique du bénévolat, proposée par la Réserve Civique. Plus de 4800 associations, collectivités et organisations publiques y postent des missions, lorsqu'elles ont besoin de renfort. Pour y répondre, elles peuvent compter sur près de 330 000 bénévoles inscrits sur la plateforme. Ceux-ci choisissent parmi des milliers de missions, dans tous les domaines (solidarité, éducation, santé, environnement, sport…) et partout en France. JeVeuxAider est ouvert à toutes les personnes résidant en France, âgées de plus de 16 ans. Flexible, accessible et universel, ce service public numérique permet à toutes et à tous de participer à la société de l'engagement, pour plus de solidarité.
 
 # [La plateforme SNU](https://snu.gouv.fr)
 
@@ -76,8 +71,8 @@ L’API Engagement facilite la diffusion des missions de bénévolat et de volon
 
 Concrètement, chaque plateforme peut intégrer l’API pour diffuser ses missions vers les autres plateformes partenaires d'une part, et récupérer les missions disponibles sur les autres plateformes selon des critères spécifiques comme la localisation, le domaine d’action, etc. Le tableau de bord de l’API permet à chaque partenaire de configurer les flux de missions, entrant et sortant, et de mesurer la contribution de chaque plateforme en missions et en trafic.
 
-## À propos de la startup d'État Engagement Civique
+# À propos de la startup d'État Engagement Civique
 
-L'API Engagement est développée par la startup d'État Engagement Civique. Notre mission ? Favoriser et promouvoir l’engagement de chacun pour tous,  sur tous les territoires et pour toutes les causes d’intérêt général. Pour ce faire, la startup incube, accélère et intègre des services numériques de mobilisation. Elle développe les applications Réserve Civique, Service National Universel et l’API Engagement.
+Notre mission ? Favoriser et promouvoir l’engagement de chacun pour tous,  sur tous les territoires et pour toutes les causes d’intérêt général. Pour ce faire, la startup incube, accélère et intègre des services numériques de mobilisation. Elle développe la plateforme JeVeuxAider de la Réserve Civique, la plateforme Service National Universel et l’API Engagement.
 
 Pour contacter l'équipe: contact@api-engagement.beta.gouv.fr
