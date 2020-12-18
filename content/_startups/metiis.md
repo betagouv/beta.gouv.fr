@@ -9,7 +9,7 @@ phases:
     end: 2019-11-30
   - name: construction
     start: 2019-11-30
-link:
+link: https://metiis.fabnum.fr
 repository:
 stats: false
 contact: frederic.bardolle@def.gouv.fr
@@ -34,3 +34,7 @@ Vecteur d'information entre les réservistes, souvent hors des murs des emprises
 ##  Première étape : le niveau régimentaire
 
 Le premier cycle de développement de METIIS cherche à répondre aux besoins exprimés par les régiments de la 27ème brigade d'infanterie de montagne, pour l'organisation d'activités regroupant un ou plusieurs réservistes. Partage des disponibilités, visibilité sur les activités à venir, information en temps réel sur le taux de présence escompté, ces fonctionnalités seront évaluées par les primo-utilisateurs avant un déploiement plus large au sein de l'armée de terre à l'été 2020.
+
+## Lien vers l'application
+
+https://metiis.fabnum.fr
