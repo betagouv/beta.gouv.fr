@@ -8,7 +8,7 @@ type: 'friend'
 externalURL: https://incubateur.anct.gouv.fr/recrutements/
 post_ouvert: 2020-12-17
 poste_ferme: 2021-02-01
-contact:recrutement@conseillernumerique.fr
+contact: recrutement@conseillernumerique.fr
 status: open
 poste_pourvu: false
 open: true
