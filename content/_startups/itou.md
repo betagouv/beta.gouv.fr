@@ -4,6 +4,14 @@ mission: La réussite pour tous
 owner: la Délégation générale à l’emploi et à la formation professionnelle
   (DGEFP) & Pôle emploi, appuyé par le Haut-commissariat à l'inclusion dans
   l'emploi et à l'engagement des entreprises
+sponsors: 
+    - name: Délégation générale à l'emploi et à la formation professionnelle
+      acronym: DGEFP
+      domaine_ministeriel: travail
+      type: administration-centrale
+    - name: Pôle emploi
+      domaine_ministeriel: travail
+      type: operateur
 incubator: dinum
 link: https://inclusion.beta.gouv.fr
 repository: http://github.com/betagouv/itou
@@ -17,6 +25,41 @@ phases:
     start: 2019-06-10
   - name: acceleration
     start: 2020-07-10
+rgpd:
+  responsable: DGEFP
+  finalites:
+    - faciliter l’identification des structures d’insertion par l’activité économique
+    - fluidifier le recrutement des personnes éligibles
+    - réduire la charge administrative des structures de l’insertion
+    - renforcer les outils de suivi et de pilotage de la performance des structures d’insertion
+    - stimuler le développement et l’accès aux outils digitaux d’appui aux parcours d’insertion
+  donnees:
+    - "données relatives aux candidats: état-civil détaillé, domicile, téléphone, courriel"
+    - "données relatives à la candidature, au contrat d'agrément et de travail"
+    - "données relatives au parcours de formation"
+    - "critères d'éligibilité des candidats"
+    - "données relatives aux employeurs: nom, prénom, structure, identifiants professionnels"
+    - "données relatives aux prescripteurs: nom, prénom, structure, identifiants professionnels"
+    - "données techniques en vue de la traçabilité des actions sur la plateforme"
+  controles:
+    - type: Analyse des risques
+      intervenant: Equipe Itou
+      date: 2020-01-07
+    - type: Tests d'intrusion
+      intervenant: Ernst & Young
+      date: 2020-03-01
+    - type: Homologation provisoire
+      intervenant: Anne-Laure Hochedez-Planche
+      date: 2020-04-02
+    - type: Tests d'intrusion
+      intervenant: Ernst & Young
+      date: 2020-05-02
+    - type: Homologation ferme
+      intervenant: Anne-Laure Hochedez-Planche
+      date: 2020-10-06
+  exercer_vos_droits: https://doc.inclusion.beta.gouv.fr/mentions/protection-des-donnees
+  mesures_securite: "La plateforme est hébergée en France par un prestataire certifié ISO."
+  validite_homologation: 2023-10-06
 ---
 
 

@@ -3,7 +3,7 @@ roles: Développeuse ou développeur fullstack
 startup: Potentiel
 techno: javascript 
 junior: false
-open: true 
+open: false 
 title: Développeuse ou développeur fullstack
 ---
 

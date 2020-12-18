@@ -82,9 +82,55 @@ collections:
       - label: Objectif
         name: mission
         widget: string
-      - label: Administration partenaire
+      - label: Nom affiché pour l'administration partenaire
         name: owner
         widget: string
+      - label: Détails administrations partenaires 
+        name: sponsors
+        widget: list
+        collapsed: false
+        fields:
+          - label: Nom
+            name: name
+            widget: string
+          - label: Acronyme
+            name: acronym
+            widget: string
+            required: false
+          - label: "Type"
+            hint: "Quelle est le type de partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter"
+            name: "type"
+            widget: "select"
+            required: false
+            options:
+              - { label: "Administration centrale", value: "administration-centrale" }
+              - { label: "Opérateur", value: "operateur" }
+              - { label: "Sécurité sociale", value: "securite-sociale" }
+              - { label: "Collectivité territoriale ", value: "collectivite-territoriale" }
+              - { label: "Autre", value: "autre" }
+          - label: "Domaine ministériel"
+            hint: "Quelle est le domaine ministériel du partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter"
+            name: "domaine_ministeriel"
+            widget: "select"
+            required: false
+            options:
+              - { label: "Affaires étrangères", value: "affaires-etrangeres" }
+              - { label: "Affaires sociales", value: "affaires-sociales" }
+              - { label: "Agriculture", value: "agriculture" }
+              - { label: "Armées", value: "armees" }
+              - { label: "Bercy", value: "bercy" }
+              - { label: "Culture", value: "culture" }
+              - { label: "Education nationnale", value: "education-nat" }
+              - { label: "Enseignement supérieur", value: "enseignement-sup" }
+              - { label: "Environnement", value: "environnement" }
+              - { label: "Intérieur", value: interieur }
+              - { label: "Outre-mer", value: "outre-mer" }
+              - { label: "Santé", value: "sante" }
+              - { label: "Service du Premier Ministre", value: "spm" }
+              - { label: "Sport", value: "sport" }
+              - { label: "Travail", value: "travail" }
+              - { label: "Territoires", value: "territoires" }
+              - { label: "Autres", value: "autres" }
       - <<: *relation_default_options
         label: Incubateur
         name: incubator
@@ -232,6 +278,13 @@ collections:
         collection: startups
         required: false
         multiple: true
+      - label: Badges
+        name: "badges"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+           - { label: "Ségur", value: "segur" }
       - label: Description
         hint: "Raconte-nous qui tu es dans une phrase percutante !"
         name: body

@@ -2,6 +2,11 @@
 title: Mes démarches retraite pas à pas
 mission: Obtenir en quelques clics la liste personnalisée de ses démarches de retraite
 owner: CNAV, MSA, Sécurité sociale pour les indépendants
+sponsors:
+    - name: CNAV
+      acronym: CNAV
+      domaine_ministeriel: affaires-sociales
+      type: securite-sociale
 incubator: dinum
 events:
   - name: end

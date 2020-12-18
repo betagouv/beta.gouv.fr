@@ -28,7 +28,10 @@ jobs:
           ${{ runner.os }}-gems-
     - name: Install dependencies
       run: bundle check || bundle install --path vendor/bundle
-    
+
+    - name: Unit tests
+      run: ruby -e "Dir.glob('rb/test/*.rb').each { |f| require File.expand_path(f) }"
+
     - name: Check author metadata
       run: ruby rb/bin/validate rb/schema/authors.yml "content/_authors/*.md"
 

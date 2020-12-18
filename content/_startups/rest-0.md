@@ -2,6 +2,11 @@
 title: Rest'0 🍽 (gaspillage alimentaire cantines scolaires)
 mission: Réduire le gaspillage alimentaire dans les cantines scolaires
 owner: Département des Côtes d'Armor
+sponsors: 
+    - name: département des Côtes d'Armor
+      acronym:
+      domaine_ministeriel: territoires
+      type: collectivite-territoriale
 incubator: preincubation
 phases:
   - name: investigation

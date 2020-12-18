@@ -13,4 +13,6 @@ startups:
     - demarches-simplifiees.fr
     - trait-d-union
     - cmachance
+badges:
+    - segur
 ---

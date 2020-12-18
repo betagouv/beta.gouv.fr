@@ -2,6 +2,11 @@
 title: Pau Partage
 mission: Lutter contre l'isolement des personnes âgées en favorisant la rencontre avec des bénévoles
 owner: Agglomération de Pau Béarn Pyrénées
+sponsors: 
+    - name: Agglomération de Pau Béarn Pyrénées
+      acronym:
+      domaine_ministeriel: territoires
+      type: collectivite-territoriale
 incubator: anct
 phases:
   - name: investigation

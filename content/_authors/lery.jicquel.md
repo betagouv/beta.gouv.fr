@@ -10,9 +10,13 @@ missions:
   - start: 2020-03-01
     status: admin
     employer: beta.gouv
-
-startups :
+    end: 2021-09-01
+startups:
+  - dumas
+previously:
   - e-controle
+badges:
+  - segur
 ---
 In Bike I Trust.
 Toujours en équipe!

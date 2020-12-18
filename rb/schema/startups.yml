@@ -8,7 +8,45 @@ mapping:
     required:  yes
   "owner":
     type:      str
-    required:  yes
+  "sponsors":
+    type:      seq
+    sequence:
+        - type:      map
+          mapping:
+            "name":
+              type:      str
+              required:  yes
+            "acronym":
+              type:      str
+            "type":
+              type:      str
+              enum:
+                - administration-centrale
+                - service-deconcentre
+                - operateur
+                - securite-sociale
+                - collectivite-territoriale
+                - autre
+            "domaine_ministeriel":
+              type:      str
+              enum:
+                - affaires-etrangeres
+                - affaires-sociales
+                - agriculture
+                - armees
+                - bercy
+                - culture
+                - education-nat
+                - enseignement-sup
+                - environnement
+                - interieur
+                - outre-mer
+                - sante
+                - spm # Service du premier ministre
+                - sport
+                - travail
+                - territoires
+                - autres
   "events":
     type:      seq
     sequence:
@@ -16,7 +54,7 @@ mapping:
           mapping:
             "name":
               type:      str
-              assert:    "['product_launch','commitee','other','national_impact','end'].include?(val)"
+              assert:    "['product_launch','committee','other','national_impact','end'].include?(val)"
             "date":
               type:      date
             "comment":
@@ -34,6 +72,8 @@ mapping:
             "name":
               type:      str
               assert:    "['investigation','construction','acceleration','success','transfer','alumni'].include?(val)"
+            "comment":
+              type:      str
   "incubator":
     type:      str
     required:  yes
@@ -59,3 +99,5 @@ mapping:
         - type:      str
   "robots":
     type:      str
+  "rgpd":
+    type:      any
