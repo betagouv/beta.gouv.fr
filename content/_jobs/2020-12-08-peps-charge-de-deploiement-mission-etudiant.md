@@ -1,7 +1,7 @@
 ---
 roles: Un.e chargé.e de déploiement en mission étudiante
 startup: peps
-open: true
+open: false
 ---
 
 # Peps recrute un.e chargé.e de déploiement en mission étudiante
