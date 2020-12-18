@@ -2,6 +2,11 @@
 title: Mon-entreprise.fr
 mission: "L'assistant officiel du créateur d'entreprise"
 owner: Acoss
+sponsors:
+    - name: ACOSS
+      acronym: ACOSS
+      domaine_ministeriel: affaires-sociales
+      type: securite-sociale
 incubator: dinum
 phases:
   - name: investigation

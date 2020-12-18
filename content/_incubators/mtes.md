@@ -1,7 +1,7 @@
 ---
 title: La Fabrique Numérique
-owner: Ministère de la Transition Écologique et Solidaire - Ministère de la Cohésion des Territoires
-website: https://mtes-mct.github.io/numerique/fabrique-numerique/
+owner: Ministère de la Transition Écologique - Ministère de la Cohésion des Territoires
+website: https://mtes-mct.github.io/portail
 github: https://github.com/MTES-MCT/
 contact: mailto:samuel.goldszmidt@beta.gouv.fr?subject=Incubateurs
 address: Arche de la Défense, 1 Parvis de la Défense, Puteaux

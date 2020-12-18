@@ -7,7 +7,7 @@ contrat: préstataire
 equipe: Incubateur des Territoires
 post_ouvert: 2020-07-29
 contact: incubateur@anct.gouv.fr
-open: true
+open: false
 title: "l'Incubateur des Territoires recrute : un.e chef.fe de projets business dev et deploiement transverse"
 ---
 

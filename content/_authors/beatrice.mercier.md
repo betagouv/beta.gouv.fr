@@ -16,4 +16,6 @@ missions:
     employer: dinum
 startups:
     - transport
+badges:
+  - segur
 ---

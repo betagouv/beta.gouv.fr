@@ -6,7 +6,7 @@ avatar: https://entrepreneur-interet-general.etalab.gouv.fr//img/communaute/jean
 link: https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/jean-baptiste-le-devehat.html
 missions: 
   - start: 2020-01-19 
-    end: 2020-12-31 
+    end: 2020-09-20 
     status: independent
     employer: octo
 startups: 

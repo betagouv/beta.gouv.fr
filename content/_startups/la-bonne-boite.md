@@ -2,6 +2,11 @@
 title: La Bonne Boîte
 mission: Trouver les entreprises qui vont recruter près de chez soi
 owner: Pôle emploi
+sponsors: 
+    - name: Pôle Emploi
+      acronym: PE
+      domaine_ministeriel: travail
+      type: operateur
 incubator: pole-emploi
 events:
   - name: national_impact

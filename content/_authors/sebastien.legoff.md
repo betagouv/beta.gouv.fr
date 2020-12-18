@@ -4,8 +4,12 @@ role: CTO
 github: goffle
 missions:
   - start: 2018-04-01
-    end: 2018-10-01
+    end: 2020-12-31
     status: independent
 startups:
-    - pop
+- ozensemble
+- reserve-civique
+previously:
+- pop
+- eac   
 ---

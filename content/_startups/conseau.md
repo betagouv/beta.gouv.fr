@@ -6,7 +6,9 @@ incubator: mtes
 phases:
   - name: investigation
     start: 2020-03-15
-  - name: investigation
+    end: 2020-06-30
+  - name: alumni
+    start: 2020-06-30
 link:
 repository:
 stats: false
@@ -57,17 +59,14 @@ Cons’eau crée un lien direct entre l’exploitant et les autorités facilitan
 Le produit minimum viable envisagé priorise certains bénéfices sur un territoire d’expérimentation donné.
 
 Pour l’exploitant, il contient :
-- [ ] un formulaire pour déposer sa photo ou le relevé du compteur et renseigner une pénurie
-- [ ] une page de suivi des volumes prélevés
-- [ ] des notifications par mails pour le suivi des prélèvement et si une mesure de restriction le concerne.
+- un formulaire pour déposer sa photo ou le relevé du compteur et renseigner une pénurie
+- une page de suivi des volumes prélevés
+- des notifications par mails pour le suivi des prélèvement et si une mesure de restriction le concerne.
 
 Pour les autorités, il contient : 
-- [ ] un tableau des données prélevés et pénuries signalées
-- [ ] des premiers éléments de synthèse graphique
+- un tableau des données prélevés et pénuries signalées
+- des premiers éléments de synthèse graphique
 
-**Objectifs des 6 prochains mois** 
+**Interruption** 
 
-L’objectif à 6 mois est de développer un produit minimum viable, pour justifier les premiers bénéfices pour les exploitants et les services de l’Etat au sein d’un territoire confronté à des sécheresses répétées et à des conflits d’usages.
-
-
-
+Le projet n'a pas trouvé de porteur suite à l'investigation.  
