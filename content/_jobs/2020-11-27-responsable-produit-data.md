@@ -1,7 +1,7 @@
 ---
 roles: Responsable de produit data 
 startup : DINUM - DNUM des Ministères sociaux 
-open: true
+open: false
 title: Responsable de produit data.insertion (Service Public de l’Insertion et de l’Emploi)
 ---
 
