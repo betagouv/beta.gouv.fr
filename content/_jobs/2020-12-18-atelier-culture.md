@@ -1,17 +1,18 @@
 ---
-roles: Appui à la création de l'incubateur 
-title: 'Incubateur de la Culture recrute : un.e chargé.e de développement de l'Atelier Numérique'
+roles: Chargé de développement de l'atelier numérique
+title: L'incubateur de la Culture recrute 
 contrat: stage
-equipe: Atelier Numérique Culture
-friend: Ateluer Numérique Culture
+equipe: L'Atelier Numérique du Ministère de la Culture
+friend: L'Atelier Numérique du Ministère de la Culture
 type: 'friend'
-post_ouvert: 2020-12-18
-poste_ferme: 2021-01-30
+post_ouvert: 2020-12-17
+poste_ferme: 2021-02-01
 contact: ateliernumerique@culture.gouv.fr
 status: open
 poste_pourvu: false
 open: true
 ---
+
 
 ## Qui sommes nous ?
 
