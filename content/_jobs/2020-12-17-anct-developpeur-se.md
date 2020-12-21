@@ -5,7 +5,7 @@ contrat: indépendant
 equipe: Conseiller Numérique
 friend: Incubateur des Territoires
 type: 'friend'
-externalURL: https://incubateur.anct.gouv.fr/recrutements/
+externalURL: https://incubateur.anct.gouv.fr/recrutements/conseiller-numerique-developpeur-se-front-end/
 post_ouvert: 2020-12-17
 poste_ferme: 2021-02-01
 contact: lauren.michel@anct.gouv.fr
@@ -68,5 +68,4 @@ Vous aurez un statut de freelance ou d’auto-entrepreneur‧se.
 Le rythme de travail est de 5 jours par semaine, Le télétravail est la norme mais une présence ponctuelle dans les locaux à l’incubateur des Territoires à Paris est souhaitable lors d’ateliers et/ou réunions une fois par semaine  (test utilisateur, démonstration, rétrospective et planification). L’équipe suit une méthode agile avec des phases de retours fréquents de ses utilisateurs finaux.
 
 **Date de début  souhaitée : janvier 2021**
-Envoyer une candidature (en précisant votre TJM) : 
-lauren.michel@anct.gouv.fr et contactincubateur@anct.gouv.fr
+
