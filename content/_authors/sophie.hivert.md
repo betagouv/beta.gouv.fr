@@ -4,7 +4,7 @@ role: Chargée de déploiement
 github: sohivert
 missions:
   - start: 2020-06-15
-    end: 2020-12-31
+    end: 2021-03-31
     status: service
 startups:
   - reserve-civique
