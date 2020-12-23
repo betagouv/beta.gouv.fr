@@ -7,5 +7,5 @@ missions:
     end: 2021-12-31
     status: service
 startups:
-  - Service National Universel
+  - SNU
 ---
