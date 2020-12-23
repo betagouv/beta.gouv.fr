@@ -9,9 +9,8 @@ externalURL: https://incubateur.anct.gouv.fr/recrutements/conseiller-numerique-d
 post_ouvert: 2020-12-18
 poste_ferme: 2021-02-01
 contact: lauren.michel@anct.gouv.fr
-status: open
-poste_pourvu: false
-open: true
+poste_pourvu: true
+open: false
 ---
 
 L'équipe Conseillers Numériques recherche **un.e développeur.se principal.e**.
