@@ -52,7 +52,7 @@ Expérience professionnelle sur une mission similaire, du type **Business Develo
 ## :memo: Modalités
 Poste ouvert pour un indépendant ou une indépendante pour un premier contrat de 6 mois renouvelable (à 4 jours par semaine minimum). Le télétravail est possible. Démarrage janvier 2021.
 ## :rocket: Candidater
-Expliquez-nous pourquoi vous avez envie de rejoindre la Startup d'État Engagement Civique et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à [nassim.merzouk@beta.gouv.fr](mailto:nassim.merzouk@beta.gouv.fr) et à [joe.achkar@beta.gouv.fr](joe.achkar@beta.gouv.fr).
+Expliquez-nous pourquoi vous avez envie de rejoindre la Startup d'État Engagement Civique et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à [nassim.merzouk@beta.gouv.fr](mailto:nassim.merzouk@beta.gouv.fr) et à [joe.achkar@beta.gouv.fr](mailto:joe.achkar@beta.gouv.fr).
 À bientôt !
 
 ## :handshake: Participer à la communauté Beta.gouv
