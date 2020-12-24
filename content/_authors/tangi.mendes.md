@@ -8,6 +8,5 @@ missions:
     status: independent
     employer: octo
 startups:
-- reserve-civique
-- snu
+- engagement-civique
 ---
