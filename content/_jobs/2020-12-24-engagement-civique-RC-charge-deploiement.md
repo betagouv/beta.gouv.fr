@@ -8,7 +8,7 @@ title: Engagement Civique recrute un·e business developer
 # La Startup d'État Engagement Civique recrute !
 
 
-😍: Profil recherché : Charge(é) de déploiement auprès des collectivités - JeVeuxAider.Gouv.fr !
+😍 Profil recherché : Charge(é) de déploiement auprès des collectivités - JeVeuxAider.Gouv.fr !
 
 ## 👋 Qui sommes-nous ?
 La Startup d'État Engagement Civique a pour mission de concevoir et de déployer des services numériques en faveur de l’engagement civique. Trois produits ont été imaginés et mis en oeuvre à ce jour : la plateforme du **Service National Universel** [(snu.gouv.fr)](https://www.snu.gouv.fr/), la plateforme **JeVeuxAider** de la **Réserve Civique** [(jeveuxaider.gouv.fr)](https://jeveuxaider.gouv.fr/) et l’**API Engagement** (mise en commun des données issues des différents produits et partenaires - pas de site public à l’heure actuelle).
