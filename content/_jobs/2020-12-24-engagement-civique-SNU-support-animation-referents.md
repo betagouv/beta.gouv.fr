@@ -1,5 +1,5 @@
 ---
-roles: un ou une bizdev
+roles: un.e Chargé.e d’assistance aux utilisateurs et d’animation des référents Service National Universel
 startup: engagement-civique
 open: true
 title: Chargé(e) d’assistance aux utilisateurs et d’animation des référents Service National Universel
@@ -8,14 +8,14 @@ title: Chargé(e) d’assistance aux utilisateurs et d’animation des référen
 
 # La Startup d'État Engagement Civique recrute !
 
-:heart_eyes:: Profil recherché : Chargé(e) d’assistance aux utilisateurs et d’animation des référents Service National Universel
+:heart_eyes: Profil recherché : Chargé(e) d’assistance aux utilisateurs et d’animation des référents Service National Universel
 
-## :wave: : Qui sommes-nous ?
+## 👋🏼 : Qui sommes-nous ?
 La Startup d'État Engagement Civique a pour mission de concevoir et de déployer des services numériques en faveur de l’engagement civique. Trois produits ont été imaginés et mis en oeuvre à ce jour : la plateforme du **Service National Universel** ([snu.gouv.fr])(https://www.snu.gouv.fr/), la plateforme **JeVeuxAider** de la **Réserve Civique** ([jeveuxaider.gouv.fr](https://jeveuxaider.gouv.fr/)) et l’**API Engagement** (mise en commun des données issues des différents produits et partenaires - pas de site public à l’heure actuelle).
 
 <!--more-->
 
-## :nerd_face: Contexte : Service National Universel
+## 🤓 Contexte : Service National Universel
 
 
 **Le Service National Universel (SNU) est un projet d’émancipation de la jeunesse**, complémentaire de l’instruction obligatoire, dont les objectifs sont :
@@ -32,7 +32,7 @@ La Startup d'État Engagement Civique a pour mission de concevoir et de déploye
 
 *La Startup d’État s’agrandit et étoffe l’équipe du Service National Universel en recrutant un(e) chargé(e) d’assistance aux utilisateurs et d’animation des référents.*
 
-## :dart: Rôle et mission
+## 🎯 Rôle et mission
 **Vous aurez pour mission d’assurer l’assistance aux utilisateurs des plateformes SNU** ([https://admin.snu.gouv.fr](https://admin.snu.gouv.fr) et [https://moncompte.snu.gouv.fr](https://moncompte.snu.gouv.fr)) et **d’animer le réseau des référents départementaux**, en charge de la mise en oeuvre du dispositif sur leur territoire : 
 - **Comprendre les enjeux stratégiques, opérationnelles et techniques du SNU** afin de répondre aux besoins des parties prenantes des plateformes 
 - **Accompagner les différents utilisateurs**, et plus particulièrement l’équipe départementale,  dans la prise en main de la plateforme et l’usage au quotidien
@@ -41,7 +41,7 @@ La Startup d'État Engagement Civique a pour mission de concevoir et de déploye
 - **Animer et outiller les référents départementaux** pour permettre le bon déroulement de leurs missions (animation de webinaires, rédaction de newsletters, enrichissement et amélioration de la base documentaire…)
 - **Améliorer le fonctionnement** du pôle support et animation et contribuer la mesure de son impact : processus, outillage, documentation (vidéos, FAQ dynamiques, tutoriels, etc…)
 
-## :mag: Profil recherché
+## 🔎 Profil recherché
 Expérience professionnelle sur une mission similaire, du type **Responsable Support, Animateur de réseau, Conduite du changement** ou première expérience suite à un diplôme d’une grande école (Sciences Po, Grandes écoles de commerce, IEP) ou d’une faculté (Droit, IAE, etc.).
 
 **Votre profil nous intéresse si :**
@@ -61,14 +61,14 @@ Expérience professionnelle sur une mission similaire, du type **Responsable Sup
 - La conduite du changement
 - L’animation de communautés et d’ateliers d'appropriation 
 
-##:memo: Modalités
+## 📝 Modalités
 Poste ouvert pour un indépendant ou une indépendante pour un premier contrat de 6 mois renouvelable (à 4 jours par semaine minimum). Le télétravail est possible. Démarrage janvier 2021.
 
-## :rocket: Candidater
+## 🚀 Candidater
 Expliquez-nous pourquoi vous avez envie de rejoindre la Startup d'État Engagement Civique et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à [gabrielle.bouxin@beta.gouv.fr](mailto:gabrielle.bouxin@beta.gouv.fr) et à [joe.achkar@beta.gouv.fr](mailto:joe.achkar@beta.gouv.fr).
 À bientôt !
 
-## :handshake: Participer à la communauté Beta.gouv
+## 🤝 Participer à la communauté Beta.gouv
 En travaillant pour une Startup d'État et de Territoire, vous devenez membre de la communauté beta.gouv. Celle-ci se construit par l’investissement volontaire de ses membres, ce qui veut dire que chaque membre peut proposer de nouvelles idées, les mettre en œuvre ou rejoindre un travail en cours.
 L’engagement dans la communauté peut prendre différentes formes, de faire le café à participer à une équipe transverse en passant par organiser une conférence.
 L’objectif est de faire de beta.gouv une communauté vivante, riche des expériences et de l’engagement de chacun, et qui apporte un cadre de travail stimulant pour ces membres.
