@@ -22,7 +22,6 @@ Depuis 6 mois, elle met à disposition des collectivités un espace dédié leur
 La Startup d’État s’agrandit et étoffe l’équipe déploiement de la Réserve Civique en recrutant un.e chargé.e de déploiement auprès des collectivités pour appuyer la proposition de valeur de la Réserve Civique auprès des territoires.
 
 ## :dart: Rôle et mission
-## :dart: Rôle et mission
 En lien étroit avec les autres pôles et plus particulièrement les pôles Produit et Déploiement, **vous aurez pour mission d’assurer l’assistance aux utilisateurs de la plateforme [JeVeuxAider.gouv.fr](https://jeveuxaider.gouv.fr/) et la modération**, en lien avec les référents départementaux qui en ont la charge :
 - **Comprendre les enjeux techniques de la plateforme** afin de répondre aux besoins des parties prenantes (organisations associatives et publiques, collectivités, bénévoles, référents...)
 - **Accompagner les différents utilisateurs**, et plus particulièrement le réseau de référents départementaux, dans la prise en main de la plateforme et l’usage au quotidien
@@ -55,7 +54,7 @@ Expérience professionnelle sur une mission similaire, du type **Responsable Sup
 Poste ouvert pour un indépendant ou une indépendante pour un premier contrat de 6 mois renouvelable (à 4 jours par semaine minimum). Le télétravail est possible. Démarrage janvier 2021.
 
 ## :rocket: Candidater
-Expliquez-nous pourquoi vous avez envie de rejoindre la Startup d'État Engagement Civique et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à [gabrielle.bouxin@beta.gouv.fr](mailto:gabrielle.bouxin@beta.gouv.fr) et à [joe.achkar@beta.gouv.fr](joe.achkar@beta.gouv.fr).
+Expliquez-nous pourquoi vous avez envie de rejoindre la Startup d'État Engagement Civique et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à [gabrielle.bouxin@beta.gouv.fr](mailto:gabrielle.bouxin@beta.gouv.fr) et à [joe.achkar@beta.gouv.fr](mailto:joe.achkar@beta.gouv.fr).
 À bientôt !
 
 
