@@ -9,9 +9,8 @@ externalURL: https://incubateur.anct.gouv.fr/recrutements/conseiller-numerique-d
 post_ouvert: 2020-12-17
 poste_ferme: 2021-02-01
 contact: lauren.michel@anct.gouv.fr
-status: open
-poste_pourvu: false
-open: true
+poste_pourvu: true
+open: false
 ---
 
 L'équipe Conseillers Numériques recherche **un.e développeur.se front-end**.
@@ -19,7 +18,7 @@ L'équipe Conseillers Numériques recherche **un.e développeur.se front-end**.
 ## L’environnement du poste et l’équipe
 
 L’Agence Nationale de la Cohésion des Territoires a pour mission de rapprocher le numérique du quotidien des Français. C’est l’ambition de la mobilisation historique en faveur de l’inclusion numérique dans France Relance. 250 millions d’euros sont mobilisés afin de proposer une solution d’accompagnement au numérique à tous les Français, en cohérence avec leurs besoins et en proximité de chez eux.
-Sur une durée de 2 ans, l’État finance la formation et le déploiement de 4 000 conseillers numériques. 
+Sur une durée de 2 ans, l’État finance la formation et le déploiement de 4 000 conseillers numériques.
 
 L’équipe de Conseillers numériques se compose d’une cheffe de produit, d’une chargée de deploiement en charge d’animer et de piloter le réseau des structures accueillantes, d’un développeur full-stack, d’un designer UX/UI.
 De plus, la startup est incubée au sein de l’incubateur des territoires à Ségur, et les équipes sont en relation avec les autres startups d'Etat de beta.gouv.
