@@ -1,8 +1,8 @@
 ---
-roles: un ou une bizdev
+roles: un·e Chargé·e de déploiement auprès des collectivités
 startup: engagement-civique
 open: true 
-title: Engagement Civique recrute un·e business developer
+title: Engagement Civique recrute un·e Chargé·e de déploiement auprès des collectivités
 ---
 
 # La Startup d'État Engagement Civique recrute !
