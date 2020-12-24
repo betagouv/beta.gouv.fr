@@ -5,11 +5,13 @@ avatar: https://avatars3.githubusercontent.com/maiwann?s=600
 link: http://www.maiwann.net/
 missions:
   - start: 2018-04-10
-    end: 2020-09-30
+    end: 2021-05-24
     status: independent
     employer: lazone
 startups:
+  - labels-transition
   - visam
+  
 previously:
   - mon-entreprise
   - zam

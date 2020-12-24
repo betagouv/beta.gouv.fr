@@ -12,11 +12,11 @@ missions:
     status: admin
     employer: dinum
 startups:
-  - plante-et-moi
   - aplus
   - e-controle
 previously:
   - signalement
+  - plante-et-moi
 badges:
   - segur
 ---
