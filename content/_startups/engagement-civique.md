@@ -26,7 +26,7 @@ events:
 link:
 repository:
 stats: false
-contact: contact@reserve-civique.beta.gouv.fr
+contact: nassim.merzouk@beta.gouv.fr
 ---
 
 L'équipe "Engagement Civique" est en charge de trois produits distincts:
