@@ -56,7 +56,7 @@ Après 15 jours de mise en service,  le prototype a permis de traiter une quinza
 
 Le service a ensuite été déployé à https://kelrisks.beta.gouv.fr/. En 2019, plus de 20 000 avis ont été téléchargé, essentiellement par des notaires, des avocats et des bureaux d’études spécialisés dans le domaine des audits environnementaux. Cela représente plus de 7000 jours de travail à faible valeur ajoutée économisées, administration et professionnels confondus. 
 
-## Arrêt de Kelrisks et mutation au sein de Géorisques
+## Arrêt de Kelrisks et mutation au transfert de Géorisques
 La Direction générale de la prévention des risques (DGPR) décide fin 2019 de transférer Kelrisks au Bureau de Recherches Géologiques et Minières (BRGM), avec l'objectif de générer facilement un état des risques règlementés (ERRIAL pour État des Risques Réglementés Information Acquéreur) nécessaire pour des transactions foncières. 
 
 Fin 2020, le service Kelrisks n'est achève sa mutation vers cet "état des risques" numérique qui devrait être disponible sur georisques.gouv.fr début 2021. 
