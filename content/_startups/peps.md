@@ -13,7 +13,7 @@ phases:
     start: 2019-05-13 
   - name: construction
     start: 2019-09-01 
-  - name: transfert
+  - name: transfer
     start: 2020-12-15
 link: https://www.peps.beta.gouv.fr/
 repository: https://github.com/betagouv/peps
