@@ -17,7 +17,7 @@ phases:
     start: 2020-01-01
   - name: success
     start: 2020-07-01
-events
+events:
   - name: national_impact
     date: 2020-07-01
 link: https://anotea.pole-emploi.fr
