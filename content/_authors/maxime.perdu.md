@@ -9,7 +9,7 @@ missions:
     end: 2020-12-31   
     status: independent
 startups : 
-  - reserve-civique
+  - engagement-civique
 ---
 
 Ingénieur matériaux-développement durable qui a viré vers l'écosystème startup. En perpétuel recherche de sens et d'impact. Hédoniste qui veut tirer la meilleur version de lui-même.
