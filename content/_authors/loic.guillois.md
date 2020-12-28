@@ -15,7 +15,7 @@ missions:
     status: independent
     employer: octo
 startups:
-    - snu
+    - engagement-civique
 previously:
     - mon-entreprise
     - anotea

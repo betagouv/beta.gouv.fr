@@ -12,7 +12,7 @@ missions:
     status: independent
     employer: octo
 startups:
-    - snu
+    - engagement-civique
 previously:
     - la-bonne-formation
 ---
