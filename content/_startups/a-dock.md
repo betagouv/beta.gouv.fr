@@ -20,7 +20,7 @@ phases:
     start: 2020-11-27
 events:
   - name: end
-    start: 2020-11-27
+    date: 2020-11-27
 ---
 
 ## Le constat initial : le transport routier de marchandises, un secteur exposé à des risques de déréglementation
