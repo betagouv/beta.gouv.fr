@@ -6,7 +6,7 @@ incubator: mtes
 phases:
   - name: investigation
     start: 2020-07-21
-  - name: almuni
+  - name: alumni
     start: 2020-11-27
 link: 
 repository: 
