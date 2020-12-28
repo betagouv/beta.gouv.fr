@@ -9,10 +9,10 @@ missions:
     status: independent
 startups:
     - ozensemble
-    - reserve-civique
 previously:
     - pop
     - eac   
+    - engagement-civique
 ---
 
 Step by step we reach the top.

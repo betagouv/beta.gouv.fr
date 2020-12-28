@@ -9,4 +9,5 @@ missions:
     employer: Fabrique des ministères sociaux
 startups:
   - e-mjpm
+  - egalite.professionnelle
 ---
