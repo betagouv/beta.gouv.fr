@@ -12,7 +12,9 @@ phases:
   - name: investigation
     start: 2019-01-02 
   - name: construction
-    start: 2019-03-01 
+    start: 2019-03-01
+  - name: acceleration
+    start: 2020-11-17
 link: https://ecolab.ademe.fr/
 repository: https://github.com/betagouv/Ecolab
 stats: true
