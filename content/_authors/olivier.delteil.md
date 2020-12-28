@@ -1,11 +1,11 @@
 ---
-fullname: Olivier DELTEIL
-role: chargé déploiement
-github: Olivier DELTEIL
+fullname: Olivier Delteil
+role: Chargé de déploiement
+github: Olivier Delteil
 missions:
   - start: 2021-01-04
     end: 2021-07-02
-    status: independent
+    status: admin
     employer: dinum
 startups:
   - acceslibre
