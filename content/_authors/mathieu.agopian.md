@@ -11,10 +11,11 @@ missions:
   - status: independent
     employer: Octo
     start: 2019-10-01
-    end: 2021-01-07
+    end: 2022-01-07
 startups:
   - classes12
   - saisissez au vol
+  - egapro
 ---
 
 Insatiable Curieux
