@@ -6,6 +6,5 @@ missions:
   - start: 2020-05-25
     end: 2021-05-27
     status: independent
-startups:
-  - apprentissage
+startups: []
 ---
