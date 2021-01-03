@@ -6,6 +6,8 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2020-09-07
+  - name: alumni
+    start: 2020-11-30
 link: 
 repository: 
 stats: false
@@ -40,3 +42,6 @@ L'investigation nous permettra de confimer, infirmer, préciser et/ou contextual
 - Je ne veux pas servir de caution à la décision du gouvernement. 
 - Je ne sais pas que j’ai la possibilité de participer (ou comment participer).
 
+## Interruption du partenariat après la phase d'investigation
+
+Cette phase d'investigation n'a pas abouti à un partenariat avec beta.gouv.fr
