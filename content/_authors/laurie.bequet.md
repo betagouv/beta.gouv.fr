@@ -9,6 +9,7 @@ missions:
     status: admin
     employer: DINUM
 startups:
-  - preuve-covoiturage
+  - preuve-de-covoiturage
+badges:
+  - segur
 ---
-
