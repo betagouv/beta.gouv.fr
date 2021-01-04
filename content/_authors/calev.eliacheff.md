@@ -1,6 +1,7 @@
 ---
 fullname: Calev Eliacheff
 role: Developpeur
+github: celiacheff
 missions:
   - start: 2020-12-30
     end: 2021-06-01
