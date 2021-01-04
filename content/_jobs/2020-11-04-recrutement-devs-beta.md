@@ -1,7 +1,7 @@
 ---
 roles: développeurs/ses expérimenté.e.s
 startup: beta.gouv.fr
-open: true
+open: false
 title: Nous recrutons des développeurs ou développeuses expérimenté.e.s pour rejoindre des produits beta.gouv.fr
 ---
 

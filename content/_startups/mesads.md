@@ -5,7 +5,9 @@ owner: DGITM
 incubator: mtes
 phases:
   - name: investigation
-    start: 2020-07-21 # date au format ISO (AAAA-MM-DD)
+    start: 2020-07-21
+  - name: alumni
+    start: 2020-11-27
 link: 
 repository: 
 stats: false
@@ -29,4 +31,8 @@ La phase d’investigation a permis de dresser une première liste des fonctionn
 - Pour rappeler aux professionnels taxis les démarches à effectuer périodiquement, un système d’alertes devra être intégré à l’outil, notamment pour les divers renouvellements de droits. 
 - Dans la philosophie de « dites-le nous une fois » (DLNUF), la sécurisation de la gestion des ADS aura pour finalité de fournir aux conducteurs de taxis un service d’ « autorité certifiante », pour éviter la représentation des mêmes justificatifs auprès d’autres administrations, pour attester de la régularité de leur activité (conventionnement auprès l’Assurance maladie, remboursement de la TICPE, connexion obligatoire à le.taxi) 
 - Les données recueillies dans le cadre de la gestion courante des ADS pourront être accessibles aux préfectures et à l’administration centrale pour le pilotage (local et national) du secteur.
+
+## Interruption des travaux après la phase d'investigation
+
+La phase d'investigation n'a pas abouti au lancement de la Startup d'Etat. Une réflexion doit être menée à ce sujet pour un éventuel lancement en 2021.
 
