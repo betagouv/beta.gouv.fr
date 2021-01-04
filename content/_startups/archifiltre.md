@@ -8,6 +8,8 @@ incubator: sgmas
 link: https://archifiltre.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/archifiltre
 contact: archifiltre@sg.social.gouv.fr
+stats: true
+stats_url: https://archifiltre.fabrique.social.gouv.fr/statistiques/
 events:
   - name: other
     date: 2018-01-07
@@ -65,5 +67,3 @@ Avec Archifiltre, il est désormais possible d'auditer puis d'identifier les tri
 Notre stratégie, depuis les débuts, est de développer un outil libre, gratuit, au maximum intuitif afin de rendre son utilisation possible par tou·te·s, y compris les professionnel·le·s de l'information. Des versions sont proposées régulièrement au téléchargement (environ tous les 2 à 3 mois), testées avec les utilisateur·trice·s et augmentées de fonctionnalités au fur et à mesure. 
 
 Par ailleurs, la priorisation a toujours été réalisée à partir des demandes d'utilisateur·trice·s issu·e·s de contextes très variés qui permettent de vérifier, en permanence, que les fonctionnalités développées sont adaptées au plus grand nombre (tant dans les administrations de l'Etat que dans les collectivités, chez des opérateurs nationaux ou locaux, comme dans des entreprises ou des associations) grâce aux nombreux retours utilisateurs reçus lors des openlabs et sessions d'échanges (présentations, webinaires, communication réalisée lors des sorties de versions) ou encore via le questionnaire mis en place pour recueillir les attentes.
-
-Pour accéder aux statistiques d'Archifiltre, [cliquez ici](https://archifiltre.fabrique.social.gouv.fr/statistiques/).
