@@ -1,10 +1,21 @@
 $(function() {
 
 var datasets = {};
+
 Object.keys(window.data).forEach(function(employerType) {
     datasets[employerType] = window.data[employerType];
 
-    /** Work around Chart.js' unability to stack time series unless they explicitly share their abscissa, by adding neutral data points to all datasets whenever another changes.
+    // Round departure to next month
+    datasets[employerType] = datasets[employerType].map(function(event) { 
+        if(event.increment === -1) {
+            oldDate = new Date(event.date);
+            event.date = formatDateToISOString(new Date(oldDate.getFullYear(), oldDate.getMonth()+1, 1));
+        }
+        return event;
+    });
+
+    /** Work around Chart.js' unability to stack time series unless they explicitly share their abscissa,
+    *   by adding neutral data points to all datasets whenever another changes.
     */
     Object.keys(window.data).forEach(function(otherEmployerType) {
         if (employerType == otherEmployerType)
@@ -85,7 +96,7 @@ function makeTimeSeries(events, splitDate) {
     var points = [];
 
     events.forEach(function(event) {
-        event.date = event.date.slice(0, -2) + '01'; // ne garder que les mois
+        event.date = event.date.slice(0, -2) + '01'; // replace day by first day of the month
         currentAmount += event.increment;
 
         var toAdd = points.find(function(finalEvent) {
@@ -110,3 +121,22 @@ function makeTimeSeries(events, splitDate) {
 }
 
 });
+
+/**
+*@param	{Date} date     A date to convert to an ISO formated day.
+*/
+function formatDateToISOString(date) {
+    var d = new Date(date);
+    var month = '' + (d.getMonth() + 1);
+    var day = '' + d.getDate();
+    var year = d.getFullYear();
+
+    if (month.length < 2) {
+        month = '0' + month;
+    }
+    if (day.length < 2) {
+        day = '0' + day;
+    }
+
+    return [year, month, day].join('-');
+}
