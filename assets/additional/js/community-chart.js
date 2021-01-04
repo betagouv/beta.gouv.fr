@@ -6,7 +6,7 @@ Object.keys(window.data).forEach(function(employerType) {
     datasets[employerType] = window.data[employerType];
 
     // Round departure to next month
-    datasets[employerType] = datasets[employerType].map(function(event) { 
+    datasets[employerType] = datasets[employerType].map(function(event) {
         if(event.increment === -1) {
             oldDate = new Date(event.date);
             event.date = formatDateToISOString(new Date(oldDate.getFullYear(), oldDate.getMonth()+1, 1));
