@@ -2,7 +2,7 @@
 roles: Un·e chargé·e de déploiement
 startup: zero-logement-vacant
 junior: true
-open: true
+open: false
 title: Zéro Logement Vacant recrute une personne en charge du déploiement
 ---
 
