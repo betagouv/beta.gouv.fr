@@ -1,6 +1,6 @@
 ---
 fullname: Paul Vautrin-Grévisse
-role: Intrapreneure
+role: Intrapreneur
 missions:
   - start: 2021-01-05
     end: 2021-12-31
