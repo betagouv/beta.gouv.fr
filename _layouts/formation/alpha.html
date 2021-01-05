@@ -30,9 +30,13 @@ page.lang | default: site.lang | default: "en" %}
             </li>
             <li>
               <b>Où ?</b><br />
+              {% if page.alpha-location-link %}
               <a href="{{ page.alpha-location-link }}"
                 >{{ page.alpha-location }}</a
               >
+              {% else %}
+                {{ page.alpha-location }}
+              {% endif %}
             </li>
             {% if page.alpha-catering %}
             <li>
