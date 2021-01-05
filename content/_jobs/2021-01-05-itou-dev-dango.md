@@ -1,13 +1,13 @@
 ---
 roles: Développeur
-title: Itou recrute un développeur Django
+title: Itou recrute un développeur Django ou une développeuse Django
 contrat: indépendant
 startup: itou
 contact: tech@inclusion.beta.gouv.fr
 open: true
 ---
 
-# Itou recrute un développeur Django
+# Itou recrute un développeur ou une développeuse Django
 
 Chaque année, des centaines de milliers de personnes éloignées de l'emploi sont recrutées par des structures de l'Insertion par l'Activité Économique (IAE).
 
@@ -21,7 +21,7 @@ Nos utilisateurs sont :
 
 ## Rôle
 
-- Déveloper les nouvelles fonctionnalités
+- Développer les nouvelles fonctionnalités
 - Maintenir et améliorer l'existant
 - Déployer et monitorer l'application
 - Construire et maintenir l'infrastructure technique
