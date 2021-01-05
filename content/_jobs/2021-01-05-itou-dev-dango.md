@@ -1,5 +1,5 @@
 ---
-roles: Développeur
+roles: Développeur ou développeuse Django
 title: Itou recrute un développeur Django ou une développeuse Django
 contrat: indépendant
 startup: itou
