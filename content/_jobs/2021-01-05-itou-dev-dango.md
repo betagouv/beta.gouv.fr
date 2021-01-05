@@ -1,0 +1,65 @@
+---
+roles: Développeur
+title: Itou recrute un développeur Django
+contrat: indépendant
+startup: itou
+contact: tech@inclusion.beta.gouv.fr
+open: true
+---
+
+# Itou recrute un développeur Django
+
+Chaque année, des centaines de milliers de personnes éloignées de l'emploi sont recrutées par des structures de l'Insertion par l'Activité Économique (IAE).
+
+[inclusion.beta.gouv.fr](https://inclusion.beta.gouv.fr/) a pour mission de faciliter l'embauche de ces personnes.
+
+Nos utilisateurs sont :
+
+- les personnes en grande difficulté dans leur recherche d'emploi
+- les prescripteurs (Pôle Emploi, CAP Emploi, Missions Locales, services sociaux, SPIP, PJJ, CHRS, associations, etc)
+- les structures de l'IAE (employeurs)
+
+## Rôle
+
+- Déveloper les nouvelles fonctionnalités
+- Maintenir et améliorer l'existant
+- Déployer et monitorer l'application
+- Construire et maintenir l'infrastructure technique
+- Participer activement à la vie de l'équipe
+- Être force de proposition au sein de l'équipe sur les évolutions possibles du produit
+
+## Stack
+
+- Back : Django 3.1, Python 3.7, PostgreSQL 11, PostGIS
+- Front : Bootstrap 4, JavaScript, jQuery (Vue.js sera privilégié en cas de gros besoins côté client)
+- Ops : Docker Compose, PaaS Clever Cloud
+- Nos bonnes pratiques :
+    - nous faisons des itérations courtes
+    - nous testons notre code
+    - nous faisons des revues de code systématiques
+    - nous déployons souvent et par petits lots
+    - nous améliorons nos process internes en continu
+- Code ouvert : [https://github.com/betagouv/itou](https://github.com/betagouv/itou)
+- Démo : [https://demo.inclusion.beta.gouv.fr](https://demo.inclusion.beta.gouv.fr)
+
+## Profil recherché
+
+- Expérience significative en Django (idéalement plusieurs années)
+- Maîtrise du développement web
+- Capable d'intervenir côté front-end et côté back-end
+- Bon relationnel et capacité de vulgarisation
+
+## Environnement de travail
+
+Vous travaillerez au sein d'une équipe composée de plus de 15 personnes : intrapreneurs, développeurs, *business developers*, équipe support, *designers* UX/UI et *coachs*.
+
+L'équipe est dispersée à travers la France, et travaille principalement à distance (standup quotidien en visioconférence).
+
+- Charge : 4/5e
+- Durée : 6 mois renouvelables
+- Début souhaité : février ou mars
+- Contrat : freelance
+
+## Postuler
+
+Pour postuler : [tech@inclusion.beta.gouv.fr](mailto:tech@inclusion.beta.gouv.fr).
