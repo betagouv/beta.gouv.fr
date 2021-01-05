@@ -14,7 +14,6 @@ page.lang | default: site.lang | default: "en" %}
     <div class="documentation">
       {% include sidebar-approche.html %}
       <div class="main-pane">
-        <div class="markdown">{{ content }}</div>
         <h2 id="inscription">Prochaine session</h2>
         {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %} {%
         capture timestampEnd %}{{ page.alpha-end | date: '%s' }}{% endcapture %}
@@ -67,6 +66,7 @@ page.lang | default: site.lang | default: "en" %}
           <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.
         </p>
         {% endif %}
+        <div class="markdown">{{ content }}</div>
       </div>
     </div>
   </div>
