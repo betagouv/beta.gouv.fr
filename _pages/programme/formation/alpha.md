@@ -6,10 +6,10 @@ additional_css:
   - side-panel.css
   
 # Dates de la prochaine formation
-alpha-start: 2021-01-26
-alpha-end: 2021-01-26
+alpha-start: 2021-01-28
+alpha-end: 2021-01-28
 alpha-time: de 9h30 à 17h00
-alpha-location: en ligne
+alpha-location: en visio
 alpha-location-link:
 alpha-catering:
 alpha-more:
@@ -46,7 +46,7 @@ La formation se déroule sur une journée au cours de laquelle vous apprendrez �
 
 **Prochaine session**
 
-La prochaine session aura lieu le **mardi 26 janvier 2021**.
+La prochaine session aura lieu le **jeudi 28 janvier 2021**.
 
 Vous pouvez vous inscrire [via ce formulaire](https://startupdetat.typeform.com/to/SGQMt9f0).
 
