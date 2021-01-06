@@ -16,8 +16,8 @@ missions:
     end: 2021-06-30
     status: independent
     employer: Octo
-  startup:
-    - Diagoriente
+startups:
+  - Diagoriente
 previously:
   - la-bonne-formation
   - andi
