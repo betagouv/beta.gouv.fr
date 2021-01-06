@@ -11,13 +11,13 @@ sponsors:
       domaine_ministeriel: travail
       type: operateur     
 incubator: pole-emploi
+contact: mobiville@pole-emploi.fr
 phases:
   - name: investigation
     start: 2020-04-01
     end: 2020-06-04
   - name: construction
     start: 2020-06-04
-contact: mobiville@pole-emploi.fr
 ---
 **Problème** 
 
