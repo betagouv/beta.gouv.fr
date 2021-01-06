@@ -52,7 +52,7 @@ __Étape 8__ (fev 2020) Rejointe de l’ESIOC et de la DGA-MI sur le projet (Bor
 __Étape 9__ (dec 2020) Mise en production de la troisième version (PMV)   
 
 ## Résultats
-[Un site](sepia.fabnum.fr/) utilisé H24 au sein de la salle conduite du CNOA.   
+[Un site](https://sepia.fabnum.fr) utilisé H24 au sein de la salle conduite du CNOA.   
 Système d’information indispensable pour une optimisation de la mission de sûreté aérienne.
 
 ## en chiffres
