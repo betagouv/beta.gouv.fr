@@ -17,7 +17,7 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - Diagoriente
+  - diagoriente
 previously:
   - la-bonne-formation
   - andi
