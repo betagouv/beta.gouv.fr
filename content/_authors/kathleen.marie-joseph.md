@@ -9,3 +9,5 @@ missions:
 startups:
   - mobiville
 ---
+
+Passionnée par les projets innovants. Ce qui me motive c'est de pouvoir créer des services utiles aux usagers.
