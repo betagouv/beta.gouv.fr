@@ -2,7 +2,7 @@
 fullname: Nathalie Reyre
 role: Product Owner
 github: nathaliereyre
-avatar:https://ibb.co/jhKkgDw
+avatar: https://i.ibb.co/p2DjJdK/photo-cv.png
 missions:
   - start: 2015-12-01
     end: 2019-08-30
