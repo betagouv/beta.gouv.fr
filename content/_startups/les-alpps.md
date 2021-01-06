@@ -35,13 +35,22 @@ Pour éviter la multiplication des outils, l'EMHM a souhaité un outil unique su
 
 
 ## Chronologie
+
 __Étape 1__ (septembre) Compréhension du contexte et du besoin
+
 __Étape 2__ (octobre) : Définition d'une solution et réalisation des prototypes maquettes
+
 __Étape 3__ (novembre) : Test des prototypes.
+
 __Étape 4__ (Janvier) : Lancement des développement
+
 __Étape 5__ (juin) : Livraison version beta
+
+
 __Étape 6__ (juillet) : Retours de beta et planification des adaptation
+
 __Étape 7__ (septembre) : Test premier lot d'adaptation
+
 __Étape 8__ (décembre) : livraison PMV
 
 ## Résultats
