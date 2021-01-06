@@ -2,12 +2,13 @@
 fullname: Fanny Dauchez
 role: Chargée de déploiement
 missions:
-  - start: 2021-01-04
-    end: 2021-06-30
-    status: admin
   - status: independent
     start: 2020-09-01
     end: 2020-12-31
+  - start: 2021-01-04
+    end: 2021-06-30
+    status: admin
+    employer: DINUM
 startups:
   - itou
   - place-de-marche-inclusion
