@@ -12,7 +12,7 @@ phases:
 link: https://metiis.fabnum.fr
 repository:
 stats: false
-contact: frederic.bardolle@def.gouv.fr
+contact: romain.perroud@def.gouv.fr
 ---
 
 ## La réserve : concilier vie personnelle et engagement militaire

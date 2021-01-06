@@ -8,6 +8,8 @@ incubator: sgmas
 link: https://archifiltre.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/archifiltre
 contact: archifiltre@sg.social.gouv.fr
+stats: true
+stats_url: https://archifiltre.fabrique.social.gouv.fr/statistiques/
 events:
   - name: other
     date: 2018-01-07
