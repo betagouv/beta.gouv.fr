@@ -43,13 +43,20 @@ Pour les employés (tous les réservistes volontaires) :
 
 ## Chronologie
 __Etape 1__ (décembre 2019) Recueil du besoin/atelier utilisateur (Grenoble)
+
 __Etape 2__ (janvier 2020) Atelier d’idéation/réalisation des wireframes (Bourges)
+
 __Etape 3__ (janvier 2020) Réalisation des tests utilisateurs (Grenoble)
+
 __Etape 4__ (février 2020) Validation du périmètre/réalisation du premier livrable (Paris, Bourges)
+
 __Etape 5__ (mars/avril 2020) Réalisation des tests utilisateurs (à distance)
+
 __Etape 6__ (juin 2020) Mise en production de la version BETA 
+
 __Etape 7__ (juin 2020) Mise en production de la première version (PMV)
-__Etape 8__ (novembre 2020) Extension à de nouvelles Brigade et recueil des nouveaux besoins.
+
+__Etape 8__ (novembre 2020) Extension à de nouvelles Brigade et recueil des nouveaux besoins
 
 Suite à la bonne adhésion des réservistes à l’outil, l’objectif est désormais de réaliser un déploiement de celui-ci à d’autres brigades puis au national avec l’ajout de certaines fonctionnalités.
 
