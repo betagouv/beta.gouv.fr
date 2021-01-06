@@ -33,20 +33,29 @@ Avoir un  outil numérique qui simplifie, accélère et dématérialise le proce
 
 
 ## Chronologie 
-__Étape 1__ (S2 2018) : Hackathon « E – recrutement » et 1er ateliers    
+__Étape 1__ (S2 2018) : Hackathon « E – recrutement » et 1er ateliers
+
 Livrables :   
-Concaténation des meilleurs projets réalisés lors du hackathon     
-Réalisation User journey actuelle et idéale   
-Identification de l’architecture de la confidentialité (rôles et droits associés)   
-Réalisation Maquette cliquable    
-__Étape 2__ (S1 2019) : Début des développement   
+* Concaténation des meilleurs projets réalisés lors du hackathon     
+* Réalisation User journey actuelle et idéale   
+* Identification de l’architecture de la confidentialité (rôles et droits associés)   
+* Réalisation Maquette cliquable    
+
+__Étape 2__ (S1 2019) : Début des développement
+
 Livrables :    
-Fonctionnalités principales back et front office   
-__Étape 3__ (S2 2019) : Itération retours métier et continuité des développements Livrables : Fonctionnalités secondaires et écran de suivi statistique   
-__Étape 4__ (S1 et S2 2020) : Industrialisation du SI pour une utilisation grande échelle    
+* Fonctionnalités principales back et front office   
+
+__Étape 3__ (S2 2019) : Itération retours métier et continuité des développements
+
+Livrables :
+* Fonctionnalités secondaires et écran de suivi statistique   
+
+__Étape 4__ (S1 et S2 2020) : Industrialisation du SI pour une utilisation grande échelle
+
 Livrables :   
-Mise en conformité de l’outil aux exigences SSI, RGPD, loi transformation publique, d’archivage des données, respect des règles d’accessibilité      
-Amélioration itératif des fonctionnalités 
+* Mise en conformité de l’outil aux exigences SSI, RGPD, loi transformation publique, d’archivage des données, respect des règles d’accessibilité      
+* Amélioration itératif des fonctionnalités 
 
 ## Résultat 
 Un [site internet](https://civilsdeladefense.fabnum.fr)
