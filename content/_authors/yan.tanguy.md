@@ -2,8 +2,8 @@
 fullname: Yan Tanguy
 role: Intrapreneur
 missions:
-  - start: '2017-09-14'
-    end: '2018-03-30'
+  - start: 2017-09-14
+    end: 2018-03-30
     status: admin
     employer: dila
 startups :

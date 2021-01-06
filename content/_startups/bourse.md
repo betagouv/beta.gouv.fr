@@ -2,10 +2,21 @@
 title: Bourse
 mission: Demander et liquider une bourse de collège en ligne
 owner: DINUM
+sponsors: 
+    - name: Direction interministérielle du numérique
+      acronym: DINUM
+      domaine_ministeriel: education-nat
+      type: administration-centrale
 incubator: dinum
-status: alumni
-start: 2015-03-01
-end:
+events:
+  - name: end
+    date: 2018-01-01
+phases:
+  - name: investigation
+    start: 2015-03-01
+  - name: construction
+    start: 2015-03-01    
+  - name: alumni
 link:
 repository: https://github.com/betagouv/bourses/
 stats: false

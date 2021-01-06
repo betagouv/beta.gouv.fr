@@ -2,7 +2,7 @@
 fullname: Mickael Rizzi
 role: Intrapreneur
 missions:
-  - start: '2018-05-02'
+  - start: 2018-05-02
     end:
     status: admin
     employer: pole-emploi

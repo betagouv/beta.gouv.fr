@@ -5,8 +5,8 @@ github: walen_github
 avatar: 
 link: 
 missions: 
-  - start: '2020-06-02'
-    end: '2020-11-30' 
+  - start: 2020-06-02
+    end: 2020-11-30 
     status: admin
     employer: DGCCRF
 startups: 

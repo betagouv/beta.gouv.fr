@@ -4,7 +4,7 @@ role: Designer
 link: https://tsailly.net
 github: thibautsailly
 missions:
-  - start: '2019-02-01'
+  - start: 2019-02-01
     end:
     status: independent
     employer: Codeurs en Liberté

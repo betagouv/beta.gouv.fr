@@ -2,8 +2,8 @@
 fullname: Ivan Collombet
 role: Mentor
 missions:
-  - start: '2017-01-01'
-    end: '2019-07-31'
+  - start: 2017-01-01
+    end: 2019-07-31
     status: independent
     employer: icc
 previously:

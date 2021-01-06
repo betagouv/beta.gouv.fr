@@ -1,7 +1,7 @@
 ---
 roles: Un·e développeur·e full-stack en CDD de 3 ans
 techno: JavaScript
-open: true
+open: false
 title: CDD dev full-stack à l'incubateur des armées
 ---
 

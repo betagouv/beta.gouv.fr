@@ -2,7 +2,7 @@
 fullname: Alexandre Cantin
 role: Développeur
 missions:
-  - start: '2017-09-18'
+  - start: 2017-09-18
     end:
     status: admin
     employer: pole-emploi

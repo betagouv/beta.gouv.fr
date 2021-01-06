@@ -1,15 +1,22 @@
 ---
 fullname: Sabine Safi
-role: PO
+role: Coach / PO
 github: sabinesafi
 missions:
-  - start: '2019-02-04'
-    end: '2020-21-12'
+  - start: 2019-02-04
+    end: 2021-12-31
     status: independent
-    employer: lazone
 startups:
+    - friches
+    - comobi
+    - tout-est-permis
+    - innovation-urbaine
+previously:
     - transport
-    - lotocar
     - cartobio
+    - participation-citoyenne
+    - auto-partage
+badges:
+    - segur
 ---
 

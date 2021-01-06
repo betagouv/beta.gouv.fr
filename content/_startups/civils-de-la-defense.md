@@ -2,9 +2,17 @@
 title: Civils de la Défense
 mission: Recruter simplement des agents civils sous contrat
 owner: Ministère des Armées
+sponsors:
+    - name: Ministère des Armées
+      domaine_ministeriel: armees
+      type: administration-centrale
 incubator: fabnumdef
-status: acceleration
-start: 2018-06-01
+phases:
+  - name: investigation
+    start: 2018-06-01
+  - name: construction
+    start: 2018-06-01
+  - name: acceleration
 link: https://civilsdeladefense.fabnum.fr
 repository: https://github.com/betagouv/civilsdeladefense
 stats: true

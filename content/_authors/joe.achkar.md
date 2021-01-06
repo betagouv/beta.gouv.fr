@@ -5,12 +5,12 @@ github: JoeACHKAR
 avatar:
 link: https://www.linkedin.com/in/joeachkar/
 missions:
-  - start: '2020-05-18'
-    end: '2020-07-31'
+  - start: 2020-05-18
+    end: 2021-12-31
     status: independent
-    employer:
+    employer: octo
 startups:
-    - reserve-civique
+    - engagement-civique
 previously:
     - 
 ---

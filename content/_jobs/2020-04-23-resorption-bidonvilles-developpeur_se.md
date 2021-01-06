@@ -3,7 +3,7 @@ roles: développeur·se full-stack
 startup: resorption-bidonvilles
 techno: javascript
 junior: false
-open: true
+open: false
 title:  Résorption bidonvilles recrute un·e développeur·se full-stack
 ---
 
@@ -24,7 +24,7 @@ Les fonctionnalités disponibles sont : cartographie, suivi des sites et des act
 Dans le contexte de pandémie, la plateforme numérique permet en particulier de suivre l’accès à l’eau et les mesures de prévention sanitaire sur les sites.
 
 ### Modalités de travail
-Intégrée au sein du pôle Résorption des bidonvilles de la DIHAL, l’équipe de développement du produit travaille en direct avec ses utilisateurs finaux, lui permettant d’accorder une place importante aux retours utilisateurs et de partir des besoins de terrain. Le développeur viendra renforcer l’équipe constituée d’une chef.fe de projet, d’une designer UX et trois développeurs : le développeur historique, un développeur en appui (présente fiche de poste) et un développeur du service du numérique du Ministère qui pourrait rejoindre le projet dans les 3 mois à venir.
+Intégrée au sein du pôle Résorption des bidonvilles de la DIHAL, l’équipe de développement du produit travaille en direct avec ses utilisateurs finaux, lui permettant d’accorder une place importante aux retours utilisateurs et de partir des besoins de terrain. Le développeur viendra renforcer l’équipe constituée d’une chef.fe de projet, d’une designer UX et trois développeurs : le développeur historique, un développeur en appui (présente fiche de poste) et un développeur du service du numérique du Ministère qui rejoindra le projet en Septembre.
 
 ## Le profil et les missions du candidat
 ### Profil recherché
@@ -44,9 +44,9 @@ Vous savez travailler en équipe et vous êtes intéressé.e à co-construire l�
 - Travail avec les communautés open data, logiciel libre
 
 ### Détails techniques
-- **Statut** — à définir.
-- **Modalités de travail** — télétravail pendant le confinement, besoin de présence régulière à la Défense (test utilisateur, démonstration, rétrospective et planification)
-- **Date de début** — Courant mai 2020.
+- **Statut** — freelance
+- **Modalités de travail** — télétravail, besoin de présence régulière à la Défense (test utilisateur, démonstration, rétrospective et planification)
+- **Date de début** — Octobre 2020
 
 ### Envoyer une candidature: 
-sophie.jacquemont@dihal.gouv.fr et anis.safine@beta.gouv.fr, avec en copie recrutement.mineco@beta.gouv.fr
+sophie.jacquemont@dihal.gouv.fr, Tristan.Robert@developpement-durable.gouv.fr, et anis.safine@beta.gouv.fr, avec en copie recrutement.mineco@beta.gouv.fr

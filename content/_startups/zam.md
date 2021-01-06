@@ -1,11 +1,21 @@
 ---
 title: Zam
 mission: Alléger la charge de préparation par le gouvernement du débat parlementaire.
-owner: DINUM
+sponsors: 
+    - name: Direction interministérielle du numérique
+      acronym: DINUM
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
 incubator: dinum
-status: acceleration
-start: 2018-03-28
-end:
+phases:
+  - name: investigation
+    start: 2018-03-28
+  - name: construction
+    start: 2018-03-28
+  - name: transfer
+    start: 2020-01-01
+  - name: alumni
+    start: 2020-07-01
 link:
 repository: https://github.com/betagouv/zam
 stats: false
@@ -56,3 +66,7 @@ La solution numérique est expérimentée depuis le dernier trimestre 2018 sur d
 Sur l’année 2019, les expérimentations se poursuivent de même que les développements, guidés par les retours des testeurs ainsi que par les expertises métier des membres du groupe d’utilisateurs (passés, futurs et potentiels) qui a été formé.
 
 L'enjeu est désormais d'organiser la transition, souhaitée pour le début de l'année 2020, vers un fonctionnement en routine dans lequel Zam est l'outil gouvernemental de gestion des amendements, disponible pour toutes les administrations.
+
+## Le transfert
+
+Zam a été transféré par l'équipe startup d'Etat aux services du Premier ministre afin d'être généralisé au début de l'année 2020. Le Secrétariat général du Gouvernement et la DILA mettent désormais à la disposition de l'ensemble des ministères l'outil sous le nom de Signale. Pour plus d'information, contacter David Sarthou, reponsable de pôle au SGG à l'adresse david.sarthou@sgg.pm.gouv.fr

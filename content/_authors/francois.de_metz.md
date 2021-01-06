@@ -4,8 +4,8 @@ role: Développeur
 link: https://2metz.fr/
 github: francois2metz
 missions:
-  - start: '2019-02-25'
-    end: '2020-03-20'
+  - start: 2019-02-25
+    end: 2020-03-20
     status: independent
 previously:
     - eva

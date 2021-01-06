@@ -4,8 +4,8 @@ role: Full-stack
 github: Gibrail
 link: http://gibrail.com
 missions:
-  - start: '2019-10-24'
-    end: '2020-12-31'
+  - start: 2019-10-24
+    end: 2020-12-31
     status: admin
     employer: Caisse des Dépôts et Consignations
 startups:

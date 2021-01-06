@@ -11,6 +11,7 @@ backend:
     uploadMedia: Nouvelle image {{path}}
     deleteMedia: Suppression de l'image {{path}}
   squash_merges: true
+  open_authoring: true
 
 # Permet d'expérimenter en local
 # cf. https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
@@ -38,10 +39,11 @@ relation_default_options: &relation_default_options
   searchFields: [slug, title]
 
 date_field_defaults: &date_field_defaults
-  widget: date
+  widget: datetime
   format: YYYY-MM-DD
   dateFormat: YYYY-MM-DD
-  default: ''
+  timeFormat: false
+  default: null
 
 collections:
   - name: incubators
@@ -81,16 +83,59 @@ collections:
       - label: Objectif
         name: mission
         widget: string
-      - label: Administration partenaire
+      - label: Nom affiché pour l'administration partenaire
         name: owner
         widget: string
+      - label: Détails administrations partenaires 
+        name: sponsors
+        widget: list
+        collapsed: false
+        fields:
+          - label: Nom
+            name: name
+            widget: string
+          - label: Acronyme
+            name: acronym
+            widget: string
+            required: false
+          - label: "Type"
+            hint: "Quelle est le type de partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter"
+            name: "type"
+            widget: "select"
+            required: false
+            options:
+              - { label: "Administration centrale", value: "administration-centrale" }
+              - { label: "Opérateur", value: "operateur" }
+              - { label: "Sécurité sociale", value: "securite-sociale" }
+              - { label: "Collectivité territoriale ", value: "collectivite-territoriale" }
+              - { label: "Autre", value: "autre" }
+          - label: "Domaine ministériel"
+            hint: "Quelle est le domaine ministériel du partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter"
+            name: "domaine_ministeriel"
+            widget: "select"
+            required: false
+            options:
+              - { label: "Affaires étrangères", value: "affaires-etrangeres" }
+              - { label: "Affaires sociales", value: "affaires-sociales" }
+              - { label: "Agriculture", value: "agriculture" }
+              - { label: "Armées", value: "armees" }
+              - { label: "Bercy", value: "bercy" }
+              - { label: "Culture", value: "culture" }
+              - { label: "Education nationnale", value: "education-nat" }
+              - { label: "Enseignement supérieur", value: "enseignement-sup" }
+              - { label: "Environnement", value: "environnement" }
+              - { label: "Intérieur", value: interieur }
+              - { label: "Outre-mer", value: "outre-mer" }
+              - { label: "Santé", value: "sante" }
+              - { label: "Service du Premier Ministre", value: "spm" }
+              - { label: "Sport", value: "sport" }
+              - { label: "Travail", value: "travail" }
+              - { label: "Territoires", value: "territoires" }
+              - { label: "Autres", value: "autres" }
       - <<: *relation_default_options
         label: Incubateur
         name: incubator
-        collection: "incubators"
-      - label: Status
-        name: status
-        widget: string
+        collection: incubators
       - label: Lien vers le produit
         name: link
         widget: string
@@ -107,21 +152,51 @@ collections:
         name: stats
         widget: boolean
         required: false
-      - <<: *date_field_defaults
-        label: "Date de début de l'investigation"
-        name: start
-      - <<: *date_field_defaults
-        label: "Date du lancement du produit"
-        name: product_launch_date
-        required: false
-      - <<: *date_field_defaults
-        label: "Date du passage à un produit d'impact national majeur"
-        name: national_scale_date
-        required: false
-      - <<: *date_field_defaults
-        label: "Date de l'abandon"
-        name: end
-        required: false
+      - label: Évènements marquants
+        name: events
+        label_singular: évènement marquant
+        widget: list
+        collapsed: false
+        fields:
+          - label: Type d'évènement
+            name: name
+            widget: relation
+            valueField: "{{slug}}"
+            displayFields: ["{{label}} ({{slug}})"]
+            searchFields: [slug, label]
+            collection: events
+          - <<: *date_field_defaults
+            label: Date approximative
+            name: date
+          - label: Commentaire
+            name: comment
+            widget: string
+            required: false
+      - label: Phases de la plus ancienne à la plus récente
+        name: phases
+        label_singular: phase
+        widget: list
+        hint: Indiquez les étapes de la vie du produit de la plus ancienne à la plus récente.
+        collapsed: false
+        fields:
+          - label: Nom de la phase
+            name: name
+            widget: relation
+            valueField: "{{slug}}"
+            displayFields: ["{{label}} ({{slug}})"]
+            searchFields: [slug, label]
+            collection: phases
+          - <<: *date_field_defaults
+            label: Date de début
+            name: start
+          - <<: *date_field_defaults
+            label: Date de fin de la phase ou de passage à une autre phase
+            name: end
+            required: false
+          - label: Commentaire
+            name: comment
+            widget: string
+            required: false
       - label: Description
         name: body
         widget: markdown
@@ -204,8 +279,39 @@ collections:
         collection: startups
         required: false
         multiple: true
+      - label: Badges
+        name: "badges"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+           - { label: "Ségur", value: "segur" }
       - label: Description
         hint: "Raconte-nous qui tu es dans une phrase percutante !"
         name: body
         widget: markdown
         required: false
+  - name: phases
+    label: Phases
+    label_singular: Phase
+    folder: "content/_phases"
+    delete: false
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: status, name: status, widget: string }
+      - { label: label, name: label, widget: string }
+      - { label: type_label, name: type_label, widget: string }
+      - { label: order, name: order, widget: number }
+      - { label: short_description, name: short_description, widget: string }
+  - name: events
+    label: Évènement de SET
+    label_singular: Évènement
+    folder: "content/_events"
+    delete: false
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: label, name: label, widget: string }

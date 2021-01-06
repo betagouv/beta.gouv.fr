@@ -3,11 +3,14 @@ fullname: Damien Dufourd
 role: Coach
 github: damiendufourd
 missions:
-  - start: '2018-09-04'
-    end: '2020-06-30'
+  - start: 2018-09-04
+    end: 2021-06-30
     status: independent
 startups:
   - diagoriente
   - histologe
   - apprentissage
+  - cmachance
+badges:
+  - segur
 ---

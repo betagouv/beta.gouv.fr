@@ -3,8 +3,8 @@ fullname: Chaker Bejaoui
 role: coach
 avatar: https://image.ibb.co/jJrbSd/CB.png
 missions:
-  - start: '2018-05-18'
-    end: '2019-03-15'
+  - start: 2018-05-18
+    end: 2019-03-15
     status: service
     employer: numa
 startups:

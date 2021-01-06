@@ -2,10 +2,24 @@
 title: Permis de construire facile
 mission: Déposez et gérez votre demande de permis de construire en toute simplicité
 owner: Ministère de la Transition écologique et solidaire
+sponsors:
+    - name: Direction generale de l'Amenagement, du Logement et de la Nature / Direction de l'habitat, de l'urbanisme et des paysages
+      acronym: DGALN / DHUP
+      domaine_ministeriel: environnement
+      type: administration-centrale
 incubator: mtes
-status: alumni
-start: 2018-11-01
-end: 2019-04-30
+events:
+  - name: end
+    date: 2019-04-30
+phases:
+  - name: investigation
+    start: 2018-11-01
+    end: 2018-12-31
+  - name: construction
+    start: 2018-12-31
+    end: 2019-04-30
+  - name: alumni
+    start: 2019-04-30
 link:
 repository: 
 stats: false

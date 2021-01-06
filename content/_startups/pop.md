@@ -3,13 +3,21 @@ title: Plateforme Ouverte du Patrimoine
 mission: Valoriser notre patrimoine culturel auprès du plus grand nombre
 incubator: dinum
 owner: Ministère de la Culture
-status: alumni
-start: 2018-04-01
-end:
+sponsors: 
+    - name: Direction générale des patrimoines
+      acronym: DGPat
+      domaine_ministeriel: culture
+      type: administration-centrale
+phases:
+  - name: investigation
+    start: 2018-04-01
+  - name: construction
+    start: 2018-04-01
+  - name: alumni
 link: https://pop.culture.gouv.fr/
 repository: https://github.com/betagouv/pop
 stats: true
-contact: sandrine.della-bartolomea@culture.gouv.fr
+contact: pop@culture.gouv.fr
 ---
 
 ## Le patrimoine est l'affaire de tous : vers une Plateforme Ouverte du Patrimoine (POP)

@@ -2,74 +2,18 @@
 layout: default
 ---
 
-{%- comment -%}
-  Préparation des cards des membres de la communauté
-{%- endcomment -%}
-
 {%- capture build_date -%}{{ site.time | date:"%Y-%m-%d" }}{%- endcapture -%}
-
-{%- assign authors = site.authors -%}
-{%- assign authors = authors | sort: 'fullname' -%}
-
-{%- comment -%}
-  Pour le tri des auteurs, il faut tricher !
-  1) Faire une liste de toutes les dates des missions.first.start des membres
-     Liquid ne permet pas d'initialiser proprement un array, il faut tricher très fort
-  2) Supprimer les doublons, la trier et la renverser
-  3) Parcourir la liste et sélectionner les auteurs en fonction de cette date à l'aide d'un if
-{%- endcomment -%}
-
-{%- assign start_dates = ", " | split: ", " -%}
-{%- for author in authors -%}
-  {%- assign start_date_to_concat = author.missions.first.start | date: "%Y-%m-%d" | split: " " -%}
-  {%- assign start_dates = start_dates | concat: start_date_to_concat -%}
-{%- endfor -%}
-{%- assign start_dates = start_dates | uniq -%}
-{%- assign start_dates = start_dates | sort -%}
-{%- assign start_dates = start_dates | reverse -%}
-
-{%- assign authors_active = '' -%}
-{%- assign authors_inactive = '' -%}
-{%- assign members_count = 0 -%}
-
-{%- capture to_append -%}
-  {%- include card-community.html author=page.hire_card -%}
-{%- endcapture -%}
-{%- assign authors_active = authors_active | append: to_append -%}
-
-{%- for start_date in start_dates -%}
-  {%- if start_date > build_date -%}
-    {%- continue -%}
-  {%- endif -%}
-  {%- for author in authors -%}
-    {%- capture start_date_as_string -%}{{ author.missions.first.start | date: "%Y-%m-%d" }}{%- endcapture -%}
-    {%- if start_date_as_string == start_date -%}
-      {%- capture end_date_as_string -%}{{ author.missions.last.end | date: "%Y-%m-%d" }}{%- endcapture -%}
-      {%- if end_date_as_string == '' or end_date_as_string > build_date -%}
-        {%- capture to_append -%}
-          {%- include card-community.html author=author -%}
-        {%- endcapture -%}
-        {%- assign authors_active = authors_active | append: to_append -%}
-        {%- assign members_count = members_count | plus: 1 -%}
-      {%- else -%}
-        {%- capture to_append -%}
-          {%- include card-community.html author=author -%}
-        {%- endcapture -%}
-        {%- assign authors_inactive = authors_inactive | append: to_append -%}
-      {%- endif -%}
-    {%- endif -%}
-  {%- endfor -%}
-{%- endfor -%}
 
 {%- assign lang = page.lang | default: site.lang | default: "fr" -%}
 <div class="page article">
   {%- include hero-page.html title=page.title -%}
+  {%- assign current = site.authors | community: 'current' -%}
   <section class="section section-white">
     <div class="container">
       <h3>Évolution des effectifs</h3>
       <div id="chart-wrapper">
           <canvas>
-              Nous avons actuellement {{ members_count }} membres.
+              Nous avons actuellement {{ current | length }} membres.
           </canvas>
       </div>
     </div>
@@ -83,7 +27,9 @@ layout: default
     <div class="container community">
       <h2>Les membres actifs</h2>
       <div class="grid">
-        {{ authors_active }}
+        {%- for author in current -%}
+          {%- include card-community.html author=author -%}
+        {%- endfor -%}
       </div>
     </div>
   </section>
@@ -92,7 +38,10 @@ layout: default
     <div class="container community alumni">
       <h2>Les anciennes et les anciens</h2>
       <div class="grid">
-        {{ authors_inactive }}
+        {%- assign alumnis = site.authors | community: 'past' -%}
+        {%- for author in alumnis -%}
+          {%- include card-community.html author=author -%}
+        {%- endfor -%}
       </div>
     </div>
   </section>
@@ -101,49 +50,6 @@ layout: default
 <script type="text/javascript">
 (function() {
     window.buildDate = '{{ build_date }}';
-    window.data = {
-        admin: [
-          {%- for person in site.authors -%}
-            {%- for mission in person.missions -%}
-              {%- if mission.status == 'admin' -%}
-                {%- if mission.start -%}
-                  { date: '{{ mission.start }}', increment: 1 },
-                {%- endif -%}
-                {%- if mission.end and mission.end != '' -%}
-                  { date: '{{ mission.end }}', increment: -1 },
-                {%- endif -%}
-              {%- endif -%}
-            {%- endfor -%}
-          {%- endfor -%}
-        ],
-        independent: [
-          {%- for person in site.authors -%}
-            {%- for mission in person.missions -%}
-              {%- if mission.status == 'independent' -%}
-                {%- if mission.start -%}
-                  { date: '{{ mission.start }}', increment: 1 },
-                {%- endif -%}
-                {%- if mission.end and mission.end != '' -%}
-                  { date: '{{ mission.end }}', increment: -1 },
-                {%- endif -%}
-              {%- endif -%}
-            {%- endfor -%}
-          {%- endfor -%}
-        ],
-        service: [
-          {%- for person in site.authors -%}
-            {%- for mission in person.missions -%}
-              {%- if mission.status == 'service' -%}
-                {%- if mission.start -%}
-                  { date: '{{ mission.start }}', increment: 1 },
-                {%- endif -%}
-                {%- if mission.end and mission.end != '' -%}
-                  { date: '{{ mission.end }}', increment: -1 },
-                {%- endif -%}
-              {%- endif -%}
-            {%- endfor -%}
-          {%- endfor -%}
-        ]
-    };
+    window.data = {% render_community_stats %}
 })();
 </script>

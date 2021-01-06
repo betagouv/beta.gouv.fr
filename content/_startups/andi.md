@@ -2,10 +2,24 @@
 title: ANDi
 mission: Faciliter l'immersion professionnelle des personnes en situation de handicap
 owner: Caisse des dépôts 
+sponsors: 
+    - name: Caisse des dépôts et consignations
+      acronym: Caisse des dépôts
+      domaine_ministeriel: autres
+      type: autre
 incubator: dinum
-status: construction
-start: 2019-05-16 
-end: 2020-05-15
+events:
+  - name: end
+    date: 2020-05-15
+phases:
+  - name: investigation
+    start: 2019-05-16
+    end: 2019-09-15
+  - name: construction
+    start: 2019-09-15
+    end: 2020-05-15
+  - name: alumni
+    start: 2020-05-15
 link: https://andi.beta.gouv.fr/
 repository: https://github.com/betagouv/andi
 stats: true

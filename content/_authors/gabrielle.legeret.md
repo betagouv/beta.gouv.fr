@@ -2,8 +2,8 @@
 fullname: Gabrielle Légeret
 role: Business développeuse
 missions:
-  - start: '2018-05-09'
-    end: '2018-06-08'
+  - start: 2018-05-09
+    end: 2018-06-08
     status: independent
     employer: octo
 startups:

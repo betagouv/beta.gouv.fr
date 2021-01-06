@@ -2,7 +2,7 @@
 fullname: Axel Haustant
 role: Développeur
 missions:
-  - start: '2013-08-27'
+  - start: 2013-08-27
     end:
     status: independent
 startups:

@@ -12,12 +12,18 @@ missions:
     status: admin
     employer: dinum
   - start: 2019-12-06
-    end: 2020-12-24
+    end: 2020-12-25
     status: admin
     employer: dinum
+  - start: 2021-01-04
+    end: 2021-06-30
+    status: independent
 startups:
+  - lapins
+previously:
   - mes-aides
   - voir-et-localiser
-  - lapins
+badges:
+  - segur
 ---
 Tout faire pour les usagers

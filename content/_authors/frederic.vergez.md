@@ -1,16 +1,13 @@
 ---
 fullname: Frédéric Vergez
-role: Développeur fullstack
+role: Développeur
 link: https://about.me/ikarius
 github: ikarius
 missions:
-  - start: '2020-03-04'
-    end: '2020-09-04'
+  - start: 2020-03-04
+    end: 2021-06-30
     status: independent
     employer: octo
 startups:
     - itou
 ---
-
-Développeur / couteau Suisse
-"Zuhaixka trinko, igitai zorrotz"

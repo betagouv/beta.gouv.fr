@@ -2,7 +2,7 @@
 roles: un ou une chargé.e de déploiement
 title: "Aidants Connect recrute : un.e chargé.e de déploiement"
 startup: aidantsconnect
-open: true
+open: false
 ---
 
 La Startup d’État Aidants Connect recherche un(e) "business developer" qui est en charge du déploiement, pour accompagner sa phase d’accélération et de déploiement progressif dans les territoires.

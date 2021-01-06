@@ -2,10 +2,19 @@
 title: Boussole des droits
 mission: Accéder à des conseils professionnels à proximité pour trouver un logement, une formation ou un emploi
 owner: Direction de la jeunesse
+sponsors: 
+    - name: Direction de la jeunesse, de l'éducation populaire et de la vie associative
+      acronym: DJEPVA
+      domaine_ministeriel: education-nat
+      type: administration-centrale
 incubator: dinum
-status: alumni
-start: 2015-12-01
-end:
+events:
+  - name: end
+    date: 2017-06-30
+phases:
+  - name: investigation
+    start: 2015-12-01
+  - name: alumni
 link:
 repository: https://github.com/betagouv/boussole
 stats: false

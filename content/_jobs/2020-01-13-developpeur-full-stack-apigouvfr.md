@@ -1,4 +1,4 @@
-----
+---
 roles:  développeur.se full stack Frontend
 startup: api.gouv.fr
 techno: React 16, NextJS, NodeJS 12

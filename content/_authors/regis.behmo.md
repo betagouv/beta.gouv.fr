@@ -2,7 +2,7 @@
 fullname: Régis Behmo
 role: Développeur full-stack senior / Data trucs
 missions:
-  - start: '2017-10-05'
+  - start: 2017-10-05
     end:
     status: independent
     employer: ey

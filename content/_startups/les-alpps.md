@@ -3,8 +3,11 @@ title: Les Alpps
 mission: Sécuriser les sorties en montagne
 owner: Ministère des Armées
 incubator: fabnumdef
-status: construction
-start: 2019-08-01
+phases:
+  - name: investigation
+    start: 2019-08-01
+  - name: construction
+    start: 2019-08-01
 link:
 repository:
 stats: false

@@ -2,10 +2,18 @@
 title: API Géo
 mission: Interrogez les référentiels géographiques plus facilement
 owner: DINUM
+sponsors: 
+    - name: Direction interministérielle du numérique
+      acronym: DINUM
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
 incubator: apigouv
-status: alumni
-start: 2015-01-01
-end:
+phases:
+  - name: investigation
+    start: 2015-01-01
+  - name: construction
+    start: 2015-01-01    
+  - name: alumni
 link: https://geo.api.gouv.fr
 repository: https://github.com/etalab/geoapi
 stats: true

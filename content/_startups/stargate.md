@@ -3,8 +3,12 @@ title: STARGATE
 mission: Repenser l'accès aux bases de défense
 owner: Ministère des Armées
 incubator: fabnumdef
-status: construction
-start: 2020-01-01
+phases:
+  - name: investigation
+    start: 2019-10-01
+    end: 2019-11-30
+  - name: construction
+    start: 2019-11-30
 link:
 repository:
 stats: false

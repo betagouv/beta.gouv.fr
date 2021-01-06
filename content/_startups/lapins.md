@@ -1,20 +1,29 @@
 ---
-title: RDV Solidarités (anciennement Lapins)
+title: RDV-Solidarités
 mission: Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité
 owner: Consortium de départements
-incubator: dinum
-status: acceleration
-start: 2018-01-18
-end: 
-link: https://rdv-solidarites.fr
+sponsors:
+    - name: Fabrique des territoire
+      acronym:
+      domaine_ministeriel: territoires
+      type: collectivite-territoriale
+incubator: anct
+phases:
+  - name: investigation
+    start: 2018-01-18
+  - name: construction
+    start: 2018-01-18
+  - name: acceleration
+link: https://www.rdv-solidarites.fr
 repository: https://github.com/betagouv/rdv-solidarites.fr
-stats: false
+stats: true
+stats_url: https://www.rdv-solidarites.fr/stats/
 contact: contact@rdv-solidarites.fr
 ---
 
 ## Des milliers de lapins dans les Maisons départementales de solidarité !
 
-Chaque année, des dizaines de milliers de rendez-vous pris dans les maisons départementales de solidarité (MDS). Selon nos estimations réalisées dans plusieurs départements, près de 20 % en moyenne ne sont ni honorés, ni excusés : ce sont des lapins. A ces lapins s'ajoutent des rendez-vous annulés et non remplacés, portant la moyenne des rendez-vous vacants à près de 25%.
+Chaque année, des dizaines de milliers de rendez-vous sont pris dans les maisons départementales de solidarité (MDS). Selon nos estimations réalisées dans plusieurs départements, près de 20 % en moyenne ne sont ni honorés, ni excusés : ce sont des lapins. À ces lapins s'ajoutent des rendez-vous annulés et non remplacés, portant la moyenne des rendez-vous vacants à près de 25%.
 
 Le projet est né dans le Pas-de-Calais, sur proposition de deux travailleuses médico-sociales devenues intrapreneuses du projet. Pendant un an, l'équipe a cherché à caractériser le problème et ses causes et à expérimenter des solutions. Elle a trouvé les moyens de réduire le taux de lapins à un niveau inférieur à 5% sur les zones pilotes. 
 
@@ -37,5 +46,3 @@ Une organisation projet est mise en place à plusieurs niveaux : une équipe de 
 Chaque département partenaire identifie une ou plusieurs maisons pilotes. Nos relais sont en priorité les travailleurs des MDS : assistants sociaux, infirmières puéricultrices, médecins de PMI et fonctions support (secrétariat, accueil téléphonique). Nous les interrogeons directement, pour construire avec eux une solution adaptée à leurs usages. Ils testent en continu la solution proposée. 
 
 La démarche est conçue comme progressive. Nous adresserons les enjeux de chaque service, en commençant par la PMI et l'accueil social. Le déploiement de la solution suivra ensuite deux axes : l'extension aux autres services de chaque maison (aide sociale à l'enfance, RSA, etc.) et l'élargissement géographique aux autres maisons du département. 
-
-

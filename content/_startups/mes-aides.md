@@ -2,18 +2,34 @@
 title: Mes Aides
 mission: Évaluer ses droits à 28 aides sociales. En moins de 7 minutes.
 owner: DINUM
+sponsors: 
+    - name: Direction interministérielle du numérique
+      acronym: DINUM
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
 incubator: dinum
-status: alumni
 link: https://mes-aides.gouv.fr
 repository: https://github.com/betagouv/mes-aides-ui
 contact: contact@mes-aides.gouv.fr
-start: 2014-05-01
-product_launch_date: 2014-10-02
-national_scale_date: 2017-03-10
-end: 2020-03-03
+events:
+  - name: product_launch
+    date: 2014-10-01
+  - name: national_impact
+    date: 2017-03-10
+  - name: end
+    date: 2020-03-03
+phases:
+  - name: construction
+    start: 2014-05-01
+    end: 2017-03-10
+  - name: success
+    start: 2017-03-10
+    end: 2020-03-03
+  - name: alumni
+    start: 2020-03-03
 ---
 
-**[L'approche Startup d'État](https://github.com/betagouv/beta.gouv.fr/wiki/Comment-pr%C3%A9senter-beta.gouv.fr#approche) a été abandonnée par ce service publique numérique. Pour aller directement au post-mortem, c'est [ici](#quelques-éléments-de-contexte).**
+**[L'approche Startup d'État](https://github.com/betagouv/beta.gouv.fr/wiki/Comment-pr%C3%A9senter-beta.gouv.fr#approche) a été abandonnée par ce service public numérique. Pour aller directement au post-mortem, c'est [ici](#quelques-éléments-de-contexte).**
 
 Simulez vos droits à plus d’une trentaine de prestations sociales en quelques minutes. Mes Aides compare votre situation personnelle aux critères des [principales aides nationales](https://github.com/betagouv/mes-aides-ui/wiki#les-aides-calculées), comme le RSA, la CMU-C ou les allocations familiales, ainsi que de certaines aides locales.
 

@@ -2,10 +2,23 @@
 title: Visam
 mission: Fluidifier le dialogue social de la  « Direction des ressources humaines » de l’État.
 owner: DGAFP
+sponsors: 
+    - name: Direction générale de l'administration et de la fonction publique
+      acronym: DGAFP
+      domaine_ministeriel: spm # Service du premier ministre
+      type: administration-centrale
 incubator: dinum
-status: construction
-start: 2020-02-20
-end:
+phases:
+  - name: investigation
+    start: 2019-12-01
+    end: 2020-01-30
+  - name: construction
+    start: 2020-01-30
+  - name: alumni
+    start: 2020-12-14
+events:
+  - name: end
+    date: 2020-12-14
 link:
 repository: https://github.com/betagouv/visam
 stats: false
@@ -55,10 +68,12 @@ La réussite de Visam pourra être mesurée par :
 - l’amélioration de la fluidité des échanges avec les partenaires sociaux tant en amont que pendant la séance d’examen.
 
 
-## La stratégie de mise sur le marché
+## Interruption du partenariat
 
-La solution numérique sera expérimentée avec la DGAFP sur un CCFP / CSFPE courant 2020. 
+La solution numérique devait être expérimentée avec la DGAFP sur un CCFP / CSFPE courant 2020. 
 
-Il est envisagé d’associer les partenaires sociaux en tant qu’utilisateurs pour la saisie des amendements.
+Il avait été envisagé d’associer les partenaires sociaux en tant qu’utilisateurs pour la saisie des amendements. Le produit aurait également être pu proposé aux administrations en charge des CSFPT et CSFPH.
 
-Le produit pourrait également être proposé aux administrations en charge des CSFPT et CSFPH.
+La crise sanitaire de mars 2020 a ralenti les travaux, interrompus en juillet 2020. La reprise des travaux est conditionnée à la disponibilité d'un agent public intrapreneur à la DGAFP pour porter la reprise de la construction du service en interne. 
+
+

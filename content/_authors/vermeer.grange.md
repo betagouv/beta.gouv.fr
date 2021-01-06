@@ -3,11 +3,11 @@ fullname: Vermeer Grange
 role: Développeur web / Data scientist
 github: vgrange
 missions:
-  - start: '2016-10-24'
+  - start: 2016-10-24
     end:
     status: independent
     employer: ey / pole-emploi
-  - start: '2019-09-01'
+  - start: 2019-09-01
     end:
     status: independent
     employer: octo

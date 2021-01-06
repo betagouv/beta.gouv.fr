@@ -3,8 +3,8 @@ fullname: Jill-Jênn Vie
 role: Ingénieur recherche
 link: http://jill-jenn.net
 missions:
-  - start: '2016-10-03'
-    end: '2017-06-30'
+  - start: 2016-10-03
+    end: 2017-06-30
     status: independent
     employer: education-nationale
 startups:
