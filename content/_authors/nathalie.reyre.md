@@ -2,7 +2,7 @@
 fullname: Nathalie Reyre
 role: Product Owner
 github: nathaliereyre
-avatar: https://static8.viadeo-static.com/4KOb8isx1rjIYUn1rzQZxPYEWGo=/300x300/member/002j11g5ucsfjqc%3Fts%3D1323192285000
+avatar: https://i.ibb.co/p2DjJdK/photo-cv.png
 missions:
   - start: 2015-12-01
     end: 2019-08-30
@@ -16,6 +16,8 @@ missions:
     end: 2021-06-30
     status: independent
     employer: Octo
+startups:
+  - diagoriente
 previously:
   - la-bonne-formation
   - andi
