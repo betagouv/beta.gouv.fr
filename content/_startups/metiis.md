@@ -12,7 +12,7 @@ phases:
 link: https://metiis.fabnum.fr
 repository:
 stats: false
-contact: romain.perroud@def.gouv.fr ou metiis@fabnum.fr
+contact: metiis@fabnum.fr
 ---
 
 ## Contexte
