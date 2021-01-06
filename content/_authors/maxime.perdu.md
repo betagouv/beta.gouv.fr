@@ -6,7 +6,7 @@ avatar:
 link: 
 missions:
   - start: 2020-08-20
-    end: 2020-12-31   
+    end: 2021-12-31   
     status: independent
 startups : 
   - engagement-civique
