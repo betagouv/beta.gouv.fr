@@ -13,7 +13,7 @@ $(function() {
     *   Work around Chart.js' unability to stack time series unless they explicitly share their abscissa,
     *   by adding neutral data points to all datasets whenever another changes.
     *   dataByDate : each key is a date, and contains an obj with the datasets' keys 
-    *   and their corresponding values for the date 0 (neutral value) if none.
+    *   and their corresponding values for the date, 0 (neutral value) if none.
     */
     var dataByDate = {};
     employerTypes.forEach(function(employerType) {
