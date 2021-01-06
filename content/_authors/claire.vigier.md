@@ -7,6 +7,10 @@ missions:
     end: 2021-12-31
     status: service
     employer: NUMA
-startups: []
-previously: []
+startups:
+  - trackdechets
+  - kelrisks
+  - mobilic
+previously:
+  - permis-de-construire-facile
 ---
