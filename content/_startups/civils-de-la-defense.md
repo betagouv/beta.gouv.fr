@@ -62,10 +62,16 @@ Un [site internet](https://civilsdeladefense.fabnum.fr)
 
 ## en chiffres 
 Aujourd’hui Civils de la Défense c’est : 
+
 -50% sur le temps de recrutement (6/8 mois à 3 mois)
+
 +500 utilisateurs minarm
+
 +150 000 visiteurs 
+
 +10 000 candidature
+
 400 candidature traitées / mois
+
 6% des candidats sont recrutés
 
