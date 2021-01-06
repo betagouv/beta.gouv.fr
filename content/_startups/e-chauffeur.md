@@ -11,27 +11,55 @@ phases:
   - name: acceleration
 repository: https://github.com/fabnumdef/e-chauffeur
 stats: false
-contact: frederic.bardolle@def.gouv.fr
+contact: romain.perroud@def.gouv.fr
 ---
 
-## De nouveaux services de mobilité
+## Contexte 
+Dans un contexte de réduction du parc automobile du ministère des Armées, le centre interarmées du soutien multiservices (CIM) multiplie les initiatives pour promouvoir de nouvelles offres de mobilité : covoiturage, mise à disposition de vélos à assistance électrique, réservation simplifiée et permanente (24/7) de véhicules partagés.
 
-Dans un contexte de réduction du parc automobile du ministère des armées, le Centre d’Expertise de Soutien Général des Armées (CESGA) multiplie les initiatives pour promouvoir de nouveaux services de mobilités alternatifs à la voiture individuelle comme le covoiturage, le prêt de vélos à assistance électriques ou la réservation en ligne de véhicules partagés avec gestion des clefs automatisée.
+## Problématique
+e-Chauffeur est une solution de transport avec chauffeur qui permet à tout le personnel du ministère des armées de planifier un trajet professionnel avec chauffeur d’un point A à un point B à une heure donnée. C’est une offre de service locale fondée sur une solution nationale, conçue pour s’adapter aux besoins de chaque base de défense : type de transport concerné, horaires de service, lieux de destination, etc.
 
-Le concept est simple : permettre aux personnels du ministère de se déplacer d’un endroit à un autre et d’arriver à une heure prévue, quel que soit le soit le mode de déplacement utilisé. Les mentalités évoluent au gré des transformations mais certaines briques de rénovation de la fonction transport manquent, comme la capacité à demander un transport plus ou moins longue distance avec chauffeur.
+## Objectifs   
+Pour le client (soutenu)
+* Réserver un moyen de transport pour les trajets professionnels du premier et dernier kilomètre via une plateforme sur internet.
+* Suivre son déplacement en temps réel : confirmation de sa demande par le régulateur, suivi du trajet d’approche du vecteur, annonce de l’arrivée du conducteur et * Capacité à évaluer simplement la prestation dès la fin de course.
 
-## e-Chauffeur, la dernière pièce du puzzle
+Pour le régulateur (soutenant)
+* Superviser l’ensemble de l’activité de ses vecteurs et de ses conducteurs (tour de contrôle).
+* Planning des conducteurs et de l’indisponibilité des véhicules.
+* Visibilité sur les demandes de courses (acceptation, annulation, refus).
+* Cartographie en temps réel de l’avancée d’une course (géolocalisation)
 
-e-Chauffeur est un service qui vise à répondre aux besoins isolés des militaires et agents du ministère en leur permettant de commander un véhicule avec chauffeur pour réaliser un trajet d’un point A à un point B avec une heure prévue d’arrivée (HPA) fixée à la demande.
+Pour le conducteur
+* Information via téléphone équipé des courses à venir, des informations sur la course à effectuer (point de ramassage et de dépose, courses nécessitant un changement de véhicule), appel direct vers le client (en cas de retard, PMR, etc) ou vers le régulateur (en cas de panne ou avarie).
 
-À terme, les conducteurs disposeront d’un guidage embarqué en temps réel et d’une vue d’ensemble des agents à prendre puis à déposer. Leur travail sera recentré sur leur fonction de conduite des agents, que ce soit pour un trajet de quelques kilomètres au sein d’un site déterminé ou entre les bases de Défense dans le cadre des départs et retour d’opérations extérieures.
 
-Les passagers, quant à eux, après avoir exprimé son besoin de manière simple mais suffisamment précise, disposeront non seulement d’un moyen de mobilité fiable mais également de toutes les informations nécessaires à leur déplacement en temps réel.
+## Chronologie
+__Étape 1__ (septembre 2018) Recueil du besoin/atelier utilisateur (Brest)
 
-## Premier tour
+__Étape 2__ (octobre 2018) 1ère itération. Réalisation du PMV sur e-Chauffeur VGC (véhicule gamme commerciale) (Brest)
 
-Dans un premier temps, e-Chauffeur vise à mettre en place dès mars 2019 sur le site de la base navale de Brest une application web qui permettra :
+__Étape 3__ (mars 2019) Mise en production de la première version (Brest)
 
-* au régulateur de saisir, modifier ou annuler un trajet commandé sur une interface simple, ainsi que de visualiser la position des différents véhicules sur une carte ;
-* au chauffeur de disposer d’informations précises en temps réel sur le trajet à réaliser et de spécifier la statut de la course (en approche, en cours, terminée, annulée, …) ;
-* au passager de disposer d’informations lors de la confirmation de la course mais également en temps réel sur le trajet demandé quelques minutes avant l’arrivée du chauffeur jusqu’à sa « mise en attente ».
+__Étape 4__ (avril - mai 2019) 2ème itération. Produit final e-chauffeur VGC (Paris)
+
+__Étape 5__ (mai - novembre 2019) Ouverture de la solution sur 5 bases de défense (CBG, TLN, RSC, LLE et EVX).
+
+__Étape 6__ (novembre 2019) 3ème itération. Atelier d’idéation
+Réalisation PMV sur e-Chauffeur TC (transport en commun) -Paris  
+
+__Étape 7__ (mai 2020) 4ème itération. Produit final e-Chauffeur TC
+
+__Étape 8__ (décembre 2020) MCO- MCS passage en IGLOO
+
+## Résultats
+un [Accès client (soutenu)](https://echauffeur.fabnum.fr)    
+un [Accès régulateur (soutenant)](https://dashboard.echauffeur.fabnum.fr)    
+un [Accès conducteur](https://driver.echauffeur.fabnum.fr)
+
+## en chiffres
+- ouverture du service à Brest, Cherbourg, Toulon, Rochefort, Lille, Evreux, Cognac, la Rochelle, et mise en place à Besançon et pour la navette Paris-Arcueil.
+- une moyenne de 1800 courses par mois environ, avant le covid (donc jusqu'en mars 2020)
+- une centaine de chauffeurs environ
+
