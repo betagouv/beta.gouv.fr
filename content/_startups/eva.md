@@ -14,6 +14,8 @@ phases:
     start: 2018-06-06
   - name: construction
     start: 2018-06-06
+  - name: transfer
+    start: 2020-09-01
 link: https://eva.beta.gouv.fr/
 repository: https://github.com/betagouv/eva/
 stats: true

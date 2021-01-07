@@ -1,7 +1,7 @@
 ---
 roles: Chargé.e.s de déploiement juniors et expérimenté.e.s
 startup: beta.gouv.fr
-open: true
+open: false
 title: Nous recrutons des chargé.e.s de déploiement, juniors et expérimenté.e.s, pour rejoindre des produits beta.gouv.fr
 ---
 

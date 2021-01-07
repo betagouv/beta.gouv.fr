@@ -12,7 +12,7 @@ startups:
 previously:
   - etudiant-entrepreneur
   - boussole
-  - reserve-civique
+  - engagement-civique
 ---
 
 Résiliente et engagée.
