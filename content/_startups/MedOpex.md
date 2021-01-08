@@ -1,5 +1,5 @@
 ---
-title: medopex
+title: MedOpex
 mission: Garantir l'accès à des ressources fiables pour les médecins en opération extérieur
 owner: Ministère des Armées
 incubator: fabnumdef
