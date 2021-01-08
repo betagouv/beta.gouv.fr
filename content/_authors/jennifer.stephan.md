@@ -8,10 +8,11 @@ missions:
     status: independent
     employer: octo
 startups:
-    - ecolab
+    - ellesfontlaculture
+    - egalim
     - poubelles-battle
     - protege-toit
-    - egalim
 previously:
     - pop
+    - ecolab
 ---
