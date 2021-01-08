@@ -9,7 +9,7 @@ redirect_from:
   - /fast
 ---
 
-<img src="https://blog.beta.gouv.fr/img/posts/2020_10_13_1200x675_fast6_visuel_twitter.jpg" alt="Image de présentation du FAST" style="width:100%;" />
+<img src="https://blog.beta.gouv.fr/img/posts/2021_01_06_1200x675_fast_visuel_twitter.jpg" alt="Image de présentation du FAST" style="width:100%;" />
 
 L'appel à candidatures du Fonds d’accélération des Startups d’État et de Territoire (FAST) vise à co-financer des services publics numériques en phase d’accélération qui ont pour but de résoudre un problème de politique publique.  
 
@@ -19,16 +19,7 @@ Ces services publics cherchent à résoudre des problèmes de politique publique
 
 Que vous soyez une administration, un établissement public, ou une collectivité territoriale engagés dans le développement ou l'accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction interministérielle du numérique pouvant aller jusqu'à 300 000 euros.
 
-Ce fonds est aussi accessible à des associations ou des entreprises privées :
-
-- appuyées financièrement par un sponsor administratif de haut niveau ;
-
-- dont le produit numérique répond à un problème de politique publique, à minima, au sein de l’administration concernée.
-
-En revanche, c'est obligatoirement l'administration partenaire qui doit candidater. 
-Si une Directrice ou un Directeur d’Administration Centrale (DAC) porte au FAST un dossier sur un produit développé et porté par une association ou une entreprise et demande un co-financement, les fonds du FAST viendront augmenter l’appui financier de l’administration pour aider l’équipe produit à accélérer.
-
-La dernière édition de 2020 se clôturera le 16 novembre. 
+La première édition de 2021 se clôturera le 8 mars. 
 
 Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux questions dédiée ainsi que les conditions d’éligibilité.
 
@@ -46,7 +37,7 @@ Ce fonds a pour objectif d’investir dans des projets apportant des solutions c
 
 ##### Quelles sont les modalités d’investissement ?
 
-L'appel à candidatures de cette 6ème édition vise à soutenir des solutions numériques existantes, développées par des administrations publiques (Etat ou collectivités territoriales), qui peuvent également le faire en partenariat avec associations ou entreprises privée, pour en accélérer le déploiement et en favoriser le passage à l'échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
+L'appel à candidatures de cette 7ème édition vise à soutenir des solutions numériques existantes, développées par des administrations publiques (État ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à l'échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
 
 L'administration doit être en mesure de garantir sa capacité à financer à hauteur de la somme qu'elle sollicite (exemple : si le besoin évalué est de 100 000 euros, vous sollicitez 50 000 euros de la DINUM et vous engagez un versement de 50 000 euros sur [une convention public-public](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/)).
 
@@ -60,9 +51,9 @@ Pour mieux comprendre l’approche Startup d'État, et en savoir plus sur les m�
 
 ##### Comment les projets sont-ils pré-sélectionnés ?
 
-Les projets sont pré-sélectionnés sur dossier. Que vous représentiez une administration centrale ou déconcentrée, une agence publique, un établissement public ou une autre administration vous pouvez remplir [le formulaire de candidature.](https://www.demarches-simplifiees.fr/commencer/fast5_6) 
+Les projets sont pré-sélectionnés sur dossier. Que vous représentiez une administration centrale ou déconcentrée, une agence publique, un établissement public ou une autre administration vous pouvez remplir [le formulaire de candidature.](https://www.demarches-simplifiees.fr/commencer/fast7) 
 
-A noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
+À noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
 
 ## Quelles sont les conditions spécifiques pour candidater ?
 
@@ -71,13 +62,6 @@ A noter : plusieurs administrations et/ou collectivités territoriales peuvent s
 * Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée ;
 * Avoir une feuille de route pour le produit et pour le déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service) ;
 * Vouloir faire passer ce produit à l’échelle.
-
-Ce fonds est aussi accessible à des associations ou des entreprises privées :
-
-- appuyées financièrement par un sponsor administratif de haut niveau ;
-
-- dont le produit numérique répond à un problème de politique publique, à minima, au sein de l’administration concernée.
-En revanche, c'est obligatoirement l'administration partenaire qui doit candidater. 
 
 ## Quelles sont les modalités de candidature ?
 
@@ -90,7 +74,7 @@ Le dossier de candidature doit préciser clairement :
 
 L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de transfert. 
 
-[Candidatez-ici sur la session du 16 novembre 2020.](https://www.demarches-simplifiees.fr/commencer/fast5_6)
+[Candidatez-ici sur la session du 8 mars 2021.](https://www.demarches-simplifiees.fr/commencer/fast7)
 
 ## Quel est le processus de sélection du FAST ?
 
@@ -104,9 +88,9 @@ L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr 
 
 ## Quels sont les critères de sélection du comité d’investissement ?
 
-* L’impact attendu pour l’utilisateur final
-* Un sponsor dans l’administration porteuse
-* L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique
+* L’impact attendu pour l’utilisateur final ; 
+* Un sponsor dans l’administration porteuse ; 
+* L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique ; 
 * L’adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV.
 
 Une grille de sélection vous sera transmise pour présenter votre dossier devant le jury selon ces critères. 
@@ -115,7 +99,7 @@ Une grille de sélection vous sera transmise pour présenter votre dossier devan
 
 L’ensemble de ce ticket sera utilisé par les marchés publics des Startups d'État et de Territoires de la DINUM pour renforcer l'équipe pendant une période approximative de 6 mois (coachs, développeurs, designers, chargés de déploiement). 
 
-Autrement, il faudra passer par un fonds de concours.(Si vous avez des questions à ce sujet n'hésitez pas à contacter Jihane Herizi à fast@beta.gouv.fr)
+Autrement, il faudra passer par un fonds de concours.(Si vous avez des questions à ce sujet n'hésitez pas à contacter l'équipe Fast : Valentine Michaud et Jihane Herizi à fast@beta.gouv.fr)
 
 Sur une durée d'environ 6 mois, ce ticket permettra donc de mobiliser des moyens supplémentaires sur l’accompagnement d’une équipe de développement et de déploiement pour :
 
@@ -123,20 +107,18 @@ Sur une durée d'environ 6 mois, ce ticket permettra donc de mobiliser des moyen
 2. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages
 3. Accompagner cette mise en oeuvre de façon opérationnelle
 
-Si une Directrice ou un Directeur d’Administration Centrale (DAC) porte au FAST un dossier sur un produit développé et porté par une association ou une entreprise et demande un co-financement, les fonds du FAST viendront augmenter l’appui financier de l’administration pour aider l’équipe produit à accélérer.
-
 ## Quels sont les projets non-éligibles au FAST
 
 * Des produits en phase d'investigation sans solution minimum viable et sans mesures d'impact déjà établies ; 
 * Des produits existants avec un cahier des charges des fonctionnalités à développer ;
 * Des projets censés résoudre des problèmes d’organisation interne ;
-* Des services numériques dont le code n’est pas ouvert (open source), ou pour lesquels le code ne peut pas être ouvert.
-* Des produits appartenant à une association ou une entreprise privée non sponsorisés par une administration (cette dernière doit candidater au fonds)
+* Des services numériques dont le code n’est pas ouvert (open source), ou pour lesquels le code ne peut pas être ouvert ;
+* Des produits issus du secteur privé.
 
 ## Comment candidater ?
 
-[Candidatez-ici sur la session du 16 novembre 2020.](https://www.demarches-simplifiees.fr/commencer/fast5_6)
+[Candidatez-ici sur la session du 8 mars 2021.](https://www.demarches-simplifiees.fr/commencer/fast7)
 
 ## J’ai une question, qui puis-je contacter ?
 
-Si vous avez d’autres questions, vous pouvez envoyer un mail à Jihane Herizi à l’adresse fast@beta.gouv.fr.
+Si vous avez d’autres questions, vous pouvez envoyer un mail à l'équipe Fast : Jihane Herizi et Valentine Michaud à l’adresse fast@beta.gouv.fr.
