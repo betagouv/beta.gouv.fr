@@ -5,7 +5,7 @@ link: https://webstack.fr
 github: stephane
 missions:
   - start: 2018-02-26
-    end: 2020-11-01
+    end: 2021-03-01
     status: service
     employer: octo
 startups:
