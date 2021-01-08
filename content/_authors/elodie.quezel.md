@@ -1,6 +1,7 @@
 ---
 fullname: Elodie Quézel
 role: Intrapreneuse
+github: Quezel-lab
 avatar: /img/authors/elodie.quezel.jpg
 missions:
   - start: 2018-10-01
