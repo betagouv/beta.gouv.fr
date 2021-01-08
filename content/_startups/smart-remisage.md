@@ -1,6 +1,6 @@
 ---
 title: Smart remisage
-mission: 
+mission: Suivre la consommation de batteries pour optimiser leur recharge et maintenance 
 owner: Ministère des Armées
 incubator: fabnumdef
 phases:
