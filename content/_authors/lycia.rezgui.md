@@ -8,7 +8,5 @@ missions:
     employer: Octo Technology
 startups:
   - aidantsconnect
-badges:
-  - segur
 ---
 
