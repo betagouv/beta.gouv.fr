@@ -1,7 +1,7 @@
 ---
 fullname: Paul D'oliveira Da Costa
 role: pilote, business dev 
-github: @Paul-doliveira-da-costa
+github: Paul-doliveira-da-costa
 missions:
   - start: 2021-01-13
     end: 2022-02-13
