@@ -1,9 +1,9 @@
 ---
 fullname: Paul D'oliveira Da Costa
-role: pilote, business dev 
+role: Chargé de partenariats
 github: Paul-doliveira-da-costa
 missions:
-  - start: 2021-01-13
+  - start: 2021-01-15
     end: 2022-02-13
     status: admin
     employer: DINUM
