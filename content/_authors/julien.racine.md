@@ -1,6 +1,6 @@
 ---
 fullname: Julien Racine
-role: Développeur full-stack
+role: CTO incubateur Pole Emploi
 missions:
   - start: 2016-10-01
     end:
@@ -9,6 +9,7 @@ missions:
 avatar: /img/authors/julien.racine.jpg
 startups:
     - memo
+    - mobiville
 ---
 
 Agent à la DSI à Aix-En-Provence.<br>
