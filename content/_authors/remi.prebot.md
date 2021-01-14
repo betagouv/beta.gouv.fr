@@ -12,4 +12,4 @@ badges:
 ---
 
 Data product manager 
-6 ans d'expériences dans des environnement conseil et start-up sur des problématiques de développements de produits data 
+6 ans d'expérience dans des environnements conseil et start-up sur des problématiques de développement de produits data 
