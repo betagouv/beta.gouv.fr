@@ -1,6 +1,6 @@
 ---
 fullname: Guillaume Levieux
-role: co-responsable portefeuille produits aménagement, logement, nature
+role: co-responsable portefeuille produits
 github: guillaumelevieux
 missions:
   - start: 2017-12-15
