@@ -1,6 +1,6 @@
 ---
 roles: Designer UI/UX freelance
-startup: DossierFacile
+startup: locatio
 open: true
 ---
 Afin de soutenir sa phase d’accélération et de répondre à ses objectifs de croissance utilisateurs pour 2021, la startup d’État DossierFacile recherche sa‧son designer‧euse UX/UI. Elle‧il aura pour mission d’améliorer l’expérience du produit, son interface, son ergonomie et son accessibilité auprès de nos cibles.
