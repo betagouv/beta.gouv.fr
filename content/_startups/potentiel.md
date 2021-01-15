@@ -1,7 +1,7 @@
 ---
 title: Potentiel
 mission: Faciliter le parcours des producteurs d'énergies renouvelables électriques
-owner: Ministère de la transition écologique et solidaire
+owner: Ministère de la transition écologique
 incubator: mtes
 phases:
   - name: investigation
@@ -28,11 +28,7 @@ Ces nombreuses étapes, ainsi que la durée du développement du projet (de 2 ju
 
 Une vision complète et précise du déploiement des projets sur le territoire français est indispensable pour piloter les dispositifs de soutien aux EnR afin de suivre et surtout de favoriser l’atteinte des objectifs de la programmation pluriannuelle de l’énergie (PPE).
 
-Aujourd’hui, cela engendre pour les porteurs de projets :
-- des lourdeurs administratives (multiplicité des interlocuteurs, demandes de pièces souvent au format papier, allongements des délais) dans la mesure où aucun croisement de ces données n’est opéré ; Exemple :
-  - Un plan de masse est demandé 4 fois: lors de l’autorisation d’urbanisme (administration déconcentrée), lors de la candidature à l’appel d’offres (CRE), raccordement (ENEDIS), contractualisation (EDF OA)
-  - Différents formulaires sont à compléter avec parfois des répétitions: 28 lignes pour l’autorisation d’urbanisme, 67 lignes pour la demande de raccordement, 17 lignes pour la conformité électrique de l’installation, etc)
-- et des contentieux pouvant mettre les projets en péril si certains délais sont dépassés.
+Aujourd’hui, cela engendre des lourdeurs administratives pour les porteurs de projets : multiplicité des interlocuteurs, demandes de pièces souvent au format papier, allongements des délais ; dans la mesure où aucun croisement de ces données n’est opéré.
 
 ## Potentiel : Faciliter le parcours des producteurs d'énergies renouvelables électriques
 
@@ -53,7 +49,7 @@ Les premiers tests lancés en avril 2020 ont visé les candidats des nouveaux ap
 
 ## Réalisations 2020 :
 
-Depuis la phase de test, le nombre de projets sur Potentiel est passé de 458 à 1364. Le nombre d'utilisateurs à plus que doublé, et de nombreuses fonctionnalités ont été développées pour améliorer l'accès et le confort des porteurs de projets et de l'administration.
+Depuis la phase de test, le nombre de projets sur Potentiel est passé de 458 à 1364. Le nombre d'utilisateurs a plus que doublé, et de nombreuses fonctionnalités ont été développées pour améliorer l'accès et le confort des porteurs de projets et de l'administration.
 
 Potentiel a été présenté à différents partenaires (gestionnaire de réseaux, commission de régulation de l'énergie, acheteur obligé) pour envisager les futures interopérabilités et s'accorder sur le contenu et le format des échanges.
 
