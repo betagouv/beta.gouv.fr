@@ -41,10 +41,11 @@ En tant que data analyst, et au côté du product manager, du designer et du dé
 
 ## Profil recherché
 
--   Expérience en datavisualisation (outil Metabase ou autre)
--   Langage SQL
--   Animation d'atelier utilisateurs
--   Bon relationnel
+- Expérience en datavisualisation et en développement de tableau de bord (Metabase, Tableau, Data Studio, Looker ou autre)
+- Compétences en analyse de données issues de sources diverses
+- Langage SQL
+- Animation d'atelier utilisateurs
+- Bon relationnel
 
 ## Environnement de travail
 
