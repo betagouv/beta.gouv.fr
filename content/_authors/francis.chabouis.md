@@ -4,7 +4,7 @@ role: Développeur
 github: fchabouis
 missions:
   - start: 2020-01-20
-    end: 2021-01-20
+    end: 2021-06-30
     status: independent
     employer: Codeurs en Liberté
 startups:

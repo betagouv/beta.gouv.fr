@@ -8,7 +8,7 @@ missions:
     end: 2021-12-31
     status: independent
 startups:
-  - potenciel
+  - potentiel
   - carbure
 ---
 
