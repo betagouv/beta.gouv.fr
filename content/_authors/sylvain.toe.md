@@ -11,4 +11,6 @@ missions:
     employer: Octo
 startups:
   - aides-territoires
+previously:
+  - e-controle
 ---
