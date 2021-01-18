@@ -1,10 +1,10 @@
 ---
 fullname: Bettina Leblanc
-role: Chargée d'accompagnement
+role: Chargée de déploiement
 github: bettinalbc
 missions:
   - start: 2020-09-17
-    end: 2021-01-17
+    end: 2021-06-30
     status: admin
     employer: DGALN
 startups:
