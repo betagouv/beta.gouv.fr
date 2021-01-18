@@ -9,6 +9,6 @@ missions:
     end: 2021-06-01
     status: independent
     employer: Octo
-startups :
+startups:
   - aides-territoires
 ---
