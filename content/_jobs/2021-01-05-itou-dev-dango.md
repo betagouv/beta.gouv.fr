@@ -4,7 +4,7 @@ title: Itou recrute un développeur Django ou une développeuse Django
 contrat: indépendant
 startup: itou
 contact: tech@inclusion.beta.gouv.fr
-open: true
+open: false
 ---
 
 # Itou recrute un développeur ou une développeuse Django

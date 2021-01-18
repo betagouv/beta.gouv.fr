@@ -1,11 +1,12 @@
 ---
 title: MedOpex
-mission: Garantir l'accès à des ressources fiables pour les médecins en opération extérieur
+mission: Garantir l'accès à des ressources fiables pour les médecins en opération extérieure
 owner: Ministère des Armées
 incubator: fabnumdef
 phases:
   - name: investigation
     start: 2019-04-01
+    end: 2019-06-30
 stats: false
 contact: romain.perroud@def.gouv.fr
 ---
