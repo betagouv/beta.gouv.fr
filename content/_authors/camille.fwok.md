@@ -1,7 +1,7 @@
 ---
 fullname: Camille Fwok
 role: Chargée de déploiement
-Github: <Camillefwok>
+github: Camillefwok
 missions:
   - start: 2020-10-07
     end: 2021-12-31
