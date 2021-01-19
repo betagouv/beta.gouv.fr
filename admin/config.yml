@@ -2,8 +2,8 @@ locale: fr
 
 backend:
   name: github
-  site_domain: beta.gouv.fr
-  repo: betagouv/beta.gouv.fr
+  site_domain: happy-babbage-2edb03.netlify.app
+  repo: LucasCharrier/beta.gouv.fr
   commit_messages:
     create: Création de {{slug}} dans {{collection}} !
     update: Mise à jour de {{slug}} dans {{collection}}
