@@ -17,6 +17,8 @@ missions:
     employer: octo
 startups:
     - conseiller-numerique
+badges:
+  - segur
 previously:
     - la-bonne-formation
     - engagement-civique

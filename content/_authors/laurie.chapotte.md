@@ -7,5 +7,7 @@ missions:
     end: 2021-10-31
     status: admin
     employer: Ministère de la Culture
+startups:
+  - ellesfontlaculture
 ---
 
