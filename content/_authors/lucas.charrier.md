@@ -11,4 +11,4 @@ badges:
   - segur
 ---
 
-Développeur Fullstack 
+Développeur Web Fullstack 
