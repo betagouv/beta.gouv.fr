@@ -1,21 +1,31 @@
 ---
 title: ESTIME
 mission: Soutenir la reprise d'activité des demandeurs d'emploi en leur
-  permettant de connaitre les ressources financières dont ils disposeront 
+  permettant de connaitre les ressources financières dont ils disposeront
 owner: Pôle emploi
-sponsors: 
-    - name: Pôle Emploi
-      acronym: PE
-      domaine_ministeriel: travail
-      type: operateur
+sponsors:
+  - name: Pôle Emploi
+    acronym: PE
+    domaine_ministeriel: travail
+    type: operateur
 incubator: pole-emploi
+link: https://estime.pole-emploi.fr/
 contact: juliette.fracchiolla-hurstel@pole-emploi.fr
+events:
+  - name: product_launch
+    date: 2021-01-07
+    comment: La première version du site est ouverte aux Demandeurs d'Emploi
+      bénéficiaires de l'Allocation de Solidarité Spécifique
 phases:
   - name: investigation
     start: 2020-04-01
     end: 2020-06-04
   - name: construction
     start: 2020-06-04
+    end: 2020-08-28
+  - name: acceleration
+    start: 2020-09-01
+    end: 2021-01-20
 ---
 **Problème** 
 
@@ -29,4 +39,4 @@ Pourrions nous déclencher la reprise d’activité des demandeurs d’emploi en
 
 La phase d’exploration de deux mois, au cours de laquelle nous avons interviewé 24 demandeurs d’emploi et conseillers, a validé le besoin et confirmé qu’il n’existe pas d’outil existant sur le marché. 
 
-Nous démarrons la phase de construction produit avec en cible prioritaire les demandeurs d’emploi "parent isolé" (594 300 personnes).
+L'expérimentation que nous avons mené en construction produit avec en cible prioritaire les demandeurs d’emploi "parent isolé" nous a permis de valider la pertinence de la solution et son impact : hausse de 20% des candidatures avec le service ESTIME, taux de recommandation du service de 95%,  gain de temps de 27 minutes par simulation: cela permet aux conseillers qui accompagnent les demandeurs d'emploi de réinvestir ce temps dans d'autres champs de leur accompagnement.
