@@ -16,6 +16,10 @@ on:
   check_suite:
     types:
       - completed
+  workflow_run:
+    workflows: ["Tests", "Sync 'authors' content with blog.beta.gouv.fr"]
+    types: 
+      - completed
   status: {}
 jobs:
   automerge:
