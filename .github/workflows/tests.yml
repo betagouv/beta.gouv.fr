@@ -2,9 +2,9 @@ name: Tests
 
 on:
   push:
-    branches: [ master ]
+    branches: [ task/lucas/test-automerge ]
   pull_request:
-    branches: [ master ]
+    branches: [ task/lucas/test-automerge ]
 
 jobs:
   test:
