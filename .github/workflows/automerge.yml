@@ -1,5 +1,8 @@
 name: automerge
 on:
+  check_suite:	
+    types:	
+      - completed
   workflow_run:
     workflows: ["Tests"]
     types: 
