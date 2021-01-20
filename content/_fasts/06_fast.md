@@ -3,7 +3,7 @@ title: FAST 6 - Décembre 2020
 sidebar: sidebar-approche.html
 ---
 
-## [FAST 6 - Décembre 2020](https://blog.beta.gouv.fr/dinsic/2021/01/06/decouvrez-les-laureats-du-fast-5-et-candidatez-a-la-6eme-edition/)
+## [FAST 6 - Décembre 2020](https://blog.beta.gouv.fr/dinsic/2021/01/06/decouvrez-les-laureats-du-fast-6-et-candidatez-a-la-7eme-edition/)
 
 ### **Le comité d'investissement :** ### 
 - Nadi Bou Hanna (DINUM)
