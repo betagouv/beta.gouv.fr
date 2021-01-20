@@ -1,7 +1,7 @@
 name: automerge
 on:
   workflow_run:
-    workflows: ["Tests", "Sync 'authors' content with blog.beta.gouv.fr"]
+    workflows: ["Tests"]
     types: 
       - completed
   status: {}
