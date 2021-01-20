@@ -1,10 +1,10 @@
 ---
 fullname: Thibaud Chambert-Loir
-role: Chargé de déploiement transverse
+role: Chargé de déploiement transverse Incubateur des Territoires
 missions:
   - start: 2021-01-18
     end: 2021-07-19
-    status: independent
+    status: Indépendant
     employer: Agence Nationale de Cohésion des Territoires 
 ---
 
