@@ -29,14 +29,20 @@ phases:
 ---
 **Problème** 
 
-50% des allocataires de Pôle emploi, soit 1 750 000 personnes, perçoivent moins de 860 € net par mois (source : “Les chiffres qui comptent”, UNEDIC). 
+Les aides et allocations liées à la reprise d'activité (prime d’activité, RSA, ASS, Aide à la Garde d’Enfant pour Parent Isolé, etc.) sont parfois méconnues ou complexes à articuler. 
 
-Les aides et allocations liées à la reprise d'activité (prime d’activité, RSA, complément d’allocation de retour à l’emploi, Aide à la Garde d’Enfant pour Parent Isolé, etc.) sont parfois méconnues ou complexes à articuler. Aujourd’hui, une personne qui souhaite connaitre l'impact d'une prise de poste sur ses ressources financières doit effectuer plusieurs simulations sur des sites différents, puis effectuer les calculs manuellement, avec un risque d’erreur et de découragement. Des demandeurs d’emploi peuvent ainsi avoir peur de perdre une partie de leurs ressources en reprenant un emploi. 
+Aujourd’hui, une personne qui souhaite connaitre l'impact d'une prise de poste sur ses ressources financières doit effectuer plusieurs simulations sur des sites différents, puis effectuer les calculs manuellement, avec un risque d’erreur et de découragement. Des demandeurs d’emploi peuvent ainsi avoir peur de perdre une partie de leurs ressources en reprenant un emploi. 
 
 Pourrions nous déclencher la reprise d’activité des demandeurs d’emploi en les rassurant sur leurs ressources financières à venir ?
 
 **Produit** 
 
+ESTIME, 1 simulateur personnalisé qui permet aux Demandeurs d’Emploi bénéficiaires de minimas sociaux de visualiser sur 6 mois leurs futures ressources en cas de reprise d’emploi et d'être informés quant aux démarches d'obtention des aides.
+
 La phase d’exploration de deux mois, au cours de laquelle nous avons interviewé 24 demandeurs d’emploi et conseillers, a validé le besoin et confirmé qu’il n’existe pas d’outil existant sur le marché. 
 
-L'expérimentation que nous avons mené en construction produit avec en cible prioritaire les demandeurs d’emploi "parent isolé" nous a permis de valider la pertinence de la solution et son impact : hausse de 20% des candidatures avec le service ESTIME, taux de recommandation du service de 95%,  gain de temps de 27 minutes par simulation: cela permet aux conseillers qui accompagnent les demandeurs d'emploi de réinvestir ce temps dans d'autres champs de leur accompagnement.
+L'expérimentation que nous avons menée en phase de construction (avec en cible prioritaire les demandeurs d’emploi bénéficiaires des minimas sociaux) nous a permis de valider la pertinence de la solution et ses impacts : hausse de 20% des candidatures avec le service ESTIME, taux de recommandation du service de 95%,  gain de temps de 27 minutes par simulation (cela permet aux conseillers qui accompagnent les demandeurs d'emploi de réinvestir ce temps dans d'autres champs de leur accompagnement).
+
+Une première version beta du site https://estime.pole-emploi.fr/ est accessible aux Demandeurs d'Emploi bénéficiaires de l'Allocation de Solidarité Spécifique. 
+
+Nous ambitionnons l'ouverture du site aux bénéficiaires de l'Allocation Adulte Handicapé et du Revenu de Solidarité Active en février 2021.
