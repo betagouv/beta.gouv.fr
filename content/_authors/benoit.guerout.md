@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: inops
   - start: 2020-04-01
-    end: 2020-12-31
+    end: 2021-11-30
     status: independent
     employer: OCTO Technology
 github: bguerout
