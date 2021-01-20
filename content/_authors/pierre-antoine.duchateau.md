@@ -8,4 +8,6 @@ missions:
     end:
     status: independent
     employer: Octo
+startups:
+    - potentiel
 ---

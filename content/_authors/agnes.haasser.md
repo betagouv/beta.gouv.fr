@@ -2,6 +2,7 @@
 fullname: Agnès Haasser
 role: Développeuse
 github: tut-tuuut
+link: https://www.corelka.fr/
 missions:
   - start: 2021-01-05
     end: 2021-02-05
@@ -11,4 +12,4 @@ startups:
   - aidantsconnect
 ---
 
-Je suis développeuse !
+Développeuse multi-tâches et multi-langages
