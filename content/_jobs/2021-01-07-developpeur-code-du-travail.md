@@ -4,6 +4,8 @@ startup: Code du travail numérique
 open: true
 startup: codedutravail
 techno: Stack Javascript (React) + ElasticSearch
+redirect_from:
+  - /recrutement/2021/07/01/developpeur-code-du-travail.html
 ---
 
 # Et si on rendait le droit du travail plus lisible ?!

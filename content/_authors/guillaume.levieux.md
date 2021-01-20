@@ -1,14 +1,23 @@
 ---
 fullname: Guillaume Levieux
-role: Intrapreneur
+role: co-responsable portefeuille produits
 github: guillaumelevieux
 missions:
   - start: 2017-12-15
-    end: 2020-12-31
+    end: 2021-12-31
     status: admin
-    employer: MTES
+    employer: MTE/DGALN
 startups:
     - camino
+    - aides-territoires
+    - locatio
+    - zero-logement-vacant
+    - innovation-urbaine
+    - resorption-bidonvilles
+    - acceslibre
+    - friches    
+badges:
+  - segur
 ---
 
-Investigateur, réaliste. A chaque mission, l'expérience du terrain est salutaire et décisive. Toujours fan des volcans et de ceux qui vivent dessus.
+Toujours fan des volcans et de ceux qui vivent dessus.
