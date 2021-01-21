@@ -241,7 +241,6 @@ collections:
         name: 'missions'
         widget: 'list'
         min: 1
-        max: 10
         collapsed: false
         fields:
           - label: "Statut"
