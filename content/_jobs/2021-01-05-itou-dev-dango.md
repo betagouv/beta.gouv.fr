@@ -4,7 +4,7 @@ title: Itou recrute un développeur Django ou une développeuse Django
 contrat: indépendant
 startup: itou
 contact: tech@inclusion.beta.gouv.fr
-open: false
+open: true
 ---
 
 # Itou recrute un développeur ou une développeuse Django
@@ -33,20 +33,27 @@ Nos utilisateurs sont :
 - Back : Django 3.1, Python 3.7, PostgreSQL 11, PostGIS
 - Front : Bootstrap 4, JavaScript, jQuery (Vue.js sera privilégié en cas de gros besoins côté client)
 - Ops : Docker Compose, PaaS Clever Cloud
-- Nos bonnes pratiques :
-    - nous faisons des itérations courtes
-    - nous testons notre code
-    - nous faisons des revues de code systématiques
-    - nous déployons souvent et par petits lots
-    - nous améliorons nos process internes en continu
-- Code ouvert : [https://github.com/betagouv/itou](https://github.com/betagouv/itou)
+
+## Nos bonnes pratiques :
+
+- Nous faisons des itérations courtes
+- Nous testons notre code
+- Nous faisons des revues de code systématiques
+- Nous déployons souvent et par petits lots
+- Nous améliorons nos process internes en continu
+
+## Notre code :
+
+- GitHub : [https://github.com/betagouv/itou](https://github.com/betagouv/itou)
 - Démo : [https://demo.inclusion.beta.gouv.fr](https://demo.inclusion.beta.gouv.fr)
 
 ## Profil recherché
 
-- Expérience significative en Django (idéalement plusieurs années)
+- Expérience en Django d'au moins 5 ans sur des projets d'envergure
 - Maîtrise du développement web
+- Maîtrise des API REST
 - Capable d'intervenir côté front-end et côté back-end
+- Connaissance de SQL
 - Bon relationnel et capacité de vulgarisation
 
 ## Environnement de travail
