@@ -30,7 +30,7 @@ slug:
   sanitize_replacement: "."
 
 # Editorial workflow: validate changes through pull requests
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 relation_default_options: &relation_default_options
   widget: relation
