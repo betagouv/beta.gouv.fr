@@ -240,6 +240,7 @@ collections:
         hint: "Ton historique de missions avec nous dans l'ordre chronologique."
         name: 'missions'
         widget: 'list'
+        min: 1
         collapsed: false
         fields:
           - label: "Statut"
