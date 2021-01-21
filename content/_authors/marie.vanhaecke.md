@@ -1,5 +1,5 @@
 ---
-fullname: Marie VanHaecke
+fullname: Marie Van Haecke
 role: Coach
 missions:
   - start: 2021-01-21
