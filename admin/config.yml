@@ -73,6 +73,7 @@ collections:
     label_singular: Produit
     folder: "content/_startups"
     create: true
+    slug: "{{slug}}"
     delete: false
     editor:
       preview: false
