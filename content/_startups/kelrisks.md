@@ -8,11 +8,17 @@ phases:
     start: 2018-11-05
   - name: construction
     start: 2018-11-05
-  - name: construction
+  - name: transfer
+    start: 2020-03-01
+  - name: alumni
+    start: 2020-07-10
+events:
+  - name: end
+    date: 2020-07-10
 link: https://kelrisks.beta.gouv.fr
 repository: https://github.com/MTES-MCT/kelrisks
 stats: false
-contact: contact@kelrisks.beta.gouv.fr
+contact: mathieu.guiot@developpement-durable.gouv.fr
 ---
 
 ## La pollution des sols : un risque invisible mais bien réel
@@ -48,6 +54,9 @@ A votre place, Kelrisks ...
 Une première interface a été mise en place pour solliciter le service : https://pourepondre.typeform.com/to/l8vpQT.
 Après 15 jours de mise en service,  le prototype a permis de traiter une quinzaine de demandes de notaires, dont 20% sont revenus spontanément. 
 
-Sur la base de ces premiers tests il est prévu que le service soit déployé dans une première phase à l’échelle du département de l’Essonne, puis dans un deuxième temps, généralisé à l’Ile-de-France, premier marché de l’immobilier national.  
+Le service a ensuite été déployé à https://kelrisks.beta.gouv.fr/. En 2019, plus de 20 000 avis ont été téléchargé, essentiellement par des notaires, des avocats et des bureaux d’études spécialisés dans le domaine des audits environnementaux. Cela représente plus de 7000 jours de travail à faible valeur ajoutée économisées, administration et professionnels confondus. 
 
-Pour la diffusion du produit nous comptons nous appuyer sur la profession des notaires, des avocats et des bureaux d’études spécialisés dans le domaine des audits environnementaux. Ils connaissent les bases actuelles et mesureront facilement le gain qu’offre le service Kelrisks.
+## Arrêt de Kelrisks et mutation au transfert de Géorisques
+La Direction générale de la prévention des risques (DGPR) décide fin 2019 de transférer Kelrisks au Bureau de Recherches Géologiques et Minières (BRGM), avec l'objectif de générer facilement un état des risques règlementés (ERRIAL pour État des Risques Réglementés Information Acquéreur) nécessaire pour des transactions foncières. 
+
+Fin 2020, le service Kelrisks n'est achève sa mutation vers cet "état des risques" numérique qui devrait être disponible sur georisques.gouv.fr début 2021. 

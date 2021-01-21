@@ -4,10 +4,15 @@ role: Développeur
 github: mrjmad
 missions:
   - start: 2018-12-21
-    end: 2020-12-25
+    end: 2020-03-31
     status: independent
+  - start: 2020-10-28	    	    
+    end: 2021-04-30
+    status: independent    
 startups:
-    - voir-et-localiser
+    - aidantsconnect
+previously:
+    - voir-et-localiser    
 ---
 
 Code, Django et Cassoulet

@@ -12,8 +12,16 @@ phases:
   - name: investigation
     start: 2014-10-01
   - name: construction
-    start: 2014-10-01    
+    start: 2014-10-01
+  - name: acceleration
+    start: 2019-01-01
   - name: transfer
+    start : 2019-09-01
+  - name: success
+    start: 2020-03-01
+events:
+  - name: national_impact
+    date: 2020-03-01
 link: https://mon-entreprise.fr
 repository: https://github.com/betagouv/mon-entreprise
 stats: true
@@ -67,3 +75,7 @@ Le service est également disponible en anglais à l'adresse [mycompanyinfrance.
 ### Technologie 💻
 
 Tous les simulateurs et formulaires interactifs de mon-entreprise sont basé sur le moteur de calcul [publicodes](https://publi.codes), publié en open-source et réutilisable par tous.
+
+### Transfert à l'ACOSS
+
+En 2020, le service et l'équipe Mon Entreprise sont transférés hors de l'incubateur de la DINUM vers l'ACOSS. 

@@ -1,12 +1,10 @@
 ---
 title: La Bonne Alternance
-mission: Trouvez ici les entreprises qui recrutent régulièrement en alternance
-owner: Pôle emploi
+mission: Se former et travailler en alternance
+owner: Mission apprentissage
 sponsors: 
-    - name: Pôle Emploi
-      acronym: PE
-      domaine_ministeriel: travail
-      type: operateur
+    - name: Mission nationale apprentissage
+      acronym: MNA
 incubator: pole-emploi
 phases:
   - name: investigation
@@ -15,7 +13,7 @@ phases:
     start: 2018-03-19
   - name: success
 link: https://labonnealternance.pole-emploi.fr
-repository: https://github.com/StartupsPoleEmploi/labonnealternance
+repository: https://github.com/mission-apprentissage/labonnealternance
 stats: true
 contact: labonnealternance@pole-emploi.fr
 redirect_from:

@@ -14,7 +14,6 @@ page.lang | default: site.lang | default: "en" %}
     <div class="documentation">
       {% include sidebar-approche.html %}
       <div class="main-pane">
-        <div class="markdown">{{ content }}</div>
         <h2 id="inscription">Prochaine session</h2>
         {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %} {%
         capture timestampEnd %}{{ page.alpha-end | date: '%s' }}{% endcapture %}
@@ -30,9 +29,13 @@ page.lang | default: site.lang | default: "en" %}
             </li>
             <li>
               <b>Où ?</b><br />
+              {% if page.alpha-location-link %}
               <a href="{{ page.alpha-location-link }}"
                 >{{ page.alpha-location }}</a
               >
+              {% else %}
+                {{ page.alpha-location }}
+              {% endif %}
             </li>
             {% if page.alpha-catering %}
             <li>
@@ -63,6 +66,8 @@ page.lang | default: site.lang | default: "en" %}
           <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.
         </p>
         {% endif %}
+        <br /><br />
+        <div class="markdown">{{ content }}</div>
       </div>
     </div>
   </div>
