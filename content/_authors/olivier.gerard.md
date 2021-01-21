@@ -3,7 +3,7 @@ fullname: Olivier GERARD
 role: Intrapreneur Avril - ReVa
 missions:
   - start: 2020-10-26
-    end: 2020-12-31
+    end: 2021-06-30
     status: independent
 ---
 

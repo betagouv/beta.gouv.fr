@@ -6,6 +6,8 @@ missions:
     end: 2021-12-27
     status: independent
     employer: Octo
+startups:
+    - itou 
 badges:
   - segur
 ---

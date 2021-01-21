@@ -7,7 +7,7 @@ sponsors:
       acronym:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
-incubator: dinum
+incubator: anct
 phases:
   - name: investigation
     start: 2018-01-18
@@ -46,5 +46,3 @@ Une organisation projet est mise en place à plusieurs niveaux : une équipe de 
 Chaque département partenaire identifie une ou plusieurs maisons pilotes. Nos relais sont en priorité les travailleurs des MDS : assistants sociaux, infirmières puéricultrices, médecins de PMI et fonctions support (secrétariat, accueil téléphonique). Nous les interrogeons directement, pour construire avec eux une solution adaptée à leurs usages. Ils testent en continu la solution proposée. 
 
 La démarche est conçue comme progressive. Nous adresserons les enjeux de chaque service, en commençant par la PMI et l'accueil social. Le déploiement de la solution suivra ensuite deux axes : l'extension aux autres services de chaque maison (aide sociale à l'enfance, RSA, etc.) et l'élargissement géographique aux autres maisons du département. 
-
-

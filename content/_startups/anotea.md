@@ -14,6 +14,12 @@ phases:
   - name: construction
     start: 2018-04-01
   - name: transfer
+    start: 2020-01-01
+  - name: success
+    start: 2020-07-01
+events:
+  - name: national_impact
+    date: 2020-07-01
 link: https://anotea.pole-emploi.fr
 stats: true
 repository: https://github.com/StartupsPoleEmploi/anotea

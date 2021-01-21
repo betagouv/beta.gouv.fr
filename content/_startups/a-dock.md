@@ -16,7 +16,13 @@ phases:
     end: 2019-01-23
   - name: acceleration
     start: 2019-01-23
+  - name: alumni
+    start: 2020-11-27
+events:
+  - name: end
+    date: 2020-11-27
 ---
+
 ## Le constat initial : le transport routier de marchandises, un secteur exposé à des risques de déréglementation
 
 Le transport routier de marchandises en France (TRM) - 40 000 entreprises, 400 000 salariés -  est historiquement et structurellement exposé à des risques de déréglementation. En effet, il est : 
@@ -70,3 +76,8 @@ A Dock ambitionne d’être le point d’accès public national vers l’ensembl
 À cet égard, le service est développé en collaboration avec ses utilisateurs cibles (transporteurs routiers, chargeurs, commissionnaires), leurs organisations professionnelles, ainsi que les administrations centrales ou régionales compétentes (DREAL), afin d'être au plus près de leurs attentes et besoins.
 
 À  noter : A Dock n‘a pas vocation à intervenir sur les aspects contractuels ou commerciaux des relations transporteurs-commanditaires.
+
+## Fin du partenariat avec la DGITM
+
+En novembre 2020, la DGITM décide d'arrêter les financements du service A-Dock. Le service pourrait être réutilisé à d'autres fins en 2021 notamment pour faciliter la mise en oeuvre du [Paquet mobilité](https://www.europarl.europa.eu/news/fr/press-room/20200120IPR70630/paquet-mobilite-soutien-a-l-accord-conclu-avec-les-ministres-de-l-ue) européen. 
+

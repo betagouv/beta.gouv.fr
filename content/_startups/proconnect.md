@@ -7,6 +7,8 @@ phases:
   - name: investigation
     start: 2020-06-23
     end: 2020-09-15
+  - name: alumni
+    start: 2020-09-15
 link:
 repository: 
 stats: false 

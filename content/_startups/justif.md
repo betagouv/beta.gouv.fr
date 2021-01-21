@@ -1,5 +1,5 @@
 ---
-title: Justif
+title: Mon Suivi Justice
 mission: Diminuer les rendez-vous non-honorés des personnes placées sous main de
   justice.
 owner: Tribunal de Nanterre et le service pénitentiaire d'insertion et de
@@ -40,8 +40,6 @@ Le SPIP 92 compte 35 CPIP, qui suivent chacun en moyenne 75 personnes et un seul
 
 Le service de l’application des peines du tribunal judiciaire compte 7 juges , 8 greffiers et 5 adjoints administratifs dont 4 sont affectés au secrétariat commun chargé notamment d’envoyer les convocations et répondre aux appels et mails adressés au service.
 
-
-
 # **Le problème**
 
 30 à 40% des rendez-vous avec les CPIP et les JAP ne sont pas honorés.
@@ -51,8 +49,6 @@ Le risque pour les PPSMJ ne se présentant pas aux rendez-vous est la révocatio
 Pour les agents du ministère (CPIP, JAP, greffiers), cet absentéisme génère une désorganisation constante et la nécessité de reconvoquer les PPSMJ, qui crée une surcharge de travail importante, assortie de coûts supplémentaires (courriers recommandés, convocation par officier de police judiciaire) et de délais significatifs.
 
 Au-delà, cette inconstance des PPSMJ aux rendez-vous peut conduire à l’échec de la démarche de réinsertion et augmente le risque de récidive.
-
-
 
 # **Les apprentissages issus des premiers entretiens**
 
@@ -85,8 +81,6 @@ Presque tous indiquent qu’un rappel du rendez-vous par voie électronique (sms
 * Les JAP disposent d’ordinateurs portables mais pas de téléphone professionnel, à l’inverse les CPIP ont un smartphone professionnel mais ne sont pas tous dotés d’ordinateur portable.
 * Tous les agents expriment une forte attente quant à l’existence d’un dossier de suivi dématérialisé, partagé entre tous les intervenants (PPSMJ, CPIP, JAP, greffier, partenaires).
 
-
-
 ## **Reformulation du problème**
 
 Il apparaît qu’il y a donc :
@@ -101,26 +95,24 @@ Deux problèmes secondaires :
 * l’absence de dématérialisation du dossier de la PPSMJ, et particulièrement des justificatifs
 * l’absence d’outils pédagogiques pour informer la PPSMJ de l’avancement de son suivi et l’orienter vers les partenaires.
 
-
-
 # **Les hypothèses de solutions**
 
 Créer un outil numérique permettant dans un premier temps :
 
 * aux PPSMJ :
-* de consulter leurs prochains rendez-vous et audiences
-* de communiquer avec le CPIP et le greffe pour avertir d’un imprévu
-* de solliciter un report à une date proche
+
+  * de consulter leurs prochains rendez-vous et audiences
+  * de communiquer avec le CPIP et le greffe pour avertir d’un imprévu
+  * de solliciter un report à une date proche
 * aux CPIP / JAP / greffiers :
-* de créer des rendez-vous générant un rappel automatique pour la personne convoquée
-* de suivre la présence / l’absentéisme aux convocations et audiences
+
+  * de créer des rendez-vous générant un rappel automatique pour la personne convoquée
+  * de suivre la présence / l’absentéisme aux convocations et audiences
 
 Ensuite, et sous réserve d’impact (amélioration du taux de présence aux RDV) :
 
 * créer un dossier de justificatifs dématérialisés, accessible à l’ensemble des acteurs du suivi
 * donner à la PPSMJ de la visibilité temporelle et pédagogique sur sa mesure pour en faire un acteur
-
-
 
 # Prochaines étapes
 
