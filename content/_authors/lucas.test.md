@@ -1,5 +1,5 @@
 ---
-fullname: Lucas Test
+fullname: Lucas Test 2
 role: Test
 missions:
   - status: independent
