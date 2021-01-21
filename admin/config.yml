@@ -241,6 +241,7 @@ collections:
         name: 'missions'
         widget: 'list'
         min: 1
+        max: 10 # both min and max are required to be apply 
         collapsed: false
         fields:
           - label: "Statut"
