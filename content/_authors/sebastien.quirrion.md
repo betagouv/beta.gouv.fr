@@ -1,6 +1,7 @@
 ---
 fullname: Sébastien Quirrion
 role: Développeur
+github: squirrion
 avatar: https://i.ibb.co/x6ZX71T/IMG-0782.jpg
 missions:
   - start: 2021-01-18
@@ -9,6 +10,8 @@ missions:
     employer: octo
 startups:
     - conseiller-numerique
+badges:
+  - segur
 ---
 
 Développeur Web
