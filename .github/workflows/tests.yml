@@ -80,13 +80,12 @@ jobs:
           while ! curl --silent http://localhost:4000
           do sleep 1
           done 
-          
     - name: automerge
-        uses: "pascalgn/automerge-action@v0.12.0"
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          MERGE_LABELS: "merge it !"
-          MERGE_REMOVE_LABELS: "automerge"
-          MERGE_METHOD: "squash"
-          MERGE_RETRIES: "10"
-          MERGE_RETRY_SLEEP: "10000"
+      uses: "pascalgn/automerge-action@v0.12.0"
+      env:
+        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+        MERGE_LABELS: "merge it !"
+        MERGE_REMOVE_LABELS: "automerge"
+        MERGE_METHOD: "squash"
+        MERGE_RETRIES: "10"
+        MERGE_RETRY_SLEEP: "10000"
