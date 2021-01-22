@@ -5,15 +5,12 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-    types:
-      - labeled
-      - unlabeled
-      - synchronize
-      - opened
-      - edited
-      - ready_for_review
-      - reopened
-      - unlocked
+  workflow_run:
+    workflows: ["automerge"]
+    branches: [master]
+    types: 
+      - completed
+      - requested
 
 jobs:
   test:
