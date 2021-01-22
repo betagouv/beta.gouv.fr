@@ -37,8 +37,7 @@ Au sein de l'incubateur BETA, et en collaboration avec les équipes du pôle Des
 
 - Sensibiliser les équipes de l'incubateur BETA à l'utilité de la démarche de design centré sur les usagers (UX) en vue d'améliorer la qualité des interfaces ;
 - Concevoir et prototyper (UX/UI) des interfaces de parcours usagers ;
-- Coordonner et animer des sessions de recherche usager (entretiens individuels, tests d'usabilité, etc.) ;
-- Coordonner les ressources externes intervenant sur le volet design des services numériques développés par BETA.
+- Coordonner et animer des sessions de recherche usager (entretiens individuels, tests d'usabilité, etc.).
 
 En fonction de l'évolution de priorités fixées à la DINUM, il/elle peut être amené à prendre ponctuellement en charge d'autres tâches et projets.
 
