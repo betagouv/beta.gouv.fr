@@ -1,7 +1,7 @@
 ---
 roles: un·e Chargé·e de déploiement auprès des collectivités
 startup: engagement-civique
-open: true 
+open: false 
 title: Engagement Civique recrute un·e Chargé·e de déploiement auprès des collectivités
 ---
 
