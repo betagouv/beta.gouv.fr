@@ -39,7 +39,7 @@ A moyen-terme, et pour mesurer la réalisation de nos objectifs, nous allons d'a
     - Exemple d'impact : augmenter le nombre de nouveaux bénéficiaires RSA, grâce au partage d'une solution déjà existante
 
 - Puis nous lancerons des expérimentations ciblées avec certains acteurs, et nous pourrons suivre de façon plus fine l'impact sur les parcours.
-    - Exemple d'impact : réduire le délai de prise du premier RDV, de 4 semaines en moyenne aujourd'hui, à 2 semaines, cela pour X personnes en insertion dans Y départements, grâce à l'ajout une fonctionnalité de prise de rendez-vous sur les logiciels existants
+    - Exemple d'impact : réduire le délai de prise du premier RDV, de 4 semaines en moyenne aujourd'hui, à 2 semaines, cela pour X personnes en insertion dans Y départements, grâce à l'ajout d'une fonctionnalité de prise de rendez-vous sur les logiciels existants
 
 
 A plus long-terme, les expérimentations ciblées menées à succès auront vocation à "passer à l'échelle" et servir l'ensemble des clients demandeurs, par exemple en industrialisant une nouvelle fonctionnalité développée, ou en exposant sous forme d'API des nouveaux jeux de données.  
