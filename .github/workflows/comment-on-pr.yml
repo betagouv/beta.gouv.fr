@@ -1,0 +1,13 @@
+name: Add checkout commands
+on: pull_request
+jobs:
+  comment:
+    name: Add checkout commands
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: LucasCharrier/comment-on-pr@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          filename: template.md
