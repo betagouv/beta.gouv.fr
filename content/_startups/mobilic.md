@@ -70,7 +70,7 @@ Des évolutions de Mobilic ont été intégrées grâce aux nombreux retours des
 
 De nombreuses actions ont également été menées sur le sujet de la sécurité des donnés suite à un audit de sécurité. Le périmètre du produit va continuer à grandir au fil des usages et devrait également progressivement s'ouvrir sur le volet administration (contrôleurs).
 
-Par ailleurs, dès l'été 2019, un travail d’échange a été engagé avec les éditeurs de solutions informatiques afin d’envisager les échanges de données avec Mobilic, l'API étant (documentée)[https://mobilic.beta.gouv.fr/developers/docs/intro] et disponible. L'enjeu est de démultiplier l'impact en matière de simplification pour les entreprises.
+Par ailleurs, dès l'été 2019, un travail d’échange a été engagé avec les éditeurs de solutions informatiques afin d’envisager les échanges de données avec Mobilic, l'API étant documentée et disponible (https://mobilic.beta.gouv.fr/developers/docs/intro). L'enjeu est de démultiplier l'impact en matière de simplification pour les entreprises.
 
 **Sur le déploiement**
 
