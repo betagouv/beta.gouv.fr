@@ -29,11 +29,11 @@ Pour cela, data.insertion va améliorer la mise à disposition de données de qu
 # Premières mesures d'impact
 
 Data.insertion aura réussi sa mission si :
-    1. les délais avant l'orientation et de l'orientation jusqu'à l'accompagnement ont été réduits
-    2. un plus grand nombre de personnes en insertion sont suivies par les services publics
-    3. la qualité de l'accompagnement est améliorée, vers des solutions plus individualisées et adaptées
+1. les délais avant l'orientation et de l'orientation jusqu'à l'accompagnement ont été réduits
+2. un plus grand nombre de personnes en insertion sont suivies par les services publics
+3. la qualité de l'accompagnement est améliorée, vers des solutions plus individualisées et adaptées
 
-A moyen-terme, et pour mesurer la réalisation de nos objectifs, nous allons d'abord nous intéresser au nombre de personnes dont le parcours a été influencé par data.insertions. Nous engagerons pour cela deux types d'actions :
+A moyen-terme, et pour mesurer la réalisation de nos objectifs, nous allons d'abord nous intéresser au nombre de personnes dont le parcours a été influencé par data.insertion. Nous engagerons pour cela deux types d'actions :
 
 - Nous apporterons une première contribution par la mise à dispositon d'informations, de jeux de données ou la mise en relations d'acteurs, dans un écosystème d'acteurs de l'insertion très éclaté.
     - Exemple d'impact : augmenter le nombre de nouveaux bénéficiaires RSA, grâce au partage d'une solution déjà existante
