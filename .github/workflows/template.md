@@ -1,10 +1,4 @@
-commands to checkout to this branch
+Lien pour updater la fiche sur netlify:
 
-```
-git fetch upstream pull/{pull_id}/head:{branch_name}
-git checkout {branch_name}
-
-Si fiche:
-{updatelink}
-```
+[{updatelink}]({updatelink})
 
