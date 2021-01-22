@@ -6,11 +6,10 @@ on:
   pull_request:
     branches: [ master ]
   workflow_run:
-    workflows: ["automerge"]
+    workflows: ["automergeinit"]
     branches: [master]
     types: 
       - completed
-      - requested
 
 jobs:
   test:
