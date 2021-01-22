@@ -11,4 +11,4 @@ missions:
 badges:
   - segur
 ---
-Développeur Web Fullstack
+Développeur Fullstack
