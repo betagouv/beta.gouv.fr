@@ -7,7 +7,7 @@ phases:
   - name: investigation
     start: 2020-11-15 
     end: 2021-02-05 
-contact: julien.kounowski@jscs.gouv.fr et Christophe.Trouillard@jscs.gouv.fr
+contact: julien.kounowski@jscs.gouv.fr
 ---
 
 ## Fiche produit
