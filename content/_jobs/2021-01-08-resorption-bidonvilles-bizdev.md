@@ -37,12 +37,9 @@ Vous prendrez en charge le développement commercial de la plateforme et en sere
 Fort·e des enseignements de vos actions commerciales, vous contribuerez avec la designer UX et l’ensemble de l’équipe, à l’amélioration du produit et à la réflexion sur les orientations stratégiques du projet.
 
 # ⭐️ Des atouts pour la mission
-- Formation commerciale ou SciencesPo
 - Expérience de business development
-- Intérêt pour le secteur public et les questions sociales
 - Esprit d’entreprise, goût des challenges
 - Capacité d’autonomie alliée à l’exigence de reporting
-- Créativité, esprit d’initiative
 - Capacité de compréhension du cadre d’action de l’État et de son organisation dans les territoires, aussi bien au niveau de la décision que de l’exécution
 - Souci du résultat et du suivi par l’impact
 
