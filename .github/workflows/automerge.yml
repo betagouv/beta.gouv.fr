@@ -23,7 +23,7 @@ jobs:
     steps:
       - name: automerge
         uses: "pascalgn/automerge-action@v0.12.0"
-        if: "${{ GITHUB_TOKEN }}"
+        if: "${{ env.GITHUB_TOKEN }}"
         env:
           GITHUB_TOKEN: "${{ secrets.AUTOMERGE_ACTION_LUCAS_TEST_TOKEN }}"
           MERGE_LABELS: "merge it !"
