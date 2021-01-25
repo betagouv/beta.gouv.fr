@@ -2,7 +2,7 @@
 roles: un.e chargé.e de déploiement
 startup: aidantsconnect
 junior: true
-open: true
+open: false
 ---
 
 La Startup d’État Aidants Connect recherche un(e) “chargé(e) de déploiement” afin de participer à sa phase d’accélération et de déploiement progressif dans les territoires.
