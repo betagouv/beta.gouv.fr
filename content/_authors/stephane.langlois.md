@@ -11,7 +11,7 @@ missions:
 github: pntbr
 startups:
   - labels-transition 
-  - egalim
+  - ma-cantine-egalim
 previously:
   - ecosante
   - dossierSCO
