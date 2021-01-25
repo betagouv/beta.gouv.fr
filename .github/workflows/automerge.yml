@@ -23,8 +23,10 @@ jobs:
     steps:
       - name: automerge
         uses: "pascalgn/automerge-action@v0.12.0"
+        # if: "${{ secrets.AUTOMERGE_ACTION_TOKEN || secrets.GITHUB_TOKEN }}"
         env:
-          GITHUB_TOKEN: "${{ secrets.AUTOMERGE_ACTION_LUCAS_TEST_TOKEN }}"
+          # use default github token is AUTOMERGE_ACTION_TOKEN is not defined (on fork branch), but it won't rerun the tests
+          GITHUB_TOKEN: "${{ secrets.AUTOMERGE_ACTION_TOKEN || secrets.GITHUB_TOKEN }}"
           MERGE_LABELS: "merge it !"
           MERGE_REMOVE_LABELS: "merge it !"
           UPDATE_LABELS: "merge it !"
