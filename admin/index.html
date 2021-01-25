@@ -30,7 +30,7 @@
       window.clearInterval(intervalID)
       intervalID = window.setInterval(() => {
         panel = document.querySelector('div[class*="ControlPaneContainer"]')
-        if (++count === 5 || panel) {
+        if (++count === 10 || panel) {
           console.log('LCS THIS IS ELEM', panel, count)
           if (panel) {
             var parent = document.createElement("div");
