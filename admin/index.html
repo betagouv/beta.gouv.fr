@@ -24,6 +24,12 @@
   <script type="text/javascript">
     var oldHref = document.location.href;
     var intervalID
+    function createExplanationParagraph() {
+      var p = document.createElement("p");
+      p.innerHTML = "Une fois un changement enregistré, rendez-vous ensuite sur github pour merger ou demander une review sur la pull request : <a target='_blank' href='https://github.com/betagouv/beta.gouv.fr/pulls'>https://github.com/betagouv/beta.gouv.fr/pulls</a>"
+      p.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px;"
+      return p
+    }
     function setIntervalCheck() {
       var count = 0
       var panel = undefined
@@ -34,11 +40,8 @@
           console.log('LCS THIS IS ELEM', panel, count)
           if (panel) {
             var parent = document.createElement("div");
-            var p = document.createElement("p");
-            p.innerHTML = "Une fois un changement enregistré, rendez-vous ensuite sur github pour merger ou demander une review sur la pull request : <a target='_blank' href='https://github.com/betagouv/beta.gouv.fr/pulls'>https://github.com/betagouv/beta.gouv.fr/pulls</a>"
-            p.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px;"
-            panel.prepend(p);
-            panel.append(p);
+            panel.prepend(createExplanationParagraph());
+            panel.append(createExplanationParagraph());
           }
           count = 0
           window.clearInterval(intervalID);
