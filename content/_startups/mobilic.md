@@ -9,8 +9,10 @@ phases:
   - name: acceleration
 link: https://mobilic.beta.gouv.fr
 repository: https://github.com/MTES-MCT/mobilic
-stats: https://mobilic.beta.gouv.fr/stats
+stats: true
+stats_url: https://mobilic.beta.gouv.fr/stats
 contact: gaspard.granger@developpement-durable.gouv.fr
+
 ---
 
 Pour répondre aux exigences du droit du travail, les employeurs ont l’obligation de suivre le temps de travail de leurs salariés. Ce décompte peut faire l’objet d’un contrôle par l’administration.
