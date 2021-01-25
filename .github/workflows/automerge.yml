@@ -23,7 +23,7 @@ jobs:
     steps:
       - name: automerge
         uses: "pascalgn/automerge-action@v0.12.0"
-        # if: "${ secrets.AUTOMERGE_ACTION_TOKEN }"
+        if: "${ secrets.AUTOMERGE_ACTION_TOKEN || secrets.GITHUB_TOKEN }"
         env:
           # use default github token is AUTOMERGE_ACTION_TOKEN is not defined (on fork branch), but it won't rerun the tests
           GITHUB_TOKEN: "${ secrets.AUTOMERGE_ACTION_TOKEN || secrets.GITHUB_TOKEN }"
