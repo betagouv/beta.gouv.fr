@@ -31,7 +31,7 @@
       intervalId = window.setInterval(() => {
         panel = document.querySelector('div[class*="ControlPaneContainer"]')
         if (++count === 5 || panel) {
-          console.log('LCS THIS IS ELEM', panel, intervalID)
+          console.log('LCS THIS IS ELEM', intervalID)
           window.clearInterval(intervalID);
         }
       }, 1000);
