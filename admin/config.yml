@@ -74,6 +74,7 @@ collections:
     folder: "content/_startups"
     create: true
     delete: false
+    summary: "Startup you can see it here {{version}} - {{title}}"
     editor:
       preview: false
     fields:
