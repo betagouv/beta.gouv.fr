@@ -28,10 +28,10 @@
       var count = 0
       var panel = undefined
       window.clearInterval(intervalID)
-      intervalId = window.setInterval(() => {
+      intervalID = window.setInterval(() => {
         panel = document.querySelector('div[class*="ControlPaneContainer"]')
         if (++count === 5 || panel) {
-          console.log('LCS THIS IS ELEM', intervalID)
+          console.log('LCS THIS IS ELEM', panel)
           window.clearInterval(intervalID);
         }
       }, 1000);
