@@ -36,10 +36,10 @@ data.insertion aura réussi sa mission si :
 
 A moyen-terme, et pour mesurer la réalisation de nos objectifs, nous allons d'abord nous intéresser au nombre de personnes dont le parcours a été influencé par les travaux de l'équipes. Nous engagerons pour cela deux types d'actions :
 
-- Nous apporterons une première contribution par la mise à dispositon d'informations, de jeux de données ou la mise en relations d'acteurs, dans un écosystème d'acteurs de l'insertion très éclaté.
+- Nous apporterons une première contribution par la mise à disposition d'informations, de jeux de données ou la mise en relations d'acteurs, dans un écosystème d'acteurs de l'insertion très éclaté.
     - Exemple d'impact : augmenter le nombre de nouveaux bénéficiaires RSA, grâce au partage d'une solution déjà existante
 
 - Puis nous lancerons des expérimentations ciblées avec certains acteurs, qui nous permettrons de suivre de façon plus fine l'impact sur les parcours.
     - Exemple d'impact : réduire le délai de prise du premier RDV pour respecter les conventions signées dans le cadre du plan de lutte contre la pauvreté à maximum 15 jours.
 
-A plus long-terme, les expérimentations ciblées menées avec succès auront vocation à être pérenniser et servir l'ensemble des parties prenantes qui le souhaitent, par exemple en industrialisant une nouvelle fonctionnalité développée, ou en exposant sous forme d'API des nouveaux jeux de données.
+A plus long-terme, les expérimentations ciblées menées avec succès auront vocation à être pérennisées et servir l'ensemble des parties prenantes qui le souhaitent, par exemple en industrialisant une nouvelle fonctionnalité développée, ou en exposant sous forme d'API des nouveaux jeux de données.
