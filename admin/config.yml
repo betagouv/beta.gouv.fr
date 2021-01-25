@@ -74,10 +74,10 @@ collections:
     folder: "content/_startups"
     create: true
     delete: false
-    summary: "Startup you can see it here {{version}} - {{title}}"
     editor:
       preview: false
     fields:
+      - hint: "This is an hint"
       - label: Nom
         name: title
         widget: string
