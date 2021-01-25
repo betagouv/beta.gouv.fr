@@ -23,7 +23,8 @@
   <script src="https://unpkg.com/netlify-cms/dist/netlify-cms.js"></script>
   <script>
     var elem = document.querySelector('div[class*="ControlPaneContainer"]')
-    console.log(elem)
+    console.log('LCS THIS IS ELEM', elem)
+    consoler.log('Set location change listener')
     window.addEventListener('locationchange', function(){
       console.log('location changed!');
     })
