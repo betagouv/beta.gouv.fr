@@ -35,7 +35,8 @@
           if (panel) {
             var parent = document.createElement("div");
             var p = document.createElement("p");
-            p.textContent = "Rendez-vous ensuite sur github"
+            p.innerHTML = "Un fois un changement enregistré, rendez-vous ensuite sur github pour merger ou demander une review sur la pull request : <a href='https://github.com/betagouv/beta.gouv.fr/pulls'>https://github.com/betagouv/beta.gouv.fr/pulls</a>"
+            p.style = "max-width: 800px; margin: 0px auto; padding-bottom: 16px; font-size: 16px;"
             panel.prepend(p);
           }
           count = 0
