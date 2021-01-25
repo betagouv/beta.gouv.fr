@@ -1,11 +1,11 @@
 ---
 title: La Bonne Alternance
 mission: Se former et travailler en alternance
-owner: Mission apprentissage
+owner: Mission apprentissage & Pôle emploi 
 sponsors: 
     - name: Mission nationale apprentissage
       acronym: MNA
-incubator: pole-emploi
+incubator: mission-apprentissage
 phases:
   - name: investigation
     start: 2018-03-19
