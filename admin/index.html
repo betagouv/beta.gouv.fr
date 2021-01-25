@@ -1,6 +1,5 @@
 <!doctype html>
 <html>
-
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -17,14 +16,17 @@
     button[class*="ToolbarButton-button-default-buttonMargin-noOverflow-DeleteButton-lightRed"] {
       display: none;
     }
-    div[class*="ControlPaneContainer"]::before{
-      content: 'Aller ensuite voir la pull request sur';
-      font-size: 12px;
-    }
   </style>
 </head>
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms/dist/netlify-cms.js"></script>
+  <script>
+    var elem = document.querySelector('div[class*="ControlPaneContainer"]')
+    console.log(elem)
+    window.addEventListener('locationchange', function(){
+      console.log('location changed!');
+    })
+  </script>
 </body>
 </html>
