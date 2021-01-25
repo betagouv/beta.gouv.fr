@@ -77,7 +77,8 @@ collections:
     editor:
       preview: false
     fields:
-      - hint: "This is an hint"
+      - name: hint
+        hint: "This is an hint"
       - label: Nom
         name: title
         widget: string
