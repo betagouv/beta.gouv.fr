@@ -1,5 +1,5 @@
 ---
-title: @docs
+title: atdocs
 mission: Simplifier l’accès aux documents publics
 incubator: culture
 phases:
