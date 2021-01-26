@@ -7,6 +7,8 @@ missions:
     end: 2021-04-30
     status: independent
     employer: NUMA
+startups:
+  - atdocs
 ---
 
 Depuis +10 ans, j'aide les organisations et les équipes projets à mieux comprendre leurs challenges et à saisir des opportunités pour délivrer de la valeur à leur business, à leurs utilisateurs et à leur collaborateurs. 
