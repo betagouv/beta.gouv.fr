@@ -9,7 +9,7 @@ open: true
 ---
 
 L'équipe data.insertion, en collaboration avec RDV-Solidarités, recherche un·e Lead développeur·se Ruby on Rails pour une période de minimum 3 mois. 
-Vous mettrez à disposition des travailleurs sociaux des Conseils Départementaux une solution pour accélérer la prise du premier rdv, en vous appuyant sur la solution rdv-solidarités (https://www.rdv-solidarites.fr/)
+Vous mettrez à disposition des travailleurs sociaux des Conseils Départementaux une solution pour accélérer la prise du premier rdv des nouveaux bénéficiaires du RSA, en vous appuyant sur la solution [RDV-Solidarités](https://www.rdv-solidarites.fr/).
 
 <!--more-->
 
@@ -19,7 +19,7 @@ Quand une personne en insertion sollicite une prise en charge par les services p
 
 data.insertion se fixe pour objectif d'améliorer le parcours d'insertion global, par une meilleure circulation des flux de données. 
 
-Nous commencerons par mener des expérimentations avec les Conseils Départementaux. Nous sommes dans une logique de "hacking" pour apporter des solutions aux blocages identifiés. 
+Nous commencerons par mener des expérimentations avec les Conseils Départementaux. Nous sommes dans une logique de "hacking" pour apporter des solutions rapides aux blocages identifiés. 
 
 L'équipe est composée d'un PO, 2 Business Developer et un dev, et grossit au fil des expérimentations. 
 
@@ -28,7 +28,7 @@ L'équipe est composée d'un PO, 2 Business Developer et un dev, et grossit au f
 
 data.insertion se structure et va lancer ses premières expérimentations avec les acteurs de l'insertion volontaires !
 
-Pour cette expérimentation, nous travaillerons main dans la main avec une autre start-up d'Etat 'RDV-Solidarités', puisqu'il s'agira d'adapter cette solution de prise de rendez-vous dans quelques départements. 
+Pour cette expérimentation, nous travaillons main dans la main avec une autre Start-up d'État 'RDV-Solidarités', puisqu'il s'agit d'apporter un service qui repose sur leur solution de prise de RDV en ligne.
 
 
 ## Stack
@@ -40,13 +40,14 @@ Pour cette expérimentation, nous travaillerons main dans la main avec une autre
 
 ## Rôle
 
-L'objectif est d'exploiter le flux quotidien des nouvelles demandes RSA de la CAF vers les CD (flux "instruction") pour :
-- Permettre la création d'un usager sur RDV-solidarités par API 
-- Programmer un envoi automatique d'email aux usagers pour prise de RDV
+L'objectif est d'exploiter le flux quotidien des nouvelles demandes RSA envoyé par la CAF aux conseils départements (flux "instruction") pour dans un premier temps :
+- Créer des fichers usager sur RDV-Solidarités ; 
+- Programmer un envoi automatique d'email aux usagers pour prise de RDV ;
+- Permettre un suivi d'avancement sur les RDV pris et les bénéficiaires à re-solliciter.
 
 Vous êtes capable de travailler en autonomie et en interaction avec les différentes équipes (data.insertion, RDV solidarités, Conseils Départementaux...).
 
-En binôme avec un PO, vous êtes en charge de la priorisation des features, ainsi que d'identifier et suivre des KPI permettant de suivre dans le temps l'impact des fonctionnalités développées. 
+En binôme avec un PO, vous êtes en charge de la priorisation des premières fonctionnalités, ainsi que d'identifier et suivre des KPI permettant de suivre dans le temps leur impact. 
 
 
 ## Postuler
