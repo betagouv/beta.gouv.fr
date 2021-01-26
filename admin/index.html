@@ -13,11 +13,23 @@
     div[class*="ToolbarSubSectionFirst-ToolbarSubSectionLast"] {
       display: none;
     }
+
     button[class*="ToolbarButton-button-default-buttonMargin-noOverflow-DeleteButton-lightRed"] {
       display: none;
     }
+
+    div[class*="CollectionMain"]>div {
+      padding-top: 60px;
+    }
+
+    div[class*="SearchContainer"] {
+      position: fixed;
+      left: 340px;
+      width: 660px;
+    }
   </style>
 </head>
+
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms/dist/netlify-cms.js"></script>
@@ -49,14 +61,14 @@
       }, 1000);
     }
     setIntervalCheck()
-    window.onload = function() {
+    window.onload = function () {
       var bodyList = document.querySelector("body");
-      var observer = new MutationObserver(function(mutations) {
-        mutations.forEach(function(mutation) {
-            if (oldHref != document.location.href) {
-              oldHref = document.location.href;
-              setIntervalCheck()
-            }
+      var observer = new MutationObserver(function (mutations) {
+        mutations.forEach(function (mutation) {
+          if (oldHref != document.location.href) {
+            oldHref = document.location.href;
+            setIntervalCheck()
+          }
         });
       });
       var config = {
