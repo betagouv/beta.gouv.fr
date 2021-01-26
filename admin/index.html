@@ -18,14 +18,18 @@
       display: none;
     }
 
-    [class*="CollectionMain"]>div {
-      padding-top: 60px;
+    [class*="CollectionMain"]>div:first-of-type {
+      padding-top: 100px;
     }
 
     div[class*="SearchContainer"] {
       position: absolute;
-      left: 340px;
-      width: 660px;
+      left: 268px;
+      width: 682px;
+      top: 0px;
+      padding: 20px;
+      z-index: 200;
+      background-color: white;
     }
   </style>
 </head>
@@ -79,4 +83,5 @@
     };
   </script>
 </body>
+
 </html>
