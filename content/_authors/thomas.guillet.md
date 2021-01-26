@@ -19,6 +19,7 @@ missions:
     end: 2021-06-30
     status: independent
 startups:
+  - data.insertion
   - lapins
 previously:
   - mes-aides
