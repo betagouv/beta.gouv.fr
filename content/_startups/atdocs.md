@@ -1,6 +1,7 @@
 ---
 title: atdocs
 mission: Simplifier l’accès aux documents publics
+owner: Ministère de la Culture
 incubator: culture
 phases:
   - name: investigation
@@ -11,6 +12,7 @@ stats: false
 stats_url:
 contact: ateliernumerique@culture.gouv.fr
 ---
+
 
 ## Le contexte :
 Toute personne dispose d’un droit d’accès aux documents détenus par l’administration. Cependant, ce principe est régi par un corpus juridique complexe qui souffre de nombreuses exceptions et cas particuliers qui font de la recherche de l’usager un parcours semé d’embûches et (parfois) de cul de sac. 
