@@ -59,6 +59,9 @@
             var saveButton = document.querySelector('[class*="SaveButton"');
             console.log('LCS TEST SAVE BUTTON', saveButton)
             if (saveButton) {
+              saveButton.onclick = function () {
+                alert(`La prochaine étapes est d'aller sur github pour demander une review sur la pull request`)
+              }
               var parent = document.createElement('div');
               parent.className = "SaveButtonContainer";
               parent.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px; position: relative; margin-top: 20px; margin-bottom: 100px;";
