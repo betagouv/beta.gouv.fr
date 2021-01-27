@@ -47,11 +47,6 @@ Le montant du ticket global sera dépensé via les marchés de la DINUM sous for
 
 [Plus de détails sur la convention d'un gagnant du Fast 2](https://static.data.gouv.fr/resources/conventions-de-partenariat/20191211-144234/avenant-trackdechets.pdf) 
 
-## Comment les projets sont-ils pré-sélectionnés ?
-
-Les projets sont pré-sélectionnés sur dossier. Que vous représentiez une administration centrale ou déconcentrée, une agence publique, un établissement public ou une autre administration, vous pouvez remplir [le formulaire de candidature.](https://www.demarches-simplifiees.fr/commencer/fast7) 
-
-À noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
 
 ## Quelles sont les conditions d'éligibilité ?
 
