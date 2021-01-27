@@ -41,6 +41,7 @@
     var intervalID
     function createExplanationParagraph() {
       var p = document.createElement("p");
+      p.className = "onTheFlyElement"
       p.innerHTML = "Une fois un changement enregistré, rendez-vous ensuite sur github pour merger ou demander une review sur la pull request : <a target='_blank' href='https://github.com/betagouv/beta.gouv.fr/pulls'>https://github.com/betagouv/beta.gouv.fr/pulls</a>"
       p.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px;"
       return p
@@ -50,51 +51,44 @@
       var panel = undefined
       window.clearInterval(intervalID)
       intervalID = window.setInterval(() => {
-        panel = document.querySelector('div[class*="ControlPaneContainer"]')
-        if (++count === 10 || panel) {
+        panel = document.querySelector('div[class*="ControlPaneContainer"]');
+        let onTheFlyElement = document.querySelector('.onTheFlyElement');
+        if (panel && !onTheFlyElement) {
           console.log('LCS THIS IS ELEM', panel, count)
-          if (panel) {
-            panel.prepend(createExplanationParagraph());
-            panel.append(createExplanationParagraph());
-            var saveButton = document.querySelector('[class*="SaveButton"');
-            console.log('LCS TEST SAVE BUTTON', saveButton)
-            if (saveButton) {
-              saveButton.onclick = function () {
-                alert(`La prochaine étapes est d'aller sur github pour demander une review sur la pull request`)
-              }
-              var parent = document.createElement('div');
-              parent.className = "SaveButtonContainer";
-              parent.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px; position: relative; margin-top: 20px; margin-bottom: 100px;";
-              saveButton.style = "position: absolute; right: 0; bottom: 0;  background-color: rgb(58, 105, 199); color: white; font-size:20px;";
-              panel.append(parent);
-              console.log('LCS APPEND PARENT TO PANEL', parent)
-              parent.appendChild(saveButton);
-              window.parenttest = parent
+          panel.prepend(createExplanationParagraph());
+          panel.append(createExplanationParagraph());
+          var saveButton = document.querySelector('[class*="SaveButton"');
+          console.log('LCS TEST SAVE BUTTON', saveButton)
+          if (saveButton) {
+            saveButton.onclick = function () {
+              alert(`La prochaine étapes est d'aller sur github pour demander une review sur la pull request`)
             }
+            var parent = document.createElement('div');
+            parent.className = "SaveButtonContainer";
+            parent.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px; position: relative; margin-top: 20px; margin-bottom: 100px;";
+            saveButton.style = "position: absolute; right: 0; bottom: 0;  background-color: rgb(58, 105, 199); color: white; font-size:20px;";
+            panel.append(parent);
+            console.log('LCS APPEND PARENT TO PANEL', parent)
+            parent.appendChild(saveButton);
+            window.parenttest = parent
           }
-          count = 0
-          window.clearInterval(intervalID);
         }
       }, 1000);
     }
-    console.log('LCS SET TIMEOUT')
-    setTimeout(() => {
-      setIntervalCheck()
-      var bodyList = document.querySelector("body");
-      var observer = new MutationObserver(function (mutations) {
-        mutations.forEach(function (mutation) {
-          if (oldHref != document.location.href) {
-            oldHref = document.location.href;
-            setIntervalCheck()
-          }
-        });
-      });
-      var config = {
-        childList: true,
-        subtree: true
-      };
-      observer.observe(bodyList, config);
-    }, 1000)
+    setIntervalCheck()
+    // var bodyList = document.querySelector("body");
+    // var observer = new MutationObserver(function (mutations) {
+    //   mutations.forEach(function (mutation) {
+    //     if (oldHref != document.location.href) {
+    //       oldHref = document.location.href;
+    //     }
+    //   });
+    // });
+    // var config = {
+    //   childList: true,
+    //   subtree: true
+    // };
+    // observer.observe(bodyList, config);
   </script>
 </body>
 
