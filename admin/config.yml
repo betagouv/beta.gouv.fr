@@ -231,25 +231,25 @@ collections:
             name: context
             widget: string
           - label: Titre du contexte
-            name: context
+            name: contextexp
             widget: text
           - label: Titre du problème
-            name: context
+            name: probleme
             widget: string
           - label: Explication du problème
-            name: text
+            name: problemeexp
             widget: string
           - label: Titre de la solution
-            name: context
+            name: solution
             widget: string
           - label: Explication de la solution
-            name: text
+            name: solutionexp
             widget: string
           - label: Titre de la stratégie
-            name: context
+            name: strategie
             widget: string
           - label: Explication de la stratégie
-            name: context
+            name: strategieexp
             widget: text
   - name: "authors"
     identifier_field: fullname
