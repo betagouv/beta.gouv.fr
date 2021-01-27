@@ -178,7 +178,8 @@ collections:
       - label: Description
         name: body
         widget: markdown
-        default: '## Le contexte
+        default: '
+          ## Le contexte
           Chaque fois que l’État élabore un projet de texte législatif ou réglementaire qui porte sur le statut des fonctionnaires, l’État doit le soumettre pour avis aux instances du dialogue social compétentes.
 
           Ces instances sont :
