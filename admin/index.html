@@ -54,15 +54,12 @@
         if (++count === 10 || panel) {
           console.log('LCS THIS IS ELEM', panel, count)
           if (panel) {
-            var parent = document.createElement("div");
             panel.prepend(createExplanationParagraph());
             panel.append(createExplanationParagraph());
-          }
-          panel = document.querySelector('div[class*="ControlPaneContainer"]')
-
-          var saveButton = document.querySelector('[class*="SaveButton"')
-          if (saveButton) {
-            panel.append(saveButton);
+            var saveButton = document.querySelector('[class*="SaveButton"')
+            if (saveButton) {
+              panel.append(saveButton);
+            }
           }
           count = 0
           window.clearInterval(intervalID);
