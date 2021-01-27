@@ -22,9 +22,13 @@
       background-color: #3a69c7;
     }
 
-    [class*='SaveButton'] {
+    [class*="ToolbarSubSectionFirst"]>[class*='SaveButton'] {
       background-color: rgb(58, 105, 199);
       color: white;
+      position: fixed;
+      /* right: 20px;
+      bottom: 20px; */
+      font-size: 20px;
     }
   </style>
 </head>
@@ -56,10 +60,9 @@
           }
           panel = document.querySelector('div[class*="ControlPaneContainer"]')
 
-          var saveButton = document.getElementById('[class*="SaveButton"')
+          var saveButton = document.querySelector('[class*="SaveButton"')
           if (saveButton) {
-            cloneSaveButton = saveButton.cloneNode(true);
-            cloneSaveButton.onclick = saveButton.onclick;
+            panel.append(saveButton);
           }
           count = 0
           window.clearInterval(intervalID);
