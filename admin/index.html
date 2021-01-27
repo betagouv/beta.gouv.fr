@@ -76,8 +76,8 @@
         }
       }, 1000);
     }
-    setIntervalCheck()
-    window.onload = function () {
+    setTimeout(() => {
+      setIntervalCheck()
       var bodyList = document.querySelector("body");
       var observer = new MutationObserver(function (mutations) {
         mutations.forEach(function (mutation) {
@@ -92,7 +92,7 @@
         subtree: true
       };
       observer.observe(bodyList, config);
-    };
+    }, 1000)
   </script>
 </body>
 
