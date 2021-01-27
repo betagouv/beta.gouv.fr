@@ -15,20 +15,29 @@ Vous mettrez à disposition des travailleurs sociaux des Conseils Départementau
 
 ## data.insertion
 
-Quand une personne en insertion sollicite une prise en charge par les services publics, c'est bien souvent le début d'un long parcours du combattant qui démarre. 
+data.insertion se fixe pour objectif d'améliorer le parcours global des personnes en insertion par une meilleure circulation des flux de données. 
 
-data.insertion se fixe pour objectif d'améliorer le parcours d'insertion global, par une meilleure circulation des flux de données. 
+Pour cela, nous menons un ensemble d'expérimentations avec les acteurs de l'insertion. Nous sommes dans une logique de "hacking" pour apporter des solutions rapides aux nombreux blocages identifiés.
 
-Nous commencerons par mener des expérimentations avec les Conseils Départementaux. Nous sommes dans une logique de "hacking" pour apporter des solutions rapides aux blocages identifiés. 
-
-L'équipe data.insertion est composée d'un responsable de produit, deux chargées des partenariats et un développeur, et cette équipe va grossir au fil des expérimentations. 
+L'enjeu pour les personnes en insertion ? réduire les délais d'orientation, permettre qu'un plus grand nombre bénéficient d'un accompagnement, ou encore faire en sorte de personnaliser les parcours ! 
 
 
 ## Où en sommes-nous ?
 
-data.insertion se structure et va lancer ses premières expérimentations avec les acteurs de l'insertion volontaires !
+Composée d'un responsable de produit, deux chargés de partenariats et un coach technique, l'équipe data.insertion se structure et va grandir au fil des expérimentations !
 
-Pour cette expérimentation, nous travaillons main dans la main avec une autre Start-up d'État RDV-Solidarités, puisqu'il s'agit d'apporter un service qui repose sur leur solution de prise de RDV en ligne.
+Pour cette expérimentation, nous travaillons main dans la main avec une autre start-up d'État RDV-Solidarités, puisqu'il s'agit d'apporter un service qui repose sur leur solution de prise de RDV en ligne.
+
+
+## Responsabilités
+
+Vous êtes autonome dans la conception, l'écriture et le déploiement de votre code, et en maîtrisez les bonnes pratiques.
+
+Vous êtes curieux, et capable d'interagir avec différentes équipes beta.gouv (data.insertion, RDV solidarités), ainsi qu'avec les Conseils Départementaux. 
+
+En binôme avec un PO, vous êtes en charge de prioriser les fonctionnalités et suivre la par la valeur l'avancée des développements, par la création et le suivi d'indicateurs chiffrés.
+
+Vous serez le/la premier.e dev de l'équipe data.insertion : vous êtes motivé.e pour rejoindre un projet en création, et vous pourrez être amené.e à prendre une responsabilité d'encadrement et de coach technique pour les futures dev de l'équipe. 
 
 
 ## Stack
@@ -38,20 +47,16 @@ Pour cette expérimentation, nous travaillons main dans la main avec une autre S
 - Bonnes pratiques : le code est testé, revu, est déployé par petits lots
 
 
-## Rôle
+## Le projet 
 
 L'objectif est d'exploiter le flux quotidien des nouvelles demandes RSA envoyé par la CAF aux conseils départements (flux "instruction") pour dans un premier temps :
 - Permettre aux départements de déposer les fichiers flux ;
 - Analyser les fichiers et évaluer le nombre de bénéficiaires pouvant être contactés ;
 - Permettre aux départements de valider les créations de compte et envoi d'emails ;
-- Créer des fichers usager sur RDV-Solidarités ; 
+- Créer des fiches usager sur RDV-Solidarités ; 
 - Programmer un envoi automatique d'email aux usagers pour prise de RDV ;
 - Permettre aux départements d'envoyer des emails de relance pour la prise d'un RDV et
 - Permettre un suivi d'avancement sur les RDV pris et les bénéficiaires à re-solliciter.
-
-Vous êtes capable de travailler en autonomie et en interaction avec les différentes équipes (data.insertion, RDV solidarités, Conseils Départementaux...).
-
-En binôme avec un PO, vous êtes en charge de la priorisation des premières fonctionnalités, ainsi que d'identifier et suivre des indicateurs chiffrés permettant de suivre l'impact de l'expérimentation. 
 
 
 ## Postuler
