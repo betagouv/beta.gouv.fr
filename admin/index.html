@@ -55,7 +55,7 @@
           console.log('LCS THIS IS ELEM', panel, count)
           if (panel) {
             panel.prepend(createExplanationParagraph());
-            panel.appendChild(createExplanationParagraph());
+            panel.append(createExplanationParagraph());
             var saveButton = document.querySelector('[class*="SaveButton"');
             console.log('LCS TEST SAVE BUTTON', saveButton)
             if (saveButton) {
@@ -63,7 +63,7 @@
               parent.className = "SaveButtonContainer";
               // parent.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px; position: relative; margin-top: 20px; margin-bottom: 100px;";
               saveButton.style = "position: absolute; right: 0; bottom: 0;  background-color: rgb(58, 105, 199); color: white; font-size:20px;";
-              panel.appendChild(parent);
+              panel.append(parent);
               console.log('LCS APPEND PARENT TO PANEL', parent)
               // parent.appendChild(saveButton);
             }
