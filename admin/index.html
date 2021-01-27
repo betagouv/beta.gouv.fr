@@ -1,5 +1,6 @@
 <!doctype html>
 <html>
+
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -26,8 +27,6 @@
       background-color: rgb(58, 105, 199);
       color: white;
       position: fixed;
-      /* right: 20px;
-      bottom: 20px; */
       font-size: 20px;
     }
   </style>
@@ -54,7 +53,6 @@
         panel = document.querySelector('div[class*="ControlPaneContainer"]');
         let onTheFlyElement = document.querySelector('.onTheFlyElement');
         if (panel && !onTheFlyElement) {
-          console.log('LCS THIS IS ELEM', panel, count)
           panel.prepend(createExplanationParagraph());
           panel.append(createExplanationParagraph());
           var saveButton = document.querySelector('[class*="SaveButton"') || window.saveButton
@@ -71,19 +69,6 @@
       }, 1000);
     }
     setIntervalCheck()
-    // var bodyList = document.querySelector("body");
-    // var observer = new MutationObserver(function (mutations) {
-    //   mutations.forEach(function (mutation) {
-    //     if (oldHref != document.location.href) {
-    //       oldHref = document.location.href;
-    //     }
-    //   });
-    // });
-    // var config = {
-    //   childList: true,
-    //   subtree: true
-    // };
-    // observer.observe(bodyList, config);
   </script>
 </body>
 
