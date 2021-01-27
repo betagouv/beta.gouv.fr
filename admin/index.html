@@ -59,10 +59,11 @@
             var saveButton = document.querySelector('[class*="SaveButton"');
             if (saveButton) {
               var parent = document.createElement('div');
+              parent.className = "SaveButtonContainer";
               parent.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px; position: relative; margin-top: 20px; margin-bottom: 100px;";
               saveButton.style = "position: absolute; right: 0; bottom: 0;  background-color: rgb(58, 105, 199); color: white; font-size:20px;";
               panel.append(parent);
-              parent.append(saveButton);
+              // parent.append(saveButton);
             }
           }
           count = 0
