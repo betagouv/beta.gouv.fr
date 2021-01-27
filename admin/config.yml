@@ -178,7 +178,7 @@ collections:
       - label: Description
         name: body
         widget: markdown
-        default: '
+        default: >
           ## Le contexte
           Chaque fois que l’État élabore un projet de texte législatif ou réglementaire qui porte sur le statut des fonctionnaires, l’État doit le soumettre pour avis aux instances du dialogue social compétentes.
 
@@ -223,7 +223,6 @@ collections:
           La solution numérique devait être expérimentée avec la DGAFP sur un CCFP / CSFPE courant 2020. 
 
           Il avait été envisagé d’associer les partenaires sociaux en tant qu’utilisateurs pour la saisie des amendements. Le produit aurait également être pu proposé aux administrations en charge des CSFPT et CSFPH.
-        '
       - label: Description2
         name: body2
         widget: "object"
