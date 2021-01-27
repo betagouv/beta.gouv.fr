@@ -46,28 +46,6 @@ date_field_defaults: &date_field_defaults
   default: null
 
 collections:
-  - name: incubators
-    label: Incubateurs
-    label_singular: Incubateur
-    folder: "content/_incubators"
-    create: true
-    delete: false
-    slug: "{{slug}}"
-    editor:
-      preview: false
-    fields:
-      - { label: Nom, name: title, widget: string }
-      - { label: Responsable, name: owner, widget: string }
-      - { label: Site, name: website, widget: string }
-      - { label: Dépôts des produits, name: github, widget: string }
-      - { label: Contact, name: contact, widget: string }
-      - { label: Adresse, name: address, widget: string }
-      - label: Redirections
-        label_singular: Redirection
-        name: redirect_from
-        widget: list
-        collapsed: false
-        field: { label: Source, name: name, widget: string }
   - name: startups
     label: Produits
     label_singular: Produit
@@ -293,6 +271,28 @@ collections:
         name: body
         widget: markdown
         required: false
+  - name: incubators
+    label: Incubateurs
+    label_singular: Incubateur
+    folder: "content/_incubators"
+    create: true
+    delete: false
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: Nom, name: title, widget: string }
+      - { label: Responsable, name: owner, widget: string }
+      - { label: Site, name: website, widget: string }
+      - { label: Dépôts des produits, name: github, widget: string }
+      - { label: Contact, name: contact, widget: string }
+      - { label: Adresse, name: address, widget: string }
+      - label: Redirections
+        label_singular: Redirection
+        name: redirect_from
+        widget: list
+        collapsed: false
+        field: { label: Source, name: name, widget: string }
   - name: phases
     label: Phases
     label_singular: Phase
