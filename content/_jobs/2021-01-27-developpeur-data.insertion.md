@@ -1,4 +1,3 @@
-
 ---
 roles: un·e développeur·se
 title: data.insertion recrute un.e developpeur.se
