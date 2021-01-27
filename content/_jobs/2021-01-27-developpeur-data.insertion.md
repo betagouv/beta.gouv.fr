@@ -61,4 +61,4 @@ L'objectif est d'exploiter le flux quotidien des nouvelles demandes RSA envoyé 
 
 ## Postuler
 
-Pour postuler, [contactez-nous par email](mailto:data.insertion@beta.gouv.fr).
+Pour postuler, [contactez-nous par email](mailto:data.insertion@beta.gouv.fr?cc=contact@rdv-solidarites.fr).
