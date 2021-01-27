@@ -57,7 +57,8 @@
           console.log('LCS THIS IS ELEM', panel, count)
           panel.prepend(createExplanationParagraph());
           panel.append(createExplanationParagraph());
-          var saveButton = document.querySelector('[class*="SaveButton"');
+          var saveButton = document.querySelector('[class*="SaveButton"') || window.saveButton
+          window.saveButton = saveButton
           console.log('LCS TEST SAVE BUTTON', saveButton)
           if (saveButton) {
             saveButton.onclick = function () {
