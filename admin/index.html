@@ -69,6 +69,7 @@
               panel.append(parent);
               console.log('LCS APPEND PARENT TO PANEL', parent)
               parent.appendChild(saveButton);
+              window.parenttest = parent
             }
           }
           count = 0
@@ -76,6 +77,7 @@
         }
       }, 1000);
     }
+    console.log('LCS SET TIMEOUT')
     setTimeout(() => {
       setIntervalCheck()
       var bodyList = document.querySelector("body");
