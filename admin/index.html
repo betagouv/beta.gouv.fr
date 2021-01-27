@@ -13,11 +13,26 @@
     div[class*="ToolbarSubSectionFirst-ToolbarSubSectionLast"] {
       display: none;
     }
+
     button[class*="ToolbarButton-button-default-buttonMargin-noOverflow-DeleteButton-lightRed"] {
       display: none;
     }
+
+    [class*='StyledWrapper']>[class*="AppHeaderQuickNewButton"] {
+      background-color: #3a69c7;
+    }
+
+    [class*="ToolbarSubSectionFirst"]>[class*='SaveButton'] {
+      background-color: rgb(58, 105, 199);
+      color: white;
+      position: fixed;
+      /* right: 20px;
+      bottom: 20px; */
+      font-size: 20px;
+    }
   </style>
 </head>
+
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms/dist/netlify-cms.js"></script>
@@ -26,6 +41,7 @@
     var intervalID
     function createExplanationParagraph() {
       var p = document.createElement("p");
+      p.className = "onTheFlyElement"
       p.innerHTML = "Une fois un changement enregistré, rendez-vous ensuite sur github pour merger ou demander une review sur la pull request : <a target='_blank' href='https://github.com/betagouv/beta.gouv.fr/pulls'>https://github.com/betagouv/beta.gouv.fr/pulls</a>"
       p.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px;"
       return p
@@ -35,36 +51,40 @@
       var panel = undefined
       window.clearInterval(intervalID)
       intervalID = window.setInterval(() => {
-        panel = document.querySelector('div[class*="ControlPaneContainer"]')
-        if (++count === 10 || panel) {
+        panel = document.querySelector('div[class*="ControlPaneContainer"]');
+        let onTheFlyElement = document.querySelector('.onTheFlyElement');
+        if (panel && !onTheFlyElement) {
           console.log('LCS THIS IS ELEM', panel, count)
-          if (panel) {
-            var parent = document.createElement("div");
-            panel.prepend(createExplanationParagraph());
-            panel.append(createExplanationParagraph());
+          panel.prepend(createExplanationParagraph());
+          panel.append(createExplanationParagraph());
+          var saveButton = document.querySelector('[class*="SaveButton"') || window.saveButton
+          window.saveButton = saveButton
+          if (saveButton) {
+            var parent = document.createElement('div');
+            parent.className = "SaveButtonContainer";
+            parent.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px; position: relative; margin-top: 20px; margin-bottom: 100px;";
+            saveButton.style = "position: absolute; right: 0; bottom: 0;  background-color: rgb(58, 105, 199); color: white; font-size:20px;";
+            panel.append(parent);
+            parent.appendChild(saveButton);
           }
-          count = 0
-          window.clearInterval(intervalID);
         }
       }, 1000);
     }
     setIntervalCheck()
-    window.onload = function() {
-      var bodyList = document.querySelector("body");
-      var observer = new MutationObserver(function(mutations) {
-        mutations.forEach(function(mutation) {
-            if (oldHref != document.location.href) {
-              oldHref = document.location.href;
-              setIntervalCheck()
-            }
-        });
-      });
-      var config = {
-        childList: true,
-        subtree: true
-      };
-      observer.observe(bodyList, config);
-    };
+    // var bodyList = document.querySelector("body");
+    // var observer = new MutationObserver(function (mutations) {
+    //   mutations.forEach(function (mutation) {
+    //     if (oldHref != document.location.href) {
+    //       oldHref = document.location.href;
+    //     }
+    //   });
+    // });
+    // var config = {
+    //   childList: true,
+    //   subtree: true
+    // };
+    // observer.observe(bodyList, config);
   </script>
 </body>
+
 </html>
