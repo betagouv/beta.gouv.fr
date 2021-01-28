@@ -1,6 +1,6 @@
 ---
 roles: un·e développeur·se
-title: data.insertion recrute un.e developpeur.se
+title: data.insertion recrute un·e developpeur·se
 contrat: independant
 startup: data.insertion
 techno: Ruby on Rails
@@ -33,11 +33,11 @@ Pour cette expérimentation, nous travaillons main dans la main avec une autre s
 
 Vous êtes autonome dans la conception, l'écriture et le déploiement de votre code, et en maîtrisez les bonnes pratiques.
 
-Vous êtes curieux, et capable d'interagir avec différentes équipes beta.gouv (data.insertion, RDV solidarités), ainsi qu'avec les Conseils Départementaux. 
+Vous êtes curieux, et capable d'interagir avec différentes équipes beta.gouv (data.insertion, RDV-Solidarités), ainsi qu'avec les Conseils Départementaux. 
 
 En binôme avec un PO, vous êtes en charge de prioriser les fonctionnalités et suivre la par la valeur l'avancée des développements, par la création et le suivi d'indicateurs chiffrés.
 
-Vous serez le/la premier.e dev de l'équipe data.insertion : vous êtes motivé.e pour rejoindre un projet en création, et vous pourrez être amené.e à prendre une responsabilité d'encadrement et de coach technique pour les futures dev de l'équipe. 
+Vous serez la premier·e dev de l'équipe data.insertion : vous êtes motivé·e pour rejoindre un projet en création, et vous pourrez être amené·e à prendre une responsabilité d'encadrement et de coach technique pour les futures dev de l'équipe. 
 
 
 ## Stack
@@ -58,6 +58,7 @@ L'objectif est d'exploiter le flux quotidien des nouvelles demandes RSA envoyé 
 - Permettre aux départements d'envoyer des emails de relance pour la prise d'un RDV et
 - Permettre un suivi d'avancement sur les RDV pris et les bénéficiaires à re-solliciter.
 
+Au delà des contributions à RDV-Solidarités, vous aurez aussi à créer une application minimaliste (front et back) pour l'envoi des fichiers et le suivi de l'avancement de la prise des RDV. De plus, il est aussi possible que vous ayez à travailler avec certains logiciels des départements afin de leur éviter des saisies manuelles ou des resaisies en masse.
 
 ## Postuler
 
