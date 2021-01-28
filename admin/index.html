@@ -103,11 +103,11 @@
         window.searchContainer = searchContainer
         var onTheFlySearchContainerElement = document.querySelector('.onTheFlySearchContainerElement');
         if (collectionMain && searchContainer && !onTheFlySearchContainerElement) {
-           var parent = document.createElement('div');
-            parent.className = "onTheFlySearchContainerElement";
-            parent.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px; position: relative; margin-top: 20px; margin-bottom: 100px;";
-            parent.append(searchContainer)
-            collectionMain.prepend(parent);
+          var parent = document.createElement('div');
+          parent.className = "onTheFlySearchContainerElement";
+          parent.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px; position: relative; margin-top: 20px; margin-bottom: 100px;";
+          collectionMain.append(parent);
+          parent.append(searchContainer)
         }
         authentificationElem = document.querySelector('[class*="StyledAuthenticationPage"]');
         var onTheFlyAuthentificationElem = document.querySelector('.onTheFlyAuthentificationElem');
