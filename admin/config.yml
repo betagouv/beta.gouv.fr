@@ -55,7 +55,7 @@ collections:
     delete: false
     preview_path: "blog/{{year}}/{{month}}/{{slug}}"
     editor:
-      preview: true
+      preview: false
     fields:
       - label: Objectif
         name: mission
