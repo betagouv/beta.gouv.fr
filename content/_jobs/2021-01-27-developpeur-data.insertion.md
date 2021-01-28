@@ -37,7 +37,7 @@ Vous êtes curieux, et capable d'interagir avec différentes équipes beta.gouv 
 
 En binôme avec un PO, vous êtes en charge de prioriser les fonctionnalités et suivre la par la valeur l'avancée des développements, par la création et le suivi d'indicateurs chiffrés.
 
-Vous serez la premier·e dev de l'équipe data.insertion : vous êtes motivé·e pour rejoindre un projet en création, et vous pourrez être amené·e à prendre une responsabilité d'encadrement et de coach technique pour les futures dev de l'équipe. 
+Vous serez la première personne à faire du développement dans l'équipe data.insertion : vous êtes motivé·e pour rejoindre un projet en création, et vous pourrez être amené·e à prendre une responsabilité d'encadrement et de coach technique pour les futures dev de l'équipe.
 
 
 ## Stack
