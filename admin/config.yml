@@ -59,7 +59,8 @@ collections:
         name: title
         widget: string
       - label: Quel est son objectif principal ?
-        hint : Par exemple : "Faciliter la création d'une fiche produit". Pas besoin de faire plus long.
+        hint : >
+          Par exemple : "Faciliter la création d'une fiche produit". Pas besoin de faire plus long.
         name: mission
         widget: string
       - label: Qui est l'administration sponsor ?
@@ -90,7 +91,8 @@ collections:
               - { label: "Collectivité territoriale ", value: "collectivite-territoriale" }
               - { label: "Autre", value: "autre" }
           - label: "Cette administration intervient principalement dans quel champs de l'action publique ?"
-            hint: "Quelle est le domaine "ministériel" ou domaine "action publique" du partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter"
+            hint: >
+              Quelle est le domaine "ministériel" ou domaine "action publique" du partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter
             name: "domaine_ministeriel"
             widget: "select"
             required: false
