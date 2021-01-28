@@ -128,7 +128,7 @@ collections:
       - label: Email de contact
         name: contact
         widget: string
-        pattern: ['^[^@\s]+@[^@\s\.]+\.[^@\.\s]+$', 'Ce doit être un email valide']
+        pattern: ['^[^@\s]+@[^@\s]+\.[^@\s]+$', 'Ce doit être un email valide']
         required: false
       - label: Statistiques d'usage publiques
         name: stats
@@ -182,7 +182,6 @@ collections:
       - label: Description
         name: body
         widget: markdown
-        comment: "N'hésite pas à te référer aux autres fiches produit présentes sur le site beta.gouv"
         hint: "N'hésite pas à te référer aux autres fiches produit présentes sur le site beta.gouv"
         default: >
           Voici un exemple de format : n'hésites pas à utiliser les outils de mis-en-forme.
