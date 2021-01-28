@@ -98,8 +98,17 @@
         var onTheFlyAuthentificationElem = document.querySelector('.onTheFlyAuthentificationElem');
         if (authentificationElem && !onTheFlyAuthentificationElem) {
           var onTheFlyAuthentificationElem = document.createElement('div');
+          onTheFlyAuthentificationElem.innerHTML = `<p>
+            Bonjour,</br>
+            Bienvenue sur l'interface admin beta.gouv.fr.</br>
+            Après vous êtres connecté via Github, tu pourras : </br>
+            <ul>
+              <li>ajouter/editer une fiche produit</li>
+              <li>ajouter/editer une fiche membre</li>
+            </ul>
+          </p>`
           onTheFlyAuthentificationElem.className = "onTheFlyAuthentificationElem";
-          onTheFlyAuthentificationElem.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px; position: relative; margin-top: 20px; margin-bottom: 100px;";
+          onTheFlyAuthentificationElem.style = "max-width: 800px; width:100%; margin: 0px auto; padding-top: 16px; font-size: 16px; position: relative; margin-top: 20px; margin-bottom: 100px; top: 0px;";
           authentificationElem.prepend(onTheFlyAuthentificationElem)
         }
       }, 1000);
