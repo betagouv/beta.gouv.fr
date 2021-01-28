@@ -55,24 +55,26 @@ collections:
     editor:
       preview: false
     fields:
-      - label: Nom
+      - label: Quel est le nom de ta Startup d'ETat ?
         name: title
         widget: string
-      - label: Objectif
+      - label: Quel est son objectif principal ?
+        hint : Par exemple : "Faciliter la création d'une fiche produit". Pas besoin de faire plus long.
         name: mission
         widget: string
-      - label: Nom affiché pour l'administration partenaire
+      - label: Qui est l'administration sponsor ?
+        hint : Indiques le nom de l'administration qui porte ta Startup d'Etat.
         name: owner
         widget: string
-      - label: Détails administrations partenaires 
+      - label: Quelques infos sur la ou les administrations sponsors ou partenaires ? 
         name: sponsors
         widget: list
         collapsed: false
         fields:
-          - label: Nom
+          - label: Nom de l'administration
             name: name
             widget: string
-          - label: Acronyme
+          - label: Quel est l'acronyme de cette administration ?
             name: acronym
             widget: string
             required: false
@@ -87,8 +89,8 @@ collections:
               - { label: "Sécurité sociale", value: "securite-sociale" }
               - { label: "Collectivité territoriale ", value: "collectivite-territoriale" }
               - { label: "Autre", value: "autre" }
-          - label: "Domaine ministériel"
-            hint: "Quelle est le domaine ministériel du partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter"
+          - label: "Cette administration intervient principalement dans quel champs de l'action publique ?"
+            hint: "Quelle est le domaine "ministériel" ou domaine "action publique" du partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter"
             name: "domaine_ministeriel"
             widget: "select"
             required: false
@@ -111,7 +113,7 @@ collections:
               - { label: "Territoires", value: "territoires" }
               - { label: "Autres", value: "autres" }
       - <<: *relation_default_options
-        label: Incubateur
+        label: Quel est l'incubateur qui t'accompagne ?
         name: incubator
         collection: incubators
       - label: Lien vers le produit
@@ -175,7 +177,12 @@ collections:
             name: comment
             widget: string
             required: false
-      - label: Description
+      - label: Rédiger sa fiche produit
+        hint : Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
+          - Contexte : quel est le contexte de ta Startup d'Etat ?
+          - Problème : Les problèmes que vous avez identifiés ou vos hypothèses de problèmes? Qui en souffre ? quels sont les conséquences de ces problèmes ?
+          - Solution : décrit ta solution en quelques lignes? qui seront/sont les bénéficiaires ?
+          - Stratégie : comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
         name: body
         widget: markdown
   - name: "authors"
