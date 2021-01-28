@@ -9,6 +9,7 @@ missions:
     employer: NUMA
 startups:
   - atdocs
+  - recoler-et-apres
 ---
 
 Depuis +10 ans, j'aide les organisations et les équipes projets à mieux comprendre leurs challenges et à saisir des opportunités pour délivrer de la valeur à leur business, à leurs utilisateurs et à leur collaborateurs. 
