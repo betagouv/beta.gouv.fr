@@ -115,9 +115,9 @@
         }
         
         var createButton = document.querySelector('[class*="CollectionTopNewButton"]');
-        if (createButton.innerText === 'Créer une entrée de type Produit') {
+        if (createButton && createButton.innerText === 'Créer une entrée de type Produit') {
           createButton.innerText = 'Créer une fiche produit'
-        } else if (createButton.innerText === 'Créer une entrée de type Membre') {
+        } else if (createButton && createButton.innerText === 'Créer une entrée de type Membre') {
           createButton.innerText = 'Créer une fiche Membre'
         }
         // change authentication page
@@ -138,7 +138,7 @@
           onTheFlyAuthenticationElem.style = "max-width: 500px; width:100%; margin: 0px auto; padding-top: 16px; font-size: 16px; position: absolute; margin-top: 20px; margin-bottom: 100px; top: 0px;";
           authenticationElem.prepend(onTheFlyAuthenticationElem)
         }
-      }, 1000);
+      }, 500);
     }
     setIntervalCheck()
   </script>
