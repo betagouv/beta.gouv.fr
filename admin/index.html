@@ -98,6 +98,17 @@
             parent.appendChild(saveButton);
           }
         }
+        var collectionMain = document.querySelector('[class*="CollectionMain"]');
+        var searchContainer = document.querySelector('[class*="SearchContainer"]') || window.searchContainer;
+        window.searchContainer = searchContainer
+        var onTheFlySearchContainerElement = document.querySelector('.onTheFlySearchContainerElement');
+        if (collectionMain && searchContainer && !onTheFlySearchContainerElement) {
+           var parent = document.createElement('div');
+            parent.className = "onTheFlySearchContainerElement";
+            parent.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px; position: relative; margin-top: 20px; margin-bottom: 100px;";
+            parent.append(searchContainer)
+            panel.prepend(parent);
+        }
         authentificationElem = document.querySelector('[class*="StyledAuthenticationPage"]');
         var onTheFlyAuthentificationElem = document.querySelector('.onTheFlyAuthentificationElem');
         if (authentificationElem && !onTheFlyAuthentificationElem) {
