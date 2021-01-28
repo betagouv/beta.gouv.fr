@@ -57,12 +57,13 @@ collections:
     editor:
       preview: false
     fields:
-      - label: Objectif
-        name: mission
-        widget: string
       - label: Nom
         name: title
         widget: string
+      - label: Objectif
+        name: mission
+        widget: string
+        comment: "N'hésite pas à te référer aux autres fiches produit présentes sur le site beta.gouv"
       - label: Nom affiché pour l'administration partenaire
         name: owner
         widget: string
