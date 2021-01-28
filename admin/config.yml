@@ -63,7 +63,7 @@ collections:
       - label: Objectif
         name: mission
         widget: string
-        comment: "N'hésite pas à te référer aux autres fiches produit présentes sur le site beta.gouv"
+        comment: 'This is a multiline\ncomment'
       - label: Nom affiché pour l'administration partenaire
         name: owner
         widget: string
@@ -128,7 +128,7 @@ collections:
       - label: Email de contact
         name: contact
         widget: string
-        pattern: ['.{20,}', 'Ce doit être un email']
+        pattern: ['^[^@\s]+@[^@\s\.]+\.[^@\.\s]+$', 'Ce doit être un email valide']
         required: false
       - label: Statistiques d'usage publiques
         name: stats
