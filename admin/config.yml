@@ -63,7 +63,6 @@ collections:
       - label: Objectif
         name: mission
         widget: string
-        comment: 'This is a multiline\ncomment'
       - label: Nom affiché pour l'administration partenaire
         name: owner
         widget: string
@@ -184,7 +183,7 @@ collections:
         widget: markdown
         hint: "N'hésite pas à te référer aux autres fiches produit présentes sur le site beta.gouv"
         default: >
-          Voici un exemple de format : n'hésites pas à utiliser les outils de mis-en-forme.
+          Voici un exemple de format : n'hésites pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
 
           ## Le contexte
 
