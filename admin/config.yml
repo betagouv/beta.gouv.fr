@@ -23,7 +23,7 @@ display_url: https://beta.gouv.fr
 logo_url: https://beta.gouv.fr/assets/images/favicons/apple-touch-icon-180x180.png
 
 # La preview n'est pas utile juste pour modifier des auteurs
-show_preview_links: true
+show_preview_links: false
 
 slug:
   encoding: "ascii"
@@ -53,7 +53,6 @@ collections:
     folder: "content/_startups"
     create: true
     delete: false
-    preview_path: "blog/{{year}}/{{month}}/{{slug}}"
     editor:
       preview: false
     fields:
