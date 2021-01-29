@@ -1,7 +1,7 @@
 ---
 roles: un.e chargé.e de déploiement
 startup: ecosante
-junior: true
+junior: false
 contrat: independant
 open: true
 contact: ecosante@data.gouv.fr
