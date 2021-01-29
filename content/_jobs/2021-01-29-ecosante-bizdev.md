@@ -55,6 +55,6 @@ Votre profil nous intéresse si :
 
 ## Candidater
 
-Expliquez-nous pourquoi vous avez envie de rejoindre Ecosanté et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à [ecosanté.data.gouv.fr](mailto:ecosante.data.gouv.fr)
+Expliquez-nous pourquoi vous avez envie de rejoindre Ecosanté et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à [ecosante@data.gouv.fr](mailto:ecosante@data.gouv.fr)
 
 À bientôt !
