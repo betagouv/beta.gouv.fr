@@ -16,9 +16,9 @@ phases:
   - name: acceleration
     start: 2020-11-17
 link: https://ecolab.ademe.fr/
-repository: https://github.com/betagouv/Ecolab
+repository: https://github.com/betagouv/ecolab
 stats: true
-contact: contact@ecolab.beta.gouv.fr
+contact: contact@datagir.beta.gouv.fr
 ---
 
 # (Ré)Concilier défi planétaire et vie quotidienne
