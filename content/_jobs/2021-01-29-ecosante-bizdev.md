@@ -2,6 +2,7 @@
 roles: un.e chargé.e de déploiement
 startup: ecosante
 junior: true
+contrat: independant
 open: true
 ---
 
