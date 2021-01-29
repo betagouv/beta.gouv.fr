@@ -4,6 +4,7 @@ startup: ecosante
 junior: true
 contrat: independant
 open: true
+contact: ecosante@data.gouv.fr
 ---
 
 La Startup d’État Ecosanté recherche un(e) “chargé(e) de déploiement” afin de participer au déploiement du service.
