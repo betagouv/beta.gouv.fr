@@ -10,7 +10,7 @@ link:
 repository:
 stats: false
 stats_url:
-contact: ateliernumerique@culture.gouv.fr
+contact: ellesfontlaculture@beta.gouv.fr
 ---
 
 ![comtesse de castiglione jeu de folie](https://user-images.githubusercontent.com/36134318/104838950-58b1a600-58be-11eb-9304-2ccb0f6ac3b2.jpg)
