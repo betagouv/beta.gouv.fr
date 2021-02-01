@@ -6,14 +6,14 @@ additional_css:
   - side-panel.css
   
 # Dates de la prochaine formation
-alpha-start: 2021-01-28
-alpha-end: 2021-01-28
+alpha-start: 2021-03-04
+alpha-end: 2021-03-04
 alpha-time: de 9h30 à 17h00
 alpha-location: en visio
 alpha-location-link:
 alpha-catering:
 alpha-more:
-alpha-link: https://startupdetat.typeform.com/to/SGQMt9f0
+alpha-link: https://startupdetat.typeform.com/to/sOxRzDY5
 redirect_from:
   - /alpha
 ---
@@ -46,9 +46,9 @@ La formation se déroule sur une journée au cours de laquelle vous apprendrez �
 
 **Prochaine session**
 
-La prochaine session aura lieu le **jeudi 28 janvier 2021**.
+La prochaine session aura lieu le **jeudi 4 mars 2021**.
 
-Vous pouvez vous inscrire [via ce formulaire](https://startupdetat.typeform.com/to/SGQMt9f0).
+Vous pouvez vous inscrire [via ce formulaire](https://startupdetat.typeform.com/to/sOxRzDY5).
 
 Pour plus d’information écrivez-nous à alpha@beta.gouv.fr.
 

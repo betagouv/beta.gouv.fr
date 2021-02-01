@@ -10,7 +10,7 @@ missions:
 startups:
   - itou
   - avril
-  - itou 
+  - data.insertion
   - la-bonne-formation
   - memo
 badges:
