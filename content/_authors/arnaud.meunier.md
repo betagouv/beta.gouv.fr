@@ -7,5 +7,5 @@ missions:
     end: 2019-12-02
     status: independent
 startups:
-  - ecolab
+  - datagir
 ---
