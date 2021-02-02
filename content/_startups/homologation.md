@@ -5,7 +5,7 @@ owner: ANSSI
 incubator: Lab Inno 
 phases: # les différentes étapes de la vie des startups - les phases possibles sont définies dans /content/_phases/
   - name: investigation
-    start: 2020-01-04 
+    start: 2021-01-04 
 #    end: 
 #events: # les évènements marquants de la startup - les noms possibles sont définies dans /content/_events/
 #  - name: 
