@@ -13,7 +13,7 @@ phases:
     start: 2018-04-01
   - name: construction
     start: 2018-05-01
-    - name: acceleration
+  - name: acceleration
     start: 2018-12-01
   - name: alumni
   start: 2021-01-15
