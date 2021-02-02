@@ -1,5 +1,5 @@
 ---
-title: Startup Homologation
+title: Startup Homologation [Nom temporaire]
 mission: Simplifier et accélérer la démarche d'homologation en vous proposant une solution numérique concrète et adaptée à vos besoins # infinitif, pas de point ; compléter la phrase « En investissant dans ce produit l'État cherche à… »
 owner: ANSSI 
 incubator: Lab Inno 
@@ -17,6 +17,7 @@ stats: false
 stats_url: 
 contact: herve.lam@ssi.gouv.fr # sera visible de tous
 ---
+## En cours d'investigation
 
 ## CONTEXTE
 
@@ -24,7 +25,7 @@ Dans le cadre du Référentiel Général de Sécurité (RGS), la démarche d’h
 
 ## PROBLÈME PERÇU À INVESTIGUER
 
-Le nombre de SI homologués demeure en-dessous de la cible fixée. Si les raisons exactes restent à investiguer, il semble que l'obligation d'homologation ne soit pas toujours connue pour l'ensemble les systèmes concernés ou soit perçue comme difficile à anticiper, et contraignante à mettre en œuvre.
+Le nombre de SI homologués demeure en-dessous de la cible fixée. Si les raisons exactes restent à investiguer, il semble que l'obligation d'homologation ne soit pas toujours connue par l'ensemble des systèmes concernés ou soit perçue comme difficile à anticiper, et contraignante à mettre en œuvre.
 
 ## INTUITION DE SOLUTION
 
