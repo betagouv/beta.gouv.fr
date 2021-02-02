@@ -14,6 +14,6 @@ previously:
     - mon-entreprise
     - comobi
 startups:
-    - ecolab
+    - datagir
 ---
 

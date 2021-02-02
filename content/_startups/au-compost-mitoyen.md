@@ -18,6 +18,8 @@ repository: https://github.com/betagouv/poubellesbattle
 stats: true
 stats_url: https://www.poubellesbattle.fr/stats
 contact: poubelles-battle@beta.gouv.fr
+redirect_from:
+  - /startups/poubelles-battle
 ---
 
 Aujourd’hui, 73,6% de la population paloise habite en appartement, soit 54 122 habitants. 
