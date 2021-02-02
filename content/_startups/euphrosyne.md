@@ -1,6 +1,7 @@
 ---
 title: Euphrosyne
 mission: Rendre accessibles les données de l'accelérateur de particules Aglaé
+owner : Ministère de la Culture
 incubator: culture
 phases:
   - name: investigation

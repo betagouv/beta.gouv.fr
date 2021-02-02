@@ -1,7 +1,7 @@
 ---
 fullname: François-Joseph Grimault
 github: fjg
-link: https://www.sharypic.com
+link: https://www.linkedin.com/in/fjgrimault/
 role: Coach
 missions:
   - start: 2017-10-01
@@ -12,7 +12,7 @@ missions:
     status: independent
     employer: numa
 startups:
-  - ecolab
+  - datagir
 previously:
   - lotocar
   - mrs

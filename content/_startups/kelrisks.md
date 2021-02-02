@@ -59,4 +59,4 @@ Le service a ensuite été déployé à https://kelrisks.beta.gouv.fr/. En 2019,
 ## Arrêt de Kelrisks et mutation au transfert de Géorisques
 La Direction générale de la prévention des risques (DGPR) décide fin 2019 de transférer Kelrisks au Bureau de Recherches Géologiques et Minières (BRGM), avec l'objectif de générer facilement un état des risques règlementés (ERRIAL pour État des Risques Réglementés Information Acquéreur) nécessaire pour des transactions foncières. 
 
-Fin 2020, le service Kelrisks n'est achève sa mutation vers cet "état des risques" numérique qui devrait être disponible sur georisques.gouv.fr début 2021. 
+Début 2021, le service Kelrisks achève sa mutation vers cet "état des risques" numérique disponible à https://errial.georisques.gouv.fr/#/

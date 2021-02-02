@@ -14,5 +14,5 @@ startups:
     - protege-toit
 previously:
     - pop
-    - ecolab
+    - datagir
 ---

@@ -18,7 +18,7 @@ startups:
     - le-taxi
     - transport
     - preuve-de-covoiturage
-    - ecolab
+    - datagir
     - comobi
     - auvol
     - egalim
