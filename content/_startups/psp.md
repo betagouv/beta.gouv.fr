@@ -8,7 +8,7 @@ phases:
     start: 2019-11-05
   - name: alumni
     start: 2020-07-05
-    link:
+link:
 repository:
 stats: false
 contact: contact@beta.interieur.gouv.fr
