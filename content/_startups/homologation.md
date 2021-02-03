@@ -1,6 +1,6 @@
 ---
 title: Startup Homologation [Nom temporaire]
-mission: Simplifier et accélérer la démarche d'homologation en vous proposant une solution numérique concrète et adaptée à vos besoins # infinitif, pas de point ; compléter la phrase « En investissant dans ce produit l'État cherche à… »
+mission: Proposer un service numérique simplifiant la démarche d’homologation de sécurité des SI couverts par le RGS
 owner: ANSSI 
 incubator: Lab Inno 
 phases: # les différentes étapes de la vie des startups - les phases possibles sont définies dans /content/_phases/
