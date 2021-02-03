@@ -3,7 +3,7 @@ fullname: Nicolas Basile
 role: UX/UI designer
 missions:
   - start: 2020-11-01
-    end: 
+    end: 2021-12-31
     status: independent
 avatar: /img/authors/nicolas.basile.jpg
 startups:
