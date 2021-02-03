@@ -15,7 +15,7 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact: herve.lam@ssi.gouv.fr # sera visible de tous
+contact: herve.lam@ssi.gouv.fr 
 ---
 ## En cours d'investigation
 
