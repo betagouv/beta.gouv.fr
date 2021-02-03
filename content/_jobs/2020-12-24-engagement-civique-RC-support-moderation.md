@@ -1,7 +1,7 @@
 ---
 roles: un·e Chargé·e de modération et d’assistance aux utilisateurs
 startup: engagement-civique
-open: true 
+open: false
 title: Engagement Civique recrute un·e Chargé(e) de modération et d’assistance aux utilisateurs
 ---
 

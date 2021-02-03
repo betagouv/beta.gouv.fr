@@ -1,13 +1,13 @@
 ---
 fullname: Clémence MARTIN
-role: Chargée de déploiement 
+role: Chargée de déploiement
 missions:
   - start: 2021-01-04
     end: 2021-06-29
     status: admin
     employer: DINUM
 startups:
-  - ecolab
+  - datagir
 badges:
   - segur
 ---

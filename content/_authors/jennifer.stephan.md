@@ -1,6 +1,6 @@
 ---
 fullname: Jennifer Stephan
-role: Coach et développeuse junior
+role: Coach, PO et dév
 avatar: https://avatars3.githubusercontent.com/u/36134318?s=400&v=4
 missions:
   - start: 2018-11-06
@@ -9,10 +9,10 @@ missions:
     employer: octo
 startups:
     - ellesfontlaculture
-    - egalim
-    - poubelles-battle
+    - ma-cantine-egalim
+    - au-compost-mitoyen
     - protege-toit
 previously:
     - pop
-    - ecolab
+    - datagir
 ---

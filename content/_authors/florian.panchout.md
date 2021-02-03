@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - ecolab
+  - datagir
 badges:
   - segur
 ---
