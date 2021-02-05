@@ -1,7 +1,7 @@
 ---
-title: Itou
-mission: La réussite pour tous
-owner: Ministère du Travail, de l'Emploi et de l'Insertion
+title: "Les emplois de l'inclusion (ITOU) "
+mission: "La réussite pour tous "
+owner: Délégation générale à l'emploi et à la formation professionnelle
 sponsors:
   - name: Délégation générale à l'emploi et à la formation professionnelle
     acronym: DGEFP
