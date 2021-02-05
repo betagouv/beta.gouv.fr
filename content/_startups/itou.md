@@ -97,10 +97,3 @@ L'ambition est de proposer une solution numérique intégrée permettant de leve
 
 > « Pour l'insertion par l'activité économique, nous porterons à 240 000 le nombre de contrats, il y en a aujourd'hui 140 000.» 
 > Emmanuel Macron, Président de la République, Présentation de la stratégie nationale de prévention et de lutte contre la pauvreté, 13 septembre 2018
-
-### Outils
-
-**[inclusion.beta.gouv.fr](https://inclusion.beta.gouv.fr/)** est doté des outils suivants : 
-
-* [Forum - forum.inclusion.beta.gouv.fr](https://forum.inclusion.beta.gouv.fr)  - ouvert à tous, avec Discourse (cf. Chantier 3.)
-* [Documentation - doc.inclusion.beta.gouv.fr](https://doc.inclusion.beta.gouv.fr) - ouvert à tous, avec GitBook
