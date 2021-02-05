@@ -74,7 +74,7 @@ confie une mission d’accompagnement socio-professionnel de personnes en diffic
 
 L'**inclusion dans l'emploi** concerne le vaste dispositif de l'IAE, les [entreprises adaptées](https://travail-emploi.gouv.fr/emploi/emploi-et-handicap/article/emploi-et-handicap-les-entreprises-adaptees-ea) (EA) dont la spécificité est d'employer au moins 80% de travailleurs en situation de handicap, et les [groupements d’employeurs pour l’insertion et la qualification](https://travail-emploi.gouv.fr/emploi/insertion-activite-economique/article/groupements-d-employeurs-pour-l-insertion-et-la-qualification-geiq) (GEIQ).
 
-### Problématique
+### Problème
 
 Plus de 500.000 personnes sont en chômage de très longue durée (2 an ou plus) ([source INSEE](https://www.insee.fr/fr/statistiques/2417491#tableau-figure1)). L'Insertion par l’Activité Economique (IAE) peut être une des solutions, seulement un certain nombre de problèmes ont été soulevés par la [Cour des Comptes](https://www.ccomptes.fr/system/files/2019-01/20190115-rapport-insertion-chomeurs.pdf), nous alertant sur des freins d’accès à l’IAE et sur les modèles économiques des structures, peu connus, aux équilibres fragiles. 
 
