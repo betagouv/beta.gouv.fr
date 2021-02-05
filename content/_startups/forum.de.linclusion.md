@@ -9,6 +9,7 @@ sponsors:
     domaine_ministeriel: travail
 incubator: dinum
 link: https://forum.inclusion.beta.gouv.fr/
+repository: http://github.com/betagouv/itou
 contact: contact@inclusion.beta.gouv.fr
 events:
   - name: committee
