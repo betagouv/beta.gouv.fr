@@ -1,5 +1,5 @@
 ---
-title: "Pilotage de l'inclusion "
+title: "Le pilotage de l'inclusion "
 mission: "Réduire la charge administrative des acteurs de l'inclusion et
   faciliter le pilotage des politiques publiques "
 owner: Ministère du Travail, de l'Emploi et de l'Insertion, ITOU
