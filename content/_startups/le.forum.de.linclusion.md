@@ -1,5 +1,5 @@
 ---
-title: "Forum de l'inclusion "
+title: "Le forum de l'inclusion "
 mission: Faciliter les échanges entre acteurs de l’inclusion
 owner: Ministère du Travail, de l'Emploi et de l'Insertion, ITOU
 sponsors:
