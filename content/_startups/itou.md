@@ -1,9 +1,9 @@
 ---
 title: Itou
 mission: La réussite pour tous
-owner: la Délégation générale à l’emploi et à la formation professionnelle
-  (DGEFP) & Pôle emploi, appuyé par le Haut-commissariat à l'inclusion dans
-  l'emploi et à l'engagement des entreprises
+owner: Délégation générale à l’emploi et à la formation professionnelle (DGEFP),
+  Pôle emploi, Haut-commissariat à l'inclusion dans l'emploi et à l'engagement
+  des entreprises
 sponsors:
   - name: Délégation générale à l'emploi et à la formation professionnelle
     acronym: DGEFP
