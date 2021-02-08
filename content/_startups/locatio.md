@@ -28,14 +28,15 @@ Chez DossierFacile, nous ambitionnons de casser ce cercle vicieux pour remettre 
 
 ## Un DossierFacile c’est quoi ?
 
-DossierFacile est une plateforme en ligne qui accompagne gratuitement les candidats locataires dans la consitution de leur dossier de location. 
-Un DossierFacile, c'est un dossier simple, en ligne et totalement gratuit qui aide les locataires à rassurer bailleurs et profesionnels de l'immobilier. Pour obtenir son dossier facile rien de plus simple : le locataire dépose ses pièces sur <a href="https://dossierfacile.fr/">www.dossierfacile.fr</a> puis nos équipes effectuent une batterie de tests pour s'assurer que le dossier répond à nos critères "3C". Si le dossier est Clair, Complet et Cohérent, il est validé. Le locataire peut alors envoyé ce dossier à n'importe quels bailleurs ou professionnels de l'immobilier.
+DossierFacile est une plateforme en ligne qui accompagne gratuitement les candidats locataires dans la constitution de leur dossier de location. 
+Un DossierFacile, c'est un dossier simple, en ligne et totalement gratuit qui aide les locataires à rassurer bailleurs et profesionnels de l'immobilier. Pour obtenir son dossier facile rien de plus simple : le locataire dépose ses pièces sur <a href="https://dossierfacile.fr/">www.dossierfacile.fr</a> puis nos équipes effectuent une batterie de tests pour s'assurer que le dossier répond à nos critères "3C". Si le dossier est Clair, Complet et Cohérent, il est validé. Le locataire peut alors envoyer ce dossier à n'importe quels bailleurs ou professionnels de l'immobilier.
 
 Bailleurs et professionnels de l'immobilier, DossierFacile est là pour vous rassurer dans votre choix en synthétisant les informations des différents candidats à la location et en vérifiant les déclarations d’imposition pour éviter mauvaises surprises et fausses déclarations. Notre rôle n’est pas de choisir pour vous mais nous pouvons vous aider à vérifier que tout est bien en ordre.
 
 ## Le déploiement
 
 Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. Fin 2020, ce sont déjà plus de 250 000 locataires, 10 000 propriétaires et une dizaine de professionnels de l'immobilier qui ont choisi de nous faire confiance. Comprendre les besoins des locataires et des bailleurs est notre obsession et notre produit est en amélioration constante.
+
 Chez DossierFacile, nous voyons grand. Partant du dossier de location, nous avons l’ambition d’accompagner locataires et bailleurs tout au long de leur relation - et ce ne sont pas les idées qui nous manquent ! Pour autant, nous savons qu’inspirer la confiance est un défi de longue haleine qui ne pourra être relevé que pas à pas. Gardant tout ça en tête, nous n’avons qu’une boussole : toujours mieux servir les citoyens.
 
 Vous avez une idée ? Une question ? Vous souhaitez contribuer au projet ? <a href="mailto:contact@dossierfacile.fr">N’hésitez pas à nous écrire.</a>
