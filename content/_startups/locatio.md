@@ -16,7 +16,7 @@ phases:
   - name: acceleration
 link: https://dossierfacile.fr/?utm_source=betagouv
 repository: https://github.com/mtes-mct/locatio
-stats: https://dossierfacile.fr/stats
+stats: true
 contact: contact@dossierfacile.fr
 ---
 
