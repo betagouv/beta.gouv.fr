@@ -6,7 +6,8 @@ missions:
   - start: 2021-02-08
     end: 2021-05-08
     status: independent
-    startups: locatio
+startups:
+  - locatio
 ---
 
 Ux designer @ DossierFacile.fr
