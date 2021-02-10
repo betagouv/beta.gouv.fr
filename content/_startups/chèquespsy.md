@@ -3,8 +3,8 @@ title: Chèques Psy
 mission: Permettre aux étudiants d'être accompagné psychologiquement gratuitement et sans avance de frais
 owner: Ministère de l'Enseignement Supérieur et de la Recherche 
 sponsors: 
-    - name: DGFIP
-      acronym:
+    - name: Direction générale de l'enseignement supérieur et de l'insertion professionnelle
+      acronym: DGESIP
       domaine_ministeriel: 
       type: ministère
 phases:
