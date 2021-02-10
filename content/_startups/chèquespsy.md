@@ -10,7 +10,8 @@ sponsors:
 phases:
   - name: construction
     start: 2021-02-01
-
+incubator: dinum
+contact: contact-santepsyetudiants@beta.gouv.fr 
 ---
 
 ## Contexte
