@@ -7,6 +7,12 @@ missions:
     end: 2020-09-30
     status: independent
     employer: Octo
-startups:
+  - start: 2020-12-01
+    end: 2021-12-31
+    status: independent
+    employer: Octo
+previously:
   - aidantsconnect
+startups: 
+  - lapins
 ---
