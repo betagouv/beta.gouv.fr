@@ -20,8 +20,8 @@ En savoir plus : [https://signal.conso.gouv.fr](https://signal.conso.gouv.fr)
 
 Vous serez en charge de continuer la construction du service pour les usagers. Vous participez à la conception, aux études terrain, aux tests utilisateur. L’équipe travaille en cycle court et en se confrontant en permanence aux retours des utilisateurs.
 Désormais en consolidation, SignalConso est aujourd'hui composé des briques suivantes:
-- frontend en TypeScript RX JS (framework angular)
-- backend en Scala (framework play framework) qui expose une API
+- frontend en Angular (TypeScript,  RxJS)
+- API REST en Scala (play! framework)
 - une BDD PostgreSQL
 - déploiement sur Clever Cloud en production et sur Heroku en test/recette
 
