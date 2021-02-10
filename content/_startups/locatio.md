@@ -19,6 +19,9 @@ repository: https://github.com/mtes-mct/locatio
 stats: true
 contact: contact@dossierfacile.fr
 ---
+## Locatio devient DossierFacile.fr !
+
+Pas de panique, le nom change mais notre service reste le même !
 
 ## Une relation tendue
 
