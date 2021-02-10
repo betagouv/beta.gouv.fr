@@ -34,7 +34,7 @@ Il permettra d’automatiser et d’améliorer la publication des jeux de donné
 - Analyser les besoins utilisateurs pour orienter la construction du service
 - Définir et mettre en oeuvre les orientations UX du service
 - Réalisation de maquette du service
-- Laison avec l'équipe en charge du développement
+- Liaison avec l'équipe en charge du développement
 - Construire l’architecture d’information et les parcours de navigation
 
 **Il/Elle sera également force de proposition auprès de l'équipe Registre de Preuve de Covoiturage et des différents acteurs associés à cette initiative.
