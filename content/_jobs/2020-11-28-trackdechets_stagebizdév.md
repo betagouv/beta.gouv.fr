@@ -2,7 +2,7 @@
 roles: un·e chargé·e de déploiement (stage)
 startup: trackdechets
 junior: true
-open: true
+open: false
 title: un·e chargé·e de déploiement (stage)
 ---
 
