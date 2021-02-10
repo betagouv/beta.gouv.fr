@@ -5,7 +5,7 @@ owner: Ministère de l'Enseignement Supérieur et de la Recherche
 sponsors: 
     - name: Direction générale de l'enseignement supérieur et de l'insertion professionnelle
       acronym: DGESIP
-      domaine_ministeriel: 
+      domaine_ministeriel: enseignement-sup
       type: administration-centrale
 phases:
   - name: construction
