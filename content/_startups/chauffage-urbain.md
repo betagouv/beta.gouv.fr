@@ -8,6 +8,7 @@ phases:
     start: 2020-03-01
   - name: construction
     start: 2020-12-01
+link: https://chauffage-urbain.beta.gouv.fr/
 repository:
 stats: false
 contact: brigitte.loubet@developpement-durable.gouv.fr
@@ -34,11 +35,14 @@ Ainsi, dans le cas où les chaudières existantes arrivent en fin de vie ou lors
 - **Pour les copropriétés**, @ChauffageUrbain sera une plateforme d’**informations et de mise en relation** directe avec l’exploitant du réseau local (par exemple pour solliciter un rendez-vous ou un devis) mais aussi, d’échange avec d’autres copropriétés déjà raccordées au réseau local et “ambassadrices” de ce réseau pour partager leurs expériences et recommandations.
 - **Pour les exploitants ou collectivités** qui souhaitent agir pour la transition énergétique de leurs territoires, @ChauffageUrbain apportera de **nouveaux prospects** avec des données sur la localisation et les caractéristiques des copropriétés (mode de chauffage actuel, taille, vétusté des chaudières collectives).
 
+Le service est opérationnel en version beta sur https://chauffage-urbain.beta.gouv.fr/
 ## Stratégie de lancement
 
 Nous commençons par la cible des **copropriétés en Ile-de-France** car elles représentent de forts enjeux énergétiques (75 % de la consommation des logements collectifs - source ROSE) et sont encore peu raccordées (15 % seulement sur le réseau parisien et 1500 copropriétés sont encore chauffées au fioul dans Paris ! sources CPCU et APC ). 
 
-**Notre objectif pour les 4 prochains mois** est de construire un prototype et de le tester auprès d’une dizaine de copropriétés et de plusieurs exploitants de réseaux de chaleur, agences locales de l’énergie et collectivités. 
+**L'objectif pour le premier trimestre** est de construire un prototype (réalisé) et de le tester auprès d’une dizaine de copropriétés et de plusieurs exploitants de réseaux de chaleur, agences locales de l’énergie et collectivités. 
+L'étape suivante sera d'obtenir le financement pour une phase de promotion et croissance du service auprès des copropriétés.
+
 **A terme**, des perspectives d’extension sont possibles sur d’autres types de bâtiments ou autres régions. Des partenariats avec les acteurs régionaux et nationaux seront recherchés pour offrir plus de services facilitant la décision des copropriétés (par exemple, un simulateur économique).
 
 **Nous mesurerons l’impact** de @ChauffageUrbain par le nombre de mises en relation entre copropriétés et exploitants, puis le nombre de devis sollicités et à terme le nombre de raccordements.

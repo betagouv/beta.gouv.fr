@@ -1,5 +1,5 @@
 ---
-title: Ma Cantine 🍴
+title: Ma Cantine EGAlim 🍴
 mission: Accompagner au mieux les acteurs de la restauration collective dans leur offre aux consommateurs pour une alimentation de qualité, saine et durable
 owner: direction générale de l'alimentation (DGAL)
 incubator: dinum
@@ -9,8 +9,8 @@ phases:
       end: 2020-10-29
     - name: construction
       start: 2020-10-29
-link:
-repository: 
+link: http://ma-cantine-egalim.beta.gouv.fr
+repository: https://github.com/betagouv/ma-cantine
 stats: false 
 stats_url: 
 contact: contact@egalim.beta.gouv.fr
