@@ -6,7 +6,7 @@ sponsors:
     - name: Direction générale de l'enseignement supérieur et de l'insertion professionnelle
       acronym: DGESIP
       domaine_ministeriel: 
-      type: ministère
+      type: administration-centrale
 phases:
   - name: construction
     start: 2021-02-01
