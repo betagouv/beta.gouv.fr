@@ -6,6 +6,8 @@ incubator: lab-mi
 phases:
   - name: investigation
     start: 2019-11-05
+  - name: alumni
+    start: 2020-07-05
 link:
 repository:
 stats: false
@@ -39,8 +41,9 @@ Elle peut contacter l'enquêteur pour fournir des informations complémentaires,
 
 Les indicateurs d'impact à suivre seront le score de satisfaction usager et la baisse des appels au standard pour les beta-testeurs.
 
-## Une expérimentation qui doit s’inscrire dans le cadre de la Procédure Pénale Numérique
+## Abandon du projet
 Le gouvernement a annoncé en 2018 le lancement du programme de Procédure Pénale Numérique (PPN), qui inclut notamment la consultation et suivi en ligne de la plainte. 
-Le Portail de Suivi des Plainte souhaite se positionner comme une expérimentation pilote temporaire, testée localement, afin d’apporter des retours d’expérience utilisateurs agents et usagers utile au cadrage du programme PPN en 2020.
+Le Portail de Suivi des Plainte souhaitait se positionner comme une expérimentation pilote temporaire, testée localement, afin d’apporter des retours d’expérience utilisateurs agents et usagers utile au cadrage du programme PPN en 2020.
+Cependant la complexité et les priorités du programme PPN n'ont pas permis d'avancer sur ce scenario. L'investigation est arrêtée. Le programme PPN inclut bien de toutes façons les fonctionnalités de suivi en ligne des plaintes.
 
 
