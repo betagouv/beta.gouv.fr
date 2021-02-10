@@ -9,9 +9,14 @@ missions:
     end: 2019-12-04
     status: independent
   - start: 2019-12-09
-    end: 2020-08-31
+    end: 2020-09-07
+    status: independent
+  - start: 2021-02-08
+    end: 2021-12-31
     status: independent
 startups:
+  - 1000.jours
+previously:
   - camino
 
 ---
