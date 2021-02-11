@@ -1,5 +1,5 @@
 ---
-title: RDV Apprentisage
+title: RDV Apprentissage
 mission: "Faciliter le premier contact entre les candidats à l’apprentissage et
   les Centre de Formations en Apprentissage (CFA) "
 owner: Délégation générale à l'emploi et à la formation professionnelle
