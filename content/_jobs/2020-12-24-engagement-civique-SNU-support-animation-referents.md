@@ -11,7 +11,7 @@ title: Chargé(e) d’assistance aux utilisateurs et d’animation des référen
 😍 Profil recherché : Chargé(e) d’assistance aux utilisateurs et d’animation des référents Service National Universel
 
 ## 👋🏼 : Qui sommes-nous ?
-La Startup d'État Engagement Civique a pour mission de concevoir et de déployer des services numériques en faveur de l’engagement civique. Trois produits ont été imaginés et mis en oeuvre à ce jour : la plateforme du **Service National Universel** ([snu.gouv.fr])(https://www.snu.gouv.fr/), la plateforme **JeVeuxAider** de la **Réserve Civique** ([jeveuxaider.gouv.fr](https://jeveuxaider.gouv.fr/)) et l’**API Engagement** (mise en commun des données issues des différents produits et partenaires - pas de site public à l’heure actuelle).
+La Startup d'État Engagement Civique a pour mission de concevoir et de déployer des services numériques en faveur de l’engagement civique. Trois produits ont été imaginés et mis en oeuvre à ce jour : la plateforme du **Service National Universel** ([snu.gouv.fr](https://www.snu.gouv.fr/)), la plateforme **JeVeuxAider** de la **Réserve Civique** ([jeveuxaider.gouv.fr](https://jeveuxaider.gouv.fr/)) et l’**API Engagement** (mise en commun des données issues des différents produits et partenaires - pas de site public à l’heure actuelle).
 
 <!--more-->
 
