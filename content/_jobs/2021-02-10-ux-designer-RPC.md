@@ -3,9 +3,10 @@ roles: UX designer de service
 title: un.e UX designer de service 
 contrat: indépendant
 equipe: Registre de Preuve de Covoiturage
+startup: preuve-de-covoiturage
 post_ouvert: 2021-02-10
 contact: contact@covoiturage.beta.gouv.fr
-status: open
+open: true
 poste_pourvu: false
 ---
 
