@@ -1,8 +1,7 @@
 ---
 title: Catalogue des formations en apprentissage
-mission: L'Open catalogue des formations permet de rendre accessible
-  l'information sur les formations en apprentissage.
-owner: Catalogue des formations en apprentissage
+mission: Rendre accessible l'information sur les formations en apprentissage.
+owner: Délégation générale à l'emploi et à la formation professionnelle
 sponsors:
   - type: administration-centrale
     domaine_ministeriel: education-nat
@@ -15,6 +14,9 @@ sponsors:
     acronym: MESRI
     domaine_ministeriel: enseignement-sup
   - name: Ministère de la Transformation et de la fonction publiques
+  - name: Délégation générale à l'emploi et à la formation professionnelle
+    acronym: DGEFP
+    type: administration-centrale
 incubator: mission-apprentissage
 link: https://catalogue.apprentissage.beta.gouv.fr/
 repository: https://github.com/mission-apprentissage/catalogue-apprentissage
