@@ -28,7 +28,7 @@ Il permettra d’automatiser et d’améliorer la publication des jeux de donné
 ## Responsabilités
 
 - Retranscrire les besoins exprimés par le Groupe d'Expert lors de la phase d'investiguation (CEREMA, GART, ADEME, DGITM, etc.)
-- Proposer une méthode pour recueillir des besoins en tenant compte de la nécessaire représentativité du panel (collectivités, employeurs, administrations, etc.)
+- Proposer une méthode pour recueillir des besoins en tenant compte de la diversité des utilisateurs potentiels (collectivités, employeurs, administrations, etc.)
 - Organiser les entretiens utilisateurs pour stimuler l'expression de besoins des utilisateurs et utilisateurs
 - Organiser les tests utilisateurs (openlab, tests solution…)
 - Analyser les besoins utilisateurs pour orienter la construction du service
@@ -46,7 +46,7 @@ Il permettra d’automatiser et d’améliorer la publication des jeux de donné
 - Expertise dans la construction d’une architecture de l’information
 - Connaissance dans le design d’interaction
 - Connaissance graphique UI pour la réalisation de maquette
-- Connaissance des enjeux de la valorisation des données fortement appréciés
+- Connaissance des enjeux de la valorisation des données fortement appréciée
 - Capacité à échanger avec les équipes de développement
 - BONUS : Connaissance de l'écosystème du covoiturage
 - BONUS : Connaissance ou appétence pour la cartographie
@@ -54,12 +54,12 @@ Il permettra d’automatiser et d’améliorer la publication des jeux de donné
 ## Qualités
 - Avoir le sens de l'écoute et savoir travailler en équipe
 - Avoir le goût du travail pratique
-- Savoir s'engager en pleine responsabilité à développer un produit innovant, c'est-à-dire avoir probablement une forme de goût du risque
+- Savoir s'engager en pleine responsabilité à développer un produit innovant (avoir le goût du risque)
 - Avoir une aisance orale et relationnelle en public
 
 ## Modalités
 
-- Poste ouvert pour des indépendant·e·s 
+- Poste ouvert à des indépendant·e·s 
 - Télétravail possible (l'équipe vadrouille entre Paris et Lyon)
 - Durée variable en fonction du besoin et des compétences 
 - Démarrage dès que possible
