@@ -38,7 +38,7 @@ Il permettra d’automatiser et d’améliorer la publication des jeux de donné
 - Liaison avec l'équipe en charge du développement
 - Construire l’architecture d’information et les parcours de navigation
 
-**Il/Elle sera également force de proposition auprès de l'équipe Registre de Preuve de Covoiturage et des différents acteurs associés à cette initiative.
+**Il/Elle sera également force de proposition auprès de l'équipe Registre de Preuve de Covoiturage et des différents acteurs associés à cette initiative.**
 
 ## Compétences
 
@@ -50,7 +50,7 @@ Il permettra d’automatiser et d’améliorer la publication des jeux de donné
 - Connaissance des enjeux de la valorisation des données fortement appréciée
 - Capacité à échanger avec les équipes de développement
 - BONUS : Connaissance de l'écosystème du covoiturage
-- BONUS : Connaissance ou appétence pour la cartographie
+- BONUS : Connaissance ou appétence pour la cartographie de données géographiques
 
 ## Qualités
 - Avoir le sens de l'écoute et savoir travailler en équipe
