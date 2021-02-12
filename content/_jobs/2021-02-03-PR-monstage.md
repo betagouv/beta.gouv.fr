@@ -6,7 +6,7 @@ open: true
 contact: brice.durand@beta.gouv.fr
 ---
 
-# Chef de produit
+# Chef de produit AMOA
 
 ## Contexte de la mission
 Mon stage de 3e est un dispositif qui permet aux élèves de 3e d'accéder à des stages
