@@ -14,7 +14,7 @@ title: Engagement Civique recrute un·e Chargé·e de déploiement JeVeuxAider.G
 La Startup d'État Engagement Civique a pour mission de concevoir et de déployer des services numériques en faveur de l’engagement civique. Trois produits ont été imaginés et mis en oeuvre à ce jour : la plateforme du **Service National Universel** [snu.gouv.fr](https://www.snu.gouv.fr/), la plateforme **JeVeuxAider** de la **Réserve Civique** [jeveuxaider.gouv.fr](https://jeveuxaider.gouv.fr/) et l’**API Engagement** (mise en commun des données issues des différents produits et partenaires - pas de site public à l’heure actuelle).
 
 ## 🤓 Contexte : JeVeuxAider.Gouv.fr par la Réserve Civique
-JeVeuxAider par La Réserve Civique [jeveuxaider.gouv.fr](https://jeveuxaider.gouv.fr/) est une plateforme de mise en relation entre des personnes qui souhaitent s’engager bénévolement et des organisations publiques ou associatives qui ont besoin d’aide. 
+[JeVeuxAider.gouv.fr](https://jeveuxaider.gouv.fr/) par La Réserve Civique est une plateforme de mise en relation entre des personnes qui souhaitent s’engager bénévolement et des organisations publiques ou associatives qui ont besoin d’aide. 
 
 La Startup d’État s’agrandit et étoffe l’équipe déploiement de la Réserve Civique en recrutant un·e chargé·e de déploiement pour accompagner les organisations publiques, les réseaux associatifs et collectivités dans l’appropriation de la plateforme.
 
@@ -24,8 +24,8 @@ Au sein de l’équipe déploiement, vous aurez pour mission de contribuer au d�
 
 - **Comprendre les enjeux en matière de bénévolat** afin de répondre aux besoins des parties prenantes de la plateforme 
 - **Identifier les contacts clés** au sein des organisations et entamer les actions requises pour **déployer la plateforme** (prospection, prise de rendez-vous, présentation du dispositif...)
-- **Accompagner les organisations** dans la prise en main de la plateforme et assurer un suivi des partenaires clés- **Contribuer à la concrétisation de partenariats stratégiques** avec des acteurs de l’écosystème de l’engagement pour renforcer le positionnement de la plateforme et sa notoriété 
-- **Contribuer à la concrétisation de partenariats stratégiques** avec des acteurs de l’écosystème de l’engagement pour renforcer le positionnement de la plateforme et sa notoriété
+- **Accompagner les organisations** dans la prise en main de la plateforme et assurer un suivi des partenaires clés
+- **Contribuer à la concrétisation de partenariats stratégiques** avec des acteurs de l’écosystème de l’engagement pour renforcer le positionnement de la plateforme et sa notoriété 
 - **Participer à la relation avec les organisations bénéficiaires** (par exemple : animation de webinaires, contribution à la newsletter, intervention sur le support utilisateur, échange sur les réseaux sociaux, participation à des événements / rassemblements à distance ou en présentiel…)
 - **Aider à l’amélioration du fonctionnement** du pôle déploiement et à la mesure de son **impact** (processus, outillage, documentation…)
 
