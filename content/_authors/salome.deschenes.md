@@ -7,6 +7,8 @@ missions:
     end: 2021-06-29
     status: admin
     employer: DINUM
+startups:
+  - friches
 badges:
   - segur
 ---
