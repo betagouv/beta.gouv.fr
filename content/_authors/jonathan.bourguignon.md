@@ -7,5 +7,7 @@ missions:
     end: 2021-04-30
     status: independent
     employer: Numa
+startups:
+  - euphrosyne
 ---
 
