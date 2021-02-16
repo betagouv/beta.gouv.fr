@@ -14,6 +14,9 @@ phases:
   - name: construction
     start: 2018-03-01
   - name: acceleration
+    start: 2018-07-01
+  - name: alumni
+    start: 2019-07-01
 link: https://histovec.interieur.gouv.fr
 repository: https://github.com/histovec
 stats: false

@@ -11,7 +11,7 @@ title: Chargé(e) d’assistance aux utilisateurs et d’animation des référen
 😍 Profil recherché : Chargé(e) d’assistance aux utilisateurs et d’animation des référents Service National Universel
 
 ## 👋🏼 : Qui sommes-nous ?
-La Startup d'État Engagement Civique a pour mission de concevoir et de déployer des services numériques en faveur de l’engagement civique. Trois produits ont été imaginés et mis en oeuvre à ce jour : la plateforme du **Service National Universel** ([snu.gouv.fr])(https://www.snu.gouv.fr/), la plateforme **JeVeuxAider** de la **Réserve Civique** ([jeveuxaider.gouv.fr](https://jeveuxaider.gouv.fr/)) et l’**API Engagement** (mise en commun des données issues des différents produits et partenaires - pas de site public à l’heure actuelle).
+La Startup d'État Engagement Civique a pour mission de concevoir et de déployer des services numériques en faveur de l’engagement civique. Trois produits ont été imaginés et mis en oeuvre à ce jour : la plateforme du **Service National Universel** ([snu.gouv.fr](https://www.snu.gouv.fr/)), la plateforme **JeVeuxAider** de la **Réserve Civique** ([jeveuxaider.gouv.fr](https://jeveuxaider.gouv.fr/)) et l’**API Engagement** (mise en commun des données issues des différents produits et partenaires - pas de site public à l’heure actuelle).
 
 <!--more-->
 
@@ -62,7 +62,7 @@ Expérience professionnelle sur une mission similaire, du type **Responsable Sup
 - L’animation de communautés et d’ateliers d'appropriation 
 
 ## 📝 Modalités
-Poste ouvert pour un indépendant ou une indépendante pour un premier contrat de 6 mois renouvelable (à 4 jours par semaine minimum). Le télétravail est possible. Démarrage janvier 2021.
+Poste ouvert pour un indépendant ou une indépendante pour un premier contrat de 6 mois renouvelable (à 4 jours par semaine minimum). Le télétravail est possible. Démarrage dès que possible.
 
 ## 🚀 Candidater
 Expliquez-nous pourquoi vous avez envie de rejoindre la Startup d'État Engagement Civique et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à [gabrielle.bouxin@beta.gouv.fr](mailto:gabrielle.bouxin@beta.gouv.fr) et à [joe.achkar@beta.gouv.fr](mailto:joe.achkar@beta.gouv.fr).
