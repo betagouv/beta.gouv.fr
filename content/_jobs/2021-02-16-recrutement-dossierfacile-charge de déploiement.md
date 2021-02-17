@@ -3,7 +3,7 @@ roles: Chargé‧e de déploiement junior
 startup: locatio
 open: true
 ---
-Afin de soutenir sa phase d’accélération et de répondre à ses objectifs de croissance utilisateurs pour 2021, la startup d’État DossierFacile recrute un‧e chargé‧e de déploiement.\
+Afin de soutenir sa phase d’accélération et de répondre à ses objectifs de croissance utilisateurs pour 2021, la startup d’État DossierFacile recrute un‧e chargé‧e de déploiement.
 
 **Statut, durée et date de début** : stage de mininum 3 mois à temps plein ou alternance, démarrage dès que possible\
 **Localisation** : En télétravail avec des réunions à La Défense (ateliers, réunions hebdo)
