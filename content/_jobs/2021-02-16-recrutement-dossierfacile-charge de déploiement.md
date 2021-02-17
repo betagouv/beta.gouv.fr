@@ -1,12 +1,13 @@
 ---
-roles: Chargé‧e de déploiement
+roles: Chargé‧e de déploiement junior
 startup: locatio
-open: false
+open: true
 ---
-Afin de soutenir sa phase d’accélération et de répondre à ses objectifs de croissance utilisateurs pour 2021, la startup d’État DossierFacile recrute un‧e opérateur‧rice de validation.\
-**Durée et date de début** : 3 mois reconductible, dès que possible\
-**Rythme de travail** : à temps plein\
-**Localisation** : En télétravail avec des réunions à La Défense (ateliers, réunions hebdo) 
+Afin de soutenir sa phase d’accélération et de répondre à ses objectifs de croissance utilisateurs pour 2021, la startup d’État DossierFacile recrute un‧e chargé‧e de déploiement.\
+**Statut, durée et date de début** : stage de mininum 3 mois à temps plein ou alternance, démarrage dès que possible\
+**Localisation** : En télétravail avec des réunions à La Défense (ateliers, réunions hebdo)\
+
+Tu souhaites découvrir comment l’Etat et le service public se transforment, et tu veux jouer un rôle actif dans cette transformation ? Tu veux découvrir l'entrepreneuriat et tu as une fibre service public ? Dans ce cas, DossierFacile est fait pour toi.
 
 # Qu’est-ce qu’une start-up d’Etat ? 
 En 2013, l’Etat par l’intermédiaire de la DINUM (Direction Interministérielle du Numérique) lance beta.gouv.fr, le réseau d’incubateurs de start-ups d’Etat. 
@@ -21,14 +22,15 @@ La validation est le coeur de métier de DossierFacile ; sa bonne exécution et 
 L’operateur‧rice de validation est sous la responsabilité directe du responsable des opérations.
 
 # Missions
-_Poste ouvert le 08/02/2021_
+_Poste ouvert le 17/02/2021_
 
-- assurer la validation de plusieurs centaines de dossiers de location par jour (pour référence, voici la description d’un dossier de location sur le <a href="https://www.service-public.fr/particuliers/vosdroits/F1169">site du service public</a>)
-- contribuer à l'évolution et à la coordination des standards de validation
-- le cas échéant faire des propositions au chief of operations pour améliorer la plateforme de validation et plus généralement les interfaces front et back de DossierFacile
-- le cas échéant, dialoguer avec les équipes des partenaires
-- le cas échéant, participer à la diffusion de la connaissance et de l'expérience auprès de la Fabrique Numérique et de la communaute beta.gouv.fr
-
+Aucune qualification particulière n’est nécessaire, seulement de l’efficacité et beaucoup d’organisation, de l’audace et de la motivation.\
+Les chargé‧e‧s de déploiement stagiaires sont amené‧e‧s à :
+- Participer au fonctionnement opérationnel de la plateforme (suivi des dossiers des utilisateurs)
+- Animer et élargir la communauté de partenaires
+- Définir des priorités stratégiques avec le chef de produit
+- Participer aux évènements de la communauté beta.gouv.fr
+- Produire du contenu pour le site
 
 # Compétences souhaitées
 - rigueur, méthode, patience, concentration et intérêt pour un travail pointilleux
@@ -37,9 +39,9 @@ _Poste ouvert le 08/02/2021_
 - esprit d'initiative pour améliorer son outil de travail
 
 **Statut** : Idéalement, stage ou alternance, mais d’autres statuts peuvent être envisagés au cas par cas.\
-**Modalités de travail** : Le rythme de travail est un temps plein, le télétravail est la norme mais une présence ponctuelle dans les locaux à La Défense est souhaitable lors d’ateliers et/ou réunions (test utilisateur, démonstration, rétrospective et planification). L’équipe suit une méthode agile avec des phases de retours fréquents de ses utilisateurs finaux.\
+**Modalités de travail** : Le rythme de travail est un temps plein pour un stagiaire ou à mi-temps pour une alternance, le télétravail est la norme mais une présence ponctuelle dans les locaux à La Défense est souhaitable lors d’ateliers et/ou réunions (test utilisateur, démonstration, rétrospective et planification). L’équipe suit une méthode agile avec des phases de retours fréquents de ses utilisateurs finaux.\
 **Dates souhaitées** : Date de début — Dès que possible
 
 # Comment postuler ?
-Envoyez-nous votre candidature (en précisant votre taux journalier moyen) à <a href="mailto:olivier@dossierfacile.fr">olivier@dossierfacile.fr</a> en mettant en copie arthur@dossierfacile.fr avec votre motivation en quelques lignes dans le corps du texte, votre CV et tout ce que vous souhaitez nous communiquer qui nous permettrait de mieux vous connaître !\
+Pour candidater, pas besoin de lettre de motivation : envoyez-nous votre candidature à <a href="mailto:olivier@dossierfacile.fr">olivier@dossierfacile.fr</a>  en mettant en copie arthur@dossierfacile.fr avec votre motivation en quelques lignes dans le corps du texte, votre CV et tout ce que vous souhaitez nous communiquer qui nous permettrait de mieux vous connaître !\
 Si vous avez des questions avant de postuler, n’hésitez pas à nous écrire !
