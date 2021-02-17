@@ -45,7 +45,7 @@ début du développement informatique
 L'usine à chatbot est composée de 6 produits numériques :
 * Un [site internet](https://chatbot.d.fabnum.fr/) qui présente le produit
 * Une [documentation](https://fabrique-a-chatbots.gitbook.io/fabrique-a-chatbots/)
-* Une [interface permettant de créer un chatbot](https://chatbot.d.fabnum.fr/auth/login)
+* Une [interface permettant de créer un chatbot](https://chatbot.fabnum.fr)
 * Une interface de chatbot
 * Une interface de gestion pour travailler sur les connaissances de votre chatbot
 * Un tableau de bord de l'usine à chatbot
