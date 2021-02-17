@@ -7,8 +7,7 @@ title: Enrichir l'offre du catalogue d'API du gouvernement.
 
 ## 👋 Qui sommes-nous ?
 
-> “Nous créons le service public de demain, un service proactif vis à vis des citoyens”
-> *Romain Tales, directeur du pôle Data chez Etalab*
+> « Nous créons le service public de demain, un service proactif vis à vis des citoyens » - *Romain Tales, directeur du pôle Data chez Etalab*
 
 La direction interministérielle du numérique (DINUM) est en charge de la transformation numérique de l’État au bénéfice des citoyens comme de l’agent, sous tous ses aspects : qualité des services publics numériques, modernisation du système d’information de l’État, création de services innovants pour les citoyens.
 
@@ -18,13 +17,13 @@ Au sein de l'équipe API, nous sommes chargés de la circulation des données en
 
 Enrichir l'offre du catalogue d'API du gouvernement pour simplifier la vie des citoyens, des entreprises et des agents de l’Etat.
 
-## 🕵️ Chasser des API pour étoffer le catalogue d'offre d'api.gouv.fr
+## 🕵️ Chasser des API pour étoffer le catalogue d'offre d'[api.gouv.fr](https://beta.gouv.fr/startups/api.gouv.fr.html)
 
 - **cartographier les administrations** produisant des données en open data ou en accès restreint
 - **convaincre** les administrations de **l'intérêt de la circulation des données** (pour le métier, pour les autres administrations, pour la société civile au sens large)
 - **convaincre** ces administrations de **référencer leurs API** sur api.gouv.fr
 
-## 🤝 Accompagner les acteurs dans leur adoption de DataPass
+## 🤝 Accompagner les acteurs dans leur adoption de [DataPass](https://beta.gouv.fr/startups/datapass.html)
 
 Lorsque une administration ouvre de nouveaux échanges de données à des partenaires, elle rencontre des contraintes administratives lourdes. DataPass est l'outil de gestion des habilitations juridiques pour ouvrir l’accès aux données, permettant de passer d’un délai de 6 mois à quelques jours pour ouvrir un nouveau flux de données.<
 
@@ -58,4 +57,4 @@ Lorsque une administration ouvre de nouveaux échanges de données à des parten
 
 ## 📩 Comment postuler
 
-Postuler en écrivant à contact@api.gouv.fr avec un court message de motivation.
+Postuler en écrivant à [contact@api.gouv.fr](mailto:contact@api.gouv.fr) avec un court message de motivation.
