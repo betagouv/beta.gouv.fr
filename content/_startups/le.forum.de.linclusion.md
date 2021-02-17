@@ -8,6 +8,7 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: travail
 incubator: dinum
+stats: true
 link: https://forum.inclusion.beta.gouv.fr/
 repository: http://github.com/betagouv/itou
 contact: contact@inclusion.beta.gouv.fr
