@@ -15,12 +15,15 @@ phases:
 ---
 
 Plusieurs problèmes identifié lors de la phase d'investigation : 
+
 Tuteurs
 - La difficulté de recruter des tuteurs (vivier engagé)
 - Le manque d'heterogenité des tuteurs (profils, formation, qualité)
+
 Matching
 - Un dispositifs non structurés au sein des préparations
 - Un suivi aléatoire des élèves tutorés par les tuteurs (charte, plateforme, etc.)
+
 Elève
 - Le besoin d'un tuteur qui correspond et en qui je peux m'identifier
 
