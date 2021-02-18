@@ -7,7 +7,7 @@ title: Enrichir l'offre du catalogue d'API du gouvernement.
 
 ## 👋 Qui sommes-nous ?
 
-> « Nous créons le service public de demain, un service proactif vis à vis des citoyens » - *Romain Tales, directeur du pôle Data chez Etalab*
+Nous créons le service public de demain, un service proactif vis à vis des citoyens.
 
 La direction interministérielle du numérique (DINUM) est en charge de la transformation numérique de l’État au bénéfice des citoyens comme de l’agent, sous tous ses aspects : qualité des services publics numériques, modernisation du système d’information de l’État, création de services innovants pour les citoyens.
 
