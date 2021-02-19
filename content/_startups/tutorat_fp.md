@@ -1,11 +1,11 @@
 ---
 title: Tutorat
 mission: Statuer sur l’opportunité de lancer une plateforme numérique visant à développer le tutorat pour les élèves des classes préparatoires Talents du service public.
-owner: 
+owner: Direction générale de l’administration et de la fonction publique
 sponsors:
-  - acronym: 
-    name: Direction générale 
-    type: 
+  - acronym: DGAFP
+    name: Direction générale de l’administration et de la fonction publique 
+    type: administration-centrale
     domaine_ministeriel: 
 incubator: dinum
 contact: marie.vanhaecke@beta.gouv.fr
@@ -27,4 +27,5 @@ Matching
 Elève
 - Le besoin d'un tuteur qui correspond et en qui je peux m'identifier
 
-Nous avons priorisé les problèmes et allons proposer une solution pour optimiser et accélérer le recrutement des tuteurs et la formation, nous allons pour commencer poposer de constituer un vivier à partir d’un formulaire de recrutement en ligne.
+Nous avons priorisé les problèmes et allons proposer une solution pour optimiser et accélérer le recrutement des tuteurs et la formation.
+Nous allons pour commencer poposer de constituer un vivier à partir d’un formulaire de recrutement en ligne.
