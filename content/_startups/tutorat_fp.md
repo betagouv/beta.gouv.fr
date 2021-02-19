@@ -6,7 +6,7 @@ sponsors:
   - acronym: DGAFP
     name: Direction générale de l’administration et de la fonction publique 
     type: administration-centrale
-    domaine_ministeriel: 
+    domaine_ministeriel: spm
 incubator: dinum
 contact: marie.vanhaecke@beta.gouv.fr
 phases:
