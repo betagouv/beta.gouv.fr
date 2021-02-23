@@ -1,10 +1,24 @@
 ---
 title: Matcha
-mission: Susciter des recrutements en apprentissage
-owner: Ministère de l'Éducation Nationale, Ministère de l’Enseignement
-  supérieur, de la Recherche et de l’Innovation & Ministère du Travail
+mission: "Susciter des recrutements en apprentissage"
+owner: Délégation générale à l'emploi et à la formation professionnelle
+sponsors:
+  - name: "Ministère du travail, de l'emploi et de l'insertion "
+    type: administration-centrale
+    domaine_ministeriel: travail
 incubator: mission-apprentissage
+link: https://github.com/mission-apprentissage/matcha-azure
+repository: https://github.com/mission-apprentissage/prise-de-rdv
+contact: apprentissage@beta.gouv.fr
+events: []
+phases:
+  - name: investigation
+    start: 2020-04-01
+    end: ""
+  - name: construction
+    start: 2021-07-01
 ---
+
 ## Contexte
 
 En 2019, la France comptait près de 500 000 apprentis. Dans le cadre de la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel qui inclut une réforme de l’apprentissage, ce contrat est de plus en plus sollicité par les entreprises. La réforme assouplit les règles de recrutement pour les entreprises, et permet de simplifier l’accès aux aides disponibles. Le montant de ces aides a augmenté suite à la crise du Covid 19 et elles ont été étendues à un public plus large. La réforme attribue également un bonus pour les ETI et Grandes entreprises qui dépassent 5% d’apprentis.
@@ -18,7 +32,7 @@ Elles ont des besoins de main d’oeuvre qu’elles ne communiquent pas systéma
 
 Aujourd’hui, face au manque d’offres émises par les entreprises, les jeunes prennent le parti d’envoyer des candidatures spontanées, et certains CFA de transmettre les CV des jeunes inscrits chez eux. Mais, lors de cette tentative de prise de contact, plusieurs freins empêchent l’offre et la demande de se rencontrer réellement, et donc les entreprises de trouver réponse à leurs besoins :
 
-* La difficulté des jeunes à identifier les entreprises qui recrutent pour les métiers qu’ils préparent, 
+* La difficulté des jeunes à identifier les entreprises qui recrutent pour les métiers qu’ils préparent ; 
 * Le fond et la forme des candidatures envoyées par les jeunes et transmises par les CFA : un manque de personnalisation en fonction de l’entreprise, une méconnaissance du secteur, du métier ou de l’entreprise, une incapacité à expliquer clairement le cadre de l’apprentissage, et donc une mauvaise communication auprès de l’entreprise.
 
 ## Solution
