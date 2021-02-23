@@ -23,8 +23,7 @@ phases:
 
 En 2019, la France comptait près de 500 000 apprentis. Dans le cadre de la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel qui inclut une réforme de l’apprentissage, ce contrat est de plus en plus sollicité par les entreprises. La réforme assouplit les règles de recrutement pour les entreprises, et permet de simplifier l’accès aux aides disponibles. Le montant de ces aides a augmenté suite à la crise du Covid 19 et elles ont été étendues à un public plus large. La réforme attribue également un bonus pour les ETI et Grandes entreprises qui dépassent 5% d’apprentis.
 
-## \
-Problème
+## Problème
 
 Pourtant, au terme d’une investigation auprès de plusieurs dizaines de TPE et PME nous avons appris qu’elles peinent à recruter alors que de jeunes apprentis pourraient correspondre à leurs besoins. 
 
