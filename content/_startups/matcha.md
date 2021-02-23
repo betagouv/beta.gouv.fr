@@ -7,8 +7,8 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: travail
 incubator: mission-apprentissage
-link: https://github.com/mission-apprentissage/matcha-azure
-repository: https://github.com/mission-apprentissage/prise-de-rdv
+link: 
+repository: https://github.com/mission-apprentissage/matcha-azure
 contact: apprentissage@beta.gouv.fr
 events: []
 phases:
