@@ -10,4 +10,5 @@ missions:
 startups:
   - e-controle
   - trackdéchets
+  - AidESS
 ---
