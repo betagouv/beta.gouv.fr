@@ -15,6 +15,7 @@ startups:
   - dumas
   - AidESS-Relance
   - inca
+  - justif
 previously:
   - e-controle
 badges:
