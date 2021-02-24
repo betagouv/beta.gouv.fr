@@ -13,6 +13,8 @@ missions:
     end: 2021-09-01
 startups:
   - dumas
+  - AidESS-Relance
+  - inca
 previously:
   - e-controle
 badges:
