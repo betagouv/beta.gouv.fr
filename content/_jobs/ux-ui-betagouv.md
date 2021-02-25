@@ -1,7 +1,7 @@
 ---
 roles: Designer UX/UI
 startup: betagouv
-open: true
+open: false
 ---
 
 # Informations générales

@@ -1,5 +1,5 @@
 ---
-title: Data Pass
+title: DataPass
 mission: Délivrer des « Pass » pour accéder à la « Data » produite par l'État.
 owner: DINUM
 incubator: apigouv
@@ -29,4 +29,4 @@ Doivent-elles signer des conventions avec chacune des administrations productric
 
 La DINUM simplifie radicalement ce processus. Dans un premier temps, elle a travaillé sur la mise en place d'un cadre juridique commun pour harmoniser et fluidifier les relations entre fournisseurs de données et fournisseurs de service. C'est la mise en place de l'article de la section [« Échange de données entre administrations » (L114-8 et suivants) du CRPA](https://www.legifrance.gouv.fr/affichCode.do;jsessionid=EA87CA618644F6B9C1A66E4468F81BFD.tplgfr38s_3?idSectionTA=LEGISCTA000031367410&cidTexte=LEGITEXT000031366350&dateTexte=20161009).
 
-Dans un deuxième temps, la DINUM a mis en place un outil pour faciliter cette mise en relation entre fournisseur et consommateur : Data Pass. Cet outil s'adresse aux ayants droits qui souhaiteraient exploiter des données à caractère personnel. Data Pass délivre des habilitations, à travers un parcours simple, standardisé et conforme, pour accéder à l'ensemble des données protégées produites par l'État.
+Dans un deuxième temps, la DINUM a mis en place un outil pour faciliter cette mise en relation entre fournisseur et consommateur : DataPass. Cet outil s'adresse aux ayants droits qui souhaiteraient exploiter des données à caractère personnel. DataPass délivre des habilitations, à travers un parcours simple, standardisé et conforme, pour accéder à l'ensemble des données protégées produites par l'État.
