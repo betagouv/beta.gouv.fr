@@ -4,7 +4,7 @@ role: Designer UX & a11y
 link: http://romy.tetue.net
 missions:
   - start: 2017-05-03
-    end:
+    end: 2021-06-30
     status: service
     employer: octo
 startups:
