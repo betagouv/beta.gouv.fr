@@ -25,6 +25,9 @@ startups:
     - ecosante
     - friches
     - cartobio
+    - peps
+    - tutorat_fp
+    - labels-transition
 badges:
   - segur
 ---
