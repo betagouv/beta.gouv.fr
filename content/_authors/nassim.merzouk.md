@@ -6,13 +6,13 @@ avatar:
 link: https://www.linkedin.com/in/merzouknassim/
 missions:
   - start: 2020-05-12
-    end: 2020-12-31
+    end: 2021-12-31
     status: independent
     employer: DJEPVA
 startups:
-    - reserve-civique
+    - engagement-civique
 previously:
     - 
 ---
 
-Développe le réseau de projets à impacts positif
+Développe le réseau de projets à impacts positifs

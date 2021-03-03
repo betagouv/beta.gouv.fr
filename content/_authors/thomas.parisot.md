@@ -7,7 +7,7 @@ missions:
     status: independent
     employer: octo
   - start: 2020-02-04
-    end: 2021-03-01
+    end: 2021-05-31
     status: independent
     employer: lazone/scopyleft
 link: https://oncletom.io

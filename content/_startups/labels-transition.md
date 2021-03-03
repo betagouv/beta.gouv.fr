@@ -5,7 +5,7 @@ mission: "Faciliter et accélerer la transition écologique des collectivités
 owner: ADEME - Agence de la transition écologique
 sponsors: []
 incubator: dinum
-link: ""
+link:
 repository: https://github.com/labels-transition/produit
 contact: nicolas.vallee@ademe.fr
 stats: false
@@ -15,7 +15,6 @@ phases:
     end: 2020-11-03
   - name: construction
     start: 2020-11-03
-    end: ""
 ---
 
 ## Contexte
