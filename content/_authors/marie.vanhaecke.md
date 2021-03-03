@@ -1,10 +1,11 @@
 ---
 fullname: Marie Van Haecke
 role: Coach
+github: marievanhaecke
 missions:
   - start: 2021-01-21
     end: 2021-04-30
-    status: admin
+    status: service
     employer: Dinum
 badges:
   - segur
