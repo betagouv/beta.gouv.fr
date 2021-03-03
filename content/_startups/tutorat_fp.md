@@ -1,6 +1,6 @@
 ---
 title: Tutorat
-mission: Statuer sur l’opportunité de lancer une plateforme numérique visant à développer le tutorat pour les élèves des classes préparatoires Talents du service public.
+mission: Améliorer l'égalité des chances aux concours de la fonction publique grâce au développement du tutorat.
 owner: Direction générale de l’administration et de la fonction publique
 sponsors:
   - acronym: DGAFP
@@ -13,8 +13,6 @@ phases:
   - name: investigation
     start: 2021-02-01
 ---
-
-**Mission :** Améliorer l'égalité des chances aux concours de la fonction publique grâce au développement du tutorat.
 
 **Le contexte :**
 
