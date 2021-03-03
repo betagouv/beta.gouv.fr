@@ -2,7 +2,7 @@
 roles: une / un développeuse, développeur
 startup: transport
 techno: Elixir (Phoenix) / Rust / Python
-open: true
+open: false
 ---
 
 La verticale transport de data.gouv.fr cherche une personne intéressée par les transports et les données ouvertes !

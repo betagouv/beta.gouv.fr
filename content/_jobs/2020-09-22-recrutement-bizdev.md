@@ -1,7 +1,7 @@
 ---
 roles: un·e chargé·e de développement 
 startup: signalement
-open: true
+open: false
 ---
 
 Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une petite équipe autonome, agile, et proche de leurs utilisateurs ? 
@@ -10,7 +10,7 @@ SignalConso recherche un·e chargé·e de déploiement pour accompagner son dév
 <!--more-->
 
 ##  L'équipe SignalConso recrute un·e chargé·e de développement 
-Prise de poste dès que possible
+Prise de poste prévue début Décembre
 
 ## Qui sommes nous ?
 La DGCCRF, autorité de contrôle, agit en faveur :

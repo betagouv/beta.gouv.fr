@@ -16,5 +16,6 @@ startups:
   - friches
 previously:
   - andi
+badges:
+  - segur
 ---
-

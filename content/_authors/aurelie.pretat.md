@@ -1,8 +1,9 @@
 ---
 fullname: Aurélie Prétat
-role: Volontaire 
+role: Intrapreneuse
+github: AureliePretat
 missions:
   - start: 2020-03-19
-    end: 2020-12-31
-    status: independent 
+    end: 2021-12-31
+    status: admin
 ---

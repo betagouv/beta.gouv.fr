@@ -11,6 +11,7 @@ backend:
     uploadMedia: Nouvelle image {{path}}
     deleteMedia: Suppression de l'image {{path}}
   squash_merges: true
+  open_authoring: false
 
 # Permet d'expérimenter en local
 # cf. https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
@@ -19,6 +20,7 @@ backend:
 media_folder: "img/netlifycms"
 
 display_url: https://beta.gouv.fr
+logo_url: https://beta.gouv.fr/assets/images/favicons/apple-touch-icon-180x180.png
 
 # La preview n'est pas utile juste pour modifier des auteurs
 show_preview_links: false
@@ -45,28 +47,6 @@ date_field_defaults: &date_field_defaults
   default: null
 
 collections:
-  - name: incubators
-    label: Incubateurs
-    label_singular: Incubateur
-    folder: "content/_incubators"
-    create: true
-    delete: false
-    slug: "{{slug}}"
-    editor:
-      preview: false
-    fields:
-      - { label: Nom, name: title, widget: string }
-      - { label: Responsable, name: owner, widget: string }
-      - { label: Site, name: website, widget: string }
-      - { label: Dépôts des produits, name: github, widget: string }
-      - { label: Contact, name: contact, widget: string }
-      - { label: Adresse, name: address, widget: string }
-      - label: Redirections
-        label_singular: Redirection
-        name: redirect_from
-        widget: list
-        collapsed: false
-        field: { label: Source, name: name, widget: string }
   - name: startups
     label: Produits
     label_singular: Produit
@@ -76,17 +56,67 @@ collections:
     editor:
       preview: false
     fields:
-      - label: Nom
+      - label: Quel est le nom de ta Startup d'ETat ?
         name: title
         widget: string
-      - label: Objectif
+      - label: Quel est son objectif principal ?
+        hint : >
+          Par exemple : "Faciliter la création d'une fiche produit". Pas besoin de faire plus long.
         name: mission
         widget: string
-      - label: Administration partenaire
+      - label: Qui est l'administration sponsor ?
+        hint : Indiques le nom de l'administration qui porte ta Startup d'Etat.
         name: owner
         widget: string
+      - label: Quelques infos sur la ou les administrations sponsors ou partenaires ? 
+        name: sponsors
+        widget: list
+        collapsed: false
+        fields:
+          - label: Nom de l'administration
+            name: name
+            widget: string
+          - label: Quel est l'acronyme de cette administration ?
+            name: acronym
+            widget: string
+            required: false
+          - label: "Type"
+            hint: "Quelle est le type de partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter"
+            name: "type"
+            widget: "select"
+            required: false
+            options:
+              - { label: "Administration centrale", value: "administration-centrale" }
+              - { label: "Opérateur", value: "operateur" }
+              - { label: "Sécurité sociale", value: "securite-sociale" }
+              - { label: "Collectivité territoriale ", value: "collectivite-territoriale" }
+              - { label: "Autre", value: "autre" }
+          - label: "Cette administration intervient principalement dans quel champs de l'action publique ?"
+            hint: >
+              Quelle est le domaine "ministériel" ou domaine "action publique" du partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter
+            name: "domaine_ministeriel"
+            widget: "select"
+            required: false
+            options:
+              - { label: "Affaires étrangères", value: "affaires-etrangeres" }
+              - { label: "Affaires sociales", value: "affaires-sociales" }
+              - { label: "Agriculture", value: "agriculture" }
+              - { label: "Armées", value: "armees" }
+              - { label: "Bercy", value: "bercy" }
+              - { label: "Culture", value: "culture" }
+              - { label: "Education nationnale", value: "education-nat" }
+              - { label: "Enseignement supérieur", value: "enseignement-sup" }
+              - { label: "Environnement", value: "environnement" }
+              - { label: "Intérieur", value: interieur }
+              - { label: "Outre-mer", value: "outre-mer" }
+              - { label: "Santé", value: "sante" }
+              - { label: "Service du Premier Ministre", value: "spm" }
+              - { label: "Sport", value: "sport" }
+              - { label: "Travail", value: "travail" }
+              - { label: "Territoires", value: "territoires" }
+              - { label: "Autres", value: "autres" }
       - <<: *relation_default_options
-        label: Incubateur
+        label: Quel est l'incubateur qui t'accompagne ?
         name: incubator
         collection: incubators
       - label: Lien vers le produit
@@ -97,9 +127,10 @@ collections:
         name: repository
         widget: string
         required: false
-      - label: Email de contat
+      - label: Email de contact
         name: contact
         widget: string
+        pattern: ['^[^@\s]+@[^@\s]+\.[^@\s]+$', 'Ce doit être un email valide']
         required: false
       - label: Statistiques d'usage publiques
         name: stats
@@ -150,9 +181,31 @@ collections:
             name: comment
             widget: string
             required: false
-      - label: Description
+      - label: Rédiger sa fiche produit
         name: body
         widget: markdown
+        hint: "N'hésite pas à te référer aux autres fiches produit présentes sur le site beta.gouv"
+        default: >
+          Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
+
+          Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
+
+          ## Contexte
+
+          Quel est le contexte de ta Startup d'Etat ?
+
+          ## Problème
+
+          Les problèmes que vous avez identifiés ou vos hypothèses de problèmes? Qui en souffre ? quels sont les conséquences de ces problèmes ?
+
+          ## Solution
+
+          Décrit ta solution en quelques lignes? qui seront/sont les bénéficiaires ?
+
+          ## Stratégie
+
+          Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
+      
   - name: "authors"
     identifier_field: fullname
     label: "Membres"
@@ -193,6 +246,8 @@ collections:
         hint: "Ton historique de missions avec nous dans l'ordre chronologique."
         name: 'missions'
         widget: 'list'
+        min: 1
+        max: 10 # both min and max are required to be apply 
         collapsed: false
         fields:
           - label: "Statut"
@@ -232,11 +287,40 @@ collections:
         collection: startups
         required: false
         multiple: true
+      - label: Badges
+        name: "badges"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+           - { label: "Ségur", value: "segur" }
       - label: Description
         hint: "Raconte-nous qui tu es dans une phrase percutante !"
         name: body
         widget: markdown
         required: false
+  - name: incubators
+    label: Incubateurs
+    label_singular: Incubateur
+    folder: "content/_incubators"
+    create: true
+    delete: false
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: Nom, name: title, widget: string }
+      - { label: Responsable, name: owner, widget: string }
+      - { label: Site, name: website, widget: string }
+      - { label: Dépôts des produits, name: github, widget: string }
+      - { label: Contact, name: contact, widget: string }
+      - { label: Adresse, name: address, widget: string }
+      - label: Redirections
+        label_singular: Redirection
+        name: redirect_from
+        widget: list
+        collapsed: false
+        field: { label: Source, name: name, widget: string }
   - name: phases
     label: Phases
     label_singular: Phase

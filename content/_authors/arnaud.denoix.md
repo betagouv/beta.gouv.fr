@@ -9,8 +9,12 @@ missions:
     status: admin
 startups:
   - itou
+  - data.insertion
+  - investigation.carnet.de.bord
+  - investigation.offre.dinsertion
+previously:
   - avril
-  - itou 
   - la-bonne-formation
-  - memo
+badges:
+  - segur
 ---

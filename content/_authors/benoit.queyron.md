@@ -2,8 +2,12 @@
 fullname: Benoit Queyron
 role: Intrapreneur du PAN
 github: Benoit-MINT
-avatar: 
-link:
+missions:
+  - start: 2020-10-01
+    end: 2021-12-31
+    status: admin
+    employer: DGITM
 startups:
-previously:
+  - transport
 
+---

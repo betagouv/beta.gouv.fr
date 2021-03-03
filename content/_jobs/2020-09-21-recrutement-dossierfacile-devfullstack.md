@@ -1,7 +1,7 @@
 ---
 roles: Développeur‧se full-stack avec une expérience avancée sur le front-end
 startup: DossierFacile
-open: true
+open: false
 ---
 # Qu’est-ce qu’une startup d'État ?
 En 2013, l’Etat par l’intermédiaire de la DINUM (Direction Interministérielle du Numérique) lance beta.gouv, le réseau d’incubateurs de startups d'État. 

@@ -16,6 +16,10 @@ missions:
     end: 2019-12-31
     status: independent
     employer: KeiruaProd
+  - start: 2020-01-01
+    end: 2020-12-31
+    status: independent
+    employer: KeiruaProd
 startups:
   - aeris
   - permis-de-construire-facile

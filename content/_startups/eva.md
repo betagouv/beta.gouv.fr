@@ -3,12 +3,19 @@ title: eva (anciennement Compétences pro)
 mission: Favoriser l’insertion en détectant les compétences transversales et valorisant les potentiels à travers un outil de mise en situation numérique
 
 owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi - DGEFP
+sponsors: 
+    - name: Haut commissariat aux compétences
+      acronym:
+      domaine_ministeriel: travail
+      type: administration-centrale
 incubator: dinum
 phases:
   - name: investigation
     start: 2018-06-06
   - name: construction
     start: 2018-06-06
+  - name: transfer
+    start: 2020-09-01
 link: https://eva.beta.gouv.fr/
 repository: https://github.com/betagouv/eva/
 stats: true

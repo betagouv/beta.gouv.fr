@@ -2,6 +2,11 @@
 title: Pix
 mission: Mesurer, développer et valoriser ses compétences numériques
 owner: GIP PIX
+sponsors: 
+    - name: Secrétariat général
+      acronym: SG
+      domaine_ministeriel: education-nat
+      type: administration-centrale
 incubator: dinum
 events:
   - name: national_impact
@@ -15,6 +20,7 @@ phases:
 link: https://pix.fr
 repository: https://github.com/1024pix/pix/
 stats: true
+stats_url: https://pix.fr/statistiques
 contact: contact@pix.fr
 ---
 

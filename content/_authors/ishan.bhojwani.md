@@ -18,11 +18,16 @@ startups:
     - le-taxi
     - transport
     - preuve-de-covoiturage
-    - ecolab
-    - lotocar
+    - datagir
+    - comobi
     - auvol
     - egalim
     - ecosante
     - friches
     - cartobio
+    - peps
+    - tutorat_fp
+    - labels-transition
+badges:
+  - segur
 ---

@@ -1,7 +1,12 @@
 ---
 title: Zéro logement vacant
 mission: Faciliter la remobilisation des logements vacants par les collectivités
-owner: Ministère de la Transition écologique et solidaire
+owner: Direction générale de l'aménagement, du logement et de la nature (DGALN)
+sponsors: 
+    - name: Direction générale de l'aménagement, du logement et de la nature
+      acronym: DGALN
+      domaine_ministeriel: territoires
+      type: administration-centrale
 incubator: mtes
 phases:
   - name: investigation
@@ -17,7 +22,7 @@ contact: henry.ciesielski@developpement-durable.gouv.fr
 
 ## Le problème
 
-1,4 millions de logements sont vacants depuis au moins deux ans dans le parc privé. La remise sur le marché de ces logements permettrait de redynamiser les territoires détendus, de constituer une offre abordable complémentaire au parc social dans les territoires tendus et de se substituer à la construction neuve de logements par artificialisation des sols. 
+1,1 million de logements sont vacants depuis au moins deux ans dans le parc privé. La remise sur le marché de ces logements permettrait de redynamiser les territoires détendus, de constituer une offre abordable complémentaire au parc social dans les territoires tendus et de se substituer à la construction neuve de logements par artificialisation des sols. 
 
 Historiquement, la lutte contre la vacance s’est principalement appuyée sur :
 - des outils coercitifs (taxe sur la vacance, réquisition) qui se sont révélés insuffisants parce que peu activables pour les collectivités. 

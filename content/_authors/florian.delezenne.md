@@ -8,12 +8,10 @@ missions:
     end: 2017-06-01
     status: service
   - start: 2017-06-01
-    end: 2021-02-15
+    end: 2022-06-08
     employer: dinum
     status: admin
 startups:
-  - api-particulier
-  - api.gouv.fr
   - aidantsconnect
 previously:
   - datapass
@@ -21,6 +19,10 @@ previously:
   - mdph
   - mes-aides
   - geo.data.gouv.fr
+  - api-particulier
+  - api.gouv.fr
+badges:
+  - segur
 ---
 
 [Cliquez ici pour améliorer cette bio]
