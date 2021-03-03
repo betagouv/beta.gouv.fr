@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Ippon/LLL
 startups:
-  - e.contrôle
-  - trackdéchets
-  - AidESS
+  - e-controle
+  - trackdechets
+  - AidESS-Relance
 ---
