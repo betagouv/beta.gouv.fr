@@ -8,7 +8,7 @@ sponsors:
     domaine_ministeriel: affaires-sociales
     type: administration-centrale
 incubator: sgmas
-link: https://emjpm.fabrique.social.gouv.fr/
+link: https://emjpm.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/emjpm
 contact: support.emjpm@fabrique.social.gouv.fr
 stats: true
