@@ -8,7 +8,7 @@ sponsors:
     domaine_ministeriel: affaires-sociales
     type: administration-centrale
 incubator: sgmas
-link: tumeplay.fr
+link: https://tumeplay.fabrique.social.gouv.fr/
 repository: null
 contact: yowa.muzadi@fabrique.social.gouv.fr
 stats: false
