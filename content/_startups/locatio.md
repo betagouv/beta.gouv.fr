@@ -17,6 +17,7 @@ phases:
 link: https://dossierfacile.fr/?utm_source=betagouv
 repository: https://github.com/mtes-mct/locatio
 stats: true
+stats_url: https://dossierfacile.fr/stats
 contact: contact@dossierfacile.fr
 ---
 ## Locatio devient DossierFacile.fr !

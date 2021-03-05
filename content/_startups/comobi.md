@@ -13,8 +13,8 @@ phases:
     start: 2018-11-26
   - name: construction
     start: 2019-02-01
-link: https://www.lotocar.fr
-repository: https://github.com/DavidBruant/lotocar
+link: http://comobi.fr
+repository: https://github.com/betagouv/neutre.comobi.fr
 stats: false
 contact: comobi@beta.gouv.fr
 redirect_from:
@@ -59,7 +59,7 @@ Notre offre est adaptée à un territoire qui souhaite tester l'accueil du covoi
 
 Pour un usage plus avancé, par exemple des campagnes d'incitation au covoiturage, des accès par entreprise... ou simplement un service plus complet aux utilisateurs, nous invitons les territoires à se rapprocher de l'un des opérateurs de covoiturage existant.
 
-## Dans le Lot
+## Une première expérimentation dans le Lot
 Le Lot est le territoire pilote qui a mené à la création de cet outil simple de covoiturage solidaire, par la mise en plac du service Lotocar. L'expérimentation a été lancée par le préfet du Lot, dans le cadre de l'opération Carte Blanche de la DITP, avec un accompagnement de beta.gouv.fr et un financement de l'ADEME.
 
 Le service de covoiturage solidaire a été lancé en mars 2019. Au bout de 8 mois d'activité, Lotocar :
@@ -70,3 +70,11 @@ Le service de covoiturage solidaire a été lancé en mars 2019. Au bout de 8 mo
 - avait été sollicité par 2 autres territoires pour y déployer le dispositif.
 
 A fin 2020, la préfecture le Lot n'a pas pu maintenir en poste la personne chargée du déploiement de Lotocar et aucun repreneur n'a été trouvé pour le service, qui semble amené à fermer, malgré un usage qui se maintient.
+
+### De nouveaux territoires se lancent dans le covoiturage solidaire avec CoMobi !
+- à [Valberg](http://azur.comobi.fr/) dans les Alpes-Maritimes 
+- dans le [Tarn](http://tarn.comobi.fr/) depuis le 22-02-2021
+
+## Pourquoi pas vous ?
+Si vous aussi vous souhaitez tester le covoiturage solidaire, lancez-vous à moindre frais avec notre solution minimaliste !
+Contactez l'équipe : comobi@beta.gouv.fr
