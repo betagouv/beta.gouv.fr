@@ -20,6 +20,18 @@ layout: default
                     {% endfor %}
                 </select>
             </div>
+            <div class="selects">
+                <select id="select-incubateur">
+                    <option value="">Tous les incubateurs</option> 
+                </select>
+            </div>
+            <div class="selects">
+                <select id="select-owner">
+                    <option value="">Tous les owners</option> 
+                </select>
+            </div>
+            <input type="text" id="search-input-fuse" placeholder="Rechercher...">
+
             <input type="text" id="search-input" placeholder="Rechercher...">
             <button id="search-input-button" class="overlay-button" aria-label="Effacer" style="width: 29px;">
                 Effacer
@@ -29,7 +41,7 @@ layout: default
     </section>
 
     <section class="section section-grey" style="padding-top: 0;">
-        <div class="container">
+        <!-- <div class="container">
             {% assign phases = site.phases | sort: 'order' %}
             {% for phase in phases %}
                 {% assign counter_target = phase.id | remove: "/phases/" %}
@@ -57,6 +69,14 @@ layout: default
                     </div>
                 </div>
             {% endfor %}
+        </div> -->
+        <div class="container">
+            <div class="startups grid">
+                {% assign startups = site.startups %}
+                {% for startup in startups %}
+                    {% include card-startup.html startup = startup %}
+                {% endfor %}
+            </div>
         </div>
     </section>
 </main>
@@ -100,6 +120,7 @@ layout: default
     });
 </script>
 
+
 <!-- Script pointing to search-script.js -->
 <script src="/assets/additional/js/search-script.js" type="text/javascript"></script>
 
@@ -113,3 +134,132 @@ layout: default
         json: '/search.json'
     })
 </script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6"></script>
+<script>
+    var getJSON = function(url, callback) {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.responseType = 'json';
+        xhr.onload = function() {
+        
+            var status = xhr.status;
+            
+            if (status == 200) {
+                callback(null, xhr.response);
+            } else {
+                callback(status);
+            }
+        };
+        xhr.send();
+    };
+
+    var createStartupCard = function(startup) {
+        var card = document.createElement('div');
+        card.className = 'card'
+        card.id = startup.id
+
+        // startup_id = include.startup.id | remove: '/startups/' %}
+        // {% assign screenshot_files = site.static_files | where: "startups_img", true %}
+        // {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
+        card.innerHTML = `
+            <a href="/startups/${ startup.id }.html">
+                <div class="card__cover">
+                    <img class="screenshot lozad"
+                        src="${startup.attributes['screenshot-url']}"
+                        title="${startup.attributes.name} est encore en travaux"
+                        alt=""
+                        data-proofer-ignore>
+                </div>
+                <div class="card__content">
+                <h3 class="startup__title">${startup.attributes.name}</h3>
+                <div class="card__meta">
+                    ${ startup.attributes.owner }
+                </div>
+                <p>
+                    ${ startup.attributes.pitch }
+                </p>
+                </div>
+            </a>`
+        return card
+    }
+
+    var generateDataWithHtmlCards = function(data) {
+        for (var i=0; i<data.length; i++) {
+            data[i]['html'] = createStartupCard(data[i]);
+        }
+        return data
+    }
+
+    function debounce(callback, delay){
+        var timer;
+        return function(){
+            var args = arguments;
+            var context = this;
+            clearTimeout(timer);
+            timer = setTimeout(function(){
+                callback.apply(context, args);
+            }, delay)
+        }
+    }
+    
+    var createIncubatorSelect = function(data) {
+        var incubators = Array.from(new Set(data.map(d => d.relationships.incubator.data.id)));
+        var selectIncubator = document.getElementById('select-incubateur');
+        var optionFragment = document.createDocumentFragment();
+        for (var i=0; i < incubators.length; i++) {
+            var incubator = incubators[i]
+            var option = document.createElement('option');
+            option.innerText = incubator;
+            option.value = incubator;
+            optionFragment.appendChild(option)
+        }
+        selectIncubator.appendChild(optionFragment);
+        selectIncubator.addEventListener('change', function (e) {
+            var grid = document.getElementsByClassName('startups grid')[0]
+            var documentFragment = document.createDocumentFragment();
+            var dataToDisplay = e.target.value ? data.filter(d => d.relationships.incubator.data.id === e.target.value) : data;
+            for (var i = 0; i < dataToDisplay.length; i++) {
+                documentFragment.appendChild(dataToDisplay[i].html)
+            }
+            grid.innerHTML = "" 
+            grid.appendChild(documentFragment)
+        });
+    }
+
+    var createSearchInput = function(data) {
+        var options = {
+            includeScore: true,
+            sortFn: function(a, b){return b.score-a.score},
+            distance: 00,
+            threshold: 0.5,
+            // Search in `author` and in `tags` array
+            keys: ['attributes.pitch', 'attributes.name', 'attributes.owner']
+        }
+        var fuse = new Fuse(data, options)
+        var selectSearchInput = document.getElementById('search-input-fuse');
+        selectSearchInput.addEventListener('keyup', debounce(function (e) {
+                var inputValue = selectSearchInput.value;
+                var dataToDisplay  = fuse.search(inputValue).map(r => r.item);
+                // console.log(dataToDisplay)
+                var grid = document.getElementsByClassName('startups grid')[0]
+                var documentFragment = document.createDocumentFragment();
+                for (var i = 0; i < dataToDisplay.length; i++) {
+                    documentFragment.appendChild(dataToDisplay[i].html)
+                }
+                grid.innerHTML = "" 
+                grid.appendChild(documentFragment)
+            }, 1000));
+    }
+
+    getJSON('/api/v2.1/startups.json',  function(err, data) {
+        if (err != null) {
+            console.error(err);
+        } else {
+            data = generateDataWithHtmlCards(data.data);
+            createIncubatorSelect(data);
+            createSearchInput(data);
+            // createOwnerSelect(data)
+            // console.log('LCS INCUBATORS', incubators)
+        }
+    });
+    </script>
