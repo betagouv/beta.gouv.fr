@@ -38,3 +38,5 @@ Démarrage dès que possible.
 ## Candidater
 
 Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr) et [codedutravailnumerique@travail.gouv.fr](mailto:codedutravailnumerique@travail.gouv.fr).
+
+Pour toute question concernant cette offre, vous pouvez contacter [catherine.lissarrague@travail.gouv.fr](mailto:catherine.lissarrague@travail.gouv.fr)
