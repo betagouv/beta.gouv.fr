@@ -7,7 +7,7 @@ startup: codedutravail
 
 # Et si on rendait le droit du travail plus lisible ?!
 
-Prévu par l’ordonnance n°2017-1387 du 22 septembre 2017, le [Code du travail numérique](www.code.travail.gouv.fr) facilite l’accès de toute personne au droit du travail (code du travail, dispositions législatives et réglementaires et stipulations conventionnelles).    
+Prévu par l’ordonnance n°2017-1387 du 22 septembre 2017, le [Code du travail numérique](https://www.code.travail.gouv.fr) facilite l’accès de toute personne au droit du travail (code du travail, dispositions législatives et réglementaires et stipulations conventionnelles).    
 
 Construit dans le cadre de l’Incubateur des Ministères sociaux, ce service est développé de façon itérative, améliorant au fur et à mesure la qualité et la fiabilité du service ainsi que le périmètre du droit interrogeable.
 
