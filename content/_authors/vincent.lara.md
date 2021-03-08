@@ -8,9 +8,10 @@ missions:
     status: independent
     employer: Codeurs en Liberté
 startups:
+    - ecosante
+previously: 
     - le-taxi
     - transport
-    - ecosante
 ---
 
 Aide à construire les infrastructures numériques publiques de demain.
