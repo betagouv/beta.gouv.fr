@@ -1,34 +1,87 @@
-<footer class="footer">
-  <div class="container">
-    <div class="footer__logo">
-      <img src="{{file.path}}/assets/images/betagouvfr.svg" alt="beta.gouv.fr">
-      {% if site.data.footer.social %}
-      <ul class="footer__social">
-        {% for item in site.data.footer.social %}
-        <li><a href="{{ item.url }}"><svg class="icon icon-{{ item.icon }}"><use xlink:href="#icon-{{ item.icon }}"></use></svg></a></li>
-        {% endfor %}
-      </ul>
-      {% endif %}
+<footer class="rf-footer" role="contentinfo" id="footer">
+  <div class="rf-footer__top">
+    <div class="rf-container">
+        <div class="rf-grid-row rf-grid-row--start rf-grid-row--gutters">
+          {% for item in site.data.footer.links %}
+          <div class="rf-col-12 rf-col-sm-6 rf-col-md-6">
+            {% if item.label %}
+              <div class="rf-footer__top-cat">{{ item.label}}</div>
+            {% endif %}
+            <ul class="rf-footer__top-list">
+            {% for link in item.children %}
+              {% if link.target %}
+                {% assign target = site.pages | where:"path",link.target | first %}
+                <li><a href="{{ target.url }}" class="rf-footer__top-link">{{ link.label }}</a></li>
+              {% elsif link.url %}
+                <li><a href="{{ link.url }}" class="rf-footer__top-link">{{ link.label }}</a></li>
+              {% endif %}
+            {% endfor %}
+            </ul>
+          </div>
+          {% endfor %}
+        </div>
     </div>
-
-    {% for item in site.data.footer.links %}
-    <div class="footer__links">
-      {% if item.label %}
-        <h2>{{ item.label}}</h2>
-      {% endif %}
-      <ul>
-      {% for link in item.children %}
-        {% if link.target %}
-          {% assign target = site.pages | where:"path",link.target | first %}
-          <li><a href="{{ target.url }}">{{ link.label }}</a></li>
-        {% elsif link.url %}
-          <li><a href="{{ link.url }}">{{ link.label }}</a></li>
-        {% endif %}
-      {% endfor %}
-      </ul>
-    </div>
-    {% endfor %}
-
-    <div></div>
+</div>
+<div class="rf-container">
+  <div class="rf-footer__body">
+      <div class="rf-footer__brand">
+          <a class="rf-logo" href="#" title="république française">
+              <span class="rf-logo__title">république
+                  <br>française</span>
+          </a>
+      </div>
+      <div class="rf-footer__content">
+          <p class="rf-footer__content-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <ul class="rf-footer__content-list">
+              <li class="rf-footer__content-item">
+                  <a class="rf-footer__content-link" href="https://legifrance.gouv.fr">legifrance.gouv.fr</a>
+              </li>
+              <li class="rf-footer__content-item">
+                  <a class="rf-footer__content-link" href="https://gouvernement.fr">gouvernement.fr</a>
+              </li>
+              <li class="rf-footer__content-item">
+                  <a class="rf-footer__content-link" href="https://service-public.fr">service-public.fr</a>
+              </li>
+              <li class="rf-footer__content-item">
+                  <a class="rf-footer__content-link" href="https://data.gouv.fr">data.gouv.fr</a>
+              </li>
+          </ul>
+      </div>
   </div>
+  <div class="rf-footer__bottom">
+      <ul class="rf-footer__bottom-list">
+          <li class="rf-footer__bottom-item">
+              <a class="rf-footer__bottom-link" href="#">Plan du site</a>
+          </li>
+          <li class="rf-footer__bottom-item">
+              <a class="rf-footer__bottom-link" href="#">Accessibilité: non/partiellement/totalement conforme</a>
+          </li>
+          <li class="rf-footer__bottom-item">
+              <a class="rf-footer__bottom-link" href="#">Mentions légales</a>
+          </li>
+          <li class="rf-footer__bottom-item">
+              <a class="rf-footer__bottom-link" href="#">Données personnelles</a>
+          </li>
+          <li class="rf-footer__bottom-item">
+              <a class="rf-footer__bottom-link" href="#">Gestion des cookies</a>
+          </li>
+      </ul>
+      <div class="rf-footer__bottom-copy">
+          © République Française 2020
+      </div>
+  </div>
+</div>
+<!-- <div class="rf-container">
+  <div class="footer__logo">
+    <img src="{{file.path}}/assets/images/betagouvfr.svg" alt="beta.gouv.fr">
+    {% if site.data.footer.social %}
+    <ul class="footer__social">
+      {% for item in site.data.footer.social %}
+      <li><a href="{{ item.url }}"><svg class="icon icon-{{ item.icon }}"><use xlink:href="#icon-{{ item.icon }}"></use></svg></a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+  <div></div>
+</div> -->
 </footer>
