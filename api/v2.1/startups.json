@@ -7,15 +7,6 @@ layout: null
 , "data":
     [
     {% for startup in site.startups %}
-        {% assign startup_id = startup.id | remove: '/startups/' %}
-        {% assign screenshot_files = site.static_files | where: "startups_img", true %}
-        {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
-
-        {% if screenshot_file %}
-          {% assign screenshot_path = screenshot_file.path %}
-        {% else %}
-          {% assign screenshot_path = "/img/logo-generique-startup-rectangle-2019.jpg" %}
-        {% endif %}
         { "id"        : "{{ startup.id | remove: '/startups/' }}"
         , "type"      : "startup"
         , "attributes":
@@ -25,9 +16,7 @@ layout: null
             , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
             , "repository": "{{ startup.repository}}"{% endif %}
             , "contact": "{{startup.contact}}"
-            , "owner" : "{{ startup.owner | escape }}"
             , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
-            , "screenshot-url": "{{ screenshot_path }}"
             , "events": [
                 {% for event in startup.events %}
                     { "name": "{{event.name}}", "date": "{{event.date}}", "comment": "{{event.comment}}"}{% unless forloop.last %},{% endunless %}
