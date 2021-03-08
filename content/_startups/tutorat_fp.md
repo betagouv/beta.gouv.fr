@@ -1,6 +1,3 @@
-Tutorat Fiche produit
-==
-
 ---
 title: Tutorat pour les concours de la fonction publique
 mission: Améliorer l'égalité des chances aux concours de la fonction publique grâce au développement du tutorat.
