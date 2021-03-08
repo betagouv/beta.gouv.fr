@@ -1708,3 +1708,12 @@ a.label {
   border: 1px solid #adb9c9;
   color: #53657d;
 }
+
+.beta-footer .beta-footer-social li a {
+  margin-right: 10px;
+}
+
+.beta-footer .beta-footer-social li a .icon{
+  width: 2em;
+  height: 2em;
+}

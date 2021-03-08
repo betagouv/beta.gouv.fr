@@ -43,9 +43,6 @@ links:
       label: Code source
       url: https://github.com/betagouv/beta.gouv.fr/
     -
-      label: Suivi d'audience et vie privée
-      target: _pages/suivi.md
-    -
       label: Indicateurs & mesure d'impact
       target: _pages/stats.md
     -
