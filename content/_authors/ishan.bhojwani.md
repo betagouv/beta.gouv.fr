@@ -16,10 +16,8 @@ missions:
 github: IshanB
 startups:
     - le-taxi
-    - transport
     - preuve-de-covoiturage
     - datagir
-    - auvol
     - egalim
     - ecosante
     - friches
@@ -29,6 +27,8 @@ startups:
     - labels-transition
 previously:
     - comobi
+    - transport
+    - auvol
 badges:
   - segur
 ---
