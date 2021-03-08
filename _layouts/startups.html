@@ -164,8 +164,12 @@ var data = [
     })
 </script>
 <script>
-    var hash = window.location.hash.substr(1);
+    var urlParams = new URLSearchParams(window.location.search);
+    var phase = urlParams.get('phase');
+    var incubateur = urlParams.get('incubateur');
     data = generateDataWithHtmlCards(data);
-    createIncubatorSelect(data);
+    createIncubatorSelect(data, incubateur);
+
+    var hash = phase || window.location.hash.substr(1);
     createPhaseSelect(data, hash);
     </script>
