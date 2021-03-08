@@ -13,25 +13,14 @@ layout: default
     <section class="filters sticky">
         <div class="container">
             <div class="selects">
-                <select id="select-phase">
-                    <option value="">Toutes les phases</option>
-                    <!-- {% for phase in phases_with_stopped %}
-                        <option value="{{ phase.status }}">{{ phase.label }}</option>
-                    {% endfor %} -->
-                </select>
-            </div>
-            <div class="selects">
                 <select id="select-incubateur">
                     <option value="">Tous les incubateurs</option> 
                 </select>
-            </div>
-            <!-- <div class="selects">
-                <select id="select-owner">
-                    <option value="">Tous les owners</option> 
+                <select id="select-phase">
+                    <option value="">Toutes les phases</option>
                 </select>
-            </div> -->
+            </div>
             <!-- <input type="text" id="search-input-fuse" placeholder="Rechercher..."> -->
-
             <input type="text" id="search-input" placeholder="Rechercher...">
             <button id="search-input-button" class="overlay-button" aria-label="Effacer" style="width: 29px;">
                 Effacer
@@ -158,9 +147,6 @@ layout: default
         card.className = 'card'
         card.id = startup.id
 
-        // startup_id = include.startup.id | remove: '/startups/' %}
-        // {% assign screenshot_files = site.static_files | where: "startups_img", true %}
-        // {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
         card.innerHTML = `
             <a href="/startups/${ startup.id }.html">
                 <div class="card__cover">
@@ -244,7 +230,8 @@ layout: default
             }
             var dataToDisplay = e.target.value ? applyFilter(data) : data;
             if (!dataToDisplay.length) {
-                documentFragment.appendChild(noContentMessage);
+                // documentFragment.appendChild(noContentMessage);
+                grid.parentNode.appendChild(noContentMessage);
             }
             for (var i = 0; i < dataToDisplay.length; i++) {
                 documentFragment.appendChild(dataToDisplay[i].html)
@@ -279,7 +266,8 @@ layout: default
 
             var dataToDisplay = e.target.value ? applyFilter(data) : data;
             if (!dataToDisplay.length) {
-                documentFragment.appendChild(noContentMessage);
+                grid.parentNode.appendChild(noContentMessage);
+                //documentFragment.appendChild(noContentMessage);
             }
             for (var i = 0; i < dataToDisplay.length; i++) {
                 documentFragment.appendChild(dataToDisplay[i].html)
@@ -303,7 +291,6 @@ layout: default
         selectSearchInput.addEventListener('keyup', debounce(function (e) {
                 var inputValue = selectSearchInput.value;
                 var dataToDisplay  = fuse.search(inputValue).map(r => r.item);
-                // console.log(dataToDisplay)
                 var grid = document.getElementsByClassName('startups grid')[0]
                 var documentFragment = document.createDocumentFragment();
                 for (var i = 0; i < dataToDisplay.length; i++) {
@@ -321,9 +308,6 @@ layout: default
             data = generateDataWithHtmlCards(data.data);
             createIncubatorSelect(data);
             createPhaseSelect(data);
-            // createSearchInput(data);
-            // createOwnerSelect(data)
-            // console.log('LCS INCUBATORS', incubators)
         }
     });
     </script>
