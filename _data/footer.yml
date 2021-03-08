@@ -51,18 +51,15 @@ links:
     -
       label: Conventions de partenariat
       url: https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/
--
 
 mandatorylinks:
   -
-    label: "Accessibilité : non/partiellement/totalement conforme"
-    target: _pages/about.md
+    label: "Accessibilité : non conforme"
+    target: _pages/accessibilite.md
   -
     label: Mentions légales
     target: _pages/about.md
   -
-    label: Données personnelles
+    label: Données personnelles et cookies
     target: _pages/suivi.md
-  -
-    label: Gestion des cookies
-    target: _pages/suivi.md
+

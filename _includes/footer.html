@@ -1,9 +1,9 @@
-<footer class="rf-footer" role="contentinfo" id="footer">
+<footer class="rf-footer beta-footer" role="contentinfo" id="footer">
   <div class="rf-footer__top">
     <div class="rf-container">
         <div class="rf-grid-row rf-grid-row--start rf-grid-row--gutters">
           {% for item in site.data.footer.links %}
-          <div class="rf-col-12 rf-col-sm-6 rf-col-md-6">
+          <div class="rf-col-12 rf-col-sm-4 rf-col-md-4">
             {% if item.label %}
               <div class="rf-footer__top-cat">{{ item.label}}</div>
             {% endif %}
@@ -19,6 +19,20 @@
             </ul>
           </div>
           {% endfor %}
+          {% if site.data.footer.social %}
+          <div class="rf-col-12 rf-col-sm-4 rf-col-md-4 beta-footer-social">
+            <div class="rf-footer__top-cat">Les réseaux de beta.gouv.fr</div>
+            <ul class="rf-footer__top-list rf-grid-row">
+              {% for item in site.data.footer.social %}
+              <li>
+                <a href="{{ item.url }}" class="rf-footer__top-link">
+                  <svg class="icon icon-{{ item.icon }}"><use xlink:href="#icon-{{ item.icon }}"></use></svg>
+                </a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
         </div>
     </div>
 </div>
