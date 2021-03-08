@@ -19,7 +19,6 @@ startups:
     - transport
     - preuve-de-covoiturage
     - datagir
-    - comobi
     - auvol
     - egalim
     - ecosante
@@ -28,6 +27,8 @@ startups:
     - peps
     - tutorat_fp
     - labels-transition
+previously:
+    - comobi
 badges:
   - segur
 ---
