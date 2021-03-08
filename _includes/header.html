@@ -13,10 +13,12 @@
         alt="{{ site.title }}" /><span class="navbar__domain">{{ site.data.menu.title }}</span><img src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" class="navbar__gouvfr" alt="gouv.fr" />
     </a>
 
-    <nav class="rf-nav" role="navigation" aria-label="Menu principal" id="header-navigation">
+    <nav class="rf-nav" role="navigation" aria-label="Menu principal"
+    >
       <ul class="rf-nav__list">
         {% for item in site.data.menu.nav %}
-        <li class="rf-nav__item">
+        {% assign target = site.pages | where:"path",item.target | first %}
+        <li class="rf-nav__item {% if page.url contains target.url %}rf-nav__item--active{% endif %}">
           {% if item.children %}
             <div class="rf-menu rf-collapse" id="rf-nav-item-{{ item.children.length }}">
               {{ item.label }}
@@ -35,7 +37,7 @@
             </div>
           {% elsif item.target %}
             {% assign target = site.pages | where:"path",item.target | first %}
-            <a class="rf-link {% if page.url contains target.url %}rf-nav__item--active{% endif %}" href="{{ target.url }}">{{ item.label }}</a>
+            <a class="rf-link" href="{{ target.url }}">{{ item.label }}</a>
           {% else %}
             <a href{% if item.url %}="{{ item.url }}"{% endif %} class="rf-link" target="_self">{{ item.label }}</a>
           {% endif %}
