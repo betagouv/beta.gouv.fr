@@ -672,7 +672,8 @@ a.navbar__home {
 }
 
 .navbar__gouvfr {
-  height: 100%;
+  height:3.5rem;
+  width:auto;
 }
 
 span.navbar__domain {

@@ -43,6 +43,8 @@ copy_to_dest:
     target: assets/gouvfr/css/
   - source: node_modules/@gouvfr/all/dist/fonts/.
     target: assets/gouvfr/fonts/
+  - source: node_modules/@gouvfr/all/dist/js/.
+    target: assets/gouvfr/js/
 
 sass:
   style: compressed
