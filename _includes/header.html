@@ -1,20 +1,26 @@
-
-<header class="navbar">
-  <div class="navbar__container">
-    <a class="navbar__home" href="{{ "/" | relative_url }}">
-      <img class="navbar__logo"
-        src="
-          {% if site.data.header.isMourningDay %}
-            {{ '/assets/images/logo-marianne-deuil.png' | relative_url }}
-          {% else %}
-            {{ '/assets/images/logo-marianne.svg' | relative_url }}
-          {% endif %}
-          "
-        alt="{{ site.title }}" /><span class="navbar__domain">{{ site.data.menu.title }}</span><img src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" class="navbar__gouvfr" alt="gouv.fr" />
-    </a>
-
-    <nav class="rf-nav" role="navigation" aria-label="Menu principal"
-    >
+<header class="rf-header">
+  <div class="rf-container">
+      <div class="rf-header__body">
+          <div class="rf-header__brand">
+              <a class="rf-logo" href="/" title="République française">
+                  <span class="rf-logo__title">
+                    République<br>
+                    française
+                  </span>
+              </a>
+          </div>
+          <div class="rf-header__navbar">
+              <div class="rf-service">
+                  <a class="rf-service__title" href="{{ "/" | relative_url }}" title="Nom du service">
+                        <span class="navbar__domain">{{ site.data.menu.title }}</span>
+                        <img src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" class="navbar__gouvfr" alt="gouv.fr" />
+                  </a>
+              </div>
+          </div>
+      </div>
+  </div>
+  <div class="rf-container">
+    <nav class="rf-nav" role="navigation" aria-label="Menu principal" id="header-navigation">
       <ul class="rf-nav__list">
         {% for item in site.data.menu.nav %}
         {% assign target = undefined %}
