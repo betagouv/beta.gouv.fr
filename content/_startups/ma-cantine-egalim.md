@@ -9,7 +9,7 @@ phases:
       end: 2020-10-29
     - name: construction
       start: 2020-10-29
-link: https://ma-cantine-egalim.beta.gouv.fr
+link: https://ma-cantine.beta.gouv.fr
 repository: https://github.com/betagouv/ma-cantine
 stats: false 
 stats_url: 
