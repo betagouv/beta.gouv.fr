@@ -170,7 +170,7 @@ layout: default
         var selectedPhase = e.target.value;
         var hash = "#" + selectedPhase;
         location.href = hash;
-        history.replaceState(null, null, url.origin + url.pathname + hash);
+        history.replaceState(null, null, url.origin + url.pathname + hash + window.location.search);
     });
 </script>
 
@@ -189,7 +189,6 @@ layout: default
 </script>
 <script>
     var urlParams = new URLSearchParams(window.location.search);
-    var phase = urlParams.get('phase');
     var initValue = urlParams.get('incubateur');
     data = generateDataWithHtmlCards(data);
     createIncubatorSelect(data, incubators, initValue);

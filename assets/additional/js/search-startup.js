@@ -37,80 +37,6 @@ var generateDataWithHtmlCards = function(data) {
     return data
 }
 
-function debounce(callback, delay){
-    var timer;
-    return function(){
-        var args = arguments;
-        var context = this;
-        clearTimeout(timer);
-        timer = setTimeout(function(){
-            callback.apply(context, args);
-        }, delay)
-    }
-}
-
-var filters = {};
-
-var applyFilter = function(data) {
-    return data.filter(function(d) {
-        return Object.keys(filters).reduce(function(acc, filterKey) {
-            return acc && filters[filterKey](d);
-        }, true)
-    });
-}
-
-var createPhaseSelect = function(data, initValue) {
-    var PHASES_DISPLAY = {
-        investigation: 'Investigation',
-        acceleration: 'Accélération',
-        construction: 'Construction',
-    }
-    var phases = Array.from(new Set(data.map(d => d.attributes.phases[0].name)));
-    var selectPhase = document.getElementById('select-phase');
-    var optionFragment = document.createDocumentFragment();
-    for (var i=0; i < phases.length; i++) {
-        var phase = phases[i]
-        var option = document.createElement('option');
-        option.innerText = PHASES_DISPLAY[phase] || phase;
-        option.value = phase;
-        optionFragment.appendChild(option)
-    }
-    selectPhase.appendChild(optionFragment);
-    var onPhaseChange = function(value) {
-        var grid = document.getElementsByClassName('startups grid')[0]
-        var documentFragment = document.createDocumentFragment();
-        if (value) {
-            filters['phase'] = ((d) => {
-                return d.attributes.phases[0].name === value
-            });
-        } else {
-            delete filters['phase'];
-        }
-        var dataToDisplay = value ? applyFilter(data) : data;
-        if (!dataToDisplay.length) {
-            grid.parentNode.appendChild(noContentMessage);
-        } else if (noContentMessage.parentNode) {
-            noContentMessage.parentNode.removeChild(noContentMessage)
-        }
-        for (var i = 0; i < dataToDisplay.length; i++) {
-            documentFragment.appendChild(dataToDisplay[i].html)
-        }
-        grid.innerHTML = "" 
-        grid.appendChild(documentFragment)
-    }
-    selectPhase.addEventListener('change', function (e) {
-        var value = e.target.value;
-        onPhaseChange(value);
-        const urlParams = new URLSearchParams(window.location.search);
-        urlParams.set('phase', value);
-        history.replaceState(null, null, window.location.origin + window.location.pathname + '?' + urlParams);
-    });
-    if (initValue) {
-        selectPhase.value = initValue;
-        onPhaseChange(initValue);
-    }
-}
-
 var createIncubatorSelect = function(data, incubators, initValue) {
     var selectIncubator = document.getElementById('select-incubateur');
     var optionFragment = document.createDocumentFragment();
@@ -160,11 +86,11 @@ var createIncubatorSelect = function(data, incubators, initValue) {
             grid.innerHTML = "" 
             grid.appendChild(documentFragment)   
         }
-        if (initValue) {
-            selectIncubator.value = initValue;
-            onIncubatorChange(initValue);
-        }
     };
+    if (initValue) {
+        selectIncubator.value = initValue;
+        onIncubatorChange(initValue);
+    }
     selectIncubator.addEventListener('change', function (e) {
         var value = e.target.value
         onIncubatorChange(value);
