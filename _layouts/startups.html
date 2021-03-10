@@ -12,7 +12,7 @@ layout: default
     var data = {
         {% for phase in site.phases %}
         {% assign startups = site.startups | where_phase: phase.status %}
-        "{{phase.status}}": [{% for startup in site.startups %}
+        "{{phase.status}}": [{% for startup in startups %}
             {% assign startup_id = startup.id | remove: '/startups/' %}
             {% assign screenshot_files = site.static_files | where: "startups_img", true %}
             {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
@@ -21,10 +21,13 @@ layout: default
             {% else %}
             {% assign screenshot_path = "/img/logo-generique-startup-rectangle-2019.jpg" %}
             {% endif %}
+            {% capture incubator_id %}/approche/incubateurs/{{ startup.incubator }}{% endcapture %}
+            {% assign incubator = incubators | where:'id', incubator_id | first %}
             { "id"        : "{{ startup.id | remove: '/startups/' }}"
             , "type"      : "startup"
-            , "phase": "{{ status }}",
-            ,"incubator" : "{{ startup.incubator | escape }}"
+            , "phase": "{{ status }}"
+            , "incubator_id" : "{{startup.incubator}}"
+            , "incubator_title": "{{ incubator.title }}"
             , "attributes":
                 { "name"  : "{{ startup.title }}"
                 , "pitch" : "{{ startup.mission }}"{% if startup.stats %}
@@ -52,7 +55,14 @@ layout: default
         {% unless forloop.last %},{% endunless %}
         {% endfor %}
     };
-
+    var incubators = [
+        {% for incubator in incubators %} {
+        id: "{{incubator.id}}".replace('/approche/incubateurs/', ''),
+        title: "{{incubator.title}}",
+        url: "{{incubator.url}}"
+        },
+        {% endfor %}
+    ];
     var phases = [
         {% for phase in site.phases %}
             {% assign counter_target = phase.id | remove: "/phases/" %}
@@ -110,7 +120,7 @@ layout: default
                     {% elsif phase.status == 'alumni' %}
                         <h2 class="phase-title">Nos <em>{{ phase.label | downcase }}</em></h2>
                     {% else %}
-                        <h2 class="phase-title"><em>{{ counter }}</em> {{ phase.type_label }}{{ plural }} en
+                        <h2 class="phase-title"><em><span class="phase-counter">{{ counter }}</span></em> {{ phase.type_label }}{{ plural }} en
                         <em>{{ phase.label | downcase }}</em></h2>
                     {% endif %}
 
@@ -184,7 +194,7 @@ layout: default
     var phase = urlParams.get('phase');
     var incubateur = urlParams.get('incubateur');
     data = generateDataWithHtmlCards(data);
-    createIncubatorSelect(data, incubateur);
+    createIncubatorSelect(data, incubateur, incubators);
 
     var hash = phase || window.location.hash.substr(1);
     // createPhaseSelect(data, hash);

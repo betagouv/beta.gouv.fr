@@ -27,8 +27,12 @@ var createStartupCard = function(startup) {
 }
 
 var generateDataWithHtmlCards = function(data) {
-    for (var i=0; i<data.length; i++) {
-        data[i]['html'] = createStartupCard(data[i]);
+    var keys = Object.keys(data);
+    for (var i=0; i<keys.length; i++) {
+        var key = keys[i];
+        for (var j=0; j<data[key].length; j++) {
+            data[key][j]['html'] = createStartupCard(data[key][j]);
+        }
     }
     return data
 }
@@ -44,9 +48,6 @@ function debounce(callback, delay){
         }, delay)
     }
 }
-
-var noContentMessage = document.createElement('p');
-noContentMessage.innerText = "Il n'y a pas de startup correspondantes à ces filtres";
 
 var filters = {};
 
@@ -110,23 +111,23 @@ var createPhaseSelect = function(data, initValue) {
     }
 }
 
-var createIncubatorSelect = function(data, initValue) {
-    var incubators = Array.from(new Set(data.map(d => d.relationships.incubator.data.id)));
+var createIncubatorSelect = function(data, initValue, incubators) {
     var selectIncubator = document.getElementById('select-incubateur');
     var optionFragment = document.createDocumentFragment();
     for (var i=0; i < incubators.length; i++) {
         var incubator = incubators[i]
         var option = document.createElement('option');
-        option.innerText = incubator;
-        option.value = incubator;
+        option.innerText = incubator.title;
+        option.value = incubator.id;
         optionFragment.appendChild(option)
     }
     selectIncubator.appendChild(optionFragment);
     var onIncubatorChange = function(value) {
-        var grid = document.getElementsByClassName('startups grid')[0]
-        for (var i=0; i < phases.length; i++) {
-            var phase = phases[i];
-            var phaseElement = document.getElementById(phases.status)
+        var grid = document.getElementsByClassName('startups grid')[0];
+        var keys = Object.keys(data);
+        for (var i=0; i < keys.length; i++) {
+            var phase = keys[i];
+            var phaseElement = document.getElementById(phase)
             var grid = phaseElement.getElementsByClassName('startups')[0];
             var documentFragment = document.createDocumentFragment();
             // if (value) {
@@ -136,18 +137,32 @@ var createIncubatorSelect = function(data, initValue) {
             // } else {
             //     delete filters['incubator'];
             // }
-            var dataToDisplay = value ? data.filter(d => d.incubator === value) : data;
+            var dataToDisplay = value ? data[phase].filter(d => d.incubator_id === value) : data[phase];
             if (!dataToDisplay.length) {
-                phaseElement.appendChild(noContentMessage);
-            } else if (noContentMessage.parentNode) {
-                phaseElement.removeChild(noContentMessage)
+                phaseElement.style.display = 'none';
+                var noContentMessage = phaseElement.getElementsByClassName('phase-no-result');
+                if (!noContentMessage.length) {
+                    var noContentMessage = document.createElement('p');
+                    noContentMessage.className = 'phase-no-result';
+                    noContentMessage.innerText = "Il n'y a pas de startup dans cette phase actuellement."
+                    phaseElement.appendChild(noContentMessage);
+                }
+            } else {
+                phaseElement.style.display = 'block';
+                var noContentMessage = phaseElement.getElementsByClassName('phase-no-result');
+                if (noContentMessage.length) {
+                    phaseElement.removeChild(noContentMessage[0]);
+                }
             }
-            for (var i = 0; i < dataToDisplay.length; i++) {
-                documentFragment.appendChild(dataToDisplay[i].html)
+            var phaseCounter = phaseElement.getElementsByClassName('phase-counter')[0];
+            if (phaseCounter) {
+                phaseCounter.innerText = dataToDisplay.length;
+            }
+            for (var j = 0; j < dataToDisplay.length; j++) {
+                documentFragment.appendChild(dataToDisplay[j].html)
             }
             grid.innerHTML = "" 
-            grid.appendChild(documentFragment)
-            
+            grid.appendChild(documentFragment)   
         }
         
     };
@@ -158,8 +173,8 @@ var createIncubatorSelect = function(data, initValue) {
         urlParams.set('incubateur', value);
         history.replaceState(null, null, window.location.origin + window.location.pathname + '?' + urlParams);
     });
-    if (initValue) {
-        selectIncubator.value = initValue;
-        onIncubatorChange(initValue);
-    }
+    // if (initValue) {
+    //     selectIncubator.value = initValue;
+    //     onIncubatorChange(initValue);
+    // }
 }
