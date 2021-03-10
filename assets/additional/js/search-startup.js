@@ -124,26 +124,32 @@ var createIncubatorSelect = function(data, initValue) {
     selectIncubator.appendChild(optionFragment);
     var onIncubatorChange = function(value) {
         var grid = document.getElementsByClassName('startups grid')[0]
-        var documentFragment = document.createDocumentFragment();
-        if (value) {
-            filters['incubator'] = ((d) => {
-                return d.relationships.incubator.data.id === value
-            });
-        } else {
-            delete filters['incubator'];
+        for (var i=0; i < phases.length < i++) {
+            var phase = phases[i];
+            var phaseElement = document.getElementById(phases.status)
+            var grid = phaseElement.getElementsByClassName('startups')[0];
+            var documentFragment = document.createDocumentFragment();
+            // if (value) {
+            //     filters['incubator'] = ((d) => {
+            //         return d.relationships.incubator.data.id === value
+            //     });
+            // } else {
+            //     delete filters['incubator'];
+            // }
+            var dataToDisplay = value ? data.filter(d => d.incubator === value) : data;
+            if (!dataToDisplay.length) {
+                phaseElement.appendChild(noContentMessage);
+            } else if (noContentMessage.parentNode) {
+                phaseElement.removeChild(noContentMessage)
+            }
+            for (var i = 0; i < dataToDisplay.length; i++) {
+                documentFragment.appendChild(dataToDisplay[i].html)
+            }
+            grid.innerHTML = "" 
+            grid.appendChild(documentFragment)
+            
         }
-
-        var dataToDisplay = value ? applyFilter(data) : data;
-        if (!dataToDisplay.length) {
-            grid.parentNode.appendChild(noContentMessage);
-        } else if (noContentMessage.parentNode) {
-            noContentMessage.parentNode.removeChild(noContentMessage)
-        }
-        for (var i = 0; i < dataToDisplay.length; i++) {
-            documentFragment.appendChild(dataToDisplay[i].html)
-        }
-        grid.innerHTML = "" 
-        grid.appendChild(documentFragment)
+        
     };
     selectIncubator.addEventListener('change', function (e) {
         var value = e.target.value
