@@ -78,6 +78,7 @@ Ensuite, exécutez les commandes suivantes :
 git clone https://github.com/betagouv/beta.gouv.fr.git
 cd beta.gouv.fr
 gem install bundler --no-ri --no-rdoc
+npm install
 bundle install
 bundle exec jekyll serve
 ```

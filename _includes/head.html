@@ -51,6 +51,8 @@
 
     <link rel="stylesheet" type="text/css" href="/assets/style/main.css">
     <link rel="stylesheet" type="text/css" href="/assets/main.css">
+    <link rel="stylesheet" type="text/css" href="/assets/gouvfr/css/all.css">
+
 
     {% for file in page.additional_css %}
       <link rel="stylesheet" type="text/css" href="{% if file contains '://' %}{{ file }}{% else %}/assets/additional/style/{{ file }}{% endif %}">

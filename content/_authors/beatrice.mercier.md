@@ -1,6 +1,6 @@
 ---
 fullname: Beatrice Mercier
-role: Chargée de deploiement
+role: Co-animatrice de beta.gouv.fr
 github: be-mercier
 missions:
   - start: 2019-02-04
@@ -14,7 +14,7 @@ missions:
     end: 2023-06-14
     status: admin
     employer: dinum
-startups:
+previously:
     - transport
 badges:
   - segur

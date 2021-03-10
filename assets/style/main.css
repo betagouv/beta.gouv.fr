@@ -672,7 +672,8 @@ a.navbar__home {
 }
 
 .navbar__gouvfr {
-  height: 100%;
+  height:3.5rem;
+  width:auto;
 }
 
 span.navbar__domain {
@@ -1592,7 +1593,7 @@ a.article__link:hover {
   position: relative;
 }
 
-.card__cover img {
+.card__cover img, .card__cover object {
   -o-object-fit: cover;
   object-fit: cover; /* will not work on IE and Edge < 16 */
   height: 100%;
@@ -1707,4 +1708,13 @@ a.label {
   background-color: #fff;
   border: 1px solid #adb9c9;
   color: #53657d;
+}
+
+.beta-footer .beta-footer-social li a {
+  margin-right: 10px;
+}
+
+.beta-footer .beta-footer-social li a .icon{
+  width: 2em;
+  height: 2em;
 }

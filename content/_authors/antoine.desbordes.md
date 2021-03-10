@@ -16,7 +16,7 @@ missions:
     end: 2021-05-31
     status: independent
     employer: Codeurs en Liberté
-startups:
+previously:
   - transport
 ---
 

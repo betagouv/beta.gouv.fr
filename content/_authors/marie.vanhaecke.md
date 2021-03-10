@@ -4,11 +4,11 @@ role: Coach
 github: marievanhaecke
 missions:
   - start: 2021-01-21
-    end: 2021-04-30
+    end: 2022-12-31
     status: service
     employer: Dinum
 startups:
-    - tutorat_fp    
+  - tutorat_fp
 badges:
   - segur
 ---
