@@ -79,8 +79,6 @@ layout: default
             {% unless forloop.last %},{% endunless %}
         {% endfor %}
     ];
-
-    console.log(phases, data)
 </script>   
 <main>
     <section class="filters sticky">
@@ -92,7 +90,7 @@ layout: default
                 <select id="select-phase">
                     <option>Aller à une phase</option>
                     {% for phase in phases_with_stopped %}
-                        <option value="{{ phase.status }}">{{ phase.label }}</option>
+                        <option value="{{ phase.status }}" id="{{phase.status}}-option">{{ phase.label }}</option>
                     {% endfor %}
                 </select>
             </div>
@@ -190,12 +188,7 @@ layout: default
     })
 </script>
 <script>
-    var urlParams = new URLSearchParams(window.location.search);
-    var phase = urlParams.get('phase');
-    var incubateur = urlParams.get('incubateur');
     data = generateDataWithHtmlCards(data);
-    createIncubatorSelect(data, incubateur, incubators);
-
+    createIncubatorSelect(data, incubators);
     var hash = phase || window.location.hash.substr(1);
-    // createPhaseSelect(data, hash);
 </script>

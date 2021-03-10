@@ -111,7 +111,7 @@ var createPhaseSelect = function(data, initValue) {
     }
 }
 
-var createIncubatorSelect = function(data, initValue, incubators) {
+var createIncubatorSelect = function(data, incubators) {
     var selectIncubator = document.getElementById('select-incubateur');
     var optionFragment = document.createDocumentFragment();
     for (var i=0; i < incubators.length; i++) {
@@ -127,19 +127,14 @@ var createIncubatorSelect = function(data, initValue, incubators) {
         var keys = Object.keys(data);
         for (var i=0; i < keys.length; i++) {
             var phase = keys[i];
-            var phaseElement = document.getElementById(phase)
+            var phaseElement = document.getElementById(phase);
+            var optionElement = document.getElementById(phase+'-option');
             var grid = phaseElement.getElementsByClassName('startups')[0];
             var documentFragment = document.createDocumentFragment();
-            // if (value) {
-            //     filters['incubator'] = ((d) => {
-            //         return d.relationships.incubator.data.id === value
-            //     });
-            // } else {
-            //     delete filters['incubator'];
-            // }
             var dataToDisplay = value ? data[phase].filter(d => d.incubator_id === value) : data[phase];
             if (!dataToDisplay.length) {
                 phaseElement.style.display = 'none';
+                optionElement.style.display = 'none';
                 var noContentMessage = phaseElement.getElementsByClassName('phase-no-result');
                 if (!noContentMessage.length) {
                     var noContentMessage = document.createElement('p');
@@ -149,6 +144,7 @@ var createIncubatorSelect = function(data, initValue, incubators) {
                 }
             } else {
                 phaseElement.style.display = 'block';
+                optionElement.style.display = 'block';
                 var noContentMessage = phaseElement.getElementsByClassName('phase-no-result');
                 if (noContentMessage.length) {
                     phaseElement.removeChild(noContentMessage[0]);
