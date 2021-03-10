@@ -170,7 +170,7 @@ layout: default
         var selectedPhase = e.target.value;
         var hash = "#" + selectedPhase;
         location.href = hash;
-        history.replaceState(null, null, url.origin + url.pathname + hash + window.location.search);
+        history.replaceState(null, null, url.origin + url.pathname + window.location.search + hash);
     });
 </script>
 
