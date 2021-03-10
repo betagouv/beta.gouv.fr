@@ -188,7 +188,9 @@ layout: default
     })
 </script>
 <script>
+    var urlParams = new URLSearchParams(window.location.search);
+    var phase = urlParams.get('phase');
+    var initValue = urlParams.get('incubateur');
     data = generateDataWithHtmlCards(data);
-    createIncubatorSelect(data, incubators);
-    var hash = phase || window.location.hash.substr(1);
+    createIncubatorSelect(data, incubators, initValue);
 </script>

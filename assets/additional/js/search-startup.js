@@ -111,7 +111,7 @@ var createPhaseSelect = function(data, initValue) {
     }
 }
 
-var createIncubatorSelect = function(data, incubators) {
+var createIncubatorSelect = function(data, incubators, initValue) {
     var selectIncubator = document.getElementById('select-incubateur');
     var optionFragment = document.createDocumentFragment();
     for (var i=0; i < incubators.length; i++) {
@@ -160,7 +160,10 @@ var createIncubatorSelect = function(data, incubators) {
             grid.innerHTML = "" 
             grid.appendChild(documentFragment)   
         }
-        
+        if (initValue) {
+            selectIncubator.value = initValue;
+            onIncubatorChange(initValue);
+        }
     };
     selectIncubator.addEventListener('change', function (e) {
         var value = e.target.value
