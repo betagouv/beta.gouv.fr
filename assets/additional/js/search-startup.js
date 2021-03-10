@@ -169,8 +169,4 @@ var createIncubatorSelect = function(data, incubators) {
         urlParams.set('incubateur', value);
         history.replaceState(null, null, window.location.origin + window.location.pathname + '?' + urlParams);
     });
-    // if (initValue) {
-    //     selectIncubator.value = initValue;
-    //     onIncubatorChange(initValue);
-    // }
 }
