@@ -9,10 +9,69 @@ layout: default
 {% assign phases_with_stopped = site.phases | sort: 'order' %}
 {% assign incubators = site.incubators %}
 <script>
-var data = [{{ site.startups }}]
-var phases = [{{ site.phases }}]
-</script>
+    var data = {
+        {% for phase in site.phases %}
+        {% assign startups = site.startups | where_phase: phase.status %}
+        "{{phase.status}}": [{% for startup in site.startups %}
+            {% assign startup_id = startup.id | remove: '/startups/' %}
+            {% assign screenshot_files = site.static_files | where: "startups_img", true %}
+            {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
+            {% if screenshot_file %}
+            {% assign screenshot_path = screenshot_file.path %}
+            {% else %}
+            {% assign screenshot_path = "/img/logo-generique-startup-rectangle-2019.jpg" %}
+            {% endif %}
+            { "id"        : "{{ startup.id | remove: '/startups/' }}"
+            , "type"      : "startup"
+            , "phase": "{{ status }}",
+            ,"incubator" : "{{ startup.incubator | escape }}"
+            , "attributes":
+                { "name"  : "{{ startup.title }}"
+                , "pitch" : "{{ startup.mission }}"{% if startup.stats %}
+                , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}{% if startup.link %}
+                , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
+                , "repository": "{{ startup.repository}}"{% endif %}
+                , "contact": "{{startup.contact}}"
+                , "owner" : "{{ startup.owner | escape }}"
+                , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
+                , "screenshot-url": "{{ screenshot_path }}"
+                , "phases": [
+                    {% for phase in startup.phases %}
+                        { "name": "{{phase.name}}", "start": "{{phase.start}}", "end": "{{phase.end}}"}{% unless forloop.last %},{% endunless %}
+                    {% endfor %}
+                    ]
+                }
+            , "relationships":
+                { "incubator":
+                    { "data": { "type": "incubator", "id": "{{ startup.incubator}}" }
+                    }
+                }
+            }
+            {% unless forloop.last %},{% endunless %}
+        {% endfor %}]
+        {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    };
 
+    var phases = [
+        {% for phase in site.phases %}
+            {% assign counter_target = phase.id | remove: "/phases/" %}
+            {% assign counter = site.startups | where_phase: counter_target | size %}
+            {% assign plural = "" %}
+            {% if counter > 1 %}
+                {% assign plural = "s" %}
+            {% endif %}
+            { "status"        : "{{ phase.status }}"
+            , "label"      : "{{ phase.label }}"
+            , "counter"      : "{{ phase.counter }}"
+            , "type_label" : "{{phase.type_label}}"
+            }
+            {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ];
+
+    console.log(phases, data)
+</script>   
 <main>
     <section class="filters sticky">
         <div class="container">
@@ -21,7 +80,10 @@ var phases = [{{ site.phases }}]
                     <option value="">Tous les incubateurs</option> 
                 </select>
                 <select id="select-phase">
-                    <option value="">Toutes les phases</option>
+                    <option>Aller à une phase</option>
+                    {% for phase in phases_with_stopped %}
+                        <option value="{{ phase.status }}">{{ phase.label }}</option>
+                    {% endfor %}
                 </select>
             </div>
             <input type="text" id="search-input" placeholder="Rechercher...">
@@ -62,14 +124,6 @@ var phases = [{{ site.phases }}]
                 </div>
             {% endfor %}
         </div>
-        <!-- <div class="container">
-            <div class="startups grid">
-                {% assign startups = site.startups %}
-                {% for startup in startups %}
-                    {% include card-startup.html startup = startup %}
-                {% endfor %}
-            </div>
-        </div> -->
     </section>
 </main>
 
@@ -101,8 +155,16 @@ var phases = [{{ site.phases }}]
         resultsContainer.style.display = 'none';
         searchInputBtn.style.display = 'none';
     });
-</script>
 
+    var selectPhase = document.getElementById('select-phase');
+    selectPhase.addEventListener('change', function (e) {
+        var url = new URL(location.href);
+        var selectedPhase = e.target.value;
+        var hash = "#" + selectedPhase;
+        location.href = hash;
+        history.replaceState(null, null, url.origin + url.pathname + hash);
+    });
+</script>
 
 <!-- Script pointing to search-script.js -->
 <script src="/assets/additional/js/search-script.js" type="text/javascript"></script>
@@ -125,5 +187,5 @@ var phases = [{{ site.phases }}]
     createIncubatorSelect(data, incubateur);
 
     var hash = phase || window.location.hash.substr(1);
-    createPhaseSelect(data, hash);
+    // createPhaseSelect(data, hash);
 </script>

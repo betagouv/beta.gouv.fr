@@ -124,7 +124,7 @@ var createIncubatorSelect = function(data, initValue) {
     selectIncubator.appendChild(optionFragment);
     var onIncubatorChange = function(value) {
         var grid = document.getElementsByClassName('startups grid')[0]
-        for (var i=0; i < phases.length < i++) {
+        for (var i=0; i < phases.length; i++) {
             var phase = phases[i];
             var phaseElement = document.getElementById(phases.status)
             var grid = phaseElement.getElementsByClassName('startups')[0];
