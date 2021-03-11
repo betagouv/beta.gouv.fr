@@ -18,3 +18,7 @@ _site
 .idea
 *.iml
 .vscode
+
+# Node
+node_modules/**/*
+

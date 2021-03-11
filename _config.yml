@@ -31,8 +31,20 @@ future: true
 
 lang: fr
 
-include: ["_pages", "_redirects", "_headers"]
+include: [
+  "_pages",
+  "_redirects",
+  "_headers",
+]
 exclude: ["content/templates", "CONTRIBUTING.md", "rb", "vendor"]
+
+copy_to_dest:
+  - source: node_modules/@gouvfr/all/dist/css/.
+    target: assets/gouvfr/css/
+  - source: node_modules/@gouvfr/all/dist/fonts/.
+    target: assets/gouvfr/fonts/
+  - source: node_modules/@gouvfr/all/dist/js/.
+    target: assets/gouvfr/js/
 
 sass:
   style: compressed
