@@ -11,5 +11,3 @@ missions:
 startups:
     - disinfo
 ---
-
-Joyeux 
