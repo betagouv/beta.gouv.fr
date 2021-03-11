@@ -4,6 +4,8 @@ owner: Guillaume Houzel
 website: https://mission-apprentissage.gitbook.io/general/
 github: https://github.com/mission-apprentissage
 contact: mailto:apprentissage@beta.gouv.fr
+redirect_from:
+  - /startups/apprentissage
 ---
 
 Dans le cadre de la mobilisation nationale pour l’emploi et la transition écologique, engagée par le Premier ministre, Jean-Michel Blanquer, ministre de l’Éducation nationale, Frédérique Vidal, ministre de l’Enseignement supérieur, de la Recherche et de l’Innovation et Muriel Pénicaud, ministre du Travail ont conjointement confié à M. Guillaume Houzel une mission visant à lever les freins à l’essor de l’apprentissage et à faciliter la mise en contact des jeunes, des CFA et des entreprises.

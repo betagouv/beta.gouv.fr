@@ -5,7 +5,7 @@ contrat: independant
 startup: data.insertion
 techno: Ruby on Rails
 contact: data.insertion@beta.gouv.fr
-open: true
+open: false
 ---
 
 L'équipe data.insertion, en collaboration avec RDV-Solidarités, recherche un·e développeur·se expérimenté·e Ruby on Rails pour une période de minimum 3 mois. 

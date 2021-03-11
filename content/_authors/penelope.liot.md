@@ -8,7 +8,7 @@ github: penelopel
 # Enfin, si aucune image n'est trouvée, alors la fiole beta.gouv.fr sera utilisée sur la page communauté
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
   - start: 2020-10-01 # date d'arrivée au format ISO (AAAA-MM-JJ)
-    end: 2021-03-31
+    end: 2021-08-31
     status: independent
     employer: Numa # si applicable, le nom de ton administration, SSII, etc.
 startups:

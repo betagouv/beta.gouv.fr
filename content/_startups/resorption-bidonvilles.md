@@ -16,7 +16,8 @@ phases:
   - name: acceleration
 link: http://resorption-bidonvilles.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/action-bidonvilles
-stats: false
+stats: true
+stats_url: https://resorption-bidonvilles.beta.gouv.fr/#/statistiques-publiques
 contact: contact@action-bidonvilles.beta.gouv.fr
 ---
 

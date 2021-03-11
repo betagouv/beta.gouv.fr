@@ -19,7 +19,7 @@ L’EMHM (École Militaire de Haute Montagne), de la 27ème Brigade d'Infanterie
 Ces instructeurs se concentrent principalement sur deux activités cruciales :
 Former et évaluer les stagiaires en formation.
 S'entraîner à la pratique de la montagne, été comme hiver, afin de rester aguerri à ce milieu dangereux et exigeant.
-Dans le cadre de ces activités, les instructeurs, mais également toutes personnes qualifiées ayant besoin de s'entraîner, doivent, lorsqu'elles vont en montagne, préparer leur itinéraire et le soumettre à validation de leur chef de corps. Cette procédure encadrée (appeler FACM pour Fiche d' Activité à Caractère Montagne), leur permet d'être couverts en cas d’accident mais également d'informer leurs camarades sur leur itinéraire et horaires afin de faciliter le déclenchement et l'intervention des secours en cas de besoin.
+Dans le cadre de ces activités, les instructeurs, mais également toutes personnes qualifiées ayant besoin de s'entraîner, doivent, lorsqu'elles vont en montagne, préparer leur itinéraire et le soumettre à validation de leur chef de corps. Cette procédure encadrée (appelée FACM pour Fiche d' Activité à Caractère Montagne), leur permet d'être couverts en cas d’accident mais également d'informer leurs camarades sur leur itinéraire et horaires afin de faciliter le déclenchement et l'intervention des secours en cas de besoin.
 
 ## Problématique
 Ce projet repose sur plusieurs problématiques :
