@@ -103,42 +103,29 @@ layout: default
     </section>
     {% for incubator in incubators %}
         {% assign incubator_id = incubator.id | remove: '/approche/incubateurs/' %}
-    <div id="{{ incubator_id }}" class="rf-container rf-bg--alt rf-pb-6w rf-pt-2w incubator-header" style="display: none;">
-        <div class="rf-tile rf-tile--horizontal">
-            <div class="rf-tile__img-wrap">
-                {% if incubator.image %}
-                <img src="{{ incubator.image }}" alt="{{ incubator.title }}" />
-                {% endif %}
-            </div>
-            <div class="rf-tile__body">
+    <section id="{{ incubator_id }}" class="section incubator-header rf-scheme-soft-blue-soft" style="display: none;">
+        <div class="rf-container-fluid">
+            <div class="container">
                 <div class="rf-grid-row rf-grid-row--gutters">
                     <div class="rf-col-12 rf-col-sm-6">
-                        <h4 class="rf-tile__title">
-                            <a class="rf-tile__link" href="{{ incubator.url }}">{{ incubator.title }}</a>
+                        <h4 class="rf-card__title">
+                            {{ incubator.title }}
                         </h4>
                         <p>{{ incubator.owner }}, {{ incubator.address }}</p>
                     </div>
-                    <div class="rf-col-12 rf-col-sm-6">
-                        {% if incubator.website %}
-                        <div class="label">
-                            <a class="card__meta_link" href="{{ incubator.website }}">Site web</a>
-                        </div>
-                        {% endif %} 
-                        {% if incubator.github %}
-                        <div class="label">
-                            <a class="card__meta_link" href="{{ incubator.github }}">Compte GitHub</a>
-                        </div>
-                        {% endif %} 
-                        <div class="label">
-                            <a class="card__meta_link" href="{{ incubator.contact }}">Contacter cet incubateur</a>
-                        </div>   
-                    </div>
+                </div>
+                <div class="rf-grid-row rf-grid-row--gutters">
+                    <a
+                        class="rf-link rf-fi-arrow-right-line rf-link--icon-right"
+                        href="{{ incubator.url }}"
+                        title="{{ incubator.title }}">En Savoir plus
+                    </a>
                 </div>
             </div>
         </div>
-    </div>
+    </section>
     {% endfor %}
-    <section class="section section-grey" style="padding-top: 0;">
+    <section class="section" style="padding-top: 0;">
         <div class="container">
             {% assign phases = site.phases | sort: 'order' %}
             {% for phase in phases %}
