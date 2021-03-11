@@ -1718,3 +1718,7 @@ a.label {
   width: 2em;
   height: 2em;
 }
+
+.rf-nav__item--active>.rf-link {
+  pointer-events: all !important;
+}

@@ -85,7 +85,7 @@ var createIncubatorSelect = function(data, incubators, initValue) {
             }
             grid.innerHTML = "" 
             grid.appendChild(documentFragment)
-            if (lozad) {
+            if (window.lozad) {
                 const observer = lozad();
                 observer.observe();
             }
