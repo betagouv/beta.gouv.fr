@@ -8,7 +8,7 @@ var createStartupCard = function(startup) {
         <a href="/startups/${ startup.id }.html">
             <div class="card__cover">
                 <img class="screenshot lozad"
-                    src="${startup.attributes['screenshot-url']}"
+                    data-src="${startup.attributes['screenshot-url']}"
                     title="${startup.attributes.name} est encore en travaux"
                     alt=""
                     data-proofer-ignore>
@@ -84,7 +84,11 @@ var createIncubatorSelect = function(data, incubators, initValue) {
                 documentFragment.appendChild(dataToDisplay[j].html)
             }
             grid.innerHTML = "" 
-            grid.appendChild(documentFragment)   
+            grid.appendChild(documentFragment)
+            if (window.lozad) {
+                const observer = lozad();
+                observer.observe();
+            }
         }
     };
     if (initValue) {
