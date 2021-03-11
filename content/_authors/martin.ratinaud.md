@@ -8,6 +8,8 @@ missions:
     end: 2022-03-05
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
+startups:
+    - disinfo
 ---
 
 Joyeux 
