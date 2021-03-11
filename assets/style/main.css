@@ -1593,7 +1593,7 @@ a.article__link:hover {
   position: relative;
 }
 
-.card__cover img {
+.card__cover img, .card__cover object {
   -o-object-fit: cover;
   object-fit: cover; /* will not work on IE and Edge < 16 */
   height: 100%;
@@ -1717,4 +1717,8 @@ a.label {
 .beta-footer .beta-footer-social li a .icon{
   width: 2em;
   height: 2em;
+}
+
+.rf-nav__item--active>.rf-link {
+  pointer-events: all !important;
 }
