@@ -14,8 +14,13 @@ missions:
     end: 2023-06-14
     status: admin
     employer: dinum
+startups:
+  - protege-toit
+  - gap
 previously:
-    - transport
+  - transport
+  - participation-citoyenne
+  - rdv.consulat
 badges:
   - segur
 ---
