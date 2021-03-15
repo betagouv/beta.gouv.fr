@@ -51,6 +51,15 @@ var createIncubatorSelect = function(data, incubators, initValue) {
     var onIncubatorChange = function(value) {
         var grid = document.getElementsByClassName('startups grid')[0];
         var keys = Object.keys(data);
+        var incubatorElements = document.getElementsByClassName('incubator-header');
+        for (var i=0; i < incubatorElements.length; i++) {
+            var incubatorElement = incubatorElements[i];
+            if (incubatorElement.id !== value) {
+                incubatorElement.style.display = 'none';
+            } else {
+                incubatorElement.style.display = 'block';
+            }
+        }
         for (var i=0; i < keys.length; i++) {
             var phase = keys[i];
             var phaseElement = document.getElementById(phase);

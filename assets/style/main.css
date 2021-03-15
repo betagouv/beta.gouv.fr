@@ -101,11 +101,9 @@ body {
 }
 
 body {
-  color: #26353f;
   padding: 0;
   margin: 0;
   overflow: auto;
-  background: #ebeff3;
 }
 
 a,
@@ -1717,4 +1715,8 @@ a.label {
 .beta-footer .beta-footer-social li a .icon{
   width: 2em;
   height: 2em;
+}
+
+.rf-nav__item--active>.rf-link {
+  pointer-events: all !important;
 }
