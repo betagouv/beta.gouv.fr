@@ -17,7 +17,7 @@ Jusqu’à 1 million d’euros en provenance de la Direction Interministérielle
 
 Que vous soyez une administration, un établissement public, ou une collectivité territoriale engagé dans le développement ou l'accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction Interministérielle du Numérique pouvant aller jusqu'à 300 000 euros.
 
-La première édition de 2021 se clôturera le 8 mars. 
+Nous avons clôturé la première édition de 2021 le 8 mars. La prochaine édition ouvrira fin mars. 
 
 Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux questions dédiée.
 
@@ -72,7 +72,7 @@ Une grille de sélection vous sera transmise pour présenter votre dossier devan
 ## Quel est le processus de sélection du FAST ?
 
 * Vous sélectionnez un ou plusieurs services numériques existants ayant un impact mesuré, que vous souhaitez déployer.
-* Vous postulez en remplissant ce [formulaire](https://www.demarches-simplifiees.fr/commencer/fast7). À noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
+* Vous postulez en remplissant ce formulaire (le lien arrive bientôt !). À noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
 * À la clôture de l’appel à candidatures, l'équipe en charge du FAST effectue une présélection sur dossier de 10 candidats maximum. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
 * Si votre candidature est préselectionnée, vous présentez votre idée devant les membres du comité d'investissement le 26 mars.
 * Si votre candidature est retenue, vous organisez dans les semaines qui suivent un comité d'engagement entre votre sponsor et l'équipe de la DINUM pour cadrer les objectifs précis liés au financement. 
@@ -97,7 +97,7 @@ Si vous êtes candidat pour la création d'un incubateur...
 * Les ressources qui seront mobilisées. 
 
 
-[Candidatez-ici sur la session du 8 mars 2021.](https://www.demarches-simplifiees.fr/commencer/fast7)
+<!--[Candidatez-ici sur la session du 8 mars 2021.](https://www.demarches-simplifiees.fr/commencer/fast7)-->
 
 
 ## À quoi servira le ticket de cofinancement ?
@@ -130,7 +130,8 @@ Si vous avez déjà été lauréat du FAST, nous vous invitons à postuler au [P
 
 ## Comment candidater ?
 
-[Candidatez-ici sur la session du 8 mars 2021.](https://www.demarches-simplifiees.fr/commencer/fast7)
+Les candidatures pour la nouvelle édition ouvriront fin mars. Nous vous communiquerons alors le formulaire de dépôt de dossier.  
+<!--[Candidatez-ici sur la session du 8 mars 2021.](https://www.demarches-simplifiees.fr/commencer/fast7)-->
 
 ## J’ai une question, qui puis-je contacter ?
 
