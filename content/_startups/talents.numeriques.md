@@ -5,7 +5,9 @@ mission: Améliorer les recrutements et l’attractivité des métiers du numér
 owner: DINUM
 sponsors: []
 incubator: dinum
+contact: marie.vanhaecke@beta.gouv.fr
 ---
+
 ### Contexte
 
 En 2021 les citoyens et les agents attendent un Etat vraiment en prise avec les enjeux et la culture numérique, l’enjeu d’attractivité devient essentiel ! Et parce que cet enjeu d’attractivité est un enjeu collectif pour nous tous, nous devons y répondre de la façon la plus adéquate et pertinente possible. 
