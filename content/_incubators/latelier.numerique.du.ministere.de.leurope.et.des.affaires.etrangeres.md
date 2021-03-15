@@ -1,7 +1,7 @@
 ---
-title: L'Atelier Numérique du Ministère de l'Europe et des Affaires Etrangères
-owner: Noemie Peignier-Pousseo
+title: L'Atelier Numérique
+owner: Ministère de l'Europe et des Affaires Etrangères
 website: beta.gouv.fr
-contact: Noemie.PEIGNIER@diplomatie.gouv.fr
+contact: mailto:Noemie.PEIGNIER@diplomatie.gouv.fr
 address: 27, rue de la Convention, 75015 Paris
 ---
