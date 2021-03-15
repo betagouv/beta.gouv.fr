@@ -3,6 +3,7 @@ title: Aides Jeunes
 mission: "Faciliter le recours aux aides par les jeunes qui en ont le plus besoin "
 owner: Délégation générale à l'emploi et à la formation professionnelle
 incubator: dinum
+repository: https://github.com/betagouv/aides-jeunes
 phases:
   - name: construction
     start: 2021-03-15
