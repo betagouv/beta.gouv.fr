@@ -83,17 +83,15 @@ layout: default
 <main>
     <section class="filters sticky">
         <div class="container">
-            <div class="selects">
-                <select id="select-incubateur">
-                    <option value="">Tous les incubateurs</option> 
-                </select>
-                <select id="select-phase">
-                    <option>Aller à une phase</option>
-                    {% for phase in phases_with_stopped %}
-                        <option value="{{ phase.status }}" id="{{phase.status}}-option">{{ phase.label }}</option>
-                    {% endfor %}
-                </select>
-            </div>
+            <select id="select-incubateur">
+                <option value="">Tous les incubateurs</option> 
+            </select>
+            <select id="select-phase">
+                <option>Aller à une phase</option>
+                {% for phase in phases_with_stopped %}
+                    <option value="{{ phase.status }}" id="{{phase.status}}-option">{{ phase.label }}</option>
+                {% endfor %}
+            </select>
             <input type="text" id="search-input" placeholder="Rechercher...">
             <button id="search-input-button" class="overlay-button" aria-label="Effacer" style="width: 29px;">
                 Effacer
@@ -101,8 +99,31 @@ layout: default
             <ul id="results-container"></ul>
         </div>
     </section>
-
-    <section class="section section-grey" style="padding-top: 0;">
+    {% for incubator in incubators %}
+        {% assign incubator_id = incubator.id | remove: '/approche/incubateurs/' %}
+    <section id="{{ incubator_id }}" class="section incubator-header rf-scheme-soft-blue-soft" style="display: none;">
+        <div class="rf-container-fluid">
+            <div class="container">
+                <div class="rf-grid-row rf-grid-row--gutters">
+                    <div class="rf-col-12 rf-col-sm-6">
+                        <h4 class="rf-card__title">
+                            {{ incubator.title }}
+                        </h4>
+                        <p>{{ incubator.owner }}, {{ incubator.address }}</p>
+                    </div>
+                </div>
+                <div class="rf-grid-row rf-grid-row--gutters">
+                    <a
+                        class="rf-link rf-fi-arrow-right-line rf-link--icon-right"
+                        href="{{ incubator.url }}"
+                        title="{{ incubator.title }}">En Savoir plus
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    {% endfor %}
+    <section class="section" style="padding-top: 0;">
         <div class="container">
             {% assign phases = site.phases | sort: 'order' %}
             {% for phase in phases %}
