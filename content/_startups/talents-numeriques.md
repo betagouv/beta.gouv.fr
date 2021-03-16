@@ -2,7 +2,11 @@
 title: Talents Numériques
 mission: Améliorer les recrutements et l’attractivité des métiers du numérique dans l'Etat.
 owner: DINUM
-sponsors: DINUM
+sponsors:
+    - name: Direction interministérielle du numérique
+      acronym: DINUM
+      domaine_ministeriel: spm
+      type: administration-centrale
 incubator: dinum
 contact: sophie.ravel@modernisation.gouv.fr
 ---
