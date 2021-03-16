@@ -161,7 +161,7 @@ h2.phase-title em {
 
 .filters {
   padding: 1em 0;
-  background-color: var(--bf500);
+  background-color: var(--bd300);
 }
 
 .filters .container {
@@ -264,4 +264,12 @@ header.navbar {
 /* Pour qu'il n'y ai pas deux pages entre le titre de page et la 1ere section */
 .hero + .section {
   padding-top: 0;
+}
+
+:root .rf-scheme-soft-blue-soft.incubator-header {
+  background-color: #EDEDF2;
+}
+
+.h1-card__title-subtitle {
+  margin-top: -0.5rem;
 }

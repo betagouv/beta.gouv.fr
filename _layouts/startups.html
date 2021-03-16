@@ -105,11 +105,10 @@ layout: default
         <div class="rf-container-fluid">
             <div class="container">
                 <div class="rf-grid-row rf-grid-row--gutters">
-                    <div class="rf-col-12 rf-col-sm-6">
-                        <h4 class="rf-card__title">
-                            {{ incubator.title }}
-                        </h4>
-                        <p>{{ incubator.owner }}, {{ incubator.address }}</p>
+                    <div class="rf-col">
+                        <h1 class="rf-card__title">{{ incubator.title }}</h1>
+                        <p class="h1-card__title-subtitle">{{ incubator.owner }}</p>
+                        <div class="markdown">{{ incubator.content }}</div>
                     </div>
                 </div>
                 <div class="rf-grid-row rf-grid-row--gutters">
