@@ -9,6 +9,9 @@ sponsors:
       type: administration-centrale
 incubator: dinum
 contact: sophie.ravel@modernisation.gouv.fr
+phases:
+  - name: investigation
+    start: 2021-03-08
 ---
 
 ### Contexte
