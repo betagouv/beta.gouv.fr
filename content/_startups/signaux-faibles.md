@@ -28,15 +28,12 @@ phases:
     start: 2014-05-15
   - name: transfer
     start: 2019-04-01
-  - name: investigation
-    start: 2020-03-17
-  - name: construction
-    start: 2020-06-21
   - name: acceleration
     start: 2020-03-01
 link: 
 repository: https://github.com/signaux-faibles
 stats: true
+stats_url: https://stats.signaux-faibles.beta.gouv.fr
 contact: contact@signaux-faibles.beta.gouv.fr
 ---
 
