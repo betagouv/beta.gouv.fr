@@ -14,7 +14,7 @@ sponsors:
       type: administration-centrale
     - name: Banque de France
       acronym: BDF
-      domaine_ministeriel: autre
+      domaine_ministeriel: autres
       type: autre
     - name: Agence centrale des organismes de sécurité sociale
       acronym: ACOSS
