@@ -36,7 +36,7 @@ phases:
     start: 2020-03-01
 link: 
 repository: https://github.com/signaux-faibles
-stats: https://stats.signaux-faibles.beta.gouv.fr
+stats: true
 contact: contact@signaux-faibles.beta.gouv.fr
 ---
 
