@@ -83,17 +83,15 @@ layout: default
 <main>
     <section class="filters sticky">
         <div class="container">
-            <div class="selects">
-                <select id="select-incubateur">
-                    <option value="">Tous les incubateurs</option> 
-                </select>
-                <select id="select-phase">
-                    <option>Aller à une phase</option>
-                    {% for phase in phases_with_stopped %}
-                        <option value="{{ phase.status }}" id="{{phase.status}}-option">{{ phase.label }}</option>
-                    {% endfor %}
-                </select>
-            </div>
+            <select id="select-incubateur">
+                <option value="">Tous les incubateurs</option> 
+            </select>
+            <select id="select-phase">
+                <option>Aller à une phase</option>
+                {% for phase in phases_with_stopped %}
+                    <option value="{{ phase.status }}" id="{{phase.status}}-option">{{ phase.label }}</option>
+                {% endfor %}
+            </select>
             <input type="text" id="search-input" placeholder="Rechercher...">
             <button id="search-input-button" class="overlay-button" aria-label="Effacer" style="width: 29px;">
                 Effacer
