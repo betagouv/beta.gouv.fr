@@ -18,7 +18,7 @@ sponsors:
       type: autre
     - name: Agence centrale des organismes de sécurité sociale
       acronym: ACOSS
-      domaine_ministériel: sante
+      domaine_ministeriel: sante
       type: securite-sociale
 incubator: dinum
 phases:
