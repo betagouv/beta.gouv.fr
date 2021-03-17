@@ -11,13 +11,13 @@ redirect_from:
 
 <img src="https://blog.beta.gouv.fr/img/posts/2021_01_06_1200x675_fast_visuel_twitter.jpg" alt="Image de présentation du FAST" style="width:100%;" />
 
-L'appel à candidatures du Fonds d’accélération des Startups d’État et de Territoire (FAST) vise à co-financer des services publics numériques en phase d’accélération qui ont pour but de résoudre un problème de politique publique.  
+L'appel à candidatures du Fonds d’accélération des Startups d’État et de Territoire (FAST) vise à cofinancer des services publics numériques en phase d’accélération qui ont pour but de résoudre des problèmes de politiques publiques.  
 
 Jusqu’à 1 million d’euros en provenance de la Direction Interministérielle du Numérique (DINUM) pourront être partagés par plusieurs lauréats.
 
 Que vous soyez une administration, un établissement public, ou une collectivité territoriale engagé dans le développement ou l'accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction Interministérielle du Numérique pouvant aller jusqu'à 300 000 euros.
 
-La première édition de 2021 se clôturera le 8 mars. 
+Nous avons clôturé la première édition de 2021 le 8 mars. La prochaine édition ouvrira fin mars. 
 
 Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux questions dédiée.
 
@@ -35,22 +35,19 @@ Pour mieux comprendre l’approche Startup d'État, et en savoir plus sur les m�
 ## Quels sont les objectifs du Fonds d’accélération des Startups d’État et de Territoire (FAST) ?
 
 Ce fonds a pour objectif d’investir dans des projets apportant des solutions concrètes à des irritants administratifs ou à des problèmes de politique publique de grande ampleur (p. ex., lutter contre le gaspillage des déchets organiques, améliorer l'accès à la formation, faciliter les conditions scolaires pour les enfants handicapés, ouvrir les données de transports…). En ciblant des problèmes remontés par des agents, le FAST cofinance les équipes en charge de résoudre les problèmes en question.
+Le FAST peut aussi être amené à soutenir la création d'incubateurs au sein des ministères. 
 
 ## Quelles sont les modalités d’investissement ?
 
-L'appel à candidatures de cette 7ème édition vise à soutenir des solutions numériques existantes, développées par des administrations publiques (État ou collectivités territoriales).
+L'administration doit être en mesure de garantir sa capacité à financer à hauteur de la somme qu'elle sollicite (exemple : si le besoin évalué est de 100 000 euros, vous sollicitez 50 000 euros de la DINUM et vous mobilisez 50 000 euros). 
 
-L'administration doit être en mesure de garantir sa capacité à financer à hauteur de la somme qu'elle sollicite (exemple : si le besoin évalué est de 100 000 euros, vous sollicitez 50 000 euros de la DINUM et vous engagez un versement de 50 000 euros sur [une convention public-public](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/)).
+Nous établirons une [convention de partenariat](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/) pour s'aligner sur les objectifs et modalités du cofinancement.
 
-Le montant du ticket global sera dépensé via les marchés de la DINUM sous forme de prestations pour renforcer l'équipe nécessaire à l’accompagnement, au développement et au déploiement du produit. 
+Le montant du ticket global pourra être dépensé via les marchés de la DINUM sous forme de prestations pour renforcer l'équipe nécessaire à l’accompagnement, au développement et au déploiement du produit ou de l'incubateur.     
 
-[Plus de détails sur la convention d'un gagnant du Fast 2](https://static.data.gouv.fr/resources/conventions-de-partenariat/20191211-144234/avenant-trackdechets.pdf) 
+[Plus de détails sur la convention d'un gagnant du Fast 2](https://www.data.gouv.fr/en/datasets/r/eafa7a05-6d46-4773-927f-66a16f4cee23) 
+(NB : Cette convention fonctionne par fonds de concours. Il existe différentes modalités pour mettre en œuvre le cofinancement.)
 
-## Comment les projets sont-ils pré-sélectionnés ?
-
-Les projets sont pré-sélectionnés sur dossier. Que vous représentiez une administration centrale ou déconcentrée, une agence publique, un établissement public ou une autre administration, vous pouvez remplir [le formulaire de candidature.](https://www.demarches-simplifiees.fr/commencer/fast7) 
-
-À noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
 
 ## Quelles sont les conditions d'éligibilité ?
 
@@ -60,10 +57,12 @@ Les projets sont pré-sélectionnés sur dossier. Que vous représentiez une adm
 * Avoir une feuille de route pour le produit et pour le déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service) ;
 * Vouloir faire passer ce produit à l’échelle.
 
+Sont aussi éligibles les ministères souhaitant créer un incubateur de Startups d'Etat. 
+
 ## Quels sont les critères de sélection ?
 
 * L’impact attendu pour l’utilisateur final ; 
-* Un sponsor dans l’administration porteuse ; 
+* La garantie d'un sponsor dans l’administration porteuse ; 
 * L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique ; 
 * L’adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV.
 
@@ -73,9 +72,9 @@ Une grille de sélection vous sera transmise pour présenter votre dossier devan
 ## Quel est le processus de sélection du FAST ?
 
 * Vous sélectionnez un ou plusieurs services numériques existants ayant un impact mesuré, que vous souhaitez déployer.
-* Vous postulez en remplissant ce [formulaire](https://www.demarches-simplifiees.fr/commencer/fast7).
-* À la clôture de l’appel à candidatures, l'équipe en charge du FAST effectue une présélection sur dossier de 10 services numériques maximum. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
-* Si votre candidature est préselectionnée, vous présentez votre idée devant les membres du comité d'investissement.
+* Vous postulez en remplissant ce formulaire (le lien arrive bientôt !). À noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
+* À la clôture de l’appel à candidatures, l'équipe en charge du FAST effectue une présélection sur dossier de 10 candidats maximum. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
+* Si votre candidature est préselectionnée, vous présentez votre idée devant les membres du comité d'investissement le 26 mars.
 * Si votre candidature est retenue, vous organisez dans les semaines qui suivent un comité d'engagement entre votre sponsor et l'équipe de la DINUM pour cadrer les objectifs précis liés au financement. 
 * Vous signez une convention de partenariat avec la DINUM lors de cet échange. 
 * Le produit est accompagné dans son développement par beta.gouv.fr en s'appuyant sur les deux tickets de financement (administration porteuse + DINUM).
@@ -84,45 +83,55 @@ Une grille de sélection vous sera transmise pour présenter votre dossier devan
 
 Le dossier de candidature doit préciser clairement :
 
+Si vous êtes candidat pour l'accélération d'un produit... 
 * Le problème auquel la solution répond ;
 * La solution mise en place ;
 * Son impact sur le réel chiffré ;
-* En cas de passage à l’échelle réussi, les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois (ex : sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc).
+* En cas de passage à l’échelle réussi, les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois (ex : sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc). 
+L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de transfert du service
 
-L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de transfert. 
 
-[Candidatez-ici sur la session du 8 mars 2021.](https://www.demarches-simplifiees.fr/commencer/fast7)
+Si vous êtes candidat pour la création d'un incubateur... 
+* Le problème auquel la création de l'incubateur répond ;  
+* Le rattachement hiérarchique de l'incubateur ; 
+* Les ressources qui seront mobilisées. 
+
+
+<!--[Candidatez-ici sur la session du 8 mars 2021.](https://www.demarches-simplifiees.fr/commencer/fast7)-->
 
 
 ## À quoi servira le ticket de cofinancement ?
 
-L’ensemble de ce ticket sera utilisé par les marchés publics des Startups d'État et de Territoires de la DINUM pour renforcer l'équipe pendant une période approximative de 6 mois (coachs, développeurs, designers, chargés de déploiement). 
+Le cofinancement pourra permettre de recruter des talents (coachs, développeurs•euses, designers•euses, chargé•e•s de déploiement) via les marchés publics des Startups d'État et de Territoires de la DINUM pour renforcer l'équipe pendant une période approximative de 6 mois. 
 
-Autrement, il faudra passer par un fonds de concours. Si vous avez des questions à ce sujet, n'hésitez pas à contacter l'équipe FAST (Valentine Michaud et Jihane Herizi) à fast@beta.gouv.fr.
+Cet investissement pourra par exemple permettre de :
 
-Sur une durée d'environ 6 mois, ce ticket permettra donc de mobiliser des moyens supplémentaires sur l’accompagnement d’une équipe de développement et de déploiement pour :
+* Tester de nouveaux canaux de diffusion 
+* Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages
+* Accompagner cette mise en oeuvre de façon opérationnelle
+* ...
 
-1. Tester de nouveaux canaux de diffusion 
-2. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages
-3. Accompagner cette mise en oeuvre de façon opérationnelle
 
 ## Mon projet a déjà été lauréat du FAST. Puis-je candidater de nouveau ? 
 
-Si vous avez déjà été lauréat du FAST, nous vous invitons à postulez au [Plan de Relance](https://france-relance.transformation.gouv.fr/). 
+Si vous avez déjà été lauréat du FAST, nous vous invitons à postuler au [Plan de Relance](https://france-relance.transformation.gouv.fr/). 
 
 
-## Quels sont les projets non-éligibles au FAST
+## Quels projets ne sont pas éligibles au FAST ? 
 
-* Des produits en phase d'investigation sans solution minimum viable et sans mesures d'impact déjà établies ; 
+* Des produits en phase d'investigation n'ayant pas encore de solution minimum viable ni de mesure d'impact déjà établie ; 
 * Des produits existants avec un cahier des charges des fonctionnalités à développer ;
-* Des projets censés résoudre des problèmes d’organisation interne ;
-* Des services numériques dont le code n’est pas ouvert (open source), ou pour lesquels le code ne peut pas être ouvert ;
-* Des produits issus du secteur privé ; 
-* Des produits déjà lauréats d'une édition précédente du FAST.
+* Des produits censés résoudre des problèmes d’organisation interne plutôt que des problèmes usagers ;
+* Des produits dont le code n’est pas ouvert (open source), ou pour lesquels le code ne peut pas être ouvert ;
+* Des produits qui ne sont pas portés par une administration (État, établissement public, collectivité...) ;
+* Des produits déjà lauréats d'une édition précédente du FAST ;
+* Des incubateurs au sein de ministères disposant déjà d'un incubateur membre du réseau beta.gouv.fr. 
+
 
 ## Comment candidater ?
 
-[Candidatez-ici sur la session du 8 mars 2021.](https://www.demarches-simplifiees.fr/commencer/fast7)
+Les candidatures pour la nouvelle édition ouvriront fin mars. Nous vous communiquerons alors le formulaire de dépôt de dossier.  
+<!--[Candidatez-ici sur la session du 8 mars 2021.](https://www.demarches-simplifiees.fr/commencer/fast7)-->
 
 ## J’ai une question, qui puis-je contacter ?
 

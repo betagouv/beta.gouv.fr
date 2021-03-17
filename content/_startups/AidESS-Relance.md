@@ -1,42 +1,74 @@
 ---
-title: AidESS Relance 
-mission: Venir en aide aux structures de l'économie sociale et solidaire en simplifiant leur parcours d'accès aux aides dans un contexte de relance
-owner: DRJSCS Hauts-de-France
+title: AidESS 
+mission: Venir en aide aux structures de l'économie sociale et solidaire en simplifiant leur accès aux aides et aux financements publics dans un contexte de relance
+owner: DRCS des Hauts-de-France et SGAR Bretagne
 incubator: dinum 
 phases: 
   - name: investigation
     start: 2020-11-15 
-    end: 2021-02-05 
-contact: julien.kounowski@jscs.gouv.fr
+    end: 2021-03-31 
+contact: christophe.trouillard@jscs.gouv.fr 
 ---
 
-## Fiche produit
+# Fiche produit
 
-Les structures de l'Économie sociale et solidaire (associations, coopératives, mutuelles et entreprises sociales) font face à de nombreuses difficultés depuis le début de la crise du Covid-19 :
+Comment faire pour soutenir les acteurs de l’économie sociale et solidaire (ESS) dans un contexte de crise, en particulier les structures les plus fragiles ?
+Périmètre de l’investigation : Préfectures des Régions Hauts-de-France et Bretagne
+
+
+## CONSTAT DE DÉPART
+Les structures de l'ESS font face à de nombreuses difficultés depuis le début de la crise du Covid-19 :
 - arrêt ou réduction de tout ou partie de leur activité
-- diminution de leur budget de fonctionnement (baisse du chiffre d'affaires issu des activités génératrices de revenus, perte d'une partie des cotisations des adhérents)
-- démobilisation des bénévoles
-- démobilisation des adhérents (avec un impact sur le budget de fonctionnement des structures)
-- démission des bureaux des petites associations
-- autres
+- diminution de leurs ressources financières 
+- démobilisation des bureaux, des bénévoles et des adhérents
 
-Or, l’ESS est un maillon indispensable de l’économie française. Il emploi plus de 2 millions de personnes, soit 10% de l’emploi en France.
 
-Au sein de notre territoire d’investigation, les Hauts de France, elle compte presque 16 000 établissements et emploie plus de 200 000 personnes, ce qui représente 11% de l’emploi. C’est plus que le secteur automobile par exemple !
+-----------------
 
-85% des salariés de l’ESS travaillent dans une association, 9% dans une coopérative, 3% pour une mutuelle et 3% pour une entreprise sociale.
-
-Pour faire face à ces difficultés, il existe des aides publiques, mais les structures rencontrent des difficultés pour accéder à ces aides :
-- manque de lisibilité de l'information sur les aides auxquelles les structures sont éligibles
-- manque de temps / de compétence au sein des petites structures pour monter les dossiers nécessaires à l'obtention des aides
-- aides non-adaptées aux besoins des structures de l'ESS
-- plan d'action de mise en oeuvre opérationnel des aides incomplet / insuffisant
-
-Nous pensons que ces difficultés sont liées à un manque de coordination entre les acteurs de la chaîne, de la conception à l'attribution des aides, en passant par l'information et l'accompagnement.
-
-Notre territoire d’investigation se situe dans les Hauts de France et vise à faire émerger les besoins les plus douloureux, urgents et reconnus à travers une série d’entretiens avec l’ensemble des acteurs : structures ESS, têtes de réseaux, structures d’accompagnement, porteurs d’aides et solutions de facilitation numérique déjà existantes.
+## MÉTHODOLOGIE POUR LA PHASE DE RECHERCHE ET D'INVESTIGATION
+Notre investigation a visé à faire émerger les besoins à travers une série d’entretiens avec l’ensemble des acteurs : structures ESS, têtes de réseaux, structures d’accompagnement, porteurs d’aides et solutions de facilitation numérique déjà existantes.
 
 La phase d’investigation vise à répondre à trois objectifs principaux :
 - Repartir des problèmes rencontrés par les acteurs de l’ESS par une écoute attentive ;
 - S’assurer de construire un service numérique qui soit vraiment utile ;
 - Minimiser grandement le risque d’investir dans un produit qui ne répond pas aux vrais besoins des utilisateurs.
+
+
+-----------------
+
+## PRINCIPAUX RÉSULTATS DE NOTRE RECHERCHE AUPRÈS DES BÉNÉFICIAIRES
+Pour faire face à ces difficultés, il existe des aides publiques, mais elles sont mal connues par les acteurs de l’ESS, difficiles à obtenir et parfois inopérantes :
+- la veille sur les aides est extrêmement chronophage pour les petites structures de l'ESS
+- les aides manquent de lisibilité
+- les petites structures manquent de temps / de compétences pour monter les dossiers de demande
+- les aides sont parfois non-adaptées aux besoins des structures de l'ESS
+
+Une partie des moyens de l’État (DDCS et ARS) est actuellement affectée à la sauvegarde de leurs opérateurs de terrain (associations de prévention, porteurs de structures sociale…), ce travail pourrait être réalisé plus efficacement en améliorant concrètement les modes de collaboration de l'État avec les experts des réseaux d’accompagnement et les collectivités territoriales.
+
+#### TROIS CONSTATS
+1. Les petites structures sont isolées, elles manquent de moyens humains (pour réaliser leur veille, tester leur éligibilité et monter leur dossier de demande d’aides).
+2. Un problème est rarement résolu par une seule aide, mais par une approche globale qui mobilise plusieurs acteurs.
+3. Les structures d’accompagnement ont du mal à identifier les associations qui sont le plus dans le besoin (l’offre ne rencontre pas la demande).
+
+
+-----------------
+
+## PUBLIC PRIORITAIRE
+Après cette première phase d’investigation, il apparaît que les structures de l’ESS les plus fragiles sont **les petites structures, en particulier les petites associations**. 
+
+
+-----------------
+
+## SOLUTION PRESSENTIE
+Du temps et de l’argent public sont perdus lorsque Les structures de l’ESS (en particulier les plus petites) s’orientent vers les mauvaises aides et subventions... Cela pourrait être résolu par **un outil permettant la détection des petites structures puis la coordination et la communication entre les porteurs d’aides et les structures d’accompagnement**.
+
+**Pour les ESS**
+
+Les structures de l’ESS accèdent d’abord à de l’information sur les aides auxquelles elles sont éligibles (en fonction de leur secteur d’activité, de leur ancrage territorial et de leur besoin) puis elles notifient les réseaux d’accompagnement qu’elles souhaitent être rappelées pour obtenir de l’aide (scoring de l’éligibilité, clarifications, aide pour monter le dossier de demande, accompagnement RH, ...).
+
+**Pour les structures accompagnatrices**
+
+Les réseaux d’accompagnement reçoivent des notifications qui leur signalent que des ESS ont besoin d’aide. Ces réseaux d’accompagnement peuvent communiquer entre eux afin d’offrir un accompagnement holistique à l’ESS (par exemple : besoin d’une avance de trésorerie, mise en place du chômage partiel, accompagnement pour remobiliser les bénévoles, formation des administrateurs, accompagnement administratif et financier en appui au bureau d’une association, etc.)
+
+
+

@@ -9,6 +9,10 @@ missions:
     end: 2020-12-31
     status: independent
     employer: Octo
+  - start: 2021-03-08
+    end: 2021-09-12
+    status: independent
+    employer: La Zone
 startups:
     - demarches-simplifiees.fr
 previously:

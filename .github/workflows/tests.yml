@@ -9,7 +9,7 @@ on:
 jobs:
   test:
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
 
     steps:
     - uses: actions/checkout@v2
@@ -26,9 +26,10 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
+    - name: Install npm dependencies
+      run: npm install
     - name: Install dependencies
       run: bundle check || bundle install --path vendor/bundle
-
     - name: Unit tests
       run: ruby -e "Dir.glob('rb/test/*.rb').each { |f| require File.expand_path(f) }"
 

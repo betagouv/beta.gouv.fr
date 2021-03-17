@@ -6,14 +6,14 @@ additional_css:
   - side-panel.css
   
 # Dates de la prochaine formation
-alpha-start: 2021-01-28
-alpha-end: 2021-01-28
-alpha-time: de 9h30 à 17h00
+alpha-start: 2021-04-08
+alpha-end: 2021-04-08
+alpha-time: de 9h30 à 17h30
 alpha-location: en visio
 alpha-location-link:
 alpha-catering:
 alpha-more:
-alpha-link: https://startupdetat.typeform.com/to/SGQMt9f0
+alpha-link: https://startupdetat.typeform.com/to/LqIYCdp7
 redirect_from:
   - /alpha
 ---
@@ -24,7 +24,7 @@ Vous êtes agent public, vous avez identifié un problème à résoudre au sein 
 
 Depuis novembre 2017, la formation Alpha est la meilleure façon de découvrir la méthode Beta.gouv. Animée directement par les membres qui travaillent au quotidien dans la communauté, coachs, intrapreneurs, développeurs et chargés de développement, elle vous offre la possibilité de découvrir plus en détail la méthode à la fois d’un point de vue théorique mais surtout pratique ! 
 
-La formation se déroule sur une journée au cours de laquelle vous apprendrez à identifier « un bon problème » et vous bénéficierez d’un coaching individuel afin de commencer l’investigation de votre problème. 
+La formation se déroule sur une journée au cours de laquelle vous apprendrez à identifier « un bon problème » et vous bénéficierez d’un coaching en sous-groupes afin d'apprendre à définir un bon problème, à pitcher et challenger vos collègues. 
 
 <img src="https://raw.githubusercontent.com/betagouv/beta.gouv.fr/master/img/alpha/alpha-first-session.jpg" alt="Images des précédentes formations" style="width: 100%;">
 
@@ -39,16 +39,16 @@ La formation se déroule sur une journée au cours de laquelle vous apprendrez �
  
 - 12h00 : Pause déjeuner 
  
-- 14h00 - 15h30 : Travail en groupe ou en individuel avec des coachs
-- 15h30 - 16h : Témoignage d’intrapreneur
-- 16h00 - 17h00 : Restitution sur les travaux des équipes
-- 17h00 : Fin de la formation
+- 14h00 - 16hOO : Session coaching en sous-groupes sous le format co-dev 
+- 16h10 - 17h25 : Session pitch et échanges sur les travaux d'équipes
+- 17h30 : Fin de la formation
 
 **Prochaine session**
+La session du 4 mars est complète !
 
-La prochaine session aura lieu le **jeudi 28 janvier 2021**.
+La prochaine session aura lieu le **jeudi 8 avril 2021**.
 
-Vous pouvez vous inscrire [via ce formulaire](https://startupdetat.typeform.com/to/SGQMt9f0).
+Vous pouvez vous inscrire [via ce formulaire](https://startupdetat.typeform.com/to/LqIYCdp7).
 
 Pour plus d’information écrivez-nous à alpha@beta.gouv.fr.
 

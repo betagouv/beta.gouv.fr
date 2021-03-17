@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Scopyleft
 startups:
-  - egalim
+  - ma-cantine-egalim
 ---
 
 Développeur passionné d'agilité et d'horizontalité

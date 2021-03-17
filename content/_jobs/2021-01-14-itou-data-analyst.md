@@ -4,7 +4,7 @@ title: La plateforme de l'inclusion recrute un ou une data analyst
 contrat: indépendant
 startup: itou
 contact: recrutement@inclusion.beta.gouv.fr
-open: true
+open: false
 ---
 
 # La plateforme de l'inclusion recrute un ou une data analyst

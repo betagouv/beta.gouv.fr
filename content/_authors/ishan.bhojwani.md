@@ -16,15 +16,19 @@ missions:
 github: IshanB
 startups:
     - le-taxi
-    - transport
     - preuve-de-covoiturage
-    - ecolab
-    - comobi
-    - auvol
+    - datagir
     - egalim
     - ecosante
     - friches
     - cartobio
+    - peps
+    - tutorat_fp
+    - labels-transition
+previously:
+    - comobi
+    - transport
+    - auvol
 badges:
   - segur
 ---

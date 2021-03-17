@@ -1,5 +1,5 @@
 ---
-fullname: Ronan JAMES
+fullname: Ronan James
 role: Intrapreneur
 github: ronanjames
 missions:
@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: DINUM
 startups:
-  - itou
+  - investigation.carnet.de.bord
 badges:
   - segur
 ---

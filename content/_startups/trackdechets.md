@@ -16,7 +16,7 @@ phases:
   - name: acceleration
 link: https://trackdechets.beta.gouv.fr
 repository: https://github.com/MTES-MCT/trackdechets
-stats: false
+stats: true
 contact: emmanuel.flahaut@developpement-durable.gouv.fr
 ---
 
