@@ -45,7 +45,7 @@ Le constat est partagé par tous les acteurs intervenant en soutien des entrepri
 
 « Signaux Faibles » facilite le ciblage des actions de remédiation de l’État ; autrement dit : aider précisément l’entreprise avant d’arriver à un moment critique, soutenir les dirigeants des PME qui peuvent se sentir isolés et démunis et qui n’ont pas forcément conscience de toutes les options qui s’offrent à eux. 
 
-Les Commissaires au redressement productif institués en 2012, aujourd’hui renommés [Commissaires aux Restructurations et à la Prévention des difficultés des entreprises](https://www.entreprises.gouv.fr/fr/industrie/politique-industrielle/commissaires-aux-restructurations-et-prevention-des-difficultes) (CRP ; ), coordonnent l’action de l’État à destination des entreprises en difficulté. La force de leur intervention réside sur leur réactivité, leur proximité territoriale et leur pouvoir d’évocation d’un dossier au niveau national, lorsque sa criticité le commande et ceci dans des délais souvent très contraints. 
+Les Commissaires au redressement productif institués en 2012, aujourd’hui renommés [Commissaires aux Restructurations et à la Prévention des difficultés des entreprises](https://www.entreprises.gouv.fr/fr/industrie/politique-industrielle/commissaires-aux-restructurations-et-prevention-des-difficultes) (CRP), coordonnent l’action de l’État à destination des entreprises en difficulté. La force de leur intervention réside sur leur réactivité, leur proximité territoriale et leur pouvoir d’évocation d’un dossier au niveau national, lorsque sa criticité le commande et ceci dans des délais souvent très contraints. 
 
 Or, la sollicitation tardive des CRP et de ses partenaires est susceptible de réduire sensiblement le nombre et l’efficacité des leviers pouvant être actionnés en faveur des entreprises fragilisées. 
 
@@ -73,19 +73,20 @@ Une fois cette prédiction établie, une liste de détection des entreprises en 
 
 « Signaux Faibles » est un outil d’analyse et de ciblage des interventions en remédiation de l’État qui concentre son effort sur les entreprises de plus de 10 salariés.
 
-Depuis la crise sanitaire en mars 2020, l’outil s’est enrichi de fonctionnalités supplémentaires pour faciliter le travail de priorisation et de ciblage, indispensable dans une crise systémique et inédite où les prédictions sont entièrement revues. 
+Depuis la crise sanitaire en mars 2020, année qui a marqué la finalisation du déploiement national, l’outil s’est enrichi de fonctionnalités supplémentaires visant à faciliter le travail de priorisation et de ciblage. Cette actualisation s'est avérée indispensable en raison de la crise systémique et inédite liée à l'épidémie de coronavirus.
 
-- L’année a été marquée non seulement par la finalisation du déploiement du service à l'échelle nationale ainsi qu’une profonde adaptation du modèle, rendue indispensable par le choc de la crise, mais également par la création d’une fonctionnalité de valorisation de données pertinentes dans des fiches établissements et entreprises fréquemment mises à jour. 
+Une profonde adaptation du modèle a été opérée en raison du boulversement des fondamentaux économiques observés. Par ailleurs, une fonctionnalité de valorisation de données « entreprises » dans le dispositif de consultation a été mise en place. 
 
-- Concrètement, les agents dûment habilités sont désormais en mesure d’accéder à la fois aux prédictions de défaillances d’entreprises de leur ressort géographique ainsi qu’à des renseignements sur l’ensemble des 426 000 établissements et 1,8 million d’entreprises en base. 
+Concrètement, les agents dûment habilités sont désormais en mesure d’accéder à la fois aux prédictions de défaillances d’entreprises de leur ressort géographique ainsi qu’à des renseignements sur l’ensemble des 426 000 entreprises et 1,8 million d’établissements en base. 
 
 Plus largement, à travers la transformation numérique qu’il promeut, « Signaux Faibles » cherche à renforcer les synergies entre les acteurs publics mobilisés autour des entreprises en difficulté et, par conséquent, à rendre l’action déconcentrée de l’État encore plus efficace pour accompagner les entreprises fragilisées et susciter la résilience du tissu économique français.
 
 ## Les défis : consolider le modèle, enrichir le service numérique, accélérer l’usage
 
-En 2021, l’équipe « Signaux Faibles » et l’ensemble des agents partenaires ambitionnent de répondre à trois grands défis. 
-- Tout d’abord, la mise en œuvre d’un nouvel algorithme, au périmètre étendu et obtenu à la suite de redressements structurels et conjoncturels du modèle, doit permettre un signalement optimisé des risques, intégrant l’impact de la crise, le déploiement des dispositifs de soutien ainsi que de nouvelles données susceptibles de rehausser la qualité de nos prédictions.
+En 2021, l’équipe « Signaux Faibles » et l’ensemble des agents partenaires ambitionnent de répondre à trois grands défis:
 
-- Par ailleurs, un travail de valorisation d’informations actualisées et objectives dans l’application est conduit afin d’enrichir constamment les fiches entreprises et établissements au service de nos utilisateurs. 
+- Tout d’abord, la mise en œuvre d'un nouvel algorithme, dont le périmètre étendu et tenant compte de redressements structurels et conjoncturels, doit permettre un signalement optimisé des risques. Cet algorithme a l'ambition d'intégrer l’impact de la crise, le déploiement des dispositifs de soutien ainsi que de nouvelles données susceptibles d'améliorer sa performance.
 
-- Enfin, nos efforts portent également sur l’élaboration d’un outil complet et intégré de référencement des raisons de la difficulté de l’entreprise et des actions réalisées, ce suivi dans le temps des entreprises étant propice à améliorer l’organisation du travail et la coordination de tous les acteurs accompagnant les entreprises.
+- Par ailleurs, un travail de valorisation d’informations actualisées et objectives dans l’application est conduit afin d’enrichir constamment les fiches entreprises et établissements au service de nos utilisateurs.
+
+- Enfin, nos efforts portent également sur l’élaboration d’un outil complet et intégré de référencement des raisons de la difficulté de l’entreprise et des actions réalisées, ce suivi dans le temps des entreprises étant destiné à faciliter la coordination de tous les acteurs accompagnant les entreprises.
