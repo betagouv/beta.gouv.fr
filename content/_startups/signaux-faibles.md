@@ -71,11 +71,11 @@ Une fois cette prédiction établie, une liste de détection des entreprises en 
 
 ## L’impact : mieux accompagner les entreprises présentant des signes de fragilité
 
-« Signaux Faibles » est un outil d’analyse et de ciblage des interventions en remédiation de l’État qui concentre son effort sur les entreprises de plus de 10 salariés.
+« Signaux Faibles » est un outil d’analyse et de ciblage des interventions en remédiation de l’État qui concentre son effort sur les entreprises de plus de 10 salariés.
 
-Depuis la crise sanitaire en mars 2020, année qui a marqué la finalisation du déploiement national, l’outil s’est enrichi de fonctionnalités supplémentaires visant à faciliter le travail de priorisation et de ciblage. Cette actualisation s'est avérée indispensable en raison de la crise systémique et inédite liée à l'épidémie de coronavirus.
+Depuis la crise sanitaire en mars 2020, période qui a également marqué la finalisation du déploiement national, l’outil s’est enrichi de fonctionnalités supplémentaires visant à faciliter le travail de ciblage des entreprises. Cette actualisation s'est avérée indispensable en raison de la crise systémique et inédite liée à l'épidémie de coronavirus.
 
-Une profonde adaptation du modèle a été opérée en raison du boulversement des fondamentaux économiques observés. Par ailleurs, une fonctionnalité de valorisation de données « entreprises » dans le dispositif de consultation a été mise en place. 
+Une profonde adaptation du modèle a été opérée en raison du bouleversement des fondamentaux économiques observés. Par ailleurs, une fonctionnalité de consultation des données « entreprises » a été mise en place offrant aux agents un accès rapide, intuitif et centralisé.
 
 Concrètement, les agents dûment habilités sont désormais en mesure d’accéder à la fois aux prédictions de défaillances d’entreprises de leur ressort géographique ainsi qu’à des renseignements sur l’ensemble des 426 000 entreprises et 1,8 million d’établissements en base. 
 
@@ -83,9 +83,9 @@ Plus largement, à travers la transformation numérique qu’il promeut, « Sign
 
 ## Les défis : consolider le modèle, enrichir le service numérique, accélérer l’usage
 
-En 2021, l’équipe « Signaux Faibles » et l’ensemble des agents partenaires ambitionnent de répondre à trois grands défis:
+En 2021, l’équipe « Signaux Faibles » et l’ensemble des agents partenaires ambitionnent de répondre à trois grands défis :
 
-- Tout d’abord, la mise en œuvre d'un nouvel algorithme, dont le périmètre étendu et tenant compte de redressements structurels et conjoncturels, doit permettre un signalement optimisé des risques. Cet algorithme a l'ambition d'intégrer l’impact de la crise, le déploiement des dispositifs de soutien ainsi que de nouvelles données susceptibles d'améliorer sa performance.
+- Tout d’abord, la mise en œuvre d'un nouvel algorithme, qui tient compte de redressements structurels et conjoncturels et dont le périmètre est étendu, doit permettre un signalement optimisé des risques. Cet algorithme a l'ambition d'intégrer l’impact de la crise, le déploiement des dispositifs de soutien ainsi que de nouvelles données susceptibles d'améliorer sa performance.
 
 - Par ailleurs, un travail de valorisation d’informations actualisées et objectives dans l’application est conduit afin d’enrichir constamment les fiches entreprises et établissements au service de nos utilisateurs.
 
