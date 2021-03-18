@@ -37,7 +37,6 @@ stats_url: https://stats.signaux-faibles.beta.gouv.fr
 contact: contact@signaux-faibles.beta.gouv.fr
 ---
 
-
 # Prévenir pour mieux guérir. Un algorithme pour lutter contre la faillite.
 
 ## Le problème initial : la connaissance tardive des difficultés d'entreprises nuit à la qualité et l’efficacité des actions d’accompagnement
@@ -46,7 +45,7 @@ Le constat est partagé par tous les acteurs intervenant en soutien des entrepri
 
 « Signaux Faibles » facilite le ciblage des actions de remédiation de l’État ; autrement dit : aider précisément l’entreprise avant d’arriver à un moment critique, soutenir les dirigeants des PME qui peuvent se sentir isolés et démunis et qui n’ont pas forcément conscience de toutes les options qui s’offrent à eux. 
 
-Les Commissaires au redressement productif en 2012, aujourd’hui Commissaires aux Restructurations et à la Prévention des difficultés des entreprises (CRP ; https://www.entreprises.gouv.fr/fr/industrie/politique-industrielle/commissaires-aux-restructurations-et-prevention-des-difficultes), coordonnent l’action de l’État à destination des entreprises en difficulté. La force de leur intervention réside sur leur réactivité, leur proximité territoriale et leur pouvoir d’évocation d’un dossier au niveau national, lorsque sa criticité le commande et ceci dans des délais souvent très contraints. 
+Les Commissaires au redressement productif en 2012, aujourd’hui [Commissaires aux Restructurations et à la Prévention des difficultés des entreprises](https://www.entreprises.gouv.fr/fr/industrie/politique-industrielle/commissaires-aux-restructurations-et-prevention-des-difficultes) (CRP ; ), coordonnent l’action de l’État à destination des entreprises en difficulté. La force de leur intervention réside sur leur réactivité, leur proximité territoriale et leur pouvoir d’évocation d’un dossier au niveau national, lorsque sa criticité le commande et ceci dans des délais souvent très contraints. 
 
 Or la sollicitation tardive des CRP et de ses partenaires est susceptible de réduire sensiblement le nombre et l’efficacité des leviers pouvant être actionnés en faveur des entreprises fragilisées. 
 
@@ -62,7 +61,7 @@ Une fois cette prédiction établie, une liste de détection des entreprises en 
 
 ## Le partenariat : une expérimentation locale devenue service numérique national
 
-« Signaux Faibles » est né d’une collaboration étroite entre les services de la DIRECCTE et des URSSAF de Bourgogne-Franche-Comté. Développé d’abord avec des moyens modestes, avec l’aide des services statis¬tiques et en s’appuyant sur les données dis¬ponibles sur ce territoire, une première preuve de concept a pu être menée à bien dès 2016. Depuis lors, le dispositif ne cesse de s’enrichir, de se transformer par des itérations succes¬sives jusqu’à devenir un service numérique national, sans perdre toutefois son agilité initiale. 
+« Signaux Faibles » est né d’une collaboration étroite entre les services de la DIRECCTE et des URSSAF de Bourgogne-Franche-Comté. Développé d’abord avec des moyens modestes, avec l’aide des services statistiques et en s’appuyant sur les données dis¬ponibles sur ce territoire, une première preuve de concept a pu être menée à bien dès 2016. Depuis lors, le dispositif ne cesse de s’enrichir, de se transformer par des itérations succes¬sives jusqu’à devenir un service numérique national, sans perdre toutefois son agilité initiale. 
 
 - Etendu à l’ensemble des régions métropolitaines grâce à une convention de déploiement signée en 2019 entre 5 acteurs publics : la direction générale des entreprises (DGE), la délégation générale à l’emploi et à la formation professionnelle (DGEFP), la Banque de France (BDF), l’Agence centrale des organismes de sécurité sociale (ACOSS) et la DINUM.
 
