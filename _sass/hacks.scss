@@ -193,6 +193,10 @@ h2.phase-title em {
 }  
 
 @media (max-width: 1000px) {
+  .incubator-header .incubator-logo {
+    display: none;
+  }
+
   .filters .container {
     grid-template-columns: auto;
     grid-template-rows: auto;
