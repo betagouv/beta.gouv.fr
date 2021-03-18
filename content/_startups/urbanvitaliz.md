@@ -1,5 +1,5 @@
 ---
-title: Friches - UrbanVitaliz
+title: UrbanVitaliz (Friches)
 mission: Faciliter la réhabilitation des friches urbaines
 owner: CEREMA
 incubator: dinum
@@ -16,9 +16,11 @@ phases:
     start: 2020-09-14
 link: https://betagouv.github.io/urbanvitaliz/
 repository: https://github.com/betagouv/urbanvitaliz
-stats: false 
-stats_url: 
+stats: true 
+stats_url: https://betagouv.github.io/urbanvitaliz/stats
 contact: friches@beta.gouv.fr
+redirect_from:
+  - /startups/friches
 ---
 
 ## Le problème : beaucoup de friches restent inutilisées pendant qu'on artificialise des sols naturels et agricoles
