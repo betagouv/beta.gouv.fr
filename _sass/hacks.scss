@@ -178,20 +178,8 @@ h2.phase-title em {
   grid-column: 2;
 }
 
-.filters input#search-input {
+.filters #search-input {
   grid-column: 4;
-  border-radius: 20px;
-}
-
-.filters input#search-input:focus {
-  border-color: #53667d;
-}
-
-.filters select {
-  background-color: white;
-  color: #53667d;
-  border-radius: 20px;
-  background-size: 15px 1em;
 }
 
 @media (max-width: 1200px) {
@@ -220,14 +208,14 @@ h2.phase-title em {
     grid-row: 2;
   }
 
-  .filters input#search-input {
+  .filters #search-input {
     grid-column: 1;
     grid-row: 3;
   }
 }
 
-#search-input-button {
-  display: none;
+#search-input {
+  position: relative;
 }
 
 #results-container {
@@ -268,12 +256,13 @@ header.navbar {
 
 :root .rf-scheme-soft-blue-soft.incubator-header {
   background-color: #EDEDF2;
+  padding: 2em 0;
 }
 
 .incubator-header img {
   width: 100%;
   height: auto;
-  max-width: 200px;
+  max-width: 100px;
   padding: 10px;
   background-color: #fff;
   border: 1px solid #d1d2de;

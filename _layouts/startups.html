@@ -83,43 +83,44 @@ layout: default
 <main>
     <section class="filters sticky">
         <div class="container">
-            <select id="select-incubateur">
+            <select class="rf-select" id="select-incubateur">
                 <option value="">Tous les incubateurs</option> 
             </select>
-            <select id="select-phase">
+            <select class="rf-select" id="select-phase">
                 <option>Aller à une phase</option>
                 {% for phase in phases_with_stopped %}
                     <option value="{{ phase.status }}" id="{{phase.status}}-option">{{ phase.label }}</option>
                 {% endfor %}
             </select>
-            <input type="text" id="search-input" placeholder="Rechercher...">
-            <button id="search-input-button" class="overlay-button" aria-label="Effacer" style="width: 29px;">
-                Effacer
-            </button>
-            <ul id="results-container"></ul>
+            <div class="rf-search-bar" id="search-input">
+                <label class="rf-label" for="search-input-input">Label de la barre de recherche</label>
+                <input class="rf-input" placeholder="Rechercher" type="search" id="search-input-input" name="search-input-input">
+                <button class="rf-btn" title="Rechercher" id="search-input-button">
+                        Rechercher
+                </button>
+                <ul id="results-container"></ul>
+            </div>
         </div>
     </section>
     {% for incubator in incubators %}
         {% assign incubator_id = incubator.id | remove: '/approche/incubateurs/' %}
     <section id="{{ incubator_id }}" class="section incubator-header rf-scheme-soft-blue-soft" style="display: none;">
-        <div class="rf-container-fluid">
-            <div class="container">
-                <div class="rf-grid-row rf-grid-row--gutters">
-                    <div class="rf-col-2">
-                        <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}">
+        <div class="rf-container">
+            <div class="rf-grid-row rf-grid-row--gutters">
+                <div class="rf-col-1">
+                    <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}">
+                </div>
+                <div class="rf-col">
+                    <div>
+                        <h1 class="rf-card__title">{{ incubator.title }}</h1>
+                        <p class="h1-card__title-subtitle">{{ incubator.owner }}</p>
+                        <div class="markdown">{{ incubator.content }}</div>
                     </div>
-                    <div class="rf-col">
-                        <div>
-                            <h1 class="rf-card__title">{{ incubator.title }}</h1>
-                            <p class="h1-card__title-subtitle">{{ incubator.owner }}</p>
-                            <div class="markdown">{{ incubator.content }}</div>
-                        </div>
-                        <a
-                            class="rf-link rf-fi-arrow-right-line rf-link--icon-right"
-                            href="{{ incubator.url }}"
-                            title="{{ incubator.title }}">En Savoir plus
-                        </a>
-                    </div>
+                    <a
+                        class="rf-link rf-fi-arrow-right-line rf-link--icon-right"
+                        href="{{ incubator.url }}"
+                        title="{{ incubator.title }}">En Savoir plus
+                    </a>
                 </div>
             </div>
         </div>
@@ -167,25 +168,21 @@ layout: default
         };
     }
 
-    var searchInput = document.getElementById('search-input');
+    var searchInput = document.getElementById('search-input-input');
     var searchInputBtn = document.getElementById('search-input-button');
     var resultsContainer = document.getElementById('results-container');
 
-    searchInput.addEventListener('keyup', function (e) {
-        if (e.target.value.trim() != '') {
+    var searchFunction =  function (e) {
+        if (searchInput.value.trim() != '') {
             resultsContainer.style.display = 'block';
-            searchInputBtn.style.display = 'block';
         } else {
             resultsContainer.style.display = 'none';
-            searchInputBtn.style.display = 'none';
         }
-    });
+    }
 
-    searchInputBtn.addEventListener('click', function (e) {
-        searchInput.value = '';
-        resultsContainer.style.display = 'none';
-        searchInputBtn.style.display = 'none';
-    });
+    searchInput.addEventListener('search', searchFunction);
+    searchInputBtn.addEventListener('click', searchFunction);
+
 
     var selectPhase = document.getElementById('select-phase');
     selectPhase.addEventListener('change', function (e) {
