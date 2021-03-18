@@ -105,18 +105,21 @@ layout: default
         <div class="rf-container-fluid">
             <div class="container">
                 <div class="rf-grid-row rf-grid-row--gutters">
-                    <div class="rf-col">
-                        <h1 class="rf-card__title">{{ incubator.title }}</h1>
-                        <p class="h1-card__title-subtitle">{{ incubator.owner }}</p>
-                        <div class="markdown">{{ incubator.content }}</div>
+                    <div class="rf-col-2">
+                        <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}">
                     </div>
-                </div>
-                <div class="rf-grid-row rf-grid-row--gutters">
-                    <a
-                        class="rf-link rf-fi-arrow-right-line rf-link--icon-right"
-                        href="{{ incubator.url }}"
-                        title="{{ incubator.title }}">En Savoir plus
-                    </a>
+                    <div class="rf-col">
+                        <div>
+                            <h1 class="rf-card__title">{{ incubator.title }}</h1>
+                            <p class="h1-card__title-subtitle">{{ incubator.owner }}</p>
+                            <div class="markdown">{{ incubator.content }}</div>
+                        </div>
+                        <a
+                            class="rf-link rf-fi-arrow-right-line rf-link--icon-right"
+                            href="{{ incubator.url }}"
+                            title="{{ incubator.title }}">En Savoir plus
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>

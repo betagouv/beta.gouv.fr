@@ -2,6 +2,7 @@
 title: L'Incubateur des API
 owner: DINUM
 website: https://api.gouv.fr/
+logo: logo_dinum.png
 github: https://github.com/betagouv/api.gouv.fr
 contact: https://api.gouv.fr/contact
 address: 20 avenue de Ségur, Paris 7e
