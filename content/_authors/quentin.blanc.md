@@ -1,6 +1,6 @@
 ---
 fullname: Quentin Blanc
-role: Développeur Fullstack ROR
+role: Développeur Fullstack
 github: qblanc
 missions:
   - start: 2021-03-08
@@ -13,5 +13,5 @@ badges:
   - segur
 ---
 
-Développeur web, journaliste (de moins en moins) et formateur.
-J'aime bien écrire des trucs, sur du papier ou sur un ordi.
+Développeur web, journaliste et formateur.  
+J'aime bien écrire des trucs.
