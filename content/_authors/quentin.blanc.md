@@ -13,5 +13,5 @@ badges:
   - segur
 ---
 
-Développeur web, journaliste et formateur.\r
+Développeur web, journaliste et formateur.  
 J'aime bien écrire des trucs.
