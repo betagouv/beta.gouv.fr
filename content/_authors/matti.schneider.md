@@ -23,6 +23,7 @@ missions:
     employer: Secrétariat général de la défense et de la sécurité nationale
 startups:
     - disinfo
+    - aides-jeunes
 previously:
     - mes-aides
     - mon-entreprise
