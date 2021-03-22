@@ -7,7 +7,7 @@ type: 'friend'
 contrat: indépendant
 equipe: Commun orientation
 post_ouvert: 2020-12-14
-contact: incubateur@anct.gouv.fr
+contact: contactincubateur@anct.gouv.fr
 open: false
 ---
 

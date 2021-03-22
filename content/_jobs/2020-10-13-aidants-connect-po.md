@@ -7,7 +7,7 @@ type: 'friend'
 contrat: indépendant
 equipe: Aidants Connect
 post_ouvert: 2020-10-13
-contact: incubateur@anct.gouv.fr
+contact: contactincubateur@anct.gouv.fr
 open: false
 ---
 

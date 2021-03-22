@@ -6,11 +6,13 @@ incubator: anct
 phases:
   - name: investigation
     start: 2020-01-14
+  - name: alumni
+    date: 2021-03-01
 link:
 repository: 
 stats: false 
 stats_url: 
-contact: incubateur@anct.gouv.fr
+contact: contactincubateur@anct.gouv.fr
 ---
 
 ## Problème: les enfants ne consomment pas suffisamment de produits locaux dans les cantines

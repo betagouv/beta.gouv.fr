@@ -7,7 +7,7 @@ externalURL: https://incubateur.anct.gouv.fr/recrutements/chef-fe-de-produit/
 equipe: Plan de relance Inclusion Numérique
 contrat: indépendant
 post_ouvert: 2020-09-16
-contact: incubateur@anct.gouv.fr
+contact: contactincubateur@anct.gouv.fr
 open: false
 ---
 
