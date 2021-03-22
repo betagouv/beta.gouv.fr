@@ -7,7 +7,7 @@ phases:
   - name: investigation
     start: 2020-01-14
   - name: construction
-    date: 2021-03-01
+    start: 2021-03-01
 link:
 repository: 
 stats: false 
