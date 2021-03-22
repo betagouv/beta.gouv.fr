@@ -13,7 +13,7 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact: incubateur@anct.gouv.fr
+contact: contactincubateur@anct.gouv.fr
 ---
 
 ## Problème: en France, un tiers des élèves n’utilisent pas les sanitaires des collèges

@@ -11,7 +11,7 @@ poste_ferme: 2021-02-01
 contact: lauren.michel@anct.gouv.fr
 status: open
 poste_pourvu: false
-open: true
+open: false
 ---
 
 L'équipe Conseillers Numériques recherche **un.e chargé.e de déploiement**.

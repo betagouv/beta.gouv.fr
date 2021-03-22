@@ -1,6 +1,7 @@
 ---
 title: La Mission Apprentissage
 owner: Guillaume Houzel
+logo: logo_beta.png
 website: https://mission-apprentissage.gitbook.io/general/
 github: https://github.com/mission-apprentissage
 contact: mailto:apprentissage@beta.gouv.fr

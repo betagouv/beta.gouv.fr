@@ -7,7 +7,7 @@ type: 'friend'
 equipe: Bases Adresses Locales
 contact: ariane.rose@anct.gouv.fr
 contrat: Indépendant
-open: true
+open: false
 ---
 
 L’équipe de la startup d’Etat Bases Adresses Locales s’agrandit pour 2021 et cherche **un•e développeur•se**, afin d’accompagner la montée en puissance des Bases Adresses Locales sur le territoire. Il/elle aura pour mission d’améliorer et d’adapter aux besoins des utilisateurs, l’outil gratuit en ligne [Mes Adresses](https://mes-adresses.data.gouv.fr), qui permet à tous de pouvoir créer, mettre à jour et diffuser une Base Adresse Locale et alimenter la Base Adresse Nationale.

@@ -1,6 +1,7 @@
 ---
 title: La Fabrique Pôle emploi
 owner: Pôle emploi
+logo: logo_fab_pole_emploi.png
 website: https://www.pole-emploi.io/accompagner-startup
 github: https://github.com/StartupsPoleEmploi/
 contact: mailto:lafabrique@pole-emploi.fr?subject=Incubateur
