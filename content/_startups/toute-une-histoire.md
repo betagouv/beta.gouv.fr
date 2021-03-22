@@ -13,7 +13,7 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact: incubateur@anct.gouv.fr
+contact: contactincubateur@anct.gouv.fr
 ---
 
 ## Problème: 1500 enfants placés sans souvenirs
@@ -37,4 +37,3 @@ Département de la Somme
 - Cordiez Virginie
 - Derambure Michéle
 - Mylène Polleux
-
