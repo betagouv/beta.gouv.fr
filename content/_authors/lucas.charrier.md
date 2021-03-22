@@ -8,6 +8,8 @@ missions:
     end: 2021-07-03
     status: admin
     employer: DINUM
+startups: 
+  - aides-jeunes
 badges:
   - segur
 ---
