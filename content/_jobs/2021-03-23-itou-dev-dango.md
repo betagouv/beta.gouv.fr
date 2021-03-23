@@ -5,6 +5,7 @@ contrat: indépendant
 startup: itou
 contact: tech@inclusion.beta.gouv.fr
 open: true
+techno: Django-Python-PostgreSQL-PostGIS-Redis-Bootstrap-JavaScript-jQuery
 ---
 
 # Itou recrute un développeur ou une développeuse Django
