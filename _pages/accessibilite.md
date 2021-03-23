@@ -13,7 +13,7 @@ La DINUM s’engage à rendre son service accessible, conformément à l’artic
 Cette déclaration d’accessibilité s’applique à beta.gouv.fr.
 
 ### État de conformité
-beta.gouv.fr est non conforme avec le RGAA 4.1. Non conforme veut dire que moins de 50 % des critères de contrôle du RGAA sont respectés ou le site n'a pas été audité.
+beta.gouv.fr est non conforme avec le RGAA 4.1. Le site n’a pas encore été audité.
 
 ### Établissement de cette déclaration d'accessibilité
 Cette déclaration a été établie le 23 mars 2021.
