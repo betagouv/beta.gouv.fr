@@ -1,7 +1,7 @@
 ---
 title: Signaux Faibles
 mission: Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté
-owner: Ministère de l'Économie, des Finances et de la Relance (Direction générale des entreprises DGE) en partenariat avec le Ministère du Travail, de l'Emploi et de l'Insertion (DGEFP), la Banque de France, l'ACOSS et la DINUM
+owner: le Ministère de l'Économie, des Finances et de la Relance (Direction générale des entreprises DGE) en partenariat avec le Ministère du Travail, de l'Emploi et de l'Insertion (DGEFP), la Banque de France, l'ACOSS et la DINUM
 sponsors:
     - name: Direction Générale des Entreprises
       acronym: DGE
