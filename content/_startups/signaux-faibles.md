@@ -35,8 +35,7 @@ stats: true
 stats_url: https://stats.signaux-faibles.beta.gouv.fr
 contact: contact@signaux-faibles.beta.gouv.fr
 ---
-
-
+  
 # Prévenir pour mieux guérir. Un algorithme pour lutter contre la faillite.
 
 ## Le problème initial : la découverte tardive des difficultés d'entreprises
