@@ -54,5 +54,5 @@ mandatorylinks:
     label: Données personnelles et cookies
     target: _pages/suivi.md
   -
-    label: Accessibilité : non conforme
+    label: "Accessibilité : non conforme"
     target: _pages/accessibilite.md
