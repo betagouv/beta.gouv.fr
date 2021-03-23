@@ -55,6 +55,4 @@ mandatorylinks:
     target: _pages/suivi.md
   -
     label: Accessibilité : non conforme
-    
-
-
+    target: _pages/accessibilite.md
