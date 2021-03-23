@@ -8,7 +8,7 @@ title: Déclaration d'accessibilité
 
 La DINUM s’engage à rendre son service accessible, conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005.
 
-À cette fin, nous mettons en œuvre la stratégie et les actions suivantes : https://www.numerique.gouv.fr/uploads/DINUM_SchemaPluriannuel_2020.pdf.
+À cette fin, nous mettons en œuvre la stratégie et les actions suivantes : [Télécharger le schéma pluriannuel de la DINUM au format PDF](https://www.numerique.gouv.fr/uploads/DINUM_SchemaPluriannuel_2020.pdf).
 
 Cette déclaration d’accessibilité s’applique à beta.gouv.fr.
 
