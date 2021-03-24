@@ -24,7 +24,6 @@ Cette phase s’achève par un comité où l’administration porteuse prend la 
 
 Depuis septembre 2020, une équipe spécialisée dans les enjeux de croissance de services numériques est mobilisée par beta.gouv.fr pour apporter un accompagnement ciblé lors la phase d'accélération. Il s'agit d'un programme de 4 à 6 mois qui accompagne 3 équipes par saison et dont les conditions d'éligibilité sont les suivantes : 
 - Faire partie du programme beta.gouv.fr ;
-- Être en phase d'accélération ;
 - Avoir atteint l'adéquation de son produit avec son marché ;
 - Avoir identifié une mesure d'impact suivie avec les sponsors ;
 - Avoir une équipe organisée pour porter la croissance.
@@ -36,7 +35,7 @@ La sélection de la Saison 1 de Gamma a eu lieu en septembre 2020. Les équipes 
 - [Aides Territoires](https://beta.gouv.fr/startups/aides-territoires.html)
 - [Mon Entreprise](https://beta.gouv.fr/startups/mon-entreprise.html)
 
-La sélection de la Saison 2 de Gamma est ouverte jusqu'au 31 mars 2021. Les candidatures se font en transmettant un mail à gamma@beta.gouv.fr. 
+La sélection de la Saison 2 de Gamma est ouverte jusqu’au 31 mars 2021. Les candidatures se font en écrivant un mail à gamma@beta.gouv.fr pour fixer un entretien.
 
 Pour contacter l'équipe Gamma : gamma@beta.gouv.fr.
 
