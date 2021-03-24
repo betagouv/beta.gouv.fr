@@ -13,10 +13,10 @@ missions:
     employer: dinum
 startups:
   - aplus
-  - e-controle
 previously:
   - signalement
   - plante-et-moi
+  - e-controle
 badges:
   - segur
 ---
