@@ -1,5 +1,5 @@
 ---
-title: Écosanté
+title: Recosanté
 mission: Réduire l’exposition aux facteurs environnementaux nocifs pour la santé
 owner: Ministère de la Santé - Ministère de la Transition Écologique et Solidaire
 sponsors:
@@ -8,10 +8,10 @@ sponsors:
       domaine_ministeriel: affaires-sociales
       type: administration-centrale
 incubator: dinum
-link: https://ecosante.beta.gouv.fr/
-repository: https://github.com/betagouv/ecosante/
-contact: ecosante@data.gouv.fr
-stats_url: https://ecosante.beta.gouv.fr/stats/
+link: https://recosante.beta.gouv.fr/
+repository: https://github.com/betagouv/recosante/
+contact: contact@recosante.beta.gouv.fr
+stats_url: https://recosante.beta.gouv.fr/stats/
 stats: false
 phases:
   - name: investigation
@@ -19,7 +19,7 @@ phases:
     end: 2020-01-30
   - name: construction
     start: 2020-03-27
-    end: 2020-10-22
+    end: 2021-06-30
 ---
 
 ## Contexte
@@ -46,7 +46,7 @@ C'est dans ce contexte qu'est née l'équipe Ecosanté !
 
 ### Focus sur une thématique
 
-Les enjeux santé-environnement regroupent de nombreux sujets. L'équipe a donc choisi de commencer par l'un d'entre eux : la qualité de l'air. 
+Les enjeux santé-environnement regroupent de nombreux sujets. L'équipe a donc choisi de commencer par la pollution de l'air, un sujet grandissant auprès de la population française. 
 
 ### Partir du problème
 
@@ -60,16 +60,28 @@ C'est auprès des personnes sensibles, et notamment atteintes de pathologies res
 
 ### Tester des solutions
 
-Afin de trouver la meilleure solution à ce problème, nous testons plusieurs format et contenu auprès d'utilisateurs testeurs. 
+Afin de trouver la meilleure solution à ce problème, nous avons testé plusieurs format et retenu celui de la lettre d'information par mail. Les personnes utilisatrices de Recosanté reçoivent tous les matin le mail Recosanté.  
 
-L'objectif est de co-construire l'outil Ecosanté avec des personnes concernées. 
+L'objectif est de co-construire le service à partir des retours des personnes inscrites. 
 
-Pour devenir testeur, c'est [ici](https://ecosante.beta.gouv.fr/). 
+
+## Le produit numérique
+
+Ecosanté est une lettre d’information numérique, qui propose des recommandations personnalisées aux citoyens en fonction de la qualité de l’air, des épisodes de pollution et du risque pollinique.
+
+Les données utilisées sont :
+- L'indice national de qualité de l'air ATMO, mesuré par les Associations Agréées de Surveillance de la Qualité de l'Air. 
+- Le risque d'allergie d'exposition aux pollens, mesuré par le Réseau National de Surveillance Aérobiologique 
+
+L’ensemble des recommandations diffusées sont issues de sources officielles telles que le ministère des Solidarités et de la Santé, l’ADEME, l’OQAI, le RNSA, etc. Par ailleurs, nous travaillons déjà avec des associations, dont Santé respiratoire France, et des médecins pour diffuser cette lettre d’information.
+
+Pour tester le service Recosanté, c'est [ici](https://recosante.beta.gouv.fr/). 
 
 
 ## Calendrier
 
 * JANVIER 2020 : phase d'investigation
 * AVRIL 2020 : recrutement de l'équipe
-* JUILLET 2020 : début de la phase de test
-* OCTOBRE 2020 : deuxième comité d'investissement
+* JUILLET 2020 : première phase de construction 
+* OCTOBRE 2020 : comité d'investissement
+* NOVEMBRE 2020 : deuxième phase de construction
