@@ -28,6 +28,7 @@ Depuis septembre 2020, une équipe spécialisée dans les enjeux de croissance d
 - Avoir atteint l'adéquation de son produit avec son marché ;
 - Avoir identifié une mesure d'impact suivie avec les sponsors ;
 - Avoir une équipe organisée pour porter la croissance.
+
 A chaque promotion, les équipes volontaires peuvent se manifester auprès de l'équipe Gamma et passent des entretiens qui déterminent si le programme est bien adapté au produit.
 
 La sélection de la Saison 1 de Gamma a eu lieu en septembre 2020. Les équipes accompagnées entre octobre 2020 et mars 2021 sont : 
