@@ -1,5 +1,5 @@
 ---
-title: Investigation sur le non-recours au service public de l'insertion et de l'emploi 
+title: Non-recours au service public de l'insertion et de l'emploi 
 mission: Faciliter l'accès des personnes dites "invisibles" aux dispositifs d'accompagnement vers l'emploi
 incubator: dinum
 phases:
@@ -13,6 +13,7 @@ contact: stephane.coillard@beta.gouv.fr
 ---
 
 ## Problème investigué :
+
 Il existe une diversité de dispositifs pour les personnes en matière d’accompagnement social et professionnel pour un parcours vers l’emploi, dont certains sont spécifiques à des publics (jeunes, allocataires du RSA, etc.).
 
 Une partie de la population qui rencontre des difficultés sociales et professionnelles (parfois appelée « invisible ») n’a pas accès à l’offre d’accompagnement et ce pour plusieurs raisons : 
