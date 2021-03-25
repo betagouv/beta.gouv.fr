@@ -7,7 +7,7 @@ missions:
     status: admin
     employer: pole-emploi
 startups:
-    - la-bonne-formation
+    - _la-bonne-formation_
     - apprentissage
 ---
 
