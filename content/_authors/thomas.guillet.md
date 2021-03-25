@@ -20,6 +20,7 @@ missions:
     status: independent
 startups:
   - data.insertion
+  - aides-jeunes
   - lapins
 previously:
   - mes-aides

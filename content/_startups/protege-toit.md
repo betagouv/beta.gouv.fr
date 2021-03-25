@@ -7,7 +7,7 @@ sponsors:
       acronym:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
-incubator: preincubation
+incubator: anct
 phases:
   - name: investigation
     start: 2019-12-01

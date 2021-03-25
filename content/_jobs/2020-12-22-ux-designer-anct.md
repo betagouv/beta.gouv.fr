@@ -8,7 +8,7 @@ type: 'friend'
 externalURL: https://incubateur.anct.gouv.fr/recrutements/incubateur-des-territoires-ux-designer-senior/
 post_ouvert: 2020-12-22
 poste_ferme: 2021-02-01
-contact: incubateur@anct.gouv.fr
+contact: contactincubateur@anct.gouv.fr
 status: open
 poste_pourvu: false
 open: false
