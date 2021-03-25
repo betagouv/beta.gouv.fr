@@ -19,7 +19,7 @@ phases:
 link:
 repository: https://github.com/betagouv/zam
 stats: false
-contact: contact@zam.beta.gouv.fr
+contact: contact@beta.gouv.fr
 techno:
     - Python
     - PostgreSQL
