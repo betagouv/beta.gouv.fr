@@ -6,11 +6,11 @@ missions:
   - start: 2018-02-01
     end: 2020-12-31
     status: admin 
-  - start: 2021-01-01
-    end: 2021-12-31
+  - start: 2021-04-01
+    end: 2021-09-30
     status: independent
 startups:
-- eva
+  - eva
 previously:
-- avril
+  - avril
 ---
