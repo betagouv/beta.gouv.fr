@@ -23,4 +23,4 @@ Toutefois une partie des publics rencontrant des difficultés sociales et profes
 Le risque en termes de politique publique est que ces personnes les plus précaires, pour lesquelles les dispositifs d’accompagnement ont été conçus, n’y aient pas recours.
 Enfin, les structures qui interviennent auprès des personnes font part de situations d’abandon en cours de parcours d’accompagnement. Elles signalent l’enjeu de soutenir la mobilisation des personnes dans leur parcours et d’assurer un suivi dans la durée pour conserver le contact et pouvoir reprendre le parcours vers l’emploi, après une éventuelle interruption.
 
-La question se pose de savoir comment identifier ce public dit « invisible », le remobiliser, faciliter et inscrire dans la durée son accès aux aides et dispositifs d’accompagnement à visée d’emploi.
+La question se pose de savoir comment identifier ce public dit qui n'a pas recours au dispositif d'insertion pour l'emploi, le remobiliser, faciliter et inscrire dans la durée son accès aux aides et dispositifs d’accompagnement à visée d’emploi.
