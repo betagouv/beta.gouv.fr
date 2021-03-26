@@ -11,6 +11,7 @@ missions:
 startups:
   - zero-logement-vacant
 previously:
+  - mission-transition
   - domifa
   - tremplin
   - conseau
