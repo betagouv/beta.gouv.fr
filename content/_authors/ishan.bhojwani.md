@@ -20,7 +20,7 @@ startups:
     - datagir
     - egalim
     - ecosante
-    - friches
+    - urbanvitaliz
     - cartobio
     - peps
     - tutorat_fp
