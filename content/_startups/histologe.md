@@ -1,6 +1,6 @@
 ---
 title: Histologe
-mission: Faciliter le signalement et accélérer la prise en charge du "mal logement" 
+mission: Faciliter le signalement et accélérer la prise en charge du « mal logement »
 owner: Agglomération de Pau Béarn Pyrénées
 incubator: anct
 sponsors: 
