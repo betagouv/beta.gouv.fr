@@ -20,6 +20,8 @@ phases:
   - name: construction
     start: 2020-03-27
     end: 2021-06-30
+redirect_from:
+  - /startups/ecosante
 ---
 
 ## Contexte

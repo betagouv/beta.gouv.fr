@@ -11,5 +11,5 @@ startups:
   - _openfisca_
   - leximpact
   - camino
-  - aides-jeunes
+  - aides.jeunes
 ---
