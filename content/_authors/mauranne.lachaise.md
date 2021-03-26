@@ -7,5 +7,5 @@ missions:
     status: admin
     employer: Ministère de la Santé
 startups:
-    - ecosante
+    - recosante
 ---

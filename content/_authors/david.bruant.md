@@ -17,5 +17,5 @@ startups: # ta ou tes startups actuelles
     - comobi
 previously: # ta ou tes anciennes startups
     - lotocar
-    - ecosante
+    - recosante
 ---
