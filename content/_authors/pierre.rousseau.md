@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: scopyleft
 startups:
-  - ecosante
+  - recosante
 badges:
   - segur
 ---
