@@ -9,7 +9,8 @@ missions:
     employer: octo
 startups:
   - workinfrance
-  - domifa
   - didoc
   - archifiltre
+previously:
+  - domifa
 ---
