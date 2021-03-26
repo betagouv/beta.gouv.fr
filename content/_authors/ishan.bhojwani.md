@@ -19,8 +19,8 @@ startups:
     - preuve-de-covoiturage
     - datagir
     - egalim
-    - ecosante
-    - friches
+    - recosante
+    - urbanvitaliz
     - cartobio
     - peps
     - tutorat_fp
