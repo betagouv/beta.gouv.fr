@@ -9,9 +9,9 @@ missions:
     status: service
     employer: NUMA
 startups:
-  - france-transition-ecologique
   - zero-logement-vacant
 previously:
+  - mission-transition
   - domifa
   - tremplin
   - conseau
