@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: DINUM
 startups: 
-  - aides-jeunes
+  - aides.jeunes
 badges:
   - segur
 ---
