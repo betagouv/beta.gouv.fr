@@ -12,6 +12,7 @@ startups:
   - data.insertion
   - investigation.carnet.de.bord
   - investigation.offre.dinsertion
+  - aides-jeunes
 previously:
   - avril
   - la-bonne-formation
