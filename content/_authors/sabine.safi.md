@@ -7,15 +7,16 @@ missions:
     end: 2021-12-31
     status: independent
 startups:
-    - friches
+    - urbanvitaliz
     - comobi
-    - tout-est-permis
-    - innovation-urbaine
+    - eva
 previously:
     - transport
     - cartobio
     - participation-citoyenne
     - auto-partage
+    - tout-est-permis
+    - innovation-urbaine
 badges:
     - segur
 ---
