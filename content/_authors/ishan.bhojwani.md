@@ -19,7 +19,7 @@ startups:
     - preuve-de-covoiturage
     - datagir
     - egalim
-    - ecosante
+    - recosante
     - urbanvitaliz
     - cartobio
     - peps

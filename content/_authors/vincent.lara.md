@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Codeurs en Liberté
 startups:
-    - ecosante
+    - recosante
 previously: 
     - le-taxi
     - transport

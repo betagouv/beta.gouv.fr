@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: numa
 startups:
-    - ecosante
+    - recosante
 badges: 
     - segur
 ---

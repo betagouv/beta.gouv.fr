@@ -7,5 +7,5 @@ missions:
     status: admin
     employer: MTES
 startups:
-    - ecosante
+    - recosante
 ---
