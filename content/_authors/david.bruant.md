@@ -13,7 +13,7 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     status: independent
     employer: Scopyleft
 startups: # ta ou tes startups actuelles
-    - friches
+    - urbanvitaliz
     - comobi
 previously: # ta ou tes anciennes startups
     - lotocar

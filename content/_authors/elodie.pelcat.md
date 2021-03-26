@@ -8,9 +8,9 @@ missions:
     end: 2021-12-31
     status: independent
 startups:
-  - friches
+  - urbanvitaliz
 badges:
   - segur
 ---
 
-Développeuse, avec une pratique dans les neuroScience appliquées. 
+Développeuse, avec une pratique dans les neuroSciences appliquées. 
