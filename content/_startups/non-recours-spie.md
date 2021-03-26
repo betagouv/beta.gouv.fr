@@ -1,6 +1,6 @@
 ---
 title: Non-recours au service public de l'insertion et de l'emploi 
-mission: Faciliter l'accès des personnes dites "invisibles" aux dispositifs d'accompagnement vers l'emploi
+mission: Faciliter l'accès des personnes dites 'invisibles' aux dispositifs d'accompagnement vers l'emploi
 incubator: dinum
 phases:
   - name: investigation
