@@ -12,6 +12,8 @@ phases:
     end: 2021-06-30
 link: 
 repository:
+redirect_from:
+  - /startups/france-transition-ecologique
 stats: false
 contact: france-transition@beta.gouv.fr
 ---
