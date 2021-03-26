@@ -4,6 +4,9 @@ mission: Faciliter la transition écologique des PME-ETI
 owner: Commissariat général au développement durable (CGDD)
 incubator: mtes
 phases:
+  - name: investigation
+    start: 2020-09-01
+    end: 2021-01-01
   - name: construction
     start: 2021-01-01
     end: 2021-06-30
