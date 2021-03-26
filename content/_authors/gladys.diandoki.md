@@ -11,4 +11,4 @@ badges:
   - segur
 ---
 
-Je suis UX Writer et Content Designer. Auparavant, j'ai été attachée de presse dans le secteur des nouvelles technologies. Aujourd'hui, j'utilise mes compétences pour concevoir des produits.
+Je suis UX Writer et Content Designer au sein de l’équipe de Designers Transverses.
