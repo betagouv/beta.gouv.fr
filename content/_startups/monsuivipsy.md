@@ -5,6 +5,8 @@ owner: Agence Régionale de Santé Ile-de-France
 incubator: sgmas
 link: https://monsuivipsy.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/monsuivipsy
+stats: true
+stats_url: https://matomo.fabrique.social.gouv.fr/index.php?module=CoreHome&action=index&idSite=37&period=day&date=today
 contact: monsuivipsy@fabrique.social.gouv.fr
 phases:
   - name: investigation

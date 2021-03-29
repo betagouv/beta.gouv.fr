@@ -9,7 +9,7 @@ missions:
     employer: Octo
 startups:
   - datagir
-  - ecosante
+  - recosante
 badges:
   - segur
 ---

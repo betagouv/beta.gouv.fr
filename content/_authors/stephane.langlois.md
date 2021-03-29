@@ -13,7 +13,7 @@ startups:
   - labels-transition 
   - ma-cantine-egalim
 previously:
-  - ecosante
+  - recosante
   - dossierSCO
   - classeà12 
   - lotocar
