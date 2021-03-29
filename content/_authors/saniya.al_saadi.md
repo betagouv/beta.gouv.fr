@@ -11,6 +11,7 @@ startups:
   - workinfrance
   - didoc
   - archifiltre
+  - medle
 previously:
   - domifa
 ---
