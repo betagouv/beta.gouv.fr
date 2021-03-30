@@ -7,6 +7,8 @@ missions:
     end: 2021-07-02
     status: admin
     employer: DINUM
+startups:
+  - chèquespsy
 ---
 
 Ingénieur de données inspiré par les travaux de Martin Kleppmann tout comme ceux du GIEC
