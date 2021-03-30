@@ -13,7 +13,7 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - friches
+  - urbanvitaliz
 previously:
   - andi
 badges:
