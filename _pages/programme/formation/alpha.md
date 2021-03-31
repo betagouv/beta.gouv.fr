@@ -6,14 +6,14 @@ additional_css:
   - side-panel.css
   
 # Dates de la prochaine formation
-alpha-start: 2021-04-08
-alpha-end: 2021-04-08
+alpha-start: 2021-05-06
+alpha-end: 2021-05-06
 alpha-time: de 9h30 à 17h30
 alpha-location: en visio
 alpha-location-link:
 alpha-catering:
 alpha-more:
-alpha-link: https://startupdetat.typeform.com/to/LqIYCdp7
+alpha-link: https://startupdetat.typeform.com/to/puiaatGh
 redirect_from:
   - /alpha
 ---
@@ -28,27 +28,31 @@ La formation se déroule sur une journée au cours de laquelle vous apprendrez �
 
 <img src="https://raw.githubusercontent.com/betagouv/beta.gouv.fr/master/img/alpha/alpha-first-session.jpg" alt="Images des précédentes formations" style="width: 100%;">
 
-**Programme type**
+**Le programme de la journée** 
 
-- 09h30 : Accueil 
-- 09h45 : Introduction + tour de table et présentation du déroulé de la matinée
-- 10h00 - 10h45 : Le quiz spécial beta.gouv.fr 
-- 10h45 - 11h30 : Présentation et exercices “C’est quoi un bon problème !?! »
-- 10h30 - 11h45 : Témoignage d’intrapreneur
-- 11h45 - 12h : Q&R et présentation du déroulé de l’après-midi
- 
-- 12h00 : Pause déjeuner 
- 
-- 14h00 - 16hOO : Session coaching en sous-groupes sous le format co-dev 
-- 16h10 - 17h25 : Session pitch et échanges sur les travaux d'équipes
-- 17h30 : Fin de la formation
+* 09h30 : Introduction + présentation du déroulé de la matinée
+* 9h45-10h15 : Le quiz spécial beta.gouv.fr
+--- Pause---
+* 10h20 - 11h05 : Présentation et exercices “C’est quoi un bon problème !?! »
+---Pause---
+* 11h15 -11h45 : Témoignage d’intrapreneur.se
+* 11h45h - 12h00 : Présentation générale des incubateurs
+* 12h00 - 12h15 : Q&R et présentation du déroulé de l’après-midi
+
+---Pause déjeuner---
+
+* 13h45 - 16h00 : Ateliers de codev en sous-groupes
+---Pause---
+* 16h10 - 17h25 : Pitch et échanges sur les travaux des équipes
+* 17h25 : le feedback et fin de la formation
+______ Fin à 17h30  _______
 
 **Prochaine session**
-La session du 4 mars est complète !
+La session du 8 avril est complète !
 
-La prochaine session aura lieu le **jeudi 8 avril 2021**.
+La prochaine session aura lieu le **jeudi 6 mai 2021**.
 
-Vous pouvez vous inscrire [via ce formulaire](https://startupdetat.typeform.com/to/LqIYCdp7).
+Vous pouvez vous inscrire [via ce formulaire](https://startupdetat.typeform.com/to/puiaatGh).
 
 Pour plus d’information écrivez-nous à alpha@beta.gouv.fr.
 
