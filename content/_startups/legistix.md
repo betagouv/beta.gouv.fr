@@ -15,7 +15,7 @@ phases:
 link: 
 repository: 
 stats: true
-contact: 
+contact: amd@finances.gouv.fr
 techno:
   - PostgreSQL
   - Angular
