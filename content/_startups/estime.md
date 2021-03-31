@@ -10,7 +10,7 @@ sponsors:
     type: operateur
 incubator: pole-emploi
 link: https://estime.pole-emploi.fr/
-contact: juliette.fracchiolla-hurstel@pole-emploi.fr
+contact: estime@pole-emploi.fr
 events:
   - name: product_launch
     date: 2021-01-07
@@ -26,6 +26,7 @@ phases:
   - name: acceleration
     start: 2020-09-01
     end: 2021-01-20
+repository: https://github.com/StartupsPoleEmploi/estime-frontend
 ---
 **Problème** 
 
