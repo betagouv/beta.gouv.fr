@@ -4,6 +4,7 @@ mission: Faciliter l'optimisation de l'affectation des ressources en fonction
   des besoins de justice.
 owner: Inspection Générale de la Justice - Ministère de la Justice
 incubator: dinum
+contact: contact@a-just.fr
 events: []
 phases:
   - name: investigation
