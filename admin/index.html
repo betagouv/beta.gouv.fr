@@ -65,6 +65,11 @@
 
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
+  <script>
+      if(document.location.href.endsWith("/admin")) {
+            window.location.href = "/admin/";   
+      }
+  </script>
   <script src="https://unpkg.com/netlify-cms/dist/netlify-cms.js"></script>
   <script type="text/javascript">
     var oldHref = document.location.href;
