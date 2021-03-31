@@ -8,9 +8,9 @@ missions:
     end: 2021-05-31
     start: 2019-03-11
     status: independent
-startups: []
-previously:
+startups:
   - medle
+previously:
   - signalement
 ---
 Combat les dragons à coup de pixels!

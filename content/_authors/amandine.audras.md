@@ -15,7 +15,7 @@ missions:
 startups:
   - api.gouv.fr
   - datapass
-  - aides-jeunes
+  - aides.jeunes
 previously:
   - _openfisca_
 ---
