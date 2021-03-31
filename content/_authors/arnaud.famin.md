@@ -1,0 +1,15 @@
+---
+fullname: Arnaud Famin
+role: Aide de camp
+github: 
+avatar: /img/authors/arnaud.famin.jpg
+missions:
+  - start: 2019-03-01
+    end: 2021-05-01
+    status: admin
+    employer: SG
+startups:
+    - cyberbudget
+---
+
+Conseils et expertise
