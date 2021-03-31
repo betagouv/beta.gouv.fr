@@ -9,12 +9,12 @@ phases:
   - name: construction
     start: 2020-03-01
   - name: acceleration
-    start: 
+    start: 2021-07-01
   - name: transfer
-    start: 
+    start: 2021-12-01
 link: 
 repository: 
-stats: true
+stats: false
 contact: amd@finances.gouv.fr
 techno:
   - PostgreSQL
