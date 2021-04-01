@@ -18,7 +18,6 @@ phases:
     start: 2019-01-01
   - name: alumni
     start: 2019-12-01
-link: https://traitdunion.beta.gouv.fr
 repository: https://github.com/betagouv/trait-d-union
 stats: true
 contact: contact@traitdunion.beta.gouv.fr
