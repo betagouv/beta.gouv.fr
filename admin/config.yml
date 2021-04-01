@@ -131,7 +131,7 @@ collections:
         name: contact
         widget: string
         pattern: ['^[^@\s]+@[^@\s]+\.[^@\s]+$', 'Ce doit être un email valide']
-        required: false
+        required: true
       - label: Statistiques d'usage publiques
         name: stats
         widget: boolean
