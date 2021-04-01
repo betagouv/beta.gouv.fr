@@ -3,7 +3,6 @@ roles: Développeur ou développeuse fullstack
 title: Santé Psy Etudiant recrute deux devs fullstack
 contrat: indépendant
 startup: chèquespsy
-contact: contact-santepsyetudiants@beta.gouv.fr
 open: true
 techno: NodeJs - Express - EJS - PostgreSQL - JavaScript - Scalingo
 ---
@@ -73,4 +72,8 @@ Pas besoin d'expertise en tout : on a deux postes ouverts, donc on peut trouver 
  - Temps de travail : 3 à 5 jours / semaine
  - Démarrage en avril 2021
  - Télétravail et/ou possibilité de travailler à la DINUM et/ ou MESRI (hors période confinement)
+
+## Contactez-nous pour postuler !
+contact-santepsyetudiants@beta.gouv.fr
+
 
