@@ -1,5 +1,5 @@
 ---
-fullname: Caroline-Lucile Didier
+fullname: Caroline Didier
 role: Intrapreneure
 missions:
   - start: 2021-02-25
