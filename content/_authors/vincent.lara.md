@@ -4,11 +4,11 @@ role: Développeur
 link: https://github.com/l-vincent-l
 missions:
   - start: 2015-03-15
-    end: 2021-04-01
+    end: 2021-06-30
     status: independent
     employer: Codeurs en Liberté
 startups:
-    - ecosante
+    - recosante
 previously: 
     - le-taxi
     - transport

@@ -11,7 +11,8 @@ missions:
     employer: DINUM
     start: 2021-01-04
     end: 2021-07-03
-startups: []
+startups:
+  - chèquespsy
 previously:
   - signalement
 badges:

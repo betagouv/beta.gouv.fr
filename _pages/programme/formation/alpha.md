@@ -28,26 +28,24 @@ La formation se déroule sur une journée au cours de laquelle vous apprendrez �
 
 <img src="https://raw.githubusercontent.com/betagouv/beta.gouv.fr/master/img/alpha/alpha-first-session.jpg" alt="Images des précédentes formations" style="width: 100%;">
 
-**Programme type**
+**Le programme de la journée** 
 
-- 09h30 : Introduction + présentation du déroulé de la matinée
-- 9h45-10h15 : Quiz beta.gouv.fr
---- Pause ---
-- 10h20 - 11h05 : Présentation et exercices “C’est quoi un bon problème !?! »
---- Pause ---
-- 11h15 -11h45 : Témoignage d’intrapreneur.se
-- 11h45h - 12h00 : Présentation générale des incubateurs
-- 12h00 - 12h15 : Q&R et présentation du déroulé de l’après-midi
+* 09h30 : Introduction + présentation du déroulé de la matinée
+* 9h45-10h15 : Le quiz spécial beta.gouv.fr
+--- Pause---
+* 10h20 - 11h05 : Présentation et exercices “C’est quoi un bon problème !?! »
+---Pause---
+* 11h15 -11h45 : Témoignage d’intrapreneur.se
+* 11h45h - 12h00 : Présentation générale des incubateurs
+* 12h00 - 12h15 : Q&R et présentation du déroulé de l’après-midi
 
 ---Pause déjeuner---
 
-- 13h45 - 16h00 : Ateliers de codev en sous-groupes
---- Pause ---
-- 16h10 - 17h25 : Pitch et échanges sur les travaux des équipes
-- 17h25 : Feedback et fin de la formation
-
-_____ Fin à 17h30  ______
-
+* 13h45 - 16h00 : Ateliers de codev en sous-groupes
+---Pause---
+* 16h10 - 17h25 : Pitch et échanges sur les travaux des équipes
+* 17h25 : le feedback et fin de la formation
+______ Fin à 17h30  _______
 
 **Prochaine session**
 La session du 8 avril est complète !

@@ -7,6 +7,6 @@ missions:
     status: independent
     employer: LaZone
 startups:
-    - ecosante
+    - recosante
     - labels-transition
 ---
