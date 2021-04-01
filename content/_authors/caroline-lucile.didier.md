@@ -8,6 +8,5 @@ missions:
     employer: Ministère de la Justice
 startups:
   - article.40
-previously:
-  - rdv.consulat
+previously: []
 ---
