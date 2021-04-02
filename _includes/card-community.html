@@ -33,8 +33,8 @@
         {{ author.role }}
       {%- endif -%}
     </p>
-    {%- if author.raw_content -%}
-    <p class="rf-card__desc">{{ author.raw_content }}</p>
+    {%- if author.content -%}
+    <p class="rf-card__desc">{{ author.content | strip_html }}</p>
     {%- endif -%}
 
 
