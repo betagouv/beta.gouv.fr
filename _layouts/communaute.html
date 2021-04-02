@@ -9,7 +9,7 @@ layout: default
   {%- include hero-page.html title=page.title -%}
   {%- assign current = site.authors | community: 'current' -%}
   <section class="section section-white">
-    <div class="container">
+    <div class="rf-container">
       <h3>Évolution des effectifs</h3>
       <div id="chart-wrapper">
           <canvas>
@@ -17,7 +17,7 @@ layout: default
           </canvas>
       </div>
     </div>
-    <div class="container">
+    <div class="rf-container">
       <div class="richtext">
       {{ content }}
       </div>

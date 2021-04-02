@@ -39,11 +39,11 @@ include: [
 exclude: ["content/templates", "CONTRIBUTING.md", "rb", "vendor"]
 
 copy_to_dest:
-  - source: node_modules/@gouvfr/all/dist/css/.
+  - source: node_modules/@gouvfr/dsfr/dist/css/.
     target: assets/gouvfr/css/
-  - source: node_modules/@gouvfr/all/dist/fonts/.
+  - source: node_modules/@gouvfr/dsfr/dist/fonts/.
     target: assets/gouvfr/fonts/
-  - source: node_modules/@gouvfr/all/dist/js/.
+  - source: node_modules/@gouvfr/dsfr/dist/js/.
     target: assets/gouvfr/js/
 
 sass:
