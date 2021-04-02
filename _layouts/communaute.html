@@ -24,24 +24,32 @@ layout: default
     </div>
   </section>
   <section class="section section-grey">
-    <div class="container community">
-      <h2>Les membres actifs</h2>
-      <div class="grid">
-        {%- for author in current -%}
-          {%- include card-community.html author=author -%}
-        {%- endfor -%}
+    <div class="rf-container rf-py-6w rf-px-2w">
+      <div class="rf-container-fluid rf-my-6w">
+        <h2>Les membres actifs</h2>
+        <div class="rf-grid-row rf-grid-row--gutters">
+          {%- for author in current -%}
+          <div class="rf-col-12 rf-col-md-3">
+            {%- include card-community.html author=author -%}
+          </div>
+          {%- endfor -%}
+        </div>
       </div>
     </div>
   </section>
 
   <section class="section section-white">
-    <div class="container community alumni">
-      <h2>Les anciennes et les anciens</h2>
-      <div class="grid">
-        {%- assign alumnis = site.authors | community: 'past' -%}
-        {%- for author in alumnis -%}
-          {%- include card-community.html author=author -%}
-        {%- endfor -%}
+    <div class="rf-container rf-py-6w rf-px-2w">
+      <div class="rf-container-fluid rf-my-6w">
+        <h2>Les anciennes et les anciens</h2>
+        <div class="rf-grid-row rf-grid-row--gutters">
+          {%- assign alumnis = site.authors | community: 'past' -%}
+          {%- for author in alumnis -%}
+            <div class="rf-col-12 rf-col-md-3">
+              {%- include card-community.html author=author -%}
+            </div>
+          {%- endfor -%}
+        </div>
       </div>
     </div>
   </section>
