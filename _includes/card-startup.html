@@ -3,19 +3,19 @@
   Ex : {% include card-startup.html startup = startup %}
 {% endcomment %}
 
-<div class="card">
-  <a href="{{ startup.url }}">
-    <div class="card__cover">
+<div class="rf-col-12 rf-col-md-3">
+  <div class="rf-card rf-enlarge-link">
+    <div class="rf-card__img">
       {% include screenshot.html startup=startup force=true %}
     </div>
-    <div class="card__content">
-      <h3 class="startup__title">{{ startup.title | strip_html }}</h3>
-      <div class="card__meta">
-        {{ startup.owner | strip_html }}
-      </div>
-      <p>
-        {{ startup.mission | strip_html }}
-      </p>
+
+    <div class="rf-card__body">
+      <h4 class="rf-card__title">
+        <a class="rf-card__link" href="{{ startup.url }}" target="\_blank" rel="noopener">{{ startup.title | strip_html }}</a>
+      </h4>
+
+      <p class="rf-card__detail">{{ startup.owner | strip_html }}</p>
+      <p class="rf-card__desc">{{ startup.mission | strip_html }}</p>
     </div>
-  </a>
+  </div>
 </div>
