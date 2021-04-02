@@ -11,5 +11,5 @@ startups:
   - metiis
   - anais
   - sepia
-  - fabrique-chatbots
+  - usine-chatbots
 ---

@@ -9,7 +9,6 @@ missions:
 startups:
     - la-bonne-boite
     - la-bonne-alternance
-    - jepostule
     - apprentissage
 ---
 

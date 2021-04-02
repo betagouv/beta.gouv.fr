@@ -15,4 +15,4 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     employer: ANCT # si applicable, le nom de ton administration, SSII, etc.
 ---
 
-Ancien de [NYC Planning Labs](https://labs.planning.nyc.gov/), [Code for America Brigade](https://brigade.codeforamerica.org/). 🇫🇷🇺🇸
+Ancien de NYC Planning Labs, Code for America Brigade. 🇫🇷🇺🇸
