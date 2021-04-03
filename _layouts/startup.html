@@ -19,7 +19,7 @@ layout: default
     <div class="rf-container">
       {% include screenshot.html startup=page %}
 
-      <div class="text-quote">
+      <div class="rf-highlight">
         <ul>
           <li>
             Les statistiques d'usage
@@ -48,7 +48,7 @@ layout: default
           {% comment %} Détection de l'incubateur {% endcomment %}
           {% capture incubator_id %}/incubators/{{ page.incubator }}{% endcapture %}
           {% assign incubator = site.incubators | where:'id', incubator_id | first %}
-          <li>L'incubateur est <a href="{{ incubator.url }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.</li>
+          <li>L'incubateur est <a href="/startups/?incubateur={{ incubator_id | remove: '/incubators/' }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.</li>
           <li>
             {% if page.contact %}
               <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.

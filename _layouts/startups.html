@@ -59,7 +59,7 @@ layout: default
         {% for incubator in incubators %} {
         id: "{{incubator.id}}".replace('/incubators/', ''),
         title: "{{incubator.title}}",
-        url: "{{incubator.url}}"
+        url: "/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}"
         },
         {% endfor %}
     ];

@@ -5,7 +5,7 @@
 
 <div class="card">
     <div class="card__content">
-      <a href="{{ incubator.url }}">
+      <a href="/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}">
         <h3>{{ incubator.title }}</h3>
       </a>
       <div>
