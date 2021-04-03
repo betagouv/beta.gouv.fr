@@ -1,21 +1,3 @@
-/* Modifications du style pour faciliter la lecture */
-
-.richtext {
-  font-size: 1.125em;
-}
-
-.richtext h1 {
-  font-size: 2.25em;
-}
-
-.richtext h2 {
-  font-size: 1.75em;
-}
-
-.richtext h3 {
-  font-size: 1.5em;
-}
-
 /* Augmenter la taille de la colonne visible pour les articles */
 
 .article__container {
@@ -164,7 +146,7 @@ h2.phase-title em {
   background-color: var(--bd300);
 }
 
-.filters .container {
+.filters .rf-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 1em;
@@ -183,7 +165,7 @@ h2.phase-title em {
 }
 
 @media (max-width: 1200px) {
-  .filters .container {
+  .filters .rf-container {
     grid-template-columns: repeat(3, 1fr);
   }
   
@@ -197,7 +179,7 @@ h2.phase-title em {
     display: none;
   }
 
-  .filters .container {
+  .filters .rf-container {
     grid-template-columns: auto;
     grid-template-rows: auto;
   }

@@ -21,7 +21,7 @@ layout: default
             {% else %}
             {% assign screenshot_path = "/img/logo-generique-startup-rectangle-2019.jpg" %}
             {% endif %}
-            {% capture incubator_id %}/approche/incubateurs/{{ startup.incubator }}{% endcapture %}
+            {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
             {% assign incubator = incubators | where:'id', incubator_id | first %}
             { "id"        : "{{ startup.id | remove: '/startups/' }}"
             , "type"      : "startup"
@@ -57,7 +57,7 @@ layout: default
     };
     var incubators = [
         {% for incubator in incubators %} {
-        id: "{{incubator.id}}".replace('/approche/incubateurs/', ''),
+        id: "{{incubator.id}}".replace('/incubators/', ''),
         title: "{{incubator.title}}",
         url: "{{incubator.url}}"
         },
@@ -82,7 +82,7 @@ layout: default
 </script>   
 <main>
     <section class="filters sticky">
-        <div class="container">
+        <div class="rf-container">
             <select class="rf-select" id="select-incubateur">
                 <option value="">Tous les incubateurs</option> 
             </select>
@@ -103,7 +103,7 @@ layout: default
         </div>
     </section>
     {% for incubator in incubators %}
-        {% assign incubator_id = incubator.id | remove: '/approche/incubateurs/' %}
+    {% assign incubator_id = incubator.id | remove: '/incubators/' %}
     <section id="{{ incubator_id }}" class="section incubator-header rf-scheme-soft-blue-soft" style="display: none;">
         <div class="rf-container">
             <div class="rf-grid-row rf-grid-row--gutters">
@@ -116,11 +116,6 @@ layout: default
                         <p class="h1-card__title-subtitle">{{ incubator.owner }}</p>
                         <div class="markdown">{{ incubator.content }}</div>
                     </div>
-                    <a
-                        class="rf-link rf-fi-arrow-right-line rf-link--icon-right"
-                        href="{{ incubator.url }}"
-                        title="{{ incubator.title }}">En Savoir plus
-                    </a>
                 </div>
             </div>
         </div>

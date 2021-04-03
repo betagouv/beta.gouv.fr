@@ -1051,39 +1051,6 @@ fieldset {
   display: block;
 }
 
-/* Allow images legends with the following syntax:
-  ![](path_to_image)
-  *image_caption* */
-.richtext img + em {
-  display: block;
-  text-align: center;
-  margin: 0.3em 0.1em;
-}
-
-/* Disable lists default indentation */
-.richtext ol,
-.richtext ul {
-  margin: 0;
-  padding: 0 0 0 1em;
-}
-
-.richtext li {
-  padding-left: 0.5em;
-}
-
-/* Lighter inline code element */
-.richtext code {
-  padding: 0 0.1em;
-  border-radius: 0.2em;
-}
-
-/* But <pre> block should be spaced */
-.richtext pre {
-  padding: 1em;
-  margin: 0.5em 0;
-  border-radius: 3px;
-  background-color: #ebeff3;
-}
 .documentation {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1666,7 +1633,7 @@ a.label {
   height: 2em;
 }
 
-.rf-nav__item--active>.rf-link {
+.rf-nav__item--active>.rf-nav__link {
   pointer-events: all !important;
 }
 
@@ -1700,4 +1667,9 @@ a.rf-tag.rf-tag--inactive, button.rf-tag.rf-tag--inactive {
 .rf-tags-group a.rf-tag--sm, .rf-tags-group button.rf-tag--sm {
   margin-right: 0.1rem !important;
   margin-bottom: 0.9rem !important;
+}
+
+/* Hack pour garantir qu'un <p> dans un <li> ne s'affiche pas sur la ligne suivant */
+ol li p, ul li p {
+  display: inline;
 }
