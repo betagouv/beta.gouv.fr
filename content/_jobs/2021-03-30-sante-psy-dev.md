@@ -4,7 +4,13 @@ title: Santé Psy Etudiant recrute deux devs fullstack
 contrat: indépendant
 startup: chèquespsy
 open: true
-techno: NodeJs - Express - EJS - PostgreSQL - JavaScript - Scalingo
+techno: 
+ - NodeJs 
+ - Express 
+ - EJS 
+ - PostgreSQL 
+ - JavaScript 
+ - Scalingo
 ---
 
 ## Contexte : beta.gouv.fr
