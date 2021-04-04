@@ -14,7 +14,7 @@ page.lang | default: site.lang | default: "en" %}
     <!-- Content -->
     <div class="rf-col-xs-12 rf-col-md-9">
       <h2>{{ page.title }}</h2>
-      <h3 id="inscription">Prochaine session</h2>
+      <h3 id="inscription">Prochaine session</h3>
       {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %} {%
       capture timestampEnd %}{{ page.alpha-end | date: '%s' }}{% endcapture %}
       {% if timestampNow < timestampEnd %}
