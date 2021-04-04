@@ -42,7 +42,7 @@
               <ul class="rf-sidemenu__list">
                   {% assign fasts = site.fasts | sort: 'order' %}
                   {% for fast-page in fasts %}
-                  <li class="rf-sidemenu__item {% if page.url == fast-page.url %}rf-sidemenu__item--active{% endif %}"">
+                  <li class="rf-sidemenu__item {% if page.url == fast-page.url %}rf-sidemenu__item--active{% endif %}">
                     <a class="rf-sidemenu__link" href="{{ fast-page.url }}" target="_self">{{ fast-page.title }}</a>
                   </li>
                   {% endfor %}
