@@ -31,16 +31,16 @@ layout: default
             </ul>
             <div id="tabpanel-membres" class="rf-tabs__panel rf-tabs__panel--selected" role="tabpanel" aria-labelledby="tabpanel-404" tabindex="0">
                 <div class="rf-grid-row">
-                    <div class="rf-col-9">
+                    <div class="rf-col-12 rf-col-md-9">
                         <h3>Ils nous ont rejoint en {{ site.time | date_to_french_month }} !</h3>
                     </div>
-                    <div class="rf-col-3 link_to_members">
+                    <div class="rf-col-12 rf-col-md-3 link_to_members">
                         <a class="rf-link rf-link__color rf-fi-arrow-right-line rf-link--icon-right" href="/communaute/annuaire">Voir tous les membres</a>
                     </div>
                 </div>
                 <div class="rf-grid-row rf-grid-row--gutters">
                     {%- for author in recent -%}
-                    <div class="rf-col-12 rf-col-md-3">{%- include card-community.html author=author -%}</div>
+                    <div class="rf-col-6 rf-col-md-3">{%- include card-community.html author=author -%}</div>
                     {%- endfor -%}
                 </div>
             </div>
