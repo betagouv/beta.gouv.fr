@@ -1673,3 +1673,23 @@ a.rf-tag.rf-tag--inactive, button.rf-tag.rf-tag--inactive {
 ol li p, ul li p {
   display: inline;
 }
+
+#tabpanel-membres .link_to_members {
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: end;
+}
+
+.rf-tile__img img {
+  width: 100%;
+}
+
+.rf-link__color {
+  background-color: var(--bs500) !important;
+  color: #fff !important;
+}
+
+.rf-link__color:hover {
+  background-color: var(--bd500) !important;
+  color: #fff !important;
+}
