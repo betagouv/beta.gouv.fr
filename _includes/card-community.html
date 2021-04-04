@@ -21,7 +21,7 @@
   <div class="rf-card__body">
     <h4 class="rf-card__title">
         {%- if author.link -%}
-          <a class="rf-card__link" href="{{ author.link }}" target="\_blank" rel="noopener">{{ author.fullname }}</a>
+          <a class="rf-card__link" href="{{ author.link }}" target="_blank" rel="noopener">{{ author.fullname }}</a>
         {%- else -%}
           {{ author.fullname }}
         {%- endif -%}
@@ -99,6 +99,7 @@
         <a href="{{ this_startup.url }}" class="{{ label_class }}" target="_self">{{ this_startup.title }}</a>
       </li>
     {%- endfor -%}
+    </ul>
   {%- endif -%}
   </div>
 
