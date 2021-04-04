@@ -14,7 +14,7 @@
     <p class="rf-card__detail">Offre de {% if job.friend %}{{ job.friend | strip_html }}{% else %}{{ startup.title | default: "beta.gouv.fr" | strip_html}}{% endif %}</p>
     
     <h4 class="rf-card__title">
-      <a class="rf-card__link" href="{{ job.url }}" target="\_blank" rel="noopener">{{ job.roles | capitalize }}</a>
+      <a class="rf-card__link" href="{{ job.url }}">{{ job.roles | capitalize }}</a>
     </h4>
 
     <p class="rf-card__desc">{{ job.excerpt | strip_html | truncate: 260 }}</p>
