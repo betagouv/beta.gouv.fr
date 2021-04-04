@@ -66,7 +66,7 @@
               <ul class="rf-sidemenu__list">
                 {% assign mooc = site.mooc | sort: 'order' %}
                   {% for sequence in mooc %}
-                  <li class="rf-sidemenu__item {% if page.url == sequence.url %}rf-sidemenu__item--active{% endif %}"">
+                  <li class="rf-sidemenu__item {% if page.url == sequence.url %}rf-sidemenu__item--active{% endif %}">
                     <a class="rf-sidemenu__link" href="{{ sequence.url }}" target="_self">{{ sequence.label }}</a>
                   </li>
                   {% endfor %}
