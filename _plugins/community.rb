@@ -33,7 +33,7 @@ module Jekyll
       if sort_by != 'alpha' 
         result.sort_by { |person| person.data['missions']&.map{ |e| e['start'] || Date.today }&.min || Date.today }.reverse
       else
-        result.sort_by { |person| person.fullname }
+        result.sort_by { |person| person.data['fullname'] }
       end
     end
   end
