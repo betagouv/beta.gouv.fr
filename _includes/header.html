@@ -15,22 +15,33 @@
           </a>
         </div>
       </div>
+
+      <div class="rf-header__navbar">
+        <button class="rf-btn--menu rf-btn" data-rf-opened="false" aria-controls="header-navigation" aria-haspopup="menu" title="Ouvrir le menu">
+            Ouvrir le menu
+        </button>
+      </div>
+
+      <div class="rf-header__tools">    
+        <div class="rf-shortcuts">
+          <ul class="rf-shortcuts__list">
+            {% for item in site.data.menu.shortcuts %}
+            <li class="rf-shortcuts__item">
+              <a class="rf-link rf-fi-external-link-line rf-link--icon-right" href="{{ item.url }}" title="{{ item.label }}" target="_blank" rel="noopener">{{ item.label }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
     </div>
 
     <nav class="rf-nav rf-modal" role="navigation" aria-label="Menu principal" id="header-navigation">
       <button class="rf-link--close rf-link" aria-controls="header-navigation">Fermer</button>
       <ul class="rf-nav__list">
         {% for item in site.data.menu.nav %}
-        {% assign target = undefined %}
-        {% if item.target %}
-          {% assign target = site.pages | where:"path",item.target | first %}
-        {% endif %}
+        {% assign target = site.pages | where:"path",item.target | first %}
         <li class="rf-nav__item {% if target and page.url contains target.url %}rf-nav__item--active{% endif %}">
-          {% if item.target %}
             <a class="rf-nav__link" href="{{ target.url }}">{{ item.label }}</a>
-          {% else %}
-            <a href{% if item.url %}="{{ item.url }}"{% endif %} class="rf-nav__link" target="_self">{{ item.label }}</a>
-          {% endif %}
         </li>
         {% endfor %}
       </ul>
