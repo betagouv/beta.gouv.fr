@@ -14,7 +14,7 @@ layout: default
 
 <main>
     <section class="section section-white">
-        <div class="container">
+        <div class="rf-container">
             <div style="text-align: center; margin-bottom: 1em;">
                 <a class="button" href="/api/v1.7/startups.csv">Télécharger au format .csv</a>
             </div>
@@ -44,7 +44,7 @@ layout: default
                                 <td>{{ startup.mission }}</td>
                                 <td>{{ phase.label }}</td>
 
-                                {% capture incubator_id %}/approche/incubateurs/{{ startup.incubator }}{% endcapture %}
+                                {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
                                 {% assign incubator = site.incubators | where:'id', incubator_id | first %}
                                 <td>{{ incubator.title }}</td>
 

@@ -1,28 +1,27 @@
 
 var createStartupCard = function(startup) {
     var card = document.createElement('div');
-    card.className = 'card'
-    card.id = startup.id
+    card.className = 'rf-col-12 rf-col-md-3';
+    card.id = startup.id;
 
     card.innerHTML = `
-        <a href="/startups/${ startup.id }.html">
-            <div class="card__cover">
+        <div class="rf-card rf-enlarge-link">
+            <div class="rf-card__img">
                 <img class="screenshot lozad"
                     data-src="${startup.attributes['screenshot-url']}"
                     title="${startup.attributes.name} est encore en travaux"
                     alt=""
                     data-proofer-ignore>
             </div>
-            <div class="card__content">
-            <h3 class="startup__title">${startup.attributes.name}</h3>
-            <div class="card__meta">
-                ${ startup.attributes.owner }
+            <div class="rf-card__body">
+                <h4 class="rf-card__title">
+                    <a class="rf-card__link" href="/startups/${ startup.id }.html" target="\_blank" rel="noopener">${startup.attributes.name}</a>
+                </h4>
+        
+                <p class="rf-card__detail">${ startup.attributes.owner }</p>
+                <p class="rf-card__desc">${ startup.attributes.pitch }</p>
             </div>
-            <p>
-                ${ startup.attributes.pitch }
-            </p>
-            </div>
-        </a>`
+        </div>`
     return card
 }
 
@@ -49,7 +48,7 @@ var createIncubatorSelect = function(data, incubators, initValue) {
     }
     selectIncubator.appendChild(optionFragment);
     var onIncubatorChange = function(value) {
-        var grid = document.getElementsByClassName('startups grid')[0];
+        var grid = document.getElementsByClassName('startups')[0];
         var keys = Object.keys(data);
         var incubatorElements = document.getElementsByClassName('incubator-header');
         for (var i=0; i < incubatorElements.length; i++) {

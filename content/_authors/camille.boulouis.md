@@ -8,5 +8,5 @@ missions:
     employer: Ministère des armées
 github: camille-boulouis
 startups:
-    - fabrique-chatbots
+    - usine-chatbots
 ---

@@ -2,54 +2,62 @@
 layout: default
 ---
 
-{%- capture build_date -%}{{ site.time | date:"%Y-%m-%d" }}{%- endcapture -%}
-
-{%- assign lang = page.lang | default: site.lang | default: "fr" -%}
+{%- capture build_date -%}{{ site.time | date:"%Y-%m-%d" }}{%- endcapture -%} {%- assign lang = page.lang | default: site.lang | default: "fr" -%}
 <div class="page article">
-  {%- include hero-page.html title=page.title -%}
-  {%- assign current = site.authors | community: 'current' -%}
-  <section class="section section-white">
-    <div class="container">
-      <h3>Évolution des effectifs</h3>
-      <div id="chart-wrapper">
-          <canvas>
-              Nous avons actuellement {{ current | length }} membres.
-          </canvas>
-      </div>
-    </div>
-    <div class="container">
-      <div class="richtext">
-      {{ content }}
-      </div>
-    </div>
-  </section>
-  <section class="section section-grey">
-    <div class="container community">
-      <h2>Les membres actifs</h2>
-      <div class="grid">
-        {%- for author in current -%}
-          {%- include card-community.html author=author -%}
-        {%- endfor -%}
-      </div>
-    </div>
-  </section>
+    {%- include hero-page.html title=page.title -%}
+    {%- assign current = site.authors | community: 'current' -%}
+    {%- assign recent = site.authors | community: 'recent' -%}
+    <section class="section section-white">
+        <div class="rf-container">
+            <h3>Évolution des effectifs</h3>
+            <div id="chart-wrapper">
+                <canvas> Nous avons actuellement {{ current | size }} membres. </canvas>
+            </div>
+        </div>
+        <div class="rf-container">
+            {{ content }}
+        </div>
+    </section>
 
-  <section class="section section-white">
-    <div class="container community alumni">
-      <h2>Les anciennes et les anciens</h2>
-      <div class="grid">
-        {%- assign alumnis = site.authors | community: 'past' -%}
-        {%- for author in alumnis -%}
-          {%- include card-community.html author=author -%}
-        {%- endfor -%}
-      </div>
+    <div class="rf-container">
+        <div class="rf-tabs">
+            <ul class="rf-tabs__list" role="tablist" aria-label="Changer de vue">
+                <li role="presentation">
+                    <button id="tabpanel-404" class="rf-tabs__tab" tabindex="0" role="tab" aria-selected="true" aria-controls="tabpanel-membres">Nos membres</button>
+                </li>
+                <li role="presentation">
+                    <button id="tabpanel-405" class="rf-tabs__tab" tabindex="-1" role="tab" aria-selected="false" aria-controls="tabpanel-incubateurs">Notre réseau d'incubateurs</button>
+                </li>
+            </ul>
+            <div id="tabpanel-membres" class="rf-tabs__panel rf-tabs__panel--selected" role="tabpanel" aria-labelledby="tabpanel-404" tabindex="0">
+                <div class="rf-grid-row">
+                    <div class="rf-col-12 rf-col-md-9">
+                        <h3>Ils nous ont rejoint en {{ site.time | date_to_french_month }}&nbsp;!</h3>
+                    </div>
+                    <div class="rf-col-12 rf-col-md-3 link_to_members">
+                        <a class="rf-link rf-link__color rf-fi-arrow-right-line rf-link--icon-right" href="/communaute/annuaire">Voir tous les membres</a>
+                    </div>
+                </div>
+                <div class="rf-grid-row rf-grid-row--gutters">
+                    {%- for author in recent -%}
+                    <div class="rf-col-6 rf-col-md-3">{%- include card-community.html author=author -%}</div>
+                    {%- endfor -%}
+                </div>
+            </div>
+            <div id="tabpanel-incubateurs" class="rf-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-405" tabindex="0">
+                <div class="rf-grid-row rf-grid-row--gutters">
+                    {%- for incubator in site.incubators -%}
+                    <div class="rf-col-12 rf-col-md-6">{%- include card-incubator.html incubator=incubator -%}</div>
+                    {%- endfor -%}
+                </div>
+            </div>
+        </div>
     </div>
-  </section>
 </div>
 
 <script type="text/javascript">
-(function() {
-    window.buildDate = '{{ build_date }}';
-    window.data = {% render_community_stats %}
-})();
+    (function() {
+        window.buildDate = '{{ build_date }}';
+        window.data = {% render_community_stats %}
+    })();
 </script>

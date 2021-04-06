@@ -21,7 +21,7 @@ layout: default
             {% else %}
             {% assign screenshot_path = "/img/logo-generique-startup-rectangle-2019.jpg" %}
             {% endif %}
-            {% capture incubator_id %}/approche/incubateurs/{{ startup.incubator }}{% endcapture %}
+            {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
             {% assign incubator = incubators | where:'id', incubator_id | first %}
             { "id"        : "{{ startup.id | remove: '/startups/' }}"
             , "type"      : "startup"
@@ -57,9 +57,9 @@ layout: default
     };
     var incubators = [
         {% for incubator in incubators %} {
-        id: "{{incubator.id}}".replace('/approche/incubateurs/', ''),
+        id: "{{incubator.id}}".replace('/incubators/', ''),
         title: "{{incubator.title}}",
-        url: "{{incubator.url}}"
+        url: "/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}"
         },
         {% endfor %}
     ];
@@ -82,7 +82,7 @@ layout: default
 </script>   
 <main>
     <section class="filters sticky">
-        <div class="container">
+        <div class="rf-container">
             <select class="rf-select" id="select-incubateur">
                 <option value="">Tous les incubateurs</option> 
             </select>
@@ -103,7 +103,7 @@ layout: default
         </div>
     </section>
     {% for incubator in incubators %}
-        {% assign incubator_id = incubator.id | remove: '/approche/incubateurs/' %}
+    {% assign incubator_id = incubator.id | remove: '/incubators/' %}
     <section id="{{ incubator_id }}" class="section incubator-header rf-scheme-soft-blue-soft" style="display: none;">
         <div class="rf-container">
             <div class="rf-grid-row rf-grid-row--gutters">
@@ -116,18 +116,13 @@ layout: default
                         <p class="h1-card__title-subtitle">{{ incubator.owner }}</p>
                         <div class="markdown">{{ incubator.content }}</div>
                     </div>
-                    <a
-                        class="rf-link rf-fi-arrow-right-line rf-link--icon-right"
-                        href="{{ incubator.url }}"
-                        title="{{ incubator.title }}">En Savoir plus
-                    </a>
                 </div>
             </div>
         </div>
     </section>
     {% endfor %}
     <section class="section" style="padding-top: 0;">
-        <div class="container">
+        <div class="rf-container rf-py-6w rf-px-2w">
             {% assign phases = site.phases | sort: 'order' %}
             {% for phase in phases %}
                 {% assign counter_target = phase.id | remove: "/phases/" %}
@@ -136,7 +131,8 @@ layout: default
                 {% if counter > 1 %}
                     {% assign plural = "s" %}
                 {% endif %}
-                <div id="{{ phase.status }}" style="padding-top: 4em;">
+
+                <div id="{{ phase.status }}" class="rf-container-fluid rf-my-6w">
                     {% if phase.status == 'success' %}
                         <h2 class="phase-title">Nos <em>{{ phase.label | downcase }}{{ plural }}</em></h2>
                     {% elsif phase.status == 'alumni' %}
@@ -147,7 +143,8 @@ layout: default
                     {% endif %}
 
                     <p class="phase-description">{{ phase.short_description }}.</p>
-                    <div class="startups grid">
+
+                    <div class="rf-grid-row rf-grid-row--gutters startups">
                         {% assign startups = site.startups | where_phase: phase.status %}
                         {% for startup in startups %}
                             {% include card-startup.html startup = startup %}

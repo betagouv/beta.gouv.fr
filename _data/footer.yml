@@ -22,11 +22,8 @@ links:
       label: Vue d'ensemble
       target: _pages/dashboard.md
     -
-      label: En détails et en chiffres
-      url: /content/docs/rapportannuel.pdf
-    -
-      label: Communauté
-      target: _pages/communaute.md
+      label: Annuaire des membres
+      target: _pages/annuaire.md
     -
       label: Nous contacter
       target: _pages/contact.md

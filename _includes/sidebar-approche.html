@@ -1,82 +1,77 @@
-<nav class="side-pane">
-  <ul class="side-pane__menu sticky">
-    <li class="side-pane__dropdown unfolded {% if page.url == "/approche/" %}active{% endif %}">
-      <a class="side-pane__link" href="/approche/">Le programme beta.gouv.fr</a>
-      <ul class="side-pane__submenu">
-        <li {% if page.url == "/approche/manifeste" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/approche/manifeste">Manifeste</a>
-        </li>
-        <li class="side-pane__dropdown 
-          {% if page.url == "/approche/incubateurs" %}
-            active
-          {% endif %}
-          {% if page.url contains "/approche/incubateurs" %}
-            unfolded
-          {% endif %} 
-          ">
-          <a href="/approche/incubateurs" >Les incubateurs</a>
-          {% if page.url contains "/approche/incubateurs" %}
-          <ul class="side-pane__submenu">
-            {%- for incubator in site.incubators | sort: 'creation_date' -%}
-            <li class="side-pane__sublink {% if page.id == incubator.id %}active{% endif %}">
-              <a href="{{ incubator.url | relative_url }}">{{ incubator.title }}</a>
-            </li>
-            {%- endfor -%}
+<nav class="rf-sidemenu rf-sidemenu--sticky" role="navigation" aria-label="Menu latéral">
+  <div class="rf-sidemenu__inner">
+      <button class="rf-sidemenu__btn" aria-controls="sidemenu-254" aria-expanded="false">Dans cette rubrique</button>
+      <div class="rf-collapse" id="sidemenu-254">
+          <div class="rf-sidemenu__title">Le programme beta.gouv.fr</div>
+          <ul class="rf-sidemenu__list">
+              <li class="rf-sidemenu__item {% if page.url == '/approche/' %}rf-sidemenu__item--active{% endif %}">
+                  <a class="rf-sidemenu__link" href="/approche/" target="_self">Notre approche</a>
+              </li>
+              <li class="rf-sidemenu__item {% if page.url == '/approche/manifeste' %}rf-sidemenu__item--active{% endif %}">
+                  <a class="rf-sidemenu__link" href="/approche/manifeste" target="_self">Manifeste</a>
+              </li>
+              <li class="rf-sidemenu__item {% if page.url == '/approche/intrapreneurs' %}rf-sidemenu__item--active{% endif %}">
+                  <a class="rf-sidemenu__link" href="/approche/intrapreneurs" target="_self">Intrapreneurs</a>
+              </li>
+              <li class="rf-sidemenu__item {% if page.url == '/approche/sponsors' %}rf-sidemenu__item--active{% endif %}">
+                  <a class="rf-sidemenu__link" href="/approche/sponsors" target="_self">Les sponsors</a>
+              </li>
+              <li class="rf-sidemenu__item {% if page.url == '/approche/investigation' %}rf-sidemenu__item--active{% endif %}">
+                  <a class="rf-sidemenu__link" href="/approche/investigation" target="_self">Investigation</a>
+              </li>
+              <li class="rf-sidemenu__item {% if page.url == '/approche/construction' %}rf-sidemenu__item--active{% endif %}">
+                  <a class="rf-sidemenu__link" href="/approche/construction" target="_self">Construction</a>
+              </li>
+              <li class="rf-sidemenu__item {% if page.url == '/approche/acceleration' %}rf-sidemenu__item--active{% endif %}">
+                  <a class="rf-sidemenu__link" href="/approche/acceleration" target="_self">Accélération</a>
+              </li>
+              <li class="rf-sidemenu__item {% if page.url == '/approche/transfert' %}rf-sidemenu__item--active{% endif %}">
+                  <a class="rf-sidemenu__link" href="/approche/transfert" target="_self">Transfert</a>
+              </li>
           </ul>
-          {% endif %}
-        </li>
-        <li {% if page.url == "/approche/intrapreneurs" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/approche/intrapreneurs">Les intrapreneurs</a>
-        </li>
-         <li {% if page.url == "/approche/sponsors" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/approche/sponsors">Les sponsors</a>
-        </li>   
-        <li {% if page.url == "/approche/investigation" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/approche/investigation">Investigation</a>
-        </li>  
-        <li {% if page.url == "/approche/construction" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/approche/construction">Construction</a>
-        </li>    
-        <li {% if page.url == "/approche/acceleration" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/approche/acceleration">Accélération</a>
-        </li>    
-        <li {% if page.url == "/approche/transfert" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/approche/transfert">Transfert</a>
-        </li>   
-      </ul>
-    </li>
-    <!-- <a class="side-pane__link" href="/approche/">Le programme Territoire</a> -->
-    
-    <li class="side-pane__dropdown {% if page.url == "/approche/fast" %}active {% endif %}{% if page.url contains "/approche/fast" %}unfolded{% endif %}">
-      <a class="side-pane__link" href="/approche/fast">Le FAST</a>
-      {% if page.url contains "/approche/fast" %}
-      <ul class="side-pane__submenu">
-        {% assign fasts = site.fasts | sort: 'order' %}
-        {% for fast-page in fasts %}
-        <li {% if page.url == fast-page.url %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="{{ fast-page.url }}">{{ fast-page.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
-      {% endif %}
-    </li>
 
-    <li class="{% if page.url == "/approche/formation" %}active {% endif %}">
-      <a class="side-pane__link" href="/approche/formation">La formation Alpha</a>
-    </li>
-    <li class="side-pane__dropdown {% if page.url == "/approche/formation/mooc" %}active {% endif %}{% if page.url contains "/approche/formation/mooc" %}unfolded{% endif %}">
-      <a class="side-pane__link" href="/approche/formation/mooc">La formation en ligne</a>
-      {% if page.url contains "/approche/formation/mooc" %}
-      <ul class="side-pane__submenu">
-        {% assign mooc = site.mooc | sort: 'order' %}
-        {% for sequence in mooc %}
-        <li {% if page.url == sequence.url %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="{{ sequence.url }}">{{ sequence.label }}</a>
-        </li>
-        {% endfor %}
-      </ul>
-      {% endif %}
-    </li>
-    
-  </ul>
+          <div class="rf-sidemenu__title">Le FAST</div>
+
+          <ul class="rf-sidemenu__list">
+            <li class="rf-sidemenu__item {% if page.url == '/approche/fast' %}rf-sidemenu__item--active{% endif %}">
+                <a class="rf-sidemenu__link" href="/approche/fast" target="_self">Présentation</a>
+            </li>
+          </ul>
+          <button class="rf-sidemenu__btn" aria-expanded="false" aria-controls="rf-sidemenu-editions-fast">Toutes les éditions</button>
+          <div class="rf-collapse" id="rf-sidemenu-editions-fast">
+              <ul class="rf-sidemenu__list">
+                  {% assign fasts = site.fasts | sort: 'order' %}
+                  {% for fast-page in fasts %}
+                  <li class="rf-sidemenu__item {% if page.url == fast-page.url %}rf-sidemenu__item--active{% endif %}">
+                    <a class="rf-sidemenu__link" href="{{ fast-page.url }}" target="_self">{{ fast-page.title }}</a>
+                  </li>
+                  {% endfor %}
+              </ul>
+          </div>
+
+          <div class="rf-sidemenu__title">Les formations</div>
+
+          <ul class="rf-sidemenu__list">
+            <li class="rf-sidemenu__item {% if page.url == '/approche/formation' %}rf-sidemenu__item--active{% endif %}">
+                <a class="rf-sidemenu__link" href="/approche/formation" target="_self">La formation Alpha</a>
+            </li>
+
+            <li class="rf-sidemenu__item {% if page.url == '/approche/formation/mooc' %}rf-sidemenu__item--active{% endif %}">
+              <a class="rf-sidemenu__link" href="/approche/formation/mooc" target="_self">La formation en ligne</a>
+            </li>
+          </ul>
+
+          <button class="rf-sidemenu__btn" aria-expanded="false" aria-controls="rf-sidemenu-mooc">Voir les séquences</button>
+          <div class="rf-collapse" id="rf-sidemenu-mooc">
+              <ul class="rf-sidemenu__list">
+                {% assign mooc = site.mooc | sort: 'order' %}
+                  {% for sequence in mooc %}
+                  <li class="rf-sidemenu__item {% if page.url == sequence.url %}rf-sidemenu__item--active{% endif %}">
+                    <a class="rf-sidemenu__link" href="{{ sequence.url }}" target="_self">{{ sequence.label }}</a>
+                  </li>
+                  {% endfor %}
+              </ul>
+          </div>
+      </div>
+  </div>
 </nav>
