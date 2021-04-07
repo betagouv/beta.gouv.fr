@@ -11,8 +11,6 @@ missions:
     employer: DJEPVA
 startups:
     - engagement-civique
-previously:
-    - 
 ---
 
 Développe le réseau de projets à impacts positifs

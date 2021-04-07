@@ -51,19 +51,19 @@ Le montant du ticket global pourra être dépensé via les marchés de la DINUM 
 
 ## Quelles sont les conditions d'éligibilité ?
 
-* Avoir mis en place une solution à un problème de politique publique ou une initiative locale qui pourrait passer à l’échelle grâce au levier du numérique ;
-* Si la solution est numérique, avoir ouvert (ou être capable d'ouvrir rapidement) le code du logiciel (open source) ;
-* Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée ;
-* Avoir une feuille de route pour le produit et pour le déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service) ;
+* Avoir mis en place une solution à un problème de politique publique ou une initiative locale qui pourrait passer à l’échelle grâce au levier du numérique&nbsp;;
+* Si la solution est numérique, avoir ouvert (ou être capable d'ouvrir rapidement) le code du logiciel (open source)&nbsp;;
+* Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée&nbsp;;
+* Avoir une feuille de route pour le produit et pour le déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service)&nbsp;;
 * Vouloir faire passer ce produit à l’échelle.
 
 Sont aussi éligibles les ministères souhaitant créer un incubateur de Startups d'Etat. 
 
 ## Quels sont les critères de sélection ?
 
-* L’impact attendu pour l’utilisateur final ; 
-* La garantie d'un sponsor dans l’administration porteuse ; 
-* L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique ; 
+* L’impact attendu pour l’utilisateur final&nbsp;; 
+* La garantie d'un sponsor dans l’administration porteuse&nbsp;; 
+* L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique&nbsp;; 
 * L’adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV.
 
 Une grille de sélection vous sera transmise pour présenter votre dossier devant le jury selon ces critères. 
@@ -84,16 +84,16 @@ Une grille de sélection vous sera transmise pour présenter votre dossier devan
 Le dossier de candidature doit préciser clairement :
 
 Si vous êtes candidat pour l'accélération d'un produit... 
-* Le problème auquel la solution répond ;
-* La solution mise en place ;
-* Son impact sur le réel chiffré ;
+* Le problème auquel la solution répond&nbsp;;
+* La solution mise en place&nbsp;;
+* Son impact sur le réel chiffré&nbsp;;
 * En cas de passage à l’échelle réussi, les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois (ex : sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc). 
 L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de transfert du service
 
 
 Si vous êtes candidat pour la création d'un incubateur... 
-* Le problème auquel la création de l'incubateur répond ;  
-* Le rattachement hiérarchique de l'incubateur ; 
+* Le problème auquel la création de l'incubateur répond&nbsp;;  
+* Le rattachement hiérarchique de l'incubateur&nbsp;; 
 * Les ressources qui seront mobilisées. 
 
 
@@ -119,12 +119,12 @@ Si vous avez déjà été lauréat du FAST, nous vous invitons à postuler au [P
 
 ## Quels projets ne sont pas éligibles au FAST ? 
 
-* Des produits en phase d'investigation n'ayant pas encore de solution minimum viable ni de mesure d'impact déjà établie ; 
-* Des produits existants avec un cahier des charges des fonctionnalités à développer ;
-* Des produits censés résoudre des problèmes d’organisation interne plutôt que des problèmes usagers ;
-* Des produits dont le code n’est pas ouvert (open source), ou pour lesquels le code ne peut pas être ouvert ;
-* Des produits qui ne sont pas portés par une administration (État, établissement public, collectivité...) ;
-* Des produits déjà lauréats d'une édition précédente du FAST ;
+* Des produits en phase d'investigation n'ayant pas encore de solution minimum viable ni de mesure d'impact déjà établie&nbsp;; 
+* Des produits existants avec un cahier des charges des fonctionnalités à développer&nbsp;;
+* Des produits censés résoudre des problèmes d’organisation interne plutôt que des problèmes usagers&nbsp;;
+* Des produits dont le code n’est pas ouvert (open source), ou pour lesquels le code ne peut pas être ouvert&nbsp;;
+* Des produits qui ne sont pas portés par une administration (État, établissement public, collectivité...)&nbsp;;
+* Des produits déjà lauréats d'une édition précédente du FAST&nbsp;;
 * Des incubateurs au sein de ministères disposant déjà d'un incubateur membre du réseau beta.gouv.fr. 
 
 

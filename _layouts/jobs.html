@@ -6,19 +6,19 @@ layout: default
 <div class="page article">
   {% include hero-page.html title=page.title %}
   <section class="section section-white cards">
-    <div class="container jobs">
-      <h3>Offres disponibles</h3>
-      <div class="grid">
-        {% assign jobs = site.jobs | where: "open", 'true' | reverse %}
-        {% for job in jobs %}
-          {% include card-job.html job=job %}
-        {% endfor %}
-      </div>
+    <div class="rf-container rf-py-6w rf-px-2w">
+      <h2>Offres disponibles</h2>
+
+      {% assign jobs = site.jobs | where: "open", 'true' | reverse %}
+      {% for job in jobs %}
+        {% include card-job.html job=job %}
+      {% endfor %}
     </div>
   </section>
+  
   <section class="section section-grey">
-    <div class="container">
-      <a class="button" onclick="toggle_visibility('previous_jobs');">Offres pourvues</a>
+    <div class="rf-container">
+      <button class="rf-btn" onclick="toggle_visibility('previous_jobs');">Offres pourvues</button>
       <div id="previous_jobs" style="display:none">
         {% assign jobs = site.jobs | where: "open", 'false' | reverse %}
         <ul>

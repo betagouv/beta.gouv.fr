@@ -7,11 +7,12 @@ missions:
     employer: dinum
     status: admin
   - start: 2019-05-01
+    end: 2021-03-07
     status: independent
-startups:
-  - anais
 previously:
+  - anais
   - ban
+  - disinfo
 ---
 
 Data addict, open, maker et récidiviste
