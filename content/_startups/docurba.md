@@ -1,7 +1,7 @@
 ---
 title: Docurba
 mission: Faciliter l'élaboration des documents d'urbanisme en améliorant les
-  échanges entre collectivités et Etat
+  échanges entre les collectivités et l'État
 owner: DGALN
 sponsors:
   - name: DGALN
