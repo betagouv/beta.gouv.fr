@@ -303,9 +303,9 @@ collections:
         name: roles
         widget: select
         options:
-          - { label: "Déploiement", value: "bizdev" }
-          - { label: "Coach", value: "coach" }
           - { label: "Animation", value: "animation" }
+          - { label: "Coach", value: "coach" }
+          - { label: "Déploiement", value: "deploiement" }
           - { label: "Design", value: "design" }
           - { label: "Développement", value: "developpement" }
           - { label: "Intra", value: "intra" }
