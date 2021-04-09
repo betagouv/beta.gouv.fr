@@ -300,6 +300,7 @@ collections:
         widget: markdown
         required: false
       - label: Tes roles
+        name: roles
         widget: object
         summary: '{{fields.principal}}: {{fields.autres}}'
         fields:
