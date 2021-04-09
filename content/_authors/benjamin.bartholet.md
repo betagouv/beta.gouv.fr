@@ -9,6 +9,7 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     status: independent
 startups: # ta ou tes startups actuelles
     - eva # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
+    - aidantsconnect
 ---
 
 designer, technologist and illustrator.
