@@ -17,4 +17,6 @@ startups:
   - preuve-de-covoiturage
 previously:
   - codedutravail
+roles:
+  - designer
 ---

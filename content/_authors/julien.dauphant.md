@@ -23,7 +23,7 @@ roles:
   - co-anim  
   - dev
   - coach
-  - product
+  - produit
 ---
 
 Chercheur de simplicité
