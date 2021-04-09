@@ -7,6 +7,6 @@ missions:
     status: service
     employer: Ministère des armées
 startups:
-    - fabrique-chatbots
+    - usine-chatbots
     - les-alpps
 ---

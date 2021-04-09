@@ -16,10 +16,10 @@ layout: default
   {% endif %}
 
   <section class="section section-white">
-    <div class="container">
+    <div class="rf-container">
       {% include screenshot.html startup=page %}
 
-      <div class="text-quote">
+      <div class="rf-highlight">
         <ul>
           <li>
             Les statistiques d'usage
@@ -46,9 +46,9 @@ layout: default
             Le porteur administratif est {{ page.owner }}.
           </li>
           {% comment %} Détection de l'incubateur {% endcomment %}
-          {% capture incubator_id %}/approche/incubateurs/{{ page.incubator }}{% endcapture %}
+          {% capture incubator_id %}/incubators/{{ page.incubator }}{% endcapture %}
           {% assign incubator = site.incubators | where:'id', incubator_id | first %}
-          <li>L'incubateur est <a href="{{ incubator.url }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.</li>
+          <li>L'incubateur est <a href="/startups/?incubateur={{ incubator_id | remove: '/incubators/' }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.</li>
           <li>
             {% if page.contact %}
               <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
@@ -63,34 +63,28 @@ layout: default
     {% assign startup_id = page.id | remove: '/startups/' %}
     {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
     {% if jobs[0] %}
-      <div class="container">
-        <div class ="richtext">
-          <h3>Postes ouverts</h3>
-          <ul>
-            {% for job in jobs %}
-              <li><a href="{{ job.url }}">{{ page.title }} recrute {{ job.roles | downcase }}.</a></li>
-            {% endfor %}
-          </ul>
-        </div>
+      <div class="rf-container rf-py-6w rf-px-2w">
+        <h3>Postes ouverts</h3>
+        <ul>
+          {% for job in jobs %}
+            <li><a href="{{ job.url }}">{{ page.title }} recrute {{ job.roles | downcase }}.</a></li>
+          {% endfor %}
+        </ul>
       </div>
     {% endif %}
 
-    <div class="container">
-      <div class="richtext">
-        {{ content }}
-      </div>
+    <div class="rf-container rf-py-6w rf-px-2w">
+      {{ content }}
     </div>
   </section>
 
   <section class="section section-grey">
-    <div class="container">
-      {% include grid-authors.html startup=page %}
-    </div>
+    {% include grid-authors.html startup=page %}
   </section>
 
   {% if page.rgpd %}
   <section class="section section-white">
-    <div class="container">
+    <div class="rf-container rf-py-6w rf-px-2w">
       <h2>Protection des données personnelles</h2>
       <div class="text-quote">
           <ul>

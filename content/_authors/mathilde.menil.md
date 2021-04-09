@@ -1,6 +1,7 @@
 ---
 fullname: Mathilde Ménil
 role: Intrapreneur
+github: MathildeMl
 missions:
   - start: 2020-01-10
     end: 2022-01-15

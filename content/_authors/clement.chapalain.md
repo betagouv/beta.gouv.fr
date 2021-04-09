@@ -7,7 +7,7 @@ missions:
     end: 2020-07-31
     status: independent
 startups:
-    - action-bidonvilles
+    - resorption-bidonvilles
     - codedutravail
     - didoc
 previously:
