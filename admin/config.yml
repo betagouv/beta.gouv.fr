@@ -300,18 +300,31 @@ collections:
         widget: markdown
         required: false
       - label: Tes roles
-        name: roles
-        widget: select
-        multiple: true
-        options:
-          - { label: "Animation", value: "animation" }
-          - { label: "Coach", value: "coach" }
-          - { label: "Déploiement", value: "deploiement" }
-          - { label: "Design", value: "design" }
-          - { label: "Développement", value: "developpement" }
-          - { label: "Intra", value: "intra" }
-          - { label: "Produit", value: "produit" }
-          - { label: "Autre", value: "autre" }
+        widget: object
+        summary: '{{fields.principal}}: {{fields.autres}}'
+        fields:
+          - name: principal
+            widget: select
+            options:
+              - { label: "Animation", value: "animation" }
+              - { label: "Coach", value: "coach" }
+              - { label: "Déploiement", value: "deploiement" }
+              - { label: "Design", value: "design" }
+              - { label: "Développement", value: "developpement" }
+              - { label: "Intra", value: "intra" }
+              - { label: "Produit", value: "produit" }
+              - { label: "Autre", value: "autre" }
+          - name: autres
+            widget: select
+            multiple: true
+            options:
+              - { label: "Animation", value: "animation" }
+              - { label: "Coach", value: "coach" }
+              - { label: "Déploiement", value: "deploiement" }
+              - { label: "Design", value: "design" }
+              - { label: "Développement", value: "developpement" }
+              - { label: "Intra", value: "intra" }
+              - { label: "Produit", value: "produit" }
   - name: incubators
     label: Incubateurs
     label_singular: Incubateur
