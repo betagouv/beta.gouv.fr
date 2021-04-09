@@ -302,6 +302,7 @@ collections:
       - label: Tes roles
         name: roles
         widget: select
+        multiple: true
         options:
           - { label: "Animation", value: "animation" }
           - { label: "Coach", value: "coach" }
