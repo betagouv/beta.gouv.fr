@@ -303,13 +303,13 @@ collections:
         name: roles
         widget: select
         options:
-          - { label: "Chargé.e de déploiement/BizDev", value: "bizdev" }
+          - { label: "Déploiement", value: "bizdev" }
           - { label: "Coach", value: "coach" }
-          - { label: "Co-animateur/trice", value: "co-anim" }
-          - { label: "Designer", value: "designer" }
-          - { label: "Dev", value: "dev" }
+          - { label: "Animation", value: "animation" }
+          - { label: "Design", value: "design" }
+          - { label: "Développement", value: "developpement" }
           - { label: "Intra", value: "intra" }
-          - { label: "Product Owner", value: "produit" }
+          - { label: "Produit", value: "produit" }
           - { label: "Autre", value: "autre" }
   - name: incubators
     label: Incubateurs

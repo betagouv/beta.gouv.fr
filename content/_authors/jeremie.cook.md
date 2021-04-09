@@ -18,5 +18,5 @@ startups:
 previously:
   - codedutravail
 roles:
-  - designer
+  - design
 ---

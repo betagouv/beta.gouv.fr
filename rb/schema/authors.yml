@@ -48,4 +48,4 @@ mapping:
     type:      seq
     sequence:
       - type: str
-        assert:    "['dev','coach','co-anim', 'intra', 'designer', 'bizdev', 'produit', 'autre'].include?(val)"
+        assert:    "['developpement','coach','animation', 'intra', 'design', 'deploiement', 'produit', 'autre'].include?(val)"

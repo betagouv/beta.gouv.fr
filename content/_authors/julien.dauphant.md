@@ -20,8 +20,8 @@ previously:
 badges:
   - segur
 roles:
-  - co-anim  
-  - dev
+  - animation
+  - developpement
   - coach
   - produit
 ---
