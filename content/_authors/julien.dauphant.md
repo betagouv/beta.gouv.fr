@@ -19,6 +19,11 @@ previously:
   - e-controle
 badges:
   - segur
+roles:
+  - co-anim  
+  - dev
+  - coach
+  - product
 ---
 
 Chercheur de simplicité

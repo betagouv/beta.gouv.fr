@@ -44,3 +44,8 @@ mapping:
         - type:      str
           enum:
             - segur
+  "roles":
+    type:      seq
+    sequence:
+      - type: str
+        assert:    "['dev','coach','co-anim', 'intra', 'designer', 'bizdev', 'product', 'autre'].include?(val)"
