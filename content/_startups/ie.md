@@ -16,7 +16,7 @@ techno:
   - en cours
 ---
 
-# Le problème 
+## Le problème 
 
 Pour la conduire de ses missions de développement économique dans un large spectre de secteurs d’activité, 
 la Direction générale des entreprises (DGE) doit pouvoir s’appuyer sur des méthodes efficientes de 
@@ -31,7 +31,7 @@ l’accès à l’information est perfectible et que le temps consacré à sa ge
 Faute de pouvoir trouver rapidement l’information qualifiée dont ils ont besoin, les rédacteurs peuvent 
 produire des contenus redondants ou, lorsqu’elle est produite dans l’urgence, une information de qualité médiocre.
 
-# Le défi 
+## Le défi 
 
 Développer un moteur de recherche intelligent, avec des capacités d’analyse sémantique
 (singulier ou pluriel, synonymes, ...) et pouvant gérer la classification des documents (confidentialité...), 
@@ -42,7 +42,7 @@ ainsi que des données issues de sources ouvertes (presse économique ...) perme
 de préparer des fiches d’entreprises pré-maquettées pour alléger le travail de préparation des entretiens ministres.
 
 
-# Le produit
+## Le produit
 
 Pour optimiser la gestion de la connaissance au sein de la DGE et donner aux agents un moyen de recherche simple 
 et intuitif dans tous les documents et leur permettre de produire une information à plus forte valeur ajoutée plus rapidement.

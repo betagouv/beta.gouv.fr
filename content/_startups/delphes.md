@@ -16,7 +16,7 @@ techno:
   - en cours
 ---
 
-# Le problème 
+## Le problème 
 
 La Mission Nationale de Contrôle des Précurseurs Chimiques de drogue (MNCPC) œuvre, depuis 1993, à l’accomplissement
 de deux objectifs principaux :
@@ -29,14 +29,14 @@ Le décret a donné lieu à deux arrêtés du 14 octobre 2019 qui définissent l
 pour les 4 formalités donnant lieu à délivrance d’une décision administrative individuelle (DAI)
 (agrément/enregistrement/autorisation d’importation et autorisation d’exportation)
 
-# Le défi 
+## Le défi 
 
 La MNCPC souhaite proposer aux entreprises un outil innovant, pour ne plus surinvestir sur les téléprocédures obsolètes 
 et être en capacité de reconcentrer l’activité de l’équipe sur des tâches à plus forte valeur ajoutée, 
 en procédant à des contrôles et à des visites d’entreprises.
 
 
-# Le produit
+## Le produit
 
 Centrée sur l’approche utilisateur, DELPHES a vocation à assister les primo-opérateurs dans leurs démarches
 et à mieux les orienter, tandis que les opérateurs ayant déjà de « l’expérience » dans le domaine des précurseurs 

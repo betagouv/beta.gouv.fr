@@ -16,7 +16,7 @@ techno:
   - en cours
 ---
 
-# Le problème : le bugdet de l'Etat, une matière de spécialistes... et donc inaccessible
+## Le problème : le bugdet de l'Etat, une matière de spécialistes... et donc inaccessible
 
 Les familles françaises ne savent pas à quoi correspond l'ensemble des dépenses publiques nationales
 (budget de l'Etat, sécurité sociale et collectivités territoriales) ni comment se construit le budget de l'Etat.
@@ -26,7 +26,7 @@ le Grand débat national de 2019 ont conforté la nécessité de renforcer la p�
 et une lisibilité plus grande de la dépense publique.
 
 
-# Le défi : jouer pour comprendre
+## Le défi : jouer pour comprendre
 
 La direction du budget propose de **découvrir et comprendre le budget de l'Etat par le jeu**.
 
@@ -41,7 +41,7 @@ Le jeu sera plus sophistiqué, plus accessible et plus ludique
 que dans sa première version et intégrera la donnée utilisateurs.
 
 
-# Le produit : du papier à l'écran...
+## Le produit : du papier à l'écran...
 
 Grâce à CyberBudget, les français auront une meilleure vision de ce qu'est un impôt et de tout ce que cela
 regroupe (qui paye quoi et contribue à quoi) et ainsi avoir une meilleure vision d'où va "leur" argent

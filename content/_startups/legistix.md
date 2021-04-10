@@ -17,7 +17,7 @@ techno:
   - Angular
 ---
 
-# Le problème : trop de temps perdu (et de stress) à consolider les projets de textes normatifs
+## Le problème : trop de temps perdu (et de stress) à consolider les projets de textes normatifs
 
 Une part importante de l'activité au sein des bureaux du service du financement de l'économie (SFE)
 et dans certains autres bureaux du Trésor (notamment MC3 et POLSOC) consiste à rédiger des textes normatifs
@@ -27,7 +27,7 @@ et dans certains autres bureaux du Trésor (notamment MC3 et POLSOC) consiste à
 Cette activité est actuellement faite intégralement à la main avec des logiciels de traitements de texte
 particulièrement inadaptés.
 
-# Le défi : faciliter le travail des rédacteurs
+## Le défi : faciliter le travail des rédacteurs
 
 Le produit permet de modifier un code ou un texte avec une génération automatisée des différents documents
 nécessaires au bon déroulement du cycle de vie d'un texte normatif.
@@ -36,7 +36,7 @@ Légistix répond à une problématique générale de l'administration : facilit
 normatifs en garantissant la cohérence des modifications avec pour objectif : une meilleure compréhension
 des textes normatifs pour les citoyens.
 
-# Le produit : simple et efficace
+## Le produit : simple et efficace
 
 Le produit permettra de rationaliser les tâches à faible valeur ajoutée et de limiter le risque d'erreurs
 matérelles de coordination.

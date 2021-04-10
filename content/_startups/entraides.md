@@ -16,7 +16,7 @@ techno:
   - en cours
 ---
 
-# Le problème 
+## Le problème 
 
 Près de 4 millions d’entreprises françaises subissent de plein fouet la crise économique du coronavirus.
 Malheureusement, l'État n'a pas les moyens humains pour répondre à toutes leurs questions.
@@ -30,7 +30,7 @@ la participation à des évènements mondains qui génèrent une forte inefficac
 Pendant la crisees, ces 75% ont été bien plus impactés que leurs concurrents qui s'entraident, 
 et certains d’entre eux ont vu, ou vont voir, leur entreprise disparaitre.
 
-# Le défi 
+## Le défi 
 
 Tous les dirigeants obtiennent les réponses et les conseils dont ils ont besoin, particulièrement ceux qui doivent 
 assurer la survie et la relance de leur entreprise face à la crise. Tous les experts (avocats, consultants, experts-comptables) 
@@ -41,7 +41,7 @@ de toutes les entreprises dans les années déterminantes à venir (passage d'un
 totalement ouverte).
 
 
-# Le produit
+## Le produit
 
 Une plateforme numérique ouverte, gratuite et anonyme qui permet aux chefs d'entreprises d'obtenir des réponses 
 à leurs questions directement depuis leur ordinateur/smartphone, avec :
