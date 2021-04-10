@@ -13,6 +13,6 @@ missions:
     status: independent
     employer: OCTO
 startups:
-    - fabrique-chatbots
+    - usine-chatbots
     - preuve-de-covoiturage
 ---

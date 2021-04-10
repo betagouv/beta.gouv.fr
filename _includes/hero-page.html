@@ -1,12 +1,12 @@
 <div class="hero article__hero">
   {% if include.image %}
     <img src="{{ include.image }}" alt="{{ include.title }}" />
-    <div class="container container__small" style="text-align: center; z-index: 100;">
-      <h1 class="article__title" style="color: #fff;">{{ include.title | escape }}</h1>
+    <div class="rf-container" style="z-index: 100;">
+      <h1 style="color: #fff;">{{ include.title | escape }}</h1>
     </div>
   {% else %}
-  <div class="container container__small" style="text-align: center;">
-    <h1 class="article__title">{{ include.title | escape }}</h1>
+  <div class="rf-container">
+    <h1>{{ include.title | escape }}</h1>
   </div>
   {% endif %}
 
