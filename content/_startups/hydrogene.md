@@ -5,6 +5,10 @@ mission: Accélérer la création de la filière française de production d'hydr
 owner: DGEC
 incubator: mtes
 contact: lionel.prevors@developpement-durable.gouv.fr
+phases:
+  - name: investigation
+    start: 2020-12-01
+    end: 2021-04-16
 ---
 Hydrogène est en phase d'investigation.
 
