@@ -3,8 +3,6 @@ title: FAST 6 - Décembre 2020
 sidebar: sidebar-approche.html
 ---
 
-## [FAST 6 - Décembre 2020](https://blog.beta.gouv.fr/dinsic/2021/01/06/decouvrez-les-laureats-du-fast-6-et-candidatez-a-la-7eme-edition/)
-
 ### **Le comité d'investissement :** ### 
 - Nadi Bou Hanna (DINUM)
 - Xavier Albouy (DINUM)
@@ -18,3 +16,5 @@ sidebar: sidebar-approche.html
 5. Ecolab, apporter l’information environnementale au plus près des citoyens ;
 6. L’incubateur du Ministère de la Culture, déployer la méthode startup d'État pour expérimenter de nouvelles manières de créer des politiques culturelles ;
 7. L’incubateur du Ministère de l’Europe et des Affaires Étrangères, améliorer la qualité et la pertinence du service rendu aux usagers et agents du ministère en créant et accompagnant des Startups d’État.
+
+[Appel à candidature](https://blog.beta.gouv.fr/dinsic/2021/01/06/decouvrez-les-laureats-du-fast-6-et-candidatez-a-la-7eme-edition/)

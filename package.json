@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@gouvfr/dsfr": "^0.6.0"
+    "@gouvfr/dsfr": "^1.0.0-rc1.0"
   }
 }
