@@ -11,6 +11,7 @@ missions:
     employer: numa
 startups:
     - recosante
+    - atlas-des-paysages
 badges: 
     - segur
 ---
