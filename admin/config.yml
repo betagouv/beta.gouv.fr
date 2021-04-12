@@ -374,19 +374,19 @@ collections:
         <<: *relation_default_options
         collection: startups
         required: false
-      - label: Quel est le type de contrat ?
-        name: title
-        widget: select
-        fields : ["Indépendant","CDD"]
-        required: true 
-      - label: Quelle est l'adresse de contact ?
-        name: contact
-        widget: string
-        required: true  
+    # Certain le mette mais ce n'est pas utilisé dans le code
+    #  - label: Quelle est l'adresse de contact ?
+    #    name: contact
+    #    widget: string
+    #    required: true  
       - label: Est-ce que le poste est ouvert ?
         name: open
         widget: boolean
         required: false  
+      - label: Est-ce que le poste est ouvert au junior ?
+        name: junior
+        widget: boolean
+        required: false
       - label: Rédiger sa fiche de recrutement
         name: body
         widget: markdown
