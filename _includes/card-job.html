@@ -8,35 +8,35 @@
 {% capture startup_id %}/startups/{{ job.startup }}{% endcapture %}
 {% assign startup = site.startups | where: "id", startup_id | first %}
 
-<div class="rf-card rf-card--horizontal rf-enlarge-link {% if job.type == 'friend' %}friend {% endif %}{% unless job.open %}closed{% endunless %}" style="margin-bottom: 20px;">
-  <div class="rf-card__body">
+<div class="fr-card fr-card--horizontal fr-enlarge-link {% if job.type == 'friend' %}friend {% endif %}{% unless job.open %}closed{% endunless %}" style="margin-bottom: 20px;">
+  <div class="fr-card__body">
 
-    <p class="rf-card__detail">Offre de {% if job.friend %}{{ job.friend | strip_html }}{% else %}{{ startup.title | default: "beta.gouv.fr" | strip_html}}{% endif %}</p>
+    <p class="fr-card__detail">Offre de {% if job.friend %}{{ job.friend | strip_html }}{% else %}{{ startup.title | default: "beta.gouv.fr" | strip_html}}{% endif %}</p>
     
-    <h4 class="rf-card__title">
-      <a class="rf-card__link" href="{{ job.url }}">{{ job.roles | capitalize }}</a>
+    <h4 class="fr-card__title">
+      <a class="fr-card__link" href="{{ job.url }}">{{ job.roles | capitalize }}</a>
     </h4>
 
-    <p class="rf-card__desc">{{ job.excerpt | strip_html | truncate: 260 }}</p>
+    <p class="fr-card__desc">{{ job.excerpt | strip_html | truncate: 260 }}</p>
 
 
     {% if job.techno or job.junior or job.type == 'friend' %}
-    <ul class="rf-tags-group">
+    <ul class="fr-tags-group">
       {% if job.type == 'friend' %}
       <li>
-        <span class="rf-tag rf-tag--sm">Nos camarades recrutent</span>
+        <span class="fr-tag fr-tag--sm">Nos camarades recrutent</span>
       </li>
       {% endif %}
 
       {% if job.junior %}
       <li>
-        <span class="rf-tag rf-tag--sm">Bienvenue aux juniors</span>
+        <span class="fr-tag fr-tag--sm">Bienvenue aux juniors</span>
       </li>
       {% endif %}
       {% if job.techno %}
         {% for techno in job.techno %}
         <li>
-          <span class="rf-tag rf-tag--sm">{{ techno }}</span>
+          <span class="fr-tag fr-tag--sm">{{ techno }}</span>
         </li>
         {% endfor %}
       {% endif %}

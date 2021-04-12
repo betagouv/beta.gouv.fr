@@ -16,10 +16,10 @@ layout: default
   {% endif %}
 
   <section class="section section-white">
-    <div class="rf-container">
+    <div class="fr-container">
       {% include screenshot.html startup=page %}
 
-      <div class="rf-highlight">
+      <div class="fr-highlight">
         <ul>
           <li>
             Les statistiques d'usage
@@ -63,7 +63,7 @@ layout: default
     {% assign startup_id = page.id | remove: '/startups/' %}
     {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
     {% if jobs[0] %}
-      <div class="rf-container rf-py-6w rf-px-2w">
+      <div class="fr-container fr-py-6w fr-px-2w">
         <h3>Postes ouverts</h3>
         <ul>
           {% for job in jobs %}
@@ -73,7 +73,7 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="rf-container rf-py-6w rf-px-2w">
+    <div class="fr-container fr-py-6w fr-px-2w">
       {{ content }}
     </div>
   </section>
@@ -84,7 +84,7 @@ layout: default
 
   {% if page.rgpd %}
   <section class="section section-white">
-    <div class="rf-container rf-py-6w rf-px-2w">
+    <div class="fr-container fr-py-6w fr-px-2w">
       <h2>Protection des données personnelles</h2>
       <div class="text-quote">
           <ul>

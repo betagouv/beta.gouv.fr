@@ -3,7 +3,6 @@ title: FAST 2 - Novembre 2019
 sidebar: sidebar-approche.html
 ---
 
-## [FAST 2 - Novembre 2019](https://blog.beta.gouv.fr/dinsic/2019/10/01/postulez-au-fonds-d-acceleration-des-startups-d-etat-2eme-edition/)
 
 ### **Le comité d'investissement DINUM :** ### 
 - Nadi Bou Hanna
@@ -24,3 +23,5 @@ sidebar: sidebar-approche.html
 4. Classe à 12, faciliter le passage en classe à 12 pour les professeurs de CP en REP et REP+.
 
 [Plus de détails en photos](https://blog.beta.gouv.fr/general/2019/12/03/le-fast-2e-edition-a-ses-laureats/) 
+
+[Appel à candidature](https://blog.beta.gouv.fr/dinsic/2019/10/01/postulez-au-fonds-d-acceleration-des-startups-d-etat-2eme-edition/)
