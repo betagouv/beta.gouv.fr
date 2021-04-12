@@ -37,7 +37,7 @@ relation_default_options: &relation_default_options
   widget: relation
   valueField: "{{slug}}"
   displayFields: [title]
-  searchFields: [slug, title]
+  searchfields: [slug, title]
 
 date_field_defaults: &date_field_defaults
   widget: datetime
@@ -346,15 +346,16 @@ collections:
     fields:
       - { label: label, name: label, widget: string }
   - name: jobs
+    identifier_field: roles
     label: Fiche de postes
-    label_singular: Fiche de postes
+    label_singular: Fiche de poste
     folder: "content/_jobs"
     create: true
     delete: false
     editor:
       preview: false
     fields:
-      - label: Quel est le titre du poste ?
+      - label: Quel est le titre du poste ? (le titre doit être unique à toutes les fiches de postes)
         name: roles
         widget: string
         required: true  
@@ -377,12 +378,7 @@ collections:
         name: startup
         <<: *relation_default_options
         collection: startups
-        required: false
-    # Certain le mette mais ce n'est pas utilisé dans le code
-    #  - label: Quelle est l'adresse de contact ?
-    #    name: contact
-    #    widget: string
-    #    required: true  
+        required: false 
       - label: Rédiger sa fiche de recrutement
         name: body
         widget: markdown
