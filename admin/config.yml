@@ -362,6 +362,11 @@ collections:
         name: open
         widget: boolean
         required: true 
+      - label: Date de publication
+        name: date
+        widget: datetime
+        time_format: false
+        required: true 
       - label: Pour quel startup ?
         label_singular: Startup
         hint: "Si la startup n'apparait pas encore dans la liste, contacte un administrateur du site !"
