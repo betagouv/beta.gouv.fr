@@ -11,7 +11,7 @@ missions:
 startups:
   - lapins
 previously:
-  - DossierSCO
+  - dossiersco
 ---
 
 Coéquipier à tout faire.
