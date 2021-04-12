@@ -1,7 +1,6 @@
 ---
 title: Atlas des paysages
-mission: Systématiser la prise en compte des paysages dans les projets
-  d'aménagement du territoire
+mission: Systématiser la prise en compte des paysages dans les projets d'aménagement du territoire
 owner: DGALN
 incubator: mtes
 contact: emilie.fleury-jagerschmidt@developpement-durable.gouv.fr
@@ -10,10 +9,10 @@ phases:
     start: 2020-12-01
     end: 2021-04-30
 ---
+
 ## Contexte
 
 La prise en compte du paysage dans les projets d’aménagement a une assise juridique censée la rendre obligatoire, mais pas contraignante :
-
 * principes de la Convention Européenne du Paysage du Conseil de l’Europe
 * codes de l’environnement et de l’urbanisme
 
