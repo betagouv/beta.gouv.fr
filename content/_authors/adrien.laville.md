@@ -10,6 +10,7 @@ missions:
     employer: NUMA
 startups:
   - zero-logement-vacant
+  - docurba
 previously:
   - mission-transition
   - domifa

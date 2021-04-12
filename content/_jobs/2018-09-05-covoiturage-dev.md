@@ -35,7 +35,7 @@ Modalités
 
 Comment candidater
 ===========
-Raconte-nous pourquoi tu aurais envie de nous rejoindre et envoie-nous ton LinkedIn / CV / GitHub, le tout à margot.sanchez@beta.gouv.fr et recrutement@beta.gouv.fr. 
+Raconte-nous pourquoi tu aurais envie de nous rejoindre et envoie-nous ton LinkedIn / CV / GitHub, le tout à recrutement@beta.gouv.fr. 
 
 
 À bientôt !
