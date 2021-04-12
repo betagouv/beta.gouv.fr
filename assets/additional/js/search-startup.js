@@ -1,25 +1,25 @@
 
 var createStartupCard = function(startup) {
     var card = document.createElement('div');
-    card.className = 'rf-col-12 rf-col-md-3';
+    card.className = 'fr-col-12 fr-col-md-3';
     card.id = startup.id;
 
     card.innerHTML = `
-        <div class="rf-card rf-enlarge-link">
-            <div class="rf-card__img">
+        <div class="fr-card fr-enlarge-link">
+            <div class="fr-card__img">
                 <img class="screenshot lozad"
                     data-src="${startup.attributes['screenshot-url']}"
                     title="${startup.attributes.name} est encore en travaux"
                     alt=""
                     data-proofer-ignore>
             </div>
-            <div class="rf-card__body">
-                <h4 class="rf-card__title">
-                    <a class="rf-card__link" href="/startups/${ startup.id }.html" target="\_blank" rel="noopener">${startup.attributes.name}</a>
+            <div class="fr-card__body">
+                <h4 class="fr-card__title">
+                    <a class="fr-card__link" href="/startups/${ startup.id }.html" target="\_blank" rel="noopener">${startup.attributes.name}</a>
                 </h4>
         
-                <p class="rf-card__detail">${ startup.attributes.owner }</p>
-                <p class="rf-card__desc">${ startup.attributes.pitch }</p>
+                <p class="fr-card__detail">${ startup.attributes.owner }</p>
+                <p class="fr-card__desc">${ startup.attributes.pitch }</p>
             </div>
         </div>`
     return card

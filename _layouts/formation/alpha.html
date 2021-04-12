@@ -5,14 +5,14 @@ layout: default
 {% comment %}additional_css : side-panel.css{% endcomment %} {% assign lang =
 page.lang | default: site.lang | default: "en" %}
 
-<div class="rf-container rf-pb-6w rf-pt-6w">
-  <div class="rf-grid-row rf-grid-row--gutters rf-b__two-col">
+<div class="fr-container fr-pb-6w fr-pt-6w">
+  <div class="fr-grid-row fr-grid-row--gutters fr-b__two-col">
     <!-- Menu -->
-    <div class="rf-col-xs-12 rf-col-md-3">
+    <div class="fr-col-xs-12 fr-col-md-3">
       {% include sidebar-approche.html %}
     </div>
     <!-- Content -->
-    <div class="rf-col-xs-12 rf-col-md-9">
+    <div class="fr-col-xs-12 fr-col-md-9">
       <h2>{{ page.title }}</h2>
       <h3 id="inscription">Prochaine session</h3>
       {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %} {%
