@@ -355,7 +355,7 @@ collections:
       preview: false
     fields:
       - label: Quel est le titre du poste ?
-        name: title
+        name: roles
         widget: string
         required: true  
       - label: Est-ce que le poste est ouvert ?
