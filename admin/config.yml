@@ -37,7 +37,7 @@ relation_default_options: &relation_default_options
   widget: relation
   valueField: "{{slug}}"
   displayFields: [title]
-  searchfields: [slug, title]
+  searchFields: [slug, title]
 
 date_field_defaults: &date_field_defaults
   widget: datetime
