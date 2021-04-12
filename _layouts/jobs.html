@@ -6,7 +6,7 @@ layout: default
 <div class="page article">
   {% include hero-page.html title=page.title %}
   <section class="section section-white cards">
-    <div class="fr-container fr-py-6w fr-px-2w">
+    <div class="fr-container">
       <h2>Offres disponibles</h2>
 
       {% assign jobs = site.jobs | where: "open", 'true' | reverse %}
