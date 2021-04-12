@@ -306,7 +306,7 @@ collections:
         required: false
         options:
            - { label: "Ségur", value: "segur" }
-      - label: Description
+      - label: Mini-Biographie
         hint: "Raconte-nous qui tu es dans une phrase percutante !"
         name: body
         widget: markdown
