@@ -368,7 +368,7 @@ collections:
         widget: boolean
         required: false
       - label: Date de publication
-        name: date
+        name: dateDate
         widget: datetime
         time_format: false
         required: true 
