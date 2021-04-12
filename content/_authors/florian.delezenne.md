@@ -12,7 +12,6 @@ missions:
     employer: dinum
     status: admin
 startups:
-  - aidantsconnect
 previously:
   - datapass
   - bourse
@@ -21,6 +20,7 @@ previously:
   - geo.data.gouv.fr
   - api-particulier
   - api.gouv.fr
+  - aidantsconnect
 badges:
   - segur
 ---
