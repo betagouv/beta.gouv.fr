@@ -49,4 +49,4 @@ Pour faciliter et accélérer le passage à l’acte vers de nouveaux modes de v
 
 - Par ailleurs, tout au long de l’année, Datagir propose de bénéficier de l’expertise des membres de l’ADEME et de son équipe, notamment constituée de développeu·r·se·s, via l’organisation d’**ateliers en petits groupes pour répondre aux questions et besoins des participants, ou de webinaires plus large** rassemblant jusqu'à plusieurs centaines d’intéressés.
 
-![Découvrir notre offre](https://datagir.ademe.fr/qui-sommes-nous/)
+Pour en savoir plus, nous vous invitons à aller [découvrir notre offre](https://datagir.ademe.fr/qui-sommes-nous/).
