@@ -1682,13 +1682,3 @@ ol li p, ul li p {
 .fr-tile__img img {
   width: 100%;
 }
-
-.fr-link__color {
-  background-color: var(--bs500) !important;
-  color: #fff !important;
-}
-
-.fr-link__color:hover {
-  background-color: var(--bd500) !important;
-  color: #fff !important;
-}
