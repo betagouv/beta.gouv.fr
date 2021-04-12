@@ -7,7 +7,7 @@ additional_css:
   - side-panel.css
 ---
 
-## Découvrez comment créer des services publics innovants
+### Découvrez comment créer des services publics innovants
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">

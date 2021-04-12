@@ -3,8 +3,6 @@ title: FAST 5 - Octobre 2020
 sidebar: sidebar-approche.html
 ---
 
-## [FAST 5 - Octobre 2020](https://blog.beta.gouv.fr/dinsic/2020/10/12/decouvrez-les-laureats-du-fast-5-candidatez-au-fast-6/)
-
 ### **Le comité d'investissement :** ### 
 - Nadi Bou Hanna (DINUM)
 - Jean-Séverin Lair (DINUM)
@@ -16,3 +14,4 @@ sidebar: sidebar-approche.html
 3. Oz Ensemble, offrir à tous un accès simple aux soins en addictologie.
 4. Signaux faibles, mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté.
 
+[Appel à candidature](https://blog.beta.gouv.fr/dinsic/2020/10/12/decouvrez-les-laureats-du-fast-5-candidatez-au-fast-6/)
