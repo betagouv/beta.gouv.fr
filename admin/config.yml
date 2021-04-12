@@ -222,7 +222,7 @@ collections:
         hint: "Format : Prénom Nom. Ton nom complet est utilisé pour le nom de ta fiche. Attention à ton orthographe !"
         name: "fullname"
         widget: "string"
-     - name: role
+      - name: role
         widget: select
         options: [
           "Animation",  
