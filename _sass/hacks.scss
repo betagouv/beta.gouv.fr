@@ -146,7 +146,7 @@ h2.phase-title em {
   background-color: var(--bd300);
 }
 
-.filters .rf-container {
+.filters .fr-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 1em;
@@ -165,7 +165,7 @@ h2.phase-title em {
 }
 
 @media (max-width: 1200px) {
-  .filters .rf-container {
+  .filters .fr-container {
     grid-template-columns: repeat(3, 1fr);
   }
   
@@ -179,7 +179,7 @@ h2.phase-title em {
     display: none;
   }
 
-  .filters .rf-container {
+  .filters .fr-container {
     grid-template-columns: auto;
     grid-template-rows: auto;
   }
@@ -240,7 +240,7 @@ header.navbar {
   padding-top: 0;
 }
 
-:root .rf-scheme-soft-blue-soft.incubator-header {
+:root .fr-scheme-soft-blue-soft.incubator-header {
   background-color: #EDEDF2;
   padding: 2em 0;
 }
@@ -255,7 +255,7 @@ header.navbar {
 }
 
 // Pour ne pas avoir de marge quand on a une seule ligne
-.rf-grid-row--gutters:last-of-type {
+.fr-grid-row--gutters:last-of-type {
   margin-bottom: 0;
 }
 
