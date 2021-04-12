@@ -362,15 +362,19 @@ collections:
         name: open
         widget: boolean
         required: true 
+      - label: Est-ce que le poste est ouvert au junior ?
+        name: junior
+        widget: boolean
+        required: false
       - label: Date de publication
         name: date
         widget: datetime
         time_format: false
         required: true 
-      - label: Pour quel startup ?
+      - label: Pour quelle startup ?
         label_singular: Startup
         hint: "Si la startup n'apparait pas encore dans la liste, contacte un administrateur du site !"
-        name: startups
+        name: startup
         <<: *relation_default_options
         collection: startups
         required: false
@@ -379,14 +383,6 @@ collections:
     #    name: contact
     #    widget: string
     #    required: true  
-      - label: Est-ce que le poste est ouvert ?
-        name: open
-        widget: boolean
-        required: false  
-      - label: Est-ce que le poste est ouvert au junior ?
-        name: junior
-        widget: boolean
-        required: false
       - label: Rédiger sa fiche de recrutement
         name: body
         widget: markdown
