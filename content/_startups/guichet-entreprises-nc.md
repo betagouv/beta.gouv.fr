@@ -5,6 +5,19 @@ owner: Gouvernement de la Nouvelle-Calédonie
 incubator: dinum
 link: https://guichet-entreprises.nc/
 contact: mathilde.menil@gouv.nc
+events:
+  - date: 2019-03-01
+    name: product_launch
+phases:
+  - name: investigation
+    start: 2018-09-01
+    end: 2018-10-15
+  - name: alumni
+    start: 2018-10-01
+    end: 2018-12-01
+  - name: construction
+    start: 2018-10-15
+    end: 2021-04-13
 ---
 ## Problème 
 
