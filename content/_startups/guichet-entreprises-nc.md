@@ -38,3 +38,5 @@ La version béta de ce produit en 2019 a connu un vif succès : 20% des entrepri
 * Multiplication par 3 des formalités en ligne entre 2019 et 2020 
 * 90% de satisfaction des entreprises utilisatrices
 * Délai de traitement des formalités en 2 jours (contre 15 jours hors dispositif en ligne)
+
+![](/img/netlifycms/capture.png)
