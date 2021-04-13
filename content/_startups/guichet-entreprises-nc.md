@@ -30,7 +30,7 @@ Ces démarches pèsent clairement sur leur productivité.
 
 ## Solution
 
-Guichet-entreprises.nc a été conçu pour simplifier ce parcours du combattant en offrant un point d’entrée unique aux démarches d'immatriculation, de radiation et de modification. Ainsi, via un formulaire en ligne, les entreprises transmettent l’ensemble des informations nécessaires à 6 administrations (chambres consulaires, Insee, Ursaff et service fiscale locaux). A l’issue, l’entrepreneur reçoit en ligne l’ensemble de ses documents administratifs à jour. 
+Guichet-entreprises.nc a été conçu pour simplifier ce parcours du combattant en offrant un point d’entrée unique aux démarches d'immatriculation, de radiation et de modification. Ainsi, via un formulaire en ligne, les entreprises transmettent l’ensemble des informations nécessaires à 6 administrations (chambres consulaires, Insee, Urssaf et service fiscale locaux). A l’issue, l’entrepreneur reçoit en ligne l’ensemble de ses documents administratifs à jour. 
 
 ## Stratégie
 
