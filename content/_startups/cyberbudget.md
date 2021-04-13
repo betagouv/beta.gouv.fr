@@ -1,6 +1,6 @@
 ---
 title: CyberBudget
-mission: Décourvrir le fondement d'un budget de l'Etat par le jeu
+mission: Découvrir le fondement d'un budget de l'Etat par le jeu
 owner: Ministère de l'économie, des finances et de la relance - Direction du budget (DB)
 incubator: bercy
 phases:
