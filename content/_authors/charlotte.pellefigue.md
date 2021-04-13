@@ -1,11 +1,13 @@
 ---
 fullname: Charlotte Pellefigue
-role: UX Designer
+role: UX Designer & User Research
 missions:
-  - start: 2020-10-20
-    end: 2021-05-26
-    status: independent
+  - start: /
+    end: /
+    status: indépendante
 github: charlotte-uxr
 startups:
-  - cartobio
+  - CartoBio :
+  - start: 2020-10-20
+  - end : 12/04/2021
 ---
