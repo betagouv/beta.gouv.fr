@@ -1,6 +1,6 @@
 ---
 title: Guichet-entreprises.nc
-mission: Faciliter les démarches administratives des entreprises
+mission: Faciliter les démarches administratives des entreprises calédoniennes
 owner: Gouvernement de la Nouvelle-Calédonie
 incubator: dinum
 link: https://guichet-entreprises.nc/
@@ -17,6 +17,9 @@ phases:
     end: 2018-12-01
   - name: construction
     start: 2018-10-15
+    end: 2020-01-02
+  - name: acceleration
+    start: 2020-01-01
     end: 2021-04-13
 ---
 ## Problème
