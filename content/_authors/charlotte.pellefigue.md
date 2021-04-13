@@ -6,6 +6,6 @@ missions:
     end: 2021-05-26
     status: independent
 github: charlotte-uxr
-startups:
+previously:
   - cartobio
 ---
