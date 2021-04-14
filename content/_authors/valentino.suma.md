@@ -1,5 +1,5 @@
 ---
-fullname: valentino suma
+fullname: Valentino Suma
 role: Développeur
 missions:
   - start: 2021-04-05

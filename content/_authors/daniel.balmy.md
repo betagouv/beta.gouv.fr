@@ -11,7 +11,8 @@ missions:
     status: independent
 startups:
     - workinfrance
-    - administration+
+    - aplus
+    - comobi
 ---
 
 Linchpin mindset, fighting mediocrity, the status quo… and the lizard brain!
