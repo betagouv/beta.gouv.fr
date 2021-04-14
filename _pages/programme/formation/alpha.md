@@ -2,8 +2,6 @@
 layout: formation/alpha
 title: La formation Alpha
 permalink: /approche/formation
-additional_css:
-  - side-panel.css
   
 # Dates de la prochaine formation
 alpha-start: 2021-05-06
