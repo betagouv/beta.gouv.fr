@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% comment %}additional_css : side-panel.css grid.css{% endcomment %}
-
 {% assign lang = page.lang | default: site.lang | default: "en" %}
 {% assign phases = site.phases | sort: 'order' %}
 {% assign phases_with_stopped = site.phases | sort: 'order' %}
@@ -104,7 +102,7 @@ layout: default
     </section>
     {% for incubator in incubators %}
     {% assign incubator_id = incubator.id | remove: '/incubators/' %}
-    <section id="{{ incubator_id }}" class="section incubator-header fr-scheme-soft-blue-soft" style="display: none;">
+    <section id="{{ incubator_id }}" class="fr-py-6w incubator-header fr-scheme-soft-blue-soft" style="display: none;">
         <div class="fr-container">
             <div class="fr-grid-row fr-grid-row--gutters">
                 <div class="fr-col-1 incubator-logo">
@@ -121,39 +119,38 @@ layout: default
         </div>
     </section>
     {% endfor %}
-    <section class="section" style="padding-top: 0;">
-        <div class="fr-container fr-py-6w fr-px-2w">
-            {% assign phases = site.phases | sort: 'order' %}
-            {% for phase in phases %}
-                {% assign counter_target = phase.id | remove: "/phases/" %}
-                {% assign counter = site.startups | where_phase: counter_target | size %}
-                {% assign plural = "" %}
-                {% if counter > 1 %}
-                    {% assign plural = "s" %}
+
+    <div class="fr-container fr-py-6w fr-px-2w">
+        {% assign phases = site.phases | sort: 'order' %}
+        {% for phase in phases %}
+            {% assign counter_target = phase.id | remove: "/phases/" %}
+            {% assign counter = site.startups | where_phase: counter_target | size %}
+            {% assign plural = "" %}
+            {% if counter > 1 %}
+                {% assign plural = "s" %}
+            {% endif %}
+
+            <div id="{{ phase.status }}" class="fr-container-fluid fr-my-6w">
+                {% if phase.status == 'success' %}
+                    <h2 class="phase-title">Nos <em>{{ phase.label | downcase }}{{ plural }}</em></h2>
+                {% elsif phase.status == 'alumni' %}
+                    <h2 class="phase-title">Nos <em>{{ phase.label | downcase }}</em></h2>
+                {% else %}
+                    <h2 class="phase-title"><em><span class="phase-counter">{{ counter }}</span></em> {{ phase.type_label }}{{ plural }} en
+                    <em>{{ phase.label | downcase }}</em></h2>
                 {% endif %}
 
-                <div id="{{ phase.status }}" class="fr-container-fluid fr-my-6w">
-                    {% if phase.status == 'success' %}
-                        <h2 class="phase-title">Nos <em>{{ phase.label | downcase }}{{ plural }}</em></h2>
-                    {% elsif phase.status == 'alumni' %}
-                        <h2 class="phase-title">Nos <em>{{ phase.label | downcase }}</em></h2>
-                    {% else %}
-                        <h2 class="phase-title"><em><span class="phase-counter">{{ counter }}</span></em> {{ phase.type_label }}{{ plural }} en
-                        <em>{{ phase.label | downcase }}</em></h2>
-                    {% endif %}
+                <p class="phase-description">{{ phase.short_description }}.</p>
 
-                    <p class="phase-description">{{ phase.short_description }}.</p>
-
-                    <div class="fr-grid-row fr-grid-row--gutters startups">
-                        {% assign startups = site.startups | where_phase: phase.status %}
-                        {% for startup in startups %}
-                            {% include card-startup.html startup = startup %}
-                        {% endfor %}
-                    </div>
+                <div class="fr-grid-row fr-grid-row--gutters startups">
+                    {% assign startups = site.startups | where_phase: phase.status %}
+                    {% for startup in startups %}
+                        {% include card-startup.html startup = startup %}
+                    {% endfor %}
                 </div>
-            {% endfor %}
-        </div>
-    </section>
+            </div>
+        {% endfor %}
+    </div>
 </main>
 
 
