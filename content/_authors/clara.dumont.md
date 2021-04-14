@@ -10,4 +10,4 @@ missions:
 startups:
   - locatio
 ---
-Entrepreneure, photographe, passionnée par l'ESS et l'innovation sociale, je n'ai qu'une tête mais de multiples casquettes !
+Entrepreneure, photographe, engagée dans les enjeux de l'ESS et les questions d'innovation sociale, je n'ai qu'une tête mais de multiples casquettes !
