@@ -16,7 +16,7 @@ layout: default
 {% assign incubator = site.incubators | where:'id', incubator_id | first %}
 
 {% capture phase_info %}
-Le produit est en <a href="{{ phase.documentation_url }}">{{ phase.label | downcase }}</em></a>
+Le produit est en <a href="{{ phase.documentation_url }}">{{ phase.label | downcase }}</a>
 {% endcapture %}
 
 {% capture incubator_info %}
