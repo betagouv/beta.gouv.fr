@@ -6,8 +6,6 @@ missions:
     end: 2021-07-30
     status: independent
     employer: NUMA
-badges:
-  - segur
 ---
 
 Spécialiste démocratie et accompagnement du changement
