@@ -4,7 +4,7 @@ label: Survivre en milieu hostile
 order: 4
 ---
 
-### Survivre en milieu hostile
+## Survivre en milieu hostile
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
@@ -14,7 +14,7 @@ order: 4
   <p><a href="/content/docs/mooc/16-survivre-milieu-hostile.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
 
-### Identifier les problèmes imaginaires
+## Identifier les problèmes imaginaires
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
@@ -34,7 +34,7 @@ order: 4
   <p><a href="/content/docs/mooc/18-identifier-problemes-imaginaires-2.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
 
-### Quatre conseils à suvire pour maîtriser les imprévus
+## Quatre conseils à suvire pour maîtriser les imprévus
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
@@ -44,7 +44,7 @@ order: 4
   <p><a href="/content/docs/mooc/19-maitriser-imprevus.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
 
-### Maîtriser les imprévus : le témoignage de Work In France
+## Maîtriser les imprévus : le témoignage de Work In France
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
