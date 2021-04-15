@@ -3,7 +3,6 @@ layout: communaute
 permalink: /communaute/
 title: La communauté beta.gouv.fr
 additional_css:
-  - grid.css
   - community-chart.css
 additional_js:
   - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.bundle.min.js
