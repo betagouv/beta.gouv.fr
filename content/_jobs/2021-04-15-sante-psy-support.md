@@ -47,7 +47,7 @@ Le ou la chargé(e) de communauté sera au coeur de cette aventure à impact nat
 ## Les détails pratiques :
  - Poste ouvert pour des indépendant·e·s sur une durée de 6 mois renouvelable
  - Taux Journalier Moyen à discuter selon profil
- - Temps de travail : 5 jours / semaine
+ - Temps de travail : 4 à 5 jours / semaine
  - Démarrage en avril 2021
  - Télétravail et/ou possibilité de travailler à la DINUM et/ ou MESRI (hors période confinement)
  - Environnement et communauté beta.gouv : https://beta.gouv.fr/ (plus de détails ici également : https://github.com/betagouv/beta.gouv.fr/wiki/Bienvenue)
