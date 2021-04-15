@@ -1,9 +1,0 @@
-/* Listes sans puces */
-
-li {
-  list-style: none;
-}
-
-.empty {
-  font-style: italic;
-}
