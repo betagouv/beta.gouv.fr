@@ -11,19 +11,6 @@
   justify-content: space-around;
 }
 
-/* Mettre des marges autour de la section mosaic */
-
-.mosaic {
-  margin-top: 2em;
-  margin-bottom: 2em;
-}
-
-/* Centrer la section newsletter */
-
-.newsletter {
-  text-align: center;
-}
-
 /* Ancien CSS épuré : reprise de la section mosaic */
 
 .mosaic .photo {
