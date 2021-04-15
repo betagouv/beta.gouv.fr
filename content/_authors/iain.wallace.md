@@ -7,8 +7,7 @@ missions:
     end: 2021-07-30
     status: independent
     employer: Numa
-badges:
-  - segur
+
 ---
 
 Coach franco-américain qui aime transmettre la magie de résoudre élégamment et rapidement des problèmes têtus en partant du client (ou usager) attesté par le sourire sur lèvres de ceux que je coache. 
