@@ -65,10 +65,6 @@ layout: default
         {% for phase in site.phases %}
             {% assign counter_target = phase.id | remove: "/phases/" %}
             {% assign counter = site.startups | where_phase: counter_target | size %}
-            {% assign plural = "" %}
-            {% if counter > 1 %}
-                {% assign plural = "s" %}
-            {% endif %}
             { "status"        : "{{ phase.status }}"
             , "label"      : "{{ phase.label }}"
             , "counter"      : "{{ phase.counter }}"
