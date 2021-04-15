@@ -2,8 +2,7 @@
 layout: default
 ---
 
-{% comment %}additional_css : side-panel.css{% endcomment %} {% assign lang =
-page.lang | default: site.lang | default: "en" %}
+{% assign lang = page.lang | default: site.lang | default: "en" %}
 
 <div class="fr-container fr-pb-6w fr-pt-6w">
   <div class="fr-grid-row fr-grid-row--gutters fr-b__two-col">
@@ -18,7 +17,7 @@ page.lang | default: site.lang | default: "en" %}
       {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %} {%
       capture timestampEnd %}{{ page.alpha-end | date: '%s' }}{% endcapture %}
       {% if timestampNow < timestampEnd %}
-      <div class="text-quote">
+      <div class="fr-callout">
         <ul>
           <li>
             <b>Quand ?</b><br />
