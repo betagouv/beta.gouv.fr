@@ -16,8 +16,9 @@ phases:
   - name: acceleration
     start: 2020-11-17
 link: https://datagir.ademe.fr/
-repository: https://github.com/betagouv/ecolab
+repository: https://github.com/datagir/datagir-site
 stats: true
+stats_url: https://datagir.ademe.fr/stats/
 contact: contact@datagir.beta.gouv.fr
 ---
 
@@ -42,12 +43,10 @@ Pour faciliter et accélérer le passage à l’acte vers de nouveaux modes de v
 
 - Pour les structures qui sont à la recherche de **solutions simples et rapides à mettre en place, sans développement**, Datagir propose des calculateurs déjà opérationnels, qui restent à jour et sont faciles à intégrer dans un site internet, un article, etc. Ces outils visent également à inspirer les réutilisateurs en leur proposant des cas d’usages des données disponibles.
 
-> *Exemple 1* : Notre [calculateur transport](https://datagir.ademe.fr/transport) permet de quantifier et comparer l’impact CO2 de différents moyens de transport pour une distance donnée.
+> *Exemple 1* : Notre [calculateur transport](https://monimpacttransport.fr) permet de quantifier et comparer l’impact CO2 de différents moyens de transport pour une distance donnée.
 
-> *Exemple 2* : Le [simulateur d’empreinte carbone personnel Nos Gestes Climat](https://datagir.ademe.fr/impactcarbone) interroge l’utilisateur sur ses habitudes quotidiennes (déplacements, alimentation, logement, etc) afin de lui indiquer son impact carbone et de le mettre en parallèle avec la moyenne française et l’objectif à atteindre pour respecter les Accords de Paris. Sont ensuites proposées des fiches personnalisés à l’utilisateur afin de lui permettre d’identifier les actions qu’il peut mettre en place pour réduire son impact carbone.
+> *Exemple 2* : Le [simulateur d’empreinte carbone personnel Nos Gestes Climat](https://nosgestesclimat.fr) interroge l’utilisateur sur ses habitudes quotidiennes (déplacements, alimentation, logement, etc) afin de lui indiquer son impact carbone et de le mettre en parallèle avec la moyenne française et l’objectif à atteindre pour respecter les Accords de Paris. Sont ensuites proposées des fiches personnalisés à l’utilisateur afin de lui permettre d’identifier les actions qu’il peut mettre en place pour réduire son impact carbone.
 
-- Par ailleurs, tout au long de l’année, Ecolab propose de bénéficier de l’expertise des membres de l’ADEME et de son équipe, notamment constituée de développeurs, via l’organisation d’**ateliers en petits groupes pour répondre aux questions et besoins des participants, ou de webinaires plus large** rassemblant jusqu'à plusieurs centaines d’intéressés.
+- Par ailleurs, tout au long de l’année, Datagir propose de bénéficier de l’expertise des membres de l’ADEME et de son équipe, notamment constituée de développeu·r·se·s, via l’organisation d’**ateliers en petits groupes pour répondre aux questions et besoins des participants, ou de webinaires plus large** rassemblant jusqu'à plusieurs centaines d’intéressés.
 
-![Offre Datagir](https://user-images.githubusercontent.com/46482115/93336520-287ecb80-f828-11ea-8b95-ab90138e84a0.png)
-
-Plus d’informations : [Site Datagir](http://datagir.ademe.fr/)
+Pour en savoir plus, nous vous invitons à aller [découvrir notre offre](https://datagir.ademe.fr/qui-sommes-nous/).

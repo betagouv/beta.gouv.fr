@@ -15,7 +15,7 @@
 
 {%- for author in team -%}
   {%- capture to_append -%}
-    <div class="rf-col-6 rf-col-md-3">
+    <div class="fr-col-6 fr-col-md-3">
       {%- include card-community.html author=author -%}
     </div>
   {%- endcapture -%}
@@ -37,7 +37,7 @@
 {%- assign team_previous = site.authors | where:"previously", startup_id %}
 {%- for author in team_previous -%}
   {%- capture to_append -%}
-    <div class="rf-col-6 rf-col-md-3">
+    <div class="fr-col-6 fr-col-md-3">
       {%- include card-community.html author=author -%}
     </div>
   {%- endcapture -%}
@@ -45,19 +45,19 @@
 {%- endfor -%}
 
 
-<div class="rf-container">
+<div class="fr-container">
     <h2 id="equipe">L'équipe actuelle</h2>
-    <div class="rf-grid-row rf-grid-row--gutters">
+    <div class="fr-grid-row fr-grid-row--gutters">
       {{ current_team }}
     </div>
 </div>
 
 {%- if past_team != "" -%}
-<div class="rf-container rf-py-6w rf-px-2w">
-  <button class="rf-btn rf-btn--secondary" onclick="toggle_visibility('startup-alumni');">Voir les anciens</button>
+<div class="fr-container fr-py-6w fr-px-2w">
+  <button class="fr-btn fr-btn--secondary" onclick="toggle_visibility('startup-alumni');">Voir les anciens</button>
   <div id="startup-alumni" style="display:none;">
     <h2>Les anciennes et les anciens</h2>
-    <div class="rf-grid-row rf-grid-row--gutters">
+    <div class="fr-grid-row fr-grid-row--gutters">
       {{ past_team }}
     </div>
   </div>

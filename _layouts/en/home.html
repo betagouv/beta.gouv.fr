@@ -2,12 +2,10 @@
 layout: default
 ---
 
-{% comment %}additional_css : home.css{% endcomment %}
+{% include hero-with-image.html title=page.summary image="/img/layouts/home/index.jpg" %}
 
-{% include hero-page.html title=page.summary image="/img/layouts/home/index.jpg" %}
-
-<section class="section-grey mosaic">
-  <div class="rf-container">
+<section class="fr-py-6w section-grey mosaic">
+  <div class="fr-container">
     <div class="row public-agents inverted">
       <div class="photo agents"></div>
       <div class="stacked">
