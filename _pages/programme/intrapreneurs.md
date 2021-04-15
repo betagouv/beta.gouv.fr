@@ -3,13 +3,12 @@ layout: with-sidebar
 sidebar: sidebar-approche.html
 title: Les intrapreneurs
 permalink: /approche/intrapreneurs
-additional_css:
-  - side-panel.css
 ---
 
 > Dans le cadre du programme beta.gouv.fr, l’intrapreneur est la personne responsable du service numérique qu’elle incarne au sein de l’État (ou de son établissement public / sa collectivité territoriale). Pour son plus grand bonheur, son rôle est à la croisée entre les métiers de responsable de produit numérique (Product Manager) et de directrice / directeur de projet SI, le tout dans un esprit résolument entrepreneurial. 
 
-L'intrapreneur·e est une personne qui&nbsp;: 
+### L'intrapreneur·e est une personne qui
+
 - **a du temps à consacrer à sa mission**, de préférence plus de 60% de son temps est consacré au service numérique&nbsp;;
 - **est motivée par la mission et est opiniâtre**&nbsp;: elle a choisi de s’y engager et n’a pas été désigné par ses supérieurs hiérarchiques sans concertation&nbsp;;
 - **connaît bien son organisation**&nbsp;: elle est capable d’évoluer facilement dans les méandres de son administration et de solliciter les services et expertises dont le service a besoin pour réussir&nbsp;; 
@@ -23,12 +22,15 @@ L'intrapreneur·e est une personne qui&nbsp;:
 
 Les missions que cette personne sera amenée à endosser peuvent être extrêmement variées.
 
-Pendant la **[phase d’investigation](https://beta.gouv.fr/approche/investigation)**&nbsp;: 
+### Pendant la [phase d’investigation](https://beta.gouv.fr/approche/investigation)
+
 - **investiguer le problème**&nbsp;: s’entretenir avec des experts, faire de la recherche utilisateur sur le terrain, analyser les résultats pour acquérir une compréhension des utilisateurs du service et de leur comportement&nbsp;;
 - **convaincre son administration de se lancer**&nbsp;: synthétiser l’investigation, élaborer des maquettes et des scénarios de solution, les présenter devant la direction de son administration à un comité de lancement&nbsp;; 
   
-À partir du lancement des travaux&nbsp;:
-- **agir comme une ou un responsable de produit (*Product Manager*)**&nbsp;: concevoir la solution en s’emparant des pratiques des meilleurs acteurs du numérique
+### À partir du lancement des travaux
+
+- **agir comme une ou un responsable de produit (*Product Manager*)**&nbsp;:
+  - concevoir la solution en s’emparant des pratiques des meilleurs acteurs du numérique
   - tester chaque semaine ses idées avec des vrais usagers avant de lancer des développements&nbsp;;
   - chercher autant à résoudre des inconnues qu’à construire du logiciel&nbsp;;
   - réviser ses plans en permanence en fonction de ce que l'équipe vient d’apprendre&nbsp;;
