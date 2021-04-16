@@ -1,9 +1,9 @@
 ---
-roles: Chargée ou chargé de déploiement
-title: Santé Psy Etudiant recrute deux responsables de déploiement
+roles: Chargée ou chargé de communauté
+title: Santé Psy Etudiant recrute une personne en charge de l'animation de communauté
 contrat: indépendant
 startup: chèquespsy
-open: false
+open: true
 
 ---
 
@@ -21,24 +21,24 @@ Face à la détresse des étudiants, le gouvernement a décidé de mettre en pla
 
 Ce dispositif est mis en place au sein du Ministère de l’Enseignement Supérieur et de la Recherche (MESRI), en partenariat avec les Services de Santé Universitaire  (SSU) et la Fédération Française des Psychologues et de Psychologie (FFPP).
 
-Nous cherchons à présent à recruter une équipe permanente composée de deux développeurs ou développeuses, un ou une UX, deux chargés de déploiements, un ou une responsable de mission et un ou une coach.  L'enjeu sur ces prochains mois sera d’améliorer de façon continue le service et de tout mettre en œuvre pour obtenir un impact réel et aider au mieux les étudiants en difficulté.
+Nous cherchons à présent à recruter une équipe permanente composée de deux développeurs ou développeuses, un ou une UX, deux personnes en charge de l'animation de la communauté et du déploiement, un ou une responsable de mission et un ou une coach.  L'enjeu sur ces prochains mois sera d’améliorer de façon continue le service et de tout mettre en œuvre pour obtenir un impact réel et aider au mieux les étudiants en difficulté.
 
-## La mission : piloter le déploiement du dispositif auprès des parties prenantes
+## La mission : animer le déploiement du dispositif auprès des parties prenantes
 
-En tant que chargé de déploiement, tes missions seront de : 
-- Gérer les relations avec les Services de Santé Universitaire en charge de la sélection des psychologues partenaires et de leur remboursement
-- Assurer une couverture territoriale du dispositif en menant des actions pour mobiliser des psychologues sur les territoires actuellement non pourvus
+En tant que chargé(e) de communauté, tes missions seront, en bînome avec le chargé de déploiement, de : 
 - Répondre avec soin aux questions venant des étudiants, médecins ou psychologues et mettre en place une stratégie de support usagers
-- Garantir la réussite du dispositif en faisant remonter des problèmes usagers et en proposant des solutions rapides
-- Mettre en place une stratégie de déploiement du dispositif auprès des étudiants 
+- Assurer une couverture territoriale du dispositif en menant des actions pour mobiliser des psychologues sur les territoires actuellement non pourvus
+- Mettre en place une stratégie de déploiement du dispositif auprès des étudiants
+- Garantir la réussite du dispositif en assurant une bonne communication avec les psychologues, les étudiants et les universités partenaires
+- Faire remonter des problèmes usagers et participer à l'élaboration de solutions rapides 
 
-Le ou la chargé(e) de déploiement sera au coeur de cette aventure à impact national. 
-Il/ Elle aura une grande autonomie pour mener à bien ce déploiement à grande échelle. 
+Le ou la chargé(e) de communauté sera au coeur de cette aventure à impact national. 
 
 ## Les atouts du candidat :
 - Bienveillance et esprit d'équipe 
-- Dynamisme, capacité d’autonomie
-- Expérience en business development et/ou en service client (account management / customer success)
+- Goût du contact humain
+- Aisance rédactionnelle et orthographe exemplaire 
+- Expérience en communication et/ou service client (account management / customer success / support)
 - Capacité d’autonomie alliée à une bonne communication auprès de l’équipe
 - Capacité de compréhension du cadre d’action de l’État 
 - Souci du résultat et du suivi par l’impact
@@ -47,7 +47,7 @@ Il/ Elle aura une grande autonomie pour mener à bien ce déploiement à grande 
 ## Les détails pratiques :
  - Poste ouvert pour des indépendant·e·s sur une durée de 6 mois renouvelable
  - Taux Journalier Moyen à discuter selon profil
- - Temps de travail : 3 à 5 jours / semaine
+ - Temps de travail : 4 à 5 jours / semaine
  - Démarrage en avril 2021
  - Télétravail et/ou possibilité de travailler à la DINUM et/ ou MESRI (hors période confinement)
  - Environnement et communauté beta.gouv : https://beta.gouv.fr/ (plus de détails ici également : https://github.com/betagouv/beta.gouv.fr/wiki/Bienvenue)
