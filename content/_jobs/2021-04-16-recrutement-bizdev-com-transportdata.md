@@ -9,9 +9,9 @@ open: true
 
 ## Contexte
 
-La plateforme transport.data.gouv.fr cherche une personne intéressée par les transports et les données ouvertes pour enrichir son équipe dynamique et autonome !
+La plateforme [transport.data.gouv.fr](https://transport.data.gouv.fr) cherche une personne intéressée par les transports et les données ouvertes pour enrichir son équipe dynamique et autonome !
 
-transport.data.gouv.fr a pour objectif d’exposer toutes les données transport, de faciliter leur réutilisation, et ainsi d’aider les usagers des transports à mieux de déplacer
+[transport.data.gouv.fr](https://transport.data.gouv.fr) a pour objectif d’exposer toutes les données transport, de faciliter leur réutilisation, et ainsi d’aider les usagers des transports à mieux de déplacer
 
 Nous cherchons une personne pour rejoindre notre équipe et nous aider à atteindre tous ensemble les objectifs suivants :
 1. Réunir un maximum d’utilisateurs autour de la plateforme de diffusion de données transport ;
