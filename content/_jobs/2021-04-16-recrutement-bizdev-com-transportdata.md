@@ -4,7 +4,6 @@ title: transport.data.gouv.fr recrute un.e chargé.e de communication et de dép
 contrat: indépendant
 startup: transport
 open: true
-
 ---
 
 ## Contexte
