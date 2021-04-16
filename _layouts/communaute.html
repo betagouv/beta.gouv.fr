@@ -3,53 +3,53 @@ layout: default
 ---
 
 {%- capture build_date -%}{{ site.time | date:"%Y-%m-%d" }}{%- endcapture -%} {%- assign lang = page.lang | default: site.lang | default: "fr" -%}
-<div class="page article">
-    {%- include hero-page.html title=page.title -%}
-    {%- assign current = site.authors | community: 'current' -%}
-    {%- assign recent = site.authors | community: 'recent' -%}
-    <section class="section section-white">
-        <div class="fr-container">
-            <h3>Évolution des effectifs</h3>
-            <div id="chart-wrapper">
-                <canvas> Nous avons actuellement {{ current | size }} membres. </canvas>
-            </div>
-        </div>
-        <div class="fr-container">
-            {{ content }}
-        </div>
-    </section>
+{%- assign current = site.authors | community: 'current' -%}
+{%- assign recent = site.authors | community: 'recent' -%}
 
+{%- include hero-page.html title=page.title -%}
+
+<section class="fr-py-6w">
     <div class="fr-container">
-        <div class="fr-tabs">
-            <ul class="fr-tabs__list" role="tablist" aria-label="Changer de vue">
-                <li role="presentation">
-                    <button id="tabpanel-404" class="fr-tabs__tab" tabindex="0" role="tab" aria-selected="true" aria-controls="tabpanel-membres">Nos membres</button>
-                </li>
-                <li role="presentation">
-                    <button id="tabpanel-405" class="fr-tabs__tab" tabindex="-1" role="tab" aria-selected="false" aria-controls="tabpanel-incubateurs">Notre réseau d'incubateurs</button>
-                </li>
-            </ul>
-            <div id="tabpanel-membres" class="fr-tabs__panel fr-tabs__panel--selected" role="tabpanel" aria-labelledby="tabpanel-404" tabindex="0">
-                <div class="fr-grid-row">
-                    <div class="fr-col-12 fr-col-md-9">
-                        <h3>Ils nous ont rejoint en {{ site.time | date_to_french_month }}&nbsp;!</h3>
-                    </div>
-                    <div class="fr-col-12 fr-col-md-3 link_to_members">
-                        <a class="fr-link fr-link__color fr-fi-arrow-right-line fr-link--icon-right" href="/communaute/annuaire">Voir tous les membres</a>
-                    </div>
+        <h3>Évolution des effectifs</h3>
+        <div id="chart-wrapper">
+            <canvas> Nous avons actuellement {{ current | size }} membres. </canvas>
+        </div>
+    </div>
+    <div class="fr-container">
+        {{ content }}
+    </div>
+</section>
+
+<div class="fr-container">
+    <div class="fr-tabs">
+        <ul class="fr-tabs__list" role="tablist" aria-label="Changer de vue">
+            <li role="presentation">
+                <button id="tabpanel-404" class="fr-tabs__tab" tabindex="0" role="tab" aria-selected="true" aria-controls="tabpanel-membres">Nos membres</button>
+            </li>
+            <li role="presentation">
+                <button id="tabpanel-405" class="fr-tabs__tab" tabindex="-1" role="tab" aria-selected="false" aria-controls="tabpanel-incubateurs">Notre réseau d'incubateurs</button>
+            </li>
+        </ul>
+        <div id="tabpanel-membres" class="fr-tabs__panel fr-tabs__panel--selected" role="tabpanel" aria-labelledby="tabpanel-404" tabindex="0">
+            <div class="fr-grid-row">
+                <div class="fr-col-12 fr-col-md-9">
+                    <h3>Ils nous ont rejoint en {{ site.time | date_to_french_month }}&nbsp;!</h3>
                 </div>
-                <div class="fr-grid-row fr-grid-row--gutters">
-                    {%- for author in recent -%}
-                    <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
-                    {%- endfor -%}
+                <div class="fr-col-12 fr-col-md-3 link_to_members">
+                    <a class="fr-link fr-link--lg fr-fi-arrow-right-line fr-link--icon-right" href="/communaute/annuaire">Voir tous les membres</a>
                 </div>
             </div>
-            <div id="tabpanel-incubateurs" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-405" tabindex="0">
-                <div class="fr-grid-row fr-grid-row--gutters">
-                    {%- for incubator in site.incubators -%}
-                    <div class="fr-col-12 fr-col-md-6">{%- include card-incubator.html incubator=incubator -%}</div>
-                    {%- endfor -%}
-                </div>
+            <div class="fr-grid-row fr-grid-row--gutters">
+                {%- for author in recent -%}
+                <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
+                {%- endfor -%}
+            </div>
+        </div>
+        <div id="tabpanel-incubateurs" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-405" tabindex="0">
+            <div class="fr-grid-row fr-grid-row--gutters">
+                {%- for incubator in site.incubators -%}
+                <div class="fr-col-12 fr-col-md-6">{%- include card-incubator.html incubator=incubator -%}</div>
+                {%- endfor -%}
             </div>
         </div>
     </div>

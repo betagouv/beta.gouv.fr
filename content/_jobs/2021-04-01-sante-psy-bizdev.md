@@ -3,7 +3,7 @@ roles: Chargée ou chargé de déploiement
 title: Santé Psy Etudiant recrute deux responsables de déploiement
 contrat: indépendant
 startup: chèquespsy
-open: true
+open: false
 
 ---
 
