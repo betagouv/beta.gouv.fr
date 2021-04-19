@@ -2,7 +2,7 @@
 roles: Chargée ou chargé de communauté
 title: Santé Psy Etudiant recrute une personne en charge de l'animation de communauté
 contrat: indépendant
-startup: chèquespsy
+startup: sante-psy-etudiant
 open: true
 
 ---
@@ -25,25 +25,25 @@ Nous cherchons à présent à recruter une équipe permanente composée de deux 
 
 ## La mission : animer le déploiement du dispositif auprès des parties prenantes
 
-En tant que chargé(e) de communauté, tes missions seront, en bînome avec le chargé de déploiement, de : 
+En tant que chargé(e) de communauté, tes missions seront, en bînome avec le chargé de déploiement, de :
 - Répondre avec soin aux questions venant des étudiants, médecins ou psychologues et mettre en place une stratégie de support usagers
 - Assurer une couverture territoriale du dispositif en menant des actions pour mobiliser des psychologues sur les territoires actuellement non pourvus
 - Mettre en place une stratégie de déploiement du dispositif auprès des étudiants
 - Garantir la réussite du dispositif en assurant une bonne communication avec les psychologues, les étudiants et les universités partenaires
-- Faire remonter des problèmes usagers et participer à l'élaboration de solutions rapides 
+- Faire remonter des problèmes usagers et participer à l'élaboration de solutions rapides
 
-Le ou la chargé(e) de communauté sera au coeur de cette aventure à impact national. 
+Le ou la chargé(e) de communauté sera au coeur de cette aventure à impact national.
 
 ## Les atouts du candidat :
-- Bienveillance et esprit d'équipe 
+- Bienveillance et esprit d'équipe
 - Goût du contact humain
-- Aisance rédactionnelle et orthographe exemplaire 
+- Aisance rédactionnelle et orthographe exemplaire
 - Expérience en communication et/ou service client (account management / customer success / support)
 - Capacité d’autonomie alliée à une bonne communication auprès de l’équipe
-- Capacité de compréhension du cadre d’action de l’État 
+- Capacité de compréhension du cadre d’action de l’État
 - Souci du résultat et du suivi par l’impact
 
- 
+
 ## Les détails pratiques :
  - Poste ouvert pour des indépendant·e·s sur une durée de 6 mois renouvelable
  - Taux Journalier Moyen à discuter selon profil
@@ -55,7 +55,7 @@ Le ou la chargé(e) de communauté sera au coeur de cette aventure à impact nat
 En travaillant pour une Startup d'État et de Territoire, vous devenez membre de la communauté beta.gouv. Celle-ci se construit par l’investissement volontaire de ses membres, ce qui veut dire que chaque membre peut proposer de nouvelles idées, les mettre en œuvre ou rejoindre un travail en cours.
 L’engagement dans la communauté peut prendre différentes formes, de faire le café à participer à une équipe transverse en passant par organiser une conférence.
 L’objectif est de faire de beta.gouv une communauté vivante, riche des expériences et de l’engagement de chacun, et qui apporte un cadre de travail stimulant pour ces membres.
-En tant que membre, vous pouvez et êtes invités à vous engager dans la communauté. Si vous avez des questions, n’hésitez pas à les poser lors de votre entretien. 
+En tant que membre, vous pouvez et êtes invités à vous engager dans la communauté. Si vous avez des questions, n’hésitez pas à les poser lors de votre entretien.
 
 ## Contactez-nous pour postuler !
 contact-santepsyetudiants@beta.gouv.fr
