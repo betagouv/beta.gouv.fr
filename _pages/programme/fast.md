@@ -67,32 +67,31 @@ Sont aussi éligibles les ministères souhaitant créer un incubateur de Startup
 Une grille de sélection vous sera transmise pour présenter votre dossier devant le jury selon ces critères. 
 
 
-### Quel est le processus de sélection du FAST ?
+### Quel est le processus de sélection ?
 
 * Vous sélectionnez un ou plusieurs services numériques existants ayant un impact mesuré, que vous souhaitez déployer.
-* Vous postulez en remplissant ce [formulaire] (https://www.demarches-simplifiees.fr/commencer/fast8). À noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
+* Vous postulez en remplissant ce [formulaire] (https://www.demarches-simplifiees.fr/commencer/fast8). 
+À noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
 * À la clôture de l’appel à candidatures, l'équipe en charge du FAST effectue une présélection sur dossier. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
 * Si votre candidature est préselectionnée, vous présentez votre service devant les membres du comité d'investissement le 18 juin.
 * Si votre candidature est retenue, vous organisez dans les semaines qui suivent un comité d'engagement entre votre sponsor et l'équipe de la DINUM pour cadrer les objectifs précis liés au financement. 
 * Vous signez une convention de partenariat avec la DINUM lors de cet échange. 
 * Le produit est accompagné dans son développement par beta.gouv.fr en s'appuyant sur les deux tickets de financement (administration porteuse + DINUM).
 
-### Quelles sont les modalités de candidature ?
+### Comment remplir le dossier de candidature ?
 
-Le dossier de candidature doit préciser clairement :
-
-Si vous êtes candidat pour l'accélération d'un produit... 
+Si vous êtes candidat pour l'accélération d'un produit, le dossier doit préciser clairement :  
 * Le problème auquel la solution répond
 * La solution mise en place 
 * Son impact sur le réel chiffré
-* En cas de passage à l’échelle réussi, les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois (ex : sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc). 
+* Les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois
 L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de transfert du service
 
 
-Si vous êtes candidat pour la création d'un incubateur... 
+Si vous êtes candidat pour la création d'un incubateur, le dossier doit préciser clairement :   
 * Le problème auquel la création de l'incubateur répond
 * Le rattachement hiérarchique de l'incubateur 
-* Les ressources qui seront mobilisées. 
+* Les ressources qui seront mobilisées 
 
 
 [Candidatez-ici sur la session du 31 mai 2021.](https://www.demarches-simplifiees.fr/commencer/fast8)
