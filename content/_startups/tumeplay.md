@@ -11,7 +11,7 @@ incubator: sgmas
 link: https://tumeplay.fabrique.social.gouv.fr/
 repository: null
 contact: yowa.muzadi@fabrique.social.gouv.fr
-stats: false
+stats: true
 phases:
   - name: investigation
     start: 2019-07-01
