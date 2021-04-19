@@ -2,7 +2,7 @@
 title: ProConnect
 mission: Simplifier la gestion de l'identité numérique des entreprises sur les portails publics
 owner: Ministère de l'Economie et des Finances
-incubator: dinum 
+incubator: bercy
 phases:
   - name: investigation
     start: 2020-06-23
@@ -11,7 +11,7 @@ phases:
     start: 2020-09-15
 link:
 repository: 
-stats: false 
+stats: false
 stats_url: 
 contact: contact@beta.gouv.fr
 ---
