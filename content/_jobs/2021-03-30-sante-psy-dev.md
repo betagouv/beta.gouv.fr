@@ -2,14 +2,14 @@
 roles: Développeur ou développeuse fullstack
 title: Santé Psy Etudiant recrute deux devs fullstack
 contrat: indépendant
-startup: chèquespsy
+startup: sante-psy-etudiant
 open: true
-techno: 
- - NodeJs 
- - Express 
- - EJS 
- - PostgreSQL 
- - JavaScript 
+techno:
+ - NodeJs
+ - Express
+ - EJS
+ - PostgreSQL
+ - JavaScript
  - Scalingo
 ---
 

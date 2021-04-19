@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: arolla
 startups:
-  - chèquespsy
+  - sante-psy-etudiant
 previously:
   - e-controle
 ---
