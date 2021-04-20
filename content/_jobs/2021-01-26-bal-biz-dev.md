@@ -7,7 +7,7 @@ type: 'friend'
 contrat: indépendant
 equipe: Bases Adresses Locales
 contact: Ariane.ROSE@anct.gouv.fr
-open: true
+open: false
 ---
 L’équipe de la Startup d’État Bases Adresses Locales s’agrandit pour 2021 et cherche **un·e business développeur·se**, afin d’accompagner la montée en puissance des Bases Adresses Locales sur le territoire. Il/elle aura pour mission de stimuler, encourager et appuyer la création et la diffusion des Bases Adresses Locales par les collectivités.
 

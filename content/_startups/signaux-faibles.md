@@ -19,7 +19,7 @@ sponsors:
       acronym: ACOSS
       domaine_ministeriel: sante
       type: securite-sociale
-incubator: dinum
+incubator: bercy
 phases:
   - name: investigation
     start: 2014-05-15
