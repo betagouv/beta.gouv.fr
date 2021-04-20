@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: DINUM
 startups:
-  - chèquespsy
+  - sante-psy-etudiant
 badges:
   - segur
 ---

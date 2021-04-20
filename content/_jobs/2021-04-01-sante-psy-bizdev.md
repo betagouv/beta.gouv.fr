@@ -2,7 +2,7 @@
 roles: Chargée ou chargé de déploiement
 title: Santé Psy Etudiant recrute deux responsables de déploiement
 contrat: indépendant
-startup: chèquespsy
+startup: sante-psy-etudiant
 open: false
 
 ---
@@ -25,25 +25,25 @@ Nous cherchons à présent à recruter une équipe permanente composée de deux 
 
 ## La mission : piloter le déploiement du dispositif auprès des parties prenantes
 
-En tant que chargé de déploiement, tes missions seront de : 
+En tant que chargé de déploiement, tes missions seront de :
 - Gérer les relations avec les Services de Santé Universitaire en charge de la sélection des psychologues partenaires et de leur remboursement
 - Assurer une couverture territoriale du dispositif en menant des actions pour mobiliser des psychologues sur les territoires actuellement non pourvus
 - Répondre avec soin aux questions venant des étudiants, médecins ou psychologues et mettre en place une stratégie de support usagers
 - Garantir la réussite du dispositif en faisant remonter des problèmes usagers et en proposant des solutions rapides
-- Mettre en place une stratégie de déploiement du dispositif auprès des étudiants 
+- Mettre en place une stratégie de déploiement du dispositif auprès des étudiants
 
-Le ou la chargé(e) de déploiement sera au coeur de cette aventure à impact national. 
-Il/ Elle aura une grande autonomie pour mener à bien ce déploiement à grande échelle. 
+Le ou la chargé(e) de déploiement sera au coeur de cette aventure à impact national.
+Il/ Elle aura une grande autonomie pour mener à bien ce déploiement à grande échelle.
 
 ## Les atouts du candidat :
-- Bienveillance et esprit d'équipe 
+- Bienveillance et esprit d'équipe
 - Dynamisme, capacité d’autonomie
 - Expérience en business development et/ou en service client (account management / customer success)
 - Capacité d’autonomie alliée à une bonne communication auprès de l’équipe
-- Capacité de compréhension du cadre d’action de l’État 
+- Capacité de compréhension du cadre d’action de l’État
 - Souci du résultat et du suivi par l’impact
 
- 
+
 ## Les détails pratiques :
  - Poste ouvert pour des indépendant·e·s sur une durée de 6 mois renouvelable
  - Taux Journalier Moyen à discuter selon profil
@@ -55,7 +55,7 @@ Il/ Elle aura une grande autonomie pour mener à bien ce déploiement à grande 
 En travaillant pour une Startup d'État et de Territoire, vous devenez membre de la communauté beta.gouv. Celle-ci se construit par l’investissement volontaire de ses membres, ce qui veut dire que chaque membre peut proposer de nouvelles idées, les mettre en œuvre ou rejoindre un travail en cours.
 L’engagement dans la communauté peut prendre différentes formes, de faire le café à participer à une équipe transverse en passant par organiser une conférence.
 L’objectif est de faire de beta.gouv une communauté vivante, riche des expériences et de l’engagement de chacun, et qui apporte un cadre de travail stimulant pour ces membres.
-En tant que membre, vous pouvez et êtes invités à vous engager dans la communauté. Si vous avez des questions, n’hésitez pas à les poser lors de votre entretien. 
+En tant que membre, vous pouvez et êtes invités à vous engager dans la communauté. Si vous avez des questions, n’hésitez pas à les poser lors de votre entretien.
 
 ## Contactez-nous pour postuler !
 contact-santepsyetudiants@beta.gouv.fr
