@@ -12,7 +12,7 @@ missions:
     status: admin
     employer: dinum
 startups:
-  - chèquespsy
+  - sante-psy-etudiant
 previously:
   - eac
   - auvol
