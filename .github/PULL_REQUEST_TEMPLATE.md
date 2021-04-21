@@ -1,6 +1,6 @@
 🙂
 
-### Publication
+## Publication
 
 `beta.gouv.fr` est un site qui ne ressemble pas aux sites administratifs classiques, tout comme les produits qu'il porte.
 
