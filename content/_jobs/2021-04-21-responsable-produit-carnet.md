@@ -1,8 +1,8 @@
 ---
 roles: Responsable de produit 
 startup : carnet.de.bord
-open: false
-title: Responsable de produit carnet de bord (Service Public de l’Insertion et de l’Emploi)
+open: true
+title: Responsable du produit / Product Manager "Carnet de bord" (Service Public de l’Insertion et de l’Emploi)
 ---
 
 ## Missions 
