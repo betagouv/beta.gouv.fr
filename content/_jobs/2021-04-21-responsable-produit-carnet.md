@@ -2,7 +2,7 @@
 roles: Responsable de produit 
 startup : carnet.de.bord
 open: true
-title: Responsable du produit / Product Manager "Carnet de bord" (Service Public de l’Insertion et de l’Emploi)
+title: "Responsable du produit / Product Manager 'Carnet de bord' (Service Public de l’Insertion et de l’Emploi)"
 ---
 
 ## Missions 
@@ -40,5 +40,4 @@ Membre d'une équipe de 3 à 4 personne, vous serez en charge de développer et 
 - Durée : les startups d'Etat sont prolongées tous les 6 mois, à l'occasion d'un comité d'investissement, en fonction de l'impact mesuré. La mission est donc de 6 mois renouvelables.     
 
 Pour postuler, envoyez votre CV ou LinkedIn par mail à arnaud.denoix@beta.gouv.fr et ronan.james@beta.gouv.fr !
-
 
