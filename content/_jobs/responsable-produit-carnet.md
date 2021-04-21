@@ -33,9 +33,12 @@ Membre d'une équipe de 3 à 4 personne, vous serez en charge de développer et 
 * Capacité de pédagogie et de capitalisation sur les compéténces des membres de l’équipe ;
 * Intérêt pour les politiques publiques et en particulier le sujet de l’insertion des publics éloignés de l’emploi. 
 
-
 ## Environnement de travail   
 - Lieu de travail : télétravail encouragé ; nombreux déplacements de terrain à prévoir pour rencontrer des utilisateurs dans plusieurs départements et bassins d’emploi ;
 - Modalités de contrat : freelance / prestation (les règles des marchés public s’appliquent) ;
 - Equipe : l'équipe du Carnet de bord sera en lien étroit avec les startups beta.gouv sur l'insertion, en particulier l'équipe de la [Plateforme de l'inclusion](https://beta.gouv.fr/startups/itou.html) ;  
-- Durée : les startups d'Etat sont prolongées tous les 6 mois, à l'occasion d'un comité d'investissement, en fonction de l'impact mesuré. La mission est donc de 6 mois renouvelable.     
+- Durée : les startups d'Etat sont prolongées tous les 6 mois, à l'occasion d'un comité d'investissement, en fonction de l'impact mesuré. La mission est donc de 6 mois renouvelables.     
+
+Pour postuler, envoyez votre CV ou LinkedIn par mail à arnaud.denoix@beta.gouv.fr et ronan.james@beta.gouv.fr !
+
+
