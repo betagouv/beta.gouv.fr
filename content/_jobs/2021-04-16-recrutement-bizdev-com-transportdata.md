@@ -43,7 +43,7 @@ Nous cherchons une personne pour rejoindre notre équipe et nous aider à attein
 - Poste ouvert pour un·e indépendant·e ;
 - Temps partiel et télétravail bienvenu ;
 - Rémunération : TJM adapté à l'expérience
-- Durée prévisionnelle : 1 an (possible renouvelable)
+- Durée prévisionnelle : 6 mois (possible renouvelable)
 
 ## Candidater
 
