@@ -9,8 +9,9 @@ missions:
 startups:
   - la-bonne-formation
   - zen
-  - la-bonne-boite
   - estime
   - itou
   - place-de-marche-inclusion
+previously: 
+  - la-bonne-boite
 ---
