@@ -1,7 +1,7 @@
 ---
 roles: coach UX et innovation
 junior: false
-open: true
+open: false
 friend : ANSSI, incubateur
 title: Coach UX et innovation à l'ANSSI
 ---

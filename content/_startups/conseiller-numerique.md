@@ -12,7 +12,7 @@ phases:
   - name: construction
     start: 2020-11-01
 link: https://www.conseiller-numerique.gouv.fr
-repository:
+repository: https://github.com/anct-cnum
 stats: false
 stats_url:
 contact: conseiller-numerique@anct.gouv.fr

@@ -2,7 +2,6 @@
     <div class="fr-sidemenu__inner">
         <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
         <div class="fr-collapse" id="fr-sidemenu-wrapper">
-        <div class="fr-sidemenu__title">Notre approche</div>
             <ul class="fr-sidemenu__list">
                     <li class="fr-sidemenu__item {% unless page.url contains '/approche/fast' or page.url contains '/approche/formation' %}fr-sidemenu__item--active{% endunless %}">
                     <button class="fr-sidemenu__btn" aria-expanded="{% unless page.url contains '/approche/fast' or page.url contains '/approche/formation' %}true{% else %}false{% endunless %}" aria-controls="fr-sidemenu-item-programme">Le programme beta.gouv.fr</button>
