@@ -7,7 +7,8 @@ missions:
     status: independent
     employer: ey
 startups:
-    - la-bonne-boite
+previously: 
+  - la-bonne-boite
 ---
 
 Expert en machine learning, développeur python full-stack, grimpeur invétéré et gros, très gros amateur de nouilles chinoises. On me trouve dans les Hautes Alpes.
