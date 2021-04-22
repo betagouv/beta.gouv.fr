@@ -1,5 +1,5 @@
 ---
-fullname: Maxime Teneur
+fullname: Julieta Barado
 role: Bizdév
 missions:
   - start: 2021-02-01
