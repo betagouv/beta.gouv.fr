@@ -14,5 +14,6 @@ missions:
     employer: OCTO
 startups:
     - usine-chatbots
+previously:
     - preuve-de-covoiturage
 ---
