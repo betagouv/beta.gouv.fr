@@ -3,7 +3,7 @@ roles: UX designer
 title: Santé Psy Etudiant recrute un.e UX Designer
 contrat: indépendant
 startup: sante-psy-etudiant
-open: true
+open: false
 
 ---
 
