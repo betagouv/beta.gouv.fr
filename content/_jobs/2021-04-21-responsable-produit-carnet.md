@@ -1,8 +1,8 @@
 ---
 roles: Responsable de produit 
 startup : carnet.de.bord
-open: false
-title: Responsable de produit carnet de bord (Service Public de l’Insertion et de l’Emploi)
+open: true
+title: "Responsable du produit / Product Manager 'Carnet de bord' (Service Public de l’Insertion et de l’Emploi)"
 ---
 
 ## Missions 
@@ -14,7 +14,7 @@ Membre d'une équipe de 3 à 4 personne, vous serez en charge de développer et 
   
 
 ## Contexte
-- Le **service public de l'insertion et de l'emploi** (SPIE) porte l'ambition d'améliorer l'accompagnement des personnes éloignées de l'emploi (dont les allocataires du RSA), en concertation avec les conseils départementaux, le service public de l'emploi, les associations, les employeurs solidaires et tous les acteurs de terrain.
+- Le **service public de l'insertion et de l'emploi** porte l'ambition d'améliorer l'accompagnement des personnes éloignées de l'emploi (dont les allocataires du RSA), en concertation avec les conseils départementaux, le service public de l'emploi, les associations, les employeurs solidaires et tous les acteurs de terrain.
 - Le problème que cherche à résoudre le **"Carnet de bord"** : Les personnes accompagnées ont peu de maîtrise des informations qui circulent sur elles, ou des outils numériques utilisés par les différents acteurs, d'abord pensés pour un usage professionnel. Cela a un impact sur l’autonomie des personnes, ainsi que les délais de leurs parcours.  
 - Une investigation de 10 semaines (dizaines d'entretiens avec des personnes de terrain) a permis de : 
     - préciser les irritants autour du partage des données des bénéficiaires ; 
@@ -40,5 +40,4 @@ Membre d'une équipe de 3 à 4 personne, vous serez en charge de développer et 
 - Durée : les startups d'Etat sont prolongées tous les 6 mois, à l'occasion d'un comité d'investissement, en fonction de l'impact mesuré. La mission est donc de 6 mois renouvelables.     
 
 Pour postuler, envoyez votre CV ou LinkedIn par mail à arnaud.denoix@beta.gouv.fr et ronan.james@beta.gouv.fr !
-
 
