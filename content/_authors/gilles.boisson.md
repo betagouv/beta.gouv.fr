@@ -7,6 +7,6 @@ missions:
       end: 2021-02-01
       status: independent
       employer: Codeurs en Liberté
-startups:
+previously:
     - preuve-de-covoiturage
 ---
