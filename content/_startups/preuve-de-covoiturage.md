@@ -1,6 +1,6 @@
 ---
 title: Registre de preuve de covoiturage
-mission:  Développez le covoiturage sur votre territoire
+mission: Accompagner le développement du covoiturage au quotidien 🚘
 owner: DGITM
 sponsors:
     - name: Direction generale des Infrastructures, des Transports et de la Mer
@@ -12,8 +12,9 @@ phases:
   - name: investigation
     start: 2018-06-04
   - name: construction
-    start: 2018-06-04
+    start: 2019-03-01
   - name: acceleration
+    start: 2019-11-28
 link: http://covoiturage.beta.gouv.fr/
 repository: https://github.com/betagouv/preuve-covoiturage
 stats: true
