@@ -328,6 +328,7 @@ h2.phase-title em {
 
 .filters #search-input {
   grid-column: 4;
+  z-index: 2;
 }
 
 @media (max-width: 1200px) {
