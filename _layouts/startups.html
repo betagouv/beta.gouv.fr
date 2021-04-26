@@ -197,8 +197,8 @@ layout: default
     SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        searchResultTemplate: "<li><a href=\"{url}\"><p><span class=\"search-result-title\">{title}</span> - {owner}<br>{mission}<p></a></li>",
-        noResultsText: "<li class=\"empty\">Aucun résultat</li>",
+        searchResultTemplate: "<div class=\"fr-tile fr-enlarge-link fr-tile--horizontal\"><div class=\"fr-tile__body\"><h4 class=\"fr-tile__title\"><a class=\"fr-tile__link\" href=\"{url}\">{title} - {owner}</a></h4><p class=\"fr-tile__desc\">{mission}</p></div></div>",
+        noResultsText: "<div class=\"fr-tile fr-enlarge-link fr-tile--horizontal\"><div class=\"fr-tile__body\"><h4 class=\"fr-tile__title\">Aucun résultat</div></div>",
         json: '/search.json'
     })
 </script>
