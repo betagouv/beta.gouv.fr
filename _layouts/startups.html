@@ -197,7 +197,7 @@ layout: default
     SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        searchResultTemplate: "<li><p><a href=\"{url}\">{title}</a> - {owner}<br>{mission}<p></li>",
+        searchResultTemplate: "<li><a href=\"{url}\"><p><span class=\"search-result-title\">{title}</span> - {owner}<br>{mission}<p></a></li>",
         noResultsText: "<li class=\"empty\">Aucun résultat</li>",
         json: '/search.json'
     })
