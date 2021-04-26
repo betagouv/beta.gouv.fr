@@ -1,9 +1,9 @@
 ---
-roles: UX designer 
-title: Santé Psy Etudiant recrute un.e UX Designer 
+roles: UX designer
+title: Santé Psy Etudiant recrute un.e UX Designer
 contrat: indépendant
-startup: chèquespsy
-open: true
+startup: sante-psy-etudiant
+open: false
 
 ---
 
@@ -25,10 +25,10 @@ Nous cherchons à présent à recruter une équipe permanente composée de deux 
 
 ## La mission : piloter le déploiement du dispositif auprès des parties prenantes
 
-En tant que UX designer, tes missions seront de : 
+En tant que UX designer, tes missions seront de :
 - Définir et mettre en oeuvre les orientations UX du service
 - Améliorer et concevoir les parcours de navigation pour les différents publics cibles
-- Organiser des tests utilisateurs à distance 
+- Organiser des tests utilisateurs à distance
 - Proposer des méthodes d’évaluation de l’UX
 - Définir l’interface du service sur mobile et desktop, réaliser des maquettes sur la base d’un Design system existant
 - Travailler de concert avec l’équipe de développement pour la réalisation
@@ -36,17 +36,17 @@ En tant que UX designer, tes missions seront de :
 
 
 ## Les atouts du candidat :
-- Bienveillance et esprit d'équipe 
+- Bienveillance et esprit d'équipe
 - Dynamisme, capacité d’autonomie
 - Formation en design d’expérience utilisateur et/ou ergonomie IHM
-- Connaissance ou appétence pour le domaine santé et/ou éducatif 
+- Connaissance ou appétence pour le domaine santé et/ou éducatif
 - Expérience dans les plateformes B2C et/ou B2B
 - Expertise de la recherche et l’analyse des tests utilisateur
 - Capacité à appréhender des enjeux de plateformes avec plusieurs type d’usagers
-- 3 à 5 ans d’expérience 
+- 3 à 5 ans d’expérience
 
 
- 
+
 ## Les détails pratiques :
  - Poste ouvert pour des indépendant·e·s sur une durée de 6 mois renouvelable
  - Taux Journalier Moyen à discuter selon profil
@@ -58,7 +58,7 @@ En tant que UX designer, tes missions seront de :
 En travaillant pour une Startup d'État et de Territoire, vous devenez membre de la communauté beta.gouv. Celle-ci se construit par l’investissement volontaire de ses membres, ce qui veut dire que chaque membre peut proposer de nouvelles idées, les mettre en œuvre ou rejoindre un travail en cours.
 L’engagement dans la communauté peut prendre différentes formes, de faire le café à participer à une équipe transverse en passant par organiser une conférence.
 L’objectif est de faire de beta.gouv une communauté vivante, riche des expériences et de l’engagement de chacun, et qui apporte un cadre de travail stimulant pour ces membres.
-En tant que membre, vous pouvez et êtes invités à vous engager dans la communauté. Si vous avez des questions, n’hésitez pas à les poser lors de votre entretien. 
+En tant que membre, vous pouvez et êtes invités à vous engager dans la communauté. Si vous avez des questions, n’hésitez pas à les poser lors de votre entretien.
 
 ## Contactez-nous pour postuler !
 contact-santepsyetudiants@beta.gouv.fr

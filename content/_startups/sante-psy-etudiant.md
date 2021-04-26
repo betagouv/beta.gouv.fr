@@ -14,6 +14,7 @@ link: https://santepsy.etudiant.gouv.fr/
 repository: https://github.com/betagouv/sante-psy/
 contact: contact-santepsyetudiants@beta.gouv.fr
 stats: true
+stats_url: https://santepsy-metabase.osc-secnum-fr1.scalingo.io/public/dashboard/efcb7427-c80a-4f67-b0b1-7ff04f8a255b
 events:
   - name: product_launch
     date: 2021-03-11

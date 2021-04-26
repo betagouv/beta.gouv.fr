@@ -3,7 +3,7 @@ roles: chef(fe) de projet start-up d'Etat ANSSI
 startup: accompagner l'homologation de sécurité, étape par étape
 techno: Choix libre
 junior: false
-open: true
+open: false
 title: chef(fe) de projet start-up d'Etat à l'ANSSI
 ---
 
