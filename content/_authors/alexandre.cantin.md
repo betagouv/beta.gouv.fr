@@ -8,7 +8,8 @@ missions:
     employer: pole-emploi
 avatar: /img/authors/alexandre.cantin.jpg
 startups:
-    - la-bonne-boite
+previously: 
+  - la-bonne-boite
 ---
 
 Agent de Pôle emploi et développeur pour La Bonne Boite.
