@@ -7,7 +7,7 @@ missions:
     end: 2020-03-31
     status: independent
   - start: 2020-10-28	    	    
-    end: 2021-04-30
+    end: 2021-09-30
     status: independent    
 startups:
     - aidantsconnect
