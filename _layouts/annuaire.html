@@ -2,8 +2,8 @@
 layout: default
 ---
 
-{%- assign current = site.authors | community: 'current', 'alpha' -%}
-{%- assign alumnis = site.authors | community: 'past', 'alpha' -%} 
+{%- assign current = site.authors | community: 'current', 'oldest' -%}
+{%- assign alumnis = site.authors | community: 'past', 'oldest' -%} 
 
 {%- include hero-page.html title=page.title -%}
 
