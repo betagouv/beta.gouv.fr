@@ -1,14 +1,14 @@
 ---
 fullname: Chloé Lafortune
-role: Accompagnement sur l'identité visuelle des Start-ups
+role: Designer graphique
+
 link: http://www.chloelafortune.com
 missions:
   - start: 2021-04-27
     end: 2021-07-09
     status: independent
-    employer: DINUM
+    employer: scopyleft
 badges:
   - segur
 ---
-
-Designer graphique
+Accompagnement sur l'identité visuelle des Start-ups
