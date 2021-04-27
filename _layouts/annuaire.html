@@ -18,7 +18,7 @@ layout: default
             </li>
         </ul>
         <div id="tabpanel-actifs" class="fr-tabs__panel fr-tabs__panel--selected" role="tabpanel" aria-labelledby="tabpanel-404" tabindex="0">
-            <h3>{{ current | size }} membres actifs</h3>
+            <h2>{{ current | size }} membres actifs</h2>
             <div class="fr-grid-row fr-grid-row--gutters">
                 {%- for author in current -%}
                 <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
@@ -26,7 +26,7 @@ layout: default
             </div>
         </div>
         <div id="tabpanel-alumnis" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-404" tabindex="-1">
-            <h3>{{ alumnis | size }} alumnis</h3>
+            <h2>{{ alumnis | size }} alumnis</h2>
             <div class="fr-grid-row fr-grid-row--gutters">
                 {%- for author in alumnis -%}
                 <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>

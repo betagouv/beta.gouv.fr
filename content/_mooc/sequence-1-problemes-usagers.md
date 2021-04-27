@@ -4,7 +4,7 @@ label: Résoudre les problèmes des usagers
 order: 1
 ---
 
-### Identifier un problème
+## Identifier un problème
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
@@ -14,7 +14,7 @@ order: 1
   <p><a href="/content/docs/mooc/4-identifier-probleme.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
 
-### Trouver une solution
+## Trouver une solution
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
@@ -24,7 +24,7 @@ order: 1
   <p><a href="/content/docs/mooc/5-trouver-solution.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
 
-### Déployer son produit
+## Déployer son produit
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
@@ -34,7 +34,7 @@ order: 1
   <p><a href="/content/docs/mooc/6-deployer-produit.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
 
-### Convaincre son sponsor
+## Convaincre son sponsor
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
