@@ -222,9 +222,23 @@ collections:
         hint: "Format : Prénom Nom. Ton nom complet est utilisé pour le nom de ta fiche. Attention à ton orthographe !"
         name: "fullname"
         widget: "string"
-      - label: "Rôle"
-        hint: "Développeuse ? Intrapreneur ? Chargée de développement ? Coach ?"
-        name: "role"
+      - name: domaine
+        hint: Dans quel domaine principal interviens-tu ?
+        widget: select
+        options: [
+          "Animation",  
+          "Coaching",
+          "Déploiement",
+          "Design", 
+          "Développement",
+          "Intraprenariat",
+          "Produit", 
+          "Autre"
+        ]
+        required: true
+      - label: "Description"
+        hint: "Ce que tu veux qu'on dise de toi. Développeuse NodeJS ? Intrapreneur ? Chargée de développement ? Coach construction produit ? Experte en simplicité ?. Tu pourras écrire une bio plus bas"
+        name: "description"
         widget: "string"
       - label: "Github"
         hint: "Ton nom d'utilisateur GitHub. Il te permet de rejoindre automatiquement l'organisation GitHub betagouv."
@@ -294,11 +308,32 @@ collections:
         required: false
         options:
            - { label: "Ségur", value: "segur" }
-      - label: Description
+      - label: Mini-Biographie
         hint: "Raconte-nous qui tu es dans une phrase percutante !"
         name: body
         widget: markdown
         required: false
+        buttons: []
+        editor_components: []
+        sanitize_preview: true
+        minimal: true
+        pattern: ["^.{1,150}$"]
+      - name: competences
+        hint: Vous pouvez choisir plusieurs compétences (n'hésitez pas à nous en proposer de nouvelles !)
+        widget: select
+        multiple: true
+        options: [
+          "UX", 
+          "UI", 
+          "Développement Frontend", 
+          "Développement Backend", 
+          "Administration Système", 
+          "Gestion de Produit", 
+          "Coaching", 
+          "Communication", 
+          "Croissance", 
+          "Administration Publique"
+        ]
   - name: incubators
     label: Incubateurs
     label_singular: Incubateur
