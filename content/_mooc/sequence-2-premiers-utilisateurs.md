@@ -4,7 +4,7 @@ label: Trouver ses premiers utilisateurs
 order: 2
 ---
 
-### Trouver ses premiers utilisateurs
+## Trouver ses premiers utilisateurs
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
@@ -14,7 +14,7 @@ order: 2
   <p><a href="/content/docs/mooc/8-premiers-utilisateurs.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
 
-### Quatre conseils pour trouver ses premiers utilisateurs
+## Quatre conseils pour trouver ses premiers utilisateurs
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
@@ -34,7 +34,7 @@ order: 2
   <p><a href="/content/docs/mooc/10-quatre-conseils-pratiques-2.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
 
-### Monter son premier Open Lab
+## Monter son premier Open Lab
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
@@ -44,7 +44,7 @@ order: 2
   <p><a href="/content/docs/mooc/11-premier-open-lab.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
 
-### La stratégie d'OpenAcadémie pour trouver ses premiers utilisateurs
+## La stratégie d'OpenAcadémie pour trouver ses premiers utilisateurs
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">

@@ -5,7 +5,7 @@ title: Formation en ligne ouverte à tous
 permalink: /approche/formation/mooc
 ---
 
-### Découvrez comment créer des services publics innovants
+## Découvrez comment créer des services publics innovants
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
