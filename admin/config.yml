@@ -235,6 +235,7 @@ collections:
           "Produit", 
           "Autre"
         ]
+        required: true
       - label: "Description"
         hint: "Ce que tu veux qu'on dise de toi. Développeuse NodeJS ? Intrapreneur ? Chargée de développement ? Coach construction produit ? Experte en simplicité ?. Tu pourras écrire une bio plus bas"
         name: "description"
