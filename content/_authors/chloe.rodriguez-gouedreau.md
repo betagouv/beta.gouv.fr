@@ -1,6 +1,8 @@
 ---
 fullname: Chloé Rodriguez Gouëdreau
 role: Coach
+domaine:
+  - Coaching
 missions:
   - start: 2021-01-13
     end: 2021-04-30

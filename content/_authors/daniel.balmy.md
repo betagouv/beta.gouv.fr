@@ -1,6 +1,8 @@
 ---
 fullname: Daniel Balmy
 role: Intrapreneur / Mentor / Chargé de développement
+domaine: 
+- Intraprenariat
 missions:
   - start: 2017-09-28
     end: 2020-07-31

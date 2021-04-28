@@ -1,6 +1,8 @@
 ---
 fullname: Cédric Merouani
 role: Développeur
+domaine:
+  - Développement
 github: linkinou
 link: https://cedric.merouani.net/
 missions:

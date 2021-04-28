@@ -1,6 +1,8 @@
 ---
 fullname: Claude Pereira-Leconte
 role: Chargée de déploiement
+domaine:
+  - Déploiement
 github: ClaudePereiraLeconte
 missions:
   - start: 2020-06-09

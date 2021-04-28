@@ -1,6 +1,8 @@
 ---
 fullname: Douglas Duteil
 role: Lead Developper
+domaine: 
+- Développement
 avatar: https://avatars1.githubusercontent.com/u/730511?s=460&v=4
 link:
 missions:

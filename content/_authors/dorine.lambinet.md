@@ -1,6 +1,8 @@
 ---
 fullname: Dorine Lambinet
 role: Designeure
+domaine: 
+- Design
 github: DorineLam
 missions:
   - start: 2019-01-21

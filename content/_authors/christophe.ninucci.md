@@ -1,6 +1,8 @@
 ---
 fullname: Christophe Ninucci
 role: Entrepreneur d'intérêt général
+domaine:
+  - Développement
 github: chrnin
 avatar: /img/authors/christophe.ninucci.jpg
 missions:

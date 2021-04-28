@@ -1,6 +1,8 @@
 ---
 fullname: Charlotte Lecuit
 role: Product Owner
+domaine:
+  - Produit
 github: charlottelecuit
 missions:
   - start: 2018-05-14

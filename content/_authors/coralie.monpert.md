@@ -1,6 +1,8 @@
 ---
 fullname: Coralie Monpert
 role: Intrapreneur.e
+domaine:
+  - Intraprenariat
 link: https://www.linkedin.com/in/coralie-monpert-91763987/
 github: coraliemonpert
 missions:
