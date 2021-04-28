@@ -14,19 +14,19 @@
   {%- capture authorEndDate -%}{{ author.missions.last.end | date: '%s' }}{%- endcapture -%}
 {%- endif -%}
 
-<div class="rf-card rf-card--no-arrow rf-card__img__rounded">
-  <div class="rf-card__img">
+<div class="fr-card fr-card--no-arrow fr-card__img__rounded">
+  <div class="fr-card__img">
     {%- include avatar.html author=author force=true rounded=true -%}
   </div>
-  <div class="rf-card__body">
-    <h4 class="rf-card__title">
+  <div class="fr-card__body">
+    <h3 class="fr-card__title">
         {%- if author.link -%}
-          <a class="rf-card__link" href="{{ author.link }}" target="_blank" rel="noopener">{{ author.fullname }}</a>
+          <a class="fr-card__link" href="{{ author.link }}" target="_blank" rel="noopener">{{ author.fullname }}</a>
         {%- else -%}
           {{ author.fullname }}
         {%- endif -%}
-    </h4>
-    <p class="rf-card__detail">
+    </h3>
+    <p class="fr-card__detail">
       {%- if timestampNow > authorEndDate -%}
         Alumni
       {%- else -%}
@@ -34,7 +34,7 @@
       {%- endif -%}
     </p>
     {%- if author.content -%}
-    <p class="rf-card__desc">{{ author.content | strip_html }}</p>
+    <p class="fr-card__desc">{{ author.content | strip_html }}</p>
     {%- endif -%}
 
 
@@ -49,12 +49,12 @@
   {%- capture taille_autres -%}{{ total_count | minus:5 }}{%- endcapture -%}
 
   {%- if total_startups -%}
-    <ul class="rf-tags-group">
+    <ul class="fr-tags-group">
     {%- for startup in total_startups -%}
       {%- if author.previously contains startup -%}
-        {%- assign label_class =  "rf-tag rf-tag--sm rf-tag--inactive" -%}
+        {%- assign label_class =  "fr-tag fr-tag--sm fr-tag--inactive" -%}
       {%- else -%}
-        {%- assign label_class = "rf-tag rf-tag--sm" -%}
+        {%- assign label_class = "fr-tag fr-tag--sm" -%}
       {%- endif -%}
 
       {%- if startup == '' or startup == nil -%}
@@ -63,7 +63,7 @@
 
       {%- if forloop.index > 5 -%}
         <li>
-          <span class="rf-tag--sm">Et {{ taille_autres }} autres</span>
+          <span class="fr-tag--sm">Et {{ taille_autres }} autres</span>
         </li>
         {%- break -%}
       {%- endif -%}
@@ -73,7 +73,7 @@
       {%- endif -%}
       {%- if startup == "_in_progress_" -%}
         <li>
-          <span class="rf-tag--sm">Fiche produit à venir</span>
+          <span class="fr-tag--sm">Fiche produit à venir</span>
         </li>
         {%- continue -%}
       {%- endif -%}

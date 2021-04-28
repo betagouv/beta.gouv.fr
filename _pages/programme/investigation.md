@@ -3,8 +3,6 @@ layout: with-sidebar
 sidebar: sidebar-approche.html
 title: Phase d'investigation
 permalink: /approche/investigation
-additional_css:
-  - side-panel.css
 ---
 
 > Tous les partenariats avec beta.gouv.fr débutent par une **phase d'investigation** qui permet de mieux cerner le problème auquel on souhaite s'attaquer, de s'assurer que des solutions qui y répondent n'existent pas déjà et de confirmer qu'il est pertinent d'investir dans un service numérique pour le résoudre.
@@ -25,7 +23,7 @@ Dans l'approche beta.gouv.fr, **nous concevons la technologie comme un moyen et 
 
 La phase d'investigation peut être financée par la Direction interministérielle du numérique (DINUM). L’équipe beta.gouv.fr s’engage à apporter un appui méthodologique et opérationnel au partenaire pendant toute la durée de l'investigation. 
 
-Votre administration devra&nbsp;: 
+### Votre administration devra&nbsp;: 
 - Libérer un agent public "**intrapreneur**" au moins deux jours par semaine de ses tâches habituelles. Cette personne formera une équipe avec les mentors beta.gouv.fr et conduira les entretiens, les synthèses, l'élaboration de scénarios de solution, etc. Afin de garantir une collaboration efficace, votre administration&nbsp;: 
     - autorise le télétravail de cette personne&nbsp;;
     - lui donne un accès à internet « libre », en particulier elle peut accéder aux sites couramment utilisés par les équipes beta.gouv.fr (Slack, Trello, GitHub…) et a un ordinateur portable sur lequel elle peut installer en autonomie des logiciels nécessaires à sa mission&nbsp;;
@@ -34,7 +32,6 @@ Votre administration devra&nbsp;:
 
 Le lancement de la phase d'investigation est conditionné à la transmission par le sponsor de [cette fiche d'engagement](https://beta.gouv.fr/content/docs/engagement.docx) complétée.
 
-
-> ### Lancer une phase d'investigation
-> Si votre administration souhaite lancer une phase d'investigation sur un sujet identifié, ou organiser un appel à problèmes pour faire émerger des problèmes que vos agents rencontrent sur le terrain, vous pouvez nous contacter à **investigations@beta.gouv.fr**. Un membre de notre équipe reviendra vers vous pour organiser un premier point téléphonique et vérifier que nous pouvons vous aider. Si le problème que vous souhaitez résoudre est dans nos cordes, l'investigation pourra débuter quelques jours plus tard.
-> Si à l'issue du comité de lancement final il est décidé de poursuivre le partenariat avec beta.gouv.fr et de passer en phase de construction, le financement de l'équipe de développement est à la charge de l'administration partenaire (en général 200 000 euros via une convention de partenariat public-public pour mobiliser une équipe autour de l'agent public intrapreneur pendant 6 mois). 
+## Lancer une phase d'investigation
+Si votre administration souhaite lancer une phase d'investigation sur un sujet identifié, ou organiser un appel à problèmes pour faire émerger des problèmes que vos agents rencontrent sur le terrain, vous pouvez nous contacter à **investigations@beta.gouv.fr**. Un membre de notre équipe reviendra vers vous pour organiser un premier point téléphonique et vérifier que nous pouvons vous aider. Si le problème que vous souhaitez résoudre est dans nos cordes, l'investigation pourra débuter quelques jours plus tard.
+Si à l'issue du comité de lancement final il est décidé de poursuivre le partenariat avec beta.gouv.fr et de passer en phase de construction, le financement de l'équipe de développement est à la charge de l'administration partenaire (en général 200 000 euros via une convention de partenariat public-public pour mobiliser une équipe autour de l'agent public intrapreneur pendant 6 mois). 

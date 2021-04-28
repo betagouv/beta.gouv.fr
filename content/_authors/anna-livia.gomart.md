@@ -13,13 +13,12 @@ missions:
     status: admin
     start: 2021-03-15
     end: 2024-03-14
-startups:
-  - aidantsconnect
 previously:
   - _openfisca_
   - api.gouv.fr
   - datapass
   - api-particulier
+  - aidantsconnect
 ---
 
 Minimum effort, maximum impact.

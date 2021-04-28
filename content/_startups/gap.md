@@ -6,7 +6,7 @@ incubator: dinum
 phases: 
   - name: investigation
     start: 2020-10-13 # date au format ISO (AAAA-MM-DD)
-    end: # 
+    end: 2021-03-01 # 
 events: # les évènements marquants de la startup - les noms possibles sont définies dans /content/_events/
   - name: committee
     date: 2021-01-28 # date au format ISO (AAAA-MM-DD)

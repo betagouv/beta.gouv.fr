@@ -8,9 +8,9 @@ missions:
     end: 2021-07-03
     status: admin
     employer: DINUM
-startups: 
+startups:
   - aides.jeunes
 badges:
   - segur
 ---
-Développeur Fullstack
+Développeur Web Fullstack

@@ -3,8 +3,6 @@ layout: with-sidebar
 sidebar: sidebar-approche.html
 title: Phase de transfert
 permalink: /approche/transfert
-additional_css:
-  - side-panel.css
 ---
 
 > La **phase de transfert** ou **phase de consolidation** est la dernière phase d'accompagnement du programme beta.gouv.fr. Elle a pour objectif de mettre en œuvre les moyens nécessaires à la pérennisation du service public numérique développé.
@@ -15,14 +13,16 @@ Cette phase débute lorsque l’administration porteuse considère que le servic
 
 Lors de cette phase, nous accompagnons l’administration partenaire et l’équipe du service numérique à mettre en oeuvre les meilleures conditions pour la poursuite du service numérique. C’est également la phase où les équipes de beta.gouv.fr se retirent petit à petit afin de laisser l’administration porteuse en autonomie dans la gestion du service.
 
-3 trajectoires de pérennisation sont observées&nbsp;: 
+### 3 trajectoires de pérennisation sont observées&nbsp;: 
 - Intégration d’une équipe pluridisciplinaire au sein de l’administration d’accueil 
 - Passation du produit à l’administration d’accueil, sans préservation du mode de fonctionnement (“passage en maintenance”) 
 - Constitution d’une structure juridique dédiée&nbsp;: GIP, SCIC, SAS, SCN, etc. 
 
 ## Quels sont les signaux pour évaluer la réussite d'une pérennisation ? 
 
-L'approche beta.gouv.fr permet de mettre en oeuvre toutes les [bonnes pratiques de conception de services numériques de qualité](https://observatoire.numerique.gouv.fr/). Voici quelques-unes de ces bonnes pratiques qui peuvent être évaluées quelques années après le transfert afin de juger de la réussite d'une pérennisation&nbsp;: 
+L'approche beta.gouv.fr permet de mettre en oeuvre toutes les [bonnes pratiques de conception de services numériques de qualité](https://observatoire.numerique.gouv.fr/). 
+
+### Voici quelques-unes de ces bonnes pratiques qui peuvent être évaluées quelques années après le transfert afin de juger de la réussite d'une pérennisation&nbsp;: 
 
 * Les indicateurs d'impacts qualitatifs et quantitatifs du service continuent de s’améliorer. Ils sont suivis par au moins une personne dans l’organisation et sont disponibles sur la page et statistiques&nbsp;; 
 * L’équipe en charge du service continue à récolter des avis des utilisateurs et à effectuer des tests au moins tous les 3 à 4 mois&nbsp;;

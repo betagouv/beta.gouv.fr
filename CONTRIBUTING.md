@@ -83,7 +83,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `assets\additional` et `layout`. Le fichier `_sass\hacks.css` permet d'effectuer des modifications de style globale sans toucher aux feuilles de style de base.
+Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `assets\additional` et `layout`. 
 
 ### Dépendances : un `Gemfile` particulier
 

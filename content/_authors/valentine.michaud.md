@@ -12,7 +12,7 @@ missions:
     start: 2021-01-04
     end: 2021-07-03
 startups:
-  - chèquespsy
+  - sante-psy-etudiant
 previously:
   - signalement
 badges:
