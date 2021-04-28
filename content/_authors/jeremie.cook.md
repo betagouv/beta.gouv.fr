@@ -20,5 +20,5 @@ previously:
   - codedutravail
   - mes-aides
 domaine:
-  - design
+  - Design
 ---
