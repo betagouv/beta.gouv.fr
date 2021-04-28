@@ -12,7 +12,7 @@ linear-gradient(0deg, #00006D, #00006D);
       <div>
         <h1 style="color: white; text-align: left;margin-bottom: 50px;">Administrations publiques,<br> venez mieux contruire vos solutions numériques avec nous !</h1>
         <p style="text-align: left;">
-          <button style="background-color: white;" class="fr-btn fr-btn--lg fr-fi-arrow-right-line fr-btn--icon-right fr-btn--secondary">
+          <button style="background-color: white;" class="fr-btn fr-btn--lg fr-btn--icon-right fr-btn--secondary">
             Décrouvrir le programme
           </button>
         </p>
@@ -55,9 +55,11 @@ linear-gradient(0deg, #00006D, #00006D);
   </div>
 </section>
 <section class="fr-py-6w">
-  <div class="fr-container">
+  <div class="fr-container centered">
+    <h2 style=" color: white; display: inline-block; font-family: Spectral; padding-top: 0; padding-bottom: 0; padding-left: 10px; padding-right: 10px; background-color:rgb(99, 112, 204); font-size: 16px; height: 16px; line-height: 16px;">
+      PRODUITS</h2>
     <h3>Parcourir nos produits</h3>
-    <p>Le programme interministériel beta.gouv a déjà contribué à la création de dizaines de services publics numériques.</p>
+    <h4>Le programme interministériel beta.gouv a déjà contribué à la création de dizaines de services publics numériques.</h4>
     <div class="fr-grid-row fr-grid-row--gutters startups">
       {% assign startups = site.startups %}
       {% assign starts = "transport.data.gouv.fr,La Bonne Alternance,Pix,Mon-entreprise.fr" | split: ","  %}
@@ -69,7 +71,7 @@ linear-gradient(0deg, #00006D, #00006D);
       {% endfor %}
     </div>
     <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-pt-6w">
-      <button class="fr-btn fr-btn--lg fr-fi-arrow-right-line fr-btn--icon-right fr-btn--secondary">
+      <button class="fr-btn fr-btn--lg fr-btn--icon-right fr-btn--secondary">
         Voir tous nos produits
       </button>
     </div>
@@ -81,13 +83,15 @@ linear-gradient(0deg, #00006D, #00006D);
 <div class="fr-container">
   <div class="row centered">
     <div>
-      <h3 style="color: white; text-align: left;margin-bottom: 50px;">
+        <h2 style="color: white; display: inline-block; font-family: Spectral; padding-top: 0; padding-bottom: 0; padding-left: 10px; padding-right: 10px; background-color:rgb(99, 112, 204); font-size: 16px; height: 16px; line-height: 16px;">
+          ÉQUIPE</h2>
+      <h3 style="color: white; margin-bottom: 50px;">
         beta.gouv fait équipe avec votre administration
       </h3>
-      <p>
+      <h4 style="color: white;">
         Intégré au programme, l’agent public appelé “intrapreneur” est 
         au cœur d’une équipe pluridisciplinaire constituée de personnes engagées au service de l’intérêt général. 
-      </p>
+      </h4>
       <div class="fr-grid-row fr-grid-row--gutters startups">
         <div class="fr-col-12 fr-col-md-4">
           <div class="fr-card fr-enlarge-link">
@@ -398,7 +402,7 @@ linear-gradient(0deg, #00006D, #00006D);
     </div>  
   </div>
   <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-pt-12w">
-    <button style="background-color: white;" class="fr-btn fr-btn--lg fr-fi-arrow-right-line fr-btn--icon-right fr-btn--secondary">
+    <button style="background-color: white;" class="fr-btn fr-btn--lg fr-btn--icon-right fr-btn--secondary">
       Devenir intrapreneur(e)
     </button>
   </div>
@@ -406,12 +410,15 @@ linear-gradient(0deg, #00006D, #00006D);
 </section>
 <section class="fr-py-6w">
   <div class="fr-container">
-    <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters">
+    <div class="centered">
+      <h2 style="color: white; display: inline-block; font-family: Spectral; padding-top: 0; padding-bottom: 0; padding-left: 10px; padding-right: 10px; background-color:rgb(99, 112, 204); font-size: 16px; height: 16px; line-height: 16px;">
+        APPROCHE</h2>
+      <br>
       <h3>Le programme beta.gouv est fondée sur 3 principes</h3>
-      <p>pour construire des services numériques simples, faciles à utiliser et à l’impact maximal.
-      </p>
+      <h4>pour construire des services numériques simples, faciles à utiliser et à l’impact maximal.
+      </h4>
     </div>
-    <div class="row centered">
+    <div class="row">
       <div>
         <svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M42.3695 226.843C42.3695 226.843 40.1521 342.962 204.748 341.573C236.69 341.301 271.059 341.165 301.579 331.378C313.001 327.712 322.299 319.471 323.115 308.253C324.15 293.891 316.661 280.051 318.408 265.751C322.832 229.538 382.627 131.615 287.407 85.3431C192.187 39.0712 39.42 100.76 42.3695 226.843Z" fill="#E5DFFF"/>
@@ -489,25 +496,21 @@ linear-gradient(0deg, #00006D, #00006D);
           </svg>
           
       </div>
-      <div>
-        <ul>
-          <li><span>1.</span>Les besoins des utilisateurs sont toujours prioritaires.</li>
-          <li><span>2.</span>L’équipe travaille sans préjuger à l’avance du résultat final et n’est pilotée que par la mesure de l’impact.</li>
-          <li><span>3.</span>Nous faisons confiance aux agents publics et à leurs équipes, qui travaillent au plus près du terrain.</li>
-        </ul>
+      <div class="fr-py-6w">
+        <p><span style="font-weight: bold; font-size: 56px; margin-right: 0.5em;">1.</span>Les besoins des utilisateurs sont toujours prioritaires.</p>
+        <p><span style="font-weight: bold; font-size: 56px; margin-right: 0.5em;">2.</span>L’équipe travaille sans préjuger à l’avance du résultat final et n’est pilotée que par la mesure de l’impact.</p>
+        <p><span style="font-weight: bold; font-size: 56px; margin-right: 0.5em;">3.</span>Nous faisons confiance aux agents publics et à leurs équipes, qui travaillent au plus près du terrain.</p>
+        <button class="fr-btn fr-btn--lg fr-btn--icon-right fr-btn--secondary">
+          Lire notre manifeste
+        </button>
       </div>      
-    </div>
-    <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters fr-py-6w">
-      <button class="fr-btn fr-btn--lg fr-fi-arrow-right-line fr-btn--icon-right fr-btn--secondary">
-        Lire notre manifeste
-      </button>
     </div>
     <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters fr-py-6w">
       <p>beta.gouv.fr est une mission de la DINUM</p>
     </div>
   </div>
 </section>
-<section class="fr-py-12w newsletter">
+<!-- <section class="fr-py-12w newsletter">
   <div class="fr-container">
     <form method="post" action="https://app.mailjet.com/widget/iframe/1O2v/9ud" id="newsletter">
       <input type="hidden" id="csrf_token" name="csrf_token" value="MmE2NTZkNWQ0MGQ0Y2IzOWQyZTllOWUxZGI2OWJhMTM2OTJhMDRjNzJjYjM5NWQ4MTRkM2UwNmRlYzBjM2RiYg==">
@@ -518,4 +521,4 @@ linear-gradient(0deg, #00006D, #00006D);
       <button class="fr-btn" type="submit" name="subscribe" id="form-submit">Je m'inscris à la newsletter de beta.gouv.fr</button>
     </form>
   </div>
-</section>
+</section> -->
