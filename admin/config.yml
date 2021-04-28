@@ -223,7 +223,7 @@ collections:
         name: "fullname"
         widget: "string"
       - name: domaine
-        hint: dans quel domaine principal intervenez-vous ?
+        hint: Dans quel domaine principal interviens-tu ?
         widget: select
         options: [
           "Animation",  
@@ -313,6 +313,11 @@ collections:
         name: body
         widget: markdown
         required: false
+        buttons: []
+        editor_components: []
+        sanitize_preview: true
+        minimal: true
+        pattern: "^.{1,150}$"
       - name: competences
         hint: Vous pouvez choisir plusieurs compétences (n'hésitez pas à nous en proposer de nouvelles !)
         widget: select
