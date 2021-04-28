@@ -1,6 +1,8 @@
 ---
 fullname: Benoît Guérout
 role: Développeur
+domaine:
+  - Développement
 avatar: https://www.gravatar.com/avatar/af486ff27d192f7a42a215a834c531f4?s=512
 missions:
   - start: 2018-05-14

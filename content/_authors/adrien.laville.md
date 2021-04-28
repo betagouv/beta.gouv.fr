@@ -1,6 +1,8 @@
 ---
 fullname: Adrien Laville
 role: Coach
+domaine:
+  - Coaching
 github: AdrienLaville
 avatar: https://i.goopics.net/dpgnJ.jpg
 missions:

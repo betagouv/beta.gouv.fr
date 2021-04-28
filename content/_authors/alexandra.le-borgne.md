@@ -1,6 +1,8 @@
 ---
 fullname: Alexandra Le Borgne
 role: Coach
+domaine:
+  - Coaching
 link: https://www.joinpulpo.com/
 missions:
   - start: 2021-04-23

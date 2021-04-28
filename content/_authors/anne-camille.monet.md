@@ -1,6 +1,8 @@
 ---
 fullname: Anne-Camille Monet
 role: Intrapreneuse
+domaine:
+  - Intraprenariat
 missions:
   - start: 2017-04-01
     end:

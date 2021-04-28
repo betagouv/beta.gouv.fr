@@ -1,6 +1,8 @@
 ---
 fullname: Alexis Julien
 role: Développeur
+domaine:
+  - Développement
 github: ajulien973
 avatar: https://refactorsaurusrex.com/images/rawr-avatar.png
 link: # optionnel : lien vers une page perso externe.

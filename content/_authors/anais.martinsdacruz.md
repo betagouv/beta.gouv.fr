@@ -1,6 +1,8 @@
 ---
 fullname: Anais Martins Da Cruz
 role: Intrapreneur
+domaine:
+  - Intraprenariat
 github: AnaisMDC
 missions:
   - start: 2019-01-01

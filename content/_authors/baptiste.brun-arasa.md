@@ -1,6 +1,8 @@
 ---
 fullname: Baptiste Brun-Arasa
 role: Développeur
+domaine:
+  - Développement
 avatar:
 github: BaptisteB-A
 missions:

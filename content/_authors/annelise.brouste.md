@@ -1,6 +1,8 @@
 ---
 fullname: Anne-Lise Brouste
 role: Chargée d'accompagnement
+domaine:
+  - Autre
 github: Annelise131
 missions:
   - start: 2020-01-01

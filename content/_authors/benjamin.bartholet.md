@@ -1,6 +1,8 @@
 ---
 fullname: Benjamin Bartholet
-role: Designer UI/UX # Développeuse / Développeur / Intrapreneuse / Intrapreneur / Coach / Chargée de développement / Chargé de développement...
+role: Designer UI/UX
+domaine:
+  - Design
 github: telohtrab
 link: http://trab.design
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !

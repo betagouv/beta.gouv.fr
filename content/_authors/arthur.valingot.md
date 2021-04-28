@@ -1,6 +1,8 @@
 ---
 fullname: Arthur Valingot
 role: Développeur
+domaine:
+  - Développement
 github: ArthV
 missions:
   - start: 2019-01-07

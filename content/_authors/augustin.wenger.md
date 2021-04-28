@@ -1,6 +1,8 @@
 ---
 fullname: Augustin Wenger
 role: Développeur
+domaine:
+  - Développement
 link:
 github: magemax
 missions:

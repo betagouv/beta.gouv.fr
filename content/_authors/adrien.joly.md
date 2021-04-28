@@ -1,6 +1,8 @@
 ---
 fullname: Adrien Joly
 role: Développeur
+domaine:
+  - Développement
 github: adrienjoly
 link: https://adrienjoly.com
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !

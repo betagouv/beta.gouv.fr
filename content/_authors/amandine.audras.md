@@ -1,8 +1,12 @@
 ---
 fullname: Amandine Audras
-role: UX Designer
 github: renardpal
-link:
+link: www.renardpal.com
+domaine: 
+  - Design
+competences:
+  - UX
+  - UI
 missions:
   - start: 2018-11-02
     end: 2019-06-30

@@ -1,6 +1,8 @@
 ---
 fullname: Agnès Vukovic
 role: Intrapreneuse
+domaine:
+  - Intraprenariat
 missions:
   - start: 2020-10-14
     end: 2021-04-14

@@ -1,6 +1,8 @@
 ---
 fullname: Arnaud Meunier
 role: Coach
+domaine:
+  - Coaching
 github: arnaudmeunier
 missions:
   - start: 2019-03-22

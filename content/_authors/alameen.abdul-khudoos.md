@@ -1,6 +1,8 @@
 ---
  fullname: Alameen Abdul Khudoos
  role: Product Owner
+ domaine:
+  - Product
  link: https://linkedin.com/in/alameen-abdul-khudoos-269474141
  missions:
   - start: 2019-01-11

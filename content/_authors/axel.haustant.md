@@ -1,6 +1,8 @@
 ---
 fullname: Axel Haustant
 role: Développeur
+domaine:
+  - Développement
 missions:
   - start: 2013-08-27
     end: 2019-11-30

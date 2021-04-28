@@ -1,6 +1,8 @@
 ---
 fullname: Alban Sestiaa
 role: Intrapreneur
+domaine:
+  - Intraprenariat
 github: Alban-64
 missions:
   - start: 2020-01-01

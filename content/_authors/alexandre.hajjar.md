@@ -1,6 +1,8 @@
 ---
 fullname: Alexandre Hajjar
 role: Développeur
+domaine:
+  - Développement
 link: https://twitter.com/Lajarre
 github: lajarre
 missions:
