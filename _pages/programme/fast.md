@@ -50,7 +50,7 @@ Le montant du ticket global pourra être dépensé via les marchés de la DINUM 
 ## Quelles sont les conditions d'éligibilité ?
 
 * Avoir mis en place une solution à un problème de politique publique ou une initiative locale qui pourrait passer à l’échelle grâce au levier du numérique
-* Si la solution est numérique, avoir ouvert (ou être capable d'ouvrir rapidement) le code du logiciel (open source)
+* Si la solution est numérique, avoir ouvert le code du logiciel (open source)
 * Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée
 * Avoir une feuille de route pour le produit et pour le déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service)
 * Vouloir faire passer ce produit à l’échelle.
