@@ -313,7 +313,7 @@ collections:
         name: body
         widget: markdown
         required: false
-      - name: Compétences
+      - name: competences
         widget: select
         multiple: true
         options: [
