@@ -222,7 +222,7 @@ collections:
         hint: "Format : Prénom Nom. Ton nom complet est utilisé pour le nom de ta fiche. Attention à ton orthographe !"
         name: "fullname"
         widget: "string"
-      - name: domain
+      - name: domaine
         hint: dans quel domaine principal intervenez-vous ?
         widget: select
         options: [

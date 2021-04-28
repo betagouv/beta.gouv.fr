@@ -19,7 +19,7 @@ previously:
   - e-controle
 badges:
   - segur
-roles:
+competences:
   - animation
   - developpement
   - coach
