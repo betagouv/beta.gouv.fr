@@ -317,7 +317,7 @@ collections:
         editor_components: []
         sanitize_preview: true
         minimal: true
-        pattern: "^.{1,150}$"
+        pattern: ["^.{1,150}$"]
       - name: competences
         hint: Vous pouvez choisir plusieurs compétences (n'hésitez pas à nous en proposer de nouvelles !)
         widget: select
