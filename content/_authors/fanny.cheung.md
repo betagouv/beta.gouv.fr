@@ -1,6 +1,8 @@
 ---
 fullname: Fanny Cheung
 role: Développeuse
+domaine: 
+- Développement
 github: Ynote 
 avatar: 
 link: http://ynote.hk

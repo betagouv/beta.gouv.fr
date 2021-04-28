@@ -1,6 +1,8 @@
 ---
 fullname: Florian Briand
 role: Coach/Développeur
+domaine: 
+- Coaching
 github: nabellaleen
 missions:
   - start: 2021-04-14

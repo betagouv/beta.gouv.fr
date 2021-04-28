@@ -1,6 +1,8 @@
 ---
 fullname: Estelle Comment
 role: Développeu·r·se
+domaine: 
+- Développement
 github: estellecomment
 missions:
   - start: 2019-03-18

@@ -1,6 +1,8 @@
 ---
 fullname: Florent Jaby
 role: Punk Développeur
+domaine: 
+- Développement
 link: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 missions:
   - start: 2017-04-24

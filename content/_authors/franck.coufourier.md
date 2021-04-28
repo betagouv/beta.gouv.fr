@@ -1,6 +1,8 @@
 ---
 fullname: Franck Coufourier
 role: Développeur
+domaine: 
+- Développement
 github: fcoufour
 missions:
   - start: 2019-01-07

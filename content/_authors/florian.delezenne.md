@@ -1,6 +1,8 @@
 ---
 fullname: Florian Delezenne
 role: Développeur
+domaine: 
+- Animation
 github: Flightan
 link: https://github.com/betagouv/beta.gouv.fr/edit/master/content/_authors/florian.delezenne.md
 missions:

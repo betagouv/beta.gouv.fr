@@ -1,6 +1,8 @@
 ---
 fullname: Elise Marion
 role: Intrapreneure 
+domaine: 
+- Intraprenariat
 github: elisemarion
 missions:
   - start: 2018-01-01

@@ -1,6 +1,8 @@
 ---
 fullname: François de Metz
 role: Développeur
+domaine: 
+- Développement
 link: https://2metz.fr/
 github: francois2metz
 missions:

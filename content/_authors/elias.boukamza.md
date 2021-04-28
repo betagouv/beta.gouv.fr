@@ -1,6 +1,8 @@
 ---
 fullname: Elias Boukamza
 role: Développeur
+domaine: 
+- Développement
 avatar: https://i.goopics.net/ZV8v3.jpg
 github: eboukamza
 missions:

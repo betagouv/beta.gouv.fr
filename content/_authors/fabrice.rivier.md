@@ -1,6 +1,8 @@
 ---
 fullname: Fabrice Rivier
 role: Intrapreneur 
+domaine: 
+- Intraprenariat
 github: FabriceRIV
 missions:
   - start: 2020-09-01
