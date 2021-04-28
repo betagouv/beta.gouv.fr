@@ -19,6 +19,8 @@ previously:
   - e-controle
 badges:
   - segur
+domaine:
+  - Animation
 competences:
   - Coaching
   - Gestion de Produit
