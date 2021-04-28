@@ -4,15 +4,13 @@ layout: default
 
 <!-- {% include hero-with-image.html title=page.summary image="/img/layouts/home/index.jpg" %} -->
 
-<section class="fr-py-12w" style="background: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%),
-linear-gradient(0deg, #00006D, #00006D);
-">
+<section class="fr-py-12w home-section-blue home-section-main" >
   <div class="fr-container">
-    <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters fr-pt-6w">
-      <div class="fr-col fr-col-12 fr-col-lg-6">
-        <h1 style="color: white; text-align: left;margin-bottom: 50px;">Administrations publiques,<br> venez mieux contruire vos solutions numériques avec nous !</h1>
-        <p style="text-align: left;">
-          <button style="background-color: white;" class="fr-btn fr-btn--lg fr-btn--icon-right fr-btn--secondary">
+    <div class="fr-grid-row fr-grid-row--gutters fr-pt-6w">
+      <div class="fr-col fr-col-12 fr-col-md-6">
+        <h1 class="home-section-main-title">Administrations publiques,<br> venez mieux contruire vos solutions numériques avec nous !</h1>
+        <p>
+          <button class="fr-btn fr-btn--lg fr-btn--icon-right fr-btn--secondary home-button-white">
             Décrouvrir le programme
           </button>
         </p>
@@ -20,8 +18,8 @@ linear-gradient(0deg, #00006D, #00006D);
       <!-- <svg width="414" height="309" viewBox="0 0 414 309" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M395.112 1H19.1115C9.10879 1 1 5.68923 1 11.4737V297.471C1 303.256 9.10879 307.945 19.1115 307.945H395.112C405.115 307.945 413.224 303.256 413.224 297.471V11.4737C413.224 5.68923 405.115 1 395.112 1Z" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
         </svg> -->
-      <div class="fr-col fr-col-12 fr-col-lg-6">
-        <svg style="width: 100%; height: 100%;" viewBox="0 0 604 509" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <div class="fr-col fr-col-12 fr-col-md-6">
+        <svg class="home-section-main-animation" viewBox="0 0 604 509" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M401.69 65.502H25.6896C15.6869 65.502 7.57812 70.1912 7.57812 75.9756V361.973C7.57812 367.757 15.6869 372.447 25.6896 372.447H401.69C411.693 372.447 419.802 367.757 419.802 361.973V75.9756C419.802 70.1912 411.693 65.502 401.69 65.502Z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
           <path d="M395.112 61H19.1115C9.10879 61 1 65.6892 1 71.4737V357.471C1 363.256 9.10879 367.945 19.1115 367.945H395.112C405.115 367.945 413.224 363.256 413.224 357.471V71.4737C413.224 65.6892 405.115 61 395.112 61Z" fill="#00AC8C"/>
           <path opacity="0.8" d="M395.112 61H19.1115C9.10879 61 1 65.6892 1 71.4737V357.471C1 363.256 9.10879 367.945 19.1115 367.945H395.112C405.115 367.945 413.224 363.256 413.224 357.471V71.4737C413.224 65.6892 405.115 61 395.112 61Z" fill="white"/>
@@ -54,19 +52,34 @@ linear-gradient(0deg, #00006D, #00006D);
     </div>
   </div>
 </section>
-<section class="fr-py-6w">
+<section class="fr-py-6w home-section-product">
   <div class="fr-container centered">
-    <h2 style=" color: white; display: inline-block; font-family: Spectral; padding-top: 0; padding-bottom: 0; padding-left: 10px; padding-right: 10px; background-color:rgb(99, 112, 204); font-size: 16px; height: 16px; line-height: 16px;">
-      PRODUITS</h2>
-    <h3>Parcourir nos produits</h3>
-    <h4>Le programme interministériel beta.gouv a déjà contribué à la création de dizaines de services publics numériques.</h4>
+    <h1 class="home-section-title">
+      PRODUITS</h1>
+    <h2 class="fr-mb-6w">Parcourir nos produits</h2>
+    <h4 class="fr-my-6w fr-mx-12w">Le programme interministériel beta.gouv a déjà contribué à la création de dizaines de services publics numériques.</h3>
     <div class="fr-grid-row fr-grid-row--gutters startups">
       {% assign startups = site.startups %}
       {% assign starts = "transport.data.gouv.fr,La Bonne Alternance,Pix,Mon-entreprise.fr" | split: ","  %}
       {% for startup in startups %}
           <!-- {{ startup.title }} -->
           {% if starts contains startup.title %}
-            {% include card-startup.html startup = startup %}
+            <div class="fr-col-12 fr-col-md-3">
+              <div class="fr-card fr-enlarge-link home-fr-card-shadow" >
+                <div class="fr-card__img">
+                  {% include screenshot.html startup=startup force=true %}
+                </div>
+            
+                <div class="fr-card__body">
+                  <h4 class="fr-card__title">
+                    <a class="fr-card__link" href="{{ startup.url }}" >{{ startup.title | strip_html }}</a>
+                  </h4>
+            
+                  <p class="fr-card__detail">{{ startup.owner | strip_html }}</p>
+                  <p class="fr-card__desc">{{ startup.mission | strip_html }}</p>
+                </div>
+              </div>
+            </div>
           {% endif %}
       {% endfor %}
     </div>
@@ -77,24 +90,22 @@ linear-gradient(0deg, #00006D, #00006D);
     </div>
   </div>
 </section>
-<section class="fr-py-12w" style="background: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%),
-linear-gradient(0deg, #00006D, #00006D);
-">
+<section class="fr-py-6w home-section-blue">
 <div class="fr-container">
   <div class="row centered">
     <div>
-        <h2 style="color: white; display: inline-block; font-family: Spectral; padding-top: 0; padding-bottom: 0; padding-left: 10px; padding-right: 10px; background-color:rgb(99, 112, 204); font-size: 16px; height: 16px; line-height: 16px;">
-          ÉQUIPE</h2>
-      <h3 style="color: white; margin-bottom: 50px;">
+        <h1 class="home-section-title">
+          ÉQUIPE</h1>
+      <h2 class="fr-mb-6w home-white-title">
         beta.gouv fait équipe avec votre administration
-      </h3>
-      <h4 style="color: white;">
+      </h2>
+      <h4 class="fr-my-6w home-white-title">
         Intégré au programme, l’agent public appelé “intrapreneur” est 
         au cœur d’une équipe pluridisciplinaire constituée de personnes engagées au service de l’intérêt général. 
-      </h4>
+      </h3>
       <div class="fr-grid-row fr-grid-row--gutters startups">
         <div class="fr-col-12 fr-col-md-4">
-          <div class="fr-card fr-enlarge-link">
+          <div class="fr-card fr-card--no-arrow fr-enlarge-link">
             <div class="fr-card__body">
               <svg viewBox="0 0 228 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="74" y="0" width="82" height="80">
@@ -138,7 +149,7 @@ linear-gradient(0deg, #00006D, #00006D);
           </div>
         </div>
         <div class="fr-col-12 fr-col-md-4">
-          <div class="fr-card fr-enlarge-link">
+          <div class="fr-card fr-card--no-arrow fr-enlarge-link">
             <div class="fr-card__body">
               <svg viewBox="0 0 228 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <g clip-path="url(#clip0)">
@@ -178,87 +189,30 @@ linear-gradient(0deg, #00006D, #00006D);
           </div>
         </div>
         <div class="fr-col-12 fr-col-md-4">
-          <div class="fr-card fr-enlarge-link">
+          <div class="fr-card fr-card--no-arrow fr-enlarge-link">
             <div class="fr-card__body">
               <svg viewBox="0 0 228 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <g clip-path="url(#clip0)">
-                <path d="M113.25 12.9558C113.25 12.9558 110.749 9.37963 107.573 12.3485C104.397 15.3174 97.7069 24.2914 98.1124 29.0821C98.5178 33.8727 102.099 40.1478 102.099 42.5094C102.099 44.871 100.613 51.281 102.91 53.845C105.208 56.409 113.588 55.9367 113.588 55.9367L117.777 55.7343C117.777 55.7343 127.238 58.2308 131.833 55.7343C136.429 53.2378 134.537 41.4973 133.928 39.608L133.32 37.7187C133.32 37.7187 134.807 28.2724 132.036 22.6045C129.265 16.9367 125.616 14.1703 121.9 13.563C118.994 13.1582 116.155 12.9558 113.25 12.9558Z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M152.309 68.8909C150.012 66.3944 144.335 65.1123 136.564 61.3338C128.792 57.5553 125.684 55.666 125.684 55.666C122.44 54.4514 118.048 55.2611 116.561 55.531C115.074 55.1937 110.682 54.4514 107.438 55.666C107.438 55.666 104.329 57.5553 96.558 61.3338C88.7866 65.1123 83.1101 66.3269 80.8125 68.8909C78.5148 71.4549 78.1094 77.6625 78.1094 77.6625H155.08C155.012 77.6625 154.607 71.3874 152.309 68.8909Z" fill="#92E3A9" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M110.749 52.5626C110.749 52.5626 109.262 50.6733 107.641 51.483C106.019 52.2927 102.572 58.8376 102.572 58.8376C102.572 58.8376 102.978 70.1733 104.667 70.983C106.357 71.7927 107.641 64.5055 108.046 63.6283C108.451 62.7511 115.817 67.2044 115.817 67.2044L122.102 64.303C122.102 64.303 124.805 71.8601 126.089 72.0626C127.373 72.265 127.779 61.4017 127.373 58.8376C126.968 56.2736 123.994 52.3601 121.291 52.1577C119.399 52.0902 117.507 52.5626 115.817 53.4397L110.749 52.5626Z" fill="white" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M108.857 46.0167C108.857 46.0167 109.06 56.0704 109.668 58.3645C110.276 60.6586 114.263 67.8108 116.155 68.2157C118.047 68.6205 123.521 57.7572 123.521 57.7572L124.602 45.207C124.602 45.207 119.737 48.1084 108.857 46.0167Z" fill="#7B61FF" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M117.169 48.3792L114.804 46.7598C112.844 46.6923 110.816 46.4224 108.924 46.0176C108.924 46.0176 108.992 50.2684 109.262 53.8446L118.655 51.0107L117.169 48.3792Z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M113.047 14.6409C113.047 14.6409 115.75 8.56826 122.102 8.36584C128.454 8.16342 133.252 12.7517 134.671 16.935C136.091 21.1184 141.564 38.5267 144.132 45.8139C146.7 53.1011 146.43 59.8485 142.24 66.7309C138.05 73.6132 127.981 75.5025 124.197 71.9939C120.413 68.4852 118.723 57.5544 121.291 52.089C123.859 46.6236 123.791 43.7222 123.589 38.0544C123.386 32.3866 114.533 22.9402 113.52 20.2413C112.844 18.4195 112.709 16.4627 113.047 14.6409Z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M104.464 33.0613C104.464 33.0613 101.288 31.3744 101.491 34.3433C101.693 37.3121 104.194 39.8087 105.072 40.2135L105.883 40.6183L104.464 33.0613Z" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M113.249 16.5312C113.249 16.5312 107.167 22.1991 105.681 25.5728C104.667 27.9344 104.262 30.5659 104.397 33.1299C104.87 37.3133 105.546 41.4292 106.492 45.4776C107.1 47.5693 111.56 51.7527 116.561 52.1575C122.102 52.5624 126.292 45.2077 126.292 45.2077C126.292 45.2077 127.779 33.8721 127.779 32.6575C127.779 31.443 115.142 26.5849 113.249 16.5312Z" fill="white" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M117.034 30.7676C117.034 30.7676 117.845 36.8402 117.845 38.1222C117.845 39.4043 114.061 38.7295 114.061 38.7295" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M113.047 41.2259C113.047 41.2259 116.831 43.3176 118.521 41.0234" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M112.033 31.5111C111.898 32.0509 111.425 32.3883 110.884 32.2533C110.344 32.1184 110.006 31.6461 110.141 31.1063C110.209 30.634 110.614 30.2966 111.087 30.3641C111.628 30.3641 112.101 30.9039 112.033 31.5111Z" fill="#263238"/>
-                <path d="M121.629 31.5111C121.494 32.0509 121.021 32.3883 120.48 32.2533C119.94 32.1184 119.602 31.6461 119.737 31.1063C119.804 30.634 120.21 30.2966 120.683 30.3641C121.291 30.3641 121.697 30.9039 121.629 31.5111Z" fill="#263238"/>
-                <path d="M108.452 28.8797C108.452 28.8797 109.06 26.5856 113.723 27.5977" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M118.115 28.2052C118.115 28.2052 121.088 25.7087 124.602 28.8125" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <g clip-path="url(#clip1)">
-                <path d="M164 0.0683594H70V77.731H164V0.0683594Z" fill="white"/>
-                <path d="M156.972 71.8613C154.607 65.991 151.633 63.3595 151.633 63.3595L128.657 51.2142L118.318 49.5948V49.5273L118.047 49.5948L117.777 49.5273V49.5948L107.438 51.2142L84.529 63.3595C84.529 63.3595 81.5556 65.991 79.1904 71.8613L76.8252 77.7315H159.337L156.972 71.8613Z" fill="white" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M118.791 58.7031V76.4488" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M86.8945 65.7207C86.8945 65.7207 90.2734 73.8176 90.5437 77.5961" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M148.998 65.5859C148.998 65.5859 144.538 72.7382 142.983 77.5963" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M118.588 41.4971C130.867 41.4971 140.821 32.2833 140.821 20.9175C140.821 9.55168 130.867 0.337891 118.588 0.337891C106.309 0.337891 96.355 9.55168 96.355 20.9175C96.355 32.2833 106.309 41.4971 118.588 41.4971Z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M108.654 40.0137L109.262 48.2455L118.588 58.2991L127.981 48.9202V40.5535L118.048 42.6452L108.654 40.0137Z" fill="#B8B8B8" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M113.858 41.4981L108.654 40.0137L109.262 48.2455L109.465 48.5154L118.791 46.1538L113.858 41.4981Z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M107.303 26.9897C107.303 26.9897 104.735 25.1679 104.735 28.609C104.802 30.7007 105.681 32.725 107.303 34.0744V26.9897Z" fill="#B8B8B8" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M129.198 26.9897C129.198 26.9897 131.766 25.1679 131.766 28.609C131.698 30.7007 130.82 32.725 129.198 34.0744V26.9897Z" fill="#B8B8B8" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M107.303 23.6173C107.303 23.6173 106.965 37.1121 108.046 40.0135C109.127 42.9149 115.345 46.7609 117.71 47.3007C120.075 47.8405 127.576 43.4547 128.86 40.5533C130.144 37.6519 129.603 21.3907 129.603 21.3907C129.603 21.3907 128.319 13.6986 118.994 13.3613C109.668 13.0239 107.641 19.0291 107.303 23.6173Z" fill="#B8B8B8" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M115.682 35.2227C115.682 35.2227 115.344 35.7624 116.426 36.5047C117.507 37.2469 120.075 37.9891 121.562 35.56" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M114.398 38.5293C114.398 38.5293 118.588 40.1487 122.575 38.5293" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M113.993 28.0702C113.993 28.8124 113.587 29.4197 113.114 29.4197C112.641 29.4197 112.236 28.8124 112.236 28.0702C112.236 27.328 112.641 26.7207 113.114 26.7207C113.587 26.7207 113.993 27.328 113.993 28.0702Z" fill="#263238"/>
-                <path d="M124.332 28.0702C124.332 28.8124 123.927 29.4197 123.454 29.4197C122.981 29.4197 122.575 28.8124 122.575 28.0702C122.575 27.328 122.981 26.7207 123.454 26.7207C123.927 26.7207 124.332 27.328 124.332 28.0702Z" fill="#263238"/>
-                <path d="M116.088 25.7754H108.924C108.924 25.7754 107.505 26.1128 108.181 29.2166C108.654 31.3083 113.857 30.8359 114.939 30.8359C117.034 30.8359 117.371 28.137 117.034 26.5176C116.966 26.1128 116.561 25.7754 116.088 25.7754Z" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M120.548 25.7754H127.711C127.711 25.7754 129.198 26.1128 128.454 29.2166C127.981 31.3083 122.778 30.8359 121.697 30.8359C119.602 30.8359 119.264 28.137 119.602 26.5176C119.669 26.1128 120.075 25.7754 120.548 25.7754Z" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M116.425 25.9102H120.074" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M117.236 27.2599C117.236 27.2599 118.047 25.9104 119.466 27.2599" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M108.925 25.7754L107.303 26.72" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M128.049 25.9785L129.738 26.9232" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M121.021 25.0335C121.021 25.0335 123.116 23.4816 127.171 25.0335" stroke="#263238" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M116.223 25.0335C116.223 25.0335 112.844 23.4816 109.668 25.0335" stroke="#263238" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M109.127 46.0176L118.588 58.2979L113.858 63.8982L106.154 52.0228L109.127 46.0176Z" fill="white" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M118.791 58.7032L124.467 64.4385L131.63 51.8883L128.251 47.0977L118.791 58.7032Z" fill="white" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
                 <g clip-path="url(#clip2)">
-                <path d="M164 0H70V77.6626H164V0Z" fill="white"/>
-                <path d="M107.573 51.8873L99.7343 58.2299L99.5991 77.7299H134.672L132.915 56.4081L124.738 50.7402L107.573 51.8873Z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M107.1 43.9929C107.1 43.9929 106.56 53.1019 107.1 54.6538C107.641 56.2057 109.736 61.4012 116.899 62.076C125.346 62.9531 127.373 53.3043 127.373 53.3043L126.765 43.9929C126.765 43.9929 121.359 45.2074 116.831 44.6677C112.304 44.1279 106.897 43.4531 106.897 43.4531" fill="white"/>
-                <path d="M107.1 43.9929C107.1 43.9929 106.56 53.1019 107.1 54.6538C107.641 56.2057 109.736 61.4012 116.899 62.076C125.346 62.9531 127.373 53.3043 127.373 53.3043L126.765 43.9929C126.765 43.9929 121.359 45.2074 116.831 44.6677C112.304 44.1279 106.897 43.4531 106.897 43.4531" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M118.183 47.2317L110.344 43.858L106.897 43.4531L107.032 43.9929C107.032 43.9929 106.762 48.7161 106.83 51.9549L118.183 50.0656V47.2317Z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M99.4639 27.7312C99.4639 27.7312 98.5178 30.7675 99.0585 33.1291C99.5991 35.4907 104.329 37.3799 104.329 37.3799C104.329 37.3799 104.735 42.508 106.019 43.8574C107.303 45.2069 112.777 49.6602 115.142 50.335C117.507 51.0097 119.399 51.0097 120.953 50.0651C122.508 49.1204 128.049 45.2744 128.86 43.1827C129.536 41.1585 130.144 39.1343 130.685 37.11C130.685 37.11 133.455 36.7052 134.537 34.4786C135.618 32.2519 135.753 28.9457 135.753 28.001C135.753 27.0564 133.05 24.9647 131.225 23.6152C129.401 22.2658 118.521 15.5858 116.561 15.4509C114.601 15.3159 112.168 15.9907 111.29 16.8004C110.411 17.61 99.4639 27.7312 99.4639 27.7312Z" fill="white" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M114.534 37.6504C115.412 38.3926 116.561 38.7975 117.71 38.73C119.534 38.595 120.075 37.6504 120.075 37.6504" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M113.452 40.6875C113.452 40.6875 116.763 42.9142 121.494 40.6875" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M113.993 31.3073C113.993 31.3073 111.357 28.0011 107.911 30.2277" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M121.359 31.4435C122.44 29.7566 124.603 29.0819 126.495 29.7566" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M112.506 30.4974C112.506 29.9576 112.1 29.5527 111.56 29.5527C111.019 29.5527 110.614 29.9576 110.614 30.4974C110.614 31.0372 111.019 31.442 111.56 31.442C112.033 31.442 112.506 30.9697 112.506 30.4974Z" fill="#263238"/>
-                <path d="M124.67 30.4974C124.67 29.9576 124.265 29.5527 123.724 29.5527C123.183 29.5527 122.778 29.9576 122.778 30.4974C122.778 31.0372 123.183 31.442 123.724 31.442C124.197 31.442 124.67 30.9697 124.67 30.4974Z" fill="#263238"/>
-                <path d="M115.209 27.868C112.777 26.586 109.803 26.7209 107.438 28.2728" stroke="#263238" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
-                <path d="M127.913 27.868C125.481 26.586 122.507 26.7209 120.142 28.2728" stroke="#263238" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
-                <path d="M114.804 17.7449C114.804 17.7449 112.844 22.1307 111.087 23.9525C109.33 25.7743 105.816 26.8539 105.816 26.8539C105.343 27.7311 104.87 28.5408 104.329 29.3505C103.924 29.7553 104.059 34.1411 104.059 34.6134C104.059 35.0858 102.369 33.3989 102.369 32.3868C102.369 31.5771 102.234 30.8349 102.099 30.0252C101.288 29.6878 100.545 29.283 99.869 28.8107C99.3284 28.2709 98.6526 28.4058 98.6526 26.9889V24.6273C98.6526 24.6273 95.6117 24.2224 96.1523 21.3211C96.6929 18.4197 102.64 8.50099 108.046 6.40929C113.452 4.3176 116.899 6.54424 116.899 6.54424C119.602 5.05981 122.71 4.45254 125.751 4.72244C130.819 5.32971 137.712 14.9785 139.131 19.5667C140.551 24.155 139.131 27.7311 138.456 27.866C137.577 27.9335 136.699 28.001 135.82 28.001C135.82 28.001 135.685 28.4058 134.604 29.2155C133.658 29.8228 132.644 30.2276 131.563 30.4301C131.698 31.4422 131.698 32.4543 131.428 33.4664C131.225 34.0737 130.955 34.6134 130.617 35.1532L130.076 27.866C127.643 27.0564 125.346 25.8418 123.318 24.2899C121.629 22.9404 120.21 21.3885 119.061 19.5667C119.061 19.5667 120.277 22.3332 119.737 22.6031C119.196 22.873 115.344 20.5114 114.804 17.7449Z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M106.762 53.5077L105.14 77.6634H74.7305C74.7305 77.6634 79.7312 65.9229 81.7585 64.7084C83.7858 63.4938 100.68 56.9489 100.68 56.9489C100.68 56.9489 101.761 55.262 103.181 53.6426C104.6 52.0233 106.492 52.4281 106.762 53.5077Z" fill="#92E3A9" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M100.68 56.9473C100.139 59.9161 99.3959 62.8175 98.4499 65.6514C97.3686 68.5528 95.9495 70.2397 96.0847 70.7794C96.2198 71.3192 98.0444 71.4542 99.1256 69.9698C100.207 68.4853 102.978 64.4369 103.856 64.4369C104.735 64.4369 105.343 70.2397 105.343 70.2397" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M127.238 53.507L128.927 77.6627H159.337C159.337 77.6627 154.336 65.9222 152.309 64.7077C150.282 63.4931 133.387 56.9481 133.387 56.9481C133.387 56.9481 132.239 55.3288 130.819 53.6419C129.4 51.9551 127.508 52.4274 127.238 53.507Z" fill="#92E3A9" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M133.32 56.9473C133.32 56.9473 134.401 62.75 135.55 65.6514C136.699 68.5528 138.05 70.2397 137.915 70.7794C137.78 71.3192 135.956 71.4542 134.874 69.9698C133.793 68.4853 131.022 64.4369 130.144 64.4369C129.265 64.4369 128.657 70.2397 128.657 70.2397" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path d="M107.573 51.8873L99.7343 58.2299L99.5991 77.7299H134.672L132.915 56.4081L124.738 50.7402L107.573 51.8873Z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path d="M107.1 43.9929C107.1 43.9929 106.56 53.1019 107.1 54.6538C107.641 56.2057 109.736 61.4012 116.899 62.076C125.346 62.9531 127.373 53.3043 127.373 53.3043L126.765 43.9929C126.765 43.9929 121.359 45.2074 116.831 44.6677C112.304 44.1279 106.897 43.4531 106.897 43.4531" fill="white"/>
+                  <path d="M107.1 43.9929C107.1 43.9929 106.56 53.1019 107.1 54.6538C107.641 56.2057 109.736 61.4012 116.899 62.076C125.346 62.9531 127.373 53.3043 127.373 53.3043L126.765 43.9929C126.765 43.9929 121.359 45.2074 116.831 44.6677C112.304 44.1279 106.897 43.4531 106.897 43.4531" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path d="M118.183 47.2317L110.344 43.858L106.897 43.4531L107.032 43.9929C107.032 43.9929 106.762 48.7161 106.83 51.9549L118.183 50.0656V47.2317Z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path d="M99.4639 27.7312C99.4639 27.7312 98.5178 30.7675 99.0585 33.1291C99.5991 35.4907 104.329 37.3799 104.329 37.3799C104.329 37.3799 104.735 42.508 106.019 43.8574C107.303 45.2069 112.777 49.6602 115.142 50.335C117.507 51.0097 119.399 51.0097 120.953 50.0651C122.508 49.1204 128.049 45.2744 128.86 43.1827C129.536 41.1585 130.144 39.1343 130.685 37.11C130.685 37.11 133.455 36.7052 134.537 34.4786C135.618 32.2519 135.753 28.9457 135.753 28.001C135.753 27.0564 133.05 24.9647 131.225 23.6152C129.401 22.2658 118.521 15.5858 116.561 15.4509C114.601 15.3159 112.168 15.9907 111.29 16.8004C110.411 17.61 99.4639 27.7312 99.4639 27.7312Z" fill="white" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path d="M114.534 37.6504C115.412 38.3926 116.561 38.7975 117.71 38.73C119.534 38.595 120.075 37.6504 120.075 37.6504" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path d="M113.452 40.6875C113.452 40.6875 116.763 42.9142 121.494 40.6875" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path d="M113.993 31.3073C113.993 31.3073 111.357 28.0011 107.911 30.2277" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path d="M121.359 31.4435C122.44 29.7566 124.603 29.0819 126.495 29.7566" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path d="M112.506 30.4974C112.506 29.9576 112.1 29.5527 111.56 29.5527C111.019 29.5527 110.614 29.9576 110.614 30.4974C110.614 31.0372 111.019 31.442 111.56 31.442C112.033 31.442 112.506 30.9697 112.506 30.4974Z" fill="#263238"/>
+                  <path d="M124.67 30.4974C124.67 29.9576 124.265 29.5527 123.724 29.5527C123.183 29.5527 122.778 29.9576 122.778 30.4974C122.778 31.0372 123.183 31.442 123.724 31.442C124.197 31.442 124.67 30.9697 124.67 30.4974Z" fill="#263238"/>
+                  <path d="M115.209 27.868C112.777 26.586 109.803 26.7209 107.438 28.2728" stroke="#263238" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+                  <path d="M127.913 27.868C125.481 26.586 122.507 26.7209 120.142 28.2728" stroke="#263238" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+                  <path d="M114.804 17.7449C114.804 17.7449 112.844 22.1307 111.087 23.9525C109.33 25.7743 105.816 26.8539 105.816 26.8539C105.343 27.7311 104.87 28.5408 104.329 29.3505C103.924 29.7553 104.059 34.1411 104.059 34.6134C104.059 35.0858 102.369 33.3989 102.369 32.3868C102.369 31.5771 102.234 30.8349 102.099 30.0252C101.288 29.6878 100.545 29.283 99.869 28.8107C99.3284 28.2709 98.6526 28.4058 98.6526 26.9889V24.6273C98.6526 24.6273 95.6117 24.2224 96.1523 21.3211C96.6929 18.4197 102.64 8.50099 108.046 6.40929C113.452 4.3176 116.899 6.54424 116.899 6.54424C119.602 5.05981 122.71 4.45254 125.751 4.72244C130.819 5.32971 137.712 14.9785 139.131 19.5667C140.551 24.155 139.131 27.7311 138.456 27.866C137.577 27.9335 136.699 28.001 135.82 28.001C135.82 28.001 135.685 28.4058 134.604 29.2155C133.658 29.8228 132.644 30.2276 131.563 30.4301C131.698 31.4422 131.698 32.4543 131.428 33.4664C131.225 34.0737 130.955 34.6134 130.617 35.1532L130.076 27.866C127.643 27.0564 125.346 25.8418 123.318 24.2899C121.629 22.9404 120.21 21.3885 119.061 19.5667C119.061 19.5667 120.277 22.3332 119.737 22.6031C119.196 22.873 115.344 20.5114 114.804 17.7449Z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path d="M106.762 53.5077L105.14 77.6634H74.7305C74.7305 77.6634 79.7312 65.9229 81.7585 64.7084C83.7858 63.4938 100.68 56.9489 100.68 56.9489C100.68 56.9489 101.761 55.262 103.181 53.6426C104.6 52.0233 106.492 52.4281 106.762 53.5077Z" fill="#92E3A9" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path d="M100.68 56.9473C100.139 59.9161 99.3959 62.8175 98.4499 65.6514C97.3686 68.5528 95.9495 70.2397 96.0847 70.7794C96.2198 71.3192 98.0444 71.4542 99.1256 69.9698C100.207 68.4853 102.978 64.4369 103.856 64.4369C104.735 64.4369 105.343 70.2397 105.343 70.2397" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path d="M127.238 53.507L128.927 77.6627H159.337C159.337 77.6627 154.336 65.9222 152.309 64.7077C150.282 63.4931 133.387 56.9481 133.387 56.9481C133.387 56.9481 132.239 55.3288 130.819 53.6419C129.4 51.9551 127.508 52.4274 127.238 53.507Z" fill="#92E3A9" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path d="M133.32 56.9473C133.32 56.9473 134.401 62.75 135.55 65.6514C136.699 68.5528 138.05 70.2397 137.915 70.7794C137.78 71.3192 135.956 71.4542 134.874 69.9698C133.793 68.4853 131.022 64.4369 130.144 64.4369C129.265 64.4369 128.657 70.2397 128.657 70.2397" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
                 </g>
-                </g>
-                </g>
-                <defs>
-                <clipPath id="clip0">
-                <rect width="94" height="78" fill="white" transform="translate(70)"/>
-                </clipPath>
-                <clipPath id="clip1">
-                <rect width="94" height="78.0675" fill="white" transform="translate(70)"/>
-                </clipPath>
-                <clipPath id="clip2">
-                <rect width="94" height="78.0675" fill="white" transform="translate(70)"/>
-                </clipPath>
-                </defs>
-                </svg>
-                
-        
+              </svg>        
               <h4 class="fr-card__title">
                 Chargé(e) de déploiement
               </h4>
@@ -270,7 +224,7 @@ linear-gradient(0deg, #00006D, #00006D);
           </div>
         </div>
         <div class="fr-col-12 fr-col-md-4">
-          <div class="fr-card fr-enlarge-link">
+          <div class="fr-card fr-card--no-arrow fr-enlarge-link">
             <div class="fr-card__body">
               <svg viewBox="0 0 228 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g clip-path="url(#clip0)">
@@ -319,7 +273,7 @@ linear-gradient(0deg, #00006D, #00006D);
           </div>
         </div>
         <div class="fr-col-12 fr-col-md-4">
-          <div class="fr-card fr-enlarge-link">
+          <div class="fr-card fr-card--no-arrow fr-enlarge-link">
             <div class="fr-card__body">
               <svg viewBox="0 0 228 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g clip-path="url(#clip0)">
@@ -357,7 +311,7 @@ linear-gradient(0deg, #00006D, #00006D);
           </div>
         </div>
         <div class="fr-col-12 fr-col-md-4">
-          <div class="fr-card fr-enlarge-link">
+          <div class="fr-card fr-card--no-arrow fr-enlarge-link">
             <div class="fr-card__body">
               <svg viewBox="0 0 228 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g clip-path="url(#clip0)">
@@ -401,26 +355,26 @@ linear-gradient(0deg, #00006D, #00006D);
       </div>
     </div>  
   </div>
-  <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-pt-12w">
-    <button style="background-color: white;" class="fr-btn fr-btn--lg fr-btn--icon-right fr-btn--secondary">
+  <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-pt-6w">
+    <button class="fr-btn fr-btn--lg fr-btn--icon-right fr-btn--secondary home-button-white-border">
       Devenir intrapreneur(e)
     </button>
   </div>
 </div>
 </section>
-<section class="fr-py-6w">
+<section class="fr-py-6w home-section-principle">
   <div class="fr-container">
     <div class="centered">
-      <h2 style="color: white; display: inline-block; font-family: Spectral; padding-top: 0; padding-bottom: 0; padding-left: 10px; padding-right: 10px; background-color:rgb(99, 112, 204); font-size: 16px; height: 16px; line-height: 16px;">
-        APPROCHE</h2>
+      <h1 class="home-section-title">
+        APPROCHE</h1>
       <br>
-      <h3>Le programme beta.gouv est fondée sur 3 principes</h3>
-      <h4>pour construire des services numériques simples, faciles à utiliser et à l’impact maximal.
-      </h4>
+      <h2 class="fr-mb-6w">Le programme beta.gouv est fondée sur 3 principes</h2>
+      <h4 class="fr-my-6w">pour construire des services numériques simples,<br>faciles à utiliser et à l’impact maximal.
+      </h3>
     </div>
-    <div class="row">
-      <div>
-        <svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups">
+      <div class="fr-col-12 fr-col-md-4">
+        <svg class="home-section-principle-animation" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M42.3695 226.843C42.3695 226.843 40.1521 342.962 204.748 341.573C236.69 341.301 271.059 341.165 301.579 331.378C313.001 327.712 322.299 319.471 323.115 308.253C324.15 293.891 316.661 280.051 318.408 265.751C322.832 229.538 382.627 131.615 287.407 85.3431C192.187 39.0712 39.42 100.76 42.3695 226.843Z" fill="#E5DFFF"/>
           <path d="M168.267 313.153L192.657 330.387C192.657 330.387 206.097 321.143 206.369 308.097C206.924 281.493 230.216 283.833 240.121 283.353C255.057 282.632 266.175 275.916 259.073 261.46C251.04 245.092 276.006 234.281 300.293 236.59C324.056 238.846 341.805 197.964 290.806 188.354C260.349 182.62 246.7 209.516 236.565 221.465C226.43 233.414 206.725 221.068 202.196 241.207C198.326 258.41 201.987 275.54 187.48 278.987C172.994 282.433 164.899 292.085 168.267 313.153Z" fill="url(#paint0_linear)"/>
           <g opacity="0.5">
@@ -496,17 +450,24 @@ linear-gradient(0deg, #00006D, #00006D);
           </svg>
           
       </div>
-      <div class="fr-py-6w">
-        <p><span style="font-weight: bold; font-size: 56px; margin-right: 0.5em;">1.</span>Les besoins des utilisateurs sont toujours prioritaires.</p>
-        <p><span style="font-weight: bold; font-size: 56px; margin-right: 0.5em;">2.</span>L’équipe travaille sans préjuger à l’avance du résultat final et n’est pilotée que par la mesure de l’impact.</p>
-        <p><span style="font-weight: bold; font-size: 56px; margin-right: 0.5em;">3.</span>Nous faisons confiance aux agents publics et à leurs équipes, qui travaillent au plus près du terrain.</p>
-        <button class="fr-btn fr-btn--lg fr-btn--icon-right fr-btn--secondary">
+      <div class="fr-py-6w fr-col-12 fr-col-md-8">
+        <p class="home-section-principle-list-item">
+          <span class="home-section-principle-list-item-number">1.</span>
+          <span class="home-section-principle-list-item-content">Les besoins des utilisateurs sont toujours prioritaires.</span>
+        </p>
+        <p class="home-section-principle-list-item">
+          <span class="home-section-principle-list-item-number">2.</span>
+          <span class="home-section-principle-list-item-content">L’équipe travaille sans préjuger à l’avance du résultat final et n’est pilotée que par la mesure de l’impact.</span></p>
+        <p class="home-section-principle-list-item">
+          <span class="home-section-principle-list-item-number">3.</span>
+          <span class="home-section-principle-list-item-content">Nous faisons confiance aux agents publics et à leurs équipes, qui travaillent au plus près du terrain.</span></p>
+        <button class="fr-btn fr-btn--lg fr-btn--icon-right fr-btn--secondary home-button-black">
           Lire notre manifeste
         </button>
       </div>      
     </div>
     <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters fr-py-6w">
-      <p>beta.gouv.fr est une mission de la DINUM</p>
+      <p style="font-size: 1.2rem; font-weight: bold;">beta.gouv.fr est une mission de la DINUM</p>
     </div>
   </div>
 </section>
