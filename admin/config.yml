@@ -314,6 +314,7 @@ collections:
         widget: markdown
         required: false
       - name: competences
+        hint: Vous pouvez choisir plusieurs compétences (n'hésitez pas à nous en proposer de nouvelles !)
         widget: select
         multiple: true
         options: [

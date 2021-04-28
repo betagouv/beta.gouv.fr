@@ -20,10 +20,11 @@ previously:
 badges:
   - segur
 competences:
-  - animation
-  - developpement
-  - coach
-  - produit
+  - Coaching
+  - Gestion de Produit
+  - Administration Système
+  - Développement Frontend
+  - Développement Backend
 ---
 
 Chercheur de simplicité
