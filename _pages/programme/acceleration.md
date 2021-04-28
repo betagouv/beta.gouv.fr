@@ -7,7 +7,7 @@ permalink: /approche/acceleration
 
 > La **phase d’accélération**, qui fait suite à une [phase de construction](https://beta.gouv.fr/approche/construction) réussie, a pour objectif la croissance de l’impact du service numérique. Elle permet de déployer le service à plus large échelle et peut nécessiter un élargissement de l’équipe.
 
-### Fonctionnement
+## Fonctionnement
 
 La phase d’accélération permet à un service fonctionnel, validé par des premiers usagers, dont on est certain qu'il résout le problème initialement visé, de passer à la vitesse supérieure. Pendant cette phase, l'équipe se structure,  adapte le produit à son utilisation croissante et suit les indicateurs de performance adéquats pour amplifier l'impact final du service. En général, l'équipe s'agrandit et le périmètre fonctionnel et/ou géographique du service est étendu, ce qui suppose la mobilisation de ressources financières plus importantes qu'en phase de construction.
 
@@ -18,7 +18,7 @@ Le déroulé de la phase d’accélération continue à reposer sur les [3 pilie
 
 Cette phase s’achève par un comité où l’administration porteuse prend la décision, sur la base des résultats du service, de [le pérenniser](https://beta.gouv.fr/approche/transfert) ou non. 
 
-### Le programme Gamma
+## Le programme Gamma
 
 Depuis septembre 2020, une équipe spécialisée dans les enjeux de croissance de services numériques est mobilisée par beta.gouv.fr pour apporter un accompagnement ciblé lors la phase d'accélération. Il s'agit d'un programme de 4 à 6 mois qui accompagne 3 équipes par saison et dont les conditions d'éligibilité sont les suivantes : 
 - Faire partie du programme beta.gouv.fr&nbsp;;

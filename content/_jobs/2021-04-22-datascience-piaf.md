@@ -1,5 +1,5 @@
 ---
-roles: Full-Stack expérimenté·e + appétence infra
+roles: Data-Scientiste + appétence backend
 friend: Etalab
 equipe: La branche IA d'Etalab
 type: friend
@@ -9,7 +9,7 @@ junior: false
 open: true
 ---
 
-# L'équipe Piaf recherche un·e Full-Stack expérimenté·e avec une appétence pour l'infra
+# L'équipe Piaf recrute un·e Data-Scientiste expérimenté·e avec une appétence pour le dev backend
 
 ## Qui sommes-nous : 
 
@@ -23,21 +23,24 @@ La solution mélange des modèles d’indexation classiques (type ElasticSearch)
 
 ## Missions et rôle
 
-Tu travailleras avec l'équipe actuelle (3 personnes) pour automatiser le produit actuel, et lui permettre de passer à l'échelle. 
+Tu travailleras avec l'équipe actuelle (3 personnes) pour automatiser le produit actuel, et lui permettre de passer à l'échelle. Piaf est un produit puissant qui permet de configurer des chaines de traitement de texte pour obtenir la recherche de l'information la plus précise possible. Par exemple, Piaf permet de combiner Elasticsearch avec des embeddings de type [Sentence-Bert](https://www.sbert.net/) afin de palier aux limites des représentations creuses avec les avantages sémantiques des représentations denses (prendre en compte les synonymes par exemple). Piaf permet aussi d'intégrer le Question-Answering en bout de recherche d'Information. 
 
-- Amélioration des frontends qui nous servent de démonstrateur [piafAgent](https://github.com/etalab-ia/piaf_agent) et [piafBot](https://github.com/fabnumdef/chatbot-template/tree/service_public)
-- Passage en production de nos cas d'usages qui le nécessitent (création de la CI/CD)
-- Création d'une interface permettant la mise à jour de la base de connaissance par les utilisateurs
-- Définir les besoins du déploiement à grande échelle de la solution 
+- Extraction, transformation et chargement des données
+- Expériences NLP/ML pour maximiser la performance de notre outil pour chaque cas d'usage
+  - automatisation du choix des paramètres (ex: méthodologie grid search)
+  - analyses et documentation des résultats
+  - test de performances continu: nous améliorons nos pipelines en continu et leurs déploiements sont automatiques
+- Question-answering: fine-tuner les [modèles de QA francophones](https://huggingface.co/etalab-ia) que nous avons développé
+- Prise en compte du feedback utilisateur pour améliorer les performances
 
 
 Les technologies sont :
 
-* Vue‧js en front
-* [Tailwind](https://tailwindcss.com/) pour CSS
-* Python avec [FastAPI](https://fastapi.tiangolo.com/)
+* [Haystack](https://github.com/deepset-ai/haystack) 
+* [Transformers](https://github.com/huggingface/transformers)
+* Python (debugging, code modulaire, notebooks)
+* pandas, scikit-learn, pytorch, fairseq, sentence-bert
 * ElasticSearch
-* Docker & Docker-compose
 
 ## Compétences :
 

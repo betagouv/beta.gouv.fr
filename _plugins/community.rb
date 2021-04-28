@@ -2,9 +2,7 @@ module Jekyll
   module CommunityFilter
     def community(people, state, sort_by = 'oldest')
       now = Date.today
-      lastMonth = Date.today.prev_month
       current = []
-      recent = []
       past = []
       people.each do |person|
         missions = person.data['missions']
@@ -13,27 +11,26 @@ module Jekyll
           missions&.last['end'] <= now # and the date is in the past
           past << person
         else
-          if missions&.first and # they had at least one
-            missions&.first['start'] and # and it had an end date
-            missions&.first['start'] >= lastMonth # and the date is in the past month
-            recent << person
-          end
           current << person
         end
       end
 
-      if state == 'current'
-        result = current
-      elsif state == 'recent'
-        result = recent
-      else
+      if state == 'past'
         result = past
+      else
+        result = current
       end
 
       if sort_by != 'alpha' 
-        result.sort_by { |person| person.data['missions']&.map{ |e| e['start'] || Date.today }&.min || Date.today }.reverse
+        result = result.sort_by { |person| person.data['missions']&.map{ |e| e['start'] || Date.today }&.min || Date.today }.reverse
       else
-        result.sort_by { |person| person.data['fullname'] }
+        result = result.sort_by { |person| person.data['fullname'] }
+      end
+
+      if state == 'recent'
+        result[1..3]
+      else
+        result
       end
     end
   end

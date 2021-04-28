@@ -4,7 +4,7 @@ label: Faire de l’industriel en milieu artisanal
 order: 5
 ---
 
-### Faire de l’industriel en milieu artisanal
+## Faire de l’industriel en milieu artisanal
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
@@ -14,7 +14,7 @@ order: 5
   <p><a href="/content/docs/mooc/21-industriel-mode-artisanal.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
 
-### Tester ses hypothèses sans développeur
+## Tester ses hypothèses sans développeur
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
@@ -24,7 +24,7 @@ order: 5
   <p><a href="/content/docs/mooc/22-tester-sans-developpeur.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
 
-### Lancez-vous avec demarches-simplifiees.fr !
+## Lancez-vous avec demarches-simplifiees.fr !
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">

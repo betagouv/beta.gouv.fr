@@ -4,7 +4,7 @@ label: Documents utiles
 order: 6
 ---
 
-### Documents utiles - pour aller plus loin
+## Documents utiles - pour aller plus loin
 
 - [Télécharger la fiche produit](/content/docs/mooc/FicheProduitMooc.odt) à remplir durant ce mooc.
 - [Consulter le guide de lancement](/content/docs/guide.pdf) des Startups d'État et de Territoire.
