@@ -1,6 +1,8 @@
 ---
 fullname: Jérémy Pinto
 role: Développeur Fullstack
+domaine:
+- Développement
 github: JeremyPinto
 avatar: # optionnel, voir ci-dessous
 # En premier, on va regarder si tu as mis une image au format prenom.nom dans /img/authors/

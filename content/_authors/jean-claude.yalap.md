@@ -1,6 +1,8 @@
 ---
 fullname: Jean-Claude YALAP
 role: Lead Développeur
+domaine:
+- Développement
 github: jeanclaudeyalap
 link: https://www.ysocorp.com
 missions:

@@ -1,6 +1,8 @@
 ---
 fullname: Jill-Jênn Vie
 role: Ingénieur recherche
+domaine:
+- Autre
 link: http://jill-jenn.net
 missions:
   - start: 2016-10-03

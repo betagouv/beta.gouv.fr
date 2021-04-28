@@ -1,6 +1,8 @@
 ---
 fullname: Julien Dauphant
 role: Mentor Technique et Produit
+domaine:
+- Animation
 link: 'https://twitter.com/jdauphant'
 missions:
   - employer: octo

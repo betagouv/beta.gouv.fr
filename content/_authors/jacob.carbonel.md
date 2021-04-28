@@ -1,6 +1,8 @@
 ---
 fullname: Jacob Carbonel
 role: Intrapreneur
+domaine:
+- Intraprenariat
 missions:
   - start: 2018-01-01
     end: 2018-06-30

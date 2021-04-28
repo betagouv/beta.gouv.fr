@@ -1,6 +1,8 @@
 ---
 fullname: Jean-Baptiste Mora
 role: Développeur
+domaine:
+- Développement
 github: jeanbaptistemora
 avatar: 
 link: https://moramora.fr

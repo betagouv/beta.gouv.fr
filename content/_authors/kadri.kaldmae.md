@@ -1,6 +1,8 @@
 ---
 fullname: Kadri Kaldmae
 role: Chargé de déploiement
+domaine:
+- Déploiement
 github: kadrike
 missions:
   - start: 2020-06-09

@@ -1,6 +1,8 @@
 ---
 fullname: Jonathan Fallon
 role: Développeur
+domaine:
+- Développement
 github: jonathanfallon
 missions:
     - start: 2018-11-05

@@ -1,6 +1,8 @@
 ---
 fullname: Jonathan Louis
 role: Chargé de déploiement
+domaine:
+- Déploiement
 missions:
   - employer: octo
     end: 2021-06-30

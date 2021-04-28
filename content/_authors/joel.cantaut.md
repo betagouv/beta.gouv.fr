@@ -1,6 +1,8 @@
 ---
 fullname: Joël Cantaut
 role: Intrapreneur
+domaine:
+- Intraprenariat
 link:
 missions:
   - start: 2018-12-01

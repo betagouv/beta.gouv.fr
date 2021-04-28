@@ -1,6 +1,8 @@
 ---
 fullname: Jean-Michel Armand
 role: Développeur
+domaine:
+- Développement
 github: mrjmad
 missions:
   - start: 2018-12-21
