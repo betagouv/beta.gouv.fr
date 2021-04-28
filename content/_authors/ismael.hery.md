@@ -1,6 +1,8 @@
 ---
 fullname: Ismaël Hery
 role: Coach
+domaine: 
+- Coaching
 missions:
   - start: 2015-04-01
     end: 2018-12-19

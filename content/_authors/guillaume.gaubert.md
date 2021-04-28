@@ -1,6 +1,8 @@
 ---
 fullname: Guillaume Gaubert
 role: En immersion 
+domaine: 
+- Autre
 github: gaubertguillaume75
 missions:
   - start: 2020-03-30

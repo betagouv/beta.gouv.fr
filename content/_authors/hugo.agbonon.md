@@ -1,6 +1,8 @@
 ---
 fullname: Hugo Agbonon
 role: Développeur web
+domaine: 
+- Développement
 link: https://www.codeheroics.com
 github: codeheroics
 missions:

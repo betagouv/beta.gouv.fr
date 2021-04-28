@@ -1,6 +1,8 @@
 ---
 fullname: Gayatri Korhalkar
 role: Coach 
+domaine:
+- Coaching
 github: Gayatri Korhalkar
 missions:
   - start: 2021-01-11

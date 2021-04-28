@@ -1,6 +1,8 @@
 ---
 fullname: Iain Wallace
 role: Coach
+domaine: 
+- Coaching
 link: http://www.mydigitalfactory.fr 
 missions:
   - start: 2021-04-19

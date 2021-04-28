@@ -1,6 +1,8 @@
 ---
 fullname: Gautier Bailly
 role: Intrapreneur
+domaine:
+- Intrapreneur
 missions:
   - start: 2020-01-01
     end: 2020-12-31

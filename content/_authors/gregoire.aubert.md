@@ -1,6 +1,8 @@
 ---
 fullname: Grégoire Aubert
 role: Chargé de développement
+domaine:
+- Déploiement
 github: Gregoire-Aubert
 missions:
   - start: 2019-01-14
