@@ -19,13 +19,13 @@
     {%- include avatar.html author=author force=true rounded=true -%}
   </div>
   <div class="fr-card__body">
-    <h4 class="fr-card__title">
+    <h3 class="fr-card__title">
         {%- if author.link -%}
           <a class="fr-card__link" href="{{ author.link }}" target="_blank" rel="noopener">{{ author.fullname }}</a>
         {%- else -%}
           {{ author.fullname }}
         {%- endif -%}
-    </h4>
+    </h3>
     <p class="fr-card__detail">
       {%- if timestampNow > authorEndDate -%}
         Alumni
