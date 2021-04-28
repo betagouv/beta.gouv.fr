@@ -7,5 +7,6 @@ missions:
     end: 2021-05-27
     status: independent
 startups:
-  - rdv.apprentisage
+  - rdv.apprentissage
+  - apprentissage
 ---
