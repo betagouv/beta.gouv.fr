@@ -1,6 +1,8 @@
 ---
 fullname: Sandra Chakroun
 role: Développeuse
+domaine: 
+- Développement
 link: https://www.linkedin.com/in/sandra-chakroun
 missions:
   - employer: octo

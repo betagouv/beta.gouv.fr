@@ -1,6 +1,8 @@
 ---
 fullname: Sofia Boulaarab
 role: Designer
+domaine:
+- Design
 github: sofiaboulaarab 
 link:
 missions: 

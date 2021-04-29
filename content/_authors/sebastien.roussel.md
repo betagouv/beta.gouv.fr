@@ -1,6 +1,8 @@
 ---
 fullname: Sébastien Roussel
 github: sebroussel
+domaine: 
+- Développement
 role: Développeur
 missions:
   - start: 2019-06-17

@@ -1,6 +1,8 @@
 ---
 fullname: Sarah Lancry
 role: Chargée de développement
+domaine: 
+- Déploiement
 github: SarahLANCRY
 link: "https://www.linkedin.com/in/sarah-lancry-aa813878/"
 missions:

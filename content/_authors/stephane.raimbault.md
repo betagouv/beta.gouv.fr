@@ -1,6 +1,8 @@
 ---
 fullname: Stéphane Raimbault
 role: Développeur
+domaine:
+- Développement
 link: https://webstack.fr
 github: stephane
 missions:

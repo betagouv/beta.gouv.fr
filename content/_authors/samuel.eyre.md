@@ -1,6 +1,8 @@
 ---
 fullname: Samuel Eyre
 role: Développeur
+domaine: 
+- Développement
 github: samueleyre
 missions:
   - start: 2018-11-05

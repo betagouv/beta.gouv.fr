@@ -1,6 +1,8 @@
 ---
 fullname: Stephen Bastard
 role: Chargé de déploiement
+domaine:
+- Déploiement
 missions:
   - status: admin
     end: 2021-08-31

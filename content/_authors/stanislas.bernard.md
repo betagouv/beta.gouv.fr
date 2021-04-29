@@ -1,6 +1,8 @@
 ---
 fullname: Stanislas Bernard
 role: Développeur
+domaine:
+- Développement
 github: Bernardstanislas
 missions:
   - end: 2021-08-28

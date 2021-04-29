@@ -1,6 +1,8 @@
 ---
 fullname: Sabine Safi
 role: Coach / PO
+domaine: 
+- Coaching
 github: sabinesafi
 missions:
   - start: 2019-02-04

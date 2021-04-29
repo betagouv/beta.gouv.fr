@@ -1,6 +1,8 @@
 ---
 fullname: Rachid Benabdelhak
 role: Intrapreneur / PM en devenir / Lecteur passioné / Justicié masqué sauveur de chats la nuit
+domaine:
+- Intraprenariat
 github: rachidLPB
 missions: 
   - start: 2020-09-07 

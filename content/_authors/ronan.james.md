@@ -1,6 +1,8 @@
 ---
 fullname: Ronan James
 role: Intrapreneur
+domaine: 
+- Intraprenariat
 github: ronanjames
 missions:
   - start: 2021-01-25

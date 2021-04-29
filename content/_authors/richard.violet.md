@@ -1,6 +1,8 @@
 ---
 fullname: Richard Violet
 role: Intrapreneur
+domaine: 
+- Intraprenariat
 avatar: https://avatars3.githubusercontent.com/RitchyP?s=600
 link:
 github:

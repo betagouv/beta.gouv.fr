@@ -1,6 +1,8 @@
 ---
 fullname: Soufiane Boutallaka
 github: sboutallaka
+domaine:
+- Développement
 role: Développeur
 missions:
   - start: 2020-02-11
