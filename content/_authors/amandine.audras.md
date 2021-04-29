@@ -1,5 +1,6 @@
 ---
 fullname: Amandine Audras
+role: UX Designer
 github: renardpal
 link: www.renardpal.com
 domaine: Design
@@ -22,4 +23,3 @@ startups:
 previously:
   - _openfisca_
 ---
-
