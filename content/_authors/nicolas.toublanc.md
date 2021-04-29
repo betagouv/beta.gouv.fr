@@ -1,8 +1,7 @@
 ---
 fullname: Nicolas Toublanc
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: toub
 missions:
   - start: 2020-05-01

@@ -1,8 +1,7 @@
 ---
 fullname: Damien Dufourd
 role: Coach
-domaine: 
-- Coaching
+domaine: Coaching
 github: damiendufourd
 missions:
   - start: 2018-09-04

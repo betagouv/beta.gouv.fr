@@ -1,8 +1,7 @@
 ---
 fullname: Victor Gross
 role: Buisiness Developer & Coach
-domaine:
-- Déploiement
+domaine: Déploiement
 github: VGrss
 link: https://fr.linkedin.com/in/victorgross
 missions:

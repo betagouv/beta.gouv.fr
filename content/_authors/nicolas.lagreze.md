@@ -1,8 +1,7 @@
 ---
 fullname: Nicolas Lagrèze
 role: Coach
-domaine:
-- Coaching
+domaine: Coaching
 link: https://www.linkedin.com/in/nlagreze/
 github: nlagreze
 missions:

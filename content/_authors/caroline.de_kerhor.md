@@ -1,8 +1,7 @@
 ---
 fullname: Caroline de Kerhor
 role: animatrice pré-incubation ARS Ile de France
-domaine:
-  - Animation
+domaine: Animation
 link: https://www.linkedin.com/in/carolinedekerhor/
 missions:
   - start: 2019-06-17

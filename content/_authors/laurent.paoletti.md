@@ -1,8 +1,7 @@
 ---
 fullname: Laurent Paoletti
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: providenz
 link: https://twitter.com/providenz
 missions:

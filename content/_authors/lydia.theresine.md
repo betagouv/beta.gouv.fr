@@ -1,8 +1,7 @@
 ---
 fullname: Lydia Theresine
 role: Product owner et facilitatrice
-domaine:
-- Produit
+domaine: Produit
 missions:
   - start: 2020-06-01
     end: 2021-12-31

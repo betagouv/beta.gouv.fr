@@ -1,8 +1,7 @@
 ---
 fullname: François-Xavier Montigny
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 link: https://www.linkedin.com/in/fran%C3%A7ois-xavier-montigny-36290920/
 github: fxmontigny
 missions:

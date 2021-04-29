@@ -1,8 +1,7 @@
 ---
 fullname: Clara Lanthiez
 role: Coach/Designer
-domaine:
-  - Coaching
+domaine: Coaching
 link: http://www.co-collectif.com/
 github: claralanthiez
 missions:

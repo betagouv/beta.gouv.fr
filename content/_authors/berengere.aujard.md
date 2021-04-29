@@ -1,8 +1,7 @@
 ---
 fullname: Bérengère Aujard
 role: Intrapreneuse
-domaine:
-  - Intraprenariat
+domaine: Intraprenariat
 github: BerengereAujard
 missions:
   - start: 2019-03-13

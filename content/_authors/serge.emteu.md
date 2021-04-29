@@ -1,8 +1,7 @@
 ---
 fullname: Serge Emteu
 role: Data-scientist/DataDGT
-domaine: 
-- Autre
+domaine: Autre
 missions:
   - start: 2020-06-09
     end: 2020-12-31

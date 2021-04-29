@@ -1,8 +1,7 @@
 ---
 fullname: Laura Barrera-Cano
 role: Juriste
-domaine:
-- Autre
+domaine: Autre
 missions:
   - start: 2021-02-23
     end: 2021-09-06

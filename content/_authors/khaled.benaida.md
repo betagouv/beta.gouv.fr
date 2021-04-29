@@ -1,8 +1,7 @@
 ---
 fullname: Khaled Benaida
 role: Chargé de développement
-domaine:
-- Déploiement
+domaine: Déploiement
 github: khaled-benaida
 missions:
   - start: 2020-06-22

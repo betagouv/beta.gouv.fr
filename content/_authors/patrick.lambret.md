@@ -1,8 +1,7 @@
 ---
 fullname: Patrick Lambret
 role: Coach
-domaine:
-- Coaching
+domaine: Coaching
 github: patrick-ground
 missions:
   - start: 2021-04-22

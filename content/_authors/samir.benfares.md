@@ -1,8 +1,7 @@
 ---
 fullname: Samir Benfares
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 github: sbenfares
 missions:
   - start: 2020-01-22

@@ -1,8 +1,7 @@
 ---
 fullname: Nicolas BUTEZ
 role: Senior Data Analyst
-domaine:
-- Autre
+domaine: Autre
 link: https://www.linkedin.com/in/nicolasbutez1981/
 github: nicolasbutez
 missions:

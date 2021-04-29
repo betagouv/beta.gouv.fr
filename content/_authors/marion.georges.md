@@ -1,8 +1,7 @@
 ---
 fullname: Marion Georges
 role: Ergonome
-domaine:
-- Design
+domaine: Design
 missions:
   - start: 2018-03-27
     end: 2018-05-09

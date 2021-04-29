@@ -1,8 +1,7 @@
 ---
 fullname: David Foucher
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 github: tyjak
 missions:
   - start: 2020-08-28

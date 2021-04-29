@@ -1,8 +1,7 @@
 ---
 fullname: Lucas Bchini
 role: Développeur 
-domaine:
-- Développement
+domaine: Développement
 github: lucas-bch
 missions:
   - start: 2019-12-17

@@ -1,8 +1,7 @@
 ---
 fullname: Clément Lelong
 role: Développeur
-domaine:
-  - Développement
+domaine: Développement
 github: clementnumericite
 missions:
   - start: 2021-03-16

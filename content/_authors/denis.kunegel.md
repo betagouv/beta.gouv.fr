@@ -1,8 +1,7 @@
 ---
 fullname: Denis Kunegel
 role: Intrapreneur
-domaine: 
-- Intraprenariat
+domaine: Intraprenariat
 github: dkunegel
 missions:
   - employer: Rectorat de Nancy-Metz

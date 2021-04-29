@@ -1,8 +1,7 @@
 ---
 fullname: Régis Deoux
 role: Intrapreneur
-domaine: 
-- Intraprenariat
+domaine: Intraprenariat
 github: regisdeoux
 missions:
   - start: 2020-07-01

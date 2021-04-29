@@ -1,8 +1,7 @@
 ---
 fullname: Amine Dhobb
 role: Développeur
-domaine:
-  - Développement
+domaine: Développement
 github: aminedhobb
 missions:
   - start: 2021-04-06

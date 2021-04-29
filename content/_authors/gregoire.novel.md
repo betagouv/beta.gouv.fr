@@ -1,8 +1,7 @@
 ---
 fullname: Grégoire Novel
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 missions:
   - start: 2017-03-21
     end: 2018-10-10

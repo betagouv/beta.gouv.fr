@@ -1,8 +1,7 @@
 ---
 fullname: Ludovic Delhomme
 role: UX Designer / développeur
-domaine:
-- Design
+domaine: Design
 link: https://datayama.fr
 github: datayama38
 missions:

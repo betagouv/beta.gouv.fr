@@ -1,8 +1,7 @@
 ---
 fullname: Guillaume Biale
 role: Intrapreneur
-domaine: 
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2018-01-01
     end: 2020-12-31

@@ -1,8 +1,7 @@
 ---
 fullname: Christophe Amalric
 role: Coach
-domaine:
-  - Coaching
+domaine: Coaching
 github: tikris
 missions:
   - start: 2021-04-19

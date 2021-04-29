@@ -1,8 +1,7 @@
 ---
 fullname: Chloé Lafortune
 role: Designer graphique
-domaine:
-  - Design
+domaine: Design
 link: http://www.chloelafortune.com
 missions:
   - start: 2021-04-27

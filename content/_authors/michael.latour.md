@@ -1,8 +1,7 @@
 ---
 fullname: Michaël Latour
 role: Intrapreneur
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 github: mi-cha-el
 missions: 
   - start: 2019-11-20

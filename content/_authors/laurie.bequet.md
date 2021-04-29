@@ -1,8 +1,7 @@
 ---
 fullname: Laurie Bequet
 role: Chargée de déploiement et communication
-domaine:
-- Déploiement
+domaine: Déploiement
 github: lauriebequet
 link: https://www.linkedin.com/in/lbequet/
 missions:

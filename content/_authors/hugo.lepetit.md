@@ -1,8 +1,7 @@
 ---
 fullname: Hugo Lepetit
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 missions:
   - start: 2013-12-01
     end: 2020-09-30

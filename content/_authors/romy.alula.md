@@ -1,8 +1,7 @@
 ---
 fullname: Romy Alula
 role: Développeuse
-domaine: 
-- Développement
+domaine: Développement
 github: Goumies
 missions:
   - start: 2019-03-13

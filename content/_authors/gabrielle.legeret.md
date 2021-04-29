@@ -1,8 +1,7 @@
 ---
 fullname: Gabrielle Légeret
 role: Business développeuse
-domaine:
-- Déploiement
+domaine: Déploiement
 missions:
   - start: 2018-05-09
     end: 2018-06-08

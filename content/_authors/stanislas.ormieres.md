@@ -1,8 +1,7 @@
 ---
 fullname: Stanislas Ormières 
 role: Responsable technique du LAB-MI
-domaine:
-- Animation
+domaine: Animation
 github: laruiss # optionnel : nom d'utilisateur GitHub, permet d'être ajouté automatiquement à l'organisation GitHub betagouv
 avatar: # optionnel, voir ci-dessous
 # En premier, on va regarder si tu as mis une image au format prenom.nom dans /img/authors/

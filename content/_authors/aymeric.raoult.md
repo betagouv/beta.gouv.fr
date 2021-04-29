@@ -1,8 +1,7 @@
 ---
 fullname: Aymeric Raoult
 role: Coach
-domaine:
-  - Coaching
+domaine: Coaching
 github: AymericRlt
 missions:
   - start: 2021-01-04

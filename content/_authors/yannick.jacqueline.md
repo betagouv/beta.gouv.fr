@@ -1,8 +1,7 @@
 ---
 fullname: Yannick JACQUELINE
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: yannickjacqueline
 missions:
   - start: 2021-04-12

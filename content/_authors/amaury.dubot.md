@@ -1,8 +1,7 @@
 ---
 fullname: Amaury Dubot
 role: Chargé de déploiement
-domaine:
-  - Déploiement
+domaine: Déploiement
 github: amaurydubot
 missions:
   - start: 2021-03-01

@@ -1,8 +1,7 @@
 ---
 fullname: Brandone Martins
 role: Développeur
-domaine:
-  - Développement
+domaine: Développement
 github: MBrandone
 missions:
   - employer: OCTO

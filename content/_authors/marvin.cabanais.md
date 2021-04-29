@@ -1,8 +1,7 @@
 ---
 fullname: Marvin Cabannais
 role: UX-UI Designer
-domaine:
-- Design
+domaine: Design
 github: macab
 missions:
   - start: 2019-09-01

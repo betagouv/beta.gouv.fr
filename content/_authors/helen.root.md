@@ -1,8 +1,7 @@
 ---
 fullname: Helen Root
 role: Développeuse
-domaine: 
-- Développement
+domaine: Développement
 github: hfroot
 missions:
   - start: 2020-12-22

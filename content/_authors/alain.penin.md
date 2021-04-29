@@ -1,8 +1,7 @@
 ---
 fullname: Alain Penin
 role: Intrapreneur
-domaine:
-  - Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2020-01-01
     end: 2020-12-31

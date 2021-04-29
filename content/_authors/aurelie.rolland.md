@@ -1,8 +1,7 @@
 ---
 fullname: Aurélie Rolland
 role: Product designer
-domaine:
-  - Produit
+domaine: Produit
 github: auremie
 link: 'https://medium.com/@aurlierolland'
 missions: 

@@ -1,8 +1,7 @@
 ---
 fullname: Christophe BENARD
 role: Développeur
-domaine:
-  - Développement
+domaine: Développement
 github: ch-benard
 missions:
   - start: 2020-09-01

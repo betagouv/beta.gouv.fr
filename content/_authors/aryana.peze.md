@@ -1,8 +1,7 @@
 ---
 fullname: Aryana Pezé
 role: Développeuse full-stack
-domaine:
-  - Développement
+domaine: Développement
 github: AryanaP
 missions:
   - start: 2017-05-03

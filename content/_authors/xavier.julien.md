@@ -1,8 +1,7 @@
 ---
 fullname: Xavier Julien
 role: Dev Agile
-domaine:
-- Développement
+domaine: Développement
 missions:
   - start: 2015-06-22
     end: 2017-02-22

@@ -1,8 +1,7 @@
 ---
 fullname: Julien Falxa
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 link: https://github.com/jfalxa
 github: jfalxa
 missions:

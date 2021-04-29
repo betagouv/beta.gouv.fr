@@ -1,8 +1,7 @@
 ---
 fullname: Guillaume Lagorce
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 github: heygul
 missions:
   - start: 2019-01-01

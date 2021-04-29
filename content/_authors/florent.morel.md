@@ -1,8 +1,7 @@
 ---
 fullname: Florent Morel
 role: Coach Experience Design & Product
-domaine: 
-- Coaching
+domaine: Coaching
 github: florentmorel
 missions:
   - start: 2020-05-10

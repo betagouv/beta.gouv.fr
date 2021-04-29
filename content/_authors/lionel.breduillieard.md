@@ -1,8 +1,7 @@
 ---
 fullname: Lionel Breduillieard
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: lionelb 
 missions:
   - employer: octo

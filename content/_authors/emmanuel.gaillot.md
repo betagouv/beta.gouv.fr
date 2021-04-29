@@ -1,8 +1,7 @@
 ---
 fullname: Emmanuel Gaillot
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 link:
 github: egaillot
 missions:

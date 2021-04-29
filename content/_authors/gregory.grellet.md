@@ -1,8 +1,7 @@
 ---
 fullname: Grégory Grellet
 role: Intrapreneur
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 
 missions:
   - start: 2020-03-06

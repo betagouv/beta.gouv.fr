@@ -1,8 +1,7 @@
 ---
 fullname: Carole Cuillier
 role: Responsable produit
-domaine: 
-- Produit
+domaine: Produit
 github: CaroleC75
 missions:
   - start: 2020-05-25

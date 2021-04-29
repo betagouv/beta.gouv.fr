@@ -1,8 +1,7 @@
 ---
 fullname: Inès Hijazi
 role: Co-animatrice du programme beta.gouv.fr
-domaine: 
-- Animation
+domaine: Animation
 link: https://twitter.com/hijazi_i
 missions:
   - start: 2018-09-12

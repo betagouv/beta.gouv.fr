@@ -1,8 +1,7 @@
 ---
 fullname:  Céline ROLLAND 
 role: Stagiaire chargée de déploiement
-domaine:
-  - Déploiement
+domaine: Déploiement
 missions:
   - start: 2021-01-18
     end: 2021-07-16

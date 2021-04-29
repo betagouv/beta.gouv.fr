@@ -1,8 +1,7 @@
 ---
 fullname: Ivan Collombet
 role: Mentor
-domaine: 
-- Coaching
+domaine: Coaching
 missions:
   - start: 2017-01-01
     end: 2019-07-31

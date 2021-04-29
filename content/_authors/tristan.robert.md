@@ -1,8 +1,7 @@
 ---
 fullname: Tristan Robert
 role: Tech lead de la fabrique numérique du MTE-MCT
-domaine:
-- Animation
+domaine: Animation
 avatar: https://avatars2.githubusercontent.com/u/19711088?s=400&v=4
 github: tristanrobert
 link: https://about.me/tristanrobert

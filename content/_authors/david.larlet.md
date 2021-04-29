@@ -1,8 +1,7 @@
 ---
 fullname: David Larlet
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 avatar: https://larlet.fr/static/david/david-larlet-avatar.jpg
 link: https://larlet.fr/david/
 missions:

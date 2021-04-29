@@ -1,8 +1,7 @@
 ---
 fullname: Frédéric Vergez
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 link: https://about.me/ikarius
 github: ikarius
 missions:

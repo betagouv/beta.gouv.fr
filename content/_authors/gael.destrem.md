@@ -1,8 +1,7 @@
 ---
 fullname: Gaël Destrem
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: gaeldestrem
 missions:
   - start: 2020-09-01

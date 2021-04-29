@@ -1,8 +1,7 @@
 ---
 fullname: Thibault Desjardins
 role: Chargé de déploiement
-domaine:
-- Déploiement
+domaine: Déploiement
 github: Tibo-aplus
 missions:
   - employer: octo

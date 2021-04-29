@@ -1,8 +1,7 @@
 ---
 fullname: Adrien Di Pasquale
 role: Développeur Web
-domaine:
-  - Développement
+domaine: Développement
 github: adipasquale
 link: https://adrien.dipasquale.fr
 missions:

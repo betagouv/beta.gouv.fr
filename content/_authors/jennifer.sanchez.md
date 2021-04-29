@@ -1,8 +1,7 @@
 ---
 fullname: Jennifer Sanchez
 role: Designer UX / UI
-domaine:
-- Design
+domaine: Design
 github: jennichou
 link: https://www.linkedin.com/in/jennifersanchezdesign/
 missions:

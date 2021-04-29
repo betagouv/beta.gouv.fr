@@ -1,8 +1,7 @@
 ---
 fullname: Alexandre Dupont
 role: Intrapreneur
-domaine:
-  - Intraprenariat
+domaine: Intraprenariat
 avatar: https://image.ibb.co/bw5qB6/Alex_dupont.png
 missions:
   - start: 2018-01-01

@@ -1,8 +1,7 @@
 ---
 fullname: Florian Corgnou
 role: Growth - Acquisition & Activation 
-domaine: 
-- Déploiement
+domaine: Déploiement
 link: https://trezy.io/
 missions:
   - start: 2021-01-22

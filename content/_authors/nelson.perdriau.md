@@ -1,8 +1,7 @@
 ---
 fullname: Nelson Perdriau
 role: Stagiaire 
-domaine:
-- Autre
+domaine: Autre
 github: N07070
 avatar: # optionnel, voir ci-dessous
 # En premier, on va regarder si tu as mis une image au format prenom.nom dans /img/authors/

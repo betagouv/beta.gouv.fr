@@ -1,8 +1,7 @@
 ---
 fullname: Kevin Barnoin
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: kevbarns
 missions:
   - start: 2020-02-06

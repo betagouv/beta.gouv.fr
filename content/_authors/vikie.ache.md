@@ -1,8 +1,7 @@
 ---
 fullname: Vikie Ache
 role: Intrapreneuse
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 github: vikieache
 missions:
   - start: 2018-01-01

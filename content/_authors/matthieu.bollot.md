@@ -1,8 +1,7 @@
 ---
 fullname: Matthieu Bollot
 role: Développeur front
-domaine:
-- Développement
+domaine: Développement
 github: mattboll
 missions:
   - start: 2020-10-19

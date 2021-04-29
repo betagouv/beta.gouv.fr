@@ -1,8 +1,7 @@
 ---
 fullname: Amélie Quillet
 role: Chargée de déploiement
-domaine:
-  - Déploiement
+domaine: Déploiement
 missions:
   - start: 2021-03-22
     end: 2021-09-22

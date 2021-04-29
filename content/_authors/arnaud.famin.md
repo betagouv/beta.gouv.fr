@@ -1,8 +1,7 @@
 ---
 fullname: Arnaud Famin
 role: Aide de camp
-domaine:
-  - Autre
+domaine: Autre
 github: 
 avatar: /img/authors/arnaud.famin.jpg
 missions:

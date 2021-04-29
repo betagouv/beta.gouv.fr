@@ -1,8 +1,7 @@
 ---
 fullname: Lola Charbit
 role: Coach BD
-domaine:
-- Coaching
+domaine: Coaching
 github: Lola Charbit
 missions:
   - start: 2021-01-11

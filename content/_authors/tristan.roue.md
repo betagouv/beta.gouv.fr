@@ -1,8 +1,7 @@
 ---
 fullname: Tristan Roué
 role: intrapreneur
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 github: Tristanlivinglab
 missions:
   - start: 2020-11-03

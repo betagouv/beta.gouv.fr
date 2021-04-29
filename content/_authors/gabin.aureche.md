@@ -1,8 +1,7 @@
 ---
 fullname: Gabin Aureche
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 github: zhouzi
 link: https://gabinaureche.com/
 missions:

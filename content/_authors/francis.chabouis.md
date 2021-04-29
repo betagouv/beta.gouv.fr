@@ -1,8 +1,7 @@
 ---
 fullname: Francis Chabouis
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 github: fchabouis
 missions:
   - start: 2020-01-20

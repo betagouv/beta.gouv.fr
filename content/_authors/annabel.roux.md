@@ -1,8 +1,7 @@
 ---
 fullname: Annabel Roux
 role: Coach
-domaine:
-  - Coaching
+domaine: Coaching
 link: https://jepensedoncjefais.fr/
 missions:
   - start: 2021-04-20

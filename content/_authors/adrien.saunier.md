@@ -1,8 +1,7 @@
 ---
 fullname: Adrien Saunier
 role: Développeur
-domaine:
-  - Développement
+domaine: Développement
 missions:
   - start: 2017-04-01
     end: 2020-08-28

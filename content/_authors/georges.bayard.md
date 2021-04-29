@@ -1,8 +1,7 @@
 ---
 fullname: Georges Bayard
 role: Responsable de produit
-domaine:
-- Produit
+domaine: Produit
 missions:
   - start: 2016-03-01
     end:

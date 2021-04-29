@@ -1,8 +1,7 @@
 ---
 fullname: Stéphane Augy
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 missions:
   - start: 2020-01-01
     end: 2021-01-01

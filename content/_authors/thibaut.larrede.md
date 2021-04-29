@@ -1,8 +1,7 @@
 ---
 fullname: Thibaut Larrède
 role: Référent fonctionnel
-domaine: 
-- Autre
+domaine: Autre
 github: Thibaut-Larrede
 link: ""
 missions:

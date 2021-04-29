@@ -1,8 +1,7 @@
 ---
 fullname: Adrien Gonzalez
 role: Développeur
-domaine:
-  - Développement
+domaine: Développement
 link:
 missions:
   - start: 2018-02-12

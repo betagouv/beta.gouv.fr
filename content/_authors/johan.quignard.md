@@ -1,8 +1,7 @@
 ---
 fullname: Johan Quignard
 role: Business Developer
-domaine:
-- Déploiement
+domaine: Déploiement
 github: Johan1983
 missions:
   - start: 2017-09-27

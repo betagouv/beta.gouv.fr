@@ -1,8 +1,7 @@
 ---
 fullname: Michael Machado
 role: Ops
-domaine:
-- Développement
+domaine: Développement
 github: mikinhas
 missions:
   - start: 2020-01-15

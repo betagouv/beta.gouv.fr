@@ -1,8 +1,7 @@
 ---
 fullname: Saniya Al Saadi
 role: Designer
-domaine: 
-- Design
+domaine: Design
 avatar: https://i.goopics.net/rbAWD.png
 missions:
   - start: 2018-01-01

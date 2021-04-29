@@ -1,8 +1,7 @@
 ---
 fullname: Faustine Massin
 role: Développeuse
-domaine: 
-- Développement
+domaine: Développement
 github: FaustineMassin
 missions:
   - employer: OCTO

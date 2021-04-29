@@ -1,8 +1,7 @@
 ---
 fullname: Raphaël Huchet
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 link: https://raph.site
 github: rap2hpoutre
 missions:

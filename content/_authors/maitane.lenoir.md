@@ -1,8 +1,7 @@
 ---
 fullname: Maïtané Lenoir
 role: Designer
-domaine:
-- Design
+domaine: Design
 avatar: https://avatars3.githubusercontent.com/maiwann?s=600
 link: http://www.maiwann.net/
 missions:

@@ -1,8 +1,7 @@
 ---
 fullname: Pierre-Yves Darnaudet
 role: Intrapreneur
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 github: pydarnaudet
 missions:
   - start: 2019-01-01

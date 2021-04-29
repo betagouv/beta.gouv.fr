@@ -1,8 +1,7 @@
 ---
 fullname: Jean-Philippe Poisson
 role: Coach
-domaine:
-- Coaching
+domaine: Coaching
 avatar: https://avatars3.githubusercontent.com/jppoisson?s=600
 missions:
   - start: 2018-06-12

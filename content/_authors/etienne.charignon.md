@@ -1,8 +1,7 @@
 ---
 fullname: Étienne Charignon
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 link: https://ut7.fr
 github: etiennecharignon
 missions:

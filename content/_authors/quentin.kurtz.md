@@ -1,8 +1,7 @@
 ---
 fullname: Quentin Kurtz 
 role: Chargé de développement
-domaine:
-- Déploiement
+domaine: Déploiement
 github: quentinkurtz
 avatar:
 link:

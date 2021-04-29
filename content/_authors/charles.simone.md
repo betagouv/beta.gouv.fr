@@ -1,8 +1,7 @@
 ---
 fullname: Charles Simone
 role: Intrapreneur
-domaine:
-  - Intraprenariat
+domaine: Intraprenariat
 github: charlesimone
 missions:
   - start: 2021-01-04

@@ -1,7 +1,6 @@
 ---
 fullname: Pierre Camilleri
-domaine:
-- Autre
+domaine: Autre
 role: Data Scientist Signaux-Faibles
 missions:
   - start: 2018-03-01

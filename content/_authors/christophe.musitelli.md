@@ -1,8 +1,7 @@
 ---
 fullname: Christophe Musitelli
 role: Intrapreneur
-domaine:
-  - Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2020-11-01
     end: 2021-02-28

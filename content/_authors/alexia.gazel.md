@@ -1,8 +1,7 @@
 ---
 fullname: Alexia Gazel
 role: Business developer
-domaine:
-  - Déploiement
+domaine: Déploiement
 github: AlexiaGazel
 missions:
   - start: 2019-09-05

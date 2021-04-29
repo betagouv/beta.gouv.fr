@@ -1,8 +1,7 @@
 ---
 fullname: Lucie Prohin
 role: Business Developer
-domaine:
-- Déploiement
+domaine: Déploiement
 avatar: https://i.goopics.net/Pno5Q.jpg
 missions:
   - start: 2018-09-01

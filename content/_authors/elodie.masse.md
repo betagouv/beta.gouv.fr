@@ -1,8 +1,7 @@
 ---
 fullname: Elodie Massé
 role: Intrapreneuse
-domaine: 
-- Intraprenariat
+domaine: Intraprenariat
 github: 
 avatar: /img/authors/elodie.masse.jpg
 missions:

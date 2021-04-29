@@ -1,8 +1,7 @@
 ---
 fullname: Vincent Viers
 role: Data Scientist / Développeur
-domaine: 
-- Développement
+domaine: Développement
 github: vviers
 avatar:
 link:

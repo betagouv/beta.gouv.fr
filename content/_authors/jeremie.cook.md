@@ -19,6 +19,5 @@ startups:
 previously:
   - codedutravail
   - mes-aides
-domaine:
-  - Design
+domaine: Design
 ---

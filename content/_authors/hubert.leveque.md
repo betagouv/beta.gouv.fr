@@ -1,8 +1,7 @@
 ---
 fullname: Hubert Leveque
 role: Intrapreneur
-domaine: 
-- Intraprenariat
+domaine: Intraprenariat
 avatar:
 link:
 github: hubertleveque

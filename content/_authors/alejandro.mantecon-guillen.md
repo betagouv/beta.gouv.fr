@@ -1,8 +1,7 @@
 ---
 fullname: Alejandro Mantecon Guillen
 role: Développeur
-domaine:
-  - Développement
+domaine: Développement
 github: alemangui
 missions:
   - start: 2019-05-13

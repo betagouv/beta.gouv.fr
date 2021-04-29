@@ -1,8 +1,7 @@
 ---
 fullname: Victoria Martinez
 role: Cheffe de produit
-domaine:
-- Produit
+domaine: Produit
 github: vicmartinezp
 missions:
   - start: 2020-01-01

@@ -1,8 +1,7 @@
 ---
 fullname: Guillaume Houzel
 role: Intrapreneur
-domaine: 
-- Intraprenariat
+domaine: Intraprenariat
 github: guillaume-Houzel
 missions:
   - start: 2020-01-01

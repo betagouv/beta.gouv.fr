@@ -1,8 +1,7 @@
 ---
 fullname: Pablo Hanry
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: pabloHry
 missions:
   - start: 2021-04-01

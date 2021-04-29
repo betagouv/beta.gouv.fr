@@ -1,8 +1,7 @@
 ---
 fullname: Ned Baldessin
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 missions:
   - start: 2020-09-01
     end: 2022-09-01

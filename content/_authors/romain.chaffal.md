@@ -1,8 +1,7 @@
 ---
 fullname: Romain Chaffal
 role: Chargé de développement
-domaine: 
-- Déploiement
+domaine: Déploiement
 missions:
   - start: 2018-04-05
     end: 2022-08-31

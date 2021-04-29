@@ -1,8 +1,7 @@
 ---
 fullname: Céline Kniebihler
 role: Designer UX/UI
-domaine:
-  - Design
+domaine: Design
 github: celine-k
 link: https://www.celinek.fr/
 missions:

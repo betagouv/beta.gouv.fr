@@ -1,8 +1,7 @@
 ---
 fullname: Miryad Ali 
 role: Chargée de déploiement
-domaine:
-- Déploiement
+domaine: Déploiement
 github: Miryad
 avatar : img/authors/miryad.ali.jpg
 link: https://www.linkedin.com/in/miryad-ali/ 

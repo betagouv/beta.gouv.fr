@@ -1,8 +1,7 @@
 ---
 fullname: Fanny Argoud
 role: Chargée de Déploiement
-domaine: 
-- Déploiement
+domaine: Déploiement
 github: ffargoud
 missions:
   - start: 2021-03-08

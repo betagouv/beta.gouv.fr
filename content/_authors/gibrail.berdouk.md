@@ -1,8 +1,7 @@
 ---
 fullname: Gibrail Berdouk
 role: Full-stack
-domaine:
-- Développement
+domaine: Développement
 github: Gibrail
 link: http://gibrail.com
 missions:

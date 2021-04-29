@@ -1,8 +1,7 @@
 ---
 fullname: Augustin Stephan
 role: UI/UX Designer
-domaine:
-  - Design
+domaine: Design
 github: augustinstephan
 link: http://www.augustinstephan.com/
 missions:

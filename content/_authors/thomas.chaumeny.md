@@ -1,8 +1,7 @@
 ---
 fullname: Thomas Chaumeny
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 github: tchaumeny
 avatar:
 link:

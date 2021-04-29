@@ -1,8 +1,7 @@
 ---
 fullname: Maxime Basset
 role: Coach
-domaine:
-- Coaching
+domaine: Coaching
 avatar: https://i.imgur.com/QMHjIph.png
 missions:
   - start: 2017-09-01	 

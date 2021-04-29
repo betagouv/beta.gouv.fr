@@ -1,8 +1,7 @@
 ---
 fullname: Martin Fourcade
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: mfo
 missions:
   - start: 2019-02-06

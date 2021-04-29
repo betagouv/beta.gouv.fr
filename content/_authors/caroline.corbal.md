@@ -1,8 +1,7 @@
 ---
 fullname: Caroline Corbal 
 role: chargée de missions inclusion et communs numériques à l'ANCT
-domaine:
-  - Autre
+domaine: Autre
 avatar: 
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
   - start: 2020-01-01 # date d'arrivée au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !

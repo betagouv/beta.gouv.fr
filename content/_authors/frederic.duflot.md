@@ -1,8 +1,7 @@
 ---
 fullname: Frédéric Duflot
 role: Coach Cyber & Compliance
-domaine: 
-- Coaching
+domaine: Coaching
 github: fduflot
 missions:
   - start: 2020-03-12

@@ -1,8 +1,7 @@
 ---
 fullname: Laurene Houtin
 role: Experte scientifique
-domaine:
-- Autre
+domaine: Autre
 github: laurenehoutin
 link: https://www.ad-hoc-lab.com
 missions:

@@ -1,8 +1,7 @@
 ---
 fullname: François-Joseph Grimault
 github: fjg
-domaine: 
-- Coaching
+domaine: Coaching
 link: https://www.linkedin.com/in/fjgrimault/
 role: Coach
 missions:

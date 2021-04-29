@@ -1,8 +1,7 @@
 ---
 fullname: Pauline Faverjon 
 role: Chargée de déploiement 
-domaine:
-- Déploiement 
+domaine: Déploiement 
 missions:
   - start: 2020-06-23
     end: 2020-12-31

@@ -1,8 +1,7 @@
 ---
 fullname: Raphael Odini
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 github: raphodn
 avatar: null
 link: https://raphodn.github.io

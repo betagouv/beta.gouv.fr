@@ -1,8 +1,7 @@
 ---
 fullname: Jonathan Kurtz
 role: Chargé d'accompagnement
-domaine:
-- Déploiement
+domaine: Déploiement
 github: Jonathankurtz131
 missions:
     - start: 2019-08-28

@@ -1,8 +1,7 @@
 ---
 fullname: Adrien Lin
 role: Data Analyste
-domaine:
-  - Autre
+domaine: Autre
 github: adrienlpassculture 
 missions:
   - start: 2020-02-17

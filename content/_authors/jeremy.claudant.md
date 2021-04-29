@@ -1,8 +1,7 @@
 ---
 fullname: Jérémy CLAUDANT
 role: développeur
-domaine:
-- Développement
+domaine: Développement
 github: jclaudan
 missions:
   - status: independent

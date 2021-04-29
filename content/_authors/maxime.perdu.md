@@ -1,8 +1,7 @@
 ---
 fullname: Maxime Perdu 
 role: Growth Hacking / Product strategist / Couteau suisse bourguignon
-domaine:
-- Product
+domaine: Product
 github: maximeduper
 avatar: 
 link: 

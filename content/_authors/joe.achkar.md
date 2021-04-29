@@ -1,8 +1,7 @@
 ---
 fullname: Joe Achkar
 role: Chargé de déploiement
-domaine:
-- Déploiement
+domaine: Déploiement
 github: JoeACHKAR
 avatar:
 link: https://www.linkedin.com/in/joeachkar/

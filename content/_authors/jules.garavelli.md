@@ -1,8 +1,7 @@
 ---
 fullname: Jules Garavelli
 role: Chargé de développement
-domaine:
-- Déploiement
+domaine: Déploiement
 github: walen_github 
 avatar: 
 link: 

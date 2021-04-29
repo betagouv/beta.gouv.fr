@@ -1,8 +1,7 @@
 ---
 fullname: Carole Thonnelier
 role: Designer UX / UI
-domaine: 
-- Design
+domaine: Design
 missions:
   - start: 2018-11-26
     end: 2020-01-01

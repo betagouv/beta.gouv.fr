@@ -1,8 +1,7 @@
 ---
 fullname: Ivan Gabriele
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 github: ivangabriele
 link: https://www.ivangabriele.com
 missions:

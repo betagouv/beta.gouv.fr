@@ -1,8 +1,7 @@
 ---
 fullname: Chouaib Nounès
 role: Intrapreneur
-domaine:
-  - Intraprenariat
+domaine: Intraprenariat
 github: Chouaib64
 missions:
   - start: 2020-01-01

@@ -1,8 +1,7 @@
 ---
 fullname: Jonathan Bourguignon
 role: Coach
-domaine:
-- Coaching
+domaine: Coaching
 github: JonBou
 missions:
   - start: 2021-01-11

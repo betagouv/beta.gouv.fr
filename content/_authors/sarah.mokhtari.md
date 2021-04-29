@@ -1,8 +1,7 @@
 ---
 fullname: Sarah Mokhtari
 role: Product manager
-domaine: 
-- Produit
+domaine: Produit
 missions:
   - start: 2018-06-01
     end:

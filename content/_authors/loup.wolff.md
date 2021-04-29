@@ -1,8 +1,7 @@
 ---
 fullname: Loup Wolff
 role: Intrapreneur
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2018-03-27
     end: 2019-06-01

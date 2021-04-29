@@ -1,8 +1,7 @@
 ---
 fullname: Mickaël Barroux
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: mbarroux
 missions:
   - start: 2019-07-19

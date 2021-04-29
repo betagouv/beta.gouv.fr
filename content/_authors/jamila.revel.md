@@ -1,8 +1,7 @@
 ---
 fullname: Jamila Revel
 role: Intrapreneure ENA sur le Tutorat 
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2021-03-29
     end: 2021-12-31

@@ -1,8 +1,7 @@
 ---
 fullname: Roxane Schultz
 role: Coach
-domaine: 
-- Coaching
+domaine: Coaching
 link: https://twitter.com/smarterimpact?lang=en
 missions:
   - start: 2017-12-15

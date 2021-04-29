@@ -1,8 +1,7 @@
 ---
 fullname: Alexandre Friquet
 role: OpsDev
-domaine:
-  - Développement
+domaine: Développement
 github: afriqs
 avatar:
 link:

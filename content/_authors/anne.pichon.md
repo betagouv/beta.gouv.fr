@@ -1,8 +1,7 @@
 ---
 fullname: Anne Pichon
 role: UX
-domaine:
-  - Design
+domaine: Design
 github: Ann-p
 missions:
   - start: 2018-01-01

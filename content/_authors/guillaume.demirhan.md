@@ -1,8 +1,7 @@
 ---
 fullname: Guillaume  Demirhan
 role: Intrapreneur 
-domaine: 
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2019-06-26
     end: 2022-01-28

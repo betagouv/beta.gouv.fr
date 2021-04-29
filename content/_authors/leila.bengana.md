@@ -1,8 +1,7 @@
 ---
 fullname: Leïla Bengana
 role: community manager
-domaine:
-- Déploiement
+domaine: Déploiement
 missions:
   - start: 2020-03-13
     end: 2022-01-03

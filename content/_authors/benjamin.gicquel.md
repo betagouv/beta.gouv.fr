@@ -1,8 +1,7 @@
 ---
 fullname: Benjamin Gicquel
 role: Intrapreneur
-domaine:
-  - Intraprenariat
+domaine: Intraprenariat
 github: BenjaminUrg
 missions:
   - start: 2018-11-20

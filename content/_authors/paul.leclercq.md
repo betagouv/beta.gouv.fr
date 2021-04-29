@@ -1,8 +1,7 @@
 ---
 fullname: Paul Leclercq
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: polomarcus
 missions:
   - start: 2021-01-04

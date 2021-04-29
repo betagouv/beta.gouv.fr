@@ -1,8 +1,7 @@
 ---
 fullname: Mauranne Lachaise
 role: Intrapreneure
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 github: mau-eco
 missions:
   - start: 2020-03-30

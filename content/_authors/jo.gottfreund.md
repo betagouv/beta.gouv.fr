@@ -1,8 +1,7 @@
 ---
 fullname: Jo Gottfreund
 role: Lead Développeur
-domaine:
-- Développement
+domaine: Développement
 github: devthejo
 missions:
   - start: 2020-12-07

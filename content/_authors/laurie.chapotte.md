@@ -1,8 +1,7 @@
 ---
 fullname: Laurie Chapotte
 role: Designer 
-domaine:
-- Design
+domaine: Design
 github: lauriechap
 missions:
   - start: 2020-05-01

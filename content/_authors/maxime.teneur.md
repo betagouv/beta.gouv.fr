@@ -1,8 +1,7 @@
 ---
 fullname: Maxime Teneur
 role: Coach Produit
-domaine:
-- Coaching
+domaine: Coaching
 github: mteneur
 missions:
   - start: 2021-04-23

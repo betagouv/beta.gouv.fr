@@ -1,8 +1,7 @@
 ---
 fullname: Marianne Hirsch
 role: Designer transverse à l'Incubateur des Territoires
-domaine:
-- Design
+domaine: Design
 avatar: # optionnel, voir ci-dessous
 # En premier, on va regarder si tu as mis une image au format prenom.nom dans /img/authors/
 # Sinon, on utilisera le lien externe du champs avatar

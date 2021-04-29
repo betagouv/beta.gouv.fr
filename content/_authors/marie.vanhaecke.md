@@ -1,8 +1,7 @@
 ---
 fullname: Marie Van Haecke
 role: Coach
-domaine:
-- Coaching
+domaine: Coaching
 github: marievanhaecke
 missions:
   - start: 2021-01-21

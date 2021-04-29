@@ -1,8 +1,7 @@
 ---
 fullname: Alice Roussel
 role: Chargée de déploiement
-domaine:
-  - Déploiement
+domaine: Déploiement
 github: Alice-Roussel
 missions:
   - start: 2021-01-04

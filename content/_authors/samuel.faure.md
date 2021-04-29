@@ -1,8 +1,7 @@
 ---
 fullname: Samuel Faure
 role: Développeur Fullstack
-domaine: 
-- Développement
+domaine: Développement
 github: Samuelfaure
 missions:
   - start: 2017-04-24

@@ -1,8 +1,7 @@
 ---
 fullname: Perrine Rutkowski
 role: Intrapreneure
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2020-02-12
     end: 2022-06-30

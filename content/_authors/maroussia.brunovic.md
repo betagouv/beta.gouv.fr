@@ -1,8 +1,7 @@
 ---
 fullname: Maroussia Brunovic
 role: Chargée de marketing et développement produit 
-domaine:
-- Déploiement
+domaine: Déploiement
 github: 
 missions:
   - start: 2020-03-14

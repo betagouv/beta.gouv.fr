@@ -1,8 +1,7 @@
 ---
 fullname: Pierre de Maulmont
 role: Intrapreneur
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2015-09-01
     end:

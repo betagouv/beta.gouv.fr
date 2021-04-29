@@ -1,8 +1,7 @@
 ---
 fullname: Claire Vigier
 role: Coach
-domaine:
-  - Coaching
+domaine: Coaching
 github: clairevigier
 missions:
   - start: 2018-10-01

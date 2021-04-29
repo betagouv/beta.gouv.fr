@@ -1,8 +1,7 @@
 ---
 fullname: Félix de Preneuf
 role: Chargé de déploiement
-domaine: 
-- Déploiement
+domaine: Déploiement
 missions:
   - start: 2020-09-01
     end: 2021-06-30

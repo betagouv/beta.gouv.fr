@@ -1,8 +1,7 @@
 ---
 fullname: Stéphane COILLARD
 role: Intrapreneur
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2021-02-25
     end: 2021-05-25

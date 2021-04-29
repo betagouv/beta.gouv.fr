@@ -1,8 +1,7 @@
 ---
 fullname: Christophe Henry
 role: Développeur
-domaine:
-  - Développement
+domaine: Développement
 link: https://christophe-henry.dev
 github: christophehenry
 missions:

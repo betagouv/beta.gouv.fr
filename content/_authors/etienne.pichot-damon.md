@@ -1,8 +1,7 @@
 ---
 fullname: Etienne Pichot Damon
 role: Business developer - fournisseurs de données au sein de l’équipe API
-domaine: 
-- Déploiement
+domaine: Déploiement
 link: https://medium.com/@etienne.datactivist
 github: etienne0101
 missions:

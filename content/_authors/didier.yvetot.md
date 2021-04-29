@@ -1,8 +1,7 @@
 ---
 fullname: Didier Yvetot
 role: Intrapreneur
-domaine: 
-- Intraprenariat
+domaine: Intraprenariat
 github: didier.yvetot
 missions:
   - employer: DGAC

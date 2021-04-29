@@ -1,8 +1,7 @@
 ---
 fullname: Florian d'Erfurth
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 link: https://derfurth.com
 missions: 
   - start: 2020-12-04

@@ -1,8 +1,7 @@
 ---
 fullname: Zohra Lebel
 role: Intrapreneuse
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - employer: dila
     end: 2018-06-30

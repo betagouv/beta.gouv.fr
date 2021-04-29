@@ -1,8 +1,7 @@
 ---
 fullname: Félicie Callipel
 role: Intrapreneuse
-domaine: 
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - status: admin
     employer: Ministère de la Justice

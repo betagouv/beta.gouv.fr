@@ -1,8 +1,7 @@
 ---
 fullname: Julien Dauphant
 role: Mentor Technique et Produit
-domaine:
-- Animation
+domaine: Animation
 link: 'https://twitter.com/jdauphant'
 missions:
   - employer: octo
@@ -21,8 +20,7 @@ previously:
   - e-controle
 badges:
   - segur
-domaine:
-  - Animation
+domaine: Animation
 competences:
   - Coaching
   - Gestion de Produit

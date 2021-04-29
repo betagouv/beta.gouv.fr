@@ -1,8 +1,7 @@
 ---
 fullname: Ana Andreolla
 role: Chargée de développement
-domaine:
-  - Déploiement
+domaine: Déploiement
 github: anaandreolla
 missions:
   - start: 2019-06-03

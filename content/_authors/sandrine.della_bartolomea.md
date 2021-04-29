@@ -1,8 +1,7 @@
 ---
 fullname: Sandrine Della Bartolomea
 role: Intrapreneuse
-domaine: 
-- Intraprenariat
+domaine: Intraprenariat
 github: SandrineDB
 missions:
   - start: 2018-04-05

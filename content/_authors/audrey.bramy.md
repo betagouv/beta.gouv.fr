@@ -1,8 +1,7 @@
 ---
 fullname: Audrey Bramy
 role: Développeuse / PO
-domaine:
-  - Développement
+domaine: Développement
 github: AudreyBramy
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
   - start: 2020-09-01

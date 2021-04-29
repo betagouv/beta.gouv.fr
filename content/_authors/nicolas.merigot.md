@@ -1,8 +1,7 @@
 ---
 fullname: Nicolas Mérigot
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: nmrgt
 missions:
     - start: 2019-01-28

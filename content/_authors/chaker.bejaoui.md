@@ -1,8 +1,7 @@
 ---
 fullname: Chaker Bejaoui
 role: coach
-domaine:
-  - Coaching
+domaine: Coaching
 avatar: https://image.ibb.co/jJrbSd/CB.png
 missions:
   - start: 2018-05-18

@@ -1,8 +1,7 @@
 ---
 fullname: Benjamin Bartholet
 role: Designer UI/UX
-domaine:
-  - Design
+domaine: Design
 github: telohtrab
 link: http://trab.design
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !

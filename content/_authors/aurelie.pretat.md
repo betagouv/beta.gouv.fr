@@ -1,8 +1,7 @@
 ---
 fullname: Aurélie Prétat
 role: Intrapreneuse
-domaine:
-  - Intraprenariat
+domaine: Intraprenariat
 github: AureliePretat
 missions:
   - start: 2020-03-19

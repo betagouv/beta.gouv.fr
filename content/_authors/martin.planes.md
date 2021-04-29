@@ -1,8 +1,7 @@
 ---
 fullname: Martin Planès
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 link: https://github.com/mplanes
 github: mplanes
 missions:

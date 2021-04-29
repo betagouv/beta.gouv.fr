@@ -1,8 +1,7 @@
 ---
 fullname: Frédéric Bardolle
 role: Ancien chef de la Fabrique numérique
-domaine: 
-- Autre
+domaine: Autre
 link: https://f14e.fr/
 missions:
   - start: 2018-09-01

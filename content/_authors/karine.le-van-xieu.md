@@ -1,8 +1,7 @@
 ---
 fullname: Karine Le Van Xieu
 role: Intrapreneur
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2020-10-28
     end: 2021-01-15

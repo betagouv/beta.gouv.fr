@@ -1,8 +1,7 @@
 ---
 fullname: Adrien Portehaut
 role: UX Designer
-domaine:
-  - Design
+domaine: Design
 link: https://www.linkedin.com/in/adrien-portehaut-64bb32a9/
 missions:
   - start: 2020-08-28

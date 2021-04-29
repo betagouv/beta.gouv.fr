@@ -1,8 +1,7 @@
 ---
 fullname: Hervé Cauwelier
 role: Développeur 
-domaine: 
-- Développement
+domaine: Développement
 github: bors-ltd 
 avatar: 
 link:

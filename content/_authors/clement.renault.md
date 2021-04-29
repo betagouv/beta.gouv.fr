@@ -1,8 +1,7 @@
 ---
 fullname: Clément Renault
 role: Coach
-domaine:
-  - Coaching
+domaine: Coaching
 github: clecocel
 missions:
   - start: 2020-04-06

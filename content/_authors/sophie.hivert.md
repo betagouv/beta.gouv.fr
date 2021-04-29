@@ -1,8 +1,7 @@
 ---
 fullname: Sophie Hivert
 role: Chargée de déploiement
-domaine:
-- Déploiement
+domaine: Déploiement
 github: sohivert
 missions:
   - start: 2020-06-15

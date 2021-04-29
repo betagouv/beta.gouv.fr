@@ -1,8 +1,7 @@
 ---
 fullname: Raphaël Dubigny
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 link:
 github: rdubigny
 missions:

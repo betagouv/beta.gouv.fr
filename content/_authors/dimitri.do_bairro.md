@@ -1,8 +1,7 @@
 ---
 fullname: Dimitri Do Bairro
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 github: rimiti
 link:
 missions: 

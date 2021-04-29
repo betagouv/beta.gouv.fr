@@ -1,8 +1,7 @@
 ---
 fullname: Ali Tiane
 role: Développeur
-domaine:
-  - Développement
+domaine: Développement
 github: alitoch
 avatar:
 link:

@@ -1,8 +1,7 @@
 ---
 fullname: Haude Joffre
 role: Intrapreneuse
-domaine: 
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2019-01-01
     end: 2020-12-31

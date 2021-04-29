@@ -1,8 +1,7 @@
 ---
 fullname: Yassine Riffi
 role: Développeur fullstack
-domaine:
-- Développement
+domaine: Développement
 github: pYassine
 avatar: null
 link: null

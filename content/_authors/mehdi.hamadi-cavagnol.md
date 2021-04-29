@@ -1,8 +1,7 @@
 ---
 fullname: Mehdi Hamadi-Cavagnol
 role: Intrapreneur
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2019-08-23
     end: 2022-09-22

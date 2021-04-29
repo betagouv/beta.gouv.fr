@@ -1,8 +1,7 @@
 ---
 fullname: Stéphane Hanser
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 link: https://captive.fr
 github: shanser
 missions:

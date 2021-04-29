@@ -1,8 +1,7 @@
 ---
 fullname: Jennifer Frair
 role: Chargee de la moderation et de l'animation reseau
-domaine:
-- Déploiement
+domaine: Déploiement
 github: jenniferfrair
 link: https://www.linkedin.com/in/jenniferfrair/
 missions:

@@ -1,8 +1,7 @@
 ---
 fullname: Malika Alouani
 role: Intrapreneur
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2018-06-07
     end:  2019-12-31

@@ -1,8 +1,7 @@
 ---
 fullname: Stéphanie Schaer
 role: Intrapreneuse
-domaine:
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2016-04-01
     end: 2019-12-01

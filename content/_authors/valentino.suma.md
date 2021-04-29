@@ -1,8 +1,7 @@
 ---
 fullname: Valentino Suma
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: ValentinoSumaOcto
 missions:
   - start: 2021-04-05

@@ -1,8 +1,7 @@
 ---
 fullname: Frédéric Gillodes
 role: Intrapreneur
-domaine: 
-- Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2018-03-01
     end:

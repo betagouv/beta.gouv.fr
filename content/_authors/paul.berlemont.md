@@ -1,8 +1,7 @@
 ---
 fullname: Paul  Berlemont 
 role: Chargé de déploiement 
-domaine:
-- Déploiement
+domaine: Déploiement
 missions:
   - start: 2021-01-04
     end: 2021-03-31

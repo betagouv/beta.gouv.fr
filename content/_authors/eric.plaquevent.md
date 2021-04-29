@@ -1,8 +1,7 @@
 ---
 fullname: Eric Plaquevent
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 github: ericplaquevent
 missions:
   - start: 2020-11-09

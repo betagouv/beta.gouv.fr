@@ -1,8 +1,7 @@
 ---
 fullname: Mathieu Dulac
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: mdulac
 missions:
   - start: 2020-10-05

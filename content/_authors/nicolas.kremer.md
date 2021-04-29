@@ -1,8 +1,7 @@
 ---
 fullname: Nicolas Kremer
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: soulso
 missions:
   - start: 2019-09-24

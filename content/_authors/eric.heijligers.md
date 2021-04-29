@@ -1,8 +1,7 @@
 ---
 fullname: Eric Heijligers
 role: Product manager
-domaine: 
-- Produit
+domaine: Produit
 github: Eric-Hei
 missions:
   - status: admin

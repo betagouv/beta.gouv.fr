@@ -1,8 +1,7 @@
 ---
 fullname: Maritza Abreo
 role: Coach
-domaine:
-- Coaching
+domaine: Coaching
 missions:
   - start: 2020-02-20
     end: 2021-06-30

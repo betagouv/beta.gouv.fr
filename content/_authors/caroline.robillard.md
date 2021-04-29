@@ -1,8 +1,7 @@
 ---
 fullname: Caroline Robillard
 role: Développeuse JS fullstack au sein du Lab innovation du ministère de l’Intérieur (Lab-MI)
-domaine:
-  - Développement
+domaine: Développement
 github: https://github.com/Carolinedanslesnuages
 missions:
   - start: 2019-09-14

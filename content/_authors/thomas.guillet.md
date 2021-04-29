@@ -1,8 +1,7 @@
 ---
 fullname: Thomas Guillet
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: guillett
 link: https://palya.fr/
 missions:

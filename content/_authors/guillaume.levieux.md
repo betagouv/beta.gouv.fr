@@ -1,8 +1,7 @@
 ---
 fullname: Guillaume Levieux
 role: co-responsable portefeuille produits
-domaine: 
-- Produit
+domaine: Produit
 github: guillaumelevieux
 missions:
   - start: 2017-12-15

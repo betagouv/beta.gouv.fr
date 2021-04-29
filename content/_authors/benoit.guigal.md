@@ -1,8 +1,7 @@
 ---
 fullname: Benoît Guigal
 role: Data scientist
-domaine:
-  - Autre
+domaine: Autre
 avatar: https://benoitguigal.fr/assets/images/benoit.png
 link: https://benoitguigal.fr
 github: benoitguigal

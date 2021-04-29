@@ -1,8 +1,7 @@
 ---
 fullname: Damien Boyer
 role: Designer
-domaine: 
-- Design
+domaine: Design
 github: dameofr
 link: null
 missions:

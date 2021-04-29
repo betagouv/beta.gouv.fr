@@ -1,8 +1,7 @@
 ---
 fullname: Camille Garrigue
 role: Chargée de développement
-domaine: 
-- Déploiement
+domaine: Déploiement
 avatar: https://avatars3.githubusercontent.com/CamilleGarrigue?s=600
 missions:
   - start: 2017-11-02

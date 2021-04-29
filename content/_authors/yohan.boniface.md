@@ -1,8 +1,7 @@
 ---
 fullname: Yohan Boniface
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: yohanboniface
 avatar: https://yohanboniface.me/static/img/headshot.png
 link: https://yohanboniface.me

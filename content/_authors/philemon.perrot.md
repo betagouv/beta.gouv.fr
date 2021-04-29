@@ -1,8 +1,7 @@
 ---
 fullname: Philémon Perrot
 role:  Chargé de développement
-domaine:
-- Déploiement
+domaine: Déploiement
 github: philemon95
 missions:
   - start: 2019-01-14

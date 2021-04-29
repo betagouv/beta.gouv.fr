@@ -1,8 +1,7 @@
 ---
 fullname: Céline Rouot
 role: Statisticienne
-domaine:
-  - Autre
+domaine: Autre
 missions:
   - start: 2016-06-01
     end:

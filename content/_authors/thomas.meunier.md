@@ -1,8 +1,7 @@
 ---
 fullname: Thomas Meunier
 role: Stagiaire
-domaine:
-- Autre
+domaine: Autre
 github: thomasmeunierr
 missions:
   - start: 2021-04-12

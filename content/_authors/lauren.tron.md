@@ -1,8 +1,7 @@
 ---
 fullname: Lauren Tron
 role: Chargée de déploiement
-domaine:
-- Déploiement
+domaine: Déploiement
 github: LaurenTron
 missions:
   - start: 2019-12-07

@@ -1,8 +1,7 @@
 ---
 fullname: Vincent Guilloux
 role: Coach
-domaine:
-- Coaching
+domaine: Coaching
 github: 
 missions:
   - start: 2020-06-01

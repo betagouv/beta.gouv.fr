@@ -1,8 +1,7 @@
 ---
 fullname: Christophe Trouillard
 role: Intrapreneur
-domaine:
-  - Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2020-10-27
     end: 2021-01-27

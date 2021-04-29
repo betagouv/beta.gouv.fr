@@ -1,8 +1,7 @@
 ---
 fullname: Camille Frétier
 role: Chargée de déploiement
-domaine: 
-- Déploiement
+domaine: Déploiement
 github: camillefretier
 missions:
   - start: 2020-06-09

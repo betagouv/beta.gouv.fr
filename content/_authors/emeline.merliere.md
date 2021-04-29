@@ -1,8 +1,7 @@
 ---
 fullname: Emeline Merlière
 role: Développeuse
-domaine: 
-- Développement
+domaine: Développement
 github: eml-trm
 missions:
   - start: 2020-12-30

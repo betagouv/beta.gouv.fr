@@ -1,8 +1,7 @@
 ---
 fullname: Chiraz Herizi
 role: Chargée de déploiement
-domaine:
-  - Déploiement
+domaine: Déploiement
 github: Chirazh
 missions:
   - start: 2020-01-01

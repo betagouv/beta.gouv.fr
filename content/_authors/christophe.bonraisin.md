@@ -1,8 +1,7 @@
 ---
 fullname: Christophe Bonraisin
 role: Intrapreneur
-domaine:
-  - Intraprenariat
+domaine: Intraprenariat
 missions:
   - start: 2015-05-01
     end:

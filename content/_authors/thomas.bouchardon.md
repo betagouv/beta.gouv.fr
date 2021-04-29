@@ -1,8 +1,7 @@
 ---
 fullname: Thomas Bouchardon
 role: Développeur
-domaine: 
-- Développement
+domaine: Développement
 github: alfabouch
 missions:
   - start: 2018-11-09

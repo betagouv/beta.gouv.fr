@@ -1,8 +1,7 @@
 ---
 fullname: Marine Dominé
 role: Développeur
-domaine:
-- Développement
+domaine: Développement
 github: mdomine
 missions:
     - start: 2020-02-10

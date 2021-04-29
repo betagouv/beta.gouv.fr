@@ -1,8 +1,7 @@
 ---
 fullname: Etienne Puydebois
 role: Maker
-domaine: 
-- Autre
+domaine: Autre
 avatar: https://avatars3.githubusercontent.com/rosedeschamps?s=600
 missions:
   - start: 2017-09-04

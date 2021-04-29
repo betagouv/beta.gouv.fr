@@ -1,8 +1,7 @@
 ---
 fullname: Pierre Rousseau
 role: Chargé de déploiement
-domaine:
-- Déploiement
+domaine: Déploiement
 github: pierrerousseau2312
 missions:
   - start: 2021-02-15

@@ -1,8 +1,7 @@
 ---
 fullname: Paul Lahana
 role: Full-stack developpeur
-domaine:
-- Développement
+domaine: Développement
 github: paultursuru
 missions: 
   - start: 2019-11-20

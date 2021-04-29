@@ -1,8 +1,7 @@
 ---
 fullname: Anne-laure Pilloy
 role: Product owner
-domaine:
-  - Produit
+domaine: Produit
 github: ledugong
 missions:
   - status: service

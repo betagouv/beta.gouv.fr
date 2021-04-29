@@ -1,8 +1,7 @@
 ---
 fullname: Matthias Davoust
 role: Biz dev
-domaine:
-- Déploiement
+domaine: Déploiement
 missions:
   - start: 2018-02-01
     end:

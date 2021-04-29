@@ -1,8 +1,7 @@
 ---
 fullname: Alexis Pibrac
 role: Développeur
-domaine:
-  - Développement
+domaine: Développement
 github: apibrac
 missions:
   - start: 2020-04-06

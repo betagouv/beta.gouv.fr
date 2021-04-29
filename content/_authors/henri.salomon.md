@@ -1,8 +1,7 @@
 ---
 fullname: Henri Salomon
 role: Chargé de déploiement
-domaine: 
-- Déploiement
+domaine: Déploiement
 github: henrisalomon
 missions:
   - start: 2018-09-10

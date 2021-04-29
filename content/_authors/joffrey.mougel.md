@@ -1,8 +1,7 @@
 ---
 fullname: Joffrey Mougel
 role: UX Researcher & Designer
-domaine:
-- Design
+domaine: Design
 link: https://www.joffreymougel.com
 github: joffreymougel
 missions:
