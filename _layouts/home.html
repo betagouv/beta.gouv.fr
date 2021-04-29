@@ -4,16 +4,15 @@ layout: default
 
 <!-- {% include hero-with-image.html title=page.summary image="/img/layouts/home/index.jpg" %} -->
 
-<section class="fr-py-12w home-section-blue home-section-main" >
+<section class="home-section-blue home-section-main" >
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters fr-pt-6w">
       <div class="fr-col fr-col-12 fr-col-md-6">
-        <h1 class="home-section-main-title">Administrations publiques,<br> venez mieux contruire vos solutions numériques avec nous !</h1>
-        <p>
-          <button class="fr-btn fr-btn--lg fr-btn--icon-right fr-btn--secondary home-button-white">
-            Décrouvrir le programme
-          </button>
-        </p>
+        <h1>Administrations publiques,<br> venez mieux contruire vos solutions numériques avec nous !</h1>
+
+        <button class="fr-btn fr-btn--lg fr-enlarge-link fr-btn--secondary home-button-white">
+          <a href="/approche">Découvrir le programme</a>
+        </button>
       </div>
       <!-- <svg width="414" height="309" viewBox="0 0 414 309" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M395.112 1H19.1115C9.10879 1 1 5.68923 1 11.4737V297.471C1 303.256 9.10879 307.945 19.1115 307.945H395.112C405.115 307.945 413.224 303.256 413.224 297.471V11.4737C413.224 5.68923 405.115 1 395.112 1Z" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
@@ -53,19 +52,18 @@ layout: default
   </div>
 </section>
 <section class="fr-py-6w home-section-product">
-  <div class="fr-container centered">
-    <h1 class="home-section-title">
-      PRODUITS</h1>
-    <h2 class="fr-mb-6w">Parcourir nos produits</h2>
-    <h4 class="fr-my-6w fr-mx-12w">Le programme interministériel beta.gouv a déjà contribué à la création de dizaines de services publics numériques.</h3>
-    <div class="fr-grid-row fr-grid-row--gutters startups">
+  <div class="fr-container">
+    <h2 class="home-section-title">Parcourir nos réalisations</h2>
+    <p class="home-section-description">Le programme interministériel beta.gouv a déjà contribué à la création de dizaines de services publics numériques.</p>
+
+    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center startups">
       {% assign startups = site.startups %}
       {% assign starts = "transport.data.gouv.fr,La Bonne Alternance,Pix,Mon-entreprise.fr" | split: ","  %}
       {% for startup in startups %}
           <!-- {{ startup.title }} -->
           {% if starts contains startup.title %}
             <div class="fr-col-12 fr-col-md-3">
-              <div class="fr-card fr-enlarge-link home-fr-card-shadow" >
+              <div class="fr-card fr-enlarge-link" >
                 <div class="fr-card__img">
                   {% include screenshot.html startup=startup force=true %}
                 </div>
@@ -84,28 +82,25 @@ layout: default
       {% endfor %}
     </div>
     <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-pt-6w">
-      <button class="fr-btn fr-btn--lg fr-btn--icon-right fr-btn--secondary">
-        Voir tous nos produits
+      <button class="fr-btn fr-btn--lg fr-enlarge-link fr-btn--secondary">
+        <a href="/startups">Voir toutes nos réalisations</a>
+        
       </button>
     </div>
   </div>
 </section>
 <section class="fr-py-6w home-section-blue">
 <div class="fr-container">
-  <div class="row centered">
+  <div class="fr-grid-row fr-grid-row--center">
     <div>
-        <h1 class="home-section-title">
-          ÉQUIPE</h1>
-      <h2 class="fr-mb-6w home-white-title">
-        beta.gouv fait équipe avec votre administration
-      </h2>
-      <h4 class="fr-my-6w home-white-title">
+      <h2 class="home-section-title">beta.gouv fait équipe avec votre administration</h2>
+      <p class="home-section-description">
         Intégré au programme, l’agent public appelé “intrapreneur” est 
         au cœur d’une équipe pluridisciplinaire constituée de personnes engagées au service de l’intérêt général. 
-      </h3>
+      </p>
       <div class="fr-grid-row fr-grid-row--gutters startups">
         <div class="fr-col-12 fr-col-md-4">
-          <div class="fr-card fr-card--no-arrow fr-enlarge-link">
+          <div class="fr-card fr-card--no-arrow">
             <div class="fr-card__body">
               <svg viewBox="0 0 228 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="74" y="0" width="82" height="80">
@@ -140,16 +135,16 @@ layout: default
                 </g>
                 </svg>
         
-              <h4 class="fr-card__title">
+              <h3 class="fr-card__title">
                 Coach
-              </h4>
+              </h3>
               <!-- <p class="fr-card__detail">{{ startup.owner | strip_html }}</p> -->
               <p class="fr-card__desc">Accompagne l’intrapreneur(e) grâce à son expertise du numérique et de l’entreprenariat.</p>
             </div>
           </div>
         </div>
         <div class="fr-col-12 fr-col-md-4">
-          <div class="fr-card fr-card--no-arrow fr-enlarge-link">
+          <div class="fr-card fr-card--no-arrow">
             <div class="fr-card__body">
               <svg viewBox="0 0 228 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <g clip-path="url(#clip0)">
@@ -179,9 +174,9 @@ layout: default
                 <image id="image0" width="64" height="64" xlink:href="data:image/png;base64,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"/>
                 </defs>
                 </svg>                
-              <h4 class="fr-card__title">
+              <h3 class="fr-card__title">
                 Intrapreneur(e)
-              </h4>
+              </h3>
               <!-- <p class="fr-card__detail">{{ startup.owner | strip_html }}</p> -->
               <p class="fr-card__desc">Agent public et expert métier, formé par beta.gouv pour devenir responsable d’un produit numérique
               </p>
@@ -189,7 +184,7 @@ layout: default
           </div>
         </div>
         <div class="fr-col-12 fr-col-md-4">
-          <div class="fr-card fr-card--no-arrow fr-enlarge-link">
+          <div class="fr-card fr-card--no-arrow">
             <div class="fr-card__body">
               <svg viewBox="0 0 228 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g clip-path="url(#clip2)">
@@ -213,9 +208,9 @@ layout: default
                   <path d="M133.32 56.9473C133.32 56.9473 134.401 62.75 135.55 65.6514C136.699 68.5528 138.05 70.2397 137.915 70.7794C137.78 71.3192 135.956 71.4542 134.874 69.9698C133.793 68.4853 131.022 64.4369 130.144 64.4369C129.265 64.4369 128.657 70.2397 128.657 70.2397" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
                 </g>
               </svg>        
-              <h4 class="fr-card__title">
+              <h3 class="fr-card__title">
                 Chargé(e) de déploiement
-              </h4>
+              </h3>
               <!-- <p class="fr-card__detail">{{ startup.owner | strip_html }}</p> -->
               <p class="fr-card__desc">
                 Fait augmenter le nombre d’utilisateurs satisfaits du service numérique.
@@ -224,7 +219,7 @@ layout: default
           </div>
         </div>
         <div class="fr-col-12 fr-col-md-4">
-          <div class="fr-card fr-card--no-arrow fr-enlarge-link">
+          <div class="fr-card fr-card--no-arrow">
             <div class="fr-card__body">
               <svg viewBox="0 0 228 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g clip-path="url(#clip0)">
@@ -262,9 +257,9 @@ layout: default
                 </svg>
                 
         
-              <h4 class="fr-card__title">
+              <h3 class="fr-card__title">
                 Designer
-              </h4>
+              </h3>
               <!-- <p class="fr-card__detail">{{ startup.owner | strip_html }}</p> -->
               <p class="fr-card__desc">
                 Améliore l’expérience, conçoit et teste les interfaces auprès des utilisateurs.
@@ -273,7 +268,7 @@ layout: default
           </div>
         </div>
         <div class="fr-col-12 fr-col-md-4">
-          <div class="fr-card fr-card--no-arrow fr-enlarge-link">
+          <div class="fr-card fr-card--no-arrow">
             <div class="fr-card__body">
               <svg viewBox="0 0 228 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g clip-path="url(#clip0)">
@@ -300,10 +295,10 @@ layout: default
                 </svg>
                 
         
-              <h4 class="fr-card__title">
+              <h3 class="fr-card__title">
                 Dévelopeuse ou dévelopeur
-              </h4>
-              <!-- <p class="fr-card__detail">{{ startup.owner | strip_html }}</p> -->
+              </h3>
+
               <p class="fr-card__desc">
                 Crée le service dans un langage de programmation et l’exploite.
               </p>
@@ -311,7 +306,7 @@ layout: default
           </div>
         </div>
         <div class="fr-col-12 fr-col-md-4">
-          <div class="fr-card fr-card--no-arrow fr-enlarge-link">
+          <div class="fr-card fr-card--no-arrow">
             <div class="fr-card__body">
               <svg viewBox="0 0 228 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g clip-path="url(#clip0)">
@@ -342,10 +337,10 @@ layout: default
                 </defs>
                 </svg>
                 
-              <h4 class="fr-card__title">
+              <h3 class="fr-card__title">
                 Gestionnaire de produit
-              </h4>
-              <!-- <p class="fr-card__detail">{{ startup.owner | strip_html }}</p> -->
+              </h3>
+
               <p class="fr-card__desc">
                 Aide l’équipe à prioriser les développements en fonction des besoins des utilisateurs
               </p>
@@ -356,8 +351,8 @@ layout: default
     </div>  
   </div>
   <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-pt-6w">
-    <button class="fr-btn fr-btn--lg fr-btn--icon-right fr-btn--secondary home-button-white-border">
-      Devenir intrapreneur(e)
+    <button class="fr-btn fr-btn--lg home-button-white-border fr-btn--secondary fr-enlarge-link">
+      <a href="/recrutement">Nous rejoindre</a>
     </button>
   </div>
 </div>
@@ -365,12 +360,11 @@ layout: default
 <section class="fr-py-6w home-section-principle">
   <div class="fr-container">
     <div class="centered">
-      <h1 class="home-section-title">
-        APPROCHE</h1>
-      <br>
-      <h2 class="fr-mb-6w">Le programme beta.gouv est fondée sur 3 principes</h2>
-      <h4 class="fr-my-6w">pour construire des services numériques simples,<br>faciles à utiliser et à l’impact maximal.
-      </h3>
+      <h2 class="home-section-title">Notre approche</h2>
+
+      <p class="home-section-description">
+        Le programme beta.gouv est fondée sur 3 principes pour construire des services numériques simples, faciles à utiliser et à l’impact maximal.
+      </p>
     </div>
     <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups">
       <div class="fr-col-12 fr-col-md-4">
@@ -461,13 +455,10 @@ layout: default
         <p class="home-section-principle-list-item">
           <span class="home-section-principle-list-item-number">3.</span>
           <span class="home-section-principle-list-item-content">Nous faisons confiance aux agents publics et à leurs équipes, qui travaillent au plus près du terrain.</span></p>
-        <button class="fr-btn fr-btn--lg fr-btn--icon-right fr-btn--secondary home-button-black">
-          Lire notre manifeste
+        <button class="fr-btn fr-btn--lg fr-btn--secondary fr-enlarge-link">
+          <a href="/approche/manifeste">Lire notre manifeste</a>
         </button>
       </div>      
-    </div>
-    <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters fr-py-6w">
-      <p style="font-size: 1.2rem; font-weight: bold;">beta.gouv.fr est une mission de la DINUM</p>
     </div>
   </div>
 </section>
