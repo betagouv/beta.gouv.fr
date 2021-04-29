@@ -1,7 +1,7 @@
 ---
-roles: une / un développeuse, développeur
+roles: une développeuse ou un développeur
 startup: transport
-techno: Elixir (Phoenix) / Rust / Python
+techno: Elixir (Phoenix) / Rust
 contrat: indépendant
 open: true
 ---
@@ -20,15 +20,13 @@ Nous cherchons une personne pour rejoindre notre équipe et nous aider à attein
 2. Réunir un maximum d’utilisateurs autour de la plateforme.
 3. Fournir des outils pour faciliter la réutilisation, la publication et la mise à jour des données.
 
-Il s’agit donc :
 
+Il s’agit donc :
 - D’intervenir majoritairement sur une base ouverte de code en [Elixir](https://elixir-lang.org/)/[Phoenix](https://www.phoenixframework.org/) (le [site web](https://github.com/etalab/transport-site)) avec un peu de [Rust](https://www.rust-lang.org/) (le [validateur de données GTFS](https://github.com/etalab/transport-validator) et le [module de conversion de données temps-réel](https://github.com/etalab/transpo-rt/)).
 - De discuter avec des producteurs de données ainsi que des réutilisateurs, de comprendre leurs besoins, et de construire un service public de la donnée de transport.
 - De jouer un rôle de soutien technique à nos chargé·e·s de déploiement, au quotidien comme lors de la conception de nouveaux [schémas de données](https://schema.data.gouv.fr/).
 
-Nous sommes une équipe multidisciplinaire : pas besoin d’être expert·e de tous ces sujets, nous nous répartissons la charge selon les intérêts et expertises de chaque membre.
-
-Nous veillons à ce que chacun progresse sur les sujets qui l'intéressent.
+Nous sommes une équipe multidisciplinaire : pas besoin d’être expert·e de tous ces sujets, nous nous répartissons la charge selon les intérêts et expertises de chaque membre. Nous veillons à ce que chacun progresse sur les sujets qui l'intéressent.
 
 ## Contexte technique
 
