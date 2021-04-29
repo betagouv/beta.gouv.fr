@@ -1,6 +1,8 @@
 ---
 fullname: Mehdi Hamamda
 role: Intrapreneur
+domaine:
+- Intraprenariat
 github: 
 avatar: 
 missions:

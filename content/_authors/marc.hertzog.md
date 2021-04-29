@@ -1,6 +1,8 @@
 ---
 fullname: Marc Hertzog
 role: Développeur web
+domaine:
+- Développement
 link: https://marcarea.com
 github: kemar
 missions:

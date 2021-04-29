@@ -1,6 +1,8 @@
 ---
 fullname: Mathieu Richardoz
 role: Développeur
+domaine:
+- Développement
 github: metamatik
 missions:
     - start: 2020-02-11

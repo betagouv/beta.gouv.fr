@@ -1,6 +1,8 @@
 ---
 fullname: Martial Maillot
 role: Développeur
+domaine:
+- Développement
 github: m-maillot
 avatar:
 link:

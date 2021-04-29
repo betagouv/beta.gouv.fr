@@ -1,6 +1,8 @@
 ---
 fullname: Morgan Prioux
 role: Développeur
+domaine:
+- Développement
 avatar: https://avatars.githubusercontent.com/u/68907081?v=4
 github: MorganP-projects 
 missions:

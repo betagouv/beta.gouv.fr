@@ -1,6 +1,8 @@
 ---
 fullname: Laurence Matringe
 role: Intrapreneuse
+domaine:
+- Intraprenariat
 missions:
   - start: 2017-07-15
     end:

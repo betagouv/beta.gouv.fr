@@ -1,6 +1,8 @@
 ---
 fullname: Maxime Dréau
 role: Développeur
+domaine:
+- Développement
 avatar: https://i.goopics.net/pZwkP.jpg
 link: https://totakoko.com
 missions:

@@ -1,6 +1,8 @@
 ---
 fullname: Louis-Jean Teitelbaum
 role: Coach
+domaine:
+- Coaching
 link: https://meidosem.com
 github: louije
 missions:

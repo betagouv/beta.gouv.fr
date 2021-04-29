@@ -1,6 +1,8 @@
 ---
 fullname: Mathieu SOLDANO
 role: Développeur
+domaine:
+- Développement
 github: msoldano
 missions:
   - start: 2018-11-09

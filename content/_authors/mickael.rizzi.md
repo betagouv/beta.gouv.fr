@@ -1,6 +1,8 @@
 ---
 fullname: Mickael Rizzi
 role: Intrapreneur
+domaine:
+- Intraprenariat
 missions:
   - start: 2018-05-02
     end:

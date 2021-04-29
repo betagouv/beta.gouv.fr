@@ -1,6 +1,8 @@
 ---
 fullname: Marion Le Galle
 role: UX designer
+domaine:
+- Design
 missions:
   - start: 2016-04-01
     end:

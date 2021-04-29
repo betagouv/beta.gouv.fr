@@ -1,6 +1,8 @@
 ---
 fullname: Maud Blanck
 role: Intrapreneuse
+domaine:
+- Intraprenariat
 github: MaudBlanck
 missions:
   - start: 2019-05-13

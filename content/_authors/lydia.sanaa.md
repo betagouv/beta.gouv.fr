@@ -1,6 +1,8 @@
 ---
 fullname: Lydia Sanaa
 role: Développeuse
+domaine:
+- Développement
 link: https://lydsan.fr/site/
 github: lydiasan
 missions:

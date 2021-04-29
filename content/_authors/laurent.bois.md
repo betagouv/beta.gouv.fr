@@ -1,6 +1,8 @@
 ---
 fullname: Laurent Bois
 role: Développeur transverse
+domaine:
+- Développement
 github: lbois
 missions:
   - start: 2020-12-30

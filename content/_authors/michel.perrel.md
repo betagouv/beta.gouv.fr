@@ -1,6 +1,8 @@
 ---
 fullname: Michel Perrel
 role: Intrapreneur
+domaine:
+- Intraprenariat
 github: michelperrel
 missions:
   - start: 2017-12-31

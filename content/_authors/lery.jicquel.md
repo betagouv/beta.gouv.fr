@@ -1,6 +1,8 @@
 ---
 fullname: Léry Jicquel
 role: Co-animateur
+domaine:
+- Animation
 github: LeryJ
 missions:
   - start: 2018-09-01

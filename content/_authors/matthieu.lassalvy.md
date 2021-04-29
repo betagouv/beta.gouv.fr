@@ -1,6 +1,8 @@
 ---
 fullname: Matthieu Lassalvy
 role: Développeur
+domaine:
+- Développement
 avatar: https://image.ibb.co/mzTRkS/Sans_titre.png
 github: sixertoy
 missions:
