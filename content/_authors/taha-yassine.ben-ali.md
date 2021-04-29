@@ -2,6 +2,7 @@
 fullname: Taha Yassine Ben Ali
 github: Taha-BATY
 role: Développeur
+domaine: Développement
 missions:
   - start: 2020-03-30
     end: 2021-03-30

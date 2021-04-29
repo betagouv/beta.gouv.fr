@@ -1,6 +1,7 @@
 ---
 fullname: Annaëlle Sagot
 role: Développeuse
+domaine: Développement
 github: asagot-ansa
 missions:
   - employer: OCTO

@@ -1,6 +1,7 @@
 ---
 fullname: Jean-Yves Stervinou
 role: Développeur
+domaine: Développement
 github: jystervinou
 missions:
   - start: 2018-02-01

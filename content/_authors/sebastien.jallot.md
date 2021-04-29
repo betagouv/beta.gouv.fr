@@ -1,6 +1,7 @@
 ---
 fullname: Sebastien Jallot
 role: Coach
+domaine: Coaching
 avatar: https://i.goopics.net/O3njr.jpeg
 missions:
   - start: 2018-10-01

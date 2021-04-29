@@ -1,6 +1,7 @@
 ---
 fullname: Véronique Lacoma
-role: Chargée de développement  
+role: Chargée de développement
+domaine: Déploiement
 github: veroAvril
 missions:
   - start: 2018-02-01

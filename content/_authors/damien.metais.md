@@ -1,6 +1,7 @@
 ---
 fullname: Damien METAIS
 role: UX UI Designer
+domaine: Design
 missions:
   - start: 2020-10-26
     end: 2021-12-27

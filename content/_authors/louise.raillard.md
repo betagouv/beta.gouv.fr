@@ -1,6 +1,7 @@
 ---
 fullname: Louise Raillard
 role: Chargée de déploiement 
+domaine: Déploiement
 link: https://www.linkedin.com/in/louise-raillard-0347781a2/
 missions:
   - start: 2021-03-01

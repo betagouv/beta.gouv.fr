@@ -1,6 +1,7 @@
 ---
 fullname: Caroline Lawson
 role: Recherche Utilisateur
+domaine: Design
 github: caroline-lawson
 link:
 missions: 

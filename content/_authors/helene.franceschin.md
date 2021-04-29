@@ -1,6 +1,7 @@
 ---
 fullname: Hélène Franceschin
 role: Intrapreneuse
+domaine: Intraprenariat
 missions:
   - status: admin
     employer: Ministère de la Justice

@@ -1,6 +1,7 @@
 ---
 fullname: Jonathan Redt Gensinger
 role: Intrapreneur
+domaine: Intraprenariat
 missions:
   - start: 2017-09-28
     end: 2019-12-31

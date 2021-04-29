@@ -1,6 +1,7 @@
 ---
 fullname: Florent Dibos
 role: Chef de produit 
+domaine: Produit
 github: captainconan
 missions:
   - start: 2019-07-01

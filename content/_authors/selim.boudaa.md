@@ -1,6 +1,7 @@
 ---
 fullname: Sélim Boudaa
 role: Développeur
+domaine: Développement
 link: http://www.sinusoide.fr
 github: SelimBoudaa
 missions:

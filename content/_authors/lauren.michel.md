@@ -1,6 +1,7 @@
 ---
 fullname: Lauren Michel
-role: "Cheffe de produit"
+role: Cheffe de produit
+domaine: Produit
 github: Laurenmichel21
 missions:
   - start: 2016-04-01

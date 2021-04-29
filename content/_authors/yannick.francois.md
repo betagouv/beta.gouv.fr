@@ -1,6 +1,7 @@
 ---
 fullname: Yannick François
 role: Développeur
+domaine: Développement
 github: yaf
 link: 'https://elsif.fr'
 missions:

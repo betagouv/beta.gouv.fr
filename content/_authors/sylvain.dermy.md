@@ -1,6 +1,7 @@
 ---
 fullname: Sylvain Dermy
 role: Co-responsable du déploiement d'Administration+ sur les Maisons France Service
+domaine: Déploiement
 missions:
   - start: 2017-02-01
     end: 2017-02-28

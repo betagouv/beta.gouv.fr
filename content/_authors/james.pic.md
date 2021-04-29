@@ -1,6 +1,7 @@
 ---
 fullname: James Pic
 role: Développeur full-stack
+domaine: Développement
 missions:
   - start: 2017-11-30
     end: 2019-12-31

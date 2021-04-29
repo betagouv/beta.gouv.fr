@@ -1,6 +1,7 @@
 ---
 fullname: Alexandre Bulté
 role: Directeur Technique Etalab
+domaine: Développement
 avatar: https://avatars1.githubusercontent.com/u/119625?v=3&s=600
 missions:
   - start: 2017-06-01

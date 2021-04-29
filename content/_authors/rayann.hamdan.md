@@ -1,6 +1,7 @@
 ---
 fullname: Rayann Hamdan
 role: Développeur
+domaine: Développement
 link: https://github.com/rayannhamdan
 missions:
   - start: 2020-01-14

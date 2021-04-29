@@ -1,6 +1,7 @@
 ---
 fullname: Maxime BOLLENGIER
 role: Intrapreneur
+domaine: Intraprenariat
 github: maximebollengier
 missions:
   - start: 2021-04-06

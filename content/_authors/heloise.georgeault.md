@@ -1,6 +1,7 @@
 ---
 fullname: Héloïse Georgeault
 role: Intrapreneuse
+domaine: Intraprenariat
 missions:
   - start: 2020-09-02
     end: 2021-06-30

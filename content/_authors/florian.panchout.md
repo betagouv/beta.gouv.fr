@@ -1,6 +1,7 @@
 ---
 fullname: Florian Panchout
 role: Développeur
+domaine: Développement
 github: florianpanchout
 missions:
   - start: 2021-01-04
