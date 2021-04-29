@@ -2,8 +2,7 @@
 fullname: Amandine Audras
 github: renardpal
 link: www.renardpal.com
-domaine: 
-  - Design
+domaine: Design
 competences:
   - UX
   - UI
