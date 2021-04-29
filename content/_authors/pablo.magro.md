@@ -1,6 +1,8 @@
 ---
 fullname: Pablo Magro
 role: Chargé de développement territorial Finistère
+domaine:
+- Déploiement
 avatar : https://i.imgur.com/hHMQkRw.jpg
 missions:
   - start: 2019-02-01

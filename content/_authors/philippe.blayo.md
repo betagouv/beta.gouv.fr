@@ -1,6 +1,8 @@
 ---
 fullname: Philippe Blayo
 role: Développeur
+domaine:
+- Développement
 github: pblayo
 missions:
   - start: 2018-03-13

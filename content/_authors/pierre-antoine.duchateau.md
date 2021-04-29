@@ -1,6 +1,8 @@
 ---
 fullname: Pierre-Antoine Duchateau
 role: Développeur Produit
+domaine:
+- Développement
 github: paduc
 link:
 missions:

@@ -1,6 +1,8 @@
 ---
 fullname: Pierre Peyretou
 role: Coach
+domaine:
+- Coaching
 link: https://www.linkedin.com/in/pierre-peyretou/
 missions:
   - start: 2021-03-29

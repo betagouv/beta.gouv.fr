@@ -1,6 +1,8 @@
 ---
 fullname: Quentin Cattez
 role: Développeur
+domaine:
+- Développement
 missions:
   - start: 2017-03-06
     end: 2018-09-30

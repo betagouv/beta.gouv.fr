@@ -1,6 +1,8 @@
 ---
 fullname: Philippe LORIOT
 role: Intrapreneur
+domaine:
+- Intraprenariat
 missions:
   - start: 2021-04-21
     end: 2025-10-31

@@ -1,6 +1,8 @@
 ---
 fullname: Quentin Blanc
 role: Développeur Fullstack
+domaine:
+- Développement
 github: qblanc
 missions:
   - start: 2021-03-08

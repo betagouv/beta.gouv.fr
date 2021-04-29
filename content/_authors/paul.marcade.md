@@ -1,6 +1,8 @@
 ---
 fullname: Paul Marcadé
 role: Coach
+domaine:
+- Coaching
 github: PaulMarcade
 missions:
   - start: 2020-03-19

@@ -1,6 +1,8 @@
 ---
 fullname: Paul-Henri CHARRIER
 role: Intrapreneur
+domaine:
+- Intraprenariat
 link: https://twitter.com/PH_CHARRIER
 github: charrier
 missions:

@@ -1,6 +1,8 @@
 ---
 fullname: Pascal Dagras
 role: Intrapreneur
+domaine:
+- Intraprenariat
 link: https://www.linkedin.com/in/pascal-dagras-b5052169/
 missions:
   - start: 2021-07-12

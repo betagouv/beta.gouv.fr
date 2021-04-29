@@ -1,6 +1,8 @@
 ---
 fullname: Perrine Garnault
 role: Designer UX/UI
+domaine:
+- Design
 missions:
   - start: 2020-01-01
     end: 2021-12-31
