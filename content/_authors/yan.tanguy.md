@@ -1,6 +1,8 @@
 ---
 fullname: Yan Tanguy
 role: Intrapreneur
+domaine:
+- Intraprenariat
 missions:
   - start: 2017-09-14
     end: 2018-03-30

@@ -1,6 +1,8 @@
 ---
 fullname: Xavier Jouppe
 role: Développeur
+domaine:
+- Développement
 github: XavierJp
 avatar:
 link:
