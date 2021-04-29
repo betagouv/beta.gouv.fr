@@ -2,7 +2,7 @@
 fullname: Amandine Audras
 role: UX Designer
 github: renardpal
-link: www.renardpal.com
+link: 'www.renardpal.com'
 domaine: Design
 competences:
   - UX
