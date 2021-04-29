@@ -1,7 +1,7 @@
 ---
 fullname: Martin Ratinaud
 role: Directeur Technique
-domaine: Autre
+domaine: Développement
 link: http://bit.ly/work-with-martin
 github: martinratinaud
 missions:
