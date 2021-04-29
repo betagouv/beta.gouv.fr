@@ -1,6 +1,8 @@
 ---
 fullname: Thomas Glatt
 role: Développeur
+domaine: 
+- Développement
 github: tglatt
 missions:
   - start: 2019-02-18

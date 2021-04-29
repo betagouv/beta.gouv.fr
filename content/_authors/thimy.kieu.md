@@ -1,6 +1,8 @@
 ---
 fullname: Thimy Kieu
 role: Développeuse
+domaine: 
+- Développement
 github: thimy
 missions:
   - employer: Codeurs en Liberté

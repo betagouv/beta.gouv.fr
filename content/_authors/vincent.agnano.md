@@ -1,6 +1,8 @@
 ---
 fullname: Vincent Agnano
 role: Développeur
+domaine:
+- Développement
 avatar: https://vinyll.github.io/images/avatar.jpg
 link: https://vinyll.neomad.org
 github: vinyll

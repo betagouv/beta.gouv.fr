@@ -1,6 +1,8 @@
 ---
 fullname: Thomas Eskenazi
 role: Coach
+domaine: 
+- Coaching
 github: thomasesk
 missions:
   - start: 2021-04-14

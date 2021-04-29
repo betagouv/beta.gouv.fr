@@ -1,6 +1,8 @@
 ---
 fullname: Thibault Jouannic
 role: Développeur
+domaine:
+- Développement
 link: https://www.miximum.fr
 github: thibault
 missions:

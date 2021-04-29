@@ -1,6 +1,8 @@
 ---
 fullname: Thibaut Sailly
 role: Designer
+domaine: 
+- Design
 link: https://tsailly.net
 github: thibautsailly
 missions:

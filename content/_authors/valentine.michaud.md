@@ -1,6 +1,8 @@
 ---
 fullname: Valentine Michaud
 role: Co-animatrice du programme beta.gouv.fr
+domaine:
+- Animation
 github: ValentineM
 missions:
   - start: 2020-03-30
