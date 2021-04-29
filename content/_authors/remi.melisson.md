@@ -1,6 +1,6 @@
 ---
 fullname: Rémi Mélisson
-role: Développeur : Back / NLP / ML
+role: Développeur Back / NLP / ML
 domaine: Développement
 avatar: https://incubateur.social.gouv.fr/static/images/members/remi.m.jpg
 missions:
@@ -11,7 +11,6 @@ missions:
 startups:
   - codedutravail
 ---
-
 Functional programming
 Natural Language Processing
 Machine Learning
