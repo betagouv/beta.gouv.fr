@@ -1,6 +1,8 @@
 ---
 fullname: NADIM Bellallahom
 role: UX designer
+domaine:
+- Design
 link: https://www.linkedin.com/in/nadim-bel-lallahom
 github: nadimbhm
 missions:

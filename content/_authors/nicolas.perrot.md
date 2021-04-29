@@ -1,6 +1,8 @@
 ---
 fullname: Nicolas Perrot
 role: déploiement
+domaine:
+- Déploiement
 avatar: 
 missions:
   - start: 2020-04-02

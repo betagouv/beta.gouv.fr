@@ -1,6 +1,8 @@
 ---
 fullname: Nadeige Couthon
 role: Développeuse
+domaine:
+- Développement
 github: NadeigeC
 missions:
   - start: 2020-10-01

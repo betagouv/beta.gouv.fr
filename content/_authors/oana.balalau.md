@@ -1,6 +1,8 @@
 ---
 fullname: Oana Balalau
 role: Collaboration sur le projet Signaux Faibles
+domaine:
+- Autre
 link: https://oanabalalau.com
 github: nyxpho
 missions:

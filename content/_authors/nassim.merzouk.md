@@ -1,6 +1,8 @@
 ---
 fullname: Nassim Merzouk
 role: Chargé de déploiement
+domaine:
+- Déploiement
 github: nassimmzk
 avatar:
 link: https://www.linkedin.com/in/merzouknassim/

@@ -1,6 +1,8 @@
 ---
 fullname: Nicolas Jourdain
 role: Développeur
+domaine:
+- Développement
 github: nicolasjourdain
 missions:
   - start: 2021-03-18

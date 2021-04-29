@@ -1,6 +1,8 @@
 ---
 fullname: Nicolas Mouanga
-role: "Growth Hacker "
+role: Growth Hacker
+domaine:
+- Déploiement
 github: NicolasM92
 missions:
   - end: 2021-12-31

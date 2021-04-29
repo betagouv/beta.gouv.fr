@@ -1,6 +1,8 @@
 ---
 fullname: Nicolas Petitot
 role: Développeur
+domaine:
+- Développement
 github: NeoBahamut
 missions: 
   - start: 2019-09-01

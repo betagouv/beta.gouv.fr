@@ -1,6 +1,8 @@
 ---
 fullname: Nicolas Bouilleaud
 role: Développeur
+domaine:
+- Développement
 github: n-b
 missions:
   - employer: Codeurs en Liberté

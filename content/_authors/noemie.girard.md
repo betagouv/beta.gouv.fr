@@ -1,6 +1,8 @@
 ---
 fullname: Noémie Girard
 role: UX research, content management
+domaine:
+- Design
 github: noeems
 avatar: 
 link: 'http://noemiegirard.co/'

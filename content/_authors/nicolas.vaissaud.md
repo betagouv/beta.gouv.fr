@@ -1,6 +1,8 @@
 ---
 fullname: Nicolas Vaissaud
 role: Développeur
+domaine:
+- Développement
 link: https://codeconut.fr
 github: NVaissaud
 missions:

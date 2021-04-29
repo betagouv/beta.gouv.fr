@@ -1,6 +1,8 @@
 ---
 fullname: Nicolas Fries
 role: Développeur
+domaine:
+- Développement
 github: pseudonyme21
 avatar: # dispo sur github
 missions:
