@@ -33,7 +33,7 @@ Le public (association, usagers, socio-professionnels, collectivités) concerné
 
 A trois semaines du lancement, l'équipe mène des entretiens avec les acteurs suivants :
 
-* agents de la police de l'eau, en charge de l'instruction et du contrôle en DDT/M (Directions départementales des territoires / et de la mer)
+* agents de la police de l'eau en DDT/M (Directions départementales des territoires / et de la mer), en charge de l'instruction des dossiers et du contrôle des décisions de l'Etat
 * agents de différentes structures, en appui à l'instruction ou en charge de contrôle également (Office Français de la Biodiversité par exemple)
 * pétitionnaires : particuliers ou entreprises, collectivités
 * ... et leurs prestataires dans les bureaux d'études
