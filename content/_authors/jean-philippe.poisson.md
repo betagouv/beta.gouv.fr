@@ -8,5 +8,5 @@ missions:
     end:  2019-01-15
     status: independent
 startups:
-  - classes12
+  - classe-a-12
 ---
