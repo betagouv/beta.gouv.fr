@@ -1,5 +1,5 @@
 ---
-title: "IDEAULE : Informations sur les Dossiers Et les Actes Uniques Loi sur l’Eau"
+title: Ideaule
 mission: Améliorer la transparence des décisions de l'État sur la Loi sur l'Eau
 owner: Direction générale de l'aménagement, du logement et de la nature (DGALN)
 sponsors:
