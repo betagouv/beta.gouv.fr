@@ -1,6 +1,7 @@
 ---
 fullname: Marie Briche
 role: Intrapreneuse
+domaine: Intraprenariat
 missions:
   - start: 2017-05-01
     end:

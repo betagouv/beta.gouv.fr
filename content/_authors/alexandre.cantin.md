@@ -1,6 +1,7 @@
 ---
 fullname: Alexandre Cantin
 role: Développeur
+domaine: Développement
 missions:
   - start: 2017-09-18
     end:

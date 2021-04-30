@@ -1,6 +1,7 @@
 ---
 fullname: Julien Kounowski
 role: Intrapreneur
+domaine: Intraprenariat
 missions:
   - start: 2020-10-01
     end: 2020-12-31

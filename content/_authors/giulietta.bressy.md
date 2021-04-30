@@ -1,6 +1,7 @@
 ---
 fullname: Giulietta  Bressy
 role: Chargée d'assistance utilisateurs et de modération
+domaine: Déploiement
 missions:
   - start: 2021-01-25
     end: 2021-07-25

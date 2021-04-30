@@ -1,6 +1,7 @@
 ---
 fullname: Thibault COLIN
 role: Développeur
+domaine: Développement
 github: tobi-colin
 missions:
   - start: 2020-09-07

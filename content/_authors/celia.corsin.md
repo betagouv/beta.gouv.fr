@@ -1,6 +1,7 @@
 ---
 fullname: Celia Corsin
 role: Développeuse
+domaine: Développement
 github: ccorsin
 missions:
   - start: 2020-11-01

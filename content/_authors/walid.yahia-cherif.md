@@ -1,6 +1,7 @@
 ---
 fullname: Walid Yahia-Cherif
 role: Developpeur
+domaine: Développement
 github: walidPassCulture
 missions:
   - start: 2020-03-30

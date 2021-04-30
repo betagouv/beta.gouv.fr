@@ -1,6 +1,7 @@
 ---
 fullname: Yann Boisselier
 role: Développeur
+domaine: Développement
 link: https://www.happy-dev-nantes.fr/
 github: nyl-auster
 missions:

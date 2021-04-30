@@ -1,6 +1,7 @@
 ---
 fullname: Sasun Saugy
 role: Aide de camp
+domaine: Autre
 github: 
 avatar:
 missions:

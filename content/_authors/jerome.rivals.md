@@ -1,6 +1,7 @@
 ---
 fullname: Jérôme Rivals
 role: Développeur
+domaine: Développement
 github: jrivals
 missions:
   - employer: octo

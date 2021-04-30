@@ -1,6 +1,7 @@
 ---
 fullname: Claire Casubolo
 role: Chargée de partenariats
+domaine: Autre
 github: ClaireCasu
 missions:
   - start: 2021-01-15

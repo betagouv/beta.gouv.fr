@@ -1,6 +1,7 @@
 ---
 fullname: Aymeric Faivre
 role: Designer
+domaine: Design
 avatar:
 link: http://www.aymericfaivre.com
 github: AymericFaivre

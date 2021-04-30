@@ -1,6 +1,7 @@
 ---
 fullname: Jérôme Desboeufs
 role: Développeur
+domaine: Développement
 github: jdesboeufs
 missions:
   - end: 2015-03-09

@@ -1,6 +1,7 @@
 ---
 fullname: Julien HAIRAPIAN
 role: Fullstack Developer
+domaine: Développement
 github: Zekdar
 missions:
   - start: 2020-10-01

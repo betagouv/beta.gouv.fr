@@ -1,6 +1,7 @@
 ---
 fullname: Martin Rueda
 role: Chargé de deploiement
+domaine: Déploiement
 github: mruedar
 missions:
   - start: 2019-06-03

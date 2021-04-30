@@ -1,6 +1,7 @@
 ---
 fullname: Sebastien Le Goff
 role: CTO
+domaine: Produit
 github: goffle
 missions:
   - start: 2018-04-01

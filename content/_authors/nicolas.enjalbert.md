@@ -1,6 +1,7 @@
 ---
 fullname: Nicolas Enjalbert
 role: Coach
+domaine: Coaching
 link: https://www.linkedin.com/in/nicolas-enjalbert/
 github: nenj
 missions:

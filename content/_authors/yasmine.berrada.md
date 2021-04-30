@@ -1,6 +1,7 @@
 ---
 fullname: Yasmine Berrada
 role: Coach
+domaine: Coaching
 github: 
 missions:
   - start: 2020-03-01

@@ -1,6 +1,7 @@
 ---
 fullname: Armelle Gilliard
 role: Chargée de déploiement
+domaine: Déploiement
 github: ArmelleSpace
 missions:
     - start: 2020-02-11

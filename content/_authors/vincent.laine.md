@@ -1,6 +1,7 @@
 ---
 fullname: Vincent Lainé
 role: Développeur
+domaine: Développement
 github: vincentlaine
 link: https://www.linkedin.com/in/vincent-laine/
 missions:

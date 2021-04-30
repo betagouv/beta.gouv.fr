@@ -1,6 +1,7 @@
 ---
 fullname: Rédouane Bouchane
 role: Chargé de développement
+domaine: Déploiement
 github: Red1bush
 link: null
 missions:

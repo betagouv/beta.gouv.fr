@@ -1,6 +1,7 @@
 ---
 fullname: Mathieu Agopian
 role: Développeur
+domaine: Développement
 github: magopian
 link: https://agopian.info/
 missions:

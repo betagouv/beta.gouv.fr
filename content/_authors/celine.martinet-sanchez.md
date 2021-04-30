@@ -1,6 +1,7 @@
 ---
 fullname: Céline Martinet Sanchez
 role: Développeuse
+domaine: Développement
 github: celine-m-s
 link: https://www.hello-birds.com
 missions:
