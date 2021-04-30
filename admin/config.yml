@@ -388,6 +388,9 @@ collections:
     folder: "content/_jobs"
     create: true
     delete: false
+    summary: {{roles}}
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    publish: false
     editor:
       preview: false
     fields:
@@ -407,7 +410,7 @@ collections:
         name: date
         widget: datetime
         time_format: false
-        required: true 
+        hint: "Uniquement si vous publiez la fiche plus tard"
       - label: Pour quelle startup ?
         label_singular: Startup
         hint: "Si la startup n'apparait pas encore dans la liste, contacte un administrateur du site !"
