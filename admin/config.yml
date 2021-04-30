@@ -26,12 +26,12 @@ logo_url: https://beta.gouv.fr/assets/images/favicons/apple-touch-icon-180x180.p
 show_preview_links: false
 
 slug:
-  encoding: "ascii"
+  encoding: "ascii"selectUseWorkflow
   clean_accents: true
   sanitize_replacement: "."
 
 # Editorial workflow: validate changes through pull requests
-publish_mode: editorial_workflow
+publish_mode: simple
 
 relation_default_options: &relation_default_options
   widget: relation
