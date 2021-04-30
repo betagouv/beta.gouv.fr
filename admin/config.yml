@@ -394,7 +394,7 @@ collections:
     create: true
     delete: false
     summary: "{{roles}}"
-    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     publish: false
     editor:
       preview: false
