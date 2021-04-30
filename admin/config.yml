@@ -51,6 +51,7 @@ collections:
   - name: startups
     publish: false
     label: Produits
+    preview_path: "startups/{{slug}}"
     label_singular: Produit
     folder: "content/_startups"
     create: true
