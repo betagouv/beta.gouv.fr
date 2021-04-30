@@ -8,5 +8,5 @@ missions:
     status: admin
     employer: Académie de Créteil
 startups:
-  - classes12
+  - classe-a-12
 ---

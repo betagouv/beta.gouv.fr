@@ -15,7 +15,7 @@ missions:
     status: independent
     employer: La Zone
 startups:
-  - classes12
+  - classe-a-12
 previously:
   - mon-entreprise
 ---
