@@ -48,6 +48,7 @@ date_field_defaults: &date_field_defaults
 
 collections:
   - name: startups
+    publish: false
     label: Produits
     label_singular: Produit
     folder: "content/_startups"
@@ -207,12 +208,13 @@ collections:
           Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
       
   - name: "authors"
+    publish: false
     identifier_field: fullname
     label: "Membres"
     label_singular: "Membre"
     description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, direction \"Créer une entrée de type Membre\" !"
     folder: "content/_authors"
-    create: true
+    create: false
     delete: false
     slug: "{{slug}}"
     editor:
@@ -336,6 +338,7 @@ collections:
           "Administration Publique"
         ]
   - name: incubators
+    publish: false
     label: Incubateurs
     label_singular: Incubateur
     folder: "content/_incubators"
@@ -362,6 +365,7 @@ collections:
     label_singular: Phase
     folder: "content/_phases"
     delete: false
+    publish: false
     slug: "{{slug}}"
     editor:
       preview: false
@@ -372,6 +376,7 @@ collections:
       - { label: order, name: order, widget: number }
       - { label: short_description, name: short_description, widget: string }
   - name: events
+    publish: false
     label: Évènement de SET
     label_singular: Évènement
     folder: "content/_events"
