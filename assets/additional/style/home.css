@@ -89,3 +89,27 @@
     width: 100%;
     height: 100%;
 }
+
+.home-hero-anim {
+    position: relative;
+}
+#hero-anim-hand-1,
+#hero-anim-hand-2,
+#hero-anim-hand-3 {
+    position: absolute;
+}
+
+#hero-anim-hand-1 {
+    top: -50px;
+    right: 0px;
+}
+
+#hero-anim-hand-2 {
+    top: 100px;
+    right: 0px;
+}
+
+#hero-anim-hand-3 {
+    top: 150px;
+    right: 0px;
+}
