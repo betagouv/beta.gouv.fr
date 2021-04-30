@@ -6,7 +6,7 @@ sponsors:
   - acronym: DGALN
     name: Direction générale de l'aménagement, du logement et de la nature (DGALN)
     type: administration-centrale
-    domaine_ministeriel: null
+    domaine_ministeriel: environnement
 incubator: mtes
 contact: adrien.plantureux@beta.gouv.fr
 phases:
