@@ -11,6 +11,10 @@
     color: #fff;
 }
 
+.home-section-blue h3.fr-card__title {
+    text-align: center;
+}
+
 .home-section-main h1 {
     color: white;
     text-align: left;
