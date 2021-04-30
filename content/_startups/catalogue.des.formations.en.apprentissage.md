@@ -1,7 +1,7 @@
 ---
 title: Catalogue des formations en apprentissage
-mission: Rendre accessible l'information sur les formations en apprentissage.
-owner: Délégation générale à l'emploi et à la formation professionnelle
+mission: "Renforcer la collecte et la  visibilité des formations en apprentissage"
+owner: Mission interministérielle pour l'apprentissage
 sponsors:
   - type: administration-centrale
     domaine_ministeriel: education-nat
@@ -17,7 +17,7 @@ sponsors:
   - name: Délégation générale à l'emploi et à la formation professionnelle
     acronym: DGEFP
     type: administration-centrale
-incubator: mission-apprentissage
+incubator: mission-interministérielle-pour-l-apprentissage
 link: https://catalogue.apprentissage.beta.gouv.fr/
 repository: https://github.com/mission-apprentissage/catalogue-apprentissage
 contact: mailto:catalogue@apprentissage.beta.gouv.fr
@@ -26,32 +26,27 @@ phases:
     start: 2020-07-01
     end: 2021-03-31
 ---
-<!--StartFragment-->
+Créé pour organiser la collecte des formations en apprentissage, le catalogue des formations en apprentissage permet de rendre plus visibles les offres auprès des jeunes et des employeurs.
 
-**Problème** 
+## Le constat
 
-Il n’y a pas de processus assurant le recensement des formations en apprentissage, qui est un préalable à l’information des jeunes et des entreprises.
+IIl n’existe pas de processus assurant le recensement des formations en apprentissage, qui est pourtant un préalable à une information claire et exhaustive des jeunes et des entreprises.
 
-À défaut d’organiser un processus partagé avec les principales parties prenantes surgit un vrai risque de pagaïe : chacun (région, opco, site d’orientation des jeunes) va interpeller les CFA dans le désordre, sans format homogène des données et en perturbant les CFA qui ne sauront plus à qui répondre. 
+Chaque partie-prenante (région, OPCO, site d’orientation des jeunes) peut interpeller les CFA dans le désordre, sans format homogène des données et en perturbant les CFA qui ne savent plus à qui répondre.
 
-La mise en visibilité d’une offre complète et interconnectée des formations en apprentissage permet d'augmenter le nombre (et le bon enregistrement) des vœux en apprentissage et de faciliter les entrées dans cette voie de formation. 
+## La solution
 
-**Solution** 
+Un catalogue des offres de formation en apprentissage a été créé, pour être un outil unique de recensement de l’ensemble des formations proposées. Il est accessible à tous et peut être utilisé par les acteurs de l’orientation et de l’insertion des jeunes, ainsi que consommé par les plateformes et portails qui exposent des informations relatives à l’apprentissage. Il permet d’assurer une pleine visibilité des offres de formation en apprentissage pour : 
+1. Mieux informer les jeunes et les employeurs intéressés par cette voie de formation et notamment les utilisateurs des outils d’affectation du ministère de l’Enseignement supérieur et de la Recherche (Parcoursup) et de l’Éducation nationale (Affelnet) ;
+2. Saisir le dynamisme des CFA dans le nouveau cadre posé par la loi pour la liberté de choisir son avenir professionnel, qui favorise l'actualisation continue de l'offre de formation ;
+3. Améliorer la qualité de la description des formations et des établissements et assurer la fiabilité des informations ;
+4. Simplifier les démarches pour tous les acteurs et notamment pour les personnels des CFA, en automatisant une partie du recensement et en publiant un catalogue ouvert, accessible à toutes les institutions concourant à l'orientation des jeunes.
 
-Le catalogue des formations recense les offres de formation en apprentissage dispensées par les organismes de formation en apprentissage. 
+Le catalogue des formations peut être consulté sur https://catalogue.apprentissage.beta.gouv.fr/
+Vous pouvez également accéder à la documentation détaillée concernant la collecte de l'offre de formation en Apprentissage réalisée par la Mission ici : https://mission-apprentissage.gitbook.io/catalogue/
 
-Le processus partagé de collecte des offres de formation et le format homogène des données facilitent la mise en contact avec les CFA.\
-\
-Ce référencement est utilisé pour alimenter les plateformes d’expression des voeux de formation, telles qu’AFFELNET ou PARCOURSUP. 
+## Les bénéfices attendus
 
- L’open catalogue vise à réunir toutes les informations utiles à une présentation pertinente des formations, et des établissements de formation en apprentissage. 
-
-Le catalogue ouvert est « consommable » à travers les principaux outils numériques d’orientation (sites de l’État ou de ses opérateurs ou des régions ou d’associations ou d’entreprises privées) par tous les jeunes, les prescripteurs, les employeurs. 
-
-**Impact** 
-
-La mise en visibilité d’une offre de formation en Apprentissage complète et interconnectée permet d'augmenter le nombre (et le bon enregistrement) des vœux en apprentissage : 
-
-**+19% de vœux exprimés en apprentissage sur Parcoursup** par rapport à l’année précédente (145 000 vœux en 2019 et 173 000 en 2020)
-
-<!--EndFragment-->
+- La mise en visibilité d’une offre de formation en apprentissage complète et interconnectée permet d'augmenter le nombre (et le bon enregistrement) des vœux en apprentissage ;
+- Un processus partagé de collecte et un format homogène facilitent la mise en contact avec les CFA ;
+- Un catalogue ouvert est « consommable » à travers les principaux outils numériques d’orientation (sites de l’État ou de ses opérateurs ou des régions ou d’associations ou d’entreprises privées) par tous les jeunes, les prescripteurs, les employeurs,…
