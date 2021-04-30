@@ -13,7 +13,7 @@ missions:
 startups:
   - egalite.professionnelle
 previously:
-  - classes12
+  - classe-a-12
   - saisissezauvol
   - eac
   - api-drones
