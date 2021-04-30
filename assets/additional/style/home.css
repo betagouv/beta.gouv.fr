@@ -11,6 +11,12 @@
     color: #fff;
 }
 
+.home-section-blue svg {
+    max-height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .home-section-blue h3.fr-card__title {
     text-align: center;
 }
