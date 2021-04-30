@@ -8,5 +8,5 @@ missions:
     status: admin
     employer: Education Nationale
 startups:
-  - classes12
+  - classe-a-12
 ---

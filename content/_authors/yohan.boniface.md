@@ -16,5 +16,5 @@ previously:
   - ban
   - api-drones
   - la-bonne-formation
-  - classes12
+  - classe-a-12
 ---
