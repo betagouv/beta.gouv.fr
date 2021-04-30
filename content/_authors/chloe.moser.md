@@ -1,6 +1,7 @@
 ---
 fullname: Chloé Moser
 role: Intrapreneur
+domaine: Intraprenariat
 github: ChloeMoser
 link: https://archifiltre.fabrique.social.gouv.fr/
 missions:

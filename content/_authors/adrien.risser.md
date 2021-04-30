@@ -1,7 +1,7 @@
 ---
 fullname: Adrien Risser
 role: Développeur
-
+domaine: Développement
 github: risseraka
 avatar: https://i.goopics.net/wLLYD.png
 missions:

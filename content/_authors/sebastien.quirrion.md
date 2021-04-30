@@ -1,6 +1,7 @@
 ---
 fullname: Sébastien Quirrion
 role: Développeur
+domaine: Développement
 github: squirrion
 avatar: https://i.ibb.co/x6ZX71T/IMG-0782.jpg
 missions:

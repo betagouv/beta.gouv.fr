@@ -1,6 +1,7 @@
 ---
 fullname: Matthias Feraga
 role: Chargé de développement
+domaine: Déploiement
 avatar: https://avatars1.githubusercontent.com/u/20679179?s=460&v=4
 missions:
   - start: 2016-09-01

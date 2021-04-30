@@ -1,6 +1,7 @@
 ---
 fullname: Jérémie Lanceleur
 role: CTO / Développeur full stack
+domaine: Développement
 github: JeremieLAN
 missions:
   - start: 2020-04-01

@@ -1,6 +1,5 @@
 ---
 domaine: Développement
-description: NodeJS
 missions:
   - start: 2016-06-20
     end: 2021-07-31

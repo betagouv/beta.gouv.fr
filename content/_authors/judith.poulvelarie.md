@@ -1,6 +1,7 @@
 ---
 fullname: Judith Poulvelarie
 role: Développeuse
+domaine: Développement
 github: jpoulvel
 missions:
   - start: 2020-05-04

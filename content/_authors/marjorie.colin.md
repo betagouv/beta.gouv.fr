@@ -1,6 +1,7 @@
 ---
 fullname: Marjorie Colin
 role: Coach / Designer
+domaine: Coaching
 link: http://www.co-collectif.com/
 github: marjoriecolin
 missions:

@@ -1,6 +1,7 @@
 ---
 fullname: Pascal Knoth
 role: awesome dev
+domaine: Développement
 avatar: https://avatars3.githubusercontent.com/pknoth?s=600
 link:
 missions:

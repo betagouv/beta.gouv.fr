@@ -12,13 +12,12 @@ missions:
     end: 2021-12-31    
     status: independent
 startups:
-  - classes12
+  - classe-a-12
   - ozensemble
   - monsuivipsy
   - preuve-de-covoiturage
 previously:
   - codedutravail
   - mes-aides
-domaine:
-  - Design
+domaine: Design
 ---

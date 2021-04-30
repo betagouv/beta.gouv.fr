@@ -1,6 +1,7 @@
 ---
 fullname: Anne-Sophie Tranchet
 role: Designer UX/UI
+domaine: Design
 github: astranchet
 avatar: null
 link: https://hello-bokeh.fr/

@@ -1,6 +1,7 @@
 ---
 fullname: Jihane Herizi
 role: Co-animatrice du programme Startups d'État
+domaine: Animation
 missions:	
   - start: 2017-10-11
     end: 2019-12-31

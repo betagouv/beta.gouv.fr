@@ -45,10 +45,8 @@ mapping:
           enum:
             - segur
   "domaine":
-    type:      seq
-    sequence:
-      - type: str
-        assert:    "['Animation','Coaching','Déploiement', 'Design', 'Développement', 'Intraprenariat', 'Produit', 'Autre'].include?(val)"
+    type:      str
+    assert:    "['Animation','Coaching','Déploiement', 'Design', 'Développement', 'Intraprenariat', 'Produit', 'Autre'].include?(val)"
   "competences":
     type:      seq
     sequence:

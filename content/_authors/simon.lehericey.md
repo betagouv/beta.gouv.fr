@@ -1,6 +1,7 @@
 ---
 fullname: Simon Lehericey
 role: Développeur
+domaine: Développement
 avatar: https://s.gravatar.com/avatar/c8f2f7a1a95a068877772ceb11b9700b?s=512
 missions:
   - start: 2017-02-13

@@ -1,6 +1,7 @@
 ---
 fullname: Alexis Akinyemi
 role: Expert scientifique
+domaine: Autre
 github: Alexis-Akinyemi
 link: https://www.ad-hoc-lab.com
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !

@@ -1,6 +1,7 @@
 ---
 fullname: Thibaut Barrère
 role: Développeur
+domaine: Développement
 github: thbar
 avatar: # dispo sur github
 link: https://thibautbarrere.com

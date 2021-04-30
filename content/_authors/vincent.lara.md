@@ -1,6 +1,7 @@
 ---
 fullname: Vincent Lara
 role: Développeur
+domaine: Développement
 link: https://github.com/l-vincent-l
 missions:
   - start: 2015-03-15

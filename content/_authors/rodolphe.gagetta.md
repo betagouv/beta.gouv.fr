@@ -1,6 +1,7 @@
 ---
 fullname: Rodolphe GAGETTA
 role: Chargé de Communication
+domaine: Déploiement
 missions:
   - start: 2021-01-21
     end: 2021-06-30

@@ -1,6 +1,7 @@
 ---
 fullname: Yohan Boniface
 role: Développeur
+domaine: Développement
 github: yohanboniface
 avatar: https://yohanboniface.me/static/img/headshot.png
 link: https://yohanboniface.me
@@ -15,5 +16,5 @@ previously:
   - ban
   - api-drones
   - la-bonne-formation
-  - classes12
+  - classe-a-12
 ---

@@ -1,6 +1,7 @@
 ---
 fullname: remi prebot
 role: Développement produit insertion.data
+domaine: Déploiement
 github: rprebot
 missions:
   - start: 2021-01-19

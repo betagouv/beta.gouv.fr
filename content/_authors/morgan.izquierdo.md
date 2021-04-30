@@ -1,6 +1,7 @@
 ---
 fullname: Morgan Izquierdo
 role: Coach (investigation)
+domaine: Coaching
 github: morganizquierdo
 missions:
   - start: 2020-10-14

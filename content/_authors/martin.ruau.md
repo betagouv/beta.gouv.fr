@@ -1,6 +1,7 @@
 ---
 fullname: Martin Ruau 
 role: Intrapreneur de la transition écologique
+domaine: Intraprenariat
 github: MartinRUAU 
 avatar: 
 link: https://www.linkedin.com/in/martin-ruau-a07529155/ 

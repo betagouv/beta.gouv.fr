@@ -1,6 +1,7 @@
 ---
 fullname: Julien Racine
 role: CTO incubateur Pole Emploi
+domaine: Animation
 missions:
   - start: 2016-10-01
     end:

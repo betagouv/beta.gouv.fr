@@ -1,6 +1,7 @@
 ---
 fullname: Elodie Desbat
 role: Coach
+domaine: Coaching
 missions:
   - start: 2020-11-04
     end: 2021-12-20

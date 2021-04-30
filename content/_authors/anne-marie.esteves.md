@@ -1,6 +1,7 @@
 ---
 fullname: Anne-Marie Esteves
 role: Développeuse
+domaine: Développement
 missions:
   - start: 2016-06-16
     end: 2019-12-31

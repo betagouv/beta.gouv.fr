@@ -1,6 +1,7 @@
 ---
 fullname: Allison Chanat
 role: Chargée de développement
+domaine: Déploiement
 missions:
   - start: 2016-11-01
     end: 2017-07-01

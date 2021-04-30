@@ -1,6 +1,7 @@
 ---
 fullname: Raphaëlle Gaillard
 role: Chargée de développement
+domaine: Déploiement
 missions:
   - start: 2016-11-01
     end:
