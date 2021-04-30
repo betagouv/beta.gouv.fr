@@ -1,7 +1,6 @@
 ---
 fullname: Nicolas Enjalbert
 domaine: Coaching
-description: Coach investigation & construction produit
 github: nenj
 link: https://www.linkedin.com/in/nicolas-enjalbert/
 missions:
@@ -11,7 +10,7 @@ missions:
     employer: NUMA
 competences:
   - Coaching
-role: Coach
+role: Coach investigation & construction produit
 startups:
   - ideaule.informations.sur.les.dossiers.et.les.actes.uniques.loi.sur.l.eau
 ---
