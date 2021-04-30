@@ -5,7 +5,7 @@
 
 .home-section-blue h1,
 .home-section-blue h2,
-.home-section-blue h3,
+.home-section-blue h3:not(.fr-card__title),
 .home-section-blue h4:not(.fr-card__title),
 .home-section-blue .home-section-description {
     color: #fff;
