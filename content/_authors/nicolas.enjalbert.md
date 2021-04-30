@@ -12,6 +12,6 @@ competences:
   - Coaching
 role: Coach investigation & construction produit
 startups:
-  - ideaule.informations.sur.les.dossiers.et.les.actes.uniques.loi.sur.l.eau
+  - ideaule
 ---
 Designer de services & coach produit, fan de visualisation de données, engagé bénévole pour un design plus responsable
