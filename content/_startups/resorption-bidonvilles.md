@@ -58,6 +58,4 @@ Après un mois d'utilisation, les résultats sont les suivants :
 
 ### Déploiement national
 
-L'objectif est désormais de déployer la plateforme Résorption bidonvilles sur l'ensemble des territoires concernés par la présences de bidonvilles (40 départements en France métropolitaine) en s'appuyant sur les correspondants territoriaux de la Dihal.
-
 Nous travaillons également au développement d'une nouvelle partie de la plateforme permettant de suivre précisément les différentes actions sociales menées sur les bidonvilles afin de soutenir les territoires dans la mise en place de stratégies globales de résorption des bidonvilles.
