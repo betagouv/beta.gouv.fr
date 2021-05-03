@@ -3,10 +3,12 @@ roles: un ou une bizdev
 startup: mobilic 
 junior: true # 
 open: true #
-title: Mobilic recherche un.e bizdev 
+title: Mobilic recherche un.e bizdev / 
 ---
 
-L’outil Mobilic qui vise à simplifier le suivi du temps de travail des travailleurs mobiles (salarié.es des transports légers) recrute un·e business developer pour l’aider à accélérer son déploiement et l’engagement de ses utilisateurs !
+Veux-tu faire passer une startup d'État à la vitesse supérieure ? On recrute un·e chargé·e de développement (business developer) en freelance !
+
+Ta mission : aider l’outil Mobilic qui vise à simplifier le suivi du temps de travail des travailleurs mobiles (salarié.es des transports légers) à accélérer son déploiement et l’engagement de ses utilisateurs !
 
 # Qui sommes-nous ?
 
@@ -18,7 +20,7 @@ Pourquoi ce sujet est important ? Aujourd’hui le respect de la réglementation
  
 # Comment ?
 
-- en rendant le plus simple la saisie du temps de travail des salariés du transport par VUL (via l’outil Mobilic ou par un outil existant connecté à l’API Mobilic)
+- en rendant le plus simple la saisie du temps de travail des salariés (via l’outil Mobilic ou par un outil existant connecté à l’API Mobilic)
 - en améliorant la transparence sur le sujet du temps de travail dans ce secteur, en informant notamment mieux les employés de leurs droits, les employeurs de la réalité du travail et les clients des entreprises du respect des droits sociaux 
 - en améliorant la qualité des contrôles sur route et au sein des établissements
  
@@ -38,7 +40,7 @@ Après 1 an d’existence, Mobilic est à un moment clé de sa croissance malgr�
   
 Mobilic a d’autres idées derrière la tête pour aller plus loin vers plus de simplicité et de transparence dans le secteur du transport. Le défi est de taille mais l’équipe (1 intra, 1 coach, 1 développeur) est très engagée.
  
-Pour atteindre ces objectifs, nous recherchons un bizdev, déterminé à faire grandir Mobilic le plus possible et toujours à l’écoute des utilisateurs.
+Pour atteindre ces objectifs, nous recherchons un ou une bizdev, déterminé.e à faire grandir Mobilic le plus possible et toujours à l’écoute des utilisateurs.
 
 # Tes missions 
 
@@ -51,17 +53,17 @@ Pour atteindre ces objectifs, nous recherchons un bizdev, déterminé à faire g
 - Organiser des Open Labs (ateliers collaboratifs avec des utilisateurs) avec les partenaires et des entretiens utilisateurs pour recueillir les besoins d’évolution du produit
 - Imaginer les bons supports et canaux de communication (selon les utilisateurs) pour donner envie aux les utilisateurs d’utiliser Mobilic et mener les campagnes de communication pour informer sur les avancées du produit, les évolutions réglementaires associées 
 
-Bien évidemment ce sont les grandes lignes des missions mais le.a bizdév. aura un très fort niveau d’autonomie qui lui permettra d’explorer énormément de pistes pour nous aider à atteindre les objectifs fixés ! Pas de formation type, on cherche quelqu’un que le sujet de déploiement intéresse, qui est curieux d'expérimenter de nouvelles techniques d’acquisition (canaux traditionnels, réseaux sociaux, etc.) et qui a une appétence pour le product management (Mobilic est un produit qui s’améliore sans cesse !). 
+Bien évidemment ce sont les grandes lignes des missions mais le.a bizdev aura un très fort niveau d’autonomie qui lui permettra d’explorer énormément de pistes pour nous aider à atteindre les objectifs fixés ! Pas de formation type, on cherche quelqu’un que le sujet de déploiement intéresse, qui est curieux d'expérimenter de nouvelles techniques d’acquisition (canaux traditionnels, réseaux sociaux, etc.) et qui a une appétence pour le product management (Mobilic est un produit qui s’améliore sans cesse !). 
 
 Si ce qui est raconté ici te donne envie de rejoindre l’aventure : écris- nous ! 
 
 # Conditions
 
-- Contrat : mission de 6 mois, probablement renouvelable !
-- Début de la mission : début mars
-- Durée : 4 jours par semaine
-- Rémunération : on en parle ensemble 
-- Localisation : le poste est basé à Paris, avec possibilité de télétravail bien évidemment
+- Contrat : mission de 6 mois minimum (reconductible)
+- Début de la mission : dès que possible
+- Rythme : 4 jours par semaine
+- Rémunération : TJM entre 250€ et 350€ selon profil (profil intermédiaire recherché, junior accepté)
+- Localisation : en télétravail avec des réunions à Paris (ateliers, réunions hebdo)
 
 # Comment postuler ?
 
