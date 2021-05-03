@@ -9,16 +9,15 @@ sponsors:
     domaine_ministeriel: environnement
 incubator: mtes
 contact: adrien.plantureux@beta.gouv.fr
+events: []
 phases:
   - name: investigation
     end: ""
     start: 2021-04-08
 ---
-
-
 ## Contexte
 
-Les particuliers, entreprises privées et collectivités, porteurs d'un projets d'aménagement ou d'infrastructure qui pourrait affecter les milieux aquatiques, doivent soumettre à l'administration une demande au titre de la loi sur l'eau.
+Les particuliers, entreprises privées et collectivités, porteurs d'un projet d'aménagement ou d'infrastructure qui pourrait affecter les milieux aquatiques, doivent soumettre à l'administration une demande au titre de la loi sur l'eau.
 
 L'ensemble des réglementations et de la gestion associée des milieux aquatiques prennent en compte les adaptations nécessaires au changement climatique et visent à assurer :
 
@@ -45,7 +44,7 @@ Le public (association, usagers, socio-professionnels, collectivités) concerné
 
 ## Stratégie d'exploration
 
-A trois semaines du lancement, l'équipe mène des entretiens avec les acteurs suivants :
+Trois semaines après le lancement de l'investigation, l'équipe mène des entretiens avec les acteurs suivants :
 
 * agents de la police de l'eau en DDT(M) (Directions départementales des territoires et de la mer), en charge de l'instruction des dossiers et de police de l’environnement, administrative notamment.
 * agents de différentes structures, en appui à l'instruction ou en charge de contrôle également (Office Français de la Biodiversité, Agences Régionales de Santé...)

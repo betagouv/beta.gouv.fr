@@ -4,14 +4,14 @@ title: La formation Alpha
 permalink: /approche/formation
   
 # Dates de la prochaine formation
-alpha-start: 2021-05-06
-alpha-end: 2021-05-06
-alpha-time: de 9h30 à 17h30
+alpha-start: 2021-06-17
+alpha-end: 2021-06-17
+alpha-time: de 9h15 à 17h30
 alpha-location: en visio
 alpha-location-link:
 alpha-catering:
 alpha-more:
-alpha-link: https://startupdetat.typeform.com/to/puiaatGh
+alpha-link: https://startupdetat.typeform.com/to/Vy9LsV8t
 redirect_from:
   - /alpha
 ---
@@ -30,9 +30,9 @@ La formation se déroule sur une journée au cours de laquelle vous apprendrez �
 
 * 09h30 : Introduction + présentation du déroulé de la matinée
 * 9h45-10h15 : Le quiz spécial beta.gouv.fr
---- Pause---
+* Pause
 * 10h20 - 11h05 : Présentation et exercices “C’est quoi un bon problème !?! »
----Pause---
+* Pause
 * 11h15 -11h45 : Témoignage d’intrapreneur.se
 * 11h45h - 12h00 : Présentation générale des incubateurs
 * 12h00 - 12h15 : Q&R et présentation du déroulé de l’après-midi
@@ -40,17 +40,19 @@ La formation se déroule sur une journée au cours de laquelle vous apprendrez �
 ---Pause déjeuner---
 
 * 13h45 - 16h00 : Ateliers de codev en sous-groupes
----Pause---
+* Pause
 * 16h10 - 17h25 : Pitch et échanges sur les travaux des équipes
 * 17h25 : le feedback et fin de la formation
+
 ______ Fin à 17h30  _______
 
 **Prochaine session**
-La session du 8 avril est complète !
 
-La prochaine session aura lieu le **jeudi 6 mai 2021**.
+La session du 6 mai est complète !
 
-Vous pouvez vous inscrire [via ce formulaire](https://startupdetat.typeform.com/to/puiaatGh).
+La prochaine session aura lieu le **jeudi 17 juin 2021**.
+
+Vous pouvez vous inscrire [via ce formulaire](https://startupdetat.typeform.com/to/Vy9LsV8t).
 
 Pour plus d’information écrivez-nous à alpha@beta.gouv.fr.
 
