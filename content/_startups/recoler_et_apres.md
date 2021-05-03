@@ -1,5 +1,5 @@
 ---
-title: Récoler et après ?
+title: Collectif Objets
 mission: Améliorer les données des objets monuments historiques pour les valoriser au mieux
 owner: Ministère de la Culture
 incubator: culture
