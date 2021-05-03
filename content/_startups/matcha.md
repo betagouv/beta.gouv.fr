@@ -1,12 +1,12 @@
 ---
 title: Matcha
 mission: "Susciter des recrutements en apprentissage"
-owner: Délégation générale à l'emploi et à la formation professionnelle
+owner: Mission intermnistérielle pour l'apprentissage
 sponsors:
   - name: "Ministère du travail, de l'emploi et de l'insertion "
     type: administration-centrale
     domaine_ministeriel: travail
-incubator: mission-apprentissage
+incubator: mission-interministérielle-pour-l-apprentissage.md
 link: 
 repository: https://github.com/mission-apprentissage/matcha-azure
 contact: apprentissage@beta.gouv.fr
@@ -18,24 +18,21 @@ phases:
   - name: construction
     start: 2021-07-01
 ---
+Matcha vise à faciliter l’expression de besoin de recrutements chez les TPE et PME qui peinent à recruter alors que des profils de jeunes apprentis pourraient correspondre à leurs besoins.
 
-## Contexte
+## Le constat
 
-En 2019, la France comptait près de 500 000 apprentis. Dans le cadre de la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel qui inclut une réforme de l’apprentissage, ce contrat est de plus en plus sollicité par les entreprises. La réforme assouplit les règles de recrutement pour les entreprises, et permet de simplifier l’accès aux aides disponibles. Le montant de ces aides a augmenté suite à la crise du Covid 19 et elles ont été étendues à un public plus large. La réforme attribue également un bonus pour les ETI et Grandes entreprises qui dépassent 5% d’apprentis.
+En 2020, plus de 495 000 contrats d’apprentissage ont été signés. La loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel, qui inclut une réforme de l’apprentissage, a assoupli les règles de recrutement pour les entreprises et a permis de simplifier l’accès aux aides disponibles. Le plan France Relance, en 2020, a renforcé le montant de ces aides et les a étendu à un public plus large. 
 
-## Problème
-
-Pourtant, au terme d’une investigation auprès de plusieurs dizaines de TPE et PME nous avons appris qu’elles peinent à recruter alors que de jeunes apprentis pourraient correspondre à leurs besoins. 
-
-Elles ont des besoins de main d’oeuvre qu’elles ne communiquent pas systématiquement pour des raisons de contraintes de temps, de coûts, ou de méconnaissance des modalités de l’apprentissage. La conversion d’un besoin de main d’oeuvre en une émission d’offre n’est donc pas automatique, et l’offre et la demande ne se rencontrent pas toujours.
-
-Aujourd’hui, face au manque d’offres émises par les entreprises, les jeunes prennent le parti d’envoyer des candidatures spontanées, et certains CFA de transmettre les CV des jeunes inscrits chez eux. Mais, lors de cette tentative de prise de contact, plusieurs freins empêchent l’offre et la demande de se rencontrer réellement, et donc les entreprises de trouver réponse à leurs besoins :
-
-* La difficulté des jeunes à identifier les entreprises qui recrutent pour les métiers qu’ils préparent ; 
-* Le fond et la forme des candidatures envoyées par les jeunes et transmises par les CFA : un manque de personnalisation en fonction de l’entreprise, une méconnaissance du secteur, du métier ou de l’entreprise, une incapacité à expliquer clairement le cadre de l’apprentissage, et donc une mauvaise communication auprès de l’entreprise.
+Pourtant, malgré ce cadre facilitateur, une investigation auprès de plusieurs dizaines de très petites entreprises (TPE) et petites ou moyennes entreprises (PME) a montré qu’elles peinent à recruter des jeunes en apprentissage. Elles ont des besoins de main-d'œuvre qu’elles ne communiquent pas systématiquement en raison de contraintes de temps, de coûts, ou de méconnaissance des modalités de l’apprentissage.
 
 ## Solution
 
-Après plusieurs itérations ayant eu pour objectif de récolter des besoins de recrutements de TPE et PME et de les mettre en relation directe avec des profils de jeunes ayant fait des voeux en apprentissage sur ParcourSup, l'équipe a choisi de pivoter pour se focaliser sur l'expression et la mise en visibilité de besoins exprimés par des entreprises à leurs opérateurs de compétences, les OPCO.
+Au fil des itérations sur le service Matcha, la consultation de plusieurs dizaines de chefs de TPE et PME a entraîné le maquettage et la création de différents formulaires de recueil de besoins de recrutements en apprentissage. Plusieurs campagnes de diffusion avec différents partenaires ont alors été menées, notamment l’OPCO 2I, pour récolter des expressions de besoins de TPE. L’objectif a été de tester, premièrement, la mécanique d’envoi de mailings et, deuxièmement, la velléité des entreprises à exprimer leurs besoins. 
 
-Elle expérimente donc actuellement avec l'OPCO Atlas la récolte massive des besoins de recrutements de ses entreprises adhérentes afin de les mettre en visibilité sur La Bonne Alternance et sur ParcourSup, pour se placer sur le chemin des potentiel.le.s candidat.e.s et permettre à l'offre et la demande de se rencontrer.
+Récemment, une nouvelle campagne a été lancée auprès de quelques centaines d’entreprises, auxquelles il a été proposé de remplir un formulaire rapide leur permettant d’afficher leurs besoins directement sur le site La bonne alternance, et, à travers cette plateforme et son système d’API et de widget, sur de nombreux portails promouvant l’apprentissage auprès des jeunes et de leur famille. Dans un même temps, le travail avec les OPCO se poursuit pour faire émerger ce nouveau service numérique à partir des retours et besoins des utilisateurs.
+
+## Les bénéfices attendus
+
+1. Donner des chances supplémentaires aux jeunes candidats de trouver un emploi en apprentissage ;
+2. Résoudre certaines difficultés de recrutement ressenties par des employeurs.
