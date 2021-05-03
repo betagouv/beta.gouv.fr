@@ -1,6 +1,7 @@
 ---
 fullname: Christophe Riboulet
 role: Intrapreneur
+domaine: Intraprenariat
 missions:
   - start: 2018-10-01
     end:

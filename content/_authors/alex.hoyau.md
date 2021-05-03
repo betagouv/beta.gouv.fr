@@ -1,6 +1,7 @@
 ---
 fullname: Alex Hoyau
 role: Intrapreneur
+domaine: Intraprenariat
 missions:
   - start: 2020-01-21
     end:

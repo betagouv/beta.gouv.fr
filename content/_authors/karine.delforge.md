@@ -1,6 +1,7 @@
 ---
 fullname: karine delforge
 role: Coach
+domaine: Coaching
 github: karinedelforge
 link: https://iteract.fr/
 missions:

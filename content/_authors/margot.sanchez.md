@@ -1,6 +1,7 @@
 ---
 fullname: Margot Sanchez
 role: Intrapreneure
+domaine: Intraprenariat
 missions:
     - start: 2018-06-04
       end: 2021-12-31

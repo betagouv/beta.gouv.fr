@@ -1,6 +1,7 @@
 ---
 fullname: Mathieu Azar
 role: Chargé d'accompagnement
+domaine: Déploiement
 github: m-azar
 missions:
   - start: 2020-06-15

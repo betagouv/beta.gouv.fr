@@ -1,6 +1,7 @@
 ---
 fullname: Margot de Maulmont
 role: Chargée de développement stagiaire
+domaine: Déploiement
 avatar: https://avatars3.githubusercontent.com/MargotDem?s=600
 missions:
   - start: 2017-07-10

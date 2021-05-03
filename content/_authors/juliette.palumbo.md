@@ -1,6 +1,7 @@
 ---
 fullname: Juliette Palumbo
 role: PO 
+domaine: Produit
 github: juliette-pal
 missions: 
   - start: 2020-09-01 

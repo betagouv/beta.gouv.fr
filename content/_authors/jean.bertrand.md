@@ -1,6 +1,7 @@
 ---
 fullname: Jean Bertrand
 role: Développeur
+domaine: Développement
 github: btrd
 missions:
   - start: 2021-01-01

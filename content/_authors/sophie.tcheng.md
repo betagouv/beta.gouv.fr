@@ -1,6 +1,7 @@
 ---
 fullname: Sophie Tcheng
 role: Intrapreneuse
+domaine: Intraprenariat
 missions:
     - start: 2019-11-01
       end:

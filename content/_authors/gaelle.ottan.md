@@ -1,6 +1,7 @@
 ---
 fullname: Gaëlle Ottan
 role: Chef de produit
+domaine: Produit
 github: gaelleottan
 missions:
   - start: 2019-02-28

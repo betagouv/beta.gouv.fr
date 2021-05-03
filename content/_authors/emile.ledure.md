@@ -1,6 +1,7 @@
 ---
 fullname: Emile Ledure
 role: Coach
+domaine: Coaching
 link: http://emiledure.com/
 missions:
     - start: 2019-11-01

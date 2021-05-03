@@ -1,6 +1,7 @@
 ---
 fullname: Rémy Marronnier
 role: Artisan éleveur de lignes de code / Aime les Rubis sur rails et VueJS
+domaine: Développement
 github: rmarronnier 
 missions: 
   - start: 2019-10-13

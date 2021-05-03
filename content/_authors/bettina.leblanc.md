@@ -1,6 +1,7 @@
 ---
 fullname: Bettina Leblanc
 role: Chargée de déploiement
+domaine: Déploiement
 github: bettinalbc
 missions:
   - start: 2020-09-17

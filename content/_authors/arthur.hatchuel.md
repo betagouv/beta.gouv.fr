@@ -1,6 +1,7 @@
 ---
 fullname: Arthur Hatchuel
 role: Intrapreneur et chef de produit
+domaine: Intraprenariat
 link: https://www.linkedin.com/in/arthur-h-13bb018b/
 github: hatchuel
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !

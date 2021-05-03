@@ -1,6 +1,7 @@
 ---
 fullname: Olivier Maffre
 role: Responsable du déploiement
+domaine: Déploiement
 link: https://github.com/olmaffre
 missions:
   - start: 2020-02-03

@@ -1,6 +1,7 @@
 ---
 fullname: Agnès Haasser
 role: Développeuse
+domaine: Développement
 github: tut-tuuut
 link: https://www.corelka.fr/
 missions:

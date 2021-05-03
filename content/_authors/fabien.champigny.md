@@ -1,6 +1,7 @@
 ---
 fullname: Fabien Champigny
 role: Développeur
+domaine: Développement
 link: http://champigny.name
 missions:
   - start: 2017-02-09

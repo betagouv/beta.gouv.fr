@@ -3,7 +3,7 @@ roles: Chargée ou chargé de communauté
 title: Santé Psy Etudiant recrute une personne en charge de l'animation de communauté
 contrat: indépendant
 startup: sante-psy-etudiant
-open: true
+open: false
 
 ---
 

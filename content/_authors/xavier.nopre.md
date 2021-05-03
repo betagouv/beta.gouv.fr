@@ -1,6 +1,7 @@
 ---
 fullname: Xavier Nopre
 role: Développeur
+domaine: Développement
 missions:
   - start: 2015-10-01
     end: 2018-03-31

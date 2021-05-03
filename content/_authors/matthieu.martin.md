@@ -1,6 +1,7 @@
 ---
 fullname: Matthieu Martin
 role: Illustrateur
+domaine: Design
 link: https://matthieu-martin.fr
 github: MatthieuMARTIN
 missions:

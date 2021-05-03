@@ -1,6 +1,7 @@
 ---
 fullname: Tristram Gräbener
 role: Développeur
+domaine: Développement
 github: Tristramg
 missions:
   - start: 2018-03-01

@@ -1,6 +1,7 @@
 ---
 fullname: Léa Coutray de Pradel
 role: Intrapreneur
+domaine: Intraprenariat
 github: lea64
 missions:
   - start: 2020-07-01
