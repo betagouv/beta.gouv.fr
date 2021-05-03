@@ -17,7 +17,7 @@ sponsors:
   - name: Délégation générale à l'emploi et à la formation professionnelle
     acronym: DGEFP
     type: administration-centrale
-incubator: mission-interministérielle-pour-l-apprentissage
+incubator: mission-apprentissage
 link: https://catalogue.apprentissage.beta.gouv.fr/
 repository: https://github.com/mission-apprentissage/catalogue-apprentissage
 contact: mailto:catalogue@apprentissage.beta.gouv.fr
@@ -30,7 +30,7 @@ Créé pour organiser la collecte des formations en apprentissage, le catalogue 
 
 ## Le constat
 
-IIl n’existe pas de processus assurant le recensement des formations en apprentissage, qui est pourtant un préalable à une information claire et exhaustive des jeunes et des entreprises.
+Il n’existe pas de processus assurant le recensement des formations en apprentissage, qui est pourtant un préalable à une information claire et exhaustive des jeunes et des entreprises.
 
 Chaque partie-prenante (région, OPCO, site d’orientation des jeunes) peut interpeller les CFA dans le désordre, sans format homogène des données et en perturbant les CFA qui ne savent plus à qui répondre.
 
