@@ -1,7 +1,7 @@
 ---
 title: La Bonne Alternance
 mission: Se former et travailler en alternance
-owner: Mission intermnistérielle pour l'apprentissage & Pôle emploi 
+owner: Mission interministérielle pour l'apprentissage & Pôle emploi 
 sponsors: 
     - name: Mission interministérielle pour l'apprentissage
       acronym: MNA
