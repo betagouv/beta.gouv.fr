@@ -214,7 +214,7 @@ collections:
     identifier_field: fullname
     label: "Membres"
     label_singular: "Membre"
-    description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, allez sur le secretariat : https://secretariat.incubateur.net/onboarding .
+    description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, allez sur le secretariat : https://secretariat.incubateur.net/onboarding ."
     folder: "content/_authors"
     create: false
     delete: false
