@@ -1,26 +1,26 @@
 ---
-title: Résorption bidonvilles
 mission: Connaître, partager et agir pour résorber les bidonvilles
-owner: Délégation interministérielle à l'hébergement et à l'accès au logement (DIHAL)
-sponsors: 
-    - name: Délégation interministérielle à l'hébergement et à l'accès au logement
-      acronym: DIHAL
-      domaine_ministeriel: territoires
-      type: administration-centrale
 incubator: mtes
+repository: https://github.com/MTES-MCT/action-bidonvilles
+contact: contact@action-bidonvilles.beta.gouv.fr
+stats_url: https://resorption-bidonvilles.beta.gouv.fr/#/statistiques-publiques
+title: Résorption bidonvilles
+owner: Délégation interministérielle à l'hébergement et à l'accès au logement (DIHAL)
+sponsors:
+  - name: Délégation interministérielle à l'hébergement et à l'accès au logement
+    acronym: DIHAL
+    domaine_ministeriel: territoires
+    type: administration-centrale
+link: http://resorption-bidonvilles.beta.gouv.fr/
+stats: true
 phases:
   - name: investigation
     start: 2018-10-01
   - name: construction
     start: 2018-10-01
   - name: acceleration
-link: http://resorption-bidonvilles.beta.gouv.fr/
-repository: https://github.com/MTES-MCT/action-bidonvilles
-stats: true
-stats_url: https://resorption-bidonvilles.beta.gouv.fr/#/statistiques-publiques
-contact: contact@action-bidonvilles.beta.gouv.fr
+    start: 2021-03-01
 ---
-
 ## La situation actuelle des bidonvilles
 
 Il existe aujourd’hui plus de 500 bidonvilles en France métropolitaine dans lesquels vivent entre 16 000 et 20 000 personnes, dont environ 5 000 mineurs. Ces chiffres restent stables depuis une vingtaine d’années.
@@ -36,9 +36,10 @@ Cela s’explique en grande partie par la multiplicité des acteurs et la diffic
 L’objectif est de créer une plateforme de partage d’informations (localisation et situation des bidonvilles, type et lieux d’actions menées par site, acteurs concernés) entre les différentes parties prenantes (préfectures, DDCS, opérateurs) afin de permettre la mise en place d’un accompagnement pertinent.
 
 Le partage d’informations mises à jour régulièrement permettra :
-- d’identifier quel acteur agit aujourd’hui sur quel bidonville et de quelle manière, afin d’améliorer la pertinence et le ciblage des actions à mener par chacun ;
-- d’avoir une vision consolidée des bidonvilles ne faisant l’objet d’aucune intervention aujourd’hui, et pour lesquels des actions doivent donc être engagées ;
-- d’essaimer les actions qui fonctionnent sur d’autres territoires.
+
+* d’identifier quel acteur agit aujourd’hui sur quel bidonville et de quelle manière, afin d’améliorer la pertinence et le ciblage des actions à mener par chacun ;
+* d’avoir une vision consolidée des bidonvilles ne faisant l’objet d’aucune intervention aujourd’hui, et pour lesquels des actions doivent donc être engagées ;
+* d’essaimer les actions qui fonctionnent sur d’autres territoires.
 
 La vision à long-terme du projet est de permettre de mobiliser l’ensemble des acteurs susceptibles d’intervenir sur le sujet : collectivités, associations bénévoles, citoyens.
 
@@ -47,17 +48,19 @@ La vision à long-terme du projet est de permettre de mobiliser l’ensemble des
 ### Toulouse et Bordeaux
 
 Résorption bidonvilles est actuellement déployée en Haute-Garonne et en Gironde. Ces territoires ont été choisis car ils sont représentatifs des enjeux liés aux bidonvilles au niveau national, en termes :
-- d’acteurs impliqués : services de l’Etat, collectivités, associations ;
-- de types de sites : immeubles et terrains ;
-- de solutions mobilisées : évacuations avec accompagnement des personnes dans le logement, accompagnement sur site, service civique, médiation sanitaire.
+
+* d’acteurs impliqués : services de l’Etat, collectivités, associations ;
+* de types de sites : immeubles et terrains ;
+* de solutions mobilisées : évacuations avec accompagnement des personnes dans le logement, accompagnement sur site, service civique, médiation sanitaire.
 
 Après un mois d'utilisation, les résultats sont les suivants :
-- 100% des sites sur les territoires expérimentaux sont rentrés et suivis via Résorption bidonvilles : 39 sites en Haute-Garonne et 135 en Gironde ;
-- La plateforme est utilisée lors des réunions de suivi en Haute-Garonne : 23 créations de sites, 32 modifications, 2 déclarations de fermeture ;
-- 11 demandes spontanées d'accès à la plateforme ont été formulées dont plusieurs associations, démontrant un intérêt réel pour la plateforme dans les territoires.
+
+* 100% des sites sur les territoires expérimentaux sont rentrés et suivis via Résorption bidonvilles : 39 sites en Haute-Garonne et 135 en Gironde ;
+* La plateforme est utilisée lors des réunions de suivi en Haute-Garonne : 23 créations de sites, 32 modifications, 2 déclarations de fermeture ;
+* 11 demandes spontanées d'accès à la plateforme ont été formulées dont plusieurs associations, démontrant un intérêt réel pour la plateforme dans les territoires.
 
 ### Déploiement national
 
 L'objectif est désormais de déployer la plateforme Résorption bidonvilles sur l'ensemble des territoires concernés par la présences de bidonvilles (40 départements en France métropolitaine) en s'appuyant sur les correspondants territoriaux de la Dihal.
 
-Nous travaillons également au développement d'une nouvelle partie de la plateforme permettant de suivre précisément les différentes actions sociales menées sur les bidonvilles afin de soutenir les territoires dans la mise en place de stratégies globales de résorption des bidonvilles.
+Nous travaillons également au développement d'une nouvelle partie de la plateforme permettant de suivre précisément les différentes actions sociales menées sur les bidonvilles afin de soutenir les territoires dans la mise en place de stratégies globales de résorption des bidonvilles
