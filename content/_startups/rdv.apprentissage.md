@@ -7,7 +7,7 @@ sponsors:
   - name: "Ministère du travail, de l'emploi et de l'insertion "
     type: administration-centrale
     domaine_ministeriel: travail
-incubator: mission-interministérielle-pour-l-apprentissage
+incubator: mission-apprentissage
 link: https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous
 repository: https://github.com/mission-apprentissage/prise-de-rdv
 contact: apprentissage@beta.gouv.fr
