@@ -5,7 +5,7 @@ owner: Mission intermnistérielle pour l'apprentissage & Pôle emploi
 sponsors: 
     - name: Mission interministérielle pour l'apprentissage
       acronym: MNA
-incubator: mission-interministérielle-pour-l-apprentissage.md
+incubator: mission-apprentissage
 phases:
   - name: investigation
     start: 2018-03-19
@@ -22,11 +22,11 @@ redirect_from:
 
 La Bonne Alternance est le premier service qui permet de rechercher simultanément une formation en apprentissage et une entreprise recrutant des alternants. Vous pouvez y accéder directement sur : https://labonnealternance.pole-emploi.fr/
 
-D’abord développé par Pôle Emploi, la Bonne Alternance a été reprise en 2020 par la Mission intermnistérielle pour l'apprentissage afin d'en consolider les données exposées et être étoffée de nouvelles fonctionnalités.
+D’abord développé par Pôle emploi, la Bonne Alternance a été reprise en 2020 par la Mission intermnistérielle pour l'apprentissage afin d'en consolider les données exposées et être étoffée de nouvelles fonctionnalités.
 
 ## Le constat
 
-Une entrée en apprentissage résulte d'un accord entre un candidat, un employeur et un centre de formation en apprentissage (CFA). Jusqu'à présent, les informations sur l'emploi et la formation n'étaient pas réunies, ce qui compliquait les démarches et provoquait des pertes de temps voire des échecs d'orientation, en particulier pour les jeunes les plus fragiles et les moins renseignés.
+Une entrée en alternance résulte d'un accord entre un candidat, un employeur et un centre de formation en apprentissage (CFA). Jusqu'à présent, les informations sur l'emploi et la formation n'étaient pas réunies, ce qui compliquait les démarches et provoquait des pertes de temps voire des échecs d'orientation, en particulier pour les jeunes les plus fragiles et les moins renseignés.
 
 ## La solution
 
@@ -40,9 +40,9 @@ Pour cela, la Bonne Alternance utilise à la fois :
 - Un algorithme prédictif analysant les recrutements passés afin de prédire ceux à venir ; 
 - Les besoins exprimés par de très petites entreprises (TPE) ou des petites et moyennes entreprises (PME) auprès de leur opérateur de compétences (OPCO) dans le cadre de l’expérimentation du produit Matcha.
 
-Au fur et à mesure de l’avancée des travaux de la Mission interministérielle pour l’Apprentissage, de nouvelles fonctionnalités sont ajoutées à ce service pour être testées, comme le module "Prise de rendez-vous Apprentissage” qui accélère la mise en contact entre jeunes et CFA.
+Au fur et à mesure de l’avancée des travaux de la Mission interministérielle pour l’Apprentissage, de nouvelles fonctionnalités sont ajoutées à ce service pour être testées, comme le module "RDV Apprentissage” qui accélère la mise en contact entre jeunes et CFA.
 
-Le service La Bonne Alternance existe également sous forme d'API et de widget, pour que tout ou partie des données exposées puisse être consommée par les plateformes existantes ayant vocation à renseigner sur l'alternance. Le widget est disponible en marque blanche. La documentation sur les API et le widget est à retrouver ici : https://api.gouv.fr/les-api/api-la-bonne-alternance. Cette possibilité maximise la portée du produit : l’accès à ces données est déjà possible depuis Parcours Sup, le portail 1 Jeune 1 Solution, l’ONISEP, certains sites d’OPCO, de conseils régionaux,...
+Le service La Bonne Alternance existe également sous forme d'API et de widget. Les plateformes existantes ayant vocation à renseigner les données peuvent ainsi exposer tout ou partie des données. Le widget est disponible en marque blanche. Cette possibilité maximise la portée du produit : l’accès à ces données est déjà possible depuis Parcours Sup et Affelnet. La documentation sur les API et le widget est à retrouver ici : https://api.gouv.fr/les-api/api-la-bonne-alternance. 
 
 ## Les bénéfices attendus
 
