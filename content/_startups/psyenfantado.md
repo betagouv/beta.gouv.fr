@@ -4,6 +4,9 @@ mission: Permettre un accompagnement psychologique des enfants
 owner: Ministère des Solidarités et de la Santé
 incubator: mas
 contact: psyenfantado@sante.gouv.fr
+phases:
+  - name: investigation
+    start: 2021-05-03
 ---
 
 ## Contexte
