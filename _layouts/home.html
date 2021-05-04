@@ -20,7 +20,10 @@ layout: default
       <div class="fr-col fr-col-12 fr-col-md-6">
         <div class="home-hero-anim">
           <object data="/assets/home/heroanim/screen.svg" id="hero-anim-background"></object>
-          <object data="/assets/home/heroanim/hand1.svg" id="hero-anim-hand-1"></object>    
+          <div id="hero-anim-hand-1-container">
+            <object data="/assets/home/heroanim/hand1-shape.svg" id="hero-anim-hand-1-shape"></object>   
+            <object data="/assets/home/heroanim/hand1.svg" id="hero-anim-hand-1"></object>
+          </div>
           <object data="/assets/home/heroanim/hand2.svg" id="hero-anim-hand-2"></object>
           <object data="/assets/home/heroanim/hand3.svg" id="hero-anim-hand-3"></object>
         </div>
@@ -215,6 +218,41 @@ layout: default
     </div>
   </div>
 </section>
+<script type="text/javascript">
+  var hand1 = document.getElementById('hero-anim-hand-1');
+  var hand2 = document.getElementById('hero-anim-hand-2');
+  var hand3 = document.getElementById('hero-anim-hand-3');
+  var herobg = document.getElementById('hero-anim-background');
+  var teambg = document.getElementsByClassName('home-team-animation-background');
+  var teamcontainer = document.getElementsByClassName('home-section-blue')[1];
+  window.addEventListener('scroll', function() {
+    var value = window.scrollY
+    var containerElement = teamcontainer.getBoundingClientRect()
+    var bodyRect = document.body.getBoundingClientRect();
+    var offset = containerElement.top - (bodyRect.top + window.innerHeight);
+    if (value > offset && value < (containerElement.top + window.innerHeight - bodyRect.top)) {
+      const val = value - containerElement.height;  
+      for (var i = 0; i < teambg.length; i++) {
+        teambg[i].style.transform = 'scale('+ (1 + ((0.2*val)/containerElement.height)) + ')';
+      }
+    }
+    if (value < 300) {
+      // hand1.style.transform = 'translateX(' + (-value * 0.2) + 'px)';
+      const svg = document.querySelector('#hero-anim-hand-1-container')
+      // const l = svg.children[0];
+      // const test = l.getBBox()
+      svg.style.transform = 'translateX(' + (-value * 0.4) + 'px)';
+      const svg2 = document.querySelector('#hero-anim-hand-2')
+      svg2.style.transform = 'translateX(' + (-value * 0.3) + 'px)';
+
+      const svg3 = document.querySelector('#hero-anim-hand-3')
+      svg3.style.transform = 'translate(' + (-value * 0.2) + 'px,' + (-value * 0.1) + 'px )';
+      // l.style.transformOrigin = `${test.x + test.width/2}px ${test.y + test.height/2}px`;
+      // l.style.animation = 'spin 4s linear infinite'
+    }
+  })
+
+</script>
 <!-- <section class="fr-py-12w newsletter">
   <div class="fr-container">
     <form method="post" action="https://app.mailjet.com/widget/iframe/1O2v/9ud" id="newsletter">
