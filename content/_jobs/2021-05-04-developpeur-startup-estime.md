@@ -34,9 +34,13 @@ Il s’agit donc :
 * d’intervenir majoritairement sur le développement de l’application développée en Typescript avec le framework Angular pour la partie frontend et en Java avec le framework Spring Boot pour la partie backend
 * de participer activement à la vie du projet en étant acteur durant nos différents rituels d’organisation (mêlées quotidiennes, backlog refinement, démo, rétro, etc.).
 
-Nous acceptons les profils junior, notre CTO assurera votre montée en compétences sous forme d'ateliers tech.
+# Les atouts du candidat
 
-# Notre contexte technique
+* Vous avez à cœur de rendre un service de qualité et avez toujours en tête l’utilisateur final lorsque vous travaillez
+* Vous êtes autonome, et vous avez envie de vous impliquer dans l’auto-organisation de l’équipe et la co-construction d’un produit
+* Les problématiques autour des données financières vous intéressent ou pourraient vous intéresser
+
+# Les compétences tech attendus
 
 Vous devrez être à l'aise avec :
 *  les langages HTML et SCSS avec Bootstrap
@@ -52,11 +56,7 @@ Un plus, serait de connaître :
 
 Pour plus d’informations sur notre stack technique, consulter la documentation de notre projet consultable sur [GitHub - Stratups Pôle emploi - Estime](https://github.com/StartupsPoleEmploi/estime-frontend).
 
-# Les atouts du candidat
-
-* Vous avez à cœur de rendre un service de qualité et avez toujours en tête l’utilisateur final lorsque vous travaillez
-* Vous êtes autonome, et vous avez envie de vous impliquer dans l’auto-organisation de l’équipe et la co-construction d’un produit
-* Les problématiques autour des données financières vous intéressent ou pourraient vous intéresser
+👍 Nous acceptons les profils junior, notre CTO assurera votre montée en compétences sous forme d'ateliers tech.
 
 # Modalités du poste
 
