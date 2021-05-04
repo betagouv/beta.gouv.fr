@@ -145,21 +145,14 @@
     .home-hero-anim {
         display: none;
     }
+    .home-section-principle-animation {
+        width: 90%;
+        height: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .home-team-animation-container {
+        max-height: 130px;
+    }
 }
-
-/* .home-hero-anim:hover #hero-anim-hand-1{
-    transform: translateX(-30px); 
-    transition-delay: 0.2s;
-}
-.home-hero-anim:hover #hero-anim-hand-1-shape{
-    transform: translateX(-30px); 
-    transition-delay: 0.2s;
-} */
-/* .home-hero-anim:hover #hero-anim-hand-2{
-    transform: translateX(-40px); 
-    transition-delay: 0.0s;
-}
-.home-hero-anim:hover #hero-anim-hand-3{
-    transform: translateX(-50px); 
-    transition-delay: 0.1s;
-} */
