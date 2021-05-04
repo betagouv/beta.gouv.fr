@@ -12,9 +12,6 @@ junior: true
 open: true 
 ---
 
-![Logo Estime](https://github.com/StartupsPoleEmploi/estime-frontend/blob/master/.gitlab/images/logo_estime_v2.png?width=5pc&classes=shadow)
-
-
 # Qui sommes-nous ?
 
 Estime est une startup incubée au sein de la Direction de l’Expérience Utilisateur et du Digital (DEUD) de Pôle emploi et fait partie de la communauté beta.gouv.
@@ -66,6 +63,6 @@ Pour plus d’informations sur notre stack technique, consulter la documentation
 
 Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV et votre GitHub si vous en avez un, le tout à jeremie.lanceleur@pole-emploi.fr avec en copie juliette.fracchiolla-hurstel@pole-emploi.fr
 
-À bientôt ! :smiley:
+À bientôt ! 😀
 
 
