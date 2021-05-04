@@ -39,15 +39,16 @@ Nous acceptons les profils junior, notre CTO assurera votre montée en compéten
 # Notre contexte technique
 
 Vous devrez être à l'aise avec :
-*  le langage **Typescript** et le framework **Angular**
-*  le langage **Java** et le framework **Spring Boot**
-*  le logiciel de gestion de versions **git** 
+*  les langages HTML et SCSS avec Bootstrap
+*  le langage Typescript avec le framework Angular
+*  le langage Java avec le framework Spring Boot
+*  le logiciel de gestion de versions git 
 *  la qualité logicielle et les bonnes pratiques de développement de notre stack technique
-*  l’écriture de tests unitaires et de tests e2e avec **Cypress**
+*  l’écriture de tests unitaires et de tests e2e avec Cypress
 
 Un plus, serait de connaître :
-* l’outil de build et de déploiement continus **GitLab CI**
-* l’outil de conteneurisation **Docker**
+* l’outil de build et de déploiement continus GitLab CI
+* l’outil de conteneurisation Docker
 
 Pour plus d’informations sur notre stack technique, consulter la documentation de notre projet consultable sur [GitHub - Stratups Pôle emploi - Estime](https://github.com/StartupsPoleEmploi/estime-frontend).
 
