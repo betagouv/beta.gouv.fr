@@ -28,6 +28,10 @@
     text-align: center;
 }
 
+.home-section-main {
+    min-height: 400px;
+}
+
 .home-section-main h1 {
     color: white;
     text-align: left;
@@ -154,6 +158,9 @@
 @keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
 
 @media (max-width: 749px) {
+    .home-section-main {
+        min-height: none;
+    }
     .home-hero-anim {
         display: none;
     }
