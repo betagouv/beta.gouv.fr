@@ -1,7 +1,13 @@
 ---
 roles: une développeuse ou un développeur full stack
 startup: Estime
-techno: Typescrypt(Angular) + Java(Spring Boot)
+techno: 
+ - HTML, SCSS, Bootstrap
+ - Typescrypt, Angular
+ - Java, Spring Boot
+ - Docker
+ - git
+ - GitLab CI
 junior: true
 open: true 
 ---
