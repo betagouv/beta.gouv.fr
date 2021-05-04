@@ -1,6 +1,6 @@
 ---
 title: Devoirs Faits la Communauté
-mission: Faciliter les échanges de pratiques entre pairs autour du dispositif \"devoirs faits\".
+mission: Faciliter les échanges de pratiques entre pairs autour du dispositif « devoirs faits ».
 owner: Ministère de l'Éducation nationale
 sponsors: 
     - name: Direction générale de l'enseignement scolaire
