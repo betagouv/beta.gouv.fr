@@ -2,7 +2,7 @@
 roles: un ou une bizdev
 startup: mobilic 
 junior: true # 
-open: true #
+open: false #
 title: Mobilic recherche un.e bizdev 
 ---
 
