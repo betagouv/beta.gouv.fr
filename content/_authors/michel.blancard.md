@@ -9,6 +9,7 @@ missions:
     status: admin
     employer: dinum
   - start: 2019-04-01
+    end: 2021-06-30
     status: independent
     employer: Ministère des affaires étrangères
 startups:
