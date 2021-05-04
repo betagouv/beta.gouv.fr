@@ -15,9 +15,7 @@ open: true
 # Qui sommes-nous ?
 
 Estime est une startup incubée au sein de la Direction de l’Expérience Utilisateur et du Digital (DEUD) de Pôle emploi et fait partie de la communauté beta.gouv.
-
-Notre startup met à disposition des demandeurs d’emploi bénéficiaires de minima-sociaux, un simulateur (https://estime.pole-emploi.fr/) qui a pour objectif de les informer sur les aides existantes afin de lutter contre le non recours et de les rassurer en leur donnant une estimation de leurs ressources financières et des aides possibles sur 6 mois en cas de reprise d’emploi.  
-
+Notre startup met à disposition des demandeurs d’emploi bénéficiaires de minima-sociaux, un simulateur (https://estime.pole-emploi.fr/) qui a pour objectif de les informer sur les aides existantes afin de lutter contre le non recours et de les rassurer en leur donnant une estimation de leurs ressources financières et des aides possibles sur 6 mois en cas de reprise d’emploi.
 Pour en savoir plus, consulter la [fiche Estime beta.gouv](https://beta.gouv.fr/startups/estime.html).
 
 # Nous rejoindre
