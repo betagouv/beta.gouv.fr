@@ -11,6 +11,8 @@ events:
     date: 2021-05-07
     comment: Lancement de Mon Suivi Justice pour une première phase de 6 mois.
 phases:
+  - name: investigation
+    start: 2020-10-04
   - name: construction
     start: 2021-03-31
 ---
