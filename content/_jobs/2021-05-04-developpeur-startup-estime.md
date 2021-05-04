@@ -25,21 +25,20 @@ Pour en savoir plus, consulter la [fiche Estime beta.gouv](https://beta.gouv.fr/
 Vous souhaitez rejoindre l’équipe qui développe ce simulateur. Nous sommes actuellement une équipe de 6 personnes répartis entre Paris, Nantes et Strasbourg avec un développeur et un CTO travaillant sur la partie tech.
 
 Nous recherchons une personne pour nous aider à atteindre les objectifs suivants :
-
 * intégrer de nouvelles populations (bénéficiaires de l’Allocation de Retour à l’Emploi) 
 * intégrer de nouvelles aides en fonction de l’avancée des recherches utilisateurs
 * améliorer les fonctionnalités et le design du service existant  
 * intégrer de nouvelles API pour faciliter le parcours utilisateur en récupérant plus de données de manière automatique  
 
 Il s’agit donc :
-
 * d’intervenir majoritairement sur le développement de l’application développée en Typescript avec le framework Angular pour la partie frontend et en Java avec le framework Spring Boot pour la partie backend
-* de participer activement à la vie du projet en étant acteur durant nos différents rituels d’organisation (mêlées quotidiennes, backlog refinement, démo, rétro, etc.)
+* de participer activement à la vie du projet en étant acteur durant nos différents rituels d’organisation (mêlées quotidiennes, backlog refinement, démo, rétro, etc.).
+
+Nous acceptons les profils junior, notre CTO assurera votre montée en compétences sous forme d'ateliers tech.
 
 # Notre contexte technique
 
-Pour nous rejoindre, vous devez être à l'aide avec :
-
+Vous devrez être à l'aise avec :
 *  le langage **Typescript** et le framework **Angular**
 *  le langage **Java** et le framework **Spring Boot**
 *  le logiciel de gestion de versions **git** 
@@ -47,7 +46,6 @@ Pour nous rejoindre, vous devez être à l'aide avec :
 *  l’écriture de tests unitaires et de tests e2e avec **Cypress**
 
 Un plus, serait de connaître :
-
 * l’outil de build et de déploiement continus **GitLab CI**
 * l’outil de conteneurisation **Docker**
 
