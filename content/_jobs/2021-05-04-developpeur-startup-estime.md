@@ -40,7 +40,7 @@ Il s’agit donc :
 * Vous êtes autonome, et vous avez envie de vous impliquer dans l’auto-organisation de l’équipe et la co-construction d’un produit
 * Les problématiques autour des données financières vous intéressent ou pourraient vous intéresser
 
-# Les compétences tech attendus
+# Les compétences tech attendues
 
 Vous devrez être à l'aise avec :
 *  les langages HTML et SCSS avec Bootstrap
