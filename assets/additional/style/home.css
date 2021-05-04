@@ -141,6 +141,12 @@
 @-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
 @keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
 
+@media (max-width: 749px) {
+    .home-hero-anim {
+        display: none;
+    }
+}
+
 /* .home-hero-anim:hover #hero-anim-hand-1{
     transform: translateX(-30px); 
     transition-delay: 0.2s;
