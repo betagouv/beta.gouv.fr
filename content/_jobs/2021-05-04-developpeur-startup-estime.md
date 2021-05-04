@@ -15,7 +15,9 @@ open: true
 # Qui sommes-nous ?
 
 Estime est une startup incubée au sein de la Direction de l’Expérience Utilisateur et du Digital (DEUD) de Pôle emploi et fait partie de la communauté beta.gouv.
+
 Notre startup met à disposition des demandeurs d’emploi bénéficiaires de minima-sociaux, un simulateur (https://estime.pole-emploi.fr/) qui a pour objectif de les informer sur les aides existantes afin de lutter contre le non recours et de les rassurer en leur donnant une estimation de leurs ressources financières et des aides possibles sur 6 mois en cas de reprise d’emploi.
+
 Pour en savoir plus, consulter la [fiche Estime beta.gouv](https://beta.gouv.fr/startups/estime.html).
 
 # Nous rejoindre
@@ -54,6 +56,15 @@ Pour plus d’informations sur notre stack technique, consulter la documentation
 * Vous avez à cœur de rendre un service de qualité et avez toujours en tête l’utilisateur final lorsque vous travaillez
 * Vous êtes autonome, et vous avez envie de vous impliquer dans l’auto-organisation de l’équipe et la co-construction d’un produit
 * Les problématiques autour des données financières vous intéressent ou pourraient vous intéresser
+
+# Modalités du poste
+
+* Poste ouvert pour un·e indépendant·e uniquement
+* Contrat de 6 mois à temps complet
+* Démarrage souhaité pour début juin 2021
+* Organisation en télétravail
+* Des déplacements sur Paris avec une journée d’échanges entre startups est prévue le mardi tous les 15 jours à Montreuil. D’autres déplacements ponctuels sont à prévoir (team building, etc.).
+
 
 # Candidater
 
