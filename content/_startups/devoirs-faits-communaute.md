@@ -1,6 +1,6 @@
 ---
 title: Devoirs Faits la Communauté
-mission: Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves.
+mission: Faciliter les échanges de pratiques entre pairs autour du dispositif "devoirs faits".
 owner: Ministère de l'Éducation nationale
 sponsors: 
     - name: Direction générale de l'enseignement scolaire
