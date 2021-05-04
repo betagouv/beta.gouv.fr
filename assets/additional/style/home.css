@@ -169,19 +169,11 @@
     }
 }
 
-/* .home-hero-anim:hover #hero-anim-hand-1{
-    transform: translateX(-30px); 
-    transition-delay: 0.2s;
+#newsletter {
+    text-align: center;
 }
-.home-hero-anim:hover #hero-anim-hand-1-shape{
-    transform: translateX(-30px); 
-    transition-delay: 0.2s;
-} */
-/* .home-hero-anim:hover #hero-anim-hand-2{
-    transform: translateX(-40px); 
-    transition-delay: 0.0s;
+
+#newsletter input {
+    display: inline-block;
+    width: auto;
 }
-.home-hero-anim:hover #hero-anim-hand-3{
-    transform: translateX(-50px); 
-    transition-delay: 0.1s;
-} */

@@ -217,15 +217,24 @@ layout: default
   </div>
 </section>
 <hr>
-<section class="fr-py-12w newsletter">
+<section class="fr-py-6w newsletter">
   <div class="fr-container">
     <form method="post" action="https://app.mailjet.com/widget/iframe/1O2v/9ud" id="newsletter">
+      <h4>Gardons le contact</h4>
+      <p>Recevez les actualités de Beta.Gouv, tous les mois</p>
+
       <input type="hidden" id="csrf_token" name="csrf_token" value="MmE2NTZkNWQ0MGQ0Y2IzOWQyZTllOWUxZGI2OWJhMTM2OTJhMDRjNzJjYjM5NWQ4MTRkM2UwNmRlYzBjM2RiYg==">
       <div class="fr-input-group">
-        <label for="subscribe-email" class="fr-label" aria-label="Renseignez votre adresse e-mail pour recevoir nos annonces">En renseignant votre adresse mail, vous recevrez régulièrement nos actualités. Vous pourrez à tout moment vous désinscrire de nos envois :</label>
-        <input required="" class="fr-input" type="email" autocomplete="on" id="subscribe-email" name="w-field-field-36469-172104-430683-email" placeholder="votre@email.fr" />
+        <input required=""
+          class="fr-input"
+          type="email"
+          autocomplete="on"
+          id="subscribe-email"
+          name="w-field-field-36469-172104-430683-email"
+          placeholder="entrer votre adresse email" />
+        <button class="fr-btn" type="submit" name="subscribe" id="form-submit">S’inscrire</button>
+
       </div>
-      <button class="fr-btn" type="submit" name="subscribe" id="form-submit">Je m'inscris à la newsletter de beta.gouv.fr</button>
     </form>
   </div>
 </section>
@@ -247,28 +256,16 @@ layout: default
         teambg[i].style.transform = 'scale('+ (1 + ((0.2*val)/containerElement.height)) + ')';
       }
     }
-    if (value < 300) {
-      // hand1.style.transform = 'translateX(' + (-value * 0.2) + 'px)';
-      const svg = document.querySelector('#hero-anim-hand-1-container')
-      // const l = svg.children[0];
-      // const test = l.getBBox()
-      svg.style.transform = 'translateX(' + (-value * 0.4) + 'px)';
-      const svg2 = document.querySelector('#hero-anim-hand-2')
-      svg2.style.transform = 'translateX(' + (-value * 0.3) + 'px)';
+    // animation on hero banner
+    // if (value < 300) {
+    //   const svg = document.querySelector('#hero-anim-hand-1-container')
+    //   svg.style.transform = 'translateX(' + (-value * 0.4) + 'px)';
+    //   const svg2 = document.querySelector('#hero-anim-hand-2')
+    //   svg2.style.transform = 'translateX(' + (-value * 0.3) + 'px)';
 
-      const svg3 = document.querySelector('#hero-anim-hand-3')
-      svg3.style.transform = 'translate(' + (-value * 0.2) + 'px,' + (-value * 0.1) + 'px )';
-
-      // const svg4 = document.querySelector('#hero-anim-hand-1-shape')
-      // if (svg4.style.animation) {
-      //   svg4.style.animation = ''
-      // } else {
-      //   svg4.style.animation = 'spin 1s linear 1'
-      // }
-      // svg4.style.transform = 'rotate(' + (value * 1.2) + 'deg )';
-      // l.style.transformOrigin = `${test.x + test.width/2}px ${test.y + test.height/2}px`;
-      // l.style.animation = 'spin 4s linear infinite'
-    }
+    //   const svg3 = document.querySelector('#hero-anim-hand-3')
+    //   svg3.style.transform = 'translate(' + (-value * 0.2) + 'px,' + (-value * 0.1) + 'px )';
+    // }
   })
 
 </script>
