@@ -56,6 +56,13 @@ Pour plus d’informations sur notre stack technique, consulter la documentation
 * Vous êtes autonome, et vous avez envie de vous impliquer dans l’auto-organisation de l’équipe et la co-construction d’un produit
 * Les problématiques autour des données financières vous intéressent ou pourraient vous intéresser
 
+# Modalités du poste
+
+* Poste ouvert pour un·e indépendant·e uniquement
+* Contrat de 6 mois à temps complet, à partir de début juin 2021
+* Organisation en télétravail
+* Des déplacements sur Paris avec une journée d’échanges entre startups est prévue le mardi tous les 15 jours à Montreuil. D’autres déplacements ponctuels sont à prévoir (team building, etc.).
+
 # Candidater
 
 Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV et votre GitHub si vous en avez un, le tout à jeremie.lanceleur@pole-emploi.fr avec en copie juliette.fracchiolla-hurstel@pole-emploi.fr
