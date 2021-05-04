@@ -105,7 +105,8 @@
 #hero-anim-hand-1,
 #hero-anim-hand-1-shape,
 #hero-anim-hand-2,
-#hero-anim-hand-3 {
+#hero-anim-hand-3,
+#hero-anim-hand-1-container {
     position: absolute;
     transition: all 0.5s ease-out ;
 }
@@ -122,7 +123,7 @@
 }
 
 #hero-anim-hand-1-shape {
-    animation: spin 4s linear infinite;
+    /* animation: spin 4s linear infinite; */
     right: 85px;
     top: 35px;
 }
@@ -156,3 +157,20 @@
         max-height: 130px;
     }
 }
+
+/* .home-hero-anim:hover #hero-anim-hand-1{
+    transform: translateX(-30px); 
+    transition-delay: 0.2s;
+}
+.home-hero-anim:hover #hero-anim-hand-1-shape{
+    transform: translateX(-30px); 
+    transition-delay: 0.2s;
+} */
+/* .home-hero-anim:hover #hero-anim-hand-2{
+    transform: translateX(-40px); 
+    transition-delay: 0.0s;
+}
+.home-hero-anim:hover #hero-anim-hand-3{
+    transform: translateX(-50px); 
+    transition-delay: 0.1s;
+} */
