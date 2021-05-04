@@ -10,7 +10,7 @@ layout: default
       <div class="fr-col fr-col-12 fr-col-md-6">
         <h1>Administrations publiques,<br> venez mieux contruire vos solutions numériques avec nous !</h1>
 
-        <button class="fr-btn fr-btn--lg fr-enlarge-link fr-btn--secondary home-button-white">
+        <button class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary home-button-white">
           <a href="/approche">Découvrir le programme</a>
         </button>
       </div>
@@ -62,7 +62,7 @@ layout: default
       {% endfor %}
     </div>
     <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-pt-6w">
-      <button class="fr-btn fr-btn--lg fr-enlarge-link fr-btn--secondary">
+      <button class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary">
         <a href="/startups">Voir toutes nos réalisations</a>
         
       </button>
@@ -181,7 +181,7 @@ layout: default
     </div>  
   </div>
   <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-pt-6w">
-    <button class="fr-btn fr-btn--lg home-button-white-border fr-btn--secondary fr-enlarge-link">
+    <button class="fr-btn fr-btn--md home-button-white-border fr-btn--secondary fr-enlarge-link">
       <a href="/recrutement">Nous rejoindre</a>
     </button>
   </div>
@@ -211,11 +211,23 @@ layout: default
         <p class="home-section-principle-list-item">
           <span class="home-section-principle-list-item-number">3.</span>
           <span class="home-section-principle-list-item-content">Nous faisons confiance aux agents publics et à leurs équipes, qui travaillent au plus près du terrain.</span></p>
-        <button class="fr-btn fr-btn--lg fr-btn--secondary fr-enlarge-link">
+        <button class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link">
           <a href="/approche/manifeste">Lire notre manifeste</a>
         </button>
       </div>      
     </div>
+  </div>
+</section>
+<section class="fr-py-12w newsletter">
+  <div class="fr-container">
+    <form method="post" action="https://app.mailjet.com/widget/iframe/1O2v/9ud" id="newsletter">
+      <input type="hidden" id="csrf_token" name="csrf_token" value="MmE2NTZkNWQ0MGQ0Y2IzOWQyZTllOWUxZGI2OWJhMTM2OTJhMDRjNzJjYjM5NWQ4MTRkM2UwNmRlYzBjM2RiYg==">
+      <div class="fr-input-group">
+        <label for="subscribe-email" class="fr-label" aria-label="Renseignez votre adresse e-mail pour recevoir nos annonces">En renseignant votre adresse mail, vous recevrez régulièrement nos actualités. Vous pourrez à tout moment vous désinscrire de nos envois :</label>
+        <input required="" class="fr-input" type="email" autocomplete="on" id="subscribe-email" name="w-field-field-36469-172104-430683-email" placeholder="votre@email.fr" />
+      </div>
+      <button class="fr-btn" type="submit" name="subscribe" id="form-submit">Je m'inscris à la newsletter de beta.gouv.fr</button>
+    </form>
   </div>
 </section>
 <script type="text/javascript">
@@ -253,15 +265,4 @@ layout: default
   })
 
 </script>
-<!-- <section class="fr-py-12w newsletter">
-  <div class="fr-container">
-    <form method="post" action="https://app.mailjet.com/widget/iframe/1O2v/9ud" id="newsletter">
-      <input type="hidden" id="csrf_token" name="csrf_token" value="MmE2NTZkNWQ0MGQ0Y2IzOWQyZTllOWUxZGI2OWJhMTM2OTJhMDRjNzJjYjM5NWQ4MTRkM2UwNmRlYzBjM2RiYg==">
-      <div class="fr-input-group">
-        <label for="subscribe-email" class="fr-label" aria-label="Renseignez votre adresse e-mail pour recevoir nos annonces">En renseignant votre adresse mail, vous recevrez régulièrement nos actualités. Vous pourrez à tout moment vous désinscrire de nos envois :</label>
-        <input required="" class="fr-input" type="email" autocomplete="on" id="subscribe-email" name="w-field-field-36469-172104-430683-email" placeholder="votre@email.fr" />
-      </div>
-      <button class="fr-btn" type="submit" name="subscribe" id="form-submit">Je m'inscris à la newsletter de beta.gouv.fr</button>
-    </form>
-  </div>
-</section> -->
+
