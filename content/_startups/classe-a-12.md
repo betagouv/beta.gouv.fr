@@ -1,5 +1,5 @@
 ---
-title: Classes à 12
+title: Classe à 12
 mission: Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves.
 owner: Ministère de l'Éducation nationale
 sponsors: 
@@ -18,6 +18,8 @@ link: https://classe-a-12.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12
 stats: false
 contact: classea12@education.gouv.fr
+redirect_from:
+  - /startups/classes12.md
 ---
 # Le problème :
 En sept 2017, Le dispositif classe à 12 initié par le Ministère de l'éducation nationale a permis à plus de 2500 enseignants de se lancer dans l'expérimentation d'une classe à effectif réduit afin de favoriser la réussite des élèves en  éducation prioritaire.
