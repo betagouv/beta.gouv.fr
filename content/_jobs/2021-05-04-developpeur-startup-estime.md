@@ -54,7 +54,7 @@ Un plus, serait de connaître :
 * l’outil de build et de déploiement continus GitLab CI
 * l’outil de conteneurisation Docker
 
-Pour plus d’informations sur notre stack technique, consulter la documentation de notre projet consultable sur [GitHub - Stratups Pôle emploi - Estime](https://github.com/StartupsPoleEmploi/estime-frontend).
+Pour plus d’informations sur notre stack technique, consulter la documentation de notre projet sur [GitHub - Stratups Pôle emploi - Estime](https://github.com/StartupsPoleEmploi/estime-frontend).
 
 👍 Nous acceptons les profils junior, notre CTO assurera votre montée en compétences sous forme d'ateliers tech.
 
