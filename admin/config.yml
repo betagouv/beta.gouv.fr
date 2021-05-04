@@ -99,7 +99,7 @@ collections:
               Quelle est le domaine "ministériel" ou domaine "action publique" du partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter
             name: "domaine_ministeriel"
             widget: "select"
-            required: false
+            required: true
             options:
               - { label: "Affaires étrangères", value: "affaires-etrangeres" }
               - { label: "Affaires sociales", value: "affaires-sociales" }
