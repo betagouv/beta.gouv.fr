@@ -3,6 +3,13 @@
     linear-gradient(0deg, #00006D, #00006D);
 }
 
+
+.home-section-description {
+    font-weight: bold;
+    color: #4941C0;
+}
+
+
 .home-section-blue h1,
 .home-section-blue h2,
 .home-section-blue h3:not(.fr-card__title),

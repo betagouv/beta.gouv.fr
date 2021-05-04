@@ -34,9 +34,9 @@ layout: default
 <section class="fr-py-6w home-section-product">
   <div class="fr-container">
     <h2 class="home-section-title">Des services à impact</h2>
-    <p class="home-section-description">conçus avec les administrations</p>
+    <h4 class="home-section-description">conçus avec les administrations</h4>
 
-    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center startups">
+    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center startups fr-pt-6w">
       {% assign startups = site.startups %}
       {% assign starts = "transport.data.gouv.fr,La Bonne Alternance,Pix,Mon-entreprise.fr" | split: ","  %}
       {% for startup in startups %}
@@ -73,11 +73,11 @@ layout: default
   <div class="fr-grid-row fr-grid-row--center">
     <div>
       <h2 class="home-section-title">Faisons équipe</h2>
-      <p class="home-section-description">
+      <h4 class="home-section-description">
         Agent public, rejoignez une équipe<br>
 <span class="home-section-highlight">pluridisciplinaire</span>, <span class="home-section-highlight">engagées</span> au <span class="home-section-highlight">service de l’intérêt général</span>
-      </p>
-      <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-pb-6w">
+      </h4>
+      <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-py-6w">
         <button class="fr-btn fr-btn--md home-button-white-border fr-btn--secondary fr-enlarge-link">
           <a href="/recrutement">Devenir intrapreneur(e)</a>
         </button>
