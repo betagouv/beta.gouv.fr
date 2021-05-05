@@ -1,6 +1,7 @@
 ---
 fullname: Jérémy Buget
 role: CTO
+domaine: Produit
 missions:
   - start: 2016-06-08
     end:

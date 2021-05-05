@@ -1,6 +1,7 @@
 ---
 fullname: Maxine Sabater
 role: Assistante en appui aux projets innovants
+domaine: Autre
 github: maxinesabater
 missions:
   - start: 2021-03-15

@@ -19,6 +19,13 @@ previously:
   - e-controle
 badges:
   - segur
+domaine: Animation
+competences:
+  - Coaching
+  - Gestion de Produit
+  - Administration Système
+  - Développement Frontend
+  - Développement Backend
 ---
 
 Chercheur de simplicité

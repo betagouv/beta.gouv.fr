@@ -1,6 +1,7 @@
 ---
 fullname: Paloma FENGAROL
 role: Lead UX
+domaine: Design
 github: paloma-f
 missions:
   - start: 2021-02-02

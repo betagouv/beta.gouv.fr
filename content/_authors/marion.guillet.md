@@ -1,6 +1,7 @@
 ---
 fullname: Marion Guillet
 role: Product Owner
+domaine: Produit
 github: guilletmarion
 missions:
   - start: 2019-10-21

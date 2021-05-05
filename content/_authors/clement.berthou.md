@@ -1,6 +1,7 @@
 ---
 fullname: Clément Berthou
 role: Développeur
+domaine: Développement
 github: cberthou
 missions:
   - start: 2019-04-26

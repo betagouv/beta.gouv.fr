@@ -1,6 +1,7 @@
 ---
 fullname: Gladys Diandoki
 role: UX writer
+domaine: Design
 github: Gladysdit
 missions:
   - start: 2021-04-01

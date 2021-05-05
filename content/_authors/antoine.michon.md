@@ -1,6 +1,7 @@
 ---
 fullname: Antoine Michon
 role: Conseiller transformation numérique
+domaine: Autre
 github: antoinemch
 missions:
   - start: 2019-09-02

@@ -1,6 +1,7 @@
 ---
 fullname: Ishan Bhojwani
 role: Co-animateur de beta.gouv.fr
+domaine: Animation
 missions:
   - start: 2017-05-23
     end: 2017-08-31

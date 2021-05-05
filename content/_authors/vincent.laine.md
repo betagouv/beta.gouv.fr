@@ -1,6 +1,7 @@
 ---
 fullname: Vincent Lainé
 role: Développeur
+domaine: Développement
 github: vincentlaine
 link: https://www.linkedin.com/in/vincent-laine/
 missions:
@@ -14,5 +15,6 @@ missions:
     employer: OCTO
 startups:
     - usine-chatbots
+previously:
     - preuve-de-covoiturage
 ---

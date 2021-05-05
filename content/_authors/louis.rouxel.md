@@ -1,6 +1,7 @@
 ---
 fullname: Louis Rouxel
 role: Intrapreneur ANSSI
+domaine: Intraprenariat
 github: lrouxel
 avatar: 
 link: https://www.ssi.gouv.fr/

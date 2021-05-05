@@ -1,6 +1,7 @@
 ---
 fullname: Philippe Vrignaud
 role: Intrapreneur
+domaine: Intraprenariat
 missions:
   - start: 2014-01-01
     end:

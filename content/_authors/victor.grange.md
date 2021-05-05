@@ -1,6 +1,7 @@
 ---
 fullname: Victor Grange
 role: Coach
+domaine: Coaching
 missions:
   - start: 2021-04-22
     end: 2021-06-25

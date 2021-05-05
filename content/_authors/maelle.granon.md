@@ -1,6 +1,7 @@
 ---
 fullname: Maelle Granon
 role: Support aux utilisateurs des APIs
+domaine: Déploiement
 github: Maelle04
 avatar:
 link:

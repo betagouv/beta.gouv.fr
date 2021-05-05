@@ -1,6 +1,7 @@
 ---
 fullname: Johan Girod
 role: Développeur
+domaine: Développement
 link: https://johangirod.com
 github: johangirod
 missions:
