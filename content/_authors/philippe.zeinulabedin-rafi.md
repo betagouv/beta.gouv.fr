@@ -1,6 +1,7 @@
 ---
 fullname: Philippe Zeinulabedin-Rafi
 role: Intrapreneur
+domaine: Intraprenariat
 github: 
 avatar:
 missions:

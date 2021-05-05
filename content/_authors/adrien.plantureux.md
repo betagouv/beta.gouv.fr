@@ -1,5 +1,6 @@
 ---
 fullname: Adrien Plantureux
+domaine: Intraprenariat
 role:  Intrapreneur à la fabrique numérique (MTE) pour un projet d'open data sur les données Loi sur l'eau
 missions:
   - start: 2021-04-09

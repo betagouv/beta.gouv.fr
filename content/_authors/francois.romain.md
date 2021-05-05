@@ -1,6 +1,7 @@
 ---
 fullname: François Romain
 role: Développeur
+domaine: Développement
 avatar: https://avatars3.githubusercontent.com/u/156539
 link: https://francoisromain.com
 missions:

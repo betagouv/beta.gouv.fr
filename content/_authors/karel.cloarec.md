@@ -1,6 +1,7 @@
 ---
 fullname: Karel Cloarec
 role: Coaching - Deploiement
+domaine: Coaching
 github: Karel2
 avatar: null
 missions:

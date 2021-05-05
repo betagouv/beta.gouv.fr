@@ -1,6 +1,7 @@
 ---
 fullname: Joeffrey Arruyer
 role: Startup Coach
+domaine: Coaching
 link: https://www.linkedin.com/in/joeffrey-arruyer-5392a744
 missions:
   - start: 2017-12-09

@@ -1,6 +1,7 @@
 ---
 fullname: Thomas Menant
 role: Claquettiste 🕺
+domaine: Autre
 missions:
   - start: 2014-01-01
     end: 2019-12-31

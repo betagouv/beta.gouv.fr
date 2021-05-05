@@ -1,6 +1,7 @@
 ---
 fullname: Adrien Boulay
 role: OPS
+domaine: Autre
 github: aboulay
 missions:
   - start: 2019-03-23

@@ -1,6 +1,7 @@
 ---
 fullname: Alexandre Leboucher
 role: Stagiaire
+domaine: Autre
 github: alexandreleboucher
 missions:
   - start: 2021-04-19

@@ -1,6 +1,7 @@
 ---
 fullname: Jonathan Pichot # penser à modifier le nom du fichier ci-dessus en prenom.nom.md !
 role: co-animateur de l'Incubateur des Territoires
+domaine: Animation
 github: pichot
 avatar: # optionnel, voir ci-dessous
 # En premier, on va regarder si tu as mis une image au format prenom.nom dans /img/authors/

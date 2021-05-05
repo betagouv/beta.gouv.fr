@@ -1,6 +1,7 @@
 ---
 fullname: Michael Boitin
 role: Ux designer
+domaine: Design
 github: mickeymick25
 missions:
   - start: 2021-02-08

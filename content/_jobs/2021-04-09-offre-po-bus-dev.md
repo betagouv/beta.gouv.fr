@@ -3,7 +3,7 @@ roles: Personne en charge du produit et du déploiement
 title: Elles font la culture recrute une personne chargée du produit et de l'animation des utilisateurices
 contrat: indépendant
 startup: ellesfontlaculture
-open: true
+open: false
 
 ---
 

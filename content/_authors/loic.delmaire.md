@@ -1,6 +1,7 @@
 ---
 fullname: Loïc Delmaire
 role: Développeur
+domaine: Développement
 missions:
   - start: 2013-12-01
     end: 2014-05-31

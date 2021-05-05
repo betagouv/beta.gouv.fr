@@ -1,6 +1,7 @@
 ---
 fullname: Philippe Libat
 role: Responsable technique Dev/Ops
+domaine: Développement
 github: pli01
 avatar:
 link: https://github.com/pli01

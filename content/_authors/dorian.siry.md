@@ -1,6 +1,7 @@
 ---
 fullname: Dorian Siry
 role: Business Dev
+domaine: Déploiement
 missions:
   - start: 2021-04-12
     end: 2021-05-14

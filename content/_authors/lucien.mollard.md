@@ -1,6 +1,7 @@
 ---
 fullname: Lucien Mollard
 role: Développeur
+domaine: Développement
 avatar: https://avatars3.githubusercontent.com/LucienMLD?s=600
 missions:
   - start: 2018-03-14

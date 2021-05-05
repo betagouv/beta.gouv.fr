@@ -1,6 +1,7 @@
 ---
 fullname: Stéphane Langlois
 role: coach, PO/PM, portage
+domaine: Coaching
 avatar: https://gitlab.com/uploads/-/system/user/avatar/302910/munny.png
 link: http://scopyleft.fr
 missions:

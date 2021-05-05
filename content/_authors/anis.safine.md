@@ -1,6 +1,7 @@
 ---
 fullname: Anis Safine
 role: Développeur
+domaine: Développement
 github: anis
 missions:
   - start: 2018-11-19

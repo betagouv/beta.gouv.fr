@@ -1,6 +1,7 @@
 ---
 fullname: Nicolas Basile
 role: UX/UI designer
+domaine: Design
 missions:
   - start: 2020-11-01
     end: 2021-12-31

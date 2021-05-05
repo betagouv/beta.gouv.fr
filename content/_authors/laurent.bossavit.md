@@ -1,6 +1,7 @@
 ---
 fullname: Laurent Bossavit
 role: Coach
+domaine: Animation
 missions:
   - start: 2016-03-01
     end: 2021-04-05

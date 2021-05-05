@@ -1,6 +1,7 @@
 ---
 fullname: Elodie Pelcat
-role: Développeuse Hybride 
+role: Développeuse Hybride
+domaine: Développement
 link: https://github.com/Yuhiba
 github: yuhiba
 missions:

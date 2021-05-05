@@ -1,6 +1,7 @@
 ---
 fullname: Forster Groux
 role: Développeur
+domaine: Développement
 github: Forster-Groux
 missions:
   - start: 2020-12-14

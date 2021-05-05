@@ -1,6 +1,7 @@
 ---
 fullname: Pierre-Olivier Mauguet
 role: Développeur
+domaine: Développement
 github: pom421
 link: http://pom421.github.io/
 missions:

@@ -1,6 +1,7 @@
 ---
 fullname: Benjamin Vanderlynden
 role: Coach
+domaine: Coaching
 github: b-vand
 missions:
   - start: 2021-03-02

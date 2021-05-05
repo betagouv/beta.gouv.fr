@@ -13,9 +13,9 @@
 
     <p class="fr-card__detail">Offre de {% if job.friend %}{{ job.friend | strip_html }}{% else %}{{ startup.title | default: "beta.gouv.fr" | strip_html}}{% endif %}</p>
     
-    <h4 class="fr-card__title">
+    <h2 class="fr-card__title">
       <a class="fr-card__link" href="{{ job.url }}">{{ job.roles | capitalize }}</a>
-    </h4>
+    </h2>
 
     <p class="fr-card__desc">{{ job.excerpt | strip_html | truncate: 260 }}</p>
 

@@ -1,6 +1,7 @@
 ---
 fullname: Julie Benzoni
 role: Coach Produit
+domaine: Produit
 github: jbnzo
 link: https://www.linkedin.com/in/julie-benzoni-81767592/
 missions:

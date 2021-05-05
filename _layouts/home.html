@@ -35,7 +35,6 @@ layout: default
   <div class="fr-container">
     <h2 class="home-section-title">Des services à impact</h2>
     <h4 class="home-section-description">conçus avec les administrations</h4>
-
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center startups fr-pt-6w">
       {% assign startups = site.startups %}
       {% assign starts = "transport.data.gouv.fr,La Bonne Alternance,Pix,Mon-entreprise.fr" | split: ","  %}
@@ -47,7 +46,6 @@ layout: default
                 <div class="fr-card__img">
                   {% include screenshot.html startup=startup force=true %}
                 </div>
-            
                 <div class="fr-card__body">
                   <h4 class="fr-card__title">
                     <a class="fr-card__link" href="{{ startup.url }}" >{{ startup.title | strip_html }}</a>

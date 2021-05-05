@@ -1,6 +1,7 @@
 ---
 fullname: Giulia Reboa
 role: Intrapreneuse
+domaine: Intraprenariat
 missions:
   - start: 2019-06-01
     end: 2019-12-04
