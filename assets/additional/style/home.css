@@ -32,6 +32,7 @@
     min-height: 400px;
     width: 100%;
     overflow: hidden;
+    position: relative;
 }
 
 .home-section-main .fr-container {
