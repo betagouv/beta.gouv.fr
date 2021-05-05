@@ -31,7 +31,11 @@
 .home-section-main {
     min-height: 400px;
     width: 100%;
-    overflow-x: clip;
+    overflow: hidden;
+}
+
+.home-section-main .fr-container {
+    height: 100%;
 }
 
 .home-section-main h1 {
