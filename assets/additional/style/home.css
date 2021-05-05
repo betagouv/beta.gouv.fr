@@ -172,6 +172,13 @@
     .home-hero-anim {
         display: none;
     }
+    #hero-anim-hand-1,
+    #hero-anim-hand-1-shape,
+    #hero-anim-hand-2,
+    #hero-anim-hand-3,
+    #hero-anim-hand-1-container {
+        display: none;
+    }
     .home-section-principle-animation {
         width: 90%;
         height: 90%;
