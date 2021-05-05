@@ -30,6 +30,8 @@
 
 .home-section-main {
     min-height: 400px;
+    width: 100%;
+    overflow-x: clip;
 }
 
 .home-section-main h1 {
@@ -85,7 +87,6 @@
 
 .home-team-animation-container {
     width: 100%;
-    max-height: 200px;
     position: relative;
 }
 
@@ -94,12 +95,14 @@
     width: 100%;
     height: 100%;
     transition: all 0.5s ease-out ;
+    max-height: 200px;
 }
 
 .home-team-animation-foreground {
     position: relative;
     width: 100%;
     height: 100%;
+    max-height: 200px;
 }
 
 .home-team-animation-container:hover .home-team-animation-background  {
@@ -126,15 +129,15 @@
     transition: all 0.5s ease-out ;
 }
 
-#hero-anim-hand-1, #hero-anim-hand-1-shape {
+#hero-anim-hand-1{
     top: -70px;
-    right: -150px;
+    right: -130px;
 }
 
 #hero-anim-hand-1-container {
     position: absolute;
     top: -10px;
-    right: 0px;
+    right: 50px;
 }
 
 #hero-anim-hand-1-shape {
@@ -171,7 +174,11 @@
         margin-right: auto;
         display: block;
     }
-    .home-team-animation-container {
+    .home-team-animation-background {
+        max-height: 130px;
+    }
+    
+    .home-team-animation-foreground {
         max-height: 130px;
     }
 }
