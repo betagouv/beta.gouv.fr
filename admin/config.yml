@@ -12,6 +12,7 @@ backend:
     deleteMedia: Suppression de l'image {{path}}
   squash_merges: true
   open_authoring: true
+  use_graphql: true
 
 # Permet d'expérimenter en local
 # cf. https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
@@ -48,7 +49,9 @@ date_field_defaults: &date_field_defaults
 
 collections:
   - name: startups
+    publish: false
     label: Produits
+    preview_path: "startups/{{slug}}"
     label_singular: Produit
     folder: "content/_startups"
     create: true
@@ -96,7 +99,7 @@ collections:
               Quelle est le domaine "ministériel" ou domaine "action publique" du partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter
             name: "domaine_ministeriel"
             widget: "select"
-            required: false
+            required: true
             options:
               - { label: "Affaires étrangères", value: "affaires-etrangeres" }
               - { label: "Affaires sociales", value: "affaires-sociales" }
@@ -207,12 +210,13 @@ collections:
           Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
       
   - name: "authors"
+    publish: false
     identifier_field: fullname
     label: "Membres"
     label_singular: "Membre"
-    description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, direction \"Créer une entrée de type Membre\" !"
+    description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, allez sur le secretariat : https://secretariat.incubateur.net/onboarding ."
     folder: "content/_authors"
-    create: true
+    create: false
     delete: false
     slug: "{{slug}}"
     editor:
@@ -238,7 +242,8 @@ collections:
         required: true
       - label: "Description"
         hint: "Ce que tu veux qu'on dise de toi. Développeuse NodeJS ? Intrapreneur ? Chargée de développement ? Coach construction produit ? Experte en simplicité ?. Tu pourras écrire une bio plus bas"
-        name: "description"
+        name: "role"
+        required: true
         widget: "string"
       - label: "Github"
         hint: "Ton nom d'utilisateur GitHub. Il te permet de rejoindre automatiquement l'organisation GitHub betagouv."
@@ -335,6 +340,7 @@ collections:
           "Administration Publique"
         ]
   - name: incubators
+    publish: false
     label: Incubateurs
     label_singular: Incubateur
     folder: "content/_incubators"
@@ -361,6 +367,7 @@ collections:
     label_singular: Phase
     folder: "content/_phases"
     delete: false
+    publish: false
     slug: "{{slug}}"
     editor:
       preview: false
@@ -371,6 +378,7 @@ collections:
       - { label: order, name: order, widget: number }
       - { label: short_description, name: short_description, widget: string }
   - name: events
+    publish: false
     label: Évènement de SET
     label_singular: Évènement
     folder: "content/_events"
@@ -387,6 +395,9 @@ collections:
     folder: "content/_jobs"
     create: true
     delete: false
+    summary: "{{roles}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    publish: false
     editor:
       preview: false
     fields:
@@ -406,7 +417,7 @@ collections:
         name: date
         widget: datetime
         time_format: false
-        required: true 
+        hint: "Uniquement si vous publiez la fiche plus tard"
       - label: Pour quelle startup ?
         label_singular: Startup
         hint: "Si la startup n'apparait pas encore dans la liste, contacte un administrateur du site !"
