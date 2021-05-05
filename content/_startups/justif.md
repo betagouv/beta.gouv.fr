@@ -13,6 +13,7 @@ events:
 phases:
   - name: investigation
     start: 2020-10-04
+    end: 2020-12-18
   - name: construction
     start: 2021-03-31
 ---
