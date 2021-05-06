@@ -1,16 +1,17 @@
 ---
 title: Tutorat pour les concours de la fonction publique
-mission: Améliorer l'égalité des chances aux concours de la fonction publique grâce au développement du tutorat.
+mission: Améliorer l'égalité des chances aux concours de la fonction publique
+  grâce au développement du tutorat.
 owner: Direction générale de l’administration et de la fonction publique
 sponsors:
   - acronym: DGAFP
-    name: Direction générale de l’administration et de la fonction publique 
+    name: Direction générale de l’administration et de la fonction publique
     type: administration-centrale
     domaine_ministeriel: spm
 incubator: dinum
-contact: marie.vanhaecke@beta.gouv.fr
+contact: tutorat@beta.gouv.fr
 phases:
-  - name: investigation
+  - name: construction
     start: 2021-02-01
     end: 2021-02-28
 ---
