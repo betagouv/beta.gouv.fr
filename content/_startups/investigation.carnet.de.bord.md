@@ -1,5 +1,5 @@
 ---
-title: Investigation Carnet de bord
+title: Carnet de bord
 mission: "Faciliter la vie des personnes en insertion et de celles et ceux qui
   les accompagnent "
 owner: Ministère du Travail, de l'Emploi et de l'Insertion, ITOU
@@ -7,11 +7,15 @@ sponsors:
   - name: Délégation générale à l'emploi et à la formation professionnelle
     acronym: DGEFP
     type: administration-centrale
+    domaine_ministeriel: affaires-sociales
 incubator: dinum
 contact: ronan.james@beta.gouv.fr
 phases:
   - name: investigation
     start: 2021-01-25
+    end: 2021-05-06
+  - name: acceleration
+    start: 2021-05-06
 ---
 Dans le cadre du [Service Public de l’Insertion et de l’Emploi](https://forum.inclusion.beta.gouv.fr/t/le-spie-cest-quoi/2324), nous lançons **une investigation sur le carnet de bord de la personne accompagnée** 
 
