@@ -14,7 +14,7 @@ phases:
   - name: investigation
     start: 2021-01-25
     end: 2021-05-06
-  - name: acceleration
+  - name: construction
     start: 2021-05-06
 ---
 Dans le cadre du [Service Public de l’Insertion et de l’Emploi](https://forum.inclusion.beta.gouv.fr/t/le-spie-cest-quoi/2324), nous lançons **une investigation sur le carnet de bord de la personne accompagnée** 
