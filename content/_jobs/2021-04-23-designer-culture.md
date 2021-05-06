@@ -2,7 +2,7 @@
 roles: Designer transverse UX/UI
 title: l'Atelier Numérique du ministère de la Culture recrute un.e Designer UX/UI
 contrat: indépendant
-open: true
+open: false
 
 ---
 
