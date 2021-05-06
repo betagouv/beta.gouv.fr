@@ -27,14 +27,9 @@ Il ressort de la concertation SPIE que les personnes en insertion peuvent être 
 * Des “temps perdus” lors de séquences où la personne n’avance pas dans son parcours ;
 * Non-recours au service public par découragement ou par incompréhension des services. 
 
+### Solution 
 
+Carnet de bord est un service public numérique qui évolue en continu pour permettre : 
 
-### **Vous souhaitez participer ?**
-
-Nous effectuons une investigation pour mieux comprendre les problématiques rencontrées par les travailleurs sociaux et les accompagnateurs des personnes en difficulté avant de se lancer dans une quelconque solution.
-
-Nous sommes donc à la recherche d’acteurs de terrain, bénévoles, travailleurs sociaux, CIP, assistantes sociales, aidants, accompagnants au contact des personnes en difficulté. C’est indispensable pour ne pas se projeter sur une solution hors sol ou réinventer la roue !
-
-Si vous souhaitez nous aider dans cette démarche, nous souhaiterions échanger ensemble afin de mieux comprendre et découvrir vos missions, les défis que vous relevez, les publics que vous accompagnez. Votre participation peut aller d’un simple échange téléphonique de 30’ à une expérimentation ensemble.
-
-Vous souhaitez nous partager votre expérience en 30 mins ? [Laissez-nous votre contact](https://itou.typeform.com/to/tgjDbv6T).
+* **aux publics de bénéficier d'un accompagnement sans rupture** grâce à un profil partagé, enrichi progressivement, auquel il peut accéder
+* **aux acteurs de l'insertion d’accéder directement à des informations** **utiles** et à jour pour  co-construire les parcours avec la personne et faciliter sa mobilisation
