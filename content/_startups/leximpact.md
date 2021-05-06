@@ -18,7 +18,7 @@ phases:
   - name: transfer
     start: 2019-10-31
     end: 2020-01-03
-  - name: alumni
+  - name: success
     start: 2020-01-03
 link: https://leximpact.an.fr
 repository: https://github.com/betagouv/leximpact-client
