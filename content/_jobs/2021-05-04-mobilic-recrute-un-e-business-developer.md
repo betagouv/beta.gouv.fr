@@ -67,5 +67,5 @@ Si ce qui est raconté ici te donne envie de rejoindre l’aventure : écris-nou
 
 # Comment postuler ?
 
-Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à gaspard.granger@developpement-durable.gouv.fr
+Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous au choix ton CV, un lien vers ton profil LinkedIn ou équivalent à mobilic@beta.gouv.fr
 Si tu as des questions avant de postuler, n’hésite pas à nous écrire. 

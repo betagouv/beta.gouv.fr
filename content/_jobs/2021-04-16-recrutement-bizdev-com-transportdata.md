@@ -3,7 +3,7 @@ roles: Chargé.e de communication et de déploiement
 title: transport.data.gouv.fr recrute un.e chargé.e de communication et de déploiement
 contrat: indépendant
 startup: transport
-open: true
+open: false
 ---
 
 ## Contexte
