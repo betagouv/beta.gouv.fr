@@ -1,7 +1,6 @@
 ---
 title: OuFAalim'
-mission: Offrir une vue d'ensemble de l'écosystème de l'aide alimentaire et
-  faciliter la vie de ses acteurs.
+mission: Offrir une vue d'ensemble de l'écosystème de l'aide alimentaire et faciliter la vie de ses acteurs.
 owner: DIPLP
 incubator: dinum
 contact: julie.ripa@sante.gouv.fr
