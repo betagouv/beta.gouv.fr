@@ -397,7 +397,8 @@ collections:
     folder: "content/_jobs"
     create: true
     delete: false
-    summary: "{{date}} - {{startup}} - {{roles}}"
+    preview_path: "recrutement/{{year}}/{{month}}/{{day}}/{{filename}}"
+    summary: "{{year}}/{{month}}/{{day}} - {{startup}} - {{roles}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     publish: false
     editor:
