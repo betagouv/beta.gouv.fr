@@ -1,0 +1,12 @@
+---
+fullname: Thomas Lacquemant
+role: Relation NUMA <> Beta
+missions:
+  - start: 2021-05-10
+    end: 2022-03-10
+    status: service
+    employer: NUMA
+---
+
+Officiellement responsable Secteur Public pour NUMA.
+Officieusement home-studiste et cycliste 
