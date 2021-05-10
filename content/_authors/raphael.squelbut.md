@@ -1,6 +1,6 @@
 ---
 fullname: Raphaël Squelbut
-role: Développeuse
+role: Développeur
 missions:
   - start: 2021-05-10
     end: 2021-07-10
@@ -8,7 +8,5 @@ missions:
     employer: Octo
 startups:
   - signaux-faibles
-badges:
-  - segur
 ---
 
