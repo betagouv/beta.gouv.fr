@@ -398,7 +398,7 @@ collections:
     create: true
     delete: false
     preview_path: "recrutement/{{year}}/{{month}}/{{day}}/{{filename}}"
-    summary: "{{year}}/{{month}}/{{day}} - {{startup}} - {{roles}}"
+    summary: "{{startup}} - {{filename}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     publish: false
     editor:
