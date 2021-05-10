@@ -1,6 +1,7 @@
 ---
 fullname: Thomas Lacquemant
-role: Relation NUMA <> Beta
+role: Relation NUMA -- Beta
+domaine: Animation
 missions:
   - start: 2021-05-10
     end: 2022-03-10
