@@ -397,7 +397,7 @@ collections:
     folder: "content/_jobs"
     create: true
     delete: false
-    summary: "{{roles}}"
+    summary: "{{date}} - {{startup}} - {{roles}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     publish: false
     editor:
