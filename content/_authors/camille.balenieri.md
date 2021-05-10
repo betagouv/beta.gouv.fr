@@ -1,6 +1,7 @@
 ---
 fullname: Camille Balenieri
 role: Chargee de communication editoriale
+domaine: Autre
 github: CamilleBalenieri
 link: https://www.linkedin.com/in/camille-balenieri-80723096
 missions:

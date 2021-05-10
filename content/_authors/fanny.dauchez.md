@@ -1,6 +1,7 @@
 ---
 fullname: Fanny Dauchez
 role: Chargée de déploiement
+domaine: Déploiement
 missions:
   - status: independent
     start: 2020-09-01

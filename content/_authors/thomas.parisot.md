@@ -1,6 +1,7 @@
 ---
 fullname: Thomas Parisot
 role: Software Designer
+domaine: Développement
 missions:
   - start: 2017-06-14
     end: 2017-12-30

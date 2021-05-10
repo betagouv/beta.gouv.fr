@@ -1,6 +1,7 @@
 ---
 fullname: Bertrand Marron
 role: Développeur
+domaine: Développement
 missions:
   - start: 2017-07-10
     end:

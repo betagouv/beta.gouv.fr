@@ -1,6 +1,7 @@
 ---
 fullname: Caroline Heurtel
 role: datalchemist & business developper
+domaine: Déploiement
 link: https://www.linkedin.com/in/caroline-heurtel-b6309b162
 missions:
   - start: 2018-05-28

@@ -1,6 +1,7 @@
 ---
 fullname: Thierry Verrecchia
 role: Chargé de déploiement
+domaine: Déploiement
 link: https://www.pocmaker.net
 github: pocmaker42
 missions:

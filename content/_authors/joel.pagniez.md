@@ -1,6 +1,7 @@
 ---
 fullname: Joël Pagniez
 role: Développeur
+domaine: Développement
 github: JoelPagniez
 avatar:
 link: https://www.linkedin.com/in/joel-pagniez-0941b687/

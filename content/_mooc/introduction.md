@@ -4,7 +4,7 @@ label: Introduction
 order: 0
 ---
 
-### Introduction à la méthode Startup d'État
+## Introduction à la méthode Startup d'État
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">
@@ -14,7 +14,7 @@ order: 0
   <p><a href="/content/docs/mooc/2-introduction-methode-startup-etat.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
 
-### Remplir sa fiche produit
+## Remplir sa fiche produit
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">

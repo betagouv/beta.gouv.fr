@@ -1,6 +1,7 @@
 ---
 fullname: Lucas Détré
 role: Développeur
+domaine: Développement
 github: LucasDetre
 link: https://www.linkedin.com/in/lucas-d%C3%A9tr%C3%A9/
 missions:

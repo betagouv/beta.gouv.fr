@@ -1,6 +1,7 @@
 ---
 fullname: Alexandre Annic
 role: Développeur
+domaine: Développement
 github: alexandreannic
 avatar:
 link: https://alexandre-annic-cv.firebaseapp.com/

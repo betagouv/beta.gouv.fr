@@ -1,6 +1,7 @@
 ---
 fullname: Pierre de La Morinerie
 role: Développeur
+domaine: Développement
 avatar: 'https://secure.gravatar.com/avatar/05113b49212e22f15ee21bf03e149d8e.jpg?s=512'
 link: 'https://kemenaran.winosx.com'
 missions:

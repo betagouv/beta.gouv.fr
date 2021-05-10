@@ -1,6 +1,7 @@
 ---
 fullname: Clément Chapalain
 role: Chef de produit
+domaine: Produit
 github: ClementChapalain
 missions:
   - start: 2018-09-05

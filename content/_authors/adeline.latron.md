@@ -1,6 +1,7 @@
 ---
 fullname: Adeline Latron
 role: Business Developer
+domaine: Déploiement
 github: adeline-lrn
 missions:
   - start: 2019-02-07

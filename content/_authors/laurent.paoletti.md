@@ -1,11 +1,12 @@
 ---
 fullname: Laurent Paoletti
 role: Développeur
+domaine: Développement
 github: providenz
 link: https://twitter.com/providenz
 missions:
   - start: 2019-09-01
-    end:
+    end: 2021-09-01
     status: independent
 startups:  
     - trackdechets

@@ -1,6 +1,7 @@
 ---
 fullname: Pauline Delmas 
 role: Intrapreneuse 
+domaine: Intraprenariat
 github: paulinedelmas
 missions:
   - start: 2021-04-08

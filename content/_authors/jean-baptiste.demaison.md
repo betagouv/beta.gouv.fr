@@ -1,6 +1,7 @@
 ---
 fullname: Jean-Baptiste DEMAISON
-role: Responsable du laboratoire d'innovation publique de l'ANSSI, incubateur de startups d'Etat # Développeuse / Développeur / Intrapreneuse / Intrapreneur / Coach / Chargée de développement / Chargé de développement...
+role: Responsable du laboratoire d'innovation publique de l'ANSSI, incubateur de startups d'Etat
+domaine: Animation
 github: jbdemaison
 link: # optionnel : lien vers une page perso externe.
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !

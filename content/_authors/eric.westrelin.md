@@ -1,6 +1,7 @@
 ---
 fullname: Eric Westrelin
 role: Développeur
+domaine: Développement
 github: ericwes
 missions:
   - start: 2018-03-27

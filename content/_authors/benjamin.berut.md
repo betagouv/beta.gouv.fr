@@ -1,6 +1,7 @@
 ---
 fullname: Benjamin Berut
 role: Intrapreneur
+domaine: Intraprenariat
 github: BenjaminBerut
 missions:
   - start: 2020-06-09

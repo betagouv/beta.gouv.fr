@@ -1,6 +1,7 @@
 ---
 fullname: Pauline Vaconsin - de Yrigoyen
 role: Ambassadrice DS et BNA 
+domaine: Autre
 link: https://www.ludmilloconsulting.com/
 missions:
   - start: 2021-04-19

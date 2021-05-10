@@ -1,6 +1,7 @@
 ---
 fullname: Sara Dufour
 role: Coach
+domaine: Coaching
 github: sarad2020
 missions:
   - start: 2020-07-19
