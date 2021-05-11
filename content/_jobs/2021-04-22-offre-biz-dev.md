@@ -3,7 +3,7 @@ roles: Chargé(e) de déploiement
 title: Loc@docs recrute une personne chargée du déploiement 
 contrat: indépendant
 startup: Locadoc
-open: true
+open: false
 
 ---
 

@@ -4,7 +4,7 @@ role: Développeur
 domaine: Développement
 missions:
   - start: 2017-09-18
-    end:
+    end: 2021-06-30
     status: admin
     employer: pole-emploi
 avatar: /img/authors/alexandre.cantin.jpg
