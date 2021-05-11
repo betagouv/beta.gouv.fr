@@ -50,7 +50,7 @@ Poste ouvert pour un(e) indépendant(e) à pourvoir pour un contrat d’environ 
 
 Réunions d'équipe régulières en format visio. Des réunions en présentiel occasionnelles à prévoir sur Paris lorsque cela sera de nouveau envisageable.
 
-Démarrage à partir d’avril 2021.
+Démarrage dès que possible.
 
 ## Postuler
 

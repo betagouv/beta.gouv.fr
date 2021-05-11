@@ -7,8 +7,11 @@ phases:
   - name: investigation
     start: 2014-06-01
   - name: construction
-    start: 2014-06-01    
-  - name: success
+    start: 2014-06-01
+  - name: acceleration
+    start: 2018-01-01
+  - name: transfer
+    start: 2021-05-05
 link: https://adresse.data.gouv.fr
 repository: https://github.com/BaseAdresseNationale
 stats: true
