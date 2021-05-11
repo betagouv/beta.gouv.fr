@@ -9,7 +9,7 @@ sponsors:
     domaine_ministeriel: spm
 incubator: dinum
 contact: tutorat@beta.gouv.fr
-link: www.tutorat.fonction-publique.gouv.fr
+link: https://www.tutorat.fonction-publique.gouv.fr/
 phases:
   - name: investigation
     start: 2021-02-01
