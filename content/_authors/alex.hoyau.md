@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2020-01-21
-    end:
+    end: 2021-06-30
     status: independent
     employer: pole-emploi
 startups:

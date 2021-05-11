@@ -8,7 +8,7 @@ missions:
     end: 2020-12-31
     status: admin 
   - start: 2021-04-01
-    end: 2021-09-30
+    end: 2021-10-31
     status: independent
 startups:
   - eva
