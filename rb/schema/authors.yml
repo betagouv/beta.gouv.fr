@@ -24,6 +24,7 @@ mapping:
               required:  yes
             "end":
               type:      date
+              required:  yes
             "status":
               type:      str
               assert:    "['service','independent','admin'].include?(val)"
