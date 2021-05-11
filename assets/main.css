@@ -328,6 +328,7 @@ h2.phase-title em {
 
 .filters #search-input {
   grid-column: 4;
+  z-index: 2;
 }
 
 @media (max-width: 1200px) {
@@ -381,8 +382,15 @@ h2.phase-title em {
   max-width: 660px;
   min-width: 35vw;
   right: 0;
-  padding: 1em 2em;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+#results-container a {
+  box-shadow: none;
+}
+
+#results-container a .search-result-title {
+  box-shadow: var(--is-link) 0 1px 0 0 currentColor;
 }
 
 /* Hack pour que les menus sticky restent visibles */

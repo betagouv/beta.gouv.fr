@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2015-09-01
-    end:
+    end: 2021-06-30
     status: admin
     employer: education-nationale
 startups:

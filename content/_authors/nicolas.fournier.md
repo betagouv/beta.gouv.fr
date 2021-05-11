@@ -5,7 +5,7 @@ domaine: Produit
 github: nfournier
 missions:
   - start: 2018-10-29
-    end:
+    end: 2021-06-30
     status: service
     employer: octo
 startups:

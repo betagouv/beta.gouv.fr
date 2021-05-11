@@ -14,10 +14,10 @@ phases:
   - name: construction
     start: 2018-01-01
   - name: acceleration
-link: https://dossierfacile.fr/?utm_source=betagouv
+link: https://www.dossierfacile.fr/?utm_source=betagouv
 repository: https://github.com/mtes-mct/locatio
 stats: true
-stats_url: https://dossierfacile.fr/stats
+stats_url: https://www.dossierfacile.fr/stats
 contact: contact@dossierfacile.fr
 ---
 ## Locatio devient DossierFacile.fr !
@@ -33,7 +33,7 @@ Chez DossierFacile, nous ambitionnons de casser ce cercle vicieux pour remettre 
 ## Un DossierFacile c’est quoi ?
 
 DossierFacile est une plateforme en ligne qui accompagne gratuitement les candidats locataires dans la constitution de leur dossier de location. 
-Un DossierFacile, c'est un dossier simple, en ligne et totalement gratuit qui aide les locataires à rassurer bailleurs et profesionnels de l'immobilier. Pour obtenir son dossier facile rien de plus simple : le locataire dépose ses pièces sur <a href="https://dossierfacile.fr/">www.dossierfacile.fr</a> puis nos équipes effectuent une batterie de tests pour s'assurer que le dossier répond à nos critères "3C". Si le dossier est Clair, Complet et Cohérent, il est validé. Le locataire peut alors envoyer ce dossier à n'importe quels bailleurs ou professionnels de l'immobilier.
+Un DossierFacile, c'est un dossier simple, en ligne et totalement gratuit qui aide les locataires à rassurer bailleurs et profesionnels de l'immobilier. Pour obtenir son dossier facile rien de plus simple : le locataire dépose ses pièces sur <a href="https://locataire.dossierfacile.fr/login?utm_source=betagouv">www.dossierfacile.fr</a> puis nos équipes effectuent une batterie de tests pour s'assurer que le dossier est clair, complet et cohérent. Quand le dossier a passé tous les tests, il est validé. Le locataire peut alors envoyer ce dossier à n'importe quel bailleur ou professionnel de l'immobilier.
 
 Bailleurs et professionnels de l'immobilier, DossierFacile est là pour vous rassurer dans votre choix en synthétisant les informations des différents candidats à la location et en vérifiant les déclarations d’imposition pour éviter mauvaises surprises et fausses déclarations. Notre rôle n’est pas de choisir pour vous mais nous pouvons vous aider à vérifier que tout est bien en ordre.
 
