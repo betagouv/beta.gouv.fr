@@ -1,7 +1,6 @@
 ---
 title: Tutorat pour les concours de la fonction publique
-mission: Améliorer l'égalité des chances aux concours de la fonction publique
-  grâce au développement du tutorat.
+mission: Améliorer l'égalité des chances aux concours de la fonction publique grâce au développement du tutorat.
 owner: Direction générale de l’administration et de la fonction publique
 sponsors:
   - acronym: DGAFP
@@ -10,10 +9,13 @@ sponsors:
     domaine_ministeriel: spm
 incubator: dinum
 contact: tutorat@beta.gouv.fr
+link: www.tutorat.fonction-publique.gouv.fr
 phases:
-  - name: construction
+  - name: investigation
     start: 2021-02-01
-    end: 2021-12-31
+    end: 2021-03-31
+  - name: construction
+    start: 2021-04-01
 ---
 
 ## Le contexte
@@ -40,8 +42,6 @@ Un processus pour développer le recrutement et l'accompagnement de tuteurs parm
    
 - 1 cible bénéficiaire : les étudiants des classes préparatoires Talents 
 
-👉 Lien vers la maquette envisagée à ce stade : https://www.figma.com/file/knb43jxS8Ecuy1evqYklH2/tutorat 
-
 ## La stratégie envisagée
 
 - La mission : trouver des tuteurs pour les 1 700 étudiants des classes préparatoires Talents à la rentrée 2021 
@@ -52,5 +52,3 @@ Un processus pour développer le recrutement et l'accompagnement de tuteurs parm
 
 Pour arriver à atteindre nos objectifs, nous envisageons une stratégie de recrutement de tuteurs en partenariat étroit avec les écoles de service public.
 
-## Le projet en direct
-A ce stade, nous attendons la validation du lancement de la phase de construction.
