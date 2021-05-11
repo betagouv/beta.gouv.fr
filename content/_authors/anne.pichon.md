@@ -1,7 +1,7 @@
 ---
 fullname: Anne Pichon
-role: UX
 domaine: Design
+role: UX
 github: Ann-p
 missions:
   - start: 2018-01-01
@@ -13,6 +13,10 @@ startups:
   - estime
   - itou
   - place-de-marche-inclusion
-previously: 
+  - investigation.offre.dinsertion
+previously:
   - la-bonne-boite
+competences:
+  - UX
+  - UI
 ---

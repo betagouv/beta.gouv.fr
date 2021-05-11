@@ -1,6 +1,6 @@
 ---
 roles: Développeur ou développeuse Full Stack
-open: true
+open: false
 date: 2021-04-22T15:07:00.419Z
 startup: justif
 ---

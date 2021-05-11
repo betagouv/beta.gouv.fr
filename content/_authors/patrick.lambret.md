@@ -1,7 +1,7 @@
 ---
 fullname: Patrick Lambret
-role: Coach
 domaine: Coaching
+role: Coach
 github: patrick-ground
 missions:
   - start: 2021-04-22
@@ -10,5 +10,8 @@ missions:
     employer: Ground
 startups:
   - mobilic
+  - investigation.offre.dinsertion
+competences:
+  - Gestion de Produit
+  - Coaching
 ---
-
