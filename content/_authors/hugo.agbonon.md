@@ -6,7 +6,7 @@ link: https://www.codeheroics.com
 github: codeheroics
 missions:
   - start: 2018-04-24
-    end:
+    end: 2021-06-30
     status: independent
     employer: codeheroics
 startups:

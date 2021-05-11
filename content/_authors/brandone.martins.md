@@ -5,7 +5,7 @@ domaine: Développement
 github: MBrandone
 missions:
   - employer: OCTO
-    end: null
+    end: 2021-06-30
     start: 2019-12-02
     status: service
 startups:
