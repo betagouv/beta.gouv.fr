@@ -15,6 +15,8 @@ missions:
 github: bguerout
 startups:
     - anotea
+    - sirius
+    - catalogue-apprentissage
     - apprentissage
 ---
 
