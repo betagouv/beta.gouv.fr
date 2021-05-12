@@ -1,14 +1,14 @@
 ---
 roles: une ou un responsable de portefeuille
 title: "L'incubateur de la DINUM recherche : une ou un responsable de portefeuille de Startups d'Etat"
-open: false
+open: true
 ---
 
-L'incubateur de la DINUM recrute des responsables de portefeuilles pour participer à la réussite du programme beta.gouv.fr.
+L'incubateur de la DINUM recrute une ou un responsable de portefeuille pour participer à la réussite des produits numériques accompagnés par le programme beta.gouv.fr.
 
 <!--more-->
 
-Vous rejoindrez l'[équipe d'animation du programme beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/je-minforme-sur-la-vie-de-la-communaute/equipe-danimation#rejoindre-lequipe-danimation). 
+Vous rejoindrez l'[équipe d'animation du programme beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/je-minforme-sur-la-vie-de-la-communaute/equipe-danimation). 
 
 Vous serez la personne référente à la Direction interministérielle du numérique pour un ensemble de produits numériques porté par un portefeuille ministériel (par exemple : l'Intérieur, les Armées, etc). 
 
