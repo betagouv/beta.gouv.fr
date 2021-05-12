@@ -1,6 +1,6 @@
 ---
 roles: une ou un responsable de portefeuille
-title: "L'incubateur de la DINUM recherche : une ou un responsable de portefeuille de Startups d'Etat"
+title: "Offre pour une ou un responsable de portefeuille de Startups d'Etat"
 open: true
 ---
 
@@ -13,7 +13,6 @@ Vous rejoindrez l'[équipe d'animation du programme beta.gouv.fr](https://doc.in
 Vous serez la personne référente à la Direction interministérielle du numérique pour un ensemble de produits numériques porté par un portefeuille ministériel (par exemple : l'Intérieur, les Armées, etc). 
 
 ## Missions
-
 - Tout faire pour garantir le succès des Startups d'Etat du portefeuille : concentration sur l'impact et les besoins des usagers, bonnes métriques, itérations courtes, trouver des solutions aux problèmes des équipes, anticiper le déploiement… ;
 - Porter l’offre de services de la mission BETA en interministériel : informer et conseiller les ministères sur les services disponibles en prenant en compte leurs besoins ;
 - Superviser le développement et le lancement des produits numériques de son portefeuille, recruter et encadrer le/la coach qui accompagnera l’agent public intrapreneur dans la définition et la conception du produit ;
@@ -32,9 +31,7 @@ En fonction de l’évolution des priorités fixées par la DINUM, il/elle peut 
 ## Profils recherchés
 
 Vous êtes à l’aise avec le mode de fonctionnement des organisations horizontales, et avez à cœur de contribuer activement au sein de ce collectif.
-
 Vous avez :
-
 - Une expérience démontrable au sein d'équipes produits ;
 - Démontré votre capacité à conduire un projet complexe et à intervenir dans un environnement pluridisciplinaire ;
 - Une connaissance de l’administration et de son fonctionnement ;
@@ -48,9 +45,7 @@ Vous avez :
 - À coeur le service public et l'intérêt général.
 
 ## Modalités
-
 Poste ouvert à temps plein au sein de l'incubateur DINUM, sous forme de CDD ou de mission pour les agents publics titulaires, pour une durée initiale de 3 ans.
 
 ## Candidater
-
-Les candidatures se font via la Place de l'emploi publique : https://place-emploi-public.gouv.fr/offre-emploi/responsable-d-un-portefeuille-de-startups-d-tat-hf-reference-2021-614429/
+Les candidatures se font [via la Place de l'emploi publique](https://place-emploi-public.gouv.fr/offre-emploi/responsable-d-un-portefeuille-de-startups-d-tat-hf-reference-2021-614429/) : 
