@@ -9,6 +9,6 @@ missions:
     status: independent
     employer: octo
 startups:
-  - apprentissage
+  - catalogue-apprentissage
   - pop
 ---
