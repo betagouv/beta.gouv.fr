@@ -10,5 +10,5 @@ missions:
     status: independent
     employer: 
 startups: 
-  - apprentissage
+  - rdv.apprentissage
 ---
