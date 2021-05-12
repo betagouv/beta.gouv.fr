@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2020-10-27
-    end: 2021-01-27
+    end: 2021-08-31
     status: admin
     employer: DRJSCS HdF
 ---

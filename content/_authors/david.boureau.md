@@ -15,6 +15,7 @@ missions:
     employer: inop's
 startups:
   - clara
+  - la-bonne-alternance
 previously:
   - pix
 ---
