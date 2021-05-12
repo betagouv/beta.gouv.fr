@@ -92,7 +92,9 @@ var createIncubatorSelect = function(data, incubators, initValue) {
             if (phaseLabel) {
                 var currentPhase = phases.filter(p => p.status === phase)[0]
                 var plural = dataToDisplay.length > 1 ? 's' : '' ;
-                phaseLabel.innerText = currentPhase.type_label + plural
+                phaseLabel.innerText = (currentPhase.type_label === 'success' ||
+                    currentPhase.type_label === 'alumni'
+                ) ? currentPhase.label : currentPhase.type_label + plural
             }
             for (var j = 0; j < dataToDisplay.length; j++) {
                 documentFragment.appendChild(dataToDisplay[j].html)
