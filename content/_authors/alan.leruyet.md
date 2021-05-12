@@ -10,7 +10,7 @@ missions:
     employer : pole-emploi
 startups:
     - memo
-    - apprentissage
+    - la-bonne-alternance
 ---
 
 Développeur full-stack, single page app monomaniac
