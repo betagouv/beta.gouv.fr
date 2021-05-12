@@ -36,5 +36,5 @@ Ce service s'appuiera sur la base de données des anciens apprentis, et chercher
 
 ## Les bénéfices attendus
 
--Éclairer les choix des futurs apprentis et leur permettre de répondre à leurs interrogations spécifiques ;
--Valoriser les bonnes pratiques des centres de formation des apprentis.
+- Éclairer les choix des futurs apprentis et leur permettre de répondre à leurs interrogations spécifiques ;
+- Valoriser les bonnes pratiques des centres de formation des apprentis.
