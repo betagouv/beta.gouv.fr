@@ -3,8 +3,9 @@ title: Sirius
 mission: Éclairer les jeunes et leurs parents sur l'apprentissage
 owner: Mission interministérielle pour l'apprentissage 
 sponsors :     
-- name: Mission interministérielle pour l'apprentissage
-      acronym: MNA
+  - name: "Ministère du travail, de l'emploi et de l'insertion "
+    type: administration-centrale
+    domaine_ministeriel: travail
 incubator: mission-apprentissage
 phases:
   - name: investigation
