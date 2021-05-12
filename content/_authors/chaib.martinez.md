@@ -22,6 +22,13 @@ previously:
   - trait-d-union
 badges:
     - segur
+domaine: Coaching
+competences:
+  - Croissance
+  - Coaching
+  - Gestion de Produit
+  - Développement Frontend
+  - Communication
 ---
 
 Accélérateur de startups d'État et de Térritoire. Acquisition, Activation, Retention, Referral, Impact 👊
