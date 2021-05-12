@@ -4,7 +4,7 @@ role: Développeur full-stack senior / Data trucs
 domaine: Développement
 missions:
   - start: 2017-10-05
-    end:
+    end: 2021-06-30
     status: independent
     employer: ey
 startups:
