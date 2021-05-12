@@ -1,6 +1,6 @@
 ---
 roles: une ou un responsable de portefeuille
-title: "L'incubateur de la DINUM recherche : une ou un responsable de portefeuille de Startups d'Etat"
+title: "Offre pour une ou un responsable de portefeuille de Startups d'Etat"
 open: true
 ---
 
