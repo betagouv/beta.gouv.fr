@@ -1,7 +1,7 @@
 ---
 fullname: Charlotte Lecuit
-role: Product Owner
 domaine: Produit
+role: Product Owner
 github: charlottelecuit
 missions:
   - start: 2018-05-14
@@ -13,8 +13,10 @@ missions:
     employer: Octo
     status: independent
 startups:
-    - apprentissage
+  - matcha
 previously:
-    - mes-aides
-    - la-bonne-formation
+  - mes-aides
+  - la-bonne-formation
+competences:
+  - Gestion de Produit
 ---
