@@ -11,4 +11,6 @@ missions:
 startups:
     - anotea
     - apprentissage
+    - sirius
+    - tdb-apprentissage
 ---
