@@ -10,7 +10,6 @@ missions:
     employer: pole-emploi
 startups:
     - anotea
-    - apprentissage
     - sirius
     - tdb-apprentissage
 ---
