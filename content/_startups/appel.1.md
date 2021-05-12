@@ -1,9 +1,13 @@
 ---
 title: APpeL
-mission: La convention APL rapide et fiable
+mission: Remplir les conventions APL de manière rapide et fiable
 owner: Direction générale de l'aménagement, du logement et de la nature (DGALN)
 incubator: mtes
 contact: sabine.marini@beta.gouv.fr
+phases:
+  - name: investigation
+    start: 2021-04-14
+    end: 2021-06-30
 ---
 <!--StartFragment-->
 
