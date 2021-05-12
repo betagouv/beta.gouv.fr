@@ -9,5 +9,4 @@ missions:
     status: independent
 startups:
   - rdv.apprentissage
-  - apprentissage
 ---
