@@ -69,7 +69,7 @@ Une grille de sélection vous sera transmise pour présenter votre dossier devan
 ## Quel est le processus de sélection ?
 
 * Vous sélectionnez un ou plusieurs services numériques existants ayant un impact mesuré, que vous souhaitez déployer.
-* Vous postulez en remplissant ce [formulaire] (https://www.demarches-simplifiees.fr/commencer/fast8). 
+* Vous postulez en remplissant ce [formulaire](https://www.demarches-simplifiees.fr/commencer/fast8). 
 À noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
 * À la clôture de l’appel à candidatures, l'équipe en charge du FAST effectue une présélection sur dossier. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
 * Si votre candidature est préselectionnée, vous présentez votre service devant les membres du comité d'investissement le 18 juin.

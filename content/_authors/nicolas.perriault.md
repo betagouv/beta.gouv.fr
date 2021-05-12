@@ -6,7 +6,7 @@ github: n1k0
 link: https://nicolas.perriault.net/
 missions:
     - start: 2019-12-16
-      end:
+      end: 2021-06-30
       status: independent
       employer: Octo
 startups:
