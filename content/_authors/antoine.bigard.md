@@ -5,10 +5,10 @@ domaine: Développement
 github: gethi
 missions:
   - start: 2018-09-17
-    end:
+    end: 2021-06-30
     status: independent
     employer: octo
 startups:
-  - apprentissage
+  - catalogue-apprentissage
   - pop
 ---

@@ -5,7 +5,7 @@ domaine: Développement
 avatar: https://avatars3.githubusercontent.com/melaniemeb?s=600
 missions:
   - start: 2017-10-05
-    end:
+    end: 2021-06-30
     status: service
     employer: octo
 startups:

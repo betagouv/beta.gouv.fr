@@ -6,10 +6,12 @@ github: sofiaboulaarab
 link:
 missions: 
   - start: 2020-01-06 
-    end:
+    end: 2021-06-30
     status: independent
     employer: education nationale
 startups: 
-  - apprentissage
+  - tdb-apprentissage
+  - rdv.apprentissage
+  - catalogue-apprentissage
 ---
 

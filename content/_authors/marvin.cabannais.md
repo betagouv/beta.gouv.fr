@@ -1,13 +1,17 @@
 ---
 fullname: Marvin Cabannais
-role: UX-UI Designer
 domaine: Design
-github: macab
+role: UX-UI Designer
+github: mamazero
 missions:
   - start: 2019-09-01
-    end: 2020-12-30
+    end: 2022-12-31
     status: independent
     employer: octo
 startups:
   - monstage
+competences:
+  - UX
+  - UI
+  - Communication
 ---

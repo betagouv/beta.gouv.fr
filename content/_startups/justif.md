@@ -53,7 +53,7 @@ Au-delà, cette inconstance des PPSMJ aux rendez-vous peut conduire à l’éche
 
 Dans un premier temps, la startup Mon Suivi Justice a pour but principal de créer une solution permettant aux personnes placées sous main de justice d’honorer plus facilement leur convocation à un rendez-vous judiciaire.
 
-Parmi les premières hypothèses à tester - qui pourront être challengées avec toi au fil de l’eau - nous prévoyons :
+Parmi les premières hypothèses à tester l'équipe prévoit :
 
 *  Des notifications (SMS, Push, e-mail …) de rappel des convocations judiciaires et la date des prochains rendez-vous ;
 * Les modalités pratiques des convocations telles que les documents à apporter, le lieu, l’accessibilité, documents à apporter ;
@@ -62,7 +62,7 @@ Parmi les premières hypothèses à tester - qui pourront être challengées ave
 
 # **La stratégie**
 
-Nous développerons un premier niveau de service sur le périmètre des Hauts-de-Seine, en partenariat avec les agents du SPIP et du TJ92. Si la solution prouve son intérêt au sein du TJ92, elle a pour vocation d’être ensuite déployée sur la France entière.
+Un premier niveau de service sera développé sur le périmètre des Hauts-de-Seine, en partenariat avec les agents du SPIP et du TJ92. Si la solution prouve son intérêt au sein du TJ92, elle a pour vocation d’être ensuite déployée sur la France entière.
 
 La première phase de développement du produit est un test du dispositif sur 2 à 3 mois. Cette phase de test a pour objectif de :
 
@@ -75,4 +75,4 @@ La première phase de développement du produit est un test du dispositif sur 2 
 
 Sur 9000 rdv annuel manqués : 30 % de rdv manqués en moins sur 6 mois soit 1350 sur 6 mois.
 
-Nous n'avons pas encore identifié de volumétrie d'utilisateurs potentiels de l'application, eu égard au profil relativement sensible des bénéficiaires de la solution.
+L'équipe n'a pas encore identifié de volumétrie d'utilisateurs potentiels de l'application, eu égard au profil relativement sensible des bénéficiaires de la solution.

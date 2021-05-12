@@ -128,7 +128,7 @@ layout: default
 
             <div id="{{ phase.status }}" class="fr-container-fluid fr-my-6w">
                 {% if phase.status == 'success' %}
-                    <h1 class="phase-title">Nos <em><span class="phase-label">{{ phase.label | downcase }}{{ plural }}</span></em></h1>
+                    <h1 class="phase-title">Nos <em><span class="phase-label">{{ phase.label | downcase }}</span></em></h1>
                 {% elsif phase.status == 'alumni' %}
                     <h1 class="phase-title">Nos <em>{{ phase.label | downcase }}</em></h1>
                 {% else %}
@@ -193,8 +193,8 @@ layout: default
     SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        searchResultTemplate: "<li><p><a href=\"{url}\">{title}</a> - {owner}<br>{mission}<p></li>",
-        noResultsText: "<li class=\"empty\">Aucun résultat</li>",
+        searchResultTemplate: "<div class=\"fr-tile fr-enlarge-link fr-tile--horizontal\"><div class=\"fr-tile__body\"><h4 class=\"fr-tile__title\"><a class=\"fr-tile__link\" href=\"{url}\">{title} - {owner}</a></h4><p class=\"fr-tile__desc\">{mission}</p></div></div>",
+        noResultsText: "<div class=\"fr-tile fr-enlarge-link fr-tile--horizontal\"><div class=\"fr-tile__body\"><h4 class=\"fr-tile__title\">Aucun résultat</div></div>",
         json: '/search.json'
     })
 </script>

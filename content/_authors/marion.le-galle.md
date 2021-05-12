@@ -4,7 +4,7 @@ role: UX designer
 domaine: Design
 missions:
   - start: 2016-04-01
-    end:
+    end: 2021-06-30
     status: admin
     employer: pole-emploi
 startups:
