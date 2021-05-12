@@ -94,7 +94,7 @@ var createIncubatorSelect = function(data, incubators, initValue) {
                 var plural = dataToDisplay.length > 1 ? 's' : '' ;
                 phaseLabel.innerText = (currentPhase.status === 'success' ||
                     currentPhase.status === 'alumni'
-                ) ? currentPhase.label : currentPhase.type_label + plural
+                ) ? currentPhase.label.toLowerCase() : currentPhase.type_label + plural
             }
             for (var j = 0; j < dataToDisplay.length; j++) {
                 documentFragment.appendChild(dataToDisplay[j].html)
