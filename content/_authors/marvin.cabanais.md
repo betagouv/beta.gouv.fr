@@ -5,7 +5,7 @@ role: UX-UI Designer
 github: mamazero
 missions:
   - start: 2019-09-01
-    end: 2021-05-12
+    end: 2022-12-31
     status: independent
     employer: octo
 startups:
