@@ -22,7 +22,7 @@ Ses principales missions, en collaboration étroite avec le reste de l’équipe
 *   De produire et maintenir la **documentation technique** du produit ;
 *   De mettre en oeuvre les bonnes pratiques liées à la **sécurité des applications Web**, à leur** performance** et leur capacité à **monter en charge**.
 
-### **Qui sommes-nous ?**
+### Qui sommes-nous ?
 
 Aujourd’hui près de 12 millions de Français en situation de handicap sont confrontés à un silence numérique sur les informations essentielles à leurs déplacements et leur vie quotidienne : les informations relatives à l’**accessibilité des établissements recevant du public** (ERP — commerces, établissements scolaires, lieux culturels ou sportifs, hôtels, bars, restaurants, etc) sont très insuffisantes – ou parfois inexistantes –, alors qu’elles leur sont nécessaires pour organiser leurs déplacements.
 
