@@ -48,8 +48,8 @@ Pour y parvenir, il nous semble nécessaire de travailler en collaboration avec 
 *   Bonne connaissance du framework **DRF** (Django Rest Framework)
 *   Bonne aisance à travailler sur un produit [Open Source](https://github.com/MTES-MCT/acceslibre) avec **git** ;
 *   Bonne connaissance de **HTML, CSS**, ainsi que **JavaScript** — une bonne connaissance de **Bootstrap 4** est un plus ;
-*   Connaissance des principes et bonnes pratiques en matière  d’**accessibilité** ;
-*   8 ans ou plus d’expérience professionnelle en tant que développeur·euse ;
+*   Connaissance des principes et **bonnes pratiques en matière  d’accessibilité** ;
+*   **8 ans ou plus d’expérience professionnelle** en tant que développeur·euse ;
 
 #### Votre profil nous intéresse si :
 
