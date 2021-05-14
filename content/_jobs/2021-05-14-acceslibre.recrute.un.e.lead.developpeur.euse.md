@@ -20,7 +20,7 @@ Ses principales missions, en collaboration étroite avec le reste de l’équipe
 *   De superviser **l’organisation du travail technique** sur le produit ;
 *   De **gérer l’hébergement et le déploiement** de l’application (PaaS Scalingo) ;
 *   De produire et maintenir la **documentation technique** du produit ;
-*   De mettre en oeuvre les bonnes pratiques liées à la **sécurité des applications Web**, à leur **performance** et leur capacité à **monter en charge**.
+*   De mettre en oeuvre les [bonnes pratiques](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage) liées à la **sécurité des applications Web**, à leur **performance** et leur capacité à **monter en charge**.
 
 ## Qui sommes-nous ?
 
