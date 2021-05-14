@@ -2,7 +2,6 @@
 fullname: Laurent Charpentier
 role: Responsable d'incubateur
 domaine: Autre
-github: lcharp
 missions:
   - start: 2021-05-12
     end: 2023-09-15
