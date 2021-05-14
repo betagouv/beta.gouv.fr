@@ -22,7 +22,7 @@ Ses principales missions, en collaboration étroite avec le reste de l’équipe
 *   De produire et maintenir la **documentation technique** du produit ;
 *   De mettre en oeuvre les bonnes pratiques liées à la **sécurité des applications Web**, à leur **performance** et leur capacité à **monter en charge**.
 
-### Qui sommes-nous ?
+## Qui sommes-nous ?
 
 Aujourd’hui près de 12 millions de Français en situation de handicap sont confrontés à un silence numérique sur les informations essentielles à leurs déplacements et leur vie quotidienne : les informations relatives à l’**accessibilité des établissements recevant du public** (ERP — commerces, établissements scolaires, lieux culturels ou sportifs, hôtels, bars, restaurants, etc) sont très insuffisantes – ou parfois inexistantes –, alors qu’elles leur sont nécessaires pour organiser leurs déplacements.
 
@@ -40,7 +40,7 @@ Pour y parvenir, il nous semble nécessaire de travailler en collaboration avec 
 *   Les acteurs proposant des solutions de description d’accessibilité ;
 *   Les grandes plateformes du web (moteur de recherche, itinéraire, réservation, événementiel, etc…).
 
-### **Profil recherché**
+## **Profil recherché**
 
 *   Maîtrise du langage **Python** (3.8+)
 *   Excellentes capacités de **communication orale et écrite** ;
@@ -51,7 +51,7 @@ Pour y parvenir, il nous semble nécessaire de travailler en collaboration avec 
 *   Connaissance des principes et **bonnes pratiques en matière  d’accessibilité** ;
 *   **8 ans ou plus d’expérience professionnelle** en tant que développeur·euse ;
 
-#### Votre profil nous intéresse si :
+### Votre profil nous intéresse si :
 
 *   Vous êtes convaincu qu’un service public de qualité se doit d’être **utile, efficace et accessible à tous** ;
 *   Vous êtes **créatif·ve**, **force de proposition** et **autonome** ;
@@ -59,7 +59,7 @@ Pour y parvenir, il nous semble nécessaire de travailler en collaboration avec 
 *   Vous aimez travailler dans une **petite équipe** et de manière agile ;
 *   Vous êtes à l’écoute et à l’aise dans la **communication** orale et écrite.
 
-#### Modalités
+## Modalités
 
 Poste ouvert pour un·e **indépendant·e** à pourvoir pour un contrat d’environ **4 jours par semaine** en **télétravail** sur **3 à 6 mois** (renouvelable en fonction des financements obtenus).
 
