@@ -8,7 +8,7 @@ startup: acceslibre
 
 _Lead développeur·euse senior Python/Django/JavaScript_
 
-Sortant de la phase de construction et entrant en phase d’accélération, la Startup d‘État [Acceslibre](https://acceslibre.beta.gouv.fr/), dont la mission est de collecter et diffuser en Open Data l’information d’accessibilité des établissements recevant du public (ERP) en France, recherche **un·e lead développeur·euse senior Python/Django/JavaScript**. 
+Sortant de la phase de construction et entrant en phase d’accélération, la Startup d‘État [Acceslibre](https://acceslibre.beta.gouv.fr/), dont la mission est de collecter et diffuser en Open Data l’information d’accessibilité des établissements recevant du public (ERP) en France, recherche **un·e lead développeur·euse senior Python/Django/JavaScript**.
 
 Ses principales missions, en collaboration étroite avec le reste de l’équipe, seront :
 
@@ -21,6 +21,11 @@ Ses principales missions, en collaboration étroite avec le reste de l’équipe
 *   De **gérer l’hébergement et le déploiement** de l’application (PaaS Scalingo) ;
 *   De produire et maintenir la **documentation technique** du produit ;
 *   De mettre en oeuvre les [bonnes pratiques](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage) liées à la **sécurité des applications Web**, à leur **performance** et leur capacité à **monter en charge**.
+
+Le·la développeur·euse senior est en mesure de jouer sur 2 tableaux :
+
+*   **L’exploration :** *« Vite, un prototype pour tester une hypothèse avec des utilisateurs dès demain »*
+*   **L’exploitation :** *« Il est temps de refactoriser et de mettre des outils de mesures sur ce module »*
 
 ## Qui sommes-nous ?
 
@@ -58,11 +63,6 @@ Pour y parvenir, il nous semble nécessaire de travailler en collaboration avec 
 *   Vous connaissez et êtes prescripteur de bonnes pratiques en matière **de développement Web** ;
 *   Vous aimez travailler dans une **petite équipe** et de manière agile ;
 *   Vous êtes à l’écoute et à l’aise dans la **communication** orale et écrite.
-
-Vous êtes en mesure de jouer sur 2 tableaux :
-
-*   **L’exploration :** *« Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »*
-*   **L’exploitation :** *« Il est temps de refactoriser et de mettre des outils de mesures sur ce module »*
 
 ## Modalités
 
