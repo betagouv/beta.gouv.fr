@@ -34,13 +34,13 @@ D’une part, nous collectons des données d’accessibilité – selon un forma
 
 Afin d’apporter un réel service au public handicapé, l’exhaustivité et la fiabilité des données constituent deux impératifs. C’est pourquoi nous privilégions, dans un premier temps, une stratégie de déploiement territoriale, pour assurer la qualité des données recueillies.
 
-Pour y parvenir, il nous semble nécessaire de travailler en collaboration avec des trois types d’acteur :
+Pour y parvenir, il nous semble nécessaire de travailler en collaboration avec trois types d’acteur :
 
 *   Des territoires investis sur les questions d’accessibilité, convaincus par la pertinence d’un tel outil autant pour la mise en valeur des ERP présents sur leurs périmètres que pour les habitants ;
 *   Les acteurs proposant des solutions de description d’accessibilité ;
 *   Les grandes plateformes du web (moteur de recherche, itinéraire, réservation, événementiel, etc…).
 
-## **Profil recherché**
+## Profil recherché
 
 *   Maîtrise du langage **Python** (3.8+)
 *   Excellentes capacités de **communication orale et écrite** ;
@@ -58,6 +58,11 @@ Pour y parvenir, il nous semble nécessaire de travailler en collaboration avec 
 *   Vous connaissez et êtes prescripteur de bonnes pratiques en matière **de développement Web** ;
 *   Vous aimez travailler dans une **petite équipe** et de manière agile ;
 *   Vous êtes à l’écoute et à l’aise dans la **communication** orale et écrite.
+
+Vous êtes en mesure de jouer sur 2 tableaux :
+
+*   **L’exploration :** *« Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »*
+*   **L’exploitation :** *« Il est temps de refactoriser et de mettre des outils de mesures sur ce module »*
 
 ## Modalités
 
