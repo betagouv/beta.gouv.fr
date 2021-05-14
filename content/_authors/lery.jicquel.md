@@ -18,8 +18,10 @@ startups:
   - inca
   - justif
   - article.40
+  - sndv_maritime
 previously:
   - e-controle
+  - dumas
 badges:
   - segur
 competences:
