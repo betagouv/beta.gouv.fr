@@ -69,6 +69,6 @@ Démarrage mi-juin 2021.
 
 ## Candidater
 
-Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV et votre GitHub si vous en avez un à [acceslibre@beta.gouv.fr](mailto:acceslibre@beta.gouv.fr) et en copie [tristan.robert@beta.gouv.fr](mailto:tristan.robert@beta.gouv.fr).
+Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub si vous en disposez à [acceslibre@beta.gouv.fr](mailto:acceslibre@beta.gouv.fr) et en copie [tristan.robert@beta.gouv.fr](mailto:tristan.robert@beta.gouv.fr).
 
 À bientôt !
