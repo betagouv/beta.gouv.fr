@@ -8,7 +8,7 @@ startup: acceslibre
 
 _Lead développeur·euse senior Python/Django/JavaScript_
 
-Sortant de la phase de construction et entrant en phase d’accélération, la Startup d‘État Acceslibre, dont la mission est de collecter et diffuser en Open Data l’information d’accessibilité des établissements recevant du public (ERP) en France, recherche **un·e lead développeur·euse senior Python/Django/JavaScript**. 
+Sortant de la phase de construction et entrant en phase d’accélération, la Startup d‘État [Acceslibre](https://acceslibre.beta.gouv.fr/), dont la mission est de collecter et diffuser en Open Data l’information d’accessibilité des établissements recevant du public (ERP) en France, recherche **un·e lead développeur·euse senior Python/Django/JavaScript**. 
 
 Ses principales missions, en collaboration étroite avec le reste de l’équipe, seront :
 
@@ -20,7 +20,7 @@ Ses principales missions, en collaboration étroite avec le reste de l’équipe
 *   De superviser **l’organisation du travail technique** sur le produit ;
 *   De **gérer l’hébergement et le déploiement** de l’application (PaaS Scalingo) ;
 *   De produire et maintenir la **documentation technique** du produit ;
-*   De mettre en oeuvre les bonnes pratiques liées à la **sécurité des applications Web**, à leur** performance** et leur capacité à **monter en charge**.
+*   De mettre en oeuvre les bonnes pratiques liées à la **sécurité des applications Web**, à leur **performance** et leur capacité à **monter en charge**.
 
 ### Qui sommes-nous ?
 
@@ -46,7 +46,7 @@ Pour y parvenir, il nous semble nécessaire de travailler en collaboration avec 
 *   Excellentes capacités de **communication orale et écrite** ;
 *   Bonne connaissance du framework **Django** (3.2+)
 *   Bonne connaissance du framework **DRF** (Django Rest Framework)
-*   Bonne aisance à travailler sur un produit Open Source** **avec **git** ([accéder au dépôt de code source](https://github.com/MTES-MCT/acceslibre)) ;
+*   Bonne aisance à travailler sur un produit [Open Source](https://github.com/MTES-MCT/acceslibre) avec **git** ;
 *   Bonne connaissance de **HTML, CSS**, ainsi que **JavaScript** — une bonne connaissance de **Bootstrap 4** est un plus ;
 *   Connaissance des principes et bonnes pratiques en matière  d’**accessibilité** ;
 *   8 ans ou plus d’expérience professionnelle en tant que développeur·euse ;
@@ -61,7 +61,7 @@ Pour y parvenir, il nous semble nécessaire de travailler en collaboration avec 
 
 #### Modalités
 
-Poste ouvert pour un·e **indépendant·e** à pourvoir pour un contrat d’environ **4 jours par semaine **en **télétravail** sur **3 à 6 mois** (renouvelable en fonction des financements obtenus).
+Poste ouvert pour un·e **indépendant·e** à pourvoir pour un contrat d’environ **4 jours par semaine** en **télétravail** sur **3 à 6 mois** (renouvelable en fonction des financements obtenus).
 
 Réunions d‘équipe régulières en format visio. Des réunions en présentiel optionnelles à prévoir sur Paris.
 
