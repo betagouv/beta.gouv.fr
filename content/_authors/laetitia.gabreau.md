@@ -8,6 +8,7 @@ missions:
     employer: Octo
 badges:
   - segur
+domaine: Déploiement
 ---
 
 Passionnée par l'innovation d'intérêt public, et facilitatrice graphique amatrice 

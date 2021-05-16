@@ -8,5 +8,6 @@ missions:
     employer: Octo
 startups:
   - signaux-faibles
+domaine: Développement
 ---
 

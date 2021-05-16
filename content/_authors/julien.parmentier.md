@@ -9,6 +9,7 @@ missions:
     employer: Codeurs en Liberté
 startups:
   - preuve-de-covoiturage
+domaine: Développement
 ---
 
 Développeur et mordu de surf ! 

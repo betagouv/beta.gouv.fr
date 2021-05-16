@@ -8,6 +8,7 @@ missions:
     employer: DINUM
 startups:
   - itou
+domaine: Déploiement
 ---
 
 Heureuse de participer à ce beau projet et d'apporter ma pierre à l'édifice. Ma devise : 
