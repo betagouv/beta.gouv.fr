@@ -18,6 +18,7 @@ phases:
   - name: construction
     start: 2021-01-04
 ---
+
 ## Le constat
 
 La réforme récente de l’apprentissage a permis la simplification du processus d’ouverture d’un centre de formation d’apprentis (CFA) via le simple le dépôt d’une déclaration d’activité d’organisme de formation continue auprès des DIRECCTE - devenues DREETS-, l’organisme de formation mentionnant simplement l'apprentissage dans ses statuts.
