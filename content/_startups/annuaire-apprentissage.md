@@ -13,7 +13,7 @@ contact: apprentissage@beta.gouv.fr
 events: []
 phases:
   - name: investigation
-    start: 2021.01.01
+    start: 2021-01-01
     end: ""
   - name: construction
     start: 2021-01-04
