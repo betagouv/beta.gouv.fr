@@ -10,6 +10,7 @@ startups:
   - sante-psy-etudiant
 badges:
   - segur
+domaine: Déploiement
 ---
 
 Chargée de communauté, serial-entrepreneuse à mes heures perdues.

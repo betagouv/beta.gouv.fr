@@ -9,5 +9,6 @@ missions:
     status: independent
 startups:
   - urbanvitaliz
+domaine: Développement
 ---
 

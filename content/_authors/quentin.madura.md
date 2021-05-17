@@ -8,6 +8,7 @@ missions:
     status: service
 startups:
   - aides.jeunes
+domaine: Développement
 ---
 
 Développeur fullstack le jour, cycliste le week-end
