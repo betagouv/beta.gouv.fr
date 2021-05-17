@@ -1,10 +1,10 @@
 ---
 fullname: Salomé Bouchet
-role: Business Developer
+role: Lien Ippon Technologies
 domaine: Autre
 missions:
-  - start: 2021-05-17
-    end: 2023-12-31
+  - start: 2020-02-28
+    end: 2021-12-31
     status: service
     employer: Ippon
 ---
