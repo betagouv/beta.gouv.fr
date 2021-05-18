@@ -9,6 +9,7 @@ startups:
   - sante-psy-etudiant
 badges:
   - segur
+domaine: Design
 ---
 
 Designer de service, passionné par les problématiques à fort impact sociales, artiste musicien

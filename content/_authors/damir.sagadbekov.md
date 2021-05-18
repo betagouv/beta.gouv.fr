@@ -10,6 +10,7 @@ startups:
   - sante-psy-etudiant
 badges:
   - segur
+domaine: Développement
 ---
 
 Developpeur, gamer, danseur. 

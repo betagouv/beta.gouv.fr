@@ -10,6 +10,7 @@ missions:
     employer: UT7
 startups:
   - sante-psy-etudiant
+domaine: Développement
 ---
 
 Pianiste sur clavier AZERTY

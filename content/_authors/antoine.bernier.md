@@ -9,6 +9,7 @@ missions:
     status: service
 startups:
   - aides.jeunes
+domaine: Développement
 ---
 
 Développeur Web full stack

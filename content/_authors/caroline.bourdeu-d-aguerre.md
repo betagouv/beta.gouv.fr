@@ -7,6 +7,7 @@ missions:
     status: independent
 startups:
   - sante-psy-etudiant
+domaine: Développement
 ---
 
 TDD ❤️
