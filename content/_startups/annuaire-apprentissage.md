@@ -7,8 +7,8 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: travail
 incubator: mission-apprentissage
-link: https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous
-repository: https://github.com/mission-apprentissage/prise-de-rdv
+link: 
+repository: 
 contact: apprentissage@beta.gouv.fr
 events: []
 phases:
