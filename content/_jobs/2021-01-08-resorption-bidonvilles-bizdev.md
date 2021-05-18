@@ -2,7 +2,7 @@
 roles: Un·e chargé·e de déploiement
 startup: resorption-bidonvilles
 junior: false
-open: true
+open: false
 title: Résorption-bidonvilles recherche un·e chargé·e de déploiement / développement commercial
 ---
 
