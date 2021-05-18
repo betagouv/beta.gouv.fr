@@ -8,5 +8,5 @@ missions:
     status: service
     employer: Octo
 startups:
-  - mon stage de 3e
+  - monstage
 ---
