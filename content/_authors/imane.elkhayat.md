@@ -8,5 +8,5 @@ missions:
     status: service
     employer: Pitch & chips
 startups:
-  - mon stage de 3e
+  - monstage
 ---
