@@ -17,6 +17,7 @@ startups:
     - anotea
     - sirius
     - catalogue-apprentissage
+    - annuaire-apprentissage
 ---
 
 J'évolue sur des projets informatiques à dominante web en prônant une approche simple et pragmatique des développements. Je suis également investi dans la communauté open source au travers du projet Jongo.
