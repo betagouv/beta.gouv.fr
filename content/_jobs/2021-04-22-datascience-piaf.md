@@ -6,7 +6,7 @@ type: friend
 contact: piaf@data.gouv.fr
 techno: python
 junior: false
-open: true
+open: false
 ---
 
 # L'équipe Piaf recrute un·e Data-Scientiste expérimenté·e avec une appétence pour le dev backend
