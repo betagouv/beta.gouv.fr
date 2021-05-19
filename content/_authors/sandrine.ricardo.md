@@ -10,6 +10,7 @@ missions:
     employer: UT7
 startups:
   - sante-psy-etudiant
+domaine: Développement
 ---
 
 Développeuse pour projets écologiques et sociaux

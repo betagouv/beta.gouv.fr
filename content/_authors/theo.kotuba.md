@@ -8,4 +8,5 @@ missions:
     employer: OCTO
 badges:
   - segur
+domaine: Déploiement
 ---

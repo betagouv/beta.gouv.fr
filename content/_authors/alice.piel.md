@@ -10,6 +10,7 @@ startups:
   - place-des-entreprises
 badges:
   - segur
+domaine: Autre
 ---
 
 stagiaire le jour, étudiante la nuit
