@@ -7,6 +7,7 @@ contact: christophe.musitelli@beta.gouv.fr
 phases:
   - name: investigation
     start: 2020-11-01
+    end: 2021-03-15
   - name: alumni
     start: 2021-05-01
 ---
