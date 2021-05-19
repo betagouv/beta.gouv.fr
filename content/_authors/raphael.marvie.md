@@ -1,10 +1,10 @@
 ---
 fullname: Raphael Marvie
-role: Dev touche à tout
+role: DevOp "Pile complète" 
 missions:
   - start: 2021-05-10
     end: 2021-12-31
-    status: independent
+    status: indépendant
 startups:
   - urbanvitaliz
 domaine: Développement
