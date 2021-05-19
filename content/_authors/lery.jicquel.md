@@ -13,7 +13,6 @@ missions:
     employer: beta.gouv
     end: 2021-09-01
 startups:
-  - dumas
   - AidESS-Relance
   - inca
   - justif
