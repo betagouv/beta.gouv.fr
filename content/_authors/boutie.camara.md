@@ -10,5 +10,6 @@ startups:
   - locatio
 badges:
   - segur
+domaine: Déploiement
 ---
 

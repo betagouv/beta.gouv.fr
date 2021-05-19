@@ -24,7 +24,7 @@ events:
     date: 2020-07-13
     comment: Convention globale
 link:
-repository:
+repository: https://github.com/Codeconut/jeveuxaider
 stats: false
 contact: nassim.merzouk@beta.gouv.fr
 ---

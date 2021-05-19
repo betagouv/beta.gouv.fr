@@ -48,6 +48,7 @@ mapping:
   "domaine":
     type:      str
     assert:    "['Animation','Coaching','Déploiement', 'Design', 'Développement', 'Intraprenariat', 'Produit', 'Autre'].include?(val)"
+    required:  yes
   "competences":
     type:      seq
     sequence:
