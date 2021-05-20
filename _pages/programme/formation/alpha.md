@@ -11,7 +11,7 @@ alpha-location: en visio
 alpha-location-link:
 alpha-catering:
 alpha-more:
-alpha-link: https://startupdetat.typeform.com/to/Vy9LsV8t
+alpha-link: Formation complète
 redirect_from:
   - /alpha
 ---
@@ -48,11 +48,10 @@ ______ Fin à 17h30  _______
 
 **Prochaine session**
 
-La session du 6 mai est complète !
+La session du 17 juin est complète !
 
-La prochaine session aura lieu le **jeudi 17 juin 2021**.
+La prochaine session aura lieu en juillet, la date sera prochainement annoncée.
 
-Vous pouvez vous inscrire [via ce formulaire](https://startupdetat.typeform.com/to/Vy9LsV8t).
 
 Pour plus d’information écrivez-nous à alpha@beta.gouv.fr.
 
