@@ -1,6 +1,6 @@
 ---
 fullname: Sophie Ravel
-role: >Intrapreneuse
+role: Intrapreneuse
 domaine: Intraprenariat
 missions:
   - start: 2021-05-20
@@ -13,4 +13,4 @@ badges:
   - segur
 ---
 
-Intrapreneuse, curieuse, j'aime la nouveauté, le changement et apprendre sans cesse de nouvelles choses!! 
+Intrapreneuse, curieuse, j'aime la nouveauté, le changement et apprendre sans cesse de nouvelles choses ! 
