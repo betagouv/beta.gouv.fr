@@ -12,16 +12,21 @@ sponsors:
 incubator: dinum
 contact: contact@metiers.numerique.gouv.fr
 phases:
+  - name: investigation
+    start: 2021-03-02
+    end: 2021-05-07
   - name: construction
-    start: 2021-03-08
+    start: 2021-05-16
 ---
 ### Contexte
 
 En 2021, les citoyens et les agents attendent un État véritablement en prise avec les enjeux et la culture numérique. L’enjeu d’attractivité devient alors essentiel ! Et parce que cet enjeu d’attractivité est un enjeu collectif pour nous tous, nous devons y répondre de la façon la plus adéquate et pertinente possible. 
 
-Or pour le moment :
-> Les réalisations de l’Etat dans le domaine du numériques sont peu ou mal connues.
-> L’État n’est pas identifié comme un employeur dans les métiers du numérique et lorsqu’il l’est, il souffre d’une image plutôt négatives (salaires, cadre de travail, autonomie…)
+Pour accélérer sa transformation numérique, l’Etat doit pouvoir compter sur des professionnels aguerris. Or dans un contexte de marché de l’emploi fortement concurrentiel, il est fondamental pour l’Etat, de renforcer sa notoriété et son attractivité comme employeur dans ce domaine.
+
+Pour relever ce défi, la DINUM a sollicité un accompagnement auprès de l’APIE afin de poser un diagnostic et construire un socle stratégique identitaire de l’Etat employeur dans le domaine (vision, valeurs, promesse, bénéfices différenciant…). Cela a mis en évidence la nécessité de travailler conjointement l’image de « l’Etat numérique » et « l’Etat employeur sur le numérique ».
+
+A la lumière de ces éléments, l’idée a germé  de mettre en place un site vitrine dédié pour renforcer l’attractivité et faciliter le recrutement de certains profils.
 
 ### Problèmes identifiés
 
