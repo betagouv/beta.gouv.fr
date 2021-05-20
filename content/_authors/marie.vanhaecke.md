@@ -10,7 +10,7 @@ missions:
     employer: Dinum
 startups:
   - tutorat_fp
-  - talents-numeriques
+  - metiers-numeriques
 badges:
   - segur
 ---
