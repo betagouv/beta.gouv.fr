@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: DINUM
 startups:
-  - investigation.carnet.de.bord
+  - carnet.de.bord
 badges:
   - segur
 ---
