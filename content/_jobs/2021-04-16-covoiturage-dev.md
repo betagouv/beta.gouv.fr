@@ -6,8 +6,8 @@ equipe: Registre de Preuve de Covoiturage
 startup: preuve-de-covoiturage
 post_ouvert: 2021-04-02
 contact: contact@covoiturage.beta.gouv.fr
-open: true
-poste_pourvu: false
+open: false
+poste_pourvu: true
 ---
 
 Tu veux mettre tes compétences au profit de l’amélioration du service public ? Tu as envie de travailler dans une équipe agile, et proche de ses utilisateurs et utilisatrices ? 
