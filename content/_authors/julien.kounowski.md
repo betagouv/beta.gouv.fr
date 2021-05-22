@@ -1,14 +1,17 @@
 ---
 fullname: Julien Kounowski
-role: Intrapreneur
 domaine: Intraprenariat
+role: Intrapreneur
 missions:
   - start: 2020-10-01
-    end: 2020-12-31
+    end: 2021-08-31
     status: admin
     employer: Ministères Sociaux / DRJSCS HDF
+startups:
+  - AidESS-Relance
 badges:
   - segur
+competences:
+  - Administration Publique
 ---
-
-Heureux innovateur engagé, responsable du SIILAB, laboratoire d'innovation publique PIA Hauts-de-France et inspecteur hors classe de l'action sanitaire et sociale dans les Ministères Sociaux ;) IASSweCAN :)
+Heureux innovateur engagé, responsable du SIILAB, laboratoire d'innovation publique PIA Hauts-de-France

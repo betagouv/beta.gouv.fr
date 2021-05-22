@@ -60,9 +60,9 @@ collections:
     fields:
       - label: Quel est le nom de ta Startup d'ETat ?
         name: title
-        hint: "Ce nom sert d'identifiant pour la startup et ne doit pas dépasser 20 caractères"
+        hint: "Ce nom sert d'identifiant pour la startup et ne doit pas dépasser 30 caractères"
         widget: string
-        pattern: ["^.{1,20}$","Vous êtes limité à 20 caractères"]
+        pattern: ["^.{1,30}$","Vous êtes limité à 20 caractères"]
       - label: Quel est son objectif principal ?
         hint : >
           Par exemple : "Faciliter la création d'une fiche produit". Pas besoin de faire plus long.
