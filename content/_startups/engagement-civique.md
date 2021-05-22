@@ -9,7 +9,7 @@ sponsors:
     type: administration-centrale
 incubator: dinum
 link: null
-repository: null
+repository: https://github.com/Codeconut/jeveuxaider
 contact: jeveuxaider@beta.gouv.fr
 stats: false
 events:

@@ -13,5 +13,6 @@ startups:
   - tdb-apprentissage
   - rdv.apprentissage
   - catalogue-apprentissage
+  - annuaire-apprentissage
 ---
 

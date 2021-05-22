@@ -5,7 +5,7 @@ domaine: Développement
 github: Alezco
 missions:
   - start: 2019-10-07
-    end: 2021-10-07
+    end: 2021-06-04
     status: service
     employer: BENEXT
 startups:
