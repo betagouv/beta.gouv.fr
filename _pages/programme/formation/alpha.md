@@ -11,7 +11,7 @@ alpha-location: en visio
 alpha-location-link:
 alpha-catering:
 alpha-more:
-alpha-link: Formation complète
+alpha-link: 
 redirect_from:
   - /alpha
 ---
@@ -58,4 +58,3 @@ Pour plus d’information écrivez-nous à alpha@beta.gouv.fr.
 **Formation dédiée**
 
 Vous êtes une administration et vous souhaitez une formation Alpha dédiée à vos services ? Parlez-nous de votre besoin à alpha@beta.gouv.fr. 
-
