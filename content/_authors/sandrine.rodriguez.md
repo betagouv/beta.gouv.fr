@@ -2,6 +2,7 @@
 fullname: Sandrine Rodriguez
 role: Intrapreneur
 domaine: Intraprenariat
+github: sandrinerodriguez
 missions:
   - start: 2021-05-10
     end: 2022-05-10
