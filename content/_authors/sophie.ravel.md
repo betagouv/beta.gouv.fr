@@ -2,7 +2,7 @@
 fullname: Sophie Ravel
 role: Intrapreneuse
 domaine: Intraprenariat
-github: sophieravel
+github: sophie-ravel
 missions:
   - start: 2021-05-20
     end: 2022-05-30
