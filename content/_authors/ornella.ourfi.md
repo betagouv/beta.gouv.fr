@@ -2,6 +2,7 @@
 fullname: Ornella Ourfi
 role: Développeuse / Support technique
 domaine: Développement
+avatar: https://avatars.githubusercontent.com/u/68587983?v=4
 github: Ornella452
 missions:
   - start: 2021-05-24
