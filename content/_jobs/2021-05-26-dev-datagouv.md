@@ -1,7 +1,7 @@
 ---
 startup: data.gouv.fr
 title: "Data.gouv.fr recrute un ou une développeuse fullstack"
-roles: un·e développeur·se
+roles: un·e développeur·se fullstack
 techno: 
 - JS 
 - VueJS 
