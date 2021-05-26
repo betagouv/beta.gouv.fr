@@ -1,8 +1,11 @@
 ---
 startup: data.gouv.fr
-title: "Data.gouv.fr recrute un ou une développeuse"
+title: "Data.gouv.fr recrute un ou une développeuse fullstack"
 roles: un·e développeur·se
-techno: JS / vueJS / python
+techno: 
+- JS 
+- VueJS 
+- Python
 open: true
 ---
 
