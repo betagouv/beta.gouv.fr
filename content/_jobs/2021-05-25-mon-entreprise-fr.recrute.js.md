@@ -10,7 +10,7 @@ Mon-entreprise.fr est le guide officiel pour accompagner les créateurs d’entr
 
 Nous partons du constat qu’il est difficile de s’y retrouver dans toute la documentation en ligne : il manque d'informations claires, à jour et pertinentes sur la création d'entreprise. Notre objectif est de lever toutes les incertitudes vis à vis de l’administration afin que vous puissiez vous concentrer sur ce qui compte : votre activité. On retrouve ainsi sur le site des simulateurs de cotisations sociales ou encore un guide d'aide au choix du statut juridique.
 
-Le service reçoit près de [300 000 visites par mois](https://mon-entreprise.fr/stats), et à été récemment promus "service public numérique à impact national" par beta.gouv.fr. Le projet est [financé à 100%](https://mon-entreprise.fr/budget) par l'Urssaf Caisse Nationale. 
+Le service reçoit près de [300 000 visites par mois](https://mon-entreprise.fr/stats), et à été récemment promu "service public numérique à impact national" par beta.gouv.fr. Le projet est [financé à 100%](https://mon-entreprise.fr/budget) par l'Urssaf Caisse Nationale. 
 
 ## Techniquement 💻
 
@@ -39,7 +39,7 @@ L'équipe coeur est constituée de trois developpeurs JS experimentés : [Johan]
 
 Nous sommes tous indépendants, rémunérés au mếme tarif : 600€ HT/jour. Le rythme de travail est très souple (Johan et Maxime au 3/5 sur l'année, Alex un peu moins). Nous sommes une équipe autonome, et jouissons d'une grande liberté et d'une large confiance de la part de notre partenaire.
 
-Notre façon de travailler est très horizontal et fait la part belle à l'autonomie et aux initiatives personnelles. Il n'y a pas de "Product Owner", mais des développeurs et développeuses avec une vision partagée centrée sur nos usagers. Très concrètement, cela veut dire que tout le monde dans l'équipe peut (par exemple) : 
+Notre façon de travailler est très horizontale et fait la part belle à l'autonomie et aux initiatives personnelles. Il n'y a pas de "Product Owner", mais des développeurs et développeuses avec une vision partagée centrée sur nos usagers. Très concrètement, cela veut dire que tout le monde dans l'équipe peut (par exemple) : 
 
 * répondre aux retours utilisateurs 
 * proposer un changement sur la page d'accueil
