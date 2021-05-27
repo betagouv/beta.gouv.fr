@@ -1,8 +1,8 @@
 ---
 fullname: Arnaud Denoix
+domaine: Animation
 role: Co-animateur du programme beta.gouv.fr
 github: adenoix
-domaine: Animation
 missions:
   - start: 2018-12-07
     end: 2022-12-31
@@ -11,12 +11,13 @@ missions:
 startups:
   - itou
   - data.insertion
-  - investigation.carnet.de.bord
-  - investigation.offre.dinsertion
   - aides.jeunes
+  - dora
 previously:
   - avril
   - la-bonne-formation
 badges:
   - segur
+competences:
+  - Administration Publique
 ---
