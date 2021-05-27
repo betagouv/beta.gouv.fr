@@ -10,4 +10,5 @@ missions:
 startups:
     - peps
     - e-inspé
+    - ma-cantine-egalim
 ---
