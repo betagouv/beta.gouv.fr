@@ -8,6 +8,8 @@ missions:
   - start: 2021-05-25
     end: 2021-12-31
     status: admin
+startups:
+  - avril 
 ---
 
 Pas de badges, pas de chocolat
