@@ -9,7 +9,7 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: travail
 incubator: dinum
-contact: agathe.latreille@beta.gouv.fr
+contact: dora@beta.gouv.fr
 events: []
 phases:
   - name: investigation

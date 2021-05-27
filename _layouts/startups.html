@@ -128,7 +128,7 @@ layout: default
 
             <div id="{{ phase.status }}" class="fr-container-fluid fr-my-6w">
                 {% if phase.status == 'success' %}
-                    <h1 class="phase-title">Nos <em><span class="phase-label">{{ phase.label | downcase }}</span></em></h1>
+                    <h1 class="phase-title">Nos <em><span class="phase-label">{{ phase.label | downcase }}s</span></em></h1>
                 {% elsif phase.status == 'alumni' %}
                     <h1 class="phase-title">Nos <em>{{ phase.label | downcase }}</em></h1>
                 {% else %}
