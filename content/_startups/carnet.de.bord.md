@@ -8,7 +8,7 @@ sponsors:
     acronym: DGEFP
     type: administration-centrale
     domaine_ministeriel: affaires-sociales
-incubator: dinum
+incubator: sgmas
 contact: ronan.james@beta.gouv.fr
 phases:
   - name: investigation
