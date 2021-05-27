@@ -1,7 +1,7 @@
 ---
 fullname: Agathe Latreille
-role: Chargée de développement
 domaine: Déploiement
+role: Chargée de développement
 missions:
   - start: 2016-11-01
     end: 2019-12-26
@@ -14,11 +14,13 @@ missions:
 startups:
   - itou
   - le.forum.de.linclusion
-  - investigation.offre.dinsertion
+  - dora
 previously:
   - la-bonne-alternance
   - la-bonne-boite
+competences:
+  - Gestion de Produit
+  - Communication
+  - Administration Publique
 ---
-
-(trop ?) Enthousiaste , (trop ?) curieuse, Nerd dans l’âme, portée par l’envie de relever des défis.
-« Un seul combat est perdu d’avance, celui auquel on renonce ». Vaclav Havel
+(trop?) enthousiaste , (trop?) curieuse, Nerd dans l’âme, portée par l’envie de relever des défis.
