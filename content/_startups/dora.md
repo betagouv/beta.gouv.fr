@@ -8,7 +8,7 @@ sponsors:
     acronym: DGEFP
     type: administration-centrale
     domaine_ministeriel: travail
-incubator: dinum
+incubator: sgmas
 contact: dora@beta.gouv.fr
 events: []
 phases:
