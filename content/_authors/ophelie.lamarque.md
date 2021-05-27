@@ -2,6 +2,7 @@
 fullname: Ophélie Lamarque
 role: UX Designer
 domaine: Design
+startup : avril 
 missions:
   - start: 2021-05-27
     end: 2021-06-30
