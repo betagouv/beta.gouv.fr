@@ -10,7 +10,7 @@ missions:
     employer: Ground
 startups:
   - mobilic
-  - investigation.offre.dinsertion
+  - dora
 competences:
   - Gestion de Produit
   - Coaching
