@@ -12,6 +12,5 @@ missions:
     status: independent
 startups:
   - eva
-previously:
   - avril
 ---
