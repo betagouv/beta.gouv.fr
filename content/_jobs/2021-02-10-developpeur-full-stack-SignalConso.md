@@ -3,14 +3,14 @@ roles: une développeuse ou un développeur web full-stack
 startup: signalement
 techno: Scala - Angular/RxJS
 junior: false
-open: true
+open: false
 ---
 
 ## Qui sommes-nous ?
 
 Plus de 60 millions de consommateurs fréquentent quotidiennement près de 10 millions d’établissements. Et pour contrôler le droit des consommateurs ? Moins de 3 000 agents de la DGCCRF (Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes). Malgré l’action des enquêteurs, toutes les anomalies ne peuvent pas être détectées, en particulier les plus mineures et récurrentes, qui pourtant irritent et lèsent les consommateurs dans leur quotidien (absence de prix dans un magasin, date limite dépassée sur un produit…).
-**SignalConso** a pour objectif de faire baisser significativement les anomalies rencontrées par les consommateurs en responsabilisant les professionnels et en améliorant le ciblage des enquêteurs. 
-Cette Startup d’État a démarré en juin 2018. 
+**SignalConso** a pour objectif de faire baisser significativement les anomalies rencontrées par les consommateurs en responsabilisant les professionnels et en améliorant le ciblage des enquêteurs.
+Cette Startup d’État a démarré en juin 2018.
 D'abord en expérimentation dans 3 régions, le site a été déployé sur l’ensemble du territoire en février 2020.
 
 En savoir plus : [https://signal.conso.gouv.fr](https://signal.conso.gouv.fr)
