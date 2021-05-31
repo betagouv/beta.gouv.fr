@@ -4,8 +4,7 @@ mission: Accélérer le raccordement des copropriétés aux réseaux de chaleur
 owner: Ministère de la Transition écologique et solidaire
 sponsors:
   - name: DRIEAT
-    acronym: Direction régionale et interdépartementale de l’Environnement, de
-      l’Aménagement et des Transports d’Île-de-France
+    acronym: Direction régionale et interdépartementale de l’Environnement, de l’Aménagement et des Transports d’Île-de-France
     type: autre
     domaine_ministeriel: environnement
   - name: DGEC
@@ -13,7 +12,7 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: environnement
   - name: ADEME
-    acronym: "Agence De l'Environnement et de Maîtrise de l'Energie "
+    acronym: Agence De l'Environnement et de Maîtrise de l'Energie
     type: operateur
     domaine_ministeriel: environnement
   - name: FNCCR
@@ -21,7 +20,7 @@ sponsors:
     type: autre
     domaine_ministeriel: environnement
   - name: SNCU
-    acronym: "Syndicat National du Chauffage Urbain et de la Climatisation Urbaine "
+    acronym: Syndicat National du Chauffage Urbain et de la Climatisation Urbaine
     type: operateur
     domaine_ministeriel: environnement
   - name: AMORCE
@@ -32,14 +31,12 @@ link: https://chauffage-urbain.beta.gouv.fr/
 repository: null
 contact: thomas.bouyer@developpement-durable.gouv.fr
 stats: false
-events: []
 phases:
   - name: investigation
     start: 2020-03-01
     end: 2020-06-15
   - name: construction
     start: 2020-12-01
-    end: ""
     comment: lancement du prototype no-code en février 2021
 ---
 ## Encore trop de chauffages collectifs aux énergies fossiles
