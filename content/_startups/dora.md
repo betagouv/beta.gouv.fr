@@ -8,8 +8,8 @@ sponsors:
     acronym: DGEFP
     type: administration-centrale
     domaine_ministeriel: travail
-incubator: dinum
-contact: agathe.latreille@beta.gouv.fr
+incubator: sgmas
+contact: dora@beta.gouv.fr
 events: []
 phases:
   - name: investigation
