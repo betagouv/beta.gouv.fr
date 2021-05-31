@@ -3,7 +3,7 @@ roles: une développeuse ou un développeur
 startup: transport
 techno: Elixir (Phoenix) / Rust
 contrat: indépendant
-open: true
+open: false
 ---
 
 [transport.data.gouv.fr](https://transport.data.gouv.fr), la verticale "transport" de data.gouv.fr cherche une personne intéressée par les transports et les données ouvertes !
