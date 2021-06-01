@@ -1,15 +1,20 @@
 ---
 fullname: Fanny Cheung
-role: Développeuse
 domaine: Développement
-github: Ynote 
-avatar: 
+role: Développeuse
+github: Ynote
+avatar: null
 link: http://ynote.hk
-missions: 
+missions:
   - start: 2020-11-24
-    end: 2021-05-24
+    end: 2021-11-09
     status: independent
-    employer:
-startups: 
-    - labels-transition
+    employer: null
+startups:
+  - labels-transition
+previously:
+  - labels-transition
+competences:
+  - Développement Backend
+  - Développement Frontend
 ---
