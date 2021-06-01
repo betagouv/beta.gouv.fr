@@ -1,6 +1,7 @@
 ---
 fullname: Lina CHAM
 role: Chargée de communauté et de déploiement
+github: LinaCHAM
 missions:
   - start: 2021-05-04
     end: 2021-12-31
