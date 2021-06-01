@@ -22,7 +22,7 @@ redirect_from:
 
 La Bonne Alternance est le premier service qui permet de rechercher simultanément une formation en apprentissage et une entreprise recrutant des alternants. Vous pouvez y accéder directement sur : https://labonnealternance.pole-emploi.fr/
 
-D’abord développé par Pôle emploi, la Bonne Alternance a été reprise en 2020 par la Mission intermnistérielle pour l'apprentissage afin d'en consolider les données exposées et être étoffée de nouvelles fonctionnalités.
+D’abord développé par Pôle emploi, la Bonne Alternance a été reprise en 2020 par la Mission interministérielle pour l'apprentissage afin d'en consolider les données exposées et être étoffée de nouvelles fonctionnalités.
 
 ## Le constat
 
