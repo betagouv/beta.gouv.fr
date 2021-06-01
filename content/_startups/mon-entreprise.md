@@ -24,6 +24,7 @@ events:
     date: 2020-03-01
 link: https://mon-entreprise.fr
 repository: https://github.com/betagouv/mon-entreprise
+budget_url: https://mon-entreprise.fr/budget
 stats: true
 contact: contact@mon-entreprise.beta.gouv.fr
 ---
@@ -63,10 +64,6 @@ Nos cibles sont en particulier :
 - Et plus généralement, le créateur d'entreprise qui découvre tout ce monde
 
 Mon-entreprise.fr est développé en étroite collaboration avec le réseau des Urssaf, et tous les acteurs institutionnels qui se montreront intéressés.
-
-### Budget 💶
-
-👉 [Consulter la description détaillée et atualisée](https://mon-entreprise.fr/budget)
 
 ### Internationalisation 🌍
 
