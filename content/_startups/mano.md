@@ -10,6 +10,7 @@ incubator: sgmas
 repository: https://github.com/SocialGouv/mano/
 contact: caroline.de_kerhor@beta.gouv.fr
 stats: true
+stats_url: https://metabase-mano.fabrique.social.gouv.fr/public/dashboard/825cc4ad-b502-4483-aa78-c2af56032bc9
 events: []
 phases:
   - name: investigation
