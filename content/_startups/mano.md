@@ -5,9 +5,11 @@ mission: Service de soutien aux équipes mobiles visant à améliorer la vie des
 owner: MANO
 sponsors:
   - name: Agence régionale de santé d'Île de France
+    domaine_ministeriel: affaires-sociales
 incubator: sgmas
-contact: caroline.de_kerhor@beta.gouv.fr
 repository: https://github.com/SocialGouv/mano/
+contact: caroline.de_kerhor@beta.gouv.fr
+stats: true
 events: []
 phases:
   - name: investigation
