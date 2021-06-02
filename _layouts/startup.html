@@ -52,6 +52,8 @@ Le code source
 {% capture budget_info %}
 {% if page.budget_url %}
 Le budget <a href="{{ page.budget_url }}">est ouvert</a>.
+{% else %}
+L’équipe ne communique pas encore sur son budget.
 {% endif %}
 {% endcapture %}
 
@@ -68,9 +70,7 @@ Technologies utilisées : {{ page.techno | join: ", " }}
     {% unless phase.status == 'investigation' %}
       <li>{{ statistiques_info }}</li>
       <li>{{ source_info }}</li>
-      {% if page.budget_url %}
       <li>{{ budget_info }}</li>
-      {% endif %}
       {% if page.techno %}
       <li>{{ techno_info }}</li>
       {% endif %}
