@@ -28,7 +28,7 @@ La phase d'investigation peut être financée par la Direction interministériel
     - autorise le télétravail de cette personne&nbsp;;
     - lui donne un accès à internet « libre », en particulier elle peut accéder aux sites couramment utilisés par les équipes beta.gouv.fr (Slack, Trello, GitHub…) et a un ordinateur portable sur lequel elle peut installer en autonomie des logiciels nécessaires à sa mission&nbsp;;
     - l'autorise à ouvrir toutes les portes utiles à sa mission, sans validation préalable, afin d’échanger avec les personnes jugées les plus pertinentes (au sein de son administration ou ailleurs) 
-- Obtenir le soutien d'un “**sponsor**” de haut niveau (exemples&nbsp;: directeur ou directrice d'administration aentrale&nbsp;; directeur ou directrice général(e) des services) qui adhère à la démarche beta.gouv.fr, qui garantit l’autonomie et la liberté de l’équipe et qui s'engage à participer au comité de lancement final. Concrètement l’intrapreneur accompagné par beta.gouv.fr rapporte directement au sponsor plutôt qu’à sa hiérarchie habituelle.
+- Obtenir le soutien d'un “**sponsor**” de haut niveau (exemples&nbsp;: directeur ou directrice d'administration centrale&nbsp;; directeur ou directrice général(e) des services) qui adhère à la démarche beta.gouv.fr, qui garantit l’autonomie et la liberté de l’équipe et qui s'engage à participer au comité de lancement final. Concrètement l’intrapreneur accompagné par beta.gouv.fr rapporte directement au sponsor plutôt qu’à sa hiérarchie habituelle.
 
 Le lancement de la phase d'investigation est conditionné à la transmission par le sponsor de [cette fiche d'engagement](https://beta.gouv.fr/content/docs/engagement.docx) complétée.
 
