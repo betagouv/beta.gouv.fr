@@ -1,9 +1,10 @@
 ---
 roles: un ou une bizdev
-startup: mobilic 
-junior: true # 
-open: true #
-title: Mobilic recherche un.e bizdev / 
+open: false
+junior: false
+startup: mobilic
+title: Mobilic recherche un.e bizdev /
+date: 2021-06-02T14:11:52.936Z
 ---
 
 Veux-tu faire passer une startup d'État à la vitesse supérieure ? On recrute un·e chargé·e de développement (business developer) en freelance !

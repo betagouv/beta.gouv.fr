@@ -1,7 +1,8 @@
 ---
 fullname: Olivier GERARD
 domaine: Intraprenariat
-role: Intrapreneur Avril - ReVa
+role: Intrapreneur ReVa
+github: 08071963
 missions:
   - start: 2020-10-26
     end: 2021-06-30

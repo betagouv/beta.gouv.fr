@@ -12,7 +12,7 @@ link: https://recosante.beta.gouv.fr/
 repository: https://github.com/betagouv/recosante/
 contact: contact@recosante.beta.gouv.fr
 stats_url: https://recosante.beta.gouv.fr/stats/
-stats: false
+stats: true
 phases:
   - name: investigation
     start: 2019-11-25
