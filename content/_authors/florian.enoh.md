@@ -1,6 +1,7 @@
 ---
 fullname: Florian Enoh
 role: Développeur
+github: florianEnoh
 domaine: Développement
 missions:
   - start: 2017-01-10
