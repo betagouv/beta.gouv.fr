@@ -12,8 +12,7 @@ missions:
     employer: null
 startups:
   - labels-transition
-previously:
-  - labels-transition
+previously: []
 competences:
   - Développement Backend
   - Développement Frontend
