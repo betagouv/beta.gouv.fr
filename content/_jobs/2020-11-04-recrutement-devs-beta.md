@@ -1,7 +1,7 @@
 ---
 roles: développeurs/ses expérimenté.e.s
 startup: beta.gouv.fr
-open: true
+open: false
 title: Nous recrutons des développeurs ou développeuses expérimenté.e.s pour rejoindre des produits beta.gouv.fr
 ---
 
@@ -46,7 +46,7 @@ Nous serions très contents de te rencontrer si :
 - Tu sais délimiter des tâches que tu peux mener de A à Z en autonomie, et demander de l'aide si tu les as sous-estimées ;
 - Tu aimes les modes de communication asynchrones ;
 - Tu n’as pas peur d'interagir avec une grande variété d’interlocuteurs ;
-- Tu n'hésites pas à montrer ou livrer ton travail, même s'il est encore imparfait (bref tu dis souvent «Done is better than perfect »);
+- Tu n'hésites pas à montrer ou livrer ton travail, même s'il est encore imparfait (bref tu dis souvent « Le mieux est l'ennemi du bien »);
 - Tu maîtrises le français et un peu l’anglais dans un contexte professionnel et tu possèdes des qualités rédactionnelles ;
 - Tu souhaites travailler au service du bien commun et espères participer à la construction d'une solution qui cherche à tout prix à avoir le maximum d'impact et une utilité avérée ;
 - Tu sais travailler en équipe, tu sais écouter et tu acceptes de te remettre parfois en question – ou de remettre en question les procédures adoptées par l'équipe – lorsque tu penses pouvoir faire mieux ;

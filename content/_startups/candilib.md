@@ -10,10 +10,13 @@ sponsors:
 incubator: lab-mi
 phases:
   - name: investigation
-    start: 2018-05-01
+    start: 2018-04-01
   - name: construction
     start: 2018-05-01
-  - name: transfer
+  - name: acceleration
+    start: 2018-12-01
+  - name: alumni
+    start: 2021-01-15
 link: https://beta.interieur.gouv.fr/candilib/
 repository: https://github.com/LAB-MI/candilibV2
 stats: false

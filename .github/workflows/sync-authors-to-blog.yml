@@ -1,11 +1,12 @@
 name: Sync 'authors' content with blog.beta.gouv.fr
 on:
+  workflow_dispatch:
   push:
     branches: ['master']
 
 jobs:
   sync:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     steps:
     - name: Sync
       uses: adrianjost/files-sync-action@v1.0.1

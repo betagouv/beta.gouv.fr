@@ -24,6 +24,7 @@ mapping:
               required:  yes
             "end":
               type:      date
+              required:  yes
             "status":
               type:      str
               assert:    "['service','independent','admin'].include?(val)"
@@ -44,3 +45,11 @@ mapping:
         - type:      str
           enum:
             - segur
+  "domaine":
+    type:      str
+    assert:    "['Animation','Coaching','Déploiement', 'Design', 'Développement', 'Intraprenariat', 'Produit', 'Autre'].include?(val)"
+    required:  yes
+  "competences":
+    type:      seq
+    sequence:
+        - type:      str     

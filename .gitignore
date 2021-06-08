@@ -1,6 +1,5 @@
 # Jekyll
 _site
-.sass-cache
 .jekyll-metadata
 .jekyll-cache
 
@@ -18,3 +17,8 @@ _site
 .idea
 *.iml
 .vscode
+
+# Node
+node_modules/**/*
+package-lock.json
+

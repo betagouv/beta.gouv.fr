@@ -1,6 +1,7 @@
 ---
 fullname: Benoit Guillou
 role: Coach, Rails Dev
+domaine: Développement
 missions:
   - start: 2017-04-01
     end: 2018-06-30

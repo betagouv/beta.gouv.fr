@@ -3,7 +3,7 @@ roles: un·e développeur·se principal·e
 startup: data.gouv.fr
 title: "L’équipe de data.gouv.fr recrute un·e développeur·se principal·e"
 externalURL: 'https://www.data.gouv.fr/fr/posts/lequipe-de-data-gouv-fr-recrute-un-e-developpeur-se-principal-e/'
-open: true
+open: false
 ---
 
 Nous cherchons une personne intéressée par les données ouvertes, l’open source, Python et JavaScript, dans le but de nous aider à améliorer [data.gouv.fr](https://www.data.gouv.fr/fr/), la plateforme de référence en matière d’ouverture des données publiques.

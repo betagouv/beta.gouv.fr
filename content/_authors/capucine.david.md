@@ -1,6 +1,7 @@
 ---
 fullname: Capucine David
-github: 
+github:
+domaine: Déploiement
 role: Déploiement
 missions:
   - start: 2020-05-18
@@ -8,5 +9,5 @@ missions:
     status: service
     employer: octo
 startups:
-  - ecolab
+  - datagir
 ---

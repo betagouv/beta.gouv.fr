@@ -1,18 +1,22 @@
 ---
-title: Place de marché de l'inclusion
-mission: Promouvoir l'offre commerciale des structures inclusives pour accroître leur capacité d'embauche
-owner: Délégation générale à l’emploi et à la formation professionnelle (DGEFP), Itou 
+title: Le marché de l'inclusion (ITOU)
+mission: Promouvoir l'offre commerciale des structures inclusives pour accroître
+  leur capacité d'embauche
+owner: Ministère du Travail, de l'Emploi et de l'Insertion, ITOU
+sponsors:
+  - name: Délégation générale à l'emploi et à la formation professionnelle
+    acronym: DGEFP
 incubator: dinum
+repository: https://github.com/betagouv/itou-cocorico
+contact: lemarche@inclusion.beta.gouv.fr
+stats_url: https://lemarche.inclusion.beta.gouv.fr/fr/stats
+link: https://lemarche.inclusion.beta.gouv.fr
+stats: true
 phases:
   - name: investigation
     start: 2020-03-16
   - name: construction
     start: 2020-06-30
-link: https://lemarche.inclusion.beta.gouv.fr
-repository: https://github.com/betagouv/itou-cocorico
-stats: true 
-stats_url: https://lemarche.inclusion.beta.gouv.fr/fr/stats
-contact: lemarche@inclusion.beta.gouv.fr
 ---
 
 **Problème**

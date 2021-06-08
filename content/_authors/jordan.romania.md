@@ -1,6 +1,7 @@
 ---
 fullname: Jordan Romania
 role: UX Designer
+domaine: Design
 avatar: 
 link:
 missions:

@@ -1,7 +1,7 @@
 ---
 roles: un ou une dev web full stack
 startup: aidantsconnect
-open: true
+open: false
 ---
 
 Aidants Connect cherche un développeur ou une développeuse pour faire passer à l'échelle un service qui permet à un aidant professionnel de réaliser des démarches administratives en ligne à la place d'une personne ne parvenant pas à les faire seule.
@@ -36,8 +36,8 @@ En rejoignant une Startup d’État, vous participez à l’aventure d’une nou
 
 Vous serez en charge de développer le service pour les usagers. Les choix technologiques sont ouverts parmi les solutions libres du marché.  
 Vous pourrez participer à la conception, aux études terrain, aux tests utilisateur avec les intrapreneurs.  
-- Les langages supportés à l'Incubateur de Services Numériques sont JavaScript, Python et Ruby.  Aidants Connect est en Django, le code esitant est disponible sur le repo suivant : https://github.com/betagouv/aidants_connect/ ;
-- L'équipe technique est  en charge des développements, de l’administration système aux CSS, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, et de monitoring.
+- Les langages supportés à l'Incubateur de Services Numériques sont JavaScript, Python et Ruby.  Aidants Connect est en Django, le code existant est disponible sur le repo suivant : https://github.com/betagouv/aidants_connect/ ;
+- L'équipe technique est en charge des développements, de l’administration système aux CSS, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests, et de monitoring.
 
 Vous êtes en mesure de jouer sur 2 tableaux :
 - La découverte : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! » ;

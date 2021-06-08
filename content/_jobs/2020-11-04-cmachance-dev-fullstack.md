@@ -1,7 +1,7 @@
 ---
 roles: un ou une dev web full stack PHP
 startup: cmachance
-open: true
+open: false
 ---
 
 Cmachance cherche un développeur ou une développeuse expérimentée pour finaliser une V2 et prendre le lead technique.

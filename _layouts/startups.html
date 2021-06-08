@@ -2,63 +2,151 @@
 layout: default
 ---
 
-{% comment %}additional_css : side-panel.css grid.css{% endcomment %}
-
 {% assign lang = page.lang | default: site.lang | default: "en" %}
 {% assign phases = site.phases | sort: 'order' %}
 {% assign phases_with_stopped = site.phases | sort: 'order' %}
 {% assign incubators = site.incubators %}
-
+<script>
+    var data = {
+        {% for phase in site.phases %}
+        {% assign startups = site.startups | where_phase: phase.status %}
+        "{{phase.status}}": [{% for startup in startups %}
+            {% assign startup_id = startup.id | remove: '/startups/' %}
+            {% assign screenshot_files = site.static_files | where: "startups_img", true %}
+            {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
+            {% if screenshot_file %}
+            {% assign screenshot_path = screenshot_file.path %}
+            {% else %}
+            {% assign screenshot_path = "/img/logo-generique-startup-rectangle-2019.jpg" %}
+            {% endif %}
+            {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
+            {% assign incubator = incubators | where:'id', incubator_id | first %}
+            { "id"        : "{{ startup.id | remove: '/startups/' }}"
+            , "type"      : "startup"
+            , "phase": "{{ status }}"
+            , "incubator_id" : "{{startup.incubator}}"
+            , "incubator_title": "{{ incubator.title }}"
+            , "attributes":
+                { "name"  : "{{ startup.title }}"
+                , "pitch" : "{{ startup.mission }}"{% if startup.stats %}
+                , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}{% if startup.link %}
+                , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
+                , "repository": "{{ startup.repository}}"{% endif %}
+                , "contact": "{{startup.contact}}"
+                , "owner" : "{{ startup.owner | escape }}"
+                , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
+                , "screenshot-url": "{{ screenshot_path }}"
+                , "phases": [
+                    {% for phase in startup.phases %}
+                        { "name": "{{phase.name}}", "start": "{{phase.start}}", "end": "{{phase.end}}"}{% unless forloop.last %},{% endunless %}
+                    {% endfor %}
+                    ]
+                }
+            , "relationships":
+                { "incubator":
+                    { "data": { "type": "incubator", "id": "{{ startup.incubator}}" }
+                    }
+                }
+            }
+            {% unless forloop.last %},{% endunless %}
+        {% endfor %}]
+        {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    };
+    var incubators = [
+        {% for incubator in incubators %} {
+        id: "{{incubator.id}}".replace('/incubators/', ''),
+        title: "{{incubator.title}}",
+        url: "/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}"
+        },
+        {% endfor %}
+    ];
+    var phases = [
+        {% for phase in site.phases %}
+            {% assign counter_target = phase.id | remove: "/phases/" %}
+            {% assign counter = site.startups | where_phase: counter_target | size %}
+            { "status"        : "{{ phase.status }}"
+            , "label"      : "{{ phase.label }}"
+            , "counter"      : "{{ phase.counter }}"
+            , "type_label" : "{{phase.type_label}}"
+            }
+            {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ];
+</script>   
 <main>
     <section class="filters sticky">
-        <div class="container">
-            <div class="selects">
-                <select id="select-phase">
-                    <option>Aller à une phase</option>
-                    {% for phase in phases_with_stopped %}
-                        <option value="{{ phase.status }}">{{ phase.label }}</option>
-                    {% endfor %}
-                </select>
+        <div class="fr-container">
+            <select class="fr-select" id="select-incubateur">
+                <option value="">Tous les incubateurs</option> 
+            </select>
+            <select class="fr-select" id="select-phase">
+                <option>Aller à une phase</option>
+                {% for phase in phases_with_stopped %}
+                    <option value="{{ phase.status }}" id="{{phase.status}}-option">{{ phase.label }}</option>
+                {% endfor %}
+            </select>
+            <div class="fr-search-bar" id="search-input">
+                <label class="fr-label" for="search-input-input">Label de la barre de recherche</label>
+                <input class="fr-input" placeholder="Rechercher" type="search" id="search-input-input" name="search-input-input">
+                <button class="fr-btn" title="Rechercher" id="search-input-button">
+                        Rechercher
+                </button>
+                <ul id="results-container"></ul>
             </div>
-            <input type="text" id="search-input" placeholder="Rechercher...">
-            <button id="search-input-button" class="overlay-button" aria-label="Effacer" style="width: 29px;">
-                Effacer
-            </button>
-            <ul id="results-container"></ul>
         </div>
     </section>
-
-    <section class="section section-grey" style="padding-top: 0;">
-        <div class="container">
-            {% assign phases = site.phases | sort: 'order' %}
-            {% for phase in phases %}
-                {% assign counter_target = phase.id | remove: "/phases/" %}
-                {% assign counter = site.startups | where_phase: counter_target | size %}
-                {% assign plural = "" %}
-                {% if counter > 1 %}
-                    {% assign plural = "s" %}
-                {% endif %}
-                <div id="{{ phase.status }}" style="padding-top: 4em;">
-                    {% if phase.status == 'success' %}
-                        <h2 class="phase-title">Nos <em>{{ phase.label | downcase }}{{ plural }}</em></h2>
-                    {% elsif phase.status == 'alumni' %}
-                        <h2 class="phase-title">Nos <em>{{ phase.label | downcase }}</em></h2>
-                    {% else %}
-                        <h2 class="phase-title"><em>{{ counter }}</em> {{ phase.type_label }}{{ plural }} en
-                        <em>{{ phase.label | downcase }}</em></h2>
-                    {% endif %}
-
-                    <p class="phase-description">{{ phase.short_description }}.</p>
-                    <div class="startups grid">
-                        {% assign startups = site.startups | where_phase: phase.status %}
-                        {% for startup in startups %}
-                            {% include card-startup.html startup = startup %}
-                        {% endfor %}
+    {% for incubator in incubators %}
+    {% assign incubator_id = incubator.id | remove: '/incubators/' %}
+    <section id="{{ incubator_id }}" class="fr-py-6w incubator-header fr-scheme-soft-blue-soft" style="display: none;">
+        <div class="fr-container">
+            <div class="fr-grid-row fr-grid-row--gutters">
+                <div class="fr-col-1 incubator-logo">
+                    <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}">
+                </div>
+                <div class="fr-col">
+                    <div>
+                        <h1 class="fr-card__title">{{ incubator.title }}</h1>
+                        <p class="h1-card__title-subtitle">{{ incubator.owner }}</p>
+                        <div class="markdown">{{ incubator.content }}</div>
                     </div>
                 </div>
-            {% endfor %}
+            </div>
         </div>
     </section>
+    {% endfor %}
+
+    <div class="fr-container fr-py-6w fr-px-2w">
+        {% assign phases = site.phases | sort: 'order' %}
+        {% for phase in phases %}
+            {% assign counter_target = phase.id | remove: "/phases/" %}
+            {% assign counter = site.startups | where_phase: counter_target | size %}
+            {% assign plural = "" %}
+            {% if counter > 1 %}
+                {% assign plural = "s" %}
+            {% endif %}
+
+            <div id="{{ phase.status }}" class="fr-container-fluid fr-my-6w">
+                {% if phase.status == 'success' %}
+                    <h1 class="phase-title">Nos <em><span class="phase-label">{{ phase.label | downcase }}s</span></em></h1>
+                {% elsif phase.status == 'alumni' %}
+                    <h1 class="phase-title">Nos <em>{{ phase.label | downcase }}</em></h1>
+                {% else %}
+                    <h1 class="phase-title"><em><span class="phase-counter">{{ counter }}</span></em> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> en
+                    <em>{{ phase.label | downcase }}</em></h1>
+                {% endif %}
+
+                <p class="phase-description">{{ phase.short_description }}.</p>
+
+                <div class="fr-grid-row fr-grid-row--gutters startups">
+                    {% assign startups = site.startups | where_phase: phase.status %}
+                    {% for startup in startups %}
+                        {% include card-startup.html startup = startup %}
+                    {% endfor %}
+                </div>
+            </div>
+        {% endfor %}
+    </div>
 </main>
 
 
@@ -70,25 +158,22 @@ layout: default
         };
     }
 
-    var searchInput = document.getElementById('search-input');
+    var searchInput = document.getElementById('search-input-input');
     var searchInputBtn = document.getElementById('search-input-button');
     var resultsContainer = document.getElementById('results-container');
 
-    searchInput.addEventListener('keyup', function (e) {
-        if (e.target.value.trim() != '') {
+    var searchFunction =  function (e) {
+        if (searchInput.value.trim() != '') {
             resultsContainer.style.display = 'block';
-            searchInputBtn.style.display = 'block';
         } else {
             resultsContainer.style.display = 'none';
-            searchInputBtn.style.display = 'none';
         }
-    });
+    }
 
-    searchInputBtn.addEventListener('click', function (e) {
-        searchInput.value = '';
-        resultsContainer.style.display = 'none';
-        searchInputBtn.style.display = 'none';
-    });
+    searchInput.addEventListener('input', searchFunction);
+    searchInput.addEventListener('search', searchFunction);
+    searchInputBtn.addEventListener('click', searchFunction);
+
 
     var selectPhase = document.getElementById('select-phase');
     selectPhase.addEventListener('change', function (e) {
@@ -96,20 +181,26 @@ layout: default
         var selectedPhase = e.target.value;
         var hash = "#" + selectedPhase;
         location.href = hash;
-        history.replaceState(null, null, url.origin + url.pathname + hash);
+        history.replaceState(null, null, url.origin + url.pathname + window.location.search + hash);
     });
 </script>
 
 <!-- Script pointing to search-script.js -->
 <script src="/assets/additional/js/search-script.js" type="text/javascript"></script>
-
+<script src="/assets/additional/js/search-startup.js" type="text/javascript"></script>
 <!-- Configuration -->
 <script>
     SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        searchResultTemplate: "<li><p><a href=\"{url}\">{title}</a> - {owner}<br>{mission}<p></li>",
-        noResultsText: "<li class=\"empty\">Aucun résultat</li>",
+        searchResultTemplate: "<div class=\"fr-tile fr-enlarge-link fr-tile--horizontal\"><div class=\"fr-tile__body\"><h4 class=\"fr-tile__title\"><a class=\"fr-tile__link\" href=\"{url}\">{title} - {owner}</a></h4><p class=\"fr-tile__desc\">{mission}</p></div></div>",
+        noResultsText: "<div class=\"fr-tile fr-enlarge-link fr-tile--horizontal\"><div class=\"fr-tile__body\"><h4 class=\"fr-tile__title\">Aucun résultat</div></div>",
         json: '/search.json'
     })
+</script>
+<script>
+    var urlParams = new URLSearchParams(window.location.search);
+    var initValue = urlParams.get('incubateur');
+    data = generateDataWithHtmlCards(data);
+    createIncubatorSelect(data, incubators, initValue);
 </script>

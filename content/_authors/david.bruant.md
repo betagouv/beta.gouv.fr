@@ -1,17 +1,22 @@
 ---
 fullname: David Bruant
 role: Développeur / Product Owner / Accompagnateur Running Lean
+domaine: Développement
 github: davidbruant
 link: https://twitter.com/DavidBruant
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
-  - start: 2019-08-01 # date d'arrivée au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
-    end: 2020-10-31 # date de fin de contrat au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
+  - start: 2019-09-01 # Lotocar
+    end: 2020-02-28
     status: independent
     employer: Codeurs en Liberté
+  - start: 2020-04-01 # Écosanté / Friches / UrbanVitaliz
+    end: 2021-03-30
+    status: independent
+    employer: Scopyleft
 startups: # ta ou tes startups actuelles
+    - urbanvitaliz
     - comobi
-    - ecosante
-    - friches
 previously: # ta ou tes anciennes startups
-#    - ancienne_super_startup # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
+    - lotocar
+    - recosante
 ---

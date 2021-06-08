@@ -1,86 +1,86 @@
-<nav class="side-pane">
-  <ul class="side-pane__menu sticky">
-    <li class="side-pane__dropdown unfolded {% if page.url == "/approche/" %}active{% endif %}">
-      <a class="side-pane__link" href="/approche/">Le programme beta.gouv.fr</a>
-      <ul class="side-pane__submenu">
-        <li {% if page.url == "/approche/manifeste" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/approche/manifeste">Manifeste</a>
-        </li>
-        <li class="side-pane__dropdown 
-          {% if page.url == "/approche/incubateurs" %}
-            active
-          {% endif %}
-          {% if page.url contains "/approche/incubateurs" %}
-            unfolded
-          {% endif %} 
-          ">
-          <a href="/approche/incubateurs" >Les incubateurs</a>
-          {% if page.url contains "/approche/incubateurs" %}
-          <ul class="side-pane__submenu">
-            {%- for incubator in site.incubators | sort: 'creation_date' -%}
-            <li class="side-pane__sublink {% if page.id == incubator.id %}active{% endif %}">
-              <a href="{{ incubator.url | relative_url }}">{{ incubator.title }}</a>
-            </li>
-            {%- endfor -%}
-          </ul>
-          {% endif %}
-        </li>
-        <li {% if page.url == "/approche/intrapreneurs" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/approche/intrapreneurs">Les intrapreneurs</a>
-        </li>
-         <li {% if page.url == "/approche/sponsors" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/approche/sponsors">Les sponsors</a>
-        </li>   
-        <li {% if page.url == "/approche/investigation" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/approche/investigation">Investigation</a>
-        </li>  
-        <li {% if page.url == "/approche/construction" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/approche/construction">Construction</a>
-        </li>    
-        <li {% if page.url == "/approche/acceleration" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/approche/acceleration">Accélération</a>
-        </li>    
-        <li {% if page.url == "/approche/transfert" %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="/approche/transfert">Transfert</a>
-        </li>   
-      </ul>
-    </li>
-    <!-- <a class="side-pane__link" href="/approche/">Le programme Territoire</a> -->
-    
-    <li class="side-pane__dropdown {% if page.url == "/approche/fast" %}active {% endif %}{% if page.url contains "/approche/fast" %}unfolded{% endif %}">
-      <a class="side-pane__link" href="/approche/fast">Le FAST</a>
-      {% if page.url contains "/approche/fast" %}
-      <ul class="side-pane__submenu">
-        {% assign fasts = site.fasts | sort: 'order' %}
-        {% for fast-page in fasts %}
-        <li {% if page.url == fast-page.url %}class="active"{% endif %}>
-          <a class="side-pane__sublink" href="{{ fast-page.url }}">{{ fast-page.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
-      {% endif %}
-    </li>
+<nav class="fr-sidemenu" role="navigation" aria-label="Menu latéral">
+    <div class="fr-sidemenu__inner">
+        <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
+        <div class="fr-collapse" id="fr-sidemenu-wrapper">
+            <ul class="fr-sidemenu__list">
+                    <li class="fr-sidemenu__item {% unless page.url contains '/approche/fast' or page.url contains '/approche/formation' %}fr-sidemenu__item--active{% endunless %}">
+                    <button class="fr-sidemenu__btn" aria-expanded="{% unless page.url contains '/approche/fast' or page.url contains '/approche/formation' %}true{% else %}false{% endunless %}" aria-controls="fr-sidemenu-item-programme">Le programme beta.gouv.fr</button>
+                    <div class="fr-collapse" id="fr-sidemenu-item-programme">
+                        <ul class="fr-sidemenu__list">
+                            <li class="fr-sidemenu__item {% if page.url == '/approche/' %}fr-sidemenu__item--active{% endif %}">
+                                <a class="fr-sidemenu__link" href="/approche/" target="_self">Notre approche</a>
+                            </li>
+                            <li class="fr-sidemenu__item {% if page.url == '/approche/manifeste' %}fr-sidemenu__item--active{% endif %}">
+                                <a class="fr-sidemenu__link" href="/approche/manifeste" target="_self">Manifeste</a>
+                            </li>
+                            <li class="fr-sidemenu__item {% if page.url == '/approche/intrapreneurs' %}fr-sidemenu__item--active{% endif %}">
+                                <a class="fr-sidemenu__link" href="/approche/intrapreneurs" target="_self">Intrapreneurs</a>
+                            </li>
+                            <li class="fr-sidemenu__item {% if page.url == '/approche/sponsors' %}fr-sidemenu__item--active{% endif %}">
+                                <a class="fr-sidemenu__link" href="/approche/sponsors" target="_self">Les sponsors</a>
+                            </li>
+                            <li class="fr-sidemenu__item {% if page.url == '/approche/investigation' %}fr-sidemenu__item--active{% endif %}">
+                                <a class="fr-sidemenu__link" href="/approche/investigation" target="_self">Investigation</a>
+                            </li>
+                            <li class="fr-sidemenu__item {% if page.url == '/approche/construction' %}fr-sidemenu__item--active{% endif %}">
+                                <a class="fr-sidemenu__link" href="/approche/construction" target="_self">Construction</a>
+                            </li>
+                            <li class="fr-sidemenu__item {% if page.url == '/approche/acceleration' %}fr-sidemenu__item--active{% endif %}">
+                                <a class="fr-sidemenu__link" href="/approche/acceleration" target="_self">Accélération</a>
+                            </li>
+                            <li class="fr-sidemenu__item {% if page.url == '/approche/transfert' %}fr-sidemenu__item--active{% endif %}">
+                                <a class="fr-sidemenu__link" href="/approche/transfert" target="_self">Transfert</a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
 
-    <li class="side-pane__dropdown {% if page.url == "/approche/formation" %}active {% endif %}{% if page.url contains "/approche/formation" %}unfolded{% endif %}">
-      <a class="side-pane__link" href="/approche/formation">Formation</a>
-      {% if page.url contains "/approche/formation" %}
-      <ul class="side-pane__submenu">
-        <li class="side-pane__dropdown {% if page.url == "/approche/formation/mooc" %}unfolded active{% endif %}">
-          <a class="side-pane__link" href="/approche/formation/mooc">Formation en ligne</a>
-          {% if page.url contains "/approche/formation/mooc" %}
-          <ul class="side-pane__submenu">
-            {% assign mooc = site.mooc | sort: 'order' %}
-            {% for sequence in mooc %}
-            <li {% if page.url == sequence.url %}class="active"{% endif %}>
-              <a class="side-pane__sublink" href="{{ sequence.url }}">{{ sequence.label }}</a>
-            </li>
-            {% endfor %}
-          </ul>
-          {% endif %}
-        </li>
-      </ul>
-      {% endif %}
-    </li>
-    
-  </ul>
+                <li class="fr-sidemenu__item {% if page.url contains '/approche/fast' %}fr-sidemenu__item--active{% endif %}">
+                    <button class="fr-sidemenu__btn" aria-expanded="{% if page.url contains '/approche/fast' %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-fast">Le FAST</button>
+                    <div class="fr-collapse" id="fr-sidemenu-item-fast">
+                        <ul class="fr-sidemenu__list">
+                            <li class="fr-sidemenu__item {% if page.url == '/approche/fast' %}fr-sidemenu__item--active{% endif %}">
+                                <a class="fr-sidemenu__link" href="/approche/fast" target="_self">Présentation</a>
+                            </li>
+                            {% assign fasts = site.fasts | sort: 'order' %}
+                            {% for fast-page in fasts %}
+                            <li class="fr-sidemenu__item {% if page.url == fast-page.url %}fr-sidemenu__item--active{% endif %}">
+                                <a class="fr-sidemenu__link" href="{{ fast-page.url }}" target="_self">{{ fast-page.title }}</a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </li>
+
+                <li class="fr-sidemenu__item {% if page.url contains '/approche/formation' %}fr-sidemenu__item--active{% endif %}">
+                    <button class="fr-sidemenu__btn" aria-expanded="{% if page.url contains '/approche/formation' %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-formation">Les formations</button>
+                    <div class="fr-collapse" id="fr-sidemenu-item-formation">
+                        <ul class="fr-sidemenu__list">
+                            <li class="fr-sidemenu__item {% if page.url == '/approche/formation' %}fr-sidemenu__item--active{% endif %}">
+                                <a class="fr-sidemenu__link" href="/approche/formation" target="_self">La formation Alpha</a>
+                            </li>
+
+                            <li class="fr-sidemenu__item {% if page.url contains '/approche/formation/mooc' %}fr-sidemenu__item--active{% endif %}">
+                                <button class="fr-sidemenu__btn" aria-expanded="{% if page.url contains '/approche/formation/mooc' %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-mooc">La formation en ligne</button>
+                                <div class="fr-collapse" id="fr-sidemenu-item-mooc">
+                                    <ul class="fr-sidemenu__list">
+                                        <li class="fr-sidemenu__item {% if page.url == '/approche/formation/mooc' %}fr-sidemenu__item--active{% endif %}">
+                                            <a class="fr-sidemenu__link" href="/approche/formation/mooc" target="_self">Présentation</a>
+                                        </li>
+
+                                        {% assign mooc = site.mooc | sort: 'order' %}
+                                        {% for sequence in mooc %}
+                                        <li class="fr-sidemenu__item {% if page.url == sequence.url %}fr-sidemenu__item--active{% endif %}">
+                                            <a class="fr-sidemenu__link" href="{{ sequence.url }}" target="_self">{{ forloop.index }} - {{ sequence.label }}</a>
+                                        </li>
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
 </nav>

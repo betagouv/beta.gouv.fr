@@ -1,6 +1,7 @@
 ---
 fullname: Matti Schneider
 role: CIO
+domaine: Autre
 github: MattiSG
 avatar: https://gravatar.com/avatar/81ee62724136cc42065a0af37aa0edc1.jpg?s=512
 link: https://mattischneider.fr
@@ -23,6 +24,7 @@ missions:
     employer: Secrétariat général de la défense et de la sécurité nationale
 startups:
     - disinfo
+    - aides.jeunes
 previously:
     - mes-aides
     - mon-entreprise

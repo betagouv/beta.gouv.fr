@@ -1,6 +1,7 @@
 ---
 fullname: Dominique Lequepeys
 role: Coach
+domaine: Coaching
 missions:
   - start: 2017-09-18
     end: 2021-12-31

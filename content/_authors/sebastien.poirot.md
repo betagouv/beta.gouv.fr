@@ -1,6 +1,7 @@
 ---
 fullname: Sébastien POIROT
 role: Intrapreneur
+domaine: Intraprenariat
 github: sebpoirotPE
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
   - start: 2020-09-07 # date d'arrivée au format ISO (AAAA-MM-JJ)

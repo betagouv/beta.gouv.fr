@@ -1,7 +1,7 @@
 ---
 roles: UX Designer senior
 startup: e-inspé
-open: true
+open: false
 ---
 
 Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une équipe agile, et proche de ses utilisateurs ? L’e-inspé recherche un.e UX Designer senior !
@@ -14,7 +14,7 @@ Porté par le Secrétariat général pour l’investissement, la Direction gén�
 <!--more-->
 
 ## Qui sommes-nous ?
-L’e-inspé vise à réinventer la formation initiale et continue des enseignants. Le but ? Créer un  service numérique qui leur donne une vision sur le long terme de leur formation et construire leur parcours de développement professionnel. Avec des contenus de très haute qualité et un réseau pour accompagner les enseignants, ce nouveau service cherche à construire la formation de demain : https://beta.gouv.fr/startups/e-insp%C3%A9.html
+L’e-inspé vise à réinventer la formation initiale et continue des enseignants. Le but ? Créer un  service numérique qui leur donne une vision sur le long terme de leur formation et construire leur parcours de développement professionnel. Avec des contenus de très haute qualité et un réseau pour accompagner les enseignants, ce nouveau service cherche à construire [la formation de demain](https://beta.gouv.fr/startups/e-insp%C3%A9.html).
 
 Le développement de ce service s’appuiera sur la production de contenus de qualité par les différents opérateurs de l’Education nationale, des instituts supérieurs du professorat et de l’éducation ainsi que sur un réseau de pairs mobilisés pour la réussite de la formation de chaque enseignant. La personnalisation et l’articulation entre les temps courts et la vision à long terme de sa formation, adaptées aux besoins des enseignants, seront au coeur de la stratégie de l’e-inspé.
 
@@ -43,7 +43,7 @@ Le/la UX Designer interviendra sur la conception de ce service.
 
 ## Modalités
 
-- Environnement et communauté beta.gouv : https://beta.gouv.fr/ (plus de détails ici également : https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/charte)
+- Dans le cadre de la communauté [beta.gouv](https://beta.gouv.fr/) et de [sa charte](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/charte).
 
 - Poste ouvert pour des indépendant·e·s sur une durée de 6 mois renouvelable
 - 3 jours par semaine 

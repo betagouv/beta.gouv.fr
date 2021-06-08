@@ -1,6 +1,7 @@
 ---
 fullname: Pierre-Louis Rolle
 role: Intrapreneur
+domaine: Intraprenariat
 github: PLrolle
 link: 'https://www.societenumerique.gouv.fr'
 missions:

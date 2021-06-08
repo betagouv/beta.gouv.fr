@@ -11,24 +11,48 @@ phases:
 link:
 repository:
 stats: false
-contact: frederic.bardolle@def.gouv.fr
+contact: romain.perroud@def.gouv.fr
 ---
 
-## Sécuriser les sorties en montagne
+## Contexte
+L’EMHM (École Militaire de Haute Montagne), de la 27ème Brigade d'Infanterie Montagne emploie des instructeurs de montagne militaires et civils, tous experts dans ce domaine.
+Ces instructeurs se concentrent principalement sur deux activités cruciales :
+Former et évaluer les stagiaires en formation.
+S'entraîner à la pratique de la montagne, été comme hiver, afin de rester aguerri à ce milieu dangereux et exigeant.
+Dans le cadre de ces activités, les instructeurs, mais également toutes personnes qualifiées ayant besoin de s'entraîner, doivent, lorsqu'elles vont en montagne, préparer leur itinéraire et le soumettre à validation de leur chef de corps. Cette procédure encadrée (appelée FACM pour Fiche d' Activité à Caractère Montagne), leur permet d'être couverts en cas d’accident mais également d'informer leurs camarades sur leur itinéraire et horaires afin de faciliter le déclenchement et l'intervention des secours en cas de besoin.
 
-L’École militaire de haute montagne (EMHM) a pour vocation la formation des cadres des troupes de montagne, et emploie des instructeurs de montagne militaires et civils, tous guides de haute montagne, moniteurs guides militaires, moniteurs de ski ou de parapente. Lors de stages de formation, les instructeurs qui partent en sortie pour s'entraîner ou avec des stagiaires, doivent préparer leur itinéraire et le soumettre aux officiers de montagne pour :
+## Problématique
+Ce projet repose sur plusieurs problématiques :
+La procédure de demande et validation de FACM repose sur un formulaire papier nécessitant le visa et la signature de plusieurs acteurs. Ce processus, peu flexible, peut s’avérer laborieux et conduit parfois des personnes à sortir sans FACM.
+L'évaluation des stagiaires, la planification des formations et le traitement de leurs résultats est également un processus long impliquant de multiples acteurs.
+Pour éviter la multiplication des outils, l'EMHM a souhaité un outil unique sur lequel ses personnels pourraient gérer leurs deux principales activités.
 
-1. Permettre aux équipes sur site de suivre les sorties et de déclencher les secours en cas de besoin
-2. D’être couverts juridiquement dans le cadre de leur fonction en cas d’accident
-
-## Simplifier le processus et le suivi
-
-Le processus actuel de validation est un formulaire papier devant être signé par plusieurs validateurs avant toute sortie. Cette démarche, peu flexible qui nécessite de devoir faire appel à tous les signataires sur place peut s'avérer laborieuse et conduit parfois des instructeurs à sortir sans couverture.
-
-Les Alpps est une application mobile qui permet aux instructeurs, de créer simplement une fiche d’activité en montagne et de suivre les étapes de validation. Les validateurs de leur côté sont rapidement notifiés d’une demande. Le suivi de toutes les sorties est simplifié via un tableau de bord de gestion visuel. Toutes les sorties et leur statut sont visibles en un clin d’œil.
+## Objectifs   
+* Simplifier la création et le processus des FACM afin d'optimiser la réactivité des viseurs et signataires et les délais de traitement
+* Maximiser le taux de couverture par FACM pour les sorties en montagne
+* Gérer des stages et évaluer des stagiaires selon des critères de compétences données
+* Avoir une application accessible via le Milistore
 
 
-## Ouverture du projet
+## Chronologie
 
-Les instructeurs, utilisateurs finaux de l’application ont été intégrés à l’élaboration de leur application.
-Dans un premier temps déployée au sein de l’EMHM en mai 2020, l’application à pour vocation à être adoptée par d’autres régiments.
+__Étape 1__ (septembre) Compréhension du contexte et du besoin
+
+__Étape 2__ (octobre) : Définition d'une solution et réalisation des prototypes maquettes
+
+__Étape 3__ (novembre) : Test des prototypes.
+
+__Étape 4__ (Janvier) : Lancement des développement
+
+__Étape 5__ (juin) : Livraison version beta
+
+
+__Étape 6__ (juillet) : Retours de beta et planification des adaptation
+
+__Étape 7__ (septembre) : Test premier lot d'adaptation
+
+__Étape 8__ (décembre) : livraison PMV
+
+## Résultats
+Une application mobile Les Alpps
+Un site Back office

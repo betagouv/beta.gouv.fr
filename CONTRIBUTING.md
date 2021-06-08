@@ -22,15 +22,17 @@ La documentation des différentes propriétés à renseigner est accessible en c
 
 Ajouter un image `$id_startup.jpg`ou .png dans le dossier [img/startups](https://github.com/betagouv/beta.gouv.fr/tree/master/img/startups)
 
-## Ajouter ou modifier un membre à la communauté BetaGouv
+## Ajouter un membre à la communauté BetaGouv
+
+En complétant, le formulaire d'onboarding : https://secretariat.incubateur.net/onboarding , une PR sera créé et une fois validé, l'adresse email est créé.
+
+## Modifier un membre à la communauté BetaGouv
 
 ### [À travers l'interface web Netlify CMS (pour ne pas avoir à écrire de code)](https://beta.gouv.fr/admin/)
 
-Cette interface permet à toutes les personnes de la communauté d'ajouter de nouveaux membres ou de modifier des fiches. Si c'est pour créer ta fiche, demande à ton marrain de t'aider !
+Cette interface permet à toutes les personnes de la communauté modifier des fiches. 
 
-**Attention** : en cas d'ajout de fiche, toi ou ton marrain doit vérifier que le nom du fichier se conforme aux indications ci-dessous.
-
-### [En un clic par l'interface web de GitHub](https://beta.gouv.fr/trampoline.html?what=authors&where=content/_authors/prenom.nom.md) :smiley:
+### Par l'interface web de GitHub
 
 Le nom du fichier est important : il doit correspondre au nom de la personne, selon le schéma `prenom.nom.md`. Les parties `prenom` et `nom` sont en minuscules et sans accents. Les espaces des noms propres sont remplacés par `_` et les tirets restent. Il faut garder .md à la fin du nom du fichier. **Il est important que cet identifiant et celui du mail `@beta.gouv.fr` correspondent**. Cela nous permet de traiter [automatiquement](https://github.com/betagouv/betaGouvBot) divers sujets liés à la gestion RH tels que abonnement et désabonnement des listes de diffusion, anticipation des fins de contrat, etc.
 
@@ -76,11 +78,12 @@ Ensuite, exécutez les commandes suivantes :
 git clone https://github.com/betagouv/beta.gouv.fr.git
 cd beta.gouv.fr
 gem install bundler --no-ri --no-rdoc
+npm install
 bundle install
 bundle exec jekyll serve
 ```
 
-Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `assets\additional` et `layout`. Le fichier `_sass\hacks.css` permet d'effectuer des modifications de style globale sans toucher aux feuilles de style de base.
+Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `assets\additional` et `layout`. 
 
 ### Dépendances : un `Gemfile` particulier
 

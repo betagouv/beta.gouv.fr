@@ -1,6 +1,7 @@
 ---
 title: Fabrique numérique des ministères sociaux
 owner: SGMAS
+logo: logo_fab_solidarite.png
 website: https://fabrique.social.gouv.fr/
 github: https://github.com/SocialGouv/
 contact: mailto:yann-fanch.madaule@sg.social.gouv.fr?subject=Incubateurs

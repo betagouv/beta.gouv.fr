@@ -1,9 +1,10 @@
 ---
 fullname: Philippe Vrignaud
 role: Intrapreneur
+domaine: Intraprenariat
 missions:
   - start: 2014-01-01
-    end:
+    end: 2021-06-30
     status: admin
     employer: dinum
 startups:

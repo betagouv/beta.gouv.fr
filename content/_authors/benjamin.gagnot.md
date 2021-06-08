@@ -1,6 +1,7 @@
 ---
 fullname: Benjamin Gagnot
 role: Intrapreneur
+domaine: Intraprenariat
 github: benjamaaan
 missions:
   - start: 2019-01-01

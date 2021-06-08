@@ -1,16 +1,18 @@
 ---
 fullname: Vincent Lara
 role: Développeur
+domaine: Développement
 link: https://github.com/l-vincent-l
 missions:
   - start: 2015-03-15
-    end: 2021-04-01
+    end: 2021-06-30
     status: independent
     employer: Codeurs en Liberté
 startups:
+    - recosante
+previously: 
     - le-taxi
     - transport
-    - ecosante
 ---
 
 Aide à construire les infrastructures numériques publiques de demain.

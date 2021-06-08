@@ -8,7 +8,12 @@ phases:
     start: 2017-10-01
   - name: construction
     start: 2017-10-01
+  - name: acceleration
+    start: 2019-06-01
   - name: transfer
+    start: 2019-09-01
+  - name: success
+    start: 2020-09-01
 link: https://mrs.beta.gouv.fr
 repository: https://github.com/betagouv/mrs
 stats: true

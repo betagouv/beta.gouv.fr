@@ -1,6 +1,7 @@
 ---
 fullname: Mohamed Loucif
 role: Chargé de développement
+domaine: Déploiement
 missions:
   - employer: direccte
     end: 2018-10-31

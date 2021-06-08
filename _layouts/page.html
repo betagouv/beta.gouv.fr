@@ -3,13 +3,9 @@ layout: default
 ---
 
 {% assign lang = page.lang | default: site.lang | default: "fr" %}
-<div class="page article">
-  {% include hero-page.html title=page.title %}
-  <section class="section">
-    <div class="container">
-      <div class="richtext">
-        {{ content }}
-      </div>
-    </div>
-  </section>
+
+{% include hero-page.html title=page.title %}
+
+<div class="fr-container fr-py-6w fr-px-2w">
+  {{ content }}
 </div>

@@ -1,6 +1,7 @@
 ---
 fullname: Romain Perroud
 role: Chef de la Fabrique numérique
+domaine: Animation
 missions:
   - start: 2019-05-01
     end: 2022-04-30

@@ -1,13 +1,16 @@
 ---
 fullname: Baptiste N'Tsama
-github: Sw1n
 role: Coach
+domaine: Coaching
+github: Sw1n
 missions:
   - start: 2020-02-20
-    end: 2020-11-30
+    end: 2021-07-31
     status: service
     employer: LLL
 startups:
   - signalement
   - anais
+  - AidESS-Relance
+  - justif
 ---

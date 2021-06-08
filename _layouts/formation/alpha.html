@@ -2,68 +2,71 @@
 layout: default
 ---
 
-{% comment %}additional_css : side-panel.css{% endcomment %} {% assign lang =
-page.lang | default: site.lang | default: "en" %}
+{% assign lang = page.lang | default: site.lang | default: "en" %}
 
-<div class="page article" id="presentation">
-  {% include hero-page.html title=page.title %}
-</div>
-
-<section class="section section-white" style="padding-top: 0;">
-  <div class="container">
-    <div class="documentation">
+<div class="fr-container fr-pb-6w fr-pt-6w">
+  <div class="fr-grid-row fr-grid-row--gutters fr-b__two-col">
+    <!-- Menu -->
+    <div class="fr-col-xs-12 fr-col-md-3">
       {% include sidebar-approche.html %}
-      <div class="main-pane">
-        <div class="markdown">{{ content }}</div>
-        <h2 id="inscription">Prochaine session</h2>
-        {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %} {%
-        capture timestampEnd %}{{ page.alpha-end | date: '%s' }}{% endcapture %}
-        {% if timestampNow < timestampEnd %}
-        <div class="text-quote">
-          <ul>
-            <li>
-              <b>Quand ?</b><br />
-              {% if page.alpha-start == page.alpha-end %} Le {{ page.alpha-start
-              | date: "%d/%m/%y" }} {% else %} Du {{ page.alpha-start | date:
-              "%d/%m/%y" }} au {{ page.alpha-end | date: "%d/%m/%y" }}{% endif
-              %} {{ page.alpha-time }}
-            </li>
-            <li>
-              <b>Où ?</b><br />
-              <a href="{{ page.alpha-location-link }}"
-                >{{ page.alpha-location }}</a
-              >
-            </li>
-            {% if page.alpha-catering %}
-            <li>
-              <b>Quelle prise en charge ?</b><br />
-              {{ page.alpha-catering | markdownify | remove: '
-              <p>' | remove: '</p>
-              ' }}
-            </li>
-            {% endif %} {% if page.alpha-more %}
-            <li>
-              {{ page.alpha-more | markdownify | remove: '
-              <p>' | remove: '</p>
-              ' }}
-            </li>
+    </div>
+    <!-- Content -->
+    <div class="fr-col-xs-12 fr-col-md-9">
+      <h1>{{ page.title }}</h1>
+      <h2 id="inscription">Prochaine session</h2>
+      {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %} {%
+      capture timestampEnd %}{{ page.alpha-end | date: '%s' }}{% endcapture %}
+      {% if timestampNow < timestampEnd %}
+      <div class="fr-callout">
+        <ul>
+          <li>
+            <b>Quand ?</b><br />
+            {% if page.alpha-start == page.alpha-end %} Le {{ page.alpha-start
+            | date: "%d/%m/%y" }} {% else %} Du {{ page.alpha-start | date:
+            "%d/%m/%y" }} au {{ page.alpha-end | date: "%d/%m/%y" }}{% endif
+            %} {{ page.alpha-time }}
+          </li>
+          <li>
+            <b>Où ?</b><br />
+            {% if page.alpha-location-link %}
+            <a href="{{ page.alpha-location-link }}"
+              >{{ page.alpha-location }}</a
+            >
+            {% else %}
+              {{ page.alpha-location }}
             {% endif %}
-            <li>
-              <a href="{{ page.alpha-link }}">Réserver sa place en ligne</a>
-            </li>
-          </ul>
-        </div>
-        {% else %}
-        <p>
-          Les dates de la prochaine session de formation Alpha seront bientôt
-          annoncées.
-        </p>
-        <p>
-          Vous pouvez vous renseigner dès à présent auprès sur
-          <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.
-        </p>
-        {% endif %}
+          </li>
+          {% if page.alpha-catering %}
+          <li>
+            <b>Quelle prise en charge ?</b><br />
+            {{ page.alpha-catering | markdownify | remove: '
+            <p>' | remove: '</p>
+            ' }}
+          </li>
+          {% endif %} {% if page.alpha-more %}
+          <li>
+            {{ page.alpha-more | markdownify | remove: '
+            <p>' | remove: '</p>
+            ' }}
+          </li>
+          {% endif %}
+          <li>
+            <a href="{{ page.alpha-link }}">Réserver sa place en ligne</a>
+          </li>
+        </ul>
       </div>
+      {% else %}
+      <p>
+        Les dates de la prochaine session de formation Alpha seront bientôt
+        annoncées.
+      </p>
+      <p>
+        Vous pouvez vous renseigner dès à présent auprès sur
+        <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.
+      </p>
+      {% endif %}
+      <br /><br />
+      <div class="markdown">{{ content }}</div>
     </div>
   </div>
-</section>
+</div>

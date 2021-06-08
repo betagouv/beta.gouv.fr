@@ -13,9 +13,11 @@
 {%- comment -%}<!-- On boucle sur les membres de l'équipe -->{%- endcomment -%}
 {%- assign team = site.authors | where:"startups", startup_id -%}
 
-{%- for author in team -%}      
+{%- for author in team -%}
   {%- capture to_append -%}
-    {%- include card-community.html author=author -%}
+    <div class="fr-col-6 fr-col-md-3">
+      {%- include card-community.html author=author -%}
+    </div>
   {%- endcapture -%}
   {%- if author.missions.last.end -%}
     {%- capture timestampNow -%}{{ 'now' | date: '%s' }}{%- endcapture -%}
@@ -33,38 +35,41 @@
 {%- comment -%}<!-- On boucle sur les anciens membres de l'équipe -->{%- endcomment -%}
 {%- assign startup_id = include.startup.id | remove: '/startups/' -%}
 {%- assign team_previous = site.authors | where:"previously", startup_id %}
-{%- for author in team_previous -%}      
+{%- for author in team_previous -%}
   {%- capture to_append -%}
-    {%- include card-community.html author=author -%}
+    <div class="fr-col-6 fr-col-md-3">
+      {%- include card-community.html author=author -%}
+    </div>
   {%- endcapture -%}
   {%- assign past_team = past_team | append: to_append -%}
 {%- endfor -%}
 
-<h2>L'équipe actuelle</h2>
-<div class="grid">
-  {{ current_team }}
+
+<div class="fr-container">
+    <h2 id="equipe">L'équipe actuelle</h2>
+    <div class="fr-grid-row fr-grid-row--gutters">
+      {{ current_team }}
+    </div>
 </div>
 
 {%- if past_team != "" -%}
-  <div style="margin-top: 2em; margin-bottom: 1em;">
-    <a class="button" onclick="toggle_visibility('startup-alumni');">Voir les anciens</a>
-    <div id="startup-alumni" style="display:none;">
-      <h2>Les anciennes et les anciens</h2>
-      <div class="grid alumni">
-        {{ past_team }}
-      </div>
+<div class="fr-container fr-py-6w fr-px-2w">
+  <button class="fr-btn fr-btn--secondary" onclick="toggle_visibility('startup-alumni');">Voir les anciens</button>
+  <div id="startup-alumni" style="display:none;">
+    <h2>Les anciennes et les anciens</h2>
+    <div class="fr-grid-row fr-grid-row--gutters">
+      {{ past_team }}
     </div>
   </div>
+</div>
 {%- endif -%}
 
 <script type="text/javascript">
-  <!--
-      function toggle_visibility(id) {
-         var e = document.getElementById(id);
-         if(e.style.display == 'block')
-            e.style.display = 'none';
-         else
-            e.style.display = 'block';
-      }
-  //-->
+  function toggle_visibility(id) {
+    var e = document.getElementById(id);
+    if(e.style.display == 'block')
+      e.style.display = 'none';
+    else
+      e.style.display = 'block';
+  }
   </script>

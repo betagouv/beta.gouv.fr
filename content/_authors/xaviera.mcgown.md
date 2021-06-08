@@ -1,7 +1,7 @@
 ---
 fullname: Xaviera McGown
 role: Coach
-
+domaine: Coaching
 link: https://beta.gouv.fr/incubateurs/lab-mi.html
 missions:
   - start: 2020-02-01

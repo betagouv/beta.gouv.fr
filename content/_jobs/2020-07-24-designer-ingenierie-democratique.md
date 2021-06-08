@@ -4,7 +4,7 @@ friend: l'Incubateur des Territoires
 type: 'friend'
 externalURL: https://incubateur.anct.gouv.fr/recrutements/designer-de-services-pour-une-plateforme-d-ingenierie-democratique/
 post_ouvert: 2020-07-21
-contact: incubateur@anct.gouv.fr
+contact: contactincubateur@anct.gouv.fr
 open: false
 title: "l'Incubateur des Territoires recrute : un designer de services pour une plateforme d’ingénierie démocratique"
 ---

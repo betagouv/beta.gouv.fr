@@ -1,6 +1,7 @@
 ---
 fullname: Salim Boulkour # penser à modifier le nom du fichier ci-dessus en prenom.nom.md !
 role: Ops / DevOps
+domaine: Développement
 github: sboulkour
 missions:
   - start: 2019-01-01

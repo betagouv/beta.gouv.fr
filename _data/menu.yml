@@ -1,18 +1,24 @@
 ---
 title:
 nav:
--
-  label: Notre approche
-  target: _pages/approche.md
--
-  label: Réalisations
-  target: _pages/startups.md
--
-  label: Communauté
-  target: _pages/communaute.md
--
-  label: Recrutement
-  target: _pages/recrutement.md
--
-  label: Blog
-  url: https://blog.beta.gouv.fr
+  -
+    label: Notre approche
+    target: _pages/approche.md
+  -
+    label: Réalisations
+    target: _pages/startups.md
+  -
+    label: Communauté
+    target: _pages/communaute.md
+  -
+    label: Recrutement
+    target: _pages/recrutement.md
+shortcuts:
+  -
+    label: Documentation
+    external: true
+    url: https://doc.incubateur.net
+  -
+    label: Blog
+    external: true
+    url: https://blog.beta.gouv.fr

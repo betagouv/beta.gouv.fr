@@ -1,7 +1,8 @@
 ---
 fullname: Eric Heijligers
 role: Product manager
-github: EricH34
+domaine: Produit
+github: Eric-Hei
 missions:
   - status: admin
     employer: Fabrique numérique des ministères sociaux

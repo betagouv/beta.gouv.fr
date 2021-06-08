@@ -1,6 +1,7 @@
 ---
 fullname: Clément Camin
 role: Développeur
+domaine: Développement
 link: https://blog.keiruaprod.fr
 github: keirua
 missions:

@@ -1,6 +1,7 @@
 ---
-fullname: Thomas Recouvreux # penser à modifier le nom du fichier ci-dessus en prenom.nom.md !
-role: Développeur principal à Ambassadeur Numérique France Services
+fullname: Thomas Recouvreux
+role: Développeur principal
+domaine: Développement
 avatar: # optionnel, voir ci-dessous
 # En premier, on va regarder si tu as mis une image au format prenom.nom dans /img/authors/
 # Sinon, on utilisera le lien externe du champs avatar
@@ -11,4 +12,6 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     end: 2020-12-31 # date de fin de contrat au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
     status: independent
     employer: Octo # si applicable, le nom de ton administration, SSII, etc.
+startups:
+  - conseiller-numerique
 ---

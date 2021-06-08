@@ -1,6 +1,7 @@
 ---
 fullname: Tangi Mendès
 role: Développeur
+domaine: Développement
 github: tangimds
 missions:
   - start: 2020-11-01
@@ -8,6 +9,5 @@ missions:
     status: independent
     employer: octo
 startups:
-- reserve-civique
-- snu
+- engagement-civique
 ---

@@ -1,6 +1,7 @@
 ---
 fullname: Florian Pagnoux
 role: Développeur
+domaine: Développement
 missions:
   - start: 2015-04-30
     end: 2017-10-26

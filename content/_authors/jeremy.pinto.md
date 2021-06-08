@@ -1,6 +1,7 @@
 ---
 fullname: Jérémy Pinto
 role: Développeur Fullstack
+domaine: Développement
 github: JeremyPinto
 avatar: # optionnel, voir ci-dessous
 # En premier, on va regarder si tu as mis une image au format prenom.nom dans /img/authors/
@@ -10,11 +11,11 @@ avatar: # optionnel, voir ci-dessous
 link: https://codeconut.fr
 missions:
   - start: 2017-01-01 # date d'arrivée au format ISO (AAAA-MM-JJ)
-    end: 2020-12-31 # date de fin de contrat au format ISO (AAAA-MM-JJ)
+    end: 2021-12-31 # date de fin de contrat au format ISO (AAAA-MM-JJ)
     status: independent
-    employer: DJEPVA
+    employer: OCTO
 startups:
-    - reserve-civique
+    - engagement-civique
 ---
 
 Laravel / Vue.js

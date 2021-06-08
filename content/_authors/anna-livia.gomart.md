@@ -1,21 +1,25 @@
 ---
 fullname: Anna-Livia Gomart
-role: Développeuse
+role: Chief Product Officer Tech BetaGouv
+domaine: Animation
 github: Anna-Livia
 avatar: 'https://avatars3.githubusercontent.com/Anna-Livia?s=600'
 link: 'https://www.anna-livia.com/'
 missions:
   - employer: octo
-    end: 2021-03-31
-    start: 2017-05-18
     status: independent
-startups:
-  - aidantsconnect
+    start: 2017-05-18
+    end: 2021-03-12
+  - employer: dinum
+    status: admin
+    start: 2021-03-15
+    end: 2024-03-14
 previously:
   - _openfisca_
   - api.gouv.fr
   - datapass
   - api-particulier
+  - aidantsconnect
 ---
 
-Développeuse et amélioratrice de parcours utilisateur. Le reste du temps, je collectionne des livres et de la papeterie.
+Minimum effort, maximum impact.

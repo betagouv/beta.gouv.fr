@@ -1,6 +1,7 @@
 ---
 fullname: Julien Castets
 role: Développeur
+domaine: Développement
 link: https://github.com/brmzkw
 missions:
   - start: 2019-10-16

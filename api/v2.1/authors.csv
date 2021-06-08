@@ -1,0 +1,6 @@
+---
+layout: null
+---
+"id";"fullname";"start";"end";"employer";"github";"link";"avatar";"startups";"previously";"badges";"domaine";"competences"
+{% for author in site.authors %}"{{ author.id | replace:'/authors/','' }}";"{{ author.fullname }}";"{{ author.missions.first.start }}";"{{ author.missions.last.end }}";"{{ author.missions.last.employer }}";"{{ author.github }}";"{{ author.link }}";"{{ author.avatar }}";"{{ author.startups | join: "," }}";"{{ author.previously | join: "," }}";"{{ author.badges | join: "," }}";"{{ author.domaine }}";"{{ author.competences | join: ","}}"
+{% endfor %}

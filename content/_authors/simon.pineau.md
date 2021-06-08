@@ -1,6 +1,7 @@
 ---
 fullname: Simon Pineau
 role: Chargé de développement
+domaine: Déploiement
 github: simonpineau
 missions:
   - start: 2018-07-11

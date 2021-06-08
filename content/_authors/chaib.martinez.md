@@ -1,18 +1,34 @@
 ---
 fullname: Chaïb Martinez
-role: Growth Hacker 🚀
+role: Growth Hacker 🚀 - Mentor
+domaine: Coaching
 avatar: https://pbs.twimg.com/profile_images/803636352348725248/c_j2qY7f_400x400.jpg
 link: https://www.linkedin.com/in/chaibmartinez/
 github: chaibax
 missions:
   - start: 2018-06-26
-    end: 2020-12-31
+    end: 2021-12-30
     status: independent
-    employer: octo
+    employer: numa
 startups:
-    - demarches-simplifiees.fr
-    - trait-d-union
+    - beta.gouv
+    - Incubateur ANCT
+    - diagoriente
     - cmachance
+    - classe12
+    - anti-gaspi-cantine
+previously:
+  - demarches-simplifiees.fr
+  - trait-d-union
 badges:
     - segur
+domaine: Coaching
+competences:
+  - Croissance
+  - Coaching
+  - Gestion de Produit
+  - Développement Frontend
+  - Communication
 ---
+
+Accélérateur de startups d'État et de Térritoire. Acquisition, Activation, Retention, Referral, Impact 👊

@@ -1,6 +1,7 @@
 ---
 fullname: Safiatou Sanogo
 role: Coach Product manager
+domaine: Coaching
 missions:
   - start: 2020-03-02
     end: 2021-06-22

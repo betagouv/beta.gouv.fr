@@ -3,35 +3,33 @@ layout: default
 ---
 
 {% assign lang = page.lang | default: site.lang | default: "fr" %}
-<div class="page article">
-  {% include hero-page.html title=page.title %}
-  <section class="section section-white cards">
-    <div class="container jobs">
-      <h3>Offres disponibles</h3>
-      <div class="grid">
-        {% assign jobs = site.jobs | where: "open", 'true' | reverse %}
-        {% for job in jobs %}
-          {% include card-job.html job=job %}
-        {% endfor %}
-      </div>
+
+{% include hero-page.html title=page.title %}
+
+<section class="fr-py-6w cards">
+  <div class="fr-container">
+    {% assign jobs = site.jobs | where: "open", 'true' | reverse %}
+    {% for job in jobs %}
+      {% include card-job.html job=job %}
+    {% endfor %}
+  </div>
+</section>
+
+<section class="fr-py-6w section-grey">
+  <div class="fr-container">
+    <button class="fr-btn" onclick="toggle_visibility('previous_jobs');">Offres pourvues</button>
+    <div id="previous_jobs" style="display:none">
+      {% assign jobs = site.jobs | where: "open", 'false' | reverse %}
+      <ul>
+    {% for job in jobs %}
+      {% capture startup_id %}/startups/{{ job.startup }}{% endcapture %}
+      {% assign startup = site.startups | where: "id", startup_id | first %}
+      <li><a href="{{ job.url }}">{% if job.friend %}{{ job.friend }}{% else %}{{ startup.title | default: "beta.gouv.fr"}}{% endif %} : {{ job.roles }}, le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></a></li>
+    {% endfor %}
+      </ul>
     </div>
-  </section>
-  <section class="section section-grey">
-    <div class="container">
-      <a class="button" onclick="toggle_visibility('previous_jobs');">Offres pourvues</a>
-      <div id="previous_jobs" style="display:none">
-        {% assign jobs = site.jobs | where: "open", 'false' | reverse %}
-        <ul>
-      {% for job in jobs %}
-        {% capture startup_id %}/startups/{{ job.startup }}{% endcapture %}
-        {% assign startup = site.startups | where: "id", startup_id | first %}
-        <li><a href="{{ job.url }}">{% if job.friend %}{{ job.friend }}{% else %}{{ startup.title | default: "beta.gouv.fr"}}{% endif %} : {{ job.roles }}, le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></a></li>
-      {% endfor %}
-        </ul>
-      </div>
-    </div>
-  </section>
-</div>
+  </div>
+</section>
 
 <script type="text/javascript">
 <!--

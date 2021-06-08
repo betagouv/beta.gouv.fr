@@ -1,6 +1,7 @@
 ---
 fullname: David Boureau
 role: Développeur web
+domaine: Développement
 avatar: https://res.cloudinary.com/bdavidxyz-com/image/upload/v1471575050/menice3_reoxvv.png
 link: http://bdavidxyz.com
 missions:
@@ -14,6 +15,7 @@ missions:
     employer: inop's
 startups:
   - clara
+  - la-bonne-alternance
 previously:
   - pix
 ---

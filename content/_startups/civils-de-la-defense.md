@@ -13,33 +13,64 @@ phases:
   - name: construction
     start: 2018-06-01
   - name: acceleration
-link: https://civilsdeladefense.fabnum.fr
+link: https://contractuels.civils.defense.gouv.fr/
 repository: https://github.com/betagouv/civilsdeladefense
 stats: true
 stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=75&period=day&date=yesterday
-contact: frederic.bardolle@def.gouv.fr
+contact: drh-md-srhc-civilsdeladefense.charge-qualite.fct@intradef.gouv.fr
 ---
 
-D’ici fin 2018, ce seront près de 4 000 agents qui devront rejoindre le ministère des Armées, dont un tiers sous contrat. Ces volumes, la concurrence sur le marché du travail et les nouveaux modes de recrutement obligent à repenser la manière de recruter au sein du ministère.
 
-## Un mode de recrutement inadapté à un besoin urgent
+## Problématique  
+Le ministère des Armées recrute désormais chaque année environ 1 000 agents civils sous contrat notamment sur des métiers en tension (SIC, infrastructures...). Satisfaire ce besoin a rapidement mis en évidence les problématiques suivantes :  
+une forte concurrence interministérielle et avec le secteur privé
+une visibilité du recrutement civil du ministère des Armées encore faible  
+un processus de recrutement long et opaque
+En conséquence de ce manque d’informations et d’accompagnement, les candidats abandonnent en cours de processus de recrutement au profit d’autres employeurs plus visibles et attractifs notamment dans le secteur privé.
 
-Le ministère des Armées souffre de déficits de visibilité et d'attractivité pour le recrutement de ses personnels civils car il recrute et communique surtout sur les métiers relevant du personnel militaire.
+## Objectifs    
+Avoir un  outil numérique qui simplifie, accélère et dématérialise le processus de recrutement aussi bien pour les candidats que pour les employeurs et les services RH de l’administration.
 
-Qui plus est, le ministère éprouve des difficultés à pourvoir certaines filières alimentées majoritairement par des agents sous contrat qui connaissent une forte concurrence, tant au niveau interministériel que face au secteur privé. La priorité de recrutement concerne les spécialités rares ou en tension : numérique et cybersécurité, conception et gestion d’infrastructures ou encore maintien en condition opérationnelle des matériels des armées.
 
-Enfin, les processus internes de recrutement au sein du ministère font aujourd’hui intervenir de nombreuses entités : employeurs internes, services RH, services administratifs, etc. La multiplicité de ces acteurs et de leurs interactions rend le processus de recrutement long et et parfois opaque. Tellement que certains candidats sont parfois perdus en cours de processus faute d’information ou de réponses à des demandes légitimes.
+## Chronologie
+__Étape 1__ (S2 2018) : Hackathon « E – recrutement » et 1er ateliers
 
-## Civils de la Défense : simplifier le recrutement des agents civils
+Livrables :   
+* Concaténation des meilleurs projets réalisés lors du hackathon     
+* Réalisation User journey actuelle et idéale   
+* Identification de l’architecture de la confidentialité (rôles et droits associés)   
+* Réalisation Maquette cliquable    
 
-Civils de la Défense est un service numérique qui s'adresse principalement aux employeurs et aux candidats.
+__Étape 2__ (S1 2019) : Début des développement
 
-Pour le candidat, Civils de la Défense est un outil qui fournit une information complète, fiable et actualisée sur les offres d’emplois, les missions, les métiers et permettant aux futurs agents de  déposer leurs candidatures aux offres du Ministère qu’ils soient jeunes diplômés ou confirmés.
+Livrables :    
+* Fonctionnalités principales back et front office   
 
-Le service rassemble en un espace unique toutes les étapes-clés du recrutement d’un agent sous contrat ; assurant des informations fiables, centralisées, partagées pour simplifier le recrutement du futur agent ainsi que les échanges entre le candidat, l’employeur et les services RH.
+__Étape 3__ (S2 2019) : Itération retours métier et continuité des développements
 
-## Première manche
+Livrables :
+* Fonctionnalités secondaires et écran de suivi statistique   
 
-L’outil final traitera à la fois de l’expérience candidat et du process administratif en back-office, tout en assurant une visibilité accrue des offres du Ministère des Armées. Afin de répondre au besoin de recrutements immédiats, le parcours candidat est développé en priorité, la visibilité employeur intervenant dans un second temps.
+__Étape 4__ (S1 et S2 2020) : Industrialisation du SI pour une utilisation grande échelle
 
-L’objectif est de déployer en situation réelle une V0 en octobre 2018 pour un nombre réduit d’offres d’emploi critiques au sein des services du ministère en charge de l'informatique, de l'infrastructure/génie civil et de la maintenance des matériels de l'armée de Terre.
+Livrables :   
+* Mise en conformité de l’outil aux exigences SSI, RGPD, loi transformation publique, d’archivage des données, respect des règles d’accessibilité      
+* Amélioration itératif des fonctionnalités
+
+## Résultat
+Un [site internet](https://civilsdeladefense.fabnum.fr)
+
+## en chiffres
+Aujourd’hui Civils de la Défense c’est :
+
+-50% sur le temps de recrutement (6/8 mois à 3 mois)
+
++500 utilisateurs minarm
+
++150 000 visiteurs
+
++10 000 candidature
+
+400 candidature traitées / mois
+
+6% des candidats sont recrutés

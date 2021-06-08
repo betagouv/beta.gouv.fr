@@ -1,6 +1,7 @@
 ---
 fullname: Clemence Leurent
 role: Chargée de développement
+domaine: Déploiement
 github: clemenceleurent
 missions:
   - start: 2018-05-30

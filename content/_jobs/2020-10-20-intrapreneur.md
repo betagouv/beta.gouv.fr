@@ -1,7 +1,7 @@
 ---
 roles: Intrapreneur(e)
 startup: itou
-open: true
+open: false
 title: Intrapreneur(e) pour investigations sur le Service Public de l’Insertion et de l’Emploi
 ---
 

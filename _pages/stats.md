@@ -14,29 +14,29 @@ beta.gouv.fr a aussi une page stats.
 
 Les indicateurs utilisés sont…
 
-### 1. Nombre de problèmes investigués par an
+## 1. Nombre de problèmes investigués par an
 
 <canvas id="investigation"></canvas>
 
-### 2. Nombre de produits lancés par an
+## 2. Nombre de produits lancés par an
 
 <canvas id="product_launch"></canvas>
 
-### 3. Nombre de produits abandonnés par an
+## 3. Nombre de produits abandonnés par an
 
 <canvas id="end"></canvas>
 
-### 4. Nombre de produits devenus des services publics à impact national majeur au cours de l'année
+## 4. Nombre de produits devenus des services publics à impact national majeur au cours de l'année
 
 <canvas id="national_impact"></canvas>
 
-### 7. Nombre d'intrapreneurs formés à la méthode Startup d'État
+## 7. Nombre d'intrapreneurs formés à la méthode Startup d'État
 
 <canvas id="agent"></canvas>
 
-#### EIG
+### EIG
 
 Indicateurs du programme 352 hors Startup d'État
 
-### 5. Nombre d'EIG sélectionnés dans l'année
-### 6. Nombre d'EIG recrutés dans l'administrations à la suite de leur défi
+## 5. Nombre d'EIG sélectionnés dans l'année
+## 6. Nombre d'EIG recrutés dans l'administrations à la suite de leur défi

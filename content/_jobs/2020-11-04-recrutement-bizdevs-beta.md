@@ -1,7 +1,7 @@
 ---
 roles: Chargé.e.s de déploiement juniors et expérimenté.e.s
 startup: beta.gouv.fr
-open: true
+open: false
 title: Nous recrutons des chargé.e.s de déploiement, juniors et expérimenté.e.s, pour rejoindre des produits beta.gouv.fr
 ---
 
@@ -47,7 +47,7 @@ Nous serions très contents de te rencontrer si :
 - Tu sais gérer tes priorités parmi des tâches variées, tu sais dire "non" en cas de trop-plein 
 - Tu sais délimiter des tâches que tu peux mener de A à Z en autonomie, et demander de l'aide si tu les as sous-estimées ;
 - Tu aimes les modes de communication asynchrones ;
-- Tu n'hésites pas à montrer ou livrer ton travail, même s'il est encore imparfait (bref tu dis souvent «Done is better than perfect »);
+- Tu n'hésites pas à montrer ou livrer ton travail, même s'il est encore imparfait (bref tu dis souvent « Le mieux est l'ennemi du bien »);
 - Tu maîtrises le français et un peu l’anglais dans un contexte professionnel et tu possèdes des qualités rédactionnelles ;
 - Tu aimes utiliser les réseaux sociaux ; 
 - Tu souhaites travailler au service du bien commun et espéres participer à la construction d'une solution qui cherche à tout prix à avoir le maximum d'impact et une utilité avérée ;

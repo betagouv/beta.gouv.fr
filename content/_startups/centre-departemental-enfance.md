@@ -1,6 +1,6 @@
 ---
 title: Trajectoire Enfance
-mission: Réduire le délai moyen d'attribution de l'allocation personnalisée d'autonomie
+mission: Permettre une meilleure prise en charge des enfants placés
 owner: Département du Var
 incubator: anct
 phases:
@@ -12,7 +12,7 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact: incubateur@anct.gouv.fr 
+contact: contactincubateur@anct.gouv.fr 
 ---
 
 ## Problème visé :

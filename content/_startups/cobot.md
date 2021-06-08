@@ -20,7 +20,7 @@ phases:
     end: 2019-09-01
   - name: alumni
     start: 2019-09-01
-link: https://cobot.beta.gouv.fr/
+link:
 repository:
 stats: false
 contact: laurence.matringe@developpement-durable.gouv.fr

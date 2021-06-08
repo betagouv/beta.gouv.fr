@@ -1,6 +1,7 @@
 ---
 fullname: Mathieu Agopian
 role: Développeur
+domaine: Développement
 github: magopian
 link: https://agopian.info/
 missions:
@@ -11,10 +12,12 @@ missions:
   - status: independent
     employer: Octo
     start: 2019-10-01
-    end: 2021-01-07
-startups:
-  - classes12
+    end: 2022-01-07
+previously:
   - saisissez au vol
+startups:
+  - classe-a-12
+  - egapro
 ---
 
 Insatiable Curieux

@@ -1,145 +1,205 @@
-/* Suppresion de l'effet shadow de l'image du hero */
-
-.article__hero img {
-    filter:none;
+.home-section-blue {
+    background: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%),
+    linear-gradient(0deg, #00006D, #00006D);
 }
 
-/* Centrer les accroches */
 
-.centered {
-  text-align: center;
-  justify-content: space-around;
+.home-section-description {
+    font-weight: bold;
+    color: #4941C0;
 }
 
-/* Mettre des marges autour de la section mosaic */
 
-.mosaic {
-  margin-top: 2em;
-  margin-bottom: 2em;
-}
-
-/* Centrer la section newsletter */
-
-.newsletter {
-  text-align: center;
-}
-
-/* Ancien CSS épuré : reprise de la section mosaic */
-
-.mosaic .photo {
-    /* background-image: url('/img/pages/agent_public.jpg'); */
-    overflow: hidden;
-}
-
-.mosaic .row {
-  margin: 0;
-}
-
-.mosaic .row > * {
-  margin: 0;
-}
-
-.mosaic .description {
-    background-color: #fff;
-    padding: 2em;
-    position: relative;
-}
-
-.mosaic .description::before {
-    content: '';
-    border: 20px solid transparent;
-    border-right: 20px solid #fff;
-    position: absolute;
-    left: -39px;
-    height: 0;
-    width: 0;
-    top: 50%;
-    transform: translateY(-50%);
-}
-
-.mosaic .description h3 {
-    margin-top: 0;
-}
-
-.mosaic .link {
-    background-color: #27486B;
+.home-section-blue h1,
+.home-section-blue h2,
+.home-section-blue h3:not(.fr-card__title),
+.home-section-blue h4:not(.fr-card__title),
+.home-section-blue .home-section-description {
     color: #fff;
-    padding: 2em;
-    width: 50%;
-    display: flex;
-    flex-grow: 2;
-    flex-direction: column;
-    align-items: center;
+}
+
+.home-section-blue svg {
+    max-height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home-section-blue h3.fr-card__title {
     text-align: center;
 }
 
-.mosaic .link:hover {
-    text-decoration: underline;
+.home-section-main {
+    min-height: 400px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
 }
 
-.mosaic .link p {
-  width: 100%;
+.home-section-main .fr-container {
+    height: 100%;
 }
 
-.mosaic .link img {
-    height: 40px;
+.home-section-main h1 {
+    color: white;
+    text-align: left;
+    margin-bottom: 1.2em;
 }
 
-.mosaic .link + .link {
-    background-color: #0081d5;
+.home-section-main-animation {
+    width: 100%;
+    height: 100%;
 }
 
-.mosaic .link img {
-    display: block;
-    margin: auto;
+.home-button-white {
+    background-color: white;
+    border-color: white;
+    box-shadow: inset 0 0 0 1px white;
 }
 
-.mosaic .photo {
-    flex: 1 0 50%;
-    -ms-flex: 1 1 50%;
-    background-size: cover;
+.home-button-white-border {
+    border-color: white;
+    box-shadow: inset 0 0 0 1px white;
+    color: white;
 }
 
-.mosaic .photo.decideurs {
-    background-image: url("/img/layouts/home/decideur_public.jpg");
+.home-section-title,
+.home-section-description {
+    text-align: center;
 }
 
-.mosaic .photo.agents {
-    background-image: url("/img/layouts/home/agent_public.jpg");
+.home-section-principle-list-item {
+    margin-bottom: 3em;
 }
 
-.mosaic .inverted {
-    direction: rtl;
+.home-section-principle-animation {
+    width: 100%;
+    height: 100%;
 }
 
-.mosaic .inverted .stacked {
-    direction: ltr;
+.home-section-principle-list-item .home-section-principle-list-item-number {
+   font-weight: bold;
+   font-size: 3.5em;
+   margin-right: 0.5em;
 }
 
-.mosaic .inverted .description::before {
-    border-right: transparent;
-    border-left: 20px solid #fff;
-    right: -20px;
-    left: unset;
-    height: 0;
-    width: 0;
-    transform: translateY(-50%);
+.home-section-principle-list-item .home-section-principle-list-item-content {
+    font-size: 1.2em;
+ }
+
+.home-section-principle .row {
+    background-color: #F9F8F6
 }
+
+.home-team-animation-container {
+    width: 100%;
+    position: relative;
+}
+
+.home-team-animation-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transition: all 0.5s ease-out ;
+    max-height: 200px;
+}
+
+.home-team-animation-foreground {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    max-height: 200px;
+}
+
+.home-team-animation-container:hover .home-team-animation-background  {
+    transform: scale(1.1);
+}
+
+.home-section-highlight {
+    color: #FCDC59;
+}
+
+.home-hero-anim {
+    position: relative;
+}
+#hero-anim-background {
+    width: 70%;
+    height: 70%;
+}
+#hero-anim-hand-1,
+#hero-anim-hand-1-shape,
+#hero-anim-hand-2,
+#hero-anim-hand-3,
+#hero-anim-hand-1-container {
+    position: absolute;
+    transition: all 0.5s ease-out ;
+}
+
+#hero-anim-hand-1{
+    top: -70px;
+    right: -130px;
+}
+
+#hero-anim-hand-1-container {
+    position: absolute;
+    top: -10px;
+    right: 50px;
+}
+
+#hero-anim-hand-1-shape {
+    /* animation: spin 4s linear infinite; */
+    right: 85px;
+    top: 35px;
+}
+
+#hero-anim-hand-2 {
+    top: 100px;
+    right: -50px;
+}
+
+#hero-anim-hand-3 {
+    top: 200px;
+    right: -50px;
+}
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
 
 @media (max-width: 749px) {
-    .mosaic .photo {
-        min-height: 200px;
+    .home-section-main {
+        min-height: none;
     }
+    .home-hero-anim {
+        display: none;
+    }
+    #hero-anim-hand-1,
+    #hero-anim-hand-1-shape,
+    #hero-anim-hand-2,
+    #hero-anim-hand-3,
+    #hero-anim-hand-1-container {
+        display: none;
+    }
+    .home-section-principle-animation {
+        width: 90%;
+        height: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .home-team-animation-background {
+        max-height: 130px;
+    }
+    
+    .home-team-animation-foreground {
+        max-height: 130px;
+    }
+}
 
-    .mosaic .inverted {
-        direction: ltr;
-    }
+#newsletter {
+    text-align: center;
+}
 
-    .mosaic .link {
-        width: 100%;
-    }
-
-    .mosaic .description::before {
-        content: none;
-    }
+#newsletter input {
+    display: inline-block;
+    width: auto;
 }

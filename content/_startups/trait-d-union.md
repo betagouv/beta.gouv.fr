@@ -18,7 +18,6 @@ phases:
     start: 2019-01-01
   - name: alumni
     start: 2019-12-01
-link: https://traitdunion.beta.gouv.fr
 repository: https://github.com/betagouv/trait-d-union
 stats: true
 contact: contact@traitdunion.beta.gouv.fr
@@ -51,10 +50,39 @@ il teste sans risque des métiers à côté de chez lui dans des secteurs qui re
 
 **Pour l’organisme de formation** : des stagiaires motivés, qui ont déjà un contact avec une entreprise pour leur stage et un meilleur taux de réussite.
 
-## La suite
+## Bilan des travaux à l'heure de la passation aux équipes de la région
 
-- Nous allons proposer une automatisation du processus actuellement encore « fait main ».
-- Un déploiement de la solution sur toute la Région Grand Est. Avec une géolocalisation des métiers et de l’offre de formations financées.
-- Un espace de mise en ligne d’offres d’immersion pour les entreprises.
-- Une gestion de compte pour les demandeurs d’emploi.
-- Un partenariat avec Pôle emploi
+Grâce une première phase d'investigation, l'équipe a pu s'entretenir avec plus de 50 stagiaires, entreprises, formateurs et conseillers Pôle emploi et mener une grande enquête auprès de plus de 2000 demandeurs d’emploi et 450 entreprises du Grand Est. Cette enquête a été suivie par l’organisation d’un atelier de co-construction réunissant autour d’une même table chacun de ces acteurs.
+ 
+Cette phase d’exploration a permis d'identifier un frein sous-estimé du retour à l’emploi : la méconnaissance du futur métier.
+En effet, 60% des stagiaires s’engageaient dans une formation sans connaître leur futur métier. Cette cohorte avait moins de chance de retrouver un emploi par la suite que les autres 40%.
+ 
+Une première version de Trait d’union a vu le jour au mois de mai 2019 sur le territoire de Metz. Dans une démarche d’amélioration continue et d’écoute permanente de nos utilisateurs, l'équipe a décidé de travailler sur une nouvelle version, afin de maximiser l'impact c’est-à-dire le nombre de mise en relation entre demandeurs d’emploi avant formation et entreprises ayant des difficultés de recrutement.
+
+La plateforme a été simplifiée, améliorée et élargie à toute la région Grand Est afin d'apporter aux demandeurs d’emploi une nouvelle proposition de valeur : "Essayez des métiers qui recrutent et forment à côté de chez vous" via l'utilisation de l’immersion professionnelle en entreprise.
+
+Chaque métier sur Trait d’union a les caractéristiques suivantes : 
+- C’est un métier en tension sur le marché de l’emploi où les postes sont nombreux, mais peu pourvus
+- La région Grand Est finance une formation qualifiante pour accéder à ce métier
+- Il existe une entreprise, ayant diffusé il y a peu une offre d’emploi pour ce job, prête faire découvrir le métier pendant quelques jours.
+ 
+Cette liste de métier est personnalisée pour chaque demandeur d’emploi :
+- Selon son niveau d’étude : on ne lui propose que les métiers accessibles avec son niveau d’étude actuel ou en sortie de formation qualifiante financée par la Région.
+- Selon sa localisation : on lui propose les offres les plus proches de chez lui, si possible à moins de 30 km en voiture.
+ 
+### Impact et résultats
+Plus de 50 entreprises ont dans un premier temps accepté de faire découvrir leurs métiers, que ce soit dans l'hôtellerie, l’aide à la personne, le coaching sportif, etc.
+En une trentaine de jours après le lancement de de la nouvelle version, trait d'union a permis à 147 candidats d’envoyer 117 offres de candidatures. 357 entreprises ont déposé 578 offres d’immersion.
+A l'heure de la passation, une dizaine d’offres sont déposées chaque jour sur le site, en provenance de toute la région. Une demi-douzaine de candidats s’inscrivent également quotidiennement.
+
+### Internalisation du projet à la région Grand Est
+Après un an, le partenariat entre la Région Grand Est et beta.gouv.fr prend fin dans une logique de pérennisation du dispositif avec une équipe dédiée à la région qui aura en charge de développer l'outil et maintenir le service.
+- déployer la solution sur toute la Région Grand Est avec une géolocalisation des métiers et de l’offre de formations financées
+- proposer une automatisation plus poussé du processus
+- mettre en place un espace de mise en ligne d’offres d’immersion pour les entreprises
+- développer la gestion de compte pour les demandeurs d’emploi
+- institutionaliser le partenariat avec Pôle emploi
+- ...
+
+Trait d’union est plus qu’un logiciel, c’est une plateforme inédite qui à tout son rôle à jouer pour réduire le chômage en France.
+En permettant à chacun d’essayer un métier, sans risque ni pression, nous donnons sens et motivation à la formation qui s’annonce, et, avec elle, un nouveau départ pour le demandeur d’emploi.

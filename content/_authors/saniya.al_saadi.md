@@ -1,6 +1,7 @@
 ---
 fullname: Saniya Al Saadi
 role: Designer
+domaine: Design
 avatar: https://i.goopics.net/rbAWD.png
 missions:
   - start: 2018-01-01
@@ -8,7 +9,10 @@ missions:
     status: independent
     employer: octo
 startups:
-    - workinfrance
-    - domifa
-    - didoc
+  - workinfrance
+  - didoc
+  - archifiltre
+  - medle
+previously:
+  - domifa
 ---

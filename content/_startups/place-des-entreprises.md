@@ -11,7 +11,7 @@ sponsors:
       acronym: DGEFP
       domaine_ministeriel: travail
       type: administration-centrale
-incubator: dinum
+incubator: bercy
 phases:
   - name: investigation
     start: 2017-04-03

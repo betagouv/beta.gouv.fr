@@ -14,6 +14,9 @@ phases:
   - name: construction
     start: 2018-04-01
   - name: acceleration
+    start: 2019-06-01
+  - name: transfer
+    start: 2020-09-01
 link: https://zen.pole-emploi.fr
 stats: false
 repository: https://github.com/StartupsPoleEmploi/zen

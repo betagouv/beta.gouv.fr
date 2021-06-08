@@ -1,12 +1,16 @@
 ---
 fullname: Céline Kniebihler
 role: Designer UX/UI
-github: celine-k 
+domaine: Design
+github: celine-k
+link: https://www.celinek.fr/
 missions:
   - start: 2019-11-01
     end: 2020-12-31
     status: independent
-    employer: Arolla
+    employer: Arolla, Octo
 startups:
-    - e-controle
+  - itou
+previously:
+  - e-controle
 ---

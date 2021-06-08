@@ -2,54 +2,49 @@
 layout: default
 ---
 
-{%- capture build_date -%}{{ site.time | date:"%Y-%m-%d" }}{%- endcapture -%}
+{%- capture build_date -%}{{ site.time | date:"%Y-%m-%d" }}{%- endcapture -%} {%- assign lang = page.lang | default: site.lang | default: "fr" -%}
+{%- assign current = site.authors | community: 'current' -%}
+{%- assign recent = site.authors | community: 'recent' -%}
 
-{%- assign lang = page.lang | default: site.lang | default: "fr" -%}
-<div class="page article">
-  {%- include hero-page.html title=page.title -%}
-  {%- assign current = site.authors | community: 'current' -%}
-  <section class="section section-white">
-    <div class="container">
-      <h3>Évolution des effectifs</h3>
-      <div id="chart-wrapper">
-          <canvas>
-              Nous avons actuellement {{ current | length }} membres.
-          </canvas>
-      </div>
-    </div>
-    <div class="container">
-      <div class="richtext">
-      {{ content }}
-      </div>
-    </div>
-  </section>
-  <section class="section section-grey">
-    <div class="container community">
-      <h2>Les membres actifs</h2>
-      <div class="grid">
-        {%- for author in current -%}
-          {%- include card-community.html author=author -%}
-        {%- endfor -%}
-      </div>
-    </div>
-  </section>
+{%- include hero-page.html title=page.title -%}
 
-  <section class="section section-white">
-    <div class="container community alumni">
-      <h2>Les anciennes et les anciens</h2>
-      <div class="grid">
-        {%- assign alumnis = site.authors | community: 'past' -%}
-        {%- for author in alumnis -%}
-          {%- include card-community.html author=author -%}
-        {%- endfor -%}
-      </div>
+<section class="fr-py-6w">
+    <div class="fr-container">
+        <h2>Évolution des effectifs</h2>
+        <div id="chart-wrapper">
+            <canvas> Nous avons actuellement {{ current | size }} membres. </canvas>
+        </div>
     </div>
-  </section>
+    <div class="fr-container">
+        {{ content }}
+    </div>
+</section>
+
+<div class="fr-container">
+    <h2>Ils viennent de nous rejoindre&nbsp;!</h2>
+    <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
+        {%- for author in recent -%}
+        <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
+        {%- endfor -%}
+
+        <div class="fr-col-6 fr-col-md-3" style="align-self: center;">
+            <a class="fr-link fr-link--lg fr-fi-arrow-right-line fr-link--icon-right" href="/communaute/annuaire">Voir tous les membres</a>
+        </div>
+    </div>
+</div>
+
+<div class="fr-container">
+    <h2>Notre réseau d'incubateurs</h2>
+    <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
+        {%- for incubator in site.incubators -%}
+        <div class="fr-col-12 fr-col-md-6">{%- include card-incubator.html incubator=incubator -%}</div>
+        {%- endfor -%}
+    </div>
 </div>
 
 <script type="text/javascript">
-(function() {
-    window.buildDate = '{{ build_date }}';
-    window.data = {% render_community_stats %}
-})();
+    (function() {
+        window.buildDate = '{{ build_date }}';
+        window.data = {% render_community_stats %}
+    })();
 </script>

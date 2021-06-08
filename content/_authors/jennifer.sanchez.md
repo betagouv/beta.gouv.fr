@@ -1,11 +1,12 @@
 ---
 fullname: Jennifer Sanchez
 role: Designer UX / UI
+domaine: Design
 github: jennichou
 link: https://www.linkedin.com/in/jennifersanchezdesign/
 missions:
   - start: 2018-11-26
-    end:
+    end: 2021-05-01
     status: independent
 startups:
     - zen

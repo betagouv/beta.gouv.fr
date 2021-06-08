@@ -13,7 +13,7 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact: incubateur@anct.gouv.fr
+contact: contactincubateur@anct.gouv.fr
 ---
 
 ## Problème: en France, un tiers des élèves n’utilisent pas les sanitaires des collèges
@@ -47,5 +47,5 @@ Le moment pendant lequel ils sont le plus utilisés est la pause méridienne. Or
 ## Territoire d'expérimentation : 
 Département du Val d'Oise
 
-## Equipe
+## Équipe
 Juliette Pressé

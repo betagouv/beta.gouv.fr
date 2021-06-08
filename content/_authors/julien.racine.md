@@ -1,14 +1,16 @@
 ---
 fullname: Julien Racine
-role: Développeur full-stack
+role: CTO incubateur Pole Emploi
+domaine: Animation
 missions:
   - start: 2016-10-01
-    end:
+    end: 2021-06-30
     status: admin
     employer: pole-emploi
 avatar: /img/authors/julien.racine.jpg
 startups:
     - memo
+    - mobiville
 ---
 
 Agent à la DSI à Aix-En-Provence.<br>

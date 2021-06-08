@@ -1,10 +1,11 @@
 ---
 fullname: Romain Delassus
 role: Chef de Produit
+domaine: Produit
 avatar:
 missions:
   - start: 2018-06-15
-    end:
+    end: 2021-06-30
     status: admin
     employer: Ministère de la Culture
 startups:

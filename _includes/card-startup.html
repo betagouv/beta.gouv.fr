@@ -3,19 +3,19 @@
   Ex : {% include card-startup.html startup = startup %}
 {% endcomment %}
 
-<div class="card">
-  <a href="{{ startup.url }}">
-    <div class="card__cover">
+<div class="fr-col-12 fr-col-md-3">
+  <div class="fr-card fr-enlarge-link">
+    <div class="fr-card__img">
       {% include screenshot.html startup=startup force=true %}
     </div>
-    <div class="card__content">
-      <h3 class="startup__title">{{ startup.title | strip_html }}</h3>
-      <div class="card__meta">
-        {{ startup.owner | strip_html }}
-      </div>
-      <p>
-        {{ startup.mission | strip_html }}
-      </p>
+
+    <div class="fr-card__body">
+      <h2 class="fr-card__title">
+        <a class="fr-card__link" href="{{ startup.url }}" >{{ startup.title | strip_html }}</a>
+      </h2>
+
+      <p class="fr-card__detail">{{ startup.owner | strip_html }}</p>
+      <p class="fr-card__desc">{{ startup.mission | strip_html }}</p>
     </div>
-  </a>
+  </div>
 </div>

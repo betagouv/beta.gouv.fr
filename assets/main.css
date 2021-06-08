@@ -1,0 +1,427 @@
+/* Le Système de design n'a pas encore de notifications */
+
+.notification {
+  background: #b4e1fa;
+  border: 1px solid #006be6;
+  border-radius: 3px;
+  padding: 1em;
+  margin-bottom: 1em;
+  position: relative;
+}
+
+.notification.full-width {
+  width: 100%;
+  margin-bottom: 0;
+  border: 0;
+}
+
+.notification.success {
+  background: #daf5e7;
+  border-color: #03bd5b;
+}
+
+.notification.warning {
+  background: #fff0e4;
+  border-color: #ff9947;
+}
+
+.notification.error {
+  background: #efaca6;
+  border-color: #d63626;
+}
+
+/* En attendant de revoir tous les titres de pages */
+
+.hero {
+  width: 100%;
+  color: #fff;
+  background: #0053b3;
+}
+
+.hero__container {
+  min-height: 38vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 2em;
+}
+
+.hero p {
+  margin: 1em auto;
+  color: #26353f;
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+.article__hero {
+  height: 25vh;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.article__hero img {
+  width: 100%;
+  filter: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="linear" slope="0.5" /><feFuncG type="linear" slope="0.5" /><feFuncB type="linear" slope="0.5" /></feComponentTransfer></filter></svg>#filter');
+  -webkit-filter: brightness(0.5);
+  filter: brightness(0.5);
+  position: absolute;
+  z-index: 5;
+}
+
+.article__hero .article__container {
+  z-index: 10;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: start;
+  width: 100%;
+}
+
+/* Cette classe n'est plus utilisée que sur la home.html, supprimer lors de la refonte prochaine */
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.row > * {
+  max-width: 50em;
+}
+
+.row > * {
+  margin: 0 2em;
+}
+
+@media (max-width: 749px) {
+  .row {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .row > * {
+    margin: 1em;
+  }
+}
+
+/* Couleurs de sections et espacemements */
+.section-grey {
+  background-color: #ebeff3;
+}
+
+.section-dark {
+  background-color: #1c1c1c;
+  color: #fff;
+}
+
+.section-color {
+  background-color: #003b80;
+  color: #fff;
+}
+
+/* Icônes reseaux sociaux */
+
+.beta-footer-social li a {
+  margin-right: 10px;
+}
+
+.beta-footer-social li a .icon{
+  width: 2em;
+  height: 2em;
+}
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+  font-size: 16px;
+}
+
+#icon-search {
+  fill: #adb9c9;
+}
+
+/*
+ Ci-dessous, modifications temporaire au système de design 
+*/
+
+/* Afficher le curseur même quand on est sur la page active */
+.fr-nav__item--active>.fr-nav__link {
+  pointer-events: all !important;
+}
+
+/* Surcharger la classe reverse qui est mise par défaut sur les cartes */
+.fr-card {
+  flex-direction: column !important;
+}
+
+/* Ajouter un nouveau style rond sur les cartes */
+.fr-card.fr-card__img__rounded {
+  background: linear-gradient(180deg, #ffffff00 20%, #f9f8f6 20%)
+}
+
+.fr-card.fr-card__img__rounded:not([disabled]):hover {
+  background: linear-gradient(180deg, #ffffff00 20%, #f9f8f6 20%);
+}
+
+.fr-card__img img.avatar-rounded {
+  border-radius: 50%;
+  width: auto;
+  margin: auto;
+}
+
+/* Ajouter un modificateur de tags pour les rendre inactifs */
+a.fr-tag.fr-tag--inactive, button.fr-tag.fr-tag--inactive {
+  color: var(--g700);
+  background-color: var(--bf100-g750);
+}
+
+.fr-tag--inactive:hover {
+  background-color: var(--bf300-plain);
+}
+
+.fr-tags-group a.fr-tag--sm, .fr-tags-group button.fr-tag--sm {
+  margin-right: 0.1rem !important;
+  margin-bottom: 0.9rem !important;
+}
+
+/* Garantir qu'un <p> dans un <li> ne s'affiche pas sur la ligne suivant */
+ol li p, ul li p {
+  display: inline;
+}
+
+/* Pas trouvé comment faire ça avec les classes du DS */
+#tabpanel-membres .link_to_members {
+  margin-bottom: 4rem;
+  text-align: end;
+}
+
+/* Parce que les images des tuiles ne sont pas toujours à la bonne taille */
+.fr-tile__img img {
+  width: 100%;
+}
+
+/* Augmenter la taille de la colonne visible pour les articles */
+
+.article__container {
+  max-width: 45em;
+}
+
+/* Styles pour les iframes de vidéos */
+
+.video-iframe-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 749px) {
+  .video-iframe-center {
+    width: 100%;
+  }
+}
+
+@media (min-width: 750px) {
+  .video-iframe-center {
+    text-align: center;
+    width: 75%;
+  }
+}
+
+.video-iframe-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.video-iframe-container iframe,
+.video-iframe-container object,
+.video-iframe-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0px;
+}
+
+.card__cover {
+  height: 100px;
+}
+
+.card__cover img {
+  object-position: top;
+}
+
+.startup__title {
+  color: #0053b3;
+}
+
+h2.phase-title {
+  font-weight: normal;
+}
+
+h2.phase-title em {
+  font-style: normal;
+  font-weight: bold;
+}
+
+.phase-description {
+  font-style: italic;
+  color: $darker-grey;
+}
+
+.filters {
+  padding: 1em 0;
+  background-color: #bfbfe3;
+}
+
+.filters .fr-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1em;
+}
+
+.filters #select-incubateur {
+  grid-column: 1;
+}
+
+.filters #select-phase {
+  grid-column: 2;
+}
+
+.filters #search-input {
+  grid-column: 4;
+  z-index: 2;
+}
+
+@media (max-width: 1200px) {
+  .filters .fr-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  .filters input#search-input {
+    grid-column: 3;
+  }
+}  
+
+@media (max-width: 1000px) {
+  .incubator-header .incubator-logo {
+    display: none;
+  }
+
+  .filters .fr-container {
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+  }
+
+  .filters #select-incubateur {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .filters #select-phase {
+    grid-column: 1;
+    grid-row: 2;
+  }
+
+  .filters #search-input {
+    grid-column: 1;
+    grid-row: 3;
+  }
+}
+/* Résultats de recherche page /réalisations */
+
+#search-input {
+  position: relative;
+}
+
+#results-container {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  top: 2em;
+  background-color: white;
+  border: 1px solid #adb9c9;
+  max-width: 660px;
+  min-width: 35vw;
+  right: 0;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+#results-container a {
+  box-shadow: none;
+}
+
+#results-container a .search-result-title {
+  box-shadow: var(--is-link) 0 1px 0 0 currentColor;
+}
+
+/* Hack pour que les menus sticky restent visibles */
+.sticky {
+  z-index: 1;
+}
+
+/* Présentations de la section incubateurs sur réalisations */
+
+:root .fr-scheme-soft-blue-soft.incubator-header {
+  background-color: #EDEDF2;
+  padding: 2em 0;
+}
+
+.incubator-header img {
+  width: 100%;
+  height: auto;
+  max-width: 100px;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #d1d2de;
+}
+
+/* Pour ne pas avoir de marge quand on a une seule ligne de grid-row */
+
+.fr-grid-row--gutters:last-of-type {
+  margin-bottom: 0;
+}
+
+/* Sous-titre de carte */
+
+.h1-card__title-subtitle {
+  margin-top: -0.5rem;
+}

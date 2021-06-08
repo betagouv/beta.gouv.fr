@@ -1,6 +1,7 @@
 ---
 fullname: Stéphane Legouffe
 role: Développeur
+domaine: Développement
 link: https://wawy.io
 github: slegouffe
 missions:

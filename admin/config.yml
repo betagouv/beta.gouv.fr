@@ -11,6 +11,8 @@ backend:
     uploadMedia: Nouvelle image {{path}}
     deleteMedia: Suppression de l'image {{path}}
   squash_merges: true
+  open_authoring: true
+  use_graphql: true
 
 # Permet d'expérimenter en local
 # cf. https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
@@ -19,9 +21,9 @@ backend:
 media_folder: "img/netlifycms"
 
 display_url: https://beta.gouv.fr
+logo_url: https://beta.gouv.fr/assets/images/favicons/apple-touch-icon-180x180.png
 
-# La preview n'est pas utile juste pour modifier des auteurs
-show_preview_links: false
+show_preview_links: true
 
 slug:
   encoding: "ascii"
@@ -45,30 +47,10 @@ date_field_defaults: &date_field_defaults
   default: null
 
 collections:
-  - name: incubators
-    label: Incubateurs
-    label_singular: Incubateur
-    folder: "content/_incubators"
-    create: true
-    delete: false
-    slug: "{{slug}}"
-    editor:
-      preview: false
-    fields:
-      - { label: Nom, name: title, widget: string }
-      - { label: Responsable, name: owner, widget: string }
-      - { label: Site, name: website, widget: string }
-      - { label: Dépôts des produits, name: github, widget: string }
-      - { label: Contact, name: contact, widget: string }
-      - { label: Adresse, name: address, widget: string }
-      - label: Redirections
-        label_singular: Redirection
-        name: redirect_from
-        widget: list
-        collapsed: false
-        field: { label: Source, name: name, widget: string }
   - name: startups
+    publish: false
     label: Produits
+    preview_path: "startups/{{slug}}"
     label_singular: Produit
     folder: "content/_startups"
     create: true
@@ -76,24 +58,29 @@ collections:
     editor:
       preview: false
     fields:
-      - label: Nom
+      - label: Quel est le nom de ta Startup d'ETat ?
         name: title
+        hint: "Ce nom sert d'identifiant pour la startup et ne doit pas dépasser 30 caractères"
         widget: string
-      - label: Objectif
+        pattern: ["^.{1,30}$","Vous êtes limité à 20 caractères"]
+      - label: Quel est son objectif principal ?
+        hint : >
+          Par exemple : "Faciliter la création d'une fiche produit". Pas besoin de faire plus long.
         name: mission
         widget: string
-      - label: Nom affiché pour l'administration partenaire
+      - label: Qui est l'administration sponsor ?
+        hint : Indiques le nom de l'administration qui porte ta Startup d'Etat.
         name: owner
         widget: string
-      - label: Détails administrations partenaires 
+      - label: Quelques infos sur la ou les administrations sponsors ou partenaires ? 
         name: sponsors
         widget: list
         collapsed: false
         fields:
-          - label: Nom
+          - label: Nom de l'administration
             name: name
             widget: string
-          - label: Acronyme
+          - label: Quel est l'acronyme de cette administration ?
             name: acronym
             widget: string
             required: false
@@ -108,11 +95,12 @@ collections:
               - { label: "Sécurité sociale", value: "securite-sociale" }
               - { label: "Collectivité territoriale ", value: "collectivite-territoriale" }
               - { label: "Autre", value: "autre" }
-          - label: "Domaine ministériel"
-            hint: "Quelle est le domaine ministériel du partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter"
+          - label: "Cette administration intervient principalement dans quel champs de l'action publique ?"
+            hint: >
+              Quelle est le domaine "ministériel" ou domaine "action publique" du partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter
             name: "domaine_ministeriel"
             widget: "select"
-            required: false
+            required: true
             options:
               - { label: "Affaires étrangères", value: "affaires-etrangeres" }
               - { label: "Affaires sociales", value: "affaires-sociales" }
@@ -132,7 +120,7 @@ collections:
               - { label: "Territoires", value: "territoires" }
               - { label: "Autres", value: "autres" }
       - <<: *relation_default_options
-        label: Incubateur
+        label: Quel est l'incubateur qui t'accompagne ?
         name: incubator
         collection: incubators
       - label: Lien vers le produit
@@ -143,10 +131,11 @@ collections:
         name: repository
         widget: string
         required: false
-      - label: Email de contat
+      - label: Email de contact
         name: contact
         widget: string
-        required: false
+        pattern: ['^[^@\s]+@[^@\s]+\.[^@\s]+$', 'Ce doit être un email valide']
+        required: true
       - label: Statistiques d'usage publiques
         name: stats
         widget: boolean
@@ -196,16 +185,39 @@ collections:
             name: comment
             widget: string
             required: false
-      - label: Description
+      - label: Rédiger sa fiche produit
         name: body
         widget: markdown
+        hint: "N'hésite pas à te référer aux autres fiches produit présentes sur le site beta.gouv"
+        default: >
+          Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
+
+          Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
+
+          ## Contexte
+
+          Quel est le contexte de ta Startup d'Etat ?
+
+          ## Problème
+
+          Les problèmes que vous avez identifiés ou vos hypothèses de problèmes? Qui en souffre ? quels sont les conséquences de ces problèmes ?
+
+          ## Solution
+
+          Décrit ta solution en quelques lignes? qui seront/sont les bénéficiaires ?
+
+          ## Stratégie
+
+          Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
+      
   - name: "authors"
+    publish: false
     identifier_field: fullname
     label: "Membres"
     label_singular: "Membre"
-    description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, direction \"Créer une entrée de type Membre\" !"
+    description: "Les membres de la communauté beta.gouv.fr. Pour modifier une fiche, clique sur son nom ou recherche-la dans la barre de gauche. Pour ajouter un nouveau membre, allez sur le secretariat : https://secretariat.incubateur.net/onboarding ."
     folder: "content/_authors"
-    create: true
+    create: false
     delete: false
     slug: "{{slug}}"
     editor:
@@ -215,9 +227,24 @@ collections:
         hint: "Format : Prénom Nom. Ton nom complet est utilisé pour le nom de ta fiche. Attention à ton orthographe !"
         name: "fullname"
         widget: "string"
-      - label: "Rôle"
-        hint: "Développeuse ? Intrapreneur ? Chargée de développement ? Coach ?"
+      - name: domaine
+        hint: Dans quel domaine principal interviens-tu ?
+        widget: select
+        options: [
+          "Animation",  
+          "Coaching",
+          "Déploiement",
+          "Design", 
+          "Développement",
+          "Intraprenariat",
+          "Produit", 
+          "Autre"
+        ]
+        required: true
+      - label: "Description"
+        hint: "Ce que tu veux qu'on dise de toi. Développeuse NodeJS ? Intrapreneur ? Chargée de développement ? Coach construction produit ? Experte en simplicité ?. Tu pourras écrire une bio plus bas"
         name: "role"
+        required: true
         widget: "string"
       - label: "Github"
         hint: "Ton nom d'utilisateur GitHub. Il te permet de rejoindre automatiquement l'organisation GitHub betagouv."
@@ -239,6 +266,8 @@ collections:
         hint: "Ton historique de missions avec nous dans l'ordre chronologique."
         name: 'missions'
         widget: 'list'
+        min: 1
+        max: 10 # both min and max are required to be apply 
         collapsed: false
         fields:
           - label: "Statut"
@@ -285,16 +314,61 @@ collections:
         required: false
         options:
            - { label: "Ségur", value: "segur" }
-      - label: Description
+      - label: Mini-Biographie
         hint: "Raconte-nous qui tu es dans une phrase percutante !"
         name: body
         widget: markdown
         required: false
+        buttons: []
+        editor_components: []
+        sanitize_preview: true
+        minimal: true
+        pattern: ["^.{1,150}$","Vous êtes limité à 150 caractères"]
+      - name: competences
+        hint: "Vous pouvez choisir plusieurs compétences (n'hésitez pas à nous en proposer de nouvelles !)"
+        widget: select
+        multiple: true
+        options: [
+          "UX", 
+          "UI", 
+          "Développement Frontend", 
+          "Développement Backend", 
+          "Administration Système", 
+          "Gestion de Produit", 
+          "Coaching", 
+          "Communication", 
+          "Croissance", 
+          "Administration Publique"
+        ]
+  - name: incubators
+    publish: false
+    label: Incubateurs
+    label_singular: Incubateur
+    folder: "content/_incubators"
+    create: true
+    delete: false
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: Nom, name: title, widget: string }
+      - { label: Responsable, name: owner, widget: string }
+      - { label: Site, name: website, widget: string }
+      - { label: Dépôts des produits, name: github, widget: string }
+      - { label: Contact, name: contact, widget: string }
+      - { label: Adresse, name: address, widget: string }
+      - label: Redirections
+        label_singular: Redirection
+        name: redirect_from
+        widget: list
+        collapsed: false
+        field: { label: Source, name: name, widget: string }
   - name: phases
     label: Phases
     label_singular: Phase
     folder: "content/_phases"
     delete: false
+    publish: false
     slug: "{{slug}}"
     editor:
       preview: false
@@ -305,6 +379,7 @@ collections:
       - { label: order, name: order, widget: number }
       - { label: short_description, name: short_description, widget: string }
   - name: events
+    publish: false
     label: Évènement de SET
     label_singular: Évènement
     folder: "content/_events"
@@ -314,3 +389,72 @@ collections:
       preview: false
     fields:
       - { label: label, name: label, widget: string }
+  - name: jobs
+    identifier_field: roles
+    label: Fiche de postes
+    label_singular: Fiche de poste
+    folder: "content/_jobs"
+    create: true
+    delete: false
+    preview_path: "recrutement/{{year}}/{{month}}/{{day}}/{{roles}}"
+    summary: "{{startup}} - {{filename}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    publish: false
+    editor:
+      preview: false
+    fields:
+      - label: Quel est le titre du poste ? (le titre doit être unique à toutes les fiches de postes)
+        name: roles
+        widget: string
+        required: true  
+      - label: Est-ce que le poste est ouvert ?
+        name: open
+        widget: boolean
+        required: true 
+      - label: Est-ce que le poste est ouvert au junior ?
+        name: junior
+        widget: boolean
+        required: false
+      - label: Date de publication
+        name: date
+        widget: datetime
+        time_format: false
+        hint: "Uniquement si vous publiez la fiche plus tard"
+      - label: Pour quelle startup ?
+        label_singular: Startup
+        hint: "Si la startup n'apparait pas encore dans la liste, contacte un administrateur du site !"
+        name: startup
+        <<: *relation_default_options
+        collection: startups
+        required: false 
+      - label: Rédiger sa fiche de recrutement
+        name: body
+        widget: markdown
+        hint: "N'hésite pas à te référer aux autres fiches de recrutemenr présentes sur le site beta.gouv"
+        default: >
+          Voici un exemple de format - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
+          Pour t'aider dans la rédaction de ta fiche produit, tu peux t'inspirer des dernières offres disponibles sur le [site de beta](https://beta.gouv.fr/recrutement/) et nous te recommandons de suivre ce plan:
+          
+          ## Le contexte
+          Quel est le contexte de ta Startup d'Etat ?
+
+          ## Le produit (ou la solution)
+          Quelle est la cible ?
+          A quoi ça sert ?
+
+          ##L'équipe
+          Qui compose l'équipe ?
+
+          ## La mission
+          Quelles seront les missions attendues ?
+
+          ## Les savoir-être de la personne recherchée
+          Quels sont les savoir-être indispensable pour bosser avec ton équipe ?
+
+          ## Les modalités
+          Poste ouvert pour ...
+          Temps de travail : ... jours / semaine
+          Démarrage en Mois Année
+          Télétravail et/ou possibilité de travailler à ....
+
+          Candidature à recrutement@beta.gouv.fr

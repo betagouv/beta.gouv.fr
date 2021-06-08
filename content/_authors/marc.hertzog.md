@@ -1,6 +1,7 @@
 ---
 fullname: Marc Hertzog
 role: Développeur web
+domaine: Développement
 link: https://marcarea.com
 github: kemar
 missions:
@@ -17,7 +18,7 @@ missions:
     status: independent
     employer: ey
   - start: 2019-07-01
-    end: 2020-12-31
+    end: 2021-06-30
     status: independent
     employer: octo
 startups:

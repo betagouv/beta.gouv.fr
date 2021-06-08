@@ -1,6 +1,7 @@
 ---
 fullname: Ishan Bhojwani
 role: Co-animateur de beta.gouv.fr
+domaine: Animation
 missions:
   - start: 2017-05-23
     end: 2017-08-31
@@ -16,15 +17,19 @@ missions:
 github: IshanB
 startups:
     - le-taxi
-    - transport
     - preuve-de-covoiturage
-    - ecolab
-    - comobi
-    - auvol
+    - datagir
     - egalim
-    - ecosante
-    - friches
+    - recosante
+    - urbanvitaliz
     - cartobio
+    - peps
+    - tutorat_fp
+    - labels-transition
+previously:
+    - comobi
+    - transport
+    - auvol
 badges:
   - segur
 ---

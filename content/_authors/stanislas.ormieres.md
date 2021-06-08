@@ -1,6 +1,7 @@
 ---
-fullname: Stanislas Ormières # penser à modifier le nom du fichier ci-dessus en prenom.nom.md !
-role: Responsable technique du LAB-MI # Développeur
+fullname: Stanislas Ormières 
+role: Responsable technique du LAB-MI
+domaine: Animation
 github: laruiss # optionnel : nom d'utilisateur GitHub, permet d'être ajouté automatiquement à l'organisation GitHub betagouv
 avatar: # optionnel, voir ci-dessous
 # En premier, on va regarder si tu as mis une image au format prenom.nom dans /img/authors/

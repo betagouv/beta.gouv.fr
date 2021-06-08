@@ -1,6 +1,7 @@
 ---
 fullname: Karel Cloarec
-role: Coach
+role: Coaching - Deploiement
+domaine: Coaching
 github: Karel2
 avatar: null
 missions:
@@ -9,13 +10,22 @@ missions:
     status: independent
     employer: Codeurs en Liberté
   - start: 2020-05-14
-    end: 2021-05-14
+    end: 2020-10-30
     status: independent
     employer: Octo
+  - start: 2020-11-01
+    end: 2021-04-01
+    status: independent
+    employer: Scopyleft
+  - start: 2021-04-01
+    end: 2021-12-01
+    status: independent
+    employer: UT7
 startups:
-  - friches
+  - eva
 previously:
   - andi
+  - urbanvitaliz
 badges:
   - segur
 ---

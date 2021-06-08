@@ -1,11 +1,12 @@
 ---
 fullname: Jérémie Lanceleur
-role: Référent Technique / Développeur 
-github : JeremieLAN
+role: CTO / Développeur full stack
+domaine: Développement
+github: JeremieLAN
 missions:
   - start: 2020-04-01
-    end: 2020-12-31
+    end: 2022-01-02
     status: admin
-startups: 
-    - estime
+startups:
+  - estime
 ---

@@ -1,7 +1,6 @@
 ---
 title: Glad pour tous
-mission: Comment valoriser la participation démocratique des jeunes dans les établissements scolaires via le Conseil Régional des Jeunes
-owner: Région Bretagne
+mission: Comment contribuer à la connaissance et au transfert des savoirs sur le patrimoine breton
 incubator: anct
 phases:
   - name: investigation
@@ -12,7 +11,7 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact: incubateur@anct.gouv.fr
+contact: contactincubateur@anct.gouv.fr
 ---
 
 ## Problème visé : 35 % des personnes interrogées déplorent ne pas pouvoir contribuer facilementà cette connaissance alors qu’ils souhaitent s’engager pour le patrimoine

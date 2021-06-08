@@ -1,8 +1,9 @@
 ---
 fullname: Nathalie Reyre
 role: Product Owner
-github: nathaliereyre
-avatar: https://static8.viadeo-static.com/4KOb8isx1rjIYUn1rzQZxPYEWGo=/300x300/member/002j11g5ucsfjqc%3Fts%3D1323192285000
+domaine: Produit
+github: nathalie-reyre
+avatar: https://i.ibb.co/p2DjJdK/photo-cv.png
 missions:
   - start: 2015-12-01
     end: 2019-08-30
@@ -13,13 +14,13 @@ missions:
     status: independent
     employer: Codeurs en liberté
   - start: 2019-05-01
-    end: 2020-12-31
+    end: 2021-06-30
     status: independent
     employer: Octo
 startups:
-  - snu
+  - diagoriente
 previously:
   - la-bonne-formation
   - andi
-  - reserve-civique
+  - engagement-civique
 ---

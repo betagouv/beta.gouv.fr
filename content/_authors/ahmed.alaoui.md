@@ -1,6 +1,7 @@
 ---
 fullname: Ahmed Alaoui
 role: Développeur
+domaine: Développement
 github: ahmedahma
 missions:
   - start: 2019-10-07

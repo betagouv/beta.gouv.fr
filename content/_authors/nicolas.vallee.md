@@ -1,6 +1,7 @@
 ---
 fullname: Nicolas Vallée
 role: Intrapreneur de la transition écologique
+domaine: Intraprenariat
 github: Nickvalley
 avatar: 
 link: https://www.linkedin.com/in/nicolasvalleeademe/

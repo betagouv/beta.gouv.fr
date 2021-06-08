@@ -7,33 +7,40 @@
 
 {% capture startup_id %}/startups/{{ job.startup }}{% endcapture %}
 {% assign startup = site.startups | where: "id", startup_id | first %}
-<div class="card {% if job.type == 'friend' %}friend {% endif %}{% unless job.open %}closed {% endunless %}">
-  <a href="{{ job.url }}">
-    <div class="card__cover">
-      {% include screenshot.html startup=startup force=true %}
-    </div>
-    <div class="card__content">
-      <h3>{{ job.roles | capitalize }}</h3>
-      <div class="card__meta">Offre de {% if job.friend %}{{ job.friend | strip_html }}{% else %}{{ startup.title | default: "beta.gouv.fr" | strip_html}}{% endif %}</div>
-      <p>{{ job.excerpt | strip_html | truncate: 260 }}</p>
-    </div>
-  </a>
-  <div class="card__extra">
-    {% if job.open %}
-      <p>Poste ouvert le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></p>
-    {% else %}
-      <p>Ce poste a été pourvu depuis son ouverture le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></p>
-    {% endif %}
-  </div>
-  {% if job.techno or job.junior or job.type == 'friend' %}
-    <div class="card__extra">
-      {% if job.type == 'friend' %}<div class="label label--active">Nos camarades recrutent</div>{% endif %}
-      {% if job.junior %}<div class="label label--active">Bienvenue aux juniors</div>{% endif %}
+
+<div class="fr-card fr-card--horizontal fr-enlarge-link {% if job.type == 'friend' %}friend {% endif %}{% unless job.open %}closed{% endunless %}" style="margin-bottom: 20px;">
+  <div class="fr-card__body">
+
+    <p class="fr-card__detail">Offre de {% if job.friend %}{{ job.friend | strip_html }}{% else %}{{ startup.title | default: "beta.gouv.fr" | strip_html}}{% endif %}</p>
+    
+    <h2 class="fr-card__title">
+      <a class="fr-card__link" href="{{ job.url }}">{{ job.roles | capitalize }}</a>
+    </h2>
+
+    <p class="fr-card__desc">{{ job.excerpt | strip_html | truncate: 260 }}</p>
+
+
+    {% if job.techno or job.junior or job.type == 'friend' %}
+    <ul class="fr-tags-group">
+      {% if job.type == 'friend' %}
+      <li>
+        <span class="fr-tag fr-tag--sm">Nos camarades recrutent</span>
+      </li>
+      {% endif %}
+
+      {% if job.junior %}
+      <li>
+        <span class="fr-tag fr-tag--sm">Bienvenue aux juniors</span>
+      </li>
+      {% endif %}
       {% if job.techno %}
         {% for techno in job.techno %}
-        <div class="label label--inactive">{{ techno }}</div>
+        <li>
+          <span class="fr-tag fr-tag--sm">{{ techno }}</span>
+        </li>
         {% endfor %}
       {% endif %}
-    </div>
-  {% endif %}
+    </ul>
+    {% endif %}
+  </div>
 </div>

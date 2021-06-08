@@ -1,12 +1,13 @@
 ---
 fullname: Hervé Cauwelier
 role: Développeur 
+domaine: Développement
 github: bors-ltd 
 avatar: 
 link:
 missions:
   - start: 2020-11-16
-    end: 2021-03-31
+    end: 2021-09-30
     status: independent
     employer: Codeurs en liberté
 startups:

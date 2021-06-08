@@ -1,6 +1,7 @@
 ---
 fullname: Marinette Bettiol
 role: Chargée de déploiement, responsable customer succes
+domaine: Déploiement
 missions:
   - start: 2020-06-08
     end: 2021-05-30

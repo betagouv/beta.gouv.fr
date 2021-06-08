@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@gouvfr/dsfr": "^1.0.0-rc1.0"
+  }
+}

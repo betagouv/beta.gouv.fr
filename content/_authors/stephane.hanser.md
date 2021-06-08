@@ -1,11 +1,12 @@
 ---
 fullname: Stéphane Hanser
 role: Développeur
+domaine: Développement
 link: https://captive.fr
 github: shanser
 missions:
   - start: 2019-02-25
-    end: 2021-05-31
+    end: 2021-10-31
     status: service
     employer: ut7
 startups:

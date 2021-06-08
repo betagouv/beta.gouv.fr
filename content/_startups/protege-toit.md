@@ -7,7 +7,7 @@ sponsors:
       acronym:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
-incubator: preincubation
+incubator: anct
 phases:
   - name: investigation
     start: 2019-12-01
@@ -27,22 +27,24 @@ contact: preincubation@beta.gouv.fr
 
 ## 🔎 Contexte de l’investigation
 
-Cette investigation fait partie du [programme investigation territoires](https://beta.gouv.fr/incubateurs/preincubation.html) beta.gouv.fr à destination des collectivités territoriales.
-Le partenaire de ce programme est **le département des Côtes d’Armor.**
-3 projets sont en investigation depuis le 13 janvier 2020 et jusqu’au ~~7 avril 2020~~ (date à redéfinir suite aux contraintes sanitaires) : [lien drive promotion](https://drive.google.com/drive/u/0/folders/1HHg8Cs1i2Ete6qfzQq15-0XSZhKKxLYs).
+Le problème de politique publique liée aux violences conjugales et à la réponse d’urgence donnée aux victimes a bénéficié de 2 périodes d’investigation (env 10 jours par agent pour chacun des 2 phases), la première ayant eu lieu dans le cadre du programme de pré-incubation avec le département des Côtes d’Armor début 2020, la deuxième ayant eu lieu entre septembre et décembre, totalement financée par la DINUM (30 jours de coaching, hors 10 jours par agent - au nb de 3; soit environ 15 000 euros HT). Les réflexions, constats et apprentissages de la première phase d’investigation sont disponibles sur la fiche produit publique sur le site beta.gouv.fr. Cette première phase a permis d’identifier l'hébergement d’urgence comme véritable obstacle à résoudre dans le parcours d’une personne victime de violences conjugales mais n’avait pas permis de cibler plus précisément des sous-problèmes suffisamment actionnables pour proposer une ou plusieurs hypothèses de solution pertinentes pour résoudre la thématique. Par ailleurs, 9 semaines (donc 9 jours agents concrètement) n'était pas suffisant pour pouvoir un aperçu global de l'écosystème, des solutions, outils et partenaires existants.
 
+Avec environ une quinzaine d’entretiens des différents parties prenantes lors de cette deuxième phase, combinéaux 80 de la précédente phase, des études documentaires couplées d’exploration terrain et 30 joursd’accompagnement beta.gouv.fr, l’investigation, bien que sur peu de semaines, a permis de confirmer très vite lesirritants communs des personnes victimes de violence. Le benchmark des outils et solutions existantes présente unbon niveau d’exhaustivité. Même si certains acteurs, associatifs, outils ne nous ont pas encore laisse découvrir leuropportunité et fonction. Ce sera d’ailleurs l’objet des premières semaines si passage en construction : coordonner les dispositifs et actrices existant sur le territoire, au niveau national; associatif, public et privés.
 
-## 👧 L'Équipe
-
-6 travailleuses sociales du département à la MDD de Dinan :
-- DECLERCQ Ingrid
-- MIZRAHI Martine
-- LE MEUR Marie-Andrée
-- HANON Marie-Brigitte
-- CLÉMENT Tiphaine
-- GOUAZE Pauline
 
 ## 🔭 Le problème investigué : une femme meurt tous les 2 jours en France, sous les coups de son conjoint
+
+9 semaines de seconde phase d’investigation nous ont donc permis d’approfondir les enquêtes et remontées terrain et d’identifier 2 irritants majeurs sur lesquels agir pour faire de l'hébergement d’urgence, une option viable et sécurisante pour les femmes victimes de violences :
+
+- le manque de places totales versus les demandes (238 demandes en 2019 versus 40aine de places effectives)
+
+- un besoin accru d’accompagnement de ses personnes victimes sur différents aspects, autant de situations et de personnalisation d’aides (simple écoute, conseils professionnels, aides administratives, juridiques aides matériels, prêts de mobilier, transport ponctuel ou réguliers...) Concernant la problématique générale des violences conjugales, nous pensons vraiment que c’est un défi majeur pour lequel il faut agir. La légitimité et l’ampleur du préjudice ne sont plus à démontrer. 
+
+Plus spécifiquement dans les Côtes d’Armor, en 2019, 1112 femmes ont été victimes de violences. De janvier à octobre 2020, selon la gendarmerie, le nombre de victimes costarmoricaines s’élève déjà à 1070, soit une hausse de 34,8 % comparativement à la même période en 2019. Le ministère de l’Intérieur a publié, ce lundi 16 novembre 2020, une étude sur les violences conjugales. Derrière le Doubs, les Côtes-d’Armor sont un des départements les plus touchés par ce fléau, avec la Côte-d’Or et la Seine-Saint-Denis. Cependant, le fait d’attaquer la problématique sur un territoire précis ne doit pas exclure la pertinence et la nécessité d’une action au niveau national. Charge au département, aux coachs et co-animateurs beta.gouv.fr de démontrer et convaincre un partenaire étatique de s’associer à la démarche. 
+
+**Le manque de places d’hébergement « reste toujours le point noir », dit Françoise Brié, porte-parole de Solidarité femmes (3919), membre du Haut conseil à l'égalité et de la MIPROF (Mission interministérielle pour la protection des femmes victimes de violences et la lutte contre la traite des êtres humains) et directrice de l'Escale, centre d'accueil et d'hébergement pour les femmes. Particulièrement celles spécifiquement dédiées à l’accueil des femmes victimes de violences. « Le gouvernement a annoncé la création, en 2021, de 1 000 places supplémentaires mais les financements ne sont pas là. Il manque près de 32 millions au budget 2021. » Le problème et notamment les 2 sous-problèmes évoqués plus haut est donc bien validé et partagé nationalement.**
+
+## ⌗ Des chiffres
 
 Chaque année en France, une femme sur dix entre 20 et 59 ans est victime de la violence de son partenaire, soit environ 220 000 femmes. **En 2018, 121 en sont mortes ; 149 en 2019.** En somme, En 2019 une femme meurt tous les 2 jours en France, sous les coups de son conjoint.
 
@@ -95,53 +97,52 @@ constats et apprentissages :
 3. 📱  Analyse avantages/inconvénients de mesures et structures déjà existantes : ADALEA (foyer hebergement), téléphone grand danger, application “App-Elles”, association OSYS à Bayeux, association nationale #nousToutes… qui nous ont permis de découvrir un écosystème actif et fourni dans lequel nous positionner en tant qu'équipe d’investigation dans le département 
 
 
-## 💡 Hypothèses de solutions : 3 volets envisagées 
+## 💡 Hypothèses de solutions : 2 volets envisagées 
 
-1 . sur la base de l’initiative OSYS, un  **“Oui systématique” aux demandes de places d'hébergement d’urgence** : carte interactive avec places dispos ou non pour tous les partenaires (accessible pour tous les acteurs : assos, 3919, 15, 17, foyers de femmes… / possibilité pour les foyers de proposer des places d'hébergements et alimenter)
+Pour rappel, les 2 irritants prioritaires identifiés à résoudre sont les suivants : le manque de places totales versus les demandes et un besoin accru d’accompagnement (simple écoute, conseils professionnels, aides administratives, juridiques aides matériels, prêts de mobilier, transport ponctuel ou réguliers...). A ces 2 irritants, ont été imaginées deux solutions :
 
-
-![Capture d’écran 2020-03-30 à 13 00 34](https://user-images.githubusercontent.com/36134318/78229027-bb70b700-74cf-11ea-8c32-b336ca9b2658.png)
-
-2. Accompagnement et suivi psychologique possible 24h/24 7j/7 des victimes via un réseau d’aidants et de bénévoles : un groupe de discussion anonymisé sur un outil tel que whatsapp/telegram (à déterminer) + un kit “que faire ?” des personnes hébergées (pas de supplétion à l’actuel 3919)
+1) Un démarchage de communes pour les accompagner à la rénovation et la gestion de leurs logements communaux qui seront dédiés aux victimes de violences conjugales afin d'accroître le parc de logements disponibles. Les aider et accompagner dans la rédaction de leurs appels à projets, leurs demandes de financement ? En effet, Les investigations ont mis en lumière la disponibilité d'un certain nombre d'aides disponibles aux communes souhaitant réhabiliter des logements communaux, aujourd'hui mal connues des collectivités territoriales. Un module ou filtre spécifique "rénovation logement pour personnes victimes de violences” pourrait être envisagé sur la plateforme développée par beta.gouv.fr : aides territoires. (effort en temps de développement inconnu mais possible de voir directement avec l'équipe de la startup d’Etat en question.
 
 
-![Capture d’écran 2020-03-30 à 13 00 40](https://user-images.githubusercontent.com/36134318/78229035-bdd31100-74cf-11ea-979a-0eb0fb109da4.png)
+Ces nouveaux logements communaux à disposition des personnes victimes de violences ne seraient pas dans un premier temps cartographiés dans le SI-SIAO géré par le 115 mais une cartographie pourrait être facilement développée (4-5 jours de développement maximum, 2500 euros HT environ).
 
-3. Sensibilisation de tous les acteurs prescripteurs et partenaires des démarches (médecins généralistes, gendarmes, pharmaciens…) : kit distribué aux partenaires et en ligne + cartes avec flashcode à distribuer si identification d’un cas
-
-![Capture d’écran 2020-03-30 à 13 00 49](https://user-images.githubusercontent.com/36134318/78229039-bf043e00-74cf-11ea-9ebc-6adae42afb34.png)
+![Capture d’écran 2021-01-27 à 10 00 24](https://user-images.githubusercontent.com/36134318/105968308-33275800-6087-11eb-96bd-592c838b0b61.png)
 
 
+Des premières communes de l'agglomération de DINAN se sont montrées très encourageantes et volontaires pour faire partie des premiers bêta-testeurs de cette solution “kit et accompagnement à la rénovation de logements”. Nous pensons qu'à l'aide de premières communes ambassadrices de la démarche, d’autres, voire les 64, suivront !
 
-## 📊 Propositions de mesures d'impact (en cours)
+2) **Un réseau de bénévoles, sur le modèle de la réserve civique.** Les professionnel.les, agent.es, gérant.es de foyers pourraient poster des missions, des demandes; des bénévoles motivés pourraient s’inscrire, être formés et prêter main forte à hauteur de leur envie et capacité.
 
-**OBJECTIF : mettre à l’abri un nombre croissant de victimes en urgence / au moins le temps de la longue procédure judiciaire.** 
-INDICATEUR : % demandes de logement versus demandes acceptées ?
 
-**OBJECTIF : accompagner les partenaires (3919, TS, assos, médecins,...), les outiller, les former afin 
-d'accélérer la prise en charge.**
-INDICATEUR : tps entre signalement victime / placement hébergement ?
+![Capture d’écran 2021-01-27 à 09 59 29](https://user-images.githubusercontent.com/36134318/105968344-433f3780-6087-11eb-8349-61ba1fa38f54.png)
 
-**OBJECTIF : proposer un accompagnement psychologique personnalisé en amont et en aval de l'hébergement.**
-INDICATEUR : nb d’appels et sollicitations sur le groupe privé whatsapp entre bénévoles et demandeuses ?
+L'hypothèse de solution n’est pas uniquement un outil numérique, mais relève davantage d’une vraie transformation de politique publique et de prospection terrain, d’accompagnement logistique. Les outils numériques évoqués (un module sur aides territoires, une cartographie des logements communaux, plateforme de bénévoles) sont pertinents et beta.gouv.fr peut mobiliser les compétences pour cela. Sur les autres aspects opérationnels et logistiques, les charges de déploiement, coach de beta.gouv.fr peuvent être d’un recours précieux pour accompagner l'équipe en construction; mais le niveau d’implication des acteurs/actrices au niveau du département et éventuellement des sponsors de haut-niveau devront être sans faille (autonomie complète des équipes, mise en relation, coordination des gouvernances...).
+
+## 📊 Les prochaines étapes
+
+Le niveau de sponsorship au niveau du département semble élevé, seulement certaines zones d’ombre méritent d'être éclaircies et discutées conjointement pour un partenariat pertinent et cohérent. C’est d’ailleurs l’un des principaux objectifs du comité de fin d’investigation. D’autre part, la thématique bénéficie d’un soutien et d’une visibilité assez colossale (au niveau de la présidence, des cabinets interministériels, des media...). Ce qui est à la fois une force et une menace pour la produit.
+
+Nous pensons que pour garantir et sécuriser un maximum l'équipe afin de construire une solution viable, utile et utilisée pour résoudre, non pas le défi immense des violences conjugales mais au moins la partie de l'hébergement, il serait pertinent d’inclure en sponsor une administration centrale en plus du portage départemental. Nous le savons, Etat et collectivités ont des compétences complémentaires qu’il serait plus judicieux de mettre à profit.
+**Le scénario pour pallier les sous-problèmes et garantir une pérennité et cohérence de la solution envisagée seraient d'associer un partenaire étatique, une institution qui aurait les ressources à la fois humaines et financières pour s’associer au département des Côtes d'Armor (par exemple, la Direction Générale de Cohésion Sociale, DIHAL, DGALN...).**
+
+Dans ce cas, cela impliquerait un partenariat multipartite et un début envisagé d’ici mars ou avril 2021. Beta.gouv.fr et la DINUM s’engagent à accompagner le département et l'équipe dans cette phase de prospection d’acteurs additionnels.
+
+
+## 👧 L'Équipe
+
+3 travailleuses sociales du département à la MDD de Dinan :
+- MIZRAHI Martine
+- HANON Marie-Brigitte
+- CLÉMENT Tiphaine
 
 
 ## 📑 Documents et ressources 
 
-- Internes équipe : [Synthèse finale (en cours)](https://docs.google.com/presentation/d/150HO0hcMEEndX5QQpFCMyZox-qnwlc3Q1CtOiulab38/edit#slide=id.g7115ed49e5_0_859)
+- Internes équipe : 
 
+> [Synthèse finale 2ème investigation 7/12/20](https://docs.google.com/presentation/d/1mFdgwzoWAGZ2FQtMKdqWqX-lqds9Rb2e6lDLrqkoutc/edit#slide=id.g53cae8ed9a_0_110)
 
-- revue de litterature et veille actualités, recherches sur le sujet 
-[doc infos](https://docs.google.com/document/d/1xlGQdnuEjIk-ubpr6Cy3ICBlTNpTJ2NFw5XUCu904CQ/edit)
-
-
-## 📅 Prochaines étapes
-
-- Chiffrage des scenari de solutions : [doc WIP](https://docs.google.com/document/d/1iPsVh_7FSzJcp42C6tBXvCAdTONFxIxR7_7fE-zQLHU/edit)
-- Consolidation des constats et apprentissages
-- Recherche partenariats, porteurs et porteuses projets, recherche de financement (conjoint Direction Interministérielle du numerique/Département/Administration centrale ? ) 
-- test des solution(s) au niveau du département sur une période de 6 mois : [MVP en cours](https://protege-toit-2.herokuapp.com/) et [repo github public](https://github.com/JenniferStephan/protege-toit-2)
-- si tests et impacts vérifiés, envisager un déploiement outil au niveau national ?
+> [Synthèse finale premiere investigation](https://docs.google.com/presentation/d/150HO0hcMEEndX5QQpFCMyZox-qnwlc3Q1CtOiulab38/edit#slide=id.g7115ed49e5_0_859)
 
 
 

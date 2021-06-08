@@ -1,6 +1,7 @@
 ---
 fullname: Antoine Desbordes
 role: Développeur
+domaine: Développement
 avatar: https://www.codeursenliberte.fr/bios/antoine.jpg
 github: antoine-de
 missions:
@@ -16,7 +17,7 @@ missions:
     end: 2021-05-31
     status: independent
     employer: Codeurs en Liberté
-startups:
+previously:
   - transport
 ---
 

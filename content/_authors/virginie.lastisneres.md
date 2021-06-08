@@ -1,6 +1,7 @@
 ---
 fullname: Virginie Lastisneres
 role: Cheffe de produit
+domaine: Produit
 github: virginielastisneres
 missions:
   - start: 2019-03-01

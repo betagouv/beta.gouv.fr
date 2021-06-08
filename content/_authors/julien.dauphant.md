@@ -12,13 +12,20 @@ missions:
     status: admin
     employer: dinum
 startups:
-  - plante-et-moi
   - aplus
-  - e-controle
 previously:
   - signalement
+  - plante-et-moi
+  - e-controle
 badges:
   - segur
+domaine: Animation
+competences:
+  - Coaching
+  - Gestion de Produit
+  - Administration Système
+  - Développement Frontend
+  - Développement Backend
 ---
 
 Chercheur de simplicité

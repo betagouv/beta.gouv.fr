@@ -1,6 +1,6 @@
 module Jekyll
   module CommunityFilter
-    def community(people, state)
+    def community(people, state, sort_by = 'oldest')
       now = Date.today
       current = []
       past = []
@@ -15,8 +15,23 @@ module Jekyll
         end
       end
 
-      result = if state == 'current' then current else past end
-      result.sort_by { |person| person.data['missions']&.map{ |e| e['start'] || Date.today }&.min || Date.today }.reverse
+      if state == 'past'
+        result = past
+      else
+        result = current
+      end
+
+      if sort_by != 'alpha' 
+        result = result.sort_by { |person| person.data['missions']&.map{ |e| e['start'] || Date.today }&.min || Date.today }.reverse
+      else
+        result = result.sort_by { |person| person.data['fullname'] }
+      end
+
+      if state == 'recent'
+        result[1..3]
+      else
+        result
+      end
     end
   end
 

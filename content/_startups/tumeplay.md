@@ -3,21 +3,22 @@ title: TuMePlay
 mission: Améliorer la prévention sexuelle pour les jeunes de moins de 25 ans
 owner: Ministère des Affaires sociales
 sponsors:
-    - name: Direction generale de la sante
-      acronym: DGS
-      domaine_ministeriel: affaires-sociales
-      type: administration-centrale
+  - name: Direction generale de la sante
+    acronym: DGS
+    domaine_ministeriel: affaires-sociales
+    type: administration-centrale
 incubator: sgmas
+link: https://tumeplay.fabrique.social.gouv.fr/
+repository: null
+contact: yowa.muzadi@fabrique.social.gouv.fr
+stats: true
 phases:
   - name: investigation
     start: 2019-07-01
   - name: construction
     start: 2019-09-01
   - name: acceleration
-link: 
-repository:
-stats: false
-contact: yowa.muzadi@fabrique.social.gouv.fr
+    start: 2021-01-01
 ---
 
 # Nos constats

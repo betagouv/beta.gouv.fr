@@ -1,6 +1,7 @@
 ---
 fullname: Gaël Demette
 role: Développeur
+domaine: Développement
 missions:
   - start: 2018-11-09
     end: 2020-12-31

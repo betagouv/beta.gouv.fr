@@ -3,133 +3,139 @@ layout: default
 ---
 
 {% assign lang = page.lang | default: site.lang | default: "fr" %}
-<div class="page article">
-  {% include hero-startup.html title=page.title mission=page.mission %}
+{% assign startup_id = page.id | remove: '/startups/' %}
 
-  {% comment %} Détection du status de la startup {% endcomment %}
-  {% capture phase_id %}/phases/{{ page.phases.last.name }}{% endcapture %}
-  {% assign phase = site.phases | where: "id", phase_id | first %}
-  {% if page.link %}
-    <div class="notification full-width">Le produit est <em>{{ phase.label | downcase | prepend: "en " }}</em>, il est disponible sur <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>.</div>
-  {% else %}
-    <div class="notification warning full-width">Le produit est <em>{{ phase.label | downcase | prepend: "en " }}</em>, il n'est pas actuellement accessible au public.</div>
+{% include hero-startup.html startup=page %}
+
+{% comment %} Détection du status de la startup {% endcomment %}
+{% capture phase_id %}/phases/{{ page.phases.last.name }}{% endcapture %}
+{% assign phase = site.phases | where: "id", phase_id | first %}
+
+{% comment %} Détection de l'incubateur {% endcomment %}
+{% capture incubator_id %}/incubators/{{ page.incubator }}{% endcapture %}
+{% assign incubator = site.incubators | where:'id', incubator_id | first %}
+
+{% capture phase_info %}
+Le produit est en <a href="{{ phase.documentation_url }}">{{ phase.label | downcase }}</a>
+{% endcapture %}
+
+{% capture incubator_info %}
+L'équipe est portée par {{ page.owner }} dans <a href="/startups/?incubateur={{ incubator_id | remove: '/incubators/' }}" title="{{ incubator.title }}">{{ incubator.title }}</a>
+{% endcapture %}
+
+{% capture contact_info %}
+{% if page.contact %}
+  <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
+{% else %}
+  <em><a href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
+{% endif %}
+{% endcapture %}
+
+{% capture statistiques_info %}
+Les statistiques d'usage
+{% if page.stats %}
+  <a href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">sont disponibles.</a>
+{% else %}
+  <em>ne sont pas encore disponibles.</em>
+{% endif %}
+{% endcapture %}
+
+{% capture source_info %}
+Le code source
+{% if page.repository %}
+  <a href="{{ page.repository }}">est libre.</a>
+{% else %}
+  <em>n'est pas encore ouvert.</em>
+{% endif %}
+{% endcapture %}
+
+{% capture techno_info %}
+Technologies utilisées : {{ page.techno | join: ", " }}
+{% endcapture %}
+
+<div class="notification full-width">
+  <div class="fr-container">
+    <ul>
+      <li>{{ phase_info }}</li>
+      <li>{{ incubator_info }}</li>
+      <li>{{ contact_info }}</li>
+    {% unless phase.status == 'investigation' %}
+      <li>{{ statistiques_info }}</li>
+      <li>{{ source_info }}</li>
+      {% if page.techno %}
+      <li>{{ techno_info }}</li>
+      {% endif %}
+    {% endunless %}
+    </ul>
+  </div>
+</div>
+
+<section class="fr-py-6w">
+  {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
+  {% if jobs[0] %}
+    <div class="fr-container fr-py-6w fr-px-2w">
+      <h3>Postes ouverts</h3>
+      <ul>
+        {% for job in jobs %}
+          <li><a href="{{ job.url }}">{{ page.title }} recrute {{ job.roles | downcase }}.</a></li>
+        {% endfor %}
+      </ul>
+    </div>
   {% endif %}
 
-  <section class="section section-white">
-    <div class="container">
-      {% include screenshot.html startup=page %}
+  <div class="fr-container fr-py-6w fr-px-2w">
+    {{ content }}
+  </div>
+</section>
 
-      <div class="text-quote">
+<section class="fr-py-6w section-grey">
+  {% include grid-authors.html startup=page %}
+</section>
+
+{% if page.rgpd %}
+<section class="fr-py-6w section-white">
+  <div class="fr-container fr-py-6w fr-px-2w">
+    <h2>Protection des données personnelles</h2>
+    <div class="fr-callout">
         <ul>
-          <li>
-            Les statistiques d'usage
-            {% if page.stats %}
-              <a href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">sont disponibles.</a>
-            {% else %}
-              <em>ne sont pas encore disponibles.</em>
-            {% endif %}
-          </li>
-          <li>
-            Le code source
-            {% if page.repository %}
-              <a href="{{ page.repository }}">est libre.</a>
-            {% else %}
-              <em>n'est pas encore ouvert.</em>
-            {% endif %}
-          </li>
-          {% if page.techno %}
-          <li>
-             Technologies utilisées : {{ page.techno | join: ", " }}
-          </li>
-          {% endif %}
-          <li>
-            Le porteur administratif est {{ page.owner }}.
-          </li>
-          {% comment %} Détection de l'incubateur {% endcomment %}
-          {% capture incubator_id %}/approche/incubateurs/{{ page.incubator }}{% endcapture %}
-          {% assign incubator = site.incubators | where:'id', incubator_id | first %}
-          <li>L'incubateur est <a href="{{ incubator.url }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.</li>
-          <li>
-            {% if page.contact %}
-              <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
-            {% else %}
-              <em><a href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
-            {% endif %}
-          </li>
-        </ul>
-      </div>
-    </div>
-
-    {% assign startup_id = page.id | remove: '/startups/' %}
-    {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
-    {% if jobs[0] %}
-      <div class="container">
-        <div class ="richtext">
-          <h3>Postes ouverts</h3>
-          <ul>
-            {% for job in jobs %}
-              <li><a href="{{ job.url }}">{{ page.title }} recrute {{ job.roles | downcase }}.</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-    {% endif %}
-
-    <div class="container">
-      <div class="richtext">
-        {{ content }}
-      </div>
-    </div>
-  </section>
-
-  <section class="section section-grey">
-    <div class="container">
-      {% include grid-authors.html startup=page %}
-    </div>
-  </section>
-
-  {% if page.rgpd %}
-  <section class="section section-white">
-    <div class="container">
-      <h2>Protection des données personnelles</h2>
-      <div class="text-quote">
-          <ul>
-            <li>Le responsable du traitement est : <b>{{ page.rgpd.responsable }}</b></li>
-            {% if page.rgpd.finalites %}
-            <li>Le traitement a pour finalité(s) :</li>
+          <li>Le responsable du traitement est : <b>{{ page.rgpd.responsable }}</b></li>
+          {% if page.rgpd.finalites %}
+          <li>Le traitement a pour finalité(s) :
             <ul>
               {% for finalite in page.rgpd.finalites %}
               <li>{{ finalite }}</li>
               {% endfor %}
             </ul>
-            {% else %}
-            <li>La finalité du traitement est : {{ page.mission }}</li>
-            {% endif %}
-            <li>Les données personnelles suivantes sont collectées :</li>
+          </li>
+          {% else %}
+          <li>La finalité du traitement est : {{ page.mission }}</li>
+          {% endif %}
+          <li>Les données personnelles suivantes sont collectées :
             <ul>
               {% for donnee in page.rgpd.donnees %}
               <li>{{ donnee }}</li>
               {% endfor %}
             </ul>
-            <li>Les mesures suivantes ont été mises en place en vue d'assurer la sécurité :</li>
+          </li>
+          <li>Les mesures suivantes ont été mises en place en vue d'assurer la sécurité :
             <ul>
               {% for controle in page.rgpd.controles %}
               <li>{{ controle.type }} par {{ controle.intervenant }} le {{ controle.date }}</li>
               {% endfor %}
             </ul>
-            {% if page.rgpd.mesures_securite %}
-            <li>{{ page.rgpd.mesures_securite }}</li>
-            {% endif %}
-            {% if page.rgpd.validite_homologation %}
-            <li>Ce produit a fait l'objet d'une homologation de sécurité valable jusqu'au {{ page.rgpd.validite_homologation }}</li>
-            {% else %}
-            <li>Ce produit est encore en cours d'obtention de l'homologation de sécurité</li>
-            {% endif %}
-          </ul>
-        </div>
-        Pour exercer vos <a href="https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles">droits</a> : <a href="{{ page.rgpd.exercer_vos_droits }}">{{ page.rgpd.exercer_vos_droits }}</a>
-    </div>    
-  </section>
-  {% endif %}
+          </li>
+          {% if page.rgpd.mesures_securite %}
+          <li>{{ page.rgpd.mesures_securite }}</li>
+          {% endif %}
+          {% if page.rgpd.validite_homologation %}
+          <li>Ce produit a fait l'objet d'une homologation de sécurité valable jusqu'au {{ page.rgpd.validite_homologation }}</li>
+          {% else %}
+          <li>Ce produit est encore en cours d'obtention de l'homologation de sécurité</li>
+          {% endif %}
+        </ul>
 
-</div>
+        <p>Pour exercer vos <a href="https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles">droits</a> : <a href="{{ page.rgpd.exercer_vos_droits }}">{{ page.rgpd.exercer_vos_droits }}</a></p>
+      </div>
+  </div>    
+</section>
+{% endif %}

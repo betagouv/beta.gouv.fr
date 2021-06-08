@@ -5,7 +5,7 @@ friend: l'Incubateur des Territoires
 type: 'friend'
 externalURL: https://incubateur.anct.gouv.fr/recrutements/chef-fe-de-projets-communs-numeriques-et-gouvernance/
 post_ouvert: 2020-07-21
-contact: incubateur@anct.gouv.fr
+contact: contactincubateur@anct.gouv.fr
 open: false
 title: "L'Incubateur des Territoires recrute : un.e chef.fe de projets communs numériques et gouvernance"
 ---

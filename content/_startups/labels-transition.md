@@ -1,13 +1,12 @@
 ---
-title: Labels de Transition Ecologique
-mission: "Faciliter et accélerer la transition écologique des collectivités
-  territoriales "
+title: Territoires en Transitions
+mission: "Aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique"
 owner: ADEME - Agence de la transition écologique
 sponsors: []
 incubator: dinum
-link: ""
-repository: https://github.com/labels-transition/produit
-contact: nicolas.vallee@ademe.fr
+link:
+repository: https://github.com/betagouv/territoires-en-transitions
+contact: contact@territoiresentransitions.fr
 stats: false
 phases:
   - name: investigation
@@ -15,14 +14,11 @@ phases:
     end: 2020-11-03
   - name: construction
     start: 2020-11-03
-    end: ""
 ---
 
 ## Contexte
 
-Dans le cadre des programmes d'accompagnement des collectivités dans leurs démarches de transition écologique, l'ADEME (l'Agence la transition écologique) s'est associée à beta.gouv.fr pour mener une investigation. 
-
-L'objectif : valider le besoin de développer une interface numérique pour faciliter et accélérer la transition écologique des collectivités. 
+Dans le cadre des programmes d'accompagnement des collectivités dans leurs démarches de transition écologique, l'ADEME (l'Agence la transition écologique) s'est associée à beta.gouv.fr. L'objectif : Aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique. 
 
 ## Une transition écologique lente et complexe
 
@@ -34,9 +30,9 @@ Au-delà des différents blocages politiques, organisationnels et financiers, ce
 
 ## Faciliter et accélérer la mise en oeuvre des actions de transition écologique
 
-La plateforme numérique a pour objectifs de faciliter et d'accélérer la mise en oeuvre des actions de transition écologique aux collectivités au sein d'une interface permettant  : 
+La plateforme numérique a pour objectifs de faciliter et d'accélérer la mise en oeuvre des actions ayant le plus d'impact pour la réussite de la transition écologique au sein d'une interface permettant  : 
 
-* D'accéder aux référentiels d'actions de transition écologique (Climat-Air-Énergie et Économie Circulaire)et de personnaliser leur utilisation 
+* D'accéder aux référentiels d'actions de transition écologique (Climat-Air-Énergie (aussi connu comme la labellisation Cit'ergie) et Économie Circulaire) et de personnaliser leur utilisation 
 * De gérer et suivre ses actions et indicateurs de transition écologique
 * De prioriser les actions ayant le plus d'impact
 * De partager la progression des réalisations et des retours d'expériences entre collectivités

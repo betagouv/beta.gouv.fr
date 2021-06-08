@@ -1,7 +1,7 @@
 ---
 roles: Chargé(e) de communication
 startup: itou
-open: true
+open: false
 title: Chargé(e) de communication auprès des acteurs de l'insertion 
 ---
 

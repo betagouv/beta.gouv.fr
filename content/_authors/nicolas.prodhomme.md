@@ -1,6 +1,7 @@
 ---
 fullname: Nicolas Prod'homme
 role: Stagiaire
+domaine: Autre
 avatar:
 missions:
   - start: 2019-01-24

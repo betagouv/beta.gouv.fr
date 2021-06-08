@@ -1,6 +1,7 @@
 ---
 fullname: Lucien Pereira
 role: Développeur
+domaine: Développement
 github: lpereir4
 missions: 
   - start: 2019-10-23

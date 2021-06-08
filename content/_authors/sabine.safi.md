@@ -1,19 +1,23 @@
 ---
 fullname: Sabine Safi
 role: Coach / PO
+domaine: Coaching
 github: sabinesafi
 missions:
   - start: 2019-02-04
-    end: 2020-12-21
+    end: 2021-12-31
     status: independent
 startups:
-    - friches
+    - urbanvitaliz
     - comobi
-    - Tout est permis
+    - eva
 previously:
     - transport
     - cartobio
-    - 
+    - participation-citoyenne
+    - auto-partage
+    - tout-est-permis
+    - innovation-urbaine
 badges:
     - segur
 ---

@@ -1,6 +1,7 @@
 ---
 fullname: Céline Martinet Sanchez
 role: Développeuse
+domaine: Développement
 github: celine-m-s
 link: https://www.hello-birds.com
 missions:
@@ -9,13 +10,14 @@ missions:
     status: independent
     employer: ey
   - start: 2020-02-03
-    end:
+    end: 2021-11-11
     status: independent
     employer: octo
 startups:
-    - itou
+  - itou
+  - le.forum.de.linclusion
 previously:
-    - la-bonne-boite
+  - la-bonne-boite
 ---
 
 Développeuse curieuse. Amatrice de blagues pas drôles, de gens trop enthousiastes et d'idées folles.

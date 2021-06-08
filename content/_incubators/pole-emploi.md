@@ -1,7 +1,8 @@
 ---
 title: La Fabrique Pôle emploi
 owner: Pôle emploi
-website: https://startups-etat.beta.pole-emploi.fr/
+logo: logo_fab_pole_emploi.png
+website: https://www.pole-emploi.io/accompagner-startup
 github: https://github.com/StartupsPoleEmploi/
 contact: mailto:lafabrique@pole-emploi.fr?subject=Incubateur
 address: 22 Allée Darius Milhaud, Paris 19e

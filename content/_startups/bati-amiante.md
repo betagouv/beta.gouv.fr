@@ -6,7 +6,8 @@ incubator: mtes
 phases:
   - name: investigation
     start: 2020-03-01
-  - name: investigation
+  - name: alumni
+    start: 2020-07-01
 repository:
 stats: false
 contact: emeric.vercoutre@developpement-durable.gouv.fr
@@ -34,7 +35,6 @@ Les gestionnaires de **petits parcs n’utilisent souvent que des fichiers et de
 
 ## Bâti-Amiante : l’outil simple pour centraliser et partager les diagnostics
 
-
 Bati-Amiante permet aux **gestionnaires de bâtiment non outillés** de respecter la législation amiante avec un outil simple :
 1. **centralisation** des DTA 
 2. **alerte** sur l’expiration de DTA à mettre à jour
@@ -49,3 +49,6 @@ Après preuve du concept par le prototype, nous comptons lancer une solution pé
 
 L’enjeu à long terme est de **réduire le nombre de victimes** de cancers liés à l'exposition à l'amiante. A court terme, l’indicateur d’impact sera le **nombre diagnostics mis à jour** et consultés par des usagers.
 
+## Interruption des travaux après la phase d'investigation
+
+La phase d'investigation n'a pas abouti au lancement de la Startup d'Etat. Une réflexion doit être menée à ce sujet pour un éventuel lancement en 2021.

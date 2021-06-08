@@ -1,10 +1,10 @@
 ---
 title: Histologe
-mission: Le Contrôle Technique Gratuit du Logement 
+mission: Faciliter le signalement et accélérer la prise en charge du « mal logement »
 owner: Agglomération de Pau Béarn Pyrénées
 incubator: anct
 sponsors: 
-    - name: Agglomération de Pau Béarn Pyrénées
+    - name: ANCT / DHUP
       acronym:
       domaine_ministeriel: territoires
       type: collectivite-territoriale
@@ -13,10 +13,10 @@ phases:
     start: 2019-09-01
   - name: construction
     start: 2020-02-01
-link:
-repository: 
-stats: false 
-stats_url: 
+link: https://histologe.beta.gouv.fr
+repository: https://github.com/betagouv/histologe
+stats: true 
+stats_url: https://histologe.beta.gouv.fr/Chiffres
 contact: alban.sestiaa@beta.gouv.fr
 ---
 

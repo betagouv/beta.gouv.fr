@@ -1,6 +1,7 @@
 ---
 fullname: Nicolas Boulio
 role: Coach
+domaine: Coaching
 missions:
   - start: 2019-09-01
     end: 2020-07-10

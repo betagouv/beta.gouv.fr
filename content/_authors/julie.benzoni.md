@@ -1,6 +1,7 @@
 ---
 fullname: Julie Benzoni
 role: Coach Produit
+domaine: Produit
 github: jbnzo
 link: https://www.linkedin.com/in/julie-benzoni-81767592/
 missions:
@@ -8,7 +9,7 @@ missions:
     end: 2021-12-31
     status: independent
 startups:
-  - potenciel
+  - potentiel
   - carbure
 ---
 

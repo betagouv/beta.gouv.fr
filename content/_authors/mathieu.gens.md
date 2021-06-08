@@ -1,6 +1,7 @@
 ---
 fullname: Mathieu Gens
 role: Directeur opérationnel
+domaine: Intraprenariat
 missions:
   - start: 2017-10-16
     end: 2022-08-31
