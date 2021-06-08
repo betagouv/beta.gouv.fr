@@ -85,6 +85,8 @@ mapping:
     type:      bool
   "stats_url":
     type:      str
+  "budget_url":
+    type:      str
   "contact":
     type:      str
     pattern:   /@/

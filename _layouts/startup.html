@@ -34,7 +34,7 @@ L'équipe est portée par {{ page.owner }} dans <a href="/startups/?incubateur={
 {% capture statistiques_info %}
 Les statistiques d'usage
 {% if page.stats %}
-  <a href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">sont disponibles.</a>
+  <a href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">sont disponibles</a>.
 {% else %}
   <em>ne sont pas encore disponibles.</em>
 {% endif %}
@@ -43,9 +43,17 @@ Les statistiques d'usage
 {% capture source_info %}
 Le code source
 {% if page.repository %}
-  <a href="{{ page.repository }}">est libre.</a>
+  <a href="{{ page.repository }}">est libre</a>.
 {% else %}
   <em>n'est pas encore ouvert.</em>
+{% endif %}
+{% endcapture %}
+
+{% capture budget_info %}
+{% if page.budget_url %}
+Le budget <a href="{{ page.budget_url }}">est ouvert</a>.
+{% else %}
+L’équipe ne communique pas encore sur son budget.
 {% endif %}
 {% endcapture %}
 
@@ -62,6 +70,7 @@ Technologies utilisées : {{ page.techno | join: ", " }}
     {% unless phase.status == 'investigation' %}
       <li>{{ statistiques_info }}</li>
       <li>{{ source_info }}</li>
+      <li>{{ budget_info }}</li>
       {% if page.techno %}
       <li>{{ techno_info }}</li>
       {% endif %}
