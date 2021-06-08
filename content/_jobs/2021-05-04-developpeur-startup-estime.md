@@ -9,7 +9,7 @@ techno:
  - git
  - GitLab CI
 junior: true
-open: true 
+open: false 
 ---
 
 # Qui sommes-nous ?
