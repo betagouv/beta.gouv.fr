@@ -5,6 +5,8 @@ open: true
 title: Recherche d'une personne chargée de déploiement pour Territoires en Transitions
 ---
     
+## Mission
+
 L'équipe Territoires en Transitions cherche une personne chargée du déploiement du produit "Territoires en Transitions" pour accompagner les collectivités dans leur transition écologique.
 
 ## À propos de nous
