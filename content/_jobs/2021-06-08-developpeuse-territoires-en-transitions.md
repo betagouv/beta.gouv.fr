@@ -1,17 +1,17 @@
 ---
-roles: une personne développeuse
+roles: Une personne développeuse
 startup: Territoires en Transitions
 open: true
 title: Recherche d'une personne développeuse pour Territoires en Transitions
 ---
-    
+
 L'équipe Territoires en Transitions cherche une à deux personnes développeuses/intégratrices pour poursuivre le développement de son produit pour accompagner les collectivités dans leur transition écologique.
 
 ## À propos de nous
 
 L’équipe est actuellement composée de 6 personnes :
 
-- Intrapreneurs: Martin RUAU et Nicolas VALLÉE 
+* Intrapreneurs: Martin RUAU et Nicolas VALLÉE 
 - Coach: Pénélope LIOT
 - Designeuse: Maïtané LENOIR
 - Développeuse: Fanny CHEUNG 
