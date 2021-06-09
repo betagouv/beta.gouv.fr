@@ -1,7 +1,7 @@
 ---
 roles: Responsable de produit 
 startup : 
-open: true
+open: false
 title: Responsable du produit (Product Manager) 'Service numérique mobile d'accompagnement des jeunes vers l'emploi' 
 ---
 
