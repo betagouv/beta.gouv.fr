@@ -1,13 +1,15 @@
 ---
 fullname: Alexia Gazel
-role: Business developer
 domaine: Déploiement
+role: Business developer
 github: AlexiaGazel
 missions:
   - start: 2019-09-05
-    end: 2021-06-30
+    end: 2021-11-05
     status: independent
     employer: octo
 startups:
   - aides-territoires
+competences:
+  - Communication
 ---
