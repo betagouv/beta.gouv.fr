@@ -6,7 +6,7 @@ github: mbenadda
 link: https://twitter.com/mbenadda
 missions:
   - start: 2020-01-27
-    end: 2021-06-30
+    end: 2021-09-30
     status: independent
     employer: Octo
 startups:
