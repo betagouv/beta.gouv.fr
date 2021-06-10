@@ -1,5 +1,5 @@
 ---
-fullname: André Gauthier
+fullname: Andre Gauthier
 role: Chargé de déploiement
 domaine: Déploiement
 missions:
