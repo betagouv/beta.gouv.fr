@@ -2,7 +2,6 @@
   S'appelle avec une startup. On peut spécifier force=true pour forcer une image.
   Ex : {% include screenshot.html startup=startup %}
 {% endcomment %}
-
 {% assign startup_id = include.startup.id | remove: '/startups/' %}
 {% assign screenshot_files = site.static_files | where: "startups_img", true %}
 {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}

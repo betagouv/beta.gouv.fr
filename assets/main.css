@@ -185,13 +185,18 @@
 }
 
 /* Surcharger la classe reverse qui est mise par défaut sur les cartes */
-.fr-card {
+/* .fr-card {
   flex-direction: column !important;
-}
+} */
 
 /* Ajouter un nouveau style rond sur les cartes */
 .fr-card.fr-card__img__rounded {
   background: linear-gradient(180deg, #ffffff00 20%, #f9f8f6 20%)
+}
+
+.fr-card__img.hiring img {
+  padding: 2em;
+  max-height: 300px;
 }
 
 .fr-card.fr-card__img__rounded:not([disabled]):hover {
@@ -424,4 +429,37 @@ h2.phase-title em {
 
 .h1-card__title-subtitle {
   margin-top: -0.5rem;
+}
+
+.job-team-animation-container {
+  width: 100%;
+  position: relative;
+}
+
+.job-team-animation-background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transition: all 0.5s ease-out ;
+  max-height: 200px;
+}
+
+.job-team-animation-foreground {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  max-height: 200px;
+}
+
+.job-section-blue {
+  background: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%),
+  linear-gradient(0deg, #00006D, #00006D);
+}
+
+.job-section-blue h3, .job-section-blue .fr-btn--secondary {  
+  color: white;
+}
+.job-section-blue .fr-btn--secondary {
+  box-shadow: inset 0 0 0 1px white;
+  justify-content: center;
 }
