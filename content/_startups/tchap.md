@@ -1,12 +1,15 @@
 ---
 title: Tchap
-mission: Tchap, la messagerie instantanée, sécurisée et souveraine des agents publics
+mission: Tchap, la messagerie instantanée, sécurisée et souveraine des agents publics.
 owner: DINUM
 incubator: dinum
-link: https://www.tchap.gouv.fr/faq
-repository: https://github.com/dinsic-pim
 contact: tchap@beta.gouv.fr
+events: []
+phases:
+  - name: acceleration
+    start: 2021-03-05
 ---
+
 Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
 Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
