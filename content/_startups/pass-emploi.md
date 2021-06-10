@@ -25,7 +25,7 @@ phases:
 
 ## Approche 
 - Prioriser les "irritants" de parcours en rencontrant rapidement un maximum de jeunes et d'accompagnateurs en mission locales ou chez Pöle emploi ; 
-- Prototyper avec eux une ou plusieurs solutions numériques qui pourraient résoudre ces irritants ; 
+- Prototyper l'application socle pour héberger les solutions numériques, en s'assurant qu'elle réponde aux usages (ex. mode de login, fonctionnalités de base) ; 
 - Exploiter au maximum les briques et services existants qui ont déjà montré de l'impact : Diagoeriente, Boussole des jeunes, etc.
 
 
@@ -34,10 +34,11 @@ Pour piloter le développement du produit, nous proposons de retenir des objecti
 
 - Je suis effectivement accompagné dans ma recherche d’emploi 
   - % des jeunes qui ont au moins x échanges par semaine ou mois avec leur conseiller
-  - Taux de satisfaction des jeunes
+  - Taux "d'abandon" à l'issue du premier rendez-vous
 - Je dispose de moyens suffisants pour vivre et rechercher un emploi 
   - % des jeunes qui bénéficient effectivement des aides auxquelles ils peuvent prétendre (en commençant par les aides les plus critiques) 
   - % de jeunes utilisant l’équivalent de la carte étudiant et montants dépensés
 - J’ai un projet professionnel 
   - % de jeunes avec une carte de compétences type Diagoriente ou un équivalent 
   - % des jeunes engagés dans un projet d'immersion professionnelle, alternance, formation ou autre
+  - Taux de sortie positive (emploi stable)
