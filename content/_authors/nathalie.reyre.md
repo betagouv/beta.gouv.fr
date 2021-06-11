@@ -19,6 +19,7 @@ missions:
     employer: Octo
 startups:
   - diagoriente
+  -   - pass-emploi
 previously:
   - la-bonne-formation
   - andi
