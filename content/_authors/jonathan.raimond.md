@@ -8,6 +8,8 @@ missions:
     end: 2021-12-14
     status: independent
     employer: Octo
+startups:
+  - carnet.de.bord
 badges:
   - segur
 ---
