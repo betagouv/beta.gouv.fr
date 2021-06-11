@@ -2,7 +2,7 @@
 fullname: Nathalie SCOTT
 role: UX Designer
 domaine: Design
-link: http:// www.nathaliescottux.com
+link: https://www.nathalie-scott-ux.com/
 missions:
   - start: 2021-06-07
     end: 2021-09-07
