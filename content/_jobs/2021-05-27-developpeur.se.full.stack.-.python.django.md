@@ -1,6 +1,6 @@
 ---
 roles: Développeur·se  Full Stack - Python Django
-open: true
+open: false
 date: 2021-05-27T13:38:53.782Z
 startup: dora
 ---
