@@ -10,12 +10,11 @@ phases:
     start: 2021-03-05
 ---
 
-Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
-
 ## Contexte
 
 Tchap s'est lancé en avril 2018 et compte aujourd'hui 235 000 utilisateurs. L'application est disponible sur Android, iOS et le web. Tchap est à destination de l'ensemble des agents des trois fonctions publiques (territoriale, hospitalière et centrale). 
+
+En mai 2021, BetaGouv reprend Tchap pour accompagner l'équipe dans son acceleration.
 
 ## Problèmes
 
@@ -31,14 +30,15 @@ Logiciel de messagerie sécurisé qui met en relation les agents publics entre e
 
 ## Stratégie
 
-Faciliter la maintenance de l'application en automatisant au maximum les procédures. 
+* Faciliter la maintenance de l'application en automatisant au maximum les procédures. 
+* Industrialiser la demande d'ajout de domaines autorisés. 
+* Concevoir une stratégie de déploiement envers les administrations non présentes sur Tchap. 
+* Proposer un set d'API pour l'interopérabilité de Tchap avec des services externes. 
 
-Industrialiser la demande d'ajout de domaines autorisés. 
 
-Concevoir une stratégie de déploiement envers les administrations non présentes sur Tchap. 
+## Indicateurs d'impact
+Les indicateurs d'impact pour tchap sont les utilisateurs actifs (une connexion au service/semaine) et les messages envoyés.
+Le proxy actuel pour les utilisateurs actifs sont les inscriptions.
 
-Proposer un set d'API pour l'interopérabilité de Tchap avec des services externes. 
-
-Objectif : 5,5 millions d'utilisateurs. 
-
-Cible > décembre 2021 : 500 000 utilisateurs et 6 millions de messages par mois.
+Objectif décembre 2021 : 500 000 inscriptions et 6 millions de messages par mois.
+Objectif du produit : 5,5 millions d'utilisateurs actifs. 
