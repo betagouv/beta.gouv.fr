@@ -17,7 +17,7 @@ phases:
   - name: construction
     start: 2021-05-07
 ---
-## En cours d'investigation
+## En cours de construction
 
 **Vous êtes intéressé(e) par notre projet et souhaitez tester le service ? N’hésitez pas à nous contacter ici ou à visiter notre site !**
 
