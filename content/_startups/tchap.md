@@ -18,11 +18,7 @@ En mai 2021, BetaGouv reprend Tchap pour accompagner l'équipe dans son accelera
 
 ## Problèmes
 
-Le besoin de messagerie instantanée entre agents publics se développe. Mais les agents publics n'ont pas accès à une solution métier et utilisent des solutions du marché grand public où la sécurité et le stockage des données n'est pas maîtrisés ce qui peut donner lieu à des fuites d'information.
-
-Les agents publics ont besoin de collaborer et partager autour d'intérêts communs inter-administrations de façon directe et informelle. 
-
-La multiplication des interfaces et des identifiants de connexion pour les différents outils administratifs des agents. 
+Le besoin de messagerie instantanée entre agents publics se développe. ils ont besoin de collaborer et de partager autour d'intérêts communs inter-administrations de façon directe et informelle. Mais les agents publics n'ont pas accès à une solution métier et utilisent des solutions du marché grand public où ni la sécurité, ni le stockage des données ne sont maîtrisés ce qui peut donner lieu à des fuites d'information.
 
 ## Solution
 
