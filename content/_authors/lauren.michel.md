@@ -1,7 +1,7 @@
 ---
 fullname: Lauren Michel
-role: Cheffe de produit
 domaine: Produit
+role: Cheffe de produit
 github: Laurenmichel21
 missions:
   - start: 2016-04-01
@@ -13,7 +13,7 @@ missions:
     status: independent
     employer: UT7
   - start: 2020-10-13
-    end: 2021-06-30
+    end: 2021-10-31
     status: independent
     employer: Octo
 startups:
@@ -22,6 +22,11 @@ previously:
   - maintenant
   - place-de-marche-inclusion
   - eva
+competences:
+  - Gestion de Produit
+  - Coaching
+  - Croissance
+  - Administration Publique
+  - Communication
 ---
-
 Startupeuse curieuse et persévérante !
