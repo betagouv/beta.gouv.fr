@@ -31,7 +31,7 @@ La sécurité de ces services est importante pour le fonctionnement des administ
 
 L’homologation de sécurité, obligatoire pour toutes les entités publiques au titre du Référentiel Général de Sécurité (RGS), est une démarche qui permet d’identifier les risques de sécurité associés à un service numérique et des mesures de sécurité à mettre en œuvre pour le protéger. La décision d’homologation de sécurité (document signé par une autorité) formalise des engagements en la matière.
 
-## PROBLÈME PERÇU À INVESTIGUER
+## PROBLÈME 
 
 La méthode d’homologation promue par l’ANSSI dans son guide en 9 étapes a fait ses preuves pour les projets numériques d’envergure. Celle-ci peut en revanche être complexe et trop exigeante en termes de temps et de ressources pour les projets de services numériques les plus simples. La méthode est perçue comme difficile d’accès pour les porteurs de projets et RSSI n’ayant jamais réalisé d’homologations, et qui peu de temps à consacrer à ces projets simples.
 
@@ -39,16 +39,17 @@ Conséquence : le nombre de services publics actuellement homologués est en-des
 
 Notre défi : comment améliorer durablement la sécurité de la masse des services publics numériques les plus courants ?
 
-## INTUITION DE SOLUTION
+## SOLUTION
 
 Mon Service Sécurisé, est un service numérique pour aider, pas à pas, les entités publiques à sécuriser leurs services numériques et à les faire homologuer selon une approche adaptée aux services les plus courants.
 Cette approche est guidée par plusieurs principes :
-- Rendre la démarche d’homologation accessible aux non experts ;
-- Permettre de lancer une démarche d’homologation sans délai et de manière collaborative ;
-- Simplifier et accélérer la démarche d’homologation pour la masse des services numériques les plus simples ;
-- Accompagner les porteurs de projets et RSSI avec une méthode standardisée et outillée pour les projets les plus courants ;
-- Eclairer sur les risques les plus fréquents rencontrés par un service numérique ;
-- Focaliser sur les recommandations essentielles de l’ANSSI adaptée au service afin d’en augmenter le niveau de sécurité ;
-- Faciliter la prise de décision des autorités d’homologation grâce à des explications pédagogiques et aux recommandations de l’ANSSI ;
-- Valoriser les homologations réalisées ;
-- Suivre la sécurité des services numériques homologués dans la durée.
+
+* Rendre la démarche d’homologation accessible aux non experts ;
+* Permettre de lancer une démarche d’homologation sans délai et de manière collaborative ;
+* Simplifier et accélérer la démarche d’homologation pour la masse des services numériques les plus simples ;
+* Accompagner les porteurs de projets et RSSI avec une méthode standardisée et outillée pour les projets les plus courants ;
+* Eclairer sur les risques les plus fréquents rencontrés par un service numérique ;
+* Focaliser sur les recommandations essentielles de l’ANSSI adaptée au service afin d’en augmenter le niveau de sécurité ;
+* Faciliter la prise de décision des autorités d’homologation grâce à des explications pédagogiques et aux recommandations de l’ANSSI ;
+* Valoriser les homologations réalisées ;
+* Suivre la sécurité des services numériques homologués dans la durée.
