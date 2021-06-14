@@ -1,6 +1,7 @@
 ---
 fullname: Andre  Gauthier
 role: Chargé de déploiement
+avatar: https://avatars.githubusercontent.com/u/85872944?v=4
 domaine: Déploiement
 missions:
   - start: 2021-06-10
