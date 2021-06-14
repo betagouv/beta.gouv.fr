@@ -1,6 +1,6 @@
 ---
 fullname: Said Sedoud
-role: full scack dev
+role: full stack dev
 domaine: Développement
 github: ssedoudbgouv
 missions:
