@@ -53,7 +53,7 @@ ses preuves pour les projets numériques d’envergure. Celle-ci peut en revanch
 être complexe et trop exigeante en termes de temps et de ressources pour les
 projets de services numériques les plus simples. La méthode est perçue comme
 difficile d’accès pour les porteurs de projets et RSSI n’ayant jamais réalisé
-d’homologations, et qui peu de temps à consacrer à ces projets simples.
+d’homologations, et qui ont peu de temps à consacrer à ces projets simples.
 
 Conséquence : le nombre de services publics actuellement homologués est
 en-dessous du seuil permettant d’instaurer la confiance des citoyens dans la
@@ -77,7 +77,7 @@ Cette approche est guidée par plusieurs principes :
   numériques les plus simples ;
 - Accompagner les porteurs de projets et RSSI avec une méthode standardisée et
   outillée pour les projets les plus courants ;
-- Eclairer sur les risques les plus fréquents rencontrés par un service
+- Éclairer sur les risques les plus fréquents rencontrés par un service
   numérique ;
 - Focaliser sur les recommandations essentielles de l’ANSSI adaptée au service
   afin d’en augmenter le niveau de sécurité ;
