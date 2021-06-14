@@ -1,5 +1,5 @@
 ---
-title: Incubateur du laboratoire d'innovation de l'ANSSI
+title: Le laboratoire d'innovation de l'ANSSI
 owner: Jean-Baptiste Demaison
 website: https://ssi.gouv.fr
 github: https://beta.gouv.fr/startups/homologation.html
