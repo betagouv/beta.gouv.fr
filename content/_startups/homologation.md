@@ -47,5 +47,3 @@ Cette approche est guidée par plusieurs principes :
 •	Faciliter la prise de décision des autorités d’homologation grâce à des explications pédagogiques et aux recommandations de l’ANSSI ;
 •	Valoriser les homologations réalisées ;
 •	Suivre la sécurité des services numériques homologués dans la durée.
-
-test
