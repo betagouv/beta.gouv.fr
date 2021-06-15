@@ -1,4 +1,4 @@
-# Full-Stack Product Développeur·euse
+# Full-stack product développeuse ou développeur
 
 ---
 roles: Full-Stack Product Développeur·euse
@@ -57,3 +57,7 @@ Tu justifies d'au moins 3 des compétences suivantes:
 * Télétravail possible. Déplacements à Paris à prévoir, quand possible
 * Contrat initial de 6 mois avec une periode d'essai d'un mois
 * À minima 3 jours par semaine
+
+## Candidater
+
+Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV, le tout à recrutement@beta.gouv.fr . A bientôt ! 😀
