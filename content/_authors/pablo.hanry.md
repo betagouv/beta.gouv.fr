@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: DINUM
 startups:
-  - apprentissage
+  - catalogue-apprentissage
 ---
 
 Je m'appelle Pablo Hanry, étudiant en informatique age de 18 et je suis en alternance dans la start-up d'état mission apprentissage.
