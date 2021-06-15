@@ -189,14 +189,18 @@
   flex-direction: column !important;
 } */
 
+.fr-card__body{
+  padding: 1em;
+}
+
 /* Ajouter un nouveau style rond sur les cartes */
 .fr-card.fr-card__img__rounded {
   background: linear-gradient(180deg, #ffffff00 20%, #f9f8f6 20%)
 }
 
 .fr-card__img.hiring img {
-  padding: 2em;
-  max-height: 300px;
+  padding: 1em;
+  max-height: 250px;
 }
 
 .fr-card.fr-card__img__rounded:not([disabled]):hover {
