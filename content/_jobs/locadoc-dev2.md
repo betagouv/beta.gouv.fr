@@ -1,9 +1,8 @@
-roles: Développeur.se full stack
-title: Loc@docs recrute une personne chargée du développement de sa solution
-contrat: indépendant
+---
 startup: Loc@docs
+title: "Loc@docs recrute une personne chargée du développement de sa solution"
+roles: Développeur.se full stack
 open: true
-
 ---
 
 ## **Le contexte : l’Atelier numérique et beta.gouv.fr**
