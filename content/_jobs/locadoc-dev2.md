@@ -1,6 +1,6 @@
 ---
 startup: Loc@docs
-title: "Loc@docs recrute une personne chargée du développement de sa solution"
+title: "Locadocs recrute une personne chargée du développement de sa solution"
 roles: Développeur.se full stack
 open: true
 ---
