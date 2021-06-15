@@ -37,4 +37,4 @@ Les indicateurs d'impact pour tchap sont les utilisateurs actifs (une connexion 
 Le proxy actuel pour les utilisateurs actifs sont les inscriptions.
 
 Objectif décembre 2021 : 500 000 inscriptions et 6 millions de messages par mois.
-Objectif du produit : 5,5 millions d'utilisateurs actifs. 
+Objectif du produit : 2 millions d'utilisateurs actifs. 
