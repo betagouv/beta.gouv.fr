@@ -50,8 +50,8 @@ Notre façon de travailler est très horizontale et fait la part belle à l'auto
 * prendre des vacances à n'importe quel moment
 * proposer un nouveau simulateur
 * ouvrir / fermer des [issues](https://github.com/betagouv/mon-entreprise/issues)
-* publier la [bibliothèque NPM](https://https://github.com/betagouv/publicodes)
-* ajouter un [dispositif legislatif](https://github.com/betagouv/mon-entreprise/issues/714) 
+* publier la [bibliothèque publicodes sur le registre npm](https://www.npmjs.com/package/publicodes)
+* ajouter un [dispositif législatif](https://github.com/betagouv/mon-entreprise/issues/714) 
 * organiser des sessions de tests utilisateurs
 
 ## Candidater 💌
