@@ -46,7 +46,7 @@ mesures de sécurité à mettre en œuvre pour le protéger. La décision
 d’homologation de sécurité (document signé par une autorité) formalise des
 engagements en la matière.
 
-## PROBLÈME PERÇU À INVESTIGUER
+## PROBLÈME 
 
 La méthode d’homologation promue par l’ANSSI dans son guide en 9 étapes a fait
 ses preuves pour les projets numériques d’envergure. Celle-ci peut en revanche
@@ -63,7 +63,7 @@ révélatrice d’une prise en compte partielle des enjeux de sécurité associ�
 Notre défi : comment améliorer durablement la sécurité de la masse des services
 publics numériques les plus courants ?
 
-## INTUITION DE SOLUTION
+## SOLUTION
 
 Mon Service Sécurisé, est un service numérique pour aider, pas à pas, les
 entités publiques à sécuriser leurs services numériques et à les faire
