@@ -1,5 +1,5 @@
 ---
-startup: Loc@docs
+startup: locadocs
 title: "Locadocs recrute une personne chargée du développement de sa solution"
 roles: Développeur.se full stack
 open: true
