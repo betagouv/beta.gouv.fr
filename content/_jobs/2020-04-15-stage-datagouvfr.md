@@ -1,7 +1,7 @@
 ---
 roles: un·e stagiaire service design
 startup: data.gouv.fr
-open: true
+open: false
 ---
 
 # L'équipe data.gouv.fr recrute un·e stagiaire en service design
