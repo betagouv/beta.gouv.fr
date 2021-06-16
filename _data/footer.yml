@@ -29,7 +29,7 @@ links:
       target: _pages/contact.md
     - 
       label: Présentation de référence
-      target: content/docs/betagouv_presentation.pdf
+      url: https://beta.gouv.fr/content/docs/betagouv_presentation.pdf
 -
     label:
     children:
