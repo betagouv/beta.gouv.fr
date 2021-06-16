@@ -29,7 +29,7 @@ links:
       target: _pages/contact.md
     - 
       label: Présentation de référence
-      target: _content/docs/betagouv_presentation.pdf
+      target: content/docs/betagouv_presentation.pdf
 -
     label:
     children:
