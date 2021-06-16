@@ -27,6 +27,9 @@ links:
     -
       label: Nous contacter
       target: _pages/contact.md
+    - 
+      label: Présentation de référence
+      target: _content/docs/betagouv_presentation.pdf
 -
     label:
     children:
