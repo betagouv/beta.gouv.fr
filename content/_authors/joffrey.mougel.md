@@ -11,7 +11,7 @@ missions:
     employer: Octo
 startups:
   - pilotage.de.linclusion
-  - emplois.de.linclusion
+  - itou
 ---
 
 Je viens de la planète des Sciences Cognitives et adore tout ce qui traite de #Design #UX #Research #Usability #HCI
