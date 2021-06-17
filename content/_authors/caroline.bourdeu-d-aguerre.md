@@ -6,7 +6,7 @@ missions:
     end: 2021-08-01
     status: independent
 startups:
-  - sante-psy-etudiant
+  - psyenfantado
 domaine: Développement
 ---
 
