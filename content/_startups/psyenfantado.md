@@ -1,13 +1,15 @@
 ---
 title: PsyEnfantAdo
-mission: Permettre un accompagnement psychologique des enfants
+mission: Permettre un accompagnement psychologique des enfants et des ados
 owner: Ministère des Solidarités et de la Santé
 sponsors:
   - name: Ministère des Solidarités et de la Santé
     acronym: MSS
     domaine_ministeriel: affaires-sociales
 incubator: sgmas
-contact: psyenfantado@sante.gouv.fr
+link: https://www.psyenfantado.sante.gouv.fr/
+repository: https://github.com/betagouv/psy-enfant-ado
+contact: contact-psyenfantado@beta.gouv.fr
 phases:
   - name: investigation
     start: 2021-05-03
