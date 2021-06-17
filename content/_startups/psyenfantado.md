@@ -1,6 +1,6 @@
 ---
 title: PsyEnfantAdo
-mission: Permettre un accompagnement psychologique des enfants et ados : https://www.psyenfantado.sante.gouv.fr/
+mission: Permettre un accompagnement psychologique des enfants et ados
 owner: Ministère des Solidarités et de la Santé
 sponsors:
   - name: Ministère des Solidarités et de la Santé
