@@ -6,6 +6,8 @@ missions:
     end: 2021-11-30
     status: independent
     employer: Octo
+startups:
+  - psyenfantado
 badges:
   - segur
 domaine: Déploiement
