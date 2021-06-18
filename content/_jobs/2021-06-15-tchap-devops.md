@@ -1,14 +1,18 @@
-# Full-stack product développeuse ou développeur
-
 ---
-roles: Full-Stack Product Développeur·euse
-title: "beta.gouv.fr recrute une équipe pour développer des produits transverses"
-
-equipe: DINUM
-contact: anna-livia.gomart@beta.gouv.fr
-contrat: indépendent
+roles: Administrat.eur.trice système avec des connaissances de développement
+startup: tchap
 open: true
 ---
+
+## Contexte
+
+Tchap s'est lancé en avril 2018 et compte aujourd'hui 235 000 utilisateurs. L'application est disponible sur Android, iOS et le web. Tchap est à destination de l'ensemble des agents des trois fonctions publiques (territoriale, hospitalière et centrale). 
+
+En mai 2021, BetaGouv reprend Tchap pour accompagner l'équipe dans son acceleration.
+
+## Problèmes
+
+Le besoin de messagerie instantanée entre agents publics se développe. Ils ont besoin de collaborer et de partager autour d'intérêts communs inter-administrations de façon directe et informelle. Mais les agents publics n'ont pas accès à une solution métier et utilisent des solutions du marché grand public où ni la sécurité, ni le stockage des données ne sont maîtrisés ce qui peut donner lieu à des fuites d'information.
 
 ## Qui sommes nous : Beta 
 
@@ -22,40 +26,34 @@ beta.gouv.fr a déjà contribué à la création de dizaines de services numéri
 
 ## Missions et rôle
 
-Tu rejoindras l'équipe transverse de l'Incubateur. travaillera à créer des outils utilisables par toute la communauté (et peut être au dela) tels que :
-
-* le [Dashlord](https://dashlord.incubateur.net/), un tableau de bord des bonnes pratiques de développement ;
-* Tchap (https://www.tchap.gouv.fr/faq/), la messagerie sécurisée de l'état ;
-* Beta-recrutement, un outil pour accompagner la croissance de la communauté Betagouv.
-
-Ton rôle principal sera d'envisager, développer et améliorer les fonctionnalités de ces services. Quelques fonctionnalités possibles à envisager :
-
+Ton rôle principal au sein de l'équipe Tchap sera d'envisager, améliorer les disponibilités du service. Quelques fonctionnalités possibles à envisager :
+* Créer un système de collect de statistiques ;
 * Créer un systeme d'authentification des agents publics via Tchap ;
-* Créer des boucles de rétroaction pour donner du feedback automatisé aux équipes sur la qualité de leur code ;
-* Créer des formations engageantes autour de la Sécurité, de l'accessibilté et du RGPD.
 * Travailler sur la documentation de nos pratique.
 
-Les technologies mises en œuvre au sein de betagouv sont décrites dans [notre kit de démarrage](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage).
+Tu pourras aussi si tu le souhaites t'investir à créer des outils utilisables par toute la communauté (et peut être au dela) tels que :
 
+* le [Dashlord](https://dashlord.incubateur.net/), un tableau de bord des bonnes pratiques de développement ;
+* Beta-recrutement, un outil pour accompagner la croissance de la communauté Betagouv.
+* Créer des formations engageantes autour de l'administration système, la Sécurité, de l'accessibilté et du RGPD.
 
 ## Compétences
 
 Tu justifies d'au moins 3 des compétences suivantes:
 
-* D’au moins 3 ans d’expérience dans le domaine du développement web (les outils que nous utiliseons sont décrit dans le kit de démarrage) ;
-* Un bon sens du design ; 
+* D’au moins 3 ans d’expérience dans le domaine de l'administration système ;
+* Tu sais automatiser et maintenir une infra sur Openshift ;
 * Une connaissance de gestion de base de données  ;
 * Une préférence pour des solutions simples et pragmatiques.. « [Le meilleur code n'est aucun code](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/) » ;
 * Une connaissance des méthodes de développement lean ;
 * Une connaissance des outils métier modernes du développement web (GitHub, CI, Figma, exception handlers, etc.)
-* Tu aimes tester ton code 
-* Tu sais automatiser et maintenir une infra 
+* Bonus, tu sais développer dans une des technologies suivante : Python, Typescript, React, iOS ou Android
 
 ## Modalités de travail
 
 * Début de la mission **dès que possible.**
 * Télétravail possible. Déplacements à Paris à prévoir, quand possible
-* Contrat initial de 6 mois avec une periode d'essai d'un mois
+* Mission initial pour independant en commencant par un essai d'un mois et demi
 * À minima 3 jours par semaine
 
 ## Candidater
