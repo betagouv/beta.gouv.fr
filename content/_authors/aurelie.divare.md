@@ -9,4 +9,5 @@ missions:
     employer: Pôle emploi
 startups:
   - pole-emploi-action
+  - encyclopedie-des-metiers
 ---
