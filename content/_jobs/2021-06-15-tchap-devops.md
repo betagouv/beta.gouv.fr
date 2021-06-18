@@ -1,5 +1,5 @@
 ---
-roles: Administrat.eur.trice système avec des connaissances de développement
+roles: Administrat.eur.rice système avec des connaissances de développement
 startup: tchap
 open: true
 ---
