@@ -1,6 +1,6 @@
 ---
 fullname: Martin Fourcade
-role: Développeur
+role: Lead developpeur
 domaine: Développement
 github: mfo
 missions:

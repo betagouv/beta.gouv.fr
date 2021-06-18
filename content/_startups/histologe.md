@@ -1,23 +1,23 @@
 ---
 title: Histologe
 mission: Faciliter le signalement et accélérer la prise en charge du « mal logement »
-owner: Agglomération de Pau Béarn Pyrénées
+owner: Direction de l'Habitat, de l'Urbanisme et des Paysages (DHUP)
+sponsors:
+  - name: ANCT / DHUP / DINUM
+    acronym: ANCT / DHUP / DINUM
+    domaine_ministeriel: territoires
+    type: collectivite-territoriale
 incubator: anct
-sponsors: 
-    - name: ANCT / DHUP
-      acronym:
-      domaine_ministeriel: territoires
-      type: collectivite-territoriale
+repository: https://github.com/betagouv/histologe
+contact: alban.sestiaa@beta.gouv.fr
+stats_url: https://histologe.beta.gouv.fr/Chiffres
+link: https://histologe.beta.gouv.fr
+stats: true
 phases:
   - name: investigation
     start: 2019-09-01
   - name: construction
     start: 2020-02-01
-link: https://histologe.beta.gouv.fr
-repository: https://github.com/betagouv/histologe
-stats: true 
-stats_url: https://histologe.beta.gouv.fr/Chiffres
-contact: alban.sestiaa@beta.gouv.fr
 ---
 
 ## Problème investigué :

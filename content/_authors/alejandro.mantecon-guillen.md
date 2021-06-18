@@ -8,6 +8,8 @@ missions:
     end: 2021-12-31
     status: independent
 startups:
+    - ma-cantine-egalim
+previously:
     - peps
     - e-inspé
 ---

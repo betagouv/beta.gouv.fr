@@ -140,6 +140,10 @@ collections:
         name: stats
         widget: boolean
         required: false
+      - label: Lien vers la page budget
+        name: budget_url
+        widget: string
+        required: false
       - label: Évènements marquants
         name: events
         label_singular: évènement marquant
