@@ -33,7 +33,7 @@ Ton rôle principal au sein de l'équipe Tchap sera d'envisager, améliorer les 
 
 Tu pourras aussi si tu le souhaites t'investir à créer des outils utilisables par toute la communauté (et peut être au dela) tels que :
 
-* le [Dashlord](https://dashlord.incubateur.net/), un tableau de bord des bonnes pratiques de développement ;
+* [Dashlord](https://dashlord.incubateur.net/), un tableau de bord des bonnes pratiques de développement ;
 * Beta-recrutement, un outil pour accompagner la croissance de la communauté Betagouv.
 * Créer des formations engageantes autour de l'administration système, la Sécurité, de l'accessibilté et du RGPD.
 
