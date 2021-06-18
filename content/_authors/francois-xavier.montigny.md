@@ -9,7 +9,7 @@ missions:
     end: 2021-12-31
     status: independent
 avatar: /img/authors/francois-xavier.montigny.jpg
-startups:
+previously:
   - zen
   - mobiville
 ---
