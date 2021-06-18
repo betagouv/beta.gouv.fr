@@ -1,7 +1,7 @@
 ---
 fullname: Nathalie Reyre
-role: Product Owner
 domaine: Produit
+role: Product Manager
 github: nathalie-reyre
 avatar: https://i.ibb.co/p2DjJdK/photo-cv.png
 missions:
@@ -14,7 +14,7 @@ missions:
     status: independent
     employer: Codeurs en liberté
   - start: 2019-05-01
-    end: 2021-06-30
+    end: 2021-07-30
     status: independent
     employer: Octo
 startups:
@@ -24,4 +24,9 @@ previously:
   - la-bonne-formation
   - andi
   - engagement-civique
+competences:
+  - Gestion de Produit
+  - Communication
+  - Administration Publique
 ---
+Toujours passionnée par les sujets sur lesquels je travaille et donc souvent bavarde !
