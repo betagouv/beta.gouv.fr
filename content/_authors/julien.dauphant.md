@@ -13,6 +13,7 @@ missions:
     employer: dinum
 startups:
   - aplus
+  - tchap
 previously:
   - signalement
   - plante-et-moi
