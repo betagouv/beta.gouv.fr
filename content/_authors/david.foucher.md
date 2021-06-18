@@ -10,6 +10,8 @@ missions:
     employer: Pôle emploi
 startups:
   - pole-emploi-action
+  - mobiville
+  - encyclopedie-des-metiers
 previously:
   - la-bonne-formation
 ---

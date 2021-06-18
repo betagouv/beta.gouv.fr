@@ -10,6 +10,8 @@ missions:
     status: independent
     employer: codeheroics
 startups:
+    - mobiville
+previously:
     - zen
 ---
 
