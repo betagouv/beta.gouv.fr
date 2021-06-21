@@ -10,7 +10,7 @@ missions:
       status: independent
       employer: Octo
     - start: 2021-07-15
-      end: 
+      end: 2021-12-31
       status: independent
       employer: Arolla
 startups:
