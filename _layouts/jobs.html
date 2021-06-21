@@ -9,7 +9,7 @@ layout: default
 <section class="fr-py-6w cards">
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters">
-      <div class="fr-col fr-col-md-9 fr-col-sm-12 fr-col-lg-9">
+      <div class="fr-col-md-9 fr-col-sm-12 fr-col-lg-9">
         <div class="fr-grid-row">
           {% assign jobs = site.jobs | where: "open", 'true' | reverse %}
           {% for job in jobs %}
@@ -19,7 +19,7 @@ layout: default
           {% endfor %}
         </div>
       </div>
-      <div class="fr-col fr-col-md-3 fr-col-lg-3 fr-col-sm-12">
+      <div class="fr-col-md-3 fr-col-lg-3 fr-col-sm-12">
         <div class="fr-grid-row">
           <div class="fr-card fr-card--no-arrow job-section-blue">
             <div class="fr-card__body">  
