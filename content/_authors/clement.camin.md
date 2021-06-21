@@ -25,4 +25,6 @@ startups:
   - aeris
   - permis-de-construire-facile
   - demarches-simplifiees.fr
+  - la.communaute.de.linclusion
+  - itou
 ---
