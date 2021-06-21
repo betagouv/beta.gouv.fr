@@ -1,5 +1,5 @@
 ---
-title: "Le forum de l'inclusion (ITOU)"
+title: "La communauté de l'inclusion (ITOU)"
 mission: Faciliter les échanges entre acteurs de l’inclusion
 owner: Ministère du Travail, de l'Emploi et de l'Insertion, ITOU
 sponsors:
@@ -9,7 +9,7 @@ sponsors:
     domaine_ministeriel: travail
 incubator: dinum
 stats: true
-link: https://forum.inclusion.beta.gouv.fr/
+link: https://communaute.inclusion.beta.gouv.fr/
 repository: http://github.com/betagouv/itou
 contact: contact@inclusion.beta.gouv.fr
 events:
@@ -36,7 +36,7 @@ Ces irritants sont d'autant plus importants que la mise en réseau des professio
 
 Comment améliorer la collaboration des  professionnels de l’inclusion afin de mieux accompagner leurs publics alors que la multiplicité des acteurs, des outils et des pratiques ne permet pas de connaître tous les leviers d’accompagnement mobilisables ?
 
-Notre proposition de solution : permettre dans un forum d'échange public à tous les acteur de l’inclusion de poser des questions, obtenir des réponses d’experts, et des informations ou actualités sur l’inclusion.
+Notre proposition de solution : animer une communauté d'acteurs qui se réunissent sur un forum, en visio (ou en vrai !) afin de poser des questions, obtenir des réponses d’experts, partager des bonnes pratiques et découvrir des informations ou actualités sur l’inclusion.
 
 ## Stratégie
 
