@@ -14,6 +14,8 @@ phases:
     end: 2020-11-03
   - name: construction
     start: 2020-11-03
+redirect_from:
+  - /startups/labels-transition
 ---
 
 ## Contexte
