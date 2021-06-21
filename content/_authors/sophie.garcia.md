@@ -10,4 +10,5 @@ missions:
 startups:
   - itou
   - place-de-marche-inclusion
+  - la.communaute.de.linclusion
 ---
