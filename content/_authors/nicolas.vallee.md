@@ -11,6 +11,6 @@ missions:
     status: admin
     employer: ADEME
 startups:
-    - labels-transition 
+    - territoires-en-transitions
 ---
 
