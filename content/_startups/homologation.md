@@ -1,14 +1,14 @@
 ---
-title: Mon Service Sécurisé
 mission: Mon Service Sécurisé, est un service numérique pour aider, pas à pas,
   les entités publiques à sécuriser leurs services numériques et à les faire
   homologuer selon une approche adaptée aux services les plus courants.
-owner: ANSSI
-incubator: Lab Inno
+incubator: lab-innov-anssi
 link: https://www.monservicesecurise.beta.gouv.fr
 repository: https://github.com/betagouv/mon-service-securise
 contact: contact@monservicesecurise.beta.gouv.fr
 stats_url: null
+title: Mon Service Sécurisé
+owner: ANSSI
 stats: false
 phases:
   - name: investigation
