@@ -9,6 +9,8 @@ missions:
     end: 2023-10-31
     status: admin
     employer: Ministère des Armées
+startups:
+  - tchap
 ---
 
 JavaScript frontend/backend developer. React lover.

@@ -13,7 +13,6 @@ missions:
     end: 2021-11-11
 startups:
   - itou
-  - le.forum.de.linclusion
   - dora
 previously:
   - la-bonne-alternance

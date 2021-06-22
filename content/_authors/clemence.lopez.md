@@ -8,6 +8,8 @@ missions:
     end: 2021-09-30
     status: service
     employer: Sopra Steria
+startups:
+  - tchap
 badges:
   - segur
 ---

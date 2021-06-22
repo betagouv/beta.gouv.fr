@@ -21,8 +21,14 @@ missions:
     end: 2020-12-31
     status: independent
     employer: KeiruaProd
+  - start: 2021-02-01
+    end: 2021-12-31
+    status: independent
+    employer: KeiruaProd
 startups:
   - aeris
   - permis-de-construire-facile
   - demarches-simplifiees.fr
+  - la.communaute.de.linclusion
+  - itou
 ---
