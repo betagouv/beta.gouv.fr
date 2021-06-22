@@ -1,6 +1,6 @@
 ---
 fullname: Marine Purson
-role: Lien DGEC-DGPR
+role: intrapreneure au sein du ministère de la Transition écologique
 domaine: Autre
 github: marinepurson
 missions:
@@ -9,5 +9,5 @@ missions:
     status: admin
     employer: MTES
 startups:
-    - recosante
+    - Recosante
 ---
