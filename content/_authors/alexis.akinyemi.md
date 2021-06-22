@@ -11,7 +11,7 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
     employer: AD-HOC Lab
 startups:
     - eva
-    - DiagOriente
+    - diagoriente
 ---
 
 Ethique/Méthode/Réfutabilité
