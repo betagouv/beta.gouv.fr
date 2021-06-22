@@ -1,7 +1,8 @@
 ---
 fullname: Stéphanie Gantou
 role: Facilitatrice
-missions: accompagnement DSI au sein de l'incubateur DSI
+domaine: Produit
+missions:
   - start: 2020-09-07
     end: 2022-09-06
     status: service
