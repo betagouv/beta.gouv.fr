@@ -1,6 +1,6 @@
 ---
 roles: Une personne développeuse
-open: true
+open: false
 date: 2021-06-22T12:58:40.545Z
 startup: territoires-en-transitions
 title: Recherche d'une personne développeuse pour Territoires en Transitions
