@@ -12,6 +12,8 @@ missions:
     end: 2021-12-31
 startups:
   - datagir
+previously:
+  - datagir
 badges:
   - segur
 competences:
@@ -19,4 +21,3 @@ competences:
   - Gestion de Produit
   - Communication
 ---
-Une jeune chargée de déploiement à la recherche de nouveaux challenges, qui cherche à innover & à inspirer !
