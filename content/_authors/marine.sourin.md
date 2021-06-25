@@ -7,7 +7,9 @@ missions:
   - start: 2021-06-25
     end: 2021-09-25
     status: service
-    employer: Eva
+    employer: Captive
+startups:
+    - eva
 ---
 
 Développeuse chez Captive
