@@ -48,7 +48,7 @@ Il est vivement conseillé qu'il.elle soit en charge du déploiement et de la co
 ## 💼 Missions déploiement à assurer: 
 - Participation à la définition de la stratégie d'acquisition d'utilisateurs (création de méthodes, automatisation de procédures, etc.)
 - **Identifier** les référents mobilités dans les Autorités Organisatrices de la Mobilité. 
-- **Contacter les parties prenantes identifiées** et leur présenter les principes du Registre de preuve de covoiturage (et potentiellement Observatoire). Comprendre leurs enjeux, craintes ou blocages éventuels, et leur proposer un accompagnement pour inciter la pratique covoiturage. Privilégier la prise de contact par téléphone et 3 à 4 relances par territoire.
+- **Contacter les parties prenantes identifiées** et leur présenter les principes du Registre de preuve de covoiturage (et potentiellement Observatoire). Comprendre leurs enjeux, craintes ou blocages éventuels, et leur proposer un accompagnement pour inciter la pratique du covoiturage. Privilégier la prise de contact par téléphone.
 - **Sensibiliser les futurs partenaires** du Registre de preuve de covoiturage. Prévoir des démonstrations de préférence groupées avec plusieurs partenaires pour les sensibiliser (1 heure minimum/échange).
 - **Restituer les échanges** avec les usagers au reste de l'équipe pour proposer un produit adapté à leur besoins. 
 - **Assurer le suivi** pour que les Autorité Organisatrices de la Mobilité sensibilisées adhèrent au Registre de preuve de covoiturage. 
