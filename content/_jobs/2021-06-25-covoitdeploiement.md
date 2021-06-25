@@ -34,7 +34,7 @@ Il est vivement conseillé qu'il.elle soit en charge du déploiement et de la co
 - Maitrise des outils de suivi (pipedrive, google drive, etc)
 - Compétences en organisation et animation d’ateliers ;
 - Capacité à embarquer les utilisateurs ;
-- 🎁 Bonus : Le sens de l'esthétisme.
+- 🎁 Bonus : Une sensibilité graphique pour la recherche et la création d'illustrations et de supports de communication.
 ### Métier
 - 🎁 Bonus : Connaissance de l'ecosystème des mobilités et en particulier du covoiturage ;
 - 🎁 Bonus : Connaissance du contexte réglementaire lié à la pratique du covoiturage ; 
