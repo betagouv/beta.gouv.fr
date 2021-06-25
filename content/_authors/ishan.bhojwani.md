@@ -25,7 +25,7 @@ startups:
     - cartobio
     - peps
     - tutorat_fp
-    - labels-transition
+    - territoires-en-transitions
 previously:
     - comobi
     - transport

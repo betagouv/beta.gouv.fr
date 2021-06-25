@@ -6,7 +6,7 @@ github: charrier
 link: https://twitter.com/PH_CHARRIER
 missions:
   - start: 2021-04-16
-    end: 2021-06-30
+    end: 2021-07-15
     status: admin
     employer: Ministère de l'intérieur
 startups:

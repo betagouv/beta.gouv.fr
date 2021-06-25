@@ -1,6 +1,6 @@
 ---
 roles: Typescript / React ⚛️
-open: true
+open: false
 date: 2021-05-25T09:33:21.397Z
 startup: mon-entreprise
 ---
