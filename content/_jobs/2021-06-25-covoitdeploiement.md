@@ -2,7 +2,7 @@
 roles: Chargé.e de déploiement & communication
 titles: Chargé.e de déploiement & communication covoiturage.beta.gouv.fr
 contrat: indépendant·e
-equipe: Registre de Preuve de Covoiturage
+equipe: Registre de preuve de covoiturage
 startup: preuve-de-covoiturage
 post_ouvert: 2021-06-24
 contact: contact@covoiturage.beta.gouv.fr
