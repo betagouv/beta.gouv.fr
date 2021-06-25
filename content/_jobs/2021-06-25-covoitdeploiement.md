@@ -69,7 +69,7 @@ Il est vivement conseillé qu'il.elle soit en charge du déploiement et de la co
 ## ⚙️ Modalités
 
 - Poste ouvert à des indépendant·e·s 
-- Télétravail possible (l'équipe vadrouille en France)
+- Télétravail possible (l'équipe est répartie en France)
 - Temps de travail : à définir en fonction de l'expérience (idéalement à 80%)
 - Durée : 6 mois renouvelables
 - Démarrage dès que possible
