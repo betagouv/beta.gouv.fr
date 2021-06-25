@@ -64,7 +64,7 @@ Il est vivement conseillé qu'il.elle soit en charge du déploiement et de la co
 - Aide à l'animation des réseaux sociaux ;
 - Aide à la rédaction de contenu multi-support (infolettre, blog, etc.) ;
 - Participation à la création de contenu graphique ;
-- 🎁 Bonus : réalisation de support vidéo en design motion.
+- 🎁 Bonus : réalisation de support vidéo en motion design.
 
 ## ⚙️ Modalités
 
