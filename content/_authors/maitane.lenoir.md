@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: lazone
 startups:
-  - labels-transition
+  - territoires-en-transitions
   - visam
 previously:
   - mon-entreprise
