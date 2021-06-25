@@ -54,7 +54,7 @@ Il est vivement conseillé qu'il.elle soit en charge du déploiement et de la co
 - **Assurer le suivi** pour que les Autorité Organisatrices de la Mobilité sensibilisées adhèrent au Registre de preuve de covoiturage. 
 - **Assurer la satisfaction** via la suivi des différentes relations nouées avec plus d’une cinquantaine de partenaires et gérer des communications asynchrones.
 - **Participer à la rédaction de guide de prise en main et de la documentation** pour expliquer le fonctionnement du service à des interlocuteurs avec des niveaux d’expertise technique différents.
-- **Animer la communauté** via l'organisation d’événements comme des ateliers ouverts, des webinaires, etc.  
+- **Animer la communauté** via l'organisation d’événements comme des ateliers ouverts, ateliers de co-construction, des webinaires, etc.  
 - **Participer aux salons et forums** mobilité dédiés aux collectivités. 
 
 ## 💼 Missions marketing / communication à assurer
