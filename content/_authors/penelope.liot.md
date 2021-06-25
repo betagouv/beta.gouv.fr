@@ -10,7 +10,7 @@ missions:
     employer: Numa
 startups:
   - mon-entreprise
-  - labels-transition
+  - territoires-en-transitions
 competences:
   - Coaching
 ---

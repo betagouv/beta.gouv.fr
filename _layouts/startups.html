@@ -17,7 +17,7 @@ layout: default
             {% if screenshot_file %}
             {% assign screenshot_path = screenshot_file.path %}
             {% else %}
-            {% assign screenshot_path = "/img/logo-generique-startup-rectangle-2019.jpg" %}
+            {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
             {% endif %}
             {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
             {% assign incubator = incubators | where:'id', incubator_id | first %}

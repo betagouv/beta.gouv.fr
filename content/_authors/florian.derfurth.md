@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: null
 startups:
-  - labels-transition
+  - territoires-en-transitions
 competences:
   - Développement Frontend
   - Développement Backend
