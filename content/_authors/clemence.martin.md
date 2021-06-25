@@ -1,7 +1,7 @@
 ---
 fullname: Clémence MARTIN
 domaine: Déploiement
-role: Chargée de déploiement
+role: Chargée de déploiement et produits
 missions:
   - start: 2021-01-04
     end: 2021-06-29
@@ -19,4 +19,3 @@ competences:
   - Gestion de Produit
   - Communication
 ---
-Une jeune chargée de déploiement à la recherche de nouveaux challenges, qui cherche à innover & à inspirer !
