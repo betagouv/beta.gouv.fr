@@ -22,7 +22,7 @@ covoiturage.beta.gouv.fr c'est à la fois :
 * Des outils pour faciliter la mise en œuvre du **Forfait Mobilités Durables**.
 
 ## Rôle
-Le.a chargé.e de déploiement est en charge d'assurer le déploiement du service et de s'assurer que ce service est utilisé et répond aux besoins de ses utilisateurs. Il est l'équivalent d'un.e chargé.e commercial.e dans le secteur privé. La différence est que dans le cas d'un service public son travail ne consiste pas à vendre un produit mais plutôt à promouvoir un service oeuvrant pour l'intérêt général. Il a également en charge la stratégie de marketing/communication des produits.
+Le.a chargé.e de déploiement est en charge d'assurer le déploiement du service et de s'assurer que ce service est utilisé et répond aux besoins de ses utilisateurs. Il est l'équivalent d'un.e chargé.e commercial.e dans le secteur privé. La différence est que dans le cas d'un service public son travail ne consiste pas à vendre un produit mais plutôt à promouvoir un service oeuvrant pour l'intérêt général. Il ou elle a également en charge la stratégie de marketing/communication des produits.
 Le.a chargé.e de déploiement est autonome dans son activité tout en oeuvrant au succès du service en collaboration avec le reste de l'équipe. 
 
 **Le.a chargé.e de déploiement & communication a du temps à consacrer à sa mission**. Ceci se traduit par une disponibilité au moins à 60% de son temps.
