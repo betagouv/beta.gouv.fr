@@ -38,7 +38,7 @@ Tu  es en mesure de jouer sur 2 tableaux :
 
 ## Profil recherché ? 
 
-Ouvert, curieux et opiniâtre\
+Une personne ouverte, curieuse et opiniâtre\
 Force de propositions\
 Excellentes capacités de communication orale et écrite et de vulgarisation\
 Aisance avec la méthode lean, au sein d’une équipe produit resserrée et fonctionnant en mode collaboratif\
