@@ -9,5 +9,7 @@ missions:
     employer: OCTO
 badges:
   - segur
+startups: 
+  - ban
 ---
 
