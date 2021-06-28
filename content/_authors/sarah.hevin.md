@@ -7,7 +7,7 @@ missions:
   - start: 2021-07-01
     end: 2021-10-01
     status: independent
-    employer: Octo (pas encore validé) 
+    employer: Octo 
 startups:
   - pass-emploi
 badges:
