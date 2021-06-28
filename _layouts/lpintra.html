@@ -14,7 +14,7 @@ layout: default
       </span><br>Aidez-nous à résoudre les problèmes des usagers et des agents.</h2>
       </div>
       <div class="fr-col fr-col-12 fr-col-md-6">
-        <div class="home-hero-anim">
+        <div class="landing-intra-main-anim">
           <object data="/assets/images/intra/main-lpintra.svg"></object>    
         </div>
       </div>        
@@ -29,7 +29,7 @@ layout: default
       </div>
       <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups">
         <div class="fr-col-12 fr-col-md-4">
-          <object data="/assets/images/intra/4-etapes-illustration.svg" class="home-team-animation-background"></object>               
+          <object data="/assets/images/intra/4-etapes-illustration.svg" class="landing-intra-steps"></object>               
         </div>
         <div class="fr-py-6w fr-col-12 fr-col-md-8">
           <p class="section-principle-list-item">
@@ -186,7 +186,7 @@ layout: default
                   <p class="fr-card__desc">“Notre direction générale était très impliquée dans ce projet et toute ma chaîne hiérarchique nous a fortement soutenus lorsque nous rencontrions des difficultés.”</p>
                   <ul class="fr-tags-group">
                     <li>
-                      <a href="/startups/workinfrance.html" class="fr-tag fr-tag--sm">Signal conso</a>
+                      <a href="/startups/signalement.html" class="fr-tag fr-tag--sm">Signal conso</a>
                     </li>
                   </ul>
                 </div>
@@ -207,7 +207,7 @@ layout: default
                   <p class="fr-card__desc">“Ce qui nous fait avancer, c’est de vérifier régulièrement que notre action répondait bien au problème que l’on avait constaté.”</p>
                   <ul class="fr-tags-group">
                     <li>
-                      <a href="/startups/workinfrance.html" class="fr-tag fr-tag--sm">Zen</a>
+                      <a href="/startups/zen.html" class="fr-tag fr-tag--sm">Zen</a>
                     </li>
                   </ul>
                 </div>
@@ -228,7 +228,7 @@ layout: default
                   <p class="fr-card__desc">“Un passage en startup d’État c’est une formation en continu et une montée en compétence fulgurante.”</p>
                   <ul class="fr-tags-group">
                     <li>
-                      <a href="/startups/workinfrance.html" class="fr-tag fr-tag--sm">Place des entreprises</a>
+                      <a href="/startups/place-des-entreprises.html" class="fr-tag fr-tag--sm">Place des entreprises</a>
                     </li>
                   </ul>
                 </div>
@@ -265,35 +265,3 @@ layout: default
     </form>
   </div>
 </section>
-<script type="text/javascript">
-  var hand1 = document.getElementById('hero-anim-hand-1');
-  var hand2 = document.getElementById('hero-anim-hand-2');
-  var hand3 = document.getElementById('hero-anim-hand-3');
-  var herobg = document.getElementById('hero-anim-background');
-  var teambg = document.getElementsByClassName('home-team-animation-background');
-  var teamcontainer = document.getElementsByClassName('section-blue')[1];
-  window.addEventListener('scroll', function() {
-    var value = window.scrollY
-    var containerElement = teamcontainer.getBoundingClientRect()
-    var bodyRect = document.body.getBoundingClientRect();
-    var offset = containerElement.top - (bodyRect.top + window.innerHeight);
-    if (value > offset && value < (containerElement.top + window.innerHeight - bodyRect.top)) {
-      const val = value - containerElement.height;  
-      for (var i = 0; i < teambg.length; i++) {
-        teambg[i].style.transform = 'scale('+ (1 + ((0.2*val)/containerElement.height)) + ')';
-      }
-    }
-    // animation on hero banner
-    // if (value < 300) {
-    //   const svg = document.querySelector('#hero-anim-hand-1-container')
-    //   svg.style.transform = 'translateX(' + (-value * 0.4) + 'px)';
-    //   const svg2 = document.querySelector('#hero-anim-hand-2')
-    //   svg2.style.transform = 'translateX(' + (-value * 0.3) + 'px)';
-
-    //   const svg3 = document.querySelector('#hero-anim-hand-3')
-    //   svg3.style.transform = 'translate(' + (-value * 0.2) + 'px,' + (-value * 0.1) + 'px )';
-    // }
-  })
-
-</script>
-
