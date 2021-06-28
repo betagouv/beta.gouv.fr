@@ -473,3 +473,133 @@ h2.phase-title em {
   box-shadow: inset 0 0 0 1px white;
   justify-content: center;
 }
+
+/* START SECTION CLASS */
+.section-light-grey {
+  background-color: var(--beige);
+}
+
+.section-blue {
+  background: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%),
+  linear-gradient(0deg, #00006D, #00006D);
+}
+
+.section-white h2 {
+  text-align: center;
+}
+
+.section-description {
+  font-weight: bold;
+  color: #4941C0;
+}
+
+
+.section-blue h1,
+.section-blue h2,
+.section-blue h3:not(.fr-card__title),
+.section-blue h4:not(.fr-card__title),
+.section-blue .section-description {
+  color: #fff;
+}
+
+.section-blue svg {
+  max-height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-blue h3.fr-card__title {
+  text-align: center;
+}
+
+.section-main {
+  min-height: 400px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.section-main .fr-container {
+  height: 100%;
+}
+
+.section-main h1 {
+  color: white;
+  text-align: left;
+  margin-bottom: 1.2em;
+}
+
+.section-main-animation {
+  width: 100%;
+  height: 100%;
+}
+
+.fr-btn--secondary.button-white {
+  background-color: white;
+  border-color: white;
+  box-shadow: inset 0 0 0 1px white;
+}
+
+.fr-btn--secondary.button-white-border {
+  border-color: white;
+  box-shadow: inset 0 0 0 1px white;
+  color: white;
+}
+
+.section-title,
+.section-description {
+  text-align: center;
+}
+
+.section-principle-list-item {
+  margin-bottom: 3em;
+}
+
+.section-principle-animation {
+  width: 100%;
+  height: 100%;
+}
+
+.section-principle-list-item .section-principle-list-item-number {
+ font-weight: bold;
+ font-size: 3.5em;
+ margin-right: 0.5em;
+}
+
+.section-principle-list-item .section-principle-list-item-content {
+  font-size: 1.2em;
+}
+
+.section-principle .row {
+  background-color: #F9F8F6
+}
+
+
+.section-highlight {
+  color: #FCDC59;
+}
+
+@media (max-width: 749px) {
+  .section-main {
+      min-height: none;
+  }
+  .section-principle-animation {
+      width: 90%;
+      height: 90%;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+  }
+}
+
+/* END SECTION CLASS */
+
+#newsletter {
+  text-align: center;
+}
+
+#newsletter input {
+  display: inline-block;
+  width: auto;
+}
+

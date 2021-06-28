@@ -1,94 +1,4 @@
-.home-section-blue {
-    background: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%),
-    linear-gradient(0deg, #00006D, #00006D);
-}
 
-
-.home-section-description {
-    font-weight: bold;
-    color: #4941C0;
-}
-
-
-.home-section-blue h1,
-.home-section-blue h2,
-.home-section-blue h3:not(.fr-card__title),
-.home-section-blue h4:not(.fr-card__title),
-.home-section-blue .home-section-description {
-    color: #fff;
-}
-
-.home-section-blue svg {
-    max-height: 200px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.home-section-blue h3.fr-card__title {
-    text-align: center;
-}
-
-.home-section-main {
-    min-height: 400px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
-
-.home-section-main .fr-container {
-    height: 100%;
-}
-
-.home-section-main h1 {
-    color: white;
-    text-align: left;
-    margin-bottom: 1.2em;
-}
-
-.home-section-main-animation {
-    width: 100%;
-    height: 100%;
-}
-
-.home-button-white {
-    background-color: white;
-    border-color: white;
-    box-shadow: inset 0 0 0 1px white;
-}
-
-.home-button-white-border {
-    border-color: white;
-    box-shadow: inset 0 0 0 1px white;
-    color: white;
-}
-
-.home-section-title,
-.home-section-description {
-    text-align: center;
-}
-
-.home-section-principle-list-item {
-    margin-bottom: 3em;
-}
-
-.home-section-principle-animation {
-    width: 100%;
-    height: 100%;
-}
-
-.home-section-principle-list-item .home-section-principle-list-item-number {
-   font-weight: bold;
-   font-size: 3.5em;
-   margin-right: 0.5em;
-}
-
-.home-section-principle-list-item .home-section-principle-list-item-content {
-    font-size: 1.2em;
- }
-
-.home-section-principle .row {
-    background-color: #F9F8F6
-}
 
 .home-team-animation-container {
     width: 100%;
@@ -112,10 +22,6 @@
 
 .home-team-animation-container:hover .home-team-animation-background  {
     transform: scale(1.1);
-}
-
-.home-section-highlight {
-    color: #FCDC59;
 }
 
 .home-hero-anim {
@@ -166,9 +72,6 @@
 @keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
 
 @media (max-width: 749px) {
-    .home-section-main {
-        min-height: none;
-    }
     .home-hero-anim {
         display: none;
     }
@@ -179,13 +82,6 @@
     #hero-anim-hand-1-container {
         display: none;
     }
-    .home-section-principle-animation {
-        width: 90%;
-        height: 90%;
-        margin-left: auto;
-        margin-right: auto;
-        display: block;
-    }
     .home-team-animation-background {
         max-height: 130px;
     }
@@ -193,13 +89,4 @@
     .home-team-animation-foreground {
         max-height: 130px;
     }
-}
-
-#newsletter {
-    text-align: center;
-}
-
-#newsletter input {
-    display: inline-block;
-    width: auto;
 }
