@@ -1,12 +1,14 @@
 ---
-fullname: Léa Martel
-role: Coach Programme National d'Investigation - Incubateur des Territoires
-link: https://www.linkedin.com/in/leamartel/
+fullname: Clara Dumont
+domaine: Déploiement
+role: Chargée de déploiement
+link: https://www.linkedin.com/in/clara-dumont-964894121/
 missions:
-  - start: 2021-04-16
-    end: 2021-07-30
+  - start: 2021-03-28
+    end: 2021-12-31
     status: independent
-
+    employer: DossierFacile
+competences:
+  - Communication
+  - Croissance
 ---
-
-Designer de programmes d'innovation, Facilitatrice Design Thinking et Formatrice aux méthodes entrepreneuriales
