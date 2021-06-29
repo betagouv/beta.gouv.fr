@@ -2,6 +2,7 @@
 fullname: Raphaël Yharrassarry
 domaine: Design
 role: UX Designer transverse
+github: https://github.com/Yharra
 avatar: https://avatars0.githubusercontent.com/u/5681540?s=600&v=4
 link: http://www.iergo.fr
 missions:
