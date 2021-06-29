@@ -13,5 +13,3 @@ startups:
 badges:
   - segur
 ---
-
-Créative, curieuse, gourmande.
