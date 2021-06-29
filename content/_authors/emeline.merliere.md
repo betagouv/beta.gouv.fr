@@ -5,7 +5,7 @@ domaine: Développement
 github: eml-trm
 missions:
   - start: 2020-12-30
-    end: 2021-06-29
+    end: 2022-01-29
     status: admin
     employer: DINUM
 startups:
