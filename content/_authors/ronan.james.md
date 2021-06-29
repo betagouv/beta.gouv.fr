@@ -5,9 +5,13 @@ role: "Responsable de déploiement "
 github: ronanjames
 missions:
   - start: 2021-01-25
-    end: 2021-07-30
-    status: independent
+    end: 2021-06-30
+    status: admin
+    employer: DGEFP
+  - status: independent
     employer: DINUM
+    start: 2021-07-01
+    end: 2021-07-30
 startups:
   - carnet.de.bord
 badges:
