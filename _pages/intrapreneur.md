@@ -4,6 +4,14 @@ sidebar: sidebar-approche.html
 permalink: /devenir-intrapreneur/decouvrir-le-role-d-intrapreneur
 title: Decouvrir le role d'intrapreneur
 layout: intrapreneur-role
+breadcrumbs:
+    - title: Accueil
+      link: /
+    - title: Devenir intrapreneur
+      link: /devenir-intrapreneur
+    - title: Decouvrir le rôle d'intrapreneur
+      link: /devenir-intrapreneur/decouvrir-le-role-d-intrapreneur
+
 ---
 
 beta.gouv aide les administrations publiques à construire des **services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens**.

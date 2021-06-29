@@ -112,30 +112,3 @@ layout: default
   </div>
 </section>
 
-<section class="fr-py-6w section-grey">
-  <div class="fr-container">
-    <button class="fr-btn" onclick="toggle_visibility('previous_jobs');">Offres pourvues</button>
-    <div id="previous_jobs" style="display:none">
-      {% assign jobs = site.jobs | where: "open", 'false' | reverse %}
-      <ul>
-    {% for job in jobs %}
-      {% assign startup_id = job.startup %}
-      {% assign startup = site.startups | where: "id", startup_id | first %}
-      <li><a href="{{ job.url }}">{% if job.friend %}{{ job.friend }}{% else %}{{ startup.title | default: "beta.gouv.fr"}}{% endif %} : {{ job.roles }}, le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></a></li>
-    {% endfor %}
-      </ul>
-    </div>
-  </div>
-</section>
-
-<script type="text/javascript">
-<!--
-    function toggle_visibility(id) {
-       var e = document.getElementById(id);
-       if(e.style.display == 'block')
-          e.style.display = 'none';
-       else
-          e.style.display = 'block';
-    }
-//-->
-</script>
