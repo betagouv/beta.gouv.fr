@@ -1,7 +1,7 @@
 ---
 fullname: Ronan James
-domaine: Intraprenariat
-role: Intrapreneur
+domaine: Déploiement
+role: "Responsable de déploiement "
 github: ronanjames
 missions:
   - start: 2021-01-25
