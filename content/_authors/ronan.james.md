@@ -1,18 +1,19 @@
 ---
 fullname: Ronan James
-role: Intrapreneur
 domaine: Intraprenariat
+role: Intrapreneur
 github: ronanjames
 missions:
   - start: 2021-01-25
-    end: 2021-06-30
+    end: 2021-07-30
     status: admin
     employer: DINUM
 startups:
   - carnet.de.bord
 badges:
   - segur
+competences:
+  - Communication
+  - Administration Publique
 ---
-
-Une thèse sur le climat, des ateliers intergénérationnels, un tiers-lieux, une communauté sur l'inclusion... ravi de continuer à Innover & Servir au sein de béta-gouv ! 
-#communauté #prototypage #codesign #evenements 
+Acteur de terrain et d'innovation publique, animé par l'envie d'Innover & Servir - Go Carnet de bord !
