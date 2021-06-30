@@ -47,28 +47,10 @@ Un portail de données au service de l’échange et des entreprises.
 
 Le portail FCE offre une vue à 360° de l’entreprise et de ses établissements en agrégeant les données publiques sur l’identité et l’activité et les données « métier »  issues du cœur de l’activité des services.
 
-En facilitant l’accès et le partage de l’information, le portail FCE permet aux agents d’avoir une vision globale des relations entre l’administration et l’entreprise et d’agir en connaissance de cause.
-
-Les gains attendus :
-
-**1 - Pour les agents**
-
-* Faciliter les échanges entre les services :
-
-Savoir quels sont les services qui disposent d’informations sur une entreprise afin d’orienter utilement les demandes.
-
-* Ajuster les actions auprès des entreprises :
-
-Disposer d’une vision complète des relations entre la Direccte et les entreprises pour agir en connaissance de cause.
-
-* Restituer l’information aux décideurs :
-
-Restituer à un décideur (Préfet, Ministre….), en un minimum de temps, une fiche synthétique sur les (inter)actions menées par les services auprès d’une entreprise.
-
-**2 - Pour les entreprises**
-
-Mieux connues à priori par l'administration, les entreprises ont une vision d’une administration mieux intégrée et donc plus performante. Elles bénéficient directement de cette meilleure utilisation collective des informations par le biais de contrôles ou d’interventions adaptés à leur situation et à leurs relations avec l’administration.
-
 ## Stratégie
 
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
+* Marketing du produit (logo et slogan FCE, *landing page*, pages “à propos”, “FAQ”, tutos vidéos, kit de communication)
+* Mise en place d’une stratégie d’acquisition 
+* Mise en place d’une newsletter (Sarbacane) + scrapping contacts Direccte 
+* Organisation de webinaires
+* Publications via Sitere, Paco,Transversale, Flash travail, FIE
