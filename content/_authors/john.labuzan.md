@@ -11,7 +11,7 @@ missions:
 startups: 
 - Commun Orientation
 previously:
-- Aides Territoires
+- Aides-territoires
 ---
 Valoriser l'action des collectivités 🏛️ 🙌
 Commun orientation 🧭
