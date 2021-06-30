@@ -5,6 +5,8 @@ domaine: Développement
 github: PieterjanMontens
 avatar: null
 link: http://pieterjan.montens.net
+badges:
+  - segur
 missions:
   - start: 2019-07-09
     end: 2020-05-13
