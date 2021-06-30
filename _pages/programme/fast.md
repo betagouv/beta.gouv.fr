@@ -2,7 +2,7 @@
 domaine: Déploiement
 missions:
   - status: independent
-    start: 2021-07-04
+    start: 2021-07-05
     end: 2021-12-31
 competences:
   - Gestion de Produit
