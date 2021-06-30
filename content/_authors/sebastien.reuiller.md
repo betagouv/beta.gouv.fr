@@ -6,7 +6,7 @@ link: https://sebastienreuiller.fr/
 github: sebastienreuiller
 missions:
   - start: 2021-05-25
-    end: 2021-08-25
+    end: 2021-12-31
     status: independent
     employer: Octo
 startups:
