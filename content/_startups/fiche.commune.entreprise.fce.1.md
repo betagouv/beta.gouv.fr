@@ -10,7 +10,7 @@ repository: https://github.com/SocialGouv/fce
 contact: chloe.mandelblat@dreets.gouv.fr
 stats: true
 ---
-![](/img/netlifycms/fce_cube_transparent.png)
+![Logo FCE](/img/netlifycms/fce_cube_transparent.png)
 
 ## Contexte
 
