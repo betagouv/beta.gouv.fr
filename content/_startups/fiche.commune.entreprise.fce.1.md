@@ -12,7 +12,7 @@ stats: true
 ---
 ## Contexte
 
-9000 agents des Dreets et Ddets(pp) intervienent auprès des 4 millions d'entreprisese et 11 millions d'établissements.
+9000 agents des Dreets et Ddets(pp) interviennent auprès des 4 millions d'entreprises et 11 millions d'établissements.
 
 Les agents interviennent dans la vie de ces entreprises sur des champs variés (emploi, travail, développement économique, protection des consommateurs) et pour des motifs différents qui peuvent parfois être contradictoires.
 
@@ -53,4 +53,4 @@ Le portail FCE offre une vue à 360° de l’entreprise et de ses établissement
 * Mise en place d’une stratégie d’acquisition 
 * Mise en place d’une newsletter (Sarbacane) + scrapping contacts Direccte 
 * Organisation de webinaires
-* Publications via Sitere, Paco,Transversale, Flash travail, FIE
+* Publications via Sitere, Paco, Transversale, Flash travail, FIE
