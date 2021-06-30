@@ -61,6 +61,8 @@ mapping:
               type:      str
   "phases":
     type:      seq
+    required:  yes
+    assert:    "val.length() > 0"
     sequence:
         - type:      map
           mapping:

@@ -170,6 +170,9 @@ collections:
         widget: list
         hint: Indiquez les étapes de la vie du produit de la plus ancienne à la plus récente.
         collapsed: false
+        required: true
+        min: 1
+        max: 10 # both min and max are required to be apply 
         fields:
           - label: Nom de la phase
             name: name
