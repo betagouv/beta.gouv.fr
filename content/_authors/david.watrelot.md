@@ -6,7 +6,7 @@ link: https://www.hellodeloo.com/
 github: hellodeloo
 missions:
   - start: 2021-03-08
-    end: 2021-06-30
+    end: 2021-12-31
     status: independent
     employer: Octo
 startups:
