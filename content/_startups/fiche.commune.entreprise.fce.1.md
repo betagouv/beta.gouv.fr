@@ -10,6 +10,8 @@ repository: https://github.com/SocialGouv/fce
 contact: chloe.mandelblat@dreets.gouv.fr
 stats: true
 ---
+![](/img/netlifycms/fce_cube_transparent.png)
+
 ## Contexte
 
 9000 agents des Dreets et Ddets(pp) interviennent auprès des 4 millions d'entreprises et 11 millions d'établissements.
