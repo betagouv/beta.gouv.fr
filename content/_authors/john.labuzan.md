@@ -9,9 +9,9 @@ missions:
     end: 2022-06-30
     status: independent
 startups: 
-- Commun Orientation
+- commun.orientation
 previously:
-- Aides-territoires
+- aides-territoires
 ---
 Valoriser l'action des collectivités 🏛️ 🙌
 Commun orientation 🧭
