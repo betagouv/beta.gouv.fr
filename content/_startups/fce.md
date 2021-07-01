@@ -7,6 +7,13 @@ link: https://fce.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/fce
 contact: chloe.mandelblat@dreets.gouv.fr
 stats: true
+phases:
+  - name: construction
+    start: 2019-09-01
+    end: 2020-04-01
+  - name : acceleration
+    start: 2020-04-02
+
 ---
 ![Logo FCE](/img/netlifycms/fce_cube_transparent.png)
 
