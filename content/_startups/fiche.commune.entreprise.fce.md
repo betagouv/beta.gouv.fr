@@ -15,7 +15,7 @@ phases:
     end: 2019-01-15
   - name: construction
     start: 2019-01-15
-    end: 2020-06-26
+    end: 2021-12-17
   - name: acceleration
     start: 2020-07-01
     end: 2021-12-17
