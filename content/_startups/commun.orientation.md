@@ -16,10 +16,10 @@ phases:
 
 Trop d’usagers dans les collectivités ont des difficultés à résoudre leurs problèmes, car ils n’arrivent pas à identifier l’interlocuteur compétent.
 
-Une organisation des collectivités obscure pour les usagers :\
+Une organisation des collectivités obscure pour les usagers :
 
-* L’administration est un mille-feuille pour beaucoup d’usagers, et il est difficile de l’extérieur de comprendre qui est à même de résoudre un problème précis.\
-  \
+* L’administration est un mille-feuille pour beaucoup d’usagers, et il est difficile de l’extérieur de comprendre qui est à même de résoudre un problème précis.
+  
 * L’orientation des usagers se fait en général en fonction de l’organisation de la collectivité et non des problématiques des utilisateurs. 
 
 <!--EndFragment-->
@@ -30,8 +30,8 @@ Une organisation des collectivités obscure pour les usagers :\
 
 Les usagers sollicitent les collectivités sans pour autant savoir quelle structure est compétente pour l’aider à résoudre son problème.
 
-Les collectivités ont aujourd’hui des niveaux de maturité différents sur ces questions d’orientation. Il n’existe pas ou peu de partage des bonnes pratiques et encore moins de mutualisation du traitement de ces demandes.\
-\
+Les collectivités ont aujourd’hui des niveaux de maturité différents sur ces questions d’orientation. Il n’existe pas ou peu de partage des bonnes pratiques et encore moins de mutualisation du traitement de ces demandes.
+
 Aucune solution fiable n'est proposée pour répondre à cette question de l'errance des usagers
 
 <!--EndFragment-->
@@ -58,7 +58,7 @@ Phase d’apprentissage et tests d'hypothèses sur les réponses à apporter aux
 
 <!--EndFragment-->
 
-## \
+## 
 **Mesure d'impact**
 
 <!--StartFragment-->
