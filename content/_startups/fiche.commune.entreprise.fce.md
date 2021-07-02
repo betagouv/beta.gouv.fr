@@ -10,7 +10,7 @@ repository: https://github.com/SocialGouv/fce
 contact: chloe.mandelblat@dreets.gouv.fr
 stats: true
 phases:
-  - name: acceleration
+  - name: investigation
     start: 2018-10-01
     end: 2019-01-15
   - name: construction
