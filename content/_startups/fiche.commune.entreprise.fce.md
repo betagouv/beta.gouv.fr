@@ -20,9 +20,11 @@ phases:
     start: 2020-07-01
     end: 2021-12-17
 ---
+![]()
+
 ## Contexte
 
-9000 agents des Dreets et Ddets(pp) intervienent auprès des 4 millions d'entreprisese et 11 millions d'établissements.
+9000 agents des Dreets et Ddets(pp) interviennent auprès des 4 millions d'entreprises et 11 millions d'établissements.
 
 Les agents interviennent dans la vie de ces entreprises sur des champs variés (emploi, travail, développement économique, protection des consommateurs) et pour des motifs différents qui peuvent parfois être contradictoires.
 
@@ -34,7 +36,7 @@ C’est encore trop souvent le chef d’entreprise qui informe un agent de la Di
 
 ## Problème
 
-Le manque d'accès et de partage d'informations sur les actions menées auprès des entrepriss ont des conséquences :
+Le manque d'accès et de partage d'informations sur les actions menées auprès des entreprises ont des conséquences :
 
 **1 -  Pour les agents** 
 
@@ -66,6 +68,7 @@ Les gains attendus :
 * Faciliter les échanges entre les services : 
 
 Savoir quels sont les services qui disposent d’informations sur une entreprise afin d’orienter utilement les demandes
+
 * Ajuster les actions auprès des entreprises :
 
 Disposer d’une vision complète des relations entre la Direccte et les entreprises pour agir en connaissance de cause.
