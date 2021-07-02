@@ -6,7 +6,7 @@ incubator: culture
 phases:
   - name: construction
     start: 2020-04-01
-link:
+link: https://www.ellesfontlaculture.beta.gouv.fr/
 repository:
 stats: false
 stats_url:
