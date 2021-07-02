@@ -8,11 +8,13 @@ missions:
     status: service
     employer: octo
 startups:
+  - candilib
+  - chauffage-urbain
+  - urgencevie
+previously:
   - aplus
   - histovec
-  - candilib
   - polex
-  - chauffage-urbain
   - bati-amiante
 ---
 
