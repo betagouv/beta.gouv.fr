@@ -4,7 +4,7 @@ mission: "Aider les collectivités à prioriser la mise en œuvre des actions le
 owner: ADEME - Agence de la transition écologique
 sponsors: []
 incubator: dinum
-link:
+link: https://territoiresentransitions.fr/
 repository: https://github.com/betagouv/territoires-en-transitions
 contact: contact@territoiresentransitions.fr
 stats: false
