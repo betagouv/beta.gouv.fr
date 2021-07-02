@@ -81,4 +81,13 @@ Mieux connues à priori par l'administration, les entreprises ont une vision d�
 
 ## Stratégie
 
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
+* marketing du produit (logo, slogan, landing page, nouvelles pages)
+* tutos vidéos
+* kit de communication
+* mise en place d’une stratégie d’acquisition 
+* mise en place d’une newsletter
+* *scrapping* contacts Direccte 
+* organisation de webinaires
+* publications sur les intranets et lettres d'information
+
+**Objectif visé** : 9 000 utilisateurs de FCE
