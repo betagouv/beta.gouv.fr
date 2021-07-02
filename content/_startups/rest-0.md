@@ -2,7 +2,7 @@
 title: Rest'0 🍽 (gaspillage alimentaire cantines scolaires)
 mission: Réduire le gaspillage alimentaire dans les cantines scolaires
 owner: Département des Côtes d'Armor
-sponsors: 
+sponsors:
     - name: département des Côtes d'Armor
       acronym:
       domaine_ministeriel: territoires
@@ -15,10 +15,10 @@ phases:
   - name: alumni
     start: 2020-06-30
 link:
-repository: 
-stats: false 
-stats_url: 
-contact: preincubation@beta.gouv.fr
+repository:
+stats: false
+stats_url:
+contact: incubateur@anct.gouv.fr
 ---
 
 <img width="300" alt="Rest'0" src="https://user-images.githubusercontent.com/36134318/78231946-d8a78480-74d3-11ea-9580-f815287134c9.png">
@@ -42,7 +42,7 @@ Le partenaire de ce programme est **le département des Côtes d’Armor.**
 ## 🔭 Le problème investigué : au niveau national, le gaspillage alimentaire en restauration scolaire représente près de 135g/repas/personne au collège (source : ADEME).
 
 Dans le département des Côtes d'Armor, chaque jour, le collège Val de Rance (terrain d'expérimentation où Catherine est cheffe de cuisine ; Pascaline, gérante administrative) préparent 650 repas, en respectant les règles de nutrition.
-En moyenne, l’équivalent de 148 repas sont jetés chaque jour, soit 70 kg (150 g par élève). 
+En moyenne, l’équivalent de 148 repas sont jetés chaque jour, soit 70 kg (150 g par élève).
 En coût denrée, cela représente 35 000€ par an pour le collège.
 
 
@@ -54,9 +54,9 @@ En coût denrée, cela représente 35 000€ par an pour le collège.
 - Impliquer les équipes et les enfants dans une démarche active et respectueuse de la transition ecologique : cette action collective permet à chacun de prendre conscience de son impact sur l’environnement et des leviers à sa disposition pour y remédier
 
 
-## 🎯 Les actions menées 
+## 🎯 Les actions menées
 
-1. Questionnaire élèves et adultes sur la restauration au quotidien. Objectif : savoir ce que mange chacun et surtout ce qui est jeté. [Lien questionnaire collégien] (https://docs.google.com/forms/d/1H_D2n2NLom9aHpiLM0MP1fDQjPgEiG_Q6YbvpJQBJDg/edit) - (380 réponses) 
+1. Questionnaire élèves et adultes sur la restauration au quotidien. Objectif : savoir ce que mange chacun et surtout ce qui est jeté. [Lien questionnaire collégien] (https://docs.google.com/forms/d/1H_D2n2NLom9aHpiLM0MP1fDQjPgEiG_Q6YbvpJQBJDg/edit) - (380 réponses)
 
 <img width="400" alt="Rest'0 stat 1" src="https://user-images.githubusercontent.com/36134318/78232277-4bb0fb00-74d4-11ea-8643-942c8c599b08.png">
 
@@ -91,7 +91,7 @@ RÉSULTATS et bénéfices identifiés par les 2 établissements :
 
 7. Mobilisation des éco-délégués et sensibilisation comme “ambassadeurs” de la démarche : [lien entretien](https://docs.google.com/document/d/12maaeGKN27xswOKyn_ASqH4mTlZsfZIOy0owxrfVoSw/edit)
 
-8. L'idée d’investigation des applis de gestion de flux et de réservation de menu en amont a été abandonnée, i.e., tous les jours, le parents ou enfants consultent le menu, indiquent sa présence ou non afin de pouvoir quantité, suivre les données affluence et faire une prédiction quant à la masse de collecte... 
+8. L'idée d’investigation des applis de gestion de flux et de réservation de menu en amont a été abandonnée, i.e., tous les jours, le parents ou enfants consultent le menu, indiquent sa présence ou non afin de pouvoir quantité, suivre les données affluence et faire une prédiction quant à la masse de collecte...
 
 **ABANDON de cette idée d'appli numerique de gestion de flux et commandes pour plusieurs raisons :**
 - pas la priorité des parents
@@ -103,7 +103,7 @@ RÉSULTATS et bénéfices identifiés par les 2 établissements :
 
 
 
-## 📑 Docs et ressources 
+## 📑 Docs et ressources
 
 - __Synthèse en cours de rédaction__
 
@@ -115,11 +115,11 @@ RÉSULTATS et bénéfices identifiés par les 2 établissements :
 - Poursuite des échanges avec les enseignants afin d’inclure le volet pédagogique
 - Chiffrage des scenarii de solutions : plans architecture et logistique de la nouvelle organisation du self dans 1 collège du département
 - Elaboration plan d’actions si 6 collèges du département entreprennent la même organisation logistique
-- Rédaction d’un kit de sensibilisation multi-acteurs (collectivités, personnels des cuisines, équipe pédagogique) afin de les inclure dans la démarche 
+- Rédaction d’un kit de sensibilisation multi-acteurs (collectivités, personnels des cuisines, équipe pédagogique) afin de les inclure dans la démarche
 - Consolidation des constats et apprentissages
 - Recherche partenariats, porteurs et porteuses projets, recherche de financement interne au département dans un premier temps
 - si tests et impacts vérifiés, déploiement outil au niveau national ?
 
 
 
-📬 NOUS CONTACTER : [jennifer.stephan@beta.gouv.fr](mailto:jennifer.stephan@beta.gouv.fr?subject=Resto); en cc : preincubation@beta.gouv.fr
+📬 NOUS CONTACTER : [jennifer.stephan@beta.gouv.fr](mailto:jennifer.stephan@beta.gouv.fr?subject=Resto); en cc : incubateur@anct.gouv.fr

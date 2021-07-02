@@ -2,7 +2,7 @@
 title: Coûts simplifiés
 mission: Simplifier la gestion des aides européennes par les entreprises
 owner: Région Hauts-de-France
-incubator: anct 
+incubator: anct
 phases:
   - name: investigation
     start: 2020-04-01
@@ -10,10 +10,10 @@ phases:
   - name: alumni
     start: 2020-07-08
 link:
-repository: 
-stats: false 
-stats_url: 
-contact: preincubation@beta.gouv.fr
+repository:
+stats: false
+stats_url:
+contact: incubateur@anct.gouv.fr
 ---
 
 ## Problème visé
@@ -34,11 +34,11 @@ années à venir ?
 Difficultés pour les usagers de fournir l’exhaustivité des pièces, nombreux allers-retours avec les
 services régionaux, délais de paiement allongés.
 
-## Hypothèses de solution 
+## Hypothèses de solution
 Propositions de dispositifs techniques spécifiques pour mettre en place ces OCS au sein de la région Hauts-de-France
 
 ## Suite pour l'équipe
 Sujet administratif qui sera poussé en interne.
 
-## Territoire d'expérimentation 
+## Territoire d'expérimentation
 Région Hauts-de-France

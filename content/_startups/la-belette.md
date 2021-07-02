@@ -2,7 +2,7 @@
 title: La Belette
 mission: Savoir qui fait quoi à la Région
 owner: Région Hauts-de-France
-incubator: anct 
+incubator: anct
 phases:
   - name: investigation
     start: 2020-04-01
@@ -10,10 +10,10 @@ phases:
   - name: construction
     start: 2021-03-01
 link:
-repository: 
-stats: false 
-stats_url: 
-contact: preincubation@beta.gouv.fr
+repository:
+stats: false
+stats_url:
+contact: incubateur@anct.gouv.fr
 ---
 
 ## Problème visé
@@ -26,10 +26,10 @@ Le numéro vert de la région (5 agent.e.s) reçoit en moyenne 8000 appels par m
 - ils ne savent pas vers qui rediriger l’usager ou à qui s’adresser pour avoir une réponse ;
 - leur appel reste sans réponse, renvoyé de poste en poste.
 
-En conséquence, les usagers sont ballotés de service en service, leurs demandes sont traitées en retard voire pas traitées, ils sont régulièrement furieux ou paniqués. 
+En conséquence, les usagers sont ballotés de service en service, leurs demandes sont traitées en retard voire pas traitées, ils sont régulièrement furieux ou paniqués.
 Les agent.e.s perdent du temps à trouver le bon interlocuteur en interne.
 
-## Hypothèses de solution 
+## Hypothèses de solution
 Plusieurs hypothèses de solution ont été testées :
 - S'appuyer sur les assistant.e.s de direction comme points d'entrée : jugé ingérable par les intéressé.e.s en plus de leurs missions régulières.
 - Cartographier les missions de chaque agent.e et fournir un moteur de recherche en interne. Nous avons diffusé un questionnaire de test dans plusieurs missions ou direction pour tenter de rassembler l'information, avec des taux de remplissage insuffisants (20% en moyenne). D'autres pistes sont envisagées (entretiens annuels, demande aux managers etc.). Nous avons fait tester une maquette d'une page de résultats de cet annuaire qui a suscité beaucoup d'intérêt.
@@ -41,5 +41,5 @@ Suite à l'expérimentation, la Région envisage de mettre en place une solution
 
 Celle piste de solution implique toujours de choisir le bon niveau de contact à fournir et de rassembler l'information traitable de manière automatisée.
 
-## Territoire d'expérimentation 
+## Territoire d'expérimentation
 Région Hauts-de-France
