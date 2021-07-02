@@ -3,11 +3,22 @@ title: Fiche Commune Entreprise (FCE)
 mission: Un portail pour faciliter l’accès aux  informations disponibles sur les
   entreprises et les échanges entre les agents publics
 owner: Ministère des affaires sociales / Direccte / Dreets Occitanie
+sponsors: []
 incubator: sgmas
 link: https://fce.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/fce
 contact: chloe.mandelblat@dreets.gouv.fr
 stats: true
+phases:
+  - name: acceleration
+    start: 2018-10-01
+    end: 2019-01-15
+  - name: construction
+    start: 2019-01-15
+    end: 2020-06-19
+  - name: acceleration
+    start: 2020-07-01
+    end: 2021-12-17
 ---
 ## Contexte
 
