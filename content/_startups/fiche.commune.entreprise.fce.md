@@ -18,7 +18,7 @@ phases:
     end: 2021-12-17
   - name: acceleration
     start: 2020-07-01
-    end: 2021-12-17
+    end: 2022-12-16
 ---
 ## Contexte
 
