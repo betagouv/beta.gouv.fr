@@ -20,8 +20,6 @@ phases:
     start: 2020-07-01
     end: 2021-12-17
 ---
-![]()
-
 ## Contexte
 
 9000 agents des Dreets et Ddets(pp) interviennent auprès des 4 millions d'entreprises et 11 millions d'établissements.
