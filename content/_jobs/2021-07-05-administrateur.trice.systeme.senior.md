@@ -40,7 +40,7 @@ BETA existants ou à venir.
 * Catégorie A (cadre)
 * À pourvoir dès que possible
 * Localisation : 20 avenue de Ségur - 75 007 Paris
-* Télétravail possible jusqu'à 2 jours/semaine
+* Télétravail possible
 
 ## Comment postuler ?
 
