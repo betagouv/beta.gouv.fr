@@ -1,5 +1,5 @@
 ---
-title: Ideaule
+title: EnvErgo
 mission: Améliorer la transparence des décisions de l'État sur la Loi sur l'Eau
 owner: Direction générale de l'aménagement, du logement et de la nature (DGALN)
 sponsors:
@@ -37,7 +37,7 @@ L’Etat publie ses décisions administratives environnementales prises au titre
 
 Le public (association, usagers, socio-professionnels, collectivités) concerné par ces projets ne peut pas bénéficier d’une telle vision partagée. Cette situation engendre : 
 
-* une connaissance peu mobilisable, qui coûte en temps à ré-utiliser ou reproduire à chaque nouveau projet 
+* une connaissance peu mobilisable, qui coûte en temps à ré-utiliser ou reproduire à chaque nouveau projet
 * une difficulté à connaître et accéder dans le temps aux actes, et à leur contenu.
 
 

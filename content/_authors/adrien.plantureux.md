@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: MTE
 startups:
-  - ideaule
+  - envergo
 competences:
   - Administration Publique
 ---

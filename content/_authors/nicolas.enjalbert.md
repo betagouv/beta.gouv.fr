@@ -12,6 +12,6 @@ competences:
   - Coaching
 role: Coach investigation & construction produit
 startups:
-  - ideaule
+  - envergo
 ---
 Designer de services & coach produit, fan de visualisation de données, engagé bénévole pour un design plus responsable
