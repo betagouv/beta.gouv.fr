@@ -13,6 +13,10 @@ phases:
     start: 2019-06-15
   - name: construction
     start: 2019-06-15
+  - name: acceleration
+    start: 2020-11-03
+  - name: transfer
+    start: 2021-07-01
 link: https://medle.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/medle
 stats: false
@@ -20,8 +24,7 @@ contact: contact.medle@fabrique.social.gouv.fr
 techno:
   - Next.js
   - React
-  - BootstrapL
-  - Knex
+  - Rest API
   - PostgreSQL
   - Docker
 ---
@@ -116,3 +119,11 @@ Ce premier MVP remplacera l'outil existant, permettant une continuité de la con
 ### Juin 2020 : Déploiement au niveau des 47 structures hospitalières y compris lʼUMJ majeurs et mineurs de lʼHôtel-Dieu.
 
 A terme, déploiement à lʼensemble du réseau de proximité et aux IML de lʼIRCGN et de Paris avec lʼaccord du ministère de lʼintérieur.
+
+## Il était une conclusion : Medlé en transfert (ou consolidation) 🚀
+
+Après 2 ans d'investigation, de construction et d'accélération au sein de [la Fabrique numérique des Ministères Sociaux](https://www.fabrique.social.gouv.fr/), Medlé s'annonce être un véritable succès : 46 établissements inscrits (sur 47, l'Hôtel-Dieu étant un cas particulier), 250.000 actes au compteur et plusieurs dizaines de feedbacks utilisateurs permettant d'améliorer le produit et confirmant sa grande utilité au quotidien.
+
+Medlé est donc passé depuis le 1er juillet 2021 en phase de transfert auprès de la Sous-Direction des Projets Services Numériques de la DNUM des Ministères Sociaux.
+
+
