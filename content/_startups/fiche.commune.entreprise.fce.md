@@ -1,7 +1,6 @@
 ---
 title: Fiche Commune Entreprise (FCE)
-mission: Un portail pour faciliter l’accès aux  informations disponibles sur les
-  entreprises et les échanges entre les agents publics
+mission: Un portail pour faciliter l’accès aux  informations disponibles sur les entreprises et les échanges entre les agents publics
 owner: Ministère des affaires sociales / Direccte / Dreets Occitanie
 sponsors: []
 incubator: sgmas
@@ -38,18 +37,15 @@ C’est encore trop souvent le chef d’entreprise qui informe un agent de la Di
 Le manque d'accès et de partage d'informations sur les actions menées auprès des entreprises ont des conséquences :
 
 **1 -  Pour les agents** 
-
 * Perte de temps et d’efficacité dans la préparation des interventions
 * Perte de temps dans la restitution des actions menées
 * Allocations d’aides inadéquates
 
 **2 - Pour les entreprises**
-
 * Sur-contrôles / contrôles non coordonnés
 * Actions parfois contradictoires
 
 **3 - Pour l'action publique**
-
 * Une image dégradée auprès des entreprises
 
 ## Solution
@@ -81,7 +77,6 @@ Restituer à un décideur (Préfet, Ministre….), en un minimum de temps, une f
 Mieux connues à priori par l'administration, les entreprises ont une vision d’une administration mieux intégrée et donc plus performante. Elles bénéficient directement de cette meilleure utilisation collective des informations par le biais de contrôles ou d’interventions adaptés à leur situation et à leurs relations avec l’administration.
 
 ## Stratégie
-
 * marketing du produit (logo, slogan, landing page, nouvelles pages)
 * tutos vidéos
 * kit de communication
