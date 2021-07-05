@@ -10,6 +10,8 @@ missions:
     status: independent
 badges:
   - segur
+startups:
+    - mon-entreprise
 ---
 
 Développeur / UX lover / creative coder
