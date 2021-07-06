@@ -8,7 +8,7 @@ sponsors:
     domaine_ministeriel: territoires
     type: administration-centrale
 incubator: mtes
-repository: https://github.com/MTES-MCT/action-bidonvilles
+repository: https://github.com/MTES-MCT/resorption-bidonvilles
 contact: contact@resorption-bidonvilles.beta.gouv.fr
 stats_url: https://resorption-bidonvilles.beta.gouv.fr/#/statistiques-publiques
 link: http://resorption-bidonvilles.beta.gouv.fr/
