@@ -19,7 +19,7 @@ Comment peut-on accompagner le développement économique des structures inclusi
 
 ## Rôle
 
-- Basculer un fork de Cocorico vers une architecture Django
+- Basculer un fork de Cocorico (sous Symfony 3.4) vers une architecture Django
 - Développer les nouvelles fonctionnalités
 - Maintenir et améliorer l'existant
 - Déployer et monitorer l'application
@@ -29,7 +29,7 @@ Comment peut-on accompagner le développement économique des structures inclusi
 
 ## Stack
 
-- Back : Django 3.1, Python 3.7, PostgreSQL 11, PostGIS, Redis
+- Back : Django 3.2, Python 3.9, PostgreSQL 12, PostGIS, Redis
 - Front : Bootstrap 4, JavaScript, jQuery (Vue.js sera privilégié en cas de gros besoins côté client)
 - Ops : Docker Compose, PaaS Clever Cloud
 - Stats : Metabase
