@@ -14,4 +14,4 @@ badges:
   - segur
 ---
 
-Certains jongles avec des couteaux aiguisés, moi je jongle avec les données des déchets dangereux. J'organise aussi des bals folks à Rennes et ses alentours.
+Certains jonglent avec des couteaux aiguisés, moi je jongle avec les données des déchets dangereux. J'organise aussi des bals folks à Rennes et ses alentours.
