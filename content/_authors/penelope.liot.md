@@ -9,8 +9,9 @@ missions:
     status: independent
     employer: Numa
 startups:
-  - mon-entreprise
   - territoires-en-transitions
+previously:
+  - mon-entreprise
 competences:
   - Coaching
 ---
