@@ -7,6 +7,8 @@ missions:
     end: 2021-09-17
     status: service
     employer: beta gouv
+startups:
+  - pass-emploi
 badges:
   - segur
 ---
