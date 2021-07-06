@@ -63,7 +63,7 @@ Vous travaillerez au sein d'une équipe composée de plus de 20 personnes : int
 L'équipe est dispersée à travers la France, et travaille principalement à distance (standup quotidien en visioconférence).
 
 - Charge : 4/5e
-- Durée : 6 mois renouvelables
+- Durée : 4 mois (renouvelables)
 - Début souhaité : septembre
 - Contrat : freelance
 
