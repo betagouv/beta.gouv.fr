@@ -15,7 +15,7 @@ Faire croître les embauches dans le secteur de l'inclusion implique donc de sou
 
 Comment peut-on accompagner le développement économique des structures inclusives et lever les freins à l'acte d'achat inclusif ?
 
-[lemarche.inclusion.beta.gouv.fr](https://lemarche.inclusion.beta.gouv.fr/fr/) a pour mission de promouvoir l'offre commerciale des structures inclusives pour accroître leur capacité d'embauche.
+[lemarche.inclusion.beta.gouv.fr](https://lemarche.inclusion.beta.gouv.fr/fr/) a pour mission de promouvoir l'offre commerciale des structures inclusives pour accroître leur capacité d'embauche. À cette fin elle développe un moteur de recherche et un répertoire exhaustif et qualifié des structures inclusives, ainsi qu'une API en plein développement mettant ces mêmes données à disposition de ses partenaires.
 
 ## Rôle
 
@@ -49,16 +49,16 @@ Comment peut-on accompagner le développement économique des structures inclusi
 
 ## Profil recherché
 
-- Bonne expérience en Django
-- Maîtrise du développement web
-- Maîtrise des API REST
+- Bonne expérience en Python et Django
+- Maîtrise du développement web et de ses contraintes
+- Maîtrise des API REST et des meilleures pratiques
 - Capable d'intervenir côté front-end et côté back-end
 - Connaissance de SQL
 - Bon relationnel et capacité de vulgarisation
 
 ## Environnement de travail
 
-Vous travaillerez au sein d'une équipe composée de plus de 20 personnes : intrapreneurs, développeurs, *business developers*, équipe support, équipe communication, *designers* UX/UI et *coachs*.
+Vous travaillerez au sein d'une équipe (ITOU) composée de plus de 20 personnes : intrapreneurs, développeurs, *business developers*, équipe support, équipe communication, *designers* UX/UI et *coachs*.
 
 L'équipe est dispersée à travers la France, et travaille principalement à distance (standup quotidien en visioconférence).
 
