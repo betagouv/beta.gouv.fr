@@ -2,7 +2,7 @@
 title: REVA
 mission: Faciliter l'obtention d'un diplôme en Validation des Acquis d'Expérience (VAE)
 owner: Ministère du Travail, de l'Emploi et de l'Insertion
-incubator: mission-apprentissage
+incubator: sgmas
 contact: olivier.gerard@beta.gouv.fr
 events: []
 phases:
