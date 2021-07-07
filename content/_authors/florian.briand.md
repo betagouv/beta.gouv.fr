@@ -1,6 +1,6 @@
 ---
 fullname: Florian Briand
-role: Coach/Développeur
+role: Coach / Développeur / PO
 domaine: Coaching
 github: nabellaleen
 missions:
