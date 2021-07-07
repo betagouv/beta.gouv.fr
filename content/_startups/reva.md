@@ -33,4 +33,4 @@ REVA porte l’ambition de développer et fluidifier l’accès à la VAE et d�
 
 L’objectif de ce nouveau portail sera de lever les irritants, d’assurer une mise en visibilité des compétences tout au long de la vie au service de la sécurisation des parcours, mais également d’apporter une transparence de la mesure de l’efficience du nouveau dispositif.
 
-Il est conçu comme une offre de service complète permettant la convergence, au sein d’un système dédié, des attentes du candidat vis-à-vis de son parcours et de celles des certificateurs. La plateforme numérique rend possible une véritable logique de parcours pour le candidat et facilite la gestion de cette voie d’accès à la certification pour le certificateur.
+Il est conçu comme une offre de service complète permettant la convergence, au sein d’un système dédié, des attentes du candidat vis-à-vis de son parcours et de celles des parties prenantes. La plateforme numérique rend possible une véritable logique de parcours pour le candidat et facilite la gestion de cette voie d’accès à la certification.
