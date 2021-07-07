@@ -5,7 +5,7 @@ domaine: Déploiement
 github: Johan1983
 missions:
   - start: 2017-09-27
-    end: 2021-06-30
+    end: 2020-09-30
     status: admin
     employer: CNAM
 startups:
