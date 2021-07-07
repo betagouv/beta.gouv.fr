@@ -10,6 +10,7 @@ missions:
     employer: Liberté Living Lab
 startups:
   - justif
+  - reva
 ---
 
 Bioinformaticien devenu dev fullstack et récemment nocodeur, j'adore mettre à disposition mes compétences au service de projets qui ont du sens !
