@@ -2,7 +2,7 @@
 
 title: L'Atelier Numérique du Ministère de la Culture 
 owner: Ministère de la Culture 
-logo: logo_culture.jpeg
+logo: logo_culture.png
 website:
 github:
 contact: mailto:ateliernumerique@culture.gouv.fr
