@@ -5,6 +5,8 @@ domaine: Design
 link: https://www.resport.fr
 github: dmassiani
 startups:
+  - reva
+previously:
   - avril 
 missions:
   - start: 2021-06-17
