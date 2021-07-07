@@ -4,14 +4,14 @@ title: La formation Alpha
 permalink: /approche/formation
   
 # Dates de la prochaine formation
-alpha-start: 2021-07-15
-alpha-end: 2021-07-15
+alpha-start: 2021-09-09
+alpha-end: 2021-09-09
 alpha-time: de 9h15 à 17h30
 alpha-location: en visio
 alpha-location-link:
 alpha-catering:
 alpha-more:
-alpha-link: https://startupdetat.typeform.com/to/IfBS5p4e
+alpha-link: https://startupdetat.typeform.com/to/NPeLzMvE
 redirect_from:
   - /alpha
 ---
@@ -48,11 +48,11 @@ ______ Fin à 17h30  _______
 
 **Prochaine session**
 
-La session du 17 juin est complète !
+La session du 15 juillet est complète !
 
-La prochaine session aura lieu le **jeudi 15 juillet 2021**.
+La prochaine session aura lieu le **jeudi 9 septembre 2021**.
 
-Vous pouvez vous inscrire [via ce formulaire](https://startupdetat.typeform.com/to/IfBS5p4e).
+Vous pouvez vous inscrire [via ce formulaire](https://startupdetat.typeform.com/to/NPeLzMvE).
 
 Pour plus d’information écrivez-nous à alpha@beta.gouv.fr.
 
