@@ -9,7 +9,9 @@ missions:
     end: 2021-12-31
     status: admin
 startups:
-  - avril 
+  - reva
+previously:
+  - avril
 ---
 
 Pas de badges, pas de chocolat
