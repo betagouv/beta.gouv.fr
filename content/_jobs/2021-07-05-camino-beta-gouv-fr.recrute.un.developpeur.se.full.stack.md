@@ -66,4 +66,4 @@ L’équipe est dispersée à travers la France, et travaille principalement à 
 
 ## Postuler
 
-Pour postuler, envoie-nous un petit message à tristan.robert@developpement-durable.gouv.fr, joeffrey.arruyer@teamground.fr avec un lien vers ton site perso, Linkedin, Malt ou équivalent en nous expliquant ce qui te motive à bosser sur le développement de CAMINO !
+Pour postuler, envoie-nous un petit message à tristan.robert@developpement-durable.gouv.fr, joeffrey@teamground.fr avec un lien vers ton site perso, Linkedin, Malt ou équivalent en nous expliquant ce qui te motive à bosser sur le développement de CAMINO !
