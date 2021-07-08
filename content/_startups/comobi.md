@@ -1,7 +1,7 @@
 ---
 title: CoMobi (anciennement Lotocar)
 mission: Permettre aux personnes isolées de se déplacer sur les territoires peu denses grâce au covoiturage solidaire
-owner: anct
+owner: l'Incubateur des Territoires
 sponsors:
     - name: Agence pour la transition ecologique
       acronym: ADEME
