@@ -44,7 +44,7 @@ Intégré.e à l’équipe transverse et en collaboration étroite avec la charg
 
 
 # COMMENT ENVOYER VOTRE CANDIDATURE ?
-Si la mission vous intéresse, envoyez-nous votre candidature à l’adresse suivante : julianne.lagadec@beta.gouv.fr
+Si la mission vous intéresse, envoyez-nous votre candidature à l’adresse suivante : contact@apprentissage.beta.gouv.fr
 
 Quelques lignes dans le corps du mail suffisent à exprimer votre motivation. Ajoutez votre CV ou le lien vers votre compte Linkedin, et tout ce que vous souhaitez nous communiquer qui nous permettra de mieux vous connaître.
 
