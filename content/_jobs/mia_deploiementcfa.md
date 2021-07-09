@@ -40,7 +40,7 @@ Intégré.e à l’équipe transverse et en collaboration étroite avec la charg
 - Télétravail 100%. Si la situation sanitaire le permet, participation aux journées de regroupement de l’équipe. 
 - Temps complet mais des aménagements se discutent.
 - Démarrage dès que possible.
-- La mission peut prendre la forme d’un CDD ou d’une mise à disposition contre remboursement (cas d’un agent public) ou de facturation pour un entrepreneur indépendant. 
+- La mission peut prendre la forme de facturation pour un entrepreneur indépendant ou d’une mise à disposition contre remboursement (cas d’un agent public) 
 
 
 # COMMENT ENVOYER VOTRE CANDIDATURE ?
