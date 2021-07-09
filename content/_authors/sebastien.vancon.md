@@ -1,5 +1,5 @@
 ---
-fullname: sébastien vançon
+fullname: Sébastien Vançon
 role: Intrapreneur
 domaine: Intraprenariat
 missions:
