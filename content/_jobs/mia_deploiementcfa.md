@@ -30,6 +30,7 @@ Intégré à l’équipe transverse et en collaboration étroite avec la chargé
 * De Sirius, qui vise restituer des avis d’apprentis sur leur formation, pour appuyer la mobilisation des CFA dans le recueil de témoignages ;
 * De Matcha, qui donne la possibilité aux CFA d’être mandataires d’entreprises pour la recherche d’alternants, pour diffuser et populariser le recours à l’outil.
 
+
 **Nos attentes**
 
 * Vous êtes une personne intéressé.e par l’enjeu du développement de l’apprentissage et par accompagner l’écosystème apprentissage dans ses transformations.
@@ -37,6 +38,7 @@ Intégré à l’équipe transverse et en collaboration étroite avec la chargé
 * Vous savez gérer des interactions multiples avec des interlocuteurs variés, vous êtes une personne ayant une bonne capacité de vulgarisation, à l’aise dans la communication orale et écrite.
 * Vous êtes autonome, méthodique et rigoureux, vous savez faire preuve d’initiative et tenir des engagements.
 * Vous avez l’esprit ouvert. C’est en constatant l’impact de votre engagement que vous vous épanouissez professionnellement !
+
 
 **Environnement de travail**
 
@@ -49,7 +51,7 @@ Intégré à l’équipe transverse et en collaboration étroite avec la chargé
 
 **COMMENT ENVOYER VOTRE CANDIDATURE ?**
 
-Si la mission vous intéresse, envoyez-nous votre candidature à l’adresse suivante : mailto:guillaume.houzel@igesr.gouv.fr 
+Si la mission vous intéresse, envoyez-nous votre candidature à l’adresse suivante : guillaume.houzel@igesr.gouv.fr 
 
 Quelques lignes dans le corps du mail suffisent à exprimer votre motivation. Ajoutez votre CV ou le lien vers votre compte Linkedin, et tout ce que vous souhaitez nous communiquer qui nous permettra de mieux vous connaître.
 
