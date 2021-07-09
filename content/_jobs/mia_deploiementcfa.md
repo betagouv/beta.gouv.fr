@@ -15,32 +15,32 @@ startup: ""
 
 ## Rôle
 Les services construits par la mission sont en cours de déploiement et certains intéressent particulièrement les CFA. Nous recherchons immédiatement un.e chargé.e de déploiement des produits auprès des CFA qui aura pour mission de :
-* Accompagner les CFA pour faciliter la mise en place des services proposés par la mission ;
-* Entretenir des contacts bilatéraux réguliers avec des CFA pour recueillir leurs besoins et problématiques ;
-* Communiquer sur les produits et leurs avancées auprès des CFA ;
-* Participer à animer le réseau des CFA autour des actualités des services proposés, en lien avec les têtes de réseaux de CFA.
+- Accompagner les CFA pour faciliter la mise en place des services proposés par la mission ;
+- Entretenir des contacts bilatéraux réguliers avec des CFA pour recueillir leurs besoins et problématiques ;
+- Communiquer sur les produits et leurs avancées auprès des CFA ;
+- Participer à animer le réseau des CFA autour des actualités des services proposés, en lien avec les têtes de réseaux de CFA.
 
 Intégré.e à l’équipe transverse et en collaboration étroite avec la chargée des relations publiques de la mission, vous serez particulièrement amené.e à travailler en lien avec les équipes :
-* Du Tableau de bord de l’apprentissage, pour soutenir le branchement des CFA à cet outil, qui collecte dans les systèmes de gestion des CFA certaines données pour améliorer l’accompagnement des jeunes, le pilotage de l’apprentissage et simplifier certaines démarches administratives ;
-* De RDV Apprentissage, qui est un service de mise en relation des jeunes candidats avec les CFA. Vous serez en charge de la promotion du service auprès des CFA pour les amener à l’utiliser ;
-* De Sirius, qui vise restituer des avis d’apprentis sur leur formation, pour appuyer la mobilisation des CFA dans le recueil de témoignages ;
-* De Matcha, qui donne la possibilité aux CFA d’être mandataires d’entreprises pour la recherche d’alternants, pour diffuser et populariser le recours à l’outil.
+- Du Tableau de bord de l’apprentissage, pour soutenir le branchement des CFA à cet outil, qui collecte dans les systèmes de gestion des CFA certaines données pour améliorer l’accompagnement des jeunes, le pilotage de l’apprentissage et simplifier certaines démarches administratives ;
+- De RDV Apprentissage, qui est un service de mise en relation des jeunes candidats avec les CFA. Vous serez en charge de la promotion du service auprès des CFA pour les amener à l’utiliser ;
+- De Sirius, qui vise restituer des avis d’apprentis sur leur formation, pour appuyer la mobilisation des CFA dans le recueil de témoignages ;
+- De Matcha, qui donne la possibilité aux CFA d’être mandataires d’entreprises pour la recherche d’alternants, pour diffuser et populariser le recours à l’outil.
 
 
 ## Nos attentes
-* Vous êtes une personne intéressé.e par l’enjeu du développement de l’apprentissage et par accompagner l’écosystème apprentissage dans ses transformations.
-* Vous avez le contact facile, une ténacité à toute épreuve et vous savez convaincre vos interlocuteurs. 
-* Vous savez gérer des interactions multiples avec des interlocuteurs variés, vous êtes une personne ayant une bonne capacité de vulgarisation, à l’aise dans la communication orale et écrite.
-* Vous êtes autonome, méthodique et rigoureux, vous savez faire preuve d’initiative et tenir des engagements.
-* Vous avez l’esprit ouvert. C’est en constatant l’impact de votre engagement que vous vous épanouissez professionnellement !
+- Vous êtes une personne intéressé.e par l’enjeu du développement de l’apprentissage et par accompagner l’écosystème apprentissage dans ses transformations.
+- Vous avez le contact facile, une ténacité à toute épreuve et vous savez convaincre vos interlocuteurs. 
+- Vous savez gérer des interactions multiples avec des interlocuteurs variés, vous êtes une personne ayant une bonne capacité de vulgarisation, à l’aise dans la communication orale et écrite.
+- Vous êtes autonome, méthodique et rigoureux, vous savez faire preuve d’initiative et tenir des engagements.
+- Vous avez l’esprit ouvert. C’est en constatant l’impact de votre engagement que vous vous épanouissez professionnellement !
 
 
 ## Environnement de travail
-* Environnement et communauté [beta.gouv](https://beta.gouv.fr/)
-* Télétravail 100%. Si la situation sanitaire le permet, participation aux journées de regroupement de l’équipe. 
-* Temps complet mais des aménagements se discutent.
-* Démarrage dès que possible.
-* La mission peut prendre la forme d’un CDD ou d’une mise à disposition contre remboursement (cas d’un agent public) ou de facturation pour un entrepreneur indépendant. 
+- Environnement et communauté [beta.gouv](https://beta.gouv.fr/)
+- Télétravail 100%. Si la situation sanitaire le permet, participation aux journées de regroupement de l’équipe. 
+- Temps complet mais des aménagements se discutent.
+- Démarrage dès que possible.
+- La mission peut prendre la forme d’un CDD ou d’une mise à disposition contre remboursement (cas d’un agent public) ou de facturation pour un entrepreneur indépendant. 
 
 
 # COMMENT ENVOYER VOTRE CANDIDATURE ?
