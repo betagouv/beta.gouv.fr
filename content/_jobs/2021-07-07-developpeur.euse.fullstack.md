@@ -1,6 +1,6 @@
 ---
 roles: développeur·euse fullstack
-open: true
+open: false
 date: 2021-07-07T17:09:48.507Z
 startup: zero-logement-vacant
 ---
