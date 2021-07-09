@@ -5,7 +5,7 @@ domaine: Autre
 github : SoumiaAHLOUCH
 missions:
   - start: 2021-02-08
-    end: 2021-07-30
+    end: 2021-08-10
     status: independent
     employer: Octo
 startups:
