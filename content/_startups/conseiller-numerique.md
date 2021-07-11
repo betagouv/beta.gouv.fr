@@ -11,6 +11,8 @@ incubator: anct
 phases:
   - name: construction
     start: 2020-11-01
+  - name: acceleration
+    start: 2021-01-01
 link: https://www.conseiller-numerique.gouv.fr
 repository: https://github.com/anct-cnum
 stats: false
