@@ -5,7 +5,7 @@ domaine: Coaching
 github: nabellaleen
 missions:
   - start: 2021-04-14
-    end: 2021-07-30
+    end: 2021-12-31
     status: service
     employer: Liberté Living Lab
 startups:
