@@ -5,6 +5,7 @@ mission: Diminuer les rendez-vous non-honorés des personnes placées sous main 
 owner: Tribunal de Nanterre et le service pénitentiaire d'insertion et de
   probation du 92
 incubator: dinum
+repository: https://github.com/betagouv/mon-suivi-justice
 contact: felicie.callipel@justice.fr
 events:
   - name: product_launch
