@@ -1,12 +1,12 @@
 ---
 roles: Chargé‧e de déploiement junior
 startup: locatio
-open: false
+open: true
 ---
 Afin de soutenir sa phase d’accélération et de répondre à ses objectifs de croissance utilisateurs pour 2021, la startup d’État DossierFacile recrute un‧e chargé‧e de déploiement.
 
-**Statut, durée et date de début** : stage de mininum 3 mois à temps plein ou alternance, démarrage dès que possible\
-**Localisation** : En télétravail avec des réunions à La Défense (ateliers, réunions hebdo)
+**Statut, durée et date de début** : stage de mininum 3 mois à temps plein ou alternance, démarrage en septembre 2021\
+**Localisation** : En télétravail et à La Défense (1 à 2 fois par semaine)
 
 Tu souhaites découvrir comment l’Etat et le service public se transforment, et tu veux jouer un rôle actif dans cette transformation ? Tu veux découvrir l'entrepreneuriat et tu as une fibre service public ? Dans ce cas, DossierFacile est fait pour toi.
 
@@ -23,16 +23,17 @@ _Poste ouvert le 16/02/2021_
 
 Aucune qualification particulière n’est nécessaire, seulement de l’efficacité et beaucoup d’organisation, de l’audace et de la motivation.\
 Les chargé‧e‧s de déploiement stagiaires sont amené‧e‧s à :
-- Participer au fonctionnement opérationnel de la plateforme (suivi des dossiers des utilisateurs)
+- Participer au fonctionnement opérationnel de la plateforme (suivi des dossiers des utilisateurs et du support)
+- Participer aux phases de test du produit (recette opérationnelle)
 - Animer et élargir la communauté de partenaires
 - Définir des priorités stratégiques avec le chef de produit
 - Participer aux évènements de la communauté beta.gouv.fr
 - Produire du contenu pour le site
 
-**Statut** : Idéalement, stage ou alternance, mais d’autres statuts peuvent être envisagés au cas par cas.\
-**Modalités de travail** : Le rythme de travail est un temps plein pour un stagiaire ou à mi-temps pour une alternance, le télétravail est la norme mais une présence ponctuelle dans les locaux à La Défense est souhaitable lors d’ateliers et/ou réunions (test utilisateur, démonstration, rétrospective et planification). L’équipe suit une méthode agile avec des phases de retours fréquents de ses utilisateurs finaux.\
-**Dates souhaitées** : Date de début — Dès que possible
+**Statut** : Stage ou alternance.\
+**Modalités de travail** : Le rythme de travail est un temps plein pour un stagiaire ou à mi-temps pour une alternance, le télétravail est la norme mais une présence ponctuelle dans les locaux à La Défense est souhaitable lors d’ateliers et/ou réunions (réunion hebdo de l'équipe des chargés de déploiement, test utilisateur, démonstration, rétrospective et planification). L’équipe suit une méthode agile avec des phases de retours fréquents de ses utilisateurs finaux.\
+**Dates souhaitées** : Date de début — Septembre 2021
 
 # Comment postuler ?
-Pour candidater, pas besoin de lettre de motivation : envoyez-nous votre candidature à <a href="mailto:olivier@dossierfacile.fr">olivier@dossierfacile.fr</a>  en mettant en copie arthur@dossierfacile.fr avec votre motivation en quelques lignes dans le corps du texte, votre CV et tout ce que vous souhaitez nous communiquer qui nous permettrait de mieux vous connaître !\
+Pour candidater, pas besoin de lettre de motivation : envoyez-nous votre candidature à <a href="mailto:arthur@dossierfacile.fr">arthur@dossierfacile.fr</a> avec votre motivation en quelques lignes dans le corps du texte, votre CV et tout ce que vous souhaitez nous communiquer qui nous permettrait de mieux vous connaître !\
 Si vous avez des questions avant de postuler, n’hésitez pas à nous écrire !
