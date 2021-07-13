@@ -1,7 +1,7 @@
 ---
-fullname: sylvie ANTONIOLI
-role: expert métier champ de l'insertion 
+fullname: Sylvie ANTONIOLI
 domaine: Autre
+role: experte métier champ de l'insertion
 github: sylvieantonioli
 missions:
   - start: 2021-07-05
@@ -10,5 +10,6 @@ missions:
     employer: OCTO
 startups:
   - dora
+competences:
+  - Administration Publique
 ---
-
