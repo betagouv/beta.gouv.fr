@@ -1,6 +1,6 @@
 ---
 title: "SPARTE"
-mission: 'Faciliter la mise en oeuvre du "Zéro Artificialisation Nette"'
+mission: 'Faciliter la mise en oeuvre du Zéro Artificialisation Nette'
 owner: "Direction générale de l'aménagement, du logement et de la nature (DGALN)"
 incubator: mtes
 contact: ines.dartiguenave@beta.gouv.fr
