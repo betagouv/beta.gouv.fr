@@ -1,7 +1,8 @@
 ---
 fullname: Agathe Latreille
-domaine: Déploiement
-role: Chargée de développement
+domaine: Intraprenariat
+role: Product Manager
+github: Agathe-SW
 missions:
   - start: 2016-11-01
     end: 2019-12-26
@@ -22,4 +23,4 @@ competences:
   - Communication
   - Administration Publique
 ---
-(trop?) enthousiaste , (trop?) curieuse, Nerd dans l’âme, portée par l’envie de relever des défis.
+Tech enthousiaste, je m'exprime principalement en Gif et en Meme. Portée par la collaboration, la solidarité et la bienveillance.
