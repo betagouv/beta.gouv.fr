@@ -1,12 +1,15 @@
 ---
 fullname: Gaspard Granger
-role: Intrapreneur
 domaine: Intraprenariat
-missions: 
+role: Intrapreneur
+missions:
   - start: 2019-11-20
-    end: 2021-06-30 
+    end: 2021-12-31
     status: admin
     employer: DGITM
-startups: 
-    - mobilic
+startups:
+  - mobilic
+competences:
+  - Gestion de Produit
+  - Administration Publique
 ---
