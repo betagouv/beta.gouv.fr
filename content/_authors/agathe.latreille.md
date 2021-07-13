@@ -22,4 +22,4 @@ competences:
   - Communication
   - Administration Publique
 ---
-(trop?) enthousiaste , (trop?) curieuse, Nerd dans l’âme, portée par l’envie de relever des défis.
+Tech enthousiaste, je m'exprime principalement en Gif et en Meme. Portée par la collaboration, la solidarité et la bienveillance.
