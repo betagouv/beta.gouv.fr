@@ -1,7 +1,8 @@
 ---
 fullname: Agathe Latreille
-domaine: Déploiement
-role: Chargée de développement
+domaine: Intraprenariat
+role: Product Manager
+github: Agathe-SW
 missions:
   - start: 2016-11-01
     end: 2019-12-26
