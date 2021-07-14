@@ -1,18 +1,18 @@
 ---
-roles: Développeur·se fullstack
+roles: Développeur ou développeuse fullstack
 startup: mobilic
 open: true
 ---
 
-**_La start-up d’Etat Mobilic qui vise à lutter contre le travail illégal dans le transport routier recrute un·e développeur·se fullstack !_**
+**_La start-up d’Etat Mobilic qui vise à lutter contre le travail illégal dans le transport routier recrute un développeur ou une développeuse fullstack !_**
 
 # 👋 Qui sommes-nous ?
 
 [Mobilic](https://mobilic.beta.gouv.fr) est une Start-up d’État, accélérée par La Fabrique Numérique, l’Incubateur du Ministère de la Transition écologique.
  
-**Notre mission** : simplifier l’enregistrement et le suivi du temps de travail des travailleurs mobiles, les salarié.es du secteur des transports qui conduisent ou sont accompagnants sur des véhicules utilitaires légers (du van à la petite camionnette).
+**Notre mission** : simplifier l’enregistrement et le suivi du temps de travail des travailleurs mobiles, les salariés et salariées du secteur des transports qui conduisent ou sont accompagnants sur des véhicules utilitaires légers (du van à la petite camionnette).
  
-**Pourquoi ?** Aujourd’hui le respect de la réglementation, et donc du droit du travail de ces travailleurs, est assuré par un dispositif papier, le Livret Individuel de Contrôle (LIC). Or, ce dispositif se révèle inadapté et peu utilisé (appelé le “petit menteur”), rendant très difficile la lutte contre la fraude, très importante dans ce secteur hautement concurrentiel.
+**Pourquoi ?** Aujourd’hui le respect de la réglementation, et donc du droit du travail de ces travailleurs, est assuré par un dispositif papier, le Livret Individuel de Contrôle (LIC). Or, ce dispositif se révèle inadapté et peu utilisé (appelé le « petit menteur »), rendant très difficile la lutte contre la fraude, très importante dans ce secteur hautement concurrentiel.
  
 Ce qui a un impact sur : 
  
@@ -29,9 +29,9 @@ Ce qui a un impact sur :
 
 # 🎯 Rôle et mission
 
-En tant que développeur·se full-stack de l’équipe Mobilic tes missions seront d’une part les responsabilités usuelles attachées à ce rôle :
+En tant que développeur ou développeuse full-stack de l’équipe Mobilic tes missions seront d’une part les responsabilités usuelles attachées à ce rôle :
 
-* Développer les différentes interfaces, de saisie des temps pour les salarié·e·s,  de suivi pour les entreprises et de contrôle pour l’administration
+* Développer les différentes interfaces, de saisie des temps pour les salariés et salariées, de suivi pour les entreprises et de contrôle pour l’administration
 * Développer l’API qui communique avec les outils précédents, mais qui a aussi vocation à être utilisée par des acteurs externes
 * Maintenir la documentation publique de l’API
 * Accompagner les acteurs externes dans la prise en main et la connexion à l’API
@@ -54,7 +54,7 @@ mais aussi d’autre part des responsabilités quant aux orientations stratégiq
 * React sur la partie front
 * Python (Flask, SQLAlchemy) pour le back
 * PostgreSQL
-* Autres : Scalingo (hébergement), CircleCI (CI), Github, Metabase, ...
+* Autres : Scalingo (hébergement), CircleCI (CI), Github, Metabase, …
 
 **Compétences attendues :**
 
@@ -68,7 +68,7 @@ mais aussi d’autre part des responsabilités quant aux orientations stratégiq
 
 # 📃 Modalités
 
-Tu rejoins une petite équipe constituée de 1 intrapreneur, 1 coach, 1 chargée de déploiement et 1 autre développeur·se full-stack.
+Tu rejoins une petite équipe constituée de 1 intrapreneur, 1 coach, 1 chargée de déploiement et 1 autre développeur full-stack.
 
 L’équipe est basée à Paris, mais le télétravail est bien évidemment possible.
 
