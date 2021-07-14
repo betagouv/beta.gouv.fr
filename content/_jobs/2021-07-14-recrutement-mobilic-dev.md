@@ -21,7 +21,7 @@ Ce qui a un impact sur :
 * la concurrence déloyale ⚖️ : les entreprises non vertueuses ont un avantage comparatif déloyal par rapport aux autres, car leurs salariés sont amenés à travailler plus longtemps.
  
 
-** Comment ?**
+**Comment ?**
 
 * en permettant aux travailleurs mobiles d’enregistrer leur temps de travail directement depuis leur téléphone, de manière rapide et fiable
 * en améliorant la transparence sur le sujet du temps de travail dans ce secteur, en informant notamment mieux les employés de leurs droits, les employeurs de la réalité du travail et les clients des entreprises du respect des droits sociaux 
