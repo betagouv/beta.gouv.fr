@@ -12,7 +12,7 @@ missions:
     employer: DINUM
     start: 2021-01-04
     end: 2021-07-03
-  - status: independant
+  - status: independent
     employer: OCTO
     start: 2021-07-05
     end: 2021-10-31
