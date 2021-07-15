@@ -1,6 +1,6 @@
 ---
 fullname: Marie Briche
-role: Intrapreneuse
+role: Intrapreneuse Avril, Chargée de projet
 domaine: Intraprenariat
 missions:
   - start: 2017-05-01
