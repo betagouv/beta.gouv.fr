@@ -4,7 +4,7 @@ role: UX Designer
 domaine: Design
 missions:
   - start: 2021-05-27
-    end: 2021-06-30
+    end: 2021-12-31
     status: service
     employer: Benext
 startups: 
