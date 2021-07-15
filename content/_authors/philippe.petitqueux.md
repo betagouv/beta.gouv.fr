@@ -1,6 +1,6 @@
 ---
 fullname: PHILIPPE PETITQUEUX
-role: Chargé de déploiement
+role: Expert Open Badges, Chargé de déploiement
 domaine: Déploiement
 link: https://openbadgepassport.com/app/profile/4682
 github: misterppqx
