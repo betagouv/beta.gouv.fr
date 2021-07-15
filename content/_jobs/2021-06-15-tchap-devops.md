@@ -42,7 +42,7 @@ Tu pourras aussi si tu le souhaites t'investir à créer des outils utilisables 
 Tu justifies d'au moins 3 des compétences suivantes:
 
 * D’au moins 3 ans d’expérience dans le domaine de l'administration système ;
-* Tu sais automatiser et maintenir une infra sur Openshift ;
+* Tu sais automatiser et maintenir une infra sur Openstack ;
 * Une connaissance de gestion de base de données  ;
 * Une préférence pour des solutions simples et pragmatiques.. « [Le meilleur code n'est aucun code](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/) » ;
 * Une connaissance des méthodes de développement lean ;
