@@ -4,13 +4,13 @@ mission: Une première pierre pour ouvrir les données de recherche du patrimoin
 owner : Ministère de la Culture
 incubator: culture
 phases:
-  - name: investigation
+  - name: construction
     start: 2020-04-01
 link:
 repository:
 stats: false
 stats_url:
-contact: ateliernumerique@culture.gouv.fr
+contact: ateliernumerique.snum@culture.gouv.fr
 ---
 
 Dates de l'investigation : env 12 semaines à partir du 05/01/2021
