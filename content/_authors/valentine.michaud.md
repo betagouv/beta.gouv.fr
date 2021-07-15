@@ -12,10 +12,14 @@ missions:
     employer: DINUM
     start: 2021-01-04
     end: 2021-07-03
+  - status: independant
+    employer: OCTO
+    start: 2021-07-05
+    end: 2021-10-31
 startups:
-  - sante-psy-etudiant
 previously:
   - signalement
+  - sante-psy-etudiant
 badges:
   - segur
 ---
