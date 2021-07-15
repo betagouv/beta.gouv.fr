@@ -1,12 +1,12 @@
 ---
 fullname:  Céline ROLLAND 
-role: Stagiaire chargée de déploiement
+role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2021-01-18
     end: 2021-11-06
-    status: admin
-    employer: DGALN 
+    status: independent
+    employer: Octo 
 startups:
   - aides-territoires
 ---
