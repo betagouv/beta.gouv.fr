@@ -6,6 +6,7 @@ incubator: culture
 phases:
   - name: investigation
     start: 2020-09-14
+    end: 2021-02-01
 link:
 repository:
 stats: false
