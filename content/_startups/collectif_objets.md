@@ -19,7 +19,7 @@ contact: collectifobjets@beta.gouv.fr
 Conservateur des monuments historiques
 
 # Derrière Collectif Objets, le constat d'un patrimoine en déperdition
----
+
 
 Les **260000 objets monuments historiques** constituent le patrimoine mobilier national dispersé chez un grand nombre de propriétaires (une commune sur deux soit 15000 propriétaires environ).
 
@@ -37,7 +37,7 @@ Compte tenu de la dispersion des propriétaires, **seulement 15% des 52000 à r�
 
 
 # Un travail fastidieux : des connaissances terrain éparses, des effectifs restreints et un manque d'outils et de données
----
+
 
 **75 jours** : c’est le temps théorique qui serait nécessaire pour atteindre les objectifs de 50 récolements par an dans le département, soit 85% du temps disponible d’un CAOA (toutes missions confondues : protection, sécurisation, restauration, valorisation...)
 
@@ -77,17 +77,17 @@ Concrètement, le dispositif est pensé comme un dyptique composé :
 ![interface questions](https://user-images.githubusercontent.com/81323006/116864925-f2505980-ac08-11eb-92ca-25b2ebcb7a37.png). 
 
 # Lancement d'une phase de test sur une panel de 50 propriétaires en Haute-Marne !
----
+
 
 ## Objectifs
----
+
 À partir d’avril 2021, la phase de construction a un **double objectif** :
 
 1. Tester la méthode sur un panel de 50 propriétaires avec un **objectif minimum de 60% de répondants** et **90% de leurs objets récolés** sur un territoire test en Haute-Marne
 2. Engager un **panel de conservateurs dans la co-construction** d’outils d’aide à la prise de décisions basés sur les données collectées auprès des propriétaires.
 
 ## Moyens
----
+
 Des outils no-code, de l'huile de coude, et d'un contact rapproché avec les concernés !   
   
 D'ailleurs, nous prévoyons ensuite d'élargir la phase de test à 10 départements, n'hésitez pas à nous contacter pour faire partie de la suite de l'aventure, soumettre des suggestions ou juste pour être tenus au courant de la suite du projet.
