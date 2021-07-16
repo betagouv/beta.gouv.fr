@@ -2,6 +2,7 @@
 fullname: Paquita FRANCES
 domaine: Animation
 role: Chargée de développement  VAE et Open Badges
+link: https://www.linkedin.com/in/paquita-frances-48a19b33
 missions:
   - start: 2021-07-01
     end: 2021-10-31
