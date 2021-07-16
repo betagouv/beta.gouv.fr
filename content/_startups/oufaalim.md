@@ -9,9 +9,6 @@ phases:
     start: 2021-03-12
     end: 2021-06-04
 ---
-Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
-
 ## Contexte
 
 La crise a mis en lumière l'importance de l'aide alimentaire, le besoin de moyens matériel et humain, le manque de coordination des différents acteurs qui œuvre à la lutte contre la précarité alimentaire.
@@ -37,8 +34,6 @@ De nombreux problèmes ont été identifiés sur le terrain :
 \-L'identification des financements, appels à projet et ressources utiles aux associations
 
 Ces problèmes rendent sous-efficaces la lutte contre la précarité alimentaire : les acteurs perdent beaucoup de temps, passent à côté de nombreux dons et n'ont pas forcément le temps de se consacrer à un accompagnement de qualité qui viendrait complémenter la distribution de denrées auprès de personnes dans le besoin ( accès aux droits, insertion...). En outre, de nombreuses personnes ne bénéficient pas de l'aide alimentaire car cette aide est stigmatisante et non adaptée à leurs besoins.
-
-
 
 ## Solution
 
