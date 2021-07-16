@@ -44,4 +44,4 @@ un nombre croissant d’immersions réalisées en année pleine.
 une baisse significative du délai de validation
 une baisse significative du délai de démarrage d’une immersion
 une baisse significative du taux d’annulation ante immersion
-L’intégration systématique du bilan d’une immersion dans le dossier du bénéficiaire
+l’intégration systématique du bilan d’une immersion dans le dossier du bénéficiaire
