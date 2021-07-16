@@ -5,7 +5,7 @@ github: nenj
 link: https://www.linkedin.com/in/nicolas-enjalbert/
 missions:
   - start: 2021-04-08
-    end: 2021-08-06
+    end: 2021-11-06
     status: independent
     employer: NUMA
 competences:
