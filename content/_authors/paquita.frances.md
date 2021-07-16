@@ -13,4 +13,4 @@ badges:
 competences:
   - Communication
 ---
-Expertise Emploi Formation dans des entreprises françaises et américaines , jury VAE au CNAM,
+Expertise Emploi / Formation dans des entreprises françaises et américaines , jury VAE au CNAM
