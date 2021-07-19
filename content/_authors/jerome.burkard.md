@@ -8,6 +8,8 @@ missions:
     end: 2021-12-31
     status: independent
     employer: La fabrique pôle emploi
+startups:
+    - l-immersion-facile
 ---
 
 Développeur typescript
