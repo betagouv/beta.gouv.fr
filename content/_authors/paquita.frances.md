@@ -1,6 +1,7 @@
 ---
 fullname: Paquita FRANCES
 domaine: Animation
+github: Paquitaf
 role: Chargée de développement  VAE et Open Badges
 link: https://www.linkedin.com/in/paquita-frances-48a19b33
 missions:
