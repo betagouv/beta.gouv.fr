@@ -8,7 +8,7 @@ link: https://fce.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/fce
 contact: chloe.mandelblat@dreets.gouv.fr
 stats: true
-stats_url: https://infogram.com/indicateurs-1h0n250kv01l4pe?live
+stats_url: https://fce.fabrique.social.gouv.fr/statistics
 phases:
   - name: investigation
     start: 2018-10-01
