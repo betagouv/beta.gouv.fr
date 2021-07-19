@@ -11,7 +11,7 @@ incubator: sgmas
 contact: pass.emploi@beta.gouv.fr
 phases:
   - name: investigation
-    start: 2021-06-9
+    start: 2021-06-09
     end: 2021-09-30
 ---
 
