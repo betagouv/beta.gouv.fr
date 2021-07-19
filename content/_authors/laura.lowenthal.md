@@ -1,7 +1,7 @@
 ---
 fullname: Laura Lowenthal
-role: Coordinateur Google.org
-domaine: Développement
+role: Coordinatrice
+domaine: Autre
 github: laulowen
 missions:
   - start: 2021-07-16
@@ -9,4 +9,4 @@ missions:
     status: independent
 ---
 
-Software Engineer et Manager avec Google.org
+Software Engineer et Manager pour Google.org
