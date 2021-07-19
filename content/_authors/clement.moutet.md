@@ -8,6 +8,8 @@ missions:
     end: 2021-12-31
     status: service
     employer: Google
+startups:
+  - l-immersion-facile
 ---
 
 Ingénieur commercial spécialisé dans la donnée
