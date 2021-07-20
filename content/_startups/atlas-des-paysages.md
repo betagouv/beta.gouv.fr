@@ -6,9 +6,11 @@ owner: DGALN
 incubator: mtes
 contact: emilie.fleury-jagerschmidt@developpement-durable.gouv.fr
 phases:
-  - name: alumni
+  - name: investigation
     start: 2020-12-01
     end: 2021-04-30
+  - name: alumni
+    start: 2021-04-30
 ---
 
 
