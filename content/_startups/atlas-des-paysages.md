@@ -23,7 +23,6 @@ L'investigation s'est déroulée en 2 phases :
 * par nature incomplète, elle nécessite toujours un travail de contextualisation par des experts à l’échelle de chaque projet.
 
 Conclusions :
-
 * bien que très imparfaits, les outils disponibles semblent adresser les attentes de leurs principaux utilisateurs. Leur modernisation fera l'objet d'un autre parcours d'accompagnement (hors beta.gouv) ;
 * si les outils de la connaissance ne présentent pas d'irritants adressables dans le cadre de la création d'un service public numérique, nous avons décidé d'élargir le spectre de l'investigation à la **prise en compte des paysages** dans les projets d'aménagement du territoire dans la seconde phase de l'investigation.
 
@@ -38,7 +37,6 @@ Conclusions :
 
 
 Conclusions :
-
 * Il n'apparaît pas pertinent de développer un nouveau service numérique ;
 * Il existe déjà des outils existants et identifiés à enrichir de la connaissance des paysages mais qui ne relèvent pas de la mobilisation de beta.gouv.
 
