@@ -1,19 +1,15 @@
 ---
-roles: "Responsable de déploiement/Animation de La communauté de l'Inclusion "
+roles: Responsable de déploiement/Animation de La communauté de l'Inclusion
+title: Le marché de l'inclusion recrute un ou une responsable de déploiement/animation de La communauté de l'Inclusion
 open: true
 junior: true
 date: 2021-07-16T09:01:13.746Z
+contrat: indépendant
+contact: tech@inclusion.beta.gouv.fr
+startup: place-de-marche-inclusion
 ---
  
-
- 
-
 # Responsable de déploiement/Animation de La communauté de l'Inclusion 
-
- 
-
- 
-
 ## Qui sommes-nous : Beta ? 
 
 beta.gouv.fr aide les ministères et autres partenaires publics à construire des services numériques simples, faciles à utiliser, à l’impact maximal.
@@ -24,13 +20,13 @@ Nous formons des équipes pluridisciplinaires constituées de personnes engagée
 
  
 
-## Le projet : 
+## Le projet
 
 La communauté de l’inclusion est un ensemble de professionnels qui se retrouvent sur un forum ou lors de rencontres, afin de partager des bonnes pratiques, des outils, des questionnements  pour mobiliser les leviers d’accompagnement les plus adaptés pour leurs publics. 
 
  
 
-## Missions et objectifs (non exhaustifs): 
+## Missions et objectifs (non exhaustifs)
 
 **Permettre d’apporter des réponses aux questions posées et/ou problématiques rencontrées. La communauté de l’inclusion facilite les échanges dans un but d’entraide afin que les professionnels de l’inclusion activent les bons leviers d’accompagnement pour leurs publics.**
 
@@ -52,7 +48,7 @@ La communauté de l’inclusion est un ensemble de professionnels qui se retrouv
 
  
 
-## Qualités recherchées: 
+## Qualités recherchées
 
 * Autonomie et capacité d’adaptation
 * Bonne capacité de communication et de travail en équipe
@@ -63,7 +59,7 @@ La communauté de l’inclusion est un ensemble de professionnels qui se retrouv
 
  
 
-## Expériences appréciées : 
+## Expériences appréciées
 
 * Expérience de Community Manager / Animation de communauté
 * Expérience dans un environnement changeant rapidement 
@@ -74,6 +70,6 @@ Poste ouvert pour un·e indépendant·e ; 4/5e en remote (télétravail 100%) ;
 
 Date de début : 30 août 
 
-## Candidater:
+## Candidater
 
 Explique-nous pourquoi tu as envie de nous rejoindre et envoie-nous ton CV via : <https://itou.typeform.com/to/rAiQuX1z>
