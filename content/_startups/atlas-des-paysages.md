@@ -35,6 +35,8 @@ Conclusions :
 * Dans les cas où le paysage n’est pas ou peu pris en compte, les freins identifiés par les personnes enquêtées sont : le manque de contrainte juridique, le défaut de connaissance, la non priorisation du paysage,  le besoin d’accompagnement ;
 * Tous s’accordent sur la prise en compte du paysage qui intervient lorsqu’il y a un impact sur la qualité du cadre de vie. L’accès à la connaissance des paysages et sa communication demeurent un attendu.
 
+
+
 Conclusions :
 
 * Il n'apparaît pas pertinent de développer un nouveau service numérique ;
