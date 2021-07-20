@@ -5,7 +5,6 @@ open: true
 junior: true
 date: 2021-07-16T09:01:13.746Z
 contrat: indépendant
-contact: tech@inclusion.beta.gouv.fr
 startup: place-de-marche-inclusion
 ---
  
