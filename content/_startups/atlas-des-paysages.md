@@ -1,11 +1,12 @@
 ---
 title: Atlas des paysages
-mission: Systématiser la prise en compte des paysages dans les projets d'aménagement du territoire
+mission: Systématiser la prise en compte des paysages dans les projets
+  d'aménagement du territoire
 owner: DGALN
 incubator: mtes
 contact: emilie.fleury-jagerschmidt@developpement-durable.gouv.fr
 phases:
-  - name: investigation
+  - name: alumni
     start: 2020-12-01
     end: 2021-04-30
 ---
