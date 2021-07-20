@@ -4,8 +4,12 @@ mission: Assurer le meilleur service pour l'usager dans sa demande d'autorisatio
 owner: Ministère de la Culture
 incubator: culture
 phases:
+  - name : investigation
+    start : 2020-01-15
+    end : 2020-04-01
   - name: construction
     start: 2020-04-01
+
 link:
 repository:
 stats: false
