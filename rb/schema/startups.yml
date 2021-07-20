@@ -61,6 +61,8 @@ mapping:
               type:      str
   "phases":
     type:      seq
+    required:  yes
+    assert:    "val.length() > 0"
     sequence:
         - type:      map
           mapping:
@@ -84,6 +86,8 @@ mapping:
   "stats":
     type:      bool
   "stats_url":
+    type:      str
+  "budget_url":
     type:      str
   "contact":
     type:      str

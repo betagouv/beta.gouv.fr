@@ -17,7 +17,7 @@ missions:
     status: admin
     employer: dinum
   - start: 2021-01-04
-    end: 2021-06-30
+    end: 2021-12-30
     status: independent
 startups:
   - data.insertion

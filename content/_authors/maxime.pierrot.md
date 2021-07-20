@@ -5,7 +5,7 @@ domaine: Développement
 github: pierrax
 missions:
   - start: 2020-06-02
-    end: 2021-06-30
+    end: 2021-12-31
     status: independent
     employer: octo
 startups:

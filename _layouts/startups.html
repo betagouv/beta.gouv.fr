@@ -17,7 +17,7 @@ layout: default
             {% if screenshot_file %}
             {% assign screenshot_path = screenshot_file.path %}
             {% else %}
-            {% assign screenshot_path = "/img/logo-generique-startup-rectangle-2019.jpg" %}
+            {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
             {% endif %}
             {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
             {% assign incubator = incubators | where:'id', incubator_id | first %}
@@ -128,7 +128,7 @@ layout: default
 
             <div id="{{ phase.status }}" class="fr-container-fluid fr-my-6w">
                 {% if phase.status == 'success' %}
-                    <h1 class="phase-title">Nos <em><span class="phase-label">{{ phase.label | downcase }}</span></em></h1>
+                    <h1 class="phase-title">Nos <em><span class="phase-label">{{ phase.label | downcase }}s</span></em></h1>
                 {% elsif phase.status == 'alumni' %}
                     <h1 class="phase-title">Nos <em>{{ phase.label | downcase }}</em></h1>
                 {% else %}

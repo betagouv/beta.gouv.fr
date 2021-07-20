@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: pole-emploi
 avatar: /img/authors/julien.racine.jpg
-startups:
+previously:
     - memo
     - mobiville
 ---

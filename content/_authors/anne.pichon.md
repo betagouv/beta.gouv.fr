@@ -13,7 +13,7 @@ startups:
   - estime
   - itou
   - place-de-marche-inclusion
-  - investigation.offre.dinsertion
+  - dora
 previously:
   - la-bonne-boite
 competences:

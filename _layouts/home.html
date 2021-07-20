@@ -4,12 +4,12 @@ layout: default
 
 <!-- {% include hero-with-image.html title=page.summary image="/img/layouts/home/index.jpg" %} -->
 
-<section class="home-section-blue home-section-main" >
+<section class="section-blue section-main" >
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters fr-pt-6w">
       <div class="fr-col fr-col-12 fr-col-md-6">
         <h1>Construisons ensemble les services publics numériques de demain</h1>
-        <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary home-button-white" href="/approche">Découvrir le programme</a>
+        <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary button-white" href="/approche">Découvrir le programme</a>
       </div>
       <!-- <svg width="414" height="309" viewBox="0 0 414 309" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M395.112 1H19.1115C9.10879 1 1 5.68923 1 11.4737V297.471C1 303.256 9.10879 307.945 19.1115 307.945H395.112C405.115 307.945 413.224 303.256 413.224 297.471V11.4737C413.224 5.68923 405.115 1 395.112 1Z" stroke="#263238" stroke-linecap="round" stroke-linejoin="round"/>
@@ -28,10 +28,10 @@ layout: default
   <object data="/assets/home/heroanim/hand2-2.svg" id="hero-anim-hand-2"></object>
   <object data="/assets/home/heroanim/hand3-2.svg" id="hero-anim-hand-3"></object>
 </section>
-<section class="fr-py-6w home-section-product">
+<section class="fr-py-6w section-product">
   <div class="fr-container">
-    <h2 class="home-section-title">Des services à impact</h2>
-    <h4 class="home-section-description">conçus avec les administrations</h4>
+    <h2 class="section-title">Des services à impact</h2>
+    <h4 class="section-description">conçus pour tous, avec les administrations</h4>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center startups fr-pt-6w">
       {% assign startups = site.startups %}
       {% assign starts = "transport.data.gouv.fr,La Bonne Alternance,Pix,Mon-entreprise.fr" | split: ","  %}
@@ -40,9 +40,6 @@ layout: default
           {% if starts contains startup.title %}
             <div class="fr-col-12 fr-col-md-3">
               <div class="fr-card fr-enlarge-link" >
-                <div class="fr-card__img">
-                  {% include screenshot.html startup=startup force=true %}
-                </div>
                 <div class="fr-card__body">
                   <h4 class="fr-card__title">
                     <a class="fr-card__link" href="{{ startup.url }}" >{{ startup.title | strip_html }}</a>
@@ -50,6 +47,9 @@ layout: default
             
                   <p class="fr-card__detail">{{ startup.owner | strip_html }}</p>
                   <p class="fr-card__desc">{{ startup.mission | strip_html }}</p>
+                </div>
+                <div class="fr-card__img">
+                  {% include screenshot.html startup=startup force=true %}
                 </div>
               </div>
             </div>
@@ -61,17 +61,17 @@ layout: default
     </div>
   </div>
 </section>
-<section class="fr-py-6w home-section-blue">
+<section class="fr-py-6w section-blue">
 <div class="fr-container">
   <div class="fr-grid-row fr-grid-row--center">
     <div>
-      <h2 class="home-section-title">Faisons équipe</h2>
-      <h4 class="home-section-description">
+      <h2 class="section-title">Faisons équipe</h2>
+      <h4 class="section-description">
         Agent public, rejoignez une équipe<br>
-<span class="home-section-highlight">pluridisciplinaire</span>, <span class="home-section-highlight">engagée</span> au <span class="home-section-highlight">service de l’intérêt général</span>
+<span class="section-highlight">pluridisciplinaire</span>, <span class="section-highlight">engagée</span> au <span class="section-highlight">service de l’intérêt général</span>
       </h4>
       <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-py-6w">
-        <a class="fr-btn fr-btn--md home-button-white-border fr-btn--secondary fr-enlarge-link" href="/approche/intrapreneurs">Devenir intrapreneur</a>
+        <a class="fr-btn fr-btn--md button-white-border fr-btn--secondary fr-enlarge-link" href="/devenir-intrapreneur">Devenir intrapreneur</a>
       </div>
       <div class="fr-grid-row fr-grid-row--gutters startups">
         <div class="fr-col-12 fr-col-md-4">
@@ -118,7 +118,7 @@ layout: default
               </h3>
               <!-- <p class="fr-card__detail">{{ startup.owner | strip_html }}</p> -->
               <p class="fr-card__desc">
-                Aide à augmenter le nombre d’utilisatrices et utilisateurs satisfaits
+                Aide à augmenter le nombre d’utilisatrices et utilisateurs, puis veille à leur satisfaction
               </p>
             </div>
           </div>
@@ -178,27 +178,27 @@ layout: default
   </div>
 </div>
 </section>
-<section class="fr-py-6w home-section-principle">
+<section class="fr-py-6w section-principle">
   <div class="fr-container">
     <div class="centered">
-      <h2 class="home-section-title">Un programme :<br> <span style="color: #4941C0">3 principes</span></h2>
+      <h2 class="section-title">Un programme :<br> <span style="color: #4941C0">3 principes</span></h2>
     </div>
     <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups">
       <div class="fr-col-12 fr-col-md-4">
-        <object data="/assets/home/manifest.svg" class="home-section-principle-animation"></object>              
+        <object data="/assets/home/manifest.svg" class="section-principle-animation"></object>              
       </div>
       <div class="fr-py-6w fr-col-12 fr-col-md-8">
-        <p class="home-section-principle-list-item">
-          <span class="home-section-principle-list-item-number">1.</span>
-          <span class="home-section-principle-list-item-content">Les besoins des <b>utilisatrices et utilisateurs</b> sont toujours prioritaires.</span>
+        <p class="section-principle-list-item">
+          <span class="section-principle-list-item-number">1.</span>
+          <span class="section-principle-list-item-content">Les besoins des <b>utilisatrices et utilisateurs</b> sont toujours prioritaires.</span>
         </p>
-        <p class="home-section-principle-list-item">
-          <span class="home-section-principle-list-item-number">2.</span>
-          <span class="home-section-principle-list-item-content">Nous travaillons sans préjuger du résultat final. Seul l'<b>impact compte</b></span>.
+        <p class="section-principle-list-item">
+          <span class="section-principle-list-item-number">2.</span>
+          <span class="section-principle-list-item-content">Nous travaillons sans préjuger du résultat final. Seul l'<b>impact compte</b></span>.
         </p>
-        <p class="home-section-principle-list-item">
-          <span class="home-section-principle-list-item-number">3.</span>
-          <span class="home-section-principle-list-item-content">Nous faisons <b>confiance aux agents publics</b>, qui connaissent le terrain</span>.
+        <p class="section-principle-list-item">
+          <span class="section-principle-list-item-number">3.</span>
+          <span class="section-principle-list-item-content">Nous faisons <b>confiance aux agents publics</b>, qui connaissent le terrain</span>.
         </p>
         <a class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link" href="/approche/manifeste">Lire notre manifeste</a>
       </div>      
@@ -233,7 +233,7 @@ layout: default
   var hand3 = document.getElementById('hero-anim-hand-3');
   var herobg = document.getElementById('hero-anim-background');
   var teambg = document.getElementsByClassName('home-team-animation-background');
-  var teamcontainer = document.getElementsByClassName('home-section-blue')[1];
+  var teamcontainer = document.getElementsByClassName('section-blue')[1];
   window.addEventListener('scroll', function() {
     var value = window.scrollY
     var containerElement = teamcontainer.getBoundingClientRect()

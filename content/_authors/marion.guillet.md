@@ -5,7 +5,7 @@ domaine: Produit
 github: guilletmarion
 missions:
   - start: 2019-10-21
-    end: 2021-06-30
+    end: 2021-12-31
     status: admin
     employer: pole-emploi
 startups:

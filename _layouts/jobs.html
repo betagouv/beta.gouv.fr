@@ -8,10 +8,34 @@ layout: default
 
 <section class="fr-py-6w cards">
   <div class="fr-container">
-    {% assign jobs = site.jobs | where: "open", 'true' | reverse %}
-    {% for job in jobs %}
-      {% include card-job.html job=job %}
-    {% endfor %}
+    <div class="fr-grid-row fr-grid-row--gutters">
+      <div class="fr-col-md-9 fr-col-sm-12 fr-col-lg-9">
+        <div class="fr-grid-row">
+          {% assign jobs = site.jobs | where: "open", 'true' | reverse %}
+          {% for job in jobs %}
+            {% assign startup_id = job.startup %}
+            {% assign startup = site.startups | where: "title", startup_id | first %}
+            {% include card-job.html job=job startup=job.startup %}
+          {% endfor %}
+        </div>
+      </div>
+      <div class="fr-col-md-3 fr-col-lg-3 fr-col-sm-12">
+        <div class="fr-grid-row">
+          <div class="fr-card fr-card--no-arrow job-section-blue">
+            <div class="fr-card__body">  
+              <div class="job-team-animation-container">
+                <object data="/assets/home/intra_back.svg" class="job-team-animation-background"></object>    
+                <object data="/assets/home/intra.svg" class="job-team-animation-foreground"></object>
+              </div>   
+              <h3 class="fr-card__title">
+                Vous êtes agent public et vous souhaitez rejoindre beta.gouv.fr ?
+              </h3>
+              <a class="fr-btn fr-btn--sm fr-enlarge-link fr-btn--secondary button-white-border" href="/devenir-intrapreneur">Devenir intrapreneur(e)</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -22,7 +46,7 @@ layout: default
       {% assign jobs = site.jobs | where: "open", 'false' | reverse %}
       <ul>
     {% for job in jobs %}
-      {% capture startup_id %}/startups/{{ job.startup }}{% endcapture %}
+      {% assign startup_id = job.startup %}
       {% assign startup = site.startups | where: "id", startup_id | first %}
       <li><a href="{{ job.url }}">{% if job.friend %}{{ job.friend }}{% else %}{{ startup.title | default: "beta.gouv.fr"}}{% endif %} : {{ job.roles }}, le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></a></li>
     {% endfor %}

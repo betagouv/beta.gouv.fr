@@ -1,63 +1,77 @@
 ---
-title: Résorption bidonvilles
+title: Résorption-bidonvilles
 mission: Connaître, partager et agir pour résorber les bidonvilles
 owner: Délégation interministérielle à l'hébergement et à l'accès au logement (DIHAL)
-sponsors: 
-    - name: Délégation interministérielle à l'hébergement et à l'accès au logement
-      acronym: DIHAL
-      domaine_ministeriel: territoires
-      type: administration-centrale
+sponsors:
+  - name: Délégation interministérielle à l'hébergement et à l'accès au logement
+    acronym: DIHAL
+    domaine_ministeriel: territoires
+    type: administration-centrale
 incubator: mtes
+repository: https://github.com/MTES-MCT/resorption-bidonvilles
+contact: contact@resorption-bidonvilles.beta.gouv.fr
+stats_url: https://resorption-bidonvilles.beta.gouv.fr/#/statistiques-publiques
+link: http://resorption-bidonvilles.beta.gouv.fr/
+stats: true
 phases:
   - name: investigation
     start: 2018-10-01
+    end: 2018-12-31
   - name: construction
-    start: 2018-10-01
+    start: 2019-01-01
+    end: 2020-08-31
   - name: acceleration
-link: http://resorption-bidonvilles.beta.gouv.fr/
-repository: https://github.com/MTES-MCT/action-bidonvilles
-stats: true
-stats_url: https://resorption-bidonvilles.beta.gouv.fr/#/statistiques-publiques
-contact: contact@action-bidonvilles.beta.gouv.fr
+    start: 2020-09-01
+    end: 2021-06-13
 ---
+# **Le constat**
 
-## La situation actuelle des bidonvilles
+Près de **15 000 personnes** (dont environ 5 000 mineurs) originaires en majeure partie de Roumanie et de Bulgarie vivent dans près de **300 bidonvilles**. Pour parvenir à une résorption durable des bidonvilles les solutions sont connues : une action partenariale à l’échelle d’un territoire, une intervention sur tous les sites dès l’implantation, un accompagnement vers l’insertion des habitants dans le respect des lois de la République.
 
-Il existe aujourd’hui plus de 500 bidonvilles en France métropolitaine dans lesquels vivent entre 16 000 et 20 000 personnes, dont environ 5 000 mineurs. Ces chiffres restent stables depuis une vingtaine d’années.
+S’appuyant sur des expériences locales réussies à Strasbourg et Toulouse, le gouvernement a défini en 2018 un nouveau cadre d’action pour les préfets et fixé **un objectif clair de réduction durable du nombre de personnes vivant dans ces lieux de vie informels.** 
 
-Pour résorber ces bidonvilles, les territoires sont désormais incités par [l’instruction du 25 janvier 2018](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2018/06/circulaire_du_25_janvier_2018.pdf) à engager des stratégies multi-acteurs afin de dépasser l’approche centrée sur les évacuations et d’inscrire l’action publique dans une dimension plus large (programmes d’insertion en France, respect des lois de la République et du droit au séjour, actions de réinstallation dans le pays d’origine et coopération transnationale). L’enjeu principal de cette nouvelle stratégie est de mettre en place des actions d’accompagnement social et d’insertion : accès à l’hébergement et au logement, aux soins, à la scolarisation et à l’emploi.
+> *“Résorber, cela signifie agir sur tous les bidonvilles, en les encadrant et en travaillant le plus tôt possible à l’accompagnement des personnes vers la sortie, dans le but d’une résorption complète des campements”* [Instruction du Gouvernement du 25 janvier 2018](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2018/06/circulaire_du_25_janvier_2018.pdf)
 
-Cependant, ces actions ne sont aujourd’hui déployées que sur une partie des bidonvilles : certains sont exempts de toute intervention, d’autres font l’objet de solutions de court-terme ne permettant pas une résorption durable des sites.
+L’approche est globale. Il s’agit de couvrir l’ensemble des problématiques se posant dans les bidonvilles : l’accès aux droits, la scolarisation, l’insertion sociale, l’emploi mais aussi le respect de l’ordre public, la régularité du séjour, la protection de l’enfance ou la réinsertion dans le pays d’origine…
 
-Cela s’explique en grande partie par la multiplicité des acteurs et la difficulté de les mobiliser ainsi que par le manque d’informations partagées sur les bidonvilles et sur les résultats des actions menées. Au regard de ces éléments et de la rapidité avec laquelle les situations évoluent, les territoires ne sont aujourd’hui pas en mesure de connaître avec précision où sont les bidonvilles et quelles actions y sont menées. Savoir ce qui marche et ce qui ne marche pas, renforcer l'observation et l'information, consolider le pilotage aux niveaux national et local, cela permettra d’agir plus et mieux.
+**Un changement de paradigme** qui nécessite un appui technique renforcé aux territoires, une coordination entre de nombreux acteurs et un suivi plus soutenu sur l'efficacité des actions et leur performance. 
 
-## La mission de Résorption Bidonvilles : partager l’information pour favoriser la mise en place d’interventions pertinentes
+# La plateforme *Résorption-bidonvilles* pour accélérer la résorption des bidonvilles
 
-L’objectif est de créer une plateforme de partage d’informations (localisation et situation des bidonvilles, type et lieux d’actions menées par site, acteurs concernés) entre les différentes parties prenantes (préfectures, DDCS, opérateurs) afin de permettre la mise en place d’un accompagnement pertinent.
+La plateforme *Résorption-bidonvilles* est un outil d’information, de partage et de pilotage. Elle s’adresse à tous les partenaires de terrain concernés : les services de l’État, les Direction Départementale de l'Emploi, du Travail et des Solidarités (DDETS), les collectivités territoriales et les opérateurs. 
 
-Le partage d’informations mises à jour régulièrement permettra :
-- d’identifier quel acteur agit aujourd’hui sur quel bidonville et de quelle manière, afin d’améliorer la pertinence et le ciblage des actions à mener par chacun ;
-- d’avoir une vision consolidée des bidonvilles ne faisant l’objet d’aucune intervention aujourd’hui, et pour lesquels des actions doivent donc être engagées ;
-- d’essaimer les actions qui fonctionnent sur d’autres territoires.
+**Elle répond aux enjeux de l’ensemble des parties prenantes concernées par la résorption des bidonvilles :**
 
-La vision à long-terme du projet est de permettre de mobiliser l’ensemble des acteurs susceptibles d’intervenir sur le sujet : collectivités, associations bénévoles, citoyens.
+* un suivi opérationnel facilité et simplifié pour les responsables publics
+* une coordination renforcée entre les acteurs de la résorption
+* une meilleure visibilité des actions et de leurs insuffisances éventuelles
+* la création de nouvelles synergies et des arguments pour mobiliser de nouveaux partenaires
+* un renforcement de l'efficacité du pilotage aux niveaux national et local des actions de résorption
 
-## Déploiement
+# Des fonctionnalités opérationnelles pour agir
 
-### Toulouse et Bordeaux
+La plateforme *Résorption-bidonvilles* **permet aux usagers de renseigner, de suivre et de valoriser les actions conduites sur les bidonvilles.** 
 
-Résorption bidonvilles est actuellement déployée en Haute-Garonne et en Gironde. Ces territoires ont été choisis car ils sont représentatifs des enjeux liés aux bidonvilles au niveau national, en termes :
-- d’acteurs impliqués : services de l’Etat, collectivités, associations ;
-- de types de sites : immeubles et terrains ;
-- de solutions mobilisées : évacuations avec accompagnement des personnes dans le logement, accompagnement sur site, service civique, médiation sanitaire.
+Ses fonctionnalités se structurent autour de 3 volets :
 
-Après un mois d'utilisation, les résultats sont les suivants :
-- 100% des sites sur les territoires expérimentaux sont rentrés et suivis via Résorption bidonvilles : 39 sites en Haute-Garonne et 135 en Gironde ;
-- La plateforme est utilisée lors des réunions de suivi en Haute-Garonne : 23 créations de sites, 32 modifications, 2 déclarations de fermeture ;
-- 11 demandes spontanées d'accès à la plateforme ont été formulées dont plusieurs associations, démontrant un intérêt réel pour la plateforme dans les territoires.
+* un volet pour **suivre les sites** : cartographie des implantations ; information de l’installation, la disparition, la résorption ou l’évacuation d’un site et ses caractéristiques (nombre de personnes, origines, conditions de vie telles que l’accès à l’eau, l’évacuation des déchets…). 
+* un volet pour **suivre, coordonner et piloter les actions de résorption** : utilisation et analyse des données pour chaque action de résorption ; suivi et pilotage des actions de résorption conduite sur un site ; partage des constats dans le journal du site dans une action multi-partenariale ; suivi des actions des opérateurs intervenant auprès des habitants.
+* un volet pour **valoriser les actions mises en œuvre** : échange avec le réseau de partenaires du territoire ou avec des pairs pour le partage de bonnes pratiques ; exportation des données ; édition de bilans.
 
-### Déploiement national
+# L’évolution de la plateforme et ses perspectives
 
-L'objectif est désormais de déployer la plateforme Résorption bidonvilles sur l'ensemble des territoires concernés par la présences de bidonvilles (40 départements en France métropolitaine) en s'appuyant sur les correspondants territoriaux de la Dihal.
+Après avoir été expérimentée sur deux territoires expérimentaux la Haute-Garonne et la Gironde, la plateforme *Résorption-bidonvilles* a été **déployée sur l’ensemble du territoire national en juin 2019**. Elle compte au mois de mai 2021 **289 structures** pour **610 personnes utilisatrices** et a pour objectif d’atteindre les 1000 usagers fin 2023.
 
-Nous travaillons également au développement d'une nouvelle partie de la plateforme permettant de suivre précisément les différentes actions sociales menées sur les bidonvilles afin de soutenir les territoires dans la mise en place de stratégies globales de résorption des bidonvilles.
+Elle est incubée au sein de la Fabrique numérique du ministère de la Transition écologique à l’automne 2019. Un an plus tard, lauréate du  [Fonds de transformation de l’action publique (FTAP)](https://www.gouvernement.fr/la-plateforme-resorption-bidonvilles-laureate-du-fonds-de-transformation-de-l-action-publique-2020),  la plateforme entre dans sa phase d’accélération. L’enveloppe d'un million d’euros servira concrètement à poursuivre son développement avec **une stratégie de déploiement qui vise la création d’une véritable dynamique collaborative, au sein d’un territoire**, entre les acteurs engagés vers l’objectif de résorption, en s'appuyant sur les correspondants territoriaux de la Dihal. 
+
+Portée par la Dihal, l’objectif à long terme est de **faire de la plateforme *Résorption-bidonvilles* l’outil métier de référence de cette politique publique pour accélérer la résorption des bidonvilles** avec l’ensemble des partenaires concernés.
+
+# En savoir plus
+
+Inscrivez-vous à l’une de nos formations de la plateforme *Résorption-bidonvilles* : [2 sessions par semaine](https://app.evalandgo.com/s/index.php?a=JTk2cCU5N2slOUElQjA=&id=JTk4ayU5QW4lOTYlQUY=)
+
+Contactez-nous : [contact@resorption-bidonvilles.beta.gouv.fr](mailto:contact@resorption-bidonvilles.beta.gouv.fr) 
+
+
+
+*Dernière mise à jour : 23 juin 2021*

@@ -5,7 +5,7 @@ domaine: Développement
 link: https://www.linkedin.com/in/sandra-chakroun
 missions:
   - employer: octo
-    end: 2021-07-01
+    end: 2021-10-15
     start: 2017-05-10
     status: independent
 startups:

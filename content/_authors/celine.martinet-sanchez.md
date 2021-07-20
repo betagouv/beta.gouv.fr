@@ -15,7 +15,7 @@ missions:
     employer: octo
 startups:
   - itou
-  - le.forum.de.linclusion
+  - la.communaute.de.linclusion
 previously:
   - la-bonne-boite
 ---

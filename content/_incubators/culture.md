@@ -2,10 +2,10 @@
 
 title: L'Atelier Numérique du Ministère de la Culture 
 owner: Ministère de la Culture 
-logo: logo_culture.jpeg
+logo: logo_culture.png
 website:
 github:
-contact: mailto:ateliernumerique@culture.gouv.fr
+contact: mailto:ateliernumerique.snum@culture.gouv.fr
 address: 182 rue Saint-Honoré, Paris 1e
 
 ---
@@ -14,4 +14,4 @@ Lancé en septembre 2020, l'Atelier Numérique est l’incubateur du ministère 
 
 *Lancement du premier appel à candidatures*
 
-Dans le cadre du mois de l'innovation publique, l'Atelier Numérique a lancé, le 2 novembre 2020, son premier appel à intrapreneurs pour permettre à tous les agents de participer à l'amélioriation des services publics rendus aux usagers du ministère de la Culture. Les lauréats ont été annoncés fin novembre et les investigations sur les projets retenus ont débuté en janvier 2021.
+Dans le cadre du mois de l'innovation publique, l'Atelier Numérique a lancé, le 2 novembre 2020, son premier appel à intrapreneurs pour permettre à tous les agents de participer à l'amélioriation des services publics rendus aux usagers du ministère de la Culture. Les lauréats ont été annoncés fin novembre et les investigations sur les projets retenus ont débuté en janvier 2021. Cinq produits sont actuellement en cours de construction.

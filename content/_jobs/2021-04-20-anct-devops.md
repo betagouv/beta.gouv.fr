@@ -7,7 +7,7 @@ equipe: Incubateur des Territoires
 type: friend
 contact: jonathan.pichot@anct.gouv.fr
 contrat: indépendent
-open: true
+open: false
 ---
 
 ## Qui sommes-nous : L'Incubateur des Territoires

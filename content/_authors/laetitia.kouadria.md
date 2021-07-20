@@ -11,4 +11,4 @@ startups:
   - carnet.de.bord
 ---
 
-Digital maker passionnée toujours à la recherche d'une belle innovation social pour l'aider à maximiser son impact positif sur la société!
+Digital maker passionnée toujours à la recherche d'une belle innovation sociale pour l'aider à maximiser son impact positif sur la société!
