@@ -23,6 +23,7 @@ Après plus d'une soixantaine de produits lancés comme par exemple [le simulate
 
 Nos **coachs**, **intrapreneurs**, **développeurs** et **business développeurs**, toutes et tous membres de la [communauté beta.gouv.fr](/communaute), ont donc décidé de vous partager leurs expériences à travers ce mooc et de vous présenter la méthode "Startup d’Etat" pour vous aider à agir au sein de votre administration.
 
-Tout au long cette formation en ligne, vous pourrez [remplir une fiche produit](/content/docs/mooc/FicheProduitMooc.odt) et nous l'adresser pour proposer votre idée.
-
 La formation est composée de 6 séquences dont une introduction et comporte 23 vidéos. Aucun pré-requis n'est nécessaire.
+
+Vous avez identifié un problème et souhaitez discuter de l'opportunité de l'investiguer au sein du réseau Beta.gouv ? Contactez-nous à l'adresse email **contact@beta.gouv.fr** et nous vous orienterons vers le bon interlocuteur. 
+
