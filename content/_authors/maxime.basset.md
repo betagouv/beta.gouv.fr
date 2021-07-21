@@ -9,7 +9,7 @@ missions:
     status: service	 
     employer: NUMA	
   - start: 2017-09-01
-    end: 2021-06-30 
+    end: 2021-07-30 
     status: service
     employer: OCTO 
 startups:	
