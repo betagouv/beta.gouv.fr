@@ -42,11 +42,11 @@ Distribuer les API de l'Etat et s'assurer de leur exploitation dans le cadre de 
 
 ## 🤓 Cadre de travail
 
-🧑‍🚀 Intègrer l'équipe API, constituée d'une dizaine de personnes évoluant au sein d'Etalab
-📍 Des locaux au sein de la Direction interministérielle du numérique (DINUM), 20 avenue de Ségur - 75008 Paris en plein coeur de Paris
-🌍 Bénéficier d’une posture interministérielle garantissant une relation privilégiée avec l’ensemble des structures de l’administration française : social, éducation, finances, défense, justice, culture
-📝 Contrat freelance à temps plein
-🛠 Des outils modernes de productivité : Notion, Pipedrive, Mattermost, Discord
+- 🧑‍🚀 Intègrer l'équipe API, constituée d'une dizaine de personnes évoluant au sein d'Etalab
+- 📍 Des locaux au sein de la Direction interministérielle du numérique (DINUM), 20 avenue de Ségur - 75008 Paris en plein coeur de Paris
+- 🌍 Bénéficier d’une posture interministérielle garantissant une relation privilégiée avec l’ensemble des structures de l’administration française : social, éducation, finances, défense, justice, culture
+- 📝 Contrat freelance à temps plein
+- 🛠 Des outils modernes de productivité : Notion, Pipedrive, Mattermost, Discord
 
 ## 📩 Comment postuler
 Postuler en écrivant à contact@api.gouv.fr avec un court message de motivation.
