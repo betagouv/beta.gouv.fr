@@ -6,7 +6,7 @@ order: 6
 
 ## Documents utiles - pour aller plus loin
 
-- [Télécharger la fiche produit](/content/docs/mooc/FicheProduitMooc.odt à remplir pour vous aider à structurer votre problème et votre solution.
+- [Télécharger la fiche produit](/content/docs/mooc/FicheProduitMooc.odt) à remplir pour vous aider à structurer votre problème et votre solution.
 - [Consulter le guide de lancement](/content/docs/guide.pdf) des Startups d'État et de Territoire.
 - [Améliorer la sécurité de vos projets agiles](https://www.numerique.gouv.fr/uploads/guide_agilite-et-securite-numeriques.pdf) : notre guide conjoint avec l'Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI).
 - [Découvrir notre rapport annuel](/content/docs/rapportannuel.pdf ) (édition 2017).
