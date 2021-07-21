@@ -26,6 +26,7 @@ Les missions confiées impliquent de disposer de premières expériences réussi
 * Produire et maintenir la documentation technique du produit ;
 * Mettre en œuvre les bonnes pratiques liées à la sécurité des applications Web, à leur performance et leur capacité à monter en charge.
 
+
 # Environnement technologique
 
 ## Pile technique envisagée
@@ -42,6 +43,7 @@ Vous trouverez un résumé de l’état de l’art à beta.gouv.fr et des attend
 * **Gagner du temps en bénéficiant de l’expérience de partenaires :** communauté beta.gouv et partenariat avec un autre start up d’Etat intervenant sur le domaine du transport maritime ;
 * **Investir ce temps dans l’automatisation des processus pour améliorer la qualité du produit à périmètre constant :** déploiement d’itérations courtes et intégration des vérifications.
 
+
 # Profil recherché
 * Développeur/Développeuse full-stack expérimenté 💪👩‍💻 ;
 * Méthode et rigueur (software craftsmanship) et appétence pour l'XP 🙏🏽 ;
@@ -49,6 +51,7 @@ Vous trouverez un résumé de l’état de l’art à beta.gouv.fr et des attend
 * Avoir le sens de l’écoute et savoir travailler en équipe  🙂 ;
 * Savoir s’engager en pleine responsabilité et être guidé par l'impact 🚀 ;
 * Savoir travailler en mode lean agile.
+
 
 # Environnement de travail
 Poste ouvert pour un(e) indépendant(e), à pourvoir pour un premier contrat :
@@ -58,6 +61,7 @@ Poste ouvert pour un(e) indépendant(e), à pourvoir pour un premier contrat :
 * **Début souhaité :** septembre 2021
 * **TJM envisagé :** entre 500€ et 700€ selon profil
 * **Organisation de travail** : télétravail flexible selon les contraintes techniques retenues, avec la possibilité de travailler depuis Montreuil.
+
 
 # Postuler
 Pour postuler, vous pouvez écrire à [paul-henri.charrier@beta.gouv.fr](mailto:paul-henri.charrier@beta.gouv.fr) et  [victor.grange@beta.gouv.fr](mailto:victor.grange@beta.gouv.fr).
