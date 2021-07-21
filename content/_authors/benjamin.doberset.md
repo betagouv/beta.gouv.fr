@@ -12,8 +12,11 @@ startups:
   - demarches-simplifiees.fr
   - peps
   - zero-logement-vacant
+  - dédale
+  - plateforme de l'innovation urbaine
 badges:
   - segur
+  - La Fabrique Numérique (MTE)
 competences:
   - Gestion de Produit
   - Croissance
