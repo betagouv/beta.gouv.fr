@@ -13,8 +13,7 @@ startups:
   - peps
   - zero-logement-vacant
   - dedale
-  - plateforme de l'innovation urbaine
-  - archives occitanie
+  - innovation-urbaine
 badges:
   - segur
 competences:
