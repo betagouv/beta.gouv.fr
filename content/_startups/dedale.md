@@ -43,4 +43,6 @@ Assurer le meilleur accompagnement de l'usager tout au long de sa procédure, le
     
 # Deux solutions complémentaires
 
-Pour traiter ces deux problèmes, une logique de tunnel de conversion a été adoptée. Une première solution consiste à développer un produit pour mieux informer l'usager afin de l'autonomiser et qu'il puisse constituer un pré-dossier seul jusqu'à déposer directement son dossier officiel directement pour le sprojets les plus simples (rénovation d'une fénetre par exemple). Pour les demandes qui n'auront pas été répondu, une seconde solution reposant sur la création d'une démarche sur demarches-simplifiees.fr permet à l'usager d'interroger l'UDAP tout en ayant une demande qualifié et un suivi optimal.
+Pour traiter ces deux problèmes, une logique de tunnel de conversion a été adoptée. 
+Une première solution consiste à développer un produit pour mieux informer l'usager afin de l'autonomiser et qu'il puisse constituer un pré-dossier seul jusqu'à déposer directement son dossier officiel directement pour le sprojets les plus simples (rénovation d'une fénetre par exemple).
+Pour les demandes qui n'auront pas été répondu, une seconde solution reposant sur la création d'une démarche sur demarches-simplifiees.fr permet à l'usager d'interroger l'UDAP tout en ayant une demande qualifié et un suivi optimal.
