@@ -16,7 +16,7 @@ Nos [pratiques](https://github.com/betagouv/beta.gouv.fr/wiki), inspirées des m
 
 Vous vous reconnaissez dans le profil d'un **agent public indigné par une situation irritante pour les usagers** ? Vous avez une idée précise d'une solution qui pourrait faire levier sur du numérique ? Vous êtes prêts à vous investir pour la mettre en œuvre ?
 
-**Rédigez une [fiche produit](/ficheproduit) et [adressez-la nous](mailto:recrutement@beta.gouv.fr?subject=Fiche%20produit) !**
+**[Ecrivez-nous](mailto:contact@beta.gouv.fr?subject=Fiche%20produit)!**
 
 ### Développeuses et développeurs
 
