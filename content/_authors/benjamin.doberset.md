@@ -6,7 +6,7 @@ avatar: https://avatars3.githubusercontent.com/Benjamin-Doberset?s=600
 missions:
   - start: 2018-03-01
     end: 2021-12-31
-    status: contractuel
+    status: admin
     employer: La Fabrique Numérique
 startups:
   - demarches-simplifiees.fr
@@ -17,7 +17,6 @@ startups:
   - archives occitanie
 badges:
   - segur
-  - 
 competences:
   - Gestion de Produit
   - Croissance
