@@ -1,6 +1,7 @@
 ---
 fullname: Nicolas Enjalbert
 domaine: Coaching
+role: Coach investigation & construction produit
 github: nenj
 link: https://www.linkedin.com/in/nicolas-enjalbert/
 missions:
@@ -8,10 +9,9 @@ missions:
     end: 2021-11-06
     status: independent
     employer: NUMA
-competences:
-  - Coaching
-role: Coach investigation & construction produit
 startups:
   - envergo
+competences:
+  - Coaching
 ---
-Designer de services & coach produit, fan de visualisation de données, engagé bénévole pour un design plus responsable
+Designer de services & coach produit, fan de data, engagé bénévole pour un design plus responsable

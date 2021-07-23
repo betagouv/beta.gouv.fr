@@ -5,7 +5,7 @@ domaine: Développement
 github: cprodhomme
 missions:
   - start: 2021-03-31
-    end: 2021-06-30
+    end: 2021-10-31
     status: service
     employer: Captive
 startups:

@@ -3,6 +3,7 @@ fullname: Florian d'Erfurth
 domaine: Développement
 role: Développeur
 link: https://derfurth.com
+github: derfurth
 missions:
   - start: 2020-12-04
     end: 2021-11-09
