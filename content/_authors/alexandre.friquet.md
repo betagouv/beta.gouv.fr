@@ -11,7 +11,7 @@ missions:
     status: independent
     employer: Octo
   - start: 2021-03-08
-    end: 2021-09-12
+    end: 2021-07-31
     status: independent
     employer: La Zone
 startups:
