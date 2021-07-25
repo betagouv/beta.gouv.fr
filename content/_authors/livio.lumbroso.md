@@ -1,22 +1,24 @@
 ---
 fullname: Livio Lumbroso
-role: Coach
 domaine: Coaching
+role: Coach
 github: LivioLumbroso
-avatar:
+avatar: null
 link: https://www.linkedin.com/in/liviolumbroso/
 missions:
-  - start: 2020-11-16 # date d'arrivée au format ISO (AAAA-MM-JJ)
-    end: 2021-12-16 # date de fin de contrat au format ISO (AAAA-MM-JJ)
+  - start: 2020-11-16
+    end: 2021-12-16
     status: independent
     employer: numa
 startups:
-    - recosante
-    - hydrogene
-    - atlas-des-paysages
-    - Wikicarbone
-badges: 
-    - segur
+  - wikicarbone
+previously:
+  - recosante
+  - hydrogene
+  - atlas-des-paysages
+badges:
+  - segur
+competences:
+  - Coaching
 ---
-
-Entrepreneur entre 2 projets, particulièrement attiré par les problématiques énergie-climat et les projets à impact social et environnemental.
+Entrepreneur entre 2 projets, particulièrement attiré par les problématiques énergie-climat et les projets à impact social et environnemental
