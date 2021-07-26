@@ -5,7 +5,7 @@ role: Développeur
 github: gaeldestrem
 missions:
   - start: 2020-09-01
-    end: 2021-06-30
+    end: 2021-11-06
     status: independent
     employer: Octo
 startups:
