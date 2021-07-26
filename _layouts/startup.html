@@ -24,11 +24,12 @@ L'équipe est portée par {{ page.owner }} dans <a href="/startups/?incubateur={
 {% endcapture %}
 
 {% capture contact_info %}
-{% if page.contact_by_url %}
-    <a href="{{ page.contact }}">Contacter l’équipe</a>.
+
+{% if page.contact %}
+  <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
 {% else %}
-    {% if page.contact %}
-      <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
+    {% if page.contact_url %}
+        <a href="{{ page.contact_url }}">Contacter l’équipe</a>.
     {% else %}
       <em><a href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
     {% endif %}
