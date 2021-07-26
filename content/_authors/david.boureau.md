@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: octo
   - start: 2017-04-01
-    end: 2020-12-31
+    end: 2021-12-31
     status: independent
     employer: inop's
 startups:
