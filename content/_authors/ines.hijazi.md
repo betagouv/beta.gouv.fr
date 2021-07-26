@@ -17,6 +17,9 @@ startups:
 previously:
   - eac
   - auvol
+  - engagement-civique
+  - culture_amateurs
+  - e-inspé
 badges:
   - segur
 ---
