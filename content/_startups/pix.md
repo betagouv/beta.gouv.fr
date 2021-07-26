@@ -21,7 +21,8 @@ link: https://pix.fr
 repository: https://github.com/1024pix/pix/
 stats: true
 stats_url: https://pix.fr/statistiques
-contact: false
+contact: https://support.pix.org/fr/support/tickets/new
+contact_by_url: true
 ---
 
 Initié par l’Etat en 2016 sous la forme d'une Startup d'Etat, Pix est devenue une structure à but non lucratif constituée en Groupement d’intérêt public ayant pour mission d’accompagner l’élévation du niveau général de compétences numériques. Il réunit différents acteurs publics engagés dans les domaines de l’éducation et de la formation.
