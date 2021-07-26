@@ -6,8 +6,8 @@ github: bettinalbc
 missions:
   - start: 2020-09-17
     end: 2021-12-31
-    status: admin
-    employer: DGALN
+    status: independent
+    employer: "Octo "
 startups:
   - aides-territoires
 competences:
