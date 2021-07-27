@@ -11,4 +11,4 @@ startups:
   - l-immersion-facile
 ---
 
-Software Engineer et Manager pour Google.org
+Développeuse
