@@ -1,7 +1,7 @@
 ---
 fullname: Anne-Sophie Tranchet
-role: Designer UX/UI
 domaine: Design
+role: Designer UX/UI
 github: astranchet
 avatar: null
 link: https://hello-bokeh.fr/
@@ -10,4 +10,7 @@ missions:
     end: 2021-09-01
     status: independent
     employer: Octo
+competences:
+  - UX
+  - UI
 ---
