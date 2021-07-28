@@ -6,7 +6,7 @@ missions:
   - start: 2021-07-01
     end: 2021-12-31
     status: admin
-    employer: Pôle Emploi
+    employer: Pôle emploi
 startups:
   - estime
 ---
