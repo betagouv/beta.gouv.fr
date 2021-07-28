@@ -1,14 +1,17 @@
 ---
 fullname: Marjorie Colin
-role: Coach / Designer
 domaine: Coaching
-link: http://www.co-collectif.com/
+role: Coach / Designer
 github: marjoriecolin
+link: http://www.co-collectif.com/
 missions:
   - start: 2021-04-16
-    end: 2021-07-30
+    end: 2021-09-30
     status: admin
     employer: NUMA (pour le PNI de l'ANCT)
+competences:
+  - UX
+  - Coaching
+  - UI
 ---
-
-Designer d'expériences éco.sociales
+Designer / coach
