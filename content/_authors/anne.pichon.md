@@ -8,14 +8,14 @@ missions:
     end: 2021-11-30
     status: admin
 startups:
-  - la-bonne-formation
-  - zen
-  - estime
   - itou
   - place-de-marche-inclusion
   - dora
 previously:
   - la-bonne-boite
+  - estime
+  - la-bonne-formation
+  - zen
 competences:
   - UX
   - UI
