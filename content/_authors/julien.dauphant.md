@@ -1,6 +1,6 @@
 ---
 fullname: Julien Dauphant
-role: Mentor Technique et Produit
+role: Chief Technical Officer BetaGouv
 link: 'https://twitter.com/jdauphant'
 github: jdauphant
 missions:
