@@ -57,7 +57,7 @@ Temps partiel accepté (80 % minimum).
 
 ## Candidater
 
-Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV et GitHub, le tout à recrutement@beta.gouv.fr et archifiltre@sg.social.gouv.fr.
+Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV et GitHub, le tout à [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr) et [archifiltre@sg.social.gouv.fr](mailto:archifiltre@sg.social.gouv.fr).
 
 À bientôt ! 
 
