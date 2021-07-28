@@ -1,7 +1,8 @@
 ---
 fullname: Maxine Sabater
 domaine: Autre
-role: Assistante en appui aux projets innovants
+role: "Chargée de mission en appui aux projets innovants de la Fabrique
+  numérique DGFiP "
 github: maxinesabater
 missions:
   - start: 2021-03-15
@@ -11,4 +12,4 @@ missions:
 competences:
   - Administration Publique
 ---
-Une nouvelle stagiaire à la DTNum
+Une nouvelle stagiaire à la DTNum !
