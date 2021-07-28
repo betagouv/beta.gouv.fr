@@ -2,6 +2,7 @@
 roles: "L’équipe du registre national des taxis cherche une ou un entrepreneur(e) associé(e)"
 open: true
 date: 2021-07-28
+startup: le-taxi
 ---
 Vous rejoindrez l’[équipe autonome](https://blog.beta.gouv.fr/general/2016/11/28/equipes-autonomes/) qui développe le [le registre national des taxis](https://le.taxi/) et serez associé(e) à l’agent publique “intrapreneure” du ministère des Transports qui porte la Startup d'État. 
 
