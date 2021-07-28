@@ -11,7 +11,9 @@ incubator: pole-emploi
 phases: 
   - name: investigation
     start: 2020-10-26 
-    end: 
+    end: 2021-03-31
+  - name: alumni
+    start: 2021-03-31
 events: 
   - name: committee
     date: 2020-12-10 
