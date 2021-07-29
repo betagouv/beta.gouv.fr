@@ -9,6 +9,7 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: affaires-sociales
 incubator: sgmas
+repository: https://github.com/SocialGouv/carnet-de-bord
 contact: ronan.james@beta.gouv.fr
 phases:
   - name: investigation
