@@ -22,6 +22,8 @@ phases:
 ---
 #### [Voir la politique de confidentialité →](https://zlv.notion.site/Politique-de-confidentialit-bb23ade15fc442fbbc3976a4ef840c76)
 
+
+
 ## Le problème
 
 1,1 million de logements sont vacants depuis au moins deux ans dans le parc privé. La remise sur le marché de ces logements permettrait de redynamiser les territoires détendus, de constituer une offre abordable complémentaire au parc social dans les territoires tendus et de se substituer à la construction neuve de logements par artificialisation des sols. 
