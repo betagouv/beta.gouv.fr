@@ -11,5 +11,6 @@ missions:
     employer: ""
 competences:
   - Coaching
+  - UX
 ---
 Designer de services & social
