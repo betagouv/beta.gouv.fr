@@ -1,7 +1,7 @@
 ---
 startup: euphrosyne
 title: "Euphrosyne recrute un ou une développeuse Django"
-roles: développement Django
+roles: Un ou une développeuse Django
 open: true
 ---
 
@@ -41,11 +41,11 @@ Aujourd’hui, l’équipe réunit des talents et horizons divers, certains au s
 
 ## Modalités
 
-- Poste ouvert pour le statut d’indépendant / prestation (les règles des marchés publics s’appliquent)
-- 2 ou 3 jours par semaine
-- Durée : 9 mois renouvelables (la première phase de développement de la startup est de 6 mois)
-- Contrat freelance ; taux Journalier Moyen selon profil
-- Démarrage en septembre 2021
+- Poste ouvert pour le statut d’indépendant / prestation.
+- 2 ou 3 jours par semaine.
+- Durée : minimum 3 mois, renouvelable si le projet atteint ses objectifs.
+- Contrat freelance ; taux Journalier Moyen selon profil.
+- Démarrage en septembre 2021.
 - Organisation de travail flexible, télétravail à volonté, possibilité de travailler dans des locaux à Paris (proche Palais Royal).
 
 ## Postuler
