@@ -1,6 +1,6 @@
 ---
 title: Euphrosyne
-mission: Ouvrir les données de NewAglaé, l’Accélérateur Grand Louvre d'Analyses Elémentaires, à la communauté européenne des sciences du patrimoine, dans le cadre de la science ouverte et de la FAIRisation des données
+mission: "Ouvrir les données de NewAglaé, l’Accélérateur Grand Louvre d'Analyses Elémentaires, à la communauté européenne des sciences du patrimoine, dans le cadre de la science ouverte et de la FAIRisation des données (crédit photo: © Christophe HARGOUES / C2RMF / AGLAE / CNRS Photothèque)"
 owner: Ministère de la Culture
 incubator: culture
 phases:
