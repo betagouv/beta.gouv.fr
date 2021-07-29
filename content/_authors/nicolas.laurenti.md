@@ -1,14 +1,15 @@
 ---
 fullname: Nicolas Laurenti
-role: Intrapreneur
 domaine: Intraprenariat
+role: Intrapreneur
 missions:
-  - start: 2021-08-06
-    end: 2021-08-12
+  - start: 2021-06-15
+    end: 2021-12-31
     status: independent
     employer: La Zone
 startups:
   - demarches-simplifiees.fr
+competences:
+  - Administration Système
 ---
-
-devops
+Un sysadmin qui lit aussi du code, plus ou moins haut niveau.
