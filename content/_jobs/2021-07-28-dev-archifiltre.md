@@ -13,11 +13,13 @@ techno: TypeScript ou Python
 Archifiltre a démarré en 2018 grâce au soutien d’Etalab dans le cadre du programme EIG (Entrepreneur.e.s d’intérêt général) et a rejoint la Fabrique numérique des ministères sociaux en avril 2019 où elle est devenue une startup d'État.
 
 L’objectif d’Archifiltre est de proposer à tout utilisateur de fichiers bureautiques un outil de visualisation d’arborescences complètes afin de pouvoir les appréhender rapidement et donc pouvoir les décrire, les enrichir, les organiser et aussi les trier. 
-L’outil déjà développé est un outil libre et ouvert, disponible sur https://archifiltre.fabrique.social.gouv.fr/.
+L’outil développé est un outil libre et ouvert, disponible sur https://archifiltre.fabrique.social.gouv.fr/.
 
 Les développements réalisés depuis 2018 ont associé un cercle large d’utilisateurs, archivistes principalement au départ, issus de ministères, établissements publics, collectivités territoriales ou entreprises, ce cercle s’est enrichi progressivement de profils variés intéressés par l’enjeu d’appréhender des gros volumes de documents pour les trier
 
-Notre objectif pour les prochains mois est d’élargir les fonctionnalités d’Archifiltre aux messageries pour en permettre la visualisation, l’appréhension et ensuite le tri.
+L’outil sur lequel nous travaillons dans le cadre de la startup devra continuer à approfondir les fonctionnalités proposées dans les versions mises en ligne et appréciées des utilisateurs afin d’augmenter l’impact de l’outil sur le tri des fichiers (gain de place, d’efficacité, etc) : améliorer les performances pour permettre des analyses de volumes de fichiers plus importants (au-delà de 250 Go), proposer d’autres types de visualisation, de nouvelles actions sur les redondances, prendre en compte les demandes d’amélioration de l’UX/UI, élargir les fonctionnalités actuellement disponibles dans l’outil. 
+
+Notre objectif pour les prochains mois est d’élargir les fonctionnalités d’Archifiltre aux messageries pour en permettre la visualisation, l’appréhension et ensuite le tri. Ainsi, nous continuerons à augmenter considérablement les volumes analysés et donc les tris et gains de stockage associés en économisant toujours plus de CO2 pour la planète!
 
 ### Le Poste 
 
@@ -44,6 +46,8 @@ Vous êtes en mesure de jouer sur 2 tableaux :
 
  - Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
  - Développement en Javascript (TypeScript) ou Python
+ - Bonne connaissance de Node.js
+ - Bonne connaissance de React
  - Experience dans la manipulation de données
  - Appétence pour l’analyse de données / data science
 
