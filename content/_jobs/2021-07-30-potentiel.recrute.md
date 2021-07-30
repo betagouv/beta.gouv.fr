@@ -1,5 +1,5 @@
 ---
-roles: "Potentiel recrute "
+roles: Potentiel recrute un·e Développeur·se front  / fullstack
 open: true
 junior: true
 date: 2021-07-30T14:45:45.899Z
