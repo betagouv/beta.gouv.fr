@@ -11,7 +11,7 @@ events: # les évènements marquants de la startup - les noms possibles sont dé
   - name: alumni
     date: 2021-02-15 # date au format ISO (AAAA-MM-DD)
     comment: Malgré les travaux de la phase d'investigation ayant permis de
-      démontrer un problème et une hypothèse de stratégie à 6 mois, la poursuite des travaux n'ont pu être financée et sponsorisée. 
+      démontrer un problème et une hypothèse de stratégie à 6 mois, la poursuite des travaux n'a pu être financée et sponsorisée. 
 stats: false # mettre à true pour renvoyer vers ta page de stats. Attention, elle doit se trouver sur [url du site]/stats !
 stats_url: # optionnel, si stats est à true, alors tu peux indiquer vers quelle URL pointer vers tes stats.
 contact: contact@gap.beta.gouv.fr # 
