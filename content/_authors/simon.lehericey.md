@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: octo
   - start: 2019-12-06
-    end: 2021-06-30
+    end: 2021-12-31
     status: independent
     employer: octo
 startups:
