@@ -10,7 +10,7 @@ missions:
     status: independent
 startups:
   - codedutravail
-  - fce
+  - fiche.commune.entreprise.fce
 competences:
   - Communication
 ---
