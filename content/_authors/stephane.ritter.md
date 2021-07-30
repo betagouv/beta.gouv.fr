@@ -6,7 +6,7 @@ github: infosteph
 link: https://beta.gouv.fr/incubateurs/lab-mi.html
 missions:
   - start: 2020-01-01
-    end: 2021-06-30
+    end: 2022-06-30
     status: admin
     employer: minint
 startups:
