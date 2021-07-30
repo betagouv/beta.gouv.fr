@@ -1,12 +1,16 @@
 ---
 fullname: Renaud Pons
-role: Coach
 domaine: Coaching
+role: Coach
+github: renaudpons
 link: https://www.design-territoire.fr/
 missions:
   - start: 2021-04-19
-    end: 2021-07-30
+    end: 2021-10-30
     status: independent
-    employer: La société NUMA
+    employer: ""
+competences:
+  - Coaching
+  - UX
 ---
 Designer de services & social
