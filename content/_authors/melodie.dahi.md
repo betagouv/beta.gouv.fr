@@ -13,8 +13,8 @@ missions:
     status: independent
     employer: lazone
   - status: independent
-    start: 2021-08-05
-    end: 2021-10-31
+    start: 2021-08-02
+    end: 2021-12-31
     employer: Scopyleft
 startups:
   - territoires-en-transitions
