@@ -31,6 +31,18 @@ layout: default
   </div>
 {% endif %}
 
+{% assign split_by_h1 = content | split:'<h1' %}
+{% assign content = split_by_h1 | join: '<h1 class="fr-my-3w fr-mt-4w" ' %}
+
+{% assign split_by_h2 = content | split:'<h2' %}
+{% assign content = split_by_h2 | join: '<h2 class="fr-my-2w fr-mt-4w" ' %}
+
+{% assign split_by_h3 = content | split:'<h3' %}
+{% assign content = split_by_h3 | join: '<h3 class="fr-my-2w fr-mt-3w" ' %}
+
+{% assign split_by_p = content | split:'<p' %}
+{% assign content = split_by_p | join: '<p class="fr-my-2w fr-text" ' %}
+
 <section class="fr-py-6w">
   {% if page.junior %}
     <div class="fr-container fr-py-6w fr-px-2w">
@@ -54,9 +66,7 @@ layout: default
   {% endif %}
 
   <div class="fr-container">
-    {{ page.excerpt }}
-
-    {{ content | remove: page.excerpt }}
+    {{ content }}
   </div>
 </section>
 
