@@ -6,10 +6,10 @@ open: false
 
 # Informations générales
 
-    Contrat : CDD
-    Durée : 3 ans
-    Début : 1er février 2021
-    Localisation : 20 avenue de Ségur, Paris (75) et en télétravail
+Contrat : CDD
+Durée : 3 ans
+Début : 1er février 2021
+Localisation : 20 avenue de Ségur, Paris (75) et en télétravail
 
 # Qui sommes-nous ?
 ## Direction interministérielle du numérique
