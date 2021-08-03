@@ -52,6 +52,7 @@ Les missions consisteront en particulier en : 
 * Vous avez une expérience en développement de startup ou de projet numérique, par exemple en tant que *Product Manager*.
 * Vous êtes intéressé par les enjeux relatifs au partage de données et par les politiques publiques de transport.
 * Vous aimez travailler en équipe.
+* Vous aimez mettre les mains dans les cambouis et prendre en charge des tâches opérationnelles telles que le support aux utilisateurs ou le démarchage de partenaires
 
 ### Modalités
 
