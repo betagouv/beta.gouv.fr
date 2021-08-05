@@ -53,6 +53,6 @@ Les conséquences de ces différents problématiques sont principalement financi
 Une interface de gestion et planification des formations pour la MiRVOG
 
 Une interface _responsive mobile_ pour les officiers afin de suivre les formations à venir, s'y inscrire, s'y désinscrire et se mettre sur liste d'attente.
-Les officiers peuvent également voir leur formations passées et faire le point sur leur progamme personnel de formation.
+Les officiers peuvent également voir leurs formations passées et faire le point sur leur progamme personnel de formation.
 
 Un système de notification pour gagner en réactivité pour l'ensemble des utilisateurs.
