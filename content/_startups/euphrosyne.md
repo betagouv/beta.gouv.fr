@@ -1,6 +1,6 @@
 ---
 title: Euphrosyne
-mission: "Ouvrir les données de NewAglaé, l’Accélérateur Grand Louvre d'Analyses Elémentaires, à la communauté européenne des sciences du patrimoine, dans le cadre de la science ouverte et de la FAIRisation des données (crédit photo: © Christophe HARGOUES / C2RMF / AGLAE / CNRS Photothèque)"
+mission: "Ouvrir les données de NewAglaé, l’Accélérateur Grand Louvre d'Analyses Elémentaires, à la communauté européenne des sciences du patrimoine, dans le cadre de la science ouverte et de la FAIRification des données (crédit photo: © Christophe HARGOUES / C2RMF / AGLAE / CNRS Photothèque)"
 owner: Ministère de la Culture
 incubator: culture
 phases:
@@ -15,11 +15,11 @@ contact: claire.pacheco@culture.gouv.fr
 
 
 ## Contexte
-Portant le nom de l’une des trois grâces, l’accélérateur NewAGLAE (Accélérateur Grand Louvre d’Analyses Elémentaires) est depuis 1989 le seul accélérateur de particules en Europe entièrement dédié à l’étude du patrimoine. Il permet d’étudier la composition chimique des oeuvres de musée sans les endommager, et de comprendre leur histoire, leur provenance, les technologies qui ont permis leur création. Les données produites par NewAGLAE représentent un trésor encore inaccessible à la communauté européenne des scientifiques, restaurateurs, conservateurs et autres historiens de l’art.
+Portant le nom de l’une des trois grâces, l’accélérateur AGLAE (Accélérateur Grand Louvre d’Analyses Elémentaires) est depuis 1989 le seul accélérateur de particules en Europe entièrement dédié à l’étude du patrimoine. Automatisé, AGLAE est devenu New AGLAE en 2017 dans le cadre du programme investissement d'avenir de l'ANR (ANR-10-EQPX-22). Son nouveau multi-détecteur capable de réaliser de l'imagerie chimique systématique permet d’étudier la composition chimique des oeuvres de musée sans les endommager, et de comprendre leur histoire, leur provenance, les technologies qui ont permis leur création. Les données produites par New AGLAE représentent un trésor encore inaccessible à la communauté européenne des scientifiques, restaurateurs, conservateurs et autres historiens de l’art.
 
 
-### Euphrosyne, petite soeur d’Aglaé
-Le projet Euphrosyne – petite soeur d’Aglaé dans la mythologie grecque – a pour objectif d’ouvrir les données d’Aglaé. Concrètement, il s’agit de créer une plateforme cloud qui permette aussi bien de publier, rechercher, accéder aux données produites par d’autres équipes scientifiques, que de rejouer les conditions expérimentales dans lesquelles ces données ont été produites en accédant à distance aux outils de l’accélérateur.
+### Euphrosyne, soeur d’Aglaé
+Le projet Euphrosyne – soeur d’Aglaé dans la mythologie grecque – a pour objectif d’ouvrir les données d’AGLAE. Concrètement, il s’agit de créer une plateforme cloud qui permette aussi bien de publier, rechercher, accéder aux données produites par d’autres équipes scientifiques, que de rejouer les jeux de données en tenant compte des conditions expérimentales dans lesquelles elles ont été produites en accédant à distance aux outils de l’accélérateur.
 
 Euphrosyne s’inscrit dans le cadre de l’open science et de la FAIRification des données. La phase d’investigation a été menée entre janvier et avril 2021 au sein de l’Atelier Numérique, l’incubateur du Ministère de la Culture, qui a décidé de soutenir Euphrosyne. Depuis avril, nous sommes en phase de construction.
 
