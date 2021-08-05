@@ -6,7 +6,7 @@ link: https://oanabalalau.com
 github: nyxpho
 missions:
   - start: 2021-04-12
-    end: 2021-08-06
+    end: 2021-10-01
     status: independent
     employer: Inria et DINUM
 startups:
