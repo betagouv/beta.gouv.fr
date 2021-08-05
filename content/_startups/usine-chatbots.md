@@ -8,7 +8,7 @@ phases:
     start: 2020-02-01
   - name: construction
     start: 2020-05-01
-link: https://chatbot.d.fabnum.fr/
+link: https://chatbot.fabnum.fr/
 stats: false
 contact: contact-chatbot@fabnum.fr
 ---
@@ -43,7 +43,7 @@ début du développement informatique
 
 ## Résultats
 L'usine à chatbot est composée de 6 produits numériques :
-* Un [site internet](https://chatbot.d.fabnum.fr/) qui présente le produit
+* Un [site internet](https://chatbot.fabnum.fr/) qui présente le produit
 * Une [documentation](https://fabrique-a-chatbots.gitbook.io/fabrique-a-chatbots/)
 * Une [interface permettant de créer un chatbot](https://chatbot.fabnum.fr)
 * Une interface de chatbot
