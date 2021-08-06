@@ -63,7 +63,7 @@ Pour l’ensemble de ces epics, vous serez en lien avec l’équipe produit, au 
 
 ## Profil recherché
 
-Vous êtes notre futur·e Développeur·se fullstack / front si :
+Vous êtes notre futur·e Développeur·se front / fullstack si :
 
 * Vous êtes animé·e par la volonté d’améliorer le service public ;
 * Vous portez un intérêt aux enjeux de l’écologie et des énergies renouvelables ;
@@ -77,7 +77,7 @@ Vous êtes notre futur·e Développeur·se fullstack / front si :
 Idéalement vous avez de l’expérience dans un ou plusieurs des domaines suivants :
 
 * La refonte UX/UI de produits numériques
-* Les technologies mentionnées supra
+* Les technologies mentionnées supra (React, Typescript, NodeJS)
 * Le travail en freelance à distance
 
 ## Informations pratiques
