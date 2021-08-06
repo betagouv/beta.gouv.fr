@@ -63,7 +63,7 @@ Vous aurez pour mission de contribuer au développement stratégique et techniqu
 
 ## Profil recherché
 
-Vous êtes notre futur·e Développeur·se fullstack / front si :
+Vous êtes notre futur·e Développeur·se fullstack si :
 
 * Vous êtes animé·e par la volonté d’améliorer le service public ;
 * Vous portez un intérêt aux enjeux de l’écologie et des énergies renouvelables ;
@@ -77,6 +77,7 @@ Vous êtes notre futur·e Développeur·se fullstack / front si :
 Idéalement vous avez de l’expérience dans un ou plusieurs des domaines suivants :
 
 * Le développement d'API (avec NodeJS)
+* React
 * L’ouverture de données “sous toutes ses formes”
 * Les technologies mentionnées supra
 * Le travail en freelance à distance
