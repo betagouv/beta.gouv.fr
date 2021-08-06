@@ -2,7 +2,7 @@
 title: L'immersion facile
 mission: Faciliter la réalisation des immersion professionnelles
 owner: DGEFP et Pôle emploi
-incubator: mtes
+incubator: sgmas
 contact: immersionfacile@beta.gouv.fr
 phases:
   - name: construction
