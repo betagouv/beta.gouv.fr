@@ -10,16 +10,11 @@ events: []
 phases:
   - name: investigation
     start: 2021-03-01
-    end: 2021-03-01
-    comment: Définition des acteurs et exploration des besoins utilisateurs.
-  - name: investigation
-    start: 2021-04-01
     end: 2021-05-21
-    comment: Réalisation de prototypes, tests utilisateurs, définition de la vision
+    comment: Définition des acteurs et exploration des besoins utilisateurs. Réalisation de prototypes, tests utilisateurs, définition de la vision
       du projet et approfondissement des besoins du futur système.
   - name: construction
     start: 2021-05-23
-    end: ""
     comment: Début des développements et livraison d'une première version
       expérimentale le 6 juillet 2021. Récupérations des retours utilisateurs.
 ---
