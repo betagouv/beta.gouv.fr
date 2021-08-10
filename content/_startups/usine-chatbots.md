@@ -12,8 +12,6 @@ phases:
   - name: construction
     start: 2020-05-01
 ---
-![](/img/netlifycms/fabrique-chatbots.1.jpg)
-
 ## Contexte
 
 Le projet a été initié par la RH Marine qui souhaitait mettre à disposition de ses agents un chatbot qui répondrait à leurs questions RH. Afin de faire bénéficier d’autres projets de chatbot au sein du ministère, ce projet de chatbot s’est transformé en projet d'usine à chatbot.
