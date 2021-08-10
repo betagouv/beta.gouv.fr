@@ -11,6 +11,11 @@ startups:
   - usine-chatbots
   - les-alpps
   - octopus
+previously:
+  - eoliennes
+  - smart-remisage
+  - medopex
+  - megalodon
 competences:
   - Gestion de Produit
 ---
