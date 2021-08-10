@@ -12,9 +12,11 @@ startups:
   - e-chauffeur
   - anais
   - sepia
-  - lesalpps
   - metiis
   - stargate
+  - cassiopee
+previously:
+  - les-alpps
 competences:
   - Gestion de Produit
 ---
