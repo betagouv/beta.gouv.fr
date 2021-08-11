@@ -6,7 +6,7 @@ sponsors:
   - domaine_ministeriel: affaires-sociales
     name: Ministère du Travail, de l'Emploi et de l'Insertion
     type: administration-centrale
-incubator: mtes
+incubator: sgmas
 contact: immersionfacile@beta.gouv.fr
 phases:
   - name: construction

@@ -5,7 +5,7 @@ domaine: Coaching
 github: Sw1n
 missions:
   - start: 2020-02-20
-    end: 2021-07-31
+    end: 2021-11-30
     status: service
     employer: LLL
 startups:
