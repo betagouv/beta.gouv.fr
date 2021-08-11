@@ -1,19 +1,19 @@
 ---
 fullname: Thomas Glatt
-role: Développeur
 domaine: Développement
+role: Développeur
 github: tglatt
 missions:
   - start: 2021-06-28
     end: 2021-10-30
     status: independent
 startups:
-    - e-mjpm
-    - workinfrance
-    - egapro
-    - tremplin
-    - carnet.de.bord
-    
+  - tremplin
+  - workinfrance
+  - e-mjpm
+  - carnet.de.bord
+competences:
+  - Développement Frontend
+  - Développement Backend
 ---
-
-Accompagner les équipes / imaginer collectivement des solutions sobres
+Accompagner les équipes - imaginer collectivement des solutions sobres
