@@ -16,7 +16,7 @@ verbatims:
   - text: Ceci est un verbatim de test
     name: Jean Martin
     job: Chef de bureau, OLK Ile-de-France
-  - text: Ceci est un verbatim de test pour voir si ça test
+  - text: Ceci est un verbatim de test un peu long
     name: Marie Dupont
     job: Cheffe de bureau, OLK Ile-de-France
   - text: Ceci est un verbatim de test
