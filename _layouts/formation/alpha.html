@@ -13,60 +13,70 @@ layout: default
     <!-- Content -->
     <div class="fr-col-xs-12 fr-col-md-9">
       <h1>{{ page.title }}</h1>
-      <h2 id="inscription">Prochaine session</h2>
-      {% capture timestampNow %}{{ 'now' | date: '%s' }}{% endcapture %} {%
-      capture timestampEnd %}{{ page.alpha-end | date: '%s' }}{% endcapture %}
-      {% if timestampNow < timestampEnd %}
-      <div class="fr-callout">
-        <ul>
-          <li>
-            <b>Quand ?</b><br />
-            {% if page.alpha-start == page.alpha-end %} Le {{ page.alpha-start
-            | date: "%d/%m/%y" }} {% else %} Du {{ page.alpha-start | date:
-            "%d/%m/%y" }} au {{ page.alpha-end | date: "%d/%m/%y" }}{% endif
-            %} {{ page.alpha-time }}
-          </li>
-          <li>
-            <b>Où ?</b><br />
-            {% if page.alpha-location-link %}
-            <a href="{{ page.alpha-location-link }}"
-              >{{ page.alpha-location }}</a
-            >
-            {% else %}
-              {{ page.alpha-location }}
-            {% endif %}
-          </li>
-          {% if page.alpha-catering %}
-          <li>
-            <b>Quelle prise en charge ?</b><br />
-            {{ page.alpha-catering | markdownify | remove: '
-            <p>' | remove: '</p>
-            ' }}
-          </li>
-          {% endif %} {% if page.alpha-more %}
-          <li>
-            {{ page.alpha-more | markdownify | remove: '
-            <p>' | remove: '</p>
-            ' }}
-          </li>
-          {% endif %}
-          <li>
-            <a href="{{ page.alpha-link }}">Réserver sa place en ligne</a>
-          </li>
-        </ul>
+      <br>
+      <div class="fr-grid-row fr-grid-row--gutters">
+          {% for image in page.images %}
+          <div class="fr-col-6">
+            <div class="fr-card fr-card--no-arrow">
+              <div class="fr-card__img">
+                <img
+                  src="{{ image }}" class="fr-responsive-img" alt="">
+                <!-- L'alternative de l'image (attribut alt) doit à priori rester vide car l'image est illustrative et ne doit pas être restituée aux technologies d’assistance. Vous pouvez toutefois remplir l'alternative si vous estimer qu'elle apporte une information essentielle à la compréhension du contenu non présente dans le texte -->
+              </div>
+            </div>
+          </div>
+        {% endfor %}
       </div>
-      {% else %}
-      <p>
-        Les dates de la prochaine session de formation Alpha seront bientôt
-        annoncées.
-      </p>
-      <p>
-        Vous pouvez vous renseigner dès à présent auprès sur
-        <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.
-      </p>
-      {% endif %}
-      <br /><br />
+      <br>
+      <br>
       <div class="markdown">{{ content }}</div>
+      <div class="fr-grid-row fr-grid-row--gutters">
+        {% for product in page.verbatims %}
+          <div class="fr-col-md-6 fr-col-xs-12">
+            <div class="fr-card fr-card--horizontal fr-card--no-arrow">
+              <div class="fr-card__body">
+          
+                <h4 class="fr-card__title">
+                    <a href="#" class="fr-card__link">{{ product.text }}?</a>
+                </h4>
+                <!-- <p class="fr-card__desc">La carte donne des aperçus cliquables d’une page de contenu à l’utilisateur. Elle fait généralement partie d'une collection ou liste d’aperçus de contenu similaires. La carte n’est jamais présentée de manière isolée.</p> -->
+                <p class="fr-card__detail">
+                  <b>{{ product.name }}</b><br>
+                  {{ product.job }}
+                </p>
+              </div>
+              <div class="fr-card__img" style="width: 20%;">
+                <img
+                  style="width: 40px; height: 30px; top: 20%; left: 50%;"
+                  src="https://www.demarches-simplifiees.fr/assets/landing/testimonials/quotation-mark-35840bd55c0443880178a59dbe4e3cb4e0a7d66af6352ec8c7a50441bc57f23f.svg" class="fr-responsive-img" alt="">
+                <!-- L'alternative de l'image (attribut alt) doit à priori rester vide car l'image est illustrative et ne doit pas être restituée aux technologies d’assistance. Vous pouvez toutefois remplir l'alternative si vous estimer qu'elle apporte une information essentielle à la compréhension du contenu non présente dans le texte -->
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      <br>
+      <br>
+      <h2>La formation alpha en chiffres</h2>
+      <br>
+      <br>
+      <div class="fr-grid-row fr-grid-row--gutters">
+          {% for metric in page.metrics %}
+          <div class="fr-col-md-4 fr-col-xs-12" style="width: 100%;">
+            <div class="fr-card fr-card--no-arrow">
+              <div class="fr-card__body">
+                <h1 style="text-align: center;">
+                  {{ metric.value }}
+                </h1>
+                <!-- <p class="fr-card__desc">La carte donne des aperçus cliquables d’une page de contenu à l’utilisateur. Elle fait généralement partie d'une collection ou liste d’aperçus de contenu similaires. La carte n’est jamais présentée de manière isolée.</p> -->
+                <p class="fr-card__detail" style="text-align: center;">
+                  <b>{{ metric.text }}</b><br>
+                </p>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
     </div>
   </div>
 </div>
