@@ -30,6 +30,28 @@ layout: default
       <br>
       <br>
       <div class="markdown">{{ content }}</div>
+      <h2>La formation alpha en chiffres</h2>
+      <br>
+      <br>
+      <div class="fr-grid-row fr-grid-row--gutters">
+          {% for metric in page.metrics %}
+          <div class="fr-col-md-4 fr-col-xs-12" style="width: 100%;">
+            <div class="fr-card fr-card--no-arrow">
+              <div class="fr-card__body">
+                <h1 style="text-align: center;">
+                  {{ metric.value }}
+                </h1>
+                <!-- <p class="fr-card__desc">La carte donne des aperçus cliquables d’une page de contenu à l’utilisateur. Elle fait généralement partie d'une collection ou liste d’aperçus de contenu similaires. La carte n’est jamais présentée de manière isolée.</p> -->
+                <p class="fr-card__detail" style="text-align: center;">
+                  <b>{{ metric.text }}</b><br>
+                </p>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      <br>
+      <br>
       <div class="fr-grid-row fr-grid-row--gutters">
         {% for product in page.verbatims %}
           <div class="fr-col-md-6 fr-col-xs-12">
@@ -50,28 +72,6 @@ layout: default
               align-content: center;
               justify-content: center;">
                 <i class="ri-chat-quote-line" style="font-size: 40px;"></i>
-              </div>
-            </div>
-          </div>
-        {% endfor %}
-      </div>
-      <br>
-      <br>
-      <h2>La formation alpha en chiffres</h2>
-      <br>
-      <br>
-      <div class="fr-grid-row fr-grid-row--gutters">
-          {% for metric in page.metrics %}
-          <div class="fr-col-md-4 fr-col-xs-12" style="width: 100%;">
-            <div class="fr-card fr-card--no-arrow">
-              <div class="fr-card__body">
-                <h1 style="text-align: center;">
-                  {{ metric.value }}
-                </h1>
-                <!-- <p class="fr-card__desc">La carte donne des aperçus cliquables d’une page de contenu à l’utilisateur. Elle fait généralement partie d'une collection ou liste d’aperçus de contenu similaires. La carte n’est jamais présentée de manière isolée.</p> -->
-                <p class="fr-card__detail" style="text-align: center;">
-                  <b>{{ metric.text }}</b><br>
-                </p>
               </div>
             </div>
           </div>
