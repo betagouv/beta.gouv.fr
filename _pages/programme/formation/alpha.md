@@ -13,27 +13,27 @@ alpha-catering:
 alpha-more:
 alpha-link: https://startupdetat.typeform.com/to/NPeLzMvE
 verbatims:
-  - text: Ceci est un verbatim de test
-    name: Jean Martin
-    job: Chef de bureau, OLK Ile-de-France
-  - text: Ceci est un verbatim de test un peu long
-    name: Marie Dupont
-    job: Cheffe de bureau, OLK Ile-de-France
-  - text: Ceci est un verbatim de test
-    name: Dominique 
-    job: Cheffe de bureau, OLK Ile-de-France
-  - text: Ceci est un verbatim de test
-    name: Ametiste 
-    job: Chef de bureau, OLK Ile-de-France
+  - text: “J’ai appris beaucoup ! À commencer par une méthode pratique, des outils concrets pour enclencher une action, agir sur un problème a priori insurmontable, mais qui le devient grâce au "petit pas" qui devient grand.”
+    name: participant.e anonyme
+    job: 
+  - text: “L'animation avec le coach était très bien. Bienveillant et convivial, ce qui n'est pas gagné en visio ! ;)”
+    name: participant.e anonyme
+    job: 
+  - text: “A diffuser largement aux diverses directions des agences de l'État, convaincre les managers”
+    name: Sarah D. AMUE 
+    job: 
+  - text: “UN IMMENSE MERCI ! :-)”
+    name: participant.e anonyme
+    job: 
 metrics:
-  - value: 4 589
-    text: administrations partenaires
-  - value: 3 539 325
-    text: dossier déposés
-  - value: 50%
-    text: de réduction des délais de traitement
-  - value: 1356
-    text: de stats en plus
+  - value: 21
+    text: sessions réalisées
+  - value: 450
+    text: agents formés
+  - value: 4,3/ 5
+    text: de satisfaction des participants
+  - value: 87%
+    text: des participants la recommandent !
 redirect_from:
   - /alpha
 images:
