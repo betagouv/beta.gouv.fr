@@ -22,6 +22,9 @@ verbatims:
   - text: Ceci est un verbatim de test
     name: Dominique 
     job: Cheffe de bureau, OLK Ile-de-France
+  - text: Ceci est un verbatim de test
+    name: Ametiste 
+    job: Chef de bureau, OLK Ile-de-France
 metrics:
   - value: 4 589
     text: administrations partenaires
@@ -29,6 +32,8 @@ metrics:
     text: dossier déposés
   - value: 50%
     text: de réduction des délais de traitement
+  - value: 1356
+    text: de stats en plus
 redirect_from:
   - /alpha
 images:
