@@ -3,9 +3,7 @@ layout: page
 permalink: /contact/
 title: Nous contacter
 ---
-
 ## Faire un retour sur un service
-
 Les coordonnées des équipes sont accessibles sur la page de chaque service numérique. Trouvez celui qui concerne votre demande sur la page de [nos Réalisations](/startups). 
 
 ## Établir un partenariat avec beta.gouv.fr
