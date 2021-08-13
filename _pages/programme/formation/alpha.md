@@ -82,5 +82,5 @@ Pour plus d’information écrivez nous à <a href="mailto:alpha@beta.gouv.fr">a
 
 **Formation dédiée**
 
-Vous êtes une administration et vous souhaitez une formation Alpha dédiée à vos services ? Parlez-nous de votre besoin à alpha@beta.gouv.fr. 
+Vous êtes une administration et vous souhaitez une formation Alpha dédiée à vos services ? Parlez-nous de votre besoin à <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>. 
 
