@@ -63,20 +63,27 @@ La formation se déroule sur une journée au cours de laquelle nous reviendrons 
 * 09h30 : Introduction
 * 9h45-10h15 : Le quiz spécial beta.gouv.fr
 <br>
+<br>
 Pause 5'
+<br>
 <br>
 * 11h15 : Témoignage d’intrapreneur.se
 * 11h45 : Présentation générale des incubateurs
 * 12h00 - 12h15 : Q&R et présentation du déroulé de l’après-midi
 <br>
+<br>
 ---  12h15 Pause déjeuner  ---
+<br>
 <br>
 * 13h45: Ateliers de codev en sous-groupes
 <br>
+<br>
 Pause 10'
+<br>
 <br>
 * 16h10 : Pitch et échanges sur les travaux des équipes
 * 17h25 : le feedback
+<br>
 <br>
 ---  Fin à 17h30  ---
 
