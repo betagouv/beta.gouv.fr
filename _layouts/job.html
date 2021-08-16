@@ -43,6 +43,9 @@ layout: default
 {% assign split_by_p = content | split:'<p' %}
 {% assign content = split_by_p | join: '<p class="fr-my-2w fr-text" ' %}
 
+{% assign split_by_ul = content | split:'<ul' %}
+{% assign content = split_by_ul | join: '<ul class="fr-pl-4w"' %}
+
 <section class="fr-py-6w">
   {% if page.junior %}
     <div class="fr-container fr-py-6w fr-px-2w">
