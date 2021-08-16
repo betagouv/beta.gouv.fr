@@ -87,6 +87,7 @@ Pause 10'
 <br>
 ---  Fin à 17h30  ---
 
+<br>
 <a href="https://startupdetat.typeform.com/to/NPeLzMvE" class="fr-btn">Je m'inscris</a>
 <br>
 <br>
