@@ -9,6 +9,8 @@ missions:
     status: independent
 startups:
   - euphrosyne
+  - locadocs
+  - collectif_objets
 competences:
   - UX
   - UI
