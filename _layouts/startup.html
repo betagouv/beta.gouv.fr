@@ -24,6 +24,9 @@ layout: default
 {% assign split_by_p = content | split:'<p' %}
 {% assign content = split_by_p | join: '<p class="fr-my-2w fr-text"' %}
 
+{% assign split_by_p = content | split:'<ul' %}
+{% assign content = split_by_ul | join: '<ul class="fr-py-2w"' %}
+
 {% capture phase_info %}
 Le produit est en <a href="{{ phase.documentation_url }}">{{ phase.label | downcase }}</a>
 {% endcapture %}
