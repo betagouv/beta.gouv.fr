@@ -7,7 +7,7 @@ $(function() {
     var datasets = {}; 
 
     // keys to use for the datasets
-    var employerTypes = Object.keys(window.data)
+    var employerTypes = Object.keys(window.data['employer'])
 
     /** 
     *   Work around Chart.js' unability to stack time series unless they explicitly share their abscissa,
@@ -18,7 +18,7 @@ $(function() {
     var dataByDate = {};
     employerTypes.forEach(function(employerType) {
         datasets[employerType] = []
-        window.data[employerType].forEach(function(event) {
+        window.data['employer'][employerType].forEach(function(event) {
             // Round departure to next month
             if(event.increment === -1) {
                 oldDate = new Date(event.date);
@@ -48,7 +48,7 @@ $(function() {
         })
     })
 
-    new Chart(document.querySelector('canvas'), {
+    new Chart(document.querySelector('canvas#member'), {
         type: 'line',
         data: {
             datasets: [{
@@ -93,6 +93,134 @@ $(function() {
                     stacked: true
                 }]
             }
+        }
+    });
+
+    new Chart(document.querySelector('canvas#domaine'), {
+        type: 'line',
+        data: {
+            datasets: [
+                {
+                    data: datasets['Déploiement'],
+                    label: 'Déploiement ', // trailing space to ensure legend complies with French typography rules
+                    backgroundColor: '#EF7D29',
+                    pointRadius: 0,
+                    lineTension: 0.3
+                },
+                {
+                    data: datasets['Design'],
+                    label: 'Design ', // trailing space to ensure legend complies with French typography rules
+                    backgroundColor: '#0048B3',
+                    pointRadius: 0,
+                    lineTension: 0.3
+                }, 
+                {
+                    data: datasets['Développement'],
+                    label: 'Développement ', // trailing space to ensure legend complies with French typography rules
+                    backgroundColor: '#3EA9FF',
+                    pointRadius: 0,
+                    lineTension: 0.3
+                },
+                {
+                    data: datasets['Coaching'],
+                    label: 'Coaching ', // trailing space to ensure legend complies with French typography rules
+                    backgroundColor: '#FEA9FF',
+                    pointRadius: 0,
+                    lineTension: 0.3
+                },
+                {
+                    data: datasets['Autre'],
+                    label: 'Autre ', // trailing space to ensure legend complies with French typography rules
+                    backgroundColor: '#FEAC1F',
+                    pointRadius: 0,
+                    lineTension: 0.3
+                },
+                {
+                    data: datasets['Intraprenariat'],
+                    label: 'Intraprenariat ', // trailing space to ensure legend complies with French typography rules
+                    backgroundColor: '#9E121F',
+                    pointRadius: 0,
+                    lineTension: 0.3
+                },
+                {
+                    data: datasets['Animation'],
+                    label: 'Animation ', // trailing space to ensure legend complies with French typography rules
+                    backgroundColor: '#9E1D1F',
+                    pointRadius: 0,
+                    lineTension: 0.3
+                },
+                {
+                    data: datasets['Produit'],
+                    label: 'Produit ', // trailing space to ensure legend complies with French typography rules
+                    backgroundColor: '#9E129F',
+                    pointRadius: 0,
+                    lineTension: 0.3
+                }
+            ],
+        },
+        options: {
+            animation: { duration: 0 },
+            maintainAspectRatio: false,
+            legend: {
+                onClick: function() { return false }
+            },
+            tooltips: {
+                mode: 'x-axis'
+            },
+            hover: {
+                mode: 'x-axis'
+            },
+            scales: {
+                xAxes: [{
+                    type: 'time',
+                    time: { unit: 'quarter' },
+                    gridLines: { display: false }
+                }],
+                yAxes: [{
+                    stacked: true
+                }]
+            }
+        }
+    });
+    var totalKeys = Object.keys(window.data.total)
+    console.log(totalKeys.map(key => window.data.total[key]))
+    new Chart(document.querySelector('canvas#pie-chart'), {
+        type: 'polarArea',
+        data: {
+            labels: [
+                'Red',
+                'Green',
+                'Yellow',
+                'Grey',
+                'Blue',
+                'Grey',
+                'Grey',
+            ],
+            datasets: [{
+                label: 'Domaine',
+                data: totalKeys.map(key => window.data.total[key]),
+                // backgroundColor: [
+                //     'rgb(255, 99, 132)',
+                //     'rgb(75, 192, 192)',
+                //     'rgb(255, 205, 86)',
+                //     'rgb(201, 203, 207)',
+                //     'rgb(54, 162, 235)',
+                //     'rgb(54, 162, 235)',
+                //     'rgb(54, 162, 235)'
+                //   ]
+                backgroundColor: [
+                    '#EF7D29',
+                    '#0048B3',
+                    '#3EA9FF',
+                    '#FEA9FF',
+                    '#FEAC1F',
+                    '#9E121F',
+                    '#9E1D1F',
+                    '#9E129F'
+                ]
+            }],
+            labels: totalKeys.map(key => key),
+           
         }
     });
 });

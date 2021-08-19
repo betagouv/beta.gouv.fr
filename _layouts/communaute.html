@@ -11,8 +11,22 @@ layout: default
 <section class="fr-py-6w">
     <div class="fr-container">
         <h2>Évolution des effectifs</h2>
-        <div id="chart-wrapper">
-            <canvas> Nous avons actuellement {{ current | size }} membres. </canvas>
+        <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
+            <div class="fr-col-6 fr-col-md-6">
+                <div id="chart-wrapper">
+                    <canvas id="member"> Nous avons actuellement {{ current | size }} membres. </canvas>
+                </div>
+            </div>
+            <div class="fr-col-6 fr-col-md-6">
+                <div id="chart-wrapper">
+                    <canvas id="domaine"> Nous avons actuellement {{ current | size }} membres. </canvas>
+                </div>
+            </div>
+        </div>
+        <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
+            <div class="fr-col-6 fr-col-md-6">
+                <canvas id="pie-chart"> Nous avons actuellement {{ current | size }} membres. </canvas>
+            </div>
         </div>
     </div>
     <div class="fr-container">
