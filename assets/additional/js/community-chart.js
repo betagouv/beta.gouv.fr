@@ -81,11 +81,9 @@ $(function() {
             legend: {
                 onClick: function() { return false }
             },
-            tooltips: {
-                mode: 'x-axis'
-            },
-            hover: {
-                mode: 'x-axis'
+            interaction: {
+                mode: 'index',
+                intersect: false
             },
             scales: {
                 x: {
@@ -186,11 +184,15 @@ $(function() {
             legend: {
                 onClick: function() { return false }
             },
-            tooltips: {
-                mode: 'x-axis'
+            plugins: {
+                // tooltip: {
+                //     mode: 'x'
+                // },
             },
-            hover: {
-                mode: 'x-axis'
+            interaction: {
+                mode: 'x',
+                intersect: false
+                // mode: 'index'
             },
             scales: {
                 x: {
@@ -235,30 +237,32 @@ $(function() {
         },
         options: {
             title: 'Répartition des membres par compétence',
-            animation: { duration: 0 },
-            // maintainAspectRatio: false,
-            legend: {
-                onClick: function() { return false },
-                position: 'right',
-                title: 'Légende'
-            },
+            // animation: { duration: 0 },
+            maintainAspectRatio: false,
+            // legend: {
+            //     onClick: function() { return false },
+            //     position: 'right',
+            //     title: 'Légende'
+            // },
             plugins: {
-                title: 'Répartition des membres par compétence',
+                title: {
+                    text: 'Répartition des membres par compétence',
+                    display: true
+                },
                 animation: { duration: 0 },
-                // maintainAspectRatio: false,
+                maintainAspectRatio: false,
                 legend: {
                     onClick: function() { return false },
                     position: 'right',
-                    title: 'Légende'
+                    title: {
+                        text: 'Légende',
+                        display: true
+                    }
                 },
             },
             scales: {
                 r: {
                     display:false,
-                    angleLines: {
-                        color: 'red',
-                        display:false
-                    }
                 }
             }
         }
