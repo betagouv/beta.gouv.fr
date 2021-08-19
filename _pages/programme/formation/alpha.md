@@ -41,8 +41,6 @@ images:
   - /img/alpha/visio.png
 ---
 
-La session du 15 juillet est complète !
-<br>
 <br>
 **La prochaine session aura lieu le jeudi 9 septembre 2021. En ligne**
 <br>
