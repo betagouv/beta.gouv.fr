@@ -32,6 +32,7 @@ $(function() {
             }
         });
     });
+    // Chart.defaults.scale.gridLines.display = false;
 
     // use dataByDate to define each points and corresponding values
     // for each datasets we compute the value for each new points by adding all values from previous date
@@ -56,19 +57,22 @@ $(function() {
                 label: 'Agents publics ', // trailing space to ensure legend complies with French typography rules
                 backgroundColor: '#EF7D29',
                 pointRadius: 0,
-                lineTension: 0.3
+                lineTension: 0.3,
+                fill: true
             }, {
                 data: datasets.independent,
                 label: 'Indépendantes et indépendants ', // trailing space to ensure legend complies with French typography rules
                 backgroundColor: '#0048B3',
                 pointRadius: 0,
-                lineTension: 0.3
+                lineTension: 0.3,
+                fill: true
             }, {
                 data: datasets.service,
                 label: 'Prestataires ', // trailing space to ensure legend complies with French typography rules
                 backgroundColor: '#3EA9FF',
                 pointRadius: 0,
-                lineTension: 0.3
+                lineTension: 0.3,
+                   fill: true
             }],
         },
         options: {
@@ -84,14 +88,14 @@ $(function() {
                 mode: 'x-axis'
             },
             scales: {
-                xAxes: [{
+                x: {
                     type: 'time',
                     time: { unit: 'quarter' },
                     gridLines: { display: false }
-                }],
-                yAxes: [{
+                },
+                y: {
                     stacked: true
-                }]
+                }
             }
         }
     });
@@ -105,58 +109,76 @@ $(function() {
                     label: 'Déploiement ', // trailing space to ensure legend complies with French typography rules
                     backgroundColor: '#EF7D29',
                     pointRadius: 0,
-                    lineTension: 0.3
+                    lineTension: 0.3,
+                    fill: true
                 },
                 {
                     data: datasets['Design'],
                     label: 'Design ', // trailing space to ensure legend complies with French typography rules
                     backgroundColor: '#0048B3',
                     pointRadius: 0,
-                    lineTension: 0.3
+                    lineTension: 0.3,
+                    fill: true
                 }, 
                 {
                     data: datasets['Développement'],
                     label: 'Développement ', // trailing space to ensure legend complies with French typography rules
                     backgroundColor: '#3EA9FF',
                     pointRadius: 0,
-                    lineTension: 0.3
+                    lineTension: 0.3,
+                    fill: true
                 },
                 {
                     data: datasets['Coaching'],
                     label: 'Coaching ', // trailing space to ensure legend complies with French typography rules
                     backgroundColor: '#FEA9FF',
                     pointRadius: 0,
-                    lineTension: 0.3
+                    lineTension: 0.3,
+                    fill: true
                 },
                 {
                     data: datasets['Autre'],
                     label: 'Autre ', // trailing space to ensure legend complies with French typography rules
                     backgroundColor: '#FEAC1F',
                     pointRadius: 0,
-                    lineTension: 0.3
+                    lineTension: 0.3,
+                    fill: true
                 },
                 {
                     data: datasets['Intraprenariat'],
                     label: 'Intraprenariat ', // trailing space to ensure legend complies with French typography rules
                     backgroundColor: '#9E121F',
                     pointRadius: 0,
-                    lineTension: 0.3
+                    lineTension: 0.3,
+                    fill: true
                 },
                 {
                     data: datasets['Animation'],
                     label: 'Animation ', // trailing space to ensure legend complies with French typography rules
                     backgroundColor: '#9E1D1F',
                     pointRadius: 0,
-                    lineTension: 0.3
+                    lineTension: 0.3,
+                    fill: true
                 },
                 {
                     data: datasets['Produit'],
                     label: 'Produit ', // trailing space to ensure legend complies with French typography rules
                     backgroundColor: '#9E129F',
                     pointRadius: 0,
-                    lineTension: 0.3
+                    lineTension: 0.3,
+                    fill: true
                 }
             ],
+            backgroundColor: [
+                '#EF7D29',
+                '#0048B3',
+                '#3EA9FF',
+                '#FEA9FF',
+                '#FEAC1F',
+                '#9E121F',
+                '#9E1D1F',
+                '#9E129F'
+            ]
         },
         options: {
             animation: { duration: 0 },
@@ -171,19 +193,18 @@ $(function() {
                 mode: 'x-axis'
             },
             scales: {
-                xAxes: [{
+                x: {
                     type: 'time',
                     time: { unit: 'quarter' },
                     gridLines: { display: false }
-                }],
-                yAxes: [{
+                },
+                y: {
                     stacked: true
-                }]
+                }
             }
         }
     });
     var totalKeys = Object.keys(window.data.total)
-    console.log(totalKeys.map(key => window.data.total[key]))
     new Chart(document.querySelector('canvas#pie-chart'), {
         type: 'polarArea',
         data: {
@@ -199,15 +220,6 @@ $(function() {
             datasets: [{
                 label: 'Domaine',
                 data: totalKeys.map(key => window.data.total[key]),
-                // backgroundColor: [
-                //     'rgb(255, 99, 132)',
-                //     'rgb(75, 192, 192)',
-                //     'rgb(255, 205, 86)',
-                //     'rgb(201, 203, 207)',
-                //     'rgb(54, 162, 235)',
-                //     'rgb(54, 162, 235)',
-                //     'rgb(54, 162, 235)'
-                //   ]
                 backgroundColor: [
                     '#EF7D29',
                     '#0048B3',
@@ -219,8 +231,36 @@ $(function() {
                     '#9E129F'
                 ]
             }],
-            labels: totalKeys.map(key => key),
-           
+            labels: totalKeys.map(key => key),  
+        },
+        options: {
+            title: 'Répartition des membres par compétence',
+            animation: { duration: 0 },
+            // maintainAspectRatio: false,
+            legend: {
+                onClick: function() { return false },
+                position: 'right',
+                title: 'Légende'
+            },
+            plugins: {
+                title: 'Répartition des membres par compétence',
+                animation: { duration: 0 },
+                // maintainAspectRatio: false,
+                legend: {
+                    onClick: function() { return false },
+                    position: 'right',
+                    title: 'Légende'
+                },
+            },
+            scales: {
+                r: {
+                    display:false,
+                    angleLines: {
+                        color: 'red',
+                        display:false
+                    }
+                }
+            }
         }
     });
 });
