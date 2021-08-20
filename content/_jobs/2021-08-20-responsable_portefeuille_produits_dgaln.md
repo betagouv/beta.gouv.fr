@@ -3,7 +3,7 @@ roles: Responsable de portefeuille produits numériques innovants
 title: Responsable de portefeuille produits
 contrat: Fonctionaire A/A+ ou CDD 3 ans
 equipe: Direction générale de l'aménagement, du logement et de la nature
-friend: Fabrique Numérique
+friend: Mission numérique DGALN
 type: 'friend'
 externalURL: https://place-emploi-public.gouv.fr/offre-emploi/responsable-portefeuille-produits-numriques-innovants-reference-2021-682509/
 post_ouvert: 2021-08-03
