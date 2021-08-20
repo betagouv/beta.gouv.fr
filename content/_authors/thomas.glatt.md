@@ -7,10 +7,11 @@ missions:
   - start: 2021-06-28
     end: 2021-10-30
     status: independent
-startups:
+previously:
   - tremplin
   - workinfrance
   - e-mjpm
+startups:
   - carnet.de.bord
 competences:
   - Développement Frontend
