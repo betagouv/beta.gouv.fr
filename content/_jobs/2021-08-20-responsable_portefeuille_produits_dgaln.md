@@ -15,7 +15,7 @@ open: true
 ---
 
 
-#### Les missions du poste
+### Les missions du poste
 Garantir le succès des produits numériques soutenus par la Direction générale de l'aménagement, du logement et de la nature : focus sur l'impact et besoins usagers, bonnes métriques, itérations courtes, trouver des solutions aux problèmes, anticiper le déploiement ;
 Conseiller et appuyer les équipes métiers pour développer des produits, oeuvrer à leur consolidation, à leur pérennisation, ou à leur arrêt rapide si l'impact n'est pas démontré.
 S'assurer de la bonne gestion des équipes : financements, recrutements ;
@@ -26,7 +26,7 @@ Cultiver la culture de l'impact sur le réel et accompagner les équipes dans la
 Le/la titulaire est placé·e sous la responsabilité de la personne conseiller numérique auprès de la DGALN - Chef de mission numérique. Elle travaille en équipe, avec deux autres personnes responsables de portefeuille pour couvrir l'ensemble des typologies de produits et projets numériques sur les politiques publiques de la DGALN. Elle s'appuie sur les experts techniques de la mission numérique, sur les ressources internes au pôle ministériel (DG, SG/SNUM, CGDD/SDES ECOLAB) et interministériel (DINUM, DITP). Elle entretient des liens privilégiés avec la "Fabrique numérique" et "beta.gouv.fr" les incubateurs ministériel et interministériel. Elle participe et contribue à la vie de ces incubateurs et communautés de pratiques numériques.
 Pas d'encadrement direct hiérarchique
 
-#### Qui sommes nous ?
+### Qui sommes nous ?
 La DGALN a pour ambition d'offrir aux générations actuelles et futures un cadre de vie de qualité en harmonie avec les dynamiques des territoires et de la nature, en limitant les pressions sur les écosystèmes ; en favorisant l'accès à un logement adapté, sain et sûr ; en développant une gestion durable des ressources.
 Ces politiques sont portées par les ministres de la transition écologique (MTE), de la cohésion des territoires et des Relations avec les Collectivités Territoriales (MCTRCT), et de l'économie, des finances et de la Relance (MEFR), conformément à leurs attributions.
 La DGALN est organisée en deux directions métier : la direction de l'habitat, de l'urbanisme et des paysages (DHUP) et la direction de l'eau et de la biodiversité (DEB) et un service des affaires générales et de la performance.
