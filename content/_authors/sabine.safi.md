@@ -9,11 +9,12 @@ missions:
     status: independent
 startups:
     - urbanvitaliz
-    - comobi
+    - data.gouv.fr
     - eva
 previously:
     - transport
     - cartobio
+    - comobi
     - participation-citoyenne
     - auto-partage
     - tout-est-permis
