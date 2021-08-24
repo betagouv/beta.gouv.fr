@@ -1,15 +1,14 @@
 ---
 roles: Développeuse·eur full-stack
 open: true
-junior: true
+junior: false
 date: 2021-08-04T07:43:40.482Z
 startup: aides-territoires
 ---
-**Bienvenue aux juniors sur ce poste ! L'équipe assurera votre formation.**
 
-Choix technologiques : [Django](https://www.djangoproject.com/)
+Choix technologique : [Django](https://www.djangoproject.com/)
 
-**Un profil expérimenté, un profil junior.**
+**Un profil expérimenté**
 
 * **Quand ?** Dès que possible
 * **Où ?** Chez toi ou à La Défense (Grande Arche)
@@ -29,7 +28,7 @@ Lauréats du [FAST](https://beta.gouv.fr/approche/fast), nous avons de grands d
 
 ## 🎯 Ta mission
 
-Gérer les développements quotidiens de la plateforme, côté frontend et backend, principalement avec **Django/Python**.
+Gérer les développements quotidiens de la plateforme, côté frontend et backend, avec **Django/Python**.
 
 **Conseiller et orienter** l’équipe sur les problématiques techniques, participer à la conception des nouvelles fonctionnalités.
 
@@ -43,7 +42,7 @@ Tu as une bonne connaissance du fonctionnement du Web et possèdes une maîtrise
 
 Tu es sensible aux bonnes pratiques et attentif·ve aux problématiques transverses inhérentes au développement d’un site Web de qualité (accessibilité, utilisabilité, sécurité, performances, référencement…).
 
-Tu as déjà une solide expérience dans l’utilisation d’un framework Web moderne, idéalement Django.
+Tu as déjà une solide expérience dans l’utilisation de Django.
 
 Tu sais travailler en équipe, faire preuve de bienveillance et d’empathie, tu es à l’aise avec les modalités de travail issues du logiciel libre (PR, code reviews, etc.)
 
