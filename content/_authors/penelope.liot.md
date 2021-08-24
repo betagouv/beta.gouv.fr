@@ -5,7 +5,7 @@ role: Coach
 github: penelopel
 missions:
   - start: 2020-10-01
-    end: 2021-08-31
+    end: 2021-10-31
     status: independent
     employer: Numa
 startups:
