@@ -19,7 +19,7 @@ phases:
 link: http://workinfrance.fr
 repository: https://github.com/SocialGouv/work-in-france
 stats: true
-contact:
+contact: false
 ---
 
 Les étudiantes étrangères et les étudiants étrangers qui voudraient travailler en France, au-delà du mi-temps, doivent déposer une demande d'autorisation de travail en DIRECCTE<sup>1</sup>. C'est généralement une démarche critique pour le projet étudiant ; « pourrais-je rester en France, payer mes études, valider l'expérience professionnelle nécessaire à mon diplôme ? »
