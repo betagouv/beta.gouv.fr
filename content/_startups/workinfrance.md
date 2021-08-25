@@ -11,9 +11,11 @@ incubator: sgmas
 phases:
   - name: investigation
     start: 2017-10-26
+    end: 2017-12-31
   - name: construction
-    start: 2017-10-26
-  - name: acceleration
+    start: 2018-01-01
+  - name: alumni
+    start: 2021-04-01
 link: http://workinfrance.fr
 repository: https://github.com/SocialGouv/work-in-france
 stats: true
