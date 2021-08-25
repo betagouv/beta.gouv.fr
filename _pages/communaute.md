@@ -1,7 +1,7 @@
 ---
 layout: communaute
 permalink: /communaute/
-title: La communauté beta.gouv.fr
+title: Découvrez la communauté
 additional_css:
   - community-chart.css
 additional_js:

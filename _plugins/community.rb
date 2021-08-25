@@ -37,8 +37,9 @@ module Jekyll
 
 class RenderCommunityStatsTag < Liquid::Tag
 
-  def initialize(tag_name, text, tokens)
+  def initialize(tag_name, input, tokens)
     super
+    @input = input
   end
 
   def render(context)
@@ -47,6 +48,8 @@ class RenderCommunityStatsTag < Liquid::Tag
         'admin' => [],
         'independent' => [],
         'service' => [],
+      },
+      'domaineOverDate' => {
         'Déploiement' => [],
         'Design' => [],
         'Développement' => [],
@@ -56,7 +59,7 @@ class RenderCommunityStatsTag < Liquid::Tag
         'Animation' => [],
         'Produit' => [],
       },
-      'total' => {
+      'domaine' => {
         'Déploiement' => 0,
         'Design' => 0,
         'Développement' => 0,
@@ -65,7 +68,8 @@ class RenderCommunityStatsTag < Liquid::Tag
         'Intraprenariat' => 0,
         'Animation' => 0,
         'Produit' => 0
-      }
+      },
+      'total' => 0
     }
     authors = context.registers[:site].collections['authors']
     now = Date.today
@@ -76,15 +80,21 @@ class RenderCommunityStatsTag < Liquid::Tag
           endDate = mission['end']
           result['employer'][mission['status']] << {date: startDate, increment: 1} if startDate and startDate != ''
           result['employer'][mission['status']] << {date: endDate, increment: -1} if endDate and endDate != ''
-          result['employer'][author.data['domaine']] << {date: startDate, increment: 1} if startDate and startDate != ''
-          result['employer'][author.data['domaine']] << {date: endDate, increment: -1} if endDate and endDate != ''
+          result['domaineOverDate'][author.data['domaine']] << {date: startDate, increment: 1} if startDate and startDate != ''
+          result['domaineOverDate'][author.data['domaine']] << {date: endDate, increment: -1} if endDate and endDate != ''
         end
         if author.data['missions']&.last['end'] >= now
-          result['total'][author.data['domaine']] = result['total'][author.data['domaine']] + 1
+          result['domaine'][author.data['domaine']] = result['domaine'][author.data['domaine']] + 1
+          result['total'] = result['total'] + 1 
         end
       end
     end
-    result.to_json
+    if ( !@input.nil? && !@input.empty? )
+      key = @input.strip
+      return result[key]
+    else
+      return result.to_json
+    end
   end
 end
 end
