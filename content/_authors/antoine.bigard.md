@@ -2,7 +2,6 @@
 fullname: Antoine Bigard
 role: Lead-Développeur
 domaine: Développement
-github: gethi
 missions:
   - start: 2018-09-17
     end: 2021-12-31
