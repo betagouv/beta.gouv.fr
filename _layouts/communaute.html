@@ -9,13 +9,13 @@ layout: default
 {%- include hero-page.html title=page.title -%}
 <section>
     <div class="fr-container">
-        <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
-            <div class="fr-col-6 fr-col-md-6">
+        <div class="fr-grid-row fr-grid-row--gutters fr-pb-6w">
+            <div class="fr-col-12 fr-col-md-6">
                 <div class="chart-wrapper">
                     <canvas id="member"> Nous avons actuellement {{ current | size }} membres. </canvas>
                 </div>
             </div>
-            <div class="fr-col-6 fr-col-md-6">
+            <div class="fr-col-12 fr-col-md-6">
                 <div class="chart-wrapper">
                     <canvas id="pie-chart"> Nous avons actuellement {{ current | size }} membres. </canvas>
                     <!-- <canvas id="domaine"> Nous avons actuellement {{ current | size }} membres. </canvas> -->
