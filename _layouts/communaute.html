@@ -18,7 +18,6 @@ layout: default
             <div class="fr-col-12 fr-col-md-6">
                 <div class="chart-wrapper">
                     <canvas id="pie-chart"> Nous avons actuellement {{ current | size }} membres. </canvas>
-                    <!-- <canvas id="domaine"> Nous avons actuellement {{ current | size }} membres. </canvas> -->
                 </div>
             </div>
         </div>
@@ -30,16 +29,13 @@ layout: default
             </div>
         </div> -->
     </div>
-    <!-- <div class="fr-container">
-        {{ content }}
-    </div> -->
 </section>
 <section class="section-grey">
     <div class="fr-container">
       <div class="fr-grid-row fr-grid-row--gutters fr-py-2w fr-pt-4w">
-        <div class="fr-col fr-col-12 fr-col-md-3">
+        <div class="fr-col fr-col-12 fr-col-md-3 beta-list-item">
           <p>
-            <span style="line-height: 1.5em; color: #DD6A57;">■</span>
+            <span class="beta-square-list-item">■</span>
             <strong>{% render_community_stats total %} membre actif</strong><br>
             issus du public et du privé.<br><br>
             <a 
@@ -47,9 +43,9 @@ layout: default
                 class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right">Annuaire des membres</a>
           </p>
         </div>
-        <div class="fr-col fr-col-12 fr-col-md-3">
+        <div class="fr-col fr-col-12 fr-col-md-3 beta-list-item">
             <p>
-                <span style="line-height: 1.5em; color: #F3AC3F">■</span>
+                <span class="beta-square-list-item">■</span>
                 <b>{{ site.incubators.size }} incubateurs</b><br>
                 au seins d'agences déconcentrés, d'opérateurs et de ministères<br><br>
                 <a
@@ -59,39 +55,25 @@ layout: default
                 </a>
             </p>
         </div>
-        <div class="fr-col fr-col-12 fr-col-md-3">
-            <p><span style="line-height: 1.5em; color: #92E3A9">■</span>
+        <div class="fr-col fr-col-12 fr-col-md-3 beta-list-item">
+            <p><span class="beta-square-list-item">■</span>
                 <b>56 chaînes de discussion</b><br>
             pour partager et s'entraider sur notre application de messagerie.</p>
         </div>
-        <div class="fr-col fr-col-12 fr-col-md-3">
-            <p><span style="line-height: 1.5em; color: #7B61FF">■</span>
+        <div class="fr-col fr-col-12 fr-col-md-3 beta-list-item">
+            <p><span class="beta-square-list-item">■</span>
                 <b>10 événements par semaine</b>
             <br>en moyenne organisés par les membres : formations, ateliers ou retours d'expérience.</p>
         </div>       
       </div>
     </div>
 </section>
-
-
-<!-- <div class="fr-container">
-    <h2>Ils viennent de nous rejoindre&nbsp;!</h2>
-    <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
-        {%- for author in recent -%}
-        <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
-        {%- endfor -%}
-
-        <div class="fr-col-6 fr-col-md-3" style="align-self: center;">
-            <a class="fr-link fr-link--lg fr-fi-arrow-right-line fr-link--icon-right" href="/communaute/annuaire">Voir tous les membres</a>
-        </div>
-    </div>
-</div> -->
 <section class="fr-py-2w fr-pt-4w" id="incubateur">
     <div class="fr-container">
         <h2>Notre réseau d'incubateurs</h2>
         <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
             <div class="fr-col fr-col-12 fr-col-md-4">
-                <div class="fr-sidemenu section-grey" aria-label="Menu latéral">
+                <div class="fr-sidemenu" aria-label="Menu latéral">
                     <div class="fr-sidemenu__inner">
                         <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
                         <div class="fr-collapse" id="fr-sidemenu-wrapper">
@@ -115,7 +97,7 @@ layout: default
                     <div class="fr-col-12" id="{{ incubator.id }}">
                         {%- include card-incubator.html incubator=incubator -%}
                         {% unless forloop.last %}
-                        <hr style="color: black;" class="fr-my-4w">
+                        <hr class="beta-communaute-hr" class="fr-my-4w">
                         {% endunless %}
                     </div>
                     {%- endfor -%}
