@@ -7,7 +7,7 @@ sponsors:
       acronym: DGITM
       domaine_ministeriel: environnement
       type: administration-centrale
-incubator: dinum
+incubator: mtes
 phases:
   - name: investigation
     start: 2018-06-04
