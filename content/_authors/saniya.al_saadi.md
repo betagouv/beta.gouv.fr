@@ -9,10 +9,10 @@ missions:
     status: independent
     employer: octo
 startups:
-  - workinfrance
   - didoc
   - archifiltre
-  - medle
 previously:
   - domifa
+  - workinfrance
+  - medle
 ---
