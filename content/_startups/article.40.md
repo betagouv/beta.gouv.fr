@@ -1,5 +1,5 @@
 ---
-title: Article 40
+title: Info Parquet
 mission: Harmoniser la transmission des saisines du procureur de la République
   sur le fondement de l'article 40
 owner: Ministère de la Justice
@@ -8,6 +8,10 @@ contact: caroline-lucile.didier@beta.gouv.fr
 phases:
   - name: investigation
     start: 2021-03-07
+    end: 2021-05-31
+  - name: construction
+    start: 2021-07-09
+    end: 2022-01-09
 ---
 ## Contexte
 
