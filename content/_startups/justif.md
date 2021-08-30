@@ -6,7 +6,7 @@ owner: Tribunal de Nanterre et le service pénitentiaire d'insertion et de
   probation du 92
 incubator: dinum
 repository: https://github.com/betagouv/mon-suivi-justice
-contact: felicie.callipel@justice.fr
+contact: contact@mon-suivi-justice.beta.gouv.fr
 events:
   - name: product_launch
     date: 2021-05-07
