@@ -2,7 +2,7 @@
 startup: ellesfontlaculture
 title: "elles font la culture recrute un ou une développeuse back-end"
 roles: un ou une développeuse back-end
-open: true
+open: false
 ---
 
 ### **L’équipe de l'Atelier numérique recherche un développeur ou une développeuse back pour construire la première startup d’État au service de l'égalité de genre dans le secteur culturel, en commençant par la photographie.**
