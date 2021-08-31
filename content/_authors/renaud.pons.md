@@ -1,7 +1,7 @@
 ---
 fullname: Renaud Pons
-domaine: Coaching
-role: Coach
+domaine: Design
+role: Designer de services & social
 github: renaudpons
 link: https://www.design-territoire.fr/
 missions:
