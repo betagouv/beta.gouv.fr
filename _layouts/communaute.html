@@ -97,7 +97,7 @@ layout: default
                     <div class="fr-col-12" id="{{ incubator.id }}">
                         {%- include card-incubator.html incubator=incubator -%}
                         {% unless forloop.last %}
-                        <hr class="beta-communaute-hr" class="fr-my-4w">
+                        <hr class="beta-communaute-hr">
                         {% endunless %}
                     </div>
                     {%- endfor -%}
@@ -116,7 +116,6 @@ layout: default
             const rec = stickyDivParent.getBoundingClientRect();
             const footer = document.querySelector(".fr-footer");
             const footerRec = footer.getBoundingClientRect()
-            console.log(window.pageYOffset + window.innerHeight, document.body.offsetHeight - footerRec.height)
             if (rec.top < 0) {
                 if (window.pageYOffset + window.innerHeight < document.body.offsetHeight - footerRec.height) {
                     stickyDiv.style.top = (-1 * rec.top) + "px";
