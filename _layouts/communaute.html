@@ -73,7 +73,7 @@ layout: default
         <h2>Notre réseau d'incubateurs</h2>
         <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
             <div class="fr-col fr-col-12 fr-col-md-4">
-                <div class="fr-sidemenu" aria-label="Menu latéral">
+                <div class="fr-sidemenu beta-sidemenu-sticky" aria-label="Menu latéral">
                     <div class="fr-sidemenu__inner">
                         <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
                         <div class="fr-collapse" id="fr-sidemenu-wrapper">
@@ -109,6 +109,21 @@ layout: default
 <script type="text/javascript">
     (function() {
         window.buildDate = '{{ build_date }}';
-        window.data = {% render_community_stats %}
+        window.data = {% render_community_stats %};
+        const stickyDivParent = document.querySelector(".beta-sidemenu-sticky");
+        const stickyDiv = document.querySelector(".beta-sidemenu-sticky div");
+        window.addEventListener("scroll", function() {
+            const rec = stickyDivParent.getBoundingClientRect();
+            const footer = document.querySelector(".fr-footer");
+            const footerRec = footer.getBoundingClientRect()
+            console.log(window.pageYOffset + window.innerHeight, document.body.offsetHeight - footerRec.height)
+            if (rec.top < 0) {
+                if (window.pageYOffset + window.innerHeight < document.body.offsetHeight - footerRec.height) {
+                    stickyDiv.style.top = (-1 * rec.top) + "px";
+                }
+            } else {
+                stickyDiv.style.top = 0 + "px";
+            }
+        });
     })();
 </script>
