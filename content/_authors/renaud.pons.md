@@ -9,6 +9,8 @@ missions:
     end: 2021-10-30
     status: independent
     employer: ""
+startups:
+  - carnet.de.bord
 competences:
   - Coaching
   - UX
