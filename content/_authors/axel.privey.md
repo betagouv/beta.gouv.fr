@@ -2,7 +2,6 @@
 fullname: Axel PRIVEY
 role: Urbaniste des systèmes d'information
 domaine: Autre
-github: axelpriv
 missions:
   - start: 2021-07-21
     end: 2021-10-21

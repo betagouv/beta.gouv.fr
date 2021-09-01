@@ -1,7 +1,8 @@
 ---
 roles: Développeur ou développeuse fullstack
+open: false
+date: 2021-08-19T13:42:30.664Z
 startup: mobilic
-open: true
 ---
 
 **_La start-up d’Etat Mobilic qui vise à lutter contre le travail illégal dans le transport routier recrute un développeur ou une développeuse fullstack !_**

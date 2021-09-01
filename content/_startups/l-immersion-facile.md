@@ -2,6 +2,10 @@
 title: L'immersion facile
 mission: Faciliter la réalisation des immersion professionnelles
 owner: DGEFP et Pôle emploi
+sponsors:
+  - domaine_ministeriel: affaires-sociales
+    name: Ministère du Travail, de l'Emploi et de l'Insertion
+    type: administration-centrale
 incubator: sgmas
 contact: immersionfacile@beta.gouv.fr
 phases:

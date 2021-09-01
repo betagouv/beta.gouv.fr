@@ -2,7 +2,7 @@
 roles: Chargé(e) de produit Dédale
 title: Dédale recrute un ou une chargé(e) de produit
 open: true
-date: 2021-07-23
+date: 2021-08-30
 contrat: indépendant
 startup: dedale
 ---

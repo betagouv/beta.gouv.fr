@@ -9,6 +9,8 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: travail
 incubator: sgmas
+link: https://dora.beta.gouv.fr/
+repository: https://github.com/betagouv/dora/
 contact: dora@beta.gouv.fr
 events: []
 phases:
