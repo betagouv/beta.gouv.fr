@@ -8,6 +8,10 @@ missions:
     end: 2019-12-31
     status: admin
     employer: dinum
+  - start: 2021-09-01
+    end: 2021-12-31
+    status: independant
+    employer: octo
 startups:
     - api-entreprise
 ---
