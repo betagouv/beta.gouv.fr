@@ -4,7 +4,7 @@ mission: Permettre à un aidant professionnel de réaliser des démarches admini
 owner: Agence Nationale de la Cohésion des Territoires
 sponsors: 
     - name: Agence Nationale de la Cohésion des Territoires
-      acronym:
+      acronym: ANCT
       domaine_ministeriel: territoires
       type: operateur
 incubator: anct
