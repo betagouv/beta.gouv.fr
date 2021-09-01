@@ -12,5 +12,5 @@ startups:
   - histologe
 ---
 
-UX Desginer & cheffe de produit
+UX Designer & cheffe de produit
 J'aime les jeux de mots et le vert menthe !
