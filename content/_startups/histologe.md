@@ -33,7 +33,7 @@ L'outil se positionne comme un intermédiaire simple et efficace, capable de mes
 et de lancer des alertes vers les partenaires en capacité d’intervenir.
 La mesure de cette criticité, établie comme une classe d’étiquette énergie, permettra d’identifier facilement les actions à mettre en œuvre ainsi que leur degré de criticité.
 
-Histologe assurera un accès au suivi des situations signalées et facilitera donc la détection, le signalement, l’évaluation et l’envoi d’alertes liées logements non conformes pour accélérer la prise en charge du “mal logement”.
+Histologe assurera un accès au suivi des situations signalées et facilitera donc la détection, le signalement, l’évaluation et l’envoi d’alertes liées aux logements non conformes pour accélérer la prise en charge du “mal logement”.
 
 Un des objectifs sera notamment de proposer une grille nationale d’évaluation unique des critères d’habitabilité, une centralisation des signalements et de leurs traitements.
 
