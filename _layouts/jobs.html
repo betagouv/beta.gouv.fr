@@ -11,7 +11,7 @@ layout: default
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-9 fr-col-sm-12 fr-col-lg-9">
         <div class="fr-grid-row">
-          {% assign jobs = site.jobs | where: "open", 'true' | reverse %}
+          {% assign jobs = site.jobs | where: "open", 'true' |  sort: "date" | reverse %}
           {% for job in jobs %}
             {% assign startup_id = job.startup %}
             {% assign startup = site.startups | where: "title", startup_id | first %}
