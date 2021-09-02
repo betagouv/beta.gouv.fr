@@ -10,7 +10,11 @@ missions:
 startups:
   - diagoriente
   - histologe
-  - apprentissage
+  - catalogue-apprentissage
+  - rdv.apprentissage.md
+  - matcha.md
+  - pau-partage.md
+  - commun.orientation.md
   - cmachance
 badges:
   - segur
