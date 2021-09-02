@@ -3,7 +3,7 @@ fullname: Margot Sanchez
 role: Responsable de portefeuille
 domaine: Animation
 missions:
- - start: 2018-06-04
+  - start: 2018-06-04
     end: 2018-08-31
     employer: Codeurs en Liberté
     status: independent
