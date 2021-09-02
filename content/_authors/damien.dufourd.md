@@ -11,10 +11,10 @@ startups:
   - diagoriente
   - histologe
   - catalogue-apprentissage
-  - rdv.apprentissage.md
-  - matcha.md
-  - pau-partage.md
-  - commun.orientation.md
+  - rdv.apprentissage
+  - matcha
+  - pau-partage
+  - commun.orientation
   - cmachance
 badges:
   - segur
