@@ -3,6 +3,11 @@ title: Delta V
 mission: Permettre aux voyageurs arrivant en France de déclarer des marchandises
   achetées à l'étranger
 owner: Direction Générale des Douanes et Droits Indirects
+sponsors:
+  - name: Direction Générale des Douanes et Droits Indirects
+    acronym: DGDDI
+    type: administration-centrale
+    domaine_ministeriel: bercy
 incubator: dinum
 contact: romain.dalisson@douane.finances.gouv.fr
 phases:
@@ -10,5 +15,4 @@ phases:
     end: 2021-11-18
     start: 2021-09-03
 ---
-Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan:
+À venir.
