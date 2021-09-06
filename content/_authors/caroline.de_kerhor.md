@@ -5,7 +5,7 @@ domaine: Animation
 link: https://www.linkedin.com/in/carolinedekerhor/
 missions:
   - start: 2019-06-17
-    end: 2021-06-30
+    end: 2021-12-31
     status: independent
 startups:
 - ozensemble
