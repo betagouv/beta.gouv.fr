@@ -13,5 +13,7 @@ startups:
   - envergo
 competences:
   - Coaching
+  - UX
+  - Gestion de Produit
 ---
 Designer de services & coach produit, fan de data, engagé bénévole pour un design plus responsable
