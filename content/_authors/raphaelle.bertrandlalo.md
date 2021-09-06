@@ -1,5 +1,5 @@
 ---
-fullname: Raphaëlle BERTRAND-LALO
+fullname: Raphaëlle Bertrand-Lalo
 role: Développeuse
 domaine: Développement
 github: bertrandlalo
