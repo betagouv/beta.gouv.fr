@@ -7,5 +7,7 @@ missions:
     end: 2021-12-06
     status: admin
     employer: Urssaf Caisse Nationale
+startups:
+    - signaux-faibles
 ---
 
