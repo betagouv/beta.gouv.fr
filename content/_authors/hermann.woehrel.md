@@ -9,8 +9,6 @@ missions:
     employer: DTNUM
 startups:
   - signaux-faibles
-badges:
-  - segur
 ---
 
 Data scientist
