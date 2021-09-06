@@ -21,6 +21,7 @@ incubator: mission-apprentissage
 link: https://catalogue.apprentissage.beta.gouv.fr/
 repository: https://github.com/mission-apprentissage/catalogue-apprentissage
 contact: mailto:catalogue@apprentissage.beta.gouv.fr
+stats: true
 phases:
   - name: acceleration
     start: 2020-07-01
