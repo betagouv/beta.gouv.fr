@@ -1,10 +1,10 @@
 ---
 title: Conseiller Numérique
 mission: Sur une durée de 2 ans, l’État finance la formation et le déploiement de 4 000 conseillers numériques
-owner: l'Agence nationale de la cohésion des territoires
+owner: Agence nationale de la cohésion des territoires
 sponsors:
-    - name: l'Agence nationale de la cohésion des territoires
-      acronym:
+    - name: Agence Nationale de la Cohésion des Territoires
+      acronym: ANCT
       domaine_ministeriel: territoires
       type: operateur
 incubator: anct
