@@ -8,7 +8,7 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: environnement
 incubator: mtes
-link: envergo.beta.gouv.fr
+link: https://envergo.beta.gouv.fr
 repository: https://github.com/MTES-MCT/envergo
 contact: contact@envergo.beta.gouv.fr
 events: []
