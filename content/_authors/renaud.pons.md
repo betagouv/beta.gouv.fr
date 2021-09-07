@@ -1,7 +1,7 @@
 ---
 fullname: Renaud Pons
-domaine: Coaching
-role: Coach
+domaine: Design
+role: Designer de services & social
 github: renaudpons
 link: https://www.design-territoire.fr/
 missions:
@@ -9,6 +9,8 @@ missions:
     end: 2021-10-30
     status: independent
     employer: ""
+startups:
+  - carnet.de.bord
 competences:
   - Coaching
   - UX
