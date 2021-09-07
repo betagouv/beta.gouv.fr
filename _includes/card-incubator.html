@@ -2,15 +2,45 @@
   Appeler cette page avec un incubateur.
   Ex : {% include card-incubator.html incubator = incubator %}
 {% endcomment %}
+<div class="fr-grid-row fr-grid-row--gutters">
+  <div class="fr-col-2 incubator-logo">
+      <img
+        style="width: 100%;
+        height: auto;"
+        src="../img/incubators/{{ incubator.logo }}"
+        alt="Logo de {{ incubator.title }}">
+  </div>
+  <div class="fr-col">
+      <div>
+          <h1 class="fr-card__title">{{ incubator.title }}</h1>
+          <p class="h1-card__title-subtitle fr-mb-2w">{{ incubator.owner }}</p>
+          <div class="markdown">{{ incubator.excerpt }}</div>
+          <p class=fr-mb-3w>
+            <span>
+              <i class="ri-map-pin-fill"></i>
+          </span>{{ incubator.address }}</p>
+          <a href="/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}" class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right">
+            Voir les réalisations
+          </a>
 
-<div class="fr-tile fr-enlarge-link fr-tile--horizontal">
-  <div class="fr-tile__body">
-      <h3 class="fr-tile__title">
-          <a class="fr-tile__link" href="/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}">{{ incubator.title }}</a>
+      </div>
+  </div>
+</div>
+<!-- <div class="fr-tile fr-enlarge-link fr-tile--horizontal">
+  <div class="fr-card__body">
+      <h3 class="fr-card__title">
+          <a class="fr-card__link" href="/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}">{{ incubator.title }}</a>
       </h3>
-      <p class="fr-tile__desc">{{ incubator.owner }}, {{ incubator.address }}</p>
+      <p class="fr-tile__desc"><strong>{{ incubator.owner }}</strong></p>
+      <p class="fr-tile__desc">{{ content }}</p>
+      <p class="fr-tile__desc"><span style="font-size: 0.75rem;">
+        <span>
+          <i class="ri-map-pin-fill"></i>
+        </span>
+      </span>{{ incubator.address }}</p>
   </div>
   <div class="fr-tile__img">
       <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}">
   </div>
-</div>
+ 
+</div> -->

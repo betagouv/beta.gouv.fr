@@ -7,44 +7,122 @@ layout: default
 {%- assign recent = site.authors | community: 'recent' -%}
 
 {%- include hero-page.html title=page.title -%}
-
-<section class="fr-py-6w">
+<section>
     <div class="fr-container">
-        <h2>Évolution des effectifs</h2>
-        <div id="chart-wrapper">
-            <canvas> Nous avons actuellement {{ current | size }} membres. </canvas>
+        <div class="fr-grid-row fr-grid-row--gutters fr-pb-6w">
+            <div class="fr-col-12 fr-col-md-6">
+                <div class="chart-wrapper">
+                    <canvas id="member"> Nous avons actuellement {{ current | size }} membres. </canvas>
+                </div>
+            </div>
+            <div class="fr-col-12 fr-col-md-6">
+                <div class="chart-wrapper">
+                    <canvas id="pie-chart"> Nous avons actuellement {{ current | size }} membres. </canvas>
+                </div>
+            </div>
         </div>
-    </div>
-    <div class="fr-container">
-        {{ content }}
+        <!-- <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
+            <div class="fr-col-6 fr-col-md-6">
+                <div class="chart-wrapper">
+                    <canvas id="pie-chart"> Nous avons actuellement {{ current | size }} membres. </canvas>
+                </div>
+            </div>
+        </div> -->
     </div>
 </section>
-
-<div class="fr-container">
-    <h2>Ils viennent de nous rejoindre&nbsp;!</h2>
-    <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
-        {%- for author in recent -%}
-        <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
-        {%- endfor -%}
-
-        <div class="fr-col-6 fr-col-md-3" style="align-self: center;">
-            <a class="fr-link fr-link--lg fr-fi-arrow-right-line fr-link--icon-right" href="/communaute/annuaire">Voir tous les membres</a>
+<section class="section-grey">
+    <div class="fr-container">
+      <div class="fr-grid-row fr-grid-row--gutters fr-py-2w fr-pt-4w">
+        <div class="fr-col fr-col-12 fr-col-md-3 beta-list-item">
+          <p>
+            <span class="beta-square-list-item">■</span>
+            <strong>{% render_community_stats total %} membre actif</strong><br>
+            issus du public et du privé.<br><br>
+            <a 
+                href="/communaute/annuaire"
+                class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right">Annuaire des membres</a>
+          </p>
+        </div>
+        <div class="fr-col fr-col-12 fr-col-md-3 beta-list-item">
+            <p>
+                <span class="beta-square-list-item">■</span>
+                <b>{{ site.incubators.size }} incubateurs</b><br>
+                au seins d'agences déconcentrés, d'opérateurs et de ministères<br><br>
+                <a
+                    href="#incubateur"
+                    class="fr-btn fr-btn--secondary fr-fi-arrow-down-line fr-btn--icon-right">
+                    Réseaux des incubateurs
+                </a>
+            </p>
+        </div>
+        <div class="fr-col fr-col-12 fr-col-md-3 beta-list-item">
+            <p><span class="beta-square-list-item">■</span>
+                <b>56 chaînes de discussion</b><br>
+            pour partager et s'entraider sur notre application de messagerie.</p>
+        </div>
+        <div class="fr-col fr-col-12 fr-col-md-3 beta-list-item">
+            <p><span class="beta-square-list-item">■</span>
+                <b>10 événements par semaine</b>
+            <br>en moyenne organisés par les membres : formations, ateliers ou retours d'expérience.</p>
+        </div>       
+      </div>
+    </div>
+</section>
+<section class="fr-py-2w fr-pt-4w" id="incubateur">
+    <div class="fr-container">
+        <h2>Notre réseau d'incubateurs</h2>
+        <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
+            <div class="fr-col fr-col-12 fr-col-md-4">
+                <div class="fr-sidemenu beta-sidemenu-sticky" aria-label="Menu latéral">
+                    <div class="fr-sidemenu__inner">
+                        <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
+                        <div class="fr-collapse" id="fr-sidemenu-wrapper">
+                            <h1 class="fr-sidemenu__title fr-pl-1w">Sommaire</h1>
+                            <ul class="fr-sidemenu__list">
+                                {%- for incubator in site.incubators -%}
+                                <li class="fr-sidemenu__item">
+                                    <a class="fr-sidemenu__link" href="#{{ incubator.id }}" target="_self" aria-current="page">
+                                      {{ forloop.index }}. {{ incubator.title }}
+                                    </a>
+                                </li>
+                                {%- endfor -%}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="fr-col fr-col-12 fr-col-md-8">
+                <div class="fr-grid-row fr-grid-row--gutters">
+                    {%- for incubator in site.incubators -%}
+                    <div class="fr-col-12" id="{{ incubator.id }}">
+                        {%- include card-incubator.html incubator=incubator -%}
+                        {% unless forloop.last %}
+                        <hr class="beta-communaute-hr">
+                        {% endunless %}
+                    </div>
+                    {%- endfor -%}
+                </div>
+            </div>
         </div>
     </div>
-</div>
-
-<div class="fr-container">
-    <h2>Notre réseau d'incubateurs</h2>
-    <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
-        {%- for incubator in site.incubators -%}
-        <div class="fr-col-12 fr-col-md-6">{%- include card-incubator.html incubator=incubator -%}</div>
-        {%- endfor -%}
-    </div>
-</div>
-
+</section>
 <script type="text/javascript">
     (function() {
         window.buildDate = '{{ build_date }}';
-        window.data = {% render_community_stats %}
+        window.data = {% render_community_stats %};
+        const stickyDivParent = document.querySelector(".beta-sidemenu-sticky");
+        const stickyDiv = document.querySelector(".beta-sidemenu-sticky div");
+        window.addEventListener("scroll", function() {
+            const rec = stickyDivParent.getBoundingClientRect();
+            const footer = document.querySelector(".fr-footer");
+            const footerRec = footer.getBoundingClientRect()
+            if (rec.top < 0) {
+                if (window.pageYOffset + window.innerHeight < document.body.offsetHeight - footerRec.height) {
+                    stickyDiv.style.top = (-1 * rec.top) + "px";
+                }
+            } else {
+                stickyDiv.style.top = 0 + "px";
+            }
+        });
     })();
 </script>
