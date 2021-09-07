@@ -4,11 +4,6 @@ mission: Diminuer les rendez-vous non-honorés des personnes placées sous main 
   justice.
 owner: Tribunal de Nanterre et Service Pénitentiaire d'Insertion et de
   Probation du 92
-sponsors: 
-    - name: Ministère de la Justice
-      acronym: MJ
-      domaine_ministeriel: justice
-      type: Ministère
 incubator: dinum
 repository: https://github.com/betagouv/mon-suivi-justice
 events:
