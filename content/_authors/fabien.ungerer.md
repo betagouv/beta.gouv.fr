@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - sparte
+  - docurba
 ---
 
 Web dev
