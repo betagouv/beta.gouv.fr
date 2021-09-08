@@ -77,7 +77,7 @@ layout: default
                     <div class="fr-sidemenu__inner">
                         <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
                         <div class="fr-collapse" id="fr-sidemenu-wrapper">
-                            <h1 class="fr-sidemenu__title fr-pl-1w">Sommaire</h1>
+                            <h1 class="fr-sidemenu__title fr-pl-1w">{{ site.incubators.size }} incubateurs</h1>
                             <ul class="fr-sidemenu__list">
                                 {%- for incubator in site.incubators -%}
                                 <li class="fr-sidemenu__item">
