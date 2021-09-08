@@ -1,6 +1,7 @@
 ---
 fullname: Christophe Robillard
 role: Developpeur
+github: krichtof
 domaine: Développement
 avatar: 'https://www.gravatar.com/avatar/e8f6f2cce6baadb867e6836fe57b3596?s=512'
 link: 'http://christophe.robiweb.net'
