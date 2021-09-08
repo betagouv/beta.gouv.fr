@@ -10,9 +10,8 @@ redirect_from:
   - /incubators/api_dinsic
 ---
 
-L'incubateur des API: 
-* rassemble les APIs de la DINUM
-* valorise les APIs des administrations
-* simplifie les démarches en ligne à travers la circulation des données
-* accompagne les producteur de données dans la mise à disposition de leurs propres API
-* produit des outils adaptés et propose un accompagnement technique et juridique à la circulation des données
+Lancé en 2016, l'incubateur des API vise à :
+* Rassembler et valoriser les APIs des administrations
+* **Simplifier les démarches en ligne** à travers la circulation des données.
+* Accompagner les producteur de données dans la **mise à disposition** d'APIs.
+* **Produire des outils adaptés** et proposer un accompagnement technique et juridique à la circulation des données.
