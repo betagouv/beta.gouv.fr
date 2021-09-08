@@ -1,4 +1,5 @@
 ---
+github: antoinebigard
 fullname: Antoine Bigard
 role: Lead-Développeur
 domaine: Développement
