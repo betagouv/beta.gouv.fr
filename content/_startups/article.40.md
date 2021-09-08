@@ -1,36 +1,43 @@
 ---
-title: Article 40
-mission: Harmoniser la transmission des saisines du procureur de la République
-  sur le fondement de l'article 40
+title: Info Parquet
+mission: Simplifier le quotidien des agents des administrations (hors services
+  de police et gendarmerie) qui saisissent le procureur de la République et des
+  personnels judiciaires qui reçoivent et traitent ces procédures
 owner: Ministère de la Justice
 incubator: dinum
 contact: caroline-lucile.didier@beta.gouv.fr
 phases:
   - name: investigation
     start: 2021-03-07
+    end: 2021-05-31
+  - name: construction
+    start: 2021-07-09
+    end: 2022-01-09
 ---
-## Contexte
+# **Contexte**
 
-En vertu de l’article 40 du code de procédure pénale, « Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. » Le magistrat reçoit ces signalement et apprécie la suite à leur donner.
+Chaque année, des dizaines de milliers d’administrations saisissent le procureur de la République afin de l’informer de faits pouvant entraîner des poursuites pénales.
 
-Les saisines ainsi adressées au procureur de la République émanent donc d’une grande diversité d’entités, lesquelles ont chacune un mode de fonctionnement et des circuits propres.
+Ces 120 000 saisines, leur transmission et leur suivi engendrent de nombreuses difficultés pour les agents publics de ces administrations et du Ministère de la Justice.
 
-## Problème
+Après plusieurs semaines d’investigation démontrant des difficultés réelles et impactantes, nous lançons une Startup d’État destinée à construire une solution numérique capable de pallier ces problèmes.
 
-Nous supposons que la pluralité des acteurs fondés à saisir le procureur de la République sur la base de l’article 40 CPP engendre des difficultés.
+# **Le problème**
 
-Cette investigation vise à identifier le cas échéant les problèmes rencontrés par les entités qui transmettent ces dénonciations et par les personnels judiciaires qui les reçoivent, afin de déterminer si la création d’un outil numérique serait utile aux agents publics concernés.
+Cette investigation a d'abord été menée sur un périmètre restreint relatif aux procédures relevant de l’article 40 du code de procédure pénale a notamment permis de :
 
-Nous souhaitons générer une connaissance large des irritants dans le parcours lié à l’article 40, depuis la constitution du signalement jusqu'à sa transmission au parquet, en incluant les éventuels échanges intermédiaires entre la juridiction et les administrations, ainsi que le retour fait par le parquet des suites données aux saisines reçues.
+* vérifier l’existence de 3 problèmes pour les agents publics concernés : difficultés dans le suivi des procédures / incertitudes sur la fiabilité du mode de transmission / complexité de la traçabilité et de la visibilité des procédures urgentes ;
+* valider l’opportunité de construire une solution numérique ;
+* élargir le périmètre de cette solution à l’ensemble des procédures adressées au parquet par les administrations (autres que la police et la gendarmerie) ;
+* identifier des indicateurs d’impact à 6 mois ;
+* esquisser une piste de solution.
 
-Nous souhaitons obtenir des réponses quantifiées quant aux délais, temps de traitement ou préjudices subis dans le cadre de la procédure actuelle.
+# **Stratégie**
 
-## Stratégie
+La phase de construction doit permettre de bâtir, avec les agents publics concernés, une solution numérique permettant de faciliter leur quotidien de travail en diminuant, voire supprimant, des tâches chronophages tout en assurant une traçabilité des procédures.
 
-L’investigation est menée sur le territoire du Loir-et-Cher, ressort du tribunal judiciaire de Blois, pour des raisons de proximité et d’accès direct aux personnes. Toutefois, nous souhaitons pouvoir comparer les retours avec des départements démographiquement plus importants et engageons des démarches en ce sens.
+Des tests avec des magistrats du parquet, greffiers et agents des administrations concernées seront réalisés pour améliorer en continu le produit qui a pour objectif, au terme des 6 premiers mois, d’assurer :
 
-Côté administration, nous avons choisi d’interroger des agents en Préfecture, à l’Éducation Nationale, Aide sociale à l’enfance, Finances publiques, Services de répression des fraudes etc...
-
-Côté personnels judiciaires, nous contacterons des greffiers et des magistrats du parquet.
-
-Les entretiens s’attacheront à prendre connaissance des circuits empruntés par les entités « signalantes » et la gestion de la réception de ces saisines par les personnels judiciaires en questionnant l’existence de problèmes rencontrés par les agents concernés.
+* une connaissance rapide de l’état d’avancement d’une procédure pour l’administration
+* la délivrance automatique d’un accusé-réception et d’un numéro d’identifiant de procédure à l’administration
+* une simultanéité entre la visibilité haute des procédures urgentes et leur enregistrement par la juridiction
