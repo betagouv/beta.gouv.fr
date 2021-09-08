@@ -15,9 +15,3 @@ La mission pour l'apprentissage est une mission interministérielle. Ses priorit
 - Aider les jeunes à **s’orienter** ; 
 - Aider les jeunes et les entreprises à se comprendre ; 
 - **Diminuer les ruptures** des contrats d’apprentissage.
-
-L'incubateur mobilise les acteurs concernés pour : 
-- Identifier et caractériser précisément les freins rencontrés.
-- Imaginer les solutions. 
-
-Plusieurs services sont en cours de développement.
