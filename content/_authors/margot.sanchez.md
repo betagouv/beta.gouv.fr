@@ -2,6 +2,7 @@
 fullname: Margot Sanchez
 role: Responsable de portefeuille
 domaine: Animation
+github: margot-sanchez
 missions:
   - start: 2018-06-04
     end: 2018-08-31
