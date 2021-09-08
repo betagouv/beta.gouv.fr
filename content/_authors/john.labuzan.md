@@ -1,17 +1,23 @@
 ---
-fullname: John Labuzan
-role: Product Owner, UX design & Growth
+fullname: John Labuzan 🌞
 domaine: Produit
-avatar: https://media-exp1.licdn.com/dms/image/C5603AQHcDRJx5hX98w/profile-displayphoto-shrink_800_800/0/1516576339567?e=1629331200&v=beta&t=l6aWutR-EKL_OCMxbLVCX-gm5OlGKnAS29rXPP9JNRk
+role: Product Owner, UX design & Growth
+github: jondu33
+avatar: https://media-exp1.licdn.com/dms/image/C5603AQHcDRJx5hX98w/profile-displayphoto-shrink_800_800/0/1516576339567?e=1636588800&v=beta&t=eKUKqVLxCTr5PnvwjMc-kq7vkgTphAQ61Whl1BbQDxU
 link: https://fair-fair.fr
 missions:
   - start: 2019-07-02
     end: 2022-06-30
     status: independent
-startups: 
-- commun.orientation
+    employer: fair-fair.fr
+startups:
+  - commun.orientation
 previously:
-- aides-territoires
+  - aides-territoires
+competences:
+  - UX
+  - Gestion de Produit
+  - Coaching
+  - Communication
 ---
-Valoriser l'action des collectivités 🏛️ 🙌
-Commun orientation 🧭
+Product design, Marketing digital, SEO, SEA, TikTok 🤘
