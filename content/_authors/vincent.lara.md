@@ -1,5 +1,5 @@
 ---
-github: github:l-vincent-l
+github: l-vincent-l
 fullname: Vincent Lara
 role: Développeur
 domaine: Développement
