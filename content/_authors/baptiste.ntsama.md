@@ -7,10 +7,10 @@ missions:
   - start: 2020-02-20
     end: 2021-11-30
     status: service
-    employer: LLL
 startups:
   - signalement
-  - anais
-  - AidESS-Relance
   - justif
+previously:
+  - AidESS-Relance
+  - Anais
 ---
