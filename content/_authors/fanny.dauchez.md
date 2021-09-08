@@ -2,6 +2,7 @@
 fullname: Fanny Dauchez
 domaine: Déploiement
 role: Chargée de déploiement
+github: FannyDauchez
 link: https://www.linkedin.com/in/fanny-dauchez-9b466461/
 missions:
   - status: independent
