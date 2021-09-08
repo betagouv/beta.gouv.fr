@@ -82,7 +82,7 @@ layout: default
                                 {%- for incubator in site.incubators -%}
                                 <li class="fr-sidemenu__item">
                                     <a class="fr-sidemenu__link" href="#{{ incubator.id }}" target="_self" aria-current="page">
-                                      {{ forloop.index }}. {{ incubator.title }}
+                                      {{ incubator.title }}
                                     </a>
                                 </li>
                                 {%- endfor -%}
