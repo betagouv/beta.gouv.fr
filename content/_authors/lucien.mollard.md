@@ -1,5 +1,6 @@
 ---
 fullname: Lucien Mollard
+github: LucienMLD
 role: Développeur
 domaine: Développement
 avatar: https://avatars3.githubusercontent.com/LucienMLD?s=600
