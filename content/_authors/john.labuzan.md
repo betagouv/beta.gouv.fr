@@ -20,3 +20,4 @@ competences:
   - Coaching
   - Communication
 ---
+Product, Marketing, SEO, SEA, TikTok
