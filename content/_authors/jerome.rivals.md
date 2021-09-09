@@ -5,8 +5,12 @@ domaine: Développement
 github: jrivals
 missions:
   - employer: octo
-    end: 2021-11-06
+    end: 2021-04-02
     start: 2018-11-08
+    status: independent
+  - employer: octo
+    end: 2021-11-06
+    start: 2021-09-08
     status: independent
 startups:
   - zero-logement-vacant
