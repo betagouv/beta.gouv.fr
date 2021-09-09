@@ -15,14 +15,20 @@
           <h1 class="fr-card__title">{{ incubator.title }}</h1>
           <p class="h1-card__title-subtitle fr-mb-2w">{{ incubator.owner }}</p>
           <div class="markdown">{{ incubator.excerpt }}</div>
-          <p class=fr-mb-3w>
+          {% if incubator.address %}<p class=fr-mb-3w>
             <span>
               <i class="ri-map-pin-fill"></i>
           </span>{{ incubator.address }}</p>
+          {% endif %}
           <a href="/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}" class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right">
             Voir les réalisations
           </a>
 
+          {% if incubator.website %}
+          <a href="{{ incubator.website }}" class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right">
+            Voir le site
+          </a>
+          {% endif %}
       </div>
   </div>
 </div>
