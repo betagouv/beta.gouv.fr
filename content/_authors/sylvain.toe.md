@@ -9,9 +9,10 @@ missions:
   - start: 2018-11-09
     end: 2021-12-31
     status: independent
-    employer: Octo
+    employer: Scopyleft
 startups:
-  - aides-territoires
+  - sndv_maritime
 previously:
   - e-controle
+  - aides-territoires
 ---
