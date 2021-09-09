@@ -2,6 +2,7 @@
 fullname: Loïc Delmaire
 role: Développeur
 domaine: Développement
+github: skelz0r
 missions:
   - start: 2013-12-01
     end: 2014-05-31
