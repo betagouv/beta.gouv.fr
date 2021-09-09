@@ -11,6 +11,8 @@ missions:
     start: 2021-09-08
     end: 2021-12-31
 startups:
+  - reva
+previously:
   - avril
 competences:
   - Développement Frontend
