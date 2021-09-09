@@ -16,8 +16,8 @@ Histologe est une plate-forme publique qui facilite la détection, le repérage,
 * Participer à la mise en place d’une vraie stratégie de produit en étroite collaboration avec les partenaires de la plateforme ;
 * Assurer le transfert du produit au sein de l’administration centrale et permettre d’atteindre les nouvelles exigences que cela implique
 * Veiller à ce que le produit soit de qualité : accessibilité, privacy, sécurité ;
-* Veiller à ce que la plate-forme soit en phase d’amélioration continue (recherches et tests pour améliorer l’impact du service).
-* Aider l’équipe produit dans le bon fonctionne selon les standards de beta : normes de conduites de beta respectées
+* Veiller à ce que la plateforme soit en phase d’amélioration continue (recherches et tests pour améliorer l’impact du service).
+* Aider l’équipe produit dans le bon fonctionnement selon les standards de beta : normes de conduites de beta respectées
 * Éviter les écueils qui peuvent se présenter au début d'une phase de transfert
 
 Compétences recherchées
