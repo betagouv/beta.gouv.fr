@@ -34,7 +34,7 @@ Environnement de travail
 * Lieu de travail : télétravail encouragé ; 	
 * Modalités de contrat : freelance / prestation (les règles des marchés public s’appliquent) ; 	
 * Durée : la mission est de 6 mois.
-* volume de jour hebdo estimé : 1 jour 
+* volume de jour hebdo estimé : 2 jours 
 
 Modalités de candidature :
 
