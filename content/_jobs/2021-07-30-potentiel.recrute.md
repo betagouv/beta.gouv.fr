@@ -1,6 +1,6 @@
 ---
 roles: Potentiel recrute un·e Développeur·se front  / fullstack
-open: true
+open: false
 junior: true
 date: 2021-07-30T14:45:45.899Z
 startup: potentiel
