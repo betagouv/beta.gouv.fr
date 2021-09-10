@@ -1,5 +1,6 @@
 ---
 fullname: Camille Garrigue
+github: CamilleGarrigue
 role: Chargée de développement
 domaine: Déploiement
 avatar: https://avatars3.githubusercontent.com/CamilleGarrigue?s=600
