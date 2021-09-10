@@ -4,14 +4,14 @@ title: La formation Alpha
 permalink: /approche/formation
   
 # Dates de la prochaine formation
-alpha-start: 2021-09-09
-alpha-end: 2021-09-09
+alpha-start: 2021-09-14
+alpha-end: 2021-09-14
 alpha-time: de 9h15 à 17h30
 alpha-location: en visio
 alpha-location-link:
 alpha-catering:
 alpha-more:
-alpha-link: https://startupdetat.typeform.com/to/NPeLzMvE
+alpha-link: https://startupdetat.typeform.com/to/C7FbAI3y
 verbatims:
   - text: “J’ai appris beaucoup ! À commencer par une méthode pratique, des outils concrets pour enclencher une action, agir sur un problème a priori insurmontable, mais qui le devient grâce au "petit pas" qui devient grand.”
     name: participant.e anonyme
@@ -42,7 +42,7 @@ images:
 ---
 
 <br>
-**La prochaine session aura lieu le jeudi 9 septembre 2021. En ligne**
+**La prochaine session aura lieu le jeudi 14 octobre 2021. En ligne**
 <br>
 <br>
 <a href="https://startupdetat.typeform.com/to/NPeLzMvE" class="fr-btn">Je m'inscris</a>
