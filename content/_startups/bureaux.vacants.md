@@ -1,13 +1,13 @@
 ---
 title: Bureaux vacants
-mission: "Transformater les bureaux vacants en logement "
+mission: "Transformer les bureaux vacants en logement "
 owner: Direction générale de l'Aménagement, du Logement et de la Nature
 sponsors:
   - name: Direction générale de l'Aménagement, du Logement et de la Nature
     acronym: DGALN
     type: administration-centrale
     domaine_ministeriel: environnement
-incubator: dinum
+incubator: mtes
 contact: guillaume.coppe@beta.gouv.fr
 phases:
   - name: investigation
