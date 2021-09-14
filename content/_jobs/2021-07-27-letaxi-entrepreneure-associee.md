@@ -1,6 +1,7 @@
 ---
-roles: "L’équipe du registre national des taxis cherche une ou un entrepreneur(e) associé(e)"
-open: true
+roles: L’équipe du registre national des taxis cherche une ou un entrepreneur(e)
+  associé(e)
+open: false
 date: 2021-07-28
 startup: le-taxi
 ---
