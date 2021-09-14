@@ -410,7 +410,7 @@ collections:
     editor:
       preview: false
     fields:
-      - label: Quel est le titre du poste ? (exemple : "Développeuse - Développeur" ou "Chargée ou chargé de déploiement")
+      - label:Quel est le titre du poste ? (exemple : \"Développeuse - Développeur\" ou \"Chargée ou chargé de déploiement\")
         name: roles
         widget: string
         required: true  
