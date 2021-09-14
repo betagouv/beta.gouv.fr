@@ -415,7 +415,7 @@ collections:
         name: roles
         widget: string
         required: true  
-        hint : Penser à inclure le féminin dans vos recrutements. Vous pouvez trouver de l'aide sur l'écriture inclusive sans point médian dans [le guide de beta](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/recommandations#syntaxe.
+        hint : Penser à inclure le féminin dans vos recrutements. Vous pouvez trouver de l'aide sur l'écriture inclusive sans point médian dans [le guide de beta](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/recommandations#syntaxe) .
       - label: Est-ce que le poste est ouvert ?
         name: open
         widget: boolean
