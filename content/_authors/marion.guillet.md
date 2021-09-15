@@ -5,10 +5,11 @@ domaine: Produit
 github: guilletmarion
 missions:
   - start: 2019-10-21
-    end: 2021-08-31
+    end: 2022-06-30
     status: admin
-    employer: pole-emploi
+    employer: mission-apprentissage
 startups:
-    - la-bonne-boite
     - la-bonne-alternance
+previously:
+  - la-bonne-boite
 ---
