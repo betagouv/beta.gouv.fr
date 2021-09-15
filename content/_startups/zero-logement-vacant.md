@@ -48,6 +48,8 @@ Elle est aujourd’hui utilisée par 30 collectivités. 
 
 #### Voir la [démonstration du produit](https://www.dailymotion.com/video/x812kxh) et la [politique de confidentialité](https://zlv.notion.site/Politique-de-confidentialit-bb23ade15fc442fbbc3976a4ef840c76)
 
+
+
 ## Notre stratégie de construction
 
 La première version de la solution a été développée à partir du logiciel SaaS Airtable. Proposée à 30 collectivités volontaires, cette première version a permis de valider, d’une part, l’intérêt et l’usage de la solution par les collectivités et, d’autre part, sa capacité à mobiliser des propriétaires qui n’auraient pas entamé de démarches par eux-mêmes. 
