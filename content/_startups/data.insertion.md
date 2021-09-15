@@ -3,9 +3,12 @@ title: data.insertion
 mission: Améliorer les parcours d’insertion en facilitant la circulation de données entre les acteurs
 owner: DGEFP
 incubator: dinum
+link: https://betagouv.github.io/analyse-flux-insertion
 phases:
   - name: investigation
     start: 2021-01-15
+  - name: construction
+    start: 2021-06-02
 stats: false
 contact: data.insertion@beta.gouv.fr
 ---
