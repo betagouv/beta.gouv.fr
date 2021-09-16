@@ -21,6 +21,7 @@ startup: histologe
 - Aider l’équipe produit dans le bon fonctionnement selon les standards de beta : normes de conduites de beta respectées 
 - Éviter les écueils qui peuvent se présenter au début d'une phase de transfert
 
+
 ## Compétences recherchées
 - Expérience en startup ou développement de produit numérique de A à Z ; 
 - Maitrise de l’agile ; 	 
@@ -29,11 +30,13 @@ startup: histologe
 - Capacité de pédagogie et de capitalisation sur les compétences des membres de l’équipe ;  
 - Intérêt pour les politiques publiques et en particulier le sujet de la lutte contre le mal-logement.
 
+
 ## Environnement de travail
 - Lieu de travail : télétravail encouragé ; 	 
 - Modalités de contrat : freelance / prestation (les règles des marchés public s’appliquent) ; 	 
 - Durée : la mission est de 6 mois. 
 - Volume de jour hebdo estimé : 2 à 2,5 jours
+
 
 ## Modalités de candidature :
 Candidatures par mail à : contact@histologe.info, ines.hijazi@beta.gouv.fr et damien.dufourd@beta.gouv.fr
