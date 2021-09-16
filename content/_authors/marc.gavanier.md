@@ -15,4 +15,4 @@ badges:
   - segur
 ---
 
-En tant qu'artisan du logiciel, j'apporte le maximum de valeur aux utilisateurs en créant outils des bien conçus.
+En tant qu'artisan du logiciel, j'apporte le maximum de valeur aux utilisateurs en créant des outils bien conçus.
