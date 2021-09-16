@@ -4,12 +4,11 @@ open: true
 date: 2021-09-15T07:09:20.269Z
 startup: histologe
 ---
-**Qui sommes-nous ?** 
+**Qui sommes-nous ?**
 
-Histologe est une plate-forme publique qui facilite la détection, le repérage, la mesure du « mal-logement » en accélérant sa prise en charge. | https://histologe.beta.gouv.fr  
+Histologe (https://histologe.beta.gouv.fr) est une plate-forme publique qui facilite la détection, le repérage, la mesure du « mal-logement » en accélérant sa prise en charge.
 
-**Missions de la/du responsable de produit**  
-
+**Missions de la/du responsable de produit** 
 * Participer à la recherche et l’élaboration d’une solution d’atterrissage et de pérennisation de la plateforme au sein de la Direction de l’Habitat, de l’Urbanisme et des Paysages ; 
 * Veiller à l’avancée et l’évolution du service via de nouvelles fonctionnalités et une extension du périmètre de déploiement ; 
 * S’assurer que les objectifs fixés au comité d’investissement en termes d’utilisation du produit sont atteints ; 
@@ -23,7 +22,6 @@ Histologe est une plate-forme publique qui facilite la détection, le repérage,
 * Éviter les écueils qui peuvent se présenter au début d'une phase de transfert 
 
 **Compétences recherchées** 
-
 * Expérience en startup ou développement de produit numérique de A à Z ; 
 * Maitrise de l’agile ; 	 
 * Maitrise des OKR en calendrier contraint pour prioriser les actions ;  
@@ -32,12 +30,10 @@ Histologe est une plate-forme publique qui facilite la détection, le repérage,
 * Intérêt pour les politiques publiques et en particulier le sujet de la lutte contre le mal-logement. 
 
 **Environnement de travail** 
-
 * Lieu de travail : télétravail encouragé ; 	 
 * Modalités de contrat : freelance / prestation (les règles des marchés public s’appliquent) ; 	 
 * Durée : la mission est de 6 mois. 
 * Volume de jour hebdo estimé : 2 à 2,5 jours 
 
 **Modalités de candidature :** 
-
 * Candidatures par mail à : contact@histologe.info, ines.hijazi@beta.gouv.fr et damien.dufourd@beta.gouv.fr
