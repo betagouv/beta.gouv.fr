@@ -7,7 +7,7 @@ missions:
   - start: 2019-10-21
     end: 2021-09-30
     status: admin
-    employer: Pole Emploi
+    employer: pole-emploi
   - start: 2020-06-01
     end: 2022-06-30
     status: independent
