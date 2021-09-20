@@ -1,5 +1,6 @@
 ---
 fullname: Hugo Lepetit
+github: hugolepetit
 role: Développeur
 domaine: Développement
 missions:
