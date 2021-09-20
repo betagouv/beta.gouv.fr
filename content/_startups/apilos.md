@@ -11,6 +11,8 @@ phases:
   - name: construction
     start: 2021-06-30
     end: 2021-12-31
+redirect_from:
+    - /startups/appel
 ---
 <!--StartFragment-->
 
