@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: Arolla
 startups:
-  - apilos.1
+  - apilos
 badges:
   - segur
 ---

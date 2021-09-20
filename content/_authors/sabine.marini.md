@@ -7,7 +7,7 @@ missions:
     end: 2022-04-08
     status: admin
 startups:
-  - apilos.1
+  - apilos
 competences:
   - Administration Publique
 ---
