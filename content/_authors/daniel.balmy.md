@@ -14,6 +14,7 @@ startups:
     - workinfrance
     - aplus
     - comobi
+github: DanielBMY
 ---
 
 Linchpin mindset, fighting mediocrity, the status quo… and the lizard brain!
