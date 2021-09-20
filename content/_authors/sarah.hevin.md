@@ -5,9 +5,9 @@ domaine: Design
 github: sarahhevin
 missions:
   - start: 2021-07-01
-    end: 2021-10-01
+    end: 2022-03-31
     status: independent
-    employer: Octo 
+    employer: Benext 
 startups:
   - pass-emploi
 badges:
