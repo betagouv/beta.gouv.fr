@@ -8,7 +8,6 @@ missions:
     status: admin
     employer: Ministère de la Transition Ecologique
 startups:
-  - trackdechets
 ---
 
 Bizdév. en croissance !
