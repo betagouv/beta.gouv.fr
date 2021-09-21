@@ -49,7 +49,7 @@ Intérêt pour les produits développés par la DINUM contribuant à faciliter l
 
 ## 📝 Modalités
 
-Poste ouvret en CDD. Le télétravail est possible. Démarrage octobre/novembre 2021.
+Poste ouvert en CDD. Le télétravail est possible. Démarrage octobre/novembre 2021.
 
 ## 🚀 Candidater
 
