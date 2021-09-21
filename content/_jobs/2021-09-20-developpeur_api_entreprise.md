@@ -1,10 +1,9 @@
 ---
-roles: Développeur full-stack API Entreprise
+roles: Développeur - Développeuse full-stack API Entreprise
 startup: api-entreprise
 techno: Ruby on Rails, Ansible
 junior: true
 open: true
-title: Développeur full-stack API Entreprise
 ---
 
 ## API Entreprise
