@@ -1,6 +1,6 @@
 ---
 fullname: Mouloud CHEBOUKI
-role: Chargé de déploiement
+role: Chargé de déploiement auprès des CFA
 domaine: Déploiement
 missions:
   - start: 2021-09-01
@@ -8,7 +8,6 @@ missions:
     status: admin
     employer: pole-emploi
 startups:
-  - tdb-apprentissage
 badges:
   - segur
 ---
