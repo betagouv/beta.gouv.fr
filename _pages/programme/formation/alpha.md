@@ -45,7 +45,7 @@ images:
 **La prochaine session aura lieu le jeudi 14 octobre 2021. En ligne**
 <br>
 <br>
-<a href="https://startupdetat.typeform.com/to/NPeLzMvE" class="fr-btn">Je m'inscris</a>
+<a href="https://startupdetat.typeform.com/to/C7FbAI3y" class="fr-btn">Je m'inscris</a>
 <br>
 <br>
 Vous êtes un agent public et vous souhaitez découvrir la méthode Beta.gouv ? Vous êtes agent public et vous avez identifié un problème à résoudre au sein de vos services ? **La formation Alpha est faite pour vous !**
@@ -86,7 +86,7 @@ Pause 10'
 ---  Fin à 17h30  ---
 
 <br>
-<a href="https://startupdetat.typeform.com/to/NPeLzMvE" class="fr-btn">Je m'inscris</a>
+<a href="https://startupdetat.typeform.com/to/C7FbAI3y" class="fr-btn">Je m'inscris</a>
 <br>
 <br>
 Pour plus d’information écrivez nous à <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.
