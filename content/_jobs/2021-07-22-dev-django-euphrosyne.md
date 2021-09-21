@@ -2,7 +2,7 @@
 startup: euphrosyne
 title: "Euphrosyne recrute un ou une développeuse Django"
 roles: Un ou une développeuse Django
-open: true
+open: false
 ---
 
 # Euphrosyne et Django se cherchent !
