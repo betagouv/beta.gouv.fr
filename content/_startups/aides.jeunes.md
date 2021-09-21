@@ -4,7 +4,7 @@ mission: "Faciliter le recours aux aides par les jeunes qui en ont le plus besoi
 owner: Délégation générale à l'emploi et à la formation professionnelle
 incubator: dinum
 contact: aides-jeunes@beta.gouv.fr
-link: https://mes-aides.1jeune1solution.beta.gouv.fr/
+link: https://mes-aides.1jeune1solution.beta.gouv.fr
 stats: true
 repository: https://github.com/betagouv/aides-jeunes
 phases:
