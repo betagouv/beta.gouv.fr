@@ -10,8 +10,6 @@ missions:
     employer: BeNext
 startups:
   - archifiltre
-badges:
-  - segur
 ---
 
 développeur fullstack js
