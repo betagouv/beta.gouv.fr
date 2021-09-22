@@ -84,9 +84,9 @@ $(function() {
             },
             animation: { duration: 0 },
             maintainAspectRatio: false,
-            legend: {
-                onClick: function() { return false }
-            },
+            // legend: {
+            //     onClick: function() { return false }
+            // },
             interaction: {
                 mode: 'index',
                 intersect: false
@@ -252,6 +252,18 @@ $(function() {
                 maintainAspectRatio: false,
                 legend: {
                     onClick: function() { return false },
+                    onLeave: function (evt, item, legend) {
+                        legend.chart.data.datasets[0].backgroundColor.forEach((color, index, colors) => {
+                          colors[index] = color.length === 9 ? color.slice(0, -2) : color;
+                        });
+                        legend.chart.update();
+                    },
+                    onHover: function(evt, item, legend) {
+                        legend.chart.data.datasets[0].backgroundColor.forEach((color, index, colors) => {
+                          colors[index] = index === item.index || color.length === 9 ? color : color + '4D';
+                        });
+                        legend.chart.update();
+                      },
                     position: 'right',
                     title: {
                         text: 'Légende',

@@ -4,24 +4,24 @@
         <div class="fr-collapse" id="fr-sidemenu-wrapper">
             <ul class="fr-sidemenu__list">
                     <li class="fr-sidemenu__item {% unless page.url contains '/approche/fast' or page.url contains '/approche/formation' %}fr-sidemenu__item--active{% endunless %}">
-                    <button class="fr-sidemenu__btn" aria-expanded="{% unless page.url contains '/approche/fast' or page.url contains '/approche/formation' %}true{% else %}false{% endunless %}" aria-controls="fr-sidemenu-item-programme">Le programme beta.gouv.fr</button>
+                    <button class="fr-sidemenu__btn" aria-expanded="{% unless page.url contains '/approche/fast' or page.url contains '/approche/formation' %}true{% else %}false{% endunless %}" aria-controls="fr-sidemenu-item-programme">Phase de réalisation</button>
                     <div class="fr-collapse" id="fr-sidemenu-item-programme">
                         <ul class="fr-sidemenu__list">
-                            <li class="fr-sidemenu__item {% if page.url == '/approche/' %}fr-sidemenu__item--active{% endif %}">
+                            <!-- <li class="fr-sidemenu__item {% if page.url == '/approche/' %}fr-sidemenu__item--active{% endif %}">
                                 <a class="fr-sidemenu__link" href="/approche/" target="_self">Notre approche</a>
-                            </li>
-                            <li class="fr-sidemenu__item {% if page.url == '/approche/manifeste' %}fr-sidemenu__item--active{% endif %}">
+                            </li> -->
+                            <!-- <li class="fr-sidemenu__item {% if page.url == '/approche/manifeste' %}fr-sidemenu__item--active{% endif %}">
                                 <a class="fr-sidemenu__link" href="/approche/manifeste" target="_self">Manifeste</a>
-                            </li>
-                            <li class="fr-sidemenu__item {% if page.url == '/approche/intrapreneurs' %}fr-sidemenu__item--active{% endif %}">
+                            </li> -->
+                            <!-- <li class="fr-sidemenu__item {% if page.url == '/approche/intrapreneurs' %}fr-sidemenu__item--active{% endif %}">
                                 <a class="fr-sidemenu__link" href="/approche/intrapreneurs" target="_self">Intrapreneurs</a>
-                            </li>
-                            <li class="fr-sidemenu__item {% if page.url == '/approche/sponsors' %}fr-sidemenu__item--active{% endif %}">
+                            </li> -->
+                            <!-- <li class="fr-sidemenu__item {% if page.url == '/approche/sponsors' %}fr-sidemenu__item--active{% endif %}">
                                 <a class="fr-sidemenu__link" href="/approche/sponsors" target="_self">Les sponsors</a>
-                            </li>
-                            <li class="fr-sidemenu__item {% if page.url == '/approche/investigation' %}fr-sidemenu__item--active{% endif %}">
+                            </li> -->
+                            <!-- <li class="fr-sidemenu__item {% if page.url == '/approche/investigation' %}fr-sidemenu__item--active{% endif %}">
                                 <a class="fr-sidemenu__link" href="/approche/investigation" target="_self">Investigation</a>
-                            </li>
+                            </li> -->
                             <li class="fr-sidemenu__item {% if page.url == '/approche/construction' %}fr-sidemenu__item--active{% endif %}">
                                 <a class="fr-sidemenu__link" href="/approche/construction" target="_self">Construction</a>
                             </li>
@@ -34,24 +34,32 @@
                         </ul>
                     </div>
                 </li>
-
                 <li class="fr-sidemenu__item {% if page.url contains '/approche/fast' %}fr-sidemenu__item--active{% endif %}">
-                    <button class="fr-sidemenu__btn" aria-expanded="{% if page.url contains '/approche/fast' %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-fast">Le FAST</button>
+                    <button class="fr-sidemenu__btn" aria-expanded="{% if page.url contains '/approche/fast' %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-fast">Financement</button>
                     <div class="fr-collapse" id="fr-sidemenu-item-fast">
                         <ul class="fr-sidemenu__list">
                             <li class="fr-sidemenu__item {% if page.url == '/approche/fast' %}fr-sidemenu__item--active{% endif %}">
-                                <a class="fr-sidemenu__link" href="/approche/fast" target="_self">Présentation</a>
+                                <a class="fr-sidemenu__link" href="/approche/fast" target="_self">Fonds d'accélération (FAST)</a>
                             </li>
                             {% assign fasts = site.fasts | sort: 'order' %}
-                            {% for fast-page in fasts %}
-                            <li class="fr-sidemenu__item {% if page.url == fast-page.url %}fr-sidemenu__item--active{% endif %}">
-                                <a class="fr-sidemenu__link" href="{{ fast-page.url }}" target="_self">{{ fast-page.title }}</a>
+                            <li class="fr-sidemenu__item {% if page.url contains '-fast' %}fr-sidemenu__item--active{% endif %}">
+                                <button class="fr-sidemenu__btn" aria-expanded="{% if page.url contains '/approche/fast' %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-fast-archive">Archive du FAST</button>
+                                <div class="fr-collapse" id="fr-sidemenu-item-fast-archive">
+                                    <ul class="fr-sidemenu__list">
+                                        {% for fast-page in fasts %}
+                                        <li class="fr-sidemenu__item {% if page.url == fast-page.url %}fr-sidemenu__item--active{% endif %}">
+                                            <a class="fr-sidemenu__link" href="{{ fast-page.url }}" target="_self">{{ fast-page.title }}</a>
+                                        </li>
+                                        {% endfor %}
+                                    </ul>
+                                </div>    
                             </li>
-                            {% endfor %}
                         </ul>
                     </div>
                 </li>
-
+                <li class="fr-sidemenu__item {% if page.url == '/approche/sponsors' %}fr-sidemenu__item--active{% endif %}">
+                    <a class="fr-sidemenu__link" href="/approche/sponsors" target="_self">Rôle du sponsor</a>
+                </li>
                 <li class="fr-sidemenu__item {% if page.url contains '/approche/formation' %}fr-sidemenu__item--active{% endif %}">
                     <button class="fr-sidemenu__btn" aria-expanded="{% if page.url contains '/approche/formation' %}true{% else %}false{% endif %}" aria-controls="fr-sidemenu-item-formation">Les formations</button>
                     <div class="fr-collapse" id="fr-sidemenu-item-formation">

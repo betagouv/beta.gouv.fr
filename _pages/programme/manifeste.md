@@ -1,6 +1,5 @@
 ---
-layout: with-sidebar
-sidebar: sidebar-approche.html
+layout: page
 title: Manifeste
 permalink: /approche/manifeste
 ---

@@ -47,6 +47,25 @@
       <div class="fr-header__menu-links"></div>
       <nav class="fr-nav" id="navigation-832" role="navigation" aria-label="Menu principal">
           <ul class="fr-nav__list">
+                  <li class="fr-nav__item">
+                    <button class="fr-nav__btn" aria-expanded="false" aria-controls="menu-776" aria-current="true">Programme</button>
+                    <div class="fr-collapse fr-menu" id="menu-776">
+                        <ul class="fr-menu__list">
+                            <li>
+                                <a class="fr-nav__link" href="/approche" target="_self">Découvrir le programme</a>
+                            </li>
+                            <li>
+                                <a class="fr-nav__link" href="/approche/investigation" target="_self">Identifier le problème à résoudre</a>
+                            </li>
+                            <li>
+                              <a class="fr-nav__link" href="/approche/construction" target="_self">Réaliser un service numérique</a>
+                            </li>
+                            <li>
+                                <a class="fr-nav__link" href="/devenir-intrapreneur/" target="_self">Devenir Intra</a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
               {% for item in site.data.menu.nav %}
               {% assign target = site.pages | where:"path",item.target | first %}
               <li class="fr-nav__item {% if target and page.url contains target.url %}fr-nav__item--active{% endif %}">

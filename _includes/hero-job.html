@@ -1,4 +1,4 @@
 <div class="fr-container fr-py-6w">
-  <h1>{% if include.friend %}{{ include.friend }}{% else %}{{ include.startup.title | default: "beta.gouv.fr"}}{% endif %} <em>recrute</em></h1>
-  <p>{{ include.roles | escape }}</p>
+  <p>{% if include.friend %}{{ include.friend }}{% else %}{{ include.startup.title | default: "beta.gouv.fr"}}{% endif %} <em>recrute</em></p>
+  <h1>{{ include.roles | escape }}</h1>
 </div>
