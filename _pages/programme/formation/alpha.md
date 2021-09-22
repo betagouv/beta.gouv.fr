@@ -30,9 +30,9 @@ metrics:
     text: sessions réalisées
   - value: 450
     text: agents formés
-  - value: 4,3/ 5
+  - value: 4,4/ 5
     text: de satisfaction des participants
-  - value: 87%
+  - value: 89%
     text: des participants la recommandent !
 redirect_from:
   - /alpha
