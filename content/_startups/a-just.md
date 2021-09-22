@@ -44,8 +44,6 @@ En appel, il se passe, **entre la première décision et l’appel** :
 
 Ces délais de traitement **varient** de surcroît de façon significative **selon les ressorts** et leur **origine** est assurément **multifactorielle**.
 
-
-
 ## **Le Problème**
 
 ***Les délais de la Justice* : un problème majeur pour les justiciables**
@@ -68,8 +66,6 @@ L’acuité de cette fonction de pilotage des moyens est essentielle pour assure
 
 Or, si la durée de traitement des procédures est particulièrement suivie par des indicateurs fins (nationaux et locaux), les chefs de juridiction ne disposent pas de moyen simple pour corréler en temps réel ou par anticipation leurs volumes de contentieux à traiter avec leurs ressources magistrats.
 
-
-
 ## **La solution en construction**
 
 ***Lancement de la phase de construction***
@@ -78,21 +74,19 @@ Suite à l’investigation menée début 2021, la première phase de constructio
 
 ***L’objectif***
 
-A-JUST vise à offrir aux justiciables des délais plus courts de prise en charge de leurs dossiers en permettant une mobilisation optimale des effectifs des juridictions.
+A-JUST vise à offrir aux justiciables des délais plus courts de prise en charge de leurs dossiers en permettant une mobilisation optimale des ressources humaines des juridictions.
 
-Pour cela, A-JUST a pour objectif de permettre aux chefs de juridictions de visualiser et anticiper l’impact de leurs affectations d’effectifs afin d’optimiser les délais de prise en charge des contentieux.
+ Pour cela, A-JUST a pour objectif de permettre aux chefs de juridiction de visualiser et anticiper l’impact de leurs affectations d’effectifs sur les délais de prise en charge des contentieux.
 
-Visualisation, corrélation, simulation... A-JUST se définit comme un outil  d’aide à la décision et de prospective.
+ Visualisation, corrélation, simulation... A-JUST se définit comme un outil  d’aide à la décision et de prospective.
 
 ***Les premières étapes***
 
 L’équipe A-JUST se concentre sur l’expérimentation, sur un périmètre réduit de contentieux civils (affaires familiales, contentieux non spécialisé, social...), dans quelques tribunaux judiciaires, de la capacité à :
 
-* calculer et afficher un indicateur de délai d’attente parlant pour l’ensemble des acteurs (juridiction, citoyens...)
 * recenser les effectifs de la juridiction (compétences, répartition du temps par contentieux...)
-* simuler les délais d’attente en fonction des effectifs affectés
-
- 
+* calculer et afficher un indicateur de délai parlant pour l’ensemble des acteurs (juridiction, citoyens...)
+* simuler les délais de traitement des contentieux en fonction des effectifs affectés.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
