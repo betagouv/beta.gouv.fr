@@ -7,7 +7,10 @@ sponsors:
     name: Commissariat Général au Développement Durable
     domaine_ministeriel: environnement
 incubator: mtes
+link: https://wikicarbone.beta.gouv.fr/
+repository: https://github.com/MTES-MCT/wikicarbone
 contact: pascal.dagras@beta.gouv.fr
+stats: true
 phases:
   - name: investigation
     start: 2021-04-11
@@ -15,6 +18,7 @@ phases:
   - name: construction
     start: 2021-07-16
 ---
+
 ## Contexte
 
 **Quels sont les impacts de nos achats sur la planète ? Wikicarbone (nom provisoire), un outil pour comprendre, contribuer et faire émerger des valeurs de référence.**
