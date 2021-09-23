@@ -12,6 +12,8 @@ phases:
   - name: investigation
     start: 2021-04-11
     end: 2021-07-16
+  - name: construction
+    start: 2021-07-16
 ---
 ## Contexte
 
