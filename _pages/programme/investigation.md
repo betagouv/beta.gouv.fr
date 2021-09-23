@@ -63,15 +63,12 @@ permalink: /approche/investigation
                     <div class="fr-col-12" id="investigation">
                         <h2>L'investigation</h2>
                         <p>Tous les partenariats avec beta.gouv.fr débutent par une **phase d'investigation** qui permet de mieux cerner le problème auquel on souhaite s'attaquer, de s'assurer que des solutions qui y répondent n'existent pas déjà et de confirmer qu'il est pertinent d'investir dans un service numérique pour le résoudre.</p>
-                        <br>
                         <p>Pendant environ 9 semaines et avec l’accompagnement d’un mentor expérimenté, beta.gouv.fr collabore avec votre administration afin d’investiguer un problème et vérifier qu’il est assez universel et criant pour justifier un investissement dans un service numérique. Au terme de cette phase, appelée “<b>investigation</b>”, les apprentissages de l'équipe en charge de l'investigation sont présentés durant un <b>comité de lancement</b> pour que les décideuses et décideurs publics aient tous les éléments en main afin de savoir s’il convient ou non de poursuivre les travaux et de passer en [phase de construction](https://beta.gouv.fr/approche/construction). Toutes les investigations n'aboutissent pas sur le lancement de la construction d'un service numérique avec beta.gouv.fr.</p>
-                        <br>
                     </div>
                 </div>
                 <div class="fr-grid-row fr-grid-row--gutters">
                     <div class="fr-col-12" id="pourquoi">
                         <h2>Pourquoi réaliser cette étape ?</h2>
-                        <br>
                         <p>Pour nous, la technologie est un moyen et non une fin : le numérique ne parviendra certainement pas à résoudre tous les problèmes. Nous le répétons souvent : ce n’est pas parce que c’est innovant que c’est forcément mieux. C’est pourquoi nous recommandons toujours de (re)partir du problème rencontré par les utilisateurs (et non d’une solution pressentie) à travers une écoute attentive. Cette approche présente l’avantage de minimiser grandement le risque d’investir dans un produit qui ne répond pas aux vrais besoins des utilisateurs et qui répondra donc moins bien aux objectifs fixés. Elle permet en particulier, preuves à l’appui, de s’assurer de construire un service numérique qui soit vraiment utile, c’est-à-dire qui réponde véritablement aux besoins des gens et/ou qui ait le maximum d’impact.
                         </p>
                     </div>
@@ -79,14 +76,12 @@ permalink: /approche/investigation
                 <div class="fr-grid-row fr-grid-row--gutters">
                     <div class="fr-col-12" id="qui">
                     <h2>Qui sera impliqué ?</h2>
-                    <br>
                     <p>Dans cette première étape qui prend en général 9 semaines, l’intrapreneur(e) accompagné d’un ou une coach va au contact des utilisateurs pour bien cerner le problème qu’il ou elle souhaite résoudre par un service public numérique.</p>
                     </div>
                 </div>
                 <div class="fr-grid-row fr-grid-row--gutters">
                     <div class="fr-col-12" id="resultat">
                     <h2>Qu’est-ce qui sera produit pendant cette étape ?</h2>
-                    <br>
                     <p>A la fin de l’investigation, l’intra présentera au comité d’investissement le résultat de ses recherches utilisateur : il ou elle aura déjà imaginé des pistes de solutions et aura testé la valeur d’une ou plusieurs solutions auprès des utilisateurs, par le biais d’un prototype, d’une maquette ou d’un site minimal.</p>
                     </div>
                 </div>
@@ -98,7 +93,7 @@ permalink: /approche/investigation
                         ️✅ autoriser le télétravail de cette personne ;<br>
                         ️✅ lui donner un accès à un ordinateur portable et un Internet « libre », pour qu’elle accède aux outils utilisés par la communauté beta.gouv (Mattermost, Trello, GitHub…) ;<br>
                         ️✅ l’autoriser à ouvrir toutes les portes utiles à sa mission, sans validation préalable, afin d’échanger avec les personnes jugées les plus pertinentes (au sein de son administration ou ailleurs)<br>
-                        ️✅ obtenir le soutien d’un “sponsor” de haut niveau (exemples : directeur ou directrice d’administration centrale ; directeur ou directrice général(e) des services) qui adhère à la démarche beta.gouv, qui garantit l’autonomie et la liberté de l’équipe et qui s’engage à participer au comité de lancement final. Concrètement l’intrapreneur accompagné par beta.gouv rapporte directement au sponsor plutôt qu’à sa hiérarchie habituelle.<br>
+                        ️✅ obtenir le soutien d’un “sponsor” de haut niveau (exemples : directeur ou directrice d’administration centrale ; directeur ou directrice général(e) des services) qui adhère à la démarche beta.gouv, qui garantit l’autonomie et la liberté de l’équipe et qui s’engage à participer au comité de lancement final. Concrètement l’intrapreneur accompagné par beta.gouv rapporte directement au sponsor plutôt qu’à sa hiérarchie habituelle.
                         </p>
                     </div>
                 </div>
