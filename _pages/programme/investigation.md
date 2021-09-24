@@ -18,11 +18,11 @@ permalink: /approche/investigation
                         <div class="fr-collapse" id="fr-sidemenu-wrapper">
                             <h1 class="fr-sidemenu__title fr-pl-1w">Sommaire</h1>
                             <ul class="fr-sidemenu__list">
-                                <li class="fr-sidemenu__item">
+                                <!-- <li class="fr-sidemenu__item">
                                     <a class="fr-sidemenu__link" href="#investigation" target="_self" aria-current="page">
                                       L'investigation
                                     </a>
-                                </li>
+                                </li> -->
                                 <li class="fr-sidemenu__item">
                                     <a class="fr-sidemenu__link" href="#pourquoi" target="_self" aria-current="page">
                                       1. Pourquoi réaliser cette étape
@@ -59,13 +59,13 @@ permalink: /approche/investigation
                 </div>
             </div>
             <div class="fr-col fr-col-12 fr-col-md-8">
-                <div class="fr-grid-row fr-grid-row--gutters">
+                <!-- <div class="fr-grid-row fr-grid-row--gutters">
                     <div class="fr-col-12" id="investigation">
                         <h2>L'investigation</h2>
                         <p>Tous les partenariats avec beta.gouv.fr débutent par une **phase d'investigation** qui permet de mieux cerner le problème auquel on souhaite s'attaquer, de s'assurer que des solutions qui y répondent n'existent pas déjà et de confirmer qu'il est pertinent d'investir dans un service numérique pour le résoudre.</p>
                         <p>Pendant environ 9 semaines et avec l’accompagnement d’un mentor expérimenté, beta.gouv.fr collabore avec votre administration afin d’investiguer un problème et vérifier qu’il est assez universel et criant pour justifier un investissement dans un service numérique. Au terme de cette phase, appelée “<b>investigation</b>”, les apprentissages de l'équipe en charge de l'investigation sont présentés durant un <b>comité de lancement</b> pour que les décideuses et décideurs publics aient tous les éléments en main afin de savoir s’il convient ou non de poursuivre les travaux et de passer en [phase de construction](https://beta.gouv.fr/approche/construction). Toutes les investigations n'aboutissent pas sur le lancement de la construction d'un service numérique avec beta.gouv.fr.</p>
                     </div>
-                </div>
+                </div> -->
                 <div class="fr-grid-row fr-grid-row--gutters">
                     <div class="fr-col-12" id="pourquoi">
                         <h2>Pourquoi réaliser cette étape ?</h2>
