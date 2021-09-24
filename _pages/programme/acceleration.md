@@ -5,7 +5,7 @@ title: Phase d'accélération
 permalink: /approche/acceleration
 ---
 
-> La **phase d’accélération**, qui fait suite à une [phase de construction](https://beta.gouv.fr/approche/construction) réussie, a pour objectif la croissance de l’impact du service numérique. Elle permet de déployer le service à plus large échelle et peut nécessiter un élargissement de l’équipe.
+La **phase d’accélération**, qui fait suite à une [phase de construction](https://beta.gouv.fr/approche/construction) réussie, a pour objectif la croissance de l’impact du service numérique. Elle permet de déployer le service à plus large échelle et peut nécessiter un élargissement de l’équipe.
 
 ## Fonctionnement
 

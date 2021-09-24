@@ -116,7 +116,7 @@ layout: default
     </section>
     {% endfor %}
 
-    <div class="fr-container fr-py-6w fr-px-2w">
+    <div class="fr-container fr-py-6w">
         {% assign phases = site.phases | sort: 'order' %}
         {% for phase in phases %}
             {% assign counter_target = phase.id | remove: "/phases/" %}

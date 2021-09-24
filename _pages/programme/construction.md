@@ -5,7 +5,7 @@ title: Phase de construction
 permalink: /approche/construction
 ---
 
-> La **phase de construction** permet de lancer le plus rapidement possible un service numérique pour s’assurer qu’il résout le problème visé. Il s’agit d’une phase expérimentale faite de tests et d’apprentissages terrain dans laquelle l’équipe cherche à se confronter à de premiers utilisateurs dès que possible.
+La **phase de construction** permet de lancer le plus rapidement possible un service numérique pour s’assurer qu’il résout le problème visé. Il s’agit d’une phase expérimentale faite de tests et d’apprentissages terrain dans laquelle l’équipe cherche à se confronter à de premiers utilisateurs dès que possible.
 
 ## Fonctionnement
 

@@ -5,7 +5,7 @@ title: Les sponsors
 permalink: /approche/sponsors
 ---
 
-> Dans le cadre du programme beta.gouv.fr, le sponsor est la personne qui veille à réunir les conditions nécessaires à la réussite et à la survie de la startup d'Etat ou de Territoires. Elle soutient les intrapreneurs, les aide à anticiper des difficultés d'où qu'elles viennent (par exemple des agents, partenaires ou directions qui s'opposent à la démarche par crainte ou par incompréhension). Elle s'assure qu'il n'y aura pas d'obstacles institutionnels, et facilite tout ce qui peut contribuer à la réussite du produit, par exemple en préparant des relais au sein des directions métiers pour qu'elles apportent leur soutien. 
+Dans le cadre du programme beta.gouv.fr, le sponsor est la personne qui veille à réunir les conditions nécessaires à la réussite et à la survie de la startup d'Etat ou de Territoires. Elle soutient les intrapreneurs, les aide à anticiper des difficultés d'où qu'elles viennent (par exemple des agents, partenaires ou directions qui s'opposent à la démarche par crainte ou par incompréhension). Elle s'assure qu'il n'y aura pas d'obstacles institutionnels, et facilite tout ce qui peut contribuer à la réussite du produit, par exemple en préparant des relais au sein des directions métiers pour qu'elles apportent leur soutien. 
 
 ## Le sponsor est une personne qui
   - est au plus niveau hiérarchique de l'administration portant le projet, par exemple&nbsp;: Présidente, sécrétaire générale, directrice de cabinet...

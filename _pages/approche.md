@@ -25,6 +25,7 @@ Pour cela, nous diffusons une approche différente de la conception de service n
             <h2>
                 Identifier le problème à résoudre
             </h2>
+            <br>
             <b>🎯 Valider que le problème peut être résolu par le numérique : </b>
             <ul>
             <li>en rencontrant des utilisateurs pour qualifier le problème</li>
@@ -46,6 +47,7 @@ Pour cela, nous diffusons une approche différente de la conception de service n
         <h2>
             Réaliser un service public numérique
         </h2>
+        <br>
         🎯 <b>Constituer son équipe et développer son produit</b>
         <ul><li>produire la première version de la solution sur un terrain d’expérimentation</li></ul>
         🎯 <b>Avoir un produit fini</b>

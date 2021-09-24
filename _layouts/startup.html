@@ -94,7 +94,7 @@ Technologies utilisées : {{ page.techno | join: ", " }}
 <section class="fr-py-6w">
   {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
   {% if jobs[0] %}
-    <div class="fr-container fr-py-6w fr-px-2w">
+    <div class="fr-container fr-py-6w">
       <h3>Postes ouverts</h3>
       <ul>
         {% for job in jobs %}
@@ -104,7 +104,7 @@ Technologies utilisées : {{ page.techno | join: ", " }}
     </div>
   {% endif %}
 
-  <div class="fr-container fr-py-6w fr-px-2w">
+  <div class="fr-container fr-py-6w">
     {{ content }}
   </div>
 </section>
@@ -115,7 +115,7 @@ Technologies utilisées : {{ page.techno | join: ", " }}
 
 {% if page.rgpd %}
 <section class="fr-py-6w section-white">
-  <div class="fr-container fr-py-6w fr-px-2w">
+  <div class="fr-container fr-py-6w">
     <h2>Protection des données personnelles</h2>
     <div class="fr-callout">
         <ul>
