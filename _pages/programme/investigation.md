@@ -14,7 +14,7 @@ permalink: /approche/investigation
                     <div class="fr-sidemenu__inner">
                         <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
                         <img 
-                            src="/img/programme/illu_build.png" alt="Récapitulatif visuel des phases" style="width: 100%;" />
+                            src="/img/programme/illu_identifier.png" alt="Récapitulatif visuel des phases" style="width: 100%;" />
                         <div class="fr-collapse" id="fr-sidemenu-wrapper">
                             <h1 class="fr-sidemenu__title fr-pl-1w">Sommaire</h1>
                             <ul class="fr-sidemenu__list">

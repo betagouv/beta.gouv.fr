@@ -17,10 +17,10 @@ Pour cela, nous diffusons une approche différente de la conception de service n
 </div>
 <div>
     <div class="fr-grid-row fr-grid-row--gutters fr-mb-6w">
-        <div class="fr-col-4">
+        <div class="fr-col-md-4 fr-col-xs-12">
             <img src="/img/programme/illu_identifier.png" alt="Récapitulatif visuel des phases" style="width: 100%;" />
         </div>
-        <div class="fr-col-8">
+        <div class="fr-col-md-8 fr-px-4w fr-col-xs-12">
             <span><b>L’Investigation</b></span>
             <h2>
                 Identifier le problème à résoudre
@@ -38,10 +38,10 @@ Pour cela, nous diffusons une approche différente de la conception de service n
         </div>
     </div>
   <div class="fr-grid-row fr-grid-row--gutters">
-    <div class="fr-col-4">
+    <div class="fr-col-md-4 fr-col-xs-12">
         <img src="/img/programme/illu_build.png" alt="Récapitulatif visuel des phases" style="width: 100%;" />
     </div>
-    <div class="fr-col-8">
+    <div class="fr-col-md-8 fr-px-4w fr-col-xs-12">
         <span><b>La Start-up d’Etat</b></span>
         <h2>
             Réaliser un service public numérique
@@ -56,7 +56,7 @@ Pour cela, nous diffusons une approche différente de la conception de service n
         ✋ <a href="/devenir-intrapreneur">Avec l’intra</a>, son ou sa coach et une équipe d’experts
         <br>
         <br>
-        <a class="fr-btn fr-btn--md" href="/approche/investigation">Construire une service numérique</a>
+        <a class="fr-btn fr-btn--md" href="/approche/construction">Construire une service numérique</a>
     </div>
   </div>
 </div>
