@@ -31,10 +31,10 @@ Pour cela, nous diffusons une approche différente de la conception de service n
             <li>en rencontrant des utilisateurs pour qualifier le problème</li>
             <li>en imaginant des ébauches de solutions</li>
             </ul>
+            <div class="fr-mb-4w fr-mt-2w">
             📅 Pendant <b>1 à 2 mois</b><br>
             ✋ <a href="/devenir-intrapreneur">L’intrapreneur(e)</a> accompagné d’un ou d’une coach
-            <br>
-            <br>
+            </div>
             <a class="fr-btn fr-btn--md" href="/approche/investigation">Lancer une investigation</a>
         </div>
     </div>
@@ -54,10 +54,10 @@ Pour cela, nous diffusons une approche différente de la conception de service n
         <ul><li>déployer la solution au niveau national</li></ul>
         🎯 <b>Créer les conditions de la reprise</b>
         <ul><li>assurer la pérennité du projet au sein de son administration d‘origine</li></ul>
+        <div class="fr-mb-4w fr-mt-2w">
         📅 Pendant <b>18 à 32 mois</b><br>
         ✋ Avec <a href="/devenir-intrapreneur">l’intrapreneur(e)</a>, son ou sa coach et une équipe d’experts
-        <br>
-        <br>
+        </div>
         <a class="fr-btn fr-btn--md" href="/approche/construction">Construire une service numérique</a>
     </div>
   </div>
