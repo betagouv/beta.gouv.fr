@@ -16,6 +16,7 @@ missions:
 startups:
   - sante-psy-etudiant
   - psyenfantado
+  - data-subvention
 previously:
   - engagement-civique
   - eac
