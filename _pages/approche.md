@@ -26,14 +26,14 @@ Pour cela, nous diffusons une approche différente de la conception de service n
                 Identifier le problème à résoudre
             </h2>
             <br>
-            <b>🎯 Valider que le problème peut être résolu par le numérique : </b>
+            <b><span aria-hidden="true">🎯</span> Valider que le problème peut être résolu par le numérique : </b>
             <ul>
             <li>en rencontrant des utilisateurs pour qualifier le problème</li>
             <li>en imaginant des ébauches de solutions</li>
             </ul>
             <div class="fr-mb-4w fr-mt-2w">
-            📅 Pendant <b>1 à 2 mois</b><br>
-            ✋ <a href="/devenir-intrapreneur">L’intrapreneur(e)</a> accompagné d’un ou d’une coach
+            <span aria-hidden="true">📅</span> Pendant <b>1 à 2 mois</b><br>
+            <span aria-hidden="true">✋</span> <a href="/devenir-intrapreneur">L’intrapreneur(e)</a> accompagné d’un ou d’une coach
             </div>
             <a class="fr-btn fr-btn--md" href="/approche/investigation">Lancer une investigation</a>
         </div>
@@ -48,15 +48,15 @@ Pour cela, nous diffusons une approche différente de la conception de service n
             Réaliser un service public numérique
         </h2>
         <br>
-        🎯 <b>Constituer son équipe et développer son produit</b>
+        <span aria-hidden="true">🎯</span> <b>Constituer son équipe et développer son produit</b>
         <ul><li>produire la première version de la solution sur un terrain d’expérimentation</li></ul>
-        🎯 <b>Avoir un produit fini</b>
+        <span aria-hidden="true">🎯</span> <b>Avoir un produit fini</b>
         <ul><li>déployer la solution au niveau national</li></ul>
-        🎯 <b>Créer les conditions de la reprise</b>
+        <span aria-hidden="true">🎯</span> <b>Créer les conditions de la reprise</b>
         <ul><li>assurer la pérennité du projet au sein de son administration d‘origine</li></ul>
         <div class="fr-mb-4w fr-mt-2w">
-        📅 Pendant <b>18 à 32 mois</b><br>
-        ✋ Avec <a href="/devenir-intrapreneur">l’intrapreneur(e)</a>, son ou sa coach et une équipe d’experts
+        <span aria-hidden="true">📅</span> Pendant <b>18 à 32 mois</b><br>
+        <span aria-hidden="true">✋</span> Avec <a href="/devenir-intrapreneur">l’intrapreneur(e)</a>, son ou sa coach et une équipe d’experts
         </div>
         <a class="fr-btn fr-btn--md" href="/approche/construction">Construire une service numérique</a>
     </div>
