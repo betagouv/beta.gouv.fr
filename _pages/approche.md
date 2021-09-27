@@ -13,12 +13,16 @@ Pour cela, nous diffusons une approche différente de la conception de service n
 <div>
     <img 
         class='fr-my-6w'
-        src="/img/programme/cycle.png" alt="Récapitulatif visuel des phases" style="width: 100%;" />
+        src="/img/programme/cycle.png"
+        alt="Le programme Beta.gouv.fr se déroule en 4 étapes : investigation, construction, accélération puis transfert." style="width: 100%;" />
 </div>
 <div>
     <div class="fr-grid-row fr-grid-row--gutters fr-mb-6w">
         <div class="fr-col-md-4 fr-col-xs-12">
-            <img src="/img/programme/illu_identifier.png" alt="Récapitulatif visuel des phases" style="width: 100%;" />
+            <img
+                src="/img/programme/illu_identifier.png"
+                alt="Illustration identifier le problème à résoudre"
+                style="width: 100%;" />
         </div>
         <div class="fr-col-md-8 fr-px-4w fr-col-xs-12">
             <span><b>L’Investigation</b></span>
@@ -40,7 +44,10 @@ Pour cela, nous diffusons une approche différente de la conception de service n
     </div>
   <div class="fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-md-4 fr-col-xs-12">
-        <img src="/img/programme/illu_build.png" alt="Récapitulatif visuel des phases" style="width: 100%;" />
+        <img
+            src="/img/programme/illu_build.png"
+            alt="Illustration réaliser un service public numérique"
+            style="width: 100%;" />
     </div>
     <div class="fr-col-md-8 fr-px-4w fr-col-xs-12">
         <span><b>La Start-up d’Etat</b></span>
