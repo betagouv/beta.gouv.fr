@@ -7,6 +7,11 @@ sponsors:
       acronym: DINUM
       domaine_ministeriel: spm # Service du premier ministre
       type: administration-centrale
+phases:
+    - name: investigation
+      start: 2020-09-01
+    - name: success
+      start: 2021-05-01
 incubator: apigouv
 link: https://annuaire-entreprises.data.gouv.fr
 repository: https://github.com/etalab/annuaire-entreprises.data.gouv.fr
