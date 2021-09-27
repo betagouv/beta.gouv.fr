@@ -2,17 +2,15 @@
 layout: default
 ---
 
-{% comment %}additional_css : home.css{% endcomment %}
+{% include hero-with-image.html title=page.summary image="/img/layouts/home/index.jpg" %}
 
-{% include hero-page.html title=page.summary image="/img/layouts/home/index.jpg" %}
-
-<section class="section-grey mosaic">
-  <div class="container">
+<section class="fr-py-6w section-grey mosaic">
+  <div class="fr-container">
     <div class="row public-agents inverted">
       <div class="photo agents"></div>
       <div class="stacked">
         <div class="description">
-          <h3>{{ site.startups | size }} State Startups - and counting.</h3>
+          <h2>{{ site.startups | size }} State Startups - and counting.</h2>
           <p>A State Startup is not just an oxymoron, but a match between a team and a mission. There is no capital investment, no separate juridical entity, only the usage of the tools and practices of the digital startups to solve a friction in an interaction an administration has with citizens.</p>
         </div>
         <div class="row">
@@ -27,7 +25,7 @@ layout: default
       <div class="photo decideurs"></div>
       <div class="stacked">
         <div class="description">
-          <h3>How State Startups work</h3>
+          <h2>How State Startups work</h2>
           <ol>
             <li>A civil servant <strong>investigates a pain point</strong> affecting citizens dealing with government.</li>
             <li>A team of two to four <strong>builds a product</strong> in under six months using modern technologies.</li>

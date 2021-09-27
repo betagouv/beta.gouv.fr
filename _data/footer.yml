@@ -22,14 +22,14 @@ links:
       label: Vue d'ensemble
       target: _pages/dashboard.md
     -
-      label: En détails et en chiffres
-      url: /content/docs/rapportannuel.pdf
-    -
-      label: Communauté
-      target: _pages/communaute.md
+      label: Annuaire des membres
+      target: _pages/annuaire.md
     -
       label: Nous contacter
       target: _pages/contact.md
+    - 
+      label: Présentation de référence
+      url: https://beta.gouv.fr/content/docs/betagouv_presentation.pdf
 -
     label:
     children:
@@ -53,4 +53,6 @@ mandatorylinks:
   -
     label: Données personnelles et cookies
     target: _pages/suivi.md
-
+  -
+    label: "Accessibilité : non conforme"
+    target: _pages/accessibilite.md

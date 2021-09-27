@@ -1,7 +1,8 @@
 ---
 fullname: Florian Delezenne
 role: Développeur
-avatar: https://www.gravatar.com/userimage/14275002/03a4283cd1632863672a3e249abdb8cb.png?size=512
+domaine: Animation
+github: Flightan
 link: https://github.com/betagouv/beta.gouv.fr/edit/master/content/_authors/florian.delezenne.md
 missions:
   - start: 2014-06-01
@@ -12,7 +13,6 @@ missions:
     employer: dinum
     status: admin
 startups:
-  - aidantsconnect
 previously:
   - datapass
   - bourse
@@ -21,6 +21,7 @@ previously:
   - geo.data.gouv.fr
   - api-particulier
   - api.gouv.fr
+  - aidantsconnect
 badges:
   - segur
 ---

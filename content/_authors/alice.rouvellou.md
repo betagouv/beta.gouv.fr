@@ -1,6 +1,7 @@
 ---
 fullname: Alice Rouvellou
 role: Chargée de déploiement
+domaine: Déploiement
 link: https://www.linkedin.com/in/alice-rouvellou-354198142
 missions:
   - start: 2021-01-11

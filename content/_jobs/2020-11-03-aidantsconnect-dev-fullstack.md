@@ -1,7 +1,7 @@
 ---
 roles: un ou une dev web full stack
 startup: aidantsconnect
-open: true
+open: false
 ---
 
 Aidants Connect cherche un développeur ou une développeuse pour faire passer à l'échelle un service qui permet à un aidant professionnel de réaliser des démarches administratives en ligne à la place d'une personne ne parvenant pas à les faire seule.

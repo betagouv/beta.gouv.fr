@@ -9,12 +9,15 @@ missions:
     employer: dinum
     status: admin
   - start: 2019-07-02
-    end: 2020-12-31    
+    end: 2021-12-31    
     status: independent
 startups:
-  - classes12
-  - mes-aides
+  - classe-a-12
+  - ozensemble
+  - monsuivipsy
   - preuve-de-covoiturage
 previously:
   - codedutravail
+  - mes-aides
+domaine: Design
 ---

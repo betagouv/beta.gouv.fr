@@ -14,10 +14,10 @@ phases:
     end: 2020-05-19
   - name: construction
     start: 2020-09-14
-link: https://betagouv.github.io/urbanvitaliz/
-repository: https://github.com/betagouv/urbanvitaliz
+link: https://urbanvitaliz.fr/
+repository: https://github.com/betagouv/urbanvitaliz-django
 stats: true 
-stats_url: https://betagouv.github.io/urbanvitaliz/stats
+stats_url: https://betagouv.github.io/urbanvitaliz/suiviprojet/statistiques.html
 contact: friches@beta.gouv.fr
 redirect_from:
   - /startups/friches

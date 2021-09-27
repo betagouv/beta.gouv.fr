@@ -33,10 +33,6 @@
       display: none;
     }
 
-    div[class*="ToolbarSubSectionFirst-ToolbarSubSectionLast"] {
-      display: none;
-    }
-
     button[class*="ToolbarButton-button-default-buttonMargin-noOverflow-DeleteButton-lightRed"] {
       display: none;
     }
@@ -65,6 +61,11 @@
 
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
+  <script>
+      if(document.location.href.endsWith("/admin")) {
+            window.location.href = "/admin/";   
+      }
+  </script>
   <script src="https://unpkg.com/netlify-cms/dist/netlify-cms.js"></script>
   <script type="text/javascript">
     var oldHref = document.location.href;
@@ -72,7 +73,7 @@
     function createExplanationParagraph() {
       var p = document.createElement("p");
       p.className = "onTheFlyElement"
-      p.innerHTML = "Une fois un changement enregistré, rendez-vous ensuite sur github pour merger ou demander une review sur la pull request : <a target='_blank' href='https://github.com/betagouv/beta.gouv.fr/pulls'>https://github.com/betagouv/beta.gouv.fr/pulls</a>"
+      p.innerHTML = "Une fois un changement enregistré, passe dans le bouton en haut à droite le statut de \"brouillon\" à \"en cours de révision\", puis rends-toi ensuite sur github pour merger ou demander une review sur la pull request : <a target='_blank' href='https://github.com/betagouv/beta.gouv.fr/pulls'>https://github.com/betagouv/beta.gouv.fr/pulls</a>"
       p.style = "max-width: 800px; margin: 0px auto; padding-top: 16px; font-size: 16px;"
       return p
     }
@@ -131,7 +132,8 @@
             Après t'être connecté via Github, tu pourras :  </br><small>(si tu n'as pas de compte github tu peux voir la <a target="_blank" style="text-decoration: underline" href="https://doc.incubateur.net/communaute/outils/github">doc</a> pour t'en créer un)</small></br></br>
             <ul>
               <li>ajouter ou éditer une fiche produit</li>
-              <li>ajouter ou éditer une fiche membre</li>
+              <li>éditer une fiche membre</li>
+              <li>ajouter ou éditer une fiche de recrutement</li>
             </ul>
           </p>`
           onTheFlyAuthenticationElem.className = "onTheFlyAuthentificationElem";

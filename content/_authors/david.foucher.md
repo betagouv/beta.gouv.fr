@@ -1,6 +1,7 @@
 ---
 fullname: David Foucher
 role: Développeur
+domaine: Développement
 github: tyjak
 missions:
   - start: 2020-08-28
@@ -9,6 +10,8 @@ missions:
     employer: Pôle emploi
 startups:
   - pole-emploi-action
+  - mobiville
+  - encyclopedie-des-metiers
 previously:
   - la-bonne-formation
 ---

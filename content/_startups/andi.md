@@ -20,7 +20,6 @@ phases:
     end: 2020-05-15
   - name: alumni
     start: 2020-05-15
-link: https://andi.beta.gouv.fr/
 repository: https://github.com/betagouv/andi
 stats: true
 stats_url: https://andi.beta.gouv.fr/stats

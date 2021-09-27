@@ -1,6 +1,7 @@
 ---
 fullname: Emeric Vercoutre
 role: intrapreneur
+domaine: Intraprenariat
 missions:
   - start: 2020-03-01
     end: 2021-12-31

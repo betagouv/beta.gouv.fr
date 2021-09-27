@@ -1,6 +1,7 @@
 ---
 fullname: Stanislas Chable
 role: Développeur
+domaine: Développement
 github: schable
 missions:
   - start: 2019-11-12

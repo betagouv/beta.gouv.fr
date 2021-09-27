@@ -2,17 +2,16 @@
 title: Engagement Civique
 mission: Donner de son temps pour l'intérêt général
 owner: DJEPVA
-sponsors: 
-    - name: Direction de la jeunesse, de l'éducation populaire et de la vie associative
-      acronym: DJEPVA
-      domaine_ministeriel: education-nat
-      type: administration-centrale
+sponsors:
+  - name: Direction de la jeunesse, de l'éducation populaire et de la vie associative
+    acronym: DJEPVA
+    domaine_ministeriel: education-nat
+    type: administration-centrale
 incubator: dinum
-phases:
-  - name: investigation
-    start: 2017-03-23
-  - name: construction
-    start: 2017-03-23
+link: null
+repository: https://github.com/Codeconut/jeveuxaider
+contact: jeveuxaider@beta.gouv.fr
+stats: false
 events:
   - name: other
     date: 2020-01-01
@@ -23,10 +22,11 @@ events:
   - name: other
     date: 2020-07-13
     comment: Convention globale
-link:
-repository:
-stats: false
-contact: nassim.merzouk@beta.gouv.fr
+phases:
+  - name: investigation
+    start: 2017-03-23
+  - name: construction
+    start: 2017-03-23
 ---
 
 L'équipe "Engagement Civique" est en charge de trois produits distincts:

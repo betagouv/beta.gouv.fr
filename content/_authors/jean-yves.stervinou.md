@@ -1,6 +1,7 @@
 ---
 fullname: Jean-Yves Stervinou
 role: Développeur
+domaine: Développement
 github: jystervinou
 missions:
   - start: 2018-02-01
@@ -12,7 +13,7 @@ missions:
     status: independent
     employer: octo
   - start: 2020-12-31
-    end: 2021-03-30
+    end: 2021-12-31
     status: independent
     employer: octo
 startups:

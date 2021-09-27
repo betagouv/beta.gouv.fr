@@ -4,15 +4,18 @@ mission: Améliorer l'égalité des chances aux concours de la fonction publique
 owner: Direction générale de l’administration et de la fonction publique
 sponsors:
   - acronym: DGAFP
-    name: Direction générale de l’administration et de la fonction publique 
+    name: Direction générale de l’administration et de la fonction publique
     type: administration-centrale
     domaine_ministeriel: spm
 incubator: dinum
-contact: marie.vanhaecke@beta.gouv.fr
+contact: tutorat@beta.gouv.fr
+link: https://www.tutorat.fonction-publique.gouv.fr/
 phases:
   - name: investigation
     start: 2021-02-01
-    end: 2021-02-28
+    end: 2021-03-31
+  - name: construction
+    start: 2021-04-01
 ---
 
 ## Le contexte
@@ -39,8 +42,6 @@ Un processus pour développer le recrutement et l'accompagnement de tuteurs parm
    
 - 1 cible bénéficiaire : les étudiants des classes préparatoires Talents 
 
-👉 Lien vers la maquette envisagée à ce stade : https://www.figma.com/file/knb43jxS8Ecuy1evqYklH2/tutorat 
-
 ## La stratégie envisagée
 
 - La mission : trouver des tuteurs pour les 1 700 étudiants des classes préparatoires Talents à la rentrée 2021 
@@ -51,5 +52,3 @@ Un processus pour développer le recrutement et l'accompagnement de tuteurs parm
 
 Pour arriver à atteindre nos objectifs, nous envisageons une stratégie de recrutement de tuteurs en partenariat étroit avec les écoles de service public.
 
-## Le projet en direct
-A ce stade, nous attendons la validation du lancement de la phase de construction.

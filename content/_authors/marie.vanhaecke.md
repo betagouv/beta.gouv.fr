@@ -1,6 +1,7 @@
 ---
 fullname: Marie Van Haecke
 role: Coach
+domaine: Coaching
 github: marievanhaecke
 missions:
   - start: 2021-01-21
@@ -9,6 +10,7 @@ missions:
     employer: Dinum
 startups:
   - tutorat_fp
+  - metiers-numeriques
 badges:
   - segur
 ---

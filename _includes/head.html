@@ -48,11 +48,9 @@
         {% endfor %}
     {% endif %}
 
-
-    <link rel="stylesheet" type="text/css" href="/assets/style/main.css">
     <link rel="stylesheet" type="text/css" href="/assets/main.css">
-    <link rel="stylesheet" type="text/css" href="/assets/gouvfr/css/all.css">
-
+    <link rel="stylesheet" type="text/css" href="/assets/gouvfr/css/dsfr.min.css">
+    <link rel="stylesheet" type="text/css" href="/assets/remixicon/fonts/remixicon.css">
 
     {% for file in page.additional_css %}
       <link rel="stylesheet" type="text/css" href="{% if file contains '://' %}{{ file }}{% else %}/assets/additional/style/{{ file }}{% endif %}">

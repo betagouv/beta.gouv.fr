@@ -1,13 +1,13 @@
 ---
 title: Signaux Faibles
 mission: Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté
-owner: Ministère de l'Économie, des Finances et de la Relance - Direction générale des entreprises (DGE) / Ministère du Travail, de l'Emploi et de l'Insertion (DGEFP) / Banque de France / ACOSS
+owner: le Ministère de l'Économie, des Finances et de la Relance (DGE) en partenariat avec le Ministère du Travail, de l'Emploi et de l'Insertion (DGEFP), la Banque de France, l'ACOSS et la DINUM
 sponsors:
-    - name: Direction generale des Entreprises
+    - name: Direction Générale des Entreprises
       acronym: DGE
       domaine_ministeriel: bercy
       type: administration-centrale
-    - name: Délégation générale à l'emploi et à la formation professionnelle
+    - name: Délégation Générale à l'Emploi et à la Formation Professionnelle
       acronym: DGEFP
       domaine_ministeriel: travail
       type: administration-centrale
@@ -15,11 +15,11 @@ sponsors:
       acronym: BDF
       domaine_ministeriel: autres
       type: autre
-    - name: Agence centrale des organismes de sécurité sociale
+    - name: Agence Centrale des Organismes de Sécurité Sociale
       acronym: ACOSS
       domaine_ministeriel: sante
       type: securite-sociale
-incubator: dinum
+incubator: bercy
 phases:
   - name: investigation
     start: 2014-05-15
@@ -35,10 +35,10 @@ stats: true
 stats_url: https://stats.signaux-faibles.beta.gouv.fr
 contact: contact@signaux-faibles.beta.gouv.fr
 ---
-
+  
 # Prévenir pour mieux guérir. Un algorithme pour lutter contre la faillite.
 
-## Le problème initial : la connaissance tardive des difficultés d'entreprises nuit à la qualité et l’efficacité des actions d’accompagnement
+## Le problème initial : la découverte tardive des difficultés d'entreprises
 
 Le constat est partagé par tous les acteurs intervenant en soutien des entreprises en difficulté : la connaissance précoce des fragilités d’une entreprise est déterminante dans la qualité et l’efficacité des soutiens déployés. Des signalements établis très en amont conduisent à mettre en œuvre des actions d’accompagnement et de financement des entreprises plus variées et efficaces. 
 

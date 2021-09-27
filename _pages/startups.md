@@ -2,9 +2,6 @@
 layout: startups
 title: Nos réalisations
 permalink: /startups/
-additional_css:
-  - side-panel.css
-  - grid.css
 redirect_from:
   - /portefeuille
   - /startup

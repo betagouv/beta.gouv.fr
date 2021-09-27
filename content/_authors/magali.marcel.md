@@ -1,12 +1,15 @@
 ---
 fullname: Magali Marcel
-role: Intrapreneuse
-link:
+domaine: Intraprenariat
+role: Responsable portefeuille produits numériques
+github: magalimarcelgarreau
+link: null
 missions:
   - start: 2018-06-18
-    end:  2020-12-31
+    end: 2022-02-08
     status: admin
-    employer: DGCCRF
-startups:
-  - signalement
+    employer: DGALN
+competences:
+  - Administration Publique
+  - Gestion de Produit
 ---

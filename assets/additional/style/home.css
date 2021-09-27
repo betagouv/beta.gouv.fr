@@ -1,145 +1,92 @@
-/* Suppresion de l'effet shadow de l'image du hero */
 
-.article__hero img {
-    filter:none;
-}
 
-/* Centrer les accroches */
-
-.centered {
-  text-align: center;
-  justify-content: space-around;
-}
-
-/* Mettre des marges autour de la section mosaic */
-
-.mosaic {
-  margin-top: 2em;
-  margin-bottom: 2em;
-}
-
-/* Centrer la section newsletter */
-
-.newsletter {
-  text-align: center;
-}
-
-/* Ancien CSS épuré : reprise de la section mosaic */
-
-.mosaic .photo {
-    /* background-image: url('/img/pages/agent_public.jpg'); */
-    overflow: hidden;
-}
-
-.mosaic .row {
-  margin: 0;
-}
-
-.mosaic .row > * {
-  margin: 0;
-}
-
-.mosaic .description {
-    background-color: #fff;
-    padding: 2em;
+.home-team-animation-container {
+    width: 100%;
     position: relative;
 }
 
-.mosaic .description::before {
-    content: '';
-    border: 20px solid transparent;
-    border-right: 20px solid #fff;
+.home-team-animation-background {
     position: absolute;
-    left: -39px;
-    height: 0;
-    width: 0;
-    top: 50%;
-    transform: translateY(-50%);
+    width: 100%;
+    height: 100%;
+    transition: all 0.5s ease-out ;
+    max-height: 200px;
 }
 
-.mosaic .description h3 {
-    margin-top: 0;
+.home-team-animation-foreground {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    max-height: 200px;
 }
 
-.mosaic .link {
-    background-color: #27486B;
-    color: #fff;
-    padding: 2em;
-    width: 50%;
-    display: flex;
-    flex-grow: 2;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
+.home-team-animation-container:hover .home-team-animation-background  {
+    transform: scale(1.1);
 }
 
-.mosaic .link:hover {
-    text-decoration: underline;
+.home-hero-anim {
+    position: relative;
+}
+#hero-anim-background {
+    width: 70%;
+    height: 70%;
+}
+#hero-anim-hand-1,
+#hero-anim-hand-1-shape,
+#hero-anim-hand-2,
+#hero-anim-hand-3,
+#hero-anim-hand-1-container {
+    position: absolute;
+    transition: all 0.5s ease-out ;
 }
 
-.mosaic .link p {
-  width: 100%;
+#hero-anim-hand-1{
+    top: -70px;
+    right: -130px;
 }
 
-.mosaic .link img {
-    height: 40px;
+#hero-anim-hand-1-container {
+    position: absolute;
+    top: -10px;
+    right: 50px;
 }
 
-.mosaic .link + .link {
-    background-color: #0081d5;
+#hero-anim-hand-1-shape {
+    /* animation: spin 4s linear infinite; */
+    right: 85px;
+    top: 35px;
 }
 
-.mosaic .link img {
-    display: block;
-    margin: auto;
+#hero-anim-hand-2 {
+    top: 100px;
+    right: -50px;
 }
 
-.mosaic .photo {
-    flex: 1 0 50%;
-    -ms-flex: 1 1 50%;
-    background-size: cover;
+#hero-anim-hand-3 {
+    top: 200px;
+    right: -50px;
 }
 
-.mosaic .photo.decideurs {
-    background-image: url("/img/layouts/home/decideur_public.jpg");
-}
-
-.mosaic .photo.agents {
-    background-image: url("/img/layouts/home/agent_public.jpg");
-}
-
-.mosaic .inverted {
-    direction: rtl;
-}
-
-.mosaic .inverted .stacked {
-    direction: ltr;
-}
-
-.mosaic .inverted .description::before {
-    border-right: transparent;
-    border-left: 20px solid #fff;
-    right: -20px;
-    left: unset;
-    height: 0;
-    width: 0;
-    transform: translateY(-50%);
-}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
 
 @media (max-width: 749px) {
-    .mosaic .photo {
-        min-height: 200px;
+    .home-hero-anim {
+        display: none;
     }
-
-    .mosaic .inverted {
-        direction: ltr;
+    #hero-anim-hand-1,
+    #hero-anim-hand-1-shape,
+    #hero-anim-hand-2,
+    #hero-anim-hand-3,
+    #hero-anim-hand-1-container {
+        display: none;
     }
-
-    .mosaic .link {
-        width: 100%;
+    .home-team-animation-background {
+        max-height: 130px;
     }
-
-    .mosaic .description::before {
-        content: none;
+    
+    .home-team-animation-foreground {
+        max-height: 130px;
     }
 }

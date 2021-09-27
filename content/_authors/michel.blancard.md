@@ -1,6 +1,7 @@
 ---
 fullname: Michel Blancard
 role: Data scientist
+domaine: Autre
 link: https://www.linkedin.com/in/mblancard/
 missions:
   - start: 2016-12-30
@@ -8,6 +9,7 @@ missions:
     status: admin
     employer: dinum
   - start: 2019-04-01
+    end: 2021-06-30
     status: independent
     employer: Ministère des affaires étrangères
 startups:

@@ -2,19 +2,15 @@
 layout: default
 ---
 
-{% comment %}additional_css : side-panel.css grid.css{% endcomment %}
-
 {% assign lang = page.lang | default: site.lang | default: "en" %}
 {% assign phases = site.phases | sort: 'order' %}
 {% assign phases_with_stopped = site.phases | sort: 'order' %}
 
-<div class="page article" id="presentation">
-  {% include hero-page.html title=page.title %}
-</div>
+{% include hero-page.html title=page.title %}
 
 <main>
-    <section class="section section-white">
-        <div class="container">
+    <section class="fr-py-6w">
+        <div class="fr-container">
             <div style="text-align: center; margin-bottom: 1em;">
                 <a class="button" href="/api/v1.7/startups.csv">Télécharger au format .csv</a>
             </div>
@@ -44,7 +40,7 @@ layout: default
                                 <td>{{ startup.mission }}</td>
                                 <td>{{ phase.label }}</td>
 
-                                {% capture incubator_id %}/approche/incubateurs/{{ startup.incubator }}{% endcapture %}
+                                {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
                                 {% assign incubator = site.incubators | where:'id', incubator_id | first %}
                                 <td>{{ incubator.title }}</td>
 

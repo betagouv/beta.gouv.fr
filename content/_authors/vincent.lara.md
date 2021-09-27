@@ -1,14 +1,16 @@
 ---
+github: l-vincent-l
 fullname: Vincent Lara
 role: Développeur
+domaine: Développement
 link: https://github.com/l-vincent-l
 missions:
   - start: 2015-03-15
-    end: 2021-04-01
+    end: 2021-12-31
     status: independent
     employer: Codeurs en Liberté
 startups:
-    - ecosante
+    - recosante
 previously: 
     - le-taxi
     - transport

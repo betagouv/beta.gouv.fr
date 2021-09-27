@@ -1,23 +1,23 @@
 ---
 title: Histologe
-mission: Le Contrôle Technique Gratuit du Logement 
-owner: Agglomération de Pau Béarn Pyrénées
+mission: Faciliter le signalement et accélérer la prise en charge du « mal logement »
+owner: Direction de l'Habitat, de l'Urbanisme et des Paysages (DHUP)
+sponsors:
+  - name: ANCT / DHUP / DINUM
+    acronym: ANCT / DHUP / DINUM
+    domaine_ministeriel: territoires
+    type: collectivite-territoriale
 incubator: anct
-sponsors: 
-    - name: Agglomération de Pau Béarn Pyrénées
-      acronym:
-      domaine_ministeriel: territoires
-      type: collectivite-territoriale
+repository: https://github.com/betagouv/histologe
+contact: alban.sestiaa@beta.gouv.fr
+stats_url: https://histologe.beta.gouv.fr/Chiffres
+link: https://histologe.beta.gouv.fr
+stats: true
 phases:
   - name: investigation
     start: 2019-09-01
   - name: construction
     start: 2020-02-01
-link:
-repository: 
-stats: false 
-stats_url: 
-contact: alban.sestiaa@beta.gouv.fr
 ---
 
 ## Problème investigué :
@@ -33,7 +33,7 @@ L'outil se positionne comme un intermédiaire simple et efficace, capable de mes
 et de lancer des alertes vers les partenaires en capacité d’intervenir.
 La mesure de cette criticité, établie comme une classe d’étiquette énergie, permettra d’identifier facilement les actions à mettre en œuvre ainsi que leur degré de criticité.
 
-Histologe assurera un accès au suivi des situations signalées et facilitera donc la détection, le signalement, l’évaluation et l’envoi d’alertes liées logements non conformes pour accélérer la prise en charge du “mal logement”.
+Histologe assurera un accès au suivi des situations signalées et facilitera donc la détection, le signalement, l’évaluation et l’envoi d’alertes liées aux logements non conformes pour accélérer la prise en charge du “mal logement”.
 
 Un des objectifs sera notamment de proposer une grille nationale d’évaluation unique des critères d’habitabilité, une centralisation des signalements et de leurs traitements.
 

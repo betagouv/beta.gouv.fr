@@ -11,8 +11,8 @@ phases:
       start: 2020-10-29
 link: https://ma-cantine.beta.gouv.fr
 repository: https://github.com/betagouv/ma-cantine
-stats: false 
-stats_url: 
+stats: true
+stats_url: https://ma-cantine-metabase.cleverapps.io/public/dashboard/f65ca7cc-c3bd-4cfb-a3dc-236f81864663
 contact: contact@egalim.beta.gouv.fr
 ---
 

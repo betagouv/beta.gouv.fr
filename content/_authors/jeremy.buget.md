@@ -1,9 +1,10 @@
 ---
 fullname: Jérémy Buget
 role: CTO
+domaine: Produit
 missions:
   - start: 2016-06-08
-    end:
+    end: 2021-06-30
     status: service
     employer: pix
 startups:

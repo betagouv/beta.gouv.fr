@@ -1,6 +1,7 @@
 ---
 fullname: Kathleen Marie-Joseph
 role: Intrapreneuse
+domaine: Intraprenariat
 missions:
   - start: 2020-02-01
     end: 2021-12-31

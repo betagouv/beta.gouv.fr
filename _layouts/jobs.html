@@ -3,35 +3,70 @@ layout: default
 ---
 
 {% assign lang = page.lang | default: site.lang | default: "fr" %}
-<div class="page article">
-  {% include hero-page.html title=page.title %}
-  <section class="section section-white cards">
-    <div class="container jobs">
-      <h3>Offres disponibles</h3>
-      <div class="grid">
-        {% assign jobs = site.jobs | where: "open", 'true' | reverse %}
-        {% for job in jobs %}
-          {% include card-job.html job=job %}
-        {% endfor %}
+
+{% include hero-page.html title=page.title %}
+
+<section class="fr-py-6w cards">
+  <div class="fr-container">
+    <div class="fr-grid-row fr-grid-row--gutters">
+      <div class="fr-col-md-9 fr-col-sm-12 fr-col-lg-9">
+        <div class="fr-grid-row">
+          {% assign jobs = site.jobs | where: "open", 'true' |  sort: "date" | reverse %}
+          {% for job in jobs %}
+            {% assign startup_id = job.startup %}
+            {% assign startup = site.startups | where: "title", startup_id | first %}
+            {% include card-job.html job=job startup=job.startup %}
+          {% endfor %}
+        </div>
+      </div>
+      <div class="fr-col-md-3 fr-col-lg-3 fr-col-sm-12">
+        <div class="fr-grid-row">
+          <div class="fr-card fr-card--no-arrow job-section-blue">
+            <div class="fr-card__body">  
+              <div class="job-team-animation-container">
+                <object data="/assets/home/intra_back.svg" class="job-team-animation-background"></object>    
+                <object data="/assets/home/intra.svg" class="job-team-animation-foreground"></object>
+              </div>   
+              <h3 class="fr-card__title">
+                Vous êtes agent public et vous souhaitez rejoindre beta.gouv.fr ?
+              </h3>
+              <a class="fr-btn fr-btn--sm fr-enlarge-link fr-btn--secondary button-white-border cta-intra" href="/devenir-intrapreneur">Devenir intrapreneur(e)</a>
+            </div>
+          </div>
+           <div class="fr-card fr-card--no-arrow job-section-blue">
+            <div class="fr-card__body">  
+              <h3 class="fr-card__title">
+                Vous souhaitez candidater à une offre&nbsp;? 
+              </h3>
+                <a class="fr-btn fr-btn--sm fr-enlarge-link fr-btn--secondary button-white-border" href="https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/guide-pour-les-candidat-e-s">Découvrez notre guide pour les candidat(e)s</a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-  </section>
-  <section class="section section-grey">
-    <div class="container">
-      <a class="button" onclick="toggle_visibility('previous_jobs');">Offres pourvues</a>
-      <div id="previous_jobs" style="display:none">
-        {% assign jobs = site.jobs | where: "open", 'false' | reverse %}
-        <ul>
-      {% for job in jobs %}
-        {% capture startup_id %}/startups/{{ job.startup }}{% endcapture %}
-        {% assign startup = site.startups | where: "id", startup_id | first %}
-        <li><a href="{{ job.url }}">{% if job.friend %}{{ job.friend }}{% else %}{{ startup.title | default: "beta.gouv.fr"}}{% endif %} : {{ job.roles }}, le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></a></li>
-      {% endfor %}
-        </ul>
-      </div>
+  </div>
+</section>
+
+<section class="fr-py-6w section-grey">
+  <div class="fr-container">
+    <div style="margin-bottom: 20px;">
+      <a href="/jobs.xml" class="fr-link fr-fi-external-link-line fr-link--icon-right" title="Flux RSS Atom" target="_blank" rel="noopener">
+        Souscrire au flux RSS
+      </a>
     </div>
-  </section>
-</div>
+    <button class="fr-btn" onclick="toggle_visibility('previous_jobs');">Offres pourvues</button>
+    <div id="previous_jobs" style="display:none">
+      {% assign jobs = site.jobs | where: "open", 'false' | reverse %}
+      <ul>
+    {% for job in jobs %}
+      {% assign startup_id = job.startup %}
+      {% assign startup = site.startups | where: "id", startup_id | first %}
+      <li><a href="{{ job.url }}">{% if job.friend %}{{ job.friend }}{% else %}{{ startup.title | default: "beta.gouv.fr"}}{% endif %} : {{ job.roles }}, le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></a></li>
+    {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
 
 <script type="text/javascript">
 <!--

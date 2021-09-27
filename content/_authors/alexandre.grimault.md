@@ -1,6 +1,7 @@
 ---
 fullname: Alexandre Grimault
 role: Dev
+domaine: Développement
 github: niladic
 missions:
   - end: 2021-12-31

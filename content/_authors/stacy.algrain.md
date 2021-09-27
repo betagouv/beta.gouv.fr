@@ -1,6 +1,7 @@
 ---
 fullname: Stacy Algrain
 role: Chargée d'Accompagnement
+domaine: Déploiement
 github: stacyalgrain
 missions:
   - start: 2019-09-03

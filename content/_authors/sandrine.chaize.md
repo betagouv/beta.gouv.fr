@@ -1,6 +1,7 @@
 ---
 fullname: Sandrine Chaize
 role: Co-PO
+domaine: Produit
 missions:
   - status: admin
     employer: Pôle Emploi DSI

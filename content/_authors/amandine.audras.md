@@ -2,7 +2,11 @@
 fullname: Amandine Audras
 role: UX Designer
 github: renardpal
-link:
+link: 'https://www.renardpal.com'
+domaine: Design
+competences:
+  - UX
+  - UI
 missions:
   - start: 2018-11-02
     end: 2019-06-30
@@ -15,8 +19,8 @@ missions:
 startups:
   - api.gouv.fr
   - datapass
-  - aides-jeunes
+  - pass-emploi
 previously:
   - _openfisca_
+  - aides.jeunes
 ---
-

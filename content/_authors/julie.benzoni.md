@@ -1,5 +1,6 @@
 ---
 fullname: Julie Benzoni
+domaine: Produit
 role: Coach Produit
 github: jbnzo
 link: https://www.linkedin.com/in/julie-benzoni-81767592/
@@ -10,6 +11,9 @@ missions:
 startups:
   - potentiel
   - carbure
+previously:
+  - hydrogene
+competences:
+  - Coaching
 ---
-
-Potentiel et CarbuRe @ La Fabrique Numérique MTES 
+Potentiel et CarbuRe @ La Fabrique Numérique MTES

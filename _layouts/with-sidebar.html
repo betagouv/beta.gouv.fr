@@ -2,16 +2,19 @@
 layout: default
 ---
 
-{% comment %}additional_css : side-panel.css{% endcomment %} {% assign lang =
-page.lang | default: site.lang | default: "en" %}
+{% assign lang = page.lang | default: site.lang | default: "en" %}
 
-<div class="page article">{% include hero-page.html title=page.title %}</div>
-
-<section class="section section-white" style="padding-top: 0;">
-  <div class="container">
-    <div class="documentation">
+<div class="fr-container fr-pb-6w fr-pt-6w">
+  <div class="fr-grid-row fr-grid-row--gutters fr-b__two-col">
+    <!-- Menu -->
+    <div class="fr-col-xs-12 fr-col-md-3">
       {% include {{ page.sidebar }} %}
-      <div class="main-pane"><div class="markdown">{{ content }}</div></div>
+    </div>
+    <!-- Content -->
+    <div class="fr-col-xs-12 fr-col-md-9">
+      <h1>{{ page.title }}</h1>
+
+      {{ content }}
     </div>
   </div>
-</section>
+</div>

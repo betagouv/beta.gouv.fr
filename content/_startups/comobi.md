@@ -1,7 +1,7 @@
 ---
 title: CoMobi (anciennement Lotocar)
 mission: Permettre aux personnes isolées de se déplacer sur les territoires peu denses grâce au covoiturage solidaire
-owner: anct
+owner: l'Incubateur des Territoires
 sponsors:
     - name: Agence pour la transition ecologique
       acronym: ADEME
@@ -42,10 +42,10 @@ L'équipe beta.gouv.fr derrière CoMobi a développé un outil minimaliste perme
 
 Nous documentons nos efforts de diffusion du service CoMobi de manière à ce que d'autres acteurs puissent profiter de notre expérience.
 
-### A court-terme, nous prévoyons de :
+### À court-terme, nous prévoyons de :
 - Permettre à tout territoire de déployer l'outil de manière autonome, et ce sans besoin de développeur.se.s informatiques.
 
-### A moyen ou long-terme, nous aimerions :
+### À moyen ou long-terme, nous aimerions :
 - Afficher aussi les trajets publiés sur les plateformes de covoiturage et renvoyer vers elles pour la réservation,
 - Permettre aux plateformes de mobilité d'afficher nos trajets sur leur plateforme,
 - Outiller d'autres dispositifs de mobilité en zone peu dense, comme le Transport d'Utilité Sociale par exemple, de manière à proposer une panoplie d'outils aux territoires.
@@ -60,7 +60,7 @@ Notre offre est adaptée à un territoire qui souhaite tester l'accueil du covoi
 Pour un usage plus avancé, par exemple des campagnes d'incitation au covoiturage, des accès par entreprise... ou simplement un service plus complet aux utilisateurs, nous invitons les territoires à se rapprocher de l'un des opérateurs de covoiturage existant.
 
 ## Une première expérimentation dans le Lot
-Le Lot est le territoire pilote qui a mené à la création de cet outil simple de covoiturage solidaire, par la mise en plac du service Lotocar. L'expérimentation a été lancée par le préfet du Lot, dans le cadre de l'opération Carte Blanche de la DITP, avec un accompagnement de beta.gouv.fr et un financement de l'ADEME.
+Le Lot est le territoire pilote qui a mené à la création de cet outil simple de covoiturage solidaire, par la mise en place du service Lotocar. L'expérimentation a été lancée par le préfet du Lot, dans le cadre de l'opération Carte Blanche de la DITP, avec un accompagnement de beta.gouv.fr et un financement de l'ADEME.
 
 Le service de covoiturage solidaire a été lancé en mars 2019. Au bout de 8 mois d'activité, Lotocar :
 - répondait à des demandes de trajets ponctuels et gratuits (RDV médical, entretien, courses...),
@@ -69,7 +69,7 @@ Le service de covoiturage solidaire a été lancé en mars 2019. Au bout de 8 mo
 - avait reçu 350 demandes de trajets,
 - avait été sollicité par 2 autres territoires pour y déployer le dispositif.
 
-A fin 2020, la préfecture le Lot n'a pas pu maintenir en poste la personne chargée du déploiement de Lotocar et aucun repreneur n'a été trouvé pour le service, qui semble amené à fermer, malgré un usage qui se maintient.
+À fin 2020, la préfecture le Lot n'a pas pu maintenir en poste la personne chargée du déploiement de Lotocar et aucun repreneur n'a été trouvé pour le service, qui semble amené à fermer, malgré un usage qui se maintient.
 
 ### De nouveaux territoires se lancent dans le covoiturage solidaire avec CoMobi !
 - à [Valberg](http://azur.comobi.fr/) dans les Alpes-Maritimes 

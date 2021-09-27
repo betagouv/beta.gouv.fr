@@ -9,8 +9,8 @@ post_ouvert: 2020-12-17
 poste_ferme: 2021-02-01
 contact: ateliernumerique@culture.gouv.fr
 status: open
-poste_pourvu: false
-open: true
+poste_pourvu: true
+open: false
 ---
 
 

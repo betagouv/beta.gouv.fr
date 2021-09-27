@@ -1,6 +1,7 @@
 ---
 fullname: Pierre Deleforge
 role: Intrapreneur
+domaine: Intraprenariat
 github: pdeleforge
 missions:
   - start: 2019-06-01

@@ -1,6 +1,7 @@
 ---
 fullname: Emmanuel Gaillot
 role: Développeur
+domaine: Développement
 link:
 github: egaillot
 missions:
@@ -9,11 +10,11 @@ missions:
     status: service
     employer: ut7
   - start: 2021-01-04
-    end: 2021-02-15
+    end: 2021-10-31
     status: independent
     employer: ut7
 startups:
-  -
+  - homologation
 previously:
   - eva
 ---

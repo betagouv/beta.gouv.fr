@@ -1,11 +1,12 @@
 ---
 fullname: Etienne Pichot Damon
-role: Business developer - fournisseurs de données au sein de l’équipe API
+role: Relations avec les administrations - api.gouv.fr
+domaine: Déploiement
 link: https://medium.com/@etienne.datactivist
 github: etienne0101
 missions:
   - start: 2021-03-01
-    end: 2021-05-31
+    end: 2021-11-06
     status: independent
     employer: Octo
 startups:
@@ -14,4 +15,4 @@ badges:
   - segur
 ---
 
-Je viens de Datactivist, où j'accompagnais acteurs publics et privés dans l'ouverture de leurs données et leur utilisation. Avant cela, j'ai été en charge d'initier la politique open data de la Métropole de Lille. 
+J'accompagne les administrations dans la mise à disposition de leurs API sur api.gouv.fr. 

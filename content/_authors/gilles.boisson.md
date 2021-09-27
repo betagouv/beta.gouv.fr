@@ -1,6 +1,7 @@
 ---
 fullname: Gilles Boisson
 role: Développeur
+domaine: Développement
 github: gillesboisson
 missions:
     - start: 2019-09-02

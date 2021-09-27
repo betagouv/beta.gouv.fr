@@ -1,6 +1,7 @@
 ---
 fullname: Stéphanie Denysenko
 role: Chargée de développement
+domaine: Déploiement
 github: stephreso
 missions:
   - employer: direccte

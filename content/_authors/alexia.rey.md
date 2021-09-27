@@ -1,6 +1,7 @@
 ---
 fullname: Alexia Rey
 role: Développeuse
+domaine: Développement
 missions:
   - start: 2017-04-10
     end: 2017-04-21

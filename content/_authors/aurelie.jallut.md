@@ -1,6 +1,7 @@
 ---
 fullname: Aurélie Jallut
 role: UX designer
+domaine: Design
 github: Aurelie-J
 link: http://www.marquedefabrique.net
 missions:

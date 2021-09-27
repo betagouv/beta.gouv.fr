@@ -11,9 +11,11 @@ incubator: sgmas
 phases:
   - name: investigation
     start: 2017-10-26
+    end: 2017-12-31
   - name: construction
-    start: 2017-10-26
-  - name: acceleration
+    start: 2018-01-01
+  - name: alumni
+    start: 2021-04-01
 link: http://workinfrance.fr
 repository: https://github.com/SocialGouv/work-in-france
 stats: true
@@ -21,6 +23,13 @@ contact: contact@workinfrance.beta.gouv.fr
 ---
 
 Les étudiantes étrangères et les étudiants étrangers qui voudraient travailler en France, au-delà du mi-temps, doivent déposer une demande d'autorisation de travail en DIRECCTE<sup>1</sup>. C'est généralement une démarche critique pour le projet étudiant ; « pourrais-je rester en France, payer mes études, valider l'expérience professionnelle nécessaire à mon diplôme ? »
+
+**Important : le service Work in France n'existe plus**
+
+Depuis avril 2021, la délivrance des autorisations de travail (AT) et des autorisations provisoires de travail (APT) pour les travailleurs et étudiants non membres de l’UE s'effectue sur le nouveau service dématérialisé du ministère de l'Intérieur sur le site suivant : https://administration-etrangers-en-france.interieur.gouv.fr
+
+Afin de permettre aux services de terminer l’instruction des dossiers en cours, il n’est plus possible de déposer de nouveaux dossiers sur la plateforme Work in France depuis le 23 mars.
+
 
 **La demande d’autorisation de travail, ce parcours du combattant**
 

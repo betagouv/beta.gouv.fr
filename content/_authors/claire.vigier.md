@@ -1,5 +1,6 @@
 ---
 fullname: Claire Vigier
+domaine: Coaching
 role: Coach
 github: clairevigier
 missions:
@@ -7,10 +8,15 @@ missions:
     end: 2021-12-31
     status: service
     employer: NUMA
-startups:
-  - trackdechets
-  - kelrisks
-  - mobilic
+startups: []
 previously:
   - permis-de-construire-facile
+  - dora
+  - mobilic
+  - trackdechets
+  - kelrisks
+competences:
+  - UX
+  - Gestion de Produit
+  - Croissance
 ---

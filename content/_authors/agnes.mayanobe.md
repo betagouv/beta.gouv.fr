@@ -1,6 +1,7 @@
 ---
 fullname: Agnès Mayanobe
 role: Chargée de développement
+domaine: Déploiement
 github: agnes-07
 missions:
   - start: 2019-06-13

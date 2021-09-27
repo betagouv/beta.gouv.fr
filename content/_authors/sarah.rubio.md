@@ -1,6 +1,7 @@
 ---
 fullname: Sarah Rubio
 role: Développeuse
+domaine: Développement
 github: SarahRubio
 missions:
   - start: 2019-09-17

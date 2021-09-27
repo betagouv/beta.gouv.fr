@@ -1,6 +1,7 @@
 ---
 fullname: Antoine Desbordes
 role: Développeur
+domaine: Développement
 avatar: https://www.codeursenliberte.fr/bios/antoine.jpg
 github: antoine-de
 missions:

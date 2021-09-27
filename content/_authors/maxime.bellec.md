@@ -1,6 +1,7 @@
 ---
 fullname: Maxime Bellec
 role: Développeur
+domaine: Développement
 link: http://telescoop.fr/
 github: maxbellec
 missions:

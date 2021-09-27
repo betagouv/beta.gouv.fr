@@ -16,11 +16,6 @@ phases:
     end: 2019-01-23
   - name: acceleration
     start: 2019-01-23
-  - name: alumni
-    start: 2020-11-27
-events:
-  - name: end
-    date: 2020-11-27
 ---
 
 ## Le constat initial : le transport routier de marchandises, un secteur exposé à des risques de déréglementation

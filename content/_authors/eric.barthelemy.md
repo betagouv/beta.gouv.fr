@@ -1,6 +1,7 @@
 ---
 fullname: Eric Barthélémy
 role: Intrapreneur
+domaine: Intraprenariat
 missions:
   - start: 2015-05-01
     end: 2021-12-10

@@ -1,6 +1,7 @@
 ---
 fullname: Claire Zuliani
 role: (UX) développeuse
+domaine: Développement
 github: clairezed
 avatar: # optionnel, voir ci-dessous
 # En premier, on va regarder si tu as mis une image au format prenom.nom dans /img/authors/
@@ -10,7 +11,7 @@ avatar: # optionnel, voir ci-dessous
 link: https://www.lassembleuse.fr
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
   - start: 2020-10-12 # date d'arrivée au format ISO (AAAA-MM-JJ)
-    end: 2021-04-12 # date de fin de contrat au format ISO (AAAA-MM-JJ)
+    end: 2022-02-15 # date de fin de contrat au format ISO (AAAA-MM-JJ)
     status: independent
     employer: octo
 startups: # ta ou tes startups actuelles

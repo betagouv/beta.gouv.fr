@@ -1,7 +1,8 @@
 ---
 fullname: Julien Dauphant
-role: Mentor Technique et Produit
+role: Chief Technical Officer BetaGouv
 link: 'https://twitter.com/jdauphant'
+github: jdauphant
 missions:
   - employer: octo
     start: 2016-11-03
@@ -13,12 +14,20 @@ missions:
     employer: dinum
 startups:
   - aplus
-  - e-controle
+  - tchap
 previously:
   - signalement
   - plante-et-moi
+  - e-controle
 badges:
   - segur
+domaine: Animation
+competences:
+  - Coaching
+  - Gestion de Produit
+  - Administration Système
+  - Développement Frontend
+  - Développement Backend
 ---
 
 Chercheur de simplicité

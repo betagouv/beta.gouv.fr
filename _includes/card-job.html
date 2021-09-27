@@ -5,35 +5,72 @@
 
 {% assign job = include.job %}
 
+{% assign startup_id = job.startup %}
+{% assign startup = site.startups | where: "title", startup_id | first %}
+{% unless startup  %}
 {% capture startup_id %}/startups/{{ job.startup }}{% endcapture %}
 {% assign startup = site.startups | where: "id", startup_id | first %}
-<div class="card {% if job.type == 'friend' %}friend {% endif %}{% unless job.open %}closed {% endunless %}">
-  <a href="{{ job.url }}">
-    <div class="card__cover">
-      {% include screenshot.html startup=startup force=true %}
+{% endunless %} 
+
+
+<div class="fr-card fr-card--horizontal fr-enlarge-link {% if job.type == 'friend' %}friend {% endif %}{% unless job.open %}closed{% endunless %}" style="margin-bottom: 20px;">
+  <div class="fr-card__body" style="min-height: 300px;">
+
+    <div>
+      <div class="fr-grid-row fr-grid-row--gutters">
+        <div class="fr-col">
+          <p class="fr-card__detail">Offre de {% if job.friend %}{{ job.friend | strip_html }}{% else %}{{ (startup.title || job.startup) | default: "beta.gouv.fr" | strip_html}}{% endif %}</p>
+        </div>
+        <div class="fr-col-4">
+          <p class="fr-card__detail" style="text-align: right;">le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></p></div>
+      </div>
     </div>
-    <div class="card__content">
-      <h3>{{ job.roles | capitalize }}</h3>
-      <div class="card__meta">Offre de {% if job.friend %}{{ job.friend | strip_html }}{% else %}{{ startup.title | default: "beta.gouv.fr" | strip_html}}{% endif %}</div>
-      <p>{{ job.excerpt | strip_html | truncate: 260 }}</p>
-    </div>
-  </a>
-  <div class="card__extra">
-    {% if job.open %}
-      <p>Poste ouvert le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></p>
-    {% else %}
-      <p>Ce poste a été pourvu depuis son ouverture le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></p>
+    
+    <h2 class="fr-card__title">
+      <a class="fr-card__link" href="{{ job.url }}">{{ job.roles | capitalize }}</a>
+    </h2>
+
+    <p class="fr-card__desc">{{ job.excerpt | strip_html | truncate: 260 }}</p>
+
+    {% if startup %}
+      {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
+      {% assign incubator = site.incubators | where:'id', incubator_id | first %}
+      <p style="font-size: 0.75rem;">
+        <span>
+          <i class="ri-map-pin-fill"></i>
+        </span>
+        {{ incubator.title }}
+      </p>
     {% endif %}
-  </div>
-  {% if job.techno or job.junior or job.type == 'friend' %}
-    <div class="card__extra">
-      {% if job.type == 'friend' %}<div class="label label--active">Nos camarades recrutent</div>{% endif %}
-      {% if job.junior %}<div class="label label--active">Bienvenue aux juniors</div>{% endif %}
+    {% if job.techno or job.junior or job.type == 'friend' %}
+    <ul class="fr-tags-group">
+      {% if job.type == 'friend' %}
+      <li>
+        <span class="fr-tag fr-tag--sm">Nos camarades recrutent</span>
+      </li>
+      {% endif %}
+
+      {% if job.junior %}
+      <li>
+        <span class="fr-tag fr-tag--sm">Bienvenue aux juniors</span>
+      </li>
+      {% endif %}
       {% if job.techno %}
         {% for techno in job.techno %}
-        <div class="label label--inactive">{{ techno }}</div>
+        <li>
+          <span class="fr-tag fr-tag--sm">{{ techno }}</span>
+        </li>
         {% endfor %}
       {% endif %}
-    </div>
-  {% endif %}
+    </ul>
+    {% endif %}
+  </div>
+  <div class="fr-card__img hiring">
+    <!-- <p>{{ include.startup.id }}</p>
+    <p>{{ include.job.startup }}</p>
+    <p>{{ job.startup }}</p>
+    <p>{{ job.junior }}</p> -->
+    {% include screenshot.html startup=startup force=true %}
+    <!-- L'alternative de l'image (attribut alt) doit à priori rester vide car l'image est illustrative et ne doit pas être restituée aux technologies d’assistance. Vous pouvez toutefois remplir l'alternative si vous estimer qu'elle apporte une information essentielle à la compréhension du contenu non présente dans le texte -->
+ </div>
 </div>

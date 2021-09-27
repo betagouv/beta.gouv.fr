@@ -1,12 +1,17 @@
 ---
 fullname: Arthur Hatchuel
-role: Intrapreneur
+domaine: Intraprenariat
+role: Intrapreneur et chef de produit
 github: hatchuel
-missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
+link: https://www.linkedin.com/in/arthur-h-13bb018b/
+missions:
   - start: 2020-09-01
-    end: 2021-09-01
+    end: 2022-06-30
     status: admin
-    employer: DGALN
-startups: 
-    - locatio
+    employer: MTES/DGALN
+startups:
+  - locatio
+competences:
+  - Gestion de Produit
 ---
+Ingénieur des Ponts, des Eaux et des Forêts un peu perdu dans ce monde numérique ! Une certaine idée du service public.

@@ -1,11 +1,38 @@
-<div class="hero article__hero">
-  <div class="hero__container">
-    {% if include.image %}
-      <img src="{{ include.image }}" alt="{{ include.title }}" />
-    {% endif %}
-    <div class="article__container" style="text-align: center;">
-      <h1 class="article__title">{{ include.title | escape }}</h1>
-      <p class="article__title">{{ include.mission | escape }}</p>
-    </div>
+{% assign startup_id = include.startup.id | remove: '/startups/' %}
+{% assign screenshot_files = site.static_files | where: "startups_img", true %}
+{% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
+
+{% if screenshot_file %}
+<div class="fr-container-fluid fr-py-6w">
+  <div class="fr-container">
+    <div class="fr-grid-row fr-grid-row--gutters">
+      <div class="fr-col-lg-6 fr-col-offset-lg-1">
+          <h1 class="fr-mt-3w fr-mt-md-9w">{{ include.startup.title | escape }}</h1>
+          {% if include.startup.link %}
+          <a href="{{ include.startup.link }}" title="{{ include.startup.title }}" class="fr-link fr-fi-external-link-line fr-link--icon-left">{{ include.startup.link }}</a>
+          {% endif %}
+          <p class="fr-mt-3w">
+            {{ include.startup.mission | escape }}
+          </p>
+      </div>
+      <div class="fr-col-12 fr-col-lg-5 fr-pl-0 fr-pl-md-4w fr-pb-0">
+          <figure class="fr-content-media fr-my-0">
+              <div class="fr-content-media__img">
+                  {% include screenshot.html startup=include.startup %}
+              </div>
+          </figure>
+      </div>
+  </div>
   </div>
 </div>
+{% else %}
+<div class="fr-container fr-py-6w">
+  <h1>{{ include.startup.title | escape }}</h1>
+  <p>
+    {{ include.startup.mission | escape }}
+    {% if include.startup.link %}
+    &nbsp;&nbsp;|<a href="{{ include.startup.link }}" title="{{ include.startup.title }}" class="fr-link fr-fi-external-link-line fr-link--icon-left">{{ include.startup.link }}</a>
+    {% endif %}
+  </p>
+</div>
+{% endif %}

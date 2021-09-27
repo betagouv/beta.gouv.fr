@@ -1,6 +1,7 @@
 ---
 fullname: Bréanne Mallat
 role: Chargée d'accompagnement
+domaine: Autre
 github: bmallat
 missions:
   - start: 2020-07-12

@@ -13,7 +13,7 @@ phases:
     start: 2019-11-01
   - name: construction
     start: 2019-11-01
-link:
+link: https://partaj.beta.gouv.fr
 repository: https://github.com/MTES-MCT/partaj
 stats: false
 contact: mehdi.benadda@beta.gouv.fr

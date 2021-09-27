@@ -1,5 +1,6 @@
 name: Sync 'authors' content with blog.beta.gouv.fr
 on:
+  workflow_dispatch:
   push:
     branches: ['master']
 

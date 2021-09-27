@@ -1,6 +1,7 @@
 ---
 fullname: Mathieu Agopian
 role: Développeur
+domaine: Développement
 github: magopian
 link: https://agopian.info/
 missions:
@@ -13,9 +14,9 @@ missions:
     start: 2019-10-01
     end: 2022-01-07
 previously:
-  - classes12
   - saisissez au vol
 startups:
+  - classe-a-12
   - egapro
 ---
 

@@ -2,7 +2,7 @@
 roles: Product Manager / Product Owner F/H  
 junior: false
 contrat: contractuel
-open: true
+open: false
 contact: brice.durand@beta.gouv.fr
 ---
 

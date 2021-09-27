@@ -1,5 +1,6 @@
 ---
 fullname: Salomé Deschênes
+domaine: Déploiement
 role: Chargée de déploiement
 github: SalomeDeschenes
 missions:
@@ -7,9 +8,13 @@ missions:
     end: 2021-06-29
     status: admin
     employer: DINUM
+  - status: independent
+    start: 2021-06-30
+    end: 2021-12-30
 startups:
-  - friches
-badges:
-  - segur
+  - urbanvitaliz
+badges: null
+competences:
+  - Communication
+  - Administration Publique
 ---
-

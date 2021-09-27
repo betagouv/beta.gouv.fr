@@ -3,13 +3,11 @@ layout: with-sidebar
 title: Fonds d’accélération des Startups d’État et de Territoire (FAST)
 permalink: /approche/fast
 sidebar: sidebar-approche.html
-additional_css:
-  - side-panel.css
 redirect_from:
   - /fast
 ---
 
-<img src="https://blog.beta.gouv.fr/img/posts/2021_01_06_1200x675_fast_visuel_twitter.jpg" alt="Image de présentation du FAST" style="width:100%;" />
+<img src="https://blog.beta.gouv.fr/img/posts/2021_06_29_1200x675_fast_13sept_visuel_twitter.jpg" alt="Image de présentation du FAST" style="width:100%;" />
 
 L'appel à candidatures du Fonds d’accélération des Startups d’État et de Territoire (FAST) vise à cofinancer des services publics numériques en phase d’accélération qui ont pour but de résoudre des problèmes de politiques publiques.  
 
@@ -17,7 +15,7 @@ Jusqu’à 1 million d’euros en provenance de la Direction Interministérielle
 
 Que vous soyez une administration, un établissement public, ou une collectivité territoriale engagé dans le développement ou l'accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction Interministérielle du Numérique pouvant aller jusqu'à 300 000 euros.
 
-Nous avons clôturé la première édition de 2021 le 8 mars. La prochaine édition ouvrira fin mars. 
+Le neuvième appel à projets est en cours !  
 
 Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux questions dédiée.
 
@@ -30,7 +28,7 @@ beta.gouv.fr constitue l’un des principaux leviers de résolutions de problèm
 
 ## Qu’est-ce que l’approche Startup d’État ?
 
-Pour mieux comprendre l’approche Startup d'État, et en savoir plus sur les méthodes mises en place pour les créer et les accompagner, vous pouvez consulter [notre guide de lancement](https://beta.gouv.fr/content/docs/guide.pdf). Vous pouvez également parcourir [le portefeuille](https://beta.gouv.fr/startups/) des services accompagnés par beta.gouv.fr, qui vous donnera une idée des types de problèmes que nous résolvons.
+Pour mieux comprendre l’approche Startup d'État, et en savoir plus sur les méthodes mises en place pour les créer et les accompagner, vous pouvez consulter [notre page programme](https://beta.gouv.fr/approche/). Vous pouvez également parcourir [le portefeuille](https://beta.gouv.fr/startups/) des services accompagnés par beta.gouv.fr, qui vous donnera une idée des types de problèmes que nous résolvons.
 
 ## Quels sont les objectifs du Fonds d’accélération des Startups d’État et de Territoire (FAST) ?
 
@@ -51,10 +49,10 @@ Le montant du ticket global pourra être dépensé via les marchés de la DINUM 
 
 ## Quelles sont les conditions d'éligibilité ?
 
-* Avoir mis en place une solution à un problème de politique publique ou une initiative locale qui pourrait passer à l’échelle grâce au levier du numérique ;
-* Si la solution est numérique, avoir ouvert (ou être capable d'ouvrir rapidement) le code du logiciel (open source) ;
-* Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée ;
-* Avoir une feuille de route pour le produit et pour le déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service) ;
+* Avoir mis en place une solution à un problème de politique publique ou une initiative locale qui pourrait passer à l’échelle grâce au levier du numérique
+* Si la solution est numérique, avoir ouvert le code du logiciel (open source)
+* Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée
+* Avoir une feuille de route pour le produit et pour le déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service)
 * Vouloir faire passer ce produit à l’échelle.
 
 Sont aussi éligibles les ministères souhaitant créer un incubateur de Startups d'Etat. 
@@ -68,36 +66,34 @@ Sont aussi éligibles les ministères souhaitant créer un incubateur de Startup
 
 Une grille de sélection vous sera transmise pour présenter votre dossier devant le jury selon ces critères. 
 
-
-## Quel est le processus de sélection du FAST ?
+## Quel est le processus de sélection ?
 
 * Vous sélectionnez un ou plusieurs services numériques existants ayant un impact mesuré, que vous souhaitez déployer.
-* Vous postulez en remplissant ce formulaire (le lien arrive bientôt !). À noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
-* À la clôture de l’appel à candidatures, l'équipe en charge du FAST effectue une présélection sur dossier de 10 candidats maximum. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
-* Si votre candidature est préselectionnée, vous présentez votre idée devant les membres du comité d'investissement le 26 mars.
+* Vous postulez en remplissant ce [formulaire](https://www.demarches-simplifiees.fr/commencer/fast9) avant le 13 septembre 2021. 
+À noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
+* À la clôture de l’appel à candidatures, l'équipe en charge du FAST effectue une présélection sur dossier. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
+* Si votre candidature est préselectionnée, vous présentez votre service devant les membres du comité d'investissement le 1er octobre.
 * Si votre candidature est retenue, vous organisez dans les semaines qui suivent un comité d'engagement entre votre sponsor et l'équipe de la DINUM pour cadrer les objectifs précis liés au financement. 
 * Vous signez une convention de partenariat avec la DINUM lors de cet échange. 
 * Le produit est accompagné dans son développement par beta.gouv.fr en s'appuyant sur les deux tickets de financement (administration porteuse + DINUM).
 
-## Quelles sont les modalités de candidature ?
+## Comment remplir le dossier de candidature ?
 
-Le dossier de candidature doit préciser clairement :
-
-Si vous êtes candidat pour l'accélération d'un produit... 
-* Le problème auquel la solution répond ;
-* La solution mise en place ;
-* Son impact sur le réel chiffré ;
-* En cas de passage à l’échelle réussi, les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois (ex : sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc). 
+Si vous êtes candidat pour l'accélération d'un produit, le dossier doit préciser clairement :  
+* Le problème auquel la solution répond
+* La solution mise en place 
+* Son impact sur le réel chiffré
+* Les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois
 L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de transfert du service
 
 
-Si vous êtes candidat pour la création d'un incubateur... 
-* Le problème auquel la création de l'incubateur répond ;  
-* Le rattachement hiérarchique de l'incubateur ; 
-* Les ressources qui seront mobilisées. 
+Si vous êtes candidat pour la création d'un incubateur, le dossier doit préciser clairement :   
+* Le problème auquel la création de l'incubateur répond
+* Le rattachement hiérarchique de l'incubateur 
+* Les ressources qui seront mobilisées 
 
 
-<!--[Candidatez-ici sur la session du 8 mars 2021.](https://www.demarches-simplifiees.fr/commencer/fast7)-->
+[Candidatez-ici sur la session du 13 septembre 2021.](https://www.demarches-simplifiees.fr/commencer/fast9)
 
 
 ## À quoi servira le ticket de cofinancement ?
@@ -119,20 +115,18 @@ Si vous avez déjà été lauréat du FAST, nous vous invitons à postuler au [P
 
 ## Quels projets ne sont pas éligibles au FAST ? 
 
-* Des produits en phase d'investigation n'ayant pas encore de solution minimum viable ni de mesure d'impact déjà établie ; 
-* Des produits existants avec un cahier des charges des fonctionnalités à développer ;
-* Des produits censés résoudre des problèmes d’organisation interne plutôt que des problèmes usagers ;
-* Des produits dont le code n’est pas ouvert (open source), ou pour lesquels le code ne peut pas être ouvert ;
-* Des produits qui ne sont pas portés par une administration (État, établissement public, collectivité...) ;
-* Des produits déjà lauréats d'une édition précédente du FAST ;
+* Des produits en phase d'investigation n'ayant pas encore de solution minimum viable ni de mesure d'impact déjà identifiée
+* Des produits existants avec un cahier des charges des fonctionnalités à développer
+* Des produits censés résoudre des problèmes d’organisation interne plutôt que des problèmes usagers
+* Des produits dont le code n’est pas ouvert (open source), ou pour lesquels le code ne peut pas être ouvert
+* Des produits qui ne sont pas portés par une administration
+* Des produits déjà lauréats d'une édition précédente du FAST
 * Des incubateurs au sein de ministères disposant déjà d'un incubateur membre du réseau beta.gouv.fr. 
 
-
 ## Comment candidater ?
-
-Les candidatures pour la nouvelle édition ouvriront fin mars. Nous vous communiquerons alors le formulaire de dépôt de dossier.  
-<!--[Candidatez-ici sur la session du 8 mars 2021.](https://www.demarches-simplifiees.fr/commencer/fast7)-->
+ 
+[Candidatez-ici sur la session du 13 septembre 2021.](https://www.demarches-simplifiees.fr/commencer/fast9)
 
 ## J’ai une question, qui puis-je contacter ?
 
-Si vous avez d’autres questions, vous pouvez envoyer un mail à l'équipe FAST : Jihane Herizi et Valentine Michaud à l’adresse fast@beta.gouv.fr.
+Si vous avez d’autres questions, vous pouvez envoyer un mail à l’adresse fast@beta.gouv.fr.

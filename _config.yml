@@ -39,16 +39,14 @@ include: [
 exclude: ["content/templates", "CONTRIBUTING.md", "rb", "vendor"]
 
 copy_to_dest:
-  - source: node_modules/@gouvfr/all/dist/css/.
+  - source: node_modules/remixicon/fonts/.
+    target: assets/remixicon/fonts/
+  - source: node_modules/@gouvfr/dsfr/dist/css/.
     target: assets/gouvfr/css/
-  - source: node_modules/@gouvfr/all/dist/fonts/.
+  - source: node_modules/@gouvfr/dsfr/dist/fonts/.
     target: assets/gouvfr/fonts/
-  - source: node_modules/@gouvfr/all/dist/js/.
+  - source: node_modules/@gouvfr/dsfr/dist/js/.
     target: assets/gouvfr/js/
-
-sass:
-  style: compressed
-  sass_dir: _sass
 
 excerpt_separator: <!--more-->
 
@@ -60,8 +58,6 @@ collections_dir:
 collections:
   authors:
   incubators:
-    output: true
-    permalink: /approche/incubateurs/:title.html
   jobs:
     output: true
     permalink: /recrutement/:year/:month/:day/:title.html
@@ -79,45 +75,26 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "incubators"
-    values:
-      layout: incubateur
-      additional_css:
-        - side-panel.css
-        - grid.css
-  - scope:
-      path: ""
       type: "jobs"
     values:
       layout: job
       title: Recrutement
-      additional_css:
-        - grid.css
   - scope:
       path: ""
       type: "mooc"
     values:
       layout: with-sidebar
       sidebar: sidebar-approche.html
-      additional_css:
-        - side-panel.css
   - scope:
       path: ""
       type: "fasts"
     values:
       layout: with-sidebar
-      additional_css:
-        - side-panel.css
-        - grid.css
   - scope:
       path: ""
       type: "startups"
     values:
       layout: startup
-      additional_css:
-        - startups.css
-        - authors-grid.css
-        - grid.css
   - scope:
       path: "img/authors"
     values:

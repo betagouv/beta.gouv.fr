@@ -1,6 +1,7 @@
 ---
 fullname: Céline Martinet Sanchez
 role: Développeuse
+domaine: Développement
 github: celine-m-s
 link: https://www.hello-birds.com
 missions:
@@ -14,7 +15,7 @@ missions:
     employer: octo
 startups:
   - itou
-  - le.forum.de.linclusion
+  - la.communaute.de.linclusion
 previously:
   - la-bonne-boite
 ---

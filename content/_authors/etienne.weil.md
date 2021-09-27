@@ -1,6 +1,7 @@
 ---
 fullname: Etienne Weil
 role: Développeur
+domaine: Développement
 github: fitchMitch
 missions:
   - start: 2020-06-02

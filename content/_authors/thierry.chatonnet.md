@@ -1,6 +1,7 @@
 ---
 fullname: Thierry Chatonnet
 role: Ministère de l'intérieur
+domaine: Autre
 missions:
   - start: 2021-02-24
     end: 2023-02-24

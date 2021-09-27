@@ -1,6 +1,7 @@
 ---
 fullname: Julien Rayneau
 role: Coach
+domaine: Coaching
 github: jrayneau
 missions:
   - start: 2018-04-10

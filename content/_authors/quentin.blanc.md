@@ -1,12 +1,13 @@
 ---
 fullname: Quentin Blanc
 role: Développeur Fullstack
+domaine: Développement
 github: qblanc
 missions:
   - start: 2021-03-08
-    end: 2021-07-02
+    end: 2021-12-31
     status: independent
-    employer: On m'a parlé d'Octo; je n'ai pas encore signé
+    employer: Octo
 startups:
   - data.insertion
 badges:

@@ -1,6 +1,7 @@
 ---
 fullname: Beatrice Mercier
 role: Co-animatrice de beta.gouv.fr
+domaine: Animation
 github: be-mercier
 missions:
   - start: 2019-02-04
@@ -15,12 +16,13 @@ missions:
     status: admin
     employer: dinum
 startups:
-  - protege-toit
-  - gap
+  - Delta V 
 previously:
   - transport
   - participation-citoyenne
   - rdv.consulat
+  - protege-toit
+  - gap
 badges:
   - segur
 ---

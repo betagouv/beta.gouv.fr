@@ -1,6 +1,7 @@
 ---
 fullname: Vincent Lainé
 role: Développeur
+domaine: Développement
 github: vincentlaine
 link: https://www.linkedin.com/in/vincent-laine/
 missions:
@@ -9,10 +10,11 @@ missions:
     status: independent
     employer: Codeurs en Liberté
   - start: 2020-03-01
-    end: 2021-07-31
+    end: 2021-12-31
     status: independent
     employer: OCTO
 startups:
-    - fabrique-chatbots
+    - usine-chatbots
+previously:
     - preuve-de-covoiturage
 ---

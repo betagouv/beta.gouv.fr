@@ -1,13 +1,14 @@
 ---
+github: antoinebigard
 fullname: Antoine Bigard
-role: Développeur
-github: gethi
+role: Lead-Développeur
+domaine: Développement
 missions:
   - start: 2018-09-17
-    end:
+    end: 2021-12-31
     status: independent
-    employer: octo
+    employer: ut7
 startups:
-  - apprentissage
+  - catalogue-apprentissage
   - pop
 ---

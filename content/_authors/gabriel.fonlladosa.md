@@ -1,10 +1,15 @@
 ---
 fullname: Gabriel Fonlladosa
-role: Chargé de déploiement 
+domaine: Déploiement
+role: Chargé de déploiement
 missions:
   - start: 2020-09-07
-    end: 2021-09-07
+    end: 2022-06-07
     status: independent
 startups:
   - aidantsconnect
+badges:
+  - segur
+competences:
+  - Croissance
 ---

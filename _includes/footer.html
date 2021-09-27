@@ -1,32 +1,35 @@
-<script src="/assets/gouvfr/js/all.js"></script>
-<footer class="rf-footer beta-footer" role="contentinfo" id="footer">
-  <div class="rf-footer__top">
-    <div class="rf-container">
-        <div class="rf-grid-row rf-grid-row--start rf-grid-row--gutters">
+<!-- Script en version es6 module et nomodule pour les navigateurs le ne supportant pas -->
+<script type="module" src="/assets/gouvfr/js/dsfr.module.min.js"></script>
+<script type="text/javascript" nomodule src="/assets/gouvfr/js/dsfr.nomodule.min.js"></script>
+
+<footer class="fr-footer" role="contentinfo" id="footer">
+  <div class="fr-footer__top">
+    <div class="fr-container">
+        <div class="fr-grid-row fr-grid-row--start fr-grid-row--gutters">
           {% for item in site.data.footer.links %}
-          <div class="rf-col-12 rf-col-sm-4 rf-col-md-4">
+          <div class="fr-col-12 fr-col-sm-4 fr-col-md-4">
             {% if item.label %}
-              <div class="rf-footer__top-cat">{{ item.label}}</div>
+              <div class="fr-footer__top-cat">{{ item.label}}</div>
             {% endif %}
-            <ul class="rf-footer__top-list">
+            <ul class="fr-footer__top-list">
             {% for link in item.children %}
               {% if link.target %}
                 {% assign target = site.pages | where:"path",link.target | first %}
-                <li><a href="{{ target.url }}" class="rf-footer__top-link">{{ link.label }}</a></li>
+                <li><a href="{{ target.url }}" class="fr-footer__top-link">{{ link.label }}</a></li>
               {% elsif link.url %}
-                <li><a href="{{ link.url }}" class="rf-footer__top-link">{{ link.label }}</a></li>
+                <li><a href="{{ link.url }}" class="fr-footer__top-link">{{ link.label }}</a></li>
               {% endif %}
             {% endfor %}
             </ul>
           </div>
           {% endfor %}
           {% if site.data.footer.social %}
-          <div class="rf-col-12 rf-col-sm-4 rf-col-md-4 beta-footer-social">
-            <div class="rf-footer__top-cat">Les réseaux de beta.gouv.fr</div>
-            <ul class="rf-footer__top-list rf-grid-row">
+          <div class="fr-col-12 fr-col-sm-4 fr-col-md-4 beta-footer-social">
+            <div class="fr-footer__top-cat">Les réseaux de beta.gouv.fr</div>
+            <ul class="fr-footer__top-list fr-grid-row">
               {% for item in site.data.footer.social %}
               <li>
-                <a href="{{ item.url }}" class="rf-footer__top-link">
+                <a href="{{ item.url }}" class="fr-footer__top-link">
                   <svg class="icon icon-{{ item.icon }}"><use xlink:href="#icon-{{ item.icon }}"></use></svg>
                 </a>
               </li>
@@ -37,43 +40,43 @@
         </div>
     </div>
   </div>
-  <div class="rf-container">
-    <div class="rf-footer__body">
-        <div class="rf-footer__brand">
-            <a class="rf-logo" href="/" title="république française">
-                <span class="rf-logo__title">république
+  <div class="fr-container">
+    <div class="fr-footer__body">
+        <div class="fr-footer__brand">
+            <a class="fr-logo" href="/" title="république française">
+                <span class="fr-logo__title">république
                     <br>française</span>
             </a>
-            <a class="rf-footer__brand-link" href="/">
-                <img class="rf-footer__logo" src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" alt="gouv.fr">
+            <a class="fr-footer__brand-link" href="/">
+                <img class="fr-footer__logo" src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" alt="gouv.fr">
             </a>
         </div>
-        <div class="rf-footer__content">
-            <ul class="rf-footer__content-list">
-                <li class="rf-footer__content-item">
-                    <a class="rf-footer__content-link" href="https://legifrance.gouv.fr">legifrance.gouv.fr</a>
+        <div class="fr-footer__content">
+            <ul class="fr-footer__content-list">
+                <li class="fr-footer__content-item">
+                    <a class="fr-footer__content-link" href="https://legifrance.gouv.fr">legifrance.gouv.fr</a>
                 </li>
-                <li class="rf-footer__content-item">
-                    <a class="rf-footer__content-link" href="https://gouvernement.fr">gouvernement.fr</a>
+                <li class="fr-footer__content-item">
+                    <a class="fr-footer__content-link" href="https://gouvernement.fr">gouvernement.fr</a>
                 </li>
-                <li class="rf-footer__content-item">
-                    <a class="rf-footer__content-link" href="https://service-public.fr">service-public.fr</a>
+                <li class="fr-footer__content-item">
+                    <a class="fr-footer__content-link" href="https://service-public.fr">service-public.fr</a>
                 </li>
-                <li class="rf-footer__content-item">
-                    <a class="rf-footer__content-link" href="https://data.gouv.fr">data.gouv.fr</a>
+                <li class="fr-footer__content-item">
+                    <a class="fr-footer__content-link" href="https://data.gouv.fr">data.gouv.fr</a>
                 </li>
             </ul>
         </div>
     </div>
-    <div class="rf-footer__bottom">
-        <ul class="rf-footer__bottom-list">
+    <div class="fr-footer__bottom">
+        <ul class="fr-footer__bottom-list">
           {% for link in site.data.footer.mandatorylinks %}        
-            <li class="rf-footer__bottom-item">
+            <li class="fr-footer__bottom-item">
               {% if link.target %}
                 {% assign target = site.pages | where:"path",link.target | first %}
-                <a href="{{ target.url }}" class="rf-footer__bottom-link">{{ link.label }}</a>
+                <a href="{{ target.url }}" class="fr-footer__bottom-link">{{ link.label }}</a>
               {% elsif link.url %}
-                <a href="{{ link.url }}" class="rf-footer__bottom-link">{{ link.label }}</a>
+                <a href="{{ link.url }}" class="fr-footer__bottom-link">{{ link.label }}</a>
               {% endif %}
             </li>
           {% endfor %}

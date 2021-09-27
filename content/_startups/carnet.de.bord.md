@@ -1,24 +1,39 @@
 ---
 title: Carnet de bord
-mission: Fluidifier le suivi des parcours des publics éloignés de l'emploi
-owner: Intrapreneur - Carnet de bord
+mission: "Faciliter la vie des personnes en insertion et de celles et ceux qui
+  les accompagnent "
+owner: Ministère du Travail, de l'Emploi et de l'Insertion
 sponsors:
   - name: Délégation générale à l'emploi et à la formation professionnelle
     acronym: DGEFP
-    domaine_ministeriel: travail
-incubator: dinum
+    type: administration-centrale
+    domaine_ministeriel: affaires-sociales
+incubator: sgmas
+repository: https://github.com/SocialGouv/carnet-de-bord
 contact: ronan.james@beta.gouv.fr
 phases:
   - name: investigation
-    end: 2021-04-28
-    start: 2021-01-26
+    start: 2021-01-25
+    end: 2021-05-06
+  - name: construction
+    start: 2021-05-06
 ---
-Proposition de valeur potentielle "Carnet de bord est un service numérique de suivi des parcours qui permet :
+Dans le cadre du [Service Public de l’Insertion et de l’Emploi](https://forum.inclusion.beta.gouv.fr/t/le-spie-cest-quoi/2324), nous lançons **la construction du carnet de bord de la personne accompagnée** 
 
-\* aux publics de bénéficier d'un accompagnement personnalisé et sans couture, grâce à un dossier unique partagé et enrichi progressivement pendant le parcours par le acteurs du SPIE mobilisés et le bénéficiaire lui-même. 
+### **Le problème**
 
-\* aux acteurs de l'insertion de se positionner dans une démarche d'accompagnement global en ayant accès immédiatement à des données fines qui permettent de :
+Il ressort de la concertation SPIE que les personnes en insertion peuvent être découragées de répéter les mêmes informations ou être perdues face aux démarches avec les différents acteurs qui jalonnent leur parcours. Réciproquement, ces derniers manquent parfois de contexte ou de partage d’informations sur les personnes accompagnées pour les aider au mieux. Conséquences : 
 
-1. identifier les difficultés et adapter l'accompagnement à la complexité de la situation 
-2. rechercher et automatiser des propositions d'actions auprès d'autres acteurs du SPIE
-3. co-construire le parcours avec la personne pour l'amener à devenir autonome dans sa démarche
+* Des actions prescrites mais ayant finalement peu d’impact sur l’évolution de personne ;
+* Des “temps perdus” lors de séquences où la personne n’avance pas dans son parcours ;
+* Non-recours au service public par découragement ou par incompréhension des services. 
+
+### **Vous souhaitez participer ?**
+
+Nous effectuons une investigation pour mieux comprendre les problématiques rencontrées par les travailleurs sociaux et les accompagnateurs des personnes en difficulté avant de se lancer dans une quelconque solution.
+
+Nous sommes donc à la recherche d’acteurs de terrain, bénévoles, travailleurs sociaux, CIP, assistantes sociales, aidants, accompagnants au contact des personnes en difficulté. C’est indispensable pour ne pas se projeter sur une solution hors-sol ou réinventer la roue !
+
+Si vous souhaitez nous aider dans cette démarche, nous souhaiterions échanger ensemble afin de mieux comprendre et découvrir vos missions, les défis que vous relevez, les publics que vous accompagnez. Votre participation peut aller d’un simple échange téléphonique de 30’ à une expérimentation ensemble.
+
+Vous souhaitez nous partager votre expérience en 30 mins ? [Laissez-nous votre contact](https://itou.typeform.com/to/tgjDbv6T).

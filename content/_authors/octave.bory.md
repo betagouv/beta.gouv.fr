@@ -1,10 +1,11 @@
 ---
 fullname: Octave Bory
 role: Coach
+domaine: Coaching
 link: https://fr.linkedin.com/in/octavebory
 missions:
   - start: 2021-01-08
-    end: 2021-04-30
+    end: 2021-10-30
     status: independent
     employer: NUMA
 ---

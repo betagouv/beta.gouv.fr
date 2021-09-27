@@ -1,6 +1,7 @@
 ---
 fullname: Élie Daviron
 role: PO
+domaine: Produit
 missions:
   - start: 2020-01-09
     end: 2021-03-31

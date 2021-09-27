@@ -1,6 +1,7 @@
 ---
 fullname: Sandrine Sanchez
 role: Chargée de déploiement
+domaine: Déploiement
 github: SandrineSanchez
 missions:
   - start: 2019-01-01

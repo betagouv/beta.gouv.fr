@@ -1,6 +1,7 @@
 ---
 fullname: Mauko Quiroga
 role: Entrepreneur public
+domaine: Animation
 link: https://www.linkedin.com/in/maukoquiroga/
 missions:
   - start: 2016-02-15
@@ -10,7 +11,7 @@ missions:
 startups:
   - aplus
   - leximpact
-  - openfisca
+  - _openfisca_
 previously:
   - boussole
   - transport

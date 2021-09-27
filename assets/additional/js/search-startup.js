@@ -1,28 +1,27 @@
 
 var createStartupCard = function(startup) {
     var card = document.createElement('div');
-    card.className = 'card'
-    card.id = startup.id
+    card.className = 'fr-col-12 fr-col-md-3';
+    card.id = startup.id;
 
     card.innerHTML = `
-        <a href="/startups/${ startup.id }.html">
-            <div class="card__cover">
+        <div class="fr-card fr-enlarge-link">
+            <div class="fr-card__body">
+                <h2 class="fr-card__title">
+                    <a class="fr-card__link" href="/startups/${ startup.id }.html" target="\_blank" rel="noopener">${startup.attributes.name}</a>
+                </h2>
+        
+                <p class="fr-card__detail">${ startup.attributes.owner }</p>
+                <p class="fr-card__desc">${ startup.attributes.pitch }</p>
+            </div>
+            <div class="fr-card__img">
                 <img class="screenshot lozad"
                     data-src="${startup.attributes['screenshot-url']}"
                     title="${startup.attributes.name} est encore en travaux"
                     alt=""
                     data-proofer-ignore>
             </div>
-            <div class="card__content">
-            <h3 class="startup__title">${startup.attributes.name}</h3>
-            <div class="card__meta">
-                ${ startup.attributes.owner }
-            </div>
-            <p>
-                ${ startup.attributes.pitch }
-            </p>
-            </div>
-        </a>`
+        </div>`
     return card
 }
 
@@ -49,7 +48,7 @@ var createIncubatorSelect = function(data, incubators, initValue) {
     }
     selectIncubator.appendChild(optionFragment);
     var onIncubatorChange = function(value) {
-        var grid = document.getElementsByClassName('startups grid')[0];
+        var grid = document.getElementsByClassName('startups')[0];
         var keys = Object.keys(data);
         var incubatorElements = document.getElementsByClassName('incubator-header');
         for (var i=0; i < incubatorElements.length; i++) {
@@ -88,6 +87,18 @@ var createIncubatorSelect = function(data, incubators, initValue) {
             var phaseCounter = phaseElement.getElementsByClassName('phase-counter')[0];
             if (phaseCounter) {
                 phaseCounter.innerText = dataToDisplay.length;
+            }
+            var phaseLabel = phaseElement.getElementsByClassName('phase-label')[0];
+            if (phaseLabel) {
+                var currentPhase = phases.filter(p => p.status === phase)[0]
+                var plural = dataToDisplay.length > 1 ? 's' : '' ;
+                if (currentPhase.status === 'success') {
+                    phaseLabel.innerText = currentPhase.label.toLowerCase() + 's'
+                } else if (currentPhase.status === 'alumni') {
+                    phaseLabel.innerText = currentPhase.label.toLowerCase()
+                } else {
+                    phaseLabel.innerText = currentPhase.type_label + plural
+                }
             }
             for (var j = 0; j < dataToDisplay.length; j++) {
                 documentFragment.appendChild(dataToDisplay[j].html)

@@ -1,5 +1,6 @@
 ---
 fullname: Anne Pichon
+domaine: Design
 role: UX
 github: Ann-p
 missions:
@@ -7,10 +8,15 @@ missions:
     end: 2021-11-30
     status: admin
 startups:
-  - la-bonne-formation
-  - zen
-  - la-bonne-boite
-  - estime
   - itou
   - place-de-marche-inclusion
+  - dora
+previously:
+  - la-bonne-boite
+  - estime
+  - la-bonne-formation
+  - zen
+competences:
+  - UX
+  - UI
 ---

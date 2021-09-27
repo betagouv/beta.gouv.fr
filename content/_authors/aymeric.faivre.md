@@ -1,6 +1,7 @@
 ---
 fullname: Aymeric Faivre
 role: Designer
+domaine: Design
 avatar:
 link: http://www.aymericfaivre.com
 github: AymericFaivre
@@ -14,7 +15,7 @@ missions:
     status: independent
     employer: La Zone
 startups:
-  - classes12
+  - classe-a-12
 previously:
   - mon-entreprise
 ---

@@ -1,11 +1,12 @@
 ---
 fullname: Lydia Sanaa
 role: Développeuse
+domaine: Développement
 link: https://lydsan.fr/site/
 github: lydiasan
 missions:
   - start: 2021-03-01
-    end: 2021-05-31
+    end: 2021-09-30
     status: service
     employer: Codeurs en Liberté
 startups:

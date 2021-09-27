@@ -1,6 +1,8 @@
 ---
 fullname: Agathe Latreille
-role: Chargée de développement
+domaine: Intraprenariat
+role: Product Manager
+github: Agathe-SW
 missions:
   - start: 2016-11-01
     end: 2019-12-26
@@ -12,12 +14,13 @@ missions:
     end: 2021-11-11
 startups:
   - itou
-  - le.forum.de.linclusion
-  - investigation.offre.dinsertion
+  - dora
 previously:
   - la-bonne-alternance
   - la-bonne-boite
+competences:
+  - Gestion de Produit
+  - Communication
+  - Administration Publique
 ---
-
-(trop ?) Enthousiaste , (trop ?) curieuse, Nerd dans l’âme, portée par l’envie de relever des défis.
-« Un seul combat est perdu d’avance, celui auquel on renonce ». Vaclav Havel
+Tech enthousiaste, je m'exprime principalement en Gif et en Meme. Portée par la collaboration, la solidarité et la bienveillance.

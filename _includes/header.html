@@ -1,56 +1,60 @@
-<header class="rf-header">
-  <div class="rf-container">
-      <div class="rf-header__body">
-          <div class="rf-header__brand">
-              <a class="rf-logo" href="/" title="République française">
-                  <span class="rf-logo__title">
-                    République<br>
-                    française
-                  </span>
-              </a>
-          </div>
-          <div class="rf-header__navbar">
-              <div class="rf-service">
-                  <a class="rf-service__title" href="{{ "/" | relative_url }}" title="Nom du service">
-                        <span class="navbar__domain">{{ site.data.menu.title }}</span>
-                        <img src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" class="navbar__gouvfr" alt="gouv.fr" />
-                  </a>
-              </div>
-          </div>
-      </div>
-  </div>
-  <div class="rf-container">
-    <nav class="rf-nav" role="navigation" aria-label="Menu principal" id="header-navigation">
-      <ul class="rf-nav__list">
-        {% for item in site.data.menu.nav %}
-        {% assign target = undefined %}
-        {% if item.target %}
-          {% assign target = site.pages | where:"path",item.target | first %}
-        {% endif %}
-        <li class="rf-nav__item {% if target and page.url contains target.url %}rf-nav__item--active{% endif %}">
-          {% if item.children %}
-            <div class="rf-menu rf-collapse" id="rf-nav-item-{{ item.children.length }}">
-              {{ item.label }}
-              <ul class="rf-menu__list">
-                {% for child in item.children %}
-                <li class="rf-menu__item">
-                  {% if child.target %}
-                    <a href="{{ target.url }}" class="rf-link" target="_self">{{ child.label }}</a>
-                  {% else %}
-                    <a href{% if child.url %}="{{ child.url }}"{% endif %} class="rf-link" target="_self">{{ child.label }}</a>
-                  {% endif %}
-                </li>
-                {% endfor %}
-              </ul>
+<header role="banner"  class="fr-header">
+  <div class="fr-header__body">
+    <div class="fr-container">
+      <div class="fr-header__body-row">
+        <div class="fr-header__brand fr-enlarge-link">
+          <div class="fr-header__brand-top">
+            <div class="fr-header__logo">
+              <p class="fr-logo">
+              République
+              <br>française
+              </p>
             </div>
-          {% elsif item.target %}
-            <a class="rf-link" href="{{ target.url }}">{{ item.label }}</a>
-          {% else %}
-            <a href{% if item.url %}="{{ item.url }}"{% endif %} class="rf-link" target="_self">{{ item.label }}</a>
-          {% endif %}
-        </li>
-        {% endfor %}
-      </ul>
-    </nav>
+            
+            <div class="fr-header__navbar">
+              <button class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="modal-833" aria-haspopup="menu" title="Menu">
+                  Menu
+              </button>
+            </div>
+          </div>
+
+          <div class="fr-header__service">
+            <a href="/" title="Retour à l’accueil">
+              <img src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" alt="beta.gouv.fr" style="width:10.5rem; height:auto;">
+            </a>
+          </div>
+        </div>
+
+        <div class="fr-header__tools">    
+          <div class="fr-header__tools-links">
+            <ul class="fr-links-group">
+              {% for item in site.data.menu.shortcuts %}
+              <li class="fr-shortcuts__item">
+                <a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ item.url }}" title="{{ item.label }}" target="_blank" rel="noopener">{{ item.label }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Navigation principale -->
+  <div class="fr-header__menu fr-modal" id="modal-833" aria-labelledby="button-834">
+    <div class="fr-container">
+      <button class="fr-link--close fr-link" aria-controls="modal-833">Fermer</button>
+      <div class="fr-header__menu-links"></div>
+      <nav class="fr-nav" id="navigation-832" role="navigation" aria-label="Menu principal">
+          <ul class="fr-nav__list">
+              {% for item in site.data.menu.nav %}
+              {% assign target = site.pages | where:"path",item.target | first %}
+              <li class="fr-nav__item {% if target and page.url contains target.url %}fr-nav__item--active{% endif %}">
+                  <a class="fr-nav__link" href="{{ target.url }}" {% if target and page.url contains target.url %}aria-current="page"{% endif %}>{{ item.label }}</a>
+              </li>
+              {% endfor %}
+          </ul>
+      </nav>
+    </div>
   </div>
 </header>

@@ -1,6 +1,7 @@
 ---
 fullname: Dimitri Do Bairro
 role: Développeur
+domaine: Développement
 github: rimiti
 link:
 missions: 
@@ -9,5 +10,5 @@ missions:
     status: independent
     employer: 
 startups: 
-  - apprentissage
+  - rdv.apprentissage
 ---

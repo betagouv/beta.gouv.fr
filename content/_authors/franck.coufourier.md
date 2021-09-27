@@ -1,6 +1,7 @@
 ---
 fullname: Franck Coufourier
 role: Développeur
+domaine: Développement
 github: fcoufour
 missions:
   - start: 2019-01-07
@@ -12,7 +13,7 @@ missions:
     status: independent
     employer: cadresenmission
   - start: 2020-04-06
-    end: 2021-04-30
+    end: 2021-10-05
     status: independent
     employer: octo+cadresenmission
 startups:

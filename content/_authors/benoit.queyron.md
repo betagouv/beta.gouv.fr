@@ -1,6 +1,7 @@
 ---
 fullname: Benoit Queyron
 role: Intrapreneur du PAN
+domaine: Intraprenariat
 github: Benoit-MINT
 missions:
   - start: 2020-10-01

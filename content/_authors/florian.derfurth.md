@@ -1,12 +1,17 @@
 ---
 fullname: Florian d'Erfurth
+domaine: Développement
 role: Développeur
 link: https://derfurth.com
-missions: 
+github: derfurth
+missions:
   - start: 2020-12-04
-    end: 2021-05-31
+    end: 2021-11-09
     status: independent
-    employer:
-startups: 
-    - labels-transition
+    employer: null
+startups:
+  - territoires-en-transitions
+competences:
+  - Développement Frontend
+  - Développement Backend
 ---

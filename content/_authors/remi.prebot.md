@@ -1,10 +1,11 @@
 ---
 fullname: remi prebot
 role: Développement produit insertion.data
+domaine: Déploiement
 github: rprebot
 missions:
   - start: 2021-01-19
-    end: 2021-06-30
+    end: 2021-12-31
     status: independent
     employer: Octo
 startups:

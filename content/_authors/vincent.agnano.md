@@ -1,6 +1,7 @@
 ---
 fullname: Vincent Agnano
 role: Développeur
+domaine: Développement
 avatar: https://vinyll.github.io/images/avatar.jpg
 link: https://vinyll.neomad.org
 github: vinyll
@@ -12,7 +13,7 @@ missions:
 startups:
   - egalite.professionnelle
 previously:
-  - classes12
+  - classe-a-12
   - saisissezauvol
   - eac
   - api-drones

@@ -1,6 +1,7 @@
 ---
 fullname: Mahdi Hellal
 role: Développeur
+domaine: Développement
 github: maydon
 missions:
   - start: 2018-12-15

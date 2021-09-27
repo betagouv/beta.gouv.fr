@@ -1,16 +1,19 @@
 ---
 fullname: Pierre-Olivier Mauguet
+domaine: Développement
 role: Développeur
 github: pom421
 link: http://pom421.github.io/
 missions:
   - employer: octo
-    end: 2021-05-31
+    end: 2021-10-31
     start: 2019-03-11
     status: independent
-startups: []
-previously:
+startups:
   - medle
+previously:
   - signalement
+competences:
+  - Développement Frontend
+  - Développement Backend
 ---
-Combat les dragons à coup de pixels!

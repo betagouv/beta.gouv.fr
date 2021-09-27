@@ -1,6 +1,7 @@
 ---
 fullname: Violaine Asselin
 role: Intrapreneuse
+domaine: Intraprenariat
 github: Vioasselin
 missions:
   - start: 2018-04-01
@@ -9,5 +10,6 @@ missions:
     employer: pole-emploi
 startups:
     - anotea
-    - apprentissage
+    - sirius
+    - tdb-apprentissage
 ---

@@ -1,6 +1,7 @@
 ---
 fullname: Radia Difallah
 role: Chargée de déploiement
+domaine: Déploiement
 github: RadiaDif
 missions:
   - start: 2019-12-07
