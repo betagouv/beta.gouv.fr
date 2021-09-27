@@ -45,7 +45,7 @@ breadcrumbs:
                             </li>
                             <li class="fr-sidemenu__item">
                                 <a class="fr-sidemenu__link" href="#condition" target="_self" aria-current="page">
-                                    4. Quels sont les conditions à réunir ?
+                                    4. Quelles sont les conditions à réunir ?
                                 </a>
                             </li>
                             <li class="fr-sidemenu__item">
@@ -117,7 +117,7 @@ breadcrumbs:
                     <h2>Et ensuite ?</h2>
                     <p>
                     A la fin de l’investigation, le comité d’investissement se réunit et décide de l’abandon ou de la poursuite de produit. 
-                    En cas de poursuite, on rentre dans la réalisation du service public numérique !
+                    En cas de poursuite, on rentre dans la [réalisation du service public numérique](construction.md) !
                     </p>
                 </div>
             </div>

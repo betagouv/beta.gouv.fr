@@ -69,7 +69,7 @@ Pour cela, nous diffusons une approche différente de la conception de service n
         <span aria-hidden="true">📅</span> Pendant <b>18 à 32 mois</b><br>
         <span aria-hidden="true">✋</span> Avec <a href="/devenir-intrapreneur">l’intrapreneur(e)</a>, son ou sa coach et une équipe d’experts
         </div>
-        <a class="fr-btn fr-btn--md" href="/approche/construction">Construire une service numérique</a>
+        <a class="fr-btn fr-btn--md" href="/approche/construction">Construire un service numérique</a>
     </div>
   </div>
 </div>
