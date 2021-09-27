@@ -3,13 +3,17 @@ layout: page
 permalink: /approche/
 title: Découvrir le programme
 ---
-beta.gouv aide les administrations publiques à construire des **services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens**.
-Nous formons et faisons équipe avec des agents publics “**intrapreneurs**” pour les aider à améliorer le service public de l’intérieur, grâce au numérique.
-Pour cela, nous diffusons une approche différente de la conception de service numérique, surnommée “**approche Startup d’État**”.
-
-**beta.gouv.fr** a déjà contribué à la création de [dizaines de services numériques](https://beta.gouv.fr/startups/) déjà disponibles ou à venir. Nous animons une [communauté en croissance](https://beta.gouv.fr/communaute/) qui construit les services publics numériques de demain au sein d’un [réseau d'incubateurs publics](https://beta.gouv.fr/incubateurs/) partageant les mêmes [valeurs](https://beta.gouv.fr/approche/manifeste). 
-
-## Déroulé du programme beta.gouv.fr
+<p class="fr-text--lead">
+beta.gouv aide les administrations publiques à construire des <b>services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens</b>.
+<br>
+Nous formons et faisons équipe avec des agents publics “<b>intrapreneurs</b>” pour les aider à améliorer le service public de l’intérieur, grâce au numérique.
+<br>
+Pour cela, nous diffusons une approche différente de la conception de service numérique, surnommée “<b>approche Startup d’État</b>”.
+</p>
+<p class="fr-text--lead">
+<b>beta.gouv.fr</b> a déjà contribué à la création de <a href="https://beta.gouv.fr/startups/">dizaines de services numériques</a> déjà disponibles ou à venir. Nous animons une <a href="https://beta.gouv.fr/communaute/">communauté en croissance</a> qui construit les services publics numériques de demain au sein d’un <a href="https://beta.gouv.fr/incubateurs/">réseau d'incubateurs publics</a> partageant les mêmes <a href="https://beta.gouv.fr/approche/manifeste">valeurs</a>. 
+</p>
+<h2>Déroulé du programme beta.gouv.fr</h2>
 <div>
     <img 
         class='fr-my-6w'
