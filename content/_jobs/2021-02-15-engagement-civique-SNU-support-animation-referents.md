@@ -1,7 +1,7 @@
 ---
 roles: un.e Chargé.e d’assistance aux utilisateurs et d’animation des référents
   Service National Universel
-open: true
+open: false
 startup: engagement-civique
 title: Chargé(e) d’assistance aux utilisateurs et d’animation des référents
   Service National Universel
