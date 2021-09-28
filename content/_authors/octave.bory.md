@@ -1,7 +1,7 @@
 ---
 fullname: Octave Bory
 domaine: Coaching
-role: Coach
+role: Coach senior
 link: https://fr.linkedin.com/in/octavebory
 missions:
   - start: 2021-01-08
@@ -16,4 +16,4 @@ competences:
   - Coaching
   - Gestion de Produit
 ---
-CEO de SetKeeper.com
+Coach senior
