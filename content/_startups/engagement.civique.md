@@ -27,7 +27,6 @@ phases:
 * la plateforme [Service National Universel](https://www.snu.gouv.fr/) (SNU)
 * l’[API Engagement](https://api-engagement.beta.gouv.fr/)
 
-# 
 La Plateforme JeVeuxAider.gouv.fr
 
 JeVeuxAider.gouv.fr est la plateforme publique du bénévolat, proposée par la Réserve Civique. Plus de 4800 associations, collectivités et organisations publiques y postent des missions, lorsqu’elles ont besoin de renfort. Pour y répondre, elles peuvent compter sur près de 330 000 bénévoles inscrits sur la plateforme. Ceux-ci choisissent parmi des milliers de missions, dans tous les domaines (solidarité, éducation, santé, environnement, sport…) et partout en France. JeVeuxAider est ouvert à toutes les personnes résidant en France, âgées de plus de 16 ans. Flexible, accessible et universel, ce service public numérique permet à toutes et à tous de participer à la société de l’engagement, pour plus de solidarité.
@@ -55,8 +54,6 @@ La startup d’Etat vise donc à créer un espace personnel où chacun des jeune
 En miroir, la startup d’Etat construit une interface de gestion permettant aux structures proposant les missions d’intérêt général de déposer des offres de missions et de les gérer et aux coordinateurs du service national universel (réseau de référents départementaux et régionaux) de se décharger des process administratifs afin de pouvoir être plus disponibles pour appuyer les jeunes qui en expriment le besoin.
 
 Pour contacter l’équipe: contact@snu.gouv.fr
-
-Quel est le contexte de ta Startup d'Etat ?
 
 # L’API Engagement
 
