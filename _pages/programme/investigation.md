@@ -108,7 +108,7 @@ breadcrumbs:
                     <p>
                     La phase d’investigation peut être financée par la Direction interministérielle du numérique (DINUM). L’équipe beta.gouv.fr s’engage à apporter un appui méthodologique et opérationnel au partenaire pendant toute la durée de l’investigation.
                     </p>
-                    <p>Le lancement de la phase d'investigation est conditionné à la transmission par le sponsor de [cette fiche d'engagement](https://beta.gouv.fr/content/docs/engagement.docx) complétée.
+                    <p>Le lancement de la phase d'investigation est conditionné à la transmission par le sponsor de <a href="https://beta.gouv.fr/content/docs/engagement.docx">cette fiche d'engagement complétée.</a>
                     </p>
                 </div>
             </div>
@@ -117,7 +117,7 @@ breadcrumbs:
                     <h2>Et ensuite ?</h2>
                     <p>
                     A la fin de l’investigation, le comité d’investissement se réunit et décide de l’abandon ou de la poursuite de produit. 
-                    En cas de poursuite, on rentre dans la [réalisation du service public numérique](construction.md) !
+                    En cas de poursuite, on rentre dans la <a href="https://beta.gouv.fr/approche/investigation">réalisation du service public numérique</a> !
                     </p>
                 </div>
             </div>
