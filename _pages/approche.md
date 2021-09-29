@@ -11,7 +11,7 @@ Nous formons et faisons équipe avec des agents publics “<b>intrapreneurs</b>�
 Pour cela, nous diffusons une approche différente de la conception de service numérique, surnommée “<b>approche Startup d’État</b>”.
 </p>
 <p class="fr-text--lead">
-<b>beta.gouv.fr</b> a déjà contribué à la création de <a href="https://beta.gouv.fr/startups/">dizaines de services numériques</a> déjà disponibles ou à venir. Nous animons une <a href="https://beta.gouv.fr/communaute/">communauté en croissance</a> qui construit les services publics numériques de demain au sein d’un <a href="https://beta.gouv.fr/incubateurs/">réseau d'incubateurs publics</a> partageant les mêmes <a href="https://beta.gouv.fr/approche/manifeste">valeurs</a>. 
+<b>beta.gouv.fr</b> a déjà contribué à la création de <a href="https://beta.gouv.fr/startups/">dizaines de services numériques</a> déjà disponibles ou à venir. Nous animons une <a href="https://beta.gouv.fr/communaute/">communauté en croissance</a> qui construit les services publics numériques de demain au sein d’un <a href="https://beta.gouv.fr/communaute/#incubateur">réseau d'incubateurs publics</a> partageant les mêmes <a href="https://beta.gouv.fr/approche/manifeste">valeurs</a>. 
 </p>
 <h2>Déroulé du programme beta.gouv.fr</h2>
 <div>
