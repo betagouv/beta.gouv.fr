@@ -117,7 +117,7 @@ breadcrumbs:
                     <h2>Et ensuite ?</h2>
                     <p>
                     A la fin de l’investigation, le comité d’investissement se réunit et décide de l’abandon ou de la poursuite de produit. 
-                    En cas de poursuite, on rentre dans la <a href="https://beta.gouv.fr/approche/investigation">réalisation du service public numérique</a> !
+                    En cas de poursuite, on rentre dans la <a href="https://beta.gouv.fr/approche/construction">réalisation du service public numérique</a> !
                     </p>
                 </div>
             </div>
