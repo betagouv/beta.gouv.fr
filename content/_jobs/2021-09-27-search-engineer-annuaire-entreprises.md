@@ -34,8 +34,9 @@ Vous assurerez notamment les missions suivantes:
 -   Implémentation de nouvelles fonctionnalités pour l'amélioration de la pertinence des résultats de recherche (recherche fuzzy, filtres à facettes etc.)
 -   Mise en place de tests de pertinence des résultats de recherche
 -   Réflexion à mener sur les données à intégrer dans la recherche afin d'en améliorer la pertinence
+<p></p>
 
-&nbsp;
+<p></p>
 
 **🛠 Infrastructure :**
 
@@ -73,3 +74,7 @@ Vous assurerez notamment les missions suivantes:
 -   Début souhaité dès que possible
 -   Freelance
 -   Télétravail possible avec un jour par semaine à Paris
+
+## Intéressé.e ?
+
+Pour candidater, écrivez-nous à [annuaire-entreprises@data.gouv.fr](mailto:annuaire-entreprises@data.gouv.fr)
