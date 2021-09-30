@@ -9,6 +9,10 @@ missions:
     end: 2021-09-30
     status: service
     employer: UT7
+  - start: 2021-09-01
+    end: 2023-09-01
+    status: admin
+    employer: TelesCoop
 startups:
   - e-inspé
 ---
