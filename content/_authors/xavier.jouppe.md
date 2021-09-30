@@ -13,6 +13,7 @@ missions:
 startups:
     - api.gouv.fr
     - datapass
+    - annuaire-entreprises
 previously:
 ---
 
