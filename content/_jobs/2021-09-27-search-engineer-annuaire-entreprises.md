@@ -9,25 +9,25 @@ open: true
 
 L’équipe Annuaire des Entreprises (le moteur de recherche des informations des entreprises) cherche son ou sa responsable moteur de recherche.
 
-## 👋 Qui sommes-nous ?
+## Qui sommes-nous ?
 
 L'équipe de [l’Annuaire des Entreprises](https://annuaire-entreprises.data.gouv.fr) fait partie d'[Etalab](https://www.etalab.gouv.fr/), au sein de la [direction interministérielle du numérique (DINUM)](https://www.numerique.gouv.fr/).
 
 [Etalab compte une cinquantaine de collaborateurs, fonctionnaires, contractuels et prestataires](https://www.etalab.gouv.fr/equipe). Nos bureaux sont à Paris, avenue de Ségur, mais nous travaillons parfois d’un peu partout. Nous avons des compétences, profils et des centres d’intérêt variés au sein de l’équipe, mais nous sommes réunis par des objectifs communs : **mettre la technologie au service de l’intérêt général et moderniser l’administration grâce au numérique**.
 
-## 🎨 Le produit
+## Le produit
 
 L’Annuaire des Entreprises est le site public sur lequel tous les citoyens, entrepreneurs ou agents d’administration peuvent retrouver les données publiques détenues par l'administration au sujet d'une entreprise française.
 
 N'hésitez pas, 👉 [faites un petit tour !](https://annuaire-entreprises.data.gouv.fr)
 
-## 🎯 Rôle et mission
+## Rôle et mission
 
 En tant que responsable moteur de recherche, vous serez amené.e à collecter, traiter, et exposer les données des entreprises françaises afin d'alimenter le site [annuaire-entreprises.data.gouv.fr](http://annuaire-entreprises.data.gouv.fr). Vous devrez concevoir une architecture robuste et performante permettant au site de monter en charge tout en améliorant la pertinence des résultats de la recherche.
 
 Vous assurerez notamment les missions suivantes:
 
-1. Moteur de recherche :
+**🔍 Moteur de recherche :**
 
 -   Conception, implémentation et maintien en condition opérationnel du moteur de recherche (indexation de plusieurs dizaines de millions d'entreprises, avec des dizaines de critères de recherche)
 -   Amélioration de la fréquence de rafraichissement des données sources (passage d'une mise à jour mensuelle à une mise à jour quotidienne)
@@ -37,7 +37,7 @@ Vous assurerez notamment les missions suivantes:
 
 <br/>
 
-2. Infrastructure :
+**🛠 Infrastructure :**
 
 -   Mise en place d'une infrastructure résilient, scalable et performante permettant de :
     -   Mettre en place des pipelines de données (ETL) permettant la récupération, le traitement et l'indexation des données
