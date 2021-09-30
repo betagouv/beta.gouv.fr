@@ -39,7 +39,7 @@ Vous assurerez notamment les missions suivantes:
 
 **🛠 Infrastructure :**
 
--   Mise en place d'une infrastructure résilient, scalable et performante permettant de :
+-   Mise en place d'une infrastructure résiliente, scalable et performante permettant de :
     -   Mettre en place des pipelines de données (ETL) permettant la récupération, le traitement et l'indexation des données
     -   Mettre les données à disposition des utilisateurs via une API REST
 -   Challenge continu sur les technologies utilisées
