@@ -6,7 +6,7 @@ link: https://lydsan.fr/site/
 github: lydiasan
 missions:
   - start: 2021-03-01
-    end: 2021-09-30
+    end: 2021-10-31
     status: service
     employer: Codeurs en Liberté
 startups:
