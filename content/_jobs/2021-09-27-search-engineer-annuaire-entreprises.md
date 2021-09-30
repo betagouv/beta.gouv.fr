@@ -35,11 +35,13 @@ Vous assurerez notamment les missions suivantes:
 -   Mise en place de tests de pertinence des résultats de recherche
 -   Réflexion à mener sur les données à intégrer dans la recherche afin d'en améliorer la pertinence
 
+<br/>
+
 2. Infrastructure :
 
 -   Mise en place d'une infrastructure résilient, scalable et performante permettant de :
-    -- Mettre en place des pipelines de données (ETL) permettant la récupération, le traitement et l'indexation des données
-    -- Mettre les données à disposition des utilisateurs via une API REST
+    -   Mettre en place des pipelines de données (ETL) permettant la récupération, le traitement et l'indexation des données
+    -   Mettre les données à disposition des utilisateurs via une API REST
 -   Challenge continu sur les technologies utilisées
 -   Travail de concert avec la direction technique d'Etalab et les outils mutualisés mis à disposition, notamment sur la partie ops
 
