@@ -1,7 +1,7 @@
 ---
 startup: annuaire-entreprises
 title: "L’Annuaire des Entreprises recherche un ou une data / search engineer pour développer son moteur de recherche"
-roles: Data / search engineer
+roles: un.e data / search engineer
 open: true
 ---
 
@@ -27,7 +27,7 @@ En tant que responsable moteur de recherche, vous serez amené.e à collecter, t
 
 Vous assurerez notamment les missions suivantes:
 
-### Moteur de recherche :
+1. Moteur de recherche :
 
 -   Conception, implémentation et maintien en condition opérationnel du moteur de recherche (indexation de plusieurs dizaines de millions d'entreprises, avec des dizaines de critères de recherche)
 -   Amélioration de la fréquence de rafraichissement des données sources (passage d'une mise à jour mensuelle à une mise à jour quotidienne)
@@ -35,13 +35,15 @@ Vous assurerez notamment les missions suivantes:
 -   Mise en place de tests de pertinence des résultats de recherche
 -   Réflexion à mener sur les données à intégrer dans la recherche afin d'en améliorer la pertinence
 
-### Infrastructure :
+2. Infrastructure :
 
 -   Mise en place d'une infrastructure résilient, scalable et performante permettant de :
-    -   Mettre en place des pipelines de données (ETL) permettant la récupération, le traitement et l'indexation des données
-    -   Mettre les données à disposition des utilisateurs via une API REST
+    -- Mettre en place des pipelines de données (ETL) permettant la récupération, le traitement et l'indexation des données
+    -- Mettre les données à disposition des utilisateurs via une API REST
 -   Challenge continu sur les technologies utilisées
 -   Travail de concert avec la direction technique d'Etalab et les outils mutualisés mis à disposition, notamment sur la partie ops
+
+<br/>
 
 ## Nos bonnes pratiques
 
@@ -51,12 +53,16 @@ Vous assurerez notamment les missions suivantes:
 -   Développement de produit centrés utilisateurs
 -   Partage de connaissances et expériences avec les autres pôle d'Etalab
 
+<br/>
+
 ## Profil recherché
 
 -   Technologies de moteur de recherche (Elasticsearch, Postgrest, Meilisearch, Solr etc.)
 -   Traitement et pipelines de données / ETL (Python, Spark, Shell etc.)
 -   Administration System (Debian) / Infrastructure OPS (Ansible, Docker)
 -   Base de données (Postgres, Mongo, S3, etc.)
+
+<br/>
 
 ## Environnement de travail
 
