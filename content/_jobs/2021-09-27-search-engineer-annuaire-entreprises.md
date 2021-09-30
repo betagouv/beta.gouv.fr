@@ -35,7 +35,7 @@ Vous assurerez notamment les missions suivantes:
 -   Mise en place de tests de pertinence des résultats de recherche
 -   Réflexion à mener sur les données à intégrer dans la recherche afin d'en améliorer la pertinence
 
-<br/>
+&nbsp;
 
 **🛠 Infrastructure :**
 
@@ -45,7 +45,7 @@ Vous assurerez notamment les missions suivantes:
 -   Challenge continu sur les technologies utilisées
 -   Travail de concert avec la direction technique d'Etalab et les outils mutualisés mis à disposition, notamment sur la partie ops
 
-<br/>
+<p></p>
 
 ## Nos bonnes pratiques
 
@@ -55,7 +55,7 @@ Vous assurerez notamment les missions suivantes:
 -   Développement de produit centrés utilisateurs
 -   Partage de connaissances et expériences avec les autres pôle d'Etalab
 
-<br/>
+<p></p>
 
 ## Profil recherché
 
@@ -64,7 +64,7 @@ Vous assurerez notamment les missions suivantes:
 -   Administration System (Debian) / Infrastructure OPS (Ansible, Docker)
 -   Base de données (Postgres, Mongo, S3, etc.)
 
-<br/>
+<p></p>
 
 ## Environnement de travail
 
