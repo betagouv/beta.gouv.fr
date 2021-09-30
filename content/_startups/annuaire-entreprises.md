@@ -26,7 +26,7 @@ Au sein de l’administration, la donnée des entreprises françaises est une re
 
 Résultat, les citoyens, entrepreneurs et agents qui ont besoin d'y accèder doivent choisir entre :
 
--   les acteurs privés qui centralisent les données, font payer une partie des données, et qui ne sont pas garants de son exactitude.
+-   les acteurs privés qui centralisent les données, font payer une partie des données, et qui ne sont pas garants de son exactitude
 -   les acteurs publics officiels, chacun garant de certaines données, avec chacun leur site internet, entre lesquels il faut savoir naviguer (INSEE, INPI, DILA, Ministère de l’Intérieur)
 
 ## La solution :
@@ -38,5 +38,5 @@ Résultat, les citoyens, entrepreneurs et agents qui ont besoin d'y accèder doi
 
 Mais l’Annuaire souhaite aller encore plus loin :
 
--   proposer un espace privé ou chaque entrepreneur pourra retrouver toutes les données et documents justificatifs de son entreprise (publics et privés).
--   devenir le site de référence de la donnée des entreprises : exhaustif, officiel, fiable et ergonomique.
+-   proposer un espace privé ou chaque entrepreneur pourra retrouver toutes les données et documents justificatifs de son entreprise (publics et privés)
+-   devenir le site de référence de la donnée des entreprises : exhaustif, officiel, fiable et ergonomique

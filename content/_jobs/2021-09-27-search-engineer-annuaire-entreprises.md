@@ -7,7 +7,7 @@ open: true
 
 ## 🤓 Contexte
 
-L’équipe Annuaire des Entreprises (le moteur de recherche des informations des entreprises) cherche son ou sa responsable moteur de recherche.
+L’équipe de l’Annuaire des Entreprises (le moteur de recherche des informations des entreprises) cherche son ou sa responsable moteur de recherche.
 
 ## Qui sommes-nous ?
 
