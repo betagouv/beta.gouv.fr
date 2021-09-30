@@ -35,3 +35,8 @@ Résultat, les citoyens, entrepreneurs et agents qui ont besoin d'y accèder doi
 
 -   un moteur de recherche d'entreprise pour retrouver facilement n’importe quelle entreprise, association ou administration dotée d'un numéro siren
 -   pour chaque entreprise, une page identité avec les données récupérées en temps réel auprès des différentes sources de données "officielles"
+
+Mais l’Annuaire souhaite aller encore plus loin :
+
+-   proposer un espace privé ou chaque entrepreneur pourra retrouver toutes les données et documents justificatifs de son entreprise (publics et privés).
+-   devenir le site de référence de la donnée des entreprises : exhaustif, officiel, fiable et ergonomique.
