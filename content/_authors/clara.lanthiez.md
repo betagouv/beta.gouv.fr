@@ -1,14 +1,17 @@
 ---
 fullname: Clara Lanthiez
-role: Coach/Designer
 domaine: Coaching
-link: http://www.co-collectif.com/
+role: Coach/Designer
 github: claralanthiez
+link: http://www.co-collectif.com/
 missions:
   - start: 2021-04-16
-    end: 2021-07-30
+    end: 2021-10-30
     status: independent
     employer: Numa (ANCT)
+competences:
+  - Coaching
+  - UX
+  - UI
 ---
-
 Une phrase... impossible !

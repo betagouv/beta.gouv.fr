@@ -1,5 +1,5 @@
 ---
-title: APpeL
+title: APiLos
 mission: Remplir les conventions APL de manière rapide et fiable
 owner: Direction générale de l'aménagement, du logement et de la nature (DGALN)
 incubator: mtes
@@ -8,6 +8,11 @@ phases:
   - name: investigation
     start: 2021-04-14
     end: 2021-06-30
+  - name: construction
+    start: 2021-06-30
+    end: 2021-12-31
+redirect_from:
+    - /startups/appel
 ---
 <!--StartFragment-->
 
@@ -35,7 +40,7 @@ Dans le contexte de différents plans de relance, 250 000 logements sociaux vont
 
 Le processus de conventionnement APL est le parent pauvre du logement social. Depuis 1977, il n’a pas connu d’évolution majeure, et ce en dépit des nombreux problèmes rencontrés par les bailleurs, les instructeurs et les services annexes (Caisses des Allocation Familiales notamment). 
 
-Via l’investigation en cours pour la start-up d’Etat APpeL, nous souhaitons aider les bailleurs sociaux à remplir plus rapidement et avec des infos fiables les conventions APL afin de leur permettre de se concentrer sur leur cœur de métier et toucher le bon montant d’APL. 
+Via l’investigation en cours pour la start-up d’Etat APiLos, nous souhaitons aider les bailleurs sociaux à remplir plus rapidement et avec des infos fiables les conventions APL afin de leur permettre de se concentrer sur leur cœur de métier et toucher le bon montant d’APL. 
 
 A terme, l’objectif est d’être capable de mieux piloter la politique du logement social en France, en se basant sur des informations contractuelles et non plus déclaratives comme celà est le cas aujourd’hui. 
 

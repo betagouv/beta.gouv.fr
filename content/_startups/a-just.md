@@ -1,7 +1,7 @@
 ---
 title: A-JUST
-mission: Faciliter l'optimisation de l'affectation des ressources en fonction
-  des besoins de justice.
+mission: Optimiser l'affectation des ressources humaines des tribunaux pour
+  réduire les délais de justice.
 owner: Inspection Générale de la Justice - Ministère de la Justice
 incubator: dinum
 contact: contact@a-just.fr
@@ -9,7 +9,15 @@ events: []
 phases:
   - name: investigation
     start: 2021-02-01
+    end: 2021-05-26
+    comment: Fin de l'investigation. GO pour le lancement d'une phase de construction.
+  - name: construction
+    start: 2021-09-01
+    comment: Première phase de construction sur un périmètre de juridictions et de
+      contentieux restreints.
 ---
+<!--StartFragment-->
+
 ## **Contexte**
 
 La dernière enquête ministérielle sur le fonctionnement de la justice et la satisfaction des personnes ayant eu un contact direct avec elle a révélé que **95% des français la considéraient trop lente**.
@@ -36,11 +44,7 @@ En appel, il se passe, **entre la première décision et l’appel** :
 
 Ces délais de traitement **varient** de surcroît de façon significative **selon les ressorts** et leur **origine** est assurément **multifactorielle**.
 
- 
-
-## **Hypothèse de problème**
-
- 
+## **Le Problème**
 
 ***Les délais de la Justice* : un problème majeur pour les justiciables**
 
@@ -62,34 +66,32 @@ L’acuité de cette fonction de pilotage des moyens est essentielle pour assure
 
 Or, si la durée de traitement des procédures est particulièrement suivie par des indicateurs fins (nationaux et locaux), les chefs de juridiction ne disposent pas de moyen simple pour corréler en temps réel ou par anticipation leurs volumes de contentieux à traiter avec leurs ressources magistrats.
 
+## **La solution en construction**
 
+***Lancement de la phase de construction***
 
-**L’objet de l’investigation est donc de vérifier si :**
+Suite à l’investigation menée début 2021, la première phase de construction a démarré le 1er septembre 2021 pour 6 mois. Le sponsor est le chef de l’Inspection Générale de la Justice.
 
-**\- les décideurs locaux (chefs de juridiction et de service) rencontrent des difficultés pour organiser leurs équipes et affecter les moyens dont ils disposent en considération des spécificités de leur ressort et des attentes des usagers**
+***L’objectif***
 
-**\- une meilleure priorisation de leurs ressources disponibles en fonction des besoins de justice locaux serait de nature à améliorer la qualité du service rendu, notamment en termes de célérité**
+A-JUST vise à offrir aux justiciables des délais plus courts de prise en charge de leurs dossiers en permettant une mobilisation optimale des ressources humaines des juridictions.
 
-**\- la construction d’une stratégie numérique peut y concourir.**
+ Pour cela, A-JUST a pour objectif de permettre aux chefs de juridiction de visualiser et anticiper l’impact de leurs affectations d’effectifs sur les délais de prise en charge des contentieux.
 
- 
+ Visualisation, corrélation, simulation... A-JUST se définit comme un outil  d’aide à la décision et de prospective.
 
-## **Cadre de l’investigation**
+***Les premières étapes***
 
+L’équipe A-JUST se concentre sur l’expérimentation, sur un périmètre réduit de contentieux civils (affaires familiales, contentieux non spécialisé, social...), dans quelques tribunaux judiciaires, de la capacité à :
 
-
-Lancée le 1er février 2021 pour une durée de 9 semaines, cette investigation est menée par l’Inspection générale de la Justice, en relation étroite avec les acteurs de terrain.
-
-Le sponsor en est le chef de l’Inspection générale de la Justice et l’intrapreneuse est magistrat de l’ordre judiciaire, inspectrice de la Justice.
-
-Les auditions conduiront à entendre une quinzaine de présidents de juridiction, Procureurs de la République et directeur de greffe de tribunaux judiciaires appartenant à chacun des 4 groupes de juridiction (de toute taille), répartis sur l’ensemble du territoire métropolitain, ainsi qu’un procureur général de Cour d’appel et un Directeur délégué à l’administration judiciaire.
-
-Si cette phase d’entretien permet de confirmer l’existence d’un problème à résoudre, une hypothèse de solution numérique sera soumise à quelques chefs de juridiction, afin de vérifier auprès des utilisateurs que la piste de travail ainsi envisagée est effectivement de nature à résoudre la difficulté rencontrée.
-
-Le résultat des travaux sera présenté lors d’un comité de lancement, à une date à fixer entre fin avril et mi-mai 2021 afin de valider la mise en  place d’une première stratégie à 6 mois pour démontrer des résultats sur un premier périmètre.
+* recenser les effectifs de la juridiction (compétences, répartition du temps par contentieux...)
+* calculer et afficher un indicateur de délai parlant pour l’ensemble des acteurs (juridiction, citoyens...)
+* simuler les délais de traitement des contentieux en fonction des effectifs affectés.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-(1).Pénal, civil, social, commercial…
+(1) Pénal, civil, social, commercial…
 
 (2) Magistrats, greffiers, fonctionnaires, agents administratifs, vacataires, assistants de justice, magistrats honoraires, juristes assistants…
+
+<!--EndFragment-->

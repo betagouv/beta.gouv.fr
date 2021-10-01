@@ -410,10 +410,12 @@ collections:
     editor:
       preview: false
     fields:
-      - label: Quel est le titre du poste ? (le titre doit être unique à toutes les fiches de postes)
+      - label: >
+          Quel est le titre du poste ? (exemple : "Développeuse - Développeur" ou "Chargée ou chargé de déploiement")
         name: roles
         widget: string
         required: true  
+        hint : Penser à inclure le féminin dans vos recrutements. Vous pouvez trouver de l'aide sur l'écriture inclusive sans point médian dans [le guide de beta](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/recommandations#syntaxe) .
       - label: Est-ce que le poste est ouvert ?
         name: open
         widget: boolean
@@ -429,7 +431,7 @@ collections:
         hint: "Uniquement si vous publiez la fiche plus tard"
       - label: Pour quelle startup ?
         label_singular: Startup
-        hint: "Si la startup n'apparait pas encore dans la liste, contacte un administrateur du site !"
+        hint: "Si la startup n'apparaît pas encore dans la liste, contacte un administrateur du site !"
         name: startup
         <<: *relation_default_options
         collection: startups
@@ -437,7 +439,7 @@ collections:
       - label: Rédiger sa fiche de recrutement
         name: body
         widget: markdown
-        hint: "N'hésite pas à te référer aux autres fiches de recrutemenr présentes sur le site beta.gouv"
+        hint: N'hésite pas à te référer aux autres fiches de recrutement présentes sur le site beta.gouv et à utiliser le féminin dans tes recrutements en utilisant une écriture inclusive sans point médian.
         default: >
           Voici un exemple de format - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
           Pour t'aider dans la rédaction de ta fiche produit, tu peux t'inspirer des dernières offres disponibles sur le [site de beta](https://beta.gouv.fr/recrutement/) et nous te recommandons de suivre ce plan:

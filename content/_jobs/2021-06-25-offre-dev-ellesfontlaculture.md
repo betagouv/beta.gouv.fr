@@ -2,7 +2,7 @@
 startup: ellesfontlaculture
 title: "elles font la culture recrute une personne fullstack développeuse"
 roles: un ou une développeur.se fullstack
-open: true
+open: false
 ---
 
 ### **Tu veux mettre tes compétences au profit de l’amélioration du service public ? Tu as envie de travailler dans une équipe lean, et proche de ses utilisateurs et utilisatrices ?**

@@ -1,6 +1,6 @@
 ---
 title: EnvErgo
-mission: Améliorer la transparence des décisions de l'État sur la Loi sur l'Eau
+mission: Améliorer la prise en compte de l'environnement dans les projets d'aménagement
 owner: Direction générale de l'aménagement, du logement et de la nature (DGALN)
 sponsors:
   - acronym: DGALN
@@ -8,46 +8,78 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: environnement
 incubator: mtes
-contact: adrien.plantureux@beta.gouv.fr
+link: https://envergo.beta.gouv.fr
+repository: https://github.com/MTES-MCT/envergo
+contact: contact@envergo.beta.gouv.fr
 events: []
 phases:
   - name: investigation
-    end: ""
+    end: 2021-07-12
     start: 2021-04-08
+  - name: construction
+    start: 2021-07-13
 ---
-## Contexte
+## Le problème à résoudre
 
-Les particuliers, entreprises privées et collectivités, porteurs d'un projet d'aménagement ou d'infrastructure qui pourrait affecter les milieux aquatiques, doivent soumettre à l'administration une demande au titre de la loi sur l'eau.
+La Loi sur l’eau est une réglementation qui s’applique aux projets d’aménagement qui pourraient affecter les milieux aquatiques : cours d’eau, bassins, zones humides...
+L’investigation a démontré que cette réglementation était méconnue, à la fois des porteurs de projet (particuliers, entreprises privées, collectivités) et de leurs maîtres d’œuvre (architectes), et des instructeurs urbanisme chargés d’examiner les permis de construire.
+Deux raisons à cela :
 
-L'ensemble des réglementations et de la gestion associée des milieux aquatiques prennent en compte les adaptations nécessaires au changement climatique et visent à assurer :
+* La complexité technique de la réglementation, entravant sa lisibilité par les acteurs.
+* La complexité administrative : la procédure Loi sur l’eau est distincte de la procédure d’obtention du permis de construire. La première est instruite par les services départementaux sous l'autorité du préfet (DDTM) quand la seconde est de la responsabilité des collectivités territoriales. Or la plupart des architectes et porteurs de projets considèrent que le point d’entrée unique est la commune, et l’obtention du permis de construire le seul objectif.
 
-* La prévention des inondations et la préservation des écosystèmes aquatiques, des sites et des zones humides
-* La protection des eaux et la lutte contre toute pollution
-* La restauration de la qualité de ces eaux et leur régénération
-* Le développement, la mobilisation, la création et la protection de la ressource en eau
-* Le rétablissement de la continuité écologique au sein des bassins hydrographiques.
+Il est ainsi apparu :
 
-Chaque année, 500 autorisations environnementales et 10000 déclarations sont ainsi instruites par l’administration à l'échelle nationale.
+* qu’un nombre significatif de projets d’aménagement semble échapper à un examen Loi sur l’eau. 
+  Si cela se confirme, cela entraîne directement une dégradation de la qualité des milieux aquatiques, du régime d’écoulement des eaux, et une augmentation des risques hydrauliques.
+* que de nombreux porteurs de projets découvrent trop tard dans la vie du projet les obligations auxquels ils sont tenus au titre de la Loi sur l’eau. 
+  Cela entraîne délais et surcoûts, voire l’arrêt du projet en cas de défaut de conception
 
+EnvErgo poursuit donc deux objectifs :
 
-
-## Problème investigué
-
-L’Etat publie ses décisions administratives environnementales prises au titre de la loi sur l’eau au recueil des actes administratifs de chaque département sous forme de .pdf qui ne permettent pas l’accès et la réutilisation simples des données qui les caractérisent. Partager et utiliser ces connaissances pour comprendre et piloter ces activités et leurs impacts à une échelle adaptée est très compliqué avec les services numériques actuels.
-
-Le public (association, usagers, socio-professionnels, collectivités) concerné par ces projets ne peut pas bénéficier d’une telle vision partagée. Cette situation engendre : 
-
-* une connaissance peu mobilisable, qui coûte en temps à ré-utiliser ou reproduire à chaque nouveau projet
-* une difficulté à connaître et accéder dans le temps aux actes, et à leur contenu.
+* **Rendre environnementalement plus vertueux** un nombre significatif de projets d'aménagement, grâce au déclenchement d'une étude et d'une instruction Loi sur l'eau.
+* **Réduire les erreurs de planification** par les pétitionnaires dans l'articulation des études amont & instructions permis de construire et Loi sur l’eau.
 
 
 
-## Stratégie d'exploration
+## Le concept
 
-Trois semaines après le lancement de l'investigation, l'équipe mène des entretiens avec les acteurs suivants :
+EnvErgo se veut un service numérique en ligne accessible à tous, visant les porteurs de projet, les architectes, mais aussi les instructeurs urbanisme des collectivités.
 
-* agents de la police de l'eau en DDT(M) (Directions départementales des territoires et de la mer), en charge de l'instruction des dossiers et de police de l’environnement, administrative notamment.
-* agents de différentes structures, en appui à l'instruction ou en charge de contrôle également (Office Français de la Biodiversité, Agences Régionales de Santé...)
-* pétitionnaires : particuliers ou entreprises, collectivités
-* ... et leurs prestataires dans les bureaux d'études
-* acteurs territoriaux de l'eau tels que des animateurs de SAGE (Schéma d'aménagement de la gestion de l'eau), syndicats d'aménagement et de gestion de l'eau...
+A terme, le service propose deux apports aux utilisateurs :
+
+**1/ Fournir une estimation personnalisée de la probabilité d’être soumis à la Loi sur l’eau** 
+
+* à partir des informations afférentes au projet : localisation, surfaces de l’entité foncière et de l’emprise bâtie / d’imperméabilisation
+* pour aller plus loin qu’un simple rappel des rubriques IOTA et des seuils
+* et sans remplacer l’évaluation humaine d’un expert (bureau d’étude, puis instruction)
+
+**2/ Guider le pétitionnaire sur la marche à suivre** si le projet est susceptible d’être soumis à LSE
+
+* Délais d’instruction et impacts sur sa procédure d’autorisation d’urbanisme
+* Se rapprocher de l’unité Police de l’eau à la DDTM
+* Se tourner vers un bureau d’études
+
+
+
+## Stratégie de validation
+
+Le succès du concept repose à ce stade sur plusieurs hypothèses qui sont à valider :
+
+**1. Hypothèses liées aux pratiques des acteurs de l’urbanisme**
+
+* les projets soumis à LSE mais ne le sachant pas sont en nombre significatif
+* la compréhension de la réglementation et de la procédure par le pétitionnaire va déclencher une étude / un dépôt de dossier
+* l’étude / le dépôt de dossier va effectivement réduire l’impact environnemental
+  du projet
+
+**2. Hypothèses liées à la pertinence de notre produit**
+
+* l’utilisateur comprend / voit l’intérêt du service et comprend la procédure et la marche à suivre
+
+
+
+Afin de valider celles-ci, une version minimum viable d’EnvErgo est déployée depuis juillet 2021. Elle est utilisée dans le cadre d’expérimentations avec plusieurs collectivités :
+
+* en examinant les projets de permis de construire déjà déposés qui semblent potentiellement concernés par la Loi sur l’eau.
+* en contactant les porteurs de projet, les informant via EnvErgo, le cas échéant, en quoi leur projet peut être soumis à la Loi sur l’eau, et quelle procédure suivre pour être en règle.

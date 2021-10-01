@@ -7,6 +7,7 @@ friend: L'Atelier Numérique du Ministère de la Culture
 type: 'friend'
 post_ouvert: 2021-06-09
 poste_ferme: 2021-07-07
+date: 2021-06-09
 contact: clemence.chalopet@culture.gouv.fr
 status: open
 open: true

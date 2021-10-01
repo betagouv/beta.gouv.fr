@@ -16,12 +16,13 @@ missions:
     status: admin
     employer: dinum
 startups:
-  - protege-toit
-  - gap
+  - Delta V 
 previously:
   - transport
   - participation-citoyenne
   - rdv.consulat
+  - protege-toit
+  - gap
 badges:
   - segur
 ---

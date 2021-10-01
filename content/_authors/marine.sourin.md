@@ -5,7 +5,7 @@ domaine: Développement
 github: marinesourin
 missions:
   - start: 2021-06-25
-    end: 2021-09-25
+    end: 2021-10-31
     status: service
     employer: Captive
 startups:

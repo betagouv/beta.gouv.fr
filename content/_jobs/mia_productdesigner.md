@@ -1,6 +1,6 @@
 ---
 roles: LA MISSION INTERMINISTERIELLE POUR L’APPRENTISSAGE RECRUTE UN.E PRODUCT DESIGNER
-open: true
+open: false
 date: 2021-07-15
 startup: ""
 ---

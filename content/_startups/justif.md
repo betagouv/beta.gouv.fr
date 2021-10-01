@@ -2,11 +2,10 @@
 title: Mon Suivi Justice
 mission: Diminuer les rendez-vous non-honorés des personnes placées sous main de
   justice.
-owner: Tribunal de Nanterre et le service pénitentiaire d'insertion et de
-  probation du 92
+owner: Tribunal de Nanterre et Service Pénitentiaire d'Insertion et de
+  Probation du 92
 incubator: dinum
 repository: https://github.com/betagouv/mon-suivi-justice
-contact: felicie.callipel@justice.fr
 events:
   - name: product_launch
     date: 2021-05-07
@@ -17,7 +16,12 @@ phases:
     end: 2020-12-18
   - name: construction
     start: 2021-03-31
+stats: true
+stats_url: https://infogram.com/column-stacked-chart-1h7z2l8www5rg6o?live
+contact: contact@mon-suivi-justice.beta.gouv.fr
+
 ---
+
 # Éléments de contexte
 
 Le suivi de l’insertion et de la probation des personnes qui font l’objet d’une peine alternative à l’incarcération ou de mesures d’aménagement de peine (les “Personnes Placées Sous Main de Justice”) s’exerce sous la responsabilité conjointe des Tribunaux Judiciaires et des Services Pénitentiaires d’Insertion et de Probation. Ce suivi au sein du "milieu ouvert" présente deux volets :

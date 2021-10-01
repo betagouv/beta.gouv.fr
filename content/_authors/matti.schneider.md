@@ -1,6 +1,6 @@
 ---
 fullname: Matti Schneider
-role: CIO
+role: Directeur produit et collaboration
 domaine: Autre
 github: MattiSG
 avatar: https://gravatar.com/avatar/81ee62724136cc42065a0af37aa0edc1.jpg?s=512
@@ -27,7 +27,7 @@ missions:
     status: independent
     employer: dinum
   - start: 2021-06-01
-    end: 2021-10-01
+    end: 2021-11-06
     status: independent
     employer: ANCT
 startups:

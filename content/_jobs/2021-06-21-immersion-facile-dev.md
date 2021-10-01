@@ -1,6 +1,6 @@
 ---
-roles: " Lead développeur/se sénior. "
-open: true
+roles: " Lead développeur/se sénior. Recrutement terminé !"
+open: false
 date: 2021-06-21T12:59:20.784Z
 ---
 

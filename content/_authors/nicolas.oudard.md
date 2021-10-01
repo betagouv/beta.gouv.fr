@@ -1,6 +1,6 @@
 ---
 fullname: Nicolas Oudard
-role: Dev APpeL
+role: Dev APiLos
 domaine: Développement
 link: http://blog.oudard.org
 github: kolok
@@ -8,9 +8,9 @@ missions:
   - start: 2021-06-28
     end: 2021-11-06
     status: independent
-    employer: Aroya
+    employer: Arolla
 startups:
-  - appel.1
+  - apilos
 badges:
   - segur
 ---

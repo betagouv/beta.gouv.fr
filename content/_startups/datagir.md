@@ -15,6 +15,8 @@ phases:
     start: 2019-03-01
   - name: acceleration
     start: 2020-11-17
+  - name: transfer
+    start: 2021-07-01
 link: https://datagir.ademe.fr/
 repository: https://github.com/datagir/datagir-site
 stats: true

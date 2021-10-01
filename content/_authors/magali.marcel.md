@@ -1,11 +1,15 @@
 ---
 fullname: Magali Marcel
-role: Responsable portefeuille produits numériques
 domaine: Intraprenariat
-link:
+role: Responsable portefeuille produits numériques
+github: magalimarcelgarreau
+link: null
 missions:
   - start: 2018-06-18
-    end:  2022-01-01
+    end: 2022-02-08
     status: admin
     employer: DGALN
+competences:
+  - Administration Publique
+  - Gestion de Produit
 ---

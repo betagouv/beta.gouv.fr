@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: NUMA
 startups:
-  - appel.1
+  - apilos
 badges:
   - segur
 competences:

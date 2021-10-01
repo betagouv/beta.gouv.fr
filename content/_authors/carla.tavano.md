@@ -1,11 +1,12 @@
 ---
-fullname: Paul Vautrin-Grévisse
+fullname: Carla Tavano
 role: Intrapreneur
 domaine: Intraprenariat
 missions:
-  - start: 2021-01-05
+  - start: 2021-07-26
     end: 2021-12-31
     status: admin
-    employer: Ministère de la Culture
+startups:
+  - ellesfontlaculture
 ---
 

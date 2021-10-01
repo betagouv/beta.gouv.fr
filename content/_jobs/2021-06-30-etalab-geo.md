@@ -5,7 +5,7 @@ roles: un·e spécialiste des données géographiques
 techno: 
 - NodeJS
 - Python
-open: true
+open: false
 ---
 
 [Etalab](https://www.etalab.gouv.fr) cherche un·e spécialiste des données géographiques, pour une mission de longue durée en freelance. Cette personne sera amenée à travailler à la fois sur la gouvernance, le traitement et la valorisation de données géographiques.

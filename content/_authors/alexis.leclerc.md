@@ -1,6 +1,7 @@
 ---
 fullname: Alexis Leclerc
 role: Développeur
+github: haelle
 domaine: Développement
 missions:
   - start: 2017-03-01

@@ -1,16 +1,22 @@
 ---
 fullname: Thierry Verrecchia
-role: Chargé de déploiement
-domaine: Déploiement
-link: https://www.pocmaker.net
+domaine: Produit
+role: Responsable Produit
 github: pocmaker42
+link: https://www.pocmaker.net
 missions:
   - start: 2021-04-01
-    end: 2021-09-30
+    end: 2021-11-06
     status: independent
     employer: Octo
 startups:
   - aides-territoires
+competences:
+  - UX
+  - UI
+  - Développement Frontend
+  - Développement Backend
+  - Gestion de Produit
+  - Croissance
+  - Coaching
 ---
-
-Depuis ma sortie de l'EPITA en 97, j’ai dirigé ou co-dirigé 8 sociétés. Toutes ont échoué sauf une qui a très bien marché et que j’ai revendue. 24 ans plus tard, je n'ai toujours pas la recette miracle pour monter une boite qui cartonne, mais j'ai quand même appris 2/3 trucs 🙂
