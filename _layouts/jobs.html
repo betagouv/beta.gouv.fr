@@ -55,7 +55,7 @@ layout: default
         Souscrire au flux RSS
        </a>
     </div>
-    <button class="fr-btn" onclick="toggle_visibility('previous_jobs');">Offres pourvues</button>
+    <button class="fr-btn fr-btn--secondary" onclick="toggle_visibility('previous_jobs');">Offres pourvues</button>
     <div id="previous_jobs" style="display:none">
       {% assign jobs = site.jobs | where: "open", 'false' | reverse %}
       <ul>
