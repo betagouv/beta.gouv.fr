@@ -7,7 +7,7 @@ missions:
   - start: 2021-10-04
     end: 2022-02-28
     status: independent
-    employer: Le grattin
+    employer: BeNext
 startups:
   - domifa
 badges:
