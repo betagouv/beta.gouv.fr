@@ -1,6 +1,6 @@
 ---
 fullname: Julien Besnard
-role: Co-attributaire
+role: Facilitateur chez Omnicité
 domaine: Autre
 github: jubesnard
 missions:
