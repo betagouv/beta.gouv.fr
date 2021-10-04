@@ -5,8 +5,6 @@ junior: true
 date: 2021-10-04T14:59:23.105Z
 startup: la-bonne-alternance
 ---
-<!--StartFragment-->
-
 L’apprentissage est en plein essor. La loi pour la liberté de choisir son avenir professionnel a levé la plupart des 
 
 L’apprentissage est en plein essor. La loi pour la liberté de choisir son avenir professionnel a levé la plupart des freins financiers ou réglementaires et cette voie de formation commence à être mieux considérée par les jeunes, les familles et les entreprises. L’accélération de cette croissance passera par l’invention et le développement d’outils facilitant les entrées en apprentissage.
@@ -56,7 +54,7 @@ Télétravail 100%. Si la situation sanitaire le permet, participation aux journ
 
 **COMMENT ENVOYER VOTRE CANDIDATURE ?**
 
-Si la mission vous intéresse, envoyez-nous votre candidature à l’adresse suivante : [labonnealternance@apprentissage.beta.gouv.fr ](<[labonnealternance@apprentissage.beta.gouv.fr ]>)
+Si la mission vous intéresse, envoyez-nous votre candidature à l’adresse suivante : labonnealternance@apprentissage.beta.gouv.fr
 
 Quelques lignes dans le corps du mail suffisent à exprimer votre motivation. Ajoutez votre CV ou le lien vers votre compte Linkedin, et tout ce que vous souhaitez nous communiquer qui nous permettra de mieux vous connaître.
 
