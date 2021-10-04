@@ -1,6 +1,7 @@
 ---
 fullname: Emilien Guillemot
 role: Chargé de déploiement
+github: EmilienGuillemot
 domaine: Déploiement
 missions:
   - start: 2021-07-08
