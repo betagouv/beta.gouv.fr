@@ -77,4 +77,4 @@ Vous assurerez notamment les missions suivantes:
 
 ## Intéressé.e ?
 
-Pour candidater, écrivez-nous à [annuaire-entreprises@data.gouv.fr](mailto:annuaire-entreprises@data.gouv.fr)
+Aujourd’hui, l’Annuaire, c’est une petite équipe d’individus rassemblés par l'envie de construire ensemble un produit qui change la vie des entrepreneurs. Si tu as envie de nous prêter main forte, n’hésite pas ! Envoie nous ton CV à [annuaire-entreprises@data.gouv.fr](mailto:annuaire-entreprises@data.gouv.fr) ✉️
