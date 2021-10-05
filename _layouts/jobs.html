@@ -50,11 +50,12 @@ layout: default
 <section class="fr-py-6w section-grey">
   <div class="fr-container">
     <div style="margin-bottom: 20px;">
-      <a href="/jobs.xml" class="fr-link fr-fi-external-link-line fr-link--icon-right" title="Flux RSS Atom" target="_blank" rel="noopener">
+        <a class="fr-btn" href="https://airtable.com/shrzxJlITsisv09L6" target="_blank"><span class="fr-fi-external-link-line"></span>Candidature spontanée</a>
+        <a href="/jobs.xml" class="fr-link fr-fi-external-link-line fr-link--icon-right" title="Flux RSS Atom" target="_blank" rel="noopener">
         Souscrire au flux RSS
-      </a>
+        </a>
     </div>
-    <button class="fr-btn" onclick="toggle_visibility('previous_jobs');">Offres pourvues</button>
+    <button class="fr-btn fr-btn--secondary" onclick="toggle_visibility('previous_jobs');">Offres pourvues</button>
     <div id="previous_jobs" style="display:none">
       {% assign jobs = site.jobs | where: "open", 'false' | reverse %}
       <ul>
