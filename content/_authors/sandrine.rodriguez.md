@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: DINUM
 startups:
-  - metiers-numeriques
+  - talents-numeriques
 ---
 
 J'aime découvrir et expérimenter de nouvelles choses !  
