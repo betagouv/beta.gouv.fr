@@ -47,7 +47,7 @@ Pour ce faire, voici des exemples d'activités que ce poste pourra couvrir :
 
 ## Modalités
 
-* Poste ouvert aux indépendant(e)s pour une durée de 6 mois (reconductible)
+* Poste ouvert aux indépendant(e)s pour une durée de 3 mois (reconductible)
 * Temps de travail : entre 3 et 5 jours par semaine
 * Rémunération suivant profil (selon [grille de l’incubateur beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/les-differents-statuts/independants-freelances/remuneration))
 * Démarrage en Octobre 2021
