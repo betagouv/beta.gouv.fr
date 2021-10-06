@@ -57,4 +57,4 @@ Pour ce faire, voici des exemples d'activités que ce poste pourra couvrir :
 
 ## Comment postuler ?
 
-Envoyez un email à anna-livia.gomart@beta.gouv.fr avec en copie valentine.michaud@beta.gouv.fr.
+Envoyez un email à dinum@beta.gouv.fr avec en copie recrutement@beta.gouv.fr.
