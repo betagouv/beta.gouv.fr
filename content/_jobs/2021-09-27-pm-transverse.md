@@ -5,7 +5,7 @@ date: 2021-10-01
 ---
 
 Pour accompagner la croissance du programme beta.gouv.fr, l’incubateur de la DINUM recrute une ou un product manager en charge de garantir le maintien d'une qualité élevée pour les produits numériques accompagnés par la mission BETA.
-La personne recrutée rapportera à la responsable produit et travaillera en étroite collaboration avec l’[équipe d’animation du programme beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/je-minforme-sur-la-vie-de-la-communaute/equipe-danimation), particulièrement les responsables produit (CPO) et technique (CTO).
+La personne recrutée rapportera à la responsable produit et travaillera en étroite collaboration avec l’[équipe d’animation du programme beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/je-minforme-sur-la-vie-de-la-communaute/equipe-danimation), particulièrement les responsables produit et technique.
 
 ## Qui sommes-nous ?
 
