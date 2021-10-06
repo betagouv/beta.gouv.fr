@@ -1,7 +1,7 @@
 ---
 fullname: Boris Oudet
 role: Coach, PO, Portage
-domaine: Coaching
+domaine: Autre
 link: https://pathtech.fr/
 missions:
   - start: 2021-10-05
