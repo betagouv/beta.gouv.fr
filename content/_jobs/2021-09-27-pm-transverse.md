@@ -1,5 +1,5 @@
 ---
-roles: Product manager "Developper experience"
+roles: Product manager "Developer experience"
 open: true
 date: 2021-10-01
 ---
