@@ -29,7 +29,7 @@ Pour ce faire, voici des exemples d'activités que ce poste pourra couvrir :
 * Faire monter en compétences tous les membres du réseau beta.gouv.fr sur les sujets liés à la sécurité et à l'hygiène informatique (formations, sensibilisations etc) ;
 * Documenter les pratiques mises en œuvre au sein de la communauté pour favoriser leur diffusion au sein des administrations publiques dans un objectif de promotion de l’approche Startup d’État au sein de l’administration ;
 * Générer du partage d'expérience entre les profils techniques des différentes Startups d'État ;  
-* Mesurer en continu l'impact de ses actions et adapter l'accompagnement en fonction.
+* Mesurer en continu l'impact de ces actions et adapter l'accompagnement en fonction.
 
 
 ## Ce poste est fait pour vous si 
