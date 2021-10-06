@@ -10,7 +10,7 @@ La personne recrutée rapportera à la responsable produit et travaillera en ét
 ## Qui sommes-nous ?
 
 beta.gouv.fr met en œuvre une politique d’innovation publique en créant de petites équipes autonomes et agiles, nommées Startups d’État qui développent des produits numériques en cycles courts, en lien direct avec leurs usagers et les parties prenantes à la politique publique à laquelle ils contribuent.
-Le réseau beta.gouv.fr est constitué de membres issus du public ou du privé qui se donnent pour mission de résoudre les problèmes de ses usagers. Les [équipes autonomes](https://beta.gouv.fr/communaute/) sont composées de  développeurs et développeuses, coachs, bizdev, designers, product manager, intrapreneur(e)s... Votre rôle sera de travailler en support transverse, avec et pour les équipes techniques des startups (devs, designers, PM) pour les aider à concevoir des services de la meilleure qualité possible, efficacemment.
+Le réseau beta.gouv.fr est constitué de membres issus du public ou du privé qui se donnent pour mission de résoudre les problèmes de ses usagers. Les [équipes autonomes](https://beta.gouv.fr/communaute/) sont composées de  développeurs et développeuses, coachs, bizdev, designers, product manager, intrapreneur(e)s... Votre rôle sera de travailler en support transverse, avec et pour les équipes techniques des startups (devs, designers, PM) pour les outiller afin de concevoir des services de la meilleure qualité possible, efficacemment.
 
 ## Mission
 
