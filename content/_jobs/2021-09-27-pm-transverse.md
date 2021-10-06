@@ -15,7 +15,7 @@ Le réseau beta.gouv.fr est constitué de membres issus du public ou du privé q
 ## Mission
 
 
-En lien avec les référents techniques de la mission BETA et des incubateurs partenaires, vous accompagnez les développeurs et développeuses des Startups d’État à concevoir des services de qualité, efficacement. 
+En lien avec les référents techniques de la mission BETA et des incubateurs partenaires, vous outillez les développeurs et développeuses des Startups d’État afin de concevoir des services de qualité, efficacement. 
 Votre rôle est 
 1. de toute faire pour garantir le respect des [standards de qualité](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr) au sein des produits accompagnés par l'incubateur
 2. d'imaginer et mettre en place des solutions pour améliorer l'expérience et alléger le travail des équipes techniques sur des tâches chronophages et/ou sans grande valeur ajoutée directe pour le produit qu'elles développent
