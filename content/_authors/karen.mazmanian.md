@@ -1,7 +1,7 @@
 ---
 fullname: Karen Mazmanian
 role: Chargé de déploiement
-domaine: Développement
+domaine: Déploiement
 missions:
   - start: 2021-10-01
     end: 2021-10-04
