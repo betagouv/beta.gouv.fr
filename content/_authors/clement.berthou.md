@@ -13,3 +13,4 @@ startups:
 competences:
   - Développement Backend
 ---
+Développer simplement des applications complexes.
