@@ -6,7 +6,7 @@ github: yaf
 link: 'https://elsif.fr'
 missions:
   - employer: Scopyleft
-    end: 2021-10-30
+    end: 2021-12-31
     start: 2018-12-12
     status: service
 startups:
