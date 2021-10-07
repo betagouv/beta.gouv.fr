@@ -2,7 +2,7 @@
 startup: ma-cantine-egalim
 title: "Ma cantine recrute des personnes chargées de déploiement"
 roles: des personnes chargées de déploiement
-open: true
+open: false
 ---
 
 ## 🤗 Le contexte : beta.gouv.fr
