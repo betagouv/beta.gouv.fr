@@ -1,10 +1,11 @@
 ---
 fullname: Charlotte Bertin
-role: Intrapreneur
 domaine: Intraprenariat
+role: Intrapreneur
 missions:
   - start: 2021-06-07
-    end: 2021-08-31
+    end: 2022-08-31
     status: admin
+competences:
+  - Administration Publique
 ---
-
