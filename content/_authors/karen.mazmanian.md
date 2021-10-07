@@ -4,7 +4,7 @@ role: Chargé de déploiement
 domaine: Développement
 missions:
   - start: 2021-10-01
-    end: 2022-01-01
+    end: 2021-10-04
     status: independent
     employer: Octo
 startups:
