@@ -20,9 +20,8 @@ Dans un univers technologique en constante évolution et fortement contraint, ce
 
 ## Problème
 
-La transformation numérique de l’État est une aventure humaine avant tout !
-
-Dans un univers technologique en constante évolution et fortement contraint, ces femmes et ces hommes doivent pouvoir partager, maintenir et développer des savoirs et savoir-faire.
+Les agents du numériques de l'Etat ont du mal à identifier les compétences de leurs collègues et ne savent pas forcement à qui s'adresser en cas de besoin et de conseil. Les agents peuvent se sentir isolés.
+Ils aimeraient davantage pouvoir s'entraider ou partager entre pairs au sein d'une communauté d'expert.
 
 
 
