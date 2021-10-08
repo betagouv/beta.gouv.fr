@@ -1,8 +1,7 @@
 ---
 fullname: Nicolas Perrot
 role: PO
-domaine: Déploiement
-avatar: 
+domaine: Produit
 missions:
   - start: 2020-04-02
     end: 2020-10-31
