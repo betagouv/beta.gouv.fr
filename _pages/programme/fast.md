@@ -7,7 +7,7 @@ redirect_from:
   - /fast
 ---
 
-<img src="https://blog.beta.gouv.fr/img/posts/2021_06_29_1200x675_fast_13sept_visuel_twitter.jpg" alt="Image de présentation du FAST" style="width:100%;" />
+<img src="https://blog.beta.gouv.fr/img/posts/2021_06_29_1200x627_fast_8nov_visuel_linkedin.jpg" alt="Image de présentation du FAST" style="width:100%;" />
 
 L'appel à candidatures du Fonds d’accélération des Startups d’État et de Territoire (FAST) vise à cofinancer des services publics numériques en phase d’accélération qui ont pour but de résoudre des problèmes de politiques publiques.  
 
@@ -93,7 +93,7 @@ Si vous êtes candidat pour la création d'un incubateur, le dossier doit préci
 * Les ressources qui seront mobilisées 
 
 
-[Candidatez-ici sur la session du 13 septembre 2021.](https://www.demarches-simplifiees.fr/commencer/fast9)
+[Candidatez-ici sur la session du 8 novembre 2021.](https://www.demarches-simplifiees.fr/commencer/fast10)
 
 
 ## À quoi servira le ticket de cofinancement ?
@@ -125,7 +125,7 @@ Si vous avez déjà été lauréat du FAST, nous vous invitons à postuler au [P
 
 ## Comment candidater ?
  
-[Candidatez-ici sur la session du 13 septembre 2021.](https://www.demarches-simplifiees.fr/commencer/fast9)
+[Candidatez-ici sur la session du 8 novembre 2021.](https://www.demarches-simplifiees.fr/commencer/fast10)
 
 ## J’ai une question, qui puis-je contacter ?
 
