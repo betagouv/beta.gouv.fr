@@ -15,7 +15,7 @@ Jusqu’à 1 million d’euros en provenance de la Direction Interministérielle
 
 Que vous soyez une administration, un établissement public, ou une collectivité territoriale engagé dans le développement ou l'accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction Interministérielle du Numérique pouvant aller jusqu'à 300 000 euros.
 
-Le neuvième appel à projets est en cours !  
+Le dixième appel à projets est en cours !  
 
 Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux questions dédiée.
 
