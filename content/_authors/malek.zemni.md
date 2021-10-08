@@ -8,5 +8,7 @@ missions:
     end: 2022-03-31
     status: service
     employer: OCTO
+startups:
+  - pass-emploi
 ---
 
