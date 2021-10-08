@@ -1,6 +1,6 @@
 ---
 fullname: Nicolas Perrot
-role: déploiement
+role: PO
 domaine: Déploiement
 avatar: 
 missions:
@@ -8,8 +8,13 @@ missions:
     end: 2020-10-31
     status: independent
     employer: lazone/scopyleft
+  - start: 2021-10-05
+    end: 2022-04-31
+    status: independent
+    employer: lazone
 github: NicolasPerrot1
 startups:
+  - dedale
+previously:
   - cartobio
-  
 ---
