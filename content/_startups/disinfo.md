@@ -3,20 +3,20 @@ title: Disinfo
 mission: Réduire les vulnérabilités aux manipulations de l’information
 owner: Ministère de l’Europe et des affaires étrangères
 sponsors:
-    - name: Ambassadeur pour le numérique
-      domaine_ministeriel: affaires-etrangeres
-      type: administration-centrale
-incubator: dinum
+  - name: Ambassadeur pour le numérique
+    domaine_ministeriel: affaires-etrangeres
+    type: administration-centrale
+incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
+repository: https://github.com/AmbaNum/disinfo.quaidorsay.fr
+contact: disinfo@beta.gouv.fr
+stats_url: https://stats.data.gouv.fr/index.php?idSite=89
+link: https://disinfo.quaidorsay.fr
+stats: true
 phases:
   - name: investigation
     start: 2019-01-10
   - name: construction
     start: 2019-03-01
-link: https://disinfo.quaidorsay.fr
-repository: https://github.com/AmbaNum/disinfo.quaidorsay.fr
-stats: true
-stats_url: https://stats.data.gouv.fr/index.php?idSite=89
-contact: disinfo@beta.gouv.fr
 ---
 
 _Fake news, infox, désinformation, deep fakes, mésinformation…_ Nous regroupons tous ces éléments sous le terme générique de manipulations de l’information.
