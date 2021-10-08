@@ -20,7 +20,7 @@ Son fonctionnement est souple. La finalité nous guide plutôt que les procédur
 
 ## Le rôle de chef de projet pour [Rendez-Vous Apprentissage](https://beta.gouv.fr/startups/rdv.apprentissage.html)
 
-Le produit, (documentation détaillée [ici](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous)) vise à faciliter, sécuriser et accélérer la mise en relation entre candidats à l’apprentissage et centres de formation des apprentis (CFA).
+Le produit (documentation détaillée [ici](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous)) vise à faciliter, sécuriser et accélérer la mise en relation entre candidats à l’apprentissage et centres de formation des apprentis (CFA).
 
 Concrètement, un produit minimum viable de ce module est déjà intégré à plusieurs  plateformes et portails exposant les formations en apprentissage. Il permet à un internaute ayant identifié une formation de solliciter un contact avec le CFA qui la dispense. Ce formulaire se veut simple pour faciliter l’engagement du candidat à l’apprentissage, et doit permettre aussi de simplifier la gestion des prospects côté CFA. 
 
