@@ -8,7 +8,7 @@ open: true
 
 Tchap s'est lancé en avril 2018 et compte aujourd'hui 235 000 utilisateurs. L'application est disponible sur Android, iOS et le web. Tchap est à destination de l'ensemble des agents des trois fonctions publiques (territoriale, hospitalière et centrale). 
 
-En mai 2021, BetaGouv reprend Tchap pour accompagner l'équipe dans son acceleration.
+En mai 2021, BetaGouv reprend Tchap pour accompagner l'équipe dans son accélération.
 
 ## Problèmes
 
@@ -27,11 +27,11 @@ beta.gouv.fr a déjà contribué à la création de dizaines de services numéri
 ## Missions et rôle
 
 Ton rôle principal au sein de l'équipe Tchap sera d'envisager, améliorer les disponibilités du service. Quelques fonctionnalités possibles à envisager :
-* Créer un système de collect de statistiques ;
+* Créer un système de collecte de statistiques ;
 * Créer un systeme d'authentification des agents publics via Tchap ;
-* Travailler sur la documentation de nos pratique.
+* Travailler sur la documentation de nos pratiques.
 
-Tu pourras aussi si tu le souhaites t'investir à créer des outils utilisables par toute la communauté (et peut être au dela) tels que :
+Tu pourras aussi si tu le souhaites t'investir à créer des outils utilisables par toute la communauté (et peut être au delà) tels que :
 
 * [Dashlord](https://dashlord.incubateur.net/), un tableau de bord des bonnes pratiques de développement ;
 * Beta-recrutement, un outil pour accompagner la croissance de la communauté Betagouv.
@@ -47,15 +47,15 @@ Tu justifies d'au moins 3 des compétences suivantes:
 * Une préférence pour des solutions simples et pragmatiques.. « [Le meilleur code n'est aucun code](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/) » ;
 * Une connaissance des méthodes de développement lean ;
 * Une connaissance des outils métier modernes du développement web (GitHub, CI, Figma, exception handlers, etc.)
-* Bonus, tu sais développer dans une des technologies suivante : Python, Typescript, React, iOS ou Android
+* Bonus, tu sais développer dans une des technologies suivantes : Python, Typescript, React, iOS ou Android
 
 ## Modalités de travail
 
 * Début de la mission **dès que possible.**
 * Télétravail possible. Déplacements à Paris à prévoir, quand possible
-* Mission initial pour independant en commencant par un essai d'un mois et demi
+* Mission initiale pour indépendant en commençant par un essai d'un mois et demi
 * À minima 3 jours par semaine
 
 ## Candidater
 
-Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV, le tout à recrutement@beta.gouv.fr . A bientôt ! 😀
+Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV, le tout à recrutement@beta.gouv.fr . À bientôt ! 😀
