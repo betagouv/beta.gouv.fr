@@ -2,7 +2,7 @@
 fullname: Bertrand Denoncin
 role: Développeur
 domaine: Développement
-link: http://fairness.coop
+link: https://fairness.coop/
 github: volubyl
 missions:
   - start: 2021-10-08
@@ -13,4 +13,4 @@ badges:
   - segur
 ---
 
-Développeur Full Stack JS aimant le code utile et bien conçu .. tester ce n'est PAS douter :-)
+Développeur Full Stack JS aimant le code utile et bien conçu... tester ce n'est PAS douter :-)
