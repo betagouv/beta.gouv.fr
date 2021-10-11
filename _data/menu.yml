@@ -15,6 +15,10 @@ nav:
     target: _pages/recrutement.md
 shortcuts:
   -
+    label: Annuaire
+    external: false
+    url: https://beta.gouv.fr/communaute/annuaire
+  -
     label: Documentation
     external: true
     url: https://doc.incubateur.net
