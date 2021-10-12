@@ -52,7 +52,7 @@ jobs:
 
             // Get the changed files from the response payload.
             const files = response.data.files
-            const all = [],
+            const all = []
             for (const file of files) {
               const filename = file.filename
             }
