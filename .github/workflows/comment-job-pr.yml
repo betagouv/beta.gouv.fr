@@ -55,8 +55,8 @@ jobs:
             const all = []
             for (const file of files) {
               const filename = file.filename
+              all.push(filename)
             }
-            all.push(filename)
 
             // Format the arrays of changed files.
             let allFormatted = JSON.stringify(all)
