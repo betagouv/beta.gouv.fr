@@ -1,7 +1,7 @@
 ---
 fullname: Bertrand Denoncin
-role: Développeur
-domaine: Développement
+role: Facilitateur
+domaine: autre
 link: https://fairness.coop/
 github: volubyl
 missions:
@@ -13,4 +13,5 @@ badges:
   - segur
 ---
 
-Développeur Full Stack JS aimant le code utile et bien conçu... tester ce n'est PAS douter :-)
+Facilitateur au sein de la Zone
+Développeur Full Stack JS aimant le code utile et bien conçu
