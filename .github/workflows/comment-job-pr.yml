@@ -49,7 +49,6 @@ jobs:
                   "Please submit an issue on this action's GitHub repo."
               )
             }
-
             // Get the changed files from the response payload.
             const files = response.data.files
             const all = []
@@ -69,10 +68,7 @@ jobs:
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                body: `Hello @${creator}
-                  # Recrutement 
-                  Pour rappel voici les informations obligatoire à préciser :
-  
+                body: `Hello @${creator}\# Recrutement\Pour rappel voici les informations obligatoires à préciser :
                 `
               })
             }
