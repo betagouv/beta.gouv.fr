@@ -3,8 +3,8 @@ layout: page
 permalink: /approche/
 title: Découvrir le programme
 ---
-<div class="fr-grid-row fr-grid-row--gutters fr-mb-4w">
-    <div class="fr-col-md-9 fr-col-xs-12">
+<div class="fr-grid-row fr-grid-row--gutters">
+    <div class="fr-col-md-10 fr-col-xs-12">
         <p class="fr-text--lg">
             beta.gouv aide les administrations publiques à construire des <b>services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens</b>.
             <br>
