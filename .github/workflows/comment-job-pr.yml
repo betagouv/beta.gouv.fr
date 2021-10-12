@@ -10,10 +10,60 @@ jobs:
             // Get a list of all issues created by the PR opener
             // See: https://octokit.github.io/rest.js/#pagination
             const creator = context.payload.sender.login
+            // Get event name.
+            const eventName = context.eventName
 
-            await github.rest.issues.createComment({
-              issue_number: context.issue.number,
+            // Define the base and head commits to be extracted from the payload.
+            let base
+            let head
+
+            switch (eventName) {
+              case 'pull_request':
+                base = context.payload.pull_request?.base?.sha
+                head = context.payload.pull_request?.head?.sha
+                break
+              case 'push':
+                base = context.payload.before
+                head = context.payload.after
+                break
+              default:
+                core.setFailed(
+                  `This action only supports pull requests and pushes, ${context.eventName} events are not supported. ` +
+                    "Please submit an issue on this action's GitHub repo if you believe this in correct."
+                )
+            }
+
+            // Use GitHub's compare two commits API.
+            // https://developer.github.com/v3/repos/commits/#compare-two-commits
+            const response = await github.repos.compareCommits({
+              base,
+              head,
               owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: `Welcome, new contributor! @${creator}`
+              repo: context.repo.repo
             })
+
+            // Ensure that the request was successful.
+            if (response.status !== 200) {
+              core.setFailed(
+                `The GitHub API for comparing the base and head commits for this ${context.eventName} event returned ${response.status}, expected 200. ` +
+                  "Please submit an issue on this action's GitHub repo."
+              )
+            }
+
+            // Get the changed files from the response payload.
+            const files = response.data.files
+            const all = [],
+            for (const file of files) {
+              const filename = file.filename
+            }
+            all.push(filename)
+
+            // Format the arrays of changed files.
+            let allFormatted = JSON.stringify(all)
+
+          await github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: `Welcome, new contributor! @${creator}`
+          })
