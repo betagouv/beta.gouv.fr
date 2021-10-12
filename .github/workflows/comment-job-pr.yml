@@ -60,16 +60,19 @@ jobs:
                 isJobPR = true
                 break;
               }
+              console.log(filename)
               all.push(filename)
             }
 
-            // Format the arrays of changed files.
-            let allFormatted = JSON.stringify(all)
             if (isJobPR) {
               await github.rest.issues.createComment({
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                body: `Welcome, new contributor! @${creator}`
+                body: `Hello @${creator}
+                  # Recrutement 
+                  Pour rappel voici les informations obligatoire à préciser :
+  
+                `
               })
             }
