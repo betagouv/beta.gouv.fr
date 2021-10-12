@@ -1,7 +1,7 @@
 ---
 fullname: Bertrand Denoncin
 role: Facilitateur
-domaine: autre
+domaine: Autre
 link: https://fairness.coop/
 github: volubyl
 missions:
