@@ -56,7 +56,7 @@ jobs:
             let isJobPR = false
             for (const file of files) {
               const filename = file.filename
-              isfilename.includes('content/_jobs')) {
+              if (filename.includes('content/_jobs')) {
                 isJobPR = true
                 break;
               }
