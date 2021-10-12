@@ -3,16 +3,17 @@ layout: page
 permalink: /approche/
 title: Découvrir le programme
 ---
-<p class="fr-text--lead">
-beta.gouv aide les administrations publiques à construire des <b>services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens</b>.
-<br>
-Nous formons et faisons équipe avec des agents publics “<b>intrapreneurs</b>” pour les aider à améliorer le service public de l’intérieur, grâce au numérique.
-<br>
-Pour cela, nous diffusons une approche différente de la conception de service numérique, surnommée “<b>approche Startup d’État</b>”.
-</p>
-<p class="fr-text--lead">
-<b>beta.gouv.fr</b> a déjà contribué à la création de <a href="https://beta.gouv.fr/startups/">dizaines de services numériques</a> déjà disponibles ou à venir. Nous animons une <a href="https://beta.gouv.fr/communaute/">communauté en croissance</a> qui construit les services publics numériques de demain au sein d’un <a href="https://beta.gouv.fr/communaute/#incubateur">réseau d'incubateurs publics</a> partageant les mêmes <a href="https://beta.gouv.fr/approche/manifeste">valeurs</a>. 
-</p>
+<div class="fr-grid-row fr-grid-row--gutters fr-mb-6w">
+    <div class="fr-col-md-8 fr-col-xs-12">
+        beta.gouv aide les administrations publiques à construire des <b>services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens</b>.
+        <br>
+        Nous formons et faisons équipe avec des agents publics “<b>intrapreneurs</b>” pour les aider à améliorer le service public de l’intérieur, grâce au numérique.
+        <br>
+        Pour cela, nous diffusons une approche différente de la conception de service numérique, surnommée “<b>approche Startup d’État</b>”.
+        <br>
+        <b>beta.gouv.fr</b> a déjà contribué à la création de <a href="https://beta.gouv.fr/startups/">dizaines de services numériques</a> déjà disponibles ou à venir. Nous animons une <a href="https://beta.gouv.fr/communaute/">communauté en croissance</a> qui construit les services publics numériques de demain au sein d’un <a href="https://beta.gouv.fr/communaute/#incubateur">réseau d'incubateurs publics</a> partageant les mêmes <a href="https://beta.gouv.fr/approche/manifeste">valeurs</a>. 
+    </div>
+</div>
 <h2>Déroulé du programme beta.gouv.fr</h2>
 <div>
     <img 
