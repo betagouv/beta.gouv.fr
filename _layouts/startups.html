@@ -108,7 +108,7 @@ layout: default
                     <div>
                         <h1 class="fr-card__title">{{ incubator.title }}</h1>
                         <p class="h1-card__title-subtitle">{{ incubator.owner }}</p>
-                        <div class="markdown">{{ incubator.content }}</div>
+                        <!-- <div class="markdown">{{ incubator.content }}</div> -->
                     </div>
                 </div>
             </div>
@@ -116,7 +116,7 @@ layout: default
     </section>
     {% endfor %}
 
-    <div class="fr-container fr-py-6w fr-px-2w">
+    <div class="fr-container fr-py-6w">
         {% assign phases = site.phases | sort: 'order' %}
         {% for phase in phases %}
             {% assign counter_target = phase.id | remove: "/phases/" %}

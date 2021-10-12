@@ -2,9 +2,6 @@
 title:
 nav:
   -
-    label: Notre approche
-    target: _pages/approche.md
-  -
     label: Réalisations
     target: _pages/startups.md
   -
