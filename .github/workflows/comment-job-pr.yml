@@ -53,17 +53,23 @@ jobs:
             // Get the changed files from the response payload.
             const files = response.data.files
             const all = []
+            let isJobPR = false
             for (const file of files) {
               const filename = file.filename
+              isfilename.includes('content/_jobs')) {
+                isJobPR = true
+                break;
+              }
               all.push(filename)
             }
 
             // Format the arrays of changed files.
             let allFormatted = JSON.stringify(all)
-
-            await github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: `Welcome, new contributor! @${creator}`
-            })
+            if (isJobPR) {
+              await github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: `Welcome, new contributor! @${creator}`
+              })
+            }
