@@ -49,7 +49,7 @@ L'équipe est composée d’un développeur et d’un UX designer et appuyée pa
 
 # COMMENT CANDIDATER ?
 
-Si la mission vous intéresse, envoyez-nous votre candidature à l’adresse suivante : catalogue@apprentissage.beta.gouv.fr  
+Si la mission vous intéresse, envoyez-nous votre candidature à l’adresse suivante : rdv_apprentissage@apprentissage.beta.gouv.fr
  
 Quelques lignes dans le corps du mail suffisent à exprimer votre motivation. Ajoutez votre CV ou le lien vers votre compte Linkedin, et tout ce que vous souhaitez nous communiquer qui nous permettra de mieux vous connaître.
 
