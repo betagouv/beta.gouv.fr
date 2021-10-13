@@ -4,12 +4,14 @@ role: Développeur
 domaine: Développement
 github: ahmedahma
 missions:
-  - start: 2021-07-15
-    end: 2021-09-30
+  - start: 2019-10-07
+    end: 2022-03-30
     status: service
     employer: Octo 
 startups:
   - pass-emploi
+previously:
+  - pass-culture
 badges:
   - segur
 ---
