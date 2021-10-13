@@ -9,6 +9,8 @@ missions:
     employer: Octo
 badges:
   - segur
+startups:
+  - pass-emploi
 ---
 
 Product Owner, sportive et très forte à Mario Kart !
