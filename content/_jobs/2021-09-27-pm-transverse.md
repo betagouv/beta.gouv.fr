@@ -1,6 +1,6 @@
 ---
 roles: Product manager "Developer experience"
-open: true
+open: false
 date: 2021-10-01
 ---
 
