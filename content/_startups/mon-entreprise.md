@@ -1,6 +1,6 @@
 ---
 title: Mon-entreprise.fr
-mission: "L’assistant officiel du créateur d’entreprise"
+mission: Guider les créateurs et créatrices d’entreprise.
 owner: Urssaf
 sponsors:
     - name: Urssaf Caisse nationale

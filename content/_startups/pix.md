@@ -1,6 +1,6 @@
 ---
 title: Pix
-mission: Mesurer, développer et valoriser ses compétences numériques
+mission: Mesurer, développer et valoriser ses compétences numériques.
 owner: GIP PIX
 sponsors: 
     - name: Secrétariat général

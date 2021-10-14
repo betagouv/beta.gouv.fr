@@ -1,6 +1,6 @@
 ---
 title: La Bonne Alternance
-mission: Se former et travailler en alternance
+mission: Se former et travailler en alternance.
 owner: Mission interministérielle pour l'apprentissage & Pôle emploi 
 sponsors: 
     - name: Mission interministérielle pour l'apprentissage

@@ -1,6 +1,6 @@
 ---
 title: La Bonne Formation
-mission: Rechercher une formation efficace pour le retour à l'emploi et découvrir les financements possibles
+mission: Rechercher une formation efficace pour le retour à l'emploi et découvrir les financements possibles.
 owner: Pôle emploi
 sponsors: 
   - name: Pôle Emploi
