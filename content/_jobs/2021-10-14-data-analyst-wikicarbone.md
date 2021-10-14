@@ -64,4 +64,4 @@ Réunions d'équipe régulières en format visio. Des réunions en présentiel o
 
 Démarrage novembre 2021.
 
-Envoie nous ta candidature et ton CV à [Pascal Dagras](mailto:pascal.dagras@beta.gouv.fr) avec [wikicarbone@beta.gouv.fr](mailto:wikicarbone@beta.gouv.fr) en copie.
+Candidature et CV à envoyer à [Pascal Dagras](mailto:pascal.dagras@beta.gouv.fr) avec [wikicarbone@beta.gouv.fr](mailto:wikicarbone@beta.gouv.fr) en copie.
