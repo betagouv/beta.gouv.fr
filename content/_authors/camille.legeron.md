@@ -4,7 +4,7 @@ role: Facilitatrice
 domaine: Autre
 missions:
   - start: 2021-01-10
-    end: 2023-11-11
+    end: 2024-10-11
     status: service
     employer: TelesCoop
 ---
