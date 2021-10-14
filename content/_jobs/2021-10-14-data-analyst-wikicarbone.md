@@ -63,3 +63,5 @@ Poste ouvert pour un·e **indépendant·e** à pourvoir pour un contrat d’envi
 Réunions d'équipe régulières en format visio. Des réunions en présentiel optionnelles à prévoir sur Paris.
 
 Démarrage novembre 2021.
+
+Envoie nous ta candidature et ton CV à [Pascal Dagras](mailto:pascal.dagras@beta.gouv.fr) avec [wikicarbone@beta.gouv.fr](mailto:wikicarbone@beta.gouv.fr) en copie.
