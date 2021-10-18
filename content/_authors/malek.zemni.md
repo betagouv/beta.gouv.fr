@@ -1,6 +1,6 @@
 ---
 fullname: Malek Zemni
-role: Dév
+role: Développeur
 domaine: Développement
 github: mzem
 missions:
