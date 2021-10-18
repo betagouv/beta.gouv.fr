@@ -1,6 +1,6 @@
 ---
 title: LexImpact
-mission: Aider nos parlementaires à estimer les impacts de leurs amendements avant vote !
+mission: Aider nos parlementaires à estimer les impacts de leurs amendements avant vote.
 owner: Assemblée nationale
 sponsors: 
     - name: Assemblée nationale

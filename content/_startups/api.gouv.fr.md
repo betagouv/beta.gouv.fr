@@ -1,6 +1,6 @@
 ---
 title: api.gouv.fr
-mission: Le site qui référence toutes les APIs du service public
+mission: Référencer toutes les APIs du service public.
 owner: DINUM
 sponsors: 
     - name: Direction interministérielle du numérique

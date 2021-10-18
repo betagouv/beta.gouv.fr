@@ -1,6 +1,6 @@
 ---
 title: L’Annuaire des Entreprises
-mission: Le site où retrouver toutes les informations concernant les entreprises françaises
+mission: Retrouver toutes les informations concernant les entreprises françaises.
 owner: DINUM
 sponsors:
     - name: Direction interministérielle du numérique
