@@ -1,7 +1,8 @@
 ---
 fullname: Alexia Chaslot
-role: Chargée de déploiement 
 domaine: Autre
+role: Chargée de déploiement
+github: alexiachaslot
 missions:
   - start: 2021-09-17
     end: 2022-04-13
@@ -11,6 +12,7 @@ startups:
   - justif
 badges:
   - segur
-github: alexiachaslot
+competences:
+  - Administration Publique
+  - Gestion de Produit
 ---
-
