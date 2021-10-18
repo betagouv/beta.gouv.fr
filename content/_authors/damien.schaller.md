@@ -5,7 +5,7 @@ role: développeur
 github: damienschallergouv
 missions:
   - start: 2021-06-10
-    end: 2021-12-31
+    end: 2021-08-31
     status: service
     employer: Octo
 startups: []
