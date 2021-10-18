@@ -30,7 +30,7 @@
             <ul class="fr-links-group">
               {% for item in site.data.menu.shortcuts %}
               <li class="fr-shortcuts__item">
-                <a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ item.url }}" title="{{ item.label }}" target="_blank" rel="noopener">{{ item.label }}</a>
+                <a class="fr-link {{ item.external && 'fr-fi-external-link-line fr-link--icon-right'}" href="{{ item.url }}" title="{{ item.label }}" target="_blank" rel="noopener">{{ item.label }}</a>
               </li>
               {% endfor %}
             </ul>
