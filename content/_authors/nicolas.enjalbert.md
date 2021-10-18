@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: NUMA
   - status: independent
-    employer: Ministère de l'Emploi
+    employer: BeNext
     start: 2021-09-09
     end: 2022-03-15
 startups:
@@ -21,4 +21,4 @@ competences:
   - UX
   - Gestion de Produit
 ---
-Designer de service & coach produit, fan de data, engagé bénévole pour un design plus responsable
+Designer de service & coach produit
