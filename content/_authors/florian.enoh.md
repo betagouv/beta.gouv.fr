@@ -9,7 +9,7 @@ missions:
     status: service
     employer: octo
   - start: 2021-01-06
-    end: 2021-12-31
+    end: 2021-08-31
     status: service
     employer: octo
 startups: []
