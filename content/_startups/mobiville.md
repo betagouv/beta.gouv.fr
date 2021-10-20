@@ -1,7 +1,7 @@
 ---
 title: MobiVille
 mission: Diminuer le nombre d'emplois non pourvus en facilitant la mobilité géographique des actifs
-owner: Pôle emploi et Action Logement
+owner: Pôle Emploi et Action Logement
 sponsors:
     - name: Pôle Emploi
       acronym: PE

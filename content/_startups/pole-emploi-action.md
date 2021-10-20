@@ -27,7 +27,7 @@ Ils ratent donc des opportunités de rencontre avec les recruteurs !
 Seuls les candidats ayant eu l'information de l'existence de l'organisation de rencontre de recrutement peuvent participer à un événement de recrutement. Aujourd'hui, l'information est reçue aléatoirement par le candidat.
 
 
-Pôle emploi Action's souhaite pouvoir permettre au candidat :
+Pôle Emploi Action's souhaite pouvoir permettre au candidat :
 - d'accéder à cette information de manière personnalisée (avec des critères de sélection),
 - à tout moment
 - et de manière industrialisée grâce à un matching entre les attentes du candidat et les prérequis exigés pour la participation à l'évènement.

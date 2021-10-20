@@ -18,7 +18,7 @@ phases:
 
 Quand une personne en insertion initie une démarche d'accompagnement par les services publics, c'est bien souvent un parcours long et complexe qui démarre, jusqu'à être efficacement orientée, par exemple vers un emploi ou une formation professionnelle (en moyenne entre un an et deux ans).
 
-Au fil de ce parcours, la personne en insertion va rencontrer un très grand nombre d'acteurs (Conseils Départementaux, CAF, Pôle emploi, Associations, etc.), qui ne partagent pas bien leurs données, augmentant les délais de prise de rendez-vous, et amenant la personne à répéter de nombreuses fois les mêmes informations.
+Au fil de ce parcours, la personne en insertion va rencontrer un très grand nombre d'acteurs (Conseils Départementaux, CAF, Pôle Emploi, Associations, etc.), qui ne partagent pas bien leurs données, augmentant les délais de prise de rendez-vous, et amenant la personne à répéter de nombreuses fois les mêmes informations.
 
 Pourtant, plus le temps passe et plus les risques de découragement voire de détresse sont importants, rendant plus compliqué le retour vers une solution d'insertion pérenne et adaptée.
 
