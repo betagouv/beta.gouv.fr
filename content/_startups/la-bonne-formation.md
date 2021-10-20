@@ -1,7 +1,7 @@
 ---
 title: La Bonne Formation
-mission: Rechercher une formation efficace pour le retour à l'emploi et découvrir les financements possibles.
-owner: Pôle emploi
+mission: Rechercher une formation efficace pour le retour à l'emploi et découvrir les financements possibles
+owner: Pôle Emploi
 sponsors: 
   - name: Pôle Emploi
     acronym: PE

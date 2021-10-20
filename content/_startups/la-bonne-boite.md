@@ -1,7 +1,7 @@
 ---
 title: La Bonne Boîte
-mission: Trouver les entreprises qui vont recruter près de chez soi.
-owner: Pôle emploi
+mission: Trouver les entreprises qui vont recruter près de chez soi
+owner: Pôle Emploi
 sponsors: 
     - name: Pôle Emploi
       acronym: PE

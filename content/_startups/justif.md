@@ -1,7 +1,7 @@
 ---
 title: Mon Suivi Justice
 mission: Diminuer les rendez-vous non-honorés des personnes placées sous main de
-  justice.
+  justice
 owner: Tribunal de Nanterre et Service Pénitentiaire d'Insertion et de
   Probation du 92
 incubator: dinum
