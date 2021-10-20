@@ -1,8 +1,6 @@
 ---
 title: Info Parquet
-mission: Simplifier le quotidien des agents des administrations (hors services
-  de police et gendarmerie) qui saisissent le procureur de la République et des
-  personnels judiciaires qui reçoivent et traitent ces procédures
+mission: Faciliter la saisie du personnel judiciaire
 owner: Ministère de la Justice
 incubator: dinum
 contact: caroline-lucile.didier@beta.gouv.fr

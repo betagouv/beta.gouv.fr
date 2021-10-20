@@ -1,6 +1,6 @@
 ---
 title: Medlé
-mission: Permettre aux structures de médecine légale de consigner l'activité réalisée sur réquisition judiciaire et les personnels affectés
+mission: Consigner l'activité de la médecine légale réalisée sur réquisition judiciaire
 owner: Ministère des Solidarités et de la Santé
 sponsors:
     - name: Direction generale de l’offre de soins

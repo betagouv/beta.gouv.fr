@@ -1,7 +1,7 @@
 ---
 title: Pôle Emploi Action
-mission: Permettre aux candidats de s’inscrire à des rencontres de recrutement, adaptées à leur profil grâce à des suggestions personnalisées
-owner: Pôle emploi
+mission: Faciliter l'inscription à des rencontres de recrutement adaptées à son profil
+owner: Pôle Emploi
 sponsors:
   - name: Pôle Emploi
     acronym: PE

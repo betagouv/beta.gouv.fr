@@ -1,7 +1,6 @@
 ---
 title: Delta V
-mission: Permettre aux voyageurs arrivant en France de déclarer des marchandises
-  achetées à l'étranger
+mission: Déclarer des marchandises achetées à l'étranger en arrivant en France
 owner: Direction Générale des Douanes et Droits Indirects
 sponsors:
   - name: Direction Générale des Douanes et Droits Indirects

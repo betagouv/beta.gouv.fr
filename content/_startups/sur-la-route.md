@@ -1,6 +1,6 @@
 ---
 title: Sur la route !
-mission: Eviter les travaux sauvages sur les routes départementales
+mission: Éviter les travaux sauvages sur les routes départementales
 owner: Département du Pas-de-Calais
 sponsors: 
     - name: Département du Pas-de-Calais

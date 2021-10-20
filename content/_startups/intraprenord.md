@@ -1,6 +1,6 @@
 ---
 title: Intraprenord
-mission: Permettre aux usagers de trouver le bon interlocuteur au sein du département
+mission: Trouver le bon interlocuteur au sein du département
 owner: Département du Nord
 incubator: anct
 phases:

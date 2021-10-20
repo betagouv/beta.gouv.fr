@@ -1,7 +1,7 @@
 ---
-title: Ma Cantine EGAlim 🍴
-mission: Accompagner au mieux les acteurs de la restauration collective dans leur offre aux consommateurs pour une alimentation de qualité, saine et durable
-owner: direction générale de l'alimentation (DGAL)
+title: Ma Cantine
+mission: Accompagner les acteurs de la restauration collective pour proposer une alimentation de qualité, saine et durable
+owner: Direction générale de l'alimentation (DGAL)
 incubator: dinum
 phases:
     - name: investigation

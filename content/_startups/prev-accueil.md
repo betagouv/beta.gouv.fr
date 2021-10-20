@@ -1,6 +1,6 @@
 ---
 title: Prev' Accueil
-mission: Permettre aux familles en « situation de vulnérabilité et/ou de détresse » d’accéder à un dispositif d’accueil d’urgence d’enfant chez une assistante maternelle, sans lourdeur administrative, avec une possibilité de prise en charge financière.
+mission: Permettre aux familles en situation de vulnérabilité et/ou de détresse d’accéder à un dispositif d’accueil d’urgence d’enfant
 owner: Département du Val d'Oise
 incubator: anct
 phases:

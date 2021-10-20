@@ -1,8 +1,7 @@
 ---
 title: ESTIME
-mission: Soutenir la reprise d'activité des demandeurs d'emploi en leur
-  permettant de connaitre les ressources financières dont ils disposeront
-owner: Pôle emploi
+mission: Soutenir la reprise d'activité des demandeurs d'emploi en facilitant l'accès à l'information concernant les aides financières 
+owner: Pôle Emploi
 sponsors:
   - name: Pôle Emploi
     acronym: PE

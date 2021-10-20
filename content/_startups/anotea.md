@@ -1,7 +1,7 @@
 ---
 title: Anotea
-mission: Éclairer les personnes à la recherche d'une formation professionnelle en affichant les notes et commentaires des formations.
-owner: Pôle emploi
+mission: Éclairer les personnes à la recherche d'une formation professionnelle dans leur choix
+owner: Pôle Emploi
 sponsors: 
     - name: Pôle Emploi
       acronym: PE

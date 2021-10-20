@@ -1,7 +1,7 @@
 ---
 title: Zen
-mission: Aider les demandeurs d’emploi qui cumulent emploi et chômage à être payé le bon montant d’allocation chômage chaque mois
-owner: Pôle emploi
+mission: Aider les personnes cumulant emploi et chômage à être payé le bon montant d’allocation chômage
+owner: Pôle Emploi
 sponsors: 
     - name: Pôle Emploi
       acronym: PE

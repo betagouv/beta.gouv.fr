@@ -1,7 +1,7 @@
 ---
 title: Encyclopédie des métiers
-mission: Rendre accessible à tous les utilisateurs le nouveau référentiel ROME 4.0 de pôle-emploi pour permettre à tous d'accéder à des informations claires et pratiques sur les métiers et les compétences.
-owner: Pôle emploi
+mission: Faciliter l'accès à des informations claires et pratiques sur les métiers et les compétences
+owner: Pôle Emploi
 sponsors:
   - name: Pôle Emploi
     acronym: PE

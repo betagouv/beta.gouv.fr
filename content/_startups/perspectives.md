@@ -1,7 +1,7 @@
 ---
 title: Perspectives
-mission: Mettre en relation des candidats validés par la méthode de recrutement par simulation, avec des employeurs et des formations à la recherche de leurs aptitudes
-owner: Pôle emploi
+mission: Mettre en relation candidats et employeurs par la méthode de recrutement par simulation
+owner: Pôle Emploi
 sponsors: 
     - name: Pôle Emploi
       acronym: PE

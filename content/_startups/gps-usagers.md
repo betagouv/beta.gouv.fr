@@ -1,6 +1,6 @@
 ---
-title: GPS usagers
-mission: Orienter les usagers qui souhaitent joindre le département du Calvados vers le bon interlocuteur et le bon moyen de communication
+title: GPS Usagers
+mission: Orienter les usagers du Calvados vers le bon interlocuteur et le bon moyen de communication
 owner: Département du Calvados
 sponsors: 
     - name: département du Calvados

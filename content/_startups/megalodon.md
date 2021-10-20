@@ -1,6 +1,6 @@
 ---
 title: Megalodon
-mission: Faciliter la rédaction d'un CCTP (Cahier des clauses techniques particulières)
+mission: Faciliter la rédaction d'un cahier des clauses techniques particulières (CCTP)
 owner: Ministère des Armées
 incubator: fabnumdef
 phases:
