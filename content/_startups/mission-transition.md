@@ -1,5 +1,5 @@
 ---
-title: Mission Transition
+title: Mission Transition Ecologique
 mission: Faciliter la transition écologique des PME-ETI
 owner: Commissariat général au développement durable (CGDD)
 incubator: mtes
