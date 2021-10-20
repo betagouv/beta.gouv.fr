@@ -42,7 +42,7 @@ images:
 ---
 
 <br>
-**La prochaine session aura lieu le jeudi 17 novembre 2021. En présentiel au 20 avenue de Ségur, 75007 Paris**
+**La prochaine session aura lieu le mercredi 17 novembre 2021. En présentiel au 20 avenue de Ségur, 75007 Paris**
 <br>
 <br>
 <a href="https://startupdetat.typeform.com/to/nvaXq0my" class="fr-btn">Je m'inscris</a>
