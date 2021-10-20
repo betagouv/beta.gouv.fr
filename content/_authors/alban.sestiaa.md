@@ -1,14 +1,22 @@
 ---
 fullname: Alban Sestiaa
-role: Intrapreneur
 domaine: Intraprenariat
+role: Intrapreneur
 github: Alban-64
 missions:
   - start: 2020-01-01
-    end: 2021-06-30
+    end: 2022-02-28
     status: admin
     employer: Agglomération de Pau Béarn Pyrénées
 startups:
   - histologe
+competences:
+  - UI
+  - Développement Frontend
+  - Développement Backend
+  - Administration Système
+  - Gestion de Produit
+  - Administration Publique
+  - UX
 ---
-
+Responsable technique

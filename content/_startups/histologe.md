@@ -16,8 +16,12 @@ stats: true
 phases:
   - name: investigation
     start: 2019-09-01
+    end: 2020-02-01
   - name: construction
     start: 2020-02-01
+    end: 2020-07-01
+  - name: acceleration
+    start: 2020-07-01
 ---
 
 ## Problème investigué :

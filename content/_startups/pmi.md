@@ -2,7 +2,7 @@
 title: PMI
 mission: Résoudre les difficlutés rencontrées par les agents et les usagers de
   la Protection maternelle et infantile
-owner: Secrétaire d'État en charge de l'Enfance et des Famille
+owner: Secrétaire d'État en charge de l'Enfance et des Familles
 incubator: sgmas
 contact: cedric.cablan@ars.sante.fr
 phases:

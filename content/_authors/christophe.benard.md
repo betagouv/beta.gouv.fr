@@ -5,7 +5,7 @@ domaine: Développement
 github: ch-benard
 missions:
   - start: 2020-09-01
-    end: 2021-08-31
+    end: 2022-08-31
     status: admin
     employer: MTES
 startups:

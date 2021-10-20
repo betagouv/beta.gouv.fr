@@ -1,6 +1,6 @@
 ---
 roles: Economiste H/F
-open: true
+open: false
 junior: true
 date: 2021-10-04T14:59:23.105Z
 startup: la-bonne-alternance

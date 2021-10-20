@@ -1,15 +1,22 @@
 ---
 fullname: Thibault Desjardins
-role: Chargé de déploiement
 domaine: Déploiement
+role: Chargé de déploiement
 github: Tibo-aplus
 missions:
   - employer: octo
-    end: 2021-12-31
+    end: 2022-12-31
     start: 2019-10-01
     status: independent
 startups:
-  - place-des-entreprises
+  - histologe
 previously:
   - aplus
+  - place-des-entreprises
+  - conseiller-numerique
+badges:
+  - segur
+competences:
+  - Croissance
+  - Administration Publique
 ---
