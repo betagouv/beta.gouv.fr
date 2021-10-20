@@ -1,6 +1,6 @@
 ---
 title: Conseiller Numérique
-mission: Sur une durée de 2 ans, l’État finance la formation et le déploiement de 4 000 conseillers numériques
+mission: Former et déployer des conseillers numériques
 owner: Agence nationale de la cohésion des territoires
 sponsors:
     - name: Agence Nationale de la Cohésion des Territoires

@@ -1,7 +1,7 @@
 ---
 title: Memo
-mission: Vos candidatures en un clin d'oeil
-owner: Pôle emploi
+mission: Visualiser ses candidatures Pole Emploi en un clin d'oeil
+owner: Pôle Emploi
 sponsors: 
     - name: Pôle Emploi
       acronym: PE

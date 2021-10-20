@@ -1,6 +1,6 @@
 ---
 title: Tchap
-mission: Tchap, la messagerie instantanée, sécurisée et souveraine des agents publics.
+mission: Proposer une messagerie instantanée, sécurisée et souveraine aux agents publics
 owner: DINUM
 incubator: dinum
 contact: tchap@beta.gouv.fr
