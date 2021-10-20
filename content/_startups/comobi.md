@@ -1,6 +1,6 @@
 ---
-title: CoMobi (anciennement Lotocar)
-mission: Permettre aux personnes isolées de se déplacer sur les territoires peu denses grâce au covoiturage solidaire
+title: CoMobi (ex Lotocar)
+mission: Améliorer le déplacement des personnes isolées sur les territoires peu denses grâce au covoiturage solidaire
 owner: l'Incubateur des Territoires
 sponsors:
     - name: Agence pour la transition ecologique

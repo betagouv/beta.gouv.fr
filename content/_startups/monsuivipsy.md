@@ -1,6 +1,6 @@
 ---
-title: Monsuivipsy
-mission: Mieux connaître mes symptômes pour un meilleur accompagnement par mon médecin
+title: Mon Suivi Psy
+mission: Mieux connaître ses symptômes pour un meilleur accompagnement médical
 owner: Agence Régionale de Santé Ile-de-France
 incubator: sgmas
 link: https://monsuivipsy.fabrique.social.gouv.fr/

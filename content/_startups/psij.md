@@ -1,5 +1,5 @@
 ---
-title: PSIJ (Portail de Saisine de l'Identité Judiciaire)
+title: Portail de Saisine de l'Identité Judiciaire (PSIJ)
 mission: Systématiser la recherche d'indices et traces
 owner: Ministère de l'Intérieur
 incubator: lab-mi

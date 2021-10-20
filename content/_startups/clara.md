@@ -1,7 +1,7 @@
 ---
-title: Clara - Vos aides en un clic
-mission: Découvrir les aides et mesures Pôle emploi qui accélèrent la reprise d'activité.
-owner: Pôle emploi
+title: Clara
+mission: Découvrir les aides et mesures Pôle Emploi qui accélèrent la reprise d'activité
+owner: Pôle Emploi
 sponsors: 
     - name: Pôle Emploi
       acronym: PE

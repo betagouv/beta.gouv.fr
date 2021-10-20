@@ -1,5 +1,5 @@
 ---
-title: Administration+, le service public VIP pour tous
+title: Administration+
 mission: Résoudre les blocages administratifs inextricables
 owner: DINUM
 sponsors: 

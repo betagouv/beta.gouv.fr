@@ -1,5 +1,5 @@
 ---
-title: Zéro logement vacant
+title: Zéro Logement Vacant
 mission: Mobiliser les propriétaires de logements vacants
 owner: Direction générale de l'aménagement, du logement et de la nature (DGALN)
 sponsors:

@@ -1,13 +1,13 @@
 ---
-title: "Les emplois de l'inclusion (ITOU) "
-mission: "La réussite pour tous "
+title: "Emplois de l'inclusion (ITOU)"
+mission: "Favoriser la réussite pour tous"
 owner: Délégation générale à l'emploi et à la formation professionnelle
 sponsors:
   - name: Délégation générale à l'emploi et à la formation professionnelle
     acronym: DGEFP
     domaine_ministeriel: travail
     type: administration-centrale
-  - name: Pôle emploi
+  - name: Pôle Emploi
     domaine_ministeriel: travail
     type: operateur
 incubator: dinum

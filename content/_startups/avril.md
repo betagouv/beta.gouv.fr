@@ -1,7 +1,7 @@
 ---
-title: Avril - La V.A.E. facile
-mission: Obtenir un diplôme grâce à vos compétences
-owner: Pôle emploi
+title: Avril
+mission: Obtenir un diplôme par la VAE grâce à ses compétences
+owner: Pôle Emploi
 sponsors: 
     - name: Pôle Emploi
       acronym: PE

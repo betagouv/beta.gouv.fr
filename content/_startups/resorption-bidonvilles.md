@@ -1,5 +1,5 @@
 ---
-title: Résorption-bidonvilles
+title: Résorption Bidonvilles
 mission: Connaître, partager et agir pour résorber les bidonvilles
 owner: Délégation interministérielle à l'hébergement et à l'accès au logement (DIHAL)
 sponsors:

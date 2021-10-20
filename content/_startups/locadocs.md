@@ -1,5 +1,5 @@
 ---
-title: locadocs
+title: Locadocs
 mission: Simplifier l’accès aux documents publics
 owner: Ministère de la Culture
 incubator: culture
