@@ -7,7 +7,7 @@ sponsors:
     acronym: DGEFP
     domaine_ministeriel: travail
     type: administration-centrale
-  - name: Pôle Emploi
+  - name: Pôle emploi
     domaine_ministeriel: travail
     type: operateur
 incubator: dinum
@@ -65,7 +65,7 @@ phases:
   - name: acceleration
     start: 2020-07-10
 ---
-Aujourd'hui emplois.inclusion.beta.gouv.fr permet de mettre en relation des chercheurs d'emploi (aussi nommés candidats) auprès d'[employeurs solidaires](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/employeurs-solidaires) (entreprises, associations...). Les candidats peuvent également bénéficier de l'aide de [prescripteurs](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/prescripteurs-habilites) (Pôle Emploi, Missions locales, Cap Emploi...).
+Aujourd'hui emplois.inclusion.beta.gouv.fr permet de mettre en relation des chercheurs d'emploi (aussi nommés candidats) auprès d'[employeurs solidaires](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/employeurs-solidaires) (entreprises, associations...). Les candidats peuvent également bénéficier de l'aide de [prescripteurs](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/prescripteurs-habilites) (Pôle emploi, Missions locales, Cap Emploi...).
 
 ### Contexte
 

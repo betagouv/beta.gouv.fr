@@ -1,9 +1,9 @@
 ---
 title: La Bonne Formation
 mission: Rechercher une formation efficace pour le retour à l'emploi et découvrir les financements possibles
-owner: Pôle Emploi
+owner: Pôle emploi
 sponsors: 
-  - name: Pôle Emploi
+  - name: Pôle emploi
     acronym: PE
     domaine_ministeriel: travail
     type: operateur

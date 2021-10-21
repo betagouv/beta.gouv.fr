@@ -1,9 +1,9 @@
 ---
 title: Clara
-mission: Découvrir les aides et mesures Pôle Emploi qui accélèrent la reprise d'activité
-owner: Pôle Emploi
+mission: Découvrir les aides et mesures Pôle emploi qui accélèrent la reprise d'activité
+owner: Pôle emploi
 sponsors: 
-    - name: Pôle Emploi
+    - name: Pôle emploi
       acronym: PE
       domaine_ministeriel: travail
       type: operateur

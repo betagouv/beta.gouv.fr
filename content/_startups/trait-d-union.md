@@ -52,7 +52,7 @@ il teste sans risque des métiers à côté de chez lui dans des secteurs qui re
 
 ## Bilan des travaux à l'heure de la passation aux équipes de la région
 
-Grâce une première phase d'investigation, l'équipe a pu s'entretenir avec plus de 50 stagiaires, entreprises, formateurs et conseillers Pôle Emploi et mener une grande enquête auprès de plus de 2000 demandeurs d’emploi et 450 entreprises du Grand Est. Cette enquête a été suivie par l’organisation d’un atelier de co-construction réunissant autour d’une même table chacun de ces acteurs.
+Grâce une première phase d'investigation, l'équipe a pu s'entretenir avec plus de 50 stagiaires, entreprises, formateurs et conseillers Pôle emploi et mener une grande enquête auprès de plus de 2000 demandeurs d’emploi et 450 entreprises du Grand Est. Cette enquête a été suivie par l’organisation d’un atelier de co-construction réunissant autour d’une même table chacun de ces acteurs.
  
 Cette phase d’exploration a permis d'identifier un frein sous-estimé du retour à l’emploi : la méconnaissance du futur métier.
 En effet, 60% des stagiaires s’engageaient dans une formation sans connaître leur futur métier. Cette cohorte avait moins de chance de retrouver un emploi par la suite que les autres 40%.
@@ -81,7 +81,7 @@ Après un an, le partenariat entre la Région Grand Est et beta.gouv.fr prend fi
 - proposer une automatisation plus poussé du processus
 - mettre en place un espace de mise en ligne d’offres d’immersion pour les entreprises
 - développer la gestion de compte pour les demandeurs d’emploi
-- institutionaliser le partenariat avec Pôle Emploi
+- institutionaliser le partenariat avec Pôle emploi
 - ...
 
 Trait d’union est plus qu’un logiciel, c’est une plateforme inédite qui à tout son rôle à jouer pour réduire le chômage en France.

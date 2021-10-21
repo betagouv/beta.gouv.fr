@@ -1,9 +1,9 @@
 ---
 title: Encyclopédie des métiers
 mission: Faciliter l'accès à des informations claires et pratiques sur les métiers et les compétences
-owner: Pôle Emploi
+owner: Pôle emploi
 sponsors:
-  - name: Pôle Emploi
+  - name: Pôle emploi
     acronym: PE
     domaine_ministeriel: travail
     type: operateur
