@@ -9,11 +9,11 @@
       <div class="fr-col-lg-6">
           <h1 class="fr-mt-3w fr-mt-md-9w">{{ include.startup.title | escape }}</h1>
           {% if include.startup.link %}
-          <a href="{{ include.startup.link }}" title="{{ include.startup.title }}" class="fr-link fr-fi-external-link-line fr-link--icon-left">{{ include.startup.link }}</a>
-          {% endif %}
-          <p class="fr-mt-3w">
+          <p class="fr-mt-3w fr-h3">
             {{ include.startup.mission | escape }}
           </p>
+          <a href="{{ include.startup.link }}" title="{{ include.startup.title }}" class="fr-link fr-fi-external-link-line fr-link--icon-left">{{ include.startup.link }}</a>
+          {% endif %}
       </div>
       <div class="fr-col-12 fr-col-lg-5 fr-pl-0 fr-pl-md-4w fr-pb-0">
           <figure class="fr-content-media fr-my-0">
