@@ -222,6 +222,9 @@
   width: auto;
   margin: auto;
 }
+.section-blue .fr-card__img img.avatar-rounded {
+  border: 8px solid #fff;
+}
 
 /* Ajouter un modificateur de tags pour les rendre inactifs */
 a.fr-tag.fr-tag--inactive, button.fr-tag.fr-tag--inactive {
