@@ -96,6 +96,10 @@
   width: 100%;
 }
 
+.hero__startup__mission {
+  color: #4941C0;
+}
+
 /* Cette classe n'est plus utilisée que sur la home.html, supprimer lors de la refonte prochaine */
 
 .row {
