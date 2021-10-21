@@ -1,5 +1,5 @@
 ---
-title: RIM
+title: Culture RIM
 mission: Améliorer le suivi des réunions interministérielles
 owner : Ministère de la Culture
 incubator: culture
