@@ -96,11 +96,9 @@ Technologies utilisées : {{ page.techno | join: ", " }}
   {% if jobs[0] %}
     <div class="fr-container fr-py-6w">
       <h3>Postes ouverts</h3>
-      <ul>
-        {% for job in jobs %}
-          <li><a href="{{ job.url }}">{{ page.title }} recrute {{ job.roles | downcase }}.</a></li>
-        {% endfor %}
-      </ul>
+      {% for job in jobs %}
+        {% include card-job.html job=job startup=job.startup %}
+      {% endfor %}
     </div>
   {% endif %}
 
