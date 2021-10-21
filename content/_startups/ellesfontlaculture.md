@@ -1,6 +1,6 @@
 ---
 title: Elles font la Culture
-mission: Rendre visible les femmes de l'art et de la culture; aujourd'hui présentes mais sous-représentées dans le secteur, en commençant par la photographie
+mission: Rendre visible les femmes de l'art et de la culture
 owner: Ministère de la Culture
 incubator: culture
 phases:

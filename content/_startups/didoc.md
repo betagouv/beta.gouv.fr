@@ -1,6 +1,6 @@
 ---
 title: DIDOC
-mission: Dématérialisation des Invitations au Dépistage Organisé des Cancers
+mission: Dématérialiser les invitations au dépistage organisé des cancers
 owner: ARS Bourgogne-Franche-Comté et CRCDC Bourgogne-Franche-Comté
 sponsors:
     - name: Agence régionale de sante

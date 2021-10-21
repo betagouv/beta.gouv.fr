@@ -1,9 +1,9 @@
 ---
 title: Zen
-mission: Aider les demandeurs d’emploi qui cumulent emploi et chômage à être payé le bon montant d’allocation chômage chaque mois
+mission: Aider les personnes cumulant emploi et chômage à être payé le bon montant d’allocation chômage
 owner: Pôle emploi
 sponsors: 
-    - name: Pôle Emploi
+    - name: Pôle emploi
       acronym: PE
       domaine_ministeriel: travail
       type: operateur
@@ -42,7 +42,7 @@ Zen vous accompagne dans votre actualisation en prenant en compte votre situatio
 ## Recevoir le bon montant au bon moment
 
 Zen aide les demandeurs d’emploi avec plusieurs employeurs à être payé le bon montant d’allocation chômage chaque mois.
-Un tableau de bord permet de renseigner tout au long du mois son activité pour chaque employeur, Zen indique ensuite ce que l’on doit déclarer et quels documents il faut fournir à Pôle Emploi.
+Un tableau de bord permet de renseigner tout au long du mois son activité pour chaque employeur, Zen indique ensuite ce que l’on doit déclarer et quels documents il faut fournir à Pôle emploi.
 
 
 **Avec Zen, fini les trop-perçus**

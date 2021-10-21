@@ -1,6 +1,6 @@
 ---
 title: Delphes
-mission: Améliorer l'échange d'informations entre l'administration et les entreprises qui exploitent des précurseurs chimiques
+mission: Améliorer l'échange entre administration et entreprises exploitant des précurseurs chimiques
 owner: Ministère de l'économie, des finances et de la relance - Direction générale des entreprises (DGE)
 incubator: bercy
 phases:

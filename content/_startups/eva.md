@@ -1,6 +1,6 @@
 ---
-title: eva (anciennement Compétences pro)
-mission: Favoriser l’insertion en détectant les compétences transversales et valorisant les potentiels à travers un outil de mise en situation numérique
+title: eva (ex Compétences pro)
+mission: Favoriser l’insertion en détectant les compétences transversales et valorisant les potentiels
 
 owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi - DGEFP
 sponsors: 

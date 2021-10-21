@@ -1,8 +1,6 @@
 ---
 title: Métiers Numériques
-mission: Accompagner les ministères à promouvoir ce qu’est le numérique au sein
-  de l’État,  renforcer leur attractivité et faciliter le recrutement de
-  talents.
+mission: Accompagner les ministères à la promotion du numérique pour faciliter le recrutement
 owner: DINUM
 sponsors:
   - name: Direction interministérielle du numérique

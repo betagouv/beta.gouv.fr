@@ -1,6 +1,6 @@
 ---
 title: Culture chez Nous
-mission: Avec Culture chez Nous, la Culture vient à vous !
+mission: Apporter la culture chez les citoyens et citoyennes
 owner: Ministère de la Culture
 incubator: culture
 phases:

@@ -1,6 +1,6 @@
 ---
 title: Données et territoires
-mission: Permettre de structurer, mutualiser et produire des données referenciels territorialisées
+mission: Structurer, mutualiser et produire des données referenciels territorialisées
 owner: l'Agence nationale de la cohésion des territoires
 sponsors:
     - name: l'Agence nationale de la cohésion des territoires

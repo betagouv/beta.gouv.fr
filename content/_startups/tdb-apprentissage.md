@@ -37,7 +37,7 @@ Le tableau de bord Apprentissage propose de se brancher sur les systèmes de ges
 
 Ces données sont agrégées et ensuite mises à disposition des acteurs de l’apprentissage :
 - Les CFA et leurs réseaux ;
-- Les membres du service public de l’emploi (SPE) : Pôle Emploi, Mission Locale, DRETS… ;
+- Les membres du service public de l’emploi (SPE) : Pôle emploi, Mission Locale, DRETS… ;
 - Les comités de pilotage régionaux : Conseil régionaux, Plan 1 jeune 1 solution…
 - La Plateforme de Suivi et d’Appui aux Décrocheurs ;
 - Les administrations compétentes des Ministères du Travail, de l’Education Nationale, de l’Enseignement Supérieur, de l’Agriculture….

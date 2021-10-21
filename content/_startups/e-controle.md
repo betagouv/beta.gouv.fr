@@ -1,6 +1,6 @@
 ---
 title: E-contrôle
-mission: Simplifier les échanges de documents entre un organisme de contrôle et les organisations contrôlées.
+mission: Simplifier les échanges de documents entre un organisme de contrôle et les organisations contrôlées
 owner: Cour des comptes
 sponsors: 
     - name: Cour des Comptes

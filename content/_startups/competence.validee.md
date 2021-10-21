@@ -22,7 +22,7 @@ Les conseillers Pôle emploi utilisent une base de données de profils qui n'est
 
 ## Solution
 
-Compétence Validée propose à des demandeurs d'emploi d'autoriser Pôle emploi à contacter leur ancien employeur pour demander une validation de compétences, sur un métier de leur choix. L'ancien employeur peut valider une ou plusieurs compétences. La mise en visibilité de ces compétences validées (avec date et origine de la validation) permet d'assurer la confiance des conseillers Pôle Emploi, et des recruteurs.
+Compétence Validée propose à des demandeurs d'emploi d'autoriser Pôle emploi à contacter leur ancien employeur pour demander une validation de compétences, sur un métier de leur choix. L'ancien employeur peut valider une ou plusieurs compétences. La mise en visibilité de ces compétences validées (avec date et origine de la validation) permet d'assurer la confiance des conseillers Pôle emploi, et des recruteurs.
 
 ## Stratégie
 

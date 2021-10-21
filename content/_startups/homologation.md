@@ -1,7 +1,5 @@
 ---
-mission: Mon Service Sécurisé, est un service numérique pour aider, pas à pas,
-  les entités publiques à sécuriser leurs services numériques et à les faire
-  homologuer selon une approche adaptée aux services les plus courants.
+mission: Faciliter la sécurisation et l'homologation des services numériques
 incubator: lab-innov-anssi
 link: https://www.monservicesecurise.beta.gouv.fr
 repository: https://github.com/betagouv/mon-service-securise

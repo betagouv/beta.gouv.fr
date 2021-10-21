@@ -1,5 +1,5 @@
 ---
-title: "La communauté de l'inclusion (ITOU)"
+title: "Communauté de l'inclusion (ITOU)"
 mission: Faciliter les échanges entre acteurs de l’inclusion
 owner: Ministère du Travail, de l'Emploi et de l'Insertion, ITOU
 sponsors:

@@ -29,7 +29,7 @@ bassin minier et Roubaix-Tourcoing ou le Nord du littoral). Les seconds accèden
 
 ### Il est difficile de s’y retrouver parmi les aides au permis de conduire et leurs modalités :
 - Des aides nombreuses et souvent territorialisées :
-  - par l’Etat (500 € pour les apprentis, aide Pôle Emploi régie au niveau régional et aide
+  - par l’Etat (500 € pour les apprentis, aide Pôle emploi régie au niveau régional et aide
 soumise au fonds disponibles) ;
   - par la Région avec le prêt de 1000 € (APC) ;
   - par des départements ;

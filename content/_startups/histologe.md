@@ -1,6 +1,6 @@
 ---
 title: Histologe
-mission: Faciliter le signalement et accélérer la prise en charge du « mal logement »
+mission: Faciliter le signalement et accélérer la prise en charge du mal logement
 owner: Direction de l'Habitat, de l'Urbanisme et des Paysages (DHUP)
 sponsors:
   - name: ANCT / DHUP / DINUM

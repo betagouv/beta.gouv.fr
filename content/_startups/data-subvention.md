@@ -1,6 +1,6 @@
 ---
 title: Data.Subvention
-mission: Mieux piloter les subventions de l’Etat aux associations et simplifier
+mission: Améliorer le pilotage des subventions de l’État des associations et simplifier
   leurs démarches
 owner: Direction de la jeunesse, de l'éducation populaire et de la vie associative
 incubator: dinum

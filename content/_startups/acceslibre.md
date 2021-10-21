@@ -1,6 +1,6 @@
 ---
 title: Acceslibre
-mission: La plateforme collaborative pour l’accessibilité
+mission: Collecter et partager les données d'accessibilité des établissements publics
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
 link: https://acceslibre.beta.gouv.fr

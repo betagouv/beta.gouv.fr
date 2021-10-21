@@ -1,6 +1,6 @@
 ---
 title: Permis de construire facile
-mission: Déposez et gérez votre demande de permis de construire en toute simplicité
+mission: Déposer et gérer une demande de permis de construire simplement
 owner: Ministère de la Transition écologique et solidaire
 sponsors:
     - name: Direction generale de l'Amenagement, du Logement et de la Nature / Direction de l'habitat, de l'urbanisme et des paysages

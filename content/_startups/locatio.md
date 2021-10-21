@@ -1,5 +1,5 @@
 ---
-title: DossierFacile
+title: Dossier Facile
 mission: Remettre la confiance au centre de la relation entre propriétaires et locataires
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 sponsors:
