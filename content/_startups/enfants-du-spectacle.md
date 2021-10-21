@@ -38,6 +38,7 @@ L'application répondra aux besoins suivants:
 - Dépôt dématérialisé des dossiers de demande d’autorisation d’emploi d’enfants
 - Gestion de la procédure d’instruction, accès des administrations et services y participant aux pièces du dossier les concernant, formalisation des avis, présentation des dossiers à la commission
 - Notification des décisions au demandeur et aux autres administrations intéressées
+
 Une attention particulière sera apportée à la protection des données, d’autant plus qu’une partie de celles-ci concernent des enfants.
 
 ## Objectifs
