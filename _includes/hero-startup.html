@@ -6,7 +6,7 @@
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="{% if screenshot_file %}fr-col-lg-6{% endif %}">
-          <h1 class="fr-mt-3w fr-mt-md-9w">{{ include.startup.title | escape }}</h1>
+          <h1>{{ include.startup.title | escape }}</h1>
           {% if include.startup.link %}
           <p class="hero__startup__mission fr-mt-3w fr-h3">
             {{ include.startup.mission | escape }}
