@@ -7,7 +7,7 @@ sponsors:
     name: Ministère du Travail, de l'Emploi et de l'Insertion
     type: administration-centrale
 incubator: sgmas
-contact: immersionfacile@beta.gouv.fr
+contact: nathalie.reyre@beta.gouv.fr
 phases:
   - name: construction
     start: 2021-07-16
