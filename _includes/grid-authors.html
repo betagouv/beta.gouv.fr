@@ -46,7 +46,7 @@
 
 
 <div class="fr-container">
-    <h2 id="equipe">L'équipe actuelle</h2>
+    <h2 id="equipe">L'équipe</h2>
     <div class="fr-grid-row fr-grid-row--gutters">
       {{ current_team }}
     </div>
@@ -54,7 +54,7 @@
 
 {%- if past_team != "" -%}
 <div class="fr-container fr-py-6w">
-  <button class="fr-btn fr-btn--secondary" onclick="toggle_visibility('startup-alumni');">Voir les anciens</button>
+  <button class="fr-btn" onclick="toggle_visibility('startup-alumni');">Voir les anciens</button>
   <div id="startup-alumni" style="display:none;">
     <h2>Les anciennes et les anciens</h2>
     <div class="fr-grid-row fr-grid-row--gutters">

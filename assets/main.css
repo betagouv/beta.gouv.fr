@@ -96,6 +96,10 @@
   width: 100%;
 }
 
+.hero__startup__mission {
+  color: #4941C0;
+}
+
 /* Cette classe n'est plus utilisée que sur la home.html, supprimer lors de la refonte prochaine */
 
 .row {
@@ -137,7 +141,7 @@
 
 /* Couleurs de sections et espacemements */
 .section-grey {
-  background-color: #ebeff3;
+  background-color: #E9E6FC;
 }
 
 .section-dark {
@@ -217,6 +221,9 @@
   border-radius: 50%;
   width: auto;
   margin: auto;
+}
+.section-blue .fr-card__img img.avatar-rounded {
+  border: 8px solid #fff;
 }
 
 /* Ajouter un modificateur de tags pour les rendre inactifs */
