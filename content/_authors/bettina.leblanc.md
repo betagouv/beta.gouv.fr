@@ -1,13 +1,16 @@
 ---
 fullname: Bettina Leblanc
-role: Chargée de déploiement
 domaine: Déploiement
+role: Chargée de déploiement
 github: bettinalbc
 missions:
   - start: 2020-09-17
-    end: 2021-06-30
-    status: admin
-    employer: DGALN
+    end: 2022-12-30
+    status: independent
+    employer: "Octo "
 startups:
   - aides-territoires
+competences:
+  - Communication
 ---
+Chargée de déploiement le jour, illustratrice et rugbywoman la nuit
