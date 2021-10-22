@@ -3,6 +3,9 @@ title: Innovation Urbaine
 mission: Favoriser la mise en place de solutions d'innovation urbaine
 owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
+events:
+  - name: end
+    date: 2021-02-01
 phases:
   - name: investigation
     start: 2020-09-08
