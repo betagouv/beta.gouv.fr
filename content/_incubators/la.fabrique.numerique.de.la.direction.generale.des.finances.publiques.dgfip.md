@@ -1,7 +1,7 @@
 ---
 title: La Fabrique numérique de la Direction générale des Finances publiques (DGFiP)
 owner: Laurent Charpentier
-website: "http://dtnum.intranet.dgfip "
+website: https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_1319695
 github: Maxine Sabater
 contact: "laurent.charpentier@dgfip.finances.gouv.fr "
 address: "Délégation à la transformation numérique (DTNum) - 12 Boulevard du
