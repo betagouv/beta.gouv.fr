@@ -13,7 +13,7 @@ missions:
     status: independent
     employer: OCTO Technology
   - start: 2020-05-01
-    end: 2022-06-31
+    end: 2022-06-30
     status: independent
     employer: ut7
 github: bguerout
