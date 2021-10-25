@@ -11,7 +11,11 @@ missions:
     status: independent
   - employer: La Zone
     start: 2021-09-01
-    end: 2021-11-30
+    end: 2021-11-12
+    status: independent
+  - employer: BeNext
+    start: 2021-11-15
+    end: 2021-12-31
     status: independent
 startups:
     - inca
