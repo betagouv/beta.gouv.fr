@@ -1,6 +1,6 @@
 ---
 roles: Responsable Produit
-open: true
+open: false
 date: 2021-09-15T07:09:20.269Z
 startup: histologe
 ---
