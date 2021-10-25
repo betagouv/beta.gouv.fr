@@ -1,6 +1,6 @@
 ---
 title: La Fabrique numérique de la Direction générale des Finances publiques (DGFiP)
-owner: Laurent Charpentier
+owner: DGFiP
 website: https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_1319695
 github: maxinesabater
 contact: "laurent.charpentier@dgfip.finances.gouv.fr "
