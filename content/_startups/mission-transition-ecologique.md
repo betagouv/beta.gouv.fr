@@ -14,6 +14,7 @@ link:
 repository:
 redirect_from:
   - /startups/france-transition-ecologique
+  - /startups/mission-transition
 stats: false
 contact: france-transition@beta.gouv.fr
 ---
