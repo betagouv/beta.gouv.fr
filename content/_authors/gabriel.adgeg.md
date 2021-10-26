@@ -5,7 +5,7 @@ domaine: Développement
 github: adgeg
 missions:
   - start: 2021-07-15
-    end: 2021-10-15
+    end: 2022-04-12
     status: service
     employer: Octo
 startups:
