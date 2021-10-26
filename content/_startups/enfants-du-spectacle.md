@@ -1,6 +1,6 @@
 ---
 title: Enfants Du Spectacle
-mission: simplifier les demandes d’emploi, renforcer la protection des enfants
+mission: Simplifier les demandes d’emploi pour renforcer la protection des enfants
 owner: DRIEETS d’Île-de-France
 incubator: sgmas
 contact: enfantsduspectacle@fabrique.gouv.social.fr
@@ -14,7 +14,7 @@ phases:
     start: 2021-07-01
 ---
 
-## Le Contexte
+## Le contexte
 
 Chaque année, plus de 13 000 demandes d’autorisation d’emploi pour des enfants du spectacle sont déposées dans la région Île-de-France. Les domaines concernés sont le cinéma, la télévision, la radio, le spectacle vivant et l’e-sport.
 
@@ -32,7 +32,7 @@ Deux problématiques ont été identifiées :
 
 ## Le projet
 
-La mise en place d’un service unique d’instruction s’accompagnera d’une nouvelle application de gestion numérique, permettant une gestion simplifiée et accélérée de la procédure d’instruction et une meilleure information et communication auprès des demandeurs, des familles et du public sur l’emploi des enfants du spectacle.
+La mise en place d’un service unique d’instruction s’accompagnera d’une nouvelle application de gestion numérique. La procédure d'instruction sera alors plus rapide et plus simple à gérer. Les demandeurs, familles et employeurs des enfants du spectacle seront mieux informés.
 
 Une attention particulière sera apportée à la protection des données des enfants.
 
