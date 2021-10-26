@@ -1,5 +1,5 @@
 ---
-title: Mission Transition
+title: Mission Transition Ecologique
 mission: Faciliter la transition écologique des PME-ETI
 owner: Commissariat général au développement durable (CGDD)
 incubator: mtes
@@ -14,6 +14,7 @@ link:
 repository:
 redirect_from:
   - /startups/france-transition-ecologique
+  - /startups/mission-transition
 stats: false
 contact: france-transition@beta.gouv.fr
 ---

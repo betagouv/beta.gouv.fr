@@ -13,7 +13,7 @@ startups:
   - zero-logement-vacant
   - docurba
 previously:
-  - mission-transition
+  - mission-transition-ecologique
   - domifa
   - tremplin
   - conseau
