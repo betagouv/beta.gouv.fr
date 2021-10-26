@@ -9,6 +9,7 @@ missions:
     employer: Octo
 startups:
   - chauffage-urbain
+  - enfants-du-spectacle
 ---
 
 Coach startup, outils no-code, spécialiste du numérique durable et responsable.

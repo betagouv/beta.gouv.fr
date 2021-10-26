@@ -14,6 +14,8 @@ missions:
   - start: 2021-10-20
     end: 2022-04-01
     status: independent
+startups:
+  - enfants-du-spectacle
 previously:
   - lapins
   - codedutravail
