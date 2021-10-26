@@ -41,7 +41,7 @@ Une attention particulière sera apportée à la protection des données des enf
 Les agents instructeurs bénéficieront de la plateforme :
 
 -	**Économie du temps de saisie** des dossiers de demande
--	**Meilleure instruction des dossiers** grâce à une plateforme adaptée aux besoins.
+-	**Meilleure instruction des dossiers** grâce à une plateforme adaptée aux besoins
 -	**Meilleur suivi** des flux de traitement
 -	**Travail en équipe**, dans un cadre pluridisciplinaire
 
