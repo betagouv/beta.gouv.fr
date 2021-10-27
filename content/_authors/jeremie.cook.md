@@ -3,6 +3,7 @@ fullname: Jérémie Cook
 role: UX Designer
 avatar:
 link: https://jeremiecook.com
+github: jeremiecook
 missions:
   - start: 2018-07-10
     end: 2019-07-01
@@ -13,12 +14,13 @@ missions:
     status: independent
 startups:
   - enfants-du-spectacle
-  - classe-a-12
   - ozensemble
   - monsuivipsy
-  - preuve-de-covoiturage
+  - domifa
 previously:
   - codedutravail
   - mes-aides
+  - preuve-de-covoiturage
+  - classe-a-12
 domaine: Design
 ---
