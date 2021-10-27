@@ -9,8 +9,9 @@ missions:
     end: 2021-12-31
     status: independent
 startups:
-  - aides.jeunes
   - pass-emploi
+previously:
+  - aides.jeunes
 ---
 
 UI/UX Designer freelance depuis 3 ans.
