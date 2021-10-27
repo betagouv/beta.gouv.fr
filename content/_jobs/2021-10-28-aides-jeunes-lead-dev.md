@@ -109,6 +109,6 @@ Points bonus pour :
 - Temps partiel accepté (80 % minimum).
 - Démarrage dès que possible.
 
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à aides-jeunes@beta.gouv.fr. 
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à [aides-jeunes@beta.gouv.fr](mailto:aides-jeunes@beta.gouv.fr?subject=Recrutement lead dev)
 
 À bientôt ! 😀
