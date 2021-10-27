@@ -9,12 +9,21 @@ L'équipes [Aides-Jeunes](https://beta.gouv.fr/startups/aides.jeunes.html) reche
 
 <!--more-->
 
+<style type="text/css">
+p {
+      margin: 1.5rem 0 0 0;
+}
 
-## Le produit, en 3 parties :grinning: 
+h2, h3 {
+      margin: 3rem 0 1rem 0;
+}
+</style>
+
+## Le produit, en 3 parties 😁
 
 Demandé par le Premier Ministre en février 2021, le simulation d'aides pour les jeunes a été [officiellement mis en ligne](https://twitter.com/JeanCASTEX/status/1387065585859715074) à la fin de mois d'avril 2021. Cela a été possible en capitalisant sur de nombreux apprentissages (depuis 2014) et sur la base de code de [Mes Aides](https://beta.gouv.fr/startups/mes-aides.html).
 
-### 1 - Un simulateur à destination des jeunes
+### 1 - Un simulateur à destination des jeunes 📱🖥
 
 Avant tout, l'équipe est responsable d'amélioration continue et de la qualité de service du simulateur [accessible en ligne](https://mes-aides.1jeune1solution.beta.gouv.fr/). Ce simulateur, en VueJS, est utilisé par des milliers de personnes par jour et est régulièrement enrichi de nouvelles aides et dispositifs. Nous le mettons à jour quotidiennement en fonction des retours des usagers.
 
@@ -24,7 +33,7 @@ Ressources :
 - [OPS](https://github.com/betagouv/aides-jeunes-ops/) (Python, Fabric)
 
 
-### 2 - Un moteur de calculs pour modéliser les aides complexes
+### 2 - Un moteur de calculs pour modéliser les aides complexes 🛠
 
 Ce simulateur repose sur le moteur de calculs [OpenFisca](https://openfisca.org/) pour l'évaluation aux différentes éligibilités et pour l'estimation des montants des aides complexes.
 
@@ -35,7 +44,7 @@ Les dépôts :
 - Un outil d'analyse des étapes de calculs pour faciliter la résolution de bugs [le tracer](https://github.com/openfisca/tracer/) (nextJS)
 
 
-### 3 - Un outil de contribution pour notamment modéliser des aides plus simples
+### 3 - Un outil de contribution pour notamment modéliser des aides plus simples 📝
 
 L'équipe a pour ambition d'enrichir le simulateur de nombreuses aides, notamment celles qui existent à l'échelle locale. Pour cela, nous expérimentons la possibilité de modéliser des aides plus simples, uniquement à partir d'un outil en ligne. Initialement prévu pour le contenu éditorial (les textes, les liens, etc.), nous testons l'ajout de champs permettant la modélisation des critères d'éligibilité.
 
