@@ -5,7 +5,7 @@ date: 2021-10-28
 startup: aides.jeunes
 ---
 
-L'équipes [Aides-Jeunes](https://beta.gouv.fr/startups/aides.jeunes.html) recherche une ou un lead dev pour contribuer à l'enrichissement du simulateur d'aides pour les jeunes, à son amélioration continue tout en assurant la pérennité de sa base de code.
+L'équipe [Aides-Jeunes](https://beta.gouv.fr/startups/aides.jeunes.html) recherche une ou un lead dev pour contribuer à l'enrichissement du simulateur d'aides pour les jeunes, à son amélioration continue tout en assurant la pérennité de sa base de code.
 
 <!--more-->
 
