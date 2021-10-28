@@ -25,6 +25,7 @@ Au sein de l’équipe de la startup d'État Territoires en Transitions.  La mis
 - Mettre en œuvre une analyse de sécurité du produit. 
 - Être garant de la bonne documentation du produit sur le plan fonctionnel et technique.
 
+
 ## Profil
 Diplômé d'une formation Bac+5 (Type Informatique/Gestion de projets, marketing numérique…), vous disposez impérativement d’une expérience professionnelle de 3 à 5 ans sur la conduite de projets numérique, vous permettant une parfaite autonomie.
 
@@ -45,4 +46,4 @@ Poste à pourvoir à Angers ou à Montrouge, en CDD longue durée (18 à 36 mois
 Rémunération selon profil.
 
 ## Contact
-Adresser vos candidatures à [lena.baaffa@ademe.fr](maito:lena.baaffa@ademe.fr?subject=Recrutement Product Owner - Territoires en Transitions)
+Adresser vos candidatures à [lena.baaffa@ademe.fr](mailto:lena.baaffa@ademe.fr?subject=Product Owner Territoires en Transitions)
