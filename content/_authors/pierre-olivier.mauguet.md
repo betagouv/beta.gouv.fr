@@ -10,7 +10,7 @@ missions:
     start: 2019-03-11
     status: independent
 startups:
-  - egapro
+  - egalite.professionnelle
 previously:
   - signalement
   - medle
