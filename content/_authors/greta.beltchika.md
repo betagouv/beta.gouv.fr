@@ -1,5 +1,5 @@
 ---
-fullname: GRETA BELTCHIKA
+fullname: Greta Beltchika
 role: Chargée de déploiement
 domaine: Déploiement
 missions:
