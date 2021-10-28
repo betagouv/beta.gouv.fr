@@ -5,7 +5,7 @@ domaine: Développement
 github: cedricr
 missions:
   - start: 2021-06-21
-    end: 2021-10-31
+    end: 2022-04-30
     status: independent
     employer: Octo
 startups:
