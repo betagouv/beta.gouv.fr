@@ -1,6 +1,6 @@
 ---
 fullname: Bernard QUACH
-role: Intrapreneur Mes ADS
+role: Intrapreneur Mes ADS / Entrepreneur associé le.taxi
 domaine: Intraprenariat
 link: https://www.linkedin.com/in/bernardquach/
 github: bernardletaxi
@@ -10,6 +10,7 @@ missions:
     status: admin
 startups:
   - mesads
+  - le-taxi
 badges:
   - segur
 ---
