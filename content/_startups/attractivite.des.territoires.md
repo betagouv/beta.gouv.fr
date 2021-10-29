@@ -32,8 +32,6 @@ Ainsi, le CDL peut être amené à dispenser **plusieurs types de conseils** en 
 
 La mise en place de ce nouvel interlocuteur doit permettre d’offrir des **prestations sur-mesure** adaptées au plus près des besoins de chaque collectivité, tout en facilitant la prise de contact et une réactivité accrue grâce à un interlocuteur privilégié pour l'élu local.
 
-
-
 ## Problème
 
 Entre les mois de juillet et octobre 2021, la phase d’investigation a permis de démontrer que : 
@@ -52,8 +50,6 @@ L’attention a volontairement été portée sur l’échelon communal, et plus 
 
 Il est ressorti de l’enquête estivale menée auprès des conseillers aux décideurs locaux que plus de la moitié des projets d’investissement étaient déjà en phase de finalisation budgétaire, ou en cours de réalisation, parfois même sans visibilité sur la pérennité financière du projet, lorsque qu’ils étaient sollicités par les élus ! Couplée aux inégalités de ressources entre collectivités, la sollicitation tardive ou l’absence de sollicitation des services de la DGFiP entrave fortement la dynamique d’aménagement et d’attractivité des territoires. 
 
-
-
 ## Solution
 
 La solution « **Attractivité des territoires** » se propose de mettre à la portée des conseillers aux décideurs locaux des outils intelligibles, visuels et prospectifs visant renforcer l’efficacité et la crédibilité de leur action auprès des élus locaux, et ce à chaque étape des projets d’investissement des collectivités. 
@@ -62,8 +58,6 @@ Cette solution ambitieuse, qui se veut collaborative et intégrée, doit permett
 
 1. Fournir aux CDL des outils d’un genre nouveau (data visualisation, cartographie, etc.) pour répondre simplement et rapidement aux besoins criants des petites et très petites collectivités en termes d’assistance budgétaire, comptable, fiscale, patrimoniale et juridique ; 
 2. Positionner le réseau des CDL, et plus largement la DGFiP, comme des interlocuteurs incontournables du conseil et de l’accompagnement dans une perspective renouvelée par rapport à l’action régalienne historique en lien avec l’exécution budgétaire. 
-
-
 
 ## Calendrier de réalisation
 
@@ -77,16 +71,12 @@ Cette période sera notamment l’occasion de préciser les connexions à établ
 
 ![Calendrier de réalisation_Attractivité des territoires_Caroline DELORME](/img/netlifycms/calendrier.de.re.alisation_attractivite.des.territoires_caroline.delorme.png "Calendrier de réalisation_Attractivité des territoires_Caroline DELORME")
 
-
-
 Les éléments développés dans le cadre de la solution ont vocation à être mis en ligne dans : 
 
 * Un **portail externe** d’information et de simulation dédié aux collectivités et accessible sur internet ; 
 * Un **portail métier DGFiP** regroupant l’ensemble des outils développés à destination des CDL. 
 
-
-
-## Mesures d'impact (à consolider) 
+## Mesures d'impact (à consolider)
 
 * Taux d’acceptation des projets d’investissement des collectivités ; 
 * Sondages de satisfaction auprès des collectivités, élus locaux et CDL ; 
