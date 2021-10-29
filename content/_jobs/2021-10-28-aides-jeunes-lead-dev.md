@@ -84,7 +84,7 @@ Pour vous donner une idée des travaux en cours, vous pouvez jeter un coup d'oei
 
 Un temps d'échange est organisé toutes les deux semaines avec notre sponsor, suivi d'une priorisation d'équipe.
 
-Aujourd'hui constituée de 2 personnes (Antoine - dev et Thomas - PO), l'équipe va s'agrandir pour accueillir une personne au rôle de lead dev et d'un binôme (dev et accompagnement/bizdev) pour avancer plus spécifiquement sur la partie contribution.
+Aujourd'hui constituée de 2 personnes (Antoine - dev qui travaille de Lille et Thomas - PO qui travaille de Strasbourg), l'équipe va s'agrandir pour accueillir une personne au rôle de lead dev et d'un binôme (dev et accompagnement/bizdev) pour avancer plus spécifiquement sur la partie contribution.
 
 De plus, il est aussi envisagé de recruter sur des temps plus courts, une personne avec un focus design/dev front pour améliorer la hiérarchisation de l'information et ainsi que l'alignement des composants graphiques.
 
@@ -105,7 +105,7 @@ Points bonus pour :
 ## Conditions
 
 - Poste ouvert pour un·e indépendant·e.
-- Télétravail partiel possible, avec une présence ponctuelle à Paris (20 avenue de Ségur, 75007).
+- Télétravail possible, avec une présence ponctuelle à Paris (20 avenue de Ségur, 75007).
 - Temps partiel accepté (80 % minimum).
 - Démarrage dès que possible.
 
