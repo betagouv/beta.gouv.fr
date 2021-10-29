@@ -5,7 +5,7 @@ role: Coach
 github: thomasesk
 missions:
   - start: 2021-04-14
-    end: 2021-10-30
+    end: 2021-11-30
     status: independent
     employer: NUMA
 competences:
