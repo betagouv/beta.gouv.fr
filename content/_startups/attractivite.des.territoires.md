@@ -11,7 +11,7 @@ sponsors:
     domaine_ministeriel: autres
 incubator: fabrique-dgfip
 contact: dtnum.culture-numerique.Innover@dgfip.finances.gouv.fr
-stats: false
+stats: true
 events: []
 phases:
   - name: construction
