@@ -4,7 +4,7 @@ role: Chargé de déploiement auprès des CFA
 domaine: Déploiement
 missions:
   - start: 2021-09-01
-    end: 2021-12-31
+    end: 2021-10-20
     status: admin
     employer: pole-emploi
 startups:
