@@ -4,14 +4,12 @@ open: true
 date: 2021-11-02T08:52:29.077Z
 startup: metiers-numeriques
 ---
-Voici un exemple de format - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️. Pour t'aider dans la rédaction de ta fiche produit, tu peux t'inspirer des dernières offres disponibles sur le [site de beta](https://beta.gouv.fr/recrutement/) et nous te recommandons de suivre ce plan:
-
-## Le contexte Quel est le contexte de ta Startup d'Etat ?
+## Le contexte :
 
 Pour accélérer sa transformation numérique, l’Etat doit pouvoir compter sur des professionnels aguerris. Or dans un contexte de marché de l’emploi fortement concurrentiel, il est fondamental pour l’Etat, de renforcer sa notoriété et son attractivité comme employeur dans ce domaine. 
 Pour y répondre, nous avons initié une start-up d'Etat metiers.numerique ( https://beta.gouv.fr/startups/metiers-numeriques.html) qui vise à valoriser les entités numériques de l'Etat et à diffuser leurs offres d'emplois numérique. 
 
-## Le produit (ou la solution) Quelle est la cible ? A quoi ça sert ?
+## Le produit :
 
 La solution proposée,metiers.numerique.gouv.fr, est plus qu’un simple site internet ! 
 
@@ -20,7 +18,7 @@ La solution proposée,metiers.numerique.gouv.fr, est plus qu’un simple site in
 
 \##L'équipe est composée d'une intrapreneuse et d’une PO et bénéficie de l'appui de la BIN et d'un designer transverse
 
-## La mission Quelles seront les missions attendues ?
+## La mission :
 
 Une première version de l'outil a été développée pendant les derniers mois et il s'agit maintenant d'assurer:
 
@@ -31,18 +29,13 @@ Une première version de l'outil a été développée pendant les derniers mois 
   \-dashboard pour les ministères: gestion de compte, dépots d'offres d'emplois, consultation de KPIs, des candidatures spontanées...
 
   \-dashboard candidats: dépôt d'une candidature spontanée, gestion de ses données personnelles. 
-
-
-
 * Stack
 
   \- Back: Nodejs, Express
 
   \- Front: Javascript, ejs
 
-
-
-## Les savoir-être de la personne recherchée Quels sont les savoir-être indispensable pour bosser avec ton équipe ?
+## Les savoir-faire de la personne recherchée : 
 
 On recherche une personne ayant:
 
@@ -51,13 +44,13 @@ On recherche une personne ayant:
 * Des connaissances basiques en DevOps (heroku, git…)
 * Travaillant en mode agile
 * Gestion de la roadmap produit (en lien avec une PO)
-*  Rédaction des Users Stories (en lien avec une PO)
+* Rédaction des Users Stories (en lien avec une PO)
 * Priorisation du backlog (en lien avec une PO)
 * Gestion des sprints (en lien avec une PO)
 * Autonome dans l’exécution des tâches
-* Atyant une appétence pour le travail collaboratif au sein d’une équipe pluridisciplinaire
+* Ayant une appétence pour le travail collaboratif au sein d’une équipe pluridisciplinaire
 
-## Les modalités Poste ouvert pour ... Temps de travail : ... jours / semaine Démarrage en Mois Année Télétravail et/ou possibilité de travailler à ....
+## Les modalités du poste :
 
 * Charge : 4 à 5 jours par semaine
 * Durée : 3 mois
