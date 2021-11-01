@@ -32,8 +32,6 @@ phases:
 
 Les aides et dispositifs d’accompagnement des propriétaires sont nombreux pour la rénovation, la mise en location ou la vente des logements… mais leur complexité freine, d’un côté, la capacité des acteurs du logement à mener des actions conjointes et, de l’autre, la capacité des propriétaires à se mettre en mouvement. 
 
-
-
 ## La solution Zéro Logement Vacant
 
 Zero Logement Vacant aide les collectivités à mobiliser les propriétaires de logements vacants de longue durée (qui n’engagent pas de démarches par eux-même) pour les faire entrer dans un programme de remise sur le marché (financement de travaux, intermédiation locative…). 
@@ -47,8 +45,6 @@ La première version de la solution numérique Zéro Logement Vacant, permet aux
 Elle est aujourd’hui utilisée par 30 collectivités. 
 
 #### Voir la [démonstration du produit](https://www.dailymotion.com/video/x812kxh) et la [politique de confidentialité](https://zlv.notion.site/Politique-de-confidentialit-bb23ade15fc442fbbc3976a4ef840c76)
-
-
 
 ## Notre stratégie de construction
 
