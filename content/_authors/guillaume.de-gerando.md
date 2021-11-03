@@ -5,8 +5,12 @@ domaine: Développement
 missions:
   - start: 2021-10-28
     end: 2022-01-28
-    status: admin
-    employer: SignalConso
+    status: independant
+    employer: DGCCRF
+startups:
+  - signalement
+badges:
+  - segur
 ---
 
 Incubateur d'idées
