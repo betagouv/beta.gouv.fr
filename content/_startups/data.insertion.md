@@ -4,8 +4,8 @@ mission: Améliorer les parcours d’insertion en facilitant la circulation de
   données entre les acteurs
 owner: DGEFP
 incubator: dinum
-link: https://betagouv.github.io/analyse-flux-insertion
-repository: https://github.com/betagouv/analyse-flux-insertion
+link: https://www.rdv-insertion.fr/
+repository: https://github.com/betagouv/rdv-insertion
 contact: data.insertion@beta.gouv.fr
 stats: true
 phases:
