@@ -1,6 +1,6 @@
 ---
 title: Wikicarbone
-mission: Accélerer la mise en place de l'affichage environemental
+mission: Accélerer la mise en place de l'affichage environnemental
 owner: Commissariat Général au Développement Durable
 sponsors:
   - acronym: CGDD
