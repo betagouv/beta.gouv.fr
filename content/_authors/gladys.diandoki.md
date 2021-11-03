@@ -5,7 +5,7 @@ domaine: Design
 github: Gladysdit
 missions:
   - start: 2021-04-01
-    end: 2021-10-31
+    end: 2021-12-31
     status: independent
     employer: DINUM
 badges:
