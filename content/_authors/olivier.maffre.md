@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://github.com/olmaffre
 missions:
   - start: 2020-02-03
-    end: 2021-10-31
+    end: 2021-11-30
     status: independent
     employer: Codeurs en Liberté
 startups:
