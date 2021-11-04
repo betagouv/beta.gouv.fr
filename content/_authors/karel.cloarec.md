@@ -1,7 +1,7 @@
 ---
 fullname: Karel Cloarec
-role: Coaching - Deploiement
 domaine: Coaching
+role: Coaching - Deploiement
 github: Karel2
 avatar: null
 missions:
@@ -26,6 +26,9 @@ startups:
 previously:
   - andi
   - urbanvitaliz
+  - candela
 badges:
   - segur
+competences:
+  - Coaching
 ---
