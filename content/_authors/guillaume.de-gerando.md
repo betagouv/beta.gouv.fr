@@ -5,7 +5,7 @@ domaine: Développement
 missions:
   - start: 2021-10-28
     end: 2022-01-28
-    status: independant
+    status: independent
     employer: DGCCRF
 startups:
   - signalement
