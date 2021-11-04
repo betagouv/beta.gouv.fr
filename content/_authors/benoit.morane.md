@@ -1,6 +1,6 @@
 ---
 fullname: Benoit Morane
-domaine: Diffusion des API
+domaine: Déploiement
 role: En charge de la diffusion des API
 github: benoitMorane
 missions:
