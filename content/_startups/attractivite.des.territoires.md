@@ -1,8 +1,7 @@
 ---
 title: Attractivité des territoires
-mission: Accompagner par la data visualisation les communes de moins de 3,500
-  habitants dans le montage, la sécurisation et la valorisation de leurs projets
-  d’investissement.
+mission: Accompagner par la data visualisation les petites communes dans le
+  montage, la sécurisation et la valorisation de leurs projets d’investissement.
 owner: Direction générale des Finances publiques (DGFiP)
 sponsors:
   - name: Direction générale des Finances publiques
@@ -11,7 +10,7 @@ sponsors:
     domaine_ministeriel: autres
 incubator: fabrique-dgfip
 contact: dtnum.culture-numerique.Innover@dgfip.finances.gouv.fr
-stats: true
+stats: false
 events: []
 phases:
   - name: construction
@@ -34,7 +33,7 @@ La mise en place de ce nouvel interlocuteur doit permettre d’offrir des **pres
 
 ## Problème
 
-Entre les mois de juillet et octobre 2021, la phase d’investigation a permis de démontrer que : 
+Entre les mois de juillet et octobre 2021, la **phase d’investigation** a permis de démontrer que : 
 
 1. Selon leur taille, les collectivités n’étaient pas dotées de capacités humaines et techniques égales pour appréhender au mieux les problématiques liées au montage, à la sécurisation et à la valorisation de leurs projets de préservation ou d’expansion ; 
 2. Les élus locaux sollicitaient trop tardivement, voire pas du tout, les services de la DGFiP au travers de l’expertise des conseillers aux décideurs locaux pour bénéficier d’un accompagnement de leurs projets d’investissement dès leur mise en place ;
@@ -52,24 +51,24 @@ Il est ressorti de l’enquête estivale menée auprès des conseillers aux déc
 
 ## Solution
 
-La solution « **Attractivité des territoires** » se propose de mettre à la portée des conseillers aux décideurs locaux des outils intelligibles, visuels et prospectifs visant renforcer l’efficacité et la crédibilité de leur action auprès des élus locaux, et ce à chaque étape des projets d’investissement des collectivités. 
+La solution « **Attractivité des territoires** » se propose de mettre à la portée des conseillers aux décideurs locaux des **outils intelligibles, visuels et prospectifs** visant renforcer l’efficacité et la crédibilité de leur action auprès des élus locaux, et ce à chaque étape des projets d’investissement des collectivités. 
 
 Cette solution ambitieuse, qui se veut collaborative et intégrée, doit permettre aux CDL de disposer d’éléments multi-facettes tangibles pour nourrir rapidement leur réflexion et ouvrir un dialogue constructif avec les élus locaux concernés. Parallèlement à la nouvelle démarche proactive des CDL pour mieux faire connaître l’offre de service de la DGFiP, notamment auprès des collectivités faisant appel à des prestataires privés, la solution investiguée entend donc : 
 
-1. Fournir aux CDL des outils d’un genre nouveau (data visualisation, cartographie, etc.) pour répondre simplement et rapidement aux besoins criants des petites et très petites collectivités en termes d’assistance budgétaire, comptable, fiscale, patrimoniale et juridique ; 
-2. Positionner le réseau des CDL, et plus largement la DGFiP, comme des interlocuteurs incontournables du conseil et de l’accompagnement dans une perspective renouvelée par rapport à l’action régalienne historique en lien avec l’exécution budgétaire. 
+1. Fournir aux CDL des **outils d’un genre nouveau (data visualisation, cartographie, etc.)** pour répondre simplement et rapidement aux besoins criants des petites et très petites collectivités en termes d’assistance budgétaire, comptable, fiscale, patrimoniale et juridique ; 
+2. Positionner le réseau des CDL, et plus largement la DGFiP, comme des **interlocuteurs incontournables du conseil et de l’accompagnemen**t dans une perspective renouvelée par rapport à l’action régalienne historique en lien avec l’exécution budgétaire. 
 
 ## Calendrier de réalisation
 
-De novembre 2021 à février 2022, la **phase de construction** sera l’occasion d’affiner les différents volets de la solution Attractivité des territoires et d’aboutir au déploiement d’un **premier MVP (Minimum Viable Product)**. 
+De novembre 2021 à février 2022, la **phase de construction** sera l’occasion d’affiner les différents volets de la solution Attractivité des territoires et d’aboutir au déploiement d’un premier **MVP** (Minimum Viable Product). 
 
 Au regard des besoins exprimés par une majorité d’acteurs durant la phase d’investigation, ce dernier prendra la forme d’un **outil de data visualisation (outil « RADAR »)** devant permettre aux CDL de fournir aux élus locaux un état des lieux visuel et intelligible de la santé financière de leur commune de rattachement. Une première expérimentation sera menée auprès d’un réseau d’utilisateurs volontaires en Bretagne et dans la région PACA.
 
 Cette période sera notamment l’occasion de préciser les connexions à établir avec les applications HELIOS et DELF de la DGFiP, les outils ANAFI et Tableaux de la DGFiP ainsi que les bases de données open source déjà existantes au sein de la communauté data.gouv.fr ou ailleurs. 
 
-À terme, la solution doit permettre de répondre, à chaque étape critique d’un d’investissement, aux attentes de l’ensemble des acteurs concernés dans un ordre de priorité séquencé opportunément : 
+À terme, la solution doit permettre de répondre, à chaque étape critique d’un d’investissement, aux attentes de l’ensemble des acteurs concernés dans un **ordre de priorité séquencé opportunément** : 
 
-![Calendrier de réalisation_Attractivité des territoires_Caroline DELORME](/img/netlifycms/calendrier.de.re.alisation_attractivite.des.territoires_caroline.delorme.png "Calendrier de réalisation_Attractivité des territoires_Caroline DELORME")
+![Calendrier de réalisation_Attractivité des territoires_Caroline DELORME](/img/netlifycms/20211104_calendrier.de.re.alisation_attractivite.des.territoires_caroline.delorme.redimensionne.png "Calendrier de réalisation_Attractivité des territoires_Caroline DELORME")
 
 Les éléments développés dans le cadre de la solution ont vocation à être mis en ligne dans : 
 
