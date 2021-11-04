@@ -12,5 +12,3 @@ startups:
 badges:
   - segur
 ---
-
-Incubateur d'idées
