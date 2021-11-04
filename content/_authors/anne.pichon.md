@@ -10,8 +10,8 @@ missions:
 startups:
   - itou
   - place-de-marche-inclusion
-  - dora
 previously:
+  - dora
   - la-bonne-boite
   - estime
   - la-bonne-formation
