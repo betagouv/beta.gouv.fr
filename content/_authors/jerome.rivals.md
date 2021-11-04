@@ -9,7 +9,7 @@ missions:
     start: 2018-11-08
     status: independent
   - employer: octo
-    end: 2021-11-06
+    end: 2022-02-22
     start: 2021-09-08
     status: independent
 startups:
