@@ -4,14 +4,14 @@ title: La formation Alpha
 permalink: /approche/formation
   
 # Dates de la prochaine formation
-alpha-start: 2021-11-17
-alpha-end: 2021-11-17
+alpha-start: 2021-12-09
+alpha-end: 2021-12-09
 alpha-time: de 9h15 à 17h30
-alpha-location: en présentiel au 20 avenue de Ségur, 75007 Paris
+alpha-location: en visio
 alpha-location-link:
 alpha-catering:
 alpha-more:
-alpha-link: https://startupdetat.typeform.com/to/nvaXq0my
+alpha-link: https://startupdetat.typeform.com/to/RtSb0wLl
 verbatims:
   - text: “J’ai appris beaucoup ! À commencer par une méthode pratique, des outils concrets pour enclencher une action, agir sur un problème a priori insurmontable, mais qui le devient grâce au "petit pas" qui devient grand.”
     name: participant.e anonyme
@@ -42,10 +42,11 @@ images:
 ---
 
 <br>
-**La prochaine session aura lieu le mercredi 17 novembre 2021. En présentiel au 20 avenue de Ségur, 75007 Paris**
+**La session du mercredi 17 novembre 2021 est COMPLÈTE !**
+**La prochaine session aura lieu le jeudi 9 décembre 2021. En VISIO**
 <br>
 <br>
-<a href="https://startupdetat.typeform.com/to/nvaXq0my" class="fr-btn">Je m'inscris</a>
+<a href="https://startupdetat.typeform.com/to/RtSb0wLl" class="fr-btn">Je m'inscris</a>
 <br>
 <br>
 Vous êtes un agent public et vous souhaitez découvrir la méthode Beta.gouv ? Vous êtes agent public et vous avez identifié un problème à résoudre au sein de vos services ? **La formation Alpha est faite pour vous !**
@@ -86,7 +87,7 @@ Pause 10'
 ---  Fin à 17h30  ---
 
 <br>
-<a href="https://startupdetat.typeform.com/to/nvaXq0my" class="fr-btn">Je m'inscris</a>
+<a href="https://startupdetat.typeform.com/to/RtSb0wLl" class="fr-btn">Je m'inscris</a>
 <br>
 <br>
 Pour plus d’information écrivez nous à <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.
