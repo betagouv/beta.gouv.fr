@@ -1,6 +1,6 @@
 ---
 fullname: Patrick Lambret
-domaine: Coaching
+domaine: Product
 role: Coach
 github: patrick-coach
 missions:
