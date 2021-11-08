@@ -27,7 +27,7 @@ Demandé par le Premier Ministre en février 2021, le simulation d'aides pour le
 
 ### 1 - Un simulateur à destination des jeunes 📱🖥
 
-Avant tout, l'équipe est responsable d'amélioration continue et de la qualité de service du simulateur [accessible en ligne](https://mes-aides.1jeune1solution.beta.gouv.fr/). Ce simulateur, en VueJS, est utilisé par des milliers de personnes par jour et est régulièrement enrichi de nouvelles aides et dispositifs. Nous le mettons à jour quotidiennement en fonction des retours des usagers.
+Avant tout, l'équipe est responsable d'amélioration continue et de la qualité de service du simulateur [accessible en ligne](https://mes-aides.1jeune1solution.beta.gouv.fr/). Il permet aux jeunes de connaître et accéder aux aides auxquelles ils ont le droit. Ce simulateur, en VueJS, est utilisé par des milliers de personnes par jour et est régulièrement enrichi de nouvelles aides et dispositifs. Nous le mettons à jour quotidiennement en fonction des retours des usagers.
 
 Ressources :
 - [code source du simulateur](https://github.com/betagouv/aides-jeunes) (VueJS, nodeJS, NetlifyCMS)
@@ -66,7 +66,8 @@ Pour vous donner une idée des travaux en cours, vous pouvez jeter un coup d'oei
 
 
 Points bonus pour :
-- Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
+- Connaissance de NetlifyCMS
+- Habitudes des modalités de contribution du logiciel libre (issues, PR…)
 - Intérêt pour les aides sociales et leur modélisation
 
 
