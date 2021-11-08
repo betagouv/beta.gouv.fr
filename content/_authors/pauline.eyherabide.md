@@ -10,7 +10,7 @@ missions:
     end: 2021-09-30
     status: independent
 startups:
-    - ma-cantine-egalim
+  - ma-cantine-egalim
 previously:
   - conseiller-numerique
 competences:
