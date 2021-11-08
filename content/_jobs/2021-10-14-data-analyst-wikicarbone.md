@@ -2,7 +2,7 @@
 startup: wikicarbone
 title: "Wikicarbone recherche un profil Data Analyst"
 roles: Wikicarbone recherche un profil Data Analyst
-open: true
+open: false
 ---
 
 ## Contexte
