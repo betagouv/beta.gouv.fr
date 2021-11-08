@@ -76,7 +76,7 @@ Sur la partie produit, les chantiers identifiés pour les mois à venir sont :
 
 
 En fil rouge, il y a toujours :
-- l'amélioration continue des différentes partie du produit
+- l'amélioration continue des différentes parties du produit
 - l'amélioration de la modélisation des aides
 
 
