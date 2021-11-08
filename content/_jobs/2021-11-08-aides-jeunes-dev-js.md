@@ -22,7 +22,7 @@ h2, h3 {
 
 ## Le produit, en 3 parties 😁
 
-Demandé par le Premier Ministre en février 2021, le simulation d'aides pour les jeunes a été [officiellement mis en ligne](https://twitter.com/JeanCASTEX/status/1387065585859715074) à la fin de mois d'avril 2021. Cela a été possible en capitalisant sur de nombreux apprentissages (depuis 2014) et sur la base de code de [Mes Aides](https://beta.gouv.fr/startups/mes-aides.html).
+Demandé par le Premier Ministre en février 2021, le simulateur d'aides pour les jeunes a été [officiellement mis en ligne](https://twitter.com/JeanCASTEX/status/1387065585859715074) à la fin de mois d'avril 2021. Cela a été possible en capitalisant sur de nombreux apprentissages (depuis 2014) et sur la base de code de [Mes Aides](https://beta.gouv.fr/startups/mes-aides.html).
 
 
 ### 1 - Un simulateur à destination des jeunes 📱🖥
