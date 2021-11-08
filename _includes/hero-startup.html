@@ -7,10 +7,12 @@
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="{% if screenshot_file %}fr-col-lg-6{% endif %}">
           <h1>{{ include.startup.title | escape }}</h1>
-          {% if include.startup.link %}
+          {% if include.startup.mission %}
           <p class="hero__startup__mission fr-mt-3w fr-h3">
             {{ include.startup.mission | escape }}
           </p>
+          {% endif %}
+          {% if include.startup.link %}
           <a href="{{ include.startup.link }}" title="{{ include.startup.title }}" class="fr-link fr-fi-external-link-line fr-link--icon-left">{{ include.startup.link }}</a>
           {% endif %}
           <ul class="fr-mt-3w fr-tags-group">
