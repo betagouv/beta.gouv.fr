@@ -5,6 +5,9 @@ owner: DEAL Guadeloupe
 incubator: mtes
 contact: meagann.boulassy@beta.gouv.fr
 phases:
+  - name: investigation
+    start: 2021-04-07
+    end: 2021-07-07
   - name: construction
     start: 2021-11-08
 ---
