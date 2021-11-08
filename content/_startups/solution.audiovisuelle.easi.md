@@ -1,18 +1,17 @@
 ---
-title: Solution audiovisuelle EASI
-mission: "Améliorer l'expérience globale de la relation entre usagers
-  particuliers et DGFiP en leur permettant de mieux se comprendre, de s’apporter
-  une satisfaction mutuelle et de réduire les taux d’erreurs sans avoir besoin
-  de recourir à la prise de contact. "
+title: Solution EASI
+mission: "Améliorer par l’audiovisuel l'expérience relationnelle entre les
+  usagers particuliers et la DGFiP et réduire les taux d’erreurs sans avoir
+  besoin de contact. "
 owner: Direction générale des Finances publiques (DGFiP)
 sponsors:
   - name: Direction générale des Finances publiques
     acronym: DGFiP
     type: administration-centrale
-    domaine_ministeriel: bercy
+    domaine_ministeriel: autres
 incubator: fabrique-dgfip
 contact: dtnum.culture-numerique.Innover@dgfip.finances.gouv.fr
-stats: true
+stats: false
 phases:
   - name: alumni
     start: 2021-07-09
@@ -20,17 +19,15 @@ phases:
 ---
 ## Contexte
 
-Chaque année, des millions d’usagers –particuliers, professionnels, partenaires et collectivités– sollicitent les services de la Direction générale des Finances publiques (DGFiP) par le biais de **multiples canaux de contact**, à la recherche d'une réponse à une question qu'ils se posent, ou à une problématique qu’ils rencontrent, dans le but d’accomplir correctement leurs démarches et obligations fiscales obligatoires. 
+Chaque année, des millions d’usagers –particuliers, professionnels, partenaires et collectivités– sollicitent les services de la Direction générale des Finances publiques (DGFiP) par le biais de **multiples canaux de contact**, à la recherche d'une réponse à une questionqu'ils se posent, ou à une problématique qu’ils rencontrent, dans le but d’accomplir correctement leurs démarches et obligations fiscales obligatoires. 
 
-La compréhension des règles applicables en matière de fiscalité, et le suivi régulier de leur évolution, n’étant pas une donnée évidente pour la plupart des usagers, cette situation génère des sollicitations récurrentes et souvent de même nature auprès de l’ensemble des services de la DGFiP répartis sur le territoire. 
-
-À cet égard, la **mission Stratégie relations aux publics (SRP)** est chargée de proposer une politique globale des relations de la DGFiP avec ses publics, ce qui implique notamment l'élaboration de propositions d'orientations concernant l'accueil des usagers, le pilotage et la supervision de la qualité́ de service, ainsi que l'animation de différents chantiers contribuant aux objectifs stratégiques, quel que soit le canal de contact considéré. 
+La compréhension des règles applicables en matière de fiscalité, et le suivi régulier de leur évolution, n’étant pas une donnée évidente pour la plupart des usagers, cette situation génère des **sollicitations récurrentes et souvent de même nature** auprès de l’ensemble des services de la DGFiP. À cet égard, la **mission Stratégie relations aux publics (SRP)** est chargée de proposer une politique globale des relations de la DGFiP avec ses publics, ce qui implique notamment l'élaboration de propositions d'orientations concernant l'accueil des usagers, le pilotage et la supervision de la qualité́ de service, ainsi que l'animation de différents chantiers contribuant aux objectifs stratégiques, quel que soit le canal de contact considéré. 
 
 ## Problème
 
-Entre les mois de juillet et octobre 2021, la phase d’investigation a été orientée vers la compréhension des difficultés liées à la mise en relation des usagers particuliers vers l’interlocuteur de la DGFiP le plus pertinent en fonction du besoin identifié, de l’expérience relationnelle globale entre ces mêmes usagers et la DGFiP et des conditions du bon accomplissement de leurs démarches et obligations fiscales obligatoires. 
+Entre les mois de juillet et octobre 2021, la **phase d’investigation** a été orientée vers la compréhension des difficultés liées à la mise en relation des usagers particuliers vers l’interlocuteur de la DGFiP le plus pertinent en fonction du besoin identifié, de l’expérience relationnelle globale entre ces mêmes usagers et la DGFiP et des conditions du bon accomplissement de leurs démarches et obligations fiscales obligatoires. 
 
-Les entretiens et enquêtes menés auprès d’une diversité d’acteurs répartis sur le territoire métropolitain, soit au total près d’une **cinquantaine de personnes interrogées** (responsables et agents d’accueil de services des impôts des particuliers – SIP, référents inter-régionaux et départementaux relation aux usagers, responsables de Pôles Gestion Fiscale – PGF, mission SRP, Cabinet de Communication, usagers particuliers, etc.) ont permis d’identifier des **éléments de douleur** tant du côté de la DGFiP que de ses usagers. 
+Les entretiens et enquêtes menés auprès d’une diversité d’acteurs répartis sur le territoire métropolitain, soit au total près d’une **cinquantaine de personnes interrogées** (responsables et agents d’accueil de services des impôts des particuliers – SIP, référents inter-régionaux et départementaux relation aux usagers, responsables de Pôles Gestion Fiscale – PGF, mission SRP, Cabinet de Communication, usagers particuliers, etc.) ont permis d’identifier des éléments de douleur tant du côté de la DGFiP que de ses usagers. 
 
 *Pour les usagers particuliers de la DGFiP* :
 
@@ -63,14 +60,14 @@ Afin de répondre à la problématique « Comment améliorer l'expérience glo
 Des **vidéos explicatives tutorielles**, dans un format très court et dynamique, donneront à voir et à comprendre l’intérêt d’accomplir une démarche ou une obligation fiscale, et le moyen de le faire en toute autonomie. Ces vidéos s’attacheront à être visibles là où les usagers en auraient le plus besoin : 
 
 * En page d’accueil du site impots.gouv.fr, par une bannière en bas de l’écran ;
-*  Dans le parcours usager, sous forme de lien visible sur les pages documentaires du site ; 
+* Dans le parcours usager, sous forme de lien visible sur les pages documentaires du site ; 
 * Regroupées dans un espace dédié sur un portail vidéo rattaché à impots.gouv.fr, avec des vignettes identifiables pour chaque situation visée. 
 
 Cette solution numérique, fondée sur des supports visuels et auditifs de compréhension souples et modulables et aux multiples ressorts pédagogiques, entend constituer un moyen de communication simple, accessible et facilement diffusable, dont le processus de construction modulable et le format très court visent à favoriser l’**accomplissement des obligations et démarches fiscales obligatoires sans erreur et sans contact**. 
 
 ## Calendrier de réalisation
 
-Le déploiement d’un premier MVP (Minimum Viable Product) doit permettre de répondre rapidement aux besoins identifiés en concevant et réalisant vingt vidéos tutorielles (10 vidéos EASI SERVICE et 10 vidéos EASI FISCA) et en recueillant des retours utilisateurs tout au long de la réalisation. 
+Le **déploiement d’un premier MVP** (Minimum Viable Product) doit permettre de répondre rapidement aux besoins identifiés en concevant et réalisant vingt vidéos tutorielles (10 vidéos EASI SERVICE et 10 vidéos EASI FISCA) et en recueillant des retours utilisateurs tout au long de la réalisation. 
 
 ![Présentation de la solution_EASI_Delphine MACHET](/img/netlifycms/pre.sentation.de.la.solution_easi_delphine.machet.png "Présentation de la solution_EASI_Delphine MACHET")
 
@@ -78,21 +75,21 @@ Le déploiement d’un premier MVP (Minimum Viable Product) doit permettre de r�
 
 Les **indicateurs d’impact** sélectionnés, à consolider, devront conforter l’évolution de la solution EASI :  
 
-* **Diminution des demandes des particuliers** 
+* **Diminution des demandes des particuliers** :
 
 o	Baisse de 10% des demandes des particuliers correspondant à EASI SERVICE et EASI FISCA ; 
 
-* **Augmentation du nombre de déclarations accomplies spontanément sans erreur** 
+* **Augmentation du nombre de déclarations accomplies spontanément sans erreur** :
 
 o	Hausse de 5% du nombre de déclarations accomplies dans les délais (civisme fiscal) ;
 
 o	Hausse de 5% du nombre de déclarations accomplies sans dégrèvement (relation de confiance).  
 
-* **Suivi de la satisfaction des particuliers sur la solution audiovisuelle EASI** 
+* **Suivi de la satisfaction des particuliers sur la solution audiovisuelle EASI** :
 
 o	Taux de likes et/ou de partage des vidéos vues. 
 
-* **Amélioration de la visibilité de la satisfaction des particuliers sur les services de la DGFiP**
+* **Amélioration de la visibilité de la satisfaction des particuliers sur les services de la DGFiP** :
 
 o	Taux de satisfaction des particuliers amélioré sur Vox Usagers. 
 
