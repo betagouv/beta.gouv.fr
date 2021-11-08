@@ -1,6 +1,6 @@
 ---
 fullname: Anaïs Puertolas
-github: github: 
+github: Puertolas
 role: Intrapreneuse et bizdev
 domaine: Intraprenariat
 missions:
