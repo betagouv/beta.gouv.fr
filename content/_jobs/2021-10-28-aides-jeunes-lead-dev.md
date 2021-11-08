@@ -70,13 +70,14 @@ D'un point de vue technique, voilà quelques chantiers identifiés :
 Nous nous attendons à ce que cette liste soit enrichie de sujets que vous auriez identifiés au cours de vos premières semaines.
 
 
-Sur la partie produit, les chantiers identifiés pour les mois à venir sont :
+Sur la 
+produit, les chantiers identifiés pour les mois à venir sont :
 - l'amélioration continue de l'outil de contribution et d'ajout d'aides simples
 - l'amélioration de la page de résultats (pour inciter plus de personnes à se renseigner et demander une aide)
 
 
 En fil rouge, il y a toujours :
-- l'amélioration continue des différentes partie du produit
+- l'amélioration continue des différentes parties du produit
 - l'amélioration de la modélisation des aides
 
 
