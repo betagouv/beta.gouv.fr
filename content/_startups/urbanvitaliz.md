@@ -17,7 +17,7 @@ phases:
 link: https://urbanvitaliz.fr/
 repository: https://github.com/betagouv/urbanvitaliz-django
 stats: true 
-stats_url: https://betagouv.github.io/urbanvitaliz/suiviprojet/statistiques.html
+stats_url: https://urbanvitaliz.fr/stats
 contact: friches@beta.gouv.fr
 redirect_from:
   - /startups/friches
