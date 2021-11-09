@@ -4,6 +4,9 @@ mission: Améliorer le développement professionnel des enseignants
 owner: Reseau Canopé
 incubator: dinum
 contact: penelope.liot@beta.gouv.fr
+events:
+  - name: end
+    date: 2021-06-01
 phases:
   - name: construction
     start: 2020-06-10
