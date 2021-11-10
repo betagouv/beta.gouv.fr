@@ -7,7 +7,7 @@ missions:
     end: 2022-03-30
     status: independent
     employer: Octo
-startup: 
+startups: 
    - commun.orientation
 ---
 
