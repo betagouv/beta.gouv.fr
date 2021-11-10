@@ -1,7 +1,7 @@
 ---
 roles: Administrat.eur.rice système avec des connaissances de développement
 startup: tchap
-open: true
+open: false
 ---
 
 ## Contexte
