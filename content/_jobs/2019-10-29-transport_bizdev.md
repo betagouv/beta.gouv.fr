@@ -1,9 +1,10 @@
 ---
-roles: une ou un chargé(e) d’accompagnement à l’ouverture des données de transport #
-startup: transport  # identifiant de la startup pour laquelle le recrutement est fait ; créer la startup si elle n'existe pas encore
-junior: true # S'il est possible de candidater avec peu d'expérience
-open: false # Basculer à 'false' ou supprimer une fois l'offre pourvue
+roles: une ou un responsable de l’ouverture des données de transport
+open: true
+junior: true
+startup: transport
 title: Offre de chargé(e) d'accompagnement à l'ouverture des données de transport
+date: 2021-11-10T07:20:56.706Z
 ---
 
 ## transport.data.gouv.fr cherche une personne en charge d'accélérer l'ouverture des données de transport afin d'améliorer l’information des voyageurs partout en France et faciliter leurs déplacements au quotidien
