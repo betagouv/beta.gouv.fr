@@ -33,12 +33,12 @@ Nous avons mené des entretiens avec de nombreux acteurs concernés par la quest
 
 * le service de santé des gens de mer
 * le BEA Mer
-* l'ENIM, 
-* L'Institut Maritime de Prévention (IMP) 
+* l'ENIM,
+* L'Institut Maritime de Prévention (IMP)
 * des personnes en charge de l'enseignement maritime professionnel en lycées
 * le centre de sécurité des navires
-* Un Centre Opérationnel de Surveillance et de Sauvetage (CROSS) 
-* Le Centre de Consultation Médicale Maritime (CCMM) 
+* Un Centre Opérationnel de Surveillance et de Sauvetage (CROSS)
+* Le Centre de Consultation Médicale Maritime (CCMM)
 * mais aussi des marins en activité.
 
-  Nous continuons à explorer les pistes d'action de prévention à mettre en place afin de pouvoir avoir un impact mesurable auprès des marins professionnels.
+Nous continuons à explorer les pistes d'action de prévention à mettre en place afin de pouvoir avoir un impact mesurable auprès des marins professionnels.
