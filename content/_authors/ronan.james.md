@@ -11,7 +11,7 @@ missions:
   - status: independent
     employer: DINUM
     start: 2021-07-01
-    end: 2021-10-30
+    end: 2022-04-30
 startups:
   - carnet.de.bord
 badges:
