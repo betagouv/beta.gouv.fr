@@ -3,14 +3,16 @@ fullname: laetitia gabreau
 role: Chargée de déploiement
 missions:
   - start: 2021-05-12
-    end: 2021-11-30
+   end: 2022-03-31
     status: independent
     employer: Octo
+    employeur : Benext
 startups:
   - psyenfantado
+  -infoparquet (article 40)
 badges:
   - segur
-domaine: Déploiement
+domaine: Déploement
 ---
 
-Passionnée par l'innovation d'intérêt public, et facilitatrice graphique amatrice 
+Passionnée par l'innovation d'intérêt  général, et facilitatrice graphique amatrice 
