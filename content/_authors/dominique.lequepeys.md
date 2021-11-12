@@ -1,7 +1,7 @@
 ---
 fullname: Dominique Lequepeys
-role: Coach
 domaine: Coaching
+role: Coach
 github: dlequepeys
 missions:
   - start: 2017-09-18
@@ -9,16 +9,15 @@ missions:
     status: service
     employer: octo
 startups:
-  - candilib
   - chauffage-urbain
-  - urgencevie
 previously:
   - aplus
   - histovec
   - polex
   - bati-amiante
+  - candilib
+  - urgencevie
+competences:
+  - Coaching
 ---
-
-Coach startup<br>
-Orpailleur du service public…<br>
-en quête de pépites !
+Coach startup, Orpailleur du service public… en quête de pépites !
