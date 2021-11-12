@@ -19,8 +19,6 @@ phases:
     start: 2018-03-01
   - name: acceleration
     start: 2019-06-03
-  - name: success
-    start: 2021-06-01
 ---
 
 ## Lutter contre la fraude à l'examen du code
