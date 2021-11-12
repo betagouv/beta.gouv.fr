@@ -10,6 +10,10 @@ missions:
     status: admin
     employer: Lab-MI
     end: 2021-11-15
+  - status: admin
+    employer: DINUM
+    start: 2021-11-15
+    end: 2024-11-15
 startups:
   - candilib
 previously:
