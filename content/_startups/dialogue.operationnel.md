@@ -2,7 +2,7 @@
 title: Dialogue opérationnel
 mission: Faciliter la concertation et la remontée des besoins collectifs et
   individuels des agents de la police nationale.
-owner: Direction Générale de la Police Nationale.
+owner: Inspection Générale de la Police Nationale.
 sponsors: []
 incubator: lab-mi
 contact: igpn-mission-appui-conseil@interieur.gouv.fr
