@@ -1,23 +1,26 @@
 ---
 title: Polex
 mission: Détecter et suivre les fraudes à l’examen du permis de conduire
- 
 owner: Délégation à la sécurité routière
-sponsors: 
-    - name: Délégation à la sécurité routière
-      acronym: DSR
-      domaine_ministeriel: interieur
-      type: administration-centrale
+sponsors:
+  - name: Délégation à la sécurité routière
+    acronym: DSR
+    domaine_ministeriel: interieur
+    type: administration-centrale
 incubator: lab-mi
+link: null
+repository: null
+contact: frederic.gillodes@interieur.gouv.fr
+stats: false
 phases:
   - name: investigation
     start: 2018-03-01
   - name: construction
     start: 2018-03-01
-link:
-repository: 
-stats: false
-contact: frederic.gillodes@interieur.gouv.fr
+  - name: acceleration
+    start: 2019-06-03
+  - name: success
+    start: 2021-06-01
 ---
 
 ## Lutter contre la fraude à l'examen du code
@@ -36,5 +39,5 @@ Polex permet aux délégués à l'éducation routière :
 - d’affiner l'analyse à partir de requêtes préconfigurées pour détecter des patterns de suspicion de fraude ;
 - de suivre les dossiers liés aux alertes pertinentes.
 
-Une version beta est testée depuis janvier 2019. La généralisation est prévue d'ici juin 2019.
+Une version beta a été testée en janvier 2019. La généralisation est intervenue en juin 2019.
 
