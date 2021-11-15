@@ -15,7 +15,7 @@ startups:
   - article.40
 badges:
   - segur
-domaine: déploiement
+domaine: Déploiement
 ---
 
 Passionnée par l'innovation d'intérêt général, et facilitatrice graphique amatrice
