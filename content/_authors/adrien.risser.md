@@ -16,6 +16,7 @@ missions:
     status: independent
 startups:
   - 1000.jours
+  - fiche.commune.entreprise.fce
 previously:
   - camino
 
