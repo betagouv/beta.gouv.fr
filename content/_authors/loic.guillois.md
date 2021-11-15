@@ -12,8 +12,8 @@ missions:
   - start: 2020-02-05
     end: 2020-03-19
     status: independent
-  - start: 2020-04-05
-    end: 2021-11-30
+  - start: 2020-12-26
+    end: 2022-04-30
     status: independent
     employer: octo
 startups:
