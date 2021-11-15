@@ -15,7 +15,7 @@ Le CNSP est l’unique instance nationale de référence pour le contrôle de to
 
 **MonitorFish** aide les agents à planifier des missions de contrôle efficaces et à adapter leurs ciblages en temps réel, afin de conseiller leurs interlocuteurs sur le terrain en toutes situations.
 
-## Etapes
+## Étapes
 
 ### Centraliser toutes les informations importantes sur une carte
 La première étape du défi était de réunir des données disséminées sur différents sites et applications, afin que les agents du CNSP puissent les consulter sous la forme la plus adaptée à leur mission : une carte. 
