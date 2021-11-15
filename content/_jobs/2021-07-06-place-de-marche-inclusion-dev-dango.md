@@ -4,7 +4,7 @@ title: Le marché de l'inclusion recrute un développeur ou une développeuse Dj
 contrat: indépendant
 startup: place-de-marche-inclusion
 contact: tech@inclusion.beta.gouv.fr
-open: true
+open: false
 ---
 
 # Le marché de l'inclusion recrute un développeur ou une développeuse Django
