@@ -4,10 +4,10 @@ mission: Améliorer les parcours d’insertion en facilitant la circulation de
   données entre les acteurs
 owner: DGEFP
 incubator: dinum
-link: https://www.rdv-insertion.fr/
+link: ""
 repository: https://github.com/betagouv/rdv-insertion
 contact: data.insertion@beta.gouv.fr
-stats: false
+stats: true
 phases:
   - name: investigation
     start: 2021-01-15
