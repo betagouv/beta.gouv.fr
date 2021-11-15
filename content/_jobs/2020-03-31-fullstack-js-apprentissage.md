@@ -1,7 +1,8 @@
 ---
 roles: un.e developpeur.se fullstack JS
+open: false
+date: 2021-11-15T15:24:44.945Z
 startup: Mission apprentissage
-open: true
 ---
 
 Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une équipe autonome, agile, et proche de ses utilisateurs ? 
