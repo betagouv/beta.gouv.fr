@@ -5,12 +5,12 @@ domaine: Coaching
 github: Sw1n
 missions:
   - start: 2020-02-20
-    end: 2021-11-30
+    end: 2021-31-05
     status: service
 startups:
-  - signalement
   - justif
 previously:
+  - signalement
   - AidESS-Relance
   - Anais
 ---
