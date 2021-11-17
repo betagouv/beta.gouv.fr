@@ -9,5 +9,8 @@ missions:
     employer: NUMA
 badges:
   - segur
+startups: 
+  - acceslibre
+  - prev-ac-tion
 ---
 
