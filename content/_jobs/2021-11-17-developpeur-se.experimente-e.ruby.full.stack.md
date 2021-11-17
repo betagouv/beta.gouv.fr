@@ -16,7 +16,7 @@ En première ligne de ce service public à forte dimension sociale :
 * les JAP (Juges d'Application des Peines), qui décident de l'aménagement des peines de chaque condamné ;
 * les CPIP (conseillers pénitentiaires d’insertion et de probation), qui accompagnent les personnes condamnées dans leur parcours, par des rendez-vous réguliers, en général mensuels. Ils permettent à la personne de faire face à ses engagements (parfois nombreux) et de se réinsérer.
 
-Les “PPSMJ” (Personnes Placées sous Main de Justice) rencontrent  ces agents du service public lors de *rendez-vous* personnels. Ces rendez-vous leur permettent d'attester des démarches qu'elles entreprennent en présentant des justificatifs (attestation d'emploi, justificatif de domicile, certificat médical, etc...).
+Les PPSMJ (Personnes Placées sous Main de Justice) rencontrent  ces agents du service public lors de *rendez-vous* personnels. Ces rendez-vous leur permettent d'attester des démarches qu'elles entreprennent en présentant des justificatifs (attestation d'emploi, justificatif de domicile, certificat médical, etc...).
 
 Lorsque les personnes condamnées n'arrivent pas à faire face à leurs obligations, elles sont convoquées par les Juges d’Application des Peines, qui peuvent prononcer des *mesures de révocation de leur placement en milieu ouvert*... qui provoquent leur réincarcération.
 
