@@ -90,7 +90,7 @@ Savoir travailler en mode lean agile, en lien avec des profils métiers profanes
 
 N’hésite pas à consulter notre kit de démarrage et nos normes de conduite sur le site de la communauté pour en savoir plus sur nos standards.
 
-Notre repo Github est accessible [par ici](https://mon-suivi-justice.beta.gouv.fr).
+Notre repo Github est accessible [par ici](https://github.com/betagouv/mon-suivi-justice).
 
 **L'équipe** :
 
