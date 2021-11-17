@@ -2,7 +2,7 @@
 startup: annuaire-entreprises
 title: "L’Annuaire des Entreprises recherche un ou une data / search engineer pour développer son moteur de recherche"
 roles: un.e data / search engineer
-open: true
+open: false
 ---
 
 ## 🤓 Contexte
