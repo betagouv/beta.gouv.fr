@@ -13,7 +13,7 @@ Le site public de l'Incubateur de Services Numériques de l'État français.
 ## Tu viens de rejoindre l'incubateur ? [Ajoute-toi et ta Startup](https://github.com/betagouv/beta.gouv.fr/blob/master/CONTRIBUTING.md) !
 
 
-## `beta.gouv.fr`
+## `beta.gouv.fr` 
 
 Ce nom de domaine héberge :
 
