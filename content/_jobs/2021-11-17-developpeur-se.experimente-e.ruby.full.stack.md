@@ -1,5 +1,5 @@
 ---
-roles: Développeur.se expérimenté.e Ruby / Full Stack
+roles: Développeur.se expérimenté.e Ruby / Full Stack MSJ
 open: true
 date: 2021-11-17T15:38:03.465Z
 startup: justif
