@@ -19,6 +19,11 @@ phases:
     start: 2018-03-01
   - name: acceleration
     start: 2019-06-03
+  - name: transfer
+    start: 2021-05-01
+    comment: Audit en cours afin d'évaluer les conditions de la généralisation de
+      Polex à l'ensemble des bureaux de l'éducation routière à partir de la
+      rentrée.
 ---
 
 ## Lutter contre la fraude à l'examen du code
