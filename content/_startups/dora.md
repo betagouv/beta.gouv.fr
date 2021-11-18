@@ -9,16 +9,19 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: travail
 incubator: sgmas
-link: https://dora.beta.gouv.fr/
+link: https://dora.fabrique.social.gouv.fr/
 repository: https://github.com/betagouv/dora/
 contact: dora@beta.gouv.fr
 events: []
 phases:
   - name: investigation
     start: 2021-01-25
-    end: ""
+    end: 2021-05-06
   - name: construction
-    start: 2021-05-06
+    start: 2021-05-09
+    end: 2021-10-29
+  - name: acceleration
+    start: 2021-11-01
 ---
 # Le problème 
 
