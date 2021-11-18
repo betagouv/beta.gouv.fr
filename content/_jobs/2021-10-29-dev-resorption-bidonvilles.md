@@ -3,7 +3,7 @@ roles: développeur·se full-stack
 startup: resorption-bidonvilles
 techno: javascript
 junior: false
-open: true
+open: false
 title:  Résorption bidonvilles recrute un·e développeur·se full-stack
 ---
 
