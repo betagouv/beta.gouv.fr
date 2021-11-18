@@ -3,7 +3,7 @@ roles: Développeur ou développeuse Django expérimenté(e)
 startup: itou
 techno: Django
 junior: false
-open: false
+open: true
 title: Itou recrute un développeur ou une développeuse Django expérimenté(e)
 contrat: indépendant
 contact: tech@inclusion.beta.gouv.fr
@@ -50,7 +50,7 @@ Nos utilisateurs sont :
 - Déploiements fréquents et par petits lots
 - Intégration continue
 - Amélioration continue de nos processus internes
-- Ateliers réguliers entre développeurs pour favoriser la formation continue
+- Ateliers réguliers entre développeurs afin de favoriser la formation continue
 - « Centré utilisateur » : collaboration étroite avec le métier et les UX
 
 ## Notre code :
@@ -83,4 +83,4 @@ L'équipe est dispersée à travers la France et travaille à distance (standup 
 
 ## Postuler
 
-Pour postuler, envoyez-nous un message à l'édresse suivante : [tech@inclusion.beta.gouv.fr](mailto:tech@inclusion.beta.gouv.fr).
+Pour postuler, envoyez-nous un message à l'adresse suivante : [tech@inclusion.beta.gouv.fr](mailto:tech@inclusion.beta.gouv.fr).
