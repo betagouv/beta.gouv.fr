@@ -19,6 +19,9 @@ phases:
   - name: construction
     start: 2021-05-06
     end: 2021-10-31
+  - name: acceleration
+    start: 2021-11-01
+    end: 2022-04-30
 ---
 Dans le cadre du [Service Public de l’Insertion et de l’Emploi](https://forum.inclusion.beta.gouv.fr/t/le-spie-cest-quoi/2324), nous lançons **la construction du carnet de bord de la personne accompagnée** 
 
