@@ -4,6 +4,8 @@ mission: Proposer une messagerie instantanée, sécurisée et souveraine aux age
 owner: DINUM
 incubator: dinum
 contact: tchap@beta.gouv.fr
+link: https://tchap.beta.gouv.fr/
+repository: https://github.com/tchapgouv
 events: []
 phases:
   - name: acceleration
