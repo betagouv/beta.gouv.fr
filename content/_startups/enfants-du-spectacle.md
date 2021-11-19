@@ -3,7 +3,7 @@ title: Enfants Du Spectacle
 mission: Simplifier les demandes d’emploi pour renforcer la protection des enfants
 owner: DRIEETS d’Île-de-France
 incubator: sgmas
-contact: enfantsduspectacle@fabrique.gouv.social.fr
+contact: enfantsduspectacle@fabrique.social.gouv.fr
 events: []
 repository: https://github.com/SocialGouv/enfants-du-spectacle
 phases:
