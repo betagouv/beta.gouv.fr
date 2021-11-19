@@ -9,8 +9,8 @@ sponsors:
 incubator: sgmas
 repository: https://github.com/SocialGouv/mano/
 contact: caroline.de_kerhor@beta.gouv.fr
-stats: true
 stats_url: https://metabase-mano.fabrique.social.gouv.fr/public/dashboard/825cc4ad-b502-4483-aa78-c2af56032bc9
+stats: true
 events: []
 phases:
   - name: investigation
@@ -19,6 +19,9 @@ phases:
   - name: construction
     start: 2020-09-01
     comment: ""
+    end: 2021-07-31
+  - name: acceleration
+    start: 2021-08-01
 ---
 # **Le problème**
 
