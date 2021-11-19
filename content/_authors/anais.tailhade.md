@@ -9,5 +9,8 @@ missions:
     employer: DINUM
 badges:
   - segur
+startups:
+    - datapass
+    - api.gouv.fr
 ---
 
