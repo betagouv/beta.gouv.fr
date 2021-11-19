@@ -10,7 +10,7 @@ L’équipe Mon Suivi Justice recherche un développeur ou une développeuse Ful
 
 **Contexte**
 
-Le suivi des personnes condamnées et qui ne font pas l'objet d'une peine se prison est effectué par les Tribunaux Judiciaires et les Services Pénitentiaires d'Insertion de Probation. 
+Le suivi des personnes condamnées et qui ne font pas l'objet d'une peine de prison est effectué par les Tribunaux Judiciaires et les Services Pénitentiaires d'Insertion de Probation. 
 En première ligne de ce service public à forte dimension sociale :
 
 * les JAP (Juges d'Application des Peines), qui décident de l'aménagement des peines de chaque condamné ;
