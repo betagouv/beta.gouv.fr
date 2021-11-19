@@ -14,7 +14,7 @@ phases:
   - name: success
 link: https://labonnealternance.pole-emploi.fr
 repository: https://github.com/mission-apprentissage/labonnealternance
-stats: true
+stats_url: https://datastudio.google.com/u/0/reporting/1v-Sim2qMlFSMn4n9JJWaMk8PIONvM757/page/FZIGC
 contact: labonnealternance@pole-emploi.fr
 redirect_from:
   - /startups/labonnealternance
