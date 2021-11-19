@@ -42,7 +42,7 @@ images:
 ---
 
 <br>
-**La session du mercredi 17 novembre 2021 est COMPLÈTE !**
+
 **La prochaine session aura lieu le jeudi 9 décembre 2021. En VISIO**
 <br>
 <br>
