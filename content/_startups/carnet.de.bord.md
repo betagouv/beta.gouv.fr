@@ -9,14 +9,16 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: affaires-sociales
 incubator: sgmas
+link: https://carnet-de-bord.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/carnet-de-bord
-contact: ronan.james@beta.gouv.fr
+contact: contact.carnet-de-bord@fabrique.social.gouv.fr
 phases:
   - name: investigation
     start: 2021-01-25
     end: 2021-05-06
   - name: construction
     start: 2021-05-06
+    end: 2021-10-31
 ---
 Dans le cadre du [Service Public de l’Insertion et de l’Emploi](https://forum.inclusion.beta.gouv.fr/t/le-spie-cest-quoi/2324), nous lançons **la construction du carnet de bord de la personne accompagnée** 
 
