@@ -17,8 +17,13 @@ missions:
     start: 2021-11-15
     end: 2021-12-31
     status: independent
+  - employer: Arolla
+    start: 2021-11-15
+    end: 2022-02-11
+    status: independent
 startups:
     - inca
+    - metiers-numeriques
 previously:
     - codedutravail
 ---
