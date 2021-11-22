@@ -72,6 +72,6 @@ Démarrage : dès que possible !
 
 ## Pour candidater ...
 
-Explique-nous pourquoi tu as envie de nous rejoindre et transmets-nous ton LinkedIn / CV / GitHub à laetitia.kouadria@beta.gouv.fr et julien@revolunet.com
+Explique-nous pourquoi tu as envie de nous rejoindre et transmets-nous ton LinkedIn / CV / GitHub à laetitia.kouadria@beta.gouv.fr et julien.bouquillon@sg.social.gouv.fr
 
 À bientôt !
