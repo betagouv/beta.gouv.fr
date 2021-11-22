@@ -65,7 +65,7 @@ Tu es en mesure de jouer sur 2 tableaux :
 
 Freelance 4 jours / semaine pendant 6 mois (renouvelable selon l'issue des comités d'investissement produit) 
 
-Télétravail par défaut - 2 déplacements par mois à prévoir pour réunion d'équipe et/ou rencontre des utilisateurs. Possibilité de venir travailler en co-working dans le 7e arrondissement. 
+Télétravail par défaut - 2 déplacements par mois à prévoir pour réunion d'équipe et/ou rencontre des utilisateurs. Possibilité de venir travailler en co-working à Paris ou à Lyon. 
 
 Démarrage : dès que possible ! 
 
