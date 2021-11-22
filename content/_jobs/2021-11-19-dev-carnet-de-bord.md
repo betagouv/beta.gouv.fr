@@ -1,7 +1,7 @@
 ---
 roles: Développeur ou développeuse full stack expérimenté.e
 startup: carnet.de.bord
-techno: Django 3+, Python 3.9, PostgreSQL 11, PostGIS, Redis, HTML, CSS, JavaScript Ops, Docker Compose, PaaS
+techno: Svelte / Svelte-kit, Hasura, PostgreSQL, HTML, CSS, JavaScript, Tailwind, Docker, Docker Compose, PaaS, Github Actions
 junior: false
 open: true
 title: Carnet de bord recrute dev full stack expérimenté(e) 
