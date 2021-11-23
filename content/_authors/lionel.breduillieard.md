@@ -5,7 +5,7 @@ role: Développeur
 github: lionelb
 missions:
   - employer: octo
-    end: 2021-11-06
+    end: 2022-03-30
     start: 2018-10-08
     status: independent
 startups:
