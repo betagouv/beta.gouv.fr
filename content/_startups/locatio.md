@@ -1,9 +1,9 @@
 ---
-title: Dossier Facile
+title: DossierFacile
 mission: Remettre la confiance au centre de la relation entre propriétaires et locataires
-owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
+owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique
 sponsors:
-    - name: Direction generale de l'Amenagement, du Logement et de la Nature / Direction de l'habitat, de l'urbanisme et des paysages
+    - name: Direction générale de l'Aménagement, du Logement et de la Nature / Direction de l'habitat, de l'urbanisme et des paysages
       acronym: DGALN / DHUP
       domaine_ministeriel: environnement
       type: administration-centrale
@@ -39,7 +39,7 @@ Bailleurs et professionnels de l'immobilier, DossierFacile est là pour vous ras
 
 ## Le déploiement
 
-Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. Fin 2020, ce sont déjà plus de 250 000 locataires, 10 000 propriétaires et une dizaine de professionnels de l'immobilier qui ont choisi de nous faire confiance. Comprendre les besoins des locataires et des bailleurs est notre obsession et notre produit est en amélioration constante.
+Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. Fin 2021, ce sont déjà plus de 350 000 locataires, 20 000 propriétaires et une dizaine de professionnels de l'immobilier qui ont choisi de nous faire confiance. Comprendre les besoins des locataires et des bailleurs est notre obsession et notre produit est en amélioration constante.
 
 Chez DossierFacile, nous voyons grand. Partant du dossier de location, nous avons l’ambition d’accompagner locataires et bailleurs tout au long de leur relation - et ce ne sont pas les idées qui nous manquent ! Pour autant, nous savons qu’inspirer la confiance est un défi de longue haleine qui ne pourra être relevé que pas à pas. Gardant tout ça en tête, nous n’avons qu’une boussole : toujours mieux servir les citoyens.
 
