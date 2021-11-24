@@ -4,7 +4,7 @@ role: Développeur
 domaine: Développement
 github: louptheron
 missions:
-  - start: 2022-01-01
+  - start: 2021-11-01
     end: 2023-01-01
     status: independent
 ---
