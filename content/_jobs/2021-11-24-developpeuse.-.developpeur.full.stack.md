@@ -15,8 +15,6 @@ et de lancer des alertes vers les partenaires en capacité d’intervenir. La me
 
 **Ta mission** 
 
-*
-
 **Technologies** 
 
 PHP, JS, CSS, HTML\
@@ -25,7 +23,7 @@ Leaflet,
 
 **Conditions**
 
-* Contrat : temps partiel à 80 % minimum pour un total de 40 jours sur 2 mois 
+* Contrat : temps partiel à 80 % minimum pour un total de 35 jours sur 2 mois 
 * Début de la mission : immédiat
 * Télétravail complet
 * Fin de mission : 31/01/22
