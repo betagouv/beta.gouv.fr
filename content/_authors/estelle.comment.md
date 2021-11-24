@@ -19,7 +19,6 @@ missions:
   - start: 2021-11-23
     end: 2021-11-23
     status: independent
-    employer: malt
 previously:
   - e-controle
   - sante-psy-etudiant
