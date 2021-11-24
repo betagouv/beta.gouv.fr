@@ -24,8 +24,10 @@ title: Découvrir le programme
     </div>
 </div>
 <br>
-  <h2>Notre approche</h2>
-<div class="fr-container ">
+  
+<div class="fr-container section-grey ">
+<br>
+<h3>Notre approche</h3>
       <div class="fr-grid-row  fr-grid-row--gutters startups fr-py-6w">
         <div class="fr-col fr-col-12 fr-col-md-3" >
         <p>
@@ -47,6 +49,8 @@ title: Découvrir le programme
         </div>
       </div>
 </div>
+<br>
+<br>
 <h2>Les étapes du programme en détail</h2>
 <br/>
 <div>
@@ -120,6 +124,7 @@ title: Découvrir le programme
   <br>
   <br>  
   <div id="alpha" class="fr-grid-row fr-grid-row--gutters full-width section-grey">
+  <br>
     <div class="fr-col-md-4 fr-col-xs-12">
         <img
             src="/img/alpha/alpha-first-session-solo.jpeg"
@@ -137,4 +142,5 @@ title: Découvrir le programme
         <br>
         <a class="fr-btn fr-btn--md" href="/approche/formation">S’inscrire à la prochaine session</a>
     </div>
+      <br>
   </div>
