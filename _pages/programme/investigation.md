@@ -126,7 +126,7 @@ breadcrumbs:
                     <h4>Vous souhaitez lancer une investigation avec nous ?
 Parlez-nous de votre projet !</h4>
                     <p>
-                    <a class="fr-btn fr-btn--md" href="/approche/formation">Nous écrire</a>
+                    <a class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Nous écrire</a>
                     </p>
                 </div>
             </div>

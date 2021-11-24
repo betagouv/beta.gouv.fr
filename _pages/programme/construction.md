@@ -20,7 +20,7 @@ Au terme de cette phase qui dure habituellement six mois à un an, l’administr
                     <h4>Vous souhaitez construire un service public numérique avec nous ?
 Parlez-nous de votre projet !</h4>
                     <p>
-                    <a class="fr-btn fr-btn--md" href="/approche/formation">Nous écrire</a>
+                    <a class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Nous écrire</a>
                     </p>
                 </div>
             </div>
