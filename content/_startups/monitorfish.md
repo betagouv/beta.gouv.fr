@@ -6,6 +6,7 @@ incubator: mtes
 phases:
   - name: investigation
     start: 2021-03-01
+    end: 2021-11-01
   - name: construction
     start: 2021-11-01
 repository: https://github.com/MTES-MCT/monitorfish
