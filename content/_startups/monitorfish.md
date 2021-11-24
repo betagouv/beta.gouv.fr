@@ -4,8 +4,10 @@ mission: Améliorer le contrôle des activités des navires de pêche
 owner: Ministère de la transition écologique
 incubator: mtes
 phases:
+  - name: investigation
+    start: 2021-03-01
   - name: construction
-    start: 2022-01-01
+    start: 2021-11-01
 repository: https://github.com/MTES-MCT/monitorfish
 ---
 
