@@ -71,7 +71,7 @@ title: Découvrir le programme
             <span aria-hidden="true">📅</span> Pendant <b>1 à 2 mois </b><br>
             <span aria-hidden="true">✋</span> <a href="/devenir-intrapreneur">L’intra</a> accompagné d’un ou d’une coach
             </div>
-            <a href="/approche/investigation">En savoir plus sur l'investifation</a>
+            <a href="/approche/investigation">En savoir plus sur l'investigation</a>
             <br>
             <br>
             Décideur public, vous voulez lancer une investigation avec nous?
