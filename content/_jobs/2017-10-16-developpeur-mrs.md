@@ -10,7 +10,7 @@ date: 2021-11-24T11:04:26.278Z
 
 
 
-### 😍 Profil recherché : **Charge(é) de déploiement JeVeuxAider.gouv.fr** 
+### 😍 Profil recherché : **Charge(é) de déploiement JeVeuxAider.gouv.fr**
 
 <!--more-->
 
@@ -26,7 +26,7 @@ JeVeuxAider.gouv.fr par La Réserve Civique est une plateforme de mise en relati
 
 La Startup d’État s’agrandit et étoffe l’équipe déploiement de JeVeuxAider.gouv.fr en recrutant un·e chargé·e de déploiement. Le·la chargé·e de déploiement aura pour mission de continuer à développer un réseau de partenaires ayant une communauté de jeunes pour promouvoir l’engagement bénévole auprès de ceux-ci. Nous avons commencé par les écoles et les universités mais d’autres canaux restent à explorer : associations d’anciens élèves, lycées, associations étudiantes, événements dédiés aux jeunes, médias spécialisés, etc.
 
-
+<!--more-->
 
 ## 🎯 Rôle et mission
 
@@ -39,6 +39,8 @@ Vous aurez pour mission de contribuer au déploiement de l’offre de service de
 * Participer à la relation avec les organisations bénéficiaires (par exemple : animation de webinaires, contribution à la newsletter, intervention sur le support utilisateur, échange sur les réseaux sociaux, participation à des événements / rassemblements à distance ou en présentiel…) et oeuvrer pour la mises en relation entre ces acteurs et le public jeune
 * Générer et animer la communauté de bénévoles jeunes et/ou étudiants
 * Aider à l’amélioration du fonctionnement du pôle déploiement et à la mesure de son impact (processus, outillage, documentation…)
+
+<!--more-->
 
 ## 🔎 Profil recherché
 
@@ -63,9 +65,13 @@ Idéalement vous avez de l’expérience dans un ou plusieurs des domaines suiva
 * Le milieu de l’éducation et de l’engagement étudiant
 * Le milieu de l’engagement des jeunes
 
+<!--more-->
+
 ## 📝 Modalités
 
 Poste ouvert pour un indépendant ou une indépendante pour un premier contrat de 6 mois renouvelable (à 4 jours par semaine minimum). Le télétravail est possible. Démarrage janvier 2022.
+
+<!--more-->
 
 ## 🚀 Candidater
 
