@@ -44,6 +44,6 @@ La phase d’exploration de deux mois, au cours de laquelle nous avons interview
 
 L'expérimentation que nous avons menée en phase de construction (avec en cible prioritaire les demandeurs d’emploi bénéficiaires des minimas sociaux) nous a permis de valider la pertinence de la solution et ses impacts : hausse de 20% des candidatures avec le service ESTIME, taux de recommandation du service de 95%,  gain de temps de 27 minutes par simulation (cela permet aux conseillers qui accompagnent les demandeurs d'emploi de réinvestir ce temps dans d'autres champs de leur accompagnement).
 
-Une première version beta du site https://estime.pole-emploi.fr/ est accessible aux Demandeurs d'Emploi bénéficiaires de l'Allocation de Solidarité Spécifique, de l'Allocation Adulte Handicapé et du Revenu de Solidarité Active. 
+Une première version beta du site https://estime.pole-emploi.fr/ est accessible aux demandeurs d'Emploi bénéficiaires de l'Allocation de Solidarité Spécifique, de l'Allocation Adulte Handicapé et du Revenu de Solidarité Active. 
 
 Nous ambitionnons l'ouverture du site aux bénéficiaires de l'Allocation d'Aide au Retour à l'Emploi en janvier 2022.
