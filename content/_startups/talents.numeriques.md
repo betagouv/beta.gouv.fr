@@ -9,6 +9,7 @@ phases:
   - name: construction
     start: 2021-09-01
     end: 2021-12-31
+  - name: alumni
 ---
 ## Contexte
 
@@ -28,3 +29,7 @@ Ils aimeraient davantage pouvoir s'entraider ou partager entre pairs au sein d'u
 ## Notre ambition
 
 Valoriser les expertises des agents et faciliter la mise en relation en développant un produit numérique.
+
+## Abandon du produit
+
+L'écoute de la cinquantaine d'agents a permis de détecter qu'ils ne souhaitent pas de nouveaux outils mais aimeraient capitaliser sur leurs outils d'échanges existants (messagerie professionnelle, réseau social d'entreprise, etc.).
