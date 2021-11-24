@@ -13,7 +13,7 @@ missions:
     end: 2021-09-01
     status: independent
     employer: octo
-startups:
+previously:
     - adock
     - itou
 ---
