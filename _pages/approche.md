@@ -26,7 +26,6 @@ title: Découvrir le programme
 <br>
   <h2>Notre approche</h2>
 <div class="fr-container ">
-  
       <div class="fr-grid-row  fr-grid-row--gutters startups fr-py-6w">
         <div class="fr-col fr-col-12 fr-col-md-3" >
         <p>
@@ -44,12 +43,10 @@ title: Découvrir le programme
         </div>
         <div class="fr-col fr-col-12 fr-col-md-3  " >
         <p><b>Un manifeste</b></p>
-            <p>Pour détermine notre façon de travailler ensemble. Lire</p>
-             
+            <p>Pour détermine notre façon de travailler ensemble. <a href="https://beta.gouv.fr/approche/manifeste">Lire</a></p>
         </div>
       </div>
 </div>
-
 <h2>Les étapes du programme en détail</h2>
 <br/>
 <div>
