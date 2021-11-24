@@ -42,7 +42,7 @@ ESTIME, 1 simulateur personnalisé qui permet aux Demandeurs d’Emploi bénéfi
 
 La phase d’exploration de deux mois, au cours de laquelle nous avons interviewé 24 demandeurs d’emploi et conseillers, a validé le besoin et confirmé qu’il n’existe pas d’outil existant sur le marché. 
 
-L'expérimentation que nous avons menée en phase de construction (avec en cible prioritaire les demandeurs d’emploi bénéficiaires des minimas sociaux) nous a permis de valider la pertinence de la solution et ses impacts : hausse de 20% des candidatures avec le service ESTIME, taux de recommandation du service de 95%,  gain de temps de 27 minutes par simulation (cela permet aux conseillers qui accompagnent les demandeurs d'emploi de réinvestir ce temps dans d'autres champs de leur accompagnement).
+L'expérimentation que nous avons menée en phase de construction (avec en cible prioritaire les demandeurs d’emploi bénéficiaires des minima sociaux) nous a permis de valider la pertinence de la solution et ses impacts : hausse de 20% des candidatures avec le service ESTIME, taux de recommandation du service de 95%,  gain de temps de 27 minutes par simulation (cela permet aux conseillers qui accompagnent les demandeurs d'emploi de réinvestir ce temps dans d'autres champs de leur accompagnement).
 
 Une première version beta du site https://estime.pole-emploi.fr/ est accessible aux demandeurs d'Emploi bénéficiaires de l'Allocation de Solidarité Spécifique, de l'Allocation Adulte Handicapé et du Revenu de Solidarité Active. 
 
