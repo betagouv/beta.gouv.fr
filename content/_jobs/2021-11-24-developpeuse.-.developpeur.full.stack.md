@@ -15,7 +15,8 @@ et de lancer des alertes vers les partenaires en capacité d’intervenir. La me
 
 **Ta mission** 
 
-Envie de démarrer une nouvelle aventure dans le monde merveilleux du développement applicatif Web ? Bienvenue ! Intègre l'équipe de développement Histologe (Alban CTO/Dev Sénior et Mathilde Designer UI/UX) et rejoins l'aventure Histologe. Dans un environnement MVC, full php, JS, CSS et HTML, tu participeras à l'implémentation de la nouvelle version de la plateforme, à la modélisation et réalisation des évolutions et corrections Front et Back Office. \
+Envie de débuter une nouvelle aventure et apporter tes compétences à un projet qui a du sens ? \
+Bienvenue ! Intègre l'équipe de développement Histologe (Alban CTO/Dev Sénior et Mathilde Designer UI/UX) et rejoins l'aventure Histologe. Dans un environnement MVC, full php, JS, CSS et HTML, tu participeras à l'implémentation de la nouvelle version de la plateforme, à la modélisation et réalisation des évolutions et corrections Front et Back Office. \
 Tu maitrises PHP (depuis 7.4) et le SQL (mySql) n'a pas de secret pour toi, Git est ta seconde maison, CSS et HTML ta deuxième langue maternelle, JS est ton livre de chevet ? Ce poste t'attend. 
 
 **Environnement de travail :**
@@ -41,4 +42,4 @@ Leaflet, Plotly
 * Rémunération : TJM selon profil et expérience
 
 **Comment postuler ?**
-Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à contact@histologe.info.
+Explique nous en 2/3 lignes par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à contact@histologe.info.
