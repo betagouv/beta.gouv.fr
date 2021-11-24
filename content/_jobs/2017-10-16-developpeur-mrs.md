@@ -8,9 +8,7 @@ date: 2021-11-24T11:04:26.278Z
 ---
 # La Startup d'État Engagement Civique recrute !
 
-
-
-### 😍 Profil recherché : **Charge(é) de déploiement JeVeuxAider.gouv.fr** 
+### 😍 Profil recherché : **Charge(é) de déploiement JeVeuxAider.gouv.fr**
 
 <!--more-->
 
@@ -25,8 +23,6 @@ La Startup d'État Engagement Civique a pour mission de concevoir et de déploye
 JeVeuxAider.gouv.fr par La Réserve Civique est une plateforme de mise en relation entre des personnes qui souhaitent s’engager bénévolement et des organisations publiques ou associatives et des collectivités qui ont besoin d’aide.
 
 La Startup d’État s’agrandit et étoffe l’équipe déploiement de JeVeuxAider.gouv.fr en recrutant un·e chargé·e de déploiement. Le·la chargé·e de déploiement aura pour mission de continuer à développer un réseau de partenaires ayant une communauté de jeunes pour promouvoir l’engagement bénévole auprès de ceux-ci. Nous avons commencé par les écoles et les universités mais d’autres canaux restent à explorer : associations d’anciens élèves, lycées, associations étudiantes, événements dédiés aux jeunes, médias spécialisés, etc.
-
-
 
 ## 🎯 Rôle et mission
 
@@ -71,4 +67,4 @@ Poste ouvert pour un indépendant ou une indépendante pour un premier contrat d
 
 Expliquez-nous pourquoi vous avez envie de rejoindre la Startup d'État Engagement Civique et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à [nassim.merzouk@beta.gouv.fr](mailto:nassim.merzouk@beta.gouv.fr) et fanny.argoud@beta.gouv.fr
 
-À bientôt !
+À bientôt !!
