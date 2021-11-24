@@ -9,6 +9,7 @@ phases:
   - name: construction
     start: 2021-11-01
 repository: https://github.com/MTES-MCT/monitorfish
+contact: sebastien.touze@developpement-durable.gouv.fr
 ---
 
 Le Centre National de Surveillance des Pêches (CNSP) est chargé de surveiller l’activité des navires de pêche français dans le monde, ainsi que de tous les navires de pêche dans les zones maritimes françaises. La mission des agents du CNSP est d’orienter les contrôleurs des pêches sur le terrain vers les navires les plus à risque, et ce 24h/24, 7j/7.
