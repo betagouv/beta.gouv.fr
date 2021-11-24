@@ -73,7 +73,7 @@ breadcrumbs:
             </div> -->
             <div class="fr-grid-row fr-grid-row--gutters">
                 <div class="fr-col-12" id="pourquoi">
-                    <h2>Pourquoi réaliser cette étape ?</h2>
+                    <h2>Quel est l’enjeu de l’investigation ?</h2>
                     <p>Pour nous, la technologie est un moyen et non une fin : le numérique ne parviendra certainement pas à résoudre tous les problèmes. Nous le répétons souvent : ce n’est pas parce que c’est innovant que c’est forcément mieux. C’est pourquoi nous recommandons toujours de (re)partir du problème rencontré par les utilisateurs (et non d’une solution pressentie) à travers une écoute attentive. Cette approche présente l’avantage de minimiser grandement le risque d’investir dans un produit qui ne répond pas aux vrais besoins des utilisateurs et qui répondra donc moins bien aux objectifs fixés. Elle permet en particulier, preuves à l’appui, de s’assurer de construire un service numérique qui soit vraiment utile, c’est-à-dire qui réponde véritablement aux besoins des gens et/ou qui ait le maximum d’impact.
                     </p>
                 </div>
@@ -118,6 +118,15 @@ breadcrumbs:
                     <p>
                     A la fin de l’investigation, le comité d’investissement se réunit et décide de l’abandon ou de la poursuite de produit. 
                     En cas de poursuite, on rentre dans la <a href="https://beta.gouv.fr/approche/construction">réalisation du service public numérique</a> !
+                    </p>
+                </div>
+            </div>
+             <div class="fr-grid-row fr-grid-row--gutters fr-p-1w section-grey">
+                <div class="fr-col-12" id="contact"  style="text-align:center">
+                    <h4>Vous souhaitez lancer une investigation avec nous ?
+Parlez-nous de votre projet !</h4>
+                    <p>
+                    <a class="fr-btn fr-btn--md" href="/approche/formation">Nous écrire</a>
                     </p>
                 </div>
             </div>
