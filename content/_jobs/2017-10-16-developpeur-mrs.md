@@ -2,8 +2,8 @@
 roles: un·e chargé·e de déploiement
 startup: engagement-civique
 techno: Choix technologiques ouverts parmi les solutions libres du marché
-open: true
-junior: true
+open: false
+junior: false
 date: 2021-11-24T11:04:26.278Z
 ---
 # La Startup d'État Engagement Civique recrute !
