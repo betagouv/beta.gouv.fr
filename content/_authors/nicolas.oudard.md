@@ -6,7 +6,7 @@ link: http://blog.oudard.org
 github: kolok
 missions:
   - start: 2021-06-28
-    end: 2021-02-28
+    end: 2022-02-28
     status: independent
     employer: Arolla
 startups:
