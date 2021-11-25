@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /recrutement_spin/
-title: Recrutement pour l'équipe SPIN
+permalink: /recrutement_bin/
+title: Recrutement pour l'équipe BIN
 ---
-# Candidats SPIN 
+
 * Vous aimez relever des défis complexes ? 
 * Vous souhaitez contribuer à des services numériques à fort impact ? 
 * Vous avez un esprit entrepreneurial et collectif ? 
@@ -77,7 +77,7 @@ Un salaire de 3 500 € à 4 800 € en fonction de l’expérience et du profil
 1. Vous postulez au programme via un formulaire de candidature en ligne avant le 9 décembre 
 2. Si vous êtes pré-sélectionnés, vous répondez à plusieurs questions par écrit qui concernent votre métier et votre culture au travail 
 3. Si vous êtes pré-sélectionnés, vous échangez avec une ou deux personnes membres de l’incubateur beta.gouv 
-4. Vous rejoignez le programme SPIN jusqu’en décembre 2023 
+4. Vous rejoignez le programme BIN jusqu’en décembre 2023 
 
 
 ## Annexe | FAQ
