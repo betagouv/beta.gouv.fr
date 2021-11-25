@@ -41,5 +41,9 @@ Leaflet, Plotly
 * Fin de mission : 31/01/22
 * Rémunération : TJM selon profil et expérience
 
+Poste ouvert aux travailleurs en statut indépendant. Si le statut d’indépendant peut poser un frein à votre candidature, nous sommes disponibles pour discuter des modalités de création de statuts spécifiques. Si vous vous posez la question, nous sommes nombreux à être contractuels, employés d’une société de prestations ou indépendants au sein de la communauté beta.gouv.fr (plus d’infos : https://beta.gouv.fr/communaute/).
+
+
+
 **Comment postuler ?**
 Explique nous en 2/3 lignes par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à contact@histologe.info.
