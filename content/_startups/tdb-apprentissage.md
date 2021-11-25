@@ -22,6 +22,7 @@ phases:
 ## Constat
 
 Au total, en 2020, environ 250 000 candidats ont souhaité une mise en relation avec un CFA par l’un des deux portails Affelnet ou Parcoursup. Or, une fois le vœu exprimé et transmis au centre de formation, aucun suivi global n'est assuré : aucun système ne permet de savoir combien de vœux se sont traduits en entrée en apprentissage, dans la spécialité et le centre visés ou dans une autre formation avec le même statut. 
+
 Aucun indice ne permet non plus d’observer les étapes franchies ou non par les jeunes, en vue d’accompagner d’une façon réactive ceux qui décrochent et peuvent se retrouver en difficulté. 
 
 Plus généralement, l'écosystème de l'apprentissage manque d'interconnexion pour simplifier les échanges, favoriser un pilotage plus fin et réactif, simplifier les démarches des CFA et améliorer l'accompagnement des jeunes et des employeurs.
@@ -37,9 +38,9 @@ Le tableau de bord Apprentissage propose de se brancher sur les systèmes de ges
 
 Ces données sont agrégées et ensuite mises à disposition des acteurs de l’apprentissage :
 - Les CFA et leurs réseaux ;
-- Les membres du service public de l’emploi (SPE) : Pôle emploi, Mission Locale, DRETS… ;
+- Les membres du service public de l’emploi (SPE) : Pôle emploi, Mission Locale, DREETS… ;
 - Les comités de pilotage régionaux : Conseil régionaux, Plan 1 jeune 1 solution…
-- La Plateforme de Suivi et d’Appui aux Décrocheurs ;
+- Les Plateformes de Suivi et d’Appui aux Décrocheurs ;
 - Les administrations compétentes des Ministères du Travail, de l’Education Nationale, de l’Enseignement Supérieur, de l’Agriculture….
 
 Les objectifs sont de faciliter un pilotage opérationnel de l’apprentissage en temps réel pour :
