@@ -31,8 +31,8 @@ links:
       label: Présentation de référence
       url: https://beta.gouv.fr/content/docs/betagouv_presentation.pdf
     - 
-      label: Recrutement de l'équipe SPIN
-      target: _pages/recrutementspin.md
+      label: Recrutement de l'équipe BIN
+      target: _pages/recrutementBin2.md
 -
     label:
     children:
