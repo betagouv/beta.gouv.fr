@@ -18,7 +18,7 @@ Son fonctionnement est souple. La finalité nous guide plutôt que les procédur
 
 
 
-# 🤝 CE QUE NOUS VOUS PROPOSONS : 
+# 🤝 CE QUE NOUS VOUS PROPOSONS 
 
 
 ## Le rôle de chargé.e de développement du [Tableau de bord Apprentissage](https://mission-apprentissage.gitbook.io/general/les-nouveaux-services/simplifier-la-transmission-des-donnees-apprentissage) :
@@ -37,7 +37,7 @@ En devenant Chargé.e de développement Produit de ce service, vous aurez en cha
 
 
 
-# 🔎 PROFIL RECHERCHÉ  
+# 🔎 PROFIL RECHERCHÉ 
 
 Votre profil nous intéressera tout particulièrement si :
 * Vous êtes une personne intéressée par l’enjeu du développement de l’apprentissage et par accompagner l’écosystème de l’apprentissage dans ses transformations. Votre connaissance du  Service Public de l’Emploi et/ou de l’Orientation seraient un plus. 
