@@ -4,9 +4,9 @@ domaine: Design
 role: UX
 github: Ann-p
 missions:
-  - start: 2018-01-01
-    end: 2021-11-30
-    status: admin
+  - start: 2017-05-03
+    end: 2024-11-30
+    status: independent
 startups:
   - itou
   - place-de-marche-inclusion
