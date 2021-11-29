@@ -30,32 +30,32 @@ breadcrumbs:
                             </li> -->
                             <li class="fr-sidemenu__item">
                                 <a class="fr-sidemenu__link" href="#pourquoi" target="_self" aria-current="page">
-                                    1. Pourquoi réaliser cette étape
+                                    1. Pourquoi réaliser cette étape&nbsp;?
                                 </a>
                             </li>
                                 <li class="fr-sidemenu__item">
                                 <a class="fr-sidemenu__link" href="#qui" target="_self" aria-current="page">
-                                    2. Qui sera impliqué ?
+                                    2. Qui sera impliqué&nbsp;?
                                 </a>
                             </li>
                             <li class="fr-sidemenu__item">
                                 <a class="fr-sidemenu__link" href="#resultat" target="_self" aria-current="page">
-                                    3. Qu'est ce qui sera produit pendant cette étape ?
+                                    3. Qu'est ce qui sera produit pendant cette étape&nbsp;?
                                 </a>
                             </li>
                             <li class="fr-sidemenu__item">
                                 <a class="fr-sidemenu__link" href="#condition" target="_self" aria-current="page">
-                                    4. Quelles sont les conditions à réunir ?
+                                    4. Quelles sont les conditions à réunir&nbsp;?
                                 </a>
                             </li>
                             <li class="fr-sidemenu__item">
                                 <a class="fr-sidemenu__link" href="#financer" target="_self" aria-current="page">
-                                    5. Comment financer cette étape ?
+                                    5. Comment financer cette étape&nbsp;?
                                 </a>
                             </li>
                             <li class="fr-sidemenu__item">
                                 <a class="fr-sidemenu__link" href="#ensuite" target="_self" aria-current="page">
-                                    6. Et ensuite ?
+                                    6. Et ensuite&nbsp;?
                                 </a>
                             </li>
                         </ul>

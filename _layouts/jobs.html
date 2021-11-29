@@ -11,6 +11,46 @@ layout: default
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-9 fr-col-sm-12 fr-col-lg-9">
         <div class="fr-grid-row">
+
+          <div class="fr-card fr-card--horizontal fr-enlarge-link" style="margin-bottom: 20px;">
+            <div class="fr-card__body" style="min-height: 300px;">
+          
+              <div>
+                <div class="fr-grid-row fr-grid-row--gutters">
+                  <div class="fr-col">
+                    <p class="fr-card__detail">Offre de beta.gouv.fr</p>
+                  </div>
+                  <div class="fr-col-4">
+                    <p class="fr-card__detail" style="text-align: right;">le <time datetime="2021-12-09">09/12/2021</time></p></div>
+                </div>
+              </div>
+              
+              <h2 class="fr-card__title">
+                <a class="fr-card__link" href="/rejoindre-la-bin">Une brigade d'intervention numérique</a>
+              </h2>
+          
+              <p class="fr-card__desc">Rejoignez le premier startup studio construit au sein de la Direction Interministérielle du Numérique et dédié aux sujets prioritaires du gouvernement !</p>
+          
+                <p style="font-size: 0.75rem;">
+                  <span>
+                    <i class="ri-map-pin-fill"></i>
+                  </span>
+                  Incubateur de services numériques
+                </p>
+              <ul class="fr-tags-group">
+                <li>
+                  <span class="fr-tag fr-tag--sm">Bienvenue aux juniors</span>
+                </li>
+                <li>
+                  <span class="fr-tag fr-tag--sm">Remote possible</span>
+                </li>
+              </ul>
+            </div>
+            <div class="fr-card__img hiring">
+              <img class="fr-responsive-img lozad" data-src="/assets/images/beta_grand_seminaire.png" title="Séminaire beta.gouv.fr" alt="" data-proofer-ignore>
+           </div>
+          </div>
+          
           {% assign jobs = site.jobs | where: "open", 'true' |  sort: "date" | reverse %}
           {% for job in jobs %}
             {% assign startup_id = job.startup %}

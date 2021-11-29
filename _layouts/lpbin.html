@@ -1,0 +1,162 @@
+---
+layout: default
+---
+
+<section class="fr-py-6w section-lightgrey">
+    <div class="fr-container">
+        <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
+            <div class="fr-col fr-col-12 fr-col-md-8">
+                <h1>Rejoignez la Brigade d'Intervention Numérique</h1>
+                <h2 section-highlight>
+                    <span class="section-highlight"> Vous aimez relever des défis complexes ?<br /> </span>
+                    Venez former le premier startup studio dédié aux sujets prioritaires du gouvernement.
+                </h2>
+                <br />
+                <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary button-white" href="/devenir-intrapreneur/decouvrir-le-role-d-intrapreneur">Découvrir la brigade</a>
+                <a class="fr-btn fr-btn--md fr-enlarge-link" href="/devenir-intrapreneur/decouvrir-le-role-d-intrapreneur">Postuler</a>
+            </div>
+            <div class="fr-col fr-col-12 fr-col-md-4">
+                <div class="home-hero-anim">
+                    <object data="/assets/images/intra/main-lpintra.svg"></object>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="fr-py-8w">
+    <div class="fr-container">
+        <h2>La Brigade d'Intervention Numérique</h2>
+
+        <div class="fr-grid-row fr-grid-row--gutters">
+            <div class="fr-col-md-2 fr-col-xs-2">
+                <img src="/assets/images/icon_brigade.svg" alt="Illustration urgence" />
+            </div>
+            <div class="fr-col-md-10 fr-col-xs-10">
+                <p class="fr-text--lg">
+                    <b>Pourquoi une Brigade ?</b><br />
+                    Forts des apprentissages de la crise, la Direction Interministérielle du Numérique lance un nouveau programme, la Brigade, composée de 15 experts multidisciplinaires, pour renforcer la capacité de l'État à construire rapidement de nouveaux services publics numériques à fort impact.
+                    <br />
+                    Organisée en « startup studio », son rythme de travail et son impact sera affiné au fur et à mesure de ses apprentissages et de ses interventions auprès des cabinets ministériels et des ministères. Entre des temps forts de gestion de commandes, la Brigade aura des temps plus calmes, dédiés à des missions transverses.
+                </p>
+            </div>
+        </div>
+        <div class="fr-grid-row fr-grid-row--gutters">
+            <div class="fr-col-md-2 fr-col-xs-2">
+                <img src="/assets/images/icon_politician.svg" alt="Illustration politique" />
+            </div>
+            <div class="fr-col-md-10 fr-col-xs-10">
+                <p class="fr-text--lg">
+                    <b>Des commandes politiques, c'est-à-dire ?</b><br />
+                    La majorité des services publics numériques construits à beta.gouv naissent de problèmes soulevés par des agents publics qui ont décidé de changer de métier en devenant intrapreneurs et en se dédiant à la résolution de ces irritants subis par les citoyens ou par les agents publics.
+                    <br />
+                    En parallèle de cela, beta.gouv répond à des commandes politiques, c'est-à-dire des demandes venant des Ministre t souventpilotés par le cabinet ministériel en appui à l'administration.
+                </p>
+            </div>
+            <div class="fr-grid-row fr-grid-row--gutters">
+                <div class="fr-col-md-2 fr-col-xs-2">
+                    <img src="/assets/images/icon_pressure.svg" alt="Illustration pression" />
+                </div>
+                <div class="fr-col-md-10 fr-col-xs-10">
+                    <p class="fr-text--lg">
+                        <b>Est-ce que ces produits sont différents ?</b><br />
+                        Il existe certaines différences entre les comandes politiques et nos autres produits : ils sont marqués par une temporatlité urgente et une forte exposition médiatique. Ils portent aussi sur des enjeux très importants touchant la société, ont un très haut potentiel d'impact et sont en ce sens très stimulants et impliquants.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <br><br>
+        <h3>Découvrez les commandes politiques en cours</h3>
+        <div class="fr-grid-row fr-grid-row--gutters">
+            {% assign startups = site.startups %} {% assign starts = "Santé Psy Etudiant,Pass emploi,Engagement Civique,Aides Jeunes" | split: "," %} {% for startup in startups %} {% if starts contains startup.title %}
+            <div class="fr-col-12 fr-col-md-3">
+                <div class="fr-card fr-enlarge-link">
+                    <div class="fr-card__body">
+                        <h4 class="fr-card__title">
+                            <a class="fr-card__link" href="{{ startup.url }}">{{ startup.title | strip_html }}</a>
+                        </h4>
+
+                        <p class="fr-card__detail">{{ startup.owner | strip_html }}</p>
+                        <p class="fr-card__desc">{{ startup.mission | strip_html }}</p>
+                    </div>
+                    <div class="fr-card__img">{% include screenshot.html startup=startup force=true %}</div>
+                </div>
+            </div>
+            {% endif %} {% endfor %}
+        </div>
+    </div>
+</section>
+<section class="fr-py-6w section-blue">
+    <div class="fr-container">
+        <h2>La Brigade, une équipe beta.gouv !</h2>
+        <div class="fr-grid-row fr-grid-row--gutters">
+            <div class="fr-col fr-col-12 fr-col-md-6">
+                <img src="/assets/images/seminaire.jpg" style="width: 100%" alt="La communauté au séminaire de septembre 2021" />
+            </div>
+            <div class="fr-col fr-col-12 fr-col-md-6" style="color: #fff">
+                <p class="fr-text--lg">beta.gouv, c'est une communauté défnie par :</p>
+                <ul>
+                    <li>son <a href="/approche">approche</a> méthodologique inspirée du lean startup</li>
+                    <li>son <a href="/approche/manifeste">manifeste</a></li>
+                    <li>ses <a href="/communaute/#incubateur">14 incubateurs</a> au sein de l'État</li>
+                    <li>ses <a href="/communaute">membres</a> ayant différents métiers (expert métier, développement, UX, déploiement, coaching ...)</li>
+                    <li>ses <a href="/startups">équipes produits</a></li>
+                </ul>
+                <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary button-white" href="/communaute">Découvrir la communauté</a>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="fr-py-8w section-lightgrey">
+    <div class="fr-container">
+        <h3>Qui peut rejoindre la Brigade ?</h3>
+        <div class="fr-grid-row fr-grid-row--gutters">
+          <div class="fr-col-md-6 fr-col-xs-6">
+            <img src="/assets/images/illu_brigade.png" style="width: 100%" alt="Illustration profils Brigade" />
+          </div>
+          <div class="fr-col-md-6 fr-col-xs-6">
+              <p style="margin-bottom: 10px">
+                Nous recherchons plusieurs types de talents pour participer à la construction de ce premier startup studio dédié aux comandes politiques :
+              </p>
+              <ul>
+                <li>7 développeurs et développeuses senior, intermédiaire et junior</li>
+                <li>4 chargé(e)s de déploiement senior et junior</li>
+                <li>2 coachs agiles, polyvalents et à l'aise avec les différentes phases de l'approche beta.gouv</li>
+                <li>1 chargé(e) du marketing produit</li>
+                <li>1 UX designer</li>
+              </ul>
+              <p>Nous cherchons avant tout <em>des personnes qui veulent s'engager pour l'amélioration de l'action de l'État</em>, pour la construction de services publics à fort impact national et ppur la communauté beta.gouv.</p>
+              <a class="fr-btn fr-btn--md fr-enlarge-link" href="/devenir-intrapreneur/decouvrir-le-role-d-intrapreneur">Postuler</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+<section class="fr-py-6w newsletter">
+  <div class="fr-container">
+    <h4>Conditions</h4>
+    <p style="margin-bottom: 10px">
+      Intégrer le programme, c'est obtenir&nbsp;:
+    </p>
+    <ul>
+      <li>Un CDD de 2 ans au sein de la Direction Interministérielle du Numérique jusqu'au 31 décembre 2023.</li>
+      <li>Un salaire de 3500 à 4800 euros en fonction de l'expérience et du profil.</li>
+      <li>L'accès à une communauté d'entrepreneurs publics d'nviron 700 personnes présentes dans l'ensemble des Ministères et sur tout le territoire.</li>
+      <li>Le droit de télétravailler à raison de 2 jours par semaine et 3 jours dans nos bureaux de Lyon, Paris ou Rennes.</li>
+    </ul>
+  </div>
+</section>
+<hr>
+<section class="fr-py-6w newsletter">
+    <div class="fr-container">
+        <form method="post" action="https://app.mailjet.com/widget/iframe/1O2v/9ud" id="newsletter">
+            <h4>Gardons le contact</h4>
+            <p>Recevez les actualités de beta.gouv, tous les mois</p>
+
+            <input type="hidden" id="csrf_token" name="csrf_token" value="MmE2NTZkNWQ0MGQ0Y2IzOWQyZTllOWUxZGI2OWJhMTM2OTJhMDRjNzJjYjM5NWQ4MTRkM2UwNmRlYzBjM2RiYg==" />
+            <div class="fr-input-group">
+                <input required="" class="fr-input" type="email" autocomplete="on" id="subscribe-email" name="w-field-field-36469-172104-430683-email" placeholder="votre adresse e-mail" />
+                <button class="fr-btn" type="submit" name="subscribe" id="form-submit">S’inscrire</button>
+            </div>
+        </form>
+    </div>
+</section>
