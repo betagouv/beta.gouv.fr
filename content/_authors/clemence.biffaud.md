@@ -4,7 +4,7 @@ domaine: Coaching
 role: Coach
 missions:
   - start: 2021-04-23
-    end: 2021-12-31
+    end: 2022-03-01
     status: independent
     employer: NUMA
 competences:
