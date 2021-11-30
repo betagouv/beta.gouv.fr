@@ -1,7 +1,8 @@
 ---
-fullname: Clémence  Biffaud
+fullname: Clémence Biffaud
 domaine: Coaching
 role: Coach
+github: clembiffaud
 missions:
   - start: 2021-04-23
     end: 2021-11-30
