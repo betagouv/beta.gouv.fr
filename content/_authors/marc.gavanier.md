@@ -19,4 +19,4 @@ competences:
   - UI
   - Administration Système
 ---
-En tant qu'artisan du logiciel, j'apporte le maximum de valeur aux utilisateurs
+En tant qu'artisan du logiciel, j'apporte le maximum de valeur aux utilisateurs en créant des outils bien conçus.
