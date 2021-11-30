@@ -1,9 +1,9 @@
 ---
 fullname: Marc Gavanier
-role: Ingénieur logiciel
 domaine: Développement
-link: https://registry.jsonresume.org/marc-gavanier
+role: Ingénieur logiciel
 github: marc-gavanier
+link: https://registry.jsonresume.org/marc-gavanier
 missions:
   - start: 2021-09-15
     end: 2022-09-15
@@ -13,6 +13,10 @@ startups:
   - conseiller-numerique
 badges:
   - segur
+competences:
+  - Développement Frontend
+  - Développement Backend
+  - UI
+  - Administration Système
 ---
-
-En tant qu'artisan du logiciel, j'apporte le maximum de valeur aux utilisateurs en créant des outils bien conçus.
+En tant qu'artisan du logiciel, j'apporte le maximum de valeur aux utilisateurs
