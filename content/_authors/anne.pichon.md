@@ -5,6 +5,9 @@ role: UX
 github: Ann-p
 missions:
   - start: 2017-05-03
+    end: 2020-01-01
+    status: admin
+  - start: 2020-01-02
     end: 2022-06-30
     status: independent
 startups:
