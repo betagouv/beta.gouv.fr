@@ -5,7 +5,7 @@ role: UX
 github: Ann-p
 missions:
   - start: 2017-05-03
-    end: 2024-11-30
+    end: 2022-06-30
     status: independent
 startups:
   - itou
