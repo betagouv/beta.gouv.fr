@@ -10,12 +10,11 @@ layout: default
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-9 fr-col-sm-12 fr-col-lg-9">
-        <div class="fr-grid-row">
-
-          <div class="fr-card fr-card--horizontal fr-enlarge-link" style="margin-bottom: 20px;">
-            <div class="fr-card__body" style="min-height: 300px;">
-          
-              <div>
+        <div class="fr-grid-row fr-grid-row--gutters">
+          <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
+            <div class="fr-card fr-card--horizontal fr-enlarge-link" style="margin-bottom: 20px;">
+              <div class="fr-card__body" style="min-height: 300px;">
+  
                 <div class="fr-grid-row fr-grid-row--gutters">
                   <div class="fr-col">
                     <p class="fr-card__detail">Offre de beta.gouv.fr</p>
@@ -23,63 +22,64 @@ layout: default
                   <div class="fr-col-4">
                     <p class="fr-card__detail" style="text-align: right;">le <time datetime="2021-12-09">09/12/2021</time></p></div>
                 </div>
+  
+                <h2 class="fr-card__title">
+                  <a class="fr-card__link" href="/rejoindre-la-bin">Une brigade d'intervention numérique</a>
+                </h2>
+            
+                <p class="fr-card__desc">Rejoignez le premier startup studio construit au sein de la Direction Interministérielle du Numérique et dédié aux sujets prioritaires du gouvernement !</p>
+            
+                  <p style="font-size: 0.75rem;">
+                    <span>
+                      <i class="ri-map-pin-fill"></i>
+                    </span>
+                    Incubateur de services numériques
+                  </p>
+                <ul class="fr-tags-group">
+                  <li>
+                    <span class="fr-tag fr-tag--sm">Bienvenue aux juniors</span>
+                  </li>
+                  <li>
+                    <span class="fr-tag fr-tag--sm">Remote possible</span>
+                  </li>
+                </ul>
               </div>
-              
-              <h2 class="fr-card__title">
-                <a class="fr-card__link" href="/rejoindre-la-bin">Une brigade d'intervention numérique</a>
-              </h2>
-          
-              <p class="fr-card__desc">Rejoignez le premier startup studio construit au sein de la Direction Interministérielle du Numérique et dédié aux sujets prioritaires du gouvernement !</p>
-          
-                <p style="font-size: 0.75rem;">
-                  <span>
-                    <i class="ri-map-pin-fill"></i>
-                  </span>
-                  Incubateur de services numériques
-                </p>
-              <ul class="fr-tags-group">
-                <li>
-                  <span class="fr-tag fr-tag--sm">Bienvenue aux juniors</span>
-                </li>
-                <li>
-                  <span class="fr-tag fr-tag--sm">Remote possible</span>
-                </li>
-              </ul>
+              <div class="fr-card__img hiring">
+                <img class="fr-responsive-img lozad" data-src="/assets/images/beta_grand_seminaire.png" title="Séminaire beta.gouv.fr" alt="" data-proofer-ignore>
+              </div>
             </div>
-            <div class="fr-card__img hiring">
-              <img class="fr-responsive-img lozad" data-src="/assets/images/beta_grand_seminaire.png" title="Séminaire beta.gouv.fr" alt="" data-proofer-ignore>
-           </div>
           </div>
+          
           
           {% assign jobs = site.jobs | where: "open", 'true' |  sort: "date" | reverse %}
           {% for job in jobs %}
+          <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
             {% assign startup_id = job.startup %}
             {% assign startup = site.startups | where: "title", startup_id | first %}
             {% include card-job.html job=job startup=job.startup %}
+          </div>
           {% endfor %}
         </div>
       </div>
       <div class="fr-col-md-3 fr-col-lg-3 fr-col-sm-12">
-        <div class="fr-grid-row">
-          <div class="fr-card fr-card--no-arrow job-section-blue">
-            <div class="fr-card__body">  
-              <div class="job-team-animation-container">
-                <object data="/assets/home/intra_back.svg" class="job-team-animation-background"></object>    
-                <object data="/assets/home/intra.svg" class="job-team-animation-foreground"></object>
-              </div>   
-              <h3 class="fr-card__title">
-                Vous êtes agent public et vous souhaitez rejoindre beta.gouv.fr ?
-              </h3>
-              <a class="fr-btn fr-btn--sm fr-enlarge-link fr-btn--secondary button-white-border cta-intra" href="/devenir-intrapreneur">Devenir intrapreneur(e)</a>
-            </div>
+        <div class="fr-card fr-card--no-arrow job-section-blue" style="height: inherit;">
+          <div class="fr-card__body">  
+            <div class="job-team-animation-container">
+              <object data="/assets/home/intra_back.svg" class="job-team-animation-background"></object>    
+              <object data="/assets/home/intra.svg" class="job-team-animation-foreground"></object>
+            </div>   
+            <h3 class="fr-card__title">
+              Vous êtes agent public et vous souhaitez rejoindre beta.gouv.fr ?
+            </h3>
+            <a class="fr-btn fr-btn--sm fr-enlarge-link fr-btn--secondary button-white-border cta-intra" href="/devenir-intrapreneur">Devenir intrapreneur(e)</a>
           </div>
-           <div class="fr-card fr-card--no-arrow job-section-blue">
-            <div class="fr-card__body">  
-              <h3 class="fr-card__title">
-                Vous souhaitez candidater à une offre&nbsp;? 
-              </h3>
-                <a class="fr-btn fr-btn--sm fr-enlarge-link fr-btn--secondary button-white-border" href="https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/guide-pour-les-candidat-e-s">Découvrez notre guide pour les candidat(e)s</a>
-            </div>
+        </div>
+          <div class="fr-card fr-card--no-arrow job-section-blue" style="height: inherit;">
+          <div class="fr-card__body">  
+            <h3 class="fr-card__title">
+              Vous souhaitez candidater à une offre&nbsp;? 
+            </h3>
+              <a class="fr-btn fr-btn--sm fr-enlarge-link fr-btn--secondary button-white-border" href="https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/guide-pour-les-candidat-e-s">Découvrez notre guide pour les candidat(e)s</a>
           </div>
         </div>
       </div>
