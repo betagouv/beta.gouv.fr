@@ -87,7 +87,7 @@ Pause 10'
 ---  Fin à 17h30  ---
 
 <br>
-<a id="inscription-alpha" href="https://startupdetat.typeform.com/to/RtSb0wLl" class="fr-btn">Je m'inscris</a>
+<a id="inscription-alpha-2" href="https://startupdetat.typeform.com/to/RtSb0wLl" class="fr-btn">Je m'inscris</a>
 <br>
 <br>
 Pour plus d’information écrivez nous à <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.
@@ -101,6 +101,10 @@ Vous êtes une administration et vous souhaitez une formation Alpha dédiée à 
 <script type="text/javascript">
 const inscriptionalpha = document.querySelector('#inscription-alpha')
   inscriptionalpha.addEventListener('click', function () {
+      _paq.push(['trackEvent', 'conversion', 'Click inscription alpha'])
+    })
+const inscriptionalpha2 = document.querySelector('#inscription-alpha-2')
+  inscriptionalpha2.addEventListener('click', function () {
       _paq.push(['trackEvent', 'conversion', 'Click inscription alpha'])
     })
 </script>
