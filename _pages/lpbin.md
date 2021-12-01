@@ -1,13 +1,13 @@
 ---
 layout: lpbin
-title: Rejoignez la BIN
+title: Rejoindre la brigade
 summary: Nous créons des services publics numériques
 image: assets/images/index.jpg
 additional_css: lpintra.css
-permalink: /rejoindre-la-bin
+permalink: /rejoindre-la-brigade
 breadcrumbs:
     - title: Accueil
       link: /
-    - title: Rejoignez la BIN
-      link: /rejoindre-la-bin
+    - title: Rejoindre la brigade
+      link: /rejoindre-la-brigade
 ---
