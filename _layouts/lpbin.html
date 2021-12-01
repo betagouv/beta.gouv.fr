@@ -12,8 +12,8 @@ layout: default
                     Venez former le premier startup studio dédié aux sujets prioritaires du gouvernement.
                 </h2>
                 <br />
-                <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary button-white" href="/rejoindre-la-bin/offres">Voir les offres</a>
-                <a class="fr-btn fr-btn--md fr-enlarge-link" href="/rejoindre-la-bin/offres">Postuler</a>
+                <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary button-white" href="/rejoindre-la-bin/#la-brigade">Découvrir la Brigade</a>
+                <a class="fr-btn fr-btn--md fr-enlarge-link" href="/rejoindre-la-bin/offres">Voir les offres</a>
             </div>
             <div class="fr-col fr-col-12 fr-col-md-6">
                 <div class="home-hero-anim">
@@ -25,14 +25,14 @@ layout: default
 </section>
 <section class="fr-py-8w">
     <div class="fr-container">
-        <h2>La Brigade</h2>
+        <h2 id="la-brigade">La Brigade</h2>
 
         <div class="fr-grid-row fr-grid-row--gutters">
             <div class="fr-col-md-2 fr-col-xs-2">
                 <img src="/assets/images/icon_brigade.svg" alt="Illustration urgence" />
             </div>
             <div class="fr-col-md-10 fr-col-xs-10">
-                <p class="fr-text--lg">
+                <p>
                     <b>Pourquoi une équipe d'experts ?</b><br />
                     Fort des apprentissages de la crise sanitaire, la Direction Interministérielle du Numérique lance la Brigade, un nouveau programme dédié à la gestion des demandes du Gouvernement. Composée de 15 experts multidisciplinaires, la Brigade vise à renforcer la capacité de l'État à construire rapidement de nouveaux services publics numériques ayant un véritable impact social, environnemental et/ou économique.
                     <br />
@@ -45,7 +45,7 @@ layout: default
                 <img src="/assets/images/icon_politician.svg" alt="Illustration politique" />
             </div>
             <div class="fr-col-md-10 fr-col-xs-10">
-                <p class="fr-text--lg">
+                <p>
                     <b>Les demandes du Gouvernement, c'est-à-dire ?</b><br />
                     La majorité des services publics numériques construits dans le réseau beta.gouv naissent de problèmes soulevés par des agents publics qui ont décidé de devenir intrapreneur ou intrapreneuse afin de se dédier à la résolution d'irritants subis par les citoyens ou les agents.
                     <br />
@@ -57,7 +57,7 @@ layout: default
                     <img src="/assets/images/icon_pressure.svg" alt="Illustration pression" />
                 </div>
                 <div class="fr-col-md-10 fr-col-xs-10">
-                    <p class="fr-text--lg">
+                    <p>
                         <b>Est-ce que ces produits sont différents ?</b><br />
                         Les demandes du Gouvernement diffèrent des Startups d'Etat classiques. En effet, ces services publics numériques sont marqués par une dynamique politique, une temporalité souvent urgente, et une exposition médiatique importante. Plusieurs produits sont nés de ce types de commandes comme : Santé Psy Etudiant, Aides-Jeunes, JeVeuxAider etc. Ainsi, ces nouveaux services publics à fort impact portent sur des enjeux stimulants et importants. 
                     </p>
@@ -65,7 +65,7 @@ layout: default
             </div>
         </div>
         <br><br>
-        <h3>Découvrez les services publics numériques lancés par le gouvernement</h3>
+        <h3>Découvrez les services publics numériques lancés par le Gouvernement</h3>
         <div class="fr-grid-row fr-grid-row--gutters">
             {% assign startups = site.startups %} {% assign starts = "Santé Psy Etudiant,Pass emploi,Engagement Civique,Aides Jeunes" | split: "," %} {% for startup in startups %} {% if starts contains startup.title %}
             <div class="fr-col-12 fr-col-md-3">
@@ -93,14 +93,15 @@ layout: default
                 <img src="/assets/images/seminaire.jpg" style="width: 100%" alt="La communauté au séminaire de septembre 2021" />
             </div>
             <div class="fr-col fr-col-12 fr-col-md-6" style="color: #fff">
-                <p class="fr-text--lg">beta.gouv, c'est une communauté défnie par :</p>
+                <p class="fr-text--lg" style="margin-bottom: 20px">beta.gouv, c'est une communauté définie par :</p>
                 <ul>
                     <li>une <a href="/approche">approche</a> méthodologique inspirée du lean startup</li>
-                    <li>un <a href="/approche/manifeste">manifeste</a></li> proposant une nouvelle façon de concevoir des services publics numériques
+                    <li>un <a href="/approche/manifeste">manifeste</a> proposant une nouvelle façon de concevoir des services publics numériques</li>
                     <li><a href="/communaute/#incubateur">14 incubateurs</a> au sein de l'État</li>
-                    <li>une <a href="/communaute">membres</a> d'environ 700 personnes ayant différents métiers (expert métier, développement, UX, déploiement, coaching ...)</li>
-                    <li>environ 150  <a href="/startups">équipes produits</a></li> dédiés à l'amélioration de la vie des citoyens ou de l'action publique
+                    <li><a href="/communaute">700 personnes</a> ayant différents métiers (expert métier, développement, UX, déploiement, coaching ...)</li>
+                    <li><a href="/startups">150 équipes produits</a> dédiés à l'amélioration de la vie des citoyens et/ou de l'action publique</li>
                 </ul>
+                <br>
                 <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary button-white" href="/communaute">Découvrir la communauté</a>
             </div>
         </div>
