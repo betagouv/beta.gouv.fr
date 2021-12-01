@@ -1,11 +1,22 @@
 ---
 layout: with-sidebar
 sidebar: sidebar-approche.html
-title: La construction
+title: Réaliser un service public numérique
+subtitle: La Startup d’Etat
 permalink: /approche/construction
+breadcrumbs:
+    - title: Accueil
+      link: /
+    - title: Le programme
+      link: /approche
+    - title: Réaliser un service numérique
+      link: /approche/construction
 ---
+<br/>
+<br/>
+## La construction
 
-La hase de construction permet de lancer le plus rapidement possible un service numérique pour s’assurer qu’il résout le problème visé. Il s’agit d’une phase expérimentale faite de tests et d’apprentissages terrain dans laquelle l’équipe cherche à se confronter à de premiers utilisateurs dès que possible.
+La phase de construction permet de lancer le plus rapidement possible un service numérique pour s’assurer qu’il résout le problème visé. Il s’agit d’une phase expérimentale faite de tests et d’apprentissages terrain dans laquelle l’équipe cherche à se confronter à de premiers utilisateurs dès que possible.
 
 ## Fonctionnement
 
@@ -20,7 +31,7 @@ Au terme de cette phase qui dure habituellement six mois à un an, l’administr
                     <h4>Vous souhaitez construire un service public numérique avec nous ?
 Parlez-nous de votre projet !</h4>
                     <p>
-                    <a class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Nous écrire</a>
+                    <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Nous écrire</a>
                     </p>
                 </div>
             </div>

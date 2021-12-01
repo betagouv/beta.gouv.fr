@@ -103,7 +103,7 @@ title: Découvrir le programme
          <br>
          Décideur public, vous voulez lancer une investigation avec nous?
          <br>
-         <a class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
+         <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
       </div>
    </div>
    <br>
@@ -144,7 +144,7 @@ title: Découvrir le programme
          <br>
          Décideur public, vous voulez réaliser un service public numérique ? 
          <br>
-         <a class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
+         <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
       </div>
    </div>
 </div>

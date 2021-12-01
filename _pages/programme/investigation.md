@@ -19,7 +19,7 @@ breadcrumbs:
                 <div class="fr-sidemenu__inner">
                     <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
                     <img 
-                        src="/img/programme/illu_identifier.png" alt="Récapitulatif visuel des phases" style="width: 100%;" />
+                        src="/img/programme/investigation.png" alt="Récapitulatif visuel des phases" style="width: 100%;" class="hidden-mobile" />
                     <div class="fr-collapse" id="fr-sidemenu-wrapper">
                         <h1 class="fr-sidemenu__title fr-pl-1w">Sommaire</h1>
                         <ul class="fr-sidemenu__list">
@@ -126,7 +126,7 @@ breadcrumbs:
                     <h4>Vous souhaitez lancer une investigation avec nous ?
 Parlez-nous de votre projet !</h4>
                     <p>
-                    <a class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Nous écrire</a>
+                    <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Nous écrire</a>
                     </p>
                 </div>
             </div>
