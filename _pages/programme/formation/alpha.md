@@ -96,3 +96,12 @@ Pour plus d’information écrivez nous à <a href="mailto:alpha@beta.gouv.fr">a
 
 Vous êtes une administration et vous souhaitez une formation Alpha dédiée à vos services ? Parlez-nous de votre besoin à <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>. 
 
+
+<!-- conversion tracking -->
+<script type="text/javascript">
+const inscriptionalpha = document.querySelector('#inscription-alpha')
+  inscriptionalpha.addEventListener('click', function () {
+      _paq.push(['trackEvent', 'conversion', 'Click inscription alpha'])
+    })
+</script>
+<!-- end conversion tracking -->

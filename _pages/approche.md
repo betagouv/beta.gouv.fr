@@ -103,7 +103,7 @@ title: Découvrir le programme
          <br>
          Décideur public, vous voulez lancer une investigation avec nous?
          <br>
-         <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
+         <a id="btn-nous-ecrire-investigation" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
       </div>
    </div>
    <br>
@@ -171,3 +171,16 @@ title: Découvrir le programme
    </div>
    <br>
 </div>
+
+<!-- conversion tracking -->
+<script type="text/javascript">
+const nousecrireinvestigation = document.querySelector('#btn-nous-ecrire-investigation')
+const nousecrire = document.querySelector('#btn-nous-ecrire')
+nousecrireinvestigation.addEventListener('click', function () {
+      _paq.push(['trackEvent', 'conversion', 'Click nous ecrire'])
+    })
+nousecrire.addEventListener('click', function () {
+      _paq.push(['trackEvent', 'conversion', 'Click nous ecrire'])
+    })
+</script>
+<!-- end conversion tracking -->
