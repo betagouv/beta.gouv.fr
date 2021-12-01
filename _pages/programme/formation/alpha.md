@@ -46,7 +46,7 @@ images:
 **La prochaine session aura lieu le jeudi 9 décembre 2021. En VISIO**
 <br>
 <br>
-<a href="https://startupdetat.typeform.com/to/RtSb0wLl" class="fr-btn">Je m'inscris</a>
+<a id="inscription-alpha" href="https://startupdetat.typeform.com/to/RtSb0wLl" class="fr-btn">Je m'inscris</a>
 <br>
 <br>
 Vous êtes un agent public et vous souhaitez découvrir la méthode Beta.gouv ? Vous êtes agent public et vous avez identifié un problème à résoudre au sein de vos services ? **La formation Alpha est faite pour vous !**
@@ -87,7 +87,7 @@ Pause 10'
 ---  Fin à 17h30  ---
 
 <br>
-<a href="https://startupdetat.typeform.com/to/RtSb0wLl" class="fr-btn">Je m'inscris</a>
+<a id="inscription-alpha" href="https://startupdetat.typeform.com/to/RtSb0wLl" class="fr-btn">Je m'inscris</a>
 <br>
 <br>
 Pour plus d’information écrivez nous à <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.
