@@ -3,7 +3,7 @@ fullname: Christophe VANFRACKEM
 role: Développeur
 domaine: Développement
 link: https://www.zentux.fr
-github: https://github.com/z3ntUx
+github: z3ntUx
 missions:
   - start: 2021-07-07
     end: 2022-01-07
