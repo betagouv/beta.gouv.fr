@@ -10,19 +10,12 @@ missions:
     status: admin
     employer: DGALN
 startups:
-    - acceslibre
     - aides-territoires
     - apilos
     - bureaux.vacants
-    - camino
-    - docurba
-    - envergo
-    - friches
-    - innovation-urbaine
     - locatio
-    - resorption-bidonvilles
-    - sparte
     - zero-logement-vacant
+    - histologe
 competences:
   - Administration Publique
   - Gestion de Produit
