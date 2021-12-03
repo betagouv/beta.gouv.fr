@@ -1,6 +1,6 @@
 ---
 fullname: Martin Fourcade
-role: Lead developpeur
+role: Développeur
 domaine: Développement
 github: mfo
 missions:
@@ -9,9 +9,9 @@ missions:
     status: independent
     employer: octo
   - start: 2021-11-15
-    end: 2021-12-03
+    end: 2021-12-31
     status: independent
-    employer: octo
+    employer: scopopop
 startups:
   - monstage
   - demarches-simplifiees.fr
