@@ -1,5 +1,5 @@
 ---
-title: SNDV - Maritime \ MOANA
+title: SNDV - Maritime - MOANA
 mission: Améliorer le traitement des données de voyages du transport maritime à
   des fins de contrôle et de sûreté
 owner: service national des données de voyage (SNDV)
