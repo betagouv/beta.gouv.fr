@@ -6,7 +6,7 @@ github: lydiasan
 link: ""
 missions:
   - start: 2021-03-01
-    end: 2021-11-30
+    end: 2022-01-31
     status: service
     employer: Codeurs en Liberté
 startups:

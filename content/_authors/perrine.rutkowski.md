@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: PerrineRut
 missions:
   - start: 2020-02-12
-    end: 2022-06-30
+    end: 2023-12-31
     status: admin
     employer: CEREMA
 startups:

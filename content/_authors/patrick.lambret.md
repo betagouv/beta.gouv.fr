@@ -6,12 +6,12 @@ github: patrick-coach
 missions:
   - start: 2021-04-22
     end: 2022-12-31
-    status: service
+    status: independent
     employer: freelance
 startups:
-  - mobilic
-  - dora
+   - mobilic
+   - dora
 competences:
-  - Gestion de Produit
-  - Coaching
+   - Gestion de Produit
+   - Coaching
 ---

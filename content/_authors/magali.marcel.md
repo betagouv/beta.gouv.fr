@@ -9,6 +9,13 @@ missions:
     end: 2022-02-08
     status: admin
     employer: DGALN
+startups:
+    - aides-territoires
+    - apilos
+    - bureaux.vacants
+    - locatio
+    - zero-logement-vacant
+    - histologe
 competences:
   - Administration Publique
   - Gestion de Produit

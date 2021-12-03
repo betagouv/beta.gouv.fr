@@ -10,4 +10,5 @@ missions:
     status: independent
 startups:
     - mon-entreprise
+    - euphrosyne
 ---

@@ -21,6 +21,7 @@ phases:
 ## Contexte
 
 Le service national des données de voyage (SNDV), service à compétence nationale interministériel, est en charge de l’amélioration des dispositifs de collecte et traitement des données de voyages à des fins régaliennes. En France, plus de 30 millions de personnes franchissent les frontières maritimes chaque année, hors pandémie. Les transports maritimes (ferries, cargo, croisière, plaisance), font l’objet d’obligations réglementaires de déclaration de données de voyage aux autorités portuaires. 
+
 L’objet des travaux de la start-up d’Etat est d’améliorer le traitement de ces données, transmises dans ce cadre.
 
 

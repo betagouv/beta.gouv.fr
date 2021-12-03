@@ -3,7 +3,7 @@ fullname: Christophe Mamfoumbi-Phalente
 role: Designer
 missions:
   - start: 2021-05-10
-    end: 2021-12-31
+    end: 2021-08-31
     status: independent
 startups:
   - sante-psy-etudiant

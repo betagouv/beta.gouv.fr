@@ -1,26 +1,28 @@
 ---
+title: Au Compost Mitoyen !
 mission: Faciliter le déploiement de composteurs collectifs et encourager leur
   utilisation
-incubator: dinum
-repository: https://github.com/betagouv/poubellesbattle
-contact: contact@aucompostmitoyen.fr
-redirect_from:
-  - /startups/poubelles-battle
-stats_url: https://www.poubellesbattle.fr/stats
-title: Au Compost Mitoyen !
 owner: DINUM
 sponsors:
   - name: Direction interministérielle du numérique
     acronym: DINUM
     domaine_ministeriel: environnement
     type: administration-centrale
+incubator: dinum
 link: http://aucompostmitoyen.fr/
+repository: https://github.com/betagouv/poubellesbattle
+contact: contact@aucompostmitoyen.fr
+redirect_from:
+  - /startups/poubelles-battle
+stats_url: https://www.poubellesbattle.fr/stats
 stats: true
 phases:
   - name: investigation
     start: 2019-06-03
   - name: construction
     start: 2019-09-03
+  - name: alumni
+    start: 2021-09-01
 ---
 
 Aujourd’hui, 73,6% de la population paloise habite en appartement, soit 54 122 habitants. 

@@ -144,6 +144,18 @@
   background-color: #E9E6FC;
 }
 
+.section-lightgrey {
+  background-color: #f3f6ff;
+}
+
+.section-lightgrey h1 {
+  color: #1e1e1e;
+}
+
+.section-lightgrey .section-highlight {
+ color: #484d7a; 
+}
+
 .section-dark {
   background-color: #1c1c1c;
   color: #fff;
@@ -488,10 +500,6 @@ h2.phase-title em {
 }
 
 /* START SECTION CLASS */
-.section-light-grey {
-  background-color: var(--beige);
-}
-
 .section-blue {
   background: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%),
   linear-gradient(0deg, #00006D, #00006D);
