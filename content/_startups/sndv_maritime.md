@@ -1,5 +1,5 @@
 ---
-title: SNDV - Maritime MOANA
+title: SNDV - Maritime - MOANA
 mission: Améliorer le traitement des données de voyages du transport maritime à
   des fins de contrôle et de sûreté
 owner: service national des données de voyage (SNDV)
@@ -20,7 +20,7 @@ phases:
 ---
 ## Contexte
 
-Le service national des données de voyage (SNDV), service à compétence nationale interministériel, est en charge de l’amélioration des dispositifs de collecte et traitement des données de voyages à des fins régaliennes. En France, plus de 30 millions de personnes franchissent les frontières maritimes chaque année, hors pandémie. Les transports maritimes (ferries, cargo, croisière, plaisance), font l’objet d’obligations réglementaires de déclaration de données de voyage aux autorités portuaires.
+Le service national des données de voyage (SNDV), service à compétence nationale interministériel, est en charge de l’amélioration des dispositifs de collecte et traitement des données de voyages à des fins régaliennes. En France, plus de 30 millions de personnes franchissent les frontières maritimes chaque année, hors pandémie. Les transports maritimes (ferries, cargo, croisière, plaisance), font l’objet d’obligations réglementaires de déclaration de données de voyage aux autorités portuaires. 
 
 L’objet des travaux de la start-up d’Etat est d’améliorer le traitement de ces données, transmises dans ce cadre.
 
@@ -37,7 +37,7 @@ Les activités de contrôle aux frontières sont soumises à des exigences de fl
 
 ## Solution proposée
 
-La solution vise à aligner les usages de la donnée de voyage sur les meilleures pratiques des services utilisateurs, et de permettre aux entités locales des différents ministères de partager des informations utiles pour leurs contrôles.
+La solution vise à aligner les usages de la donnée de voyage sur les meilleures pratiques des services utilisateurs, et de permettre aux entités locales des différents ministères de partager des informations utiles pour leurs contrôles. 
 
 
 ## Stratégie
