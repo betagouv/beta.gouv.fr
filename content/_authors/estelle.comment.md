@@ -16,6 +16,11 @@ missions:
     end: 2021-07-02
     status: admin
     employer: dinum
+  - start: 2021-11-23
+    end: 2022-01-31
+    status: independent
+startups:
+  - tchap
 previously:
   - e-controle
   - sante-psy-etudiant
