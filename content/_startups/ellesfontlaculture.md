@@ -43,12 +43,12 @@ Plus précisément :
 C'est à la fin de la jeune création, vers 35 ans que les femmes commencent à disparaître de la profession. La disparition des aides "jeunes créations", du réseau des écoles, la pression de la maternité... réduisent leurs commandes et renforcent leur précarité engendrant le cumul d'emploi et la disparition progressive du secteur de la photographie.  
 
 ## Hypothèses de solution :
-[illustration](https://user-images.githubusercontent.com/36261410/144889350-74220782-8203-4c05-9faf-01885eef0feb.png)
+![illustration](https://user-images.githubusercontent.com/36261410/144889350-74220782-8203-4c05-9faf-01885eef0feb.png).
 
 La solution envisagée a donc pour objectif d'aider les femmes à rester dans le secteur de la photographie. L'interface regroupe plusieurs services : simplifier l'accès aux aides financières en valorisant les actions paritaires et dédiées aux femmes (accueil d'enfant en résidence, droits aux congés maternité...) et la mise à disposition de ressources pratiques et éducatives visant à gagner en temps et légitimité dans sa pratique. 
 
 Le site poursuit actuellement sa construction, en recontrant ses utilisatrices pour l'adapter à leurs besoins. 
-[illustration entretien](https://user-images.githubusercontent.com/36261410/144889488-25f80e05-6104-4315-b3ed-51d115bb1f04.png)
+![illustration entretien](https://user-images.githubusercontent.com/36261410/144889488-25f80e05-6104-4315-b3ed-51d115bb1f04.png).
 
 - Dates de l'investigation : env 12 semaines à partir du 05/01/2021
 - Passage en construction le 25 mars 2021
