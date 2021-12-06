@@ -2,7 +2,6 @@
 fullname: Miriam Paiola
 role: Spécialiste en management de la sécurité numérique
 domaine: Produit
-github: miriampaiola
 missions:
   - start: 2021-12-04
     end: 2022-12-01
