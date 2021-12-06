@@ -31,47 +31,45 @@ title: Découvrir le programme
    <h3>Notre approche</h3>
    <div class="fr-grid-row  fr-grid-row--gutters startups fr-py-6w">
       <div class="fr-col fr-col-12 fr-col-md-3"  >
-         <div class="fr-p-1w bg-white" >
-            <br/>
-            <p>
-               <b>Améliorer de l'intérieur</b>
-               <br/> 
-               <br/>
-               En formant et faisant équipe avec des agents publics "intrapreneurs"
-            </p>
+      <div class="fr-tile fr-enlarge__link">
+      <div class="fr-tile__body">
+            <h4 class="fr-tile__title">
+               Améliorer de l'intérieur
+            </h4>
+            <p class="fr-tile__desc">En formant et faisant équipe avec des agents publics "intrapreneurs".</p>
+         </div>
+      </div>
+      </div>
+      <div class="fr-col fr-col-12 fr-col-md-3" >
+         <div class="fr-tile fr-enlarge__link">
+            <div class="fr-tile__body">
+            <h4 class="fr-tile__title">
+               Des jalons tous les 6 mois
+            </h4>
+            <p class="fr-tile__desc">Pour faire le point sur l’impact du produit, le continuer ou l’arrêter.</p>
+            </div>
          </div>
       </div>
       <div class="fr-col fr-col-12 fr-col-md-3" >
-         <div class="fr-p-1w bg-white"  >
-            <br/>
-            <p><b> Des jalons tous les 6 mois</b>
-               <br/>
-               <br/>
-               Pour faire le point sur l’impact du produit, le continuer ou l’arrêter
-            </p>
-         </div>
-      </div>
-      <div class="fr-col fr-col-12 fr-col-md-3 " >
-         <div class="fr-p-1w bg-white" >
-            <br/>
-            <p>
-               <b>
+         <div class="fr-tile fr-enlarge__link">
+            <div class="fr-tile__body">
+            <h4 class="fr-tile__title">
                L'approche "Startup d'Etat"
-               </b> 
-               <br/>
-               <br/>
-               Un premier produit au contact des utilisateurs le plus vite possible
-            </p>
+            </h4>
+            <p class="fr-tile__desc">Un premier produit au contact des utilisateurs le plus vite possible.</p>
+            </div>
          </div>
       </div>
-      <div class="fr-col fr-col-12 fr-col-md-3  " >
-         <div class="fr-p-1w bg-white"  >
-            <br/>
-            <p><b>Un manifeste</b>
-               <br/>
-               <br/>
-               Pour détermine notre façon de travailler ensemble. <a href="https://beta.gouv.fr/approche/manifeste">Lire notre manifeste</a>
-            </p>
+      <div class="fr-col fr-col-12 fr-col-md-3" >
+         <div class="fr-tile fr-enlarge__link">
+            <div class="fr-tile__body">
+            <h4 class="fr-tile__title">
+               Un manifeste
+            </h4>
+            <p class="fr-tile__desc">Pour détermine notre façon de travailler ensemble.
+            <br>
+            <a href="https://beta.gouv.fr/approche/manifeste">Lire notre manifeste</a></p>
+            </div>
          </div>
       </div>
    </div>
@@ -171,6 +169,7 @@ title: Découvrir le programme
    </div>
    <br>
 </div>
+
 
 <!-- conversion tracking -->
 <script type="text/javascript">
