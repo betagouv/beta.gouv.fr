@@ -8,14 +8,19 @@ sponsors:
     domaine_ministeriel: spm
     type: administration-centrale
 incubator: dinum
-contact: contact@metiers.numerique.gouv.fr
 phases:
   - name: investigation
     start: 2021-03-02
     end: 2021-05-07
   - name: construction
     start: 2021-05-16
+contact: contact@metiers.numerique.gouv.fr
+link: https://metiers.numerique.gouv.fr
+repository: https://github.com/betagouv/metiers-numeriques
+stats: true
+stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=191&period=range&date=previous30&updated=1
 ---
+
 ### Contexte
 
 En 2021, les citoyens et les agents attendent un État véritablement en prise avec les enjeux et la culture numérique. L’enjeu d’attractivité devient alors essentiel ! Et parce que cet enjeu d’attractivité est un enjeu collectif pour nous tous, nous devons y répondre de la façon la plus adéquate et pertinente possible. 
