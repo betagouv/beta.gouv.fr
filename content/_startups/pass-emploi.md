@@ -2,6 +2,7 @@
 title: Pass emploi
 mission: "Aider les jeunes à trouver un emploi"
 owner: Ministère du Travail, de l'Emploi et de l'Insertion
+repository: https://github.com/SocialGouv/pass_emploi_app
 sponsors:
   - name: Délégation générale à l'emploi et à la formation professionnelle
     acronym: DGEFP
