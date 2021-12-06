@@ -8,6 +8,8 @@ missions:
     end: 2022-01-07
     status: independent
     employer: Benext Company
+startups:
+  - pass-emploi
 ---
 
 Designer graphique
