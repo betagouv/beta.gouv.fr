@@ -1,6 +1,6 @@
 ---
 fullname: Martin GRIFFAULT
-role: Chargé de mission coordinateur national
+role: Intrapreneur, chargé de mission coordinateur national
 domaine: Intraprenariat
 link: http://www.anlci.gouv.fr/
 missions:
