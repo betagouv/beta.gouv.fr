@@ -17,7 +17,7 @@ phases:
 link: https://labonneformation.pole-emploi.fr
 repository: https://git.beta.pole-emploi.fr/open-source/labonneformation
 stats: true
-contact: christophe.bonraisin@pole-emploi.fr
+contact: christ.bonraisin@pole-emploi.fr
 redirect_from:
   - /startups/labonneformation
 ---
