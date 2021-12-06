@@ -623,3 +623,9 @@ h2.phase-title em {
 }
 
 
+/* TYPO PAGE APPROCHE */
+.decorated{
+background-color: #E9E6FC;
+width: max-content;
+font-size: 1rem;
+}

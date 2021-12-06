@@ -88,9 +88,9 @@ title: Découvrir le programme
       </div>
       <div class="fr-col-md-8 fr-px-4w fr-col-xs-12">
          <span><b>L’Investigation</b></span>
-         <h2>
+         <h3>
             Identifier le problème à résoudre
-         </h2>
+         </h3>
          Valider que le problème peut être résolu par le numérique  en rencontrant des utilisateurs pour qualifier le problème et imaginer des ébauches de solutions
          <div class="fr-mb-4w fr-p-1w fr-col-md-6 fr-col-sm-12 fr-mt-2w section-grey" >
             <span aria-hidden="true">📅</span> Pendant <b>1 à 2 mois </b><br>
@@ -115,22 +115,19 @@ title: Découvrir le programme
       </div>
       <div class="fr-col-md-8 fr-px-4w fr-col-xs-12">
          <span><b>La Start-up d’Etat</b></span>
-         <h2>
+         <h3>
             Réaliser un service public numérique
-         </h2>
+         </h3>
          <p>
-            <b>La phase de construction</b>
-            <br>
+            <h4 class="decorated">La phase de construction</h4>
             Constituer son équipe et développer son produit  en produisant la première version de la solution sur un terrain d’expérimentation.
          </p>
          <p>
-            <b>La phase d’accélération</b>
-            <br>
+            <h4 class="decorated">La phase d’accélération</h4>
             Avoir un produit fini déployé au niveau national.
          </p>
          <p>
-            <b>La phase de transfert</b>
-            <br>
+            <h4 class="decorated">La phase de transfert</h4>
             Créer les conditions de la reprise en assurant la pérennité  du projet au sein de son administration d‘origine.
          </p>
          <div class="fr-mb-4w fr-p-1w fr-col-md-8 fr-col-sm-12 fr-mt-2w section-grey">
@@ -158,9 +155,9 @@ title: Découvrir le programme
    </div>
    <div class="fr-col-md-8 fr-px-4w fr-col-xs-12">
       <span><b>La formation des agents publics</b></span>
-      <h2>
-         Passer une journée à betagouv
-      </h2>
+      <h3>
+         Passer une journée à beta.gouv
+      </h3>
       <p>
          Une journée de formation pour challenger votre idée ou votre problème, poser toutes vos questions et repartir avec les idées claires pour la suite !
       </p>
