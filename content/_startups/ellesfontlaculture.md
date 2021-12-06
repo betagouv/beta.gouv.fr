@@ -24,7 +24,7 @@ L'_Effet Mathilda_ - concept forgé par Margaret Rossier afin de décrire le pro
 L'invisibilisation et la sous-représentation des femmes dans le secteur de la photographie participe de plusieurs autres constats; les artistes et professionnels photographes femmes sont : 
 - moins exposées
 - moins programmées dans les festivals
-- moins rémunérées(-24%)
+- moins rémunérées (-24%)
 - moins aidées par les bourses et les subventions
 - moins honorées par des prix
 que leurs homologues de genre masculin.
@@ -43,17 +43,17 @@ Plus précisément :
 C'est à la fin de la jeune création, vers 35 ans que les femmes commencent à disparaître de la profession. La disparition des aides "jeunes créations", du réseau des écoles, la pression de la maternité... réduisent leurs commandes et renforcent leur précarité engendrant le cumul d'emploi et la disparition progressive du secteur de la photographie.  
 
 ## Hypothèses de solution :
-![illustration](https://user-images.githubusercontent.com/36261410/144889350-74220782-8203-4c05-9faf-01885eef0feb.png).
+![illustration](https://user-images.githubusercontent.com/36261410/144894209-b55f5e1a-353c-4ac4-94b1-cc7a687b7977.png).
 
 La solution envisagée a donc pour objectif d'aider les femmes à rester dans le secteur de la photographie. L'interface regroupe plusieurs services : simplifier l'accès aux aides financières en valorisant les actions paritaires et dédiées aux femmes (accueil d'enfant en résidence, droits aux congés maternité...) et la mise à disposition de ressources pratiques et éducatives visant à gagner en temps et légitimité dans sa pratique. 
-
-Le site poursuit actuellement sa construction, en recontrant ses utilisatrices pour l'adapter à leurs besoins. 
-![illustration entretien](https://user-images.githubusercontent.com/36261410/144889488-25f80e05-6104-4315-b3ed-51d115bb1f04.png).
 
 - Dates de l'investigation : env 12 semaines à partir du 05/01/2021
 - Passage en construction le 25 mars 2021
 - Première version du service annoncée lors des _Rencontres de la Photographie à Arles en juillet 2021_
 - Première version du service présentée le 11 novembre 2021 à _Paris Photo_
+
+Le site poursuit actuellement sa construction, en recontrant ses utilisatrices pour l'adapter à leurs besoins. 
+![illustration entretien](https://user-images.githubusercontent.com/36261410/144894835-620f6c38-90df-4e42-93c8-ede0f746c253.png).
 
 Vous souhaitez nous aider ? Partager votre experience ? Poser des questions, nous faire part de remarques, suggestions ? 
 N'hésitez pas à nous le faire savoir en nous envoyant un email. Vos retours sont précieux.
