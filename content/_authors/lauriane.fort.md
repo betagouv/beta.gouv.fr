@@ -1,5 +1,5 @@
 ---
-fullname: Lauriane Fort Slattery
+fullname: Lauriane Fort
 role: Chargée de produit
 domaine: Produit
 github: lauriane-f
