@@ -2,7 +2,9 @@
 layout: lpbin
 title: Rejoindre la brigade
 summary: Nous créons des services publics numériques
-additional_css: lpintra.css
+additional_css: 
+ - lpintra.css
+ - home.css
 permalink: /rejoindre-la-brigade
 breadcrumbs:
     - title: Accueil
