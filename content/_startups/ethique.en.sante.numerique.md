@@ -4,7 +4,7 @@ mission: Recueillir les signalements d’ordre éthique sur l’utilisation du
   numérique en santé
 owner: Délégation du numérique en santé et Agence du numérique en santé
 sponsors: []
-incubator: dinum
+incubator: sgmas
 contact: Magali.ROBERT@esante.gouv.fr
 phases:
   - name: investigation
