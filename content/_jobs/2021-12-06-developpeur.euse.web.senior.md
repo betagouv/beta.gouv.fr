@@ -76,7 +76,7 @@ D’autres recrutements sont prévus au 1er trimestre 2022 : des spécialistes e
 L’équipe est dispersée à travers la France (Toulouse, Bordeaux, Paris), et travaille principalement à distance, mais on essaye de se retrouver en présentiel (une fois tous les mois et demi environ) et d’aller régulièrement à la rencontre des utilisateurs. 
 
 * Contrat : indépendant (portage possible)
-* TJM envisagé : 550-700 € selon expérience (voir grille de rémunération Beta Gouv)
+* TJM envisagé : 550-700 € selon expérience (voir [grille de rémunération Beta Gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/les-differents-statuts/independants-freelances/remuneration#grille-de-taux-journaliers/))
 * Charge : quatre jours par semaine (l'équipe est OFF le vendredi)
 * Emplacement : télétravail complet (full remote)
 * Date de début souhaitée : début janvier 2022
