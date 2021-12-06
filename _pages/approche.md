@@ -9,7 +9,7 @@ title: Découvrir le programme
       <p class="fr-text--lg">
          <b>beta.gouv</b> est un programme d’incubation qui aide les administrations publiques à construire des services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens.
       </p>
-      <h3>Nos accompagnements :</h3>
+      <h3>Nos accompagnements</h3>
       <a class="fr-btn fr-btn--md" href="#investigation">Lancer une investigation</a>
       <br>
       <br>
@@ -28,7 +28,7 @@ title: Découvrir le programme
 <br>
 <div class="fr-container section-grey ">
    <br>
-   <h3>Notre approche</h3>
+   <h3>Notre fonctionnement</h3>
    <div class="fr-grid-row  fr-grid-row--gutters startups fr-py-6w">
       <div class="fr-col fr-col-12 fr-col-md-3"  >
       <div class="fr-tile fr-enlarge__link">
@@ -66,7 +66,7 @@ title: Découvrir le programme
             <h4 class="fr-tile__title">
                Un manifeste
             </h4>
-            <p class="fr-tile__desc">Pour détermine notre façon de travailler ensemble.
+            <p class="fr-tile__desc">Pour déterminer notre façon de travailler ensemble.
             <br>
             <a href="https://beta.gouv.fr/approche/manifeste">Lire notre manifeste</a></p>
             </div>
