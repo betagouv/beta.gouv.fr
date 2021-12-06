@@ -6,7 +6,7 @@ startup: dora
 ---
 ## à propos de Dora
 
-La solution [DORA](https://dora.fabrique.social.gouv.fr/) est un service public numérique alimenté par les offreurs de solutions d’insertion locales, nationales et numériques. Cette base de données centralisée permet aux accompagnateurs de l’insertion de mobiliser rapidement l’offre d’insertion adaptée aux besoins des bénéficiaires qu’ils accompagnent via :
+La solution [DORA](https://dora.fabrique.social.gouv.fr/){target="_blank"} est un service public numérique alimenté par les offreurs de solutions d’insertion locales, nationales et numériques. Cette base de données centralisée permet aux accompagnateurs de l’insertion de mobiliser rapidement l’offre d’insertion adaptée aux besoins des bénéficiaires qu’ils accompagnent via :
 
 * une recherche simple et personnalisée,
 * des résultats qualifiés
@@ -84,6 +84,6 @@ L’équipe est dispersée à travers la France (Toulouse, Bordeaux, Paris), et 
 
 ## ta candidature
 
-Pour postuler, envoie-nous un petit message à [dora@beta.gouv.fr](<mailto:dora@beta.gouv.fr?cc=recrutement@beta.gouv.fr?subject=candidature%DÉVELOPPEUR•EUSE WEB SENIOR>), avec recrutement@beta.gouv.fr en copie, en nous expliquant ce qui te motive à bosser sur Dora ! Tu peux ajouter au choix : ton CV, un lien vers ton profil github, site perso, LinkedIn, Malt ou équivalent... 
+Pour postuler, envoie-nous un petit message à [dora@beta.gouv.fr](<mailto:dora@beta.gouv.fr?cc=recrutement@beta.gouv.fr&subject=candidature%DÉVELOPPEUR•EUSE WEB SENIOR>){target="_blank"}, avec recrutement@beta.gouv.fr en copie, en nous expliquant ce qui te motive à bosser sur Dora ! Tu peux ajouter au choix : ton CV, un lien vers ton profil github, site perso, LinkedIn, Malt ou équivalent... 
 
 On te recontactera rapidement par mail pour convenir d’un rendez-vous avec l’équipe !
