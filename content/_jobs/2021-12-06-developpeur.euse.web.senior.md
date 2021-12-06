@@ -1,7 +1,7 @@
 ---
 roles: DÉVELOPPEUR•EUSE WEB SENIOR
 open: true
-date: 2021-12-06T11:16:16.549Z
+date: 2021-12-06T11:49:10.397Z
 startup: dora
 ---
 ## à propos de Dora  
