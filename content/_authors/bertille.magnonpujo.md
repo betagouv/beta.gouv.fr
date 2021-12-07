@@ -2,6 +2,7 @@
 fullname: Bertille MAGNON-PUJO
 domaine: Produit
 role: Chargée d'assistance aux utilisateurs
+github: bertillemp
 link: https://www.linkedin.com/in/bertille-magnon-pujo/
 missions:
   - start: 2021-06-01
