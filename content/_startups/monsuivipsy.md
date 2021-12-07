@@ -5,15 +5,18 @@ owner: Agence Régionale de Santé Ile-de-France
 incubator: sgmas
 link: https://monsuivipsy.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/monsuivipsy
-stats: true
-stats_url: https://matomo-metabase-monsuivipsy.fabrique.social.gouv.fr/public/dashboard/5c48ca1a-0c1e-4d8b-90b1-d474ce379758
 contact: monsuivipsy@fabrique.social.gouv.fr
+stats_url: https://matomo-metabase-monsuivipsy.fabrique.social.gouv.fr/public/dashboard/5c48ca1a-0c1e-4d8b-90b1-d474ce379758
+stats: true
 phases:
   - name: investigation
     start: 2020-09-22
     end: 2020-11-01
   - name: construction
     start: 2020-11-01
+    end: 2021-05-01
+  - name: acceleration
+    start: 2021-06-01
 ---
 Les troubles psychiatriques touchent plus de 20 % de la population, à un moment de la vie. Et trouver le bon traitement peut prendre plusieurs années. Pendant ce temps-là, les symptômes évoluent, peuvent devenir chroniques et l’état du patient s’aggrave. L’impact peut être dramatique. 
 
