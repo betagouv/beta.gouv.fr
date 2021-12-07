@@ -1,7 +1,7 @@
 ---
 roles: Stagiaire - déploiement/produit - Dédale
 title: Dédale recrute un ou une stagiaire pour du déploiement et du produit
-open: true
+open: false
 date: 2021-08-30
 contrat: stagiaire
 startup: dedale
