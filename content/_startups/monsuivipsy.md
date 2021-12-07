@@ -6,7 +6,7 @@ incubator: sgmas
 link: https://monsuivipsy.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/monsuivipsy
 stats: true
-stats_url: https://matomo.fabrique.social.gouv.fr/index.php?module=CoreHome&action=index&idSite=37&period=day&date=today
+stats_url: https://matomo-metabase-monsuivipsy.fabrique.social.gouv.fr/public/dashboard/5c48ca1a-0c1e-4d8b-90b1-d474ce379758
 contact: monsuivipsy@fabrique.social.gouv.fr
 phases:
   - name: investigation
