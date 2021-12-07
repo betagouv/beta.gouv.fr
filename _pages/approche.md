@@ -96,12 +96,10 @@ title: Découvrir le programme
             <span aria-hidden="true">📅</span> Pendant <b>1 à 2 mois </b><br>
             <span aria-hidden="true">✋</span> <a href="/devenir-intrapreneur">L’intra</a> accompagné d’un ou d’une coach
          </div>
-         <a href="/approche/investigation">En savoir plus sur l'investigation</a>
-         <br>
-         <br>
          Décideur public, vous voulez lancer une investigation avec nous?
          <br>
          <a id="btn-nous-ecrire-investigation" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
+         <a id="btn-decouvrir-investigation" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link" href="/approche/investigation">Découvrir l'investigation</a>
       </div>
    </div>
    <br>
@@ -120,7 +118,7 @@ title: Découvrir le programme
          </h3>
          <p>
             <h4 class="decorated">La phase de construction</h4>
-            Constituer son équipe et développer son produit  en produisant la première version de la solution sur un terrain d’expérimentation.
+            Constituer son équipe et développer son produit en produisant la première version de la solution sur un terrain d’expérimentation.
          </p>
          <p>
             <h4 class="decorated">La phase d’accélération</h4>
@@ -128,18 +126,16 @@ title: Découvrir le programme
          </p>
          <p>
             <h4 class="decorated">La phase de transfert</h4>
-            Créer les conditions de la reprise en assurant la pérennité  du projet au sein de son administration d‘origine.
+            Créer les conditions de la reprise en assurant la pérennité du projet au sein de son administration d‘origine.
          </p>
          <div class="fr-mb-4w fr-p-1w fr-col-md-8 fr-col-sm-12 fr-mt-2w section-grey">
             <span aria-hidden="true">📅</span> Pendant <b>18 à 32 mois</b><br>
             <span aria-hidden="true">✋</span> Avec <a href="/devenir-intrapreneur">l’intra</a>, son ou sa coach et une équipe d’experts
-         </div>
-         <a href="/approche/construction">En savoir plus sur la réalisation d’un service public numérique</a>
-         <br>
-         <br>
+         </div> 
          Décideur public, vous voulez réaliser un service public numérique ? 
          <br>
          <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
+          <a id="btn-decouvrir-construction" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link"  href="/approche/construction">Découvrir la construction</a>
       </div>
    </div>
 </div>
@@ -172,11 +168,19 @@ title: Découvrir le programme
 <script type="text/javascript">
 const nousecrireinvestigation = document.querySelector('#btn-nous-ecrire-investigation')
 const nousecrire = document.querySelector('#btn-nous-ecrire')
+const decouvririnvestigation = document.querySelector('#btn-decouvrir-investigation')
+const decouvrirconstruction = document.querySelector('#btn-decouvrir-construction') 
 nousecrireinvestigation.addEventListener('click', function () {
       _paq.push(['trackEvent', 'conversion', 'Click nous ecrire'])
     })
 nousecrire.addEventListener('click', function () {
       _paq.push(['trackEvent', 'conversion', 'Click nous ecrire'])
+    })
+decouvririnvestigation.addEventListener('click', function () {
+      _paq.push(['trackEvent', 'conversion', 'Click decouvrir investigation'])
+    })
+decouvrirconstruction.addEventListener('click', function () {
+      _paq.push(['trackEvent', 'conversion', 'Click decouvrir construction'])
     })
 </script>
 <!-- end conversion tracking -->
