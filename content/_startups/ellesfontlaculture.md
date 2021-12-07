@@ -8,8 +8,8 @@ phases:
     start: 2020-04-01
 link: https://www.ellesfontlaculture.beta.gouv.fr/
 repository: https://github.com/betagouv/ellesfontlaphoto
-stats: false
-stats_url:
+stats: true
+stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=187&period=range&date=previous30&updated=1#?idSite=187&period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1
 contact: ellesfontlaculture@beta.gouv.fr
 ---
 
