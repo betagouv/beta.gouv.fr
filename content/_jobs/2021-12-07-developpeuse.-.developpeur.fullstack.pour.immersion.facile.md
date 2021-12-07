@@ -7,8 +7,6 @@ startup: l-immersion-facile
 ---
 ## Quel est le contexte de ta Startup d'Etat ?
 
-
-
 L'immersion professionnelle (période de mise en situation en milieu professionnel  ou PMSMP) est une période courte et non rémunérée en entreprise. Cela permet de découvrir un métier et un environnement de travail tout en vérifiant des compétences et aptitudes auprès d'un professionnel en activité.  L'immersion est  très efficace pour valider un projet d'orientation professionnelle ou  pour faire découvrir à des employeurs potentiels des candidats motivés.  
 
 L'immersion facile a été lancée en juillet dernier avec l'ambition de devenir "le Bon Coin" de l'immersion professionnelle : faciliter le contact entre potentiels bénéficiaires d'immersion professionnelle et entreprises accueillantes et adoucir  les démarches administratives nécessaires avant de démarrer une immersion. 
@@ -44,11 +42,11 @@ Tu  es en mesure de jouer sur 2 tableaux :
   Excellentes capacités de communication orale et écrite et de vulgarisation ;\
   Aisance avec la méthode lean, au sein d’une équipe produit resserrée et fonctionnant en mode collaboratif ;\
   Aisance à travailler sur un produit [Open Source](https://github.com/MTES-MCT/acceslibre) avec git ;\
-  Ne rigole pas avec la sécurité du code ;\
+  Ne transige pas avec la sécurité du code ;\
   Connaissance des principes et bonnes pratiques en matière d’accessibilité  ou volonté de très vite monter en compétences sur ces questions ;\
   Expérience professionnelle en tant que dev fullstack (junior bienvenu !) ;
 * Etre à l'aise avec TypeScript (coté front et back), React, PostgreSQL. Dans le  périmètre du service ,  création et administration des formulaires avec identification numérique, maintenance d'une base de données, optimisation d'un moteur de recherche, flux de données via des API entrantes et sortantes (en construction).
-*  Avoir des notions de ce qu'est l'architecture hexagonale (ou clean architecture) et  mettre en œuvre des tests automatisés (unitaires, intégration et end to end)  (ou vouloir apprendre).
+* Avoir des notions de ce qu'est l'architecture hexagonale (ou clean architecture) et  mettre en œuvre des tests automatisés (unitaires, intégration et end to end)  (ou vouloir apprendre).
 * Aimer travailler en mode lean agile, en lien avec des profils métiers profanes par rapport au numérique ;
 * Pouvoir s'adapter aux contraintes d'équipes partenaires consommatrice de nos API ou fournissant des API indispensables à notre service. Ces partenaires peuvent être des startup d'Etat, des DSI, des prestataires ...
 
