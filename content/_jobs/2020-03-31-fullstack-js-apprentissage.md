@@ -1,15 +1,15 @@
 ---
 roles: un.e developpeur.se fullstack JS
-open: false
-date: 2021-11-15T15:24:44.945Z
+open: true
+date: 2021-12-07T13:26:50.632Z
 startup: Mission apprentissage
 ---
 
 Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une équipe autonome, agile, et proche de ses utilisateurs ? 
 
-**La Mission Apprentissage recherche un.e développeur.euse Full Stack JS**
+**La Mission Apprentissage recherche Deux développeurs.euses Full Stack JS**
 
-_Poste ouvert le 06/05/2020 (mission de 3 mois renouvelables)_
+_Poste ouvert le 07/12/2021 (mission de 3 mois renouvelables)_
 
 ## Qui sommes nous ?
 La mission a pour objectif de lever les freins à l’essor de l’apprentissage et de faciliter la mise en contact des jeunes, des CFA et des entreprises :
@@ -39,7 +39,7 @@ Le/la développeur.euse interviendra, sur la conception de services liés à ces
 ## Profil recherché
 * Solide culture et expérience de développement de produits numériques
 * Polyvalence sur les technologies web (front-end et back-end)
-* Maîtrise des technologies ES6, React, la maîtrise d’ElasticSearch est un gros plus
+* Maîtrise des technologies ES6, React, Node js
 * Solide connaissance et pratique des méthodes de développement Agile
 * Une expérience dans le choix d’outils de technologies pour des développements applicatifs
 * Solide culture de la sécurité des systèmes d’information
@@ -47,13 +47,13 @@ Le/la développeur.euse interviendra, sur la conception de services liés à ces
 * Sensibilité Ux/accessibilité pour la partie front Environnement de travail
 
 ## Stack technique
-* Full stack JS : nodeJs, Mongo, Serverless, React, ElasticSearch, graphQI, algorithmie, api rest, ML
+* Full stack JS : nodeJs, Mongo, React, Ansible, algorithmie, api rest, ML
 
 ## Environnement de travail
 * Environnement et communauté beta.gouv : https://beta.gouv.fr/ (plus de détails ici également : https://github.com/betagouv/beta.gouv.fr/wiki/Bienvenue) 
 * Poste ouvert pour des indépendant·e·s sur une durée de 3 mois renouvelable
 * Temps partiel accepté (4/5 ou 3/5 accepté)
-* Démarrage en avril 2020
+* Démarrage en Janvier 2022
 * Télétravail avec 2 réunions présentielles par mois à Paris (après la période de confinement)
 
 ## Postuler
