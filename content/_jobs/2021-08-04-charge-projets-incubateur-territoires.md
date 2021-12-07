@@ -11,7 +11,7 @@ poste_ferme: 2021-09-30
 contact: berengere.aujard@anct.gouv.fr
 status: open
 poste_pourvu: false
-open: true
+open: false
 ---
 
 L’incubateur des Territoires de l’Agence Nationale de la Cohésion des Territoires recrute une personne pour participer au développement de cet incubateur ministériel. La personne recrutée évoluera sous la responsabilité de la cheffe de projets de l'incubateur.

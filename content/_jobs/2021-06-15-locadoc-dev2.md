@@ -2,7 +2,7 @@
 startup: locadocs
 title: "Locadocs recrute une personne chargée du développement de sa solution"
 roles: Développeur.se full stack
-open: true
+open: false
 ---
 
 ## **Le contexte : l’Atelier numérique et beta.gouv.fr**
