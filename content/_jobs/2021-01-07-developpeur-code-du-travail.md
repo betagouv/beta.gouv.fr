@@ -1,6 +1,5 @@
 ---
 roles: un·e dev web full-stack
-startup: Code du travail numérique
 open: false
 startup: codedutravail
 techno: Stack Javascript (React) + ElasticSearch
