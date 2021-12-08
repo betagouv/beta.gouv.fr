@@ -33,14 +33,14 @@ Tu  es en mesure de jouer sur 2 tableaux :
 
 **L’exploration : « Vite, un prototype pour tester une hypothèse avec des utilisateurs dès demain »**.
 
-**L’exploitation : « Il est temps de refactoriser et de mettre des outils de mesures sur ce module »**
+**L’exploitation : « Il est temps de factoriser et de mettre des outils de mesures sur ce module »**
 
 ## Profil recherché ?
 
 * Une personne ouverte, curieuse,  opiniâtre et autonome ;\
   Force de propositions ;\
   Excellentes capacités de communication orale et écrite et de vulgarisation ;\
-  Aisance avec la méthode lean, au sein d’une équipe produit resserrée et fonctionnant en mode collaboratif ;\
+  Aisance avec la méthode lean, au sein d’une équipe produit resserrée et fonctionnant en mode collaboratif \
   Aisance à travailler sur un produit [Open Source](https://github.com/MTES-MCT/acceslibre) avec git ;\
   Ne transige pas avec la sécurité du code ;\
   Connaissance des principes et bonnes pratiques en matière d’accessibilité  ou volonté de très vite monter en compétences sur ces questions ;\
@@ -68,12 +68,12 @@ Freelance
 
 3 ou 4 jours/ semaine en télétravail sur 6 mois (renouvelable en fonction des financements obtenus) ou possibilité de venir travailler en co-working dans le 7e arrondissement. 
 
-Déplacements France entière à prévoir pour des réunions avec l’équipe et des rencontres utilisateurs 
+Déplacements France entière à prévoir ponctuellement pour des réunions avec l’équipe et des rencontres utilisateurs 
 
 Démarrage mi-janvier 2022 
 
 ## Pour candidater ...
 
-Explique-nous pourquoi tu as envie de nous rejoindre et transmets-nous ton LinkedIn / CV / GitHub à [nathalie.reyre@beta.gouv.fr](mailto:nathalie.reyre@beta.gouv.fr) et jerome.burkard@beta.gouv.fr
+Explique-nous pourquoi tu as envie de nous rejoindre et transmets-nous ton LinkedIn / CV / GitHub à [nathalie.reyre@beta.gouv.fr](mailto:nathalie.reyre@beta.gouv.fr) et [jerome.burkard@beta.gouv.fr](mailto:jerome.burkard@beta.gouv.fr) 
 
 À bientôt !
