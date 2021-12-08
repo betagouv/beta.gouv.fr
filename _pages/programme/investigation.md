@@ -19,7 +19,7 @@ breadcrumbs:
                 <div class="fr-sidemenu__inner">
                     <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
                     <img 
-                        src="/img/programme/illu_identifier.png" alt="Récapitulatif visuel des phases" style="width: 100%;" />
+                        src="/img/programme/investigation.png" alt="Récapitulatif visuel des phases" style="width: 100%;" class="hidden-mobile" />
                     <div class="fr-collapse" id="fr-sidemenu-wrapper">
                         <h1 class="fr-sidemenu__title fr-pl-1w">Sommaire</h1>
                         <ul class="fr-sidemenu__list">
@@ -73,7 +73,7 @@ breadcrumbs:
             </div> -->
             <div class="fr-grid-row fr-grid-row--gutters">
                 <div class="fr-col-12" id="pourquoi">
-                    <h2>Pourquoi réaliser cette étape ?</h2>
+                    <h2>Quel est l’enjeu de l’investigation ?</h2>
                     <p>Pour nous, la technologie est un moyen et non une fin : le numérique ne parviendra certainement pas à résoudre tous les problèmes. Nous le répétons souvent : ce n’est pas parce que c’est innovant que c’est forcément mieux. C’est pourquoi nous recommandons toujours de (re)partir du problème rencontré par les utilisateurs (et non d’une solution pressentie) à travers une écoute attentive. Cette approche présente l’avantage de minimiser grandement le risque d’investir dans un produit qui ne répond pas aux vrais besoins des utilisateurs et qui répondra donc moins bien aux objectifs fixés. Elle permet en particulier, preuves à l’appui, de s’assurer de construire un service numérique qui soit vraiment utile, c’est-à-dire qui réponde véritablement aux besoins des gens et/ou qui ait le maximum d’impact.
                     </p>
                 </div>
@@ -118,6 +118,15 @@ breadcrumbs:
                     <p>
                     A la fin de l’investigation, le comité d’investissement se réunit et décide de l’abandon ou de la poursuite de produit. 
                     En cas de poursuite, on rentre dans la <a href="https://beta.gouv.fr/approche/construction">réalisation du service public numérique</a> !
+                    </p>
+                </div>
+            </div>
+             <div class="fr-grid-row fr-grid-row--gutters fr-p-1w section-grey">
+                <div class="fr-col-12" id="contact"  style="text-align:center">
+                    <h4>Vous souhaitez lancer une investigation avec nous ?
+Parlez-nous de votre projet !</h4>
+                    <p>
+                    <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Nous écrire</a>
                     </p>
                 </div>
             </div>
