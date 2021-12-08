@@ -116,16 +116,17 @@ title: Découvrir le programme
          <h3>
             Réaliser un service public numérique
          </h3>
+         <br>
+         <h4 class="decorated">La phase de construction</h4>
          <p>
-            <h4 class="decorated">La phase de construction</h4>
             Constituer son équipe et développer son produit en produisant la première version de la solution sur un terrain d’expérimentation.
          </p>
+         <h4 class="decorated">La phase d’accélération</h4>
          <p>
-            <h4 class="decorated">La phase d’accélération</h4>
             Avoir un produit fini déployé au niveau national.
          </p>
+         <h4 class="decorated">La phase de transfert</h4>
          <p>
-            <h4 class="decorated">La phase de transfert</h4>
             Créer les conditions de la reprise en assurant la pérennité du projet au sein de son administration d‘origine.
          </p>
          <div class="fr-mb-4w fr-p-1w fr-col-md-8 fr-col-sm-12 fr-mt-2w section-grey">
