@@ -34,7 +34,7 @@ layout: default
     <h4 class="section-description">conçus pour tous, avec les administrations</h4>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center startups fr-pt-6w">
       {% assign startups = site.startups %}
-      {% assign starts = "transport.data.gouv.fr,La Bonne Alternance,Pix,Mon-entreprise.fr" | split: ","  %}
+      {% assign starts = "transport.data.gouv.fr,La Bonne Alternance,Pix,Mon-entreprise" | split: ","  %}
       {% for startup in startups %}
           <!-- {{ startup.title }} -->
           {% if starts contains startup.title %}

@@ -1,5 +1,5 @@
 ---
-title: MobiVille
+title: Mobiville
 mission: Diminuer le nombre d'emplois non pourvus en facilitant la mobilité géographique des actifs
 owner: Pôle emploi et Action Logement
 sponsors:
@@ -18,6 +18,8 @@ phases:
     end: 2020-06-04
   - name: construction
     start: 2020-06-04
+  - name: acceleration
+    start: 2021-09-01
 link: https://mobiville.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/mobiville
 stats: true

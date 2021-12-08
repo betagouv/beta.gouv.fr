@@ -1,7 +1,7 @@
 ---
 roles: Opérateur‧rice de validation
 startup: locatio
-open: true
+open: false
 ---
 Afin de soutenir sa phase d’accélération et de répondre à ses objectifs de croissance utilisateurs pour 2021, la startup d’État DossierFacile recrute un‧e opérateur‧rice de validation.\
 **Durée et date de début** : 3 mois reconductible, dès que possible\

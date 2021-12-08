@@ -1,6 +1,6 @@
 ---
 roles: Développeuse·eur full-stack
-open: true
+open: false
 junior: false
 date: 2021-08-24T07:43:40.482Z
 startup: aides-territoires

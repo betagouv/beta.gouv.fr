@@ -1,6 +1,7 @@
 ---
 fullname: Mathieu Perez
 domaine: Développement
+github : maperez42
 role: EIG Développeur @ Fabrique Numérique DGFiP
 missions:
   - start: 2021-09-13

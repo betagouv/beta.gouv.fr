@@ -7,7 +7,7 @@ startups:
   - Delta V
 missions:
   - start: 2021-09-03
-    end: 2021-10-29
+    end: 2022-10-29
     status: service
     employer: IPPON
 ---

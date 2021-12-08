@@ -1,6 +1,6 @@
 ---
 roles: Lead dev
-open: true
+open: false
 date: 2021-10-28
 startup: aides.jeunes
 ---
