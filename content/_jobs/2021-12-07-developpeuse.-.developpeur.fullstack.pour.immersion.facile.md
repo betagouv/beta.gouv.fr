@@ -37,17 +37,17 @@ Tu  es en mesure de jouer sur 2 tableaux :
 
 ## Profil recherché ?
 
-* Une personne ouverte, curieuse,  opiniâtre et autonome ;\
-  Force de propositions ;\
-  Excellentes capacités de communication orale et écrite et de vulgarisation ;\
+* Une personne ouverte, curieuse,  opiniâtre et autonome.\
+  Force de propositions.\
+  Excellentes capacités de communication orale et écrite et de vulgarisation.\
   Aisance avec la méthode lean, au sein d’une équipe produit resserrée et fonctionnant en mode collaboratif \
-  Aisance à travailler sur un produit [Open Source](https://github.com/MTES-MCT/acceslibre) avec git ;\
-  Ne transige pas avec la sécurité du code ;\
-  Connaissance des principes et bonnes pratiques en matière d’accessibilité  ou volonté de très vite monter en compétences sur ces questions ;\
-  Expérience professionnelle en tant que dev fullstack (junior bienvenu !) ;
-* Etre à l'aise avec TypeScript (coté front et back), React, PostgreSQL. Dans le  périmètre du service ,  création et administration des formulaires avec identification numérique, maintenance d'une base de données, optimisation d'un moteur de recherche, flux de données via des API entrantes et sortantes (en construction).
-* Avoir des notions de ce qu'est l'architecture hexagonale (ou clean architecture) et  mettre en œuvre des tests automatisés (unitaires, intégration et end to end)  (ou vouloir apprendre).
-* Aimer travailler en mode lean agile, en lien avec des profils métiers profanes par rapport au numérique ;
+  Aisance à travailler sur un produit [Open Source](https://github.com/MTES-MCT/acceslibre) avec git.\
+  Ne transige pas avec la sécurité du code.\
+  Connaissance des principes et bonnes pratiques en matière d’accessibilité  ou volonté de très vite monter en compétences sur ces questions.\
+  Expérience professionnelle en tant que dev fullstack (junior bienvenu !).
+* Etre à l'aise avec TypeScript (coté front et back) et idéalement React et PostgreSQL. Dans le  périmètre du service ,  création et administration des formulaires avec identification numérique, maintenance d'une base de données, optimisation d'un moteur de recherche, flux de données via des API entrantes et sortantes (en construction).
+* Avoir des notions de ce qu'est l'architecture hexagonale (ou clean architecture) et savoir mettre en œuvre des tests automatisés (unitaires, intégration et end to end) ou vouloir apprendre.
+* Aimer travailler en mode lean agile, en lien avec des profils métiers profanes par rapport au numérique.
 * Pouvoir s'adapter aux contraintes d'équipes partenaires consommatrice de nos API ou fournissant des API indispensables à notre service. Ces partenaires peuvent être des startup d'Etat, des DSI, des prestataires ...
 
 N'hésite pas à consulter  [le repo sur github](https://github.com/betagouv/l-immersion-facile) de l'immersion facile, notre [kit de démarrage](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage) et nos [normes de conduite](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/culture/normes-de-conduite) pour en savoir plus sur  notre produit et nos standards.
