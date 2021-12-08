@@ -9,7 +9,7 @@ title: Découvrir le programme
       <p class="fr-text--lg">
          <b>beta.gouv</b> est un programme d’incubation qui aide les administrations publiques à construire des services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens.
       </p>
-      <h3>Nos accompagnements</h3>
+      <h2>Nos accompagnements</h2>
       <a class="fr-btn fr-btn--md" href="#investigation">Lancer une investigation</a>
       <br>
       <br>
