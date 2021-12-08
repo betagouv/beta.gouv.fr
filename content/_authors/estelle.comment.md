@@ -19,6 +19,7 @@ missions:
   - start: 2021-11-23
     end: 2022-01-31
     status: independent
+    employer: Malt
 startups:
   - tchap
 previously:
