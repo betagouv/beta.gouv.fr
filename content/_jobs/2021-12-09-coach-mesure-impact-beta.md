@@ -63,6 +63,6 @@ Les services numériques peuvent répondre à une multitude de problématiques r
 
 ## Candidater
 
-Envoyez nous votre CV via le formulaire ci-dessous.
+Envoyez nous votre CV via [ce formulaire](https://airtable.com/shr5005Oj0lXyygN2).
 
 Si vous avez des questions, n’hésitez pas à les poser lors de votre entretien.
