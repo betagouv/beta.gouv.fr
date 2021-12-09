@@ -1,6 +1,6 @@
 ---
 roles: Développeuse - Développeur Full Stack
-open: true
+open: false
 junior: true
 date: 2021-11-24T08:11:17.456Z
 startup: histologe
