@@ -12,7 +12,7 @@ backend:
     deleteMedia: Suppression de l'image {{path}}
   squash_merges: true
   open_authoring: true
-  use_graphql: true
+  use_graphql: false
 
 # Permet d'expérimenter en local
 # cf. https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
