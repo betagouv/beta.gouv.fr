@@ -12,8 +12,15 @@ Vous voulez mettre vos compétences au profit de l’amélioration du service pu
 _Poste ouvert le 07/12/2021 (mission de 3 mois renouvelables)_
 
 ## Qui sommes nous ?
-La mission a pour objectif de lever les freins à l’essor de l’apprentissage et de faciliter la mise en contact des jeunes, des CFA et des entreprises :
-https://beta.gouv.fr/startups/apprentissage.html
+La mission a pour objectif de lever les freins à l’essor de l’apprentissage et de faciliter la mise en contact des jeunes, des CFA et des entreprises. 
+Par le biais de plusieurs produits :
+- https://beta.gouv.fr/startups/catalogue-apprentissage.html
+- https://beta.gouv.fr/startups/matcha.html
+- https://beta.gouv.fr/startups/rdv.apprentissage.html
+- https://beta.gouv.fr/startups/sirius.html
+- https://beta.gouv.fr/startups/tdb-apprentissage.html
+- https://beta.gouv.fr/startups/la-bonne-alternance.html
+
 
 Les trois axes pratiques de la mission sont :
 * Recenser l’offre de formation en apprentissage, qui s’est considérablement développée depuis promulgation de la loi pour la liberté de choisir son avenir professionnelle, afin que le
@@ -51,6 +58,7 @@ Le/la développeur.euse interviendra, sur la conception de services liés à ces
 
 ## Environnement de travail
 * Environnement et communauté beta.gouv : https://beta.gouv.fr/ (plus de détails ici également : https://github.com/betagouv/beta.gouv.fr/wiki/Bienvenue) 
+* https://github.com/mission-apprentissage
 * Poste ouvert pour des indépendant·e·s sur une durée de 3 mois renouvelable
 * Temps partiel accepté (4/5 ou 3/5 accepté)
 * Démarrage en Janvier 2022
