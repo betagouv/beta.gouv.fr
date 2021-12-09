@@ -14,12 +14,12 @@ startups:
     - beta.gouv
     - Incubateur ANCT
     - diagoriente
-    - cmachance
     - classe12
     - anti-gaspi-cantine
 previously:
   - demarches-simplifiees.fr
   - trait-d-union
+  - cmachance
 badges:
     - segur
 domaine: Coaching

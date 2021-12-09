@@ -6,7 +6,7 @@ missions:
   - start: 2021-09-16
     end: 2022-09-16
     status: admin
-    employer: DINUM
+    employer: CMA Hauts-de-France
 startups:
   - cmachance
 ---
