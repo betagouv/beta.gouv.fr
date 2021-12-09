@@ -41,17 +41,17 @@ Bailleurs et professionnels de l'immobilier, DossierFacile est là pour vous ras
 
 Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. Fin 2021, ce sont déjà plus de 350 000 locataires, 20 000 propriétaires et une dizaine de professionnels de l'immobilier qui ont choisi de nous faire confiance. 
 
-## Notre ambitions pour les prochains mois
+## Nos ambitions pour les prochains mois
 
 Comprendre les besoins des locataires et des bailleurs est notre obsession et notre produit est en amélioration constante. 
 Pour le premier semestre 2022, nous souhaitons notamment :
 - intégrer la possibilité d'utiliser FranceConnect pour s'identifier
-- tester le produit 'Mon FranceConnect' dans le but d'obtenir une pièce justificative de son avis d'imposition
-- continuer l'accompagnement de partenaires sur notre plate-forme.
+- tester le produit 'Mon FranceConnect' dans le but d'obtenir un justificatif d'imposition
+- continuer l'accompagnement de partenaires sur notre plateforme.
 
 ## Nos indicateurs d'impact d'ici mi-2022
 
-D'ici juin 2022, nous avons pour objectif de valider 50% de dossiers en plus que sur les 6 derniers mois.
+D'ici juin 2022, nous avons pour objectif de valider 50% de dossiers en plus que sur les 6 derniers mois et d'abaisser notre coût par dossier de 15€ à 10€.
 
 
 Chez DossierFacile, nous voyons grand. Partant du dossier de location, nous avons l’ambition d’accompagner locataires et bailleurs tout au long de leur relation - et ce ne sont pas les idées qui nous manquent ! Pour autant, nous savons qu’inspirer la confiance est un défi de longue haleine qui ne pourra être relevé que pas à pas. Gardant tout ça en tête, nous n’avons qu’une boussole : toujours mieux servir les citoyens.
