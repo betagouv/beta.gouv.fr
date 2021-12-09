@@ -16,6 +16,8 @@ startups:
   - pau-partage
   - commun.orientation
   - cmachance
+previously:
+  - cmachance
 badges:
   - segur
 ---
