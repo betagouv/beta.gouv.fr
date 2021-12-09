@@ -1,7 +1,7 @@
 ---
 fullname: Ivan Gabriele
-role: Développeur
 domaine: Développement
+role: Développeur
 github: ivangabriele
 link: https://www.ivangabriele.com
 missions:
@@ -17,13 +17,16 @@ missions:
     start: 2021-11-15
     end: 2021-12-31
     status: independent
-  - employer: Arolla
+  - employer: LittleBig Connection
     start: 2021-11-15
     end: 2022-02-11
     status: independent
 startups:
-    - inca
-    - metiers-numeriques
+  - inca
+  - metiers-numeriques
 previously:
-    - codedutravail
+  - codedutravail
+competences:
+  - Développement Backend
+  - Développement Frontend
 ---
