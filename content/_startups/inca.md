@@ -8,7 +8,6 @@ sponsors:
     acronym: INCA
     domaine_ministeriel: sante
 incubator: dinum
-link: https://lab-agora.softr.app/
 contact: tristan.roue@beta.gouv.fr
 phases:
   - name: investigation
@@ -17,6 +16,8 @@ phases:
   - name: construction
     start: 2021-04-21
     end: 2021-12-31
+link: https://lab-agora.softr.app
+repository: https://github.com/betagouv/inca-app
 ---
 # Contexte 
 
