@@ -16,9 +16,9 @@ missions:
     start: 2021-08-02
     end: 2021-12-31
     employer: Scopyleft
-startups:
-  - territoires-en-transitions
+startups:  
 previously:
+  - territoires-en-transitions
   - zam
   - visam
 competences:
