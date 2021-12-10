@@ -5,7 +5,7 @@ domaine: Développement
 github: btrd
 missions:
   - start: 2021-01-01
-    end: 2021-12-31
+    end: 2022-12-31
     status: service
     employer: Octo
 startups:
