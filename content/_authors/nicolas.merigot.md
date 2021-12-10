@@ -10,6 +10,4 @@ missions:
       employer: Scopopop
 startups:
     - preuve-de-covoiturage
-badge:
-    - segur
 ---
