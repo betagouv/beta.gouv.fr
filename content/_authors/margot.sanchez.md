@@ -21,7 +21,7 @@ missions:
     status: admin
     employer: DINUM
   - start: 2021-08-31
-    end: 2021-12-31
+    end: 2022-12-31
     status: independent
     employer: NUMA
 startups:
