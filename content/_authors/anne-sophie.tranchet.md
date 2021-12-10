@@ -7,7 +7,7 @@ avatar: null
 link: https://hello-bokeh.fr/
 missions:
   - start: 2020-03-17
-    end: 2022-09-31
+    end: 2022-06-30
     status: independent
     employer: Octo
 competences:
