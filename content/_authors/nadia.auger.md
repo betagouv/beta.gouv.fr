@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/nadia-auger/
 github: nadiaauger
 missions:
   - start: 2021-08-30
-    end: 2021-12-30
+    end: 2022-06-30
     status: independent
     employer: UT7
 startups:
