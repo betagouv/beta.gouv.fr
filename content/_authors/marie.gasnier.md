@@ -1,7 +1,7 @@
 ---
 fullname: Marie Gasnier
-role: Intrapreneur de la DGS
 domaine: Intraprenariat
+role: Intrapreneure de la DGS
 github: mariegasnier1
 missions:
   - start: 2021-06-18
@@ -12,5 +12,6 @@ startups:
   - recosante
 badges:
   - segur
+competences:
+  - Administration Publique
 ---
-
