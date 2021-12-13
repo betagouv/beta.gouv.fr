@@ -1,7 +1,7 @@
 ---
 roles: Product Owner - Chef de produit numérique
 open: true
-date: 2021-10-28
+date: 2021-12-13
 startup: territoires-en-transitions
 title: Recherche d'une personne Product Owner pour Territoires en Transitions
 ---
@@ -27,7 +27,7 @@ Au sein de l’équipe de la startup d'État Territoires en Transitions.  La mis
 
 
 ## Profil
-Diplômé d'une formation Bac+5 (Type Informatique/Gestion de projets, marketing numérique…), vous disposez impérativement d’une expérience professionnelle de 3 à 5 ans sur la conduite de projets numérique, vous permettant une parfaite autonomie.
+Diplômé d'une formation Bac+5 (Type Informatique/Gestion de projets, marketing numérique…), vous disposez impérativement d’une expérience professionnelle de 3 à 5 ans sur la conduite de projets numérique, vous permettant une parfaite autonomie. Ainsi que d'une expérience ou une forte appétence à la gestion d'équipe numérique.
 
 De ce fait, vous comptez sur de solides connaissances de la méthodologie de développement agile et maîtrise des KPI et OKR: cadrage, organisation, planification, gestion des priorités et des risques, animation, suivi… 
 
@@ -42,8 +42,8 @@ La connaissance de l’écosystème des collectivités territoriales et plus par
 A compétences égales, toutes nos offres sont ouvertes aux personnes en situation de handicap.
 
 Poste à pourvoir à Angers ou à Montrouge, en CDD longue durée (18 à 36 mois) dès que possible.
-
-Rémunération selon profil.
+Possibilité d'implantation sur d'autres sites de l'ADEME (sous réserve).
+Déplacements au siège à prévoir.
 
 ## Contact
 Adresser vos candidatures à [lena.baaffa@ademe.fr](mailto:lena.baaffa@ademe.fr?subject=Product Owner Territoires en Transitions)
