@@ -1,7 +1,7 @@
 ---
 fullname: Adrien Di Pasquale
-role: Développeur Web
 domaine: Développement
+role: Développeur Web
 github: adipasquale
 link: https://www.dipasquale.fr
 missions:
@@ -12,11 +12,14 @@ missions:
     end: 2021-06-08
     status: independent
   - start: 2021-10-20
-    end: 2022-04-01
+    end: 2021-12-08
     status: independent
-startups:
-  - enfants-du-spectacle
+startups: []
 previously:
   - lapins
   - codedutravail
+  - enfants-du-spectacle
+competences:
+  - Développement Backend
+  - Développement Frontend
 ---
