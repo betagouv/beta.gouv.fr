@@ -5,7 +5,7 @@ domaine: Déploiement
 github: anoukjn
 missions:
   - start: 2021-05-25
-    end: 2022-01-05
+    end: 2022-05-31
     status: independent
     employer: La Zone
 startups:
