@@ -341,6 +341,11 @@ h2.phase-title em {
   color: $darker-grey;
 }
 
+/* Parce que les images des startups fiches ne sont pas toujours à la bonne taille */
+.fr-container img {
+  width: 100%;
+}
+
 .filters {
   padding: 1em 0;
   background-color: #bfbfe3;
