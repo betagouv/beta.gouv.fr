@@ -54,16 +54,14 @@ Notre objectif est désormais d’augmenter le nombre de propriétaires mobilis�
 
 Une 2ème phase de construction vise à lancer une nouvelle version, plus efficace et simple à prendre en main pour les collectivités et qui puisse être déployée à grande échelle.
 
-## 	
-Objectifs et indicateurs pour juin 2022
+## Objectifs et indicateurs pour juin 2022
 
 Nous souhaitons, à horizon juin 2022, pouvoir proposer la solution à toutes les collectivités qui en font la demande. Pour arriver à cet objectif, nous souhaitons organiser une croissance progressive et atteindre les indicateurs suivants : 
 
-\- 60 collectivités utilisatrices
-- 30 000 propriétaires contactés
-- 10 000 retours
-- 1500 propriétaires mobilisés.
-
+* 60 collectivités utilisatrices
+* 30 000 propriétaires contactés
+* 10 000 retours
+* 1500 propriétaires mobilisés.
 
 Nous souhaitons également mesurer et comprendre le potentiel écart entre le nombre de propriétaires mobilisés et le nombre de logements remis sur le marché. Derrière cet indicateur, nous souhaiterions pouvoir répondre à la question : dès lors qu’il y a un intérêt d’un propriétaire pour la remise sur le marché de son logement, quels sont les obstacles qui font que ça n’aboutit pas ? 
 
