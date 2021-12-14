@@ -9,7 +9,7 @@ missions:
     status: service
     employer: NUMA
 startups: []
-  - aides terrritoires
+  - aides-territoires
 previously:
   - permis-de-construire-facile
   - dora
