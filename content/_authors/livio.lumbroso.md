@@ -7,7 +7,7 @@ avatar: null
 link: https://www.linkedin.com/in/liviolumbroso/
 missions:
   - start: 2020-11-16
-    end: 2021-12-16
+    end: 2022-12-31
     status: independent
     employer: numa
 startups:
