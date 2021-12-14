@@ -8,7 +8,7 @@ missions:
     end: 2022-12-31
     status: service
     employer: NUMA
-startups: []
+startups:
   - aides-territoires
 previously:
   - permis-de-construire-facile
