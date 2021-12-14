@@ -4,7 +4,7 @@ open: true
 date: 2021-12-14
 ---
 *Et si on changeait la donne en matière d’orientation ? Et si on trouvait à mettre à disposition des jeunes, de leurs familles ou des professionnels qui les conseillent des données précises et utiles sur les chances d’obtenir un diplôme et un emploi pour chacune des formations qui les intéressent ?
-C’est le nouveau défi relevé par la mission interministérielle pour apprentissage qui se penche désormais sur les liens entre les formations et les trajectoires professionnelles. L’enjeu : transformer le dispositif [InserJeunes](https://www.inserjeunes.education.gouv.fr/) pour mieux exposer les données, étendre l’enquête aux formations supérieures et l’enrichir à de nouveaux indicateurs pertinents. 
+C’est le nouveau défi relevé par la mission interministérielle pour apprentissage qui se penche désormais sur les liens entre les formations et les trajectoires professionnelles. L’enjeu : transformer le dispositif [InserJeunes](https://www.inserjeunes.education.gouv.fr/) pour mieux exposer les données, étendre l’enquête aux formations supérieures et l’enrichir à de nouveaux indicateurs pertinents.* 
 
 
 # 👋 QUI SOMMES-NOUS ?
