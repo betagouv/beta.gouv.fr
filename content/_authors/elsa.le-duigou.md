@@ -7,5 +7,7 @@ missions:
     end: 2022-07-31
     status: admin
     employer: Ministère de la Culture
+    startups:
+  - collectif_objets
 ---
 
