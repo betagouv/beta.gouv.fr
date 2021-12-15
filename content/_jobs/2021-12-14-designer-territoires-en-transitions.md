@@ -12,7 +12,7 @@ L'équipe Territoires en Transitions cherche une personne designeuse pour poursu
 
 Notre intention est d'accueillir une personne qui pourrait rejoindre l'équipe pour assurer les missions de design de service Ux/Ui et être en charge du Design du produit pour la mise en place de nouvelles fonctionnalités et l'amélioration de celles existantes avec une grande appétence pour le travail collaboratif.
 
-Nous recherchons en parallèle à recruter [une personne développeuse](https://beta.gouv.fr/recrutement/), donc n'hésitez pas à postuler en binôme 💃🕺 !
+Nous recherchons en parallèle à recruter [une personne développeuse](https://beta.gouv.fr/recrutement/2021/12/14/developpeur-Front-End-territoires-en-transitions.html), donc n'hésitez pas à postuler en binôme 💃🕺 !
 
 ## 💃🕺💻 À propos de vous
 
@@ -50,9 +50,9 @@ Portée par l’ADEME et incubée au sein de l’incubateur de la Direction Inte
 
 * Le produit s'appuie sur le programme d'accompagnement [Territoires engagés Transition Écologique](https://territoireengagetransitionecologique.ademe.fr/) de l'ADEME et en particulier sur ses référentiels climat-air-énergie et économie circulaire dans lequel sont déjà engagés plus de 250 collectivités françaises.
 
-* Pour qui :
-  * Personnes référentes sur la transition écologique dans une collectivité territoriale ([EPCI](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_de_coop%C3%A9ration_intercommunale)/villes)
-  * Personnes accompagnatrices des collectivités dans le processus de labellisation [Conseiller·e·s et auditeurs](https://territoireengagetransitionecologique.ademe.fr/climat-air-energie/labellisation/) 
+Pour qui en priorité ? :
+* Personnes référentes sur la transition écologique dans une collectivité territoriale ([EPCI](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_de_coop%C3%A9ration_intercommunale)/villes)
+* Personnes accompagnatrices des collectivités dans leur transition écologique et processus de labellisation [Conseiller·e·s et auditeurs](https://territoireengagetransitionecologique.ademe.fr/climat-air-energie/labellisation/) 
 
 ### L’équipe
 
