@@ -27,4 +27,5 @@ La nouvelle recrue participera au développement d'une première version du prod
 
 ## Contacts
 
+[attractivite.territoires@beta.gouv.fr](mailto:attractivite.territoires@beta.gouv.fr)
 [laurent.charpentier@dgfip.finances.gouv.fr](mailto:laurent.charpentier@dgfip.finances.gouv.fr)
