@@ -94,4 +94,4 @@ D'ailleurs, nous prévoyons ensuite d'élargir la phase de test à 10 départeme
 
 [Nous contacter](mailto:collectifobjets@beta.gouv.fr)
 
-![illustration](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6785258e-8367-456c-a047-7ba1c9[…]2-14%2520a%25CC%2580%252016.51.23.png%22&x-id=GetObject).
+![illustration](https://user-images.githubusercontent.com/36261410/146224683-5f611295-837f-4ac0-9faf-b69a2a7fed38.jpg).
