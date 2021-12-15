@@ -8,8 +8,8 @@ phases:
     start: 2020-04-01
 link:
 repository:
-stats: false
-stats_url:
+stats: true
+stats_url:https://airtable.com/appVqsHQLPeOvbg9F/pagq4RELXtYqbHCBi
 contact: collectifobjets@beta.gouv.fr
 ---
 
