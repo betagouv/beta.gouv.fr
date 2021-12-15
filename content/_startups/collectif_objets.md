@@ -8,8 +8,8 @@ phases:
     start: 2020-04-01
 link:
 repository:
-stats: false
-stats_url:
+stats: true
+stats_url:https://airtable.com/appVqsHQLPeOvbg9F/pagq4RELXtYqbHCBi
 contact: collectifobjets@beta.gouv.fr
 ---
 
@@ -93,3 +93,5 @@ Des outils no-code, de l'huile de coude, et d'un contact rapproché avec les con
 D'ailleurs, nous prévoyons ensuite d'élargir la phase de test à 10 départements, n'hésitez pas à nous contacter pour faire partie de la suite de l'aventure, soumettre des suggestions ou juste pour être tenus au courant de la suite du projet.
 
 [Nous contacter](mailto:collectifobjets@beta.gouv.fr)
+
+![illustration](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6785258e-8367-456c-a047-7ba1c9[…]2-14%2520a%25CC%2580%252016.51.23.png%22&x-id=GetObject).
