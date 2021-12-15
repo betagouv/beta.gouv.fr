@@ -6,10 +6,10 @@ incubator: culture
 phases:
   - name: construction
     start: 2020-04-01
-link:
+link: https://collectif-objets.beta.gouv.fr/
 repository:
-stats: false
-stats_url:
+stats: true
+stats_url: https://airtable.com/appVqsHQLPeOvbg9F/pagq4RELXtYqbHCBi
 contact: collectifobjets@beta.gouv.fr
 ---
 
