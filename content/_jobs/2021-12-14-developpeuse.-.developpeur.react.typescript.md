@@ -6,20 +6,20 @@ startup: mon-entreprise
 ---
 ## Présentation 📯
 
-[Mon-entreprise.urssaf.fr](https://mon-entreprise.urssaf.fr) fourni des simulateurs et assistants aux créateurs d’entreprise pour les accompagner dans le développement de leur activité.
+[Mon-entreprise.urssaf.fr](https://mon-entreprise.urssaf.fr) fournit des simulateurs et assistants aux créateurs d’entreprise pour les accompagner dans le développement de leur activité.
 
 
-Parmis les dizaines d'outils développés, on trouve un [simulateur d'embauche](https://mon-entreprise.urssaf.fr/simulateurs/salaire-brut-net), un [simulateur de revenus pour les professions libérales](https://mon-entreprise.urssaf.fr/simulateurs/profession-liberale), ou pour les [auto-entrepreneur](https://mon-entreprise.urssaf.fr/simulateurs/auto-entrepreneur), ou encore un assistant pour le [choix du statut juridique](https://mon-entreprise.urssaf.fr/cr%C3%A9er).
+Parmi les dizaines d'outils développés, on trouve un [simulateur d'embauche](https://mon-entreprise.urssaf.fr/simulateurs/salaire-brut-net), un [simulateur de revenus pour les professions libérales](https://mon-entreprise.urssaf.fr/simulateurs/profession-liberale), ou pour les [auto-entrepreneur](https://mon-entreprise.urssaf.fr/simulateurs/auto-entrepreneur), ou encore un assistant pour le [choix du statut juridique](https://mon-entreprise.urssaf.fr/cr%C3%A9er).
 
 
-Le service a reçu **[3,9 millions de visites](https://mon-entreprise.fr/stats)** cette année, et à été récemment promus "**service public numérique à impact national**" par beta.gouv.fr. Le projet est [porté à 100%](https://mon-entreprise.fr/budget) par l'**Urssaf**.
+Le service a reçu **[3,9 millions de visites](https://mon-entreprise.fr/stats)** cette année, et a récemment été promu "[**service public numérique à impact national**](https://blog.beta.gouv.fr/general/2021/05/20/anatomie-d-un-service-numerique-public-a-succes-mon-entreprise-fr/)" par beta.gouv.fr. Le projet est [porté à 100%](https://mon-entreprise.fr/budget) par l'**Urssaf**.
 
 ## Techniquement 💻
 
 * Le site est un site statique, entièrement codé en **TypeScript + React**. 
 * Nous sommes un projet **libre et open-source**, ouvert aux contributions. Nous utilisons extensivement **Github**.
-* Nous avons développé un language spécifique permettant de décrire de manière lisible la juridiction socio-fiscale : **[publicodes](https://publi.codes)**
-* Nous avons utilisé ce langage pour développer des simulateurs de revenus ([voir la base de règles](https://github.com/betagouv/mon-entreprise/tree/master/modele-social))
+* Nous développons un language spécifique permettant d'implémenter de manière lisible la juridiction socio-fiscale : **[publicodes](https://publi.codes)**
+* Nous utilisons ce langage pour développer des simulateurs de revenus ([voir la base de règles](https://github.com/betagouv/mon-entreprise/tree/master/modele-social))
 
 [👉](https://emojipedia.org/backhand-index-pointing-right/) **[Voir le dépôt](https://github.com/betagouv/mon-entreprise/)**
 
@@ -68,17 +68,17 @@ Entre 450€ et 600€ par jour suivant le profil.
 
 ## Candidater 💌
 
-Si tu as envie de nous rejoindre, tu peux nous en dire un peu plus sur toi et sur ce qui t'interesse dans ce projet à [`equipe@mon-entreprise.beta.gouv.fr`](mailto:equipe@mon-entreprise.beta.gouv.fr). Après un premier entretien, si ça se passe bien, on te proposera de travailler en pair programming pour une demi journée rémunérée.
+Si tu as envie de nous rejoindre, tu peux nous en dire un peu plus sur toi et sur ce qui t'interesse dans ce projet à [`equipe@mon-entreprise.beta.gouv.fr`](mailto:equipe@mon-entreprise.beta.gouv.fr). Après un premier entretien, si ça se passe bien, on te proposera de travailler en pair programming pour une demie-journée rémunérée.
 
 ## FAQ ❓
 
-**Pourquoi une demi journée d'essai ?**
+**Pourquoi une demie-journée d'essai ?**
 
 Tout simplement parce qu'il nous semble que c'est le meilleur moyen d'évaluer les qualités recherchées. Tu pourras ainsi découvrir notre base de code par toi même et voir si tu es à l'aise pour travailler dessus. Et c'est plus sympa qu'un test technique un peu abscond.
 
 **Quelle est l'experience recherchée ?**
 
-Nous n'avons pas mis d'année ni de niveau car cela ne veut pas dire grand chose. Ceci étant dit, nous cherchons des personnes suffisement à l'aise pour être autonome techniquement parlant.
+Nous n'avons pas mis d'années d’experience ni de niveau car cela ne veut pas dire grand chose. Ceci étant dit, nous cherchons des personnes suffisement à l'aise pour être autonome techniquement parlant.
 
 
 **Où êtes vous basés ?**
