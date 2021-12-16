@@ -6,7 +6,7 @@ link: https://www.holis.design
 github: marionholis
 missions:
   - start: 2021-05-03
-    end: 2021-12-31
+    end: 2022-06-31
     status: service
     employer: OCTO
 startups:
