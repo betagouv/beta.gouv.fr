@@ -14,4 +14,4 @@ startups:
 competences:
   - Gestion de Produit
 ---
-Chargée de projet Pôle emploi, chargé de déploiement REVA et intrapreneur Avril
+Curieuse, impliquée, impertinente et heureuse !
