@@ -4,7 +4,7 @@ role: Chargée de communauté et de déploiement
 github: LinaCHAM
 missions:
   - start: 2021-05-04
-    end: 2021-12-31
+    end: 2022-08-31
     status: independent
     employer: DINUM
 startups:
