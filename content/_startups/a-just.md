@@ -1,7 +1,7 @@
 ---
 title: A-JUST
-mission: Optimiser l'affectation des ressources humaines des tribunaux pour
-  réduire les délais de justice.
+mission: Aider les chefs de juridiction à choisir l'affectation de leurs
+  ressources humaines pour réduire les délais de justice.
 owner: Inspection Générale de la Justice - Ministère de la Justice
 incubator: dinum
 contact: contact@a-just.fr
