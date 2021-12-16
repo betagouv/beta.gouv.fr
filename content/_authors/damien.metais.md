@@ -1,16 +1,17 @@
 ---
 fullname: Damien METAIS
-role: UX UI Designer
 domaine: Design
+role: UX UI Designer
 missions:
   - start: 2020-10-26
-    end: 2021-12-27
+    end: 2022-12-31
     status: independent
     employer: Octo
 startups:
-    - itou 
+  - itou
 badges:
   - segur
+competences:
+  - UI
 ---
-
-Il est primordial que les interfaces produits soient fonctionnelles, plaisantes à regarder et à utiliser
+Je suis Damien
