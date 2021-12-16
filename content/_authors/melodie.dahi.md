@@ -14,13 +14,15 @@ missions:
     employer: lazone
   - status: independent
     start: 2021-08-02
-    end: 2021-12-31
-    employer: Scopyleft
-startups:  
+    end: 2022-06-30
+    employer: Ippon
+startups:  Setaccords
 previously:
   - territoires-en-transitions
   - zam
   - visam
 competences:
+  - Coaching intra
+  - Gestion de produit
   - Croissance
 ---
