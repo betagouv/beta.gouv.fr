@@ -8,7 +8,7 @@ missions:
     status: service
     employer: La Zone
   - start: 2021-11-15
-    end: 2022-01-31
+    end: 2022-06-30
     status: service
     employer: BeNext
 startups:
