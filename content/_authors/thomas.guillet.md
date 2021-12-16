@@ -17,8 +17,12 @@ missions:
     status: admin
     employer: dinum
   - start: 2021-01-04
-    end: 2021-12-30
+    end: 2021-11-30
     status: independent
+  - start: 2021-12-01
+    end: 2021-07-01
+    status: independent
+    employer: Codeurs en Liberté
 startups:
   - data.insertion
   - aides.jeunes
