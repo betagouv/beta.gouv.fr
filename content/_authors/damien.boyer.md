@@ -1,7 +1,7 @@
 ---
 fullname: Damien Boyer
 domaine: Design
-role: Designer
+role: UX Designer
 github: dameofr
 link: null
 missions:
