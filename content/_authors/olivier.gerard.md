@@ -2,7 +2,7 @@
 fullname: Olivier GERARD
 domaine: Intraprenariat
 role: Intrapreneur REVA, Chef de projet
-github: Olivier G.
+github: 08071963
 missions:
   - start: 2021-05-16
     end: 2022-12-31
