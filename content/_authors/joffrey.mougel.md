@@ -6,7 +6,7 @@ link: https://www.joffreymougel.com
 github: joffreymougel
 missions:
   - start: 2021-03-17
-    end: 2021-06-30
+    end: 2022-06-30
     status: independent
     employer: Octo
 startups:
