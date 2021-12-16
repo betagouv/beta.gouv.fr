@@ -1,9 +1,9 @@
 ---
 fullname: Marion Gros
-role: UX designer 
 domaine: Design
-link: https://www.holis.design
+role: UX designer
 github: marionholis
+link: https://www.holis.design
 missions:
   - start: 2021-05-03
     end: 2022-06-30
@@ -13,6 +13,7 @@ startups:
   - itou
 badges:
   - segur
+competences:
+  - UX
 ---
-
-UX Designer & researcher 
+UX Designer & researcher
