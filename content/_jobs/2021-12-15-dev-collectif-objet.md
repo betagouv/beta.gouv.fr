@@ -78,4 +78,4 @@ Dans ce cadre, il faudra **anticiper l'interopérabilité du dispositif et des d
 Créé en septembre 2020, l’Atelier numérique est une nouvelle entité du ministère de la Culture, qui a pour mission d’aider à la conduite de projets agiles et orientés design. Il fonctionne dans ce cadre comme un incubateur de services numériques dédié aux agents du ministère, qui identifient un problème de politique culturelle et qui souhaite s’engager personnellement pour le résoudre. L’objectif est de fournir les outils permettant d’expérimenter de nouvelles manières de créer des politiques culturelles ou faciliter la mise en œuvre de certaines, par une approche usagers et une recherche active d’impact mesurable. La co-animation de l’Atelier numérique est aujourd’hui assurée par trois personnes : une responsable, une designer et un développeur.
 
 ## **Candidater**
-Si tu as envie de nous rejoindre, merci de nous envoyer un CV et quelques mots sur ta motivation à l'adresse collectif-objet@beta.gouv.fr
+Si tu as envie de nous rejoindre, merci de nous envoyer un CV et quelques mots sur ta motivation à l'adresse collectifobjets@beta.gouv.fr
