@@ -13,7 +13,7 @@ Réhabiliter une friche, ça n'est pas une mince affaire. Réhabiliter une frich
 
 ### 💡 La solution qu'on crée
 
-**[UrbanVitaliz](www.urbanvitaliz.fr) est un service public numérique qui guide les collectivités** dans les étapes à suivre, propose les contacts, outils et financement pertinents pour réhabiliter leurs fonciers à l'abandon. Le service est en construction depuis septembre 2020, nous travaillons avec 90 collectivités à travers la France à date.
+**[UrbanVitaliz](https://www.urbanvitaliz.fr) est un service public numérique qui guide les collectivités** dans les étapes à suivre, propose les contacts, outils et financement pertinents pour réhabiliter leurs fonciers à l'abandon. Le service est en construction depuis septembre 2020, nous travaillons avec 90 collectivités à travers la France à date.
 
 Derrière l'outil numérique, les recommandations aux collectivités sont majoritairement faites par des humains, à savoir pour le moment les 2 urbanistes de l'équipe. Pour déployer le service plus largement, nous avons besoin de renforcer cette force "d'aiguillage". Nous sommes donc en train d'accueillir sur UrbanVitaliz des acteurs des territoires (DDT, EPF, agences d'urbanisme...) qui sont capables d'orienter les collectivités à nos côtés.
 
