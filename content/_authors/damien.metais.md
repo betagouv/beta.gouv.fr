@@ -14,4 +14,4 @@ badges:
 competences:
   - UI
 ---
-Je suis Damien
+Passionné par la conception d'interfaces fluides et adaptées pour chaque usage
