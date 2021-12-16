@@ -1,7 +1,7 @@
 ---
 fullname: Tristan Roué
-role: intrapreneur
 domaine: Intraprenariat
+role: intrapreneur
 github: Tristanlivinglab
 missions:
   - start: 2020-11-03
@@ -12,4 +12,6 @@ startups:
   - inca
 badges:
   - segur
+competences:
+  - Gestion de Produit
 ---
