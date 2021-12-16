@@ -9,5 +9,5 @@ missions:
     status: independent
 startups:
     - mon-entreprise
-    - aides-jeunes
+    - aides.jeunes
 ---
