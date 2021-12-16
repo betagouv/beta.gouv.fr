@@ -1,7 +1,7 @@
 ---
 fullname: Nicolas Toublanc
-role: Développeur
 domaine: Développement
+role: Développeur
 github: toub
 missions:
   - start: 2020-05-01
@@ -10,5 +10,8 @@ missions:
     employer: benext
 startups:
   - domifa
+competences:
+  - Développement Frontend
+  - Développement Backend
+  - Administration Système
 ---
-
