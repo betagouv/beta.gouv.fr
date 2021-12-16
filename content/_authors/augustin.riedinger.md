@@ -9,12 +9,13 @@ missions:
     status: independent
   - status: independent
     start: 2021-09-08
-    end: 2021-12-31
+    end: 2022-03-01
 startups:
   - reva
 previously:
   - avril
 competences:
+  - Développement Fullstack
   - Développement Frontend
   - Développement Backend
   - Administration Système
