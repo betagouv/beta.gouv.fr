@@ -11,7 +11,7 @@ avatar: # optionnel, voir ci-dessous
 link: https://codeconut.fr
 missions:
   - start: 2017-01-01 # date d'arrivée au format ISO (AAAA-MM-JJ)
-    end: 2021-12-31 # date de fin de contrat au format ISO (AAAA-MM-JJ)
+    end: 2022-12-31 # date de fin de contrat au format ISO (AAAA-MM-JJ)
     status: independent
     employer: OCTO
 startups:
