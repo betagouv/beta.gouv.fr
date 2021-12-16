@@ -9,8 +9,6 @@ missions:
     status: independent
 startups:
     - urbanvitaliz
-    - data.gouv.fr
-    - eva
 previously:
     - transport
     - cartobio
@@ -19,6 +17,8 @@ previously:
     - auto-partage
     - tout-est-permis
     - innovation-urbaine
+    - data.gouv.fr
+    - eva
 badges:
     - segur
 ---
