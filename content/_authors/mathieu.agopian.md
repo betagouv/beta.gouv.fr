@@ -15,7 +15,7 @@ missions:
     end: 2022-01-07
   - start: 2021-11-03
     end: 2022-03-31
-    statut: independent
+    status: independent
     employer: LittleBigConnection
 previously:
   - saisissez au vol
