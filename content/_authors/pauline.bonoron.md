@@ -4,7 +4,7 @@ domaine: Déploiement
 role: Chargée de déploiement
 missions:
   - start: 2021-05-10
-    end: 2021-12-31
+    end: 2021-06-30
     status: independent
     employer: Octo
 startups:
