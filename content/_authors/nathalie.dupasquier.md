@@ -6,7 +6,7 @@ github: nathaliedup
 link: http://www.nathaliedupasquier.fr/
 missions:
   - start: 2021-09-06
-    end: 2021-12-31
+    end: 2022-01-05
     status: independent
     employer: UT7
 startups:
