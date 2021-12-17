@@ -1,15 +1,15 @@
 ---
 fullname: Olivier Charrier
-role: intrapeneur
 domaine: Intraprenariat
+role: intrapeneur
 missions:
   - start: 2019-07-01
-    end: 2021-12-31
+    end: 2022-12-31
     status: admin
     employer: minint
-startups :
+startups:
   - psij
+badges: null
+competences:
+  - Administration Publique
 ---
-
-
-
