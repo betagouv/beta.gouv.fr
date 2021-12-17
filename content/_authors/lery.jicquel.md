@@ -11,7 +11,7 @@ missions:
   - start: 2020-03-01
     status: admin
     employer: beta.gouv
-    end: 2022-01-01
+    end: 2022-16-02
 startups:
   - AidESS-Relance
   - inca
