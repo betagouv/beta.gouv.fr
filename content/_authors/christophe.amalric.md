@@ -10,6 +10,8 @@ missions:
     employer: Sopra Steria Next
 startups:
   - la-bonne-boite
+previously:
+  - ban
 badges:
   - segur
 competences:
