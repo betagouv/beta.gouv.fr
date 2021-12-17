@@ -9,6 +9,7 @@ missions:
     employer: Pôle emploi
 startups:
   - l-immersion-facile
+badges: null
 competences:
   - Gestion de Produit
 ---
