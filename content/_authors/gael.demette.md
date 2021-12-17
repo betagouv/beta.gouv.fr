@@ -12,7 +12,6 @@ missions:
     employer: Qonfucius
 startups:
   - stargate
-  - igloo
 previously:
   - e-chauffeur
   - anais
