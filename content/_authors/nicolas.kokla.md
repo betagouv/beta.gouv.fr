@@ -15,4 +15,4 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
-{Mindset: 'Coding better, harder, faster', hobby: 'Gamer better, harder, faster'}
+{\  Mindset: 'Coding better, harder, faster',\  hobby: 'Gamer better, harder, faster'\}
