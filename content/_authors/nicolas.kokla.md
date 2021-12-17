@@ -15,3 +15,4 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
+Mindset: 'Coding better, harder, faster',
