@@ -18,7 +18,7 @@ missions:
     employer: Scopyleft
   - status: independent
     start: 2021-10-15
-    end: 2021-06-30
+    end: 2021-02-30
     employer: Ippon
 startups:
   - setaccords
