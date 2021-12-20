@@ -8,7 +8,15 @@ techno: react-native, iOS, Android
 
 La [Fabrique numérique des ministères sociaux](https://www.fabrique.social.gouv.fr) conçoit et met en oeuvre des applications web et mobiles à destination des citoyens ou de l'administration, dans les domaines du travail, de le formation et de la santé.
 
-Au sein d'une équipe support au service des produits, vous serez en charge du suivi des produits mobiles, et serez le contact privilégié des équipes techniques.
+Au sein d'une équipe support au service des équipes produit, vous serez en charge du suivi technique des applications mobiles, et serez le contact privilégié des développeurs et chef(fe)s de produit.
+
+La fabrique compte actuellement cinq applications mobiles multi-plateformes :
+
+-   [Mano](https://mano-app.fabrique.social.gouv.fr/) : react-native
+-   [Nos 1000 jours](https://1000jours.fabrique.social.gouv.fr/) : react-native
+-   [OzEnsemble](https://ozensemble.fabrique.social.gouv.fr/) : react-native
+-   [MonSuiviPsy](https://monsuivipsy.fabrique.social.gouv.fr/) : react-native
+-   [PassEmploi](https://beta.gouv.fr/startups/pass-emploi.html) : flutter
 
 Vous rejoindrez l'équipe "SRE" en charge du suivi technique des startups d'état de la fabrique numérique.
 
@@ -25,9 +33,8 @@ Vous rejoindrez l'équipe "SRE" en charge du suivi technique des startups d'éta
 -   Tu es créatif(ve), force de proposition et autonome ;
 -   Tu connais et es prescripteur de bonnes pratiques en matière de développement mobile ;
 -   Tu adores travailler dans une petite équipe et de manière agile, au sein d’une communauté à qui proposer et demander de l’aide ;
--   Tu es à l’écoute et à l’aise dans la communication orale et écrite.
--   Tu sais expliquer à des profanes ce que tu fais.
--   Tu peux travailler avec une équipe dispatchée France entière (et même plus loin)
+-   Tu as plusieurs experiences avec react-native
+-   Tu as déjà publié une ou plusieurs apps sur les stores iOS/Android
 
 ## Les modalités
 
