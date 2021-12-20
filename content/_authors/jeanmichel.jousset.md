@@ -11,5 +11,3 @@ missions:
 startups:
   - pass-emploi
 ---
-
-Analyste risques Cyber
