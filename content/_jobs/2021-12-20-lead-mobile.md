@@ -22,7 +22,7 @@ Vous rejoindrez l'équipe "SRE" en charge du suivi technique des startups d'éta
 
 ## Missions attendues
 
--   Mise en place des bonnes pratiques techniques
+-   Mise en place de conventions et bonnes pratiques techniques
 -   Automatisation des processes de test/release/déploiement
 -   Animer la communauté de devs mobiles
 -   Suivi conformité : accessibilité, sécurité
