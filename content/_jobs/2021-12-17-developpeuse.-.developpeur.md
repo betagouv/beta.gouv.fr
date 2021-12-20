@@ -1,7 +1,7 @@
 ---
 roles: "développeuse - développeur "
 open: true
-junior: true
+junior: false
 date: 2021-12-17T08:32:01.400Z
 ---
 ## Le contexte : beta.gouv.fr
