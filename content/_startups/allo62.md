@@ -1,6 +1,6 @@
 ---
 title: Allo 62
-mission: Permettre aux usagers de trouver le bon interlocuteur au sein du département
+mission: Trouver le bon interlocuteur au sein du département
 owner: Département du Pas-de-Calais
 incubator: anct
 phases:
@@ -8,6 +8,8 @@ phases:
     start: 2020-01-14
   - name: construction
     start: 2021-03-01
+  - name: alumni
+    start: 2020-05-01
 link:
 repository: 
 stats: false 

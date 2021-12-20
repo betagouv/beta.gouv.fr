@@ -4,7 +4,8 @@ mission: Accélérer le raccordement des copropriétés aux réseaux de chaleur
 owner: Ministère de la Transition écologique et solidaire
 sponsors:
   - name: DRIEAT
-    acronym: Direction régionale et interdépartementale de l’Environnement, de l’Aménagement et des Transports d’Île-de-France
+    acronym: Direction régionale et interdépartementale de l’Environnement, de
+      l’Aménagement et des Transports d’Île-de-France
     type: autre
     domaine_ministeriel: environnement
   - name: DGEC
@@ -19,15 +20,8 @@ sponsors:
     acronym: Fédération Nationale des Collectivités Concédantes et des Régies
     type: autre
     domaine_ministeriel: environnement
-  - name: SNCU
-    acronym: Syndicat National du Chauffage Urbain et de la Climatisation Urbaine
-    type: operateur
-    domaine_ministeriel: environnement
-  - name: AMORCE
-    type: autre
-    domaine_ministeriel: environnement
 incubator: mtes
-link: https://chauffage-urbain.beta.gouv.fr/
+link: https://france-chaleur-urbaine.beta.gouv.fr/
 repository: null
 contact: thomas.bouyer@developpement-durable.gouv.fr
 stats: false
@@ -60,19 +54,21 @@ France Chaleur Urbaine est la plateforme de mise en relation entre copropriété
 * **Pour les copropriétés**, France Chaleur Urbaine sera une plateforme d’**informations et de mise en relation** directe avec l’exploitant du réseau local (par exemple pour solliciter un rendez-vous ou un devis) mais aussi, d’échange avec d’autres copropriétés déjà raccordées au réseau local et “ambassadrices” de ce réseau pour partager leurs expériences et recommandations.
 * **Pour les exploitants ou collectivités** qui souhaitent agir pour la transition énergétique de leurs territoires, France Chaleur Urbaine apportera de **nouveaux prospects** avec des données sur la localisation et les caractéristiques des copropriétés (mode de chauffage actuel, taille, vétusté des chaudières collectives).
 
-Le service est opérationnel en version beta sur https://chauffage-urbain.beta.gouv.fr/
+Le service est opérationnel en version beta sur https://france-chaleur-urbaine.beta.gouv.fr/
 
 ## L'historique du projet
 
-Début 2020, Brigitte Loubet, Conseillère spéciale de la Direction Régionale et Interdépartementale de l'Environnement et de l'Energie d'Ile-de-France, est sélectionnée à l'appel à intrapreneurs organisée par la Fabrique Numérique du Ministère de l'Ecologie.
+Début 2020, Brigitte Loubet, Conseillère spéciale de la Direction Régionale et Interdépartementale de l'Environnement et de l'Energie d'Ile-de-France (DRIEE), est sélectionnée à l'appel à intrapreneurs organisée par la Fabrique Numérique du Ministère de l'Ecologie.
 
 La phase d'investigation démontre par les études et entretiens l'importance de l'enjeu écologique du raccordement aux réseaux de chaleur et les freins au raccordements par les copropriétés. Un premier prototype, initialement appelé "@ChauffageUrbain", réalisé début 2021 avec des outils low-code, permet de valider le concept auprès de premiers prospects en Ile-de-France.  
 
-Ce prototype permet de convaincre un consortium de partenaires (DGEC, ADEME, FNCCR, SNCU, VIASEVA, AMORCE) pour contribuer au développement du produit. Le produit remporte le concours Fast de la DINUM en Mars 2021 en vue d'accélérer le déploiement.
+Ce prototype permet de convaincre un consortium de partenaires (DGEC, ADEME, FNCCR) pour contribuer au développement du produit. Le produit remporte le concours Fast de la DINUM en Mars 2021 en vue d'accélérer le déploiement. 
+
+Suite au départ à la retraite de Brigitte Loubet, le projet est repris à la DRIEAT (ex DRIEE) par Thomas Bouyer et Florence Lévy (service Energie et bâtiment), en partenariat avec Hortense Fournel et Guillaume Perrin de la Fédération nationale des collectivités concédantes et régies (FNCCR).
 
 Le changement de nom en "France Chaleur Urbaine" traduit la dimension nationale de la vision.
 
-## Stratégie 
+## Stratégie
 
 Avec ces nouveaux moyens à disposition, France Chaleur Urbaine a l'objectif pour fin 2021 de déployer le service au niveau national avec : 
 

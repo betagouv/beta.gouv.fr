@@ -1,6 +1,6 @@
 ---
 fullname: Valentine Michaud
-role: Co-animatrice du programme beta.gouv.fr
+role: Product operations manager
 domaine: Animation
 github: ValentineM
 missions:
@@ -12,10 +12,15 @@ missions:
     employer: DINUM
     start: 2021-01-04
     end: 2021-07-03
+  - status: independent
+    employer: OCTO
+    start: 2021-07-05
+    end: 2021-10-31
 startups:
-  - sante-psy-etudiant
 previously:
   - signalement
+  - sante-psy-etudiant
 badges:
   - segur
 ---
+Chargée du déploiement de produits et opérations transverses @beta.gouv

@@ -1,7 +1,7 @@
 ---
 roles: "Un.e ingénieur.e données"
 startup: trackdechets
-open: true
+open: false
 title: Trackdéchets recrute un.e ingénieur.e données
 ---
 

@@ -15,9 +15,6 @@
 {%- endif -%}
 
 <div class="fr-card fr-card--no-arrow fr-card__img__rounded">
-  <div class="fr-card__img">
-    {%- include avatar.html author=author force=true rounded=true -%}
-  </div>
   <div class="fr-card__body">
     <h3 class="fr-card__title">
         {%- if author.link -%}
@@ -102,5 +99,7 @@
     </ul>
   {%- endif -%}
   </div>
-
+  <div class="fr-card__img">
+    {%- include avatar.html author=author force=true rounded=true -%}
+  </div>
 </div>

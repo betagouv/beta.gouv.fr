@@ -1,12 +1,14 @@
 ---
 fullname: Lucie Campana
-role: Coach
 domaine: Coaching
+role: Coach
 missions:
   - start: 2021-04-16
-    end: 2021-07-30
+    end: 2021-12-23
     status: independent
     employer: NUMA
+competences:
+  - Coaching
+  - Communication
 ---
-
-Spécialiste démocratie et accompagnement du changement
+Spécialiste démocratie participative, accompagnement du changement, transformation des territoires.

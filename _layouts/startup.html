@@ -5,8 +5,6 @@ layout: default
 {% assign lang = page.lang | default: site.lang | default: "fr" %}
 {% assign startup_id = page.id | remove: '/startups/' %}
 
-{% include hero-startup.html startup=page %}
-
 {% comment %} Détection du status de la startup {% endcomment %}
 {% capture phase_id %}/phases/{{ page.phases.last.name }}{% endcapture %}
 {% assign phase = site.phases | where: "id", phase_id | first %}
@@ -15,9 +13,21 @@ layout: default
 {% capture incubator_id %}/incubators/{{ page.incubator }}{% endcapture %}
 {% assign incubator = site.incubators | where:'id', incubator_id | first %}
 
-{% capture phase_info %}
-Le produit est en <a href="{{ phase.documentation_url }}">{{ phase.label | downcase }}</a>
-{% endcapture %}
+{% include hero-startup.html startup=page phase=phase %}
+
+
+
+{% assign split_by_h1 = content | split:'<h1' %}
+{% assign content = split_by_h1 | join: '<h1 class="fr-my-3w fr-mt-4w"' %}
+
+{% assign split_by_h2 = content | split:'<h2' %}
+{% assign content = split_by_h2 | join: '<h2 class="fr-my-2w fr-mt-3w"' %}
+
+{% assign split_by_p = content | split:'<p' %}
+{% assign content = split_by_p | join: '<p class="fr-my-2w fr-text"' %}
+
+{% assign split_by_ul = content | split:'<ul' %}
+{% assign content = split_by_ul | join: '<ul class="fr-pl-4w"' %}
 
 {% capture incubator_info %}
 L'équipe est portée par {{ page.owner }} dans <a href="/startups/?incubateur={{ incubator_id | remove: '/incubators/' }}" title="{{ incubator.title }}">{{ incubator.title }}</a>
@@ -61,10 +71,9 @@ L’équipe ne communique pas encore sur son budget.
 Technologies utilisées : {{ page.techno | join: ", " }}
 {% endcapture %}
 
-<div class="notification full-width">
+<div class="notification full-width section-grey">
   <div class="fr-container">
     <ul>
-      <li>{{ phase_info }}</li>
       <li>{{ incubator_info }}</li>
       <li>{{ contact_info }}</li>
     {% unless phase.status == 'investigation' %}
@@ -82,28 +91,26 @@ Technologies utilisées : {{ page.techno | join: ", " }}
 <section class="fr-py-6w">
   {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
   {% if jobs[0] %}
-    <div class="fr-container fr-py-6w fr-px-2w">
-      <h3>Postes ouverts</h3>
-      <ul>
-        {% for job in jobs %}
-          <li><a href="{{ job.url }}">{{ page.title }} recrute {{ job.roles | downcase }}.</a></li>
-        {% endfor %}
-      </ul>
+    <div class="fr-container fr-py-6w">
+      <h2>Postes ouverts</h2>
+      {% for job in jobs %}
+        {% include card-job.html job=job startup=job.startup %}
+      {% endfor %}
     </div>
   {% endif %}
 
-  <div class="fr-container fr-py-6w fr-px-2w">
+  <div class="fr-container fr-py-2w">
     {{ content }}
   </div>
 </section>
 
-<section class="fr-py-6w section-grey">
+<section class="fr-py-6w section-blue">
   {% include grid-authors.html startup=page %}
 </section>
 
 {% if page.rgpd %}
 <section class="fr-py-6w section-white">
-  <div class="fr-container fr-py-6w fr-px-2w">
+  <div class="fr-container fr-py-6w">
     <h2>Protection des données personnelles</h2>
     <div class="fr-callout">
         <ul>

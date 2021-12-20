@@ -2,7 +2,7 @@
 title: Protège-Toit 🏡 (violences conjugales)
 mission: Améliorer la prise en charge d'urgence pour les victimes de violences conjugales
 owner: Département des Côtes d'Armor
-sponsors: 
+sponsors:
     - name: Département des Côtes d'Armor
       acronym:
       domaine_ministeriel: territoires
@@ -14,11 +14,11 @@ phases:
     end: 2020-06-30
   - name: alumni
     start: 2020-06-30
-link: 
-repository: 
-stats: false 
-stats_url: 
-contact: preincubation@beta.gouv.fr
+link:
+repository:
+stats: false
+stats_url:
+contact: incubateur@anct.gouv.fr
 ---
 
 <img width="300" alt="PROTEGE-TOIT" src="https://user-images.githubusercontent.com/36134318/78227087-063cff80-74cd-11ea-96cb-d17e63f9d49d.png">
@@ -38,9 +38,9 @@ Avec environ une quinzaine d’entretiens des différents parties prenantes lors
 
 - le manque de places totales versus les demandes (238 demandes en 2019 versus 40aine de places effectives)
 
-- un besoin accru d’accompagnement de ses personnes victimes sur différents aspects, autant de situations et de personnalisation d’aides (simple écoute, conseils professionnels, aides administratives, juridiques aides matériels, prêts de mobilier, transport ponctuel ou réguliers...) Concernant la problématique générale des violences conjugales, nous pensons vraiment que c’est un défi majeur pour lequel il faut agir. La légitimité et l’ampleur du préjudice ne sont plus à démontrer. 
+- un besoin accru d’accompagnement de ses personnes victimes sur différents aspects, autant de situations et de personnalisation d’aides (simple écoute, conseils professionnels, aides administratives, juridiques aides matériels, prêts de mobilier, transport ponctuel ou réguliers...) Concernant la problématique générale des violences conjugales, nous pensons vraiment que c’est un défi majeur pour lequel il faut agir. La légitimité et l’ampleur du préjudice ne sont plus à démontrer.
 
-Plus spécifiquement dans les Côtes d’Armor, en 2019, 1112 femmes ont été victimes de violences. De janvier à octobre 2020, selon la gendarmerie, le nombre de victimes costarmoricaines s’élève déjà à 1070, soit une hausse de 34,8 % comparativement à la même période en 2019. Le ministère de l’Intérieur a publié, ce lundi 16 novembre 2020, une étude sur les violences conjugales. Derrière le Doubs, les Côtes-d’Armor sont un des départements les plus touchés par ce fléau, avec la Côte-d’Or et la Seine-Saint-Denis. Cependant, le fait d’attaquer la problématique sur un territoire précis ne doit pas exclure la pertinence et la nécessité d’une action au niveau national. Charge au département, aux coachs et co-animateurs beta.gouv.fr de démontrer et convaincre un partenaire étatique de s’associer à la démarche. 
+Plus spécifiquement dans les Côtes d’Armor, en 2019, 1112 femmes ont été victimes de violences. De janvier à octobre 2020, selon la gendarmerie, le nombre de victimes costarmoricaines s’élève déjà à 1070, soit une hausse de 34,8 % comparativement à la même période en 2019. Le ministère de l’Intérieur a publié, ce lundi 16 novembre 2020, une étude sur les violences conjugales. Derrière le Doubs, les Côtes-d’Armor sont un des départements les plus touchés par ce fléau, avec la Côte-d’Or et la Seine-Saint-Denis. Cependant, le fait d’attaquer la problématique sur un territoire précis ne doit pas exclure la pertinence et la nécessité d’une action au niveau national. Charge au département, aux coachs et co-animateurs beta.gouv.fr de démontrer et convaincre un partenaire étatique de s’associer à la démarche.
 
 **Le manque de places d’hébergement « reste toujours le point noir », dit Françoise Brié, porte-parole de Solidarité femmes (3919), membre du Haut conseil à l'égalité et de la MIPROF (Mission interministérielle pour la protection des femmes victimes de violences et la lutte contre la traite des êtres humains) et directrice de l'Escale, centre d'accueil et d'hébergement pour les femmes. Particulièrement celles spécifiquement dédiées à l’accueil des femmes victimes de violences. « Le gouvernement a annoncé la création, en 2021, de 1 000 places supplémentaires mais les financements ne sont pas là. Il manque près de 32 millions au budget 2021. » Le problème et notamment les 2 sous-problèmes évoqués plus haut est donc bien validé et partagé nationalement.**
 
@@ -57,21 +57,21 @@ Les violences conjugales représentent 23.1% des faits de violences constatés p
 
 __Spécifiquement, dans les côtes d’Armor : 238 demandes d'hébergement d'urgence versus 34 places disponibles...__
 
-- Dans le 22, en 2018 on compte 3 féminicides. 
-- 685 femmes ont été victimes de violences volontaires 
+- Dans le 22, en 2018 on compte 3 féminicides.
+- 685 femmes ont été victimes de violences volontaires
 - 109 personnes victimes de violences ont été mises à l’abri par le 115, 48 étaient accompagnées d’enfants
 - **238 demandes d'hébergement ont été enregistrées**
 - les associations costarmoricaines ont reçues 1852 personnes dans le cadre de violences
-- 12 logements ALT d’urgence sur l’ensemble du département si nécessaire, complétées par des nuitées d'hôtels 
+- 12 logements ALT d’urgence sur l’ensemble du département si nécessaire, complétées par des nuitées d'hôtels
 - **34 places à Adalea, foyer**
 
 *cf [chiffres-clés et document CLSPD](https://docs.google.com/document/d/1SsdveLqLFw1G-Q5Z5eyJRZFwOiGXiaLQif4w20VuQDQ/edit)
 
 
-## 🎯 Les actions menées 
+## 🎯 Les actions menées
 
 
-1. Revue actualites et mesures actuels effectuées au national et dans le dpt. Mesures du Grenelle, protocole dptal… 
+1. Revue actualites et mesures actuels effectuées au national et dans le dpt. Mesures du Grenelle, protocole dptal…
 [Etat des lieux de l’existant](https://docs.google.com/document/d/1Kw6KQY-dtaPeRUDcSw1i9OJOFostZlNWMRISV7MehIA/edit)
 
 
@@ -80,8 +80,8 @@ __Spécifiquement, dans les côtes d’Armor : 238 demandes d'hébergement d'urg
 via Entretiens qualitatifs (1h environ, 10 entretiens) avec anciennes et actuelles victimes, assistance sociale à la gendarmerie, collègue spécialiste de la question à la Maison du département, ADELEA - association départementale, foyers d'hébergement...
 
 via [questionnaire web public](https://docs.google.com/forms/d/e/1FAIpQLSfmAv2eiyJPwegS2WfOKSOPUNBfszS4t3K0c_TLZdpu5eD1Vg/viewform)  “personnes ayant subi des violences”, accessible ici (20 questions, 80 réponses).
-Canaux de diffusion : 
-- réseaux internes maison du département 
+Canaux de diffusion :
+- réseaux internes maison du département
 - [groupes facebook](https://docs.google.com/document/d/1HmcYwk7CG_c_vGAFuNbz9pRu-uLEq-KpdAtyzlO_EdA/edit) et forum d’associations sur le sujet
 - relais bouche-a-oreille...
 
@@ -94,10 +94,10 @@ constats et apprentissages :
 ![Capture d’écran 2020-03-30 à 13 01 51](https://user-images.githubusercontent.com/36134318/78228812-75b3ee80-74cf-11ea-9e1d-423f13dee02e.png)
 
 
-3. 📱  Analyse avantages/inconvénients de mesures et structures déjà existantes : ADALEA (foyer hebergement), téléphone grand danger, application “App-Elles”, association OSYS à Bayeux, association nationale #nousToutes… qui nous ont permis de découvrir un écosystème actif et fourni dans lequel nous positionner en tant qu'équipe d’investigation dans le département 
+3. 📱  Analyse avantages/inconvénients de mesures et structures déjà existantes : ADALEA (foyer hebergement), téléphone grand danger, application “App-Elles”, association OSYS à Bayeux, association nationale #nousToutes… qui nous ont permis de découvrir un écosystème actif et fourni dans lequel nous positionner en tant qu'équipe d’investigation dans le département
 
 
-## 💡 Hypothèses de solutions : 2 volets envisagées 
+## 💡 Hypothèses de solutions : 2 volets envisagées
 
 Pour rappel, les 2 irritants prioritaires identifiés à résoudre sont les suivants : le manque de places totales versus les demandes et un besoin accru d’accompagnement (simple écoute, conseils professionnels, aides administratives, juridiques aides matériels, prêts de mobilier, transport ponctuel ou réguliers...). A ces 2 irritants, ont été imaginées deux solutions :
 
@@ -136,9 +136,9 @@ Dans ce cas, cela impliquerait un partenariat multipartite et un début envisag�
 - CLÉMENT Tiphaine
 
 
-## 📑 Documents et ressources 
+## 📑 Documents et ressources
 
-- Internes équipe : 
+- Internes équipe :
 
 > [Synthèse finale 2ème investigation 7/12/20](https://docs.google.com/presentation/d/1mFdgwzoWAGZ2FQtMKdqWqX-lqds9Rb2e6lDLrqkoutc/edit#slide=id.g53cae8ed9a_0_110)
 
@@ -148,4 +148,4 @@ Dans ce cas, cela impliquerait un partenariat multipartite et un début envisag�
 
 
 
-📬 NOUS CONTACTER : [jennifer.stephan@beta.gouv.fr](mailto:jennifer.stephan@beta.gouv.fr?subject=Protege-toit); en cc : preincubation@beta.gouv.fr
+📬 NOUS CONTACTER : [jennifer.stephan@beta.gouv.fr](mailto:jennifer.stephan@beta.gouv.fr?subject=Protege-toit); en cc : incubateur@anct.gouv.fr

@@ -1,0 +1,16 @@
+---
+fullname: Julien Pavon
+role: Développeur Fullstack
+domaine: Développement
+missions:
+  - start: 2021-10-19
+    end: 2023-02-28
+    status: independent
+    employer: Octo
+startups:
+  - potentiel
+---
+
+Software/Coach Craftsman
+TDD, BDD et retrogaming addict
+

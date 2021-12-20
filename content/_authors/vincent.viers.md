@@ -1,6 +1,6 @@
 ---
 fullname: Vincent Viers
-role: Data Scientist transverse / Développeur
+role: Product Manager Developer Experience / Data Scientist
 domaine: Développement
 github: vviers
 avatar:
@@ -10,11 +10,15 @@ missions:
     end: 2021-11-01
     status: independent
     employer: octo
+  - start: 2021-11-01
+    end: 2022-07-01
+    status: independent
+    employer: benext
 startups:
+    - a-just
+previously:
     - signaux-faibles
     - disinfo
-    - a-just
 ---
 
-
-Data scientist transverse @beta.gouv
+Developer Experience & Data @beta.gouv

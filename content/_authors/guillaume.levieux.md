@@ -9,14 +9,19 @@ missions:
     status: admin
     employer: MTE/DGALN
 startups:
-    - camino
-    - aides-territoires
-    - locatio
-    - zero-logement-vacant
-    - innovation-urbaine
-    - resorption-bidonvilles
     - acceslibre
-    - friches    
+    - aides-territoires
+    - apilos
+    - bureaux.vacants
+    - camino
+    - docurba
+    - envergo
+    - friches
+    - innovation-urbaine
+    - locatio
+    - resorption-bidonvilles
+    - sparte
+    - zero-logement-vacant
 badges:
   - segur
 ---

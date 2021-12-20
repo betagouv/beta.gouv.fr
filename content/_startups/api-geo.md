@@ -1,6 +1,6 @@
 ---
 title: API Géo
-mission: Interrogez les référentiels géographiques plus facilement
+mission: Interroger les référentiels géographiques plus facilement
 owner: DINUM
 sponsors: 
     - name: Direction interministérielle du numérique

@@ -1,7 +1,7 @@
 ---
 roles: Développeur ou développeuse mobile expérimenté-e
 startup : 
-open: true
+open: false
 title: Développeur ou développeuse mobile expérimenté-e
 ---
 

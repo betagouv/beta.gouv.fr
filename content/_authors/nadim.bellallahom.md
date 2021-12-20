@@ -10,7 +10,7 @@ missions:
     status: admin
     employer: Ministère de la Transition écologique
 startups:
-  - mission-transition
+  - mission-transition-ecologique
 ---
 
 Designer dans la programme Entrepreneurs d'intérêt général au Ministère de la Transition écologique.

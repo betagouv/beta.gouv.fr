@@ -5,9 +5,9 @@ domaine: Développement
 github: jonathanfallon
 missions:
     - start: 2018-11-05
-      end: 2021-12-31
+      end: 2022-12-31
       status: independent
-      employer: Codeurs en Liberté
+      employer: Scopopop
 startups:
     - preuve-de-covoiturage
 badges:

@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: ey / pole-emploi
   - start: 2019-09-01
-    end: 2021-11-11
+    end: 2022-12-31
     status: independent
     employer: octo
 startups:
@@ -20,4 +20,4 @@ previously:
   - la-bonne-boite
 ---
 
-Aime les calisthenics, les bureaux debouts, le e-ink, la VR et l'AR, Minecraft et l'algorithmic trading. Basé à Sofia en Bulgarie, voyages fréquents à Paris. « Ce que vous avez le plus peur de faire est probablement ce que vous avez le plus besoin de faire. »
+Travaille toujours debout sur des tablettes e-ink ou en VR. Joue à Minecraft et à Beat Saber, les deux en VR. Basé à Sofia en Bulgarie, voyages fréquents à Paris. « Ce que vous avez le plus peur de faire est probablement ce que vous avez le plus besoin de faire. »

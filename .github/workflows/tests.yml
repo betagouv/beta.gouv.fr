@@ -58,7 +58,7 @@ jobs:
       run: bundle exec jekyll doctor
 
     - name: Jekyll build
-      run: bundle exec jekyll build
+      run: bundle exec jekyll build --trace
 
     - name: Check homepage was compiled
       run: test -s _site/index.html

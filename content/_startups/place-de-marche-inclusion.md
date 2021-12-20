@@ -1,5 +1,5 @@
 ---
-title: Le marché de l'inclusion (ITOU)
+title: Marché de l'inclusion (ITOU)
 mission: Promouvoir l'offre commerciale des structures inclusives pour accroître
   leur capacité d'embauche
 owner: Ministère du Travail, de l'Emploi et de l'Insertion, ITOU
@@ -9,7 +9,7 @@ sponsors:
 incubator: dinum
 repository: https://github.com/betagouv/itou-cocorico
 contact: lemarche@inclusion.beta.gouv.fr
-stats_url: https://lemarche.inclusion.beta.gouv.fr/fr/stats
+stats_url: https://kindly-sunscreen-95c.notion.site/Rendez-vous-impact-bed6ed047b69443db46145baca3635d0
 link: https://lemarche.inclusion.beta.gouv.fr
 stats: true
 phases:
@@ -17,6 +17,8 @@ phases:
     start: 2020-03-16
   - name: construction
     start: 2020-06-30
+  - name: acceleration
+    start: 2021-06-01
 ---
 
 **Problème**

@@ -1,7 +1,7 @@
 ---
 fullname: Karel Cloarec
-role: Coaching - Deploiement
 domaine: Coaching
+role: Coaching - Deploiement
 github: Karel2
 avatar: null
 missions:
@@ -18,14 +18,22 @@ missions:
     status: independent
     employer: Scopyleft
   - start: 2021-04-01
-    end: 2021-12-01
+    end: 2021-11-01
     status: independent
     employer: UT7
+  - start: 2021-11-01
+    end : 2022-06-01
+    status: independent
+    employer: NUMA
 startups:
-  - eva
+  - dev eco
 previously:
   - andi
   - urbanvitaliz
+  - candela
+  - eva
 badges:
   - segur
+competences:
+  - Coaching
 ---

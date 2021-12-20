@@ -1,9 +1,9 @@
 ---
 title: Maintenant!
-mission: Recrutez des gens, pas des CV
+mission: Recruter des gens, pas des CV !
 owner: Pôle emploi
 sponsors: 
-    - name: Pôle Emploi
+    - name: Pôle emploi
       acronym: PE
       domaine_ministeriel: travail
       type: operateur

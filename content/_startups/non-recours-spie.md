@@ -6,6 +6,7 @@ incubator: dinum
 phases:
   - name: investigation
     start: 2021-03-01
+    end: 2021-12-30
 link:
 repository: 
 stats: false 

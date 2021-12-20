@@ -2,7 +2,7 @@
 title: Tout est permis
 mission: Favoriser l'emploi des jeunes hors agglomération en les aidants à obtenir le permis de conduire
 owner: Région Hauts-de-France
-incubator: anct 
+incubator: anct
 phases:
   - name: investigation
     start: 2020-04-01
@@ -10,10 +10,10 @@ phases:
   - name: construction
     start: 2020-10-01
 link:
-repository: 
-stats: false 
-stats_url: 
-contact: preincubation@beta.gouv.fr
+repository:
+stats: false
+stats_url:
+contact: incubateur@anct.gouv.fr
 ---
 
 ## Problème visé
@@ -29,7 +29,7 @@ bassin minier et Roubaix-Tourcoing ou le Nord du littoral). Les seconds accèden
 
 ### Il est difficile de s’y retrouver parmi les aides au permis de conduire et leurs modalités :
 - Des aides nombreuses et souvent territorialisées :
-  - par l’Etat (500 € pour les apprentis, aide Pôle Emploi régie au niveau régional et aide
+  - par l’Etat (500 € pour les apprentis, aide Pôle emploi régie au niveau régional et aide
 soumise au fonds disponibles) ;
   - par la Région avec le prêt de 1000 € (APC) ;
   - par des départements ;
@@ -47,10 +47,10 @@ soumise au fonds disponibles) ;
 - Difficultés pour se rendre dans un lieu d’accompagnement pour monter son dossier d’aide.
 
 
-## Hypothèse de solution 
+## Hypothèse de solution
 Le portail web « Tout est Permis » facilite l’accès au permis de conduire. La première “brique” consiste à regrouper et expliquer clairement tous les dispositifs de financement existants, et orienter le jeune vers les aides auxquelles il a droit de manière automatisée. Nous pouvons également lui apporter une réponse individualisée si nécessaire.
 
 A terme, ce portail pourrait évoluer vers un dispositif global d’aide à la mobilité des jeunes : ajout des aides régionales à la mobilité (ATP, En route vers l’emploi), des aides pour acquérir un véhicule, des autres solutions de mobilité (covoiturage, transports en commun...).
 
-## Territoire d'expérimentation 
+## Territoire d'expérimentation
 Région Hauts-de-France

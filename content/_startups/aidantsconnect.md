@@ -1,10 +1,10 @@
 ---
 title: Aidants Connect
-mission: Permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule.
+mission: Réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule
 owner: Agence Nationale de la Cohésion des Territoires
 sponsors: 
     - name: Agence Nationale de la Cohésion des Territoires
-      acronym:
+      acronym: ANCT
       domaine_ministeriel: territoires
       type: operateur
 incubator: anct

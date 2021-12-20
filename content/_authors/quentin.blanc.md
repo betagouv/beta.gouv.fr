@@ -5,9 +5,9 @@ domaine: Développement
 github: qblanc
 missions:
   - start: 2021-03-08
-    end: 2021-07-02
+    end: 2022-06-30
     status: independent
-    employer: On m'a parlé d'Octo; je n'ai pas encore signé
+    employer: Octo
 startups:
   - data.insertion
 badges:

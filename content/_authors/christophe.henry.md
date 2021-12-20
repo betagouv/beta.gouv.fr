@@ -6,9 +6,9 @@ link: https://christophe-henry.dev
 github: christophehenry
 missions:
   - start: 2021-03-09
-    end: 2021-07-14
+    end: 2022-05-30
     status: independent
-    employer: Octo
+    employer: Malt
 startups:
   - aidantsconnect
 ---

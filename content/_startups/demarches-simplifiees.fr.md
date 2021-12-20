@@ -1,5 +1,5 @@
 ---
-title: demarches-simplifiees.fr
+title: Démarches Simplifiées
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
 owner: DINUM
 sponsors: 

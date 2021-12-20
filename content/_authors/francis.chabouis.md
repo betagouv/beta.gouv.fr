@@ -5,7 +5,7 @@ domaine: Développement
 github: fchabouis
 missions:
   - start: 2020-01-20
-    end: 2021-12-31
+    end: 2022-12-31
     status: independent
     employer: Codeurs en Liberté
 startups:
@@ -14,4 +14,4 @@ previously:
 
 ---
 
-Je fais des cartes, des maths et de l'open-data
+J'aime l'open-data, les transports, la cartographie, les maths et coder en Elixir.

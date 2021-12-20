@@ -1,16 +1,30 @@
 ---
 fullname: Stéphane Ritter
-role: Chef du laboratoire d'innovation du Ministère de l'Intérieur
 domaine: Animation
-link: https://beta.gouv.fr/incubateurs/lab-mi.html
+role: Chef du laboratoire d'innovation du Ministère de l'Intérieur
+github: infosteph
+link: https://beta.interieur.gouv.fr/
 missions:
   - start: 2020-01-01
-    end: 2021-06-30
+    end: 2023-06-30
     status: admin
-    employer: minint
-github: infosteph
+    employer: Ministère de l'Intérieur
 startups:
-    - candilib
-    - polex
-    - histovec
+  - urgencevie
+  - fedel
+  - psij
+  - dialogue.operationnel
+previously:
+  - histovec
+  - polex
+  - candilib
+  - psp
+  - jesaisfaire
+competences:
+  - Administration Publique
+  - UX
+  - Gestion de Produit
+  - Communication
+  - Croissance
+  - Coaching
 ---

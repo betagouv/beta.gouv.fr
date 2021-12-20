@@ -13,9 +13,10 @@ phases:
     start: 2019-12-19
   - name: construction
     start: 2019-12-19
-link: http://cartobio.org
-repository: https://github.com/entrepreneur-interet-general/CartoBio-Presentation
+link: https://cartobio.org
+repository: https://github.com/AgenceBio/cartobio-front
 stats: true
+budget_url: https://cartobio.org/budget
 contact: cartobio@beta.gouv.fr
 ---
 

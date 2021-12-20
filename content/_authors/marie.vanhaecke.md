@@ -11,6 +11,7 @@ missions:
 startups:
   - tutorat_fp
   - metiers-numeriques
+  - talents.numeriques
 badges:
   - segur
 ---

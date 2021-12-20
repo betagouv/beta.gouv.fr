@@ -7,9 +7,9 @@ avatar:
 link: https://www.linkedin.com/in/merzouknassim/
 missions:
   - start: 2020-05-12
-    end: 2021-12-31
+    end: 2022-12-31
     status: independent
-    employer: OCTO
+    employer: MALT
 startups:
     - engagement-civique
 ---

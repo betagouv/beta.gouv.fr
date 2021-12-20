@@ -5,7 +5,7 @@ domaine: Coaching
 link: https://www.linkedin.com/in/leamartel/
 missions:
   - start: 2021-04-16
-    end: 2021-07-30
+    end: 2021-09-30
     status: independent
 
 ---

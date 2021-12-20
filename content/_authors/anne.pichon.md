@@ -4,18 +4,21 @@ domaine: Design
 role: UX
 github: Ann-p
 missions:
-  - start: 2018-01-01
-    end: 2021-11-30
+  - start: 2017-05-03
+    end: 2020-01-01
     status: admin
+  - start: 2020-01-02
+    end: 2022-06-30
+    status: independent
 startups:
-  - la-bonne-formation
-  - zen
-  - estime
   - itou
   - place-de-marche-inclusion
-  - dora
 previously:
+  - dora
   - la-bonne-boite
+  - estime
+  - la-bonne-formation
+  - zen
 competences:
   - UX
   - UI

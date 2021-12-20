@@ -1,5 +1,5 @@
 ---
-title: Marchés publics simplifiés
+title: Marchés Publics Simplifiés
 mission: Candidater en ligne à un Marché Public avec uniquement son SIRET
 owner: DINUM
 incubator: dinum

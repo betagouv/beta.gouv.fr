@@ -3,7 +3,7 @@ title: La bonne place
 mission: Mettre en relation demandeurs d'emploi et entreprise de façon à ce que cela dure 
 owner: Pôle emploi 
 sponsors:
-  - name: Pôle Emploi
+  - name: Pôle emploi
     acronym: PE
     domaine_ministeriel: travail
     type: operateur
@@ -11,7 +11,9 @@ incubator: pole-emploi
 phases: 
   - name: investigation
     start: 2020-10-26 
-    end: 
+    end: 2021-03-31
+  - name: alumni
+    start: 2021-03-31
 events: 
   - name: committee
     date: 2020-12-10 

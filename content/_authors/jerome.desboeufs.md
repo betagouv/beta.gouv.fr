@@ -13,13 +13,13 @@ missions:
     start: 2015-03-10
     status: service
   - employer: Living Data
-    end: 2021-07-31
+    end: 2022-12-31
     start: 2015-09-18
     status: independent
 startups:
-  - api-geo
   - ban
 previously:
+  - api-geo
   - urbaclic
   - mes-aides
   - api.gouv.fr

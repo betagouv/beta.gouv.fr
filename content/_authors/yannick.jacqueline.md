@@ -5,7 +5,7 @@ domaine: Développement
 github: yannickjacqueline
 missions:
   - start: 2021-04-12
-    end: 2021-12-31
+    end: 2022-03-31
     status: service
     employer: DINUM
 startups:

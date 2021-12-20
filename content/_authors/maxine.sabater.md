@@ -1,13 +1,15 @@
 ---
 fullname: Maxine Sabater
-role: Assistante en appui aux projets innovants
-domaine: Autre
+domaine: Coaching
+role: "Co-animatrice de la Fabrique numérique de la DGFiP "
 github: maxinesabater
 missions:
   - start: 2021-03-15
-    end: 2021-07-30
+    end: 2022-01-31
     status: admin
-    employer: DTNum (DGFIP)
+    employer: DTNum (DGFiP)
+startups:
+  - attractivite.des.territoires
+competences:
+  - Administration Publique
 ---
-
-Une nouvelle stagiaire à la DTNum ! 

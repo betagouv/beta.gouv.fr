@@ -1,7 +1,7 @@
 ---
 fullname: Clément Berthou
-role: Développeur
 domaine: Développement
+role: Développeur
 github: cberthou
 missions:
   - start: 2019-04-26
@@ -9,7 +9,8 @@ missions:
     status: service
     employer: benext
 startups:
-  - archifiltre
+  - fiche.commune.entreprise.fce
+competences:
+  - Développement Backend
 ---
-
 Développer simplement des applications complexes.

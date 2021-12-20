@@ -2,7 +2,7 @@
 title: Bases Tiers - Alertissimo
 mission: Simplifier la gestion des aides Région par les professionnels
 owner: Région Hauts-de-France
-incubator: anct 
+incubator: anct
 phases:
   - name: investigation
     start: 2020-04-01
@@ -10,10 +10,10 @@ phases:
   - name: alumni
     start: 2020-07-08
 link:
-repository: 
-stats: false 
-stats_url: 
-contact: preincubation@beta.gouv.fr
+repository:
+stats: false
+stats_url:
+contact: incubateur@anct.gouv.fr
 ---
 
 ## Problème visé
@@ -30,7 +30,7 @@ Tous les bénéficiaires ont souligné que ce manque d’information entraîne d
 **Quant aux instructeurs d'aides :**
 Les instructeurs insistent sur l’importance de l’animation qui doit se faire tout au long du dossier, aujourd’hui non réalisée de façon optimale par manque de temps, ou du turn-over des équipes (temps de formation sur la matière et appropriation des dossiers).
 
-## Hypothèses de solution 
+## Hypothèses de solution
 Un système d’alertes avec des messages automatiques envoyés aux porteurs aux étapes clés de leur dossier et la traçabilité des échanges.
 La solution optimale permettrait au bénéficiaire d’avoir un accès direct (« front office ») aux informations relatives à tous ses dossiers. Ce « front office », unique idéalement, (ou portail dédié ‘Alertissimo’), pourrait conserver les échanges entre le bénéficiaire et le service instructeur (principales étapes, délais et problématiques éventuelles). Il générerait des mails automatiques concernant les étapes clés du dossier.
 
@@ -39,5 +39,5 @@ Une présentation de ces propositions a été faite auprès de 6 bénéficiaires
 ## Suite pour l'équipe
 Sujet SI à intégrer aux cahiers des charges d'évolution des logiciels utilisés par la Région pour gérer ces aides. Idée appréciée, les intrapreneur.e.s seront sollicité.e.s en interne sur ce sujet.
 
-## Territoire d'expérimentation 
+## Territoire d'expérimentation
 Région Hauts-de-France

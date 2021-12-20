@@ -15,7 +15,7 @@ phases:
 link: https://signal.conso.gouv.fr
 repository: https://github.com/betagouv/signalement-app
 stats: true
-contact: contact@signal.conso.gouv.fr
+contact: support@signal.conso.gouv.fr
 techno:
   - Scala
   - TypeScript

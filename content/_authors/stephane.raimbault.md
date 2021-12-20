@@ -6,10 +6,15 @@ link: https://webstack.fr
 github: stephane
 missions:
   - start: 2018-02-26
-    end: 2021-12-31
-    status: service
+    end: 2020-10-01
+    status: independent
     employer: octo
-startups:
+  - start: 2021-03-01
+    end: 2021-09-01
+    status: independent
+    employer: octo
+previously:
+    - adock
     - itou
 ---
 

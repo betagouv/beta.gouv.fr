@@ -1,9 +1,9 @@
 ---
-title: Pôle Emploi Action
-mission: Permettre aux candidats de s’inscrire à des rencontres de recrutement, adaptées à leur profil grâce à des suggestions personnalisées
+title: Pôle emploi Action
+mission: Faciliter l'inscription à des rencontres de recrutement adaptées à son profil
 owner: Pôle emploi
 sponsors:
-  - name: Pôle Emploi
+  - name: Pôle emploi
     acronym: PE
     domaine_ministeriel: travail
     type: operateur

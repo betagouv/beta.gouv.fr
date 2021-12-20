@@ -1,7 +1,7 @@
 ---
 title: Peps
-mission: Faciliter la transition du modèle agricole grâce au partage d'expériences entre agriculteurs
-owner: direction générale de l'alimentation
+mission: Faciliter la transition du modèle agricole grâce au partage d'expériences
+owner: Direction générale de l'alimentation
 sponsors: 
     - name: Direction générale de l'administration
       acronym: 

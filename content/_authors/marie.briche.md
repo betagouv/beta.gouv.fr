@@ -1,14 +1,17 @@
 ---
 fullname: Marie Briche
-role: Intrapreneuse
 domaine: Intraprenariat
+role: Intrapreneuse Avril, Chargée de projet
+github: Marie-briche
 missions:
   - start: 2017-05-01
-    end: 2021-12-31
+    end: 2022-12-31
     status: admin
     employer: pole-emploi
 startups:
-    - avril
+  - avril
+  - reva
+competences:
+  - Gestion de Produit
 ---
-
-Conseillère référente VAE, formatrice Pôle emploi. Curieuse, impertinente parfois, impliquée toujours ! Vive la VAE !!!!
+Curieuse, impliquée, impertinente et heureuse !

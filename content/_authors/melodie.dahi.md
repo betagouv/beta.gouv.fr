@@ -1,7 +1,8 @@
 ---
 fullname: Mélodie Dahi
-role: Intrapreneuse
-domaine: Intraprenariat
+domaine: Déploiement
+role: Chargée de déploiement
+github: MelodieDahi
 missions:
   - start: 2018-03-13
     end: 2020-04-07
@@ -11,8 +12,22 @@ missions:
     end: 2020-09-30
     status: independent
     employer: lazone
+  - status: independent
+    start: 2021-08-02
+    end: 2021-10-22
+    employer: Scopyleft
+  - status: independent
+    start: 2021-10-15
+    end: 2021-06-30
+    employer: Ippon
 startups:
-  - visam
+  - setaccords
 previously:
+  - territoires-en-transitions
   - zam
+  - visam
+competences:
+  - Coaching
+  - Gestion de produit
+  - Croissance
 ---

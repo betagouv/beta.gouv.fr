@@ -7,19 +7,19 @@ link: https://www.linkedin.com/in/chaibmartinez/
 github: chaibax
 missions:
   - start: 2018-06-26
-    end: 2021-12-30
+    end: 2022-12-30
     status: independent
     employer: numa
 startups:
     - beta.gouv
     - Incubateur ANCT
     - diagoriente
-    - cmachance
     - classe12
     - anti-gaspi-cantine
 previously:
   - demarches-simplifiees.fr
   - trait-d-union
+  - cmachance
 badges:
     - segur
 domaine: Coaching

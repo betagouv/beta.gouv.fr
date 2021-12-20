@@ -6,13 +6,6 @@ var createStartupCard = function(startup) {
 
     card.innerHTML = `
         <div class="fr-card fr-enlarge-link">
-            <div class="fr-card__img">
-                <img class="screenshot lozad"
-                    data-src="${startup.attributes['screenshot-url']}"
-                    title="${startup.attributes.name} est encore en travaux"
-                    alt=""
-                    data-proofer-ignore>
-            </div>
             <div class="fr-card__body">
                 <h2 class="fr-card__title">
                     <a class="fr-card__link" href="/startups/${ startup.id }.html" target="\_blank" rel="noopener">${startup.attributes.name}</a>
@@ -20,6 +13,13 @@ var createStartupCard = function(startup) {
         
                 <p class="fr-card__detail">${ startup.attributes.owner }</p>
                 <p class="fr-card__desc">${ startup.attributes.pitch }</p>
+            </div>
+            <div class="fr-card__img">
+                <img class="screenshot lozad"
+                    data-src="${startup.attributes['screenshot-url']}"
+                    title="${startup.attributes.name} est encore en travaux"
+                    alt=""
+                    data-proofer-ignore>
             </div>
         </div>`
     return card

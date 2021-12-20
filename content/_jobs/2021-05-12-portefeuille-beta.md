@@ -1,7 +1,7 @@
 ---
 roles: une ou un responsable de portefeuille
 title: "Offre pour une ou un responsable de portefeuille de Startups d'Etat"
-open: true
+open: false
 ---
 
 L'incubateur de la DINUM recrute une ou un responsable de portefeuille pour participer à la réussite des produits numériques accompagnés par le programme beta.gouv.fr.

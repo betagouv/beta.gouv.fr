@@ -2,7 +2,7 @@
 title: Shareloc
 mission: Exploiter les espaces vacants en lycée
 owner: Région Hauts-de-France
-incubator: anct 
+incubator: anct
 phases:
   - name: investigation
     start: 2020-04-01
@@ -10,10 +10,10 @@ phases:
   - name: alumni
     start: 2020-07-08
 link:
-repository: 
-stats: false 
-stats_url: 
-contact: preincubation@beta.gouv.fr
+repository:
+stats: false
+stats_url:
+contact: incubateur@anct.gouv.fr
 ---
 
 ## Problème visé
@@ -36,11 +36,11 @@ En parallèle, la durée d’obtention d’un logement social peut s’étendre 
 - Certains logements vacants ne sont pas en état d’être proposés à la location. Cependant, la Région ne dispose pas d’une vision d’ensemble de son patrimoine immobilier et de son état, et ce diagnostic. Actuellement l’état d’un logement est déclaré par les gestionnaires de lycée, dont les intérêts ne sont pas toujours de les remplir, et qui n’ont pas les compétences pour juger de ces aspects souvent techniques (électricité, humidité etc.).
 - D’autres collectivités ont lancé le projet de confier la gestion de leur parc des logements de fonction à des bailleurs sociaux, spécialistes de la thématique. Ces projets ont été abandonnés par manque de rentabilité aussi bien pour les bailleurs que pour les collectivités, qui recherchent des solutions.
 
-## Hypothèses de solution 
+## Hypothèses de solution
 L’idée de solution repose sur la mise en relation des logements de fonction vacants et des agents de la Région ou de l’Etat, en recherche d’un logement. Leur occupation est conditionnée par l’accord du chef d’établissement. Il est indispensable de co-construire la solution avec les lycées volontaires pour recenser les logements vacants, repérer les éventuels travaux à mener, partager l’offre de logements disponibles à la location et faciliter leur gestion administrative.
 
 ## Suite pour l'intrapreneure
 Sujet des logements vacants en lycée jugé non prioritaire par la Région, et non adapté à une poursuite au sein de beta.gouv.fr. Proposition à l'intrapreneure d'investiguer en interne d'autres espaces vacants dans les lycées.
 
-## Territoire d'expérimentation 
+## Territoire d'expérimentation
 Région Hauts-de-France

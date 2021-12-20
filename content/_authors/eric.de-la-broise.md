@@ -2,10 +2,9 @@
 fullname: Eric de la Broise
 role: Data Scientist auprès de DossierFacile.Fr
 domaine: Autre
-github: madatatiere
 missions:
   - start: 2020-11-09
-    end: 2021-05-09
+    end: 2022-03-31
     status: independent
     employer: Octo
 startups:
