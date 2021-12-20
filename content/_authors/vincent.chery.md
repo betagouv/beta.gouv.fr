@@ -8,7 +8,7 @@ missions:
     end: 2022-06-30
     status: independent
     employer: Octo
-startups:
+startup:
   - monitorfish
 ---
 
