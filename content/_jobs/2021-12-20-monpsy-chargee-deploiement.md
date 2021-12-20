@@ -8,6 +8,7 @@ date: 2021-12-09T10:56:24.398Z
 beta.gouv.fr aide les ministères et autres partenaires publics à construire des services numériques simples, faciles à utiliser, à l’impact maximal. À travers notre approche – parfois appelée “approche Startup d’État” – nous remettons les usagers au cœur de l’action publique et cherchons à apporter des solutions concrètes à leurs problèmes pour améliorer leur vie quotidienne.
 
 Nous formons des équipes pluridisciplinaires constituées de personnes engagées au service de l’intérêt général, qu’elles viennent du secteur privé ou du secteur public. Nous intégrons des agents publics appelés “intrapreneurs” au sein de ces équipes, et nous favorisons leur passage à l’action pour améliorer le service public de l’intérieur.
+
 beta.gouv.fr a déjà contribué à la création de dizaines de services numériques déjà disponibles ou à venir. Nous animons une communauté en croissance qui construit les services publics numériques de demain au sein d’un réseau d’incubateurs publics partageant les mêmes valeurs.
 
 ## Le projet: Mon Psy Santé
