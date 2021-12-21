@@ -22,7 +22,8 @@ phases:
     end: 2020-08-31
   - name: acceleration
     start: 2020-09-01
-    end: 2021-06-13
+  - name: transfer
+    start: 2021-09-01  
 ---
 # **Le constat**
 
