@@ -8,7 +8,7 @@ techno: react-native, iOS, Android
 
 La [Fabrique numérique des ministères sociaux](https://www.fabrique.social.gouv.fr) conçoit et met en oeuvre des applications web et mobiles à destination des citoyens ou de l'administration, dans les domaines du travail, de le formation et de la santé.
 
-Au sein l'équipe "SRE" en charge du suivi technique des startups d'état de la fabrique numérique, vous serez en charge du suivi technique des applications mobiles, et serez le contact privilégié des développeurs et chef(fe)s de produit.
+Au sein de l'équipe "SRE" en charge du suivi technique des startups d'état de la fabrique numérique, vous serez en charge du suivi des applications mobiles, et serez le contact privilégié des développeurs et chef(fe)s de produit.
 
 La fabrique compte actuellement six applications mobiles multi-plateformes :
 
