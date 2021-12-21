@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: pdeleforge
 missions:
   - start: 2019-06-01
-    end: 2021-12-31
+    end: 2022-06-30
     status: independent
     employer: ""
 startups:

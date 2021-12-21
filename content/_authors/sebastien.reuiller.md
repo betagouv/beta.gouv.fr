@@ -2,7 +2,7 @@
 fullname: Sébastien Reuiller
 domaine: Développement
 role: Développeur
-github: sebastienreuiller
+github: SebastienReuiller
 link: https://sebastienreuiller.fr/
 missions:
   - start: 2021-05-25
