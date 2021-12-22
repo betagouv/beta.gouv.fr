@@ -7,12 +7,15 @@ incubator: dinum
 link: https://www.rdv-insertion.fr/
 repository: https://github.com/betagouv/rdv-insertion
 contact: data.insertion@beta.gouv.fr
-stats: false
+stats: true
+stats_url: https://betagouv.github.io/stats-data-insertion/
 phases:
   - name: investigation
     start: 2021-01-15
   - name: construction
     start: 2021-06-02
+  - name: acceleration
+    start: 2022-01-03  
 ---
 # Le problème
 

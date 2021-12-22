@@ -1,18 +1,20 @@
 ---
 fullname: Sofia Boulaarab
-role: Designer
 domaine: Design
-github: sofiaboulaarab 
-link:
-missions: 
-  - start: 2020-01-06 
-    end: 2021-12-31
+role: Designer
+github: sofiaboulaarab
+link: null
+missions:
+  - start: 2020-01-06
+    end: 2022-06-30
     status: independent
     employer: education nationale
-startups: 
+startups:
   - tdb-apprentissage
   - rdv.apprentissage
   - catalogue-apprentissage
   - annuaire-apprentissage
+competences:
+  - UX
+  - UI
 ---
-

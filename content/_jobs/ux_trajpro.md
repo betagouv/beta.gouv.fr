@@ -1,6 +1,6 @@
 ---
 roles: UNE NOUVELLE STARTUP D’ÉTAT RECRUTE UN OU UNE SPÉCIALISTE D’UX/UI POUR AIDER LES JEUNES À S’ORIENTER
-open: true
+open: false
 date: 2021-12-14
 ---
 *Et si on changeait la donne en matière d’orientation ? Et si on trouvait à mettre à disposition des jeunes, de leurs familles ou des professionnels qui les conseillent des données précises et utiles sur les chances d’obtenir un diplôme et un emploi pour chacune des formations qui les intéressent ?

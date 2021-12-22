@@ -1,13 +1,14 @@
 ---
 fullname: Louise MARTI
-role: Bizdev pour la Plateforme de l'inclusion
 domaine: Déploiement
+role: Bizdev pour la Plateforme de l'inclusion
 missions:
   - start: 2021-09-01
-    end: 2021-12-31
+    end: 2022-06-30
     status: independent
     employer: Octo
 startups:
   - la.communaute.de.linclusion
+competences:
+  - Croissance
 ---
-
