@@ -1,20 +1,19 @@
 ---
-roles: UNE NOUVELLE STARTUP D’ÉTAT RECRUTE UN DÉVELOPPEUR OU UNE DÉVELOPPEUSE FULL STACK POUR AIDER LES JEUNES À S’ORIENTER
+roles: UNE NOUVELLE STARTUP D’ÉTAT RECRUTE UN OU UNE RESPONSABLE PRODUIT NUMÉRIQUE POUR AIDER LES JEUNES À S’ORIENTER
 open: true
-date: 2021-12-14
+date: 2021-12-23
 ---
-*Et si on changeait la donne en matière d’orientation ? Et si on trouvait à mettre à disposition des jeunes, de leurs familles ou des professionnels qui les conseillent des données précises et utiles sur les chances d’obtenir un diplôme et un emploi pour chacune des formations qui les intéressent ? C’est le nouveau défi relevé par la mission interministérielle pour apprentissage qui se penche désormais sur les liens entre les formations et les trajectoires professionnelles. L’enjeu : transformer le dispositif InserJeunes pour mieux exposer les données, étendre l’enquête aux formations supérieures et l’enrichir à de nouveaux indicateurs pertinents.*
+*Et si on changeait la donne en matière d’orientation ? Et si on trouvait à mettre à disposition des jeunes, de leurs familles ou des professionnels qui les conseillent des données précises et utiles sur les chances d’obtenir un diplôme et un emploi pour chacune des formations qui les intéressent ?
+C’est le nouveau défi relevé par la mission interministérielle pour l’apprentissage qui se penche désormais sur les liens entre les formations et les trajectoires professionnelles. L’enjeu : transformer le dispositif InserJeunes pour mieux exposer les données, étendre l’enquête aux formations supérieures et l’enrichir à l’aide de nouveaux indicateurs pertinents.*
 
 
 
-# 👋 QUI SOMMES-NOUS ?
-[La mission interministérielle pour l'apprentissage](https://mission-apprentissage.gitbook.io/general/), créée sur l’impulsion de Jean-Michel Blanquer, Élisabeth Borne, Amélie de Montchalin et Frédérique Vidal, compte une 20e de membres, combinant spécialistes de l’apprentissage, de l’orientation des jeunes, du développement web, du design de parcours utilisateurs… 
-
+# 👋 À PROPOS DE NOUS ?
+[La mission interministérielle pour l'apprentissage](https://mission-apprentissage.gitbook.io/general/),créée sur l’impulsion de Jean-Michel Blanquer, Élisabeth Borne, Amélie de Montchalin et Frédérique Vidal, compte une 20e de membres, combinant spécialistes de l’apprentissage, de l’orientation des jeunes, du développement web, du design de parcours utilisateurs… Son fonctionnement est souple. La finalité nous guide plutôt que les procédures. La qualité de la réponse aux besoins des parties prenantes est la mesure de notre réussite.
 
 Elle coopère avec de nombreuses administrations de l’État (DGESCO, DGEFP, DGESIP, DARES, DEPP, DINUM…), les CFA, les jeunes et leurs associations, l’ONISEP, les conseils régionaux, les opérateurs de compétences, les startups de l’ED tech et des RH tech, les entreprises qui recrutent (ou pas) des apprentis, etc. 
 
 Son fonctionnement est souple. La finalité nous guide plutôt que les procédures. La qualité de la réponse aux besoins des parties prenantes est la mesure de notre réussite.
-
 
 
 # 🤝 CE QUE NOUS VOUS PROPOSONS : LE RÔLE DE DEVELOPPEUR AU SEIN D'UNE NOUVELLE START-UP D'ETAT FOCALISEE SUR LE LIEN ENTRE FORMATIONS ET TRAJECTOIRES PROFESSIONNELLES
