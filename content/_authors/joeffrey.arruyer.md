@@ -1,19 +1,24 @@
 ---
 fullname: Joeffrey Arruyer
-role: Startup Coach
 domaine: Coaching
+role: Startup Coach
+github: joeffreya
 link: https://www.linkedin.com/in/joeffrey-arruyer-5392a744
-github : joeffreya
 missions:
   - start: 2017-12-09
-    end: 2021-12-31
+    end: 2022-12-31
     status: service
     employer: NUMA
 startups:
-    - kelrisks
-    - a-dock
-    - camino
-    - locatio
+  - camino
+  - locatio
+previously:
+  - kelrisks
+  - a-dock
+competences:
+  - Gestion de Produit
+  - Coaching
+  - Communication
+  - Croissance
 ---
-
 In your PC, stealing your Internetz
