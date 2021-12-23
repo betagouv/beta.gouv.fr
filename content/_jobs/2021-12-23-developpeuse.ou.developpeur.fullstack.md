@@ -2,7 +2,7 @@
 roles: Développeuse ou Développeur Fullstack
 open: true
 date: 2021-12-23T15:52:30.473Z
-startup: ""
+startup: "Delta V"
 ---
 Vous voulez mettre vos compétences et vos valeurs au service de l’intérêt général et de l’amélioration du service public ? Vous souhaitez travailler au sein une équipe agile, motivée et proche de ses utilisateurs ?
 
