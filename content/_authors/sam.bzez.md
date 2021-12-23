@@ -1,9 +1,9 @@
 ---
 fullname: Sam BZEZ
-role: Développeur Full-Stack
 domaine: Développement
-link: https://bzez.dev
+role: Développeur Full-Stack
 github: bzez
+link: https://bzez.dev
 missions:
   - start: 2021-12-16
     end: 2022-02-18
@@ -13,6 +13,10 @@ startups:
   - histologe
 badges:
   - segur
+competences:
+  - Développement Frontend
+  - Développement Backend
+  - Administration Système
+  - UI
+  - UX
 ---
-
-Développeur Full-Stack ascendant Nomad
