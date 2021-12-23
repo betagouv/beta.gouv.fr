@@ -12,7 +12,9 @@ C’est le nouveau défi relevé par la mission interministérielle pour l’app
 
 [La mission interministérielle pour l'apprentissage](https://mission-apprentissage.gitbook.io/general/), créée sur l’impulsion de Jean-Michel Blanquer, Élisabeth Borne, Amélie de Montchalin et Frédérique Vidal, compte une 20e de membres, combinant spécialistes de l’apprentissage, de l’orientation des jeunes, du développement web, du design de parcours utilisateurs… Son fonctionnement est souple. La finalité nous guide plutôt que les procédures. La qualité de la réponse aux besoins des parties prenantes est la mesure de notre réussite.
 
-# 🤝 CE QUE NOUS VOUS PROPOSONS : le rôle de responsable de projet au sein d’une nouvelle startup d’État focalisée sur le lien entre formation et trajectoire professionnelles
+# 🤝 CE QUE NOUS VOUS PROPOSONS :
+
+**Le rôle de responsable de projet au sein d’une nouvelle startup d’État focalisée sur le lien entre formation et trajectoire professionnelles**
 
 ## Prendre en main nos enjeux : 
 * Exposer les données déjà construites par les services statistiques ministériels et trouver à les exposer d’une façon utile et intelligible sur les principaux sites d’orientation comme ceux de l’ONISEP ou les téléservices AFFELNET-Lycées et PARCOURSUP ou le portail 1 jeune, 1 solution. 
@@ -54,6 +56,7 @@ L’équipe “cœur” sera composée d’un spécialiste design UX/UI et d’u
 * Temps partiel envisageable, quoique l’idée de base soit 5 jours par semaine
 * Horizon des actions à conduire : pluri-annuel
 * Démarrage dès que possible.
+
 Pour en savoir plus : demandez en retour de mail un doc complémentaire
 
 
