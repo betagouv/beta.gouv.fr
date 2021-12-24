@@ -14,4 +14,3 @@ startups:
 competences:
   - Communication
 ---
-Fidèle enquêtrice , je ne lasse jamais un bug passé !
