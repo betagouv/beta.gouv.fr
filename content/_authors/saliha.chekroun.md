@@ -1,11 +1,11 @@
 ---
 fullname: Saliha Chekroun
-role: Chargée de déploiement
+role: Cheffe produit
 domaine: Déploiement
 github: saaliha
 missions:
   - start: 2021-11-08
-    end: 2022-01-10
+    end: 2022-12-31
     status: independent
     employer: DINUM
 startups:
