@@ -6,12 +6,12 @@ link: https://www.linkedin.com/in/nadim-bel-lallahom
 github: nadimbhm
 missions:
   - start: 2020-09-01
-    end: 2021-12-01
+    end: 2023-09-01
     status: admin
-    employer: Ministère de la Transition écologique
+    employer: Ministère de l'Europe et des affaires étangères
 startups:
-  - mission-transition-ecologique
+  - 
 ---
 
-Designer dans la programme Entrepreneurs d'intérêt général au Ministère de la Transition écologique.
+Designer au sein de l'Atelier umérique du Ministère de l'Europe et des affaires étangères.
 Engagé dans l'inclusion numérique @Diversidays
