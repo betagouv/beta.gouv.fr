@@ -1,7 +1,7 @@
 ---
 fullname: Nicolas Laurenti
-domaine: Intraprenariat
-role: Intrapreneur
+domaine: Développement
+role: Administrateur système
 missions:
   - start: 2021-06-15
     end: 2022-06-15
