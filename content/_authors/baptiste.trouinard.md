@@ -4,7 +4,7 @@ role: Charge de l'assistance aux utilisateurs et l'animation des référents dé
 domaine: Déploiement
 missions:
   - start: 2021-03-08
-    end: 2021-12-31
+    end: 2022-01-31
     status: independent
     employer: Octo
 startups:
