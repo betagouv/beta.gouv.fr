@@ -6,7 +6,7 @@ github: NicolasCourtois
 link: https://www.linkedin.com/in/nicolas-c-b7876539/
 missions:
   - start: 2020-04-01
-    end: 2022-12-31
+    end: 2023-01-01
     status: independent
     employer: DJEPVA
 startups:
