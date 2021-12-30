@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo
   - start: 2020-12-01
-    end: 2021-12-31
+    end: 2022-12-31
     status: independent
     employer: Octo
 previously:
