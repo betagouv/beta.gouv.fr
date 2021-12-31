@@ -6,7 +6,7 @@ link: https://www.weplus.fr
 github: jeremyciep
 missions:
   - start: 2021-11-16
-    end: 2022-01-14
+    end: 2022-01-30
     status: service
     employer: Mission interministérielle pour l'apprentissage
 badges:
