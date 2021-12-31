@@ -5,10 +5,10 @@ domaine: Développement
 github: jeffmac
 missions:
   - start: 2021-07-16
-    end: 2021-12-31
+    end: 2022-01-16
     status: service
 startups:
   - l-immersion-facile
 ---
 
-Développeur 
+Développeur

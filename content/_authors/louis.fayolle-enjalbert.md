@@ -1,13 +1,16 @@
 ---
 fullname: Louis FAYOLLE ENJALBERT
-role: Intrapreneur
 domaine: Intraprenariat
+role: Intrapreneur
 missions:
   - start: 2021-06-01
-    end: 2021-12-31
+    end: 2022-02-28
     status: admin
     employer: MTES-MCT
 startups:
   - partaj
+competences:
+  - Gestion de Produit
+  - Administration Publique
 ---
-
+Rendre le droit plus accessible !

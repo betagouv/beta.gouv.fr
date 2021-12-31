@@ -1,12 +1,12 @@
 ---
 fullname: Damien Boyer
 domaine: Design
-role: Designer
+role: UX Designer
 github: dameofr
 link: null
 missions:
   - start: 2020-05-01
-    end: 2021-12-31
+    end: 2022-06-30
     status: independent
     employer: education nationale
 startups:

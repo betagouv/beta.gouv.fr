@@ -5,7 +5,7 @@ domaine: Animation
 github: sebastienTouze
 missions:
   - start: 2021-11-01
-    end: 2021-12-31
+    end: 2024-12-31
     status: admin
     employer: Minitère de la Mer
 ---

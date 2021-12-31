@@ -1,12 +1,13 @@
 ---
 fullname: Jules  Lefebvre
-role: Data Analyst
 domaine: Développement
+role: Data Analyst
 missions:
   - start: 2021-11-22
-    end: 2021-12-31
+    end: 2022-01-31
     status: independent
 startups:
   - data.insertion
+competences:
+  - Développement Backend
 ---
-
