@@ -12,6 +12,10 @@ missions:
     end: 2021-12-31
     status: independent
     employer: Codeurs en Liberté
+  - start: 2022-01-01
+    end: 2022-06-30
+    status: independent
+    employer: Codeurs en Liberté
 startups:
   - transport
 ---
