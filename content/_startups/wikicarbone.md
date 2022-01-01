@@ -7,7 +7,7 @@ sponsors:
     name: Commissariat Général au Développement Durable
     domaine_ministeriel: environnement
 incubator: mtes
-link: https://wikicarbone.beta.gouv.fr/
+link: https://wikicarbone.beta.gouv.fr
 repository: https://github.com/MTES-MCT/wikicarbone
 contact: pascal.dagras@beta.gouv.fr
 stats: true
