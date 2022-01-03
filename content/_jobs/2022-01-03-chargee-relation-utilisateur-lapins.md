@@ -9,7 +9,7 @@ RDV-Solidarités est un outil de prise de RDV en ligne et d'organisation du temp
 
 Actuellement, elle est uniquement utilisée par des services médico-sociaux de départements, l'ambition est de l'adapter ou de la décliner à d'autres collectivités et à d'autres services. Le nombre d'utilisateurs va aller grandissant.
 
-L'équipe [RDV-Solidarités](https://beta.gouv.fr/startups/lapins.html) recherche **une personne chargée de la relation utilisateur** pour prendre soin de l'ensemble des personnes utilisant RDV-Solidarités. Le nombre de personne connecté à l'application augmente. Pour certains agents et professionnels du service public, c'est un outil du quotidien. Pour les usagers, un petit moment qui parfois est difficile. Pas loin de [3 500 visites en semaine](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=123&period=range&date=previous30&updated=1#?idSite=123&period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1).
+L'équipe [RDV-Solidarités](https://beta.gouv.fr/startups/lapins.html) recherche **une personne chargée de la relation utilisateur** pour prendre soin de l'ensemble des personnes utilisant RDV-Solidarités. Le nombre de personne connectées à l'application augmente. Pour certains agents et professionnels du service public, c'est un outil du quotidien. Pour les usagers, un petit moment qui parfois est difficile. Pas loin de [3 500 visites en semaine](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=123&period=range&date=previous30&updated=1#?idSite=123&period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1).
 
 <!--more-->
 
@@ -30,16 +30,16 @@ Intégré à l'équipe RDV-Solidarités vous aurez en charge la relation aux uti
 
 Les retours du terrain sont de précieuses informations pour l'évolution du produit.
 
-Voici les missions que nous aimerions vous convier :
+Voici les missions que nous aimerions vous confier :
 
 - Support utilisateurs (dépanner les personnes en difficultés)
 - Qualification des retours (déterminer s'il s'agit d'un bug ou d'un problème de configuration)
 - Participer à la construction du produit (synthèse des retours, discussions sur les orientations et les priorités)
-- Organisation de la réunion hebdomadaire des personnes utilisants RDV-Solidarités (actuellement une à deux référentes par département)
+- Organisation de la réunion hebdomadaire des personnes utilisant RDV-Solidarités (actuellement une à deux référentes par département)
 - Étoffer et maintenir la documentation à jour
 - Réaliser des entretiens et tests utilisateurs
 
-Aujourd'hui, certaines de ces activités sont prises en charge par l'équipe, au détriment d'autres activités de corrections de bugs ou d'ajout de fonctionnalités. Autres de ces activités mériteraient d'être réalisées avec plus de soin qu'actuellement et encore d'autres activités ne sont malheureusement pas réalisées faute de temps.
+Aujourd'hui, certaines de ces activités sont prises en charge par l'équipe, au détriment des corrections de bugs ou d'ajout de fonctionnalités. Elles mériteraient d'être réalisées avec plus de soin qu'actuellement et d'autres encore ne sont malheureusement pas réalisées faute de temps.
 
 Nous aimerions donc que vous puissiez prendre soin des utilisateurs mieux que nous n'arrivons à le faire aujourd'hui.
 
