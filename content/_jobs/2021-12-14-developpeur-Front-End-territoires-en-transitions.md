@@ -1,9 +1,9 @@
 ---
-roles: Une personne développeuse Front-End
+roles: Une personne développeuse Front-End (ou full-stack avec grosse appétence front-end)
 open: true
-date: 2021-12-14
+date: 2022-01-03
 startup: territoires-en-transitions
-title: Recherche d'une personne développeuse React/Typescript pour Territoires en Transitions
+title: Recherche d'une personne développeuse Front-End React/Typescript pour Territoires en Transitions
 ---
 
 
