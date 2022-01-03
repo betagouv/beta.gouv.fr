@@ -14,6 +14,9 @@ phases:
   - name: construction
     start: 2018-01-01
   - name: acceleration
+    start: 2019-01-01
+  - name: transfer
+    start: 2021-09-01  
 link: https://camino.beta.gouv.fr
 repository: https://github.com/MTES-MCT/camino-ui
 stats: true
