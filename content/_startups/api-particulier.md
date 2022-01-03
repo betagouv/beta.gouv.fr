@@ -13,8 +13,9 @@ phases:
     start: 2015-10-11
   - name: construction
     start: 2015-01-01    
-  - name: alumni
-link: https://particulier.api.gouv.fr/
+  - name: success
+    start: 2020-01-01
+link: https://api.gouv.fr/les-api/api-particulier
 repository: https://github.com/betagouv/api-particulier
 stats: true
 stats_url: https://particulier.api.gouv.fr/stats.html
