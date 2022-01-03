@@ -59,7 +59,7 @@ Une connaissance du monde médico-social est un plus, mais pas indispensable.
 ## Modalités
 
 - Poste ouvert pour une indépendante ou un indépendant pour un premier contrat de 3 mois renouvelable, à temps plein (4/5 par semaine négociable selon le profil).
-- Le télétravail est possible, avec une présence ponctuelle à Paris est demandée pour participer aux sessions stratégiques et collaboratives.
+- Le télétravail est possible, une présence ponctuelle à Paris est demandée pour participer aux sessions stratégiques et collaboratives.
 - Démarrage dès que possible.
 
 Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [contact@rdv-solidarites.fr avec incubateur@anct.gouv.fr en copie](mailto:contact@rdv-solidarites.fr?cc=incubateur@anct.gouv.fr&subject=Recrutement relation usager RDV-Solidarités)
