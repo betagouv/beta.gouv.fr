@@ -9,7 +9,7 @@ RDV-Solidarités est un outil de prise de RDV en ligne et d'organisation du temp
 
 Actuellement, elle est uniquement utilisée par des services médico-sociaux de départements, l'ambition est de l'adapter ou de la décliner à d'autres collectivités et à d'autres services. Le nombre d'utilisateurs va aller grandissant.
 
-L'équipe [RDV-Solidarités](https://beta.gouv.fr/startups/lapins.html) recherche **une personne chargée de la relation utilisateur** pour prendre soin de l'ensemble des personnes utilisant RDV-Solidarités. Le nombre de personne connecté à l'application augment. Pour certains agents et professionnel du service publique, c'est un outil du quotidien. Pour les usagers, un petit moment qui parfois est difficile. Pas loin de [3 500 visites en semaine](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=123&period=range&date=previous30&updated=1#?idSite=123&period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1).
+L'équipe [RDV-Solidarités](https://beta.gouv.fr/startups/lapins.html) recherche **une personne chargée de la relation utilisateur** pour prendre soin de l'ensemble des personnes utilisant RDV-Solidarités. Le nombre de personne connecté à l'application augmente. Pour certains agents et professionnels du service public, c'est un outil du quotidien. Pour les usagers, un petit moment qui parfois est difficile. Pas loin de [3 500 visites en semaine](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=123&period=range&date=previous30&updated=1#?idSite=123&period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1).
 
 <!--more-->
 
@@ -26,10 +26,9 @@ h2, h3 {
 
 ## Responsabilités
 
-Intégré à l'équipe RDV-Solidarités vous aurez en charge la relation aux utilisateurs. Ce sont, pour le moment, principalement des agents ou professionnels du millieu médico-social. Avec l'élargissement des usages, les profiles d'utilisateurs s'élargiront aussi.
+Intégré à l'équipe RDV-Solidarités vous aurez en charge la relation aux utilisateurs. Ce sont, pour le moment, principalement des agents ou professionnels du millieu médico-social. Avec l'élargissement des usages, les profils d'utilisateurs s'élargiront aussi.
 
 Les retours du terrain sont de précieuses informations pour l'évolution du produit.
-
 
 Voici les missions que nous aimerions vous convier :
 
@@ -40,11 +39,11 @@ Voici les missions que nous aimerions vous convier :
 - Étoffer et maintenir la documentation à jour
 - Réaliser des entretiens et tests utilisateurs
 
-Aujourd'hui, certaines de ces activités sont prises en charge par l'équipe, au détriment d'autres activités de corrections de bugs ou d'ajout de fonctionnalités. Et d'autres de ces activités mériterais d'être réalisé avec plus de soin qu'actuellement. Et encore d'autres activités ne sont malheureusement pas réalisé faut de temps.
+Aujourd'hui, certaines de ces activités sont prises en charge par l'équipe, au détriment d'autres activités de corrections de bugs ou d'ajout de fonctionnalités. Autres de ces activités mériteraient d'être réalisées avec plus de soin qu'actuellement et encore d'autres activités ne sont malheureusement pas réalisées faute de temps.
 
-Nous aimerions donc que vous puissiez soigner nos utilisateurs mieux que nous n'arrivons à le faire aujourd'hui.
+Nous aimerions donc que vous puissiez prendre soin des utilisateurs mieux que nous n'arrivons à le faire aujourd'hui.
 
-L'équipe partage énormément les responsabilités. Nous serons avec vous, nous serons une équipe. Vous avez cependant besoin d'être à l'aise à l'écrit tant qu'à l'oral, d'avoir une très bonne capacité d'écoute et une belle curiosité.
+L'équipe partage énormément les responsabilités. Nous serons avec vous, nous formons une équipe. Vous avez cependant besoin d'être à l'aise à l'écrit tant qu'à l'oral, d'avoir une très bonne capacité d'écoute et une belle curiosité.
 
 Une connaissance du monde médico-social est un plus, mais pas indispensable.
 
@@ -60,9 +59,9 @@ Une connaissance du monde médico-social est un plus, mais pas indispensable.
 ## Modalités
 
 - Poste ouvert pour une indépendante ou un indépendant pour un premier contrat de 3 mois renouvelable, à temps plein (4/5 par semaine négociable selon le profil).
-- Le télétravail est possible, mais une présence ponctuelle à Paris est demandée pour participer aux sessions stratégiques et collaboratives.
+- Le télétravail est possible, avec une présence ponctuelle à Paris est demandée pour participer aux sessions stratégiques et collaboratives.
 - Démarrage dès que possible.
 
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [contact@rdv-solidarites.fr avec incubateur@anct.gouv.fr en copie](mailto:contact@rdv-solidarites.fr?cc=incubateur@anct.gouv.fr&subject=Recrutement dev RDV-Solidarités)
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [contact@rdv-solidarites.fr avec incubateur@anct.gouv.fr en copie](mailto:contact@rdv-solidarites.fr?cc=incubateur@anct.gouv.fr&subject=Recrutement relation usager RDV-Solidarités)
 
 À bientôt ! 😀
