@@ -4,7 +4,7 @@ role: Chargée d'assistance aux utilisateurs sur la plateforme SNU
 domaine: Produit
 missions:
   - start: 2022-01-03
-    end: 2022-07-31
+    end: 2022-12-31
     status: independent
     employer: DINUM
 badges:
