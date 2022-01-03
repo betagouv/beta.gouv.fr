@@ -15,19 +15,19 @@ L’équipe est étroitement liée aux autres startups d’Etat du pôle minist�
 DossierFacile est le dossier de location numérique de l’Etat. Service entièrement numérique et gratuit, il permet aux candidats locataires de constituer, faire vérifier et partager leur dossier de location aux propriétaires en toute sécurité. Nos objectifs : protéger les locataires et rassurer les propriétaires pour restaurer la confiance dans le processus de location, permettre à chacun quel que soit son profil de constituer un dossier de qualité pour lever les freins dans l’accès au logement !
 La startup poursuit une forte croissance depuis 2018 avec plus de 350 000 dossiers créés à fin 2021 même si notre ambition est à terme de pouvoir traiter les 2 000 000 de dossiers de location partagés chaque année en France.
 DossierFacile est soutenu par le Plan de Relance et va intégrer en 2022 le TOP 250 des démarches numériques quotidiennes. 
-Le produit est disponible à : https://dossierfacile.fr/
+Le produit est disponible <a href="https://www.dossierfacile.fr/">ici</a>.
 
 # Le poste proposé
 _Poste ouvert le 03/01/2022_
+
 DossierFacile travaille depuis 3 ans et demi avec un développeur full-stack. Un développeur front nous a rejoint fin 2020. Depuis la séparation des apps, les deux devs ont géré respectivement le back et le front. Afin d’accompagner sa croissance l’équipe souhaite intégrer un‧e nouveau‧elle développeur‧se full-stack.
-Le profil et les missions du candidat
 
 ## Missions :
-Prise en main du développement back-end et front-end de la plateforme, en lien avec les développeurs déjà présents sur le projet
-Participation aux réunions d’équipe hebdomadaire
-Participation à l’amélioration continue du produit
-Support technique auprès des partenaires intégrés ou en cours d’intégration
-Echanges réguliers avec les équipes techniques de la Fabrique numérique et de beta.gouv
+- Prise en main du développement back-end et front-end de la plateforme, en lien avec les développeurs déjà présents sur le projet
+- Participation aux réunions d’équipe hebdomadaire
+- Participation à l’amélioration continue du produit
+- Support technique auprès des partenaires intégrés ou en cours d’intégration
+- Echanges réguliers avec les équipes techniques de la Fabrique numérique et de beta.gouv
 
 ## Profil recherché :
 - Vous savez travailler en équipe et vous voulez co-construire l’outil en plaçant la culture produit au coeur du travail
