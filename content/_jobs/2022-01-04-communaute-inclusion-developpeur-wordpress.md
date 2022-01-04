@@ -52,8 +52,10 @@ Le code de ce projet est open-source :
 
 ## Profil recherché
 
+Nous cherchons quelqu’un d’expérimenté aussi bien sur la partie frontend (évolutions HTML/CSS des thèmes…) que sur la partie PHP (écriture de plugins…):
+
 - Au moins 5 ans d’expérience WordPress
-- Maîtrise du développement web avec PHP
+- Maîtrise du développement web en PHP avec WordPress
 - À l’aise avec HTML/CSS
 - Autonome sur l’ensemble du projet:
   - cadrage des besoins
