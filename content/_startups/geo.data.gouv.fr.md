@@ -7,7 +7,6 @@ sponsors:
       acronym: Etalab
       domaine_ministeriel: spm # Service du premier ministre
       type: administration-centrale
-
 incubator: dinum
 phases:
   - name: investigation
