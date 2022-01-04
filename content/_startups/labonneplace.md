@@ -14,15 +14,16 @@ phases:
     end: 2021-03-31
   - name: alumni
     start: 2021-03-31
-events: 
+events:
   - name: committee
-    date: 2020-12-10 
-    comment: Second comité de financement (investigation>lancement) 
+    date: 2020-12-10
+    comment: Second comité de financement (investigation>lancement)
   - name: end
     date: 2021-12-31
 stats: false 
 contact: rachid.benabdelhak@pole-emploi.fr
 ---
+
 **Problème**
  
 80,2% des 15-34 ans quittent leur CDI avant 1 an (DARES, 2015), et au total, c'est plus de 100.000 démissions chaque mois (DARES, 2018).
