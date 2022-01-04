@@ -53,7 +53,7 @@ Le code de ce projet est open-source :
 ## Profil recherché
 
 - Au moins 5 ans d’expérience WordPress
-- Maîtrise du développement web
+- Maîtrise du développement web avec PHP
 - À l’aise avec HTML/CSS
 - Autonome sur l’ensemble du projet:
   - cadrage des besoins
