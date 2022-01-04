@@ -1,0 +1,74 @@
+---
+roles: Développeur ou développeuse WordPress
+title: Itou recrute un développeur WordPress ou une développeuse WordPress
+contrat: indépendant
+startup: itou
+contact: tech@inclusion.beta.gouv.fr
+open: true
+---
+
+# Itou recrute un développeur ou une développeuse WordPress
+
+Chaque année, des centaines de milliers de personnes éloignées de l'emploi sont recrutées par des structures de l'Insertion par l'Activité Économique (IAE).
+
+[La plateforme de l’inclusion](https://inclusion.beta.gouv.fr/) a pour mission de faciliter l'embauche de ces personnes. Un outil dédié aux professionnels, [la communauté de l’inclusion](https://inclusion.beta.gouv.fr/) sert à les fédérer et leur fournir un espace d’échanges et de bonnes pratiques.
+
+Les utilisateurs de cette communauté sont des professionnels de l’inclusion :
+
+- les prescripteurs (Pôle Emploi, CAP Emploi, Missions Locales, services sociaux, SPIP, PJJ, CHRS, associations, etc)
+- les structures de l'IAE (employeurs)
+
+## Rôle
+
+- Développer les nouvelles fonctionnalités
+- Maintenir et améliorer l'existant
+- Déployer et monitorer l'application
+- Construire et maintenir l'infrastructure technique
+- Participer activement à la vie de l'équipe
+- Être force de proposition au sein de l'équipe sur les évolutions possibles du produit
+
+## Stack
+
+- PHP 8.0, WordPress 5.8
+- Plugins principaux: BuddyBoss, Elementor
+- Infra : PaaS [Clever Cloud](https://clever-cloud.com/)
+
+## Nos bonnes pratiques :
+
+- Nous faisons des itérations courtes
+- Nous déployons souvent et par petits lots
+- Nous améliorons nos process internes en continu
+
+## Notre code :
+
+Le code de ce projet est open-source :
+
+- GitHub : [https://github.com/betagouv/itou-communaute](https://github.com/betagouv/itou-communaute)
+
+## Profil recherché
+
+- Au moins 3 ans d’expérience WordPress
+- Maîtrise du développement web
+- À l’aise avec HTML/CSS
+- Autonome sur l’ensemble du projet:
+  - cadrage des besoins
+  - capable d'intervenir côté front-end (création/modification de thème)
+  - capable d'intervenir côté back-end (choix/configuration/création de plugins)
+  - déploiement, monitoring du service en ligne
+- Bon relationnel et capacité de vulgarisation
+- Une expérience des plateformes PaaS est un plus
+
+## Environnement de travail
+
+Vous travaillerez au sein d'une équipe projet sur **la communauté de l’inclusion**. Cette équipe fait elle même partie d’une équipe plus large de plus de 15 personnes : intrapreneurs, développeurs, *business developers*, équipe support, *designers* UX/UI et *coachs*.
+
+L'équipe est dispersée à travers la France, et travaille principalement à distance (standup quotidien en visioconférence).
+
+- Charge : 4/5e
+- Durée : 6 mois renouvelables
+- Début souhaité : février
+- Contrat : freelance
+
+## Postuler
+
+Pour postuler : [tech@inclusion.beta.gouv.fr](mailto:tech@inclusion.beta.gouv.fr).
