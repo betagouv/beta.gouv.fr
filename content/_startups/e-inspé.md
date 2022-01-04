@@ -10,7 +10,7 @@ phases:
   - name: alumni
 events:
   - name: end
-    start: 2021-02-01
+    date: 2021-02-01
 ---
 La phase d’investigation menée par Réseau Canopé et Beta.gouv a montré que les enseignants suivaient toutes sortes de formations de leur initiative personnelle ou par obligation, venues de l'Education nationale ou d'ailleurs, mais sans parvenir à leur donner une cohérence globale et un suivi dans le temps.
 
