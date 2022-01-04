@@ -27,11 +27,16 @@ Les utilisateurs de cette communauté sont des professionnels de l’inclusion :
 - Participer activement à la vie de l'équipe
 - Être force de proposition au sein de l'équipe sur les évolutions possibles du produit
 
+Lors des premiers chantiers, nous cherchons en particulier à:
+
+ - **réduire le nombre de plugins tiers**, afin d’avoir plus de code propre et évolutif et moins contraint par les possibilités des plugins existants. Idéalement supprimer les gros plugins (buddyboss, elementor).
+ - **créer un nouveau thème WordPress** en collaborations avec les designers. Ce thème reprendra [les éléments graphiques formalisés pour l’écosystème de l’inclusion](https://github.com/betagouv/itou-theme). Ils sont par exemple déjà utilisés sur [les emplois de l’inclusion](https://emplois.inclusion.beta.gouv.fr/) et [le marché de l’inclusion](https://lemarche.inclusion.beta.gouv.fr/).
+
 ## Stack
 
 - PHP 8.0, WordPress 5.8
-- Plugins principaux: BuddyBoss, Elementor
-- Infra : PaaS [Clever Cloud](https://clever-cloud.com/)
+- Plugins principaux: BuddyBoss, Elementor, BuddyPress, BBPress, BuddyForm et The Event Calendar
+- Infrastructure : PaaS [Clever Cloud](https://clever-cloud.com/)
 
 ## Nos bonnes pratiques :
 
@@ -47,7 +52,7 @@ Le code de ce projet est open-source :
 
 ## Profil recherché
 
-- Au moins 3 ans d’expérience WordPress
+- Au moins 5 ans d’expérience WordPress
 - Maîtrise du développement web
 - À l’aise avec HTML/CSS
 - Autonome sur l’ensemble du projet:
@@ -64,9 +69,9 @@ Vous travaillerez au sein d'une équipe projet sur **la communauté de l’inclu
 
 L'équipe est dispersée à travers la France, et travaille principalement à distance (standup quotidien en visioconférence).
 
-- Charge : 4/5e
+- Charge : 2/5e
 - Durée : 6 mois renouvelables
-- Début souhaité : février
+- Début souhaité : dès janvier 2022
 - Contrat : freelance
 
 ## Postuler
