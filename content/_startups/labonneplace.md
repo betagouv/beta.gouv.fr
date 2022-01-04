@@ -18,6 +18,8 @@ events:
   - name: committee
     date: 2020-12-10 
     comment: Second comité de financement (investigation>lancement) 
+  - name: end
+    date: 2021-12-31
 stats: false 
 contact: rachid.benabdelhak@pole-emploi.fr
 ---
