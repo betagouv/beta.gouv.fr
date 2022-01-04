@@ -1,6 +1,6 @@
 ---
 roles: CHARGÉE OU CHARGÉ DE DÉPLOIEMENT
-open: true
+open: false
 date: 2021-12-09T10:56:24.398Z
 ---
 ## Le contexte: beta.gouv.fr
