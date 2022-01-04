@@ -1,6 +1,6 @@
 ---
 roles: Développeur / Développeuse full-stack
-open: true
+open: false
 date: 2021-12-13T15:42:10.289Z
 startup: attractivite.des.territoires
 ---
