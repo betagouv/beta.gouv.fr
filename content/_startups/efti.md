@@ -15,6 +15,9 @@ phases:
     end: 2021-10-02
   - name: alumni
     start: 2021-10-02
+events:
+  - name: end
+    date: 2021-12-31
 ---
 ## Contexte
 

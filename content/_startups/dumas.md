@@ -10,6 +10,9 @@ phases:
     end: 2021-03-15
   - name: alumni
     start: 2021-05-01
+events:
+  - name: end
+    date: 2021-12-31
 ---
 # Pourquoi cette investigation n'a pas abouti à une Startup d'Etat
 
