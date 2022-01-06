@@ -1,16 +1,19 @@
 ---
 fullname: Marion Le Galle
-role: UX designer
 domaine: Design
+role: Lead Designer
 missions:
   - start: 2016-04-01
     end: 2021-06-30
     status: admin
     employer: pole-emploi
 startups:
-    - clara
+  - clara
+  - labonneplace
+competences:
+  - UX
+  - UI
+  - Développement Frontend
+  - Communication
 ---
-
-Agent à la DSI de Nantes - Studio
-Design graphique & Thinking. Worshops, conception Users experiences.
-“Fail often, fail fast,” ― Donald A. Norman
+Agent à la DSI de Nantes - Incubateur Startup. Design graphique & Thinking. Worshops, conception Users experiences.
