@@ -1,11 +1,13 @@
 ---
 fullname: Hélène Dubourdieu
-role: Chargées Support / Animation
+role: Chargée de support / Animation
 domaine: Animation
-github: Helene
+github: HeleneDubourdieu
 missions:
   - start: 2022-01-03
-    end: 2022-12-31
+    end: 2022-07-31
     status: independent
+startups:
+  - engagement-civique
 ---
 
