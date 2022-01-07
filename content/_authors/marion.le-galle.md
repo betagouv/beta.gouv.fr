@@ -16,4 +16,4 @@ competences:
   - Développement Frontend
   - Communication
 ---
-Agent à la DSI de Nantes - Incubateur Startup. Design graphique & Thinking. Worshops, conception Users experiences.
+Agent à la DSI de Nantes - Incubateur Startup. Design graphique & Thinking, Conception Users experiences.
