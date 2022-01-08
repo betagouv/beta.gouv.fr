@@ -50,7 +50,7 @@ Qui ont des conséquences fortes pour :
 
 [Dora](https://dora.fabrique.social.gouv.fr/) est un service public numérique gratuit.
 
-Il permets aux structures proposant une offre de service destinée à des publics en situation d'insertion de référencer leur structure et leur offre de service et de maintenir facilement à jour les informations.
+Il permet aux structures proposant une offre de service destinée à des publics en situation d'insertion de référencer leur structure et leur offre de service et de maintenir facilement à jour les informations.
 
 Cette base de données centralisée permet aux accompagnateurs de l’insertion de mobiliser rapidement l’offre d’insertion adaptée aux besoins des bénéficiaires qu’ils accompagnent via :
 
@@ -100,7 +100,7 @@ Toutes les mesures d'usage mises à jour en temps réel sont à retrouver sur la
 
 #### A. Vous représentez un territoire, une collectivité et cherchez à faciliter la coopération des acteurs de l'insertion de votre territoire ?
 
-Contactez l'équipe à l'adresse dora@beta.gouv.fr, nous nous engageons à vous répondre dans les plus bref délais !
+Notre équipe est à votre disposition pour accompagner le déploiement du service sur votre territoire. Contactez nous à l'adresse dora@beta.gouv.fr, nous nous engageons à vous répondre dans les plus bref délais !
 
 #### B. Vous travaillez pour une structure de l'insertion qui propose des services à des personnes en situation d'insertion ?
 
@@ -118,12 +118,13 @@ Pour quoi faire ?
 
 * le service Dora est déjà implanté sur votre territoire ? 
 
-  1. rendez-vous sur https://dora.fabrique.social.gouv.fr/ pour rechercher des services pour lever les freins périphériques des bénéficiaires que vous accompagnez.
+  a. rendez-vous sur https://dora.fabrique.social.gouv.fr/ pour rechercher des services pour lever les freins périphériques des bénéficiaires que vous accompagnez.
      *Astuce 💡: mettez le lien en favori ⭐ pour gagner du temps en entretien quand un frein périphérique est diagnostiqué.*
-  2. n'hésitez pas à proposer des modifications si vous repérez une information erronée via le site ou en nous contactant par mail à l'adresse : support.dora@beta.gouv.fr
+  b. n'hésitez pas à proposer des modifications si vous repérez une information erronée via le site ou en nous contactant par mail à l'adresse : support.dora@beta.gouv.fr
+
 * le service Dora n'est pas encore disponible sur votre territoire ? 🤝 [Participez au déploiement de Dora sur votre territoire](https://documentation.dora.fabrique.social.gouv.fr/communication-dora/untitled-1#participez-au-deploiement-de-dora-sur-votre-territoire) 
 
----
+- - -
 
 Enfin, pour en savoir plus sur le service Dora : 
 
