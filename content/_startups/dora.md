@@ -23,120 +23,110 @@ phases:
   - name: acceleration
     start: 2021-11-01
 ---
-# Le problème 
+# Le problème
 
 Fin septembre 2020, le nombre de bénéficiaires du revenu de solidarité active (RSA), résidant en France entière, est estimé à 2,03 millions de foyers.
 
+Réussir son insertion professionnelle par l’emploi nécessite en règle générale d’avoir levé tous les “freins périphériques” (ex. avoir une solution de logement, de garde d’enfant, parler le français). Or, aujourd’hui de très nombreux bénéficiaires engagés dans un parcours d’insertion peinent à trouver des solutions à ces problématiques. 
 
-Réussir son insertion professionnelle par l’emploi nécessite en règle générale d’avoir levé tous les “freins périphériques” (ex. avoir une solution de logement, de garde d’enfant, parler le français). Or, aujourd’hui de très nombreux bénéficiaires engagés dans un parcours d’insertion peinent à trouver des solutions à ces problématiques. 
-
-
-
-Pourquoi ? 
+Pourquoi ? 
 
 * Manque de collaboration opérationnelle entre les différents acteurs de l’inclusion, alors qu’ils sont complémentaires pour aider des bénéficiaires qui rencontrent souvent des freins multiples
 * Des freins à l’insertion où l’offre d’accompagnement est inférieure à la demande
 
-
-
-Ce manque de collaboration est notamment dû à différents facteurs : 
+Ce manque de collaboration est notamment dû à différents facteurs : 
 
 * La multiplicité et “mouvance” des structures et des interlocuteurs
 * Les informations disponibles sont trop parcellaires et/ou obsolètes pour être efficaces
-* Sentiment de compétition/ absence d’objectifs communs
+* Sentiment de compétition et absence d’objectifs communs
 
+Qui ont des conséquences fortes pour : 
 
+* Les accompagnateurs : une perte de temps significative et un défaut de prescription ( => *45 mins passées par jour à la recherche de services d’accompagnement pour leurs bénéficiaires*)
+* Les bénéficiaires : un délai de retour à l’emploi plus long et une aide qui n’est pas apportée au bon moment
+* Les acteurs publics : pas de visibilité réelle sur la tension offre / demande d’insertion sur les territoires. Difficulté à réajuster les financements ( => *66% des accompagnants interrogés (250 réponses) estiment qu’ils n’arrivent pas à résoudre des problématiques des bénéficiaires car il y a trop peu de partenaires en capacité d’y répondre sur leur territoire.*)
 
-Qui ont des conséquences fortes pour : 
+# La solution
 
-* Les accompagnateurs : Une perte de temps significative et un défaut de prescription 
-  = *45 mins du temps passé par jour à chercher des solutions d’accompagnement pour leurs bénéficiaires*
-* Les bénéficiaires : Un délai de retour à l’emploi plus long et une aide qui n’est pas apportée au bon moment
-* Les acteurs publics : Pas de visibilité réelle sur la tension offre / demande d’insertion sur les territoires. Difficulté à réajuster les financements.
-  = *66% des accompagnants interrogés (250 réponses) estiment qu’ils n’arrivent pas à résoudre des problématiques des bénéficiaires car il y a trop peu de partenaires en capacité d’y répondre sur leur territoire*
+[Dora](https://dora.fabrique.social.gouv.fr/) est un service public numérique gratuit.
 
-# La solution 
+Il permets aux structures proposant une offre de service destinée à des publics en situation d'insertion de référencer leur structure et leur offre de service et de maintenir facilement à jour les informations.
 
-La solution “DORA” est un service public numérique alimenté par les offreurs de solutions d’insertion locales, Nationales et numériques. Cette base de données centralisée **permet aux accompagnateurs de l’insertion de mobiliser rapidement l’offre d’insertion adaptée aux besoins des bénéficiaires** qu’ils accompagnent via :
+Cette base de données centralisée permet aux accompagnateurs de l’insertion de mobiliser rapidement l’offre d’insertion adaptée aux besoins des bénéficiaires qu’ils accompagnent via :
 
 * une recherche simple et personnalisée,
 * des résultats qualifiés 
-* et des fiches solutions claires et actionnables.
+* et des fiches services claires et actionnables.
 
-# Démarche de construction
+### La feuille de route
 
-## Les premières étapes
+1. **Investigation** => *début 2021*
+2. **Construction** => *de mai à octobre 2021* 
 
-**A. Initialiser une version minimale du produit pour tester les enjeux de complétion et mise à jour de la donnée**
+   * initialisation d'une première version du produit
+   * intégration de données des structures et solutions existantes en mode “conciergerie” par l’équipe de Dora sur 2 territoires (Les Ardennes 08 et La Réunion 974) et 3 thématiques ("mobilité" 🚗, "logement / hébergement" 🏡, "garde d'enfant" 👶).
+   * ouverture du service aux utilisateurs en septembre 2021
+3. **Accélération** => *depuis novembre 2021*
 
-* Intégration de données des structures et solutions existantes en mode “conciergerie” par l’équipe de Dora sur les territoires et thématiques concernées 
-* Mise à disposition d’une version minimale & dégradée du produit cible aux utilisateurs pour 1/ tester la capacité des offreurs à compléter les informations et mettre à jour et 2/ évaluer les besoins d’ajustement du parcours pour les accompagnateurs en quête de solution, etc. 
+   * le service est désormais ouvert à tous les territoires qui en font la demande. 
+   * ajout de nouvelles thématiques : "Apprendre le français", "Difficultés financières", "Numérique", "Illettrisme", "Accompagnement global individualisé".
+   * participation à la définition de modèles de données communs (structures et services) afin de faciliter l'interopérabilité des données entre les différents acteurs de l'insertion.
+   * travaux d'interfaçage avec d'autres outils numériques (Mes Aides, Carnet de Bord, La Plateforme de l'Inclusion...)
+   * mise aux normes de sécurité des données pour permettre l'orientation des bénéficiaires directement depuis Dora.
+   * amélioration continue de l'outil pour répondre aux besoins des utilisateurs.
 
+### Nos problématiques actuelles :
 
+* Comment faire connaître et utiliser la solution au plus grand nombre dans la durée ?
+* Comment déployer le service sans passer trop de temps à initier les bases de données locales ?
+* Comment diminuer l'effort d’intégration des données pour les acteurs de l’insertion ?
+* Quels mécanismes mettre en place pour s’assurer que la donnée collectée est mise à jour régulièrement ?
 
-**B. Tester de manière frugale les usages complémentaires et leurs implications produit**
+### Indicateurs d'impacts suivis :
 
-* Possibilité d‘orienter et de prescrire
-* Possibilité de recommander une solution 
-* imbrication éventuelle sur la plateforme de l’inclusion (d’un simple renvoi via URL au départ à une brique d’authentification commune et des actions communes)
+##### Objectifs d'impact à atteindre d'ici fin avril :
 
+* au moins **15 territoires en cours de déploiement** 🚀
+* avec plus de **750 prescripteurs actifs** 🙌
+* qui effectuent plus de **10 000 recherches par mois** 🔎
+* et consultent plus de **7 500 fiches de service par mois** 👀
+* dont au moins **50% des fiches sont mises à jour régulièrement** 🔁 *(taux d'actualisation = nombre de fiches qui ont eu une mise à jour dans le mois vs total des fiches hors aides financières annualisées).*
+* ces mises à jours sont effectuées par plus de **400 structures actives** 🏫
+* au moins **2 services sont consommateurs actifs**🔌 des services référencés sur Dora
 
+Toutes les mesures d'usage mises à jour en temps réel sont à retrouver sur la page [statistiques](https://dora.fabrique.social.gouv.fr/stats).
 
-**C. Initier les échanges sur le positionnement plateforme de Dora** 
+# le service Dora vous intéresse ?
 
-* Échanger avec les services tiers clés qui pourraient alimenter / recevoir des données via Dora pour réfléchir en amont à la structure de l’API 
+#### A. Vous représentez un territoire, une collectivité et cherchez à faciliter la coopération des acteurs de l'insertion de votre territoire ?
 
-## Périmètre de test
+Contactez l'équipe à l'adresse dora@beta.gouv.fr, nous nous engageons à vous répondre dans les plus bref délais !
 
-Pour tester rapidement un maximum de leviers et itérer rapidement, l’équipe va se focaliser sur un périmètre d’expérimentation réduit en matière d’offre et de territoires concernés : 
+#### B. Vous travaillez pour une structure de l'insertion qui propose des services à des personnes en situation d'insertion ?
 
-* Territoires tests : **1 territoire urbain** (le département de la Loire-Atlantique, notamment la métropole de Nantes) **et 1 territoire rural** (le département des Ardennes). Ce sont des territoires très moteurs, avec une volonté forte des acteurs clés de la coordination de l’insertion et pour lesquels ces freins périphériques sont des enjeux importants pour favoriser l’insertion des bénéficiaires.
-* Thématiques d'offres ciblées : **mobilité**, **garde d’enfant** et **hébergement / logement**.
+Référencez votre offre de service sur [Dora](https://dora.fabrique.social.gouv.fr/) ! 
 
-Acteurs concernés par l’expérimentation
+Pour quoi faire ?
 
-* en tant qu'offreurs de solutions (des acteurs locaux associatifs + institutionnels + nationaux) 
-* en tant qu’accompagnateur cherchant 1 solution (= tous les acteurs de l'insertion sur le territoire qui le souhaitent: SPE, Social, Sociopro)
+* rendre visible votre offre auprès des prescripteurs et des financeurs
+* recevoir des orientations mieux qualifiées
+* mettre à jour collaborativement et en temps réel vos informations (contact, horaires, adresse, disponibilité...)
+* un lien unique de votre page structure avec tous vos services référencés à partager \[bientôt ⏳]
+* savoir combien de personnes ont consulté vos services \[bientôt ⏳]
 
-## Fonctionnalités clés de DORA qui seront testées
+#### C. Vous travaillez pour une structure qui accompagne des bénéficiaires en situation d'insertion ?
 
-  **En tant qu’accompagnateur "chercheur de solution" :**
+* le service Dora est déjà implanté sur votre territoire ? 
 
-* J’ai accès à un site vitrine sur lequel il sera possible de rechercher sur votre territoire uniquement sur les problématiques concernées des solutions d'insertion
-* Je réponds à des questions pour personnaliser ma recherche
-* J’ai accès à une liste de solutions proposées selon mes critères
-* Je peux consulter des fiches solutions de base
-* Je peux déclarer que je n’ai pas trouvé de solution / en proposer une que je connais
+  1. rendez-vous sur https://dora.fabrique.social.gouv.fr/ pour rechercher des services pour lever les freins périphériques des bénéficiaires que vous accompagnez.
+     *Astuce 💡: mettez le lien en favori ⭐ pour gagner du temps en entretien quand un frein périphérique est diagnostiqué.*
+  2. n'hésitez pas à proposer des modifications si vous repérez une information erronée via le site ou en nous contactant par mail à l'adresse : support.dora@beta.gouv.fr
+* le service Dora n'est pas encore disponible sur votre territoire ? 🤝 [Participez au déploiement de Dora sur votre territoire](https://documentation.dora.fabrique.social.gouv.fr/communication-dora/untitled-1#participez-au-deploiement-de-dora-sur-votre-territoire) 
 
+---
 
+Enfin, pour en savoir plus sur le service Dora : 
 
-**En tant qu’”offreur de solution" :**
-
-* Je complète ma fiche structure (initialisation d'une base de données => de 0 ou sur la base de données existantes renseignées par l'équipe Dora)
-* Je complète les fiches solutions (dispositifs, ateliers, accueil, aide, etc.)
-* Je mets à jour les informations
-
-
-
-**En tant que bénéficiaire :**
-
-* Je peux prendre connaissance des fiches solutions éditées par l’accompagnateur
-
-## Indicateurs d'impacts suivis :
-
-**A. Proposer une offre d’insertion riche et mise à jour sur les thématiques priorisées**
-
-* 70% structures ont créé au moins 1 fiche solution
-* 30% structures réalisent une mise à jour de  leur(s) solution(s) tous les 15 jours
-
-
-
-**B. Offrir un service utile aux prescripteurs du territoire cible**
-
-* Au moins 50% des recherches aboutissent sur 1 fiche solution
-* 30% des accompagnateurs déclarent gagner du temps dans l’identification des solutions de leur territoire
-* 30% des des recherches de solution ont abouti à une orientation du bénéficiaire
-
-## Et ensuite?
-
-Nous nous sommes fixés des mesures que nous allons suivre régulièrement et qui nous aideront à faire des arbitrages. Le service sera ensuite ouvert en priorité aux départements volontaires pour participer à l’expérimentation.
+* 📰 abonnez vous à la [lettre d'information](https://d4c653e7.sibforms.com/serve/MUIEAEkY4naptXBIq5NdRg5UPxP1wmwbGCinne5c1gynY-wfrZ0Dz0QP_NqkXtfyYqhdaq3AO8VFZJ9giRi9ZT0eah7Ut2U0LeKSTVIHQb_5nhvTLUMWXo9ZMeIYCHVlzmjkXGQ66S5ewcYpSADUgV--2RVZ_mrnsRJQoCNwZ8y-sWzfQsEzfKuTA7SLbZ_dWeqaigudym3EaiHT)
+* 📢 Partagez vos suggestions dans l'espace d'échange de la communauté Dora sur le [Forum de l'Inclusion](https://forum.inclusion.beta.gouv.fr/c/spie/dora/86)
+* 🎤 assistez à l'un de [nos webinaires](https://app.livestorm.co/dora-1)
