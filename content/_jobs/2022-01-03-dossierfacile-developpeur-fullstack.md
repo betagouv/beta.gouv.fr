@@ -33,7 +33,7 @@ DossierFacile travaille depuis 3 ans et demi avec un développeur full-stack. Un
 - Vous savez travailler en équipe et vous voulez co-construire l’outil en plaçant la culture produit au coeur du travail
 - Vous êtes confirmé‧e en développement front-end
 - Vous êtes confirmé‧e en développement back-end
-- Vous avez une bonne expérience en Typescript, HTML et CSS et maîtrisez le framework Vue.js ou similaire
+- Vous avez une bonne expérience en Typescript, HTML et CSS et maîtrisez le framework Vue.js ou similaire (React ou Angular)
 - Vous avez une bonne expérience en JAVA, Spring, PostgreSQL 
 - Vous avez un intérêt pour le devops
 - Vous avez un intérêt pour le software craftsmanship (TDD, DDD, BDD, CQRS, Event Sourcing, SOLID, autres patterns…)
