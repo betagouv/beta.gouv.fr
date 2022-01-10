@@ -2,7 +2,7 @@
 roles: Data Analyst
 title: La plateforme de l'inclusion recrute un ou une data analyst
 contrat: indépendant
-startup: itou
+startup: pilotage.de.linclusion
 contact: recrutement@inclusion.beta.gouv.fr
 open: true
 ---
