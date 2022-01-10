@@ -21,6 +21,8 @@ phases:
   - name: acceleration
     start: 2021-06-01
 ---
+![](/img/netlifycms/capture.d.e.cran.2022-01-10.a.14.30.01.png)
+
 **Problème**
 
 Plus de 2 millions de personnes sont en situation de chômage durable et 2,7 millions de personnes sont en situation de handicap et en âge de travailler avec un taux d’emploi de 35% seulement. Le secteur de l’inclusion porte des résultats très positifs pour l’emploi de ces publics en alliant les enjeux territoriaux, sociaux et économiques. Il regroupe les structures de l’insertion par l’activité économique (IAE) et du secteur du travail protégé et adapté (STPA). Il s'agit donc d'accompagner la croissance de ces dispositifs.
