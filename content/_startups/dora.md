@@ -51,7 +51,9 @@ Qui ont des conséquences fortes pour :
 
 [Dora](https://dora.fabrique.social.gouv.fr/) est un service public numérique gratuit.
 
-Il permet aux structures proposant une offre de service accessible à des publics en situation d'insertion de référencer leur structure et leur offre de service et de maintenir facilement à jour les informations.
+Son objectif est de réduire le délai de l'insertion vers l'emploi durable en mettant en rendant visibles et mobilisables les services permettant de lever les freins périphériques bloquant le retour à l'emploi.
+
+Sur Dora, les structures proposant une offre de service accessible à des publics en situation d'insertion peuvent référencer leur structure et leur offre de service et maintenir facilement à jour les informations.
 
 Cette base de données centralisée permet aux accompagnateurs de l’insertion de mobiliser rapidement l’offre d’insertion adaptée aux besoins des bénéficiaires qu’ils accompagnent via :
 
@@ -114,7 +116,7 @@ Pour quoi faire ?
 
   * rendez-vous sur <https://dora.fabrique.social.gouv.fr/> pour rechercher des services pour lever les freins périphériques des bénéficiaires que vous accompagnez.\
      *Astuce 💡: mettez le lien en favori ⭐ pour gagner du temps en entretien quand un frein périphérique est diagnostiqué.*
-  * n'hésitez pas à proposer des modifications si vous repérez une information erronée via le site ou en nous contactant par mail à l'adresse : [support@dora.fabrique.social.gouv.fr](mailto:support@dora.fabrique.social.gouv.fr)
+  * n'hésitez pas à proposer des modifications si vous repérez une information erronée via le site ou en nous contactant par mail à l'adresse : [support@dora.beta.gouv.fr](mailto:support@dora.beta.gouv.fr)[](mailto:support@dora.fabrique.social.gouv.fr)
 * le service Dora n'est pas encore disponible sur votre territoire ? 🤝 [Participez au déploiement de Dora sur votre territoire](https://documentation.dora.fabrique.social.gouv.fr/communication-dora/untitled-1#participez-au-deploiement-de-dora-sur-votre-territoire) 
 
 - - -
