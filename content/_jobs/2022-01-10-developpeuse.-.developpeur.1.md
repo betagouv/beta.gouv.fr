@@ -67,7 +67,7 @@ mais aussi, d’autre part, des responsabilités quant aux orientations stratég
 
 # 📃 Modalités
 
-Tu rejoins une petite équipe constituée de 1 intrapreneur, 1 coach, 1 chargée de déploiement et 1 autre développeur fullstack qui s'agrandit avec toi ainsi qu'1 spécialiste du design et 1 personne supplémentaire en charge du déploiement.
+Tu rejoins une petite équipe constituée d'1 intrapreneur, 1 coach, 1 chargée de déploiement et 1 autre développeur fullstack qui s'agrandit avec toi ainsi qu'1 spécialiste du design et 1 personne supplémentaire en charge du déploiement.
 
 L’équipe est basée à Paris et se réunit une fois par semaine (en fonction du contexte sanitaire). Le travail est effectué à distance le reste du temps.
 
