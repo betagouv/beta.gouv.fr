@@ -1,10 +1,10 @@
 ---
-roles: DÉVELOPPEUSE - DÉVELOPPEUR
+roles: DÉVELOPPEUSE - DÉVELOPPEUR FULLSTACK PYTHON REACT
 open: true
 date: 2022-01-10T14:14:00.530Z
 startup: mobilic
 ---
-***La start-up d’Etat Mobilic qui vise à lutter contre le travail illégal dans le transport routier recrute un développeur ou une développeuse fullstack (Python - React) !***
+***La start-up d’Etat Mobilic qui vise à lutter contre le travail illégal dans le transport routier recrute un développeur ou une développeuse fullstack niveau intermédiaire en Python (back) et React (front) !***
 
 # 👋 Qui sommes-nous ?
 
