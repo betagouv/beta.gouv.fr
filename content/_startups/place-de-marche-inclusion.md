@@ -1,5 +1,5 @@
 ---
-title: Marché de l'inclusion (ITOU)
+title: "Marché de l'inclusion "
 mission: Promouvoir l'offre commerciale des structures inclusives pour accroître
   leur capacité d'embauche
 owner: Ministère du Travail, de l'Emploi et de l'Insertion, ITOU
