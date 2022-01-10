@@ -11,25 +11,26 @@ missions:
     end: 2018-12-31
     status: independent
   - start: 2019-01-01
-    end: 2021-12-31
+    end: 2024-12-31
     employer: dinum
     status: admin
 github: IshanB
 startups:
-    - le-taxi
-    - preuve-de-covoiturage
-    - datagir
     - egalim
     - recosante
-    - urbanvitaliz
     - cartobio
-    - peps
-    - tutorat_fp
-    - territoires-en-transitions
+    - ban
 previously:
+    - urbanvitaliz
+    - datagir
+    - territoires-en-transitions
+    - le-taxi
+    - preuve-de-covoiturage
     - comobi
     - transport
     - auvol
+    - peps
+    - tutorat_fp
 badges:
   - segur
 ---

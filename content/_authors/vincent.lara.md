@@ -6,7 +6,7 @@ domaine: Développement
 link: https://github.com/l-vincent-l
 missions:
   - start: 2015-03-15
-    end: 2021-12-31
+    end: 2022-04-30
     status: independent
     employer: Codeurs en Liberté
 startups:

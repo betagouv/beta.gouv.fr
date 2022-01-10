@@ -1,12 +1,18 @@
 ---
 fullname: Mari Droullours
-role: Designer UX-UI 
+role: Designer UX-UI
 domaine: Design
 missions:
   - start: 2021-09-21
     end: 2021-11-21
     status: independent
     employer: UT7
+  - start: 2021-11-01
+    end: 2022-03-31
+    status: independent
+    employer: omnicite
+startups:
+  - homologation
 badges:
   - segur
 ---

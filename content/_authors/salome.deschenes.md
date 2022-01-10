@@ -1,7 +1,7 @@
 ---
 fullname: Salomé Deschênes
 domaine: Déploiement
-role: Chargée de déploiement
+role: Urbaniste et chargée de déploiement
 github: SalomeDeschenes
 missions:
   - start: 2020-12-30

@@ -15,6 +15,9 @@ phases:
     start: 2019-09-01 
   - name: transfer
     start: 2020-12-15
+events: 
+  - name: end
+    date: 2021-09-01
 link: https://www.peps.beta.gouv.fr/
 repository: https://github.com/betagouv/peps
 stats: true 

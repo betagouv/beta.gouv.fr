@@ -8,6 +8,9 @@ phases:
     start: 2020-09-08
   - name: alumni
     start: 2021-02-01
+events:
+  - name: end
+    date: 2021-12-31
 link: 
 repository: 
 stats: false

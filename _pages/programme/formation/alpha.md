@@ -43,9 +43,7 @@ images:
 
 <br>
 
-**La session du 9 décembre en visio est COMPLETE**
-
-**La prochaine session aura lieu le jeudi 13 janvier 2022. En présentiel à Paris (lieu communiqué ultérieurement)**
+**La prochaine session aura lieu le jeudi 13 janvier 2022. En visio (lien communiqué après inscription)**
 <br>
 <br>
 <a id="inscription-alpha" href="https://startupdetat.typeform.com/to/GQ8uO34M" class="fr-btn">Je m'inscris</a>

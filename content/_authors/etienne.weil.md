@@ -1,7 +1,7 @@
 ---
 fullname: Etienne Weil
-role: Développeur
 domaine: Développement
+role: Développeur
 github: fitchMitch
 missions:
   - start: 2020-06-02
@@ -10,4 +10,7 @@ missions:
     employer: octo
 startups:
   - monstage
+competences:
+  - Développement Frontend
+  - Développement Backend
 ---
