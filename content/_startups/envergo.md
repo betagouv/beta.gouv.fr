@@ -11,6 +11,7 @@ incubator: mtes
 link: https://envergo.beta.gouv.fr
 repository: https://github.com/MTES-MCT/envergo
 contact: contact@envergo.beta.gouv.fr
+stats: true
 events: []
 phases:
   - name: investigation
