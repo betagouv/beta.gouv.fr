@@ -1,10 +1,10 @@
 ---
-roles: DÉVELOPPEUSE - DÉVELOPPEUR
+roles: DÉVELOPPEUSE / DÉVELOPPEUR FULLSTACK PYTHON + REACT
 open: true
 date: 2022-01-10T14:14:00.530Z
 startup: mobilic
 ---
-***La start-up d’Etat Mobilic qui vise à lutter contre le travail illégal dans le transport routier recrute un développeur ou une développeuse fullstack (Python - React) !***
+***La start-up d’Etat Mobilic qui vise à lutter contre le travail illégal dans le transport routier recrute un développeur ou une développeuse fullstack niveau intermédiaire en Python (back) et React (front) !***
 
 # 👋 Qui sommes-nous ?
 
@@ -67,7 +67,7 @@ mais aussi, d’autre part, des responsabilités quant aux orientations stratég
 
 # 📃 Modalités
 
-Tu rejoins une petite équipe constituée de 1 intrapreneur, 1 coach, 1 chargée de déploiement et 1 autre développeur fullstack qui s'agrandit avec toi ainsi qu'1 spécialiste du design et 1 personne supplémentaire en charge du déploiement.
+Tu rejoins une petite équipe constituée d'1 intrapreneur, 1 coach, 1 chargée de déploiement et 1 autre développeur fullstack qui s'agrandit avec toi ainsi qu'1 spécialiste du design et 1 personne supplémentaire en charge du déploiement.
 
 L’équipe est basée à Paris et se réunit une fois par semaine (en fonction du contexte sanitaire). Le travail est effectué à distance le reste du temps.
 
@@ -81,4 +81,4 @@ Des déplacements sont également à prévoir occasionnellement pour aller à la
 
 # ✍️ Postuler
 
-Pour postuler, envoie nous un petit message à [](mailto:mobilic@beta.gouv.fr)[mobilic@beta.gouv.fr](<mailto:dora@beta.gouv.fr?cc=recrutement@beta.gouv.fr&subject=candidature DÉVELOPPEUSE - DÉVELOPPEUR>), avec recrutement@beta.gouv.fr en copie, avec un lien vers ton site perso, profil Github / Gitlab, LinkedIn, Malt ou équivalent. Si tu as des questions avant de postuler, n’hésite pas à nous écrire.
+Pour postuler, envoie nous un petit message à [](mailto:mobilic@beta.gouv.fr)[mobilic@beta.gouv.fr](<mailto:mobilic@beta.gouv.fr?cc=recrutement@beta.gouv.fr&subject=candidature DÉVELOPPEUSE - DÉVELOPPEUR>), avec recrutement@beta.gouv.fr en copie, avec un lien vers ton site perso, profil Github / Gitlab, LinkedIn, Malt ou équivalent.
