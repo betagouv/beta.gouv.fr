@@ -2,7 +2,7 @@
 roles: Chargé.e de déploiement
 startup: pilotage.de.linclusion
 junior: false
-open: false
+open: true
 title: Le Pilotage de l'inclusion recrute un chargé.e de déploiement expérimenté(e)
 contrat: indépendant
 contact: recrutement@inclusion.beta.gouv.fr
