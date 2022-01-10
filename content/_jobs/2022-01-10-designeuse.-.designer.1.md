@@ -1,10 +1,10 @@
 ---
-roles: DESIGNEUSE - DESIGNER 🚚
+roles: UNE DESIGNEUSE OU UN DESIGNER 🚚
 open: true
 date: 2022-01-10T15:36:20.600Z
 startup: mobilic
 ---
-***La start-up d’Etat Mobilic qui vise à lutter contre le travail illégal dans le transport routier recrute un designeuse ou un designer !***
+***La start-up d’Etat Mobilic qui vise à lutter contre le travail illégal dans le transport routier recrute une designeuse ou un designer !***
 
 # 👋 Qui sommes-nous ?
 
