@@ -76,13 +76,6 @@ Cette base de données centralisée permet aux accompagnateurs de l’insertion 
    * mise aux normes de sécurité des données pour permettre l'orientation des bénéficiaires directement depuis Dora.
    * amélioration continue de l'outil pour répondre aux besoins des utilisateurs.
 
-### Nos problématiques actuelles :
-
-* Comment faire connaître et utiliser la solution au plus grand nombre dans la durée ?
-* Comment déployer le service sans passer trop de temps à initier les bases de données locales ?
-* Comment diminuer l'effort d’intégration des données pour les acteurs de l’insertion ?
-* Quels mécanismes mettre en place pour s’assurer que la donnée collectée est mise à jour régulièrement ?
-
 ### Indicateurs d'impacts suivis :
 
 ##### Objectifs d'impact à atteindre d'ici fin avril :
@@ -121,7 +114,7 @@ Pour quoi faire ?
 
   * rendez-vous sur <https://dora.fabrique.social.gouv.fr/> pour rechercher des services pour lever les freins périphériques des bénéficiaires que vous accompagnez.\
      *Astuce 💡: mettez le lien en favori ⭐ pour gagner du temps en entretien quand un frein périphérique est diagnostiqué.*
-  * n'hésitez pas à proposer des modifications si vous repérez une information erronée via le site ou en nous contactant par mail à l'adresse : support.dora@beta.gouv.fr
+  * n'hésitez pas à proposer des modifications si vous repérez une information erronée via le site ou en nous contactant par mail à l'adresse : [support@dora.fabrique.social.gouv.fr](mailto:support@dora.fabrique.social.gouv.fr)
 * le service Dora n'est pas encore disponible sur votre territoire ? 🤝 [Participez au déploiement de Dora sur votre territoire](https://documentation.dora.fabrique.social.gouv.fr/communication-dora/untitled-1#participez-au-deploiement-de-dora-sur-votre-territoire) 
 
 - - -
