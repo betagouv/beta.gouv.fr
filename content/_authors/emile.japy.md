@@ -1,18 +1,19 @@
 ---
 fullname: Emile Japy
-role: UX Designer freelance
 domaine: Design
-link: https://www.coming-soon.studio/
+role: UX Designer freelance
 github: ejapy
+link: https://www.coming-soon.studio/
 missions:
   - start: 2021-10-11
-    end: 2022-01-31
+    end: 2022-03-31
     status: independent
     employer: Benext
 startups:
   - pass-emploi
 badges:
   - segur
+competences:
+  - UX
+  - UI
 ---
-
-UX designer passionné d'expériences musicales
