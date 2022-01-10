@@ -81,4 +81,4 @@ Des déplacements sont également à prévoir occasionnellement pour aller à la
 
 # ✍️ Postuler
 
-Pour postuler, envoie nous un petit message à [](mailto:mobilic@beta.gouv.fr)[mobilic@beta.gouv.fr](<mailto:mobilic@beta.gouv.fr?cc=recrutement@beta.gouv.fr&subject=candidature DÉVELOPPEUSE - DÉVELOPPEUR>), avec recrutement@beta.gouv.fr en copie, avec un lien vers ton site perso, profil Github / Gitlab, LinkedIn, Malt ou équivalent. Si tu as des questions avant de postuler, n’hésite pas à nous écrire.
+Pour postuler, envoie nous un petit message à [](mailto:mobilic@beta.gouv.fr)[mobilic@beta.gouv.fr](<mailto:mobilic@beta.gouv.fr?cc=recrutement@beta.gouv.fr&subject=candidature DÉVELOPPEUSE - DÉVELOPPEUR>), avec recrutement@beta.gouv.fr en copie, avec un lien vers ton site perso, profil Github / Gitlab, LinkedIn, Malt ou équivalent.
