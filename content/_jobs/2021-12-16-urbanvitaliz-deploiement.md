@@ -1,6 +1,6 @@
 ---
 roles: Chargé.e de déploiement
-open: true
+open: false
 date: 2021-12-16
 startup: urbanvitaliz
 title: UrbanVitaliz recrute une personne chargée de déploiement auprès des acteurs des territoires
