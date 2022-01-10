@@ -4,13 +4,11 @@ open: true
 date: 2022-01-10T14:14:00.530Z
 startup: mobilic
 ---
-***La start-up d’Etat Mobilic qui vise à lutter contre le travail illégal dans le transport routier recrute un développeur ou une développeuse fullstack !***
-
-
+***La start-up d’Etat Mobilic qui vise à lutter contre le travail illégal dans le transport routier recrute un développeur ou une développeuse fullstack (Python - React) !***
 
 # 👋 Qui sommes-nous ?
 
-[Mobilic](https://mobilic.beta.gouv.fr) est une Start-up d’État, accélérée par La Fabrique Numérique, l’Incubateur du Ministère de la Transition écologique dont dépend le ministère des Transports.
+[Mobilic](https://mobilic.beta.gouv.fr) est une Start-up d’État, accélérée par La Fabrique Numérique, l’Incubateur du Ministère de la Transition écologique dont dépend le Ministère des Transports.
 
 **Notre mission** : simplifier l’enregistrement et le suivi du temps de travail des travailleurs mobiles, les salariés et salariées du secteur des transports qui conduisent ou sont accompagnants sur des véhicules utilitaires légers (du van à la petite camionnette).
 
@@ -27,8 +25,6 @@ Ce qui a un impact sur :
 * en permettant aux travailleurs mobiles d’enregistrer leur temps de travail directement depuis leur téléphone, de manière rapide et fiable
 * en améliorant la transparence sur le sujet du temps de travail dans ce secteur, en informant notamment mieux les employés de leurs droits, les employeurs de la réalité du travail et les clients des entreprises du respect des droits sociaux 
 * en améliorant la qualité des contrôles sur route et au sein des établissements 
-
-
 
 # 🎯 Rôle et mission
 
@@ -50,8 +46,6 @@ mais aussi, d’autre part, des responsabilités quant aux orientations stratég
 
 ***En bref, si tu aimes toucher à tous les aspects du dev (front, back, infra, devops, tooling, …) sans pour autant rester en retrait des décisions produit, la mission est faite pour toi !***
 
-
-
 # 🔍 Profil recherché
 
 **Notre stack technique :**
@@ -71,11 +65,9 @@ mais aussi, d’autre part, des responsabilités quant aux orientations stratég
 * Intérêt pour le secteur public, la mission et les décisions produit
 * Bon relationnel et capacité de vulgarisation
 
-
-
 # 📃 Modalités
 
-Tu rejoins une petite équipe constituée de 1 intrapreneur, 1 coach, 1 chargée de déploiement et 1 autre développeur fullstack qui s'agrandit avec toi ainsi qu'1 spécialiste du design et 1 personne supplémentaire au déploiement.
+Tu rejoins une petite équipe constituée de 1 intrapreneur, 1 coach, 1 chargée de déploiement et 1 autre développeur fullstack qui s'agrandit avec toi ainsi qu'1 spécialiste du design et 1 personne supplémentaire en charge du déploiement.
 
 L’équipe est basée à Paris et se réunit une fois par semaine (en fonction du contexte sanitaire). Le travail est effectué à distance le reste du temps.
 
@@ -86,8 +78,6 @@ L’équipe est basée à Paris et se réunit une fois par semaine (en fonction 
 * Début souhaité : début février 2022
 
 Des déplacements sont également à prévoir occasionnellement pour aller à la rencontre d'utilisateurs (assister à des contrôles sur route, visiter des entreprises, accompagner des salariés en tournée, participer à des salons...).
-
-
 
 # ✍️ Postuler
 
