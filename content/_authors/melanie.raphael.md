@@ -6,7 +6,7 @@ missions:
   - start: 2022-01-05
     end: 2022-06-30
     status: independent
-    employer: Octo
+    employer: Solstice
 startups:
   - tdb-apprentissage
 badges:
