@@ -17,6 +17,8 @@ phases:
     start: 2019-06-01
   - name: transfer
     start: 2020-09-01
+  - name: alumni
+    start: 2021-11-01
 link: https://zen.pole-emploi.fr
 stats: false
 repository: https://github.com/StartupsPoleEmploi/zen
