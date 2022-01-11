@@ -15,6 +15,7 @@ phases:
   - name: investigation
     start: 2021-09-01
     end: ""
+  - name : construction
 
 ---
 
@@ -40,5 +41,5 @@ Pour cela :
 2. Pour les réseaux de CFA : 
 - Une visibilité des liens entre les structures sur un territoire ; 
 - Un suivi facilité quand les réseaux se restructurent ou quand les organismes fusionnent ; 
-- 3. Pour les CFA : 
+3. Pour les CFA : 
 - Une clarification dans les procédures d’immatriculation, des règles partagées, une simplification des informations à fournir.
