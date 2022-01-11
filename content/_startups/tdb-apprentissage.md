@@ -7,7 +7,7 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: travail
 incubator: mission-apprentissage
-link: https://cfas.apprentissage.beta.gouv.fr/tableau-de-bord
+link: https://cfas.apprentissage.beta.gouv.fr
 repository: 
 contact: apprentissage@beta.gouv.fr
 events: []
