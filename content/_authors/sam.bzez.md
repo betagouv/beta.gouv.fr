@@ -6,7 +6,7 @@ github: bzez
 link: https://bzez.dev
 missions:
   - start: 2021-12-16
-    end: 2022-02-18
+    end: 2022-06-30
     status: independent
     employer: DINUM
 startups:
