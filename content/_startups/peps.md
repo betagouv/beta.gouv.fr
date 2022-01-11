@@ -24,7 +24,7 @@ link: https://rex-agri.agroecologie.org/
 repository: https://github.com/betagouv/peps
 stats: true 
 stats_url: https://rex-agri.agroecologie.org/stats
-contact: peps@beta.gouv.fr
+contact: support@agricultureduvivant.org
 ---
 
 ## Le constat
