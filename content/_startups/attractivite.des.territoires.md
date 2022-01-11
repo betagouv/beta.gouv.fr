@@ -15,6 +15,8 @@ events: []
 phases:
   - name: construction
     start: 2021-11-02
+    name : alumni
+    start : 2022-01-11
 ---
 ## Contexte
 
