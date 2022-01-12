@@ -9,6 +9,8 @@ missions:
     status: independent
     employer: Octo
 startups:
+  - sante-psy-etudiant
+alumni:
   - jeveuxaider
   - api-engagement
 badges:
