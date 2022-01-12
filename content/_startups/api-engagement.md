@@ -9,18 +9,14 @@ sponsors:
     type: administration-centrale
 incubator: dinum
 phases:
+  - name: investigation
+    start: 2020-03-01
   - name: construction
     start: 2020-07-13
-events:
-  - name: other
-    date: 2020-01-27
-    comment: Convention SNU
-  - name: other
-    date: 2020-07-13
-    comment: Convention globale
 link: https://api-engagement.beta.gouv.fr
 repository:
-stats: false
+stats: true
+stats_url: https://reserve-civique-metabase.osc-secnum-fr1.scalingo.io/public/dashboard/2dad1c3d-09e5-4d68-85bb-773b9c61e9a7
 contact: contact@api-engagement.beta.gouv.fr
 ---
 
