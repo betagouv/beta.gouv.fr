@@ -8,6 +8,7 @@ missions:
     end: 2022-07-01
     status: independent
 startups:
-    - peps
     - cartobio
+previously: 
+    - peps
 ---

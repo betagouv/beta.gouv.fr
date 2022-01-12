@@ -12,6 +12,7 @@ incubator: sgmas
 link: https://dora.fabrique.social.gouv.fr/
 repository: https://github.com/betagouv/dora/
 contact: dora@beta.gouv.fr
+stats: true
 events: []
 phases:
   - name: investigation
@@ -50,7 +51,9 @@ Qui ont des conséquences fortes pour :
 
 [Dora](https://dora.fabrique.social.gouv.fr/) est un service public numérique gratuit.
 
-Il permet aux structures proposant une offre de service destinée à des publics en situation d'insertion de référencer leur structure et leur offre de service et de maintenir facilement à jour les informations.
+Son objectif est de réduire le délai de l'insertion vers l'emploi durable en mettant en rendant visibles et mobilisables les services permettant de lever les freins périphériques bloquant le retour à l'emploi.
+
+Sur Dora, les structures proposant une offre de service accessible à des publics en situation d'insertion peuvent référencer leur structure et leur offre de service et maintenir facilement à jour les informations.
 
 Cette base de données centralisée permet aux accompagnateurs de l’insertion de mobiliser rapidement l’offre d’insertion adaptée aux besoins des bénéficiaires qu’ils accompagnent via :
 
@@ -75,13 +78,6 @@ Cette base de données centralisée permet aux accompagnateurs de l’insertion 
    * mise aux normes de sécurité des données pour permettre l'orientation des bénéficiaires directement depuis Dora.
    * amélioration continue de l'outil pour répondre aux besoins des utilisateurs.
 
-### Nos problématiques actuelles :
-
-* Comment faire connaître et utiliser la solution au plus grand nombre dans la durée ?
-* Comment déployer le service sans passer trop de temps à initier les bases de données locales ?
-* Comment diminuer l'effort d’intégration des données pour les acteurs de l’insertion ?
-* Quels mécanismes mettre en place pour s’assurer que la donnée collectée est mise à jour régulièrement ?
-
 ### Indicateurs d'impacts suivis :
 
 ##### Objectifs d'impact à atteindre d'ici fin avril :
@@ -100,7 +96,7 @@ Toutes les mesures d'usage mises à jour en temps réel sont à retrouver sur la
 
 #### A. Vous représentez un territoire, une collectivité et cherchez à faciliter la coopération des acteurs de l'insertion de votre territoire ?
 
-Notre équipe est à votre disposition pour accompagner le déploiement du service sur votre territoire. Contactez nous à l'adresse dora@beta.gouv.fr, nous nous engageons à vous répondre dans les plus bref délais !
+Notre équipe est à votre disposition pour accompagner le déploiement du service sur votre territoire. Contactez nous à l'adresse [dora@beta.gouv.fr](mailto:dora@beta.gouv.fr), nous nous engageons à vous répondre dans les plus bref délais !
 
 #### B. Vous travaillez pour une structure de l'insertion qui propose des services à des personnes en situation d'insertion ?
 
@@ -118,10 +114,9 @@ Pour quoi faire ?
 
 * le service Dora est déjà implanté sur votre territoire ? 
 
-  a. rendez-vous sur https://dora.fabrique.social.gouv.fr/ pour rechercher des services pour lever les freins périphériques des bénéficiaires que vous accompagnez.
+  * rendez-vous sur <https://dora.fabrique.social.gouv.fr/> pour rechercher des services pour lever les freins périphériques des bénéficiaires que vous accompagnez.\
      *Astuce 💡: mettez le lien en favori ⭐ pour gagner du temps en entretien quand un frein périphérique est diagnostiqué.*
-  b. n'hésitez pas à proposer des modifications si vous repérez une information erronée via le site ou en nous contactant par mail à l'adresse : support.dora@beta.gouv.fr
-
+  * n'hésitez pas à proposer des modifications si vous repérez une information erronée via le site ou en nous contactant par mail à l'adresse : [support@dora.beta.gouv.fr](mailto:support@dora.beta.gouv.fr)[](mailto:support@dora.fabrique.social.gouv.fr)
 * le service Dora n'est pas encore disponible sur votre territoire ? 🤝 [Participez au déploiement de Dora sur votre territoire](https://documentation.dora.fabrique.social.gouv.fr/communication-dora/untitled-1#participez-au-deploiement-de-dora-sur-votre-territoire) 
 
 - - -
