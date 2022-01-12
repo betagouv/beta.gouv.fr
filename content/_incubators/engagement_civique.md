@@ -1,6 +1,6 @@
 ---
 title: Engagement Civique
-owner: DINUM
+owner: DJEPVA
 logo: logo_beta.png
 github: https://github.com/betagouv/
 contact: jeveuxaider@beta.gouv.fr
