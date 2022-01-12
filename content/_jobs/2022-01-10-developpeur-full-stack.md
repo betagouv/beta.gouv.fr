@@ -1,10 +1,13 @@
 ---
-roles: Chargé.e de déploiement à l'Incubateur des Territoires
+roles: Dev full stack
+title: Dev full stack pour l'Incubateur des Territoires
+contrat: indépendant
+startup: incubateur.des.territoires
 open: true
 junior: true
-date: 2021-11-03T16:56:16.733Z
-startup: ""
 ---
+
+
 L'Incubateur des Territoires recherche **un•e dévelopeu•se•r full-stack**.
 
 Vous aurez pour mission de contribuer au déploiement des services publics numériques proposés par l'Incubateur des Territoires aux collectivités territoriales. Pour cela, vous travaillerez en lien étroit avec l'équipe technique, Design et Produit.
@@ -32,6 +35,7 @@ Vous êtes familier avec :
 
 - JavaScript côté client et côté serveur ;
 - Le front et le back en général ;
+- Les API Rest et/ou GraphQL ;
 - Travailler avec des équipes Design et Produit ;
 - L'écosystème open-source et ses bonnes pratiques, Git, Github / Gitlab, Markdown… ;
 - Une préférence pour des solutions simples et pragmatiques ;
@@ -39,7 +43,7 @@ Vous êtes familier avec :
 
 Il pourrait être intéressant si vous aviez quelques notions de :
 
-- Ember, Discourse, Vue, Ruby, MeiliSearch ;
+- MeiliSearch et autre moteurs de recherche ;
 - Kubernetes et Docker ;
 - Déploiement continu ;
 - GitHub Actions / Gitlab CI.
