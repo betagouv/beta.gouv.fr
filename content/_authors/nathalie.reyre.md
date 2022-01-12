@@ -23,5 +23,5 @@ startups:
 previously:
     - la-bonne-formation
     - andi
-    - engagement-civique
+    - snu
 ---
