@@ -23,13 +23,11 @@ events:
   - name: other
     date: 2020-07-13
     comment: Convention globale
-link:
-repository:
+link: https://snu.gouv.fr
+repository: https://github.com/betagouv/service-national-universel
 stats: false
 contact: contact@snu.gouv.fr
 ---
-
-# [La plateforme SNU](https://snu.gouv.fr)
 
 
 Un des fondements de la démocratie est l’implication de ses citoyens à la construction de l’intérêt général. C'est en ce sens que le gouvernement a souhaité expérimenter le Service national Universel qui cherche à promouvoir auprès des mineurs, dès leurs 15 ans, les valeurs de l'engagement et de la citoyenneté.
