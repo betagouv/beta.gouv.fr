@@ -14,15 +14,15 @@ missions:
     status: admin
     employer: La Fabrique Numérique
 startups:
-  - demarches-simplifiees.fr
-  - peps
   - zero-logement-vacant
   - dedale
+previously:
+  - demarches-simplifiees.fr
+  - peps
   - innovation-urbaine
 badges:
   - segur
 competences:
   - Gestion de Produit
   - Croissance
-  - 
 ---

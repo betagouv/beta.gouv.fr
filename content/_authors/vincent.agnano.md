@@ -7,12 +7,13 @@ link: https://vinyll.neomad.org
 github: vinyll
 missions:
   - start: 2016-04-01
-    end: 2021-12-31
+    end: 2022-12-31
     status: independent
     employer: lazone
 startups:
-  - egalite.professionnelle
+  - incubateur-des-territoires
 previously:
+  - egalite.professionnelle
   - classe-a-12
   - saisissezauvol
   - eac

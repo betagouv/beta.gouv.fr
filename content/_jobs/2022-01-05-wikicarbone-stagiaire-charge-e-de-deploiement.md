@@ -60,3 +60,5 @@ Travail basé à La Défense (Tour Sequoia), avec possibilité de télé-travail
 Réunions d'équipe régulières en format visio. 
 
 Démarrage possible dès janvier 2022.
+
+Envoyez votre candidature à `wikicarbone@beta.gouv.fr` et `Pascal Dagras <pascal.dagras@developpement-durable.gouv.fr>` en copie.
