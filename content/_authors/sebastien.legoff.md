@@ -9,7 +9,7 @@ missions:
     status: independent
 startups:
 - ozensemble
-- engagement-civique
+- jeveuxaider
 previously:
 - pop
 - eac   
