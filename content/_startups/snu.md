@@ -10,19 +10,9 @@ sponsors:
 incubator: dinum
 phases:
   - name: investigation
-    start: 2017-03-23
+    start: 2020-04-01
   - name: construction
-    start: 2017-03-23
-events:
-  - name: other
-    date: 2020-01-01
-    comment: Investigation SNU
-  - name: other
-    date: 2020-01-27
-    comment: Convention SNU
-  - name: other
-    date: 2020-07-13
-    comment: Convention globale
+    start: 2020-07-01
 link: https://snu.gouv.fr
 repository: https://github.com/betagouv/service-national-universel
 stats: false
