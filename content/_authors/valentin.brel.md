@@ -10,7 +10,7 @@ missions:
     employer: Octo
 startups:
   - sante-psy-etudiant
-alumni:
+previously:
   - jeveuxaider
   - api-engagement
 badges:
