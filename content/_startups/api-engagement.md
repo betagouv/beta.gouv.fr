@@ -1,7 +1,7 @@
 ---
 title: API Engagement
 mission: Donner plus de visibilité aux offres de bénévolat et de volontariat
-owner: Direction de la jeunesse, de l'éducation populaire et de la vie associative
+owner: Engagement Civique
 sponsors: 
   - name: Direction de la jeunesse, de l'éducation populaire et de la vie associative
     acronym: DJEPVA
