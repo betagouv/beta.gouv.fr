@@ -1,7 +1,7 @@
 ---
 startup: api.gouv.fr
 title: "Responsable de la distribution des API publiques"
-roles: un.e chargé.e de déploiement
+roles: Responsable de la distribution des API publiques
 open: true
 ---
 
