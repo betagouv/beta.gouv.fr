@@ -8,7 +8,7 @@ missions:
     end: 2022-12-31
     status: independent
 startups:
-  - engagement-civique
+  - snu
 competences:
   - Gestion de Produit
 ---
