@@ -8,6 +8,6 @@ missions:
     end: 2022-07-31
     status: independent
 startups:
-  - engagement-civique
+  - snu
 ---
 
