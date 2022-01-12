@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: Malt
 startups:
-  - engagement-civique
+  - snu
 competences:
   - Communication
 ---
