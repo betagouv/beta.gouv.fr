@@ -6,7 +6,7 @@ github: ChloeMoser
 link: https://archifiltre.fabrique.social.gouv.fr/
 missions:
   - start: 2019-04-01
-    end: 2021-12-16
+    end: 2022-12-31
     status: admin
     employer: Ministère de la culture
 startups:
