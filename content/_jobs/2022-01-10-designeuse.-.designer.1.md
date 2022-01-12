@@ -4,7 +4,7 @@ open: true
 date: 2022-01-10T15:36:20.600Z
 startup: mobilic
 ---
-***La start-up d’Etat Mobilic qui vise à lutter contre le travail illégal dans le transport routier recrute une designeuse ou un designer !***
+***La start-up d’Etat Mobilic qui vise à lutter contre le travail illégal dans le transport routier recrute une product designeuse ou un product designer !***
 
 # 👋 Qui sommes-nous ?
 
@@ -35,11 +35,12 @@ Aujourd'hui l'application Mobilic comporte 2 parcours principaux :
 
 Les chantiers design début 2022 : 
 
-* concevoir le parcours contrôleur
+* enrichir le parcours contrôleur
 * refondre le site public (landing page) pour augmenter le taux de conversion des entreprises
 * refondre l’application pour améliorer l’expérience utilisateur et augmenter la fiabilité des données saisies
+* investiguer les besoins métiers d'autres secteurs soumis au LIC en vue d'adapter le produit
 
-***En bref, si tu aimes simplifier le quotidien d'utilisateurs en concevant des parcours simples et élégants et tu t'intéresses à l'impact du design sur la conversion et la rétention des utilisateurs, la mission est faite pour toi !***    
+***En bref, si tu aimes améliorer le quotidien d'utilisateurs en concevant des parcours simples et élégants et tu t'intéresses à l'impact du design sur la conversion et la rétention des utilisateurs, la mission est faite pour toi !***    
 
 # 🔍 Le profil recherché
 
@@ -56,7 +57,7 @@ Recherche utilisateur :
 Conception et ergonomie :
 
 * Concevoir l’expérience produit (UX), les parcours utilisateurs et les prototypes qui répondent aux besoins de nos utilisateurs
-* Refondre l’interface (UI) du produit (mobile et desktop) à partir des fonctionnalités existantes et des spécifications à venir et s’assurer de la conversion des utilisateurs à chaque étape ;
+* Améliorer l’interface (UI) du produit (mobile et desktop) à partir des fonctionnalités existantes et des spécifications à venir et s’assurer de la conversion des utilisateurs à chaque étape ;
 * Favoriser l’accessibilité de l’interface et des fonctionnalités de l’application ;
 * Participer à l’amélioration continue des fonctionnalités de l’outil (ateliers utilisateurs, recueil de besoins, contribution à la feuille de route)
 * Travailler de concert avec l’équipe de développement pour la réalisation (recette).
@@ -67,10 +68,12 @@ Tu rejoins une petite équipe constituée de 1 intrapreneur, 1 coach, 1 chargée
 
 L’équipe est basée à Paris et se réunit une fois par semaine (en fonction du contexte sanitaire). Le travail est effectué à distance le reste du temps.
 
-* Contrat : freelance
-* TJM envisagé : 525 € (voir [grille de rémunération Beta Gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/les-differents-statuts/independants-freelances/remuneration#grille-de-taux-journaliers/))
-* Charge : 3 à 4 jours par semaine (l'équipe est OFF les vendredis)
-* Durée : 6 mois renouvelables
+Conditions de la mission :
+
+* Contrat : indépendant
+* TJM envisagé : 450 - 600 € (voir [grille de rémunération Beta Gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/les-differents-statuts/independants-freelances/remuneration#grille-de-taux-journaliers/))
+* Charge : 3 jours par semaine (entre le lundi et le jeudi, l'équipe est OFF les vendredis)
+* Durée : 6 mois (potentiellement renouvelable)
 * Début souhaité : début février 2022
 
 Des déplacements sont également à prévoir occasionnellement pour aller à la rencontre d'utilisateurs (assister à des contrôles sur route, visiter des entreprises, accompagner des salariés en tournée, participer à des salons...).
