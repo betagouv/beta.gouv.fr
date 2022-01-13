@@ -7,7 +7,7 @@ sponsors:
     acronym: DJEPVA
     domaine_ministeriel: education-nat
     type: administration-centrale
-incubator: dinum
+incubator: engagement_civique
 phases:
   - name: investigation
     start: 2020-03-01
