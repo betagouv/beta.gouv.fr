@@ -8,7 +8,13 @@ missions:
     end: 2022-01-31
     status: independent
     employer: Octo
+  - start: 2022-02-01
+    end: 2022-01-31
+    status: independent
+    employer: Benext
 startups:
+  - l-immersion-facile
+previously: 
   - conseiller-numerique
 badges:
   - segur

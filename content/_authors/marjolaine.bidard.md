@@ -1,14 +1,23 @@
 ---
 fullname: Marjolaine Bidard
-role: UX-UI Designer
+role: UX Designer
 domaine: Design
+link : https://www.linkedin.com/in/marjobidard/
 missions:
   - start: 2020-10-01
     end: 2022-06-30
     status: independent
-    employer: Pole Emploi
+    employer: Pole emploi
 startups:
+  - pole-emploi-action
+previously:
   - estime
+competences :
+  - UX
+  - UI
+  - Research
+  - Facilitation
+  - Product strategy
 ---
-
+Product UX strategy, UX research, Experience designer Freelance
  
