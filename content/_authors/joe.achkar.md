@@ -12,6 +12,8 @@ missions:
     employer: octo
 startups:
     - jeveuxaider
+    - api-engagement
+    - snu
 previously:
     - 
 ---
