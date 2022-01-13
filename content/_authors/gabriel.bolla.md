@@ -9,6 +9,8 @@ missions:
     employer: DINUM
 badges:
   - segur
+startups :
+  - snu
 ---
 
 UI/UX Designer 
