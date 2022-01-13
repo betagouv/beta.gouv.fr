@@ -14,7 +14,7 @@ missions:
     status: independent
     employer: octo
 startups:
-  - jeveuxaider
+  - snu
   - mano
 previously:
   - eac
