@@ -6,8 +6,10 @@ missions:
   - start: 2020-10-01
     end: 2022-06-30
     status: independent
-    employer: Pole Emploi
+    employer: Pole emploi
 startups:
+  - pole-emploi-action
+previously:
   - estime
 ---
 
