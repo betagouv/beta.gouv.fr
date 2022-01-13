@@ -57,7 +57,7 @@ En effet, même si la durée globale d’une affaire dépend significativement d
 La diminution de la durée des procédures nécessite donc l’adaptation des moyens affectés à leur traitement aux besoins de justice locaux.
 
 
-***Le problème des juridictions* : comment optimiser l’affectation des moyens ?**  
+***Le problème des juridictions* : comment répondre au mieux aux besoins de justice locaux ?**  
 
 Les tribunaux sont des organisations complexes, devant traiter un volume et une diversité considérables de contentieux¹, en mobilisant des effectifs nombreux et hétérogènes².
 
