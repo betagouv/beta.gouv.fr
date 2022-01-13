@@ -8,8 +8,8 @@ missions:
     end: 2022-01-31
     status: independent
     employer: Octo
- - start: 2022-02-01
-    end: 2022-12-31
+  - start: 2022-02-01
+    end: 2022-01-31
     status: independent
     employer: Benext
 startups:
