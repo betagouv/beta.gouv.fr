@@ -59,7 +59,7 @@ La diminution de la durée des procédures nécessite donc l’adaptation des m
 
 ***Le problème des juridictions* : comment répondre au mieux aux besoins de justice locaux ?**  
 
-Les tribunaux sont des organisations complexes, devant traiter un volume et une diversité considérables de contentieux¹, en mobilisant des effectifs nombreux et hétérogènes².
+Les tribunaux sont des organisations complexes, devant traiter un volume et une diversité considérables de contentieux¹, en mobilisant des effectifs nombreux et diversifiés².
 
 Pour ce faire, ils doivent, d’une part, disposer de ressources humaines, matérielles, budgétaires ainsi que de locaux adaptés aux caractéristiques et à la structuration de leur activité et, d’autre part, être en capacité de les affecter selon les priorités qu’ils auront définies en fonction des besoins de justice locaux.
 
