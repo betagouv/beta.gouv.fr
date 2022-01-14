@@ -2,6 +2,7 @@
 fullname: Arnaud Choukroun
 role: Product Manager
 domaine: Produit
+github: arnaudchouk
 missions:
   - start: 2021-11-08
     end: 2022-04-30
