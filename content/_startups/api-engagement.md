@@ -11,8 +11,10 @@ incubator: engagement_civique
 phases:
   - name: investigation
     start: 2020-03-01
-      - name: acceleration
+  - name: construction
     start: 2020-07-13
+  - name: acceleration
+    start: 2021-01-01  
 link: https://api-engagement.beta.gouv.fr
 repository:
 stats: true
