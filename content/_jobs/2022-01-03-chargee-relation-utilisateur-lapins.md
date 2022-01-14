@@ -1,6 +1,6 @@
 ---
 roles: Chargé-e de relation utilisateur
-open: true
+open: false
 date: 2022-01-03
 startup: lapins
 ---
