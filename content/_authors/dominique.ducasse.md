@@ -3,7 +3,6 @@ fullname: Dominique Ducasse
 role: Géomaticienne
 domaine: Autre
 startups:
-    - acceslibre
     - aides-territoires
     - apilos
     - bureaux.vacants

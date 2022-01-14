@@ -17,6 +17,8 @@ phases:
     start: 2020-11-03
   - name: transfer
     start: 2021-07-01
+  - name: alumni
+    start: 2021-12-01
 link: https://medle.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/medle
 stats: false
