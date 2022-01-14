@@ -13,6 +13,8 @@ phases:
     start: 2020-04-01
   - name: construction
     start: 2020-07-01
+  - name: acceleration
+    start: 2021-01-01
 link: https://snu.gouv.fr
 repository: https://github.com/betagouv/service-national-universel
 stats: false
