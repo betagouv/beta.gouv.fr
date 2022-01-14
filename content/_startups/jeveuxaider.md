@@ -13,6 +13,8 @@ phases:
     start: 2017-03-23
   - name: construction
     start: 2017-03-23
+  - name: acceleration
+    start: 2020-01-01
 events:
   - name: other
     date: 2020-01-01
