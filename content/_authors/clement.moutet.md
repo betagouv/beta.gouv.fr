@@ -5,7 +5,7 @@ domaine: Produit
 github: leclem
 missions:
   - start: 2021-07-16
-    end: 2022-01-14
+    end: 2022-02-8
     status: service
     
 startups:
