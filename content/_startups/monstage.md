@@ -1,8 +1,8 @@
 ---
 title: Mon stage de 3e
 mission: Permettre aux élèves de 3e d'accéder à des stages pertinents pour combattre les déterminismes sociaux
-owner: CGET
-incubator: dinum
+owner: Agence nationale de la cohésion des territoires
+incubator: anct
 sponsors: 
     - name: Agence nationale de la cohésion des territoires
       acronym: ANCT
