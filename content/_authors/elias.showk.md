@@ -6,7 +6,7 @@ link: https://showk.me
 github: elishowk
 missions:
   - start: 2021-11-30
-    end: 2022-01-31
+    end: 2022-04-30
     status: independent
     employer: Malt
 startups:
