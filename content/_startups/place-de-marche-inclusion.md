@@ -7,9 +7,9 @@ sponsors:
   - name: Délégation générale à l'emploi et à la formation professionnelle
     acronym: DGEFP
 incubator: dinum
-repository: https://github.com/betagouv/itou-cocorico
+repository: https://github.com/betagouv/itou-marche
 contact: lemarche@inclusion.beta.gouv.fr
-stats_url: https://kindly-sunscreen-95c.notion.site/Rendez-vous-impact-bed6ed047b69443db46145baca3635d0
+stats_url: https://lemarche.inclusion.beta.gouv.fr/stats/
 link: https://lemarche.inclusion.beta.gouv.fr
 stats: true
 phases:
