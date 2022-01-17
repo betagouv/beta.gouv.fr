@@ -33,7 +33,7 @@ Enfin, maintenir une "culture dev" forte et inclusive au sein de la communauté 
 
 ## Solution
 
-Une équipe produit transverse dédiée au sein de beta.gouv.fr composée de devs et de designers et dont l'objectif est d'améliorer le quotidien des profils techs à beta.gouv.fr et d'en faire le meilleur endroit pour travailler et s'épanouir en tant que dev.
+Une équipe produit transverse dédiée au sein de beta.gouv.fr composée de devs, bizdevs et de designers et dont l'objectif est d'améliorer le quotidien des profils techs à beta.gouv.fr et d'en faire le meilleur endroit pour travailler et s'épanouir en tant que dev.
 
 ## Stratégie
 
