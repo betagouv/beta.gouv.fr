@@ -37,7 +37,8 @@ Une équipe produit transverse dédiée au sein de beta.gouv.fr composée de dev
 
 ## Stratégie
 
-- Développement et gestion d'outils mutualisés à destination des devs (Dashlord, 
+- Développement et gestion d'outils mutualisés à destination des devs (Dashlord, kit de démarrage, etc.)
 - Maintenance de la documentation
 - Formations et embarquements
 - Faciliter et encourager la contribution de tous les membres de la communauté
+- Aide au recrutement techs pour les Startups d'Etat de la communauté
