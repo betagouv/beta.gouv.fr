@@ -18,14 +18,11 @@ phases:
     start: 2021-12-10
     end: 2022-06-10
 ---
+
 ## Problème
 
-TODO
+Les dotations financières de l’État aux collectivités représentent près d’[un tiers de leurs ressources](https://www.cohesion-territoires.gouv.fr/budget-et-dotations-des-collectivites-locales), mais elles sont délicates à estimer : complexes à calculer, notifiées en cours d’exercice et la projection au-delà de l’année en cours est coûteuse.
 
 ## La solution
 
-TODO
-
-## Territoires concernés :
-
-TODO
+Permettre aux territoires d'évaluer le montant de dotations de l'État en associant la connaissance que chaque territoire a de lui-même, les textes réglementaires ainsi que les données du calcul des dotations locales publiées en open data par la [Direction Régionale des Collectivités Locales](http://www.dotations-dgcl.interieur.gouv.fr/consultation/accueil.php). 
