@@ -14,7 +14,7 @@ phases:
 ---
 ## Contexte
 
-[beta.gouv.fr](https://beta.gouv.fr) est une communauté en hyper-croissance et qui compte déjà plus de 300 personnes développeuses. 
+[beta.gouv.fr](https://beta.gouv.fr) est une communauté en hyper-croissance et qui compte déjà plus de 300 personnes qui font du développement. 
 
 La Startup interne "DevEx" vise à accompagner les devs de la communauté dans la réalisation de produits numériques
 - de qualité
