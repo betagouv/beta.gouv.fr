@@ -5,7 +5,10 @@ owner: Ministère de la Culture
 incubator: culture
 phases:
   - name: construction
-    start: 2020-04-01
+    start: 2020-04-01  
+    end: 2021-12-31
+  - name: alumni
+    start: 2021-12-31
 link:
 repository:
 stats: false
