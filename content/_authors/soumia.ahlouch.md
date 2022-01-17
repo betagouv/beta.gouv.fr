@@ -2,7 +2,7 @@
 fullname: Soumia Ahlouch
 role: Data Analyst
 domaine: Autre
-github : SoumiaAh
+github : SoumiaAHLOUCH
 missions:
   - start: 2021-02-08
     end: 2022-06-30
