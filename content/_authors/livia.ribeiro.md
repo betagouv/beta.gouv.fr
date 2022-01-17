@@ -1,6 +1,6 @@
 ---
 fullname: Livia Ribeiro
-role: Développuse
+role: Développeuse
 domaine: Développement
 github: liviaribeiro
 missions:
