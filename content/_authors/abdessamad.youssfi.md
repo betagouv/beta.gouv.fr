@@ -10,4 +10,5 @@ missions:
 startups:
     - codedutravail
     - itou
+    - place-de-marche-inclusion
 ---
