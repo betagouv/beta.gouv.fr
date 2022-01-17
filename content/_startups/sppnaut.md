@@ -6,7 +6,7 @@ sponsors:
       acronym: DINUM
       type: administration-centrale
     - name: Shom 
-      type: EPA
+      type: autre
 incubator: dinum
 phases:
   - name: investigation
