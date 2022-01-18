@@ -26,12 +26,11 @@ La Startup interne "DevEx" vise à accompagner les devs de la communauté dans l
 
 A mesure que la communauté des devs grandit, le développement et la gestion d'outils partagés (Matomo, Scalingo, Dashlord, etc.) devient un véritable défi. De même, le traitement de toutes les demandes liées à l'ops devient compliqué à suivre.
 
-Enfin, maintenir une "culture dev" forte et inclusive au sein de la communauté beta.gouv.fr est un autre défi lié à la croissance de l'incubateur.
+Maintenir une "culture dev" forte et inclusive au sein de la communauté beta.gouv.fr est un autre défi lié à la croissance de l'incubateur.
 
 ## Solution
 
-Une équipe produit transverse dédiée au sein de beta.gouv.fr composée de devs, bizdevs et de designers et dont l'objectif est d'améliorer le quotidien des profils techs à beta.gouv.fr et d'en faire le meilleur endroit pour travailler et s'épanouir en tant que dev.
-
+Une équipe produit transverse dédiée composée de devs, bizdevs et de designers et dont l'objectif est d'améliorer le quotidien des profils techs à beta.gouv.fr et d'en faire le meilleur endroit pour travailler et s'épanouir en tant que dev.
 
 ## Mesures d'impact 🎯
 
@@ -40,7 +39,7 @@ Une équipe produit transverse dédiée au sein de beta.gouv.fr composée de dev
 - taux de rétention des femmes par-rapport aux hommes et des juniors par rapport aux seniors (via l'API Communauté)
 - nombre de devs qui ont contribués à la doc sur les 3 derniers mois (via GitBook)
 - nombre de devs qui ont utilisé leurs 10% pour des actions transverses (via Trello)
-- % de sites partiellement conforme au RGAA (via Dashlord ?)
+- % de sites partiellement conforme au RGAA (via Dashlord)
 - % des SE qui ont fait au moins 1 atelier de sécurité (via notre outil de suivi)
 - % des SE avec A en sécurité (via Dashlord)
 - diminution du nombre moyen de tickets "OPS" gérés à la main par SE
