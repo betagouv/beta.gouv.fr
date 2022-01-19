@@ -51,11 +51,11 @@ Le développement se fait de façon ouverte, sur GitHub [https://github.com/beta
 
 Avant tout, nous recherchons une personne :
 
-➡ avec de l’experience dans le développement de backends Django/Django REST framework
-➡ désireuse d’améliorer les parcours des personnes en situation d’insertion
-➡ animée par la volonté d’améliorer le service public
-➡ consciente des pratiques éthiques (RGPD, accessibilité…)
-➡ ouverte, souple, autonome et débrouillarde
+➡  avec de l’experience dans le développement de backends Django/Django REST framework
+➡  désireuse d’améliorer les parcours des personnes en situation d’insertion
+➡  animée par la volonté d’améliorer le service public
+➡  consciente des pratiques éthiques (RGPD, accessibilité…)
+➡  ouverte, souple, autonome et débrouillarde
 
 ## les modalités
 
