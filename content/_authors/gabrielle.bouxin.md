@@ -9,6 +9,9 @@ missions:
     status: independent
 startups:
   - snu
+previously:
+  - jeveuxaider
 competences:
   - Gestion de Produit
+  - Administration Publique
 ---
