@@ -20,4 +20,4 @@ previously:
   - la-bonne-boite
 ---
 
-Travaille toujours debout sur des tablettes e-ink ou en VR. Change de pays tous les trois ans. « Ce que vous avez le plus peur de faire est probablement ce que vous avez le plus besoin de faire. »
+Travaille debout sur des écrans e-ink ou en VR. Change de pays tous les trois ans. « Ce que vous avez le plus peur de faire est probablement ce que vous avez le plus besoin de faire. »
