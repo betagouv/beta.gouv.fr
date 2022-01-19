@@ -15,5 +15,7 @@ badges:
   - segur
 competences:
   - Communication
+startups :
+  - jeveuxaider
 ---
 Animatrice de la communauté de bénévole JeVeuxAider.gouv.fr

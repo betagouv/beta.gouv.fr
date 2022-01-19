@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - engagement-civique
+  - snu
 badges:
   - segur
 competences:

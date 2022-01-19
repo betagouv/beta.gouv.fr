@@ -14,7 +14,7 @@ missions:
     status: independent
     employer: octo
 startups:
-  - engagement-civique
+  - snu
   - mano
 previously:
   - eac
