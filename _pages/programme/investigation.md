@@ -107,7 +107,7 @@ breadcrumbs:
                 <div class="fr-col-12" id="financer">
                     <h2>Comment financer cette étape ?</h2>
                     <p>
-                    La phase d’investigation peut être financée par la Direction interministérielle du numérique (DINUM) si elle répond aux conditions définies ci-dessus. Dans ce cas-là, la DINUM recrute le ou la coach, participe à la sélection de l'agent public intrapreneur et participe au comité d'investissement final afin d'établir si un produit peut être lancé selon l'approche Startup d'Etat.
+                    La phase d’investigation peut être financée par la Direction interministérielle du numérique (DINUM) si elle répond aux conditions définies ci-dessus. Dans ce cas-là, la DINUM recrute le ou la coach, participe à la sélection de l'agent public intrapreneur et est conviée au comité d'investissement afin d'établir si un produit peut être lancé selon l'approche Startup d'Etat. Le cas échéant, le produit intègrera le programme beta.gouv.
                     </p>
                     <p>Le lancement de la phase d'investigation est conditionné à la transmission par le sponsor de <a href="https://beta.gouv.fr/content/docs/engagement.docx">cette fiche d'engagement complétée.</a>
                     </p>
