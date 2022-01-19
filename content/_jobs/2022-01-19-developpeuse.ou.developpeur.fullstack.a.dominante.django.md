@@ -1,6 +1,6 @@
 ---
 roles: Développeuse ou développeur fullstack à dominante Django
-open: false
+open: true
 date: 2022-01-19T10:55:42.221Z
 startup: dora
 ---
