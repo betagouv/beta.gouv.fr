@@ -1,6 +1,6 @@
 ---
 roles: Product Owner - Chef de produit numérique
-open: true
+open: false
 date: 2021-12-13
 startup: territoires-en-transitions
 title: Recherche d'une personne Product Owner pour Territoires en Transitions

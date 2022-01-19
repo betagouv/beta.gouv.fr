@@ -1,16 +1,17 @@
 ---
-fullname: Maxime Golfier
+fullname: Victor Perron
 role: Développeur
 domaine: Développement
-github: maxgfr
+github: vperron
 missions:
-  - start: 2021-08-30
-    end: 2022-04-30
+  - start: 2022-01-24
+    end: 2022-07-22
     status: independent
     employer: Octo
 startups:
-  - codedutravail
+  - itou
 badges:
   - segur
 ---
 
+Développeur joyeux :)
