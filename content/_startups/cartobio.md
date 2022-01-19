@@ -16,7 +16,6 @@ phases:
 link: https://cartobio.org
 repository: https://github.com/AgenceBio/cartobio-front
 stats: true
-budget_url: https://cartobio.org/budget
 contact: cartobio@beta.gouv.fr
 ---
 
