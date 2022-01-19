@@ -6,7 +6,7 @@ link: https://captive.fr
 github: shanser
 missions:
   - start: 2019-02-25
-    end: 2022-01-31
+    end: 2022-07-31
     status: service
     employer: ut7
 startups:
