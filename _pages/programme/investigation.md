@@ -94,7 +94,8 @@ breadcrumbs:
                 <div class="fr-col-12" id="condition">
                     <h2>Quelles sont les conditions à réunir ?</h2>
                     <p>
-                    ️✅ libérer un agent public “intrapreneur” au moins deux jours par semaine de ses tâches habituelles.<br>
+                    ️✅ définir un problème à investiguer (sans présupposer la solution numérique) ;<br>
+                    ✅ libérer un agent public “intrapreneur” au moins deux jours par semaine de ses tâches habituelles.<br>
                     ️✅ autoriser le télétravail de cette personne ;<br>
                     ️✅ lui donner un accès à un ordinateur portable et un Internet « libre », pour qu’elle accède aux outils utilisés par la communauté beta.gouv (Mattermost, Trello, GitHub…) ;<br>
                     ️✅ l’autoriser à ouvrir toutes les portes utiles à sa mission, sans validation préalable, afin d’échanger avec les personnes jugées les plus pertinentes (au sein de son administration ou ailleurs)<br>
@@ -106,7 +107,7 @@ breadcrumbs:
                 <div class="fr-col-12" id="financer">
                     <h2>Comment financer cette étape ?</h2>
                     <p>
-                    La phase d’investigation peut être financée par la Direction interministérielle du numérique (DINUM). L’équipe beta.gouv.fr s’engage à apporter un appui méthodologique et opérationnel au partenaire pendant toute la durée de l’investigation.
+                    La phase d’investigation peut être financée par la Direction interministérielle du numérique (DINUM) si elle répond aux conditions définies ci-dessus. Dans ce cas-là, la DINUM recrute le ou la coach, participe à la sélection de l'agent public intrapreneur et participe au comité d'investissement final afin d'établir si un produit peut être lancé selon l'approche Startup d'Etat.
                     </p>
                     <p>Le lancement de la phase d'investigation est conditionné à la transmission par le sponsor de <a href="https://beta.gouv.fr/content/docs/engagement.docx">cette fiche d'engagement complétée.</a>
                     </p>
