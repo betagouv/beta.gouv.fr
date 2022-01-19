@@ -1,14 +1,14 @@
 ---
 title: Data.Subvention
-mission: Améliorer le pilotage des subventions de l’État des associations et simplifier
-  leurs démarches
+mission: Améliorer le pilotage des subventions de l’État des associations et
+  simplifier leurs démarches
 owner: Direction de la jeunesse, de l'éducation populaire et de la vie associative
 incubator: dinum
 contact: antoine.seilles@beta.gouv.fr
 phases:
-  - name: investigation
+  - name: construction
     start: 2021-09-01
-    end: 2021-10-15
+    end: 2022-03-15
 ---
 
 
