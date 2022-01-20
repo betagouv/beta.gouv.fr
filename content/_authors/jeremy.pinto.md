@@ -15,7 +15,7 @@ missions:
     status: independent
     employer: OCTO
 startups:
-    - engagement-civique
+    - jeveuxaider
 ---
 
 Laravel / Vue.js

@@ -3,7 +3,7 @@ title: Compétence Validée
 mission: Améliorer le matching des demandeurs d'emploi avec les recruteurs grâce
   à une validation de compétences
 owner: Pôle emploi
-incubator: dinum
+incubator: pole-emploi
 link: https://competencevalidee.pole-emploi.fr/
 contact: sebastien.poirot@pole-emploi.fr
 phases:

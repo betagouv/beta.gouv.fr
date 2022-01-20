@@ -14,6 +14,9 @@ phases:
   - name: construction
     start: 2018-06-06
   - name: acceleration
+    start: 2019-06-06
+  - name: alumni
+    start: 2021-12-20
 link: https://diagoriente.beta.gouv.fr/
 repository: https://github.com/betagouv/diagoriente-front
 stats: true

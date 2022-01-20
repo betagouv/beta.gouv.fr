@@ -9,5 +9,6 @@ missions:
     employer: Ministère de la Culture
 startups:
   - euphrosyne
+github: ClairePatch
 ---
 

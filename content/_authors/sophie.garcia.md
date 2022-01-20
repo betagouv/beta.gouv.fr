@@ -9,9 +9,10 @@ missions:
     status: independent
 startups:
   - itou
-  - place-de-marche-inclusion
   - la.communaute.de.linclusion
   - dora
+previously:
+  - place-de-marche-inclusion
 competences:
   - Communication
   - Croissance

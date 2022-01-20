@@ -71,13 +71,15 @@ Tu rejoins une petite équipe constituée d'1 intrapreneur, 1 coach, 1 chargée 
 
 L’équipe est basée à Paris et se réunit une fois par semaine (en fonction du contexte sanitaire). Le travail est effectué à distance le reste du temps.
 
-* Contrat : freelance
-* TJM envisagé : 500 - 600 € (voir [grille de rémunération Beta Gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/les-differents-statuts/independants-freelances/remuneration#grille-de-taux-journaliers/))
-* Charge : 4 jours par semaine (du lundi au jeudi)
-* Durée : 6 mois renouvelables
+Conditions de la mission :
+
+* Contrat : indépendant
+* TJM envisagé : 450 - 600 € (voir [grille de rémunération Beta Gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/les-differents-statuts/independants-freelances/remuneration#grille-de-taux-journaliers/))
+* Charge : 4 jours par semaine (du lundi au jeudi, l'équipe est OFF les vendredis)
+* Durée : 6 mois (potentiellement renouvelable)
 * Début souhaité : début février 2022
 
-Des déplacements sont également à prévoir occasionnellement pour aller à la rencontre d'utilisateurs (assister à des contrôles sur route, visiter des entreprises, accompagner des salariés en tournée, participer à des salons...).
+Des déplacements sont également à prévoir occasionnellement pour aller à la rencontre des utilisateurs (assister à des contrôles sur route, visiter des entreprises, accompagner des salariés en tournée, participer à des salons...).
 
 # ✍️ Postuler
 

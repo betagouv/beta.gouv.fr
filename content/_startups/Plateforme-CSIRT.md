@@ -2,7 +2,7 @@
 title: Plateforme CSIRT
 mission: Soutenir le développement de l'écosystème français des équipes de réponse aux cyber attaques
 owner: Agence Nationale de la Sécurité des Systèmes d’Information
-incubator: ANSSI
+incubator: lab-innov-anssi
 phases:
   - name: investigation
     start: 2020-10-01
