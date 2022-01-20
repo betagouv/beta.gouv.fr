@@ -2,12 +2,16 @@
 title: Service National Universel
 mission: Développer la conscience citoyenne des jeunes
 owner: Engagement Civique
-sponsors: 
-    - name: Direction de la jeunesse, de l'éducation populaire et de la vie associative
-      acronym: DJEPVA
-      domaine_ministeriel: education-nat
-      type: administration-centrale
+sponsors:
+  - name: Direction de la jeunesse, de l'éducation populaire et de la vie associative
+    acronym: DJEPVA
+    domaine_ministeriel: education-nat
+    type: administration-centrale
 incubator: engagement_civique
+link: https://moncompte.snu.gouv.fr
+repository: https://github.com/betagouv/service-national-universel
+contact: contact@snu.gouv.fr
+stats: false
 phases:
   - name: investigation
     start: 2020-04-01
@@ -15,10 +19,6 @@ phases:
     start: 2020-07-01
   - name: acceleration
     start: 2021-01-01
-link: https://snu.gouv.fr
-repository: https://github.com/betagouv/service-national-universel
-stats: false
-contact: contact@snu.gouv.fr
 ---
 
 
