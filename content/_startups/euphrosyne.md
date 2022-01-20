@@ -6,7 +6,7 @@ incubator: culture
 phases:
   - name: construction
     start: 2020-04-01
-link: https://c2rmf.fr/analyser/un-laboratoire-de-haute-technologie-pour-les-collections-des-musees/aglae
+link: https://sagascience.com/newaglae/
 repository: https://github.com/betagouv/euphrosyne/
 stats: false
 stats_url:
