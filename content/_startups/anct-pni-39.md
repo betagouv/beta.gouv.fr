@@ -1,16 +1,17 @@
 ---
-title: Programme national d'investigation (39)
-mission: Préfigurer un dossier social unique
-owner: Agence nationale de la cohésion des territoires
+mission: Préfigurer un outil de suivi social pour les CCAS et secrétariats de mairies
 incubator: anct
-phases:
-  - name: investigation
-    start: 2020-06-01
-link: 
-repository: 
-stats: false
-stats_url: 
+repository: null
 contact: contactincubateur@anct.gouv.fr
+stats_url: null
+title: Mon suivi social
+owner: Agence nationale de la cohésion des territoires
+link: null
+stats: false
+phases:
+  - name: construction
+    start: 2021-04-01
+    end: 2022-01-20
 ---
 ### Un CIAS sans outil numérique pour centraliser les informations
 
@@ -38,4 +39,5 @@ Les agents proposent un accompagnement de qualité mais leurs difficultés inter
 En parallèle, les élus et financeurs demandent de plus en plus d’éléments statistiques pointus qui sont chronophages et difficiles à produire actuellement.
 
 **La gestion des bénéficiaires se fait actuellement au travers de 14 tableaux excel et des dossiers papiers. Les outils ne sont pas liés entre eux, il y a donc de nombreux doublons. Les statistiques peuvent être par conséquent souvent biaisées voire faussées.**
-Collectivité sponsor : 
+
+Collectivité sponsor : CC Grand Autunois Morvan
