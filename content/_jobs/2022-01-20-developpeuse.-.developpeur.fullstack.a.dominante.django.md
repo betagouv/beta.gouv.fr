@@ -1,7 +1,7 @@
 ---
 roles: DÉVELOPPEUSE - DÉVELOPPEUR FULLSTACK À DOMINANTE DJANGO
 open: true
-junior: true
+junior: false
 date: 2022-01-20T14:18:47.880Z
 startup: dora
 ---
