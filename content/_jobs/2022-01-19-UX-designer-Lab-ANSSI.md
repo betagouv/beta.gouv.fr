@@ -18,8 +18,10 @@ Le laboratoire d’innovation de l’ANSSI recrute un(e) designeur(se) UX orient
 
 ## Qui sommes nous ?
 
-Créé en 2020, le laboratoire d’innovation publique de l’ANSSI contribue à « renforcer la culture interne de l’expérimentation et amplifier la capacité d’innovation » (Manifeste ANSSI) au travers d'une offre de service en 3 volets
-1. L’accompagnement d’équipes et d’agents de l’ANSSI dans leurs projets, prenant appui sur des principes, méthodes et outils issus design et de l’agilité. Cette offre d’accompagnement se décline en plusieurs phases possibles : l’investigation, visant à préciser le problème à adresser et à en mesurer l’impact ; l’expérimentation, visant à prototyper, tester et évaluer les hypothèses de solutions ; la transformation, visant à stabiliser ou accélérer la solution retenue.
+Rejoindre l'<a href="https://www.ssi.gouv.fr/agence/missions/paroles-agents/">Agence nationale de la sécurité des systèmes d’information (ANSSI)</a>, c’est mettre ses compétences au service de l’intérêt général en participant à une mission capitale, d’actualité et porteuse de grandes responsabilités dans un monde où la cybersécurité est devenue l’affaire de tous ! 
+
+Au sein de la sous-direction stratégie de l'ANSSI, le laboratoire d'innovation publique de l’ANSSI contribue à « renforcer la culture interne de l'expérimentation et amplifier la capacité d’innovation » (Manifeste ANSSI) au travers d'une offre de service en 3 volets
+1. L’accompagnement d’équipes et d’agents de l’ANSSI dans leurs projets, prenant appui sur des principes, méthodes et outils issus design et de l'agilité. Cette offre d’accompagnement se décline en plusieurs phases possibles : l’investigation, visant à préciser le problème à adresser et à en mesurer l’impact ; l’expérimentation, visant à prototyper, tester et évaluer les hypothèses de solutions ; la transformation, visant à stabiliser ou accélérer la solution retenue.
 2. L’impulsion et le pilotage de projets exploratoires, en partenariat avec d’autres structures d’innovation (ex. CyberEnJeux avec le Lab 110bis du MENJ ou le projet Psyber avec le Sciences Po Policy lab).
 3. Un programme d'incubation de nouveaux services publics numériques (à ce jour un nouveau service en cours de construction, <a href="https://beta.gouv.fr/startups/homologation.html">MonServiceSécurisé</a>
 
