@@ -1,13 +1,13 @@
 ---
-title: L'immersion facile
-mission: Faciliter la réalisation des immersion professionnelles
+title: Immersion facilitée
+mission: Augmenter le nombre d'immersions professionnelles pour les personnes éloignées de l'emploi 
 owner: DGEFP et Pôle emploi
 sponsors:
   - domaine_ministeriel: affaires-sociales
     name: Ministère du Travail, de l'Emploi et de l'Insertion
     type: administration-centrale
 incubator: sgmas
-link: https://immersion-facile-1.gitbook.io/des-informations-pour-entreprises-et-organisations/
+link: https://immersion-facile.beta.gouv.fr/
 contact: contact@immersion-facile.beta.gouv.fr
 phases:
   - name: construction
@@ -31,7 +31,7 @@ Parce qu’il existe autant de formes de bilan qu’il y a de structures accompa
 
 ### La solution :
 
-Mettre à disposition des acteurs de l’orientation et de l’insertion professionnelle un commun numérique, “l’immersion facile.”
+Mettre à disposition des acteurs de l’orientation et de l’insertion professionnelle un commun numérique, “l’immersion facilitée.”
 Ce commun proposera :
 1/ La dématérialisation de la convention et, à terme, du bilan,
 
