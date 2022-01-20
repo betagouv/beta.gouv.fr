@@ -11,7 +11,7 @@ missions:
     status: independent
     employer: octo
   - start: 2021-11-01
-    end: 2022-07-01
+    end: 2022-04-01
     status: independent
     employer: benext
 startups:
