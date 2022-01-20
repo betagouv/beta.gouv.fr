@@ -1,16 +1,15 @@
 ---
 fullname: Gabriel Bolla
-role: UI/UX Designer 
 domaine: Design
+role: UI/UX Designer
 missions:
   - start: 2022-01-10
-    end: 2022-12-31
+    end: 2022-01-14
     status: independent
     employer: DINUM
-badges:
-  - segur
-startups :
-  - snu
+startups: []
+badges: null
+competences:
+  - UI
 ---
-
-UI/UX Designer 
+UI/UX Designer
