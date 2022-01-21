@@ -13,6 +13,8 @@ phases:
     start: 2018-11-26
   - name: construction
     start: 2019-02-01
+  - name : transfer
+    start : 2021-11-01
 link: http://comobi.fr
 repository: https://github.com/betagouv/neutre.comobi.fr
 stats: false
