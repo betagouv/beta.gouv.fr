@@ -8,6 +8,7 @@ sponsors:
     - name: Shom 
       type: autre
 incubator: dinum
+owner: Shom
 phases:
   - name: investigation
     start: 2021-10-07

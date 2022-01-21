@@ -10,7 +10,7 @@ missions:
     status: admin
     employer: Shom
 startups:
-  - SPPNaut
+  - sppnaut
 ---
 
 Ingénieure Hydrographe et docteur en traitement du signal et acoustique sous-marine
