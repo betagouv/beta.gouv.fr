@@ -1,11 +1,13 @@
 ---
-title: Programme national d'investigation (41)
+title: Partaj
 mission: Résorber lisolement des personnes agées par une autonomisation face aux moyens numériques
 owner: Agence nationale de la cohésion des territoires
 incubator: anct
 phases:
   - name: investigation
     start: 2020-06-01
+  - name: construction
+    start: 2021-11-01
 link: 
 repository: 
 stats: false
