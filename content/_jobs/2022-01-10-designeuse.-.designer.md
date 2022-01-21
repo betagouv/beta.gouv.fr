@@ -1,6 +1,6 @@
 ---
 roles: DESIGNEUSE - DESIGNER
-open: true
+open: false
 date: 2022-01-10T13:42:48.739Z
 startup: conseiller-numerique
 ---
