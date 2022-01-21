@@ -1,11 +1,13 @@
 ---
-title: Programme national d'investigation (2)
+title: Boursoloco
 mission: Recenser et cartographier les acteurs économiques du territoire
 owner: Agence nationale de la cohésion des territoires
 incubator: anct
 phases:
   - name: investigation
     start: 2020-06-01
+  - name: construction
+    start: 2021-11-01
 link: 
 repository: 
 stats: false
