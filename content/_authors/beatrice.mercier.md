@@ -17,6 +17,7 @@ missions:
     employer: dinum
 startups:
   - Delta V 
+  - sppnaut
 previously:
   - transport
   - participation-citoyenne
