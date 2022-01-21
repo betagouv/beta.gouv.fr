@@ -1,7 +1,6 @@
 ---
 roles: Première développeuse ou développeur fullstack
 startup: sppnaut
-techno: python
 open: true
 date: 2022-01-21
 ---
