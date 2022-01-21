@@ -1,6 +1,3 @@
-# offre emploi SPPNaut
-
-```
 ---
 roles: Première développeuse ou développeur fullstack
 startup: sppnaut
@@ -8,7 +5,6 @@ techno: python
 open: true
 date: 2022-01-21
 ---
-```
 
 [SPPNaut](https://beta.gouv.fr/startups/sppnaut.html) est une jeune Start-up d'État au service de la communauté maritime.
 Coralie (intrapreneuse au [Shom](https://www.shom.fr/)) et Raphaël (coach) recrutent le ou la première membre développeuse de l'équipe produit.
