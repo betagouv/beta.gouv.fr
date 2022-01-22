@@ -5,7 +5,7 @@ domaine: Produit
 github: clemhacks
 missions:
   - start: 2021-06-01
-    end: 2022-01-30
+    end: 2022-02-28
     status: service
     employer: Sopra Steria
 startups:
