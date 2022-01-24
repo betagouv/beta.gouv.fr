@@ -13,7 +13,7 @@ sponsors:
 incubator: dinum
 link: https://emplois.inclusion.beta.gouv.fr/
 repository: http://github.com/betagouv/itou
-contact: contact@inclusion.beta.gouv.fr
+contact: https://communaute.inclusion.beta.gouv.fr/aide/emplois/
 rgpd:
   responsable: DGEFP
   finalites:
