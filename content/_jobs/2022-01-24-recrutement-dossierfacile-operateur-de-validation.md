@@ -3,7 +3,7 @@ roles: Opérateur‧ice de validation
 startup: locatio
 open: true
 ---
-Afin de soutenir sa phase d’accélération et de répondre à ses objectifs de croissance utilisateurs pour 2021, la startup d’État DossierFacile recrute un‧e opérateur‧ice de validation.\
+Afin de soutenir sa phase d’accélération et de répondre à ses objectifs de croissance utilisateurs pour 2022, la startup d’État DossierFacile recrute un‧e opérateur‧ice de validation.\
 **Durée et date de début** : 3 mois reconductible, dès que possible\
 **Rythme de travail** : à temps plein\
 **Localisation** : En télétravail avec des réunions à La Défense (ateliers, réunions hebdo) 
@@ -41,5 +41,5 @@ _Poste ouvert le 08/02/2021_
 **Dates souhaitées** : Date de début — Dès que possible
 
 # Comment postuler ?
-Envoyez-nous votre candidature (en précisant votre taux journalier moyen) à <a href="mailto:arthur@dossierfacile.fr">arthur@dossierfacile.fr</a> en mettant en copie arthur@dossierfacile.fr avec votre motivation en quelques lignes dans le corps du texte, votre CV et tout ce que vous souhaitez nous communiquer qui nous permettrait de mieux vous connaître !\
+Envoyez-nous votre candidature (en précisant votre taux journalier moyen) à <a href="mailto:arthur@dossierfacile.fr">arthur@dossierfacile.fr</a> avec votre motivation en quelques lignes dans le corps du texte, votre CV et tout ce que vous souhaitez nous communiquer qui nous permettrait de mieux vous connaître !\
 Si vous avez des questions avant de postuler, n’hésitez pas à nous écrire !
