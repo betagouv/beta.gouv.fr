@@ -5,7 +5,7 @@ domaine: Déploiement
 github: Waltenberg03
 missions:
   - start: 2022-02-01
-    end: 2022-06-31
+    end: 2022-06-30
     status: independent
 startups:
   - matcha
