@@ -3,7 +3,7 @@ roles: Chargé.e de déploiement
 startup: itou.md
 junior: false
 open: true
-title: La Plateforme de l'inclusion recrute un ou une chargé.e de déploiement avec une spécialité "recrutement "
+title: La Plateforme de l'inclusion recrute un ou une chargé.e de déploiement avec une spécialité recrutement
 contrat: indépendant
 contact: julie.landes@beta.gouv.fr
 ---
