@@ -11,9 +11,9 @@ sponsors:
     domaine_ministeriel: travail
     type: operateur
 incubator: dinum
+contact: assistance@inclusion.beta.gouv.fr 
 link: https://emplois.inclusion.beta.gouv.fr/
 repository: http://github.com/betagouv/itou
-contact: https://communaute.inclusion.beta.gouv.fr/aide/emplois/
 rgpd:
   responsable: DGEFP
   finalites:
@@ -66,6 +66,9 @@ phases:
     start: 2020-07-10
 ---
 Aujourd'hui emplois.inclusion.beta.gouv.fr permet de mettre en relation des chercheurs d'emploi (aussi nommés candidats) auprès d'[employeurs solidaires](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/employeurs-solidaires) (entreprises, associations...). Les candidats peuvent également bénéficier de l'aide de [prescripteurs](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/prescripteurs-habilites) (Pôle emploi, Missions locales, Cap Emploi...).
+
+### Besoin d'aide dans l'utilisation du service ? 
+Voici un lien direct vers l'assistance : https://communaute.inclusion.beta.gouv.fr/aide/emplois/
 
 ### Contexte
 
