@@ -24,7 +24,7 @@ La Startup d'État Engagement Civique a pour mission de concevoir et de déploye
 2. une mission d’intérêt général de 84h tout au long de l’année ou de 12 jours consécutifs,
 3. la possibilité d’un engagement volontaire d’au moins 3 mois.
 
-**La Startup d’État s’agrandit et étoffe l’équipe du Service National Universel en recrutant un(e) chargé(e) d’assistance aux utilisateurs et d’animation des référents.**
+**La Startup d’État s’agrandit et étoffe l’équipe du Service National Universel en recrutant un(e) développeur(euse) full stack.**
 
 
 
