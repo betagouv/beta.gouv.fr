@@ -1,6 +1,6 @@
 ---
 roles: Chargé-e de déploiement
-open: true
+open: false
 date: 2021-12-21
 startup: aidantsconnect
 title: Aidants Connect recrute un-e chargé-e de déploiement
