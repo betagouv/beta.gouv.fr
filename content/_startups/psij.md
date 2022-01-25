@@ -4,7 +4,7 @@ mission: Systématiser la recherche d'indices et traces
 owner: Ministère de l'Intérieur
 sponsors: []
 incubator: lab-mi
-link: https://psij.interieur.gouv.fr/
+link: https://alpha-psij.interieur.gouv.fr/
 repository: null
 contact: psij@labmi.fr
 stats: false
