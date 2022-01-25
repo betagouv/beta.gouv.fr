@@ -90,4 +90,4 @@ L’équipe startup dédiée au SNU est composée d’experts du numérique et d
 
 \- Poste en CDD de 3 ans à pourvoir asap
 
-**\-** Candidature à adresser àPierre Oudot [pierre.oudot@jeunesse-sports.gouv.fr](mailto:pierre.oudot@jeunesse-sports.gouv.fr) et à [recrutement.djepva@jeunesse-sports.gouv.fr](mailto:recrutement.djepva@jeunesse-sports.gouv.fr)
+**\-** Candidature à adresser à Pierre Oudot <[pierre.oudot@jeunesse-sports.gouv.fr](mailto:pierre.oudot@jeunesse-sports.gouv.fr)> et à la DJEPVA <[recrutement.djepva@jeunesse-sports.gouv.fr](mailto:recrutement.djepva@jeunesse-sports.gouv.fr)>, et mettre en copie Joe Achkar <[joe.achkar@beta.gouv.fr](mailto:joe.achkar@beta.gouv.fr)> et Gabrielle Bouxin <[gabrielle.bouxin@beta.gouv.fr](mailto:gabrielle.bouxin@beta.gouv.fr)>.
