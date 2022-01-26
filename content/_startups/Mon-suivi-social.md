@@ -1,14 +1,16 @@
 ---
+title: Mon suivi social
 mission: Préfigurer un outil de suivi social pour les CCAS et secrétariats de mairies
 incubator: anct
 repository: null
 contact: contactincubateur@anct.gouv.fr
 stats_url: null
-title: Mon suivi social
 owner: Agence nationale de la cohésion des territoires
 link: null
 stats: false
 phases:
+  - name: investigation
+    start: 2020-06-01
   - name: construction
     start: 2021-04-01
     end: 2022-01-20
