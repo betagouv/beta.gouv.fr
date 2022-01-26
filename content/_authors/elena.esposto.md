@@ -1,14 +1,14 @@
 ---
 fullname: Eléna Esposto
-role: Responsable communication
 domaine: Autre
+role: Responsable communication
 missions:
   - start: 2021-10-04
-    end: 2021-12-31
+    end: 2022-12-31
     status: independent
     employer: Octo
 badges:
   - segur
+competences:
+  - Communication
 ---
-
-Habile en communication, mais pas que !
