@@ -27,7 +27,7 @@ Les utilisateurs de cette communauté sont des professionnels de l’inclusion :
 - Participer activement à la vie de l'équipe
 - Être force de proposition au sein de l'équipe sur les évolutions possibles du produit
 
-Lors des premiers chantiers, nous cherchons en particulier à:
+Lors des premiers chantiers, nous cherchons en particulier à :
 
  - **réduire le nombre de plugins tiers**, afin d’avoir plus de code propre et évolutif et moins contraint par les possibilités des plugins existants. Idéalement supprimer les gros plugins (buddyboss, elementor).
  - **créer un nouveau thème WordPress** en collaborations avec les designers. Ce thème reprendra [les éléments graphiques formalisés pour l’écosystème de l’inclusion](https://github.com/betagouv/itou-theme). Ils sont par exemple déjà utilisés sur [les emplois de l’inclusion](https://emplois.inclusion.beta.gouv.fr/) et [le marché de l’inclusion](https://lemarche.inclusion.beta.gouv.fr/).
@@ -35,7 +35,7 @@ Lors des premiers chantiers, nous cherchons en particulier à:
 ## Stack
 
 - PHP 8.0, WordPress 5.8
-- Plugins principaux: BuddyBoss, Elementor, BuddyPress, BBPress, BuddyForm et The Event Calendar
+- Plugins principaux : BuddyBoss, Elementor, BuddyPress, BBPress, BuddyForm et The Event Calendar
 - Infrastructure : PaaS [Clever Cloud](https://clever-cloud.com/)
 
 ## Nos bonnes pratiques :
