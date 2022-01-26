@@ -4,7 +4,7 @@ title: Itou recrute un développeur WordPress ou une développeuse WordPress
 contrat: indépendant
 startup: la communaute de linclusion
 contact: tech@inclusion.beta.gouv.fr
-open: true
+open: false
 ---
 
 # Itou recrute un développeur ou une développeuse WordPress
