@@ -26,13 +26,13 @@ verbatims:
     name: participant.e anonyme
     job: 
 metrics:
-  - value: 23
+  - value: 26
     text: sessions réalisées
-  - value: 493
+  - value: 553
     text: agents formés
   - value: 4,4/ 5
     text: de satisfaction des participants
-  - value: 89%
+  - value: 88%
     text: des participants la recommandent !
 redirect_from:
   - /alpha
