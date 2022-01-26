@@ -1,6 +1,6 @@
 ---
 roles: UNE DESIGNEUSE OU UN DESIGNER 🚚
-open: true
+open: false
 date: 2022-01-10T15:36:20.600Z
 startup: mobilic
 ---
