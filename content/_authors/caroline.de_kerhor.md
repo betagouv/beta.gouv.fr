@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/carolinedekerhor/
 github: carolinedekerhor
 missions:
   - start: 2019-06-17
-    end: 2021-12-31
+    end: 2030-12-31
     status: independent
 startups:
 - ozensemble
