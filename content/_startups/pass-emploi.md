@@ -8,7 +8,7 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: affaires-sociales
 incubator: sgmas
-link: web.pass-emploi.beta.gouv.fr
+link: https://web.pass-emploi.beta.gouv.fr
 repository: https://github.com/SocialGouv/pass_emploi_app
 contact: pass.emploi@beta.gouv.fr
 phases:
