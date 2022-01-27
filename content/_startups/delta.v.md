@@ -13,6 +13,8 @@ phases:
   - name: investigation
     end: 2021-11-18
     start: 2021-09-03
+    name : construction
+    start : 2021-12-20
 ---
 
 Delta V est un service à destination de toute personne voyageant à l’étranger.
