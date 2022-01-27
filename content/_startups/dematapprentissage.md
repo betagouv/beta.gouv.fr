@@ -1,10 +1,22 @@
 ---
-title: Le contrat public d'apprentissage dématérialisé 
+title: Le contrat d'apprentissage dématérialisé pour les employeurs publics
 mission: "Faciliter le processus administratif du dépôt de contrat d'apprentissage pour les employeurs publics"
 owner: Mission interministérielle pour l'apprentissage
+sponsors:
+  - name: "Ministère du travail, de l'emploi et de l'insertion "
+    type: administration-centrale
+    domaine_ministeriel: travail
 incubator: mission-apprentissage
 link: https://contrat.apprentissage.beta.gouv.fr/
-
+repository: 
+contact: apprentissage@beta.gouv.fr
+events: []
+phases:
+  - name: investigation
+    start: 2021-11-01
+    end: ""
+  - name : construction
+incubator: mission-apprentissage
 
 ---
 ## Constat
