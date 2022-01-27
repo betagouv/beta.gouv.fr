@@ -1,6 +1,6 @@
 ---
 roles: Coach Mesure d'Impact
-open: true
+open: false
 junior: true
 date: 2021-12-09T17:00:06.786Z
 ---
