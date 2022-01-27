@@ -16,7 +16,7 @@ missions:
     status: admin
     employer: dinum
 startups:
-  - Delta V 
+  - delta.v 
   - sppnaut
 previously:
   - transport
