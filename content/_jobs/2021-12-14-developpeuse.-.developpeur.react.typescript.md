@@ -1,6 +1,6 @@
 ---
 roles: Développeuse / développeur React + Typescript
-open: true
+open: false
 date: 2021-12-14T08:41:44.341Z
 startup: mon-entreprise
 ---
