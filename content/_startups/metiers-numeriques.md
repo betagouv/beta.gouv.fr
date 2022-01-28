@@ -31,7 +31,7 @@ L’enjeu d'attractivité est collectif, notre objectif est d'y répondre de la 
 
 ### Problèmes identifiés
 
-**Pour les recruteurs** :
+**Pour les recruteur·ses** :
 
 - Comment rendre visibles et accessibles les offres de missions pour les profils ciblés ?
 - De quelle façon révéler les missions porteuses de sens proposées au sein de l'État dans le domaine du numérique ?
