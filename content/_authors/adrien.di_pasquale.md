@@ -14,12 +14,14 @@ missions:
   - start: 2021-10-20
     end: 2021-12-08
     status: independent
-startups: []
+  - start: 2022-01-28
+    end: 2022-08-01
+    status: independent
+startups: [collectif_objets]
 previously:
   - lapins
   - codedutravail
   - enfants-du-spectacle
 competences:
-  - Développement Backend
-  - Développement Frontend
+  - Développement fullstack
 ---
