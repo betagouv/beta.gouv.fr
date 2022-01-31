@@ -48,13 +48,13 @@ Pour les incubateurs, les fonds seront utilisables en coaching pour l’investig
 
 ## Quelles sont les conditions d'éligibilité ?
 
-Pour le ticket de cofinancement pour la construction d'une Startup d’État - maximum 150k€ en cofinancement (1€ pour 1€)
+###Pour le ticket de cofinancement pour la construction d'une Startup d’État - maximum 150k€ en cofinancement (1€ pour 1€)
 * avoir un produit déjà en production (services numériques en ligne, avec de premiers utilisateurs satisfaits)
 * avoir un produit open source
 * avoir un produit encore peu mature qui nécessite des ajustements avant le passage à l'échelle 
 
-Pour le ticket de cofinancement pour l’accélération d'une Startup d’État - max 300k€ en cofinancement (1€ pour 1€). 
 
+###Pour le ticket de cofinancement pour l’accélération d'une Startup d’État - max 300k€ en cofinancement (1€ pour 1€). 
 * Avoir un produit open source
 * Avoir mis en place une solution à un problème de politique publique ou une initiative locale qui pourrait passer à l’échelle grâce au levier du numérique
 * Si la solution est numérique, avoir ouvert le code du logiciel (open source)
@@ -92,15 +92,14 @@ Pour la création d'incubateur de Startups d'État, il s'agira d'un passafe en c
 
 ## Comment remplir le dossier de candidature ?
 
-Si vous êtes candidat pour l'accélération d'un produit, le dossier doit préciser clairement :  
+Si vous êtes candidat pour l'accélération d'un produit, le dossier doit préciser clairement :
 * Le problème auquel la solution répond
 * La solution mise en place 
 * Son impact sur le réel chiffré
 * Les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois
 L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de transfert du service
 
-
-Si vous êtes candidat pour la création d'un incubateur, le dossier doit préciser clairement :   
+Si vous êtes candidat pour la création d'un incubateur, le dossier doit préciser clairement :
 * Le problème auquel la création de l'incubateur répond
 * Le rattachement hiérarchique de l'incubateur 
 * Les ressources qui seront mobilisées 
@@ -137,8 +136,7 @@ Si vous avez déjà été lauréat du FAST en phase de construction, vous pouvez
 
 ## Comment candidater ?
  
-[Vous pouvez candidater ici en tant que Startup d'État.](https://www.demarches-simplifiees.fr/commencer/fast2022)
-[Vous pouvez candidater ici en tant que Ministère ou Opérateur de Sécurité Sociale](https://www.demarches-simplifiees.fr/commencer/incubateurs-fast)
+Vous pouvez candidater [ici en tant que Startup d'État.](https://www.demarches-simplifiees.fr/commencer/fast2022) ou [ici en tant que Ministère ou Opérateur de Sécurité Sociale.](https://www.demarches-simplifiees.fr/commencer/incubateurs-fast)
 
 ## J’ai une question, qui puis-je contacter ?
 
