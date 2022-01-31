@@ -37,18 +37,24 @@ A terme le produit permettra de gérer les demandes des porteurs de projet, d'ac
 
 ## Impact attendu
 
-Ils sont de 3 ordres : 
+Ils sont de 3 ordres. 
 
-- Financier : On estime qu'environ un millier de collectivités et d'EPCI dépensent plusieurs milliers d'euros par an (voir plusieurs dizaines de milliers) pour accéder à des logiciels privés basés sur des bases de données publiques. C'est sans compter les couts supplémentaires pour actualiser les données chaque année.
+### Financier
+
+On estime qu'environ un millier de collectivités et d'EPCI dépensent plusieurs milliers d'euros par an (voir plusieurs dizaines de milliers) pour accéder à des logiciels privés basés sur des bases de données publiques. C'est sans compter les couts supplémentaires pour actualiser les données chaque année.
 
 Parfois datés et souvent très complexes à utiliser, les équipes de développement économique ne s'en servent que marginalement et continuent à travailler sur des tableaux excels partagés en interne. 
 
 **C'est donc une perte estimée de plus de 6 millions d'euros par an, et environ 150 ETP.**
 
-- Connaissance du territoire : Compte tenu du manque d'informations sur les entreprises de leurs territoires, **environ 20 à 25% des entreprises sont inconnues des services de développement économique.** Les collectivités se concentrent donc essentiellement sur les entreprises qui les sollicitent, et insuffisamment sur les entreprises qui nécessiterait plus accompagnement (financement, mises en relation, aide au recrutement, formation...).
+### Connaissance du territoire
+
+Compte tenu du manque d'informations sur les entreprises de leurs territoires, **environ 20 à 25% des entreprises sont inconnues des services de développement économique.** Les collectivités se concentrent donc essentiellement sur les entreprises qui les sollicitent, et insuffisamment sur les entreprises qui nécessiterait plus accompagnement (financement, mises en relation, aide au recrutement, formation...).
 
 L'objectif est donc d'augmenter le nombre d'entreprises en portefeuille pour les développeurs économiques et de leur permettre de se concentrer pleinement sur leur activité première.
 
-- Lutte contre la vacance : Par manque d'informations sur les commerces et surtout sur les propriétaires des locaux, souvent difficiles à retrouver ou même à contacter, les collectivités usent de stratégème couteux en terme de temps et d'argent pour les inciter à mettre ou remettre des biens sur le marché (particulièrement pour les villes urbaines et péri urbaine), avec des résultats mitigés.
+### Lutte contre la vacance commerciale
+
+Par manque d'informations sur les commerces et surtout sur les propriétaires des locaux, souvent difficiles à retrouver ou même à contacter, les collectivités usent de stratagèmes couteux en terme de temps et d'argent pour inciter à mettre ou remettre des biens sur le marché (particulièrement pour les villes urbaines et péri urbaine), avec des résultats mitigés.
 
 L'objectif est de donner accès, à terme, à des données de contact fiables, et en premier lieu de suivre l'évolution de ces locaux et de leurs occupants.
