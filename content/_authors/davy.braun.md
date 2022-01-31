@@ -6,7 +6,7 @@ github: dheavy
 link: https://davybraun.com
 missions:
   - start: 2021-09-02
-    end: 2022-01-31
+    end: 2022-01-27
     status: independent
     employer: BENEXT
 startups:
