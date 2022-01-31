@@ -7,7 +7,7 @@ redirect_from:
   - /fast
 ---
 
-<img src="https://blog.beta.gouv.fr/img/posts/2021_06_29_1200x627_fast_8nov_visuel_linkedin.jpg" alt="Image de présentation du FAST" style="width:100%;" />
+<img src="https://blog.beta.gouv.fr/8034cfca-f66e-484a-83f4-cfebb75c269c" alt="Image de présentation du FAST" style="width:100%;" />
 
 Le guichet permanent du Fonds d’accélération des Startups d’État et de Territoire (FAST) vise à cofinancer des services publics numériques en phase d’accélération qui ont pour but de résoudre des problèmes de politiques publiques.  
 
@@ -137,7 +137,8 @@ Si vous avez déjà été lauréat du FAST en phase de construction, vous pouvez
 
 ## Comment candidater ?
  
-[Vous pouvez candidatez ici.]
+[Vous pouvez candidater ici en tant que Startup d'État.](https://www.demarches-simplifiees.fr/commencer/fast2022)
+[Vous pouvez candidater ici en tant que Ministère ou Opérateur de Sécurité Sociale](https://www.demarches-simplifiees.fr/commencer/incubateurs-fast)
 
 ## J’ai une question, qui puis-je contacter ?
 
