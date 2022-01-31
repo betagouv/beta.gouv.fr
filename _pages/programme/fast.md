@@ -7,7 +7,7 @@ redirect_from:
   - /fast
 ---
 
-<img src="https://blog.beta.gouv.fr/img/posts/2021_06_29_1200x627_fast_8nov_visuel_linkedin.jpg" alt="Image de présentation du FAST" style="width:100%;" />
+<img src="https://blog.beta.gouv.fr/img/posts/FAST_2400x448-nom-du-fonds.jpg" alt="Image de présentation du FAST" style="width:100%;" />
 
 Le guichet permanent du Fonds d’accélération des Startups d’État et de Territoire (FAST) vise à cofinancer des services publics numériques en phase d’accélération qui ont pour but de résoudre des problèmes de politiques publiques.  
 
