@@ -11,7 +11,7 @@ missions:
   - employer: Dinum
     start: 2022-03-15
     end: 2023-12-31
-    status: contractuel
+    status: admin
 previously:
   - tchap
 badges:
