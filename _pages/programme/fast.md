@@ -55,7 +55,7 @@ Pour le ticket de cofinancement pour la construction d'une Startup d’État - m
 
 Pour le ticket de cofinancement pour l’accélération d'une Startup d’État - max 300k€ en cofinancement (1€ pour 1€). 
 
-Produits open source
+* Avoir un produit open source
 * Avoir mis en place une solution à un problème de politique publique ou une initiative locale qui pourrait passer à l’échelle grâce au levier du numérique
 * Si la solution est numérique, avoir ouvert le code du logiciel (open source)
 * Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée (avec une page /stats) 
@@ -137,7 +137,8 @@ Si vous avez déjà été lauréat du FAST en phase de construction, vous pouvez
 
 ## Comment candidater ?
  
-[Vous pouvez candidatez ici.]
+[Vous pouvez candidater ici en tant que Startup d'État.](https://www.demarches-simplifiees.fr/commencer/fast2022)
+[Vous pouvez candidater ici en tant que Ministère ou Opérateur de Sécurité Sociale](https://www.demarches-simplifiees.fr/commencer/incubateurs-fast)
 
 ## J’ai une question, qui puis-je contacter ?
 
