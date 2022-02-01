@@ -11,7 +11,8 @@ redirect_from:
 
 Le Fonds d’accélération des Startups d’État et de Territoire (FAST), porté par la Direction interministérielle du numérique, vise à cofinancer des services publics numériques conçus [selon l'approche Startup d'État](https://beta.gouv.fr/approche). 
 
-En 2022, l'appel à candidatures est ouvert toute l'année. Les dossiers seront relevés au fil de l'eau et feront l'objet d'une réponse sous 6 semaines maximum. 
+En 2022, l'appel à candidatures sera ouvert toute l'année.
+Les dossiers seront relevés au fil de l'eau et feront l'objet d'une réponse sous 6 semaines maximum. 
 
 ## Qu’est-ce que beta.gouv.fr ?
 
