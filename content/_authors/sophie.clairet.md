@@ -1,15 +1,17 @@
 ---
 fullname: Sophie Clairet
-role: Chargée de déploiement
 domaine: Déploiement
+role: Chargée de déploiement
 link: https://geosophie.eu
 missions:
   - start: 2020-09-01
-    end: 2021-12-31
+    end: 2022-12-31
     status: independent
     employer: Living Data
 badges:
   - segur
+competences:
+  - Communication
+  - Administration Publique
 ---
-
-Chargée de déploiement pour la startup d’État Bases Adresses Locales (ANCT), et d'autres vies de géographe, Via Domitia au cœur. 
+Chargée de déploiement pour la startup d’État BAL (ANCT)
