@@ -26,18 +26,18 @@ Le montant du ticket global devra être consacré à des dépenses liées à l�
 
 ## Quelles sont les conditions d'éligibilité ?
 
-#### Pour le ticket de cofinancement pour la construction d'une Startup d’État - maximum 150k€ en cofinancement (1€ pour 1€)
+**Pour le ticket de cofinancement pour la construction d'une Startup d’État - maximum 150k€ en cofinancement (1€ pour 1€)**
 * produit déjà en production (services numériques en ligne, avec de premiers utilisateurs satisfaits)
 * produit open source et conforme [aux standards techniques du programme beta.gouv](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr)
 * produit encore peu mature qui nécessite des ajustements avant le passage à l'échelle
 
-#### Pour le ticket de cofinancement pour l’accélération d'une Startup d’État - max 300k€ en cofinancement (1€ pour 1€)
+**Pour le ticket de cofinancement pour l’accélération d'une Startup d’État - max 300k€ en cofinancement (1€ pour 1€)**
 * produit open source et conforme [aux standards techniques du programme beta.gouv](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr)
 * impact mesuré de façon chiffrée (avec une page /stats publique), qui prouve l'utilité du service pour ses utilisateurs
 * volonté de l'administration porteuse de faire passer ce produit à l’échelle avec une stratégie de déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service) et des moyens adaptés. Les critères d'un produit considéré en "phase d'accélération" sont détaillés [à cette page](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration)
 * les Startups d'État ayant déjà bénéficié d’un ticket de construction devront présenter leur bilan d'impact suite au premier cofinancement FAST.
 
-#### Pour le ticket de financement de lancement d'un incubateur de Startups d'État - max 200k€
+**Pour le ticket de financement de lancement d'un incubateur de Startups d'État - max 200k€**
 * Ouvert à toutes les administrations publiques d’Etat et aux opérateurs de Sécurité Sociale
 * Avoir identifié de premiers problèmes à résoudre pouvant faire l'objet de Startups d'État
 
@@ -67,14 +67,16 @@ Cet investissement pourra par exemple permettre de :
 * Tester de nouveaux canaux de diffusion 
 * Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages
 * Accompagner cette mise en oeuvre de façon opérationnelle
-* ...
+
 En 2022, les lauréats du FAST auront également accès à un accompagnement spécifique aux enjeux d'accélération par les [coachs Gamma](https://beta.gouv.fr/approche/acceleration) : 
 - formation Gamma aux enjeux de l’accélération pour les lauréats ;
 - accompagnement Gamma plus intensif et plus long par des coachs choisis par la DINUM, sur demande du comité d'investissement FAST, pour les produits en phase d'“accélération” ; l’accompagnement est financé sur les fonds obtenus en cofinancement. 
 
 ## Mon produit a déjà été lauréat du FAST. Puis-je candidater de nouveau ? 
 Les lauréats des FAST 2019-2020 ne peuvent repostuler en 2022 : ils sont invités à [postuler aux guichets du plan de Relance](https://france-relance.transformation.gouv.fr/).
-Si vous avez déjà été lauréat du FAST en phase d'accélération, nous vous invitons à postuler au [Plan de Relance](https://france-relance.transformation.gouv.fr/). 
+
+Si vous avez déjà été lauréat du FAST en phase d'accélération, nous vous invitons à postuler au [Plan de Relance](https://france-relance.transformation.gouv.fr/).
+
 Si vous avez déjà été lauréat du FAST en phase de construction, vous pouvez candidater à nouveau. 
 
 ## Quels projets ne sont pas éligibles au FAST ? 
