@@ -45,13 +45,15 @@ On estime qu'environ un millier de collectivités et d'EPCI dépensent plusieurs
 
 Parfois datés et souvent très complexes à utiliser, les équipes de développement économique ne s'en servent que marginalement et continuent à travailler sur des tableaux excels partagés en interne. 
 
-**C'est donc une perte estimée de plus de 6 millions d'euros par an, et environ 150 ETP.**
+**On estime que plus de 6 millions d'euros peuvent être économisés par an avec cette solution.**
 
 ### Connaissance du territoire
 
 Compte tenu du manque d'informations sur les entreprises de leurs territoires, **environ 20 à 25% des entreprises sont inconnues des services de développement économique.** Les collectivités se concentrent donc essentiellement sur les entreprises qui les sollicitent, et insuffisamment sur les entreprises qui nécessiterait plus accompagnement (financement, mises en relation, aide au recrutement, formation...).
 
 L'objectif est donc d'augmenter le nombre d'entreprises en portefeuille pour les développeurs économiques et de leur permettre de se concentrer pleinement sur leur activité première.
+
+**On estime que 150 ETP peuvent être mobilisés pour accompagner les entreprises sur les territoires avec cette solution.**
 
 ### Lutte contre la vacance commerciale
 
