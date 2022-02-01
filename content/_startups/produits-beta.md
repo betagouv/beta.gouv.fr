@@ -53,7 +53,7 @@ Pour garantir le niveau de qualité / respect des standards dans les différente
 Cette équipe:
  - :handshake: accompagnera les produits pour qu'ils disposent des meilleurs outils sur les différents axes
      - accompagnement au recrutement
-     - cauchemard a beta
+     - cauchemar a beta
      - outils partagés (dashlord, sentry, kit de démarrage, gitguardian)
      - atelier d'analyse de risques
      - audit CNIL factices / accompagnement juridique
