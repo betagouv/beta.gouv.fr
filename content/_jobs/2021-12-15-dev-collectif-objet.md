@@ -2,7 +2,7 @@
 startup: Collectif objets
 title: "Dev full stack pour la start-up d'État Collectif Objets (Ministère de la Culture)"
 roles: "Dev full stack pour la start-up d'État Collectif Objets (Ministère de la Culture)"
-open: true
+open: false
 ---
 
 
