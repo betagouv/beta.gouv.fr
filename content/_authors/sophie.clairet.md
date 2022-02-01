@@ -8,6 +8,8 @@ missions:
     end: 2022-12-31
     status: independent
     employer: Living Data
+startups:
+  - ban
 badges:
   - segur
 competences:
