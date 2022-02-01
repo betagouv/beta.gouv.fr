@@ -16,6 +16,7 @@ startups:
     - diagoriente
     - classe12
     - anti-gaspi-cantine
+    - metiers-numeriques
 previously:
   - demarches-simplifiees.fr
   - trait-d-union
