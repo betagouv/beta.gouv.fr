@@ -105,7 +105,7 @@ Si vous avez déjà été lauréat du FAST en phase de construction, vous pouvez
 
 ## Comment candidater ?
  
-Vous pouvez candidater [ici en tant que Startup d'État.](https://www.demarches-simplifiees.fr/commencer/fast2022) ou [ici en tant que Ministère ou Opérateur de Sécurité Sociale.](https://www.demarches-simplifiees.fr/commencer/incubateurs-fast)
+Vous pouvez candidater [ici en tant que Startup d'État.](https://www.demarches-simplifiees.fr/commencer/fast2022) ou [ici en tant qu'Administration d'État ou Opérateur de Sécurité Sociale.](https://www.demarches-simplifiees.fr/commencer/incubateurs-fast)
 
 ## J’ai une question, qui puis-je contacter ?
 
