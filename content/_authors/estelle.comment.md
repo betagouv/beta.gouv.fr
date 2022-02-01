@@ -17,7 +17,7 @@ missions:
     status: admin
     employer: dinum
   - start: 2021-11-23
-    end: 2022-01-31
+    end: 2022-04-30
     status: independent
     employer: Malt
 startups:
