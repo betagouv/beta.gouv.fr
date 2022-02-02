@@ -68,7 +68,7 @@ Tu rejoins une équipe composée de dix personnes amenée à grandir :
 - deux développeurs
 - un designer
 - un chargé de croissance
-- une chargée et un chargé de déploiement
+- une chargée et un chargé de déploiement 
 
 L’équipe est dispersée à travers la France, et travaille principalement à distance, mais on essaye de se retrouver en présentiel (une fois tous les mois et demi environ) et d’aller régulièrement à la rencontre des utilisateurs.
 
