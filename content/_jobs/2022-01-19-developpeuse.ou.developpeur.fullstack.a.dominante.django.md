@@ -81,6 +81,6 @@ L’équipe est dispersée à travers la France, et travaille principalement à 
 
 ## ta candidature 
 
-Pour postuler, envoie-nous un petit message à [dora@beta.gouv.fr](mailto:dora@beta.gouv.fr?cc=recrutement@beta.gouv.fr&subject=candidature%20dev%20senior), avec recrutement@beta.gouv.fr en copie, en nous expliquant ce qui te motive à bosser sur Dora ! Tu peux ajouter au choix : ton CV, un lien vers ton profil github, site perso, LinkedIn, Malt ou équivalent...
+Pour postuler, envoie-nous un petit message à [dora@beta.gouv.fr](mailto:dora@beta.gouv.fr?cc=recrutement@beta.gouv.fr&subject=CANDIDATURE%20DEV), avec recrutement@beta.gouv.fr en copie, en nous expliquant ce qui te motive à bosser sur Dora ! Tu peux ajouter au choix : ton CV, un lien vers ton profil github, site perso, LinkedIn, Malt ou équivalent...
 
 On te recontactera rapidement par mail pour convenir d’un rendez-vous avec l’équipe !
