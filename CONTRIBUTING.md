@@ -99,10 +99,14 @@ Les pré requis d execution sont d avoir les logiciels suivants installés:
 
 Pour lancer son environnement local:
 ```bash
-# generation des fichiers et execution des tests
+# generation des fichiers
 make build
+# execution des tests
+make test
 # lancement de jekyll
 make up
+# arret de jekyll
+make down
 ```
 
 Le site beta.gouv est accessible en local sur `http://localhost:4000`
