@@ -52,4 +52,3 @@ module Jekyll
   end
     
     Liquid::Template.register_tag('render_startups_api', Jekyll::RenderStartupsApi)
-  
