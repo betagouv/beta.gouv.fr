@@ -9,7 +9,7 @@ repository: https://github.com/MTES-MCT/apilos
 contact: contact@apilos.beta.gouv.fr
 redirect_from:
   - /startups/appel
-stats: false
+stats: true
 events:
   - name: product_launch
     date: 2021-09-15
