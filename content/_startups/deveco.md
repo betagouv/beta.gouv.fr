@@ -17,7 +17,7 @@ contact: karel.cloarec@beta.gouv.fr
 
 ## Le contexte
 
-Dans le cadre des activités de l'incubateur des territoires de l'Agence Nationale de la Cohésion des Territoires (ANCT), 2 investigations on été menées en 2021 : l'une sur l'analyse de l'activité économique dans les Quartiers de la Politique de la Ville (QPV), et l'autre sur la vacance commerciale,  en collaboration avec la ville des Lilas.
+Dans le cadre des activités de l'incubateur des territoires de l'Agence Nationale de la Cohésion des Territoires (ANCT), 2 investigations ont été menées en 2021 : l'une sur l'analyse de l'activité économique dans les Quartiers de la Politique de la Ville (QPV), et l'autre sur la vacance commerciale,  en collaboration avec la ville des Lilas.
 
 Il est ressorti comme primordial pour les collectivités de pouvoir accéder aux données des entreprises sur leurs territoires et de pouvoir suivre leurs relations avec elles de manière précise et collaborative.
 
