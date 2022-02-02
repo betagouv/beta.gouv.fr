@@ -38,7 +38,11 @@ module Jekyll
         startups.docs.each do |startup|
           startupId = startup.id.gsub('/startups/', '')
           if !result[startupId]
-            result[startupId] = {}
+            result[startupId] = {
+                 'active_members' => Array.new,
+                 'previous_members' => Array.new,
+                 'expired_members' => Array.new
+            }
           end
           result[startupId]["id"] = startupId
           result[startupId]['name'] = startup['title']
