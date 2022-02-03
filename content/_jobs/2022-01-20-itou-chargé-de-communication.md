@@ -2,7 +2,7 @@
 roles: Chargé.e de communication
 startup: La.Plateforme.de.l'inclusion
 junior: false
-open: true
+open: false
 title: La Plateforme de l'inclusion recrute un ou une chargé.e de communication expérimenté(e)
 contrat: indépendant
 contact: julie.landes@beta.gouv.fr
