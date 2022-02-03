@@ -74,7 +74,7 @@ L’équipe est dispersée à travers la France, et travaille principalement à 
 
 - Contrat : indépendant (portage possible)
 - TJM envisagé : 350-550 € selon expérience (voir [grille de rémunération Beta Gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/remuneration))
-- Charge : quatre jours par semaine (l'équipe est OFF le vendredi)
+- Charge : quatre jours par semaine (l'équipe est OFF le vendredi) 
 - Emplacement : télétravail complet (full remote)
 - Date de début souhaitée : courant février 2022
 - Date de fin (potentiellement reconductible) : fin avril 2022
@@ -83,4 +83,4 @@ L’équipe est dispersée à travers la France, et travaille principalement à 
 
 Pour postuler, envoie-nous un petit message à [dora@beta.gouv.fr](mailto:dora@beta.gouv.fr?cc=recrutement@beta.gouv.fr&subject=CANDIDATURE%20DEV), avec recrutement@beta.gouv.fr en copie, en nous expliquant ce qui te motive à bosser sur Dora ! Tu peux ajouter au choix : ton CV, un lien vers ton profil github, site perso, LinkedIn, Malt ou équivalent...
 
-On te recontactera rapidement par mail pour convenir d’un rendez-vous avec l’équipe !
+On te recontactera rapidement par mail pour convenir d’un rendez-vous avec l’équipe!
