@@ -6,7 +6,7 @@ module Jekyll
       incubators = context.registers[:site].collections['incubators']
       now = Date.today
       startups.docs.each do |startup|
-        incubator = startup.incubator
+        incubator = startup["incubator"]
         if incubator
           if !result[incubator]
             result[incubator] = {
@@ -15,11 +15,11 @@ module Jekyll
           end
           result[incubator]['startups'].push({
             "id" => startup.id.gsub('/startups/', ''),
-            "name" => startup.title,
-            "pitch" => startup.mission,
+            "name" => startup["title"],
+            "pitch" => startup["mission"],
             "repository" => startup["repository"],
-            "contact" => startup.contact,
-            "phases" => startup.phases,
+            "contact" => startup["contact"],
+            "phases" => startup["phases"],
           })
         end
       end

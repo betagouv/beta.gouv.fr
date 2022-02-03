@@ -48,7 +48,7 @@ module Jekyll
           result[startupId]['name'] = startup['title']
           result[startupId]['repository'] = startup['repository']
           result[startupId]['contact'] = startup['contact']
-          result[startupId]['phases'] = startup.phases
+          result[startupId]['phases'] = startup['phases']
         end
         return JSON.pretty_generate(result)
       end
