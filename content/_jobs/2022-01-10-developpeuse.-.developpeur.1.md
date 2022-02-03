@@ -1,6 +1,6 @@
 ---
 roles: UNE DÉVELOPPEUSE OU UN DÉVELOPPEUR FULLSTACK PYTHON + REACT 🚚
-open: true
+open: false
 date: 2022-01-10T14:14:00.530Z
 startup: mobilic
 ---
