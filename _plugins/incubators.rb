@@ -35,7 +35,7 @@ module Jekyll
         result[incubatorName]['website'] = incubator['website']
         result[incubatorName]['github'] = incubator['github']
       end
-      return result.to_json
+      return JSON.pretty_generate(result)
     end
   end
 end

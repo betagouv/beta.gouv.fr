@@ -50,7 +50,7 @@ module Jekyll
           result[startupId]['contact'] = startup['contact']
           result[startupId]['phases'] = startup.phases
         end
-        return result.to_json
+        return JSON.pretty_generate(result)
       end
     end
   end
