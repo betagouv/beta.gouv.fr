@@ -10,6 +10,7 @@ missions:
 startups:
     - clara
     - la-bonne-alternance
+    - dematapprentissage
 ---
 
 
