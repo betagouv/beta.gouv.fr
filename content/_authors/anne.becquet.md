@@ -10,4 +10,5 @@ missions:
 startups:
   - catalogue-apprentissage
   - annuaire-apprentissage
+  - uai_siret
 ---
