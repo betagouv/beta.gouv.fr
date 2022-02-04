@@ -8,5 +8,6 @@ missions:
     status: service
 startups:
   - matcha
+  - rdv.apprentissage
 ---
 
