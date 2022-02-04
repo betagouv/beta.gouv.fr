@@ -9,6 +9,7 @@ missions:
     status: independent
 startups:
   - matcha
+  - rdv.apprentissage
 badges:
   - segur
 ---
