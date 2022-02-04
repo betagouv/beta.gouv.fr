@@ -1,20 +1,21 @@
 ---
 title: Pass emploi
-mission: "Aider les jeunes à trouver un emploi"
+mission: Aider les jeunes à trouver un emploi
 owner: Ministère du Travail, de l'Emploi et de l'Insertion
-repository: https://github.com/SocialGouv/pass_emploi_app
 sponsors:
   - name: Délégation générale à l'emploi et à la formation professionnelle
     acronym: DGEFP
     type: administration-centrale
     domaine_ministeriel: affaires-sociales
 incubator: sgmas
+link: https://web.pass-emploi.beta.gouv.fr
+repository: https://github.com/SocialGouv/pass_emploi_app
 contact: pass.emploi@beta.gouv.fr
 phases:
   - name: investigation
     start: 2021-06-09
     end: 2021-09-30
-  - name: construction 
+  - name: construction
     start: 2021-09-30
     end: 2022-03-30
 ---
