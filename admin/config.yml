@@ -49,6 +49,8 @@ date_field_defaults: &date_field_defaults
 collections:
   - name: startups
     publish: false
+    format: yaml-frontmatter
+    extension: md
     label: Produits
     preview_path: "startups/{{slug}}"
     label_singular: Produit
