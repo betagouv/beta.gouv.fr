@@ -49,7 +49,7 @@ date_field_defaults: &date_field_defaults
 collections:
   - name: startups
     publish: false
-    format: yaml-frontmatter
+    format: frontmatter
     extension: md
     label: Produits
     preview_path: "startups/{{slug}}"
