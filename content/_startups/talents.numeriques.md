@@ -1,18 +1,19 @@
 ---
 title: Talents numériques
 mission: Créer une communauté de partage, valoriser les expertises des agents du
-  numérique et faciliter la mise en relation
+  numérique et faciliter la mise en relation.
 owner: DINUM
 incubator: dinum
 contact: sandrine.rodriguez@modernisation.gouv.fr
+events:
+  - name: end
+    date: 2021-10-01
 phases:
   - name: construction
     start: 2021-09-01
     end: 2021-12-31
   - name: alumni
-events:
-  - name: end
-    date: 2021-10-01
+    start: 2021-12-31
 ---
 ## Contexte
 
