@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Pole emploi
 startups:
-  - pole-emploi-action
+  - mes-evenements-emploi
 previously:
   - estime
 competences :
@@ -20,4 +20,4 @@ competences :
   - Product strategy
 ---
 Product UX strategy, UX research, Experience designer Freelance
- 
+

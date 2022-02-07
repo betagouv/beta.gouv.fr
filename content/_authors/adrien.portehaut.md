@@ -9,7 +9,7 @@ missions:
     status: service
     employer: Pôle emploi
 startups:
-  - pole-emploi-action
+  - mes-evenements-emploi
 previously:
   - la-bonne-boite
   - la-bonne-formation
