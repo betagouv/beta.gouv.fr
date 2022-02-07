@@ -11,7 +11,7 @@ missions:
     status: independent
   - employer: La Zone
     start: 2021-09-01
-    end: 2021-11-12
+    end: 2022-02-28
     status: independent
   - employer: BeNext
     start: 2021-11-15
@@ -19,7 +19,7 @@ missions:
     status: independent
   - employer: LittleBig Connection
     start: 2021-11-15
-    end: 2022-02-11
+    end: 2022-02-28
     status: independent
 startups:
   - inca

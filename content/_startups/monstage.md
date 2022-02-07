@@ -13,6 +13,8 @@ phases:
     start: 2018-12-01
   - name: construction
     start: 2018-12-01
+  - name: acceleration
+    start: 2021-01-01
 link: https://www.monstagedetroisieme.fr/
 repository: https://github.com/betagouv/monstage
 stats: false

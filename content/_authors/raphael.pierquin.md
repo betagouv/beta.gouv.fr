@@ -12,6 +12,7 @@ missions:
       employer: ut7
 startups:
     - l-immersion-facile
+    - sppnaut
 
 previously:
     - zam

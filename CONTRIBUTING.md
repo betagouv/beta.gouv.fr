@@ -89,6 +89,28 @@ Les fichiers pertinents pour une modification de la présentation sont probablem
 
 Afin de minimiser les écarts entre les versions de développement et les versions de production, ce dépôt contient un fichier `Gemfile` (spécification des versions minimum des dépendances), comme beaucoup de dépôts Ruby.
 
+### Environnement local de developpement avec docker
+Un environnement de developpement local basé sur docker, est disponible.
+
+Les pré requis d execution sont d avoir les logiciels suivants installés:
+- Makefile
+- docker
+- docker-compose
+
+Pour lancer son environnement local:
+```bash
+# generation des fichiers
+make build
+# execution des tests
+make test
+# lancement de jekyll
+make up
+# arret de jekyll
+make down
+```
+
+Le site beta.gouv est accessible en local sur `http://localhost:4000`
+
 ## Relire les changements
 
 Pour encourager les contributions, éviter les erreurs d'inattention, et se mettre d'accord collectivement sur le contenu publié au nom de l'incubateur, chaque modification doit être relue et approuvée par une autre personne que l'auteur avant d’être intégrée.
@@ -101,7 +123,7 @@ Pour les relectures de code, il vaut mieux choisir une personne ayant un peu l'h
 
 1. **Ouvrir une <abbr title="Demande de modification sur GitHub">pull request</abbr>**, sans mentionner de relecteur explicitement. Les relecteurs potentiels vont recevoir une notification, et peuvent s'auto-assigner la relecture.
 2. **Si plusieurs jours s'écoulent sans relecture** (entre 2 et 5 jours, à la louche), ajouter un commentaire à la pull request, en demandant explicitement une relecture à un relecteur potentiel.
-3. **Si plusieurs jours s'écoulent à nouveau**, contacter directement un relecteur potentiel (par exemple par message privé sur le [Slack de l'incubateur](https://github.com/betagouv/beta.gouv.fr/wiki/Slack), ou en présentiel dans les locaux de _beta.gouv.fr_).
+3. **Si plusieurs jours s'écoulent à nouveau**, contacter directement un relecteur potentiel (par exemple par message privé ou public sur le [Mattermost de l'incubateur](https://mattermost.incubateur.net), ou en présentiel dans les locaux de _beta.gouv.fr_).
 
 ### Conseils pour les relecteurs
 
@@ -113,7 +135,7 @@ Pour les relectures de code, il vaut mieux choisir une personne ayant un peu l'h
 
 ### Prévisualisation (staging)
 
-Chaque pull request est déployée dans Netlify, une fois le [build passé](https://circleci.com/gh/betagouv/beta.gouv.fr). Vous pouvez la retrouver dans la partie des "Checks" au nom de *deploy/netlify*. Vous pouvez suivre le lien associé pour accéder à la version de l'application correspondant à la pull request.
+Chaque pull request est déployée dans Netlify, une fois le [build passé](https://github.com/betagouv/beta.gouv.fr/actions). Vous pouvez la retrouver dans la partie des "Checks" au nom de *deploy/netlify*. Vous pouvez suivre le lien associé pour accéder à la version de l'application correspondant à la pull request.
 
 ### Production
 
@@ -121,4 +143,6 @@ Ce site est déployé en continu avec [Netlify](https://www.netlify.com/). La br
 
 Pousser sur `master`, c’est partager avec le monde… ce qui signifie donc qu'il faut être très prudent avec ce pouvoir et privilégier l'usage de [pull requests](https://guides.github.com/introduction/flow/) :wink:
 
-C'est pourquoi la branche `master` est [protégée](https://help.github.com/articles/about-protected-branches/) : il est impossible de mettre en production sans que les [tests automatisés](https://circleci.com/gh/betagouv/beta.gouv.fr) n'aient validé que le site pouvait être généré correctement et qu'au moins un pair humain ait revu les modifications proposées.
+C'est pourquoi la branche `master` est [protégée](https://help.github.com/articles/about-protected-branches/) : il est impossible de mettre en production sans que les [tests automatisés](https://github.com/betagouv/beta.gouv.fr/actions) n'aient validé que le site pouvait être généré correctement et qu'au moins un pair humain ait revu les modifications proposées.
+
+Vous pouvez retrouver l ensemble des "tests automatisés" dans l onglet 'Checks' de chaque Pull Request.

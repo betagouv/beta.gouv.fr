@@ -6,7 +6,7 @@ link: http://www.anaellebeignon.fr
 github: anaellebe
 missions:
   - start: 2021-02-11
-    end: 2022-02-03
+    end: 2022-03-30
     status: independent
 startups:
   - pass-emploi

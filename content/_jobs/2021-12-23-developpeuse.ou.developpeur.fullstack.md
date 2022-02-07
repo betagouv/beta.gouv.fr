@@ -1,6 +1,6 @@
 ---
 roles: Développeuse ou Développeur Fullstack - Delta V
-open: true
+open: false
 date: 2021-12-23T15:52:30.473Z
 startup: "Delta V"
 ---

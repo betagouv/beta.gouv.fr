@@ -1,15 +1,18 @@
 ---
 fullname: Ophélie Lamarque
-role: UX Designer
 domaine: Design
+role: UX Designer
 github: ophelam
 missions:
   - start: 2021-05-27
-    end: 2021-12-31
+    end: 2022-06-30
     status: service
     employer: Benext
-startups: 
-  - reva 
+startups:
+  - reva
+competences:
+  - UX
+  - UI
+  - Gestion de Produit
 ---
-
-Product Design électrisée, j'essaye de vivre l'expérience que je conçois.
+Sensible à la valeur que le Design apporte à l'entreprise.

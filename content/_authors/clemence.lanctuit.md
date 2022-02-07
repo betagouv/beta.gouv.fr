@@ -7,6 +7,9 @@ missions:
   - start: 2022-01-13
     end: 2022-03-31
     status: independent
+startups:
+    - dematapprentissage
+    - catalogue-apprentissage
 badges:
   - segur
 ---
