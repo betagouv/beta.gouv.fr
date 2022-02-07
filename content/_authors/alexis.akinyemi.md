@@ -12,6 +12,7 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
 startups:
     - eva
     - diagoriente
+    - la-bonne-alternance
 ---
 
 Ethique/Méthode/Réfutabilité
