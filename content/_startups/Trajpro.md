@@ -1,6 +1,6 @@
 ---
 title: Formations et trajectoires professionnelles
-mission: "Faciliter l’orientation et l’insertion professionnelle des jeunes en élaborant et rendant visible des indicateurs pertinents, notamment sur l’accès au marché de l’emploi et la trajectoire professionnelle après une formation. 
+mission: "Faciliter l’orientation et l’insertion professionnelle des jeunes en élaborant et rendant visible des indicateurs pertinents"
 owner: Mission interministérielle pour l'apprentissage
 sponsors:
   - name: "Ministère du travail, de l'emploi et de l'insertion "
