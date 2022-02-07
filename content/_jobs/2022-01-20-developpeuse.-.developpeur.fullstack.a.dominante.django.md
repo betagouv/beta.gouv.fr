@@ -74,7 +74,7 @@ Tu rejoins une équipe composée de dix personnes amenée à grandir :
 L’équipe est dispersée à travers la France, et travaille principalement à distance, mais on essaye de se retrouver en présentiel (une fois tous les mois et demi environ) et d’aller régulièrement à la rencontre des utilisateurs.
 
 * Contrat : indépendant
-* TJM envisagé : 350-550 € selon expérience (voir [grille de rémunération Beta Gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/les-differents-statuts/independants-freelances/remuneration#grille-de-taux-journaliers/))
+* TJM envisagé : 350-550 € selon expérience (voir [grille de rémunération Beta Gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/remuneration))
 * Charge : quatre jours par semaine (l’équipe est OFF le vendredi)
 * Emplacement : télétravail complet (full remote)
 * Date de début souhaitée : courant février 2022
