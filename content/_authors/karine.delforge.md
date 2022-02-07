@@ -6,7 +6,7 @@ github: karinedelforge
 link: https://iteract.fr/
 missions:
   - start: 2021-04-30
-    end: 2021-09-30
+    end: 2022-07-31
     status: independent
     employer: numa
 competences:
