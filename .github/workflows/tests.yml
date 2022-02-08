@@ -63,6 +63,7 @@ jobs:
 
     - name: "Check yaml syntax (yamllint)"
       run: |
+            ret=0
             for dir in content/_startups content/_authors ; do
               set +e
               echo "Scan $dir/*.md"

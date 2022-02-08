@@ -10,8 +10,7 @@ set -euo pipefail
 DIR="${1:? $(basename $0) path/to/md_files}"
 
 error=0
-
-( ci/check_yaml_front_matter_metadata.py ${DIR} | grep "::error" && exit 1 )
-error=$?
+set +e
+( ci/check_yaml_front_matter_metadata.py ${DIR} | grep "::error" ) && error=1
 
 exit $error

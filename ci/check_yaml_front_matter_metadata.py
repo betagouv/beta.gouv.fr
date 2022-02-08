@@ -64,6 +64,8 @@ def main():
     for file in sys.argv[1:]:
         if os.path.isfile(file):
             validate_yaml(file, file)
+        else:
+            raise ValueError("::error file not found {}".format(file))
 
 
 if __name__ == '__main__':
