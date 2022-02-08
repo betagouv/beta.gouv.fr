@@ -2,6 +2,7 @@
 fullname: Damien METAIS
 domaine: Design
 role: UX UI Designer
+link: https://www.curbs-work.fr/
 missions:
   - start: 2020-10-26
     end: 2022-12-31
