@@ -1,12 +1,8 @@
 ---
 role: Une ou un Designer UX / UI
-contrat: Indépendant
-equipe: Dotations locales
-contact: sandra.chakroun@beta.gouv.fr
-poste_ouvert: 2022-01-18
-poste_ferme: 2022-02-18
-poste_pourvu: false
-airtable_formulaire: false
+open: true
+date: 2022-01-18
+startup: dotations.locales
 ---
 
 Nous recherchons un ou une designer UX/UI pour la startup `Dotations locales` de l'[Incubateur des Territoires](https://incubateur.anct.gouv.fr/a-propos/).
