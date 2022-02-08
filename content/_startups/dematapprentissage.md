@@ -16,7 +16,6 @@ phases:
     start: 2021-11-01
     end: ""
   - name : construction
-incubator: mission-apprentissage
 
 ---
 ## Constat
