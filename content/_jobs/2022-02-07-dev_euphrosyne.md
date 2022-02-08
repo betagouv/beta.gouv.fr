@@ -1,4 +1,3 @@
-
 ---
 roles: Développeur ou développeuse fullstack Django
 startup: Euphrosyne
@@ -8,14 +7,14 @@ open: true
 title: Dev fullstack Django @ accélerateur de particules du Louvre
 ---
 
-# 👋 Qui est Euphrosyne ?
+## 👋 Qui est Euphrosyne ?
 
 Le projet Euphrosyne a pour objetif d'ouvrir les données de l'accélérateur de particules AGLAE situé
 au Louvre. 
 
 New AGLAE, accélérateur de particules logé sous le palais du Louvre, permet d'étudier la composition chimique des œuvres de musées sans les endommager afin de comprendre leur histoire, leur provenance, les technologies qui ont permis leur création.
 
-# 🗺 Un peu de contexte
+## 🗺 Un peu de contexte
 
 Notre service numérique tend à faciliter les expériences réalisées sur l'accélérateur de particules du Louvre New AGLAE et à ouvrir les données produites lors de ces expériences.
 Le projet Euphrosyne est une plateforme destinée aux utilisateurs de New AGLAE et aux chercheurs. Elle permet de publier, rechercher, accéder et manipuler les données produites par l'accélérateur.
@@ -31,7 +30,7 @@ La phase de conception a débuté en Avril, le développement en Septembre. Une 
 
 Intéressé.e par l’art, les sciences, les données ouvertes ? Rejoignez-nous !
 
-# 👷 Notre équipe
+## 👷 Notre équipe
 
 Aujourd’hui, l’équipe réunit des talents et horizons divers, certains au sein de l’Atelier Numérique, d’autres au sein de l’équipe New AGLAE au Centre de Recherche et de Restauration des Musées de France (C2RMF)
 
@@ -39,7 +38,7 @@ Aujourd’hui, l’équipe réunit des talents et horizons divers, certains au s
 ligne de faisceau, et son équipe compétente en archivage de données scientifiques et en traitement du signal généré par l’accélérateur et au contact de la communauté scientifique utilisant New AGLAE.
 - Au sein de l’Atelier Numérique : un coach produit, deux développeurs fullstack, une designeuse UX.
 
-# 🎯 Quels seront tes objectifs ?
+## 🎯 Quels seront tes objectifs ?
 
 - Faire évoluer le modèle de données en fonction des besoins métier et de diffusion. Les prochaines étapes:
     - Refonte du front-end à l’aide d’un framework moderne.
@@ -51,7 +50,7 @@ ligne de faisceau, et son équipe compétente en archivage de données scientifi
 - En cas de succès, contribuer à la gouvernance du produit en commun contributif pérenne.
 - Participer à l’écriture de la documentation.
 
-# 🏄 Profil recherché
+## 🏄 Profil recherché
 
 - Développeur.se fullstack, orienté.e backend, maîtrisant Python et Django
 - Maîtrise d’au moins un framework frontend tel que React, Vue, Svelte
@@ -60,7 +59,7 @@ ligne de faisceau, et son équipe compétente en archivage de données scientifi
 - Expérience en TDD, binômage, serait un atout.
 - Curiosité pour les sciences du patrimoine, voire les accélérateurs de particules :)
 
-# 📝 Modalités
+## 📝 Modalités
 
 - Poste ouvert pour le statut d’indépendant / prestation.
 - 2 ou 3 jours par semaine.
@@ -69,7 +68,7 @@ ligne de faisceau, et son équipe compétente en archivage de données scientifi
 - Démarrage immédiat, idéalement février 2022.
 - Organisation de travail flexible, en télétravail.
 
-# 🚀 Comment postuler ?
+## 🚀 Comment postuler ?
 
 Envie de travailler avec nous et de découvrir la face cachée des 
 sciences du patrimoine et du Louvre ? Envoie ton LinkedIn, CV ou GitHub 
