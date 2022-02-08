@@ -2,7 +2,7 @@
 role: Une ou un Designer UX / UI
 open: true
 date: 2022-01-18
-startup: dotations.locales
+startup: dotations-locales
 ---
 
 Nous recherchons un ou une designer UX/UI pour la startup `Dotations locales` de l'[Incubateur des Territoires](https://incubateur.anct.gouv.fr/a-propos/).
