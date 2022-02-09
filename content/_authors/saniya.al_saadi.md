@@ -11,6 +11,7 @@ missions:
 startups:
   - didoc
   - archifiltre
+  - zero-logement-vacant
 previously:
   - domifa
   - workinfrance
