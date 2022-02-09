@@ -8,6 +8,6 @@ missions:
     status: admin
     employer: Ministère de la Culture
 startups:
-  - collectif objets
+  - collectif_objets
 ---
 

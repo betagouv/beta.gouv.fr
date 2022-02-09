@@ -14,6 +14,7 @@ phases:
   - name: construction
     start: 2018-06-01
   - name: acceleration
+    start: 2018-06-01
 link: https://classe-a-12.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12
 stats: false
