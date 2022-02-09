@@ -14,6 +14,7 @@ phases:
   - name: construction
     start: 2018-11-01
   - name: acceleration
+    start: 2018-11-01
 link: https://trackdechets.beta.gouv.fr
 repository: https://github.com/MTES-MCT/trackdechets
 stats: true

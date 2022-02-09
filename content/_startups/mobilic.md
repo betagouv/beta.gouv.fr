@@ -7,6 +7,7 @@ phases:
   - name: investigation
     start: 2019-11-01
   - name: acceleration
+    start: 2021-01-01
 link: https://mobilic.beta.gouv.fr
 repository: https://github.com/MTES-MCT/mobilic
 stats: true

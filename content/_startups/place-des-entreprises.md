@@ -18,6 +18,7 @@ phases:
   - name: construction
     start: 2017-04-03
   - name: acceleration
+    start: 2017-04-03
 link: https://place-des-entreprises.beta.gouv.fr
 repository: https://github.com/betagouv/place-des-entreprises
 stats: true
