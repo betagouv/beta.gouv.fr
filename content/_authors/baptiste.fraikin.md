@@ -10,6 +10,6 @@ missions:
 github: bafraikin
 startups:
   - anais
-  - moana
+  - sndv_maritime
 
 ---
