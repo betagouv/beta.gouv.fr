@@ -60,4 +60,4 @@ Hypothèses à vérifier :
 
 La phase d'expérimentation n'a pas permis de démontrer la pertinence de l'approche sur la phase de prescription (difficultés à embarquer les prescripteurs) et d'aiguillage (difficultés à reprendre le contact). Par conséquent, en accord avec le SPIE, il est décidé de ne pas lancer la construction d'un service numérique.
 
-[Consulter la restitution de l'expérimentation et de ses apprentissages](https://resana.numerique.gouv.fr/public/perimetre/consulter/13368?vue=&information=1973995)
+[Consulter la restitution de l'expérimentation et de ses apprentissages](https://resana.numerique.gouv.fr/public/information/consulterAccessUrl?cle_url=188490591AmgOblRYADxTPlA2AG5dfVRqCjdQcVE4AWoFOAZnCzFSaA88WztVOVVvCTw=)
