@@ -9,7 +9,7 @@ sponsors:
 incubator: mission-apprentissage
 link: 
 repository: 
-contact: 
+contact: trajectoirespro@apprentissage.beta.gouv.fr
 events: []
 phases:
   - name: investigation
