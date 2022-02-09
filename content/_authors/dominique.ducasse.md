@@ -9,7 +9,7 @@ startups:
     - camino
     - docurba
     - envergo
-    - friches
+    - urbanvitaliz
     - innovation-urbaine
     - locatio
     - resorption-bidonvilles
