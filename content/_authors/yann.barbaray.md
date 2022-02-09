@@ -4,7 +4,7 @@ role: Coach
 domaine: Coaching
 github: yann-barbaray
 startups:
-  - Delta V
+  - delta.v
 missions:
   - start: 2021-09-03
     end: 2022-10-29

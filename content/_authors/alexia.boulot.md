@@ -12,7 +12,7 @@ badges:
 startups: 
   - acceslibre
   - prev-ac-tion
-  - jaden gwadloup
-  - monitor fish
+  - jaden.gwadloup
+  - monitorfish
 ---
 
