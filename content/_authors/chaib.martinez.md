@@ -10,10 +10,8 @@ missions:
     status: independent
     employer: numa
 startups:
-    - beta.gouv
-    - Incubateur ANCT
     - diagoriente
-    - classe12
+    - classe-a-12
     - anti-gaspi-cantine
     - metiers-numeriques
 previously:
