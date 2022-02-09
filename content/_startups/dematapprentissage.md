@@ -16,6 +16,7 @@ phases:
     start: 2021-11-01
     end: ""
   - name : construction
+    start: 2021-12-01
 
 ---
 ## Constat
