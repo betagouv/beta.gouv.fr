@@ -1,6 +1,6 @@
 ---
 title: Pass emploi
-mission: Aider les jeunes à trouver un emploi
+mission: Aider les jeunes les plus éloignés de l'emploi à trouver leur voie 
 owner: Ministère du Travail, de l'Emploi et de l'Insertion
 sponsors:
   - name: Délégation générale à l'emploi et à la formation professionnelle
@@ -10,6 +10,8 @@ sponsors:
 incubator: sgmas
 link: https://web.pass-emploi.beta.gouv.fr
 repository: https://github.com/SocialGouv/pass_emploi_app
+stats_url: https://sites.google.com/view/statistiques-pass-emploi
+stats: true
 contact: pass.emploi@beta.gouv.fr
 phases:
   - name: investigation
