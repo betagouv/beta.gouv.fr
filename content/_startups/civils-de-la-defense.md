@@ -13,6 +13,7 @@ phases:
   - name: construction
     start: 2018-06-01
   - name: acceleration
+    start: 2018-06-01
 link: https://contractuels.civils.defense.gouv.fr/
 repository: https://github.com/betagouv/civilsdeladefense
 stats: true
