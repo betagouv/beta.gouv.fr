@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 import requests
 import json
-import time
+import datetime
+import os
 
-beta_enable_http_api = False  # True
+beta_enable_http_api = os.environ.get("BETA_ENABLE_HTTP_API",False)  # True
 # use http api files
 beta_url_path = 'https://beta.gouv.fr'
 # use local api files
@@ -46,7 +47,7 @@ def main():
 
     def check_beta_members():
 
-        now = time.strftime("%Y-%m-%d")
+        now = datetime.date.today()
         active_member = {}
         active_member_no_startup_map = {}
         for u in member_list:
@@ -56,18 +57,21 @@ def main():
                 for m in u['missions']:
                     if 'start' not in m or 'end' not in m:
                         error_members_list.append(
-                            f"# ERROR fiche de membre: {u}: aucune date de début et fin de mission : {m}")
-                    if m['start'] >= m['end']:
-                        error_members_list.append(
-                            f"# ERROR fiche de membre: %s: dates de mission incorrecte ( start %s >= end %s ) " % (
-                                u['id'], m['start'], m['end']))
-                    elif m['start'] >= now:
-                        # print(f"# WARNING membre: %s: date de mission dans le futur (start %s , end %s >= now )"%(u['id'],m['start'], m['end']))
-                        pass
-                    if m['end'] >= now:
-                        active = True
-                        active_member[u['id']] = active_member.get(
-                            u['id'], 0) + 1
+                                f"::error title=erreur fiche de membre:: erreur fiche de membre: {u}: aucune date de début et fin de mission : {m}")
+                    else:
+                        start = datetime.date.fromisoformat(m['start'])
+                        end = datetime.date.fromisoformat(m['end'])
+                        if start > end or start == end:
+                            error_members_list.append(
+                                f"::error title=erreur fiche de membre:: erreur fiche de membre: %s: dates de mission incorrecte ( start %s >= end %s ) " % (
+                                    u['id'], m['start'], m['end']))
+                        elif start > now or start == now:
+                            # print(f"::warning membre: %s: date de mission dans le futur (start %s , end %s >= now )"%(u['id'],m['start'], m['end']))
+                            pass
+                        if end > now or end == now:
+                            active = True
+                            active_member[u['id']] = active_member.get(
+                                u['id'], 0) + 1
 
             if active and ('previous' not in u and 'startups' not in u):
                 active_member_no_startup_map[u['id']] = active_member_no_startup_map.get(
@@ -107,12 +111,12 @@ def main():
                         # print(p)
                         if 'start' not in p and 'end' not in p:
                             error_startups_list.append(
-                                f"# ERROR fiche de startup: %s erreur de date: %s "
+                                f"::error title=erreur fiche de startup:: erreur fiche de startup: %s erreur de date: %s "
                                 % (st, p))
                         elif 'start' in p and ('end' in p and len(p['end']) > 0):
                             if p['start'] >= p['end']:
                                 error_startups_list.append(
-                                    f"# ERROR fiche de startup: %s erreur de date (start %s >= end %s)" % (
+                                    f"::error title=erreur fiche de startup:: erreur fiche de startup: %s erreur de date (start %s >= end %s)" % (
                                         st, p['start'], p['end']))
                 else:
                     active = False
@@ -122,12 +126,12 @@ def main():
                     active_member_in_active_startup[user] = active_member_in_active_startup.get(
                         user, 0) + 1
                 elif active == False:
-                    # print(f"# ERROR fiche de membre: {user}: la Startup ({st}) est terminée au sein de beta.gouv.fr")
+                    # print(f"::error title=erreur fiche de membre:: erreur fiche de membre: {user}: la Startup ({st}) est terminée au sein de beta.gouv.fr")
                     active_member_in_finished_startup[user] = active_member_in_finished_startup.get(
                         user, 0) + 1
                 else:
                     error_members_list.append(
-                        f"# ERROR fiche de membre: {user}: la reference de la Startup ({st}) est inconnue.")
+                        f"::error title=erreur fiche de membre:: erreur fiche de membre: {user}: la reference de la Startup ({st}) est inconnue.")
                     active_member_in_unknown_startup[user] = active_member_in_unknown_startup.get(
                         user, 0) + 1
 
@@ -143,12 +147,16 @@ def main():
 
     check_beta_startup_details()
 
+    ret=0
     for err in sorted(error_startups_list):
         print(err)
+        ret=1
 
     for err in sorted(error_members_list):
         print(err)
+        ret=1
 
+    exit(ret)
 
 if __name__ == '__main__':
     main()
