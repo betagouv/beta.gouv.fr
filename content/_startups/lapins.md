@@ -14,6 +14,7 @@ phases:
   - name: construction
     start: 2018-01-18
   - name: acceleration
+    start: 2019-04-01
 link: https://www.rdv-solidarites.fr
 repository: https://github.com/betagouv/rdv-solidarites.fr
 stats: true

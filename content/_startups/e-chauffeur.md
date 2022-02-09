@@ -9,6 +9,7 @@ phases:
   - name: construction
     start: 2018-09-01
   - name: acceleration
+    start: 2018-09-01
 repository: https://gitlab.com/fabnum-minarm/e-chauffeur/
 stats: false
 contact: romain.perroud@def.gouv.fr

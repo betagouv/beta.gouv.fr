@@ -7,8 +7,8 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: travail
 incubator: mission-apprentissage
-link: 
-repository: 
+link:
+repository:
 contact: apprentissage@beta.gouv.fr
 events: []
 phases:
@@ -16,6 +16,7 @@ phases:
     start: 2021-09-01
     end: ""
   - name : construction
+    start: 2022-01-01
 
 ---
 
