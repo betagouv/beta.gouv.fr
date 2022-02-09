@@ -9,6 +9,9 @@ phases:
     end: 2021-02-01
   - name: alumni
     start: 2021-02-01
+events:
+  - name: end
+    date: 2021-12-31
 link:
 repository:
 stats: false
