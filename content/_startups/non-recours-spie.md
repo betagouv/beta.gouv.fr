@@ -56,4 +56,4 @@ Hypothèses à vérifier :
 * les aiguilleurs (profil de conseiller en insertion professionnelle) réussissent à nouer un lien avec la personne en rupture d’accompagnement.
 * les aiguillés sont effectivement pris en charge par une nouvelle structure d’accompagnement
 
-La phase d'expérimentation n'a pas permis de démontrer la pertinence de l'approche sur la phase de prescription (difficultés à embarquer les prescripteurs) et d'aiguillage (difficultés à reprendre le contact). Par conséquent, en accor avec le SPIE, il est décidé de ne pas lancer la construction d'un service numérique.
+La phase d'expérimentation n'a pas permis de démontrer la pertinence de l'approche sur la phase de prescription (difficultés à embarquer les prescripteurs) et d'aiguillage (difficultés à reprendre le contact). Par conséquent, en accord avec le SPIE, il est décidé de ne pas lancer la construction d'un service numérique.
