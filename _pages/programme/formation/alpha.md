@@ -4,14 +4,14 @@ title: La formation Alpha
 permalink: /approche/formation
   
 # Dates de la prochaine formation
-alpha-start: 2022-02-17
-alpha-end: 2022-02-17
+alpha-start: 2022-03-10
+alpha-end: 2022-03-10
 alpha-time: de 9h15 à 17h30
 alpha-location: en visio
 alpha-location-link:
 alpha-catering:
 alpha-more:
-alpha-link: https://startupdetat.typeform.com/to/GmOykYs1
+alpha-link: https://startupdetat.typeform.com/to/EL9cm2a5
 verbatims:
   - text: “J’ai appris beaucoup ! À commencer par une méthode pratique, des outils concrets pour enclencher une action, agir sur un problème a priori insurmontable, mais qui le devient grâce au "petit pas" qui devient grand.”
     name: participant.e anonyme
@@ -43,10 +43,11 @@ images:
 
 <br>
 
-**La prochaine session aura lieu le jeudi 17 février 2022. En visio (lien communiqué après inscription)**
+**La session du 17 février est COMPLÈTE**
+**La prochaine session aura lieu le jeudi 10 mars 2022. En visio (lien communiqué après inscription)**
 <br>
 <br>
-<a id="inscription-alpha" href="https://startupdetat.typeform.com/to/GmOykYs1" class="fr-btn">Je m'inscris</a>
+<a id="inscription-alpha" href="https://startupdetat.typeform.com/to/EL9cm2a5" class="fr-btn">Je m'inscris</a>
 <br>
 <br>
 Vous êtes un agent public et vous souhaitez découvrir la méthode Beta.gouv ? Vous êtes agent public et vous avez identifié un problème à résoudre au sein de vos services ? **La formation Alpha est faite pour vous !**
@@ -87,7 +88,7 @@ Pause 10'
 ---  Fin à 17h30  ---
 
 <br>
-<a id="inscription-alpha-2" href="https://startupdetat.typeform.com/to/GmOykYs1" class="fr-btn">Je m'inscris</a>
+<a id="inscription-alpha-2" href="https://startupdetat.typeform.com/to/EL9cm2a5" class="fr-btn">Je m'inscris</a>
 <br>
 <br>
 Pour plus d’information écrivez nous à <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.
