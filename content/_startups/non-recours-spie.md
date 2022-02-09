@@ -59,3 +59,5 @@ Hypothèses à vérifier :
 * les aiguillés sont effectivement pris en charge par une nouvelle structure d’accompagnement
 
 La phase d'expérimentation n'a pas permis de démontrer la pertinence de l'approche sur la phase de prescription (difficultés à embarquer les prescripteurs) et d'aiguillage (difficultés à reprendre le contact). Par conséquent, en accord avec le SPIE, il est décidé de ne pas lancer la construction d'un service numérique.
+
+[Consulter la restitution de l'expérimentation et de ses apprentissages](https://resana.numerique.gouv.fr/public/perimetre/consulter/13368?vue=&information=1973995)
