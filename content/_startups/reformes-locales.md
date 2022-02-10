@@ -1,12 +1,19 @@
 ---
 title: Réformes locales
-mission: Investiguer les besoins des territoires en terme d'évaluation de l'impact des réformes
+mission: Investiguer les besoins des territoires en terme d'évaluation d'impact de réformes de la réglementation
 owner: France Relance
 incubator: anct
+sponsors:
+  - name: ANCT / France Relance
+    acronym: ANCT
+    domaine_ministeriel: territoires
+    type: collectivite-territoriale
 phases:
   - name: investigation
     start: 2022-03-01
+    end: 2022-07-01
 stats: false
+stats_url:
 contact: sandra.chakroun@beta.gouv.fr
 ---
 
