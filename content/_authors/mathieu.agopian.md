@@ -20,7 +20,6 @@ missions:
 startups:
   - classe-a-12
   - wikicarbone
-  - catalogage de données
 previously:
   - saisissez au vol
   - egapro
