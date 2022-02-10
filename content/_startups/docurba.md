@@ -1,15 +1,19 @@
 ---
 title: Docurba
-mission: Faciliter l'élaboration des documents d'urbanisme en améliorant les échanges entre les collectivités et l'État
+mission: Faciliter l'élaboration des documents d'urbanisme en améliorant les
+  échanges entre les collectivités et l'État
 owner: DGALN
 sponsors:
-  - name: DGALN
+  - name: Direction générale de l'aménagement, du logement et de la nature
+    acronym: DGALN
+    type: administration-centrale
+    domaine_ministeriel: environnement
 incubator: mtes
 contact: hermance.gauthier@developpement-durable.gouv.fr
 phases:
   - name: investigation
-    start: 2020-12-01
-    end: 2020-03-12
+    start: 2020-03-12
+    end: 2021-04-12
   - name: construction
     start: 2021-04-12
 ---
