@@ -4,7 +4,7 @@ domaine: Déploiement
 role: Chargée de déploiement
 missions:
   - start: 2021-08-26
-    end: 2022-02-25
+    end: 2023-01-31
     status: admin
 startups:
   - partaj
