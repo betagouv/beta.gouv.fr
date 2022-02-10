@@ -1,7 +1,7 @@
 ---
 fullname: Mathieu Agopian
-role: Développeur
 domaine: Développement
+role: Développeur
 github: magopian
 link: https://agopian.info/
 missions:
@@ -17,13 +17,14 @@ missions:
     end: 2022-03-31
     status: independent
     employer: LittleBigConnection
-previously:
-  - saisissez au vol
-  - egapro
 startups:
   - classe-a-12
   - wikicarbone
-  - catalogage de données
+previously:
+  - saisissez au vol
+  - egapro
+competences:
+  - Développement Frontend
+  - Développement Backend
 ---
-
 Insatiable Curieux
