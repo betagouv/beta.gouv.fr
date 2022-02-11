@@ -9,7 +9,6 @@ missions:
     end: 2022-12-31
     status: independent
 startups:
-  - Designers transverses
 badges:
   - segur
 competences:
