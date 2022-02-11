@@ -10,7 +10,6 @@ missions:
     status: independent
     employer: null
 startups:
-  - mission-apprentissage
   - aidantsconnect
   - tchap
 competences:
