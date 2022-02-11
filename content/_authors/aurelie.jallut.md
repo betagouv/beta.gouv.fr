@@ -1,7 +1,7 @@
 ---
 fullname: Aurélie Jallut
-role: UX designer
 domaine: Design
+role: Designer transverse
 github: Aurelie-J
 link: http://www.marquedefabrique.net
 missions:
@@ -10,5 +10,10 @@ missions:
     status: independent
 startups:
   - Designers transverses
+badges:
+  - segur
+competences:
+  - UX
+  - UI
 ---
-Recherche utilisateurs, prototype & design d'interfaces, animation d'ateliers // Designers transverses
+Recherche utilisateurs, prototype & design d'interfaces
