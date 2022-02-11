@@ -1,5 +1,5 @@
 ---
-title: La Mission interministérielle pour l'apprentissage
+title: Mission interministérielle pour l’apprentissage et les trajectoires professionnelles
 owner: Guillaume Houzel
 logo: logo_beta.png
 website: https://mission-apprentissage.gitbook.io/general/
