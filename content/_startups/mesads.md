@@ -32,7 +32,6 @@ La phase d’investigation a permis de dresser une première liste des fonctionn
 - Dans la philosophie de « dites-le nous une fois » (DLNUF), la sécurisation de la gestion des ADS aura pour finalité de fournir aux conducteurs de taxis un service d’ « autorité certifiante », pour éviter la représentation des mêmes justificatifs auprès d’autres administrations, pour attester de la régularité de leur activité (conventionnement auprès l’Assurance maladie, remboursement de la TICPE, connexion obligatoire à le.taxi) 
 - Les données recueillies dans le cadre de la gestion courante des ADS pourront être accessibles aux préfectures et à l’administration centrale pour le pilotage (local et national) du secteur.
 
-## Interruption des travaux après la phase d'investigation
+## Lancement du produit dans le cadre de la Startup d'Etat le.taxi
 
-La phase d'investigation n'a pas abouti au lancement de la Startup d'Etat. Une réflexion doit être menée à ce sujet pour un éventuel lancement en 2021.
-
+En 2021, la DGITM décide de confier les travaux autour de cet outil de gestion des ADS [à la Startup d'État le.taxi](https://beta.gouv.fr/startups/le-taxi.html). 
