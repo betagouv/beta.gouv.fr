@@ -57,4 +57,4 @@ Nous recherchons un·e Product Designer / UX Designer expérimenté·e (+ de 5 a
 * Démarrage dès que possible
 
 ## Pour postuler
-Envoyez-nous un message à […], avec [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr) en copie, avec un lien vers votre portfolio, ton profil LinkedIn, Malt ou équivalent.
+Envoyez-nous un message à [equipe@demarches-simplifiees.fr](mailto:equipe@demarches-simplifiees.fr), avec [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr) en copie, avec un lien vers votre portfolio, ton profil LinkedIn, Malt ou équivalent.
