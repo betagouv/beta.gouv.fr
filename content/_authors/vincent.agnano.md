@@ -11,7 +11,6 @@ missions:
     status: independent
     employer: lazone
 startups:
-  - incubateur-des-territoires
 previously:
   - egalite.professionnelle
   - classe-a-12
