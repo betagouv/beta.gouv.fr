@@ -10,7 +10,6 @@ missions:
     status: independent
     employer: octo
 startups:
-    - animation incubateur
 previously:
     - rdv-solidarites
 ---
