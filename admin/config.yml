@@ -298,6 +298,14 @@ collections:
             label: "Date de fin"
             hint: "Fin de ton contrat ou de ton financement - tu pourras la modifier plus tard."
             name: "end"
+      - label: Incubateur
+        label_singular: Incubateur
+        hint: "Pour quel incubateur réalises-tu ta mission ?"
+        name: incubator
+        <<: *relation_default_options
+        collection: incubators
+        multiple: false
+        required: false
       - label: Startups
         label_singular: Startup
         hint: "Plusieurs choix possibles. Si la startup n'apparait pas encore dans la liste, contacte un administrateur du site !"
