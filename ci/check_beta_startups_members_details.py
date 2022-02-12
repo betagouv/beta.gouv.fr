@@ -126,7 +126,8 @@ def main():
                     active_member_in_active_startup[user] = active_member_in_active_startup.get(
                         user, 0) + 1
                 elif active == False:
-                    # print(f"::error title=erreur fiche de membre:: erreur fiche de membre: {user}: la Startup ({st}) est terminée au sein de beta.gouv.fr")
+                    # error_members_list.append(
+                    #     f"::error title=erreur fiche de membre:: erreur fiche de membre: {user}: la Startup ({st}) est terminée au sein de beta.gouv.fr")
                     active_member_in_finished_startup[user] = active_member_in_finished_startup.get(
                         user, 0) + 1
                 else:
@@ -147,6 +148,8 @@ def main():
 
     check_beta_startup_details()
 
+    print("error_startups_list:", len(error_startups_list))
+    print("error_members_list:", len(error_members_list))
     ret=0
     for err in sorted(error_startups_list):
         print(err)
