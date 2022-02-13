@@ -5,7 +5,7 @@ role: Développeur
 github: tglatt
 missions:
   - start: 2021-06-28
-    end: 2022-02-28
+    end: 2022-05-31
     status: independent
 previously:
   - tremplin
