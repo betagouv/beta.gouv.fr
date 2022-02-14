@@ -7,7 +7,7 @@ owner: Agence Nationale de la Cohésion des Territoires
 incubator: anct
 contact: contactincubateur@anct.gouv.fr
 phases:
-  - name: investigation
+  - name: construction
     start: 2022-02-14
 ---
 # Contexte
