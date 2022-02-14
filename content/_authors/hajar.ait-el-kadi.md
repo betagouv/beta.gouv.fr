@@ -5,7 +5,7 @@ domaine: Développement
 github: haekadi
 missions:
   - start: 2021-07-07
-    end: 2022-02-28
+    end: 2022-05-31
     status: service
     employer: Octo
 startups:
