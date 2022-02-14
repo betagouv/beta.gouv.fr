@@ -118,12 +118,12 @@ var createIncubatorSelect = function(members, incubators, initValue) {
     };
     var onIncubatorChange = function(value) {
         var selectedStartups = (value ? startups.filter(d => d.incubator_id === value) : startups).map(s => s.id);
-        var currentsToDisplay = members.filter(d => intersection(d.startups, selectedStartups) || members.incubator === value)
+        var currentsToDisplay = members.filter(member => intersection(member.startups, selectedStartups) || member.incubator === value)
         currentsToDisplay = currentsToDisplay.map(d => ({
             ...d,
             html: createAuthorCard(d),
         }))
-        var alumnisToDisplay = alumnis.filter(d => intersection(d.startups, selectedStartups))
+        var alumnisToDisplay = alumnis.filter(alumni => intersection(alumni.startups, selectedStartups) || alumni.incubator === value)
         alumnisToDisplay = alumnisToDisplay.map(d => ({
             ...d,
             html: createAuthorCard(d),
