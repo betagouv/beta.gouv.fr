@@ -1,6 +1,7 @@
 ---
 title: Médiature
-mission: Investiguer les préconisations de la médiature sur le risque médiation
+mission: Améliorer le suivi des demandes adressées par les citoyens aux
+  médiateurs des collectivités territoriales.
 owner: Agence nationale de la cohésion des territoires
 sponsors:
   - name: Association des Médiateurs des Collectivités Territoriales
