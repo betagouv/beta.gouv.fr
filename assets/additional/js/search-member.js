@@ -70,7 +70,7 @@ var createAuthorCard = function(author) {
             avatarSrc = "/img/logo-generique-startup-carre-2019.jpg"
         }
     }
-    const incubator = author.incubator ? incubators.find(incubator => incubator === author.incubator) : undefined
+    const incubator = author.incubator ? incubators.find(incubator => incubator.id === author.incubator) : undefined
     var avatarHTML = `<img class="lozad avatar-rounded" data-src="${avatarSrc}" title="${author.fullname}" alt="" data-proofer-ignore>`
     card.innerHTML = `<div class="fr-card fr-card--no-arrow fr-card__img__rounded">
             <div class="fr-card__body">
