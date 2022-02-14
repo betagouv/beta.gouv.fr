@@ -25,11 +25,11 @@ Médiature : améliorer le suivi des demandes adressées par les citoyens aux m�
 
 **UNE INVESTIGATION LOCALE**
 
-Dans le cadre du PNI (Programme National d'Investigations), le Médiateur du département de Seine Saint-Denis (93) a souhaité investiguer les difficultés rencontrées par son équipe.
+Dans le cadre du PNI (Programme National d'Investigations), le Médiateur du Département de la Seine Saint-Denis (93) a souhaité investiguer les difficultés rencontrées par son équipe.
 
 **LA PROBLEMATIQUE USAGER EN SEINE SAINT-DENIS**
 
-La médiature a été créé en 2019 dans le cadre de la démarche usager du département pour gérer les réclamations qui n’aboutissent pas dans des délais supérieurs à 2 mois. L’an passé sur 180 000 courriers adressés aux services centraux, 3 000 ont fait l’objet de réclamation et 600 réclamations ont été traitées par le médiateur. 
+La médiature a été créé en 2019 dans le cadre de la démarche usager du département pour gérer les réclamations qui n’aboutissent pas dans des délais supérieurs à 2 mois. L’an passé sur 180 000 courriers adressés aux services centraux, 3 000 étaient des réclamations et demandes suivies. En 2021, 600 réclamations ont ainsi été traitées par la médiature. 
 
 Le traitement réalisé par la médiature n’est pas automatisé et le suivi est assuré sur des tableaux excel. Alors que le volume des réclamations est important et en forte croissance, le médiateur identifie trois risques :
 
@@ -47,4 +47,4 @@ Par ailleurs, l'[Association des Médiateurs des Collectivités Territoriales (A
 
 **L’EXPERIMENTATION**
 
-Un prototype de service numérique est en cours de construction avec le service de médiature du conseil départemental de Seine Saint-Denis afin d'en tester l'impact. Le prototype sera par la suite testé par quelques services de médiature volontaires, membres de l'AMCT, avant une éventuelle généralisation.
+Un prototype de service numérique est en cours de construction avec le service de médiature du Conseil départemental de la Seine Saint-Denis afin d'en tester l'impact. Le prototype sera par la suite testé par quelques services de médiature volontaires, membres de l'AMCT, avant une éventuelle généralisation.
