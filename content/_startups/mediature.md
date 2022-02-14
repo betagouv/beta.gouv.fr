@@ -2,40 +2,48 @@
 title: Médiature
 mission: Investiguer les préconisations de la médiature sur le risque médiation
 owner: Agence nationale de la cohésion des territoires
+sponsors:
+  - name: Association des Médiateurs des Collectivités Territoriales
+    acronym: AMCT
+    type: autre
+    domaine_ministeriel: autres
 incubator: anct
+link: null
+repository: null
+contact: contactincubateur@anct.gouv.fr
+stats_url: null
+stats: false
+events: []
 phases:
   - name: investigation
     start: 2021-06-01
   - name: construction
     start: 2021-11-01
-link: 
-repository: 
-stats: false
-stats_url: 
-contact: contactincubateur@anct.gouv.fr
 ---
-Médiature : investiguer les préconisations de la médiature sur le risque médiation
+Médiature : améliorer le suivi des demandes adressées par les citoyens aux médiateurs des collectivités territoriales.
 
-1.  **LA PROBLEMATIQUE USAGER** 
+**UNE INVESTIGATION LOCALE**
 
-La médiature a été créé en 2019 dans le cadre de la démarche usager du département pour gérer les réclamations qui n’aboutissent pas dans des délais supérieurs à 4 mois. L’an passé sur 180 000 courriers adressés aux services centraux, 3000 ont fait l’objet de réclamation et 1000 réclamations ont été traitées par le médiateur. 
+Dans le cadre du PNI (Programme National d'Investigations), le Médiateur du département de Seine Saint-Denis (93) a souhaité investiguer les difficultés rencontrées par son équipe.
 
-Le traitement réalisé par la médiature n’est pas automatisé. Alors que le volume des réclamations est important et en forte croissance, la médiateur identifie trois risques :
+**LA PROBLEMATIQUE USAGER EN SEINE SAINT-DENIS**
 
-*   Baisse de la qualité des traitements des demandes, donc perte de confiance des usagers
-*   Impossibilité de prendre en charge une part de plus en plus importante de demandes
-*   Recours judiciaires 
+La médiature a été créé en 2019 dans le cadre de la démarche usager du département pour gérer les réclamations qui n’aboutissent pas dans des délais supérieurs à 2 mois. L’an passé sur 180 000 courriers adressés aux services centraux, 3 000 ont fait l’objet de réclamation et 600 réclamations ont été traitées par le médiateur. 
 
-1.  **L’INVESTIGATION TERRAIN** 
+Le traitement réalisé par la médiature n’est pas automatisé et le suivi est assuré sur des tableaux excel. Alors que le volume des réclamations est important et en forte croissance, le médiateur identifie trois risques :
 
-Les usagers finaux sont aujourd’hui très satisfaits du traitement de leurs demandes, mais ils n’ont pas d’outil mis à leur disposition pour suivre leur dossier à tout moment. Les usagers internes confirment les difficultés de suivi des dossiers avec les outils utilisés aujourd’hui. Pour améliorer la réponse et ne pas dégrader le service rendu, la piste de l’automatisation des réclamations est validée.
+* Baisse de la qualité des traitements des demandes, donc perte de confiance des usagers
+* Impossibilité de prendre en charge une part de plus en plus importante de demandes
+* Recours judiciaires 
 
-1.  **LA SOLUTION** 
+**L’INVESTIGATION TERRAIN** 
 
-La solution envisagée : développer un outil numérique simple et visuel permettant de suivre l’état d’avancement des demandes de chaque usager. 
+Les usagers finaux sont aujourd’hui très satisfaits du traitement de leurs demandes, mais ils n’ont pas d’outil mis à leur disposition pour suivre leur dossier à tout moment. Les membres de l'équipe de médiature confirment les difficultés de suivi des dossiers avec les outils utilisés aujourd’hui. Pour améliorer la réponse et ne pas dégrader le service rendu, la piste de l’automatisation des réclamations est validée.
 
-1.  **LA SUITE**
+**La solution envisagée** : développer un outil numérique simple et visuel permettant de suivre l’état d’avancement des demandes de chaque usager. 
 
-*   S’appuyer sur  le benchmark et identifier une solution informatique pour développer un outil
-*   Se mettre en coordination avec la DINSI puis intégrer le projet GRU
-Collectivité sponsor : 
+Par ailleurs, l'[Association des Médiateurs des Collectivités Territoriales (AMCT)](https://www.amct-mediation.fr/), qui fédère les services de médiation des collectivités territoriales, identifie des difficultés similaires dans de nombreux services de médiature. L'AMCT manifeste son soutien à la démarche et son intérêt pour promouvoir l'usage de la solution envisagée dans les collectivités adhérentes à l'association, sur tout le territoire.
+
+**L’EXPERIMENTATION**
+
+Un prototype de service numérique est en cours de construction avec le service de médiature du conseil départemental de Seine Saint-Denis afin d'en tester l'impact. Le prototype sera par la suite testé par quelques services de médiature volontaires, membres de l'AMCT, avant une éventuelle généralisation.
