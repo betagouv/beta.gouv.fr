@@ -68,9 +68,6 @@ mapping:
           mapping:
             "start":
               type:      date
-            "end":
-              type:      any
-              assert:    "val.nil? || val.is_a?(Date) || (val.is_a?(String) && val.empty?)"
             "name":
               type:      str
               assert:    "['investigation','construction','acceleration','success','transfer','alumni'].include?(val)"

@@ -38,7 +38,7 @@ layout: default
                 , "screenshot-url": "{{ screenshot_path }}"
                 , "phases": [
                     {% for phase in startup.phases %}
-                        { "name": "{{phase.name}}", "start": "{{phase.start}}", "end": "{{phase.end}}"}{% unless forloop.last %},{% endunless %}
+                        { "name": "{{phase.name}}", "start": "{{phase.start}}"}{% unless forloop.last %},{% endunless %}
                     {% endfor %}
                     ]
                 }

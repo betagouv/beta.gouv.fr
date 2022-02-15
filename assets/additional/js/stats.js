@@ -52,12 +52,10 @@ function basicDateTest(s) {
 
 function getFirstStepDate(startup) {
   var dates = startup.attributes.phases.reduce(function(list, p) {
-    var candidates = [p.start, p.end]
-    candidates.forEach(function(c) {
-      if (basicDateTest(c)) {
-        list.push(c)
-      }
-    })
+    var candidate = p.start
+    if (basicDateTest(candidate)) {
+      list.push(candidate)
+    }
     return list
   }, [])
 
