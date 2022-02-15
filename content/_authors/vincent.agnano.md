@@ -23,4 +23,4 @@ competences:
   - Développement Backend
   - Gestion de Produit
 ---
-Animateur d'espaces citoyens & Développeur.
+Chargé de portefeuille, développeur, animateur d'espaces citoyens en zone rurale.
