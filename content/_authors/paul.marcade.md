@@ -9,6 +9,7 @@ missions:
     status: independent
 startups:
   - a-just
+  - mediature
 previously:
   - justif
 competences:
