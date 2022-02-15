@@ -12,7 +12,6 @@ missions:
     status: independent
     employer: lazone/scopyleft
 link: https://détour.studio
-github: oncletom
 startups:
     - cartobio
 previously:
