@@ -10,6 +10,7 @@ missions:
     employer: DINUM
 startups:
   - le-taxi
+  - mesads
 badges:
   - segur
 ---
