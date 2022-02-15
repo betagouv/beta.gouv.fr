@@ -2,7 +2,6 @@
 fullname: Olivier Delteil
 role: Chargé de déploiement
 domaine: Déploiement
-github: Olivier Delteil
 missions:
   - start: 2021-01-04
     end: 2021-07-02
