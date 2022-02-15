@@ -31,19 +31,10 @@ Au vu de l’intrication des problèmes et de la multiplicité des acteurs, nous
 
 ### Nous opérons actuellement
 
-1. [Open Terms Archive](https://opentermsarchive.org), un outil libre et ouvert de suivi et d’archivage des évolutions des conditions générales d’utilisation des principaux fournisseurs de services en ligne qui vise à rééquilibrer le rapport de force avec les grandes plateformes. Metrics d'impact :
-
-- Nombre d'interpellations de grandes plateformes (notamment via Twitter) à partir d'informations extraites d'Open Terms Archive.
-- Nombre d'articles de presse français et internationaux à la suite d'informations dénichées sur Open Terms Archive (5 sur Protonmail).
-- Nombre de papiers de recherche français et internationaux citant OTA.
-- Nombre d'actions en justice à l'encontre de grandes plateformes nourries d'informations authentifiées et tirées d'Open Terms Archive.
-- Nombre d'instances thématiques créées pour maintenir des documents sur le long terme (UFC Que Choisir, Hestia Labs, PGA).
-- Nombre de cas d'usage bâtis chez nos partenaires: le PEReN, l'Autorité de la concurrence, le LINC.
-
-2. [Scripta Manent](https://disinfo.quaidorsay.fr/fr/open-terms-archive/scripta-manent?service=AdRoll&typeofdocument=Parent+Organization+Terms), outil en ligne qui permet de mesurer les changements entre deux dates d'un document contractuel de son choix.
-3. [Bot finder](https://github.com/ambanum/social-networks-bot-finder), un outil de calcul de probabilité qu'un compte Twitter soit un bot.
-4. [Graph Generator](https://github.com/ambanum/social-networks-graph-generator), un outil pour recréer le réseau d'interactions des comptes Twitter sur un hashtag ou un mot (ou groupe de mots) donné.
-5. Une [encyclopédie collaborative](https://disinfo.quaidorsay.fr/encyclopedia) des bonnes pratiques, outils et acteurs de la lutte contre les manipulations de l’information.
+1. [Scripta Manent](https://disinfo.quaidorsay.fr/fr/open-terms-archive/scripta-manent?service=AdRoll&typeofdocument=Parent+Organization+Terms), outil en ligne qui permet de mesurer les changements entre deux dates d'un document contractuel de son choix.
+2. [Bot finder](https://github.com/ambanum/social-networks-bot-finder), un outil de calcul de probabilité qu'un compte Twitter soit un bot.
+3. [Graph Generator](https://github.com/ambanum/social-networks-graph-generator), un outil pour recréer le réseau d'interactions des comptes Twitter sur un hashtag ou un mot (ou groupe de mots) donné.
+4. Une [encyclopédie collaborative](https://disinfo.quaidorsay.fr/encyclopedia) des bonnes pratiques, outils et acteurs de la lutte contre les manipulations de l’information.
 
 ### Nous avons également produit
 
