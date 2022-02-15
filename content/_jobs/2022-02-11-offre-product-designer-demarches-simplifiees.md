@@ -1,5 +1,5 @@
 ---
-roles: UX Designer senior
+roles: UX Designer (H/F) senior
 startup: demarches-simplifiees.fr
 open: true
 ---
