@@ -9,7 +9,7 @@ missions:
     status: service
     employer: Benext
 startups:
-  - pass-emploi
+  - l-application-du-cej
 ---
 
 Designeuse qui aime les design system, l'accessibilité et travailler avec les développeurs
