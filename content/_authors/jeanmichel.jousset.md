@@ -9,5 +9,5 @@ missions:
     status: service
     employer: DINUM
 startups:
-  - pass-emploi
+  - l-application-du-cej
 ---
