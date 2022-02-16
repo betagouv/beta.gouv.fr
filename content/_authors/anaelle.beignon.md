@@ -9,7 +9,7 @@ missions:
     end: 2022-03-30
     status: independent
 startups:
-  - pass-emploi
+  - l-application-du-cej
 ---
 
 Designeuse fan de méthodo, de recherche utilisateur et de travail en équipe 🧚🏼‍♀️
