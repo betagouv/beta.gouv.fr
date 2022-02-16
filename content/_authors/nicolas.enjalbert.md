@@ -11,7 +11,7 @@ missions:
     employer: Benext, NUMA
 startups:
   - envergo
-  - pass-emploi
+  - l-application-du-cej
 competences:
   - Coaching
   - UX
