@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: B-NEXT
 startups:
-  - pass-emploi
+  - l-application-du-cej
 ---
 
 Chef de projet, déploiement, optimisation
