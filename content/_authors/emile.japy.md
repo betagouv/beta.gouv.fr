@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: Benext
 startups:
-  - pass-emploi
+  - l-application-du-cej
 badges:
   - segur
 ---
