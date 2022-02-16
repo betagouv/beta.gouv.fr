@@ -10,7 +10,7 @@ missions:
 badges:
   - segur
 startups:
-  - pass-emploi
+  - l-application-du-cej
 ---
 
 Product Owner, sportive et très forte à Mario Kart !
