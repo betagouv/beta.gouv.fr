@@ -1,6 +1,7 @@
 ---
-title: Pass emploi
-mission: Aider les jeunes les plus éloignés de l'emploi à trouver leur voie 
+title: L'application du CEJ
+mission: "Contrat Engagement Jeune : Aider les jeunes les plus éloignés de
+  l'emploi à trouver leur voie"
 owner: Ministère du Travail, de l'Emploi et de l'Insertion
 sponsors:
   - name: Délégation générale à l'emploi et à la formation professionnelle
@@ -8,11 +9,11 @@ sponsors:
     type: administration-centrale
     domaine_ministeriel: affaires-sociales
 incubator: sgmas
-link: https://web.pass-emploi.beta.gouv.fr
 repository: https://github.com/SocialGouv/pass_emploi_app
-stats_url: https://sites.google.com/view/statistiques-pass-emploi
-stats: true
 contact: pass.emploi@beta.gouv.fr
+stats_url: https://sites.google.com/view/statistiques-pass-emploi
+link: https://web.pass-emploi.beta.gouv.fr
+stats: true
 phases:
   - name: investigation
     start: 2021-06-09
