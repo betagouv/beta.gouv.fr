@@ -9,7 +9,7 @@ missions:
     status: service
     employer: OCTO Technology
 startups:
-  - pass-emploi
+  - l-application-du-cej
 ---
 
 Du craft, à manger et du fun.
