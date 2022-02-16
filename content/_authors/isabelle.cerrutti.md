@@ -8,7 +8,7 @@ missions:
     end: 2022-12-31
     status: admin
 startups:
-  - pass-emploi
+  - l-application-du-cej
 badges:
   - segur
 ---
