@@ -9,7 +9,7 @@ missions:
     status: service
     employer: octo
 startups:
-  - pass-emploi
+  - l-application-du-cej
 previously:
   - acceslibre
   - monstage
