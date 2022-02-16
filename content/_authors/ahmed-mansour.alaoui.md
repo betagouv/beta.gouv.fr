@@ -11,7 +11,7 @@ missions:
 startups:
   - pass-emploi
 previously:
-  - pass-culture
+  - l-application-du-cej
 badges:
   - segur
 ---
