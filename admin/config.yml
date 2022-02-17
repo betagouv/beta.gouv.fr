@@ -76,49 +76,7 @@ collections:
         name: sponsors
         widget: list
         collapsed: false
-        fields:
-          - label: Nom de l'administration
-            name: name
-            widget: string
-          - label: Quel est l'acronyme de cette administration ?
-            name: acronym
-            widget: string
-            required: false
-          - label: "Type"
-            hint: "Quelle est le type de partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter"
-            name: "type"
-            widget: "select"
-            required: false
-            options:
-              - { label: "Administration centrale", value: "administration-centrale" }
-              - { label: "Opérateur", value: "operateur" }
-              - { label: "Sécurité sociale", value: "securite-sociale" }
-              - { label: "Collectivité territoriale ", value: "collectivite-territoriale" }
-              - { label: "Autre", value: "autre" }
-          - label: "Cette administration intervient principalement dans quel champs de l'action publique ?"
-            hint: >
-              Quelle est le domaine "ministériel" ou domaine "action publique" du partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter
-            name: "domaine_ministeriel"
-            widget: "select"
-            required: true
-            options:
-              - { label: "Affaires étrangères", value: "affaires-etrangeres" }
-              - { label: "Affaires sociales", value: "affaires-sociales" }
-              - { label: "Agriculture", value: "agriculture" }
-              - { label: "Armées", value: "armees" }
-              - { label: "Bercy", value: "bercy" }
-              - { label: "Culture", value: "culture" }
-              - { label: "Education nationnale", value: "education-nat" }
-              - { label: "Enseignement supérieur", value: "enseignement-sup" }
-              - { label: "Environnement", value: "environnement" }
-              - { label: "Intérieur", value: interieur }
-              - { label: "Outre-mer", value: "outre-mer" }
-              - { label: "Santé", value: "sante" }
-              - { label: "Service du Premier Ministre", value: "spm" }
-              - { label: "Sport", value: "sport" }
-              - { label: "Travail", value: "travail" }
-              - { label: "Territoires", value: "territoires" }
-              - { label: "Autres", value: "autres" }
+        collection: organisations
       - <<: *relation_default_options
         label: Quel est l'incubateur qui t'accompagne ?
         name: incubator
@@ -475,3 +433,55 @@ collections:
           Télétravail et/ou possibilité de travailler à ....
 
           Candidature à recrutement@beta.gouv.fr
+  - name: organisations
+      publish: false
+      label: Organisations
+      label_singular: Organisation
+      folder: "content/_organisations"
+      create: true
+      delete: false
+      slug: "{{slug}}"
+      editor:
+        preview: false
+      fields:
+        - label: Nom de l'administration
+          name: name
+          widget: string
+        - label: Quel est l'acronyme de cette administration ?
+          name: acronym
+          widget: string
+          required: false
+        - label: "Type"
+          hint: "Quelle est le type de partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter"
+          name: "type"
+          widget: "select"
+          required: false
+          options:
+            - { label: "Administration centrale", value: "administration-centrale" }
+            - { label: "Opérateur", value: "operateur" }
+            - { label: "Sécurité sociale", value: "securite-sociale" }
+            - { label: "Collectivité territoriale ", value: "collectivite-territoriale" }
+            - { label: "Autre", value: "autre" }
+        - label: "Cette administration intervient principalement dans quel champs de l'action publique ?"
+          hint: >
+            Quelle est le domaine "ministériel" ou domaine "action publique" du partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter
+          name: "domaine_ministeriel"
+          widget: "select"
+          required: true
+          options:
+            - { label: "Affaires étrangères", value: "affaires-etrangeres" }
+            - { label: "Agriculture", value: "agriculture" }
+            - { label: "Armées", value: "armees" }
+            - { label: "Bercy", value: "bercy" }
+            - { label: "Culture", value: "culture" }
+            - { label: "Education nationnale", value: "education-nat" }
+            - { label: "Enseignement supérieur", value: "enseignement-sup" }
+            - { label: "Environnement", value: "environnement" }
+            - { label: "Intérieur", value: interieur }
+            - { label: "Outre-mer", value: "outre-mer" }
+            - { label: "Solidarités et Santé", value: "solidarite-sante" }
+            - { label: "Service du Premier Ministre", value: "spm" }
+            - { label: "Sport", value: "sport" }
+            - { label: "Travail", value: "travail" }
+            - { label: "Territoires", value: "territoires" }
+            - { label: "Autres", value: "autres" }
