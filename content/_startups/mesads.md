@@ -1,17 +1,17 @@
 ---
-title: Mes autorisations de stationnement # une majuscule et pas d'acronymes
-mission: Investiguer sur la chaine de gestion des autorisations de stationnement des taxis en France. 
+title: Mes autorisations de stationnement 
+mission: Faciliter la constitution d'une base des licences de taxis en France
 owner: DGITM
 incubator: mtes
 phases:
   - name: investigation
     start: 2020-07-21
-  - name: alumni
-    start: 2020-11-27
+  - name: construction
+    start: 2021-11-01
 link: 
-repository: 
+repository: https://github.com/mesadsfr/mesads
 stats: false
-contact: bernard.quach@developpement-durable.gouv.fr
+contact: equipe@le.taxi
 ---
 
 ## Problème investigué
@@ -34,4 +34,4 @@ La phase d’investigation a permis de dresser une première liste des fonctionn
 
 ## Lancement du produit dans le cadre de la Startup d'Etat le.taxi
 
-En 2021, la DGITM décide de confier les travaux autour de cet outil de gestion des ADS [à la Startup d'État le.taxi](https://beta.gouv.fr/startups/le-taxi.html). 
+Fin 2021, la DGITM décide de confier les travaux autour de cet outil de gestion des ADS [à l'équipe de la Startup d'Etat le.taxi](https://beta.gouv.fr/startups/le-taxi.html). 
