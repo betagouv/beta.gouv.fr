@@ -1,6 +1,6 @@
 ---
 title: L'Incubateur des API
-owner: DINUM
+owner: /organisations/dinum
 website: https://api.gouv.fr/
 logo: logo_dinum.png
 github: https://github.com/betagouv/api.gouv.fr

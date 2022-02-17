@@ -6,6 +6,8 @@ layout: default
 {% assign phases = site.phases | sort: 'order' %}
 {% assign phases_with_stopped = site.phases | sort: 'order' %}
 {% assign incubators = site.incubators %}
+{% assign organisations = site.organisations %}
+
 <script>
     var data = {
         {% for phase in site.phases %}
@@ -47,6 +49,7 @@ layout: default
                     { "data": { "type": "incubator", "id": "{{ startup.incubator}}" }
                     }
                 }
+                // TODO ajouter sponsors
             }
             {% unless forloop.last %},{% endunless %}
         {% endfor %}]
@@ -98,6 +101,7 @@ layout: default
     </section>
     {% for incubator in incubators %}
     {% assign incubator_id = incubator.id | remove: '/incubators/' %}
+    {% assign organisation = site.organisations  | where: 'id', incubator.owner | first %}
     <section id="{{ incubator_id }}" class="fr-py-6w incubator-header fr-scheme-soft-blue-soft" style="display: none;">
         <div class="fr-container">
             <div class="fr-grid-row fr-grid-row--gutters">
@@ -107,8 +111,8 @@ layout: default
                 <div class="fr-col">
                     <div>
                         <h1 class="fr-card__title">{{ incubator.title }}</h1>
-                        <p class="h1-card__title-subtitle">{{ incubator.owner }}</p>
-                        <!-- <div class="markdown">{{ incubator.content }}</div> -->
+                        <p class="h1-card__title-subtitle">{{ organisation.name }}</p>
+                        <div class="markdown">{{ incubator.content }}</div>
                     </div>
                 </div>
             </div>

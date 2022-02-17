@@ -1,6 +1,6 @@
 ---
 title: Lab MI
-owner: Ministère de l'Intérieur
+owner: /organisations/interieur
 logo: logo_lab_mi.png
 website: https://beta.interieur.gouv.fr/
 contact: mailto:stephane.ritter@interieur.gouv.fr

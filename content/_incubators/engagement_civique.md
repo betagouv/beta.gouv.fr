@@ -1,6 +1,6 @@
 ---
 title: Plateformes de l'Engagement Civique
-owner: DJEPVA
+owner: /organisations/djepva
 logo: logo_beta.png
 github: https://github.com/betagouv/
 contact: jeveuxaider@beta.gouv.fr
