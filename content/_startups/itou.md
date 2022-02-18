@@ -1,7 +1,6 @@
 ---
 title: "Emplois de l'inclusion (ITOU)"
 mission: "Favoriser la réussite pour tous"
-owner: Délégation générale à l'emploi et à la formation professionnelle
 sponsors:
   - /organisations/dgefp
   - /organisations/mtei

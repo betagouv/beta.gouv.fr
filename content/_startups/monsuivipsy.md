@@ -1,7 +1,8 @@
 ---
 title: Mon Suivi Psy
 mission: Mieux connaître ses symptômes pour un meilleur accompagnement médical
-owner: Agence Régionale de Santé Ile-de-France
+sponsors:
+  - /organisations/solidarite-sante
 incubator: sgmas
 link: https://monsuivipsy.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/monsuivipsy

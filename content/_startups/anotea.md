@@ -1,7 +1,6 @@
 ---
 title: Anotea
 mission: Éclairer les personnes à la recherche d'une formation professionnelle dans leur choix
-owner: Pôle emploi
 sponsors: 
     - /organisations/pole-emploi
 incubator: pole-emploi

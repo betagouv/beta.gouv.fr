@@ -5,7 +5,8 @@ incubator: anct
 repository: null
 contact: contactincubateur@anct.gouv.fr
 stats_url: null
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+  - /organisations/anct
 link: null
 stats: false
 phases:

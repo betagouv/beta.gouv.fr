@@ -4,11 +4,6 @@ mission: Faciliter la réhabilitation des friches urbaines
 sponsors:
  - /organisations/cerema
 incubator: dinum
-sponsors: 
-    - name: Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement
-      acronym: CEREMA
-      domaine_ministeriel: territoires
-      type: operateur
 phases:
   - name: investigation
     start: 2020-02-12

@@ -1,11 +1,9 @@
 ---
 title: Immersion facilitée
 mission: Augmenter le nombre d'immersions professionnelles pour les personnes éloignées de l'emploi 
-owner: DGEFP et Pôle emploi
 sponsors:
-  - domaine_ministeriel: affaires-sociales
-    name: Ministère du Travail, de l'Emploi et de l'Insertion
-    type: administration-centrale
+  - /organisations/dgefp
+  - /organisations/pole-emploi
 incubator: sgmas
 link: https://immersion-facile.beta.gouv.fr/
 contact: contact@immersion-facile.beta.gouv.fr

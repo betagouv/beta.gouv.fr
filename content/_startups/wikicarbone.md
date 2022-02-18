@@ -3,7 +3,7 @@ title: Wikicarbone
 mission: Accélerer la mise en place de l'affichage environnemental
 sponsors:
   - /organisations/mtes
-  - /organisations/Commissariat Général au Développement Durable
+  - /organisations/cgdd
 incubator: mtes
 link: https://wikicarbone.beta.gouv.fr
 repository: https://github.com/MTES-MCT/wikicarbone

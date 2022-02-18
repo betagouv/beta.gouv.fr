@@ -1,10 +1,8 @@
 ---
 title: Prev-AC-TION
 mission: Prévenir les risques et les maladies professionnelles dans le secteur maritime
-owner: Ministère de la Mer
-sponsors:
-  - name: Direction des Affaires Maritimes du Ministère de la Mer
-    domaine_ministeriel: environnement
+sponsors: 
+    - /organisations/dinum
 incubator: mtes
 contact: Sebastien.MICHEL@developpement-durable.gouv.fr
 phases:

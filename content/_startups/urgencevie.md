@@ -2,7 +2,7 @@
 title: UrgenceVie
 mission: Sauver des vies en partageant les informations d'accès au logement
 sponsors:
- - /organisations/mi
+ - /organisations/interieur
 incubator: lab-mi
 link: null
 repository: null

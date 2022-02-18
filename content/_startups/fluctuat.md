@@ -2,7 +2,7 @@
 title: Fluctu@t
 mission:  Aider au développement du transport fluvial en France
 sponsors:
-    - dgitm
+    - /organisations/dgitm
 incubator: mtes
 events:
   - name: end

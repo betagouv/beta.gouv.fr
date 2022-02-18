@@ -1,12 +1,8 @@
 ---
 title: La Bonne Boite
 mission: Trouver les entreprises qui vont recruter près de chez soi
-owner: Pôle emploi
 sponsors:
-  - name: Pôle emploi
-    acronym: PE
-    domaine_ministeriel: travail
-    type: operateur
+  - /organisations/pole-emploi
 incubator: pole-emploi
 link: https://labonneboite.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/labonneboite

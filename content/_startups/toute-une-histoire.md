@@ -3,7 +3,7 @@ title: Toute une histoire
 mission: Permettre aux enfants placés au service l’Aide Sociale à l’Enfance d'accéder facilement à leur histoire de vie
 incubator: anct
 sponsors:
-- /organisations/departement-somme
+- /organisations/anct
 phases:
   - name: investigation
     start: 2020-01-14

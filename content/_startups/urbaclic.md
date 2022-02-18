@@ -3,7 +3,6 @@ title: Urbaclic
 mission: Accéder aux règles d'urbanisme en quelques clics
 sponsors:
  - /organisations/dinum
- - /organisations/sgar
 incubator: dinum
 events:
   - name: end

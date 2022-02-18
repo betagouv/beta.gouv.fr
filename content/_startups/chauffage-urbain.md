@@ -1,7 +1,6 @@
 ---
 title: France Chaleur Urbaine
 mission: Accélérer le raccordement des copropriétés aux réseaux de chaleur
-owner: Ministère de la Transition écologique et solidaire
 sponsors:
   - /organisations/drieat
   - /organisations/dgec

@@ -1,7 +1,6 @@
 ---
 title: Au Compost Mitoyen !
 mission: Faciliter le déploiement de composteurs collectifs et encourager leur utilisation
-owner: DINUM
 sponsors:
   - /organisations/dinum
 incubator: dinum

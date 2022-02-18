@@ -1,7 +1,8 @@
 ---
 title: Potentiel
 mission: Faciliter le parcours des producteurs d'énergies renouvelables électriques
-owner: Ministère de la transition écologique
+sponsors: 
+    - /organisations/mtes
 incubator: mtes
 phases:
   - name: investigation

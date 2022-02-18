@@ -2,7 +2,7 @@
 title: Fil'harmonic
 mission: Faciliter le travail administratif autour des contrôles ICPE
 sponsors:
-    - dgpr
+    - /organisations/dgpr
 events:
   - name: end
     date: 2019-12-01

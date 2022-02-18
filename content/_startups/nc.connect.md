@@ -1,10 +1,8 @@
 ---
 title: NC Connect
 mission: Simplifier l'accès aux services publics numériques calédoniens
-owner: Gouvernement de la Nouvelle-Calédonie
 sponsors:
-  - name: Gouvernement de la Nouvelle-Calédonie
-    type: collectivite-territoriale
+  - /organisations/nouvelle-caledonie
 incubator: dinum
 link: https://connect.gouv.nc/
 contact: connect@gouv.nc

@@ -1,7 +1,6 @@
 ---
 title: Camino
 mission: Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.
-owner: Ministère de la Transition écologique et solidaire
 sponsors: 
     - /organisations/dgaln
     - /organisations/dgeb

@@ -1,7 +1,8 @@
 ---
-title: "Kamehameha "
+title: "Kamehameha"
 mission: Lutter contre le harcèlement des jeunes
-owner: "Agglomération de Pau "
+sponsors:
+  - /organisations/anct
 incubator: anct
 contact: incubateur@anct.gouv.f
 events: []

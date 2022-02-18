@@ -2,7 +2,7 @@
 title: HistoVec
 mission: Acheter un véhicule d'occasion en confiance en connaissant son historique
 sponsors: 
-    - dsr
+    - /organisations/dsr
 incubator: lab-mi
 phases:
   - name: investigation

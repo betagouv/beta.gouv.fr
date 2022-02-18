@@ -1,7 +1,8 @@
 ---
 title: Locadocs
 mission: Simplifier l’accès aux documents publics
-owner: Ministère de la Culture
+sponsors: 
+  - /organisations/mc
 incubator: culture
 phases:
   - name: construction

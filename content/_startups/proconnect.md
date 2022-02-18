@@ -1,7 +1,8 @@
 ---
 title: ProConnect
 mission: Simplifier la gestion de l'identité numérique des entreprises sur les portails publics
-owner: Ministère de l'Economie et des Finances
+sponsors: 
+    - /organisations/mefr
 incubator: bercy
 phases:
   - name: investigation

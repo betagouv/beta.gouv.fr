@@ -3,7 +3,7 @@ title: Trait d'Union
 mission: Permettre aux demandeurs d'emploi d'essayer des métiers qui recrutent et forment à côté de chez eux
 incubator: dinum
 sponsors:
-  - /organisations/region-grand-est
+  - /organisations/dinum
 events:
   - name: end
     date: 2019-12-01

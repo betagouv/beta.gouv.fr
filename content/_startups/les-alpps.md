@@ -1,7 +1,8 @@
 ---
 title: Les Alpps
 mission: Sécuriser les sorties en montagne
-owner: Ministère des Armées
+sponsors:
+  - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation

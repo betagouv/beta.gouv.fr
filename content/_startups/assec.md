@@ -1,7 +1,6 @@
 ---
 title: ASSEC
 mission: Optimiser la réponse collective du monde agricole et des services de l'État au problème de pénurie d'eau en période de sécheresse
-owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 sponsors:
   - /organisations/dgaln
   - /organisations/dgeb

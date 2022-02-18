@@ -3,7 +3,7 @@ title: Atlas des paysages
 mission: Systématiser la prise en compte des paysages dans les projets
   d'aménagement du territoire
 sponsors:
- - /organiations/dgaln
+ - /organisations/dgaln
 incubator: mtes
 contact: emilie.fleury-jagerschmidt@developpement-durable.gouv.fr
 phases:

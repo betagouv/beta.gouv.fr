@@ -1,12 +1,8 @@
 ---
 title: Protège-Toit 🏡 (violences conjugales)
 mission: Améliorer la prise en charge d'urgence pour les victimes de violences conjugales
-owner: Département des Côtes d'Armor
-sponsors:
-    - name: Département des Côtes d'Armor
-      acronym:
-      domaine_ministeriel: territoires
-      type: collectivite-territoriale
+sponsors: 
+    - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

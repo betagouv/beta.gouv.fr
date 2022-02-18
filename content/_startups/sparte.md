@@ -1,6 +1,7 @@
 ---
 title: "SPARTE"
 mission: 'Faciliter la mise en oeuvre du Zéro Artificialisation Nette'
+incubator: mtes
 sponsors:
   - /organisations/dgaln
 contact: ines.dartiguenave@beta.gouv.fr

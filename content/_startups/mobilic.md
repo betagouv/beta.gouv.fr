@@ -1,7 +1,8 @@
 ---
 title: Mobilic
 mission: Simplifier le suivi et le respect du temps de travail des travailleurs mobiles
-owner: Ministère de la Transition écologique, chargé des transports
+sponsors:
+    - /organisations/mtes
 incubator: mtes
 phases:
   - name: investigation
