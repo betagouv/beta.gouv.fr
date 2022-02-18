@@ -1,7 +1,6 @@
 ---
 title: Work in France
 mission: La plateforme de demande d’autorisations provisoires de travail
-owner: Ministère des Affaires sociales
 sponsors: 
     - /organisations/mtei
 incubator: sgmas
