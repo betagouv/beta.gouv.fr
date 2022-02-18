@@ -1,11 +1,13 @@
 ---
 title: Sirius
 mission: Éclairer les jeunes et leurs parents sur l'apprentissage
-owner: Mission interministérielle pour l'apprentissage 
-sponsors :     
-  - name: "Ministère du travail, de l'emploi et de l'insertion "
-    type: administration-centrale
-    domaine_ministeriel: travail
+sponsors:
+  - /organisations/menjs
+  - /organisations/mtei
+  - /organisations/mesr
+  - /organisations/mtfp
+  - /organisations/dinum
+  - /organisations/dgefp
 incubator: mission-apprentissage
 phases:
   - name: investigation
