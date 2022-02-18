@@ -1,13 +1,9 @@
 ---
 title: Trait d'Union
 mission: Permettre aux demandeurs d'emploi d'essayer des métiers qui recrutent et forment à côté de chez eux
-owner: Région Grand Est
 incubator: dinum
-sponsors: 
-    - name: Région Grand Est
-      acronym:
-      domaine_ministeriel: territoires
-      type: collectivite-territoriale
+sponsors:
+  - /organisations/grand-est
 events:
   - name: end
     date: 2019-12-01
