@@ -1,1 +1,0 @@
-web: ci/run.sh
