@@ -8,6 +8,6 @@ server {
   location / {
     root /app/_dist;
     index index.html;
-    try_files $uri $uri/ /index.html;
+    try_files $uri $uri/;
   }
 }
