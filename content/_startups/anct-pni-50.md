@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (50)
 mission: Lutter contre le non-recours au tissu associatif local
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

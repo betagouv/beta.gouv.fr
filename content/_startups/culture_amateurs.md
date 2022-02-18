@@ -1,7 +1,8 @@
 ---
 title: Culture Amateurs
 mission: Développer les pratiques culturelles des amateur·ice·s
-owner: Ministère de la Culture
+sponsors:
+ - /organisations/mc
 incubator: culture
 phases:
   - name: investigation

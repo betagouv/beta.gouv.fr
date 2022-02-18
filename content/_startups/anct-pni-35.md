@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (35)
 mission: Faciliter les échanges entre associations locales
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

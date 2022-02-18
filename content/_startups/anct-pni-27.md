@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (27)
 mission: Suivre et contrôler lattribution des subventions
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

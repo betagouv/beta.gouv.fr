@@ -1,7 +1,8 @@
 ---
 title: Deveco
 mission: Faciliter l'accès et la gestion des données entreprises pour les collectivités
-owner: Agence Nationale de la Cohésion des Territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

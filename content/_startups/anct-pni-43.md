@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (43)
 mission: Améliorer la communication et la coordination des EPLE du territoire
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

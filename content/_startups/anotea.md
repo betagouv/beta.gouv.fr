@@ -3,10 +3,7 @@ title: Anotea
 mission: Éclairer les personnes à la recherche d'une formation professionnelle dans leur choix
 owner: Pôle emploi
 sponsors: 
-    - name: Pôle emploi
-      acronym: PE
-      domaine_ministeriel: travail
-      type: operateur
+    - /organisations/pole-emploi
 incubator: pole-emploi
 phases:
   - name: investigation

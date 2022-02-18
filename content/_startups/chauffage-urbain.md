@@ -3,23 +3,10 @@ title: France Chaleur Urbaine
 mission: Accélérer le raccordement des copropriétés aux réseaux de chaleur
 owner: Ministère de la Transition écologique et solidaire
 sponsors:
-  - name: DRIEAT
-    acronym: Direction régionale et interdépartementale de l’Environnement, de
-      l’Aménagement et des Transports d’Île-de-France
-    type: autre
-    domaine_ministeriel: environnement
-  - name: DGEC
-    acronym: Direction Générale de l'Énergie et du Climat
-    type: administration-centrale
-    domaine_ministeriel: environnement
-  - name: ADEME
-    acronym: Agence De l'Environnement et de Maîtrise de l'Energie
-    type: operateur
-    domaine_ministeriel: environnement
-  - name: FNCCR
-    acronym: Fédération Nationale des Collectivités Concédantes et des Régies
-    type: autre
-    domaine_ministeriel: environnement
+  - /organisations/drieat
+  - /organisations/dgec
+  - /organisations/ademe
+  - /organisations/fnccr
 incubator: mtes
 link: https://france-chaleur-urbaine.beta.gouv.fr/
 repository: null

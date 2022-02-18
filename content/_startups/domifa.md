@@ -1,12 +1,8 @@
 ---
 title: DomiFa
 mission: Faciliter l'accès aux droits pour les personnes sans domicile stable, en simplifiant la gestion de la domiciliation 
-owner: Ministère des Solidarités et de la Santé
 sponsors:
-    - name: Direction générale de la cohésion sociale
-      acronym: DGCS
-      domaine_ministeriel: affaires-sociales
-      type: administration-centrale
+  - /organisations/dgcs
 incubator: sgmas
 phases:
   - name: investigation

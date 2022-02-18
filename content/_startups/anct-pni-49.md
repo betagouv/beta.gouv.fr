@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (49)
 mission: Expliciter le montant des coûts induits par la gestion des déchets
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

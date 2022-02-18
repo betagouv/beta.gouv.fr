@@ -6,7 +6,7 @@ owner: Living Lab de l'Institut national du cancer
 sponsors:
   - name: Institut national du cancer
     acronym: INCA
-    domaine_ministeriel: sante
+    domaine_ministeriel: solidarite-sante
 incubator: dinum
 contact: tristan.roue@beta.gouv.fr
 phases:

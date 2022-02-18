@@ -1,8 +1,9 @@
 ---
 title: Acceslibre
 mission: Collecter et partager les données d'accessibilité des établissements publics
-owner: Ministère de la Transition écologique et solidaire
 incubator: mtes
+sponsors:
+ - /organisations/mtes
 link: https://acceslibre.beta.gouv.fr
 repository: https://github.com/MTES-MCT/acceslibre
 contact: julia.zucker@developpement-durable.gouv.fr

@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (25)
 mission: Mission Maison de services au public
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

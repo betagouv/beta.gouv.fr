@@ -2,12 +2,8 @@
 title: Docurba
 mission: Faciliter l'élaboration des documents d'urbanisme en améliorant les
   échanges entre les collectivités et l'État
-owner: DGALN
 sponsors:
-  - name: Direction générale de l'aménagement, du logement et de la nature
-    acronym: DGALN
-    type: administration-centrale
-    domaine_ministeriel: environnement
+  - /organisations/dgaln
 incubator: mtes
 contact: hermance.gauthier@developpement-durable.gouv.fr
 phases:

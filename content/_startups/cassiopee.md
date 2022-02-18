@@ -2,8 +2,8 @@
 title: Cassiopée
 mission: Optimiser les parcours de formations des officiers souhaitant revenir à
   la vie civile
-owner: Ministère des Armées
-sponsors: []
+sponsors: 
+ - /organisations/armees
 incubator: fabnumdef
 contact: romain.perroud@def.gouv.fr
 events: []

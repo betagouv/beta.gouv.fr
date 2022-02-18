@@ -2,7 +2,6 @@
 title: APiLos
 mission: Accélérer le versement de l’Aide Personnalisée au Logement (APL) et
   réduire l’insécurité locative dans le logement social.
-owner: Direction générale de l'aménagement, du logement et de la nature (DGALN)
 incubator: mtes
 link: https://apilos.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/apilos
@@ -10,6 +9,8 @@ contact: contact@apilos.beta.gouv.fr
 redirect_from:
   - /startups/appel
 stats: true
+sponsors:
+ - /organisations/dgaln
 events:
   - name: product_launch
     date: 2021-09-15

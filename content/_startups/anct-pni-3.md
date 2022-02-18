@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (3)
 mission: Créer une GMAO adaptée à lusage des services techniques dune ville
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

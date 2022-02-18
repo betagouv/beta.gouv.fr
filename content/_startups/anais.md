@@ -1,7 +1,8 @@
 ---
 title: ANAIS
 mission: Maîtriser notre espace maritime
-owner: Ministère des Armées
+sponsor:
+ - /organiations/armees
 incubator: fabnumdef
 phases:
   - name: investigation

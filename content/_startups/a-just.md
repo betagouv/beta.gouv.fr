@@ -2,8 +2,10 @@
 title: A-JUST
 mission: Aider les juridictions dans l'affectation de leurs ressources humaines
   pour réduire les délais de justice.
-owner: Inspection Générale de la Justice - Ministère de la Justice
 incubator: dinum
+sponsors:
+ - /organisations/mj
+ - /organisations/igj
 contact: contact@a-just.fr
 events: []
 phases:

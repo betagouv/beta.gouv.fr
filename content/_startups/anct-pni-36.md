@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (36)
 mission: Gérer les équipements municipaux (culturels, sportifs, associatifs)
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

@@ -1,7 +1,8 @@
 ---
 title: Trajectoire Enfance
 mission: Améliorer la prise en charge des enfants placés
-owner: Département du Var
+sponsors:
+  - /organisations/departement-var
 incubator: anct
 phases:
     - name: investigation
