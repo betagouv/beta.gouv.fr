@@ -1,6 +1,6 @@
 ---
+name: Ministère du Travail, de l'Emploi et de l'Insertion
 acronym: MTEI
-name: Ministère du travail, de l'emploi et de l'insertion
-type: administration-centrale
 domaine_ministeriel: travail
+type: administration-centrale
 ---

@@ -68,10 +68,6 @@ collections:
           Par exemple : "Faciliter la création d'une fiche produit". Pas besoin de faire plus long.
         name: mission
         widget: string
-      - label: Qui est l'administration sponsor ?
-        hint : Indiques le nom de l'administration qui porte ta Startup d'Etat.
-        name: owner
-        widget: string
       - label: Quelques infos sur la ou les administrations sponsors ou partenaires ? 
         name: sponsors
         widget: list

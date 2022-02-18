@@ -15,8 +15,6 @@ layout: default
 
 {% include hero-startup.html startup=page phase=phase %}
 
-
-
 {% assign split_by_h1 = content | split:'<h1' %}
 {% assign content = split_by_h1 | join: '<h1 class="fr-my-3w fr-mt-4w"' %}
 
@@ -30,7 +28,15 @@ layout: default
 {% assign content = split_by_ul | join: '<ul class="fr-pl-4w"' %}
 
 {% capture incubator_info %}
-L'équipe est portée par {{ page.owner }} dans <a href="/startups/?incubateur={{ incubator_id | remove: '/incubators/' }}" title="{{ incubator.title }}">{{ incubator.title }}</a>
+L'équipe est portée par <a href="/startups/?incubateur={{ incubator_id | remove: '/incubators/' }}" title="{{ incubator.title }}">{{ incubator.title }}</a>
+{% endcapture %}
+
+{% capture sponsor_info %}
+L'équipe est sponsorisée par
+{% for sponsorId in page.sponsors %}
+  {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
+  {% if forloop.index > 1 %}, {% endif %}<abbr title="{{sponsor.name}}">{{sponsor.acronym}}</abbr>
+{% endfor %}
 {% endcapture %}
 
 {% capture contact_info %}
@@ -75,6 +81,7 @@ Technologies utilisées : {{ page.techno | join: ", " }}
   <div class="fr-container">
     <ul>
       <li>{{ incubator_info }}</li>
+      <li>{{ sponsor_info }}</li>
       <li>{{ contact_info }}</li>
     {% unless phase.status == 'investigation' %}
       <li>{{ statistiques_info }}</li>

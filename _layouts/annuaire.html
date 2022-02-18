@@ -110,7 +110,6 @@ layout: default
                 , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
                 , "repository": "{{ startup.repository}}"{% endif %}
                 , "contact": "{{startup.contact}}"
-                , "owner" : "{{ startup.owner | escape }}"
                 , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
                 , "screenshot-url": "{{ screenshot_path }}"
                 , "phases": [

@@ -35,7 +35,6 @@ layout: default
                 , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
                 , "repository": "{{ startup.repository}}"{% endif %}
                 , "contact": "{{startup.contact}}"
-                , "owner" : "{{ startup.owner | escape }}"
                 , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
                 , "screenshot-url": "{{ screenshot_path }}"
                 , "phases": [
@@ -198,7 +197,7 @@ layout: default
     SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        searchResultTemplate: "<div class=\"fr-tile fr-enlarge-link fr-tile--horizontal\"><div class=\"fr-tile__body\"><h4 class=\"fr-tile__title\"><a class=\"fr-tile__link\" href=\"{url}\">{title} - {owner}</a></h4><p class=\"fr-tile__desc\">{mission}</p></div></div>",
+        searchResultTemplate: "<div class=\"fr-tile fr-enlarge-link fr-tile--horizontal\"><div class=\"fr-tile__body\"><h4 class=\"fr-tile__title\"><a class=\"fr-tile__link\" href=\"{url}\">{title}</a></h4><p class=\"fr-tile__desc\">{mission}</p></div></div>",
         noResultsText: "<div class=\"fr-tile fr-enlarge-link fr-tile--horizontal\"><div class=\"fr-tile__body\"><h4 class=\"fr-tile__title\">Aucun résultat</div></div>",
         json: '/search.json'
     })

@@ -1,7 +1,8 @@
 ---
 title: Mes Aides # une majuscule et pas d'acronymes
 mission: Accéder aux conseils de professionnels à proximité pour trouver un logement # infinitif, pas de point ; compléter la phrase « En investissant dans ce produit l'État cherche à… »
-owner: DINUM # Administration porteuse
+sponsors: 
+ - /organisations/dinum # Liste des administrations sponsors, les valeurs possibles sont définies dans /content/_organisations/
 incubator: dinum # le nom du fichier de l'incubateur de la startup
 phases: # les différentes étapes de la vie des startups - les phases possibles sont définies dans /content/_phases/
   - name: investigation
