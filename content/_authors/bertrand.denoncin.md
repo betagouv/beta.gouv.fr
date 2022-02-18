@@ -5,8 +5,8 @@ domaine: Autre
 link: https://fairness.coop/
 github: volubyl
 missions:
-  - start: 2021-10-08
-    end: 2021-12-08
+  - start: 2022-02-11
+    end: 2022-05-11
     status: service
     employer: Fairness
 badges:
