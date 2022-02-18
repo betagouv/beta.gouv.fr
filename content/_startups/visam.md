@@ -1,12 +1,8 @@
 ---
 title: Visam
 mission: Fluidifier le dialogue social de la  « Direction des ressources humaines » de l’État.
-owner: DGAFP
 sponsors: 
-    - name: Direction générale de l'administration et de la fonction publique
-      acronym: DGAFP
-      domaine_ministeriel: spm # Service du premier ministre
-      type: administration-centrale
+    - /organisations/dgafp
 incubator: dinum
 phases:
   - name: investigation
