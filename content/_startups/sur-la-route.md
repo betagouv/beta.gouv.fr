@@ -2,7 +2,7 @@
 title: Sur la route !
 mission: Éviter les travaux sauvages sur les routes départementales
 sponsors:
-  - /organisations/cd-pas-de-calais
+ - /organisations/departement-pas-de-calais
 incubator: anct
 phases:
   - name: investigation
