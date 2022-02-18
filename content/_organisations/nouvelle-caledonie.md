@@ -1,6 +1,6 @@
 ---
 name: Gouvernement de la Nouvelle-Calédonie
 acronym: NC
-type: autres
-domaine-ministeriel: autres
+type: autre
+domaine_ministeriel: autres
 ---
