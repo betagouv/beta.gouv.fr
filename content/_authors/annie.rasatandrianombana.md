@@ -9,8 +9,9 @@ missions:
     status: independent
     employer: Dinum-Octo
 startups:
-  - resorption-bidonvilles
   - itou
   - pilotage.de.linclusion
+previously:
+  - resorption-bidonvilles
 ---
 
