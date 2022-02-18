@@ -6,47 +6,59 @@ mapping:
   "mission":
     type:      str
     required:  yes
-  "owner":
-    type:      str
   "sponsors":
     type:      seq
     sequence:
-        - type:      map
-          mapping:
-            "name":
-              type:      str
-              required:  yes
-            "acronym":
-              type:      str
-            "type":
-              type:      str
-              enum:
-                - administration-centrale
-                - service-deconcentre
-                - operateur
-                - securite-sociale
-                - collectivite-territoriale
-                - autre
-            "domaine_ministeriel":
-              type:      str
-              enum:
-                - affaires-etrangeres
-                - affaires-sociales
-                - agriculture
-                - armees
-                - bercy
-                - culture
-                - education-nat
-                - enseignement-sup
-                - environnement
-                - interieur
-                - outre-mer
-                - sante
-                - spm # Service du premier ministre
-                - sport
-                - travail
-                - territoires
-                - autres
+        - type:      str
+          enum:
+            - ademe                     
+            - agence-bio                
+            - anct                      
+            - anssi                     
+            - armees                    
+            - ars-franche-comte         
+            - c-comptes                 
+            - cdc                       
+            - cma-haut-de-france        
+            - departement-oise          
+            - departement-pas-de-calais 
+            - departement-var           
+            - dgac                      
+            - dgaln                     
+            - dgcs                      
+            - dgddi                     
+            - dgeb                      
+            - dgec                      
+            - dgefp                     
+            - dgesco                    
+            - dgfip                     
+            - dgitm                     
+            - dgpr                      
+            - dgt                       
+            - dhup
+            - dinum
+            - djepva
+            - drieat
+            - dsr
+            - fnccr
+            - hcc
+            - igj
+            - ign
+            - igpn
+            - interieur
+            - mc
+            - mctrct
+            - meae
+            - mefr
+            - menjs
+            - mesr
+            - mj
+            - mtei
+            - mtes
+            - mtfp
+            - pole-emploi
+            - sgdsn
+            - solidarite-sante
   "events":
     type:      seq
     sequence:
