@@ -3,12 +3,8 @@ title: Solution EASI
 mission: "Améliorer par l’audiovisuel l'expérience relationnelle entre les
   usagers particuliers et la DGFiP et réduire les taux d’erreurs sans avoir
   besoin de contact. "
-owner: Direction générale des Finances publiques (DGFiP)
 sponsors:
-  - name: Direction générale des Finances publiques
-    acronym: DGFiP
-    type: administration-centrale
-    domaine_ministeriel: autres
+  - /organisations/dgfip
 incubator: fabrique-dgfip
 contact: dtnum.culture-numerique.Innover@dgfip.finances.gouv.fr
 stats: false
