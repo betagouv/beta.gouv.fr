@@ -1,7 +1,6 @@
 ---
 title: Wikicarbone
 mission: Accélerer la mise en place de l'affichage environnemental
-owner: Commissariat Général au Développement Durable
 sponsors:
   - /organisations/mtes
   - /organisations/Commissariat Général au Développement Durable
