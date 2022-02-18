@@ -5,6 +5,8 @@ mapping:
       required:  yes
     "acronym":
       type:      str
+    "annuaire":
+      type:      str
     "type":
       type:      str
       enum:
@@ -18,17 +20,17 @@ mapping:
       type:      str
       enum:
         - affaires-etrangeres
-        - affaires-sociales
         - agriculture
         - armees
         - bercy
         - culture
-        - education-nat
+        - education
         - enseignement-sup
         - environnement
         - interieur
+        - justice
         - outre-mer
-        - sante
+        - solidarite-sante
         - spm # Service du premier ministre
         - sport
         - travail
