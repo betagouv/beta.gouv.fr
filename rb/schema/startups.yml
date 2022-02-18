@@ -11,33 +11,56 @@ mapping:
     sequence:
         - type:      str
           enum:
-            - /organisations/ademe                     
-            - /organisations/agence-bio                
-            - /organisations/anct                      
+            - /organisations/ademe
+            - /organisations/acoss            
+            - /organisations/agence-bio     
+            - /organisations/anah           
+            - /organisations/anct
+            - /organisations/ans
             - /organisations/anssi                     
             - /organisations/armees                    
-            - /organisations/ars-franche-comte         
+            - /organisations/ars-franche-comte  
+            - /organisations/assemblee-nationale
+            - /organisations/bdf       
             - /organisations/c-comptes                 
-            - /organisations/cdc                       
-            - /organisations/cma-haut-de-france        
+            - /organisations/cdc            
+            - /organisations/cerema
+            - /organisations/cgdd           
+            - /organisations/cma-haut-de-france  
+            - /organisations/cnam
+            - /organisations/cnav
+            - /organisations/cnsa      
             - /organisations/departement-oise          
             - /organisations/departement-pas-de-calais 
-            - /organisations/departement-var           
-            - /organisations/dgac                      
+            - /organisations/departement-var 
+            - /organisations/dg-tresor          
+            - /organisations/dgac       
+            - /organisations/dgafp
+            - /organisations/dgal               
             - /organisations/dgaln                     
+            - /organisations/dgca
+            - /organisations/dgccrf
             - /organisations/dgcs                      
-            - /organisations/dgddi                     
+            - /organisations/dgddi  
+            - /organisations/dge                   
             - /organisations/dgeb                      
             - /organisations/dgec                      
             - /organisations/dgefp                     
-            - /organisations/dgesco                    
+            - /organisations/dgesco  
+            - /organisations/dgesip                  
             - /organisations/dgfip                     
-            - /organisations/dgitm                     
-            - /organisations/dgpr                      
-            - /organisations/dgt                       
+            - /organisations/dgitm  
+            - /organisations/dgos                   
+            - /organisations/dgpat
+            - /organisations/dgpr
+            - /organisations/dgs
+            - /organisations/dgt
             - /organisations/dhup
+            - /organisations/dihal
             - /organisations/dinum
+            - /organisations/ditp
             - /organisations/djepva
+            - /organisations/dns
             - /organisations/drieat
             - /organisations/dsr
             - /organisations/fnccr
@@ -45,6 +68,7 @@ mapping:
             - /organisations/igj
             - /organisations/ign
             - /organisations/igpn
+            - /organisations/inca
             - /organisations/interieur
             - /organisations/mc
             - /organisations/mctrct
@@ -56,9 +80,13 @@ mapping:
             - /organisations/mtei
             - /organisations/mtes
             - /organisations/mtfp
+            - /organisations/nouvelle-caledonie
             - /organisations/pole-emploi
             - /organisations/sgdsn
+            - /organisations/shom
+            - /organisations/sndv
             - /organisations/solidarite-sante
+            - /organisations/urssaf
   "events":
     type:      seq
     sequence:
