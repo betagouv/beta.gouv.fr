@@ -1,7 +1,8 @@
 ---
 title: Tout est permis
 mission: Favoriser l'emploi des jeunes hors agglomération en les aidants à obtenir le permis de conduire
-owner: Région Hauts-de-France
+sponsors:
+    - /organisations/cr-hauts-de-france
 incubator: anct
 phases:
   - name: investigation
