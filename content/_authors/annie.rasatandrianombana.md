@@ -13,8 +13,9 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - resorption-bidonvilles
   - itou
   - pilotage.de.linclusion
+previously:
+  - resorption-bidonvilles
 ---
 
