@@ -1,8 +1,9 @@
 ---
 title: Guichet-entreprises.nc
 mission: Faciliter les démarches administratives des entreprises calédoniennes
-owner: Gouvernement de la Nouvelle-Calédonie
 incubator: dinum
+sponsors:
+  - /organisations/nouvelle-caledonie
 link: https://guichet-entreprises.nc/
 contact: mathilde.menil@gouv.nc
 events:

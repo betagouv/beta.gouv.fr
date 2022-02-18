@@ -1,12 +1,8 @@
 ---
 title: ESTIME
 mission: Soutenir la reprise d'activité des demandeurs d'emploi en facilitant l'accès à l'information concernant les aides financières 
-owner: Pôle emploi
 sponsors:
-  - name: Pôle emploi
-    acronym: PE
-    domaine_ministeriel: travail
-    type: operateur
+  - /organisations/pole-emploi
 incubator: pole-emploi
 link: https://estime.pole-emploi.fr/
 contact: estime@pole-emploi.fr

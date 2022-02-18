@@ -1,12 +1,8 @@
 ---
 title: EnvErgo
 mission: Améliorer la prise en compte de l'environnement dans les projets d'aménagement
-owner: Direction générale de l'aménagement, du logement et de la nature (DGALN)
 sponsors:
-  - acronym: DGALN
-    name: Direction générale de l'aménagement, du logement et de la nature (DGALN)
-    type: administration-centrale
-    domaine_ministeriel: environnement
+  - /organisations/dgaln
 incubator: mtes
 link: https://envergo.beta.gouv.fr
 repository: https://github.com/MTES-MCT/envergo

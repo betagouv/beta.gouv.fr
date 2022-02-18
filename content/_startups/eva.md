@@ -1,13 +1,9 @@
 ---
 title: eva (ex Compétences pro)
 mission: Favoriser l’insertion en détectant les compétences transversales et valorisant les potentiels
-
-owner: Haut-commissaire aux compétences et à l’inclusion par l’emploi - DGEFP
-sponsors: 
-    - name: Haut commissariat aux compétences
-      acronym:
-      domaine_ministeriel: travail
-      type: administration-centrale
+sponsors:
+  - /organisations/dgefp
+  - /organisations/hcc
 incubator: dinum
 phases:
   - name: investigation

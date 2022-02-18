@@ -2,7 +2,8 @@
 title: Hydrogène
 mission: Accélérer la création de la filière française de production d'hydrogène
   décarboné
-owner: DGEC
+sponsors:
+  - /organisations/mtes
 incubator: mtes
 contact: lionel.prevors@developpement-durable.gouv.fr
 phases:
