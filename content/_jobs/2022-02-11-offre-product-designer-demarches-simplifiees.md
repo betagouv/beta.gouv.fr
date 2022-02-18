@@ -1,17 +1,18 @@
 ---
-roles: UX Designer senior
+roles: UX Designer (H/F) senior
 startup: demarches-simplifiees.fr
 open: true
 ---
 
-Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une équipe agile, et proche de ses utilisateurs ? demarches-simplifiies.fr recherche un.e UX Designer senior !
+Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une équipe agile, et proche de ses utilisateurs ? demarches-simplifiees.fr recherche un·e UX Designer senior !
 
 demarches-simplifiees.fr est une application entièrement en ligne qui permet à tous les organismes assurant des missions de service public de créer des démarches en quelques minutes et de gérer les demandes des usagers sur une plateforme dédiée.
 
 <!--more-->
 
-## Qui sommes-nous ?
-[demarches-simplifiees.fr](https://www.demarches-simplifiees.fr) permet aux administrations de dématérialiser leurs démarches papiers. Avec plus 20 000 démarches en ligne, plus de 5 millions de dossiers, et utilisateurs, nous sommes l’une des Start-ups d’état les plus utilisées. Notre produit est disponible ici : [https://www.demarches-simplifiees.fr](https://www.demarches-simplifiees.fr)
+## Qui sommes-nous ?
+
+[demarches-simplifiees.fr](https://www.demarches-simplifiees.fr) permet aux administrations de dématérialiser leurs démarches papiers. Avec plus 20 000 démarches en ligne, plus de 5 millions de dossiers, et utilisateurs, nous sommes l’une des Start-ups d’état les plus utilisées. Notre produit est disponible ici : [https://www.demarches-simplifiees.fr](https://www.demarches-simplifiees.fr)
 
 Nous sommes une équipe de 12 personnes. Nous travaillons en itérations courtes, rencontrons régulièrement les administrations qui utilisent notre produit, et nous participons au support client afin de mieux nous confronter aux problèmes rencontrés par nos utilisateurs.
 
@@ -57,4 +58,4 @@ Nous recherchons un·e Product Designer / UX Designer expérimenté·e (+ de 5 a
 * Démarrage dès que possible
 
 ## Pour postuler
-Envoyez-nous un message à [equipe@demarches-simplifiees.fr](mailto:equipe@demarches-simplifiees.fr), avec [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr) en copie, avec un lien vers votre portfolio, votre profil LinkedIn, Malt ou équivalent.
+Envoyez-nous un message à [equipe@demarches-simplifiees.fr](mailto:equipe@demarches-simplifiees.fr), avec [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr) en copie, avant le mardi 22 février inclus. Si possible, pensez à inclure un lien vers votre portfolio, votre profil LinkedIn, Malt ou équivalent.
