@@ -1,0 +1,15 @@
+server {
+  server_name localhost;
+  listen <%= ENV['PORT'] %>;
+
+  charset utf-8;
+
+  # Disable compression that is performed by the Scalingo router anyway
+  gzip off;
+
+  location / {
+    root /app/_dist/;
+    try_files $uri index.html =404;
+    expires -1;
+  }
+}
