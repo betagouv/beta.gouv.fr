@@ -6,7 +6,7 @@ github: b611
 link: http://cv.louisanelli.com/
 missions:
   - start: 2020-10-22
-    end: 2022-02-28
+    end: 2022-09-01
     status: independent
     employer: Octo
 startups:
