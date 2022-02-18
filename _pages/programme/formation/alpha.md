@@ -43,7 +43,6 @@ images:
 
 <br>
 
-**La session du 17 février est COMPLÈTE**
 **La prochaine session aura lieu le jeudi 10 mars 2022. En visio (lien communiqué après inscription)**
 <br>
 <br>
