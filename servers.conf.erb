@@ -8,8 +8,8 @@ server {
   gzip off;
 
   location / {
-    root /app/_dist/;
-    try_files $uri index.html =404;
-    expires -1;
+    root /app/_dist;
+    index index.html;
+    try_files $uri $uri/ /index.html =404;
   }
 }
