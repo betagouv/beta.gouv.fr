@@ -12,45 +12,45 @@ mapping:
         - type:      str
           enum:
             - /organisations/ademe
-            - /organisations/acoss            
-            - /organisations/agence-bio     
-            - /organisations/anah           
+            - /organisations/acoss
+            - /organisations/agence-bio
+            - /organisations/anah
             - /organisations/anct
             - /organisations/ans
-            - /organisations/anssi                     
-            - /organisations/armees                    
-            - /organisations/ars-franche-comte  
+            - /organisations/anssi
+            - /organisations/armees
+            - /organisations/ars-franche-comte
             - /organisations/assemblee-nationale
-            - /organisations/bdf       
-            - /organisations/c-comptes                 
-            - /organisations/cdc            
+            - /organisations/bdf
+            - /organisations/c-comptes
+            - /organisations/cdc
             - /organisations/cerema
-            - /organisations/cgdd           
-            - /organisations/cma-haut-de-france  
+            - /organisations/cgdd
+            - /organisations/cma-haut-de-france
             - /organisations/cnam
             - /organisations/cnav
-            - /organisations/cnsa      
-            - /organisations/departement-oise          
-            - /organisations/departement-pas-de-calais 
-            - /organisations/departement-var 
-            - /organisations/dg-tresor          
-            - /organisations/dgac       
+            - /organisations/cnsa
+            - /organisations/departement-oise
+            - /organisations/departement-pas-de-calais
+            - /organisations/departement-var
+            - /organisations/dg-tresor
+            - /organisations/dgac
             - /organisations/dgafp
-            - /organisations/dgal               
-            - /organisations/dgaln                     
+            - /organisations/dgal
+            - /organisations/dgaln
             - /organisations/dgca
             - /organisations/dgccrf
-            - /organisations/dgcs                      
-            - /organisations/dgddi  
-            - /organisations/dge                   
-            - /organisations/dgeb                      
-            - /organisations/dgec                      
-            - /organisations/dgefp                     
-            - /organisations/dgesco  
-            - /organisations/dgesip                  
-            - /organisations/dgfip                     
-            - /organisations/dgitm  
-            - /organisations/dgos                   
+            - /organisations/dgcs
+            - /organisations/dgddi
+            - /organisations/dge
+            - /organisations/dgeb
+            - /organisations/dgec
+            - /organisations/dgefp
+            - /organisations/dgesco
+            - /organisations/dgesip
+            - /organisations/dgfip
+            - /organisations/dgitm
+            - /organisations/dgos
             - /organisations/dgpat
             - /organisations/dgpr
             - /organisations/dgs
