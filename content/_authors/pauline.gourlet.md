@@ -5,11 +5,16 @@ role: UX researcher
 github: paulinegourlet
 link: http://paulinegourlet.com/
 missions:
+  - start: 2022-02-21
+    end: 2022-06-30
+    status: independent
+    employer: La Zone
   - start: 2021-03-01
     end: 2021-11-01
     status: independent
     employer: OCTO
 startups:
+previously:
   - carnet.de.bord
 competences:
   - UX
