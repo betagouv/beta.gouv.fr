@@ -2,7 +2,7 @@
 startup: ellesfontlaculture
 title: "elles font la culture recrute une personne chargée de déploiement et communication"
 roles: un ou une chargée de déploiement
-open: true
+open: false
 ---
 
 
