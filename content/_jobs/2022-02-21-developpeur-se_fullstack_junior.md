@@ -1,9 +1,10 @@
 ---
-roles: Développeur‧se fullstack junior
+roles: Développeur ou une développeuse fullstack junior
 open: true
+junior: true
 date: 2022-02-21T9:00:00.000Z
 ---
-L’incubateur des API recherche un‧e développeur‧se fullstack junior pour le site api.gouv.fr et la plateforme d’habilitation DataPass.
+L’incubateur des API recherche un développeur ou une développeuse fullstack junior pour le site api.gouv.fr et la plateforme d’habilitation DataPass.
 
 ## **Qui sommes-nous ?**
 
