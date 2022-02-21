@@ -43,7 +43,7 @@ Les technologies mises en œuvre au sein de l'Incubateur des Territoires sont :
 
 Les technologies pour les projets accompagnés sont très divers dans l'écosystème open-source (PHP, Python, Ruby, NodeJS).
 
-**## Compétences**
+## **Compétences**
 
 Vous êtes familier avec :
 
@@ -61,7 +61,7 @@ Il pourrait être intéressant si vous aviez quelques notions de :
 - Haute disponibilité
 - Gestion de coùts
 
-**## Modalités de travail**
+## **Modalités de travail**
 
 - Début de la mission **dès que possible.**
 - Télétravail possible. Déplacements à Paris à prévoir occasionnellement
