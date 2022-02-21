@@ -1,6 +1,7 @@
 ---
 fullname: Nivann Langlois
 role: Chargé de déploiement 
+github: Nivann
 domaine: Déploiement
 link: https://www.linkedin.com/in/nivann-langlois-6b9134b8/
 missions:
