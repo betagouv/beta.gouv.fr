@@ -1,6 +1,6 @@
 ---
 title: API Entreprise
-mission: Récupérer les données des entreprises.
+mission: Récupérer les données des entreprises pour éviter de les redemander 
 owner: DINUM
 sponsors: 
     - name: Direction interministérielle du numérique
