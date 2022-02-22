@@ -1,6 +1,6 @@
 ---
 title: API Particulier
-mission: Accélérer l’ouverture des données personnelles et leur réutilisation pour simplifier les démarches
+mission: Faire circuler les données des particuliers pour réduire les demandes de pièces justificatives et simplifier les démarches
 owner: DINUM
 sponsors: 
     - name: Direction interministérielle du numérique
