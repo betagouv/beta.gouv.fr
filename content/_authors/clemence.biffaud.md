@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: NUMA
   - start: 2021-12-01
-    end: 2022-03-01
+    end: 2022-10-31
     employer: Octo
     status: independent
 competences:
