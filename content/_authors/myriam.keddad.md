@@ -1,6 +1,6 @@
 ---
 fullname: Myriam Keddad
-role: Chargée de relation usagés
+role: Chargée de relation usager
 domaine: Déploiement
 github: myriamkeddad
 missions:
