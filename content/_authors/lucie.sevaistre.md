@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Malt
 startups:
-  - jeveuxaider
+  - jeveuxaider.gouv
 ---
 
 Graphic Designer engagée !
