@@ -44,7 +44,7 @@ Enfin, bien que l’État soutienne les associations au travers de subventions n
 *Pour les associations:*
 
 * je perds beaucoup de temps en répétition des démarches, en suivi et en adaptation aux différents formats et outils de dépôt des demandes de subvention;
-* je dois parfois prendre le risque de présenter un projet et de le mettre en oeuvre sans avoir de vision certaine sur les financements;
+* je dois parfois prendre le risque de présenter un projet et de le mettre en œuvre sans avoir de vision certaine sur les financements;
 * j’ai du mal à me projeter et à stabiliser les activités de mon association dans le temps.
 
 ## **Solution en construction**
