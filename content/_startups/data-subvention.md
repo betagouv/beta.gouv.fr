@@ -11,8 +11,6 @@ phases:
     start: 2021-09-01
     end: 2022-03-15
 ---
-
-
 ## Contexte
 
 En France, près d’1,5 million d’associations mobilisent 12,5 millions de bénévoles - dont 5 millions s’engagent chaque semaine - et font vivre la solidarité, le lien social, le développement et l’animation des territoires. En termes d’emploi, près de 160 000 associations salarient plus d’1,8 millions de personnes ce qui représente 9,3% des effectifs salariés de l’ensemble du secteur privé.
@@ -25,8 +23,6 @@ En 2018, l’État a attribué plus de 6 milliards d’euros aux associations so
 
 De plus, face à l’importance du nombre du subventions versées chaque année et face à la volonté d’accroître le niveau de transparence concernant l’usage de l’argent public, il est essentiel aujourd’hui d’appliquer une politique d’ouverture des données, rendant disponibles et publiques, l’ensemble des subventions versées par l’État aux associations.
 
-
-
 ## Problème
 
 D’un côté, les associations, notamment les plus petites ou les moins professionnalisées, peinent à accéder aux subventions publiques car elles manquent de lisibilité et de visibilité sur leur typologie, leurs critères d’éligibilité et les démarches nécessaires pour effectuer une demande. Quand elles parviennent à identifier un type d’aides, elles se heurtent bien souvent à des dossiers de demande qui peuvent leur sembler complexes à renseigner, à la difficulté de réunir les pièces justificatives demandées et à la nécessité de démultiplier leurs démarches. Cela est notamment lié à l’absence d’uniformisation des modalités entre les différents financeurs.  Ces difficultés créent du non-recours par manque d’information ou par renoncement mais génèrent aussi un sentiment d’incompréhension et de distance vis-à-vis des institutions.
@@ -37,31 +33,30 @@ Bien que la dématérialisation de certaines démarches ait permis de réelles a
 
 Enfin, bien que l’État soutienne les associations au travers de subventions numéraires, les données relatives à ces attributions, leurs bénéficiaires et les projets soutenus ne sont pas toujours rendus publics ou accessibles au public. Or, les citoyens doivent pouvoir savoir ce que finance l’argent public et l’État doit pouvoir mieux valoriser la contribution qu’il apporte au champ associatif.
 
+## Enseignements de la phase d'investigation
 
+*Pour les services de l’Etat:*
 
-## Solutions potentielles envisagées
+* quand je dois instruire une demande de subvention d’une association, je ne sais pas si celle-ci a déposé des demandes auprès d’autres services et leur décision;
+* je dois parfois effectuer de nombreux aller-retour avec l’association pour avoir un dossier complet et/ou conforme;
+* j’ai du mal à mesurer l’impact du financement attribué.
 
-Il s’agit donc d’identifier une ou des solutions numériques qui permettent de :
+*Pour les associations:*
 
-* Pour les administrations de l’État, disposer d’un service leur donnant connaissance de l’ensemble des subventions perçues par une association et du respect de celle-ci des conditions légales pour percevoir des subventions ;
-* Pour les associations, simplifier leurs démarches et leur accès aux subventions de l’État ;
+* je perds beaucoup de temps en répétition des démarches, en suivi et en adaptation aux différents formats et outils de dépôt des demandes de subvention;
+* je dois parfois prendre le risque de présenter un projet et de le mettre en oeuvre sans avoir de vision certaine sur les financements;
+* j’ai du mal à me projeter et à stabiliser les activités de mon association dans le temps.
 
-Pour les citoyens et l’ensemble des acteurs de la société civile, avoir accès, s’ils le souhaitent, aux subventions versées aux associations par l’État.
+## **Solution en construction**
 
+Pour répondre à ces enjeux, l'équipe va travailler sur la mise en commun, l’échange de données et l’interopérabilité entre les différents outils et les API pour favoriser une vision plus globale et enrichie des associations et réduire la répétition des informations et leur mise  jour.
 
+Pour cela, l'équipe collecte les données disponibles dans les différents outils de dématérialisation et les APIs existants, qu’elle croise et veut rendre consultables via une interface client web. 
 
-## **Axes d’investigation**
+Elle développe également une API pour exposer ces données, favoriser l’interopérabilité entre les outils et la réutilisation des données et ainsi réduire les répétitions et les problèmes d’actualisation de ces informations.
 
-La phase d’investigation vise à :
+## Stratégie de déploiement
 
-* Identifier et répertorier les données existantes concernant les subventions versées par l’État, leur typologie, leurs sources et leur nomenclature ;
-* Étudier les modalités de leur collecte et leur consolidation dans une interface unique ;
-* Expertiser comment la vérification des obligations légales nécessaires à l’attribution d’une subvention peut être optimisée pour les services de l’État et pour les associations ;
-* Analyser les différents processus de demande de subvention et identifier des leviers de convergence ou de simplification ;
-* Repérer les améliorations possibles en termes d’information et d’accès aux aides.
+La startup vise à recruter ses premiers utilisateurs parmi les utilisateurs d'outils de dématérialisation des subventions existants.
 
-Ces analyses doivent conduire à identifier un ou plusieurs scenarii de solutions possibles, leurs conditions de réussite et leurs impacts potentiels, auprès des services de l’État comme auprès des associations.
-
-## Stratégie
-
-La phase d’investigation démarre en septembre et rendra ses conclusions en octobre. Elle s’appuiera sur des entretiens avec des acteurs issus des services de l’État (central et territorial) et des acteurs associatifs.
+Elle envisage aussi une approche territorialisée ciblée sur une ou deux régions en cours d'identification.
