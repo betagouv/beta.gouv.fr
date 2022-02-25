@@ -1,8 +1,8 @@
 ---
 roles: Première développeuse ou développeur fullstack
-startup: sppnaut
-open: true
+open: false
 date: 2022-01-21
+startup: sppnaut
 ---
 
 [SPPNaut](https://beta.gouv.fr/startups/sppnaut.html) est une jeune Start-up d'État au service de la communauté maritime.
