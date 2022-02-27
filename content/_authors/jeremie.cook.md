@@ -10,17 +10,18 @@ missions:
     employer: dinum
     status: admin
   - start: 2019-07-02
-    end: 2021-12-31
+    end: 2022-12-31
     status: independent
 startups:
-  - enfants-du-spectacle
-  - ozensemble
-  - monsuivipsy
+  - resorption-bidonvilles
   - domifa
 previously:
   - codedutravail
   - mes-aides
   - preuve-de-covoiturage
   - classe-a-12
+  - enfants-du-spectacle
+  - ozensemble
+  - monsuivipsy
 domaine: Design
 ---
