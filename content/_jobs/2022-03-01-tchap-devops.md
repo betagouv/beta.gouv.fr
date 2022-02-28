@@ -23,12 +23,12 @@ Nous formons des équipes pluridisciplinaires constituées de personnes engagée
 
 beta.gouv.fr a déjà contribué à la création de dizaines de services numériques déjà disponibles ou à venir. Nous animons une communauté en croissance qui construit les services publics numériques de demain au sein d’un réseau d’incubateurs publics partageant les mêmes valeurs.
 
-## Mission :
+## Mission
 Au sein de l'équipe Tchap, vous rôle sera, de veiller aux disponibilités du service tout en maintenant et améliorant l’infrastructure. Aider l’équipe de développement en mettant en place des services d’intégrations continues.
 La mission se fait en lien avec l’intrapreneur de Tchap, au sein d’une équipe de 3 administrateurs systèmes (avec des profils devops), et en collaboration avec les 6 personnes de l'équipe de développement.
 Un des enjeux de la mission est de réussir la migration de Tchap vers un nouveau cloud du ministère de l’Intérieur. L’équipe souhaite exploiter les possibilités de Kubernetes pour faciliter la gestion et la scalabilité du service.
 
-## Activités principales :
+## Activités principales
 - Participer à la maintenance et l’évolution des environnements de production, pré-production et dev sur un cloud OpenStack ;
 - Participer au succès de la migration d’une plateforme IaaS (OpenStack)  vers une infrastructure Kubernetes ;
 - Participer aux points de suivi avec le reste de l'équipe Tchap pour l’ajout de nouvelles fonctionnalités ;
@@ -40,11 +40,11 @@ Un des enjeux de la mission est de réussir la migration de Tchap vers un nouvea
 - Aider l’équipe à progresser sur l’état de l’art de la gestion opérationnelle (automatisation, déploiement continu, sauvegarde de données, sécurité informatique, …) .
 En fonction de l’évolution des priorités fixées par la DINUM, vous pouvez être amené-e à travailler sur d’autres produits de la DINUM (Audioconférence de l'État par exemple).
 
-## Profil : 
+## Profil
 - Diplôme de niveau bac+4/5 en informatique ;
 - Au moins 7 ans d’expérience dans le domaine de l'administration système ;
  
-## Savoir-faire : 
+## Savoir-faire
 - Travailler dans un projet complexe et intervenir dans un environnement pluridisciplinaire ;
 - Maîtriser des principes d’intégrations et déploiement continue ;
 - Connaître des organisations horizontales et de leurs spécificités ;
@@ -52,7 +52,7 @@ En fonction de l’évolution des priorités fixées par la DINUM, vous pouvez �
 - Maîtriser des outils Ansible, Terraform et git ;
 - Avoir une appétence pour le logiciel libre.
  
-## Savoir-être : 
+## Savoir-être
 - Aisance relationnelle ;
 - Capacité à travailler en équipe et à faire progresser les autres ;
 - Créativité.
