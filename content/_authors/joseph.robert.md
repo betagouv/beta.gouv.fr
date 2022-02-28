@@ -1,11 +1,11 @@
 ---
 fullname: Joseph Robert
-role: DevSecOpseur
+role: Pousseur de code
 domaine: Développement
 github: jozolr
 missions:
   - start: 2021-11-08
-    end: 2022-03-13
+    end: 2022-09-01
     status: service
     employer: OCTO
 startups:
