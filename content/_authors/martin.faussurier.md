@@ -6,7 +6,7 @@ missions:
   - start: 2022-02-28
     end: 2022-09-28
     status: independent
-    employer: Malt
+    employer: Ministère de l'éducation, de l'engagement et de la jeunesse
 startups:
   - snu
 badges:
