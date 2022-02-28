@@ -5,7 +5,7 @@ domaine: Développement
 github: colinmaudry
 missions:
   - start: 2021-09-01
-    end: 2022-02-28
+    end: 2022-05-31
     status: independent
     employer: Octo
 startups:
