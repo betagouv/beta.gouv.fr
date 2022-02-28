@@ -4,7 +4,7 @@ domaine: Intraprenariat
 role: Intrapreneur
 missions:
   - start: 2021-06-01
-    end: 2022-02-28
+    end: 2022-08-31
     status: admin
     employer: MTES-MCT
 startups:
