@@ -69,4 +69,4 @@ En fonction de l’évolution des priorités fixées par la DINUM, vous pouvez �
 Expliquez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV, le tout à candidatures-dinum@pm.gouv.fr avec julien.dauphant@beta.gouv.fr en copie. Indiquer la référence 2022-825703 .
 À bientôt ! 😀
 
-L'offre est aussi visible sur la place de l'emploi public : https://place-emploi-public.gouv.fr/offre-emploi/architecte-systeme--devops-hf-cdd3ans-reference-2022-825703/
+Cette offre est aussi visible sur [la place de l'emploi public](https://place-emploi-public.gouv.fr/offre-emploi/architecte-systeme--devops-hf-cdd3ans-reference-2022-825703/).
