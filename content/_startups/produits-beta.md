@@ -20,7 +20,9 @@ La Startup interne "Produits @ beta.gouv.fr" vise à accompagner les équipes da
 
 ## Problème
 
-Le fait de créer des produits de qualité permet de garantir l'autonomie de l'ensemble des équipes beta.gouv.fr. Or le suivi de la qualité implique de nombreuses expertises qui ne se rencontrent pas naturellement au long de la vie des produits.
+La qualité des produits numériques développés par beta.gouv.fr permet au programme de négocier l'autonomie technique et produit des équipes produit auprès des administrations porteuses. Un manque de qualité peut induire un risque réputationnel fort pour beta.gouv.fr pouvant même remettre en question l'autonomie des équipes.
+
+ Or le suivi de la qualité implique de nombreuses expertises qui ne se rencontrent pas naturellement au long de la vie des produits.
 
 Les ressources et expertises mises à disposition des équipes pour assurer la qualité des produits développés ne sont pas toutes connues ou mobilisées par les équipes.
 
