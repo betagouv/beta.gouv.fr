@@ -62,7 +62,7 @@ Cette équipe:
      - ...
  - :mag_right: suivra de façon publique la maturité de l'équipe produit sur les 8 axes ci-dessus (ex: le site beta.gouv.fr / dashlord)
  - :balance_scale: décidera d'accompagner un produit en se positionnant sur le respects des standards
-     - avant les comités d'investissement, en prenant contact avec l'équipe pour fournir l'état des lieux et enclencher un dialogue
+     - avant les comités d'investissement, en prenant contact avec l'équipe pour fournir l'état des lieux des travaux d'avancement de l'équipe, de l'impact du service auprès des usagers, et de l'emploi de financements jusqu'à présent
      - en organisant un point de décision sur une équipe suivie en cas d'alerte
 
 ## :construction: Mesures d'impact (à compléter avec la communauté)
