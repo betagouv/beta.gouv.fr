@@ -7,7 +7,7 @@ sponsors:
       acronym: 
       domaine_ministeriel: environnement
       type: administration-centrale
-incubator: mte
+incubator: mtes
 phases:
   - name: investigation
     start: 2019-11-01
