@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/alexandre-gabadou/
 github: gabadou
 missions:
   - start: 2021-06-15
-    end: 2022-02-28
+    end: 2022-06-30
     status: service
     employer: DINUM
 startups:
