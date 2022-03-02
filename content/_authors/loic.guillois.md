@@ -18,6 +18,7 @@ missions:
     employer: octo
 startups:
     - conseiller-numerique
+    - sppnaut
 previously:
     - jeveuxaider
     - mon-entreprise
