@@ -27,4 +27,4 @@ badges:
   - segur
 ---
 
-Développeur Web. Ingénieur Machine Learning, IA et IoT
+Développeur Web - Ingénieur Machine Learning, IA et IoT
