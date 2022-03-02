@@ -1,6 +1,6 @@
 ---
 title: Matcha
-mission: "Susciter des recrutements en apprentissage"
+mission: "Faciliter le dépôt, la gestion et la diffusion de besoins de recrutement en alternance"
 owner: Mission interministérielle pour l'apprentissage
 sponsors:
   - type: administration-centrale
