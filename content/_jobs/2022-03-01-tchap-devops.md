@@ -63,7 +63,7 @@ En fonction de l’évolution des priorités fixées par la DINUM, vous pouvez �
 * Contrat de 3 ans sur Paris, Lyon ou Rennes 
 * Télétravail possible 2 jours par semaine
 
-Cette offre n'est pas ouvert à la prestation, c'est un contrat en tant qu'agent public.
+Cette offre n'est pas ouverte à la prestation, c'est un contrat en tant qu'agent public.
 
 ## Candidater
 
