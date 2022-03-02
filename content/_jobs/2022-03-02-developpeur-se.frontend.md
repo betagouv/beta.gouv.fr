@@ -80,4 +80,4 @@ Ops :
 
 ## 🚀 Postuler
 
-Envoyez-nous votre candidature par courriel à l’adresse suivante : [recrutement@trackdechets.beta.gouv.fr](recrutement@trackdechets.beta.gouv.fr). Pas besoin de lettre de motivation formelle, quelques lignes dans le corps du message suffisent pour exprimer votre motivation. Ajoutez votre CV ou le lien vers votre compte Linkedin ou Github/Gitlab, et tout ce que vous souhaitez nous communiquer qui nous permettra de mieux vous connaître. Si vous avez des questions avant de postuler, n’hésitez pas à nous écrire.
+Envoyez-nous votre candidature par courriel à l’adresse suivante : [recrutement@trackdechets.beta.gouv.fr](mailto:recrutement@trackdechets.beta.gouv.fr). Pas besoin de lettre de motivation formelle, quelques lignes dans le corps du message suffisent pour exprimer votre motivation. Ajoutez votre CV ou le lien vers votre compte Linkedin ou Github/Gitlab, et tout ce que vous souhaitez nous communiquer qui nous permettra de mieux vous connaître. Si vous avez des questions avant de postuler, n’hésitez pas à nous écrire.
