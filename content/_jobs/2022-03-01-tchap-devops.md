@@ -60,9 +60,10 @@ En fonction de l’évolution des priorités fixées par la DINUM, vous pouvez �
 ## Modalités de travail
 
 * Début de la mission **dès que possible.**
-* Contrat de 3 ans sur Paris, Lyon ou Rennes
+* Contrat de 3 ans sur Paris, Lyon ou Rennes 
 * Télétravail possible 2 jours par semaine
 
+Cette offre n'est pas ouverte à la prestation, c'est un contrat en tant qu'agent public.
 
 ## Candidater
 
