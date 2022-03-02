@@ -8,8 +8,8 @@ sponsors:
     domaine_ministeriel: territoires
     type: administration-centrale
 incubator: mtes
-link: null
-repository: null
+link: https://zerologementvacant.beta.gouv.fr/
+repository: https://github.com/MTES-MCT/zero-logement-vacant
 contact: henry.ciesielski@developpement-durable.gouv.fr
 stats: false
 events: []
