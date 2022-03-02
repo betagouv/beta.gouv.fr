@@ -22,13 +22,9 @@ phases:
     start: 2021-09-30
     end: 2022-03-30
 ---
-
-
 L’application du Contrat d’Engagement Jeune a pour objectif de faciliter l’accompagnement du jeune par son conseiller (Pôle emploi ou Mission Locale) afin de limiter son décrochage.
 
 À travers une interface web et une application mobile, l’application s’inscrit dans une démarche d’accompagnement renforcé, et vient outiller le dispositif du Contrat d’Engagement Jeune (CEJ), tout en autonomisant le jeune dans sa recherche d’opportunités professionnelles.
-
-
 
 ✉️ **Vous êtes conseiller(ère) Pôle emploi ou Mission Locale ?** 
 
@@ -45,8 +41,6 @@ L’application du Contrat d’Engagement Jeune a pour objectif de faciliter l�
 * le non recours aux aides et moyens de subsistance auxquels le jeune peut prétendre,
 * l’absence de réseau sur lequel le jeune peut s’appuyer pour débloquer des situations ou avoir accès aux informations.
 
-
-
 ### 🔧 Un outil du Contrat d’Engagement Jeune à destination des jeunes et de leur conseiller :
 
 En réponse aux irritants recensés ci-dessus, l’équipe de la Startup d'État a développé un outil à deux dimensions :
@@ -62,8 +56,7 @@ Le service proposé par l’application du Contrat d’Engagement Jeune s’arti
 
 En outre, le jeune peut s’appuyer sur les modules de recherches d’opportunités professionnelles et puiser dans une boîte à outils pour l’accompagner dans la construction de son projet professionnel.
 
-### \
-🔁 Un service en amélioration permanente
+### 🔁 Un service en amélioration permanente
 
 L’application du Contrat d’Engagement Jeune a été développée par l'équipe dans une logique de co-construction avec les utilisateurs et d’amélioration continue, suivant la méthode des startups d’Etat telles que Pix ou Immersion Facilitée.
 
@@ -90,6 +83,6 @@ Il se décline en sous-objectifs et indicateurs :
 
 
 
-### **✉️ [S’inscrire à la newsletter](https://e7ebcecb.sibforms.com/serve/MUIEAGGcVmvpJon1JwX1NDryrCokcf6UeW7WUBbMtxUI_1z-Y5QqXoKmW7XZWIY1oWa7MyZ0gs4n_z47OYjzyYrAEMxv4YJroeAh2QN2eIjShmh7xczIxOok5tiv9NMlZGUEiAn99j5Z2079dIvIgzRaTmeZEzeeAJtUJNIDpMh6bdLwxTqrKAbGLvMPQuyf98hB-UVt-Jo1Sb7-?mtm_campaign=newsletter-page-beta)** 
+### **✉️ [S’inscrire à la newsletter](https://e7ebcecb.sibforms.com/serve/MUIEAGGcVmvpJon1JwX1NDryrCokcf6UeW7WUBbMtxUI_1z-Y5QqXoKmW7XZWIY1oWa7MyZ0gs4n_z47OYjzyYrAEMxv4YJroeAh2QN2eIjShmh7xczIxOok5tiv9NMlZGUEiAn99j5Z2079dIvIgzRaTmeZEzeeAJtUJNIDpMh6bdLwxTqrKAbGLvMPQuyf98hB-UVt-Jo1Sb7-?mtm_campaign=newsletter-page-beta) ✉️**
 
 pour se tenir au courant des actualités de l’application du Contrat d’Engagement Jeune.
