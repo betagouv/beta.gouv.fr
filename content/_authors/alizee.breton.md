@@ -1,7 +1,8 @@
 ---
 fullname: Alizée Breton
-role: Chargée de déploiement
 domaine: Déploiement
+role: Chargée de déploiement
+github: alizeeeeeee
 missions:
   - start: 2022-02-28
     end: 2022-06-30
@@ -11,5 +12,6 @@ startups:
   - aides.jeunes
 badges:
   - segur
+competences:
+  - Gestion de Produit
 ---
-
