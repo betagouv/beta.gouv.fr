@@ -5,7 +5,7 @@ role: Intrapreneur
 avatar: ""
 missions:
   - start: 2021-09-13
-    end: 2022-08-31
+    end: 2021-12-31
     status: admin
     employer: Ministère de l'Intérieur
 startups:
