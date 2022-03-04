@@ -22,9 +22,9 @@ Votre première mission sera de participer au chantier de refonte de l'interface
 
 Vous serez également amené à faire évoluer l'API Trackdéchets, que ce soit pour les besoins de l'interface ou du métier.
 
-Vous participerez également à la conception, documentation et aux ateliers utilisateurs. En tant que développeur frontend vous serez amené à collaborer de près avec les designers afin d'organiser les évolutions et de trouver des solutions aux diverses challenges de Trackdéchets.
+Vous participerez également à la conception, documentation et aux ateliers utilisateurs. En tant que développeur frontend vous serez amené à collaborer de près avec les designers afin d'organiser les évolutions et de trouver des solutions pour rendre l'interface toujours plus fonctionnelle.
 
-L'équipe est fonctionne en mode agile avec des itérations de 3 semaines, ponctuées par une mise en production.
+L'équipe fonctionne en mode agile avec des itérations de 3 semaines, ponctuées par une mise en production.
 
 Trackdéchets est aujourd'hui composé des briques logicielles suivantes:
 
