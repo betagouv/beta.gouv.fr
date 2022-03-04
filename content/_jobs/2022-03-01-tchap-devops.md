@@ -24,7 +24,7 @@ Nous formons des équipes pluridisciplinaires constituées de personnes engagée
 beta.gouv.fr a déjà contribué à la création de dizaines de services numériques déjà disponibles ou à venir. Nous animons une communauté en croissance qui construit les services publics numériques de demain au sein d’un réseau d’incubateurs publics partageant les mêmes valeurs.
 
 ## Mission
-Au sein de l'équipe Tchap, vous rôle sera de veiller aux disponibilités du service tout en maintenant et améliorant l’infrastructure. Aider l’équipe de développement en mettant en place des services d’intégrations continues.
+Au sein de l'équipe Tchap, votre rôle sera de veiller aux disponibilités du service tout en maintenant et améliorant l’infrastructure. Aider l’équipe de développement en mettant en place des services d’intégrations continues.
 La mission se fait en lien avec l’intrapreneur de Tchap, au sein d’une équipe de 3 administrateurs systèmes (avec des profils devops), et en collaboration avec les 6 personnes de l'équipe de développement.
 Un des enjeux de la mission est de réussir la migration de Tchap vers un nouveau cloud du ministère de l’Intérieur. L’équipe souhaite exploiter les possibilités de Kubernetes pour faciliter la gestion et la scalabilité du service.
 
