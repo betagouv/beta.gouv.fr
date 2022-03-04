@@ -1,6 +1,6 @@
 ---
 roles: Développeur.se fullstack JavaScript
-open: true
+open: false
 date: 2022-02-25T14:08:57.404Z
 startup: data-subvention
 ---
