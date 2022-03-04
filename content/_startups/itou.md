@@ -56,7 +56,6 @@ rgpd:
   mesures_securite: La plateforme est hébergée en France par un prestataire certifié ISO.
   validite_homologation: 2023-10-06
 stats: true
-events: []
 phases:
   - name: investigation
     start: 2019-06-10
