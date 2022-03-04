@@ -1,6 +1,6 @@
 ---
 roles: Développeuse - développeur full stack symfony
-open: true
+open: false
 date: 2022-01-20T14:41:04.317Z
 startup: anct-pni-39
 ---
