@@ -6,57 +6,55 @@ startup: trackdechets
 ---
 ## À propos
 
-Trackdéchets est une plateforme numérique du Ministère de la Transition Écologique qui vise à réduire le risque environnemental et améliorer la traçabilité du traitement des déchets dangereux. Comment ? 
-- en simplifiant la gestion quotidienne de la traçabilité des déchets dangereux pour tous les acteurs de la chaîne, grâce à la dématérialisation du bordereau de suivi de déchets dangereux et du registre déchets.
-- en assurant aux producteurs la conformité réglementaire de leurs prestataires grâce à des contrôles de cohérence automatiques et des moyens de contrôle.
-- en donnant à l'État des moyens efficaces de piloter la politique publique en matière de gestion des déchets en disposant de données en temps réel.
+Trackdéchets est une plateforme numérique du Ministère de la Transition Écologique qui vise à réduire le risque environnemental et améliorer la traçabilité du traitement des déchets dangereux. Comment ?
 
-Le produit est accessible sur https://trackdechets.beta.gouv.fr/.
+- En simplifiant la gestion quotidienne de la traçabilité des déchets dangereux pour tous les acteurs de la chaîne, grâce à la dématérialisation du bordereau de suivi de déchets dangereux et du registre déchets.
+- En assurant aux producteurs la conformité réglementaire de leurs prestataires grâce à des contrôles de cohérence automatiques et des moyens de contrôle.
+- En donnant à l'État des moyens efficaces de piloter la politique publique en matière de gestion des déchets en disposant de données en temps réel.
 
-Trackdéchets prend désormais sa place dans les outils et écosystèmes du Ministère de la Transition Écologique suite à la parution du [Décret n° 2021-321 du 25 mars 2021 relatif à la traçabilité des déchets, des terres excavées et des sédiments](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043294613) qui officialise l'utilisation de l'outil au 01/01/2022 par tous les producteurs, collecteurs et installations de traitement de déchets dangereux. Ce contexte particulier est associé à une forte croissance de l'usage de l'outil.  
+Le produit est accessible sur [trackdechets.beta.gouv.fr](https://trackdechets.beta.gouv.fr/).
 
-L'équipe est aujourd'hui composée de dix personnes dont quatre développeurs et un ingénieur données. 
+Trackdéchets prend désormais sa place dans les outils et écosystèmes du Ministère de la Transition Écologique suite à la parution du [Décret n° 2021-321 du 25 mars 2021 relatif à la traçabilité des déchets, des terres excavées et des sédiments](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043294613) qui officialise l'utilisation de l'outil au 01/01/2022 par tous les producteurs, collecteurs et installations de traitement de déchets dangereux. Ce contexte particulier est associé à une forte croissance de l'usage de l'outil.
 
 ## Descriptif du poste
 
-Vous serez responsable, avec les autres développeurs et designers, de l'évolution de l'interface Trackdéchets, de son API et de sa maintenance en conditions opérationnelles dans un contexte de forte montée en charge. Vous participerez également à la conception, à la documentation, aux ateliers avec les utilisateurs et aux astreintes de support technique. L’équipe travaille en mode agile avec des itérations de 3 semaines. 
+Votre première mission sera de participer au chantier de refonte de l'interface Trackdéchets. Accompagné d'un designer UX et d'un designer UI, l'objectif est de migrer progressivement sur le [système de design de l'état](https://www.systeme-de-design.gouv.fr/) tout en améliorant l'expérience utilisateur.
+
+Vous serez également amené à faire évoluer l'API Trackdéchets, que ce soit pour les besoins de l'interface ou du métier.
+
+Vous participerez également à la conception, documentation et aux ateliers utilisateurs. En tant que développeur frontend vous serez amené à collaborer de près avec les designers afin d'organiser les évolutions et de trouver des solutions aux diverses challenges de Trackdéchets.
+
+L'équipe est fonctionne en mode agile avec des itérations de 3 semaines, ponctuées par une mise en production.
 
 Trackdéchets est aujourd'hui composé des briques logicielles suivantes:
 
-- frontend en React
-- backend en NodeJS (Typescript) qui expose une API GraphQL
-- une BDD PostgreSQL, avec Prisma en ORM
-- un moteur de recherche Elasticsearch
-- déployé chez Scalingo en mode PaaS
-- intégration continue avec Github Actions
-- monitoring avec Datadog et Sentry 
+- Frontend en TypeScript, React, Apollo GraphQL, Matomo pour l'analytics.
+- Backend en Typescript (Node), Express, avec une API publique GraphQL (Apollo).
+- Une base de donnée PostgreSQL, avec Prisma en ORM.
+- Un moteur de recherche Elasticsearch.
+- Déployé chez Scalingo en mode PaaS.
+- Intégration continue avec Github Actions.
+- Monitoring avec Datadog et Sentry.
 
-Tout le code est open source et consultable [sur GitHub](https://github.com/MTES-MCT/trackdechets).
+Tout le code est open source et consultable sur [MTES-MCT/trackdechets](https://github.com/MTES-MCT/trackdechets).
 
 ## Compétences
 
-- Bonne expérience dans un framework web moderne (ExpressJS, Rails, Symfony, Laravel, Django/Flask…).
-- Expérience de l’écosystème technique (Typescript, GraphQL, etc).
-- Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
-- Expérience en conception orientée utilisateur. 
-- Aisance relationnelle à l'oral et à l'écrit. Qualités rédactionnelles.
-- Sens de l'écoute et empathie utilisateurs
-- Les plus : 
-  - Expérience frontend avec React.js.
-  - Maitrise des bonnes pratiques de sécurité. 
-  - Expérience dans le développement d'une API publique soumise à une forte charge de requêtes en lecture et écriture.
-  - Expérience avec un PaaS (Scalingo, CleverCloud, Heroku, etc). 
-
-Vous êtes en mesure de jouer sur 2 tableaux :
-
-- L’exploration : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
-- L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
+- Expérience de l'écosystème technique (TypeScript, React, GraphQL, etc.).
+- Sensibilité pour la conception orientée utilisateur.
+- Expérience avec un framework web moderne (Express, Koa, Fastify, NestJS, etc.).
+- Expérience avec les modalités de contribution du logiciel libre (pull requests, code review, etc.).
+- Aisance relationnelle à l'oral et à l'écrit.
+- Les plus :
+  - Maîtrise des bonnes pratiques de sécurité et de performance.
+  - Expérience avec un PaaS (Scalingo, CleverCloud, Heroku, etc.).
+  - Expérience dans le développement d'une API publique.
 
 ## Environnement de travail
 
 - Environnement et communauté [beta.gouv](https://beta.gouv.fr/)  (plus de détails ici également : https://doc.incubateur.net/communaute/).
 - Équipe de 4 développeurs seniors.
-- Poste ouvert pour des indépendant·e·s sur une durée de 3 mois renouvelables.
+- Poste ouvert pour des indépendants.es sur une durée de 3 mois renouvelables.
 - Temps partiel accepté (4/5).
 - Démarrage dès que possible.
 - Télétravail avec quelques réunions présentielles à Paris.
