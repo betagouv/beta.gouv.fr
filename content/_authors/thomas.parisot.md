@@ -2,6 +2,7 @@
 fullname: Thomas Parisot
 role: Software Designer
 domaine: Développement
+github: thom4parisot
 missions:
   - start: 2017-06-14
     end: 2017-12-30
