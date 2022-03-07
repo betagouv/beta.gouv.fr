@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/audrey-houssais/
 github: AudreyH49
 missions:
   - start: 2021-12-13
-    end: 2022-03-14
+    end: 2022-09-05
     status: independent
 startups:
   - apilos
