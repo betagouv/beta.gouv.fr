@@ -38,7 +38,7 @@ Mettre à disposition des acteurs de l’orientation et de l’insertion profess
 Ce commun proposera :
 1/ La dématérialisation de la convention et, à terme, du bilan,
 
-2/ une base entreprises immersions construite sur  un annuaire d'entreprises accueillantes, volontaires pour accueillir en immersion professionnelles sur leurs métiers et s'engageant à répondre aux demandes des utilisateurs. 
+2/ une base entreprises immersions construite sur  un annuaire d'entreprises accueillantes, volontaires pour accueillir en immersion professionnelle sur leurs métiers et s'engageant à répondre aux demandes des utilisateurs. 
 
 Cette base entreprise est enrichie par l'appel à des bases existantes (La Bonne Boîte, les emplois de l'inclusion ...) de façon à pouvoir suggérer des entreprises à contacter partout en France et quel que soit le métier recherché. L'objectif est à terme de n'avoir plus besoin d'appeler ces bases complémentaires.
 La base entreprise pourra activer des filtres anti abus (saisonnalité, risque AT…)
