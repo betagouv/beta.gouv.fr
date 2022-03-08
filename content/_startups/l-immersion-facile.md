@@ -1,14 +1,17 @@
 ---
 title: Immersion facilitée
-mission: Augmenter le nombre d'immersions professionnelles pour les personnes éloignées de l'emploi 
-owner: DGEFP et Pôle emploi
+mission: Augmenter le nombre d'immersions professionnelles pour les personnes
+  éloignées de l'emploi
+owner: Ministère du travail, de l'emploi et de l'insertion  et Pôle emploi
 sponsors:
   - domaine_ministeriel: affaires-sociales
     name: Ministère du Travail, de l'Emploi et de l'Insertion
     type: administration-centrale
 incubator: sgmas
 link: https://immersion-facile.beta.gouv.fr/
+repository: https://github.com/betagouv/l-immersion-facile
 contact: contact@immersion-facile.beta.gouv.fr
+stats: true
 phases:
   - name: construction
     start: 2021-07-16
@@ -35,11 +38,11 @@ Mettre à disposition des acteurs de l’orientation et de l’insertion profess
 Ce commun proposera :
 1/ La dématérialisation de la convention et, à terme, du bilan,
 
-2/ une base entreprises immersions construite sur des bases existantes (INSEE, La Bonne Boîte et qualifiée avec :
-de bases de données PMSMP (Pôle emploi, i-milo, Agefiph, FIPHFP…)
-des entreprises volontaires pour accueillir (ex : “les entreprises s’engagent”)
-des filtres anti abus (saisonnalité, risque AT…)
-accessible grâce à un moteur de recherche et un parcours utilisateur simple jusqu’au démarrage de la PMSMP
+2/ une base entreprises immersions construite sur  un annuaire d'entreprises accueillantes, volontaires pour accueillir en immersion professionnelles sur leurs métiers et s'engageant à répondre aux demandes des utilisateurs. 
+
+Cette base entreprise est enrichie par l'appel à des bases existantes (La Bonne Boîte, les emplois de l'inclusion ...) de façon à pouvoir suggérer des entreprises à contacter partout en France et quel que soit le métier recherché. L'objectif est à terme de n'avoir plus besoin d'appeler ces bases complémentaires.
+La base entreprise pourra activer des filtres anti abus (saisonnalité, risque AT…)
+La base est accessible grâce à un moteur de recherche et un parcours utilisateur simple jusqu’au démarrage de la PMSMP
 
 3/ Un parcours d’accès à l’immersion pouvant être utilisé tel quel ou adapté à un site existant.
 
