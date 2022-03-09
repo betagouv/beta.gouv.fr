@@ -18,7 +18,7 @@ phases:
     start: 2021-05-01
 events:
   - name: national_impact
-  - date: 2021-12-31
+    date: 2021-12-31
 link: https://pass.culture.fr
 repository: https://pass-culture.gitbook.io/documents/informations-techniques#code-source
 stats: false
