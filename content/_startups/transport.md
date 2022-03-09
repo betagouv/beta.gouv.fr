@@ -18,7 +18,7 @@ phases:
     start: 2021-03-05
 events: 
   - name: national_impact
-  - date: 2021-12-31
+    date: 2021-12-31
 link: https://transport.data.gouv.fr
 repository: https://github.com/etalab/transport-site
 stats: true
