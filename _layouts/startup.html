@@ -35,7 +35,7 @@ L'équipe est portée par <a href="/startups/?incubateur={{ incubator_id | remov
 L'équipe est sponsorisée par
 {% for sponsorId in page.sponsors %}
   {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
-  {% if forloop.index > 1 %}, {% endif %}<abbr title="{{sponsor.name}}">{{sponsor.acronym}}</abbr>
+  {% if forloop.index > 1 %}, {% endif %}{{sponsor.name}}"
 {% endfor %}
 {% endcapture %}
 
