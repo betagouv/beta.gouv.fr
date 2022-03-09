@@ -1,11 +1,8 @@
 ---
 title: Open Terms Archive
 mission: Rééquilibrer le rapport de force entre les fournisseurs de services en ligne et leurs usagers.
-owner: Ministère de l’Europe et des affaires étrangères
 sponsors:
-  - name: Ambassadeur pour le numérique
-    domaine_ministeriel: affaires-etrangeres
-    type: administration-centrale
+  - /organisations/meae
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 repository: https://github.com/OpenTermsArchive/
 contact: contact@opentermsarchive.org
