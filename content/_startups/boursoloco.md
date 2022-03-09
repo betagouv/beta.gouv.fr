@@ -1,7 +1,8 @@
 ---
 title: Boursoloco
 mission: Recenser et cartographier les acteurs économiques du territoire
-owner: Agence nationale de la cohésion des territoires
+sponsors: 
+    - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

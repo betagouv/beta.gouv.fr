@@ -1,12 +1,8 @@
 ---
 title: Cartobio
 mission: Ouvrir, enrichir et partager les données parcellaires de l’agriculture biologique
-owner: Agence Française pour le Développement et la Promotion de l'Agriculture Biologique (Agence Bio)
 sponsors: 
-    - name: Agence Française pour le Développement et la Promotion de l'Agriculture Biologique
-      acronym: Agence Bio
-      domaine_ministeriel: agriculture
-      type: operateur
+    - /organisations/agence-bio
 incubator: dinum
 phases:
   - name: investigation

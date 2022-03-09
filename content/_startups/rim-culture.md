@@ -1,7 +1,8 @@
 ---
 title: Culture RIM
 mission: Améliorer le suivi des réunions interministérielles
-owner : Ministère de la Culture
+sponsors:
+    - /organisations/mc
 incubator: culture
 phases:
   - name: investigation

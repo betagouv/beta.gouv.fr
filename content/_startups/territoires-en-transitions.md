@@ -1,8 +1,8 @@
 ---
 title: Territoires en Transitions
 mission: "Aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique"
-owner: ADEME - Agence de la transition écologique
-sponsors: []
+sponsors:
+    - /organisations/ademe
 incubator: dinum
 link: https://territoiresentransitions.fr/
 repository: https://github.com/betagouv/territoires-en-transitions

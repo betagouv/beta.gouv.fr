@@ -1,7 +1,8 @@
 ---
 title: Part'âge
 mission: Résorber lisolement des personnes agées par une autonomisation face aux moyens numériques
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

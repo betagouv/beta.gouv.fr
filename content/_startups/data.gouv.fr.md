@@ -1,13 +1,9 @@
 ---
 title: data.gouv.fr
 mission: Partager, améliorer et réutiliser les données publiques.
-owner: Etalab
 incubator: dinum
-sponsors: 
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      domaine_ministeriel: spm # Service du premier ministre
-      type: administration-centrale
+sponsors:
+ - /organisations/dinum
 events:
   - name: national_impact
     date: 2016-01-01

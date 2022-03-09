@@ -1,15 +1,9 @@
 ---
 title: "Emplois de l'inclusion (ITOU)"
 mission: "Favoriser la réussite pour tous"
-owner: Délégation générale à l'emploi et à la formation professionnelle
 sponsors:
-  - name: Délégation générale à l'emploi et à la formation professionnelle
-    acronym: DGEFP
-    domaine_ministeriel: travail
-    type: administration-centrale
-  - name: Pôle emploi
-    domaine_ministeriel: travail
-    type: operateur
+  - /organisations/dgefp
+  - /organisations/mtei
 incubator: dinum
 contact: assistance@inclusion.beta.gouv.fr 
 link: https://emplois.inclusion.beta.gouv.fr/

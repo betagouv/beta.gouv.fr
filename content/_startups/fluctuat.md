@@ -1,12 +1,8 @@
 ---
 title: Fluctu@t
 mission:  Aider au développement du transport fluvial en France
-owner: Ministère de la transition écologique et solidaire
 sponsors:
-    - name: Direction generale des Infrastructures, des Transports et de la Mer
-      acronym: DGITM
-      domaine_ministeriel: environnement
-      type: administration-centrale
+    - /organisations/dgitm
 incubator: mtes
 events:
   - name: end

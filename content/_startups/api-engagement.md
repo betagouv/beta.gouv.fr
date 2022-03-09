@@ -1,12 +1,8 @@
 ---
 title: API Engagement
 mission: Donner plus de visibilité aux offres de bénévolat et de volontariat
-owner: DJEPVA
 sponsors:
-  - name: Direction de la Jeunesse, de l'Education Populaire et de la Vie Associative
-    acronym: DJEPVA
-    domaine_ministeriel: education-nat
-    type: administration-centrale
+  - /organisations/djepva
 incubator: engagement_civique
 repository: null
 contact: contact@api-engagement.beta.gouv.fr

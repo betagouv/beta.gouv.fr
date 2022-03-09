@@ -2,7 +2,8 @@
 title: data.insertion
 mission: Améliorer les parcours d’insertion en facilitant la circulation de
   données entre les acteurs
-owner: DGEFP
+sponsors:
+ - /organisations/dgefp
 incubator: dinum
 link: https://www.rdv-insertion.fr/
 repository: https://github.com/betagouv/rdv-insertion

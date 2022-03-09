@@ -1,6 +1,6 @@
 ---
 title: Fabrique numérique des ministères sociaux
-owner: SGMAS
+owner: /organisations/solidarite-sante
 logo: logo_fab_solidarite.png
 website: https://fabrique.social.gouv.fr/
 github: https://github.com/SocialGouv/

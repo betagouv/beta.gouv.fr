@@ -1,7 +1,8 @@
 ---
 title: Culture chez Nous
 mission: Accompagner et autonomiser les acteurs culturels pour la production de contenus numériques adaptés aux usages et aux besoins des citoyens.
-owner: Ministère de la Culture
+sponsors:
+ - /organisations/mc
 incubator: culture
 phases:
   - name: investigation

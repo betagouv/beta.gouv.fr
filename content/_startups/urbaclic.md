@@ -1,7 +1,8 @@
 ---
 title: Urbaclic
 mission: Accéder aux règles d'urbanisme en quelques clics
-owner: SGAR Occitanie, Etalab
+sponsors:
+ - /organisations/dinum
 incubator: dinum
 events:
   - name: end

@@ -1,7 +1,8 @@
 ---
 title: Plateforme numérique direct autonomie
 mission: Réduire le délai moyen d'attribution de l'allocation personnalisée d'autonomie
-owner: Département du Var
+sponsors:
+  - /organisations/anct
 incubator: anct
 phases:
     - name: investigation

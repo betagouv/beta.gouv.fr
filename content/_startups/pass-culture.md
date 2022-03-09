@@ -1,12 +1,9 @@
 ---
 title : Pass Culture
 mission: Faciliter l'accès des jeunes à la culture
-sponsors: 
-    - name: Direction générale de la création artistique
-      acronym: DGCA
-      domaine_ministeriel: culture
-      type: administration-centrale
-
+sponsors:
+  - /organisations/mc
+  - /organisations/dgca
 incubator: dinum
 phases:
   - name: investigation

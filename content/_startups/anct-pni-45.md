@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (45)
 mission: Instaurer de nouvelles méthodes de travail agiles au sein de ladministration
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

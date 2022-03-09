@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (13)
 mission: Pérenniser la plateforme de mise en relation et dentraide entre habitants
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

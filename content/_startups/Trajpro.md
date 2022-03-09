@@ -1,11 +1,8 @@
 ---
 title: Formations et trajectoires professionnelles
 mission: "Faciliter l’orientation et l’insertion professionnelle des jeunes en élaborant et rendant visible des indicateurs pertinents"
-owner: Mission interministérielle pour l'apprentissage
 sponsors:
-  - name: "Ministère du travail, de l'emploi et de l'insertion "
-    type: administration-centrale
-    domaine_ministeriel: travail
+  - /organisations/mtei
 incubator: mission-apprentissage
 link: 
 repository: 

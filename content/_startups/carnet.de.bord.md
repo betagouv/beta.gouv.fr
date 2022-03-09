@@ -2,12 +2,8 @@
 title: Carnet de bord
 mission: "Faciliter la vie des personnes en insertion et de celles et ceux qui
   les accompagnent "
-owner: Ministère du Travail, de l'Emploi et de l'Insertion
 sponsors:
-  - name: Délégation générale à l'emploi et à la formation professionnelle
-    acronym: DGEFP
-    type: administration-centrale
-    domaine_ministeriel: affaires-sociales
+  - /organisations/dgefp
 incubator: sgmas
 link: https://carnet-de-bord.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/carnet-de-bord

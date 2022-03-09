@@ -1,12 +1,8 @@
 ---
 title: Fil'harmonic
 mission: Faciliter le travail administratif autour des contrôles ICPE
-owner: Ministère de la Transition Ecologique et Solidaire
 sponsors:
-    - name: Direction generale de la Prevention des risques
-      acronym: DGPR
-      domaine_ministeriel: environnement
-      type: administration-centrale
+    - /organisations/dgpr
 events:
   - name: end
     date: 2019-12-01

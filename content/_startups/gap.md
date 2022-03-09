@@ -1,7 +1,8 @@
 ---
 title: GAP 2.0 (Gestion Archives Papier)
 mission: Améliorer l'accompagnement de la gestion des archives papier 
-owner: DIRECCTE Occitanie 
+sponsors:
+  - /organisations/anct
 incubator: dinum 
 phases: 
   - name: investigation

@@ -1,7 +1,8 @@
 ---
 title: Elles font la Culture
 mission: Réduire les inégalités de genre dans la culture, en commençant par le secteur de la photographie. 
-owner: Ministère de la Culture
+sponsors:
+  - /organisations/mc
 incubator: culture
 phases:
   - name: construction

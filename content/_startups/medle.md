@@ -1,12 +1,8 @@
 ---
 title: Medlé
 mission: Consigner l'activité de la médecine légale réalisée sur réquisition judiciaire
-owner: Ministère des Solidarités et de la Santé
 sponsors:
-    - name: Direction generale de l’offre de soins
-      acronym: DGOS
-      domaine_ministeriel: environnement
-      type: administration-centrale
+    - /organisations/dgos
 incubator: sgmas
 phases:
   - name: investigation

@@ -3,7 +3,8 @@ title: Infrastructures numériques
 mission: Outiller les collectivités et les services de l’Etat afin de permettre
   aux territoires de suivre et d’agir pour la réduction de la fracture
   numérique.
-owner: Agence Nationale de la Cohésion des Territoires
+sponsors:
+  - /organisations/anct
 incubator: anct
 contact: contactincubateur@anct.gouv.fr
 phases:

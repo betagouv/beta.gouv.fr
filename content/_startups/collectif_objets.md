@@ -1,7 +1,8 @@
 ---
 title: Collectif Objets
 mission: Améliorer les données des objets monuments historiques pour les valoriser au mieux
-owner: Ministère de la Culture
+sponsors:
+ - /organisations/mc
 incubator: culture
 phases:
   - name: construction

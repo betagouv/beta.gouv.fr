@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (11)
 mission: Accompagner et inclure les nouveaux habitants dans la découverte de leur ville
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

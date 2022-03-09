@@ -1,7 +1,8 @@
 ---
 title: Éoliennes
 mission: Accélérer l’instruction relative au traitement de dossiers obstacles pour l’Armée de l’air
-owner: Ministère des Armées
+sponsors:
+  - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation

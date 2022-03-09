@@ -1,7 +1,8 @@
 ---
 title: Plateforme numérique du R.S.A
 mission: Réduire le délai moyen pour initier l’accompagnement des bénéficiaires du R.S.A
-owner: Département du Var
+sponsors:
+  - /organisations/anct
 incubator: anct
 phases:
     - name: investigation

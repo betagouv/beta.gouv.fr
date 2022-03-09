@@ -1,12 +1,8 @@
 ---
 title: Conseiller Numérique
 mission: Former et déployer des conseillers numériques
-owner: Agence nationale de la cohésion des territoires
 sponsors:
-    - name: Agence Nationale de la Cohésion des Territoires
-      acronym: ANCT
-      domaine_ministeriel: territoires
-      type: operateur
+    - /organisations/anct
 incubator: anct
 phases:
   - name: construction

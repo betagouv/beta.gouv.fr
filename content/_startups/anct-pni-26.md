@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (26)
 mission: Gérer les tournées de ramassage des déchets / tri
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

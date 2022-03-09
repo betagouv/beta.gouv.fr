@@ -1,7 +1,8 @@
 ---
 title: DataPass
 mission: Délivrer des « Pass » pour accéder à la « Data » produite par l'État.
-owner: DINUM
+sponsors:
+ - /organisations/dinum
 incubator: apigouv
 phases:
   - name: construction

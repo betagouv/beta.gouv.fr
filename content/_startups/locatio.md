@@ -1,12 +1,9 @@
 ---
 title: DossierFacile
 mission: Remettre la confiance au centre de la relation entre propriétaires et locataires
-owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique
 sponsors:
-    - name: Direction générale de l'Aménagement, du Logement et de la Nature / Direction de l'habitat, de l'urbanisme et des paysages
-      acronym: DGALN / DHUP
-      domaine_ministeriel: environnement
-      type: administration-centrale
+  - /organisations/dgaln
+  - /organisations/dhup
 incubator: mtes
 phases:
   - name: investigation

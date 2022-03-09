@@ -1,7 +1,8 @@
 ---
 title: Mobinat 
 mission: Retrouver l'histoire du mobilier national
-owner: Ministère de la Culture
+sponsors:
+    - /organisations/mc
 incubator: culture
 phases:
   - name: investigation
@@ -21,4 +22,4 @@ contact: ateliernumerique@culture.gouv.fr
 Retrouver et partager les traces de l'histoire des objets du mobilier national
 
 ## Vous voulez construire avec nous un outil pour retracer l'histoire du mobilier national ?
-[Nous contacter](mailto:ateliernumerique@culture.gouv.fr) 
+[Nous contacter](mailto:ateliernumerique@culture.gouv.fr)

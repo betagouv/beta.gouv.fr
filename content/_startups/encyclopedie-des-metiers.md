@@ -1,12 +1,8 @@
 ---
 title: Encyclopédie des métiers
 mission: Faciliter l'accès à des informations claires et pratiques sur les métiers et les compétences
-owner: Pôle emploi
 sponsors:
-  - name: Pôle emploi
-    acronym: PE
-    domaine_ministeriel: travail
-    type: operateur
+  - /organisations/pole-emploi
 incubator: pole-emploi
 contact: rachid.benabdelhak@pole-emploi.fr
 phases:

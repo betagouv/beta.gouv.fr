@@ -1,12 +1,9 @@
 ---
 title: transport.data.gouv.fr
 mission: Faciliter l'accès à l’information voyageur pour tous, partout en France, grâce à l’ouverture des données.
-owner: DGITM
 sponsors:
-    - name: Direction generale des Infrastructures, des Transports et de la Mer
-      acronym: DGITM
-      domaine_ministeriel: environnement
-      type: administration-centrale
+  - /organisations/mtes
+  - /organisations/dgitm
 incubator: mtes
 phases:
   - name: investigation

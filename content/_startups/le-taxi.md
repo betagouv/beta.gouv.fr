@@ -1,12 +1,8 @@
 ---
 title: Le Taxi
 mission: Commander un taxi, rapidement
-owner: DGITM
 sponsors:
-    - name: Direction generale des Infrastructures, des Transports et de la Mer
-      acronym: DGITM
-      domaine_ministeriel: environnement
-      type: administration-centrale
+  - /organisations/dgitm
 incubator: mtes
 phases:
   - name: investigation

@@ -1,11 +1,8 @@
 ---
 title: Disinfo
 mission: Réduire les vulnérabilités aux manipulations de l’information
-owner: Ministère de l’Europe et des affaires étrangères
 sponsors:
-  - name: Ambassadeur pour le numérique
-    domaine_ministeriel: affaires-etrangeres
-    type: administration-centrale
+  - /organisations/meae
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 repository: https://github.com/ambanum/
 contact: disinfo@beta.gouv.fr

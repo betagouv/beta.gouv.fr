@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (12)
 mission: Améliorer la marketplace locale de produits maraîchers
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

@@ -1,8 +1,8 @@
 ---
 title: PSIJ
 mission: Systématiser la recherche d'indices et traces
-owner: Ministère de l'Intérieur
-sponsors: []
+sponsors: 
+    - /organisations/interieur
 incubator: lab-mi
 link: ""
 repository: null

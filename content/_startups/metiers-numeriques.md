@@ -1,12 +1,8 @@
 ---
 title: Métiers Numériques
 mission: Promouvoir les emplois numériques de l'État pour y attirer les meilleurs talents 
-owner: DINUM
 sponsors:
-  - name: Direction interministérielle du numérique
-    acronym: DINUM
-    domaine_ministeriel: spm
-    type: administration-centrale
+    - /organisations/dinum
 incubator: dinum
 phases:
   - name: investigation

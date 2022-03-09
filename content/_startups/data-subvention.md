@@ -2,7 +2,8 @@
 title: Data.Subvention
 mission: Améliorer le pilotage des subventions de l’État des associations et
   simplifier leurs démarches
-owner: Direction de la jeunesse, de l'éducation populaire et de la vie associative
+sponsors:
+ - /organisations/djepva
 incubator: dinum
 repository: https://github.com/betagouv/api-subventions-asso
 contact: data.subvention@beta.gouv.fr

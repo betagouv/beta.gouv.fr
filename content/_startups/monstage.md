@@ -1,13 +1,9 @@
 ---
 title: Mon stage de 3e
 mission: Permettre aux élèves de 3e d'accéder à des stages pertinents pour combattre les déterminismes sociaux
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+  - /organisations/anct
 incubator: anct
-sponsors: 
-    - name: Agence nationale de la cohésion des territoires
-      acronym: ANCT
-      domaine_ministeriel: territoires
-      type: operateur
 phases:
   - name: investigation
     start: 2018-12-01
