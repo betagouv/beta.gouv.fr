@@ -6,7 +6,7 @@ link: http://www.anaellebeignon.fr
 github: anaellebe
 missions:
   - start: 2021-02-11
-    end: 2022-03-30
+    end: 2022-04-29
     status: independent
 startups:
   - l-application-du-cej
