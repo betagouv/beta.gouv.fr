@@ -1,6 +1,6 @@
 ---
 fullname: Lilian Saget-Lethias
-role: Dév
+role: Lead Dev / Coach Tech
 domaine: Développement
 link: https://deno.paris
 github: lsagetlethias
@@ -9,8 +9,13 @@ missions:
     end: 2022-03-01
     status: independent
     employer: Octo
+  - start: 2022-03-01
+    end: 2022-06-01
+    status: independent
+    employer: Octo
+incubator: sgmas
 startups:
   - archifiltre
 ---
 
-Dév @FabNum/Archifiltre | ex-CTO @Simbel
+Coach Tech @FabNum/Archifiltre | ex-CTO @Simbel

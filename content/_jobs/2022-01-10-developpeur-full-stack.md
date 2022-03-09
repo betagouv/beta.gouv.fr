@@ -3,7 +3,7 @@ roles: Dev full stack
 title: Dev full stack pour l'Incubateur des Territoires
 contrat: indépendant
 startup: incubateur.des.territoires
-open: true
+open: false
 junior: true
 ---
 

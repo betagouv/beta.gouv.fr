@@ -4,8 +4,8 @@ mission: Mobiliser les propriétaires de logements vacants
 sponsors:
   - /organisations/dgaln
 incubator: mtes
-link: null
-repository: null
+link: https://zerologementvacant.beta.gouv.fr/
+repository: https://github.com/MTES-MCT/zero-logement-vacant
 contact: henry.ciesielski@developpement-durable.gouv.fr
 stats: false
 events: []

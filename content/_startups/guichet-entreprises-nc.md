@@ -6,6 +6,8 @@ sponsors:
   - /organisations/nouvelle-caledonie
 link: https://guichet-entreprises.nc/
 contact: mathilde.menil@gouv.nc
+stats: true
+stats_url: https://guichet-entreprises.nc/
 events:
   - date: 2019-03-01
     name: product_launch

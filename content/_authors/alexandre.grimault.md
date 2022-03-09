@@ -4,7 +4,7 @@ domaine: Développement
 role: Dev
 github: niladic
 missions:
-  - end: 2022-02-28
+  - end: 2022-12-31
     start: 2020-02-03
     status: independent
 startups:

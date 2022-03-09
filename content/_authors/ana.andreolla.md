@@ -8,7 +8,7 @@ missions:
     end: 2020-06-30
     status: independent
   - start: 2021-11-01
-    end: 2022-02-28
+    end: 2022-12-31
     status: independent
 startups:
   - aplus

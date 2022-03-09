@@ -39,7 +39,7 @@ Par exemple, un officier de police en commissariat de Lille doit amener un pisto
 Au final, un voyage quasi à vide pour un pistolet est évité, générant des économies d’essence, de personnel et de CO².
 
 
-## Feuille de route : Projet gelé jsque début 2021
+## Feuille de route : Projet gelé jusqu'au début 2021
 
 Le projet est mis en pause jusque 2021. l'intrapreneuse est engagée sur le lancement du projet HubScellé pour optimiser la chaîne logistique globale des scellés. Covoit'scellé pourra s'inscrire dans la feuille de route de Hub Scellé à partir de 2021.
 

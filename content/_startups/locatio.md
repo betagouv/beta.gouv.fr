@@ -12,7 +12,7 @@ phases:
     start: 2018-01-01
   - name: acceleration
     start: 2018-01-01
-link: https://www.dossierfacile.fr/?utm_source=betagouv
+link: https://www.dossierfacile.fr/?utm_source=betagouv&utm_medium=referral&utm_campaign=fiche_betagouv
 repository: https://github.com/mtes-mct/locatio
 stats: true
 stats_url: https://www.dossierfacile.fr/stats

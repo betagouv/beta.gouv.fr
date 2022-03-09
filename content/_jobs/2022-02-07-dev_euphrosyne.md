@@ -3,7 +3,7 @@ roles: Développeur ou développeuse fullstack Django
 startup: Euphrosyne
 techno: Django
 junior: true
-open: true
+open: false
 title: Dev fullstack Django @ accélerateur de particules du Louvre
 ---
 

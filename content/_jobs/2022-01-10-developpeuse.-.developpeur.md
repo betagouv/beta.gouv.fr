@@ -1,6 +1,6 @@
 ---
 roles: Développeuse - Développeur
-open: true
+open: false
 date: 2022-01-05T09:52:35.216Z
 startup: conseiller-numerique
 ---

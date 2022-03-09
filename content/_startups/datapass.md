@@ -13,7 +13,7 @@ link: https://datapass.api.gouv.fr
 repository: https://github.com/betagouv/datapass
 stats: true
 stats_url: https://datapass.api.gouv.fr/stats
-contact: datapass@api.gouv.fr
+contact: contact@api.gouv.fr
 ---
 
 ## Le problème
