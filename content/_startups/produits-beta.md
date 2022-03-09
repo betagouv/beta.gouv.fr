@@ -1,8 +1,8 @@
 ---
 title: Produits @ beta.gouv.fr
 mission: Accompagner le développement de produits respecteux des standards de beta.gouv.fr
-owner: beta.gouv.fr
-sponsors: []
+sponsors:
+    - /organisations/dinum
 incubator: dinum
 phases:
   - name: investigation
