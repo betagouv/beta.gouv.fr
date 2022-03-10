@@ -9,4 +9,6 @@ missions:
     status: independent
 startups:
   - matcha
+  - catalogue-apprentissage
+  - la-bonne-alternance
 ---
