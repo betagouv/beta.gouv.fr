@@ -177,3 +177,5 @@ Envoyer une candidature (en précisant votre taux journalier moyen) à marc.gava
 * Votre CV ou un lien vers votre profil LinkedIn
 * Un lien vers votre profil github / gitlab
 * Certaines de vos réalisations qui vous semblent pertinentes
+
+La [grille de taux journaliers](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/remuneration#grille-de-taux-journaliers) est disponible dans la documentation de l’incubateur.
