@@ -1,6 +1,7 @@
 ---
 fullname: Océane  Lecardonnel
 role: Animation de l'incubateur de Pôle emploi 
+github: OceaneLCRD
 domaine: Animation 
 missions:
   - start: 2021-07-01
