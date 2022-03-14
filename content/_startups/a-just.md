@@ -15,8 +15,7 @@ phases:
     comment: Fin de l'investigation. GO pour le lancement d'une phase de construction.
   - name: construction
     start: 2021-09-01
-    comment: Première phase de construction sur un périmètre de juridictions et de
-      contentieux restreints.
+    comment: Construction sur un périmètre de juridictions restreint.
 ---
 <!--StartFragment-->
 
@@ -71,9 +70,9 @@ Or, si la durée de traitement des procédures est particulièrement suivie par 
 
 ## **La solution en construction**
 
-***Lancement de la phase de construction***
+***Lancement de la construction***
 
-Suite à l’investigation menée début 2021, la première phase de construction a démarré le 1er septembre 2021 pour 6 mois. Le sponsor est le chef de l’Inspection Générale de la Justice.
+Suite à l’investigation menée début 2021, la construction a démarré le 1er septembre 2021 pour 6 mois. Le sponsor est le chef de l’Inspection Générale de la Justice.
 
 L’équipe dédiée travaille en autonomie à la co-construction avec des juridictions test d’une première version du service.
 
@@ -88,7 +87,7 @@ Visualisation, corrélation, simulation… A-JUST se définit comme un outil  d
 
 ***Les premières étapes***
 
-L’équipe A-JUST se concentre sur l’expérimentation, sur un périmètre réduit de contentieux civils (affaires familiales, contentieux non spécialisé, social…), dans quelques tribunaux judiciaires, de la possibilité de :
+L’équipe A-JUST se concentre sur l’expérimentation, sur un périmètre réduit, dans quelques tribunaux judiciaires, de la possibilité de :
 * visualiser en temps réel les effectifs de la juridiction et leur affectation par contentieux
 * calculer et afficher deux indicateurs (capacité de traitement, délai) parlants pour l’ensemble des acteurs (juridiction, citoyens…)
 * simuler l'impact d'une variation d'effectifs sur la capacité et les délais de traitement des contentieux.
