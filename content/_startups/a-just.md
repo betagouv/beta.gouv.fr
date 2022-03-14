@@ -72,7 +72,7 @@ Or, si la durée de traitement des procédures est particulièrement suivie par 
 
 ***Lancement de la construction***
 
-Suite à l’investigation menée début 2021, la construction a démarré le 1er septembre 2021 pour 6 mois. Le sponsor est le chef de l’Inspection Générale de la Justice.
+Suite à l’investigation menée début 2021, la construction a démarré le 1er septembre 2021. Le sponsor est le chef de l’Inspection Générale de la Justice.
 
 L’équipe dédiée travaille en autonomie à la co-construction avec des juridictions test d’une première version du service.
 
