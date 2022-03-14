@@ -1,7 +1,7 @@
 ---
 mission: Faciliter la sécurisation et l'homologation des services numériques
 incubator: lab-innov-anssi
-link: https://alpha.monservicesecurise.beta.gouv.fr
+link: https://www.monservicesecurise.beta.gouv.fr
 repository: https://github.com/betagouv/mon-service-securise
 contact: contact@monservicesecurise.beta.gouv.fr
 title: Mon Service Sécurisé
