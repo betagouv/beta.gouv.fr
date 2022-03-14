@@ -172,7 +172,7 @@ Le rythme de travail est de 4 jours par semaine. Le télétravail est la norme m
 
 *Démarrage : début avril 2022*
 
-Envoyer une candidature (en précisant votre taux journalier moyen) à marc.gavanier@beta.gouv.fr, n’hésitez pas à nous partager :
+Envoyer une candidature (en précisant votre taux journalier moyen) à [marc.gavanier@beta.gouv.fr](marc.gavanier@beta.gouv.fr), n’hésitez pas à nous partager :
 
 * Vos motivations pour rejoindre l’équipe cartographie nationale
 * Votre CV ou un lien vers votre profil LinkedIn
