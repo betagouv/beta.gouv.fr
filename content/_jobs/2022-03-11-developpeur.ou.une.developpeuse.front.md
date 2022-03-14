@@ -2,6 +2,7 @@
 roles: Développeur ou une développeuse front
 title: un développeur ou une développeuse front
 contrat: indépendant
+startup: conseiller-numerique
 equipe: Cartographie Nationale
 friend: Incubateur des Territoires
 type: 'friend'
