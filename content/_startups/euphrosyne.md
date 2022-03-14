@@ -1,7 +1,8 @@
 ---
 title: Euphrosyne
 mission: "Ouvrir les données d'AGLAE, accélérateur à particules européen"
-owner: Ministère de la Culture
+sponsors:
+  - /organisations/mc
 incubator: culture
 phases:
   - name: construction

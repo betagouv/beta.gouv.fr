@@ -1,7 +1,8 @@
 ---
 title: Bases Tiers - Alertissimo
 mission: Simplifier la gestion des aides Région par les professionnels
-owner: Région Hauts-de-France
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

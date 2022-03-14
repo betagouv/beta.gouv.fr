@@ -1,12 +1,8 @@
 ---
 title: PARTAJ
 mission: Facilitons l'accès à une expertise juridique de qualité
-owner: Ministère de la Transition écologique
 sponsors:
-    - name: Secretariat général - Ministere de la Transition ecologique
-      acronym: 
-      domaine_ministeriel: environnement
-      type: administration-centrale
+  - /organisations/mtes
 incubator: mtes
 phases:
   - name: investigation

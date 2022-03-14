@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (46)
 mission: Aider les éco-gardes des parcs départementaux dans la prévention, outils pédagogiques et multimédia pour le respect de lenvironnement
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

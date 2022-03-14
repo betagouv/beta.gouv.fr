@@ -1,7 +1,7 @@
 ---
 roles: UX Designer (H/F) senior
 startup: demarches-simplifiees.fr
-open: true
+open: false
 ---
 
 Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une équipe agile, et proche de ses utilisateurs ? demarches-simplifiees.fr recherche un·e UX Designer senior !

@@ -1,11 +1,8 @@
 ---
 title: Civils de la Défense
 mission: Recruter simplement des agents civils sous contrat
-owner: Ministère des Armées
 sponsors:
-    - name: Ministère des Armées
-      domaine_ministeriel: armees
-      type: administration-centrale
+    - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation

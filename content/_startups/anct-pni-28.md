@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (28)
 mission: Améliorer les échanges entre administrés et le CCAS
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

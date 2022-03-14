@@ -4,7 +4,6 @@ mission: APiLos facilite l'accès aux logements sociaux par la simplification de
   conventions. APiLos, le portail numérique chargé du conventionnement,
   s'intègre dans le cadre du Système d'information des aides à la pierre (Siap),
   développé par les équipes du ministère en charge du logement.
-owner: Direction générale de l'aménagement, du logement et de la nature (DGALN)
 incubator: mtes
 link: https://apilos.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/apilos
@@ -12,6 +11,8 @@ contact: contact@apilos.beta.gouv.fr
 redirect_from:
   - /startups/appel
 stats: true
+sponsors:
+ - /organisations/dgaln
 events:
   - name: product_launch
     date: 2021-09-15

@@ -2,8 +2,8 @@
 title: Archifiltre
 mission: Appréhender des ensembles volumineux de fichiers pour mieux les gérer,
   les trier et y retrouver de l'information
-owner: Ministères sociaux
-sponsors: []
+sponsors:
+ - /organisations/solidarite-sante
 incubator: sgmas
 link: https://archifiltre.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/archifiltre

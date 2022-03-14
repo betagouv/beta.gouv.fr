@@ -1,12 +1,8 @@
 ---
 title: EFTI
 mission: Faciliter le contrôle des documents liés aux transports de marchandise
-owner: DGITM
 sponsors:
-  - name: "Direction Générale des Infrastructures, des Transports et de la Mer "
-    acronym: DGITM
-    type: administration-centrale
-    domaine_ministeriel: environnement
+  - /organisations/dgitm
 incubator: mtes
 contact: victor.dolcemascolo@developpement-durable.gouv.fr
 phases:

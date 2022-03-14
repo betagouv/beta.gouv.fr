@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (29)
 mission: Préfigurer le Premier Accueil Social Inconditionnel de Proximité
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

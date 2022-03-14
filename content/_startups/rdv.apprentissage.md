@@ -2,11 +2,8 @@
 title: RDV Apprentissage
 mission: "Faciliter le premier contact entre les candidats à l’apprentissage et
   les Centre de Formation des Apprentis (CFA) "
-owner: Mission interministérielle pour l'apprentissage
-sponsors:
-  - name: "Ministère du travail, de l'emploi et de l'insertion "
-    type: administration-centrale
-    domaine_ministeriel: travail
+sponsors: 
+    - /organisations/mtei
 incubator: mission-apprentissage
 link: https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous
 repository: https://github.com/mission-apprentissage/prise-de-rdv

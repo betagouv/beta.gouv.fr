@@ -1,7 +1,8 @@
 ---
 title: HY-VIGIE COLLÈGE 
 mission: Vigilance à l’hygiène dans les collèges
-owner: Département du Val d'Oise
+sponsors:
+    - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

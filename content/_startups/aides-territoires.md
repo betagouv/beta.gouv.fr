@@ -1,17 +1,11 @@
 ---
 title: Aides-territoires
 mission: Accédez aux meilleures aides pour financer et accompagner vos projets locaux
-owner: Ministère de la Cohésion des territoires et des relations avec les
-  collectivités territoriales / Ministère de la Transition écologique
 sponsors:
-    - name: Direction generale de l'Amenagement, du Logement et de la Nature
-      acronym: DGALN
-      domaine_ministeriel: environnement
-      type: administration-centrale
-    - name: Direction de l'habitat, de l'urbanisme et des paysages
-      acronym: DHUP
-      domaine_ministeriel: environnement
-      type: administration-centrale
+  - /organisations/mctrct
+  - /organisations/mtes
+  - /organisations/dgaln
+  - /organisations/dhup
 incubator: mtes
 link: https://aides-territoires.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/aides-territoires

@@ -1,12 +1,8 @@
 ---
 title: E-contrôle
 mission: Simplifier les échanges de documents entre un organisme de contrôle et les organisations contrôlées
-owner: Cour des comptes
-sponsors: 
-    - name: Cour des Comptes
-      acronym: Cour des comptes
-      domaine_ministeriel: autres
-      type: autre
+sponsors:
+  - /organisations/c-comptes
 incubator: dinum
 events:
   - name: product_launch

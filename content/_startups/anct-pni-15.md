@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (15)
 mission: Organisation interne des techniciens du CIAS
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

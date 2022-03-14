@@ -1,8 +1,9 @@
 ---
 title: Base Adresse Nationale
 mission: Référencer l'intégralité des adresses du territoire français
-owner: IGN
 incubator: fab-geocommuns
+sponsors:
+ - /organisations/ign
 phases:
   - name: investigation
     start: 2014-06-01

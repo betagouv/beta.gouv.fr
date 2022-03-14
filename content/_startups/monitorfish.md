@@ -1,7 +1,8 @@
 ---
 title: MonitorFish
 mission: Améliorer le contrôle des activités des navires de pêche
-owner: Ministère de la transition écologique
+sponsors:
+  - /organisations/mtes
 incubator: mtes
 phases:
   - name: investigation

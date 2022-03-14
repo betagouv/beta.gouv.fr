@@ -1,7 +1,8 @@
 ---
 title: Mes autorisations de stationnement 
 mission: Faciliter la constitution d'une base des licences de taxis en France
-owner: DGITM
+sponsors:
+    - /organisations/dgitm
 incubator: mtes
 phases:
   - name: investigation

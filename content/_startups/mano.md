@@ -2,10 +2,8 @@
 title: MANO
 mission: Service de soutien aux équipes mobiles visant à améliorer la vie des
   populations en rue et à favoriser leur réinsertion.
-owner: MANO
-sponsors:
-  - name: Agence régionale de santé d'Île de France
-    domaine_ministeriel: affaires-sociales
+sponsors: 
+  - /organisations/solidarite-sante
 incubator: sgmas
 repository: https://github.com/SocialGouv/mano/
 contact: caroline.de_kerhor@beta.gouv.fr

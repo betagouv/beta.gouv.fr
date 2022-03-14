@@ -1,7 +1,8 @@
 ---
 title: Octopus
 mission: Optimiser la préparation des missions logistiques de l'armée de l'air
-owner: Ministère des Armées
+sponsors:
+  - /organisations/armees
 incubator: fabnumdef
 contact: linna.taing@beta.gouv.fr
 phases:

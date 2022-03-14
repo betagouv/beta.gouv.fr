@@ -1,12 +1,8 @@
 ---
 title: Perspectives
 mission: Mettre en relation candidats et employeurs par la méthode de recrutement par simulation
-owner: Pôle emploi
-sponsors: 
-    - name: Pôle emploi
-      acronym: PE
-      domaine_ministeriel: travail
-      type: operateur
+sponsors:
+  - /organisations/pole-emploi
 incubator: pole-emploi
 phases:
   - name: investigation

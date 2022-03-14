@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (19)
 mission: Préfigurer un outil de démocratie implicative
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

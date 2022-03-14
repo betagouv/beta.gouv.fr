@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (44)
 mission: Préfigurer une plateforme de livraison restaurateur-entreprises du territoire
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

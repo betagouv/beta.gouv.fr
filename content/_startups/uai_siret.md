@@ -1,11 +1,13 @@
 ---
 title: Le référentiel UAI-SIRET
 mission: "Faciliter l’identification des organismes de formation en apprentissage"
-owner: Mission interministérielle pour l'apprentissage
 sponsors:
-  - name: "Ministère du travail, de l'emploi et de l'insertion "
-    type: administration-centrale
-    domaine_ministeriel: travail
+  - /organisations/menjs
+  - /organisations/mtei
+  - /organisations/mesr
+  - /organisations/mtfp
+  - /organisations/dinum
+  - /organisations/dgefp
 incubator: mission-apprentissage
 link:
 repository:

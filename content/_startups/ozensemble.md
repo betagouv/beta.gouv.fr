@@ -1,7 +1,8 @@
 ---
 title: Oz Ensemble
 mission:  Offrir à tous un accès simple aux soins en addictologie
-owner: ARS IdF
+sponsors:
+  - /organisations/solidarite-sante
 incubator: sgmas
 phases:
   - name: investigation

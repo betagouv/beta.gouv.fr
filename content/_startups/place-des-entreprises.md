@@ -1,16 +1,9 @@
 ---
 title: Place des Entreprises
 mission: "Mettre en relation les TPE & PME et le bon interlocuteur"
-owner: Ministère de l'économie, des finances et de la relance - Direction générale des entreprises (DGE) / Ministère du Travail (DGEFP)
-sponsors: 
-    - name: Direction générale des entreprises
-      acronym: DGE
-      domaine_ministeriel: bercy
-      type: administration-centrale
-    - name: Délégation générale à l'emploi et à la formation professionnelle
-      acronym: DGEFP
-      domaine_ministeriel: travail
-      type: administration-centrale
+sponsors:
+  - /organisations/dge
+  - /organisations/dgefp
 incubator: bercy
 phases:
   - name: investigation

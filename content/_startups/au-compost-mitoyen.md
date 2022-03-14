@@ -1,13 +1,8 @@
 ---
 title: Au Compost Mitoyen !
-mission: Faciliter le déploiement de composteurs collectifs et encourager leur
-  utilisation
-owner: DINUM
+mission: Faciliter le déploiement de composteurs collectifs et encourager leur utilisation
 sponsors:
-  - name: Direction interministérielle du numérique
-    acronym: DINUM
-    domaine_ministeriel: environnement
-    type: administration-centrale
+  - /organisations/dinum
 incubator: dinum
 link: http://aucompostmitoyen.fr/
 repository: https://github.com/betagouv/poubellesbattle

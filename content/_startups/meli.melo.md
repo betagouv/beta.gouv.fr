@@ -1,7 +1,8 @@
 ---
 title: Méli Melo
 mission: "Favoriser l'accès des jeunes à la culture, aux sports et aux loisirs "
-owner: Agglomération de Pau
+sponsors:
+    - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

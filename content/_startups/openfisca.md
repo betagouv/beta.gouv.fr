@@ -1,15 +1,11 @@
 ---
 title: OpenFisca
 mission: Rendre la loi exécutable
-owner: ANCT
 sponsors:
-  - name: Agence Nationale de la Cohésion des Territoires
-    acronym: ANCT
-    domaine_ministeriel: territoires
-    type: operateur
+  - /organisations/anct
 incubator: anct
 phases:
-  - name: success
+  - name: construction
     start: 2013-10-01
     end: 2020-11-30
   - name: transfer

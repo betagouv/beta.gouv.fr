@@ -1,11 +1,8 @@
 ---
 title: Rdv consulat
 mission: Réduire les difficultés liées aux prises de rendez-vous dans les consulats
-owner: Ministère de l'Europe et des Affaires étrangères
-sponsors:
-  - name: Ministère de l'Europe et des Affaires étrangères
-    acronym: MEAE
-    type: administration-centrale
+sponsors: 
+    - /organisations/meae
 incubator: dinum
 contact: morgan.izquierdo@beta.gouv.fr
 phases:

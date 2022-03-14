@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (6)
 mission: Adaptation du commerce local aux enjeux numériques
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

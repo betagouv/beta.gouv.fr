@@ -2,17 +2,13 @@
 title: L'application du CEJ
 mission: "Contrat Engagement Jeune : Aider les jeunes les plus éloignés de
   l'emploi à trouver leur voie"
-owner: Ministère du Travail, de l'Emploi et de l'Insertion
 sponsors:
-  - name: Délégation générale à l'emploi et à la formation professionnelle
-    acronym: DGEFP
-    type: administration-centrale
-    domaine_ministeriel: affaires-sociales
+  - /organisations/dgefp
 incubator: sgmas
 repository: https://github.com/SocialGouv/pass_emploi_app
 contact: pass.emploi@beta.gouv.fr
 stats_url: https://sites.google.com/view/statistiques-pass-emploi
-link: https://web.pass-emploi.beta.gouv.fr
+link: https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune
 stats: true
 phases:
   - name: investigation

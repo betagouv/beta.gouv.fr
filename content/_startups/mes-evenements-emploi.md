@@ -1,12 +1,8 @@
 ---
 title: Mes événements Emploi
 mission: Faciliter l'inscription à des rencontres de recrutement adaptées à son profil
-owner: Pôle emploi
 sponsors:
-  - name: Pôle emploi
-    acronym: PE
-    domaine_ministeriel: travail
-    type: operateur
+    - /organisations/pole-emploi
 incubator: pole-emploi
 link: https://peactions.pole-emploi.fr
 contact: sandrine.david2@pole-emploi.fr

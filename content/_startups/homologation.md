@@ -4,9 +4,9 @@ incubator: lab-innov-anssi
 link: https://alpha.monservicesecurise.beta.gouv.fr
 repository: https://github.com/betagouv/mon-service-securise
 contact: contact@monservicesecurise.beta.gouv.fr
-stats_url: null
 title: Mon Service Sécurisé
-owner: ANSSI
+sponsors:
+  - /organisations/anssi
 stats: false
 phases:
   - name: investigation

@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (40)
 mission: Lutter contre lillectronisme des personnes agées
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

@@ -1,12 +1,8 @@
 ---
 title: Service National Universel
 mission: Développer la conscience citoyenne des jeunes
-owner: DJEPVA
 sponsors:
-  - name: Direction de la Jeunesse, de l'Education Populaire et de la Vie Associative
-    acronym: DJEPVA
-    domaine_ministeriel: education-nat
-    type: administration-centrale
+  - /organisations/djepva
 incubator: engagement_civique
 link: https://moncompte.snu.gouv.fr
 repository: https://github.com/betagouv/service-national-universel

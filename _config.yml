@@ -87,6 +87,7 @@ collections:
   startups:
     output: true
     permalink: /startups/:title.html
+  organisations:
 
 defaults:
   - scope:

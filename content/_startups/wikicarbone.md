@@ -1,11 +1,9 @@
 ---
 title: Wikicarbone
 mission: Accélerer la mise en place de l'affichage environnemental
-owner: Commissariat Général au Développement Durable
 sponsors:
-  - acronym: CGDD
-    name: Commissariat Général au Développement Durable
-    domaine_ministeriel: environnement
+  - /organisations/mtes
+  - /organisations/cgdd
 incubator: mtes
 link: https://wikicarbone.beta.gouv.fr
 repository: https://github.com/MTES-MCT/wikicarbone

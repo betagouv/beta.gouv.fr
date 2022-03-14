@@ -1,7 +1,8 @@
 ---
 title: e-Chauffeur
 mission: Optimiser le service de voiture de transport avec chauffeur au sein des bases de défense
-owner: Ministère des Armées
+sponsors:
+ - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation

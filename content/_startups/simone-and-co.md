@@ -1,7 +1,8 @@
 ---
 title: Simone & Co
 mission: Aider et accompagner les femmes en situation de précarité à retrouver dignité et féminité
-owner: Agglomération de Pau Béarn Pyrénées
+sponsors:
+    - /organisations/anct
 incubator: anct 
 phases:
   - name: investigation

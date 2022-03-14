@@ -46,6 +46,9 @@ jobs:
     - name: Check startup metadata
       run: ruby rb/bin/validate rb/schema/startups.yml "content/_startups/*.md"
 
+    - name: Check organisation metadata
+      run: ruby rb/bin/validate rb/schema/organisations.yml "content/_organisations/*.md"
+
     - name: "Check authors file name structure (first_name.last_name.md)"
       run: |
             if ls content/_authors | grep --line-regexp --invert-match '[a-z_-]\+\.[a-z_-]\+\.md'

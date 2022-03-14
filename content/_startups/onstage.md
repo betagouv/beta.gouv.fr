@@ -1,12 +1,8 @@
 ---
 title: OnStage
 mission: Renforcer les liens entre jeunes citoyens et entreprises du departement
-owner: Département des Côtes d'Armor
 sponsors:
-    - name: département des Côtes d'Armor
-      acronym:
-      domaine_ministeriel: territoires
-      type: collectivite-territoriale
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

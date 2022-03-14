@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (34)
 mission: Redynamiser les commerces locaux par la carte de fidélité stationnement
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

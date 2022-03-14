@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (22)
 mission: Mettre en place un cahier de transmissions numérique entre crèches et parents
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

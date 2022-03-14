@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (7)
 mission: Développer le concept de télémédecine auprès du public rural
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

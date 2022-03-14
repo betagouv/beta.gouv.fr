@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (38)
 mission: Installer une méthode innovante dévaluation pour mesurer limpact positif du projet de territoire
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

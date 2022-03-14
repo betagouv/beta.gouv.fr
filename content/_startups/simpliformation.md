@@ -1,7 +1,8 @@
 ---
 title: Simpliformation
 mission: Faciliter le parcours administratif de demande de devis de formation 
-owner: Région Bretagne
+sponsors:
+    - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

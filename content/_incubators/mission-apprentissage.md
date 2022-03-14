@@ -1,6 +1,6 @@
 ---
 title: Mission interministérielle pour l’apprentissage et les trajectoires professionnelles
-owner: Guillaume Houzel
+owner: /organisations/mtei
 logo: logo_beta.png
 website: https://mission-apprentissage.gitbook.io/general/
 github: https://github.com/mission-apprentissage
