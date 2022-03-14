@@ -1,5 +1,5 @@
 ---
-roles: Architecte Système / DevOps  (H/F)
+roles: DevOps Senior (H/F)
 startup: tchap
 open: true
 ---
