@@ -2,7 +2,8 @@ locale: fr
 
 backend:
   name: github
-  site_domain: beta.gouv.fr
+  branch: master
+  api_root: https://api.github.com
   repo: betagouv/beta.gouv.fr
   commit_messages:
     create: Création de {{slug}} dans {{collection}} !
