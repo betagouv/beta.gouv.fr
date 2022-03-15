@@ -12,5 +12,4 @@ startups:
   - aides-territoires
   - locatio
   - mon-entreprise
-  - Numa
 ---
