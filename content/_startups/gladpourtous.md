@@ -1,6 +1,8 @@
 ---
 title: Glad pour tous
 mission: Comment contribuer à la connaissance et au transfert des savoirs sur le patrimoine breton
+sponsors:
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

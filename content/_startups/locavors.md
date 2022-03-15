@@ -1,7 +1,8 @@
 ---
 title: Les Locavors
 mission: Permettre aux enfants de consommer plus de produits locaux à la cantine
-owner: Département de la Somme
+sponsors: 
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

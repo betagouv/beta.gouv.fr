@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Codeurs en Liberté
   - start: 2020-01-01
-    end: 2020-12-31
+    end: 2022-12-31
     status: independent
     employer: NUMA
 previously:

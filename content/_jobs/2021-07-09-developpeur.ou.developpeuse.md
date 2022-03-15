@@ -1,6 +1,6 @@
 ---
 roles: Développeur ou développeuse
-open: true
+open: false
 date: 2021-07-09T10:38:38.986Z
 startup: article.40
 ---

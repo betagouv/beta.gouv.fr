@@ -1,7 +1,8 @@
 ---
 title: Le c(h)œur des Sentes
 mission: Aider les personnes en situation de désintégration sociale dans les quartiers
-owner: Ville des Lilas
+sponsors:
+  - /organisations/anct
 incubator: anct
 contact: contactincubateur@anct.gouv.fr
 phases:

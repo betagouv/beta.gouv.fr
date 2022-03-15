@@ -1,7 +1,10 @@
 
+/*
 .lpintra-image-container {
     text-align: center;
 }
+
+*/
 
 .landing-intra-steps {
     width: 100%;
@@ -10,4 +13,14 @@
 .landing-intra-main-anim object {
     width: 100%;
     max-width: 300px;
+}
+
+.card-feature{
+    max-width: 275px;
+}
+
+.section-feature{
+    justify-content: space-between;
+    display: flex;
+    padding: 1em;
 }

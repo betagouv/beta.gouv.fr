@@ -3,6 +3,8 @@ layout: with-sidebar
 sidebar: sidebar-approche.html
 title: Formation en ligne ouverte à tous
 permalink: /approche/formation/mooc
+redirect_from:
+  - /alpha/mooc/
 ---
 
 ## Découvrez comment créer des services publics innovants

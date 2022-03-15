@@ -35,33 +35,68 @@ module Jekyll
     end
   end
 
-  class RenderCommunityStatsTag < Liquid::Tag
+class RenderCommunityStatsTag < Liquid::Tag
 
-    def initialize(tag_name, text, tokens)
-      super
-    end
+  def initialize(tag_name, input, tokens)
+    super
+    @input = input
+  end
 
-    def render(context)
-      result = {
+  def render(context)
+    result = {
+      'employer' => {
         'admin' => [],
         'independent' => [],
-        'service' => []
-      }
-      authors = context.registers[:site].collections['authors']
-      authors.docs.each do |author|
-        if author.data['missions']
-          author.data['missions'].each do |mission|
-            startDate = mission['start']
-            endDate = mission['end']
-
-            result[mission['status']] << {date: startDate, increment: 1} if startDate and startDate != ''
-            result[mission['status']] << {date: endDate, increment: -1} if endDate and endDate != ''
-          end
+        'service' => [],
+      },
+      'domaineOverDate' => {
+        'Déploiement' => [],
+        'Design' => [],
+        'Développement' => [],
+        'Coaching' => [],
+        'Autre' => [],
+        'Intraprenariat' => [],
+        'Animation' => [],
+        'Produit' => [],
+      },
+      'domaine' => {
+        'Déploiement' => 0,
+        'Design' => 0,
+        'Développement' => 0,
+        'Coaching' => 0,
+        'Autre' => 0,
+        'Intraprenariat' => 0,
+        'Animation' => 0,
+        'Produit' => 0
+      },
+      'total' => 0
+    }
+    authors = context.registers[:site].collections['authors']
+    now = Date.today
+    authors.docs.each do |author|
+      if author.data['missions']
+        author.data['missions'].each do |mission|
+          startDate = mission['start']
+          endDate = mission['end']
+          result['employer'][mission['status']] << {date: startDate, increment: 1} if startDate and startDate != ''
+          result['employer'][mission['status']] << {date: endDate, increment: -1} if endDate and endDate != ''
+          result['domaineOverDate'][author.data['domaine']] << {date: startDate, increment: 1} if startDate and startDate != ''
+          result['domaineOverDate'][author.data['domaine']] << {date: endDate, increment: -1} if endDate and endDate != ''
+        end
+        if author.data['missions']&.last['end'] >= now
+          result['domaine'][author.data['domaine']] = result['domaine'][author.data['domaine']] + 1
+          result['total'] = result['total'] + 1 
         end
       end
-      result.to_json
+    end
+    if ( !@input.nil? && !@input.empty? )
+      key = @input.strip
+      return result[key]
+    else
+      return result.to_json
     end
   end
+end
 end
 
 Liquid::Template.register_filter(Jekyll::CommunityFilter)

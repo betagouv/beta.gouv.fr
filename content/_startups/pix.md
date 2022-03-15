@@ -1,12 +1,8 @@
 ---
 title: Pix
-mission: Mesurer, développer et valoriser ses compétences numériques
-owner: GIP PIX
-sponsors: 
-    - name: Secrétariat général
-      acronym: SG
-      domaine_ministeriel: education-nat
-      type: administration-centrale
+mission: Mesurer, développer et valoriser ses compétences numériques.
+sponsors:
+  - /organisations/menjs
 incubator: dinum
 events:
   - name: national_impact

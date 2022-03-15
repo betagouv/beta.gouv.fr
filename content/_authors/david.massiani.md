@@ -10,7 +10,7 @@ previously:
   - avril 
 missions:
   - start: 2021-06-17
-    end: 2021-10-31
+    end: 2022-03-29
     status: independent
     employer: freelance
 ---

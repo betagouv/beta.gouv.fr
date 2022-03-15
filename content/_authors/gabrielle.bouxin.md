@@ -1,12 +1,18 @@
 ---
-fullname: Gabrielle Bouxin
-role: Product Owner SNU
+fullname: Gabrielle (Bouxin) de Lassus
 domaine: Produit
+role: Product Owner SNU
 link: https://www.linkedin.com/in/gabrielle-de-lassus-286410a3/
+github: Gabrielle-Bxn
 missions:
   - start: 2020-06-24
-    end: 2021-12-31
-    status: service
+    end: 2022-12-31
+    status: independent
 startups:
-  - engagement-civique
+  - snu
+previously:
+  - jeveuxaider
+competences:
+  - Gestion de Produit
+  - Administration Publique
 ---

@@ -1,7 +1,8 @@
 ---
 title: Commun Orientation
 mission: Aider les usagers à résoudre leurs problèmes
-owner: ANCT
+sponsors:
+    - /organisations/anct
 incubator: anct
 contact: commun-orientation@anct.gouv.fr
 phases:

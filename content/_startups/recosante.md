@@ -1,12 +1,8 @@
 ---
 title: Recosanté
 mission: Réduire l’exposition aux facteurs environnementaux nocifs pour la santé
-owner: Ministère de la Santé - Ministère de la Transition Écologique et Solidaire
-sponsors:
-    - name: Direction generale de la sante
-      acronym: DGS
-      domaine_ministeriel: affaires-sociales
-      type: administration-centrale
+sponsors: 
+    - /organisations/dgs
 incubator: dinum
 link: https://recosante.beta.gouv.fr/
 repository: https://github.com/betagouv/recosante/

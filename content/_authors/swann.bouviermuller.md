@@ -5,7 +5,7 @@ domaine: Développement
 github: swannbm
 missions:
   - start: 2021-07-06
-    end: 2021-11-30
+    end: 2022-03-31
     status: independent
     employer: Arolla
 ---

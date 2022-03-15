@@ -1,7 +1,8 @@
 ---
 title: Dédale
 mission: Assurer le meilleur service pour l'usager en phase d'avant-projet de sa demande d'autorisation du droit des sols 
-owner: Ministère de la Culture
+sponsors:
+ - /organisations/mc
 incubator: culture
 phases:
   - name : investigation

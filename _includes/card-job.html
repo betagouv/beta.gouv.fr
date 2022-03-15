@@ -19,7 +19,7 @@
     <div>
       <div class="fr-grid-row fr-grid-row--gutters">
         <div class="fr-col">
-          <p class="fr-card__detail">Offre de {% if job.friend %}{{ job.friend | strip_html }}{% else %}{{ (startup.title || job.startup) | default: "beta.gouv.fr" | strip_html}}{% endif %}</p>
+          <p class="fr-card__detail">Offre de {% if job.friend %}{{ job.friend | strip_html }}{% else %}{{ startup.title | default: "beta.gouv.fr" | strip_html}}{% endif %}</p>
         </div>
         <div class="fr-col-4">
           <p class="fr-card__detail" style="text-align: right;">le <time datetime="{{ job.date | date:'%Y-%m-%d' }}">{{ job.date | date: "%d/%m/%Y" }}</time></p></div>

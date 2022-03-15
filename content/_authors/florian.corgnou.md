@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - engagement-civique
+  - jeveuxaider
 badges:
   - segur
 competences:

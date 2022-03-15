@@ -7,114 +7,79 @@ redirect_from:
   - /fast
 ---
 
-<img src="https://blog.beta.gouv.fr/img/posts/2021_06_29_1200x675_fast_13sept_visuel_twitter.jpg" alt="Image de présentation du FAST" style="width:100%;" />
+<img src="https://blog.beta.gouv.fr/img/posts/FAST_2400x448-nom-du-fonds.jpg" alt="Image de présentation du FAST" style="width:100%;" />
 
-L'appel à candidatures du Fonds d’accélération des Startups d’État et de Territoire (FAST) vise à cofinancer des services publics numériques en phase d’accélération qui ont pour but de résoudre des problèmes de politiques publiques.  
+Le Fonds d’accélération des Startups d’État et de Territoire (FAST), porté par la Direction interministérielle du numérique, vise à cofinancer des services publics numériques conçus [selon l'approche Startup d'État](https://beta.gouv.fr/approche). 
 
-Jusqu’à 1 million d’euros en provenance de la Direction Interministérielle du Numérique (DINUM) pourront être partagés par plusieurs lauréats.
-
-Que vous soyez une administration, un établissement public, ou une collectivité territoriale engagé dans le développement ou l'accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction Interministérielle du Numérique pouvant aller jusqu'à 300 000 euros.
-
-Le neuvième appel à projets est en cours !  
-
-Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux questions dédiée.
-
-
-## Qu’est-ce que beta.gouv.fr ?
-
-Le programme beta.gouv.fr de la Direction Interministérielle du Numérique (DINUM) aide les administrations et établissements publics à construire des services simples et faciles à utiliser, en axant leurs efforts sur les besoins des utilisateurs. Il a pour objectifs de remettre les personnes au cœur de l’action publique, d’apporter des solutions concrètes à leurs problèmes et d’obtenir le meilleur impact sur le réel.
-
-beta.gouv.fr constitue l’un des principaux leviers de résolutions de problèmes de politiques publiques et de transformation numérique du service public [portés par le programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/).
-
-## Qu’est-ce que l’approche Startup d’État ?
-
-Pour mieux comprendre l’approche Startup d'État, et en savoir plus sur les méthodes mises en place pour les créer et les accompagner, vous pouvez consulter [notre page programme](https://beta.gouv.fr/approche/). Vous pouvez également parcourir [le portefeuille](https://beta.gouv.fr/startups/) des services accompagnés par beta.gouv.fr, qui vous donnera une idée des types de problèmes que nous résolvons.
+En 2022, l'appel à candidatures sera ouvert toute l'année.
+Les dossiers seront relevés au fil de l'eau et feront l'objet d'une réponse sous 6 semaines maximum. 
 
 ## Quels sont les objectifs du Fonds d’accélération des Startups d’État et de Territoire (FAST) ?
-
-Ce fonds a pour objectif d’investir dans des projets apportant des solutions concrètes à des irritants administratifs ou à des problèmes de politique publique de grande ampleur (p. ex., lutter contre le gaspillage des déchets organiques, améliorer l'accès à la formation, faciliter les conditions scolaires pour les enfants handicapés, ouvrir les données de transports…). En ciblant des problèmes remontés par des agents, le FAST cofinance les équipes en charge de résoudre les problèmes en question.
-Le FAST peut aussi être amené à soutenir la création d'incubateurs au sein des ministères. 
+Ce fonds a pour objectifs :
+- de cofinancer des services numériques apportant des solutions concrètes à des irritants administratifs ou à des problèmes de politique publique de grande ampleur (par ex., lutter contre le gaspillage des déchets organiques, améliorer l'accès à la formation, faciliter les conditions scolaires pour les enfants en situation de handicap, ouvrir les données de transports…). Le FAST cofinance les équipes en charge de résoudre les problèmes en question ;
+- de favoriser la transformation numérique des administrations publiques, par l'adoption de l'approche Startup d'État. À ce titre, le FAST soutient les administrations qui souhaitent lancer un incubateur ayant vocation à héberger des produits conçus selon l'approche Startup d'État.
 
 ## Quelles sont les modalités d’investissement ?
-
 L'administration doit être en mesure de garantir sa capacité à financer à hauteur de la somme qu'elle sollicite (exemple : si le besoin évalué est de 100 000 euros, vous sollicitez 50 000 euros de la DINUM et vous mobilisez 50 000 euros). 
-
 Nous établirons une [convention de partenariat](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/) pour s'aligner sur les objectifs et modalités du cofinancement.
-
-Le montant du ticket global pourra être dépensé via les marchés de la DINUM sous forme de prestations pour renforcer l'équipe nécessaire à l’accompagnement, au développement et au déploiement du produit ou de l'incubateur.     
-
-[Plus de détails sur la convention d'un gagnant du Fast 2](https://www.data.gouv.fr/en/datasets/r/eafa7a05-6d46-4773-927f-66a16f4cee23) 
-(NB : Cette convention fonctionne par fonds de concours. Il existe différentes modalités pour mettre en œuvre le cofinancement.)
-
+Le montant du ticket global devra être consacré à des dépenses liées à l’accompagnement, au développement et au déploiement d'un ou plusieurs produits numériques conçus selon l'approche Startup d'Etat.
 
 ## Quelles sont les conditions d'éligibilité ?
 
-* Avoir mis en place une solution à un problème de politique publique ou une initiative locale qui pourrait passer à l’échelle grâce au levier du numérique
-* Si la solution est numérique, avoir ouvert le code du logiciel (open source)
-* Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée
-* Avoir une feuille de route pour le produit et pour le déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service)
-* Vouloir faire passer ce produit à l’échelle.
+**Pour le ticket de cofinancement pour la construction d'une Startup d’État - maximum 150k€ en cofinancement (1€ pour 1€)**
+* produit déjà en production (services numériques en ligne, avec de premiers utilisateurs satisfaits)
+* produit open source et conforme [aux standards techniques du programme beta.gouv](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr)
+* produit encore peu mature qui nécessite des ajustements avant le passage à l'échelle
 
-Sont aussi éligibles les ministères souhaitant créer un incubateur de Startups d'Etat. 
+**Pour le ticket de cofinancement pour l’accélération d'une Startup d’État - max 300k€ en cofinancement (1€ pour 1€)**
+* produit open source et conforme [aux standards techniques du programme beta.gouv](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr)
+* impact mesuré de façon chiffrée (avec une page /stats publique), qui prouve l'utilité du service pour ses utilisateurs
+* volonté de l'administration porteuse de faire passer ce produit à l’échelle avec une stratégie de déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service) et des moyens adaptés. Les critères d'un produit considéré en "phase d'accélération" sont détaillés [à cette page](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration)
+* les Startups d'État ayant déjà bénéficié d’un ticket de construction devront présenter leur bilan d'impact suite au premier cofinancement FAST.
 
-## Quels sont les critères de sélection ?
+**Pour le ticket de financement de lancement d'un incubateur de Startups d'État - max 200k€**
+* Ouvert à toutes les administrations publiques d’Etat et aux opérateurs de Sécurité Sociale
+* Avoir identifié de premiers problèmes à résoudre pouvant faire l'objet de Startups d'État
 
+## Quels sont les critères d'évaluation des dossiers ?
+Les produits numériques présentés au FAST seront évalués à l'aune des critères suivants : 
 * L’impact attendu pour l’utilisateur final ; 
-* La garantie d'un sponsor dans l’administration porteuse ; 
-* L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique ; 
-* L’adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV.
+* Le niveau de soutien (sponsorship) de l’administration porteuse et les ressources mobilisées ; 
+* L’effet de levier que constitue le cofinancement pour contribuer au succès du service public numérique.
 
-Une grille de sélection vous sera transmise pour présenter votre dossier devant le jury selon ces critères. 
+Les nouveaux incubateurs sollicitant un financement FAST seront évalués selon les critères suivants : 
+* la stratégie et les ambitions de l’incubateur notamment en termes de nombre potentiel de Startups d’État ;
+* le niveau de soutien (sponsorship) de l’administration porteuse et les ressources mobilisées ;
+* l’articulation prévue avec le réseau beta.gouv.
 
-## Quel est le processus de sélection ?
-
+## Comment se déroule la sélection ?
 * Vous sélectionnez un ou plusieurs services numériques existants ayant un impact mesuré, que vous souhaitez déployer.
-* Vous postulez en remplissant ce [formulaire](https://www.demarches-simplifiees.fr/commencer/fast9) avant le 13 septembre 2021. 
-À noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
-* À la clôture de l’appel à candidatures, l'équipe en charge du FAST effectue une présélection sur dossier. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
-* Si votre candidature est préselectionnée, vous présentez votre service devant les membres du comité d'investissement le 1er octobre.
-* Si votre candidature est retenue, vous organisez dans les semaines qui suivent un comité d'engagement entre votre sponsor et l'équipe de la DINUM pour cadrer les objectifs précis liés au financement. 
+* Vous postulez en remplissant le formulaire à n'importe quel moment de l'année 2022. À noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
+* L'équipe en charge du FAST effectue une présélection sur dossier au fil de l'eau (minimum une fois par mois). La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
+* Si votre candidature est préselectionnée, vous présentez votre service devant les membres du **comité d'investissement FAST**. 
+* Si votre candidature est retenue, vous organisez dans les semaines qui suivent un comité d'engagement entre votre sponsor et l'équipe de la DINUM pour cadrer les objectifs précis liés au cofinancement. 
 * Vous signez une convention de partenariat avec la DINUM lors de cet échange. 
-* Le produit est accompagné dans son développement par beta.gouv.fr en s'appuyant sur les deux tickets de financement (administration porteuse + DINUM).
-
-## Comment remplir le dossier de candidature ?
-
-Si vous êtes candidat pour l'accélération d'un produit, le dossier doit préciser clairement :  
-* Le problème auquel la solution répond
-* La solution mise en place 
-* Son impact sur le réel chiffré
-* Les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois
-L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante de transfert du service
-
-
-Si vous êtes candidat pour la création d'un incubateur, le dossier doit préciser clairement :   
-* Le problème auquel la création de l'incubateur répond
-* Le rattachement hiérarchique de l'incubateur 
-* Les ressources qui seront mobilisées 
-
-
-[Candidatez-ici sur la session du 13 septembre 2021.](https://www.demarches-simplifiees.fr/commencer/fast9)
-
+* Le produit est accompagné par les équipes de beta.gouv.fr pendant toute la durée du cofinancement.
 
 ## À quoi servira le ticket de cofinancement ?
-
 Le cofinancement pourra permettre de recruter des talents (coachs, développeurs•euses, designers•euses, chargé•e•s de déploiement) via les marchés publics des Startups d'État et de Territoires de la DINUM pour renforcer l'équipe pendant une période approximative de 6 mois. 
-
 Cet investissement pourra par exemple permettre de :
-
 * Tester de nouveaux canaux de diffusion 
 * Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages
 * Accompagner cette mise en oeuvre de façon opérationnelle
-* ...
 
+En 2022, les lauréats du FAST auront également accès à un accompagnement spécifique aux enjeux d'accélération par les [coachs Gamma](https://beta.gouv.fr/approche/acceleration) : 
+- formation Gamma aux enjeux de l’accélération pour les lauréats ;
+- accompagnement Gamma plus intensif et plus long par des coachs choisis par la DINUM, sur demande du comité d'investissement FAST, pour les produits en phase d'“accélération” ; l’accompagnement est financé sur les fonds obtenus en cofinancement. 
 
-## Mon projet a déjà été lauréat du FAST. Puis-je candidater de nouveau ? 
+## Mon produit a déjà été lauréat du FAST. Puis-je candidater de nouveau ? 
+Les lauréats des FAST 2019-2020 ne peuvent repostuler en 2022 : ils sont invités à [postuler aux guichets du plan de Relance](https://france-relance.transformation.gouv.fr/).
 
-Si vous avez déjà été lauréat du FAST, nous vous invitons à postuler au [Plan de Relance](https://france-relance.transformation.gouv.fr/). 
+Si vous avez déjà été lauréat du FAST en phase d'accélération, nous vous invitons à postuler au [Plan de Relance](https://france-relance.transformation.gouv.fr/).
 
+Si vous avez déjà été lauréat du FAST en phase de construction, vous pouvez candidater à nouveau. 
 
 ## Quels projets ne sont pas éligibles au FAST ? 
-
 * Des produits en phase d'investigation n'ayant pas encore de solution minimum viable ni de mesure d'impact déjà identifiée
 * Des produits existants avec un cahier des charges des fonctionnalités à développer
 * Des produits censés résoudre des problèmes d’organisation interne plutôt que des problèmes usagers
@@ -124,9 +89,7 @@ Si vous avez déjà été lauréat du FAST, nous vous invitons à postuler au [P
 * Des incubateurs au sein de ministères disposant déjà d'un incubateur membre du réseau beta.gouv.fr. 
 
 ## Comment candidater ?
- 
-[Candidatez-ici sur la session du 13 septembre 2021.](https://www.demarches-simplifiees.fr/commencer/fast9)
+Vous pouvez candidater [ici en tant que Startup d'État.](https://www.demarches-simplifiees.fr/commencer/fast2022) ou [ici en tant qu'Administration d'État ou Opérateur de Sécurité Sociale.](https://www.demarches-simplifiees.fr/commencer/incubateurs-fast)
 
 ## J’ai une question, qui puis-je contacter ?
-
-Si vous avez d’autres questions, vous pouvez envoyer un mail à l’adresse fast@beta.gouv.fr.
+Si vous avez d’autres questions, vous pouvez envoyer un mail à Jihane Herizi à l’adresse fast@beta.gouv.fr.

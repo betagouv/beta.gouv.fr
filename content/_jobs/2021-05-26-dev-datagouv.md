@@ -6,7 +6,7 @@ techno:
 - JS 
 - VueJS 
 - Python
-open: true
+open: false
 ---
 
 [data.gouv.fr](https://data.gouv.fr) cherche une développeuse ou un développeur fullstack qui s'intéresse aux données ouvertes et à l'open source, pour une mission de longue durée en freelance.

@@ -5,9 +5,10 @@ github: Abdessamadyssf
 domaine: Déploiement
 missions:
   - start: 2019-10-14
-    end: 2021-11-30
+    end: 2022-06-30
     status: independent
 startups:
     - codedutravail
     - itou
+    - place-de-marche-inclusion
 ---

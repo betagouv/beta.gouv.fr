@@ -9,7 +9,11 @@ missions:
     status: independent
     employer: Codeurs en Liberté
   - start: 2019-12-06
-    end: 2021-11-30
+    end: 2021-12-31
+    status: independent
+    employer: Codeurs en Liberté
+  - start: 2022-01-01
+    end: 2022-06-30
     status: independent
     employer: Codeurs en Liberté
 startups:

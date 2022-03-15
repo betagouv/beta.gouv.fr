@@ -1,12 +1,8 @@
 ---
 title: Korrigo Lycéens
 mission: Mutualiser les services régionaux à destination des lycéens
-owner: Région Bretagne
-sponsors: 
-    - name: Région Bretagne
-      acronym:
-      domaine_ministeriel: territoires
-      type: collectivite-territoriale
+sponsors:
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

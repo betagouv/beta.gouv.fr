@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/lionelandre/
 github: andlio
 missions:
   - start: 2021-07-01
-    end: 2021-11-06
+    end: 2021-10-12
     status: independent
     employer: Lionel ANDRÉ
 ---

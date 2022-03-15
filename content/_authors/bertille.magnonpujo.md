@@ -1,15 +1,17 @@
 ---
 fullname: Bertille MAGNON-PUJO
-role: Chargée d'assistance aux utilisateurs
 domaine: Produit
+role: Responsable support et animation - Produit SNU
+github: bertillemp
 link: https://www.linkedin.com/in/bertille-magnon-pujo/
 missions:
   - start: 2021-06-01
-    end: 2021-09-30
+    end: 2022-06-30
     status: independent
-    employer: Octo
+    employer: Malt
 startups:
-  - engagement-civique
+  - snu
+competences:
+  - Communication
 ---
-
-Chargée d'assistance aux utilisateurs SNU
+Fidèle enquêtrice , je ne lasse jamais un bug passé !

@@ -1,7 +1,8 @@
 ---
 fullname: Clémence MARTIN
 domaine: Déploiement
-role: Chargée de déploiement et produits
+role: Chargée de produit et déploiement
+github : Clem-mrtn
 missions:
   - start: 2021-01-04
     end: 2021-06-29
@@ -9,7 +10,7 @@ missions:
     employer: DINUM
   - status: independent
     start: 2021-07-05
-    end: 2021-12-31
+    end: 2022-06-30
 startups:
   - datagir
 badges:

@@ -7,13 +7,14 @@ avatar: null
 link: https://raphodn.github.io
 missions:
   - start: 2020-01-08
-    end: 2021-11-30
+    end: 2022-06-30
     status: independent
     employer: octo
 startups:
-  - aides-territoires
+  - place-de-marche-inclusion
 previously:
   - aidantsconnect
+  - aides-territoires
 badges:
   - segur
 competences:

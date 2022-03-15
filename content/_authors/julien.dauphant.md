@@ -1,7 +1,8 @@
 ---
 fullname: Julien Dauphant
-role: Mentor Technique et Produit
+role: Intrapreneur Tchap
 link: 'https://twitter.com/jdauphant'
+github: jdauphant
 missions:
   - employer: octo
     start: 2016-11-03
@@ -12,9 +13,9 @@ missions:
     status: admin
     employer: dinum
 startups:
-  - aplus
   - tchap
 previously:
+  - aplus
   - signalement
   - plante-et-moi
   - e-controle

@@ -1,7 +1,8 @@
 ---
 title: DataPass
 mission: Délivrer des « Pass » pour accéder à la « Data » produite par l'État.
-owner: DINUM
+sponsors:
+ - /organisations/dinum
 incubator: apigouv
 phases:
   - name: construction
@@ -12,7 +13,7 @@ link: https://datapass.api.gouv.fr
 repository: https://github.com/betagouv/datapass
 stats: true
 stats_url: https://datapass.api.gouv.fr/stats
-contact: datapass@api.gouv.fr
+contact: contact@api.gouv.fr
 ---
 
 ## Le problème

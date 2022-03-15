@@ -1,6 +1,6 @@
 ---
 roles: Administrateur/trice système sénior
-open: true
+open: false
 date: 2021-07-05T17:27:03.899Z
 ---
 ## Votre mission

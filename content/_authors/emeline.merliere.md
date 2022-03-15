@@ -9,6 +9,7 @@ missions:
     status: admin
     employer: DINUM
 startups:
+previously:
   - sante-psy-etudiant
 badges:
   - segur

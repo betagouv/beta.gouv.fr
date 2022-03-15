@@ -1,6 +1,6 @@
 ---
 roles: Développeur ou développeuse fullstack
-open: true
+open: false
 date: 2021-07-21T08:50:05.348Z
 startup: sndv_maritime
 ---

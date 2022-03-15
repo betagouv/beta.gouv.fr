@@ -2,13 +2,9 @@
 title: Lab Agora
 mission: Améliorer la mise en relation des acteurs qui œuvrent pour
   l’amélioration de la vie des patients atteints de cancer
-owner: Living Lab de l'Institut national du cancer
 sponsors:
-  - name: Institut national du cancer
-    acronym: INCA
-    domaine_ministeriel: sante
+  - /organisations/inca
 incubator: dinum
-link: https://lab-agora.softr.app/
 contact: tristan.roue@beta.gouv.fr
 phases:
   - name: investigation
@@ -17,6 +13,8 @@ phases:
   - name: construction
     start: 2021-04-21
     end: 2021-12-31
+link: https://lab-agora.softr.app
+repository: https://github.com/betagouv/inca-app
 ---
 # Contexte 
 

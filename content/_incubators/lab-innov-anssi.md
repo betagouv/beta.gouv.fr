@@ -1,9 +1,9 @@
 ---
 title: Le laboratoire d'innovation de l'ANSSI
-owner: Agence nationale de la sécurité des systèmes d'information
+owner: /organisations/anssi
 logo: logo_lab_innov_anssi.png
 website: https://ssi.gouv.fr
 github: 
 contact: lab-innov@ssi.gouv.fr
-address: 51 bd de la Tour Maubourg, 75017 Paris
+address: 51 bd de la Tour Maubourg, Paris 17e
 ---

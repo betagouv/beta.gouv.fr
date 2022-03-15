@@ -1,11 +1,11 @@
 ---
 fullname: Nicolas Bouilleaud
-role: Développeur
 domaine: Développement
+role: Développeur
 github: n-b
 missions:
   - employer: Codeurs en Liberté
-    end: 2021-12-31
+    end: 2022-12-31
     start: 2018-04-09
     status: service
 startups:
@@ -13,4 +13,7 @@ startups:
 previously:
   - place-des-entreprises
   - demarches-simplifiees.fr
+competences:
+  - Développement Frontend
+  - Développement Backend
 ---

@@ -1,12 +1,8 @@
 ---
 title: api.gouv.fr
-mission: Le site qui référence toutes les APIs du service public
-owner: DINUM
+mission: Référencer toutes les APIs du service public
 sponsors: 
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      domaine_ministeriel: spm # Service du premier ministre
-      type: administration-centrale
+    - /organisations/dinum
 incubator: apigouv
 phases:
   - name: investigation

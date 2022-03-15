@@ -3,11 +3,12 @@ fullname: Christophe VANFRACKEM
 role: Développeur
 domaine: Développement
 link: https://www.zentux.fr
+github: z3ntUx
 missions:
   - start: 2021-07-07
-    end: 2022-01-07
+    end: 2022-04-07
     status: independent
-    employer: Octo
+    employer: LBC
 startups:
   - acceslibre
 ---

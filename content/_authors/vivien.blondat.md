@@ -4,7 +4,7 @@ role: Opérateur de validation
 domaine: Autre
 missions:
   - start: 2021-03-27
-    end: 2021-09-27
+    end: 2022-03-31
     status: independent
     employer: Octo
 startups:

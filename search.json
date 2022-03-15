@@ -23,7 +23,6 @@
 
       "title"    : "{{ startup.title | escape }}",
       "mission"   : "{{ startup.mission | escape }}",
-      "owner" : "{{ startup.owner | escape }}",
       "incubator" : "{{ startup.incubator | escape }}",
       "url"      : "{{ site.baseurl }}{{ startup.url }}",
       "contact"     : "{{ startup.contact }}",

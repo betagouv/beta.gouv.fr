@@ -1,7 +1,7 @@
 ---
 fullname: Florence LEVY
-role: Chargée du suivi du projet @chauffageurbain
 domaine: Autre
+role: Co-intrapreneur
 missions:
   - start: 2021-04-07
     end: 2022-04-07
@@ -9,4 +9,6 @@ missions:
     employer: DRIEAT
 startups:
   - chauffage-urbain
+competences:
+  - Administration Publique
 ---

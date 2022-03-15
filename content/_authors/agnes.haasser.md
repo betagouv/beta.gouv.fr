@@ -6,9 +6,9 @@ github: tut-tuuut
 link: https://www.corelka.fr/
 missions:
   - start: 2021-01-05
-    end: 2021-11-06
+    end: 2022-05-30
     status: independent
-    employer: Octo
+    employer: Malt
 startups:
   - aidantsconnect
 ---

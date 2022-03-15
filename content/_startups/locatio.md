@@ -1,12 +1,9 @@
 ---
 title: DossierFacile
 mission: Remettre la confiance au centre de la relation entre propriétaires et locataires
-owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 sponsors:
-    - name: Direction generale de l'Amenagement, du Logement et de la Nature / Direction de l'habitat, de l'urbanisme et des paysages
-      acronym: DGALN / DHUP
-      domaine_ministeriel: environnement
-      type: administration-centrale
+  - /organisations/dgaln
+  - /organisations/dhup
 incubator: mtes
 phases:
   - name: investigation
@@ -14,7 +11,8 @@ phases:
   - name: construction
     start: 2018-01-01
   - name: acceleration
-link: https://www.dossierfacile.fr/?utm_source=betagouv
+    start: 2018-01-01
+link: https://www.dossierfacile.fr/?utm_source=betagouv&utm_medium=referral&utm_campaign=fiche_betagouv
 repository: https://github.com/mtes-mct/locatio
 stats: true
 stats_url: https://www.dossierfacile.fr/stats
@@ -37,9 +35,22 @@ Un DossierFacile, c'est un dossier simple, en ligne et totalement gratuit qui ai
 
 Bailleurs et professionnels de l'immobilier, DossierFacile est là pour vous rassurer dans votre choix en synthétisant les informations des différents candidats à la location et en vérifiant les déclarations d’imposition pour éviter mauvaises surprises et fausses déclarations. Notre rôle n’est pas de choisir pour vous mais nous pouvons vous aider à vérifier que tout est bien en ordre.
 
-## Le déploiement
+## Notre déploiement
 
-Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. Fin 2020, ce sont déjà plus de 250 000 locataires, 10 000 propriétaires et une dizaine de professionnels de l'immobilier qui ont choisi de nous faire confiance. Comprendre les besoins des locataires et des bailleurs est notre obsession et notre produit est en amélioration constante.
+Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. Fin 2021, ce sont déjà plus de 350 000 locataires, 20 000 propriétaires et une dizaine de professionnels de l'immobilier qui ont choisi de nous faire confiance. 
+
+## Nos ambitions pour les prochains mois
+
+Comprendre les besoins des locataires et des bailleurs est notre obsession et notre produit est en amélioration constante. 
+Pour le premier semestre 2022, nous souhaitons notamment :
+- intégrer la possibilité d'utiliser FranceConnect pour s'identifier
+- tester le produit 'Mon FranceConnect' dans le but d'obtenir un justificatif d'imposition
+- continuer l'accompagnement de partenaires sur notre plateforme.
+
+## Nos indicateurs d'impact d'ici mi-2022
+
+D'ici juin 2022, nous avons pour objectif de valider 50% de dossiers en plus que sur les 6 derniers mois et d'abaisser notre coût par dossier de 15€ à 10€.
+
 
 Chez DossierFacile, nous voyons grand. Partant du dossier de location, nous avons l’ambition d’accompagner locataires et bailleurs tout au long de leur relation - et ce ne sont pas les idées qui nous manquent ! Pour autant, nous savons qu’inspirer la confiance est un défi de longue haleine qui ne pourra être relevé que pas à pas. Gardant tout ça en tête, nous n’avons qu’une boussole : toujours mieux servir les citoyens.
 

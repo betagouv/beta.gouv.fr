@@ -1,16 +1,18 @@
 ---
 fullname: Andre  Gauthier
+domaine: Déploiement
 role: Chargé de déploiement
 avatar: https://avatars.githubusercontent.com/u/85872944?v=4
-domaine: Déploiement
 missions:
   - start: 2021-06-10
-    end: 2021-12-31
+    end: 2022-06-30
     status: independent
     employer: Scopyleft
 startups:
   - ma-cantine-egalim
 badges:
   - segur
+competences:
+  - Communication
+  - Croissance
 ---
-

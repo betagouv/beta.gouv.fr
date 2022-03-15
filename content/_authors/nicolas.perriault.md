@@ -13,12 +13,16 @@ missions:
     end: 2021-12-31
     status: independent
     employer: Arolla
+  - start: 2021-12-01
+    end: 2022-04-30
+    status: independent
+    employer: LBC
 startups:
   - acceslibre
   - wikicarbone
 previously:
   - egapro
 competences:
-  - Développement Backend
+  - Développement Full-Stack
 ---
 En quête de sens numérique

@@ -1,12 +1,8 @@
 ---
 title: Memo
-mission: Vos candidatures en un clin d'oeil
-owner: Pôle emploi
-sponsors: 
-    - name: Pôle Emploi
-      acronym: PE
-      domaine_ministeriel: travail
-      type: operateur
+mission: Visualiser ses candidatures Pôle emploi en un clin d'oeil
+sponsors:
+    - /organisations/pole-emploi
 incubator: pole-emploi
 phases:
   - name: investigation

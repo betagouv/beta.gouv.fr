@@ -1,23 +1,19 @@
 ---
 title: UrbanVitaliz (Friches)
 mission: Faciliter la réhabilitation des friches urbaines
-owner: CEREMA
+sponsors:
+ - /organisations/cerema
 incubator: dinum
-sponsors: 
-    - name: Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement
-      acronym: CEREMA
-      domaine_ministeriel: territoires
-      type: operateur
 phases:
   - name: investigation
     start: 2020-02-12
     end: 2020-05-19
   - name: construction
     start: 2020-09-14
-link: https://betagouv.github.io/urbanvitaliz/
-repository: https://github.com/betagouv/urbanvitaliz
+link: https://urbanvitaliz.fr/
+repository: https://github.com/betagouv/urbanvitaliz-django
 stats: true 
-stats_url: https://betagouv.github.io/urbanvitaliz/stats
+stats_url: https://urbanvitaliz.fr/stats
 contact: friches@beta.gouv.fr
 redirect_from:
   - /startups/friches

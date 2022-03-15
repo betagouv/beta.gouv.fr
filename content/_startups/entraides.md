@@ -1,7 +1,9 @@
 ---
 title: Entraides Entreprises
 mission: Aider les chefs d’entreprises dans leurs recherches de solutions à leurs problèmes
-owner: Ministère de l'économie, des finances et de la relance - Direction générale des entreprises (DGE)
+sponsors:
+  - /organisations/mefr
+  - /organisations/dge
 incubator: bercy
 phases:
   - name: investigation

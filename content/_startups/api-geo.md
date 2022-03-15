@@ -1,12 +1,8 @@
 ---
 title: API Géo
-mission: Interrogez les référentiels géographiques plus facilement
-owner: DINUM
+mission: Interroger les référentiels géographiques plus facilement
 sponsors: 
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      domaine_ministeriel: spm # Service du premier ministre
-      type: administration-centrale
+    - /organisations/dinum
 incubator: apigouv
 phases:
   - name: investigation

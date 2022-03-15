@@ -7,7 +7,7 @@ missions:
   - status: service
     employer: Fabrique des ministères sociaux
     start: 2020-01-01
-    end: 2021-12-30
+    end: 2022-12-30
 startups:
   - domifa
 ---

@@ -1,15 +1,16 @@
 ---
 fullname: Yassine Riffi
-role: Développeur fullstack
 domaine: Développement
+role: Développeur
 github: pYassine
-avatar: null
-link: null
 missions:
-  - start: 2019-03-15
-    end: 2021-12-31
+  - start: 2020-03-15
+    end: 2022-12-31
     status: independent
-    employer: null
+    employer: benext
 startups:
   - domifa
+competences:
+  - Développement Backend
+  - Développement Frontend
 ---

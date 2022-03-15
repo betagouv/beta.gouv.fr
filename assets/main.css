@@ -96,6 +96,10 @@
   width: 100%;
 }
 
+.hero__startup__mission {
+  color: #4941C0;
+}
+
 /* Cette classe n'est plus utilisée que sur la home.html, supprimer lors de la refonte prochaine */
 
 .row {
@@ -137,7 +141,19 @@
 
 /* Couleurs de sections et espacemements */
 .section-grey {
-  background-color: #ebeff3;
+  background-color: #E9E6FC;
+}
+
+.section-lightgrey {
+  background-color: #f3f6ff;
+}
+
+.section-lightgrey h1 {
+  color: #1e1e1e;
+}
+
+.section-lightgrey .section-highlight {
+ color: #484d7a; 
 }
 
 .section-dark {
@@ -217,6 +233,9 @@
   border-radius: 50%;
   width: auto;
   margin: auto;
+}
+.section-blue .fr-card__img img.avatar-rounded {
+  border: 8px solid #fff;
 }
 
 /* Ajouter un modificateur de tags pour les rendre inactifs */
@@ -322,6 +341,11 @@ h2.phase-title em {
   color: $darker-grey;
 }
 
+/* Parce que les images des startups fiches ne sont pas toujours à la bonne taille */
+.fr-container img {
+  width: 100%;
+}
+
 .filters {
   padding: 1em 0;
   background-color: #bfbfe3;
@@ -355,6 +379,12 @@ h2.phase-title em {
     grid-column: 3;
   }
 }  
+
+.markdown p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin: 0 0 1.0rem;
+}
 
 @media (max-width: 1000px) {
   .incubator-header .incubator-logo {
@@ -475,10 +505,6 @@ h2.phase-title em {
 }
 
 /* START SECTION CLASS */
-.section-light-grey {
-  background-color: var(--beige);
-}
-
 .section-blue {
   background: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%),
   linear-gradient(0deg, #00006D, #00006D);
@@ -506,10 +532,6 @@ h2.phase-title em {
   max-height: 200px;
   margin-left: auto;
   margin-right: auto;
-}
-
-.section-blue h3.fr-card__title {
-  text-align: center;
 }
 
 .section-main {
@@ -603,3 +625,20 @@ h2.phase-title em {
   width: auto;
 }
 
+.bg-white {
+  background-color: white;
+}
+
+@media (max-width: 980px) {
+  .hidden-mobile {
+    display: none;
+  }
+}
+
+
+/* TYPO PAGE APPROCHE */
+.decorated{
+background-color: #E9E6FC;
+width: max-content;
+font-size: 1rem;
+}

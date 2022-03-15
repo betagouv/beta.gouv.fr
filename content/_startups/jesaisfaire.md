@@ -1,7 +1,8 @@
 ---
 title: JeSaisFaire
 mission: Réconcilier acheteurs et PME avec les marchés publics.
-owner: Ministère de l'Intérieur
+sponsors:
+  - /organisations/interieur
 incubator: lab-mi
 phases:
   - name: investigation
