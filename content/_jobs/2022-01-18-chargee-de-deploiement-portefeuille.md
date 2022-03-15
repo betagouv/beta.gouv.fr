@@ -1,7 +1,8 @@
 ---
 roles: un·e chargé.e de déploiement de portefeuille
-startup : Incubateur des Territoires
-open: true
+open: false
+date: 2022-03-04T10:34:38.627Z
+startup: Incubateur des Territoires
 ---
 
 L'Incubateur des Territoires recherche un.e chargé.e de déploiement de portefeuille

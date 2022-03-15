@@ -9,5 +9,10 @@ missions:
     status: independent
 startups:
   - catalogue-apprentissage
-  - annuaire-apprentissage
+  - Trajpro
+  - uai_siret
+  - tdb-apprentissage
+  - la-bonne-alternance
+  - matcha
+  - rdv.apprentissage
 ---

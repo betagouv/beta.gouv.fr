@@ -6,12 +6,12 @@ github: nenj
 link: https://www.linkedin.com/in/nicolas-enjalbert/
 missions:
   - start: 2021-04-08
-    end: 2022-03-15
+    end: 2022-04-30
     status: independent
     employer: Benext, NUMA
 startups:
   - envergo
-  - pass-emploi
+  - l-application-du-cej
 competences:
   - Coaching
   - UX

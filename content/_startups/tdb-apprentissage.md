@@ -1,11 +1,13 @@
 ---
 title: Tableau de bord Apprentissage
 mission: "Permettre l’accès aux données clés de l’apprentissage en temps réel"
-owner: Mission interministérielle pour l'apprentissage
 sponsors:
-  - name: "Ministère du travail, de l'emploi et de l'insertion "
-    type: administration-centrale
-    domaine_ministeriel: travail
+  - /organisations/menjs
+  - /organisations/mtei
+  - /organisations/mesr
+  - /organisations/mtfp
+  - /organisations/dinum
+  - /organisations/dgefp
 incubator: mission-apprentissage
 link: https://cfas.apprentissage.beta.gouv.fr
 repository: 

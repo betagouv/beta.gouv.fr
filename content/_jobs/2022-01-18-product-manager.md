@@ -1,7 +1,8 @@
 ---
 roles: un.e product manager
-startup : Incubateur des Territoires
-open: true
+open: false
+date: 2022-03-04T10:34:01.370Z
+startup: Incubateur des Territoires
 ---
 
 L'Incubateur des Territoires recherche un.e product manager.

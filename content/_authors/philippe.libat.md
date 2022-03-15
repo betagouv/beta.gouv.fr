@@ -17,6 +17,7 @@ missions:
 previously:
   - histovec
   - candilib
+incubator: dinum
 competences:
   - Administration Système
 ---

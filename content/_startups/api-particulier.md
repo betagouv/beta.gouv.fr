@@ -1,12 +1,8 @@
 ---
 title: API Particulier
-mission: Accélérer l’ouverture des données personnelles et leur réutilisation pour simplifier les démarches
-owner: DINUM
+mission: Faire circuler les données des particuliers pour réduire les demandes de pièces justificatives et simplifier les démarches
 sponsors: 
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      domaine_ministeriel: spm # Service du premier ministre
-      type: administration-centrale
+    - /organisations/dinum
 incubator: apigouv
 phases:
   - name: investigation

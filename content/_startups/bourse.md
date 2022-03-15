@@ -1,12 +1,9 @@
 ---
 title: Bourse
 mission: Demander et liquider une bourse de collège en ligne
-owner: DINUM
 sponsors: 
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      domaine_ministeriel: education-nat
-      type: administration-centrale
+    - /organisations/dinum
+    - /organisations/menjs
 incubator: dinum
 events:
   - name: end

@@ -6,10 +6,10 @@ link: http://www.anaellebeignon.fr
 github: anaellebe
 missions:
   - start: 2021-02-11
-    end: 2022-03-30
+    end: 2022-04-29
     status: independent
 startups:
-  - pass-emploi
+  - l-application-du-cej
 ---
 
 Designeuse fan de méthodo, de recherche utilisateur et de travail en équipe 🧚🏼‍♀️

@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (48)
 mission: Acculturer ladministration et les élus à de nouvelles méthodes de travail
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

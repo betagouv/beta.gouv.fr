@@ -1,14 +1,10 @@
 ---
 title: SPPNaut
 mission: Faciliter l'utilisation des publications nautiques en numérisant les données qu'elles contiennent
-sponsors: 
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      type: administration-centrale
-    - name: Shom 
-      type: autre
+sponsors:
+  - /organisations/dinum
+  - /organisations/shom
 incubator: dinum
-owner: Shom
 phases:
   - name: investigation
     start: 2021-10-07

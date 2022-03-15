@@ -2,20 +2,18 @@
 title: Attractivité des territoires
 mission: Accompagner par la data visualisation les petites communes dans le
   montage, la sécurisation et la valorisation de leurs projets d’investissement.
-owner: Direction générale des Finances publiques (DGFiP)
 sponsors:
-  - name: Direction générale des Finances publiques
-    acronym: DGFiP
-    type: administration-centrale
-    domaine_ministeriel: autres
+  - /organisations/dgfip
 incubator: fabrique-dgfip
 contact: dtnum.culture-numerique.Innover@dgfip.finances.gouv.fr
 stats: false
-events: []
+events: 
+  - name: end
+    date: 2022-01-11
 phases:
   - name: construction
     start: 2021-11-02
-    name : alumni
+  - name : alumni
     start : 2022-01-11
 ---
 ## Contexte

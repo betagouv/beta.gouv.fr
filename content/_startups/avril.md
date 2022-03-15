@@ -1,12 +1,8 @@
 ---
 title: Avril
 mission: Obtenir un diplôme par la VAE grâce à ses compétences
-owner: Pôle emploi
 sponsors: 
-    - name: Pôle emploi
-      acronym: PE
-      domaine_ministeriel: travail
-      type: operateur
+    - /organisations/pole-emploi
 incubator: pole-emploi
 phases:
   - name: investigation
@@ -14,6 +10,7 @@ phases:
   - name: construction
     start: 2017-05-01
   - name: transfer
+    start: 2021-06-01
 link: https://avril.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/avril
 stats: true

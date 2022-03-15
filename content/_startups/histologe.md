@@ -5,12 +5,10 @@ repository: https://github.com/betagouv/histologe
 contact: alban.sestiaa@beta.gouv.fr
 stats_url: https://histologe.beta.gouv.fr/Chiffres
 title: Histologe
-owner: Direction de l'Habitat, de l'Urbanisme et des Paysages (DHUP)
 sponsors:
-  - name: ANCT / DHUP / DINUM
-    acronym: ANCT / DHUP / DINUM
-    domaine_ministeriel: territoires
-    type: collectivite-territoriale
+  - /organisations/anct
+  - /organisations/dhup
+  - /organisations/dinum
 link: https://histologe.beta.gouv.fr
 stats: true
 phases:

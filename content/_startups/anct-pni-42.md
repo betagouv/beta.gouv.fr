@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (42)
 mission: Améliorer la collaboration numérique entre agents et élus, notamment dans la préparation des conseils municipaux
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

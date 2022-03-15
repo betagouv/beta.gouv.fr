@@ -2,7 +2,6 @@
 fullname: Vermeer Grange
 role: Développeur web / Data scientist
 domaine: Développement
-github: vgrange
 missions:
   - start: 2016-10-24
     end: 2019-08-30

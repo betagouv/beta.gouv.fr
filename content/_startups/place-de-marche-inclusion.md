@@ -2,11 +2,8 @@
 title: Marché de l'inclusion (ITOU)
 mission: Promouvoir l'offre commerciale des structures inclusives pour accroître
   leur capacité d'embauche
-owner: Ministère du Travail, de l'Emploi et de l'Insertion, ITOU
 sponsors:
-  - name: Délégation générale à l'emploi et à la formation professionnelle
-    acronym: DGEFP
-    domaine_ministeriel: travail
+  - /organisations/dgefp
 incubator: dinum
 repository: https://github.com/betagouv/itou-marche
 contact: lemarche@inclusion.beta.gouv.fr

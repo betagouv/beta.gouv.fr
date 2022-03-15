@@ -1,7 +1,8 @@
 ---
 title: Auto Partage
 mission: Expérimenter la mise en place d'un service d'auto-partage citoyen
-owner: Ville de Mouans-Sartoux
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -9,9 +10,6 @@ phases:
     end: 2020-11-30
   - name: alumni
     start: 2020-12-01
-events:
-  - name: end
-    date: 2021-12-31
 link: 
 repository: 
 stats: false

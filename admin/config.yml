@@ -58,7 +58,7 @@ collections:
     editor:
       preview: false
     fields:
-      - label: Quel est le nom de ta Startup d'ETat ?
+      - label: Quel est le nom de ta Startup d'Etat ?
         name: title
         hint: "Ce nom sert d'identifiant pour la startup et ne doit pas dépasser 30 caractères"
         widget: string
@@ -68,57 +68,18 @@ collections:
           Par exemple : "Faciliter la création d'une fiche produit". Pas besoin de faire plus long.
         name: mission
         widget: string
-      - label: Qui est l'administration sponsor ?
-        hint : Indiques le nom de l'administration qui porte ta Startup d'Etat.
-        name: owner
-        widget: string
-      - label: Quelques infos sur la ou les administrations sponsors ou partenaires ? 
+      - label: Administration sponsor ou partenaire
         name: sponsors
         widget: list
         collapsed: false
         fields:
-          - label: Nom de l'administration
+          - label: Sponsor
             name: name
-            widget: string
-          - label: Quel est l'acronyme de cette administration ?
-            name: acronym
-            widget: string
-            required: false
-          - label: "Type"
-            hint: "Quelle est le type de partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter"
-            name: "type"
-            widget: "select"
-            required: false
-            options:
-              - { label: "Administration centrale", value: "administration-centrale" }
-              - { label: "Opérateur", value: "operateur" }
-              - { label: "Sécurité sociale", value: "securite-sociale" }
-              - { label: "Collectivité territoriale ", value: "collectivite-territoriale" }
-              - { label: "Autre", value: "autre" }
-          - label: "Cette administration intervient principalement dans quel champs de l'action publique ?"
-            hint: >
-              Quelle est le domaine "ministériel" ou domaine "action publique" du partenaire ? si vous ne savez pas, vous n'avez pas besoins de compléter
-            name: "domaine_ministeriel"
-            widget: "select"
-            required: true
-            options:
-              - { label: "Affaires étrangères", value: "affaires-etrangeres" }
-              - { label: "Affaires sociales", value: "affaires-sociales" }
-              - { label: "Agriculture", value: "agriculture" }
-              - { label: "Armées", value: "armees" }
-              - { label: "Bercy", value: "bercy" }
-              - { label: "Culture", value: "culture" }
-              - { label: "Education nationnale", value: "education-nat" }
-              - { label: "Enseignement supérieur", value: "enseignement-sup" }
-              - { label: "Environnement", value: "environnement" }
-              - { label: "Intérieur", value: interieur }
-              - { label: "Outre-mer", value: "outre-mer" }
-              - { label: "Santé", value: "sante" }
-              - { label: "Service du Premier Ministre", value: "spm" }
-              - { label: "Sport", value: "sport" }
-              - { label: "Travail", value: "travail" }
-              - { label: "Territoires", value: "territoires" }
-              - { label: "Autres", value: "autres" }
+            widget: relation
+            valueField: "/organisations/{{slug}}"
+            displayFields: ["{{name}} ({{slug}})"]
+            searchFields: [slug, name]
+            collection: organisations
       - <<: *relation_default_options
         label: Quel est l'incubateur qui t'accompagne ?
         name: incubator
@@ -298,6 +259,14 @@ collections:
             label: "Date de fin"
             hint: "Fin de ton contrat ou de ton financement - tu pourras la modifier plus tard."
             name: "end"
+      - label: Incubateur
+        label_singular: Incubateur
+        hint: "Pour quel incubateur réalises-tu ta mission ?"
+        name: incubator
+        <<: *relation_default_options
+        collection: incubators
+        multiple: false
+        required: false
       - label: Startups
         label_singular: Startup
         hint: "Plusieurs choix possibles. Si la startup n'apparait pas encore dans la liste, contacte un administrateur du site !"
@@ -359,7 +328,13 @@ collections:
       preview: false
     fields:
       - { label: Nom, name: title, widget: string }
-      - { label: Responsable, name: owner, widget: string }
+      - label: Responsable
+        name: owner
+        widget: relation
+        valueField: "/organisations/{{slug}}"
+        displayFields: ["{{name}} ({{slug}})"]
+        searchFields: [slug, name]
+        collection: organisations
       - { label: Site, name: website, widget: string }
       - { label: Dépôts des produits, name: github, widget: string }
       - { label: Contact, name: contact, widget: string }
@@ -467,3 +442,83 @@ collections:
           Télétravail et/ou possibilité de travailler à ....
 
           Candidature à recrutement@beta.gouv.fr
+  - name: organisations
+    publish: false
+    label: Organisations
+    label_singular: Organisation
+    folder: "content/_organisations"
+    identifier_field: acronym
+    create: true
+    delete: false
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - label: Nom de l'administration
+        name: name
+        widget: string
+      - label: Quel est l'acronyme de cette administration ?
+        name: acronym
+        widget: string
+        required: false
+      - label: Type
+        hint: >-
+          Quelle est le type de partenaire ? si vous ne savez pas, vous n'avez
+          pas besoins de compléter
+        name: type
+        widget: select
+        required: false
+        options:
+          - label: Administration centrale
+            value: administration-centrale
+          - label: Opérateur
+            value: operateur
+          - label: Sécurité sociale
+            value: securite-sociale
+          - label: Collectivité territoriale
+            value: collectivite-territoriale
+          - label: Autre
+            value: autre
+      - label: >-
+          Cette administration intervient principalement dans quel champs de
+          l'action publique ?
+        hint: >
+          Quel est le domaine "ministériel" ou domaine "action publique" du
+          partenaire ? si vous ne savez pas, vous n'avez pas besoins de
+          compléter
+        name: domaine_ministeriel
+        widget: select
+        required: true
+        options:
+          - label: Affaires étrangères
+            value: affaires-etrangeres
+          - label: Agriculture
+            value: agriculture
+          - label: Armées
+            value: armees
+          - label: Bercy
+            value: bercy
+          - label: Culture
+            value: culture
+          - label: Education nationnale
+            value: education-nat
+          - label: Enseignement supérieur
+            value: enseignement-sup
+          - label: Environnement
+            value: environnement
+          - label: Intérieur
+            value: interieur
+          - label: Outre-mer
+            value: outre-mer
+          - label: Solidarités et Santé
+            value: solidarite-sante
+          - label: Service du Premier Ministre
+            value: spm
+          - label: Sport
+            value: sport
+          - label: Travail
+            value: travail
+          - label: Territoires
+            value: territoires
+          - label: Autres
+            value: autres

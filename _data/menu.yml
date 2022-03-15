@@ -14,7 +14,7 @@ shortcuts:
   -
     label: Annuaire
     external: false
-    url: https://beta.gouv.fr/communaute/annuaire
+    url: /communaute/annuaire
   -
     label: Documentation
     external: true

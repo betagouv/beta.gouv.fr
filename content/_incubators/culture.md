@@ -1,7 +1,7 @@
 ---
 
-title: L'Atelier Numérique du Ministère de la Culture 
-owner: Ministère de la Culture 
+title: L'Atelier Numérique du Ministère de la Culture
+owner: /organisations/mc
 logo: logo_culture.png
 website:
 github:

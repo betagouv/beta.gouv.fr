@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (31)
 mission: Bâtir une nouvelle offre culturelle en lien avec lévolution des locaux du cinéma associatif local
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

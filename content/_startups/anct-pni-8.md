@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (8)
 mission: Diffuser la culture en territoire rural, en parallèle de limplantation des Micro-folies et projets de cinéma local
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

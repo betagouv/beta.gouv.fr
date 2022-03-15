@@ -1,7 +1,8 @@
 ---
 title: Coûts simplifiés
 mission: Simplifier la gestion des aides européennes par les entreprises
-owner: Région Hauts-de-France
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

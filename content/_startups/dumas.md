@@ -1,7 +1,8 @@
 ---
 title: Dumas
 mission: Résoudre les problèmes rencontrés par le réseau culturel français à l'étranger
-owner: Ministère de l'Europe et des Affaires étrangères
+sponsors: 
+    - /organisations/meae
 incubator: dinum
 contact: christophe.musitelli@beta.gouv.fr
 phases:

@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (14)
 mission: Améliorer la visibilité du CIAS auprès des collectivités locales
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

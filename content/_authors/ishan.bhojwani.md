@@ -16,12 +16,12 @@ missions:
     status: admin
 github: IshanB
 startups:
-    - egalim
+    - ma-cantine-egalim
     - recosante
     - cartobio
-    - ban
 previously:
     - urbanvitaliz
+    - ban
     - datagir
     - territoires-en-transitions
     - le-taxi

@@ -2,13 +2,8 @@
 title: Santé Psy Étudiant
 mission: Permettre aux étudiants d'être accompagnés psychologiquement
   gratuitement et sans avance de frais
-owner: Ministère de l'Enseignement Supérieur et de la Recherche
 sponsors:
-  - name: Direction générale de l'enseignement supérieur et de l'insertion
-      professionnelle
-    acronym: DGESIP
-    domaine_ministeriel: enseignement-sup
-    type: administration-centrale
+    - /organisations/dgesip
 incubator: dinum
 link: https://santepsy.etudiant.gouv.fr/
 repository: https://github.com/betagouv/sante-psy/

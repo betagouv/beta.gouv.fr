@@ -1,7 +1,8 @@
 ---
 title: OuFaAlim'
 mission: Faciliter la vie des acteurs de la lutte contre la précarité alimentaire
-owner: Délégué interministériel à la prévention et à la lutte contre la pauvreté
+sponsors:
+  - /organisations/solidarite-sante
 incubator: dinum
 contact: julie.ripa@sante.gouv.fr
 phases:

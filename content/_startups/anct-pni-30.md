@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (30)
 mission: Mettre en oeuvre une plateforme solidaire de distribution de paniers alimentaires
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

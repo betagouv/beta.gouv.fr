@@ -1,7 +1,8 @@
 ---
 title: Programme national d'investigation (16)
 mission: Redéfinir le schéma d’accueil du public sur le territoire
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

@@ -15,10 +15,11 @@ missions:
     status: independent
     employer: benext
 startups:
-    - a-just
+    - produits-beta
 previously:
     - signaux-faibles
     - disinfo
+    - a-just
 ---
 
 Developer Experience & Data @beta.gouv

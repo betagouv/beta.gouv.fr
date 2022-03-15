@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: octo
 startups:
-  - transition écologique
+  - mission-transition-ecologique
 competences:
   - Croissance
 ---

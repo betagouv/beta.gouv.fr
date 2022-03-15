@@ -1,6 +1,6 @@
 ---
 title: L'Incubateur de Services Numériques
-owner: DINUM
+owner: /organisations/dinum
 logo: logo_beta.png
 website: https://beta.gouv.fr/
 github: https://github.com/betagouv/

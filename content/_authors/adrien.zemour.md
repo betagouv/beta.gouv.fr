@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Fabrique numérique des ministères sociaux
 startups:
-  - pass-emploi
+  - l-application-du-cej
 badges:
   - segur
 ---

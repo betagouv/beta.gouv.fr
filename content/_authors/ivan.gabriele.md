@@ -19,7 +19,7 @@ missions:
     status: independent
   - employer: LittleBig Connection
     start: 2021-11-15
-    end: 2022-02-28
+    end: 2022-06-30
     status: independent
 startups:
   - inca

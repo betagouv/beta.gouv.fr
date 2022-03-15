@@ -1,15 +1,8 @@
 ---
 title: Mobiville
 mission: Diminuer le nombre d'emplois non pourvus en facilitant la mobilité géographique des actifs
-owner: Pôle emploi et Action Logement
 sponsors:
-    - name: Pôle emploi
-      acronym: PE
-      domaine_ministeriel: travail
-      type: operateur
-    - name: Action Logement
-      domaine_ministeriel: travail
-      type: operateur
+    - /organisations/pole-emploi
 incubator: pole-emploi
 contact: mobiville@pole-emploi.fr
 phases:

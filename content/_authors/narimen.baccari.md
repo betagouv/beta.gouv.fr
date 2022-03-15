@@ -2,6 +2,7 @@
 fullname: Narimen Baccari
 role: Intrapreneur
 domaine: Intraprenariat
+github: baccarinarimen
 missions:
   - start: 2022-01-18
     end: 2022-07-17
@@ -10,4 +11,3 @@ missions:
 startups:
   - recosante
 ---
-

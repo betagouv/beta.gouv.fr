@@ -1,7 +1,8 @@
 ---
 title: METIIS
 mission: Révéler le potentiel de la réserve
-owner: Ministère des Armées
+sponsors:
+    - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation

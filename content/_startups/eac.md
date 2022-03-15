@@ -1,12 +1,8 @@
 ---
 title : Plateforme EAC
 mission: Augmenter le nombre d'actions artistiques et culturelles pour les jeunes dans les établissements scolaires
-owner: Secrétariat général
-sponsors: 
-    - name: secrétariat général
-      acronym:
-      domaine_ministeriel: spm # culture
-      type: administration-centrale
+sponsors:
+  - /organisations/mc
 incubator: dinum
 events:
   - name: end
