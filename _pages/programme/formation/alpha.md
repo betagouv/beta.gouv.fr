@@ -36,6 +36,7 @@ metrics:
     text: des participants la recommandent !
 redirect_from:
   - /alpha
+  - /2017/12/08/alpha1.html
 images:
   - /img/alpha/alpha-first-session-solo.jpeg
   - /img/alpha/visio.png
