@@ -8,7 +8,7 @@ incubator: sgmas
 repository: https://github.com/SocialGouv/pass_emploi_app
 contact: pass.emploi@beta.gouv.fr
 stats_url: https://sites.google.com/view/statistiques-pass-emploi
-link: https://web.pass-emploi.beta.gouv.fr
+link: https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune
 stats: true
 phases:
   - name: investigation
