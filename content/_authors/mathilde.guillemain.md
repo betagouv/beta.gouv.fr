@@ -5,9 +5,9 @@ domaine: Design
 link: https://poulpux.com
 missions:
   - start: 2021-08-02
-    end: 2021-10-30
+    end: 2022-06-01
     status: independent
-    employer: Octo
+    employer: Scopyleft
 startups:
   - histologe
 ---
