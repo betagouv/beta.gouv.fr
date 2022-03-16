@@ -14,10 +14,10 @@ missions:
     employer: DINUM
     start: 2021-11-15
     end: 2024-11-15
-startups:
-  - candilib
 previously:
   - histovec
+  - candilib
+incubator: dinum
 competences:
   - Administration Système
 ---

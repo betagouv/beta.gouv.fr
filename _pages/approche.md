@@ -156,7 +156,7 @@ title: Découvrir le programme
          Passer une journée à beta.gouv
       </h3>
       <p>
-         Une journée de formation pour challenger votre idée ou votre problème, poser toutes vos questions et repartir avec les idées claires pour la suite !
+         Une journée de formation pour apprendre les méthodes utilisées au sein de Beta.gouv, travailler sur des problèmes de politiques publiques concrets et repartir avec une nouvelle manière d'aborder les problèmes de vos services !
       </p>
       <br>
       <a class="fr-btn fr-btn--md" href="/approche/formation">S’inscrire à la prochaine session</a>

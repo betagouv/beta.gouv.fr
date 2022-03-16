@@ -1,8 +1,8 @@
 ---
 title: Fiche Commune Entreprise
 mission: Faciliter l’accès aux  informations disponibles sur les entreprises et les échanges entre les agents publics
-owner: Ministère des affaires sociales / Direccte / Dreets Occitanie
-sponsors: []
+sponsors:
+  - /organisations/solidarite-sante
 incubator: sgmas
 link: https://fce.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/fce

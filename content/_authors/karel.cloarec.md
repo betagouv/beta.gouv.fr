@@ -22,16 +22,24 @@ missions:
     status: independent
     employer: UT7
   - start: 2021-11-01
-    end : 2022-06-01
+    end : 2022-01-02
     status: independent
     employer: NUMA
+  - start: 2021-02-03
+    end : 2023-01-01
+    status: independent
+    employer: LBC
 startups:
-  - dev eco
+  - deveco
+  - guichet-entreprises-nc
 previously:
   - andi
   - urbanvitaliz
   - candela
   - eva
+  - anct-pni-14
+  - anct-pni-40
+  - ethique.en.sante.numerique
 badges:
   - segur
 competences:

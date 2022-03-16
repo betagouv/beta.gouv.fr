@@ -1,12 +1,8 @@
 ---
 title: DIDOC
 mission: Dématérialiser les invitations au dépistage organisé des cancers
-owner: ARS Bourgogne-Franche-Comté et CRCDC Bourgogne-Franche-Comté
 sponsors:
-  - name: Agence régionale de sante
-    acronym: ARS
-    domaine_ministeriel: affaires-sociales
-    type: service-deconcentre
+  - /organisations/ars-franche-comte
 incubator: sgmas
 contact: Valerie.AGLIETTI@ars.sante.fr
 stats: false

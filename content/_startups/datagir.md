@@ -1,12 +1,8 @@
 ---
 title: Datagir (ex Ecolab)
 mission:  Apporter l'information environnementale au plus près des citoyens
-owner: ADEME
 sponsors:
-    - name: Agence pour la transition ecologique
-      acronym: ADEME
-      domaine_ministeriel: environnement
-      type: operateur
+ - /organisations/ademe
 incubator: dinum
 phases:
   - name: investigation

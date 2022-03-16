@@ -6,11 +6,11 @@ link: https://www.coming-soon.studio/
 github: ejapy
 missions:
   - start: 2021-10-11
-    end: 2022-01-31
+    end: 2022-03-31
     status: independent
     employer: Benext
 startups:
-  - pass-emploi
+  - l-application-du-cej
 badges:
   - segur
 ---

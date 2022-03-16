@@ -9,7 +9,10 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - engagement-civique
+  - sante-psy-etudiant
+previously:
+  - jeveuxaider
+  - api-engagement
 badges:
   - segur
 github: valentinbrel

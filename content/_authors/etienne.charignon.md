@@ -6,7 +6,7 @@ link: https://ut7.fr
 github: etiennecharignon
 missions:
   - start: 2018-10-24
-    end: 2022-01-31
+    end: 2022-07-31
     status: service
     employer: ut7
 startups:

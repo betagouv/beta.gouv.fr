@@ -1,12 +1,8 @@
 ---
 title: FARITAS
 mission: FAciliter le Recouvrement de l’Impôt et de la TAxe de Séjour.
-owner: Direction générale des Finances publiques (DGFiP)
 sponsors:
-  - name: "Direction générale des Finances publiques "
-    acronym: DGFiP
-    type: administration-centrale
-    domaine_ministeriel: autres
+  - /organisations/dgfip
 incubator: fabrique-dgfip
 contact: dtnum.culture-numerique.Innover@dgfip.finances.gouv.fr
 events: []

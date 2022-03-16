@@ -1,12 +1,8 @@
 ---
 title: Classe à 12
 mission: Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves.
-owner: Ministère de l'Éducation nationale
 sponsors: 
-    - name: Direction générale de l'enseignement scolaire
-      acronym: DGSCO
-      domaine_ministeriel: education-nat
-      type: administration-centrale
+    - /organisations/dgesco
 incubator: dinum
 phases:
   - name: investigation
@@ -14,6 +10,7 @@ phases:
   - name: construction
     start: 2018-06-01
   - name: acceleration
+    start: 2018-06-01
 link: https://classe-a-12.beta.gouv.fr/
 repository: https://github.com/betagouv/ClasseA12
 stats: false

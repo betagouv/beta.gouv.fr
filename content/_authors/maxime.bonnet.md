@@ -9,6 +9,6 @@ missions:
     status: service
     employer: Octo
 startups:
-  - pass-emploi
+  - l-application-du-cej
 ---
 

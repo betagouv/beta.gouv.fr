@@ -4,7 +4,7 @@ role: Ops
 domaine: Développement
 missions:
   - start: 2021-10-26
-    end: 2021-12-10
+    end: 2022-04-29
     status: independent
     employer: Malt
 startups:

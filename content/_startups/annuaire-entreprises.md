@@ -1,12 +1,8 @@
 ---
 title: L’Annuaire des Entreprises
 mission: Retrouver toutes les informations concernant les entreprises françaises
-owner: DINUM
 sponsors:
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      domaine_ministeriel: spm # Service du premier ministre
-      type: administration-centrale
+    - /organisations/dinum
 phases:
     - name: investigation
       start: 2020-09-01

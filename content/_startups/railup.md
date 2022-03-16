@@ -1,12 +1,8 @@
 ---
 title: Rail'up
 mission: Simplifier les demandes de licences d'entreprise ferroviaire
-owner: Direction Générale des Infrastructures, des Transports et de la Mer (DGITM)
-sponsors:
-  - name: "Direction Générale des Infrastructures, des Transports et de la Mer "
-    acronym: DGITM
-    type: administration-centrale
-    domaine_ministeriel: environnement
+sponsors: 
+    - /organisations/dgitm
 incubator: mtes
 contact: pauline.delmas@developpement-durable.gouv.fr
 phases:
@@ -15,6 +11,9 @@ phases:
     end: 2021-07-06
   - name: alumni
     end: 2021-07-06
+events:
+  - name: end
+    date: 2021-12-31
 ---
 ## Contexte
 

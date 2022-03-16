@@ -4,14 +4,14 @@ title: La formation Alpha
 permalink: /approche/formation
   
 # Dates de la prochaine formation
-alpha-start: 2022-01-13
-alpha-end: 2022-01-13
+alpha-start: 2022-04-07
+alpha-end: 2022-04-07
 alpha-time: de 9h15 à 17h30
 alpha-location: en visio
 alpha-location-link:
 alpha-catering:
 alpha-more:
-alpha-link: https://startupdetat.typeform.com/to/GQ8uO34M
+alpha-link: https://startupdetat.typeform.com/to/EUTcVkXD
 verbatims:
   - text: “J’ai appris beaucoup ! À commencer par une méthode pratique, des outils concrets pour enclencher une action, agir sur un problème a priori insurmontable, mais qui le devient grâce au "petit pas" qui devient grand.”
     name: participant.e anonyme
@@ -26,16 +26,17 @@ verbatims:
     name: participant.e anonyme
     job: 
 metrics:
-  - value: 23
+  - value: 26
     text: sessions réalisées
-  - value: 493
+  - value: 553
     text: agents formés
   - value: 4,4/ 5
     text: de satisfaction des participants
-  - value: 89%
+  - value: 88%
     text: des participants la recommandent !
 redirect_from:
   - /alpha
+  - /2017/12/08/alpha1.html
 images:
   - /img/alpha/alpha-first-session-solo.jpeg
   - /img/alpha/visio.png
@@ -43,12 +44,10 @@ images:
 
 <br>
 
-**La session du 9 décembre en visio est COMPLETE**
-
-**La prochaine session aura lieu le jeudi 13 janvier 2022. En présentiel à Paris (lieu communiqué ultérieurement)**
+**La prochaine session aura lieu le jeudi 7 avril 2022. En visio (lien communiqué après inscription)**
 <br>
 <br>
-<a id="inscription-alpha" href="https://startupdetat.typeform.com/to/GQ8uO34M" class="fr-btn">Je m'inscris</a>
+<a id="inscription-alpha" href="https://startupdetat.typeform.com/to/EUTcVkXD" class="fr-btn">Je m'inscris</a>
 <br>
 <br>
 Vous êtes un agent public et vous souhaitez découvrir la méthode Beta.gouv ? Vous êtes agent public et vous avez identifié un problème à résoudre au sein de vos services ? **La formation Alpha est faite pour vous !**
@@ -89,7 +88,7 @@ Pause 10'
 ---  Fin à 17h30  ---
 
 <br>
-<a id="inscription-alpha-2" href="https://startupdetat.typeform.com/to/GQ8uO34M" class="fr-btn">Je m'inscris</a>
+<a id="inscription-alpha-2" href="https://startupdetat.typeform.com/to/EUTcVkXD" class="fr-btn">Je m'inscris</a>
 <br>
 <br>
 Pour plus d’information écrivez nous à <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.

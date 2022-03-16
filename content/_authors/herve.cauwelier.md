@@ -12,4 +12,5 @@ missions:
     employer: Codeurs en liberté
 startups:
     - le-taxi
+    - mesads
 ---

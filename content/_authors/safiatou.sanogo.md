@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: Pôle emploi
   - start: 2020-03-02
-    end: 2021-06-22
+    end: 2022-06-22
     status: admin
     employer: Pôle emploi
 startups:

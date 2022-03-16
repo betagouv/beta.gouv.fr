@@ -3,7 +3,7 @@ fullname: Thibaud Pelissier
 role: Développeur
 domaine: Développement
 missions:
-  - start: 2022-12-15
+  - start: 2021-12-15
     end: 2022-08-31
     status: service
     employer: Pôle emploi

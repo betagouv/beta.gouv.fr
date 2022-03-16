@@ -9,7 +9,8 @@ missions:
     status: independent
 startups:
   - locatio
+  - a-just
 competences:
   - UX
 ---
-Ux designer @ DossierFacile.fr
+Ux designer DossierFacile.fr et A-JUST

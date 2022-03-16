@@ -1,7 +1,8 @@
 ---
 title: Tchap
 mission: Proposer une messagerie instantanée, sécurisée et souveraine aux agents publics
-owner: DINUM
+sponsors:
+  - /organisations/dinum
 incubator: dinum
 contact: tchap@beta.gouv.fr
 link: https://tchap.beta.gouv.fr/

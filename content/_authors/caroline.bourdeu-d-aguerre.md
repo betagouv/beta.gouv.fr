@@ -8,7 +8,6 @@ missions:
     status: independent
 startups:
   - psyenfantado
-  - monpsysanté
   - codedutravail
 domaine: Développement
 ---

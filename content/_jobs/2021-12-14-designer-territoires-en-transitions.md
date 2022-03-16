@@ -1,6 +1,6 @@
 ---
 roles: Designer Ux/Ui
-open: true
+open: false
 date: 2021-12-14
 startup: territoires-en-transitions
 title: Recherche d'une personne Designeuse pour Territoires en Transitions

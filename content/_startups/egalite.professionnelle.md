@@ -1,7 +1,8 @@
 ---
 title: Egalité professionnelle
 mission: Calculer et transmettre l'index d'égalité professionnelle aux entreprises
-owner: Ministère du Travail
+sponsors:
+  - /organisations/mtei
 incubator: sgmas
 link: https://index-egapro.travail.gouv.fr
 repository: https://github.com/SocialGouv/egapro

@@ -1,7 +1,8 @@
 ---
 title: Mes remboursements simplifiés (MRS)
 mission: Simplifier et accélérer le remboursement des frais d'utilisation de véhicule personnel ou transports en commun.
-owner: CNAMTS / CPAM de la Haute-Garonne (31)
+sponsors:
+  - /organisations/cnam
 incubator: dinum
 phases:
   - name: investigation

@@ -1,12 +1,8 @@
 ---
 title: e-MJPM
 mission: Trouver rapidement le bon professionnel pour les majeurs à protéger
-owner: Ministère des Affaires sociales
 sponsors:
-  - name: Direction générale de la cohésion sociale
-    acronym: DGCS
-    domaine_ministeriel: affaires-sociales
-    type: administration-centrale
+  - /organisations/dgcs
 incubator: sgmas
 link: https://emjpm.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/emjpm

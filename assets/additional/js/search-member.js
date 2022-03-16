@@ -70,6 +70,7 @@ var createAuthorCard = function(author) {
             avatarSrc = "/img/logo-generique-startup-carre-2019.jpg"
         }
     }
+    const incubator = author.incubator ? incubators.find(incubator => incubator.id === author.incubator) : undefined
     var avatarHTML = `<img class="lozad avatar-rounded" data-src="${avatarSrc}" title="${author.fullname}" alt="" data-proofer-ignore>`
     card.innerHTML = `<div class="fr-card fr-card--no-arrow fr-card__img__rounded">
             <div class="fr-card__body">
@@ -81,7 +82,12 @@ var createAuthorCard = function(author) {
                 </p>
                 ${author.content ? '<p class="fr-card__desc">' + author.content + '</p>' : ''}        
                 ${totalCount ? '<ul class="fr-tags-group">' + totalStartups.map((s,i) => createStartupTag(s, author, i, extraCount)).join('') + '</u>' : ''}
-            </div>
+                ${(authorEndDate >= timestampNow && incubator) ? `<p class="fr-card__detail">
+                    <a href="/startups/?incubateur=${author.incubator}" class="fr-tag fr-tag--sm" target="_self">
+                        ${incubator.title}
+                    </a>
+                </p>` : ''}
+                </div>
             <div class="fr-card__img">
             ${avatarHTML}
             </div>
@@ -89,18 +95,18 @@ var createAuthorCard = function(author) {
     return card
 }
 
-var generateDataWithHtmlCards = function(data) {
-    var keys = Object.keys(data);
+var generateDataWithHtmlCards = function(members) {
+    var keys = Object.keys(members);
     for (var i=0; i<keys.length; i++) {
         var key = keys[i];
-        for (var j=0; j<data[key].length; j++) {
-            data[key][j]['html'] = createStartupCard(data[key][j]);
+        for (var j=0; j<members[key].length; j++) {
+            members[key][j]['html'] = createStartupCard(members[key][j]);
         }
     }
-    return data
+    return members
 }
 
-var createIncubatorSelect = function(data, incubators, initValue) {
+var createIncubatorSelect = function(members, incubators, initValue) {
     var selectIncubator = document.getElementById('select-incubateur');
     var optionFragment = document.createDocumentFragment();
     for (var i=0; i < incubators.length; i++) {
@@ -118,12 +124,12 @@ var createIncubatorSelect = function(data, incubators, initValue) {
     };
     var onIncubatorChange = function(value) {
         var selectedStartups = (value ? startups.filter(d => d.incubator_id === value) : startups).map(s => s.id);
-        var currentsToDisplay = data.filter(d => intersection(d.startups, selectedStartups))
+        var currentsToDisplay = members.filter(member => intersection(member.startups, selectedStartups) || member.incubator === value)
         currentsToDisplay = currentsToDisplay.map(d => ({
             ...d,
             html: createAuthorCard(d),
         }))
-        var alumnisToDisplay = alumnis.filter(d => intersection(d.startups, selectedStartups))
+        var alumnisToDisplay = alumnis.filter(alumni => intersection(alumni.startups, selectedStartups) || alumni.incubator === value)
         alumnisToDisplay = alumnisToDisplay.map(d => ({
             ...d,
             html: createAuthorCard(d),

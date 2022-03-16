@@ -1,10 +1,10 @@
 ---
 title: PSIJ
 mission: Systématiser la recherche d'indices et traces
-owner: Ministère de l'Intérieur
-sponsors: []
+sponsors: 
+    - /organisations/interieur
 incubator: lab-mi
-link: https://psij.interieur.gouv.fr/
+link: ""
 repository: null
 contact: psij@labmi.fr
 stats: false
@@ -46,3 +46,7 @@ Véritable outil d’aide à l’enquête intégrant une cartographie des faits 
 Les tests de PSIJ ont débuté mi-mars 2020 auprès des agents de Police Secours du Commissariat de Villeurbanne dans le Rhône. Le tests ont permis de s'assurer que le produit réponde aux attentes de simplicité et rapidité de saisie. 
 Les tests continueront avec les agents d’Identité Judiciaire au cours du dernier trimestre 2021. 
 Des taux de 100% de couverture et de 80% de satisfaction de la solution sont attendus.
+
+Des tests ont débuté à Grenoble fin décembre 2021.
+
+Un "bac à sable" est accessible aux agents du Ministère de l'Intérieur sur le réseau interne du MI à l'adresse <https://alpha-psij.interieur.gouv.fr/>.

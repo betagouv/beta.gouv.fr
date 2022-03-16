@@ -3,15 +3,14 @@ fullname: Olivier Marotte
 role: Géomaticien
 domaine: Autre
 github: oliviermarotte
-startups:
-    - acceslibre
+startups:    
     - aides-territoires
     - apilos
     - bureaux.vacants
     - camino
     - docurba
     - envergo
-    - friches
+    - urbanvitaliz
     - innovation-urbaine
     - locatio
     - resorption-bidonvilles

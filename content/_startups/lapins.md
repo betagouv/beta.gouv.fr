@@ -1,12 +1,8 @@
 ---
 title: RDV Solidarités
 mission: Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité
-owner: Consortium de départements
 sponsors:
-    - name: Fabrique des territoire
-      acronym:
-      domaine_ministeriel: territoires
-      type: collectivite-territoriale
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -14,6 +10,7 @@ phases:
   - name: construction
     start: 2018-01-18
   - name: acceleration
+    start: 2019-04-01
 link: https://www.rdv-solidarites.fr
 repository: https://github.com/betagouv/rdv-solidarites.fr
 stats: true

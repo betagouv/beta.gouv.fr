@@ -1,7 +1,8 @@
 ---
 title: E-Inspé
 mission: Améliorer le développement professionnel des enseignants
-owner: Reseau Canopé
+sponsors:
+  - /organisations/dgesco
 incubator: dinum
 contact: penelope.liot@beta.gouv.fr
 phases:

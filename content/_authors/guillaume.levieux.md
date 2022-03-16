@@ -5,7 +5,7 @@ domaine: Produit
 github: guillaumelevieux
 missions:
   - start: 2017-12-15
-    end: 2021-12-31
+    end: 2023-01-31
     status: admin
     employer: MTE/DGALN
 startups:
@@ -16,7 +16,7 @@ startups:
     - camino
     - docurba
     - envergo
-    - friches
+    - urbanvitaliz
     - innovation-urbaine
     - locatio
     - resorption-bidonvilles

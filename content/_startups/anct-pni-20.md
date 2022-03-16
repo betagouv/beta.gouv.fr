@@ -1,11 +1,14 @@
 ---
 title: Programme national d'investigation (20)
 mission: Suivre limpact des engagements usagers du territoire seine Saint Denis
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
-    start: 2020-06-01
+    start: 2021-06-01
+  - name: alumni
+    start: 2021-11-01
 link: 
 repository: 
 stats: false

@@ -1,11 +1,14 @@
 ---
 title: Programme national d'investigation (37)
 mission: Renforcer et assurer l’égalité des citoyens dans l’accès aux informations en ligne et aux démarches administratives
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
-    start: 2020-06-01
+    start: 2021-06-01
+  - name: alumni
+    start: 2021-11-01
 link: 
 repository: 
 stats: false

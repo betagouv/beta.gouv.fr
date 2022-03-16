@@ -1,18 +1,16 @@
 ---
 title: CoMobi (ex Lotocar)
 mission: Améliorer le déplacement des personnes isolées sur les territoires peu denses grâce au covoiturage solidaire
-owner: l'Incubateur des Territoires
 sponsors:
-    - name: Agence pour la transition ecologique
-      acronym: ADEME
-      domaine_ministeriel: environnement
-      type: operateur
+    - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2018-11-26
   - name: construction
     start: 2019-02-01
+  - name : transfer
+    start : 2021-11-01
 link: http://comobi.fr
 repository: https://github.com/betagouv/neutre.comobi.fr
 stats: false

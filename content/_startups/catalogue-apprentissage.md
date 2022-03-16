@@ -1,26 +1,18 @@
 ---
 title: Catalogue des formations en apprentissage
 mission: "Renforcer la collecte et la  visibilité des formations en apprentissage"
-owner: Mission interministérielle pour l'apprentissage
 sponsors:
-  - type: administration-centrale
-    domaine_ministeriel: education-nat
-    name: Ministère de l'Education Nationale de la Jeunesse et du Sport
-    acronym: MENJ
-  - name: "Ministère du travail, de l'emploi et de l'insertion "
-    type: administration-centrale
-    domaine_ministeriel: travail
-  - name: Ministère Enseignement Supérieur et de la Recherche et de l'Innovation
-    acronym: MESRI
-    domaine_ministeriel: enseignement-sup
-  - name: Ministère de la Transformation et de la fonction publiques
-  - name: Délégation générale à l'emploi et à la formation professionnelle
-    acronym: DGEFP
-    type: administration-centrale
+  - /organisations/menjs
+  - /organisations/mtei
+  - /organisations/mesr
+  - /organisations/mtfp
+  - /organisations/dinum
+  - /organisations/dgefp
 incubator: mission-apprentissage
 link: https://catalogue.apprentissage.beta.gouv.fr/
 repository: https://github.com/mission-apprentissage/catalogue-apprentissage
 contact: mailto:catalogue@apprentissage.beta.gouv.fr
+stats_url: https://catalogue.apprentissage.beta.gouv.fr/stats
 stats: true
 phases:
   - name: acceleration

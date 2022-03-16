@@ -8,6 +8,8 @@ missions:
     status: independent
     employer: Octo
 startups:
+  - place-de-marche-inclusion
+previously:
   - itou
 badges:
   - segur

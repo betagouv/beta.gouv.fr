@@ -1,13 +1,8 @@
 ---
 title: geo.data.gouv.fr
 mission: Trouver facilement les données géographiques dont vous avez besoin
-owner: Etalab
-sponsors: 
-    - name: Etalab
-      acronym: Etalab
-      domaine_ministeriel: spm # Service du premier ministre
-      type: administration-centrale
-
+sponsors:
+  - /organisations/dinum
 incubator: dinum
 phases:
   - name: investigation
@@ -15,6 +10,9 @@ phases:
   - name: construction
     start: 2015-01-01
   - name: alumni
+events: 
+  - name: end
+  - date: 2021-09-01
 link: https://geo.data.gouv.fr
 repository: https://github.com/etalab/geo.data.gouv.fr
 stats: false

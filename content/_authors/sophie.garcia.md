@@ -1,7 +1,7 @@
 ---
 fullname: Sophie Garcia
-role: Chargée de déploiement
 domaine: Déploiement
+role: Chargée de déploiement
 avatar: /img/authors/sophie.garcia.png
 missions:
   - start: 2020-09-01
@@ -9,6 +9,11 @@ missions:
     status: independent
 startups:
   - itou
-  - place-de-marche-inclusion
   - la.communaute.de.linclusion
+  - dora
+previously:
+  - place-de-marche-inclusion
+competences:
+  - Communication
+  - Croissance
 ---

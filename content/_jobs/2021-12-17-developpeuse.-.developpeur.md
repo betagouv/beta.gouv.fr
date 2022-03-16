@@ -1,6 +1,6 @@
 ---
 roles: "développeuse - développeur "
-open: true
+open: false
 junior: false
 date: 2021-12-17T08:32:01.400Z
 ---

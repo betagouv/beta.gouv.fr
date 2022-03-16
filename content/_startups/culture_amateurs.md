@@ -1,7 +1,8 @@
 ---
 title: Culture Amateurs
 mission: Développer les pratiques culturelles des amateur·ice·s
-owner: Ministère de la Culture
+sponsors:
+ - /organisations/mc
 incubator: culture
 phases:
   - name: investigation
@@ -9,6 +10,9 @@ phases:
     end: 2021-02-01
   - name: alumni
     start: 2021-02-01
+events:
+  - name: end
+    date: 2021-12-31
 link:
 repository:
 stats: false

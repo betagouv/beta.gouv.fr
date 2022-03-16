@@ -1,12 +1,8 @@
 ---
 title: Mon-entreprise
 mission: Guider les créateurs et créatrices d’entreprise.
-owner: Urssaf
 sponsors:
-    - name: Urssaf Caisse nationale
-      acronym: Urssaf
-      domaine_ministeriel: affaires-sociales
-      type: securite-sociale
+  - /organisations/urssaf
 incubator: dinum
 phases:
   - name: investigation

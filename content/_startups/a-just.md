@@ -1,9 +1,11 @@
 ---
 title: A-JUST
-mission: Aider les chefs de juridiction à choisir l'affectation de leurs
-  ressources humaines pour réduire les délais de justice.
-owner: Inspection Générale de la Justice - Ministère de la Justice
+mission: Aider les juridictions dans l'affectation de leurs ressources humaines
+  pour réduire les délais de justice.
 incubator: dinum
+sponsors:
+ - /organisations/mj
+ - /organisations/igj
 contact: contact@a-just.fr
 events: []
 phases:
@@ -13,8 +15,7 @@ phases:
     comment: Fin de l'investigation. GO pour le lancement d'une phase de construction.
   - name: construction
     start: 2021-09-01
-    comment: Première phase de construction sur un périmètre de juridictions et de
-      contentieux restreints.
+    comment: Construction sur un périmètre de juridictions restreint.
 ---
 <!--StartFragment-->
 
@@ -54,24 +55,24 @@ Ainsi que le rappellent régulièrement les parlementaires, il est attendu par n
 
 En effet, même si la durée globale d’une affaire dépend significativement des parties, elle est également liée à la capacité de traitement des juridictions (moyens matériels et humains disponibles).
 
-Au-delà de la question du budget global alloué au ministère de la Justice, la diminution de la durée des procédures nécessite donc l’adaptation des moyens affectés à leur traitement aux besoins de justice locaux.
+La diminution de la durée des procédures nécessite donc l’adaptation des moyens affectés à leur traitement aux besoins de justice locaux.
 
 
-***Le problème des juridictions* : comment optimiser l’affectation des moyens ?**  
+***Le problème des juridictions* : comment répondre au mieux aux besoins de justice locaux ?**  
 
-Les tribunaux sont des organisations complexes, devant traiter un volume et une diversité considérables de contentieux¹, en mobilisant des effectifs nombreux et hétérogènes².
+Les tribunaux sont des organisations complexes, devant traiter un volume et une diversité considérables de contentieux¹, en mobilisant des effectifs nombreux et diversifiés².
 
 Pour ce faire, ils doivent, d’une part, disposer de ressources humaines, matérielles, budgétaires ainsi que de locaux adaptés aux caractéristiques et à la structuration de leur activité et, d’autre part, être en capacité de les affecter selon les priorités qu’ils auront définies en fonction des besoins de justice locaux.
 
 L’affectation des moyens influe sur la qualité et la célérité du traitement des contentieux. Les magistrats, fonctionnaires et contractuels disponibles doivent être mobilisés en fonction des composantes de l’activité judiciaire locale, actuelle et à venir, afin d‘être en capacité de répondre au mieux aux besoins des justiciables.
 
-Or, si la durée de traitement des procédures est particulièrement suivie par des indicateurs fins (nationaux et locaux), les chefs de juridiction ne disposent pas de moyen simple pour corréler, en temps réel ou par anticipation, leurs volumes de contentieux à traiter avec les effectifs de  magistrats, fonctionnaires et contractuels disponibles.
+Or, si la durée de traitement des procédures est particulièrement suivie par des indicateurs fins (nationaux et locaux), les juridictions ne disposent pas de moyen simple pour corréler, en temps réel ou par anticipation, leurs volumes de contentieux à traiter avec les effectifs de  magistrats, fonctionnaires et contractuels disponibles.
 
 ## **La solution en construction**
 
-***Lancement de la phase de construction***
+***Lancement de la construction***
 
-Suite à l’investigation menée début 2021, la première phase de construction a démarré le 1er septembre 2021 pour 6 mois. Le sponsor est le chef de l’Inspection Générale de la Justice.
+Suite à l’investigation menée début 2021, la construction a démarré le 1er septembre 2021. Le sponsor est le chef de l’Inspection Générale de la Justice.
 
 L’équipe dédiée travaille en autonomie à la co-construction avec des juridictions test d’une première version du service.
 
@@ -86,10 +87,10 @@ Visualisation, corrélation, simulation… A-JUST se définit comme un outil  d
 
 ***Les premières étapes***
 
-L’équipe A-JUST se concentre sur l’expérimentation, sur un périmètre réduit de contentieux civils (affaires familiales, contentieux non spécialisé, social…), dans quelques tribunaux judiciaires, de la possibilité de :
-* recenser les effectifs de la juridiction (compétences, répartition du temps par contentieux…)
+L’équipe A-JUST se concentre sur l’expérimentation, sur un périmètre réduit, dans quelques tribunaux judiciaires, de la possibilité de :
+* visualiser en temps réel les effectifs de la juridiction et leur affectation par contentieux
 * calculer et afficher deux indicateurs (capacité de traitement, délai) parlants pour l’ensemble des acteurs (juridiction, citoyens…)
-* simuler la capacité et les délais de traitement des contentieux en fonction des effectifs affectés.
+* simuler l'impact d'une variation d'effectifs sur la capacité et les délais de traitement des contentieux.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

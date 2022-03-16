@@ -1,10 +1,10 @@
 ---
 fullname: Nicolas Laurenti
-domaine: Intraprenariat
-role: Intrapreneur
+domaine: Développement
+role: Administrateur système
 missions:
   - start: 2021-06-15
-    end: 2021-12-31
+    end: 2022-06-15
     status: independent
     employer: La Zone
 startups:

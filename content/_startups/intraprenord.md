@@ -1,7 +1,8 @@
 ---
 title: Intraprenord
 mission: Trouver le bon interlocuteur au sein du département
-owner: Département du Nord
+sponsors:
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

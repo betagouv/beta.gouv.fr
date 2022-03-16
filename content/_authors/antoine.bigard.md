@@ -10,5 +10,6 @@ missions:
     employer: ut7
 startups:
   - catalogue-apprentissage
+  - dematapprentissage
   - pop
 ---

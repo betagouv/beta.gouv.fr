@@ -1,10 +1,10 @@
 ---
 title: Fabrique numérique des ministères sociaux
-owner: SGMAS
+owner: /organisations/solidarite-sante
 logo: logo_fab_solidarite.png
 website: https://fabrique.social.gouv.fr/
 github: https://github.com/SocialGouv/
-contact: mailto:yann-fanch.madaule@sg.social.gouv.fr?subject=Incubateurs
+contact: mailto:contact@fabrique.social.gouv.fr?subject=Incubateurs
 address: 39 quai andré Citroën, Paris 15e
 ---
 

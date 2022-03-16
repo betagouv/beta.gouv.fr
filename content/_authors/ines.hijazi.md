@@ -18,7 +18,7 @@ startups:
   - psyenfantado
   - data-subvention
 previously:
-  - engagement-civique
+  - jeveuxaider
   - eac
   - auvol
   - culture_amateurs

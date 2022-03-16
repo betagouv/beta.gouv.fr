@@ -98,6 +98,16 @@
     {%- endfor -%}
     </ul>
   {%- endif -%}
+  {%- if authorEndDate >= timestampNow -%}
+    {%- if author.incubator -%}
+      {%- capture incubator_id -%}/incubators/{{ author.incubator }}{%- endcapture -%}
+      {%- assign this_incubator = site.incubators | where: "id", incubator_id | first -%}
+      {%- assign label_class = "fr-tag fr-tag--sm" -%}
+  <p class="fr-card__detail">
+        <a href="/startups/?incubateur={{ this_incubator.id | remove: '/incubators/' }}" class="{{ label_class }}" target="_self">{{ this_incubator.title }}</a>
+  <p>
+    {%- endif -%}
+  {%- endif -%}
   </div>
   <div class="fr-card__img">
     {%- include avatar.html author=author force=true rounded=true -%}

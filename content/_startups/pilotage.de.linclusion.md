@@ -2,12 +2,8 @@
 title: Pilotage de l'inclusion (ITOU)
 mission: "Réduire la charge administrative des acteurs de l'inclusion et
   faciliter le pilotage des politiques publiques "
-owner: Ministère du Travail, de l'Emploi et de l'Insertion, ITOU
 sponsors:
-  - name: Délégation générale à l'emploi et à la formation professionnelle
-    acronym: DGEFP
-    type: administration-centrale
-    domaine_ministeriel: travail
+  - /organisations/dgefp
 incubator: dinum
 stats: true
 link: https://pilotage.inclusion.beta.gouv.fr/

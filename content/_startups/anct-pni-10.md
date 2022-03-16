@@ -1,11 +1,14 @@
 ---
 title: Programme national d'investigation (10)
 mission: Réduire les pics d’affluence en agence lors de la rentrée scolaire, notamment grâce à linscription et le paiement dématérialisé des transports scolaires
-owner: Agence nationale de la cohésion des territoires
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
-    start: 2020-06-01
+    start: 2021-06-01
+  - name: alumni
+    start: 2021-11-01
 link: 
 repository: 
 stats: false

@@ -1,7 +1,9 @@
 ---
 title: Légistix
 mission: Aider les rédacteurs à produire et à corriger les textes normatifs
-owner: Ministère de l'économie, des finances et de la relance - Direction générale du Trésor (DG Trésor)
+sponsors:
+  - /organisations/mefr
+  - /organisations/dg-tresor
 incubator: bercy
 phases:
   - name: investigation

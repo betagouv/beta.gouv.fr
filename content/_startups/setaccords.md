@@ -1,12 +1,8 @@
 ---
 title: Setaccords
 mission: Faciliter la gestion des accords et traités
-owner: Ministère de l'Europe et des affaires étrangères
 sponsors:
-  - name: Ministère de l'Europe et des affaires étrangères
-    acronym: MEAE
-    type: administration-centrale
-    domaine_ministeriel: affaires-etrangeres
+    - /organisations/meae
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 contact: atelier.numerique@diplomatie.gouv.fr
 phases:

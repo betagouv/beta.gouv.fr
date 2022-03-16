@@ -2,12 +2,8 @@
 title: CanDeLa
 mission: Améliorer l’exercice de la mission de conseiller aux décideurs locaux,
   le relationnel et le partage documentaire avec les collectivités.
-owner: Direction générale des Finances publiques (DGFiP)
 sponsors:
-  - name: Direction générale des Finances publiques
-    acronym: DGFiP
-    type: administration-centrale
-    domaine_ministeriel: autres
+  - /organisations/dgfip
 incubator: fabrique-dgfip
 contact: dtnum.culture-numerique.Innover@dgfip.finances.gouv.fr
 stats: true

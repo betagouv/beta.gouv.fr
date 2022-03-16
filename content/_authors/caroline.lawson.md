@@ -10,8 +10,7 @@ missions:
     status: independent
     employer: null
 startups:
-  - apprentissage
-  - france connect aidants
+  - aidantsconnect
   - tchap
 competences:
   - UX
