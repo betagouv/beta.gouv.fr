@@ -2,7 +2,7 @@
 roles: Un développeur ou une développeuse senior full stack
 open: true
 date: 2022-03-01T13:41:32.417Z
-startup: Partaj
+startup: partaj
 ---
 La startup d’Etat PARTAJ cherche un•e développeur•se fullstack confirmé.e pour rejoindre notre équipe de 5 personnes.
 
