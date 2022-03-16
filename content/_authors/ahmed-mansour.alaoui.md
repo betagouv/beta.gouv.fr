@@ -5,7 +5,7 @@ domaine: Développement
 github: ahmedahma
 missions:
   - start: 2019-10-07
-    end: 2022-03-30
+    end: 2022-04-30
     status: service
     employer: Octo 
 startups:
