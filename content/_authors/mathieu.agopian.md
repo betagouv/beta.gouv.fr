@@ -14,7 +14,7 @@ missions:
     start: 2019-10-01
     end: 2022-01-07
   - start: 2021-11-03
-    end: 2022-03-31
+    end: 2022-06-30
     status: independent
     employer: LittleBigConnection
 startups:
