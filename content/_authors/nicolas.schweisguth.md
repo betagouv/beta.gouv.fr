@@ -5,7 +5,7 @@ domaine: Produit
 github: schweisguthn
 missions:
   - start: 2021-11-08
-    end: 2022-03-31
+    end: 2022-06-30
     status: independent
 startups:
   - datapass
