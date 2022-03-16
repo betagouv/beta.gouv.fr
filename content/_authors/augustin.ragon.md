@@ -5,11 +5,16 @@ role: Développeur
 github: augustin82
 missions:
   - start: 2021-09-01
-    end: 2022-04-30
+    end: 2022-03-16
     status: independent
     employer: Octo
+  - start: 2022-03-04
+    end: 2022-05-31
+    status: independent
+    employer: Little Big Connection
 startups:
   - carnet.de.bord
+  - deveco
 competences:
   - Développement Frontend
   - Développement Backend
