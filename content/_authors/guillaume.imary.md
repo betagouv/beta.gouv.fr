@@ -2,7 +2,7 @@
 fullname: Guillaume Imary
 role: Développeur
 domaine: Développement
-github: guitguitou
+github: Guitguitou
 missions:
   - start: 2022-03-07
     end: 2023-03-07
