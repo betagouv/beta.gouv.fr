@@ -4,7 +4,7 @@ role: Data Scientist auprès de DossierFacile.Fr
 domaine: Autre
 missions:
   - start: 2020-11-09
-    end: 2022-03-31
+    end: 2022-09-15
     status: independent
     employer: Octo
 startups:
