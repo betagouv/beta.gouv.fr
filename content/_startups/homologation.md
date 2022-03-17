@@ -44,7 +44,7 @@ mesures de sécurité à mettre en œuvre pour le protéger. La décision
 d’homologation de sécurité (document signé par une autorité) formalise des
 engagements en la matière.
 
-## PROBLÈME 
+## CONTEXTE
 
 La méthode d’homologation promue par l’ANSSI dans son guide en 9 étapes a fait
 ses preuves pour les projets numériques d’envergure. Celle-ci peut en revanche
