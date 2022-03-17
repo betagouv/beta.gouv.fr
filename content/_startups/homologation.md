@@ -61,7 +61,7 @@ des systèmes d'information.
 des dossiers partagés.
 - personnalisée : chaque démarche d'homologation est personnalisée et basée sur
 le respect d'un socle de sécurité conçu par l'ANSSI.
-  
+
 Sur MonServiceSécurisé, la constitution de chaque dossier d'homologation
 se décompose en 4 grandes étapes :
 - Description du service ;
