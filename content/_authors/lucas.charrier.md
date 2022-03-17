@@ -1,7 +1,7 @@
 ---
 fullname: Lucas Charrier
-role: Développeur
 domaine: Développement
+role: Développeur
 github: LucasCharrier
 link: https://lucascharrier.com/
 missions:
@@ -17,5 +17,8 @@ previously:
   - aides.jeunes
 badges:
   - segur
+competences:
+  - Développement Backend
+  - Développement Frontend
 ---
 Développeur Web Fullstack
