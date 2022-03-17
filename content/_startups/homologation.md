@@ -24,7 +24,7 @@ site](https://alpha.monservicesecurise.beta.gouv.fr/) !**
 
 ## L'ENJEU
 
-Les collectivités territoriales, administrations d'Etat, établissements et
+Les collectivités territoriales, administrations d'État, établissements et
 autres organismes publics mettent à disposition des usagers de plus en plus
 de services publics numériques : médiathèque permettant la réservation en
 ligne de contenus multimédias, caisse des écoles permettant le paiement de la
@@ -34,13 +34,13 @@ Ces services numériques peuvent être la cible de cyberattaques aux conséquenc
 dommageables. Renforcer la sécurité de ces services est, par conséquent,
 essentiel afin de les protéger contre ces menaces.
 
-Afin d'y parvenir, la mise en oeuvre d'une démarche d'homologation de sécurité
-permet d'identifier les mesures de sécurité adaptées à mettre en oeuvre pour
+Afin d'y parvenir, la mise en œuvre d'une démarche d'homologation de sécurité
+permet d'identifier les mesures de sécurité adaptées à mettre en œuvre pour
 faire face aux risques auxquels ces services numériques sont soumis. Cette
 démarche est obligatoire pour l'ensemble des entités publiques au titre du
 Règlement Général de Sécurité (RGS).
 
-Désireuses de renforcer la sécurité de leurs services numériques (ou "téléservices"),
+Désireuses de renforcer la sécurité de leurs services numériques (ou « téléservices »),
 de nombreuses entités publiques et en particulier des collectivités, sont
 aujourd'hui en attente de davantage d'accompagnement.
 
@@ -65,8 +65,8 @@ le respect d'un socle de sécurité conçu par l'ANSSI.
 Sur MonServiceSécurisé, la constitution de chaque dossier d'homologation
 se décompose en 4 grandes étapes :
 - Description du service ;
-- Evaluation des risques de sécurité ;
+- Évaluation des risques de sécurité ;
 - Proposition de mesures de sécurité ;
-- Téléchargement du dossier d'homologation au format pdf.
+- Téléchargement du dossier d'homologation au format PDF.
 
 [Démarrer un projet d'homologation sur MonServiceSécurisé](https://www.monservicesecurise.beta.gouv.fr/connexion)
