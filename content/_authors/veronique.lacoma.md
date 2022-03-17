@@ -12,7 +12,7 @@ missions:
     status: independent
 startups:
   - reva
-- deveco
+  - deveco
 previously:
   - avril
   - eva
