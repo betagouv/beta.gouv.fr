@@ -1,8 +1,7 @@
 ---
 title: data.inclusion
 mission: être le référentiel national de l'offre d'insertion
-sponsors:
-  - name: /organisations/mtei
+sponsors: []
 incubator: sgmas
 link: data.inclusion.fabrique.social.gouv.fr
 repository: ""
