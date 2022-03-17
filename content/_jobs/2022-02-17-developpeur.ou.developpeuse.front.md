@@ -12,7 +12,7 @@ Pour en savoir plus sur la démarche, [consulte la fiche produit](https://beta.g
 # Qui sommes-nous ?
 Le service national des données de voyage (SNDV), service à compétence nationale interministériel (Armées, Intérieur, Finances, Mer, Transports), est en charge de l’amélioration des dispositifs de collecte et traitement des données de voyages à des fins régaliennes.
 
-L’équipe SNDV est composée d’un intrapreneur (Paul-Henri CHARRIER) épaulé par deux référents métiers (un commissaire divisionnaire et un officier du corps technique et administratif des Affaires maritimes) et d'un urbaniste des systèmes d’information, et mobilise un coach/chargé de déploiement (Victor GRANGE) et ainsi qu'un développeur full stack (Sylvain TOE) qui ont contribué à l'élaboration d'une première version du produit.
+L’équipe SNDV est composée d’un intrapreneur (Paul-Henri CHARRIER) épaulé par deux référents métiers (un commissaire divisionnaire et un officier du corps technique et administratif des Affaires maritimes) et d'un urbaniste des systèmes d’information, et mobilise un coach/chargé de déploiement (Victor GRANGE), un développeur full stack (Sylvain TOE) ainsi que l'équipe des designers transverses (Aurélie JALLUT) qui ont contribué à l'élaboration d'une première version du produit.
 **Après une première phase de construction (sept. 2021-mars 2022), la Startup d’État poursuit la construction du produit en recrutant une personne chargée d'améliorer de l'interface du produit, en s'appuyant notamment sur le [design system de l'Etat français (DSFR)](https://www.systeme-de-design.gouv.fr/)
 **
 
