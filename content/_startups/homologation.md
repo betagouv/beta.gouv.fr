@@ -32,6 +32,7 @@ d’anomalies sur la voirie, visioconférence, messagerie, etc.).
 
 Ces services numériques peuvent être achetés sur étagères, ou développés et
 hébergés au profit des entités publiques.
+coucou
 
 La sécurité de ces services est importante pour le fonctionnement des
 administrations et des collectivités qui portent des démarches ou formalités
