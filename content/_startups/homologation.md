@@ -61,7 +61,7 @@ révélatrice d’une prise en compte partielle des enjeux de sécurité associ�
 Notre défi : comment améliorer durablement la sécurité de la masse des services
 publics numériques les plus courants ?
 
-## SOLUTION
+## LA SOLUTION
 
 Mon Service Sécurisé, est un service numérique pour aider, pas à pas, les
 entités publiques à sécuriser leurs services numériques et à les faire
