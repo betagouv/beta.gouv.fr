@@ -1,8 +1,4 @@
 ---
-tags: Recrutement, Bizdev
-title: Fiche de poste recrutement bizdev mars 2022
-
----
 roles: une personne chargée de déploiement
 open: true
 date: 2022-03-17
