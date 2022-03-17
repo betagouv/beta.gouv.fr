@@ -1,5 +1,5 @@
 ---
-roles: une personne chargée de déploiement
+roles: Un.e chargé.e de déploiement dans la transition écologique des collectivités
 open: true
 date: 2022-03-17
 startup: territoires-en-transitions
@@ -10,18 +10,16 @@ title: Recherche d'une personne chargée de déploiement pour Territoires en Tra
 
 L'équipe Territoires en Transitions cherche une personne chargée du déploiement pour son produit.
 
-Le but de Territoires en Transisions est d'aider les collectivités à piloter leur transition écologique en les aidant à définir et prioriser la mise en œuvre des actions les plus impactantes en termes de climat, air, énergie et économie circulaire. 
+Territoires en Transisions permet aux collectivités de piloter efficacement leur transition écologique en les aidant à définir et prioriser la mise en œuvre des actions les plus impactantes en termes de climat, air, énergie et économie circulaire. 
 
 Nous proposons aux collectivités des référentiels d'actions et d'indicateurs adaptés à leurs compétences pour qu'elles puissent faire un diagnostic de leur situation, puis élaborer et suivre un plan d'actions pour progresser. 
 
-## 💃🕺 A propos de vous
 
-###  Missions
+## 💃🕺 A propos de vous
 
 Votre mission consistera à aider les collectivités qui utilisent notre produit et aller chercher celles qui ne l'utilisent pas encore. 
 
 Concrètement : 
-
 - Accompagner les personnes utilisatrices dans l’usage du produit depuis le diagnostic jusqu'au plan d'action
 - Récolter les retours utilisateurs lors de l’usage pour aider à améliorer continuellement le produit
 - Communiquer sur les évolutions du produit et animer des sessions d'échanges collectives avec les personnes utilisatrices
@@ -35,12 +33,12 @@ Concrètement :
 - une bonne connaissance des collectivités est souhaitée
 - une forte appétence sur les questions de transition écologique.
 
+
 ## À propos de nous
 
 ### L’équipe 
 
 L'équipe est actuellement composée de 7 personnes :
-
 - Intrapreneur : Nicolas VALLÉE
 - Responsable produit : Émeline JOLY
 - Designeuse : Camille CANAPLE
