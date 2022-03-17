@@ -20,7 +20,7 @@ phases:
 **Vous êtes intéressé(e) par notre projet et souhaitez tester le service ?
 N’hésitez pas à [nous
 contacter](mailto:contact@monservicesecurise.beta.gouv.fr) ou à [visiter notre
-site](https://alpha.monservicesecurise.beta.gouv.fr/) !**
+site](https://www.monservicesecurise.beta.gouv.fr) !**
 
 ## L'ENJEU
 
