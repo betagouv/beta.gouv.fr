@@ -24,8 +24,6 @@ missions:
     end: 2023-12-31
     status: admin
     employer: dinum
-startups:
-  - brigade
 previously:
   - setaccords
   - territoires-en-transitions
