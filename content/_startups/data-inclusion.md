@@ -1,9 +1,9 @@
 ---
-title: data.inclusion
+title: data inclusion
 mission: être le référentiel national de l'offre d'insertion
 sponsors: []
 incubator: sgmas
-link: data.inclusion.fabrique.social.gouv.fr
+link: ""
 repository: ""
 contact: data.inclusion@beta.gouv.fr
 phases:
@@ -35,7 +35,7 @@ D’autre part les accompagnateurs qui ont des trésors de ressources et bases d
 
 ### **Comment contribuer au patrimoine commun ?**
 
-1. En se rendant directement sur ce formulaire de saisie pour commencer à partager une offre de service (la sienne ou celle d’un partenaire connu) 
+1. En se rendant directement sur le [formulaire de saisie Dora](https://dora.fabrique.social.gouv.fr/contribuer) pour commencer à partager une offre de service (la sienne ou celle d’un partenaire connu) 
 2. En envoyant directement des données brutes (fichiers excel, etc.) à l’équipe data.inclusion qui les retraitera pour les rendre exploitables (contactez [data.inclusion@beta.gouv.fr](mailto:data.inclusion@beta.gouv.fr))
 
 **Les données partagées seront-elles affichées uniquement sur le service dora.fabrique.social.gouv.fr ?** 
