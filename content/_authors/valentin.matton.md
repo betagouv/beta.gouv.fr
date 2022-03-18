@@ -1,7 +1,7 @@
 ---
 fullname: Valentin Matton
-role: Développeur back
 domaine: Développement
+role: Développeur back
 github: vmttn
 missions:
   - start: 2022-03-02
@@ -10,7 +10,10 @@ missions:
     employer: Octo
 startups:
   - dora
+  - data-inclusion
 badges:
   - segur
+competences:
+  - Développement Backend
+  - Développement Frontend
 ---
-
