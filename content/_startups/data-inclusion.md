@@ -1,7 +1,8 @@
 ---
 title: data inclusion
 mission: être le référentiel national de l'offre d'insertion
-sponsors: []
+sponsors: 
+  - /organisations/dgefp
 incubator: sgmas
 link: ""
 repository: ""
@@ -14,11 +15,9 @@ Data.inclusion est un référentiel commun de toutes les données de l’offre d
 
 ### **Le problème auquel data.inclusion répond :**
 
-Dans le contexte du service public de l’insertion et de l’emploi, et du lancement récent du contrat d’engagement des jeunes, un sujet revient de manière prégnante : 
+Dans le contexte du service public de l’insertion et de l’emploi, et du lancement récent du contrat d’engagement des jeunes, un sujet revient de manière prégnante : l’accès à des données fiables sur les dispositifs et l’offre d’insertion au niveau national et sur chaque territoire. 
 
-> l’accès à des données fiables sur les dispositifs et l’offre d’insertion au niveau national et sur chaque territoire. 
-
-Si un grand nombre d’outils existent, dont plusieurs financés par la dépense publique - portails locaux ou nationaux, annuaires d’associations, éditeurs de logiciels, etc. - **les données elles-mêmes circulent mal d’un outil à l’autre et un grand nombre d’acteurs sont contraints de “réinventer la roue” à leur échelle ou de voir leurs bases de données devenir peu à peu obsolètes.** 
+Si un grand nombre d’outils existent, dont plusieurs financés par la dépense publique - portails locaux ou nationaux, annuaires d’associations, éditeurs de logiciels, etc. -, **les données elles-mêmes circulent mal d’un outil à l’autre et un grand nombre d’acteurs sont contraints de “réinventer la roue” à leur échelle ou de voir leurs bases de données devenir peu à peu obsolètes.** 
 
 *Le Ministère du Travail, de l'Emploi et de l'Insertion a lancé la création d’un patrimoine commun de l’offre d’insertion en open data où chaque acteur pourra partager son offre de services en matière d’insertion, et récupérer les données des autres.* 
 
