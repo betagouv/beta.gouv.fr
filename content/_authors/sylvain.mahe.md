@@ -5,7 +5,7 @@ role: Développeur
 github: nilpotence
 missions:
   - start: 2021-09-13
-    end: 2022-03-31
+    end: 2022-09-30
     status: independent
     employer: Octo
 startups:
