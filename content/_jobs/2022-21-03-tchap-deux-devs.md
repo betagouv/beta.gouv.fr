@@ -1,5 +1,5 @@
 ---
-roles: 2 Dev Senior Tchap Web et Tchap ID : NodeJS ou Django (H/F)
+roles: 2 Dev Senior Tchap Web et Tchap ID / NodeJS ou Django (H/F)
 startup: tchap
 open: true
 junior: false
