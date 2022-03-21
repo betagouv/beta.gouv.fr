@@ -6,7 +6,7 @@ github: pom421
 link: http://pom421.github.io/
 missions:
   - employer: octo
-    end: 2022-03-31
+    end: 2022-09-30
     start: 2019-03-11
     status: independent
 startups:
