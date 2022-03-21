@@ -35,7 +35,7 @@ Nos utilisateurs sont :
 
 ## Stack
 
-- Back : Django 3.2, Python 3.9, PostgreSQL 11, PostGIS, Redis
+- Back : Django 4.0, Python 3.9, PostgreSQL 14, PostGIS, Redis
 - Front : Bootstrap 4, JavaScript, jQuery (Vue.js sera privilégié en cas de gros besoins côté client)
 - Ops : Docker Compose, PaaS Clever Cloud
 - Statistiques : Metabase
