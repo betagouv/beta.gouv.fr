@@ -35,7 +35,7 @@ Nos utilisateurs sont :
 
 ## Stack
 
-- Back : Django 3.2, Python 3.9, PostgreSQL 11, PostGIS, Redis
+- Back : Django 4.0, Python 3.9, PostgreSQL 14, PostGIS, Redis
 - Front : Bootstrap 4, JavaScript, jQuery (Vue.js sera privilégié en cas de gros besoins côté client)
 - Ops : Docker Compose, PaaS Clever Cloud
 - Statistiques : Metabase
@@ -72,7 +72,7 @@ Nos utilisateurs sont :
 
 ## Environnement de travail
 
-Vous travaillerez au sein d'une équipe composée de plus de 20 personnes : intrapreneurs, développeurs, *business developers*, équipe support, équipe communication, *designers* UX/UI et *coachs*.
+Vous travaillerez au sein d'une équipe composée d'une cinquantaine de personnes : 9 développeurs, des intrapreneurs, des *business developers*, une équipe support, une équipe communication et des *designers* UX/UI.
 
 L'équipe est dispersée à travers la France et travaille à distance (standup quotidien en visioconférence).
 
