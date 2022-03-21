@@ -8,11 +8,10 @@ title: Recherche d'une personne chargée de déploiement pour Territoires en Tra
     
 ## Mission
 
-L'équipe Territoires en Transitions cherche une personne chargée du déploiement pour son produit.
+Territoires en Transitions permet aux collectivités de piloter efficacement leur transition écologique en les aidant à définir et prioriser la mise en œuvre des actions les plus impactantes en termes de climat, air, énergie et économie circulaire. 
 
-Territoires en Transisions permet aux collectivités de piloter efficacement leur transition écologique en les aidant à définir et prioriser la mise en œuvre des actions les plus impactantes en termes de climat, air, énergie et économie circulaire. 
+Le produit propose aux collectivités des référentiels d'actions et d'indicateurs adaptés à leurs compétences pour qu'elles puissent faire un diagnostic de leur situation, puis élaborer et suivre un plan d'actions pour progresser. L'équipe cherche une personne chargée du déploiement pour son produit.
 
-Nous proposons aux collectivités des référentiels d'actions et d'indicateurs adaptés à leurs compétences pour qu'elles puissent faire un diagnostic de leur situation, puis élaborer et suivre un plan d'actions pour progresser. 
 
 
 ## 💃🕺 A propos de vous
@@ -28,13 +27,13 @@ Concrètement :
 - Participer aux orientations stratégiques et au développement du produit en étroite collaboration avec l’équipe (ateliers utilisateurs, recueil de besoins, contribution à la feuille de route)
 
 
-### Profil recherché : 
+#### Profil recherché : 
 - 3 à 5 ans d’expérience professionnelle pertinente par rapport à la mission
 - une bonne connaissance des collectivités est souhaitée
 - une forte appétence sur les questions de transition écologique.
 
 
-## À propos de nous
+## 👀 À propos de nous
 
 ### L’équipe 
 
