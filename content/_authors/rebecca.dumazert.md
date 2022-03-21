@@ -4,12 +4,12 @@ role: Développeuse Web
 domaine: Développement
 github: rebeccadumazert
 missions:
-  - start: 2021-10-04
-    end: 2022-04-04
+  - start: 2022-04-11
+    end: 2022-12-31
     status: service
-    employer: Scopyleft
+    employer: Dinum
 startups:
-  - lapins
+  - Brigade
 badges:
   - segur
 ---
