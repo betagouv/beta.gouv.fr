@@ -2,8 +2,10 @@ locale: fr
 
 backend:
   name: github
-  site_domain: beta.gouv.fr
+  branch: master
+  api_root: https://api.github.com
   repo: betagouv/beta.gouv.fr
+  base_url: https://betagouv-cms-auth.osc-secnum-fr1.scalingo.io
   commit_messages:
     create: Création de {{slug}} dans {{collection}} !
     update: Mise à jour de {{slug}} dans {{collection}}
