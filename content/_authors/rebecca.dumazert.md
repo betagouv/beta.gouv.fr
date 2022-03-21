@@ -9,7 +9,7 @@ missions:
     status: service
     employer: Scopyleft
 startups:
-  - lapin
+  - lapins
 badges:
   - segur
 ---
