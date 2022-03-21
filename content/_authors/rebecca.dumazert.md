@@ -7,9 +7,9 @@ missions:
   - start: 2022-04-11
     end: 2022-12-31
     status: service
-    employer: Dinum
+    employer: Scopyleft
 startups:
-  - Brigade
+  - lapin
 badges:
   - segur
 ---
