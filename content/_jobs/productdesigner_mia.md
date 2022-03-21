@@ -1,6 +1,6 @@
 ---
 roles: LA MISSION INTERMINISTÉRIELLE POUR L’APPRENTISSAGE ET LES TRAJECTOIRES PROFESSIONNELLES RECRUTE UN.E PRODUCT DESIGNER
-open: true
+open: false
 date: 2022-03-14
 ---
 *L’apprentissage est en plein essor. La loi pour la liberté de choisir son avenir professionnel a levé la plupart des freins financiers ou réglementaires et cette voie de formation commence à être mieux considérée par les jeunes, les familles et les entreprises. L’accélération de cette croissance passe par l’invention et le développement d’outils facilitant les entrées en apprentissage.*
