@@ -1,6 +1,6 @@
 ---
 title: data inclusion
-mission: être le référentiel national de l'offre d'insertion
+mission: le référentiel ouvert et partagé des solutions d'insertion
 sponsors: 
   - /organisations/dgefp
 incubator: sgmas
@@ -11,7 +11,7 @@ phases:
   - name: investigation
     start: 2022-03-17
 ---
-Data.inclusion est un référentiel commun de toutes les données de l’offre d’insertion des territoires afin de permettre à tous les services recensant et mettant en visibilité ces offres d’être interopérables et de mutualiser les efforts de recensement et de mise à jour. 
+data inclusion est un référentiel commun de toutes les données de l’offre d’insertion des territoires afin de permettre à tous les services recensant et mettant en visibilité ces offres d’être interopérables et de mutualiser les efforts de recensement et de mise à jour. 
 
 ### **Le problème auquel data.inclusion répond :**
 
