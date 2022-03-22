@@ -4,7 +4,7 @@ mission: le référentiel ouvert et partagé des solutions d'insertion
 sponsors: 
   - /organisations/dgefp
 incubator: sgmas
-link: ""
+link: https://www.data.gouv.fr/fr/datasets/referentiel-de-loffre-dinsertion-liste-des-structures-et-services-dinsertion/
 repository: ""
 contact: data.inclusion@beta.gouv.fr
 phases:
