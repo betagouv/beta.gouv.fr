@@ -31,6 +31,8 @@ Intégré à l'équipe RDV-Solidarités vous aurez la responsabilité de **mettr
 
 Ces travaux seront réalisé en lien avec le reste de l'équipe que vous accompagnerez dans la prise en main de cette nouvelle infrastructure.
 
+Au delà de ce passage sur Kubernetes, d'autres travaux techniques pourront être entrepris, notamment l'amélioration du suivi des tâches effectuées par les workers (emails, sms, webhook).
+
 
 ## Stack
 
