@@ -1,7 +1,7 @@
 ---
-fullname: CELESTIN LEROUX
-role: PO SE Cnfs cartographie nationale 
-domaine: Produit
+fullname: Célestin Leroux
+role: PO
+domaine: Chargé de produit (PO)
 missions:
   - start: 2022-03-21
     end: 2022-09-30
@@ -11,4 +11,4 @@ startups:
   - conseiller-numerique
 ---
 
-PO
+
