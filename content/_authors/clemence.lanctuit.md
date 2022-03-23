@@ -5,7 +5,7 @@ domaine: Design
 link: https://clemence-lanctuit.webflow.io
 missions:
   - start: 2022-01-13
-    end: 2022-03-31
+    end: 2022-06-30
     status: independent
 startups:
     - dematapprentissage
