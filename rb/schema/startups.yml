@@ -146,13 +146,15 @@ mapping:
   "rgpd":
     type:      any
   "usertypes":
-    - type:      str
-      enum:
-        - particulier
-        - etat
-        - collectivite-territoriale
-        - parlement
-        - entreprise
-        - association
-        - etablissement-scolaire 
+    type:      seq
+    sequence:
+        - type:      str
+          enum:
+            - particulier
+            - etat
+            - collectivite-territoriale
+            - parlement
+            - entreprise
+            - association
+            - etablissement-scolaire 
 
