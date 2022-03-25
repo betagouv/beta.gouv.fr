@@ -4,7 +4,7 @@ open: true
 date: 2022-03-25T11:16:12.899Z
 startup: civils-de-la-defense
 ---
-## Civil de la Défense : un portail de recrutement pour les contractuels
+## Civils de la Défense : un portail de recrutement pour les contractuels
 
 Le ministère des Armées recrute  chaque année environ 1 000 agents civils sous contrat notamment sur des métiers en tension (SIC, infrastructures…). Satisfaire ce besoin a rapidement mis en évidence les problématiques suivantes :
 
@@ -16,7 +16,7 @@ En conséquence de ce manque d’informations et d’accompagnement, les candida
 
 ### Objectif du produit
 
-Civil de la Défense simplifie, accélère et dématérialise le processus de recrutement aussi bien pour les candidats que pour les employeurs et les services RH de l’administration.
+Civils de la Défense simplifie, accélère et dématérialise le processus de recrutement aussi bien pour les candidats que pour les employeurs et les services RH de l’administration.
 
 ### Infos produit
 
@@ -37,7 +37,7 @@ Civil de la Défense simplifie, accélère et dématérialise le processus de re
 
 ## La mission
 
-* Reprendre le produit Civil de la Défense (passation avec le développeur actuel)
+* Reprendre le produit Civils de la Défense (passation avec le développeur actuel)
 * Maintenir et déployer en production le produit et ses évolutions
 * Travailler avec le PM, le métier et le·la designer sur les évolutions futures
 
