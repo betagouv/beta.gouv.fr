@@ -10,4 +10,6 @@ missions:
     status: independent
 startups:
   - tchap
+previously:
+  - cmachance
 ---
