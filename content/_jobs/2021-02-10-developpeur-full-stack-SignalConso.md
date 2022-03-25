@@ -53,9 +53,10 @@ Plus qu'un exécutant vous êtes motivé par la vision produit et souhaitez vous
 
 ## Compétences
 
+- Développeur fullstack React, Typescript et Scala (voir Java ou tout langage orienté JVM si motivé pour progresser en Scala), avec de solides compétences sur ces technos Front.
 - Développeur fullstack React, Typescript, Scala, avec de solides compétences sur ces technos Front.
 - Expérience en conception orientée utilisateur et en expérience utilisateur.
-- Appétence pour le Devops (Clevercloud). Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
+- Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
 - Expérience de l’écosystème technique web bienvenue : test AB, analytics…
 
 
