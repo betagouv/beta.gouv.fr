@@ -1,5 +1,5 @@
 ---
-fullname: gaoussou koné
+fullname: Gaoussou Koné
 role: developpeur
 domaine: Développement
 github: TheOnizu
