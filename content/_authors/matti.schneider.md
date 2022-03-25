@@ -27,7 +27,7 @@ missions:
     status: independent
     employer: dinum
   - start: 2021-06-01
-    end: 2022-03-31
+    end: 2022-07-31
     status: independent
     employer: ANCT
   - start: 2021-10-25
