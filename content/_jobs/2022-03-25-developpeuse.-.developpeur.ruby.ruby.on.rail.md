@@ -19,7 +19,8 @@ En conséquence de ce manque d’informations et d’accompagnement, les candida
 Civil de la Défense simplifie, accélère et dématérialise le processus de recrutement aussi bien pour les candidats que pour les employeurs et les services RH de l’administration.
 
 ### Infos produit
-[https://contractuels.civils.defense.gouv.fr/](https://contractuels.civils.defense.gouv.fr/)
+
+<https://contractuels.civils.defense.gouv.fr/>
 [Fiche Produit Beta.gouv](https://beta.gouv.fr/startups/civils-de-la-defense.html)
 
 ## L'équipe
@@ -29,7 +30,7 @@ Civil de la Défense simplifie, accélère et dématérialise le processus de re
 
 ## La Stack
 
-* Ruby On Rails (monolithic)
+* Ruby On Rails (monolithique)
 * Ruby
 * PostgreSQL
 * Redis
@@ -37,18 +38,18 @@ Civil de la Défense simplifie, accélère et dématérialise le processus de re
 ## La mission
 
 * Reprendre le produit Civil de la Défense (passation avec le développeur actuel)
-* Maintenir et déployer en production le produits et ses évolutions
+* Maintenir et déployer en production le produit et ses évolutions
 * Travailler avec le PM, le métier et le·la designer sur les évolutions futures
 
 ## Profil recherché
 
-* Expérience du Ruby on rail monolythique (pas uniquement des API)
-* Autonome et proactif pour travailler seul sur un produit
+* Expérience du Ruby on rail monolithique (pas uniquement des API)
+* Autonome et proactif pour travailler en tant que seul *developper* sur un produit
 * Intérêt pour le produit
 
 ## Les modalités
 
-* Charge : mi-temps, avec possibilité de passé en full-time ou 4/5e 
+* Charge : mi-temps, avec possibilité de passer en *full-time* ou 4/5e 
 * Durée : 6 mois minimum
 * Début souhaité : Avril 2022
 * Contrat : freelance
