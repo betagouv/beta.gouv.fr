@@ -34,7 +34,7 @@ _React, Typescript, Next_<br/>
 <br/>
 - **Site admin**<br/>
 _React, Typescript<br/>_
-Interface réservée aux professionnels (entreprises signalées), aux agents DGCCRF et aux consommateurs
+Interface réservée aux professionnels (entreprises signalées), aux agents DGCCRF et aux consommateurs<br/>
 [https://github.com/betagouv/signalconso-dashboard-react](https://github.com/betagouv/signalconso-dashboard-react)
 <br/>
 <br/>
