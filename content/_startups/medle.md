@@ -15,6 +15,8 @@ phases:
     start: 2021-07-01
   - name: alumni
     start: 2021-12-01
+usertypes:
+  - etat
 link: https://medle.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/medle
 stats: false
