@@ -19,6 +19,9 @@ phases:
     end: 2021-08-31
   - name: acceleration
     start: 2021-09-01
+usertypes:
+  - particulier
+  - entreprise
 ---
 ## Contexte
 

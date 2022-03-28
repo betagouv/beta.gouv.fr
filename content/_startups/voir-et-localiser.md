@@ -18,6 +18,9 @@ phases:
   - name: alumni
     start: 2019-10-01
 contact: contact@voir-et-localiser.beta.gouv.fr
+usertypes:
+  - particulier
+  - etat
 ---
 
 

@@ -17,6 +17,8 @@ phases:
     start: 2020-06-30
   - name: acceleration
     start: 2021-06-01
+usertypes:
+  - entreprise
 ---
 
 **Problème**

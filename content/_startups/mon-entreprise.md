@@ -23,6 +23,8 @@ repository: https://github.com/betagouv/mon-entreprise
 budget_url: https://mon-entreprise.urssaf.fr/budget
 stats: true
 contact: contact@mon-entreprise.beta.gouv.fr
+usertypes:
+  - entreprise
 ---
 # Mon-entreprise
 

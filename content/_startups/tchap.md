@@ -11,6 +11,9 @@ events: []
 phases:
   - name: acceleration
     start: 2021-03-05
+usertypes:
+  - collectivite-territoriale
+  - etat
 ---
 
 ## Contexte

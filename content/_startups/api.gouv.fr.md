@@ -17,6 +17,10 @@ stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idS
 contact: contact@api.gouv.fr
 redirect_from:
     - /startups/apigouv
+usertypes:
+  - particulier
+  - entreprise
+  - etat
 ---
 
 ## Le problème :

@@ -18,6 +18,8 @@ phases:
     end: 2021-06-30
 redirect_from:
   - /startups/ecosante
+usertypes:
+  - particulier
 ---
 
 ## Contexte

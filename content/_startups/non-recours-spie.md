@@ -18,6 +18,8 @@ repository:
 stats: false 
 stats_url: 
 contact: stephane.coillard@beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## Problème investigué :

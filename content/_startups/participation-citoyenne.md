@@ -14,6 +14,8 @@ repository:
 stats: false
 stats_url: 
 contact: contact@beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## L'impact recherché

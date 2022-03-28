@@ -14,6 +14,8 @@ link: https://mps.apientreprise.fr
 repository:
 stats: true
 contact: philippe.vrignaud@modernisation.gouv.fr
+usertypes:
+  - entreprise
 ---
 
 Acteurs de la commande publique, n'exigez plus qu'un numéro de SIRET pour accepter toutes les candidatures aux marchés publics. En recueillant le consentement de l'entreprise, récupérez toutes les pièces justificatives que possède l'administration et les organismes de certification partenaires (attestation fiscale, label qualité, attestation sociale…) pour ne plus avoir à les exiger. Elles seront automatiquement annexées aux réponses, et accessibles au pouvoir adjudicateur en toute sécurité.

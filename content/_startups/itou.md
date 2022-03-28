@@ -60,6 +60,10 @@ phases:
 events: 
   - name: national_impact
     date: 2021-12-31
+usertypes:
+  - collectivite-territoriale
+  - entreprise
+  - etat
 ---
 Aujourd'hui emplois.inclusion.beta.gouv.fr permet de mettre en relation des chercheurs d'emploi (aussi nommés candidats) auprès d'[employeurs solidaires](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/employeurs-solidaires) (entreprises, associations...). Les candidats peuvent également bénéficier de l'aide de [prescripteurs](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/prescripteurs-habilites) (Pôle emploi, Missions locales, Cap Emploi...).
 

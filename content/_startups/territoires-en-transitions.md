@@ -17,6 +17,8 @@ phases:
     start: 2020-11-03
 redirect_from:
   - /startups/labels-transition
+usertypes:
+  - collectivite-territoriale
 ---
 
 ## Contexte

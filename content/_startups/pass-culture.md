@@ -23,6 +23,8 @@ link: https://pass.culture.fr
 repository: https://pass-culture.gitbook.io/documents/informations-techniques#code-source
 stats: false
 contact: support.passculture@beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 Retrouvez toutes les informations sur l'expérimentation du Pass Culture sur notre site [pass.culture.fr](https://pass.culture.fr)

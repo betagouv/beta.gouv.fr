@@ -14,6 +14,10 @@ repository: https://github.com/betagouv/datapass
 stats: true
 stats_url: https://datapass.api.gouv.fr/stats
 contact: contact@api.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - entreprise
+  - etat
 ---
 
 ## Le problème
