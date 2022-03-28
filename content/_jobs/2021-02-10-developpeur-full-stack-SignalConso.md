@@ -24,24 +24,24 @@ Désormais en consolidation, SignalConso est aujourd'hui composé des briques su
 - **API Rest**<br/>
 _Scala, Play!_<br/>
 Avec des bases de données PostgreSQL<br/>
-https://github.com/betagouv/signalement-api
+[https://github.com/betagouv/signalement-api](https://github.com/betagouv/signalement-api)
 <br/>
 <br/>
 - **Site principal**<br/>
 _React, Typescript, Next_<br/>
-https://github.com/betagouv/signalconso-website
+[https://github.com/betagouv/signalconso-website](https://github.com/betagouv/signalconso-website)
 <br/>
 <br/>
 - **Site admin**<br/>
 _React, Typescript<br/>_
-Interface réservée aux professionnels (entreprises signalées), aux agents DGCCRF et aux consommateurs
-https://github.com/betagouv/signalconso-dashboard-react
+Interface réservée aux professionnels (entreprises signalées), aux agents DGCCRF et aux consommateurs<br/>
+[https://github.com/betagouv/signalconso-dashboard-react](https://github.com/betagouv/signalconso-dashboard-react)
 <br/>
 <br/>
 - **API SDK**<br/>
 _Typescript_<br/>
 Client pour **API REST**<br/>
-https://github.com/betagouv/signalconso-api-sdk-js
+[https://github.com/betagouv/signalconso-api-sdk-js](https://github.com/betagouv/signalconso-api-sdk-js)
 
 Les applications sont herbergées sur Clever Cloud.
 
@@ -53,9 +53,10 @@ Plus qu'un exécutant vous êtes motivé par la vision produit et souhaitez vous
 
 ## Compétences
 
+- Développeur fullstack React, Typescript et Scala (voir Java ou tout langage orienté JVM si motivé pour progresser en Scala), avec de solides compétences sur ces technos Front.
 - Développeur fullstack React, Typescript, Scala, avec de solides compétences sur ces technos Front.
 - Expérience en conception orientée utilisateur et en expérience utilisateur.
-- Appétence pour le Devops (Clevercloud). Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
+- Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
 - Expérience de l’écosystème technique web bienvenue : test AB, analytics…
 
 
