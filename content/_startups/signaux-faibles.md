@@ -17,6 +17,8 @@ phases:
     start: 2019-04-01
   - name: acceleration
     start: 2020-03-01
+usertypes:
+  - etat
 link: 
 repository: https://github.com/signaux-faibles
 stats: true
