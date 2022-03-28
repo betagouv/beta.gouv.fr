@@ -16,6 +16,8 @@ stats: true
 contact: christ.bonraisin@pole-emploi.fr
 redirect_from:
   - /startups/labonneformation
+usertypes:
+  - particulier
 ---
 
 Objectif atteint pour le premier annuaire complet des formations en France ! La bonne formation a aidé depuis son lancement des millions d'actifs à faire le meilleur choix avec des infos clés par formation : Taux de Retour à l'Emploi, avis des anciens stagiaires, offres d'emploi associées, outil d'immersion pour découvrir un métier avant de se lancer.  

@@ -15,6 +15,8 @@ repository:
 stats: false
 stats_url:
 contact: incubateur@anct.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## Problème visé

@@ -19,6 +19,8 @@ link: https://zen.pole-emploi.fr
 stats: false
 repository: https://github.com/StartupsPoleEmploi/zen
 contact: zen@pole-emploi.fr
+usertypes:
+  - particulier
 ---
 
 Chaque mois plus de 3 millions de demandeurs d’emploi actualisent leur situation pour récupérer leur allocation chômage.

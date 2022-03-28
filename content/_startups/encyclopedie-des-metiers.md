@@ -11,6 +11,8 @@ phases:
     end: 2021-11-01
   - name: construction
     start: 2020-11-01
+usertypes:
+  - particulier
 ---
 **Problème**
 

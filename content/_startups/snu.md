@@ -15,6 +15,9 @@ phases:
     start: 2020-07-01
   - name: acceleration
     start: 2021-01-01
+usertypes:
+  - particulier
+  - association
 ---
 **Contexte**
 

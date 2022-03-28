@@ -15,6 +15,8 @@ link: https://avril.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/avril
 stats: true
 contact: avril@pole-emploi.fr
+usertypes:
+  - particulier
 ---
 
 ## La VAE, un accélérateur de retour à l’emploi trop peu utilisé par les demandeurs d’emploi 

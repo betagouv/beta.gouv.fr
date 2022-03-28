@@ -17,6 +17,8 @@ phases:
 link: 
 repository: 
 contact: apprentissage@beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 L'apprentissage est une voie de formation très dynamique, mais parfois mal connue ou victime de préjugés. Sirius vise à mettre en avant l'expérience des anciens apprentis pour lever des appréhensions de candidats et de leurs parents.

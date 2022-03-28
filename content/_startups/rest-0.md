@@ -15,6 +15,8 @@ repository:
 stats: false
 stats_url:
 contact: incubateur@anct.gouv.fr
+usertypes:
+  - etablissement-scolaire
 ---
 
 <img width="300" alt="Rest'0" src="https://user-images.githubusercontent.com/36134318/78231946-d8a78480-74d3-11ea-9580-f815287134c9.png">

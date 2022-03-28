@@ -17,4 +17,6 @@ repository:
 stats: false
 stats_url:
 contact: ateliernumerique@culture.gouv.fr
+usertypes:
+  - etat
 ---

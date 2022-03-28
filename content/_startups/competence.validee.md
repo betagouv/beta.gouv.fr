@@ -12,6 +12,8 @@ phases:
     start: 2021-02-27
     end: 2021-10-28
     comment: Construction du MVP
+usertypes:
+  - particulier
 ---
 ## Contexte
 
