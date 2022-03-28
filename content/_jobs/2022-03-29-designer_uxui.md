@@ -6,8 +6,6 @@ title: Designer UX/UI - CDD de 20 mois H/F
 ---
 
 
-## A propos
-
 Au sein de la DINUM, beta.gouv, l’Incubateur de services numériques met en œuvre une politique de transformation de l’État par le truchement d’un programme d’intraprenariat. Ce programme permet à des agents publics de devenir intrapreneurs et d’être accompagnés par de petites équipes autonomes et agiles. Souvent nommées Startups d’État, ces équipes sont pilotées par l’impact et développent des produits numériques en cycles courts, en lien direct avec leurs usagers et les parties prenantes.
 
 En parallèle de ce programme d’intraprenariat, la DINUM lance la Brigade d’Intervention Numérique, une équipe produit de 15 personnes (développeur, chargé(e)s de déploiement, coach produit, designer UX/UI) dont la mission est d’accompagner le gouvernement et l’administration dans la construction de services publics numériques à fort impact et à aider les différents ministères dans leur capacité à répondre aux commandes politiques.
