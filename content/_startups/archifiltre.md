@@ -37,6 +37,8 @@ phases:
     start: 2018-03-02
     end: ""
     comment: Sortie de la 1ère version accessible en ligne gratuitement d'Archifiltre
+usertypes:
+  - etat
 ---
 # Le contexte
 
