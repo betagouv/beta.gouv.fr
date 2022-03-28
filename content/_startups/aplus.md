@@ -12,6 +12,8 @@ phases:
     start: 2017-10-01
   - name: acceleration
     start: 2019-07-01
+usertypes:
+  - etat
 link: https://aplus.beta.gouv.fr/
 repository: https://github.com/betagouv/aplus
 stats: true
