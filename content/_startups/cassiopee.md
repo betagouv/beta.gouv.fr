@@ -17,6 +17,8 @@ phases:
     start: 2021-05-23
     comment: Début des développements et livraison d'une première version
       expérimentale le 6 juillet 2021. Récupérations des retours utilisateurs.
+usertypes:
+  - etat
 ---
 ## Contexte
 
