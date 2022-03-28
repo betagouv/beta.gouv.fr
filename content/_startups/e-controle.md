@@ -18,6 +18,8 @@ phases:
     start: 2020-05-01
   - name: success
     start: 2020-09-01
+usertypes:
+  - etat
 link: https://e-controle-beta.ccomptes.fr
 repository: https://github.com/betagouv/e-controle
 stats: true
