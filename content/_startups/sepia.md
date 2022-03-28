@@ -9,6 +9,8 @@ phases:
     start: 2019-01-25
   - name: construction
     start: 2019-01-25
+usertypes:
+  - etat
 stats: false
 contact: romain.perroud@def.gouv.fr 
 ---
