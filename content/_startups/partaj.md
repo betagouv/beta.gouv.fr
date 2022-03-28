@@ -11,6 +11,8 @@ phases:
     start: 2019-11-01
   - name: transfer
     start: 2021-09-01  
+usertypes:
+  - etat
 link: https://partaj.beta.gouv.fr
 repository: https://github.com/MTES-MCT/partaj
 stats: false
