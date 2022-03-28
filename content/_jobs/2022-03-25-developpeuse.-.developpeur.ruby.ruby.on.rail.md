@@ -1,5 +1,5 @@
 ---
-roles: DÉVELOPPEUSE - DÉVELOPPEUR RUBY/RUBY ON RAIL
+roles: Développeuse - Développeur Ruby on Rails
 open: true
 date: 2022-03-25T11:16:12.899Z
 startup: civils-de-la-defense
@@ -26,14 +26,16 @@ Civils de la Défense simplifie, accélère et dématérialise le processus de r
 ## L'équipe
 
 * Un product manager (PM)
-* Un·e Dev. Ruby on rail (vous)
+* Un développeur en place qui fera la passation
+* Un·e dev. Ruby on Rails (vous)
 
 ## La Stack
 
 * Ruby On Rails (monolithique)
-* Ruby
+* Hotwire
 * PostgreSQL
 * Redis
+* Scalingo
 
 ## La mission
 
@@ -41,15 +43,19 @@ Civils de la Défense simplifie, accélère et dématérialise le processus de r
 * Maintenir et déployer en production le produit et ses évolutions
 * Travailler avec le PM, le métier et le·la designer sur les évolutions futures
 
+## L'application
+
+Une application ouverte en open source (comme toutes les applications chez Beta Gouv) faites avec Rails de manière assez classique (Devise, SimpleForm, cancancan, ...). Des tests sont présents pour couvrir les parties les plus critiques de l'application (couverture de test de 50%). Côté design nous utilisons le [Système de Design de l'État](https://www.systeme-de-design.gouv.fr/) qui nous permet d'avancer rapidement sans avoir besoin de faire appel à des designers (hors ceux du Système de Design).
+
 ## Profil recherché
 
-* Expérience du Ruby on rail monolithique (pas uniquement des API)
-* Autonome et proactif pour travailler en tant que seul *developper* sur un produit
+* Expérience Ruby on Rails fullstack
+* Autonome et proactif pour travailler en tant que seul *développeur* sur un produit
 * Intérêt pour le produit
 
 ## Les modalités
 
-* Charge : mi-temps, avec possibilité de passer en *full-time* ou 4/5e 
+* Charge : mi-temps, avec possibilité de passer en *temps plein* ou 4/5e 
 * Durée : 6 mois minimum
 * Début souhaité : Avril 2022
 * Contrat : freelance
