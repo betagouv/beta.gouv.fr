@@ -14,6 +14,9 @@ repository:
 stats: false 
 stats_url: 
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - particulier
+  - etablissement-scolaire
 ---
 
 ## Problème: 1 million de repas perdus chaque année dans les restaurations scolaires

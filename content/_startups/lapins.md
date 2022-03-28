@@ -16,6 +16,8 @@ repository: https://github.com/betagouv/rdv-solidarites.fr
 stats: true
 stats_url: https://www.rdv-solidarites.fr/stats/
 contact: contact@rdv-solidarites.fr
+usertypes:
+  - collectivite-territoriale
 ---
 
 ## Des milliers de lapins dans les Maisons départementales de solidarité !

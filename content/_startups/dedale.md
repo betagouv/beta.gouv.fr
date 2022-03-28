@@ -15,6 +15,9 @@ repository:
 stats: false
 stats_url:
 contact: ateliernumerique@culture.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - particulier
 ---
 
 Le problème : L’accompagnement usager n’est pas optimal et les conditions de travail des agents sont détériorées

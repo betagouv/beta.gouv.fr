@@ -12,6 +12,8 @@ phases:
   - name: construction
     start: 2022-01-01
     end: 2022-07-01
+usertypes:
+  - collectivite-territoriale
 ---
 
 ## Le problème

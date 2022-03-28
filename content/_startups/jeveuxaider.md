@@ -16,6 +16,10 @@ phases:
     start: 2020-03-02
   - name: acceleration
     start: 2020-10-05
+usertypes:
+  - collectivite-territoriale
+  - association
+  - particulier
 ---
 [JeVeuxAider.gouv.fr](https://www.jeveuxaider.gouv.fr/) est la plateforme publique du bénévolat, proposée par la Réserve Civique.\
 \

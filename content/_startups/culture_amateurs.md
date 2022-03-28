@@ -18,6 +18,9 @@ repository:
 stats: false
 stats_url:
 contact: virginie.bedotti@culture.gouv.fr
+usertypes:
+  - particulier
+  - association
 ---
 ## Le contexte
 

@@ -29,6 +29,9 @@ techno:
   - Play Framework
   - Angular
   - Clever Cloud
+usertypes:
+  - entreprise
+  - etat
 ---
 
 Trop d'anomalies aujourd'hui ne sont pas remontées

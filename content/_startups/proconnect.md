@@ -15,6 +15,9 @@ repository:
 stats: false
 stats_url: 
 contact: contact@beta.gouv.fr
+usertypes:
+  - entreprise
+  - etat
 ---
 
 ## Problème investigué

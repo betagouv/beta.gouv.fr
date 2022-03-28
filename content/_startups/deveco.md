@@ -14,6 +14,8 @@ repository :
 stats: false
 stats_url: 
 contact: karel.cloarec@beta.gouv.fr
+usertypes:
+  - collectivite-territoriale
 ---
 
 ## Le contexte
