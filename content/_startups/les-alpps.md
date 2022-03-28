@@ -9,6 +9,8 @@ phases:
     start: 2019-08-01
   - name: construction
     start: 2019-08-01
+usertypes:
+  - etat
 link:
 repository:
 stats: false
