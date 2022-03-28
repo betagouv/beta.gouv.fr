@@ -10,6 +10,8 @@ phases:
     start: 2020-03-01
   - name: construction
     start: 2020-06-01
+usertypes:
+  - etat
 link: 
 repository: 
 stats: false
