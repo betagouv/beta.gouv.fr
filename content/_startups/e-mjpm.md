@@ -19,6 +19,8 @@ phases:
       l'architecture de la plateforme
   - name: acceleration
     start: 2020-09-01
+usertypes:
+  - etat
 ---
 ### Simplifier la relation entre les magistrats et professionnels de la protection juridique des majeurs
 
