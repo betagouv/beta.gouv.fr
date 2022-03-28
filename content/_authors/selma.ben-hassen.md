@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-03-01
-    end: 2022-07-01
+    end: 2022-08-31
     status: admin
 startups:
   - l-immersion-facile

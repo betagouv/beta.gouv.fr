@@ -4,8 +4,8 @@ role: Développeuse Web
 domaine: Développement
 github: rebeccadumazert
 missions:
-  - start: 2021-10-04
-    end: 2022-09-01
+  - start: 2022-04-11
+    end: 2022-12-31
     status: service
     employer: Scopyleft
 startups:
