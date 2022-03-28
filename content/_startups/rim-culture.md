@@ -10,6 +10,8 @@ phases:
     end: 2021-12-31
   - name: alumni
     start: 2021-12-31
+usertypes:
+  - etat
 link:
 repository:
 stats: false
