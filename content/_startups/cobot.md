@@ -16,6 +16,8 @@ phases:
     end: 2019-09-01
   - name: alumni
     start: 2019-09-01
+usertypes:
+  - etat
 link:
 repository:
 stats: false
