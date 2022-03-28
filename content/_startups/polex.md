@@ -20,6 +20,8 @@ phases:
     comment: Audit en cours afin d'évaluer les conditions de la généralisation de
       Polex à l'ensemble des bureaux de l'éducation routière à partir de la
       rentrée.
+usertypes:
+  - entreprise
 ---
 
 ## Lutter contre la fraude à l'examen du code

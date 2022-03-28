@@ -15,6 +15,8 @@ phases:
     end: 2021-07-16
   - name: construction
     start: 2021-07-16
+usertypes:
+  - particulier
 ---
 
 ## Contexte

@@ -15,6 +15,8 @@ link:
 repository: https://github.com/betagouv/boussole
 stats: false
 contact: contact@boussole.beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## Abandon

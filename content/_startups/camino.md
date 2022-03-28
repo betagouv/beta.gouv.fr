@@ -18,6 +18,11 @@ link: https://camino.beta.gouv.fr
 repository: https://github.com/MTES-MCT/camino-ui
 stats: true
 contact: camino@beta.gouv.fr
+usertypes:
+  - particulier
+  - collectivite-territoriale
+  - entreprise
+  - etat
 ---
 
 ## Le problème

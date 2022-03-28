@@ -13,7 +13,9 @@ link:
 repository: 
 stats: false
 contact: contact@beta.interieur.gouv.fr
-
+usertypes:
+  - particulier
+  - etat
 ---
 
 ## La majorité des manifestations n'est pas déclarée

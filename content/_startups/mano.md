@@ -20,6 +20,8 @@ phases:
     end: 2021-07-31
   - name: acceleration
     start: 2021-08-01
+usertypes:
+  - association
 ---
 # **Le problème**
 

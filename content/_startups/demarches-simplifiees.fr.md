@@ -19,6 +19,9 @@ stats: true
 contact: contact@demarches-simplifiees.fr
 redirect_from:
   - /startups/tps
+usertypes:
+  - particulier
+  - etat
 ---
 
 demarches-simplifiees.fr est une application entièrement en ligne qui permet à tous les organismes assurant des missions de service public de créer des démarches en quelques minutes et de gérer les demandes des usagers sur une plateforme dédiée.

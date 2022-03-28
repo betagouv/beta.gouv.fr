@@ -13,6 +13,9 @@ link:
 repository: https://github.com/mesadsfr/mesads
 stats: false
 contact: equipe@le.taxi
+usertypes:
+  - entreprise
+  - etat
 ---
 
 ## Problème investigué

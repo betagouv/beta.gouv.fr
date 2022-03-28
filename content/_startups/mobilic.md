@@ -14,6 +14,8 @@ repository: https://github.com/MTES-MCT/mobilic
 stats: true
 stats_url: https://mobilic.beta.gouv.fr/stats
 contact: gaspard.granger@developpement-durable.gouv.fr
+usertypes:
+  - entreprise
 
 ---
 

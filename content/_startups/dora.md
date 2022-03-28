@@ -19,6 +19,9 @@ phases:
     end: 2021-10-29
   - name: acceleration
     start: 2021-11-01
+usertypes:
+  - association
+  - collectivite-territoriale
 ---
 # Le problème
 

@@ -16,6 +16,8 @@ phases:
 repository: https://github.com/mtes-mct/aeris
 stats: false
 contact: jacob.carbonel@beta.gouv.fr
+usertypes:
+  - entreprise
 ---
 
 En France, 45 000 installations industrielles sont régulièrement contrôlées par 1 500 inspecteurs de l'environnement.

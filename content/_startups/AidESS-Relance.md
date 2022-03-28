@@ -12,6 +12,9 @@ phases:
     comment: Malgré les travaux de la phase d'investigation ayant permis de
       démontrer un problème et une hypothèse de stratégie à 6 mois, les deux
       intrapreneurs n'ont malheureusement pas pu être financés et sponsorisés.
+usertypes:
+  - association
+  - entreprise
 ---
 
 # Fiche produit

@@ -13,6 +13,8 @@ link:
 repository:
 stats: false
 contact: contact@beta.interieur.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## La frustration des victimes dans le suivi de leurs plaintes

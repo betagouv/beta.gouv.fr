@@ -21,6 +21,8 @@ stats_url: https://eva.beta.gouv.fr/statistiques/
 contact: contact@eva.beta.gouv.fr
 redirect_from:
   - /startups/competences-pro
+usertypes:
+  - particulier
 ---
 
 ## Problème

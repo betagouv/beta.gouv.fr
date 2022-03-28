@@ -27,6 +27,10 @@ phases:
   - name: construction
     start: 2021-06-30
     end: 2022-06-30
+usertypes:
+  - particulier
+  - collectivite-territoriale
+  - etat
 ---
 # **Contexte**
 

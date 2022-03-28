@@ -11,6 +11,8 @@ repository: https://github.com/betagouv/aides-jeunes
 phases:
   - name: construction
     start: 2021-03-15
+usertypes:
+  - particulier
 ---
 ## Problème
 

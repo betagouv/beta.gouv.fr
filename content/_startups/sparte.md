@@ -11,6 +11,8 @@ phases:
   - name: construction
     start: 2021-09-01
 link: https://sparte.beta.gouv.fr
+usertypes:
+  - collectivite-territoriale
 ---
 ## Contexte
 

@@ -17,6 +17,9 @@ phases:
   - name: construction
     start: 2021-09-30
     end: 2022-03-30
+usertypes:
+  - particulier
+  - etat
 ---
 L’application du Contrat d’Engagement Jeune a pour objectif de faciliter l’accompagnement du jeune par son conseiller (Pôle emploi ou Mission Locale) afin de limiter son décrochage.
 

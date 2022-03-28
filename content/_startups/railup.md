@@ -14,6 +14,8 @@ phases:
 events:
   - name: end
     date: 2021-12-31
+usertypes:
+  - entreprise
 ---
 ## Contexte
 

@@ -12,6 +12,9 @@ phases:
     end: 2021-04-12
   - name: construction
     start: 2021-04-12
+usertypes:
+  - collectivite-territoriale
+  - etat
 ---
 **Environ 1,5 million de demandes d’autorisation d’urbanisme sont réalisées chaque année**. Celles-ci sont instruites au regard des documents d’urbanisme qui sont élaborés par les collectivités territoriales et qui fournissent les règles de planification urbaine.
 

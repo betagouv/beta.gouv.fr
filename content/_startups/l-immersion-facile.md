@@ -13,6 +13,8 @@ stats: true
 phases:
   - name: construction
     start: 2021-07-16
+usertypes:
+  - particulier
 ---
 ### **Le problème :**
 
