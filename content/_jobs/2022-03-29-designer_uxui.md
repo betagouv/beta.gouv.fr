@@ -26,8 +26,6 @@ En parallèle de ce programme d’intraprenariat, la DINUM lance la Brigade d’
    - Mission Apprentissage
     
 - **Soutenir l’action du réseau d’incubateurs beta.gouv par la création de communs  réutilisable par d’autres Startups d’États**  
-    
-    - Notify 
    
     - Tchap
     
