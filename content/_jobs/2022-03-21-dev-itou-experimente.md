@@ -60,7 +60,7 @@ Nos utilisateurs sont :
 
 ## Profil recherché
 
-- Travaille avec Django depuis 8 ans minimum ou peut justifier d'une excellente connaissance des bonnes pratiques et de l'écosystème Python et Django
+- Peut justifier d'une excellente connaissance des bonnes pratiques et de l'écosystème Python et Django
 - Aime transmettre et vulgariser
 - Maîtrise le développement web
 - Maîtrise les API REST
