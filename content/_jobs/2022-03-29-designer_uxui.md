@@ -36,7 +36,7 @@ En parallèle de ce programme d’intraprenariat, la DINUM lance la Brigade d’
     📍Audioconf
     
     
-## Vos m**issions**
+## Vos **missions**
 
 En tant que UX/UI designer F/H, votre rôle sera d’accompagner différentes équipes dans la mise en place d’une ergonomie et d’un design favorable à l’impact du produit et à la satisfaction des besoins usagers, auprès d’équipes produits, notamment en étant en charge de :
 
@@ -50,7 +50,7 @@ En tant que UX/UI designer F/H, votre rôle sera d’accompagner différentes é
 Les thématiques peuvent être diverses (transports, emploi, aides sociales, handicap, insertion, santé, etc.) et les modalités d’interventions peuvent varier en fonction des contextes.
 
 
-## Votre p**rofil**
+## **Votre profil**
 
 Vous avez au moins 3 ans d'expérience en UX design, vous êtes sensible aux questions d’accessibilité numérique et vous avez à cœur l’impact réel sur les utilisateurs.
 
