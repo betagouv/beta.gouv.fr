@@ -17,7 +17,7 @@ phases:
     start : 2022-01-11
 usertypes:
   - etat
-  - collective-territoriale
+  - collectivite-territoriale
 ---
 ## Contexte
 
