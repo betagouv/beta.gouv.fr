@@ -11,7 +11,6 @@ missions:
   - start: 2022-03-28
     end: 2022-05-31
     status: independent
-    status: independent
 startups:
   - tchap
 previously:
