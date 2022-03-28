@@ -17,23 +17,24 @@ En parallèle de ce programme d’intraprenariat, la DINUM lance la Brigade d’
 
 - **Proposer et mettre en oeuvre rapidement des solution dans une situation de crise ou d’urgence**
     
-    📍Santé Psy Étudiant   
+    - Santé Psy Étudiant   
     
-    📍Je veux aider
+    - Je veux aider
     
 - **Renforcer l’impact de politiques** **prioritaires à travers le développement de services publics numériques**
    
-   📍Plateformes de l’inclusion
+   - Plateformes de l’inclusion
    
-   📍Mission Apprentissage
+   - Mission Apprentissage
     
 - **Soutenir l’action du réseau d’incubateurs beta.gouv par la création de communs  réutilisable par d’autres Startups d’États**  
     
-    📍Notify 
+    - Notify 
    
-    📍Tchap
+    - Tchap
     
-    📍Audioconf
+    - Audioconf
+    
     
     
 ## Vos **missions**
@@ -63,6 +64,7 @@ Vous avez au moins 3 ans d'expérience en UX design, vous êtes sensible aux que
 - Vous avez un bon sens du service et surtout vous aimez partager votre passion pour ce métier ;
 - Vous êtes bienveillant et avez un bon esprit d’équipe ;
 - Vous avez un sens critique aiguisé et avez le goût du challenge.
+
 
 
 ## Rejoindre la Brigade
