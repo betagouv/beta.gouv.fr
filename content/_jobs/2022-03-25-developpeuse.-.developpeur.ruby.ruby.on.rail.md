@@ -20,8 +20,8 @@ Civils de la Défense simplifie, accélère et dématérialise le processus de r
 
 ### Infos produit
 
-<https://contractuels.civils.defense.gouv.fr/>
-[Fiche Produit Beta.gouv](https://beta.gouv.fr/startups/civils-de-la-defense.html)
+- L'application en production : <https://contractuels.civils.defense.gouv.fr/>
+- Fiche Produit Beta.gouv: <https://beta.gouv.fr/startups/civils-de-la-defense.html>
 
 ## L'équipe
 
@@ -45,7 +45,11 @@ Civils de la Défense simplifie, accélère et dématérialise le processus de r
 
 ## L'application
 
-Une application ouverte en open source (comme toutes les applications chez Beta Gouv) faites avec Rails de manière assez classique (Devise, SimpleForm, cancancan, ...). Des tests sont présents pour couvrir les parties les plus critiques de l'application (couverture de test de 50%). Côté design nous utilisons le [Système de Design de l'État](https://www.systeme-de-design.gouv.fr/) qui nous permet d'avancer rapidement sans avoir besoin de faire appel à des designers (hors ceux du Système de Design).
+Une application [ouverte en open source](https://github.com/betagouv/civilsdeladefense) développé avec Rails de manière assez classique (Devise, SimpleForm, cancancan, ...).
+
+Des tests sont présents pour couvrir les parties les plus critiques de l'application (couverture de test de 50%).
+
+Côté design nous utilisons le [Système de Design de l'État](https://www.systeme-de-design.gouv.fr/) qui nous permet d'avancer rapidement sans avoir besoin de faire appel à des designers (hors ceux du Système de Design).
 
 ## Profil recherché
 
