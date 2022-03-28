@@ -16,6 +16,8 @@ phases:
   - name: construction
     start: 2021-09-01
     comment: Construction sur un périmètre de juridictions restreint.
+usertypes:
+  - etat
 ---
 <!--StartFragment-->
 
