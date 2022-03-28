@@ -22,7 +22,7 @@ techno:
     - PostgreSQL
 usertypes:
   - parlement
-  - etatb
+  - etat
 ---
 
 ## Le contexte
