@@ -45,7 +45,7 @@ Le code source : https://github.com/betagouv/rdv-solidarites.fr/
 ## Votre profil nous intéresse si :
 
 - Vous êtes animé·e par la volonté d’améliorer le service public.
-- Vous êtes familier ou familière avec Kubernetes.
+- Vous êtes familière ou familier avec Kubernetes.
 - Vous savez faire preuve d’initiative et tenir vos engagements.
 - Vous aimez travailler dans une petite équipe et de manière agile.
 - Vous êtes à l’écoute et à l’aise dans la communication orale et écrite, avec vos collègues et en public.
