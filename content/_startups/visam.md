@@ -15,6 +15,8 @@ phases:
 events:
   - name: end
     date: 2020-12-14
+usertypes:
+  - etat
 link:
 repository: https://github.com/betagouv/visam
 stats: false
