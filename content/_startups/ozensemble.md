@@ -13,6 +13,8 @@ link: https://www.ozensemble.fr/
 repository: https://github.com/SocialGouv/ozensemble
 stats: true
 contact: contact@ozensemble.fr
+usertypes:
+  - particulier
 ---
 
 ##   Le défaut d'accès aux soins condamne les personnes souffrant de conduites addictives

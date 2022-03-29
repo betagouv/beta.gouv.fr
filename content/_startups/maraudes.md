@@ -15,6 +15,8 @@ phases:
 link:
 stats: false
 contact: giulia.reboa@jscs.gouv.fr
+usertypes:
+  - association
 ---
 
 ## le contexte

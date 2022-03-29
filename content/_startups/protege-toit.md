@@ -15,6 +15,9 @@ repository:
 stats: false
 stats_url:
 contact: incubateur@anct.gouv.fr
+usertypes:
+  - particulier
+  - collectivite-territoriale
 ---
 
 <img width="300" alt="PROTEGE-TOIT" src="https://user-images.githubusercontent.com/36134318/78227087-063cff80-74cd-11ea-96cb-d17e63f9d49d.png">

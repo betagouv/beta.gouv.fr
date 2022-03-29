@@ -15,6 +15,8 @@ stats: false
 contact: amd@finances.gouv.fr
 techno:
   - en cours
+usertypes:
+  - entreprise
 ---
 
 ## Le problème 

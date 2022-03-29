@@ -14,6 +14,8 @@ link: https://www.calvados.fr/contact
 repository: https://github.com/betagouv/gps-usagers
 stats: false
 contact: clotilde.gournay@beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## Plus de 50 000 appels par an sans réponse

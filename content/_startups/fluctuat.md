@@ -20,6 +20,8 @@ link:
 repository:
 stats: false
 contact: karl.dupart@developpement-durable.gouv.fr
+usertypes:
+  - entreprise
 ---
 
 ## Le contexte

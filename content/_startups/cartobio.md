@@ -13,6 +13,9 @@ link: https://cartobio.org
 repository: https://github.com/AgenceBio/cartobio-front
 stats: true
 contact: cartobio@beta.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - etat
 ---
 
 ## Le problème

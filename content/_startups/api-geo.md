@@ -15,6 +15,9 @@ repository: https://github.com/etalab/geoapi
 stats: true
 stats_url: https://api.gouv.fr/api/api-geo.html
 contact: geo@api.gouv.fr
+usertypes:
+  - particulier
+  - entreprise
 ---
 
 La GéoAPI est une boîte-à-outils facile à prendre en main pour rendre vos applications et bases de données plus intelligentes, en terme de positionnement et de connaissance des territoires.

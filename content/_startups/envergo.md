@@ -15,6 +15,9 @@ phases:
     start: 2021-04-08
   - name: construction
     start: 2021-07-13
+usertypes:
+  - collectivite-territoriale
+  - entreprise
 ---
 ## Le problème à résoudre
 

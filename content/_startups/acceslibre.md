@@ -17,6 +17,8 @@ phases:
     start: 2021-09-01
 redirect_from:
     - /startups/access4all
+usertypes:
+  - particulier
 ---
 
 ## Le problème&nbsp;: Le manque d’information sur l’accessibilité des lieux

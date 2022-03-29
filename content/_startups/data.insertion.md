@@ -16,7 +16,10 @@ phases:
   - name: construction
     start: 2021-06-02
   - name: acceleration
-    start: 2022-01-03  
+    start: 2022-01-03
+usertypes:
+  - collectivite-territoriale
+  - etat
 ---
 # Le problème
 

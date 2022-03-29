@@ -12,6 +12,9 @@ contact: contact@inclusion.beta.gouv.fr
 phases:
   - name: construction
     start: 2020-06-01
+usertypes:
+  - entreprise
+  - etat
 ---
 ## Contexte
 

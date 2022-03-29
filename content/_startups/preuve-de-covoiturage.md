@@ -16,6 +16,8 @@ repository: https://github.com/betagouv/preuve-covoiturage
 stats: true
 stats_url : https://app.covoiturage.beta.gouv.fr/stats
 contact: contact@covoiturage.beta.gouv.fr
+usertypes:
+  - collectivite-territoriale
 ---
 
 1,08 personnes par véhicule seulement dans les déplacements professionnels

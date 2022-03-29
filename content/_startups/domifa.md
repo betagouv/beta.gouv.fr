@@ -16,6 +16,9 @@ repository: https://github.com/SocialGouv/domifa
 stats: true
 stats_url: https://domifa.fabrique.social.gouv.fr
 contact: contact.domifa@fabrique.social.gouv.fr
+usertypes:
+  - association
+  - collectivite-territoriale
 ---
 
 ## Qu’est-ce que la domiciliation ? 

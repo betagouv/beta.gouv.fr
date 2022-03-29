@@ -11,6 +11,9 @@ phases:
     start: 2020-01-15
   - name: construction
     start: 2020-03-15
+usertypes:
+  - particulier
+  - etat
 ---
 ## Contexte
 

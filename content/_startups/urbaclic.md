@@ -17,6 +17,9 @@ link: http://www.opendatalab.fr/urbaclic
 repository: https://github.com/betagouv/urbaclic
 stats: false
 contact: fmoguen@openig.org
+usertypes:
+  - particulier
+  - collectivite-territoriale
 ---
 
 ## Abandon

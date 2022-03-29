@@ -14,6 +14,10 @@ link:
 repository:
 stats: false
 contact: contact@beta.interieur.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - entreprise
+  - etat
 ---
 
 ## Trop d’achats publics sans publicité 

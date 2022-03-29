@@ -20,6 +20,9 @@ link: https://affectionate-easley-2194cc.netlify.com/
 repository: https://github.com/betagouv/dossiersco
 stats: true
 contact: equipe@dossiersco.fr
+usertypes:
+  - particulier
+  - etablissement-scolaire
 ---
 
 Permettre aux parents d’inscrire en ligne leurs enfants et de télécharger des pièces justificatives, sans avoir à renseigner chaque année les mêmes informations déjà connues de l’Education nationale.

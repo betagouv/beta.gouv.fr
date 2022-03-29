@@ -18,6 +18,8 @@ contact: comobi@beta.gouv.fr
 redirect_from:
   - /startups/mobilot
   - /startups/lotocar
+usertypes:
+  - particulier
 ---
 
 **CoMobi outille les territoires peu denses pour déployer du covoiturage solidaire, basé sur les trajets régulièrement effectués en voiture, pour les personnes isolées et dépourvues de moyens de déplacement.**

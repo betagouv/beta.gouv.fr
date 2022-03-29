@@ -15,6 +15,8 @@ repository:
 stats: false 
 stats_url: 
 contact: vikieache@gmail.com
+usertypes:
+  - particulier
 ---
 
 ## Problème visé :

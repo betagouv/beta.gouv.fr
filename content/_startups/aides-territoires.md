@@ -17,6 +17,8 @@ phases:
     end: 2018-09-10
   - name: acceleration
     start: 2018-09-10
+usertypes:
+  - collectivite-territoriale
 ---
 ## Le problème
 

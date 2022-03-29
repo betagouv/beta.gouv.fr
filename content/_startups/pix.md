@@ -18,6 +18,8 @@ repository: https://github.com/1024pix/pix/
 stats: true
 stats_url: https://pix.fr/statistiques
 contact: contact@pix.fr
+usertypes:
+  - particulier
 ---
 
 Pix s'adresse aux françaises, français et francophones (en études, en situation de décrochage, en activité professionnelle, à la recherche d'un emploi, etc.) qui souhaitent mesurer, développer et valoriser leurs compétences numériques.

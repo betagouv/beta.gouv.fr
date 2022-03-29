@@ -15,6 +15,8 @@ stats: false
 contact: amd@finances.gouv.fr
 techno:
   - en cours
+usertypes:
+  - etablissement-scolaire 
 ---
 
 ## Le problème : le bugdet de l'Etat, une matière de spécialistes... et donc inaccessible

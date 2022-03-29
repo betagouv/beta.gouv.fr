@@ -23,6 +23,8 @@ techno:
   - Node.js
   - Express
   - Elasticsearch
+usertypes:
+  - entreprise
 ---
 
 ## Qu’est-ce que le Code du travail numérique ?

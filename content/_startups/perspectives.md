@@ -14,6 +14,9 @@ link: https://perspectives.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/perspectives
 stats: false
 contact: perspectives@pole-emploi.fr
+usertypes:
+  - particulier
+  - entreprise
 ---
 
 Pôle emploi effectue des tests d’évaluations pour détecter les aptitudes à exercer un nouveau métier encore jamais pratiqué.

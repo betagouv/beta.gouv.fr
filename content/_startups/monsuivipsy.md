@@ -18,6 +18,9 @@ phases:
     end: 2021-05-01
   - name: acceleration
     start: 2021-06-01
+usertypes:
+  - particulier
+  - entreprise
 ---
 Les troubles psychiatriques touchent plus de 20 % de la population, à un moment de la vie. Et trouver le bon traitement peut prendre plusieurs années. Pendant ce temps-là, les symptômes évoluent, peuvent devenir chroniques et l’état du patient s’aggrave. L’impact peut être dramatique. 
 

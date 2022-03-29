@@ -14,6 +14,9 @@ link:
 repository:
 stats: false
 contact: elise.jacob@developpement-durable.gouv.fr
+usertypes:
+  - entreprise
+  - etat
 ---
 
 ## Le problème

@@ -18,6 +18,8 @@ phases:
     start: 2019-09-03
   - name: alumni
     start: 2021-09-01
+usertypes:
+  - particulier
 ---
 
 Aujourd’hui, 73,6% de la population paloise habite en appartement, soit 54 122 habitants. 

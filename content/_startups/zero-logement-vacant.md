@@ -15,6 +15,8 @@ phases:
     end: ""
   - name: construction
     start: 2020-07-03
+usertypes:
+  - collectivite-territoriale
 ---
 ## Le problème
 

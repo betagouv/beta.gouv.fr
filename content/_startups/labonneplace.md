@@ -18,6 +18,9 @@ events:
     date: 2021-12-31
 stats: false 
 contact: rachid.benabdelhak@pole-emploi.fr
+usertypes:
+  - particulier
+  - entreprise
 ---
 
 **Problème**

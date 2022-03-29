@@ -16,6 +16,9 @@ link: https://trackdechets.beta.gouv.fr
 repository: https://github.com/MTES-MCT/trackdechets
 stats: true
 contact: emmanuel.flahaut@developpement-durable.gouv.fr
+usertypes:
+  - entreprise
+  - etat
 ---
 
 En 2016, 12 millions de tonnes de déchets dangereux ont été produits en France. Il s’agit de déchets contenants des éléments toxiques ou dangereux qui présentent des risques pour la santé et l'environnement. 

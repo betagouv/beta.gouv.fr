@@ -20,6 +20,9 @@ phases:
     end: 2020-07-01
   - name: acceleration
     start: 2020-07-01
+usertypes:
+  - collectivite-territoriale
+  - particulier
 ---
 ## Problème
 

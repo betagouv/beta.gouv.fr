@@ -19,6 +19,9 @@ contact: mathieu.gens@beta.gouv.fr
 redirect_from:
   - /startups/e-conseils
   - /startups/reso
+usertypes:
+  - entreprise
+  - etat
 ---
 
 Le service public Place des Entreprises permet à l’État, aux Régions volontaires et à l’ensemble des organismes publics et parapublics de développer leur rôle de conseil auprès des TPE & PME.

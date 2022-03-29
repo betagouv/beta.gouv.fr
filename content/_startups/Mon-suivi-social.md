@@ -15,6 +15,8 @@ phases:
   - name: construction
     start: 2021-04-01
     end: 2022-01-20
+usertypes:
+  - collectivite-territoriale
 ---
 ### Un CIAS sans outil numérique pour centraliser les informations
 

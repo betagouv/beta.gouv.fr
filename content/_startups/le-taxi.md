@@ -17,6 +17,9 @@ stats: true
 contact: ishan.bhojwani@beta.gouv.fr
 redirect_from:
   - /startups/taxi
+usertypes:
+  - particulier
+  - entreprise
 ---
 
 Le Taxi, c'est plus de 50 000 chauffeurs en France, partout sur le territoire, de la plus petite commune à la plus grande métropole.

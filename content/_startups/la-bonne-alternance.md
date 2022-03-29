@@ -20,6 +20,8 @@ stats: true
 contact: labonnealternance@pole-emploi.fr
 redirect_from:
   - /startups/labonnealternance
+usertypes:
+  - particulier
 ---
 
 La Bonne Alternance est le premier service qui permet de rechercher simultanément une formation en apprentissage et une entreprise recrutant des alternants. Vous pouvez y accéder directement sur : https://labonnealternance.pole-emploi.fr/

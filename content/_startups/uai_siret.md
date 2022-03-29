@@ -19,7 +19,10 @@ phases:
     end: ""
   - name : construction
     start: 2022-01-01
-
+usertypes:
+  - etat
+  - entreprise
+  - etablissement-scolaire
 ---
 
 ## Constat

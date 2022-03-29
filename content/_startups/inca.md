@@ -15,6 +15,9 @@ phases:
     end: 2021-12-31
 link: https://lab-agora.softr.app
 repository: https://github.com/betagouv/inca-app
+usertypes:
+  - particulier
+  - entreprise
 ---
 # Contexte 
 

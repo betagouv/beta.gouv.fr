@@ -15,6 +15,8 @@ phases:
     start: 2019-09-01
   - name: acceleration
     start: 2021-01-01
+usertypes:
+  - particulier
 ---
 
 # Nos constats

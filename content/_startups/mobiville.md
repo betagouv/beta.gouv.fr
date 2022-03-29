@@ -16,7 +16,8 @@ phases:
 link: https://mobiville.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/mobiville
 stats: true
-
+usertypes:
+  - particulier
 ---
 **Problème**
 

@@ -13,6 +13,8 @@ link: https://www.cmachance.fr/
 repository: 
 stats: false
 contact: s.turpin@cma-hautsdefrance.fr
+usertypes:
+  - particulier
 ---
 
 ## Le problème

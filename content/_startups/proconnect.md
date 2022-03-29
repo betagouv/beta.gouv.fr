@@ -15,6 +15,9 @@ repository:
 stats: false
 stats_url: 
 contact: contact@beta.gouv.fr
+usertypes:
+  - entreprise
+  - etat
 ---
 
 *Le projet ProConnect est poursuivi en dehors de beta.gouv.fr et est aujourd’hui en production. Il est en cours de déploiement sur les portails de services publics.*

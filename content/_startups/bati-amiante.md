@@ -12,6 +12,9 @@ phases:
 repository:
 stats: false
 contact: emeric.vercoutre@developpement-durable.gouv.fr
+usertypes:
+  - particulier
+  - entreprise
 ---
 
 ## 100.000 morts d’ici 2050

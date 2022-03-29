@@ -26,6 +26,8 @@ techno:
    - Atos Worldine
    - OpenShift
    - Mailjet
+usertypes:
+  - etat
 ---
 
 ## Avec Administration+, aucun blocage ne vous résiste

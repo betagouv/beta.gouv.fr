@@ -23,6 +23,9 @@ link: https://transport.data.gouv.fr
 repository: https://github.com/etalab/transport-site
 stats: true
 contact: contact@transport.beta.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - entreprise
 ---
 
 ## Le problème que résout transport.data.gouv.fr

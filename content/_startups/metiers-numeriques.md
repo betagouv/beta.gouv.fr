@@ -15,6 +15,9 @@ link: https://metiers.numerique.gouv.fr
 repository: https://github.com/betagouv/metiers-numeriques
 stats: true
 stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=191&period=range&date=previous30&updated=1
+usertypes:
+  - particulier
+  - etat
 ---
 
 ### Contexte

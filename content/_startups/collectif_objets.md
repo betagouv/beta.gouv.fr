@@ -12,6 +12,9 @@ repository: https://github.com/betagouv/collectif-objets
 stats: true
 stats_url: https://collectif-objets.beta.gouv.fr/stats
 contact: collectifobjets@beta.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - particulier
 ---
 
 

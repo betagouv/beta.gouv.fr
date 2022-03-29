@@ -23,6 +23,8 @@ phases:
     end: 2021-01-20
 repository: https://github.com/StartupsPoleEmploi/estime-frontend
 stats: true
+usertypes:
+  - particulier
 ---
 **Problème** 
 

@@ -17,6 +17,9 @@ phases:
 repository: https://github.com/betagouv/trait-d-union
 stats: true
 contact: contact@traitdunion.beta.gouv.fr
+usertypes:
+  - particulier
+  - entreprise
 ---
 
 ## Un constat, plusieurs problèmes

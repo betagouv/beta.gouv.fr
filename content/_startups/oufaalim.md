@@ -15,6 +15,9 @@ phases:
       actionnable. Malheureusement, a ce jour aucune des administrations
       sponsors de l'investigation n'a arbitré un budget pour le passage en phase
       de construction.
+usertypes:
+  - association
+  - etat
 ---
 ## Contexte
 
