@@ -5,7 +5,7 @@ role: Chargée de déploiement
 github: alexiachaslot
 missions:
   - start: 2021-09-17
-    end: 2022-04-13
+    end: 2022-09-30
     status: admin
     employer: Tribunal judiciaire de Nanterre
 startups:
