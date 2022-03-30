@@ -10,7 +10,7 @@ var createStartupCard = function(startup) {
     if (startupSponsors) {
         startupSponsors = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupSponsors + '</p>';
     }
-    var startupUsertypes = startup.usertypes.map(usertype => {
+    var startupUsertypes = startup.attributes.usertypes.map(usertype => {
         return '<abbr title="' + usertype + '">' + usertype + '</abbr>'
     }).join(' / ')
     if (startupUsertypes) {
