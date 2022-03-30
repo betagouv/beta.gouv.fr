@@ -10,6 +10,12 @@ var createStartupCard = function(startup) {
     if (startupSponsors) {
         startupSponsors = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupSponsors + '</p>';
     }
+    var startupUsertypes = startup.usertypes.map(usertype => {
+        return '<abbr title="' + usertype + '">' + usertype + '</abbr>'
+    }).join(' / ')
+    if (startupUsertypes) {
+        startupUsertypes = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupUsertypes + '</p>';
+    }
     card.innerHTML = `
         <div class="fr-card fr-enlarge-link">
             <div class="fr-card__body">
@@ -17,6 +23,7 @@ var createStartupCard = function(startup) {
                     <a class="fr-card__link" href="/startups/${ startup.id }.html" target="\_blank" rel="noopener">${startup.attributes.name}</a>
                 </h2>
                 ${startupSponsors}
+                ${startupUsertypes}
                 <p class="fr-card__desc">${ startup.attributes.pitch }</p>
             </div>
             <div class="fr-card__img">
