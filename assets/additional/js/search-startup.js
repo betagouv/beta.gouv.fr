@@ -1,4 +1,14 @@
 
+    var USERTYPES = [
+        "etablissement-scolaire": "Etablissements scolaires et d'enseignement supérieur",
+        "etat": "Services de l'État",
+        "particulier": "Particulier",
+        "entreprise": "Entreprises et professionels",
+        "collectivite-territoriale": "Collectivités Terrioriales",
+        "parlement": "Parlement",
+        "association": "Association"
+    ]
+
 var createStartupCard = function(startup) {
     var card = document.createElement('div');
     card.className = 'fr-col-12 fr-col-md-3';
@@ -11,7 +21,7 @@ var createStartupCard = function(startup) {
         startupSponsors = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupSponsors + '</p>';
     }
     var startupUsertypes = startup.attributes.usertypes.map(usertype => {
-        return '<abbr title="' + usertype + '">' + usertype + '</abbr>'
+        return '<abbr title="' + USERTYPES[usertype] + '">' + USERTYPES[usertype] + '</abbr>'
     }).join(' / ')
     if (startupUsertypes) {
         startupUsertypes = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupUsertypes + '</p>';
