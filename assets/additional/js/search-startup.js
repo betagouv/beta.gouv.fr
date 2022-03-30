@@ -8,7 +8,7 @@ var createStartupCard = function(startup) {
         return '<abbr title="' + sponsor.name + '">' + sponsor.acronym + '</abbr>'
     }).join(' / ')
     if (startupSponsors) {
-        startupSponsors = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupSponsors + '>';
+        startupSponsors = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupSponsors + '</p>';
     }
     card.innerHTML = `
         <div class="fr-card fr-enlarge-link">
