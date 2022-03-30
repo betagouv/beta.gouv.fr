@@ -59,12 +59,12 @@ var generateDataWithHtmlCards = function(data) {
     return data
 }
 
-var filterCards = function(data) {
+var filterCards = function(data, value) {
     if (filters['incubator']) {
-        data = data.filter(d => d.incubator_id === value)
+        data = data.filter(d => d.incubator_id === filters['incubator'])
     }
     if (filters['usertypes']) {
-        data = data.filter(d => d.sponsors.includes(value))
+        data = data.filter(d => d.sponsors.includes(filters['usertypes']))
     }
     return data
 }
@@ -137,7 +137,7 @@ var createIncubatorSelect = function(data, incubators, initValue) {
     }
     selectIncubator.appendChild(optionFragment);
     var onIncubatorChange = function(value) {
-        filters['incubator'] = Boolean(value)
+        filters['incubator'] = value
         var incubatorElements = document.getElementsByClassName('incubator-header');
         for (var i=0; i < incubatorElements.length; i++) {
             var incubatorElement = incubatorElements[i];
@@ -174,7 +174,7 @@ var createUsertypesSelect = function(data, usertypes, initValue) {
     }
     selectUsertypes.appendChild(optionFragment);
     var onUsertypesChange = function(value) {
-        filters['usertypes'] = Boolean(value)
+        filters['usertypes'] = value
         updateCards(data)
     };
     if (initValue) {
