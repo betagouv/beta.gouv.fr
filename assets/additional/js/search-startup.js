@@ -64,7 +64,7 @@ var filterCards = function(data, value) {
         data = data.filter(d => d.incubator_id === filters['incubator'])
     }
     if (filters['usertypes']) {
-        data = data.filter(d => d.sponsors.includes(filters['usertypes']))
+        data = data.filter(d => d.attributes.usertypes.includes(filters['usertypes']))
     }
     return data
 }
