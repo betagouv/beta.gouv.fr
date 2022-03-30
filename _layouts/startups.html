@@ -28,6 +28,14 @@ layout: default
             , "phase": "{{ status }}"
             , "incubator_id" : "{{startup.incubator}}"
             , "incubator_title": "{{ incubator.title }}"
+            , "sponsors": {%- for sponsorId in startup.sponsors -%}[
+                {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
+                {
+                    "acronym" : "{{ sponsor.acronym }}",
+                    "name": "{{ sponsor.name }}"
+                }
+                {% unless forloop.last %},{% endunless %}
+            ]{% endfor %}
             , "attributes":
                 { "name"  : "{{ startup.title }}"
                 , "pitch" : "{{ startup.mission }}"{% if startup.stats %}

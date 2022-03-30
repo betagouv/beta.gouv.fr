@@ -4,7 +4,7 @@ var createStartupCard = function(startup) {
     card.className = 'fr-col-12 fr-col-md-3';
     card.id = startup.id;
 
-    var startupSponsors = startupSponsors.map(sponsor => {
+    var startupSponsors = startup.sponsors.map(sponsor => {
         return '<abbr title="' + sponsor.name + '">' + sponsor.acronym + '</abbr>'
     }).join(' / ')
     if (startupSponsors) {
