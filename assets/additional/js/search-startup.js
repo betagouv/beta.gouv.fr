@@ -1,5 +1,5 @@
 
-    var USERTYPES = [
+    var USERTYPES = {
         "etablissement-scolaire": "Etablissements scolaires et d'enseignement supérieur",
         "etat": "Services de l'État",
         "particulier": "Particulier",
@@ -7,7 +7,7 @@
         "collectivite-territoriale": "Collectivités Terrioriales",
         "parlement": "Parlement",
         "association": "Association"
-    ]
+    }
 
 var createStartupCard = function(startup) {
     var card = document.createElement('div');
