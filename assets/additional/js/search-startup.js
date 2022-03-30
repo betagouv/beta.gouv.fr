@@ -1,13 +1,15 @@
 
-    var USERTYPES = {
-        "etablissement-scolaire": "Etablissements scolaires et d'enseignement supérieur",
-        "etat": "Services de l'État",
-        "particulier": "Particulier",
-        "entreprise": "Entreprises et professionels",
-        "collectivite-territoriale": "Collectivités Terrioriales",
-        "parlement": "Parlement",
-        "association": "Association"
-    }
+var USERTYPES = {
+    "etablissement-scolaire": "Etablissements scolaires et d'enseignement supérieur",
+    "etat": "Services de l'État",
+    "particulier": "Particulier",
+    "entreprise": "Entreprises et professionels",
+    "collectivite-territoriale": "Collectivités Terrioriales",
+    "parlement": "Parlement",
+    "association": "Association"
+}
+
+var filters = []
 
 var createStartupCard = function(startup) {
     var card = document.createElement('div');
@@ -57,6 +59,72 @@ var generateDataWithHtmlCards = function(data) {
     return data
 }
 
+var filterCards = function(data) {
+    if (filters['incubator']) {
+        data = data.filter(d => d.incubator_id === value)
+    }
+    if (filters['usertypes']) {
+        data = data.filter(d => d.attributes.sponsors.includes(value))
+    }
+    return data
+}
+
+var updateCards = function(data) {
+    var grid = document.getElementsByClassName('startups')[0];
+    var keys = Object.keys(data);
+    for (var i=0; i < keys.length; i++) {
+        var phase = keys[i];
+        var phaseElement = document.getElementById(phase);
+        var optionElement = document.getElementById(phase+'-option');
+        var grid = phaseElement.getElementsByClassName('startups')[0];
+        var documentFragment = document.createDocumentFragment();
+        var dataToDisplay = filterCards(data[phase]);
+        if (!dataToDisplay.length) {
+            phaseElement.style.display = 'none';
+            optionElement.style.display = 'none';
+            var noContentMessage = phaseElement.getElementsByClassName('phase-no-result');
+            if (!noContentMessage.length) {
+                var noContentMessage = document.createElement('p');
+                noContentMessage.className = 'phase-no-result';
+                noContentMessage.innerText = "Il n'y a pas de startup dans cette phase actuellement."
+                phaseElement.appendChild(noContentMessage);
+            }
+        } else {
+            phaseElement.style.display = 'block';
+            optionElement.style.display = 'block';
+            var noContentMessage = phaseElement.getElementsByClassName('phase-no-result');
+            if (noContentMessage.length) {
+                phaseElement.removeChild(noContentMessage[0]);
+            }
+        }
+        var phaseCounter = phaseElement.getElementsByClassName('phase-counter')[0];
+        if (phaseCounter) {
+            phaseCounter.innerText = dataToDisplay.length;
+        }
+        var phaseLabel = phaseElement.getElementsByClassName('phase-label')[0];
+        if (phaseLabel) {
+            var currentPhase = phases.filter(p => p.status === phase)[0]
+            var plural = dataToDisplay.length > 1 ? 's' : '' ;
+            if (currentPhase.status === 'success') {
+                phaseLabel.innerText = currentPhase.label.toLowerCase() + 's'
+            } else if (currentPhase.status === 'alumni') {
+                phaseLabel.innerText = currentPhase.label.toLowerCase()
+            } else {
+                phaseLabel.innerText = currentPhase.type_label + plural
+            }
+        }
+        for (var j = 0; j < dataToDisplay.length; j++) {
+            documentFragment.appendChild(dataToDisplay[j].html)
+        }
+        grid.innerHTML = "" 
+        grid.appendChild(documentFragment)
+        if (window.lozad) {
+            const observer = lozad();
+            observer.observe();
+        }
+    }
+}
+
 var createIncubatorSelect = function(data, incubators, initValue) {
     var selectIncubator = document.getElementById('select-incubateur');
     var optionFragment = document.createDocumentFragment();
@@ -69,8 +137,7 @@ var createIncubatorSelect = function(data, incubators, initValue) {
     }
     selectIncubator.appendChild(optionFragment);
     var onIncubatorChange = function(value) {
-        var grid = document.getElementsByClassName('startups')[0];
-        var keys = Object.keys(data);
+        filters['incubator'] = boolean(value)
         var incubatorElements = document.getElementsByClassName('incubator-header');
         for (var i=0; i < incubatorElements.length; i++) {
             var incubatorElement = incubatorElements[i];
@@ -80,57 +147,7 @@ var createIncubatorSelect = function(data, incubators, initValue) {
                 incubatorElement.style.display = 'block';
             }
         }
-        for (var i=0; i < keys.length; i++) {
-            var phase = keys[i];
-            var phaseElement = document.getElementById(phase);
-            var optionElement = document.getElementById(phase+'-option');
-            var grid = phaseElement.getElementsByClassName('startups')[0];
-            var documentFragment = document.createDocumentFragment();
-            var dataToDisplay = value ? data[phase].filter(d => d.incubator_id === value) : data[phase];
-            if (!dataToDisplay.length) {
-                phaseElement.style.display = 'none';
-                optionElement.style.display = 'none';
-                var noContentMessage = phaseElement.getElementsByClassName('phase-no-result');
-                if (!noContentMessage.length) {
-                    var noContentMessage = document.createElement('p');
-                    noContentMessage.className = 'phase-no-result';
-                    noContentMessage.innerText = "Il n'y a pas de startup dans cette phase actuellement."
-                    phaseElement.appendChild(noContentMessage);
-                }
-            } else {
-                phaseElement.style.display = 'block';
-                optionElement.style.display = 'block';
-                var noContentMessage = phaseElement.getElementsByClassName('phase-no-result');
-                if (noContentMessage.length) {
-                    phaseElement.removeChild(noContentMessage[0]);
-                }
-            }
-            var phaseCounter = phaseElement.getElementsByClassName('phase-counter')[0];
-            if (phaseCounter) {
-                phaseCounter.innerText = dataToDisplay.length;
-            }
-            var phaseLabel = phaseElement.getElementsByClassName('phase-label')[0];
-            if (phaseLabel) {
-                var currentPhase = phases.filter(p => p.status === phase)[0]
-                var plural = dataToDisplay.length > 1 ? 's' : '' ;
-                if (currentPhase.status === 'success') {
-                    phaseLabel.innerText = currentPhase.label.toLowerCase() + 's'
-                } else if (currentPhase.status === 'alumni') {
-                    phaseLabel.innerText = currentPhase.label.toLowerCase()
-                } else {
-                    phaseLabel.innerText = currentPhase.type_label + plural
-                }
-            }
-            for (var j = 0; j < dataToDisplay.length; j++) {
-                documentFragment.appendChild(dataToDisplay[j].html)
-            }
-            grid.innerHTML = "" 
-            grid.appendChild(documentFragment)
-            if (window.lozad) {
-                const observer = lozad();
-                observer.observe();
-            }
-        }
+        updateCards(data)
     };
     if (initValue) {
         selectIncubator.value = initValue;
@@ -157,68 +174,8 @@ var createUsertypesSelect = function(data, usertypes, initValue) {
     }
     selectUsertypes.appendChild(optionFragment);
     var onUsertypesChange = function(value) {
-        var grid = document.getElementsByClassName('startups')[0];
-        var keys = Object.keys(data);
-        // var incubatorElements = document.getElementsByClassName('incubator-header');
-        // for (var i=0; i < incubatorElements.length; i++) {
-        //     var incubatorElement = incubatorElements[i];
-        //     if (incubatorElement.id !== value) {
-        //         incubatorElement.style.display = 'none';
-        //     } else {
-        //         incubatorElement.style.display = 'block';
-        //     }
-        // }
-        for (var i=0; i < keys.length; i++) {
-            var phase = keys[i];
-            var phaseElement = document.getElementById(phase);
-            var optionElement = document.getElementById(phase+'-option');
-            var grid = phaseElement.getElementsByClassName('startups')[0];
-            var documentFragment = document.createDocumentFragment();
-            var dataToDisplay = value ? data[phase].filter(d => d.attributes.usertypes.includes(value)) : data[phase];
-            if (!dataToDisplay.length) {
-                phaseElement.style.display = 'none';
-                optionElement.style.display = 'none';
-                var noContentMessage = phaseElement.getElementsByClassName('phase-no-result');
-                if (!noContentMessage.length) {
-                    var noContentMessage = document.createElement('p');
-                    noContentMessage.className = 'phase-no-result';
-                    noContentMessage.innerText = "Il n'y a pas de startup dans cette phase actuellement."
-                    phaseElement.appendChild(noContentMessage);
-                }
-            } else {
-                phaseElement.style.display = 'block';
-                optionElement.style.display = 'block';
-                var noContentMessage = phaseElement.getElementsByClassName('phase-no-result');
-                if (noContentMessage.length) {
-                    phaseElement.removeChild(noContentMessage[0]);
-                }
-            }
-            var phaseCounter = phaseElement.getElementsByClassName('phase-counter')[0];
-            if (phaseCounter) {
-                phaseCounter.innerText = dataToDisplay.length;
-            }
-            var phaseLabel = phaseElement.getElementsByClassName('phase-label')[0];
-            if (phaseLabel) {
-                var currentPhase = phases.filter(p => p.status === phase)[0]
-                var plural = dataToDisplay.length > 1 ? 's' : '' ;
-                if (currentPhase.status === 'success') {
-                    phaseLabel.innerText = currentPhase.label.toLowerCase() + 's'
-                } else if (currentPhase.status === 'alumni') {
-                    phaseLabel.innerText = currentPhase.label.toLowerCase()
-                } else {
-                    phaseLabel.innerText = currentPhase.type_label + plural
-                }
-            }
-            for (var j = 0; j < dataToDisplay.length; j++) {
-                documentFragment.appendChild(dataToDisplay[j].html)
-            }
-            grid.innerHTML = "" 
-            grid.appendChild(documentFragment)
-            if (window.lozad) {
-                const observer = lozad();
-                observer.observe();
-            }
-        }
+        filters['usertypes'] = boolean(value)
+        updateCards(data)
     };
     if (initValue) {
         selectUsertypes.value = initValue;
