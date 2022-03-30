@@ -361,8 +361,12 @@ h2.phase-title em {
   grid-column: 1;
 }
 
+.filters #select-usertypes {
+  grid-column: 1;
+}
+
 .filters #select-phase {
-  grid-column: 2;
+  grid-column: 1;
 }
 
 .filters #search-input {
@@ -397,6 +401,12 @@ h2.phase-title em {
   }
 
   .filters #select-incubateur {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+
+  .filters #select-usertypes {
     grid-column: 1;
     grid-row: 1;
   }
