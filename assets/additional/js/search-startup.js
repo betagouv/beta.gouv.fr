@@ -4,13 +4,19 @@ var createStartupCard = function(startup) {
     card.className = 'fr-col-12 fr-col-md-3';
     card.id = startup.id;
 
+    var startupSponsors = startupSponsors.map(sponsor => {
+        return '<abbr title="' + sponsor.name + '">' + sponsor.acronym + '</abbr>'
+    }).join(' / ')
+    if (startupSponsors) {
+        startupSponsors = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupSponsors + '>';
+    }
     card.innerHTML = `
         <div class="fr-card fr-enlarge-link">
             <div class="fr-card__body">
                 <h2 class="fr-card__title">
                     <a class="fr-card__link" href="/startups/${ startup.id }.html" target="\_blank" rel="noopener">${startup.attributes.name}</a>
                 </h2>
-
+                ${startupSponsors}
                 <p class="fr-card__desc">${ startup.attributes.pitch }</p>
             </div>
             <div class="fr-card__img">
