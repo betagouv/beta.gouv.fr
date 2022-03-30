@@ -137,7 +137,7 @@ var createIncubatorSelect = function(data, incubators, initValue) {
     }
     selectIncubator.appendChild(optionFragment);
     var onIncubatorChange = function(value) {
-        filters['incubator'] = boolean(value)
+        filters['incubator'] = Boolean(value)
         var incubatorElements = document.getElementsByClassName('incubator-header');
         for (var i=0; i < incubatorElements.length; i++) {
             var incubatorElement = incubatorElements[i];
@@ -174,7 +174,7 @@ var createUsertypesSelect = function(data, usertypes, initValue) {
     }
     selectUsertypes.appendChild(optionFragment);
     var onUsertypesChange = function(value) {
-        filters['usertypes'] = boolean(value)
+        filters['usertypes'] = Boolean(value)
         updateCards(data)
     };
     if (initValue) {
