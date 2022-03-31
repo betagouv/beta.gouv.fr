@@ -5,7 +5,7 @@ role: "Coach "
 github: tikris
 missions:
   - start: 2021-04-19
-    end: 2022-03-31
+    end: 2022-04-30
     status: service
     employer: Sopra Steria Next
 startups:
