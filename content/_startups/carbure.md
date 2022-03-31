@@ -10,8 +10,6 @@ phases:
     end: 2019-11-30
   - name: construction
     start: 2019-11-30
-usertypes:
-  - etat
 link: https://carbure.beta.gouv.fr
 repository: https://github.com/MTES-MCT/carbure
 stats: true

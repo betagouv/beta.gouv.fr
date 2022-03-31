@@ -10,8 +10,6 @@ phases:
     end: 2020-06-08
   - name: alumni
     start: 2020-06-08
-usertypes:
-  - etat
 link: 
 repository: 
 stats: false
