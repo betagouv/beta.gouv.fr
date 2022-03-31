@@ -390,23 +390,19 @@ h2.phase-title em {
 
   .filters #select-incubateur {
     grid-column: 1;
-    grid-row: 1;
   }
 
 
   .filters #select-usertypes {
     grid-column: 1;
-    grid-row: 1;
   }
 
   .filters #select-phase {
     grid-column: 1;
-    grid-row: 2;
   }
 
   .filters #search-input {
     grid-column: 1;
-    grid-row: 3;
   }
 }
 /* Résultats de recherche page /réalisations */
