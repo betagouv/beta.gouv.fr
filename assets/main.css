@@ -357,18 +357,6 @@ h2.phase-title em {
   grid-gap: 1em;
 }
 
-.filters #select-incubateur {
-  grid-column: 1;
-}
-
-.filters #select-usertypes {
-  grid-column: 1;
-}
-
-.filters #select-phase {
-  grid-column: 1;
-}
-
 .filters #search-input {
   grid-column: 4;
   z-index: 2;
