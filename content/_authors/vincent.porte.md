@@ -6,7 +6,7 @@ link: https://www.swiloh.com
 github: vincentporte
 missions:
   - start: 2022-01-17
-    end: 2022-04-15
+    end: 2022-06-30
     status: independent
     employer: Octo
 startups:
