@@ -135,6 +135,9 @@ var updateCards = function(data) {
             observer.observe();
         }
     }
+    if (!count) {
+        displayNoDataMessage(true)
+    }
 }
 
 var createIncubatorSelect = function(data, incubators, initValue) {
