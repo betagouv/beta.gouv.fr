@@ -61,5 +61,6 @@ Le code source : https://github.com/betagouv/rdv-solidarites.fr/
 
 Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [contact@rdv-solidarites.fr avec incubateur@anct.gouv.fr en copie](mailto:contact@rdv-solidarites.fr?cc=incubateur@anct.gouv.fr&subject=Recrutement OPS RDV-Solidarité)
 
+En nous rejoignant vous embarquez aussi [la communauté beta.gouv.fr](https://doc.incubateur.net/communaute/) dont les membres contribuent au quotidien à l'amélioration des services publics !
 
 À bientôt ! 😀
