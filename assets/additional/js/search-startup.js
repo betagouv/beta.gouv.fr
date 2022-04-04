@@ -59,6 +59,15 @@ var generateDataWithHtmlCards = function(data) {
     return data
 }
 
+var displayNoDataMessage = function(shouldDisplay) {
+    var noDataMessage = document.getElementById('no-data-message');
+    if (shouldDisplay) {
+        noDataMessage.style.display = 'block';
+    } else {
+        noDataMessage.style.display = 'none';
+    }
+}
+
 var filterCards = function(data, value) {
     if (filters['incubator']) {
         data = data.filter(d => d.incubator_id === filters['incubator'])
@@ -70,8 +79,10 @@ var filterCards = function(data, value) {
 }
 
 var updateCards = function(data) {
+    displayNoDataMessage(false)
     var grid = document.getElementsByClassName('startups')[0];
     var keys = Object.keys(data);
+    var count = 0
     for (var i=0; i < keys.length; i++) {
         var phase = keys[i];
         var phaseElement = document.getElementById(phase);
@@ -79,6 +90,7 @@ var updateCards = function(data) {
         var grid = phaseElement.getElementsByClassName('startups')[0];
         var documentFragment = document.createDocumentFragment();
         var dataToDisplay = filterCards(data[phase]);
+        count = count + dataToDisplay.length
         if (!dataToDisplay.length) {
             phaseElement.style.display = 'none';
             optionElement.style.display = 'none';

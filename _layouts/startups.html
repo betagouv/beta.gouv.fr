@@ -137,6 +137,9 @@ layout: default
     {% endfor %}
 
     <div class="fr-container fr-py-6w">
+        <div id="no-data-message" style="display: none;">
+            <p>Il n'y a pas de résultats qui correspondent à ces filtres</p>
+        </div>
         {% assign phases = site.phases | sort: 'order' %}
         {% for phase in phases %}
             {% assign counter_target = phase.id | remove: "/phases/" %}
