@@ -57,8 +57,8 @@ Nous recherchons une personne avec 3 à 5 années d’expérience professionnell
 
 ## Cadre de travail
 
--   Temps de travail : trois jours par semaine.
--   Le télétravail est encouragé ;
+-   Contrat : indépendant/freelance, trois jours par semaine ;
+-   Le télétravail est encouragé (équipe à Paris et à Rennes) ;
 -   L’équipe se retrouve en présentiel à Paris chaque mercredi ;
 -   Des locaux se situent au sein des services du Premier Ministre : 20 avenue de Ségur - 75008 Paris en plein coeur de Paris ;
 -   Tu travailleras sur un sujet passionnant, inspirant, et sur un produit clef pour la simplification de la vie des entrepreneurs ;
