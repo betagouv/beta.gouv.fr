@@ -2,11 +2,11 @@
 var USERTYPES = {
     "etablissement-scolaire": "Etablissements scolaires et d'enseignement supérieur",
     "etat": "Services de l'État",
-    "particulier": "Particulier",
+    "particulier": "Particuliers",
     "entreprise": "Entreprises et professionels",
-    "collectivite-territoriale": "Collectivités Terrioriales",
+    "collectivite-territoriale": "Collectivités Territoriales",
     "parlement": "Parlement",
-    "association": "Association"
+    "association": "Associations"
 }
 
 var filters = []
