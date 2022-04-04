@@ -24,7 +24,7 @@ h2, h3 {
 
 ## Responsabilités
 
-Intégré à l'équipe RDV-Solidarités vous aurez la responsabilité de **mettre en place une infrastructure facilemen réplicable, basée sur Kubernetes** et d'assurer :
+Intégré à l'équipe RDV-Solidarités vous aurez la responsabilité de **mettre en place une infrastructure facilement réplicable, basée sur Kubernetes** et d'assurer :
 
 - la migration du service vers cette nouvelle infrastructure,
 - sa stabilité pour les personnes utilisatrices actuellement et 
