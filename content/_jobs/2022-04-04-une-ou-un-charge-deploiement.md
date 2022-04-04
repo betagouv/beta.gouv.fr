@@ -65,4 +65,4 @@ Nous recherchons une personne avec 3 à 5 années d’expérience professionnell
 
 ## Comment postuler ?
 
-Postule en écrivant à [annuaire-entreprises@data.gouv.fr](annuaire-entreprises@data.gouv.fr) avec un CV et un court message de motivation.
+Postule en écrivant à [annuaire-entreprises@data.gouv.fr](mailto:annuaire-entreprises@data.gouv.fr) avec un CV et un court message de motivation.
