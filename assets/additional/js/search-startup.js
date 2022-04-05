@@ -1,16 +1,40 @@
 
+var USERTYPES = {
+    "etablissement-scolaire": "Etablissements scolaires et d'enseignement supérieur",
+    "etat": "Services de l'État",
+    "particulier": "Particuliers",
+    "entreprise": "Entreprises et professionels",
+    "collectivite-territoriale": "Collectivités Territoriales",
+    "parlement": "Parlement",
+    "association": "Associations"
+}
+
+var filters = []
+
 var createStartupCard = function(startup) {
     var card = document.createElement('div');
     card.className = 'fr-col-12 fr-col-md-3';
     card.id = startup.id;
 
+    var startupSponsors = startup.sponsors.map(sponsor => {
+        return '<abbr title="' + sponsor.name + '">' + sponsor.acronym + '</abbr>'
+    }).join(' / ')
+    if (startupSponsors) {
+        startupSponsors = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupSponsors + '</p>';
+    }
+    var startupUsertypes = startup.attributes.usertypes.map(usertype => {
+        return '<abbr title="' + USERTYPES[usertype] + '">' + USERTYPES[usertype] + '</abbr>'
+    }).join(' / ')
+    if (startupUsertypes) {
+        startupUsertypes = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupUsertypes + '</p>';
+    }
     card.innerHTML = `
         <div class="fr-card fr-enlarge-link">
             <div class="fr-card__body">
                 <h2 class="fr-card__title">
                     <a class="fr-card__link" href="/startups/${ startup.id }.html" target="\_blank" rel="noopener">${startup.attributes.name}</a>
                 </h2>
-
+                ${startupSponsors}
                 <p class="fr-card__desc">${ startup.attributes.pitch }</p>
             </div>
             <div class="fr-card__img">
@@ -35,6 +59,87 @@ var generateDataWithHtmlCards = function(data) {
     return data
 }
 
+var displayNoDataMessage = function(shouldDisplay) {
+    var noDataMessage = document.getElementById('no-data-message');
+    if (shouldDisplay) {
+        noDataMessage.style.display = 'block';
+    } else {
+        noDataMessage.style.display = 'none';
+    }
+}
+
+var filterCards = function(data, value) {
+    if (filters['incubator']) {
+        data = data.filter(d => d.incubator_id === filters['incubator'])
+    }
+    if (filters['usertypes']) {
+        data = data.filter(d => d.attributes.usertypes.includes(filters['usertypes']))
+    }
+    return data
+}
+
+var updateCards = function(data) {
+    displayNoDataMessage(false)
+    var grid = document.getElementsByClassName('startups')[0];
+    var keys = Object.keys(data);
+    var count = 0
+    for (var i=0; i < keys.length; i++) {
+        var phase = keys[i];
+        var phaseElement = document.getElementById(phase);
+        var optionElement = document.getElementById(phase+'-option');
+        var grid = phaseElement.getElementsByClassName('startups')[0];
+        var documentFragment = document.createDocumentFragment();
+        var dataToDisplay = filterCards(data[phase]);
+        count = count + dataToDisplay.length
+        if (!dataToDisplay.length) {
+            phaseElement.style.display = 'none';
+            optionElement.style.display = 'none';
+            var noContentMessage = phaseElement.getElementsByClassName('phase-no-result');
+            if (!noContentMessage.length) {
+                var noContentMessage = document.createElement('p');
+                noContentMessage.className = 'phase-no-result';
+                noContentMessage.innerText = "Il n'y a pas de startup dans cette phase actuellement."
+                phaseElement.appendChild(noContentMessage);
+            }
+        } else {
+            phaseElement.style.display = 'block';
+            optionElement.style.display = 'block';
+            var noContentMessage = phaseElement.getElementsByClassName('phase-no-result');
+            if (noContentMessage.length) {
+                phaseElement.removeChild(noContentMessage[0]);
+            }
+        }
+        var phaseCounter = phaseElement.getElementsByClassName('phase-counter')[0];
+        if (phaseCounter) {
+            phaseCounter.innerText = dataToDisplay.length;
+        }
+        var phaseLabel = phaseElement.getElementsByClassName('phase-label')[0];
+        if (phaseLabel) {
+            var currentPhase = phases.filter(p => p.status === phase)[0]
+            var plural = dataToDisplay.length > 1 ? 's' : '' ;
+            if (currentPhase.status === 'success') {
+                phaseLabel.innerText = currentPhase.label.toLowerCase() + 's'
+            } else if (currentPhase.status === 'alumni') {
+                phaseLabel.innerText = currentPhase.label.toLowerCase()
+            } else {
+                phaseLabel.innerText = currentPhase.type_label + plural
+            }
+        }
+        for (var j = 0; j < dataToDisplay.length; j++) {
+            documentFragment.appendChild(dataToDisplay[j].html)
+        }
+        grid.innerHTML = "" 
+        grid.appendChild(documentFragment)
+        if (window.lozad) {
+            const observer = lozad();
+            observer.observe();
+        }
+    }
+    if (!count) {
+        displayNoDataMessage(true)
+    }
+}
+
 var createIncubatorSelect = function(data, incubators, initValue) {
     var selectIncubator = document.getElementById('select-incubateur');
     var optionFragment = document.createDocumentFragment();
@@ -47,8 +152,7 @@ var createIncubatorSelect = function(data, incubators, initValue) {
     }
     selectIncubator.appendChild(optionFragment);
     var onIncubatorChange = function(value) {
-        var grid = document.getElementsByClassName('startups')[0];
-        var keys = Object.keys(data);
+        filters['incubator'] = value
         var incubatorElements = document.getElementsByClassName('incubator-header');
         for (var i=0; i < incubatorElements.length; i++) {
             var incubatorElement = incubatorElements[i];
@@ -58,57 +162,7 @@ var createIncubatorSelect = function(data, incubators, initValue) {
                 incubatorElement.style.display = 'block';
             }
         }
-        for (var i=0; i < keys.length; i++) {
-            var phase = keys[i];
-            var phaseElement = document.getElementById(phase);
-            var optionElement = document.getElementById(phase+'-option');
-            var grid = phaseElement.getElementsByClassName('startups')[0];
-            var documentFragment = document.createDocumentFragment();
-            var dataToDisplay = value ? data[phase].filter(d => d.incubator_id === value) : data[phase];
-            if (!dataToDisplay.length) {
-                phaseElement.style.display = 'none';
-                optionElement.style.display = 'none';
-                var noContentMessage = phaseElement.getElementsByClassName('phase-no-result');
-                if (!noContentMessage.length) {
-                    var noContentMessage = document.createElement('p');
-                    noContentMessage.className = 'phase-no-result';
-                    noContentMessage.innerText = "Il n'y a pas de startup dans cette phase actuellement."
-                    phaseElement.appendChild(noContentMessage);
-                }
-            } else {
-                phaseElement.style.display = 'block';
-                optionElement.style.display = 'block';
-                var noContentMessage = phaseElement.getElementsByClassName('phase-no-result');
-                if (noContentMessage.length) {
-                    phaseElement.removeChild(noContentMessage[0]);
-                }
-            }
-            var phaseCounter = phaseElement.getElementsByClassName('phase-counter')[0];
-            if (phaseCounter) {
-                phaseCounter.innerText = dataToDisplay.length;
-            }
-            var phaseLabel = phaseElement.getElementsByClassName('phase-label')[0];
-            if (phaseLabel) {
-                var currentPhase = phases.filter(p => p.status === phase)[0]
-                var plural = dataToDisplay.length > 1 ? 's' : '' ;
-                if (currentPhase.status === 'success') {
-                    phaseLabel.innerText = currentPhase.label.toLowerCase() + 's'
-                } else if (currentPhase.status === 'alumni') {
-                    phaseLabel.innerText = currentPhase.label.toLowerCase()
-                } else {
-                    phaseLabel.innerText = currentPhase.type_label + plural
-                }
-            }
-            for (var j = 0; j < dataToDisplay.length; j++) {
-                documentFragment.appendChild(dataToDisplay[j].html)
-            }
-            grid.innerHTML = "" 
-            grid.appendChild(documentFragment)
-            if (window.lozad) {
-                const observer = lozad();
-                observer.observe();
-            }
-        }
+        updateCards(data)
     };
     if (initValue) {
         selectIncubator.value = initValue;
@@ -119,6 +173,34 @@ var createIncubatorSelect = function(data, incubators, initValue) {
         onIncubatorChange(value);
         const urlParams = new URLSearchParams(window.location.search);
         urlParams.set('incubateur', value);
+        history.replaceState(null, null, window.location.origin + window.location.pathname + '?' + urlParams);
+    });
+}
+
+var createUsertypesSelect = function(data, usertypes, initValue) {
+    var selectUsertypes = document.getElementById('select-usertypes');
+    var optionFragment = document.createDocumentFragment();
+    for (var i=0; i < usertypes.length; i++) {
+        var usertype = usertypes[i]
+        var option = document.createElement('option');
+        option.innerText = usertype.title;
+        option.value = usertype.id;
+        optionFragment.appendChild(option)
+    }
+    selectUsertypes.appendChild(optionFragment);
+    var onUsertypesChange = function(value) {
+        filters['usertypes'] = value
+        updateCards(data)
+    };
+    if (initValue) {
+        selectUsertypes.value = initValue;
+        onUsertypesChange(initValue);
+    }
+    selectUsertypes.addEventListener('change', function (e) {
+        var value = e.target.value
+        onUsertypesChange(value);
+        const urlParams = new URLSearchParams(window.location.search);
+        urlParams.set('usertypes', value);
         history.replaceState(null, null, window.location.origin + window.location.pathname + '?' + urlParams);
     });
 }
