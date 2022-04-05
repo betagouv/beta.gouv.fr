@@ -24,7 +24,7 @@ usertypes:
 L'obtention d'un diplôme par la VAE est un accélarateur du retour à l'emploi mais trop peu de demandeurs d'emploi ont recours à cette voie d'accès au diplôme.
 Problème : __0,25% seulement des demandeurs d’emploi ont recours à la VAE__ (Source : rapport IGAS d’évaluation de la VAE, oct. 2016). La VAE est à la fois méconnue et complexe dans sa mise en œuvre. En outre, il existe plus de 14 000 certifications. Les professionnels de l’emploi hésitent donc à la promouvoir.
 
-Initialement porté par Pôle emploi, Avril est repris par la Fabrique du Ministère des Affaires Sociales. Le service fait partie intégrante du projet REVA qui vise à transformer la VAE. Depuis le mois davril 2019, c'est 110594 candidats à la VAE qui ont utilisé Avril pour entrer en contact avec presque 800 acteurs de la VAE sur toute le territoire. 
+Initialement porté par Pôle emploi, Avril est repris par la Fabrique du Ministère des Affaires Sociales. Le service fait partie intégrante du projet REVA qui vise à transformer la VAE. Depuis le mois davril 2019, c'est 110594 candidats à la VAE qui ont utilisé Avril pour entrer en contact avec presque 800 acteurs de la VAE sur tout le territoire. 
 
 Pour utiliser Avril:
 1/ Renseigne ton métier
