@@ -1,0 +1,249 @@
+---
+layout: default
+---
+
+{%- capture build_date -%}{{ site.time | date:"%Y-%m-%d" }}{%- endcapture -%} {%- assign lang = page.lang | default:
+site.lang | default: "fr" -%}
+
+{% assign fullnames = "Rebecca Dumazert|Benoit Serrano|Bréanne Mallat|Clémence Lopez|Denis Baudot|Inès Hijazi|Lisa Durand|Mael Inizan|Mélodie Dahi|Anna-Livia Gomart|Stéphane Maniaci" | split: "|" %}
+
+{%- assign authors = site.authors | where_exp: "author", "fullnames contains author.fullname" -%}
+
+{%- include hero-page.html title=page.title -%}
+<section class="fr-py-2w fr-pt-4w">
+    <div class="fr-container">
+        <!-- Reprendre page rejoindre la brigade -->
+        Vous portez la création d’un service public numérique a fort potentiel d’impact ?<br /><b>Découvrez la Brigade,
+            l’équipe produit du programme beta.gouv</b><br /><br />
+        <a class="fr-btn fr-btn--md" href="mailto:brigade@beta.gouv.fr">Contacter la Brigade</a><br /><br /><br />
+    </div>
+    <div class="fr-container">
+        <!-- Une illu ferrée à droite -->
+        <h2>La Brigade</h2>
+        <p>La Brigade de beta.gouv est une équipe multi-disciplinaire d’<b>agents publics experts du numérique
+                (entrepreneuriat, tech, design, et déploiement)</b>. Elle intervient en appui des cabinets ministériels
+            et des directions d’administration pour lancer <b>rapidement</b> des services publics numériques
+            <b>interministériels à fort potentiel d’impact</b> social, environnemental ou économique. Cette équipe vise
+            notamment à <b>renforcer les collaborations interministérielles avec les Administration et les Cabinets</b>.
+        </p>
+        <p>
+            La Brigade fait partie du <b>programme beta.gouv</b> au sein de <b>la DINUM</b> qui vise à aider les
+            administrations publiques à construire des services numériques pour <b>améliorer la vie des usagers</b> et
+            renforcer l’<b>efficacité de l’action publique</b>. Depuis 2013, plus de <b>130 services publics
+                numériques</b> ont été crées à travers l’approche <b>Startups d’États</b>.
+        </p>
+    </div>
+</section>
+<section class="fr-py-6w section-grey">
+    <div class="fr-container">
+        <div class="fr-grid-row fr-grid-row--center">
+            <div>
+                <!-- Enlever le bleu lavande, inverser les tailles de titres, enlever le gris -->
+                <h2 class="fr-pb-6w section-title">Nous intervenons pour...</h2>
+                <div class="fr-grid-row fr-grid-row--gutters">
+                    <div class="fr-col-12 fr-col-md-4">
+                        <div class="fr-card fr-card--no-arrow">
+                            <div class="fr-card__body">
+                                <h3 class="fr-card__title">
+                                    Gestion de crise
+                                </h3>
+                                <p class="fr-card__desc"><b>Proposer et mettre en oeuvre rapidement une solution dans
+                                        une situation de crise ou d’urgence</b></p>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fr-col-12 fr-col-md-4">
+                        <div class="fr-card fr-card--no-arrow">
+                            <div class="fr-card__body">
+                                <h3 class="fr-card__title">
+                                    Politique prioritaire du quinquennat
+                                </h3>
+                                <p class="fr-card__desc"><b>Renforcer l’impact d’une politique prioritaire à travers le
+                                        développement de services publics numériques</b><br /><br /><br />
+
+                                    📍 Mission apprentissage <br />
+                                    📍 Plateformes de l'inclusion
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fr-col-12 fr-col-md-4">
+                        <div class="fr-card fr-card--no-arrow">
+                            <div class="fr-card__body">
+                                <h3 class="fr-card__title">
+                                    Communs numériques interministériels
+                                </h3>
+                                <p class="fr-card__desc"><b>Renforcer et soutenir l’action du réseau d’incubateurs
+                                        beta.gouv et des Startups d’États par la création de
+                                        communs</b><br /><br /><br />
+                                    📍 Tchap <br />
+                                    📍 Audioconf
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="fr-py-2w fr-pt-4w">
+    <div class="fr-container">
+        <h2>Les savoir-faire de la Brigade</h2>
+        <!-- Mettre un lorem ipsum avec les trois icônes -->
+        <p>La Brigade vise à faciliter la création et le déploiement de projets interministériels à travers des
+            savoir-faire focalisés sur :
+        <ul>
+            <li>la réflexion usagers</li>
+            <li>la gouvernance inter-administration</li>
+            <li>la coordination de travaux interministériels</li>
+        </ul>
+        Chaque projet est piloté de la manière suivante : Réflexion, Coordination, Pilotage, Exécution.
+        </p>
+    </div>
+</section>
+<section class="fr-py-2w fr-pt-4w section-grey">
+    <div class="fr-container">
+        <div class="fr-grid-row fr-grid-row--center">
+            <div>
+                <!-- Ajouter liseré bleu qu'il y a dans /approche -->
+                <h2 class="fr-pb-6w section-title">Les piliers de l'approche Startup d'États de la Brigade</h2>
+                <div class="fr-grid-row fr-grid-row--gutters startups">
+                    <div class="fr-col-3 fr-col-md-3">
+                        <div class="fr-card fr-card--no-arrow">
+                            <div class="fr-card__body">
+                                <h3 class="fr-card__title">
+                                    Pilotage par l'impact
+                                </h3>
+                                <p class="fr-card__desc">La définition d’indicateurs de succès mesurables dès le
+                                    lancement d’un partenariat.</p>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fr-col-3 fr-col-md-3">
+                        <div class="fr-card fr-card--no-arrow">
+                            <div class="fr-card__body">
+                                <h3 class="fr-card__title">
+                                    L'approche "Startup d'État"
+                                </h3>
+                                <p class="fr-card__desc">Un premier produit au contact des utilisateurs le plus vite
+                                    possible.</p>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fr-col-3 fr-col-md-3">
+                        <div class="fr-card fr-card--no-arrow">
+                            <div class="fr-card__body">
+                                <h3 class="fr-card__title">
+                                    Une équipe autonome
+                                </h3>
+                                <p class="fr-card__desc">Et des jalons réguliers pour évaluer l’impact et décider des
+                                    orientations.</p>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fr-col-3 fr-col-md-3">
+                        <div class="fr-card fr-card--no-arrow">
+                            <div class="fr-card__body">
+                                <h3 class="fr-card__title">
+                                    Un manifeste
+                                </h3>
+                                <p class="fr-card__desc">Pour déterminer notre façon de travailler ensemble.<br /><a
+                                        href="/approche/manifeste">Lire notre manifeste</a></p>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p>Vous portez la création d’un service public numérique à fort potentiel d’impact ? Contactez la
+                Brigade à <a href="mailto:brigade@beta.gouv.fr">brigade@beta.gouv.fr</a></p>
+        </div>
+    </div>
+</section>
+<section class="fr-py-2w fr-pt-4w">
+    <div class="fr-container">
+        <h2>Les étapes de l'intervention de la Brigade</h2>
+<!-- Même format et mêmes images que dans /approche, dupliquer une image -->
+
+        <div>
+            <h3>Cadrage</h3>
+            <h5>Définir les conditions d'engagement de la Brigade</h5>
+            <p>
+                📅 1 à 2 réunion<br />
+                ✋ la Brigade et Le sponsor<br /><br />
+                <b>Objectif</b> : s’aligner sur l’intervention de la Brigade en définissant les indicateurs d’impact
+                attendu<br /><br />
+                <a class="fr-btn fr-btn--md" href="mailto:brigade@beta.gouv.fr">Proposer un sujet à la Brigade</a> <a
+                    class="fr-btn fr-btn--md" href="mailto:brigade@beta.gouv.fr">Rencontrer la Brigade</a>
+
+            </p>
+        </div>
+        <div>
+            <h3>Investigation</h3>
+            <h5>Qualifier le problème à résoudre</h5>
+            <p>
+                📅 10 jours à 2 mois<br /><br />
+                <b>Objectif</b> : valider que le problème peut être résolu par le numérique en rencontrant des
+                utilisateurs pour qualifier le problème et imaginer des ébauches de solutions
+            </p>
+        </div>
+        <div>
+            <h3>Construction</h3>
+            <h5>Démontrer l'impact de la solution</h5>
+            <p>
+                📅 2 à 6 mois<br />
+                ✋ une équipe produit Brigade<br /><br />
+                <b>Objectif</b> : construire une première version du service et la rendre disponible rapidement pour
+                itérer avec les utilisateurs
+            </p>
+        </div>
+        <div>
+            <h3>Transfert</h3>
+            <h5>Garantir la pérennité du service</h5>
+            <p>
+                📅 2 à 6 mois<br />
+                ✋ une équipe produit Brigade<br /><br />
+                <b>Objectif</b> : créer les conditions de la reprise en assurant la pérennité du projet au sein de son
+                administration d'origine
+            </p>
+        </div>
+    </div>
+    <div class="section-color fr-py-2w fr-pt-4w">
+    <div class="fr-container">
+<!-- Reprendre /decouvrir la brigade -->
+            <h3>La Brigade, une équipe au coeur du réseau beta.gouv</h3>
+            <p>
+                beta.gouv, c'est une communauté définie par :
+            <ul>
+                <li>une <a href="/approche">approche</a> méthodologique inspirée du lean startup</li>
+                <li>un <a href="/approche/manifeste">manifeste</a> proposant une nouvelle façon de concevoir des
+                    services publics numériques</li>
+                <li><a href="/communaute/#incubateur">14 incubateurs</a> au sein de l'État</li>
+                <li><a href="/communaute">700 personnes</a> ayant différents métiers (expert métier, développement, UX,
+                    déploiement, coaching ...)
+                </li>
+                <li><a href="/startups">150 équipes produits</a> qui se consacrent à l'amélioration de la vie des
+                    citoyens et/ou de l'action publique
+                </li>
+            </ul>
+            </p>
+        </div>
+    </div>
+
+</section>
+<section class="fr-py-2w fr-pt-4w">
+    <div class="fr-container">
+        <h2>L'équipe de la Brigade</h2>
+        <div class="fr-grid-row fr-grid-row--gutters">
+            {%- for author in authors -%}
+            <div class="fr-col-md-3">{%- include card-community.html author=author -%}</div>
+            {%- endfor -%}
+        </div>
+    </div>
+</section>

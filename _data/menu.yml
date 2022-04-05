@@ -10,6 +10,9 @@ nav:
   -
     label: Recrutement
     target: _pages/recrutement.md
+  -
+    label: Brigade
+    target: _pages/brigade.md
 shortcuts:
   -
     label: Annuaire
