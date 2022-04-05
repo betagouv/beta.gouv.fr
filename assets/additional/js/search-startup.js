@@ -79,6 +79,7 @@ var filterCards = function(data, value) {
 }
 
 var updateCards = function(data) {
+    return
     displayNoDataMessage(false)
     var grid = document.getElementsByClassName('startups')[0];
     var keys = Object.keys(data);
