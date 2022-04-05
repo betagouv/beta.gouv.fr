@@ -14,7 +14,7 @@ phases:
 link: https://avril.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/avril
 stats: true
-contact: avril@pole-emploi.fr
+contact: avril@fabrique.social.gouv.fr
 usertypes:
   - particulier
 ---
