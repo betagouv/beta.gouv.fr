@@ -130,10 +130,10 @@ var updateCards = function(data) {
         }
         grid.innerHTML = "" 
         grid.appendChild(documentFragment)
-        // if (window.lozad) {
-        //     const observer = lozad();
-        //     observer.observe();
-        // }
+        if (window.lozad) {
+            const observer = lozad();
+            observer.observe();
+        }
     }
     if (!count) {
         displayNoDataMessage(true)
