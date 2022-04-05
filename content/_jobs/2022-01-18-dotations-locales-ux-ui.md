@@ -1,6 +1,6 @@
 ---
 roles: Une ou un Designer UX / UI
-open: true
+open: false
 date: 2022-02-08
 startup: dotations-locales
 ---
