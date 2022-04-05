@@ -3,6 +3,8 @@ title: Notifications
 mission: Améliorer la qualité des communications entre les administrations et
   les citoyens
 incubator: dinum
+sponsors:
+  - /organisations/dinum
 contact: beatrice.mercier@beta.gouv.fr
 events:
   - name: product_launch
@@ -11,6 +13,8 @@ phases:
   - name: investigation
     start: 2022-03-01
     end: 2022-04-04
+usertypes:
+  - etat
 ---
 
 ## Contexte
