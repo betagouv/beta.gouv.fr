@@ -1,11 +1,11 @@
 ---
 title: RDV Apprentissage
-mission: "Faciliter le premier contact entre les candidats à l’apprentissage et les Centre de Formation des Apprentis (CFA)"
-sponsor: 
-  - /organisations/mtei
-  - /organisations/menjs
-  - /organisations/mesr
-  - /organisations/mtfp
+mission: Faciliter le premier contact entre les candidats à l’apprentissage et les Centre de Formation des Apprentis (CFA)
+sponsors:
+    - /organisations/mtei
+    - /organisations/menjs
+    - /organisations/mesr
+    - /organisations/mtfp
 incubator: mission-apprentissage
 link: https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous
 repository: https://github.com/mission-apprentissage/prise-de-rdv
