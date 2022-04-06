@@ -88,6 +88,15 @@ L'équipe
 {% endif %}
 {% endcapture %}
 
+{% capture dashlord %}
+Le suivi des bonnes pratiques de ce produit
+{% if page.dashlord_url %}
+  est disponible sur <a href="{{ page.dashlord_url }}" title="Dashlord de {{ page.title }}"> Dashlord</a>.
+{% else %}
+  <em>n'est pas encore disponible sur <a href="https://dashlord.incubateur.net" title="Dashlord">Dashlord</a>.</em>
+{% endif %}
+{% endcapture %}
+
 <div class="notification full-width section-grey">
   <div class="fr-container">
     <ul>
@@ -99,6 +108,7 @@ L'équipe
       <li>{{ source_info }}</li>
       <li>{{ budget_info }}</li>
       <li>{{ analyse_risques }}</li>
+      <li>{{ dashlord }}</li>
       {% if page.techno %}
       <li>{{ techno_info }}</li>
       {% endif %}
