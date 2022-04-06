@@ -106,6 +106,15 @@ L'équipe
 {% endif %}
 {% endcapture %}
 
+{% capture accessibilite %}
+Le statut d'accessibilité du produit est :
+{% if page.accessibility_status %}
+  <em>{{ page.investigation_outputs_url }}</em>
+{% else %}
+  <em>non-conforme</em>
+{% endif %}
+{% endcapture %}
+
 <div class="notification full-width section-grey">
   <div class="fr-container">
     <ul>
@@ -116,6 +125,7 @@ L'équipe
       <li>{{ statistiques_info }}</li>
       <li>{{ source_info }}</li>
       <li>{{ budget_info }}</li>
+      <li>{{ accessibilite }}</li>
       <li>{{ analyse_risques }}</li>
       <li>{{ dashlord }}</li>
       <li>{{ investigation_docs }}</li>
