@@ -1,9 +1,9 @@
 ---
 title: RDV Apprentissage
-mission: "Faciliter le premier contact entre les candidats à l’apprentissage et les Centre de Formation des Apprentis (CFA) "
-sponsors: 
-    - /organisations/mtei
-    - /organisations/menjs
+mission: "Faciliter le premier contact entre les candidats à l’apprentissage et les Centre de Formation des Apprentis (CFA)"
+sponsor: 
+  - /organisations/mtei
+  - /organisations/menjs
   - /organisations/mesr
   - /organisations/mtfp
 incubator: mission-apprentissage
