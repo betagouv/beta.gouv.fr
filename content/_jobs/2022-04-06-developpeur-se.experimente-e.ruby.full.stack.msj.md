@@ -66,7 +66,7 @@ Nous sommes actuellement en train d'accélérer le déploiement de ces services 
 
 **Nos attentes**
 
-Tu es en mesure de rapidement prendre en main le code existant et de travailler avec notre lead dev, en mode agile et en lien avec toute l’équipe. Tu communique facilement et sais t'organiser.
+Tu es en mesure de rapidement prendre en main le code existant et de travailler avec notre lead dev, en mode agile et en lien avec toute l’équipe.
 
 Tu peux jouer sur 2 tableaux en même temps :
 
@@ -75,7 +75,7 @@ Tu peux jouer sur 2 tableaux en même temps :
 
 En outre :
 
-* Tu es motivé(e) par la vision produit et souhaite t’impliquer dans les challenges techniques et fonctionnels à relever avec comme seul objectif l’impact pour les bénéficiaires, agents et usagers ;.
+* Tu es motivé(e) par la vision produit et souhaite t’impliquer dans les challenges techniques et fonctionnels à relever avec comme seul objectif l’impact pour les bénéficiaires, agents et usagers ;
 * Tu es ingénieux/ingénieuse et tu sais maximiser les ressources à ta disposition ;
 * Tu sais organiser et prioriser ton travail pour tester rapidement les hypothèses et maximiser l’impact de tes actions sur les usager ;
 * Tu es frugal : peu et stable est mieux que grand et fragile.
