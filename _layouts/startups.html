@@ -226,13 +226,13 @@ layout: default
     var incubatorValue = urlParams.get('incubateur');
     var usertypesValue = urlParams.get('usertypes');
     var usertypes = [
-        { id: "etablissement-scolaire", title: "Etablissements scolaires et d'enseignement supérieur"},
+        { id: "particulier", title: "Particuliers" },
         { id: "etat", title: "Services de l'État" },
-        { id: "particulier", title: "Particulier" },
         { id: "entreprise", title: "Entreprises et professionels" },
-        { id: "collectivite-territoriale", title: "Collectivités Terrioriales" },
+        { id: "collectivite-territoriale", title: "Collectivités Territoriales" },
+        { id: "association", title: "Associations" }
+        { id: "etablissement-scolaire", title: "Etablissements scolaires et d'enseignement supérieur"},
         { id: "parlement", title: "Parlement" },
-        { id: "association", title: "Association" }
     ]
     data = generateDataWithHtmlCards(data);
     createIncubatorSelect(data, incubators, incubatorValue);
