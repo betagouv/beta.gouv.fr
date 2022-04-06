@@ -71,10 +71,10 @@ Vous avez entre 3 et 5 années d’expérience dans le développement de produit
 **Intégrer la Brigade, c'est obtenir :**
 
 - Un CDD au sein de la Direction Interministérielle du Numérique jusqu'au 31 décembre 2023.
-- Un salaire de 3500 euros net pour des profils ayant moins de 5 ans d'expérience, 4000 euros net entre 5 et 9 ans d'expérience, et sur dossier pour 10 ans et plus.
+- Une rémunération selon le profil et l’expérience.
 - L'accès à une communauté d'entrepreneurs publics d'environ 700 personnes présentes dans l'ensemble des Ministères et sur tout le territoire.
 - Le droit de télétravailler à raison de 2 jours par semaine et 3 jours dans nos bureaux de Lyon, Paris ou Rennes.
 
 ## Comment candidater ?
 
-Envoyer un CV et un mail de présentation à [brigade@beta.gouv.fr](mailto:brigade@beta.gouv.fr)
+Envoyer un CV et un mail de présentation à [recrutement-brigade@beta.gouv.fr](mailto:recrutement-brigade@beta.gouv.fr)
