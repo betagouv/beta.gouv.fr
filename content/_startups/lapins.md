@@ -18,7 +18,8 @@ stats_url: https://www.rdv-solidarites.fr/stats/
 contact: contact@rdv-solidarites.fr
 usertypes:
   - collectivite-territoriale
-  - usager
+  - particulier
+  - association
 ---
 
 ## Des milliers de lapins dans les Maisons départementales de solidarité !
