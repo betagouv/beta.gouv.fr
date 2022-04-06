@@ -4,7 +4,7 @@ var USERTYPES = {
     "etat": "Services de l'État",
     "particulier": "Particuliers",
     "entreprise": "Entreprises et professionels",
-    "collectivite-territoriale": "Collectivités Territoriales",
+    "collectivite-territoriale": "Collectivités territoriales",
     "parlement": "Parlement",
     "association": "Associations"
 }
