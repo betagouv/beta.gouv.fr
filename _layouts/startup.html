@@ -77,6 +77,17 @@ L’équipe ne communique pas encore sur son budget.
 Technologies utilisées : {{ page.techno | join: ", " }}
 {% endcapture %}
 
+{% capture analyse_risques %}
+L'équipe
+{% if page.analyse_risques_url %}
+  a réalisé un atelier <a href="{{ page.analyse_risques_url }}" title="Analyse de risques de {{ page.title }}"> d'analyse de risques</a>.
+{% elif page.analyse_risques %}
+  a réalisé un atelier d'analyse de risques mais ne le rend pas encore public.
+{% else %}
+  <em>n'a pas encore réalisé son atelier d'analyse de risques.</em>
+{% endif %}
+{% endcapture %}
+
 <div class="notification full-width section-grey">
   <div class="fr-container">
     <ul>
@@ -87,6 +98,7 @@ Technologies utilisées : {{ page.techno | join: ", " }}
       <li>{{ statistiques_info }}</li>
       <li>{{ source_info }}</li>
       <li>{{ budget_info }}</li>
+      <li>{{ analyse_risques }}</li>
       {% if page.techno %}
       <li>{{ techno_info }}</li>
       {% endif %}
