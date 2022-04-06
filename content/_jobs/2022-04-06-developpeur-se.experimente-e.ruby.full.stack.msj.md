@@ -108,8 +108,8 @@ Félicie, intrapreneure (magistrate) ;\
 Delphine, intrapreneure (directrice pénitentiaire) ;\
 Baptiste, coach beta.gouv.fr (coach produit & design de services publics) ;\
 Rémy, lead développeur ;\
-Johan, chargée de déploiement ;\
-Alexia, chargée de déploiement.
+Alexia, chargée de déploiement;\
+Johan, chargée de déploiement.
 
 **Modalités :**
 
