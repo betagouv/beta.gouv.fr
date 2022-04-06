@@ -97,6 +97,15 @@ Le suivi des bonnes pratiques de ce produit
 {% endif %}
 {% endcapture %}
 
+{% capture investigation_docs %}
+L'équipe 
+{% if page.investigation_outputs_url %}
+  a publié <a href="{{ page.investigation_outputs_url }}" title="Documents d'investigation de {{ page.title }}"> les rendus de sa phase d'investigation</a>.
+{% else %}
+  <em>n'a pas publié les rendus de sa phase d'investigation.</em>
+{% endif %}
+{% endcapture %}
+
 <div class="notification full-width section-grey">
   <div class="fr-container">
     <ul>
@@ -109,6 +118,7 @@ Le suivi des bonnes pratiques de ce produit
       <li>{{ budget_info }}</li>
       <li>{{ analyse_risques }}</li>
       <li>{{ dashlord }}</li>
+      <li>{{ investigation_docs }}</li>
       {% if page.techno %}
       <li>{{ techno_info }}</li>
       {% endif %}
