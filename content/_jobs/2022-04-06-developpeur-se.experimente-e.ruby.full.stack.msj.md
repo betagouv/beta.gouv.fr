@@ -10,11 +10,11 @@ L’équipe Mon Suivi Justice recherche un développeur ou une développeuse Ful
 
 **Contexte**
 
-Le suivi des personnes qui font l’objet d’une mesure judiciaire (les “Personnes Placées Sous Main de Justice” ou PPSMJ) s’exerce sous la responsabilité conjointe des Tribunaux Judiciaires et des Services Pénitentiaires d’Insertion et de Probation.
+Le suivi des personnes qui font l’objet d’une mesure judiciaire (les Personnes Placées Sous Main de Justice ou PPSMJ) s’exerce sous la responsabilité conjointe des Tribunaux Judiciaires et des Services Pénitentiaires d’Insertion et de Probation.
 
 En première ligne de ce service public à forte dimension sociale, les JAP (Juges d’Application des Peines) décident de l’aménagement des peines des condamnés et les CPIP (conseillers pénitentiaires d’insertion et de probation) les accompagnent dans leur parcours individualisé au sein du “milieu ouvert”, par des rendez-vous réguliers.
 
-À l’occasion de chacun de ces rendez-vous, les “PPSMJ” doivent attester des démarches qu’elles entreprennent en présentant des justificatifs (attestation d’emploi, certificat de domiciliation, certificat médical, etc.).
+À l’occasion de chacun de ces rendez-vous, les PPSMJ doivent attester des démarches qu’elles entreprennent en présentant des justificatifs (attestation d’emploi, certificat de domiciliation, certificat médical, etc.).
 
 Lorsque les PPSMJ n’arrivent pas à faire face à ces obligations, elles sont convoquées par les Juges d’Application des Peines, qui peuvent prononcer des sanctions pouvant provoquer leur (ré)incarcération.
 
@@ -70,8 +70,8 @@ Tu es en mesure de rapidement prendre en main le code existant et de travailler 
 
 Tu peux jouer sur 2 tableaux en même temps :
 
-* L’exploration : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
-* L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module ! »
+* L’exploration : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain »
+* L’exploitation : « Il est temps de refactorer et de mettre du monitoring sur ce module »
 
 En outre :
 
