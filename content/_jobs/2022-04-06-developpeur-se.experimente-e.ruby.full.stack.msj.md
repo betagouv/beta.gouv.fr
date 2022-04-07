@@ -93,10 +93,10 @@ En outre :
 
 * 3 ans d’expérience minimum ;
 * Technologie 1 : Ruby/Rails ;
-* Technologie 2 : JavaScript (de l'expérience sur Node.js serait un plus car ce langage pourrait être utilisé par Mon Suivi Justice dans le futur) ;
+* Technologie 2 : JavaScript (de l'expérience sur Node.js serait un plus car ce langage pourrait être utilisé pour de futurs projets) ;
 * Suivi de production (application déployée sur Scalingo, suivi des logs avec Sentry) ;
 
-Savoir travailler en mode lean agile, en lien avec des profils métiers profanes par rapport au numérique.
+Savoir travailler en mode agile, en lien avec des profils métiers profanes par rapport au numérique.
 
 N’hésite pas à consulter notre kit de démarrage et nos normes de conduite sur [le site de la communauté](https://doc.incubateur.net/communaute/) pour en savoir plus sur nos standards.
 
