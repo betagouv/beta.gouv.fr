@@ -19,6 +19,7 @@ usertypes:
   - association
   - entreprise
   - etat
+  - collectivite-territoriale
 ---
 
 API Entreprise est une API qui permet de récupérer des données des entreprises comme la forme juridique, les mandataires sociaux, etc. ainsi que des pièces justificatives (attestations fiscales, sociales…) en toute sécurité.
