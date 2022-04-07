@@ -107,6 +107,43 @@ collections:
         name: budget_url
         widget: string
         required: false
+      - label: Lien vers la page Dashlord
+        hint : >
+          Pour inscrire ta startup sur dashlord.incubateur.net, visite https://github.com/betagouv/dashlord/blob/main/dashlord.yml
+        name: dashlord_url
+        widget: string
+        required: false
+      - label: Analyse de risque
+        hint : >
+          Indique si ta startup à déjà réalisé un atelier d'analyse de risque agile.
+        name: analyse_risques
+        widget: boolean
+        required: false
+      - label: Lien vers l'analyse de risques
+        hint : >
+          Si ta SE a rendu son analyse de risques publique, tu peux indiquer le lien vers ce document ici.
+        name: analyse_risques_url
+        widget: string
+        required: false
+      - label: Lien vers les rendus de la phase d'investigation
+        hint : >
+          Tu peux publier les documents écrits pendant la phase d'investigation de ta SE (synthèse, présentation de comité, etc.)
+        name: investigation_outputs_url
+        widget: string
+        required: false
+      - label: Statut d'accessibilité
+        hint : >
+          Le statut d'accessibilité de ton produit. Si tu ne sais pas remplir ce champs, indique "non conforme".
+        name: accessibility_status
+        widget: list
+        collapsed: false
+        fields:
+          - label: Sponsor
+            name: name
+            widget: select
+            default: "non conforme"
+            options: ["totalement conforme", "partiellement conforme", "non conforme"]
+        required: false
       - label: Évènements marquants
         name: events
         label_singular: évènement marquant
