@@ -26,7 +26,7 @@ Chaque année, des milliers de convocations judiciaires ne sont pas honorées. C
 
 Après un an d’existence, la startup Mon Suivi Justice a développé une solution permettant aux Personnes Placées Sous Main de Justice d’honorer plus facilement leur convocation à un rendez-vous judiciaire. Pour chaque rendez-vous les bénéficiaires reçoivent un sms de confirmation de leur rendez-vous (une fois celui-ci fixé) puis un rappel 48h avant le rendez-vous.
 
-Nous avons également développé un site d’information pour permettre aux personnes de mieux comprendre les enjeux de leur suivi, accessible sur https://www.mon-suivi-justice.beta.gouv.fr. Nos usagers reçoivent également un lien du site dans tous les sms que nous leur envoyons.
+Nous avons également développé un site d’information pour permettre aux personnes de mieux comprendre les enjeux de leur suivi, accessible sur [mon-suivi-justice.beta.gouv.fr](https://www.mon-suivi-justice.beta.gouv.fr). Nos usagers reçoivent également un lien du site dans tous les sms que nous leurs envoyons.
 
 Depuis mars 2022, nous avons lancé une application accessible par les PPSMJ. Cette application leur permettra de voir toutes les informations quant à leur prochain rendez-vous. Elle sera rapidement enrichie par des fonctionnalités permettant de suivre les actions de chaque personne au cours de son suivi, notamment en matière de réinsertion.
 
@@ -44,7 +44,7 @@ Axe 1. Un outil métier, utilisé par les agents du Tribunal et du SPIP qui leur
 
 Ce produit est central, en développement constant, et nécessite déjà de la maintenance.
 
-Axe 2. Un site d’information simplifié qui permet aux PPSMJ de :
+Axe 2. Un site d’information qui permet aux PPSMJ de :
 
 * préparer leur rendez-vous
 * mieux comprendre leur peine
@@ -124,9 +124,9 @@ Organisation de travail flexible, télétravail OK (déplacement à Nanterre au 
 
 **Contact:**
 
-Rémy Maucourt : remy.maucourt@beta.gouv.fr
-
 Damien Le Thiec : damien.le-thiec@beta.gouv.fr
+
+Rémy Maucourt : remy.maucourt@beta.gouv.fr
 
 Delphine Deneubourg : delphine.deneubourg@beta.gouv.fr
 
