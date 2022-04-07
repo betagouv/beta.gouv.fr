@@ -42,7 +42,7 @@ Axe 1. Un outil métier, utilisé par les agents du Tribunal et du SPIP qui leur
 * contacter facilement les PPSMJ qui ont manqué leur rendez-vous
 * accéder facilement aux rendez-vous prévus ou en cours, ainsi qu’à l’historique des rendez-vous de chaque PPSMJ
 
-Ce produit est central, en développement constant, et nécessite déjà de la maintenance.
+Ce produit est central, en développement constant, et nécessite de la maintenance.
 
 Axe 2. Un site d’information qui permet aux PPSMJ de :
 
@@ -54,9 +54,9 @@ Le site est stable depuis quelques temps, les développements à venir sont mine
 
 Axe 3. Une application web permettant le suivi de leurs obligations pour les PPSMJ:
 
-* Suivi leurs rendez-vous
-* Contacter leur CPIP référent
-* Demander la modification d'un rendez-vous
+* suivre leurs rendez-vous
+* contacter leur CPIP référent
+* demander la modification d'un rendez-vous
 
 Ce projet arrive tout juste en production, il reste beaucoup de travail technique et produit.
 
