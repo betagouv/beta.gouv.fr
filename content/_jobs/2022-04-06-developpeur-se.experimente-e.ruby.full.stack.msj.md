@@ -12,21 +12,21 @@ L’équipe Mon Suivi Justice recherche un développeur ou une développeuse Ful
 
 Le suivi des personnes qui font l’objet d’une mesure judiciaire (les Personnes Placées Sous Main de Justice ou PPSMJ) s’exerce sous la responsabilité conjointe des Tribunaux Judiciaires et des Services Pénitentiaires d’Insertion et de Probation.
 
-En première ligne de ce service public à forte dimension sociale, les JAP (Juges d’Application des Peines) décident de l’aménagement des peines des condamnés et les CPIP (conseillers pénitentiaires d’insertion et de probation) les accompagnent dans leur parcours individualisé au sein du “milieu ouvert”, par des rendez-vous réguliers.
+En première ligne de ce service public, les JAP (Juges d’Application des Peines) décident de l’aménagement des peines des condamnés et les CPIP (conseillers pénitentiaires d’insertion et de probation) les accompagnent dans leur parcours individualisé au sein du “milieu ouvert”, par des rendez-vous réguliers.
 
 À l’occasion de chacun de ces rendez-vous, les PPSMJ doivent attester des démarches qu’elles entreprennent en présentant des justificatifs (attestation d’emploi, certificat de domiciliation, certificat médical, etc.).
 
 Lorsque les PPSMJ n’arrivent pas à faire face à ces obligations, elles sont convoquées par les Juges d’Application des Peines, qui peuvent prononcer des sanctions pouvant provoquer leur (ré)incarcération.
 
-Notre ambition est ainsi de comprendre comment rendre la justice et la probation plus accessible pour les PPSMJ tout en aidant concrètement les professionnels de terrain.
+Notre ambition est ainsi de comprendre comment rendre la justice et la probation plus accessibles pour les PPSMJ tout en aidant concrètement les professionnels de terrain.
 
 **Principal objectif du service**
 
-Chaque année, des milliers de convocations judiciaires ne sont pas honorées. Cela représente 9000 convocations manquées dans le seul département des Hauts-de-Seine. Cet absentéisme est multifactoriel (oubli, mauvaise compréhension, absence de volonté,…), entraîne un risque important pour l’usager (réincarcération, échec de l’insertion) et de nombreux coûts pour l’administration.
+Chaque année, des milliers de convocations judiciaires ne sont pas honorées. Cela représente 9000 convocations manquées dans le seul département des Hauts-de-Seine. Cet absentéisme multifactoriel (oubli, mauvaise compréhension, absence de volonté,…) entraîne un risque important pour l’usager (réincarcération, échec de l’insertion) et de nombreux coûts pour l’administration.
 
 Après un an d’existence, la startup Mon Suivi Justice a développé une solution permettant aux Personnes Placées Sous Main de Justice d’honorer plus facilement leur convocation à un rendez-vous judiciaire. Pour chaque rendez-vous les bénéficiaires reçoivent un sms de confirmation de leur rendez-vous (une fois celui-ci fixé) puis un rappel 48h avant le rendez-vous.
 
-Nous avons également développé un site d’information pour permettre aux personnes de mieux comprendre les enjeux de leur suivi, accessible sur [mon-suivi-justice.beta.gouv.fr](https://www.mon-suivi-justice.beta.gouv.fr). Nos usagers reçoivent également un lien du site dans tous les sms que nous leurs envoyons.
+Nous avons également développé un site d’information pour permettre aux personnes de mieux comprendre les enjeux de leur suivi, accessible sur [mon-suivi-justice.beta.gouv.fr](https://www.mon-suivi-justice.beta.gouv.fr). Nos usagers reçoivent également un lien du site dans tous les sms que nous leur envoyons.
 
 Depuis mars 2022, nous avons lancé une application accessible par les PPSMJ. Cette application leur permettra de voir toutes les informations quant à leur prochain rendez-vous. Elle sera rapidement enrichie par des fonctionnalités permettant de suivre les actions de chaque personne au cours de son suivi, notamment en matière de réinsertion.
 
@@ -82,7 +82,7 @@ En outre :
 
 **Profil recherché**
 
-* Développeur/Développeuse full-stack expérimenté 💪👩‍💻 ;
+* Développeur/Développeuse full-stack expérimenté(e) 💪👩‍💻 ;
 * Méthode et rigueur (software craftsmanship) et appétence pour l’XP 🙏🏽 ;
 * Connaissance ou appétence pour le secteur public 🇫🇷 ;
 * Avoir le sens de l’écoute et savoir travailler en équipe (Une expérience dans l’open source contributif est un plus) 🙂 ;
@@ -104,13 +104,13 @@ Nos repo Github sont accessibles [ici](https://github.com/betagouv/mon-suivi-jus
 
 **L’équipe** :
 
-Félicie, intrapreneure (magistrate) ;\
-Delphine, intrapreneure (directrice pénitentiaire) ;\
+Félicie, intrapreneuse (magistrate) ;\
+Delphine, intrapreneuse (directrice pénitentiaire) ;\
 Baptiste, coach beta.gouv.fr (coach produit & design de services publics) ;\
 Rémy, lead développeur ;\
 Damien, développeur ;\
 Alexia, chargée de déploiement;\
-Johan, chargée de déploiement.
+Johan, chargé de déploiement.
 
 **Modalités :**
 
@@ -127,9 +127,3 @@ Organisation de travail flexible, télétravail OK (déplacement à Nanterre au 
 Damien Le Thiec : damien.le-thiec@beta.gouv.fr
 
 Rémy Maucourt : remy.maucourt@beta.gouv.fr
-
-Delphine Deneubourg : delphine.deneubourg@beta.gouv.fr
-
-Félicie Callipel : felicie.callipel@beta.gouv.fr
-
-Baptiste N’Tsama : baptiste.ntsama@beta.gouv.fr
