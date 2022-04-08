@@ -28,9 +28,8 @@ Initialement porté par Pôle emploi, Avril est repris par la Fabrique du Minist
 
 Pour utiliser Avril:
 1/ Renseigne ton métier
-2/ choisi ton diplôme
-3/ rempli ton dossier de recevabilité (encore plus simple pour les personnes inscrites à Pôle emploi)
-4/ transmet ton dossier au certificateur et démarre ta VAE!
+2/ choisis ton diplôme
+3/ remplis ton dossier de recevabilité (encore plus simple pour les personnes inscrites à Pôle emploi)
+4/ transmets ton dossier au certificateur et démarre ta VAE!
 
 En attendant l'application REVA, Avril reste disponible pour toutes celles et tous ceux qui souhaitent se lancer dans la VAE et obtenir un diplôme.
-link: https://beta.gouv.fr/startups/reva.html
