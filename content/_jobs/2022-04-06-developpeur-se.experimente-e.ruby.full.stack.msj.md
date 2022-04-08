@@ -127,3 +127,7 @@ Organisation de travail flexible, télétravail OK (déplacement à Nanterre au 
 Damien Le Thiec : damien.le-thiec@beta.gouv.fr
 
 Rémy Maucourt : remy.maucourt@beta.gouv.fr
+
+Baptiste N’Tsama : baptiste.ntsama@beta.gouv.fr
+
+Delphine Deneubourg : delphine.deneubourg@beta.gouv.fr
