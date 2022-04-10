@@ -1,6 +1,6 @@
 ---
 roles: Développeur/Développeuse front avec sensibilité pour l'UI design 💪👩‍💻
-open: true
+open: false
 junior: true
 date: 2022-03-21T09:44:48.793Z
 startup: sndv_maritime
