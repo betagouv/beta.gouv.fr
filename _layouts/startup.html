@@ -107,11 +107,10 @@ L'équipe
 {% endcapture %}
 
 {% capture accessibilite %}
-Le statut d'accessibilité du produit est :
 {% if page.accessibility_status %}
-  <em>{{ page.investigation_outputs_url }}</em>
-{% else %}
-  <em>non-conforme</em>
+Le statut d'accessibilité du produit est : <em>{{ page.investigation_outputs_url }}</em>
+{% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status='transfer' %}
+Le statut d'accessibilité du produit est : <em>non-conforme</em>
 {% endif %}
 {% endcapture %}
 
@@ -125,17 +124,7 @@ Le statut d'accessibilité du produit est :
       <li>{{ statistiques_info }}</li>
       <li>{{ source_info }}</li>
       <li>{{ budget_info }}</li>
-      {% if page.accessibility_status %}
-        <li>
-         Le statut d'accessibilité du produit est :
-         <em>{{ page.investigation_outputs_url }}</em>
-        </li>
-       {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status='transfert' %}
-       <li>
-        Le statut d'accessibilité du produit est :
-        <em>non-conforme</em>
-       </li>
-      {% endif %}
+      <li>{{ accessibilite }}</li>
       <li>{{ analyse_risques }}</li>
       <li>{{ dashlord }}</li>
       <li>{{ investigation_docs }}</li>
