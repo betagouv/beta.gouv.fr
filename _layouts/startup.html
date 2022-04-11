@@ -78,13 +78,12 @@ Technologies utilisées : {{ page.techno | join: ", " }}
 {% endcapture %}
 
 {% capture analyse_risques %}
-L'équipe
 {% if page.analyse_risques_url %}
-  a réalisé un atelier <a href="{{ page.analyse_risques_url }}" title="Analyse de risques de {{ page.title }}"> d'analyse de risques</a>.
+  L'équipe a réalisé un atelier <a href="{{ page.analyse_risques_url }}" title="Analyse de risques de {{ page.title }}"> d'analyse de risques</a>.
 {% elsif page.analyse_risques %}
-  a réalisé un atelier d'analyse de risques mais ne le rend pas encore public.
-{% else %}
-  <em>n'a pas encore réalisé son atelier d'analyse de risques.</em>
+  L'équipe a réalisé un atelier d'analyse de risques mais ne le rend pas encore public.
+{% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status='transfer' %}
+  <em>n'a pas encore réalisé ou publié son atelier d'analyse de risques.</em>
 {% endif %}
 {% endcapture %}
 
@@ -94,15 +93,6 @@ Le suivi des bonnes pratiques de ce produit
   est disponible sur <a href="{{ page.dashlord_url }}" title="Dashlord de {{ page.title }}"> Dashlord</a>.
 {% else %}
   <em>n'est pas encore disponible sur <a href="https://dashlord.incubateur.net" title="Dashlord">Dashlord</a>.</em>
-{% endif %}
-{% endcapture %}
-
-{% capture investigation_docs %}
-L'équipe 
-{% if page.investigation_outputs_url %}
-  a publié <a href="{{ page.investigation_outputs_url }}" title="Documents d'investigation de {{ page.title }}"> les rendus de sa phase d'investigation</a>.
-{% else %}
-  <em>n'a pas publié les rendus de sa phase d'investigation.</em>
 {% endif %}
 {% endcapture %}
 
