@@ -9,7 +9,12 @@ missions:
     end: 2021-12-19
     status: independent
     employer: lazone
+  - start: 2021-04-11
+    end: 2022-12-31
+    status: independent
+    employer: Malt
 startups:
+  - sppnaut
 previously:
   - territoires-en-transitions
   - mon-entreprise
