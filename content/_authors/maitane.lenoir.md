@@ -4,6 +4,7 @@ domaine: Design
 role: Designer
 avatar: https://avatars3.githubusercontent.com/maiwann?s=600
 link: http://www.maiwann.net/
+github: maiwann
 missions:
   - start: 2018-04-10
     end: 2021-12-19
