@@ -125,7 +125,17 @@ Le statut d'accessibilité du produit est :
       <li>{{ statistiques_info }}</li>
       <li>{{ source_info }}</li>
       <li>{{ budget_info }}</li>
-      <li>{{ accessibilite }}</li>
+      {% if page.accessibility_status %}
+        <li>
+         Le statut d'accessibilité du produit est :
+         <em>{{ page.investigation_outputs_url }}</em>
+        </li>
+       {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status='transfert' %}
+       <li>
+        Le statut d'accessibilité du produit est :
+        <em>non-conforme</em>
+       </li>
+      {% endif %}
       <li>{{ analyse_risques }}</li>
       <li>{{ dashlord }}</li>
       <li>{{ investigation_docs }}</li>
