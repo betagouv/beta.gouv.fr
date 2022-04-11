@@ -31,16 +31,16 @@ layout: null
                 ]
             {% if startup.analyse_risques %}
             , "analyse_risques": "{{ startup.analyse_risques}}"
-            { % endif %}
+            {% endif %}
             {% if startup.analyse_risques_url %}
             , "analyse_risques_url": "{{ startup.analyse_risques_url}}"
-            { % endif %}
+            {% endif %}
             {% if startup.dashlord_url %}
             , "dashlord_url": "{{ startup.dashlord_url}}"
-            { % endif %}
+            {% endif %}
             {% if startup.accessibility_status %}
             , "accessibility_status": "{{ startup.accessibility_status}}"
-            { % endif %}
+            {% endif %}
             }
         , "relationships":
             { "incubator":
