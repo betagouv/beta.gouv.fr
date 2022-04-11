@@ -5,12 +5,11 @@ domaine: Développement
 github: rebeccadumazert
 missions:
   - start: 2022-04-11
-    end: 2022-12-31
-    status: service
-    employer: Scopyleft
-startups:
-  - lapins
+    end: 2023-12-31
+    status: admin
+    employer: DINUM
 badges:
   - segur
 ---
 
+Développeuse web
