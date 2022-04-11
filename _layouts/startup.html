@@ -79,11 +79,11 @@ Technologies utilisées : {{ page.techno | join: ", " }}
 
 {% capture analyse_risques %}
 {% if page.analyse_risques_url %}
-  L'équipe a réalisé un atelier <a href="{{ page.analyse_risques_url }}" title="Analyse de risques de {{ page.title }}"> d'analyse de risques</a>.
+<li>L'équipe a réalisé un atelier <a href="{{ page.analyse_risques_url }}" title="Analyse de risques de {{ page.title }}"> d'analyse de risques</a>.</li>
 {% elsif page.analyse_risques %}
-  L'équipe a réalisé un atelier d'analyse de risques mais ne le rend pas encore public.
+  <li>L'équipe a réalisé un atelier d'analyse de risques mais ne le rend pas encore public.</li>
 {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status='transfer' %}
-  <em>n'a pas encore réalisé ou publié son atelier d'analyse de risques.</em>
+<li>L'équipe <em>n'a pas encore réalisé ou publié son atelier d'analyse de risques.</em></li>
 {% endif %}
 {% endcapture %}
 
@@ -98,9 +98,9 @@ Le suivi des bonnes pratiques de ce produit
 
 {% capture accessibilite %}
 {% if page.accessibility_status %}
-Le statut d'accessibilité du produit est : <em>{{ page.investigation_outputs_url }}</em>
+<li>Le statut d'accessibilité du produit est : <em>{{ page.investigation_outputs_url }}</em></li>
 {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status='transfer' %}
-Le statut d'accessibilité du produit est : <em>non-conforme</em>
+<li>Le statut d'accessibilité du produit est : <em>non-conforme</em></li>
 {% endif %}
 {% endcapture %}
 
@@ -114,10 +114,9 @@ Le statut d'accessibilité du produit est : <em>non-conforme</em>
       <li>{{ statistiques_info }}</li>
       <li>{{ source_info }}</li>
       <li>{{ budget_info }}</li>
-      <li>{{ accessibilite }}</li>
-      <li>{{ analyse_risques }}</li>
+      {{ accessibilite }}
+      {{ analyse_risques }}
       <li>{{ dashlord }}</li>
-      <li>{{ investigation_docs }}</li>
       {% if page.techno %}
       <li>{{ techno_info }}</li>
       {% endif %}
