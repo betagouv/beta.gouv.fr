@@ -12,9 +12,9 @@ layout: null
         , "attributes":
             { "name"  : "{{ startup.title }}"
             , "pitch" : "{{ startup.mission }}"{% if startup.stats %}
-            , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}{% if startup.link %}
+            , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}
             {% if startup.budget_url %}
-            ,"budget_url": "{{ startup.budget_url }}"{% endif %}
+            ,"budget_url": "{{ startup.budget_url }}"{% endif %}{% if startup.link %}
             , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
             , "repository": "{{ startup.repository}}"{% endif %}
             , "contact": "{{startup.contact}}"
