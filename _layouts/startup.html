@@ -82,7 +82,7 @@ Technologies utilisées : {{ page.techno | join: ", " }}
 <li>L'équipe a réalisé un atelier <a href="{{ page.analyse_risques_url }}" title="Analyse de risques de {{ page.title }}"> d'analyse de risques</a>.</li>
 {% elsif page.analyse_risques %}
   <li>L'équipe a réalisé un atelier d'analyse de risques mais ne le rend pas encore public.</li>
-{% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status='transfer' %}
+{% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
 <li>L'équipe <em>n'a pas encore réalisé ou publié son atelier d'analyse de risques.</em></li>
 {% endif %}
 {% endcapture %}
@@ -99,7 +99,7 @@ Le suivi des bonnes pratiques de ce produit
 {% capture accessibilite %}
 {% if page.accessibility_status %}
 <li>Le statut d'accessibilité du produit est : <em>{{ page.investigation_outputs_url }}</em></li>
-{% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status='transfer' %}
+{% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
 <li>Le statut d'accessibilité du produit est : <em>non-conforme</em></li>
 {% endif %}
 {% endcapture %}
