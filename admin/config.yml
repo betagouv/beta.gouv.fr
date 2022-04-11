@@ -125,12 +125,6 @@ collections:
         name: analyse_risques_url
         widget: string
         required: false
-      - label: Lien vers les rendus de la phase d'investigation
-        hint : >
-          Tu peux publier les documents écrits pendant la phase d'investigation de ta SE (synthèse, présentation de comité, etc.)
-        name: investigation_outputs_url
-        widget: string
-        required: false
       - label: Statut d'accessibilité
         hint : >
           Le statut d'accessibilité de ton produit. Si tu ne sais pas remplir ce champs, indique "non conforme".

@@ -163,8 +163,6 @@ mapping:
     type:      str
   "dashlord_url":
     type:      str 
-  "investigation_outputs_url":
-    type:      str
   "accessibility_status":
     type:      str
     enum:
