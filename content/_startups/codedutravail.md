@@ -25,6 +25,7 @@ techno:
   - Elasticsearch
 usertypes:
   - entreprise
+  - particulier
 ---
 
 ## Qu’est-ce que le Code du travail numérique ?
