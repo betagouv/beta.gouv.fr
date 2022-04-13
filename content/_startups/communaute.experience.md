@@ -1,10 +1,12 @@
 ---
 title: Communauté Expérience
 mission: Améliorer l'expérience des membres de la communauté
+sponsors:
+  - name: /organisations/dinum
 incubator: dinum
 contact: communaute-experience@beta.gouv.fr
 phases:
-  - name: construction
+  - name: investigation
     start: 2022-03-31
 ---
 ## Le problème
