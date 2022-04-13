@@ -73,7 +73,6 @@ collections:
       - label: Administration sponsor ou partenaire
         name: sponsors
         collapsed: false
-        multiple: false
         valueField: "/organisations/{{slug}}"
         displayFields: ["{{name}} ({{slug}})"]
         searchFields: [slug, name]
