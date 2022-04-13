@@ -72,16 +72,15 @@ collections:
         widget: string
       - label: Administration sponsor ou partenaire
         name: sponsors
-        widget: list
         collapsed: false
-        fields:
-          - label: Sponsor
-            name: name
-            widget: relation
-            valueField: "/organisations/{{slug}}"
-            displayFields: ["{{name}} ({{slug}})"]
-            searchFields: [slug, name]
-            collection: organisations
+        valueField: "/organisations/{{slug}}"
+        displayFields: ["{{name}} ({{slug}})"]
+        searchFields: [slug, name]
+        collection: organisations
+        label_singular: Sponsor
+        <<: *relation_default_options
+        multiple: true
+        required: true
       - <<: *relation_default_options
         label: Quel est l'incubateur qui t'accompagne ?
         name: incubator
