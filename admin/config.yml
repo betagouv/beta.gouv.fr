@@ -76,7 +76,6 @@ collections:
         collapsed: false
         fields:
           - label: Sponsor
-            name: name
             widget: relation
             valueField: "/organisations/{{slug}}"
             displayFields: ["{{name}} ({{slug}})"]
