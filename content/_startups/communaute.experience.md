@@ -2,7 +2,7 @@
 title: Communauté Expérience @ beta.gouv.fr
 mission: Améliorer l'expérience des membres de la communauté
 sponsors:
-  - name: /organisations/dinum
+  - /organisations/dinum
 incubator: dinum
 contact: communaute-experience@beta.gouv.fr
 phases:
