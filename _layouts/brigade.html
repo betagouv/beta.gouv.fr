@@ -8,6 +8,10 @@ site.lang | default: "fr" -%}
 {% assign fullnames = "Rebecca Dumazert|Benoit Serrano|Bréanne Mallat|Clémence Lopez|Denis Baudot|Inès Hijazi|Lisa
 Durand|Mael Inizan|Mélodie Dahi|Anna-Livia Gomart|Stéphane Maniaci" | split: "|" %}
 
+{% assign title_startups_brigade = "JeVeuxAider.gouv.fr|Santé Psy Étudiant" | split: "|" %}
+
+{% assign startups_brigade = site.startups | where_exp: "startup", "title_startups_brigade contains startup.title" %}
+
 {%- assign authors = site.authors | where_exp: "author", "fullnames contains author.fullname" -%}
 
 {%- include hero-page.html title=page.title -%}
@@ -16,11 +20,11 @@ Durand|Mael Inizan|Mélodie Dahi|Anna-Livia Gomart|Stéphane Maniaci" | split: "
         <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
             <div class="fr-col fr-col-12 fr-col-md-6">
                 <h1>La Brigade de beta.gouv</h1>
-                <h2 section-highlight>
+                <h3 section-highlight>
                     <span class="section-highlight">Vous portez la création d’un service public numérique à fort
                         potentiel d’impact ?<br /> </span>
                     Découvrez la Brigade, l’équipe produit du programme beta.gouv
-                </h2>
+                </h3>
                 <br />
                 <a class="fr-btn fr-btn--md fr-enlarge-link" href="mailto:brigade@beta.gouv.fr">Contacter la Brigade</a>
             </div>
@@ -34,9 +38,8 @@ Durand|Mael Inizan|Mélodie Dahi|Anna-Livia Gomart|Stéphane Maniaci" | split: "
 </section>
 <section class="fr-py-2w fr-pt-4w">
     <div class="fr-container">
-        <h2>La Brigade</h2>
         <div class="fr-grid-row fr-grid-row--gutters">
-            <div class="fr-col-md-10 fr-col-xs-10">
+            <div class="fr-col-md-9 fr-col-xs-9">
                 <p>La Brigade de beta.gouv est une équipe multi-disciplinaire d’<b>agents publics experts du numérique
                         (entrepreneuriat, tech, design, et déploiement)</b>. Elle intervient en appui des cabinets
                     ministériels
@@ -54,8 +57,8 @@ Durand|Mael Inizan|Mélodie Dahi|Anna-Livia Gomart|Stéphane Maniaci" | split: "
                         numériques</b> ont été crées à travers l’approche <b>Startups d’États</b>.
                 </p>
             </div>
-            <div class="fr-col-md-2 fr-col-xs-2">
-                <img src="/assets/images/icon_brigade.svg" alt="Illustration urgence" />
+            <div class="fr-col-md-3 fr-col-xs-3">
+                <img src="/assets/images/placeholder.png" alt="Placeholder" />
             </div>
         </div>
 
@@ -64,67 +67,71 @@ Durand|Mael Inizan|Mélodie Dahi|Anna-Livia Gomart|Stéphane Maniaci" | split: "
 <section class="fr-py-6w">
     <div class="fr-container">
         <div class="fr-grid-row fr-grid-row--center">
-            <div>
-                <!-- Enlever le bleu lavande, inverser les tailles de titres, enlever le gris -->
-                <h2 class="fr-pb-6w section-title">Nous intervenons pour...</h2>
-                <div class="fr-grid-row fr-grid-row--gutters">
-                    <div class="fr-col-12 fr-col-md-4">
-                        <div class="fr-card--no-arrow">
-                            <div class="fr-card__body">
-                                <h3 class="fr-card__desc">
-                                    Gestion de crise
-                                </h3>
-                                <p class="fr-card__title"><b>Proposer et mettre en oeuvre rapidement une solution dans
-                                        une situation de crise ou d’urgence</b></p>
-                                </p>
-                            </div>
+            <h2 class="fr-pb-6w section-title">Les domaines d'intervention de la Brigade</h2>
+            <div class="fr-grid-row fr-grid-row--gutters">
+                <div class="fr-col-12 fr-col-md-4">
+                    <div class="fr-card--no-arrow">
+                        <div class="fr-card__body">
+                            <h3 class="fr-card__desc">
+                                Gestion de crise
+                            </h3>
+                            <p class="fr-card__title"><b>Proposer et mettre en oeuvre rapidement une solution dans
+                                    une situation de crise ou d’urgence</b></p>
+                            </p>
                         </div>
                     </div>
-                    <div class="fr-col-12 fr-col-md-4">
-                        <div class="fr-card--no-arrow">
-                            <div class="fr-card__body">
-                                <h3 class="fr-card__desc">
-                                    Politique prioritaire du quinquennat
-                                </h3>
-                                <p class="fr-card__title"><b>Renforcer l’impact d’une politique prioritaire à travers le
-                                        développement de services publics numériques</b></p>
-                                <p class="fr-card__desc">
+                </div>
+                <div class="fr-col-12 fr-col-md-4">
+                    <div class="fr-card--no-arrow">
+                        <div class="fr-card__body">
+                            <h3 class="fr-card__desc">
+                                Politique prioritaire du quinquennat
+                            </h3>
+                            <p class="fr-card__title"><b>Renforcer l’impact d’une politique prioritaire à travers le
+                                    développement de services publics numériques</b></p>
+                            <p class="fr-card__desc">
 
-                                    <br /><br />
-                                    📍 Mission apprentissage <br />
-                                    📍 Plateformes de l'inclusion
-                                </p>
+                                <br /><br />
+                                📍 Mission apprentissage <br />
+                                📍 Plateformes de l'inclusion
+                            </p>
 
-                            </div>
                         </div>
                     </div>
-                    <div class="fr-col-12 fr-col-md-4">
-                        <div class="fr-card--no-arrow bg-white">
-                            <div class="fr-card__body">
-                                <h3 class="fr-card__desc">
-                                    Communs numériques interministériels
-                                </h3>
-                                <p class="fr-card__title"><b>Renforcer et soutenir l’action du réseau d’incubateurs
-                                        beta.gouv et des Startups d’États par la création de
-                                        communs</b></p>
-                                <p class="fr-card__desc"><br /><br />
-                                    📍 Tchap <br />
-                                    📍 Audioconf
-                                </p>
-                            </div>
+                </div>
+                <div class="fr-col-12 fr-col-md-4">
+                    <div class="fr-card--no-arrow bg-white">
+                        <div class="fr-card__body">
+                            <h3 class="fr-card__desc">
+                                Communs numériques interministériels
+                            </h3>
+                            <p class="fr-card__title"><b>Renforcer et soutenir l’action du réseau d’incubateurs
+                                    beta.gouv et des Startups d’États par la création de
+                                    communs</b></p>
+                            <p class="fr-card__desc"><br /><br />
+                                📍 Tchap <br />
+                                📍 Audioconf
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+        <div class="fr-container">
+            <h4 class="fr-pb-6w">Découvrez les services numériques soutenus par la Brigade</h4>
+            <div class="fr-col-12">
+                <div class="fr-grid-row fr-grid-row--gutters">
+                    {%- for startup in startups_brigade -%}
+                    {% include card-startup.html startup = startup %}
+                    {%- endfor -%}
+                </div>
+
+            </div>
+        </div>
 </section>
 <section class="fr-py-2w fr-pt-4w">
     <div class="fr-container">
         <h2>Les savoir-faire de la Brigade</h2>
-        <h3>Un positionnement interministériel</h3>
-        <p>La Brigade vise à faciliter la création et le déploiement de projets interministériels à travers des
-            savoir-faire focalisés sur :</p>
         <div class="fr-grid-row fr-grid-row--gutters">
             <div class="fr-col-md-2 fr-col-xs-2">
                 <img src="/assets/images/icon_brigade.svg" alt="Illustration Brigade" />
@@ -164,8 +171,6 @@ Durand|Mael Inizan|Mélodie Dahi|Anna-Livia Gomart|Stéphane Maniaci" | split: "
                 </p>
             </div>
         </div>
-        <h3>Une logique d’efficacité opérationnelle</h3>
-        <p>La Brigade a pour ambition de fluidifier et faciliter les démarches administratives.</p>
     </div>
 </section>
 <section class="fr-py-2w fr-pt-4w section-grey">
@@ -233,12 +238,11 @@ Durand|Mael Inizan|Mélodie Dahi|Anna-Livia Gomart|Stéphane Maniaci" | split: "
     <div class="fr-container">
         <h2>Les étapes de l'intervention de la Brigade</h2>
         <div>
-            <div class="fr-grid-row fr-grid-row--gutters fr-mb-6w">
+            <div class="fr-grid-row fr-grid-row--gutters">
                 <div class="fr-col-md-4 fr-col-xs-12">
-                    <img src="/img/programme/investigation.svg" alt="Illustration identifier le problème à résoudre"
-                        style="width: 100%;" />
+                    <img src="/assets/images/placeholder.png" alt="Placeholder" width="50%" />
                 </div>
-                <div class="fr-col-md-8 fr-px-4w fr-col-xs-12">
+                <div class="fr-col-md-8 fr-col-xs-12">
                     <span><b>Cadrage</b></span>
                     <h3>
                         Définir les conditions d'engagement de la Brigade
@@ -254,14 +258,14 @@ Durand|Mael Inizan|Mélodie Dahi|Anna-Livia Gomart|Stéphane Maniaci" | split: "
                         href="mailto:brigade@beta.gouv.fr">Rencontrer la Brigade</a>
                 </div>
             </div>
-            <br>
-            <br>
+            <br />
+            <br />
             <div class="fr-grid-row fr-grid-row--gutters">
                 <div class="fr-col-md-4 fr-col-xs-12">
-                    <img src="/img/programme/investigation.svg" alt="Illustration réaliser un service public numérique"
-                        style="width: 100%;" />
+                    <img src="/assets/images/placeholder.png" alt="Placeholder" width="50%" />
+
                 </div>
-                <div class="fr-col-md-8 fr-px-4w fr-col-xs-12">
+                <div class="fr-col-md-8 fr-col-xs-12">
                     <span><b>Investigation</b></span>
                     <h3>
                         Qualifier le problème à résoudre
@@ -273,14 +277,14 @@ Durand|Mael Inizan|Mélodie Dahi|Anna-Livia Gomart|Stéphane Maniaci" | split: "
                     qualifier le problème et imaginer des ébauches de solutions <br>
                 </div>
             </div>
-            <br>
-            <br>
+            <br />
+            <br />
+
             <div class="fr-grid-row fr-grid-row--gutters">
                 <div class="fr-col-md-4 fr-col-xs-12">
-                    <img src="/img/programme/construction.png" alt="Illustration réaliser un service public numérique"
-                        style="width: 100%;" />
+                    <img src="/assets/images/placeholder.png" alt="Placeholder" width="50%" />
                 </div>
-                <div class="fr-col-md-8 fr-px-4w fr-col-xs-12">
+                <div class="fr-col-md-8 fr-col-xs-12">
                     <span><b>Construction</b></span>
                     <h3>
                         Démontrer l'impact de la solution
@@ -293,12 +297,15 @@ Durand|Mael Inizan|Mélodie Dahi|Anna-Livia Gomart|Stéphane Maniaci" | split: "
                     utilisateurs<br>
                 </div>
             </div>
+            <br />
+            <br />
+
             <div class="fr-grid-row fr-grid-row--gutters">
                 <div class="fr-col-md-4 fr-col-xs-12">
-                    <img src="/img/programme/construction.png" alt="Illustration réaliser un service public numérique"
-                        style="width: 100%;" />
+                    <img src="/assets/images/placeholder.png" alt="Placeholder" width="50%" />
+
                 </div>
-                <div class="fr-col-md-8 fr-px-4w fr-col-xs-12">
+                <div class="fr-col-md-8 fr-col-xs-12">
                     <span><b>Transfert</b></span>
                     <h3>
                         Garantir la pérennité du service </h3>
