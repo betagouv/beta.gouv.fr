@@ -1,9 +1,11 @@
 ---
 title: RDV Apprentissage
-mission: "Faciliter le premier contact entre les candidats à l’apprentissage et
-  les Centre de Formation des Apprentis (CFA) "
-sponsors: 
+mission: Faciliter le premier contact entre les candidats à l’apprentissage et les Centre de Formation des Apprentis (CFA)
+sponsors:
     - /organisations/mtei
+    - /organisations/menjs
+    - /organisations/mesr
+    - /organisations/mtfp
 incubator: mission-apprentissage
 link: https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous
 repository: https://github.com/mission-apprentissage/prise-de-rdv
@@ -15,6 +17,10 @@ phases:
     end: ""
   - name: construction
     start: 2021-01-04
+usertypes:
+  - particulier
+  - etablissement-scolaire
+  - etat
 ---
 « RDV Apprentissage » est un module destiné à s’intégrer aux plateformes et portails exposant les formations en apprentissage pour faciliter le premier contact entre les candidats à l’apprentissage et les Centres de Formation des Apprentis (CFA).
 

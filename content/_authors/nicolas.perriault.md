@@ -18,10 +18,10 @@ missions:
     status: independent
     employer: LBC
 startups:
-  - acceslibre
   - wikicarbone
 previously:
   - egapro
+  - acceslibre
 competences:
   - Développement Full-Stack
 ---

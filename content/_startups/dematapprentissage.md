@@ -17,7 +17,6 @@ phases:
     start: 2021-12-01
 usertypes:
   - etat
-  - entreprise
 ---
 ## Constat
 

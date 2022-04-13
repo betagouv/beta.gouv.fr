@@ -18,6 +18,7 @@ missions:
 startups:
   - delta.v 
   - sppnaut
+  - notifications
 previously:
   - transport
   - participation-citoyenne

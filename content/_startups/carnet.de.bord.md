@@ -8,6 +8,7 @@ incubator: sgmas
 link: https://carnet-de-bord.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/carnet-de-bord
 contact: contact.carnet-de-bord@fabrique.social.gouv.fr
+stats_url: https://sites.google.com/view/deploiement-carnet-de-bord/accueil
 phases:
   - name: investigation
     start: 2021-01-25
