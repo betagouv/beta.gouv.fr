@@ -21,7 +21,7 @@ usertypes:
   - particulier
   - association
 dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
-analyse_risques: non
+analyse_risques: false
 accessibility_status: non conforme
 ---
 
