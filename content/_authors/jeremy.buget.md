@@ -1,14 +1,19 @@
 ---
 fullname: Jérémy Buget
 role: CTO
-domaine: Produit
+domaine: Animation
+link: https://jbuget.fr
+github: jbuget
 missions:
-  - start: 2016-06-08
-    end: 2021-06-30
-    status: service
-    employer: pix
-startups:
-    - pix
+- start: 2016-06-08
+  end: 2022-04-30
+  status: service
+  employer: pix
+- start: 2022-05-02
+  end: 2025-04-30
+  status: service
+  employer: GIP de l'Inclusion
 ---
 
-Le courage est la capacité d’affronter et de dépasser la peur, la douleur et l’orgueil.
+CTO du GIP de l'Inclusion. Co-founder & ex-CTO du GIP Pix. Coder. Streamer. Speaker. Writer. Papa pupuce.
+
