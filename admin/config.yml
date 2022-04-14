@@ -126,16 +126,11 @@ collections:
         required: false
       - label: Statut d'accessibilité
         hint : >
-          Le statut d'accessibilité de ton produit. Si tu ne sais pas remplir ce champs, indique "non conforme".
+          Le statut d'accessibilité de ton produit. Une valeur parmi "totalement conforme", "partiellement conforme", et "non conforme". Si tu ne sais pas remplir ce champs, indique "non conforme".
         name: accessibility_status
-        widget: list
+        widget: string
         collapsed: false
-        fields:
-          - label: Sponsor
-            name: name
-            widget: select
-            default: "non conforme"
-            options: ["totalement conforme", "partiellement conforme", "non conforme"]
+        default: "non conforme"
         required: false
       - label: Évènements marquants
         name: events
