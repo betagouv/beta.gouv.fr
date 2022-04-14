@@ -9,7 +9,7 @@ link: https://dora.fabrique.social.gouv.fr/
 repository: https://github.com/betagouv/dora/
 contact: dora@beta.gouv.fr
 accessibility_status:
-  - name: non conforme
+  - name: "non conforme"
 usertypes:
   - association
   - collectivite-territoriale
