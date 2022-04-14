@@ -5,7 +5,7 @@ mission: Faciliter la vie des personnes en insertion et de celles et ceux qui
 sponsors:
   - /organisations/dgefp
 incubator: sgmas
-link: https://dora.fabrique.social.gouv.fr/
+link: https://dora.fabrique.social.gouv.fr
 repository: https://github.com/betagouv/dora/
 contact: dora@beta.gouv.fr
 accessibility_status: non conforme
@@ -13,6 +13,7 @@ usertypes:
   - association
   - collectivite-territoriale
 stats: true
+stats_url: https://dora.fabrique.social.gouv.fr/stats
 dashlord_url: https://dashlord.incubateur.net/tag/dora/
 events: []
 phases:
