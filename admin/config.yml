@@ -128,9 +128,9 @@ collections:
         hint : >
           Le statut d'accessibilité de ton produit. Une valeur parmi "totalement conforme", "partiellement conforme", et "non conforme". Si tu ne sais pas remplir ce champs, indique "non conforme".
         name: accessibility_status
-        widget: string
-        collapsed: false
+        widget: "select"
         default: "non conforme"
+        options: ["non conforme", "partiellement conforme", "totalement conforme"]
         required: false
       - label: Évènements marquants
         name: events
