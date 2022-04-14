@@ -1,6 +1,6 @@
 ---
 roles: "Intrapreneur (H/F) pour le Service National Universel "
-open: true
+open: false
 date: 2022-01-25T12:59:28.368Z
 startup: snu
 ---
