@@ -20,6 +20,9 @@ usertypes:
   - collectivite-territoriale
   - particulier
   - association
+dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
+analyse_risques: non
+accessibility_status: non conforme (audir en cours)
 ---
 
 ## Des milliers de lapins dans les Maisons départementales de solidarité !
