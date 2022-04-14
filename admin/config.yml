@@ -126,7 +126,7 @@ collections:
         required: false
       - label: Statut d'accessibilité
         hint : >
-          Le statut d'accessibilité de ton produit. Une valeur parmi "totalement conforme", "partiellement conforme", et "non conforme". Si tu ne sais pas remplir ce champs, indique "non conforme".
+          Le statut d'accessibilité de ton produit. Une valeur parmi "totalement conforme", "partiellement conforme", et "non conforme". Si tu ne sais pas remplir ce champ, indique "non conforme".
         name: accessibility_status
         widget: "select"
         default: "non conforme"
