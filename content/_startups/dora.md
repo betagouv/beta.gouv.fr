@@ -13,6 +13,7 @@ usertypes:
   - association
   - collectivite-territoriale
 stats: true
+stats_url: https://dora.fabrique.social.gouv.fr/stats
 dashlord_url: https://dashlord.incubateur.net/tag/dora/
 events: []
 phases:
