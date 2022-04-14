@@ -1,14 +1,19 @@
 ---
 title: DORA
-mission: "Faciliter la vie des personnes en insertion et de celles et ceux qui
-  les accompagnent"
+mission: Faciliter la vie des personnes en insertion et de celles et ceux qui
+  les accompagnent
 sponsors:
   - /organisations/dgefp
 incubator: sgmas
 link: https://dora.fabrique.social.gouv.fr/
 repository: https://github.com/betagouv/dora/
 contact: dora@beta.gouv.fr
+accessibility_status: non conforme
+usertypes:
+  - association
+  - collectivite-territoriale
 stats: true
+dashlord_url: https://dashlord.incubateur.net/tag/dora/
 events: []
 phases:
   - name: investigation
@@ -19,9 +24,6 @@ phases:
     end: 2021-10-29
   - name: acceleration
     start: 2021-11-01
-usertypes:
-  - association
-  - collectivite-territoriale
 ---
 # Le problème
 
