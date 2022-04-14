@@ -3,7 +3,7 @@ mission: "Faciliter le recours aux aides par les jeunes qui en ont le plus besoi
 incubator: dinum
 repository: https://github.com/betagouv/aides-jeunes
 contact: aides-jeunes@beta.gouv.fr
-accessibility_status: Non conforme
+accessibility_status: non conforme
 usertypes:
   - particulier
 title: Aides Jeunes
