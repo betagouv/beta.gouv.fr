@@ -9,6 +9,8 @@ phases:
     start: 2020-03-01
   - name: construction
     start: 2021-03-01
+  - name : alumni
+    start : 2022-01-01
 link: 
 repository: 
 stats: false
