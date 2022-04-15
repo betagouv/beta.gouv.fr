@@ -5,14 +5,16 @@ layout: default
 {%- capture build_date -%}{{ site.time | date:"%Y-%m-%d" }}{%- endcapture -%} {%- assign lang = page.lang | default:
 site.lang | default: "fr" -%}
 
-{% assign fullnames = "Rebecca Dumazert|Benoit Serrano|Bréanne Mallat|Clémence Lopez|Denis Baudot|Inès Hijazi|Lisa
-Durand|Mael Inizan|Mélodie Dahi|Anna-Livia Gomart|Stéphane Maniaci" | split: "|" %}
+{% assign brigade_fullnames =
+  "Rebecca Dumazert, Benoit Serrano, Bréanne Mallat, Clémence Lopez, Denis Baudot, Inès Hijazi, Lisa Durand, Mael Inizan, Mélodie Dahi, Anna-Livia Gomart, Stéphane Maniaci"
+  | split: ", "
+%}
 
-{% assign title_startups_brigade = "JeVeuxAider.gouv.fr|Santé Psy Étudiant" | split: "|" %}
+{% assign title_startups_brigade = "JeVeuxAider.gouv.fr, Santé Psy Étudiant" | split: ", " %}
 
 {% assign startups_brigade = site.startups | where_exp: "startup", "title_startups_brigade contains startup.title" %}
 
-{%- assign authors = site.authors | where_exp: "author", "fullnames contains author.fullname" -%}
+{%- assign authors = site.authors | where_exp: "author", "brigade_fullnames contains author.fullname" -%}
 
 {%- include hero-page.html title=page.title -%}
 <section class="fr-py-6w section-lightgrey">
