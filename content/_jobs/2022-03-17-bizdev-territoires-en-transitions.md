@@ -1,6 +1,6 @@
 ---
 roles: Un.e chargé.e de déploiement dans la transition écologique des collectivités
-open: true
+open: false
 date: 2022-04-05
 startup: territoires-en-transitions
 title: Recherche d'une personne chargée de déploiement pour Territoires en Transitions
