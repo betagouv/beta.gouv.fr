@@ -1,13 +1,16 @@
 ---
-title: Mon suivi social
 mission: Préfigurer un outil de suivi social pour les CCAS et secrétariats de mairies
 incubator: anct
-repository: null
+repository: https://gitlab.com/incubateur-territoires/startups/monsuivisocial
 contact: contactincubateur@anct.gouv.fr
+accessibility_status: non conforme
+usertypes:
+  - collectivite-territoriale
 stats_url: null
+title: Mon suivi social
 sponsors:
   - /organisations/anct
-link: null
+link: https://monsuivisocial.anct.gouv.fr/
 stats: false
 phases:
   - name: investigation
@@ -15,8 +18,6 @@ phases:
   - name: construction
     start: 2021-04-01
     end: 2022-01-20
-usertypes:
-  - collectivite-territoriale
 ---
 ### Un CIAS sans outil numérique pour centraliser les informations
 
