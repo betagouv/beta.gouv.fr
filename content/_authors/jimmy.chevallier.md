@@ -2,7 +2,7 @@
 fullname: Jimmy Chevallier
 role: Développeur
 domaine: Développement
-github: JimmyCHEVALLIER
+github: MrJimmyChevallier
 missions:
   - start: 2022-04-18
     end: 2022-07-31
