@@ -7,7 +7,8 @@ sponsors:
 incubator: mtes
 link: https://wikicarbone.beta.gouv.fr
 repository: https://github.com/MTES-MCT/wikicarbone
-contact: pascal.dagras@beta.gouv.fr
+dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/wikicarbone-beta-gouv-fr/
+contact: wikicarbone@beta.gouv.fr
 stats: true
 phases:
   - name: investigation
