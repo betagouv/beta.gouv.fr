@@ -46,7 +46,7 @@ Le code source : https://github.com/betagouv/rdv-solidarites.fr/
 ## Votre profil nous intéresse si :
 
 - Vous êtes animé·e par la volonté d’améliorer le service public.
-- Vous êtes familière ou familier avec des outils d'infrastructure as code (comme Ansible).
+- Vous êtes familière ou familier avec des outils d'infrastructure as code (comme Terraform, Ansible).
 - Vous êtes familière ou familier avec Kubernetes.
 - Vous savez faire preuve d’initiative et tenir vos engagements.
 - Vous aimez travailler dans une petite équipe et de manière agile.
