@@ -1,6 +1,6 @@
 ---
 roles: Développeur.se frontend senior
-open: true
+open: false
 date: 2022-03-02T09:20:32.969Z
 startup: trackdechets
 ---
