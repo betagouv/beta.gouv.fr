@@ -9,5 +9,7 @@ missions:
     employer: SCOPYLEFT
 badges:
   - segur
+startups:
+  - lapins 
 ---
 
