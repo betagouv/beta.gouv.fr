@@ -10,7 +10,7 @@ site.lang | default: "fr" -%}
   | split: ", "
 %}
 
-{% assign title_startups_brigade = "JeVeuxAider.gouv.fr, Santé Psy Étudiant" | split: ", " %}
+{% assign title_startups_brigade = "JeVeuxAider.gouv.fr, Santé Psy Étudiant, Aides Jeunes" | split: ", " %}
 
 {% assign startups_brigade = site.startups | where_exp: "startup", "title_startups_brigade contains startup.title" %}
 
@@ -30,7 +30,7 @@ site.lang | default: "fr" -%}
               La Brigade vous accompagne dans la création de services publics numériques prioritaires
            </h3>
            <br />
-           <a class="fr-btn fr-btn--md fr-enlarge-link" href="mailto:brigade@beta.gouv.fr">Contacter la Brigade</a>
+           <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary button-white" href="mailto:brigade@beta.gouv.fr">Contacter la Brigade</a>
         </div>
         <div class="fr-col fr-col-12 fr-col-md-5">
            <div class="home-hero-anim">
@@ -182,7 +182,12 @@ site.lang | default: "fr" -%}
   <div class="fr-container">
      <div class="fr-grid-row fr-grid-row--center">
         <div>
-           <h2 class="section-title fr-pb-6w">Les piliers de l'approche Startup d'États de la Brigade</h2>
+          <div class="fr-grid-row fr-grid-row--gutters startups fr-pb-6w">
+            <div class="fr-col-md-8 fr-col-xs-12 fr-col-offset-md-2">
+              <h2 class="section-title">Les piliers de l’approche “Startup d’État”</h2>
+              <p class="section-description fr-m-0">Les services publics numériques soutenus par la Brigade sont construits selon l’approche beta.gouv, aussi appelée approche Startup d’Etat. Cette approche se décline en trois axes : </p>
+            </div>
+          </div>
            <div class="fr-grid-row fr-grid-row--gutters startups">
               <div class="fr-col-4 fr-col-md-4">
                  <div class="fr-card fr-tile fr-card--no-arrow">
@@ -190,8 +195,7 @@ site.lang | default: "fr" -%}
                        <h3 class="fr-card__title">
                           Pilotage par l'impact
                        </h3>
-                       <p class="fr-card__desc">La définition d’indicateurs de succès mesurables dès le
-                          lancement d’un partenariat.
+                       <p class="fr-card__desc">La définition d’indicateurs de succès mesurables dès le lancement du partenariat.
                        </p>
                     </div>
                  </div>
@@ -202,8 +206,7 @@ site.lang | default: "fr" -%}
                        <h3 class="fr-card__title">
                           Une approche itérative
                        </h3>
-                       <p class="fr-card__desc">Un premier produit au contact des utilisateurs le plus vite
-                          possible et une logique d’amélioration continue.
+                       <p class="fr-card__desc">Un premier produit au contact des utilisateurs le plus vite possible et une logique d’amélioration continue.
                        </p>
                     </div>
                  </div>
@@ -214,17 +217,13 @@ site.lang | default: "fr" -%}
                        <h3 class="fr-card__title">
                           Les besoins des usagers sont prioritaires
                        </h3>
-                       <p class="fr-card__desc">Et des jalons réguliers pour évaluer l’impact et décider des
-                          orientations.
+                       <p class="fr-card__desc">Et des jalons réguliers pour évaluer l’impact et décider des orientations.
                        </p>
                     </div>
                  </div>
               </div>
            </div>
         </div>
-        <p>Vous portez la création d’un service public numérique à fort potentiel d’impact ? Contactez la
-           Brigade à <a href="mailto:brigade@beta.gouv.fr">brigade@beta.gouv.fr</a>
-        </p>
      </div>
   </div>
 </section>
@@ -234,68 +233,68 @@ site.lang | default: "fr" -%}
      <div>
         <div class="fr-grid-row fr-grid-row--gutters">
            <div class="fr-col-md-4 fr-col-xs-12">
-              <img src="/assets/images/placeholder.png" alt="Placeholder" width="50%" />
-           </div>
-           <div class="fr-col-md-8 fr-col-xs-12">
-              <span><b>Cadrage</b></span>
-              <h3>
-                 Définir les conditions d'engagement de la Brigade
-              </h3>
-              S’aligner sur l’intervention de la Brigade en définissant les indicateurs d’impact attendu
-              <div
-                 class="fr-mb-4w fr-p-1w fr-col-md-6 fr-col-sm-12 fr-mt-2w section-grey">
-                 <span aria-hidden="true">📅</span><b> 1 à 2 réunion(s) </b><br>
-                 <span aria-hidden="true">✋</span> La Brigade et le sponsor
-              </div>
-              <br>
-              <a class="fr-btn fr-btn--md" href="mailto:brigade@beta.gouv.fr">Proposer un sujet à la Brigade</a>
-              <a class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link"
-                 href="mailto:brigade@beta.gouv.fr">Rencontrer la Brigade</a>
-           </div>
+            <img src="/assets/images/step_1_brigade.svg" alt="Illustration des étapes de la Brigade" />
+          </div>
+          <div class="fr-col-md-8 fr-col-xs-12">
+            <span><b>Cadrage</b></span>
+            <h3>
+              Définir les conditions d'engagement de la Brigade
+            </h3>
+            S’aligner sur l’intervention de la Brigade en définissant les indicateurs d’impact attendu
+            <div
+            class="fr-mb-4w fr-p-1w fr-col-md-6 fr-col-sm-12 fr-mt-2w section-grey">
+            <span aria-hidden="true">📅</span><b> 1 à 2 réunion(s) </b><br>
+            <span aria-hidden="true">✋</span> La Brigade et le sponsor
+          </div>
+          <br>
+          <a class="fr-btn fr-btn--md" href="mailto:brigade@beta.gouv.fr">Proposer un sujet à la Brigade</a>
+          <a class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link"
+          href="mailto:brigade@beta.gouv.fr">Rencontrer la Brigade</a>
         </div>
-        <br />
-        <br />
-        <div class="fr-grid-row fr-grid-row--gutters">
-           <div class="fr-col-md-4 fr-col-xs-12">
-              <img src="/assets/images/placeholder.png" alt="Placeholder" width="50%" />
-           </div>
-           <div class="fr-col-md-8 fr-col-xs-12">
+      </div>
+      <br />
+      <br />
+      <div class="fr-grid-row fr-grid-row--gutters">
+        <div class="fr-col-md-4 fr-col-xs-12">
+              <img src="/assets/images/step_2_brigade.svg" alt="Illustration des étapes de la Brigade" />
+            </div>
+            <div class="fr-col-md-8 fr-col-xs-12">
               <span><b>Investigation</b></span>
               <h3>
-                 Qualifier le problème à résoudre
+                Qualifier le problème à résoudre
               </h3>
               <div class="fr-mb-4w fr-p-1w fr-col-md-8 fr-col-sm-12 fr-mt-2w section-grey">
-                 <span aria-hidden="true">📅</span><b> 10 jours</b> à <b>2 mois</b><br>
-                 <span aria-hidden="true">✋</span> La Brigade et un expert métier
+                <span aria-hidden="true">📅</span><b> 10 jours</b> à <b>2 mois</b><br>
+                <span aria-hidden="true">✋</span> La Brigade et un expert métier
               </div>
               Valider que le problème peut être résolu par le numérique en rencontrant des utilisateurs pour
               qualifier le problème et imaginer des ébauches de solutions <br>
            </div>
-        </div>
-        <br />
-        <br />
-        <div class="fr-grid-row fr-grid-row--gutters">
-           <div class="fr-col-md-4 fr-col-xs-12">
-              <img src="/assets/images/placeholder.png" alt="Placeholder" width="50%" />
-           </div>
-           <div class="fr-col-md-8 fr-col-xs-12">
+          </div>
+          <br />
+          <br />
+          <div class="fr-grid-row fr-grid-row--gutters">
+            <div class="fr-col-md-4 fr-col-xs-12">
+              <img src="/assets/images/step_3_brigade.svg" alt="Illustration des étapes de la Brigade" />
+            </div>
+            <div class="fr-col-md-8 fr-col-xs-12">
               <span><b>Construction</b></span>
               <h3>
-                 Démontrer l'impact de la solution
+                Démontrer l'impact de la solution
               </h3>
               <div class="fr-mb-4w fr-p-1w fr-col-md-8 fr-col-sm-12 fr-mt-2w section-grey">
-                 <span aria-hidden="true">📅</span><b> 2 à 6 mois</b><br>
-                 <span aria-hidden="true">✋</span> La Brigade
+                <span aria-hidden="true">📅</span><b> 2 à 6 mois</b><br>
+                <span aria-hidden="true">✋</span> La Brigade
               </div>
               Construire une première version du service et la rendre disponible rapidement pour itérer avec les
               utilisateurs<br>
-           </div>
-        </div>
-        <br />
-        <br />
-        <div class="fr-grid-row fr-grid-row--gutters">
-           <div class="fr-col-md-4 fr-col-xs-12">
-              <img src="/assets/images/placeholder.png" alt="Placeholder" width="50%" />
+            </div>
+          </div>
+          <br />
+          <br />
+          <div class="fr-grid-row fr-grid-row--gutters">
+            <div class="fr-col-md-4 fr-col-xs-12">
+             <img src="/assets/images/step_4_brigade.svg" alt="Illustration des étapes de la Brigade" />
            </div>
            <div class="fr-col-md-8 fr-col-xs-12">
               <span><b>Transfert</b></span>
