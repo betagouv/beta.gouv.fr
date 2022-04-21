@@ -11,7 +11,7 @@ sponsors:
 incubator: mission-apprentissage
 link: https://cfas.apprentissage.beta.gouv.fr
 repository: 
-contact: apprentissage@beta.gouv.fr
+contact: tableau-de-bord@apprentissage.beta.gouv.fr
 events: []
 phases:
   - name: investigation
