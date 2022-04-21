@@ -8,6 +8,12 @@ incubator: sgmas
 link: https://carnet-de-bord.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/carnet-de-bord
 contact: contact.carnet-de-bord@fabrique.social.gouv.fr
+analyse_risques: true
+accessibility_status: non conforme
+usertypes:
+  - particulier
+  - collectivite-territoriale
+  - association
 stats_url: https://sites.google.com/view/deploiement-carnet-de-bord/accueil
 phases:
   - name: investigation
@@ -19,10 +25,6 @@ phases:
   - name: acceleration
     start: 2021-11-01
     end: 2022-04-30
-usertypes:
-  - particulier
-  - collectivite-territoriale
-  - association
 ---
 Dans le cadre du [Service Public de l’Insertion et de l’Emploi](https://forum.inclusion.beta.gouv.fr/t/le-spie-cest-quoi/2324), le **Carnet de bord est en phase de déploiement.** 
 
