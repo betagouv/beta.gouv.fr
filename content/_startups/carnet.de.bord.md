@@ -98,6 +98,8 @@ Aujourd’hui, les accompagnateurs connectés aux carnets de bord des personnes 
 
 ## Adoptez Carnet de bord dans votre territoire
 
+`<iframe src="https://www.google.com/maps/d/embed?mid=1f8GJYsCAeC0medH7h7O5UXh6Vt2r0y05&ehbc=2E312F" width="640" height="480"></iframe>`
+
 Vous voulez tester Carnet de bord sur votre territoire ?
 
 Vous souhaitez savoir comment opérer concrètement le service ? 
