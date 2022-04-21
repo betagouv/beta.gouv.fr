@@ -10,6 +10,9 @@ nav:
   -
     label: Recrutement
     target: _pages/recrutement.md
+  -
+    label: Problèmes investigués
+    target: _pages/problems.md
 shortcuts:
   -
     label: Annuaire
@@ -23,3 +26,4 @@ shortcuts:
     label: Blog
     external: true
     url: https://blog.beta.gouv.fr
+  
