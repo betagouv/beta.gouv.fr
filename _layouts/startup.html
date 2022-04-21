@@ -98,7 +98,7 @@ Le suivi des bonnes pratiques de ce produit
 
 {% capture accessibilite %}
 {% if page.accessibility_status %}
-<li>Le statut d'accessibilité du produit est : <em>{{ page.investigation_outputs_url }}</em></li>
+<li>Le statut d'accessibilité du produit est : <em>{{ page.accessibility_status }}</em></li>
 {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
 <li>Le statut d'accessibilité du produit est : <em>non-conforme</em></li>
 {% endif %}
