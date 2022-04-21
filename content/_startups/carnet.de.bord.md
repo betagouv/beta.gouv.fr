@@ -47,11 +47,11 @@ Dans ce contexte, comment amplifier la coordination des professionnels autour du
 
 Carnet de bord est un service numérique public qui centralise les données essentielles du parcours d’un usager en une seule page. Il regroupe l’information dans un espace sécurisé permettant un échange accru des données essentielles, entre les accompagnateurs et le bénéficiaire afin d’amplifier la coordination et fluidifier le parcours d’un usager !
 
-## Qui sont les usagers en insertion concernés par l'outil ? 
+## Qui sont les usagers en insertion concernés par l'outil ?
 
 Carnet de bord propose la création de "carnets" d'usagers relevant de différents publics en insertion à l'instar des bénéficiaires du RSA, des demandeurs d'emploi (notamment longue durée, accompagnement global ou concernés par la modalité d'accompagnement "expert handicap"), des jeunes NEET, etc. 
 
-## Qui sont les professionnels concernés par l'outil ? 
+## Qui sont les professionnels concernés par l'outil ?
 
 Tous les accompagnateurs des personnes en insertion sont en mesure de bénéficier d'un compte permettant leur accès aux carnets des usagers qu'ils accompagnent. Cela concerne tant les accompagnateurs publics (Pôle emploi, Conseils départementaux, CCAS/CIAS, missions locales, Cap emploi, etc.) que les acteurs privés de l'insertion et de l'action sociale comme, par exemple, les structures associativess déléguées / conventionnées pour l'accompagnement de bénéficiaires du RSA. L'accès de tous ces acteurs à l'outil a été rendu possible par un travail juridique, notamment concrétisé par l'entrée en vigueur de l'article 168 de la loi du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale dont nous attendons la parution du décret d'application en Conseil d'État. 
 
@@ -77,7 +77,7 @@ Pour une personne en insertion, l'outil permet de :
 * La couverture de nouveaux cas d’usage du SPIE (ex : accompagnement du public de Cap emploi, création de carnet pour les demandeurs d’emploi longue durée, public concerné par l'accompagnement global, etc…) sur 3 départements ; 
 * La poursuite des expérimentations en visant une dizaine de territoires testant l'outil sur différents cas d'usage. 
 
-## **Nos prochains chantiers** 
+## **Nos prochains chantiers**
 
 Les chantiers du second semestre 2022 vont notamment chercher à : 
 
@@ -103,4 +103,4 @@ Vous souhaitez savoir comment opérer concrètement le service ? 
 
 Nous sommes à votre écoute pour identifier comment déployer Carnet de bord avec vos parcours. 
 
-> ### **Demandez une démo en [cliquant ici](https://1p7fjf837yx.typeform.com/to/E9ABo0TG)**
+> ### **Demandez une démo en [cliquant ici ](https://1p7fjf837yx.typeform.com/to/E9ABo0TG)**
