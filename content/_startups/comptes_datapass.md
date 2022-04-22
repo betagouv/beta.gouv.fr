@@ -30,7 +30,7 @@ Ainsi, face à la multiplication des services numériques de l'État, et pour pr
 
 Il existe déjà plusieurs services ayant développé une brique d'authentification pour certifier l'appartenance d'une personne physique qui se connecte sur un service à une personnalité morale telle une collectivité.
 
-Il est proposé de repartir des comptes utilisés par les outils d'habilitation DataPass. Cette solution permet de vérifier l’identité de l’inscrit de manière automatisée à partir de son courriel et du SIRET de son organisation. Cette solution permet également une gestion de groupes, d’utilisateurs et est fiable en termes de sécurité informatique et de restriction d’accès aux seuls agents autorisés.
+Il est proposé de repartir des comptes utilisés par [l'outil d'habilitation DataPass](https://beta.gouv.fr/startups/datapass). Cette solution permet de vérifier l’identité de l’inscrit de manière automatisée à partir de son courriel et du SIRET de son organisation. Cette solution permet également une gestion de groupes, d’utilisateurs et est fiable en termes de sécurité informatique et de restriction d’accès aux seuls agents autorisés.
 
 **Il serait possible d'adapter ces comptes DataPass pour les rendre utilisables par d'autres services destinés à des personnes morales.**
 
