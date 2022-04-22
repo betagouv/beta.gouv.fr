@@ -19,7 +19,7 @@ startups:
     - ma-cantine-egalim
     - recosante
     - cartobio
-    - compte_datapass
+    - comptes_datapass
 previously:
     - urbanvitaliz
     - ban
