@@ -32,7 +32,7 @@ site.lang | default: "fr" -%}
            <br />
            <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary button-white" href="mailto:brigade@beta.gouv.fr">Contacter la Brigade</a>
         </div>
-        <div class="fr-col fr-col-12 fr-col-md-5">
+        <div class="fr-col fr-col-12 fr-col-md-5 hidden-mobile">
            <div class="home-hero-anim">
               <object data="/assets/images/teamwork.svg"></object>
            </div>
@@ -40,11 +40,11 @@ site.lang | default: "fr" -%}
      </div>
   </div>
 </section>
-<hr class="fr-grid-row fr-col-xs-10 fr-col-7 fr-mt-7w">
+<hr class="fr-grid-row fr-col-7 fr-mt-7w">
 <section class="fr-py-6w">
   <div class="fr-container">
      <div class="fr-grid-row fr-grid-row--gutters">
-        <div class="fr-col-md-8 fr-col-xs-12 fr-col-offset-md-2">
+        <div class="fr-col-md-8 fr-col-12 fr-col-offset-md-2">
            <h2>Qu’est-ce que la Brigade ?</h2>
            <p>La Brigade de beta.gouv est une équipe multi-disciplinaire d'agents publics experts du numérique
               (entrepreneuriat, développement numérique, design, et impact). Elle intervient en appui des cabinets
@@ -64,39 +64,51 @@ site.lang | default: "fr" -%}
      </div>
   </div>
 </section>
-<hr class="fr-grid-row--end fr-col-offset-xs-2 fr-col-offset-5">
+<hr class="fr-grid-row--end fr-col-offset-2 fr-col-offset-5">
 <section class="fr-pt-6w">
   <div class="fr-container">
      <div class="fr-grid-row fr-grid-row--center">
         <h2 class="fr-pb-6w section-title">Les domaines d'intervention de la Brigade</h2>
         <div class="fr-grid-row fr-grid-row--gutters">
            <div class="fr-col-12 fr-col-md-4">
-              <img src="/assets/images/1.svg" style="width: 30%" alt="1"/>
-              <h3>
-                Gestion de crise et situation d’urgence
-              </h3>
-              <p>Proposer et mettre en oeuvre rapidement une solution pour répondre à des situations de crise ou d’urgence
-              </p>
+               <div class="fr-card fr-card--no-arrow">
+                  <div class="fr-card__body"> 
+                     <h3 class="bigger-font purple">01</h3>
+                     <h3 class="fr-card__title">
+                        Gestion de crise et situation d’urgence
+                     </h3>
+                     <p class="fr-card__desc">Proposer et mettre en oeuvre rapidement une solution pour répondre à des situations de crise ou d’urgence
+                     </p>
+                  </div>
+               </div>
             </div>
             <div class="fr-col-12 fr-col-md-4">
-             <img src="/assets/images/2.svg" style="width: 30%" alt="2"/>
-             <h3>
-               Politique prioritaire du quinquennat
-              </h3>
-              <p>Renforcer l’impact d’une politique prioritaire à travers le
-                développement de services publics numériques
-              </p>
+               <div class="fr-card fr-card--no-arrow">
+                  <div class="fr-card__body"> 
+                     <h3 class="bigger-font purple">02</h3>
+                     <h3 class="fr-card__title">
+                        Politique prioritaire du quinquennat
+                     </h3>
+                     <p class="fr-card__desc">Renforcer l’impact d’une politique prioritaire à travers le
+                        développement de services publics numériques
+                     </p>
+                  </div>
+               </div>   
             </div>
-            <div class="fr-col-12 fr-col-md-4">
-              <img src="/assets/images/3.svg" style="width: 30%" alt="3"/>
-              <h3>
-                  Communs numériques interministériels
-              </h3>
-              <p>Renforcer et soutenir l’action du réseau d’incubateurs
-                  beta.gouv et des Startups d’États par la création de
-                  communs
-              </p>
-           </div>
+            <div class="fr-col-12 fr-col-md-4"> 
+               <div class="fr-card fr-card--no-arrow">
+                  <div class="fr-card__body">
+                     <h3 class="bigger-font purple ">03</h3>
+                     <h3 class="fr-card__title">
+                        Communs numériques interministériels
+                     </h3>
+                     <p class="fr-card__desc">Renforcer et soutenir l’action du réseau d’incubateurs
+                        beta.gouv et des Startups d’États par la création de
+                        communs
+                     </p>
+                  </div>
+               </div>  
+            </div>
         </div>
      </div>
   </div>
@@ -113,17 +125,17 @@ site.lang | default: "fr" -%}
      </div>
   </div>
 </section>
-<hr class="fr-grid-row fr-col-xs-10 fr-col-7">
+<hr class="fr-grid-row fr-col-7">
 <section class="fr-py-6w">
   <div class="fr-container">
      <div class="fr-grid-row fr-grid-row--gutters">
-        <div class="fr-col-md-8 fr-col-xs-12 fr-col-offset-md-2">
+        <div class="fr-col-md-8 fr-col-12 fr-col-offset-md-2">
            <h2 class="fr-pb-6w">L'approche Brigade</h2>
            <div class="fr-grid-row fr-grid-row--gutters">
-              <div class="fr-col-md-2 fr-col-xs-2">
+              <div class="fr-col-md-2 fr-col-4">
                  <img src="/assets/images/icon_brigade.svg" alt="Illustration Brigade" />
               </div>
-              <div class="fr-col-md-10 fr-col-xs-10">
+              <div class="fr-col-md-10 fr-col-12">
                  <p>
                     <b>Une logique d’impact confrontée au terrain </b><br />
                     Rapprocher les prises de décisions des réalités du terrain : telle est l’ambition portée par
@@ -134,10 +146,10 @@ site.lang | default: "fr" -%}
               </div>
            </div>
            <div class="fr-grid-row fr-grid-row--gutters">
-              <div class="fr-col-md-2 fr-col-xs-2">
+              <div class="fr-col-md-2 fr-col-4">
                  <img src="/assets/images/icon_politician.svg" alt="Illustration politique" />
               </div>
-              <div class="fr-col-md-10 fr-col-xs-10">
+              <div class="fr-col-md-10 fr-col-12">
                  <p>
                     <b>Un pilotage interministériel au profit d’une perspective usager cohérente </b><br />
                     La Brigade a été amenée à porter différents services publics numériques à la croisée de différentes
@@ -148,10 +160,10 @@ site.lang | default: "fr" -%}
               </div>
            </div>
            <div class="fr-grid-row fr-grid-row--gutters">
-              <div class="fr-col-md-2 fr-col-xs-2">
+              <div class="fr-col-md-2 fr-col-4">
                  <img src="/assets/images/icon_pressure.svg" alt="Illustration pression" />
               </div>
-              <div class="fr-col-md-10 fr-col-xs-10">
+              <div class="fr-col-md-10 fr-col-12">
                  <p class="fr-m-0">
                     <b>Une méthodologie d’accompagnement adaptée et rythmée par jalons </b><br />
                     Pour chaque demande entrante, des échanges visant à qualifier le brief permettent d’identifier si la
@@ -167,20 +179,20 @@ site.lang | default: "fr" -%}
      </div>
   </div>
 </section>
-<hr class="fr-grid-row--end fr-col-offset-xs-2 fr-col-offset-5 fr-mb-7w">
+<hr class="fr-grid-row--end fr-col-offset-2 fr-col-offset-5 fr-mb-7w">
 
 <section class="fr-py-6w section-grey">
   <div class="fr-container">
      <div class="fr-grid-row fr-grid-row--center">
         <div>
           <div class="fr-grid-row fr-grid-row--gutters startups fr-pb-6w">
-            <div class="fr-col-md-8 fr-col-xs-12 fr-col-offset-md-2">
+            <div class="fr-col-md-8 fr-col-12 fr-col-offset-md-2">
               <h2 class="section-title">Les piliers de l’approche “Startup d’État”</h2>
               <p class="section-description fr-m-0">Les services publics numériques soutenus par la Brigade sont construits selon l’approche beta.gouv, aussi appelée approche Startup d’Etat.</p>
             </div>
           </div>
            <div class="fr-grid-row fr-grid-row--gutters startups">
-              <div class="fr-col-xs-12 fr-col-md-4">
+              <div class="fr-col-12 fr-col-md-4">
                  <div class="fr-card fr-tile fr-card--no-arrow">
                     <div class="fr-card__body">
                        <h3 class="fr-card__title">
@@ -191,7 +203,7 @@ site.lang | default: "fr" -%}
                     </div>
                  </div>
               </div>
-              <div class="fr-col-xs-12 fr-col-md-4">
+              <div class="fr-col-12 fr-col-md-4">
                  <div class="fr-card fr-tile  fr-card--no-arrow">
                     <div class="fr-card__body">
                        <h3 class="fr-card__title">
@@ -202,7 +214,7 @@ site.lang | default: "fr" -%}
                     </div>
                  </div>
               </div>
-              <div class="fr-col-xs-12 fr-col-md-4">
+              <div class="fr-col-12 fr-col-md-4">
                  <div class="fr-card fr-tile fr-card--no-arrow">
                     <div class="fr-card__body">
                        <h3 class="fr-card__title">
@@ -222,13 +234,13 @@ site.lang | default: "fr" -%}
 <section class="fr-py-6w">
   <div class="fr-container">
      <div class="fr-grid-row fr-grid-row--gutters">
-        <div class="fr-col-md-10 fr-col-xs-12 fr-col-offset-md-1">
+        <div class="fr-col-md-10 fr-col-12 fr-col-offset-md-1">
           <h2 class="fr-pb-6w">Les étapes de l'intervention de la Brigade de beta.gouv</h2>
           <div class="fr-grid-row fr-grid-row--gutters fr-mb-4w">
-              <div class="fr-col-md-4 fr-col-xs-12">
+              <div class="fr-col-md-4 fr-col-12">
                  <img src="/assets/images/step_1_brigade.svg" alt="Illustration des étapes de la Brigade" />
               </div>
-              <div class="fr-col-md-8 fr-col-xs-12">
+              <div class="fr-col-md-8 fr-col-12">
                  <span><b>Cadrage</b></span>
                  <h3>
                     Définir les conditions d'engagement de la Brigade
@@ -245,10 +257,10 @@ site.lang | default: "fr" -%}
            <br />
            <br />
            <div class="fr-grid-row fr-grid-row--gutters fr-mb-4w">
-              <div class="fr-col-md-4 fr-col-xs-12">
+              <div class="fr-col-md-4 fr-col-12">
                  <img src="/assets/images/step_2_brigade.svg" alt="Illustration des étapes de la Brigade" />
               </div>
-              <div class="fr-col-md-8 fr-col-xs-12">
+              <div class="fr-col-md-8 fr-col-12">
                  <span><b>Investigation</b></span>
                  <h3>
                     Qualifier le problème à résoudre
@@ -266,10 +278,10 @@ site.lang | default: "fr" -%}
            <br />
            <br />
            <div class="fr-grid-row fr-grid-row--gutters fr-mb-4w">
-              <div class="fr-col-md-4 fr-col-xs-12">
+              <div class="fr-col-md-4 fr-col-12">
                  <img src="/assets/images/step_3_brigade.svg" alt="Illustration des étapes de la Brigade" />
               </div>
-              <div class="fr-col-md-8 fr-col-xs-12">
+              <div class="fr-col-md-8 fr-col-12">
                  <span><b>Construction</b></span>
                  <h3>
                     Démontrer l'impact de la solution
@@ -287,10 +299,10 @@ site.lang | default: "fr" -%}
            <br />
            <br />
            <div class="fr-grid-row fr-grid-row--gutters fr-mb-4w">
-              <div class="fr-col-md-4 fr-col-xs-12">
+              <div class="fr-col-md-4 fr-col-12">
                  <img src="/assets/images/step_4_brigade.svg" alt="Illustration des étapes de la Brigade" />
               </div>
-              <div class="fr-col-md-8 fr-col-xs-12">
+              <div class="fr-col-md-8 fr-col-12">
                  <span><b>Transfert</b></span>
                  <h3>
                     Garantir la pérennité du service
@@ -333,7 +345,6 @@ site.lang | default: "fr" -%}
                  citoyens et/ou de l'action publique
               </li>
            </ul>
-           <br>
         </div>
      </div>
   </div>
@@ -343,7 +354,7 @@ site.lang | default: "fr" -%}
      <h2 class="fr-pb-6w">L'équipe de la Brigade</h2>
      <div class="fr-grid-row fr-grid-row--gutters">
         {%- for author in authors -%}
-        <div class="fr-col-md-3">{%- include card-community.html author=author -%}</div>
+        <div class="fr-col-md-3 fr-col-12 fr-mb-2w">{%- include card-community.html author=author -%}</div>
         {%- endfor -%}
      </div>
   </div>
