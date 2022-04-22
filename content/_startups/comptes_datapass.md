@@ -1,5 +1,5 @@
 ---
-title: Comptes Datapass
+title: Comptes DataPass
 mission: La fédération d'identité pour les personnes morales
 incubator: dinum
 sponsors:
@@ -30,10 +30,10 @@ Ainsi, face à la multiplication des services numériques de l'État, et pour pr
 
 Il existe déjà plusieurs services ayant développé une brique d'authentification pour certifier l'appartenance d'une personne physique qui se connecte sur un service à une personnalité morale telle une collectivité.
 
-Il est proposé de repartir des comptes utilisés par api.gouv.fr. Cette solution permet de vérifier l’identité de l’inscrit de manière automatisée à partir de son courriel et du SIRET de son organisation. Cette solution permet également une gestion de groupes, d’utilisateurs et est fiable en termes de sécurité informatique et de restriction d’accès aux seuls agents autorisés.
+Il est proposé de repartir des comptes utilisés par les outils d'habilitation DataPass. Cette solution permet de vérifier l’identité de l’inscrit de manière automatisée à partir de son courriel et du SIRET de son organisation. Cette solution permet également une gestion de groupes, d’utilisateurs et est fiable en termes de sécurité informatique et de restriction d’accès aux seuls agents autorisés.
 
-**Il serait possible d'adapter la brique compte api.gouv pour la rendre utilisable par d'autres services, en transformant le compte api.gouv en "Compte Datapass".**
+**Il serait possible d'adapter ces comptes DataPass pour les rendre utilisables par d'autres services destinés à des personnes morales.**
 
-Grâce au Compte Datapass, toute plateforme numérique qui s'adresse à une personne morale pourrait facilement intégrer une brique d'authentification, qui permettrait à la fois : 
-- aux personnes faisant partie de l'organisation de se connecter via son Compte Datapass, et donc de ne pas créer un nouveau compte à chaque inscription à une nouvelle plateforme
+Grâce aux Comptes DataPass, toute plateforme numérique qui s'adresse à une personne morale pourrait facilement intégrer une brique d'authentification, qui permettrait à la fois : 
+- aux personnes faisant partie de l'organisation de se connecter via son Compte DataPass, et donc de ne pas créer un nouveau compte à chaque inscription à une nouvelle plateforme
 - aux développeurs/développeuses de la plateforme en question de ne pas avoir à développer une brique d'authentification ad hoc et de ne pas avoir à gérer la validation de l'identité de chaque personne de manière individuelle.
