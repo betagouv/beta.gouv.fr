@@ -77,7 +77,7 @@ Nous espérons aussi que notre outil permette à l'usager de retrouver la maîtr
 * Favoriser l’autonomie et le pouvoir d’agir des personnes accompagnées, ce chantier se traduisant notamment par l'ouverture et l'enrichissement de « l'entrée usager » (chaque usager va pouvoir être acteur de son parcours grâce à sa propre interface Carnet de bord).
 
 ## Adoptez Carnet de bord dans votre territoire
-[Carte des déploiements<img src="(https://user-images.githubusercontent.com/83343517/164546769-b36f22cf-a556-4b58-b5ef-fb28163c44e9.png" width="200" height="150">](https://www.google.com/maps/d/viewer?mid=1f8GJYsCAeC0medH7h7O5UXh6Vt2r0y05&ll=47.06223439633373%2C2.296668550000014&z=6)
+[Carte des déploiements<img src="(https://user-images.githubusercontent.com/83343517/164546769-b36f22cf-a556-4b58-b5ef-fb28163c44e9.png" width="250" height="175">](https://www.google.com/maps/d/viewer?mid=1f8GJYsCAeC0medH7h7O5UXh6Vt2r0y05&ll=47.06223439633373%2C2.296668550000014&z=6)
 
 Vous voulez tester Carnet de bord sur votre territoire ? Vous souhaitez savoir comment opérer concrètement le service ? Nous sommes à votre disposition ! 
 
