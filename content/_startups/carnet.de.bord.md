@@ -81,8 +81,6 @@ Nous espérons aussi que notre outil permette à l'usager de retrouver la maîtr
 
 ## Adoptez Carnet de bord dans votre territoire
 
-[Carte des déploiements<img src="https://user-images.githubusercontent.com/83343517/164689005-f29fd8c1-2e9c-40d6-b159-c74a230802e8.png" width="50">](https://www.google.com/maps/d/viewer?mid=1f8GJYsCAeC0medH7h7O5UXh6Vt2r0y05&ll=47.06223439633373%2C2.296668550000014&z=6)
-
 Vous voulez tester Carnet de bord sur votre territoire ? Vous souhaitez savoir comment opérer concrètement le service ? Nous sommes à votre disposition ! 
 
 
