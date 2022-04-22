@@ -47,7 +47,7 @@ Développé dans le cadre du volet numérique du projet de [Service Public de l'
 **Qui sont les professionnels concernés par l'outil ?** Tous les accompagnateurs des personnes en insertion sont en mesure de bénéficier d'un accès aux carnets des usagers qu'ils accompagnent. Cela concerne tant les accompagnateurs publics (Pôle emploi, Conseils départementaux, CCAS/CIAS, missions locales, Cap emploi, etc.) que les acteurs privés de l'insertion comme, par exemple, les structures associatives déléguées pour l'accompagnement de bénéficiaires du RSA. L'accès de tous ces acteurs à l'outil a été rendu possible par un travail juridique, notamment concrétisé par l'entrée en vigueur de l'[article 168](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000045197621#:~:text=%C2%AB%20La%20personne%20dont%20les%20informations,%C3%A0%20la%20poursuite%20du%20traitement) de la loi du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale dont nous attendons la parution du décret d'application en Conseil d'État. 
 
 **Découvrez Carnet de bord en vidéo [ici](https://www.dailymotion.com/video/x898jiy) !** 
-[![Video demo](https://user-images.githubusercontent.com/83343517/164546040-b6fec9b7-35de-4613-b341-582a138e5701.png)](https://youtu.be/kWiOKSg1G8Y)
+[![Video demo](https://user-images.githubusercontent.com/83343517/164546040-b6fec9b7-35de-4613-b341-582a138e5701.png =200x150)](https://youtu.be/kWiOKSg1G8Y)
 
 ## Notre ambition
 
@@ -77,7 +77,7 @@ Nous espérons aussi que notre outil permette à l'usager de retrouver la maîtr
 * Favoriser l’autonomie et le pouvoir d’agir des personnes accompagnées, ce chantier se traduisant notamment par l'ouverture et l'enrichissement de « l'entrée usager » (chaque usager va pouvoir être acteur de son parcours grâce à sa propre interface Carnet de bord).
 
 ## Adoptez Carnet de bord dans votre territoire
-[![Carte des déploiements](https://user-images.githubusercontent.com/83343517/164546769-b36f22cf-a556-4b58-b5ef-fb28163c44e9.png)](https://www.google.com/maps/d/viewer?mid=1f8GJYsCAeC0medH7h7O5UXh6Vt2r0y05&ll=47.06223439633373%2C2.296668550000014&z=6)
+[![Carte des déploiements](https://user-images.githubusercontent.com/83343517/164546769-b36f22cf-a556-4b58-b5ef-fb28163c44e9.png =200x150)](https://www.google.com/maps/d/viewer?mid=1f8GJYsCAeC0medH7h7O5UXh6Vt2r0y05&ll=47.06223439633373%2C2.296668550000014&z=6)
 
 Vous voulez tester Carnet de bord sur votre territoire ? Vous souhaitez savoir comment opérer concrètement le service ? Nous sommes à votre disposition ! 
 
