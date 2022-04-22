@@ -50,7 +50,7 @@ Développé dans le cadre du volet numérique du projet de [Service Public de l'
 
 **Découvrez Carnet de bord en vidéo [ici](https://www.dailymotion.com/video/x898jiy) !** 
 
-![Video demonstration](/img/netlifycms/video.demo.png "Vidéo démonstration")(https://youtu.be/kWiOKSg1G8Y)
+[![Video demonstration](/img/netlifycms/video.demo.png "Vidéo démonstration")](https://youtu.be/kWiOKSg1G8Y)
 
 ## Notre ambition
 
