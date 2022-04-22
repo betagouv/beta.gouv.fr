@@ -1,5 +1,5 @@
 ---
-title: Compte Datapass
+title: Comptes Datapass
 mission: La fédération d'identité pour les personnes morales
 incubator: dinum
 sponsors:
