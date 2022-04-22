@@ -85,6 +85,5 @@ Nous espérons aussi que notre outil permette à l'usager de retrouver la maîtr
 
 Vous voulez tester Carnet de bord sur votre territoire ? Vous souhaitez savoir comment opérer concrètement le service ? Nous sommes à votre disposition ! 
 
-![](/img/netlifycms/acces_droits.png)
 
 > ### **Demandez une démo en [cliquant ici ](https://1p7fjf837yx.typeform.com/to/E9ABo0TG)**
