@@ -12,5 +12,6 @@ badges:
 startups:
     - datapass
     - api.gouv.fr
+    - compte_datapass
 ---
 
