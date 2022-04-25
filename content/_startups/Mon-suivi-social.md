@@ -20,7 +20,7 @@ phases:
     start: 2022-03-01
     end: ""
 ---
-### Contexte/problème 
+### Contexte/problème
 
 Durant la phase d'investigation, le CIAS du Grand Autunois Morvan a fait émerger la problématique du suivi numérique des bénéficiaires dans la structure. 
 
@@ -30,16 +30,13 @@ Les outils numériques répondant au besoin sont inaccessibles financièrement p
 
 ### Solution proposée
 
-Suite à une enquête de terrain, la solution prototypée est un outil numérique à double interface : 
-
-* Une interface "agent" : dossier social unique et suivi des interactions avec les bénéficiaires, agenda partagé, gestion des tâches et module statistique.
-* Une interface "bénéficiaire" : coffre-fort numérique, synthèse des RDV et rappels par mails/SMS, suivi de dossier, accès sécurisé pour l'entourage ou les aidants habilités.
+Suite à une enquête de terrain, la solution prototypée est un outil numérique à destination des agents : dossier social unique et suivi des interactions avec les bénéficiaires, agenda partagé, gestion des tâches et module statistique.
 
 Ce prototype a été testé auprès d'autres CCAS et les besoins ont été confirmés. 
 
-### Stratégie 
+### Stratégie
 
-La construction d'une version beta de la solution a débuté en mars 2022 et sera mise en test auprès d'une dizaine de structure dans les prochaines semaines.
+1 - La construction d'une version beta de la solution (**interface agent**) a débuté en mars 2022 et sera mise en test auprès d'une dizaine de structure dans les prochaines semaines.
 
 Les premières fonctionnalités expérimentées porteront sur : 
 
@@ -48,5 +45,7 @@ Les premières fonctionnalités expérimentées porteront sur :
 * Module statistique
 
 Le déploiement des fonctionnalités complémentaires sera progressif, et reposera sur une logique de co-construction.
+
+2 - Perspective complémentaire (échéance à définir) :  étude plus approfonfie autour du besoin "bénéficiaire" : coffre-fort numérique, synthèse des RDV et rappels par mails/SMS, suivi de dossier, accès sécurisé pour l'entourage ou les aidants habilités.
 
 ![](/img/netlifycms/mon.suivi.social.accueil.png)
