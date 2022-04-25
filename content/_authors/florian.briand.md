@@ -10,7 +10,6 @@ missions:
     employer: Liberté Living Lab
 startups:
   - justif
-  - reva
 competences:
   - Développement Frontend
   - Développement Backend
