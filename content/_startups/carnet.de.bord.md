@@ -9,7 +9,7 @@ link: https://carnet-de-bord.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/carnet-de-bord
 contact: contact.carnet-de-bord@fabrique.social.gouv.fr
 stats: true
-dashlord_url: https://sites.google.com/view/deploiement-carnet-de-bord/accueil
+dashlord_url: https://dashlord.incubateur.net/url/carnet-de-bord-fabrique-social-gouv-fr/
 analyse_risques: true
 accessibility_status: non conforme
 usertypes:

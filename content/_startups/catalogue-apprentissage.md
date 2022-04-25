@@ -20,6 +20,8 @@ usertypes:
   - etablissement-scolaire
   - etat
   - particulier
+dashlord_url: https://dashlord.incubateur.net/url/catalogue-apprentissage-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 Créé pour organiser la collecte des formations en apprentissage, le catalogue des formations en apprentissage permet de rendre plus visibles les offres auprès des jeunes et des employeurs.
 

@@ -17,6 +17,8 @@ phases:
     start: 2021-01-01
 usertypes:
   - particulier
+dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/tumeplay-fabrique-social-gouv-fr/
+accessibility_status: non conforme
 ---
 
 # Nos constats

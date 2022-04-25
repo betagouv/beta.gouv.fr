@@ -22,6 +22,8 @@ redirect_from:
 usertypes:
   - entreprise
   - etat
+dashlord_url: https://dashlord.incubateur.net/url/place-des-entreprises-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 
 Le service public Place des Entreprises permet à l’État, aux Régions volontaires et à l’ensemble des organismes publics et parapublics de développer leur rôle de conseil auprès des TPE & PME.

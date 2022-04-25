@@ -19,6 +19,8 @@ stats_url: https://www.dossierfacile.fr/stats
 contact: contact@dossierfacile.fr
 usertypes:
   - particulier
+dashlord_url: https://dashlord.incubateur.net/url/dossierfacile-fr/
+accessibility_status: non conforme
 ---
 ## Locatio devient DossierFacile.fr !
 
