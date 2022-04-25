@@ -5,7 +5,7 @@ domaine: Design
 link: http://www.florian-gracy.com/
 missions:
   - start: 2022-01-26
-    end: 2022-04-26
+    end: 2022-09-30
     status: independent
 startups:
   - conseiller-numerique
