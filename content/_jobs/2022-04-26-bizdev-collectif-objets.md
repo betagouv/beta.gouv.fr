@@ -33,6 +33,7 @@ Tous les 5 ans, l’État se fixe l’**objectif de les récoler (une sorte d'in
 La solution se compose :
 
 **1. D’une [interface à destination des communes](https://collectif-objets.beta.gouv.fr/) qui leur permet de recenser les objets, en test dans 4 départements (Haute-Marne, Marne, Sarthe, Hautes-Pyrénées)** 
+
 **2. D’une interface à destination des conservateurs pour leur donner de la visibilité et des moyens d'agir sur leur parc d’objets, avec un lancement prévu pour courant mai :**
 
 Les objectifs de recensement auprès des communes sollicitées ont largement été atteints au cours des premiers tests. Nous prévoyons donc d’**élargir l'expérimentation dans les 3 prochains mois à 6 nouveaux territoires**, notamment en région Grand Est, où est basé notre intrapreneur.
