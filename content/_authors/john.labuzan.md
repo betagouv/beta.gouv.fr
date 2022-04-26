@@ -12,6 +12,7 @@ missions:
     employer: fair-fair.fr
 startups:
   - commun.orientation
+  - chauffage-urbain
 previously:
   - aides-territoires
 competences:
