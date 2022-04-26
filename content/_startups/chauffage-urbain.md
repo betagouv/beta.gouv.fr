@@ -7,9 +7,9 @@ sponsors:
   - /organisations/ademe
 incubator: mtes
 link: https://france-chaleur-urbaine.beta.gouv.fr/
-repository: null
+repository: https://github.com/betagouv/france-chaleur-urbaine
 contact: florence.levy@developpement-durable.gouv.fr
-stats: false
+stats: true
 phases:
   - name: investigation
     start: 2020-03-01
@@ -23,7 +23,7 @@ usertypes:
 ---
 ## Encore trop de chauffages collectifs aux énergies fossiles
 
-**Face à l'urgence climatique, à la flambée du prix des énergies et aux tensions relatives à l'approvisionnement en énergies fossiles, les réseaux de chaleur constituent une solution de chauffage d'avenir encore sous-exploitée**
+**Face à l'urgence climatique, à la flambée du prix des énergies et aux tensions relatives à l'approvisionnement en énergies fossiles, les réseaux de chaleur constituent une solution de chauffage d'avenir encore sous-exploitée.**
 
 Alimentés en moyenne à plus de 60 % par des énergies renouvelables et de récupération locales, les réseaux de chaleur :
 
@@ -37,7 +37,7 @@ Ainsi, lorsque les chaudières existantes arrivent en fin de vie ou que des trav
 
 ## La solution France Chaleur Urbaine
 
-France Chaleur Urbaine est la plateforme de mise en relation entre copropriétés et exploitants pour accélérer le raccordement des copropriétés aux réseaux de chaleur.
+France Chaleur Urbaine vise à faciliter et accélérer les raccordements des bâtiments aux réseaux de chaleur.
 
 * **Pour les copropriétaires, et les propriétaires ou gestionnaires de bâtiments tertiaires**, France Chaleur Urbaine constitue une plateforme d’**informations et de mise en relation directe avec le gestionnaire du réseau local** (par exemple pour solliciter un rendez-vous ou un devis) ;
 * **Pour les exploitants ou collectivités** qui souhaitent agir pour la transition énergétique, France Chaleur Urbaine constitue une plateforme pour **valoriser leur réseau de chaleur**, pour **acquérir de nouveaux prospects** et pour **accéder à des données sur les potentiels de raccordement** sur leur territoire, à l'échelle des bâtiments, via un outil cartographique.
@@ -66,6 +66,6 @@ France Chaleur Urbaine a l'objectif de déployer le service au niveau national a
 * la mise en place de **partenariats avec des collectivités et exploitants**, utilisant le service et s'en faisant le relais ;
 * l'extension de la **cartographie à l'échelle nationale** (actuellement limitée à l'Ile-de-France) ;
 * des nouvelles **fonctionnalités** (pour les copropriétés prospects, les opérateurs, les ambassadeurs) ;
-* l'animation du **consortium** de partenaires publics et privés
+* l'animation d'un **consortium** de partenaires publics et privés.
 
 Le raccordement à un réseau de chaleur nécessitant un temps relativement long (plusieurs mois), nous estimons l’impact par le nombre de demandes de contact reçues et transférées aux gestionnaires des réseaux, et par le nombre de collectivités et exploitants partenaires du service. La quantité de CO2 évitée par les raccordements à l'étude sera également évaluée.
