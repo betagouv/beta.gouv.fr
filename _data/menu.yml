@@ -2,6 +2,9 @@
 title:
 nav:
   -
+    label: Brigade
+    target: _pages/brigade.md
+  -
     label: Réalisations
     target: _pages/startups.md
   -
@@ -10,9 +13,6 @@ nav:
   -
     label: Recrutement
     target: _pages/recrutement.md
-  -
-    label: Brigade
-    target: _pages/brigade.md
 shortcuts:
   -
     label: Annuaire
