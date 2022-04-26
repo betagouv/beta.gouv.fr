@@ -1,6 +1,6 @@
 ---
 fullname: Thomas Bouyer
-role: Intrapreneur
+role: Sponsor de proximité
 domaine: Intraprenariat
 missions:
   - start: 2021-04-07
