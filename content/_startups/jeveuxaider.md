@@ -20,6 +20,8 @@ usertypes:
   - collectivite-territoriale
   - association
   - particulier
+dashlord_url: https://dashlord.incubateur.net/url/www-jeveuxaider-gouv-fr/
+accessibility_status: non conforme
 ---
 [JeVeuxAider.gouv.fr](https://www.jeveuxaider.gouv.fr/) est la plateforme publique du bénévolat, proposée par la Réserve Civique.\
 \

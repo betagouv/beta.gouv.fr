@@ -23,6 +23,8 @@ phases:
 usertypes:
   - collectivite-territoriale
   - particulier
+dashlord_url: https://dashlord.incubateur.net/url/histologe-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 ## Problème
 

@@ -26,6 +26,7 @@ techno:
    - Mailjet
 usertypes:
   - etat
+accessibility_status: non conforme
 ---
 
 ## Avec Administration+, aucun blocage ne vous résiste

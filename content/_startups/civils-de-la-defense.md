@@ -19,6 +19,8 @@ contact: drh-md-srhc-civilsdeladefense.charge-qualite.fct@intradef.gouv.fr
 usertypes:
   - particulier
   - etat
+dashlord_url: https://dashlord.incubateur.net/url/civilsdeladefense-fabnum-fr/
+accessibility_status: non conforme
 ---
 
 
