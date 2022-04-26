@@ -1,15 +1,15 @@
 ---
 startup: Collectif Objets
 title: L'incubateur de la Culture recrute
-roles: "Chargé.e de déploiement pour la start-up d'État Collectif Objets"
-type: 'friend'
+roles: "Chargé.e de déploiement pour la start-up Collectif Objets"
 contact: collectifobjets@beta.gouv.fr
 open: true
 ---
 
 
 ## **Tu souhaites contribuer à une meilleure préservation de notre patrimoine ?**
-Rejoins l’équipe de Collectif Objets, une start-up d’Etat du Ministère de la culture qui crée un outil de collecte participative de données sur les objets monuments historiques.
+
+Rejoins l’équipe de Collectif Objets, une start-up d’Etat du ministère de la Culture qui crée un outil de collecte participative de données sur les objets monuments historiques.
 
 - **Quand ?** Courant mai 2022
 - **Où ?** en télétravail et ponctuellement en présentiel dans les locaux de la DINUM. Un plus si tu es basé.e dans la région Grand Est ! 
@@ -21,20 +21,21 @@ Rejoins l’équipe de Collectif Objets, une start-up d’Etat du Ministère d
 
 
 ## **Le contexte**
-La France compte 260 000 objets classés ou inscrits monuments historiques. Ce parc d’objets est dispersé chez un grand nombre de propriétaires (une commune sur deux soit 15 000 propriétaires environ). 
-Tous les 5 ans, l’État se fixe l’**objectif de les récoler (une sorte d'inventaire) pour en assurer la pérennité et la transmission aux générations futures**.
-Cependant, compte tenu de la dispersion des propriétaires, **seulement 15% des 52 000 objets à récoler chaque année le sont effectivement**. 
 
-## **Collectif Objets, préservons notre patrimoine**
-“Collectif objets” est un dispositif participatif qui assure une collecte régulière de données sur les objets mobiliers auprès des communes. Il permet aux conservateurs·rices d’orienter leurs décisions, tout en développant la conscience patrimoniale des acteurs locaux.
+La France compte 260 000 objets classés ou inscrits monuments historiques. Ce parc d’objets est dispersé chez un grand nombre de propriétaires (une commune sur deux soit 15 000 propriétaires environ). 
+Tous les 5 ans, l’État se fixe l’**objectif de les récoler (une sorte d'inventaire) pour en assurer la pérennité et la transmission aux générations futures**. Cependant, compte tenu de la dispersion des propriétaires, **seulement 15% des 52 000 objets à récoler chaque année le sont effectivement**. 
+
+
+## **Collectif Objets, préservons notre patrimoine !**
+
+“Collectif objets” est un dispositif participatif qui assure une collecte régulière de données sur les objets mobiliers auprès des communes propriétaires. Il permet aux conservateurs·rices d’orienter leurs décisions, tout en développant la conscience patrimoniale des acteurs locaux.
+
 La solution se compose :
 
-
 **1. D’une [interface à destination des communes](https://collectif-objets.beta.gouv.fr/) qui leur permet de recenser les objets, en test dans 4 départements (Haute-Marne, Marne, Sarthe, Hautes-Pyrénées)** 
-
 **2. D’une interface à destination des conservateurs pour leur donner de la visibilité et des moyens d'agir sur leur parc d’objets, avec un lancement prévu pour courant mai :**
 
-**Les objectifs de recensement auprès des communes sollicitées ont largement été atteints au cours des premiers tests. Nous prévoyons donc d’élargir l'expérimentation dans les 3 prochains mois à 6 nouveaux territoires, notamment en région Grand Est, où est basé notre intrapreneur.** 
+Les objectifs de recensement auprès des communes sollicitées ont largement été atteints au cours des premiers tests. Nous prévoyons donc d’**élargir l'expérimentation dans les 3 prochains mois à 6 nouveaux territoires**, notamment en région Grand Est, où est basé notre intrapreneur.
 
 
 ## **La mission**
@@ -52,7 +53,9 @@ Tu travailleras aux côtés d'Elsa, actuellement en charge du déploiement, dans
 - **Participer à l’amélioration continue** de l’outil (ateliers utilisateurs, recueil des besoins, contribution à la feuille de route, évaluation des résultats, participation aux séminaires).
 - **Contribuer à l'animation de l'équipe** en participant aux différents rituels (en visio) : réunion de lancement de semaine, démo produit, points de rétrospective sur notre fonctionnement interne tous les mois.
 
+
 ## **🔎 Profil recherché**
+
 - Tu as une bonne connaissance des différents outils de communication (la connaissance de Sendinblue est un plus)
 - Tu as de bonnes capacités de rédaction et de synthèse
 - Tu as le souci du résultat et du suivi par l’impact
@@ -62,5 +65,7 @@ Tu travailleras aux côtés d'Elsa, actuellement en charge du déploiement, dans
 - Tu sais faire preuve de curiosité, rigueur et autonomie
 - Un intérêt pour le patrimoine est un plus !
 
+
 ## **Candidater**
-Si tu as envie de nous rejoindre, merci de nous envoyer un CV et quelques mots sur ta motivation à l'adresse suivante : collectifobjets@beta.gouv.fr 
+
+Si tu as envie de nous rejoindre, merci de nous envoyer un CV et quelques mots sur ta motivation à l'adresse suivante : **collectifobjets@beta.gouv.fr** 
