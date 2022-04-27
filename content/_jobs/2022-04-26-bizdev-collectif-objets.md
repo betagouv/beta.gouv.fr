@@ -17,7 +17,7 @@ Rejoins l’équipe de Collectif Objets, une start-up d’Etat du ministère d
 - **Pour combien de temps ?** 3 mois, renouvelables
 - **Modalités** : freelance
 - **Accessibilité** : poste ouvert aux personnes en situation de handicap
-- **TJM** : à discuter selon ton expérience
+- **TJM** : entre 250€ et 450€, à discuter selon ton expérience
 
 
 ## **Le contexte**
