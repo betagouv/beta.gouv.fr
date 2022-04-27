@@ -22,6 +22,26 @@ Les dotations financières de l’État aux collectivités représentent près d
 
 Pourtant, des [données ouvertes sur les territoires](http://www.dotations-dgcl.interieur.gouv.fr/consultation/dotations_en_ligne.php) existent et une [partie de la réglementation](https://git.leximpact.dev/leximpact/openfisca-france-dotations-locales) est déjà modélisée. Mais ces éléments techniques sont-ils accessibles ?
 
-## La solution
+## La phase d'investigation
 
-Construire avec les territoires un moyen d'évaluer le montant de dotations de l'État en associant la connaissance que chaque territoire a de lui-même, les textes réglementaires ainsi que les données du calcul des dotations locales publiées en open data par la [Direction Régionale des Collectivités Locales](http://www.dotations-dgcl.interieur.gouv.fr/consultation/accueil.php). 
+Une première phase de recherche va permettre de détecter les réels besoins des utilisateurs et, dans un second temps,  d’identifier les problématiques liés à la prise de connaissance du montant et à la compréhension des méthodes de calcul.
+
+**Plusieurs typologies de collectivités sont concernées par l’étude  :**
+* Communes rurale de moins de 3500 habitants
+* Communes de montagne
+* Communes bourg-centre
+* EPCI et Communautés d’agglomération
+* Départements et Régions
+
+## Les hypothèses d’amélioration
+
+Construire avec les territoires un moyen d'évaluer le montant de dotations de l'État en associant la connaissance que chaque territoire a de lui-même, les textes réglementaires ainsi que les données du calcul des dotations locales publiées en open data par la [Direction Régionale des Collectivités Locales](http://www.dotations-dgcl.interieur.gouv.fr/consultation/accueil.php).
+
+**Plusieurs axes d’amélioration sont étudiés pour permettre aux collectivités de :**
+* Mieux comprendre le mécanisme des dotations globales de fonctionnement
+* Suivre l’historique et l’évolution de leurs dotations
+* Comprendre des critères qui interviennent dans le calcul
+* Visualiser et identifier les seuils qui ont un impact sur le calcul
+* Se comparer facilement avec d’autres collectivités
+
+La solution permettra également l’ouverture et la publication du modèle de calcul des dotations locales.
