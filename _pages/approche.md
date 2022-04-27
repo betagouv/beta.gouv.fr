@@ -5,7 +5,7 @@ title: Découvrir le programme
 ---
 
 <div class="fr-grid-row fr-grid-row--gutters">
-   <div class="fr-col-md-6 fr-col-xs-12">
+   <div class="fr-col-md-6 fr-col-12">
       <p class="fr-text--lg">
          <b>beta.gouv</b> est un programme d’incubation qui aide les administrations publiques à construire des services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens.
       </p>
@@ -18,8 +18,8 @@ title: Découvrir le programme
       <br>
       <a class="fr-btn fr-btn--md" href="#alpha">Former les agents</a>
    </div>
-   <div class="fr-col-md-6 fr-col-xs-12">
-      <img 
+   <div class="fr-col-md-6 fr-col-12">
+      <img
          class='fr-my-6w'
          src="/img/programme/programme.svg"
          alt="Le programme Beta.gouv.fr se déroule en 4 étapes : investigation, construction, accélération puis transfert." style="width: 100%;" />
@@ -80,13 +80,13 @@ title: Découvrir le programme
 <br/>
 <div>
    <div id="investigation" class="fr-grid-row fr-grid-row--gutters fr-mb-6w">
-      <div class="fr-col-md-4 fr-col-xs-12">
+      <div class="fr-col-md-4 fr-col-12">
          <img
             src="/img/programme/investigation.svg"
             alt="Illustration identifier le problème à résoudre"
             style="width: 100%;" />
       </div>
-      <div class="fr-col-md-8 fr-px-4w fr-col-xs-12">
+      <div class="fr-col-md-8 fr-px-4w fr-col-12">
          <span><b>L’Investigation</b></span>
          <h3>
             Identifier le problème à résoudre
@@ -103,15 +103,15 @@ title: Découvrir le programme
       </div>
    </div>
    <br>
-   <br>  
+   <br>
    <div id="construction" class="fr-grid-row fr-grid-row--gutters">
-      <div class="fr-col-md-4 fr-col-xs-12">
+      <div class="fr-col-md-4 fr-col-12">
          <img
             src="/img/programme/realisation.svg"
             alt="Illustration réaliser un service public numérique"
             style="width: 100%;" />
       </div>
-      <div class="fr-col-md-8 fr-px-4w fr-col-xs-12">
+      <div class="fr-col-md-8 fr-px-4w fr-col-12">
          <span><b>La Start-up d’Etat</b></span>
          <h3>
             Réaliser un service public numérique
@@ -141,16 +141,16 @@ title: Découvrir le programme
    </div>
 </div>
 <br>
-<br>  
+<br>
 <div id="alpha" class="fr-grid-row fr-grid-row--gutters full-width section-grey">
    <br>
-   <div class="fr-col-md-4 fr-col-xs-12">
+   <div class="fr-col-md-4 fr-col-12">
       <img
          src="/img/alpha/alpha-first-session-solo.jpeg"
          alt="Illustration réaliser un service public numérique"
          style="width: 100%;" />
    </div>
-   <div class="fr-col-md-8 fr-px-4w fr-col-xs-12">
+   <div class="fr-col-md-8 fr-px-4w fr-col-12">
       <span><b>La formation des agents publics</b></span>
       <h3>
          Passer une journée à beta.gouv
