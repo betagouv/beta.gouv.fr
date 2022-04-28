@@ -1,13 +1,14 @@
 ---
 fullname: Christophe Amalric
 domaine: Coaching
-role: "Coach "
+role: Coach Produit
 github: tikris
 missions:
   - start: 2021-04-19
-    end: 2022-04-30
+    end: 2022-05-31
     status: service
     employer: Sopra Steria Next
+incubator: bercy
 startups:
   - la-bonne-boite
 previously:
@@ -22,4 +23,4 @@ competences:
   - Communication
   - Croissance
 ---
-Papa (x2), Product Management, Course à pieds, Voyageur (23/197) 🚀 ✈️
+Papa, Product Management, Course à pieds, Voyageur (23/197) 🚀 ✈️
