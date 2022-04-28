@@ -5,8 +5,11 @@ sponsors:
   - /organisations/mc
 incubator: culture
 phases:
+  - name: investigation
+    start: 2022-01-05
   - name: construction
     start: 2022-04-15
+stats: false
 usertypes:
   - etat
 ---
