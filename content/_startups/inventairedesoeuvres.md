@@ -1,5 +1,5 @@
 ---
-title: Inventaire des œuvres d'art
+title: Inventaire des oeuvres d'art
 mission: Optimiser la gestion des dépôts des biens culturels de l’Etat chez les dépositaires en assurant une meilleure traçabilité entre deux récolements
 sponsors:
   - /organisations/mc
