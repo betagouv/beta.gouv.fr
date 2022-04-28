@@ -6,8 +6,7 @@ sponsors:
 incubator: culture
 phases:
   - name: construction
-    start: 2022-01-01
-
+    start: 2022-04-15
 stats: true
 ---
 
