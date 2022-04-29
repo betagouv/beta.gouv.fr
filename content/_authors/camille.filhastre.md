@@ -4,7 +4,7 @@ role: Co-Product Owner
 domaine: Produit
 missions:
   - start: 2021-11-15
-    end: 2022-05-01
+    end: 2022-07-15
     status: service
     employer: Octo
 startups:
