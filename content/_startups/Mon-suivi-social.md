@@ -3,7 +3,7 @@ mission: Préfigurer un outil de suivi social pour les CCAS et secrétariats de 
 incubator: anct
 repository: https://gitlab.com/incubateur-territoires/startups/monsuivisocial
 contact: contactincubateur@anct.gouv.fr
-accessibility_status: null
+accessibility_status: non conforme
 usertypes:
   - collectivite-territoriale
 stats_url: null
