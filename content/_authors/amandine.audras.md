@@ -25,6 +25,7 @@ startups:
     - api.gouv.fr
     - datapass
     - annuaire-entreprises
+    - comptes_datapass
 previously:
     - _openfisca_
     - aides.jeunes
