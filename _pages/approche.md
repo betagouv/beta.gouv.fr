@@ -22,7 +22,8 @@ title: Découvrir le programme
       <img
          class='fr-my-6w'
          src="/img/programme/programme.svg"
-         alt="Le programme Beta.gouv.fr se déroule en 4 étapes : investigation, construction, accélération puis transfert." style="width: 100%;" />
+         alt="Le programme Beta.gouv.fr se déroule en 4 étapes : investigation, construction, accélération puis transfert."
+        />
    </div>
 </div>
 <br>
@@ -84,7 +85,7 @@ title: Découvrir le programme
          <img
             src="/img/programme/investigation.svg"
             alt="Illustration identifier le problème à résoudre"
-            style="width: 100%;" />
+          />
       </div>
       <div class="fr-col-md-8 fr-px-4w fr-col-12">
          <span><b>L’Investigation</b></span>
@@ -109,7 +110,7 @@ title: Découvrir le programme
          <img
             src="/img/programme/realisation.svg"
             alt="Illustration réaliser un service public numérique"
-            style="width: 100%;" />
+          />
       </div>
       <div class="fr-col-md-8 fr-px-4w fr-col-12">
          <span><b>La Start-up d’Etat</b></span>
@@ -148,7 +149,7 @@ title: Découvrir le programme
       <img
          src="/img/alpha/alpha-first-session-solo.jpeg"
          alt="Illustration réaliser un service public numérique"
-         style="width: 100%;" />
+        />
    </div>
    <div class="fr-col-md-8 fr-px-4w fr-col-12">
       <span><b>La formation des agents publics</b></span>
