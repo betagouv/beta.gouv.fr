@@ -20,12 +20,12 @@ missions:
       end: 2022-12-31
       status: independent
       employer: La Zone
-    
 startups:
     - api.gouv.fr
     - datapass
     - annuaire-entreprises
     - comptes_datapass
+    - metiers-numeriques
 previously:
     - _openfisca_
     - aides.jeunes
