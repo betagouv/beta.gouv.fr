@@ -13,8 +13,7 @@ layout: default
     <!-- Content -->
     <div class="fr-col-12 fr-col-md-9">
       <h1>{{ page.title }}</h1>
-      <br>
-      <div class="fr-grid-row fr-grid-row--gutters">
+      <div class="fr-grid-row fr-grid-row--gutters fr-mt-2w">
           {% for image in page.images %}
           <div class="fr-col-6">
             <div class="fr-card fr-card--no-arrow">
@@ -27,12 +26,8 @@ layout: default
           </div>
         {% endfor %}
       </div>
-      <br>
-      <br>
       <div class="markdown">{{ content }}</div>
-      <h2>La formation alpha en chiffres</h2>
-      <br>
-      <br>
+      <h2 class="fr-mt-6w">La formation alpha en chiffres</h2>
       <div class="fr-grid-row fr-grid-row--gutters">
           {% for metric in page.metrics %}
           <div class="fr-col-md-3 fr-col-12">
@@ -49,9 +44,7 @@ layout: default
           </div>
         {% endfor %}
       </div>
-      <br>
-      <br>
-      <div class="fr-grid-row fr-grid-row--gutters">
+      <div class="fr-grid-row fr-grid-row--gutters fr-mt-2w">
         {% for product in page.verbatims %}
           <div class="fr-col-md-6 fr-col-12">
             <div class="fr-card fr-card--horizontal fr-card--no-arrow">

@@ -4,7 +4,7 @@ permalink: /approche/
 title: Découvrir le programme
 ---
 
-<div class="fr-grid-row fr-grid-row--gutters">
+<div class="fr-grid-row fr-grid-row--gutters fr-pb-6w">
    <div class="fr-col-md-6 fr-col-12">
       <p class="fr-text--lg">
          <b>beta.gouv</b> est un programme d’incubation qui aide les administrations publiques à construire des services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens.
@@ -12,11 +12,9 @@ title: Découvrir le programme
       <h2>Nos accompagnements</h2>
       <a class="fr-btn fr-btn--md" href="#investigation">Lancer une investigation</a>
       <br>
+      <a class="fr-btn fr-btn--md fr-mt-2w" href="#construction">Construire un service numérique</a>
       <br>
-      <a class="fr-btn fr-btn--md" href="#construction">Construire un service numérique</a>
-      <br>
-      <br>
-      <a class="fr-btn fr-btn--md" href="#alpha">Former les agents</a>
+      <a class="fr-btn fr-btn--md fr-mt-2w" href="#alpha">Former les agents</a>
    </div>
    <div class="fr-col-md-6 fr-col-12">
       <img
@@ -26,11 +24,9 @@ title: Découvrir le programme
         />
    </div>
 </div>
-<br>
-<div class="fr-container section-grey ">
-   <br>
-   <h3>Notre fonctionnement</h3>
-   <div class="fr-grid-row  fr-grid-row--gutters startups fr-py-6w">
+<div class="fr-container section-grey fr-py-6w">
+   <h3 class="fr-mb-4w">Notre fonctionnement</h3>
+   <div class="fr-grid-row  fr-grid-row--gutters startups">
       <div class="fr-col fr-col-12 fr-col-md-3"  >
       <div class="fr-tile fr-enlarge__link">
       <div class="fr-tile__body">
@@ -75,11 +71,9 @@ title: Découvrir le programme
       </div>
    </div>
 </div>
-<br>
-<br>
-<h2>Les étapes du programme en détail</h2>
-<br/>
-<div>
+
+<div class="fr-py-6w">
+  <h2 class="fr-mb-4w">Les étapes du programme en détail</h2>
    <div id="investigation" class="fr-grid-row fr-grid-row--gutters fr-mb-6w">
       <div class="fr-col-md-4 fr-col-12">
          <img
@@ -106,8 +100,7 @@ title: Découvrir le programme
         </div>
       </div>
    </div>
-   <br>
-   <br>
+
    <div id="construction" class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-4 fr-col-12">
          <img
@@ -120,8 +113,7 @@ title: Découvrir le programme
          <h3>
             Réaliser un service public numérique
          </h3>
-         <br>
-         <h4 class="decorated">La phase de construction</h4>
+         <h4 class="decorated fr-mt-4w">La phase de construction</h4>
          <p>
             Constituer son équipe et développer son produit en produisant la première version de la solution sur un terrain d’expérimentation.
          </p>
@@ -145,10 +137,8 @@ title: Découvrir le programme
       </div>
    </div>
 </div>
-<br>
-<br>
-<div id="alpha" class="fr-grid-row fr-grid-row--gutters full-width section-grey">
-   <br>
+
+<div id="alpha" class="fr-grid-row fr-grid-row--gutters full-width section-grey fr-py-6w">
    <div class="fr-col-md-4 fr-col-12">
       <img
          src="/img/alpha/alpha-first-session-solo.jpeg"
@@ -163,10 +153,8 @@ title: Découvrir le programme
       <p>
          Une journée de formation pour apprendre les méthodes utilisées au sein de Beta.gouv, travailler sur des problèmes de politiques publiques concrets et repartir avec une nouvelle manière d'aborder les problèmes de vos services !
       </p>
-      <br>
       <a class="fr-btn fr-btn--md" href="/approche/formation">S’inscrire à la prochaine session</a>
    </div>
-   <br>
 </div>
 
 
