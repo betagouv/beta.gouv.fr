@@ -22,15 +22,17 @@
               <i class="ri-map-pin-fill"></i>
           </span>{{ incubator.address }}</p>
           {% endif %}
-          <a href="/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}" class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right">
-            Voir les réalisations
-          </a>
+          <div class="fr-btns-group fr-btns-group--inline fr-btns-group--icon-left">
+            <a href="/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}" class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right">
+              Voir les réalisations
+            </a>
 
-          {% if incubator.website %}
-          <a href="{{ incubator.website }}" class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right">
-            Voir le site
-          </a>
-          {% endif %}
+            {% if incubator.website %}
+            <a href="{{ incubator.website }}" class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right">
+              Voir le site
+            </a>
+            {% endif %}
+          </div>
       </div>
   </div>
 </div>

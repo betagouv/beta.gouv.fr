@@ -92,15 +92,18 @@ title: Découvrir le programme
          <h3>
             Identifier le problème à résoudre
          </h3>
-         Valider que le problème peut être résolu par le numérique  en rencontrant des utilisateurs pour qualifier le problème et imaginer des ébauches de solutions
+         <p>
+          Valider que le problème peut être résolu par le numérique  en rencontrant des utilisateurs pour qualifier le problème et imaginer des ébauches de solutions
+         </p>
          <div class="fr-mb-4w fr-p-1w fr-col-md-6 fr-col-sm-12 fr-mt-2w section-grey" >
             <span aria-hidden="true">📅</span> Pendant <b>1 à 2 mois </b><br>
             <span aria-hidden="true">✋</span> <a href="/devenir-intrapreneur">L’intra</a> accompagné d’un ou d’une coach
          </div>
-         Décideur public, vous voulez lancer une investigation avec nous?
-         <br>
-         <a id="btn-nous-ecrire-investigation" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
-         <a id="btn-decouvrir-investigation" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link" href="/approche/investigation">Découvrir l'investigation</a>
+         <p>Décideur public, vous voulez lancer une investigation avec nous?</p>
+        <div class="fr-btns-group fr-btns-group--inline">
+          <a id="btn-nous-ecrire-investigation" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
+          <a id="btn-decouvrir-investigation" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link" href="/approche/investigation">Découvrir l'investigation</a>
+        </div>
       </div>
    </div>
    <br>
@@ -133,11 +136,12 @@ title: Découvrir le programme
          <div class="fr-mb-4w fr-p-1w fr-col-md-8 fr-col-sm-12 fr-mt-2w section-grey">
             <span aria-hidden="true">📅</span> Pendant <b>18 à 32 mois</b><br>
             <span aria-hidden="true">✋</span> Avec <a href="/devenir-intrapreneur">l’intra</a>, son ou sa coach et une équipe d’experts
-         </div> 
-         Décideur public, vous voulez réaliser un service public numérique ? 
-         <br>
-         <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
-          <a id="btn-decouvrir-construction" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link"  href="/approche/construction">Découvrir la construction</a>
+         </div>
+         <p>Décideur public, vous voulez réaliser un service public numérique ?</p>
+         <div class="fr-btns-group fr-btns-group--inline">
+            <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Prenez rendez-vous</a>
+              <a id="btn-decouvrir-construction" class="fr-btn fr-btn--md fr-btn--secondary fr-enlarge-link"  href="/approche/construction">Découvrir la construction</a>
+         </div>
       </div>
    </div>
 </div>
