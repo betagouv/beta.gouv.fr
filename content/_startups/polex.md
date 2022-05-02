@@ -8,7 +8,7 @@ link: null
 repository: null
 contact: frederic.gillodes@interieur.gouv.fr
 usertypes:
-  - entreprise
+  - etat
 stats: false
 phases:
   - name: investigation
