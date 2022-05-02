@@ -12,14 +12,15 @@ phases:
     start: 2022-02-15
 events:
   - name: end
-    date: 2022-12-31
+    date: 2022-04-30
 link:
 repository: 
 stats: false 
 stats_url: 
 contact: clemence.augustin@ars.sante.fr
 usertypes:
-  - agents
+  - etat
+  - entreprises
 ---
 
 # Contexte :
