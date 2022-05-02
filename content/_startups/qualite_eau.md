@@ -1,6 +1,6 @@
 ---
-title: Non-recours au service public de l'insertion et de l'emploi 
-mission: Faciliter l'accès des personnes dites 'invisibles' aux dispositifs d'accompagnement vers l'emploi
+title: Qualité de l'eau
+mission: Permettre aux agents ARS de gagner en efficacité dans les actions d'inspection et de prévention
 sponsors:
 
 incubator: sgmas
@@ -8,11 +8,8 @@ phases:
   - name: investigation
     start: 2022-02-26
     end: 2022-04-30
-  - name: alumni
-    start: 2022-02-15
 events:
-  - name: end
-    date: 2022-04-30
+
 link:
 repository: 
 stats: false 
@@ -20,7 +17,7 @@ stats_url:
 contact: clemence.augustin@ars.sante.fr
 usertypes:
   - etat
-  - entreprises
+  - entreprise
 ---
 
 # Contexte :
