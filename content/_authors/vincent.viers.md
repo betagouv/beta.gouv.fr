@@ -14,8 +14,6 @@ missions:
     end: 2022-09-01
     status: independent
     employer: benext
-startups:
-    - produits-beta
 previously:
     - signaux-faibles
     - disinfo
