@@ -8,7 +8,7 @@ missions:
     status: service
     employer: octo
 startups:
-  - REVA
+  - reva
 ---
 
 Product Owner / Manager 
