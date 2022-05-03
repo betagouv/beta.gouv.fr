@@ -8,6 +8,7 @@ missions:
     status: service
     employer: FNCCR
 startups:
+previously:
   - chauffage-urbain
 ---
 

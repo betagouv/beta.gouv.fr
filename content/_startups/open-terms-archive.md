@@ -16,6 +16,8 @@ phases:
     start: 2020-06-04
   - name: acceleration
     start: 2022-01-01
+dashlord_url: https://dashlord.incubateur.net/url/opentermsarchive-org/
+accessibility_status: non conforme
 ---
 
 [Open Terms Archive](https://opentermsarchive.org) est un outil libre et ouvert de suivi et d’archivage des évolutions des conditions générales d’utilisation des principaux fournisseurs de services en ligne qui vise à rééquilibrer le rapport de force avec les grandes plateformes.

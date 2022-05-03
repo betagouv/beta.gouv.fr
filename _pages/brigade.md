@@ -1,0 +1,4 @@
+---
+layout: brigade
+permalink: /brigade/
+---

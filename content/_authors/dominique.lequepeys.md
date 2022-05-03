@@ -9,7 +9,6 @@ missions:
     status: service
     employer: octo
 startups:
-  - chauffage-urbain
 previously:
   - aplus
   - histovec
@@ -17,6 +16,7 @@ previously:
   - bati-amiante
   - candilib
   - urgencevie
+  - chauffage-urbain
 competences:
   - Coaching
 ---

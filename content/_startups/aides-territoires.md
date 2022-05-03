@@ -19,6 +19,8 @@ phases:
     start: 2018-09-10
 usertypes:
   - collectivite-territoriale
+dashlord_url: https://dashlord.incubateur.net/url/aides-territoires-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 ## Le problème
 

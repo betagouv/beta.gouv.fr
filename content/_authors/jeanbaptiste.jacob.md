@@ -5,7 +5,7 @@ domaine: Déploiement
 github: yodbetyod
 missions:
   - start: 2021-10-28
-    end: 2022-04-30
+    end: 2022-10-31
     status: independent
 startups:
   - ma-cantine-egalim

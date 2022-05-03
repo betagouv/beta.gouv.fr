@@ -5,7 +5,7 @@ github: JDixmier
 role: Chargée de déploiement
 missions:
   - start: 2021-08-23
-    end: 2022-04-28
+    end: 2022-12-30
     status: independent
     employer: Octo
 startups:

@@ -6,9 +6,9 @@ github: paduc
 link:
 missions:
   - start: 2020-02-11
-    end: 2022-06-30
+    end: 2022-12-30
     status: independent
-    employer: Octo
+    employer: Benext/Malt
 startups:
     - potentiel
 ---

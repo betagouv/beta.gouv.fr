@@ -20,6 +20,8 @@ redirect_from:
 usertypes:
   - particulier
   - entreprise
+dashlord_url: https://mtes-mct.github.io/dashlord/url/le-taxi/
+accessibility_status: non conforme
 ---
 
 Le Taxi, c'est plus de 50 000 chauffeurs en France, partout sur le territoire, de la plus petite commune à la plus grande métropole.

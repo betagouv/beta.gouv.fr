@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2021-11-30
-    end: 2022-05-14
+    end: 2022-12-31
     status: admin
 startups:
   - monitorfish
