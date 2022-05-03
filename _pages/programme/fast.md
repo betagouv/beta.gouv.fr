@@ -11,7 +11,7 @@ redirect_from:
 
 Le Fond d’accélération des Startups d’État et de Territoire (FAST), porté par la Direction interministérielle du numérique, est un programme d’accélération qui vise à favoriser l’émergence de services publics numériques à impact national conçus [selon l'approche Startup d'État](https://beta.gouv.fr/approche). 
 
-Ce programme est structuré autour d’un cofinancement de la Startup à hauteur de 50% et d’un accompagnement oppérationnel par une équipe d’experts de la DINUM.
+Ce programme est structuré autour d’un cofinancement de la Startup d'État à hauteur de 50% et d’un accompagnement opérationnel par une équipe d’experts de la Direction Interministérielle du Numérique.
 
 Depuis 2022, l’appel à candidatures est ouvert toute l’année. Les dossiers sont relevés au fil de l’eau et font l’objet d’une réponse sous 6 semaines maximum.
 
@@ -22,7 +22,7 @@ Ce programme d’accélération a pour objectifs :
 - de préparer leur consolidation grâce à la conception d’un plan de qualité produit étalé dans le temps et conditionné par l’impact
 
 ## Modalité de financement
-Le co-financement de la Startup d’Etat est conditionné à hauteur de 1€ pour 1€ investi par l’administration et est limité à 300K€ maximum.
+Le cofinancement de la Startup d’Etat est conditionné à hauteur de 1€ pour 1€ investi par l’administration. Il est limité à 300K€ maximum.
 L’administration doit être en mesure de garantir sa capacité à financer à hauteur de la somme qu’elle sollicite (exemple : si le besoin évalué est de 100 000 euros, vous sollicitez 50 000 euros de la DINUM et vous mobilisez 50 000 euros). 
 
 Nous établirons une [convention de partenariat](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/) pour s’aligner sur les objectifs et modalités du cofinancement. Le montant du ticket global devra être consacré à des dépenses futures basées sur les recommandations du programme d’accélération.
@@ -30,12 +30,12 @@ Nous établirons une [convention de partenariat](https://www.data.gouv.fr/en/dat
 ## Conditions d'éligibilité
 
 Pour être éligible au Programme FAST, le service publique numérique doit remplir à minima les conditions ci-dessous :
-- produit open source disponible en production et conforme aux [standards techniques du programme beta.gouv](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr)
-- des premiers utilisateurs satisfaits du service
-- des actions de déploiements ont été mené par au moins un membre de l’équipe
-- impact mesuré de façon chiffrée (avec une page /stats publique), qui prouve l’utilité du service pour ses utilisateurs
-- produit inscrit sur le tableau de bord des bonnes pratiques [Dashlord](https://dashlord.incubateur.net/)
-- volonté de l’administration porteuse de faire passer ce produit à l’échelle avec une stratégie de déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service) et des moyens adaptés. Les critères d’un produit considéré en “phase d’accélération” sont détaillés sur [cette page](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration).
+- produit open source disponible en production et conforme aux [standards techniques du programme beta.gouv](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr) ;
+- des premiers utilisateurs satisfaits du service ;
+- des actions de déploiements ont été mené par au moins un membre de l’équipe ;
+- impact mesuré de façon chiffrée (avec une page /stats publique), qui prouve l’utilité du service pour ses utilisateurs ;
+- produit inscrit sur le tableau de bord des bonnes pratiques [Dashlord](https://dashlord.incubateur.net/) ;
+- volonté de l’administration porteuse de faire passer ce produit à l’échelle avec une stratégie de déploiement (pistes d’amélioration du produit, leviers substantiels de diffusion du service) et des moyens adaptés. Les critères d’un produit considéré en “phase d’accélération” sont détaillés sur [cette page](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration) ; 
 - les Startups d’État ayant déjà bénéficié d’un ticket de construction devront présenter leur bilan d’impact suite au premier cofinancement FAST.
 
 ## Critères d'évaluation
@@ -74,8 +74,8 @@ Une partie des ressources attribuée par le FAST sera également dédiée au pro
 L’objectif du séminaire est que l’équipe ressorte avec un plan d’action sur les prochains mois et des ressources sur lesquelles s’appuyer (l’idée n’est pas de tout faire mais d’identifier clairement les pistes d’amélioration). Le plan est fortement corrélé à l’état de la startup. Un plan de montée en qualité pourrait être proposé en rapport avec le niveau de croissance (”quand on a atteint tel niveau d’impact, il faudra faire ça”). 
 
 Ce séminaire sera constitué des éléments suivants :
-- Présentation du produit, retro, etc 
-- Audit “bizdev et impact” 
+- Présentation du produit, rétrospective, etc 
+- Audit “déploiement et impact” 
 - Audit “qualité produit” et juridique
 - Atelier RH, staffing culture
 
