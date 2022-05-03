@@ -77,7 +77,7 @@ Ce séminaire sera constitué des éléments suivants :
 - Présentation du produit, rétrospective, etc 
 - Audit “déploiement et impact” 
 - Audit “qualité produit” et juridique
-- Atelier RH, staffing culture
+- Atelier RH / recrutement
 
 ### 4) Accompagnement produit (4 à 8 mois)
 * Atelier de mi-parcours avec l’équipe DINUM dédiée pour faire le point tous les 2 mois
