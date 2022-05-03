@@ -62,7 +62,9 @@ La sélection des lauréats s’effectue comme explicité dans le paragraphe pr�
 
 ### 2) Convention de partenariat (1 mois)
 Une convention sera établie avec l’administration pour définir le cadre d’utilisation des financements et les engagements des partenaires.
-Le cofinancement pourra permettre de recruter des talents (coachs, développeurs•euses, designers•euses, chargé•e•s de déploiement) via les marchés publics des Startups d’État et de Territoires de la DINUM pour renforcer l’équipe pendant une période approximative de 6 mois. Cet investissement pourra par exemple permettre de :
+Le cofinancement pourra permettre de recruter des talents (coachs, développeurs•euses, designers•euses, chargé•e•s de déploiement) via les marchés publics des Startups d’État et de Territoires de la DINUM pour renforcer l’équipe pendant une période approximative de 6 mois. 
+
+Cet investissement pourra par exemple permettre de :
 - Tester de nouveaux canaux de diffusion
 - Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages
 - Accompagner cette mise en oeuvre de façon opérationnelle
@@ -70,6 +72,7 @@ Une partie des ressources attribuée par le FAST sera également dédiée au pro
 
 ### 3) Séminaire de kick-off (2 à 3 jours - financé par la DINUM)
 L’objectif du séminaire est que l’équipe ressorte avec un plan d’action sur les prochains mois et des ressources sur lesquelles s’appuyer (l’idée n’est pas de tout faire mais d’identifier clairement les pistes d’amélioration). Le plan est fortement corrélé à l’état de la startup. Un plan de montée en qualité pourrait être proposé en rapport avec le niveau de croissance (”quand on a atteint tel niveau d’impact, il faudra faire ça”). 
+
 Ce séminaire sera constitué des éléments suivants :
 - Présentation du produit, retro, etc 
 - Audit “bizdev et impact” 
@@ -93,13 +96,10 @@ A titre d’exemple, voici les produits qui ont bénéficié du programme d’ac
 
 
 ## Conditions pour les anciens lauréats
-Les lauréats des FAST 2020-2021 ne peuvent pas repostuler en 2022 : ils sont invités à [postuler aux guichets du plan de Relance](https://france-relance.transformation.gouv.fr/).
-
-Si vous avez déjà été lauréat du FAST en phase d’accélération, nous vous invitons à postuler au [Plan de Relance](https://france-relance.transformation.gouv.fr/).
-
-Si vous avez déjà été lauréat du FAST en phase de construction, vous pouvez candidater à nouveau.
-
-Si vous avez déjà été lauréat du FAST, vous pouvez toujours postuler pour bénéficier du programme d’accélération de l’équipe d’expert DINUM, soit l’équivalent de 50K€ d’accompagnement.
+- Les lauréats des FAST 2020-2021 ne peuvent pas repostuler en 2022 : ils sont invités à [postuler aux guichets du plan de Relance](https://france-relance.transformation.gouv.fr/).
+- Si vous avez déjà été lauréat du FAST en phase d’accélération, nous vous invitons à postuler au [Plan de Relance](https://france-relance.transformation.gouv.fr/).
+- Si vous avez déjà été lauréat du FAST en phase de construction, vous pouvez candidater à nouveau.
+- Si vous avez déjà été lauréat du FAST, vous pouvez toujours postuler pour bénéficier du programme d’accélération de l’équipe d’expert DINUM, soit l’équivalent de 50K€ d’accompagnement.
 
 ## Projets non-éligibles
 - Des produits en phase d’investigation n’ayant pas encore de solution minimum viable ni de mesure d’impact déjà identifiée
