@@ -8,6 +8,8 @@ missions:
     status: admin
 badges:
   - segur
+startups:
+  - sparte
 ---
 
 Le spartiate qui voulut mesurer l'artificialisation
