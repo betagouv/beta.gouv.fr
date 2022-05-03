@@ -11,7 +11,7 @@ stats_url: null
 title: Mon suivi social
 sponsors:
   - /organisations/anct
-link: https://monsuivisocial.anct.gouv.fr/
+link: https://monsuivisocial.incubateur.anct.gouv.fr/
 stats: false
 phases:
   - name: investigation
