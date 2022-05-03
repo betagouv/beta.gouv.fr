@@ -21,15 +21,16 @@ Parallèlement aux activités relatives au programme d'accélération sur lesque
 
 ### Activités principales
 
-- Contribuer à l’animation du programme Gamma : 
-    - préparer et participer aux réunions hebdomadaires, participer aux rituels de l’équipe, etc. ; 
-    - créer et organiser des événements impactants / innovants pour dynamiser le programme Gamma ; 
-    - être force de proposition afin de co-construire et améliorer continuellement le programme Gamma ; 
-- Participer à l’accompagnement des Startups d’État avec l'équipe Gamma : 
-    - contribuer aux missions de business developer : cibler, identifier et approcher les partenaires potentiels du service (revendeurs, distributeurs, partenaires technologiques, partenaires financiers...) ; 
-    - participer aux négociations avec les partenaires du service pour faire fructifier ces partenariats et améliorer l’impact du service ; 
-    - contribuer à l’organisation de l’équipe du service et à l’amélioration de ses process internes pour les aider à mieux gérer la croissance du produit numérique et à se structurer ; 
-    - participer à l’évaluation des résultats obtenus pour chaque action menée (exemple : évolution du taux de satisfaction des utilisateurs, nombre d’heures économisées, etc)
+#### Contribuer à l’animation du programme Gamma : 
+- préparer et participer aux réunions hebdomadaires, participer aux rituels de l’équipe, etc. ; 
+- créer et organiser des événements impactants / innovants pour dynamiser le programme Gamma ; 
+- être force de proposition afin de co-construire et améliorer continuellement le programme Gamma ; 
+
+#### Participer à l’accompagnement des Startups d’État avec l'équipe Gamma : 
+- contribuer aux missions de business developer : cibler, identifier et approcher les partenaires potentiels du service (revendeurs, distributeurs, partenaires technologiques, partenaires financiers...) ; 
+- participer aux négociations avec les partenaires du service pour faire fructifier ces partenariats et améliorer l’impact du service ; 
+- contribuer à l’organisation de l’équipe du service et à l’amélioration de ses process internes pour les aider à mieux gérer la croissance du produit numérique et à se structurer ; 
+- participer à l’évaluation des résultats obtenus pour chaque action menée (exemple : évolution du taux de satisfaction des utilisateurs, nombre d’heures économisées, etc)
 
 ### Profil recherché
 
