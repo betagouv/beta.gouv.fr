@@ -24,12 +24,12 @@ missions:
     status: independent
     employer: Codeurs en Liberté
 startups:
-  - data.insertion
   - aides.jeunes
   - lapins
 previously:
   - mes-aides
   - voir-et-localiser
+  - data.insertion
 badges:
   - segur
 ---
