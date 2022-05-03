@@ -7,14 +7,13 @@ layout: default
 <div class="fr-container fr-pb-6w fr-pt-6w">
   <div class="fr-grid-row fr-grid-row--gutters fr-b__two-col">
     <!-- Menu -->
-    <div class="fr-col-xs-12 fr-col-md-3">
+    <div class="fr-col-12 fr-col-md-3">
       {% include sidebar-approche.html %}
     </div>
     <!-- Content -->
-    <div class="fr-col-xs-12 fr-col-md-9">
+    <div class="fr-col-12 fr-col-md-9">
       <h1>{{ page.title }}</h1>
-      <br>
-      <div class="fr-grid-row fr-grid-row--gutters">
+      <div class="fr-grid-row fr-grid-row--gutters fr-mt-2w">
           {% for image in page.images %}
           <div class="fr-col-6">
             <div class="fr-card fr-card--no-arrow">
@@ -27,21 +26,17 @@ layout: default
           </div>
         {% endfor %}
       </div>
-      <br>
-      <br>
       <div class="markdown">{{ content }}</div>
-      <h2>La formation alpha en chiffres</h2>
-      <br>
-      <br>
+      <h2 class="fr-mt-6w">La formation alpha en chiffres</h2>
       <div class="fr-grid-row fr-grid-row--gutters">
           {% for metric in page.metrics %}
-          <div class="fr-col-md-3 fr-col-xs-12" style="width: 100%;">
+          <div class="fr-col-md-3 fr-col-12">
             <div class="fr-card fr-card--no-arrow">
               <div class="fr-card__body">
-                <h1 style="text-align: center;">
+                <h1 class="text-center">
                   {{ metric.value }}
                 </h1>
-                <p class="fr-card__desc" style="text-align: center;">
+                <p class="fr-card__desc text-center">
                   {{ metric.text }}<br>
                 </p>
               </div>
@@ -49,23 +44,20 @@ layout: default
           </div>
         {% endfor %}
       </div>
-      <br>
-      <br>
-      <div class="fr-grid-row fr-grid-row--gutters">
+      <div class="fr-grid-row fr-grid-row--gutters fr-mt-2w">
         {% for product in page.verbatims %}
-          <div class="fr-col-md-6 fr-col-xs-12">
+          <div class="fr-col-md-6 fr-col-12">
             <div class="fr-card fr-card--horizontal fr-card--no-arrow">
               <div class="fr-card__body">
-          
                 <h4 class="fr-card__title">
                     {{ product.text }}
                 </h4>
-                <p class="fr-card__desc" style="color: var(--g600); font-size: 0.75rem;">
+                <p class="fr-card__detail">
                   <b>{{ product.name }}</b><br>
                   {{ product.job }}
                 </p>
               </div>
-              <div class="fr-card__img" style="width: 20%; text-align: center;
+              <div class="fr-card__img text-center" style="width: 20%;
               vertical-align: middle;
               align-content: center;
               justify-content: center;">

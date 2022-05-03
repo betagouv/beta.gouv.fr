@@ -18,8 +18,8 @@ breadcrumbs:
             <div class="fr-sidemenu beta-sidemenu-sticky" aria-label="Menu latéral">
                 <div class="fr-sidemenu__inner">
                     <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
-                    <img 
-                        src="/img/programme/investigation.png" alt="Récapitulatif visuel des phases" style="width: 100%;" class="hidden-mobile" />
+                    <img
+                        src="/img/programme/investigation.png" alt="Récapitulatif visuel des phases" class="hidden-mobile" />
                     <div class="fr-collapse" id="fr-sidemenu-wrapper">
                         <h1 class="fr-sidemenu__title fr-pl-1w">Sommaire</h1>
                         <ul class="fr-sidemenu__list">
@@ -117,18 +117,16 @@ breadcrumbs:
                 <div class="fr-col-12" id="ensuite">
                     <h2>Et ensuite ?</h2>
                     <p>
-                    A la fin de l’investigation, le comité d’investissement se réunit et décide de l’abandon ou de la poursuite de produit. 
+                    A la fin de l’investigation, le comité d’investissement se réunit et décide de l’abandon ou de la poursuite de produit.
                     En cas de poursuite, on rentre dans la <a href="https://beta.gouv.fr/approche/construction">réalisation du service public numérique</a> !
                     </p>
                 </div>
             </div>
              <div class="fr-grid-row fr-grid-row--gutters fr-p-1w section-grey">
-                <div class="fr-col-12" id="contact"  style="text-align:center">
+                <div class="fr-col-12 text-center" id="contact">
                     <h4>Vous souhaitez lancer une investigation avec nous ?
 Parlez-nous de votre projet !</h4>
-                    <p>
                     <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Nous écrire</a>
-                    </p>
                 </div>
             </div>
         </div>

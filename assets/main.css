@@ -645,6 +645,18 @@ h2.phase-title em {
   margin-right: 0.5em;
 }
 
-.purple {
+.text-purple {
   color: #4941C0;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
 }

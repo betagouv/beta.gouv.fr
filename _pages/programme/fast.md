@@ -7,7 +7,7 @@ redirect_from:
   - /fast
 ---
 
-<img src="https://blog.beta.gouv.fr/img/posts/FAST_2400x448-nom-du-fonds.jpg" alt="Image de présentation du FAST" style="width:100%;" />
+<img src="https://blog.beta.gouv.fr/img/posts/FAST_2400x448-nom-du-fonds.jpg" alt="Image de présentation du FAST"/>
 
 Le Fond d’accélération des Startups d’État et de Territoire (FAST), porté par la Direction interministérielle du numérique, est un programme d’accélération qui vise à favoriser l’émergence de services publics numériques à impact national conçus [selon l'approche Startup d'État](https://beta.gouv.fr/approche). 
 
@@ -45,6 +45,7 @@ Les produits numériques présentés au FAST seront évalués à l’aune des cr
 - L’effet de levier que constitue le cofinancement pour contribuer au succès du service public numérique.
 
 ## Déroulé de la sélection
+
 * Vous sélectionnez un ou plusieurs services numériques existants ayant un impact mesuré, que vous souhaitez déployer.
 * Vous postulez en remplissant [le formulaire](https://www.demarches-simplifiees.fr/commencer/fast2022) à n’importe quel moment de l’année 2022. À noter : plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
 * L’équipe en charge du FAST effectue une présélection sur dossier au fil de l’eau (minimum une fois par mois). La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d’investissement.
