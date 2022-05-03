@@ -16,12 +16,20 @@ L'équipe beta.gouv, hébergée au sein de la Direction interministérielle du n
 Ce programme d'accélération accompagne les Startups d'Etat à haut potentiel (la Saison 2 qui s'est terminée fin octobre a accompagné à titre d'exemple, http://jeveuxaider.gouv.fr/, https://monsuivipsy.fabrique.social.gouv.fr/, https://www.rdv-solidarites.fr/) pour les aider à se structurer et à soutenir leur déploiement à grande échelle.
 
 Sous la responsabilité du responsable du programme d’accélération Gamma, le ou la Chargé-e de déploiement sera chargé-e d’assister l’équipe de l’accélérateur dans la coordination du programme, ainsi qu’assister les Startups d’État accompagnées par le programme dans leur croissance. 
+
 Parallèlement aux activités relatives au programme d'accélération sur lesquels interviendra le ou la chargé-e de déploiement, les membres de l’incubateur contribueront activement à la prise de poste et à la montée en compétences du ou de la chargé-e de déploiement, notamment à travers : la formation « Alpha », la participation aux décisions collectives et à la vie de l’incubateur, la diffusion de la méthode Startups d’État dans l’administration, les événements des partenaires de l’incubateur (Etalab, design.gouv, etc) et l’apprentissage des outils internes à l’incubateur (GitHub, Gitbook, etc.) 
 
 ### Activités principales
 
-- Contribuer à l’animation du programme Gamma : préparer et participer aux réunions hebdomadaires, participer aux rituels de l’équipe, etc) ; créer et organiser des événements impactants / innovants pour dynamiser le programme Gamma ; être force de proposition afin de co-construire et améliorer continuellement le programme Gamma ; 
-- Participer à l’accompagnement des Startups d’État accompagné par Gamma : contribuer aux missions de business developer : cibler, identifier et approcher les partenaires potentiels du service (revendeurs, distributeurs, partenaires technologiques, partenaires financiers...) ; participer aux négociations avec les partenaires du service pour faire fructifier ces partenariats et améliorer l’impact du service ; contribuer à l’organisation de l’équipe du service et à l’amélioration de ses process internes pour les aider à mieux gérer la croissance du produit numérique et à se structurer ; participer à l’évaluation des résultats obtenus pour chaque action menée (exemple : évolution du taux de satisfaction des utilisateurs, nombre d’heures économisées, etc)
+- Contribuer à l’animation du programme Gamma : 
+    - préparer et participer aux réunions hebdomadaires, participer aux rituels de l’équipe, etc. ; 
+    - créer et organiser des événements impactants / innovants pour dynamiser le programme Gamma ; 
+    - être force de proposition afin de co-construire et améliorer continuellement le programme Gamma ; 
+- Participer à l’accompagnement des Startups d’État avec l'équipe Gamma : 
+    - contribuer aux missions de business developer : cibler, identifier et approcher les partenaires potentiels du service (revendeurs, distributeurs, partenaires technologiques, partenaires financiers...) ; 
+    - participer aux négociations avec les partenaires du service pour faire fructifier ces partenariats et améliorer l’impact du service ; 
+    - contribuer à l’organisation de l’équipe du service et à l’amélioration de ses process internes pour les aider à mieux gérer la croissance du produit numérique et à se structurer ; 
+    - participer à l’évaluation des résultats obtenus pour chaque action menée (exemple : évolution du taux de satisfaction des utilisateurs, nombre d’heures économisées, etc)
 
 ### Profil recherché
 
