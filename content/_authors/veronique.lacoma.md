@@ -11,9 +11,9 @@ missions:
     end: 2022-09-30
     status: independent
 startups:
+  - avril
   - reva
   - deveco
 previously:
-  - avril
   - eva
 ---
