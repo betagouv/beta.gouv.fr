@@ -8,6 +8,8 @@ missions:
     end: 2022-06-30
     status: independent
     employer: Arolla
+startups:
+  - sparte
 ---
 
 Développeur Django
