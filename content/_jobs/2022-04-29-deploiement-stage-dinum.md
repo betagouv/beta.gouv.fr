@@ -25,15 +25,15 @@ Parallèlement aux activités relatives au programme d'accélération sur lesque
 
 ### Profil recherché
 
-Savoirs :
+#### Savoirs :
 - Bonne connaissance de l’écosystème numérique français et européen, et notamment des enjeux d’acquisition d’utilisateurs (business development, growth hacking, marketing en ligne)
 - Bonne connaissance des enjeux de transition numérique des services publics
 
-Savoir-faire :
+#### Savoir-faire :
 - Bonne maîtrise du pack Office (Excel, Word) et aisance avec les principaux outils bureautiques collaboratifs (Google Docs, Slack/Mattermost, Trello, etc)
 - Connaissance des principaux outils de création de contenus Web (Photoshop, InDesign, etc)
 
-Savoir-être :
+#### Savoir-être :
 - Aisance à l’oral dans un contexte de communication professionnelle
 - Excellent relationnel
 - Enthousiasme et esprit d’équipe
