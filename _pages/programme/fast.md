@@ -7,12 +7,12 @@ redirect_from:
   - /fast
 ---
 
-<img src="https://blog.beta.gouv.fr/img/posts/FAST_2400x448-nom-du-fonds.jpg" alt="Image de présentation du FAST" style="width:100%;" />
+<img src="https://blog.beta.gouv.fr/img/posts/FAST_2400x448-nom-du-fonds.jpg" alt="Image de présentation du FAST"/>
 
-Le Fonds d’accélération des Startups d’État et de Territoire (FAST), porté par la Direction interministérielle du numérique, vise à cofinancer des services publics numériques conçus [selon l'approche Startup d'État](https://beta.gouv.fr/approche). 
+Le Fonds d’accélération des Startups d’État et de Territoire (FAST), porté par la Direction interministérielle du numérique, vise à cofinancer des services publics numériques conçus [selon l'approche Startup d'État](https://beta.gouv.fr/approche).
 
 En 2022, l'appel à candidatures sera ouvert toute l'année.
-Les dossiers seront relevés au fil de l'eau et feront l'objet d'une réponse sous 6 semaines maximum. 
+Les dossiers seront relevés au fil de l'eau et feront l'objet d'une réponse sous 6 semaines maximum.
 
 ## Quels sont les objectifs du Fonds d’accélération des Startups d’État et de Territoire (FAST) ?
 Ce fonds a pour objectifs :
