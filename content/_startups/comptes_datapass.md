@@ -10,7 +10,7 @@ phases:
     start: 2022-04-22
   - name: investigation
     start: 2022-03-01
-    end: 2022-04-22
+    end: 2022-04-21
 usertypes:
   - etat
 ---
