@@ -7,7 +7,7 @@ missions:
   - start: 2022-05-09
     end: 2022-12-31
     status: independent
-    employer: ANCT
+    employer: null
 startups:
   - territoires-en-transitions
 ---
