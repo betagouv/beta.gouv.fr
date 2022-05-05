@@ -58,10 +58,10 @@ Les produits numériques présentés au FAST seront évalués à l’aune des cr
 ## Programme d'accélération
 Le programme d’accélération pour les lauréats du FAST se déroule en 5 étapes. 
 
-### 1) Sélection des lauréats FAST
+#### 1) Sélection des lauréats FAST
 La sélection des lauréats s’effectue comme explicité dans le paragraphe précédent. 
 
-### 2) Convention de partenariat (1 mois)
+#### 2) Convention de partenariat (1 mois)
 Une convention sera établie avec l’administration pour définir le cadre d’utilisation des financements et les engagements des partenaires.
 Le cofinancement pourra permettre de recruter des talents (coachs, développeurs•euses, designers•euses, chargé•e•s de déploiement) via les marchés publics des Startups d’État et de Territoires de la DINUM pour renforcer l’équipe pendant une période approximative de 6 mois. 
 
@@ -71,7 +71,7 @@ Cet investissement pourra par exemple permettre de :
 - Accompagner cette mise en oeuvre de façon opérationnelle
 Une partie des ressources attribuée par le FAST sera également dédiée au programme d’accélération.
 
-### 3) Séminaire de kick-off (2 à 3 jours - financé par la DINUM)
+#### 3) Séminaire de kick-off (2 à 3 jours - financé par la DINUM)
 L’objectif du séminaire est que l’équipe ressorte avec un plan d’action sur les prochains mois et des ressources sur lesquelles s’appuyer (l’idée n’est pas de tout faire mais d’identifier clairement les pistes d’amélioration). Le plan est fortement corrélé à l’état de la startup. Un plan de montée en qualité pourrait être proposé en rapport avec le niveau de croissance (”quand on a atteint tel niveau d’impact, il faudra faire ça”). 
 
 Ce séminaire sera constitué des éléments suivants :
@@ -80,11 +80,11 @@ Ce séminaire sera constitué des éléments suivants :
 - Audit “qualité produit” et juridique
 - Atelier RH / recrutement
 
-### 4) Accompagnement produit (4 à 8 mois)
+#### 4) Accompagnement produit (4 à 8 mois)
 * Atelier de mi-parcours avec l’équipe DINUM dédiée pour faire le point tous les 2 mois
 * Alternance de phases d’accélération (bizdev) et de consolidation sur un ratio à déterminer avec l’équipe
  
-### 5) Démo day à la fin pour faire le bilan des améliorations produit.
+#### 5) Démo day à la fin pour faire le bilan des améliorations produit.
 Présentation d’un rapport avec les résultats obtenus et les recommandations pour la suite.
 
  
