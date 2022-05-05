@@ -1,7 +1,7 @@
 ---
 title: Dédale
-mission: Assurer le meilleur service pour l'usager en phase d'avant-projet de sa
-  demande d'autorisation du droit des sols
+mission: Renforcer l’accompagnement des usagers des services des Bâtiments de
+  France lors de travaux en espace protégé
 sponsors:
   - /organisations/mc
 incubator: culture
@@ -12,7 +12,7 @@ usertypes:
   - collectivite-territoriale
   - particulier
 stats_url: null
-stats: false
+stats: true
 phases:
   - name: investigation
     start: 2020-01-15
@@ -20,10 +20,6 @@ phases:
   - name: construction
     start: 2020-04-01
 ---
-# **Dédale**
-
-Renforcer l’accompagnement des usagers des services des Bâtiments de France lors de travaux en espace protégé
-
 ## **Retour sur l’investigation**
 
 Lors d’un projet de travaux, l’usager dépose une demande d’autorisation d’urbanisme (permis de construire, déclaration préalable…) auprès de sa mairie ou de sa communauté de communes.
@@ -34,7 +30,9 @@ Le parcours, notamment pour la recherche de l’information et la compréhension
 
 A l’initiative de l’UDAP du Rhône et de la Métropole de Lyon, une investigation a été conduite dans le cadre l’Atelier numérique du Ministère de la Culture en avril 2021 afin d’identifier les irritants rencontrés par les usagers, d’analyser les blocages identifiés par les agents et de proposer des solutions.
 
-## **Deux solutions complémentaires** 
+
+
+## **Deux solutions complémentaires**
 
 **A l’issue de l’investigation, deux solutions ont été retenues et sont en cours d'expérimentation : le renforcement de l’information et l’amélioration du suivi des consultations.**
 
@@ -49,6 +47,8 @@ A l’initiative de l’UDAP du Rhône et de la Métropole de Lyon, une investig
 * Assurer un meilleur accompagnement de l’usager tout au long de sa démarche
 * Faciliter les conditions de travail des agents
 * améliorer la prise en compte des sujets patrimoniaux dans le cadre des demandes d’autorisation d’urbanisme
+
+
 
 ## **Où en sommes-nous ?**
 
@@ -69,6 +69,8 @@ Pour permettre aux usagers  de consulter l’UDAP dans le cadre de la préparat
 Une première version du mini-site est [en ligne](https://www.culture.gouv.fr/Demarches-en-ligne/Par-thematiques/Architecture/Mes-travaux-en-secteur-protege), hébergée sur le site du Ministère de la Culture. Plusieurs UDAP se sont investies dans la réflexion éditoriale (Deux-Sèvres, Maine-et-Loire, Rhône).
 
 L’intégration plus approfondie à l’écosystème culture.gouv est en cours et les contenus ainsi que l’arborescence du cycle projet sont retravaillés au fur et à mesure des retours utilisateurs.  
+
+
 
 ## **Prochaines étapes**
 
