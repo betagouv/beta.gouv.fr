@@ -31,6 +31,8 @@ usertypes:
   - particulier
   - collectivite-territoriale
   - etat
+dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/apilos-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 # **Contexte**
 
