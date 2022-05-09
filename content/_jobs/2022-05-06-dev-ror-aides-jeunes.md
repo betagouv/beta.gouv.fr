@@ -102,6 +102,6 @@ Intégré·e à l'équipe de Aides-Jeunes, vous êtes responsable d'expérimente
 - Le télétravail est possible, mais une présence ponctuelle à Paris est demandée pour participer aux sessions stratégiques et collaboratives. Des bureaux ou espaces de travail beta.gouv.fr sont accessibles à Paris et à Lyon.
 - Démarrage dès que possible.
 
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [aides-jeunes@beta.gouv.fr](mailto:&subject=Recrutement dev en résidence)
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [aides-jeunes@beta.gouv.fr](mailto:aides-jeunes@beta.gouv.fr?subject=Recrutement dev en résidence)
 
 À bientôt ! 😀
