@@ -6,11 +6,11 @@ sponsors:
   - /organisations/dinum
 contact: ishan.bhojwani@beta.gouv.fr
 phases:
-  - name: construction
-    start: 2022-04-22
   - name: investigation
     start: 2022-03-01
-    end: 2022-04-22
+    end: 2022-04-21
+  - name: construction
+    start: 2022-04-22
 usertypes:
   - etat
 ---

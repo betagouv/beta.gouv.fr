@@ -9,6 +9,8 @@ link: https://tchap.beta.gouv.fr/
 repository: https://github.com/tchapgouv
 events: []
 phases:
+  - name: construction
+    start: 2021-01-01
   - name: acceleration
     start: 2021-03-05
 usertypes:
