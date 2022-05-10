@@ -12,8 +12,6 @@ RDV-Solidarités est un outil de prise de RDV en ligne et d'organisation du temp
 
 Actuellement, elle est utilisée principalement par des services médico-sociaux de départements. D'autres expérimentation sont en cours.
 
-L'équipe Data.insertion à déjà amorcé un gros travail pour améliorer les parcours d’insertion. Pour les aspects prises de RDV, elle s'appuie sur RDV-Solidarités.
-
 <!--more-->
 
 <style type="text/css">
@@ -34,8 +32,6 @@ Vous êtes autonome dans la conception, l'écriture et le déploiement de votre 
 Vous êtes curieuse ou curieux, et capable d'interagir avec des équipes variées (Incubateur des Territoires, Conseils Départementaux, Conseillers numériques).
 
 Intégré·e à l'équipe de RDV-Solidarités, vous êtes responsable de comprendre et d'implémenter les fonctionnalités nécessaires à l'utilisation de RDV-Solidarités dans le cadre des parcours d'insertion.
-
-Vous serez appuyé par l'équipe RDV-Solidarités ET l'équipe Data.insertion (qui comporte aussi personnes faisant du développement).
 
 ## Stack
 
