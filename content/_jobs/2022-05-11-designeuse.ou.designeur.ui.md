@@ -45,7 +45,7 @@ En tant que **designer·euse UI** ✨, tu travailleras au quotidien en étroite 
 ## Le p**rofil recherché**
 
 * de formation spécialisée en design d’interface ou bien autodidacte, tu maitrise la conception et le design des solutions numériques centrées utilisateur \
-  ⇒ **au minimum une année d’expérience (UX, UI ou Product Designer) est requise - merci de nous fournir un portfolio**
+  ⇒ **au minimum deux ans d’expérience (UX, UI ou Product Designer) est requise - merci de nous fournir un portfolio**
 * tu es capable de produire des idées et solutions qui répondent aux besoins de nos utilisateurs et à nos objectifs
 * tu es à jour des bonnes pratiques web et mobile, et tu es sensible aux problématiques de développement de par ta connaissance du fonctionnement des technologies web (html, css, javascript)
 * tu maitrises Figma
