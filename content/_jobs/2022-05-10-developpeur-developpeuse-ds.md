@@ -25,7 +25,7 @@ Nous sommes une équipe de 10 personnes dont 4 personnes au développement. Nous
 
 ## Où en sommes-nous ?
 
-Nous avons jusqu’à présent permis la dématérialisation de plus de 22 000 démarches papier, et plus de 6 millions de dossiers – mais un nombre très important de démarches restent à dématérialiser. Afin de répondre aux attentes des administrations et des usagers, nous améliorons continuellement le fonctionnement, l’ergonomie et l’accessibilité du produit.
+Nous avons jusqu’à présent publié 20 000 démarches papier, et plus de 6 millions de dossiers ont été déposés – mais un nombre très important de démarches restent à dématérialiser. Afin de répondre aux attentes des administrations et des usagers, nous améliorons continuellement le fonctionnement, l’ergonomie et l’accessibilité du produit.
 
 Nous connaissons également en ce moment une forte croissance, et devons améliorer notre base de code et notre infrastructure, afin d’avoir de meilleures performances et de sécuriser les échanges et les données.
 
