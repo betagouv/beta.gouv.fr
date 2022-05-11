@@ -5,7 +5,7 @@ techno: Ruby on Rails
 open: true
 ---
 
-L’équipe demarches-simplifiees.fr cherche un·e développeur·se Ruby on Rails freelance pour l’aider à développer de nouvelles fonctionnalités et faciliter la dématérialisation des démarches publiques.
+L’équipe demarches-simplifiees.fr cherche une ou un dev Ruby on Rails pour l’aider à développer de nouvelles fonctionnalités et faciliter la dématérialisation des démarches publiques.
 
 <!--more-->
 
@@ -33,19 +33,28 @@ Enfin nous animons une petite communauté de contributeurs externes qui particip
 
 ## Stack
 
-- Technos : Rails 6, Hotwire, React, RSpec (vous n'êtes pas obligé·e de tout connaitre).
+- Technos : Rails, Hotwire, React, RSpec (vous n'êtes pas obligé·e de tout connaitre).
 - Outils : GitHub, Postgres, Sentry, Kibana, HelpScout.
 - Code ouvert et libre : [github.com/betagouv/demarches-simplifiees.fr](https://github.com/betagouv/demarches-simplifiees.fr).
 - Bonnes pratiques : nous testons notre code, nous faisons des relectures systématiques, nous déployons souvent et par petits lots.
 
-## Rôle
+## Votre profil nous intéresse si :
 
-- Développer de nouvelles fonctionnalités ;
-- Analyser et résoudre les problèmes d’usabilité les plus fréquents ;
-- Maintenir et faire évoluer notre API GraphQL.
+- Vous avez une bonne expérience en Ruby on Rails, et avez idéalement déjà travaillé sur des sujets web (mise en place d’un backend, utilisation de token d’authentification, connexion auprès d’API…) ;
+- Vous êtes animé·e par la volonté d’améliorer le service public ;
+- Vous savez faire preuve d’initiative, d’autonomie dans votre travail ;
+- Vous avez envie de travailler de manière agile dans une petite équipe auto-organisée ;
+- Vous êtes à l’écoute et à l’aise dans la communication orale et écrite, avec vos collègues.
+
+## Modalités
+
+- Poste ouvert au statut d’indépendante ou indépendant, à temps plein ou partiel ;
+- TJM : entre 450 et 700 € ([très junior - très senior](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/observatoire-revenus#la-grille)) ;
+- L’équipe est distribuée géographiquement, et travaille en _remote-first_ ; le télétravail est donc possible. Des bureaux ou espaces de travail beta.gouv.fr sont accessibles à Paris et à Lyon ;
+- Démarrage dès que possible.
 
 ## Postuler
 
-Pour postuler, [contactez-nous par email](mailto:contact@demarches-simplifiees.fr).
+Racontez-nous pourquoi vous auriez envie de nous rejoindre, et envoyez-nous votre CV / GitHub à [contact@demarches-simplifiees.fr](mailto:contact@demarches-simplifiees.fr).
 
 Le profil de poste est flexible : nous recrutons tous types de profils. Si vous hésitez à postuler, écrivez nous quand même.
