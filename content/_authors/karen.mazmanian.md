@@ -2,7 +2,7 @@
 fullname: Karen Mazmanian
 role: Chargé de déploiement
 domaine: Déploiement
-github:
+github: karenMzn
 avatar:
 link:
 missions:
