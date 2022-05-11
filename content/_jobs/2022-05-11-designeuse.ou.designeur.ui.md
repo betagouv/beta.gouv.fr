@@ -4,7 +4,7 @@ open: true
 date: 2022-05-11T08:48:02.812Z
 startup: dora
 ---
-## Dora, le service public numérique de recensement et mise à jour de l’offre d’insertion recherche un·e designer·euse UI (USER INTERFACE) ✨ !
+## Dora, le service public numérique de recensement et mise à jour de l’offre d’insertion recherche un·e designer·euse UI (USER INTERFACE) !
 
 Tu as envie de travailler sur un projet à impact ? Rejoins une équipe motivée à en découdre avec les problématiques de l'insertion !
 
