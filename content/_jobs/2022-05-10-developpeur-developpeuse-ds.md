@@ -5,7 +5,7 @@ techno: Ruby on Rails
 open: true
 ---
 
-L’équipe demarches-simplifiees.fr cherche une ou un dev Ruby on Rails pour l’aider à développer de nouvelles fonctionnalités et faciliter la dématérialisation des démarches publiques.
+L’équipe demarches-simplifiees.fr cherche une développeuse ou un développeur Ruby on Rails pour l’aider à développer de nouvelles fonctionnalités et faciliter la dématérialisation des démarches publiques.
 
 <!--more-->
 
@@ -19,9 +19,9 @@ L’application est structurée en 3 parties :
 - une partie usager, qui permet de remplir un formulaire et de déposer son dossier ;
 - une partie instructeur, qui permet d’instruire les dossiers.
 
-Nous exposons aussi une API pour permettre aux administrations de faire des traitements automatisés.
+Nous exposons aussi une API GraphQL pour permettre aux administrations de faire des traitements automatisés.
 
-Nous sommes une équipe de 10 personnes dont 4 personnes au développement. Nous faisons des itérations courtes. Nous rencontrons souvent les administrations qui utilisent notre produit, et nous participons au support client afin de mieux nous confronter aux problèmes rencontrés par nos utilisateurs.
+Nous sommes une équipe de 10 personnes, dont 4 personnes au développement. Nous faisons des itérations courtes. Nous rencontrons souvent les administrations qui utilisent notre produit, et nous participons au support client afin de mieux nous confronter aux problèmes rencontrés par nos utilisateurs.
 
 ## Où en sommes-nous ?
 
