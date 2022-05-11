@@ -40,7 +40,7 @@ Enfin nous animons une petite communauté de contributeurs externes qui particip
 
 ## Rôle
 
-- Déveloper de nouvelles fonctionnalités ;
+- Développer de nouvelles fonctionnalités ;
 - Analyser et résoudre les problèmes d’usabilité les plus fréquents ;
 - Maintenir et faire évoluer notre API GraphQL.
 
