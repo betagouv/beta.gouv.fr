@@ -35,7 +35,7 @@ Enfin nous animons une petite communauté de contributeurs externes qui particip
 
 - Technos : Rails 6, Hotwire, React, RSpec (vous n'êtes pas obligé·e de tout connaitre).
 - Outils : GitHub, Postgres, Sentry, Kibana, HelpScout.
-- Code ouvert et libre : [https://github.com/betagouv/demarches-simplifiees.fr](https://github.com/betagouv/demarches-simplifiees.fr).
+- Code ouvert et libre : [github.com/betagouv/demarches-simplifiees.fr](https://github.com/betagouv/demarches-simplifiees.fr).
 - Bonnes pratiques : nous testons notre code, nous faisons des relectures systématiques, nous déployons souvent et par petits lots.
 
 ## Rôle
