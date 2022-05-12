@@ -19,6 +19,8 @@ contact: contact.domifa@fabrique.social.gouv.fr
 usertypes:
   - association
   - collectivite-territoriale
+dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/domifa-fabrique-social-gouv-fr/
+accessibility_status: non conforme
 ---
 
 ## Qu’est-ce que la domiciliation ? 

@@ -8,14 +8,12 @@ missions:
     end: 2022-08-30
     status: service
     employer: Pôle emploi
-startups:
-  - mes-evenements-emploi
 previously:
   - la-bonne-boite
   - la-bonne-formation
   - maintenant
   - memo
   - anotea
-
+  - mes-evenements-emploi
 ---
 Passionné par le Design de Service, j'aime co-construire des expériences interactives utilisables satisfaisantes voire mémorables pour nos utilisateurs !

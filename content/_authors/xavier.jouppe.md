@@ -12,9 +12,9 @@ missions:
       employer: OCTO
 startups:
     - api.gouv.fr
-    - datapass
     - annuaire-entreprises
 previously:
+    - datapass
 ---
 
 🦀

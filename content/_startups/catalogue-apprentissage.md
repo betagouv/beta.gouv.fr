@@ -13,13 +13,15 @@ contact: mailto:catalogue@apprentissage.beta.gouv.fr
 stats_url: https://catalogue.apprentissage.beta.gouv.fr/stats
 stats: true
 phases:
-  - name: acceleration
+  - name: transfer
     start: 2020-07-01
     end: 2021-03-31
 usertypes:
   - etablissement-scolaire
   - etat
   - particulier
+dashlord_url: https://dashlord.incubateur.net/url/catalogue-apprentissage-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 Créé pour organiser la collecte des formations en apprentissage, le catalogue des formations en apprentissage permet de rendre plus visibles les offres auprès des jeunes et des employeurs.
 

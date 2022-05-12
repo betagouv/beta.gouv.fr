@@ -1,3 +1,10 @@
+/* À supprimer quand le Système de design sera mis à jour */
+hr {
+  height: 1px;
+  border: 0;
+  background: var(--g300);
+}
+
 /* Le Système de design n'a pas encore de notifications */
 
 .notification {
@@ -576,11 +583,6 @@ h2.phase-title em {
   height: 100%;
 }
 
-.section-principle-list-item .section-principle-list-item-number {
- font-weight: bold;
- font-size: 3.5em;
- margin-right: 0.5em;
-}
 
 .section-principle-list-item .section-principle-list-item-content {
   font-size: 1.2em;
@@ -597,14 +599,14 @@ h2.phase-title em {
 
 @media (max-width: 749px) {
   .section-main {
-      min-height: none;
+    min-height: none;
   }
   .section-principle-animation {
-      width: 90%;
-      height: 90%;
-      margin-left: auto;
-      margin-right: auto;
-      display: block;
+    width: 90%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
   }
 }
 
@@ -632,7 +634,29 @@ h2.phase-title em {
 
 /* TYPO PAGE APPROCHE */
 .decorated{
-background-color: #E9E6FC;
-width: max-content;
-font-size: 1rem;
+  background-color: #E9E6FC;
+  width: max-content;
+  font-size: 1rem;
+}
+
+.bigger-font {
+  font-weight: bold;
+  font-size: 3.5em;
+  margin-right: 0.5em;
+}
+
+.text-purple {
+  color: #4941C0;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
 }

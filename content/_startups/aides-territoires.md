@@ -11,14 +11,17 @@ link: https://aides-territoires.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/aides-territoires
 contact: aides-territoires@beta.gouv.fr
 stats: true
+dashlord_url: https://dashlord.mte.incubateur.net/url/aides-territoires-beta-gouv-fr/
+analyse_risques: true
+accessibility_status: non conforme
+usertypes:
+  - collectivite-territoriale
 phases:
   - name: construction
     start: 2018-01-01
     end: 2018-09-10
   - name: acceleration
     start: 2018-09-10
-usertypes:
-  - collectivite-territoriale
 ---
 ## Le problème
 

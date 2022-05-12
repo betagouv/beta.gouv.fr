@@ -19,6 +19,7 @@ phases:
 usertypes:
   - collectivite-territoriale
   - association
+accessibility_status: non conforme
 ---
 L’API Engagement facilite la diffusion des missions de bénévolat et de volontariat partout en France. 
 

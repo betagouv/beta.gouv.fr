@@ -18,6 +18,8 @@ usertypes:
   - collectivite-territoriale
   - entreprise
   - etat
+dashlord_url: https://dashlord.incubateur.net/url/datapass-api-gouv-fr/
+accessibility_status: partiellement conforme
 ---
 
 ## Le problème

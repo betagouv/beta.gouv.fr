@@ -22,6 +22,8 @@ phases:
 usertypes:
   - particulier
   - entreprise
+dashlord_url: https://dashlord.incubateur.net/url/santepsy-etudiant-gouv-fr/
+accessibility_status: non conforme
 ---
 ## Contexte
 

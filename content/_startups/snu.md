@@ -18,6 +18,8 @@ phases:
 usertypes:
   - particulier
   - association
+dashlord_url: https://dashlord.incubateur.net/url/www-snu-gouv-fr/
+accessibility_status: non conforme
 ---
 **Contexte**
 

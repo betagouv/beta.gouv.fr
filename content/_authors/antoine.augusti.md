@@ -10,6 +10,7 @@ missions:
     status: independent
 startups:
   - transport
+  - notifications
 ---
 
 Politiques publiques, humains, code

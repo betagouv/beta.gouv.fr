@@ -1,11 +1,13 @@
 ---
 fullname: Fabien Tafforeau
-role: Développeur
 domaine: Développement
+role: Développeur
 missions:
   - start: 2019-05-14
-    end: 2020-12-31
+    end: 2023-01-01
     status: independent
 startups:
-    - sepia
+  - sepia
+competences:
+  - Développement Frontend
 ---

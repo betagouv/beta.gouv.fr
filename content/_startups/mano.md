@@ -22,6 +22,8 @@ phases:
     start: 2021-08-01
 usertypes:
   - association
+dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/mano-app-fabrique-social-gouv-fr/
+accessibility_status: non conforme
 ---
 # **Le problème**
 

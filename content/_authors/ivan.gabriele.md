@@ -22,11 +22,13 @@ missions:
     end: 2022-06-30
     status: independent
 startups:
-  - inca
   - metiers-numeriques
 previously:
   - codedutravail
+  - inca
 competences:
   - Développement Backend
   - Développement Frontend
+badges:
+  - segur
 ---

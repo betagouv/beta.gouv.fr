@@ -19,6 +19,8 @@ phases:
     start: 2021-06-01
 usertypes:
   - entreprise
+dashlord_url: https://dashlord.incubateur.net/url/lemarche-inclusion-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 
 **Problème**
