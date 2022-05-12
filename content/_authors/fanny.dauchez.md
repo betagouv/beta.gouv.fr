@@ -24,4 +24,4 @@ competences:
   - Gestion de Produit
   - Croissance
 ---
-Après des projets liés l'entrepreneuriat social en Afrique et en France, je suis chargée de déploiement pour le marché de l'Inclusion.
+@Brigade du Numérique
