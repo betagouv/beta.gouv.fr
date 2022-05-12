@@ -75,4 +75,4 @@ Vous avez au moins 3 ans d'expérience en UX design, vous êtes sensible aux que
 
 ## Comment candidater ?
 
-Envoyer un book et un mail de présentation à [recrutement-brigade@beta.gouv.fr](mailto:recrutement-brigade@beta.gouv.fr)
+Candidatez directement sur le lien suivant : [https://www.demarches-simplifiees.fr/commencer/vous-souhaitez-postuler-a-la-brigade-mai-2022](https://www.demarches-simplifiees.fr/commencer/vous-souhaitez-postuler-a-la-brigade-mai-2022)

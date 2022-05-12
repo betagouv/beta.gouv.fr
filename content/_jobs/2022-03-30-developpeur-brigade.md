@@ -77,4 +77,4 @@ Vous avez entre 3 et 5 années d’expérience dans le développement de produit
 
 ## Comment candidater ?
 
-Envoyer un CV et un mail de présentation à [recrutement-brigade@beta.gouv.fr](mailto:recrutement-brigade@beta.gouv.fr)
+Candidatez directement sur le lien suivant : [https://www.demarches-simplifiees.fr/commencer/vous-souhaitez-postuler-a-la-brigade-mai-2022](https://www.demarches-simplifiees.fr/commencer/vous-souhaitez-postuler-a-la-brigade-mai-2022)
