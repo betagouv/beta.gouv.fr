@@ -1,15 +1,13 @@
 ---
-title: Qualité de l'eau
+title: Qualite de l'eau
 mission: Permettre aux agents ARS de gagner en efficacité dans les actions d'inspection et de prévention
 sponsors:
-
 incubator: sgmas
 phases:
   - name: investigation
     start: 2022-02-26
     end: 2022-04-30
 events:
-
 link:
 repository: 
 stats: false 
@@ -18,19 +16,18 @@ contact: clemence.augustin@ars.sante.fr
 usertypes:
   - etat
 ---
-
-# Contexte :
+# Contexte
 
 Le sujet de la qualité de l’eau recouvre des domaines variés aux enjeux multiples
 
-### **1) Eau potable (Domaine EDCH, eaux conditionnées)**
+### 1) Eau potable (Domaine EDCH, eaux conditionnées)
 
 Les conséquences d’une mauvaise qualité de l’eau potable : 
 - Des troubles gastro-intestinaux suite à ingestion d’eau contaminée suite à un incident (estimation : entre 120 à 500 000 cas par an
 - Les origines de ces accidents peuvent être multiples et difficilement prévisibles.
 - Décès : estimation : 120 morts/an en France à cause de l’insalubrité de l’eau ([source](https://www.courrierinternational.com/grand-format/sante-leau-insalubre-est-responsable-de-plus-de-12-million-de-deces-dans-le-monde))
 
-### **2) Domaine Légionelle**
+### 2) Domaine Légionelle
 
 - 1500 contaminations, environ 10% de décès (150 personnes)
 
@@ -41,7 +38,7 @@ Les conséquences d’une mauvaise qualité de l’eau potable :
 - Otites (40 000 otites “du baigneur” par an conduisent aux urgences)
 - Troubles gastro-intestinaux (non quantifiable)
 
-## Les hypothèses de problèmes à explorer lors de la phase d’investigation‌
+## Les hypothèses de problèmes à explorer lors de la phase d’investigation
 
 La finalité de l’investigation est de permettre de limiter les risques liés à la qualité de l’eau sur la santé des gens. Pour cela, deux hypothèses problèmes sont à explorer 
 
@@ -72,7 +69,7 @@ Les petits exploitants de type **collectivités en régie sans service technique
 
 L’enjeu sous-jacent aux actions de prévention est de s’assurer que le message atteigne sa cible et produise un effet concret sur la qualité de l’eau (**pilotage de l’impact**).
 
-## Piste de solution :
+## Piste de solution
 
 Pour les agents ARS : 
 
