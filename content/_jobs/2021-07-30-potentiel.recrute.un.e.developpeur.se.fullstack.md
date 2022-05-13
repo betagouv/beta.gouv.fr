@@ -55,15 +55,15 @@ Vous aurez pour mission de contribuer au développement stratégique et techniqu
 * Participer aux orientations stratégiques sur le produit, sur la proposition de valeur et la définition des objectifs ;
 * Contribuer à la construction de notre roadmap, epics, backlog, etc.
 * Comprendre les enjeux autour de la création de projets d’énergies renouvelables électriques afin de répondre aux besoins des parties prenantes de la l'app ;
-* Participation au développement de l'app, en lien avec les 2 développeurs·ses déjà présents sur le projet : reprise du code et prise en main du backlog, participation à l’architecture et poursuite du développement des plateformes web front et back-end
-* Optimisation du parcours et de l’expérience utilisateur
-* Mise en place et maintenance de tests automatisés
-* Conception, implémentation et documentation d'une API ouverte aux autres acteurs (privés et publics)
+* Participation au développement de l'app, en lien avec les 2 développeurs·ses déjà présents sur le projet : reprise du code et prise en main du backlog, participation à l’architecture et poursuite du développement des plateformes web front et back-end ;
+* Optimisation du parcours et de l’expérience utilisateur ;
+* Mise en place et maintenance de tests automatisés ;
+* Conception, implémentation et documentation d'une API ouverte aux autres acteurs (privés et publics) ;
 * Contribution au traitement de la dette technique ;
 * Documentation produit ;
 * Participer à la relation avec les utilisateurs (interventions sur le support utilisateur pour les points techniques, entretiens utilisateurs…) ;
 * Aider à l’amélioration continue du produit, d’après les retours des utilisateurs.
-* Cette liste n’est pas exhaustive et sera amenée à évoluer - dans le même domaine de compétences - en fonction de votre profil, de vos intérêts et des besoins de la startup.
+Cette liste n’est pas exhaustive et sera amenée à évoluer - dans le même domaine de compétences - en fonction de votre profil, de vos intérêts et des besoins de la startup.
 
 ## Profil recherché
 
@@ -71,8 +71,7 @@ Vous êtes notre futur·e Développeur·se fullstack si :
 
 * Vous êtes animé·e par la volonté d’améliorer le service public ;
 * Vous portez un intérêt aux enjeux de l’écologie et des énergies renouvelables ;
-* Vous savez faire preuve d’initiative, d’adaptabilité et d’autonomie sur vos sujets ;
-* Vous aimez résoudre les problèmes ;
+* Vous aimez résoudre les problèmes et savez faire preuve d’initiative, d’adaptabilité et d’autonomie sur vos sujets ;
 * Vous n’avez pas peur de vous investir dans un environnement changeant ;
 * Vous aimez travailler en équipe réduite (6 personnes à ce jour), de manière agile, selon les principes du lean startup et avec de fortes responsabilités ;
 * Vous êtes à l’écoute et à l’aise dans la communication orale et écrite, de façon synchrone ou asynchrone avec vos collègues ;
@@ -89,11 +88,11 @@ Idéalement vous avez de l’expérience dans un ou plusieurs des domaines suiva
 
 Les entretiens se tiendront courant mai.
 
-Date d’entrée souhaitée : juin 2021
+Date d’entrée souhaitée : juin 2022
 
 Type de contrat : mission freelance de 4 mois renouvelable (à 5 jours par semaine idéalement, 4 jours par semaine minimum)
 
-Modalités : le télétravail est la norme, des locaux peuvent cependant être mis à disposition à la Défense et des sessions de travail co-localiisées ponctuelles pourront être mises en place.
+Modalités : le télétravail est la norme, des locaux sont cependant disponibles à la Défense et des sessions de travail co-localiisées ponctuelles pourront être mises en place.
 
 ## Comment postuler ?
 
