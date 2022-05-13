@@ -72,7 +72,7 @@ Les petits exploitants de type **collectivités en régie sans service technique
 
 L’enjeu sous-jacent aux actions de prévention est de s’assurer que le message atteigne sa cible et produise un effet concret sur la qualité de l’eau (**pilotage de l’impact**).
 
-## ‌Piste de solution :
+## Piste de solution :
 
 Pour les agents ARS : 
 
