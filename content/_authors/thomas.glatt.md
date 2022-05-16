@@ -14,7 +14,6 @@ previously:
   - carnet.de.bord
 startups:
   - deveco
-  - transco
 competences:
   - Développement Frontend
   - Développement Backend
