@@ -54,8 +54,8 @@ Vous aurez pour mission de contribuer au développement stratégique et techniqu
 
 * Participer aux orientations stratégiques sur le produit, sur la proposition de valeur et la définition des objectifs ;
 * Contribuer à la construction de notre roadmap, epics, backlog, etc.
-* Comprendre les enjeux autour de la création de projets d’énergies renouvelables électriques afin de répondre aux besoins des parties prenantes de la l'app ;
-* Participation au développement de l'app, en lien avec les 2 développeurs·ses déjà présents sur le projet : reprise du code et prise en main du backlog, participation à l’architecture et poursuite du développement des plateformes web front et back-end ;
+    * Comprendre les enjeux autour de la création de projets d’énergies renouvelables électriques afin de répondre aux besoins des parties prenantes de la l'app ;
+* Participer au développement de l'app, en lien avec les 3 développeurs·ses déjà présents sur le projet : reprise du code et prise en main du backlog, participation à l’architecture et poursuite du développement des plateformes web front et back-end ;
 * Optimisation du parcours et de l’expérience utilisateur ;
 * Mise en place et maintenance de tests automatisés ;
 * Conception, implémentation et documentation d'une API ouverte aux autres acteurs (privés et publics) ;
@@ -63,6 +63,7 @@ Vous aurez pour mission de contribuer au développement stratégique et techniqu
 * Documentation produit ;
 * Participer à la relation avec les utilisateurs (interventions sur le support utilisateur pour les points techniques, entretiens utilisateurs…) ;
 * Aider à l’amélioration continue du produit, d’après les retours des utilisateurs.
+* Tout ceci, avec un fort esprit d'équipe : ateliers et sessions de conception métier, peer programming, etc.
 Cette liste n’est pas exhaustive et sera amenée à évoluer - dans le même domaine de compétences - en fonction de votre profil, de vos intérêts et des besoins de la startup.
 
 ## Profil recherché
@@ -73,7 +74,7 @@ Vous êtes notre futur·e Développeur·se fullstack si :
 * Vous portez un intérêt aux enjeux de l’écologie et des énergies renouvelables ;
 * Vous aimez résoudre les problèmes et savez faire preuve d’initiative, d’adaptabilité et d’autonomie sur vos sujets ;
 * Vous n’avez pas peur de vous investir dans un environnement changeant ;
-* Vous aimez travailler en équipe réduite (6 personnes à ce jour), de manière agile, selon les principes du lean startup et avec de fortes responsabilités ;
+* Vous aimez travailler en équipe réduite (6 personnes à ce jour), de manière agile, selon les principes du lean startup, avec de fortes responsabilités et beaucoup d'interactions en équipe ;
 * Vous êtes à l’écoute et à l’aise dans la communication orale et écrite, de façon synchrone ou asynchrone avec vos collègues ;
 * Vous avez déjà fait l'expérience du travail en freelance à distance.
 
