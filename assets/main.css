@@ -536,7 +536,6 @@ h2.phase-title em {
 }
 
 .section-main {
-  min-height: 400px;
   width: 100%;
   overflow: hidden;
   position: relative;
