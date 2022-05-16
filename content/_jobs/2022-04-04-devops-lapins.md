@@ -1,7 +1,7 @@
 ---
 roles: (dev)Ops
 startup: lapins
-open: true
+open: false
 ---
 
 RDV-Solidarités est un outil de prise de RDV en ligne et d'organisation du temps des agents lancé en 2019, suite à une expérimentation dans le département du Pas-de-Calais. Un consortium d'une dizaine de départements accompagné par la DINUM et la Banque des Territoires, a été constitué pour construire ce service. Aujourd'hui, [plus de 10 000 RDV](https://www.rdv-solidarites.fr/stats) sont pris par semaine sur la plateforme.
