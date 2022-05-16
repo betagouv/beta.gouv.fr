@@ -5,14 +5,15 @@ role: Développeur
 github: tglatt
 missions:
   - start: 2021-06-28
-    end: 2022-05-31
+    end: 2022-12-31
     status: independent
 previously:
   - tremplin
   - workinfrance
   - e-mjpm
-startups:
   - carnet.de.bord
+startups:
+  - deveco
 competences:
   - Développement Frontend
   - Développement Backend
