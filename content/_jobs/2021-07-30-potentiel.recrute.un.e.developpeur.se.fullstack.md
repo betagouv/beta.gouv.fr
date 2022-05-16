@@ -63,7 +63,7 @@ Vous aurez pour mission de contribuer au développement stratégique et techniqu
 * Documentation produit ;
 * Participer à la relation avec les utilisateurs (interventions sur le support utilisateur pour les points techniques, entretiens utilisateurs…) ;
 * Aider à l’amélioration continue du produit, d’après les retours des utilisateurs.
-* Tout ceci, avec un fort esprit d'équipe : ateliers et sessions de conception métier, peer programming, etc.
+* Tout ceci, avec un fort esprit d'équipe : ateliers et sessions de conception métier, pair programming, etc.
 Cette liste n’est pas exhaustive et sera amenée à évoluer - dans le même domaine de compétences - en fonction de votre profil, de vos intérêts et des besoins de la startup.
 
 ## Profil recherché
