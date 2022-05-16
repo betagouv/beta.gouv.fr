@@ -1,8 +1,8 @@
 ---
 roles: Potentiel recrute 2 Développeurs·ses fullstack
-open: false
+open: true
 junior: true
-date: 2021-07-30T14:50:06.352Z
+date: 2022-05-16T14:50:06.352Z
 startup: potentiel
 ---
 ## Qui sommes-nous ?
