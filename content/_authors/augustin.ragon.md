@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo
   - start: 2022-03-04
-    end: 2022-05-31
+    end: 2022-08-31
     status: independent
     employer: Little Big Connection
 startups:
