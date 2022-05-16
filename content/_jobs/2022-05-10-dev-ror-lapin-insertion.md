@@ -1,7 +1,7 @@
 ---
 roles: Dev Ruby on Rails expérimenté·e
 open: true
-date: 2021-12-07
+date: 2022-05-16
 techno: Ruby on Rails
 startup: lapins
 ---
