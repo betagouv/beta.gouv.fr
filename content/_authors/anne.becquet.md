@@ -15,4 +15,5 @@ startups:
   - la-bonne-alternance
   - matcha
   - rdv.apprentissage
+  - voeux-apprentissage
 ---
