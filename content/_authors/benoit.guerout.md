@@ -13,7 +13,7 @@ missions:
     status: independent
     employer: OCTO Technology
   - start: 2020-05-01
-    end: 2022-06-30
+    end: 2022-12-31
     status: independent
     employer: ut7
 github: bguerout
@@ -22,6 +22,7 @@ startups:
     - sirius
     - catalogue-apprentissage
     - uai_siret
+    - voeux-apprentissage
 
 ---
 
