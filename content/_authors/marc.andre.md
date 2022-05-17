@@ -9,6 +9,7 @@ missions:
     employer: /ut7
 startups:
   - catalogue-apprentissage
+  - voeux-apprentissage
 badges:
   - segur
 ---
