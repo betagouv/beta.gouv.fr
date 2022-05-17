@@ -13,8 +13,8 @@ stats_url: https://voeux-affelnet.apprentissage.beta.gouv.fr/stats
 stats: true
 phases:
   - name: transfer
-    start: 2022-01.01
-    end: 2023.01.01
+    start: 2022-01-01
+    end: 2023-01-01
 usertypes:
   - etablissement-scolaire
   - etat
