@@ -23,6 +23,7 @@ startups:
     - catalogue-apprentissage
     - uai_siret
     - voeux-apprentissage
+    - Trajpro
 
 ---
 
