@@ -11,7 +11,7 @@ L’équipe demarches-simplifiees.fr cherche une développeuse ou un développeu
 
 ## demarches-simplifiees.fr
 
-demarches-simplifiees.fr est un outil qui permet aux administrations de dématérialiser leurs démarches papiers. Nous faisons ainsi gagner du temps aux services instructeurs et aux usagers.
+demarches-simplifiees.fr est un outil open-source qui permet aux administrations de dématérialiser leurs démarches papiers. Nous faisons ainsi gagner du temps aux services instructeurs et aux usagers.
 
 L’application est structurée en 3 parties :
 
@@ -42,13 +42,13 @@ Enfin nous animons une petite communauté de contributeurs externes qui particip
 
 - Vous avez une bonne expérience en Ruby on Rails, et avez idéalement déjà travaillé sur des sujets web (mise en place d’un backend, utilisation de token d’authentification, connexion auprès d’API…) ;
 - Vous êtes animé·e par la volonté d’améliorer le service public ;
-- Vous savez faire preuve d’initiative, d’autonomie dans votre travail ;
+- Vous savez faire preuve d’initiative et d’autonomie dans votre travail ;
 - Vous avez envie de travailler de manière agile dans une petite équipe auto-organisée ;
 - Vous êtes à l’écoute et à l’aise dans la communication orale et écrite, avec vos collègues.
 
 ## Modalités
 
-- Poste ouvert au statut d’indépendante ou indépendant, à temps plein ou partiel ;
+- Poste ouvert au statut d’indépendante ou indépendant, à temps plein ou partiel (3 à 5 jours/semaine) ;
 - TJM : entre 450 et 700 € ([très junior - très senior](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/observatoire-revenus#la-grille)) ;
 - L’équipe est distribuée géographiquement, et travaille en _remote-first_ ; le télétravail est donc possible. Des bureaux ou espaces de travail beta.gouv.fr sont accessibles à Paris et à Lyon ;
 - Démarrage dès que possible.
