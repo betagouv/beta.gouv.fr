@@ -12,8 +12,9 @@ stats_url: https://contrat.apprentissage.beta.gouv.fr/stats
 stats: true
 events: []
 phases:
-  - name : transfer
-  - start : 2022-02-01
+  - name: transfer
+    start: 2022-02-01
+    end: 2022-06-31
 usertypes:
   - etat
   - collectivite-territoriale
