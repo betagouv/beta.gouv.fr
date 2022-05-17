@@ -1,5 +1,5 @@
 ---
-roles: un·e développeur·se
+roles: Dev Ruby on Rails expérimenté·e
 startup: demarches-simplifiees.fr
 techno: Ruby on Rails
 open: true
