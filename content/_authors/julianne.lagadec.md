@@ -14,4 +14,5 @@ startups:
   - matcha
   - rdv.apprentissage
   - dematapprentissage
+  - Trajpro
 ---
