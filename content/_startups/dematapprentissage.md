@@ -6,8 +6,10 @@ sponsors:
  - /organisations/mtfp
 incubator: mission-apprentissage
 link: https://contrat.apprentissage.beta.gouv.fr/
-repository: 
+repository: https://github.com/mission-apprentissage/cerfa
 contact: apprentissage@beta.gouv.fr
+stats_url: https://contrat.apprentissage.beta.gouv.fr/stats
+stats: true
 events: []
 phases:
   - name: investigation
@@ -15,8 +17,11 @@ phases:
     end: ""
   - name : construction
     start: 2021-12-01
+  - name : transfer
+  - start : 2022-02-01
 usertypes:
   - etat
+  - collectivite-territoriale
 ---
 ## Constat
 
