@@ -40,7 +40,7 @@ La campagne de transmission des listes s’effectue en 2 temps :
 
 Les fichiers de chaque établissement sont déposés sur un serveur sécurisé pour être téléchargés. Si des vœux ont été formulés, les établissements sont informés de la disponibilité des listes dans la semaine du 6 juin 2022, dans la semaine du 20 juin 2022 et dans la semaine du 4 juillet 2022.
 
-Seuls les directeurs des établissements responsables sont destinataires de vœux ([arrêté du 17 juillet 2017](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035274717/2020-11-09/))). Si l’établissement est responsable de plusieurs établissements d’accueil, la connexion au service lui permettra de télécharger les listes pour chaque établissement d’accueil porteur de vœux.
+Seuls les directeurs des établissements responsables sont destinataires de vœux ([arrêté du 17 juillet 2017](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035274717/2020-11-09/)). Si l’établissement est responsable de plusieurs établissements d’accueil, la connexion au service lui permettra de télécharger les listes pour chaque établissement d’accueil porteur de vœux.
 
 ## Les bénéfices attendus
 
