@@ -12,8 +12,6 @@ incubator: mission-apprentissage
 phases:
   - name: investigation
     start: 2020-07-01
-  - name: construction
-    start: 2021-01-01
 link: 
 repository: 
 contact: apprentissage@beta.gouv.fr
