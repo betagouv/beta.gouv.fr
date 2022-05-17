@@ -2,7 +2,7 @@
 roles: Dev JavaScript
 open: true
 junior: true
-date: 2022-05-17
+date: 2022-05-18
 techno: VueJS, Node.js
 startup: aides.jeunes
 ---
@@ -31,7 +31,7 @@ Demandé par le Premier Ministre en février 2021, le simulateur d'aides pour le
 
 Avant tout, l'équipe est responsable d'amélioration continue et de la qualité de service du simulateur [accessible en ligne](https://mes-aides.1jeune1solution.beta.gouv.fr/). Il permet aux jeunes de connaître et accéder aux aides auxquelles ils ont le droit. Ce simulateur, en VueJS, est utilisé par des milliers de personnes par jour et est régulièrement enrichi de nouvelles aides et dispositifs. Nous le mettons à jour quotidiennement en fonction des retours des usagers.
 
-Ressources :
+Ressources :
 - [code source du simulateur](https://github.com/betagouv/aides-jeunes) (VueJS, nodeJS, NetlifyCMS)
 
 
@@ -39,21 +39,20 @@ Ressources :
 
 L'équipe a pour ambition d'enrichir le simulateur de nombreuses aides, notamment celles qui existent à l'échelle locale. Pour cela, nous expérimentons la possibilité de modéliser des aides plus simples, uniquement à partir d'un outil en ligne. Initialement prévu pour le contenu éditorial (les textes, les liens, etc.), nous y avons intégré des champs permettant la modélisation des critères d'éligibilité.
 
-Ressources :
+Ressources :
 - [L'outil de contribution](https://contribuer-aides-jeunes.netlify.app/)
 - [Configuration netlifyCMS](https://github.com/betagouv/aides-jeunes/blob/master/contribuer/public/admin/config.yml)
 
 
 ### 3 - Des moteurs de calculs pour modéliser les aides 🛠
 
-Ce simulateur repose sur trois moteurs de calculs complémentaires permettant d'évaluer l'éligibilité à plus de 550 aides. Le moteur de calculs [OpenFisca](https://openfisca.org/) est celui utilisé pour évaluer l'éligibilité et  pour estimer les montants des aides complexes. Le moteur de calculs de https://mesaidesvelo.fr/ est utilisé pour évaluer les nombreuses aides au financement de vélos regroupées par un collectif de la société civile. Enfin, comme indiqué pus haut, nous avons construit un moteur de calculs en javascript alimenté par notre outil de de contribution.
+Ce simulateur repose sur trois moteurs de calculs complémentaires permettant d'évaluer l'éligibilité à plus de 550 aides. Le moteur de calculs [OpenFisca](https://openfisca.org/) est celui utilisé pour évaluer l'éligibilité et  pour estimer les montants des aides complexes. Le moteur de calculs de [mesaidesvelo.fr](https://mesaidesvelo.fr/) est utilisé pour évaluer les nombreuses aides au financement de vélos regroupées par un collectif de la société civile. Enfin, comme indiqué pus haut, nous avons construit un moteur de calculs en javascript alimenté par notre outil de contribution.
 
 
 ## Exemples de chantiers auxquels il sera possible de contribuer
 
 
-Avec l'ajout d'aides en masse, nous avons identifié des améliorations pour faciliter les contributions. Pour le moment, des profils d'éligibilité ont été ajoutés aux fiches d'aides et ils permettent de décrire les critères principaux à satisfaire comme par exemple pour l'[aide aux bacheliers méritants](https://contribuer-aides-jeunes.netlify.app/admin/#/collections/benefits/entries/
-ile-de-france-aide-aux-bacheliers-meritants) de la Région Île-de-France.
+Avec l'ajout d'aides en masse (plus de 500 en 6 mois), nous avons identifié des améliorations pour faciliter les contributions. Pour le moment, des profils d'éligibilité ont été ajoutés aux fiches d'aides et ils permettent de décrire les critères principaux à satisfaire pour obtenir l'aide et le montant de celle-ci ; comme par exemple pour l'[aide aux bachelier·ère·s méritant·e·s](https://contribuer-aides-jeunes.netlify.app/admin/#/collections/benefits/entries/ile-de-france-aide-aux-bacheliers-meritants) de la Région Île-de-France.
 
 
 Régulièrement, nous faisons des tests avec des jeunes. Cela est très riche et met en évidence des zones de difficultés pour les personnes qui utilisent le simulateur. Nous avons besoin d'aide pour réfléchir aux améliorations incrémentales et les tester en les mettant en production avec de l'A/B testing pour évaluer l'impact et s'assurer qu'il n'y a pas de dégradation de l'expérience.
@@ -76,12 +75,12 @@ Enfin, pour vous donner une idée des travaux en cours (et des nombreux envisag�
 
 ## Compétences
 
-- Bonne maîtrise de VueJS.
+- Bonne maîtrise de VueJS 3 et Node.js.
 - Expérience en conception orientée utilisateur et en expérience utilisateur.
 
 
-Points bonus pour :
-- Connaissance de NetlifyCMS
+Points bonus pour :
+- Connaissance de NetlifyCMS et/ou React
 - Habitudes des modalités de contribution du logiciel libre (issues, PR…)
 - Intérêt pour les aides sociales et leur modélisation
 
@@ -95,4 +94,4 @@ Points bonus pour :
 
 Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à [aides-jeunes@beta.gouv.fr](mailto:aides-jeunes@beta.gouv.fr?subject=Recrutement dev)
 
-À bientôt ! 😀
+À bientôt ! 😀
