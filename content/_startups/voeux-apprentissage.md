@@ -1,5 +1,5 @@
 ---
-title: Les transfert des vœux exprimés sur Affelnet par les jeunes sortants de 3ème aux CFA
+title: Les transfert des vœux en apprentissage exprimés sur Affelnet aux CFA
 mission: "Permettre un accompagnement accéléré des jeunes sortants de 3ème grâce à un transfert des vœux exprimés en apprentissage aux directrices ou directeurs d’organismes responsables de formations en apprentissage."
 sponsors:
   - /organisations/menjs
