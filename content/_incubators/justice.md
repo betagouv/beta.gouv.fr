@@ -1,9 +1,7 @@
 ---
 title: L'Incubateur de la Justice
 owner: Ministère de la Justice
-logo: 
-![Ministère_de_la_Justice](https://user-images.githubusercontent.com/76947365/167394976-40d8478f-a78d-4e86-82ff-319e02581a7d.png)
-
+logo: justice_logo.png
 website: http://portail.innovation.intranet.justice.gouv.fr/
 github: NA
 contact: mailto:pole-innovation-spg.snum-sg@justice.gouv.fr
