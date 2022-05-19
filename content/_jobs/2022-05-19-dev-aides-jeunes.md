@@ -2,7 +2,7 @@
 roles: Dev JavaScript
 open: true
 junior: true
-date: 2022-05-18
+date: 2022-05-19
 techno: VueJS, Node.js
 startup: aides.jeunes
 ---
@@ -46,7 +46,7 @@ Ressources :
 
 ### 3 - Des moteurs de calculs pour modéliser les aides 🛠
 
-Ce simulateur repose sur trois moteurs de calculs complémentaires permettant d'évaluer l'éligibilité à plus de 550 aides. Le moteur de calculs [OpenFisca](https://openfisca.org/) est celui utilisé pour évaluer l'éligibilité et  pour estimer les montants des aides complexes. Le moteur de calculs de [mesaidesvelo.fr](https://mesaidesvelo.fr/) est utilisé pour évaluer les nombreuses aides au financement de vélos regroupées par un collectif de la société civile. Enfin, comme indiqué pus haut, nous avons construit un moteur de calculs en javascript alimenté par notre outil de contribution.
+Ce simulateur repose sur trois moteurs de calculs complémentaires permettant d'évaluer l'éligibilité à plus de 550 aides. Le moteur de calculs [OpenFisca](https://openfisca.org/) est celui utilisé pour évaluer l'éligibilité et pour estimer les montants des aides complexes. Le moteur de calculs de [mesaidesvelo.fr](https://mesaidesvelo.fr/) est utilisé pour évaluer les nombreuses aides au financement de vélos regroupées par un collectif de la société civile. Enfin, comme indiqué pus haut, nous avons construit un moteur de calculs en javascript alimenté par notre outil de contribution.
 
 
 ## Exemples de chantiers auxquels il sera possible de contribuer
