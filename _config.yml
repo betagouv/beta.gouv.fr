@@ -57,12 +57,8 @@ exclude: [
 copy_to_dest:
   - source: node_modules/remixicon/fonts/.
     target: assets/remixicon/fonts/
-  - source: node_modules/@gouvfr/dsfr/dist/css/.
-    target: assets/gouvfr/css/
-  - source: node_modules/@gouvfr/dsfr/dist/fonts/.
-    target: assets/gouvfr/fonts/
-  - source: node_modules/@gouvfr/dsfr/dist/js/.
-    target: assets/gouvfr/js/
+  - source: node_modules/@gouvfr/dsfr/dist/.
+    target: assets/gouvfr/
 
 excerpt_separator: <!--more-->
 

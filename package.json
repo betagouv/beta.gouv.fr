@@ -1,6 +1,6 @@
 {
-  "dependencies": {
-    "@gouvfr/dsfr": "1.0.0-rc1.0",
-    "remixicon": "^2.5.0"
-  }
+    "dependencies": {
+        "@gouvfr/dsfr": "1.5.1",
+        "remixicon": "^2.5.0"
+    }
 }
