@@ -5,7 +5,7 @@ domaine: Produit
 github: benjaminbarralon
 missions:
   - start: 2022-03-21
-    end: 2022-12-30
+    end: 2023-06-01
     status: admin
     employer: AMUE
 startups:
