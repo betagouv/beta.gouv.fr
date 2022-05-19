@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: Anne-Becquet
 missions:
   - start: 2020-01-01
-    end: 2022-06-30
+    end: 2023-06-30
     status: independent
 startups:
   - catalogue-apprentissage
