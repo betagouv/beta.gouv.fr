@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-"@gouvfr/dsfr@1.0.0-rc1.0":
-  "integrity" "sha512-mXfun0FzqeSgfyti6SsdPQHSpNsQBOJNkzZtvoN8KfaUGP3asupaMXe2CbRgrkV3ogqM0n/vToWjYjLzBwPxuQ=="
-  "resolved" "https://registry.npmjs.org/@gouvfr/dsfr/-/dsfr-1.0.0-rc1.0.tgz"
-  "version" "1.0.0-rc1.0"
+"@gouvfr/dsfr@1.5.1":
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/@gouvfr/dsfr/-/dsfr-1.5.1.tgz#c5f85f6bfddd9169cfc4a27319a152d872dadcd8"
+  integrity sha512-z0o1zD3zAzF3CTGWev2tSLHPv8yk52xq6QOuEuGulGfIze5N/Y3W+ScT+dKyZG8y/aOyX9T+O9wYnNH5XIGb0g==
 
-"remixicon@^2.5.0":
-  "integrity" "sha512-q54ra2QutYDZpuSnFjmeagmEiN9IMo56/zz5dDNitzKD23oFRw77cWo4TsrAdmdkPiEn8mxlrTqxnkujDbEGww=="
-  "resolved" "https://registry.npmjs.org/remixicon/-/remixicon-2.5.0.tgz"
-  "version" "2.5.0"
+remixicon@^2.5.0:
+  version "2.5.0"
+  resolved "https://registry.npmjs.org/remixicon/-/remixicon-2.5.0.tgz"
+  integrity sha512-q54ra2QutYDZpuSnFjmeagmEiN9IMo56/zz5dDNitzKD23oFRw77cWo4TsrAdmdkPiEn8mxlrTqxnkujDbEGww==
