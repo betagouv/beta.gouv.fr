@@ -5,7 +5,7 @@ domaine: Développement
 github: stephane-ruhlmann
 missions:
   - start: 2020-11-02
-    end: 2022-06-01
+    end: 2022-12-31
     status: independent
 startups:
   - tdb-apprentissage
