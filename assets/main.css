@@ -160,7 +160,7 @@ hr {
 }
 
 .section-lightgrey .section-highlight {
- color: #484d7a; 
+ color: #484d7a;
 }
 
 .section-dark {
@@ -173,33 +173,8 @@ hr {
   color: #fff;
 }
 
-/* Icônes reseaux sociaux */
-
-.beta-footer-social li a {
-  margin-right: 10px;
-}
-
-.beta-footer-social li a .icon{
-  width: 2em;
-  height: 2em;
-}
-
-.icon {
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  stroke-width: 0;
-  stroke: currentColor;
-  fill: currentColor;
-  font-size: 16px;
-}
-
-#icon-search {
-  fill: #adb9c9;
-}
-
 /*
- Ci-dessous, modifications temporaire au système de design 
+ Ci-dessous, modifications temporaire au système de design
 */
 
 /* Afficher le curseur même quand on est sur la page active */
@@ -373,11 +348,11 @@ h2.phase-title em {
   .filters .fr-container {
     grid-template-columns: repeat(3, 1fr);
   }
-  
+
   .filters input#search-input {
     grid-column: 3;
   }
-}  
+}
 
 .markdown p {
   font-size: 1rem;
@@ -497,7 +472,7 @@ h2.phase-title em {
   linear-gradient(0deg, #00006D, #00006D);
 }
 
-.job-section-blue h3, .job-section-blue .fr-btn--secondary {  
+.job-section-blue h3, .job-section-blue .fr-btn--secondary {
   color: white;
 }
 .job-section-blue .fr-btn--secondary {
