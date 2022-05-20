@@ -11,7 +11,7 @@ missions:
     status: independent
     employer: numa
 startups:
-  - wikicarbone
+  - ecobalyse
 previously:
   - recosante
   - hydrogene
