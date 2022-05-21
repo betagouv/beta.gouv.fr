@@ -26,8 +26,9 @@ Nous travaillons au sein de l'incubateur situé au 20 Avenue de Ségur dans les 
 
 Notre feuille de route est guidée par les besoins de nos utilisateurs et par notre objectif partagé de rendre l'État attractif et d'aider les administrations à recruter de la manière la plus rapide et la plus utile possible sur l’ensemble du territoire français.
 
-Les membres de l’équipe à Paris mais il est tout à fait possible de télétravailler depuis n'importe où en tant qu'indépendant.e.  
-Nous intéragissons gulièrement avec d’autres équipes intervenant sur d’autres Startups d’État pour partager nos expériences respectives et participons fréquemment aux ateliers transverses aux incubateurs.
+Les membres de l’équipe à Paris mais il est tout à fait possible de télétravailler depuis n'importe où en tant qu'indépendant.e.
+
+Nous intéragissons régulièrement avec d’autres équipes intervenant sur d’autres Startups d’État pour partager nos expériences respectives et participons fréquemment aux ateliers transverses aux incubateurs.
 
 L’équipe, avec des centres d’intérêt très différents et complémentaires, partage des valeurs communes :
 - l’obsession de la satisfaction de nos utilisateurs, 
@@ -36,7 +37,7 @@ L’équipe, avec des centres d’intérêt très différents et complémentaire
 - l’intuition que la mise en oeuvre d’une politique publique, même numérique, ne peut se faire sans une forte dose de relations humaines, 
 - et enfin la volonté de toujours nous améliorer, d’améliorer le service que nous rendons à nos utilisateurs et de partager au maximum ce que nous apprenons avec les communautés qui nous entourent.
 
-Par notre travail, nous cherchons à montrer que des équipes autonomes, responsables et à qui l’on fait confiance peuvent construire des services numériques qui fonctionnent, simples, faciles à utiliser, et qui améliorent le service public.
+Par notre travail, nous cherchons à montrer que des équipes autonomes, responsables et à qui l’on fait confiance, peuvent construire des services numériques qui fonctionnent, simples, faciles à utiliser, et qui améliorent le service public.
 
 ## La communauté beta.gouv.fr
 
@@ -102,11 +103,11 @@ Ne te censure pas si :
 
 ## Ton profil hard skills 
 
-Nous aimerions beaucoup échangé avec toi si tu maitrises bien :
+Nous aimerions beaucoup échanger avec toi si tu maitrises bien :
 - Le développement fullstack Node.js / React
 - Typescript
 - Les tests unitaires et end-to-end
-- L'ntégration continue : Git, Github, Github Actions
+- L'intégration continue : Git, Github, Github Actions
 - Git (rebase, squash, Conventional Commits)
 
 Et ce serait génial si tu connaissais aussi : 
@@ -126,16 +127,17 @@ Et ce serait génial si tu connaissais aussi :
 * Développer et maintenir les composants de nos applications.
 * Participer aux conceptions technico-fonctionnelles des user stories avec le reste de l’équipe.
 * Participer à l’estimation des tâches de développement.
-* Participation à la réunion d’équipe hebdomadaire (weekly).
-* Participation au point dev bi-hebdomadaire avec Jihane.
-* Participation à l’amélioration continue du produit (retour utilisateurs).
+* Participer à la réunion d’équipe hebdomadaire avec Radia et Jihane (weekly).
+* Participer au point dev bi-hebdomadaire avec Jihane.
+* Participer à l’amélioration continue du produit (retour utilisateurs).
 * Prendre part à la refactorisation en continu et au questionnement sur les choix d'implémentation et d'architecture.
 * Mettre en œuvre des bonnes pratiques liées à la sécurité des applications Web et à leur performance.
 
 
 # Détails techniques
+
 ## Contrat
-Poste ouvert aux travailleurs en statut indépendant avec un financement quasi assuré jusqu'au 31 décembre 2022 à hauteur de 4 jours par semaine. 
+Poste ouvert aux travailleurs en statut indépendant avec un financement assuré jusqu'au 31 décembre 2022 à hauteur de 4 jours par semaine. 
 
 Si le statut d’indépendant peut poser un frein à ta candidature, nous sommes disponibles pour discuter des modalités de création de statuts spécifiques.
 
