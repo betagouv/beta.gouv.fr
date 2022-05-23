@@ -8,11 +8,10 @@ missions:
     end: 2023-07-01
     status: admin
 startups:
-  - catalogue-apprentissage
   - tdb-apprentissage
   - la-bonne-alternance
   - matcha
   - rdv.apprentissage
-  - dematapprentissage
+  - voeux-apprentissage
   - Trajpro
 ---
