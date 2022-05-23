@@ -30,7 +30,7 @@ usertypes:
 
 **74%** des Français aimeraient avoir plus d’informations sur l’impact environnemental et sociétal des produits qu’ils achètent ([14ème baromètre de la consommation responsable Greenflex et ADEME - 2021](https://presse.ademe.fr/wp-content/uploads/2021/05/CP-Barometre-de-la-consommation-responsable-Version-Finale.pdf)). Répondant à cette demande, la loi Climat et Résilience rend obligatoire l'affichage environnemental (📜[article 2 loi climat](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043957692?init=true&page=1&query=loi+climat+et+r%C3%A9silience&searchField=ALL&tab_selection=all)). La mise en œuvre de cette nouvelle obligation va prendre du temps et nécessite un travail collectif.
 
-Ecobalyse est un projet de la Fabrique Numérique du ministère de la transition écologique, avec l'appui de beta.gouv.fr, l'incubateur des services publics numériques. Il est en phase de construction depuis le 1er juillet 2021. Tout est provisoire, y compris le nom ! Dans un premier temps, les travaux se concentrent sur la filière textile👕.
+Ecobalyse — anciennement *Wikicarbone* — est un projet de la Fabrique Numérique du ministère de la transition écologique, avec l'appui de beta.gouv.fr, l'incubateur des services publics numériques. Il est en phase de construction depuis le 1er juillet 2021. Tout est provisoire, y compris le nom ! Dans un premier temps, les travaux se concentrent sur la filière textile👕.
 
 Ecobalyse doit être un **outil pédagogique** pour mieux comprendre les impacts environnementaux de nos produits, en s'appuyant sur les méthodes de référence (Base Impacts ADEME, PEF européen). Il doit être accessible à tous, y compris des PME/TPE voire des consommateurs curieux🔎.
 
