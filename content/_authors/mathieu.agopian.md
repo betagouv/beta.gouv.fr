@@ -19,7 +19,7 @@ missions:
     employer: LittleBigConnection
 startups:
   - classe-a-12
-  - wikicarbone
+  - ecobalyse
 previously:
   - saisissez au vol
   - egapro

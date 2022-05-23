@@ -8,8 +8,7 @@ missions:
     status: independent
     employer: Fabrique numérique
 startups:
-  - wikicarbone
+  - ecobalyse
 badges:
   - segur
 ---
-

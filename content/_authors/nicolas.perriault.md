@@ -18,7 +18,7 @@ missions:
     status: independent
     employer: LBC
 startups:
-  - wikicarbone
+  - ecobalyse
 previously:
   - egapro
   - acceslibre
