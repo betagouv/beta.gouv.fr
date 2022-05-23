@@ -12,6 +12,7 @@ repository: https://github.com/betagouv/collectif-objets
 stats: true
 stats_url: https://collectif-objets.beta.gouv.fr/stats
 contact: collectifobjets@beta.gouv.fr
+budget_url: https://cyan-picture-b45.notion.site/Budgets-publics-des-services-1b5453be26234d1c9abcb6bbce577e58
 usertypes:
   - collectivite-territoriale
   - particulier
