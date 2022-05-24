@@ -3,7 +3,7 @@ roles: Chargé.e d'animation et support territorial
 title: Histologe recrute un ou une...
 contrat: indépendant
 startup: histologe
-open: false
+open: true
 ---
 
 ## <a href="https://histologe.beta.gouv.fr/">Histologe</a>, une solution pour détecter et accélérer la prise en charge du “mal logement”
