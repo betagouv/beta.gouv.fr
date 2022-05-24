@@ -52,6 +52,7 @@
         </symbol>
       </defs>
     </svg>
+    {% include skip_links.html %}
     {% include header.html %}
 
     {% if page.breadcrumbs %}
@@ -73,7 +74,9 @@
       </nav>
     </div>
     {% endif %}
-    {{ content }}
+    <main id="contenu">
+      {{ content }}
+    </main>
     {% include footer.html %}
     {% include script.html %}
   </body>
