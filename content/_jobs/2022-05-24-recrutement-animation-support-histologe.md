@@ -18,7 +18,7 @@ Si comme nous tu souhaites faire changer les choses et construire un nouveau ser
 ## Missions
 * Animer et accompagner un portefeuille de structures publiques utilisatrices de l’outil Histologe.
 * Assurer un support de niveau 1 (fonctionnement général de la plateforme) auprès des utilisateurs, essentiellement par courriels, téléphones ou visioconférences.
-* Organiser des cessions de formations à destination des acteurs qui utilisent la plateforme
+* Organiser des sessions de formations à destination des acteurs qui utilisent la plateforme
 * Organiser les démonstrations de la plateforme Histologe auprès des Pôles Départementaux de Lutte contre l’Habitat Indigne.
 * Organiser des temps d’échanges bilatéraux ou collectifs avec les partenaires Histologe
 * Organiser des Webinaires pour présenter la plateforme aux acteurs curieux ou en attente de solutions
