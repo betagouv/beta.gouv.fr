@@ -7,8 +7,8 @@
 {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
 {% if screenshot_file %}
   {% assign screenshot_path = screenshot_file.path %}
-  <img class="fr-responsive-img lozad" data-src="{{ screenshot_path }}" title="Interface de {{ include.startup.title }}" alt="" data-proofer-ignore>
+  <a href="{{ screenshot_path }}" class="lazy-load"></a>
 {% elsif include.force %}
   {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
-  <img class="fr-responsive-img lozad" data-src="{{ screenshot_path }}" title="{{ include.startup.title }} est encore en travaux" alt="" data-proofer-ignore>
+  <a href="{{ screenshot_path }}" class="lazy-load"></a>
 {% endif %}

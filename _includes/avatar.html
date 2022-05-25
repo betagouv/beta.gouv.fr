@@ -4,9 +4,9 @@
 {%- endcomment -%}
 
 {%- if include.rounded -%}
-  {%- assign img_class = "lozad avatar-rounded" -%}
+  {%- assign img_class = "lazy-load avatar-rounded" -%}
 {%- else -%}
-  {%- assign img_class = "lozad" -%}
+  {%- assign img_class = "lazy-load" -%}
 {%- endif -%}
 
 {%- assign author_id = include.author.id | remove: '/authors/' -%}
@@ -16,16 +16,16 @@
 <div class="avatar fr-py-2w">
   {%- if screenshot_file -%}
     {%- assign screenshot_path = screenshot_file.path -%}
-    <img class="{{ img_class }}" data-src="{{ screenshot_path }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
+    <a class="{{ img_class }}" href="{{ screenshot_path }}"></a>
   {%- elsif include.author.avatar -%}
-    <img class="{{ img_class }}" data-src="{{ include.author.avatar }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
+    <a class="{{ img_class }}" href="{{ include.author.avatar }}"></a>
   {%- elsif include.author.github -%}
     {%- capture avatarGithub -%}
       https://avatars3.githubusercontent.com/{{include.author.github}}?s=600
     {%- endcapture -%}
-    <img class="{{ img_class }}" data-src="{{ avatarGithub }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
+    <a class="{{ img_class }}" href="{{ avatarGithub }}"></a>
   {%- elsif include.force -%}
     {%- assign screenshot_path = "/img/logo-generique-startup-carre-2019.jpg" -%}
-    <img class="{{ img_class }}" data-src="{{ screenshot_path }}" title="{{ include.author.fullname }}" alt="" data-proofer-ignore>
+    <a class="{{ img_class }}" href="{{ screenshot_path }}"></a>
   {%- endif -%}
 </div>
