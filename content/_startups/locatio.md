@@ -45,6 +45,21 @@ Bailleurs et professionnels de l'immobilier, DossierFacile est là pour vous ras
 
 Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. Fin 2021, ce sont déjà plus de 350 000 locataires, 20 000 propriétaires et une dizaine de professionnels de l'immobilier qui ont choisi de nous faire confiance. 
 
+## Notre impact et notre budget
+Depuis sa création, DossierFacile a accompagné plus de 420 000 candidats locataires dans la création de leur dossier de location. Ce sont autant de personnes qui ont pu constituer un dossier de location conforme et sécurisé, et autant de propriétaires ou d'agences rassurées, avec un impact avéré sur les escroqueries au logement et la vacance frictionnelle.
+Voici le budget consacré depuis le lancement du service :
+- 2018 : 72 500 € de la DGALN*
+- 2019 : 132 500 € de la DGALN
+- 2020 : 330 000 € de la DGALN
+- 2021 : 480 000 € de la DGALN et 200 000 € de la DINUM** (Fonds d'accélération des startups d'Etat et de territoires)
+- 2022 (prévisionnel) : 400 000 € de la DGALN et 900 000 € de la DINUM (Plan de Relance)
+
+Soit un total de 2 515 000 € depuis le lancement du service pour un nombre d'usagers prévisionnel à fin 2022 de 620 000, soit 4 €/usager.
+
+\*Direction générale de l'aménagement, du logement et de la nature
+
+\**Direction interministérielle du numérique
+
 ## Nos ambitions pour les prochains mois
 
 Comprendre les besoins des locataires et des bailleurs est notre obsession et notre produit est en amélioration constante. 
