@@ -9,8 +9,8 @@ repository: https://github.com/MTES-MCT/zero-logement-vacant
 contact: henry.ciesielski@developpement-durable.gouv.fr
 usertypes:
   - collectivite-territoriale
-stats: false
-dashlord_url: https://zerologementvacant.beta.gouv.fr/stats
+stats: true
+dashlord_url: ""
 events: []
 phases:
   - name: investigation
