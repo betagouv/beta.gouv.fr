@@ -28,12 +28,12 @@ Notre feuille de route est guidée par les besoins de nos utilisateurs et par no
 
 Les membres de l’équipe sont à Paris mais il est tout à fait possible de télétravailler depuis n'importe où en tant qu'indépendant.e.
 
-Nous intéragissons régulièrement avec d’autres équipes intervenant sur d’autres Startups d’État pour partager nos expériences respectives et participons fréquemment aux ateliers transverses aux incubateurs.
+Nous intéragissons régulièrement avec d’autres équipes intervenant sur d’autres Startups d’État pour partager nos expériences respectives et participons fréquemment aux ateliers transverses des incubateurs.
 
 L’équipe, avec des centres d’intérêt très différents et complémentaires, partage des valeurs communes :
 - l’obsession de la satisfaction de nos utilisateurs, 
 - la priorité donnée aux tâches qui ont une utilité réelle, 
-- la certitude qu’il est possible de mettre la technologie au service de l’intérêt général et de la rendre accessible et compréhensible par tous, 
+- la certitude qu’il est possible de mettre la technologie au service de l’intérêt général et de la rendre accessible et compréhensible à tous, 
 - l’intuition que la mise en oeuvre d’une politique publique, même numérique, ne peut se faire sans une forte dose de relations humaines, 
 - et enfin la volonté de toujours nous améliorer, d’améliorer le service que nous rendons à nos utilisateurs et de partager au maximum ce que nous apprenons avec les communautés qui nous entourent.
 
@@ -61,13 +61,13 @@ L’enjeu d’attractivité est collectif, notre objectif est d’y répondre de
 
 https://metiers.numerique.gouv.fr/ est une plateforme en ligne conçue pour promouvoir les emplois numériques de l'État pour y attirer les meilleurs talents.
 
-Nous avons construit la 1ère version avec le back administration bien stabilisé.
-Nous travaillons actuellement sur le front candidat et le maquettage après avoir interrogé près de 40 talents du numérique.
+Nous avons construit un back-office d’administration bien stabilisé la 1ère version.
+Nous travaillons actuellement sur le front-office candidat et le maquettage après avoir interrogé près de 40 talents du numérique.
 Nous avons une vingtaine d'administrations partenaires dont une quinzaine de Ministères.
 
-Le produit nécessite une personne capable de le reprendre pour continuer la 2ème partie de construction ainsi que le déployer sur le national.
+Le produit nécessite une personne capable de le reprendre pour continuer la 2ème partie de construction ainsi qu'en assurer le déploiement à l'échelle nationale.
 
-Le code est trouvable ici : https://github.com/betagouv/metiers-numeriques
+Le code source principal se trouve là : https://github.com/betagouv/metiers-numeriques
 
 ## Comment nous travaillons
 
@@ -103,7 +103,7 @@ Ne te censure pas si :
 
 ## Ton profil hard skills 
 
-Nous aimerions beaucoup échanger avec toi si tu maitrises bien :
+Nous aimerions beaucoup échanger avec toi si tu maîtrises bien :
 - Le développement fullstack Node.js / React
 - Typescript
 - Les tests unitaires et end-to-end
