@@ -26,7 +26,7 @@ Nous travaillons au sein de l'incubateur situé au 20 Avenue de Ségur dans les 
 
 Notre feuille de route est guidée par les besoins de nos utilisateurs et par notre objectif partagé de rendre l'État attractif et d'aider les administrations à recruter de la manière la plus rapide et la plus utile possible sur l’ensemble du territoire français.
 
-Les membres de l’équipe à Paris mais il est tout à fait possible de télétravailler depuis n'importe où en tant qu'indépendant.e.
+Les membres de l’équipe sont à Paris mais il est tout à fait possible de télétravailler depuis n'importe où en tant qu'indépendant.e.
 
 Nous intéragissons régulièrement avec d’autres équipes intervenant sur d’autres Startups d’État pour partager nos expériences respectives et participons fréquemment aux ateliers transverses aux incubateurs.
 
