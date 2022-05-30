@@ -4,7 +4,7 @@ startup: locatio
 open: true
 ---
 Afin de gérer le pic d'activité estivale de 2022, la startup d’État DossierFacile recrute un‧e opérateur‧ice de validation.\
-**Durée et date de début** : de mi-juin à mi-septembre 2022
+**Durée et date de début** : de mi-juin à mi-septembre 2022\
 **Rythme de travail** : de 1 à 5 jours par semaine en fonction de l'activité (y compris les week-ends)\
 **Localisation** : En télétravail
 
