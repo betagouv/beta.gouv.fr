@@ -16,6 +16,7 @@ usertypes:
   - particulier
 stats_url: https://www.dossierfacile.fr/stats
 stats: true
+budget: true
 phases:
   - name: investigation
     start: 2018-01-01
