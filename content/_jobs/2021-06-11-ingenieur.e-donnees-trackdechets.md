@@ -2,7 +2,7 @@
 roles: "Un.e ingénieur.e données"
 startup: trackdechets
 open: false
-title: Trackdéchets recrute un.e ingénieur.e données
+title: Trackdéchets recrute un.e ingénieur.e données senior
 ---
 
 ## À propos
