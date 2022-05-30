@@ -13,7 +13,7 @@
           <ul class="fr-btns-group fr-btns-group--lg">
             {% for item in site.data.footer.social %}
               <li>
-                <a class="fr-btn--{{ item.icon }} fr-btn" href="{{ item.url }}" target="_blank" title="Profil {{ item.icon | capitalize }} de BetaGouv - nouvelle fenêtre">
+                <a class="fr-icon-{{ item.icon }}-fill fr-btn" href="{{ item.url }}" target="_blank" title="Profil {{ item.icon | capitalize }} de BetaGouv - nouvelle fenêtre">
                   {{ item.icon }}
                 </a>
               </li>
