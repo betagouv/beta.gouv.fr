@@ -35,7 +35,7 @@ La Startup d'Etat Histologe recrute leur nouveau·elle développeur·se web full
 * Une connaissance des méthodes de développement agile
 
 Idéalement :
-* Tu es capable d’intervenir ponctuellement sur du PHP 8+ (Symfony 6).
+* Tu es capable d’intervenir ponctuellement sur du PHP 8+ (Symfony 6)
 * Tu maîtrises les bases DevOps
 
 ## Modalités
@@ -46,4 +46,4 @@ Idéalement :
 * Rémunération : TJM 450€
 
 ## Comment postuler ?
-Comment postuler ? Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à contact@histologe.info.
+Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à contact@histologe.info.
