@@ -16,6 +16,7 @@ usertypes:
   - particulier
 stats_url: https://www.dossierfacile.fr/stats
 stats: true
+budget_url: https://beta.gouv.fr/startups/locatio.html
 phases:
   - name: investigation
     start: 2018-01-01
@@ -56,9 +57,9 @@ Voici le budget consacré depuis le lancement du service :
 
 Soit un total de 2 515 000 € depuis le lancement du service pour un nombre d'usagers prévisionnel à fin 2022 de 620 000, soit 4 €/usager.
 
-\*Direction générale de l'aménagement, du logement et de la nature
+\*Direction générale de l'aménagement, du logement et de la nature (Ministère de la Transition écologique)
 
-\**Direction interministérielle du numérique
+\**Direction interministérielle du numérique (Services du Premier ministre)
 
 ## Nos ambitions pour les prochains mois
 
