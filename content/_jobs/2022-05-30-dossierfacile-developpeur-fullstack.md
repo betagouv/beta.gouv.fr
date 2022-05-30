@@ -1,6 +1,6 @@
 ---
 roles: Développeur‧se full-stack
-startup: DossierFacile
+startup: locatio
 open: true
 ---
 # Qu’est-ce qu’une startup d'État ?
