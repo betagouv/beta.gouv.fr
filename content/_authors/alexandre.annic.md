@@ -7,7 +7,7 @@ avatar: null
 link: https://alexandre-annic-cv.firebaseapp.com/
 missions:
   - start: 2020-11-09
-    end: 2022-06-01
+    end: 2022-07-01
     status: independent
     employer: octo
 startups:
