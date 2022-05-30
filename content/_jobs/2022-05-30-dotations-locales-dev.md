@@ -1,11 +1,11 @@
 ---
-roles: Développeur·se JavaScript/Python 
+roles: Développeur·se front
 open: true
 date: 2022-05-30
 startup: dotations-locales
 ---
 
-Nous recherchons une développeuse ou un développeur JavaScript/Python pour la startup [Dotations locales](https://beta.gouv.fr/startups/dotations-locales.html).
+Nous recherchons une développeuse ou un développeur front-end pour la startup [Dotations locales](https://beta.gouv.fr/startups/dotations-locales.html).
 
 Venez aider des territoires à estimer les dotations de l'État et apportez vos compétences pour rendre la législation calculable !
 
@@ -19,41 +19,32 @@ Sélectionnée au cours de la [Consultation du Plan de Relance](https://mon.incu
 
 ## Missions
 
-La mission comprend aussi bien de la recherche utilisateur que de la conception et de l'interface utilisateur :
+D'un point de vue interface, vos objectifs seront :
+* de développer une interface graphique pour un simulateur de dotations (JavaScript/TypeScript) 
+* d'améliorer en continu l'interface développée sur la base d'entretiens usagers et de maquettes design (Figma)
 
-Expérience utilisateur (UX) :
+De plus, vous contribuerez à :
+* la définition et à l'utilisation d'une API Web de calcul des dotations et de transmission de données brutes sur les collectivités.
+* l'analyse des résultats obtenus avec l'appui de l'équipe.
 
-* Comprendre les problématiques métier et les besoins usagers en investiguant auprès des personnes en charge du budget et de sa planification dans les territoires (communes, métropoles, départements...).
-* Identifier avec les usagers les besoins concrets d'estimation budgétaire et d'évolution des dotations en particulier.
-* Formaliser les profils des usagers et leurs parcours.
-* Mesurer l’impact des solutions mises en place (via outils de suivi type matomo)
-
-Conception et ergonomie :
-
-* Concevoir l'expérience produit (UX) et les parcours usagers.
-* Participer à l’amélioration continue des fonctionnalités de l’outil (ateliers utilisateurs, recueil de besoins, contribution à la feuille de route).
-
-Interface utilisateur (UI) :
-
-* Produire et livrer des maquettes qui répondent aux besoins des usagers.
-* Travailler de concert avec l’équipe de développement pour la réalisation (adaptation aux contraintes techniques).
+Enfin, vous collaborerez avec une petite équipe pluridisciplinaire à la mise en production en continu du service.
 
 ## Compétences et expérience
 
 -   Vous avez à cœur de rendre un service de qualité qui offre des opportunités de transformation des services publics, y compris en outillant des réutilisateurs potentiellement peu à l'aise avec le numérique.
--   Vous avez des compétences en design d’expérience.
--   Vous avez des connaissances en ergonomie et accessibilité.
+-   Vous maîtrisez un framework web ([Svelte](https://svelte.dev), [React](https://fr.reactjs.org), [VueJS](https://vuejs.org), ...)
 -   Vous faites preuve d'autonomie et d'une capacité à délivrer des résultats concrets sur la base de métriques d’impact.
--   Vous avez des notions de développement web.
--   Vous êtes intéressé·e par la collaboration avec des personnes métier et des équipes techniques ainsi que par les pratiques de contribution aux environnements libres (ouverture des travaux par défaut, logiciels libres, …).
+-   Vous êtes intéressé·e par la co-construction de produit avec les usagers et en particulier des collectivités territoriales.
+-   Vous êtes intéressé·e par la collaboration des personnes métier et des équipes techniques ainsi que par les pratiques de contribution aux environnements libres (ouverture des travaux par défaut, logiciels libres, …).
+-   Des notions de [Python](https://www.python.org) sont un plus. 
 
 ## Modalités
 
--   Poste ouvert pour un·e indépendant·e (en portage) de 6 mois (3 mois minimum).
+-   Poste ouvert pour un·e indépendant·e (en portage) de 4 mois (2 mois minimum).
 -   Télétravail bienvenu, avec déplacements à prévoir [à Paris](https://www.openstreetmap.org/node/2353712460#map=19/48.85050/2.30844) pour participer aux sessions communes lorsque les conditions sanitaires le permettront !
--   Temps partiel accepté (40 % minimum).
+-   Temps partiel accepté (50 % minimum).
 -   Démarrage dès que possible.
 
 ## Candidater
 
-Racontez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV et portfolio, à [sandra.chakroun@beta.gouv.fr](mailto:sandra.chakroun@beta.gouv.fr?subject=Candidature).
+Racontez-nous pourquoi vous avez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV à [contact-dotations-locales@anct.gouv.fr](mailto:contact-dotations-locales@anct.gouv.fr?subject=Candidature%20front).
