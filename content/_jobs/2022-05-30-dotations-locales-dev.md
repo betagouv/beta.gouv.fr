@@ -31,19 +31,19 @@ Enfin, vous collaborerez avec une petite équipe pluridisciplinaire à la mise e
 
 ## Compétences et expérience
 
--   Vous avez à cœur de rendre un service de qualité qui offre des opportunités de transformation des services publics, y compris en outillant des réutilisateurs potentiellement peu à l'aise avec le numérique.
--   Vous maîtrisez un framework web ([Svelte](https://svelte.dev), [React](https://fr.reactjs.org), [VueJS](https://vuejs.org), ...)
--   Vous faites preuve d'autonomie et d'une capacité à délivrer des résultats concrets sur la base de métriques d’impact.
--   Vous êtes intéressé·e par la co-construction de produit avec les usagers et en particulier des collectivités territoriales.
--   Vous êtes intéressé·e par la collaboration des personnes métier et des équipes techniques ainsi que par les pratiques de contribution aux environnements libres (ouverture des travaux par défaut, logiciels libres, …).
--   Des notions de [Python](https://www.python.org) sont un plus. 
+- Vous avez à cœur de rendre un service de qualité qui offre des opportunités de transformation des services publics, y compris en outillant des réutilisateurs potentiellement peu à l'aise avec le numérique.
+- Vous maîtrisez un framework web ([Svelte](https://svelte.dev), [React](https://fr.reactjs.org), [VueJS](https://vuejs.org), ...)
+- Vous faites preuve d'autonomie et d'une capacité à délivrer des résultats concrets sur la base de métriques d’impact.
+- Vous êtes intéressé·e par la co-construction de produit avec les usagers et en particulier des collectivités territoriales.
+- Vous êtes intéressé·e par la collaboration des personnes métier et des équipes techniques ainsi que par les pratiques de contribution aux environnements libres (ouverture des travaux par défaut, logiciels libres, …).
+- Des notions de [Python](https://www.python.org) sont un plus. 
 
 ## Modalités
 
--   Poste ouvert pour un·e indépendant·e (en portage) de 4 mois (2 mois minimum).
--   Télétravail bienvenu, avec déplacements à prévoir [à Paris](https://www.openstreetmap.org/node/2353712460#map=19/48.85050/2.30844) pour participer aux sessions communes lorsque les conditions sanitaires le permettront !
--   Temps partiel accepté (50 % minimum).
--   Démarrage dès que possible.
+* Poste ouvert pour un·e indépendant·e (en portage) de 4 mois (2 mois minimum).
+* Télétravail bienvenu, avec déplacements à prévoir [à Paris](https://www.openstreetmap.org/node/2353712460#map=19/48.85050/2.30844) pour participer aux sessions communes lorsque les conditions sanitaires le permettront !
+* Temps partiel accepté (50 % minimum).
+* Démarrage dès que possible.
 
 ## Candidater
 
