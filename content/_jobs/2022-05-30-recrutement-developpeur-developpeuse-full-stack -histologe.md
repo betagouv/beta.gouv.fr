@@ -3,7 +3,7 @@ roles: Développeur, développeuse full-stack
 title: Histologe recrute un développeur ou une développeuse full-stack 
 contrat: indépendant
 startup: histologe
-open: false
+open: true
 ---
 
 ## <a href="https://histologe.beta.gouv.fr/">Histologe</a>, une solution pour détecter et accélérer la prise en charge du “mal logement”
