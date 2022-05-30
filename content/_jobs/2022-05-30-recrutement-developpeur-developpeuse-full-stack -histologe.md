@@ -13,7 +13,7 @@ L’outil se positionne comme un intermédiaire simple et efficace, capable de m
 
 Histologe est un vecteur de simplicité et d’efficacité dans le dispositif de lutte contre le logement indigne tant pour les habitants en situation de mal logement que pour les administrations et leurs agents. En les fédérant au sein d’un outil unique Histologe facilite, accélère et sécurise les échanges entre les différentes administrations.
 
-La Startup d'Etat Histologe recrute leur nouveau·elle développeur·se web full stack en freelance! Vous ferez partie de l'équipe produit, participerez à la conception, au développement et au déploiement de l'application.
+La Startup d'Etat Histologe recrute leur nouveau·elle développeur·se web full stack. Vous ferez partie de l'équipe produit, participerez à la conception, au développement et au déploiement de l'application.
 
 ## Missions
 * Participer au développement et à l'amélioration de la plateforme Histologe, notamment sur les aspects front-office sous la responsabilité du responsable technique
