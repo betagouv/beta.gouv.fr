@@ -43,11 +43,11 @@ Techniquement :
 
 ## Environnement de travail
 - Environnement et communauté beta.gouv : https://beta.gouv.fr/ (plus de détails ici également : https://doc.incubateur.net/communaute/).
-- Poste ouvert pour des indépendant·e·s sur une durée de 3 mois renouvelables.
+- Poste ouvert pour des indépendant·e·s sur une durée de 6 mois renouvelables.
 - Temps partiel accepté (4/5 ou 3/5 accepté).
-- Démarrage en août/septembre 2021.
+- Démarrage en juin 2022.
 - Télétravail avec quelques réunions présentielles à Paris.
-- TJM entre 450€ et 650€ suivant expérience
+- TJM entre 450€ et 650€ suivant expérience.
 
 
 > En travaillant pour une Startup d’Etat et de Territoire, vous devenez membre de la communauté beta.gouv. Celle-ci se construit par l’investissement volontaire de ses membres ce qui veut dire que chaque membre peut proposer de nouvelles idées, les mettre en oeuvre ou rejoindre un travail en cours.
@@ -57,7 +57,7 @@ En tant que membre, vous pouvez et êtes invités à vous engager dans la commun
 
 ## Comment envoyer votre candidature ?
 
-Envoyez-nous votre candidature par courriel à l’adresse suivante : emmanuel.flahaut@developpement-durable.gouv.fr.
+Envoyez-nous votre candidature par courriel à l’adresse suivante : recrutement@trackdechets.beta.gouv.fr.
 Pas besoin de lettre de motivation formelle, quelques lignes dans le corps du message suffisent pour exprimer votre motivation. 
 Ajoutez votre CV ou le lien vers votre compte Linkedin ou Github/Gitlab, et tout ce que vous souhaitez nous communiquer qui nous permettra de mieux vous connaître.
 Si vous avez des questions avant de postuler, n’hésitez pas à nous écrire.
