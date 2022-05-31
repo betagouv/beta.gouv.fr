@@ -13,16 +13,17 @@ Notre objectif : rendre plus attractif l'État et ses opportunités pour y attir
 ## L’équipe
 
 Nous sommes aujourd’hui une équipe de 4 personnes : 
-- 1 développeur (Ivan) qui change de mission au mois de Juin et se tiendra prêt à faire une passation en Mai et début Juin à la nouvelle recrue,
-- 1 coach produit (Radia) présente depuis janvier sur le produit,
-- 1 ux designer (Amandine) qui s'en va en congés maternité en juin
+- 1 développeur (Ivan) qui change de mission au mois de Juin et se tiendra prêt à faire une passation en Mai et début Juin à la nouvelle recrue ;
+- 1 coach produit (Radia) présente depuis janvier sur le produit ;
+- 1 ux designer (Amandine) qui s'en va en congés maternité en juin ;
 - 1 intrapreneure (Jihane) spécialiste du recrutement et de la marque employeur dans le numérique, qui te parle en ce moment même :)
 
 L’équipe est financée par la Direction Interministérielle du Numérique qui nous laisse une autonomie totale sur la communication, l’agenda, les outils utilisés, la gestion du budget et les recrutements.
 
 En particulier, nous n’exécutons pas de cahier des charges, ne dépendons pas de circuits de validation et tentons de limiter les réunions internes au strict minimum pour laisser le temps à chacun de s’organiser comme il s’entend pour être le plus efficace possible.
 
-Nous travaillons au sein de l'incubateur situé au 20 Avenue de Ségur dans les locaux de la DINUM et au coeur de beta.gouv.fr ce qui nous permet d'avoir de nombreuses interactions avec les autres équipes des différents autres incubateurs qui viennent dans ces locaux, ainsi qu'Etalab (qui sont notamment en charge de l’ouverture des données publiques et qui gèrent la plateforme data.gouv.fr) ou encore des autres membres de la DINUM.
+Nous travaillons au sein de l'incubateur situé au 20 Avenue de Ségur dans les locaux de la DINUM et au coeur de beta.gouv.fr.
+Ce qui nous permet d'avoir de nombreuses interactions avec les autres équipes des différents autres incubateurs qui viennent dans ces locaux, ainsi qu'Etalab (qui sont notamment en charge de l’ouverture des données publiques et qui gèrent la plateforme data.gouv.fr) ou encore des autres membres de la DINUM.
 
 Notre feuille de route est guidée par les besoins de nos utilisateurs et par notre objectif partagé de rendre l'État attractif et d'aider les administrations à recruter de la manière la plus rapide et la plus utile possible sur l’ensemble du territoire français.
 
@@ -31,10 +32,10 @@ Les membres de l’équipe sont à Paris mais il est tout à fait possible de t�
 Nous intéragissons régulièrement avec d’autres équipes intervenant sur d’autres Startups d’État pour partager nos expériences respectives et participons fréquemment aux ateliers transverses des incubateurs.
 
 L’équipe, avec des centres d’intérêt très différents et complémentaires, partage des valeurs communes :
-- l’obsession de la satisfaction de nos utilisateurs, 
-- la priorité donnée aux tâches qui ont une utilité réelle, 
-- la certitude qu’il est possible de mettre la technologie au service de l’intérêt général et de la rendre accessible et compréhensible à tous, 
-- l’intuition que la mise en oeuvre d’une politique publique, même numérique, ne peut se faire sans une forte dose de relations humaines, 
+- l’obsession de la satisfaction de nos utilisateurs ;
+- la priorité donnée aux tâches qui ont une utilité réelle ;
+- la certitude qu’il est possible de mettre la technologie au service de l’intérêt général et de la rendre accessible et compréhensible à tous ;
+- l’intuition que la mise en oeuvre d’une politique publique, même numérique, ne peut se faire sans une forte dose de relations humaines ;
 - et enfin la volonté de toujours nous améliorer, d’améliorer le service que nous rendons à nos utilisateurs et de partager au maximum ce que nous apprenons avec les communautés qui nous entourent.
 
 Par notre travail, nous cherchons à montrer que des équipes autonomes, responsables et à qui l’on fait confiance, peuvent construire des services numériques qui fonctionnent, simples, faciles à utiliser, et qui améliorent le service public.
@@ -81,7 +82,7 @@ Nous ne sommes pas fermés et pouvons évoluer sur nos usages en fonction des be
 
 # À propos de toi 
 
-## Ton profil soft skills
+## Ton profil (soft skills)
 Les personnes autonomes se plaisent bien dans la communauté beta.gouv.fr.
 
 Une personne autonome est capable de se gérer dans le travail : elle définit ses propres objectifs et trace la voie qui permet de les atteindre.
@@ -92,10 +93,10 @@ Nous serions très contents d’entendre parler de toi si :
 - Tu es autonome et tu n'as pas de problème à gérer et prioriser des tâches très nombreuses et très différentes ;
 - Tu sais traduire en mots simples des notions complexes et techniques ;
 - Tu souhaites travailler au service du bien commun et espéres participer à la construction d’une solution qui cherche à tout prix à avoir le maximum d’impact et une utilité avérée ;
-- Tu acceptes de te remettre parfois en question – ou de remettre en question les procédures adoptées par l’équipe – lorsque tu penses pouvoir faire mieux.
-- Tu sais travailler en équipe et tu veux co-construire l’outil en plaçant la culture produit au coeur du travail
-- Tu portes un intérêt aux projets open source
-- Tu as une appétence pour le travail collaboratif au sein d’une équipe pluridisciplinaire
+- Tu acceptes de te remettre parfois en question – ou de remettre en question les procédures adoptées par l’équipe – lorsque tu penses pouvoir faire mieux ;
+- Tu sais travailler en équipe et tu veux co-construire l’outil en plaçant la culture produit au coeur du travail ;
+- Tu portes un intérêt aux projets open source ;
+- Tu as une appétence pour le travail collaboratif au sein d’une équipe pluridisciplinaire.
 
 Ne te censure pas si :
 - Tu ne coches pas toutes les cases ci-dessus, mais tu as envie d’apprendre et de progresser ;
@@ -163,7 +164,7 @@ Nous formons celles et ceux qui rejoignent la communauté beta.gouv.fr aux méth
 
 Un cours en ligne qui reprend les principaux enseignements de ces sessions est à votre disposition ici : https://beta.gouv.fr/approche/formation/mooc
 
-Au sein de l’équipe Métiers Du Numérique, nous veillerons à te former sur nos outils si vous ne les connaissez pas et nous vous donnerons la liste des acronymes à connaître pour bien naviguer au sein de l’administration.
+Au sein de l’équipe Métiers Du Numérique, nous veillerons à te former sur nos outils si tu ne les connais pas et nous te donnerons la liste des acronymes à connaître pour bien naviguer au sein de l’administration.
 
 A ton arrivée, Radia, Ivan et Jihane pourront t'accompagner au quotidien dans ta prise de fonction.
 
