@@ -58,6 +58,8 @@ copy_to_dest:
     target: assets/remixicon/fonts/
   - source: node_modules/@gouvfr/dsfr/dist/.
     target: assets/gouvfr/
+  - source: node_modules/accessible-image-lazy-load/dist/.
+    target: assets/accessible-image-lazy-load/js
 
 excerpt_separator: <!--more-->
 
