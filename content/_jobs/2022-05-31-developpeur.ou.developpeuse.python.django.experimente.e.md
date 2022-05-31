@@ -4,8 +4,6 @@ open: true
 date: 2022-05-31T13:21:47.124Z
 startup: dora
 ---
-<!--StartFragment-->
-
 ## Dora, le service public numérique de recensement et mise à jour de l’offre d’insertion recherche un·e développeur·euse Python Django expérimenté·e (backend, frontend ou fullstack).
 
 Tu as envie de travailler sur un projet à impact ? Rejoins une petite équipe motivée à en découdre avec les problématiques de l'insertion !
@@ -53,7 +51,7 @@ Quelques exemples de nos prochaines missions :
 * Travailler sur la qualité des données récoltées
 * Mettre en place Storybook pour la maintenance du design system
 
-Le développement se fait de façon ouverte, sur GitHub[](https://github.com/betagouv/dora)<https://github.com/betagouv/dora>
+Le développement se fait de façon ouverte, sur GitHub : [](https://github.com/betagouv/dora)<https://github.com/betagouv/dora>
 
 Avant tout, nous recherchons une personne :
 
@@ -80,7 +78,7 @@ Tu rejoins une équipe composée de 10 personnes :
 L’équipe est dispersée à travers la France et travaille principalement à distance, mais on essaye de régulièrement se retrouver en présentiel et d’aller à la rencontre des utilisateurs.
 
 * Contrat : indépendant (portage possible)
-* TJM envisagé : 650 € (voir \[grille de rémunération Beta Gouv]([Observatoire des revenus de la communauté beta.gouv.fr - Le guide de la communauté beta.gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/comment-recruter/observatoire-revenus#la-grille)))
+* TJM envisagé : 650 € (voir \[grille de rémunération Beta Gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/comment-recruter/observatoire-revenus#la-grille))
 * Charge : quatre jours par semaine (l’équipe est OFF le vendredi)
 * Emplacement : télétravail complet (full remote) + déplacements réguliers (approx. 2 jours / mois en France)
 * Date de début souhaitée : début juillet 2022
@@ -90,5 +88,3 @@ L’équipe est dispersée à travers la France et travaille principalement à d
 Pour postuler, envoie nous un petit message et ton CV à \[dora@beta.gouv.fr]([dora@beta.gouv.fr](mailto:dora@beta.gouv.fr)?cc=recrutement@beta.gouv.fr&subject=candidature%20dev%20senior), avec [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr) en copie, en nous expliquant ce qui te motive à travailler sur Dora ! Tu peux ajouter au choix : un lien vers ton profil github, site perso, LinkedIn, Malt ou équivalent…
 
 On te recontactera rapidement pour convenir d’un rendez-vous avec l’équipe !
-
-<!--EndFragment-->
