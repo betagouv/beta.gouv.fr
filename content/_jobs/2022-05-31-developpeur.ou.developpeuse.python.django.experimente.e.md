@@ -1,6 +1,6 @@
 ---
 roles: DÉVELOPPEUR ou DÉVELOPPEUSE WEB SENIOR·E
-open: true
+open: false
 date: 2022-05-31T13:21:47.124Z
 startup: dora
 ---
