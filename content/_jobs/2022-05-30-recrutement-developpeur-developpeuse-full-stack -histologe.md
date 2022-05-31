@@ -19,7 +19,9 @@ La Startup d'Etat Histologe recrute leur nouveau·elle développeur·se web full
 * Participer au développement et à l'amélioration de la plateforme Histologe, notamment sur les aspects front-office sous la responsabilité du responsable technique
 * En étroite collaboration avec l'équipe produit, travailler à la résolution des problèmes rencontrés sur la plateforme Histologe
 * En étroite collaboration avec le responsable produit, travailler à la résolution des problèmes rencontrés sur la plateforme Histologe
-** Participer à la construction d'un produit efficace, gratuit, dont toutes les administrations rêvent. Si comme nous tu souhaites faire changer les choses et construire un nouveau service public, alors rejoins-nous !
+* Participer à la construction d'un produit efficace, gratuit, dont toutes les administrations rêvent.
+
+Si comme nous tu souhaites faire changer les choses et construire un nouveau service public, alors rejoins-nous !
 
 ## Compétences
 * Bonne expérience en JavaScript (Actuellement Stimulus/Turbo)
