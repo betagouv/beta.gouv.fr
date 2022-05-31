@@ -5,7 +5,7 @@ role: Chargé de déploiement
 github: Blageir
 missions:
   - start: 2020-09-07
-    end: 2022-06-07
+    end: 2022-11-07
     status: independent
 startups:
   - aidantsconnect
