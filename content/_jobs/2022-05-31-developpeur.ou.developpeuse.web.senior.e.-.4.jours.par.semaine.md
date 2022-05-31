@@ -1,5 +1,5 @@
 ---
-roles: DÉVELOPPEUR ou DÉVELOPPEUSE WEB SÉNIOR·E - 4 jours par semaine
+roles: DÉVELOPPEUR ou DÉVELOPPEUSE WEB SÉNIOR·E - 4 jours par semaine 🛸
 open: true
 date: 2022-05-31T14:19:00.014Z
 startup: dora
