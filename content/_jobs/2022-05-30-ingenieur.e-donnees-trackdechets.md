@@ -1,8 +1,9 @@
 ---
-roles: "Un.e ingénieur.e données"
-startup: trackdechets
+roles: Un.e ingénieur.e données
 open: true
+startup: trackdechets
 title: Trackdéchets recrute un.e ingénieur.e données senior
+date: 2022-05-31T08:18:13.786Z
 ---
 
 ## À propos
@@ -46,6 +47,7 @@ Techniquement :
 - Temps partiel accepté (4/5 ou 3/5 accepté).
 - Démarrage en août/septembre 2021.
 - Télétravail avec quelques réunions présentielles à Paris.
+- TJM entre 450€ et 650€ suivant expérience
 
 
 > En travaillant pour une Startup d’Etat et de Territoire, vous devenez membre de la communauté beta.gouv. Celle-ci se construit par l’investissement volontaire de ses membres ce qui veut dire que chaque membre peut proposer de nouvelles idées, les mettre en oeuvre ou rejoindre un travail en cours.
