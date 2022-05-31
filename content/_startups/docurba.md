@@ -10,6 +10,7 @@ contact: hermance.gauthier@developpement-durable.gouv.fr
 accessibility_status: non conforme
 stats: true
 stats_url: https://stats.data.gouv.fr
+dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/docurba-incubateur-net/
 phases:
   - name: investigation
     start: 2020-03-12
