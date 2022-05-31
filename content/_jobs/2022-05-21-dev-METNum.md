@@ -13,16 +13,17 @@ Notre objectif : rendre plus attractif l'État et ses opportunités pour y attir
 ## L’équipe
 
 Nous sommes aujourd’hui une équipe de 4 personnes : 
-- 1 développeur (Ivan) qui change de mission au mois de Juin et se tiendra prêt à faire une passation en Mai et début Juin à la nouvelle recrue,
-- 1 coach produit (Radia) présente depuis janvier sur le produit,
-- 1 ux designer (Amandine) qui s'en va en congés maternité en juin
+- 1 développeur (Ivan) qui change de mission au mois de Juin et se tiendra prêt à faire une passation en Mai et début Juin à la nouvelle recrue ;
+- 1 coach produit (Radia) présente depuis janvier sur le produit ;
+- 1 ux designer (Amandine) qui s'en va en congés maternité en juin ;
 - 1 intrapreneure (Jihane) spécialiste du recrutement et de la marque employeur dans le numérique, qui te parle en ce moment même :)
 
 L’équipe est financée par la Direction Interministérielle du Numérique qui nous laisse une autonomie totale sur la communication, l’agenda, les outils utilisés, la gestion du budget et les recrutements.
 
 En particulier, nous n’exécutons pas de cahier des charges, ne dépendons pas de circuits de validation et tentons de limiter les réunions internes au strict minimum pour laisser le temps à chacun de s’organiser comme il s’entend pour être le plus efficace possible.
 
-Nous travaillons au sein de l'incubateur situé au 20 Avenue de Ségur dans les locaux de la DINUM et au coeur de beta.gouv.fr ce qui nous permet d'avoir de nombreuses interactions avec les autres équipes des différents autres incubateurs qui viennent dans ces locaux, ainsi qu'Etalab (qui sont notamment en charge de l’ouverture des données publiques et qui gèrent la plateforme data.gouv.fr) ou encore des autres membres de la DINUM.
+Nous travaillons au sein de l'incubateur situé au 20 Avenue de Ségur dans les locaux de la DINUM et au coeur de beta.gouv.fr.
+Ce qui nous permet d'avoir de nombreuses interactions avec les autres équipes des différents autres incubateurs qui viennent dans ces locaux, ainsi qu'Etalab (qui sont notamment en charge de l’ouverture des données publiques et qui gèrent la plateforme data.gouv.fr) ou encore des autres membres de la DINUM.
 
 Notre feuille de route est guidée par les besoins de nos utilisateurs et par notre objectif partagé de rendre l'État attractif et d'aider les administrations à recruter de la manière la plus rapide et la plus utile possible sur l’ensemble du territoire français.
 
@@ -31,10 +32,10 @@ Les membres de l’équipe sont à Paris mais il est tout à fait possible de t�
 Nous intéragissons régulièrement avec d’autres équipes intervenant sur d’autres Startups d’État pour partager nos expériences respectives et participons fréquemment aux ateliers transverses des incubateurs.
 
 L’équipe, avec des centres d’intérêt très différents et complémentaires, partage des valeurs communes :
-- l’obsession de la satisfaction de nos utilisateurs, 
-- la priorité donnée aux tâches qui ont une utilité réelle, 
-- la certitude qu’il est possible de mettre la technologie au service de l’intérêt général et de la rendre accessible et compréhensible à tous, 
-- l’intuition que la mise en oeuvre d’une politique publique, même numérique, ne peut se faire sans une forte dose de relations humaines, 
+- l’obsession de la satisfaction de nos utilisateurs ;
+- la priorité donnée aux tâches qui ont une utilité réelle ;
+- la certitude qu’il est possible de mettre la technologie au service de l’intérêt général et de la rendre accessible et compréhensible à tous ;
+- l’intuition que la mise en oeuvre d’une politique publique, même numérique, ne peut se faire sans une forte dose de relations humaines ;
 - et enfin la volonté de toujours nous améliorer, d’améliorer le service que nous rendons à nos utilisateurs et de partager au maximum ce que nous apprenons avec les communautés qui nous entourent.
 
 Par notre travail, nous cherchons à montrer que des équipes autonomes, responsables et à qui l’on fait confiance, peuvent construire des services numériques qui fonctionnent, simples, faciles à utiliser, et qui améliorent le service public.
@@ -55,7 +56,7 @@ Le numérique est incontournable et prend une place croissante dans nos vies et 
 Pourtant, si les besoins sont très importants, les ressources humaines sont limitées et l’on assiste aujourd’hui à une véritable guerre des talents dans le numérique.
 
 Dans ce contexte, l’État reste un des gros pourvoyeurs de postes dans le numérique : chaque mois, c’est plus de 200 offres à pourvoir.
-Pourtant, nombre de ces postes restent vacants : on observe un manque d’attractivité de l’état comme recruteur tech mais aussi et surtout un manque d’accessibilité/visibilité de ses offres.
+Pourtant, nombre de ces postes restent vacants : on observe un manque d’attractivité de l’état comme recruteur tech mais aussi et surtout un manque d’accessibilité / visibilité de ses offres.
 
 L’enjeu d’attractivité est collectif, notre objectif est d’y répondre de la façon la plus adéquate et pertinente possible.
 
@@ -155,7 +156,7 @@ Pour que tu puisses contribuer à nos rituels et discuter avec les autres équip
 Sauf pour ta venue à Paris de manière très ponctuelle si tu habites loin, il n'y a pas de déplacements prévus sur cette mission. 
 
 ## Date de début
-Le plus vite possible avant le 6 juin, date de départ de Ivan le développeur.
+Le plus vite possible avant le 17 juin, date de départ de Ivan le développeur.
 Il restera tout de même 1 jour par semaine après cette date pour continuer la passation. 
 
 ## Formation
@@ -163,7 +164,7 @@ Nous formons celles et ceux qui rejoignent la communauté beta.gouv.fr aux méth
 
 Un cours en ligne qui reprend les principaux enseignements de ces sessions est à votre disposition ici : https://beta.gouv.fr/approche/formation/mooc
 
-Au sein de l’équipe Métiers Du Numérique, nous veillerons à te former sur nos outils si vous ne les connaissez pas et nous vous donnerons la liste des acronymes à connaître pour bien naviguer au sein de l’administration.
+Au sein de l’équipe Métiers Du Numérique, nous veillerons à te former sur nos outils si tu ne les connais pas et nous te donnerons la liste des acronymes à connaître pour bien naviguer au sein de l’administration.
 
 A ton arrivée, Radia, Ivan et Jihane pourront t'accompagner au quotidien dans ta prise de fonction.
 
