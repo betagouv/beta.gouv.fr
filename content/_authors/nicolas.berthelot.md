@@ -1,7 +1,7 @@
 ---
 fullname: Nicolas Berthelot
 role: Responsable de la Fabrique des géocommuns
-domaine: Animateur
+domaine: Animation
 avatar: https://pbs.twimg.com/profile_images/1484532961542299660/ICP1Xjyg_400x400.jpg
 github: NicolasBerthelot
 missions:
