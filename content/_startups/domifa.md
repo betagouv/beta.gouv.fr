@@ -6,9 +6,9 @@ sponsors:
 incubator: sgmas
 phases:
   - name: investigation
-    start: 2019-01-15
+    start: 2018-01-15
   - name: construction
-    start: 2019-01-15
+    start: 2018-06-01
   - name: acceleration
     start: 2019-01-15
 link: https://domifa.fabrique.social.gouv.fr
