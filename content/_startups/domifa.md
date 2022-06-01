@@ -10,7 +10,7 @@ phases:
   - name: construction
     start: 2018-06-01
   - name: acceleration
-    start: 2019-01-15
+    start: 2020-01-01
 link: https://domifa.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/domifa
 stats: true
