@@ -2,7 +2,7 @@
 title: logement de crise # une majuscule et pas d'acronymes
 mission: Faciliter le travail d’attribution du “bon” logement aux déplacés d’Ukraine
 sponsors: 
- - /organisations/dinum # Liste des administrations sponsors, les valeurs possibles sont définies dans /content/_organisations/
+ - /organisations/dihal
 incubator: dinum 
 phases:
   - name: alumni
@@ -54,13 +54,3 @@ La Brigade a proposé de repartir de l’initiative du SGAR44 pour fiabiliser le
 
 Les travaux se sont interrompus à l’issue de l’investigation : la DIHAL, sponsor administratif et politique, a indiqué qu’à ce stade, la temporalité du projet n’était plus pertinente ; le pic de la crise est passé et le temps nécessaire pour développer un premier produit minimum viable ne permettrait pas d’avoir un impact pertinent au regard de cette évolution.
 
-
-## Rappels
-
-- [ ] Supprimer les commentaires dans le front-matter : supprimer les croisillons et le texte qui les suit dans la partie entre tirets
-- [ ] Modifier le nom du fichier `nom-startup.md` dans le champ ci-dessus (attention à bien inclure l'extension `.md`)
-- [ ] Assurez-vous que le fichier est bien dans le dossier `/content/_startups/`
-- [ ] Screenshot : ajouter une image en 1280x720px dans /img/startups/$nom-startup.png (ou .jpg)
-- [ ] Créer une nouvelle branche pour l'ajout de ce fichier, et la nommer du même nom que le fichier `nom-startup`.
-- [ ] Ouvrir une pull request pour valider l'intégration.
-- [ ] Effacer ce texte une fois que vous l'avez lu 😉
