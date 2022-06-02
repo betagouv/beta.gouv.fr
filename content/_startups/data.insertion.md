@@ -4,7 +4,7 @@ mission: Améliorer les parcours d’insertion en facilitant la circulation de
   données entre les acteurs
 sponsors:
  - /organisations/dgefp
-incubator: dinum
+incubator: gip-inclusion
 link: https://www.rdv-insertion.fr/
 repository: https://github.com/betagouv/rdv-insertion
 contact: data.insertion@beta.gouv.fr
