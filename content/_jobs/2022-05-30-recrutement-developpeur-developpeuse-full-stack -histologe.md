@@ -1,6 +1,6 @@
 ---
 roles: Développeur, développeuse full-stack
-title: Histologe recrute un développeur ou une développeuse full-stack 
+title: Histologe recrute un développeur ou une développeuse full-stack senior
 contrat: indépendant
 startup: histologe
 open: true
@@ -45,7 +45,7 @@ Idéalement :
 * Début de la mission : dès que possible
 * Télétravail complet / horaires classiques de travail / possibilité de déplacements sur Paris très ponctuels
 * Fin de mission : 30/12/2022 
-* Rémunération : TJM 450€
+* Rémunération : TJM selon profil (pour indication https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/comment-recruter/observatoire-revenus#la-grille )
 
 ## Comment postuler ?
 Explique nous par mail pourquoi tu souhaites nous rejoindre et envoie-nous ton CV, un lien vers ton profil LinkedIn ou équivalent à contact@histologe.info.
