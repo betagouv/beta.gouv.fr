@@ -5,7 +5,7 @@ mission: Augmenter le nombre d'immersions professionnelles pour les personnes
 sponsors:
   - /organisations/dgefp
   - /organisations/pole-emploi
-incubator: sgmas
+incubator: gip-inclusion
 link: https://immersion-facile.beta.gouv.fr/
 repository: https://github.com/betagouv/l-immersion-facile
 contact: contact@immersion-facile.beta.gouv.fr

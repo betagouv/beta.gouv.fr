@@ -4,7 +4,7 @@ mission: "Réduire la charge administrative des acteurs de l'inclusion et
   faciliter le pilotage des politiques publiques "
 sponsors:
   - /organisations/dgefp
-incubator: dinum
+incubator: gip-inclusion
 stats: true
 link: https://pilotage.inclusion.beta.gouv.fr/
 repository: http://github.com/betagouv/itou
