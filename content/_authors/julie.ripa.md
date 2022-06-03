@@ -12,6 +12,8 @@ missions:
     end: 2023-05-16
     status: admin
     employer: ANCT
+startups:
+  - données-et-territoires
 badges:
   - segur
 ---

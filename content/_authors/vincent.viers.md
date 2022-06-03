@@ -14,6 +14,8 @@ missions:
     end: 2022-09-01
     status: independent
     employer: benext
+startups:
+    - données-et-territoires
 previously:
     - signaux-faibles
     - disinfo
