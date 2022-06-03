@@ -12,6 +12,7 @@ missions:
     employer: octo
 startups:
   - egalite.professionnelle
+  - données-et-territoires
 previously:
   - ban
   - api-drones

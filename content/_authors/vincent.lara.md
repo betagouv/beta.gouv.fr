@@ -11,7 +11,8 @@ missions:
     employer: Codeurs en Liberté
 startups:
     - recosante
-previously: 
+    - données-et-territoires
+previously:
     - le-taxi
     - transport
 ---
