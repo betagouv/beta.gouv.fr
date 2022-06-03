@@ -1,6 +1,6 @@
 ---
 roles: Un.e ingénieur.e données
-open: true
+open: false
 startup: trackdechets
 title: Trackdéchets recrute un.e ingénieur.e données senior
 date: 2022-05-31T08:18:13.786Z
