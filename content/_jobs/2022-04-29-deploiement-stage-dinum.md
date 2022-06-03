@@ -59,5 +59,5 @@ Parallèlement aux activités relatives au programme d'accélération sur lesque
 
 ###  Comment postuler ?
 
-Candidatez avec un CV (ou un profil LinkedIn complet) et quelques mots de motivation à Ishan Bhojwani <ishan@beta.gouv.fr>
+Candidatez sur https://www.pass.fonction-publique.gouv.fr/offre/stagiaire-charge-e-de-deploiement-pour-le-programme-gamma-dacceleration-des-startups-detat
 
