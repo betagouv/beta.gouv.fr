@@ -7,6 +7,7 @@ incubator: dinum
 phases:
   - name: alumni
 stats: false 
+contact: brigade@beta.gouv.fr
 ---
 
 ## Le contexte
