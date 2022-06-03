@@ -8,7 +8,8 @@ En 2013, l’Etat par l’intermédiaire de la DINUM (Direction Interministérie
 
 # L’environnement du poste et l’équipe
 La startup d'État DossierFacile est rattachée à la Direction générale de l’aménagement, du logement et de la nature (DGALN) sous tutelle du Ministère de la transition écologique.
-Nous sommes une équipe d’une dizaine de personnes constituée d’un chef de produit, de 3 devs, 1 data scientist, 1 UX, de bizdevs et d’opérateurs. 
+Nous sommes une équipe d’une dizaine de personnes constituée d’un chef de produit, de 3 devs, 1 data scientist, 1 UX, de bizdevs et d’opérateurs. Découvrir <a href="https://beta.gouv.fr/startups/locatio.html#equipe">notre équipe</a>.
+
 L’équipe est étroitement liée aux autres startups d’Etat du pôle ministériel via la Fabrique Numérique, la pépinière des ministères de la Transition écologique et de la Cohésion des territoires, ainsi qu’à l’environnement élargi de beta.gouv.
 
 # Le produit
@@ -20,7 +21,7 @@ Le produit est disponible <a href="https://www.dossierfacile.fr/">ici</a>.
 # Le poste proposé
 _Poste ouvert le 30/05/2022_
 
-DossierFacile travaille depuis 4 ans avec Harlow, notre développeur full-stack. Matthieu, dev front nous a rejoint fin 2020 et Fabien, un autre dev full-stack nous a rejoint début 2022. Notre dev historique Harlow ayant décidé d'aller vers d'autres horizons après 4 ans de bons et loyaux services, nous cherchons une personne pour le remplacer !
+DossierFacile travaille depuis 4 ans avec un développeur full-stack. Un dev front nous a rejoint fin 2020 et un autre dev full-stack nous a rejoint début 2022. Notre dev historique ayant décidé d'aller vers d'autres horizons après 4 ans de bons et loyaux services, nous cherchons une personne pour le remplacer !
 
 ## Missions :
 - Prise en main du développement back-end et front-end de la plateforme, en lien avec les développeurs déjà présents sur le projet
@@ -52,4 +53,5 @@ Date de début — Dès que possible
 
 # Processus de recrutement
 1) Envoyez votre candidature (en précisant votre taux journalier moyen) : arthur@dossierfacile.fr avec en copie tristan.robert@beta.gouv.fr et harlow@dossierfacile.fr
+
 2) Vous effectuerez un premier entretien (30') de préqualification avec l'intrapreneur puis quelques jours après un second entretien (30') plus technique avec une personne de l'équipe technique et une autre de la Fabrique Numérique.
