@@ -211,13 +211,15 @@ hr {
   background: linear-gradient(180deg, #ffffff00 20%, #f9f8f6 20%);
 }
 
+.avatar {
+  background: var(--background-default-grey);
+}
+
 .fr-card__img img.avatar-rounded {
   border-radius: 50%;
   width: auto;
   margin: auto;
-}
-.section-blue .fr-card__img img.avatar-rounded {
-  border: 8px solid #fff;
+  max-width: 50%;
 }
 
 /* Ajouter un modificateur de tags pour les rendre inactifs */
@@ -633,4 +635,8 @@ h2.phase-title em {
 
 .text-center {
   text-align: center;
+}
+
+.startups {
+  margin: 1rem auto;
 }
