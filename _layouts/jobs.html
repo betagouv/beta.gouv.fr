@@ -10,8 +10,30 @@ layout: default
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-9 fr-col-sm-12 fr-col-lg-9">
+        <ul class="fr-tags-group">
+          <a href="/recrutement" class="fr-tag {% if page.domaine contains 'all' %} fr-tag--active {% endif %}"
+          >Tout</a>
+          <a class="fr-tag {% if page.domaine contains 'Animation' %} fr-tag--active {% endif %}"
+          href="/recrutement/animation">Animation</a>
+          <a class="fr-tag {% if page.domaine contains 'Autre' %} fr-tag--active {% endif %}" href="/recrutement/autre">Autre</a>
+          <a class="fr-tag {% if page.domaine contains 'Coaching' %} fr-tag--active {% endif %}" href="/recrutement/coaching">Coaching</a>
+          <a class="fr-tag {% if page.domaine contains 'Développement' %} fr-tag--active {% endif %}" href="/recrutement/developpement">Développement</a>
+          <a class="fr-tag {% if page.domaine contains 'Déploiement' %} fr-tag--active {% endif %}" href="/recrutement/deploiement">Déploiement</a>
+          <a class="fr-tag {% if page.domaine contains 'Design' %} fr-tag--active {% endif %}" href="/recrutement/design">Design</a>
+          <a class="fr-tag {% if page.domaine contains 'Intraprenariat' %} fr-tag--active {% endif %}" href="/recrutement/Intraprenariat">Intraprenariat</a>
+          <a class="fr-tag {% if page.domaine contains 'Produit' %} fr-tag--active {% endif %}" href="/recrutement/produit">Produit</a>
+        </ul>
         <div class="fr-grid-row fr-grid-row--gutters">
-          {% assign jobs = site.jobs | where: "open", 'true' |  where_exp:"domaine", "domaine contains page.domaine" |  sort: "date" | reverse %}
+          {% if page.domaine == "all" %}
+            {% assign jobs = site.jobs | where: "open", 'true' |  sort: "date" | reverse %}
+          {% endif %}
+          {% if page.domaine != "all" %}
+            {% assign jobs = site.jobs | where: "open", 'true' |  where_exp:"item", "page.domaine contains item.domaine" |  sort: "date" | reverse %}
+          {% endif %}
+          {% if jobs.size == 0 %}
+            <center><h3 class="fr-card__title" style="margin-top: 20px">Il n'y a pas d'offre pour ce domaine actuellement</h3></center>
+          {% endif %}
+
           {% for job in jobs %}
           <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
             {% assign startup_id = job.startup %}

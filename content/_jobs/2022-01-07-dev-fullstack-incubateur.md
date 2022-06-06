@@ -8,6 +8,7 @@ role: Développeur.se fullstack
 equipe: Incubateur des Territoires
 poste_pourvu: false
 airtable_formulaire: true
+domaine: Développement
 ---
 L'Incubateur des Territoires recherche un ou une développeur.se. 
 

@@ -3,6 +3,7 @@ roles: DÉVELOPPEUR ou DÉVELOPPEUSE WEB SENIOR·E
 open: false
 date: 2022-05-31T13:21:47.124Z
 startup: dora
+domaine: Développement
 ---
 ### Dora, le service public numérique de recensement et mise à jour de l’offre d’insertion recherche un·e développeur·euse Python Django expérimenté·e (backend, frontend ou fullstack).
 

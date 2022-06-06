@@ -4,6 +4,7 @@ techno: NodeJS, Python, Ruby
 junior: false
 open: true
 title: Développeur/Développeuse - la Brigade - CDD 20 mois H/F
+domaine: Développement
 ---
 
 

@@ -2,6 +2,7 @@
 roles: Développeur·se Full Stack
 open: true
 date: 2022-01-17T13:26:05.348Z
+domaine: Développement
 ---
 # **camino.beta.gouv.fr *recrute***
 

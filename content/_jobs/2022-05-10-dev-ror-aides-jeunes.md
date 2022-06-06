@@ -4,6 +4,7 @@ title: "Offre : Dev Ruby on Rails expérimenté·e en résidence"
 open: true
 techno: Ruby on Rails
 startup: aides.jeunes
+domaine: Développement
 ---
 
 L'équipe [Aides-Jeunes](https://beta.gouv.fr/startups/aides.jeunes.html) recherche une ou un dev Ruby on Rails pour contribuer à l'enrichissement du [simulateur d'aides pour les jeunes](https://mes-aides.1jeune1solution.beta.gouv.fr/) et son amélioration continue en facilitant son intégration à d'autres produits de beta.gouv.fr !

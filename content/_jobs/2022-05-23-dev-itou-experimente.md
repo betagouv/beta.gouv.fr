@@ -7,6 +7,7 @@ open: true
 title: Itou recrute un développeur ou une développeuse Django expérimenté(e)
 contrat: indépendant
 contact: tech@inclusion.beta.gouv.fr
+domaine: Développement
 ---
 
 # Itou recrute un développeur une développeuse Django expérimenté(e)
