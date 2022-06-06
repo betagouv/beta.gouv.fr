@@ -432,7 +432,7 @@ collections:
         time_format: false
         hint: "Uniquement si vous publiez la fiche plus tard"
       - label: Date de dépublication
-        name: date
+        name: depublication_date
         widget: datetime
         time_format: false
         hint: "L'offre sera automatiquement dépubliée à cette date"
