@@ -27,7 +27,7 @@ startups:
     - comptes_datapass
     - metiers-numeriques
 previously:
-    - _openfisca_
+    - openfisca
     - aides.jeunes
     - pass-emploi
 ---
