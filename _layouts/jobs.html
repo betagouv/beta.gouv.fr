@@ -25,10 +25,10 @@ layout: default
         </ul>
         <div class="fr-grid-row fr-grid-row--gutters">
           {% if page.domaine == "all" %}
-            {% assign jobs = site.jobs | where: "open", 'true' |  sort: "date" | reverse %}
+            {% assign jobs = site.jobs | where: "open", 'true' | where_exp: "item", "item.depublication_date == null or item.depublication_date > site.time" |  sort: "date" | reverse %}
           {% endif %}
           {% if page.domaine != "all" %}
-            {% assign jobs = site.jobs | where: "open", 'true' |  where_exp:"item", "page.domaine contains item.domaine" |  sort: "date" | reverse %}
+            {% assign jobs = site.jobs | where: "open", 'true' |  where_exp:"item", "page.domaine contains item.domaine" | where_exp: "item", "item.depublication_date == null or item.depublication_date > site.time" | sort: "date" | reverse %}
           {% endif %}
           {% if jobs.size == 0 %}
             <center><h3 class="fr-card__title" style="margin-top: 20px">Il n'y a pas d'offre pour ce domaine actuellement</h3></center>
