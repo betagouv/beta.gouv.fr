@@ -222,16 +222,7 @@ layout: default
     var urlParams = new URLSearchParams(window.location.search);
     var incubatorValue = urlParams.get('incubateur');
     var usertypesValue = urlParams.get('usertypes');
-    var usertypes = [
-        { id: "particulier", title: "Particuliers" },
-        { id: "etat", title: "Services de l'État" },
-        { id: "entreprise", title: "Entreprises et professionels" },
-        { id: "collectivite-territoriale", title: "Collectivités territoriales" },
-        { id: "association", title: "Associations" },
-        { id: "etablissement-scolaire", title: "Etablissements scolaires et d'enseignement supérieur"},
-        { id: "parlement", title: "Parlement" },
-    ]
     data = generateDataWithHtmlCards(data);
     createIncubatorSelect(data, incubators, incubatorValue);
-    createUsertypesSelect(data, usertypes, usertypesValue)
+    createUsertypesSelect(data, usertypesValue)
 </script>
