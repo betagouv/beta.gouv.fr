@@ -11,7 +11,7 @@ missions:
 startups:
   - aplus
   - leximpact
-  - _openfisca_
+  - openfisca
 previously:
   - boussole
   - transport

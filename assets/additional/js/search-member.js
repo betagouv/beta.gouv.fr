@@ -11,11 +11,7 @@ var createStartupTag = function(startup, author, index, extraCount) {
     } else if (startup === "_alpha_") {
         html = ` <li>
         <a href="approche/formation" class="${labelClass}" target="_self">Formation Alpha</a>
-      </li>`
-    } else if (startup === "_openfisca_") {
-        html = `<li>
-            <a href="https://openfisca.org" class="${labelClass}" target="_self">OpenFisca</a>
-        </li>`
+        </li>`;
     } else {
         foundStartup = startups.find(s => s.id === startup)
         if (foundStartup) {
