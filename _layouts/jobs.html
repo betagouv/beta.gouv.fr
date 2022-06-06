@@ -11,7 +11,7 @@ layout: default
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-9 fr-col-sm-12 fr-col-lg-9">
         <div class="fr-grid-row fr-grid-row--gutters">
-          {% assign jobs = site.jobs | where: "open", 'true' |  where_exp:"domaine", "item.projects contains page.domaine" |  sort: "date" | reverse %}
+          {% assign jobs = site.jobs | where: "open", 'true' |  where_exp:"domaine", "domaine contains page.domaine" |  sort: "date" | reverse %}
           {% for job in jobs %}
           <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
             {% assign startup_id = job.startup %}
