@@ -49,7 +49,6 @@ exclude: [
   "docker-compose.yml",
   "requirements.txt",
   "Procfile",
-  "yarn.lock",
   "package.json",
   "package-lock.json"
 ]
