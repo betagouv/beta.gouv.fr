@@ -40,6 +40,7 @@
       <author>
         {% if job.friend %}{{ job.friend }}{% else %}{{ job.startup.title | default: "beta.gouv.fr"}}{% endif %}
       </author>
+      <domaine>{{ job.domaine }}</domaine>
       <content type="html" xml:base="{{ job.url | absolute_url | xml_escape }}">
         {{ job_content | xml_escape }}
       </content>
