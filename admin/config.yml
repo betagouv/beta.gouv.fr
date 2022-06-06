@@ -431,13 +431,32 @@ collections:
         widget: datetime
         time_format: false
         hint: "Uniquement si vous publiez la fiche plus tard"
+      - label: Date de dépublication
+        name: depublication_date
+        widget: datetime
+        time_format: false
+        hint: "L'offre sera automatiquement dépubliée à cette date"
       - label: Pour quelle startup ?
         label_singular: Startup
         hint: "Si la startup n'apparaît pas encore dans la liste, contacte un administrateur du site !"
         name: startup
         <<: *relation_default_options
         collection: startups
-        required: false 
+        required: false
+      - label: Dans quel domaine ?
+        label_singular: Domaine
+        hint: "Le domaine permet de filtrer les offres"
+        name: domaine
+        widget: "select"
+        options: ["Animation",
+          "Coaching",
+          "Déploiement",
+          "Design",
+          "Développement",
+          "Intraprenariat",
+          "Produit",
+          "Autre"]
+        required: true 
       - label: Rédiger sa fiche de recrutement
         name: body
         widget: markdown
