@@ -3,8 +3,8 @@ roles: Développeur.se Full Stack – 4 jours par semaine
 open: true
 date: 2022-05-31T13:52:38.672Z
 startup: chauffage-urbain
-domaine:
-    - Développement
+domaines:
+  - Développement
 ---
 [France chaleur urbaine](https://france-chaleur-urbaine.beta.gouv.fr/) est une start-up d’État qui vise à accélérer les raccordements aux réseaux de chaleur, un mode de chauffage écologique qui permet de lutter contre le changement climatique mais aussi de répondre aux enjeux de maîtrise du prix des énergies et de sécurité d’approvisionnement énergétique.
 

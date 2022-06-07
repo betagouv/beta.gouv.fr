@@ -3,7 +3,7 @@ startup: wikicarbone
 title: Wikicarbone recherche un•e stagiaire dans un rôle de chargé.e de déploiement
 roles: Wikicarbone recherche un•e stagiaire dans un rôle de chargé.e de déploiement
 open: true
-domaine:
+domaines:
     - Déploiement
 ---
 

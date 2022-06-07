@@ -2,8 +2,8 @@
 roles: Une développeuse ou un développeur full stack expérimenté(e)
 open: true
 startup: metiers.numerique.gouv.fr 
-domaine:
-    - Développement
+domaines:
+  - Développement
 ---
 
 La Startup d'État Métiers Du Numérique recherche une personne pour continuer de construire, implémenter et améliorer l’architecture front et back du produit.

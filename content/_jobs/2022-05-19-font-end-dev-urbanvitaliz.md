@@ -6,8 +6,8 @@ techno:
  - Javascript
  - Python/Django
 open: false
-domaine:
-    - Développement
+domaines:
+  - Développement
 ---
 
 UrbanVitaliz recherche un·e front-end dev / intégrateur·rice à temps partiel (freelance) pour 2 jours par semaine.

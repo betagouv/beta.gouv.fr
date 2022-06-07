@@ -9,7 +9,7 @@ contrat: indépendent
 date: 2022-04-19
 externalUrl: https://incubateur.anct.gouv.fr/recrutement/dev-sit
 open: false
-domaine:
+domaines:
   - Développement
 ---
 
