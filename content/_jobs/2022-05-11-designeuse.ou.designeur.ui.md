@@ -3,7 +3,8 @@ roles: DESIGNEUSE OU DESIGNEUR UI ✨
 open: true
 date: 2022-05-11T08:48:02.812Z
 startup: dora
-domaine: Design
+domaine:
+  - Design
 ---
 ## Dora, le service public numérique de recensement et mise à jour de l’offre d’insertion recherche un·e designer·euse UI (USER INTERFACE) !
 

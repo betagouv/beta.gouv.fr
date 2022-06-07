@@ -3,7 +3,8 @@ roles: Dev Ruby on Rails expérimenté·e
 startup: demarches-simplifiees.fr
 techno: Ruby on Rails
 open: false
-domaine: Développement
+domaine:
+    - Développement
 ---
 
 L’équipe demarches-simplifiees.fr cherche une développeuse ou un développeur Ruby on Rails expérimenté·e our l’aider à développer de nouvelles fonctionnalités et faciliter la dématérialisation des démarches publiques.

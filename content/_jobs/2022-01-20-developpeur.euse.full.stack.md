@@ -3,7 +3,8 @@ roles: Développeur(euse) Full Stack
 open: true
 date: 2022-01-20T16:33:49.507Z
 startup: snu
-domaine: Développement
+domaine:
+    - Développement
 ---
 ## 👋 Qui sommes-nous ?
 

@@ -5,7 +5,8 @@ junior: true
 date: 2022-05-19
 techno: VueJS, Node.js
 startup: aides.jeunes
-domaine: Développement
+domaine:
+      - Développement
 ---
 
 L'équipe [Aides-Jeunes](https://beta.gouv.fr/startups/aides.jeunes.html) recherche une ou un dev JavaScript pour contribuer à l'enrichissement du simulateur d'aides pour les jeunes et à son amélioration continue.

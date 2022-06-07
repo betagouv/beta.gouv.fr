@@ -8,7 +8,8 @@ role: Product Manager
 equipe: Incubateur des Territoires
 poste_pourvu: false
 airtable_formulaire: true
-domaine: Produit
+domaine:
+    - Produit
 ---
 L'Incubateur des Territoires recherche **un.e product manager.**
 

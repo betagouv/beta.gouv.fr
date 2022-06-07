@@ -4,7 +4,8 @@ open: true
 date: 2022-05-20
 startup: territoires-en-transitions
 title: Recherche d'une personne développeuse Front React/Typescript pour Territoires en Transitions
-domaine: Développement
+domaine:
+  - Développement
 ---
 
 

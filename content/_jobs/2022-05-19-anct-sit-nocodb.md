@@ -9,7 +9,8 @@ contrat: indépendent
 date: 2022-05-19
 externalUrl: https://incubateur.anct.gouv.fr/recrutement/dev-nocodb
 open: false
-domaine: Développement
+domaine:
+    - Développement
 ---
 
 

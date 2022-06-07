@@ -3,7 +3,8 @@ roles: Développeur·se front
 open: true
 date: 2022-05-30
 startup: dotations-locales
-domaine: Développement
+domaine:
+    - Développement
 ---
 
 Nous recherchons une développeuse ou un développeur front-end pour la startup [Dotations locales](https://beta.gouv.fr/startups/dotations-locales.html).

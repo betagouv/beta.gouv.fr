@@ -3,7 +3,8 @@ roles: un·e dev web full-stack
 open: true
 startup: codedutravail
 techno: Stack Javascript (React) + ElasticSearch
-domaine: Développement
+domaine:
+    - Développement
 ---
 
 # Et si on rendait le droit du travail plus lisible ?!

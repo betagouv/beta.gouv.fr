@@ -7,7 +7,9 @@ date: 2022-05-25T14:13:56.593Z
 contrat: indépendant
 title: La plateforme de l'inclusion recrute un ou une data analyst
 startup: pilotage.de.linclusion
-domaine: Développement
+domaine:
+    - Développement
+    - Produit
 ---
 # La plateforme de l'inclusion recrute un ou une data analyst
 

@@ -2,6 +2,6 @@
 layout: jobs
 permalink: /recrutement/developpement
 title: Les offres dev de beta.gouv.fr
-domaine: ["Développement"]
+domaine: Développement
 additional_css: jobs.css
 ---

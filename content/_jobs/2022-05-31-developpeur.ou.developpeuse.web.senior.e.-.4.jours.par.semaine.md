@@ -2,7 +2,8 @@
 roles: DÉVELOPPEUR ou DÉVELOPPEUSE WEB SÉNIOR·E - 4 jours par semaine 🛸
 open: true
 date: 2022-05-31T14:19:00.014Z
-domaine: Développement
+domaine: 
+    - Développement
 startup: dora
 ---
 ### Dora, le service public numérique de recensement et mise à jour de l’offre d’insertion recherche un développeur ou une développeuse web sénior·e spécialisé·e en backend, frontend ou fullstack disponible 4 jours par semaine.

@@ -456,6 +456,7 @@ collections:
           "Intraprenariat",
           "Produit",
           "Autre"]
+        multiple: true
         required: true 
       - label: Rédiger sa fiche de recrutement
         name: body

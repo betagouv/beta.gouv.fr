@@ -2,7 +2,8 @@
 roles: Opérateur‧ice de validation saisonnier
 startup: locatio
 open: true
-domaine: Autre
+domaine: 
+    - Autre
 ---
 Afin de gérer le pic d'activité estivale de 2022, la startup d’État DossierFacile recrute un‧e opérateur‧ice de validation.\
 **Durée et date de début** : de mi-juin à mi-septembre 2022\

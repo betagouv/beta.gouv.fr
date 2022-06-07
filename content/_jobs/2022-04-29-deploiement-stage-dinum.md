@@ -3,7 +3,8 @@ roles: Chargé(e) de déploiement - Programme d'accélération FAST - Stage
 open: true
 junior: true
 date: 2022-04-29
-domaine: Déploiement
+domaine: 
+    - Déploiement
 ---
 ## L'équipe beta.gouv recrute une personne en charge du déploiement (business developer) en stage
 

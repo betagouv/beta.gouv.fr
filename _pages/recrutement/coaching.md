@@ -2,6 +2,6 @@
 layout: jobs
 permalink: /recrutement/coaching
 title: Les offres coaching de beta.gouv.fr
-domaine: ["Coaching"]
+domaine: Coaching
 additional_css: jobs.css
 ---
