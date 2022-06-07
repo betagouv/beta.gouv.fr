@@ -35,7 +35,7 @@ layout: default
           {% endif %}
 
           {% for job in jobs %}
-          <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
+          <div class="fr-col-12">
             {% assign startup_id = job.startup %}
             {% assign startup = site.startups | where: "title", startup_id | first %}
             {% include card-job.html job=job startup=job.startup %}
