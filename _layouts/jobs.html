@@ -11,9 +11,9 @@ layout: default
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-9 fr-col-sm-12 fr-col-lg-9">
         <ul class="fr-tags-group">
-          <a href="/recrutement" class="fr-tag {% if page.domaine = 'all' %} fr-tag--active {% endif %}"
+          <a href="/recrutement" class="fr-tag {% if page.domaine == 'all' %} fr-tag--active {% endif %}"
           >Tout</a>
-          <a class="fr-tag {% if page.domaine = 'Animation' %} fr-tag--active {% endif %}"
+          <a class="fr-tag {% if page.domaine == 'Animation' %} fr-tag--active {% endif %}"
           href="/recrutement/animation">Animation</a>
           <a class="fr-tag {% if page.domaine == 'Autre' %} fr-tag--active {% endif %}" href="/recrutement/autre">Autre</a>
           <a class="fr-tag {% if page.domaine == 'Coaching' %} fr-tag--active {% endif %}" href="/recrutement/coaching">Coaching</a>
