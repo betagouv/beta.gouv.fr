@@ -4,7 +4,7 @@ domaine: Intraprenariat
 role: Intrapreneur
 missions:
   - start: 2021-01-05
-    end: 2022-06-06
+    end: 2022-12-06
     status: admin
     employer: Ministère de la Culture
 incubator: culture
