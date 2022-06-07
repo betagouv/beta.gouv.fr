@@ -1,18 +1,19 @@
 ---
-roles: DÉVELOPPEUR ou DÉVELOPPEUSE WEB SÉNIOR·E - 4 jours par semaine 🛸
+roles: DÉVELOPPEUR ou DÉVELOPPEUSE WEB EXPÉRIMENTÉ·E - 4 jours par semaine 🛸
 open: true
 date: 2022-05-31T14:19:00.014Z
-domaines: 
-  - Développement
+depublication_date: 2022-06-07T15:57:56.787Z
 startup: dora
+domaines:
+  - Développement
 ---
-### Dora, le service public numérique de recensement et mise à jour de l’offre d’insertion recherche un développeur ou une développeuse web sénior·e spécialisé·e en backend, frontend ou fullstack disponible 4 jours par semaine.
+### Dora, le service public numérique de recensement et mise à jour de l’offre d’insertion recherche un développeur ou une développeuse web expérimenté·e spécialisé·e en backend, frontend ou fullstack disponible 4 jours par semaine.
 
 Tu as envie de travailler sur un projet à impact ? Rejoins une petite équipe motivée à en découdre avec les problématiques de l'insertion !
 
 **à propos de Dora**
 
-[https://dora.fabrique.social.gouv.fr/](https://dora.fabrique.social.gouv.fr/) est un service public numérique national qui a pour mission de référencer l’offre d’insertion sociale et professionnelle afin de résoudre les freins (hébergement, mobilité, garde d’enfant, illettrisme…) bloquant le retour à l’emploi durable des personnes en difficulté.
+<https://dora.fabrique.social.gouv.fr/> est un service public numérique national qui a pour mission de référencer l’offre d’insertion sociale et professionnelle afin de résoudre les freins (hébergement, mobilité, garde d’enfant, illettrisme…) bloquant le retour à l’emploi durable des personnes en difficulté.
 
 **Comment ?**
 
@@ -40,7 +41,7 @@ Tu prendras part à la conception du produit en collaboration avec le reste de l
 * Le frontend utilise SvelteKit et Tailwind CSS
 * Le tout est hébergé chez Scalingo
 
-Nous cherchons donc un profil ayant une forte expérience sur Django (7 ans+) **ou** une forte expérience en développement frontend avec des frameworks récents (React, Vue, Angular, Svelte…). Un profil fullstack sera le bienvenu, mais n’est pas requis.
+Nous cherchons donc un profil ayant une expérience significative sur Django **ou** en développement frontend avec des frameworks récents (React, Vue, Angular, Svelte…). Un profil fullstack sera le bienvenu, mais n’est pas requis.
 
 **Quelques exemples de nos prochaines missions :**
 
@@ -53,7 +54,7 @@ Nous cherchons donc un profil ayant une forte expérience sur Django (7 ans+) *
 * Travailler sur la qualité des données récoltées
 * Mettre en place Storybook pour la maintenance du design system
 
-Le développement se fait de façon ouverte, sur GitHub : [https://github.com/betagouv/dora](https://github.com/betagouv/dora)
+Le développement se fait de façon ouverte, sur GitHub : <https://github.com/betagouv/dora>
 
 Avant tout, nous recherchons une personne :
 
@@ -89,4 +90,4 @@ L’équipe est dispersée à travers la France et travaille principalement à d
 
 Pour postuler, envoie nous un petit message et ton CV à [dora@beta.gouv.fr](mailto:dora@beta.gouv.fr?cc=recrutement@beta.gouv.fr&subject=candidature%20dev%20senior), avec recrutement@beta.gouv.fr en copie, en nous expliquant ce qui te motive à travailler sur Dora ! Tu peux ajouter au choix : un lien vers ton profil github, site perso, LinkedIn, Malt ou équivalent…
 
-On te recontactera rapidement pour convenir d’un rendez-vous avec l’équipe ! 
+On te recontactera rapidement pour convenir d’un rendez-vous avec l’équipe !
