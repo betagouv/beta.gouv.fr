@@ -9,6 +9,8 @@ contrat: indépendent
 date: 2022-05-19
 externalUrl: https://incubateur.anct.gouv.fr/recrutement/ux-ui-sit
 open: false
+domaines:
+  - Design
 ---
 
 

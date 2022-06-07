@@ -1,7 +1,7 @@
 ---
 layout: jobs
-permalink: /recrutement/
+permalink: /recrutement/animation
 title: Les offres de beta.gouv.fr
+domaine: Animation
 additional_css: jobs.css
-domaine: "all"
 ---

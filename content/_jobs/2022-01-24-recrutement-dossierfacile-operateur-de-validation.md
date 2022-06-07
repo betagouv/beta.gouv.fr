@@ -2,6 +2,8 @@
 roles: Opérateur‧ice de validation
 startup: locatio
 open: true
+domaines:
+  - Autre
 ---
 Afin de soutenir sa phase d’accélération et de répondre à ses objectifs de croissance utilisateurs pour 2022, la startup d’État DossierFacile recrute un‧e opérateur‧ice de validation.\
 **Durée et date de début** : 3 mois reconductible, dès que possible\
