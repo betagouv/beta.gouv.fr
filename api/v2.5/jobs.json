@@ -17,8 +17,8 @@ layout: null
         {% capture job_content %}{% include job-content.html job=job %}{% endcapture %}
         {
             "id": "{{ job.id | remove:'/jobs/' }}"
-            ,"domaine": [{% for domaine in job.domaine %}
-                "{{ job.domaine }}"
+            ,"domaines": [{% for domaine in job.domaines %}
+                "{{ domaine }}"
                 {% unless forloop.last %},{% endunless %}
                 {% endfor %}
             ]
