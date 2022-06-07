@@ -15,13 +15,13 @@ layout: default
           >Tout</a>
           <a class="fr-tag {% if page.domaine = 'Animation' %} fr-tag--active {% endif %}"
           href="/recrutement/animation">Animation</a>
-          <a class="fr-tag {% if page.domaine = 'Autre' %} fr-tag--active {% endif %}" href="/recrutement/autre">Autre</a>
-          <a class="fr-tag {% if page.domaine = 'Coaching' %} fr-tag--active {% endif %}" href="/recrutement/coaching">Coaching</a>
-          <a class="fr-tag {% if page.domaine = 'Développement' %} fr-tag--active {% endif %}" href="/recrutement/developpement">Développement</a>
-          <a class="fr-tag {% if page.domaine = 'Déploiement' %} fr-tag--active {% endif %}" href="/recrutement/deploiement">Déploiement</a>
-          <a class="fr-tag {% if page.domaine = 'Design' %} fr-tag--active {% endif %}" href="/recrutement/design">Design</a>
-          <a class="fr-tag {% if page.domaine = 'Intraprenariat' %} fr-tag--active {% endif %}" href="/recrutement/intraprenariat">Intraprenariat</a>
-          <a class="fr-tag {% if page.domaine = 'Produit' %} fr-tag--active {% endif %}" href="/recrutement/produit">Produit</a>
+          <a class="fr-tag {% if page.domaine == 'Autre' %} fr-tag--active {% endif %}" href="/recrutement/autre">Autre</a>
+          <a class="fr-tag {% if page.domaine == 'Coaching' %} fr-tag--active {% endif %}" href="/recrutement/coaching">Coaching</a>
+          <a class="fr-tag {% if page.domaine == 'Développement' %} fr-tag--active {% endif %}" href="/recrutement/developpement">Développement</a>
+          <a class="fr-tag {% if page.domaine == 'Déploiement' %} fr-tag--active {% endif %}" href="/recrutement/deploiement">Déploiement</a>
+          <a class="fr-tag {% if page.domaine == 'Design' %} fr-tag--active {% endif %}" href="/recrutement/design">Design</a>
+          <a class="fr-tag {% if page.domaine == 'Intraprenariat' %} fr-tag--active {% endif %}" href="/recrutement/intraprenariat">Intraprenariat</a>
+          <a class="fr-tag {% if page.domaine == 'Produit' %} fr-tag--active {% endif %}" href="/recrutement/produit">Produit</a>
         </ul>
         <div class="fr-grid-row fr-grid-row--gutters">
           {% if page.domaine == "all" %}
