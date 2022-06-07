@@ -443,10 +443,10 @@ collections:
         <<: *relation_default_options
         collection: startups
         required: false
-      - label: Dans quel domaine ?
+      - label: Dans quels domaines ?
         label_singular: Domaine
         hint: "Le domaine permet de filtrer les offres"
-        name: domaine
+        name: domaines
         widget: "select"
         options: ["Animation",
           "Coaching",
