@@ -73,6 +73,8 @@
     {% capture twitterImagePath %}{% if page.image %}{{page.image}}{% else %}{{ site.url }}/img/logo_twitter_image-2019.jpg{% endif %}{% endcapture %}
     <meta name="twitter:image" content="{{ twitterImagePath }}">
 
+  {% if jekyll.environment == "production" %}
     {% include analytics.html %}
+  {% endif %}
 
 </head>
