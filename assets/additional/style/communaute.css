@@ -16,9 +16,3 @@
 .beta-communaute-hr {
     color: black;
 }
-.beta-sidemenu-sticky div {
-    max-height: 100vh;
-    overflow-y: scroll;
-    background-color: white;
-    position: relative;
-}
