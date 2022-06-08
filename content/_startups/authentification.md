@@ -5,7 +5,7 @@ sponsors:
   - /organisations/dinum
 incubator: dinum
 contact: tchap@beta.gouv.fr
-link: 
+link: https://authentification.beta.gouv.fr
 repository: https://github.com/tchapgouv/tchap-identite
 events: []
 phases:
