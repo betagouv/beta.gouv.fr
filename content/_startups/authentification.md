@@ -18,7 +18,7 @@ usertypes:
 
 ## Contexte
 
-Authentification a été initié en Avril 2022 afin de 
+Authentification a été initié en Avril 2022.
 
 ## Problèmes
 
@@ -26,7 +26,7 @@ L'authentification est un sujet épineux que chaque service doit résoudre. Les 
 
 ## Solution
 
-Le service Authentification permet de s'authentifier simplement avec l'envoi d'un code de connecition par mail ou par messagerie sécurisée Tchap. 
+Le service Authentification permet de s'authentifier simplement par l'envoi d'un code de connection par mail ou par messagerie sécurisée Tchap. 
 
 ## Stratégie
 
@@ -36,4 +36,5 @@ Le service Authentification permet de s'authentifier simplement avec l'envoi d'u
 * Proposer des services de Single sign on (authentification unique) afin d'éviter de s'authentifier plusieurs fois
 
 ## Indicateurs d'impact
+* Nombre de connection
 * Ratio : Nombre de connection abandonnée / Nombre de connection successful
