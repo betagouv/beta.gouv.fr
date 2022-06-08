@@ -25,6 +25,7 @@ layout: null
             , "title": "{{ job_title | strip_html | strip_newlines | escape }}"
             , "url": "{{ job.url | absolute_url }}"
             , "published": "{{ job.date }}"
+            , "startup": "{{ job.startup }}"
             , "updated": "{{ job.last_modified_at | default: job.date }}"
             , "author": "{% if job.friend %}{{ job.friend }}{% else %}{{ job.startup.title | default: 'beta.gouv.fr'}}{% endif %}"
             , "technos": "{{ job.techno }}"
