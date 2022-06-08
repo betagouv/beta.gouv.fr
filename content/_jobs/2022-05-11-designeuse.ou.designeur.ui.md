@@ -1,7 +1,8 @@
 ---
-roles: DESIGNEUSE OU DESIGNEUR UI ✨
+roles: DESIGNEUSE OU DESIGNEUR UI EXPÉRIMENTÉ·E - 3 jours par semaine ✨
 open: true
 date: 2022-05-11T08:48:02.812Z
+depublication_date: 2022-06-08T08:29:11.600Z
 startup: dora
 domaines:
   - Design
@@ -31,7 +32,7 @@ L’équipe DORA se compose aujourd’hui de 12 personnes : un coach Beta Gouv, 
 
 Tu feras également partie de la communauté beta gouv avec de beaux échanges en perspective !
 
-## Le d**escriptif du poste**
+## Le descriptif de la mission
 
 En tant que **designer·euse UI** ✨, tu travailleras au quotidien en étroite collaboration avec notre product designer, la product owner et le développeur front end.
 
@@ -44,10 +45,10 @@ En tant que **designer·euse UI** ✨, tu travailleras au quotidien en étroite 
 * Participer à l’amélioration continue des fonctionnalités (ateliers utilisateurs, recueil de besoins, contribution à la feuille de route)
 * Travailler de concert avec l’équipe de développement pour la réalisation
 
-## Le p**rofil recherché**
+## Le profil recherché
 
-* de formation spécialisée en design d’interface ou bien autodidacte, tu maitrise la conception et le design des solutions numériques centrées utilisateur \
-  ⇒ **une expérience d'au moins 2 à 3 ans en UX, UI ou Product Design est requise - merci de nous fournir un portfolio**
+* de formation spécialisée en design d’interface ou bien autodidacte, tu maîtrises la conception et le design des solutions numériques centrées utilisateur \
+  ⇒ **une expérience d'au moins 5 ans en UX, UI ou Product Design est requise - merci de nous fournir un portfolio**
 * tu es capable de produire des idées et solutions qui répondent aux besoins de nos utilisateurs et à nos objectifs
 * tu es à jour des bonnes pratiques web et mobile, et tu es sensible aux problématiques de développement de par ta connaissance du fonctionnement des technologies web (html, css, javascript)
 * tu maitrises Figma
@@ -55,14 +56,14 @@ En tant que **designer·euse UI** ✨, tu travailleras au quotidien en étroite 
 * force de proposition, tu sais porter tes points de vue et argumenter pour les défendre mais aussi reconnaitre quand tu as tort 😊
 * tu es capable de travailler en équipe et le télétravail ne te fait pas peur
 
-## L**es modalités**
+## Les modalités
 
 * *Contrat* : Poste ouvert aux indépendant·es, freelance et portage salarial
-* *Charge* : quatre jours par semaine (l’équipe est OFF le vendredi)
+* *Charge* : 3 jours par semaine (l’équipe est OFF le vendredi)
 * *Emplacement* : télétravail complet + déplacements occasionnels
-* *Début souhaité* : début juin 2022
+* *Début souhaité* : début juillet 2022
 * *Date de fin* : 31/10/2022 (potentiellement renouvelable)
-* *TJM envisagé* : 400€ HT ⇒ voir la [grille de rémunération beta gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/observatoire-revenus#la-grille)
+* *TJM envisagé* : 600€ HT ⇒ voir la [grille de rémunération beta gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/observatoire-revenus#la-grille)
 
 L’équipe est dispersée à travers la France, et travaille principalement à distance. Des déplacements à la rencontre des utilisateurs et lors de séminaires d’équipes sont à prévoir (environ tous les 2 mois).
 
