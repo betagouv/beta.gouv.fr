@@ -448,9 +448,9 @@ collections:
         hint: "Cette information n'est pas partagée sur le site beta, elle est utile aux admins du site beta pour savoir qui contacter"
         name: contacts
         widget: relation
-        valueField: "{{id}}"
-        displayFields: [fullname]
-        searchFields: [fullname, title, id]
+        value_field: "{{id}}"
+        display_fields: [fullname]
+        search_fields: [fullname, id, firstname, lastname]
         collection: authors
         required: false
       - label: Dans quels domaines ?
