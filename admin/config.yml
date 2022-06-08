@@ -444,12 +444,14 @@ collections:
         collection: startups
         required: false
       - label: Membres de la startup a contacter pour cette offre ?
-        label_singular: Startup
-        hint: "Cette information n'est pas partagée sur le site beta, il est utile pour les admins pour savoir qui contacter"
+        label_singular: Contacts
+        hint: "Cette information n'est pas partagée sur le site beta, elle est utile aux admins du site beta pour savoir qui contacter"
         name: contacts
-        <<: *relation_default_options
+        widget: relation
+        valueField: "{{id}}"
+        displayFields: [fullname]
+        searchFields: [fullname, title, id]
         collection: authors
-        multiple: true
         required: false
       - label: Dans quels domaines ?
         label_singular: Domaine
