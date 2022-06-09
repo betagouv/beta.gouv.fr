@@ -1,5 +1,5 @@
 ---
-roles: LA MISSION INTERMINISTÉRIELLE POUR L’APPRENTISSAGE RECRUTE UN.E CHARGÉ.E DE DÉVELOPPEMENT PRODUIT POUR LE TABLEAU DE BORD APPRENTISSAGE
+roles: Un.e product designer pour le tableau de bord de l'apprentissage
 open: true
 date: 2022-06-09
 startup: tdb-apprentissage 
