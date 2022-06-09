@@ -4,7 +4,7 @@ mission: Diminuer les rendez-vous non-honorés des personnes placées sous main 
   justice
 sponsors:
   - /organisations/mj
-incubator: dinum
+incubator: justice
 repository: https://github.com/betagouv/mon-suivi-justice
 events:
   - name: product_launch

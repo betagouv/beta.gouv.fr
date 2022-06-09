@@ -5,7 +5,7 @@ mission: Aider les juridictions dans l'affectation de leurs ressources humaines
 sponsors:
   - /organisations/mj
   - /organisations/igj
-incubator: dinum
+incubator: justice
 repository: https://github.com/betagouv/a-just
 contact: contact@a-just.fr
 accessibility_status: non conforme
