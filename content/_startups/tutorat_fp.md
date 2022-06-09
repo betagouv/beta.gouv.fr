@@ -12,6 +12,10 @@ phases:
     end: 2021-03-31
   - name: construction
     start: 2021-04-01
+  - name: construction
+    start: 2021-04-01
+  - name: alumni
+    start: 2022-06-09
 usertypes:
   - particulier
 ---
