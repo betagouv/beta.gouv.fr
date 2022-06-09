@@ -1,6 +1,6 @@
 ---
 mission: "Faciliter le recours aux aides par les jeunes qui en ont le plus besoin "
-incubator: dinum
+incubator: sgams
 repository: https://github.com/betagouv/aides-jeunes
 contact: aides-jeunes@beta.gouv.fr
 accessibility_status: non conforme
@@ -8,7 +8,7 @@ usertypes:
   - particulier
 title: Aides Jeunes
 sponsors:
-  - /organisations/sgmas
+  - /organisations/dgefp
 link: https://mes-aides.1jeune1solution.beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/url/mes-aides-1jeune1solution-beta-gouv-fr/
