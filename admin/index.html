@@ -148,11 +148,13 @@
   <script>
       var CategoriesControl = createClass({
         handleChange: function(e) {
+          console.log('LCS HANDLE CHANGE', e.target.value)
           const separator = this.props.field.get('separator', ', ')
           this.props.onChange(e.target.value.split(separator).map((e) => e.trim()));
         },
       
         render: function() {
+          console.log('LCS RENDER CATEGORIES CONTROL')
           const separator = this.props.field.get('separator', ', ');
           var value = this.props.value;
           return h('input', {
@@ -167,6 +169,7 @@
       
       var CategoriesPreview = createClass({
         render: function() {
+          console.log('LCS RENDER PREVIEW')
           return h('ul', {},
             this.props.value.map(function(val, index) {
               return h('li', {key: index}, val);
@@ -182,6 +185,10 @@
       }
       
       CMS.registerWidget('betamembers', CategoriesControl, CategoriesPreview, schema);
+  </script>
+  <script src='https://unpkg.com/@adamjkb/netlify-cms-widget-select-async/dist/index.umd.js'></script>
+  <script>
+      CMS.registerWidget(AsyncSelectWidget.Widget)
   </script>
 </body>
 

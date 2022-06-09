@@ -447,6 +447,14 @@ collections:
         name: contacts
         widget: betamembers
         separator: __
+      - name: simple_usage
+        label: Simple usage
+        widget: select-async
+        # widget options:
+        url: https://beta.gouv.fr/api/v2.5/authors.json
+        searchFields: [id]
+        value_field: id
+        display_field: fullname
       - label: Dans quels domaines ?
         label_singular: Domaine
         hint: "Le domaine permet de filtrer les offres"
