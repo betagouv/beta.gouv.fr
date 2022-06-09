@@ -448,7 +448,7 @@ collections:
         label: Membres de la startup a contacter pour cette offre ?
         widget: select-async
         # widget options:
-        url: https://betagouv-site-pr10214.osc-fr1.scalingo.io/api/v2.5/authors.json
+        url: https://beta.gouv.fr/api/v2.5/authors.json
         value_field: id
         display_field: fullname
       - label: Dans quels domaines ?
