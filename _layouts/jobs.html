@@ -1,5 +1,14 @@
 ---
 layout: default
+menu:
+  - Animation
+  - Autre
+  - Coaching
+  - Développement
+  - Déploiement
+  - Design
+  - Intraprenariat
+  - Produit
 ---
 
 {% assign lang = page.lang | default: site.lang | default: "fr" %}
@@ -11,18 +20,27 @@ layout: default
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-9 fr-col-sm-12 fr-col-lg-9">
         <ul class="fr-tags-group">
-          <a href="/recrutement" class="fr-tag {% if page.domaine == 'all' %} fr-tag--active {% endif %}"
-          >Tout</a>
-          <a class="fr-tag {% if page.domaine == 'Animation' %} fr-tag--active {% endif %}"
-          href="/recrutement/animation">Animation</a>
-          <a class="fr-tag {% if page.domaine == 'Autre' %} fr-tag--active {% endif %}" href="/recrutement/autre">Autre</a>
-          <a class="fr-tag {% if page.domaine == 'Coaching' %} fr-tag--active {% endif %}" href="/recrutement/coaching">Coaching</a>
-          <a class="fr-tag {% if page.domaine == 'Développement' %} fr-tag--active {% endif %}" href="/recrutement/developpement">Développement</a>
-          <a class="fr-tag {% if page.domaine == 'Déploiement' %} fr-tag--active {% endif %}" href="/recrutement/deploiement">Déploiement</a>
-          <a class="fr-tag {% if page.domaine == 'Design' %} fr-tag--active {% endif %}" href="/recrutement/design">Design</a>
-          <a class="fr-tag {% if page.domaine == 'Intraprenariat' %} fr-tag--active {% endif %}" href="/recrutement/intraprenariat">Intraprenariat</a>
-          <a class="fr-tag {% if page.domaine == 'Produit' %} fr-tag--active {% endif %}" href="/recrutement/produit">Produit</a>
+          <li>
+            <a href="/recrutement"
+               class="fr-tag"
+               {% if page.domaine == 'all' %}aria-pressed="true"{% endif %}
+            >
+              Tout
+            </a>
+          </li>
+
+          {% for item in layout.menu %}
+            <li>
+              <a href="/recrutement/{{ item | slugify: 'latin' }}"
+                 class="fr-tag"
+                 {% if page.domaine == item %}aria-pressed="true"{% endif %}
+              >
+                {{ item }}
+              </a>
+            </li>
+          {% endfor %}
         </ul>
+
         <div class="fr-grid-row fr-grid-row--gutters">
           {% if page.domaine == "all" %}
             {% assign jobs = site.jobs | where: "open", 'true' | where_exp: "item", "item.depublication_date == null or item.depublication_date > site.time" |  sort: "date" | reverse %}
