@@ -168,7 +168,7 @@ hr {
   color: #fff;
 }
 
-.section-color {
+.section-color, .section-color h2 {
   background-color: #003b80;
   color: #fff;
 }
