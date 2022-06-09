@@ -8,7 +8,7 @@ usertypes:
   - particulier
 title: Aides Jeunes
 sponsors:
-  - /organisations/dgefp
+  - /organisations/sgmas
 link: https://mes-aides.1jeune1solution.beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/url/mes-aides-1jeune1solution-beta-gouv-fr/
