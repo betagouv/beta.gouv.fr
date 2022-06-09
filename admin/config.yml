@@ -445,8 +445,7 @@ collections:
         required: false
       - label: Membres de la startup a contacter pour cette offre ?
         name: contacts
-        label: Categories
-        widget: categories
+        widget: betamembers
         separator: __
       - label: Dans quels domaines ?
         label_singular: Domaine
