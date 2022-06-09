@@ -453,8 +453,8 @@ collections:
         value_field: id
         display_field: fullname
         grouped_options:
-          value_field: id
-          display_field: fullname
+          value_field: node.id
+          display_field: node.fullname
       - label: Dans quels domaines ?
         label_singular: Domaine
         hint: "Le domaine permet de filtrer les offres"
