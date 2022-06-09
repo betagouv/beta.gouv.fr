@@ -458,23 +458,10 @@ h2.phase-title em {
   max-height: 200px;
 }
 
-.job-section-blue {
-  background: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%),
-  linear-gradient(0deg, #00006D, #00006D);
-}
-
-.job-section-blue h3, .job-section-blue .fr-btn--secondary {
-  color: white;
-}
-.job-section-blue .fr-btn--secondary {
-  box-shadow: inset 0 0 0 1px white;
-  justify-content: center;
-}
-
 /* START SECTION CLASS */
 .section-blue {
   background: linear-gradient(270.3deg, rgba(123, 97, 255, 0.46) 3.25%, rgba(123, 97, 255, 0.63) 55.33%, rgba(123, 97, 255, 0.39) 99.82%),
-  linear-gradient(0deg, #00006D, #00006D);
+              linear-gradient(0deg, #00006D, #00006D);
 }
 
 .section-white h2 {
@@ -489,8 +476,8 @@ h2.phase-title em {
 
 .section-blue h1,
 .section-blue h2,
-.section-blue h3:not(.fr-card__title),
-.section-blue h4:not(.fr-card__title),
+.section-blue h3,
+.section-blue h4,
 .section-blue .section-description {
   color: #fff;
 }
