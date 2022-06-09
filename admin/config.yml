@@ -451,8 +451,8 @@ collections:
         label: Simple usage
         widget: select-async
         # widget options:
-        url: https://beta.gouv.fr/api/v2.5/authors.json
-        searchFields: [id]
+        url: https://betagouv-site-pr10214.osc-fr1.scalingo.io/api/v2.5/authors.json
+        search_fields: [id]
         value_field: id
         display_field: fullname
       - label: Dans quels domaines ?
