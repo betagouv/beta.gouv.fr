@@ -443,16 +443,11 @@ collections:
         <<: *relation_default_options
         collection: startups
         required: false
-      - label: Membres de la startup a contacter pour cette offre ?
-        name: contacts
-        widget: betamembers
-        separator: __
-      - name: simple_usage
-        label: Simple usage
+      - name: contacts
+        label: Membres de la startup a contacter pour cette offre ?
         widget: select-async
         # widget options:
         url: https://betagouv-site-pr10214.osc-fr1.scalingo.io/api/v2.5/authors.json
-        search_fields: [id]
         value_field: id
         display_field: fullname
       - label: Dans quels domaines ?
