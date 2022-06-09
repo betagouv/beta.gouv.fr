@@ -144,6 +144,55 @@
     }
     setIntervalCheck()
   </script>
+  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <!-- <script>
+      var CategoriesControl = createClass({
+        handleChange: async function(e) {
+          const separator = this.props.field.get('separator', ', ')
+          const authors = await fetch('https://beta.gouv.fr/api/v2.5/authors.json').then(res => res.json())
+          this.options = authors
+          this.props.onChange(e.target.value.split(separator).map((e) => e.trim()));
+        },
+      
+        render: function() {
+          const separator = this.props.field.get('separator', ', ');
+          var value = this.props.value;
+          return h('select', {
+            id: this.props.forID,
+            className: this.props.classNameWrapper,
+            type: 'text',
+            value: value ? value.join(separator) : '',
+            onChange: this.handleChange,
+          }, this.props.options.map(function(val, index) {
+            return h('option', {
+              key: val.id,value: val.id}, val)
+          }));
+        },
+      });
+      
+      var CategoriesPreview = createClass({
+        render: function() {
+          console.log('LCS RENDER PREVIEW')
+          return h('ul', {},
+            this.props.value.map(function(val, index) {
+              return h('li', {key: index}, val);
+            })
+          );
+        }
+      });
+      
+      var schema = {
+        properties: {
+          separator: { type: 'string' },
+        },
+      }
+      
+      CMS.registerWidget('betamembers', CategoriesControl, CategoriesPreview, schema);
+  </script> -->
+  <script src='/admin/widget-select-async.js'></script>
+<script>
+    CMS.registerWidget(AsyncSelectWidget.Widget)
+</script>
 </body>
 
 </html>
