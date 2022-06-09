@@ -10,9 +10,9 @@ startup: tdb-apprentissage
 
 # 👋 QUI SOMMES-NOUS ?
 
-[La mission interministérielle pour l'apprentissage](https://mission-apprentissage.gitbook.io/general/), créée sur l’impulsion de Jean-Michel Blanquer, Élisabeth Borne, Amélie de Montchalin et Frédérique Vidal, compte une 20e de membres, combinant spécialistes de l’apprentissage, de l’orientation des jeunes, du développement web, du design de parcours utilisateurs… 
+[La mission interministérielle pour l'apprentissage et les trajectoires professionnelles](https://mission-apprentissage.gitbook.io/general/), créée sur l’impulsion de Jean-Michel Blanquer, Élisabeth Borne, Amélie de Montchalin et Frédérique Vidal, compte une 30e de membres, combinant spécialistes de l’apprentissage, de l’orientation des jeunes, du développement web, du design de parcours utilisateurs… 
 
-Elle coopère avec de nombreuses administrations de l’État (DGESCO, DGEFP, DGESIP, DARES, DEPP, DINUM…), les CFA, les jeunes et leurs associations, l’ONISEP, les conseils régionaux, les opérateurs de compétences, les startups de l’ED tech et des RH tech, les entreprises qui recrutent (ou pas) des apprentis, etc. 
+Elle coopère avec de nombreuses administrations de l’État (DGESCO, DGEFP, DGESIP, DARES, DEPP, DINUM, …), les CFA, les jeunes et leurs associations, l’ONISEP, les conseils régionaux, les opérateurs de compétences, les startups de l’ED tech et des RH tech, les entreprises qui recrutent (ou pas) des apprentis, etc. 
 
 Son fonctionnement est souple. La finalité nous guide plutôt que les procédures. La qualité de la réponse aux besoins des parties prenantes est la mesure de notre réussite.
 
@@ -22,16 +22,16 @@ Son fonctionnement est souple. La finalité nous guide plutôt que les procédur
 
 ## Un rôle de product designer au sein de l'équipe du [Tableau de bord de l'apprentissage](https://mission-apprentissage.gitbook.io/general/les-nouveaux-services/simplifier-la-transmission-des-donnees-apprentissage) :
 
-La mission interministérielle pour l’apprentissage développe des services qui participent à la fois à renforcer l’écosystème des données de l’apprentissage et à faciliter la mise en relation entre jeunes, CFA et entreprises. Vous pouvez trouver des informations sur les différents produits au sein de [notre espace documentaire](https://mission-apprentissage.gitbook.io/general/).
+La mission interministérielle pour l’apprentissage et les trajectoires professionnelles développe des services qui participent à la fois à renforcer l’écosystème des données de l’apprentissage et à faciliter la mise en relation entre jeunes, CFA et entreprises. Vous pouvez trouver des informations sur les différents produits au sein de [notre espace documentaire](https://mission-apprentissage.gitbook.io/general/).
 
-Le Tableau de bord est un outil de pilotage de la politique publique de l’apprentissage au niveau national et local, développé par la Mission interministérielle pour l’apprentissage. Il est accessible [ici](https://cfas.apprentissage.beta.gouv.fr/).
+Le Tableau de bord est un outil de pilotage de la politique publique de l’apprentissage au niveau national et local, développé par la Mission interministérielle pour l’apprentissage et les trajectoires professionnelles. Il est accessible [ici](https://cfas.apprentissage.beta.gouv.fr/).
 
 L’équipe du Tableau de bord travaille à collecter les données d’effectifs des organismes de formation en apprentissage, à les restituer quasiment en temps réel, à les rendre lisibles et utilisables, pour permettre aux acteurs régionaux et nationaux de mettre en place les actions utiles au développement de l’apprentissage, par exemple :  aide au fonctionnement pour les CFA, repérage et accompagnement des jeunes en situation de décrochage, faciliter la mise en relation des entreprises qui recrutent des apprentis avec les CFA du territoire, etc.
 
 ### Nous recherchons un.e  product designer pour :
 - accompagner les PO sur la recherche utilisateur
 - modéliser les parcours utilisateurs et l’architecture d’information
-- accompagner les POs sur la rédaction des spécifications
+- accompagner les PO sur la rédaction des spécifications
 - prototyper et tester les solutions proposées
 - mesurer l’impact sur les utilisateurs des solutions mises en production
 
