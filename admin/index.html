@@ -147,23 +147,26 @@
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
   <script>
       var CategoriesControl = createClass({
-        handleChange: function(e) {
-          console.log('LCS HANDLE CHANGE', e.target.value)
+        handleChange: async function(e) {
           const separator = this.props.field.get('separator', ', ')
+          const authors = await fetch('https://beta.gouv.fr/api/v2.5/authors.json').then(res => res.json())
+          this.options = authors
           this.props.onChange(e.target.value.split(separator).map((e) => e.trim()));
         },
       
         render: function() {
-          console.log('LCS RENDER CATEGORIES CONTROL')
           const separator = this.props.field.get('separator', ', ');
           var value = this.props.value;
-          return h('input', {
+          return h('select', {
             id: this.props.forID,
             className: this.props.classNameWrapper,
             type: 'text',
             value: value ? value.join(separator) : '',
             onChange: this.handleChange,
-          });
+          }, this.props.options.map(function(val, index) {
+            return h('option', {
+              key: val.id,value: val.id}, val)
+          }));
         },
       });
       
@@ -186,10 +189,10 @@
       
       CMS.registerWidget('betamembers', CategoriesControl, CategoriesPreview, schema);
   </script>
-  <script src='https://unpkg.com/@adamjkb/netlify-cms-widget-select-async/dist/index.umd.js'></script>
-  <script>
-      CMS.registerWidget(AsyncSelectWidget.Widget)
-  </script>
+  <script src='/admin/widget-select-async.js'></script>
+<script>
+    CMS.registerWidget(AsyncSelectWidget.Widget)
+</script>
 </body>
 
 </html>
