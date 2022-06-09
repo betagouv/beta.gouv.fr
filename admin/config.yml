@@ -443,6 +443,7 @@ collections:
         <<: *relation_default_options
         collection: startups
         required: false
+      # utilise @adamjkb/netlify-cms-widget-select-async en script dans le repo beta.gouv.fr
       - name: contacts
         label: Membres de la startup a contacter pour cette offre ?
         widget: select-async
@@ -451,6 +452,9 @@ collections:
         url: https://betagouv-site-pr10214.osc-fr1.scalingo.io/api/v2.5/authors.json
         value_field: id
         display_field: fullname
+        grouped_options:
+          value_field: id
+          display_field: fullname
       - label: Dans quels domaines ?
         label_singular: Domaine
         hint: "Le domaine permet de filtrer les offres"
