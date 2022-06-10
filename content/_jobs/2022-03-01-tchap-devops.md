@@ -1,7 +1,10 @@
 ---
 roles: DevOps Senior (H/F)
-startup: tchap
 open: true
+date: 2022-06-10T09:24:01.679Z
+depublication_date: 2022-06-10T09:24:01.720Z
+startup: tchap
+contacts: lucas.charrier
 domaines:
   - Développement
 ---
