@@ -19,9 +19,9 @@ indent_style = space
 indent_size = 2
 indent_style = space
 
-[js/lib/**/*]
-indent_size = none
-indent_style = none
+[**/*.js]
+indent_size = 2
+indent_style = space
 insert_final_newline = none
 
 [Gemfile.lock]
