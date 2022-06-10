@@ -1,8 +1,10 @@
 ---
 roles: Développeur.se Full Stack – 4 jours par semaine
-open: true
+open: false
 date: 2022-05-31T13:52:38.672Z
+depublication_date: 2022-06-10T13:07:56.497Z
 startup: chauffage-urbain
+contacts: nicolas.kokla
 domaines:
   - Développement
 ---
