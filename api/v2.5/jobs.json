@@ -30,6 +30,7 @@ layout: null
             , "author": "{% if job.friend %}{{ job.friend }}{% else %}{{ job.startup.title | default: 'beta.gouv.fr'}}{% endif %}"
             , "technos": "{{ job.techno }}"
             , "content": "{{ job.excerpt | strip_html | strip_newlines | escape }}"
+            , "contacts": "{{ job.contacts }}"
 
 
         }
