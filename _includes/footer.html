@@ -5,19 +5,28 @@
 <div class="fr-follow">
   <div class="fr-container">
     <div class="fr-grid-row">
-      <div class="fr-col-12">
+      <div class="fr-col-12 fr-col-md-8">
+        <div class="fr-follow__newsletter">
+          <div>
+            <h2 class="fr-h5 fr-follow__title">Gardons le contact</h2>
+            <p class="fr-text--sm fr-follow__desc">Recevez les actualités de beta.gouv, tous les mois.</p>
+            <form method="post" target="_blank" action="https://981c5932.sibforms.com/serve/MUIEAED7q5La6zVwcMrAI5cwJB2EZmeOZVHfadIeHA7u9YyGUb9FB0MqprJ1A4DbWnpORGiPSZA4yxdpLFnWbjSvsFFgYNTtd7A54LhPxK3Zg2jaB_qK-b5Sm6aZ2M6kV1nO2mpJW0KcFGIMb5KbirWUxg8CJsQJUp_AJ6ARN5PSdFNxQpzVAPXKMNs1Z7n9lgK9bMoL9fFVP_Wx" id="newsletter">
+              <button class="fr-btn fr-btn--icon-left fr-fi-external-link-line" type="submit" name="subscribe" id="form-submit" title="S'inscrire aux actualités - Nouvelle fenêtre">S’inscrire</button>
+            </form>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="fr-col-12 fr-col-md-4">
         <div class="fr-follow__social">
-          <p class="fr-h5">Suivez-nous
-            <br> sur les réseaux sociaux
-          </p>
+          <h2 class="fr-h5 fr-mb-3v fr-mb-3v">Suivez-nous<br> sur les réseaux sociaux</h2>
           <ul class="fr-btns-group fr-btns-group--lg">
             {% for item in site.data.footer.social %}
               <li>
                 <a class="fr-icon-{{ item.icon }}-fill fr-btn" href="{{ item.url }}" target="_blank" title="Profil {{ item.icon | capitalize }} de BetaGouv - nouvelle fenêtre">
-                  {{ item.icon }}
-                </a>
+                  {{ item.icon }}</a>
               </li>
-            {% endfor %}
+              {% endfor %}
           </ul>
         </div>
       </div>
