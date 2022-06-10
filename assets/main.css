@@ -564,13 +564,8 @@ h2.phase-title em {
 
 /* END SECTION CLASS */
 
-#newsletter {
-  text-align: center;
-}
-
-#newsletter input {
-  display: inline-block;
-  width: auto;
+form[target="_blank"]::after {
+  display: none;
 }
 
 .bg-white {
