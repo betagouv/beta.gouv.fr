@@ -603,3 +603,7 @@ h2.phase-title em {
 .startups {
   margin: 1rem auto;
 }
+
+.startups .fr-card__img img {
+  object-fit: cover;
+}

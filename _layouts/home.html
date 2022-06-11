@@ -36,7 +36,6 @@ layout: default
       {% assign startups = site.startups %}
       {% assign starts = "transport.data.gouv.fr,La Bonne Alternance,Pix,Mon-entreprise" | split: ","  %}
       {% for startup in startups %}
-          <!-- {{ startup.title }} -->
           {% if starts contains startup.title %}
             <div class="fr-col-12 fr-col-md-3">
               <div class="fr-card fr-enlarge-link" >
