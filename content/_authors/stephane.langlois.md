@@ -13,11 +13,10 @@ github: pntbr
 previously:
   - recosante
   - dossierSCO
-  - classeà12 
-  - lotocar
-  - labels-transition 
+  - classeà12
+  - comobi
+  - labels-transition
   - ma-cantine-egalim
 ---
 faire des trucs utiles avec des personnes enthousiastes🐾
 ·|
-

@@ -15,7 +15,7 @@ missions:
 startups:
   - datagir
 previously:
-  - lotocar
+  - comobi
   - mrs
 ---
 

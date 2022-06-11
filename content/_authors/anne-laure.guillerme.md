@@ -7,5 +7,5 @@ missions:
     end: 2019-05-31
     status: admin
 startups:
-    - lotocar
+    - comobi
 ---
