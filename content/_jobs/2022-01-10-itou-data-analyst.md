@@ -1,15 +1,17 @@
 ---
 contact: recrutement@inclusion.beta.gouv.fr
 roles: Data Analyst
-open: true
+open: false
 junior: true
 date: 2022-05-25T14:13:56.593Z
+depublication_date: 2022-06-13T07:20:34.719Z
+contacts: yannick.passarelli
+domaines:
+  - Développement
+  - Produit
 contrat: indépendant
 title: La plateforme de l'inclusion recrute un ou une data analyst
 startup: pilotage.de.linclusion
-domaines:
-    - Développement
-    - Produit
 ---
 # La plateforme de l'inclusion recrute un ou une data analyst
 
