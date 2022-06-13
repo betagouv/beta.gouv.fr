@@ -1,7 +1,7 @@
 ---
 roles: Opérateur‧ice de validation saisonnier
 startup: locatio
-open: true
+open: false
 domaines: 
   - Autre
 ---
