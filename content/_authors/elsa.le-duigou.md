@@ -2,6 +2,7 @@
 fullname: Elsa Le Duigou
 role: Chargée de déploiement
 domaine: Déploiement
+github: pouredfromamold
 missions:
   - start: 2021-02-02
     end: 2022-07-07
