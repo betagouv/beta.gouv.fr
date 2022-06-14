@@ -51,7 +51,7 @@ Vous aurez un statut de freelance ou d'auto entrepreneur‧se.
 Le rythme de travail est de 4 jours par semaine, Le télétravail est la norme mais une présence ponctuelle dans les locaux à La Défense est souhaitable lors d’ateliers et/ou réunions (test utilisateur, démonstration, rétrospective et planification). L’équipe suit une méthode agile avec des phases de retours fréquents de ses utilisateurs finaux.
 
 # Dates souhaitées
-Date de début — Dès que possible
+Date de début : 1er septembre 2022
 
 # Processus de recrutement
 1) Envoyez votre candidature (en précisant votre taux journalier moyen) : arthur@dossierfacile.fr avec en copie tristan.robert@beta.gouv.fr et harlow@dossierfacile.fr
