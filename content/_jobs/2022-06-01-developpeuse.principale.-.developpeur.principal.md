@@ -46,7 +46,7 @@ Nous recherchons une personne ayant de solides compétences techniques, en mesur
 - Participation aux séminaires bi-annuels de la communauté (sous forme de "forum ouvert")
 
 ## Modalités
-- Environnement et communauté beta.gouv : https://beta.gouv.fr/ (plus de détails ici également : charte travailler à beta-gouv)
+- Environnement et communauté beta.gouv : https://beta.gouv.fr ([découvrir la culture](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/culture))
 - Poste ouvert pour des indépendant·e·s pour une durée de 3 mois renouvelable
 - 4 à 5 jours par semaine
 - Rémunération envisagée entre 600 et 700 € HT par jour
