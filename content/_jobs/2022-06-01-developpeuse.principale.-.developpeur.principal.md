@@ -50,7 +50,7 @@ Nous recherchons une personne ayant de solides compétences techniques, en mesur
 - Poste ouvert pour des indépendant·e·s pour une durée de 3 mois renouvelable
 - 4 à 5 jours par semaine
 - Rémunération envisagée entre 600 et 700 € HT par jour
-- Démarrage en mai ou juin 2022
+- Démarrage en juillet, août ou septembre 2022
 - Télétravail à temps complet
 
 Pour candidater, envoyez-nous un e-mail à beatrice.mercier@beta.gouv.fr et antoine.augusti@beta.gouv.fr.
