@@ -1,5 +1,5 @@
 ---
-roles: Développeuse Principale - Développeur Principal
+roles: Développeuse Principale - Développeur Principal pour le service "Notifications"
 open: true
 date: 2022-06-01T14:34:06.361Z
 ---
