@@ -2,8 +2,8 @@
 contact: collectifobjets@beta.gouv.fr
 roles: Chargé.e de déploiement pour la start-up Collectif Objets
 open: true
-date: 2022-06-13T17:04:15.249Z
-depublication_date: 2022-07-31T16:56:20.951Z
+date: 2022-06-14T08:45:29.690Z
+depublication_date: 2022-08-10T16:56:20.951Z
 startup: collectif_objets
 contacts: elsa.le-duigou
 domaines:
