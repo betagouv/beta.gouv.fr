@@ -8,8 +8,10 @@ missions:
     end: 2022-09-30
     status: service
     employer: Liberté Living Lab
-startups:
+previously:
   - justif
+  - inca
+  - reva
 competences:
   - Développement Frontend
   - Développement Backend
