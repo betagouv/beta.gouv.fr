@@ -5,7 +5,7 @@ role: Chargée de déploiement
 avatar: /img/authors/sophie.garcia.png
 missions:
   - start: 2020-09-01
-    end: 2022-06-30
+    end: 2022-12-31
     status: independent
 startups:
   - itou
