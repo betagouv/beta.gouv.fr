@@ -16,8 +16,13 @@ missions:
     end: 2022-06-30
     status: independent
     employer: Codeurs en Liberté
+  - start: 2022-01-01
+    end: 2022-12-31
+    status: independent
+    employer: Codeurs en Liberté
 startups:
   - transport
+  - sit
 ---
 
 Cartographie, transports, données ouvertes
