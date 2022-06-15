@@ -5,7 +5,7 @@ role: Bizdev
 link: https://www.charlottechoplin.com
 missions:
   - start: 2021-11-08
-    end: 2022-06-30
+    end: 2022-12-31
     status: independent
     employer: Octo
 startups:
