@@ -9,7 +9,7 @@ domaines:
 
 Nous recherchons une développeuse ou un développeur back-end pour la startup [Dotations locales](https://beta.gouv.fr/startups/dotations-locales.html).
 
-Venez aider des territoires à estimer les dotations de l'État et apportez vos compétences pour rendre la législation calculable !
+Venez aider des collectivités territoriales à estimer les dotations de l'État et apportez vos compétences pour rendre la législation calculable !
 
 Vous contribuerez à construire un produit au sein d'une [équipe autonome](https://blog.beta.gouv.fr/general/2016/11/28/equipes-autonomes/) et d'une famille d'incubateurs [beta.gouv.fr](https://beta.gouv.fr/approche/).
 
@@ -21,7 +21,7 @@ Sélectionnée au cours de la [Consultation du Plan de Relance](https://mon.incu
 
 ## Missions
 
-D'un point de vue calcul, vos objectifs seront :
+D'un point de vue développement, vos objectifs seront :
 * d'appliquer des règles de calcul existantes des dotations (Python) aux données représentatives des collectivités territoriales (open data), 
 * d'analyser, avec l'appui de l'équipe, les calculs actuels de dotations de l'État,
 * de contribuer à l'amélioration du calcul des dotations sur la base du moteur ouvert et contributif [openfisca-france-dotations-locales](https://git.leximpact.dev/leximpact/openfisca-france-dotations-locales) et de la réglementation en vigueur.
@@ -29,7 +29,7 @@ D'un point de vue calcul, vos objectifs seront :
 
 De plus, vous contribuerez à :
 * l'exploration et la recherche de données ouvertes sur les collectivités territoriales,
-* la définition et à l'utilisation d'une API Web de calcul des dotations et de transmission de données brutes sur les collectivités pour les besoins d'une interface web à destination des territoires,
+* la création et l'utilisation d'une API Web de calcul des dotations et de transmission de données brutes sur les collectivités pour les besoins d'une interface web à destination des territoires,
 * la mise en production en continu du service.
 
 Enfin, vous collaborerez avec une petite équipe pluridisciplinaire et différentes institutions publiques !
@@ -38,7 +38,7 @@ Enfin, vous collaborerez avec une petite équipe pluridisciplinaire et différen
 
 - Vous avez à cœur de rendre un service de qualité qui offre des opportunités de transformation des services publics, y compris en outillant des réutilisateurs potentiellement peu à l'aise avec le numérique.
 - Vous avez une expérience en Python. Une connaissance de la librairie [Numpy](https://numpy.org) ou/et du moteur de microsimulation [OpenFisca](http://openfisca.org) est un plus.
-- Vous faites preuve d'autonomie et d'une capacité à délivrer des résultats concrets sur la base de métriques d’impact.
+- Vous faites preuve d'autonomie et d'une capacité à délivrer des résultats concrets sur la base de métriques d’impact du produit.
 - Vous êtes intéressé·e par la co-construction de produit avec les usagers et en particulier des collectivités territoriales.
 - Vous êtes intéressé·e par la collaboration des personnes métier et des équipes techniques ainsi que par les pratiques de contribution aux environnements libres (ouverture des travaux par défaut, logiciels libres, …).
 - Vous avez des notions de développement web (JavaScript).
@@ -47,7 +47,7 @@ Enfin, vous collaborerez avec une petite équipe pluridisciplinaire et différen
 ## Modalités
 
 * Poste ouvert pour un·e indépendant·e (en portage) de 4 mois (3 mois minimum).
-* Télétravail bienvenu, avec déplacements à prévoir [à Paris](https://www.openstreetmap.org/node/2353712460#map=19/48.85050/2.30844) pour participer aux sessions communes lorsque les conditions sanitaires le permettront !
+* Télétravail bienvenu, avec déplacements à prévoir [à Paris](https://www.openstreetmap.org/node/2353712460#map=19/48.85050/2.30844) pour participer à quelques sessions communes.
 * Temps partiel accepté (50 % minimum).
 * Démarrage dès que possible.
 
