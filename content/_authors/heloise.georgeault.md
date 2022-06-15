@@ -9,5 +9,4 @@ missions:
 startups:
     - le-taxi
     - mesads
-    - Registre de preuve de covoiturage
 ---
