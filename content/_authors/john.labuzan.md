@@ -7,7 +7,7 @@ avatar: https://media-exp1.licdn.com/dms/image/C5603AQHcDRJx5hX98w/profile-displ
 link: https://fair-fair.fr
 missions:
   - start: 2019-07-02
-    end: 2022-06-30
+    end: 2023-06-30
     status: independent
     employer: fair-fair.fr
 startups:
