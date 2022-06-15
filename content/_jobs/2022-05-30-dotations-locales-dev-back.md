@@ -7,10 +7,8 @@ domaines:
   - Développement
 ---
 
-Nous recherchons une développeuse ou un développeur back-end pour la startup [Dotations locales](https://beta.gouv.fr/startups/dotations-locales.html).
-
-Venez aider des collectivités territoriales à estimer les dotations de l'État et apportez vos compétences pour rendre la législation calculable !
-
+Nous recherchons une développeuse ou un développeur back-end pour la startup [Dotations locales](https://beta.gouv.fr/startups/dotations-locales.html).  
+Venez aider des collectivités territoriales à estimer les dotations de l'État et apportez vos compétences pour rendre la législation calculable !  
 Vous contribuerez à construire un produit au sein d'une [équipe autonome](https://blog.beta.gouv.fr/general/2016/11/28/equipes-autonomes/) et d'une famille d'incubateurs [beta.gouv.fr](https://beta.gouv.fr/approche/).
 
 ## Qui sommes-nous ?
