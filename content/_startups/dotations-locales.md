@@ -2,7 +2,7 @@
 mission: Évaluer le montant des dotations locales de son territoire
 incubator: anct
 repository: https://git.leximpact.dev/openfisca/openfisca-france-dotations-locales
-contact: sandra.chakroun@beta.gouv.fr
+contact: contact-dotations-locales@anct.gouv.fr
 title: Dotations locales
 sponsors: 
     - /organisations/anct
