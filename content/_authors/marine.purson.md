@@ -5,7 +5,7 @@ domaine: Autre
 github: marinepurson
 missions:
   - start: 2020-05-06
-    end: 2022-06-30
+    end: 2022-12-31
     status: admin
     employer: MTES
 startups:
