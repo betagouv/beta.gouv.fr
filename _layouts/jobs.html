@@ -20,28 +20,30 @@ menu:
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-9 fr-col-sm-12 fr-col-lg-9">
         <ul class="fr-tags-group">
-          <li>
-            <a href="/recrutement"
-               class="fr-tag"
-               {% if page.domaine == 'all' %}aria-pressed="true"{% endif %}
-            >
-              Tout
-            </a>
-          </li>
+          <form action="/recrutement">
+              <li>
+                <button class="fr-tag"
+                  {% if page.domaine == 'all' %}aria-pressed="true"{% endif %}
+                >
+                  Tout
+              </button>
+              </li>
+          </form>
 
           {% for item in layout.menu %}
-            <li>
-              <a href="/recrutement/{{ item | slugify: 'latin' }}"
-                 class="fr-tag"
-                 {% if page.domaine == item %}aria-pressed="true"{% endif %}
-              >
-                {{ item }}
-              </a>
-            </li>
+            <form action="/recrutement/{{ item | slugify: 'latin' }}">
+              <li>
+                <button class="fr-tag"
+                  {% if page.domaine == item %}aria-pressed="true"{% endif %}
+                >
+                  {{ item }}
+              </button>
+              </li>
+            </form>
           {% endfor %}
         </ul>
 
-        <div class="fr-grid-row fr-grid-row--gutters">
+        <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
           {% if page.domaine == "all" %}
             {% assign jobs = site.jobs | where: "open", 'true' | where_exp: "item", "item.depublication_date == null or item.depublication_date > site.time" |  sort: "date" | reverse %}
           {% endif %}
