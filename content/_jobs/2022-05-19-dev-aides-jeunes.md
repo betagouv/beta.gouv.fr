@@ -1,6 +1,6 @@
 ---
 roles: Dev JavaScript
-open: true
+open: false
 junior: true
 date: 2022-05-19
 techno: VueJS, Node.js
