@@ -41,7 +41,7 @@ Le télétravail est la norme mais une présence ponctuelle à Paris est souhait
 
 **Idéalement** :
 
-* vous êtes développeuse ou développeur senior front-end ou full-stack
+* vous êtes développeuse ou développeur senior full-stack avec une expertise front-end
 * vous connaissez les frameworks React et Django
 * vous portez un intérêt aux projets open source et aux politiques publiques en matière d’environnement et de transition écologique.
 
