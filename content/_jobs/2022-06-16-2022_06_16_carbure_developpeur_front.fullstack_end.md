@@ -1,6 +1,6 @@
 ---
 roles: 2022_06_16_CarbuRe_Developpeur_Front/Fullstack_End
-open: true
+open: false
 date: 2022-06-16T07:30:59.476Z
 depublication_date: 2022-06-16T07:30:59.770Z
 startup: carbure
@@ -58,10 +58,8 @@ Le télétravail est la norme mais une présence ponctuelle à Paris est souhait
 
 Statut — Freelance
 
-Modalités de travail : 4 jours par semaine, télétravail possible en majeure partie, besoin de présence ponctuelle/trimestrielle à Paris (test utilisateur, démonstration, rétrospective et planification)
-
-**TJM Max : 650€**
+Modalités de travail : 4 jours par semaine, le télétravail est la norme, dess bureaux peuvent être mis à disposition à la Défense. Besoin de présence ponctuelle/trimestrielle à Paris (test utilisateur, démonstration, rétrospective et planification)
 
 **Date de début — Juillet 2022**
 
-**Envoyer une candidature** : [carbure@beta.gouv.fr](mailto:carbure@beta.gouv.fr)
+**Envoyer une candidature** : envoyez-nous votre CV et/ou lien de votre profil LinkedIn, toute autre documentation que vous jugerez pertinente (lien vers un repo, projets passés, etc.), ainsi que votre TJM à [carbure@beta.gouv.fr](mailto:carbure@beta.gouv.fr)
