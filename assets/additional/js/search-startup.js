@@ -32,7 +32,7 @@ var createStartupCard = function (startup) {
     startupUsertypes = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupUsertypes + "</p>";
   }
   card.innerHTML = `
-        <div class="fr-card fr-enlarge-link">
+        <div class="fr-card fr-card--grey fr-enlarge-link">
             <div class="fr-card__body">
                 <h2 class="fr-card__title">
                     <a class="fr-card__link" href="/startups/${startup.id}.html" target="\_blank" rel="noopener">${startup.attributes.name}</a>

@@ -73,11 +73,11 @@ function markupForCard(params) {
   const { title, detail, content, tags, other, avatar } = params;
 
   return `
-<div class="fr-card fr-card--no-arrow fr-card__img__rounded">
+<div class="fr-card fr-card--grey">
   <div class="fr-card__body">
     <div class="fr-card__content">
       <div class="fr-card__start">
-    <h3 class="fr-card__title">
+    <h3 class="fr-card__title fr-mb-2w">
       ${title}
     </h3>
     <p class="fr-card__detail">
@@ -91,7 +91,9 @@ function markupForCard(params) {
 </div>
 <div class="fr-card__header">
   <div class="fr-card__img">
-    ${avatar}
+    <div class="avatar fr-py-2w">
+      ${avatar}
+    </div>
   </div>
 </div>
 </div>`;

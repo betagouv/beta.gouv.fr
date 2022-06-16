@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{%- assign authors = site.intras -%}
+
 <!-- {% include hero-with-image.html title=page.summary image="/img/layouts/home/index.jpg" %} -->
 
 <section class="section-blue section-main" >
@@ -184,78 +186,13 @@ layout: default
 </section>
 <section class="fr-py-6w section-white">
     <div class="fr-container">
-        <h2 class="section-title">Plus de 100 agents et 120 startups&nbsp;</h2>
-        <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
-          <div class="fr-col-6 fr-col-md-4">
-            <div class="fr-card fr-card--no-arrow fr-card__img__rounded fr-enlarge-link">
-              <div class="fr-card__body">
-                  <h3 class="fr-card__title">
-                      <a class="fr-card__link"
-                      href="https://blog.beta.gouv.fr/dinsic/2020/12/10/paroles-dintrapreneuses-9-magalie-marcel-garreau-de-la-startup-detat-signalconso/"
-                      target="_blank" rel="noopener">Magali Marcel Garreau</a>
-                  </h3>
-                  <p class="fr-card__detail">
-                    portée par le DGCCRF
-                  </p>
-                  <p class="fr-card__desc">“Notre direction générale était très impliquée dans ce projet et toute ma chaîne hiérarchique nous a fortement soutenus lorsque nous rencontrions des difficultés.”</p>
-                  <ul class="fr-tags-group">
-                    <li>
-                      <span class="fr-tag fr-tag--sm">Signal conso</span>
-                    </li>
-                  </ul>
-                </div>
-              <div class="fr-card__img">
-                <img class="lozad avatar-rounded" data-src="/assets/images/intra/magali-marcel.png" title="Magali Marcel Garreau" alt="" data-proofer-ignore>
-              </div>
-            </div>
-          </div>
-          <div class="fr-col-6 fr-col-md-4">
-            <div class="fr-card fr-card--no-arrow fr-card__img__rounded fr-enlarge-link">
-              <div class="fr-card__body">
-                  <h3 class="fr-card__title">
-                      <a class="fr-card__link"
-                      href="https://blog.beta.gouv.fr/pole-emploi/2020/07/17/paroles-dintrapreneuses-4-sylvie-lebel-de-la-startup-zen-de-pole-emploi/"
-                      target="_blank" rel="noopener">Sylvie Lebel</a>
-                  </h3>
-                  <p class="fr-card__detail">
-                    portée par Pôle Emploi
-                  </p>
-                  <p class="fr-card__desc">“Ce qui nous fait avancer, c’est de vérifier régulièrement que notre action répondait bien au problème que l’on avait constaté.”</p>
-                  <ul class="fr-tags-group">
-                    <li>
-                      <span class="fr-tag fr-tag--sm">Zen</span>
-                    </li>
-                  </ul>
-                </div>
-              <div class="fr-card__img">
-                <img class="lozad avatar-rounded" data-src="/assets/images/intra/sylvie-lebel.png" title="Sylvie Lebel" alt="" data-proofer-ignore>
-              </div>
-            </div>
-          </div>
-          <div class="fr-col-6 fr-col-md-4">
-            <div class="fr-card fr-card--no-arrow fr-card__img__rounded fr-enlarge-link">
-              <div class="fr-card__body">
-                  <h3 class="fr-card__title">
-                      <a
-                        class="fr-card__link"
-                        href="https://blog.beta.gouv.fr/dinsic/2020/09/15/paroles-dintrapreneurs-6-mathieu-gens-de-la-startup-detat-place-des-entreprises/" target="_blank" rel="noopener">Mathieu Gens</a>
-                  </h3>
-                  <p class="fr-card__detail">
-                    portée par le DGE
-                  </p>
-                  <p class="fr-card__desc">“Un passage en startup d’État c’est une formation en continu et une montée en compétence fulgurante.”</p>
-                  <ul class="fr-tags-group">
-                    <li>
-                      <span class="fr-tag fr-tag--sm">Place des entreprises</span>
-                    </li>
-                  </ul>
-                </div>
-              <div class="fr-card__img">
-                <img class="lozad avatar-rounded" data-src="/assets/images/intra/mathieu-gens.png" title="Mathieu Gens" alt="" data-proofer-ignore>
-              </div>
-            </div>
-          </div>
+      <h2 class="section-title">Plus de 100 agents et 120 startups&nbsp;</h2>
+      <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
+        {%- for author in authors -%}
+          <div class="fr-col-md-4 fr-col-12 fr-mb-2w">{%- include card-community.html author=author -%}</div>
+        {%- endfor -%}
       </div>
+
       <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-pt-6w">
         <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary"
           href="https://blog.beta.gouv.fr/">Plus de témoignages</a>
