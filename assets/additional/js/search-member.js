@@ -53,7 +53,7 @@ var createAuthorCard = function (author) {
 
   const avatar = `<img class="lozad avatar-rounded" data-src="${avatarSrc}" title="${author.fullname}" alt="" data-proofer-ignore>`;
 
-  const title = `${author.link ? '<a class="fr-card__link" href="{{ author.link }}" target="_blank" rel="noopener">' + author.fullname + "</a>" : author.fullname}`;
+  const title = author.link ? `<a class="fr-card__link" href="${ author.link }" target="_blank" rel="noopener">${author.fullname}</a>` : author.fullname;
   const detail = isAlumnus ? "Alumnus" : author.role;
   const content = author.content || "";
   const tags = totalStartups.map(createStartupTag).join("");

@@ -19,7 +19,7 @@
       <div class="fr-card__start">
         <h4 class="fr-card__title fr-mb-2w">
           {% if author.link %}
-            <a href="{{ author.link }}">{{ author.fullname }}</a>
+            <a href="{{ author.link }}" target="_blank" rel="noopener">{{ author.fullname }}</a>
           {% else %}
             {{ author.fullname }}
           {% endif %}
