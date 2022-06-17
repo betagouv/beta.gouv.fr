@@ -6,7 +6,7 @@ link: https://quentinpetel.fr
 github: QuentinPetel
 missions:
   - start: 2022-02-01
-    end: 2022-06-30
+    end: 2023-07-30
     status: independent
     employer: ut7
 startups:
