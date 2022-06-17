@@ -10,7 +10,7 @@
         <a class="fr-card__link" href="{{ startup.url }}" >{{ startup.title | strip_html }}</a>
       </h2>
       {%- if startup.sponsors -%}
-      <p class="fr-card__detail" style="z-index: 10;position: relative;">
+      <p class="fr-card__detail">
       {%- for sponsorId in startup.sponsors -%}
         {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
         {% if forloop.index > 1 %} / {% endif %}<abbr title="{{sponsor.name}}">{{sponsor.acronym}}</abbr>
