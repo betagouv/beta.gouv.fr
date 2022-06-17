@@ -209,6 +209,7 @@ hr {
   width: auto;
   margin: auto;
   max-width: 50%;
+  aspect-ratio: auto;
 }
 
 /* Ajouter un modificateur de tags pour les rendre inactifs */
