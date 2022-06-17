@@ -31,14 +31,16 @@ layout: default
       <div class="fr-grid-row fr-grid-row--gutters">
           {% for metric in page.metrics %}
           <div class="fr-col-md-3 fr-col-12">
-            <div class="fr-card fr-card--no-arrow">
+            <div class="fr-card fr-card--no-arrow fr-card--grey">
               <div class="fr-card__body">
-                <h1 class="text-center">
-                  {{ metric.value }}
-                </h1>
-                <p class="fr-card__desc text-center">
-                  {{ metric.text }}<br>
-                </p>
+                <div class="fr-card__content">
+                  <h3 class="fr-card__title text-center">
+                    {{ metric.value }}
+                  </h3>
+                  <p class="fr-card__desc text-center">
+                    {{ metric.text }}
+                  </p>
+                </div>
               </div>
             </div>
           </div>
@@ -47,21 +49,17 @@ layout: default
       <div class="fr-grid-row fr-grid-row--gutters fr-mt-2w">
         {% for product in page.verbatims %}
           <div class="fr-col-md-6 fr-col-12">
-            <div class="fr-card fr-card--horizontal fr-card--no-arrow">
+            <div class="fr-card fr-card--no-arrow fr-card--grey">
               <div class="fr-card__body">
-                <h4 class="fr-card__title">
-                    {{ product.text }}
-                </h4>
-                <p class="fr-card__detail">
-                  <b>{{ product.name }}</b><br>
-                  {{ product.job }}
-                </p>
-              </div>
-              <div class="fr-card__img text-center" style="width: 20%;
-              vertical-align: middle;
-              align-content: center;
-              justify-content: center;">
-                <i class="ri-chat-quote-line" style="font-size: 40px;"></i>
+                <div class="fr-card__content">
+                    <h3 class="fr-card__title">
+                        {{ product.text }}
+                    </h3>
+                    <p class="fr-card__desc">
+                      {{ product.name }}<br>
+                      {{ product.job }}
+                    </p>
+                </div>
               </div>
             </div>
           </div>
