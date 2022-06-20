@@ -33,7 +33,7 @@ Vous aurez pour mission de contribuer au développement stratégique et opérati
 * Produire et suivre des statistiques liées à l'utilisation du produit numérique ;
 * Adapter les actions en fonction des analytics et webanalytics produit en lien avec l'équipe de développeurs.
 
-### Marketing
+### Relations utilisateurs
 
 * Entretenir la relation avec les utilisateurs (gestion du support utilisateur, enquêtes de satisfaction, recueil des besoins, etc) ;
 * Gérer et entretenir la relation avec les partenaires actuels (fédérations professionnelles, gestionnaires de réseau ...) ;
