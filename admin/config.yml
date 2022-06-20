@@ -1,7 +1,7 @@
 locale: fr
 
 backend:
-  name: git-gateway
+  name: github
   branch: master
   repo: betagouv/beta.gouv.fr
   base_url: https://betagouv-cms-auth.osc-secnum-fr1.scalingo.io
@@ -13,7 +13,7 @@ backend:
     deleteMedia: Suppression de l'image {{path}}
   squash_merges: true
   open_authoring: true
-  use_graphql: false
+  use_graphql: true
 
 # Permet d'expérimenter en local
 # cf. https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
