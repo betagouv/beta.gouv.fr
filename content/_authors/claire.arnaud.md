@@ -2,7 +2,7 @@
 fullname: Claire ARNAUD
 role: Product Designer
 domaine: Design
-link: http://clairearnaud.com/
+link:
 missions:
   - start: 2022-04-11
     end: 2022-12-31
@@ -10,6 +10,8 @@ missions:
     employer: UT7
 startups:
   - la-bonne-alternance
+  - matcha
+  - rdv.apprentissage
 ---
 
 Product Designer
