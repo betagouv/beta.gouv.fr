@@ -5,7 +5,7 @@ role: Développeur
 github: yannickjacqueline
 missions:
   - start: 2021-04-12
-    end: 2022-06-30
+    end: 2022-07-31
     status: service
     employer: DINUM
 startups:
