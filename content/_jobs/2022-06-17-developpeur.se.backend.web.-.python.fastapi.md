@@ -13,20 +13,21 @@ domaines:
 
 Le champ de l’insertion sociale et professionnelle, et en particulier le domaine de l’accompagnement des usagers, se caractérise par une multiplicité et une grande diversité d’acteurs. La mauvaise connaissance et l’absence de partage de certaines données ne permettent pas aux professionnels de procéder à une bonne évaluation des situations des usagers et un suivi optimal des parcours. Plus précisément, deux problématiques émergent :
 
-L’impossibilité pour les accompagnateurs d’avoir une information claire sur les personnes ;
-La difficulté pour les personnes à comprendre et à transmettre les informations sur leur parcours.
+- L’impossibilité pour les accompagnateurs d’avoir une information claire sur les personnes ;
+- La difficulté pour les personnes à comprendre et à transmettre les informations sur leur parcours.
 
 ## Le produit
 
 Dans ce contexte, comment amplifier la coordination des professionnels autour du parcours de la personne en insertion pour rendre plus efficient son accompagnement ?
+
 Notre solution:
-Développer l’outil Carnet de bord  qui centralise les données essentielles du parcours en une seule page. Il regroupe l’information dans un espace sécurisé permettant un échange accru des données essentielles, entre les accompagnateurs et le bénéficiaire afin d’amplifier la coordination et fluidifier le parcours d’un usager !
+Développer l’outil **Carnet de bord** qui centralise les données essentielles du parcours en une seule page. Il regroupe l’information dans un espace sécurisé permettant un échange accru des données essentielles, entre les accompagnateurs et le bénéficiaire afin d’amplifier la coordination et fluidifier le parcours d’un usager !
 
 Plus d’infos sur[ l'équipe et la fiche produit](https://beta.gouv.fr/startups/carnet.de.bord.html)
 
 ## La mission
 
-Tu es responsable des développements back et assures la mise en place des outils de déploiement, d’intégration continue, de tests et de monitoring
+Tu es responsable des développements back et assures la mise en place des outils de déploiement, d’intégration continue, de tests et de monitoring.
 
 Tu prends part à la conception du produit en collaboration avec le reste de l’équipe et tu participes activement à la définition des priorités d’évolution du produit, en lien avec les besoins des utilisateurs.
 
@@ -34,9 +35,9 @@ Tu prends part à la conception du produit en collaboration avec le reste de l�
 
 * Maîtriser le backend de la conception aux mises en production, et le maintenir à un excellent standard de qualité
 * Implémenter la logique de nouvelles fonctionnalités du produit, en lien avec l’équipe produit
-* Développer les API pour alimenter les applications des autre startup d’état ou des logiciels métiers, en lien avec les besoins frontend
+* Développer les API pour alimenter les applications des autres startups d’état ou des logiciels métier, en lien avec les besoins frontend
 * S’assurer d’une couverture de tests optimale
-* Travailler dans un environnement d’intégration et de déploiement continus
+* Travailler dans un environnement d’intégration et de déploiement continu
 * Mettre en place et suivre des métriques d’utilisation des fonctionnalités
 * Mener des projets d’intégration avec des partenaires techniques (ex. : Départements, DSI de Pôle emploi, Service numérique de l’état, autres startups...)
 * Améliorer l’existant (enrichir des fonctionnalités, pérenniser et passer l’architecture à l’échelle, optimiser les temps de réponse)
@@ -47,7 +48,7 @@ Tu prends part à la conception du produit en collaboration avec le reste de l�
 
 * Back : FastAPI, Python 3, PostgreSQL 11, Hasura
 * Front : Svelte
-* Ops : Docker Compose, PaaS, CleverCloud
+* Ops : Docker Compose, PaaS
 
 ## Compétences
 
@@ -59,9 +60,9 @@ Tu prends part à la conception du produit en collaboration avec le reste de l�
 
 ## Environnement de travail
 
-Vous travaillerez au sein d’une équipe composée de : 2 PM/PO 2 développeurs, 2 business developers, 1 designer UX/UI.
+Vous travaillerez au sein d’une équipe composée de : 2 PM/PO, 2 développeurs, 2 business developers, 1 designer UX/UI.
 
-L’équipe est dispersée à travers la France et travaille à distance (standup quotidien en visioconférence).
+L’équipe est répartie à travers la France et travaille à distance en mode produit / agile / lean (standup quotidien en visioconférence).
 
 Charge : 4/5e
 Durée : 6 mois renouvelables
@@ -72,7 +73,7 @@ Pour candidater, envoyez-nous un e-mail à jeremy.bujet@beta.gouv.fr et laetitia
 
 N’hésitez pas à nous partager :
 
-Vos motivations pour rejoindre l’équipe
-Votre CV ou un lien vers votre profil LinkedIn
-Un lien vers votre profil GitHub / Gitlab ou certaines de vos réalisations qui vous semblent pertinentes
+- Vos motivations pour rejoindre l’équipe
+- Votre CV ou un lien vers votre profil LinkedIn
+- Un lien vers votre profil GitHub / Gitlab ou certaines de vos réalisations qui vous semblent pertinentes
 Nous avons hâte de vous lire et d’échanger avec vous !
