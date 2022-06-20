@@ -1,6 +1,6 @@
 ---
 roles: 2022_06_16_CarbuRe_Developpeur_Front/Fullstack_End
-open: false
+open: true
 date: 2022-06-16T07:30:59.476Z
 depublication_date: 2022-06-16T07:30:59.770Z
 startup: carbure
@@ -14,17 +14,16 @@ La direction générale de l’énergie et du climat (DGEC) a pour mission d’�
 
 Le projet CarbuRe est né fin 2019 sous l'impulsion d'un intrapreneur agent public dans le but d'établir une plateforme nationale de **traçabilité des flux de biocarburants.**
 
-Composée d'un intrapreneur, d'un développeur et d'un coach, cette petite équipe a pour ambition d'améliorer les pratiques de la filière des biocarburants **en facilitant les démarches de déclarations de durabilité** pour permettre un meilleur contrôle de la filière.
+Composée d'un intrapreneur, de deux développeurs et d'un coach, cette petite équipe a pour ambition d'améliorer les pratiques de la filière des biocarburants **en facilitant les démarches de déclarations de durabilité** pour permettre un meilleur contrôle de la filière.
 
 # [](https://github.com/betagouv/beta.gouv.fr/blob/master/content/_jobs/2020-07-29-CARBURE_DeveloppeurFrontEnd.md#le-produit)Le produit
 
 Le produit [CarbuRe](https://carbure.beta.gouv.fr/) est en amélioration constante avec des représentants de tous les maillons de la filière : des **producteurs** de biocarburants, des **opérateurs** pétroliers ainsi que des **agents du Ministère de la Transition Écologique** (MTE).
 
 * CarbuRe propose **une numérisation de l'Attestation de Durabilité** : un document transmis par les producteurs de biocarburants auprès de leurs clients afin d'attester que la matière première ne provient **pas de terres déforestées** et que l'empreinte carbone totale du biocarburant est d'**au moins 50% inférieure** à celle d'un carburant fossile équivalent.
-* Les opérateur pétroliers n'ont plus qu'à accepter les Attestations de Durabilité de leurs fournisseurs pour **effectuer leur Déclaration de Durabilité** auprès de la DGEC.
+* Les opérateurs pétroliers n'ont plus qu'à accepter les Attestations de Durabilité de leurs fournisseurs pour **effectuer leur Déclaration de Durabilité** auprès de la DGEC.
 * Les intermédiaires et négociants peuvent également utiliser CarbuRe pour envoyer et recevoir les informations de durabilité.
 * L'ensemble des données ainsi recueillies apporte une vision en temps réel de la filière. L'analyse automatique de ces données permet de **détecter les erreurs et les fraudes** plus facilement ainsi que d'effectuer des contrôles ciblés. Plus globalement, la traçabilité de la filière s'en trouve nettement améliorée.
-* Nous souhaitons accélérer le développement de notre produit en accueillant un.e développeur.se supplémentaire.
 
 # [](https://github.com/betagouv/beta.gouv.fr/blob/master/content/_jobs/2020-07-29-CARBURE_DeveloppeurFrontEnd.md#modalit%C3%A9s-de-travail)Modalités de travail
 
@@ -47,7 +46,7 @@ Le télétravail est la norme mais une présence ponctuelle à Paris est souhait
 
 *Missions*
 
-* Participation au développement de la plateforme, en lien avec le développeur déjà présent sur le projet : reprise du code et prise en main du backlog, participation à l’architecture et poursuite du développement des plateformes web front et back-end
+* Participation au développement de la plateforme, en lien avec les développeurs déjà présents sur le projet : reprise du code et prise en main du backlog, participation à l’architecture et poursuite du développement des plateformes web front et back-end
 * Amélioration visuelle de l'interface
 * Optimisation du parcours et de l’expérience utilisateur
 * Mise en place et maintenance de tests automatisés
@@ -58,7 +57,7 @@ Le télétravail est la norme mais une présence ponctuelle à Paris est souhait
 
 Statut — Freelance
 
-Modalités de travail : 4 jours par semaine, le télétravail est la norme, dess bureaux peuvent être mis à disposition à la Défense. Besoin de présence ponctuelle/trimestrielle à Paris (test utilisateur, démonstration, rétrospective et planification)
+Modalités de travail : 4 jours par semaine, le télétravail est la norme, des bureaux peuvent être mis à disposition à la Défense. Besoin de présence ponctuelle/trimestrielle à Paris (test utilisateur, démonstration, rétrospective et planification)
 
 **Date de début — Juillet 2022**
 
