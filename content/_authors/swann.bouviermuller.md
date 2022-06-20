@@ -20,6 +20,10 @@ missions:
     end: 2022-08-31
     status: independent
     employer: Little Big Connection
+  - start: 2021-09-01
+    end: 2022-12-31
+    status: independent
+    employer: Little Big Connection
 startups:
   - sparte
 ---
