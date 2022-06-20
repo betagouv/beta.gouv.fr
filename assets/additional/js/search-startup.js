@@ -21,7 +21,7 @@ var createStartupCard = function (startup) {
     })
     .join(" / ");
   if (startupSponsors) {
-    startupSponsors = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupSponsors + "</p>";
+    startupSponsors = '<p class="fr-card__detail">' + startupSponsors + "</p>";
   }
   var startupUsertypes = startup.attributes.usertypes
     .map((usertype) => {
@@ -29,13 +29,13 @@ var createStartupCard = function (startup) {
     })
     .join(" / ");
   if (startupUsertypes) {
-    startupUsertypes = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupUsertypes + "</p>";
+    startupUsertypes = '<p class="fr-card__detail">' + startupUsertypes + "</p>";
   }
   card.innerHTML = `
-        <div class="fr-card fr-enlarge-link">
+        <div class="fr-card fr-card--grey fr-enlarge-link">
             <div class="fr-card__body">
                 <h2 class="fr-card__title">
-                    <a class="fr-card__link" href="/startups/${startup.id}.html" target="\_blank" rel="noopener">${startup.attributes.name}</a>
+                    <a class="fr-card__link" href="/startups/${startup.id}.html">${startup.attributes.name}</a>
                 </h2>
                 ${startupSponsors}
                 <p class="fr-card__desc">${startup.attributes.pitch}</p>
