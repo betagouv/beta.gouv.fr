@@ -16,9 +16,6 @@ site.lang | default: "fr" -%}
 
 {%- assign authors = site.authors | where_exp: "author", "brigade_fullnames contains author.fullname" -%}
 
-{%- include hero-page.html title=page.title -%}
-
-
 <section class="section-blue section-main">
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
