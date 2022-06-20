@@ -3,7 +3,6 @@ locale: fr
 backend:
   name: github
   branch: master
-  api_root: https://api.github.com
   repo: betagouv/beta.gouv.fr
   base_url: https://betagouv-cms-auth.osc-secnum-fr1.scalingo.io
   commit_messages:
