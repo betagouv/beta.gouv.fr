@@ -1,7 +1,7 @@
 locale: fr
 
 backend:
-  name: github
+  name: git-gateway
   branch: master
   repo: betagouv/beta.gouv.fr
   base_url: https://betagouv-cms-auth.osc-secnum-fr1.scalingo.io
