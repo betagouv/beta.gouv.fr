@@ -5,7 +5,7 @@ role: UX Designer
 github: ophelam
 missions:
   - start: 2021-05-27
-    end: 2022-06-30
+    end: 2023-01-30
     status: service
     employer: Benext
 startups:
