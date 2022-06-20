@@ -3,8 +3,9 @@ locale: fr
 backend:
   name: github
   branch: master
-  api_root: https://api.github.com
   repo: betagouv/beta.gouv.fr
+  api_root: https://api.github.com
+  auth_scope: repo
   base_url: https://betagouv-cms-auth.osc-secnum-fr1.scalingo.io
   commit_messages:
     create: Création de {{slug}} dans {{collection}} !
@@ -12,9 +13,10 @@ backend:
     delete: Suppression de {{slug}} dans {{collection}}
     uploadMedia: Nouvelle image {{path}}
     deleteMedia: Suppression de l'image {{path}}
-  squash_merges: true
   open_authoring: true
-  use_graphql: false
+  always_fork: true
+  squash_merges: true
+  use_graphql: true
 
 # Permet d'expérimenter en local
 # cf. https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
