@@ -5,6 +5,7 @@ backend:
   branch: master
   repo: betagouv/beta.gouv.fr
   api_root: https://api.github.com
+  auth_scope: repo
   base_url: https://betagouv-cms-auth.osc-secnum-fr1.scalingo.io
   commit_messages:
     create: Création de {{slug}} dans {{collection}} !
