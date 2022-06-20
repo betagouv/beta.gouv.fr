@@ -1,7 +1,10 @@
 ---
 roles: Opérateur‧ice de validation
+open: false
+date: 2022-06-20T08:03:33.249Z
+depublication_date: 2022-06-20T08:03:33.268Z
 startup: locatio
-open: true
+contacts: arthur.hatchuel
 domaines:
   - Autre
 ---
