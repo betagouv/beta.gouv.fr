@@ -7,7 +7,6 @@ $.ajax("/api/v2.5/startups.json").done(function (response) {
   const attributesValues = {};
   for (const item of response.data) {
     const startup = item.attributes;
-    console.log("startup", startup)
     for (const attribute of ATTRIBUTES_PRESENCE) {
       if (!startup.hasOwnProperty(attribute) || !startup[attribute])
         continue;
@@ -45,6 +44,9 @@ $.ajax("/api/v2.5/startups.json").done(function (response) {
               'rgb(255, 99, 132)'
             ],
           }]
+        },
+        options: {
+          maintainAspectRatio: false,
         }
       }
     );
@@ -58,13 +60,16 @@ $.ajax("/api/v2.5/startups.json").done(function (response) {
         data: {
           labels: orderedAttributes,
           datasets: [{
-            data: orderedAttributes.map(key => attributesValues[key]),
+            data: orderedAttributes.map(key => attributesValues[attribute][key]),
             backgroundColor: [
               'rgb(255, 99, 132)',
               'rgb(54, 162, 235)',
               'rgb(99, 255, 132)',
             ],
           }]
+        },
+        options: {
+          maintainAspectRatio: false,
         }
       }
     );

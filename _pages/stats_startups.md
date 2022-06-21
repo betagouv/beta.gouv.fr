@@ -10,20 +10,26 @@ additional_js:
 
 ## Startups d'état publiant leur budget
 
-<canvas id="budget_url"></canvas>
+<div class="canvas-wrapper"><canvas id="budget_url"></canvas></div>
 
 ## Startups d'état publiant leur statistiques d'usage
 
-<canvas id="stats_url"></canvas>
+<div class="canvas-wrapper"><canvas id="stats_url"></canvas></div>
 
 ## Startups d'état publiant leur suivi des bonnes pratiques
 
-<canvas id="dashlord_url"></canvas>
+<div class="canvas-wrapper"><canvas id="dashlord_url"></canvas></div>
 
 ## Startups ayant réalisé leur analyse des risques
 
-<canvas id="analyse_risques"></canvas>
+<div class="canvas-wrapper"><canvas id="analyse_risques"></canvas></div>
 
 ## Startups ayant réalisé leur évaluation d'accessibilité
 
-<canvas id="accessibility_status"></canvas>
+<div class="canvas-wrapper"><canvas id="accessibility_status"></canvas></div>
+
+<style>
+.canvas-wrapper {
+  height: 300px;
+}
+</style>

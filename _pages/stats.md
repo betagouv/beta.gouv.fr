@@ -32,4 +32,3 @@ Les indicateurs utilisés sont…
 ## 7. Nombre d'intrapreneurs formés à la méthode Startup d'État
 
 <canvas id="agent"></canvas>
-
