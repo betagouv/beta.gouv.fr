@@ -1,5 +1,5 @@
 ---
-roles: 2022_06_16_CarbuRe_Developpeur_Front/Fullstack_End
+roles: CarbuRe recrute un·e Dev fullstack
 open: true
 date: 2022-06-20T07:30:59.476Z
 depublication_date: 2022-07-05T07:30:59.770Z
