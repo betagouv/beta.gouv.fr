@@ -14,6 +14,7 @@ missions:
     end: 2022-10-31
 startups:
   - dora
+  - data-inclusion
 previously:
   - itou
   - la-bonne-alternance
