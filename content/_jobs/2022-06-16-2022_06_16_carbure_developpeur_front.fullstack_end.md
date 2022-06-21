@@ -1,8 +1,8 @@
 ---
 roles: 2022_06_16_CarbuRe_Developpeur_Front/Fullstack_End
 open: true
-date: 2022-06-16T07:30:59.476Z
-depublication_date: 2022-06-16T07:30:59.770Z
+date: 2022-06-20T07:30:59.476Z
+depublication_date: 2022-07-05T07:30:59.770Z
 startup: carbure
 contacts: anna.louis
 domaines:
