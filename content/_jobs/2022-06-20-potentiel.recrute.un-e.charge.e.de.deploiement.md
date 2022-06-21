@@ -2,8 +2,8 @@
 roles: Potentiel recrute un.e chargé·e de déploiement
 open: true
 junior: true
-date: 2022-06-20T12:18:54.272Z
-depublication_date: 2022-06-20T12:18:54.288Z
+date: 2022-06-21T12:18:54.272Z
+depublication_date: 2022-08-31T12:18:54.288Z
 startup: potentiel
 contacts: delphine.raymond
 domaines:
