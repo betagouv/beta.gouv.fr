@@ -2,6 +2,7 @@
 fullname: Maël Thomas
 role: Développeur […]
 domaine: Développement
+github: laem
 link: https://github.com/laem
 missions:
   - start: 2015-10-01
