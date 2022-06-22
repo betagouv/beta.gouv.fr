@@ -10,6 +10,7 @@ missions:
     employer: NUMA
 startups:
   - apilos
+  - collectif_objets
 badges:
   - segur
 competences:
