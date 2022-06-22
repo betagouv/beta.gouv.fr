@@ -613,7 +613,3 @@ h2.phase-title em {
 .startups .fr-card__img img {
   object-fit: cover;
 }
-
-form[target="_blank"]::after {
-  display: none;
-}
