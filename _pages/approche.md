@@ -20,7 +20,7 @@ title: Découvrir le programme
       <img
          class='fr-my-6w'
          src="/img/programme/programme.svg"
-         alt="Le programme Beta.gouv.fr se déroule en 4 étapes : investigation, construction, accélération puis transfert."
+         alt="Le programme se déroule en 4 étapes : investigation, construction, accélération puis transfert."
         />
    </div>
 </div>
@@ -78,7 +78,7 @@ title: Découvrir le programme
       <div class="fr-col-md-4 fr-col-12">
          <img
             src="/img/programme/investigation.svg"
-            alt="Illustration identifier le problème à résoudre"
+            alt=""
           />
       </div>
       <div class="fr-col-md-8 fr-px-4w fr-col-12">
@@ -105,7 +105,7 @@ title: Découvrir le programme
       <div class="fr-col-md-4 fr-col-12">
          <img
             src="/img/programme/realisation.svg"
-            alt="Illustration réaliser un service public numérique"
+            alt=""
           />
       </div>
       <div class="fr-col-md-8 fr-px-4w fr-col-12">
@@ -142,7 +142,7 @@ title: Découvrir le programme
    <div class="fr-col-md-4 fr-col-12">
       <img
          src="/img/alpha/alpha-first-session-solo.jpeg"
-         alt="Illustration réaliser un service public numérique"
+         alt=""
         />
    </div>
    <div class="fr-col-md-8 fr-px-4w fr-col-12">
