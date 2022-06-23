@@ -28,7 +28,11 @@ layout: default
 {% assign content = split_by_ul | join: '<ul class="fr-pl-4w"' %}
 
 {% capture incubator_info %}
+{% if phase.status == 'success' %}
+L'équipe a été portée par <a href="/startups/?incubateur={{ incubator_id | remove: '/incubators/' }}" title="{{ incubator.title }}">{{ incubator.title }}</a>
+{% else %}
 L'équipe est portée par <a href="/startups/?incubateur={{ incubator_id | remove: '/incubators/' }}" title="{{ incubator.title }}">{{ incubator.title }}</a>
+{% endif %}
 {% endcapture %}
 
 {% capture sponsor_info %}
