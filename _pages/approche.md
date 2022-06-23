@@ -20,7 +20,7 @@ title: Découvrir le programme
       <img
          class='fr-my-6w'
          src="/img/programme/programme.svg"
-         alt="Le programme Beta.gouv.fr se déroule en 4 étapes : investigation, construction, accélération puis transfert."
+         alt="Le programme se déroule en 4 étapes : investigation, construction, accélération puis transfert."
         />
    </div>
 </div>
@@ -78,7 +78,7 @@ title: Découvrir le programme
       <div class="fr-col-md-4 fr-col-12">
          <img
             src="/img/programme/investigation.svg"
-            alt="Illustration identifier le problème à résoudre"
+            alt=""
           />
       </div>
       <div class="fr-col-md-8 fr-px-4w fr-col-12">
@@ -91,7 +91,7 @@ title: Découvrir le programme
          </p>
          <div class="fr-mb-4w fr-p-1w fr-col-md-6 fr-col-sm-12 fr-mt-2w section-grey" >
             <span aria-hidden="true">📅</span> Pendant <b>1 à 2 mois </b><br>
-            <span aria-hidden="true">✋</span> <a href="/devenir-intrapreneur">L’intra</a> accompagné d’un ou d’une coach
+            <span aria-hidden="true">✋</span> L’intra accompagné d’un ou d’une coach
          </div>
          <p>Décideur public, vous voulez lancer une investigation avec nous?</p>
         <div class="fr-btns-group fr-btns-group--inline">
@@ -105,7 +105,7 @@ title: Découvrir le programme
       <div class="fr-col-md-4 fr-col-12">
          <img
             src="/img/programme/realisation.svg"
-            alt="Illustration réaliser un service public numérique"
+            alt=""
           />
       </div>
       <div class="fr-col-md-8 fr-px-4w fr-col-12">
@@ -127,7 +127,7 @@ title: Découvrir le programme
          </p>
          <div class="fr-mb-4w fr-p-1w fr-col-md-8 fr-col-sm-12 fr-mt-2w section-grey">
             <span aria-hidden="true">📅</span> Pendant <b>18 à 32 mois</b><br>
-            <span aria-hidden="true">✋</span> Avec <a href="/devenir-intrapreneur">l’intra</a>, son ou sa coach et une équipe d’experts
+            <span aria-hidden="true">✋</span> L’intra, son ou sa coach et une équipe d’experts
          </div>
          <p>Décideur public, vous voulez réaliser un service public numérique ?</p>
          <div class="fr-btns-group fr-btns-group--inline">
@@ -142,7 +142,7 @@ title: Découvrir le programme
    <div class="fr-col-md-4 fr-col-12">
       <img
          src="/img/alpha/alpha-first-session-solo.jpeg"
-         alt="Illustration réaliser un service public numérique"
+         alt=""
         />
    </div>
    <div class="fr-col-md-8 fr-px-4w fr-col-12">
@@ -163,7 +163,7 @@ title: Découvrir le programme
 const nousecrireinvestigation = document.querySelector('#btn-nous-ecrire-investigation')
 const nousecrire = document.querySelector('#btn-nous-ecrire')
 const decouvririnvestigation = document.querySelector('#btn-decouvrir-investigation')
-const decouvrirconstruction = document.querySelector('#btn-decouvrir-construction') 
+const decouvrirconstruction = document.querySelector('#btn-decouvrir-construction')
 nousecrireinvestigation.addEventListener('click', function () {
       _paq.push(['trackEvent', 'conversion', 'Click nous ecrire'])
     })

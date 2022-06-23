@@ -7,7 +7,10 @@ incubator: mtes
 link: https://zerologementvacant.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/zero-logement-vacant
 contact: henry.ciesielski@developpement-durable.gouv.fr
-stats: false
+usertypes:
+  - collectivite-territoriale
+stats: true
+dashlord_url: ""
 events: []
 phases:
   - name: investigation
@@ -15,8 +18,6 @@ phases:
     end: ""
   - name: construction
     start: 2020-07-03
-usertypes:
-  - collectivite-territoriale
 ---
 ## Le problème
 
@@ -34,33 +35,28 @@ Les aides et dispositifs d’accompagnement des propriétaires sont nombreux pou
 
 Zero Logement Vacant aide les collectivités à mobiliser les propriétaires de logements vacants de longue durée (qui n’engagent pas de démarches par eux-même) pour les faire entrer dans un programme de remise sur le marché (financement de travaux, intermédiation locative…). 
 
-La première version de la solution numérique Zéro Logement Vacant, permet aux collectivités et à leurs partenaires (opérateurs Anah, ADIL…) : 
+Zéro Logement Vacant, permet aux collectivités et à leurs partenaires (opérateurs Anah, ADIL…) : 
 
 * de repérer les logements vacants sur leur territoire grâce aux [données LOVAC](https://datafoncier.cerema.fr/lovac) (données de la taxe d’habitation sur les logements vacants croisées avec les fichiers fonciers)
 * de cibler des logements prioritaires et de les suivre dans le temps. 
 * d’entrer en contact avec leurs propriétaires, en adaptant les offres et les arguments aux différentes situations rencontrées (spécificités du territoire, type de logement et de propriétaire).
 
-Elle est aujourd’hui utilisée par 30 collectivités. 
-
-#### Voir la [politique de confidentialité](https://zlv.notion.site/Politique-de-confidentialit-bb23ade15fc442fbbc3976a4ef840c76)
+Elle est aujourd’hui utilisée par 65 collectivités. 
 
 ## Notre stratégie de construction
 
 La première version de la solution a été développée à partir du logiciel SaaS Airtable. Proposée à 30 collectivités volontaires, cette première version a permis de valider, d’une part, l’intérêt et l’usage de la solution par les collectivités et, d’autre part, sa capacité à mobiliser des propriétaires qui n’auraient pas entamé de démarches par eux-mêmes. 
 
-Notre objectif est désormais d’augmenter le nombre de propriétaires mobilisés pour réduire le nombre de logements vacants sur l’ensemble du territoire. 
+Une 2ème phase de construction a permis de lancer une nouvelle version, plus efficace et simple à prendre en main pour les collectivités et qui peut être déployée à grande échelle.
 
-Une 2ème phase de construction vise à lancer une nouvelle version, plus efficace et simple à prendre en main pour les collectivités et qui puisse être déployée à grande échelle.
+Notre objectif est désormais d’augmenter le nombre de logements accompagnés et d'améliorer la qualité de l'accompagnement pour réduire le nombre de logements vacants sur l’ensemble du territoire. 
 
-## Objectifs et indicateurs pour juin 2022
+## Objectifs et indicateurs pour décembre 2022
 
-Nous souhaitons, à horizon juin 2022, pouvoir proposer la solution à toutes les collectivités qui en font la demande. Pour arriver à cet objectif, nous souhaitons organiser une croissance progressive et atteindre les indicateurs suivants : 
+Nous souhaitons, en 2022, pouvoir proposer la solution à toutes les collectivités qui en font la demande tout en l'améliorant. Pour arriver à cet objectif, nous souhaitons nous concentrer sur trois chantiers : 
 
-* 60 collectivités utilisatrices
-* 30 000 propriétaires contactés
-* 10 000 retours
-* 1500 propriétaires mobilisés.
+* **Renforcer l'accompagnement** : augmenter la fréquence et l'efficacité des campagnes de courriers, augmenter le taux de propriétaires qui bénéficie d'un accompagnement suite à un premier contact avec la collectivité. 
+* **Évaluer l'efficacité des aides** : mesurer les aides proposées et leur niveau de succès, faire des recommandations d'accompagnement en fonction des situations.  
+* **Anticiper la vacance future** : promouvoir de façon ciblée les dispositifs d’aide à la remise et au maintien sur le marché des passoires thermiques. 
 
-Nous souhaitons également mesurer et comprendre le potentiel écart entre le nombre de propriétaires mobilisés et le nombre de logements remis sur le marché. Derrière cet indicateur, nous souhaiterions pouvoir répondre à la question : dès lors qu’il y a un intérêt d’un propriétaire pour la remise sur le marché de son logement, quels sont les obstacles qui font que ça n’aboutit pas ? 
-
-Vous avez une idée ? Une question ? N’hésitez pas à nous écrire à zlv@beta.gouv.fr
+Vous avez une idée ? Une question ? N’hésitez pas à nous écrire à contact@zerologementvacant.beta.gouv.fr

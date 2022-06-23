@@ -4,6 +4,8 @@ open: true
 date: 2022-05-16
 techno: Ruby on Rails
 startup: lapins
+domaines:
+  - Développement
 ---
 
 L'équipe [RDV-Solidarités](https://beta.gouv.fr/startups/lapins.html) recherche **un·e dev Ruby on Rails** pour faciliter l'utilisation de la plateforme dans le cadre de la mission [Data.insertion](https://beta.gouv.fr/startups/data.insertion.html).

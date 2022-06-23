@@ -4,7 +4,7 @@ mission: Faciliter la vie des personnes en insertion et de celles et ceux qui
   les accompagnent
 sponsors:
   - /organisations/dgefp
-incubator: sgmas
+incubator: gip-inclusion
 link: https://dora.fabrique.social.gouv.fr
 repository: https://github.com/betagouv/dora/
 contact: dora@beta.gouv.fr

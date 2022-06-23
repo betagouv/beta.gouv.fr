@@ -4,7 +4,7 @@ mission: "Favoriser la réussite pour tous"
 sponsors:
   - /organisations/dgefp
   - /organisations/mtei
-incubator: dinum
+incubator: gip-inclusion
 contact: assistance@inclusion.beta.gouv.fr 
 link: https://emplois.inclusion.beta.gouv.fr/
 repository: http://github.com/betagouv/itou

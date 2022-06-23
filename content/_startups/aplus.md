@@ -2,9 +2,8 @@
 title: Administration+
 mission: Résoudre les blocages administratifs inextricables
 sponsors: 
-  - /organisations/dinum
   - /organisations/anct
-incubator: dinum
+incubator: anct
 phases:
   - name: investigation
     start: 2017-09-01

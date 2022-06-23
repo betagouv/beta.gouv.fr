@@ -49,7 +49,8 @@
     {% endif %}
 
     <link rel="stylesheet" type="text/css" href="/assets/main.css">
-    <link rel="stylesheet" type="text/css" href="/assets/gouvfr/css/dsfr.min.css">
+    <link rel="stylesheet" type="text/css" href="/assets/gouvfr/dsfr.min.css">
+    <link rel="stylesheet" type="text/css" href="/assets/gouvfr/utility/utility.min.css">
     <link rel="stylesheet" type="text/css" href="/assets/remixicon/fonts/remixicon.css">
 
     {% for file in page.additional_css %}
@@ -72,6 +73,8 @@
     {% capture twitterImagePath %}{% if page.image %}{{page.image}}{% else %}{{ site.url }}/img/logo_twitter_image-2019.jpg{% endif %}{% endcapture %}
     <meta name="twitter:image" content="{{ twitterImagePath }}">
 
+  {% if jekyll.environment == "production" %}
     {% include analytics.html %}
+  {% endif %}
 
 </head>

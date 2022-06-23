@@ -1,6 +1,6 @@
 ---
 mission: "Faciliter le recours aux aides par les jeunes qui en ont le plus besoin "
-incubator: dinum
+incubator: sgmas
 repository: https://github.com/betagouv/aides-jeunes
 contact: aides-jeunes@beta.gouv.fr
 accessibility_status: non conforme

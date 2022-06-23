@@ -1,8 +1,12 @@
 ---
 roles: camino.beta.gouv.fr recrute un développeur·se Full Stack
-open: false
+open: true
 date: 2021-07-05T10:38:05.113Z
+depublication_date: 2022-06-20T08:12:44.262Z
 startup: camino
+contacts: muriel.nouguier
+domaines:
+  - Développement
 ---
 ## 🤓 Contexte
 

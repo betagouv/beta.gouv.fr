@@ -34,12 +34,11 @@ layout: default
     <h3 class="section-description">conçus pour tous, avec les administrations</h3>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center startups fr-pt-6w">
       {% assign startups = site.startups %}
-      {% assign starts = "transport.data.gouv.fr,La Bonne Alternance,Pix,Mon-entreprise" | split: ","  %}
+      {% assign starts = "transport. data.gouv.fr,La Bonne Alternance,Pix,Mon-entreprise" | split: ","  %}
       {% for startup in startups %}
-          <!-- {{ startup.title }} -->
           {% if starts contains startup.title %}
             <div class="fr-col-12 fr-col-md-3">
-              <div class="fr-card fr-enlarge-link" >
+              <div class="fr-card fr-card--grey fr-enlarge-link" >
                 <div class="fr-card__body">
                   <h4 class="fr-card__title">
                     <a class="fr-card__link" href="{{ startup.url }}" >{{ startup.title | strip_html }}</a>
@@ -78,7 +77,7 @@ layout: default
       <strong class="section-highlight">pluridisciplinaire</strong>, <strong class="section-highlight">engagée</strong> au <strong class="section-highlight">service de l’intérêt général</strong>
       </h3>
       <div class="fr-grid-row fr-grid-row--center fr-grid-row--gutters startups fr-py-6w">
-        <a class="fr-btn fr-btn--md button-white-border fr-btn--secondary fr-enlarge-link" href="/devenir-intrapreneur">Devenir intrapreneur</a>
+        <a class="fr-btn fr-btn--md button-white fr-btn--secondary fr-enlarge-link" href="/devenir-intrapreneur">Devenir intrapreneur</a>
       </div>
       <div class="fr-grid-row fr-grid-row--gutters startups">
         <div class="fr-col-12 fr-col-md-4">
@@ -208,18 +207,7 @@ layout: default
     </div>
   </div>
 </section>
-<hr>
-<section class="fr-py-6w newsletter">
-  <div class="fr-container">
-    <form method="post" target="_blank" action="https://981c5932.sibforms.com/serve/MUIEAED7q5La6zVwcMrAI5cwJB2EZmeOZVHfadIeHA7u9YyGUb9FB0MqprJ1A4DbWnpORGiPSZA4yxdpLFnWbjSvsFFgYNTtd7A54LhPxK3Zg2jaB_qK-b5Sm6aZ2M6kV1nO2mpJW0KcFGIMb5KbirWUxg8CJsQJUp_AJ6ARN5PSdFNxQpzVAPXKMNs1Z7n9lgK9bMoL9fFVP_Wx" id="newsletter">
-      <h3>Gardons le contact</h3>
-      <p>Recevez les actualités de beta.gouv, tous les mois</p>
-      <div class="fr-input-group">
-        <button class="fr-btn" type="submit" name="subscribe" id="form-submit">S’inscrire</button>
-      </div>
-    </form>
-  </div>
-</section>
+
 <script type="text/javascript">
   var hand1 = document.getElementById('hero-anim-hand-1');
   var hand2 = document.getElementById('hero-anim-hand-2');

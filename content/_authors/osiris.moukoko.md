@@ -5,7 +5,7 @@ domaine: Autre
 github: OMoukoko
 missions:
   - start: 2020-10-01
-    end: 2022-06-30
+    end: 2022-12-31
     status: service
     employer: NUMA
 ---

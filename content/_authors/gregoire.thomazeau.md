@@ -5,7 +5,7 @@ domaine: Développement
 github: gregoirethomazeau
 missions:
   - start: 2021-11-23
-    end: 2022-06-24
+    end: 2022-12-30
     status: independent
     employer: Portalia
 startups:
