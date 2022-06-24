@@ -482,10 +482,11 @@ h2.phase-title em {
 
 .section-blue h1,
 .section-blue h2,
+.section-blue .fr-h2,
 .section-blue h3:not(.fr-card__title),
 .section-blue h4:not(.fr-card__title),
 .section-blue .section-description {
-  color: #fff;
+  color: white;
 }
 
 .section-blue svg {
