@@ -304,11 +304,6 @@ h2.phase-title em {
   font-weight: bold;
 }
 
-.phase-description {
-  font-style: italic;
-  color: $darker-grey;
-}
-
 main .fr-container img {
   width: 100%;
 }
