@@ -1,7 +1,7 @@
 ---
 contact: collectifobjets@beta.gouv.fr
 roles: Chargé.e de déploiement pour la start-up Collectif Objets
-open: true
+open: false
 date: 2022-06-13T17:04:15.249Z
 depublication_date: 2022-07-31T16:56:20.951Z
 startup: collectif_objets
