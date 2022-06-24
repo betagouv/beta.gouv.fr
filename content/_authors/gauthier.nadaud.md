@@ -6,7 +6,7 @@ missions:
   - start: 2022-06-24
     end: 2022-11-15
     status: independent
-    employer: NUM
+    employer: NUMA
 badges:
   - segur
 ---
