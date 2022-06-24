@@ -42,9 +42,9 @@
 {% assign split_by_ul = job.content | split:'<ul' %}
 {% assign job.content = split_by_ul | join: '<ul class="fr-pl-4w"' %}
 
-<section class="fr-py-6w">
+<section class="fr-py-6w fr-grid-row">
   {% if job.junior %}
-    <div class="fr-container fr-py-6w">
+    <div class="fr-container fr-py-6w fr-col-md-8">
       <div class="fr-highlight">
         Bienvenue aux juniors sur ce poste ! L'équipe assurera votre formation.
       </div>
@@ -52,7 +52,7 @@
   {% endif %}
 
   {% if job.techno %}
-  <div class="fr-container fr-py-6w">
+  <div class="fr-container fr-py-6w fr-col-md-8">
     <div class="fr-highlight">
       <p>Choix technologiques :</p>
       <ul class="fr-tags-group">
@@ -64,7 +64,7 @@
   </div>
   {% endif %}
 
-  <div class="fr-container">
+  <div class="fr-container fr-col-md-8">
     {{ job.content }}
   </div>
 </section>
