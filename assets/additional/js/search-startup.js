@@ -34,9 +34,9 @@ var createStartupCard = function (startup) {
   card.innerHTML = `
         <div class="fr-card fr-card--grey fr-enlarge-link">
             <div class="fr-card__body">
-                <h2 class="fr-card__title">
+                <h3 class="fr-card__title">
                     <a class="fr-card__link" href="/startups/${startup.id}.html">${startup.attributes.name}</a>
-                </h2>
+                </h3>
                 ${startupSponsors}
                 <p class="fr-card__desc">${startup.attributes.pitch}</p>
             </div>

@@ -17,13 +17,13 @@
   <div class="fr-card__body">
     <div class="fr-card__content">
       <div class="fr-card__start">
-        <h4 class="fr-card__title fr-mb-2w">
+        <h3 class="fr-card__title fr-mb-2w">
           {% if author.link %}
             <a href="{{ author.link }}" target="_blank" rel="noopener">{{ author.fullname }}</a>
           {% else %}
             {{ author.fullname }}
           {% endif %}
-        </h4>
+        </h3>
         <p class="fr-card__detail">
           {%- if timestampNow > authorEndDate -%}
             Alumnus
