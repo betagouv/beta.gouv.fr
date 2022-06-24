@@ -15,6 +15,8 @@ repository:
 stats: false
 stats_url:
 contact: ateliernumerique@culture.gouv.fr
+usertypes:
+  - particulier
 ---
 # Les mouvements et les traces du mobilier national
 

@@ -1,6 +1,6 @@
 ---
 roles: Développeur.euse fullstack dans le domaine du logement social
-open: true
+open: false
 date: 2022-03-16T14:09:27.477Z
 startup: apilos
 ---

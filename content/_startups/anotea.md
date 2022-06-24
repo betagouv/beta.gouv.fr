@@ -20,6 +20,8 @@ link: https://anotea.pole-emploi.fr
 stats: true
 repository: https://github.com/StartupsPoleEmploi/anotea
 contact: anotea@pole-emploi.fr
+usertypes:
+  - particulier
 ---
 
 Anotéa collecte les avis des stagiaires de formation demandeurs d'emploi (source Pôle emploi), puis diffuse ces avis auprès des futurs stagiaires sur les catalogues de formation. Tous les commentaires sont modérés par des personnes physiques selon une charte établie et disponible dans les conditons générales d'utilisation (CGU).

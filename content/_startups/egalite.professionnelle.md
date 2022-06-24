@@ -17,6 +17,8 @@ phases:
   - name: alumni
     start: 2021-11-17
     comment: ""
+usertypes:
+  - entreprise
 ---
 **Problème** : l'écart salarial entre les femmes et les hommes au sein des entreprises françaises est chiffré actuellement à 15% en moyenne.
 

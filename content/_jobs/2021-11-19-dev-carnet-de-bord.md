@@ -1,12 +1,14 @@
 ---
-roles: Développeur ou développeuse full stack expérimenté.e
-startup: carnet.de.bord
-techno: Svelte / Svelte-kit, Hasura, PostgreSQL, HTML, CSS, JavaScript, Tailwind, Docker, Docker Compose, PaaS, Github Actions
-junior: false
-open: true
-title: Carnet de bord recrute dev full stack expérimenté(e) 
-contrat: indépendant
 contact: laetitia.kouadria@beta.gouv.fr
+roles: Développeur ou développeuse full stack expérimenté.e
+open: false
+junior: false
+date: 2022-04-21T15:44:47.250Z
+contrat: indépendant
+techno: Svelte / Svelte-kit, Hasura, PostgreSQL, HTML, CSS, JavaScript,
+  Tailwind, Docker, Docker Compose, PaaS, Github Actions
+title: Carnet de bord recrute dev full stack expérimenté(e)
+startup: carnet.de.bord
 ---
 
 #  Quel est le contexte de la startup d'Etat Carnet de bord ?

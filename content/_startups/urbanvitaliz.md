@@ -17,6 +17,8 @@ stats_url: https://urbanvitaliz.fr/stats
 contact: friches@beta.gouv.fr
 redirect_from:
   - /startups/friches
+usertypes:
+  - collectivite-territoriale
 ---
 
 ## Le problème : beaucoup de friches restent inutilisées pendant qu'on artificialise des sols naturels et agricoles

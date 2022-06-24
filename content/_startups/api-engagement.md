@@ -16,6 +16,10 @@ phases:
     start: 2020-11-02
   - name: acceleration
     start: 2021-06-01
+usertypes:
+  - collectivite-territoriale
+  - association
+accessibility_status: non conforme
 ---
 L’API Engagement facilite la diffusion des missions de bénévolat et de volontariat partout en France. 
 

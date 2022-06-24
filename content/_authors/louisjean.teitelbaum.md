@@ -9,6 +9,10 @@ missions:
     end: 2021-10-31
     status: independent
     employer: Numa
+  - start: 2021-03-28
+    end: 2022-10-30
+    status: independent
+    employer: Numa
 competences:
   - UX
   - Coaching

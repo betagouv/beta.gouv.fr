@@ -19,6 +19,9 @@ link:
 repository: https://github.com/MTES-MCT/assec
 stats: false
 contact: michel.perrel@beta.gouv.fr
+usertypes:
+  - etat
+  - entreprise
 ---
 
 ## Le problème de la gestion de la sécheresse

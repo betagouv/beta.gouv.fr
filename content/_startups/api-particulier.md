@@ -11,6 +11,8 @@ phases:
     start: 2015-01-01    
   - name: success
     start: 2020-01-01
+usertypes:
+  - etat
 link: https://api.gouv.fr/les-api/api-particulier
 repository: https://github.com/betagouv/api-particulier
 stats: true

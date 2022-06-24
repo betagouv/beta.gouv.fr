@@ -77,6 +77,33 @@ L’équipe ne communique pas encore sur son budget.
 Technologies utilisées : {{ page.techno | join: ", " }}
 {% endcapture %}
 
+{% capture analyse_risques %}
+{% if page.analyse_risques_url %}
+<li>L'équipe a réalisé un atelier <a href="{{ page.analyse_risques_url }}" title="Analyse de risques de {{ page.title }}"> d'analyse de risques</a>.</li>
+{% elsif page.analyse_risques %}
+  <li>L'équipe a réalisé un atelier d'analyse de risques mais ne le rend pas encore public.</li>
+{% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
+<li>L'équipe <em>n'a pas encore réalisé ou publié son atelier d'analyse de risques.</em></li>
+{% endif %}
+{% endcapture %}
+
+{% capture dashlord %}
+Le suivi des bonnes pratiques de ce produit
+{% if page.dashlord_url %}
+  est disponible sur <a href="{{ page.dashlord_url }}" title="Dashlord de {{ page.title }}"> Dashlord</a>.
+{% else %}
+  <em>n'est pas encore disponible sur <a href="https://dashlord.incubateur.net" title="Dashlord">Dashlord</a>.</em>
+{% endif %}
+{% endcapture %}
+
+{% capture accessibilite %}
+{% if page.accessibility_status %}
+<li>Le statut d'accessibilité du produit est : <em>{{ page.accessibility_status }}</em></li>
+{% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
+<li>Le statut d'accessibilité du produit est : <em>non-conforme</em></li>
+{% endif %}
+{% endcapture %}
+
 <div class="notification full-width section-grey fr-grid-row">
   <div class="fr-container fr-col-md-8">
     <ul>
@@ -87,6 +114,9 @@ Technologies utilisées : {{ page.techno | join: ", " }}
       <li>{{ statistiques_info }}</li>
       <li>{{ source_info }}</li>
       <li>{{ budget_info }}</li>
+      {{ accessibilite }}
+      {{ analyse_risques }}
+      <li>{{ dashlord }}</li>
       {% if page.techno %}
       <li>{{ techno_info }}</li>
       {% endif %}
@@ -159,6 +189,6 @@ Technologies utilisées : {{ page.techno | join: ", " }}
 
         <p>Pour exercer vos <a href="https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles">droits</a> : <a href="{{ page.rgpd.exercer_vos_droits }}">{{ page.rgpd.exercer_vos_droits }}</a></p>
       </div>
-  </div>    
+  </div>
 </section>
 {% endif %}

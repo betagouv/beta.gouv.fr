@@ -15,6 +15,11 @@ link: https://entreprise.api.gouv.fr/
 repository: https://github.com/etalab/entreprise.api.gouv.fr
 stats: true
 contact: contact@apientreprise.fr
+usertypes:
+  - association
+  - entreprise
+  - etat
+  - collectivite-territoriale
 ---
 
 API Entreprise est une API qui permet de récupérer des données des entreprises comme la forme juridique, les mandataires sociaux, etc. ainsi que des pièces justificatives (attestations fiscales, sociales…) en toute sécurité.

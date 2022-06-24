@@ -1,7 +1,7 @@
 ---
 roles: Bizdev/Chargé‧e de déploiement senior - à temps partiel
 startup: DossierFacile
-open: true
+open: false
 ---
 # Qu’est-ce qu’une startup d'État ?
 En 2013, l’État par l’intermédiaire de la DINUM (Direction Interministérielle du Numérique) lance beta.gouv, un programme d’incubation qui aide les administrations publiques à construire des services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des gens. Ces services sont appelés “startups d'État".

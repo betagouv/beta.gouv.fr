@@ -4,7 +4,7 @@ role: Stagiaire
 domaine: Autre
 missions:
   - start: 2022-01-05
-    end: 2022-04-29
+    end: 2022-07-01
     status: independent
     employer: Tribunal de Nanterre
 startups:

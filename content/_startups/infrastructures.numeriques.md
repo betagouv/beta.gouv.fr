@@ -10,6 +10,9 @@ contact: contactincubateur@anct.gouv.fr
 phases:
   - name: construction
     start: 2022-02-14
+usertypes:
+  - collectivite-territoriale
+  - etat
 ---
 # Contexte
 L’amélioration de la couverture fixe, comme mobile est une priorité du Gouvernement afin de permettre à l’ensemble des Français, quel que soit leur lieu de résidence, de bénéficier d’une couverture de qualité. Les programmes France Très Haut Débit et France Mobile ont été conçus en ce sens. Ils pilotent les déploiements d’infrastructure numérique sur le territoire.

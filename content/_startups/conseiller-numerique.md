@@ -14,6 +14,9 @@ repository: https://github.com/anct-cnum
 stats: false
 stats_url:
 contact: conseiller-numerique@anct.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - particulier
 ---
 ## Contexte
 

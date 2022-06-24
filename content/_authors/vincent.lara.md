@@ -6,12 +6,13 @@ domaine: Développement
 link: https://github.com/l-vincent-l
 missions:
   - start: 2015-03-15
-    end: 2022-04-30
+    end: 2022-08-31
     status: independent
     employer: Codeurs en Liberté
 startups:
     - recosante
-previously: 
+    - données-et-territoires
+previously:
     - le-taxi
     - transport
 ---

@@ -16,6 +16,9 @@ phases:
     start: 2021-06-01
   - name: construction
     start: 2021-11-01
+usertypes:
+  - particulier
+  - collectivite-territoriale
 ---
 Médiature : améliorer le suivi des demandes adressées par les citoyens aux médiateurs des collectivités territoriales.
 

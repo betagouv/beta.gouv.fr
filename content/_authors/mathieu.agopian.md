@@ -14,12 +14,12 @@ missions:
     start: 2019-10-01
     end: 2022-01-07
   - start: 2021-11-03
-    end: 2022-06-30
+    end: 2022-12-31
     status: independent
     employer: LittleBigConnection
 startups:
   - classe-a-12
-  - wikicarbone
+  - ecobalyse
 previously:
   - saisissez au vol
   - egapro

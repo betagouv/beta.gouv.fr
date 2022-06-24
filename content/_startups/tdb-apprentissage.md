@@ -11,7 +11,9 @@ sponsors:
 incubator: mission-apprentissage
 link: https://cfas.apprentissage.beta.gouv.fr
 repository: 
-contact: apprentissage@beta.gouv.fr
+contact: tableau-de-bord@apprentissage.beta.gouv.fr
+stats_url: https://cfas.apprentissage.beta.gouv.fr/statistiques
+stats: true
 events: []
 phases:
   - name: investigation
@@ -19,6 +21,8 @@ phases:
     end: ""
   - name: construction
     start: 2021-01-01
+usertypes:
+  - etat
 ---
 
 ## Constat

@@ -30,7 +30,7 @@ En complétant, le formulaire d'onboarding : https://secretariat.incubateur.net/
 
 ### [À travers l'interface web Netlify CMS (pour ne pas avoir à écrire de code)](https://beta.gouv.fr/admin/)
 
-Cette interface permet à toutes les personnes de la communauté modifier des fiches. 
+Cette interface permet à toutes les personnes de la communauté modifier des fiches.
 
 ### Par l'interface web de GitHub
 
@@ -83,7 +83,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `assets\additional` et `layout`. 
+Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `assets\additional` et `layout`.
 
 ### Dépendances : un `Gemfile` particulier
 
@@ -92,19 +92,26 @@ Afin de minimiser les écarts entre les versions de développement et les versio
 ### Environnement local de developpement avec docker
 Un environnement de developpement local basé sur docker, est disponible.
 
-Les pré requis d execution sont d avoir les logiciels suivants installés:
+Les pré requis d execution sont d'avoir les logiciels suivants installés:
 - Makefile
 - docker
 - docker-compose
+- npm
 
 Pour lancer son environnement local:
 ```bash
+# installation des assets à copier
+npm i
+
 # generation des fichiers
 make build
+
 # execution des tests
 make test
+
 # lancement de jekyll
 make up
+
 # arret de jekyll
 make down
 ```

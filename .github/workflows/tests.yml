@@ -92,6 +92,7 @@ jobs:
       with:
         root: _site
         extra: --ignore 'Element "img" is missing required attribute "src"'
+        skip_git_check: true
 
     - name: Lint JSON API pages
       run: bundle exec jsonlint _site/api/v*/*.json

@@ -12,6 +12,8 @@ repository: https://github.com/betagouv/euphrosyne/
 stats: false
 stats_url:
 contact: claire.pacheco@culture.gouv.fr
+usertypes:
+  - particulier
 ---
 
 

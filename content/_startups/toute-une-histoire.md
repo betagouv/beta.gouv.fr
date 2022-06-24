@@ -15,6 +15,9 @@ repository:
 stats: false 
 stats_url: 
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - particulier
+  - collectivite-territoriale
 ---
 
 ## Problème: 1500 enfants placés sans souvenirs

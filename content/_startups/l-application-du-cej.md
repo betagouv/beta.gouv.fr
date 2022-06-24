@@ -6,7 +6,7 @@ sponsors:
   - /organisations/dgefp
 incubator: sgmas
 repository: https://github.com/SocialGouv/pass_emploi_app
-contact: pass.emploi@beta.gouv.fr
+contact: contact@pass-emploi.gouv.fr
 stats_url: https://sites.google.com/view/statistiques-pass-emploi
 link: https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune
 stats: true
@@ -17,6 +17,9 @@ phases:
   - name: construction
     start: 2021-09-30
     end: 2022-03-30
+usertypes:
+  - particulier
+  - etat
 ---
 L’application du Contrat d’Engagement Jeune a pour objectif de faciliter l’accompagnement du jeune par son conseiller (Pôle emploi ou Mission Locale) afin de limiter son décrochage.
 
@@ -79,6 +82,6 @@ Il se décline en sous-objectifs et indicateurs :
 
 
 
-### **✉️ [S’inscrire à la newsletter](https://e7ebcecb.sibforms.com/serve/MUIEAGGcVmvpJon1JwX1NDryrCokcf6UeW7WUBbMtxUI_1z-Y5QqXoKmW7XZWIY1oWa7MyZ0gs4n_z47OYjzyYrAEMxv4YJroeAh2QN2eIjShmh7xczIxOok5tiv9NMlZGUEiAn99j5Z2079dIvIgzRaTmeZEzeeAJtUJNIDpMh6bdLwxTqrKAbGLvMPQuyf98hB-UVt-Jo1Sb7-?mtm_campaign=newsletter-page-beta) ✉️**
+### **✉️ [S’inscrire à la newsletter](https://b6ef10b9.sibforms.com/serve/MUIEAINSMBWA91GwlOKngnctNhBSGvlDtjv0IBelg8TuS60uWPaeprsEupCWvLeGbMsk8qjU0xfs23CxedybC4KEGoxgTPlU8WYUAziNj_b3b1LkZ98-XyBVfrk9OSdfSsCVia2KWIQeCGp5YJoGYk2i6psqo5NbxmG1pmSjYw1WFtruvtyX8w69Abo-Yx3YCvDXyjnKaAgyCiaB) ✉️**
 
 pour se tenir au courant des actualités de l’application du Contrat d’Engagement Jeune.

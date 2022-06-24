@@ -15,6 +15,8 @@ phases:
 repository:
 stats: false
 contact: didier.yvetot@beta.gouv.fr
+usertypes:
+  - entreprise
 ---
 
 ## Contexte

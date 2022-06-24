@@ -145,3 +145,27 @@ mapping:
     type:      str
   "rgpd":
     type:      any
+  "usertypes":
+    type:      seq
+    sequence:
+        - type:      str
+          enum:
+            - particulier
+            - etat
+            - collectivite-territoriale
+            - parlement
+            - entreprise
+            - association
+            - etablissement-scolaire 
+  "analyse_risques":
+    type:      bool
+  "analyse_risques_url":
+    type:      str
+  "dashlord_url":
+    type:      str 
+  "accessibility_status":
+    type:      str
+    enum:
+     - totalement conforme
+     - partiellement conforme
+     - non conforme

@@ -13,5 +13,6 @@ badges:
   - segur
 competences:
   - Administration Publique
+github: valerie-daoduy
 ---
 Déléguée régionale à la vie associative en Pays de la Loire, accompagner les associations pour plus d'intérêt général et de biens communs

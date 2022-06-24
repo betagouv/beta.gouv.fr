@@ -14,6 +14,8 @@ repository:
 stats: false 
 stats_url: 
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## Problème visé : 35 % des personnes interrogées déplorent ne pas pouvoir contribuer facilementà cette connaissance alors qu’ils souhaitent s’engager pour le patrimoine

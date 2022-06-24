@@ -14,6 +14,8 @@ link:
 repository: 
 stats: false
 contact: contact@beta.interieur.gouv.fr
+usertypes:
+  - etat
 ---
 
 ## Le gaspillage du transport de scellés.

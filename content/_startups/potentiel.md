@@ -15,6 +15,10 @@ repository: https://github.com/MTES-MCT/potentiel
 stats: true
 stats_url: https://potentiel.beta.gouv.fr/stats.html
 contact: contact@potentiel.beta.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - entreprise
+  - etat
 ---
 
 L’Etat français met en œuvre une politique volontariste de soutien au développement des énergies renouvelables (EnR) électriques. L’objectif est d’atteindre une part de 40% de ces énergies sur le total de l’électricité produite à l’horizon 2030. Chaque année, environ 1500 projets d’EnR électrique sont d’ores et déjà désignés lauréats d’un appel d’offre pour la production d’électricité renouvelable.

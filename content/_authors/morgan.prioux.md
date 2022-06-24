@@ -6,9 +6,9 @@ avatar: https://avatars.githubusercontent.com/u/68907081?v=4
 github: MorganP-projects 
 missions:
   - start: 2021-03-22
-    end: 2022-04-30
+    end: 2022-09-30
     status: independent
-    employer: Octo
+    employer: Malte
 startups:
     - conseiller-numerique
 badges:

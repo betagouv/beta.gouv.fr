@@ -7,10 +7,13 @@ incubator: lab-mi
 link: null
 repository: null
 contact: frederic.gillodes@interieur.gouv.fr
+usertypes:
+  - etat
 stats: false
 phases:
   - name: investigation
     start: 2018-03-01
+    end: ""
   - name: construction
     start: 2018-03-01
   - name: acceleration
@@ -20,6 +23,8 @@ phases:
     comment: Audit en cours afin d'évaluer les conditions de la généralisation de
       Polex à l'ensemble des bureaux de l'éducation routière à partir de la
       rentrée.
+  - name: alumni
+    start: 2022-05-02
 ---
 
 ## Lutter contre la fraude à l'examen du code

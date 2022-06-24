@@ -19,6 +19,11 @@ phases:
     end: 2021-08-31
   - name: acceleration
     start: 2021-09-01
+usertypes:
+  - particulier
+  - entreprise
+dashlord_url: https://dashlord.incubateur.net/url/santepsy-etudiant-gouv-fr/
+accessibility_status: non conforme
 ---
 ## Contexte
 

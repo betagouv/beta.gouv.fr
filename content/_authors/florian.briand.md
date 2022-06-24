@@ -5,11 +5,12 @@ role: Coach / Développeur / PO
 github: nabellaleen
 missions:
   - start: 2021-04-14
-    end: 2022-05-30
+    end: 2022-09-30
     status: service
     employer: Liberté Living Lab
-startups:
+previously:
   - justif
+  - inca
   - reva
 competences:
   - Développement Frontend

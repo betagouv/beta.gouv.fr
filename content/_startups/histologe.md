@@ -1,7 +1,7 @@
 ---
 mission: Faciliter le signalement et accélérer la prise en charge du mal logement
-incubator: anct
-repository: https://github.com/betagouv/histologe
+incubator: mtes
+repository: https://github.com/MTES-MCT/histologe
 contact: alban.sestiaa@beta.gouv.fr
 stats_url: https://histologe.beta.gouv.fr/Chiffres
 title: Histologe
@@ -20,6 +20,11 @@ phases:
     end: 2020-07-01
   - name: acceleration
     start: 2020-07-01
+usertypes:
+  - collectivite-territoriale
+  - particulier
+dashlord_url: https://dashlord.incubateur.net/url/histologe-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 ## Problème
 

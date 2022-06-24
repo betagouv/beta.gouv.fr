@@ -18,6 +18,11 @@ contact: contact@openfisca.org
 techno:
   - Python
   - NumPy
+usertypes:
+  - particulier
+  - etat
+  - association
+  - collectivite-territoriale
 ---
 
 OpenFisca est un logiciel libre contributif qui permet de modéliser les systèmes socio-fiscaux, c'est-à-dire de transformer la loi en code exécutable. Cela permet de développer des services publics numériques, d'estimer l’impact de réformes du système socio-fiscal, de décrire le système socio-fiscal français, et de faire émerger d'autres usages encore inconnus.

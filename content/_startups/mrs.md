@@ -19,6 +19,9 @@ link: https://mrs.beta.gouv.fr
 repository: https://github.com/betagouv/mrs
 stats: true
 contact: frederic.boulay@beta.gouv.fr
+usertypes:
+  - particulier
+  - etat
 ---
 
 ## Fiche produit

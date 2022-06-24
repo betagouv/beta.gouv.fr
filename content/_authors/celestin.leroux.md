@@ -1,6 +1,6 @@
 ---
-fullname: CELESTIN LEROUX
-role: PO SE Cnfs cartographie nationale 
+fullname: Célestin Leroux
+role: PO
 domaine: Produit
 missions:
   - start: 2022-03-21
@@ -11,4 +11,4 @@ startups:
   - conseiller-numerique
 ---
 
-PO
+

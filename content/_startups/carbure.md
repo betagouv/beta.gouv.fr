@@ -14,6 +14,8 @@ link: https://carbure.beta.gouv.fr
 repository: https://github.com/MTES-MCT/carbure
 stats: true
 contact: guillaume.caillou@developpement-durable.gouv.fr
+usertypes:
+  - etat
 ---
 
 Les biocarburants, utilisés comme substituts aux carburants fossiles, permettent de réduire de plus de 4% les émissions de gaz à effet de serre du transport en France. 

@@ -16,6 +16,8 @@ link: https://clara.pole-emploi.fr/
 repository: https://github.com/StartupsPoleEmploi/clara
 stats: true
 contact: clara@pole-emploi.fr
+usertypes:
+  - particulier
 ---
 
 Il existe de nombreuses aides et mesures qui peuvent vous aider à reprendre un emploi. Clara permet de savoir quelles aides vous pouvez obtenir, à quels types de contrats vous êtes éligible, quelles prestations vous pouvez mobiliser, en fonction de votre profil et de votre situation.

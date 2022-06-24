@@ -6,7 +6,7 @@ link: https://medium.com/@etienne.datactivist
 github: etienne0101
 missions:
   - start: 2021-03-01
-    end: 2022-06-30
+    end: 2022-11-15
     status: independent
     employer: Octo
 startups:

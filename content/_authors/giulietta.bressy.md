@@ -1,8 +1,7 @@
 ---
 fullname: Giulietta  Bressy
-domaine: Déploiement
-role: Charge de l'assistance aux utilisateurs, du pilotage de la modération et
-  de l'animation du réseau de référents départementaux
+domaine: Produit
+role: Responsable produit
 missions:
   - start: 2021-01-25
     end: 2022-12-30

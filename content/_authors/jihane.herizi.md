@@ -1,6 +1,6 @@
 ---
 fullname: Jihane Herizi
-role: Co-animatrice du programme Startups d'État
+role: Co-animatrice du programme Startups d'État / Intrapreneuse
 domaine: Animation
 missions:
   - start: 2017-10-11
@@ -10,6 +10,8 @@ missions:
     end: 2023-01-05
     employer: dinum
     status: admin
+startups:
+  - metiers-numeriques
 previously:
   - pass-culture
   - Alpha

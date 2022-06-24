@@ -19,6 +19,9 @@ stats: false
 contact: contact@geo.data.gouv.fr
 redirect_from:
   - /startups/inspire
+usertypes:
+  - collectivite-territoriale
+  - etat
 ---
 
 [geo.data.gouv.fr](https://geo.data.gouv.fr) est une plateforme dédiée au référencement et à la valorisation des [données géographiques](https://fr.wikipedia.org/wiki/Information_g%C3%A9ographique).

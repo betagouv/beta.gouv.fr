@@ -17,6 +17,8 @@ link: https://histovec.interieur.gouv.fr
 repository: https://github.com/histovec
 stats: false
 contact: histovec@interieur.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## Le scandale des arnaques aux véhicules d'occasion

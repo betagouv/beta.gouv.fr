@@ -14,6 +14,8 @@ phases:
   - name: construction
     start: 2021-09-01
     end: 2022-02-01
+usertypes:
+  - etat
 ---
 ## Contexte
 

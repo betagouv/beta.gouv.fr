@@ -12,6 +12,8 @@ phases:
     end: 2021-06-01
   - name: construction
     start: 2021-06-01
+usertypes:
+  - etat
 ---
 ## Contexte
 Dans le cadre de la planification des missions aériennes, plusieurs acteurs sont impliqués : les pilotes, les mécaniciens, les opérateurs de flotte, pour ne citer qu'eux.

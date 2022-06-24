@@ -34,7 +34,7 @@ order: 4
   <p><a href="/content/docs/mooc/18-identifier-problemes-imaginaires-2.pdf" target="\_blank">Télécharger le texte de cette vidéo</a></p>
 </div>
 
-## Quatre conseils à suvire pour maîtriser les imprévus
+## Quatre conseils à suivre pour maîtriser les imprévus
 
 <div class="video-iframe-center">
   <div class="video-iframe-container">

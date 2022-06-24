@@ -11,7 +11,8 @@ phases:
   - name: alumni
     start: 2021-03-02
     comment: Malgré les travaux de la phase d'investigation ayant permis de démontrer un problème impactant, la startup n'a pas réussi à obtenir un portage administratif ou les financements nécessaires pour passer en phase de contruction.
-
+usertypes:
+  - etat
 
 events: # les évènements marquants de la startup - les noms possibles sont définies dans /content/_events/
   - name: committee

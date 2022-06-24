@@ -19,6 +19,8 @@ phases:
   - name: construction
     start: 2015-05-01    
   - name: success
+usertypes:
+  - particulier
 ---
 Le saviez-vous ? Seules 20% des embauches sont le fruit d'une rencontre entre une offre d'emploi et une demande ! **80% du marché de l'emploi est dit « caché »**, et relève des **candidatures spontanées** et des cooptations.
 

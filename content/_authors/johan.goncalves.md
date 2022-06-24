@@ -1,0 +1,15 @@
+---
+fullname: Johan GONCALVES PROCEK
+role: Chargé de déploiement
+domaine: Déploiement
+missions:
+  - start: 2022-04-13
+    end: 2022-07-13
+    status: independent
+    employer: Ministère de la Justice
+startups:
+  - justif
+badges:
+  - segur
+---
+

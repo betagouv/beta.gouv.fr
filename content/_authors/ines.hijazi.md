@@ -1,6 +1,6 @@
 ---
 fullname: Inès Hijazi
-role: Co-animatrice du programme beta.gouv.fr
+role: Co-animatrice du programme beta.gouv.fr | Responsable de la Brigade
 domaine: Animation
 link: https://twitter.com/hijazi_i
 github: ineshijazi

@@ -18,6 +18,8 @@ link:
 repository: https://github.com/betagouv/bourses/
 stats: false
 contact: contact@bourse.beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## Abandon

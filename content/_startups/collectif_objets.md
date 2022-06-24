@@ -8,10 +8,14 @@ phases:
   - name: construction
     start: 2020-04-01
 link: https://collectif-objets.beta.gouv.fr/
-repository:
+repository: https://github.com/betagouv/collectif-objets
 stats: true
-stats_url: https://airtable.com/appVqsHQLPeOvbg9F/pagq4RELXtYqbHCBi
+stats_url: https://collectif-objets.beta.gouv.fr/stats
 contact: collectifobjets@beta.gouv.fr
+budget_url: https://atelier-numerique.notion.site/Budgets-publics-des-start-up-1b5453be26234d1c9abcb6bbce577e58
+usertypes:
+  - collectivite-territoriale
+  - particulier
 ---
 
 

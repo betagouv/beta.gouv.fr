@@ -20,6 +20,8 @@ link: https://education-artistique-culturelle.fr
 repository: https://github.com/betagouv/eac
 stats: false
 contact: pass@culture.gouv.fr
+usertypes:
+  - etablissement-scolaire
 ---
 
 La plateforme EAC est une application qui aide les enseignants à identifier et mettre en oeuvre des projets liés à l'éducation artistique et culturelle des élèves.

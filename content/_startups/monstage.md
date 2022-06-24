@@ -15,6 +15,10 @@ link: https://www.monstagedetroisieme.fr/
 repository: https://github.com/betagouv/monstage
 stats: false
 contact: joel.cantaut@beta.gouv.fr
+usertypes:
+  - particulier
+dashlord_url: https://dashlord.incubateur.net/url/www-monstagedetroisieme-fr/
+accessibility_status: non conforme
 ---
 
 **Un constat d’inégalité sociale dès le collège**

@@ -17,6 +17,12 @@ stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idS
 contact: contact@api.gouv.fr
 redirect_from:
     - /startups/apigouv
+usertypes:
+  - particulier
+  - entreprise
+  - etat
+dashlord_url: https://dashlord.incubateur.net/url/api-gouv-fr/
+accessibility_status: non conforme
 ---
 
 ## Le problème :

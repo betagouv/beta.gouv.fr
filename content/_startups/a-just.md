@@ -2,11 +2,15 @@
 title: A-JUST
 mission: Aider les juridictions dans l'affectation de leurs ressources humaines
   pour réduire les délais de justice.
-incubator: dinum
 sponsors:
- - /organisations/mj
- - /organisations/igj
+  - /organisations/mj
+  - /organisations/igj
+incubator: justice
+repository: https://github.com/betagouv/a-just
 contact: contact@a-just.fr
+accessibility_status: non conforme
+usertypes:
+  - etat
 events: []
 phases:
   - name: investigation

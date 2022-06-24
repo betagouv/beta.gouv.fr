@@ -3,8 +3,9 @@ locale: fr
 backend:
   name: github
   branch: master
-  api_root: https://api.github.com
   repo: betagouv/beta.gouv.fr
+  api_root: https://api.github.com
+  auth_scope: repo
   base_url: https://betagouv-cms-auth.osc-secnum-fr1.scalingo.io
   commit_messages:
     create: Création de {{slug}} dans {{collection}} !
@@ -12,9 +13,10 @@ backend:
     delete: Suppression de {{slug}} dans {{collection}}
     uploadMedia: Nouvelle image {{path}}
     deleteMedia: Suppression de l'image {{path}}
-  squash_merges: true
   open_authoring: true
-  use_graphql: false
+  always_fork: true
+  squash_merges: true
+  use_graphql: true
 
 # Permet d'expérimenter en local
 # cf. https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
@@ -72,16 +74,15 @@ collections:
         widget: string
       - label: Administration sponsor ou partenaire
         name: sponsors
-        widget: list
         collapsed: false
-        fields:
-          - label: Sponsor
-            name: name
-            widget: relation
-            valueField: "/organisations/{{slug}}"
-            displayFields: ["{{name}} ({{slug}})"]
-            searchFields: [slug, name]
-            collection: organisations
+        valueField: "/organisations/{{slug}}"
+        displayFields: ["{{name}} ({{slug}})"]
+        searchFields: [slug, name]
+        collection: organisations
+        label_singular: Sponsor
+        <<: *relation_default_options
+        multiple: true
+        required: true
       - <<: *relation_default_options
         label: Quel est l'incubateur qui t'accompagne ?
         name: incubator
@@ -106,6 +107,32 @@ collections:
       - label: Lien vers la page budget
         name: budget_url
         widget: string
+        required: false
+      - label: Lien vers la page Dashlord
+        hint : >
+          Pour inscrire ta startup sur dashlord.incubateur.net, visite https://github.com/betagouv/dashlord/blob/main/dashlord.yml
+        name: dashlord_url
+        widget: string
+        required: false
+      - label: Analyse de risque
+        hint : >
+          Indique si ta startup à déjà réalisé un atelier d'analyse de risque agile.
+        name: analyse_risques
+        widget: boolean
+        required: false
+      - label: Lien vers l'analyse de risques
+        hint : >
+          Si ta SE a rendu son analyse de risques publique, tu peux indiquer le lien vers ce document ici.
+        name: analyse_risques_url
+        widget: string
+        required: false
+      - label: Statut d'accessibilité
+        hint : >
+          Le statut d'accessibilité de ton produit. Une valeur parmi "totalement conforme", "partiellement conforme", et "non conforme". Si tu ne sais pas remplir ce champ, indique "non conforme".
+        name: accessibility_status
+        widget: "select"
+        default: "non conforme"
+        options: ["non conforme", "partiellement conforme", "totalement conforme"]
         required: false
       - label: Évènements marquants
         name: events
@@ -406,13 +433,41 @@ collections:
         widget: datetime
         time_format: false
         hint: "Uniquement si vous publiez la fiche plus tard"
+      - label: Date de dépublication
+        name: depublication_date
+        widget: datetime
+        time_format: false
+        hint: "L'offre sera automatiquement dépubliée à cette date"
       - label: Pour quelle startup ?
         label_singular: Startup
         hint: "Si la startup n'apparaît pas encore dans la liste, contacte un administrateur du site !"
         name: startup
         <<: *relation_default_options
         collection: startups
-        required: false 
+        required: false
+      # utilise @adamjkb/netlify-cms-widget-select-async en script dans le repo beta.gouv.fr
+      - name: contacts
+        label: Membres de la startup a contacter pour cette offre ?
+        widget: select-async
+        # widget options:
+        url: https://beta.gouv.fr/api/v2.5/authors.json
+        value_field: id
+        display_field: fullname
+      - label: Dans quels domaines ?
+        label_singular: Domaine
+        hint: "Le domaine permet de filtrer les offres"
+        name: domaines
+        widget: "select"
+        options: ["Animation",
+          "Coaching",
+          "Déploiement",
+          "Design",
+          "Développement",
+          "Intraprenariat",
+          "Produit",
+          "Autre"]
+        multiple: true
+        required: true 
       - label: Rédiger sa fiche de recrutement
         name: body
         widget: markdown

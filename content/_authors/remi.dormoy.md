@@ -5,7 +5,7 @@ domaine: Développement
 github: RemiDormoy
 missions:
   - start: 2022-01-03
-    end: 2022-03-31
+    end: 2022-05-31
     status: service
     employer: Octo
 startups:

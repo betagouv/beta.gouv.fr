@@ -17,6 +17,9 @@ link:
 repository: https://framagit.org/drone
 stats: false
 contact: yohan.boniface@data.gouv.fr
+usertypes:
+  - particulier
+  - etat
 ---
 
 ## Plus de 300 000 objets volants non identifiés

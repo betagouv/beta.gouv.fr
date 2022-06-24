@@ -15,6 +15,8 @@ repository:
 stats: true
 stats_url: https://maintenant.pole-emploi.fr/stats.html
 contact: maintenant@pole-emploi.fr
+usertypes:
+  - particulier
 ---
 
 ## Recrutez des gens, pas des CV !

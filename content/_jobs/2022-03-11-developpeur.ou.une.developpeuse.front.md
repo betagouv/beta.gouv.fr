@@ -1,16 +1,20 @@
 ---
-roles: Développeur ou une développeuse front
-title: un développeur ou une développeuse front
-contrat: indépendant
-startup: conseiller-numerique
-equipe: Cartographie Nationale
-friend: Incubateur des Territoires
-type: 'friend'
 contact: marc.gavanier@beta.gouv.fr
-post_ouvert: 2022-04-01
-poste_pourvu: false
+open: false
 date: 2022-03-11T09:46:55.355Z
-open: true
+depublication_date: 2022-06-23T07:47:30.302Z
+contacts: marc.gavanier
+domaines:
+  - Développement
+contrat: indépendant
+equipe: Cartographie Nationale
+poste_pourvu: false
+post_ouvert: 2022-04-01
+title: un développeur ou une développeuse front
+type: friend
+roles: Développeur ou une développeuse front
+startup: conseiller-numerique
+friend: Incubateur des Territoires
 ---
 L’agence nationale de la cohésion des territoires recrute **un développeur ou une développeuse front**
 

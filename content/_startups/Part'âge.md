@@ -14,6 +14,8 @@ repository:
 stats: false
 stats_url: 
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - collectivite-territoriale
 ---
 ### **L’isolement des aînés est un mal national, aggravé dans les territoires ruraux. Le COVID est venu mettre en évidence cet état de fait.**
 

@@ -14,6 +14,12 @@ repository: https://github.com/betagouv/datapass
 stats: true
 stats_url: https://datapass.api.gouv.fr/stats
 contact: contact@api.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - entreprise
+  - etat
+dashlord_url: https://dashlord.incubateur.net/url/datapass-api-gouv-fr/
+accessibility_status: partiellement conforme
 ---
 
 ## Le problème

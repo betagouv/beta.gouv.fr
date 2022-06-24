@@ -3,7 +3,7 @@ fullname: Boutié Camara
 role: Chargée de déploiement
 missions:
   - start: 2021-05-03
-    end: 2022-03-31
+    end: 2022-06-30
     status: independent
     employer: Octo
 startups:

@@ -22,6 +22,8 @@ phases:
     start: 2021-03-09
 redirect_from:
   - /startups/pole-emploi-action
+usertypes:
+  - particulier
 ---
 **Problème**
 

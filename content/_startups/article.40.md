@@ -1,7 +1,7 @@
 ---
 title: Info Parquet
 mission: Faciliter la saisie du personnel judiciaire
-incubator: dinum
+incubator: justice
 sponsors:
  - /organisations/mj
 contact: caroline-lucile.didier@beta.gouv.fr
@@ -12,6 +12,8 @@ phases:
   - name: construction
     start: 2021-07-09
     end: 2022-01-09
+usertypes:
+  - etat
 ---
 # **Contexte**
 

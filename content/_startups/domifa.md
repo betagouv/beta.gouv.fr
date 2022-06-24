@@ -6,16 +6,21 @@ sponsors:
 incubator: sgmas
 phases:
   - name: investigation
-    start: 2019-01-15
+    start: 2018-01-15
   - name: construction
-    start: 2019-01-15
+    start: 2018-06-01
   - name: acceleration
-    start: 2019-01-15
+    start: 2020-01-01
 link: https://domifa.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/domifa
 stats: true
 stats_url: https://domifa.fabrique.social.gouv.fr
 contact: contact.domifa@fabrique.social.gouv.fr
+usertypes:
+  - association
+  - collectivite-territoriale
+dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/domifa-fabrique-social-gouv-fr/
+accessibility_status: non conforme
 ---
 
 ## Qu’est-ce que la domiciliation ? 

@@ -17,6 +17,8 @@ link: https://snee.esr.gouv.fr/
 repository: https://github.com/betagouv/etudiant-entrepreneur
 stats: false
 contact: contact@etudiant-entrepreneur.beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 <iframe style="border:none;" width="560" height="315" src="//www.dailymotion.com/embed/video/x4aa7o4" allowfullscreen></iframe>

@@ -24,6 +24,9 @@ techno:
   - Go
   - PostgreSQL
   - Docker
+usertypes:
+  - entreprise
+  - etat
 ---
 
 ## La protection des personnes et de l’environnement, un enjeu collectif

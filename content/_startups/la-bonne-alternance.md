@@ -2,7 +2,10 @@
 title: La Bonne Alternance
 mission: Se former et travailler en alternance
 sponsors:
-  - /organisations/pole-emploi
+  - /organisations/menjs
+  - /organisations/mtei
+  - /organisations/mesr
+  - /organisations/mtfp
 incubator: mission-apprentissage
 phases:
   - name: investigation
@@ -20,6 +23,10 @@ stats: true
 contact: labonnealternance@pole-emploi.fr
 redirect_from:
   - /startups/labonnealternance
+usertypes:
+  - particulier
+  - entreprise
+  - etablissement-scolaire
 ---
 
 La Bonne Alternance est le premier service qui permet de rechercher simultanément une formation en apprentissage et une entreprise recrutant des alternants. Vous pouvez y accéder directement sur : https://labonnealternance.pole-emploi.fr/

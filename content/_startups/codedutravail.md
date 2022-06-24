@@ -8,7 +8,7 @@ phases:
   - name: investigation
     start: 2017-12-01
   - name: construction
-    start: 2017-12-01
+    start: 2018-05-01
   - name: acceleration
     start: 2019-01-01
   - name: success
@@ -23,6 +23,9 @@ techno:
   - Node.js
   - Express
   - Elasticsearch
+usertypes:
+  - entreprise
+  - particulier
 ---
 
 ## Qu’est-ce que le Code du travail numérique ?

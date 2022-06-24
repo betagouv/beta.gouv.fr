@@ -1,6 +1,6 @@
 ---
 roles: Développeur ou développeuse fullstack junior
-open: true
+open: false
 junior: true
 date: 2022-02-21T9:00:00.000Z
 ---

@@ -5,7 +5,7 @@ sponsors:
     - /organisations/mtei
     - /organisations/menjs
     - /organisations/mesr
-    - /organisations/dgefp
+    - /organisations/mtfp
 incubator: mission-apprentissage
 link: https://matcha.apprentissage.beta.gouv.fr/
 repository: https://github.com/mission-apprentissage/matcha-azure
@@ -19,6 +19,9 @@ phases:
     end: ""
   - name: construction
     start: 2021-07-01
+usertypes:
+  - entreprise
+  - etablissement-scolaire
 ---
 *Matcha propose un formulaire qui facilite à la fois le dépôt, la gestion, la mise en visibilité et la diffusion d’un besoin de recrutement en alternance.
 Ce service peut être utilisé par un employeur, par les opérateurs de compétences, les chambres consulaires lors des collectes d'offres et par des organismes de formation qui seraient mandatés par des entreprises pour pré-recruter des alternants.*

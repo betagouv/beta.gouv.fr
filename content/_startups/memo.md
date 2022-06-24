@@ -13,7 +13,9 @@ phases:
 link: https://memo.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/memo
 stats: true
-contact: zohra.hadji@pole-emploi.fr 
+contact: zohra.hadji@pole-emploi.fr
+usertypes:
+  - particulier
 ---
 
 ### Toutes mes candidatures en un clin d’oeil

@@ -17,6 +17,9 @@ techno:
     - Python
     - PostgreSQL
     - PostGIS
+usertypes:
+  - entreprise
+  - etat
 ---
 
 ## Le contexte

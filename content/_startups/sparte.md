@@ -1,16 +1,22 @@
 ---
-title: "SPARTE"
-mission: 'Faciliter la mise en oeuvre du Zéro Artificialisation Nette'
+mission: Faciliter la mise en oeuvre du Zéro Artificialisation Nette
 incubator: mtes
+repository: https://github.com/MTES-MCT/sparte
+contact: ines.dartiguenave@beta.gouv.fr
+analyse_risques: true
+usertypes:
+  - collectivite-territoriale
+title: SPARTE
 sponsors:
   - /organisations/dgaln
-contact: ines.dartiguenave@beta.gouv.fr
+link: https://sparte.beta.gouv.fr
+stats: true
+dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/sparte-beta-gouv-fr/
 phases:
   - name: investigation
     start: 2021-04-08
   - name: construction
     start: 2021-09-01
-link: https://sparte.beta.gouv.fr
 ---
 ## Contexte
 

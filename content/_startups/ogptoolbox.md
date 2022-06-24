@@ -17,6 +17,8 @@ link: https://ogptoolbox.org/
 repository: https://github.com/ogptoolbox/ogptoolbox-ui
 stats: false
 contact: contact@beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 OGP Toolbox est un réseau social pour trouver et partager des outils numériques efficaces au service de l'ouverture des gouvernments et des sociétés civiles.

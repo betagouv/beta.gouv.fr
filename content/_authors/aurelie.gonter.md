@@ -4,12 +4,11 @@ domaine: Produit
 role: Responsable produit (PO)
 missions:
   - start: 2022-02-08
-    end: 2022-04-28
+    end: 2022-12-31
     status: independent
     employer: Octo
 startups:
   - dora
-  - data-inclusion
 competences:
   - Gestion de Produit
 ---

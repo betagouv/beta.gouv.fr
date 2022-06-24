@@ -14,6 +14,8 @@ phases:
     end: 2021-05-07
   - name: construction
     start: 2021-05-07
+usertypes:
+  - collectivite-territoriale
 ---
 ## En cours de construction
 

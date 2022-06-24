@@ -14,6 +14,8 @@ phases:
     start: 2015-01-12
   - name: alumni
     start: 2016-01-09
+usertypes:
+  - etat
 link:
 repository: https://github.com/betagouv/fiches-de-banc
 stats: false

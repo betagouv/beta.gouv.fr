@@ -19,14 +19,17 @@ phases:
     end: ""
   - name : construction
     start: 2022-01-01
-
+usertypes:
+  - etat
+  - entreprise
+  - etablissement-scolaire
 ---
 
 ## Constat
 
 La loi pour “la liberté de choisir son avenir professionnel”, adoptée en septembre 2018, a facilité les conditions de création d’organismes proposant des formations en apprentissage, ce qui a conduit au passage de 950 CFA référencés en 2019 à plus de 2 500 organismes référencés en 2021.
 
-Les bases de données actuelles ne les identifient pas toujours de manière fiable ou cohérente, à la fois à travers leur SIRET et leur UAI, afin qu’ils puissent être reconnus dans toutes les bases (CERFA, enquête SIFA, Carif-Oref). CFA et améliorer l'accompagnement des jeunes et des employeurs.
+Les bases de données actuelles ne les identifient pas toujours de manière fiable ou cohérente, à la fois à travers leur SIRET et leur UAI, afin qu’ils puissent être reconnus dans toutes les bases (CERFA, enquête SIFA, Carif-Oref). 
 
 
 ## La solution

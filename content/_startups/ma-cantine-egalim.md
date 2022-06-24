@@ -15,6 +15,8 @@ repository: https://github.com/betagouv/ma-cantine
 stats: true
 stats_url: https://ma-cantine-metabase.cleverapps.io/public/dashboard/f65ca7cc-c3bd-4cfb-a3dc-236f81864663
 contact: contact@egalim.beta.gouv.fr
+usertypes:
+  - entreprise
 ---
 
 ## Une alimentation saine, de qualité, durable et accessible à tous en restauration collective

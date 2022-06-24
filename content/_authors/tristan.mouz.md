@@ -5,7 +5,7 @@ domaine: Déploiement
 github: mouzfr
 missions:
   - start: 2022-02-15
-    end: 2023-02-28
+    end: 2022-05-02
     status: independent
     employer: Octo
 startups:

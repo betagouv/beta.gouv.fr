@@ -16,6 +16,11 @@ repository: https://github.com/betagouv/civilsdeladefense
 stats: true
 stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=75&period=day&date=yesterday
 contact: drh-md-srhc-civilsdeladefense.charge-qualite.fct@intradef.gouv.fr
+usertypes:
+  - particulier
+  - etat
+dashlord_url: https://dashlord.incubateur.net/url/civilsdeladefense-fabnum-fr/
+accessibility_status: non conforme
 ---
 
 

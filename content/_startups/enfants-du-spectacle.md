@@ -13,6 +13,8 @@ phases:
     end: 2021-07-01
   - name: construction
     start: 2021-07-01
+usertypes:
+  - etat
 ---
 
 ## Le contexte

@@ -20,6 +20,8 @@ link: https://leximpact.an.fr
 repository: https://github.com/betagouv/leximpact-client
 stats: false
 contact: leximpact@an.fr
+usertypes:
+  - parlement
 ---
 
 # Le problème

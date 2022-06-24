@@ -2,10 +2,9 @@
 fullname: Louis Pénisson
 role: Chargée de déploiement
 domaine: Déploiement
-github: Louis
 missions:
   - start: 2022-04-11
-    end: 2022-07-11
+    end: 2022-11-15
     status: independent
 startups:
   - data-subvention

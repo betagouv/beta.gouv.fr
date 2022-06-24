@@ -15,6 +15,9 @@ phases:
     start: 2021-11-02
   - name : alumni
     start : 2022-01-11
+usertypes:
+  - etat
+  - collectivite-territoriale
 ---
 ## Contexte
 

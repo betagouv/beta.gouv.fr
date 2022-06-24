@@ -31,10 +31,11 @@ missions:
     status: independent
     employer: ANCT
   - start: 2021-10-25
-    end: 2022-02-28
+    end: 2022-07-31
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
 startups:
+    - open-terms-archive
     - openfisca
 previously:
     - mes-aides

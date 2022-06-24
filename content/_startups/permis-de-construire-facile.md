@@ -20,7 +20,10 @@ phases:
 link:
 repository: 
 stats: false
-contact: jean-michel.coste@developpement-durable.gouv.fr 
+contact: jean-michel.coste@developpement-durable.gouv.fr
+usertypes:
+  - particulier
+  - entreprise
 ---
 
 ## Problème

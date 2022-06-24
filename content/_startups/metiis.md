@@ -10,6 +10,8 @@ phases:
     end: 2019-11-30
   - name: construction
     start: 2019-11-30
+usertypes:
+  - etat
 link: https://metiis.fabnum.fr
 repository:
 stats: false

@@ -9,6 +9,8 @@ phases:
     start: 2019-04-05
   - name: construction
     start: 2019-04-05
+usertypes:
+  - etat
 stats: false
 contact: charles.guenois@intradef.gouv.fr
 ---

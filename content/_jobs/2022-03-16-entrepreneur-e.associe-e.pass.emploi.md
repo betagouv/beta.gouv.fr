@@ -1,6 +1,6 @@
 ---
 roles: Entrepreneur.e associé.e « Pass Emploi »
-open: true
+open: false
 date: 2022-03-16T12:03:46.317Z
 startup: l-application-du-cej
 ---

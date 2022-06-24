@@ -1,46 +1,52 @@
 ---
-title: Mon suivi social
-mission: Préfigurer un outil de suivi social pour les CCAS et secrétariats de mairies
+mission: Libérer du temps pour l'accompagnement social grâce à une solution
+  simple, intuitive et sécurisée.
 incubator: anct
-repository: null
+repository: https://gitlab.com/incubateur-territoires/startups/monsuivisocial
 contact: contactincubateur@anct.gouv.fr
+accessibility_status: non conforme
+usertypes:
+  - collectivite-territoriale
 stats_url: null
+title: Mon suivi social
 sponsors:
   - /organisations/anct
-link: null
+link: https://monsuivisocial.incubateur.anct.gouv.fr/
 stats: false
 phases:
   - name: investigation
     start: 2021-06-01
+    end: 2022-02-01
   - name: construction
-    start: 2021-04-01
-    end: 2022-01-20
+    start: 2022-03-01
+    end: ""
 ---
-### Un CIAS sans outil numérique pour centraliser les informations
+### Contexte/problème
 
-Le CIAS de la communauté de commune du Grand Autunois Morvan est une structure d’Action Sociale qui couvre un territoire de 55 communes et 40 000 hbts et gère environ 600 personnes.
+Durant la phase d'investigation, le CIAS du Grand Autunois Morvan a fait émerger la problématique du suivi numérique des bénéficiaires dans la structure. 
 
-Au niveau de l’accompagnement social, il gère : domiciliation, aide sociale (instruction des demandes pour établissements personnes âgées, handicapées ou pour aides à domicile), Aides financières d’urgence, Accompagnement social, Visites de convivialité, Aide au permis, Logement d’urgence.
+Les agents proposent un accompagnement de qualité mais ne bénéficient pas d'outil de gestion numérique efficace permettant la centralisation et la sécurisation des dossiers. Le manque d'outillage induit une perte de temps considérable pour le suivi des bénéficiaires, la recherche d'information, la production de statistiques ... 
 
-Au sein de la structure, 8 agents travaillent à l’accompagnement des usagers et ont chacun en charge des dossiers en particulier. Les dossiers des bénéficiaires sont suivis et archivés par chaque agent (tableaux excel et/ou dossier papier).  
-Les agents au guichet qui reçoivent les appels, accueillent les usagers et parfois donnent des RDV n’ont pas l’accès aux dossiers et ne peuvent souvent pas renseigner de manière optimale (besoin de questionner les collègues ou rechercher dans les dossiers des collègues). 
+Les outils numériques répondant au besoin sont inaccessibles financièrement pour de nombreux CCAS/CIAS de petite ou moyenne taille.
 
-**Aucune centralisation des informations bénéficiaires n’existe actuellement.** Le problème est donc un défaut d’outillage de la part des agents.
+### Solution proposée
 
-Le problème est identifié principalement au niveau des agents du CIAS (8 agents). Les usagers peuvent être indirectement impactés par les délais de réponse et délai pour obtenir un RDV.
+Suite à une enquête de terrain, la solution prototypée est un outil numérique à destination des agents : dossier social unique et suivi des interactions avec les bénéficiaires, agenda partagé, gestion des tâches et module statistique.
 
-Le manque d’un outil informatique centralisé fait perdre aux agents un temps précieux : 
+Ce prototype a été testé auprès d'autres CCAS et les besoins ont été confirmés. 
 
-*   au moment d’établir des statistiques (très grosse charge de travail)
-*   au moment de renseigner les usagers lorsqu’ils appellent ou qu’ils se présentent à l’accueil
-*   aux travailleurs sociaux, qui doivent recevoir les bénéficiaires alors que l’information si elle était accessible à tous les agents pourrait leur être donnée immédiatement par les agents d’accueil.
+### Stratégie
 
-Le temps passé à gérer administrativement et manuellement les dossiers des bénéficiaires, n’est pas du temps passé à l’accompagnement humain et au développement de projets sociaux.La situation a tendance à s'aggraver en raison de l’élargissement du périmètre du CIAS (de 10 communes à 55 communes en seulement 10 ans). Le nombre de bénéficiaire est en constante progression sur tous les volets de l’action sociale (ex domiciliation +55% en 3 ans à effectif constant).
+1 - La construction d'une version beta de la solution (**interface agent**) a débuté en mars 2022 et sera mise en test auprès d'une dizaine de structure dans les prochaines semaines.
 
-Les agents proposent un accompagnement de qualité mais leurs difficultés internes ne sont pas mises en lumière. Le système actuel repose quasi uniquement sur l’humain, la mémoire des agents, leur motivation et ... l’armoire d’archives. L’absence d’un seul agent peut mettre en difficulté toute l’organisation. Cette fragilité a été particulièrement mise en lumière dans le contexte sanitaire du COVID (télétravail …) et des mouvements internes du personnel (congés maternité, congés maladie, départ en retraite …). 
+Les premières fonctionnalités expérimentées porteront sur : 
 
-En parallèle, les élus et financeurs demandent de plus en plus d’éléments statistiques pointus qui sont chronophages et difficiles à produire actuellement.
+* Dossier bénéficiaire (fiche bénéficiaire et espace document associé)
+* Suivi des échanges et accompagnements
+* Module statistique
 
-**La gestion des bénéficiaires se fait actuellement au travers de 14 tableaux excel et des dossiers papiers. Les outils ne sont pas liés entre eux, il y a donc de nombreux doublons. Les statistiques peuvent être par conséquent souvent biaisées voire faussées.**
+Le déploiement des fonctionnalités complémentaires sera progressif, et reposera sur une logique de co-construction.
 
-Collectivité sponsor : CC Grand Autunois Morvan
+2 - Perspective complémentaire (échéance à définir) :  étude plus approfonfie autour du besoin "bénéficiaire" : coffre-fort numérique, synthèse des RDV et rappels par mails/SMS, suivi de dossier, accès sécurisé pour l'entourage ou les aidants habilités.
+
+![](/img/netlifycms/mon.suivi.social.accueil.png)

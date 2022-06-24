@@ -6,7 +6,7 @@ link: http://www.agiletribu.com
 github: nrichand
 missions:
   - start: 2022-02-11
-    end: 2022-04-14
+    end: 2022-09-12
     status: independent
     employer: Omnicité
 startups:

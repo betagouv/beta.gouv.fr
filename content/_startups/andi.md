@@ -18,6 +18,8 @@ repository: https://github.com/betagouv/andi
 stats: true
 stats_url: https://andi.beta.gouv.fr/stats
 contact: karel.cloarec@beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## Fiche produit

@@ -11,6 +11,7 @@ contact: contact@apilos.beta.gouv.fr
 redirect_from:
   - /startups/appel
 stats: true
+stats_url: https://apilos.beta.gouv.fr/stats
 sponsors:
  - /organisations/dgaln
 events:
@@ -27,6 +28,12 @@ phases:
   - name: construction
     start: 2021-06-30
     end: 2022-06-30
+usertypes:
+  - particulier
+  - collectivite-territoriale
+  - etat
+dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/apilos-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 # **Contexte**
 

@@ -16,6 +16,9 @@ repository:
 stats: false
 stats_url:
 contact: ateliernumerique.snum@culture.gouv.fr
+usertypes:
+  - association
+  - entreprise
 ---
 ## Le contexte
 

@@ -28,6 +28,14 @@ layout: default
             , "phase": "{{ status }}"
             , "incubator_id" : "{{startup.incubator}}"
             , "incubator_title": "{{ incubator.title }}"
+            , "sponsors": [{% for sponsorId in startup.sponsors %}
+                {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
+                {
+                    "acronym" : "{{ sponsor.acronym }}",
+                    "name": "{{ sponsor.name }}"
+                }
+                {% unless forloop.last %},{% endunless %}
+            {% endfor %}]
             , "attributes":
                 { "name"  : "{{ startup.title }}"
                 , "pitch" : "{{ startup.mission }}"{% if startup.stats %}
@@ -37,6 +45,11 @@ layout: default
                 , "contact": "{{startup.contact}}"
                 , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
                 , "screenshot-url": "{{ screenshot_path }}"
+                , "usertypes": [
+                    {% for usertype in startup.usertypes %}
+                        "{{usertype}}"{% unless forloop.last %},{% endunless %}
+                    {% endfor %}
+                    ]
                 , "phases": [
                     {% for phase in startup.phases %}
                         { "name": "{{phase.name}}", "start": "{{phase.start}}", "end": "{{phase.end}}"}{% unless forloop.last %},{% endunless %}
@@ -75,84 +88,87 @@ layout: default
             {% unless forloop.last %},{% endunless %}
         {% endfor %}
     ];
-</script>   
-<main>
-    <section class="filters sticky">
-        <div class="fr-container">
-            <select class="fr-select" id="select-incubateur">
-                <option value="">Tous les incubateurs</option> 
-            </select>
-            <select class="fr-select" id="select-phase">
-                <option>Aller à une phase</option>
-                {% for phase in phases_with_stopped %}
-                    <option value="{{ phase.status }}" id="{{phase.status}}-option">{{ phase.label }}</option>
-                {% endfor %}
-            </select>
-            <div class="fr-search-bar" id="search-input">
-                <label class="fr-label" for="search-input-input">Label de la barre de recherche</label>
-                <input class="fr-input" placeholder="Rechercher" type="search" id="search-input-input" name="search-input-input">
-                <button class="fr-btn" title="Rechercher" id="search-input-button">
-                        Rechercher
-                </button>
-                <ul id="results-container"></ul>
+</script>
+<section class="filters sticky">
+    <div class="fr-container">
+        <select class="fr-select" id="select-incubateur">
+            <option value="">Tous les incubateurs</option>
+        </select>
+        <select class="fr-select" id="select-usertypes">
+            <option value="">Tous les types d'usagers</option>
+        </select>
+        <select class="fr-select" id="select-phase">
+            <option>Aller à une phase</option>
+            {% for phase in phases_with_stopped %}
+                <option value="{{ phase.status }}" id="{{phase.status}}-option">{{ phase.label }}</option>
+            {% endfor %}
+        </select>
+        <div class="fr-search-bar" id="search-input">
+            <label class="fr-label" for="search-input-input">Label de la barre de recherche</label>
+            <input class="fr-input" placeholder="Rechercher" type="search" id="search-input-input" name="search-input-input">
+            <button class="fr-btn" title="Rechercher" id="search-input-button">
+                    Rechercher
+            </button>
+            <ul id="results-container"></ul>
+        </div>
+    </div>
+</section>
+{% for incubator in incubators %}
+{% assign incubator_id = incubator.id | remove: '/incubators/' %}
+{% assign organisation = site.organisations  | where: 'id', incubator.owner | first %}
+
+<section id="{{ incubator_id }}" class="fr-py-6w incubator-header fr-scheme-soft-blue-soft" style="display: none;">
+    <div class="fr-container">
+        <div class="fr-grid-row fr-grid-row--gutters">
+            <div class="fr-col-1 incubator-logo">
+                <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}">
+            </div>
+            <div class="fr-col">
+                <div>
+                    <h1 class="fr-card__title">{{ incubator.title }}</h1>
+                    <p class="h1-card__title-subtitle">{{ organisation.name }}</p>
+                    <div class="markdown">{{ incubator.content }}</div>
+                </div>
             </div>
         </div>
-    </section>
-    {% for incubator in incubators %}
-    {% assign incubator_id = incubator.id | remove: '/incubators/' %}
-    {% assign organisation = site.organisations  | where: 'id', incubator.owner | first %}
+    </div>
+</section>
+{% endfor %}
 
-    <section id="{{ incubator_id }}" class="fr-py-6w incubator-header fr-scheme-soft-blue-soft" style="display: none;">
-        <div class="fr-container">
-            <div class="fr-grid-row fr-grid-row--gutters">
-                <div class="fr-col-1 incubator-logo">
-                    <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}">
-                </div>
-                <div class="fr-col">
-                    <div>
-                        <h1 class="fr-card__title">{{ incubator.title }}</h1>
-                        <p class="h1-card__title-subtitle">{{ organisation.name }}</p>
-                        <div class="markdown">{{ incubator.content }}</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    {% endfor %}
+<div class="fr-container fr-py-6w">
+    <div id="no-data-message" style="display: none;">
+        <p>Il n'y a pas de résultats qui correspondent à ces filtres</p>
+    </div>
+    {% assign phases = site.phases | sort: 'order' %}
+    {% for phase in phases %}
+        {% assign counter_target = phase.id | remove: "/phases/" %}
+        {% assign counter = site.startups | where_phase: counter_target | size %}
+        {% assign plural = "" %}
+        {% if counter > 1 %}
+            {% assign plural = "s" %}
+        {% endif %}
 
-    <div class="fr-container fr-py-6w">
-        {% assign phases = site.phases | sort: 'order' %}
-        {% for phase in phases %}
-            {% assign counter_target = phase.id | remove: "/phases/" %}
-            {% assign counter = site.startups | where_phase: counter_target | size %}
-            {% assign plural = "" %}
-            {% if counter > 1 %}
-                {% assign plural = "s" %}
+        <div id="{{ phase.status }}" class="fr-container-fluid fr-my-6w">
+            {% if phase.status == 'success' %}
+                <h1 class="phase-title">Nos <em><span class="phase-label">{{ phase.label | downcase }}s</span></em></h1>
+            {% elsif phase.status == 'alumni' %}
+                <h1 class="phase-title">Nos <em>{{ phase.label | downcase }}</em></h1>
+            {% else %}
+                <h1 class="phase-title"><em><span class="phase-counter">{{ counter }}</span></em> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> en
+                <em>{{ phase.label | downcase }}</em></h1>
             {% endif %}
 
-            <div id="{{ phase.status }}" class="fr-container-fluid fr-my-6w">
-                {% if phase.status == 'success' %}
-                    <h1 class="phase-title">Nos <em><span class="phase-label">{{ phase.label | downcase }}s</span></em></h1>
-                {% elsif phase.status == 'alumni' %}
-                    <h1 class="phase-title">Nos <em>{{ phase.label | downcase }}</em></h1>
-                {% else %}
-                    <h1 class="phase-title"><em><span class="phase-counter">{{ counter }}</span></em> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> en
-                    <em>{{ phase.label | downcase }}</em></h1>
-                {% endif %}
+            <p class="phase-description">{{ phase.short_description }}.</p>
 
-                <p class="phase-description">{{ phase.short_description }}.</p>
-
-                <div class="fr-grid-row fr-grid-row--gutters startups">
-                    {% assign startups = site.startups | where_phase: phase.status %}
-                    {% for startup in startups %}
-                        {% include card-startup.html startup = startup %}
-                    {% endfor %}
-                </div>
+            <div class="fr-grid-row fr-grid-row--gutters startups">
+                {% assign startups = site.startups | where_phase: phase.status %}
+                {% for startup in startups %}
+                    {% include card-startup.html startup = startup %}
+                {% endfor %}
             </div>
-        {% endfor %}
-    </div>
-</main>
-
+        </div>
+    {% endfor %}
+</div>
 
 <!-- Filtres -->
 <script>
@@ -197,14 +213,16 @@ layout: default
     SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        searchResultTemplate: "<div class=\"fr-tile fr-enlarge-link fr-tile--horizontal\"><div class=\"fr-tile__body\"><h4 class=\"fr-tile__title\"><a class=\"fr-tile__link\" href=\"{url}\">{title}</a></h4><p class=\"fr-tile__desc\">{mission}</p></div></div>",
-        noResultsText: "<div class=\"fr-tile fr-enlarge-link fr-tile--horizontal\"><div class=\"fr-tile__body\"><h4 class=\"fr-tile__title\">Aucun résultat</div></div>",
+        searchResultTemplate: "<div class=\"fr-card fr-card--horizontal fr-card--no-border\"><div class=\"fr-card__body\"><h4 class=\"fr-card__title\"><a class=\"fr-card__link\" href=\"{url}\">{title}</a></h4><p class=\"fr-card__desc\">{mission}</p></div></div>",
+        noResultsText: "<div class=\"fr-card fr-card--horizontal fr-card--no-border\"><div class=\"fr-card__body\"><h4 class=\"fr-card__title\">Aucun résultat</div></div>",
         json: '/search.json'
     })
 </script>
 <script>
     var urlParams = new URLSearchParams(window.location.search);
-    var initValue = urlParams.get('incubateur');
+    var incubatorValue = urlParams.get('incubateur');
+    var usertypesValue = urlParams.get('usertypes');
     data = generateDataWithHtmlCards(data);
-    createIncubatorSelect(data, incubators, initValue);
+    createIncubatorSelect(data, incubators, incubatorValue);
+    createUsertypesSelect(data, usertypesValue)
 </script>

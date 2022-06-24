@@ -14,6 +14,8 @@ repository:
 stats: false 
 stats_url: 
 contact: c.hiernard@agglo-pau.fr
+usertypes:
+  - particulier
 ---
 
 ## Problème visé :

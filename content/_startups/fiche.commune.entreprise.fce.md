@@ -19,6 +19,9 @@ phases:
   - name: acceleration
     start: 2020-07-01
     end: 2022-12-16
+usertypes:
+  - entreprise
+  - etat
 ---
 ## Contexte
 

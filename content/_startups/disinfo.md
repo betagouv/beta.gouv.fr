@@ -14,6 +14,8 @@ phases:
     start: 2019-01-10
   - name: construction
     start: 2019-03-01
+usertypes:
+  - etat
 ---
 
 ## Internet nous rapproche. Les manipulations de l’information nous éloignent.

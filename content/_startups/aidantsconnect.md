@@ -16,6 +16,11 @@ repository: https://github.com/betagouv/Aidants_Connect
 stats: true
 stats_url: https://aidantsconnect.beta.gouv.fr/stats/
 contact: contactaidantsconnect@beta.gouv.fr
+usertypes:
+  - etat
+  - particulier
+dashlord_url: https://dashlord.incubateur.net/url/aidantsconnect-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 
 ## Contexte

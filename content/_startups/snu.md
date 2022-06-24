@@ -15,6 +15,11 @@ phases:
     start: 2020-07-01
   - name: acceleration
     start: 2021-01-01
+usertypes:
+  - particulier
+  - association
+dashlord_url: https://dashlord.incubateur.net/url/www-snu-gouv-fr/
+accessibility_status: non conforme
 ---
 **Contexte**
 

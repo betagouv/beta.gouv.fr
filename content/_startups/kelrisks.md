@@ -20,6 +20,8 @@ link: https://kelrisks.beta.gouv.fr
 repository: https://github.com/MTES-MCT/kelrisks
 stats: false
 contact: mathieu.guiot@developpement-durable.gouv.fr
+usertypes:
+  - entreprise
 ---
 
 ## La pollution des sols : un risque invisible mais bien réel

@@ -12,9 +12,14 @@ phases:
     end: 2021-03-31
   - name: construction
     start: 2021-04-21
-    end: 2021-12-31
+    end: 2022-01-10
+  - name: alumni
+    start: 2022-01-10
 link: https://lab-agora.softr.app
 repository: https://github.com/betagouv/inca-app
+usertypes:
+  - particulier
+  - entreprise
 ---
 # Contexte 
 

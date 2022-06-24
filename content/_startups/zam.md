@@ -20,6 +20,9 @@ contact: contact@beta.gouv.fr
 techno:
     - Python
     - PostgreSQL
+usertypes:
+  - parlement
+  - etat
 ---
 
 ## Le contexte

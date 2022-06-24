@@ -8,6 +8,9 @@ contact: commun-orientation@anct.gouv.fr
 phases:
   - name: construction
     start: 2021-03-01
+usertypes:
+  - collectivite-territoriale
+  - particulier
 ---
 ![](/img/netlifycms/commun.orientation.png)
 

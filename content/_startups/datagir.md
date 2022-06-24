@@ -18,6 +18,12 @@ repository: https://github.com/datagir/datagir-site
 stats: true
 stats_url: https://datagir.ademe.fr/stats/
 contact: contact@datagir.beta.gouv.fr
+usertypes:
+  - particulier
+  - collectivite-territoriale
+  - entreprise
+  - association
+  - etablissement-scolaire
 ---
 
 # (Ré)Concilier défi planétaire et vie quotidienne

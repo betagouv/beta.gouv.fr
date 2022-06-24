@@ -19,7 +19,10 @@ phases:
   - name: acceleration
     start: 2020-09-01
   - name: transfer
-    start: 2021-09-01  
+    start: 2021-09-01
+usertypes:
+  - collectivite-territoriale
+  - etat
 ---
 # **Le constat**
 

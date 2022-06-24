@@ -11,6 +11,9 @@ phases:
   - name: alumni
     start: 2021-07-09
     end: 2021-10-15
+usertypes:
+  - etat
+  - collectivite-territoriale
 ---
 ## Contexte
 

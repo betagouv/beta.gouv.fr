@@ -18,6 +18,8 @@ redirect_from:
   - /startups/mission-transition
 stats: false
 contact: france-transition@beta.gouv.fr
+usertypes:
+  - entreprise
 ---
 
 ## Le problème

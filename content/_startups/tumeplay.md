@@ -5,9 +5,9 @@ sponsors:
   - /organisations/dgs
 incubator: sgmas
 link: https://tumeplay.fabrique.social.gouv.fr/
-repository: null
+repository: https://github.com/SocialGouv/tumeplay
 contact: yowa.muzadi@fabrique.social.gouv.fr
-stats: true
+stats: false
 phases:
   - name: investigation
     start: 2019-07-01
@@ -15,6 +15,10 @@ phases:
     start: 2019-09-01
   - name: acceleration
     start: 2021-01-01
+usertypes:
+  - particulier
+dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/tumeplay-fabrique-social-gouv-fr/
+accessibility_status: non conforme
 ---
 
 # Nos constats

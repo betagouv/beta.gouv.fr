@@ -31,6 +31,9 @@ techno:
   - PostgreSQL
   - Clever Cloud
   - Mailjet
+usertypes:
+  - particulier
+  - collectivite-territoriale
 ---
 
 De plus en plus de programmes de __végétalisation de l’espace public__ par les citoyens sont lancés par les communes de France.
