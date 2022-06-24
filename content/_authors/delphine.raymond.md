@@ -12,6 +12,7 @@ missions:
 incubator: mtes
 startups:
   - cadransolaire
+  - potentiel
 badges:
   - segur
 competences:
