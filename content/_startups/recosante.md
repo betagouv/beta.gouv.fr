@@ -36,7 +36,7 @@ Si la majorité des données environnementales sont ouvertes, elles ne sont pas 
 
 Par ailleurs, les comportements à adopter pour limiter les impacts de l’environnement sur la santé ne sont pas toujours connus.
 
-## Le cadre légal et administratif
+### Le cadre légal et administratif
 
 *Toute personne a le droit, dans les conditions et les limites définies par la loi, d’accéder aux informations relatives à l’environnement* (Charte de l’environnement, article 7).
 
@@ -60,7 +60,7 @@ C’est avec des personnes sensibles, et notamment atteintes de pathologies resp
 
 Afin de trouver la meilleure solution à ce problème, plusieurs supports et formats ont été testés en lien avec les utilisateurs du service.
 
-### Le service numérique
+## Le service numérique
 
 Sur la base des itérations avec les utilisateurs, [Recosanté](https://recosante.beta.gouv.fr/) propose aujourd’hui un service d’information sur la santé environnement organisé en trois supports : 
 
