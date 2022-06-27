@@ -72,5 +72,5 @@ A horizon 6 mois, nous souhaitons atteindre les objectifs suivants : 
 
 3. Tester l’usage de ZLV sur l’anticipation des futurs logements vacants
 
-* Avoir testé ZLV sur la mobilisation des propriétaires de passoires thermiques pour au moins 3 collectivités
+* Avoir testé l'adaptation de ZLV pour le démarchage de propriétaires de passoires thermiques pour au moins 3 collectivités
 * Préciser la vision long-terme de ZLV grâce aux retours de ces tests.
