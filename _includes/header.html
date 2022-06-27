@@ -31,7 +31,7 @@
               {% for item in site.data.menu.shortcuts %}
               <li class="fr-shortcuts__item">
                 {% if item.external == true %}
-                  <a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ item.url }}" title="{{ item.label }} - Nouvelle fenêtre" target="_blank" rel="noopener">{{ item.label }}</a>
+                  <a class="fr-link" href="{{ item.url }}" title="{{ item.label }} - nouvelle fenêtre" target="_blank" rel="noopener">{{ item.label }}</a>
                 {% else %}
                   <a class="fr-link" href="{{ item.url }}" title="{{ item.label }}">{{ item.label }}</a>
                 {% endif %}

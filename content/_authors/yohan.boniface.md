@@ -10,12 +10,16 @@ missions:
     end: 2021-12-31
     status: independent
     employer: octo
+  - start: 2022-01-01
+    end: 2022-12-31
+    status: independent
+    employer: scopyleft
 startups:
-  - egalite.professionnelle
   - données-et-territoires
 previously:
   - ban
   - api-drones
   - la-bonne-formation
   - classe-a-12
+  - egalite.professionnelle
 ---

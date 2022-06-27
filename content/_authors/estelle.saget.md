@@ -2,6 +2,7 @@
 fullname: Estelle Saget
 role: Chargée de déploiement
 domaine: Déploiement
+github: estellesaget
 missions:
   - start: 2022-05-09
     end: 2022-08-08

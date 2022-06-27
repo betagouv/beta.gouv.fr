@@ -576,14 +576,6 @@ h2.phase-title em {
   }
 }
 
-
-/* TYPO PAGE APPROCHE */
-.decorated{
-  background-color: #E9E6FC;
-  width: max-content;
-  font-size: 1rem;
-}
-
 .bigger-font {
   font-weight: bold;
   font-size: 3.5em;
@@ -612,8 +604,4 @@ h2.phase-title em {
 
 .startups .fr-card__img img {
   object-fit: cover;
-}
-
-form[target="_blank"]::after {
-  display: none;
 }

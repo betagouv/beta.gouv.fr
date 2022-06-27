@@ -16,21 +16,35 @@ usertypes:
   - etat
 ---
 ## Contexte
-Dans le cadre de la planification des missions aériennes, plusieurs acteurs sont impliqués : les pilotes, les mécaniciens, les opérateurs de flotte, pour ne citer qu'eux.
 
-Le projet Octopus, initié par l'Armée de l'Air et de l'Espace, vise à mettre à disposition des opérateurs un outil en ligne de coordination et de préparation des missions aériennes.
+Le projet est initié par la base aérienne d'Orléans Bricy pour mettre à disposition de ses opérateurs un outil en ligne de coordination et de préparation des missions aériennes.
 
-## Problème
-Les outils utilisés actuellement sont constitués de plusieurs gros fichiers Excel dont l’exploitation atteint aujourd’hui ses limites.
+Les outils utilisés actuellement sont constitués de plusieurs gros fichiers Excel, dont l’exploitation atteint aujourd’hui ses limites.
 
-Le travail collaboratif et l'échange d'informations n'est pas fluide, alors que les actions des uns ont des impacts importants sur les autres.
+## **Problématique**
 
-L'augmentation du nombre d'aéronefs accroît de façon exponentielle la charge de travail et rend très compliqué l'alignement de tous les acteurs afin de mettre sur pied une mission.
+Ce produit répond à la volonté de la base aérienne de pouvoir travailler plus efficacement avec un outil partagé et collaboratif. Le nombre d'acteurs croissant et l'arrivée de nouveaux avions entraînent mécaniquement un besoin de traitements de plus en plus important.
 
-## Objectifs
-- Centraliser les informations dans un outil de planification pérenne ;
-- Améliorer la transmission des informations entre les acteurs ;
-- Améliorer le temps de traitement d'une mission.
+## **Objectifs**
 
-## Solution
-Octopus permet aux différents acteurs de compléter les informations relatives à leur périmètre tout en permettant aux opérateurs de voir en temps réel les impacts d'un changement ou d'une nouvelle mission sur celles déjà planifiées.
+- Centraliser les informations dans un outil de planification pérenne
+- Améliorer la transmission des informations entre les acteurs
+- Améliorer le temps de traitement d'une mission
+
+## **Chronologie**
+
+**étape 1** (début mars 2021) cadrage du projet, entretiens avec les opérateurs des différents services,  parcours d'utilisation des outils actuels
+
+**étape 2** (mars 2021) réalisation des wireframes 
+
+**étape 3** (avril 2021) test des wireframes auprès des utilisateurs
+
+**étape 4** (mai 2021) présentation des travaux 
+
+**étape 5** (juin 2021) début du développement de l'outil socle calendrier
+
+**étape 6 :** (mi-septembre 2021) développement de l'outil Octopus
+
+**étape 7 :** (mai 2022) livraison du PMV 
+
+**étape 8 :** (juillet 2022) itération 2 - retours utilisateurs et nouvelles fonctionnalités
