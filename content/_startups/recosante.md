@@ -12,11 +12,11 @@ stats_url: https://recosante.beta.gouv.fr/stats/
 stats: true
 phases:
   - name: investigation
-    start: 2019-11-25
-    end: 2020-01-30
+    start: 2020-01-01
+    end: 2020-04-01
   - name: construction
-    start: 2020-03-27
-    end: 2021-06-30
+    start: 2020-04-01
+    end: 2021-06-01
   - name: acceleration
     start: 2021-06-01
 redirect_from:
@@ -81,8 +81,7 @@ L’ensemble des recommandations diffusées sont issues de sources officielles t
 ## Calendrier
 
 * Janvier 2020 : phase d’investigation
-* Avril 2020 : recrutement de l’équipe
-* Juillet 2020 : première phase de construction
+* Avril 2020 : première phase de construction et recrutement de l’équipe
 * Novembre 2020 : deuxième phase de construction
-* Juin 2021 : phase d’accélération
-* Février 2022 : reconduction de la phase d’accélération
+* Juin 2021 : première phase d’accélération
+* Février 2022 : deuxième phase d’accélération
