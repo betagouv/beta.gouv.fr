@@ -10,7 +10,6 @@ contact: contact@zerologementvacant.beta.gouv.fr
 dashlord_url: https://dashlord.incubateur.net/
 analyse_risques: false
 accessibility_status: non conforme
-owner: Direction générale de l'aménagement, du logement et de la nature (DGALN)
 stats: true
 events: []
 phases:
