@@ -5,7 +5,7 @@ role: Développeuse
 github: ccorsin
 missions:
   - start: 2020-11-01
-    end: 2023-05-31
+    end: 2022-05-31
     status: admin
     employer: minarm
 startups:
