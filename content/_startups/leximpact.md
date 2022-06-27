@@ -53,5 +53,5 @@ C'est pourquoi, là où le Parlement détient une expertise politique et juridiq
 
 Le défi LexImpact est pérennisé à l'Assemblée nationale depuis 2020. Ceci est acté par [décision de Questure au 12 décembre 2019](http://www2.assemblee-nationale.fr/15/le-college-des-questeurs/releves-des-decisions/2019/decisions-de-questure-de-la-reunion-du-12-decembre-2019).
 
-Depuis le premier produit de 2019, circonscrit uniquement à l'impôt sur le revenu, le périmètre couvert par LexImpact s'est largement étendu.\
+Depuis le premier produit de 2019, circonscrit uniquement à l'impôt sur le revenu, le périmètre couvert par LexImpact s'est largement étendu.  
 **LexImpact poursuit son amélioration continue au sein de l'Assemblée nationale et le service d'évaluation cherche à étendre son action à d'autres portions de la loi.**
