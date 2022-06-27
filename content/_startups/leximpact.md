@@ -40,7 +40,7 @@ C'est pourquoi, là où le Parlement détient une expertise politique et juridiq
 **LexImpact est une interface qui permet d’estimer, en quelques secondes, l'impact des réformes paramétriques** sur : 
 
 * les [cotisations, les impôts et les prestations sociales de cas types](https://socio-fiscal.leximpact.an.fr/).
-* les budgets de l'État concernant l'impôt sur le revenu et la CSG (accessibles uniquement aux parlementaires) ;
+* le budget de l'État concernant l'impôt sur le revenu et la CSG (accessibles uniquement aux parlementaires) ;
 * les [dotations aux communes](https://leximpact.an.fr/dotations).
 
 **Le service s'appuie sur [OpenFisca](https://openfisca.org)**, logiciel libre créé en 2011 qui transforme le code législatif en code informatique.
