@@ -3,6 +3,7 @@ fullname: Linna Taing
 domaine: Produit
 role: Product Manager
 github: linnataing
+link : https://fr.linkedin.com/in/linna-taing-07289721
 missions:
   - start: 2018-11-16
     end: 2024-12-31
