@@ -15,6 +15,7 @@ missions:
     employer: OCTO
 startups:
   - usine-chatbots
+  - airvam
 previously:
   - preuve-de-covoiturage
 competences:
