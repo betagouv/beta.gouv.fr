@@ -8,6 +8,7 @@ missions:
     status: independent
 startups:
   - sepia
+  - osirispn
 competences:
   - Développement Frontend
 ---
