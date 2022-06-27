@@ -1,6 +1,6 @@
 ---
 title: Air VAM
-mission: Gérer simplement les dossiers liés à un vol militaire aérien*
+mission: Gérer simplement les dossiers liés à un vol militaire aérien
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
