@@ -10,7 +10,9 @@ contact: contact@zerologementvacant.beta.gouv.fr
 dashlord_url: https://dashlord.incubateur.net/
 analyse_risques: false
 accessibility_status: non conforme
+stats_url: https://zerologementvacant.beta.gouv.fr/stats
 stats: true
+budget_url: https://docs.google.com/spreadsheets/d/1rki0Wlrk4hCL0WC8mlHcRlj8rk7iCZ4ed3lyxSa_yec/edit#gid=300205456
 events: []
 phases:
   - name: investigation
