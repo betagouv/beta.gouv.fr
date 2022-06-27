@@ -1,16 +1,20 @@
 ---
-title: L'immersion facile
-mission: Faciliter la réalisation des immersion professionnelles
-owner: DGEFP et Pôle emploi
+title: Immersion facilitée
+mission: Augmenter le nombre d'immersions professionnelles pour les personnes
+  éloignées de l'emploi
 sponsors:
-  - domaine_ministeriel: affaires-sociales
-    name: Ministère du Travail, de l'Emploi et de l'Insertion
-    type: administration-centrale
-incubator: sgmas
-contact: immersionfacile@beta.gouv.fr
+  - /organisations/dgefp
+  - /organisations/pole-emploi
+incubator: gip-inclusion
+link: https://immersion-facile.beta.gouv.fr/
+repository: https://github.com/betagouv/l-immersion-facile
+contact: contact@immersion-facile.beta.gouv.fr
+stats: true
 phases:
   - name: construction
     start: 2021-07-16
+usertypes:
+  - particulier
 ---
 ### **Le problème :**
 
@@ -21,7 +25,7 @@ Aujourd’hui, à peine 350 000 immersions professionnelles par an sont réalis�
 ### Pourquoi si peu d’immersions ?
 
 Parce que les personnes qui cherchent à faire une immersion n’ont pas un outil à leur disposition leur permettant d’identifier des entreprises où s’adresser.
-Parce que le proces administratif pour avoir l’accord de faire une immersion est lourd et chronophage. Les conseillers des missions locales ou de Pôle emploi demandent un délai minimal de 15 jours entre l’envoi d’une demande et la date de démarrage d’une immersion. Des prescripteurs exigent encore la transmission en mains propres du CERFA de la convention avec signatures orginales des parties et cachet de l’entreprise.
+Parce que le process administratif pour avoir l’accord de faire une immersion est lourd et chronophage. Les conseillers des missions locales ou de Pôle emploi demandent un délai minimal de 15 jours entre l’envoi d’une demande et la date de démarrage d’une immersion. Des prescripteurs exigent encore la transmission en mains propres du CERFA de la convention avec signatures originales des parties et cachet de l’entreprise.
 Résultats, des délais très longs pour des immersions d’une durée courte, des déplacements et des abandons avant le démarrage de l’immersion.
 
 ### Pourquoi les évaluations sont si mal capitalisées ?
@@ -30,15 +34,15 @@ Parce qu’il existe autant de formes de bilan qu’il y a de structures accompa
 
 ### La solution :
 
-Mettre à disposition des acteurs de l’orientation et de l’insertion professionnelle un commun numérique, “l’immersion facile.”
+Mettre à disposition des acteurs de l’orientation et de l’insertion professionnelle un commun numérique, “l’immersion facilitée.”
 Ce commun proposera :
 1/ La dématérialisation de la convention et, à terme, du bilan,
 
-2/ une base entreprises immersions construite sur des bases existantes (INSEE, La Bonne Boîte et qualifiée avec :
-de bases de données PMSMP (Pôle emploi, i-milo, Agefiph, FIPHFP…)
-des entreprises volontaires pour accueillir (ex : “les entreprises s’engagent”)
-des filtres anti abus (saisonnalité, risque AT…)
-accessible grâce à un moteur de recherche et un parcours utilisateur simple jusqu’au démarrage de la PMSMP
+2/ une base entreprises immersions construite sur  un annuaire d'entreprises accueillantes, volontaires pour accueillir en immersion professionnelle sur leurs métiers et s'engageant à répondre aux demandes des utilisateurs. 
+
+Cette base entreprise est enrichie par l'appel à des bases existantes (La Bonne Boîte, les emplois de l'inclusion ...) de façon à pouvoir suggérer des entreprises à contacter partout en France et quel que soit le métier recherché. L'objectif est à terme de n'avoir plus besoin d'appeler ces bases complémentaires.
+La base entreprise pourra activer des filtres anti abus (saisonnalité, risque AT…)
+La base est accessible grâce à un moteur de recherche et un parcours utilisateur simple jusqu’au démarrage de la PMSMP
 
 3/ Un parcours d’accès à l’immersion pouvant être utilisé tel quel ou adapté à un site existant.
 

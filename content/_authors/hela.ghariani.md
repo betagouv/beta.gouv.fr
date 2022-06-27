@@ -13,7 +13,7 @@ startups:
 previously:
   - etudiant-entrepreneur
   - boussole
-  - engagement-civique
+  - jeveuxaider
 ---
 
 Résiliente et engagée.

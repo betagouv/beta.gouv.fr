@@ -1,12 +1,8 @@
 ---
 title: OGP Toolbox
 mission: Trouver des outils numériques pour améliorer la démocratie
-owner: Etalab / Open Government Partnership
 sponsors:
-     - name: Etalab
-       acronym: Etalab
-       domaine_ministeriel: spm # Service du premier ministre
-       type: administration-centrale
+  - /organisations/dinum
 incubator: dinum
 events:
   - name: end
@@ -20,7 +16,9 @@ phases:
 link: https://ogptoolbox.org/
 repository: https://github.com/ogptoolbox/ogptoolbox-ui
 stats: false
-contact: emmanuel@raviart.com
+contact: contact@beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 OGP Toolbox est un réseau social pour trouver et partager des outils numériques efficaces au service de l'ouverture des gouvernments et des sociétés civiles.

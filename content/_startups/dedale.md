@@ -1,46 +1,91 @@
 ---
 title: Dédale
-mission: Assurer le meilleur service pour l'usager en phase d'avant-projet de sa demande d'autorisation du droit des sols 
-owner: Ministère de la Culture
+mission: Accompagner les usagers des services des Bâtiments de France lors de
+  travaux en espace protégé
+sponsors:
+  - /organisations/mc
 incubator: culture
+link: null
+repository: null
+contact: ateliernumerique@culture.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - particulier
+stats_url: null
+stats: true
 phases:
-  - name : investigation
-    start : 2020-01-15
-    end : 2020-04-01
+  - name: investigation
+    start: 2020-01-15
+    end: 2020-04-01
   - name: construction
     start: 2020-04-01
-link:
-repository:
-stats: false
-stats_url:
-contact: ateliernumerique@culture.gouv.fr
+budget_url: https://atelier-numerique.notion.site/Budgets-publics-des-start-up-1b5453be26234d1c9abcb6bbce577e58
 ---
+## **Retour sur l’investigation**
 
-Le problème : L’accompagnement usager n’est pas optimal et les conditions de travail des agents sont détériorées
+A l’initiative de l’UDAP du Rhône et de la Métropole de Lyon, une investigation a été conduite dans le cadre l’Atelier numérique du Ministère de la Culture en avril 2021 afin d’identifier et d'analyser les irritants rencontrés par les usagers et les agents.
 
-# Contexte
-Les demandes de travaux (demande préalable de travaux, permis de construire, enseigne...) font l'objet d'une autorisation de droit des sols (ADS) délivré par les services instructeurs des communes ou des EPCI. Lorsque le projet se situe dans un espace protégé au titre du patrimoine, les services déconcentrés du ministère de la Culture (unité départementale du patrimoine et de l'architecture - UDAP), plus connu sous le titre des Bâtiments de France, rendent aussi un avis afin de présever la qualité patrimoniale du site.
-L'UDAP reçoit alors plusieurs types de demandes des usagers :
-    - les demandes officielles sur lesquelles elle a deux mois pour répondre
-    - les demandes non officielles en amont du projet (avant-projet) qui permettent à l'usager d'échanger avec l'UDAP sur son dossier avant le dépôt officiel.
-    - les demandes d'informations sur un avis rendu
-    
-Pour le moment, deux élements majeurs ont été signalés :
-    - pour l'usager, la procédure d'ADS peut être complexe voir "violente" lorsqu'il n'est pas accompagné. Cette difficulté est renforcé lorsque s'ajoute la procédure avec l'UDAP.
-    - pour les services de l'UDAP,la procédure d'ADS est source de frustration - manque de temps pour fournir l'accompagnement souhaité à l'usager - et de stress - un nombre extremement important de demandes officielles et non officielles.
-    - pour la mission de service public, les dossiers déposés et acceptés ne sont pas nécessairement optimaux 
+Lors d’un projet de travaux, l’usager dépose une demande d’autorisation d’urbanisme (permis de construire, déclaration préalable…) auprès de sa mairie ou de sa communauté de communes. L'**unité départementale de l’architecture et du patrimoine (UDAP)**, service des architectes des Bâtiments de France, partage son expertise quand le projet est situé en espace protégé.
 
-# L'impact recherché  
-Assurer le meilleur accompagnement de l'usager tout au long de sa procédure, les conditions de travail des agents et la qualité finale des dossiers
+Le parcours, notamment pour la recherche de l’information et la compréhension des démarches, se révèle parfois complexe. En parallèle, les services sont en tension dans un contexte de forte hausse des demandes.
 
-# Les causes identifiées
 
-1. L'usager est mal informé
-    Il existe une incompréhension de la procédure ADS et de l'organisation administrative qui est renforcée par la défaillance dans la coordination avec les partenaires locaux (collectivités, CAUE) et par le manque d'informations : site officiel mal référencé, un contenu utilisant un langage administratif, des informations pas toujours précises. L'ensemble entraine un sentiment de déconsidération pour l'usager (ballotage entre différents interlocuteur, démarche apparaissant démesurée pour la nature des travaux) et engendre de nombreuses demandes générales auprès de l'UDAP qui prennent un temps important aux agents alors même qu'elles ne mobilisent pas la plue value de leur expertise.
-    
-2. Les demandes ne sont pas qualifiées et mal suivies
-    Une majorité des demandes arrivent non qualifiées avec par exemple un mail sans l'adresse ni la nature du projet. En outre, elles sont mal suivies (absence d'outil spécifique) alors même qu'elles arrivent par différents canaux (téléphone, mail, présentiel). L'usager ne peut pas non plus suivre l'avancement de sa demande. L'ensemble entraine une perte de temps et d'energie pour l'agent et l'usager.
-    
-# Deux solutions complémentaires
 
-Pour traiter ces deux problèmes, une logique de tunnel de conversion a été adoptée. Une première solution consiste à développer un produit pour mieux informer l'usager afin de l'autonomiser et qu'il puisse constituer un pré-dossier seul jusqu'à déposer directement son dossier officiel directement pour le sprojets les plus simples (rénovation d'une fénetre par exemple). Pour les demandes qui n'auront pas été répondu, une seconde solution reposant sur la création d'une démarche sur demarches-simplifiees.fr permet à l'usager d'interroger l'UDAP tout en ayant une demande qualifié et un suivi optimal.
+## **Deux solutions complémentaires**
+
+**A l’issue de l’investigation, deux solutions ont été retenues et sont en cours d'expérimentation.**
+
+**Axe 1 - Un mini-site d’informations, point d’entrée des usagers :**
+
+* mettre à disposition des usagers des informations fiables
+* rassurer l’usager dans sa démarche
+* diminuer les demandes d’informations auprès des agents des UDAP
+
+**Axe 2 - Un outil de consultations, point de contact auprès des services :**
+
+* assurer un meilleur accompagnement de l’usager tout au long de sa démarche
+* faciliter les conditions de travail des agents
+* améliorer la prise en compte des sujets patrimoniaux dans le cadre des demandes d’autorisation d’urbanisme
+
+
+
+## **Où en sommes-nous ?**
+
+**1. Le déploiement de l’outil de consultations** 
+
+Pour permettre aux usagers  de consulter l’UDAP dans le cadre de la préparation d’un projet, une plateforme a été mise au point avec plusieurs UDAP sur Démarches Simplifiées.
+
+**Déploiement :** au niveau national, un quart des UDAP utilise ou test désormais cet outil. Les problématiques résultant de l’investigation se sont révélées être commune à une majorité des services.
+
+**Premiers retours :** 
+
+* les agents-utilisateurs au sein des services pionniers notent un gain de temps dans le traitement des demandes grâce à la baisse des sollicitations sur d’autres canaux (téléphone et mails) et à la meilleure qualité des dossiers.
+* les premiers usagers interrogés sont satisfaits de cet outil. Se pose la question d’une meilleure adaptation aux différents types de demandes (mise en place de champs conditionnels).
+
+**2. Une première version du mini-site d’informations** 
+
+Une première version du mini-site est [en ligne](https://www.culture.gouv.fr/Demarches-en-ligne/Par-thematiques/Architecture/Mes-travaux-en-secteur-protege), hébergée sur le site du Ministère de la Culture. Plusieurs UDAP se sont investies dans la réflexion éditoriale (Deux-Sèvres, Maine-et-Loire, Rhône).
+
+L’intégration plus approfondie à l’écosystème culture.gouv.fr ainsi que la communication externe est en cours. Les contenus et l’ergonomie sont retravaillés au fur et à mesure des retours utilisateurs.  
+
+
+
+## **Prochaines étapes**
+
+**La phase de construction du produit se poursuit à l’issue du Comité d’Investissement du 18 mars 2022.**
+
+Pour le mini-site :
+
+* Améliorer l’expérience utilisateur
+* Assurer la mise à disposition de contenus locaux par les UDAP
+* Communiquer sur le mini-site auprès de l’ensemble des UDAP et auprès des collectivités territoriales
+
+Pour la plateforme de consultations :
+
+* Approfondir l’utilisation de Dédale dans les différents territoires départementaux
+* Améliorer le formulaire pour les usagers (simplification des champs)
+* Travailler à l’intégration de l’outil mis en place par Dédale au système d’information patrimonial pour favoriser le passage à l’échelle et l’utilisation d’un outil unique par les agents
+
+
+
+*Mise à jour : 10 mai 2022*

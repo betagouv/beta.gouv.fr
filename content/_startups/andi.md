@@ -1,12 +1,8 @@
 ---
 title: ANDi
 mission: Faciliter l'immersion professionnelle des personnes en situation de handicap
-owner: Caisse des dépôts 
 sponsors: 
-    - name: Caisse des dépôts et consignations
-      acronym: Caisse des dépôts
-      domaine_ministeriel: autres
-      type: autre
+    - /organisations/cdc
 incubator: dinum
 events:
   - name: end
@@ -14,16 +10,16 @@ events:
 phases:
   - name: investigation
     start: 2019-05-16
-    end: 2019-09-15
   - name: construction
     start: 2019-09-15
-    end: 2020-05-15
   - name: alumni
     start: 2020-05-15
 repository: https://github.com/betagouv/andi
 stats: true
 stats_url: https://andi.beta.gouv.fr/stats
 contact: karel.cloarec@beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## Fiche produit

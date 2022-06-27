@@ -5,7 +5,7 @@ domaine: Déploiement
 github: Paul-doliveira-da-costa
 missions:
   - start: 2021-01-15
-    end: 2022-02-13
+    end: 2023-02-13
     status: admin
     employer: DINUM
 startups:

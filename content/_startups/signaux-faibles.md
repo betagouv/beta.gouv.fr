@@ -1,24 +1,12 @@
 ---
 title: Signaux Faibles
 mission: Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté
-owner: le Ministère de l'Économie, des Finances et de la Relance (DGE) en partenariat avec le Ministère du Travail, de l'Emploi et de l'Insertion (DGEFP), la Banque de France, l'ACOSS et la DINUM
 sponsors:
-    - name: Direction Générale des Entreprises
-      acronym: DGE
-      domaine_ministeriel: bercy
-      type: administration-centrale
-    - name: Délégation Générale à l'Emploi et à la Formation Professionnelle
-      acronym: DGEFP
-      domaine_ministeriel: travail
-      type: administration-centrale
-    - name: Banque de France
-      acronym: BDF
-      domaine_ministeriel: autres
-      type: autre
-    - name: Agence Centrale des Organismes de Sécurité Sociale
-      acronym: ACOSS
-      domaine_ministeriel: sante
-      type: securite-sociale
+    - /organisations/dge
+    - /organisations/dgefp
+    - /organisations/bdf
+    - /organisations/acoss
+    - /organisations/dinum
 incubator: bercy
 phases:
   - name: investigation
@@ -29,6 +17,8 @@ phases:
     start: 2019-04-01
   - name: acceleration
     start: 2020-03-01
+usertypes:
+  - etat
 link: 
 repository: https://github.com/signaux-faibles
 stats: true

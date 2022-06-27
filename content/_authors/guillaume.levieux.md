@@ -5,18 +5,23 @@ domaine: Produit
 github: guillaumelevieux
 missions:
   - start: 2017-12-15
-    end: 2021-12-31
+    end: 2023-01-31
     status: admin
     employer: MTE/DGALN
 startups:
-    - camino
-    - aides-territoires
-    - locatio
-    - zero-logement-vacant
-    - innovation-urbaine
-    - resorption-bidonvilles
     - acceslibre
-    - friches    
+    - aides-territoires
+    - apilos
+    - bureaux.vacants
+    - camino
+    - docurba
+    - envergo
+    - urbanvitaliz
+    - innovation-urbaine
+    - locatio
+    - resorption-bidonvilles
+    - sparte
+    - zero-logement-vacant
 badges:
   - segur
 ---

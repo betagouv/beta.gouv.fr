@@ -1,15 +1,17 @@
 ---
 title: Matcha
-mission: "Susciter des recrutements en apprentissage"
-owner: Mission interministérielle pour l'apprentissage
+mission: "Faciliter le dépôt, la gestion et la diffusion de besoins de recrutement en alternance"
 sponsors:
-  - name: "Ministère du travail, de l'emploi et de l'insertion "
-    type: administration-centrale
-    domaine_ministeriel: travail
+    - /organisations/mtei
+    - /organisations/menjs
+    - /organisations/mesr
+    - /organisations/mtfp
 incubator: mission-apprentissage
 link: https://matcha.apprentissage.beta.gouv.fr/
 repository: https://github.com/mission-apprentissage/matcha-azure
-contact: apprentissage@beta.gouv.fr
+stats_url: https://matcha.apprentissage.beta.gouv.fr/metabase/public/dashboard/2a87d60c-f287-4c54-92eb-6f277cda5204
+stats: true
+contact: matcha@apprentissage.beta.gouv.fr
 events: []
 phases:
   - name: investigation
@@ -17,19 +19,22 @@ phases:
     end: ""
   - name: construction
     start: 2021-07-01
+usertypes:
+  - entreprise
+  - etablissement-scolaire
 ---
 *Matcha propose un formulaire qui facilite à la fois le dépôt, la gestion, la mise en visibilité et la diffusion d’un besoin de recrutement en alternance.
-Ce service peut être utilisé par un employeur, par les opérateurs de compétences ou les chambres consulaires lors des collectes d'offres et bientôt par des CFA qui seraient mandatés par des entreprises.*
+Ce service peut être utilisé par un employeur, par les opérateurs de compétences, les chambres consulaires lors des collectes d'offres et par des organismes de formation qui seraient mandatés par des entreprises pour pré-recruter des alternants.*
 
 ## Constat
 
-Pour les TPE et PME interrogées, déposer une offre sur un jobboard représente : 
+Pour les TPE, PME et CFA interrogées, déposer une offre sur un jobboard représente : 
 - Un coût en temps (offres longues à compléter, à suivre) ; 
 - Un coût financier (jobboards payants) ; 
 - Un coût de synchronisation (multiplicité des jobboards à solliciter). 
 
 
-En outre, elles nous font part de deux autres freins : 
+En outre, ils nous font part de deux autres freins : 
 - Leur méconnaissance des endroits où déposer des offres ; 
 - Leur crainte que les jeunes en recherche d’une alternance ne soient pas sur les sites généraux.
 
@@ -51,7 +56,7 @@ L’employeur ou la personne en charge de collecter l'offre accède à un formul
 
 L’employeur ou la personne en charge de collecter l'offre doit compléter le champ d’activité du recrutement et ajouter (mais ce n'est pas obligatoire) la date de début de la mission proposée et le niveau d’étude attendu.
 
-### Étape 3 - la diffusion instantanée de l’offre :
+### Étape 3 - la multi-diffusion instantanée de l’offre :
 
 L’offre est immédiatement visible par des viviers de candidats, sur 1jeune 1solution, La Bonne Alternance, Parcoursup et d’autres plateformes.
 

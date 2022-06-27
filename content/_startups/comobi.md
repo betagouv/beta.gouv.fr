@@ -1,18 +1,16 @@
 ---
-title: CoMobi (anciennement Lotocar)
-mission: Permettre aux personnes isolées de se déplacer sur les territoires peu denses grâce au covoiturage solidaire
-owner: l'Incubateur des Territoires
+title: CoMobi (ex Lotocar)
+mission: Améliorer le déplacement des personnes isolées sur les territoires peu denses grâce au covoiturage solidaire
 sponsors:
-    - name: Agence pour la transition ecologique
-      acronym: ADEME
-      domaine_ministeriel: environnement
-      type: operateur
+    - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2018-11-26
   - name: construction
     start: 2019-02-01
+  - name : transfer
+    start : 2021-11-01
 link: http://comobi.fr
 repository: https://github.com/betagouv/neutre.comobi.fr
 stats: false
@@ -20,6 +18,8 @@ contact: comobi@beta.gouv.fr
 redirect_from:
   - /startups/mobilot
   - /startups/lotocar
+usertypes:
+  - particulier
 ---
 
 **CoMobi outille les territoires peu denses pour déployer du covoiturage solidaire, basé sur les trajets régulièrement effectués en voiture, pour les personnes isolées et dépourvues de moyens de déplacement.**

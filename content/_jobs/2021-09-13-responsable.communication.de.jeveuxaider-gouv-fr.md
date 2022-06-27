@@ -1,6 +1,6 @@
 ---
 roles: 😍 Responsable Communication de JeVeuxAider.Gouv.fr !
-open: true
+open: false
 date: 2021-09-13T12:48:23.244Z
 startup: ""
 ---

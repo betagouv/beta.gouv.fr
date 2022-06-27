@@ -1,12 +1,8 @@
 ---
 title: Carbure
 mission: Gestion centralisée des flux de biocarburants
-owner: Ministère de la Transition écologique et solidaire
 sponsors:
-    - name: Direction generale de l'Energie et du Climat
-      acronym: DGEC
-      domaine_ministeriel: environnement
-      type: administration-centrale
+    - /organisations/dgec
 incubator: mtes
 phases:
   - name: investigation
@@ -18,6 +14,8 @@ link: https://carbure.beta.gouv.fr
 repository: https://github.com/MTES-MCT/carbure
 stats: true
 contact: guillaume.caillou@developpement-durable.gouv.fr
+usertypes:
+  - etat
 ---
 
 Les biocarburants, utilisés comme substituts aux carburants fossiles, permettent de réduire de plus de 4% les émissions de gaz à effet de serre du transport en France. 

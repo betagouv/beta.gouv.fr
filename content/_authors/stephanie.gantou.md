@@ -9,7 +9,6 @@ missions:
     employer: Pôle emploi
 startups:
   - encyclopedie-des-metiers
-  - planif-job
 previously:
   - la-bonne-place
 ---

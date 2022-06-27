@@ -1,12 +1,8 @@
 ---
 title: Étudiant entrepreneur
 mission: Faciliter l'accès au statut étudiant entrepreneur et à ses bénéfices
-owner: Direction générale de l'enseignement supérieur et de l'insertion professionnelle (DGESIP)
-sponsors: 
-    - name: Direction générale de l'enseignement supérieur et de l'insertion professionnelle
-      acronym: DGESIP
-      domaine_ministeriel: enseignement-sup
-      type: administration-centrale
+sponsors:
+  - /organisations/dgesip
 incubator: dinum
 events:
   - name: end
@@ -21,6 +17,8 @@ link: https://snee.esr.gouv.fr/
 repository: https://github.com/betagouv/etudiant-entrepreneur
 stats: false
 contact: contact@etudiant-entrepreneur.beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 <iframe style="border:none;" width="560" height="315" src="//www.dailymotion.com/embed/video/x4aa7o4" allowfullscreen></iframe>

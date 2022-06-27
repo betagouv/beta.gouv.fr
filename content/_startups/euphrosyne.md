@@ -1,16 +1,19 @@
 ---
 title: Euphrosyne
-mission: "Ouvrir les données de NewAglaé, l’Accélérateur Grand Louvre d'Analyses Elémentaires, à la communauté européenne des sciences du patrimoine, dans le cadre de la science ouverte et de la FAIRification des données (crédit photo: © Christophe HARGOUES / C2RMF / AGLAE / CNRS Photothèque)"
-owner: Ministère de la Culture
+mission: "Ouvrir les données d'AGLAE, accélérateur à particules européen"
+sponsors:
+  - /organisations/mc
 incubator: culture
 phases:
   - name: construction
     start: 2020-04-01
-link: https://c2rmf.fr/analyser/un-laboratoire-de-haute-technologie-pour-les-collections-des-musees/aglae
-repository:
+link: https://sagascience.com/newaglae/
+repository: https://github.com/betagouv/euphrosyne/
 stats: false
 stats_url:
 contact: claire.pacheco@culture.gouv.fr
+usertypes:
+  - particulier
 ---
 
 

@@ -5,7 +5,7 @@ title: Phase de transfert
 permalink: /approche/transfert
 ---
 
-> La **phase de transfert** ou **phase de consolidation** est la dernière phase d'accompagnement du programme beta.gouv.fr. Elle a pour objectif de mettre en œuvre les moyens nécessaires à la pérennisation du service public numérique développé.
+La **phase de transfert** ou **phase de consolidation** est la dernière phase d'accompagnement du programme beta.gouv.fr. Elle a pour objectif de mettre en œuvre les moyens nécessaires à la pérennisation du service public numérique développé.
 
 ## Fonctionnement
 

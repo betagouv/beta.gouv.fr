@@ -1,11 +1,12 @@
 ---
 fullname: Raphaël Squelbut
 role: Développeur
+github: raphael-squelbut
 missions:
   - start: 2021-05-10
-    end: 2021-07-10
+    end: 2022-12-30
     status: service
-    employer: Octo
+    employer: SHODO
 startups:
   - signaux-faibles
 domaine: Développement

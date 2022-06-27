@@ -1,19 +1,18 @@
 ---
 title: Code du travail numérique
 mission: Faciliter l'accès au droit du travail pour les entreprises et les employés.
-owner: ministère du Travail
 sponsors: 
-    - name: Délégation générale du travail
-      acronym: DGT
-      domaine_ministeriel: travail
-      type: administration-centrale
+    - /organisations/dgt
 incubator: sgmas
 phases:
   - name: investigation
     start: 2017-12-01
   - name: construction
-    start: 2017-12-01
+    start: 2018-05-01
   - name: acceleration
+    start: 2019-01-01
+  - name: success
+    start: 2021-01-01
 link: https://code.travail.gouv.fr
 repository: https://github.com/SocialGouv/code-du-travail-numerique
 stats: true
@@ -24,6 +23,9 @@ techno:
   - Node.js
   - Express
   - Elasticsearch
+usertypes:
+  - entreprise
+  - particulier
 ---
 
 ## Qu’est-ce que le Code du travail numérique ?

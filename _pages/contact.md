@@ -1,6 +1,8 @@
 ---
 layout: page
 permalink: /contact/
+redirect_from:
+  - /postuler/
 title: Nous contacter
 ---
 ## Faire un retour sur un service

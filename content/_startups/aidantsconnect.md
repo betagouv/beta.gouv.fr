@@ -1,12 +1,8 @@
 ---
 title: Aidants Connect
-mission: Permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule.
-owner: Agence Nationale de la Cohésion des Territoires
+mission: Réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule
 sponsors: 
-    - name: Agence Nationale de la Cohésion des Territoires
-      acronym: ANCT
-      domaine_ministeriel: territoires
-      type: operateur
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -20,6 +16,11 @@ repository: https://github.com/betagouv/Aidants_Connect
 stats: true
 stats_url: https://aidantsconnect.beta.gouv.fr/stats/
 contact: contactaidantsconnect@beta.gouv.fr
+usertypes:
+  - etat
+  - particulier
+dashlord_url: https://dashlord.incubateur.net/url/aidantsconnect-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 
 ## Contexte

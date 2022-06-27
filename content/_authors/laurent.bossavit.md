@@ -7,8 +7,11 @@ missions:
     end: 2021-04-05
     status: admin
     employer: dinum
+  - start: 2022-01-21
+    end: 2022-12-31
+    status: independent
+    employer: MTES-MCT
 startups:
-  - aidantsconnect
 previously:
   - maintenant
   - mpal
@@ -16,8 +19,8 @@ previously:
   - mon-entreprise
   - dossiersco
   - leximpact
-badges:
-  - segur
+  - aidantsconnect
+  - dinum
 ---
 
 Le coach est généralement une [chimère](https://fr.wikipedia.org/wiki/Chim%C3%A8re). Dans mon cas c'est un cocktail génétique où prédominent: codeur, détective et activiste. A part ça j'aime le café et jouer au Go, l'escalade en salle et lire Bruno Latour. (Mais pas tout en même temps.)

@@ -8,12 +8,14 @@ missions:
     status: admin
     employer: affaires-sociales
   - start: 2020-08-03
-    end: 2021-12-31
+    end: 2022-12-31
     status: independent
 startups:
-    - workinfrance
     - aplus
     - comobi
+previously:
+    - workinfrance
+github: DanielBMY
 ---
 
 Linchpin mindset, fighting mediocrity, the status quo… and the lizard brain!

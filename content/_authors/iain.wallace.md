@@ -1,14 +1,17 @@
 ---
 fullname: Iain Wallace
-role: Coach
 domaine: Coaching
-link: http://www.mydigitalfactory.fr 
+role: Coach
+link: http://www.mydigitalfactory.fr
 missions:
   - start: 2021-04-19
     end: 2021-09-30
     status: independent
     employer: Numa
-
+  - status: independent
+    employer: LBC
+    start: 2022-01-27
+    end: 2022-09-30
+competences:
+  - Coaching
 ---
-
-Coach franco-américain qui aime transmettre la magie de résoudre élégamment et rapidement des problèmes têtus en partant du client (ou usager) attesté par le sourire sur lèvres de ceux que je coache. 

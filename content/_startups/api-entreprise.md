@@ -1,12 +1,8 @@
 ---
 title: API Entreprise
-mission: Récupérer les données des entreprises
-owner: DINUM
+mission: Récupérer les données des entreprises pour éviter de les redemander 
 sponsors: 
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      domaine_ministeriel: spm # Service du premier ministre
-      type: administration-centrale
+    - /organisations/dinum
 incubator: apigouv
 phases:
   - name: investigation
@@ -19,6 +15,11 @@ link: https://entreprise.api.gouv.fr/
 repository: https://github.com/etalab/entreprise.api.gouv.fr
 stats: true
 contact: contact@apientreprise.fr
+usertypes:
+  - association
+  - entreprise
+  - etat
+  - collectivite-territoriale
 ---
 
 API Entreprise est une API qui permet de récupérer des données des entreprises comme la forme juridique, les mandataires sociaux, etc. ainsi que des pièces justificatives (attestations fiscales, sociales…) en toute sécurité.

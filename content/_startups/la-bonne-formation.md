@@ -1,12 +1,8 @@
 ---
 title: La Bonne Formation
 mission: Rechercher une formation efficace pour le retour à l'emploi et découvrir les financements possibles
-owner: Pôle emploi
-sponsors: 
-  - name: Pôle Emploi
-    acronym: PE
-    domaine_ministeriel: travail
-    type: operateur
+sponsors:
+  - /organisations/pole-emploi
 incubator: pole-emploi
 phases:
   - name: investigation
@@ -17,9 +13,11 @@ phases:
 link: https://labonneformation.pole-emploi.fr
 repository: https://git.beta.pole-emploi.fr/open-source/labonneformation
 stats: true
-contact: christophe.bonraisin@pole-emploi.fr
+contact: christ.bonraisin@pole-emploi.fr
 redirect_from:
   - /startups/labonneformation
+usertypes:
+  - particulier
 ---
 
 Objectif atteint pour le premier annuaire complet des formations en France ! La bonne formation a aidé depuis son lancement des millions d'actifs à faire le meilleur choix avec des infos clés par formation : Taux de Retour à l'Emploi, avis des anciens stagiaires, offres d'emploi associées, outil d'immersion pour découvrir un métier avant de se lancer.  

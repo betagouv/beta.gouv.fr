@@ -1,23 +1,31 @@
 ---
-title: Camino
-mission: Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.
-owner: Ministère de la Transition écologique et solidaire
-sponsors:
-    - name: Direction générale de l'Amenagement, du Logement et de la Nature / Direction de l'Eau et de la Biodiversite
-      acronym: 
-      domaine_ministeriel: environnement
-      type: administration-centrale
+mission: Ouvrir les données du domaine minier pour partager l'information sur
+  les projets et faciliter leur gestion.
 incubator: mtes
+repository: https://github.com/MTES-MCT/camino
+contact: camino@beta.gouv.fr
+analyse_risques: true
+usertypes:
+  - particulier
+  - collectivite-territoriale
+  - entreprise
+  - etat
+title: Camino
+sponsors:
+  - /organisations/dgaln
+  - /organisations/dgeb
+link: https://camino.beta.gouv.fr
+stats: true
+dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/camino-beta-gouv-fr/
 phases:
   - name: investigation
     start: 2018-01-01
   - name: construction
     start: 2018-01-01
   - name: acceleration
-link: https://camino.beta.gouv.fr
-repository: https://github.com/MTES-MCT/camino-ui
-stats: true
-contact: camino@beta.gouv.fr
+    start: 2019-01-01
+  - name: transfer
+    start: 2021-09-01
 ---
 
 ## Le problème

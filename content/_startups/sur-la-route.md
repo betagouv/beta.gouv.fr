@@ -1,12 +1,8 @@
 ---
 title: Sur la route !
-mission: Eviter les travaux sauvages sur les routes départementales
-owner: Département du Pas-de-Calais
-sponsors: 
-    - name: Département du Pas-de-Calais
-      acronym:
-      domaine_ministeriel: territoires
-      type: collectivite-territoriale
+mission: Éviter les travaux sauvages sur les routes départementales
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -19,6 +15,9 @@ repository:
 stats: false 
 stats_url: 
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - particulier
+  - entreprise
 ---
 
 ## Problème visé :

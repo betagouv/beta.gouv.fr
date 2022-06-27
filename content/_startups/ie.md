@@ -1,13 +1,19 @@
 ---
 title: Intelligence Entreprise
 mission: Améliorer la connaissance au moyen de l’intelligence artificielle
-owner: Ministère de l'économie, des finances et de la relance - Direction générale des entreprises (DGE)
 incubator: bercy
+sponsors:
+  - /organisations/dge
+  - /organisations/mefr
 phases:
   - name: investigation
     start: 2020-03-01
   - name: construction
     start: 2020-06-01
+  - name: alumni
+    start: 2022-01-01
+usertypes:
+  - etat
 link: 
 repository: 
 stats: false

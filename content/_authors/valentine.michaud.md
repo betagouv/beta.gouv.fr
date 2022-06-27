@@ -1,6 +1,6 @@
 ---
 fullname: Valentine Michaud
-role: Co-animatrice du programme beta.gouv.fr
+role: Product operations manager
 domaine: Animation
 github: ValentineM
 missions:
@@ -23,3 +23,4 @@ previously:
 badges:
   - segur
 ---
+Chargée du déploiement de produits et opérations transverses @beta.gouv

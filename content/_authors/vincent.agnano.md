@@ -1,23 +1,26 @@
 ---
 fullname: Vincent Agnano
-role: Développeur
 domaine: Développement
+role: Développeur transverse / Chargé de portefeuille
+github: vinyll
 avatar: https://vinyll.github.io/images/avatar.jpg
 link: https://vinyll.neomad.org
-github: vinyll
 missions:
   - start: 2016-04-01
-    end: 2021-12-31
-    status: independent
+    end: 2022-12-31
+    status: service
     employer: lazone
-startups:
-  - egalite.professionnelle
+startups: []
 previously:
+  - egalite.professionnelle
   - classe-a-12
   - saisissezauvol
   - eac
   - api-drones
   - data.gouv.fr
+competences:
+  - Développement Frontend
+  - Développement Backend
+  - Gestion de Produit
 ---
-
-Animateur d'espaces citoyens & Développeur.
+Chargé de portefeuille, développeur, animateur d'espaces citoyens en zone rurale.

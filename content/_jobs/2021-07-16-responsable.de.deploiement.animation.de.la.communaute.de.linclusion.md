@@ -1,7 +1,7 @@
 ---
 roles: Responsable de déploiement/Animation de La communauté de l'Inclusion
 title: La communauté de l'Inclusion recrute un ou une responsable de déploiement/animation
-open: true
+open: false
 junior: true
 date: 2021-07-16T09:01:13.746Z
 contrat: indépendant

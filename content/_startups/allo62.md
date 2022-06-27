@@ -1,8 +1,9 @@
 ---
 title: Allo 62
-mission: Permettre aux usagers de trouver le bon interlocuteur au sein du département
-owner: Département du Pas-de-Calais
+mission: Trouver le bon interlocuteur au sein du département
 incubator: anct
+sponsors:
+ - /organisations/departement-pas-de-calais
 phases:
   - name: investigation
     start: 2020-01-14
@@ -15,6 +16,9 @@ repository:
 stats: false 
 stats_url: 
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - particulier
 ---
 
 ## Problème visé :

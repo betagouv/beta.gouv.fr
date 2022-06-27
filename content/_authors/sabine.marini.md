@@ -4,10 +4,10 @@ domaine: Intraprenariat
 role: Intrapreneur
 missions:
   - start: 2021-04-09
-    end: 2022-04-08
+    end: 2022-12-31
     status: admin
 startups:
-  - appel.1
+  - apilos
 competences:
   - Administration Publique
 ---

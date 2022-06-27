@@ -1,6 +1,6 @@
 ---
 fullname: Rachid Benabdelhak
-role: Intrapreneur / PM en devenir / Lecteur passioné / Justicié masqué sauveur de chats la nuit
+role: Intrapreneur / PM
 domaine: Intraprenariat
 github: rachidLBP
 missions:
@@ -9,7 +9,7 @@ missions:
     status: service
     employer: Pôle emploi
   - start: 2021-05-01
-    end: 2022-03-31
+    end: 2022-06-30
     status: service
     employer: Pôle emploi
 startups:

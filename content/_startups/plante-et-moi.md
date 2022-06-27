@@ -1,17 +1,10 @@
 ---
 title: Plante & Moi
 mission: Augmenter la présence de la nature en ville
-owner: DINUM
 incubator: dinum
-sponsors: 
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      domaine_ministeriel: spm
-      type: administration-centrale
-    - name: Commissariat général au développement durable
-      acronym: CGDD
-      domaine_ministeriel: environnement
-      type: administration-centrale
+sponsors:
+  - /organisations/dinum
+  - /organisations/cgdd
 phases:
   - name: investigation
     start: 2016-09-01
@@ -38,6 +31,9 @@ techno:
   - PostgreSQL
   - Clever Cloud
   - Mailjet
+usertypes:
+  - particulier
+  - collectivite-territoriale
 ---
 
 De plus en plus de programmes de __végétalisation de l’espace public__ par les citoyens sont lancés par les communes de France.

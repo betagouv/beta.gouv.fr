@@ -5,11 +5,11 @@ domaine: Design
 github: sarahhevin
 missions:
   - start: 2021-07-01
-    end: 2021-10-01
+    end: 2022-09-30
     status: independent
-    employer: Octo 
+    employer: Benext 
 startups:
-  - pass-emploi
+  - l-application-du-cej
 badges:
   - segur
 ---

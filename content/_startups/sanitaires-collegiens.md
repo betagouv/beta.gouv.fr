@@ -1,7 +1,8 @@
 ---
 title: HY-VIGIE COLLÈGE 
 mission: Vigilance à l’hygiène dans les collèges
-owner: Département du Val d'Oise
+sponsors:
+    - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -14,6 +15,9 @@ repository:
 stats: false 
 stats_url: 
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - particulier
+  - etablissement-scolaire
 ---
 
 ## Problème: en France, un tiers des élèves n’utilisent pas les sanitaires des collèges

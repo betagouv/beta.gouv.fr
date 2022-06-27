@@ -1,7 +1,8 @@
 ---
 title: Entreprises.bzh
 mission: Assurer le suivi des demandes des entreprises entre les différents partenaires économiques régionaux
-owner: Région Bretagne
+sponsors:
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -13,6 +14,8 @@ repository:
 stats: false 
 stats_url: 
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - entreprise
 ---
 
 ## Problème visé :

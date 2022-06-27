@@ -5,7 +5,7 @@ domaine: Design
 link: http://www.chloelafortune.com
 missions:
   - start: 2021-04-27
-    end: 2021-07-09
+    end: 2021-12-31
     status: independent
     employer: scopyleft
 badges:

@@ -1,9 +1,6 @@
 ---
 title: AidESS
-mission: Venir en aide aux structures de l'économie sociale et solidaire en
-  simplifiant leur accès aux aides et aux financements publics dans un contexte
-  de relance
-owner: DRCS des Hauts-de-France et SGAR Bretagne
+mission: Simplifier l'accès aux aides et aux financements publics des structures d'Économie Sociale et Solidaire
 incubator: dinum
 contact: christophe.trouillard@jscs.gouv.fr
 phases:
@@ -15,6 +12,9 @@ phases:
     comment: Malgré les travaux de la phase d'investigation ayant permis de
       démontrer un problème et une hypothèse de stratégie à 6 mois, les deux
       intrapreneurs n'ont malheureusement pas pu être financés et sponsorisés.
+usertypes:
+  - association
+  - entreprise
 ---
 
 # Fiche produit

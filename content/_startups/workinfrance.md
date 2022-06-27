@@ -1,12 +1,8 @@
 ---
 title: Work in France
 mission: La plateforme de demande d’autorisations provisoires de travail
-owner: Ministère des Affaires sociales
 sponsors: 
-    - name: directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi
-      acronym: DIRECCTE
-      domaine_ministeriel: travail
-      type: administration-centrale
+    - /organisations/mtei
 incubator: sgmas
 phases:
   - name: investigation
@@ -20,6 +16,8 @@ link: http://workinfrance.fr
 repository: https://github.com/SocialGouv/work-in-france
 stats: true
 contact: contact@workinfrance.beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 Les étudiantes étrangères et les étudiants étrangers qui voudraient travailler en France, au-delà du mi-temps, doivent déposer une demande d'autorisation de travail en DIRECCTE<sup>1</sup>. C'est généralement une démarche critique pour le projet étudiant ; « pourrais-je rester en France, payer mes études, valider l'expérience professionnelle nécessaire à mon diplôme ? »

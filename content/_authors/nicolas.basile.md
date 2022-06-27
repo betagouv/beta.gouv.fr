@@ -4,7 +4,7 @@ role: UX/UI designer
 domaine: Design
 missions:
   - start: 2020-11-01
-    end: 2021-12-31
+    end: 2022-03-01
     status: independent
 avatar: /img/authors/nicolas.basile.jpg
 startups:

@@ -1,7 +1,8 @@
 ---
 title: Puije
 mission: Exploration de la relation jeunes/armées dans une optique de recrutement
-owner: Ministère des Armées
+sponsors: 
+    - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation

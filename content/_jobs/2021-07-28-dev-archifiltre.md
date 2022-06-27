@@ -1,6 +1,5 @@
 ---
 roles: un·e dev TypeScript ou Python
-startup: Archifiltre
 open: false
 startup: archifiltre
 techno: TypeScript ou Python

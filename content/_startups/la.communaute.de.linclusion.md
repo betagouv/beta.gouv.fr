@@ -1,13 +1,10 @@
 ---
-title: "La communauté de l'inclusion (ITOU)"
+title: "Communauté de l'inclusion (ITOU)"
 mission: Faciliter les échanges entre acteurs de l’inclusion
-owner: Ministère du Travail, de l'Emploi et de l'Insertion, ITOU
 sponsors:
-  - name: Délégation générale à l'emploi et à la formation professionnelle
-    acronym: DGEFP
-    type: administration-centrale
-    domaine_ministeriel: travail
-incubator: dinum
+  - /organisations/mtei
+  - /organisations/dgefp
+incubator: gip-inclusion
 stats: true
 link: https://communaute.inclusion.beta.gouv.fr/
 repository: http://github.com/betagouv/itou

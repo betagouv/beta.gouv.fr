@@ -3,11 +3,11 @@ layout: default
 ---
 
 {%- assign currents = site.authors | community: 'current', 'oldest' -%}
-{%- assign alumnis = site.authors | community: 'past', 'oldest' -%} 
+{%- assign alumnis = site.authors | community: 'past', 'oldest' -%}
 {% assign lang = page.lang | default: site.lang | default: "en" %}
 {% assign incubators = site.incubators %}
 <script>
-    var data = [
+    var members = [
         {% for current in currents %}
             { "id"        : "{{ current.id }}",
                 "fullname": "{{ current.fullname}}",
@@ -21,6 +21,7 @@ layout: default
                         { "start": "{{mission.start}}", "end": "{{mission.end}}", "status": "{{mission.status}}", "employer": "{{mission.employer}}" }{% unless forloop.last %},{% endunless %}
                     {% endfor %}
                 ],
+                "incubator": "{{ current.incubator }}",
                 "startups": [
                     {% for startup in current.startups %}
                         "{{ startup }}",
@@ -109,7 +110,6 @@ layout: default
                 , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
                 , "repository": "{{ startup.repository}}"{% endif %}
                 , "contact": "{{startup.contact}}"
-                , "owner" : "{{ startup.owner | escape }}"
                 , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
                 , "screenshot-url": "{{ screenshot_path }}"
                 , "phases": [
@@ -131,14 +131,14 @@ layout: default
     var staticFiles = [{% for static_file in screenshot_files %}
         "{{ static_file.path }}",
     {% endfor %}];
-</script> 
+</script>
 {%- include hero-page.html title=page.title -%}
 
 <div class="fr-container">
     <section class="filters sticky incubator-header fr-mb-2w">
         <div class="fr-container">
             <select class="fr-select" id="select-incubateur">
-                <option value="">Tous les incubateurs</option> 
+                <option value="">Tous les incubateurs</option>
             </select>
         </div>
     </section>
@@ -148,7 +148,7 @@ layout: default
                 <button id="tabpanel-currents" class="fr-tabs__tab" tabindex="0" role="tab" aria-selected="true" aria-controls="tabpanel-actifs">Membres actifs</button>
             </li>
             <li role="presentation">
-                <button id="tabpanel-alumnis" class="fr-tabs__tab" tabindex="-1" role="tab" aria-selected="false" aria-controls="tabpanel-alumnis">Alumnis</button>
+                <button id="tabpanel-alumnis" class="fr-tabs__tab" tabindex="-1" role="tab" aria-selected="false" aria-controls="tabpanel-alumnis">Alumni</button>
             </li>
         </ul>
         <div id="tabpanel-actifs" class="fr-tabs__panel fr-tabs__panel--selected" role="tabpanel" aria-labelledby="tabpanel-currents" tabindex="0">
@@ -160,7 +160,7 @@ layout: default
             </div>
         </div>
         <div id="tabpanel-alumnis" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-currents" tabindex="-1">
-            <h2><span id="alumnis-count">{{ alumnis | size }}</span> alumnis</h2>
+            <h2><span id="alumnis-count">{{ alumnis | size }}</span> alumni</h2>
             <div class="alumnis fr-grid-row fr-grid-row--gutters">
                 {%- for author in alumnis -%}
                 <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
@@ -176,6 +176,6 @@ layout: default
 <script>
     var urlParams = new URLSearchParams(window.location.search);
     var initValue = urlParams.get('incubateur');
-    data = generateDataWithHtmlCards(data);
-    createIncubatorSelect(data, incubators, initValue);
+    members = generateDataWithHtmlCards(members);
+    createIncubatorSelect(members, incubators, initValue);
 </script>

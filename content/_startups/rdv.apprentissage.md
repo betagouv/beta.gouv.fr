@@ -1,12 +1,11 @@
 ---
 title: RDV Apprentissage
-mission: "Faciliter le premier contact entre les candidats à l’apprentissage et
-  les Centre de Formation des Apprentis (CFA) "
-owner: Mission interministérielle pour l'apprentissage
+mission: Faciliter le premier contact entre les candidats à l’apprentissage et les Centre de Formation des Apprentis (CFA)
 sponsors:
-  - name: "Ministère du travail, de l'emploi et de l'insertion "
-    type: administration-centrale
-    domaine_ministeriel: travail
+    - /organisations/mtei
+    - /organisations/menjs
+    - /organisations/mesr
+    - /organisations/mtfp
 incubator: mission-apprentissage
 link: https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous
 repository: https://github.com/mission-apprentissage/prise-de-rdv
@@ -18,6 +17,10 @@ phases:
     end: ""
   - name: construction
     start: 2021-01-04
+usertypes:
+  - particulier
+  - etablissement-scolaire
+  - etat
 ---
 « RDV Apprentissage » est un module destiné à s’intégrer aux plateformes et portails exposant les formations en apprentissage pour faciliter le premier contact entre les candidats à l’apprentissage et les Centres de Formation des Apprentis (CFA).
 
@@ -36,12 +39,7 @@ Un outil numérique est en cours de construction pour permettre aux candidats à
 
 Il a vocation à être publiable sur toutes les plateformes internet et pourra donc être présent sur tous les points de passage naturels des candidats : La Bonne Alternance, Parcoursup, Affelnet, les sites des CFA et bien d’autres.
 
-Il est, tout au long du 1er semestre, développé, testé sur les sites de La Bonne Alternance et de Parcoursup et adapté aux besoins de leurs utilisateurs et d'un panel de CFA, avec le séquencement suivant : 
-- Version 1 : prise de rendez-vous par rappel du CFA ;
-- Version 2 : prise de rendez-vous par formulaire e-mail ; 
-- Version 3 : prise de rendez-vous par agenda.
-
-À l’issue de cette phase, si l’outil fait la preuve de sa valeur tant auprès des candidats que des CFA, alors il fera l’objet d’un déploiement général.
+Suite à une expérimentation réussie, le service est déployé progressivement depuis novembre 2021 sur toutes les formations déclarées par les CFA auprès de leur Carif-Oref et visibles sur La Bonne Alternance. Il se présente sous la forme d'un bouton "Prendre rendez-vous" disponible sur les pages formations. Le jeune qui clique dessus doit ensuite remplir un formulaire et indiquer ses coordonnées, qui sont envoyées au CFA. Ce dernier est incité à donner rapidement suite, en appelant le jeune pour répondre à ses premières questions et l'orienter vers le parcours qui permettra de concrétiser son entrée en apprentissage.
 
 ## Les bénéfices attendus
 

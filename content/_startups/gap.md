@@ -1,12 +1,19 @@
 ---
 title: GAP 2.0 (Gestion Archives Papier)
-mission: Permettre un meilleur accompagnement de la gestion des archives papier 
-owner: DIRECCTE Occitanie 
+mission: Améliorer l'accompagnement de la gestion des archives papier 
+sponsors:
+  - /organisations/anct
 incubator: dinum 
 phases: 
   - name: investigation
     start: 2020-10-13 # date au format ISO (AAAA-MM-DD)
     end: 2021-03-01 # 
+  - name: alumni
+    start: 2021-03-02
+    comment: Malgré les travaux de la phase d'investigation ayant permis de démontrer un problème impactant, la startup n'a pas réussi à obtenir un portage administratif ou les financements nécessaires pour passer en phase de contruction.
+usertypes:
+  - etat
+
 events: # les évènements marquants de la startup - les noms possibles sont définies dans /content/_events/
   - name: committee
     date: 2021-01-28 # date au format ISO (AAAA-MM-DD)

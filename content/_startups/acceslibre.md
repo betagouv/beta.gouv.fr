@@ -1,8 +1,9 @@
 ---
 title: Acceslibre
-mission: La plateforme collaborative pour l’accessibilité
-owner: Ministère de la Transition écologique et solidaire
+mission: Collecter et partager les données d'accessibilité des établissements publics
 incubator: mtes
+sponsors:
+ - /organisations/mtes
 link: https://acceslibre.beta.gouv.fr
 repository: https://github.com/MTES-MCT/acceslibre
 contact: julia.zucker@developpement-durable.gouv.fr
@@ -12,8 +13,14 @@ phases:
     start: 2019-11-01
   - name: construction
     start: 2019-11-01
+  - name: acceleration
+    start: 2021-09-01
 redirect_from:
     - /startups/access4all
+usertypes:
+  - particulier
+dashlord_url: https://dashlord.incubateur.net/url/acceslibre-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 
 ## Le problème&nbsp;: Le manque d’information sur l’accessibilité des lieux

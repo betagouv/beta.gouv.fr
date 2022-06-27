@@ -8,8 +8,13 @@ missions:
     status: admin
     employer: pole-emploi
 startups:
-    - la-bonne-formation
-    - annuaire-apprentissage
+    - la-bonne-formation 
+    - dematapprentissage
+    - rdv.apprentissage
+    - matcha
+    - la-bonne-alternance 
+    - sirius
+    
 ---
 
 Irrité par les irritants, pugnace pour chercher à les résoudre, avec 😃

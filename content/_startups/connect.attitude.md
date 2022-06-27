@@ -1,7 +1,8 @@
 ---
 title: Connect@attitude
 mission: "Lutter contre l'exclusion numérique "
-owner: Ville des Lilas
+sponsors:
+ - /organisations/anct
 incubator: anct
 contact: contactincubateur@anct.gouv.fr
 phases:
@@ -10,6 +11,8 @@ phases:
     end: 2020-01-31
   - name: alumni
     start: 2020-02-01
+usertypes:
+  - particulier
 ---
 **Un problème majeur**
 

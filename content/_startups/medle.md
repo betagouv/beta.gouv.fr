@@ -1,12 +1,8 @@
 ---
 title: Medlé
-mission: Permettre aux structures de médecine légale de consigner l'activité réalisée sur réquisition judiciaire et les personnels affectés
-owner: Ministère des Solidarités et de la Santé
+mission: Consigner l'activité de la médecine légale réalisée sur réquisition judiciaire
 sponsors:
-    - name: Direction generale de l’offre de soins
-      acronym: DGOS
-      domaine_ministeriel: environnement
-      type: administration-centrale
+    - /organisations/dgos
 incubator: sgmas
 phases:
   - name: investigation
@@ -17,6 +13,10 @@ phases:
     start: 2020-11-03
   - name: transfer
     start: 2021-07-01
+  - name: alumni
+    start: 2021-12-01
+usertypes:
+  - etat
 link: https://medle.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/medle
 stats: false

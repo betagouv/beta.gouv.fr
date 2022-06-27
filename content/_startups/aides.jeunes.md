@@ -1,10 +1,17 @@
 ---
-title: Aides Jeunes
 mission: "Faciliter le recours aux aides par les jeunes qui en ont le plus besoin "
-owner: Délégation générale à l'emploi et à la formation professionnelle
-incubator: dinum
-contact: aides-jeunes@beta.gouv.fr
+incubator: sgmas
 repository: https://github.com/betagouv/aides-jeunes
+contact: aides-jeunes@beta.gouv.fr
+accessibility_status: non conforme
+usertypes:
+  - particulier
+title: Aides Jeunes
+sponsors:
+  - /organisations/dgefp
+link: https://mes-aides.1jeune1solution.beta.gouv.fr
+stats: true
+dashlord_url: https://dashlord.incubateur.net/url/mes-aides-1jeune1solution-beta-gouv-fr/
 phases:
   - name: construction
     start: 2021-03-15
@@ -17,7 +24,7 @@ Ce non-recours, en cascade, a un impact sur la capacité des jeunes à s'insére
 
 ## Solution
 
-La première solution que nous proposons est un simulateur en ligne pour dire en quelques secondes à chaque jeune, selon sa situation, le montant des aides auxquelles il ou elle à droit, et comment les obtenir. \
+La première solution que nous proposons est un simulateur en ligne pour dire en quelques minutes à chaque jeune, selon sa situation, le montant des aides auxquelles il ou elle à droit, et comment les obtenir. \
 \
 Si nous mesurons que le simulateur est utile et utilisé, nous creuserons les pistes suivantes : 
 

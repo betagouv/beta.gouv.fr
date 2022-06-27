@@ -1,19 +1,24 @@
 ---
 title: CyberBudget
 mission: Découvrir le fondement d'un budget de l'Etat par le jeu
-owner: Ministère de l'économie, des finances et de la relance - Direction du budget (DB)
+sponsors:
+ - /organisations/mefr
 incubator: bercy
 phases:
   - name: investigation
     start: 2020-03-01
   - name: construction
     start: 2021-03-01
+  - name : alumni
+    start : 2022-01-01
 link: 
 repository: 
 stats: false
 contact: amd@finances.gouv.fr
 techno:
   - en cours
+usertypes:
+  - etablissement-scolaire 
 ---
 
 ## Le problème : le bugdet de l'Etat, une matière de spécialistes... et donc inaccessible

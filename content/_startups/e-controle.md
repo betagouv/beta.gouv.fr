@@ -1,12 +1,8 @@
 ---
 title: E-contrôle
-mission: Simplifier les échanges de documents entre un organisme de contrôle et les organisations contrôlées.
-owner: Cour des comptes
-sponsors: 
-    - name: Cour des Comptes
-      acronym: Cour des comptes
-      domaine_ministeriel: autres
-      type: autre
+mission: Simplifier les échanges de documents entre un organisme de contrôle et les organisations contrôlées
+sponsors:
+  - /organisations/c-comptes
 incubator: dinum
 events:
   - name: product_launch
@@ -22,6 +18,8 @@ phases:
     start: 2020-05-01
   - name: success
     start: 2020-09-01
+usertypes:
+  - etat
 link: https://e-controle-beta.ccomptes.fr
 repository: https://github.com/betagouv/e-controle
 stats: true

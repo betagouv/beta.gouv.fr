@@ -1,20 +1,24 @@
 ---
 title: Sirius
 mission: Éclairer les jeunes et leurs parents sur l'apprentissage
-owner: Mission interministérielle pour l'apprentissage 
-sponsors :     
-  - name: "Ministère du travail, de l'emploi et de l'insertion "
-    type: administration-centrale
-    domaine_ministeriel: travail
+sponsors:
+  - /organisations/menjs
+  - /organisations/mtei
+  - /organisations/mesr
+  - /organisations/mtfp
+  - /organisations/dinum
+  - /organisations/dgefp
 incubator: mission-apprentissage
 phases:
   - name: investigation
     start: 2020-07-01
-  - name: construction
-    start: 2021-01-01
 link: 
 repository: 
 contact: apprentissage@beta.gouv.fr
+usertypes:
+  - particulier
+  - etablissement-scolaire
+  - etat
 ---
 
 L'apprentissage est une voie de formation très dynamique, mais parfois mal connue ou victime de préjugés. Sirius vise à mettre en avant l'expérience des anciens apprentis pour lever des appréhensions de candidats et de leurs parents.

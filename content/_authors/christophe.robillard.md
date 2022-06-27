@@ -1,13 +1,13 @@
 ---
 fullname: Christophe Robillard
-role: Developpeur
+role: Facilitateur, Developpeur
 github: krichtof
 domaine: Développement
 avatar: 'https://www.gravatar.com/avatar/e8f6f2cce6baadb867e6836fe57b3596?s=512'
 link: 'http://christophe.robiweb.net'
 missions:
   - employer: LaZone
-    end: 2021-12-31
+    end: 2022-12-31
     start: 2019-11-01
     status: independent
 startups:
@@ -17,4 +17,4 @@ previously:
   - mpal
 ---
 
-Développeur, musicien et bipodocrate junior
+Facilitateur, développeur, musicien et bipodocrate junior

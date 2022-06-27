@@ -1,12 +1,8 @@
 ---
-title: Mon-entreprise.fr
-mission: "L’assistant officiel du créateur d’entreprise"
-owner: Urssaf
+title: Mon-entreprise
+mission: Guider les créateurs et créatrices d’entreprise.
 sponsors:
-    - name: Urssaf Caisse nationale
-      acronym: Urssaf
-      domaine_ministeriel: affaires-sociales
-      type: securite-sociale
+  - /organisations/urssaf
 incubator: dinum
 phases:
   - name: investigation
@@ -22,13 +18,16 @@ phases:
 events:
   - name: national_impact
     date: 2020-03-01
-link: https://mon-entreprise.fr
+link: https://mon-entreprise.urssaf.fr
 repository: https://github.com/betagouv/mon-entreprise
-budget_url: https://mon-entreprise.fr/budget
+budget_url: https://mon-entreprise.urssaf.fr/budget
+dashlord_url: https://dashlord.incubateur.net/url/mon-entreprise-urssaf-fr/
 stats: true
 contact: contact@mon-entreprise.beta.gouv.fr
+usertypes:
+  - entreprise
 ---
-# Mon-entreprise.fr
+# Mon-entreprise
 
 ## Le drame
 Monter une entreprise n'est pas simple. Le créateur cherche d'un côté des clients et un besoin auquel il est ou sera capable de répondre. De l'autre, il doit déclarer son activité et s'assurer qu'elle soit conforme à la loi.
@@ -54,7 +53,7 @@ Or on observe une nette croissance du nombre d'entreprises crées en France (+18
 
 **Il devient donc urgent d'accompagner ces nouveaux dirigeants dans la création de leur entreprise à travers un parcours simple et personnalisé**
 
-## Mon-entreprise.fr : le guide personnalisé pour créer et administrer son activité
+## Le guide personnalisé pour créer et administrer son activité
 
 Le principe : poser des questions ciblées à l'utilisateur pour le guider vers son choix; fusionner documentation et simulation. En bref : lever tous les freins et les questionnements au fur et à mesure de la progression du projet.
 
@@ -63,7 +62,7 @@ Nos cibles sont en particulier :
 - le citoyen qui se demande s'il faut et comment déclarer ses revenus de l'économie collaborative (livreur à vélo; VTC; loueur sur AirBnB; partage de voiture entre particuliers...)
 - Et plus généralement, le créateur d'entreprise qui découvre tout ce monde
 
-Mon-entreprise.fr est développé en étroite collaboration avec le réseau des Urssaf, et tous les acteurs institutionnels qui se montreront intéressés.
+Mon-entreprise est développé en étroite collaboration avec le réseau des Urssaf, et tous les acteurs institutionnels qui se montreront intéressés.
 
 ### Internationalisation 🌍
 
@@ -76,3 +75,6 @@ Tous les simulateurs et formulaires interactifs de mon-entreprise sont basés su
 ### Transfert à l’Urssaf
 
 En 2020, le service et l'équipe Mon Entreprise sont transférés hors de l'incubateur de la DINUM vers l’Urssaf Caisse nationale. 
+
+Fin 2021, le site est intégré dans l'écosystème Urssaf avec une nouvelle charte graphique et une nouvelle adresse : https://mon-entreprise.urssaf.fr
+ 

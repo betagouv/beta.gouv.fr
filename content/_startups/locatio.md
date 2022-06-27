@@ -1,24 +1,29 @@
 ---
 title: DossierFacile
-mission: Remettre la confiance au centre de la relation entre propriétaires et locataires
-owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
+mission: Remettre la confiance au centre de la relation entre propriétaires et
+  locataires
 sponsors:
-    - name: Direction generale de l'Amenagement, du Logement et de la Nature / Direction de l'habitat, de l'urbanisme et des paysages
-      acronym: DGALN / DHUP
-      domaine_ministeriel: environnement
-      type: administration-centrale
+  - /organisations/dgaln
+  - /organisations/dhup
 incubator: mtes
+link: https://www.dossierfacile.fr/?utm_source=betagouv&utm_medium=referral&utm_campaign=fiche_betagouv
+repository: https://github.com/mtes-mct/locatio
+contact: contact@dossierfacile.fr
+dashlord_url: https://dashlord.incubateur.net/url/dossierfacile-fr/
+analyse_risques: true
+accessibility_status: non conforme
+usertypes:
+  - particulier
+stats_url: https://www.dossierfacile.fr/stats
+stats: true
+budget_url: https://beta.gouv.fr/startups/locatio.html
 phases:
   - name: investigation
     start: 2018-01-01
   - name: construction
     start: 2018-01-01
   - name: acceleration
-link: https://www.dossierfacile.fr/?utm_source=betagouv
-repository: https://github.com/mtes-mct/locatio
-stats: true
-stats_url: https://www.dossierfacile.fr/stats
-contact: contact@dossierfacile.fr
+    start: 2018-01-01
 ---
 ## Locatio devient DossierFacile.fr !
 
@@ -37,9 +42,37 @@ Un DossierFacile, c'est un dossier simple, en ligne et totalement gratuit qui ai
 
 Bailleurs et professionnels de l'immobilier, DossierFacile est là pour vous rassurer dans votre choix en synthétisant les informations des différents candidats à la location et en vérifiant les déclarations d’imposition pour éviter mauvaises surprises et fausses déclarations. Notre rôle n’est pas de choisir pour vous mais nous pouvons vous aider à vérifier que tout est bien en ordre.
 
-## Le déploiement
+## Notre déploiement
 
-Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. Fin 2020, ce sont déjà plus de 250 000 locataires, 10 000 propriétaires et une dizaine de professionnels de l'immobilier qui ont choisi de nous faire confiance. Comprendre les besoins des locataires et des bailleurs est notre obsession et notre produit est en amélioration constante.
+Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. Fin 2021, ce sont déjà plus de 350 000 locataires, 20 000 propriétaires et une dizaine de professionnels de l'immobilier qui ont choisi de nous faire confiance. 
+
+## Notre impact et notre budget
+Depuis sa création, DossierFacile a accompagné plus de 420 000 candidats locataires dans la création de leur dossier de location. Ce sont autant de personnes qui ont pu constituer un dossier de location conforme et sécurisé, et autant de propriétaires ou d'agences rassurées, avec un impact avéré sur les escroqueries au logement et la vacance frictionnelle.
+Voici le budget consacré depuis le lancement du service :
+- 2018 : 72 500 € de la DGALN*
+- 2019 : 132 500 € de la DGALN
+- 2020 : 330 000 € de la DGALN
+- 2021 : 480 000 € de la DGALN et 200 000 € de la DINUM** (Fonds d'accélération des startups d'Etat et de territoires)
+- 2022 (prévisionnel) : 400 000 € de la DGALN et 900 000 € de la DINUM (Plan de Relance)
+
+Soit un total de 2 515 000 € depuis le lancement du service pour un nombre d'usagers prévisionnel à fin 2022 de 620 000, soit 4 €/usager.
+
+\*Direction générale de l'aménagement, du logement et de la nature (Ministère de la Transition écologique)
+
+\**Direction interministérielle du numérique (Services du Premier ministre)
+
+## Nos ambitions pour les prochains mois
+
+Comprendre les besoins des locataires et des bailleurs est notre obsession et notre produit est en amélioration constante. 
+Pour le premier semestre 2022, nous souhaitons notamment :
+- intégrer la possibilité d'utiliser FranceConnect pour s'identifier
+- tester le produit 'Mon FranceConnect' dans le but d'obtenir un justificatif d'imposition
+- continuer l'accompagnement de partenaires sur notre plateforme.
+
+## Nos indicateurs d'impact d'ici mi-2022
+
+D'ici juin 2022, nous avons pour objectif de valider 50% de dossiers en plus que sur les 6 derniers mois et d'abaisser notre coût par dossier de 15€ à 10€.
+
 
 Chez DossierFacile, nous voyons grand. Partant du dossier de location, nous avons l’ambition d’accompagner locataires et bailleurs tout au long de leur relation - et ce ne sont pas les idées qui nous manquent ! Pour autant, nous savons qu’inspirer la confiance est un défi de longue haleine qui ne pourra être relevé que pas à pas. Gardant tout ça en tête, nous n’avons qu’une boussole : toujours mieux servir les citoyens.
 

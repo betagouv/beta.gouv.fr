@@ -1,16 +1,17 @@
 ---
 fullname: Alexis Kohl
-role: Product Manager
 domaine: Produit
+role: Product Manager
 missions:
   - start: 2021-08-23
-    end: 2021-10-31
+    end: 2022-04-01
     status: independent
     employer: Octo
 startups:
   - article.40
 badges:
   - segur
+competences:
+  - Gestion de Produit
 ---
-
 Product manager au background technique et à la fibre entreuprenariale

@@ -1,7 +1,8 @@
 ---
 title: Participation Citoyenne
 mission: Augmenter et démontrer l'impact des démarches de consultation citoyenne
-owner: DITP
+sponsors:
+  - /organisations/ditp
 incubator: dinum
 phases:
   - name: investigation
@@ -13,6 +14,8 @@ repository:
 stats: false
 stats_url: 
 contact: contact@beta.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## L'impact recherché

@@ -5,11 +5,11 @@ domaine: Développement
 github: adgeg
 missions:
   - start: 2021-07-15
-    end: 2021-10-15
+    end: 2022-12-31
     status: service
     employer: Octo
 startups:
-  - pass-emploi
+  - l-application-du-cej
 badges:
   - segur
 ---

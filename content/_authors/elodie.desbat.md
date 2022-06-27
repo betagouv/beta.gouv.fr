@@ -4,7 +4,7 @@ role: Coach
 domaine: Coaching
 missions:
   - start: 2020-11-04
-    end: 2021-12-20
+    end: 2022-06-30
     status: service
     employer: Liberte Living-Lab
 startups:

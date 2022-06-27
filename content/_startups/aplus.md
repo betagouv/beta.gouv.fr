@@ -1,23 +1,16 @@
 ---
-title: Administration+, le service public VIP pour tous
+title: Administration+
 mission: Résoudre les blocages administratifs inextricables
-owner: DINUM
 sponsors: 
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      domaine_ministeriel: spm # Service du premier ministre
-      type: administration-centrale
-    - name: Agence nationale de la cohésion des territoires
-      acronym: ANCT
-      domaine_ministeriel: territoires
-      type: operateur
-incubator: dinum
+  - /organisations/anct
+incubator: anct
 phases:
   - name: investigation
-    start: 2017-10-01
+    start: 2017-09-01
   - name: construction
     start: 2017-10-01
   - name: acceleration
+    start: 2019-07-01
 link: https://aplus.beta.gouv.fr/
 repository: https://github.com/betagouv/aplus
 stats: true
@@ -30,6 +23,9 @@ techno:
    - Atos Worldine
    - OpenShift
    - Mailjet
+usertypes:
+  - etat
+accessibility_status: non conforme
 ---
 
 ## Avec Administration+, aucun blocage ne vous résiste

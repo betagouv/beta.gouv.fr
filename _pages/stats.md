@@ -11,7 +11,6 @@ additional_js:
 beta.gouv.fr a aussi une page stats.
 
 
-
 Les indicateurs utilisés sont…
 
 ## 1. Nombre de problèmes investigués par an
@@ -34,9 +33,3 @@ Les indicateurs utilisés sont…
 
 <canvas id="agent"></canvas>
 
-### EIG
-
-Indicateurs du programme 352 hors Startup d'État
-
-## 5. Nombre d'EIG sélectionnés dans l'année
-## 6. Nombre d'EIG recrutés dans l'administrations à la suite de leur défi

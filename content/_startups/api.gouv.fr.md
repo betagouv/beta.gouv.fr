@@ -1,12 +1,8 @@
 ---
 title: api.gouv.fr
-mission: Le site qui référence toutes les APIs du service public
-owner: DINUM
+mission: Référencer toutes les APIs du service public
 sponsors: 
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      domaine_ministeriel: spm # Service du premier ministre
-      type: administration-centrale
+    - /organisations/dinum
 incubator: apigouv
 phases:
   - name: investigation
@@ -21,6 +17,12 @@ stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idS
 contact: contact@api.gouv.fr
 redirect_from:
     - /startups/apigouv
+usertypes:
+  - particulier
+  - entreprise
+  - etat
+dashlord_url: https://dashlord.incubateur.net/url/api-gouv-fr/
+accessibility_status: non conforme
 ---
 
 ## Le problème :

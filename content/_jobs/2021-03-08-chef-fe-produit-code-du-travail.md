@@ -1,6 +1,5 @@
 ---
 roles: un·e chef·fe de produit
-startup: Code du travail numérique
 open: false
 startup: codedutravail
 ---

@@ -1,12 +1,8 @@
 ---
 title: Mes Aides
 mission: Évaluer ses droits à 28 aides sociales. En moins de 7 minutes.
-owner: DINUM
-sponsors: 
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      domaine_ministeriel: spm # Service du premier ministre
-      type: administration-centrale
+sponsors:
+    - /organisations/dinum
 incubator: dinum
 link: https://mes-aides.gouv.fr
 repository: https://github.com/betagouv/mes-aides-ui
@@ -27,6 +23,8 @@ phases:
     end: 2020-03-03
   - name: alumni
     start: 2020-03-03
+usertypes:
+  - particulier
 ---
 
 **[L'approche Startup d'État](https://github.com/betagouv/beta.gouv.fr/wiki/Comment-pr%C3%A9senter-beta.gouv.fr#approche) a été abandonnée par ce service public numérique. Pour aller directement au post-mortem, c'est [ici](#quelques-éléments-de-contexte).**

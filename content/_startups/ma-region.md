@@ -1,7 +1,8 @@
 ---
 title: Ma Région
 mission: Augmenter la connaissance et le taux de recours aux aides régionales
-owner: Région Hauts-de-France
+sponsors: 
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -14,6 +15,8 @@ repository:
 stats: false
 stats_url:
 contact: incubateur@anct.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## Problème visé

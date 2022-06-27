@@ -1,13 +1,16 @@
 ---
 title: ANAIS
 mission: Maîtriser notre espace maritime
-owner: Ministère des Armées
+sponsors:
+ - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation
     start: 2019-04-05
   - name: construction
     start: 2019-04-05
+usertypes:
+  - etat
 stats: false
 contact: charles.guenois@intradef.gouv.fr
 ---

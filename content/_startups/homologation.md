@@ -1,14 +1,12 @@
 ---
-mission: Mon Service Sécurisé, est un service numérique pour aider, pas à pas,
-  les entités publiques à sécuriser leurs services numériques et à les faire
-  homologuer selon une approche adaptée aux services les plus courants.
+mission: Faciliter la sécurisation et l'homologation des services numériques
 incubator: lab-innov-anssi
 link: https://www.monservicesecurise.beta.gouv.fr
 repository: https://github.com/betagouv/mon-service-securise
 contact: contact@monservicesecurise.beta.gouv.fr
-stats_url: null
 title: Mon Service Sécurisé
-owner: ANSSI
+sponsors:
+  - /organisations/anssi
 stats: false
 phases:
   - name: investigation
@@ -16,6 +14,8 @@ phases:
     end: 2021-05-07
   - name: construction
     start: 2021-05-07
+usertypes:
+  - collectivite-territoriale
 ---
 ## En cours de construction
 
@@ -24,64 +24,51 @@ N’hésitez pas à [nous
 contacter](mailto:contact@monservicesecurise.beta.gouv.fr) ou à [visiter notre
 site](https://www.monservicesecurise.beta.gouv.fr/) !**
 
-## CONTEXTE
+## L'ENJEU
 
-Les administrations, collectivités et autres entités publiques proposent
-toujours plus de services numériques à leurs usagers ou aux agents publics (ex.
-médiathèque permettant la réservation en ligne de livres, caisse des écoles
-permettant le paiement de la cantine, application mobile de signalement
-d’anomalies sur la voirie, visioconférence, messagerie, etc.).
+Les collectivités territoriales, administrations d'État, établissements et
+autres organismes publics mettent à disposition des usagers de plus en plus
+de services publics numériques : médiathèque permettant la réservation en
+ligne de contenus multimédias, caisse des écoles permettant le paiement de la
+cantine, etc.
 
-Ces services numériques peuvent être achetés sur étagères, ou développés et
-hébergés au profit des entités publiques.
+Ces services numériques peuvent être la cible de cyberattaques aux conséquences
+dommageables. Renforcer la sécurité de ces services est, par conséquent,
+essentiel afin de les protéger contre ces menaces.
 
-La sécurité de ces services est importante pour le fonctionnement des
-administrations et des collectivités qui portent des démarches ou formalités
-administratives dématérialisées, tout comme pour les usagers qui y ont recours.
+Afin d'y parvenir, la mise en œuvre d'une démarche d'homologation de sécurité
+permet d'identifier les mesures de sécurité adaptées à mettre en œuvre pour
+faire face aux risques auxquels ces services numériques sont soumis. Cette
+démarche est obligatoire pour l'ensemble des entités publiques au titre du
+Règlement Général de Sécurité (RGS).
 
-L’homologation de sécurité, obligatoire pour toutes les entités publiques au
-titre du Référentiel Général de Sécurité (RGS), est une démarche qui permet
-d’identifier les risques de sécurité associés à un service numérique et des
-mesures de sécurité à mettre en œuvre pour le protéger. La décision
-d’homologation de sécurité (document signé par une autorité) formalise des
-engagements en la matière.
+Désireuses de renforcer la sécurité de leurs services numériques (ou « téléservices »),
+de nombreuses entités publiques et en particulier des collectivités, sont
+aujourd'hui en attente de davantage d'accompagnement.
 
-## PROBLÈME 
+## LA SOLUTION
 
-La méthode d’homologation promue par l’ANSSI dans son guide en 9 étapes a fait
-ses preuves pour les projets numériques d’envergure. Celle-ci peut en revanche
-être complexe et trop exigeante en termes de temps et de ressources pour les
-projets de services numériques les plus simples. La méthode est perçue comme
-difficile d’accès pour les porteurs de projets et RSSI n’ayant jamais réalisé
-d’homologations, et qui ont peu de temps à consacrer à ces projets simples.
+MonServiceSécurisé aide toutes les entités publiques à se mettre en
+conformité avec le RGS et le RGPD (article 32 sur la sécurité des données)
+en sécurisant et en homologuant la sécurité de leurs sites web, applications
+mobiles et API aux besoins de sécurité modérés.
 
-Conséquence : le nombre de services publics actuellement homologués est
-en-dessous du seuil permettant d’instaurer la confiance des citoyens dans la
-transformation numérique de l’Etat. L’absence d’homologation est souvent
-révélatrice d’une prise en compte partielle des enjeux de sécurité associés.
+MonServiceSécurisé est une solution de l'ANSSI pensée pour et par les entités
+publiques.
 
-Notre défi : comment améliorer durablement la sécurité de la masse des services
-publics numériques les plus courants ?
+Il propose une solution
+- pédagogique : accessible aux novices comme aux spécialistes de la sécurité
+des systèmes d'information.
+- collaborative : métiers, RSSI et DPO peuvent travailler en même temps sur
+des dossiers partagés.
+- personnalisée : chaque démarche d'homologation est personnalisée et basée sur
+le respect d'un socle de sécurité conçu par l'ANSSI.
 
-## SOLUTION
+Sur MonServiceSécurisé, la constitution de chaque dossier d'homologation
+se décompose en 4 grandes étapes :
+- Description du service ;
+- Évaluation des risques de sécurité ;
+- Proposition de mesures de sécurité ;
+- Téléchargement du dossier d'homologation au format PDF.
 
-Mon Service Sécurisé, est un service numérique pour aider, pas à pas, les
-entités publiques à sécuriser leurs services numériques et à les faire
-homologuer selon une approche adaptée aux services les plus courants.
-
-Cette approche est guidée par plusieurs principes :
-- Rendre la démarche d’homologation accessible aux non experts ;
-- Permettre de lancer une démarche d’homologation sans délai et de manière
-  collaborative ;
-- Simplifier et accélérer la démarche d’homologation pour la masse des services
-  numériques les plus simples ;
-- Accompagner les porteurs de projets et RSSI avec une méthode standardisée et
-  outillée pour les projets les plus courants ;
-- Éclairer sur les risques les plus fréquents rencontrés par un service
-  numérique ;
-- Focaliser sur les recommandations essentielles de l’ANSSI adaptée au service
-  afin d’en augmenter le niveau de sécurité ;
-- Faciliter la prise de décision des autorités d’homologation grâce à des
-  explications pédagogiques et aux recommandations de l’ANSSI ;
-- Valoriser les homologations réalisées ;
-- Suivre la sécurité des services numériques homologués dans la durée.
+[Démarrer un projet d'homologation sur MonServiceSécurisé](https://www.monservicesecurise.beta.gouv.fr/connexion)

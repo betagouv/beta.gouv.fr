@@ -13,7 +13,7 @@ missions:
     status: independent
     employer: octo
   - start: 2020-12-31
-    end: 2021-12-31
+    end: 2022-09-15
     status: independent
     employer: octo
 startups:
@@ -22,7 +22,7 @@ badges:
   - segur
 previously:
     - la-bonne-formation
-    - engagement-civique
+    - snu
 ---
 
 

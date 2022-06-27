@@ -1,12 +1,8 @@
 ---
 title: Pix
-mission: Mesurer, développer et valoriser ses compétences numériques
-owner: GIP PIX
-sponsors: 
-    - name: Secrétariat général
-      acronym: SG
-      domaine_ministeriel: education-nat
-      type: administration-centrale
+mission: Mesurer, développer et valoriser ses compétences numériques.
+sponsors:
+  - /organisations/menjs
 incubator: dinum
 events:
   - name: national_impact
@@ -22,6 +18,8 @@ repository: https://github.com/1024pix/pix/
 stats: true
 stats_url: https://pix.fr/statistiques
 contact: contact@pix.fr
+usertypes:
+  - particulier
 ---
 
 Pix s'adresse aux françaises, français et francophones (en études, en situation de décrochage, en activité professionnelle, à la recherche d'un emploi, etc.) qui souhaitent mesurer, développer et valoriser leurs compétences numériques.

@@ -1,7 +1,8 @@
 ---
 title: Covoit'Scellés
-mission: L’application de co-voiturage de scellés pour la Police et la Gendarmerie
-owner: Ministère de l'Intérieur
+mission: Faciliter le co-voiturage de scellés pour la Police et la Gendarmerie
+sponsors:
+ - /organisations/interieur
 incubator: lab-mi
 phases:
   - name: investigation
@@ -13,6 +14,8 @@ link:
 repository: 
 stats: false
 contact: contact@beta.interieur.gouv.fr
+usertypes:
+  - etat
 ---
 
 ## Le gaspillage du transport de scellés.
@@ -38,7 +41,7 @@ Par exemple, un officier de police en commissariat de Lille doit amener un pisto
 Au final, un voyage quasi à vide pour un pistolet est évité, générant des économies d’essence, de personnel et de CO².
 
 
-## Feuille de route : Projet gelé jsque début 2021
+## Feuille de route : Projet gelé jusqu'au début 2021
 
 Le projet est mis en pause jusque 2021. l'intrapreneuse est engagée sur le lancement du projet HubScellé pour optimiser la chaîne logistique globale des scellés. Covoit'scellé pourra s'inscrire dans la feuille de route de Hub Scellé à partir de 2021.
 

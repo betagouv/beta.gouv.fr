@@ -1,7 +1,8 @@
 ---
 title: CRJ Bretagne
-mission: Comment valoriser la participation démocratique des jeunes dans les établissements scolaires via le Conseil Régional des Jeunes
-owner: Région Bretagne
+mission: Valoriser la participation démocratique des jeunes dans les établissements scolaires via le Conseil Régional des Jeunes
+sponsors:
+ - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -13,6 +14,9 @@ repository:
 stats: false 
 stats_url: 
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - particulier
 ---
 
 ## Problème visé :

@@ -1,15 +1,16 @@
 ---
 title: Commun Orientation
 mission: Aider les usagers à résoudre leurs problèmes
-owner: Agence nationale de la cohésion des territoires
 sponsors:
-    - name: Agence Nationale de la Cohésion des Territoires
-      acronym: ANCT
+    - /organisations/anct
 incubator: anct
 contact: commun-orientation@anct.gouv.fr
 phases:
   - name: construction
     start: 2021-03-01
+usertypes:
+  - collectivite-territoriale
+  - particulier
 ---
 ![](/img/netlifycms/commun.orientation.png)
 

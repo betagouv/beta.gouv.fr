@@ -1,6 +1,6 @@
 ---
 fullname: Julien Dauphant
-role: Chief Technical Officer BetaGouv
+role: Intrapreneur Tchap
 link: 'https://twitter.com/jdauphant'
 github: jdauphant
 missions:
@@ -13,9 +13,9 @@ missions:
     status: admin
     employer: dinum
 startups:
-  - aplus
   - tchap
 previously:
+  - aplus
   - signalement
   - plante-et-moi
   - e-controle

@@ -1,7 +1,8 @@
 ---
 title: Usine à chatbots
 mission: Automatiser la conception de chatbots
-owner: Ministère des Armées
+sponsors:
+ - /organisations/armees
 incubator: fabnumdef
 link: https://chatbot.fabnum.fr/
 contact: contact-chatbot@fabnum.fr
@@ -11,6 +12,8 @@ phases:
     start: 2020-02-01
   - name: construction
     start: 2020-05-01
+usertypes:
+  - etat
 ---
 ## Contexte
 

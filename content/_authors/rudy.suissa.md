@@ -1,12 +1,12 @@
 ---
-fullname: RUDY SUISSA
+fullname: Rudy Suissa
 role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2021-09-01
-    end: 2021-12-01
+    end: 2021-11-12
     status: independent
-    employer: DINUM
+    employer: La Zone
 startups:
   - inca
 badges:

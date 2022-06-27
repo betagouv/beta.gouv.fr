@@ -1,7 +1,8 @@
 ---
 title: mes-aides.bretagne.bzh
 mission: Faciliter l'accès et l’octroi des aides publiques par les collectivités bretonnes
-owner: Région Bretagne
+sponsors:
+    - /organisations/anct
 incubator: anct
 phases:
   - name: investigation

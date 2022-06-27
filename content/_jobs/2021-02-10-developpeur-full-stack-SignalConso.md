@@ -1,9 +1,9 @@
 ---
 roles: une développeuse ou un développeur web full-stack
 startup: signalement
-techno: Scala - Angular/RxJS
+techno: React - Scala - Typescript
 junior: false
-open: false
+open: true
 ---
 
 ## Qui sommes-nous ?
@@ -20,14 +20,30 @@ En savoir plus : [https://signal.conso.gouv.fr](https://signal.conso.gouv.fr)
 
 Vous serez en charge de continuer la construction du service pour les usagers. Vous participez à la conception, aux études terrain, aux tests utilisateur. L’équipe travaille en cycle court et en se confrontant en permanence aux retours des utilisateurs.
 Désormais en consolidation, SignalConso est aujourd'hui composé des briques suivantes:
-- frontend en Angular (TypeScript,  RxJS)
-- API REST en Scala (play! framework)
-- une BDD PostgreSQL
-- déploiement sur Clever Cloud en production et sur Heroku en test/recette
 
-Tout le code est open source et consultable sur GitHub :
-- [Frontend](https://github.com/betagouv/signalement-app)
-- [Backend](https://github.com/betagouv/signalement-api)
+- **API Rest**<br/>
+_Scala, Play!_<br/>
+Avec des bases de données PostgreSQL<br/>
+[https://github.com/betagouv/signalement-api](https://github.com/betagouv/signalement-api)
+<br/>
+<br/>
+- **Site principal**<br/>
+_React, Typescript, Next_<br/>
+[https://github.com/betagouv/signalconso-website](https://github.com/betagouv/signalconso-website)
+<br/>
+<br/>
+- **Site admin**<br/>
+_React, Typescript<br/>_
+Interface réservée aux professionnels (entreprises signalées), aux agents DGCCRF et aux consommateurs<br/>
+[https://github.com/betagouv/signalconso-dashboard-react](https://github.com/betagouv/signalconso-dashboard-react)
+<br/>
+<br/>
+- **API SDK**<br/>
+_Typescript_<br/>
+Client pour **API REST**<br/>
+[https://github.com/betagouv/signalconso-api-sdk-js](https://github.com/betagouv/signalconso-api-sdk-js)
+
+Les applications sont herbergées sur Clever Cloud.
 
 Vous êtes en mesure de jouer sur 2 tableaux :
 - L’exploration : « Vite un prototype pour tester une hypothèse avec des utilisateurs dès demain ! »
@@ -37,10 +53,10 @@ Plus qu'un exécutant vous êtes motivé par la vision produit et souhaitez vous
 
 ## Compétences
 
-- Développeur fullstack avec une très bonne expérience soit en Scala (Framework Play) soit en Angular/RxJS (programmation réactive / fonctionnelle)
-- Bonne maîtrise du développement front-end (HTML, CSS, JavaScript).
+- Développeur fullstack React, Typescript et Scala (voir Java ou tout langage orienté JVM si motivé pour progresser en Scala), avec de solides compétences sur ces technos Front.
+- Développeur fullstack React, Typescript, Scala, avec de solides compétences sur ces technos Front.
 - Expérience en conception orientée utilisateur et en expérience utilisateur.
-- Appétence pour le Devops (Heroku / Clevercloud). Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
+- Vous avez l’habitude des modalités de contribution du logiciel libre (issues, PR…).
 - Expérience de l’écosystème technique web bienvenue : test AB, analytics…
 
 
@@ -56,11 +72,11 @@ Plus qu'un exécutant vous êtes motivé par la vision produit et souhaitez vous
 
 Une équipe très motivée et composée de:
 - Guillaume Rossmann - Intrapreneur
-- Julien Rayneau - Coach
-- Alexandre Annic - Développeur
-- Jérôme Rivals - Développeur
-- Quentin Kurtz - Chargé de déploiement
+- Saïd Sedoud - Développeur
+- Ingrid Godefroy - Chargé de déploiement
+- Guillaume De Gérando - Support
+- Nathaniel Richand - Coach
 
 ## Vous souhaitez rejoindre la startup SignalConso ?
 
-Envoyez votre LinkedIn / CV / GitHub sous la forme que vous souhaitez à [guillaume.rossmann@beta.gouv.fr](mailto:guillaume.rossmann@beta.gouv.fr) copie [julien.rayneau@beta.gouv.fr](mailto:julien.rayneau@beta.gouv.fr), [alexandre.annic@beta.gouv.fr](mailto:alexandre.annic@beta.gouv.fr) et [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr)
+Envoyez votre LinkedIn / CV / GitHub sous la forme que vous souhaitez à [guillaume.rossmann@beta.gouv.fr](mailto:guillaume.rossmann@beta.gouv.fr) copie [s.sedoud.betagouv@gmail.com](mailto:s.sedoud.betagouv@gmail.com), [alexandre.annic@beta.gouv.fr](mailto:alexandre.annic@beta.gouv.fr) et [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr)

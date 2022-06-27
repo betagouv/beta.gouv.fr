@@ -1,7 +1,8 @@
 ---
 title: La Belette
 mission: Savoir qui fait quoi à la Région
-owner: Région Hauts-de-France
+sponsors:
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -16,6 +17,8 @@ repository:
 stats: false
 stats_url:
 contact: incubateur@anct.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## Problème visé

@@ -1,12 +1,16 @@
 ---
 fullname: Sébastien POIROT
-role: Intrapreneur
 domaine: Intraprenariat
+role: Intrapreneur
 github: sebpoirotPE
-missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
-  - start: 2020-09-07 # date d'arrivée au format ISO (AAAA-MM-JJ)
-    end: 2022-03-22 # date de fin de contrat au format ISO (AAAA-MM-JJ)
+missions:
+  - start: 2020-09-07
+    end: 2022-03-22
     status: admin
     employer: Pôle Emploi
+startups:
+  - competence.validee
+competences:
+  - Gestion de Produit
 ---
-Écrit des autobiographies percutantes en moins de 200 caractères depuis 1972.
+Pivoteur professionnel

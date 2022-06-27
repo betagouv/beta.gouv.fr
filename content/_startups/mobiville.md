@@ -1,15 +1,8 @@
 ---
-title: MobiVille
+title: Mobiville
 mission: Diminuer le nombre d'emplois non pourvus en facilitant la mobilité géographique des actifs
-owner: Pôle emploi et Action Logement
 sponsors:
-    - name: Pôle Emploi
-      acronym: PE
-      domaine_ministeriel: travail
-      type: operateur
-    - name: Action Logement
-      domaine_ministeriel: travail
-      type: operateur
+    - /organisations/pole-emploi
 incubator: pole-emploi
 contact: mobiville@pole-emploi.fr
 phases:
@@ -18,10 +11,13 @@ phases:
     end: 2020-06-04
   - name: construction
     start: 2020-06-04
+  - name: acceleration
+    start: 2021-09-01
 link: https://mobiville.pole-emploi.fr
 repository: https://github.com/StartupsPoleEmploi/mobiville
 stats: true
-
+usertypes:
+  - particulier
 ---
 **Problème**
 

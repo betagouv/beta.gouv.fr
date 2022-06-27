@@ -1,12 +1,8 @@
 ---
 title: Mes démarches retraite pas à pas
 mission: Obtenir en quelques clics la liste personnalisée de ses démarches de retraite
-owner: CNAV, MSA, Sécurité sociale pour les indépendants
 sponsors:
-    - name: CNAV
-      acronym: CNAV
-      domaine_ministeriel: affaires-sociales
-      type: securite-sociale
+    - /organisations/cnav
 incubator: dinum
 events:
   - name: end
@@ -21,6 +17,8 @@ link: https://mesdemarchesretraite.fr
 repository: https://github.com/betagouv/retraite
 stats: false
 contact: cisse.traore@cnav.fr
+usertypes:
+  - particulier
 ---
 
 Le départ à la retraite est un moment angoissant. Les démarches peuvent être longues et doivent être anticipées très en amont. Pour accompagner les assurées et les assurées dans leur parcours, « Mes démarches retraite pas à pas » donne une liste personnalisée des démarches à suivre pour préparer son départ à la retraite.

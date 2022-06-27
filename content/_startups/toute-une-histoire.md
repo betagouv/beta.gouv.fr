@@ -1,8 +1,9 @@
 ---
 title: Toute une histoire
 mission: Permettre aux enfants placés au service l’Aide Sociale à l’Enfance d'accéder facilement à leur histoire de vie
-owner: Département de la Somme
 incubator: anct
+sponsors:
+- /organisations/anct
 phases:
   - name: investigation
     start: 2020-01-14
@@ -14,6 +15,9 @@ repository:
 stats: false 
 stats_url: 
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - particulier
+  - collectivite-territoriale
 ---
 
 ## Problème: 1500 enfants placés sans souvenirs

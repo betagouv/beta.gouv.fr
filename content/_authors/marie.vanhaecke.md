@@ -4,12 +4,14 @@ role: Coach
 domaine: Coaching
 github: marievanhaecke
 missions:
-  - start: 2021-01-21
+  - employer: Dinum
+    start: 2021-01-21
     end: 2022-12-31
     status: service
-    employer: Dinum
 startups:
   - tutorat_fp
+  - talents.numeriques
+previously:
   - metiers-numeriques
 badges:
   - segur

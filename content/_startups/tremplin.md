@@ -1,12 +1,8 @@
 ---
 title: Tremplin
 mission: Rapprocher les professionnels de santé de leur futur territoire d’exercice
-owner: Ministère des Solidarités et de la Santé
 sponsors:
-    - name: Direction generale de la sante
-      acronym: DGS
-      domaine_ministeriel: affaires-sociales
-      type: administration-centrale
+  - /organisations/dgs
 incubator: sgmas
 events:
   - name: end
@@ -24,6 +20,8 @@ link:
 repository:
 stats: false
 contact: pierre-yves.darnaudet@ars-sante.fr
+usertypes:
+  - entreprise
 ---
 
 ## TREMPLIN : Territoire REMPLacement INstallation

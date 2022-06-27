@@ -1,16 +1,22 @@
 ---
 title: Anti-Gaspi-Cantine
 mission: Réduire le gaspillage alimentaire dans les cantines scolaires
-owner: Département de l'Oise
 incubator: anct
+sponsors: 
+    - /organisations/departement-oise
 phases:
   - name: investigation
     start: 2020-01-14
+  - name: alumni
+    start: 2021-08-23
 link:
 repository: 
 stats: false 
 stats_url: 
 contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - particulier
+  - etablissement-scolaire
 ---
 
 ## Problème: 1 million de repas perdus chaque année dans les restaurations scolaires

@@ -1,12 +1,8 @@
 ---
-title: Résorption-bidonvilles
+title: Résorption Bidonvilles
 mission: Connaître, partager et agir pour résorber les bidonvilles
-owner: Délégation interministérielle à l'hébergement et à l'accès au logement (DIHAL)
-sponsors:
-  - name: Délégation interministérielle à l'hébergement et à l'accès au logement
-    acronym: DIHAL
-    domaine_ministeriel: territoires
-    type: administration-centrale
+sponsors: 
+    - /organisations/dihal
 incubator: mtes
 repository: https://github.com/MTES-MCT/resorption-bidonvilles
 contact: contact@resorption-bidonvilles.beta.gouv.fr
@@ -22,7 +18,11 @@ phases:
     end: 2020-08-31
   - name: acceleration
     start: 2020-09-01
-    end: 2021-06-13
+  - name: transfer
+    start: 2021-09-01
+usertypes:
+  - collectivite-territoriale
+  - etat
 ---
 # **Le constat**
 

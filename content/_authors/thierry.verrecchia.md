@@ -6,7 +6,7 @@ github: pocmaker42
 link: https://www.pocmaker.net
 missions:
   - start: 2021-04-01
-    end: 2021-11-06
+    end: 2022-12-31
     status: independent
     employer: Octo
 startups:

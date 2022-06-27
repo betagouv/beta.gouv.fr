@@ -6,9 +6,9 @@ link: http://quantedsquare.com/
 github: UngererFabien
 missions:
   - start: 2021-09-06
-    end: 2021-12-10
+    end: 2022-11-30
     status: independent
-    employer: Octo
+    employer: Quanted Square
 startups:
   - docurba
 ---

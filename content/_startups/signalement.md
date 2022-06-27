@@ -1,7 +1,8 @@
 ---
 title: SignalConso
 mission: Faire baisser le nombre d'anomalies rencontrées par les consommateurs
-owner: Ministère de l'économie, des finances et de la relance - Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)
+sponsors:
+    - /organisations/dgccrf
 incubator: bercy
 phases:
   - name: investigation
@@ -12,6 +13,11 @@ phases:
     start: 2020-02-01
   - name: transfer
     start: 2020-09-01
+  - name: success
+    start: 2022-01-01
+events: 
+  - name: national_impact
+    date: 2021-12-31
 link: https://signal.conso.gouv.fr
 repository: https://github.com/betagouv/signalement-app
 stats: true
@@ -23,6 +29,9 @@ techno:
   - Play Framework
   - Angular
   - Clever Cloud
+usertypes:
+  - entreprise
+  - etat
 ---
 
 Trop d'anomalies aujourd'hui ne sont pas remontées

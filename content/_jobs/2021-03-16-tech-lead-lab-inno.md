@@ -1,7 +1,7 @@
 ---
 roles: Tech Lead
 startup: PSIJ, Candilib, Drône tracking, FEDEL-DM...
-open: true
+open: false
 ---
 
 Vous voulez mettre vos compétences au profit de l’amélioration du service public ? Vous souhaitez travailler dans une équipe agile, et proche de ses utilisateurs ? Le laboratoire innovation du ministère de l'Intérieur recherche son tech lead !

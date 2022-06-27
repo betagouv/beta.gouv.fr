@@ -1,7 +1,8 @@
 ---
 title: JeSaisFaire
 mission: Réconcilier acheteurs et PME avec les marchés publics.
-owner: Ministère de l'Intérieur
+sponsors:
+  - /organisations/interieur
 incubator: lab-mi
 phases:
   - name: investigation
@@ -13,6 +14,10 @@ link:
 repository:
 stats: false
 contact: contact@beta.interieur.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - entreprise
+  - etat
 ---
 
 ## Trop d’achats publics sans publicité 

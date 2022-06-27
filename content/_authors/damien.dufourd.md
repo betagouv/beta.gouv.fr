@@ -5,7 +5,7 @@ domaine: Coaching
 github: damiendufourd
 missions:
   - start: 2018-09-04
-    end: 2021-12-31
+    end: 2022-12-30
     status: independent
 startups:
   - diagoriente
@@ -15,6 +15,8 @@ startups:
   - matcha
   - pau-partage
   - commun.orientation
+  - cmachance
+previously:
   - cmachance
 badges:
   - segur

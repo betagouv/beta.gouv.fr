@@ -1,20 +1,19 @@
 ---
 title: API Particulier
-mission: Accélérer l’ouverture des données personnelles et leur réutilisation pour simplifier les démarches
-owner: DINUM
+mission: Faire circuler les données des particuliers pour réduire les demandes de pièces justificatives et simplifier les démarches
 sponsors: 
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      domaine_ministeriel: spm # Service du premier ministre
-      type: administration-centrale
+    - /organisations/dinum
 incubator: apigouv
 phases:
   - name: investigation
     start: 2015-10-11
   - name: construction
     start: 2015-01-01    
-  - name: alumni
-link: https://particulier.api.gouv.fr/
+  - name: success
+    start: 2020-01-01
+usertypes:
+  - etat
+link: https://api.gouv.fr/les-api/api-particulier
 repository: https://github.com/betagouv/api-particulier
 stats: true
 stats_url: https://particulier.api.gouv.fr/stats.html

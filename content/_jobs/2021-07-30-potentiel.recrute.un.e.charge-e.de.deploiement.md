@@ -1,6 +1,6 @@
 ---
 roles: Potentiel recrute un·e Chargé.e de déploiement
-open: true
+open: false
 junior: true
 date: 2021-07-30T14:37:00.201Z
 startup: potentiel

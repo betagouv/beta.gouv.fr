@@ -1,12 +1,8 @@
 ---
 title: API Géo
-mission: Interrogez les référentiels géographiques plus facilement
-owner: DINUM
+mission: Interroger les référentiels géographiques plus facilement
 sponsors: 
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      domaine_ministeriel: spm # Service du premier ministre
-      type: administration-centrale
+    - /organisations/dinum
 incubator: apigouv
 phases:
   - name: investigation
@@ -19,6 +15,9 @@ repository: https://github.com/etalab/geoapi
 stats: true
 stats_url: https://api.gouv.fr/api/api-geo.html
 contact: geo@api.gouv.fr
+usertypes:
+  - particulier
+  - entreprise
 ---
 
 La GéoAPI est une boîte-à-outils facile à prendre en main pour rendre vos applications et bases de données plus intelligentes, en terme de positionnement et de connaissance des territoires.

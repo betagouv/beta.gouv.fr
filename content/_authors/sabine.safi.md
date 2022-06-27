@@ -5,12 +5,10 @@ domaine: Coaching
 github: sabinesafi
 missions:
   - start: 2019-02-04
-    end: 2021-12-31
+    end: 2022-12-31
     status: independent
 startups:
     - urbanvitaliz
-    - data.gouv.fr
-    - eva
 previously:
     - transport
     - cartobio
@@ -19,6 +17,8 @@ previously:
     - auto-partage
     - tout-est-permis
     - innovation-urbaine
+    - data.gouv.fr
+    - eva
 badges:
     - segur
 ---

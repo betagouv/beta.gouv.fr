@@ -1,15 +1,16 @@
 ---
 fullname: Amélie Quillet
-role: Chargée de déploiement
 domaine: Déploiement
+role: Chargée de déploiement
 missions:
   - start: 2021-03-22
-    end: 2021-11-06
+    end: 2022-12-31
     status: independent
     employer: Octo
 startups:
   - aides-territoires
 badges:
   - segur
+competences:
+  - Communication
 ---
-

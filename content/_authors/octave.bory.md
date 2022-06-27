@@ -1,13 +1,20 @@
 ---
 fullname: Octave Bory
-role: Coach
 domaine: Coaching
+role: Coach senior
 link: https://fr.linkedin.com/in/octavebory
+github: octavemelusyn
 missions:
   - start: 2021-01-08
-    end: 2021-10-30
+    end: 2022-12-31
     status: independent
     employer: NUMA
+startups:
+  - rim-culture
+badges:
+  - segur
+competences:
+  - Coaching
+  - Gestion de Produit
 ---
-
-CEO de SetKeeper.com, membre de la Commission CNC Soutien financier aux industries techniques, Lauréat du César Technique 2018. 
+Coach senior

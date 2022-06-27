@@ -1,7 +1,7 @@
 ---
 fullname: Mélodie Dahi
-domaine: Déploiement
-role: Chargée de déploiement
+domaine: Coaching
+role: Coach & Designer de service
 github: MelodieDahi
 missions:
   - start: 2018-03-13
@@ -12,15 +12,25 @@ missions:
     end: 2020-09-30
     status: independent
     employer: lazone
-  - status: independent
-    start: 2021-08-02
-    end: 2021-12-31
+  - start: 2021-08-02
+    end: 2021-10-22
+    status: independent
     employer: Scopyleft
-startups:
-  - territoires-en-transitions
+  - start: 2021-10-15
+    end: 2022-02-28
+    status: independent
+    employer: Ippon
+  - start: 2022-03-14
+    end: 2023-12-31
+    status: admin
+    employer: dinum
 previously:
+  - setaccords
+  - territoires-en-transitions
   - zam
   - visam
 competences:
+  - Coaching
+  - Gestion de produit
   - Croissance
 ---

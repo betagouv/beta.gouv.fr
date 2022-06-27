@@ -1,7 +1,8 @@
 ---
 title: UrgenceVie
 mission: Sauver des vies en partageant les informations d'accès au logement
-owner: Ministère de l'Intérieur
+sponsors:
+ - /organisations/interieur
 incubator: lab-mi
 link: null
 repository: null

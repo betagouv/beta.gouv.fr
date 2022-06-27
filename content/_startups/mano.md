@@ -2,15 +2,13 @@
 title: MANO
 mission: Service de soutien aux équipes mobiles visant à améliorer la vie des
   populations en rue et à favoriser leur réinsertion.
-owner: MANO
-sponsors:
-  - name: Agence régionale de santé d'Île de France
-    domaine_ministeriel: affaires-sociales
+sponsors: 
+  - /organisations/solidarite-sante
 incubator: sgmas
 repository: https://github.com/SocialGouv/mano/
 contact: caroline.de_kerhor@beta.gouv.fr
-stats: true
 stats_url: https://metabase-mano.fabrique.social.gouv.fr/public/dashboard/825cc4ad-b502-4483-aa78-c2af56032bc9
+stats: true
 events: []
 phases:
   - name: investigation
@@ -19,6 +17,13 @@ phases:
   - name: construction
     start: 2020-09-01
     comment: ""
+    end: 2021-07-31
+  - name: acceleration
+    start: 2021-08-01
+usertypes:
+  - association
+dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/mano-app-fabrique-social-gouv-fr/
+accessibility_status: non conforme
 ---
 # **Le problème**
 

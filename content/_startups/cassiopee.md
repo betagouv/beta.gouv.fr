@@ -2,8 +2,8 @@
 title: Cassiopée
 mission: Optimiser les parcours de formations des officiers souhaitant revenir à
   la vie civile
-owner: Ministère des Armées
-sponsors: []
+sponsors: 
+ - /organisations/armees
 incubator: fabnumdef
 contact: romain.perroud@def.gouv.fr
 events: []
@@ -17,6 +17,8 @@ phases:
     start: 2021-05-23
     comment: Début des développements et livraison d'une première version
       expérimentale le 6 juillet 2021. Récupérations des retours utilisateurs.
+usertypes:
+  - etat
 ---
 ## Contexte
 

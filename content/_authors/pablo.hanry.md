@@ -5,7 +5,7 @@ domaine: Développement
 github: pabloHry
 missions:
   - start: 2021-04-01
-    end: 2021-10-06
+    end: 2023-01-10
     status: admin
     employer: DINUM
 startups:

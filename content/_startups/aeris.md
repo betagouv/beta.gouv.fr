@@ -1,12 +1,8 @@
 ---
 title: Aeris
 mission: Limiter les rejets polluants dans l'air en facilitant et en harmonisant la déclaration et le suivi des émissions des industriels
-owner: Ministère de la Transition écologique et solidaire
 sponsors:
-    - name: Direction generale de la Prevention des risques
-      acronym: DGPR
-      domaine_ministeriel: environnement
-      type: administration-centrale
+    - /organisations/dgpr
 incubator: mtes
 events:
   - name: end
@@ -20,6 +16,8 @@ phases:
 repository: https://github.com/mtes-mct/aeris
 stats: false
 contact: jacob.carbonel@beta.gouv.fr
+usertypes:
+  - entreprise
 ---
 
 En France, 45 000 installations industrielles sont régulièrement contrôlées par 1 500 inspecteurs de l'environnement.

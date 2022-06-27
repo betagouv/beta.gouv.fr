@@ -1,12 +1,16 @@
 ---
 title: E-Inspé
 mission: Améliorer le développement professionnel des enseignants
-owner: Reseau Canopé
+sponsors:
+  - /organisations/dgesco
 incubator: dinum
 contact: penelope.liot@beta.gouv.fr
 phases:
   - name: construction
     start: 2020-06-10
+  - name: alumni
+usertypes:
+  - etablissement-scolaire
 ---
 La phase d’investigation menée par Réseau Canopé et Beta.gouv a montré que les enseignants suivaient toutes sortes de formations de leur initiative personnelle ou par obligation, venues de l'Education nationale ou d'ailleurs, mais sans parvenir à leur donner une cohérence globale et un suivi dans le temps.
 

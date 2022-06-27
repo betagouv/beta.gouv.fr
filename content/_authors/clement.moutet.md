@@ -5,9 +5,9 @@ domaine: Produit
 github: leclem
 missions:
   - start: 2021-07-16
-    end: 2021-12-31
+    end: 2022-02-08
     status: service
-    employer: Google
+    employer: Google (mécénat de compétences)
 startups:
   - l-immersion-facile
 ---

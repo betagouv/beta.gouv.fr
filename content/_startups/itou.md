@@ -1,19 +1,13 @@
 ---
-title: "Les emplois de l'inclusion (ITOU) "
-mission: "La réussite pour tous "
-owner: Délégation générale à l'emploi et à la formation professionnelle
+title: "Emplois de l'inclusion (ITOU)"
+mission: "Favoriser la réussite pour tous"
 sponsors:
-  - name: Délégation générale à l'emploi et à la formation professionnelle
-    acronym: DGEFP
-    domaine_ministeriel: travail
-    type: administration-centrale
-  - name: Pôle emploi
-    domaine_ministeriel: travail
-    type: operateur
-incubator: dinum
+  - /organisations/dgefp
+  - /organisations/mtei
+incubator: gip-inclusion
+contact: assistance@inclusion.beta.gouv.fr 
 link: https://emplois.inclusion.beta.gouv.fr/
 repository: http://github.com/betagouv/itou
-contact: contact@inclusion.beta.gouv.fr
 rgpd:
   responsable: DGEFP
   finalites:
@@ -56,7 +50,6 @@ rgpd:
   mesures_securite: La plateforme est hébergée en France par un prestataire certifié ISO.
   validite_homologation: 2023-10-06
 stats: true
-events: []
 phases:
   - name: investigation
     start: 2019-06-10
@@ -64,8 +57,20 @@ phases:
     start: 2019-06-10
   - name: acceleration
     start: 2020-07-10
+events: 
+  - name: national_impact
+    date: 2021-12-31
+usertypes:
+  - collectivite-territoriale
+  - entreprise
+  - etat
+dashlord_url: https://dashlord.incubateur.net/url/emplois-inclusion-beta-gouv-fr/
+accessibility_status: partiellement conforme
 ---
 Aujourd'hui emplois.inclusion.beta.gouv.fr permet de mettre en relation des chercheurs d'emploi (aussi nommés candidats) auprès d'[employeurs solidaires](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/employeurs-solidaires) (entreprises, associations...). Les candidats peuvent également bénéficier de l'aide de [prescripteurs](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/prescripteurs-habilites) (Pôle emploi, Missions locales, Cap Emploi...).
+
+### Besoin d'aide dans l'utilisation du service ? 
+Voici un lien direct vers l'assistance : https://communaute.inclusion.beta.gouv.fr/aide/emplois/
 
 ### Contexte
 

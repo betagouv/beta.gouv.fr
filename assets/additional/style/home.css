@@ -64,7 +64,7 @@
 
 #hero-anim-hand-3 {
     top: 200px;
-    right: -50px;
+    right: -70px;
 }
 
 @-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }

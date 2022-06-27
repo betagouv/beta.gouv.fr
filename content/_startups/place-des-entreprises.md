@@ -1,16 +1,9 @@
 ---
 title: Place des Entreprises
-mission: 'TPE & PME, vous avez un projet, une difficulté, une question du quotidien ? Service public simple et rapide : vous êtes rappelé par LE conseiller qui peut vous aider.'
-owner: Ministère de l'économie, des finances et de la relance - Direction générale des entreprises (DGE) / Ministère du Travail (DGEFP)
-sponsors: 
-    - name: Direction générale des entreprises
-      acronym: DGE
-      domaine_ministeriel: bercy
-      type: administration-centrale
-    - name: Délégation générale à l'emploi et à la formation professionnelle
-      acronym: DGEFP
-      domaine_ministeriel: travail
-      type: administration-centrale
+mission: "Mettre en relation les TPE & PME et le bon interlocuteur"
+sponsors:
+  - /organisations/dge
+  - /organisations/dgefp
 incubator: bercy
 phases:
   - name: investigation
@@ -18,6 +11,7 @@ phases:
   - name: construction
     start: 2017-04-03
   - name: acceleration
+    start: 2017-04-03
 link: https://place-des-entreprises.beta.gouv.fr
 repository: https://github.com/betagouv/place-des-entreprises
 stats: true
@@ -25,6 +19,11 @@ contact: mathieu.gens@beta.gouv.fr
 redirect_from:
   - /startups/e-conseils
   - /startups/reso
+usertypes:
+  - entreprise
+  - etat
+dashlord_url: https://dashlord.incubateur.net/url/place-des-entreprises-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 
 Le service public Place des Entreprises permet à l’État, aux Régions volontaires et à l’ensemble des organismes publics et parapublics de développer leur rôle de conseil auprès des TPE & PME.

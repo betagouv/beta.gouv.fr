@@ -1,8 +1,9 @@
 ---
 title: Accueil UTS
 mission: Orienter les usagers vers le bon service et faciliter la prise de rendez-vous au sein du département
-owner: Département du Var
 incubator: anct
+sponsors:
+ - /organisations/departement-var
 phases:
     - name: investigation
       start: 2019-02-04
@@ -12,7 +13,10 @@ link:
 repository: 
 stats: false 
 stats_url: 
-contact: contactincubateur@anct.gouv.fr 
+contact: contactincubateur@anct.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - particulier
 ---
 
 ## Problème visé :

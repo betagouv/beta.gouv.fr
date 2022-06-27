@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.1.1"
+gem "webrick"
 
 group :jekyll_plugins do
    gem 'jekyll-redirect-from'
@@ -10,10 +11,10 @@ group :test do
   gem 'minitest'
   gem 'html-proofer'
   gem 'jsonlint'
-  gem 'rake'
   gem 'kwalify'
   gem 'opengraph_parser'
 end
+gem 'rake', group: [:default, :test]
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]

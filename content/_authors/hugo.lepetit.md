@@ -1,5 +1,6 @@
 ---
 fullname: Hugo Lepetit
+github: hugolepetit
 role: Développeur
 domaine: Développement
 missions:
@@ -8,7 +9,7 @@ missions:
     status: independent
     employer: octo
   - start: 2021-02-01
-    end: 2021-11-06
+    end: 2022-03-31
     status: independent
     employer: octo
 startups:

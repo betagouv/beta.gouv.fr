@@ -1,13 +1,16 @@
 ---
 title: SEPIA
 mission: Accélérer les interventions de la police du ciel
-owner: Ministère des Armées
+sponsors:
+    - /organisations/armees
 incubator: fabnumdef
 phases:
   - name: investigation
     start: 2019-01-25
   - name: construction
     start: 2019-01-25
+usertypes:
+  - etat
 stats: false
 contact: romain.perroud@def.gouv.fr 
 ---

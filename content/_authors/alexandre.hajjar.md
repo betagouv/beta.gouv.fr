@@ -6,8 +6,9 @@ link: https://twitter.com/Lajarre
 github: lajarre
 missions:
   - start: 2020-03-19
-    end: 2021-12-31
+    end: 2022-02-27
     status: independent
 startups:
     - mon-entreprise
+    - euphrosyne
 ---

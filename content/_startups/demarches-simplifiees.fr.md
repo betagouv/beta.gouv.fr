@@ -1,12 +1,8 @@
 ---
-title: demarches-simplifiees.fr
+title: Démarches Simplifiées
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
-owner: DINUM
-sponsors: 
-    - name: Direction interministérielle du numérique
-      acronym: DINUM
-      domaine_ministeriel: spm # Service du premier ministre
-      type: administration-centrale
+sponsors:
+ - /organisations/dinum
 incubator: dinum
 events:
   - name: national_impact
@@ -23,6 +19,9 @@ stats: true
 contact: contact@demarches-simplifiees.fr
 redirect_from:
   - /startups/tps
+usertypes:
+  - particulier
+  - etat
 ---
 
 demarches-simplifiees.fr est une application entièrement en ligne qui permet à tous les organismes assurant des missions de service public de créer des démarches en quelques minutes et de gérer les demandes des usagers sur une plateforme dédiée.

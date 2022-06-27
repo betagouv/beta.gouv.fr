@@ -1,15 +1,17 @@
 ---
 fullname: Bouchra Lazaar
-role: Chargée de déploiement
 domaine: Déploiement
+role: Chargée de déploiement
 github: bouchralazaar
 missions:
   - start: 2021-08-27
-    end: 2021-12-31
+    end: 2022-12-31
     status: independent
-    employer: La zone
+    employer: Scopopop
 startups:
   - demarches-simplifiees.fr
+competences:
+  - Gestion de Produit
+  - Croissance
 ---
-
 Chargée de déploiement

@@ -1,12 +1,9 @@
 ---
 title: Voir & Localiser
 mission: Voir et localiser les appelants aux centres d'appels d'urgence
-owner: ASIP Santé - Agence Française de la Santé Numérique
 sponsors:
-    - name: Agence du numerique en sante
-      acronym: 
-      domaine_ministeriel: affaires-sociales
-      type: operateur
+    - /organisations/solidarite-sante
+    - /organisations/ans
 incubator: dinum
 events:
   - name: end
@@ -21,6 +18,9 @@ phases:
   - name: alumni
     start: 2019-10-01
 contact: contact@voir-et-localiser.beta.gouv.fr
+usertypes:
+  - particulier
+  - etat
 ---
 
 

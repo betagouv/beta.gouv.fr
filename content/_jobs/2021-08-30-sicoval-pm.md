@@ -11,7 +11,7 @@ poste_ferme: 2021-09-30
 contact: marie.bernard@anct.gouv.fr
 status: open
 poste_pourvu: false
-open: true
+open: false
 ---
 
 L'Incubateur des Territoires accompagne une collectivité territoriale porteuse d'un projet de Sosie Virtuel Projectif (SVP) dédié à l'étude des mobilités. L'enjeu de ce SVP est d'analyser les données de mobilité tout en tenant compte du comportement humain. In fine, il s'agit d'informer, de manière objective et pertinente, les décisions et les actions de politiques publiques.

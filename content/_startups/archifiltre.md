@@ -2,14 +2,16 @@
 title: Archifiltre
 mission: Appréhender des ensembles volumineux de fichiers pour mieux les gérer,
   les trier et y retrouver de l'information
-owner: Ministères sociaux
-sponsors: []
+sponsors:
+  - /organisations/solidarite-sante
 incubator: sgmas
 link: https://archifiltre.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/archifiltre
 contact: archifiltre@sg.social.gouv.fr
-stats: true
+usertypes:
+  - etat
 stats_url: https://archifiltre.fabrique.social.gouv.fr/statistiques/
+stats: true
 events:
   - name: other
     date: 2018-01-07
@@ -37,6 +39,8 @@ phases:
     start: 2018-03-02
     end: ""
     comment: Sortie de la 1ère version accessible en ligne gratuitement d'Archifiltre
+  - name: acceleration
+    start: 2018-03-04
 ---
 # Le contexte
 

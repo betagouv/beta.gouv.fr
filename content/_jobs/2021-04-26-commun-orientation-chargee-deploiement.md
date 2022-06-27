@@ -1,6 +1,6 @@
 ---
 roles: Commun Orientation recrute  Une ou un chargé de déploiement / Business developer !
-open: true
+open: false
 junior: true
 date: 2021-04-23T15:29:38.660Z
 ---

@@ -4,8 +4,8 @@ layout: default
 
 {% assign lang = page.lang | default: site.lang | default: "fr" %}
 
-{% include hero-page.html title=page.title %}
+{% include hero-page.html title=page.title subtitle=page.subtitle %}
 
-<div class="fr-container fr-py-6w fr-px-2w">
+<div class="fr-container fr-my-6w">
   {{ content }}
 </div>

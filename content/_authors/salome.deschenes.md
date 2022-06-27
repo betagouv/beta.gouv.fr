@@ -1,7 +1,7 @@
 ---
 fullname: Salomé Deschênes
 domaine: Déploiement
-role: Chargée de déploiement
+role: Urbaniste et chargée de déploiement
 github: SalomeDeschenes
 missions:
   - start: 2020-12-30
@@ -10,7 +10,7 @@ missions:
     employer: DINUM
   - status: independent
     start: 2021-06-30
-    end: 2021-12-30
+    end: 2022-12-30
 startups:
   - urbanvitaliz
 badges: null

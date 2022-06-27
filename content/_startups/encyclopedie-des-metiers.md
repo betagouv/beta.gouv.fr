@@ -1,18 +1,18 @@
 ---
 title: Encyclopédie des métiers
-mission: Rendre accessible à tous les utilisateurs le nouveau référentiel ROME 4.0 de pôle-emploi pour permettre à tous d'accéder à des informations claires et pratiques sur les métiers et les compétences.
-owner: Pôle emploi
+mission: Faciliter l'accès à des informations claires et pratiques sur les métiers et les compétences
 sponsors:
-  - name: Pôle Emploi
-    acronym: PE
-    domaine_ministeriel: travail
-    type: operateur
+  - /organisations/pole-emploi
 incubator: pole-emploi
 contact: rachid.benabdelhak@pole-emploi.fr
 phases:
   - name: investigation
     start: 2021-05-01
-    end: 2021-07-22
+    end: 2021-11-01
+  - name: construction
+    start: 2020-11-01
+usertypes:
+  - particulier
 ---
 **Problème**
 

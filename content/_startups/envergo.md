@@ -1,16 +1,16 @@
 ---
 title: EnvErgo
 mission: Améliorer la prise en compte de l'environnement dans les projets d'aménagement
-owner: Direction générale de l'aménagement, du logement et de la nature (DGALN)
 sponsors:
-  - acronym: DGALN
-    name: Direction générale de l'aménagement, du logement et de la nature (DGALN)
-    type: administration-centrale
-    domaine_ministeriel: environnement
+  - /organisations/dgaln
 incubator: mtes
 link: https://envergo.beta.gouv.fr
 repository: https://github.com/MTES-MCT/envergo
 contact: contact@envergo.beta.gouv.fr
+usertypes:
+  - collectivite-territoriale
+  - entreprise
+stats: true
 events: []
 phases:
   - name: investigation
@@ -19,6 +19,8 @@ phases:
   - name: construction
     start: 2021-07-13
 ---
+![](/img/netlifycms/screenshot.2022-06-22.at.12.46.58.png)
+
 ## Le problème à résoudre
 
 La Loi sur l’eau est une réglementation qui s’applique aux projets d’aménagement qui pourraient affecter les milieux aquatiques : cours d’eau, bassins, zones humides...
@@ -40,8 +42,6 @@ EnvErgo poursuit donc deux objectifs :
 * **Rendre environnementalement plus vertueux** un nombre significatif de projets d'aménagement, grâce au déclenchement d'une étude et d'une instruction Loi sur l'eau.
 * **Réduire les erreurs de planification** par les pétitionnaires dans l'articulation des études amont & instructions permis de construire et Loi sur l’eau.
 
-
-
 ## Le concept
 
 EnvErgo se veut un service numérique en ligne accessible à tous, visant les porteurs de projet, les architectes, mais aussi les instructeurs urbanisme des collectivités.
@@ -60,8 +60,6 @@ A terme, le service propose deux apports aux utilisateurs :
 * Se rapprocher de l’unité Police de l’eau à la DDTM
 * Se tourner vers un bureau d’études
 
-
-
 ## Stratégie de validation
 
 Le succès du concept repose à ce stade sur plusieurs hypothèses qui sont à valider :
@@ -76,8 +74,6 @@ Le succès du concept repose à ce stade sur plusieurs hypothèses qui sont à v
 **2. Hypothèses liées à la pertinence de notre produit**
 
 * l’utilisateur comprend / voit l’intérêt du service et comprend la procédure et la marche à suivre
-
-
 
 Afin de valider celles-ci, une version minimum viable d’EnvErgo est déployée depuis juillet 2021. Elle est utilisée dans le cadre d’expérimentations avec plusieurs collectivités :
 

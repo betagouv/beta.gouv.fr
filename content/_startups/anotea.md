@@ -1,12 +1,8 @@
 ---
 title: Anotea
-mission: Eclairer les personnes qui cherchent une formation professionnelle en affichant les notes et commentaires collectés auprès des demandeurs d'emploi sortis de formation.
-owner: Pôle emploi
+mission: Éclairer les personnes à la recherche d'une formation professionnelle dans leur choix
 sponsors: 
-    - name: Pôle Emploi
-      acronym: PE
-      domaine_ministeriel: travail
-      type: operateur
+    - /organisations/pole-emploi
 incubator: pole-emploi
 phases:
   - name: investigation
@@ -24,9 +20,11 @@ link: https://anotea.pole-emploi.fr
 stats: true
 repository: https://github.com/StartupsPoleEmploi/anotea
 contact: anotea@pole-emploi.fr
+usertypes:
+  - particulier
 ---
 
-Anotéa collecte les avis des stagiaires de formation demandeurs d'emploi (source Pole Emploi), puis diffuse ces avis auprès des futurs stagiaires sur les catalogues de formation. Tous les commentaires sont modérés par des personnes physiques selon une charte établie et disponible dans les conditons générales d'utilisation (CGU).
+Anotéa collecte les avis des stagiaires de formation demandeurs d'emploi (source Pôle emploi), puis diffuse ces avis auprès des futurs stagiaires sur les catalogues de formation. Tous les commentaires sont modérés par des personnes physiques selon une charte établie et disponible dans les conditons générales d'utilisation (CGU).
 Anotéa est accessible via une API et un widget pour être diffusé sur tous les sites de formation ou d'orientation. 
 
 Outre les stagiaires, les autres parties prenantes de la formation sont incluses dans le service :

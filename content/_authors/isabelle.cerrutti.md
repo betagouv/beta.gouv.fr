@@ -5,10 +5,10 @@ domaine: Intraprenariat
 github: isabelle-cerrutti
 missions:
   - start: 2021-06-09
-    end: 2021-12-31
+    end: 2022-12-31
     status: admin
 startups:
-  - pass-emploi
+  - l-application-du-cej
 badges:
   - segur
 ---

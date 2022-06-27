@@ -10,10 +10,14 @@ missions:
     status: admin
     employer: Lab-MI
     end: 2021-11-15
-startups:
-  - candilib
+  - status: admin
+    employer: DINUM
+    start: 2021-11-15
+    end: 2024-11-15
 previously:
   - histovec
+  - candilib
+incubator: dinum
 competences:
   - Administration Système
 ---

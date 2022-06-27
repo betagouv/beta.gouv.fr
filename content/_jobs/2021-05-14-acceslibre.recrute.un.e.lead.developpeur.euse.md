@@ -1,6 +1,6 @@
 ---
 roles: Acceslibre recrute un·e lead développeur·euse
-open: true
+open: false
 date: 2021-05-14T07:37:49.117Z
 startup: acceslibre
 ---

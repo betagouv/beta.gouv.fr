@@ -1,13 +1,12 @@
 ---
 fullname: Rémy Maucourt
-role: Développeur
+role: Lead Développeur
 domaine: Développement
 github: ruff9
 missions:
   - start: 2021-05-25
-    end: 2021-11-25
+    end: 2022-10-31
     status: independent
 startups:
   - justif
 ---
-

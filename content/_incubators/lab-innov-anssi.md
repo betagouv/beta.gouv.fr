@@ -1,6 +1,6 @@
 ---
 title: Le laboratoire d'innovation de l'ANSSI
-owner: Agence nationale de la sécurité des systèmes d'information
+owner: /organisations/anssi
 logo: logo_lab_innov_anssi.png
 website: https://ssi.gouv.fr
 github: 

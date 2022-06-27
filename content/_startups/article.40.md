@@ -1,10 +1,9 @@
 ---
 title: Info Parquet
-mission: Simplifier le quotidien des agents des administrations (hors services
-  de police et gendarmerie) qui saisissent le procureur de la République et des
-  personnels judiciaires qui reçoivent et traitent ces procédures
-owner: Ministère de la Justice
-incubator: dinum
+mission: Faciliter la saisie du personnel judiciaire
+incubator: justice
+sponsors:
+ - /organisations/mj
 contact: caroline-lucile.didier@beta.gouv.fr
 phases:
   - name: investigation
@@ -13,6 +12,8 @@ phases:
   - name: construction
     start: 2021-07-09
     end: 2022-01-09
+usertypes:
+  - etat
 ---
 # **Contexte**
 

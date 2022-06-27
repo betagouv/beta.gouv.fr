@@ -1,16 +1,21 @@
 ---
 title: Collectif Objets
 mission: Améliorer les données des objets monuments historiques pour les valoriser au mieux
-owner: Ministère de la Culture
+sponsors:
+ - /organisations/mc
 incubator: culture
 phases:
   - name: construction
     start: 2020-04-01
-link:
-repository:
-stats: false
-stats_url:
+link: https://collectif-objets.beta.gouv.fr/
+repository: https://github.com/betagouv/collectif-objets
+stats: true
+stats_url: https://collectif-objets.beta.gouv.fr/stats
 contact: collectifobjets@beta.gouv.fr
+budget_url: https://atelier-numerique.notion.site/Budgets-publics-des-start-up-1b5453be26234d1c9abcb6bbce577e58
+usertypes:
+  - collectivite-territoriale
+  - particulier
 ---
 
 
@@ -93,3 +98,5 @@ Des outils no-code, de l'huile de coude, et d'un contact rapproché avec les con
 D'ailleurs, nous prévoyons ensuite d'élargir la phase de test à 10 départements, n'hésitez pas à nous contacter pour faire partie de la suite de l'aventure, soumettre des suggestions ou juste pour être tenus au courant de la suite du projet.
 
 [Nous contacter](mailto:collectifobjets@beta.gouv.fr)
+
+![illustration](https://user-images.githubusercontent.com/36261410/146224683-5f611295-837f-4ac0-9faf-b69a2a7fed38.jpg).

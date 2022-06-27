@@ -1,7 +1,8 @@
 ---
 title: Portail Suivi Plaintes
 mission: Suivre sa plainte en ligne.
-owner: Ministère de l'Intérieur
+sponsors: 
+    - /organisations/interieur
 incubator: lab-mi
 phases:
   - name: investigation
@@ -12,6 +13,8 @@ link:
 repository:
 stats: false
 contact: contact@beta.interieur.gouv.fr
+usertypes:
+  - particulier
 ---
 
 ## La frustration des victimes dans le suivi de leurs plaintes

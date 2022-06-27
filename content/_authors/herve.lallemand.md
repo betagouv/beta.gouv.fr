@@ -1,14 +1,16 @@
 ---
 fullname: Hervé LALLEMAND
-role: Intrapreneur
 domaine: Intraprenariat
+role: Intrapreneur
 missions:
-    - start: 2021-07-09
-      end: 2021-12-31
-      status: admin
-      employer: Pôle emploi
+  - start: 2021-07-09
+    end: 2022-01-31
+    status: admin
+    employer: Pôle emploi
 startups:
-    - l-immersion-facile
+  - l-immersion-facile
+badges: null
+competences:
+  - Gestion de Produit
 ---
-
-Intrapreneur Pôle emploi
+Intrapreneur Pôle emploi - Co-pilote de la startup Immersion Facile

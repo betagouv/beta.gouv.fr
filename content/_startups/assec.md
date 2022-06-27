@@ -1,12 +1,9 @@
 ---
 title: ASSEC
 mission: Optimiser la réponse collective du monde agricole et des services de l'État au problème de pénurie d'eau en période de sécheresse
-owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
 sponsors:
-    - name: Direction generale de l'Amenagement, du Logement et de la Nature / Direction de l'Eau et de la Biodiversité
-      acronym: DGALN / DGEB
-      domaine_ministeriel: environnement
-      type: administration-centrale
+  - /organisations/dgaln
+  - /organisations/dgeb
 incubator: mtes
 events:
   - name: end
@@ -14,16 +11,17 @@ events:
 phases:
   - name: investigation
     start: 2017-12-31
-    end: 2018-04-13
   - name: construction
     start: 2018-04-13
-    end: 2018-06-18
   - name: alumni
     start: 2018-06-18
 link: 
 repository: https://github.com/MTES-MCT/assec
 stats: false
 contact: michel.perrel@beta.gouv.fr
+usertypes:
+  - etat
+  - entreprise
 ---
 
 ## Le problème de la gestion de la sécheresse

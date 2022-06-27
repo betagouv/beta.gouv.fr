@@ -1,7 +1,8 @@
 ---
 title: Shareloc
 mission: Exploiter les espaces vacants en lycée
-owner: Région Hauts-de-France
+sponsors:
+    - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
@@ -14,6 +15,9 @@ repository:
 stats: false
 stats_url:
 contact: incubateur@anct.gouv.fr
+usertypes:
+  - etat
+  - collectivite-territoriale
 ---
 
 ## Problème visé

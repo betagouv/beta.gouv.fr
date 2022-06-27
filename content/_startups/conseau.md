@@ -1,7 +1,8 @@
 ---
 title: Cons'eau
 mission: Améliorer la gestion des sécheresses par la maîtrise des prélèvements 
-owner: Ministère de la transition écologique et solidaire
+sponsors:
+ - /organisations/mtes
 incubator: mtes
 phases:
   - name: investigation
@@ -13,6 +14,9 @@ link:
 repository:
 stats: false
 contact: elise.jacob@developpement-durable.gouv.fr
+usertypes:
+  - entreprise
+  - etat
 ---
 
 ## Le problème

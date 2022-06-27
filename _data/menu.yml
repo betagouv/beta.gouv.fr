@@ -2,8 +2,8 @@
 title:
 nav:
   -
-    label: Notre approche
-    target: _pages/approche.md
+    label: Brigade
+    target: _pages/brigade.md
   -
     label: Réalisations
     target: _pages/startups.md
@@ -14,6 +14,10 @@ nav:
     label: Recrutement
     target: _pages/recrutement.md
 shortcuts:
+  -
+    label: Annuaire
+    external: false
+    url: /communaute/annuaire
   -
     label: Documentation
     external: true

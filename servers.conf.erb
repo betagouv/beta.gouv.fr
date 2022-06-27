@@ -1,0 +1,24 @@
+server {
+  server_name localhost;
+  listen <%= ENV['PORT'] %>;
+
+  # Disable compression that is performed by the Scalingo router anyway
+  gzip off;
+  error_page 404 /404.html;
+
+  rewrite_log on;
+  server_name_in_redirect off;
+  port_in_redirect on;
+  root /app/_site;
+  index index.html;
+
+  # _redirects
+  rewrite ^/incubateur/(.*)$ $scheme://$http_host/startups/?incubateur=$1 redirect;
+  rewrite ^/incubateurs/(.*)$ $scheme://$http_host/startups/?incubateur=$1 redirect;
+  rewrite ^/startup/(.*)$ $scheme://$http_host/startups/$1 redirect;
+  rewrite ^/alpha/mooc/(.*)$ $scheme://$http_host/approche/formation/mooc/$1 redirect;
+
+  location / {
+    try_files $uri $uri.html $uri/index.html $uri/ index.html =404;
+  }
+}

@@ -1,10 +1,11 @@
 ---
 title: La Bonne Alternance
 mission: Se former et travailler en alternance
-owner: Mission interministérielle pour l'apprentissage & Pôle emploi 
-sponsors: 
-    - name: Mission interministérielle pour l'apprentissage
-      acronym: MNA
+sponsors:
+  - /organisations/menjs
+  - /organisations/mtei
+  - /organisations/mesr
+  - /organisations/mtfp
 incubator: mission-apprentissage
 phases:
   - name: investigation
@@ -12,12 +13,20 @@ phases:
   - name: construction
     start: 2018-03-19
   - name: success
+events:
+  - name: national_impact
+    date: 2021-12-31
 link: https://labonnealternance.pole-emploi.fr
 repository: https://github.com/mission-apprentissage/labonnealternance
+stats_url: https://datastudio.google.com/u/0/reporting/1v-Sim2qMlFSMn4n9JJWaMk8PIONvM757/page/FZIGC
 stats: true
 contact: labonnealternance@pole-emploi.fr
 redirect_from:
   - /startups/labonnealternance
+usertypes:
+  - particulier
+  - entreprise
+  - etablissement-scolaire
 ---
 
 La Bonne Alternance est le premier service qui permet de rechercher simultanément une formation en apprentissage et une entreprise recrutant des alternants. Vous pouvez y accéder directement sur : https://labonnealternance.pole-emploi.fr/
