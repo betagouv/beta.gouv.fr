@@ -4,39 +4,31 @@ mission: Gérer simplement les dossiers liés à un vol militaire aérien*
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
-contact: linna.taing@beta.gouv.fr
+contact: linna.taing@beta.gouv.f
 phases:
   - comment: ""
     name: investigation
     start: 2021-03-20
     end: 2021-06-01
   - name: construction
-    start: 2021-06-01
+    start: 2022-01-01
 usertypes:
   - etat
 ---
-
 ## Contexte
 
-Des centaines de milliers de passagers sont transportés chaque année sur des Vols Aériens Militaires (VAM). Les agents de transit aérien sont chargés de leur préparation et réalisent notamment un « dossier avion » pour chaque vol (listing de passagers, attribution des places dans l'avion, génération des cartes d'embarquement, etc.)
+Le projet est initié par la base aérienne d'Orléans Bricy pour mettre à disposition de ses opérateurs un outil en ligne de coordination et de préparation des missions aériennes.
 
-## Problème
+Les outils utilisés actuellement sont constitués de plusieurs gros fichiers Excel, dont l’exploitation atteint aujourd’hui ses limites.
+
+## **Problématique**
 
 Chaque escale aérienne utilise des outils différents des autres, pour certains ce sont des fichiers Excel avec des matrices automatisées, pour d'autres, des fichiers Excel moins élaborés. 
 
 La réalisation des dossiers avions est une tâche fastidieuse et les mises à jour de dernière minute sont sources d’erreurs et de stress.
 
-## Objectifs
 
-- Homogénéiser les pratiques des agents de transit sur toutes les bases
-- Diminuer le temps nécessaire à la préparation des dossiers avion
-- Faciliter le travail des agents et limiter les risques d’erreurs
-
-## Solution
-
-Air VAM permet aux agents de transit de réaliser l’ensemble des documents de voyage simplement et rapidement, sur une interface dédiée facile d’utilisation.
-
-## **Chronologie**
+## **Objectifs**
 
 **Etape 1 (septembre-octobre 2021)** Exploration et idéation
 
@@ -48,11 +40,9 @@ Air VAM permet aux agents de transit de réaliser l’ensemble des documents de 
 **Etape 2 (novembre 2021- avril 2022)** Développement du PMV et tests utilisateurs
  
 **Etape 3 (mai 2022-novembre 2022)** Consolidation du produit et déploiement à l'ensemble des utilisateurs
+
+
+## Solution
+
+Air VAM permet aux agents de transit de réaliser l’ensemble des documents de voyage simplement et rapidement, sur une interface dédiée facile d’utilisation.
  
-
-## Résultat
-
-Un outil intuitif dans sa prise en main qui ne nécessite pas de formation pour les agents de transit
-Une gestion du dossier avion automatisée après ingestion de la liste des passagers
-Visbilité sur tous les vols en cours et archivés
-Outil paramétrable facilement sans l'intervention d'un développeur (ajout d'un nouvel aéroport, édition de données sur les cartes d'embarquement)
