@@ -9,6 +9,7 @@ missions:
 incubator: fabnumdef
 startups:
   - sepia
+  - osirispn
 competences:
   - Développement Backend
 ---
