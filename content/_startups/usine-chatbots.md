@@ -12,6 +12,8 @@ phases:
     start: 2020-02-01
   - name: construction
     start: 2020-05-01
+  - name: accélération
+    start: 2021-05-01
 usertypes:
   - etat
 ---
@@ -43,6 +45,9 @@ Livrable : wireframes
 début des maquettes
 
 **étape 4** (avril-septembre 2020)
+début du développement 
+
+**étape 5** (avril-septembre 2020)
 début du développement informatique
 
 ## Résultats
@@ -56,5 +61,6 @@ L'usine à chatbot est composée de 6 produits numériques :
 * Une interface de gestion pour travailler sur les connaissances de votre chatbot
 * Un tableau de bord de l'usine à chatbot
 
-Chatbots réalisés avec l'usine à chatbot :\
+Chatbots réalisés avec l'usine à chatbot :
 [Chatbot RH Marine](https://rh-marine.chatbot.fabnum.fr/chatbot/)
+[Chatbot RH civils](https://gedeon.chatbot.fabnum.fr/chatbot/)
