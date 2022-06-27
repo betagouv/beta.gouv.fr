@@ -10,7 +10,7 @@ missions:
     status: independent
 startups:
     - données-et-territoires
-    - SNDV_maritime
+    - sndv_maritime
 previously:
     - Aplus
 badges:
