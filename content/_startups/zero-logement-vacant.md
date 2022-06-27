@@ -60,18 +60,18 @@ L’impact visé par le produit est la remise sur le marché des logements en si
 
 A horizon 6 mois, nous souhaitons atteindre les objectifs suivants : 
 
-1. Améliorer la pro-activité des collectivités 
+Objectif 1 : améliorer la pro-activité des collectivités 
 
 * Réduire à moins de 3 mois la fréquence des campagnes (contre 4 mois aujourd’hui). 
 * Réduire à moins de 30% le nombre de contacts non relancés après 3 mois (contre 88% aujourd’hui).  
 * Augmenter à 60 000 le nombre de logements contactés via l’envoi de nouvelles campagnes dans les collectivités actuelles et l’embarquement de nouvelles collectivités.
 
-2. Améliorer l’évaluation de la politique publique
+Objectif 2 : Améliorer l’évaluation de la politique publique
 
 * Mesurer les accompagnements proposées et leur niveau de succès
 * Être en capacité d’effectuer des recommandations d’accompagnement en fonction des situations
 
-3. Tester l’usage de ZLV sur l’anticipation des futurs logements vacants
+Objectif 3 : Tester l’usage de ZLV sur l’anticipation des futurs logements vacants
 
 * Avoir testé l'adaptation de ZLV pour le démarchage de propriétaires de passoires thermiques pour au moins 3 collectivités
 * Préciser la vision long-terme de ZLV grâce aux retours de ces tests.
