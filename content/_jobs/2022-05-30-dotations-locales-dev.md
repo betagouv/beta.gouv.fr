@@ -1,6 +1,6 @@
 ---
 roles: Développeur·se front
-open: true
+open: false
 date: 2022-05-30
 startup: dotations-locales
 domaines:
