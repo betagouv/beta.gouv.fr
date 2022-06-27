@@ -2,7 +2,7 @@
 mission: Faciliter le signalement et accélérer la prise en charge du mal logement
 incubator: mtes
 repository: https://github.com/MTES-MCT/histologe
-contact: alban.sestiaa@beta.gouv.fr
+contact: contact@histologe.info
 stats_url: https://histologe.beta.gouv.fr/Chiffres
 title: Histologe
 sponsors:
