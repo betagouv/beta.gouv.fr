@@ -15,7 +15,6 @@ phases:
 usertypes:
   - etat
 ---
-
 ## Contexte
 
 Des centaines de milliers de passagers sont transportés chaque année sur des Vols Aériens Militaires (VAM). Les agents de transit aérien sont chargés de leur préparation et réalisent notamment un « dossier avion » pour chaque vol (listing de passagers, attribution des places dans l'avion, génération des cartes d'embarquement, etc.)
@@ -36,7 +35,7 @@ La réalisation des dossiers avions est une tâche fastidieuse et les mises à j
 
 Air VAM permet aux agents de transit de réaliser l’ensemble des documents de voyage simplement et rapidement, sur une interface dédiée facile d’utilisation.
 
-## **Chronologie**
+## Chronologie
 
 **Etape 1 (septembre-octobre 2021)** Exploration et idéation
 
