@@ -44,16 +44,16 @@
 
 <section class="fr-py-6w">
   {% if job.junior %}
-    <div class="fr-container fr-py-6w">
-      <div class="fr-highlight">
+    <div class="fr-container fr-py-6w fr-grid-row">
+      <div class="fr-highlight fr-col-md-8">
         Bienvenue aux juniors sur ce poste ! L'équipe assurera votre formation.
       </div>
     </div>
   {% endif %}
 
   {% if job.techno %}
-  <div class="fr-container fr-py-6w">
-    <div class="fr-highlight">
+  <div class="fr-container fr-py-6w fr-col-md-8 fr-grid-row">
+    <div class="fr-highlight fr-col-md-8">
       <p>Choix technologiques :</p>
       <ul class="fr-tags-group">
         {% for techno in job.techno %}
@@ -64,8 +64,10 @@
   </div>
   {% endif %}
 
-  <div class="fr-container">
-    {{ job.content }}
+  <div class="fr-container fr-grid-row">
+    <div class="fr-col-md-8">
+      {{ job.content }}
+    </div>
   </div>
 </section>
 
