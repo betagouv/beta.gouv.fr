@@ -11,7 +11,7 @@ phases:
   - name: construction
     start: 2022-01-01
 link: https://donnees.incubateur.anct.gouv.fr
-repository: https://datahub.incubateur.tech/
+repository: https://datahub.incubateur.tech/infrastructure/
 stats: false
 stats_url:
 contact: donnees@anct.gouv.fr
