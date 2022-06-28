@@ -1,8 +1,8 @@
 ---
-title: La Fabrique Numérique Défense Connect
+title: La Fabrique Numérique du Ministère des armées 
 owner: /organisations/armees
 logo: logo_fab_num_armee.png
 github: https://github.com/fabnumdef
-contact: mailto:frederic.bardolle@def.gouv.fr?subject=Incubateur
-address: 60 Boulevard du Général Martial Valin, Paris 15e
+contact: mailto:mathieu.mahr@beta.gouv.fr?subject=Incubateur
+address: 25 bis rue Balard, 75015 Paris
 ---
