@@ -45,6 +45,6 @@ Histologe est un vecteur de simplicité et d'efficacité dans le dispositif de 
 
 En tant qu'outil central, la solution permet également la construction d'un observatoire du mal logement aidant au  pilotage de la politique publique de lutte contre le mal logement
 
-## Territoires concernés :
+## Territoires concernés
 
 Agglomération Pau Béarn Pyrénées ,Métropole Européenne de Lille, département des Bouches du Rhône, département des Alpes de Haute Provence, et prochainement une quinzaine d'autres territoires.
