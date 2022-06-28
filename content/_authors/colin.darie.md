@@ -11,5 +11,3 @@ missions:
 startups:
   - demarches-simplifiees.fr
 ---
-
-Développeur
