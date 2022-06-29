@@ -6,7 +6,7 @@ sponsors:
  - /organisations/djepva
 incubator: dinum
 repository: https://github.com/betagouv/api-subventions-asso
-contact: data.subvention@beta.gouv.fr
+contact: contact@datasubvention.beta.gouv.fr
 phases:
   - name: construction
     start: 2022-01-03
