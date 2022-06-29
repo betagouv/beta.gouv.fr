@@ -33,7 +33,7 @@
                 {% if item.external == true %}
                   <a class="fr-link" href="{{ item.url }}" title="{{ item.label }} - nouvelle fenêtre" target="_blank" rel="noopener">{{ item.label }}</a>
                 {% else %}
-                  <a class="fr-link" href="{{ item.url }}" title="{{ item.label }}">{{ item.label }}</a>
+                  <a class="fr-link" href="{{ item.url }}">{{ item.label }}</a>
                 {% endif %}
               </li>
               {% endfor %}
