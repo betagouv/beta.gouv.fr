@@ -238,13 +238,7 @@ ol li p, ul li p {
   text-align: end;
 }
 
-/* Parce que les images des tuiles ne sont pas toujours à la bonne taille */
-.fr-tile__img img {
-  width: 100%;
-}
-
 /* Augmenter la taille de la colonne visible pour les articles */
-
 .article__container {
   max-width: 45em;
 }
@@ -315,8 +309,7 @@ h2.phase-title em {
   color: $darker-grey;
 }
 
-/* Parce que les images des startups fiches ne sont pas toujours à la bonne taille */
-.fr-container img {
+main .fr-container img {
   width: 100%;
 }
 
