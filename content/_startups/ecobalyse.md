@@ -18,6 +18,14 @@ phases:
     end: 2021-07-16
   - name: construction
     start: 2021-07-16
+techno:
+  - Elm
+  - Python
+  - NodeJS
+  - ExpressJS
+  - SASS
+  - Highcharts
+  - Scalingo
 usertypes:
   - association
   - entreprise
