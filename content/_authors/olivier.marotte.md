@@ -12,7 +12,6 @@ startups:
     - envergo
     - urbanvitaliz
     - innovation-urbaine
-    - locatio
     - resorption-bidonvilles
     - sparte
     - zero-logement-vacant
