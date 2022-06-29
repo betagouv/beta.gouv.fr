@@ -9,8 +9,8 @@ repository: https://github.com/betagouv/api-subventions-asso
 contact: data.subvention@beta.gouv.fr
 phases:
   - name: construction
-    start: 2021-09-01
-    end: 2022-03-15
+    start: 2022-01-03
+    end: 2022-11-15
 usertypes:
   - association
   - etat
@@ -23,7 +23,7 @@ Convaincu de longue date de la contribution majeure des associations à la cons
 
 La subvention publique reconnaît le concours des associations bénéficiaires aux politiques publiques portées par l’État mais également leur capacité d’initiative et leur autonomie d’actions. Dans ce cadre, elle crée des engagements réciproques entre les pouvoirs publics et les associations. 
 
-En 2018, l’État a attribué plus de 6 milliards d’euros aux associations sous forme de subventions, représentant près de 58 000 versements. Chaque année, de nombreuses associations sollicitent une subvention auprès des différents services de l’État qui doivent, au cours de l’instruction de ces demandes, en vérifier l’éligibilité et la conformité et sollicitent à cette fin différentes pièces justificatives aux associations.
+En 2020, l’État a attribué 7,3 milliards d’euros aux associations sous forme de subventions, représentant plus de 66 000 versements. Chaque année, de nombreuses associations sollicitent une subvention auprès des différents services de l’État qui doivent, au cours de l’instruction de ces demandes, en vérifier l’éligibilité et la conformité et sollicitent à cette fin différentes pièces justificatives aux associations.
 
 De plus, face à l’importance du nombre du subventions versées chaque année et face à la volonté d’accroître le niveau de transparence concernant l’usage de l’argent public, il est essentiel aujourd’hui d’appliquer une politique d’ouverture des données, rendant disponibles et publiques, l’ensemble des subventions versées par l’État aux associations.
 
@@ -53,14 +53,18 @@ Enfin, bien que l’État soutienne les associations au travers de subventions n
 
 ## **Solution en construction**
 
-Pour répondre à ces enjeux, l'équipe va travailler sur la mise en commun, l’échange de données et l’interopérabilité entre les différents outils et les API pour favoriser une vision plus globale et enrichie des associations et réduire la répétition des informations et leur mise  jour.
+Pour répondre à ces enjeux, l'équipe travaille sur la mise en commun, l’échange de données et l’interopérabilité entre les différents outils et les API pour favoriser une vision plus transversale et enrichie des associations et réduire la répétition des informations et leur mise  jour.
 
-Pour cela, l'équipe collecte les données disponibles dans les différents outils de dématérialisation et les APIs existants, qu’elle croise et veut rendre consultables via une interface client web. 
+Pour cela, l'équipe collecte les données disponibles dans les différents outils de dématérialisation et les APIs existants, qu’elle croise et rend consultables via un outil interministériel. 
 
-Elle développe également une API pour exposer ces données, favoriser l’interopérabilité entre les outils et la réutilisation des données et ainsi réduire les répétitions et les problèmes d’actualisation de ces informations.
+Elle développe également une API pour exposer ces données, favoriser l’interopérabilité entre les outils, la réutilisation des données et ainsi réduire les répétitions et les problèmes d’actualisation de ces informations.
 
 ## Stratégie de déploiement
 
-La startup vise à recruter ses premiers utilisateurs parmi les utilisateurs d'outils de dématérialisation des subventions existants.
+La startup recrute ses premiers utilisateurs parmi les agents de l'Etat qui recourent déjà à des outils de dématérialisation existants permettant la gestion des demandes de subvention, pour lesquels la solution vient en complément de ces outils.
 
-Elle envisage aussi une approche territorialisée ciblée sur une ou deux régions en cours d'identification.
+Elle déploie aussi la solution dans deux régions pilotes - l'Occitanie et les Pays de la Loire - au sein desquelles elle propose à tous les agents qui sont concernés ou intéressés par l'attribution de subventions à des associations de tester l'outil et de participer à son amélioration.
+
+Elle travaille aussi à la mise en place d'un schéma de données harmonisé concernant les demandes de subvention et les données d'information sur les associations.
+
+Elle expérimente également des modalités de collecte de données relatives aux demandes de subvention provenant de services n'ayant pas encore dématérialisé leur instruction et leur gestion, dont les données peuvent être utiles à partager.
