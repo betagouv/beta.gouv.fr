@@ -4,7 +4,7 @@ domaine: Intraprenariat
 role: Intrapreneure
 missions:
   - start: 2021-09-01
-    end: 2022-08-31
+    end: 2022-11-15
     status: admin
     employer: DJEPVA
 startups:
@@ -15,4 +15,4 @@ competences:
   - Administration Publique
 github: valerie-daoduy
 ---
-Déléguée régionale à la vie associative en Pays de la Loire, accompagner les associations pour plus d'intérêt général et de biens communs
+Motivée par les projets d'intérêt général concrets
