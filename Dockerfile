@@ -17,6 +17,10 @@ RUN npm i
 # only then, copy the rest of the app and boot
 COPY . .
 
+# server
 EXPOSE 4000
 
-CMD bundle exec jekyll serve --incremental --host 0.0.0.0
+# livereload
+EXPOSE 35729
+
+CMD bundle exec jekyll serve --incremental --host 0.0.0.0 --livereload
