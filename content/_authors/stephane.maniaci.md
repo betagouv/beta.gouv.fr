@@ -1,16 +1,21 @@
 ---
 fullname: Stéphane Maniaci
-role: Lead dev
 domaine: Développement
-link: https://freesteph.info
+role: Lead dev
 github: freesteph
+link: https://freesteph.info
 missions:
   - start: 2022-04-07
     end: 2023-12-31
     status: admin
     employer: DINUM
+incubator: dinum
 badges:
   - segur
+competences:
+  - Développement Frontend
+  - Développement Backend
+  - UX
+  - UI
 ---
-
-Lead dev @ Brigade
+claviériste asaisonn
