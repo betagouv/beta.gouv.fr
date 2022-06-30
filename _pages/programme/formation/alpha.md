@@ -26,9 +26,9 @@ verbatims:
     name: participant.e anonyme
     job: 
 metrics:
-  - value: 28
+  - value: 34
     text: sessions réalisées
-  - value: 595
+  - value: 732
     text: agents formés
   - value: 4,4/ 5
     text: de satisfaction des participants
