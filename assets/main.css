@@ -41,7 +41,7 @@ hr {
 
 .hero {
   width: 100%;
-  color: #fff;
+  color: var(--grey-1000-50);
   background: #0053b3;
 }
 
@@ -165,12 +165,12 @@ hr {
 
 .section-dark {
   background-color: #1c1c1c;
-  color: #fff;
+  color: var(--grey-1000-50);
 }
 
 .section-color, .section-color h2 {
   background-color: #003b80;
-  color: #fff;
+  color: var(--grey-1000-50);
 }
 
 /*
@@ -383,7 +383,7 @@ main .fr-container img {
   position: absolute;
   z-index: 1;
   top: 2em;
-  background-color: white;
+  background-color: var(--grey-1000-50);
   border: 1px solid #adb9c9;
   max-width: 660px;
   min-width: 35vw;
@@ -421,7 +421,7 @@ main .fr-container img {
   height: auto;
   max-width: 100px;
   padding: 10px;
-  background-color: #fff;
+  background-color: var(--grey-1000-50);
   border: 1px solid #d1d2de;
 }
 
@@ -475,10 +475,11 @@ main .fr-container img {
 
 .section-blue h1,
 .section-blue h2,
+.section-blue .fr-h2,
 .section-blue h3:not(.fr-card__title),
 .section-blue h4:not(.fr-card__title),
 .section-blue .section-description {
-  color: #fff;
+  color: var(--grey-1000-50);
 }
 
 .section-blue svg {
@@ -498,7 +499,7 @@ main .fr-container img {
 }
 
 .section-main h1 {
-  color: white;
+  color: var(--grey-1000-50);
   text-align: left;
   margin-bottom: 1.2em;
 }
@@ -509,15 +510,15 @@ main .fr-container img {
 }
 
 .fr-btn--secondary.button-white {
-  background-color: white;
-  border-color: white;
-  box-shadow: inset 0 0 0 1px white;
+  background-color: var(--grey-1000-50);
+  border-color: var(--grey-1000-50);
+  box-shadow: inset 0 0 0 1px var(--grey-1000-50);
 }
 
 .fr-btn--secondary.button-white-border {
-  border-color: white;
-  box-shadow: inset 0 0 0 1px white;
-  color: white;
+  border-color: var(--grey-1000-50);
+  box-shadow: inset 0 0 0 1px var(--grey-1000-50);
+  color: var(--grey-1000-50);
 }
 
 .section-title,
@@ -580,7 +581,7 @@ main .fr-container img {
 }
 
 .text-white {
-  color: #ffffff;
+  color: var(--grey-1000-50);
 }
 
 .text-right {
