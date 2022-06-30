@@ -17,6 +17,7 @@ missions:
 startups: []
 previously:
   - camino
+  - dora
 competences:
   - Développement Frontend
   - Développement Backend
