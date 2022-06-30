@@ -1,3 +1,5 @@
+const MEMBER_PLACEHOLDER = "/img/logo-generique-startup-carre-2019.jpg";
+
 var createStartupTag = function (startupId) {
   if (!startupId) return "";
 
@@ -51,9 +53,9 @@ var createAuthorCard = function (author) {
   const incubator = author.incubator ? incubators.find((incubator) => incubator.id === author.incubator) : undefined;
   const isAlumnus = authorEndDate < timestampNow;
 
-  const avatar = `<img class="lozad avatar-rounded" data-src="${avatarSrc}" title="${author.fullname}" alt="" data-proofer-ignore>`;
+  const avatar = `<img class="lozad avatar-rounded" src="${MEMBER_PLACEHOLDER}"data-src="${avatarSrc}" alt="">`;
 
-  const title = author.link ? `<a class="fr-card__link" href="${ author.link }" target="_blank" rel="noopener">${author.fullname}</a>` : author.fullname;
+  const title = author.link ? `<a class="fr-card__link" href="${author.link}" target="_blank" rel="noopener">${author.fullname}</a>` : author.fullname;
   const detail = isAlumnus ? "Alumnus" : author.role;
   const content = author.content || "";
   const tags = totalStartups.map(createStartupTag).join("");

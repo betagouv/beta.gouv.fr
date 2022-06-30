@@ -1,3 +1,5 @@
+const STARTUP_PLACEHOLDER = "/img/betagouv-rectangle.png";
+
 var USERTYPES = {
   "etablissement-scolaire": "Etablissements scolaires et d'enseignement supérieur",
   etat: "Services de l'État",
@@ -42,10 +44,10 @@ var createStartupCard = function (startup) {
             </div>
             <div class="fr-card__img">
                 <img class="screenshot lozad"
+                    src="${STARTUP_PLACEHOLDER}"
                     data-src="${startup.attributes["screenshot-url"]}"
-                    title="${startup.attributes.name} est encore en travaux"
                     alt=""
-                    data-proofer-ignore>
+                    />
             </div>
         </div>`;
   return card;
