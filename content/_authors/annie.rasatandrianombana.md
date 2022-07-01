@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo
   - start: 2022-02-07
-    end: 2022-06-30
+    end: 2022-09-30
     status: independent
     employer: Octo
 startups:
