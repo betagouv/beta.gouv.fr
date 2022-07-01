@@ -9,7 +9,7 @@ missions:
     status: service
     employer: Pôle emploi
   - start: 2021-05-01
-    end: 2022-06-30
+    end: 2022-10-31
     status: service
     employer: Pôle emploi
 startups:
