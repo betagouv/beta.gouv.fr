@@ -1,9 +1,10 @@
 ---
 roles: DESIGNEUSE OU DESIGNEUR UI EXPÉRIMENTÉ·E - 3 jours par semaine ✨
-open: true
+open: false
 date: 2022-05-11T08:48:02.812Z
 depublication_date: 2022-06-08T08:29:11.600Z
 startup: dora
+contacts: patrick.lambret
 domaines:
   - Design
 ---

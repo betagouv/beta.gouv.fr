@@ -20,19 +20,19 @@ title: Découvrir le programme
       <img
          class='fr-my-6w'
          src="/img/programme/programme.svg"
-         alt="Le programme Beta.gouv.fr se déroule en 4 étapes : investigation, construction, accélération puis transfert."
+         alt="Le programme se déroule en 4 étapes : investigation, construction, accélération puis transfert."
         />
    </div>
 </div>
 <div class="fr-container section-grey fr-py-6w">
-   <h3 class="fr-mb-4w">Notre fonctionnement</h3>
+   <h2 class="fr-mb-4w">Notre fonctionnement</h2>
    <div class="fr-grid-row  fr-grid-row--gutters startups">
       <div class="fr-col fr-col-12 fr-col-md-3"  >
       <div class="fr-tile fr-enlarge__link">
       <div class="fr-tile__body">
-            <h4 class="fr-tile__title">
+            <h3 class="fr-tile__title">
                Améliorer de l'intérieur
-            </h4>
+            </h3>
             <p class="fr-tile__desc">En formant et faisant équipe avec des agents publics "intrapreneurs".</p>
          </div>
       </div>
@@ -40,9 +40,9 @@ title: Découvrir le programme
       <div class="fr-col fr-col-12 fr-col-md-3" >
          <div class="fr-tile fr-enlarge__link">
             <div class="fr-tile__body">
-            <h4 class="fr-tile__title">
+            <h3 class="fr-tile__title">
                Des jalons tous les 6 mois
-            </h4>
+            </h3>
             <p class="fr-tile__desc">Pour faire le point sur l’impact du produit, le continuer ou l’arrêter.</p>
             </div>
          </div>
@@ -50,9 +50,9 @@ title: Découvrir le programme
       <div class="fr-col fr-col-12 fr-col-md-3" >
          <div class="fr-tile fr-enlarge__link">
             <div class="fr-tile__body">
-            <h4 class="fr-tile__title">
+            <h3 class="fr-tile__title">
                L'approche "Startup d'Etat"
-            </h4>
+            </h3>
             <p class="fr-tile__desc">Un premier produit au contact des utilisateurs le plus vite possible.</p>
             </div>
          </div>
@@ -60,9 +60,9 @@ title: Découvrir le programme
       <div class="fr-col fr-col-12 fr-col-md-3" >
          <div class="fr-tile fr-enlarge__link">
             <div class="fr-tile__body">
-            <h4 class="fr-tile__title">
+            <h3 class="fr-tile__title">
                Un manifeste
-            </h4>
+            </h3>
             <p class="fr-tile__desc">Pour déterminer notre façon de travailler ensemble.
             <br>
             <a href="https://beta.gouv.fr/approche/manifeste">Lire notre manifeste</a></p>
@@ -78,20 +78,20 @@ title: Découvrir le programme
       <div class="fr-col-md-4 fr-col-12">
          <img
             src="/img/programme/investigation.svg"
-            alt="Illustration identifier le problème à résoudre"
+            alt=""
           />
       </div>
       <div class="fr-col-md-8 fr-px-4w fr-col-12">
-         <span><b>L’Investigation</b></span>
-         <h3>
+         <h3 class="fr-text--md fr-mb-0">L’Investigation</h3>
+         <h4>
             Identifier le problème à résoudre
-         </h3>
+         </h4>
          <p>
           Valider que le problème peut être résolu par le numérique  en rencontrant des utilisateurs pour qualifier le problème et imaginer des ébauches de solutions
          </p>
          <div class="fr-mb-4w fr-p-1w fr-col-md-6 fr-col-sm-12 fr-mt-2w section-grey" >
             <span aria-hidden="true">📅</span> Pendant <b>1 à 2 mois </b><br>
-            <span aria-hidden="true">✋</span> <a href="/devenir-intrapreneur">L’intra</a> accompagné d’un ou d’une coach
+            <span aria-hidden="true">✋</span> L’intra accompagné d’un ou d’une coach
          </div>
          <p>Décideur public, vous voulez lancer une investigation avec nous?</p>
         <div class="fr-btns-group fr-btns-group--inline">
@@ -105,29 +105,29 @@ title: Découvrir le programme
       <div class="fr-col-md-4 fr-col-12">
          <img
             src="/img/programme/realisation.svg"
-            alt="Illustration réaliser un service public numérique"
+            alt=""
           />
       </div>
       <div class="fr-col-md-8 fr-px-4w fr-col-12">
-         <span><b>La Start-up d’Etat</b></span>
-         <h3>
+         <h3 class="fr-text--md fr-mb-0">La Start-up d’Etat</h3>
+         <h4>
             Réaliser un service public numérique
-         </h3>
-         <h4 class="decorated fr-mt-4w">La phase de construction</h4>
+         </h4>
+         <h5 class="fr-text--md fr-mb-0">La phase de construction</h5>
          <p>
             Constituer son équipe et développer son produit en produisant la première version de la solution sur un terrain d’expérimentation.
          </p>
-         <h4 class="decorated">La phase d’accélération</h4>
+         <h5 class="fr-text--md fr-mb-0">La phase d’accélération</h5>
          <p>
             Avoir un produit fini déployé au niveau national.
          </p>
-         <h4 class="decorated">La phase de transfert</h4>
+         <h5 class="fr-text--md fr-mb-0">La phase de transfert</h5>
          <p>
             Créer les conditions de la reprise en assurant la pérennité du projet au sein de son administration d‘origine.
          </p>
          <div class="fr-mb-4w fr-p-1w fr-col-md-8 fr-col-sm-12 fr-mt-2w section-grey">
             <span aria-hidden="true">📅</span> Pendant <b>18 à 32 mois</b><br>
-            <span aria-hidden="true">✋</span> Avec <a href="/devenir-intrapreneur">l’intra</a>, son ou sa coach et une équipe d’experts
+            <span aria-hidden="true">✋</span> L’intra, son ou sa coach et une équipe d’experts
          </div>
          <p>Décideur public, vous voulez réaliser un service public numérique ?</p>
          <div class="fr-btns-group fr-btns-group--inline">
@@ -142,11 +142,11 @@ title: Découvrir le programme
    <div class="fr-col-md-4 fr-col-12">
       <img
          src="/img/alpha/alpha-first-session-solo.jpeg"
-         alt="Illustration réaliser un service public numérique"
+         alt=""
         />
    </div>
    <div class="fr-col-md-8 fr-px-4w fr-col-12">
-      <span><b>La formation des agents publics</b></span>
+      <h2 class="fr-text--md fr-mb-0">La formation des agents publics</h2>
       <h3>
          Passer une journée à beta.gouv
       </h3>
@@ -163,7 +163,7 @@ title: Découvrir le programme
 const nousecrireinvestigation = document.querySelector('#btn-nous-ecrire-investigation')
 const nousecrire = document.querySelector('#btn-nous-ecrire')
 const decouvririnvestigation = document.querySelector('#btn-decouvrir-investigation')
-const decouvrirconstruction = document.querySelector('#btn-decouvrir-construction') 
+const decouvrirconstruction = document.querySelector('#btn-decouvrir-construction')
 nousecrireinvestigation.addEventListener('click', function () {
       _paq.push(['trackEvent', 'conversion', 'Click nous ecrire'])
     })

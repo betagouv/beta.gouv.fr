@@ -16,7 +16,7 @@ missions:
     end: 2024-03-14
 startups:
 previously:
-  - _openfisca_
+  - openfisca
   - api.gouv.fr
   - datapass
   - api-particulier

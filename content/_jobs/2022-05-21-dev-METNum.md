@@ -1,6 +1,6 @@
 ---
 roles: Une développeuse ou un développeur full stack expérimenté(e)
-open: true
+open: false
 startup: metiers.numerique.gouv.fr 
 domaines:
   - Développement

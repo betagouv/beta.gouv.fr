@@ -2,7 +2,7 @@
 fullname: Sébastien Carceles
 role: Développeur
 domaine: Développement
-link: https://www.linkedin.com/in/scarceles/
+link: https://www.linkedin.com/in/sebastiencarceles
 github: sebastiencarceles
 missions:
   - start: 2022-06-01

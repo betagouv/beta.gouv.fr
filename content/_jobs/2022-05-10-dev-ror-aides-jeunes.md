@@ -1,7 +1,7 @@
 ---
 roles: Dev Ruby on Rails expérimenté·e en résidence
 title: "Offre : Dev Ruby on Rails expérimenté·e en résidence"
-open: true
+open: false
 techno: Ruby on Rails
 startup: aides.jeunes
 domaines:

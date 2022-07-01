@@ -1,9 +1,10 @@
 ---
 roles: DÉVELOPPEUR ou DÉVELOPPEUSE WEB EXPÉRIMENTÉ·E - 4 jours par semaine 🛸
-open: true
+open: false
 date: 2022-05-31T14:19:00.014Z
 depublication_date: 2022-06-07T15:57:56.787Z
 startup: dora
+contacts: patrick.lambret
 domaines:
   - Développement
 ---

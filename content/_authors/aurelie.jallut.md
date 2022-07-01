@@ -9,6 +9,10 @@ missions:
     end: 2022-12-31
     status: independent
 startups:
+    - données-et-territoires
+    - sndv_maritime
+previously:
+    - Aplus
 badges:
   - segur
 competences:

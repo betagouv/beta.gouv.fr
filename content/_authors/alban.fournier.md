@@ -4,8 +4,8 @@ role: Product Manager Confirmé
 domaine: Produit
 link: https://www.linkedin.com/in/albanfournierprenfit/
 missions:
-  - start: 2022-01-06
-    end: 2022-02-12
+  - start: 2022-06-01
+    end: 2022-12-02
     status: independent
     employer: Little Big Connection
 startups:

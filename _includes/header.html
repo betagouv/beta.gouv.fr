@@ -6,13 +6,13 @@
           <div class="fr-header__brand-top">
             <div class="fr-header__logo">
               <p class="fr-logo">
-              République
-              <br>française
+                République<br>
+                Française
               </p>
             </div>
-            
+
             <div class="fr-header__navbar">
-              <button class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="modal-833" aria-haspopup="menu" title="Menu">
+              <button class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="modal-833" aria-haspopup="menu" title="Menu" id="fr-btn-menu-mobile">
                   Menu
               </button>
             </div>
@@ -20,7 +20,7 @@
 
           <div class="fr-header__service">
             <a href="/" title="Retour à l’accueil">
-              <img src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" alt="beta.gouv.fr" style="width:10.5rem; height:auto;">
+              <img src="{{ '/assets/additional/images/logo-betagouvfr.svg' }}" alt="beta.gouv.fr">
             </a>
           </div>
         </div>
@@ -31,9 +31,9 @@
               {% for item in site.data.menu.shortcuts %}
               <li class="fr-shortcuts__item">
                 {% if item.external == true %}
-                  <a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="{{ item.url }}" title="{{ item.label }} - Nouvelle fenêtre" target="_blank" rel="noopener">{{ item.label }}</a>
+                  <a class="fr-link" href="{{ item.url }}" title="{{ item.label }} - nouvelle fenêtre" target="_blank" rel="noopener">{{ item.label }}</a>
                 {% else %}
-                  <a class="fr-link" href="{{ item.url }}" title="{{ item.label }}">{{ item.label }}</a>
+                  <a class="fr-link" href="{{ item.url }}">{{ item.label }}</a>
                 {% endif %}
               </li>
               {% endfor %}
@@ -45,7 +45,7 @@
   </div>
 
   <!-- Navigation principale -->
-  <div class="fr-header__menu fr-modal" id="modal-833" aria-labelledby="button-834">
+  <div class="fr-header__menu fr-modal" id="modal-833" aria-labelledby="fr-btn-menu-mobile">
     <div class="fr-container">
       <button class="fr-link--close fr-link" aria-controls="modal-833">Fermer</button>
       <div class="fr-header__menu-links"></div>

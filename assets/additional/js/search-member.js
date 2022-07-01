@@ -1,34 +1,14 @@
-var createStartupTag = function (startup, author, index, extraCount) {
-  var labelClass = (author.previously || []).includes(startup) ? "fr-tag fr-tag--sm fr-tag--inactive" : "fr-tag fr-tag--sm";
-  var html;
-  if (startup === "_help_me_") {
-    html = "";
-  } else if (startup === "_in_progress_") {
-    html = `<li>
-            <span class="fr-tag--sm">Fiche produit à venir</span>
-        </li>`;
-  } else if (startup === "_alpha_") {
-    html = ` <li>
-        <a href="approche/formation" class="${labelClass}" target="_self">Formation Alpha</a>
-      </li>`;
-  } else if (startup === "_openfisca_") {
-    html = `<li>
-            <a href="https://openfisca.org" class="${labelClass}" target="_self">OpenFisca</a>
-        </li>`;
-  } else {
-    foundStartup = startups.find((s) => s.id === startup);
-    if (foundStartup) {
-      html = `<li>
-                <a href="/startups/${foundStartup.id}" class="${labelClass}" target="_self">${foundStartup.title}</a>
-            </li>`;
-    } else {
-      html = `<li>
-                <a href="/startups/${startup}" class="${labelClass}" target="_self">${startup}</a>
-            </li>`;
-    }
-  }
-  var extra = index === 5 ? '<li><span class="fr-tag--sm">Et ' + extraCount + " autre(s)</span></li>" : "";
-  return html + extra;
+var createStartupTag = function (startupId) {
+  if (!startupId) return "";
+
+  const startup = startups.find((s) => s.id == startupId);
+
+  if (!startup) return "";
+
+  return `
+    <li>
+      <a href="/startups/${startupId}" class="fr-tag" target="_self">${startup.title || startupId}</a>
+    </li>`;
 };
 
 function convertDate(inputFormat) {
@@ -50,16 +30,14 @@ var createAuthorCard = function (author) {
   if (author.previously) {
     totalStartups = totalStartups.concat(author.previously);
   }
-  totalStartups = totalStartups.filter((s) => s);
-  var totalCount = totalStartups.length;
-  var extraCount = totalCount - 5;
-  extraCount = extraCount > 0 ? extraCount : 0;
-  totalStartups = totalStartups.slice(0, 5);
+  totalStartups = totalStartups.slice(0, 4);
+
   let timestampNow = new Date();
   let authorEndDate;
   if (author.missions.length) {
     authorEndDate = new Date(author.missions[author.missions.length - 1].end);
   }
+
   var avatarSrc = staticFiles.filter((staticFile) => staticFile.includes(author.id))[0];
   if (!avatarSrc) {
     if (author.avatar) {
@@ -71,33 +49,55 @@ var createAuthorCard = function (author) {
     }
   }
   const incubator = author.incubator ? incubators.find((incubator) => incubator.id === author.incubator) : undefined;
-  var avatarHTML = `<img class="lozad avatar-rounded" data-src="${avatarSrc}" title="${author.fullname}" alt="" data-proofer-ignore>`;
-  card.innerHTML = `<div class="fr-card fr-card--no-arrow fr-card__img__rounded">
-            <div class="fr-card__body">
-                <h3 class="fr-card__title">
-                    ${author.link ? '<a class="fr-card__link" href="{{ author.link }}" target="_blank" rel="noopener">' + author.fullname + "</a>" : author.fullname}
-                </h3>
-                <p class="fr-card__detail">
-                    ${timestampNow > authorEndDate ? "Alumni" : author.role}
-                </p>
-                ${author.content ? '<p class="fr-card__desc">' + author.content + "</p>" : ""}
-                ${totalCount ? '<ul class="fr-tags-group">' + totalStartups.map((s, i) => createStartupTag(s, author, i, extraCount)).join("") + "</u>" : ""}
-                ${
-                  authorEndDate >= timestampNow && incubator
-                    ? `<p class="fr-card__detail">
-                    <a href="/startups/?incubateur=${author.incubator}" class="fr-tag fr-tag--sm" target="_self">
-                        ${incubator.title}
-                    </a>
-                </p>`
-                    : ""
-                }
-                </div>
-            <div class="fr-card__img">
-            ${avatarHTML}
-            </div>
-        </div>`;
+  const isAlumnus = authorEndDate < timestampNow;
+
+  const avatar = `<img class="lozad avatar-rounded" data-src="${avatarSrc}" title="${author.fullname}" alt="" data-proofer-ignore>`;
+
+  const title = author.link ? `<a class="fr-card__link" href="${ author.link }" target="_blank" rel="noopener">${author.fullname}</a>` : author.fullname;
+  const detail = isAlumnus ? "Alumnus" : author.role;
+  const content = author.content || "";
+  const tags = totalStartups.map(createStartupTag).join("");
+  const other =
+    !isAlumnus && incubator
+      ? `<a href="/startups/?incubateur=${author.incubator}" class="fr-link" target="_self">
+           RACE: ${incubator.title}
+         </a>`
+      : "";
+
+  card.innerHTML = markupForCard({ title, detail, content, tags, detail, avatar });
+
   return card;
 };
+
+function markupForCard(params) {
+  const { title, detail, content, tags, other, avatar } = params;
+
+  return `
+<div class="fr-card fr-card--grey">
+  <div class="fr-card__body">
+    <div class="fr-card__content">
+      <div class="fr-card__start">
+    <h3 class="fr-card__title fr-mb-2w">
+      ${title}
+    </h3>
+    <p class="fr-card__detail">
+      ${detail}
+    </p>
+    ${content ? '<p class="fr-card__desc">' + content + "</p>" : ""}
+    ${tags ? '<ul class="fr-tags-group">' + tags + "</ul>" : ""}
+    ${!!other ? '<p class="fr-card__detail">' + other + "</p>" : ""}
+  </div>
+</div>
+</div>
+<div class="fr-card__header">
+  <div class="fr-card__img">
+    <div class="avatar fr-py-2w">
+      ${avatar}
+    </div>
+  </div>
+</div>
+</div>`;
+}
 
 var generateDataWithHtmlCards = function (members) {
   var keys = Object.keys(members);

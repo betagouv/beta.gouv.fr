@@ -2,6 +2,10 @@
 contact: marc.gavanier@beta.gouv.fr
 open: false
 date: 2022-03-11T09:46:55.355Z
+depublication_date: 2022-06-23T07:47:30.302Z
+contacts: marc.gavanier
+domaines:
+  - Développement
 contrat: indépendant
 equipe: Cartographie Nationale
 poste_pourvu: false

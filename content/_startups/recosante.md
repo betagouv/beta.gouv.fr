@@ -3,6 +3,7 @@ title: Recosanté
 mission: Réduire l’exposition aux facteurs environnementaux nocifs pour la santé
 sponsors: 
     - /organisations/dgs
+    - /organisations/dgpr
 incubator: dinum
 link: https://recosante.beta.gouv.fr/
 repository: https://github.com/betagouv/recosante/
@@ -11,77 +12,76 @@ stats_url: https://recosante.beta.gouv.fr/stats/
 stats: true
 phases:
   - name: investigation
-    start: 2019-11-25
-    end: 2020-01-30
+    start: 2020-01-01
+    end: 2020-04-01
   - name: construction
-    start: 2020-03-27
-    end: 2021-06-30
+    start: 2020-04-01
+    end: 2021-06-01
+  - name: acceleration
+    start: 2021-06-01
 redirect_from:
   - /startups/ecosante
 usertypes:
   - particulier
+dashlord_url: https://dashlord.incubateur.net/url/recosante-beta-gouv-fr/
 ---
 
 ## Contexte
 
 ### Les enjeux santé-environnement
 
-D’après une étude de l’OMS parue en 2006¹ les causes environnementales sont directement responsables d’environ 14 % de la mortalité en France, soit 74 300 décès pour l’année de parution. 
+En France, les causes environnementales sont directement responsables d’environ 14 % de la mortalité en France d’après une étude de l’OMS parue en 2006.
 
-La majorité des données environnementales sont accessibles, cependant elles ne sont pas forcément rassemblées et organisées pour une valorisation pratique des citoyens.
+Si la majorité des données environnementales sont ouvertes, elles ne sont pas rendues accessibles et compréhensibles au sein d’un outil unique et simple d’utilisation pour les citoyens.
 
-De plus, les comportements à adopter pour limiter les impacts sur notre santé environnement ne sont pas toujours connus.
+Par ailleurs, les comportements à adopter pour limiter les impacts de l’environnement sur la santé ne sont pas toujours connus.
 
-¹Organisation Mondiale de la Santé, Près du quart de toutes les maladies sont dues a une exposition environnementale, 2006. URL : https://www.who.int/mediacentre/news/releases/2006/pr32/fr/
+### Le cadre légal et administratif
 
-## Le cadre légal et administratif
+*Toute personne a le droit, dans les conditions et les limites définies par la loi, d’accéder aux informations relatives à l’environnement* (Charte de l’environnement, article 7).
 
-Les Français sont en droit, dans les conditions et les limites définies par la loi, d’accéder aux informations relatives à l’environnement détenues par les autorités, comme le prévoit l’article 7 de la Charte de l’environnement de 2004. 
+C’est sur cette base que s’inscrit le service [Recosanté](https://recosante.beta.gouv.fr/) pour permettre à tous de connaître son environnement et d’agir pour sa santé.
 
-Ce projet s'inscrit dans le [Plan National Santé-Environnement](https://solidarites-sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-mon-environnement-ma-sante-2020-2024) co-piloté par le Ministère de la Santé et le Ministère de la Transition écologique. 
-
-C'est dans ce contexte qu'est née l'équipe Ecosanté !
+La construction de ce service s’inscrit également dans le 4e [Plan National Santé-Environnement](https://solidarites-sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-mon-environnement-ma-sante-2020-2024), co-piloté par les ministères chargés de l’environnement et de la santé. 
 
 ## Notre approche
 
-### Focus sur une thématique
-
-Les enjeux santé-environnement regroupent de nombreux sujets. L'équipe a donc choisi de commencer par la pollution de l'air, un sujet grandissant auprès de la population française. 
-
 ### Partir du problème
 
-L'objectif est de trouver une solution à un problème exprimé par la population. 
+Les services construits au sein du programme beta.gouv ont un objectif : proposer une solution à un problème exprimé par la population.
 
-Nous avons réalisé plus de 50 entretiens qualitatifs avec des catégories de population différente, à la recherche de personnes directement impactées par la qualité de l'air. 
+L’équipe Recosanté a réalisé plus de 50 entretiens qualitatifs avec des catégories de population différentes, à la recherche de personnes directement impactées par la qualité de l’air (qui a été la première thématique explorée par l’équipe).
 
-C'est auprès des personnes sensibles, et notamment atteintes de pathologies respiratoires, que nous avons trouvé un problème lié à la qualité de l'air. Ces échanges nous ont permis de formuler le problème suivant : 
+C’est avec des personnes sensibles, et notamment atteintes de pathologies respiratoires, que le problème a été identifié et formulé : 
 
-*En tant que personne directement affectée par la qualité de l'air, je ne sais pas comment adapter mon comportement pour me protéger des impacts de la qualité de l'air sur ma santé.*
+*En tant que personne directement affectée par la qualité de l’air, je ne sais pas comment adapter mon comportement pour me protéger des impacts de la qualité de l’air sur ma santé.*
 
 ### Tester des solutions
 
-Afin de trouver la meilleure solution à ce problème, nous avons testé plusieurs format et retenu celui de la lettre d'information par mail. Les personnes utilisatrices de Recosanté reçoivent tous les matin le mail Recosanté.  
+Afin de trouver la meilleure solution à ce problème, plusieurs supports et formats ont été testés en lien avec les utilisateurs du service.
 
-L'objectif est de co-construire le service à partir des retours des personnes inscrites. 
+## Le service numérique
 
+Sur la base des itérations avec les utilisateurs, [Recosanté](https://recosante.beta.gouv.fr/) propose aujourd’hui un service d’information sur la santé environnement organisé en trois supports : 
 
-## Le produit numérique
+1. Un tableau de bord accessible en ligne qui permet d’accéder aux indicateurs environnementaux pour une commune choisie, et aux recommandations de comportement liées à ces indicateurs.
+2. Un service d’abonnement aux indicateurs environnementaux, par mail ou par notification.
+3. Un parcours de sensibilisation à la santé environnement via des lettres d’information hebdomadaires qui propose d’approfondir des thématiques spécifiques (liens entre la pollution de l’air et la santé, exposition aux rayons UV, etc.).
 
-Ecosanté est une lettre d’information numérique, qui propose des recommandations personnalisées aux citoyens en fonction de la qualité de l’air, des épisodes de pollution et du risque pollinique.
+Aujourd’hui, les données intégrées au service sont :
 
-Les données utilisées sont :
-- L'indice national de qualité de l'air ATMO, mesuré par les Associations Agréées de Surveillance de la Qualité de l'Air. 
-- Le risque d'allergie d'exposition aux pollens, mesuré par le Réseau National de Surveillance Aérobiologique 
+- L’indice national de qualité de l’air ATMO, mesuré par les associations agréées de surveillance de la qualité de l’air.
+- Le risque d’allergie d’exposition aux pollens, mesuré par le réseau national de surveillance aérobiologique.
+- Le potentiel radon d’une commune, mesurée par l’institut de radioprotection et de sûreté nucléaire.
+- La vigilance météo, transmise par Météo France.
+- L’indice UV, transmis par Météo France.
 
-L’ensemble des recommandations diffusées sont issues de sources officielles telles que le ministère des Solidarités et de la Santé, l’ADEME, l’OQAI, le RNSA, etc. Par ailleurs, nous travaillons déjà avec des associations, dont Santé respiratoire France, et des médecins pour diffuser cette lettre d’information.
-
-Pour tester le service Recosanté, c'est [ici](https://recosante.beta.gouv.fr/). 
-
+L’ensemble des recommandations diffusées sont issues de sources officielles telles que le ministère de la Santé, l’ADEME, l’OQAI, le RNSA, etc. Par ailleurs, les contenus de prévention et de sensibilisation sont conçus en lien avec Santé publique France.
 
 ## Calendrier
 
-* JANVIER 2020 : phase d'investigation
-* AVRIL 2020 : recrutement de l'équipe
-* JUILLET 2020 : première phase de construction 
-* OCTOBRE 2020 : comité d'investissement
-* NOVEMBRE 2020 : deuxième phase de construction
+* Janvier 2020 : phase d’investigation
+* Avril 2020 : première phase de construction et recrutement de l’équipe
+* Novembre 2020 : deuxième phase de construction
+* Juin 2021 : première phase d’accélération
+* Février 2022 : deuxième phase d’accélération

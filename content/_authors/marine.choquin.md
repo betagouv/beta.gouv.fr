@@ -2,6 +2,7 @@
 fullname: Marine Choquin
 domaine: Animation
 role: Adjointe - Incubateur des Territoires
+github: MarineChoquin
 avatar: null
 missions:
   - start: 2020-10-01

@@ -16,7 +16,7 @@ missions: # ton historique de missions avec nous dans l'ordre chronologique. Rem
 startups: # ta ou tes startups actuelles
     - comobi
 previously: # ta ou tes anciennes startups
-    - lotocar
+    - comobi
     - urbanvitaliz
     - recosante
 ---

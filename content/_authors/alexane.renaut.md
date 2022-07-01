@@ -7,7 +7,7 @@ avatar: https://pbs.twimg.com/profile_images/1226891323132841991/Z42OxI0v_400x40
 github: Alexaaner
 missions:
   - start: 2021-07-08
-    end: 2022-07-08
+    end: 2022-11-30
     status: independent
     employer: Codeurs en Liberté
 startups:

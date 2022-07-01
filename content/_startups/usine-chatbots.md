@@ -5,29 +5,34 @@ sponsors:
  - /organisations/armees
 incubator: fabnumdef
 link: https://chatbot.fabnum.fr/
-contact: contact-chatbot@fabnum.fr
+contact: fabrique-chatbots@beta.gouv.fr
 stats: false
 phases:
   - name: investigation
     start: 2020-02-01
   - name: construction
     start: 2020-05-01
+  - name: acceleration
+    start: 2021-01-01
+  - name: transfer
+    start: 2022-06-01
 usertypes:
   - etat
 ---
 ## Contexte
 
-Le projet a été initié par la RH Marine qui souhaitait mettre à disposition de ses agents un chatbot qui répondrait à leurs questions RH. Afin de faire bénéficier d’autres projets de chatbot au sein du ministère, ce projet de chatbot s’est transformé en projet d'usine à chatbot.
+Le projet a été initié par la RH Marine qui souhaitait mettre à disposition de ses agents un chatbot qui répondrait aux questions RH. Afin de faire bénéficier d’autres projets de chatbot au sein du ministère, ce projet s’est transformé en un projet plus global d'usine à chatbots.
 
 ## Problématique
 
-L’objectif de la RH marine est de pouvoir, grâce à un chatbot, alléger ses agents dans la réponse aux questions récurrentes des marins concernant leur situation RH d’une part, et d’autre part, de permettre aux marins d’avoir une réponse dans tous les contextes (en opération, etc.).
+L'objectif de l'Usine à chatbots est de redonner l'autonomie aux métiers en leur fournissant un outil complet clé en main,entièrement personnable et facile à prendre en main. En 4 étapes et en moins de 48h (sur Internet), les agents peuvent se créer leur propre bot, techniquement prêt au lancement.
 
 ## Objectifs
 
-* pouvoir créer un chatbot facilement dans des environnements internet et intradef
-* enrichir et maintenir un chatbot via une interface de gestion
-* avoir une vision globale des chatbots créés au sein du ministère
+* Décharger les agents des questions-réponses choronophages et répétitives
+* Créer un chatbot internet facilement et rapidement sans avoir de connaissances techniques (puis intradef)
+* Pouvoir personnaliser, enrichir et maintenir la base de connaissance du chatbot 
+* Disposer d'une vision globale des chatbots créés au sein du ministère
 
 ## Chronologie
 
@@ -43,18 +48,44 @@ Livrable : wireframes
 début des maquettes
 
 **étape 4** (avril-septembre 2020)
-début du développement informatique
+développement du PMV
+
+**étape 5** (oct 2020-juin 2021)
+Tests utilisateurs, audit accessibilité, améliorations, ajouts de nouvelles fonctionnalités, démos et formations
+
+**étape 6** (juin 2021)
+homologation bot marine 
+
+**étape 7** (juin 2022)
+homologation de l'usine à chatbots
+
+**étape 8** (juin 2022)
+atterrissage du bot marine sur Intradef
+
+**étape 9** (octobre 2022)
+ouverture du service au public sur Intradef
+
 
 ## Résultats
 
 L'usine à chatbot est composée de 6 produits numériques :
 
-* Un [site internet](https://chatbot.fabnum.fr/) qui présente le produit
+* Un [site vitrine (internet)](https://chatbot.fabnum.fr/) qui présente le produit
 * Une [documentation](https://fabrique-a-chatbots.gitbook.io/fabrique-a-chatbots/)
 * Une [interface permettant de créer un chatbot](https://chatbot.fabnum.fr)
-* Une interface de chatbot
+* Une interface de chatbot (autonome ou intégrée)
 * Une interface de gestion pour travailler sur les connaissances de votre chatbot
 * Un tableau de bord de l'usine à chatbot
 
-Chatbots réalisés avec l'usine à chatbot :\
-[Chatbot RH Marine](https://rh-marine.chatbot.fabnum.fr/chatbot/)
+## Résultats
+
+3 chatbots réalisés avec l'usine à chatbot :
+- [Chatbot RH Marine- CIPAL Socrate](https://rh-marine.chatbot.fabnum.fr/chatbot/)
+- [Chatbot RH civil - Gédéon](https://gedeon.chatbot.fabnum.fr/chatbot/)
+- Chatbot interne pour la gestion de la solde
+
+Sur une période d'un an, le chatbot de la RH marine présente : 
+- un taux de réponse de 83%
+- plus de 500 sessions par mois
+- plus de 1600 questions posées par mois
+
