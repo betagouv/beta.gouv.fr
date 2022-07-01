@@ -10,7 +10,7 @@ missions:
     employer: OCTO Technology
 startups:
   - reva
-  - Code du travail numérique
+  - codedutravail
 ---
 
 Data scientist / data engineer voulant démystifier la data auprès des startups 
