@@ -13,5 +13,3 @@ startups:
 badges:
   - segur
 ---
-
-Développeuse JS 
