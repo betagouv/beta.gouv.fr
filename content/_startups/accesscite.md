@@ -30,7 +30,7 @@ Depuis 2020 : Refonte du code de la construction et de l’habitation (rapatriem
 
 ## Problème
 
-Pourtant il y a toujours 1 million d'ERP (sur 2 millions) non accessible, notamment dû à un problème de compréhension de la réglementation de la part des gestionnaires d'ERP et de communication avec l'administration.
+Pourtant il y a toujours 1 million d'ERP (sur 2 millions) non accessibles, notamment dû à un problème de compréhension de la réglementation de la part des gestionnaires d'ERP et de communication avec l'administration.
 
 ## Solution
 
