@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: INETUM - LBC
 startups:
-  - wikicarbone
+  - ecobalyse
 badges:
   - segur
 ---

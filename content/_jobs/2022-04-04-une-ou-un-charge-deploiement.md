@@ -2,7 +2,7 @@
 startup: annuaire-entreprises
 roles: Un(e) chargé(e) de déploiement au 3/5e
 date: 2022-04-04
-open: true
+open: false
 junior: false
 ---
 

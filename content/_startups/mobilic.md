@@ -16,6 +16,8 @@ stats_url: https://mobilic.beta.gouv.fr/stats
 contact: gaspard.granger@developpement-durable.gouv.fr
 usertypes:
   - entreprise
+dashlord_url: https://dashlord.incubateur.net/url/mobilic-beta-gouv-fr/
+accessibility_status: non conforme
 
 ---
 

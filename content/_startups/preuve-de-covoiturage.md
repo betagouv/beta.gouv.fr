@@ -18,6 +18,8 @@ stats_url : https://app.covoiturage.beta.gouv.fr/stats
 contact: contact@covoiturage.beta.gouv.fr
 usertypes:
   - collectivite-territoriale
+dashlord_url: https://dashlord.incubateur.net/url/covoiturage-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 
 1,08 personnes par véhicule seulement dans les déplacements professionnels

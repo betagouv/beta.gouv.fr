@@ -15,7 +15,7 @@ missions:
     status: independent
     employer: benext
 startups:
-    - produits-beta
+    - données-et-territoires
 previously:
     - signaux-faibles
     - disinfo

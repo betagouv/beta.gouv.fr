@@ -10,7 +10,7 @@ missions:
     employer: DINUM
   - status: independent
     start: 2021-07-05
-    end: 2022-06-30
+    end: 2023-06-30
 startups:
   - datagir
 badges:

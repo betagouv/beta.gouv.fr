@@ -12,6 +12,8 @@ phases:
 link: https://cartobio.org
 repository: https://github.com/AgenceBio/cartobio-front
 stats: true
+budget_url: ~
+dashlord_url: https://dashlord.incubateur.net/url/cartobio-org/
 contact: cartobio@beta.gouv.fr
 usertypes:
   - collectivite-territoriale

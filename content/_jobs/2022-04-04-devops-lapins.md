@@ -1,7 +1,7 @@
 ---
 roles: (dev)Ops
 startup: lapins
-open: true
+open: false
 ---
 
 RDV-Solidarités est un outil de prise de RDV en ligne et d'organisation du temps des agents lancé en 2019, suite à une expérimentation dans le département du Pas-de-Calais. Un consortium d'une dizaine de départements accompagné par la DINUM et la Banque des Territoires, a été constitué pour construire ce service. Aujourd'hui, [plus de 10 000 RDV](https://www.rdv-solidarites.fr/stats) sont pris par semaine sur la plateforme.
@@ -46,7 +46,7 @@ Le code source : https://github.com/betagouv/rdv-solidarites.fr/
 ## Votre profil nous intéresse si :
 
 - Vous êtes animé·e par la volonté d’améliorer le service public.
-- Vous êtes familière ou familier avec des outils d'infrastructure as code (comme Ansible).
+- Vous êtes familière ou familier avec des outils d'infrastructure as code (comme Terraform, Ansible).
 - Vous êtes familière ou familier avec Kubernetes.
 - Vous savez faire preuve d’initiative et tenir vos engagements.
 - Vous aimez travailler dans une petite équipe et de manière agile.

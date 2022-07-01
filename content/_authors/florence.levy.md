@@ -1,7 +1,7 @@
 ---
 fullname: Florence LEVY
 domaine: Autre
-role: Co-intrapreneur
+role: Intrapreneur
 missions:
   - start: 2021-04-07
     end: 2024-01-01

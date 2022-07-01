@@ -18,4 +18,6 @@ badges:
   - segur
 ---
 
-Retrouvez-moi sur Tchap ;) 
+Brigade d'Intervention Numérique de BetaGouv
+
+Et retrouvez-moi sur Tchap !

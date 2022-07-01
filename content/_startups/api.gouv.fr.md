@@ -21,6 +21,8 @@ usertypes:
   - particulier
   - entreprise
   - etat
+dashlord_url: https://dashlord.incubateur.net/url/api-gouv-fr/
+accessibility_status: non conforme
 ---
 
 ## Le problème :

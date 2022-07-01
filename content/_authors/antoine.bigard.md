@@ -5,7 +5,7 @@ role: Lead-Développeur
 domaine: Développement
 missions:
   - start: 2018-09-17
-    end: 2022-06-30
+    end: 2022-09-30
     status: independent
     employer: ut7
 startups:

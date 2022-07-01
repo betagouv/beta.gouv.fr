@@ -1,6 +1,6 @@
 ---
 roles: Dev JavaScript
-open: true
+open: false
 date: 2021-11-09
 startup: aides.jeunes
 ---

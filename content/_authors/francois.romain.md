@@ -14,10 +14,10 @@ missions:
     employer: Octo
     start: 2022-01-03
     end: 2022-12-31
-startups:
-  - dora
+startups: []
 previously:
   - camino
+  - dora
 competences:
   - Développement Frontend
   - Développement Backend

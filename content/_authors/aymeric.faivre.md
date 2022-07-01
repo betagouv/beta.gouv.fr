@@ -11,7 +11,7 @@ missions:
     status: independent
     employer: La Zone
   - start: 2020-12-01
-    end: 2022-06-30
+    end: 2022-12-31
     status: independent
     employer: La Zone
 startups:

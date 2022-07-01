@@ -21,6 +21,7 @@ events:
 link: https://mon-entreprise.urssaf.fr
 repository: https://github.com/betagouv/mon-entreprise
 budget_url: https://mon-entreprise.urssaf.fr/budget
+dashlord_url: https://dashlord.incubateur.net/url/mon-entreprise-urssaf-fr/
 stats: true
 contact: contact@mon-entreprise.beta.gouv.fr
 usertypes:

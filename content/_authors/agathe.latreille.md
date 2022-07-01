@@ -11,9 +11,10 @@ missions:
   - status: independent
     employer: "Octo "
     start: 2020-01-01
-    end: 2022-04-30
+    end: 2022-10-31
 startups:
   - dora
+  - data-inclusion
 previously:
   - itou
   - la-bonne-alternance

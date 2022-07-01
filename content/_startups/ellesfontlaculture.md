@@ -14,6 +14,7 @@ stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idS
 contact: ellesfontlaculture@beta.gouv.fr
 usertypes:
   - particulier
+budget_url: https://atelier-numerique.notion.site/Budgets-publics-des-start-up-1b5453be26234d1c9abcb6bbce577e58
 ---
 
 # Car encore aujourd’hui, 58% de femmes sont sur les bancs des écoles contre 35% dans la vie professionnelle.

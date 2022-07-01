@@ -1,7 +1,7 @@
 ---
 fullname: Radia Difallah
 domaine: Déploiement
-role: Chargée de déploiement
+role: Chargée de déploiement / Coach
 github: RadiaDif
 missions:
   - employer: Octo
@@ -14,7 +14,7 @@ missions:
     status: independent
   - employer: Octo
     start: 2022-01-10
-    end: 2022-04-08
+    end: 2022-06-30
     status: independent
 startups:
   - lapins

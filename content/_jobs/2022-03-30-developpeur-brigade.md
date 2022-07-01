@@ -1,9 +1,11 @@
 ---
 roles: Développeur/Développeuse
-techno: NodeJS ou Python
-junior: false 
-open: true 
+techno: NodeJS, Python, Ruby
+junior: false
+open: true
 title: Développeur/Développeuse - la Brigade - CDD 20 mois H/F
+domaines:
+  - Développement
 ---
 
 
@@ -15,24 +17,24 @@ En parallèle de ce programme d’intraprenariat, la DINUM lance la Brigade d’
 ### **Les missions de la Brigade**
 
 - **Proposer et mettre en oeuvre rapidement des solution dans une situation de crise ou d’urgence**
-    
-    - Santé Psy Étudiant  
-    
+
+    - Santé Psy Étudiant
+
     - Je veux aider
-    
+
 - **Renforcer l’impact de politiques** **prioritaires à travers le développement de services publics numériques**
-    
+
     - Plateformes de l’inclusion
-    
+
     - Mission Apprentissage
-    
+
 - **Soutenir l’action du réseau d’incubateurs beta.gouv par la création de communs  réutilisable par d’autres Startups d’États**
-    
+
     - Tchap
-    
+
     - Audioconf
-    
-    
+
+
 
 ## **Vos missions**
 
@@ -53,14 +55,14 @@ Les thématiques peuvent être diverses (transports, emploi, aides sociales, han
 
 Vous avez entre 3 et 5 années d’expérience dans le développement de produits numériques. Vous avez envie de rejoindre un programme dédié à la construction de services numériques publics et vous souhaitez travailler au sein d’une culture produit.
 
-- Vous disposez de bonnes connaissances en développement logiciel (algorithmique, structuration de données, architecture logicielle, etc.)
+- Vous disposez de bonnes connaissances en développement logiciel (algorithmique, structuration de données, architecture, etc.)
 - Vous avez des connaissances en intégration et déploiement continu
 - Vous avez une bonne connaissance en méthodes agiles et/ou lean startup
 - Vous prenez au sérieux les questions de sécurité des systèmes d’information
 - Vous avez une compréhension des enjeux RGPD
 - Vous êtes pragmatique et vous vous préoccupez du coût à long terme de vos choix technologiques
-- Vous disposez d’une sensibilité pour l’expérience utilisateur ou l'accessibilité pour la partie front
-- Vous avez des expériences sur un langage de programmation parmi Python et Javascript (NodeJS)
+- Vous disposez d’une sensibilité pour l’expérience utilisateur et l'accessibilité
+- Vous avez des expériences avec des langages du web (NodeJS, Python, Ruby)
 - Vous avez un bon sens de l’écoute et un bon esprit d’équipe
 - Vous aimez vous engager avec fiabilité, rigueur et responsabilité pour livrer un produit.
 
@@ -77,4 +79,4 @@ Vous avez entre 3 et 5 années d’expérience dans le développement de produit
 
 ## Comment candidater ?
 
-Envoyer un CV et un mail de présentation à [recrutement-brigade@beta.gouv.fr](mailto:recrutement-brigade@beta.gouv.fr)
+Candidatez directement sur le lien suivant : [https://www.demarches-simplifiees.fr/commencer/vous-souhaitez-postuler-a-la-brigade-mai-2022](https://www.demarches-simplifiees.fr/commencer/vous-souhaitez-postuler-a-la-brigade-mai-2022)

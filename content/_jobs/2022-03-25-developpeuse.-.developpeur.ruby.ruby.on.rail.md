@@ -1,6 +1,6 @@
 ---
 roles: Développeuse - Développeur Ruby on Rails
-open: true
+open: false
 date: 2022-03-25T11:16:12.899Z
 startup: civils-de-la-defense
 ---

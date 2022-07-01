@@ -6,7 +6,7 @@ sponsors:
   - /organisations/dgefp
 incubator: sgmas
 repository: https://github.com/SocialGouv/pass_emploi_app
-contact: pass.emploi@beta.gouv.fr
+contact: contact@pass-emploi.gouv.fr
 stats_url: https://sites.google.com/view/statistiques-pass-emploi
 link: https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune
 stats: true

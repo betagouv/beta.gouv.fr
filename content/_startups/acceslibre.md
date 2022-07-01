@@ -19,6 +19,8 @@ redirect_from:
     - /startups/access4all
 usertypes:
   - particulier
+dashlord_url: https://dashlord.incubateur.net/url/acceslibre-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 
 ## Le problème&nbsp;: Le manque d’information sur l’accessibilité des lieux

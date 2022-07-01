@@ -4,7 +4,7 @@ mission: Promouvoir l'offre commerciale des structures inclusives pour accroîtr
   leur capacité d'embauche
 sponsors:
   - /organisations/dgefp
-incubator: dinum
+incubator: gip-inclusion
 repository: https://github.com/betagouv/itou-marche
 contact: lemarche@inclusion.beta.gouv.fr
 stats_url: https://lemarche.inclusion.beta.gouv.fr/stats/
@@ -19,6 +19,8 @@ phases:
     start: 2021-06-01
 usertypes:
   - entreprise
+dashlord_url: https://dashlord.incubateur.net/url/lemarche-inclusion-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 
 **Problème**

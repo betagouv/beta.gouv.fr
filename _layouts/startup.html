@@ -28,7 +28,11 @@ layout: default
 {% assign content = split_by_ul | join: '<ul class="fr-pl-4w"' %}
 
 {% capture incubator_info %}
-L'équipe est portée par <a href="/startups/?incubateur={{ incubator_id | remove: '/incubators/' }}" title="{{ incubator.title }}">{{ incubator.title }}</a>
+{% if phase.status == 'success' %}
+  L'équipe a été portée par <a href="/startups/?incubateur={{ incubator_id | remove: '/incubators/' }}" title="{{ incubator.title }}">{{ incubator.title }}</a>
+{% else %}
+  L'équipe est portée par <a href="/startups/?incubateur={{ incubator_id | remove: '/incubators/' }}" title="{{ incubator.title }}">{{ incubator.title }}</a>
+{% endif %}
 {% endcapture %}
 
 {% capture sponsor_info %}
@@ -98,7 +102,7 @@ Le suivi des bonnes pratiques de ce produit
 
 {% capture accessibilite %}
 {% if page.accessibility_status %}
-<li>Le statut d'accessibilité du produit est : <em>{{ page.investigation_outputs_url }}</em></li>
+<li>Le statut d'accessibilité du produit est : <em>{{ page.accessibility_status }}</em></li>
 {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
 <li>Le statut d'accessibilité du produit est : <em>non-conforme</em></li>
 {% endif %}
@@ -189,6 +193,6 @@ Le suivi des bonnes pratiques de ce produit
 
         <p>Pour exercer vos <a href="https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles">droits</a> : <a href="{{ page.rgpd.exercer_vos_droits }}">{{ page.rgpd.exercer_vos_droits }}</a></p>
       </div>
-  </div>    
+  </div>
 </section>
 {% endif %}

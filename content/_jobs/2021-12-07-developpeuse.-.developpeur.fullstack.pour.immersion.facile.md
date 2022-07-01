@@ -1,6 +1,6 @@
 ---
 roles: "Développeuse - Développeur Fullstack pour  Immersion Facile "
-open: true
+open: false
 date: 2022-03-15T14:00:00.000Z
 startup: l-immersion-facile
 ---

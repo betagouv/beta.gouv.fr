@@ -1,8 +1,8 @@
 ---
 mission: Faciliter le signalement et accélérer la prise en charge du mal logement
-incubator: anct
-repository: https://github.com/betagouv/histologe
-contact: alban.sestiaa@beta.gouv.fr
+incubator: mtes
+repository: https://github.com/MTES-MCT/histologe
+contact: contact@histologe.info
 stats_url: https://histologe.beta.gouv.fr/Chiffres
 title: Histologe
 sponsors:
@@ -23,6 +23,8 @@ phases:
 usertypes:
   - collectivite-territoriale
   - particulier
+dashlord_url: https://dashlord.incubateur.net/url/histologe-beta-gouv-fr/
+accessibility_status: non conforme
 ---
 ## Problème
 
@@ -43,6 +45,6 @@ Histologe est un vecteur de simplicité et d'efficacité dans le dispositif de 
 
 En tant qu'outil central, la solution permet également la construction d'un observatoire du mal logement aidant au  pilotage de la politique publique de lutte contre le mal logement
 
-## Territoires concernés :
+## Territoires concernés
 
 Agglomération Pau Béarn Pyrénées ,Métropole Européenne de Lille, département des Bouches du Rhône, département des Alpes de Haute Provence, et prochainement une quinzaine d'autres territoires.

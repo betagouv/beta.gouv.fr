@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2021-12-06
-    end: 2022-05-06
+    end: 2022-12-06
     status: service
     employer: Portalia
 startups:

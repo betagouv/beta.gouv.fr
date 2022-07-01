@@ -5,7 +5,7 @@ role: Développeur
 github: ivangabriele
 link: https://www.ivangabriele.com
 missions:
-  - employer: octo
+  - employer: Octo
     start: 2019-02-12
     end: 2020-07-15
     status: independent
@@ -21,12 +21,19 @@ missions:
     start: 2021-11-15
     end: 2022-06-30
     status: independent
+  - employer: Malt
+    start: 2022-06-20
+    end: 2022-12-31
+    status: independent
 startups:
-  - inca
   - metiers-numeriques
+  - monitorfish
 previously:
   - codedutravail
+  - inca
 competences:
   - Développement Backend
   - Développement Frontend
+badges:
+  - segur
 ---
