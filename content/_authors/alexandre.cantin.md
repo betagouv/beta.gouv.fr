@@ -2,6 +2,7 @@
 fullname: Alexandre Cantin
 role: Développeur
 domaine: Développement
+github: AlexandreCantin
 missions:
   - start: 2022-07-04
     end: 2022-10-31
