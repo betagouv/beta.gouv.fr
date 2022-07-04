@@ -1,12 +1,15 @@
 ---
-roles: Responsable de l’ouverture des données 
+roles: Responsable de l’ouverture des données
+date: 2022-07-04T10:00:42.000Z 
 title: transport.data.gouv.fr recrute un.e responsable de l’ouverture des données 
 contrat: indépendant
 startup: transport
-open: false
+open: true
+domaines:
+  - Déploiement
 ---
 
-transport.data.gouv.fr cherche une personne en charge de l’ouverture des données de transport afin d’améliorer l’information des voyageurs partout en France et faciliter leurs déplacements au quotidien.
+[transport.data.gouv.fr](https://transport.data.gouv.fr) cherche une personne en charge de l’ouverture des données de transport afin d’améliorer l’information des voyageurs partout en France et faciliter leurs déplacements au quotidien.
 
 Nous cherchons une personne intéressée par l’ouverture des données et le monde des transports dans le but de faciliter les déplacements des voyageurs partout en France et de permettre à tout un chacun de déterminer le plus simplement possible la meilleure option de mobilité lors d’un trajet : bus, tram, ferry, métro, vélo, voiture… ou tout à la fois !
 
@@ -14,16 +17,16 @@ Pour atteindre cet objectif, nous recherchons une personne pour endosser dès qu
 
 La nouvelle recrue rejoindra l’équipe chargée de construire le Point d’Accès National (PAN) transport.data.gouv.fr selon les méthodes des Startups d’État. Sa mission ? Accompagner l’ouverture des données transport, et leur montée en qualité, en lien étroit avec l’ensemble des acteurs de l’écosystème : producteurs (gestionnaires d’infrastructure opérateurs de transports, associations, autorités publiques) et réutilisateurs de données (comme des services numériques de calcul d’itinéraires).
 
-## A propos de nous 
+## À propos de nous 
 ### L’équipe
 
-Nous sommes aujourd’hui une équipe de 6 personnes : 3 développeurs (Antoine, Francis et Thibaut), 1 intrapreneur (Benoît) et 2 responsables à l’ouverture des données transport (Miryad et Christina). Pour faire face aux besoins du produit, nous cherchons à renforcer l’équipe de déploiement avec le recrutement d’un ou une responsable à l’ouverture des données.  La nouvelle recrue travaillera de manière resserrée avec Miryad et Christina.
+Nous sommes aujourd’hui une équipe de 6 personnes : 3 développeurs (Antoine, Francis et Thibaut), 1 intrapreneur (Benoît) et 2 responsables à l’ouverture des données transport (Miryad et Christina). Pour faire face aux besoins du produit, nous cherchons à renforcer l’équipe de déploiement avec le recrutement d’un ou une responsable à l’ouverture des données. La nouvelle recrue travaillera de manière resserrée avec Miryad et Christina.
 
-L’équipe est financée par le Ministère chargé des Transports, et rattachée à la Fabrique Numérique du Ministère de la Transition Écologique,  qui nous laisse une autonomie totale sur le management du projet et humain. En particulier, nous n’exécutons pas de cahier des charges, ne dépendons pas de circuits de validation et tentons de limiter les réunions internes au strict minimum pour laisser le temps à chacun de s’organiser comme il l’entend et être ainsi le plus efficace possible.
+L’équipe est financée par le Ministère chargé des Transports, et rattachée à la Fabrique Numérique du Ministère de la Transition Écologique, qui nous laisse une autonomie totale sur le management du projet et humain. En particulier, nous n’exécutons pas de cahier des charges, ne dépendons pas de circuits de validation et tentons de limiter les réunions internes au strict minimum pour laisser le temps à chacun de s’organiser comme il l’entend et être ainsi le plus efficace possible.
 
 Notre feuille de route est guidée par les besoins de nos utilisateurs et par notre objectif partagé de rendre l’ouverture des données transport la plus rapide et la plus utile possible pour améliorer l’information des voyageurs sur l’ensemble du territoire français et en particulier sur les modes de transport vertueux.
 
-Les membres de l’équipe transport.data.gouv.fr ne sont pas tous à Paris, loin de là ! Nous travaillons depuis Bordeaux, Rochefort, Créteil, Bergerac ou encore Dijon. Néanmoins nous avons accès à deux espaces de travail  à Paris : au 20 avenue de Ségur (beta.gouv.fr/DINUM/Etalab), au 47 Rue le Peletier (Etap, l’Espace de travail des agents publics) et également à la Défense (Fabrique Numérique/Ministère de la Transition Écologique). Nous sommes profondément intégrés à la communauté beta.gouv.fr, interagissons régulièrement avec d’autres équipes intervenant sur d’autres Startups d’État pour partager nos expériences respectives et participons fréquemment aux ateliers transverses à l’incubateur..
+Les membres de l’équipe transport.data.gouv.fr ne sont pas tous à Paris, loin de là ! Nous travaillons depuis Bordeaux, Rochefort, Créteil, Bergerac ou encore Dijon. Néanmoins nous avons accès à deux espaces de travail à Paris : au 20 avenue de Ségur (beta.gouv.fr/DINUM/Etalab), au 47 Rue le Peletier (Etap, l’Espace de travail des agents publics) et également à la Défense (Fabrique Numérique/Ministère de la Transition Écologique). Nous sommes profondément intégrés à la communauté beta.gouv.fr, interagissons régulièrement avec d’autres équipes intervenant sur d’autres Startups d’État pour partager nos expériences respectives et participons fréquemment aux ateliers transverses à l’incubateur.
 
 Si nous communiquons principalement en français, il nous arrive aussi de manier l’anglais lorsque nous collaborons avec des partenaires étrangers.
 
@@ -37,13 +40,13 @@ En rejoignant transport.data.gouv.fr qui est incubée à la Fabrique Numérique,
 ### Le produit
 
 Le produit transport.data.gouv.fr s’incrit dans le cadre du Règlement délégué UE-2017/1926 et de la LOI n° 2019-1428 d'orientation des mobilités.
-Nous travaillons à la construction de cette plateforme qui vise à regrouper sur une même plateforme toutes les données pertinentes pour faciliter les déplacements en améliorant l’information voyageur (par exemple les horaires des lignes de bus partout en France, ou encore la localisation des stations de vélos en libre service). Ces données sont mises à disposition de manière ouverte afin de faciliter la diffusion d’une information voyageur fiable sur tous les services (applications de planification de trajets, de calcul d’itinéraire…) utilisés par le grand public..
+Nous travaillons à la construction de cette plateforme qui vise à regrouper sur une même plateforme toutes les données pertinentes pour faciliter les déplacements en améliorant l’information voyageur (par exemple les horaires des lignes de bus partout en France, ou encore la localisation des stations de vélos en libre service). Ces données sont mises à disposition de manière ouverte afin de faciliter la diffusion d’une information voyageur fiable sur tous les services (applications de planification de trajets, de calcul d’itinéraire…) utilisés par le grand public.
 
 La plateforme ne s’adresse pas directement aux usagers des services de transport, mais aux producteurs de données qui peuvent publier via data.gouv.fr leurs données transport comme la réglementation l’exige, et aux réutilisateurs de données (éditeurs d’applications, fournisseur de services d’information, etc.) qui souhaitent par exemple déployer leurs services dans de nouveaux territoires,utiliser une plateforme unique pour récupérer toutes les données dont ils ont besoin, utiliser les outils disponibles sur la plateforme comme les validateurs ou encore créer de nouveaux services d’aide à la mobilité grâce aux données fournies.
 
-Aujourd’hui transport.data.gouv.fr référence plus de 400 jeux de données décrivant l’offre de transport public de plus de 200 agglomérations en France. Ces jeux de données sont essentiellement réutilisés par des services fournissant de l’information aux voyageurs : Handisco, Google Maps, Here Technologies, Kisio Digital, Mappy, MobiGIS, Mybus, Transit...
+Aujourd’hui transport.data.gouv.fr référence plus de 400 jeux de données décrivant l’offre de transport public de plus de 200 agglomérations en France. Ces jeux de données sont essentiellement réutilisés par des services fournissant de l’information aux voyageurs : Handisco, Google Maps, Here Technologies, Kisio Digital, Mappy, MobiGIS, Mybus, Transit…
 
-L’état du déploiement est disponible en temps réel sur cette page. Par ailleurs, grâce à des contributeurs externes à l’équipe (Vélo & Territoires, GéoVélo, Blablacar, Etalab, Trainline), nous référençons des jeux de données relatifs aux localisations d’aires de covoiturage, les bornes de recharge de véhicules électriques, les aménagements cyclables ou encore le stationnement hors voirie.
+L’état du déploiement est disponible en temps réel [sur cette page](https://transport.data.gouv.fr/stats). Par ailleurs, grâce à des contributeurs externes à l’équipe (Vélo & Territoires, GéoVélo, Blablacar, Etalab, Trainline), nous référençons des jeux de données relatifs aux localisations d’aires de covoiturage, les bornes de recharge de véhicules électriques, les aménagements cyclables ou encore le stationnement hors voirie.
 
 ### Comment nous travaillons
 
@@ -74,13 +77,13 @@ Ne vous censurez pas si vous ne cochez pas toutes les cases ci-dessus, mais vous
 
 ### Ce que vous ferez
 
-Votre mission est d’accompagner les acteurs détenteurs de données susceptibles d’améliorer l’information voyageur, et d’inciter leur réutilisation par des services numériques.. 
+Votre mission est d’accompagner les acteurs détenteurs de données susceptibles d’améliorer l’information voyageur, et d’inciter leur réutilisation par des services numériques.
 
 Ainsi, au quotidien, vous aurez à:
 
-- cibler, identifier et approcher les acteurs (collectivités territoriales, opérateurs de transport, gestionnaires d’infrastructures, services de mobilités …) devant ouvrir leurs données;
+- cibler, identifier et approcher les acteurs (collectivités territoriales, opérateurs de transport, gestionnaires d’infrastructures, services de mobilités…) devant ouvrir leurs données;
 - défricher de potentiels thèmes de données utiles à l’information voyageurs, en particulier sur le volet des infrastructures de recharge pour véhicules électriques;
-- accompagner ces acteurs dans l’ouverture et la mise en qualité de leurs données via les outils offerts par la plateforme transport.data.gouv.fr, en particulier sur les données horaires des transports en commun (formats GTFS/GTFS-RT),  les services de mobilité partagés (format GBFS)
+- accompagner ces acteurs dans l’ouverture et la mise en qualité de leurs données via les outils offerts par la plateforme transport.data.gouv.fr, en particulier sur les données horaires des transports en commun (formats GTFS/GTFS-RT), les services de mobilité partagés (format GBFS)
 - présenter la démarche et l’intérêt de l’ouverture des données dans les transports devant toutes les personnes susceptibles de participer à la réussite de la plateforme ;
 - animer et stimuler les partenariats noués, par exemple en organisant des rencontres de la communauté ou en gérant la communication autour de la plateforme ;
 assurer le support des utilisateurs de la plateforme et industrialiser ce support, par exemple en rédigeant des guides à destination des producteurs et des réutilisateurs de données ;
@@ -88,7 +91,7 @@ assurer le support des utilisateurs de la plateforme et industrialiser ce suppor
 - codéfinir avec l’écosystème les modalités juridiques de l’ouverture des données ;
 - participer activement à la définition des priorités d’évolution du produit, en lien avec les besoins des utilisateurs.
 
-Pour faire tout cela, vous aurez de nombreux échanges téléphoniques ou en visoconférence, rencontrerez de nombreux acteurs, et répondrez à de nombreux mails. En revanche, vous préparerez peu de notes, réaliserez peu de PowerPoints (la plupart du temps vous n’aurez qu’à réutiliser des slides déjà prêtes) et passerez peu de temps à faire du reporting.
+Pour faire tout cela, vous aurez de nombreux échanges téléphoniques ou en visioconférence, rencontrerez de nombreux acteurs, et répondrez à de nombreux mails. En revanche, vous préparerez peu de notes, réaliserez peu de PowerPoints (la plupart du temps vous n’aurez qu’à réutiliser des slides déjà prêtes) et passerez peu de temps à faire du reporting.
 
 ## Détails techniques 
 ### Contrat
@@ -113,9 +116,9 @@ Septembre 2022
 
 ### Formation
 
-Nous formons celles et ceux qui rejoignent la communauté beta.gouv.fr aux méthodes des Startups d’État. Un cours en ligne qui reprend les principaux enseignements de ces sessions est à votre disposition ici.
+Nous formons celles et ceux qui rejoignent la communauté beta.gouv.fr aux méthodes des Startups d’État. Un cours en ligne qui reprend les principaux enseignements de ces sessions [est à votre disposition](https://beta.gouv.fr/approche/formation).
 
-Au sein de l’équipe transport.data.gouv.fr, nous veillerons à vous former sur nos outils si vous ne les connaissez pas et nous vous donnerons la liste des acronymes à connaître pour bien naviguer au sein de l’administration. A votre arrivée, Miryad et Christina pourront vous accompagner au quotidien dans votre prise de fonction.
+Au sein de l’équipe transport.data.gouv.fr, nous veillerons à vous former sur nos outils si vous ne les connaissez pas et nous vous donnerons la liste des acronymes à connaître pour bien naviguer au sein de l’administration. À votre arrivée, Miryad et Christina pourront vous accompagner au quotidien dans votre prise de fonction.
 
 ### Perspectives
 
