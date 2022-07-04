@@ -50,7 +50,7 @@ Viens constater l’inverse et changer la donne de l'intérieur ! Parce que l'É
 
 metiers.numerique.gouv.fr est plus qu’un simple site internet ! 
 
-Le site metiers.numerique permet de trouver des missions enrichissantes et stimulantes. Avec plus de 200 offres par mois, chacun·e peut trouver la mission qui l'intéresse !
+Le site Métiers du Numerique permet de trouver des missions enrichissantes et stimulantes. Avec plus de 200 offres par mois, chacun·e peut trouver la mission qui l'intéresse !
 
 Cette plateforme de matching permet la rencontre entre des candidat·es qui veulent travailler pour l'intérêt général et des recruteurs publics qui ont des besoins de compétences.
 
@@ -58,6 +58,6 @@ Cette plateforme de matching permet la rencontre entre des candidat·es qui veul
 
 - Mettre en lumière les projets, les technologies, les méthodes de travail, les femmes et les hommes qui rendent tout cela possible !
 - Simplifier et rendre accessible les offres d’emploi.
-- Objectifs (propositions) :
-  - 40 recrutements effectués via notre site.
-  - 300 talents référencés sur le site en année 1.
+- Objectifs 2022 :
+  - 40 recrutements effectués via notre site
+  - 300 talents référencés sur le site 
