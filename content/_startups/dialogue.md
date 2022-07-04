@@ -1,5 +1,5 @@
 ---
-title: Dialogue
+title: DiaLog
 mission: Faciliter l'intégration de la réglementation poids lourds dans les GPS routiers
 sponsors:
   - /organisations/dgitm
