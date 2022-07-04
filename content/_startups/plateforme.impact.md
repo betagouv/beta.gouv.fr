@@ -13,6 +13,8 @@ phases:
   - name: investigation
     start: 2022-01-02
     end: 2022-05-16
+  - name: construction
+    start: 2022-05-17
 ---
 La plateforme « Impact » est un produit numérique en cours de construction ayant pour objectif de permettre à toutes les entreprises de déclarer leur performance extra-financière. Le projet « Impact » a été initié en 2021 par la Secrétaire d’État à l’Économie, Sociale, Solidaire et Responsable (ESSR) et est maintenant piloté par la Direction Générale des Entreprises (DGE).
 
