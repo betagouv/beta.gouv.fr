@@ -12,7 +12,7 @@ phases:
     end: 2022-05-18
     comment: présentation de fin d'investigation le 17/05
 ---
-Dialogue
+DiaLog
 
 ## Contexte
 
