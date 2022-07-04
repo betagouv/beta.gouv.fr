@@ -100,7 +100,7 @@ Poste ouvert aux travailleurs en statut indépendant. Si le statut d’indépend
 
 ### Rémunération
 
-La rémunération prévue est calculée à partir d’un taux journalier à définir en fonction de votre niveau d’expérience, entre 200 et 400 euros HT / jour.
+La rémunération prévue est calculée à partir d’un taux journalier à définir en fonction de votre niveau d’expérience, entre 250 et 450 euros HT / jour.
 
 ### Travail à distance
 
