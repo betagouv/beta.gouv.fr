@@ -104,7 +104,7 @@ La rémunération prévue est calculée à partir d’un taux journalier à déf
 
 ### Travail à distance
 
-Le travail à distance est possible, sans qu’un préavis ou une validation ne soient nécessaires. Aujourd’hui l’ensemble de l’équipe travaille à distance depuis Rochefort, Dijon, Orléans, Bordeaux, Paris, Bergerac et Créteil… Cependant, afin de faciliter votre embarquement et pour que vous puissiez contribuer à nos rituels et discuter avec les autres équipes de beta.gouv.fr ou d’Etalab, nous organiserons quelques journées en présentiel à Paris.
+Le travail à distance est possible, sans qu’un préavis ou une validation ne soient nécessaires. Aujourd’hui l’ensemble de l’équipe travaille à distance depuis Rochefort, Dijon, Bordeaux, Paris, Bergerac et Créteil… Cependant, afin de faciliter votre embarquement et pour que vous puissiez contribuer à nos rituels et discuter avec les autres équipes de beta.gouv.fr ou d’Etalab, nous organiserons quelques journées en présentiel à Paris.
 
 ### Déplacements
 
