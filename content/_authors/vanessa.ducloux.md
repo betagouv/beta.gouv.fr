@@ -8,7 +8,7 @@ missions:
     end: 2022-07-05
     status: service
     employer: Codeurs en Liberté
-startups:
+previously:
   - aides.jeunes
 competences:
   - Développement Backend

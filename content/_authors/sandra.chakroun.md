@@ -13,6 +13,7 @@ startups:
   - openfisca
   - leximpact
   - camino
-  - aides.jeunes
   - dotations-locales
+previously:
+  - aides.jeunes
 ---

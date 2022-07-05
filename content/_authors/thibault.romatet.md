@@ -8,8 +8,9 @@ missions:
     status: admin
     employer: HC3E
 startups:
-  - aides.jeunes
   - l-application-du-cej
+previously:
+  - aides.jeunes
 competences:
   - Administration Publique
 ---

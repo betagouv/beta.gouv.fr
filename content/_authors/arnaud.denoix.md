@@ -11,12 +11,12 @@ missions:
 startups:
   - itou
   - data.insertion
-  - aides.jeunes
   - dora
   - data-inclusion
 previously:
   - avril
   - la-bonne-formation
+  - aides.jeunes
 badges:
   - segur
 competences:
