@@ -14,7 +14,7 @@ missions:
     status: independent
 competences:
   - Coaching
-startups:
+previously:
   - aides.jeunes
 ---
 Service designer enthousiaste
