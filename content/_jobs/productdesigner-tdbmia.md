@@ -1,6 +1,6 @@
 ---
 roles: Un.e product designer pour le tableau de bord de l'apprentissage
-open: true
+open: false
 date: 2022-06-09
 startup: tdb-apprentissage 
 ---
