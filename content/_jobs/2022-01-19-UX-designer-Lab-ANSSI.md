@@ -9,7 +9,7 @@ poste_ferme: 2025-03-01
 date: 2022-01-19
 contact: jean-baptiste.demaison@ssi.gouv.fr
 status: open
-open: true
+open: false
 domaines:
   - Design
 ---
