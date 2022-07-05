@@ -108,24 +108,24 @@ Le suivi des bonnes pratiques de ce produit
 {% endif %}
 {% endcapture %}
 
-<div class="notification full-width section-grey">
+<div class="fr-py-6w section-grey">
   <div class="fr-container fr-grid-row fr-grid-row--center">
     <div class="fr-col-md-8">
       <ul>
         <li>{{ incubator_info }}</li>
         <li>{{ sponsor_info }}</li>
         <li>{{ contact_info }}</li>
-      {% unless phase.status == 'investigation' %}
-        <li>{{ statistiques_info }}</li>
-        <li>{{ source_info }}</li>
-        <li>{{ budget_info }}</li>
-        {{ accessibilite }}
-        {{ analyse_risques }}
-        <li>{{ dashlord }}</li>
-        {% if page.techno %}
-        <li>{{ techno_info }}</li>
-        {% endif %}
-      {% endunless %}
+        {% unless phase.status == 'investigation' %}
+          <li>{{ statistiques_info }}</li>
+          <li>{{ source_info }}</li>
+          <li>{{ budget_info }}</li>
+          {{ accessibilite }}
+          {{ analyse_risques }}
+          <li>{{ dashlord }}</li>
+          {% if page.techno %}
+            <li>{{ techno_info }}</li>
+          {% endif %}
+        {% endunless %}
       </ul>
     </div>
   </div>

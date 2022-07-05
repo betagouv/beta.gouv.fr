@@ -1,42 +1,3 @@
-/* À supprimer quand le Système de design sera mis à jour */
-hr {
-  height: 1px;
-  border: 0;
-  background: var(--g300);
-}
-
-/* Le Système de design n'a pas encore de notifications */
-
-.notification {
-  background: #b4e1fa;
-  border: 1px solid #006be6;
-  border-radius: 3px;
-  padding: 1em;
-  margin-bottom: 1em;
-  position: relative;
-}
-
-.notification.full-width {
-  width: 100%;
-  margin-bottom: 0;
-  border: 0;
-}
-
-.notification.success {
-  background: #daf5e7;
-  border-color: #03bd5b;
-}
-
-.notification.warning {
-  background: #fff0e4;
-  border-color: #ff9947;
-}
-
-.notification.error {
-  background: #efaca6;
-  border-color: #d63626;
-}
-
 /* En attendant de revoir tous les titres de pages */
 
 .hero {
@@ -107,44 +68,6 @@ hr {
   color: #4941C0;
 }
 
-/* Cette classe n'est plus utilisée que sur la home.html, supprimer lors de la refonte prochaine */
-
-.row {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-  -webkit-box-align: stretch;
-  -ms-flex-align: stretch;
-  align-items: stretch;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-}
-
-.row > * {
-  max-width: 50em;
-}
-
-.row > * {
-  margin: 0 2em;
-}
-
-@media (max-width: 749px) {
-  .row {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-  }
-
-  .row > * {
-    margin: 1em;
-  }
-}
 
 /* Couleurs de sections et espacemements */
 .section-grey {
