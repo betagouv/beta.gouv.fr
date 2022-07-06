@@ -96,7 +96,7 @@ breadcrumbs:
                 <div class="fr-col-12" id="ensuite">
                     <h2>Et ensuite ?</h2>
                     <p>A la fin de l’investigation, le comité d’investissement se réunit et décide de l’abandon ou de la poursuite de produit. En cas de poursuite, on rentre dans la réalisation du service public numérique !<br />
-                    <a href="https://beta.gouv.fr/approche/construction">Découvrer la phase de réalisation d'un service public numérique</a></p>
+                    <a href="https://beta.gouv.fr/approche/construction">Découvrir la phase de réalisation d'un service public numérique</a></p>
                 </div>
             </div>
             <div class="fr-grid-row fr-grid-row--gutters fr-p-1w section-grey">
