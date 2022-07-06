@@ -75,12 +75,12 @@ breadcrumbs:
                 <div class="fr-col-12" id="condition">
                     <h2>Quelles sont les conditions à réunir ?</h2>
                     <p>
-                        ️✅ définir un problème à investiguer (sans présupposer la solution numérique) ;<br />
-                        ✅ libérer un agent public “intrapreneur” au moins deux jours par semaine de ses tâches habituelles.<br />
-                        ️✅ autoriser le télétravail de cette personne ;<br />
-                        ️✅ lui donner un accès à un ordinateur portable et un Internet « libre », pour qu’elle accède aux outils utilisés par la communauté beta.gouv (Mattermost, Trello, GitHub…) ;<br />
-                        ️✅ l’autoriser à ouvrir toutes les portes utiles à sa mission, sans validation préalable, afin d’échanger avec les personnes jugées les plus pertinentes (au sein de son administration ou ailleurs)<br />
-                        ️✅ obtenir le soutien d’un “sponsor” de haut niveau (exemples : directeur ou directrice d’administration centrale ; directeur ou directrice général(e) des services) qui adhère à la démarche beta.gouv, qui garantit l’autonomie et la liberté de l’équipe et qui s’engage à participer au comité de lancement final. Concrètement l’intrapreneur accompagné par beta.gouv rapporte directement au sponsor plutôt qu’à sa hiérarchie habituelle.
+                      ✅ définir un problème à investiguer (sans présupposer la solution numérique) ;<br />
+                      ✅ libérer un agent public “intrapreneur” au moins deux jours par semaine de ses tâches habituelles.<br />
+                      ✅ autoriser le télétravail de cette personne ;<br />
+                      ✅ lui donner un accès à un ordinateur portable et un Internet « libre », pour qu’elle accède aux outils utilisés par la communauté beta.gouv (Mattermost, Trello, GitHub…) ;<br />
+                      ✅ l’autoriser à ouvrir toutes les portes utiles à sa mission, sans validation préalable, afin d’échanger avec les personnes jugées les plus pertinentes (au sein de son administration ou ailleurs)<br />
+                      ✅ obtenir le soutien d’un “sponsor” de haut niveau (exemples : directeur ou directrice d’administration centrale ; directeur ou directrice général(e) des services) qui adhère à la démarche beta.gouv, qui garantit l’autonomie et la liberté de l’équipe et qui s’engage à participer au comité de lancement final. Concrètement l’intrapreneur accompagné par beta.gouv rapporte directement au sponsor plutôt qu’à sa hiérarchie habituelle.
                     </p>
                 </div>
             </div>
