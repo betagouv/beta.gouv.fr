@@ -18,7 +18,7 @@ breadcrumbs:
             <div class="fr-sidemenu beta-sidemenu-sticky" aria-label="Menu latéral">
                 <div class="fr-sidemenu__inner">
                     <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
-                    <img src="/img/programme/investigation.png" alt="Récapitulatif visuel des phases" class="hidden-mobile" />
+                    <img src="/img/programme/investigation.png" alt="" class="hidden-mobile" />
                     <div class="fr-collapse" id="fr-sidemenu-wrapper">
                         <h1 class="fr-sidemenu__title fr-pl-1w">Sommaire</h1>
                         <ul class="fr-sidemenu__list">
