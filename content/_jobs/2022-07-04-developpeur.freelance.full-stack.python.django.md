@@ -16,13 +16,13 @@ Aider les entreprises françaises à valoriser leur ambition E.S.G (Environnemen
 
 La nouvelle directive européenne dite « CSRD » (Corporate Sustainability Reporting Directive), va imposer à toutes les entreprises de plus de 250 salariés, à partir de 2024, de transmettre leur performance extra-financière. Les entreprises devront ainsi renseigner des indicateurs dans les thématiques de l’ESG (Environnementale, Sociale, Gouvernance).  
 
-« Bercy » a lancé une startup d’État : la plateforme « Impact » (https://www.impact.gouv.fr/) afin de répondre aux besoins de collecte, centralisation, présentation et transmission des indicateurs ESG des entreprises.
+« Bercy » a lancé une startup d’État : la plateforme « Impact » afin de répondre aux besoins de collecte, centralisation et transmission des indicateurs ESG, mentionnés par la réglementation.
 
 Une phase d’investigation a été finalisée au printemps 2022 en se basant sur les méthodologies agiles de beta.gouv, permettant de recueillir les besoins utilisateurs et d’imaginer des solutions numériques.
 
-« Impact » est entré en phase de construction en juin 2022 avec prototypage et développement d’une première version de l’application de juin à décembre 2022.
+« Impact » est entré en phase de construction avec prototypage et développement d’une première version de l’application de juin à décembre 2022.
 
-En attendant et afin d’embarquer un maximum d’usagers, l’équipe projet souhaite créer un outil permettant l’identification des réglementations ESG nationales (réparties entre plusieurs administrations) ou européenne faisant l’objet d’une obligation de déclaration ou de publication. Ensuite, celui-ci irait collecter les informations déjà à la disposition de l’administration, pour renseigner automatiquement les champs demandés aux entreprises et réduire leur charge de travail. Pour les indicateurs restants, non complétés, l’utilisateur se verrait proposer d’y apporter une réponse par d’autres moyens (ex : redirection, formulaire,…).
+En attendant et afin d’embarquer un maximum d’usagers, l’équipe projet souhaite créer un outil permettant l’identification des réglementations ESG nationales (réparties entre plusieurs administrations) ou européennes faisant l’objet d’une obligation de déclaration ou de publication. Ensuite, celui-ci irait collecter les informations déjà à la disposition de l’administration, pour renseigner automatiquement les champs demandés aux entreprises et réduire leur charge de travail. Pour les indicateurs restants, non complétés, l’utilisateur se verrait proposer d’y apporter une réponse par d’autres moyens (ex : redirection, formulaire,…).
 
 **Le produit**
 
@@ -44,7 +44,7 @@ _ Mise à jour du repository Github
 
 _ Contribuer à la rédaction d’une notice et un glossaire compréhensibles par tous les utilisateurs 
 
-_ Créer un outil intégrable, à terme, au système informatique de l’administration 
+_ Créer un outil intégrable, à terme, au système informatique de l’administration. 
 
 **Concevoir un outil :**
 
@@ -58,12 +58,12 @@ _ Robuste et sécurisé 
 
 _ Respectueux des données personnelles 
 
-_ Facilitant l’accessibilité pour les personnes en situation de handicap
+_ Facilitant l’accessibilité pour les personnes en situation de handicap.
 
 **Technologies**
 
 * Langage/code/Framework : Python/Django
-* Connaissances : API, bases de données
+* Connaissances : API, bases de données.
 
 **Compétences**
 
@@ -81,7 +81,7 @@ Vous travaillerez au sein d’une petite équipe dynamique composée aujourd’h
 
 L’équipe est située en France et peut travailler à distance en mode Agile. Il serait néanmoins apprécié qu’environ quatre fois par mois, le développeur puisse se déplacer à Paris pour travailler en équipe dans les locaux de la DGE (75012) ou de la DINUM (75007).
 
-Engagement : environ 95 jours à répartir entre juillet et décembre 2022, en fonction des besoins du projet et de la disponibilité des membres de l’équipe.
+Engagement : 96 jours environ à répartir entre juillet et décembre 2022, en fonction des besoins du projet et de la disponibilité des membres de l’équipe.
 
 Début souhaité : dès que possible.
 
