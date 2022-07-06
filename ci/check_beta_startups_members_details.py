@@ -4,162 +4,187 @@ import json
 import datetime
 import os
 
-beta_enable_http_api = os.environ.get("BETA_ENABLE_HTTP_API",False)  # True
+
+beta_enable_http_api = os.environ.get("BETA_ENABLE_HTTP_API", False)  # True
 # use http api files
 beta_url_path = 'https://beta.gouv.fr'
 # use local api files
 beta_api_path = '_site'
+incubators_api = '/api/v2.3/incubators.json'
+startup_api = '/api/v2.3/startups_details.json'
+member_api = '/api/v2.3/authors.json'
+
+
+class ErrorLog:
+    def __init__(self):
+        self.error_members = list()
+        self.error_startups = list()
+
+    def member(self, message):
+        self.error_members.append(message)
+    
+    def startup(self, message):
+        self.error_startups.append(message)
+
+    def print(self):
+        print("error_startups_list:", len(self.error_startups))
+        print("error_members_list:", len(self.error_members))
+        print(*self.error_startups, sep="\n")
+        print(*self.error_members, sep="\n")
+
+    def has_errors(self):
+        return (len(self.error_members) + len(self.error_startups)) > 0
+
+
+error_log = ErrorLog()
 
 
 def get_json_from_api(url):
+    """Récupère les données disponibles à l'url fournie."""
     if beta_enable_http_api:
-        data_api = beta_url_path + url
-        data_doc = requests.get(data_api)
-        data_json = data_doc.json()
+        return requests.get(beta_url_path + url).json()
     else:
         data_api = beta_api_path + url
         with open(data_api, 'r') as f:
-            data_json = json.load(f)
-
-    return data_json
+            return json.load(f)
 
 
-def is_startup_phase(phases, phase):
-    for p in phases:
-        if phase in p['name']:
-            return True
-    return False
+def is_ongoing_mission(mission):
+    """Check si la mission (dict()) contient les données de début et de fin puis vérifie si elle est en cours ou non.
+
+    Format attendu pour la mission :
+    1. Les clés 'start' et 'end' sont dans la mission
+    2. end est strictement antérieur à start
+    Si la mission est mal formatée, lève l'exception "AttributeError"
+    
+    La mission est en cours si end est dans le futur. Remarque : start peut également être dans le futur, la mission sera quand même réputée en cours.
+    """
+    if 'start' not in mission or 'end' not in mission:
+        raise AttributeError(f"Date de début ou de fin manquante : {mission}")
+    try:
+        start = datetime.date.fromisoformat(mission['start'])
+        end = datetime.date.fromisoformat(mission['end'])
+        if start > end or start == end:
+            raise AttributeError(f"dates de mission incorrectes ( start {mission['start']} >= end {mission['end']} )")
+    except ValueError:
+            raise AttributeError(f"La date de fin ou la date de début n'est pas formatée correctement (YYYY-MM-DD): {mission}")
+
+    # Mission valide
+    now = datetime.date.today()
+    if end > now or end == now:
+        return True
+    else:
+        return False
 
 
-def main():
+def is_active_member(member):
+    """Un membre actif est s'il a au moins 1 mission en cours (ongoing).
+    Remarque: on profite de cette vérification pour logger les problèmes de format de missions"""
+    # Cas 1: le membre n'a pas de missions dans son profil
+    if 'missions' not in member:
+        return False
+    # cas 2: il y a des missions, on cherche une mission en cours
+    ongoing = False
+    for mission in member['missions']:
+        try:
+            ongoing |= is_ongoing_mission(mission)
+        except AttributeError as e:
+            error_log.member(f"::error title=erreur fiche de membre {member['id']}:: {e}")
+    return ongoing
 
-    incubators_api = '/api/v2.3/incubators.json'
-    incubators_list = get_json_from_api(incubators_api)
 
-    startup_api = '/api/v2.3/startups_details.json'
-    startup_list = get_json_from_api(startup_api)
+def check_beta_members(member_list):
+    """Parcours la liste des membres pour indiquer: le nombre total, le nombre d'actifs et le nombre d'actifs sans startup de référencé."""
+    active_member = [m for m in member_list if is_active_member(m)]
+    active_member_no_startup_map = [m for m in active_member if 'previous' not in m and 'startups' not in m]
 
-    member_api = '/api/v2.3/authors.json'
-    member_list = get_json_from_api(member_api)
+    print("total_member:", len(member_list))
+    print("active_member:", len(active_member))
+    print("active_member_with_no_startup_map:", len(active_member_no_startup_map))
 
-    error_members_list = []
-    error_startups_list = []
 
-    def check_beta_members():
+def is_valid_phase(phase):
+    """Vérifie que la phase d'une startup est correctement formatée"""
+    if "name" in phase and phase["name"] in ["alumni", "success"]:
+        # vérification des dates non nécessaires
+        return True
+    if "start" not in phase:
+        raise AttributeError(f"La date de début de phase (start) est manquante: {phase}")
+    try:
+        start = datetime.date.fromisoformat(phase['start'])
+    except ValueError:
+        raise AttributeError(f"La date de début (start) n'est pas formatée correctement (YYYY-MM-DD): {phase}")
+    if "end" in phase and not phase["end"] == "":
+        try:
+            end = datetime.date.fromisoformat(phase['end'])
+            if start >= end:
+                raise AttributeError(f"La date de début est après à la date de fin: {phase}")
+        except ValueError:
+            raise AttributeError(f"La date de fin (end) n'est pas formatée correctement (YYYY-MM-DD): {phase}")
+    return True
 
-        now = datetime.date.today()
-        active_member = {}
-        active_member_no_startup_map = {}
-        for u in member_list:
-            # member
-            active = None
-            if 'missions' in u:
-                for m in u['missions']:
-                    if 'start' not in m or 'end' not in m:
-                        error_members_list.append(
-                                f"::error title=erreur fiche de membre:: erreur fiche de membre: {u}: aucune date de début et fin de mission : {m}")
-                    else:
-                        start = datetime.date.fromisoformat(m['start'])
-                        end = datetime.date.fromisoformat(m['end'])
-                        if start > end or start == end:
-                            error_members_list.append(
-                                f"::error title=erreur fiche de membre:: erreur fiche de membre: %s: dates de mission incorrecte ( start %s >= end %s ) " % (
-                                    u['id'], m['start'], m['end']))
-                        elif start > now or start == now:
-                            # print(f"::warning membre: %s: date de mission dans le futur (start %s , end %s >= now )"%(u['id'],m['start'], m['end']))
-                            pass
-                        if end > now or end == now:
-                            active = True
-                            active_member[u['id']] = active_member.get(
-                                u['id'], 0) + 1
 
-            if active and ('previous' not in u and 'startups' not in u):
-                active_member_no_startup_map[u['id']] = active_member_no_startup_map.get(
-                    u['id'], 0) + 1
+def is_valid_startup(id, startup):
+    """Vérifie que le format de la startup est valide"""
+    # Edit Swann 20220630 : serait-ce intéressant de récupérer la date de fin (si elle est manquante) en utilisant la date de début de la phase suivante ? 
+    # vérifier la présence de l'id
+    valid = True
+    if "id" not in startup:
+        # Edit Swann 20220630 : Pas loggé, mais ça me paraît étonnant
+        # error_log.startup(f"::error title=erreur fiche de startup {id}:: l'id est manquant: {startup}")
+        valid = False
+    if "phases" not in startup:
+        # Edit Swann 20220630 : Pas loggé, mais ça me paraît étonnant
+        # error_log.startup(f"::error title=erreur fiche de startup {id}:: les phases sont manquantes")
+        valid = False
+    else:
+        for i, phase in enumerate(startup["phases"]):
+            try:
+                is_valid_phase(phase)
+            except AttributeError as e:
+                error_log.startup(f"::error title=erreur fiche de startup {startup['id']}:: erreur de phase: {e}")
+                valid = False
+    return valid
 
-        print("total_member:", len(member_list))
-        print("active_member:", len(active_member))
-        print("active_member_with_no_startup_map:",
-              len(active_member_no_startup_map))
 
-    def check_beta_startup_details():
-        active_member_in_startup = {}
-        active_member_in_active_startup = {}
-        active_member_in_finished_startup = {}
-        active_member_in_unknown_startup = {}
+def is_active_startup(startup):
+    """Une startup est toujours active sauf si elle a une phase "alumni" ou "success"."""
+    try:
+        return len([
+            p["name"] for p in startup["phases"] 
+            if p['name'] in ["alumni", "success"]
+        ]) == 0
+    except KeyError:
+        return True
 
-        for st in sorted(startup_list):
-            state = None
-            if 'id' in startup_list[st]:
-                state = 'valid'
-            phases = None
-            active = None
-            active_members = None
-            if 'active_members' in startup_list[st]:
-                active_members = len(startup_list[st]['active_members'])
-                for i in startup_list[st]['active_members']:
-                    active_member_in_startup[i] = active_member_in_startup.get(
-                        i, 0) + 1
 
-            if 'phases' in startup_list[st]:
-                phases = len(startup_list[st]['phases'])
-                if not (is_startup_phase(startup_list[st]['phases'], 'alumni') or
-                        is_startup_phase(startup_list[st]['phases'], 'success')):
-                    active = True
-
-                    for p in startup_list[st]['phases']:
-                        # print(p)
-                        if 'start' not in p and 'end' not in p:
-                            error_startups_list.append(
-                                f"::error title=erreur fiche de startup:: erreur fiche de startup: %s erreur de date: %s "
-                                % (st, p))
-                        elif 'start' in p and ('end' in p and len(p['end']) > 0):
-                            if p['start'] >= p['end']:
-                                error_startups_list.append(
-                                    f"::error title=erreur fiche de startup:: erreur fiche de startup: %s erreur de date (start %s >= end %s)" % (
-                                        st, p['start'], p['end']))
+def check_beta_startup_details(startup_list):
+        active_member_in_startup = set()
+        active_member_in_active_startup = set()
+        active_member_in_finished_startup = set()
+        
+        for id, startup in startup_list.items():
+            # vérifie les formatage et enregistre les erreurs
+            is_valid_startup(id, startup)
+            if 'active_members' in startup:
+                active_member_in_startup.update(startup['active_members'])
+                if is_active_startup(startup):
+                    active_member_in_active_startup.update(startup['active_members'])
                 else:
-                    active = False
-
-            for user in startup_list[st]['active_members']:
-                if active == True:
-                    active_member_in_active_startup[user] = active_member_in_active_startup.get(
-                        user, 0) + 1
-                elif active == False:
-                    # error_members_list.append(
-                    #     f"::error title=erreur fiche de membre:: erreur fiche de membre: {user}: la Startup ({st}) est terminée au sein de beta.gouv.fr")
-                    active_member_in_finished_startup[user] = active_member_in_finished_startup.get(
-                        user, 0) + 1
-                else:
-                    error_members_list.append(
-                        f"::error title=erreur fiche de membre:: erreur fiche de membre: {user}: la reference de la Startup ({st}) est inconnue.")
-                    active_member_in_unknown_startup[user] = active_member_in_unknown_startup.get(
-                        user, 0) + 1
+                    active_member_in_finished_startup.update(startup['active_members'])
 
         print("active_member_in_startup:", len(active_member_in_startup))
-        print("active_member_in_active_startup:",
-              len(active_member_in_active_startup))
-        print("active_member_in_finished_startup:",
-              len(active_member_in_finished_startup))
-        print("active_member_in_unknown_startup:",
-              len(active_member_in_unknown_startup))
+        print("active_member_in_active_startup:", len(active_member_in_active_startup))
+        print("active_member_in_finished_startup:", len(active_member_in_finished_startup))
+        print("active_member_in_unknown_startup:", 0)
 
-    check_beta_members()
-
-    check_beta_startup_details()
-
-    print("error_startups_list:", len(error_startups_list))
-    print("error_members_list:", len(error_members_list))
-    ret=0
-    for err in sorted(error_startups_list):
-        print(err)
-        ret=1
-
-    for err in sorted(error_members_list):
-        print(err)
-        ret=1
-
-    exit(ret)
 
 if __name__ == '__main__':
-    main()
+    check_beta_members(get_json_from_api(member_api))
+    check_beta_startup_details(get_json_from_api(startup_api))
+    
+    error_log.print()
+    if error_log.has_errors():
+        exit(1)
+    else:
+        exit(0)
