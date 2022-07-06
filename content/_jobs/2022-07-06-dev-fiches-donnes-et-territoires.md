@@ -54,6 +54,6 @@ La prochaine étape sera d’avoir un éditeur de template, permettant d’écri
 
 ## Candidater :
 
-Envoyez nous votre CV ici :point_right: donnees@anct.gouv.fr
+Envoyez nous votre CV ici 👉 donnees@anct.gouv.fr
 
 Merci de préciser vos références (GitHub, GitLab ou autres sources disponibles) en lien avec le poste.
