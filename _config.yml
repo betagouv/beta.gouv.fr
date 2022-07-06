@@ -54,8 +54,6 @@ exclude: [
 ]
 
 copy_to_dest:
-  - source: node_modules/remixicon/fonts/.
-    target: assets/remixicon/fonts/
   - source: node_modules/@gouvfr/dsfr/dist/.
     target: assets/gouvfr/
 
