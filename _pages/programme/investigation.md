@@ -88,13 +88,15 @@ breadcrumbs:
                 <div class="fr-col-12" id="financer">
                     <h2>Comment financer cette étape ?</h2>
                     <p>La phase d’investigation peut être financée par la Direction interministérielle du numérique (DINUM) si elle répond aux conditions définies ci-dessus. Dans ce cas-là, la DINUM recrute le ou la coach, participe à la sélection de l'agent public intrapreneur et est conviée au comité d'investissement afin d'établir si un produit peut être lancé selon l'approche Startup d'Etat. Le cas échéant, le produit intègrera le programme beta.gouv et devra se conformer aux standards définis par la DINUM.</p>
-                    <p>Le lancement de la phase d'investigation est conditionné à la transmission par le sponsor de <a href="https://beta.gouv.fr/content/docs/engagement.docx">cette fiche d'engagement complétée.</a></p>
+                    <p>Le lancement de la phase d'investigation est conditionné à la transmission par le sponsor d'une fiche d'engagement complétée.<br />
+                    <a href="https://beta.gouv.fr/content/docs/engagement.docx">Télécharger la fiche d'engagement (DOCX - 520 Ko)</a></p>
                 </div>
             </div>
             <div class="fr-grid-row fr-grid-row--gutters">
                 <div class="fr-col-12" id="ensuite">
                     <h2>Et ensuite ?</h2>
-                    <p>A la fin de l’investigation, le comité d’investissement se réunit et décide de l’abandon ou de la poursuite de produit. En cas de poursuite, on rentre dans la <a href="https://beta.gouv.fr/approche/construction">réalisation du service public numérique</a> !</p>
+                    <p>A la fin de l’investigation, le comité d’investissement se réunit et décide de l’abandon ou de la poursuite de produit. En cas de poursuite, on rentre dans la réalisation du service public numérique !<br />
+                    <a href="https://beta.gouv.fr/approche/construction">Découvrer la phase de réalisation d'un service public numérique</a></p>
                 </div>
             </div>
             <div class="fr-grid-row fr-grid-row--gutters fr-p-1w section-grey">
