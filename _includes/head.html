@@ -8,7 +8,7 @@
     {% if page.robots %}
       <meta name="robots" content="{{page.robots}}" />
     {% endif %}
-    
+
     {% assign description = page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
     <meta name="description" content="{{ description }}">
     <meta property="og:description" content="{{ description }}">
@@ -51,8 +51,6 @@
     <link rel="stylesheet" type="text/css" href="/assets/main.css">
     <link rel="stylesheet" type="text/css" href="/assets/gouvfr/dsfr.min.css">
     <link rel="stylesheet" type="text/css" href="/assets/gouvfr/utility/utility.min.css">
-    <link rel="stylesheet" type="text/css" href="/assets/remixicon/fonts/remixicon.css">
-
     {% for file in page.additional_css %}
       <link rel="stylesheet" type="text/css" href="{% if file contains '://' %}{{ file }}{% else %}/assets/additional/style/{{ file }}{% endif %}">
     {% endfor %}
