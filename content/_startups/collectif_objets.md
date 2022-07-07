@@ -12,7 +12,7 @@ repository: https://github.com/betagouv/collectif-objets
 stats: true
 stats_url: https://collectif-objets.beta.gouv.fr/stats
 contact: collectifobjets@beta.gouv.fr
-budget_url: https://atelier-numerique.notion.site/Budgets-publics-des-start-up-1b5453be26234d1c9abcb6bbce577e58
+budget_url: https://pad.incubateur.net/s/qeT5bzHUM#Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
 usertypes:
   - collectivite-territoriale
   - particulier
