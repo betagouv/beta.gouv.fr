@@ -41,6 +41,9 @@ layout: null
             {% if startup.accessibility_status %}
             , "accessibility_status": "{{ startup.accessibility_status}}"
             {% endif %}
+            {% if startup.budget_url %}
+            , "budget_url": "{{ startup.budget_url}}"
+            {% endif %}
             }
         , "relationships":
             { "incubator":
