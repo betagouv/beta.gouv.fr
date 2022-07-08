@@ -65,11 +65,10 @@ Vous travaillerez au sein d’une équipe composée de : 2 PM/PO, 2 développeur
 L’équipe est répartie à travers la France et travaille à distance en mode produit / agile / lean (standup quotidien en visioconférence).
 
 Charge : 4/5e
-Durée : 6 mois renouvelables
-Début souhaité : dès que possible
-Contrat : freelance
+Début souhaité : août / septembre
+Contrat : interne
 
-Pour candidater, envoyez-nous un e-mail à jeremy.bujet@beta.gouv.fr et laetitia.kouadria@beta.gouv.fr.
+Pour candidater, envoyez-nous un e-mail à jeremy.buget@beta.gouv.fr et laetitia.kouadria@beta.gouv.fr.
 
 N’hésitez pas à nous partager :
 
