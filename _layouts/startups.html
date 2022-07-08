@@ -158,7 +158,7 @@ layout: default
                 <em>{{ phase.label | downcase }}</em></h1>
             {% endif %}
 
-            <p class="phase-description">{{ phase.short_description }}.</p>
+            <h2 class="fr-h6">{{ phase.short_description }}.</h2>
 
             <div class="fr-grid-row fr-grid-row--gutters startups">
                 {% assign startups = site.startups | where_phase: phase.status %}
