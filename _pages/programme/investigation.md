@@ -82,7 +82,7 @@ breadcrumbs:
             </div>
             <div class="fr-callout fr-fi-information-line">
               <h2 class="fr-callout__title">Vous souhaitez lancer une investigation avec nous ? Parlez-nous de votre projet !</h2>
-              <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Nous écrire</a>
+              <a id="btn-nous-ecrire" class="fr-btn fr-btn--md" target="_blank" title="Nous écrire - nouvelle fenêtre" href="https://startupdetat.typeform.com/to/jX2Ko0pF#source=sitebeta">Nous écrire</a>
             </div>
         </div>
     </div>
