@@ -60,7 +60,7 @@ Tu prends part à la conception du produit en collaboration avec le reste de l�
 
 ## Environnement de travail
 
-Vous travaillerez au sein d’une équipe composée de : 2 PM/PO, 2 développeurs, 2 business developers, 1 designer UX/UI.
+Vous travaillerez au sein d’une équipe composée de : 2 PM/PO, 2 développeurs (+ 2 à venirs courant août / septembre), 2 business developers, 1 designer UX/UI.
 
 L’équipe est répartie à travers la France et travaille à distance en mode produit / agile / lean (standup quotidien en visioconférence).
 
