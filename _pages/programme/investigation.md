@@ -20,7 +20,7 @@ breadcrumbs:
                     <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
                     <img src="/img/programme/investigation.png" alt="" class="hidden-mobile" />
                     <div class="fr-collapse" id="fr-sidemenu-wrapper">
-                        <div class="fr-sidemenu__title fr-pl-1w" >Sommaire</div>
+                        <div class="fr-sidemenu__title fr-pl-1w">Sommaire</div>
                         <ul class="fr-sidemenu__list">
                           <li class="fr-sidemenu__item">
                                 <a class="fr-sidemenu__link" href="#pourquoi" target="_self"> 1. Pourquoi réaliser cette étape&nbsp;? </a>
