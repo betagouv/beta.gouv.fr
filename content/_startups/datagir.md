@@ -17,7 +17,6 @@ link: https://datagir.ademe.fr/
 repository: https://github.com/datagir/datagir-site
 stats: true
 stats_url: https://datagir.ademe.fr/stats/
-budget_url: https://datagir.ademe.fr/budget/
 contact: contact@datagir.beta.gouv.fr
 usertypes:
   - particulier
