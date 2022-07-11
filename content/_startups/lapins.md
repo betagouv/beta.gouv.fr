@@ -1,9 +1,23 @@
 ---
+mission: Réduire le nombre de rendez-vous annulés dans les maisons
+  départementales de solidarité
+incubator: anct
+repository: https://github.com/betagouv/rdv-solidarites.fr
+contact: contact@rdv-solidarites.fr
+analyse_risques: false
+accessibility_status: non conforme
+usertypes:
+  - collectivite-territoriale
+  - particulier
+  - association
+stats_url: https://www.rdv-solidarites.fr/stats/
 title: RDV Solidarités
-mission: Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité
 sponsors:
   - /organisations/anct
-incubator: anct
+link: https://www.rdv-solidarites.fr
+stats: true
+budget_url: https://pad.incubateur.net/s/qeT5bzHUM#RDV-Solidarit%C3%A9s
+dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
 phases:
   - name: investigation
     start: 2018-01-18
@@ -11,18 +25,6 @@ phases:
     start: 2018-01-18
   - name: acceleration
     start: 2019-04-01
-link: https://www.rdv-solidarites.fr
-repository: https://github.com/betagouv/rdv-solidarites.fr
-stats: true
-stats_url: https://www.rdv-solidarites.fr/stats/
-contact: contact@rdv-solidarites.fr
-usertypes:
-  - collectivite-territoriale
-  - particulier
-  - association
-dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
-analyse_risques: false
-accessibility_status: non conforme
 ---
 
 ### Des milliers de lapins dans les Maisons Départementales de Solidarités ! 🔎
