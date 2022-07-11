@@ -3,7 +3,7 @@ roles: Chargé.e d'animation et support territorial
 title: Histologe recrute un ou une chargé.e d'animation et support territorial
 contrat: indépendant
 startup: histologe
-open: true
+open: false
 domaines:
   - Autre
 ---
