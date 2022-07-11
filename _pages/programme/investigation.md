@@ -13,7 +13,7 @@ breadcrumbs:
 ---
 
 <section>
-  <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
+  <div class="fr-grid-row fr-grid-row--gutters">
         <div class="fr-col fr-col-12 fr-col-md-4">
             <div class="fr-sidemenu beta-sidemenu-sticky" aria-label="Menu latéral">
                 <div class="fr-sidemenu__inner">
