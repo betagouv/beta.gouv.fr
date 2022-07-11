@@ -3,7 +3,7 @@ roles: Développeur, développeuse full-stack senior
 title: Histologe recrute un développeur ou une développeuse full-stack senior
 contrat: indépendant
 startup: histologe
-open: true
+open: false
 domaines:
   - Développement
 ---
