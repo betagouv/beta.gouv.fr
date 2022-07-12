@@ -7,7 +7,7 @@ sponsors:
 incubator: mtes
 link: https://ecobalyse.beta.gouv.fr
 repository: https://github.com/MTES-MCT/ecobalyse
-dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/wikicarbone-beta-gouv-fr/
+dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/ecobalyse-beta-gouv-fr/
 contact: ecobalyse@beta.gouv.fr
 redirect_from:
   - /startups/wikicarbone
