@@ -9,7 +9,7 @@ missions:
     status: independent
 startups:
   - place-des-entreprises
-  - signalement
+  - signaux-faibles
 badges:
   - segur
 competences:
