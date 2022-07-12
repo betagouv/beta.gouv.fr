@@ -129,7 +129,7 @@
 
 .fr-card__img img.avatar-rounded {
   border-radius: 50%;
-  width: auto;
+  width: 100%;
   margin: auto;
   max-width: 50%;
   aspect-ratio: auto;
