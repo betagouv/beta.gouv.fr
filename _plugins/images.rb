@@ -15,13 +15,13 @@ module Jekyll
   module ScreenshotFilter
     include StaticFiles
 
-    PLACEHOLDER = '/img/betagouv-rectangle.png'
+    FALLBACK = '/img/betagouv-rectangle.png'
 
     def screenshot(startup)
       # FIXME: this is fishy, why would startup be nil? (it does happen)
-      return PLACEHOLDER if startup.nil?
+      return FALLBACK if startup.nil?
 
-      screenshot_file(startup) || PLACEHOLDER
+      screenshot_file(startup) || FALLBACK
     end
 
     private
@@ -48,13 +48,13 @@ module Jekyll
   module AvatarFilter
     include StaticFiles
 
-    PLACEHOLDER = '/img/logo-generique-startup-carre-2019.jpg'
+    FALLBACK = '/img/logo-generique-startup-carre-2019.jpg'
 
     def avatar(person)
       avatar_file(person['slug']) ||
         avatar_attribute(person) ||
         github_avatar(person['github']) ||
-        PLACEHOLDER
+        FALLBACK
     end
 
     private
