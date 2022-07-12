@@ -522,3 +522,9 @@ main .fr-container img {
 .startups .fr-card__img img {
   object-fit: cover;
 }
+
+img.lozad {
+  background-color: var(--background-contrast-grey);
+  height: 100%;
+  width: 100%;
+}
