@@ -1,4 +1,4 @@
-const STARTUP_PLACEHOLDER = "/img/betagouv-rectangle.png";
+const STARTUP_PLACEHOLDER = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
 
 var USERTYPES = {
   "etablissement-scolaire": "Etablissements scolaires et d'enseignement supérieur",

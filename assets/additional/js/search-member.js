@@ -1,4 +1,4 @@
-const MEMBER_PLACEHOLDER = "/img/logo-generique-startup-carre-2019.jpg";
+const MEMBER_PLACEHOLDER = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
 
 var createStartupTag = function (startupId) {
   if (!startupId) return "";
@@ -53,7 +53,7 @@ var createAuthorCard = function (author) {
   const incubator = author.incubator ? incubators.find((incubator) => incubator.id === author.incubator) : undefined;
   const isAlumnus = authorEndDate < timestampNow;
 
-  const avatar = `<img class="lozad avatar-rounded" src="${MEMBER_PLACEHOLDER}"data-src="${avatarSrc}" alt="">`;
+  const avatar = `<img class="lozad avatar-rounded" src="${MEMBER_PLACEHOLDER}" data-src="${avatarSrc}" alt="">`;
 
   const title = author.link ? `<a class="fr-card__link" href="${author.link}" target="_blank" rel="noopener">${author.fullname}</a>` : author.fullname;
   const detail = isAlumnus ? "Alumnus" : author.role;
