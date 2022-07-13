@@ -8,7 +8,7 @@ missions:
     end: 2020-01-01
     status: admin
   - start: 2020-01-02
-    end: 2022-12-31
+    end: 2022-12-15
     status: independent
 startups:
   - itou
