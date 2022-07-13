@@ -1,15 +1,11 @@
 ---
 title: REflex
-mission: Accompagner les acteurs de la construction à se rapprocher de la neutralité carbone
+mission: "Accompagner les acteurs de la construction vers la neutralité carbone"
 sponsors:
   - /organisations/dgaln
 incubator: mtes
-link: 
-repository:
 contact: louis.orta@developpement-durable.gouv.fr
-usertypes:
-stats: false
-events: []
+accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2022-04-04
