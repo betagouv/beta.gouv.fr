@@ -7,7 +7,8 @@ contact: contact@monservicesecurise.beta.gouv.fr
 title: Mon Service Sécurisé
 sponsors:
   - /organisations/anssi
-stats: false
+stats: true
+stats_url: https://www.monservicesecurise.beta.gouv.fr/statistiques
 phases:
   - name: investigation
     start: 2021-01-04
