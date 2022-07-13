@@ -17,6 +17,7 @@ phases:
     start: 2021-05-07
 usertypes:
   - collectivite-territoriale
+dashlord_url: https://dashlord.incubateur.net/url/www-monservicesecurise-beta-gouv-fr/
 ---
 ## En cours de construction
 
