@@ -4,7 +4,7 @@ role: Chief Product Officer Tech BetaGouv
 domaine: Animation
 github: Anna-Livia
 avatar: 'https://avatars3.githubusercontent.com/Anna-Livia?s=600'
-link: 'https://www.anna-livia.com/'
+link: 'https://www.linkedin.com/in/anna-livia-gomart-0789065/'
 missions:
   - employer: octo
     status: independent
