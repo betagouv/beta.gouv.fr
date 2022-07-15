@@ -5,7 +5,7 @@ domaine: Coaching
 link: https://www.linkedin.com/in/catherine-arod-gall-0585a82/
 missions:
   - start: 2022-03-28
-    end: 2022-07-15
+    end: 2023-02-14
     status: independent
     employer: numa
 ---
