@@ -129,7 +129,7 @@
 
 .fr-card__img img.avatar-rounded {
   border-radius: 50%;
-  width: auto;
+  width: 100%;
   margin: auto;
   max-width: 50%;
   aspect-ratio: auto;
@@ -521,4 +521,10 @@ main .fr-container img {
 
 .startups .fr-card__img img {
   object-fit: cover;
+}
+
+img.lozad {
+  background-color: var(--background-contrast-grey);
+  height: 100%;
+  width: 100%;
 }

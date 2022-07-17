@@ -8,6 +8,8 @@ missions:
     end: 2023-01-01
     status: service
     employer: /ut7
+startups:
+  - carnet.de.bord
 ---
 
 Développeur chez /ut7
