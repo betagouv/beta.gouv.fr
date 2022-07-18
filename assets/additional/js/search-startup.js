@@ -145,15 +145,16 @@ var updateCards = function (data) {
   }
 };
 
-var createIncubatorSelect = function (data, incubators, initValue) {
-  console.log("LCS CREATE INCUBATOR SELECT");
-  var selectIncubator = document.getElementById("select-incubateur");
+var createUsertypesSelect = function (data, initValue) {
+  var selectUsertypes = document.getElementById("select-usertypes");
   var optionFragment = document.createDocumentFragment();
-  for (var i = 0; i < incubators.length; i++) {
-    var incubator = incubators[i];
+  var usertypes = Object.keys(USERTYPES)
+  for (var i = 0; i < usertypes.length; i++) {
+    var usertypeKey = usertypes[i]
+    var usertypeLabel = USERTYPES[usertypeKey];
     var option = document.createElement("option");
-    option.innerText = incubator.title;
-    option.value = incubator.id;
+    option.innerText = usertypeLabel;
+    option.value = usertypeKey;
     optionFragment.appendChild(option);
   }
   selectIncubator.appendChild(optionFragment);
