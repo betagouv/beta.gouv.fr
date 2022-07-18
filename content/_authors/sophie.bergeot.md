@@ -5,7 +5,7 @@ domaine: Design
 github: sophiebergeot
 missions:
   - start: 2022-02-01
-    end: 2022-08-01
+    end: 2023-02-01
     status: independent
 ---
 
