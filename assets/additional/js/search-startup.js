@@ -145,16 +145,14 @@ var updateCards = function (data) {
   }
 };
 
-var createUsertypesSelect = function (data, initValue) {
-  var selectUsertypes = document.getElementById("select-usertypes");
+var createIncubatorSelect = function (data, incubators, initValue) {
+  var selectIncubator = document.getElementById("select-incubateur");
   var optionFragment = document.createDocumentFragment();
-  var usertypes = Object.keys(USERTYPES)
-  for (var i = 0; i < usertypes.length; i++) {
-    var usertypeKey = usertypes[i]
-    var usertypeLabel = USERTYPES[usertypeKey];
+  for (var i = 0; i < incubators.length; i++) {
+    var incubator = incubators[i];
     var option = document.createElement("option");
-    option.innerText = usertypeLabel;
-    option.value = usertypeKey;
+    option.innerText = incubator.title;
+    option.value = incubator.id;
     optionFragment.appendChild(option);
   }
   selectIncubator.appendChild(optionFragment);
@@ -187,11 +185,13 @@ var createUsertypesSelect = function (data, initValue) {
 var createUsertypesSelect = function (data, initValue) {
   var selectUsertypes = document.getElementById("select-usertypes");
   var optionFragment = document.createDocumentFragment();
-  for (var i = 0; i < USERTYPES.length; i++) {
-    var usertype = USERTYPES[i];
+  var usertypes = Object.keys(USERTYPES)
+  for (var i = 0; i < usertypes.length; i++) {
+    var usertypeKey = usertypes[i]
+    var usertypeLabel = USERTYPES[usertypeKey];
     var option = document.createElement("option");
-    option.innerText = usertype.title;
-    option.value = usertype.id;
+    option.innerText = usertypeLabel;
+    option.value = usertypeKey;
     optionFragment.appendChild(option);
   }
   selectUsertypes.appendChild(optionFragment);
