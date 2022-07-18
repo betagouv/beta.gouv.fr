@@ -1,5 +1,3 @@
-const STARTUP_PLACEHOLDER = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
-
 var USERTYPES = {
   "etablissement-scolaire": "Etablissements scolaires et d'enseignement supérieur",
   etat: "Services de l'État",
@@ -23,7 +21,7 @@ var createStartupCard = function (startup) {
     })
     .join(" / ");
   if (startupSponsors) {
-    startupSponsors = '<p class="fr-card__detail">' + startupSponsors + "</p>";
+    startupSponsors = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupSponsors + "</p>";
   }
   var startupUsertypes = startup.attributes.usertypes
     .map((usertype) => {
@@ -31,23 +29,23 @@ var createStartupCard = function (startup) {
     })
     .join(" / ");
   if (startupUsertypes) {
-    startupUsertypes = '<p class="fr-card__detail">' + startupUsertypes + "</p>";
+    startupUsertypes = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupUsertypes + "</p>";
   }
   card.innerHTML = `
-        <div class="fr-card fr-card--grey fr-enlarge-link">
+        <div class="fr-card fr-enlarge-link">
             <div class="fr-card__body">
-                <h3 class="fr-card__title">
-                    <a class="fr-card__link" href="/startups/${startup.id}.html">${startup.attributes.name}</a>
-                </h3>
+                <h2 class="fr-card__title">
+                    <a class="fr-card__link" href="/startups/${startup.id}.html" target="\_blank" rel="noopener">${startup.attributes.name}</a>
+                </h2>
                 ${startupSponsors}
                 <p class="fr-card__desc">${startup.attributes.pitch}</p>
             </div>
             <div class="fr-card__img">
                 <img class="screenshot lozad"
-                    src="${STARTUP_PLACEHOLDER}"
                     data-src="${startup.attributes["screenshot-url"]}"
+                    title="${startup.attributes.name} est encore en travaux"
                     alt=""
-                    />
+                    data-proofer-ignore>
             </div>
         </div>`;
   return card;
@@ -146,7 +144,6 @@ var updateCards = function (data) {
 };
 
 var createIncubatorSelect = function (data, incubators, initValue) {
-  console.log("LCS CREATE INCUBATOR SELECT");
   var selectIncubator = document.getElementById("select-incubateur");
   var optionFragment = document.createDocumentFragment();
   for (var i = 0; i < incubators.length; i++) {
@@ -186,11 +183,13 @@ var createIncubatorSelect = function (data, incubators, initValue) {
 var createUsertypesSelect = function (data, initValue) {
   var selectUsertypes = document.getElementById("select-usertypes");
   var optionFragment = document.createDocumentFragment();
-  for (var i = 0; i < USERTYPES.length; i++) {
-    var usertype = USERTYPES[i];
+  var usertypes = Object.keys(USERTYPES)
+  for (var i = 0; i < usertypes.length; i++) {
+    var usertypeKey = usertypes[i]
+    var usertypeLabel = USERTYPES[usertypeKey];
     var option = document.createElement("option");
-    option.innerText = usertype.title;
-    option.value = usertype.id;
+    option.innerText = usertypeLabel;
+    option.value = usertypeKey;
     optionFragment.appendChild(option);
   }
   selectUsertypes.appendChild(optionFragment);
