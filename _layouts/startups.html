@@ -106,9 +106,7 @@ layout: default
         <div class="fr-search-bar" id="search-input">
             <label class="fr-label" for="search-input-input">Label de la barre de recherche</label>
             <input class="fr-input" placeholder="Rechercher" type="search" id="search-input-input" name="search-input-input">
-            <button class="fr-btn" title="Rechercher" id="search-input-button">
-                    Rechercher
-            </button>
+            <div class="fr-btn" title="Rechercher"></div>
             <ul id="results-container"></ul>
         </div>
     </div>
@@ -179,7 +177,6 @@ layout: default
     }
 
     var searchInput = document.getElementById('search-input-input');
-    var searchInputBtn = document.getElementById('search-input-button');
     var resultsContainer = document.getElementById('results-container');
 
     var searchFunction =  function (e) {
@@ -191,8 +188,6 @@ layout: default
     }
 
     searchInput.addEventListener('input', searchFunction);
-    searchInput.addEventListener('search', searchFunction);
-    searchInputBtn.addEventListener('click', searchFunction);
 
 
     var selectPhase = document.getElementById('select-phase');
