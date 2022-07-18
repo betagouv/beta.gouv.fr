@@ -194,7 +194,7 @@ var createUsertypesSelect = function (data, initValue) {
     option.value = usertypeKey;
     optionFragment.appendChild(option);
   }
-  selectIncubator.appendChild(optionFragment);
+  selectUsertypes.appendChild(optionFragment);
   var onUsertypesChange = function (value) {
     filters["usertypes"] = value;
     updateCards(data);
