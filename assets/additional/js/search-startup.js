@@ -1,3 +1,5 @@
+const STARTUP_PLACEHOLDER = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
+
 var USERTYPES = {
   "etablissement-scolaire": "Etablissements scolaires et d'enseignement supérieur",
   etat: "Services de l'État",
@@ -21,7 +23,7 @@ var createStartupCard = function (startup) {
     })
     .join(" / ");
   if (startupSponsors) {
-    startupSponsors = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupSponsors + "</p>";
+    startupSponsors = '<p class="fr-card__detail">' + startupSponsors + "</p>";
   }
   var startupUsertypes = startup.attributes.usertypes
     .map((usertype) => {
@@ -29,23 +31,23 @@ var createStartupCard = function (startup) {
     })
     .join(" / ");
   if (startupUsertypes) {
-    startupUsertypes = '<p class="fr-card__detail" style="z-index: 10;position: relative;">' + startupUsertypes + "</p>";
+    startupUsertypes = '<p class="fr-card__detail">' + startupUsertypes + "</p>";
   }
   card.innerHTML = `
-        <div class="fr-card fr-enlarge-link">
+        <div class="fr-card fr-card--grey fr-enlarge-link">
             <div class="fr-card__body">
-                <h2 class="fr-card__title">
-                    <a class="fr-card__link" href="/startups/${startup.id}.html" target="\_blank" rel="noopener">${startup.attributes.name}</a>
-                </h2>
+                <h3 class="fr-card__title">
+                    <a class="fr-card__link" href="/startups/${startup.id}.html">${startup.attributes.name}</a>
+                </h3>
                 ${startupSponsors}
                 <p class="fr-card__desc">${startup.attributes.pitch}</p>
             </div>
             <div class="fr-card__img">
                 <img class="screenshot lozad"
+                    src="${STARTUP_PLACEHOLDER}"
                     data-src="${startup.attributes["screenshot-url"]}"
-                    title="${startup.attributes.name} est encore en travaux"
                     alt=""
-                    data-proofer-ignore>
+                    />
             </div>
         </div>`;
   return card;
@@ -141,43 +143,6 @@ var updateCards = function (data) {
   if (!count) {
     displayNoDataMessage(true);
   }
-};
-
-var createIncubatorSelect = function (data, incubators, initValue) {
-  var selectIncubator = document.getElementById("select-incubateur");
-  var optionFragment = document.createDocumentFragment();
-  for (var i = 0; i < incubators.length; i++) {
-    var incubator = incubators[i];
-    var option = document.createElement("option");
-    option.innerText = incubator.title;
-    option.value = incubator.id;
-    optionFragment.appendChild(option);
-  }
-  selectIncubator.appendChild(optionFragment);
-  var onIncubatorChange = function (value) {
-    filters["incubator"] = value;
-    var incubatorElements = document.getElementsByClassName("incubator-header");
-    for (var i = 0; i < incubatorElements.length; i++) {
-      var incubatorElement = incubatorElements[i];
-      if (incubatorElement.id !== value) {
-        incubatorElement.style.display = "none";
-      } else {
-        incubatorElement.style.display = "block";
-      }
-    }
-    updateCards(data);
-  };
-  if (initValue) {
-    selectIncubator.value = initValue;
-    onIncubatorChange(initValue);
-  }
-  selectIncubator.addEventListener("change", function (e) {
-    var value = e.target.value;
-    onIncubatorChange(value);
-    const urlParams = new URLSearchParams(window.location.search);
-    urlParams.set("incubateur", value);
-    history.replaceState(null, null, window.location.origin + window.location.pathname + "?" + urlParams);
-  });
 };
 
 var createUsertypesSelect = function (data, initValue) {
