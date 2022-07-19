@@ -37,11 +37,11 @@ L'objectif de l'Usine à chatbots est de redonner l'autonomie aux métiers en le
 ## Chronologie
 
 **étape 1** (février 2020)
-cadrage du projet, entretiens avec des bot manager\
+cadrage du projet, entretiens avec des bots manager
 Livrable : parcours de création de chatbot et de l’interface de gestion
 
 **étape 2** (mars-avril 2020)
-réalisation des wireframes\
+réalisation des wireframes
 Livrable : wireframes
 
 **étape 3** (avril 2020)
