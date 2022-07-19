@@ -25,7 +25,7 @@ Le projet a été initié par la RH Marine qui souhaitait mettre à disposition 
 
 ## Problématique
 
-L'objectif de l'Usine à chatbots est de redonner l'autonomie aux métiers en leur fournissant un outil complet clé en main,entièrement personnable et facile à prendre en main. En 4 étapes et en moins de 48h (sur Internet), les agents peuvent se créer leur propre bot, techniquement prêt au lancement.
+L'objectif de l'Usine à chatbots est de redonner l'autonomie aux métiers en leur fournissant un outil complet clé en main,entièrement personnalisable et facile à prendre en main. En 4 étapes et en moins de 48h (sur Internet), les agents peuvent se créer leur propre bot, techniquement prêt au lancement.
 
 ## Objectifs
 
@@ -72,7 +72,7 @@ L'usine à chatbot est composée de 6 produits numériques :
 
 * Un [site vitrine (internet)](https://chatbot.fabnum.fr/) qui présente le produit
 * Une [documentation](https://fabrique-a-chatbots.gitbook.io/fabrique-a-chatbots/)
-* Une [interface permettant de créer un chatbot](https://chatbot.fabnum.fr)
+* Une [interface permettant de créer un chatbot](https://chatbot.fabnum.fr/create)
 * Une interface de chatbot (autonome ou intégrée)
 * Une interface de gestion pour travailler sur les connaissances de votre chatbot
 * Un tableau de bord de l'usine à chatbot
