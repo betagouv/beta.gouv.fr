@@ -233,7 +233,8 @@ main .fr-container img {
 
 .filters {
   padding: 1em 0;
-  background-color: #bfbfe3;
+  background-color: var(--background-alt-grey);
+}
 }
 
 .filters .fr-container {
