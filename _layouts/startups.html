@@ -157,7 +157,7 @@ layout: default
         {% if counter > 1 %}
             {% assign plural = "s" %}
         {% endif %}
-        <div id="{{ phase.status }}" class="fr-container-fluid fr-my-6w">
+        <div id="{{ phase.status }}" class="fr-container-fluid{% if phase.status != 'success' %} fr-my-6w{% endif %}">
             {% if phase.status == 'success' %}
                 <h2 class="phase-title"><em><span class="phase-counter">{{ counter }}</span></em> {{ phase.type_label }}{{ plural }} <em><span class="phase-label">{{ phase.label | downcase }}</span></em></h2> 
             {% elsif phase.status == 'alumni' %}
