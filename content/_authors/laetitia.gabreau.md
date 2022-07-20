@@ -12,7 +12,7 @@ missions:
     employer: Benext
 startups:
   - psyenfantado
-  - article.40
+  - infoparquet
 badges:
   - segur
 domaine: Déploiement

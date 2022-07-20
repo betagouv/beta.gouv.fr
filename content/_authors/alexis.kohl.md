@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - article.40
+  - infoparquet
 badges:
   - segur
 competences:

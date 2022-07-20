@@ -2,13 +2,13 @@
 roles: Développeur ou développeuse
 open: false
 date: 2021-07-09T10:38:38.986Z
-startup: article.40
+startup: infoparquet
 ---
 # **Contexte**
 
 Chaque année, des dizaines de milliers d’administrations saisissent le procureur de la République afin de l’informer de faits pouvant entraîner des poursuites pénales.
 Ces 120 000 saisines, leur transmission et leur suivi engendrent de nombreuses difficultés pour les agents publics de ces administrations et du Ministère de la Justice.
-Après *[plusieurs semaines d’investigation](https://beta.gouv.fr/startups/article.40.html)* démontrant des difficultés réelles et impactantes, nous lançons un service public numérique visant à résoudre ces difficultés selon l’approche Startup d’État.
+Après *[plusieurs semaines d’investigation](https://beta.gouv.fr/startups/infoparquet.html)* démontrant des difficultés réelles et impactantes, nous lançons un service public numérique visant à résoudre ces difficultés selon l’approche Startup d’État.
 Cette investigation menée entre les mois de mars et mai 2021 a notamment permis de :
 
 * vérifier l’existence de 3 besoins importants pour les agents publics concernés : systématisation du suivi de la procédure / fiabilisation et traçabilité des procédures / circuits adaptés à l’urgence ;

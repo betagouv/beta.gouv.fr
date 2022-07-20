@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: Ministère de la Justice
 startups:
-  - article.40
+  - infoparquet
 previously: []
 competences:
   - Administration Publique
