@@ -17,7 +17,7 @@ list        = Rake::FileList[list_path]
 puts("Running #{schema_path} on #{list_path}…")
 
 error_count = list.reduce(0) do |acc, file_path|
-  document = YAML.load_file(file_path)
+  document = YAML.unsafe_load_file(file_path)
   errors = validator.validate(document)
 
   next(acc) unless errors && !errors.empty?
