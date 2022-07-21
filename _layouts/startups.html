@@ -156,15 +156,16 @@ layout: default
             {% assign plural = "s" %}
         {% endif %}
         <div id="{{ phase.status }}" class="fr-container-fluid{% if phase.status != 'success' %} fr-my-6w{% endif %}">
+            <!-- Les span contenant les class "phase-counter" et "phase-label" permettent d'afficher le counter des startups grâce à des getElementsByClassName dans le fichier javascript dans search-startup.js -->
             {% if phase.status == 'success' %}
-                <h2 class="phase-title"><em><span class="phase-counter">{{ counter }}</span></em> {{ phase.type_label }}{{ plural }} <em><span class="phase-label">{{ phase.label | downcase }}</span></em></h2> 
+                <h2><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> <span>{{ phase.label | downcase }}{{ plural }}</span></h2> 
             {% elsif phase.status == 'alumni' %}
-                <h2 class="phase-title">Nos <em>{{ phase.label | downcase }}</em></h2>
+                <h2>Nos {{ phase.label | downcase }}</h2>
             {% else %}
-                <h2 class="phase-title"><em><span class="phase-counter">{{ counter }}</span></em> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> en <em>{{ phase.label | downcase }}</em></h2>
+                <h2><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> en {{ phase.label | downcase }}</h2>
             {% endif %}
 
-            <p class="fr-h6">{{ phase.short_description }}.</p>
+            <p>{{ phase.short_description }}.</p>
 
             <div class="fr-grid-row fr-grid-row--gutters startups">
                 {% assign startups = site.startups | where_phase: phase.status %}

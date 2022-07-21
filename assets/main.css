@@ -218,15 +218,6 @@ ol li p, ul li p {
   color: #0053b3;
 }
 
-h2.phase-title {
-  font-weight: normal;
-}
-
-h2.phase-title em {
-  font-style: normal;
-  font-weight: bold;
-}
-
 main .fr-container img {
   width: 100%;
 }
