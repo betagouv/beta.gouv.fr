@@ -1,6 +1,6 @@
 ---
 title: Réformes locales
-mission: Investiguer les besoins des territoires en terme d'évaluation d'impact de réformes de la réglementation
+mission: Investiguer les besoins des territoires en terme de compréhension de l'impact de réformes existantes ou envisagées
 owner: France Relance
 incubator: anct
 sponsors:
