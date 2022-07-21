@@ -28,11 +28,11 @@ Estimer les effets de ces réformes s'avère donc essentiel pour estimer les eff
 L'évaluation de réformes de la réglementation a déjà été réalisée par des territoires mais :
 
 * Les outils disponibles sont complexes d'accès.
-* Les besoins d'évaluation de réformes des territoires sont méconnus.
-* Les moyens des terroitoires pour répondre à ce type d'interrogation varient (communes, départements, ...).
+* Les besoins d'évaluation de réformes des territoires n'ont, à notre connaissance, pas été quantifiés.
+* Les moyens des territoires pour répondre à ce type d'interrogation varient (communes, départements, ...).
 
 Quelles thématiques sont particulièrement irritantes pour de multiples collectivités ?  
-Lesquelles sont calculables ?
+Quelles réformes de la réglementation sont calculables ?
 
 ## Objectifs
 
