@@ -4,10 +4,7 @@ mission: Investiguer les besoins des territoires en terme de compréhension de l
 owner: France Relance
 incubator: anct
 sponsors:
-  - name: ANCT / France Relance
-    acronym: ANCT
-    domaine_ministeriel: territoires
-    type: collectivite-territoriale
+  - /organisations/anct
 phases:
   - name: investigation
     start: 2022-08-15
