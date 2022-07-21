@@ -25,7 +25,7 @@ Estimer les effets de ces réformes s'avère donc essentiel pour estimer les eff
 
 ## Problématique investiguée
 
-L'évaluation de réformes de la réglementation a déjà été réalisé par des territoires mais :
+L'évaluation de réformes de la réglementation a déjà été réalisée par des territoires mais :
 
 * Les outils disponibles sont complexes d'accès.
 * Les besoins d'évaluation de réformes des territoires sont méconnus.
