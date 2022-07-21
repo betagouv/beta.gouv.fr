@@ -10,8 +10,8 @@ sponsors:
     type: collectivite-territoriale
 phases:
   - name: investigation
-    start: 2022-03-01
-    end: 2022-07-01
+    start: 2022-08-15
+    end: 2022-12-31
 stats: false
 stats_url:
 contact: sandra.chakroun@beta.gouv.fr
