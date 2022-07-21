@@ -14,7 +14,7 @@ phases:
     end: 2022-12-31
 stats: false
 stats_url:
-contact: sandra.chakroun@beta.gouv.fr
+contact: reformes-locales@anct.gouv.fr
 ---
 
 ## Contexte
