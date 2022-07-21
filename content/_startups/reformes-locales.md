@@ -36,6 +36,6 @@ Quelles réformes de la réglementation sont calculables ?
 
 ## Objectifs
 
-* Identifier les besoins d'évaluation des effets de modifications de la réglementation locale sur les habitants et le budget local,
-* Confirmer ou infirmer le besoin d'évaluation des effets de modification de la réglementation nationale sur les territoires,
+* Identifier les besoins d'évaluation des effets de la réglementation locale sur les habitants et le budget local,
+* Confirmer ou infirmer le besoin d'évaluation des effets de la réglementation nationale sur les territoires,
 * Partager les solutions existantes ouvertes et accessibles aux territoires.
