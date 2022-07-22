@@ -11,7 +11,7 @@ contact: ateliernumerique@culture.gouv.fr
 usertypes:
   - collectivite-territoriale
   - particulier
-stats_url: null
+stats_url: https://www.culture.gouv.fr/Demarches-en-ligne/Par-thematiques/Architecture/Mes-travaux-en-site-protege/A-propos
 stats: true
 phases:
   - name: investigation
