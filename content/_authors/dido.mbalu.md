@@ -9,4 +9,5 @@ missions:
     employer: Pôle emploi
 startups:
   - encyclopedie-des-metiers
+  - mobiville
 ---
