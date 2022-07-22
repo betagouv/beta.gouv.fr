@@ -1,10 +1,10 @@
 ---
-fullname: Pierre Alexandre Voye
+fullname: Léo Cassiau
 role: Développeur
 domaine: Développement
 missions:
-  - start: 2021-12-15
-    end: 2022-06-30
+  - start: 2022-05-01
+    end: 2023-03-15
     status: service
     employer: Pôle emploi
 startups:
