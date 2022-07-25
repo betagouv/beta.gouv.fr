@@ -218,27 +218,17 @@ ol li p, ul li p {
   color: #0053b3;
 }
 
-h2.phase-title {
-  font-weight: normal;
-}
-
-h2.phase-title em {
-  font-style: normal;
-  font-weight: bold;
-}
-
-.phase-description {
-  font-style: italic;
-  color: $darker-grey;
-}
-
 main .fr-container img {
   width: 100%;
 }
 
 .filters {
   padding: 1em 0;
-  background-color: #bfbfe3;
+  background-color: var(--background-alt-grey);
+}
+
+.filters h2 {
+  margin-bottom: 0;
 }
 
 .filters .fr-container {
@@ -250,6 +240,10 @@ main .fr-container img {
 .filters #search-input {
   grid-column: 4;
   z-index: 2;
+}
+
+.filters .fr-collapse::before {
+  content: none;
 }
 
 @media (max-width: 1200px) {

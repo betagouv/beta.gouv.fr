@@ -114,16 +114,18 @@ var updateCards = function (data) {
         phaseElement.removeChild(noContentMessage[0]);
       }
     }
+    /* ce code permet de calculer le nombre de start-up dans une phase lors de la recherche par incubateur. Il ne compte pas les start-up lors du chargement de la page start-up */
     var phaseCounter = phaseElement.getElementsByClassName("phase-counter")[0];
     if (phaseCounter) {
       phaseCounter.innerText = dataToDisplay.length;
     }
     var phaseLabel = phaseElement.getElementsByClassName("phase-label")[0];
     if (phaseLabel) {
+      
       var currentPhase = phases.filter((p) => p.status === phase)[0];
       var plural = dataToDisplay.length > 1 ? "s" : "";
       if (currentPhase.status === "success") {
-        phaseLabel.innerText = currentPhase.label.toLowerCase() + "s";
+        phaseLabel.innerText = currentPhase.type_label.toLowerCase() + "s";
       } else if (currentPhase.status === "alumni") {
         phaseLabel.innerText = currentPhase.label.toLowerCase();
       } else {
