@@ -4,7 +4,7 @@ date: 2022-07-04T10:00:42.000Z
 title: transport.data.gouv.fr recrute un.e responsable de l’ouverture des données 
 contrat: indépendant
 startup: transport
-open: true
+open: false
 domaines:
   - Déploiement
 ---
