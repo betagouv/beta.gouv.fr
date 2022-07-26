@@ -5,7 +5,7 @@ domaine: Design
 github: bourchanin
 missions:
   - start: 2022-04-01
-    end: 2022-08-10
+    end: 2022-12-31
     status: independent
     employer: Malt
 startups:
