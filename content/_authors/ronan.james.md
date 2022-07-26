@@ -11,9 +11,10 @@ missions:
   - status: independent
     employer: DINUM
     start: 2021-07-01
-    end: 2022-10-28
-startups:
+    end: 2022-08-30
+previously:
   - carnet.de.bord
+
 badges:
   - segur
 competences:
