@@ -14,7 +14,7 @@ repository:
 stats: false
 contact:  alexandre.viscontini@dihal.gouv.fr 
 usertypes:
-  - particuliers en situation de vulnérabilités vivant en Ile de France
+  - particuliers
 dashlord_url: 
 accessibility_status: non conforme
 ---
