@@ -7,6 +7,8 @@ missions:
     end: 2022-12-30
     status: admin
     employer: DIHAL
+startups:
+   - emile
 ---
 
 Conseiller emploi à la DIHAL
