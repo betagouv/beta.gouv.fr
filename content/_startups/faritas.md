@@ -11,74 +11,55 @@ phases:
     start: 2021-07-09
     end: ""
 ---
-## Contexte
+## Le problème: une inefficience dans la collecte et le reversement de la taxe de séjour par les plateformes numériques
 
-Depuis une douzaine d’années, le développement important des plateformes numériques de réservation en ligne a profondément bouleversé le marché de l'hébergement touristique en favorisant l’accroissement de la **location meublée saisonnière**. Pour tenir compte de ce phénomène, le législateur a décidé, en 2019, de placer ces opérateurs nationaux et internationaux au cœur de la chaîne fiscale de la taxe de séjour en les rendant collecteurs de cette taxe pour les collectivités. 
+En 2019, le législateur a décidé de placer les plateformes numériques de réservation au cœur de la chaîne fiscale de la taxe de séjour en les rendant **intermédiaires collecteurs** de cette taxe pour les collectivités locales.
 
-Conformément au Code Général des Collectivités Territoriales (Art. L2333-34), les **plateformes numériques** doivent ainsi adresser à chaque collectivité concernée une déclaration détaillée de chaque séjour pour chaque hébergement loué sur son territoire par leur intermédiaire. Cette déclaration, bi-annuelle, doit faire mention de l’adresse de l'hébergement, des dates de début et fin du séjour, du nombre de personnes ayant séjourné, du nombre de nuitées constatées, du prix de chaque nuitée, de la date de perception de la taxe de séjour, etc. 
+Concrètement, chaque plateforme doit donc :
 
-## Problème
+* Connaître les délibérations relatives à la taxe de séjour prises par les collectivités (plus de 1 800 sur le territoire national) ;
+* Intégrer ces informations dans son système ;
+* Liquider la taxe lors de la réservation ;
+* Reverser les montants collectés au comptable public référent.
 
-Entre les mois de juillet et octobre 2021, la **phase d’investigation** a permis de démontrer que cette **déclaration** :
+De leur côté, tous les six mois, les collectivités reçoivent de la part des plateformes numériques, de façon non sécurisée (envoi par mail non chiffré de fichiers non protégés) et non standardisée (pas de format spécifique de déclaration), plusieurs **déclarations de taxe de séjour très difficilement exploitables**.
 
-1. N’était pas systématiquement envoyée aux collectivités par les plateforme numériques, parfois par méconnaissance de la règlementation en vigueur ;  
-2. Lorsqu’elle était effectivement envoyée, c’était dans la majeure partie des cas dans des formats inexploitables par les logiciels de gestion actuels des régies des collectivités, ou avec des taux d’erreurs ou d’omissions suffisamment importants pour entraver durablement le suivi et le contrôle de l’activité de location de meublés de tourisme. 
+Cela les empêche de mener convenablement à bien leur mission de contrôle de la taxe de séjour et plus généralement de la location meublée saisonnière, ceci d’autant plus que les déclarations ne leur sont pas systématiquement envoyées, parfois par méconnaissance de la réglementation en vigueur.
 
-Les entretiens et enquêtes menés auprès d’une diversité d’acteurs répartis sur le territoire métropolitain, soit au total près de **110 personnes interrogées** (collectivités de toutes tailles, services et bureaux de la DGFiP, Direction générale des entreprises – DGE, Direction générale des collectivités locales – DGCL, plateformes numériques de petites tailles, experts RGPD, etc.), ont en outre conduit à identifier un nombre important de difficultés en lien avec cette activité en forte croissance. 
+Enfin, les comptables publics ne disposent pas de pièces justificatives fiables pour **sécuriser les versements** opérés par les plateformes numériques et ainsi **s’assurer de la correcte liquidation de la taxe** et du rattachement des séjours déclarés aux bonnes collectivités délibérantes.
 
-Ces échanges ont en commun d’avoir mis en évidence une **problématique d’inefficience dans la transmission et le traitement de l’information**, faisant apparaître des éléments de douleur au niveau de l’ensemble des acteurs concernés par la chaîne fiscale de la taxe de séjour : 
+## La solution: un service numérique centralisé qui simplifie les démarches pour tous les acteurs impliqués dans cette chaîne fiscale
 
-* Les **collectivités** : 
+Pour pallier aux difficultés rencontrées par les différents acteurs, l’offre de service FARITAS propose une solution centralisée qui s’articule autour d’une **interface de télédéclaration unique de la taxe de** **séjour** à l’attention des plateformes numériques de réservation, enrichie de modules d’analyse et de datavisualisation.
 
-o	Incapacité à justifier les paiements reçus en provenance des plateformes ; 
+L’idée est d’inviter les plateformes numériques à déposer *via* l’outil FARITAS une déclaration semestrielle couvrant l’ensemble du territoire national, dans un **format technique standardisé et conforme à la réglementation**. Ces déclarations seront intégrées dans une base de données protégée et hébergée par la Direction générale des Finances publiques (DGFiP) en sa position de tiers agrégateur.
 
-o	Impossibilité de mener à terme les activités de contrôle ; 
+Une fois le dépôt accompli, les **plateformes** **numériques** auront accès à un justificatif de dépôt ainsi que des rapports d’analyse liés à la déclaration transmise : descriptif des reversements attendus aux différentes collectivités, analyse des éventuelles anomalies détectées, etc.
 
-o	Inapplicabilité des sanctions prévues par le CGCT ; 
+Sur une interface unique, les **collectivités territoriales** délibérantes en matière de taxe de séjour pourront donc :
 
-o	Absence de data pour les autres politiques publiques (urbanisme, transport, sécurité, etc.). 
+* Accéder aux déclarations des plateformes de réservation pour les séjours les concernant ;
+* Télécharger ces déclarations pour les intégrer à leur logiciel de gestion ;
+* Disposer de rapports d’analyse : détail des reversements attendus répartis sur les différentes communes de leur territoire, analyse des éventuelles anomalies détectées tant sur la conformité réglementaire de la déclaration que sur la liquidation de la taxe elle-même, etc.
 
-* Les **plateformes numériques** : 
+Les **comptables publics** récipiendaires des versements des plateformes numériques disposeront également de pièces justificatives standardisées, exploitables et fiables leur permettant de sécuriser les encaissements perçus, agiliser le transfert des comptes d’imputation provisoire aux comptes d’imputation définitive et gérer les situations problématiques.
 
-o	Surcoût de gestion lié au développement en interne de solutions ad hoc ;
+## Le parcours: de la phase d'investigation à la perspective d'un passage à l'échelle
 
-o	Perte de temps considérable ; 
+Le projet FARITAS a été retenu en juin 2021 dans le cadre de l’appel à candidatures lancé par la Fabrique numérique de la DGFiP auprès de l’ensemble de ses agents.
 
-o	Complexité et variabilité des règles de calcul ;
+Une première période de **six mois d’investigation**, riches en entretiens, sondages et analyses qualitatives et quantitatives auprès d’une centaine d’acteurs a permis de mieux cerner la problématique générale, d’évaluer les enjeux et de dessiner les contours d’une solution qui réponde aux principaux irritants soulevés.
 
-o	Risque juridique en cas de non-conformité des déclarations. 
+Depuis février 2022, l’**incubation** du projet a débuté et doit permettre de disposer d’ici à la fin de l’année 2022 d’une version industrialisable de l’offre de service FARITAS, en capacité de passer à l’échelle dans le courant de l’année 2023.
 
-* Les **hébergeurs** et les **touristes** : 
+Quel a été le chemin parcouru depuis l’entrée en incubation ?
 
-o	Multiplication des erreurs dans la tarification appliquée ; 
+* **Avril 2022** : **la construction d’une maquette FIGMA**\
+  Au mois d’avril 2022, le produit FARITAS tel qu’imaginé pour début 2023 a été maquetté sur FIGMA et testé auprès d’un panel d’utilisateurs afin d’évaluer l’adoptabilité de la solution, l’appétence des acteurs pour les différentes fonctionnalités proposées et l’adéquation entre l’outil et les attentes utilisateurs. Ces ateliers tests ont permis de valider l’adhésion des utilisateurs cibles à la solution proposée, tant sur l’ergonomie du service que sur les fonctionnalités proposées, et de prioriser les différents axes de développement selon le degré d’importance marqué par les utilisateurs.
+* **Mai à juin 2022** : **le développement du Produit Minimum Viable (MVP)**Entre mai et juin 2022 est née la toute première version frugale du produit FARITAS autour des fonctionnalités les plus génératrices de valeur. L’infrastructure de la base de données (côté back) à même de recevoir les déclarations des plateformes numériques, ainsi que les pages (côté front) permettant de déposer ces déclarations ont ainsi été développées, de même que différents modules d’analyse de ces déclarations.
+* **Juillet 2022** : **le passage réussi devant le comité d’investissement**En juillet 2022, le comité d’investissement a validé la poursuite de l’expérimentation FARITAS sur la base des retours utilisateurs positifs et des premiers résultats encourageants apportés par le prototype. Il a fixé comme objectif à l’équipe projet de disposer d’ici à la fin de l’année 2022 d’une version industrialisable de la solution FARITAS qui ait pu être testée auprès d’un large panel d’utilisateurs (plateformes numériques, collectivités territoriales et comptables publics) afin de quantifier l’impact utilisateur.
 
-o	Fragilisation de l’équité fiscale entre acteurs de l’économie de l’hébergement ;
-
-o	Mécontentement général de la part des professionnels. 
-
-* Les **comptables publics** : 
-
-o	Difficulté à identifier les reversements des plateformes ; 
-
-o	Insécurité juridique du montant des encaissements. 
-
-Au-delà des douleurs susmentionnées, la phase d’investigation a été l’occasion d’apprécier les **solutions déjà mises en place** par les collectivités et régies de taxe de séjour pour pallier cette problématique de transmission inefficiente de l'information. Celles-ci se sont avérées trop artisanales (porte-à-porte, relances individuelles, fiabilisation manuelle, etc.), ou trop coûteuses (solutions privées de scraping ou de tracking des annonces en ligne), justifiant leur abandon rapide au prix d’une perte de maîtrise de la recette fiscale associée ainsi qu’une fragilisation de l’équité fiscale entre acteurs de l’économie de l’hébergement touristique. 
-
-## Solution
-
-En 2019, la taxe de séjour représentait un total de **503 millions d’euros**, un tiers provenant des reversements des plateformes numériques. Dans un contexte de reprise de l’activité touristique post-Covid, avec en ligne de mire les Jeux Olympiques et Paralympique de Paris 2024, la maîtrise de cette recette fiscale apparaît donc cruciale pour les finances locales.
-
-L’offre de service **« FARITAS » (FAciliter le Recouvrement de l’Impôt et de la TAxe de Séjour)** se propose en ce sens d’alimenter et d’aider les régies et services comptables de la DGFiP à suivre et contrôler les reversements de taxe de séjour émis par les plateformes numériques en :
-
-1. **Centralisant la transmission des informations** dans un format technique standardisé et conforme à la règlementation par le biais d’une base de données hébergée par la DGFiP comme tiers agrégateur ;
-2. **Réduisant les anomalies** liées aux erreurs de calcul par la fiabilisation des données au moyen : 
-
-   a. De la mise à disposition d’un calculateur de taxe de séjour permettant de vérifier la cohérence des calculs et la bonne application de la règlementation en vigueur ; 
-
-   b. D’un outil de fiabilisation des adresses permettant de valider la collectivité de rattachement du séjour, de vérifier que l’adresse existe bien et de la relier à l’identifiant unique d’adresse ;
-
-   c. D’une extraction des versements attendus permettant aux agents comptables de la DGFiP d’identifier rapidement les montants liés à la taxe de séjour et ainsi faciliter l’émission des titres correspondants avec une pièce justificative contrôlable.  
-3. **Améliorant le contrôle des impositions foncières et de revenu** par les services dédiés de la DGFiP par l’augmentation du volume de données exhaustive, fiables, et sécurisées et le croisement de données.
+En cas de passage à l’échelle, la **dynamique de déploiement** **envisagée** doit être progressive afin d’embarquer de façon cohérente et maîtrisée l’ensemble des acteurs impliqués (plus de 1800 collectivités et plus d’une cinquantaine de plateformes de réservation a minima) et assurer la solidité technique et réglementaire du projet, avec en ligne de mire la tenue des Jeux Olympiques et Paralympiques de Paris 2024.
 
 ## Calendrier de réalisation
 
@@ -91,26 +72,19 @@ En filigrane de l’enjeu de **mutualisation** de l’information sur l’activi
 
 À terme, la solution FARITAS doit permettre de répondre, à chacune des étapes de sa réalisation, aux attentes de l’ensemble des acteurs concernés dans un **ordre de priorité séquencé opportunément** : 
 
-![Calendrier de réalisation_FARITAS_Laurent MALET](/img/netlifycms/20211104_calendrier.de.re.alisation_faritas_laurent.malet.redimensionne.png "Calendrier de réalisation_FARITAS_Laurent MALET")
+![Calendrier de réalisation_FARITAS_Laurent MALET](/img/netlifycms/tableau._.fiche.produit.png "Calendrier de réalisation_FARITAS_Laurent MALET")
 
-## Mesures d'impact (à consolider)
+## L'impact: simplification de la gestion de la taxe de séjour et meilleure équité fiscale
 
-* **Mutualisation de l’information et simplification de la gestion** : 
+La construction du projet FARITAS est guidée par différents indicateurs d’impact, qui permettent d’ajuster les fonctionnalités à développer et de garantir la bonne adéquation du produit aux attentes de ses utilisateurs.
 
-o	Nombre de partenaires (plateformes numériques, collectivités,…) ; 
+* Simplification de la gestion :
 
-o	Durée de traitement des déclarations ; 
+  * Nombre de partenaires raccordés ;
+  * Taux de consultation des rapports produits ;
+  * Volume traité de taxe de séjour.
+* Équité fiscale :
 
-o	Volume traité de taxe de séjour ;
-
-o	Satisfaction des partenaires, etc. 
-
-* **Équité fiscale** : 
-
-o	Taux de titres justifiés ; 
-
-o	Taux d’identification d’invariants ; 
-
-o	Nombre d’anomalies détectées ; 
-
-o	Nombre de contrôles engagés, etc.
+  * Taux de titres justifiés ;
+  * Nombre d’anomalies détectées ;
+  * Satisfaction des partenaires.
