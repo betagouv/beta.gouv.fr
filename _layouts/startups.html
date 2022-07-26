@@ -115,8 +115,12 @@ layout: default
             <label class="fr-label" for="search-input-input">Label de la barre de recherche</label>
             <input class="fr-input" placeholder="Rechercher" type="search" id="search-input-input" name="search-input-input">
             <div class="fr-btn" title="Rechercher"></div>
-            <ul id="results-container"></ul>
         </div>
+    </div>
+
+    <div id="results-container" style="display: none;" class="fr-py-3w">
+        <h3 id="results-container-title">Résultats de la recherche</h3>
+        <ul id="results-container-list"></ul>
     </div>
 </section>
 {% for incubator in incubators %}
@@ -185,17 +189,20 @@ layout: default
 
     var searchInput = document.getElementById('search-input-input');
     var resultsContainer = document.getElementById('results-container');
+    var resultsTitle = document.getElementById('results-container-title');
 
     var searchFunction =  function (e) {
-        if (searchInput.value.trim() != '') {
+        var searchContent = searchInput.value.trim();
+        if (searchContent != '') {
             resultsContainer.style.display = 'block';
+            resultsTitle.innerText = 'Résultat de la recherche - "' + searchContent + '"';
         } else {
             resultsContainer.style.display = 'none';
+            resultsTitle.innerText = 'Résultat de la recherche';
         }
     }
 
     searchInput.addEventListener('input', searchFunction);
-
 
     var selectPhase = document.getElementById('select-phase');
     selectPhase.addEventListener('change', function (e) {
@@ -214,9 +221,9 @@ layout: default
 <script>
     SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        searchResultTemplate: "<div class=\"fr-card fr-card--horizontal fr-card--no-border\"><div class=\"fr-card__body\"><h4 class=\"fr-card__title\"><a class=\"fr-card__link\" href=\"{url}\">{title}</a></h4><p class=\"fr-card__desc\">{mission}</p></div></div>",
-        noResultsText: "<div class=\"fr-card fr-card--horizontal fr-card--no-border\"><div class=\"fr-card__body\"><h4 class=\"fr-card__title\">Aucun résultat</div></div>",
+        resultsContainer: document.getElementById('results-container-list'),
+        searchResultTemplate: "<li><a class=\"fr-card__link\" href=\"{url}\">{title}</a> - {mission}</li>",
+        noResultsText: "<li>Aucun résultat trouvé</li>",
         json: '/search.json'
     })
 </script>
