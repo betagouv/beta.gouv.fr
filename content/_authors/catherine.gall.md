@@ -2,6 +2,7 @@
 fullname: Catherine Gall
 role: Coach
 domaine: Coaching
+github: GallCatherine
 link: https://www.linkedin.com/in/catherine-arod-gall-0585a82/
 missions:
   - start: 2022-03-28
