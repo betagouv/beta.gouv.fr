@@ -9,7 +9,7 @@ phases:
     start: 2022-04-01 
   - name: construction
     start: 2022-08-01
-link: site https://www.programme-emile.org/
+link: https://www.programme-emile.org/
 repository: 
 stats: false
 contact:  alexandre.viscontini@dihal.gouv.fr 
