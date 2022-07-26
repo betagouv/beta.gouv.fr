@@ -1,6 +1,6 @@
 ---
 roles: Chargé-e de déploiement support utilisateurs junior
-open: true
+open: false
 date: 2022-07-12
 startup: aidantsconnect
 junior: true
