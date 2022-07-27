@@ -5,7 +5,15 @@ layout: default
 <div class="fr-container fr-py-6w">
     <h1 id="search-page-title">Résultat(s) de la recherche</h1>
 
-    <ul id="search-results" class="fr-raw-list fr-mb-0"></ul>
+    <div id="search-results-realisations">
+        <h2 class="fr-h3 fr-pt-4w" id="search-results-realisations-title">Aucune réalisation</h2>
+        <ul id="search-results-realisations-list" class="fr-raw-list"></ul>
+    </div>
+
+    <div id="search-results-pages">
+        <h2 class="fr-h3 fr-pt-4w" id="search-results-pages-title">Aucune page</h2>
+        <ul id="search-results-pages-list" class="fr-raw-list"></ul>
+    </div>
 </div>
 
 <script src="https://unpkg.com/lunr/lunr.js"></script>
@@ -23,32 +31,41 @@ layout: default
         }
     }
 
-    function displaySearchResults(results, store) {
-        var searchResults = document.getElementById('search-results');
-        var searchPageTitle = document.getElementById('search-page-title');
+    function displaySearchResults(searchTerm, categories) {
+        for (let index = 0; index < categories.length; index++) {
+            displaySearchResultsForCategory(searchTerm, categories[index]);
+        }
+    }
+
+    function displaySearchResultsForCategory(searchTerm, category) {
+        var results = category.idx.search(searchTerm);
+
+        var searchResultDiv = document.getElementById(category.searchResultId);
+        var searchResultTitle = document.getElementById(category.searchResultTitleId);
+        var searchResultList = document.getElementById(category.searchResultListId);
         
         if (results.length) {
             var appendString = '';
 
             for (var i = 0; i < results.length; i++) {
-                var item = store[results[i].ref];
-                appendString += '<li><a class="fr-link fr-fi-arrow-right-line fr-link--icon-left" href="' + item.url + '">' + item.title + '</a></li>';
+                var item = category.store[results[i].ref];
+                appendString += category.print(item);
             }
 
-            searchResults.innerHTML = appendString;
-            searchPageTitle.innerHTML = '<strong id="nbResults">' + results.length + '&nbsp;résultat(s)</strong> pour : <strong>«&nbsp;' + searchTerm + '&nbsp;»</strong>';
+            searchResultList.innerHTML = appendString;
+            searchResultDiv.style.display = "block";
         } else {
-            searchResults.innerHTML = '';
-            searchPageTitle.innerHTML = '<strong>Aucun&nbsp;résultat</strong> pour : <strong>«&nbsp;' + searchTerm + '&nbsp;»</strong>';
+            searchResultList.innerHTML = '';
+            searchResultDiv.style.display = "none";
         }
+
+        searchResultTitle.innerHTML = results.length + '&nbsp;' + category.name;
     }
 
     // Replace to trim the query, removing extra white spaces
     var searchTerm = getQueryVariable('q').replace(/^\s+|\s+$/g, '');
 
-    document.getElementById('search').setAttribute("value", searchTerm);
-
-    window.store = {
+    const startups = {
         {% for startup in site.startups %}
             {% assign startup_id = startup.id | remove: "/startups/" %}
 
@@ -66,40 +83,81 @@ layout: default
             {% assign past_team = past_team | append: to_append %}
             {% endfor %}
 
-            "{{ startup_id }}" : {
+            "{{ startup_id | xml_escape }}" : {
                 "title"         : "{{ startup.title | escape }}",
                 "mission"       : "{{ startup.mission | escape }}",
                 "incubator"     : "{{ startup.incubator | escape }}",
                 "url"           : "{{ site.baseurl }}{{ startup.url }}",
                 "contact"       : "{{ startup.contact }}",
-                "current_team"  : "{{ current_team }}",
-                "past_team"     : "{{ past_team }}"
+                "current_team"  : "{{ current_team | xml_escape}}",
+                "past_team"     : "{{ past_team | xml_escape }}"
             } {% unless forloop.last %},{% endunless %}
-        {% endfor %}
+        {% endfor %}   
     };
 
-    var idx = lunr(function () {
-        this.field('title', { boost: 10 });
-        this.field('mission');
-        this.field('incubator');
-        this.field('url');
-        this.field('contact');
-        this.field('current_team');
-        this.field('past_team');
-        for (var key in window.store) { 
-            this.add({
-                'id': key,
-                'title': window.store[key].title,
-                'mission': window.store[key].mission,
-                'incubator': window.store[key].incubator,
-                'url': window.store[key].url,
-                'contact': window.store[key].contact,
-                'current_team': window.store[key].current_team,
-                'past_team': window.store[key].past_team
-            });
-        }
-    });
+    const pages = {
+        {% assign pages = site.pages | where_exp: 'page', 'page.title' %}
+        {% for page in pages %}
+            "{{ page.url }}" : {
+                title: "{{ page.title }}"
+            } {% unless forloop.last %},{% endunless %}
+        {% endfor %}   
+    };
 
-    var results = idx.search(searchTerm);
-    displaySearchResults(results, window.store);
+    const categories = [
+        {
+            name: 'Réalisation(s)',
+            searchResultId: 'search-results-realisations',
+            searchResultTitleId: 'search-results-realisations-title',
+            searchResultListId: 'search-results-realisations-list',
+            print: function(startup) {
+                return '<li><a class="fr-link fr-fi-arrow-right-line fr-link--icon-left" href="' + startup.url + '">' + startup.title + '</a></li>';
+            },
+            idx: lunr(function () {
+                this.field('title', { boost: 10 });
+                this.field('mission');
+                this.field('incubator');
+                this.field('url');
+                this.field('contact');
+                this.field('current_team');
+                this.field('past_team');
+                for (var key in startups) { 
+                    this.add({
+                        'id': key,
+                        'title': startups[key].title,
+                        'mission': startups[key].mission,
+                        'mission': startups[key].mission,
+                        'incubator': startups[key].incubator,
+                        'contact': startups[key].contact,
+                        'current_team': startups[key].current_team,
+                        'past_team': startups[key].past_team
+                    });
+                }
+            }),
+            store: startups
+    }, {
+            name: 'Page(s)',
+            searchResultId: 'search-results-pages',
+            searchResultTitleId: 'search-results-pages-title',
+            searchResultListId: 'search-results-pages-list',
+            print: function(page) {
+                return '<li><a class="fr-link fr-fi-arrow-right-line fr-link--icon-left" href="/communaute/annuaire">' + page.title + '</a></li>';
+            },
+            idx: lunr(function () {
+                this.field('title');
+                for (var key in pages) { 
+                    this.add({
+                        'id': key,
+                        'title': pages[key].title
+                    });
+                }
+            }),
+            store: pages
+    }];
+
+    document.getElementById('search').setAttribute("value", searchTerm);
+
+    var searchPageTitle = document.getElementById('search-page-title');
+    searchPageTitle.innerHTML = 'Résultat(s) de recherche pour : <strong>«&nbsp;' + searchTerm + '&nbsp;»</strong>';
+    displaySearchResults(searchTerm, categories);
 </script>
