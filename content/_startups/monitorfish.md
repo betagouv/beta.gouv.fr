@@ -4,6 +4,7 @@ mission: Améliorer le contrôle des activités des navires de pêche
 sponsors:
   - /organisations/mtes
 incubator: mtes
+stats_url: https://docs.google.com/presentation/d/1qD3AwJYsq1N_eiZd3KpwR-w0zO5Qk_zh74A7FBYvZrM/edit?usp=sharing
 phases:
   - name: investigation
     start: 2021-03-01
