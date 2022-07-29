@@ -5,7 +5,7 @@ domaine: Développement
 github: sabalot
 missions:
   - start: 2022-02-01
-    end: 2022-07-31
+    end: 2023-03-12
     status: independent
     employer: La zone
 startups:
