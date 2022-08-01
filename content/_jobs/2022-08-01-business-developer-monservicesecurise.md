@@ -65,4 +65,3 @@ Une connaissance de l’administration publique et du travail au contact d'agent
 
 À bientôt ! 😀
 
-Footer
