@@ -4,6 +4,8 @@ open: true
 date: 2022-08-01
 startup: homologation
 title: MonServiceSécurisé recrute un· business developer
+domaines:
+  - Déploiement
 ---
 	
 **La Startup d’État MonServiceSécurisé recherche un·e Business Developer afin de participer à sa phase d’accélération et de déploiement auprès des collectivités
