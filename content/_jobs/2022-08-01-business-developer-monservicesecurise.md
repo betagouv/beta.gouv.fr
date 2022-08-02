@@ -63,7 +63,7 @@ Une connaissance de l’administration publique et du travail au contact d'agent
 * Poste en télétravail avec réunions ponctuelles de l’équipe
 * Démarrage en septembre. 
 * Rémunération : à discuter (<a href="https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle">voir grille indicative</a>)
-* Pour candidater, veuillez envoyer votre CV et motivations à contact[a]monservicesecurise.beta.gouv.fr
+* Pour candidater, postulez <a href="https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/business-developer_paris">ici</a>
 
 À bientôt ! 😀
 
