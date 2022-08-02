@@ -5,7 +5,7 @@ domaine: Développement
 link: https://landing.adiuvo.app/
 github: Aurel-Allard
 missions:
-  - start: 2022-08-08
+  - start: 2022-08-01
     end: 2022-10-31
     status: independent
     employer: Octo
