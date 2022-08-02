@@ -7,7 +7,7 @@ incubator: mtes
 contact: vincent.deroche@developpement-durable.gouv.fr
 accessibility_status: non conforme
 phases:
-  - name: investigation
+  - name: alumni
     start: 2022-04-01
     end: 2022-06-29
 ---
