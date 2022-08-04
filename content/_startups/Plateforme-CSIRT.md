@@ -7,6 +7,7 @@ incubator: lab-innov-anssi
 phases:
   - name: investigation
     start: 2020-10-01
+  - name: alumni
 link:
 repository: 
 stats: false 
