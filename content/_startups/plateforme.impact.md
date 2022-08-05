@@ -54,6 +54,4 @@ Créer un espace à destination des entreprises, pour centraliser et faciliter l
 
 ## **Feuille de route**
 
-Recrutement d’un développeur Python/Django
-
 Prototypage et développement de juin à décembre 2022.
