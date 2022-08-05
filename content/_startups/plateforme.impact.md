@@ -20,11 +20,11 @@ La plateforme « Impact » est un produit numérique en cours de construction ay
 
 ## **Contexte**
 
-La nouvelle directive européenne dite « CSRD » (Corporate Sustainability Reporting Directive), va imposer à toutes les entreprises de plus de 250 salariés, à partir de 2024, de transmettre leur performance extra-financière. Les entreprises devront ainsi renseigner des indicateurs dans les thématiques E, S, G (Environnement, Social, Gouvernance). La plateforme Impact doit permettre aux entreprises de s’y préparer, puis de s’y conformer.
+La nouvelle directive européenne dite « CSRD » (Corporate Sustainability Reporting Directive), va imposer progressivement aux entreprises (à partir de 2025) de déclarer leur performance extra-financière. Les entreprises devront ainsi renseigner des indicateurs dans les thématiques E, S, G (Environnement, Social, Gouvernance). La plateforme Impact doit permettre aux entreprises de s’y préparer, puis de s’y conformer.
 
 A la suite d’une phase d’investigation menée au premier trimestre 2022, en se basant sur les méthodologies agiles de beta.gouv, la proposition de valeur du projet s’est affinée avec des retours utilisateurs.
 
-La future version de la plateforme Impact conserve comme fil rouge la directive CSRD. Elle devra répondre aux besoins de collecte, centralisation et transmission des indicateurs ESG, mentionnés par la réglementation.
+La future version de la plateforme Impact devra répondre aux besoins de collecte, centralisation et transmission des indicateurs ESG, mentionnés par les réglementations nationales et européennes. Elle conserve comme fil rouge la directive CSRD.
 
 Le projet de start-up d’Etat « Impact » est entré en phase de construction en juin 2022.
 
@@ -42,9 +42,9 @@ L’objectif de la plateforme Impact est de répondre à plusieurs problèmes re
 
 _ Identifier ses obligations réglementaires de déclaration ou de publication E, S et G
 
-_ Se confronter et satisfaire des obligations de déclaration ou de publication E, S et G à partir d’un seul espace
+_ Se confronter et satisfaire des obligations de déclaration ou de publications E,S et G à partir d’un seul espace
 
-_ Disposer d’un outil fiable pour renseigner les indicateurs ou standards extra-financiers demandés par la future CSRD
+_ Disposer d’un outil fiable pour renseigner les indicateurs ou les standards extra-financiers 
 
 _ Générer un rapport ESG avec les informations demandées par la réglementation pour : Se situer (pour ensuite s’améliorer) & éventuellement faire valoir sa stratégie ESG auprès des investisseurs ou des clients.
 
