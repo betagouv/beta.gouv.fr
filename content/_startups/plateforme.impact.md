@@ -20,7 +20,7 @@ La plateforme « Impact » est un produit numérique en cours de construction ay
 
 ## **Contexte**
 
-La nouvelle directive européenne dite « CSRD » (Corporate Sustainability Reporting Directive), va imposer progressivement aux entreprises (à partir de 2024) de déclarer leur performance extra-financière. Les entreprises devront ainsi renseigner des indicateurs dans les thématiques E, S, G (Environnement, Social, Gouvernance). La plateforme Impact doit permettre aux entreprises de s’y préparer, puis de s’y conformer.
+La nouvelle directive européenne dite « CSRD » (Corporate Sustainability Reporting Directive) s'appliquera en 2024. Elle va imposer progressivement aux entreprises de déclarer leur performance extra-financière. Les entreprises devront ainsi renseigner des indicateurs dans les thématiques E, S, G (Environnement, Social, Gouvernance). La plateforme Impact doit permettre aux entreprises de s’y préparer, puis de s’y conformer.
 
 A la suite d’une phase d’investigation menée au premier trimestre 2022, en se basant sur les méthodologies agiles de beta.gouv, la proposition de valeur du projet s’est affinée avec des retours utilisateurs.
 
