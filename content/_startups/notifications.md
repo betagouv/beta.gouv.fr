@@ -13,6 +13,9 @@ phases:
   - name: investigation
     start: 2022-03-01
     end: 2022-04-04
+  - name: constructiontion
+    start: 2022-04-04
+    end: 2022-10-04
 usertypes:
   - etat
 ---
