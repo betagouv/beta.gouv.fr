@@ -1,7 +1,7 @@
 ---
 roles: Dev Ruby on Rails expérimenté·e
 title: "Offre : Dev Ruby on Rails expérimenté·e"
-open: true
+open: false
 techno: Ruby on Rails
 startup: aides.jeunes
 domaines:
