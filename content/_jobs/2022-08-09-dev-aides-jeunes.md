@@ -82,6 +82,7 @@ Enfin, pour vous donner une idée des travaux en cours (et des nombreux envisag�
 
 Points bonus pour :
 - Connaissance de TypeScript et/out NetlifyCMS et/ou React
+- Connaissance de Python
 - Habitudes des modalités de contribution du logiciel libre (issues, PR…)
 - Intérêt pour les aides sociales et leur modélisation
 
