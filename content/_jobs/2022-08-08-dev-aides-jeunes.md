@@ -76,8 +76,8 @@ Enfin, pour vous donner une idée des travaux en cours (et des nombreux envisag�
 
 ## Compétences
 
-- Bonne maîtrise de VueJS 3 et Node.js (2 ans d'expérience minimum).
-- Expérience en conception orientée utilisateur et en expérience utilisateur.
+- Bonne maîtrise de VueJS 3 et Node.js (2 ans d'expérience minimum)
+- Expérience en conception orientée utilisateur et en expérience utilisateur
 
 
 Points bonus pour :
@@ -88,10 +88,10 @@ Points bonus pour :
 
 ## Conditions
 
-- Poste ouvert pour un·e indépendant·e.
-- Télétravail possible, avec une présence ponctuelle à Paris (20 avenue de Ségur, 75007).
-- Temps partiel accepté (80 % minimum).
-- Démarrage dès que possible.
+- Poste ouvert pour [un·e indépendant·e](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/conseils-pour-le-recrutement/observatoire-revenus#la-grille)
+- Télétravail possible, avec une présence ponctuelle à Paris (20 avenue de Ségur, 75007)
+- Temps partiel accepté (80 % minimum)
+- Démarrage dès que possible
 
 Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à [aides-jeunes@beta.gouv.fr](mailto:aides-jeunes@beta.gouv.fr?subject=Recrutement dev JS)
 
