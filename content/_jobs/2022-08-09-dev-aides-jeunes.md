@@ -93,6 +93,6 @@ Points bonus pour :
 - Temps partiel accepté (80 % minimum)
 - Démarrage dès que possible
 
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à [aides-jeunes@beta.gouv.fr](mailto:aides-jeunes@beta.gouv.fr?subject=Recrutement dev JS)
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à [aides-jeunes@beta.gouv.fr](mailto:aides-jeunes@beta.gouv.fr?subject=Recrutement dev JS) ou à partir de [l'annonce publiée sur Welcome to the jungle](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/dev-javascript_paris).
 
 À bientôt ! 😀
