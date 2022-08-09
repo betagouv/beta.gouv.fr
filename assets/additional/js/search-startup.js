@@ -115,11 +115,11 @@ var updateCards = function (data) {
       }
     }
     /* ce code permet de calculer le nombre de start-up dans une phase lors de la recherche par incubateur. Il ne compte pas les start-up lors du chargement de la page start-up */
-    var phaseCounter = phaseElement.getElementsByClassName("phase-counter")[0];
+    var phaseCounter = phaseElement.getElementsByClassName("js-phase-counter")[0];
     if (phaseCounter) {
       phaseCounter.innerText = dataToDisplay.length;
     }
-    var phaseLabel = phaseElement.getElementsByClassName("phase-label")[0];
+    var phaseLabel = phaseElement.getElementsByClassName("js-phase-label")[0];
     if (phaseLabel) {
       
       var currentPhase = phases.filter((p) => p.status === phase)[0];
