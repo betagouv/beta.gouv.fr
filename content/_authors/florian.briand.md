@@ -8,6 +8,8 @@ missions:
     end: 2022-09-30
     status: service
     employer: Liberté Living Lab
+startups:
+  - romin
 previously:
   - justif
   - inca
@@ -18,4 +20,4 @@ competences:
   - Coaching
   - Gestion de Produit
 ---
-Bioinformaticien, dev fullstack et récemment nocodeur, j'adore mettre à disposition mes compétences au service de projets qui ont du sens !
+Biologiste, dev, entrepreneur, nocodeur ... Plein de choses que j'aime mettre au service d'idées qui ont du sens.
