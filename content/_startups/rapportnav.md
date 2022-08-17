@@ -1,6 +1,6 @@
 ---
 title: RapportNav
-mission: RapportNav est l’application de rédaction de rapport qui vise à remplacer la multiplicité des outils et formats de rapport par un unique compte rendu de mission pour les unités du Dispositif de Contrôle et de Surveillande des Affaires Maritimes.
+mission: RapportNav est l’application de rédaction de rapport qui vise à remplacer la multiplicité des outils et formats de rapport par un unique compte rendu de mission pour les unités du Dispositif de Contrôle et de Surveillance des Affaires Maritimes.
 sponsors:
   - /organisations/dgitm
 incubator: mtes
