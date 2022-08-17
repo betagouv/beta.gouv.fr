@@ -2,7 +2,7 @@
 fullname: Florian Briand
 domaine: Coaching
 role: Coach / Développeur / PO
-github: nabellaleen
+github: Nabellaleen
 missions:
   - start: 2021-04-14
     end: 2022-09-30
