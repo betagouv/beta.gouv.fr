@@ -42,7 +42,7 @@ L'équipe beta.gouv.fr derrière CoMobi a développé un outil minimaliste perme
 - aux passagers, de contacter un conducteur soit en direct, soit via l'équipe du service local qui fait ensuite la mise en relation,
 - aux gestionnaires du service au sein de la collectivité, de prendre les demandes de trajets par téléphone (optionnel),
 - aux gestionnaires du service au sein de la collectivité, de rechercher et contacter les conducteurs qui correspondent à une demande de trajet.
-- Permettre à tout territoire de déployer l'outil de manière autonome, et ce sans besoin de développeur.se.s informatiques.
+- Permettre à tout territoire de déployer l'outil de manière autonome, et ce, sans besoin de développeur.se.s informatiques.
 
 ### Les améliorations qui pourraient être apportées :
 - Afficher aussi les trajets publiés sur les plateformes de covoiturage et renvoyer vers elles pour la réservation ;
@@ -54,13 +54,13 @@ L'équipe beta.gouv.fr derrière CoMobi a développé un outil minimaliste perme
 #### Un outil d'expérimentation à moindre coût du covoiturage, pas un opérateur de covoiturage.
 L'outil que développé est très minimaliste et n'a pas vocation à s'enrichir de fonctionnalités complexes, habituellement attendues d'un opérateur de covoiturage. Notamment, nous ne proposerons pas de messagerie interne, de paiement en ligne, d'application mobile...
 
-L'outil est adaptée à un territoire qui souhaite tester l'accueil du covoiturage dans sa population, sans investissement financier et avec un investissement humain modeste. Il permet à des collectivités de prendre en charge des demandes de personnes coupées des moyens de transports et/ou d'internet, et d'offrir à la population un service solidaire, basé sur l'entraide bénévole.
+L'outil est adapté à un territoire qui souhaite tester l'accueil du covoiturage dans sa population, sans investissement financier et avec un investissement humain modeste. Il permet à des collectivités de prendre en charge des demandes de personnes coupées des moyens de transports et/ou d'internet, et d'offrir à la population un service solidaire, basé sur l'entraide bénévole.
 
 Pour un usage plus avancé, par exemple des campagnes d'incitation au covoiturage, des accès par entreprise... ou simplement un service plus complet aux utilisateurs, nous invitons les territoires à se rapprocher de l'un des opérateurs de covoiturage existant.
 
 ## Des expérimentations sur des territoires
 ### Une première expérimentation dans le Lot
-Le Lot est le territoire pilote qui a mené à la création de cet outil simple de covoiturage solidaire, par la mise en place du service Lotocar. L'expérimentation a été lancée par le préfet du Lot, dans le cadre de l'opération Carte Blanche de la DITP, avec un accompagnement de beta.gouv.fr et un financement de l'ADEME.
+Le Lot est le territoire pilote qui a mené à la création de cet outil simple de covoiturage solidaire, par la mise en place du service Lotocar. L'expérimentation a été lancée par le préfet du Lot, dans le cadre de l'opération Carte Blanche de la Direction interministérielle de la transformation publique (DITP), avec un accompagnement de beta.gouv.fr et un financement de l'ADEME.
 
 Le service de covoiturage solidaire a été lancé en mars 2019. Au bout de 8 mois d'activité, Lotocar :
 - répondait à des demandes de trajets ponctuels et gratuits (RDV médical, entretien, courses...),
@@ -72,7 +72,7 @@ Le service de covoiturage solidaire a été lancé en mars 2019. Au bout de 8 mo
 À fin 2020, la préfecture le Lot n'a pas pu maintenir en poste la personne chargée du déploiement de Lotocar et aucun repreneur n'a été trouvé pour le service, qui semble amené à fermer, malgré un usage qui se maintient.
 
 ### Une seconde phase d'expérimentation à partir du février 2021
-Suite au transfert du produit dans l'incubateur de l'ANCT, une nouvelle équipe s'est construite pour tenter de déployer l'outil plus largement.
+Suite au transfert du produit dans l'incubateur de l'Agence nationale de la cohésion des territoires (ANCT), une nouvelle équipe s'est construite pour tenter de déployer l'outil plus largement.
 Une série d'interviews ont été réalisées auprès de différents acteurs et actrices : Régions, Communautés de Communes de moins de 50K habitants, Communes, Associations et Services de covoiturage.
 
 Deux instances ont été déployées : 
@@ -80,7 +80,7 @@ Deux instances ont été déployées :
 - dans le [Tarn](http://tarn.comobi.fr/) depuis le 22-02-2021
 
 Nous n'avons pas été en mesure de déployer davantage d'instances et de prouver un réel intérêt pour l'outil.
-En effet, l'outil ne suffit et il est nécessaire d'animer une réseau et de convaincre les personnes habitantes sur le territoire.
+En effet, l'outil numérique ne suffit pas et il est nécessaire d'animer un réseau et de convaincre les personnes habitantes sur le territoire.
 
 ### Ce que nous retenons en quelques mots 
 Avant de vous lancer, nous vous recommandons d'étudier les axes suivants :
