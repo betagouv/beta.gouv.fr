@@ -22,13 +22,13 @@ La collecte, le partage et l'utilisation de ces données restent compliqués : d
 
 ## Investigation
 
-Les différentes communautés (AITF, OSM, Gestionnaires de réseaux, IGN, etc.) bouillonent d'initiatives sur le sujet, mais pour le moment rien de pérenne ne semble se dégager.
-L'investigation doit permettre d'identifier s'il y a la place pour créer un géocommun de base de vues immersives libres à côté des solutions non libres existantes, et le cas échéant d'identifier ce qui bloque l'émergence du commun (manques à combler ou freins) pour y trouver des remèdes permettant de rassembler les énergies des différents acteurs et proposer enfin une alternative libre pour tous, sur laquelle on contruira des usages partagés.
+Les différentes communautés (AITF, OSM, Gestionnaires de réseaux, IGN, etc.) bouillonnent d'initiatives sur le sujet, mais pour le moment rien de pérenne ne semble se dégager.
+L'investigation doit permettre d'identifier s'il y a la place pour créer un géocommun de base de vues immersives libres à côté des solutions non libres existantes, et le cas échéant d'identifier ce qui bloque l'émergence du commun (manques à combler ou freins) pour y trouver des remèdes permettant de rassembler les énergies des différents acteurs et proposer enfin une alternative libre pour tous, sur laquelle on construira des usages partagés.
 
 Lors de l'investigation seront interrogées :
 * **Les collectivités** : premières utilisatrices du produit, et premières contibutrices sans doute en terme de collecte 
 * **Les développeurs** : ceux qui pourront faire vivre le projet en y adossant des nouveaux services
 * **Les communautés (OSM, AITF)** : celles qui pourront animer le commun, le faire connaître, pousser à le faire évoluer
-* **Les gestionnaires de réseau** : utilisateurs et éventuels contributeurs également
-* **Les acteurs du secteurs privés (logiciels et/ou collecte)** : ceux qui peuvent faire évoluer leurs pratiques pour faciliter la mise en place du commun ou le rendre inutile le commun.
+* **Les gestionnaires de réseaux** : utilisateurs et éventuels contributeurs également
+* **Les acteurs du secteurs privés (logiciels et/ou collecte)** : ceux qui peuvent faire évoluer leurs pratiques pour faciliter la mise en place du commun ou le rendre inutile.
 * **Autres projets** : qui pourraient proposer des nouveaux usages et aider à valoriser/faire vivre le commun
