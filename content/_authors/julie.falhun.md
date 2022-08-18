@@ -1,6 +1,6 @@
 ---
 fullname: Julie Falhun
-role: Chargéede communication 
+role: Chargée de communication 
 domaine: Déploiement
 github: Mydjuly
 missions:

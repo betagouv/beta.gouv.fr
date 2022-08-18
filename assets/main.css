@@ -218,27 +218,17 @@ ol li p, ul li p {
   color: #0053b3;
 }
 
-h2.phase-title {
-  font-weight: normal;
-}
-
-h2.phase-title em {
-  font-style: normal;
-  font-weight: bold;
-}
-
-.phase-description {
-  font-style: italic;
-  color: $darker-grey;
-}
-
 main .fr-container img {
   width: 100%;
 }
 
 .filters {
   padding: 1em 0;
-  background-color: #bfbfe3;
+  background-color: var(--background-alt-grey);
+}
+
+.filters h2 {
+  margin-bottom: 0;
 }
 
 .filters .fr-container {
@@ -250,6 +240,10 @@ main .fr-container img {
 .filters #search-input {
   grid-column: 4;
   z-index: 2;
+}
+
+.filters .fr-collapse::before {
+  content: none;
 }
 
 @media (max-width: 1200px) {
@@ -294,37 +288,6 @@ main .fr-container img {
   .filters #search-input {
     grid-column: 1;
   }
-}
-/* Résultats de recherche page /réalisations */
-
-#search-input {
-  position: relative;
-}
-
-#results-container {
-  display: none;
-  position: absolute;
-  z-index: 1;
-  top: 2em;
-  background-color: var(--grey-1000-50);
-  border: 1px solid #adb9c9;
-  max-width: 660px;
-  min-width: 35vw;
-  right: 0;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
-  padding: 0;
-}
-
-#results-container a {
-  box-shadow: none;
-}
-
-#results-container {
-  box-shadow: none;
-}
-
-#results-container a .search-result-title {
-  box-shadow: var(--is-link) 0 1px 0 0 currentColor;
 }
 
 /* Hack pour que les menus sticky restent visibles */

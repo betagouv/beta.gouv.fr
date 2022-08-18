@@ -1,6 +1,6 @@
 ---
 roles: Développeur freelance « Full-stack » Python/Django
-open: true
+open: false
 date: 2022-07-04T15:22:31.338Z
 depublication_date: 2022-10-30T16:31:58.458Z
 startup: plateforme.impact

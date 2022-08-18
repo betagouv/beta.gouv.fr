@@ -3,6 +3,7 @@ title: Mobiville
 mission: Diminuer le nombre d'emplois non pourvus en facilitant la mobilité géographique des actifs
 sponsors:
     - /organisations/pole-emploi
+    - /organisations/action-logement
 incubator: pole-emploi
 contact: mobiville@pole-emploi.fr
 phases:

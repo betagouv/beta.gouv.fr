@@ -12,6 +12,7 @@ mapping:
         - type:      str
           enum:
             - /organisations/ademe
+            - /organisations/action-logement
             - /organisations/acoss
             - /organisations/agence-bio
             - /organisations/anah
@@ -156,13 +157,13 @@ mapping:
             - parlement
             - entreprise
             - association
-            - etablissement-scolaire 
+            - etablissement-scolaire
   "analyse_risques":
     type:      bool
   "analyse_risques_url":
     type:      str
   "dashlord_url":
-    type:      str 
+    type:      str
   "accessibility_status":
     type:      str
     enum:

@@ -5,7 +5,7 @@ domaine: Développement
 github: tyjak
 missions:
   - start: 2020-08-28
-    end: 2022-08-31
+    end: 2023-06-30
     status: service
     employer: Pôle emploi
 startups:

@@ -11,6 +11,8 @@ missions:
     employer: DINUM
 badges:
   - segur
+startups:
+  - notifications
 ---
 
 Lead dev @ Brigade

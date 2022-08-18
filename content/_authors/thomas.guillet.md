@@ -1,7 +1,7 @@
 ---
 fullname: Thomas Guillet
-role: Développeur
-domaine: Développement
+role: Co-animateur transverse et indépendant
+domaine: Animation
 github: guillett
 link: https://palya.fr/
 missions:
@@ -34,4 +34,4 @@ previously:
 badges:
   - segur
 ---
-Tout faire pour les usagers
+Tout faire pour les humain·e·s

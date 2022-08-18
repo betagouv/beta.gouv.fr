@@ -10,6 +10,7 @@ missions:
     employer: Pole emploi
 startups:
   - mes-evenements-emploi
+  - mobiville
 previously:
   - estime
 competences :
