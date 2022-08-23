@@ -81,4 +81,4 @@ Nous espérons aussi que notre outil permette à l'usager de retrouver la maîtr
 
 Vous voulez tester Carnet de bord sur votre territoire ? Vous souhaitez savoir comment opérer concrètement le service ? Nous sommes à votre disposition ! 
 
-> ### **Inscrivez-vous à une démo en cliquant ici[](https://docs.google.com/forms/d/e/1FAIpQLSc035Uma5dJYWnim8q1g97C03b19O7nusr5QBXVEeQnvTS3og/viewform?usp=sf_link)**
+> ### **Inscrivez-vous à une démo en cliquant [ici](https://docs.google.com/forms/d/e/1FAIpQLSc035Uma5dJYWnim8q1g97C03b19O7nusr5QBXVEeQnvTS3og/viewform?usp=sf_link)**
