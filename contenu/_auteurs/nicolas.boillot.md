@@ -4,7 +4,7 @@ role: UX designer
 domaine: Design
 missions:
   - start: 2021-10-26
-    end: 2022-08-31
+    end: 2022-12-31
     status: service
     employer: OCTO
 startups:
