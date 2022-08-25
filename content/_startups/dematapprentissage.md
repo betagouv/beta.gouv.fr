@@ -7,6 +7,7 @@ sponsors:
 incubator: mission-apprentissage
 link: https://celia.emploi.gouv.fr/
 repository: https://github.com/mission-apprentissage/cerfa
+contact: apprentissage@beta.gouv.fr
 stats_url: https://contrat.apprentissage.beta.gouv.fr/stats
 stats: true
 events: []
