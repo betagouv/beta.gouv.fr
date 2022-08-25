@@ -16,8 +16,8 @@ phases:
   - name: transfer
     start: 2020-07-01
     end: 2021-03-31
-  - name : sucess
-    start : 2022-07-01
+  - name: success
+    start: 2022-07-01
 usertypes:
   - etablissement-scolaire
   - etat
