@@ -1,6 +1,6 @@
 ---
 roles: Développeur(euse) Full Stack
-open: true
+open: false
 date: 2022-01-20T16:33:49.507Z
 startup: snu
 domaines:
