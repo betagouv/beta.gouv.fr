@@ -10,7 +10,7 @@ missions:
     employer: OCTO
 startups:
   - e-mjpm
-  - Domifa
+  - domifa
 competences:
   - Gestion de Produit
 ---
