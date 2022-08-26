@@ -7,5 +7,5 @@ missions:
     end: 2019-07-31
     status: independent
 startups:
-    - lotocar
+    - comobi
 ---

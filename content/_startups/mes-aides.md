@@ -112,3 +112,7 @@ De nombreux acteurs du privé se positionnent sur l'intermédiation aux prestati
 
 
 Pour toutes ces raisons (au moment de la rédaction de ce texte [mars 2020]), nous faisons le constat de l'abandon de l'approche Startup d'État.
+
+#### Reprise du simulateur Mes Aides
+
+Depuis avril 2021, le code du simulateur est réutilisé par l'équipe [Aides Jeunes](https://beta.gouv.fr/startups/aides.jeunes.html) (équipe du simulateur d'aides pour les jeunes d'1jeune1solution.gouv.fr).

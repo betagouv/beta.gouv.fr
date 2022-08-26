@@ -4,20 +4,20 @@ mission: "Faciliter la vie des personnes en insertion et de celles et ceux qui
   les accompagnent "
 sponsors:
   - /organisations/dgefp
-incubator: sgmas
+incubator: gip-inclusion
 link: https://carnet-de-bord.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/carnet-de-bord
 contact: contact.carnet-de-bord@fabrique.social.gouv.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/url/carnet-de-bord-fabrique-social-gouv-fr/
 analyse_risques: true
+analyse_risques_url: https://pad.incubateur.net/s/e1H5QYiQ9
 accessibility_status: non conforme
 usertypes:
   - particulier
   - collectivite-territoriale
   - association
 stats_url: https://sites.google.com/view/deploiement-carnet-de-bord/accueil
-analyse_risques_url: https://pad.incubateur.net/s/e1H5QYiQ9
 events: []
 phases:
   - name: investigation
@@ -48,8 +48,7 @@ Développé dans le cadre du volet numérique du projet de [Service Public de l'
 **Qui sont les professionnels concernés par l'outil ?** Tous les accompagnateurs des personnes en insertion sont en mesure de bénéficier d'un accès aux carnets des usagers qu'ils accompagnent. Cela concerne tant les accompagnateurs publics (Pôle emploi, Conseils départementaux, CCAS/CIAS, missions locales, Cap emploi, etc.) que les acteurs privés de l'insertion comme, par exemple, les structures associatives déléguées pour l'accompagnement de bénéficiaires du RSA. L'accès de tous ces acteurs à l'outil a été rendu possible par un travail juridique, notamment concrétisé par l'entrée en vigueur de l'[article 168](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000045197621#:~:text=%C2%AB%20La%20personne%20dont%20les%20informations,%C3%A0%20la%20poursuite%20du%20traitement) de la loi du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale dont nous attendons la parution du décret d'application en Conseil d'État. 
 
 **Découvrez Carnet de bord en vidéo [ici](https://youtu.be/kWiOKSg1G8Y) !** 
-**Découvrez l'utilisation de carnet de bord sur le territoire [ici](Utilisation de Carnet de bord sur le territoire]**
-
+**Découvrez l'utilisation de carnet de bord sur le territoire \[ici](Utilisation de Carnet de bord sur le territoire]**
 
 ## Notre ambition
 
@@ -82,4 +81,4 @@ Nous espérons aussi que notre outil permette à l'usager de retrouver la maîtr
 
 Vous voulez tester Carnet de bord sur votre territoire ? Vous souhaitez savoir comment opérer concrètement le service ? Nous sommes à votre disposition ! 
 
-> ### **Demandez une démo en [cliquant ici ](https://1p7fjf837yx.typeform.com/to/E9ABo0TG)**
+> ### **Inscrivez-vous à une démo en cliquant [ici](https://docs.google.com/forms/d/e/1FAIpQLSc035Uma5dJYWnim8q1g97C03b19O7nusr5QBXVEeQnvTS3og/viewform?usp=sf_link)** 

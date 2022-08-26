@@ -1,16 +1,22 @@
 ---
 fullname: Delphine Raymond
-role: Coach Produit
 domaine: Coaching
-link: https://www.linkedin.com/in/delphineraymond/
+role: Coach Produit
 github: delphineray
+link: https://www.linkedin.com/in/delphineraymond/
 missions:
   - start: 2022-03-28
-    end: 2022-06-28
+    end: 2022-12-30
     status: independent
     employer: Ground
+incubator: mtes
+startups:
+  - cadransolaire
+  - potentiel
 badges:
   - segur
+competences:
+  - Gestion de Produit
+  - Coaching
 ---
-
-Coach produit @ La Fabrique Numérique MTE
+Coach produit @La Fabrique Numérique MTE

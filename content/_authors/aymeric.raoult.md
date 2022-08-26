@@ -5,7 +5,7 @@ role: Coach
 github: AymericRlt
 missions:
   - start: 2021-01-04
-    end: 2022-06-27
+    end: 2022-11-30
     status: independent
 startups:
   - non-recours-spie

@@ -1,7 +1,7 @@
 ---
 fullname: Thomas Guillet
-role: Développeur
-domaine: Développement
+role: Co-animateur transverse et indépendant
+domaine: Animation
 github: guillett
 link: https://palya.fr/
 missions:
@@ -20,12 +20,13 @@ missions:
     end: 2021-11-30
     status: independent
   - start: 2021-12-01
-    end: 2022-07-01
+    end: 2022-12-31
     status: independent
     employer: Codeurs en Liberté
 startups:
   - aides.jeunes
   - lapins
+  - data-inclusion
 previously:
   - mes-aides
   - voir-et-localiser
@@ -33,4 +34,4 @@ previously:
 badges:
   - segur
 ---
-Tout faire pour les usagers
+Tout faire pour les humain·e·s

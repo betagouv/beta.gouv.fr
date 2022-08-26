@@ -8,7 +8,9 @@ contact: yohan.boniface@anct.gouv.fr
 contrat: indépendent
 date: 2022-04-19
 externalUrl: https://incubateur.anct.gouv.fr/recrutement/dev-sit
-open: true
+open: false
+domaines:
+  - Développement
 ---
 
 ## Qui sommes nous : l'Incubateur des Territoires

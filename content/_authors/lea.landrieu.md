@@ -5,9 +5,9 @@ domaine: Déploiement
 github: lealandrieu
 missions:
   - start: 2019-09-05
-    end: 2022-09-30
+    end: 2023-03-29
     status: independent
-    employer: octo
+    employer: malt
 startups:
     - aides-territoires
 ---

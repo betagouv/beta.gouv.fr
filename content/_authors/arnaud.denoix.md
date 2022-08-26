@@ -5,18 +5,18 @@ role: Co-animateur du programme beta.gouv.fr
 github: adenoix
 missions:
   - start: 2018-12-07
-    end: 2022-12-31
+    end: 2025-06-30
     employer: dinum
     status: admin
 startups:
   - itou
   - data.insertion
-  - aides.jeunes
   - dora
   - data-inclusion
 previously:
   - avril
   - la-bonne-formation
+  - aides.jeunes
 badges:
   - segur
 competences:

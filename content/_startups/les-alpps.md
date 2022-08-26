@@ -9,12 +9,14 @@ phases:
     start: 2019-08-01
   - name: construction
     start: 2019-08-01
+  - name: success
+    start: 2021-06-01
 usertypes:
   - etat
 link:
 repository:
 stats: false
-contact: romain.perroud@def.gouv.fr
+contact: linna.taing@beta.gouv.fr
 ---
 
 ## Contexte
@@ -34,7 +36,7 @@ Pour éviter la multiplication des outils, l'EMHM a souhaité un outil unique su
 * Simplifier la création et le processus des FACM afin d'optimiser la réactivité des viseurs et signataires et les délais de traitement
 * Maximiser le taux de couverture par FACM pour les sorties en montagne
 * Gérer des stages et évaluer des stagiaires selon des critères de compétences données
-* Avoir une application accessible via le Milistore
+* Disposer d'une application accessible via le Milistore
 
 
 ## Chronologie
@@ -58,4 +60,4 @@ __Étape 8__ (décembre) : livraison PMV
 
 ## Résultats
 Une application mobile Les Alpps
-Un site Back office
+Une interface web pour le back office

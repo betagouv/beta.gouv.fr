@@ -2,13 +2,15 @@
 fullname: Alexandre Cantin
 role: Développeur
 domaine: Développement
+github: AlexandreCantin
 missions:
-  - start: 2017-09-18
-    end: 2021-06-30
-    status: admin
-    employer: pole-emploi
+  - start: 2022-07-04
+    end: 2022-10-31
+    status: independent
+    employer: Octo
 avatar: /img/authors/alexandre.cantin.jpg
 startups:
+  - dora
 previously: 
   - la-bonne-boite
 ---

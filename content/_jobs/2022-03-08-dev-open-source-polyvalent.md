@@ -1,8 +1,10 @@
 ---
 roles: un·e accompagnant·e dev open source senior
-open: true
+open: false
 date: 2022-03-08T00:00:00.000Z
 startup: Incubateur des Territoires
+domaines:
+  - Développement
 ---
 
 L'Incubateur des Territoires recherche un·e développeu·se·r à fortes appétences pour accompagner des projets au passage à l'open source.

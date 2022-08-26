@@ -4,14 +4,14 @@ title: La formation Alpha
 permalink: /approche/formation
   
 # Dates de la prochaine formation
-alpha-start: 2022-06-23
-alpha-end: 2022-06-23
-alpha-time: de 9h15 à 17h30
-alpha-location: en présentiel à Paris (lieu à confirmer)
+alpha-start: 
+alpha-end: 
+alpha-time: 
+alpha-location: 
 alpha-location-link:
 alpha-catering:
 alpha-more:
-alpha-link: https://startupdetat.typeform.com/to/KZSGZPr3
+alpha-link: https://startupdetat.typeform.com/to/AUirV2B8
 verbatims:
   - text: “J’ai appris beaucoup ! À commencer par une méthode pratique, des outils concrets pour enclencher une action, agir sur un problème a priori insurmontable, mais qui le devient grâce au "petit pas" qui devient grand.”
     name: participant.e anonyme
@@ -26,9 +26,9 @@ verbatims:
     name: participant.e anonyme
     job: 
 metrics:
-  - value: 28
+  - value: 34
     text: sessions réalisées
-  - value: 595
+  - value: 732
     text: agents formés
   - value: 4,4/ 5
     text: de satisfaction des participants
@@ -44,10 +44,10 @@ images:
 
 <br>
 
-**La prochaine session aura lieu le jeudi 23 juin 2022. En présentiel à Paris (lieu à confirmer)**
+**Aucune date programmée pour le moment**
 <br>
 <br>
-<a id="inscription-alpha" href="https://startupdetat.typeform.com/to/KZSGZPr3" class="fr-btn">Je m'inscris</a>
+<a id="inscription-alpha" href="https://startupdetat.typeform.com/to/AUirV2B8" class="fr-btn">Je souhaite participer à une prochaine session</a>
 <br>
 <br>
 Vous êtes un agent public et vous souhaitez découvrir la méthode Beta.gouv ? Vous êtes agent public et vous avez identifié un problème à résoudre au sein de vos services ? **La formation Alpha est faite pour vous !**
@@ -88,7 +88,7 @@ Pause 10'
 ---  Fin à 17h30  ---
 
 <br>
-<a id="inscription-alpha-2" href="https://startupdetat.typeform.com/to/KZSGZPr3" class="fr-btn">Je m'inscris</a>
+<a id="inscription-alpha-2" href="https://startupdetat.typeform.com/to/AUirV2B8" class="fr-btn">Je souhaite participer à une prochaine session</a>
 <br>
 <br>
 Pour plus d’information écrivez nous à <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.

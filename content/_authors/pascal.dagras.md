@@ -5,11 +5,11 @@ role: Intrapreneur
 link: https://www.linkedin.com/in/pascal-dagras-b5052169/
 missions:
   - start: 2021-07-12
-    end: 2022-06-30
+    end: 2023-12-31
     status: admin
     employer: CGDD
 startups:
-  - wikicarbone
+  - ecobalyse
 badges:
   - segur
 competences:

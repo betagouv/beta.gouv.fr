@@ -4,12 +4,11 @@ social:
   icon: twitter
   url: https://www.twitter.com/betagouv
 -
-  icon: linkedin
+  icon: linkedin-box
   url: https://www.linkedin.com/company/betagouv/
 -
   icon: github
   url: https://www.github.com/betagouv
--
 
 links:
 -
@@ -27,8 +26,8 @@ links:
     -
       label: Nous contacter
       target: _pages/contact.md
-    - 
-      label: Présentation de référence
+    -
+      label: Télécharger la présentation de référence (PDF - 1,8 Mo)
       url: https://beta.gouv.fr/content/docs/betagouv_presentation.pdf
 -
     label:

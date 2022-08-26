@@ -11,7 +11,7 @@ redirect_from:
 
 Le Fonds d’accélération des Startups d’État et de Territoire (FAST) est un **programme d’accélération** proposé par beta.gouv.fr aux produits numériques conçus selon l'approche Startups d'État qui souhaitent bénéficier du soutien de la Direction interministérielle du numérique (DINUM) pour augmenter leur impact et leur qualité de service. 
 
-Ce programme est structuré autour d’un **cofinancement** de la Startup d'État à hauteur de 50% sur l'année et d’un **accompagnement opérationnel et stratégique** par une équipe d’experts de beta.gouv.fr. L’[appel à candidatures](https://www.demarches-simplifiees.fr/commencer/fast2022) est ouvert toute l’année. Les dossiers de candidature sont relevés au fil de l’eau et font l’objet d’une réponse sous 6 semaines maximum.
+Ce programme est structuré autour d’un **cofinancement** de la Startup d'État à hauteur de 50% sur l'année et d’un **accompagnement opérationnel et stratégique** par une équipe d’experts de beta.gouv.fr. L’[appel à candidatures](https://www.demarches-simplifiees.fr/commencer/fast2022) est ouvert toute l’année. Un comité d'investissement se réunit 2 fois par an pour décider de l'attribution du FAST après analyse des candiditatures. Le prochain comité aura lieu à l'automne 2022.
 
 ## Conditions d'éligibilité
 Pour être éligible au programme d'accélération du FAST, le service publique numérique doit remplir à minima les conditions ci-dessous :
@@ -42,7 +42,7 @@ Le programme s'adresse aux Startups d'Etat qui sont prêtes à accélérer (fin 
 Une [convention de partenariat](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/) sera établie avec l’administration pour définir le cadre d’utilisation des financements et les engagements des partenaires. Une partie du cofinancement FAST sera utilisé sur le marché "coaching" de la DINUM pour l'accompagnement de la Startup d'État dans son accélération. Le reste du cofinancement pourra être utilisé pour des actions de déploiement, de développement ou de design du service numérique.
 
 ### Séminaire de lancement du programme d'accélération (2 à 3 jours)
-Lors du séminaire de lancement FAST, les experts de la DINUM se réunissnt avec toute l'équipe du produit lauréat pour rencontrer l'équipe et fournir un audit "stratégie de déploiement", "mesure de l'impact" et "qualité produit". L’objectif du séminaire est que l’équipe ressorte avec un plan d’accélération (ex : tester de nouveaux canaux de diffusion, explorer de nouveaux usages) et de montée en qualité (ex : accessibilité, transparence) sur les prochains mois et des ressources sur lesquelles s’appuyer. Le plan est fortement corrélé à l’état d'avancement du produit numérique. 
+Lors du séminaire de lancement FAST, les experts de la DINUM se réunissent avec toute l'équipe du produit lauréat pour rencontrer l'équipe et fournir un audit "stratégie de déploiement", "mesure de l'impact" et "qualité produit". L’objectif du séminaire est que l’équipe ressorte avec un plan d’accélération (ex : tester de nouveaux canaux de diffusion, explorer de nouveaux usages) et de montée en qualité (ex : accessibilité, transparence) sur les prochains mois et des ressources sur lesquelles s’appuyer. Le plan est fortement corrélé à l’état d'avancement du produit numérique. 
 
 ### Accompagnement de l'équipe (4 à 8 mois)
 Pendant 4 à 8 mois selon les besoins et l'état d'avancement du produit numérique lauréat du FAST, les experts de beta.gouv.fr accompagnent l'équipe selon le plan d'accélération et de montée en qualité défini au séminaire de lancement. Cette phase nécessite un fort engagement de disponibilité de l'équipe du produit lauréat. 
@@ -65,12 +65,11 @@ A titre d’exemple, voici quelques produits qui ont bénéficié du programme d
 ## Candidater au programme d'accélération FAST !
 
 ### Candidatures pour les produits numériques
-La candidature se fait via [ce formulaire](https://www.demarches-simplifiees.fr/commencer/fast2022) à n’importe quel moment de l’année 2022. L’équipe en charge du FAST effectue une présélection sur dossier au fil de l’eau, en fonction de l'éligibilité de votre dossier. Si votre candidature est préselectionnée, vous présentez votre service devant un **comité d’investissement FAST** qui statuera sur votre dossier.
+La candidature se fait via [ce formulaire](https://www.demarches-simplifiees.fr/commencer/fast2022). L’équipe en charge du FAST effectue une présélection sur dossier au fil de l’eau, en fonction de l'éligibilité de votre dossier. Si votre candidature est préselectionnée, vous présentez votre service devant un **comité d’investissement FAST** qui se réunit 2 fois par an et statuera sur votre dossier.
 
 ### Candidatures pour le lancement d'incubateurs de Startups d'Etat 
 Depuis l'année 2020, beta.gouv.fr apporte un soutien financier jusqu'à 200 000 € aux administrations qui souhaitent lancer une structure de type "incubateur" afin de lancer des Startups d'Etat. Les administrations candidates seront invitées à présenter leur projet au comité d'investissement FAST. Pour en savoir plus, contactez l'équipe à fast@beta.gouv.fr. Les financements obtenus doivent être consacrés pour le lancement des premiers produits de l'incubateur conçus selon l'approche Startup d'Etat ou leur accompagnement par beta.gouv.fr. 
 
 ### Des questions avant de candidater ?
 Si vous avez d’autres questions, vous pouvez envoyer un mail à l’équipe beta.gouv.fr à l’adresse [fast@beta.gouv.fr](mailto:fast@beta.gouv.fr)
-
 

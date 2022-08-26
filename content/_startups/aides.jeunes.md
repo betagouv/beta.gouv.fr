@@ -1,6 +1,6 @@
 ---
 mission: "Faciliter le recours aux aides par les jeunes qui en ont le plus besoin "
-incubator: dinum
+incubator: sgmas
 repository: https://github.com/betagouv/aides-jeunes
 contact: aides-jeunes@beta.gouv.fr
 accessibility_status: non conforme
@@ -15,6 +15,7 @@ dashlord_url: https://dashlord.incubateur.net/url/mes-aides-1jeune1solution-beta
 phases:
   - name: construction
     start: 2021-03-15
+budget_url: https://beta-gouv-fr-budget.netlify.app/?budget=800000&date=2022-07-13&start=2021-03-15&startup=Aides+Jeunes&startupId=aides.jeunes
 ---
 ## Problème
 

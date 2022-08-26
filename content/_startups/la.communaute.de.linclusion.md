@@ -4,7 +4,7 @@ mission: Faciliter les échanges entre acteurs de l’inclusion
 sponsors:
   - /organisations/mtei
   - /organisations/dgefp
-incubator: dinum
+incubator: gip-inclusion
 stats: true
 link: https://communaute.inclusion.beta.gouv.fr/
 repository: http://github.com/betagouv/itou

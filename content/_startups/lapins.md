@@ -1,9 +1,23 @@
 ---
+mission: Réduire le nombre de rendez-vous annulés dans les maisons
+  départementales de solidarité
+incubator: anct
+repository: https://github.com/betagouv/rdv-solidarites.fr
+contact: contact@rdv-solidarites.fr
+analyse_risques: false
+accessibility_status: non conforme
+usertypes:
+  - collectivite-territoriale
+  - particulier
+  - association
+stats_url: https://www.rdv-solidarites.fr/stats/
 title: RDV Solidarités
-mission: Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité
 sponsors:
   - /organisations/anct
-incubator: anct
+link: https://www.rdv-solidarites.fr
+stats: true
+budget_url: https://pad.incubateur.net/s/qeT5bzHUM#RDV-Solidarit%C3%A9s
+dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
 phases:
   - name: investigation
     start: 2018-01-18
@@ -11,42 +25,48 @@ phases:
     start: 2018-01-18
   - name: acceleration
     start: 2019-04-01
-link: https://www.rdv-solidarites.fr
-repository: https://github.com/betagouv/rdv-solidarites.fr
-stats: true
-stats_url: https://www.rdv-solidarites.fr/stats/
-contact: contact@rdv-solidarites.fr
-usertypes:
-  - collectivite-territoriale
-  - particulier
-  - association
-dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
-analyse_risques: false
-accessibility_status: non conforme
 ---
 
-## Des milliers de lapins dans les Maisons départementales de solidarité !
+### Des milliers de lapins dans les Maisons Départementales de Solidarités ! 🔎
 
-Chaque année, des dizaines de milliers de rendez-vous sont pris dans les maisons départementales de solidarité (MDS). Selon nos estimations réalisées dans plusieurs départements, près de 20 % en moyenne ne sont ni honorés, ni excusés : ce sont des lapins. À ces lapins s'ajoutent des rendez-vous annulés et non remplacés, portant la moyenne des rendez-vous vacants à près de 25%.
+Chaque année, des dizaines de milliers de rendez-vous sont pris dans les Maisons Départementales de Solidarités. Selon nos estimations réalisées dans plusieurs départements, près de 20 % en moyenne ne sont ni honorés, ni excusés : ce sont des lapins. À ces lapins s’ajoutent des rendez-vous annulés et non remplacés, portant la moyenne des rendez-vous vacants à près de 25%.
 
-Le projet est né dans le Pas-de-Calais, sur proposition de deux travailleuses médico-sociales devenues intrapreneuses du projet. Pendant un an, l'équipe a cherché à caractériser le problème et ses causes et à expérimenter des solutions. Elle a trouvé les moyens de réduire le taux de lapins à un niveau inférieur à 5% sur les zones pilotes. 
+Face à ce constat, deux travailleuses médico-sociales du Pas-De-Calais sont devenues, en 2019, intrapreneuses du projet. Une **phase d'investigation** s'est lancée afin de définir les problèmes et de déterminer les opportunités d'une solution numérique. 
 
-Les conditions de la prise de rendez-vous sont déterminantes. Aujourd'hui, les rendez-vous sont pris par téléphone ou physiquement et les annulations faites par téléphone. Les créneaux sont souvent imposés aux usagers. Les délais d'attente peuvent être importants, ce qui favorise l'oubli. Il y a rarement de confirmation avant la date de rendez-vous et pas de conséquences pour l’usager qui pose un lapin.
+### Une solution numérique pour faciliter la gestion des rendez-vous ⚙️ 
 
-Les activités de la Protection Maternelle et Infantile (PMI) et d'accueil social sont particulièrement concernées. Ces lapins ont un coût financier substantiel et un coût social, avec l’allongement de délais de prise de rendez-vous, des conséquences sur les situations individuelles de personnes fragiles et des impacts négatifs sur les agents.
+Après l'investigation, l’équipe s'est engagée dans une **phase de construction**. L'objectif était de caractériser le problème et d'expérimenter des solutions.
 
-Les solutions trouvées pour le Pas-de-Calais ont vocation à être étendues, enrichies et partagées avec d'autres départements. Une rapide étude a confirmé l'existence de cette situation  dans un nombre considérable de départements. 
+Pour intensifier l'expérimentation, un consortium de départements s'est formé. Les départements du consoritum participent activement à l'amélioration du produit. Ils s'engagent à déployer RDV-Solidarités dans leurs services et s'inscrivent dans une démarche de retour terrain en continue. 
 
-En avril 2019, 12 collectivités départementales se sont associées pour former un consortium soutenu par la DINUM, créer une plateforme commune et partager les bonnes pratiques. 
+Aujourd'hui, RDV-Solidarités permet de : 
 
-## Une solution numérique pour faciliter la prise, l’annulation et le remplacement de rendez-vous
+- ✅ Réduire l’absentéisme grâce aux rappels sms et mail automatiques aux usagers.
+- ✅ Faciliter la gestion des agents par la saisie unique des informations. 
+- ✅ Accélérer le parcours des usagers par le partage des créneaux disponibles entre les services du territoire. 
+- ✅ Libérer du temps aux agents et leur permettre de l’utiliser pour des tâches à plus forte valeur ajoutée.
 
-Une application permettra de fluidifier la prise de rendez-vous. Elle devra permettre la simplification du travail d'organisation et de suivi par les agents. Cinq moyens de base sont identifiés : la saisie unique des informations de l'usager, l'usage d'agendas partagés,  des rappels automatiques par email et SMS. Dans certains cas, les usagers pourront prendre rendez-vous en ligne et modifier ou annuler leur rendez-vous en autonomie. Des files d'attente pour prévenir automatiquement les usagers de créneaux rendus disponibles seront alors mis en place. 
+Le consortium est composé de 11 départements. En ce moment, 6 autres départements sont en phase d'exploration pour rejoindre le consortium.
 
-## Une démarche progressive de co-construction avec les utilisateurs
+![Sans titre - 1](https://user-images.githubusercontent.com/100694638/168599530-97f102b2-a3c0-4d3f-8724-dcc6d232006d.png)
 
-Une organisation projet est mise en place à plusieurs niveaux : une équipe de développement, des référents dans chaque départements, des correspondants dans chaque MDS et des utilisateurs volontaires pour la phase de construction du produit.
 
-Chaque département partenaire identifie une ou plusieurs maisons pilotes. Nos relais sont en priorité les travailleurs des MDS : assistants sociaux, infirmières puéricultrices, médecins de PMI et fonctions support (secrétariat, accueil téléphonique). Nous les interrogeons directement, pour construire avec eux une solution adaptée à leurs usages. Ils testent en continu la solution proposée. 
+### Une solution numérique utile dans d'autres contextes ? 🔭
 
-La démarche est conçue comme progressive. Nous adresserons les enjeux de chaque service, en commençant par la PMI et l'accueil social. Le déploiement de la solution suivra ensuite deux axes : l'extension aux autres services de chaque maison (aide sociale à l'enfance, RSA, etc.) et l'élargissement géographique aux autres maisons du département. 
+L'équipe est aujourd'hui dans une **phase d'accélération**. L'objectif est double. Il s'agit d'intensifier le déploiement auprès des Maisons Départementales de Solidarités et d'explorer de nouvelles opportunités dans d'autres cas d'usage. 
+
+Deux cas d'usage complémentaires sont aujourd'hui en cours de déploiement.
+
+- 📌 Auprès de [RDV-Insertion](https://beta.gouv.fr/startups/data.insertion.html)
+- 📌 Auprès des [Conseillers Numériques](https://beta.gouv.fr/startups/conseiller-numerique.html)
+
+
+D'autres cas d'usage sont en cours d'exploration : 
+
+
+- 🧪 Au sein des [Maisons France Services](https://www.cohesion-territoires.gouv.fr/france-services) (dans le Calvados)
+- 🧪 Au sein des communes habilitées aux demandes de [Titre d'Identité](https://passeport.ants.gouv.fr/services/geolocaliser-une-mairie-habilitee) (dans les Côtes-d'Armor) 
+- 🧪 Au sein des structures habilitées à la distribution des [Pass Numériques](https://agence-cohesion-territoires.gouv.fr/pass-numerique-116) (dans le Lot-Et-Garonne)
+- 🧪 Dans le secteur de l'Insertion Professionnelle (dans l'EPCI Grand-Paris-Sud)
+
+

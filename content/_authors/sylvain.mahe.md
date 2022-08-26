@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - article.40
+  - infoparquet
 competences:
   - Développement Backend
   - Développement Frontend

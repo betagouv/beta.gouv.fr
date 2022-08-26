@@ -4,7 +4,7 @@ domaine: Déploiement
 role: Chargé de déploiement
 missions:
   - start: 2020-09-01
-    end: 2022-06-30
+    end: 2022-09-09
     status: admin
     employer: MTES-MCT
 startups:

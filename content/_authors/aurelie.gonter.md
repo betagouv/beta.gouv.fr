@@ -9,7 +9,6 @@ missions:
     employer: Octo
 startups:
   - dora
-  - data-inclusion
 competences:
   - Gestion de Produit
 ---

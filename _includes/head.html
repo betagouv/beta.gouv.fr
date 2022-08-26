@@ -8,7 +8,7 @@
     {% if page.robots %}
       <meta name="robots" content="{{page.robots}}" />
     {% endif %}
-    
+
     {% assign description = page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
     <meta name="description" content="{{ description }}">
     <meta property="og:description" content="{{ description }}">
@@ -49,9 +49,8 @@
     {% endif %}
 
     <link rel="stylesheet" type="text/css" href="/assets/main.css">
-    <link rel="stylesheet" type="text/css" href="/assets/gouvfr/css/dsfr.min.css">
-    <link rel="stylesheet" type="text/css" href="/assets/remixicon/fonts/remixicon.css">
-
+    <link rel="stylesheet" type="text/css" href="/assets/gouvfr/dsfr.min.css">
+    <link rel="stylesheet" type="text/css" href="/assets/gouvfr/utility/utility.min.css">
     {% for file in page.additional_css %}
       <link rel="stylesheet" type="text/css" href="{% if file contains '://' %}{{ file }}{% else %}/assets/additional/style/{{ file }}{% endif %}">
     {% endfor %}
@@ -72,6 +71,8 @@
     {% capture twitterImagePath %}{% if page.image %}{{page.image}}{% else %}{{ site.url }}/img/logo_twitter_image-2019.jpg{% endif %}{% endcapture %}
     <meta name="twitter:image" content="{{ twitterImagePath }}">
 
+  {% if jekyll.environment == "production" %}
     {% include analytics.html %}
+  {% endif %}
 
 </head>

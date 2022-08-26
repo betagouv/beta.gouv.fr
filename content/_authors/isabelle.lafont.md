@@ -5,7 +5,7 @@ domaine: Développement
 github: isalafont
 missions:
   - start: 2022-05-09
-    end: 2022-07-09
+    end: 2023-07-10
     status: independent
     employer: DINUM
 startups:

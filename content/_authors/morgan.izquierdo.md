@@ -9,7 +9,7 @@ missions:
     status: service
     employer: IPPON
 startups:
-  - article.40
+  - infoparquet
 previously:
   - rdv.consulat
 competences:

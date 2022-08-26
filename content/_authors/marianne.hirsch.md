@@ -5,7 +5,7 @@ role: Designer transverse à l'Incubateur des Territoires
 avatar: null
 missions:
   - start: 2021-02-22
-    end: 2022-08-22
+    end: 2023-02-22
     status: independent
     employer: NUMA
 competences:

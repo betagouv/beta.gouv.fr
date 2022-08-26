@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.akprocess.net/
 missions:
   - start: 2022-02-21
-    end: 2022-08-21
+    end: 2023-02-21
     status: independent
     employer: Path Tech 
 startups:

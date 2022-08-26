@@ -11,8 +11,9 @@ missions:
     employer: Omnicité
 startups:
   - signalement
+  - reva
 badges:
   - segur
 ---
 
-Coach agile le jour, jardinier la nuit.
+Coach agile : passionné par les produits, la tech, la data, les gens...

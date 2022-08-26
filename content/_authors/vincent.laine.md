@@ -10,11 +10,12 @@ missions:
     status: independent
     employer: Codeurs en Liberté
   - start: 2020-03-01
-    end: 2022-06-30
+    end: 2022-09-30
     status: independent
     employer: OCTO
 startups:
   - usine-chatbots
+  - airvam
 previously:
   - preuve-de-covoiturage
 competences:

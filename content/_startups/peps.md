@@ -68,5 +68,7 @@ Nous avons cherché à valider la proposition de valeur présentée plus haut c�
 
 ### Transfert et pérennisation sous le nom "RexAgri"
 
-Fin 2020, après une analyse des résultats du service, le service Peps sort d'incubation au sein de l'incubateur de la Direction interministérielle du numérique. En 2021, après une recherche de repreneur, le service a été pérennisé au sein d'une association sélectionnée par les ministères de la Transition écologique et de l'Agriculture : Pour une Agriculture du Vivant (PADV).
+Fin 2020, après une analyse des résultats du service (4300 visites entre juin et décembre 2020, 189 retours d'expérience publiés, 13 messages échangés entre agriculteurs sur le site), le service Peps sort d'incubation au sein de l'incubateur de la Direction interministérielle du numérique. En 2021, après une recherche de repreneur, le service a été pérennisé au sein d'une association sélectionnée par les ministères de la Transition écologique et de l'Agriculture : Pour une Agriculture du Vivant (PADV).
+
+Le service est à présent disponible à l'URL : https://agroecologie.org/retour-experience
 
