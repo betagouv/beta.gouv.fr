@@ -41,6 +41,8 @@ La Fabrique Numérique offre **un contexte de développement spécifique** perme
 
 La Fabrique Numérique met à votre disposition ses **équipes de support `OPS` et `SRE`** afin de vous accompagner dans la mise en œuvre de vos travaux.
 
+Pour découvrir l'environnement technique de la Fabrique Numérique, n'hésitez pas à consulter notre documentation conernant [nos standards de développement](https://socialgouv.github.io/support/#/./developpement).
+
 ## Le Produit Numérique: DomiFa
 
 **DomiFa** est une application web, principalement développée en **TypeScript**, composée d'un front-end en **Angular** (v13) et d'un backend basé sur **NestJS** (v9) se reposant sur une base de données **PostgreSQL** (v11).
