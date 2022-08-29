@@ -32,11 +32,11 @@ usertypes:
   - particulier
 ---
 
-***Quels sont les impacts sur la planète des biens et services produits par les entreprises ?***
+***Quels sont les impacts sur la planète des biens et services produits par les entreprises&nbsp;?***
 
 ## Objectifs
 
-Écobalyse — anciennement *Wikicarbone* — **doit permettre aux fabricants de comprendre et de calculer l’impact des biens** qu’ils distribuent en France. 
+Écobalyse — anciennement&nbsp;*Wikicarbone*&nbsp;— **doit permettre aux fabricants de comprendre et de calculer l’impact des biens** qu’ils distribuent en France. 
 
 Le Textile et l’Alimentaire sont les premiers secteurs à bénéficier de ces travaux.
 
@@ -56,16 +56,16 @@ Aujourd’hui, calculer les impacts environnementaux d’un produit est un proce
 
 Avec Écobalyse, les entreprises et professionnels du secteur bénéficieront d’un **outil pédagogique gratuit permettant de calculer facilement leurs impacts et ainsi d’amorcer leur transition vers des modèles de production plus durables**.
 
-Les calculs réalisés avec Écobalyse apporteront aux entreprises un éclairage sur l’impact de leurs produits : 
+Les calculs réalisés avec Écobalyse apporteront aux entreprises un éclairage sur l’impact de leurs produits&nbsp;: 
 
 - Impact global sur l’environnement selon un score agrégé (sur la base du score PEF européen)
 - Impact spécifique sur le changement climatique, l’utilisation des ressources, la biodiversité, etc…
-- Poids de chaque étape du cycle de vie selon des critères simples : pays de réalisation des différentes étapes de production, choix des ingrédients ou matières, procédés industriels…
+- Poids de chaque étape du cycle de vie selon des critères simples&nbsp;: pays de réalisation des différentes étapes de production, choix des ingrédients ou matières, procédés industriels…
 
 ## Démarche
 
-**Les marques et leurs fournisseurs connaissent leurs produits : leur contribution est nécessaire pour comprendre et évaluer au mieux les impacts.** 
+**Les marques et leurs fournisseurs connaissent leurs produits&nbsp;: leur contribution est nécessaire pour comprendre et évaluer au mieux les impacts.** 
 
-Écobalyse vise dans un premier temps à faire émerger des valeurs de référence utilisées dans le calcul de l’impact environnemental à partir de critères simples : ingrédients et matières, pays d’origine, labels et procédés de production… 
+Écobalyse vise dans un premier temps à faire émerger des valeurs de référence utilisées dans le calcul de l’impact environnemental à partir de critères simples&nbsp;: ingrédients et matières, pays d’origine, labels et procédés de production… 
 
 Ces valeurs de référence doivent être débattues et confrontées à des évaluations précises pour en apprécier l’intérêt. Les règles de calculs expérimentées dans Écobalyse serviront à éclairer la définition d’une méthode réglementaire, qui sera fixée par décret courant 2023 pour le textile et l’alimentaire.
