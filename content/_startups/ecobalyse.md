@@ -32,20 +32,40 @@ usertypes:
   - particulier
 ---
 
+***Quels sont les impacts sur la planète des biens et services produits par les entreprises ?***
+
+## Objectifs
+
+Écobalyse — anciennement *Wikicarbone* — **doit permettre aux fabricants de comprendre et de calculer l’impact des biens** qu’ils distribuent en France. 
+
+Le Textile et l’Alimentaire sont les premiers secteurs à bénéficier de ces travaux.
+
 ## Contexte
 
-**Quels sont les impacts de nos achats sur la planète ? Ecobalyse — anciennement *Wikicarbone* — est un outil pour comprendre, contribuer et faire émerger des valeurs de référence.**
+74% des Français aimeraient avoir plus d’informations sur l’impact environnemental et sociétal des produits qu’ils achètent ([14ème baromètre de la consommation responsable Greenflex et ADEME - 2021](https://presse.ademe.fr/wp-content/uploads/2021/05/CP-Barometre-de-la-consommation-responsable-Version-Finale.pdf)). 
 
-**74%** des Français aimeraient avoir plus d’informations sur l’impact environnemental et sociétal des produits qu’ils achètent ([14ème baromètre de la consommation responsable Greenflex et ADEME - 2021](https://presse.ademe.fr/wp-content/uploads/2021/05/CP-Barometre-de-la-consommation-responsable-Version-Finale.pdf)). Répondant à cette demande, la loi Climat et Résilience rend obligatoire l'affichage environnemental ([article 2 loi climat](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043957692?init=true&page=1&query=loi+climat+et+r%C3%A9silience&searchField=ALL&tab_selection=all)). La mise en œuvre de cette nouvelle obligation va prendre du temps et nécessite un travail collectif.
+Répondant à cette demande, **la loi Climat et Résilience renforce l’ambition de rendre l’affichage environnemental obligatoire** ([article 2 loi climat](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043957692?init=true&page=1&query=loi+climat+et+r%C3%A9silience&searchField=ALL&tab_selection=all)).
 
-Ecobalyse est un projet de la Fabrique Numérique du ministère de la transition écologique, avec l'appui de beta.gouv.fr, l'incubateur des services publics numériques. Il est en phase de construction depuis le 1er juillet 2021. Dans un premier temps, les travaux se concentrent sur les filières textile et alimentaire.
+La mise en œuvre de cette nouvelle obligation va prendre du temps et nécessite un travail collectif.
 
-Ecobalyse doit être un **outil pédagogique** pour mieux comprendre les impacts environnementaux de nos produits, en s'appuyant sur les méthodes de référence (Base Impacts ADEME, PEF européen). Il doit être accessible à tous, y compris des PME/TPE voire des consommateurs curieux🔎.
+## Problème
 
-Ecobalyse doit aussi devenir un **outil collaboratif**, un **commun numérique**. Les producteurs et les entreprises textiles connaissent leurs produits. Leurs contributions sont nécessaires pour comprendre et évaluer au mieux les impacts.
+Aujourd’hui, calculer les impacts environnementaux d’un produit est un processus long et coûteux pour une entreprise, pouvant aller de quelques milliers (produit standard, ACV simplifiée) à plusieurs dizaines de milliers (produit complexe, ACV complète, collecte de données chronophage) d’euros par produit.
 
-Ecobalyse vise dans un premier temps à faire émerger des **valeurs d'impacts de référence**, à partir de critères simples : matières, pays de confection, pays de teinture… Ces valeurs ne doivent pas être regardées comme des évaluations précises d'impacts pour un produit donné. Il s'agit tout au plus de pré-évaluations, de premiers éclairages : Quel est l'ordre de grandeur ? Comment le choix de pays peut influencer l'impact ?…  Ces valeurs de référence doivent être débattues et devront ensuite être confrontées à des évaluations précises pour en apprécier l'intérêt📏. Si elles apportent bien un premier éclairage pertinent, elles seront à la disposition de tous pour informer les consommateurs, avant que chaque marque ne réalise une évaluation précise de l'impact de ses produits.
+## Bénéfices
 
-Pour les produits alimentaires, c'est sur ce modèle qu'un collectif de 8 acteurs engagés du numérique de l'alimentation ont proposé un éco-score début 2021 ([lien sur le site d'Open Food Facts](https://fr.blog.openfoodfacts.org/news/lancement-de-l-eco-score-la-note-environnementale-des-produits-alimentaires)). Les valeurs d'impacts de référence de la base [Agribalyse](https://agribalyse.ademe.fr/), développée par l'[ADEME](https://www.ademe.fr/), permettent d'approximer les impacts environnementaux de plus de 2500 produits : pizza jambon fromage, croissant, yaourt au lait de chèvre…
+Avec Écobalyse, les entreprises et professionnels du secteur bénéficieront d’un **outil pédagogique gratuit permettant de calculer facilement leurs impacts et ainsi d’amorcer leur transition vers des modèles de production plus durables**.
 
-Dans un premier temps, les travaux vont s'appuyer sur la méthodologie de référence française ([Base Impacts ADEME](https://www.base-impacts.ademe.fr/)) et se concentrent sur les impacts des produits sur le changement climatique. L'objectif est d'augmenter les informations proposées (impacts, bases de référence…) pour rendre accessible un maximum d'information et éclairer les débats.
+Les calculs réalisés avec Écobalyse apporteront aux entreprises un éclairage sur l’impact de leurs produits : 
+
+- Impact global sur l’environnement selon un score agrégé (sur la base du score PEF européen)
+- Impact spécifique sur le changement climatique, l’utilisation des ressources, la biodiversité, etc…
+- Poids de chaque étape du cycle de vie selon des critères simples : pays de réalisation des différentes étapes de production, choix des ingrédients ou matières, procédés industriels…
+
+## Démarche
+
+**Les marques et leurs fournisseurs connaissent leurs produits : leur contribution est nécessaire pour comprendre et évaluer au mieux les impacts.** 
+
+Écobalyse vise dans un premier temps à faire émerger des valeurs de référence utilisées dans le calcul de l’impact environnemental à partir de critères simples : ingrédients et matières, pays d’origine, labels et procédés de production… 
+
+Ces valeurs de référence doivent être débattues et confrontées à des évaluations précises pour en apprécier l’intérêt. Les règles de calculs expérimentées dans Écobalyse serviront à éclairer la définition d’une méthode réglementaire, qui sera fixée par décret courant 2023 pour le textile et l’alimentaire.
