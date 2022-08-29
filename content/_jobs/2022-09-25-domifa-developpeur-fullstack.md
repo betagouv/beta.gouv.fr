@@ -3,6 +3,7 @@ roles: développeur full stack
 startup: domifa
 techno: TypeScript
 open: true
+date: 2022-08-29T16:54:34.996Z
 ---
 
 # Fiche de poste DomiFa
