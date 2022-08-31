@@ -5,7 +5,7 @@ role: Coach / Développeur / PO
 github: Nabellaleen
 missions:
   - start: 2021-04-14
-    end: 2022-09-30
+    end: 2022-11-30
     status: service
     employer: Liberté Living Lab
 startups:
