@@ -1,6 +1,6 @@
 ---
 roles: Deux developpeurs.se(s) fullstack JS
-open: true
+open: false
 date: 2021-12-07T13:26:50.632Z
 startup: Mission apprentissage
 ---
