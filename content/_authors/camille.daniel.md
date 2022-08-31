@@ -1,0 +1,16 @@
+---
+fullname: Camille Daniel
+role: Développeuse
+domaine: Développement
+link: https://yaal.coop
+github: emillumine
+missions:
+  - start: 2022-09-06
+    end: 2022-12-31
+    status: service
+    employer: DGE
+startups:
+  - plateforme.impact
+---
+
+Développeuse et associée de Yaal Coop
