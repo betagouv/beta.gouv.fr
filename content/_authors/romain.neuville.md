@@ -2,7 +2,7 @@
 fullname: Romain NEUVILLE
 role: Développeur
 domaine: Développement
-github: H0list
+github: Holist
 missions:
   - start: 2022-09-01
     end: 2022-12-31
