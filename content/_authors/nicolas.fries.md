@@ -15,4 +15,6 @@ startups:
   - tchap
 previously:
   - cmachance
+badges:
+  - segur
 ---
