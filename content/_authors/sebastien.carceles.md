@@ -10,7 +10,9 @@ missions:
     status: independent
     employer: ANCT
 startups:
-  - aides-jeunes
+  - aides.jeunes
+  - lapins
+  - demarches-simplifiees.fr
 previously:
   - civils-de-la-defense
 ---
