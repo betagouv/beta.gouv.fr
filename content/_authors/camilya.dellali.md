@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: DINUM
   - start: 2021-08-31
-    end: 2022-08-31
+    end: 2023-08-31
     status: independent
     employer: Démarches-simplifiées
 startups:
