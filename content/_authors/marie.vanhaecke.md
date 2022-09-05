@@ -11,6 +11,7 @@ missions:
 startups:
   - tutorat_fp
   - talents.numeriques
+  - bourses.scolaires.md
 previously:
   - metiers-numeriques
 badges:
