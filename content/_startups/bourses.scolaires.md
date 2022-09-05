@@ -16,7 +16,6 @@ phases:
       avec solution technique
   - name: construction
     start: 2022-08-11
-    end: 2022-08-01
     comment: Prototypage du formulaire de demande de bourses à l'aide de Démarches
       simplifiées
 ---
