@@ -19,8 +19,6 @@ phases:
     comment: Prototypage du formulaire de demande de bourses à l'aide de Démarches
       simplifiées
 ---
-Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
 
 ## Contexte
 
