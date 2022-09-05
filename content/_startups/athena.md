@@ -44,7 +44,7 @@ Mettre à disposition de la communauté interministérielle un outil de référe
 
 ## Résultat
 
-Un outil facile à prendre en main par les différents agents des ministères
-Une visibilité sur la base de données et sur la fraicheur des informations publiées
-Une gestion documentaire plus simple et pratique
-Outil paramétrable facilement sans l'intervention d'un développeur (ajout d'un nouvel utilisateur, d'une nouvelle rubrique...)
+- Un outil facile à prendre en main par les différents agents des ministères
+- Une visibilité sur la base de données et sur la fraicheur des informations publiées
+- Une gestion documentaire plus simple et pratique
+- Outil paramétrable facilement sans l'intervention d'un développeur (ajout d'un nouvel utilisateur, d'une nouvelle rubrique...)
