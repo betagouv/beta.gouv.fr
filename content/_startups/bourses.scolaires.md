@@ -1,5 +1,5 @@
 ---
-title: BOurses SCOlaires
+title: Ma démarche BOSCO (Bourses Scolaires)
 mission: Améliorer l'interface « demandeur- agent traitant » d'enregistrement des
   demandes de bourses scolaires  AEFE pour diminuer le temps de traitement pour
   le demandeur et pour l'agent traitant
