@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/sarah-boudabous-b3712117a/
 missions:
   - start: 2021-10-04
-    end: 2022-10-04
+    end: 2023-10-05
     status: admin
     employer: OPCO
 startups:
