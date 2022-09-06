@@ -1,6 +1,6 @@
 ---
 roles: Dev JavaScript
-open: true
+open: false
 date: 2022-08-09
 techno: VueJS, Node.js (TypeScript)
 startup: aides.jeunes
