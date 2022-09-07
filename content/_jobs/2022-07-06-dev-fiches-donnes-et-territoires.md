@@ -1,7 +1,7 @@
 ---
 roles: Dev fullstack fiches territoriales
 title: "Données et Territoires recrute un·e Dev fullstack expérimenté·e"
-open: true
+open: false
 startup: données-et-territoires
 domaines:
   - Développement
