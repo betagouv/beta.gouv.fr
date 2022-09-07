@@ -11,6 +11,7 @@ missions:
 startups:
   - cassiopee
   - civils-de-la-defense
+  - athena
 competences:
   - Gestion de Produit
 ---
