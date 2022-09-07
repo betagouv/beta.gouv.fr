@@ -7,7 +7,7 @@ github: theolemague
 missions:
   - start: 2022-08-01
     end: 2023-01-01
-    status: service
+    status: independent
     employer: Selego
 startups:
   - api-engagement
