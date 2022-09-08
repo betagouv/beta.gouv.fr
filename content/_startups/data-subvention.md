@@ -5,6 +5,7 @@ mission: Améliorer le pilotage des subventions de l’État des associations et
 sponsors:
   - /organisations/djepva
 incubator: dinum
+link: https://datasubvention.beta.gouv.fr
 repository: https://github.com/betagouv/api-subventions-asso
 contact: contact@datasubvention.beta.gouv.fr
 usertypes:
