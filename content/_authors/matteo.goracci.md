@@ -1,7 +1,5 @@
 ---
 fullname: Matteo Goracci
-role: Stagiaire Incubateur des Territoires
-domaine: Autre
 role: Chargé de support utilisateurs
 domaine: Déploiement
 missions:
