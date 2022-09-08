@@ -54,8 +54,6 @@ Enfin, bien que l’État soutienne les associations au travers de subventions n
 
 ## **Solution en construction**
 
-La solution est en test ici : https://datasubvention.beta.gouv.fr/
-
 Pour répondre à ces enjeux, l'équipe travaille sur la mise en commun, l’échange de données et l’interopérabilité entre les différents outils et les API pour favoriser une vision plus transversale et enrichie des associations et réduire la répétition des informations et leur mise  jour.
 
 Pour cela, l'équipe collecte les données disponibles dans les différents outils de dématérialisation et les APIs existants, qu’elle croise et rend consultables via un outil interministériel. 
