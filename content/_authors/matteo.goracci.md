@@ -11,7 +11,7 @@ missions:
     employer: ANCT
   - start: 2022-09-12
     end: 2022-12-12
-    status: independant
+    status: independent
     employer: OCTO
 startups:
   - aidantsconnect
