@@ -13,6 +13,6 @@ missions:
     end: 2022-12-12
     status: independant
     employer: OCTO
- startups: Aidants Connect
+ startups: aidantsconnect
 ---
 
