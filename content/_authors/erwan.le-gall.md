@@ -8,6 +8,6 @@ missions:
     status: admin
     employer: MEAE
 startups:
- - bourses.scolaires.md
+ - bourses.scolaires
 ---
 
