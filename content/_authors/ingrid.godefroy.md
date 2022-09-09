@@ -8,6 +8,7 @@ missions:
     status: independent
     employer: Octo
 startups: 
-   - commun.orientation
+   - signalement
+   - commun.orientation 
 ---
 
