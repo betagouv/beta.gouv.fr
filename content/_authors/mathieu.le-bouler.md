@@ -5,7 +5,10 @@ domaine: Intraprenariat
 missions:
   - start: 2022-06-24
     end: 2022-11-30
-    status: admin
+    status: admin 
+startups:
+  - romin
+incubator: justice
 github: MathieuLB44
 ---
 
