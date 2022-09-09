@@ -14,7 +14,7 @@ missions:
     employer: DINUM
   - status: independent
     start: 2021-07-05
-    end: 2023-12-30
+    end: 2022-09-12
 startups:
   - itou
   - place-de-marche-inclusion
