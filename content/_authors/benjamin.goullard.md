@@ -1,6 +1,6 @@
 ---
 fullname: Benjamin  Goullard 
-role: Chargé de deploiement 
+role: Chargé de déploiement 
 domaine: Déploiement
 missions:
   - start: 2022-09-12
