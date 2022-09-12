@@ -1,5 +1,5 @@
 ---
-fullname: laurent Paturaud
+fullname: Laurent Paturaud
 role: intrapreneur
 github: laulau54
 domaine: Autre
