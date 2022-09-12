@@ -4,6 +4,8 @@ open: true
 date: 2022-09-13T12:30:00.370Z
 startup: Incubateur des Territoires
 title: Développeur.euse ”Full Stack” senior pour la Fabrique à sites
+domaines:
+  - Développement
 ---
 
 [L'Incubateur des Territoires](https://incubateur.anct.gouv.fr/) recherche un.e développeur.euse senior.
