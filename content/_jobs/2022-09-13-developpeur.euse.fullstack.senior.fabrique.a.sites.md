@@ -36,8 +36,12 @@ Vous avez une solide expérience en développement de solution SaaS et êtes fam
 - l'écosystème **open-source** et ses bonnes pratiques, Git, Github / Gitlab, Markdown… ;
 - les méthodes de développement agile et vous préférez les **solutions simples et pragmatiques**.
 
-Il pourrait aussi être intéressant d'avoir quelques notions de :
+Il pourrait aussi être intéressant d'avoir quelques notions sur les sujets suivants :
 
+- CMS et générateurs de sites statiques ;
+- Éco-conception ;
+- Accessibilité ;
+- Web sémantique ;
 - Kubernetes et Docker ;
 - Déploiement continu ;
 - GitHub Actions / Gitlab CI.
