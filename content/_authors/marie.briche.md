@@ -1,7 +1,7 @@
 ---
 fullname: Marie Briche
 domaine: Intraprenariat
-role: Intrapreneuse Avril, Chargée de projet
+role: Responsable du déploiement
 github: Marie-briche
 missions:
   - start: 2017-05-01
