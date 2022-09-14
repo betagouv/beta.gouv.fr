@@ -1,15 +1,12 @@
 ---
 title: Plateforme Ouverte du Patrimoine
-mission: Valoriser notre patrimoine culturel auprès du plus grand nombre
-incubator: dinum
+mission: Valoriser notre patrimoine culturel auprès du plus grand nombre - Seconde investigation en cours
+incubator: culture
 sponsors: 
     - /organisations/mc
 phases:
   - name: investigation
     start: 2018-04-01
-  - name: construction
-    start: 2018-04-01
-  - name: alumni
 link: https://pop.culture.gouv.fr/
 repository: https://github.com/betagouv/pop
 stats: true
@@ -17,6 +14,8 @@ contact: pop@culture.gouv.fr
 usertypes:
   - particulier
 ---
+
+### Mise à jour le 14/09/22 : En septembre 2022, après trois ans de maintenance sur le produit, le Service du Numérique du ministère de la Culture a choisi de lancer une seconde investigation sur POP, avec le concours de la Médiathèque du patrimoine et de la photographie.
 
 ## Le patrimoine est l'affaire de tous : vers une Plateforme Ouverte du Patrimoine (POP)
 « Rendre accessibles au plus grand nombre les œuvres capitales de l’humanité et d’abord de la France », voilà en substance la mission du Ministère de la Culture. L’une des manières d’y parvenir a été de mettre en ligne ses bases de données dès les années 90. En donnant accès aux informations de référence produites ou collectées par ses services sur des sujets aussi variés que la peinture, les manuscrits, les monuments, l’architecture, la photographie.
