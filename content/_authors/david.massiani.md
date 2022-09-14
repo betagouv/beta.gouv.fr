@@ -1,8 +1,8 @@
 ---
 fullname: David Massiani
-role: UX Designer
+role: Product Designer
 domaine: Design
-link: https://www.resport.fr
+link: https://www.copylander.com
 github: dmassiani
 startups:
   - reva
@@ -10,7 +10,7 @@ previously:
   - avril 
 missions:
   - start: 2021-06-17
-    end: 2022-09-29
+    end: 2023-05-29
     status: independent
     employer: freelance
 ---
