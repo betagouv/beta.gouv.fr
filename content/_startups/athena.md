@@ -7,9 +7,9 @@ incubator: fabnumdef
 contact: linna.taing@beta.gouv.fr
 phases:
   - comment: ""
-    name: investigation
+    name: transfer
     start: 2021-04-01
-    end: 2021-10-13
+    end: 2022-06-01
   - name: construction
     start: 2021-10-14
 usertypes:
@@ -17,6 +17,7 @@ usertypes:
 ---
 
 ## Contexte
+- Équipe sponsorisée par le Ministère des armées et le SGDSN.
 Plusieurs versions officielles d'un document de planification de crise peuvent co-exister : des versions papiers datées d'importants amendements. 
 Le projet est initié par le Secrétariat Général de la Défense et de la Sécurité Nationale (SGDSN).
 
@@ -37,9 +38,11 @@ Mettre à disposition de la communauté interministérielle un outil de référe
 
 **Etape 1 (avril - mai 2021)** Début du projet, cadrage, entretiens avec les opérateurs des différents services, découverte du parcours utilisateurs, wireframes
 
-**Etape 2 (Octobre 2022)** Présentation des maquettes de l'outil
+**Etape 2 (octobre 2021)** Présentation des maquettes de l'outil
  
-**Etape 3 (Octobre 2022)** Développement du PMV
+**Etape 3 (octobre 2021)** Développement du PMV
+ 
+**Etape 4 (juin 2022)** Transfert d'Athena vers les équipes du SGDSN pour un passage à l'échelle
  
 
 ## Résultat
