@@ -18,6 +18,7 @@ usertypes:
 
 ## Contexte
 - Équipe sponsorisée par le Ministère des armées et le SGDSN.
+
 Plusieurs versions officielles d'un document de planification de crise peuvent co-exister : des versions papiers datées d'importants amendements. 
 Le projet est initié par le Secrétariat Général de la Défense et de la Sécurité Nationale (SGDSN).
 
