@@ -32,7 +32,7 @@ beta.gouv.fr a aussi une page stats.
       <iframe
         src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/dc69430c-3929-4ca3-9d29-f6bb9f06c037"
         frameborder="0"
-        width="800"
+        width="100%"
         height="600"
         allowtransparency
       ></iframe>
@@ -45,7 +45,7 @@ beta.gouv.fr a aussi une page stats.
       <iframe 
       src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/0e1d0920-fdd9-4d92-82cc-f8685cc063c5"
       frameborder="0"
-      width="800"
+      width="100%"
       height="600"
       allowtransparency></iframe>
     </div>
@@ -53,12 +53,12 @@ beta.gouv.fr a aussi une page stats.
       <h2>Respect des standards de qualité</h2>
       beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions sobres, ouvertes, accessibles, protectrices, sécurisées. Pour cela, beta.gouv.fr a fixé un certain nombre de standards de qualité dont certains sont suivis ci-dessous. Ces tableaux de bords permettent aux équipes qui participent à l'animation et au pilotage du réseau beta.gouv.fr de se rendre compte des trous dans la raquette et de mieux guider leurs efforts et priorités pour aider les produits qui en ont le plus besoin et améliorer ce qui peut l'être.
     </div>
-    <div class="fr-row">
+    <div class="fr-grid-row">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/df66b4b5-da83-4131-90a5-52b7c68f10e0"
             frameborder="0"
-            width="800"
+            width="100%"
             height="600"
             allowtransparency
         ></iframe>
@@ -69,7 +69,7 @@ beta.gouv.fr a aussi une page stats.
         Vous pouvez retrouver les liens des codes sources de chaque service sur chaque fiche des produits faisant partie du programme.
       </div>
     </div>
-    <div class="fr-row">
+    <div class="fr-grid-row">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         Chaque service numérique du réseau beta.gouv.fr est tenu de mesurer son usage et son impact de manière publique sur une page "Stats". Cette mesure permet d'évaluer la pertinence de chaque service, et de vérifier qu'elle apporte réellement de la valeur à ses utilisateurs et utilisatrices.
 
@@ -79,18 +79,18 @@ beta.gouv.fr a aussi une page stats.
         <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/4c8c5ab0-2ff1-4d81-abe2-115be0481e0a"
             frameborder="0"
-            width="800"
+            width="100%"
             height="600"
             allowtransparency
         ></iframe>
       </div>
     </div>
-    <div class="fr-row">
+    <div class="fr-grid-row">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/e5dbecb8-8601-4cfd-916b-faefff27eb60"
             frameborder="0"
-            width="800"
+            width="100%"
             height="600"
             allowtransparency
         ></iframe>
@@ -108,7 +108,7 @@ beta.gouv.fr a aussi une page stats.
           allowtransparency
       ></iframe>
     </div>
-    <div class="fr-row">
+    <div class="fr-grid-row">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/493930f1-f3d2-4df5-a5f8-a67d593addc5"
