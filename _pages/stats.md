@@ -129,11 +129,12 @@ beta.gouv.fr a aussi une page stats.
 beta.gouv.fr a également pour objectif de faire monter en compétences l'administration, en formant le maximum d'agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité. Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr. Pour plus de détails sur la composition actuelle de la communauté beta.gouv.fr, consultez cette page.
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
-      <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+      <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
         <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/493930f1-f3d2-4df5-a5f8-a67d593addc5"
             frameborder="0"
             allowtransparency
+            width="100%"
             height="400"
         ></iframe>
       </div>
@@ -146,6 +147,7 @@ Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la créat
       <iframe
           src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/3a9c4d96-43e6-4b82-b44d-6f99cd9ca604"
           frameborder="0"
+          width="100%"
           height="400"
           allowtransparency
       ></iframe>
@@ -156,6 +158,7 @@ Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la créat
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/39cdc836-b883-419c-8069-88b751b8ccc6"
             frameborder="0"
             height="300"
+            width="100%"
             allowtransparency
         ></iframe>
       </div>
@@ -164,6 +167,7 @@ Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la créat
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bb37a864-df62-43b9-ae42-3a097da5ddae"
             frameborder="0"
             height="300"
+            width="100%"
             allowtransparency
         ></iframe>
       </div>
