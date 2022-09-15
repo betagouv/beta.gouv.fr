@@ -12,6 +12,8 @@ additional_js:
     <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
       <h1>Suivi des objectifs du programme beta.gouv.fr</h1>
       Le programme beta.gouv.fr impose aux équipes accompagnées la publication d'une page de statistiques publique, rendant compte de l'usage et de l'impact de leur service numérique. Vous pouvez retrouver ces pages, lorsqu'elles existent, sur <a href="https://beta.gouv.fr/startups/">chaque fiche</a> des produits faisant partie du programme. Le programme beta.gouv.fr n'échappe pas à l'exercice. Vous trouverez sur cette page les indicateurs principaux de notre action, dont certains sont suivis chaque année par le Parlement lorsqu'il vote notre budget.
+      <br>
+      <br>
     </div>
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
@@ -26,6 +28,7 @@ additional_js:
       b) <b>Le service a atteint un seuil d'impact significatif</b>. Il doit pouvoir justifier, par exemple sur une une page rendant compte de ses statistiques, d’un impact significatif sur la vie de centaines de milliers voire de millions de Français.
       <br>
       c) <b>Le service continue de suivre les standards d'un service numérique de qualité</b> : les recommandations de l'<a href="https://observatoire.numerique.gouv.fr/">observatoire pour des services numériques de qualité</a> sont respectées ; une équipe continue de répondre aux utilisateurs ; le produit évolue régulièrement (il n’est pas mis au placard), avec des objectifs d'amélioration continue et de croissance de l'impact ; le maximum de ressources produites sont partagées (code source ouvert, données ouvertes, APIs, etc) ; les statistiques d’impact sont disponibles en ligne et restent suivies par l’équipe.
+      <br>
     </div>
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
@@ -78,9 +81,6 @@ additional_js:
         ></iframe>
       </div>
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-        <br>
-        <br>
-        <br>
         Conformément à la <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&type=general&legislature=14">Loi pour une République Numérique du 7 octobre 2016</a>, les codes sources de services numériques publics sont des documents administratifs communicables et réutilisables. Ils doivent donc être ouverts.
         <br/>
         Vous pouvez retrouver les liens des codes sources de chaque service sur <a href="https://beta.gouv.fr/startups/">chaque fiche</a> des produits faisant partie du programme.
@@ -89,9 +89,6 @@ additional_js:
   <br>
   <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-      <br>
-      <br>
-      <br>
         Chaque service numérique du réseau beta.gouv.fr est tenu de mesurer son usage et son impact de manière publique sur une page "Stats". Cette mesure permet d'évaluer la pertinence de chaque service, et de vérifier qu'elle apporte réellement de la valeur à ses utilisateurs et utilisatrices.
 
   Vous pouvez retrouver ces pages, lorsqu'elles existent, sur <a href="https://beta.gouv.fr/startups/">chaque fiche</a> des produits faisant partie du programme.
@@ -118,9 +115,6 @@ additional_js:
         ></iframe>
       </div>
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-      <br>
-      <br>
-      <br>
       <a href="https://dashlord.incubateur.net/">Dashlord</a> est l'outil public de suivi des bonnes pratiques pour les produits développés à beta.gouv.fr.
       </div>
     </div>
