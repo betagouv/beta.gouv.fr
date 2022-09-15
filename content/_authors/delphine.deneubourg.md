@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: DelphineDeneubourg
 missions:
   - start: 2021-04-06
-    end: 2022-10-01
+    end: 2023-06-02
     status: admin
     employer: Ministère de la Justice
 startups:
