@@ -5,7 +5,7 @@ role: Coach
 github: PaulMarcade
 missions:
   - start: 2020-03-19
-    end: 2022-03-31
+    end: 2023-03-31
     status: independent
 incubator: ""
 startups:
