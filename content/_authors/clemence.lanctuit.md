@@ -8,6 +8,8 @@ missions:
     end: 2022-12-31
     status: independent
 startups:
+    - tdb-apprentissage
+previously
     - dematapprentissage
     - catalogue-apprentissage
 badges:
