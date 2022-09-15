@@ -1,11 +1,13 @@
 ---
-title: Mon Suivi Justice
-mission: Diminuer les rendez-vous non-honorés des personnes placées sous main de
-  justice
-sponsors:
-  - /organisations/mj
+mission: Diminuer les rendez-vous non-honorés des personnes placées sous main de justice
 incubator: justice
 repository: https://github.com/betagouv/mon-suivi-justice
+contact: contact@mon-suivi-justice.beta.gouv.fr
+stats_url: https://infogram.com/column-stacked-chart-1h7z2l8www5rg6o?live
+title: Mon Suivi Justice
+sponsors:
+  - /organisations/mj
+stats: true
 events:
   - name: product_launch
     date: 2021-05-07
@@ -16,10 +18,9 @@ phases:
     end: 2020-12-18
   - name: construction
     start: 2021-03-31
-stats: true
-stats_url: https://infogram.com/column-stacked-chart-1h7z2l8www5rg6o?live
-contact: contact@mon-suivi-justice.beta.gouv.fr
-
+    end: 2022-03-31
+  - name: acceleration
+    start: 2022-04-01
 ---
 
 # Éléments de contexte
