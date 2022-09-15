@@ -173,7 +173,7 @@ Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la créat
           src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/3a9c4d96-43e6-4b82-b44d-6f99cd9ca604"
           frameborder="0"
           width="100%"
-          height="300"
+          height="400"
           allowtransparency
       ></iframe>
     </div>
