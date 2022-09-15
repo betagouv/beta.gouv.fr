@@ -14,14 +14,14 @@ stats: true
 phases:
   - name: transfer
     start: 2022-01-01
-    end: 2023-01-01
+    end: 2022-06-30
 usertypes:
   - etablissement-scolaire
   - etat
 dashlord_url: 
 accessibility_status: non conforme
 ---
-Ce produit est actuellement en cours de transfert à la direction du numérique de l'éducation, qui se chargera à partir de juillet 2022 de sa maintenance et de son animation.
+Ce produit est transféré à la direction du numérique de l'éducation, qui se charge depuis juillet 2022 de sa maintenance et de son animation.
 
 ## Le constat
 
