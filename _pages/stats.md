@@ -34,7 +34,7 @@ additional_js:
         src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/dc69430c-3929-4ca3-9d29-f6bb9f06c037"
         frameborder="0"
         width="100%"
-        height="400"
+        height="300"
         allowtransparency
       ></iframe>
     </div>
@@ -53,7 +53,7 @@ additional_js:
       src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/0e1d0920-fdd9-4d92-82cc-f8685cc063c5"
       frameborder="0"
       width="100%"
-      height="400"
+      height="300"
       allowtransparency></iframe>
     </div>
   </div>
@@ -62,6 +62,8 @@ additional_js:
     <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
       <h2>Respect des standards de qualité</h2>
       beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions sobres, ouvertes, accessibles, protectrices, sécurisées. Pour cela, beta.gouv.fr a fixé un certain nombre de standards de qualité dont certains sont suivis ci-dessous. Ces tableaux de bords permettent aux équipes qui participent à l'animation et au pilotage du réseau beta.gouv.fr de se rendre compte des trous dans la raquette et de mieux guider leurs efforts et priorités pour aider les produits qui en ont le plus besoin et améliorer ce qui peut l'être.
+      <br>
+      <br>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
@@ -69,7 +71,7 @@ additional_js:
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/df66b4b5-da83-4131-90a5-52b7c68f10e0"
             frameborder="0"
             width="100%"
-            height="400"
+            height="300"
             allowtransparency
         ></iframe>
       </div>
@@ -90,7 +92,7 @@ additional_js:
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/4c8c5ab0-2ff1-4d81-abe2-115be0481e0a"
             frameborder="0"
             width="100%"
-            height="400"
+            height="300"
             allowtransparency
         ></iframe>
       </div>
@@ -101,7 +103,7 @@ additional_js:
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/e5dbecb8-8601-4cfd-916b-faefff27eb60"
             frameborder="0"
             width="100%"
-            height="400"
+            height="300"
             allowtransparency
         ></iframe>
       </div>
@@ -120,7 +122,7 @@ additional_js:
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bde0b5e2-0e30-4df4-954d-a458b7b3f1db"
             frameborder="0"
             width="100%"
-            height="400"
+            height="300"
             allowtransparency
         ></iframe>
       </div>
@@ -130,6 +132,8 @@ additional_js:
   <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
     <h2>Nombre de nouveaux membres par année, et nombre d'agents publics formés à l'approche</h2>
 beta.gouv.fr a également pour objectif de faire monter en compétences l'administration, en formant le maximum d'agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité. Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr. Pour plus de détails sur la composition actuelle de la communauté beta.gouv.fr, consultez cette page.
+    <br>
+    <br>
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
@@ -138,7 +142,7 @@ beta.gouv.fr a également pour objectif de faire monter en compétences l'admini
             frameborder="0"
             allowtransparency
             width="100%"
-            height="400"
+            height="300"
         ></iframe>
       </div>
   </div>
@@ -147,13 +151,15 @@ beta.gouv.fr a également pour objectif de faire monter en compétences l'admini
   <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
     <h2>Etat des lieux des incubateurs du réseau beta.gouv</h2>
 Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la création de leur propre structure d'incubation et d'exploitation de produits numériques.
+    <br>
+    <br>
     </div>
     <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
       <iframe
           src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/3a9c4d96-43e6-4b82-b44d-6f99cd9ca604"
           frameborder="0"
           width="100%"
-          height="400"
+          height="300"
           allowtransparency
       ></iframe>
     </div>
@@ -167,7 +173,7 @@ Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la créat
             allowtransparency
         ></iframe>
       </div>
-      <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
+      <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
         <iframe
             src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bb37a864-df62-43b9-ae42-3a097da5ddae"
             frameborder="0"
