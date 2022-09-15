@@ -15,6 +15,8 @@ phases:
   - name: transfer
     start: 2022-01-01
     end: 2022-06-30
+  - name : sucsess
+    start : 2022-06-30
 usertypes:
   - etablissement-scolaire
   - etat
