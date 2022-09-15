@@ -99,14 +99,21 @@ beta.gouv.fr a aussi une page stats.
       Dashlord est l'outil public de suivi des bonnes pratiques pour les produits développés à beta.gouv.fr.
       </div>
     </div>
-    <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
-      <iframe
-          src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bde0b5e2-0e30-4df4-954d-a458b7b3f1db"
-          frameborder="0"
-          width="100%"
-          height="600"
-          allowtransparency
-      ></iframe>
+    <div class="fr-grid-row">
+      <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+        <iframe
+            src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bde0b5e2-0e30-4df4-954d-a458b7b3f1db"
+            frameborder="0"
+            width="100%"
+            height="600"
+            allowtransparency
+        ></iframe>
+      </div>
+      <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+        L’accessibilité numérique consiste à rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. Depuis 2012, tous les sites publics doivent être accessibles et conformes à l’ensemble des critères du RGAA. Et ainsi permettre à tous les usagers un égal accès à leurs droits.
+
+        Le programme beta.gouv comporte 4 phases : investigation, construction, accélération puis consolidation. Durant les deux premières phases, l'objectif principal est de tester les services sur de petits périmètres avant de décider, ou non, de les généraliser. Le produit est, à ce moment-là, instable dans son design global et la priorité est de tester l’usage. C'est à partir de la phase d'accélération que les services beta.gouv.fr lancent des chantiers de conformité, dont des audits formels d'accessibilité.
+      </div>
     </div>
     <div class="fr-grid-row">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
@@ -116,14 +123,9 @@ beta.gouv.fr a aussi une page stats.
             allowtransparency
         ></iframe>
       </div>
-      <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-      L’accessibilité numérique consiste à rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. Depuis 2012, tous les sites publics doivent être accessibles et conformes à l’ensemble des critères du RGAA. Et ainsi permettre à tous les usagers un égal accès à leurs droits.
-
-      Le programme beta.gouv comporte 4 phases : investigation, construction, accélération puis consolidation. Durant les deux premières phases, l'objectif principal est de tester les services sur de petits périmètres avant de décider, ou non, de les généraliser. Le produit est, à ce moment-là, instable dans son design global et la priorité est de tester l’usage. C'est à partir de la phase d'accélération que les services beta.gouv.fr lancent des chantiers de conformité, dont des audits formels d'accessibilité.
-      </div>
     </div>
     <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
-    Nombre de nouveaux membres par année, et nombre d'agents publics formés à l'approche
+    <h2>Nombre de nouveaux membres par année, et nombre d'agents publics formés à l'approche</h2>
 beta.gouv.fr a également pour objectif de faire monter en compétences l'administration, en formant le maximum d'agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité. Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr. Pour plus de détails sur la composition actuelle de la communauté beta.gouv.fr, consultez cette page.
     </div>
     <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
@@ -134,48 +136,28 @@ beta.gouv.fr a également pour objectif de faire monter en compétences l'admini
       ></iframe>
     </div>
     <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
-    Etat des lieux des incubateurs du réseau beta.gouv
+    <h2>Etat des lieux des incubateurs du réseau beta.gouv</h2>
 Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la création de leur propre structure d'incubation et d'exploitation de produits numériques.
     </div>
-    <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
-      <iframe
-          src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/39cdc836-b883-419c-8069-88b751b8ccc6"
-          frameborder="0"
-          height="600"
-          allowtransparency
-      ></iframe>
-    </div>
-    <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
-      <iframe
-          src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bb37a864-df62-43b9-ae42-3a097da5ddae"
-          frameborder="0"
-          allowtransparency
-      ></iframe>
+    <div class="fr-grid-row">
+      <div class="fr-col-md-6 fr-col-sm-6 fr-col-lg-6">
+        <iframe
+            src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/39cdc836-b883-419c-8069-88b751b8ccc6"
+            frameborder="0"
+            height="600"
+            allowtransparency
+        ></iframe>
+      </div>
+      <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
+        <iframe
+            src="https://betagouv-animation-metabase.osc-secnum-fr1.scalingo.io/public/question/bb37a864-df62-43b9-ae42-3a097da5ddae"
+            frameborder="0"
+            allowtransparency
+        ></iframe>
+      </div>
     </div>
     </div>
   </div>
 </div>
 
-
-Les indicateurs utilisés sont…
-
-## 1. Nombre de problèmes investigués par an
-
-<canvas id="investigation"></canvas>
-
-## 2. Nombre de produits lancés par an
-
-<canvas id="product_launch"></canvas>
-
-## 3. Nombre de produits abandonnés par an
-
-<canvas id="end"></canvas>
-
-## 4. Nombre de produits devenus des services publics à impact national majeur au cours de l'année
-
-<canvas id="national_impact"></canvas>
-
-## 7. Nombre d'intrapreneurs formés à la méthode Startup d'État
-
-<canvas id="agent"></canvas>
 
