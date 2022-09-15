@@ -80,13 +80,16 @@ additional_js:
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <br>
         <br>
+        <br>
         Conformément à la <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&type=general&legislature=14">Loi pour une République Numérique du 7 octobre 2016</a>, les codes sources de services numériques publics sont des documents administratifs communicables et réutilisables. Ils doivent donc être ouverts.
         <br/>
         Vous pouvez retrouver les liens des codes sources de chaque service sur <a href="https://beta.gouv.fr/startups/">chaque fiche</a> des produits faisant partie du programme.
       </div>
     </div>
+  <br>
   <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+      <br>
       <br>
       <br>
         Chaque service numérique du réseau beta.gouv.fr est tenu de mesurer son usage et son impact de manière publique sur une page "Stats". Cette mesure permet d'évaluer la pertinence de chaque service, et de vérifier qu'elle apporte réellement de la valeur à ses utilisateurs et utilisatrices.
@@ -103,6 +106,7 @@ additional_js:
         ></iframe>
       </div>
     </div>
+  <br>
   <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <iframe
@@ -114,13 +118,15 @@ additional_js:
         ></iframe>
       </div>
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
+      <br>
+      <br>
+      <br>
       <a href="https://dashlord.incubateur.net/">Dashlord</a> est l'outil public de suivi des bonnes pratiques pour les produits développés à beta.gouv.fr.
       </div>
     </div>
+  <br>
   <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-      <br>
-      <br>
         L’accessibilité numérique consiste à rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. Depuis 2012, tous les sites publics doivent être accessibles et conformes à l’ensemble des critères du RGAA. Et ainsi permettre à tous les usagers un égal accès à leurs droits.
         <br>
         Le programme beta.gouv comporte 4 phases : investigation, construction, accélération puis consolidation. Durant les deux premières phases, l'objectif principal est de tester les services sur de petits périmètres avant de décider, ou non, de les généraliser. Le produit est, à ce moment-là, instable dans son design global et la priorité est de tester l’usage. C'est à partir de la phase d'accélération que les services beta.gouv.fr lancent des chantiers de conformité, dont des audits formels d'accessibilité.
