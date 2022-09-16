@@ -1,6 +1,6 @@
 ---
 fullname: Delphine Deneubourg
-role: Intrapreneure
+role: Intrapreneuse
 domaine: Intraprenariat
 github: DelphineDeneubourg
 missions:
