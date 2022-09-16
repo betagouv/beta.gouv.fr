@@ -2,7 +2,7 @@
 fullname: Clélia Virlogeux 
 role: Intrapreneuse 
 domaine: Intraprenariat
-github: clelia.virlogeux
+github: cleliavirlogeux
 missions:
   - start: 2022-09-01
     end: 2023-01-31
