@@ -7,10 +7,9 @@ additional_js:
   - https://unpkg.com/jquery@2.2.2/dist/jquery.min.js
   - stats.js
 ---
-<div class="fr-container">
   <div class="fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
-      <h2>Suivi des objectifs du programme beta.gouv.fr</h2>
+      <h3>Suivi des objectifs du programme beta.gouv.fr</h3>
       Le programme beta.gouv.fr impose aux équipes accompagnées la publication d'une page de statistiques publique, rendant compte de l'usage et de l'impact de leur service numérique. Vous pouvez retrouver ces pages, lorsqu'elles existent, sur <a href="https://beta.gouv.fr/startups/">chaque fiche</a> des produits faisant partie du programme. Le programme beta.gouv.fr n'échappe pas à l'exercice. Vous trouverez sur cette page les indicateurs principaux de notre action, dont certains sont suivis chaque année par le Parlement lorsqu'il vote notre budget.
       <br>
       <br>
@@ -191,6 +190,5 @@ Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la créat
         ></iframe>
       </div>
   </div>
-</div>
 
 
