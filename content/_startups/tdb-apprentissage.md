@@ -21,6 +21,8 @@ phases:
     start: 2021-01-01
 usertypes:
   - etat
+  - etablissement-scolaire
+dashlord_url: https://dashlord.incubateur.net/url/cfas-apprentissage-beta-gouv-fr/
 ---
 
 ## Constat
