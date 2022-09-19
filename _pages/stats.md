@@ -7,6 +7,7 @@ additional_js:
   - https://unpkg.com/jquery@2.2.2/dist/jquery.min.js
   - stats.js
 ---
+<div>
   <div class="fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
       <h3>Suivi des objectifs du programme beta.gouv.fr</h3>
@@ -50,8 +51,6 @@ additional_js:
       <h3>Nombre de produits lancés par an</h3>
       <p>Cet indicateur suit le nombre de nouveaux produits numériques du réseau beta.gouv.fr qui ont commencé leur phase de construction, toutes administrations publiques confondues . Il donne une indication sur l'évolution de la diffusion de l'approche Startups d'État au sein du secteur public.
       </p>
-      <br>
-      <br>
     </div>
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
@@ -86,13 +85,11 @@ additional_js:
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <p>Conformément à la <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&type=general&legislature=14">Loi pour une République Numérique du 7 octobre 2016</a>, les codes sources de services numériques publics sont des documents administratifs communicables et réutilisables. Ils doivent donc être ouverts.
         </p>
-        <br/>
         <p>
         Vous pouvez retrouver les liens des codes sources de chaque service sur <a href="https://beta.gouv.fr/startups/">chaque fiche</a> des produits faisant partie du programme.
         </p>
       </div>
     </div>
-  <br>
   <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
       <p>
@@ -124,14 +121,13 @@ additional_js:
         ></iframe>
       </div>
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-      <a href="https://dashlord.incubateur.net/">Dashlord</a> est l'outil public de suivi des bonnes pratiques pour les produits développés à beta.gouv.fr.
+      <p><a href="https://dashlord.incubateur.net/">Dashlord</a> est l'outil public de suivi des bonnes pratiques pour les produits développés à beta.gouv.fr.</p>
       </div>
     </div>
   <br>
   <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <p>L’accessibilité numérique consiste à rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. Depuis 2012, tous les sites publics doivent être accessibles et conformes à l’ensemble des critères du RGAA. Et ainsi permettre à tous les usagers un égal accès à leurs droits.</p>
-        <br>
         <p>Le programme beta.gouv comporte 4 phases : investigation, construction, accélération puis consolidation. Durant les deux premières phases, l'objectif principal est de tester les services sur de petits périmètres avant de décider, ou non, de les généraliser. Le produit est, à ce moment-là, instable dans son design global et la priorité est de tester l’usage. C'est à partir de la phase d'accélération que les services beta.gouv.fr lancent des chantiers de conformité, dont des audits formels d'accessibilité.</p>
       </div>
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
@@ -148,9 +144,8 @@ additional_js:
   <br>
   <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
     <h3>Nombre de nouveaux membres par année, et nombre d'agents publics formés à l'approche</h3>
-beta.gouv.fr a également pour objectif de faire monter en compétences l'administration, en formant le maximum d'agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité. Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr. Pour plus de détails sur la composition actuelle de la communauté beta.gouv.fr, <a href="https://beta.gouv.fr/communaute/">consultez cette page</a>.
-    <br>
-    <br>
+<p>beta.gouv.fr a également pour objectif de faire monter en compétences l'administration, en formant le maximum d'agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité. Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr. Pour plus de détails sur la composition actuelle de la communauté beta.gouv.fr, <a href="https://beta.gouv.fr/communaute/">consultez cette page</a>.
+</p>
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
@@ -167,9 +162,7 @@ beta.gouv.fr a également pour objectif de faire monter en compétences l'admini
   <br>
   <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
     <h3>Etat des lieux des incubateurs du réseau beta.gouv</h3>
-Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la création de leur propre structure d'incubation et d'exploitation de produits numériques.
-    <br>
-    <br>
+<p>Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la création de leur propre structure d'incubation et d'exploitation de produits numériques.</p>
     </div>
     <div class="fr-col-md-12 fr-col-sm-12 fr-col-lg-12">
       <iframe
@@ -200,5 +193,5 @@ Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la créat
         ></iframe>
       </div>
   </div>
-
+</div>
 
