@@ -9,7 +9,7 @@ additional_js:
 ---
 <div>
   <div class="fr-grid-row fr-grid-row--gutters">
-    <div class="fr-col-md-8 fr-col-sm-8 fr-col-lg-8">
+    <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
       <h3>Suivi des objectifs du programme beta.gouv.fr</h3>
       Le programme beta.gouv.fr impose aux équipes accompagnées la publication d'une page de statistiques publique, rendant compte de l'usage et de l'impact de leur service numérique. Vous pouvez retrouver ces pages, lorsqu'elles existent, sur <a href="https://beta.gouv.fr/startups/">chaque fiche</a> des produits faisant partie du programme. Le programme beta.gouv.fr n'échappe pas à l'exercice. Vous trouverez sur cette page les indicateurs principaux de notre action, dont certains sont suivis chaque année par le Parlement lorsqu'il vote notre budget.
       <br>
@@ -17,7 +17,7 @@ additional_js:
     </div>
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
-    <div class="fr-col-md-8 fr-col-sm-8 fr-col-lg-8">
+    <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
       <h3>Produits à impact national</h3>
       <p>
       Le programme beta.gouv.fr a pour objectif principal de construire des services numérique de grande qualité, qui résolvent réellement le problème des citoyennes et des citoyens, en ayant un impact direct sur leur vie quotidienne. Afin d'évaluer notre succès, nous dénombrons chaque année le nombre de services publics numériques ayant un impact national conçus dans le programme beta.gouv.fr.
@@ -47,7 +47,7 @@ additional_js:
   <br>
   <br>
   <div class="fr-grid-row fr-grid-row--gutters">
-    <div class="fr-col-md-8 fr-col-sm-8 fr-col-lg-8">
+    <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
       <h3>Nombre de produits lancés par an</h3>
       <p>Cet indicateur suit le nombre de nouveaux produits numériques du réseau beta.gouv.fr qui ont commencé leur phase de construction, toutes administrations publiques confondues . Il donne une indication sur l'évolution de la diffusion de l'approche Startups d'État au sein du secteur public.
       </p>
@@ -65,7 +65,7 @@ additional_js:
   </div>
   <br>
   <br>
-    <div class="fr-col-md-8 fr-col-sm-8 fr-col-lg-8">
+    <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
       <h3>Respect des standards de qualité</h3>
       <p>beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions sobres, ouvertes, accessibles, protectrices, sécurisées. Pour cela, beta.gouv.fr a fixé un certain nombre de standards de qualité dont certains sont suivis ci-dessous. Ces tableaux de bords permettent aux équipes qui participent à l'animation et au pilotage du réseau beta.gouv.fr de se rendre compte des trous dans la raquette et de mieux guider leurs efforts et priorités pour aider les produits qui en ont le plus besoin et améliorer ce qui peut l'être.
       </p>
@@ -142,7 +142,7 @@ additional_js:
   </div>
   <br>
   <br>
-  <div class="fr-col-md-8 fr-col-sm-8 fr-col-lg-8">
+  <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
     <h3>Nombre de nouveaux membres par année, et nombre d'agents publics formés à l'approche</h3>
 <p>beta.gouv.fr a également pour objectif de faire monter en compétences l'administration, en formant le maximum d'agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité. Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr. Pour plus de détails sur la composition actuelle de la communauté beta.gouv.fr, <a href="https://beta.gouv.fr/communaute/">consultez cette page</a>.
 </p>
@@ -161,7 +161,7 @@ additional_js:
   <br>
   <br>
 <div class="fr-grid-row fr-grid-row--gutters">
-  <div class="fr-col-md-8 fr-col-sm-8 fr-col-lg-8">
+  <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
     <h3>Etat des lieux des incubateurs du réseau beta.gouv</h3>
 <p>Depuis 2017, beta.gouv.fr accompagne les administrations publique dans la création de leur propre structure d'incubation et d'exploitation de produits numériques.</p>
     </div>
