@@ -8,6 +8,8 @@ missions:
     end: 2023-01-27
     status: independent
     employer: NUMA
+startups:
+  - tout-est-permis
 badges:
   - segur
 competences:
