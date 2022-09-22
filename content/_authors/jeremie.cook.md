@@ -13,8 +13,8 @@ missions:
     end: 2022-12-31
     status: independent
 startups:
-  - resorption-bidonvilles
-  - domifa
+  - annuaire-entreprises
+  - apilos
 previously:
   - codedutravail
   - mes-aides
@@ -23,5 +23,7 @@ previously:
   - enfants-du-spectacle
   - ozensemble
   - monsuivipsy
+  - resorption-bidonvilles
+  - domifa
 domaine: Design
 ---
