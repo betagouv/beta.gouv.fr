@@ -14,10 +14,8 @@ additional_js:
       <p>
       La page <b>Statistiques rend compte de l'usage et de l'impact de leur service numérique</b>. Tous les produits accompagnés par beta.gouv.fr publient une telle page, et naturellement, le programme beta.gouv.fr n'échappe pas à l'exercice.
       </p>
-      <p>Nous avons choisis de **rendre visible sur cette page les indicateurs  principaux de notre action**. Certains sont d'ailleurs suivis chaque année par le Parlement lorsqu'il vote notre budget.
+      <p>Nous avons choisis de <b>rendre visible sur cette page les indicateurs  principaux de notre action</b>. Certains sont d'ailleurs suivis chaque année par le Parlement lorsqu'il vote notre budget.
       </p>
-      <br>
-      <br>
     </div>
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
@@ -25,26 +23,29 @@ additional_js:
       <h3>Produits à impact national</h3>
       <p>
       L'objectif principal du programme beta.gouv.fr est de :
-      - **construire des services numériques** de grande qualité, 
-      - qui **résolvent réellement les problème** des citoyennes et des citoyens, 
-      - en ayant un **impact direct sur leur vie quotidienne**. 
+      <br>
+      - <b>construire des services numériques</b> de grande qualité, 
+      <br>
+      - qui <b>résolvent réellement les problème</b> des citoyennes et des citoyens, 
+      <br>
+      - en ayant un <b>impact direct sur leur vie quotidienne</b>. 
       </p>
       <p>
-      Afin d'évaluer notre succès, nous dénombrons chaque année le **nombre de services publics numériques ayant un impact national** conçus dans le programme beta.gouv.fr.
+      Afin d'évaluer notre succès, nous dénombrons chaque année le <b>nombre de services publics numériques ayant un impact national</b> conçus dans le programme beta.gouv.fr.
       </p>
       <p>
       Chaque année, les critères suivants sont évalués pour les produits les plus matures du portefeuille beta.gouv.fr :
       </p>
       <p>
-      1. **Le service a prouvé son utilité et a été déployé à l'ensemble du territoire national.** Il peut être en cours de phase d'accélération, ou déjà pérennisé par son administration d'origine.
-      2. **Le service a atteint un seuil d'impact significatif.** Il doit pouvoir justifier, par exemple sur une une page rendant compte de ses statistiques, d’un impact significatif sur la vie de centaines de milliers voire de millions de Français.
-      3. **Le service continue de suivre les standards d'un service numérique de qualité** : 
-          - les recommandations de <a href="https://observatoire.numerique.gouv.fr/">l'observatoire pour des services numériques de qualité</a> sont respectées ; 
-          - une équipe continue de répondre aux utilisateurs ; le produit évolue régulièrement (il n’est pas mis au placard), avec des objectifs d'amélioration continue et de croissance de l'impact ; 
-          - le maximum de ressources produites sont partagées (code source ouvert, données ouvertes, APIs, etc) ; 
-          - les statistiques d’impact sont disponibles en ligne et restent suivies par l’équipe.
+      1. <b>Le service a prouvé son utilité et a été déployé à l'ensemble du territoire national.</b> Il peut être en cours de phase d'accélération, ou déjà pérennisé par son administration d'origine.<br>
+      2. <b>Le service a atteint un seuil d'impact significatif.</b> Il doit pouvoir justifier, par exemple sur une une page rendant compte de ses statistiques, d’un impact significatif sur la vie de centaines de milliers voire de millions de Français.<br>
+      3. <b>Le service continue de suivre les standards d'un service numérique de qualité</b> : 
+      <ul>
+         <li>- les recommandations de <a href="https://observatoire.numerique.gouv.fr/">l'observatoire pour des services numériques de qualité</a> sont respectées ;</li> 
+          <li>- une équipe continue de répondre aux utilisateurs ; le produit évolue régulièrement (il n’est pas mis au placard), avec des objectifs d'amélioration continue et de croissance de l'impact ; </li>
+          <li>- le maximum de ressources produites sont partagées (code source ouvert, données ouvertes, APIs, etc) ;</li>
+          <li>- les statistiques d’impact sont disponibles en ligne et restent suivies par l’équipe.</li>
       </p>
-      <br>
     </div>
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
@@ -63,7 +64,7 @@ additional_js:
   <div class="fr-grid-row fr-grid-row--gutters">
     <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
       <h3>Nombre de produits lancés par an</h3>
-      <p>Cet indicateur suit le **nombre de nouveaux produits** ayant commencé une **phase de construction**, toutes administrations publiques confondues. Il donne une indication sur l'**évolution de la diffusion de l'approche Startups d'État** au sein du secteur public.
+      <p>Cet indicateur suit le <b>nombre de nouveaux produits</b> ayant commencé une <b>phase de construction</b>, toutes administrations publiques confondues. Il donne une indication sur l'<b>évolution de la diffusion de l'approche Startups d'État</b> au sein du secteur public.
       </p>
     </div>
   </div>
@@ -81,10 +82,10 @@ additional_js:
   <br>
     <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
       <h3>Respect des standards de qualité</h3>
-      <p>beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions **sobres, ouvertes, accessibles, protectrices, sécurisées**. Pour cela, beta.gouv.fr a fixé un certain nombre de **standards de qualité** dont certains sont suivis ci-dessous. 
+      <p>beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions <b>sobres, ouvertes, accessibles, protectrices, sécurisées</b>. Pour cela, beta.gouv.fr a fixé un certain nombre de <b>standards de qualité</b> dont certains sont suivis ci-dessous. 
       </p>
       <p>
-      Ces tableaux de bords d'animation et de pilotage du réseau beta.gouv.fr de **mieux guider leurs efforts et priorités** pour aider les produits qui en ont le plus besoin et améliorer ce qui peut l'être.
+      Ces tableaux de bords d'animation et de pilotage du réseau beta.gouv.fr de <b>mieux guider leurs efforts et priorités</b> pour aider les produits qui en ont le plus besoin et améliorer ce qui peut l'être.
       </p>
       <br>
       <br>
@@ -100,17 +101,17 @@ additional_js:
         ></iframe>
       </div>
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
-        <p>Conformément à la <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&type=general&legislature=14">Loi pour une République Numérique du 7 octobre 2016</a>, les **codes sources de services numériques publics** sont des documents administratifs communicables et réutilisables. Ils doivent donc être **ouverts**.
+        <p>Conformément à la <a href="https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&type=general&legislature=14">Loi pour une République Numérique du 7 octobre 2016</a>, les <b>codes sources de services numériques publics</b> sont des documents administratifs communicables et réutilisables. Ils doivent donc être <b>ouverts</b>.
         </p>
         <p>
-        Vous pouvez **retrouver les codes sources** des service faisant partie du programme sur leurs <a href="https://beta.gouv.fr/startups/">fiches produits</a> respectives.
+        Vous pouvez <b>retrouver les codes sources</b> des service faisant partie du programme sur leurs <a href="https://beta.gouv.fr/startups/">fiches produits</a> respectives.
         </p>
       </div>
     </div>
   <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
       <p>
-        Chaque service numérique du réseau beta.gouv.fr est tenu de mesurer son usage et son impact de manière publique sur une **page "Stats"**. Cette mesure permet d'**évaluer la pertinence de chaque service**, et de vérifier qu'elle apporte réellement de la valeur à ses utilisateurs et utilisatrices.
+        Chaque service numérique du réseau beta.gouv.fr est tenu de mesurer son usage et son impact de manière publique sur une <b>page "Stats"</b>. Cette mesure permet d'<b>évaluer la pertinence de chaque service</b>, et de vérifier qu'elle apporte réellement de la valeur à ses utilisateurs et utilisatrices.
       </p>
   <p>Vous pouvez retrouver ces pages, lorsqu'elles existent, sur <a href="https://beta.gouv.fr/startups/">chaque fiche</a> des produits faisant partie du programme.</p>
       </div>
@@ -143,7 +144,7 @@ additional_js:
   <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
         <p>L’accessibilité numérique consiste à rendre les contenus et services numériques compréhensibles et utilisables par les personnes en situation de handicap. Depuis 2012, tous les sites publics doivent être accessibles et conformes à l’ensemble des critères du RGAA. Et ainsi permettre à tous les usagers un égal accès à leurs droits.</p>
-        <p>Le programme beta.gouv comporte 4 phases (investigation, construction, accélération puis consolidation). **C'est seulement à partir de la phase d'accélération que les services beta.gouv.fr lancent des chantiers de conformité, dont des audits formels d'accessibilité**.
+        <p>Le programme beta.gouv comporte 4 phases (investigation, construction, accélération puis consolidation). <b>C'est seulement à partir de la phase d'accélération que les services beta.gouv.fr lancent des chantiers de conformité, dont des audits formels d'accessibilité</b>.
 Avant cela, le produit est encore trop instable dans son design global. La priorité est de tester l’usage, sur de petits périmètres (avant de décider, ou non, de les généraliser).</p>
       </div>
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
@@ -160,7 +161,7 @@ Avant cela, le produit est encore trop instable dans son design global. La prior
   <br>
   <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
     <h3>Nombre de nouveaux membres par année, et nombre d'agents publics formés à l'approche</h3>
-<p>beta.gouv.fr souhaite faire **monter en compétences l'administration**, en formant des agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité.</p>
+<p>beta.gouv.fr souhaite faire <b>monter en compétences l'administration</b>, en formant des agents publics, par la pratique, à la construction de services publics numériques à impact et de qualité.</p>
 <p>
 Cet indicateur compte, par an, le nouveaux agents (intrapreneurs, équipes d'animation et de pilotage d'incubateurs, développeuses, développeurs, etc) impliqués dans le réseau beta.gouv.fr.
 </p>
