@@ -1,7 +1,7 @@
 ---
 fullname: Laurent Sutterlity
 role: Développeur front-end
-domaine: Animation
+domaine: Développement
 link: https://sutterlity.studio/
 github: sutter
 missions:
