@@ -93,13 +93,13 @@ additional_js:
       <div class="fr-highlight">
         <p class="fr-text">
           Précisions sur les différentes phases de produit<br><br>
-          - <b>Investigation</b> : Nous constituons une équipe pour lancer une solution rapidement et la tester auprès de premiers usagers.<br>
           - <b>Construction</b> : Nous constituons une équipe pour lancer une solution rapidement et la tester auprès de premiers usagers.<br>
           - <b>Accélération</b> : L’équipe déploie le service sans cesser de l’améliorer pour en accroître l’impact.<br>
           - <b>Transfert</b> : Le service, à présent disponible pour tous et mature, rejoint une structure propice à sa pérennisation.<br>
           - <b>Pérénnisé</b> : Le service est devenu un service public numérique national disponible pour tous.
         </p>
       </div>
+      <br>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-md-6 fr-col-sm-12 fr-col-lg-6">
