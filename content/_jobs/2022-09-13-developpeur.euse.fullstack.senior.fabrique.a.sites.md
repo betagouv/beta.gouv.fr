@@ -1,6 +1,6 @@
 ---
 roles: Développeur.euse ”Full Stack” senior pour la Fabrique à sites
-open: true
+open: false
 date: 2022-09-13T12:30:00.370Z
 startup: Incubateur des Territoires
 title: Développeur.euse ”Full Stack” senior pour la Fabrique à sites
