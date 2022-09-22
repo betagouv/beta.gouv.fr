@@ -90,15 +90,14 @@ additional_js:
       <p>
       Ces tableaux de bords d'animation et de pilotage du réseau beta.gouv.fr de <b>mieux guider leurs efforts et priorités</b> pour aider les produits qui en ont le plus besoin et améliorer ce qui peut l'être.
       </p>
-      <div class="fr-callout fr-fi-information-line">
-        <h4 class="fr-callout__title">Précisions sur les différentes phases de produit</h4>
-        <p class="fr-callout__text">
-            - Investigation : Nous constituons une équipe pour lancer une solution rapidement et la tester auprès de premiers usagers.<br>
-            - Construction : Nous constituons une équipe pour lancer une solution rapidement et la tester auprès de premiers usagers.<br>
-            - Accélération : L’équipe déploie le service sans cesser de l’améliorer pour en accroître l’impact.<br>
-            - Transfert : Le service, à présent disponible pour tous et mature, rejoint une structure propice à sa pérennisation.<br>
-            - Pérénnisé : Le service est devenu un service public numérique national disponible pour tous.
-        </p>
+      <h4 class="fr-callout__title">Précisions sur les différentes phases de produit</h4>
+      <p>
+      - <b>Investigation</b> : Nous constituons une équipe pour lancer une solution rapidement et la tester auprès de premiers usagers.<br>
+      - <b>Construction</b> : Nous constituons une équipe pour lancer une solution rapidement et la tester auprès de premiers usagers.<br>
+      - <b>Accélération</b> : L’équipe déploie le service sans cesser de l’améliorer pour en accroître l’impact.<br>
+      - <b>Transfert</b> : Le service, à présent disponible pour tous et mature, rejoint une structure propice à sa pérennisation.<br>
+      - <b>Pérénnisé</b> : Le service est devenu un service public numérique national disponible pour tous.
+      </p>
     </div>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters">
