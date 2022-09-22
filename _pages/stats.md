@@ -91,7 +91,7 @@ additional_js:
       Ces tableaux de bords d'animation et de pilotage du réseau beta.gouv.fr de <b>mieux guider leurs efforts et priorités</b> pour aider les produits qui en ont le plus besoin et améliorer ce qui peut l'être.
       </p>
       <div class="fr-highlight">
-        <p class="fr-text--sm">
+        <p class="fr-text">
           Précisions sur les différentes phases de produit<br><br>
           - <b>Investigation</b> : Nous constituons une équipe pour lancer une solution rapidement et la tester auprès de premiers usagers.<br>
           - <b>Construction</b> : Nous constituons une équipe pour lancer une solution rapidement et la tester auprès de premiers usagers.<br>
