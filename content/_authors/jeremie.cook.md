@@ -23,5 +23,6 @@ previously:
   - enfants-du-spectacle
   - ozensemble
   - monsuivipsy
+  - annuaire-entreprises
 domaine: Design
 ---
