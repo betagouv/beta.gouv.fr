@@ -24,7 +24,7 @@ additional_js:
       <p>
       L'objectif principal du programme beta.gouv.fr est de :
       <ul>
-      <li><b>construire des services numériques</b> de grande qualité,<li>
+      <li><b>construire des services numériques</b> de grande qualité,</li>
       <li>qui <b>résolvent réellement les problème</b> des citoyennes et des citoyens,</li>
       <li>en ayant un <b>impact direct sur leur vie quotidienne</b>.</li>
       </p>
