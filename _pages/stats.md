@@ -36,11 +36,11 @@ additional_js:
       <p>
       Chaque année, les critères suivants sont évalués pour les produits les plus matures du portefeuille beta.gouv.fr :
       </p>
-      <ul><!-- start of  main list-->
-      <li style="list-style-type: none;">1. <b>Le service a prouvé son utilité et a été déployé à l'ensemble du territoire national.</b> Il peut être en cours de phase d'accélération, ou déjà pérennisé par son administration d'origine.</li>
-      <li>2. <b>Le service a atteint un seuil d'impact significatif.</b> Il doit pouvoir justifier, par exemple sur une une page rendant compte de ses statistiques, d’un impact significatif sur la vie de centaines de milliers voire de millions de Français.<br>
+      <ul style="list-style-type: none;"><!-- start of  main list-->
+      <li>1. <b>Le service a prouvé son utilité et a été déployé à l'ensemble du territoire national.</b> Il peut être en cours de phase d'accélération, ou déjà pérennisé par son administration d'origine.</li>
+      <li>2. <b>Le service a atteint un seuil d'impact significatif.</b> Il doit pouvoir justifier, par exemple sur une une page rendant compte de ses statistiques, d’un impact significatif sur la vie de centaines de milliers voire de millions de Français.
       </li>
-      <li><b>3. <b>Le service continue de suivre les standards d'un service numérique de qualité</b> :
+      <li>3. <b>Le service continue de suivre les standards d'un service numérique de qualité</b> :
         <ul><!-- start of nested list-->
           <li>les recommandations de <a href="https://observatoire.numerique.gouv.fr/">l'observatoire pour des services numériques de qualité</a> sont respectées ;
           </li>
