@@ -12,9 +12,7 @@ additional_js:
     <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
       <h3>Suivi des objectifs du programme beta.gouv.fr</h3>
       <p>
-      Le programme beta.gouv.fr, comme <a href="https://beta.gouv.fr/startups/">tous les produits numériques</a> qu'il a propulsés, rend compte de ses résultats publiquement.
-      </p>
-      <p>Certains des indicateurs de cette page sont suivis chaque année par le Parlement lorsqu'il vote le budget du programm.
+      Le programme beta.gouv.fr, comme <a href="https://beta.gouv.fr/startups/">tous les produits numériques</a> qu'il a propulsés, rend compte de ses résultats publiquement. Certains des indicateurs de cette page sont suivis chaque année par le Parlement lors du vote du budget.
       </p>
     </div>
   </div>
