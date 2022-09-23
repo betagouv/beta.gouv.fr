@@ -19,6 +19,10 @@ phases:
       l'architecture de la plateforme
   - name: acceleration
     start: 2020-09-01
+  - name: transfer
+    start: 2021-01-01
+  - name: alumni
+    start: 2021-04-01
 usertypes:
   - etat
 ---
