@@ -12,9 +12,9 @@ additional_js:
     <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
       <h3>Suivi des objectifs du programme beta.gouv.fr</h3>
       <p>
-      La page <b>Statistiques rend compte de l'usage et de l'impact de leur service numérique</b>. Tous les produits accompagnés par beta.gouv.fr publient une telle page, et naturellement, le programme beta.gouv.fr n'échappe pas à l'exercice.
+      Le programme beta.gouv.fr, comme [tous les produits numériques](https://beta.gouv.fr/startups/) qu'il a propulsés, rend compte de ses résultats publiquement.
       </p>
-      <p>Nous avons choisis de <b>rendre visible sur cette page les indicateurs  principaux de notre action</b>. Certains sont d'ailleurs suivis chaque année par le Parlement lorsqu'il vote notre budget.
+      <p>Certains des indicateurs de cette page sont suivis chaque année par le Parlement lorsqu'il vote le budget du programm.
       </p>
     </div>
   </div>
@@ -30,25 +30,8 @@ additional_js:
       <li>en ayant un <b>impact direct sur leur vie quotidienne</b>.</li>
       </ul>
       <p>
-      Afin d'évaluer notre succès, nous dénombrons chaque année le <b>nombre de services publics numériques ayant un impact national</b> conçus dans le programme beta.gouv.fr.
+      Afin d'évaluer notre succès, nous dénombrons chaque année le <b>nombre de [services publics numériques ayant un impact national](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/services-numeriques-a-impact-national)</b> conçus dans le programme beta.gouv.fr.
       </p>
-      <p>
-      Chaque année, les critères suivants sont évalués pour les produits les plus matures du portefeuille beta.gouv.fr :
-      </p>
-      <ul style="list-style-type: none; padding-left: 5px;">
-      <li>1. <b>Le service a prouvé son utilité et a été déployé à l'ensemble du territoire national.</b> Il peut être en cours de phase d'accélération, ou déjà pérennisé par son administration d'origine.</li>
-      <li>2. <b>Le service a atteint un seuil d'impact significatif.</b> Il doit pouvoir justifier, par exemple sur une une page rendant compte de ses statistiques, d’un impact significatif sur la vie de centaines de milliers voire de millions de Français.
-      </li>
-      <li>3. <b>Le service continue de suivre les standards d'un service numérique de qualité</b> :
-        <ul style="padding-left: 30px;">
-          <li>les recommandations de <a href="https://observatoire.numerique.gouv.fr/">l'observatoire pour des services numériques de qualité</a> sont respectées ;
-          </li>
-          <li>une équipe continue de répondre aux utilisateurs ; le produit évolue régulièrement (il n’est pas mis au placard), avec des objectifs d'amélioration continue et de croissance de l'impact ; </li>
-          <li>le maximum de ressources produites sont partagées (code source ouvert, données ouvertes, APIs, etc) ;</li>
-          <li>les statistiques d’impact sont disponibles en ligne et restent suivies par l’équipe.</li>
-        </ul>
-      </li>
-    </ul>
     </div>
   </div>
   <div class="fr-grid-row fr-grid-row--gutters">
