@@ -19,6 +19,10 @@ phases:
   - name: acceleration
     start: 2020-07-01
     end: 2022-12-16
+  - name: transfer
+    start: 2021-01-01
+  - name: alumni
+    start: 2021-04-01
 usertypes:
   - entreprise
   - etat
