@@ -12,7 +12,7 @@ additional_js:
     <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
       <h3>Suivi des objectifs du programme beta.gouv.fr</h3>
       <p>
-      Le programme beta.gouv.fr, comme [tous les produits numériques](https://beta.gouv.fr/startups/) qu'il a propulsés, rend compte de ses résultats publiquement.
+      Le programme beta.gouv.fr, comme <a href="https://beta.gouv.fr/startups/">tous les produits numériques</a> qu'il a propulsés, rend compte de ses résultats publiquement.
       </p>
       <p>Certains des indicateurs de cette page sont suivis chaque année par le Parlement lorsqu'il vote le budget du programm.
       </p>
@@ -30,7 +30,7 @@ additional_js:
       <li>en ayant un <b>impact direct sur leur vie quotidienne</b>.</li>
       </ul>
       <p>
-      Afin d'évaluer notre succès, nous dénombrons chaque année le <b>nombre de [services publics numériques ayant un impact national](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/services-numeriques-a-impact-national)</b> conçus dans le programme beta.gouv.fr.
+      Afin d'évaluer notre succès, nous dénombrons chaque année le <b>nombre de <a href="https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/services-numeriques-a-impact-national">services publics numériques ayant un impact national</a></b> conçus dans le programme beta.gouv.fr.
       </p>
     </div>
   </div>
