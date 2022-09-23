@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+
+{%- assign currents = site.authors | community: 'current', 'oldest' -%}
+{%- assign currents = currents | where:"domaine","Animation" -%}
+{%- assign alumnis = site.authors | community: 'past', 'oldest' -%}
+{% assign lang = page.lang | default: site.lang | default: "en" %}
+{% assign incubators = site.incubators %}
+<script>
+    var members = [
+        {% for current in currents %}
+            { "id"        : "{{ current.id }}",
+                "fullname": "{{ current.fullname}}",
+                "link": "{{ current.link }}",
+                "role": `{{ current.role }}`,
+                {% if current.avatar %} "avatar": "{{ current.avatar }}",{% endif %}
+                {% if current.github %} "github": "{{ current.github }}",{% endif %}
+                "content" : `{{ current.content }}`,
+                "missions": [
+                    {% for mission in current.missions %}
+                        { "start": "{{mission.start}}", "end": "{{mission.end}}", "status": "{{mission.status}}", "employer": "{{mission.employer}}" }{% unless forloop.last %},{% endunless %}
+                    {% endfor %}
+                ],
+                "incubator": "{{ current.incubator }}",
+                "startups": [
+                    {% for startup in current.startups %}
+                        "{{ startup }}",
+                    {% endfor %}
+                ],
+                "previously": [
+                    {% for previous_startup in current.previously %}
+                        "{{ previous_startup }}",
+                    {% endfor %}
+                ],
+            }
+        {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ];
+    console.log(members)
+</script>
+
+{%- capture build_date -%}{{ site.time | date:"%Y-%m-%d" }}{%- endcapture -%} {%- assign lang = page.lang | default:
+site.lang | default: "fr" -%}
+
+{% assign brigade_fullnames =
+"Rebecca Dumazert, Benoit Serrano, Bréanne Mallat, Fanny Dauchez, Clémence Lopez, Denis Baudot, Inès Hijazi, Lisa Durand, Mael Inizan, Mélodie Dahi, Anna-Livia Gomart, Stéphane Maniaci"
+| split: ", "
+%}
+
+{% assign title_startups_brigade = "JeVeuxAider.gouv.fr, Santé Psy Étudiant, Aides Jeunes, logement de crise" | split: ", " %}
+
+{% assign startups_brigade = site.startups | where_exp: "startup", "title_startups_brigade contains startup.title" %}
+
+{%- assign authors = site.authors | where_exp: "author", "brigade_fullnames contains author.fullname" -%}
+
+    <section class="section-blue section-main">
+        <div class="fr-container">
+
+        <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
+        <div class="fr-col fr-col-12 fr-col-md-7">
+            <h1>Les equipes d'animations</h1>
+            <p class="fr-h2">
+            <span class="section-highlight">Vous êtes un cabinet ou une direction d'administration ?
+            </span>
+            </p>
+            <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary button-white fr-mt-2w" href="mailto:brigade@beta.gouv.fr" title="Contacter la Brigade - nouvelle fenêtre">Contacter la Brigade</a>
+        </div>
+        </div>
+    </section>
+    <div>
+    <h2><span id="currents-count">{{ currents | size }}</span> membres actifs</h2>
+        <div class="authors fr-grid-row fr-grid-row--gutters">
+            {%- for author in currents -%}
+            <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
+            {%- endfor -%}
+        </div>
+    </div>
+</div>
