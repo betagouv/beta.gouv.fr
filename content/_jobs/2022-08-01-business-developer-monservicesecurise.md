@@ -1,6 +1,6 @@
 ---
 roles: Business developer
-open: true
+open: false
 date: 2022-08-01
 startup: homologation
 title: MonServiceSécurisé recrute un· business developer
