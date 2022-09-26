@@ -1,5 +1,5 @@
 ---
-title: Mon Suivi Psy
+title: Jardin mental
 mission: Mieux connaître ses symptômes pour un meilleur accompagnement médical
 sponsors:
   - /organisations/solidarite-sante
@@ -7,6 +7,9 @@ incubator: sgmas
 link: https://monsuivipsy.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/monsuivipsy
 contact: monsuivipsy@fabrique.social.gouv.fr
+usertypes:
+  - particulier
+  - entreprise
 stats_url: https://matomo-metabase-monsuivipsy.fabrique.social.gouv.fr/public/dashboard/5c48ca1a-0c1e-4d8b-90b1-d474ce379758
 stats: true
 phases:
@@ -18,9 +21,6 @@ phases:
     end: 2021-05-01
   - name: acceleration
     start: 2021-06-01
-usertypes:
-  - particulier
-  - entreprise
 ---
 Les troubles psychiatriques touchent plus de 20 % de la population, à un moment de la vie. Et trouver le bon traitement peut prendre plusieurs années. Pendant ce temps-là, les symptômes évoluent, peuvent devenir chroniques et l’état du patient s’aggrave. L’impact peut être dramatique. 
 
