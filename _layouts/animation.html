@@ -49,9 +49,6 @@ site.lang | default: "fr" -%}
 | split: ", "
 %}
 
-{% assign title_startups_brigade = "JeVeuxAider.gouv.fr, Santé Psy Étudiant, Aides Jeunes, logement de crise" | split: ", " %}
-
-{% assign startups_brigade = site.startups | where_exp: "startup", "title_startups_brigade contains startup.title" %}
 
 {%- assign authors = site.authors | where_exp: "author", "brigade_fullnames contains author.fullname" -%}
 
@@ -62,7 +59,7 @@ site.lang | default: "fr" -%}
         <div class="fr-col fr-col-12 fr-col-md-7">
             <h1>Les equipes d'animations</h1>
             <p class="fr-h2">
-            <span class="section-highlight">Vous êtes un cabinet ou une direction d'administration ?
+            <span class="section-highlight">
             </span>
             </p>
             <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary button-white fr-mt-2w" href="mailto:brigade@beta.gouv.fr" title="Contacter la Brigade - nouvelle fenêtre">Contacter la Brigade</a>
@@ -70,11 +67,13 @@ site.lang | default: "fr" -%}
         </div>
     </section>
     <div>
-    <h2><span id="currents-count">{{ currents | size }}</span> membres actifs</h2>
-        <div class="authors fr-grid-row fr-grid-row--gutters">
-            {%- for author in currents -%}
-            <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
-            {%- endfor -%}
+    <h2><span id="currents-count">{{ currents | size }}</span> membres des équipes d'Animation</h2>
+        <div class="fr-container">
+            <div class="authors fr-grid-row fr-grid-row--gutters">
+                {%- for author in currents -%}
+                <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
+                {%- endfor -%}
+            </div>
         </div>
     </div>
 </div>
