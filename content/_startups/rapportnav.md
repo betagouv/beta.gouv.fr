@@ -10,6 +10,7 @@ repository: https://github.com/MTES-MCT/rapportNav
 phases:
   - name: investigation
     start: 2022-03-01
+    end: 2022-08-16
   - name: construction
     start: 2022-08-16
 ---
