@@ -6,13 +6,14 @@ sponsors:
 incubator: mtes
 phases:
   - name: investigation
-    start: 2022-04-01 
+    start: 2022-04-01
+    end: 2022-08-01
   - name: construction
     start: 2022-08-01
 link: https://www.programme-emile.org/
 repository: 
 stats: false
-contact:  alexandre.viscontini@dihal.gouv.fr 
+contact: alexandre.viscontini@dihal.gouv.fr 
 usertypes:
   - particulier
 dashlord_url: 
