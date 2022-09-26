@@ -1,5 +1,6 @@
 ---
 fullname: Laetitia Gabreau
+domaine: Déploiement
 role: Chargée de déploiement
 missions:
   - start: 2021-11-01
@@ -13,9 +14,10 @@ missions:
 startups:
   - psyenfantado
   - infoparquet
+  - monpsy
 badges:
   - segur
-domaine: Déploiement
+competences:
+  - Gestion de Produit
 ---
-
 Passionnée par l'innovation d'intérêt général, et facilitatrice graphique amatrice
