@@ -9,6 +9,9 @@ usertypes:
   - particulier
   - etat
 stats: false
+events:
+  - name: end
+    date: 2022-03-15
 phases:
   - name: investigation
     start: 2020-01-15
