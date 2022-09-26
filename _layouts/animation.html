@@ -62,13 +62,13 @@ site.lang | default: "fr" -%}
             <span class="section-highlight">
             </span>
             </p>
-            <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary button-white fr-mt-2w" href="mailto:brigade@beta.gouv.fr" title="Contacter la Brigade - nouvelle fenêtre">Contacter la Brigade</a>
+            <a class="fr-btn fr-btn--md fr-enlarge-link fr-btn--secondary button-white fr-mt-2w" href="mailto:animation@beta.gouv.fr" title="Contacter l'équipe d'animation - nouvelle fenêtre">Contacter l'équipe d'animation</a>
         </div>
         </div>
     </section>
     <div>
-    <h2><span id="currents-count">{{ currents | size }}</span> membres des équipes d'Animation</h2>
         <div class="fr-container">
+            <h2><span id="currents-count">{{ currents | size }}</span> membres des équipes d'Animation</h2>
             <div class="authors fr-grid-row fr-grid-row--gutters">
                 {%- for author in currents -%}
                 <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
