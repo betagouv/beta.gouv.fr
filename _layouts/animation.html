@@ -44,13 +44,6 @@ layout: default
 {%- capture build_date -%}{{ site.time | date:"%Y-%m-%d" }}{%- endcapture -%} {%- assign lang = page.lang | default:
 site.lang | default: "fr" -%}
 
-{% assign brigade_fullnames =
-"Rebecca Dumazert, Benoit Serrano, Bréanne Mallat, Fanny Dauchez, Clémence Lopez, Denis Baudot, Inès Hijazi, Lisa Durand, Mael Inizan, Mélodie Dahi, Anna-Livia Gomart, Stéphane Maniaci"
-| split: ", "
-%}
-
-
-{%- assign authors = site.authors | where_exp: "author", "brigade_fullnames contains author.fullname" -%}
 
     <section class="section-blue section-main">
         <div class="fr-container">
