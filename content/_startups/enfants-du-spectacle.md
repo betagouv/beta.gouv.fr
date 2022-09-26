@@ -6,8 +6,10 @@ sponsors:
 incubator: sgmas
 repository: https://github.com/SocialGouv/enfants-du-spectacle
 contact: enfantsduspectacle@fabrique.social.gouv.fr
+accessibility_status: non conforme
 usertypes:
   - etat
+dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/enfants-du-spectacle-fabrique-social-gouv-fr/
 events: []
 phases:
   - name: investigation
