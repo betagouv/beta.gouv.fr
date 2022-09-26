@@ -6,7 +6,7 @@ link: https://sometimesuseful.com/
 github: bbohec
 missions:
   - start: 2022-04-11
-    end: 2022-08-31
+    end: 2022-12-31
     status: independent
     employer: Orange Consulting
 startups:

@@ -1,6 +1,6 @@
 ---
 roles: Business developer
-open: true
+open: false
 date: 2022-08-01
 startup: homologation
 title: MonServiceSécurisé recrute un· business developer
@@ -62,7 +62,7 @@ Une connaissance de l’administration publique et du travail au contact d'agent
 * Poste ouvert pour un· indépendant·e pour un premier contrat de 6 mois renouvelable, 4/5 par semaine.
 * Poste en télétravail avec réunions ponctuelles de l’équipe
 * Démarrage en septembre. 
-* Rémunération : à discuter (<a href="https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle">voir grille indicative</a>)
+* Rémunération : à discuter (<a href="https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/conseils-pour-le-recrutement/observatoire-revenus#les-tjm-une-base-pour-evaluer-le-prix-dune-prestation">voir grille indicative</a>)
 * Pour candidater, postulez <a href="https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/business-developer_paris">ici</a>
 
 À bientôt ! 😀

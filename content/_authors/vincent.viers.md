@@ -14,12 +14,17 @@ missions:
     end: 2022-09-01
     status: independent
     employer: benext
+  - start: 2022-08-22
+    end: 2023-01-01
+    status: independent
+    employer: octo
 startups:
     - données-et-territoires
+    - pilotage.de.linclusion
 previously:
     - signaux-faibles
     - disinfo
     - a-just
 ---
 
-Developer Experience & Data @beta.gouv
+Data Developper & coach

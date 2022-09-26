@@ -3,7 +3,6 @@ fullname: Raphael Odini
 domaine: Développement
 role: Développeur
 github: raphodn
-avatar: null
 link: https://raphodn.github.io
 missions:
   - start: 2020-01-08

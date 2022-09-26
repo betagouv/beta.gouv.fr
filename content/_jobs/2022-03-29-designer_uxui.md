@@ -1,7 +1,7 @@
 ---
 roles: Designer UX/UI
 junior: false 
-open: true
+open: false
 title: Designer UX/UI - CDD de 20 mois H/F
 domaines:
   - Design

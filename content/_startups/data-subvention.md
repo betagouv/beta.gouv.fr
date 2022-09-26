@@ -3,17 +3,18 @@ title: Data.Subvention
 mission: Améliorer le pilotage des subventions de l’État des associations et
   simplifier leurs démarches
 sponsors:
- - /organisations/djepva
+  - /organisations/djepva
 incubator: dinum
+link: https://datasubvention.beta.gouv.fr
 repository: https://github.com/betagouv/api-subventions-asso
 contact: contact@datasubvention.beta.gouv.fr
+usertypes:
+  - association
+  - etat
 phases:
   - name: construction
     start: 2022-01-03
     end: 2022-11-15
-usertypes:
-  - association
-  - etat
 ---
 ## Contexte
 

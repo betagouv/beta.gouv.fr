@@ -2,7 +2,8 @@
 title: Conventionnement IAE
 mission: Investiguer les problèmes liés au conventionnement des Structures de
   l'Insertion par l'Activité Economique (SIAE) auprès des services de l'État.
-sponsors: []
+sponsors:
+  - /organisations/dgefp
 incubator: sgmas
 link: ""
 contact: elodie.bonnet@haute-garonne.gouv.fr
@@ -12,7 +13,10 @@ events:
 phases:
   - name: investigation
     start: 2022-01-17
-    end: 2022-04-15
+    end: 2022-06-01
+  - name: alumni
+    start: 2022-06-02
+    end: ""
 ---
 [Lien vers la synthèse complète de l'investigation](https://docs.google.com/document/d/1k-618voE5U_zWq-zq48U7XnQNvzTiKApMmeZiUxkkZk/edit?usp=sharing)
 

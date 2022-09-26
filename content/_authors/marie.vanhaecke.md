@@ -6,11 +6,13 @@ github: marievanhaecke
 missions:
   - employer: Dinum
     start: 2021-01-21
-    end: 2022-12-31
+    end: 2030-12-31
     status: service
 startups:
   - tutorat_fp
   - talents.numeriques
+  - bourses.scolaires
+  - justif
 previously:
   - metiers-numeriques
 badges:
