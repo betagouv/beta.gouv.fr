@@ -59,6 +59,14 @@ site.lang | default: "fr" -%}
         </div>
         </div>
     </section>
+    <section class="filters">
+        <div class="fr-container">
+            <label class="fr-hidden">Tous les incubateurs</label>
+            <select class="fr-select" id="select-incubateur">
+                <option value="">Tous les incubateurs</option>
+            </select>
+        </div>
+    </section>
     <div>
         <div class="fr-container">
             <h2><span id="currents-count">{{ currents | size }}</span> membres des équipes d'Animation</h2>
