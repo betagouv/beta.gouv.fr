@@ -3,14 +3,14 @@ fullname: Laetitia Gabreau
 domaine: Déploiement
 role: Chargée de déploiement
 missions:
-  - start: 2021-11-01
-    end: 2022-12-31
-    status: independent
-    employer: Octo
   - start: 2021-10-01
     end: 2022-03-31
     status: independent
     employer: Benext
+  - start: 2021-11-01
+    end: 2022-12-31
+    status: independent
+    employer: Octo
 startups:
   - psyenfantado
   - infoparquet
