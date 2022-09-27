@@ -7,8 +7,6 @@ missions:
     end: 2022-09-30
     status: independent
     employer: Tribunal de Nanterre
-startups:
-  - justif
 badges:
   - segur
 ---

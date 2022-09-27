@@ -7,8 +7,6 @@ missions:
   - start: 2020-02-20
     end: 2022-09-30
     status: service
-startups:
-  - justif
 previously:
   - signalement
   - Anais

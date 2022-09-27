@@ -4,12 +4,10 @@ role: Product manager
 domaine: Produit
 missions:
   - start: 2022-02-14
-    end: 2022-12-31
+    end: 2023-06-30
     status: independent
 startups:
   - la-bonne-alternance
-  - matcha
-  - rdv.apprentissage
 badges:
   - segur
 ---

@@ -10,8 +10,7 @@ missions:
 startups:
   - tdb-apprentissage
   - la-bonne-alternance
-  - matcha
-  - rdv.apprentissage
   - voeux-apprentissage
   - Trajpro
+  - dematapprentissage
 ---

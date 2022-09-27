@@ -1,5 +1,5 @@
 ---
-title: Entraides Entreprises
+title: Entraide Entreprises
 mission: Aider les chefs d’entreprises dans leurs recherches de solutions à leurs problèmes
 sponsors:
   - /organisations/mefr

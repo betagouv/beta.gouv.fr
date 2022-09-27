@@ -7,7 +7,6 @@ missions:
     end: 2022-12-31
     status: service
 startups:
-  - matcha
-  - rdv.apprentissage
+  - la-bonne-alternance
 ---
 

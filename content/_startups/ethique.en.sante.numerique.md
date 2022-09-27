@@ -10,7 +10,10 @@ contact: Magali.ROBERT@esante.gouv.fr
 phases:
   - name: investigation
     start: 2021-09-01
-    end: 2021-12-01
+    end: 2022-03-01
+    comment: Investigation ko
+  - name: alumni
+    start: 2022-03-01
 ---
 ## Contexte
 
