@@ -13,7 +13,7 @@ missions:
     end: 2024-12-06
     status: admin
     employer: IGN
-startups:
+previously:
   - transport
 ---
 
