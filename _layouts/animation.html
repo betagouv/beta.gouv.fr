@@ -4,6 +4,8 @@ layout: default
 
 
 {%- assign currents = site.authors | community: 'current', 'oldest' -%}
+{%- assign teams = site.teams -%}
+
 {%- assign currents = currents | where:"domaine","Animation" -%}
 {%- assign alumnis = site.authors | community: 'past', 'oldest' -%}
 {% assign lang = page.lang | default: site.lang | default: "en" %}
@@ -39,6 +41,17 @@ layout: default
         {% endfor %}
     ];
     console.log(members)
+    var teams = [
+        {% for team in teams %}
+            { 
+                "id": "{{ team.id }}",
+                "name": "{{ current.name }}",
+                "mission": "{{ current.mission }}",
+            }
+        {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ];
+    console.log(teams)
 </script>
 
 {%- capture build_date -%}{{ site.time | date:"%Y-%m-%d" }}{%- endcapture -%} {%- assign lang = page.lang | default:
