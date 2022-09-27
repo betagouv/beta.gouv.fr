@@ -10,8 +10,6 @@ missions:
     end: 2022-11-30
     status: independent
     employer: Codeurs en Liberté
-startups:
-  - transport
 badges:
   - segur
 ---
