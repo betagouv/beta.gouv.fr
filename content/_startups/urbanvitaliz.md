@@ -10,6 +10,8 @@ phases:
     end: 2020-05-19
   - name: construction
     start: 2020-09-14
+  - name: acceleration
+    start: 2021-12-01
 link: https://urbanvitaliz.fr/
 repository: https://github.com/betagouv/urbanvitaliz-django
 stats: true 
