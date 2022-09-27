@@ -14,7 +14,6 @@ backend:
     uploadMedia: Nouvelle image {{path}}
     deleteMedia: Suppression de l'image {{path}}
   open_authoring: true
-  always_fork: true
   squash_merges: true
   use_graphql: true
 
