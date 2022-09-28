@@ -12,6 +12,7 @@ missions:
     employer: numa
 startups:
   - ecobalyse
+  - datagir
 previously:
   - recosante
   - hydrogene
