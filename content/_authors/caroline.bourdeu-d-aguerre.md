@@ -1,5 +1,6 @@
 ---
 fullname: Caroline Bourdeu d'Aguerre
+domaine: Développement
 role: Développeuse
 github: carolineBda
 missions:
@@ -9,7 +10,9 @@ missions:
 startups:
   - psyenfantado
   - codedutravail
-domaine: Développement
+  - monpsy
+competences:
+  - Développement Frontend
+  - Développement Backend
 ---
-
 TDD ❤️

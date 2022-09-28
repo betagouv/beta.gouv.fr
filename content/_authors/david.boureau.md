@@ -10,13 +10,13 @@ missions:
     status: independent
     employer: octo
   - start: 2017-04-01
-    end: 2021-12-31
+    end: 2023-06-30
     status: independent
     employer: inop's
 startups:
-  - clara
   - la-bonne-alternance
 previously:
+  - clara
   - pix
 ---
 

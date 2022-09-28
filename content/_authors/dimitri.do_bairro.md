@@ -10,5 +10,5 @@ missions:
     status: independent
     employer: 
 startups: 
-  - rdv.apprentissage
+  - la-bonne-alternance
 ---

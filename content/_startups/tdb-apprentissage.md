@@ -6,8 +6,6 @@ sponsors:
   - /organisations/mtei
   - /organisations/mesr
   - /organisations/mtfp
-  - /organisations/dinum
-  - /organisations/dgefp
 incubator: mission-apprentissage
 link: https://cfas.apprentissage.beta.gouv.fr
 repository: 
@@ -23,6 +21,8 @@ phases:
     start: 2021-01-01
 usertypes:
   - etat
+  - etablissement-scolaire
+dashlord_url: https://dashlord.incubateur.net/url/cfas-apprentissage-beta-gouv-fr/
 ---
 
 ## Constat
