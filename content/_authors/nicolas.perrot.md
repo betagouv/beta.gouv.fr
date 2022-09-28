@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: lazone/scopyleft
   - start: 2021-10-05
-    end: 2022-09-30
+    end: 2023-01-30
     status: independent
     employer: lazone
 github: NicolasPerrot1

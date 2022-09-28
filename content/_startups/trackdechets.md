@@ -2,7 +2,7 @@
 mission: Gérer la traçabilité des déchets, en toute sécurité
 incubator: mtes
 repository: https://github.com/MTES-MCT/trackdechets
-contact: emmanuel.flahaut@developpement-durable.gouv.fr
+contact: contact@trackdechets.beta.gouv.fr
 accessibility_status: non conforme
 usertypes:
   - entreprise

@@ -15,7 +15,7 @@ missions:
   - status: independent
     start: 2021-07-05
     end: 2023-12-30
-startups:
+previously:
   - itou
   - place-de-marche-inclusion
 badges:

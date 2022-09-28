@@ -8,7 +8,7 @@ missions:
     end: 2020-12-31
     status: admin 
   - start: 2021-04-01
-    end: 2022-09-30
+    end: 2022-12-31
     status: independent
 startups:
   - avril

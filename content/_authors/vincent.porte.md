@@ -10,6 +10,7 @@ missions:
     status: independent
     employer: Octo
 startups:
+  - la.communaute.de.linclusion
   - itou
 ---
 

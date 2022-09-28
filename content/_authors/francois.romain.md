@@ -13,7 +13,7 @@ missions:
   - status: independent
     employer: Octo
     start: 2022-01-03
-    end: 2022-12-31
+    end: 2022-06-30
 startups: []
 previously:
   - camino
