@@ -54,4 +54,8 @@ mapping:
   "competences":
     type:      seq
     sequence:
-        - type:      str     
+        - type:      str
+  "equipes":
+    type:      seq
+    sequence:
+        - type:      any  
