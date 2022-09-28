@@ -4,7 +4,7 @@ role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-09-05
-    end: 2023-12-31
+    end: 2023-12-05
     status: admin
     employer: DINUM
 badges:
