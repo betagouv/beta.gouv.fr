@@ -78,19 +78,22 @@ site.lang | default: "fr" -%}
             </div>
         </div>
     </section>
-    <section class="filters">
+    <section class="fr-py-6w">
         <div class="fr-container">
-            <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
-                <div class="fr-col-8 fr-col-md-8">
-                    <label class="fr-hidden">Tous les incubateurs</label>
+            <div class="fr-grid-row">
+                <div class="fr-col-lg-8 fr-col-md-8 fr-col-sm-12">
+                    <label>Filtrer par incubateur</label>
                     <select class="fr-select" id="select-incubateur">
                         <option value="">Tous les incubateurs</option>
                     </select>
                 </div>
+                </div>
+                <div class="fr-col-4"></div>
+            </div>
             </div>
         </div>
     </section>
-    <section class="filters" id="no-data-message" style="display: none;">
+    <section id="no-data-message" style="display: none;">
         <div class="fr-container">
             <p>Il n'y a pas de résultats qui correspondent à ces filtres</p>
         </div>
