@@ -2,17 +2,16 @@
 layout: default
 ---
 
-
-{%- assign currents = site.authors | community: 'current', 'oldest' -%}
 {%- assign teams = site.teams -%}
-
-{%- assign currents = currents | where:"domaine","Animation" -%}
-{%- assign alumnis = site.authors | community: 'past', 'oldest' -%}
 {% assign lang = page.lang | default: site.lang | default: "en" %}
 {% assign incubators = site.incubators %}
+{% assign incubators = site.incubators %}
+{%- assign authorsteam = site.authors | community: 'current' -%}
+{%- assign authorsteam = authorsteam |  where_exp:"item", "item.teams.size != 0" -%}
+
 <script>
-    var members = [
-        {% for current in currents %}
+    var authorsteam = [
+        {% for current in authorsteam %}
             { "id"        : "{{ current.id }}",
                 "fullname": "{{ current.fullname}}",
                 "link": "{{ current.link }}",
@@ -40,18 +39,25 @@ layout: default
         {% unless forloop.last %},{% endunless %}
         {% endfor %}
     ];
-    console.log(members)
+    var incubators = [
+        {% for incubator in incubators %} {
+        id: "{{incubator.id}}".replace('/incubators/', ''),
+        title: "{{incubator.title}}",
+        url: "/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}"
+        },
+        {% endfor %}
+    ];
     var teams = [
         {% for team in teams %}
             { 
                 "id": "{{ team.id }}",
-                "name": "{{ current.name }}",
-                "mission": "{{ current.mission }}",
+                "name": "{{ team.name }}",
+                "mission": "{{ team.mission }}",
+                "incubator_id": "{{ team.incubator }}"
             }
         {% unless forloop.last %},{% endunless %}
         {% endfor %}
     ];
-    console.log(teams)
 </script>
 
 {%- capture build_date -%}{{ site.time | date:"%Y-%m-%d" }}{%- endcapture -%} {%- assign lang = page.lang | default:
@@ -74,19 +80,41 @@ site.lang | default: "fr" -%}
     </section>
     <section class="filters">
         <div class="fr-container">
-            <label class="fr-hidden">Tous les incubateurs</label>
-            <select class="fr-select" id="select-incubateur">
-                <option value="">Tous les incubateurs</option>
-            </select>
+            <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
+                <div class="fr-col-8 fr-col-md-8">
+                    <label class="fr-hidden">Tous les incubateurs</label>
+                    <select class="fr-select" id="select-incubateur">
+                        <option value="">Tous les incubateurs</option>
+                    </select>
+                </div>
+            </div>
         </div>
     </section>
-    <div>
+    <section class="filters" id="no-data-message" style="display: none;">
         <div class="fr-container">
-            <h2><span id="currents-count">{{ currents | size }}</span> membres des équipes d'Animation</h2>
+            <p>Il n'y a pas de résultats qui correspondent à ces filtres</p>
+        </div>
+    </section>
+    {%- for team in teams -%}
+    <section class="fr-py-6w" id="team-{{ team.id }}">
+        <div class="fr-container">
+            <h2>{{ team.name }}</h2>
+            <p>{{ team.mission }}</p>
             <div class="authors fr-grid-row fr-grid-row--gutters">
-                {%- for author in currents -%}
+                <!-- <div class="fr-col-6 fr-col-md-3">{%- include card-team.html team=team -%}</div> -->
+                {%- assign authors = authorsteam |  where_exp:"item", "item.teams contains team.id" -%} 
+                {%- for author in authors -%}
                 <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
                 {%- endfor -%}
             </div>
         </div>
-    </div>
+    </section>
+    {%- endfor -%}
+    <script src="/assets/additional/js/search-team.js" type="text/javascript"></script>
+    <script>
+        var urlParams = new URLSearchParams(window.location.search);
+        var incubatorValue = urlParams.get('incubateur');
+        authorsteam = generateDataWithHtmlCards(authorsteam);
+        createIncubatorSelect(authorsteam, teams, incubators, incubatorValue);
+    </script>
+

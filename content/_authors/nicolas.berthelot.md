@@ -15,6 +15,8 @@ missions:
     employer: IGN
 startups:
   - transport
+teams:
+  - /teams/fab-geocommuns
 ---
 
 Data & carto & mobilité

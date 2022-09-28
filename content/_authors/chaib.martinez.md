@@ -28,6 +28,8 @@ competences:
   - Gestion de Produit
   - Développement Frontend
   - Communication
+teams:
+  - /teams/communaute
 ---
 
 Accélérateur de startups d'État et de Térritoire. Acquisition, Activation, Retention, Referral, Impact 👊

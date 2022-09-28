@@ -10,5 +10,7 @@ missions:
     employer: Ministère de la Culture
 startups:
   - ellesfontlaculture
+teams:
+  - /teams/culture
 ---
 

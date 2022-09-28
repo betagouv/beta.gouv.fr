@@ -10,6 +10,8 @@ missions:
     end:  2023-10-01
     status: admin
     employer: affaires-sociales
+teams:
+  - /teams/sgmas
 
 ---
 

@@ -9,5 +9,8 @@ missions:
     status: admin
     employer: minint
 startups:
+teams:
+  - /teams/lab-mi
+
 
 ---

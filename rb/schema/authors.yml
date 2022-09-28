@@ -55,7 +55,7 @@ mapping:
     type:      seq
     sequence:
         - type:      str
-  "equipes":
+  "teams":
     type:      seq
     sequence:
         - type:      any  
