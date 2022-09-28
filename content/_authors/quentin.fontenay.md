@@ -6,7 +6,7 @@ link: https://quentin-fontenay.fr/
 github: QuentinFontenay
 missions:
   - start: 2022-01-24
-    end: 2022-09-30
+    end: 2022-10-28
     status: service
     employer: Octo
 startups:
