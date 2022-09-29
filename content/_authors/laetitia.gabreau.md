@@ -1,6 +1,6 @@
 ---
 fullname: Laetitia Gabreau
-domaine: Déploiement; Produit
+domaine: Déploiement
 role: Chargée de produit / Chargée de déploiement
 missions:
   - start: 2021-10-01
