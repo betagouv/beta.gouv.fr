@@ -8,7 +8,7 @@ layout: default
 
 {%- assign teams = dinum_animation_team | concat: dinum_teams | concat: not_dinum_teams -%}
 {% assign lang = page.lang | default: site.lang | default: "en" %}
-{% assign incubators = site.incubators %}
+{%- assign incubators = site.incubators -%}
 {%- assign current_authors = site.authors | community: 'current' -%}
 {%- assign team_authors = current_authors |  where_exp:"item", "item.teams.size != 0" -%}
 {%- assign current_authors = site.authors | community: 'current' -%}
@@ -103,10 +103,21 @@ site.lang | default: "fr" -%}
         </div>
     </section>
     {%- for team in teams -%}
+    {% capture incubator_id %}/incubators/{{ team.incubator }}{% endcapture %}
+    {% assign incubator = site.incubators | find: 'id', incubator_id %}
     <section class="fr-py-6w" id="team-{{ team.id }}">
         <div class="fr-container">
-            <h2>{{ team.name }}</h2>
-            <p>{{ team.mission }}</p>
+            <div class="fr-grid-row fr-grid-row--gutters">
+                <div class="fr-col-8 fr-col-sm-12">
+                    <h2>{{ team.name }}</h2>
+                    <p>{{ team.mission }}</p>
+                    {% if team.incubator != 'dinum' and incubator.website %}
+                        <a href="{{ incubator.website }}" class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right">
+                            Voir le site de l'incubateur
+                        </a>
+                    {% endif %}
+                </div>
+            </div>
             <div class="authors fr-grid-row fr-grid-row--gutters">
                 <!-- <div class="fr-col-6 fr-col-md-3">{%- include card-team.html team=team -%}</div> -->
                 {%- assign authors = team_authors |  where_exp:"item", "item.teams contains team.id" -%} 
