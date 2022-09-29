@@ -8,7 +8,7 @@ missions:
     status: service
     employer: Octo
   - start: 2021-10-01
-    end: 2026-09-01
+    end: 2022-12-31
     status: service
     employer: TelesCoop
 previously:
