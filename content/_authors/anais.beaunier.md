@@ -7,6 +7,8 @@ missions:
     end: 2022-01-13
     status: independent
     employer: Dossierfacile
+startups:
+  - locatio
 ---
 
 Secrétaire et assistante indépendante auprès d'entreprises et de particuliers
