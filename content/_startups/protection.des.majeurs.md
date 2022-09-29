@@ -1,29 +1,48 @@
 ---
-title: Protection des majeurs
-mission: "Faciliter l’accès aux dossiers de la protection des majeurs afin
-  d’offrir aux justiciables des délais plus courts de prise en charge de leurs
-  demandes. "
+title: Accès Majeur Protégé
+mission: "Faciliter la procédure de mise sous tutelle, curatelle et d'habilitation familiale pour les familles et les mandataires."
 sponsors:
-  - /organisations/anct
-incubator: dinum
+  - /organisations/mj
+incubator: justice
 contact: anne.devoret@beta.gouv.fr
 accessibility_status: non conforme
+events:
+  - name: other
+    date: 2022-06-29
 phases:
-  - name: success
+  - name: investigation
     start: 2022-06-29
+    end: 2022-10-31
 ---
 ## Contexte
 
-La start-up prend racine depuis les services de Greffe Judiciaire du Tribunal judiciaire de PARIS, dans le service de la protection des majeurs. 
+L’activité du SPM est de gérer des mesures de protection des personnes vulnérables. Il s’agit principalement de personnes atteintes de troubles psychiatriques, de troubles cognitifs (personnes âgées) et de handicaps mentaux. Un tiers (proche ou MJPM) est désigné pour aider la personne vulnérable en l'assistant ou en la représentant. C'est ce tiers qui tiendra les échanges avec le service. Dans ce cadre, de nombreux documents seront échangés et alimenteront le dossier — dit 'vivant'— du majeur protégé. 
+Aujourd'hui, les processus de traitement des dossiers au SPM se font exclusivement sous format papier. Les dossiers de chaque majeur protégés sont stockés dans le tribunal.
 
 ## Problème
 
-La gestion complexe des dossiers — aujourd'hui papier — des majeurs sous protection. Le fait que ces dossiers ne soit pas numérique engendre beaucoup de discontinuité dans leur gestion : aller-retour avec u numérique, stockage complexe et lourd, perte de temps dans la recherche des dossiers, etc. 
+Si les dossiers sont aujourd'hui exclusivement en format papier, les utilisateurs eux, communiquent avec le service via 4 canaux possibles : par mail, par voie postale, par portail numérique ou encore via l'accueil physique au tribunal. L'ensemble des documents ainsi reçus sont imprimés et classés dans les dossiers papiers. 
+Côté greffe, la grande majorité des documents (jugements, convocations, notifications, etc.) sont générés numériquement par les services puis imprimés et envoyés par voie postale et stockés en duplicata. 
+
+La gestion papier et la multiplication de ces canaux génère plusieurs problèmes. 
+
+1. **Le manque d'unification du parcours pour les usagers et manque de transparence.** Pour les requérants, l'absence de portail unique et le fractionnement des canaux d'échanges ne permettent pas une vision d'ensemble du parcours, des repères clairs de progression, un point d'entrée unique pour l'ensemble des démarches. 
+2. **Les doubles saisies, impressions et scans de documents numériques natifs pour les usagers externes.** Nombreux sont les acteurs aujourd'hui générant des pièces numériques natives (par exemple, pièces justificatives, les comptes de gestion de MJPM, les certificats médicaux, etc.) en grande partie sur des logiciels métier dédiés. Pour être communiqué au service, ces documents sont imprimés et envoyés par voie postale. Cela est coûteux en papier, en transport, mais aussi en temps et allongent leur temps de traitement.
+3. **Pénibilité de la gestion manuelle des dossiers pour les usagers internes.** Il est estimé qu'un greffier passe en moyen 2 heures par jour à la recherche, au stockage et au tri des dossiers papier. Cela représente un temps considérable dans la charge de travail déjà en tension et contribue fortement à l'allongement des délais de prise en charge. Aussi, parce que ces activités sont éreintantes physiquement et peu gratifiantes, elles démotivent les équipes générant de la souffrance quotidienne et du turnover dans les équipes.
 
 ## Solution
 
-Décrit ta solution en quelques lignes? qui seront/sont les bénéficiaires ?
+Créer un portail complet pour les requérants et mandataires, depuis la requête en ouverture jusqu'à la clôture du dossier. Ce portail, à terme, inclura :
+- un espace personnel de consultation du dossier pour le mandataire
+- un accès à l'ensemble des démarches et récurrences afférentes au dossier
+- un canal de communication avec le service
+- un backoffice de stockage et de traitement du dossier pour les greffes et magistrats
 
 ## Stratégie
 
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
+En créant un portail unique de démarche, les requérants seront pris en charge dès la première requête et auront accès à la vie du dossier.  
+
+Trois indicateurs d'impact seront à évaluer : 
+- réduction du temps de gestion pour les utilisateurs (MJPM prioritaires) 
+- réduction du délai des délais d'instructions 
+- réduction du temps journalier de gestion des dossiers par les greffes
