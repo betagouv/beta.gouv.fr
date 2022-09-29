@@ -27,7 +27,7 @@ Des tapisseries de la cathédrale de Langres à la machine à vapeur d'Arc-en-Ba
 
 Ces objets font partie intégrante de notre patrimoine et témoignent de notre histoire.
 
-![](/img/startups/collectif_objets/carte-france.png "France localisation"){ .img-carte }
+![](/img/startups/collectif_objets/carte-france.png "France localisation"){ class=".img-carte" }
 
 **L'Etat se fixe pour objectif de les récoler tous les cinq ans** afin d’assurer la pérennité de ce patrimoine et sa transmission aux générations futures. 250 conservatrices et conservateurs sont mobilisés dans cette tâche.
 
