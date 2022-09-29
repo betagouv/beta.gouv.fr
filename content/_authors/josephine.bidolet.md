@@ -1,5 +1,5 @@
 ---
-fullname: joséphine bidolet
+fullname: Joséphine Bidolet
 role: Chargée de déploiement
 domaine: Déploiement
 missions:
