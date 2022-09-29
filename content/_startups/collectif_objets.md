@@ -27,7 +27,7 @@ Des tapisseries de la cathédrale de Langres à la machine à vapeur d'Arc-en-Ba
 
 Ces objets font partie intégrante de notre patrimoine et témoignent de notre histoire.
 
-![](/img/startups/collectif_objets/carte-france.png "France localisation"){: width="250" display="block" margin="auto" }
+![](/img/startups/collectif_objets/carte-france.png "France localisation"){ .img-carte }
 
 **L'Etat se fixe pour objectif de les récoler tous les cinq ans** afin d’assurer la pérennité de ce patrimoine et sa transmission aux générations futures. 250 conservatrices et conservateurs sont mobilisés dans cette tâche.
 
@@ -41,7 +41,7 @@ La tâche est en effet colossale sachant que **trois commune sur quatre abritent
 
 **Cette absence de suivi régulier génère une lente déperdition de ce patrimoine.** Les objets sont menacés par l’oubli, sont détériorés par des restaurations hasardeuses ou encore dérobés…
 
-# Un service numérique pour accélérer le recensement des objets protégés et faciliter le dialogue entre les communes propriétaires et les conservateurs
+# Faciliter le dialogue entre les communes propriétaires et les conservateurs
 
 Collectif Objets veut répondre à ce défi en donnant aux communes les moyens de s’investir dans la protection de leur patrimoine en :
 
@@ -71,3 +71,11 @@ Avec plus de **3000 objets recensés et 500 communes participantes lors de cette
 * Soit 800 objets prioritaires analysés au global à fin janvier 2023 (x10).
 
 > → Si vous êtes êtes intéressé.e par notre démarche et souhaitez y prendre part, vous pouvez nous écrire à : collectifobjets@beta.gouv.fr
+
+<style>
+  .img-carte {
+    display: block;
+    width: 250px;
+    margin: auto;
+  }
+</style>
