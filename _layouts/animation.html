@@ -2,16 +2,20 @@
 layout: default
 ---
 
-{%- assign teams = site.teams -%}
+{%- assign not_dinum_teams = site.teams |  where_exp:"item", "item.incubator != 'dinum'" -%}
+{%- assign dinum_teams = site.teams |  where_exp:"item", "item.incubator == 'dinum' and item.id != '/teams/dinum'" -%}
+{%- assign dinum_animation_team = site.teams |  where_exp:"item", "item.id == '/teams/dinum'" -%}
+
+{%- assign teams = dinum_animation_team | concat: dinum_teams | concat: not_dinum_teams -%}
 {% assign lang = page.lang | default: site.lang | default: "en" %}
 {% assign incubators = site.incubators %}
-{% assign incubators = site.incubators %}
-{%- assign authorsteam = site.authors | community: 'current' -%}
-{%- assign authorsteam = authorsteam |  where_exp:"item", "item.teams.size != 0" -%}
+{%- assign current_authors = site.authors | community: 'current' -%}
+{%- assign team_authors = current_authors |  where_exp:"item", "item.teams.size != 0" -%}
+{%- assign current_authors = site.authors | community: 'current' -%}
 
 <script>
     var authorsteam = [
-        {% for current in authorsteam %}
+        {% for current in team_authors %}
             { "id"        : "{{ current.id }}",
                 "fullname": "{{ current.fullname}}",
                 "link": "{{ current.link }}",
@@ -105,7 +109,7 @@ site.lang | default: "fr" -%}
             <p>{{ team.mission }}</p>
             <div class="authors fr-grid-row fr-grid-row--gutters">
                 <!-- <div class="fr-col-6 fr-col-md-3">{%- include card-team.html team=team -%}</div> -->
-                {%- assign authors = authorsteam |  where_exp:"item", "item.teams contains team.id" -%} 
+                {%- assign authors = team_authors |  where_exp:"item", "item.teams contains team.id" -%} 
                 {%- for author in authors -%}
                 <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
                 {%- endfor -%}

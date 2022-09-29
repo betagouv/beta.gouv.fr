@@ -18,5 +18,6 @@ badges:
   - segur
 teams:
   - /teams/dinum
+  - /teams/fast
 ---
 

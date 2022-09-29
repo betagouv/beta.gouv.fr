@@ -16,5 +16,7 @@ badges:
 competences:
   - Coaching
   - Gestion de Produit
+teams:
+  - /teams/fast
 ---
 Coach senior
