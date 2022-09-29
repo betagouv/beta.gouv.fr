@@ -14,6 +14,7 @@ startups:
     - innovation-urbaine
     - resorption-bidonvilles
     - sparte
+previously:
     - zero-logement-vacant
 missions:
   - start: 2021-09-30
