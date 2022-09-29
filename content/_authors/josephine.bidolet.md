@@ -7,5 +7,7 @@ missions:
     end: 2023-09-11
     status: admin
     employer: DGALN
+startups:
+  - locatio
 ---
 
