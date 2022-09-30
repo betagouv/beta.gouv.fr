@@ -9,6 +9,8 @@ missions:
     employer: LBC
 startups:
   - UrbanVitaliz
+  previously:
+  - Aides-territoires
 badges:
   - segur
 competences:
