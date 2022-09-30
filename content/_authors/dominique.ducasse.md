@@ -13,7 +13,6 @@ startups:
   - camino
   - docurba
   - envergo
-  - urbanvitaliz
   - innovation-urbaine
   - resorption-bidonvilles
   - sparte
