@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo
   - start: 2022-09-01
-    end: 2025-09-31
+    end: 2025-08-31
     status: admin
     employer: gip-inclusion    
 startups:
