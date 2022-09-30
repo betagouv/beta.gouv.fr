@@ -10,7 +10,6 @@ missions:
     status: admin
     employer: DINUM
 startups:
-  - data.gouv.fr
 badges:
   - segur
 ---
