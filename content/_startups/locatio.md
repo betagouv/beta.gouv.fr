@@ -44,7 +44,7 @@ Bailleurs et professionnels de l'immobilier, DossierFacile est là pour vous ras
 
 ## Notre déploiement
 
-Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. Fin 2021, ce sont déjà plus de 350 000 locataires, 20 000 propriétaires et une dizaine de professionnels de l'immobilier qui ont choisi de nous faire confiance. 
+Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. A date, ce sont déjà plus de 500 000 locataires, 30 000 propriétaires et une dizaine de professionnels de l'immobilier qui ont choisi de nous faire confiance. 
 
 ## Notre impact et notre budget
 Depuis sa création, DossierFacile a accompagné plus de 500 000 candidats locataires dans la création de leur dossier de location. Ce sont autant de personnes qui ont pu constituer un dossier de location conforme et sécurisé, et autant de propriétaires ou d'agences rassurées, avec un impact avéré sur les escroqueries au logement et la vacance frictionnelle.
@@ -69,10 +69,12 @@ Pour le second semestre 2022, nous souhaitons notamment :
 - refondre les parcours pour les couples, aujourd'hui source de frictions
 - continuer l'accompagnement de partenaires sur notre plateforme.
 
-## Nos indicateurs d'impact d'ici mi-2022
+## Nos indicateurs d'impact pour les prochains mois
 
-D'ici décembre 2022, nous avons pour objectif de poursuivre notre croissance de 40% par rapport à l'année dernière et de stabiliser notre coût marginal par dossier validé autour des 1,50€.
+Dans les 6 prochains mois, nous avons pour objectif de poursuivre notre croissance de 40% par rapport à l'année dernière et de stabiliser notre coût marginal par dossier validé autour des 1,50€.
 
 Chez DossierFacile, nous voyons grand. Partant du dossier de location, nous avons l’ambition d’accompagner locataires et bailleurs tout au long de leur relation - et ce ne sont pas les idées qui nous manquent ! Pour autant, nous savons qu’inspirer la confiance est un défi de longue haleine qui ne pourra être relevé que pas à pas. Gardant tout ça en tête, nous n’avons qu’une boussole : toujours mieux servir les citoyens.
 
 Vous avez une idée ? Une question ? Vous souhaitez contribuer au projet ? <a href="mailto:contact@dossierfacile.fr">N’hésitez pas à nous écrire.</a>
+
+(mis à jour le 29/09/2022)
