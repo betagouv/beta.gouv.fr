@@ -24,6 +24,8 @@ previously:
   - aidantsconnect
 badges:
   - segur
+teams:
+  - /teams/dinum
 ---
 
 [Cliquez ici pour améliorer cette bio]

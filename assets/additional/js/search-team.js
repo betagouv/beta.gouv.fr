@@ -1,4 +1,6 @@
-const MEMBER_PLACEHOLDER = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
+const STARTUP_PLACEHOLDER = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
+
+var filters = [];
 
 var createStartupTag = function (startupId) {
   if (!startupId) return "";
@@ -12,14 +14,6 @@ var createStartupTag = function (startupId) {
       <a href="/startups/${startupId}" class="fr-tag" target="_self">${startup.title || startupId}</a>
     </li>`;
 };
-
-function convertDate(inputFormat) {
-  function pad(s) {
-    return s < 10 ? "0" + s : s;
-  }
-  var d = new Date(inputFormat);
-  return [pad(d.getDate()), pad(d.getMonth() + 1), d.getFullYear()].join("/");
-}
 
 var createAuthorCard = function (author) {
   var card = document.createElement("div");
@@ -71,35 +65,6 @@ var createAuthorCard = function (author) {
   return card;
 };
 
-function markupForCard(params) {
-  const { title, detail, content, tags, other, avatar } = params;
-
-  return `
-<div class="fr-card fr-card--grey">
-  <div class="fr-card__body">
-    <div class="fr-card__content">
-      <div class="fr-card__start">
-    <h3 class="fr-card__title fr-mb-2w">
-      ${title}
-    </h3>
-    <p class="fr-card__detail">
-      ${detail}
-    </p>
-    ${content ? '<p class="fr-card__desc">' + content + "</p>" : ""}
-    ${tags ? '<ul class="fr-tags-group">' + tags + "</ul>" : ""}
-    ${!!other ? '<p class="fr-card__detail">' + other + "</p>" : ""}
-  </div>
-</div>
-</div>
-<div class="fr-card__header">
-  <div class="fr-card__img">
-    <div class="avatar fr-py-2w">
-      ${avatar}
-    </div>
-  </div>
-</div>
-</div>`;
-}
 
 var generateDataWithHtmlCards = function (members) {
   var keys = Object.keys(members);
@@ -112,7 +77,56 @@ var generateDataWithHtmlCards = function (members) {
   return members;
 };
 
-var createIncubatorSelect = function (members, incubators, initValue) {
+var displayNoDataMessage = function (shouldDisplay) {
+  var noDataMessage = document.getElementById("no-data-message");
+  if (shouldDisplay) {
+    noDataMessage.style.display = "block";
+  } else {
+    noDataMessage.style.display = "none";
+  }
+};
+
+var filterCards = function (data, value) {
+  if (filters["incubator"]) {
+    data = data.filter((d) => d.incubator_id === filters["incubator"]);
+  }
+  return data;
+};
+
+var displayTeam = (team) => {
+  var $section = document.getElementById('team-'+ team.id)
+  $section.style.display = 'block'
+}
+
+var hideTeam = (team) => {
+  var $section = document.getElementById('team-'+ team.id)
+  $section.style.display = 'none'
+}
+
+var updateCards = function (authorsteam, teams) {
+  displayNoDataMessage(false);
+  var teamsInIncubator = teams
+  var teamsNotInIncubator = []
+  if (filters['incubator']) {
+    teamsInIncubator = teams.filter(team => team.incubator_id === filters["incubator"])
+    teamsNotInIncubator = teams.filter(team => team.incubator_id !== filters["incubator"])
+  }
+  console.log(filters, teamsInIncubator)
+
+  for (var i=0; i < teamsInIncubator.length; i++) {
+    var team = teamsInIncubator[i]
+    displayTeam(team)
+  }
+  for (var i=0; i < teamsNotInIncubator.length; i++) {
+    var team = teamsNotInIncubator[i]
+    hideTeam(team)
+  }
+  if (!teamsInIncubator.length) {
+    displayNoDataMessage(true)
+  }
+};
+
+var createIncubatorSelect = function (authorsteam, teams, incubators, initValue) {
   var selectIncubator = document.getElementById("select-incubateur");
   var optionFragment = document.createDocumentFragment();
   for (var i = 0; i < incubators.length; i++) {
@@ -123,49 +137,18 @@ var createIncubatorSelect = function (members, incubators, initValue) {
     optionFragment.appendChild(option);
   }
   selectIncubator.appendChild(optionFragment);
-  var intersection = function (array1, array2) {
-    return Boolean(
-      array1.filter(function (n) {
-        return array2.indexOf(n) !== -1;
-      }).length
-    );
-  };
   var onIncubatorChange = function (value) {
-    var selectedStartups = (value ? startups.filter((d) => d.incubator_id === value) : startups).map((s) => s.id);
-    var currentsToDisplay = members.filter((member) => intersection(member.startups, selectedStartups) || member.incubator === value);
-    currentsToDisplay = currentsToDisplay.map((d) => ({
-      ...d,
-      html: createAuthorCard(d),
-    }));
-    var alumnisToDisplay = alumnis.filter((alumni) => intersection(alumni.startups, selectedStartups) || alumni.incubator === value);
-    alumnisToDisplay = alumnisToDisplay.map((d) => ({
-      ...d,
-      html: createAuthorCard(d),
-    }));
-    var documentFragmentCurrents = document.createDocumentFragment();
-    for (var j = 0; j < currentsToDisplay.length; j++) {
-      documentFragmentCurrents.appendChild(currentsToDisplay[j].html);
+    filters["incubator"] = value;
+    var incubatorElements = document.getElementsByClassName("incubator-header");
+    for (var i = 0; i < incubatorElements.length; i++) {
+      var incubatorElement = incubatorElements[i];
+      if (incubatorElement.id !== value) {
+        incubatorElement.style.display = "none";
+      } else {
+        incubatorElement.style.display = "block";
+      }
     }
-    var gridCurrents = document.getElementsByClassName("authors")[0];
-    gridCurrents.innerHTML = "";
-    gridCurrents.appendChild(documentFragmentCurrents);
-    var countCurrentsElement = document.getElementById("currents-count");
-    countCurrentsElement.innerHTML = currentsToDisplay.length;
-
-    var documentFragmentAlumnis = document.createDocumentFragment();
-    for (var j = 0; j < alumnisToDisplay.length; j++) {
-      documentFragmentAlumnis.appendChild(alumnisToDisplay[j].html);
-    }
-    var gridAlumnis = document.getElementsByClassName("alumnis")[0];
-    gridAlumnis.innerHTML = "";
-    gridAlumnis.appendChild(documentFragmentAlumnis);
-    var countAlumnisElement = document.getElementById("alumnis-count");
-    countAlumnisElement.innerHTML = alumnisToDisplay.length;
-
-    if (window.lozad) {
-      const observer = lozad();
-      observer.observe();
-    }
+    updateCards(authorsteam, teams);
   };
   if (initValue) {
     selectIncubator.value = initValue;

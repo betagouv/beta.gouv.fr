@@ -20,5 +20,7 @@ badges:
 competences:
   - Développement Backend
   - Développement Frontend
+teams:
+  - /teams/communaute
 ---
 Développeur Web Fullstack
