@@ -4,7 +4,7 @@ domaine: Coaching
 role: Coach
 missions:
   - start: 2022-03-28
-    end: 2022-11-30
+    end: 2023-01-31
     status: independent
 startups:
   - oilhi
