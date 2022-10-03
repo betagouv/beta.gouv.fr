@@ -1,10 +1,13 @@
 ---
 fullname: Valérie Courcol
+domaine: Intraprenariat
 role: Intrapreneur
-domaine: Coaching
 missions:
   - start: 2022-03-28
     end: 2022-09-30
     status: admin
+startups:
+  - oilhi
+competences:
+  - Administration Publique
 ---
-
