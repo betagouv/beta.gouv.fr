@@ -10,7 +10,7 @@ missions:
     status: admin
     employer: DINUM
   - start: 2022-01-04
-    end: 2022-11-30
+    end: 2023-01-08
     status: independent
     employer: Benext
 previously:

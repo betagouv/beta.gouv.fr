@@ -14,6 +14,8 @@ missions:
     status: independent
 competences:
   - Coaching
+startups:
+  - mission.debroussaillement
 previously:
   - aides.jeunes
 ---
