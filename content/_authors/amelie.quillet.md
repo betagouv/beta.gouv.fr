@@ -8,9 +8,9 @@ missions:
     status: independent
     employer: LBC
 startups:
-  - UrbanVitaliz
-  previously:
-  - Aides-territoires
+  - urbanvitaliz
+previously:
+  - aides-territoires
 badges:
   - segur
 competences:
