@@ -8,6 +8,7 @@ missions:
     status: admin
 startups:
   - partaj
+previously:
   - camino
 competences:
   - Croissance
