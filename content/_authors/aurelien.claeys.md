@@ -14,4 +14,6 @@ badges:
 competences:
   - Administration Publique
   - Gestion de Produit
+startups:
+  - plateforme.impact
 ---
