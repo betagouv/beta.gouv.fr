@@ -26,9 +26,9 @@ missions:
     end: 2022-12-31
     status: independent
 startups:
-  - metiers-numeriques
   - monitorfish
 previously:
+  - metiers-numeriques
   - codedutravail
   - inca
 competences:
