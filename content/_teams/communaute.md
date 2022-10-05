@@ -1,6 +1,6 @@
 ---
 name: Communauté XP @ DINUM
-mission: Améliorer l'expérience des membres de la communauté
+mission: Équipe transverse qui vise à améliorer l’expérience vécue par les membres de la communauté Beta.gouv.
 incubator: dinum
 ---
 ## Le problème

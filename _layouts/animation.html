@@ -105,7 +105,11 @@ site.lang | default: "fr" -%}
         <div class="fr-container">
             <div class="fr-grid-row fr-grid-row--gutters">
                 <div class="fr-col-8 fr-col-sm-12">
-                    <h2>{{ team.name }}</h2>
+                    {% if team.name %}
+                        <h2>{{ team.name }}</h2>
+                    {% else %}
+                        <h2>{{ incubator.title }}</h2>
+                    {% endif %}
                     <p>{{ team.mission }}</p>
                     {% if team.incubator != 'dinum' and incubator.website %}
                         <a href="{{ incubator.website }}" class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right">
