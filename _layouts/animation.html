@@ -108,8 +108,7 @@ site.lang | default: "fr" -%}
                 <div class="fr-col-8 fr-col-sm-12">
                     {% if team.name %}
                         <h2>{{ team.name }}</h2>
-                    {% endif %}
-                    {% if !team.name %}
+                    {% else %}
                         <h2>{{ incubator.title }}</h2>
                     {% endif %}
                     <p>{{ team.mission }}</p>
