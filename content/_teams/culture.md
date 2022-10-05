@@ -1,6 +1,5 @@
 ---
-name: Equipe Culture
-mission: Coanimateur-trice, responsables d'incubateur et tech de la Culture
+mission: Coanimateurs et Coanimatrices, Responsables d'incubateur, Responsable tech, et membre transverse
 incubator: culture
 ---
 Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
