@@ -109,7 +109,7 @@ site.lang | default: "fr" -%}
                     {% if team.name %}
                         <h2>{{ team.name }}</h2>
                     {% endif %}
-                    {% if not team.name %}
+                    {% if !team.name %}
                         <h2>{{ incubator.title }}</h2>
                     {% endif %}
                     <p>{{ team.mission }}</p>
