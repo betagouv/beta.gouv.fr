@@ -9,12 +9,12 @@ missions:
     end: 2030-12-31
     status: service
 startups:
-  - tutorat_fp
-  - talents.numeriques
   - bourses.scolaires
   - justif
-previously:
   - metiers-numeriques
+previously:
+  - talents.numeriques
+  - tutorat_fp
 badges:
   - segur
 ---
