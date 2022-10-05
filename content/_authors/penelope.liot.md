@@ -14,5 +14,7 @@ previously:
   - mon-entreprise
 competences:
   - Coaching
+teams:
+  - /teams/fast
 ---
 Accompagnement de produits Gamma

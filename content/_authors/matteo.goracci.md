@@ -1,11 +1,17 @@
 ---
 fullname: Matteo Goracci
-role: Stagiaire Incubateur des Territoires
-domaine: Autre
+role: Chargé de support utilisateurs
+domaine: Déploiement
 missions:
   - start: 2022-01-17
     end: 2022-06-17
     status: admin
     employer: ANCT
+  - start: 2022-09-12
+    end: 2022-12-12
+    status: independent
+    employer: OCTO
+startups:
+  - aidantsconnect
 ---
 

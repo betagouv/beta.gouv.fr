@@ -4,7 +4,7 @@ mission: Faciliter l'inscription à des rencontres de recrutement adaptées à s
 sponsors:
     - /organisations/pole-emploi
 incubator: pole-emploi
-link: https://peactions.pole-emploi.fr
+link: https://mesevenementsemploi.pole-emploi.fr
 contact: sandrine.david2@pole-emploi.fr
 events:
   - name: product_launch

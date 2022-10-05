@@ -8,7 +8,6 @@ missions:
     end: 2022-12-31
     status: independent
 startups:
-  - matcha
   - catalogue-apprentissage
   - la-bonne-alternance
 ---

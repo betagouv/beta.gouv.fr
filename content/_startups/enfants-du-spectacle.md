@@ -4,17 +4,22 @@ mission: Simplifier les demandes d’emploi pour renforcer la protection des enf
 sponsors:
   - /organisations/solidarite-sante
 incubator: sgmas
-contact: enfantsduspectacle@fabrique.social.gouv.fr
-events: []
 repository: https://github.com/SocialGouv/enfants-du-spectacle
+contact: enfantsduspectacle@fabrique.social.gouv.fr
+accessibility_status: non conforme
+usertypes:
+  - etat
+dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/enfants-du-spectacle-fabrique-social-gouv-fr/
+events: []
 phases:
   - name: investigation
     start: 2021-02-01
     end: 2021-07-01
   - name: construction
     start: 2021-07-01
-usertypes:
-  - etat
+    end: 2022-09-01
+  - name: acceleration
+    start: 2022-09-01
 ---
 
 ## Le contexte

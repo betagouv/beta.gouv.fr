@@ -1,10 +1,10 @@
 ---
 fullname: Julieta Barado
-role: Chargée de déploiement
-domaine: Déploiement
+role: Coordonnatrice des données - DGALN
+domaine: Animation
 missions:
-  - start: 2021-04-05
-    end: 2021-08-08
+  - start: 2022-09-15
+    end: 2025-09-14
     status: admin
     employer: Ministère de la Transition Ecologique
 startups:
@@ -12,4 +12,3 @@ previously:
   - trackdechets
 ---
 
-Bizdév. en croissance !

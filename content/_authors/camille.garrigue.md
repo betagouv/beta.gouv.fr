@@ -12,4 +12,6 @@ missions:
 startups:
 previously:
     - rdv-solidarites
+teams:
+  - /teams/communaute
 ---

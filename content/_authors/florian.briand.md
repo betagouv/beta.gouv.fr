@@ -10,6 +10,7 @@ missions:
     employer: Liberté Living Lab
 startups:
   - romin
+  - uvf-numerique
 previously:
   - justif
   - inca

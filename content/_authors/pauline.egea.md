@@ -1,5 +1,5 @@
 ---
-fullname: Pauline EGEA
+fullname: Pauline Egea
 role: BizDev
 domaine: Autre
 github: paulineegea

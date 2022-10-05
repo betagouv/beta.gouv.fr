@@ -27,4 +27,6 @@ previously:
   - gap
 badges:
   - segur
+teams:
+  - /teams/dinum
 ---

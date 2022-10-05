@@ -8,12 +8,11 @@ missions:
     status: admin
     employer: pole-emploi
 startups:
-    - la-bonne-formation 
     - dematapprentissage
-    - rdv.apprentissage
-    - matcha
     - la-bonne-alternance 
     - sirius
+previously:
+    - la-bonne-formation 
     
 ---
 

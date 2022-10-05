@@ -19,4 +19,6 @@ previously:
 badges:
   - segur
 github: jihanehrz
+teams:
+  - /teams/dinum
 ---

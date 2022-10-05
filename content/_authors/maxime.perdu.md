@@ -7,7 +7,7 @@ avatar:
 link: 
 missions:
   - start: 2020-08-20
-    end: 2022-12-31   
+    end: 2022-08-31   
     status: independent
 startups : 
   - jeveuxaider

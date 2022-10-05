@@ -34,4 +34,6 @@ previously:
     - tutorat_fp
 badges:
   - segur
+teams:
+  - /teams/dinum
 ---

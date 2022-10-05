@@ -32,4 +32,6 @@ startups:
 previously:
     - transport
     - preuve-de-covoiturage
+teams:
+  - /teams/dinum
 ---
