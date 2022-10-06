@@ -12,7 +12,7 @@ phases:
     end: 2021-05-31
   - name: construction
     start: 2021-07-09
-    end: 2022-05-30
+    end: ""
 usertypes:
   - etat
 ---
