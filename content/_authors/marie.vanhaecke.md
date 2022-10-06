@@ -13,7 +13,6 @@ startups:
   - bourses.scolaires
   - justif
 previously:
-  - metiers-numeriques
   - tutorat_fp
   - talents.numeriques
 badges:
