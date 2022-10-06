@@ -12,6 +12,9 @@ phases:
     start: 2018-03-19
   - name: construction
     start: 2018-03-19
+events: 
+  - name: national_impact
+    date: 2021-12-31
 link: https://labonnealternance.pole-emploi.fr
 repository: https://github.com/mission-apprentissage/labonnealternance
 stats_url: https://labonnealternance.pole-emploi.fr/stats

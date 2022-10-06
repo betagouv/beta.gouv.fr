@@ -1,5 +1,5 @@
 ---
-title: Datagir (ex Ecolab)
+title: Datagir
 mission: Apporter l'information environnementale au plus près des citoyens
 sponsors:
   - /organisations/ademe

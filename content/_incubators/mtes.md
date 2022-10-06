@@ -1,5 +1,5 @@
 ---
-title: La Fabrique Numérique de l'Ecologie
+title: La Fabrique Numérique de l'Ecologie (MTE-MCT)
 owner: /organisations/mtes
 logo: logo_fabnum_mtes.png
 website: https://mtes-mct.github.io/portail

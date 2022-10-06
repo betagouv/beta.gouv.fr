@@ -1,0 +1,15 @@
+{% comment %}
+  Appeler cette page avec une startup.
+  Ex : {% include card-team.html team = team %}
+{% endcomment %}
+
+<div class="fr-col-12 fr-col-md-3 fr-mb-2w">
+  <div class="fr-card fr-card--grey fr-enlarge-link">
+    <div class="fr-card__body">
+      <h3 class="fr-card__title">
+        <a class="fr-card__link" href="{{ startup.url }}" >{{ team.name | strip_html }}</a>
+      </h3>
+      <p class="fr-card__desc">{{ team.mission | strip_html }}</p>
+    </div>
+  </div>
+</div>
