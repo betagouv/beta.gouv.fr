@@ -18,5 +18,7 @@ competences:
   - Coaching
   - Développement Frontend
   - Développement Backend
+ startups:
+  - reflex
 ---
 Bidouilleur, enseignant.
