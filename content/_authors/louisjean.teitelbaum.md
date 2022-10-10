@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: Numa
   - start: 2021-03-28
-    end: 2022-12-31
+    end: 2023-01-31
     status: independent
     employer: Numa
 competences:
