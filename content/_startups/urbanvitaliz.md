@@ -36,7 +36,7 @@ Le gisement foncier en friche représente un excellent potentiel de surfaces dé
 
 ### Les territoires peu denses et au marché foncier détendu ne se réapproprient pas leurs friches
 
-Beaucoup de friches situées dans des "petites" communes et intercommunalités restent à l'abandon pendant des années. En zone au marché foncier détendu, ces espaces ne se renouvellent pas sans intervention de la puissance publique car les cots de remise en état empchent la rentabilité de tels projets.
+Beaucoup de friches situées dans des "petites" communes et intercommunalités restent à l'abandon pendant des années. En zone au marché foncier détendu, ces espaces ne se renouvellent pas sans intervention de la puissance publique car les couts de remise en état empechent la rentabilité de tels projets.
 
 Les élu·e·s et technicien·ne·s de la collectivité, lorsqu'iels ont la volonté de voir une friche résorbée, font alors face à une grande complexité. Ce ne sont pas des spécialistes des friches, ils vont rencontrer de nombreux blocages : par où commencer, quelle est la prochaine étape ? Quels financements existent, sont disponibles pour mon projet ? Quels acteurs publics ou privés peuvent m'aider, avec quelles prestations ? Quels outils m'aideraient ? etc.
 
@@ -44,13 +44,15 @@ Les élu·e·s et technicien·ne·s de la collectivité, lorsqu'iels ont la volo
 
 Dans la situation actuelle, certaines collectivités renoncent à débloquer les gisements foncier en friche, ou perdent beaucoup de temps et d'argent à défaut de maîtriser les processus.
 
-**Cté acteurs publics locaux qui interviennent sur les friches**, beaucoup déplorent un manque de visibilité sur les projets friche des territoires, une difficulté à la suivre dans la durée et l'enjeu de la coordination à plusieurs acteurs intervenant.
+**Coté acteurs publics locaux qui interviennent sur les friches**, beaucoup déplorent un manque de visibilité sur les projets friche des territoires, une difficulté à la suivre dans la durée et l'enjeu de la coordination à plusieurs acteurs intervenant.
 
 ## La solution : UrbanVitaliz oriente les collectivités de manière personnalisée sur leurs projets de réhabilitation de friche, en collaboration avec les acteurs publics locaux
 
-Grce à une plateforme numérique sur-mesure et une équipe composée notamment d'urbanistes, UrbanVitaliz donne des recommandations d'actions à la collectivité, en fonction du projet qu'elle lui a soumis et des caractéristiques de la friches. **Elle oriente ainsi vers les acteurs, dispositifs, financements, prestations, outils et stratégies disponibles**, susceptibles de débloquer le porteur de projet. En moyenne, une collectivité qui sollicité UrbanVitaliz reçoit 5 recommandations qu'elle sera libre de mettre en pratique comme elle le souhaite.
+Après une phase d'investigation de mars à mai 2020, la construction du service a débuté fin 2020.
 
-\*\*De plus en plus, les acteurs de l'ingénierie publique locale prennent part à cet accompagnement des dossiers-friche déposés sur la plateforme\*\*. Il s'agit notamment, selon les territoires, des DDT, EPF, agences d'urbanisme etc. Ces acteurs y trouvent plusieurs bénéfices : connaissance approfondie des dossiers déposés sur leur territoire, historisation et suivi dans le temps, coordination multi-acteurs etc. Leur participation permet aussi d'enrichir le suivi des projets grce à une connaissance locale, une vision de territoire et une présence sur le terrain.
+Grace à une plateforme numérique sur-mesure et une équipe composée notamment d'urbanistes, UrbanVitaliz donne des recommandations d'actions à la collectivité, en fonction du projet qu'elle lui a soumis et des caractéristiques de la friches. **Elle oriente ainsi vers les acteurs, dispositifs, financements, prestations, outils et stratégies disponibles**, susceptibles de débloquer le porteur de projet. En moyenne, une collectivité qui sollicité UrbanVitaliz reçoit 5 recommandations qu'elle sera libre de mettre en pratique comme elle le souhaite.
+
+**De plus en plus, les acteurs de l'ingénierie publique locale prennent part à cet accompagnement des dossiers-friche déposés sur la plateforme.** Il s'agit notamment, selon les territoires, des DDT, EPF, agences d'urbanisme etc. Ces acteurs y trouvent plusieurs bénéfices : connaissance approfondie des dossiers déposés sur leur territoire, historisation et suivi dans le temps, coordination multi-acteurs etc. Leur participation permet aussi d'enrichir le suivi des projets grace à une connaissance locale, une vision de territoire et une présence sur le terrain.
 
 ## Stratégie de développement et déploiement du produit
 
