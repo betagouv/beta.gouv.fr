@@ -1,11 +1,10 @@
 ---
 title: Rafraîchir les villes
-mission: Aider les collectivités à faire les bons choix en termes de
-  rafraîchissement urbain
+mission: Accompagner les collectivités dans le choix de solutions de rafraîchissement urbain pérennes et durables
 sponsors:
   - /organisations/ademe
 incubator: ademe
-contact: penelope.liot@beta.gouv.fr
+contact: elodie.briche@ademe.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
@@ -18,13 +17,13 @@ phases:
 
 Le rapport du deuxième groupe du GIEC (2022) concernant l’adaptation au changement climatique confirme des craintes déjà établies : les **canicules estivales seront plus fréquentes, longues et intenses** et vont être le risque majeur en ville pour les décennies futures. Ces canicules présentent des enjeux à court terme en villes : socio-sanitaires notamment en termes de confort d’été/supportabilité, économiques, environnementaux mais aussi à long terme avec des défis immenses à l’horizon 2050 en termes d’atténuation et/ou adaptation au changement climatique sachant qu’il faudra composer avec une ville de demain déjà construite en grande partie.
 
-Ces canicules intensifient le phénomène d’îlot de chaleur urbain (ICU) (considéré comme la différence de température entre le centre-ville et la campagne environnante) mais aussi la surchauffe urbaine (incluant les températures de surfaces très élevées de certains matériaux mais aussi l’inconfort thermique provoqué pour les individus).
+Ces canicules intensifient le phénomène d’îlot de chaleur urbain (ICU) (considéré comme la différence de température entre le centre-ville et la campagne environnante) mais aussi la surchauffe urbaine (incluant les températures de surfaces très élevées de certains matériaux mais aussi l’inconfort thermique pour les individus).
 
 
 
 ## Problème
 
-**Or, les décisions politiques prises dans les collectivités en termes de lutte contre l’ICU sont aujourd’hui peu éclairées** notamment en ce qui concerne les mesures de rafraîchissement urbain avec des **actifs échoués** : végétalisation desséchée, coûts d’entretiens élevés, solution inadaptées au climat local, mal-adaptation, un **manque de solutions** (baignade dans les fontaines publiques car absence d’îlot de fraîcheur), **une surconsommation de climatisation** incompatible avec la transition écologique.
+**Les décisions politiques prises dans les collectivités en termes de lutte contre l’ICU sont aujourd’hui peu éclairées** notamment en ce qui concerne les mesures de rafraîchissement urbain avec des **actifs échoués** : végétalisation desséchée, coûts d’entretiens élevés, solution inadaptées au climat local, mal-adaptation, un **manque de solutions** (baignade dans les fontaines publiques car absence d’îlot de fraîcheur), **une surconsommation de climatisation** incompatible avec la transition écologique.
 
 
 
