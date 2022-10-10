@@ -10,11 +10,13 @@ missions:
     employer: Numa
 startups:
   - territoires-en-transitions
+  - rafraichir.les.villes
 previously:
   - mon-entreprise
+  - e-inspé
 competences:
   - Coaching
 teams:
   - /teams/fast
 ---
-Accompagnement de produits Gamma
+Accompagnement de produits Gamma et coaching de start-ups
