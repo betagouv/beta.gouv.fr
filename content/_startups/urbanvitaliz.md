@@ -17,6 +17,7 @@ sponsors:
   - /organisations/dinum
 link: https://urbanvitaliz.fr/
 stats: true
+budget_url: https://pad.incubateur.net/s/qeT5bzHUM
 phases:
   - name: investigation
     start: 2020-02-12
