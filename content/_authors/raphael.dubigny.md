@@ -16,7 +16,7 @@ missions:
 startups:
     - datapass
     - api.gouv.fr
-    - comptes_datapass
+    - mon-compte-pro
 previously:
     - api-particulier
 ---
