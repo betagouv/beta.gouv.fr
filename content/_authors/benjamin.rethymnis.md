@@ -1,14 +1,14 @@
 ---
-fullname: Benjamin RETHYMNIS
+fullname: Benjamin Rethymnis
 role: Développeur
 domaine: Développement
 link: https://corailfactory.eu
 github: benjamin-corailfactory
 missions:
   - start: 2022-10-11
-    end: 2023-01-11
+    end: 2023-04-30
     status: independent
-    employer: Wop Limited Company
+    employer: Wop
 startups:
   - Mon-suivi-social
 ---
