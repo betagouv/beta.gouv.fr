@@ -9,7 +9,7 @@ missions:
     status: service
     employer: Octo Technology
 startups:
-  - comptes_datapass
+  - mon-compte-pro
 badges:
   - segur
 ---
