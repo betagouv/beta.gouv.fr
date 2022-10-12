@@ -12,6 +12,5 @@ badges:
 startups:
     - datapass
     - api.gouv.fr
-    - mon-compte-pro
+    - moncomptepro
 ---
-

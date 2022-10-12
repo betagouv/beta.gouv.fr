@@ -1,6 +1,8 @@
 ---
-title: Mon Compte Pro
+title: MonComptePro
 mission: Un compte lié au numéro de SIRET de votre organisation
+link: https://moncomptepro.beta.gouv.fr
+repository: https://github.com/betagouv/api-auth
 incubator: dinum
 sponsors:
   - /organisations/dinum
