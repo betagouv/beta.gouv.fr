@@ -26,16 +26,10 @@ Dans le département de la Moselle, le CDAD se trouve implanté sur une très la
 
 ## Problème
 
-Il y a actuellement une perte de temps considérable pour les agents des MJD et des PJ du ressort qui\
-contactent par téléphone, un par un, les usagers la veille ou l’avant-veille de leur venue pour s’assurer\
-qu’ils seront bien présents à leur rendez-vous qui peut être fixé longtemps à l’avance.
+Il y a actuellement une perte de temps considérable pour les agents des MJD et des PJ du ressort qui contactent par téléphone, un par un, les usagers la veille ou l’avant-veille de leur venue pour s’assure qu’ils seront bien présents à leur rendez-vous qui peut être fixé longtemps à l’avance.
 
-De plus, le nombre de rendez-vous non honorés représentant un tiers des rendez-vous fixés, les agents\
-ne disposent pas toujours du temps nécessaire pour combler les créneaux rendus disponibles et ainsi\
-utiliser de façon optimale le temps consacré par les différents intervenants dans les structures.
+De plus, le nombre de rendez-vous non honorés représentant un tiers des rendez-vous fixés, les agents ne disposent pas toujours du temps nécessaire pour combler les créneaux rendus disponibles et ainsi utiliser de façon optimale le temps consacré par les différents intervenants dans les structures.
 
-Il y a aussi une perte d’efficacité dans la gestion des RDV car il n’existe pas de plannings partagés entre\
-les MJD et les PJ alors qu’ils peuvent avoir des intervenants communs. Si chaque agent avait une vue\
-d’ensemble sur le ressort, il pourrait donner des RDV plus rapides aux usagers dans un autre lieu.\
-Le recollement des statistiques est également très lourd pour les structures et le CDAD car elles se font\
-manuellement et chaque MJD travaille différemment.
+Il y a aussi une perte d’efficacité dans la gestion des RDV car il n’existe pas de plannings partagés entre les MJD et les PJ alors qu’ils peuvent avoir des intervenants communs. Si chaque agent avait une vue d’ensemble sur le ressort, il pourrait donner des RDV plus rapides aux usagers dans un autre lieu.
+
+La récolte des statistiques est également très lourde pour les structures et le CDAD car elles se font manuellement et chaque MJD travaille différemment.
