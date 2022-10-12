@@ -9,7 +9,7 @@ missions:
     status: service
     employer: Octo Technology
 startups:
-  - mon-compte-pro
+  - moncomptepro
 badges:
   - segur
 ---

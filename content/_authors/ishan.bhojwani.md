@@ -18,7 +18,7 @@ github: IshanB
 startups:
     - ma-cantine-egalim
     - recosante
-    - mon-compte-pro
+    - moncomptepro
 previously:
     - urbanvitaliz
     - ban
