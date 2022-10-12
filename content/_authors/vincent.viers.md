@@ -1,6 +1,6 @@
 ---
 fullname: Vincent Viers
-role: Product Manager Developer Experience / Data Scientist
+role: Data-trucs et coaching
 domaine: Développement
 github: vviers
 avatar:
@@ -27,4 +27,4 @@ previously:
     - a-just
 ---
 
-Data Developper & coach
+Data Dévelopeur & coach
