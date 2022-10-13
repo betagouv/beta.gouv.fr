@@ -2,8 +2,8 @@
 fullname: François Lacombe
 role: Chef de produit
 domaine: Produit
-link: https://www.infos-reseaux.com
-github: lacombef
+link: http://www.infos-reseaux.com
+github: flacombe
 missions:
   - start: 2022-10-02
     end: 2023-03-31
