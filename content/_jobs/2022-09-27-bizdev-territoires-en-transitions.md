@@ -1,6 +1,6 @@
 ---
 roles: une personne chargée de déploiement
-open: true
+open: false
 date: 2022-09-27
 startup: territoires-en-transitions
 title: Recherche d'une personne chargée de déploiement pour Territoires en Transitions
