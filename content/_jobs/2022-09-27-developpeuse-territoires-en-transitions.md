@@ -1,7 +1,7 @@
 ---
 roles: Une développeuse ou développeur fullstack
 startup: territoires-en-transitions
-open: true
+open: false
 date: 2022-09-27
 title: Recherche d'une développeuse ou développeur fullstack
 techno: Python
