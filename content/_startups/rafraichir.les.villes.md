@@ -31,7 +31,7 @@ Ces canicules intensifient le phénomène d’îlot de chaleur urbain (ICU) (con
 
 Pour lutter efficacement contre l’ICU mais aussi la surchauffe urbaine, les mesures de rafraîchissement urbain doivent être pensées à différentes échelles spatiales et temporelles avec l’utilisation de différents types de solutions (grises, vertes, bleues, douces). Il faut prendre en compte les contextes locaux en termes de morphologie urbaine et climat local, les échelles spatiales du bâtiment à la ville et même l’échelle de l’individu ; les échelles temporelles : actuelles et de changement climatique, temporalités de la planification mais aussi de l’aménagement opérationnel. Le végétal ou plus généralement les solutions vertes ne sont pas la seule solution. L’articulation de plusieurs solutions semble en effet la clé d’un rafraîchissement effectif : végétation, eau, typo-morphologie urbaine, matériaux, *etc.* De plus, le déploiement de ces solutions de rafraîchissement urbain doit être pensé en termes d’atténuation et/ou adaptation au changement climatique mais également en termes de co-bénéfices et/ou ODD pour les usagers de la ville : biodiversité, confort thermique, santé, bien-être.
 
-**L﻿a start-up d'Etat souhaite créer un outil d'aide à la décision avec plusieurs entrées pour les collectivités afin de faire des choix de solutions de rafraîchissement urbain durables et adaptés à leurs problématiques et contextes.**
+**La start-up d'Etat souhaite créer un outil d'aide à la décision avec plusieurs entrées pour les collectivités afin de faire des choix de solutions de rafraîchissement urbain durables et adaptés à leurs problématiques et contextes.**
 
 ## Stratégie
 
