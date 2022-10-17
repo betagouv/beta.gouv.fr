@@ -5,7 +5,7 @@ link: https://pathtech.fr/
 github: sandrica89
 missions:
   - start: 2021-05-03
-    end: 2022-10-31
+    end: 2023-02-28
     status: service
     employer: Pathtech
 startups:
