@@ -10,6 +10,7 @@ missions:
     employer: DossierFacile
 startups:
   - locatio
+  - Mon-suivi-social
 competences:
   - Communication
   - Croissance
