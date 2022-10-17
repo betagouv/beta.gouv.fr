@@ -7,7 +7,7 @@ missions:
   - start: 2021-03-28
     end: 2022-12-31
     status: independent
-    employer: DossierFacile
+    employer: ""
 startups:
   - locatio
   - Mon-suivi-social
