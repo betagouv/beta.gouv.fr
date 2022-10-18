@@ -4,7 +4,7 @@ role: Coach
 domaine: Coaching
 missions:
   - start: 2022-06-29
-    end: 2022-10-30
+    end: 2023-10-30
     status: independent
     employer: NUMA
 badges:
