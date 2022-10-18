@@ -1,5 +1,5 @@
 ---
-title: Base vues immersives libres 
+title: Panoramax : Base vues immersives libres 
 mission: Participer à la mise en place d'une alternative libre à Google Street View et Mapillary (groupe Meta)
 sponsors:
   - /organisations/ign
