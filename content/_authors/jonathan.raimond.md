@@ -5,7 +5,7 @@ role: UX/UI Designer
 link: https://www.jonathanraimond.com/
 missions:
   - start: 2021-06-14
-    end: 2022-10-31
+    end: 2022-12-31
     status: independent
     employer: Octo
 startups:
