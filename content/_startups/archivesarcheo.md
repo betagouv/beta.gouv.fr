@@ -1,5 +1,5 @@
 ---
-title: ArchivesArchéo
+title: Versementgétorix
 mission: Empêcher la perte des données de l’archéologie (préventive), de plus en plus numérique. Rationnaliser la collecte de ces archives pour faciliter le travail des archéologues sur le terrain, puis des gestionnaires de documentation et des archivistes.
 sponsors:
   - /organisations/mc
