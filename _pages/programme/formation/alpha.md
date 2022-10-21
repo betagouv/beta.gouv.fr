@@ -43,9 +43,12 @@ images:
 ---
 
 <br>
-Prochaine session : mercredi 23 novembre 2022 à Paris, 77 avenue de Ségur
+Prochaines sessions : 
+- mardi 15 novembre 2022 à Lyon, 13 rue Crepet
+- mercredi 23 novembre 2022 à Paris, 77 avenue de Ségur
 <br>
 <br>
+<a id="inscription-alpha" href="lien à venir" class="fr-btn">Inscription à la journée du 15 novembre</a>
 <a id="inscription-alpha" href="https://startupdetat.typeform.com/to/voBuG8AK" class="fr-btn">Inscription à la journée du 23 novembre</a>
 <br>
 <br>
