@@ -5,7 +5,7 @@ domaine: Développement
 github: cugniere
 missions:
   - start: 2021-11-22
-    end: 2022-11-20
+    end: 2023-05-20
     status: independent
     employer: Octo
 startups:
