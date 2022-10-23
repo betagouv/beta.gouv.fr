@@ -7,7 +7,7 @@ avatar:
 link:
 missions:
     - start: 2022-04-27
-      end: 2022-11-04
+      end: 2023-01-01
       status: independent
       employer: MALT
 startups:
