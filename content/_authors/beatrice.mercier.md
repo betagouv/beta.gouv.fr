@@ -19,12 +19,17 @@ startups:
   - delta.v 
   - sppnaut
   - notifications
+  - plateforme.impact
+  - homologation
+  - signaux-faibles
+  - mon-entreprise
 previously:
   - transport
   - participation-citoyenne
   - rdv.consulat
   - protege-toit
   - gap
+  - oufaalim
 badges:
   - segur
 teams:
