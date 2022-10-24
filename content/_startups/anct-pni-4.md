@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (4)
-mission: Créer un outil pour permettre/faciliter la démocratie participative
+title: Créer un outil pour permettre/faciliter la démocratie participative
+mission: Programme national d'investigation (4)
 sponsors:
  - /organisations/anct
 incubator: anct
