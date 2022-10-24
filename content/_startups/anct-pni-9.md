@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (9)
-mission: Réduction des encombrants en habitat social collectif à haute densité
+title: Réduction des encombrants en habitat social collectif à haute densité
+mission: Programme national d'investigation (9)
 sponsors:
  - /organisations/anct
 incubator: anct
