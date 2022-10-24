@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (11)
-mission: Accompagner et inclure les nouveaux habitants dans la découverte de leur ville
+title: Accompagner et inclure les nouveaux habitants dans la découverte de leur ville
+mission: Programme national d'investigation (11)
 sponsors:
  - /organisations/anct
 incubator: anct
