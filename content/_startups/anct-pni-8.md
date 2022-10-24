@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (8)
-mission: Diffuser la culture en territoire rural, en parallèle de limplantation des Micro-folies et projets de cinéma local
+title: Diffuser la culture en territoire rural, en parallèle de limplantation des Micro-folies et projets de cinéma local
+mission: Programme national d'investigation (8)
 sponsors:
  - /organisations/anct
 incubator: anct
