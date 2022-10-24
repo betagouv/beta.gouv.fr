@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (47)
-mission: Accompagner la revitalisation commerciale du cœur de ville des communes du territoire
+title: Accompagner la revitalisation commerciale du cœur de ville des communes du territoire
+mission: Programme national d'investigation (47)
 sponsors:
  - /organisations/anct
 incubator: anct
