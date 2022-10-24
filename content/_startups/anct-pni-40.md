@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (40)
-mission: Lutter contre lillectronisme des personnes agées
+title: Lutter contre l'illectronisme des personnes agées
+mission: Programme national d'investigation (40)
 sponsors:
  - /organisations/anct
 incubator: anct
