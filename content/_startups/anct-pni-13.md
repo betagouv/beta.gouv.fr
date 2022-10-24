@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (13)
-mission: Pérenniser la plateforme de mise en relation et dentraide entre habitants
+title: Pérenniser la plateforme de mise en relation et dentraide entre habitants
+mission: Programme national d'investigation (13)
 sponsors:
  - /organisations/anct
 incubator: anct
