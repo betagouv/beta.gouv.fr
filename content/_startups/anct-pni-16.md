@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (16)
-mission: Redéfinir le schéma d’accueil du public sur le territoire
+title: Redéfinir le schéma d’accueil du public sur le territoire
+mission: Programme national d'investigation (16)
 sponsors:
  - /organisations/anct
 incubator: anct
