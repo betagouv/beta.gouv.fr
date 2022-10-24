@@ -7,7 +7,5 @@ missions:
   - start: 2022-10-20
     end: 2023-01-19
     status: service
-startups:
-  - tchap
 ---
 
