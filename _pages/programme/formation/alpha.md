@@ -43,10 +43,13 @@ images:
 ---
 
 <br>
-Prochaine session : mercredi 23 novembre 2022 à Paris, 77 avenue de Ségur
+Prochaines sessions : 
+- mardi 15 novembre 2022 à Lyon, 13 rue Crepet
+- mercredi 23 novembre 2022 à Paris, 77 avenue de Ségur
 <br>
 <br>
-<a id="inscription-alpha" href="https://startupdetat.typeform.com/to/voBuG8AK" class="fr-btn">Inscription à la journée du 23 novembre</a>
+<a id="inscription-alpha" href="https://startupdetat.typeform.com/to/MUyewj5I" class="fr-btn">Inscription à la journée du 15 novembre</a>
+<a id="inscription-alpha-2" href="https://startupdetat.typeform.com/to/voBuG8AK" class="fr-btn">Inscription à la journée du 23 novembre</a>
 <br>
 <br>
 Vous êtes un agent public et vous souhaitez découvrir la méthode Beta.gouv ? Vous êtes agent public et vous avez identifié un problème à résoudre au sein de vos services ? **La formation Alpha est faite pour vous !**
@@ -87,7 +90,8 @@ Pause 10'
 ---  Fin à 17h30  ---
 
 <br>
-<a id="inscription-alpha-2" href="https://startupdetat.typeform.com/to/voBuG8AK" class="fr-btn">Inscription à la journée du 23 novembre</a>
+<a id="inscription-alpha-3" href="https://startupdetat.typeform.com/to/MUyewj5I" class="fr-btn">Inscription à la journée du 15 novembre</a>
+<a id="inscription-alpha-4" href="https://startupdetat.typeform.com/to/voBuG8AK" class="fr-btn">Inscription à la journée du 23 novembre</a>
 <br>
 <br>
 Pour plus d’information écrivez nous à <a href="mailto:alpha@beta.gouv.fr">alpha@beta.gouv.fr</a>.
@@ -106,6 +110,14 @@ const inscriptionalpha = document.querySelector('#inscription-alpha')
 const inscriptionalpha2 = document.querySelector('#inscription-alpha-2')
   inscriptionalpha2.addEventListener('click', function () {
       _paq.push(['trackEvent', 'conversion', 'Click inscription alpha'])
+    })
+const inscriptionalpha3 = document.querySelector('#inscription-alpha-3')
+  inscriptionalpha.addEventListener('click', function () {
+      _paq.push(['trackEvent', 'conversion', 'Click inscription alpha-3'])
+    })
+const inscriptionalpha4 = document.querySelector('#inscription-alpha-4')
+  inscriptionalpha.addEventListener('click', function () {
+      _paq.push(['trackEvent', 'conversion', 'Click inscription alpha-4'])
     })
 </script>
 <!-- end conversion tracking -->
