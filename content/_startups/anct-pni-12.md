@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (12)
-mission: Améliorer la marketplace locale de produits maraîchers
+title: Améliorer la marketplace locale de produits maraîchers
+mission: Programme national d'investigation (12)
 sponsors:
  - /organisations/anct
 incubator: anct
