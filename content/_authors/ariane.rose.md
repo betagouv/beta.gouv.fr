@@ -9,6 +9,8 @@ missions:
     status: admin
 startups: 
   - ban
+  - infrastructures numeriques
+  - PCRS
 ---
 
 Accélérer le déploiement de la fibre optique et des Bases Adresses Locales
