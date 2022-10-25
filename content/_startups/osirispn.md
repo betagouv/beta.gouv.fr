@@ -4,7 +4,7 @@ mission: Fluidifier et anticiper les flux de formation des élèves pilotes
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
-contact: linna.taing@beta.gouv.fr
+contact: mathieu.mahr@beta.gouv.fr
 phases:
   - comment: ""
     name: investigation
