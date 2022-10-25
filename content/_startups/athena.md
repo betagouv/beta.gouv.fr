@@ -4,7 +4,7 @@ mission: Consulter plus facilement les procédures liées à la gestion de crise
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
-contact: linna.taing@beta.gouv.fr
+contact: mathieu.mahr@beta.gouv.fr
 phases:
   - comment: ""
     name: transfer
