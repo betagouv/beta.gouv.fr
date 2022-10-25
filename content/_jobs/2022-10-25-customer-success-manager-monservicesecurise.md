@@ -11,6 +11,8 @@ domaines:
 **La Startup d’État MonServiceSécurisé recherche un·e Customer Success Manager afin de participer à sa phase d’accélération et de déploiement auprès des collectivités
 et des startups d'Etat.**
 
+<a href="https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/customer-success-manager">Postulez ici</a> 
+
 ## A propos de l'ANSSI
 
 Rejoindre l’Agence nationale de la sécurité des systèmes d’information (ANSSI),
@@ -74,6 +76,7 @@ Une connaissance de l’administration publique et du travail au contact d'agent
 * Poste en télétravail avec réunions ponctuelles de l’équipe
 * Début de la mission : fin novembre 2022, pour au moins 8 mois, prolongeable.
 * Durée : temps plein (préférable), 3-4j/ semaine
-* Rémunération : à discuter (voir (<a href="https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/conseils-pour-le-recrutement/observatoire-revenus#les-tjm-une-base-pour-evaluer-le-prix-dune-prestation">voir grille indicative</a>)
+* Rémunération : à discuter (voir : <a href="https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/conseils-pour-le-recrutement/observatoire-revenus#les-tjm-une-base-pour-evaluer-le-prix-dune-prestation">voir grille indicative</a>)
+* <a href="https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/customer-success-manager">Postulez ici</a> 
 
 À bientôt ! 😀
