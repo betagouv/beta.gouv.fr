@@ -1,6 +1,6 @@
 ---
 fullname: Solène Bellégo
-role: Designer
+role: Lead Designer
 domaine: Design
 missions:
   - start: 2022-09-12
