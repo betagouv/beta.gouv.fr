@@ -8,7 +8,7 @@ phases:
   - name: investigation
     start: 2020-05-26
 stats: false
-contact: camille.boulouis@beta.gouv.fr
+contact: mathieu.mahr@beta.gouv.fr
 ---
 
 ## Contexte  
