@@ -5,7 +5,7 @@ mission: Optimiser les parcours de formations des officiers souhaitant revenir Ã
 sponsors: 
  - /organisations/armees
 incubator: fabnumdef
-contact: romain.perroud@def.gouv.fr
+contact: mathieu.mahr@beta.gouv.fr
 events: []
 phases:
   - name: investigation
