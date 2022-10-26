@@ -3,7 +3,7 @@ title: Traçabilité courrier
 mission: Tracer le courrier au tribunal pour permettre aux justiciables d'avoir
   un accusé reception de leur courrier
 sponsors:
-  - /organisations/justice
+  - /organisations/mj
 incubator: justice
 contact: lea.genovesi@beta.gouv.fr
 accessibility_status: non conforme
