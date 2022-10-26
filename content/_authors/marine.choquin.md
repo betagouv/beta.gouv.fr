@@ -11,4 +11,6 @@ missions:
     employer: ANCT
 competences:
   - Administration Publique
+teams:
+  - /teams/anct
 ---

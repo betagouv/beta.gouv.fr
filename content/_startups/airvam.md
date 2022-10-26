@@ -4,7 +4,7 @@ mission: Gérer simplement les dossiers liés à un vol militaire aérien
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
-contact: linna.taing@beta.gouv.fr
+contact: mathieu.mahr@beta.gouv.fr
 phases:
   - comment: ""
     name: investigation
@@ -52,7 +52,7 @@ Air VAM permet aux agents de transit de réaliser l’ensemble des documents de 
 
 ## Résultat
 
-Un outil intuitif dans sa prise en main qui ne nécessite pas de formation pour les agents de transit
-Une gestion du dossier avion automatisée après ingestion de la liste des passagers
-Visbilité sur tous les vols en cours et archivés
-Outil paramétrable facilement sans l'intervention d'un développeur (ajout d'un nouvel aéroport, édition de données sur les cartes d'embarquement)
+- Un outil intuitif dans sa prise en main qui ne nécessite pas de formation pour les agents de transit
+- Une gestion du dossier avion automatisée après ingestion de la liste des passagers
+- Visbilité sur tous les vols en cours et archivés
+- Outil paramétrable facilement sans l'intervention d'un développeur (ajout d'un nouvel aéroport, édition de données sur les cartes d'embarquement)

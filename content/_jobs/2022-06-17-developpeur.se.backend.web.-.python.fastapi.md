@@ -1,9 +1,9 @@
 ---
 roles: Développeur·se Backend Web - Python / FastAPI
-open: true
+open: false
 junior: true
 date: 2022-06-17T12:35:10.976Z
-depublication_date: 2022-09-30T12:35:59.091Z
+depublication_date: 2022-09-12T12:35:59.091Z
 startup: carnet.de.bord
 contacts: jeremy.buget
 domaines:

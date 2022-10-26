@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (19)
-mission: Préfigurer un outil de démocratie implicative
+title: Préfigurer un outil de démocratie implicative
+mission: Programme national d'investigation (19)
 sponsors:
  - /organisations/anct
 incubator: anct

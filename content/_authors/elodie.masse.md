@@ -1,16 +1,16 @@
 ---
 fullname: Elodie Massé
-role: Intrapreneuse
 domaine: Intraprenariat
-github: 
+role: Intrapreneuse
+github: null
 avatar: /img/authors/elodie.masse.jpg
 missions:
   - start: 2020-03-01
-    end: 2023-02-28
+    end: 2022-10-21
     status: admin
     employer: DB
 startups:
-    - cyberbudget
+  - cyberbudget
+competences:
+  - Administration Publique
 ---
-
-Pilote opérationnelle

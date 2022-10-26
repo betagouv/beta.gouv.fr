@@ -12,6 +12,8 @@ phases:
     end: 2021-09-30
     comment: L'investigation est terminée et en attente d'arbitrage pour un passage
       en phase de construction.
+  - name: alumni
+    start: 2021-10-01
 ---
 ## Contexte
 

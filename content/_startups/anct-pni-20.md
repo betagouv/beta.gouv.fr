@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (20)
-mission: Suivre limpact des engagements usagers du territoire seine Saint Denis
+title: Suivre limpact des engagements usagers du territoire seine Saint Denis
+mission: Programme national d'investigation (20)
 sponsors:
  - /organisations/anct
 incubator: anct

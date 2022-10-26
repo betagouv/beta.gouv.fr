@@ -13,12 +13,14 @@ missions:
     end: 2022-12-31
     status: independent
     employer: octo
+incubator: sgmas
 startups:
-  - snu
   - mano
+  - monpsy
 previously:
   - eac
   - pop
+  - snu
 competences:
   - Développement Frontend
   - Développement Backend

@@ -1,14 +1,18 @@
 ---
 title: Fiche Commune Entreprise
-mission: Faciliter l’accès aux  informations disponibles sur les entreprises et les échanges entre les agents publics
+mission: Faciliter l’accès aux  informations disponibles sur les entreprises et
+  les échanges entre les agents publics
 sponsors:
   - /organisations/solidarite-sante
 incubator: sgmas
 link: https://fce.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/fce
 contact: chloe.mandelblat@dreets.gouv.fr
-stats: true
+usertypes:
+  - entreprise
+  - etat
 stats_url: https://fce.fabrique.social.gouv.fr/statistics
+stats: true
 phases:
   - name: investigation
     start: 2018-10-01
@@ -19,9 +23,11 @@ phases:
   - name: acceleration
     start: 2020-07-01
     end: 2022-12-16
-usertypes:
-  - entreprise
-  - etat
+  - name: transfer
+    start: 2021-01-01
+    end: 2022-05-01
+  - name: alumni
+    start: 2021-04-01
 ---
 ## Contexte
 
