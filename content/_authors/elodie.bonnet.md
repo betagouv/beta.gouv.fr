@@ -6,6 +6,8 @@ missions:
   - start: 2022-01-01
     end: 2023-05-01
     status: admin
+startups:
+  - conventionnement.iae
 ---
 
 Responsable du service IAE Haute-Garonne. En investigation !

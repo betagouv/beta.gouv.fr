@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (29)
-mission: Préfigurer le Premier Accueil Social Inconditionnel de Proximité
+title: Préfigurer le Premier Accueil Social Inconditionnel de Proximité
+mission: Programme national d'investigation (29)
 sponsors:
  - /organisations/anct
 incubator: anct

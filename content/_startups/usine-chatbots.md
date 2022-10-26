@@ -6,7 +6,8 @@ sponsors:
 incubator: fabnumdef
 link: https://chatbot.fabnum.fr/
 contact: fabrique-chatbots@beta.gouv.fr
-stats: false
+stats: true
+repository: https://github.com/fabnumdef/fabrique-chatbot
 phases:
   - name: investigation
     start: 2020-02-01

@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (31)
-mission: Bâtir une nouvelle offre culturelle en lien avec lévolution des locaux du cinéma associatif local
+title: Bâtir une nouvelle offre culturelle en lien avec lévolution des locaux du cinéma associatif local
+mission: Programme national d'investigation (31)
 sponsors:
  - /organisations/anct
 incubator: anct

@@ -6,7 +6,7 @@ link: https://www.zentux.fr
 github: z3ntUx
 missions:
   - start: 2021-07-07
-    end: 2022-10-07
+    end: 2023-01-10
     status: independent
     employer: LBC
 startups:

@@ -1,6 +1,6 @@
 ---
-title: Les transfert des vœux en apprentissage exprimés sur Affelnet aux CFA
-mission: "Permettre un accompagnement accéléré des jeunes sortants de 3ème grâce à un transfert des vœux exprimés en apprentissage aux directrices ou directeurs d’organismes responsables de formations en apprentissage."
+title: Les transfert aux CFA des vœux en apprentissage exprimés sur Affelnet
+mission: "Permettre un accompagnement accéléré des jeunes sortants de 3ème grâce à un transfert aux directrices ou directeurs d’organismes responsables de formations en apprentissage des vœux exprimés en apprentissage "
 sponsors:
   - /organisations/menjs
   - /organisations/mtei
@@ -15,8 +15,8 @@ phases:
   - name: transfer
     start: 2022-01-01
     end: 2022-06-30
-  - name : success
-    start : 2022-06-30
+  - name: success
+    start: 2022-07-01
 usertypes:
   - etablissement-scolaire
   - etat

@@ -9,7 +9,7 @@ phases:
     start: 2019-04-01
     end: 2019-06-30
 stats: false
-contact: romain.perroud@def.gouv.fr
+contact: mathieu.mahr@beta.gouv.fr
 ---
 
 

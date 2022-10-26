@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (45)
-mission: Instaurer de nouvelles méthodes de travail agiles au sein de ladministration
+title: Instaurer de nouvelles méthodes de travail agiles au sein de l'administration
+mission: Programme national d'investigation (45)
 sponsors:
  - /organisations/anct
 incubator: anct

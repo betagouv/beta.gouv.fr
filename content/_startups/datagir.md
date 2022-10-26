@@ -1,9 +1,22 @@
 ---
-title: Datagir (ex Ecolab)
-mission:  Apporter l'information environnementale au plus près des citoyens
+title: Datagir
+mission: Apporter l'information environnementale au plus près des citoyens
 sponsors:
- - /organisations/ademe
-incubator: dinum
+  - /organisations/ademe
+incubator: ademe
+link: https://datagir.ademe.fr/
+repository: https://github.com/datagir/datagir-site
+contact: contact@datagir.beta.gouv.fr
+accessibility_status: partiellement conforme
+usertypes:
+  - particulier
+  - collectivite-territoriale
+  - entreprise
+  - association
+  - etablissement-scolaire
+stats_url: https://datagir.ademe.fr/stats/
+stats: true
+budget_url: https://datagir.ademe.fr/budget/
 phases:
   - name: investigation
     start: 2019-01-02
@@ -13,18 +26,8 @@ phases:
     start: 2020-11-17
   - name: transfer
     start: 2021-07-01
-link: https://datagir.ademe.fr/
-repository: https://github.com/datagir/datagir-site
-stats: true
-stats_url: https://datagir.ademe.fr/stats/
-budget_url: https://datagir.ademe.fr/budget/
-contact: contact@datagir.beta.gouv.fr
-usertypes:
-  - particulier
-  - collectivite-territoriale
-  - entreprise
-  - association
-  - etablissement-scolaire
+  - name: success
+    start: 2022-06-13
 ---
 
 # (Ré)Concilier défi planétaire et vie quotidienne

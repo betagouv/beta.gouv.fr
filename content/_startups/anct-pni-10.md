@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (10)
-mission: Réduire les pics d’affluence en agence lors de la rentrée scolaire, notamment grâce à linscription et le paiement dématérialisé des transports scolaires
+title: Réduire les pics d’affluence en agence lors de la rentrée scolaire, notamment grâce à linscription et le paiement dématérialisé des transports scolaires
+mission: Programme national d'investigation (10)
 sponsors:
  - /organisations/anct
 incubator: anct

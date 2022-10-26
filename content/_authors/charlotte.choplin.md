@@ -3,6 +3,7 @@ fullname: Charlotte  Choplin
 domaine: Déploiement
 role: Bizdev
 link: https://www.charlottechoplin.com
+github: Charlottecho
 missions:
   - start: 2021-11-08
     end: 2022-12-31

@@ -11,8 +11,6 @@ startups:
   - la-bonne-alternance
   - catalogue-apprentissage
   - dematapprentissage
-  - matcha
-  - rdv.apprentissage
   - sirius
   - tdb-apprentissage
   - uai_siret

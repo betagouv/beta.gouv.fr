@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (46)
-mission: Aider les éco-gardes des parcs départementaux dans la prévention, outils pédagogiques et multimédia pour le respect de lenvironnement
+title: Aider les éco-gardes des parcs départementaux dans la prévention, outils pédagogiques et multimédia pour le respect de l'environnement
+mission: Programme national d'investigation (46)
 sponsors:
  - /organisations/anct
 incubator: anct

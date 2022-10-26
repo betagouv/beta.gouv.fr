@@ -6,7 +6,7 @@ link: https://www.behrouze.com
 github: behrouze
 missions:
   - start: 2022-08-15
-    end: 2022-11-15
+    end: 2022-11-30
     status: independent
     employer: Octo
 startups:

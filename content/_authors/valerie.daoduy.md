@@ -4,7 +4,7 @@ domaine: Intraprenariat
 role: Intrapreneure
 missions:
   - start: 2021-09-01
-    end: 2022-11-15
+    end: 2022-10-31
     status: admin
     employer: DJEPVA
 startups:

@@ -14,15 +14,17 @@ missions:
     status: admin
     employer: La Fabrique Numérique
 startups:
-  - zero-logement-vacant
   - dedale
 previously:
   - demarches-simplifiees.fr
   - peps
   - innovation-urbaine
+  - zero-logement-vacant
 badges:
   - segur
 competences:
   - Gestion de Produit
   - Croissance
+teams:
+  - /teams/mtes
 ---

@@ -1,13 +1,7 @@
 ---
-title: Communauté Expérience @ beta.gouv.fr
-mission: Améliorer l'expérience des membres de la communauté
-sponsors:
-  - /organisations/dinum
+name: Communauté XP @ DINUM
+mission: Équipe transverse qui vise à améliorer l’expérience vécue par les membres de la communauté Beta.gouv.
 incubator: dinum
-contact: communaute-experience@beta.gouv.fr
-phases:
-  - name: investigation
-    start: 2022-03-31
 ---
 ## Le problème
 

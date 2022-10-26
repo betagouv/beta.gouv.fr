@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (43)
-mission: Améliorer la communication et la coordination des EPLE du territoire
+title: Améliorer la communication et la coordination des EPLE du territoire
+mission: Programme national d'investigation (43)
 sponsors:
  - /organisations/anct
 incubator: anct

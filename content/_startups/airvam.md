@@ -4,7 +4,7 @@ mission: Gérer simplement les dossiers liés à un vol militaire aérien
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
-contact: linna.taing@beta.gouv.fr
+contact: mathieu.mahr@beta.gouv.fr
 phases:
   - comment: ""
     name: investigation
