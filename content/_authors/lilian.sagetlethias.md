@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: Octo
   - start: 2022-03-01
-    end: 2022-09-30
+    end: 2023-12-31
     status: independent
     employer: Octo
 incubator: sgmas

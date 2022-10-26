@@ -6,8 +6,6 @@ sponsors:
   - /organisations/mtei
   - /organisations/mesr
   - /organisations/mtfp
-  - /organisations/dinum
-  - /organisations/dgefp
 incubator: mission-apprentissage
 phases:
   - name: investigation

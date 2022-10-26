@@ -1,6 +1,6 @@
 ---
 fullname: Anne-Camille Monet
-role: Intrapreneuse
+role: Intrapreneuse - product manager
 domaine: Intraprenariat
 missions:
   - start: 2017-04-01
@@ -8,9 +8,11 @@ missions:
     status: admin
     employer: pole-emploi
 startups:
-    - clara
-    - la-bonne-alternance
-    - dematapprentissage
+    - tdb-apprentissage
+previously:
+  - clara
+  - la-bonne-alternance
+  - dematapprentissage
 ---
 
 

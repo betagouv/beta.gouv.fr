@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (5)
-mission: Gestion et signalement des déchets/dépôts sauvages à léchelle de la commune
+title: Gestion et signalement des déchets/dépôts sauvages à léchelle de la commune
+mission: Programme national d'investigation (5)
 sponsors:
  - /organisations/anct
 incubator: anct

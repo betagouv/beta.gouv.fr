@@ -1,5 +1,5 @@
 ---
-title: L'Incubateur des Territoires
+title: L'Incubateur des Territoires (ANCT)
 owner: /organisations/anct
 logo: logo_anct.png
 contact: mailto:contactincubateur@anct.gouv.fr

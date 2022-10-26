@@ -15,7 +15,7 @@ usertypes:
 link:
 repository:
 stats: false
-contact: romain.perroud@def.gouv.fr
+contact: mathieu.mahr@beta.gouv.fr
 ---
 
 ## Contexte

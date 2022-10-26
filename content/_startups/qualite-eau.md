@@ -1,17 +1,22 @@
 ---
-title: Qualite de l'eau
-mission: Permettre aux agents ARS de gagner en efficacité dans les actions d'inspection et de prévention
+title: Qualité de l'eau
+mission: Permettre aux agents ARS de gagner en efficacité dans les actions
+  d'inspection et de prévention
 sponsors:
+  - /organisations/dgs
 incubator: sgmas
+link: null
+repository: null
+contact: clemence.augustin@ars.sante.fr
+stats_url: null
+stats: false
 phases:
   - name: investigation
     start: 2022-02-26
     end: 2022-04-30
-link: 
-repository: 
-stats: false
-stats_url: 
-contact: clemence.augustin@ars.sante.fr
+    comment: Investigation KO
+  - name: alumni
+    start: 2022-05-01
 ---
 # Contexte
 Le sujet de la qualité de l’eau recouvre des domaines variés aux enjeux multiples

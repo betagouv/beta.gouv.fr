@@ -1,6 +1,6 @@
 ---
 title: RapportNav
-mission: RapportNav est l’application de rédaction de rapport qui vise à remplacer la multiplicité des outils et formats de rapport par un unique compte rendu de mission pour les unités du Dispositif de Contrôle et de Surveillance des Affaires Maritimes.
+mission: Rédiger simplement les compte-rendus de missions des affaires maritimes
 sponsors:
   - /organisations/dgitm
 incubator: mtes
@@ -8,10 +8,12 @@ contact: celia.d-herve@developpement-durable.gouv.fr
 accessibility_status: non conforme
 repository: https://github.com/MTES-MCT/rapportNav
 phases:
+  - name: investigation
+    start: 2022-03-01
+    end: 2022-08-16
   - name: construction
     start: 2022-08-16
 ---
-RapportNav
 
 ## Contexte
 

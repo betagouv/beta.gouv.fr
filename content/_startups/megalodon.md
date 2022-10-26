@@ -8,7 +8,7 @@ phases:
   - name: investigation
     start: 2020-11-01
 stats: false
-contact: romain.perroud@def.gouv.fr
+contact: mathieu.mahr@beta.gouv.fr
 ---
 
 ## Contexte

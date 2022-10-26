@@ -1,5 +1,5 @@
 ---
-title: Base vues immersives libres 
+title: Panoramax - Base vues immersives libres 
 mission: Participer à la mise en place d'une alternative libre à Google Street View et Mapillary (groupe Meta)
 sponsors:
   - /organisations/ign
@@ -8,7 +8,8 @@ contact: camille.salou@ign.fr
 phases:
   - name: investigation
     start: 2022-06-24
-    end: 2022-09-30
+  - name: construction
+    start: 2022-10-17
 ---
 ## Contexte
 

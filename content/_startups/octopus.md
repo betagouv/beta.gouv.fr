@@ -4,7 +4,7 @@ mission: Optimiser la préparation des missions logistiques de l'armée de l'air
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
-contact: linna.taing@beta.gouv.fr
+contact: mathieu.mahr@beta.gouv.fr
 phases:
   - comment: ""
     name: investigation

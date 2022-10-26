@@ -1,7 +1,7 @@
 ---
 fullname: Jérémy Ciepielewski
-domaine: Autre
-role: Expert (Accompagnement et développement de la présence sur les réseaux sociaux)
+domaine: Déploiement
+role: Accompagnement et développement de la présence sur LinkedIn
 github: jeremyciep
 link: https://www.weplus.fr
 missions:
@@ -11,9 +11,7 @@ missions:
     employer: Mission interministérielle pour l'apprentissage
 startups:
   - la-bonne-alternance
-  - matcha
   - tdb-apprentissage
-  - rdv.apprentissage
 badges:
   - segur
 competences:
