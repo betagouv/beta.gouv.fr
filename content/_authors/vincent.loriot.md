@@ -4,7 +4,7 @@ role: Sponsor
 domaine: Autre
 missions:
   - start: 2021-06-04
-    end: 2021-11-01
+    end: 2023-12-31
     status: admin
     employer: ANSSI
 startups:

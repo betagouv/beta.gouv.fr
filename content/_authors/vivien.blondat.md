@@ -1,5 +1,5 @@
 ---
-fullname: Vivien BLONDAT
+fullname: Vivien Blondat
 role: Opérateur de validation
 domaine: Autre
 missions:

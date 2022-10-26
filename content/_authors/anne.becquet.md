@@ -13,7 +13,6 @@ startups:
   - uai_siret
   - tdb-apprentissage
   - la-bonne-alternance
-  - matcha
-  - rdv.apprentissage
   - voeux-apprentissage
+  - sirius
 ---

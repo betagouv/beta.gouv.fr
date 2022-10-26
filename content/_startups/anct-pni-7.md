@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (7)
-mission: Développer le concept de télémédecine auprès du public rural
+title: Développer le concept de télémédecine auprès du public rural
+mission: Programme national d'investigation (7)
 sponsors:
  - /organisations/anct
 incubator: anct

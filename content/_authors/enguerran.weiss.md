@@ -1,6 +1,6 @@
 ---
 fullname: Enguerran Weiss
-role: Développeur web
+role: Développeur front-end
 domaine: Développement
 link: https://www.enguerranweiss.fr
 github: enguerranws
@@ -10,7 +10,5 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - itou
+  - l-immersion-facile
 ---
-
-Développeur web

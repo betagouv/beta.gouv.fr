@@ -36,16 +36,16 @@ Les directions départementales des territoires (DDT), qui représentent de l’
 Elles sont confrontées à une double difficulté pour réaliser cette mission : 
 
 * Elles ne connaissent pas le calendrier des collectivités et ne peuvent pas anticiper la sollicitation des différents services de l’Etat. 
-* Elles ne savent pas toujours comment interpréter et adapter des textes de lois aux spécificités d’un territoire ou comment trancher lors de contributions contradictoires des différents services de l’Etat. 
+* Elles ne savent pas toujours comment interpréter et adapter des textes de lois aux spécificités d’un territoire.
 
 Ces difficultés se répercutent sur les collectivités à deux niveaux : 
 
 * Les éléments transmis arrivent souvent trop tard dans la procédure et ne sont pas systématiquement présentés ou expliqués. Par conséquent, les collectivités, et les bureaux d’études avec lesquels elles travaillent, doivent trouver certaines données ailleurs (sans garantie de validité) et perçoivent les informations de l'État comme des contraintes à traiter plutôt que comme de potentiels atouts pour le développement de leur territoire.
-* Certains enjeux demeurent, par ailleurs, contradictoires ou peu applicables, ce qui crée de l’incompréhension et une défiance des élus vis-à-vis de l’État.
+* Certains enjeux peuvent sembler contradictoires, ce qui crée de l’incompréhension et une défiance des élus vis-à-vis de l’État.
 
-## La solution : faciliter l’élaboration des documents d’urbanisme afin que les enjeux et les politiques publiques soient plus facilement et rapidement pris en compte
+## La solution : faciliter l’élaboration et le suivi des documents d’urbanisme afin que les enjeux et les politiques publiques soient plus facilement et rapidement pris en compte
 
-L’objectif de Docurba est d’améliorer le partage d’informations entre les collectivités, DDT et différents services de l’État pour faciliter l’élaboration des documents d’urbanisme.
+L’objectif de Docurba est d’améliorer le partage d’informations entre les collectivités, DDT et différents services de l’État pour faciliter l’élaboration et le suivi des documents d’urbanisme.
 
 En quelques mots, cet outil est : 
 * DIRECT : > 20% du contenu du porter-à-connaissance disponible dès prescription (ressources et données pour commencer son document)
@@ -55,12 +55,13 @@ En quelques mots, cet outil est :
 
 Docurba permet :
 * aux collectivités d’accéder à toutes les informations juridiques, à des ressources utiles (conseils, modèles...) et aux données brutes de l’Etat dès le lancement de leur projet. Puis à des informations et commentaires complémentaires, notamment au PAC commenté et à la note d’enjeux si elles en font la demande ;
-* aux DDT de bénéficier d’un socle d’informations déjà pré-rempli, le compléter grâce à de suggestions de rédaction, intégrer des liens vers les données et gérer les contributions.
+* aux DDT de bénéficier d’un socle d’informations déjà pré-rempli, le compléter grâce à une trame harmonisée, intégrer des liens vers les données et gérer les contributions.
 
-Nous avons ainsi lancé en septembre 2021 la plateforme Docurba qui permet aux collectivités et bureaux d’études d’accéder directement au socle d’informations utiles pour élaborer leur document d’urbanisme : cadre juridique, éléments supra-territoriaux, jeux de données, ressources. 
+Nous avons ainsi lancé en septembre 2021 la plateforme Docurba qui permet aux collectivités et bureaux d’études d’accéder directement au socle d’informations utiles pour élaborer leur document d’urbanisme : cadre juridique, éléments supra-territoriaux, jeux de données, ressources et bientôt une feuille de route partagée.
 
 L’accès pour les Services de l’Etat a été déployé en janvier 2022. Celui-ci permet aux agents en charge des Porter-à-connaissance (PAC) d’avoir accès à :
-* une trame commune avec éléments pré-remplis aux niveaux national et régional, 
+* un socle commun avec éléments pré-remplis aux niveaux national et régional, 
+* une introduction et une trame harmonisée pour l'application locale,
 * un outil d’édition pour apporter l’application locale, 
 * un export .pdf du PAC, et une version consultable en ligne pour les collectivités. 
 
@@ -73,17 +74,31 @@ Nous mesurons notre impact via trois indicateurs à court/moyen terme :
 * nombre de PAC consultés par les collectivités via la plateforme.
 * nombre de mois entre la prescription du document d’urbanisme et les premières étapes d’élaboration du document comme la présentation du diagnostic. 
 
-En mai 2022, nous co-construisons le service avec 6 DDT beta-testeuses en Auvergne-Rhône Alpes. Soit une 10aine d’agents des services de planification urbaine. 
+En septembre 2022, notre produit minimum viable est utilisé par 10+ DDT, soit une trentaine d'agents des services de planification urbaine. 
 
 ## Stratégie pour les 6 prochains mois
 
-* Septembre - Octobre 2021 : Conception et développement d’une version bêta de la plateforme pour les collectivités et leur bureau d’études
-* Novembre 2021 : Test auprès de 3 collectivités et leurs bureaux d’études en Auvergne-Rhône Alpes 
-* Novembre-décembre 2021 : Conception des maquettes du back-office côté services déconcentrés de l’Etat, et test auprès de 7 agents de DDT d’Auvergne Rhône-Alpes
-* Janvier - Mai 2022 : co-construction du back-office avec 6 DDT beta-testeuses. Itération en continu pour leur permettre de réaliser un PAC complet sur Docurba. Test des maquettes permettant de suivre la procédure via une feuille de route partagée.
-* Juin 2022 : transmission aux collectivités des PAC réalisés via Docurba, et développement de la feuille de route testée. 
-* 3ème trimestre 2022 : Déploiement de Docurba en Auvergne-Rhône Alpes aux autres collectivités se lançant dans l’élaboration d’un document d’urbanisme, et de DDT ayant un PAC à réaliser. 
-* 4ème trimestre 2022 : Déploiement de Docurba à d’autres régions pour permettre à plus de DDT de réaliser leur PAC à partir de l’outil, et à plus de collectivités d’accéder au contenu disponible dès la prescription de leur document d’urbanisme.
+Septembre 2022:
+* Socle de PAC harmonisé entre DDT d'AuRA et validé par QV4, utilisable sur tout le territoire: validation du produit minimum viable, 
+* Investigation auprès des DDT sur le suivi des documents d'urbanisme, 
+* Conception de la feuille de route partagée pour un suivi collectif des documents d'urbanisme entre les DDT et leurs collectivités, 
+* Évaluation du coup de déploiement par région et système de données, 
+* Transmission aux collectivités d'Auvergne-Rhône-Alpes de PAC réalisés via Docurba. 
+
+Octobre 2022: 
+* Recherche sur la connexion des jeux de données dans les différentes régions,
+* Déploiement de Docurba à 10+ collectivités en phase de prescription de leur document d'urbanisme et sur un territoire utilisant le même système de données d'AuRA, 
+* Conception et Développement de la feuille de route partagée pour un suivi collectif des documents d'urbanisme entre les DDT et les collectivités-bureaux d'etudes. 
+
+Novembre 2022:
+* Test de la 1ère version de la fonctionnalité "feuille de route partagée",
+* Précision de la stratégie de déploiement aux collectivités, 
+* Amélioration de l'interface de Docurba.
+
+Décembre 2022 - Février 2023: 
+* Connexion des jeux de données dans les différentes régions,
+* Accélération du déploiement aux DDT et collectivités,
+* Intégration de l'historique des données de suivi des documents d'urbanisme (Sudocuh)
 
 Nous sommes à votre disposition pour toute question ou suggestion. 
 

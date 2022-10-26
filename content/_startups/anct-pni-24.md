@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (24)
-mission: Réduire le recours de la voiture individuelle sur le territoire
+title: Réduire le recours de la voiture individuelle sur le territoire
+mission: Programme national d'investigation (24)
 sponsors:
  - /organisations/anct
 incubator: anct

@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (32)
-mission: Suivre le parcours usager au sein des tiers-lieux numériques
+title: Suivre le parcours usager au sein des tiers-lieux numériques
+mission: Programme national d'investigation (32)
 sponsors:
  - /organisations/anct
 incubator: anct

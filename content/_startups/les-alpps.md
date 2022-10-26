@@ -16,7 +16,7 @@ usertypes:
 link:
 repository:
 stats: false
-contact: linna.taing@beta.gouv.fr
+contact: mathieu.mahr@beta.gouv.fr
 ---
 
 ## Contexte

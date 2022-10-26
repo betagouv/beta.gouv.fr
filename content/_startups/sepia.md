@@ -8,11 +8,13 @@ phases:
   - name: investigation
     start: 2019-01-25
   - name: construction
-    start: 2019-01-25
+    start: 2020-01-25
+  - name: transfer
+    start: 2022-09-01
 usertypes:
   - etat
 stats: false
-contact: romain.perroud@def.gouv.fr 
+contact: mathieu.mahr@beta.gouv.fr
 ---
 
 ## Contexte 
@@ -27,8 +29,8 @@ SEPIA utilise des données open source provenant par exemple d’OpenStreetMap o
 Pour la sûreté aérienne (CNOA) :
 * Corréler trajectoire et point d’intérêt,
 * Aides à la décision pour optimiser l’interception d’aéronef,
-* Système d’alerte multicritère dont la pénétration de ZIT, le survol de ZIPVA…,
-* Module de visualisation et d’alerte intéressant renseignement d’intérêt-Air
+* Système d’alerte multicritère dont la pénétration de ZIT (Zone interdite temporaire), le survol de ZIPVA (Zones interdites à la prise de vue aérienne)…,
+* Module de visualisation et d’alerte intéressant renseignement d’intérêt-Air.
 
 Pour la recherche et sauvetage en cas de crash (RCC) :
 * Définir par le calcul le point d’impact d’un crash futur,

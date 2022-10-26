@@ -17,6 +17,8 @@ phases:
   - name: construction
     start: 2020-12-01
     comment: lancement du prototype no-code en février 2021
+  - name: acceleration
+    start: 2022-07-01
 usertypes:
   - particulier
   - collectivite-territoriale

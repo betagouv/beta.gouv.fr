@@ -2,7 +2,7 @@
 fullname: Myriam Keddad
 role: Chargée de relation utilisateur 
 domaine: Déploiement
-github: myriamkeddad
+github: MYRIAMKEDDAD
 missions:
   - start: 2022-02-16
     end: 2022-12-31

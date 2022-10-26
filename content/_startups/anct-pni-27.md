@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (27)
-mission: Suivre et contrôler lattribution des subventions
+title: Suivre et contrôler lattribution des subventions
+mission: Programme national d'investigation (27)
 sponsors:
  - /organisations/anct
 incubator: anct

@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (30)
-mission: Mettre en oeuvre une plateforme solidaire de distribution de paniers alimentaires
+title: Mettre en oeuvre une plateforme solidaire de distribution de paniers alimentaires
+mission: Programme national d'investigation (30)
 sponsors:
  - /organisations/anct
 incubator: anct

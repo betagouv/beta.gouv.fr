@@ -14,7 +14,6 @@ phases:
     end: 2022-06-15
   - name: construction
     start: 2022-06-26
-    end: 2022-07-05
 ---
 ## Contexte
 
@@ -22,7 +21,7 @@ Le projet a démarré dans le département du Pas-de-Calais (ddtm62). Partant du
 
 ## Problème
 
-Plus de 4 millions de personnes sont aujourd'hui concernées par le mal logement, avec pour conséquence des conditions de vie très difficiles des occupants. Des conséquences pouvant porter a la fois sur leur sécurité et leur santé, mais aussi ceux du voisinage, les désordres pouvant porter sur l'intérieur ou l'extérieur des logements. La gestion de cette politique publique implique de nombreux acteurs et de nombreuses procédures, ce qui complexifie sa gestion et allonge les temps de traitement. Les mairies et collectivités, ont au cœur de ce traitement, étant dans la plupart des cas le premier interlocuteur des locataires en difficulté. Cependant, ils rencontrent de nombreuses difficultés dans la gestion de ces signalements, souvent par manque de connaissance, de priorité, d'informations, etc... Cela impacte fortement le temps de résolution des cas.
+Plus de 4 millions de personnes sont aujourd'hui concernées par le mal logement, avec pour conséquence des conditions de vie très difficiles des occupants. Des conséquences pouvant porter à la fois sur leur sécurité et leur santé, mais aussi ceux du voisinage, les désordres pouvant porter sur l'intérieur ou l'extérieur des logements. La gestion de cette politique publique implique de nombreux acteurs et de nombreuses procédures, ce qui complexifie sa gestion et allonge les temps de traitement. Les mairies et collectivités, sont au cœur de ce traitement, étant dans la plupart des cas le premier interlocuteur des locataires en difficulté. Cependant, ils rencontrent de nombreuses difficultés dans la gestion de ces signalements, souvent par manque de connaissance, de priorité, d'informations, etc... Cela impacte fortement le temps de résolution des cas.
 
 ## Solution
 
