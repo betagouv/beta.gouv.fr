@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: graphein13
 missions:
   - start: 2022-06-29
-    end: 2022-12-01
+    end: 2023-01-01
     status: admin
     employer: Ministère de la Justice
 badges:
