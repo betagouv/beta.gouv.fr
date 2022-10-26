@@ -1,7 +1,6 @@
 ---
 title: Encyclopédie des Métiers
-mission: Faciliter l'accès à des informations claires et pratiques sur les
-  métiers et les compétences
+mission: Faciliter l'accès à des informations claires et pratiques sur les métiers et les compétences
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
