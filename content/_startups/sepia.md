@@ -10,7 +10,7 @@ phases:
   - name: construction
     start: 2020-01-25
   - name: transfer
-  - start: 2022-09-01
+    start: 2022-09-01
 usertypes:
   - etat
 stats: false
