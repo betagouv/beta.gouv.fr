@@ -1,7 +1,6 @@
 ---
 title: ESTIME
-mission: Soutenir la reprise d'activité des demandeurs d'emploi en facilitant
-  l'accès à l'information concernant les aides financières
+mission: Soutenir la reprise d'activité des personnes en demande d'emploi en facilitant l'accès à l'information concernant les aides financières
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
