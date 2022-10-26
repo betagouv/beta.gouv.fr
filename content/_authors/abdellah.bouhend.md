@@ -8,8 +8,7 @@ missions:
     end: 2023-06-30
     status: independent
 startups:
-  - matcha
-  - rdv.apprentissage
+  - la-bonne-alternance
 badges:
   - segur
 ---

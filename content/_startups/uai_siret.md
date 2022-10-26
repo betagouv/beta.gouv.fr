@@ -6,8 +6,6 @@ sponsors:
   - /organisations/mtei
   - /organisations/mesr
   - /organisations/mtfp
-  - /organisations/dinum
-  - /organisations/dgefp
 incubator: mission-apprentissage
 link:
 repository:
@@ -19,11 +17,16 @@ phases:
     end: ""
   - name : construction
     start: 2022-01-01
+  - name: transfer
+    start: 2022-08-29
+    end: 2022-10-30
+  - name: success
+    start: 2022-10-17
 usertypes:
   - etat
-  - entreprise
   - etablissement-scolaire
 ---
+Ce produit a été transféré à l'ONISEP, qui se charge maintenant de sa maintenance et de son animation.
 
 ## Constat
 

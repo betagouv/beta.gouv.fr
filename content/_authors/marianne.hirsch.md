@@ -13,4 +13,6 @@ competences:
   - UI
   - Gestion de Produit
   - Coaching
+teams:
+  - /teams/anct
 ---

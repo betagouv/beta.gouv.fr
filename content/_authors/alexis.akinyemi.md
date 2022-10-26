@@ -13,6 +13,7 @@ startups:
     - eva
     - diagoriente
     - la-bonne-alternance
+    - Trajpro
 ---
 
 Ethique/Méthode/Réfutabilité

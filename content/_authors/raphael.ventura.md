@@ -5,7 +5,7 @@ github: raphaelventura
 domaine: Développement
 missions:
   - start: 2021-08-23
-    end: 2022-08-31
+    end: 2025-08-11
     status: service
     employer: DGE
 startups:

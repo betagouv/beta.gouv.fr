@@ -9,14 +9,14 @@ incubator: mtes
 link: https://www.dossierfacile.fr/?utm_source=betagouv&utm_medium=referral&utm_campaign=fiche_betagouv
 repository: https://github.com/mtes-mct/locatio
 contact: contact@dossierfacile.fr
-dashlord_url: https://dashlord.incubateur.net/url/dossierfacile-fr/
+stats: true
+budget_url: https://beta.gouv.fr/startups/locatio.html
 analyse_risques: true
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 usertypes:
   - particulier
 stats_url: https://www.dossierfacile.fr/stats
-stats: true
-budget_url: https://beta.gouv.fr/startups/locatio.html
+dashlord_url: https://dashlord.incubateur.net/url/dossierfacile-fr/
 phases:
   - name: investigation
     start: 2018-01-01
@@ -44,10 +44,10 @@ Bailleurs et professionnels de l'immobilier, DossierFacile est là pour vous ras
 
 ## Notre déploiement
 
-Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. Fin 2021, ce sont déjà plus de 350 000 locataires, 20 000 propriétaires et une dizaine de professionnels de l'immobilier qui ont choisi de nous faire confiance. 
+Lancé en 2018, DossierFacile a su conquérir un nombre croissant d'utilisateurs, particuliers à la recherche d'un logement ou professionnels de l'immobilier ayant recours à nous pour gagner du temps et donner de la valeur à leur service. A date, ce sont déjà plus de 500 000 locataires, 30 000 propriétaires et une dizaine de professionnels de l'immobilier qui ont choisi de nous faire confiance. 
 
 ## Notre impact et notre budget
-Depuis sa création, DossierFacile a accompagné plus de 420 000 candidats locataires dans la création de leur dossier de location. Ce sont autant de personnes qui ont pu constituer un dossier de location conforme et sécurisé, et autant de propriétaires ou d'agences rassurées, avec un impact avéré sur les escroqueries au logement et la vacance frictionnelle.
+Depuis sa création, DossierFacile a accompagné plus de 500 000 candidats locataires dans la création de leur dossier de location. Ce sont autant de personnes qui ont pu constituer un dossier de location conforme et sécurisé, et autant de propriétaires ou d'agences rassurées, avec un impact avéré sur les escroqueries au logement et la vacance frictionnelle.
 Voici le budget consacré depuis le lancement du service :
 - 2018 : 72 500 € de la DGALN*
 - 2019 : 132 500 € de la DGALN
@@ -64,16 +64,17 @@ Soit un total de 2 515 000 € depuis le lancement du service pour un nombre d'u
 ## Nos ambitions pour les prochains mois
 
 Comprendre les besoins des locataires et des bailleurs est notre obsession et notre produit est en amélioration constante. 
-Pour le premier semestre 2022, nous souhaitons notamment :
-- intégrer la possibilité d'utiliser FranceConnect pour s'identifier
-- tester le produit 'Mon FranceConnect' dans le but d'obtenir un justificatif d'imposition
+Pour le second semestre 2022, nous souhaitons notamment :
+- nous connecter aux API.GOUV pour simplifier le parcours utilisateur et le contrôle des pièces en back-office
+- refondre les parcours pour les couples, aujourd'hui source de frictions
 - continuer l'accompagnement de partenaires sur notre plateforme.
 
-## Nos indicateurs d'impact d'ici mi-2022
+## Nos indicateurs d'impact pour les prochains mois
 
-D'ici juin 2022, nous avons pour objectif de valider 50% de dossiers en plus que sur les 6 derniers mois et d'abaisser notre coût par dossier de 15€ à 10€.
-
+Dans les 6 prochains mois, nous avons pour objectif de poursuivre notre croissance de 40% par rapport à l'année dernière et de stabiliser notre coût marginal par dossier validé autour des 1,50€.
 
 Chez DossierFacile, nous voyons grand. Partant du dossier de location, nous avons l’ambition d’accompagner locataires et bailleurs tout au long de leur relation - et ce ne sont pas les idées qui nous manquent ! Pour autant, nous savons qu’inspirer la confiance est un défi de longue haleine qui ne pourra être relevé que pas à pas. Gardant tout ça en tête, nous n’avons qu’une boussole : toujours mieux servir les citoyens.
 
 Vous avez une idée ? Une question ? Vous souhaitez contribuer au projet ? <a href="mailto:contact@dossierfacile.fr">N’hésitez pas à nous écrire.</a>
+
+(mis à jour le 29/09/2022)

@@ -1,7 +1,7 @@
 ---
 fullname: Magali Marcel
-domaine: Intraprenariat
-role: Responsable de portefeuille DGALN
+domaine: Animation
+role: Responsable de portefeuille DGALN / ex intra SignalConso
 github: magalimarcelgarreau
 link: null
 missions:
@@ -21,4 +21,6 @@ previously:
 competences:
   - Administration Publique
   - Gestion de Produit
+teams:
+  - /teams/mtes
 ---

@@ -4,7 +4,7 @@ role: Product Owner
 domaine: Produit
 missions:
   - start: 2022-05-09
-    end: 2022-08-31
+    end: 2022-12-31
     status: service
     employer: OCTO Technology
 startups:

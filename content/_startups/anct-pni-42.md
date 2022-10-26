@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (42)
-mission: Améliorer la collaboration numérique entre agents et élus, notamment dans la préparation des conseils municipaux
+title: Améliorer la collaboration numérique entre agents et élus, notamment dans la préparation des conseils municipaux
+mission: Programme national d'investigation (42)
 sponsors:
  - /organisations/anct
 incubator: anct

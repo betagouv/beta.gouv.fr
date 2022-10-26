@@ -16,4 +16,6 @@ missions:
     employer: MTES-MCT
 previously:
   - filharmonic
+teams:
+  - /teams/mtes
 ---

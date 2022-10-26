@@ -4,10 +4,11 @@ domaine: Déploiement
 role: Chargée de déploiement
 missions:
   - start: 2021-08-26
-    end: 2022-10-30
+    end: 2023-03-31
     status: admin
 startups:
   - partaj
+previously:
   - camino
 competences:
   - Croissance

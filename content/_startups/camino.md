@@ -5,6 +5,7 @@ incubator: mtes
 repository: https://github.com/MTES-MCT/camino
 contact: camino@beta.gouv.fr
 analyse_risques: true
+accessibility_status: non conforme
 usertypes:
   - particulier
   - collectivite-territoriale

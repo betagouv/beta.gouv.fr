@@ -9,6 +9,8 @@ contact: atelier.numerique@diplomatie.gouv.fr
 phases:
   - name: investigation
     start: 2021-09-15
+  - name: acceleration
+    start: 2022-09-01
 ---
 **Contexte**
 

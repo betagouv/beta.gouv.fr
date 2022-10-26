@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (28)
-mission: Améliorer les échanges entre administrés et le CCAS
+title: Améliorer les échanges entre administrés et le CCAS
+mission: Programme national d'investigation (28)
 sponsors:
  - /organisations/anct
 incubator: anct

@@ -6,7 +6,7 @@ github: marc-gavanier
 link: https://registry.jsonresume.org/marc-gavanier
 missions:
   - start: 2021-09-15
-    end: 2022-09-15
+    end: 2023-01-31
     status: independent
     employer: Octo
 startups:

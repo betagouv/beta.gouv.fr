@@ -106,7 +106,7 @@ var generateDataWithHtmlCards = function (members) {
   for (var i = 0; i < keys.length; i++) {
     var key = keys[i];
     for (var j = 0; j < members[key].length; j++) {
-      members[key][j]["html"] = createStartupCard(members[key][j]);
+      members[key][j]["html"] = createAuthorCard(members[key][j]);
     }
   }
   return members;

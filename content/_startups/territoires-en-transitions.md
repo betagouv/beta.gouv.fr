@@ -1,24 +1,25 @@
 ---
 title: Territoires en Transitions
-mission: "Aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique"
+mission: Aider les collectivités à prioriser la mise en œuvre des actions les
+  plus impactantes pour réussir la transition écologique
 sponsors:
-    - /organisations/ademe
-incubator: dinum
+  - /organisations/ademe
+incubator: ademe
 link: https://territoiresentransitions.fr/
 repository: https://github.com/betagouv/territoires-en-transitions
 contact: contact@territoiresentransitions.fr
-stats: true
+redirect_from:
+  - /startups/labels-transition
+usertypes:
+  - collectivite-territoriale
 stats_url: https://app.territoiresentransitions.fr/stats
+stats: true
 phases:
   - name: investigation
     start: 2020-09-21
     end: 2020-11-03
   - name: construction
     start: 2020-11-03
-redirect_from:
-  - /startups/labels-transition
-usertypes:
-  - collectivite-territoriale
 ---
 
 ## Contexte

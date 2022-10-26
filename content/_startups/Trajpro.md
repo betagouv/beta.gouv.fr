@@ -2,7 +2,10 @@
 title: Formations et trajectoires professionnelles
 mission: "Faciliter l’orientation et l’insertion professionnelle des jeunes en élaborant et rendant visible des indicateurs pertinents"
 sponsors:
+  - /organisations/menjs
   - /organisations/mtei
+  - /organisations/mesr
+  - /organisations/mtfp
 incubator: mission-apprentissage
 link: 
 repository: 

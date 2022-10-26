@@ -17,9 +17,11 @@ events: []
 phases:
   - name: investigation
     start: 2020-03-15
-    end: ""
+    end: 2020-07-03
   - name: construction
     start: 2020-07-03
+  - name: acceleration
+    start: 2022-07-01
 ---
 ## Le problème
 
