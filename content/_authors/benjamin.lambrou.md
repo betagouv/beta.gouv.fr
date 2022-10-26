@@ -4,7 +4,7 @@ role: Coach
 domaine: Coaching
 missions:
   - start: 2022-03-28
-    end: 2022-11-30
+    end: 2023-02-28
     status: independent
 ---
 
