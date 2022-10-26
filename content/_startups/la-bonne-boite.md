@@ -1,9 +1,6 @@
 ---
 title: La Bonne Boite
-mission: "La bonne boite met en visibilité le marché caché de l’emploi. Le
-  service favorise les candidatures spontanées pour les demandeurs d’emploi et
-  candidats en suggérant des entreprises à fort potentiel d’embauche selon le
-  lieu géographique choisi. "
+mission: La bonne boite met en visibilité le marché caché de l’emploi. Le service favorise les candidatures spontanées pour les personnes en demande d’emploi et candidates en suggérant des entreprises à fort potentiel d’embauche selon le lieu géographique choisi.
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
