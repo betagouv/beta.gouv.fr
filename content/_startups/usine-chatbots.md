@@ -6,7 +6,8 @@ sponsors:
 incubator: fabnumdef
 link: https://chatbot.fabnum.fr/
 contact: fabrique-chatbots@beta.gouv.fr
-stats: false
+stats: true
+repository: https://github.com/fabnumdef/fabrique-chatbot
 phases:
   - name: investigation
     start: 2020-02-01
@@ -25,7 +26,7 @@ Le projet a été initié par la RH Marine qui souhaitait mettre à disposition 
 
 ## Problématique
 
-L'objectif de l'Usine à chatbots est de redonner l'autonomie aux métiers en leur fournissant un outil complet clé en main,entièrement personnable et facile à prendre en main. En 4 étapes et en moins de 48h (sur Internet), les agents peuvent se créer leur propre bot, techniquement prêt au lancement.
+L'objectif de l'Usine à chatbots est de redonner l'autonomie aux métiers en leur fournissant un outil complet clé en main,entièrement personnalisable et facile à prendre en main. En 4 étapes et en moins de 48h (sur Internet), les agents peuvent se créer leur propre bot, techniquement prêt au lancement.
 
 ## Objectifs
 
@@ -37,11 +38,11 @@ L'objectif de l'Usine à chatbots est de redonner l'autonomie aux métiers en le
 ## Chronologie
 
 **étape 1** (février 2020)
-cadrage du projet, entretiens avec des bot manager\
+cadrage du projet, entretiens avec des bots manager
 Livrable : parcours de création de chatbot et de l’interface de gestion
 
 **étape 2** (mars-avril 2020)
-réalisation des wireframes\
+réalisation des wireframes
 Livrable : wireframes
 
 **étape 3** (avril 2020)
@@ -72,7 +73,7 @@ L'usine à chatbot est composée de 6 produits numériques :
 
 * Un [site vitrine (internet)](https://chatbot.fabnum.fr/) qui présente le produit
 * Une [documentation](https://fabrique-a-chatbots.gitbook.io/fabrique-a-chatbots/)
-* Une [interface permettant de créer un chatbot](https://chatbot.fabnum.fr)
+* Une [interface permettant de créer un chatbot](https://chatbot.fabnum.fr/create)
 * Une interface de chatbot (autonome ou intégrée)
 * Une interface de gestion pour travailler sur les connaissances de votre chatbot
 * Un tableau de bord de l'usine à chatbot

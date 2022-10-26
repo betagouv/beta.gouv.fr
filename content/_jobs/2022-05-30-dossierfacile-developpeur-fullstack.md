@@ -1,7 +1,7 @@
 ---
 roles: Développeur‧se full-stack chez DossierFacile
 startup: locatio
-open: true
+open: false
 domaines:
   - Développement
 ---

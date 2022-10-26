@@ -12,9 +12,16 @@ missions:
     end: 2022-10-31
     employer: Octo
     status: independent
+  - status: independent
+    employer: NUMA
+    start: 2022-09-12
+    end: 2022-11-30
+incubator: fab-geocommuns
+startups:
+  - mission.debroussaillement
+previously:
+  - aides.jeunes
 competences:
   - Coaching
-startups:
-  - aides.jeunes
 ---
 Service designer enthousiaste

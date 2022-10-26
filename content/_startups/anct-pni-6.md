@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (6)
-mission: Adaptation du commerce local aux enjeux numériques
+title: Adaptation du commerce local aux enjeux numériques
+mission: Programme national d'investigation (6)
 sponsors:
  - /organisations/anct
 incubator: anct

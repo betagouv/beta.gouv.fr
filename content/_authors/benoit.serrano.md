@@ -10,6 +10,9 @@ missions:
     employer: DINUM
 badges:
   - segur
+startups:
+  - notifications
+
 ---
 
 Développeur JS, et la nuit je parle allemand

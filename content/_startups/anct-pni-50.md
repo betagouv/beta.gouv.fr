@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (50)
-mission: Lutter contre le non-recours au tissu associatif local
+title: Lutter contre le non-recours au tissu associatif local
+mission: Programme national d'investigation (50)
 sponsors:
  - /organisations/anct
 incubator: anct

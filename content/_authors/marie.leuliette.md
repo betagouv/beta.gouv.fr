@@ -5,7 +5,7 @@ domaine: Développement
 github: marouria
 missions:
   - start: 2021-10-04
-    end: 2022-07-31
+    end: 2022-12-31
     status: service
     employer: Captive
 startups:

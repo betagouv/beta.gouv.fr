@@ -6,13 +6,14 @@ link: http://www.agiletribu.com
 github: nrichand
 missions:
   - start: 2022-02-11
-    end: 2022-09-12
+    end: 2023-06-01
     status: independent
     employer: Omnicité
 startups:
   - signalement
+  - reva
 badges:
   - segur
 ---
 
-Coach agile le jour, jardinier la nuit.
+Coach agile : passionné par les produits, la tech, la data, les gens...

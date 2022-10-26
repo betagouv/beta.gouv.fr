@@ -21,14 +21,21 @@ missions:
     status: admin
     employer: DINUM
   - start: 2021-08-31
-    end: 2022-12-31
+    end: 2022-09-30
     status: independent
     employer: NUMA
+  - start: 2022-10-01
+    end: 2023-12-31
+    status: admin
+    employer: DINUM
 startups:
     - datagir
     - urbanvitaliz
     - territoires-en-transitions
+    - ban
 previously:
     - transport
     - preuve-de-covoiturage
+teams:
+  - /teams/dinum
 ---

@@ -1,12 +1,13 @@
 ---
-roles: Chargé-e de déploiement
+roles: Chargé-e de déploiement junior
 open: false
-date: 2021-12-21
+date: 2022-07-12
 startup: aidantsconnect
-title: Aidants Connect recrute un-e chargé-e de déploiement
+junior: true
+title: Aidants Connect recrute un-e chargé-e de déploiement junior
 ---
 	
-**La Startup d’État Aidants Connect recherche un-e “chargé-e de déploiement” afin de participer à sa phase d’accélération et de déploiement sur l'ensemble du territoire national.**
+**La Startup d’État Aidants Connect recherche un-e “chargé-e de déploiement junior” afin de participer à sa phase d’accélération et de déploiement sur l'ensemble du territoire national.**
 
 ## Qui sommes-nous ?
 
@@ -28,7 +29,7 @@ Aidants Connect est maintenant déployé sur l'ensemble du territoire national !
 * Animer des webinaires de présentation de l'outil
 * Animer la communauté Aidants Connect (rédaction de Newsletter etc...)
 
-L’ensemble de ces missions se fera en équipe et en lien avec les actuels chargé-es de déploiement.
+L’ensemble de ces missions se fera en équipe et en lien avec les actuelles chargé-es de déploiement.
 
 Vous devrez ponctuellement vous déplacer en France pour animer des réunions de présentation et former les membres de la communauté à l’utilisation de la solution Aidants Connect.
 
@@ -45,14 +46,9 @@ Votre profil nous intéresse si :
 
 ## Modalités
 
-Poste ouvert pour un indépendant ou une indépendante pour une première mission de 6 mois renouvelable (à 4 jours par semaine minimum). 
-
-Le télétravail est possible.
-
-Démarrage début 2022.
-
-## Candidater
-
-Expliquez-nous pourquoi vous avez envie de rejoindre Aidants Connect et envoyez-nous votre LinkedIn ou CV, le tout à contact@aidantsconnect.beta.gouv.fr
+* Poste ouvert pour une indépendante ou un indépendant pour un premier contrat de 6 mois renouvelable, 4/5 par semaine
+* Le télétravail est possible, une présence à Paris 2 jours par semaine est souhaitable
+* Démarrage idéalement en septembre. 
+* Pour candidater, veuillez remplir le formulaire suivant avec votre CV et/ou motivations : https://airtable.com/shr5005Oj0lXyygN2
 
 À bientôt !

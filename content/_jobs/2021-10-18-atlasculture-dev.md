@@ -4,12 +4,11 @@ contrat: indépendant
 equipe: L'Atelier Numérique du Ministère de la Culture
 friend: L'Atelier Numérique du Ministère de la Culture
 type: 'friend'
-post_ouvert: 2021-10-18
-poste_ferme: 2021-11-18
+open: false
 date: 2021-10-18
 contact: atlasculture@culture.gouv.fr
 status: open
-open: true
+open: false
 ---
 
 

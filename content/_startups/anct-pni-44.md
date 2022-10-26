@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (44)
-mission: Préfigurer une plateforme de livraison restaurateur-entreprises du territoire
+title: Préfigurer une plateforme de livraison restaurateur-entreprises du territoire
+mission: Programme national d'investigation (44)
 sponsors:
  - /organisations/anct
 incubator: anct

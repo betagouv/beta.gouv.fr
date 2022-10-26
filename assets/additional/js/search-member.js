@@ -1,3 +1,5 @@
+const MEMBER_PLACEHOLDER = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
+
 var createStartupTag = function (startupId) {
   if (!startupId) return "";
 
@@ -51,9 +53,9 @@ var createAuthorCard = function (author) {
   const incubator = author.incubator ? incubators.find((incubator) => incubator.id === author.incubator) : undefined;
   const isAlumnus = authorEndDate < timestampNow;
 
-  const avatar = `<img class="lozad avatar-rounded" data-src="${avatarSrc}" title="${author.fullname}" alt="" data-proofer-ignore>`;
+  const avatar = `<img class="lozad avatar-rounded" src="${MEMBER_PLACEHOLDER}" data-src="${avatarSrc}" alt="">`;
 
-  const title = author.link ? `<a class="fr-card__link" href="${ author.link }" target="_blank" rel="noopener">${author.fullname}</a>` : author.fullname;
+  const title = author.link ? `<a class="fr-card__link" href="${author.link}" target="_blank" rel="noopener">${author.fullname}</a>` : author.fullname;
   const detail = isAlumnus ? "Alumnus" : author.role;
   const content = author.content || "";
   const tags = totalStartups.map(createStartupTag).join("");
@@ -104,7 +106,7 @@ var generateDataWithHtmlCards = function (members) {
   for (var i = 0; i < keys.length; i++) {
     var key = keys[i];
     for (var j = 0; j < members[key].length; j++) {
-      members[key][j]["html"] = createStartupCard(members[key][j]);
+      members[key][j]["html"] = createAuthorCard(members[key][j]);
     }
   }
   return members;

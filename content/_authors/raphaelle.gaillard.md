@@ -14,10 +14,11 @@ missions:
     status: independent
     employer: SAS MG Performance
 startups:
-  - conseiller-numerique
-  - diagoriente
+  - tdb-apprentissage
 previously:
   - maintenant
+  - conseiller-numerique
+  - diagoriente
 competences:
   - Gestion de Produit
 ---

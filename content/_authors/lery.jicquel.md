@@ -16,7 +16,7 @@ startups:
   - AidESS-Relance
   - inca
   - justif
-  - article.40
+  - infoparquet
   - sndv_maritime
 previously:
   - e-controle

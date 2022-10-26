@@ -5,7 +5,7 @@ domaine: Design
 github: Audrey-Avenel
 missions:
   - start: 2022-02-03
-    end: 2022-07-04
+    end: 2022-12-31
     status: independent
     employer: Path Tech
 startups:

@@ -5,7 +5,7 @@ domaine: Développement
 github: kornifex
 missions:
   - start: 2022-05-03
-    end: 2022-08-05
+    end: 2022-12-31
     status: independent
 startups:
   - trackdechets

@@ -5,7 +5,7 @@ domaine: Développement
 github: ornella452
 missions:
   - start: 2021-05-24
-    end: 2022-09-30
+    end: 2022-12-31
     status: independent
     employer: Octo
 startups:

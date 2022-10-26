@@ -5,7 +5,7 @@ sponsors:
  - /organisations/mtei
  - /organisations/mtfp
 incubator: mission-apprentissage
-link: https://contrat.apprentissage.beta.gouv.fr/
+link: https://celia.emploi.gouv.fr/
 repository: https://github.com/mission-apprentissage/cerfa
 contact: apprentissage@beta.gouv.fr
 stats_url: https://contrat.apprentissage.beta.gouv.fr/stats
@@ -15,6 +15,8 @@ phases:
   - name: transfer
     start: 2022-02-01
     end: 2022-06-30
+  - name: success
+    start: 2022-07-31
 usertypes:
   - etat
   - collectivite-territoriale

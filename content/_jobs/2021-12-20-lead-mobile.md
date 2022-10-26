@@ -1,6 +1,6 @@
 ---
 roles: un·e tech lead mobile
-open: true
+open: false
 techno: react-native, iOS, Android
 ---
 

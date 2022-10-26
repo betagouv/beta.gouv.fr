@@ -4,7 +4,7 @@ domaine: Produit
 role: Urbaniste des systèmes d'information
 missions:
   - start: 2021-07-21
-    end: 2022-06-30
+    end: 2022-12-31
     status: admin
     employer: Service National des Données de Voyage
 startups:

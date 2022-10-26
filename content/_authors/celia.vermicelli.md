@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-06-27
-    end: 2022-09-27
+    end: 2023-01-31
     status: independent
     employer: DINUM
 startups:

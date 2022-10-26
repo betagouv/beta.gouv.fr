@@ -10,6 +10,8 @@ missions:
     employer: UT7
 startups:
   - sante-psy-etudiant
+previously:
+  - aides.jeunes
 domaine: Développement
 ---
 

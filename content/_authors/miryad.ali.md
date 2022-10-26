@@ -2,7 +2,7 @@
 fullname: Miryad Ali 
 role: Chargée de déploiement
 domaine: Déploiement
-github: Miryad
+github: Miryad3108
 avatar : img/authors/miryad.ali.jpg
 link: https://www.linkedin.com/in/miryad-ali/ 
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !

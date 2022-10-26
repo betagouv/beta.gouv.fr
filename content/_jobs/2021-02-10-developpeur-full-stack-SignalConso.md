@@ -3,7 +3,7 @@ roles: une développeuse ou un développeur web full-stack
 startup: signalement
 techno: React - Scala - Typescript
 junior: false
-open: true
+open: false
 ---
 
 ## Qui sommes-nous ?

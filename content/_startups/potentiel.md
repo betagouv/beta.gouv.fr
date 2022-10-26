@@ -10,6 +10,8 @@ phases:
     end: 2019-11-30
   - name: construction
     start: 2019-11-30
+  - name: acceleration
+    start: 2022-01-01
 link: https://potentiel.beta.gouv.fr/
 repository: https://github.com/MTES-MCT/potentiel
 stats: true

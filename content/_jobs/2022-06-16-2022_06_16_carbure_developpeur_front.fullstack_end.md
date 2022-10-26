@@ -1,8 +1,8 @@
 ---
 roles: CarbuRe recrute un·e Dev fullstack
-open: true
+open: false
 date: 2022-06-20T07:30:59.476Z
-depublication_date: 2022-07-05T07:30:59.770Z
+depublication_date: 2022-06-30T07:30:59.770Z
 startup: carbure
 contacts: anna.louis
 domaines:

@@ -10,6 +10,7 @@ missions:
     employer: OCTO Technology
 startups:
   - reva
+  - codedutravail
 ---
 
-Data scientist / data engineer à la recherche de nouvelles startups !
+Data scientist / data engineer voulant démystifier la data auprès des startups 

@@ -1,6 +1,6 @@
 ---
 fullname: John Arnould
-role: Business Developer 
+role: Product Manager
 domaine: Intraprenariat
 missions:
   - start: 2021-12-01
@@ -13,4 +13,4 @@ badges:
   - segur
 ---
 
-Business Developer pour la startup Mobiville.
+Product Manager pour la startup Mobiville.

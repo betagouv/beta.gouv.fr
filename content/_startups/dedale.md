@@ -11,7 +11,7 @@ contact: ateliernumerique@culture.gouv.fr
 usertypes:
   - collectivite-territoriale
   - particulier
-stats_url: null
+stats_url: https://www.culture.gouv.fr/Demarches-en-ligne/Par-thematiques/Architecture/Mes-travaux-en-site-protege/A-propos
 stats: true
 phases:
   - name: investigation
@@ -19,7 +19,7 @@ phases:
     end: 2020-04-01
   - name: construction
     start: 2020-04-01
-budget_url: https://atelier-numerique.notion.site/Budgets-publics-des-start-up-1b5453be26234d1c9abcb6bbce577e58
+budget_url: https://pad.incubateur.net/s/qeT5bzHUM#Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
 ---
 ## **Retour sur l’investigation**
 

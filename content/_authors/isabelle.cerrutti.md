@@ -1,6 +1,6 @@
 ---
 fullname: Isabelle  Cerrutti
-role: Intrapreneur
+role: Intrapreneuse
 domaine: Intraprenariat
 github: isabelle-cerrutti
 missions:

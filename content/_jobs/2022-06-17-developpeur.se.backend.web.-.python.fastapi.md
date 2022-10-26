@@ -1,9 +1,9 @@
 ---
 roles: Développeur·se Backend Web - Python / FastAPI
-open: true
+open: false
 junior: true
 date: 2022-06-17T12:35:10.976Z
-depublication_date: 2022-09-30T12:35:59.091Z
+depublication_date: 2022-09-12T12:35:59.091Z
 startup: carnet.de.bord
 contacts: jeremy.buget
 domaines:
@@ -60,16 +60,15 @@ Tu prends part à la conception du produit en collaboration avec le reste de l�
 
 ## Environnement de travail
 
-Vous travaillerez au sein d’une équipe composée de : 2 PM/PO, 2 développeurs, 2 business developers, 1 designer UX/UI.
+Vous travaillerez au sein d’une équipe composée de : 2 PM/PO, 2 développeurs (+ 2 à venir courant août / septembre), 2 business developers, 1 designer UX/UI.
 
 L’équipe est répartie à travers la France et travaille à distance en mode produit / agile / lean (standup quotidien en visioconférence).
 
 Charge : 4/5e
-Durée : 6 mois renouvelables
-Début souhaité : dès que possible
-Contrat : freelance
+Début souhaité : août / septembre
+Contrat : interne
 
-Pour candidater, envoyez-nous un e-mail à jeremy.bujet@beta.gouv.fr et laetitia.kouadria@beta.gouv.fr.
+Pour candidater, envoyez-nous un e-mail à jeremy.buget@beta.gouv.fr et laetitia.kouadria@beta.gouv.fr.
 
 N’hésitez pas à nous partager :
 

@@ -10,13 +10,13 @@ missions:
     status: service
     employer: NUMA
 startups:
-  - zero-logement-vacant
 previously:
   - mission-transition-ecologique
   - domifa
   - docurba
   - conseau
   - tremplin
+  - zero-logement-vacant
 competences:
   - Coaching
   - Gestion de Produit

@@ -5,6 +5,9 @@ nav:
     label: Brigade
     target: _pages/brigade.md
   -
+    label: Équipes
+    target: _pages/animation.md
+  -
     label: Réalisations
     target: _pages/startups.md
   -
@@ -26,3 +29,7 @@ shortcuts:
     label: Blog
     external: true
     url: https://blog.beta.gouv.fr
+  -
+    label: Espace Membre
+    external: true
+    url: https://espace-membre.incubateur.net

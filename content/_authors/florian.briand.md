@@ -2,12 +2,15 @@
 fullname: Florian Briand
 domaine: Coaching
 role: Coach / Développeur / PO
-github: nabellaleen
+github: Nabellaleen
 missions:
   - start: 2021-04-14
-    end: 2022-09-30
+    end: 2022-11-30
     status: service
     employer: Liberté Living Lab
+startups:
+  - romin
+  - uvf-numerique
 previously:
   - justif
   - inca
@@ -18,4 +21,4 @@ competences:
   - Coaching
   - Gestion de Produit
 ---
-Bioinformaticien, dev fullstack et récemment nocodeur, j'adore mettre à disposition mes compétences au service de projets qui ont du sens !
+Biologiste, dev, entrepreneur, nocodeur ... Plein de choses que j'aime mettre au service d'idées qui ont du sens.

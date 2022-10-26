@@ -13,11 +13,10 @@ startups:
   - camino
   - docurba
   - envergo
-  - urbanvitaliz
   - innovation-urbaine
-  - locatio
   - resorption-bidonvilles
   - sparte
+previously:
   - zero-logement-vacant
 competences:
   - Gestion de Produit

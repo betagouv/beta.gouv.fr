@@ -10,11 +10,11 @@ missions:
     status: service
     employer: NUMA
 startups:
-  - camino
   - locatio
 previously:
   - kelrisks
   - a-dock
+  - camino
 competences:
   - Gestion de Produit
   - Coaching

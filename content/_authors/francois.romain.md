@@ -13,11 +13,11 @@ missions:
   - status: independent
     employer: Octo
     start: 2022-01-03
-    end: 2022-12-31
-startups:
-  - dora
+    end: 2022-06-30
+startups: []
 previously:
   - camino
+  - dora
 competences:
   - Développement Frontend
   - Développement Backend

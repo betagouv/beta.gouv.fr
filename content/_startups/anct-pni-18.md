@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (18)
-mission: Mettre en oeuvre un espace collaboratif autour de l’enfant
+title: Mettre en oeuvre un espace collaboratif autour de l’enfant
+mission: Programme national d'investigation (18)
 sponsors:
  - /organisations/anct
 incubator: anct

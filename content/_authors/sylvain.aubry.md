@@ -6,7 +6,7 @@ link: https://sylvainaubry.cargo.site/
 github: SylvainAubry1
 missions:
   - start: 2022-06-27
-    end: 2022-10-31
+    end: 2023-10-31
     status: independent
     employer: Octo Technology
 startups:

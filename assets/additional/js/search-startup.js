@@ -1,3 +1,5 @@
+const STARTUP_PLACEHOLDER = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
+
 var USERTYPES = {
   "etablissement-scolaire": "Etablissements scolaires et d'enseignement supérieur",
   etat: "Services de l'État",
@@ -34,18 +36,18 @@ var createStartupCard = function (startup) {
   card.innerHTML = `
         <div class="fr-card fr-card--grey fr-enlarge-link">
             <div class="fr-card__body">
-                <h2 class="fr-card__title">
+                <h3 class="fr-card__title">
                     <a class="fr-card__link" href="/startups/${startup.id}.html">${startup.attributes.name}</a>
-                </h2>
+                </h3>
                 ${startupSponsors}
                 <p class="fr-card__desc">${startup.attributes.pitch}</p>
             </div>
             <div class="fr-card__img">
                 <img class="screenshot lozad"
+                    src="${STARTUP_PLACEHOLDER}"
                     data-src="${startup.attributes["screenshot-url"]}"
-                    title="${startup.attributes.name} est encore en travaux"
                     alt=""
-                    data-proofer-ignore>
+                    />
             </div>
         </div>`;
   return card;
@@ -112,16 +114,18 @@ var updateCards = function (data) {
         phaseElement.removeChild(noContentMessage[0]);
       }
     }
+    /* ce code permet de calculer le nombre de start-up dans une phase lors de la recherche par incubateur. Il ne compte pas les start-up lors du chargement de la page start-up */
     var phaseCounter = phaseElement.getElementsByClassName("phase-counter")[0];
     if (phaseCounter) {
       phaseCounter.innerText = dataToDisplay.length;
     }
     var phaseLabel = phaseElement.getElementsByClassName("phase-label")[0];
     if (phaseLabel) {
+      
       var currentPhase = phases.filter((p) => p.status === phase)[0];
       var plural = dataToDisplay.length > 1 ? "s" : "";
       if (currentPhase.status === "success") {
-        phaseLabel.innerText = currentPhase.label.toLowerCase() + "s";
+        phaseLabel.innerText = currentPhase.type_label.toLowerCase() + "s";
       } else if (currentPhase.status === "alumni") {
         phaseLabel.innerText = currentPhase.label.toLowerCase();
       } else {
@@ -144,7 +148,6 @@ var updateCards = function (data) {
 };
 
 var createIncubatorSelect = function (data, incubators, initValue) {
-  console.log("LCS CREATE INCUBATOR SELECT");
   var selectIncubator = document.getElementById("select-incubateur");
   var optionFragment = document.createDocumentFragment();
   for (var i = 0; i < incubators.length; i++) {
@@ -184,11 +187,13 @@ var createIncubatorSelect = function (data, incubators, initValue) {
 var createUsertypesSelect = function (data, initValue) {
   var selectUsertypes = document.getElementById("select-usertypes");
   var optionFragment = document.createDocumentFragment();
-  for (var i = 0; i < USERTYPES.length; i++) {
-    var usertype = USERTYPES[i];
+  var usertypes = Object.keys(USERTYPES)
+  for (var i = 0; i < usertypes.length; i++) {
+    var usertypeKey = usertypes[i]
+    var usertypeLabel = USERTYPES[usertypeKey];
     var option = document.createElement("option");
-    option.innerText = usertype.title;
-    option.value = usertype.id;
+    option.innerText = usertypeLabel;
+    option.value = usertypeKey;
     optionFragment.appendChild(option);
   }
   selectUsertypes.appendChild(optionFragment);
