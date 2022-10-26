@@ -1,9 +1,6 @@
 ---
 title: Mes événements Emploi
-mission: Une solution digitale qui permet aux candidats de s’inscrire à des
-  événements adaptés à leurs critères de recherche, dans l’objectif de trouver
-  un emploi ou d’accéder à une formation et se préparer à un événement de
-  recrutement
+mission: Une solution numérique qui permet aux candidat·es de s’inscrire à des événements adaptés à leurs critères de recherche, dans l’objectif de trouver un emploi ou d’accéder à une formation et se préparer à un événement de recrutement
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
