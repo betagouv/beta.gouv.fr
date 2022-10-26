@@ -17,7 +17,7 @@ link: https://ma-cantine.beta.gouv.fr
 repository: https://github.com/betagouv/ma-cantine
 stats: true
 stats_url: https://ma-cantine.agriculture.gouv.fr/statistiques-plateforme
-budget_url: https://pad.incubateur.net/s/qeT5bzHUM#Minist%C3%A8re-de-l%E2%80%99Agriculture-et-de-la-souverainet%C3%A9-alimentaire-services-de-la-Direction-de-l%E2%80%99alimentation-DGAL
+budget_url: https://pad.incubateur.net/s/qeT5bzHUM
 contact: contact@egalim.beta.gouv.fr
 usertypes:
   - entreprise
