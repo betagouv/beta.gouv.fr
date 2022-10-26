@@ -5,7 +5,7 @@ domaine: Développement
 github: flodlc
 missions:
   - start: 2022-03-21
-    end: 2022-11-01
+    end: 2023-02-26
     status: independent
 ---
 
