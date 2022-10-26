@@ -48,6 +48,6 @@ Acceslibre s’insère également dans le paysage plus vaste de l’accessibilit
 
 ## Etat d’avancement et prochaines étapes
 
-Après 2.5 ans d'existante, Acceslibre est passée depuis septembre en phase d'accélération avec plus de 100 000 établissements recensés sur le site et des réutilisateurs majeurs : servicepublic.fr à compter de novembre 2022, google avant fin 2022.  
+Après 2.5 ans d'existence, Acceslibre est passée depuis septembre en phase d'accélération avec plus de 100 000 établissements recensés sur le site et des réutilisateurs majeurs : servicepublic.fr à compter de novembre 2022, google avant fin 2022.  
 
 Tout l'enjeu est de poursuivre ce rythme de forte croissance et d'accroître la notoriété d'acceslibre.
