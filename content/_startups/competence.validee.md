@@ -1,8 +1,6 @@
 ---
 title: Compétence Validée
-mission: optimiser l’intermédiation entre offre et demande d’emploi en
-  fiabilisant les profils des demandeurs d'emploi grâce à une validation de
-  compétences
+mission: optimiser l’intermédiation entre offre et demande d’emploi en fiabilisant les profils des personnes en demande d'emploi grâce à une validation de compétences
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
