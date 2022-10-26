@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (37)
-mission: Renforcer et assurer l’égalité des citoyens dans l’accès aux informations en ligne et aux démarches administratives
+title: Renforcer et assurer l’égalité des citoyens dans l’accès aux informations en ligne et aux démarches administratives
+mission: Programme national d'investigation (37)
 sponsors:
  - /organisations/anct
 incubator: anct

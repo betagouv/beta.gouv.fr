@@ -10,8 +10,6 @@ missions:
     employer: UT7
 startups:
   - la-bonne-alternance
-  - matcha
-  - rdv.apprentissage
 ---
 
 Product Designer

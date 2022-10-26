@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (36)
-mission: Gérer les équipements municipaux (culturels, sportifs, associatifs)
+title: Gérer les équipements municipaux (culturels, sportifs, associatifs)
+mission: Programme national d'investigation (36)
 sponsors:
  - /organisations/anct
 incubator: anct

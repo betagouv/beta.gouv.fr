@@ -21,7 +21,7 @@ usertypes:
 
 ## Contexte
 
-L'administration gère un nombre toujours croissant d'envoi d'emails et/ou de SMS auprès des particuliers, bénéficiaires de services publiques. La gestion de ces campagnes de communications éléctronniques est souvent fragmenté par service. Avec l'augmentation du nombre d'emails envoyés dans le monde, les règles de délivrabilité des emails se sont également complexifiées (besoin de gérer la réputation de l'émetteur d'emails ou "sender score", mise en place de listes blanches pour limiter la circulation de "pourriels"...).  
+L'administration gère un nombre toujours croissant d'envoi d'emails et/ou de SMS auprès des particuliers, bénéficiaires de services publiques. La gestion de ces campagnes de communications éléctroniques est souvent fragmenté par service. Avec l'augmentation du nombre d'emails envoyés dans le monde, les règles de délivrabilité des emails se sont également complexifiées (besoin de gérer la réputation de l'émetteur d'emails ou "sender score", mise en place de listes blanches pour limiter la circulation de "pourriels"...).  
 
 En parallèle, de véritables expertises sur la question de la "délivrabilité" des emails et SMS se sont développées dans les secteurs privés. Il existe une opportunité pour développer un service qui améliorerait la "délivrabilité" des emails envoyés par les petits services publics, en s'inspirant des meilleurs pratiques existantes. 
 

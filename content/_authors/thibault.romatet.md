@@ -9,6 +9,7 @@ missions:
     employer: HC3E
 startups:
   - l-application-du-cej
+  - pass.engagement.jeune
 previously:
   - aides.jeunes
 competences:

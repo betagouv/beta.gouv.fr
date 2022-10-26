@@ -1,21 +1,22 @@
 ---
-title: Deveco
 mission: Faciliter l'accès et la gestion des données entreprises pour les collectivités
-sponsors:
- - /organisations/anct
 incubator: anct
-phases:
-  - name: investigation
-    start: 2021-10-14
-  - name: construction
-    start: 2022-01-31
-link:
-repository :
-stats: false
-stats_url: 
+repository: null
 contact: karel.cloarec@beta.gouv.fr
 usertypes:
   - collectivite-territoriale
+stats_url: null
+title: Deveco
+sponsors:
+  - /organisations/anct
+link: null
+stats: false
+phases:
+  - name: investigation
+    start: 2021-10-14
+    end: 2022-01-31
+  - name: construction
+    start: 2022-01-31
 ---
 
 ## Le contexte

@@ -18,8 +18,7 @@ github: IshanB
 startups:
     - ma-cantine-egalim
     - recosante
-    - cartobio
-    - comptes_datapass
+    - moncomptepro
 previously:
     - urbanvitaliz
     - ban
@@ -32,6 +31,9 @@ previously:
     - auvol
     - peps
     - tutorat_fp
+    - cartobio
 badges:
   - segur
+teams:
+  - /teams/dinum
 ---

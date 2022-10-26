@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (35)
-mission: Faciliter les échanges entre associations locales
+title: Faciliter les échanges entre associations locales
+mission: Programme national d'investigation (35)
 sponsors:
  - /organisations/anct
 incubator: anct

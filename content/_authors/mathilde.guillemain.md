@@ -5,7 +5,7 @@ domaine: Design
 link: https://poulpux.com
 missions:
   - start: 2021-08-02
-    end: 2022-10-01
+    end: 2022-12-31
     status: independent
     employer: Scopyleft
 startups:

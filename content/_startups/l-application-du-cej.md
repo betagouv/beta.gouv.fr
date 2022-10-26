@@ -5,10 +5,13 @@ mission: "Contrat Engagement Jeune : Aider les jeunes les plus éloignés de
 sponsors:
   - /organisations/dgefp
 incubator: sgmas
+link: https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune
 repository: https://github.com/SocialGouv/pass_emploi_app
 contact: contact@pass-emploi.gouv.fr
+usertypes:
+  - particulier
+  - etat
 stats_url: https://sites.google.com/view/statistiques-pass-emploi
-link: https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune
 stats: true
 phases:
   - name: investigation
@@ -17,9 +20,8 @@ phases:
   - name: construction
     start: 2021-09-30
     end: 2022-03-30
-usertypes:
-  - particulier
-  - etat
+  - name: acceleration
+    start: 2022-03-01
 ---
 L’application du Contrat d’Engagement Jeune a pour objectif de faciliter l’accompagnement du jeune par son conseiller (Pôle emploi ou Mission Locale) afin de limiter son décrochage.
 

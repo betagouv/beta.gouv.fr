@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (23)
-mission: Améliorer la communication entre le centre de loisirs et les parents pendant les période de vacances
+title: Améliorer la communication entre le centre de loisirs et les parents pendant les période de vacances
+mission: Programme national d'investigation (23)
 sponsors:
  - /organisations/anct
 incubator: anct

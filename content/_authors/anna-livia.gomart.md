@@ -22,6 +22,8 @@ previously:
   - api-particulier
   - aidantsconnect
   - tchap
+teams:
+  - /teams/dinum
 ---
 
 Minimum effort, maximum impact.

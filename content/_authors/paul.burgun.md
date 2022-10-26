@@ -16,5 +16,8 @@ startups:
   - sante-psy-etudiant
 badges:
   - segur
+teams:
+  - /teams/dinum
+  - /teams/fast
 ---
 
