@@ -24,7 +24,6 @@ phases:
     end: 2020-08-28
   - name: acceleration
     start: 2020-09-01
-    end: 2022-09-30
 ---
 **Problème**
 
