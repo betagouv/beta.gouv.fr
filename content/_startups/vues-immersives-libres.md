@@ -8,10 +8,8 @@ contact: camille.salou@ign.fr
 phases:
   - name: investigation
     start: 2022-06-24
-    end: 2022-10-17
   - name: construction
     start: 2022-10-17
-   
 ---
 ## Contexte
 
