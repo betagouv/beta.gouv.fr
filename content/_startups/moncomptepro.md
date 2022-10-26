@@ -9,9 +9,12 @@ sponsors:
 contact: ishan.bhojwani@beta.gouv.fr
 phases:
   - name: investigation
-    start: 2022-03-01
-    end: 2022-04-21
+    start: 2018-09-01
+    end: 2019-01-01
   - name: construction
+    start: 2019-01-02
+    end: 2022-04-21
+  - name: acceleration
     start: 2022-04-22
 usertypes:
   - etat
