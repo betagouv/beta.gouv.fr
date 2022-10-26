@@ -8,7 +8,6 @@ missions:
     end: 2022-12-31
     status: admin
     employer: Direction Générale des Entreprises (DGE)
-incubator: dinum
 badges:
   - segur
 competences:
