@@ -9,7 +9,6 @@ sponsors:
 incubator: pole-emploi
 link: "https://mes-aides.pole-emploi.fr/ "
 contact: mesaides@beta.pole-emploi.fr
-accessibility_status: null
 phases:
   - name: investigation
     start: 2021-10-04
