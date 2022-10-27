@@ -1,12 +1,16 @@
 ---
 title: La Bonne Boite
-mission: La bonne boite met en visibilité le marché caché de l’emploi. Le service favorise les candidatures spontanées pour les personnes en demande d’emploi et candidates en suggérant des entreprises à fort potentiel d’embauche selon le lieu géographique choisi.
+mission: Mettre en visibilité le marché caché de l'emploi grâce à un service qui
+  favorise les candidatures spontanées des demandeurs d'emploi et qui candidate
+  en suggérant des entreprises à fort potentiel d’embauche selon le lieu
+  géographique choisi
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
 link: https://labonneboite.pole-emploi.fr/
 repository: "https://github.com/StartupsPoleEmploi/labonneboite "
 contact: labonneboite@pole-emploi.fr
+accessibility_status: partiellement conforme
 redirect_from:
   - /startups/labonneboite
 usertypes:
@@ -24,4 +28,4 @@ phases:
 ---
 Le saviez-vous ? Seules 20% des embauches sont le fruit d'une rencontre entre une offre d'emploi et une demande ! **80% du marché de l'emploi est dit « caché »**, et relève des **candidatures spontanées** et des cooptations.
 
-Avec La Bonne Boite, ne cherchez plus une offre d'emploi, trouvez plutôt les entreprises qui vont recruter près d'une adresse ! Mieux qu'un simple annuaire, La Bonne Boite cible  les entreprises ayant des perspectives d'embauche élevées. Ce ciblage est obtenu par l'analyse de millions de recrutements sur toutes les entreprises. Pour chaque entreprise à fort potentiel d'embauche, des recommandations permettent de choisir le meilleur canal pour obtenir un rendez-vous.
+Avec La Bonne Boite, ne cherchez plus une offre d'emploi, trouvez plutôt les entreprises qui vont recruter près d'une adresse ! Mieux qu'un simple annuaire, La Bonne Boite cible les entreprises ayant des perspectives d'embauches élevées. Ce ciblage est obtenu par l'analyse de millions de recrutements sur toutes les entreprises. Pour chaque entreprise à fort potentiel d'embauche, des recommandations permettent de choisir le meilleur canal pour obtenir un rendez-vous.
