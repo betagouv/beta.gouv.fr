@@ -1,5 +1,5 @@
 ---
-title: logement de crise # une majuscule et pas d'acronymes
+title: Logement de crise # une majuscule et pas d'acronymes
 mission: Faciliter le travail d’attribution du “bon” logement aux déplacés d’Ukraine
 sponsors: 
  - /organisations/dihal
