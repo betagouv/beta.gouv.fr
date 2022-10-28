@@ -54,5 +54,5 @@ En intégrant la brique API Entreprise dans leur système d’information ou leu
 - n'ont plus besoin de demander et re-demander les justificatifs ;
 - n'ont pas de vérification à réaliser car les informations sont certifiées.
 
-La DINMU a travaillé sur la mise en place d'un cadre juridique commun pour harmoniser et fluidifier les relations entre fournisseurs de données et fournisseurs de service. C'est la mise en place de l'article de la section [« Échange de données entre administrations » (L114-8 et suivants) du CRPA](https://www.legifrance.gouv.fr/affichCode.do;jsessionid=EA87CA618644F6B9C1A66E4468F81BFD.tplgfr38s_3?idSectionTA=LEGISCTA000031367410&cidTexte=LEGITEXT000031366350&dateTexte=20161009).
+La DINUM a travaillé sur la mise en place d'un cadre juridique commun pour harmoniser et fluidifier les relations entre fournisseurs de données et fournisseurs de service. C'est la mise en place de l'article de la section [« Échange de données entre administrations » (L114-8 et suivants) du CRPA](https://www.legifrance.gouv.fr/affichCode.do;jsessionid=EA87CA618644F6B9C1A66E4468F81BFD.tplgfr38s_3?idSectionTA=LEGISCTA000031367410&cidTexte=LEGITEXT000031366350&dateTexte=20161009).
 Les relations entre les administrations utilisatrices du services et les entreprises bénéficiant du service sont ainsi régies par ce cadre législatif.
