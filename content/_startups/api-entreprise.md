@@ -25,7 +25,7 @@ usertypes:
 
 ## Le problème
 
-Lorsqu'une entreprise dépose un dossier pour une démarche administrative elle doit fournir de nombreuses informations et documents. Par exemple, pour candidater à un marché public ou faire une demande d'aide publique ou tout autre démarches administrative.
+Lorsqu'une entreprise ou une association dépose un dossier pour une démarche administrative, elle doit fournir de nombreuses informations et documents. C'est par exemple le cas pour candidater à un marché public ou faire une demande d'aide/subvention publique.
 
 Cependant les documents et informations demandés sont parfois déjà détenus par une autre administration.
 
