@@ -1,6 +1,6 @@
 ---
 title: API Entreprise
-mission: Récupérer les données des entreprises pour éviter de les redemander
+mission: Rendre accessibles aux acteurs publics les informations administratives des entreprises et associations, afin de simplifier leurs démarches.
 sponsors:
   - /organisations/dinum
 incubator: apigouv
