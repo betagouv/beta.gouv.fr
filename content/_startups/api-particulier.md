@@ -1,6 +1,6 @@
 ---
 title: API Particulier
-mission: Faire circuler les données des particuliers pour réduire les demandes de pièces justificatives et simplifier les démarches
+mission: Rendre accessibles aux acteurs publics les informations administratives des particuliers, afin de simplifier leurs démarches.
 sponsors:
   - /organisations/dinum
 incubator: apigouv
