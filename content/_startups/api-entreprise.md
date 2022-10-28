@@ -29,7 +29,11 @@ Lorsqu'une entreprise ou une association dépose un dossier pour une démarche a
 
 Cependant, les documents et informations demandés sont parfois déjà détenus par une autre administration.
 
-Il s'agit donc de simplifier les démarches administratives et le travail des agents traitant ces dossiers en faisant circuler par API les pièces justificatives et les informations détenue par d'autres services administratifs.
+Le manque de circulation de ces informations pourtant déjà disponibles au sein du secteur public entraîne une complexification des démarches pour les usagers qui doivent régulièrement fournir les mêmes documents.
+Le problème concerne également les agents publics qui sont souvent dans l'obligation :
+
+- de demander et re-demander certains justificatifs ;
+- d'effectuer des vérifications pour s'assurer que les documents sont certifiés.
 
 ## La solution
 
