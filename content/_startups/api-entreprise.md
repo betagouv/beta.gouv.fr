@@ -27,7 +27,7 @@ usertypes:
 
 Lorsqu'une entreprise ou une association dépose un dossier pour une démarche administrative, elle doit fournir de nombreuses informations et documents. C'est par exemple le cas pour candidater à un marché public ou faire une demande d'aide/subvention publique.
 
-Cependant les documents et informations demandés sont parfois déjà détenus par une autre administration.
+Cependant, les documents et informations demandés sont parfois déjà détenus par une autre administration.
 
 Il s'agit donc de simplifier les démarches administratives et le travail des agents traitant ces dossiers en faisant circuler par API les pièces justificatives et les informations détenue par d'autres services administratifs.
 
