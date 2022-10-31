@@ -44,8 +44,8 @@ Ces API permettent, entre autres, de récupérer des données comme la forme jur
 
 La mise à disposition de ces données par format d'API permet d'intégrer directement les données :
 
- - dans les services en ligne pour les usagers ;
- - dans les logiciels métiers des agents.
+- dans les services en ligne pour les usagers ;
+- dans les logiciels métiers des agents.
 
 En intégrant la brique API Entreprise dans leur système d’information ou leurs site internet, les acteurs publics :
 
