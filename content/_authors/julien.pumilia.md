@@ -9,7 +9,7 @@ missions:
     end: 2022-10-31
     status: independent
     employer: Octo
-startups:
+previously:
   - dora
 ---
 
