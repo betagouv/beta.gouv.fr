@@ -25,16 +25,28 @@ contact: contact@particulier.api.gouv.fr
 
 ## Le problème
 
-Lorsqu'une personne dépose un dossier pour une démarche administrative elle doit fournir de nombreuses informations et documents. Par exemple, pour l'attribution des aides facultatives à la scolarité, la tarification sociale et solidaire des transports...
+Lorsqu'une personne dépose un dossier pour une démarche administrative, elle doit fournir de nombreuses informations et documents. C'est par exemple le cas pour l'attribution des aides facultatives à la scolarité, la tarification sociale et solidaire des transports...
 
-Cependant les documents et informations demandés sont parfois déjà détenus par une autre administration.
+Cependant, les documents et informations demandés sont parfois déjà détenus par une autre administration.
 
-Il s'agit donc de simplifier les démarches administratives et le travail des agents traitant ces dossiers en faisant circuler par API les pièces justificatives et les informations détenue par d'autres services administratifs.
+Le manque de circulation de ces informations pourtant déjà disponibles au sein du secteur public entraîne une complexification des démarches pour les usagers qui doivent régulièrement fournir les mêmes documents.
+Le problème concerne également les agents publics qui sont souvent dans l'obligation :
+- de demander et re-demander certains justificatifs ;
+- d'effectuer des vérifications pour s'assurer que les documents sont certifiés.
 
 ## La solution
 
 La DINUM simplifie radicalement ce processus avec le produit API Particulier qui est un des acteurs du [Dîtes-le-nous une fois (DLNUF)](https://www.numerique.gouv.fr/services/guichet-dites-le-nous-une-fois/).
 
-API Particulier mets à dispositions des administrations des API qui permettent entre autres de récupérer des données des particuliers, comme celles fournies par la Direction Générale des Finances Publiques (DGFIP) ou la Caisse d'Allocation Familiales (CAF), sans avoir à demander de justificatifs. Ces données sont en plus certifiées car provenant directement de l'administration qui opèrent ces données.
+API Particulier simplifie les démarches administratives et le travail des agents traitant les dossiers en faisant circuler par API les pièces justificatives et les informations détenues par d'autres services administratifs.
+Ces API permettent, entre autres, de récupérer des données comme le quotient familial CAF, le statut étudiant ou boursier ou encore le statut d'un demandeur d'emploi. Ces données sont certifiées car elles proviennent directement des administrations les opérant.
 
-Ces données peuvent ainsi être intégrés dans les logiciels métiers des différentes services administratifs afin de simplifier le traitement des démarches administratives des particuliers.
+La mise à disposition de ces données par format d'API permet d'intégrer directement les données :
+ - dans les services en ligne pour les usagers ;
+ - dans les logiciels métiers des agents.
+
+En intégrant la brique API Entreprise dans leur système d’information ou leurs site internet, les acteurs publics :
+- accélèrent et simplifient les démarches pour particuliers ;
+- accèdent avec un point unique aux données de la Caisse nationale des allocation familiale (CNAF), du Cnous, de Pôle emploi, etc. ;
+- n'ont plus besoin de demander et re-demander les justificatifs ;
+- n'ont pas de vérification à réaliser car les informations sont certifiées.

@@ -39,7 +39,7 @@ Le problème concerne également les agents publics qui sont souvent dans l'obli
 
 La DINUM simplifie radicalement ce processus avec le produit API Entreprise qui est un des acteurs du [Dîtes-le-nous une fois (DLNUF)](https://www.numerique.gouv.fr/services/guichet-dites-le-nous-une-fois/).
 
-API Entreprise simplifie les démarches administratives et le travail des agents traitant les dossiers en faisant circuler par API les pièces justificatives et les informations détenue par d'autres services administratifs.
+API Entreprise simplifie les démarches administratives et le travail des agents traitant les dossiers en faisant circuler par API les pièces justificatives et les informations détenues par d'autres services administratifs.
 Ces API permettent, entre autres, de récupérer des données comme la forme juridique, les mandataires sociaux, etc... ainsi que des pièces justificatives telle que l'attestation de régularité fiscale et l'attestation de vigilance... Ces données sont certifiées car elles proviennent directement des administrations les opérant.
 
 La mise à disposition de ces données par format d'API permet d'intégrer directement les données :
