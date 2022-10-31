@@ -11,14 +11,14 @@ missions:
     end: 2022-12-15
     status: independent
 startups:
-  - itou
-  - place-de-marche-inclusion
 previously:
   - dora
   - la-bonne-boite
   - estime
   - la-bonne-formation
   - zen
+  - itou
+  - place-de-marche-inclusion
 competences:
   - UX
   - UI
