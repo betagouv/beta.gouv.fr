@@ -1,6 +1,6 @@
 ---
-fullname: brahim kafi
-role: Business Developper
+fullname: Brahim Kafi
+role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-11-03
