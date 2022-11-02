@@ -1,6 +1,6 @@
 ---
 fullname: Céline ANFOSSI
-role:  
+role: Chargée de déploiement  
 domaine: Produit
 missions:
   - start: 2022-11-02
