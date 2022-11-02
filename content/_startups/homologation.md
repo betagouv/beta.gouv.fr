@@ -14,8 +14,6 @@ phases:
     start: 2021-01-04
     end: 2021-05-07
   - name: construction
-    start: 2021-05-07
-  - name: construction
     start: 2021-09-01
 usertypes:
   - collectivite-territoriale
