@@ -1,7 +1,7 @@
 ---
 fullname: Eric Heijligers
 domaine: Produit
-role: Product manager
+role: Lead Product manager
 github: Eric-Hei
 missions:
   - status: admin
@@ -11,11 +11,11 @@ missions:
 incubator: sgmas
 startups:
   - 1000.jours
-  - 1000.premiers.jours.blues
   - tumeplay
   - archifiltre
   - domifa
   - enfants-du-spectacle
+  - 1000.premiers.jours.blues
 previously:
   - e-mjpm
   - workinfrance
