@@ -21,6 +21,7 @@ missions:
 startups:
   - cartobio
   - dialogue
+  - place-des-entreprises
 competences:
   - UX
   - UI
