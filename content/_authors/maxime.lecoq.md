@@ -1,7 +1,7 @@
 ---
 fullname: Maxime Lecoq
-role: PO
 domaine: Produit
+role: PO
 github: maxime-lecoq
 missions:
   - start: 2021-04-05
@@ -9,6 +9,8 @@ missions:
     status: independent
 startups:
   - 1000.jours
+  - 1000.premiers.jours.blues
+competences:
+  - Gestion de Produit
 ---
-
 Product Owner Tumeplay & 1000j
