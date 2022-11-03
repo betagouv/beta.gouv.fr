@@ -16,4 +16,4 @@ badges:
 competences:
   - Administration Publique
 ---
-Attachée d'administration
+Attachée d'administration politiques publiques de cohésion sociale
