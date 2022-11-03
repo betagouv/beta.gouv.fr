@@ -11,11 +11,11 @@ missions:
 incubator: sgmas
 startups:
   - 1000.jours
-  - 1000.premiers.jours.blues
   - tumeplay
   - archifiltre
   - domifa
   - enfants-du-spectacle
+  - 1000.premiers.jours.blues
 previously:
   - e-mjpm
   - workinfrance
