@@ -15,6 +15,7 @@ missions:
 startups:
   - sparte
   - authentification
+  - cnr
 previously:
   - tchap
 badges:
