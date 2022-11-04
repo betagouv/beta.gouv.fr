@@ -15,6 +15,7 @@ startups:
   - classe-a-12
   - anti-gaspi-cantine
   - metiers-numeriques
+  - cnr
 previously:
   - demarches-simplifiees.fr
   - trait-d-union
