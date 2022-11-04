@@ -10,5 +10,7 @@ missions:
     employer: DINUM
 badges:
   - segur
+startups:
+  - cnr 
 ---
 
