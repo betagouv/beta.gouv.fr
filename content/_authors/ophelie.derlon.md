@@ -6,5 +6,7 @@ missions:
   - start: 2022-10-24
     end: 2022-12-24
     status: admin
+startups:
+  - cnr
 ---
 
