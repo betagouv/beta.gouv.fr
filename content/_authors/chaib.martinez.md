@@ -15,6 +15,7 @@ startups:
   - classe-a-12
   - anti-gaspi-cantine
   - metiers-numeriques
+  - cnr
 previously:
   - demarches-simplifiees.fr
   - trait-d-union
@@ -28,6 +29,9 @@ competences:
   - Gestion de Produit
   - Développement Frontend
   - Communication
+teams:
+  - /teams/communaute
+  - /teams/fast
 ---
 
 Accélérateur de startups d'État et de Térritoire. Acquisition, Activation, Retention, Referral, Impact 👊

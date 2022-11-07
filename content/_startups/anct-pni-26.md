@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (26)
-mission: Gérer les tournées de ramassage des déchets / tri
+title: Gérer les tournées de ramassage des déchets / tri
+mission: Programme national d'investigation (26)
 sponsors:
  - /organisations/anct
 incubator: anct

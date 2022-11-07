@@ -1,18 +1,19 @@
 ---
 fullname: Simon Hamery
-role: Développeur
 domaine: Développement
-link: https://www.linkedin.com/in/shamery/
+role: Développeur
 github: shamzic
+link: https://www.linkedin.com/in/shamery/
 missions:
   - start: 2022-09-05
-    end: 2022-11-06
+    end: 2022-12-06
     status: independent
     employer: Octo
 startups:
   - aides.jeunes
 badges:
   - segur
+competences:
+  - Développement Frontend
 ---
-
-Développeur cycliste
+Développeur web, basketteur et cycliste engagé dans la transition écologique

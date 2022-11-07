@@ -9,4 +9,6 @@ missions:
     employer: Agence Nationale de Cohésion des Territoires
 competences:
   - Croissance
+teams:
+  - /teams/anct
 ---

@@ -10,10 +10,14 @@ phases:
       end: 2020-10-29
     - name: construction
       start: 2020-10-29
+      end: 2021-12-31
+    - name: acceleration
+      start: 2022-01-01
 link: https://ma-cantine.beta.gouv.fr
 repository: https://github.com/betagouv/ma-cantine
 stats: true
-stats_url: https://ma-cantine-metabase.cleverapps.io/public/dashboard/f65ca7cc-c3bd-4cfb-a3dc-236f81864663
+stats_url: https://ma-cantine.agriculture.gouv.fr/statistiques-plateforme
+budget_url: https://pad.incubateur.net/s/qeT5bzHUM
 contact: contact@egalim.beta.gouv.fr
 usertypes:
   - entreprise

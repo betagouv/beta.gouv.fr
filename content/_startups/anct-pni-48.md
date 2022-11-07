@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (48)
-mission: Acculturer ladministration et les élus à de nouvelles méthodes de travail
+title: Acculturer l'administration et les élus à de nouvelles méthodes de travail
+mission: Programme national d'investigation (48)
 sponsors:
  - /organisations/anct
 incubator: anct

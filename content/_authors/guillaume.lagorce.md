@@ -8,7 +8,7 @@ missions:
     end:  2020-02-29
     status: independent
   - start: 2022-09-06
-    end: 2022-10-28
+    end: 2022-12-22
     status: independent
 startups:
     - carnet.de.bord

@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (22)
-mission: Mettre en place un cahier de transmissions numérique entre crèches et parents
+title: Mettre en place un cahier de transmissions numérique entre crèches et parents
+mission: Programme national d'investigation (22)
 sponsors:
  - /organisations/anct
 incubator: anct

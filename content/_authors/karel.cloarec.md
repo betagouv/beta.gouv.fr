@@ -32,6 +32,10 @@ missions:
 startups:
   - deveco
   - guichet-entreprises-nc
+  - monstage
+  - rdv.mjd
+  - frise.cpip
+  - conventionnement.iae
 previously:
   - andi
   - urbanvitaliz

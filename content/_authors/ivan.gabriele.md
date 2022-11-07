@@ -23,12 +23,12 @@ missions:
     status: independent
   - employer: Malt
     start: 2022-06-20
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
 startups:
-  - metiers-numeriques
   - monitorfish
 previously:
+  - metiers-numeriques
   - codedutravail
   - inca
 competences:

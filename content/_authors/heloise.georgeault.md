@@ -7,6 +7,6 @@ missions:
     end: 2026-06-30
     status: admin
 startups:
-    - le-taxi
+    - preuve-de-covoiturage
     - mesads
 ---

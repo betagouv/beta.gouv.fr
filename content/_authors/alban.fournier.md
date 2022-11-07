@@ -5,7 +5,7 @@ domaine: Produit
 link: https://www.linkedin.com/in/albanfournierprenfit/
 missions:
   - start: 2022-06-01
-    end: 2022-12-02
+    end: 2023-12-31
     status: independent
     employer: Little Big Connection
 startups:

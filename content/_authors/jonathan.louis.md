@@ -5,7 +5,7 @@ role: Chargé de déploiement
 github: Jonathan2051
 missions:
   - employer: octo
-    end: 2022-11-04
+    end: 2023-01-31
     start: 2020-07-20
     status: independent
 startups:

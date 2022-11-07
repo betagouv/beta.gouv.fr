@@ -5,7 +5,7 @@ domaine: Développement
 github: pybuche
 missions:
   - start: 2022-06-20
-    end: 2022-10-30
+    end: 2022-12-31
     status: independent
     employer: DINUM
 startups:

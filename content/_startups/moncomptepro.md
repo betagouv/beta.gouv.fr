@@ -1,18 +1,25 @@
 ---
-title: Comptes DataPass
-mission: La fédération d'identité pour les personnes morales
+title: MonComptePro
+mission: Un compte lié au numéro de SIRET de votre organisation
+link: https://moncomptepro.beta.gouv.fr
+repository: https://github.com/betagouv/api-auth
 incubator: dinum
 sponsors:
   - /organisations/dinum
 contact: ishan.bhojwani@beta.gouv.fr
 phases:
   - name: investigation
-    start: 2022-03-01
-    end: 2022-04-21
+    start: 2018-09-01
+    end: 2019-01-01
   - name: construction
+    start: 2019-01-02
+    end: 2022-04-21
+  - name: acceleration
     start: 2022-04-22
 usertypes:
   - etat
+  - collectivite-territoriale
+  - entreprise
 ---
 
 ## Contexte
@@ -30,10 +37,8 @@ Ainsi, face à la multiplication des services numériques de l'État, et pour pr
 
 Il existe déjà plusieurs services ayant développé une brique d'authentification pour certifier l'appartenance d'une personne physique qui se connecte sur un service à une personnalité morale telle une collectivité.
 
-Il est proposé de repartir des comptes utilisés par [l'outil d'habilitation DataPass](https://beta.gouv.fr/startups/datapass). Cette solution permet de vérifier l’identité de l’inscrit de manière automatisée à partir de son courriel et du SIRET de son organisation. Cette solution permet également une gestion de groupes, d’utilisateurs et est fiable en termes de sécurité informatique et de restriction d’accès aux seuls agents autorisés.
+Il a été proposé de repartir des comptes utilisés par [l'outil d'habilitation DataPass](https://beta.gouv.fr/startups/datapass). Cette solution permet de vérifier l’identité de l’inscrit de manière automatisée à partir de son courriel et du SIRET de son organisation. Cette solution permet également une gestion de groupes, d’utilisateurs et est fiable en termes de sécurité informatique et de restriction d’accès aux seuls agents autorisés. **Cette solution d'identification a été adaptée sous le nom de MonComptePro**
 
-**Il serait possible d'adapter ces comptes DataPass pour les rendre utilisables par d'autres services destinés à des personnes morales.**
-
-Grâce aux Comptes DataPass, toute plateforme numérique qui s'adresse à une personne morale pourrait facilement intégrer une brique d'authentification, qui permettrait à la fois : 
-- aux personnes faisant partie de l'organisation de se connecter via son Compte DataPass, et donc de ne pas créer un nouveau compte à chaque inscription à une nouvelle plateforme
+Grâce à MonComptePro, toute plateforme numérique qui s'adresse à une personne morale pourrait facilement intégrer une brique d'authentification, qui permettrait à la fois : 
+- aux personnes faisant partie de l'organisation de se connecter via MonComptePro, et donc de ne pas créer un nouveau compte à chaque inscription à une nouvelle plateforme
 - aux développeurs/développeuses de la plateforme en question de ne pas avoir à développer une brique d'authentification ad hoc et de ne pas avoir à gérer la validation de l'identité de chaque personne de manière individuelle.

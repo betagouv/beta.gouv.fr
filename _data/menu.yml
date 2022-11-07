@@ -5,6 +5,9 @@ nav:
     label: Brigade
     target: _pages/brigade.md
   -
+    label: Équipes
+    target: _pages/animation.md
+  -
     label: Réalisations
     target: _pages/startups.md
   -

@@ -20,11 +20,13 @@ phases:
   - name: transfer
     start: 2022-08-29
     end: 2022-10-30
+  - name: success
+    start: 2022-10-17
 usertypes:
   - etat
   - etablissement-scolaire
 ---
-Ce produit est actuellement en cours de transfert à l'ONISEP, qui se chargera à partir de novembre 2022 de sa maintenance et de son animation.
+Ce produit a été transféré à l'ONISEP, qui se charge maintenant de sa maintenance et de son animation.
 
 ## Constat
 

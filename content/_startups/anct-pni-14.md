@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (14)
-mission: Améliorer la visibilité du CIAS auprès des collectivités locales
+title: Améliorer la visibilité du CIAS auprès des collectivités locales
+mission: Programme national d'investigation (14)
 sponsors:
  - /organisations/anct
 incubator: anct

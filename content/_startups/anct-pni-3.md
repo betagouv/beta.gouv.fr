@@ -1,6 +1,6 @@
 ---
-title: Programme national d'investigation (3)
-mission: Créer une GMAO adaptée à lusage des services techniques dune ville
+title: Créer une GMAO adaptée à lusage des services techniques dune ville
+mission: Programme national d'investigation (3)
 sponsors:
  - /organisations/anct
 incubator: anct

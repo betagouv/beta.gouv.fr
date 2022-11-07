@@ -10,7 +10,7 @@ site.lang | default: "fr" -%}
 | split: ", "
 %}
 
-{% assign title_startups_brigade = "JeVeuxAider.gouv.fr, Santé Psy Étudiant, Aides Jeunes, logement de crise" | split: ", " %}
+{% assign title_startups_brigade = "JeVeuxAider.gouv.fr, Santé Psy Étudiant, Aides Jeunes, Logement de crise, Tarification transports, France Chaleur Urbaine" | split: ", " %}
 
 {% assign startups_brigade = site.startups | where_exp: "startup", "title_startups_brigade contains startup.title" %}
 
