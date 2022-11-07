@@ -7,7 +7,8 @@ incubator: sgmas
 link: https://tumeplay.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/tumeplay
 contact: contact.tumeplay@fabrique.social.gouv.fr
-stats: https://tumeplay.fabrique.social.gouv.fr/stats
+stats_url: https://tumeplay.fabrique.social.gouv.fr/stats
+stats: true
 phases:
   - name: investigation
     start: 2019-07-01
