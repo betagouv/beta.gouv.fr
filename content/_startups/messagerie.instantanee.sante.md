@@ -12,7 +12,7 @@ phases:
 ---
 ## Contexte
 
-Pour fluidifier et sécuriser les communications entre professionnels de santé, la DINUM propose d’accompagner l’Agence du Numérique en Santé (ANS) dans l’élaboration d’un outil de communication instantané adapté à l’échange de données de santé.
+Pour fluidifier et sécuriser les communications entre professionnels de santé, la DINUM accompagne l’Agence du Numérique en Santé (ANS) dans l’élaboration de services de communication instantanée adaptés à l’échange de données de santé.
 
 
 
