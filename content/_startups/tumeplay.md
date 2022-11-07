@@ -1,13 +1,14 @@
 ---
 title: TuMePlay
-mission: Améliorer la prévention sexuelle pour les jeunes de moins de 25 ans
+mission: Accompagner les jeunes dans leur parcours d’apprentissage en santé sexuelle de manière ludique et fiable
 sponsors:
   - /organisations/dgs
 incubator: sgmas
 link: https://tumeplay.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/tumeplay
-contact: yowa.muzadi@fabrique.social.gouv.fr
-stats: false
+contact: contact.tumeplay@fabrique.social.gouv.fr
+stats_url: https://tumeplay.fabrique.social.gouv.fr/stats
+stats: true
 phases:
   - name: investigation
     start: 2019-07-01
@@ -55,7 +56,7 @@ Cela passe par des “tests de connaissances”. Ces tests permettent au jeune d
 
 # Notre solution
 
-Notre solution se présente sous la forme d’un produit numérique (une web-app).
+Notre solution se présente sous la forme d’un produit numérique (une application mobile disponible sur les stores Android & iOS).
 
 Elle repose sur trois grands axes :
 
@@ -74,13 +75,19 @@ Elle repose sur trois grands axes :
 - améliorer l'image et la perception des moyens de prévention et de santé sexuelle chez les jeunes, en particulier celles des préservatifs et lubrifiants
 - promouvoir l'utilisation des moyens de prévention et des dépistages
 
-Plusieurs modes de distribution sont envisagés pour les “box” :
+Plusieurs modes de distribution sont implémentés pour les “box” :
 
-- la pharmacie
-- le point relais
-- la livraison chez un partenaire (mission locale, association locale, etc.)
+- la livraison à domicile
+- la livraison en point relais
+- la livraison chez un partenaire (mission locale, association locale, etc.) appelé "référent"
 
-Notre [compte Instagram](https://www.instagram.com/tumeplay/).
+D'autres outils sont déployés :
+- Pour l'équipe tumeplay : un back-office web de gestion de contenus & de pilotage.
+- Pour les partenaires de l'écosystème : un back-office de gestion logistique.
+
+Sur les réseaux sociaux, notre communication se fait sur deux plateformes via :
+- Notre [compte Instagram](https://www.instagram.com/tumeplay/).
+- Notre [compte TikTok](https://www.tiktok.com/@tu.me.play).
 
 # Notre écosystème
 
@@ -96,3 +103,4 @@ Des partenaires de distribution, qui constituent nos relais physiques après la 
 # Nos indicateurs de performance
 
 Il est très difficile de mesurer avec exactitude le taux d’IST sur un territoire donné c’est pourquoi nous comptons évaluer l’évolution des connaissances du jeune.
+Retrouvez les statistiques de l'application sur la [page de stats](https://tumeplay.fabrique.social.gouv.fr/stats)
