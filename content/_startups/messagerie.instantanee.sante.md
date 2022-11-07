@@ -34,7 +34,7 @@ Ces divers modes de communication, malgré leurs avantages respectifs, comporten
 
 * perte de l’information
 * perte de temps
-* exposition des données personnelles des patients
+* exposition des données de santé des patients
 
 ## Stratégie
 
