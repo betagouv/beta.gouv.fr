@@ -1,6 +1,6 @@
 ---
 roles: Développeur·se Full Stack
-open: true
+open: false
 date: 2022-01-17T13:26:05.348Z
 domaines:
     - Développement
