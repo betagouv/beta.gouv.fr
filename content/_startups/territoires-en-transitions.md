@@ -14,6 +14,8 @@ usertypes:
   - collectivite-territoriale
 stats_url: https://app.territoiresentransitions.fr/stats
 stats: true
+dashlord_url: https://dashlord.incubateur.net/url/app-territoiresentransitions-fr/
+accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2020-09-21
