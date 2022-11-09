@@ -68,9 +68,9 @@ atterrissage du bot marine sur Intradef (Préproduction)
 ouverture du service au public sur Intradef
 
 
-## Résultats
+## Livrables
 
-L'usine à chatbot est composée de 6 produits numériques :
+L'Usine à chatbots est composée de 6 produits numériques :
 
 * Un [site vitrine (internet)](https://chatbot.fabnum.fr/) qui présente le produit
 * Une [documentation](https://fabrique-a-chatbots.gitbook.io/fabrique-a-chatbots/)
