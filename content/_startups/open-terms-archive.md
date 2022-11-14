@@ -7,6 +7,7 @@ incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
 repository: https://github.com/OpenTermsArchive/
 contact: contact@opentermsarchive.org
 stats_url: https://stats.data.gouv.fr/index.php?idSite=179
+budget_url: https://opentermsarchive.org/budget
 link: https://opentermsarchive.org
 stats: true
 phases:
