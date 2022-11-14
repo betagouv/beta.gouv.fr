@@ -5,7 +5,7 @@ domaine: Développement
 github: HubM
 missions:
   - start: 2022-06-20
-    end: 2022-12-20
+    end: 2023-06-20
     status: independent
     employer: Malt
 startups:
