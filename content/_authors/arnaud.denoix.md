@@ -8,15 +8,16 @@ missions:
     end: 2025-06-30
     employer: GIP Plateforme de l'inclusion 
     status: admin
-startups:
+teams:
+  - /teams/anct
+previously:
+  - avril
+  - la-bonne-formation
+  - aides.jeunes  
   - itou
   - data.insertion
   - dora
   - data-inclusion
-previously:
-  - avril
-  - la-bonne-formation
-  - aides.jeunes
 badges:
   - segur
 competences:
