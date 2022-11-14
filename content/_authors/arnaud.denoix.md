@@ -9,7 +9,7 @@ missions:
     employer: GIP Plateforme de l'inclusion 
     status: admin
 teams:
-  - /teams/anct
+  - /teams/gip-inclusion
 previously:
   - avril
   - la-bonne-formation
