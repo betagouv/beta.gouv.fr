@@ -8,7 +8,7 @@ missions:
     end: 2022-12-13
     status: service
     employer: GIP Plateforme de l'inclusion
- teams:
+teams:
   - /teams/gip-inclusion
 ---
 
