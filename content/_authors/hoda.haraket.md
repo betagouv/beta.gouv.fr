@@ -3,6 +3,8 @@ fullname: Hoda Haraket
 role: Chargée Richesses Humaines
 domaine: Autre
 github: HodaHH
+teams:
+  - /teams/gip-inclusion
 missions:
   - start: 2022-11-14
     end: 2024-11-14
