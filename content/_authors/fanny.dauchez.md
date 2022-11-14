@@ -15,6 +15,8 @@ missions:
   - status: independent
     start: 2021-07-05
     end: 2023-12-30
+teams:
+  - /teams/communaute
 previously:
   - itou
   - place-de-marche-inclusion
