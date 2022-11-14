@@ -11,5 +11,6 @@ missions:
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
 startups:
+  - open-terms-archive
   - disinfo
 ---
