@@ -12,11 +12,11 @@ phases:
     start: 2022-10-03
 ---
 ## Contexte
-La phase de construction fait suite à l'investigation "Conventionnement IAE" qui s’inscrivait dans le cadre de l’appel à idées 2021 de la fabrique numérique de la Direction Numérique des Ministères Sociaux (DNUM). 
+Dans le cadre de l’appel à idées 2021 de la fabrique numérique de la Direction Numérique des Ministères Sociaux (DNUM), une investigation "conventionnement IAE" a été réalisée.
 
 [Lien vers la fiche de l'investigation](https://beta.gouv.fr/startups/conventionnement.iae.html)
 
-Suite à cette investigation, l'intrapreneuse Elodie Bonnet a intégré la plateforme de l'inclusion, a testé plusieurs hypothèses de solution auprès des acteurs de terrain, notamment avec les structures d'insertion, et a identifié une solution visant à aider les chantiers d'insertion à faire évoluer leurs modèles économiques dans un contexte de stabilisation des budgets.
+Ce projet est entré en construction dans le cadre du GIP plateforme de l'Inclusion. Il a pour objectif d'identifier une solution pour accompagner les ateliers chantiers d'insertion dans la consolidation de leur modèle économique.
 
 ## Problème
 Les Ateliers chantiers d’insertion représentent la moitié des structures d’insertion par l’activité économique et plus de 4 ETP d’insertion sur 10. Financées à plus de 20 000 euros par an par ETP via l’aide au poste, elles bénéficient en outre souvent d’un soutien financier complémentaire de collectivités territoriales ou du FSE. Les ACI accueillent historiquement des publics très éloignés de l’emploi sur des activités non concurrentielles généralement à forte intensité de main d’œuvre.
