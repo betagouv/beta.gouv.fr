@@ -5,8 +5,10 @@ mission: Accompagner les collectivités pour mettre en place un Plan Corps de Ru
 sponsors:
   - /organisations/anct
 incubator: anct
-contact: ariane.rose@beta.gouv.fr
+contact: contact@pcrs.beta.gouv.fr
 accessibility_status: non conforme
+link: https://pcrs.beta.gouv.fr
+repository: https://github.com/OpenPCRS
 phases:
   - name: construction
     start: 2022-09-30
