@@ -1,11 +1,10 @@
 ---
 title: Chantiers agiles
-mission: Aider les ACI (chantiers d'insertion) à faire évoluer leurs modèles économiques
+mission: Aider les ACI (Ateliers et chantiers d'insertion) à faire évoluer leurs modèles économiques
 incubator: gip-inclusion
 sponsors:
   - /organisations/pole-emploi.md
   - /organisations/mtei.md
-
 contact: elodie.bonnet@haute-garonne.gouv.fr
 stats: false
 phases:
