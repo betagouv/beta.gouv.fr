@@ -23,7 +23,7 @@ Les Ateliers chantiers d’insertion représentent la moitié des structures d�
 
 Le pacte ambition IAE a permis un développement particulièrement important des Ateliers et chantiers d’insertion :
 -        Le poids des ACI dans le mix IAE a augmenté de +6% entre 2018 et 2022,
--        Plus de la moitié des dossiers FDI (Fon départemental d'insertion) 2020 et 2021 concernent des ACI
+-        Plus de la moitié des dossiers FDI (Fond départemental d'insertion) 2020 et 2021 concernent des ACI
 
 Les nouveaux conventionnements ou les développements mis en place ces deux dernières années auront des répercussions sur les besoins en ETP des ACI à moyen terme. Or, cette dynamique questionne la soutenabilité financière du dispositif IAE.
 
