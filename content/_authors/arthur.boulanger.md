@@ -5,7 +5,7 @@ role: UX Designer
 link: https://www.linkedin.com/in/boulangerarthur/
 missions:
   - start: 2021-06-21
-    end: 2022-11-30
+    end: 2023-03-31
     status: independent
     employer: Arolla
 startups:
