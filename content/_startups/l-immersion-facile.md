@@ -3,8 +3,8 @@ title: Immersion facilitée
 mission: Augmenter le nombre d'immersions professionnelles pour les personnes
   éloignées de l'emploi
 sponsors:
-  - /organisations/dgefp
   - /organisations/pole-emploi
+  - /organisations/mtei
 incubator: gip-inclusion
 link: https://immersion-facile.beta.gouv.fr/
 repository: https://github.com/betagouv/l-immersion-facile
