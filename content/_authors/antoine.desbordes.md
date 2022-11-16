@@ -17,6 +17,12 @@ missions:
     end: 2021-05-31
     status: independent
     employer: Codeurs en Liberté
+  - start: 2022-11-16
+    end : 2023-11-16
+    status: independent
+    employer: Malt
+startup:
+  - vues-immersives-libres
 previously:
   - transport
 ---
