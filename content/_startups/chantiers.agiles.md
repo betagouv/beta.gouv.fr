@@ -26,7 +26,9 @@ Le pacte ambition IAE a permis un développement particulièrement important des
 -        Plus de la moitié des dossiers FDI 2020 et 2021 concernent des ACI
 
 Les nouveaux conventionnements ou les développements mis en place ces deux dernières années auront des répercussions sur les besoins en ETP des ACI à moyen terme. Or, cette dynamique questionne la soutenabilité financière du dispositif IAE.
+
 Un ralentissement de la croissance du budget de l’IAE pourrait avoir des répercussions majeures sur ces structures, qui constituent le cœur de l’offre d’insertion dans beaucoup de territoires défavorisés. En outre, une plus forte vigilance sur l’équilibre du mix IAE amènera les services déconcentrés de l’État à écarter les projets d’ACI et à inviter certains porteurs à se réorienter vers un modèle d’entreprise d’insertion. Des besoins d’accompagnements importants sont prévisibles dès 2023. 
+
 Si le DLA et le réseau France Active constituent des réponses essentielles à l’accompagnement des ACI, il est peu probable qu’ils aient les moyens de couvrir l’ensemble du besoin. Dans le cadre du GIP Plateforme de l’inclusion, nous proposons la mise en place d’un outil numérique pour aider les ACI existants à envisager une diversification de leurs ressources. Les pistes identifiées ne permettront vraisemblablement pas aux structures de s’émanciper de l’aide au poste mais les aideront à conserver des marges financières pour continuer à investir et à innover dans un contexte contraint.
 
 ## Expérimentation
