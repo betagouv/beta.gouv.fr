@@ -21,7 +21,7 @@ missions:
     end : 2023-11-16
     status: independent
     employer: Malt
-startup:
+startups:
   - vues-immersives-libres
 previously:
   - transport
