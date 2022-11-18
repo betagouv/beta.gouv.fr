@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Manifeste
-permalink: /approche/manifeste
+permalink: /manifeste
 ---
 
 **beta.gouv.fr** introduit [une nouvelle manière de concevoir l'action publique](https://beta.gouv.fr/approche/)&nbsp;; son approche permet de garantir que les services numériques que nous produirons seront toujours utiles à quelqu'un, utilisables et utilisés, parce qu'ils répondent à un vrai problème. En particulier, elle repose sur trois piliers décrits dans ce manifeste que les partenaires de beta.gouv.fr s'engagent à respecter&nbsp;:
