@@ -4,4 +4,9 @@ logo: logo_beta.png
 website: https://inclusion.beta.gouv.fr/
 ---
 
-Créé en 2022, le Groupement d'Intérêt Public (GIP) Plateforme de l'inclusion regroupe des équipes constituées en Startups d'État dans le domaine de l'inclusion. L'objectif est de pérenniser les travaux, les valoriser et de faciliter la collaboration avec tout l'écosystème de l'inclusion.
+La Plateforme de l’inclusion développe et améliore services publics pour faciliter la vie des personnes en insertion et de celles et ceux qui les accompagnent.
+
+Nos trois missions :
+- Améliorer l’expérience d'accompagnement
+- Faciliter l'accès aux informations utiles sur les parcours et l’offre d'insertion
+- Eclairer les politiques publiques avec des données utiles
