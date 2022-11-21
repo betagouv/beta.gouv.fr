@@ -4,6 +4,62 @@
 {% endcomment %}
 {% assign owner = site.organisations | where: 'id', incubator.owner | first %}
 
+{%- assign teams = site.teams -%}
+
+{%- assign current_authors = site.authors | community: 'current' -%}
+{%- assign team_authors = current_authors |  where_exp:"item", "item.teams.size != 0" -%}
+
+<script>
+  var authorsteam = [
+      {% for current in team_authors %}
+          { "id"        : "{{ current.id }}",
+              "fullname": "{{ current.fullname}}",
+              "link": "{{ current.link }}",
+              "role": `{{ current.role }}`,
+              {% if current.avatar %} "avatar": "{{ current.avatar }}",{% endif %}
+              {% if current.github %} "github": "{{ current.github }}",{% endif %}
+              "content" : `{{ current.content }}`,
+              "missions": [
+                  {% for mission in current.missions %}
+                      { "start": "{{mission.start}}", "end": "{{mission.end}}", "status": "{{mission.status}}", "employer": "{{mission.employer}}" }{% unless forloop.last %},{% endunless %}
+                  {% endfor %}
+              ],
+              "incubator": "{{ current.incubator }}",
+              "startups": [
+                  {% for startup in current.startups %}
+                      "{{ startup }}",
+                  {% endfor %}
+              ],
+              "previously": [
+                  {% for previous_startup in current.previously %}
+                      "{{ previous_startup }}",
+                  {% endfor %}
+              ],
+          }
+      {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+  ];
+  var incubators = [
+      {% for incubator in incubators %} {
+      id: "{{incubator.id}}".replace('/incubators/', ''),
+      title: "{{incubator.title}}",
+      url: "/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}"
+      },
+      {% endfor %}
+  ];
+  var teams = [
+      {% for team in teams %}
+          { 
+              "id": "{{ team.id }}",
+              "name": "{{ team.name }}",
+              "mission": "{{ team.mission }}",
+              "incubator_id": "{{ team.incubator }}"
+          }
+      {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+  ];
+</script>
+
 <div class="fr-grid-row fr-grid-row--gutters">
   <div class="fr-col-2 incubator-logo">
       <img
@@ -15,7 +71,7 @@
   <div class="fr-col">
       <div>
           <h1 class="fr-card__title">{{ incubator.title }}</h1>
-          <p class="h1-card__title-subtitle fr-mb-2w">{{ owner.name }}</p>
+          <p class="h1-card__title-subtitle fr-mb-2w fr-mt-1w">{{ owner.name }}</p>
           <div class="markdown">{{ incubator.excerpt }}</div>
           {% if incubator.address %}<p class=fr-mb-3w>
             <span>
@@ -32,6 +88,32 @@
               Voir le site
             </a>
             {% endif %}
+          </div>
+          <div>
+            {%- for team in teams -%}
+                {% capture team_incubator_id %}/incubators/{{ team.incubator }}{% endcapture %}
+                {%- if team_incubator_id == incubator.id -%}
+                    <section class="fr-py-6w section-grey" id="team-{{ team.id }}">
+                        <div class="fr-container">
+                            <div class="fr-grid-row fr-grid-row--gutters">
+                              <div class="fr-col-8 fr-col-sm-12">
+                                  {% if team.name %}
+                                      <h3>{{ team.name }}</h3>
+                                  {% endif %}
+
+                                  <p>{{ team.mission }}</p>
+                              </div>
+                            </div>
+                            <div class="authors fr-grid-row fr-grid-row--gutters">
+                                {%- assign authors = team_authors |  where_exp:"item", "item.teams contains team.id" -%} 
+                                {%- for author in authors -%}
+                                <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author hide_details=true -%}</div>
+                                {%- endfor -%}
+                            </div>
+                        </div>
+                    </section>
+                {%- endif -%}
+            {%- endfor -%}
           </div>
       </div>
   </div>

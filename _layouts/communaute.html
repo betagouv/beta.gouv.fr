@@ -2,22 +2,25 @@
 layout: default
 ---
 
+{%- assign currents = site.authors | community: 'current', 'oldest' -%}
+{% assign lang = page.lang | default: site.lang | default: "en" %}
+{% assign incubators = site.incubators %}
+
 {%- capture build_date -%}{{ site.time | date:"%Y-%m-%d" }}{%- endcapture -%} {%- assign lang = page.lang | default: site.lang | default: "fr" -%}
-{%- assign current = site.authors | community: 'current' -%}
 {%- assign recent = site.authors | community: 'recent' -%}
 
 {%- include hero-page.html title=page.title -%}
-<section>
+<section class="fr-py-6w">
     <div class="fr-container">
         <div class="fr-grid-row fr-grid-row--gutters">
             <div class="fr-col-12 fr-col-md-6">
                 <div class="chart-wrapper">
-                    <canvas id="member"> Nous avons actuellement {{ current | size }} membres. </canvas>
+                    <canvas id="member"> Nous avons actuellement {{ currents | size }} membres. </canvas>
                 </div>
             </div>
             <div class="fr-col-12 fr-col-md-6">
                 <div class="chart-wrapper">
-                    <canvas id="pie-chart"> Nous avons actuellement {{ current | size }} membres. </canvas>
+                    <canvas id="pie-chart"> Nous avons actuellement {{ currents | size }} membres. </canvas>
                 </div>
             </div>
        </div>
@@ -41,9 +44,6 @@ layout: default
                     <span class="beta-square-list-item">■</span>
                     <strong>{% render_community_stats total %} membres actifs</strong><br>
                     issus du public et du privé.
-                    <a
-                        href="/communaute/annuaire"
-                        class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right fr-mt-2w">Annuaire des membres</a>
                 </p>
             </div>
             <div class="fr-col fr-col-12 fr-col-md-3 beta-list-item">
@@ -71,47 +71,173 @@ layout: default
         </div>
     </div>
 </section>
-<section class="fr-py-2w fr-pt-4w" id="incubateur">
+
+<section class="fr-py-6w">
     <div class="fr-container">
-        <h2>Notre réseau d'incubateurs</h2>
-        <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
-            <div class="fr-col fr-col-12 fr-col-md-4">
-                <nav class="fr-sidemenu fr-sidemenu--sticky" role="navigation" aria-label="Menu latéral">
-                    <div class="fr-sidemenu__inner">
-                        <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
-                        <div class="fr-collapse" id="fr-sidemenu-wrapper">
-                            <div class="fr-sidemenu__title">{{ site.incubators.size }} incubateurs</div>
-                            <ul class="fr-sidemenu__list">
-                                {%- for incubator in site.incubators -%}
-                                <li class="fr-sidemenu__item">
-                                    <a class="fr-sidemenu__link" href="#{{ incubator.id }}" target="_self">
-                                        {{ incubator.title }}
-                                    </a>
-                                </li>
-                                {%- endfor -%}
-                            </ul>
+        <h2>Nos derniers membres arrivés</h2>
+        <div class="authors fr-grid-row fr-grid-row--gutters">
+            {%- for author in currents limit:7 -%}
+            <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
+            {%- endfor -%}
+
+            <div class="fr-col-6 fr-col-md-3">
+                <div class="fr-card">
+                    <div class="fr-card__body">
+                        <div class="fr-card__content">
+                            <div class="fr-card__start">
+                                <h3 class="fr-card__title fr-mb-2w">
+                                    <a href="/annuaire" target="_blank" rel="noopener" title="Voir plus">Voir les {{ currents | size }}</span> membres actifs</a>
+                                </h3>
+                            </div> 
                         </div>
                     </div>
-                </nav>
-            </div>
-            <div class="fr-col fr-col-12 fr-col-md-8">
-                <div class="fr-grid-row fr-grid-row--gutters">
-                    {%- for incubator in site.incubators -%}
-                    <div class="fr-col-12" id="{{ incubator.id }}">
-                        {%- include card-incubator.html incubator=incubator -%}
-                        {% unless forloop.last %}
-                        <hr class="beta-communaute-hr">
-                        {% endunless %}
-                    </div>
-                    {%- endfor -%}
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+<!-- Filtres -->
+<!-- Script pointing to search-script.js -->
+<script src="/assets/additional/js/search-member.js" type="text/javascript"></script>
+<!-- Configuration -->
+<script>
+    var urlParams = new URLSearchParams(window.location.search);
+    var initValue = urlParams.get('incubateur');
+    members = generateDataWithHtmlCards(members);
+    createIncubatorSelect(members, incubators, initValue);
+</script>
+
 <script type="text/javascript">
- (function() {
-     window.buildDate = '{{ build_date }}';
-     window.data = {% render_community_stats %};
- })();
+(function() {
+    window.buildDate = '{{ build_date }}';
+    window.data = {% render_community_stats %};
+})();
+</script>
+
+<script>
+    var members = [
+        {% for current in currents %}
+            { "id"        : "{{ current.id }}",
+                "fullname": "{{ current.fullname}}",
+                "link": "{{ current.link }}",
+                "role": `{{ current.role }}`,
+                {% if current.avatar %} "avatar": "{{ current.avatar }}",{% endif %}
+                {% if current.github %} "github": "{{ current.github }}",{% endif %}
+                "content" : `{{ current.content }}`,
+                "missions": [
+                    {% for mission in current.missions %}
+                        { "start": "{{mission.start}}", "end": "{{mission.end}}", "status": "{{mission.status}}", "employer": "{{mission.employer}}" }{% unless forloop.last %},{% endunless %}
+                    {% endfor %}
+                ],
+                "incubator": "{{ current.incubator }}",
+                "startups": [
+                    {% for startup in current.startups %}
+                        "{{ startup }}",
+                    {% endfor %}
+                ],
+                "previously": [
+                    {% for previous_startup in current.previously %}
+                        "{{ previous_startup }}",
+                    {% endfor %}
+                ],
+            }
+        {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ];
+    var alumnis = [
+        {% for alumni in alumnis %}
+            { "id"        : "{{ alumni.id }}",
+                "fullname": "{{ alumni.fullname}}",
+                "link": "{{ alumni.link }}",
+                "role": `{{ alumni.role | escape }}`,
+                {% if alumni.github %} "github": "{{ alumni.github }}",{% endif %}
+                {% if alumni.avatar %} "avatar": "{{ alumni.avatar }}",{% endif %}
+                "content" : `{{ alumni.content | escape  }}`,
+                "missions": [
+                    {% for mission in alumni.missions %}
+                        { "start": "{{mission.start}}", "end": "{{mission.end}}", "status": "{{mission.status}}", "employer": "{{mission.employer}}" }{% unless forloop.last %},{% endunless %}
+                    {% endfor %}
+                ],
+                "startups": [
+                    {% for startup in alumni.startups %}
+                        "{{ startup }}",
+                    {% endfor %}
+                ],
+                "previously": [
+                    {% for previous_startup in alumni.previously %}
+                        "{{ previous_startup }}",
+                    {% endfor %}
+                ],
+            }
+        {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ];
+    var incubators = [
+        {% for incubator in incubators %} {
+        id: "{{incubator.id}}".replace('/incubators/', ''),
+        title: "{{incubator.title}}",
+        url: "/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}"
+        },
+        {% endfor %}
+    ];
+    var phases = [
+        {% for phase in site.phases %}
+            {% assign counter_target = phase.id | remove: "/phases/" %}
+            {% assign counter = site.startups | where_phase: counter_target | size %}
+            { "status"        : "{{ phase.status }}"
+            , "label"      : "{{ phase.label }}"
+            , "counter"      : "{{ phase.counter }}"
+            , "type_label" : "{{phase.type_label}}"
+            }
+            {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ];
+
+    var startups = [
+        {% for startup in site.startups %}
+            {% assign startup_id = startup.id | remove: '/startups/' %}
+            {% assign screenshot_files = site.static_files | where: "startups_img", true %}
+            {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
+            {% if screenshot_file %}
+            {% assign screenshot_path = screenshot_file.path %}
+            {% else %}
+            {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
+            {% endif %}
+            {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
+            {% assign incubator = incubators | where:'id', incubator_id | first %}
+            { "id"        : "{{ startup.id | remove: '/startups/' }}"
+            , "type"      : "startup"
+            , "phase": "{{ startup.status }}"
+            , "title"  : "{{ startup.title }}"
+            , "incubator_id" : "{{startup.incubator}}"
+            , "incubator_title": "{{ incubator.title }}"
+            , "attributes":
+                { "name"  : "{{ startup.title }}"
+                , "pitch" : "{{ startup.mission }}"{% if startup.stats %}
+                , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}{% if startup.link %}
+                , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
+                , "repository": "{{ startup.repository}}"{% endif %}
+                , "contact": "{{startup.contact}}"
+                , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
+                , "screenshot-url": "{{ screenshot_path }}"
+                , "phases": [
+                    {% for phase in startup.phases %}
+                        { "name": "{{phase.name}}", "start": "{{phase.start}}", "end": "{{phase.end}}"}{% unless forloop.last %},{% endunless %}
+                    {% endfor %}
+                    ]
+                }
+            , "relationships":
+                { "incubator":
+                    { "data": { "type": "incubator", "id": "{{ startup.incubator}}" }
+                    }
+                }
+            }
+            {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ];
+    {%- assign screenshot_files = site.static_files | where: "authors_img", true -%}
+    var staticFiles = [{% for static_file in screenshot_files %}
+        "{{ static_file.path }}",
+    {% endfor %}];
 </script>
