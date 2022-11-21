@@ -1,6 +1,6 @@
 ---
 fullname: Amel Alili
-role: Opératrice de validation
+role: Chargée de déploiement
 domaine: Autre
 github: amelalili
 missions:
@@ -10,6 +10,7 @@ missions:
     employer: MALT
 startups:
   - locatio
+  - Tchap
 badges:
   - segur
 ---
