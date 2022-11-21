@@ -1,6 +1,6 @@
 ---
-fullname: julien leray
-role: Founder
+fullname: Julien Leray
+role: Développeur
 domaine: Développement
 link: https://quantedsquare.com
 github: lerayj
