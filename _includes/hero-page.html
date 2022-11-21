@@ -1,14 +1,10 @@
 {% if include.title %}
 <section class="section-blue section-main">
-  <div class="fr-container">
-      <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
-          <div class="fr-col fr-col-12 fr-col-md-7">
-            <h1>{{ include.title | escape }}</h1>
-            {% if include.subtitle %}
-              <h2>{{ include.subtitle | escape }}</h2>
-            {% endif %}
-          </div>
-      </div>
+  <div class="fr-container fr-my-6w">
+    <h1>{{ include.title | escape }}</h1>
+    {% if include.subtitle %}
+      <h2>{{ include.subtitle | escape }}</h2>
+    {% endif %}
   </div>
 </section>
 {% endif %}
