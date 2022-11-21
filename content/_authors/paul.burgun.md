@@ -17,7 +17,7 @@ startups:
 badges:
   - segur
 teams:
-  - /teams/dinum
-  - /teams/fast
+  - /teams/animation-dinum
+  - /teams/fast-dinum
 ---
 

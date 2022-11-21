@@ -13,5 +13,5 @@ startups:
 previously:
     - rdv-solidarites
 teams:
-  - /teams/communaute
+  - /teams/communaute-dinum
 ---
