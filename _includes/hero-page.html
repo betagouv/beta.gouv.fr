@@ -1,6 +1,14 @@
-{% if page.title %}
-<div class="fr-container fr-my-6w">
-  <h1 class="fr-text--md fr-mb-0">{{ include.subtitle | escape }}</h1>
-  <h2>{{ include.title | escape }}</h2>
-</div>
+{% if include.title %}
+<section class="section-blue section-main">
+  <div class="fr-container">
+      <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
+          <div class="fr-col fr-col-12 fr-col-md-7">
+            <h1>{{ include.title | escape }}</h1>
+            {% if include.subtitle %}
+              <h2>{{ include.subtitle | escape }}</h2>
+            {% endif %}
+          </div>
+      </div>
+  </div>
+</section>
 {% endif %}
