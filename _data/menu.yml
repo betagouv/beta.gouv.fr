@@ -2,9 +2,6 @@
 title:
 nav:
   -
-    label: Manifeste
-    target: _pages/manifeste.md
-  -
     label: Brigade
     target: _pages/brigade.md
   -

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Manifeste
+title: Manifeste beta.gouv.fr
 permalink: /manifeste
 ---
 
