@@ -8,10 +8,11 @@ server {
   rewrite_log on;
   server_name_in_redirect off;
   port_in_redirect on;
-  
+
   location /documentation {
     rewrite /documentation/(.*) /communaute/$1  break;
     proxy_pass       https://doc.incubateur.net;
+    proxy_ssl_name   doc.incubateur.net;
     proxy_set_header Host            doc.incubateur.net;
     proxy_set_header X-Forwarded-For $remote_addr;
   }
