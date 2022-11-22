@@ -18,6 +18,13 @@ server {
   rewrite ^/startup/(.*)$ $scheme://$http_host/startups/$1 redirect;
   rewrite ^/alpha/mooc/(.*)$ $scheme://$http_host/approche/formation/mooc/$1 redirect;
 
+  location /documentation {
+    rewrite /documentation/(.*) /communaute/$1  break;
+    proxy_pass       https://doc.incubateur.net;
+    proxy_set_header Host            doc.incubateur.net;
+    proxy_set_header X-Forwarded-For $remote_addr;
+  }
+
   location / {
     try_files $uri $uri.html $uri/index.html $uri/ index.html =404;
   }
