@@ -15,7 +15,6 @@ server {
   location /documentation {
     rewrite /documentation/(.*) /communaute/$1  break;
     proxy_pass       https://doc.incubateur.net;
-    #proxy_ssl_name   doc.incubateur.net;
     proxy_ssl_server_name on;
     proxy_set_header Host            doc.incubateur.net;
   }
