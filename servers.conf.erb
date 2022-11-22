@@ -9,6 +9,9 @@ server {
   server_name_in_redirect off;
   port_in_redirect on;
 
+
+  rewrite ^/communaute/(.*)$ $scheme://$http_host/documentation/$1 redirect;
+
   location /documentation {
     rewrite /documentation/(.*) /communaute/$1  break;
     proxy_pass       https://doc.incubateur.net;
