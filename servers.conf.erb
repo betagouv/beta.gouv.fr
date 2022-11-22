@@ -17,6 +17,11 @@ server {
     proxy_pass       https://doc.incubateur.net;
     proxy_ssl_server_name on;
     proxy_set_header Host            doc.incubateur.net;
+    # Change URL in the code source (Can have side effects)
+    sub_filter_once off;
+    sub_filter_types text/html;
+    sub_filter "/communaute/" "/documentation/";
+
   }
 
   location / {
