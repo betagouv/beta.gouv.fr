@@ -10,7 +10,7 @@ missions:
     status: admin
     employer: DINUM
 startups:
-  - tarification.transport
+  - tarification.transports
 previously:
   - cnr
 badges:
