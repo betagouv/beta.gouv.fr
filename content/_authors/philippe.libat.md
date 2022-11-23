@@ -21,6 +21,6 @@ incubator: dinum
 competences:
   - Administration Système
 teams:
-  - /teams/dinum
+  - /teams/animation-dinum
 ---
 Référent Dev/Ops pour des mises en ligne robustes et fiables. Pragmatique, curieux, intéressé par les nouveaux usages.

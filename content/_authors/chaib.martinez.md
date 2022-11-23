@@ -30,8 +30,8 @@ competences:
   - Développement Frontend
   - Communication
 teams:
-  - /teams/communaute
-  - /teams/fast
+  - /teams/communaute-dinum
+  - /teams/fast-dinum
 ---
 
 Accélérateur de startups d'État et de Térritoire. Acquisition, Activation, Retention, Referral, Impact 👊

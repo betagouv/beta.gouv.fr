@@ -17,6 +17,6 @@ previously:
 competences:
   - Coaching
 teams:
-  - /teams/fast
+  - /teams/fast-dinum
 ---
 Accompagnement de produits Gamma et coaching de start-ups
