@@ -68,7 +68,7 @@ Grâce aux services d’_ellesfontlaculture_ :
 - 1 sur 4 cite spontanément la légitimité et la confiance en soi comme bénéfices tirés,
 - 1 sur 5 déclare avoir élargi la qualité de son réseau professionnel.
 
-[Lien vers l’enquête d’impact d’octobre 2022.](https://startupdetat.typeform.com/report/Qq0QMO56/xeCFzqfI8JOXZ5SA)
+[Voir l’enquête d’impact d’octobre 2022.](https://startupdetat.typeform.com/report/Qq0QMO56/xeCFzqfI8JOXZ5SA)
 
 ## …et outiller l’écosystème photo vers plus d’égalité ! 
 
