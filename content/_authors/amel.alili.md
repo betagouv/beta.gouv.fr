@@ -1,6 +1,6 @@
 ---
 fullname: Amel Alili
-role: Chargée de déploiement
+role: Chargée de déploiement et de support 
 domaine: Autre
 github: amelalili
 missions:
@@ -9,8 +9,9 @@ missions:
     status: independent
     employer: MALT
 startups:
+  - tchap
+previously:
   - locatio
-  - Tchap
 badges:
   - segur
 ---
