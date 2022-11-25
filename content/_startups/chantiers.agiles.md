@@ -16,7 +16,7 @@ Dans le cadre de l’appel à idées 2021 de la fabrique numérique de la Direct
 
 [Lien vers la fiche de l'investigation](https://beta.gouv.fr/startups/conventionnement.iae.html)
 
-Ce projet est entré en construction dans le cadre du [GIP plateforme de l'Inclusion](https://beta.gouv.fr/communaute/#/incubators/gip-inclusion). Il a pour objectif d'identifier une solution pour accompagner les ateliers chantiers d'insertion dans la consolidation de leur modèle économique.
+Ce projet est entré en construction dans le cadre du [GIP plateforme de l'Inclusion](https://beta.gouv.fr/incubateurs/#/incubators/gip-inclusion). Il a pour objectif d'identifier une solution pour accompagner les ateliers chantiers d'insertion dans la consolidation de leur modèle économique.
 
 ## Problème
 Les Ateliers chantiers d’insertion représentent la moitié des structures d’insertion par l’activité économique et plus de 4 ETP d’insertion sur 10. Financés à plus de 20 000 euros par an par ETP via l’aide au poste, ils bénéficient en outre souvent d’un soutien financier complémentaire de collectivités territoriales ou du FSE (Fond social européen). Les ACI accueillent historiquement des publics très éloignés de l’emploi sur des activités non concurrentielles généralement à forte intensité de main d’œuvre.
