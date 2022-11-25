@@ -2,7 +2,6 @@
 fullname: Marie Jeammet
 role: Développeuse web
 domaine: Développement
-link: https://github.com/mjeammet
 github: mjeammet
 missions:
   - start: 2022-09-05
@@ -17,4 +16,4 @@ badges:
   - segur
 ---
 
-Développeuse back-end. J'aime les ordinateurs et les d20 ! 
+Développeuse back-end. Carbure à la programmation et aux lancers de d20. 
