@@ -3,7 +3,8 @@ title: Carnet de bord
 mission: "Faciliter la vie des personnes en insertion et de celles et ceux qui
   les accompagnent "
 sponsors:
-  - /organisations/dgefp
+  - /organisations/pole-emploi
+  - /organisations/mtei
 incubator: gip-inclusion
 link: https://carnet-de-bord.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/carnet-de-bord

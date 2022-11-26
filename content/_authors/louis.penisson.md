@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-04-11
-    end: 2022-11-15
+    end: 2023-04-30
     status: independent
 startups:
   - data-subvention

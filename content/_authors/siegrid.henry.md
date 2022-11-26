@@ -11,6 +11,7 @@ missions:
     end: 2020-12-31
     status: admin
     employer : Ministère des Affaires Etrangères
-startups:
+previously:
   - disinfo
+  - open-terms-archive
 ---

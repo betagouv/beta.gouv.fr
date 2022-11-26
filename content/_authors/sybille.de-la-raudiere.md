@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-07-05
-    end: 2022-12-12
+    end: 2023-06-30
     status: independent
     employer: UT7
 startups:

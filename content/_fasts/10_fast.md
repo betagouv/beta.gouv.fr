@@ -9,5 +9,5 @@ sidebar: sidebar-approche.html
 - Florian Delezenne (DINUM)
 
 ### **Les lauréats Fast 10:** ###
-1 - [L’incubateur du Ministère de la Justice](https://beta.gouv.fr/communaute/#/incubators/justice) : incubateur visant à assurer des missions de service public de meilleure qualité, en continuelle amélioration grâce aux initiatives des agents du Ministère de la Justice. <br/><br/>
+1 - [L’incubateur du Ministère de la Justice](https://beta.gouv.fr/incubateurs/#/incubators/justice) : incubateur visant à assurer des missions de service public de meilleure qualité, en continuelle amélioration grâce aux initiatives des agents du Ministère de la Justice. <br/><br/>
 2 - [Urban Vitaliz](https://urbanvitaliz.fr/) : service numérique et gratuit qui aiguille les collectivités dans leur projet de réhabilitation de foncier à l’abandon. <br/><br/>

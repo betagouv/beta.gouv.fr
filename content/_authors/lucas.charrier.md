@@ -21,6 +21,6 @@ competences:
   - Développement Backend
   - Développement Frontend
 teams:
-  - /teams/communaute
+  - /teams/communaute-dinum
 ---
 Développeur Web Fullstack

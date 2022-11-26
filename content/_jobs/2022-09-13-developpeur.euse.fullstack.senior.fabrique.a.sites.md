@@ -57,7 +57,3 @@ Il pourrait aussi être intéressant d'avoir quelques notions sur les sujets sui
 
 En travaillant pour l'Incubateur des Territoires, vous devenez membre de l'Agence Nationale de la Cohésion des Territoires ainsi que de la [communauté beta.gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue).
 
-## Candidater
-
-Postulez par ici : [https://airtable.com/shr5005Oj0lXyygN2](https://airtable.com/embed/shr5005Oj0lXyygN2)
-
