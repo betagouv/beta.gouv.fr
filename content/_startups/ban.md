@@ -3,6 +3,8 @@ title: Base Adresse Nationale
 mission: Référencer l'intégralité des adresses du territoire français
 incubator: fab-geocommuns
 sponsors:
+ - /organisations/anct
+ - /organisations/dinum
  - /organisations/ign
 phases:
   - name: investigation
