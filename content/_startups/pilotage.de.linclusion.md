@@ -3,7 +3,8 @@ title: Pilotage de l'inclusion (ITOU)
 mission: "Réduire la charge administrative des acteurs de l'inclusion et
   faciliter le pilotage des politiques publiques "
 sponsors:
-  - /organisations/dgefp
+  - /organisations/pole-emploi
+  - /organisations/mtei
 incubator: gip-inclusion
 stats: true
 link: https://pilotage.inclusion.beta.gouv.fr/

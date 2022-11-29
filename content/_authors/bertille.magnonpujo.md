@@ -6,7 +6,7 @@ github: bertillemp
 link: https://www.linkedin.com/in/bertille-magnon-pujo/
 missions:
   - start: 2021-06-01
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
     employer: Malt
 startups:

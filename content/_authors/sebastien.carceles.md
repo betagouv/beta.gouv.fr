@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/sebastiencarceles
 github: sebastiencarceles
 missions:
   - start: 2022-06-01
-    end: 2022-11-30
+    end: 2023-02-28
     status: independent
     employer: ANCT
 startups:

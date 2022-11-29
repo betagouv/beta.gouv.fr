@@ -12,7 +12,9 @@ phases:
 usertypes:
   - etat
 stats: false
-contact: charles.guenois@intradef.gouv.fr
+contact: equipe@anais.beta.gouv.fr
+link: https://anais.beta.gouv.fr/
+dashlord_url: https://dashlord.incubateur.net/url/anais-beta-gouv-fr/
 ---
 
 ## Contexte
@@ -23,26 +25,26 @@ En effet, le milieu marin est aussi un océan de données extrêmement variées 
 Le projet ANAIS (pour « Analyse des Incohérences de Situation maritime ») vise à mieux agréger les données maritimes pour les traiter plus efficacement. L’objectif est de mieux suivre les multiples activités en mer, et en particulier détecter les comportements de navires suspects ou dangereux afin de décider plus vite et d’intervenir plus efficacement.
 L’idée est de commencer par travailler sur le flux mondial des positions de navires venant de l’Agence Européenne de Sécurité Maritime, en collaboration avec la direction des Affaires Maritimes. Cette donnée de base sera enrichie tout au long du projet par d’autres sources de données et analysée de plus en plus finement.
 
-## Objectifs   
+## Objectifs
 Maintenir l’équipe agile au plus près des utilisateurs opérationnels
 Sécuriser régulièrement les développements pour déployer plus largement
 Mettre à disposition du monde académique une version allégée d’ANAIS pour approfondir l’algorithmie
 
 
 ## Chronologie
-__Étape 1__ (printemps 2019) Maquettes de l’interface.   
+__Étape 1__ (printemps 2019) Maquettes de l’interface.
 
-__Étape 2__ (été 2019) Première version de l’interface - début d’utilisation opérationnelle par des unités pilotes.   
+__Étape 2__ (été 2019) Première version de l’interface - début d’utilisation opérationnelle par des unités pilotes.
 
-__Étape 3__ (hiver 2019) Consolidation des alertes - amélioration continue - expérimentation en interadmin.    
+__Étape 3__ (hiver 2019) Consolidation des alertes - amélioration continue - expérimentation en interadmin.
 
-__Étape 4__ (été 2020) Couverture mondiale - amélioration continue - apport opérationnel reconnu - augmentation du nombre d'unités et administrations utilisatrices.   
+__Étape 4__ (été 2020) Couverture mondiale - amélioration continue - apport opérationnel reconnu - augmentation du nombre d’unités et administrations utilisatrices.
 
-__Étape 5__ (printemps 2021) Intégration de nouveaux algorithmes, mode hors connexion ou sur flux locaux. Sécurisation du projet dans la durée. Maintien de l'apport opérationnel. 
+__Étape 5__ (printemps 2021) Intégration de nouveaux algorithmes, mode hors connexion ou sur flux locaux. Sécurisation du projet dans la durée. Maintien de l’apport opérationnel.
 Nouveaux usages.
 
 ## Résultats
-Apport opérationnel concret et reconnu 
-Expérimentation d'une méthode et d'un outil innovant par la Marine.
-Enjeux de souveraineté numérique et de développement de l'IA maritime
-ANAIS est accessible sur invitation à ce [lien](https://anais.beta.gouv.fr)
+- Apport opérationnel concret et reconnu
+- Expérimentation d’une méthode et d’un outil innovant par la Marine.
+- Enjeux de souveraineté numérique et de développement de l’IA maritime
+- ANAIS est accessible sur invitation à ce [lien](https://anais.beta.gouv.fr)
