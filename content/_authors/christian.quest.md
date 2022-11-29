@@ -11,6 +11,7 @@ missions:
     end: 2021-03-07
     status: independent
   - start: 2022-01-01
+    end: 2023-12-31
     status: independent
 previously:
   - anais
