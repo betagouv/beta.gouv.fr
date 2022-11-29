@@ -33,6 +33,8 @@ L'invisibilisation et la sous-représentation des femmes dans le secteur de la p
 - moins honorées par des prix
 que leurs homologues de genre masculin.
 
+[Voir les chiffres](https://ellesfontlaculture.beta.gouv.fr/infographie)
+
 
 ## La mission de l'investigation
 
@@ -41,7 +43,7 @@ Pour répondre et tenter de trouver une solution au problème des inégalités d
 L’investigation nous a permis d’interroger : photographes, institutions culturelles, expert.e.s et initiatives existantes. Elle a révélé 3 problèmes majeurs : 
 - la précarité renforcée, 
 - le manque de légitimité ressenti
-- l’absence de ressources éducatives sur les femmes artistes ou l’égalité
+- le manque de sensibilisation sur les enjeux liés à l’égalité
 
 Plus précisément :
 C'est à la fin de la jeune création, vers 35 ans que les femmes commencent à disparaître de la profession. La disparition des aides "jeunes créations", du réseau des écoles, la pression de la maternité... réduisent leurs commandes et renforcent leur précarité engendrant le cumul d'emploi et la disparition progressive du secteur de la photographie. La solution envisagée a donc pour objectif d'aider les femmes à rester dans le secteur de la photographie.
@@ -61,9 +63,12 @@ L’objectif est de faciliter l’accès aux opportunités professionnelles, fai
 
 Grâce aux services d’_ellesfontlaculture_ : 
 - 75% des votantes déclarent avoir trouvé des aides financières auxquelles candidater,
-- 1 répondante sur 3 déclare qu’elle a présenté son travail à plus d’instances de sélection/clients et qu’elle est plus à l’aise pour fixer et négocier ses tarifs,
+- 1 répondante sur 3 déclare qu’elle a présenté son travail à plus d’instances de sélection/clients,
+- 1 sur 3 déclare qu’elle est plus à l’aise pour fixer et négocier ses tarifs,
 - 1 sur 4 cite spontanément la légitimité et la confiance en soi comme bénéfices tirés,
 - 1 sur 5 déclare avoir élargi la qualité de son réseau professionnel.
+
+[Voir l’enquête d’impact d’octobre 2022.](https://startupdetat.typeform.com/report/Qq0QMO56/xeCFzqfI8JOXZ5SA)
 
 ## …et outiller l’écosystème photo vers plus d’égalité ! 
 

@@ -25,12 +25,12 @@ missions:
     employer: Codeurs en Liberté
 startups:
   - aides.jeunes
-  - lapins
   - data-inclusion
 previously:
   - mes-aides
   - voir-et-localiser
   - data.insertion
+  - lapins
 badges:
   - segur
 ---

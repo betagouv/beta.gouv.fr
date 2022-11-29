@@ -12,6 +12,8 @@ mapping:
     type:      str
   "github":
     type:      str
+  "memberType":
+    type:      str
   "missions":
     type:      seq
     required:  yes
