@@ -15,12 +15,13 @@ missions:
     employer: Benext
 previously:
   - aides.jeunes
+memberType: beta
 badges:
   - segur
 competences:
   - Développement Backend
   - Développement Frontend
 teams:
-  - /teams/communaute
+  - /teams/communaute-dinum
 ---
 Développeur Web Fullstack

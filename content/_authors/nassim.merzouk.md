@@ -7,7 +7,7 @@ avatar:
 link: https://www.linkedin.com/in/merzouknassim/
 missions:
   - start: 2020-05-12
-    end: 2022-12-31
+    end: 2024-01-31
     status: independent
     employer: MALT
 startups:

@@ -4,11 +4,13 @@ role: Développeuse
 domaine: Développement
 github: Maxine-Le-Pennec
 missions:
-  - start: 2022-01-07
-    end: 2022-12-31
+  - start: 2021-09-01
+    end: 2023-06-30
     status: independent
-    employer: UT7
+    employer: Living Data
 startups:
+  - pcrs
+previously:
   - ban
 ---
 

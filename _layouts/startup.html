@@ -29,9 +29,9 @@ layout: default
 
 {% capture incubator_info %}
 {% if phase.status == 'success' %}
-  L'équipe a été portée par <a href="/startups/?incubateur={{ incubator_id | remove: '/incubators/' }}" title="{{ incubator.title }}">{{ incubator.title }}</a>
+  L'équipe a été portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>
 {% else %}
-  L'équipe est portée par <a href="/startups/?incubateur={{ incubator_id | remove: '/incubators/' }}" title="{{ incubator.title }}">{{ incubator.title }}</a>
+  L'équipe est portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>
 {% endif %}
 {% endcapture %}
 
