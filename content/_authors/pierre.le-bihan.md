@@ -5,7 +5,7 @@ domaine: Développement
 github: naustra
 missions:
   - start: 2022-05-03
-    end: 2022-11-30
+    end: 2023-03-31
     status: service
     employer: Selego
 startups:
