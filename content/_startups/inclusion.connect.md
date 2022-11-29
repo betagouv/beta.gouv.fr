@@ -1,9 +1,9 @@
 ---
 title: Inclusion Connect
-mission: "Simplifier l’utilisation des services à destination des professionnels de l’inclusion"
+mission: Simplifer l’utilisation des services à destination des professionnels
+  de l’inclusion.
 sponsors:
-  - /organisations/pole-emploi
-  - /organisations/mtei
+  - /organisations/gip-inclusion
 incubator: gip-inclusion
 repository: https://github.com/betagouv/itou-inclusion-connect
 contact: sonia.perelroizen@beta.gouv.fr
@@ -12,32 +12,25 @@ phases:
   - name: construction
     start: 2022-07-01
     comment: Produit fonctionnel et déployé sur des premiers services
-usertypes:
-  - collectivite-territoriale
-  - entreprise
-  - etat
 ---
-## Le problème
 
-Les services numériques à destination des professionnels de l’inclusion se multiplient, et avec eux les identifiants et mots de passe. Pour les usagers cela devient complexe et fastidieux et présente de vrais risques de sécurité.
 
-C'est donc une source de friction et une perte de temps pour les utilisateurs au quotidien.
+## Contexte
 
-## Notre service
+Il existe de nombreux services numériques qui s’adressent aux professionnels de l'inclusion (Les emplois de l'inclusion, DORA, RDV-insertion, le marché de l'inclusion etc.). Pour chacun de ces services, les professionnels doivent se créer un compte. C﻿'est autant de mots de passe, d'identifiants et de comptes qu'ils doivent gérer.
 
-Avec Inclusion Connect, nous simplifions la gestion des identifiants et facilitons l’accès au numérique en toute sécurité, grâce à un compte unique basé sur un protocole solidement éprouvé (OpenIdConnect).
+C﻿'est donc une source de friction et une perte de temps pour les utilisateurs au quotidien.
 
-## Nos usagers
+## Solution
 
-Tous les professionnels de l’inclusion. Comme les conseillers en insertion professionnelle, les travailleurs sociaux, les référents uniques (ex : PE, Cap emploi, CD, CCAS/CIAS, Missions Locales, associations conventionnées, IAE, centres d’hébergement, etc.), les employeurs solidaires etc.
+Inclusion Connect est un Single Sign-On (SSO). A﻿vec Inclusion Connect, l'usager se crée un compte unique qu'il peut utiliser pour se connecter à tous les services partenaires.
+
+
 
 ## Déploiement
 
-À ce jour, Inclusion Connect est déployé sur les services suivants :
+A date, Inclusion Connect est déployé sur les services suivants : 
 
-* Les emplois de l'inclusion
-* DORA
-* RDV-solidarités
-* M﻿on Suivi Social
-* L﻿a communauté de l'inclusion
-* L﻿es Conseillers Numériques France Service (grands réseaux et structures)
+* L﻿es emplois de l'inclusion
+* D﻿ORA
+* R﻿DV-solidarités
