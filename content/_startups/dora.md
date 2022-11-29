@@ -3,7 +3,8 @@ title: DORA
 mission: Faciliter la vie des personnes en insertion et de celles et ceux qui
   les accompagnent
 sponsors:
-  - /organisations/dgefp
+  - /organisations/pole-emploi
+  - /organisations/mtei
 incubator: gip-inclusion
 link: https://dora.fabrique.social.gouv.fr
 repository: https://github.com/betagouv/dora/

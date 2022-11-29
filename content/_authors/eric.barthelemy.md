@@ -12,7 +12,8 @@ startups:
 previously:
     - la-bonne-boite
     - memo
-  
+teams:
+  - /teams/gip-inclusion
 ---
 
 Un leitmotiv : Mon action permet-elle à un demandeur d’emploi de retrouver un travail ?

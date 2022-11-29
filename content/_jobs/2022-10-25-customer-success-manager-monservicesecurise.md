@@ -1,6 +1,6 @@
 ---
 roles: Customer Success Manager
-open: true
+open: false
 date: 2022-10-25
 startup: homologation
 title: MonServiceSécurisé recrute un·e Customer Success Manager

@@ -9,6 +9,5 @@ missions:
 startups:
   - chauffage-urbain
 ---
-
 Géomatique, Sig, Cartographie, Urbanisme, Dataviz
 
