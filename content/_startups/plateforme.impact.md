@@ -1,5 +1,5 @@
 ---
-title: SEGA (Plateforme Impact)
+title: Projet Impact
 mission: Le meilleur moyen pour les entreprises de déclarer leur performance
   extra-financière
 sponsors:

@@ -1,14 +1,14 @@
 ---
-fullname: Victor Serain
+fullname: Jean Andreani
 role: Développeur
 domaine: Développement
-github: vserain
 missions:
-  - start: 2022-01-03
-    end: 2023-06-01
+  - start: 2022-12-05
+    end: 2023-11-05
     status: independent
     employer: Malt
 startups:
-  - data-subvention
+  - vues-immersives-libres
+memberType: autre
 ---
 
