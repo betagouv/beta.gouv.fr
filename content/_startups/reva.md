@@ -4,6 +4,7 @@ mission: Faciliter l'obtention d'un diplôme en Validation des Acquis d'Expérie
 sponsors:
     - /organisations/mtei
 incubator: sgmas
+link: https://reva.beta.gouv.fr
 contact: olivier.gerard@beta.gouv.fr
 events: []
 phases:

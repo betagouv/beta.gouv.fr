@@ -9,6 +9,10 @@ missions:
     end: 2022-11-30
     status: independent
     employer: octo
+  - start: 2022-12-01
+    end: 2023-06-30
+    status: independent
+    employer: opteamis
 startups:
   - reva
 ---

@@ -1,6 +1,6 @@
 ---
 layout: jobs
 permalink: /recrutement/
-title: Les offres de beta.gouv.fr
+title: Nos offres de recrutement
 domaine: "all"
 ---
