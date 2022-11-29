@@ -2,6 +2,8 @@
 title: BatID -  Le Référentiel National des Bâtiments 
 mission: Référencer l’intégralité des bâtiments du territoire français au sein d’un géocommun
 sponsors:
+  - /organisations/ademe
+  - /organisations/cstb
   - /organisations/ign
 incubator: fab-geocommuns
 contact: elisabeth.talbourdet@cstb.fr
