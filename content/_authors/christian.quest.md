@@ -10,6 +10,8 @@ missions:
   - start: 2019-05-01
     end: 2021-03-07
     status: independent
+  - start: 2022-01-01
+    status: independent
 previously:
   - anais
   - ban
