@@ -15,6 +15,7 @@ missions:
     employer: Benext
 previously:
   - aides.jeunes
+memberType: beta
 badges:
   - segur
 competences:
