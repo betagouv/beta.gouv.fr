@@ -25,15 +25,11 @@ phases:
 Plus de **13 millions de Français** ont des difficultés avec les usages numériques.
 Pour les accompagner, de nombreuses structures de médiation numériques comme celles accueillant des CNFS, celles labellisées France Services ou Aidants Connect, ou toute autre structure de médiation numérique en dehors des labellisations nationales ont vus le jour.
 
-
-
 ## Double problématique
 
 L﻿'offre de médiation numérique sur le territoire est **hétérogène** : certaines structures proposent des services particuliers, d'autres accueillent des publics spécifiques, etc. 
 
 C﻿e n'est pas tout, cette offre de médiation numérique n'est **pas standardisée** sur le territoire nationale, empêchant toute **interopérabilité des données**.
-
-
 
 ## Solution
 
@@ -46,8 +42,6 @@ Dans le cadre du volet « inclusion numérique » du Plan France Relance qui vis
 * Un soutien à la production et l’utilisation des données standardisées  
 
 La cartographie sera accessible sur le site **[cartographie.societenumerique.gouv.fr](www.cartographie.societenumerique.gouv.fr)** mais sera également implémentable par tout acteur local (collectivités territoriales, Hubs territoriaux pour un Numérique inclusif, etc.) ﻿qui souhaite intégrer l'outil d'orientation et/ou la cartographie sur son site web.
-
-
 
 ## Faciliter l'accompagnement d'un bénéficiaire
 
@@ -63,8 +57,6 @@ On commence par recenser son besoin, sa localisation, ses disponibilités, etc. 
 
 Elle recense l'offre de médiation numérique sur le territoire concerné. L'utilisateur peut naviguer sur la carte, zoomer sur sa commune, accéder aux informations des structures, prendre rendez-vous directement en ligne, etc.
 
-
-
 ## Qui peut l'utiliser ?
 
 ### **Tout prescripteur**
@@ -77,8 +69,6 @@ Ils pourront **rechercher** et **identifier** une structure de médiation nu
 
 Le dispositif est accessible et ouvert à tous. En revanche, étant un site web avec de nombreuses fonctionnalités, il est davantage adapté aux publics familiers avec le numérique.
 
-
-
 # Des données standardisées
 
 Il existe un réel besoin d’une **vision nationale**, **complète** et **actualisée** de l’offre de médiation numérique
@@ -88,8 +78,6 @@ Des acteurs de la médiation numérique, notamment les Hubs, ont produit de nomb
 La standardisation permet de décrire l’offre de médiation numérique de manière **harmonisée**. Elle repose sur un travail de concertation dans lequel une cinquantaine d'utilisateurs représentatifs ont défini un standard de données qui décrit le format des fichiers, les différents champs, les valeurs possibles…
 
 L'aboutissement de ce travail, le **[standard de données des lieux de médiation numérique](https://lamednum.coop/schema-de-donnees-des-lieux-de-mediation-numerique-2/)** publié par la [Mednum](https://lamednum.coop/) en collaboration avec [Datactivist](https://datactivist.coop/fr/), est le fondement de notre cartographie.
-
-
 
 # Référencer ou mettre à jour son offre de service
 
@@ -113,8 +101,8 @@ De cette manière, vous pouvez retrouver la cartographie restreinte à la régio
 
 [J﻿e souhaite ajouter la cartographie sur mon site web ! ](https://github.com/anct-cartographie-nationale/client-application#documentation)
 
-
-
 ## [](https://github.com/anct-cartographie-nationale/client-application#documentation)[](https://dora.fabrique.social.gouv.fr/)Communication
 
 L﻿es [Hubs territoriaux pour un numérique inclusif](https://sonum.tlscp.fr/fr/dispositif/hubs-numerique/) jouent le rôle de référent territoriaux auprès des collectivités pour collecter et mettre à jour les données des structures.
+
+![](/img/netlifycms/plan.de.travail.13.png)
