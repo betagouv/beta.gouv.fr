@@ -5,7 +5,7 @@ domaine: Coaching
 link: https://annedevoret.fr/
 missions:
   - start: 2022-06-29
-    end: 2022-12-01
+    end: 2023-03-17
     status: independent
     employer: NUMA
 badges:
