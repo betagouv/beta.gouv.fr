@@ -1,5 +1,5 @@
 ---
-fullname: Namizata  COULIBALY
+fullname: Namizata Coulibaly
 domaine: Animation
 role: chargée de support transverse
 missions:
