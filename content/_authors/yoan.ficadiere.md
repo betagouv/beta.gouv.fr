@@ -2,11 +2,14 @@
 fullname: Yoan Ficadiere
 role: Développeur
 domaine: Développement
+github: destpat
 missions:
   - start: 2022-12-01
     end: 2023-02-28
     status: independent
-    employer: DINUM
+    employer: MALT
+startups:
+    - annuaire-entreprises
 memberType: beta
 ---
 
