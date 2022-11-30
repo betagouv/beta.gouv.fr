@@ -77,7 +77,7 @@ Des acteurs de la médiation numérique, notamment les Hubs, ont produit de nomb
 
 La standardisation permet de décrire l’offre de médiation numérique de manière **harmonisée**. Elle repose sur un travail de concertation dans lequel une cinquantaine d'utilisateurs représentatifs ont défini un standard de données qui décrit le format des fichiers, les différents champs, les valeurs possibles…
 
-L'aboutissement de ce travail, le **standard de données des lieux de médiation numérique** publié par la [Mednum](https://lamednum.coop/) en collaboration avec [Datactivist](https://datactivist.coop/fr/), est le fondement de notre cartographie.
+L'aboutissement de ce travail, le **standard de données des lieux de médiation numérique** publié par la [Mednum](https://lamednum.coop/) en collaboration avec [Datactivist](https://datactivist.coop/fr/), est le fondement de notre cartographie. 
 
 # Référencer ou mettre à jour son offre de service
 
@@ -89,18 +89,18 @@ Avec DORA, chaque structure de médiation numérique peut publier dans une déma
 
 **Grâce à cette dynamique collective, vous référencez votre offre une seule fois tout en la rendant disponible partout.**
 
-**J﻿e souhaite référencer ma structure sur Dora** 
+[J﻿e souhaite référencer ma structure sur Dora](https://labase.anct.gouv.fr/ressource/975/) 
 
 # Versions locales et personnalisées
 
 Cette cartographie est un **projet open source** (rendez-vous sur [l'organisation GitHub](https://github.com/orgs/anct-cartographie-nationale/repositories) pour les curieux) permettra aux acteurs locaux (collectivités territoriales, Hubs territoriaux pour un Numérique inclusif, etc.) de bénéficier de versions locales avec la possibilité de personnaliser les **fonctionnalités**, les **couleurs**, **l'affichage**, etc.\
 \
-De cette manière, vous pouvez retrouver la cartographie restreinte à la région Aquitaine sur le site de Hubik ou celle restreinte aux Conseillers Numériques France Service sur [leur site web](https://carte.conseiller-numerique.gouv.fr/).
+De cette manière, vous pouvez retrouver la cartographie restreinte aux Conseillers Numériques France Service sur [leur site web](https://carte.conseiller-numerique.gouv.fr/). 
 
-J﻿e souhaite ajouter la cartographie sur mon site web ! 
+[Comment ajouter la cartographie sur mon site web ?](https://github.com/anct-cartographie-nationale/client-application#documentation)
 
 ## [](https://github.com/anct-cartographie-nationale/client-application#documentation)[](https://dora.fabrique.social.gouv.fr/)Communication
 
 L﻿es [Hubs territoriaux pour un numérique inclusif](https://sonum.tlscp.fr/fr/dispositif/hubs-numerique/) jouent le rôle de référent territoriaux auprès des collectivités pour collecter et mettre à jour les données des structures. 
 
-S﻿i vous appartenez à un Hub territorial avec qui nous ne sommes pas encore en lien, n'hésitez pas à nous contacter !
+S﻿i vous appartenez à un Hub territorial avec qui nous ne sommes pas encore en lien, n'hésitez pas à [nous contacter](mailto:cartographie.sonum@anct.gouv.fr?subject=Cartographie%20nationale%20sur%20beta.gouv.fr) !
