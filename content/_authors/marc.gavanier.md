@@ -11,6 +11,7 @@ missions:
     employer: Octo
 startups:
   - conseiller-numerique
+  - cartographie.nationale
 badges:
   - segur
 competences:
