@@ -1,7 +1,7 @@
 ---
 fullname: Florian d'Erfurth
 domaine: Développement
-role: Développeur
+role: CTO
 link: https://derfurth.com
 github: derfurth
 missions:
