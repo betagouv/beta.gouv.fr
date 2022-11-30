@@ -77,7 +77,7 @@ Des acteurs de la médiation numérique, notamment les Hubs, ont produit de nomb
 
 La standardisation permet de décrire l’offre de médiation numérique de manière **harmonisée**. Elle repose sur un travail de concertation dans lequel une cinquantaine d'utilisateurs représentatifs ont défini un standard de données qui décrit le format des fichiers, les différents champs, les valeurs possibles…
 
-L'aboutissement de ce travail, le **standard de données des lieux de médiation numérique** publié par la [Mednum](https://lamednum.coop/) en collaboration avec [Datactivist](https://datactivist.coop/fr/), est le fondement de notre cartographie.
+L'aboutissement de ce travail, le **standard de données des lieux de médiation numérique** publié par la [Mednum](https://lamednum.coop/) en collaboration avec [Datactivist](https://datactivist.coop/fr/), est le fondement de notre cartographie. 
 
 # Référencer ou mettre à jour son offre de service
 
