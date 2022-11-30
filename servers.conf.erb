@@ -16,4 +16,8 @@ server {
   # _redirects
   rewrite ^/startup/(.*)$ $scheme://$http_host/startups/$1 redirect;
   rewrite ^/alpha/mooc/(.*)$ $scheme://$http_host/approche/formation/mooc/$1 redirect;
+
+  location / {
+    try_files $uri $uri.html $uri/index.html $uri/ index.html =404;
+  }
 }
