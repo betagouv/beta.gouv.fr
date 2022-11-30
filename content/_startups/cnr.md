@@ -3,7 +3,7 @@ title: CNR
 mission: "Consulter citoyens, élus et corps intermédiaires sur les grandes
   thématiques du quinquennat. "
 sponsors:
-  - /organisations/HCP
+  - /organisations/hcp
 incubator: dinum
 link: https://conseil-refondation.fr/
 repository: https://github.com/betagouv/CNR
