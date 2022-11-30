@@ -81,8 +81,6 @@ L'aboutissement de ce travail, le **standard de données des lieux de médiatio
 
 # Référencer ou mettre à jour son offre de service
 
-![](https://sonum.tlscp.fr/media/images/dora-logo-square-1.max-150x150.png)
-
 Pour collecter et mettre à jour ces **données standardisées**, nous faisons appel à [DORA](https://dora.fabrique.social.gouv.fr/), le service public numérique de recensement et mise à jour de l’offre d’insertion.
 
 Avec DORA, chaque structure de médiation numérique peut publier dans une démarche d’Open Data et rendre disponibles ses données à travers un référentiel commun — partagé par toutes les plateformes et sites web partenaires.
@@ -106,5 +104,3 @@ J﻿e souhaite ajouter la cartographie sur mon site web !
 L﻿es [Hubs territoriaux pour un numérique inclusif](https://sonum.tlscp.fr/fr/dispositif/hubs-numerique/) jouent le rôle de référent territoriaux auprès des collectivités pour collecter et mettre à jour les données des structures. 
 
 S﻿i vous appartenez à un Hub territorial avec qui nous ne sommes pas encore en lien, n'hésitez pas à nous contacter !
-
-![](/img/netlifycms/plan.de.travail.13.png)
