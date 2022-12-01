@@ -12,7 +12,7 @@ missions:
     end: 2020-09-07
     status: independent
   - start: 2021-02-08
-    end: 2022-12-31
+    end: 2023-03-31
     status: independent
 startups:
   - 1000.jours
