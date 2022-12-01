@@ -2,6 +2,9 @@
 title: Inclusion Connect
 mission: Simplifer l’utilisation des services à destination des professionnels
   de l’inclusion.
+sponsors:
+  - /organisations/pole-emploi
+  - /organisations/mtei
 incubator: gip-inclusion
 repository: https://github.com/betagouv/itou-inclusion-connect
 contact: sonia.perelroizen@beta.gouv.fr
