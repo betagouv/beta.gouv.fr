@@ -5,7 +5,7 @@ domaine: Développement
 github: sbenfares
 missions:
   - start: 2020-01-22
-    end: 2022-12-31
+    end: 2023-06-30
     status: independent
     employer: solstice
 startups:
