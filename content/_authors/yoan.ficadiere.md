@@ -2,7 +2,7 @@
 fullname: Yoan Ficadiere
 role: Développeur
 domaine: Développement
-github: destpat
+github: yoanficadiere
 missions:
   - start: 2022-12-01
     end: 2023-02-28
