@@ -5,7 +5,7 @@ domaine: Développement
 github: nbckk9
 missions:
   - start: 2022-07-01
-    end: 2022-12-31
+    end: 2023-05-31
     status: independent
     employer: Malt
 startups:
