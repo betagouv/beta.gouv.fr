@@ -6,7 +6,7 @@ avatar: https://benoitguigal.fr/assets/images/benoit.png
 link: https://benoitguigal.fr
 github: benoitguigal
 missions:
-  - end: 2022-12-31 
+  - end: 2023-06-30 
     start: 2019-05-22
     status: independent
 startups:

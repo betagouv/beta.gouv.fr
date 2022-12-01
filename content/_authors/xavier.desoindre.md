@@ -5,7 +5,7 @@ link: https://epicse.fr/
 github: desoindx
 missions:
   - start: 2021-05-03
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
     employer: UT7
 startups:
