@@ -17,11 +17,11 @@ missions:
       status: independent
       employer: octo
     - start: 2021-12-31
-      end: 2022-06-31
+      end: 2022-06-30
       status: independent
       employer: La Zone
     - start: 2022-10-15
-      end: 2023-06-31
+      end: 2023-06-30
       status: independent
       employer: octo
 startups:
