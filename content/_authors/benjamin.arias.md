@@ -5,7 +5,7 @@ domaine: Développement
 github: bjlaa
 missions:
   - start: 2022-09-07
-    end: 2023-01-01
+    end: 2023-01-07
     status: independent
     employer: URSSAF
 startups:
