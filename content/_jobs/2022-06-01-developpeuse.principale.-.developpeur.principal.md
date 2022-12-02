@@ -1,6 +1,6 @@
 ---
 roles: Développeuse Principale - Développeur Principal pour le service Notifications
-open: true
+open: false
 startup: notifications
 date: 2022-08-18T14:34:06.361Z
 techno:
