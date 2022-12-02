@@ -1,6 +1,6 @@
 ---
 fullname: Christian Quest
-role: Datatouilleur
+role: Product Owner / Datatouilleur
 domaine: Autre
 missions:
   - start: 2014-09-01
