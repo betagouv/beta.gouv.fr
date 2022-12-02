@@ -15,14 +15,16 @@ phases:
 ---
 ## Contexte
 
-“_Du fait d’un écosystème atomisé, la production de l’information géolocalisée dans la sphère publique se traduit par un usage sous-optimal des deniers publics._”
-Rapport d'Information, Sénat, Commission des Finances pour l'IGN, 5 Octobre 2022
+“_Du fait d’un écosystème atomisé, la production de l’information géolocalisée dans la sphère publique se traduit par un usage sous-optimal des deniers publics._” Rapport d'Information, Sénat, Commission des Finances pour l'IGN, 5 Octobre 2022
+
 
 Parmi ces données géolocalisées, l’information relative au bâtiment se démarque par l’absence de référentiel. Le concept de bâtiment ne faisant pas consensus, les acteurs travaillent en silos répondant chacun à leur propre vision du bâtiment…
 
 ## Problème
 
 Cette absence se traduit par des informations rattachées à l’adresse, au logement ou parfois à la parcelle cadastrale. L’objet bâtiment apparaît alors comme le maillon manquant au socle de données géolocalisées structuré qui relie les concepts d’adresses/bâtiment/locaux (parcelles).
+
+
 Ainsi, les données géolocalisées actuelles ne permettent pas un pilotage satisfaisant des politiques publiques, en particulier celles qui concernent la rénovation énergétique, qui nécessitent une vision exhaustive, représentative, actualisée et partagée du parc.
 
 ## Solution
@@ -33,6 +35,11 @@ C’est dans ce contexte qu’a vu le jour le projet BatID pour co-construire av
 ## Stratégie
 
 La stratégie du projet BatID repose sur deux approches complémentaires : 
-D’une part, expérimenter au maximum afin d'embarquer les acteurs, démontrer les usages, en créant les boucles de rétroaction de l’alimentation du référentiel. De l’autre, co-construire une gouvernance commune aux parties prenantes, afin de susciter l'adhésion et créer le cadre favorable à la vie du référentiel.
+- D’une part, expérimenter au maximum afin d'embarquer les acteurs, démontrer les usages, en créant les boucles de rétroaction de l’alimentation du référentiel. 
+- De l’autre, co-construire une gouvernance commune aux parties prenantes, afin de susciter l'adhésion et créer le cadre favorable à la vie du référentiel.
+
+
 L’approche expérimentale permet de cerner précisément les besoins et points de friction à l’émergence du projet, grâce à une vision terrain et à la mise en œuvre technique. La démarche de co-construction, permet de fédérer les acteurs pour rendre possible l’interopérabilité à l’échelle nationale en permettant le partage et l’échange de données.
+
+
 L’objectif à terme : aboutir à un modèle de gouvernance pérenne, pour faire de cette future donnée de référence un véritable géo-commun. 
