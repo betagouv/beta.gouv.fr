@@ -6,7 +6,7 @@ github: mlbiche
 link: https://mlbiche.gitlab.io/curriculum/
 missions:
   - start: 2022-03-07
-    end: 2022-12-31
+    end: 2023-04-30
     status: independent
 startups:
   - Mon-suivi-social

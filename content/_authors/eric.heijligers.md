@@ -7,7 +7,7 @@ missions:
   - status: admin
     employer: Fabrique numérique des ministères sociaux
     start: 2020-01-01
-    end: 2022-12-31
+    end: 2024-12-31
 incubator: sgmas
 startups:
   - 1000.jours
