@@ -13,6 +13,10 @@ missions:
   - start: 2022-01-01
     end: 2023-12-31
     status: independent
+
+startups:
+  - vues-immersives-libres
+
 previously:
   - anais
   - ban
