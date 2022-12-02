@@ -15,8 +15,9 @@ phases:
 ---
 ## Contexte
 
-“Du fait d’un écosystème atomisé, la production de l’information géolocalisée dans la sphère publique se traduit par un usage sous-optimal des deniers publics.”
-Source: Rapport d'Information, Sénat, Commission des Finances pour l'IGN, 5 Octobre 2022
+“_Du fait d’un écosystème atomisé, la production de l’information géolocalisée dans la sphère publique se traduit par un usage sous-optimal des deniers publics._”
+Rapport d'Information, Sénat, Commission des Finances pour l'IGN, 5 Octobre 2022
+
 Parmi ces données géolocalisées, l’information relative au bâtiment se démarque par l’absence de référentiel. Le concept de bâtiment ne faisant pas consensus, les acteurs travaillent en silos répondant chacun à leur propre vision du bâtiment…
 
 ## Problème
