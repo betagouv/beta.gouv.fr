@@ -6,7 +6,7 @@ sponsors:
   - /organisations/cstb
   - /organisations/ign
 incubator: fab-geocommuns
-contact: elisabeth.talbourdet@cstb.fr
+contact: batid@beta.gouv.fr
 phases:
   - name: investigation
     start: 2021-09-01
