@@ -18,7 +18,7 @@ phases:
 
 ## Contexte
 
-Il existe de nombreux services numériques qui s’adressent aux professionnels de l'inclusion (Les emplois de l'inclusion, DORA, RDV-insertion, le marché de l'inclusion etc.). Pour chacun de ces services, les professionnels doivent se créer un compte. C﻿'est autant de mots de passe, d'identifiants et de comptes qu'ils doivent gérer.
+Il existe de nombreux services numériques qui s﻿'adressent aux professionnels de l'inclusion (Les emplois de l'inclusion, DORA, RDV-insertion, le marché de l'inclusion etc.). Pour chacun de ces services, les professionnels doivent se créer un compte. C﻿'est autant de mots de passe, d'identifiants et de comptes qu'ils doivent gérer.
 
 C'est donc une source de friction et une perte de temps pour les utilisateurs au quotidien.
 
@@ -30,8 +30,8 @@ Inclusion Connect est un Single Sign-On (SSO). Avec Inclusion Connect, l'usager 
 
 ## Déploiement
 
-A date, Inclusion Connect est déployé sur les services suivants : 
+À date, Inclusion Connect est déployé sur les services suivants : 
 
-* L'es emplois de l'inclusion
+* Les emplois de l'inclusion
 * DORA
 * RDV-solidarités
