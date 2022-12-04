@@ -31,6 +31,7 @@ mapping:
             - /organisations/cnam
             - /organisations/cnav
             - /organisations/cnsa
+            - /organisations/cstb
             - /organisations/departement-oise
             - /organisations/departement-pas-de-calais
             - /organisations/departement-var
@@ -66,6 +67,7 @@ mapping:
             - /organisations/dsr
             - /organisations/fnccr
             - /organisations/hcc
+            - /organisations/hcp
             - /organisations/igj
             - /organisations/ign
             - /organisations/igpn

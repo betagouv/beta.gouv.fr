@@ -18,6 +18,13 @@ phases:
     end: 2021-07-01
   - name: construction
     start: 2021-07-01
+
+techno:
+  - React
+  - TypeScript
+  - NodeJS
+  - Fastify
+  - Scalingo
 usertypes:
   - particulier
 ---

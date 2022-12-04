@@ -2,7 +2,6 @@
 fullname: Victor Zeinstra
 role: Développeur
 domaine: Développement
-github: ViCode
 missions:
   - start: 2022-06-13
     end: 2022-12-31
