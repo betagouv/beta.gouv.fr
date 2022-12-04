@@ -12,7 +12,7 @@ missions:
     employer: Octo Technology
   - status: independent
     start: 2021-11-18
-    end: 2022-12-31
+    end: 2023-08-31
 startups:
   - acceslibre
 previously:
