@@ -5,7 +5,7 @@ domaine: Design
 avatar: https://i.goopics.net/rbAWD.png
 missions:
   - start: 2018-01-01
-    end: 2022-12-31
+    end: 2023-03-31
     status: independent
     employer: octo
 startups:
