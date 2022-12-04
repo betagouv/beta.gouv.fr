@@ -7,7 +7,7 @@ missions:
   - start: 2021-09-21
     end: 2022-12-31
     status: independent
-    employer: DGFip
+    employer: Ministère de la Transition Écologique / Fabrique numérique
 startups:
   - attractivite.des.territoires
   - ecobalyse
