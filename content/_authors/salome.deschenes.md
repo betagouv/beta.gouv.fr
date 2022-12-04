@@ -10,7 +10,7 @@ missions:
     employer: DINUM
   - status: independent
     start: 2021-06-30
-    end: 2022-12-30
+    end: 2023-12-29
 startups:
   - urbanvitaliz
 badges: null
