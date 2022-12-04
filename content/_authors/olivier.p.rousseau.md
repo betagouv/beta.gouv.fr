@@ -5,7 +5,7 @@ domaine: Développement
 github: olivierRse
 missions:
   - start: 2022-12-12
-    end: 2022-12-16
+    end: 2023-12-16
     status: independent
 startups:
   - justif
