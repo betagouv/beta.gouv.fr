@@ -5,7 +5,7 @@ domaine: Développement
 github: mxmeunier
 missions:
   - start: 2022-03-22
-    end: 2022-12-31
+    end: 2023-03-31
     status: independent
     employer: DINUM
 startups:
