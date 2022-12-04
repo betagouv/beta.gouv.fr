@@ -5,7 +5,7 @@ role: Intrapreneur REVA, Chef de projet
 github: OliverGERARD
 missions:
   - start: 2021-05-16
-    end: 2022-12-01
+    end: 2023-12-01
     status: independent
 startups:
   - reva
