@@ -5,7 +5,7 @@ domaine: Design
 github: cecilefreyd
 missions:
   - start: 2021-10-11
-    end: 2022-12-30
+    end: 2023-03-31
     status: service
     employer: Benext
 startups:
