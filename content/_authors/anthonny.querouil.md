@@ -6,7 +6,7 @@ link: https://anthonnyquerouil.me
 github: anthonny
 missions:
   - start: 2021-09-02
-    end: 2023-06-30
+    end: 2023-07-01
     status: independent
     employer: BENEXT
 startups:
