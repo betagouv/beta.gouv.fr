@@ -5,9 +5,10 @@ role: Coach
 github: PaulMarcade
 missions:
   - start: 2020-03-19
-    end: 2023-03-31
+    end: 2023-09-30
     status: independent
-incubator: ""
+    employer: ''
+incubator: ''
 startups:
   - a-just
   - mediature
@@ -17,4 +18,6 @@ previously:
   - anct-pni-1
 competences:
   - Coaching
+
 ---
+null
