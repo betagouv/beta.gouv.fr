@@ -6,7 +6,7 @@ link: https://makeitworkproject.com
 github: iseultdl
 missions:
   - start: 2022-10-10
-    end: 2022-12-31
+    end: 2023-06-30
     status: independent
     employer: OCTO
 startups:

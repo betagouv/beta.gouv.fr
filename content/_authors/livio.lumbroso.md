@@ -6,7 +6,7 @@ github: LivioLumbroso
 link: https://www.linkedin.com/in/liviolumbroso/
 missions:
   - start: 2020-11-16
-    end: 2022-12-31
+    end: 2023-12-29
     status: independent
     employer: numa
 startups:

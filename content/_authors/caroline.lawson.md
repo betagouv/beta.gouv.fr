@@ -6,7 +6,7 @@ github: caroline-lawson
 link: null
 missions:
   - start: 2021-01-26
-    end: 2022-12-31
+    end: 2023-03-31
     status: independent
     employer: null
 startups:

@@ -6,7 +6,7 @@ github: nenj
 link: https://www.linkedin.com/in/nicolas-enjalbert/
 missions:
   - start: 2021-04-08
-    end: 2022-12-16
+    end: 2023-06-30
     status: independent
     employer: Benext, NUMA
 startups:

@@ -6,7 +6,7 @@ link: https://about.me/ikarius
 github: ikarius
 missions:
   - start: 2020-03-04
-    end: 2022-12-31
+    end: 2023-06-30
     status: independent
     employer: octo
 startups:

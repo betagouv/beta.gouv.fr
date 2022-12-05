@@ -1,7 +1,7 @@
 ---
 fullname: Antoine LAURENT
-role: Développeur
 domaine: Développement
+role: Développeur
 github: tonial
 missions:
   - start: 2022-06-07
@@ -10,5 +10,7 @@ missions:
     employer: Octo
 startups:
   - itou
+  - inclusion.connect
+competences:
+  - Développement Backend
 ---
-
