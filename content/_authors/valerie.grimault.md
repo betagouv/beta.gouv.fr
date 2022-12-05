@@ -1,0 +1,14 @@
+---
+fullname: Valérie Grimault
+role: Chargée de portefeuille de l'incubateur numérique
+domaine: Autre
+github: ValerieGrimault
+missions:
+  - start: 2022-12-01
+    end: 2023-12-01
+    status: admin
+    employer: DNUM
+memberType: autre
+---
+
+Docteure en psychologie, ingénieure en machine learning
