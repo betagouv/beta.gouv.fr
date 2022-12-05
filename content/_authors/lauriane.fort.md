@@ -5,7 +5,7 @@ domaine: Produit
 github: lauriane-f
 missions:
   - start: 2021-12-05
-    end: 2023-05-30
+    end: 2023-12-05
     status: independent
     employer: /UT7
 startups:
