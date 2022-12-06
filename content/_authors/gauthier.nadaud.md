@@ -7,6 +7,8 @@ missions:
     end: 2023-01-01
     status: independent
     employer: NUMA
+startups:
+    - detention.resa.visio.famille
 badges:
   - segur
 ---
