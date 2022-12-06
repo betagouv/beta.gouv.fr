@@ -23,8 +23,6 @@ previously:
   - boussole
   - leximpact
   - transport
-badges:
-  - segur
 ---
 
 Alles Ständische und Stehende verdampft.
