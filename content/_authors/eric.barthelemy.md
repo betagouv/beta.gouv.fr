@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2015-05-01
-    end: 2022-12-31
+    end: 2023-12-31
     status: admin
     employer: pole-emploi
 startups:
