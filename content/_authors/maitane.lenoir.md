@@ -11,7 +11,7 @@ missions:
     status: independent
     employer: lazone
   - start: 2021-04-11
-    end: 2022-12-31
+    end: 2023-06-30
     status: independent
     employer: Malt
 startups:
