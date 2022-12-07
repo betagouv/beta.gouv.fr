@@ -1,5 +1,5 @@
 ---
-fullname: AMANDINE CAPELLE
+fullname: Amandine Capelle
 role: Octo
 domaine: Animation
 missions:
@@ -10,4 +10,4 @@ missions:
 memberType: attributaire
 ---
 
-Membre Octo..
+Membre Octo.
