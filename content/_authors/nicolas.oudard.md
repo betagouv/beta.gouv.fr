@@ -10,6 +10,7 @@ missions:
     employer: Scopyleft
 startups:
   - apilos
+  - sppnaut
 badges:
   - segur
 ---
