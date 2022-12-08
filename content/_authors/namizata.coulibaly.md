@@ -14,6 +14,5 @@ badges:
   - segur
 competences:
   - Communication
-
 ---
-null
+
