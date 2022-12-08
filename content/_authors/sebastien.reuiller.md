@@ -10,7 +10,9 @@ missions:
     status: independent
     employer: Octo
 startups:
+  - cnr
   - la.communaute.de.linclusion
+previously:
   - itou
 competences:
   - Développement Frontend
