@@ -1,12 +1,17 @@
 ---
-title: SNDV - Maritime - MOANA
 mission: Améliorer le traitement des données de voyages du transport maritime à
   des fins de contrôle et de sûreté
+incubator: dinum
+repository: https://gitlab.mim-libre.fr/sndv-maritime/moana
+contact: victor.grange@beta.gouv.fr
+usertypes:
+  - etat
+title: SNDV - Maritime - MOANA
 sponsors:
   - /organisations/sndv
-incubator: dinum
-contact: victor.grange@beta.gouv.fr
+link: https://moana.beta.gouv.fr
 stats: false
+dashlord_url: https://dashlord.incubateur.net/url/moana-beta-gouv-fr/
 phases:
   - name: investigation
     start: 2021-04-26
@@ -14,8 +19,6 @@ phases:
   - name: construction
     start: 2021-09-01
     end: 2022-02-01
-usertypes:
-  - etat
 ---
 ## Contexte
 
