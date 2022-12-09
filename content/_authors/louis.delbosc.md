@@ -5,10 +5,11 @@ domaine: Développement
 github: louisdelbosc
 missions:
   - start: 2022-06-08
-    end: 2022-12-08
+    end: 2023-06-09
     status: independent
+    employer: ''
 badges:
   - segur
----
 
+---
 Un dev aussi différent que tout les autres.
