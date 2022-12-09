@@ -15,6 +15,10 @@ events:
     date: 2021-01-07
     comment: La première version du site est ouverte aux Demandeurs d'Emploi
       bénéficiaires de l'Allocation de Solidarité Spécifique.
+stats: true
+stats_url: https://mesevenementsemploi.pole-emploi.fr/mes-evenements-emploi/stats
+dashlord_url: http://dashlord.incubateur.net/url/mesevenementsemploi-pole-emploi-fr
+# repository: https://github.com/StartupsPoleEmploi/mesevenementsemploi
 phases:
   - name: investigation
     start: 2020-09-01
@@ -26,7 +30,7 @@ phases:
     start: 2021-11-01
     comment: "REGIONS à ce jour :  Occitanie, Ile-de-France, Provence-Alpes-Côte
       d’Azur, Auvergne-Rhône-Alpes, Normandie, Pays de la Loire, Centre de Val
-      de Loire, Corse  et fin janvier 2023, Déploiement France entière"
+      de Loire, Corse et fin janvier 2023, Déploiement France entière"
 ---
 ### **Problème :**
 
@@ -46,7 +50,7 @@ Quelques évolutions très attendues livrées :
 
 27/10/2021
 
-* Inscription d’un candidat par un conseiller 
+* Inscription d’un candidat par un conseiller
 
 18/01/2022
 
