@@ -10,9 +10,13 @@ missions:
     status: independent
     employer: Codeurs en Liberté
   - start: 2020-03-01
-    end: 2022-12-31
+    end: 2022-01-31
     status: independent
     employer: OCTO
+  - start: 2022-01-01
+    end: 2023-03-31
+    status: independent
+    employer: Scopyleft
 startups:
   - usine-chatbots
   - airvam

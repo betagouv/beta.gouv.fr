@@ -14,13 +14,20 @@ phases:
   - name: acceleration
     start: 2022-10-27
 ---
-Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
+ 
 ## Contexte
-Quel est le contexte de ta Startup d'Etat ?
+
+Le Président de la République a lancé le jeudi 8 septembre 2022 le « Conseil National de la Refondation », à Marcoussis, dans l'Essonne. Il a réuni à cette occasion une quarantaine de représentants de forces politiques, des partenaires sociaux, des élus locaux, des représentants du monde économique et du monde associatif. L'objectif a notamment été de poser un constat commun : le besoin pour la nation de raviver et réinventer les processus démocratiques autour des grands enjeux de transition du quinquennat.
+
 ## Problème
-Les problèmes que vous avez identifiés ou vos hypothèses de problèmes? Qui en souffre ? quels sont les conséquences de ces problèmes ?
+
+Élections après élections, le taux d'abstention augmente, les débats sociétaux s'enveniment, la fragilité écologique et l'incertitude économique imposent de repenser le dialogue national.
+
+
 ## Solution
-Décrit ta solution en quelques lignes? qui seront/sont les bénéficiaires ?
+
+Afin de toucher le plus de personnes possible, la création d'une plateforme en ligne a été identifiée comme la solution la plus pertinente. Le rôle de la plateforme du Conseil national de Refondation est de créer une nouvelle manière de concerter et d'agir, qui permette à toutes et tous d'échanger de manière constructive pour bâtir des solutions appropriées aux grands défis de l'époque. Citoyen.ne.s, élu.e.s, parties prenantes peuvent participer aux concertations et être informé.e.s des réunions publiques locales organisées partout en France.
+
 ## Stratégie
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
+
+En étroite collaboration avec le Haut Commissariat au Plan, l'objectif pour l'équipe est de comptabiliser 100 000 participations aux consultations en ligne d'ici la fin d'année 2022, à travers des campagnes d'acquisition en ligne et des opérations de communication.  
