@@ -1,6 +1,6 @@
 ---
 title: REflex
-mission: "Accompagner les acteurs de la construction vers la neutralité carbone"
+mission: Accompagner les acteurs de la construction vers la neutralité carbone
 sponsors:
   - /organisations/dgaln
 incubator: mtes
@@ -9,7 +9,9 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2022-04-04
-    end: ""
+    end: 2022-11-24
+  - name: alumni
+    start: 2022-11-24
 ---
 ## Dans quel contexte on se situe
 
@@ -32,3 +34,11 @@ L’observatoire de la RE2020 est alimenté automatiquement par les fiches RSEE 
 Pour commencer, nous comptons aller directement à la rencontre de bailleurs sociaux, qui sont notre cible première pour le mini-calculateur d’ACV. L’observatoire est très attendu – si nous le concevons en restant à l’écoute de leurs attentes et de leurs besoins, nous sommes confiants de notre capacité à toucher notre public. Notre objectif est de s’insérer dans l’écosystème des outils et startups de la construction, et non de remplacer les acteurs existants. A ce titre, l’observatoire doit disposer d’une API solide, et le mini-calculateur doit produire des documents interopérables avec les outils du marché.
 
 Notre indicateur principal sera la fréquentation de nos outils – on verra rapidement s’ils sont utiles, et à qui. Un autre indicateur – plus important, mais moins directement lié à notre action – est bien sûr la vitesse d’adoption de modes constructifs plus écologiques.
+
+## Post-mortem
+
+Nous avons décidé de sortir de la démarche startup d'État. La solution que nous avons explorée ne rentre pas dans les missions de la DGALN. Des acteurs privés sont déjà en train de se positionner sur le créneau de l'aide à la conception avec prise en compte du carbone. Le projet initial de la direction d'observer les conséquences de la réglementation a été jugé plus opportun, pour le moment, que celui d'intervenir au sein même du secteur.
+
+Par ailleurs, la hausse du prix des matières premières et de l'énergie a compliqué la situation des acteurs que nous avions privilégiés pour notre déploiement (bailleurs sociaux publics et privés de petite et moyenne taille). Relativement peu de projets RE2020 ont été lancés par ces acteurs, de fait peu au courant des enjeux réglementaires, ce qui a compliqué l'évaluation de l'impact de REflex. 
+
+Les nombreux apprentissages, retours d'expérience, anecdotes, signalements et idées que nous avons recueillis lors de notre investigation seront mis à profit lors d'un événement de co-conception organisé par la DGALN en 2023.
