@@ -1,5 +1,5 @@
 ---
-title: Tarification transports
+title: Tous à bord !
 mission: Automatiser l'octroi de la tarification sociale et solidaire des
   transports partout en France
 sponsors:
@@ -27,7 +27,7 @@ Dans le cadre du chantier « administration proactive », la DINUM engage actu
 
 ## Solution
 
-Dans ce contexte, la DINUM propose d’engager un travail avec les AOM volontaires pour déployer un processus de notification automatique des droits et poursuivre la dynamique engagée en matière de récupération automatique des justificatifs d’éligibilité aux droits. 
+Dans ce contexte, Tous à bord ! propose d’engager un travail avec les AOM volontaires pour déployer un processus de notification automatique des droits et poursuivre la dynamique engagée en matière de récupération automatique des justificatifs d’éligibilité aux droits. 
 
 Ce travail, dont la finalité sera d’identifier les opportunités de proactivité ainsi que les besoins des AOM pour y parvenir, s’articulera autour de deux chantiers menés en parallèle : 
 
