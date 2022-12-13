@@ -6,7 +6,7 @@ link: https://derfurth.com
 github: derfurth
 missions:
   - start: 2020-12-04
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
     employer: null
 startups:
