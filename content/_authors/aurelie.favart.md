@@ -5,8 +5,8 @@ domaine: Produit
 missions:
   - start: 2021-05-20
     end: 2023-06-30
-    status: service
-    employer: octo
+    status: independent
+    employer: opteamis
 startups:
   - reva
 ---
