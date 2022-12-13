@@ -10,6 +10,7 @@ missions:
     employer: ''
 badges:
   - segur
-
+startups:
+    - données-et-territoires
 ---
-Un dev aussi différent que tout les autres.
+Un dev aussi différent que tous les autres.
