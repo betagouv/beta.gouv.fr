@@ -6,7 +6,7 @@ link: https://www.charlottechoplin.com
 github: Charlottecho
 missions:
   - start: 2021-11-08
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
     employer: Octo
 startups:
@@ -15,5 +15,6 @@ badges:
   - segur
 competences:
   - Croissance
+
 ---
 J'accompagne les projets  à se développer ( Croissance du produit + équipe )

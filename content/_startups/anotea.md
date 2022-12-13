@@ -1,9 +1,19 @@
 ---
 title: Anotea
-mission: Éclairer les personnes à la recherche d'une formation professionnelle dans leur choix
-sponsors: 
-    - /organisations/pole-emploi
+mission: Éclairer les personnes à la recherche d'une formation professionnelle
+  dans leur choix
+sponsors:
+  - /organisations/pole-emploi
 incubator: pole-emploi
+link: https://anotea.pole-emploi.fr
+repository: https://github.com/StartupsPoleEmploi/anotea
+contact: anotea@pole-emploi.fr
+usertypes:
+  - particulier
+stats: true
+events:
+  - name: national_impact
+    date: 2020-07-01
 phases:
   - name: investigation
     start: 2018-04-01
@@ -13,15 +23,6 @@ phases:
     start: 2020-01-01
   - name: success
     start: 2020-07-01
-events:
-  - name: national_impact
-    date: 2020-07-01
-link: https://anotea.pole-emploi.fr
-stats: true
-repository: https://github.com/StartupsPoleEmploi/anotea
-contact: anotea@pole-emploi.fr
-usertypes:
-  - particulier
 ---
 
 Anotéa collecte les avis des stagiaires de formation demandeurs d'emploi (source Pôle emploi), puis diffuse ces avis auprès des futurs stagiaires sur les catalogues de formation. Tous les commentaires sont modérés par des personnes physiques selon une charte établie et disponible dans les conditons générales d'utilisation (CGU).

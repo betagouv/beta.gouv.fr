@@ -18,12 +18,12 @@ missions:
     employer: octo
 startups:
   - conseiller-numerique
-  - sppnaut
 previously:
   - jeveuxaider
   - mon-entreprise
   - anotea
   - pass.engagement.jeune
+  - sppnaut
 badges:
   - segur
 competences:

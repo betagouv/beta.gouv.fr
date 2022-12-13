@@ -12,7 +12,7 @@ badges:
   - segur
 startups:
   - notifications
-  - tarification.transports
+  - tous.a.bord
 
 ---
 
