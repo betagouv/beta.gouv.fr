@@ -15,5 +15,4 @@ badges:
 competences:
   - Communication
   - Croissance
-
 ---
