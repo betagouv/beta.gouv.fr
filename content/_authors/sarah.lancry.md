@@ -5,7 +5,7 @@ domaine: Déploiement
 github: SarahLANCRY
 link: "https://www.linkedin.com/in/sarah-lancry-aa813878/"
 missions:
-  - end: 2022-12-31
+  - end: 2025-12-31
     start: 2019-07-04
     status: independent
 startups: 
