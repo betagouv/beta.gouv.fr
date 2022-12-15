@@ -57,6 +57,8 @@ Cela prend du temps et de l’énergie, au détriment du développement de l’a
 
 **En résumé, les créateurs et créatrices d’entreprises ne sont pas suffisamment outillés dans leur prise de décisions.**
 
+## Solution
+
 Mon-entreprise.urssaf.fr propose des simulateurs et des assistants pour accompagner les acteurs économiques - de la sphère des entrepreneurs, salariés, demandeurs d’emploi - au plus près de leurs parcours de recherche d’informations.
 
 Par exemple, pour aider les entreprises à anticiper le coût d’un recrutement, nous mettons à disposition un simulateur salarié. Ce dernier est intégré directement sur pôle-emploi, economie.gouv.fr, entreprendre.service-public.fr et code.travail.gouv.fr, ce afin de garantir à l’usager le parcours le plus fluide possible.
