@@ -9,9 +9,10 @@ missions:
     status: independent
     employer: Codeurs en Liberté
 startups:
-    - transport 
-previously: 
+  - transport
+previously: null
 
 ---
-
-J'aime l'open-data, les transports, la cartographie, les maths et coder en Elixir.
+>-
+  J'aime l'open-data, les transports, la cartographie, les maths et coder en
+  Elixir.
