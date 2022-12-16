@@ -6,7 +6,7 @@ github: pocmaker42
 link: https://www.pocmaker.net
 missions:
   - start: 2021-04-01
-    end: 2022-12-31
+    end: 2023-06-30
     status: independent
     employer: Octo
 startups:
@@ -19,4 +19,6 @@ competences:
   - Gestion de Produit
   - Croissance
   - Coaching
+
 ---
+''
