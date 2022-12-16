@@ -5,7 +5,7 @@ domaine: Développement
 github: fchabouis
 missions:
   - start: 2020-01-20
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
     employer: Codeurs en Liberté
 startups:
