@@ -5,8 +5,8 @@ domaine: Déploiement
 missions:
   - start: 2022-09-18
     end: 2022-12-31
-    status: independent
-    employer: Octo
+    status: agent
+    employer: GIP Inclusion
 startups:
   - l-immersion-facile
 badges:
