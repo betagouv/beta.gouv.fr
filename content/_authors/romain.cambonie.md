@@ -13,7 +13,6 @@ missions:
     end: 2022-12-31
     status: independent
     employer: Benext
-  missions:
   - start: 2023-01-02
     end: 2023-03-31
     status: independent
