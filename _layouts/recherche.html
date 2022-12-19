@@ -37,14 +37,10 @@ layout: default
         var searchResultList = document.getElementById(category.searchResultListId);
         
         if (results.length) {
-            var appendString = '';
-
-            for (var i = 0; i < results.length; i++) {
-                var item = category.store[results[i].ref];
-                appendString += category.print(item);
-            }
-
-            searchResultList.innerHTML = appendString;
+            searchResultList.innerHTML = results
+                .map(result => category.store[result.ref])
+                .map(startup => category.print(startup))
+                .join('');
             searchResultDiv.style.display = "block";
         } else {
             searchResultList.innerHTML = '';
