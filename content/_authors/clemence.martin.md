@@ -2,7 +2,7 @@
 fullname: Clémence MARTIN
 domaine: Déploiement
 role: Chargée de produit et déploiement
-github : Clem-mrtn
+github: Clem-mrtn
 missions:
   - start: 2021-01-04
     end: 2021-06-29
@@ -13,6 +13,7 @@ missions:
     end: 2023-06-30
 startups:
   - datagir
+  - la.bonne.renov
 badges:
   - segur
 competences:
