@@ -1,5 +1,5 @@
 ---
-title: Mission interministérielle pour l’apprentissage et les trajectoires professionnelles
+title: Mission interministérielle pour l’apprentissage
 owner: 
 logo: logo_beta.png
 website: https://mission-apprentissage.gitbook.io/general/

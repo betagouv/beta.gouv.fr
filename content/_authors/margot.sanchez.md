@@ -37,5 +37,5 @@ previously:
     - transport
     - preuve-de-covoiturage
 teams:
-  - /teams/dinum
+  - /teams/animation-dinum
 ---

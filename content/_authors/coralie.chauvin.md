@@ -10,7 +10,7 @@ missions:
   - status: independent
     employer: Malt
     start: 2022-01-03
-    end: 2022-12-30
+    end: 2024-01-31
 badges:
   - segur
 competences:

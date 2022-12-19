@@ -6,7 +6,7 @@ link: https://kadata.fr
 github: thoomasbro
 missions:
   - start: 2022-01-01
-    end: 2023-01-01
+    end: 2023-06-30
     status: independent
     employer: Malt
 startups:

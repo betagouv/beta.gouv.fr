@@ -1,7 +1,7 @@
 ---
 layout: communaute
 permalink: /communaute/
-title: Découvrez la communauté
+title: Notre communauté
 additional_css:
   - community-chart.css
   - communaute.css

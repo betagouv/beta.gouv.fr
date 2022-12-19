@@ -4,6 +4,7 @@ mission: Faciliter l'obtention d'un diplôme en Validation des Acquis d'Expérie
 sponsors:
     - /organisations/mtei
 incubator: sgmas
+link: https://reva.beta.gouv.fr
 contact: olivier.gerard@beta.gouv.fr
 events: []
 phases:
@@ -17,6 +18,13 @@ phases:
     end: 2021-07-01
   - name: construction
     start: 2021-07-01
+
+techno:
+  - React
+  - TypeScript
+  - NodeJS
+  - Fastify
+  - Scalingo
 usertypes:
   - particulier
 ---

@@ -6,7 +6,7 @@ github: octavemelusyn
 link: https://fr.linkedin.com/in/octavebory
 missions:
   - start: 2021-01-08
-    end: 2023-07-01
+    end: 2023-12-31
     status: independent
     employer: NUMA
 startups:
@@ -24,5 +24,5 @@ competences:
   - Gestion de Produit
   - Croissance
 teams:
-  - /teams/fast
+  - /teams/fast-dinum
 ---

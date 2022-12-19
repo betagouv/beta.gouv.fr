@@ -2,22 +2,25 @@
 layout: default
 ---
 
+{%- assign currents = site.authors | community: 'current', 'oldest' -%}
+{% assign lang = page.lang | default: site.lang | default: "en" %}
+{% assign incubators = site.incubators %}
+
 {%- capture build_date -%}{{ site.time | date:"%Y-%m-%d" }}{%- endcapture -%} {%- assign lang = page.lang | default: site.lang | default: "fr" -%}
-{%- assign current = site.authors | community: 'current' -%}
 {%- assign recent = site.authors | community: 'recent' -%}
 
 {%- include hero-page.html title=page.title -%}
-<section>
+<section class="fr-py-6w">
     <div class="fr-container">
         <div class="fr-grid-row fr-grid-row--gutters">
             <div class="fr-col-12 fr-col-md-6">
                 <div class="chart-wrapper">
-                    <canvas id="member"> Nous avons actuellement {{ current | size }} membres. </canvas>
+                    <canvas id="member"> Nous avons actuellement {{ currents | size }} membres. </canvas>
                 </div>
             </div>
             <div class="fr-col-12 fr-col-md-6">
                 <div class="chart-wrapper">
-                    <canvas id="pie-chart"> Nous avons actuellement {{ current | size }} membres. </canvas>
+                    <canvas id="pie-chart"> Nous avons actuellement {{ currents | size }} membres. </canvas>
                 </div>
             </div>
        </div>
@@ -41,9 +44,6 @@ layout: default
                     <span class="beta-square-list-item">■</span>
                     <strong>{% render_community_stats total %} membres actifs</strong><br>
                     issus du public et du privé.
-                    <a
-                        href="/communaute/annuaire"
-                        class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right fr-mt-2w">Annuaire des membres</a>
                 </p>
             </div>
             <div class="fr-col fr-col-12 fr-col-md-3 beta-list-item">
@@ -52,8 +52,8 @@ layout: default
                     <b>{{ site.incubators.size }} incubateurs</b><br>
                     au sein d'agences déconcentrées, d'opérateurs et de ministères
                     <a
-                        href="#incubateur"
-                        class="fr-btn fr-btn--secondary fr-fi-arrow-down-line fr-btn--icon-right fr-mt-2w">
+                        href="/incubateurs"
+                        class="fr-btn fr-btn--secondary fr-fi-arrow-right-line fr-btn--icon-right fr-mt-2w">
                         Réseaux des incubateurs
                     </a>
                 </p>
@@ -71,47 +71,35 @@ layout: default
         </div>
     </div>
 </section>
-<section class="fr-py-2w fr-pt-4w" id="incubateur">
+
+<section class="fr-py-6w">
     <div class="fr-container">
-        <h2>Notre réseau d'incubateurs</h2>
-        <div class="fr-grid-row fr-grid-row--gutters fr-py-6w">
-            <div class="fr-col fr-col-12 fr-col-md-4">
-                <nav class="fr-sidemenu fr-sidemenu--sticky" role="navigation" aria-label="Menu latéral">
-                    <div class="fr-sidemenu__inner">
-                        <button class="fr-sidemenu__btn" hidden aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
-                        <div class="fr-collapse" id="fr-sidemenu-wrapper">
-                            <div class="fr-sidemenu__title">{{ site.incubators.size }} incubateurs</div>
-                            <ul class="fr-sidemenu__list">
-                                {%- for incubator in site.incubators -%}
-                                <li class="fr-sidemenu__item">
-                                    <a class="fr-sidemenu__link" href="#{{ incubator.id }}" target="_self">
-                                        {{ incubator.title }}
-                                    </a>
-                                </li>
-                                {%- endfor -%}
-                            </ul>
+        <h2>Nos derniers membres arrivés</h2>
+        <div class="authors fr-grid-row fr-grid-row--gutters">
+            {%- for author in currents limit:7 -%}
+            <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
+            {%- endfor -%}
+
+            <div class="fr-col-6 fr-col-md-3">
+                <div class="fr-card">
+                    <div class="fr-card__body">
+                        <div class="fr-card__content">
+                            <div class="fr-card__start">
+                                <h3 class="fr-card__title fr-mb-2w">
+                                    <a href="/communaute/annuaire" target="_blank" rel="noopener" title="Voir plus">Voir les {{ currents | size }} membres actifs</a>
+                                </h3>
+                            </div> 
                         </div>
                     </div>
-                </nav>
-            </div>
-            <div class="fr-col fr-col-12 fr-col-md-8">
-                <div class="fr-grid-row fr-grid-row--gutters">
-                    {%- for incubator in site.incubators -%}
-                    <div class="fr-col-12" id="{{ incubator.id }}">
-                        {%- include card-incubator.html incubator=incubator -%}
-                        {% unless forloop.last %}
-                        <hr class="beta-communaute-hr">
-                        {% endunless %}
-                    </div>
-                    {%- endfor -%}
                 </div>
             </div>
         </div>
     </div>
 </section>
+
 <script type="text/javascript">
- (function() {
-     window.buildDate = '{{ build_date }}';
-     window.data = {% render_community_stats %};
- })();
+(function() {
+    window.buildDate = '{{ build_date }}';
+    window.data = {% render_community_stats %};
+})();
 </script>

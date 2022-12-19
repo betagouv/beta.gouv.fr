@@ -1,9 +1,15 @@
 ---
 title: Avril
 mission: Obtenir un diplôme par la VAE grâce à ses compétences
-sponsors: 
-    - /organisations/pole-emploi
+sponsors:
+  - /organisations/pole-emploi
 incubator: pole-emploi
+link: https://avril.pole-emploi.fr
+repository: https://github.com/StartupsPoleEmploi/avril
+contact: avril@fabrique.social.gouv.fr
+usertypes:
+  - particulier
+stats: true
 phases:
   - name: investigation
     start: 2017-05-01
@@ -11,12 +17,8 @@ phases:
     start: 2017-05-01
   - name: transfer
     start: 2021-06-01
-link: https://avril.pole-emploi.fr
-repository: https://github.com/StartupsPoleEmploi/avril
-stats: true
-contact: avril@fabrique.social.gouv.fr
-usertypes:
-  - particulier
+  - name: success
+    start: 2022-11-30
 ---
 
 ## Avril simplifie la VAE pour tous !

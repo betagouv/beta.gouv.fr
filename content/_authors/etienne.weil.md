@@ -5,9 +5,9 @@ role: Développeur
 github: fitchMitch
 missions:
   - start: 2020-06-02
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
-    employer: octo
+    employer: Little Big Connection
 startups:
   - monstage
 competences:

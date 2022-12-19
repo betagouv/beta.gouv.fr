@@ -5,7 +5,7 @@ domaine: Développement
 github: Guitguitou
 missions:
   - start: 2022-03-07
-    end: 2022-12-31
+    end: 2023-02-28
     status: service
 startups:
   - eva

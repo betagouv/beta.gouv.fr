@@ -20,17 +20,17 @@ missions:
     end: 2021-11-30
     status: independent
   - start: 2021-12-01
-    end: 2022-12-31
+    end: 2023-06-30
     status: independent
     employer: Codeurs en Liberté
 startups:
   - aides.jeunes
-  - lapins
   - data-inclusion
 previously:
   - mes-aides
   - voir-et-localiser
   - data.insertion
+  - lapins
 badges:
   - segur
 ---

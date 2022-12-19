@@ -11,4 +11,4 @@ startups:
   - resorption-bidonvilles
 ---
 
-Designer pour résoudre des problèmes utilisateurs depuis 2010
+Cheffe de projet Résorption-bidonvilles ; Designer UX et graphique

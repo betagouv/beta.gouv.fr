@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://sarah-witt.com/
 missions:
   - start: 2022-03-07
-    end: 2022-12-31
+    end: 2023-05-31
     status: independent
 startups:
   - ellesfontlaculture

@@ -4,7 +4,7 @@ role: Business développeur
 domaine: Déploiement
 missions:
   - start: 2022-04-25
-    end: 2022-12-31
+    end: 2024-01-31
     status: independent
     employer: Octo
 startups:

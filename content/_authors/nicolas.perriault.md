@@ -14,7 +14,7 @@ missions:
     status: independent
     employer: Arolla
   - start: 2021-12-01
-    end: 2022-12-31
+    end: 2023-06-30
     status: independent
     employer: LBC
 startups:

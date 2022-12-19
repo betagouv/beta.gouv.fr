@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: octo
   - start: 2021-01-04
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
     employer: octo
 incubator: sgmas
@@ -24,4 +24,6 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+
 ---
+''

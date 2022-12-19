@@ -1,18 +1,21 @@
 ---
 fullname: Xavier Desoindre
+domaine: Développement
 role: Développeur
-link: https://epicse.fr/
 github: desoindx
+link: https://epicse.fr/
 missions:
   - start: 2021-05-03
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
     employer: UT7
 startups:
   - sante-psy-etudiant
+  - la.bonne.renov
 previously:
   - aides.jeunes
-domaine: Développement
+competences:
+  - Développement Frontend
+  - Développement Backend
 ---
-
 Pianiste sur clavier AZERTY

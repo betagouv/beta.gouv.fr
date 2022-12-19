@@ -5,7 +5,7 @@ role: Product Manager
 github: lkouad
 missions:
   - start: 2021-05-18
-    end: 2022-10-31
+    end: 2024-12-29
     status: independent
 startups:
   - carnet.de.bord

@@ -5,7 +5,7 @@ role: Chargée de produit
 github: annepoirot
 missions:
   - start: 2020-04-03
-    end: 2022-12-31
+    end: 2023-03-01
     status: independent
     employer: LaZone
 startups:

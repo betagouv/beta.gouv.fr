@@ -5,7 +5,7 @@ domaine: Déploiement
 github: Chirazh
 missions:
   - start: 2020-01-01
-    end: 2021-12-31
+    end: 2023-06-30
     status: independent
 startups:
   - domifa
