@@ -1,17 +1,21 @@
 ---
 fullname: Sebastien Le Goff
-role: Lead developer
 domaine: Produit
+role: Lead developer
 github: goffle
 missions:
   - start: 2018-04-01
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
 startups:
-- ozensemble
-- jeveuxaider
-- api-engagement
+  - ozensemble
+  - jeveuxaider
+  - api-engagement
 previously:
-- pop
-- eac   
+  - pop
+  - eac
+competences:
+  - Développement Backend
+  - Développement Frontend
+  - Coaching
 ---
