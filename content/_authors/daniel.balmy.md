@@ -13,8 +13,8 @@ missions:
     employer: ''
 startups:
   - aplus
-  - comobi
 previously:
+  - comobi
   - workinfrance
 github: DanielBMY
 
