@@ -5,13 +5,15 @@ domaine: Développement
 github: adgeg
 missions:
   - start: 2021-07-15
-    end: 2022-12-31
+    end: 2023-12-20
     status: service
     employer: Octo
 startups:
   - l-application-du-cej
 badges:
   - segur
----
 
-Fan d'applications mobiles, de grands débats, de stand-up, de pâtes au pesto. Et du PSG pour le côté beauf.
+---
+>-
+  Fan d'applications mobiles, de grands débats, de stand-up, de pâtes au pesto.
+  Et du PSG pour le côté beauf.
