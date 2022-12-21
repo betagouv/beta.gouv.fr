@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/audrey-houssais/
 github: AudreyH49
 missions:
   - start: 2021-12-13
-    end: 2022-06-30
+    end: 2023-06-30
     status: independent
     employer: ''
 startups:
