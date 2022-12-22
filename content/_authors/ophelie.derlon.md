@@ -8,7 +8,5 @@ missions:
     status: admin
     employer: ''
 startups:
-  - null
-
+  - cnr
 ---
-''
