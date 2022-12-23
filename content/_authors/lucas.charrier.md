@@ -24,7 +24,7 @@ competences:
 teams:
   - /teams/communaute-dinum
 startups:
-  - mes.aides
+  - null
 
 ---
 Développeur Web Fullstack
