@@ -10,7 +10,10 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2022-06-29
-    end: 2022-12-22
+    end: 2022-12-06    
+  - name: construction
+    start: 2022-12-07
+    end: 2023-06-30    
 ---
 ## C﻿ontexte
 
