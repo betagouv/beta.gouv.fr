@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: 'Octo '
 startups:
-  - null
+  - aides-territoires
 competences:
   - Communication
 
