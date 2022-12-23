@@ -25,6 +25,7 @@ teams:
   - /teams/communaute-dinum
 startups:
   - mes.aides
+  - cadransolaire
 
 ---
 Développeur Web Fullstack
