@@ -5,12 +5,12 @@ domaine: Développement
 github: rtaieb
 missions:
   - start: 2021-09-01
-    end: 2023-01-24
+    end: 2023-06-29
     status: independent
     employer: Pathtech
 startups:
   - mobilic
 badges:
   - segur
----
 
+---
