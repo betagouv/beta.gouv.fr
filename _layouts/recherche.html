@@ -5,6 +5,11 @@ layout: default
 <div class="fr-container fr-py-6w">
     <h1 id="search-page-title">Résultat(s) de la recherche</h1>
 
+    <div id="search-results-incubators">
+        <h2 class="fr-h3 fr-pt-4w" id="search-results-incubators-title">Aucun incubateur</h2>
+        <ul id="search-results-incubators-list" class="fr-raw-list"></ul>
+    </div>
+
     <div id="search-results-realisations">
         <h2 class="fr-h3 fr-pt-4w" id="search-results-realisations-title">Aucune réalisation</h2>
         <ul id="search-results-realisations-list" class="fr-raw-list"></ul>
@@ -92,7 +97,50 @@ layout: default
         {% endfor %}   
     };
 
+    const incubators = [
+        {% for incubator in site.incubators %} {
+        id: "{{incubator.id}}".replace('/incubators/', ''),
+        title: "{{incubator.title}}",
+        owner: "{{incubator.owner}}",
+        website: "{{incubator.website}}",
+        contact: "{{incubator.contact}}",
+        address: "{{incubator.address}}",
+        github: "{{incubator.github}}",
+        url: "/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}"
+        },
+        {% endfor %}
+    ];
+
     const categories = [
+        {
+            name: 'Incubateur(s)',
+            searchResultId: 'search-results-incubators',
+            searchResultTitleId: 'search-results-incubators-title',
+            searchResultListId: 'search-results-incubators-list',
+            print: function(incubator) {
+                return '<li><a class="fr-link fr-fi-arrow-right-line fr-link--icon-left" href="' + incubator.url + '">' + incubator.title + '</a></li>';
+            },
+            idx: lunr(function () {
+                this.field('title', { boost: 10 });
+                this.field('owner');
+                this.field('website');
+                this.field('contact');
+                this.field('address');
+                this.field('github');
+                for (var key in incubators) { 
+                    this.add({
+                        'id': key,
+                        'title': incubators[key].title,
+                        'owner': incubators[key].owner,
+                        'website': incubators[key].website,
+                        'contact': incubators[key].contact,
+                        'address': incubators[key].address,
+                        'github': incubators[key].github
+                    });
+                }
+            }),
+            store: incubators
+        },
         {
             name: 'Réalisation(s)',
             searchResultId: 'search-results-realisations',
