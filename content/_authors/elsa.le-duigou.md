@@ -19,5 +19,7 @@ startups:
   - collectif_objets
 badges:
   - segur
+teams:
+  - /teams/animation-dinum
 ---
 
