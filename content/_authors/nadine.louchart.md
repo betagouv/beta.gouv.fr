@@ -1,6 +1,6 @@
 ---
 fullname: Nadine Louchart
-role: Intrapreneuse - Product Owner
+role: Product Manager / Product Owner
 domaine: Produit
 missions:
   - start: 2023-01-09
