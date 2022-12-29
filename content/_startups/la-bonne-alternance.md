@@ -1,5 +1,5 @@
 ---
-title: La Bonne Alternance
+title: La bonne alternance
 mission: Faciliter la mise en relation entre jeunes, entreprises et CFA
 sponsors:
   - /organisations/menjs
