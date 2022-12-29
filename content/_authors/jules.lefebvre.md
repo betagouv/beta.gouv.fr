@@ -4,10 +4,12 @@ domaine: Développement
 role: Data Analyst
 missions:
   - start: 2021-11-22
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
+    employer: ''
 startups:
   - data.insertion
 competences:
   - Développement Backend
+
 ---

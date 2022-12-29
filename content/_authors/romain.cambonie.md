@@ -13,6 +13,10 @@ missions:
     end: 2022-12-31
     status: independent
     employer: Benext
+  - start: 2023-01-02
+    end: 2023-03-31
+    status: independent
+    employer: Octo
 startups:
   - l-immersion-facile
 previously: 
@@ -21,4 +25,4 @@ badges:
   - segur
 ---
 
-Développeur le jour, développeur la nuit, Ops les weekends et jours fériés.
+Sauvons la planête, un commit à la fois :) !

@@ -3,12 +3,14 @@ fullname: Pierre-Antoine Duchateau
 role: Développeur Produit
 domaine: Développement
 github: paduc
-link:
+link: null
 missions:
   - start: 2020-02-11
-    end: 2022-12-30
+    end: 2023-06-15
     status: independent
     employer: Benext/Malt
 startups:
-    - potentiel
+  - potentiel
+
 ---
+''
