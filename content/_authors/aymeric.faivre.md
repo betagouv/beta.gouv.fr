@@ -11,14 +11,16 @@ missions:
     status: independent
     employer: La Zone
   - start: 2020-12-01
-    end: 2022-12-31
+    end: 2023-06-29
     status: independent
     employer: La Zone
 startups:
   - classe-a-12
+  - devoirs-faits-communaute
 previously:
   - mon-entreprise
 competences:
   - UX
   - UI
+
 ---
