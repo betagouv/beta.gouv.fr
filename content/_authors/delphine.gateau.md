@@ -7,7 +7,7 @@ missions:
   - start: 2022-12-20
     end: 2023-03-20
     status: independent
-    employer: DINUM
+    employer: Malt
 startups:
   - tchap
 memberType: beta
