@@ -4,9 +4,11 @@ role: product owner
 domaine: Produit
 missions:
   - start: 2022-04-06
-    end: 2022-12-30
+    end: 2023-12-31
     status: admin
+    employer: ''
 badges:
   - segur
----
 
+---
+''

@@ -4,13 +4,16 @@ domaine: Développement
 role: Dev
 github: niladic
 missions:
-  - end: 2022-12-31
-    start: 2020-02-03
+  - start: 2020-02-03
+    end: 2023-12-31
     status: independent
+    employer: ''
 startups:
   - aplus
 competences:
   - Développement Backend
   - Développement Frontend
   - Administration Système
+
 ---
+''

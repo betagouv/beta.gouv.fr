@@ -8,11 +8,12 @@ missions:
     status: service
     employer: Ministère des armées
   - start: 2022-11-01
-    end: 2023-01-07
+    end: 2023-12-31
     status: independent
     employer: Malt
 startups:
   - tchap
 previously:
   - les-alpps
+
 ---

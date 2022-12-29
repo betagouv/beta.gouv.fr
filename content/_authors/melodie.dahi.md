@@ -26,6 +26,7 @@ missions:
     employer: dinum
 startups:
   - pass.engagement.jeune
+  - valorisation.des.stages.pro
 previously:
   - setaccords
   - territoires-en-transitions
