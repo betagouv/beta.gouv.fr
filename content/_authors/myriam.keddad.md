@@ -5,7 +5,7 @@ domaine: Déploiement
 github: MYRIAMKEDDAD
 missions:
   - start: 2022-02-16
-    end: 2022-06-30
+    end: 2023-06-30
     status: independent
     employer: SCOPYLEFT
 startups:
