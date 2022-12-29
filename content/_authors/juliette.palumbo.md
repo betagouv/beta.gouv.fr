@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: lazone/scopyleft
   - start: 2021-07-01
-    end: 2023-06-27
+    end: 2023-06-30
     status: independent
     employer: lazone/scopyleft
 startups:
@@ -21,3 +21,4 @@ competences:
   - Communication
 
 ---
+''
