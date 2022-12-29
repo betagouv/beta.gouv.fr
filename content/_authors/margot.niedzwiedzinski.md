@@ -5,7 +5,7 @@ domaine: Déploiement
 github: Margotnied
 missions:
   - start: 2022-05-09
-    end: 2022-12-31
+    end: 2023-01-31
     status: independent
     employer: null
 startups:

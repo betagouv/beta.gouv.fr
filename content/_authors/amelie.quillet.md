@@ -2,6 +2,7 @@
 fullname: Amélie Quillet
 domaine: Déploiement
 role: Chargée de déploiement
+github: ameliequillet
 missions:
   - start: 2021-03-22
     end: 2023-12-31
@@ -15,4 +16,5 @@ badges:
   - segur
 competences:
   - Communication
+  - Croissance
 ---
