@@ -319,10 +319,6 @@ main .fr-container img {
 
 /* Sous-titre de carte */
 
-.h1-card__title-subtitle {
-  margin-top: -0.5rem;
-}
-
 .job-team-animation-container {
   width: 100%;
   position: relative;
