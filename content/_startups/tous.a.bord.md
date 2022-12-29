@@ -6,7 +6,7 @@ sponsors:
   - /organisations/mtfp
   - /organisations/dgitm
 incubator: dinum
-contact: breanne.mallat@beta.gouv.fr
+contact: tousabord@beta.gouv.fr
 accessibility_status: non conforme
 events: []
 phases:

@@ -116,16 +116,6 @@ layout: default
                 <option value="{{ phase.status }}" id="{{phase.status}}-option">{{ phase.label }}</option>
             {% endfor %}
         </select>
-        <div class="fr-search-bar" id="search-input">
-            <label class="fr-label" for="search-input-input">Rechercher une start-up</label>
-            <input class="fr-input" placeholder="Rechercher" type="search" id="search-input-input" name="search-input-input">
-            <div class="fr-btn" title="Rechercher"></div>
-        </div>
-    </div>
-
-    <div id="results-container" style="display: none;" class="fr-py-3w">
-        <h3 id="results-container-title">Résultats de la recherche</h3>
-        <ul id="results-container-list"></ul>
     </div>
 </section>
 {% for incubator in incubators %}
@@ -141,7 +131,7 @@ layout: default
             <div class="fr-col">
                 <div>
                     <h1 class="fr-card__title">{{ incubator.title }}</h1>
-                    <p class="h1-card__title-subtitle">{{ organisation.name }}</p>
+                    <p class="fr-card__title-subtitle">{{ organisation.name }}</p>
                     <div class="markdown">{{ incubator.content }}</div>
                 </div>
             </div>
@@ -186,29 +176,6 @@ layout: default
 
 <!-- Filtres -->
 <script>
-    if (typeof (String.prototype.trim) === "undefined") {
-        String.prototype.trim = function () {
-            return String(this).replace(/^\s+|\s+$/g, '');
-        };
-    }
-
-    var searchInput = document.getElementById('search-input-input');
-    var resultsContainer = document.getElementById('results-container');
-    var resultsTitle = document.getElementById('results-container-title');
-
-    var searchFunction =  function (e) {
-        var searchContent = searchInput.value.trim();
-        if (searchContent != '') {
-            resultsContainer.style.display = 'block';
-            resultsTitle.innerText = 'Résultat de la recherche - "' + searchContent + '"';
-        } else {
-            resultsContainer.style.display = 'none';
-            resultsTitle.innerText = 'Résultat de la recherche';
-        }
-    }
-
-    searchInput.addEventListener('input', searchFunction);
-
     var selectPhase = document.getElementById('select-phase');
     selectPhase.addEventListener('change', function (e) {
         var url = new URL(location.href);
@@ -219,19 +186,7 @@ layout: default
     });
 </script>
 
-<!-- Script pointing to search-script.js -->
-<script src="/assets/additional/js/search-script.js" type="text/javascript"></script>
 <script src="/assets/additional/js/search-startup.js" type="text/javascript"></script>
-<!-- Configuration -->
-<script>
-    SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container-list'),
-        searchResultTemplate: "<li><a class=\"fr-card__link\" href=\"{url}\">{title}</a> - {mission}</li>",
-        noResultsText: "<li>Aucun résultat trouvé</li>",
-        json: '/search.json'
-    })
-</script>
 <script>
     var urlParams = new URLSearchParams(window.location.search);
     var incubatorValue = urlParams.get('incubateur');

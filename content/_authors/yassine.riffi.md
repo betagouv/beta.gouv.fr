@@ -5,7 +5,7 @@ role: Développeur
 github: pYassine
 missions:
   - start: 2020-03-15
-    end: 2022-12-31
+    end: 2023-06-30
     status: independent
     employer: benext
 startups:
@@ -13,4 +13,6 @@ startups:
 competences:
   - Développement Backend
   - Développement Frontend
+
 ---
+''
