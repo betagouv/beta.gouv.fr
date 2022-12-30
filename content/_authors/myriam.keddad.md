@@ -14,4 +14,3 @@ badges:
   - segur
 
 ---
-''
