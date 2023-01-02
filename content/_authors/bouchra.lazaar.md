@@ -5,7 +5,7 @@ role: Chargée de déploiement
 github: bouchralazaar
 missions:
   - start: 2021-08-27
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
     employer: Scopopop
 startups:
