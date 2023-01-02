@@ -4,15 +4,18 @@ domaine: Déploiement
 role: Chargé de déploiement
 github: Jonathan2051
 missions:
-  - employer: octo
-    end: 2023-01-31
-    start: 2020-07-20
+  - start: 2020-07-20
+    end: 2023-04-29
     status: independent
+    employer: octo
 startups:
   - codedutravail
-  - fiche.commune.entreprise.fce
-  - tchap
+  - annuaire-entreprises
+  - deveco
 competences:
   - Communication
+
 ---
-« La principale difficulté n’est pas de produire un film, un livre ou un site web, mais d’attirer l’attention du public ». Yves Citton, philosophe
+>-
+  « La principale difficulté n’est pas de produire un film, un livre ou un site
+  web, mais d’attirer l’attention du public ». Yves Citton, philosophe
