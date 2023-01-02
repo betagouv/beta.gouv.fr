@@ -10,7 +10,7 @@ phases:
     start: 2022-09-04
     end: 2022-10-31
   - name: construction
-    start: 2022-01-02
+    start: 2023-01-02
 ---
 ## Contexte
 Un grand nombre d’affectations ne serait pas adapté aux personnes détenues. Or, l’article 130-1 du Code
