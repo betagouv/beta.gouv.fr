@@ -4,7 +4,6 @@ mission: Garantir à chaque détenu la co-construction d’un projet d’exécut
 sponsors:
   - /organisations/mj
 incubator: justice
-contact: 
 phases:
   - name: investigation
     start: 2022-09-04
