@@ -10,7 +10,7 @@ missions:
     end: 2023-12-31
     status: service
     employer: lazone
-startups: []
+startups:
 previously:
   - egalite.professionnelle
   - classe-a-12
