@@ -9,7 +9,9 @@ events: []
 phases:
   - name: investigation
     start: 2021-07-09
-    end: ""
+    - name: alumni
+    start: 2022-12-30
+
 ---
 ## Le problème: une inefficience dans la collecte et le reversement de la taxe de séjour par les plateformes numériques
 
