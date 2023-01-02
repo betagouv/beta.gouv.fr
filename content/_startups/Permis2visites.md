@@ -22,3 +22,16 @@ L’activité de recherche et de rangement des permis de visite est chronophage 
 Une absence de contrôle pourrait occasionner des situations d’usurpation d’identité (un visiteur non autorisé se fait passer pour un proche détenant un permis de visite), avec un impact sur la sécurité des personnes ou le bon déroulement des affaires en cours de traitement par la justice. 
 L’investigation devra permettre d’évaluer l’ampleur du problème (limité à quelques établissements ou partagé largement) et d’identifier les leviers permettant d’améliorer l’efficience de la phase de contrôle des permis de visite.
 
+## Apprentissages
+Beaucoup de temps perdus pour la gestion des permis de visite (estimation : 40 000 heures chaque année, équivalent d’1M€)
+Accueil parloir qui peut manquer de fluidité avec les permis de visite cartonnés
+L’introduction de la liste parloir Genesis crée de la redondance avec les informations sur les permis de visite (il ne manque que la photo)
+Un risque de sécurité qui semble limité
+
+## Solution
+P2V Mobilités propose aux agents parloirs de réaliser l’appel des familles et de contrôler les permis de visite depuis une interface mobile (type tablette).
+Bénéfices :
+- Suppression des activités de recherche et rangement des permis de visite (gain de temps)
+- Un accueil des familles plus fluide (moins de manipulation de documents)
+
+Un projet d'expérimentation, piloté par ANJE (Ministère de la Justice), est en phase d'étude. 
