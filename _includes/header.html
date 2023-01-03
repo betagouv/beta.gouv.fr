@@ -88,11 +88,22 @@
                     </div>
                 </li>
               {% for item in site.data.menu.nav %}
-              {% assign target = site.pages | where:"path",item.target | first %}
-              <li class="fr-nav__item {% if target and page.url contains target.url %}fr-nav__item--active{% endif %}">
-                  <a class="fr-nav__link" href="{{ target.url }}" {% if target and page.url contains target.url %}aria-current="page"{% endif %}>{{ item.label }}</a>
-              </li>
-              {% endfor %}
+                <li class="fr-nav__item {% if item.target and page.url contains item.target %}fr-nav__item--active{% endif %}">
+                  <a
+                      class="fr-nav__link"
+                      href="{{ item.target }}"
+                      {% if item.target and page.url contains item.target %}
+                      aria-current="page"
+                      {% endif %}
+                      {% if item.external %}
+                      target="_blank"
+                      rel="noopener"
+                      {% endif %}
+                  >
+                    {{ item.label }}
+                  </a>
+                </li>
+                {% endfor %}
           </ul>
       </nav>
     </div>

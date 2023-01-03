@@ -3,19 +3,21 @@ title:
 nav:
   -
     label: Brigade
-    target: _pages/brigade.md
+    target: /brigade
   -
     label: Incubateurs
-    target: _pages/incubateurs.md
+    target: /incubateurs
   -
     label: Réalisations
-    target: _pages/startups.md
+    target: /startups
   -
     label: Communauté
-    target: _pages/communaute.md
+    target: /communaute
   -
-    label: Recrutement
-    target: _pages/recrutement.md
+    label: Nous rejoindre
+    external: true
+    target: https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv
+
 shortcuts:
   -
     label: Documentation
