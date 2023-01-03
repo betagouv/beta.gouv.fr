@@ -6,7 +6,7 @@ redirect_from:
 title: Nous contacter
 ---
 ## Faire un retour sur un service
-Les coordonnées des équipes sont accessibles sur la page de chaque service numérique. Trouvez celui qui concerne votre demande sur la page de [nos Réalisations](/startups). 
+Les coordonnées des équipes sont accessibles sur la page de chaque service numérique. Trouvez celui qui concerne votre demande sur la page de [nos Réalisations](/startups).
 
 ## Établir un partenariat avec beta.gouv.fr
 
@@ -44,11 +44,12 @@ Vous souhaitez accélérer votre transition numérique en mobilisant vos agents 
 
 > Vous êtes le témoin d’irritants récurrents pour les usagers ou les agents ? Vous avez une idée de solution numérique pouvant y remédier ? Vous êtes prêts à vous investir six mois autour d’une équipe mobilisée pour réussir ? Rendez-vous le…
 
-Nous pouvons vous aider à organiser cet évènement interne, sélectionner les innovateurs à haut potentiel, et les accompagner dans leur réussite. Ils pourront participer, avec nous à une [phase d'investigation](https://beta.gouv.fr/approche/investigation). D’une durée de 6 à 9 semaines, cette phase vise à faire émerger des projets d'amélioration du service public, à préciser l’ampleur du problème visé et à présenter des premiers éléments de solution pour le résoudre. 
+Nous pouvons vous aider à organiser cet évènement interne, sélectionner les innovateurs à haut potentiel, et les accompagner dans leur réussite. Ils pourront participer, avec nous à une [phase d'investigation](https://beta.gouv.fr/approche/investigation). D’une durée de 6 à 9 semaines, cette phase vise à faire émerger des projets d'amélioration du service public, à préciser l’ampleur du problème visé et à présenter des premiers éléments de solution pour le résoudre.
 
 ## Rejoindre les équipes de beta.gouv.fr
 
-Consultez notre [page Recrutement](/recrutement) ou transmettez nous une candidature spontanée à recrutement@beta.gouv.fr. 
+Consultez les offres disponibles sur [notre profil WelcomeToTheJungle](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv) ou transmettez-nous une candidature spontanée à [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr).
+
 Vous pouvez aussi nous suivre sur Twitter à [@BetaGouv](https://twitter.com/BetaGouv).
 
 ## Proposer une idée de service public numérique
