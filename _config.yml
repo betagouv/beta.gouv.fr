@@ -59,6 +59,9 @@ copy_to_dest:
   - source: node_modules/@gouvfr/dsfr/dist/.
     target: assets/gouvfr/
 
+keep_files:
+  - assets/gouvfr
+
 excerpt_separator: <!--more-->
 
 # Collections
