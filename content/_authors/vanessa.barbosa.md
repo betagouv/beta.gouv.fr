@@ -5,9 +5,10 @@ domaine: Intraprenariat
 github: VBarbosaMSS
 missions:
   - start: 2022-02-01
-    end: 2023-01-31
+    end: 2023-04-29
     status: admin
+    employer: ''
 startups:
   - Mon-suivi-social
----
 
+---
