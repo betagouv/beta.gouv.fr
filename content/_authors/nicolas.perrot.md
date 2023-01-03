@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: lazone/scopyleft
   - start: 2021-10-05
-    end: 2023-01-30
+    end: 2023-06-29
     status: independent
     employer: lazone
 github: NicolasPerrot1
@@ -16,4 +16,5 @@ startups:
   - dedale
 previously:
   - cartobio
+
 ---
