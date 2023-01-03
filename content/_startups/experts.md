@@ -26,4 +26,4 @@ Dotons les juridictions d’un outil pour la sélection éclairée et la désign
 
 ## Stratégie
 
-À 6 mois : Expérimenter l’outil à Metz, Nantes et Nancy et valider l’objectif de réduction du taux de refus de 40% à 20% et diviser par 2 le temps de désignation d’un expert (voir objectifs en annexe)
+À 6 mois : Expérimenter l’outil à Metz, Nantes et Nancy et valider l’objectif de réduction du taux de refus de 40% à 20% et diviser par 2 le temps de désignation d’un expert
