@@ -50,7 +50,8 @@ exclude: [
   "requirements.txt",
   "Procfile",
   "package.json",
-  "package-lock.json"
+  "package-lock.json",
+  "spec"
 ]
 
 empty_placeholder: "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"

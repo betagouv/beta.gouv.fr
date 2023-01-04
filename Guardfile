@@ -10,6 +10,9 @@ guard :rspec, cmd: 'bundle exec rspec' do
   watch(rspec.spec_support) { rspec.spec_dir }
   watch(rspec.spec_files)
 
+  # RSpec for lib files
+  watch(%r{^lib/(.+)\.rb$}) { |m| "spec/lib/#{m[1]}_spec.rb" }
+
   # Watch Jekyll plugins
   watch(%r{^_plugins/(.+)\.rb$}) { |m| "spec/plugins/#{m[1]}_spec.rb" }
 
