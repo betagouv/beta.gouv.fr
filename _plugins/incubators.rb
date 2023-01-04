@@ -25,7 +25,8 @@ module Jekyll
                .data['phases']
                .map { |p| p['name'] }
 
-      !DONE_PHASES.intersect?(phases)
+      # no done phase = startup is still active
+      DONE_PHASES.intersection(phases).empty?
     end
   end
 
