@@ -33,7 +33,7 @@ jobs:
       run: pip3 install -r requirements.txt
 
     - name: Unit tests
-      run: ruby -e "Dir.glob('rb/test/*.rb').each { |f| require File.expand_path(f) }"
+      run: bundle exec rspec
 
     - name: Check author metadata
       run: ruby bin/validate schema/authors.yml "content/_authors/*.md"
