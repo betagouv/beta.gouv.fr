@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/sebastienhoffmann/
 github: lespetitssuisses
 missions:
   - start: 2021-07-16
-    end: 2022-12-31
+    end: 2023-06-30
     status: independent
 ---
 
