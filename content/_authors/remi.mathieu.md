@@ -6,9 +6,10 @@ missions:
   - start: 2022-12-14
     end: 2023-06-30
     status: independent
+    employer: ''
 startups:
   - snu
 memberType: beta
----
 
+---
 Chargé d'animation SNU
