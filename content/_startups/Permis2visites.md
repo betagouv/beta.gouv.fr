@@ -7,8 +7,8 @@ incubator: justice
 contact: Octave.nivan@justice.fr
 accessibility_status: non conforme
 events:
-  - name: other
-    date: 2022-06-29
+  - name: end
+    date: 2022-10-31
 phases:
   - name: investigation
     start: 2022-09-04
