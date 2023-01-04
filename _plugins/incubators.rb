@@ -1,4 +1,34 @@
+# frozen_string_literal: true
+
 module Jekyll
+  module IncubatorFilter
+    DONE_PHASES = %w[alumni end success].freeze
+
+    def active_incubators(incubators)
+      startups_by_incubators = @context
+                               .registers[:site]
+                               .collections['startups']
+                               .docs
+                               .group_by { |s| s.data['incubator'] }
+
+      incubators.select do |i|
+        id = i.data['slug']
+
+        startups_by_incubators[id]&.any? { |s| startup_active?(s) }
+      end
+    end
+
+    private
+
+    def startup_active?(startup)
+      phases = startup
+               .data['phases']
+               .map { |p| p['name'] }
+
+      !DONE_PHASES.intersect?(phases)
+    end
+  end
+
   class RenderIncubatorsApi < Liquid::Tag
     def render(context)
       result = {}
@@ -39,5 +69,6 @@ module Jekyll
     end
   end
 end
-  
-  Liquid::Template.register_tag('render_incubators_api', Jekyll::RenderIncubatorsApi)
+
+Liquid::Template.register_filter(Jekyll::IncubatorFilter)
+Liquid::Template.register_tag('render_incubators_api', Jekyll::RenderIncubatorsApi)
