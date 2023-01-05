@@ -9,7 +9,9 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - data inclusion
----
+  - data-inclusion
 
-Façonneur de schéma et plombier des données au GIP de l'inclusion. Basé à Rennes.
+---
+>-
+  Façonneur de schéma et plombier des données au GIP de l'inclusion. Basé à
+  Rennes.
