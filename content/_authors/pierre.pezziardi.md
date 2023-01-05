@@ -9,6 +9,10 @@ missions:
   - end: 2019-07-31
     start: 2013-07-01
     status: independent
+  - end: 2022-11-01
+    start: 2023-11-01
+    status: admin
+    employer: DINUM
 previously:
   - aplus
   - psi
