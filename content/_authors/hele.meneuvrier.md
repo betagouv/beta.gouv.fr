@@ -1,5 +1,5 @@
 ---
-fullname: Hélè MENEUVRIER
+fullname: Hélène MENEUVRIER
 role: Développeuse
 domaine: Développement
 github: hmeneuvrier
