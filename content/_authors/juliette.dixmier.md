@@ -2,14 +2,14 @@
 fullname: Juliette Dixmier
 domaine: Déploiement
 github: JDixmier
-role: Chargée de déploiement
+role: Intrapreneuse
 missions:
   - start: 2021-08-23
     end: 2023-12-31
     status: independent
     employer: Octo
 startups:
-  - tchap
+  - messagerie.instantanee.sante
 badges:
   - segur
 competences:
@@ -18,4 +18,3 @@ competences:
   - Croissance
 
 ---
-''
