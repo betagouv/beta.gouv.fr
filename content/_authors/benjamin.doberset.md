@@ -13,8 +13,6 @@ missions:
     end: 2024-06-27
     status: admin
     employer: La Fabrique Numérique
-startups:
-  - dedale
 previously:
   - demarches-simplifiees.fr
   - peps
@@ -27,4 +25,5 @@ competences:
   - Croissance
 teams:
   - /teams/mtes
+
 ---
