@@ -12,6 +12,7 @@ startups:
   - non-recours-spie
   - T2BJustice
   - Permis2visites
+  - mobicouts
 competences:
   - Coaching
 
