@@ -6,6 +6,9 @@ missions:
   - start: 2022-12-12
     end: 2023-05-30
     status: admin
+    employer: ''
 memberType: autre
----
+startups:
+  - jafer
 
+---
