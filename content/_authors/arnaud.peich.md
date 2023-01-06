@@ -8,7 +8,7 @@ missions:
     end: 2023-01-06
     status: independent
     employer: Scopyleft
-startups:
+previously:
   - données-et-territoires
 ---
 
