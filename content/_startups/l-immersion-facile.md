@@ -14,6 +14,11 @@ stats_url: https://immersion-facile-1.gitbook.io/la-page-stats-de-immersion-faci
 phases:
   - name: construction
     start: 2021-07-16
+  - name: accélération
+    start: 2022-05-31   
+events: 
+  - name: national_impact
+    date: 2021-12-31
 usertypes:
   - particulier
 ---
