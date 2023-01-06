@@ -2,8 +2,8 @@
 title: "Communauté de l'inclusion (ITOU)"
 mission: Faciliter les échanges entre acteurs de l’inclusion
 sponsors:
+  - /organisations/pole-emploi
   - /organisations/mtei
-  - /organisations/dgefp
 incubator: gip-inclusion
 stats: true
 link: https://communaute.inclusion.beta.gouv.fr/

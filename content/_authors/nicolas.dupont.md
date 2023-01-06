@@ -10,10 +10,12 @@ missions:
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
   - start: 2021-10-13
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
 startups:
+  - open-terms-archive
+previously:
   - disinfo
 ---
 

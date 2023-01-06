@@ -1,8 +1,9 @@
 ---
 title: data inclusion
 mission: le référentiel ouvert et partagé des solutions d'insertion
-sponsors: 
-  - /organisations/dgefp
+sponsors:
+  - /organisations/pole-emploi
+  - /organisations/mtei
 incubator: gip-inclusion
 link: https://www.data.gouv.fr/fr/datasets/referentiel-de-loffre-dinsertion-liste-des-structures-et-services-dinsertion/
 repository: ""
@@ -10,6 +11,8 @@ contact: data.inclusion@beta.gouv.fr
 phases:
   - name: investigation
     start: 2022-03-17
+  - name: construction
+    start: 2022-06-30   
 ---
 data inclusion est un référentiel commun de toutes les données de l’offre d’insertion des territoires afin de permettre à tous les services recensant et mettant en visibilité ces offres d’être interopérables et de mutualiser les efforts de recensement et de mise à jour. 
 

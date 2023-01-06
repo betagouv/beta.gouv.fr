@@ -23,7 +23,7 @@ previously:
   - aidantsconnect
   - tchap
 teams:
-  - /teams/dinum
+  - /teams/animation-dinum
 ---
 
 Minimum effort, maximum impact.

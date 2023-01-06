@@ -1,15 +1,19 @@
 ---
 fullname: Célestin Leroux
-role: PO
 domaine: Produit
+role: Responsable produit
+github: celestinleroux
 missions:
   - start: 2022-03-21
-    end: 2022-12-30
+    end: 2023-04-01
     status: independent
     employer: MALT / ANCT
-github: celestinleroux
 startups:
   - conseiller-numerique
+  - cartographie.nationale
+competences:
+  - Gestion de Produit
+  - UX
+  - Développement Frontend
 ---
-
 J'essaye de glisser le plus loin possible sur la banquise

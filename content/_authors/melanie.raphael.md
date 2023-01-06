@@ -7,7 +7,7 @@ avatar: https://avatars.githubusercontent.com/u/97455880?v=4
 link: https://fr.linkedin.com/in/melanieraphael 
 missions:
   - start: 2022-01-05
-    end: 2022-12-31
+    end: 2022-11-30
     status: independent
     employer: Solstice
 startups:

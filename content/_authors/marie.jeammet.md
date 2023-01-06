@@ -1,16 +1,19 @@
 ---
 fullname: Marie Jeammet
-role: Développeuse back-end
+role: Développeuse web
 domaine: Développement
-link: https://mjeammet.github.io/
 github: mjeammet
 missions:
   - start: 2022-09-05
     end: 2023-12-31
     status: admin
     employer: DINUM
+startups:
+  - tous.a.bord
+previously:
+  - cnr
 badges:
   - segur
 ---
 
-Développeuse back-end et rôliste !
+Développeuse back-end. Carbure à la programmation et aux lancers de d20. 

@@ -20,6 +20,10 @@ phases:
   - name: construction
     start: 2021-09-01
     comment: Construction sur un périmètre de juridictions restreint.
+  - name: acceleration
+    start: 2022-11-30
+    comment: "Passage en accélération : amélioration continue du produit et
+      augmentation du nombre d'utilisateurs. "
 ---
 <!--StartFragment-->
 
@@ -61,7 +65,6 @@ En effet, même si la durée globale d’une affaire dépend significativement d
 
 La diminution de la durée des procédures nécessite donc l’adaptation des moyens affectés à leur traitement aux besoins de justice locaux.
 
-
 ***Le problème des juridictions* : comment répondre au mieux aux besoins de justice locaux ?**  
 
 Les tribunaux sont des organisations complexes, devant traiter un volume et une diversité considérables de contentieux¹, en mobilisant des effectifs nombreux et diversifiés².
@@ -74,11 +77,11 @@ Or, si la durée de traitement des procédures est particulièrement suivie par 
 
 ## **La solution en construction**
 
-***Lancement de la construction***
+***Lancement de la phase d'accélération***
 
 Suite à l’investigation menée début 2021, la construction a démarré le 1er septembre 2021. Le sponsor est le chef de l’Inspection Générale de la Justice.
 
-L’équipe dédiée travaille en autonomie à la co-construction avec des juridictions test d’une première version du service.
+L﻿e passage en phase d'accélération a été validé fin novembre 2022.
 
 ***L’objectif***
 
@@ -87,14 +90,6 @@ A-JUST vise à offrir aux justiciables des délais plus courts de prise en charg
 Pour cela, A-JUST a pour objectif de permettre aux juridictions de visualiser et d’anticiper l’impact de leurs affectations d’effectifs sur les délais de prise en charge des contentieux.
 
 Visualisation, corrélation, simulation… A-JUST se définit comme un outil  d’aide à la décision et de prospective.
-
-
-***Les premières étapes***
-
-L’équipe A-JUST se concentre sur l’expérimentation, sur un périmètre réduit, dans quelques tribunaux judiciaires, de la possibilité de :
-* visualiser en temps réel les effectifs de la juridiction et leur affectation par contentieux
-* calculer et afficher deux indicateurs (capacité de traitement, délai) parlants pour l’ensemble des acteurs (juridiction, citoyens…)
-* simuler l'impact d'une variation d'effectifs sur la capacité et les délais de traitement des contentieux.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

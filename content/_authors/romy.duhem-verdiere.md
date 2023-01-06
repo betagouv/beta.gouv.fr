@@ -8,9 +8,12 @@ missions:
     end: 2022-06-30
     status: service
     employer: octo
-startups:
-  - l-application-du-cej
+  - start: 2022-11-01
+    end: 2023-06-30
+    status: service
+    employer: octo
 previously:
+  - l-application-du-cej
   - acceslibre
   - monstage
   - pass-culture

@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: LaureEnjelvin
 missions:
   - start: 2020-12-01
-    end: 2023-12-01
+    end: 2022-12-08
     status: admin
     employer: DGALN
 startups:

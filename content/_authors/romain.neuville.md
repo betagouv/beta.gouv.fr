@@ -5,11 +5,13 @@ domaine: Développement
 github: Holist
 missions:
   - start: 2022-09-01
-    end: 2022-12-31
+    end: 2023-06-30
     status: independent
     employer: Octo
 startups:
   - lapins
----
 
-Développeur Full Stack multi casquettes (Sys/NetAdmin, amateur de jeux de société, danseur...)
+---
+>-
+  Développeur Full Stack multi casquettes (Sys/NetAdmin, amateur de jeux de
+  société, danseur...)

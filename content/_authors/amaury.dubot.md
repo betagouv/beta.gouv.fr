@@ -5,7 +5,7 @@ role: Chargé de déploiement
 github: amaurydubot
 missions:
   - start: 2021-03-01
-    end: 2022-11-30
+    end: 2023-05-31
     status: independent
     employer: Octo
 startups:

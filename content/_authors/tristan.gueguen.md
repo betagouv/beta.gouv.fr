@@ -5,7 +5,7 @@ domaine: Développement
 github: tristan-gueguen
 missions:
   - start: 2022-02-07
-    end: 2022-11-08
+    end: 2023-01-31
     status: service
     employer: Pathtech
 startups:

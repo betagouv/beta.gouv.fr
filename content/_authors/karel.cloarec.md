@@ -26,16 +26,14 @@ missions:
     status: independent
     employer: NUMA
   - start: 2021-02-03
-    end : 2023-01-01
+    end : 2023-12-01
     status: independent
     employer: LBC
 startups:
   - deveco
   - guichet-entreprises-nc
   - monstage
-  - rdv.mjd
-  - frise.cpip
-  - conventionnement.iae
+  - chantiers.agiles
 previously:
   - andi
   - urbanvitaliz
@@ -44,6 +42,9 @@ previously:
   - anct-pni-14
   - anct-pni-40
   - ethique.en.sante.numerique
+  - conventionnement.iae
+  - rdv.mjd
+  - frise.cpip
 badges:
   - segur
 competences:

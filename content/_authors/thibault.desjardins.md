@@ -5,7 +5,7 @@ role: Chargé de déploiement
 github: Tibo-aplus
 missions:
   - employer: octo
-    end: 2022-12-31
+    end: 2023-12-31
     start: 2019-10-01
     status: independent
 startups:

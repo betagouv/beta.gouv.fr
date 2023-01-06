@@ -14,6 +14,8 @@ missions:
     employer: dinum
 startups:
   - tchap
+  - authentification
+  - audioconf
 previously:
   - aplus
   - signalement

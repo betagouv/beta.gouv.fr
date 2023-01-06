@@ -5,7 +5,7 @@ domaine: Développement
 link: https://www.linkedin.com/in/adrien-zemour/
 missions:
   - start: 2022-01-03
-    end: 2023-01-01
+    end: 2023-12-01
     status: independent
     employer: Fabrique numérique des ministères sociaux
 startups:

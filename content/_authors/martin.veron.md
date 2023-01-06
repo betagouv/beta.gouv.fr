@@ -9,4 +9,4 @@ missions:
     employer: ANSSI (SGDSN)
 ---
 
-Homme de terrain, aime le concret et obsédé par l'impact
+Délégué Sécurité Numérique ANSSI Nouvelle-Aquitaine

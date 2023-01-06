@@ -31,27 +31,30 @@
             {{ author.role }}
           {%- endif -%}
 
-          <p class="fr-card__desc">
-            {{ author.content | strip_html }}
-          </p>
 
-          {% assign empty_array = "" | split: "," %}
-          {% assign startups = author.startups | default: empty_array %}
-          {% assign previously = author.previously | default: empty_array %}
-          {% assign all_startups = startups | concat: previously %}
+          {%- unless include.hide_details -%}
+            <p class="fr-card__desc">
+              {{ author.content | strip_html }}
+            </p>
 
-          {% unless all_startups == empty %}
-            <div class="startups">
-              <ul class="fr-tags-group">
-                {% for startup in all_startups, limit: 4 %}
-                  {% assign startup_id = "/startups/" | append: startup %}
-                  {% assign this_startup = site.startups | find: "id", startup_id %}
-                  <li>
-                    <a class="fr-tag" href="{{ this_startup.url }}" target="_self">{{ this_startup.title }}</a>
-                  </li>
-                {% endfor %}
-              </ul>
-            </div>
+            {% assign empty_array = "" | split: "," %}
+            {% assign startups = author.startups | default: empty_array %}
+            {% assign previously = author.previously | default: empty_array %}
+            {% assign all_startups = startups | concat: previously %}
+
+            {% unless all_startups == empty %}
+              <div class="startups">
+                <ul class="fr-tags-group">
+                  {% for startup in all_startups, limit: 4 %}
+                    {% assign startup_id = "/startups/" | append: startup %}
+                    {% assign this_startup = site.startups | find: "id", startup_id %}
+                    <li>
+                      <a class="fr-tag" href="{{ this_startup.url }}" target="_self">{{ this_startup.title }}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            {% endunless %}
           {% endunless %}
       </div>
     </div>

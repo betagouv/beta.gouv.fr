@@ -12,7 +12,8 @@ badges:
   - segur
 startups:
   - notifications
+  - tous.a.bord
 
 ---
 
-Développeur JS, et la nuit je parle allemand
+Développeur JS, passion cybersécurité

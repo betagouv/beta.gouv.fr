@@ -2,7 +2,7 @@
 title: "Emplois de l'inclusion (ITOU)"
 mission: "Favoriser la réussite pour tous"
 sponsors:
-  - /organisations/dgefp
+  - /organisations/pole-emploi
   - /organisations/mtei
 incubator: gip-inclusion
 contact: assistance@inclusion.beta.gouv.fr 

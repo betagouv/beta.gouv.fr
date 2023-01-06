@@ -4,7 +4,7 @@ role: Intrapreneuse - product manager
 domaine: Intraprenariat
 missions:
   - start: 2017-04-01
-    end: 2022-12-31
+    end: 2023-06-30
     status: admin
     employer: pole-emploi
 startups:

@@ -6,7 +6,7 @@ github: tut-tuuut
 link: https://www.corelka.fr/
 missions:
   - start: 2021-01-05
-    end: 2022-11-30
+    end: 2023-01-31
     status: independent
     employer: Malt
 startups:

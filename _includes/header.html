@@ -39,6 +39,20 @@
               {% endfor %}
             </ul>
           </div>
+
+          <div class="fr-header__search fr-modal" id="header-search" data-fr-js-modal="true" data-fr-js-header-modal="true">
+            <div class="fr-container fr-container-lg--fluid">
+              <form id="header-search-main" method="get" action="/recherche" role="search" class="fr-search-bar">
+                <label class="fr-label" for="search">
+                    Recherche
+                </label>
+                <input class="fr-input" placeholder="Rechercher" type="search" id="search" name="q">
+                <button class="fr-btn" title="Rechercher">
+                    Rechercher
+                </button>
+              </form>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -67,6 +81,9 @@
                             <li>
                                 <a class="fr-nav__link" href="/devenir-intrapreneur" target="_self">Devenir Intrapreneur</a>
                             </li>
+                            <li>
+                              <a class="fr-nav__link" href="/manifeste" target="_self">Découvrir notre manifeste</a>
+                          </li>
                         </ul>
                     </div>
                 </li>

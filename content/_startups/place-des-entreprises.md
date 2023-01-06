@@ -4,7 +4,7 @@ mission: "Mettre en relation les TPE & PME et le bon interlocuteur"
 sponsors:
   - /organisations/dge
   - /organisations/dgefp
-incubator: bercy
+incubator: dinum
 phases:
   - name: investigation
     start: 2017-04-03

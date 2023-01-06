@@ -5,7 +5,7 @@ domaine: Développement
 github: tumulte
 missions:
   - start: 2022-09-05
-    end: 2022-12-05
+    end: 2022-11-01
     status: independent
     employer: Octo
 startups:

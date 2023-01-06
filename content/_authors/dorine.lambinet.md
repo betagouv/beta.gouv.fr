@@ -5,7 +5,7 @@ domaine: Design
 github: DorineLam
 missions:
   - start: 2019-01-21
-    end: 2022-12-20
+    end: 2023-12-20
     employer: dinum
     status: admin
 startups:

@@ -599,15 +599,15 @@ collections:
         name: mission
         widget: string
         required: true
-      - label: Rédiger sa fiche equipe
+      - label: Rédiger sa fiche équipe
         name: body
         widget: markdown
-        hint: "N'hésite pas à te référer aux autres fiches equipes présentes sur le site beta.gouv"
+        hint: "N'hésite pas à te référer aux autres fiches équipes présentes sur le site beta.gouv"
         default: >
           Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
       - label: Incubateur
         label_singular: Incubateur
-        hint: "A quel incubateur cette equipe est-elle rattachée"
+        hint: "A quel incubateur cette équipe est-elle rattachée"
         name: incubator
         <<: *relation_default_options
         collection: incubators

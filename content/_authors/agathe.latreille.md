@@ -11,7 +11,7 @@ missions:
   - status: independent
     employer: "Octo "
     start: 2020-01-01
-    end: 2022-12-31
+    end: 2025-12-01
 startups:
   - dora
   - data-inclusion

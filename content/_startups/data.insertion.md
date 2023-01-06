@@ -3,7 +3,8 @@ title: data.insertion
 mission: Améliorer les parcours d’insertion en facilitant la circulation de
   données entre les acteurs
 sponsors:
- - /organisations/dgefp
+  - /organisations/pole-emploi
+  - /organisations/mtei
 incubator: gip-inclusion
 link: https://www.rdv-insertion.fr/
 repository: https://github.com/betagouv/rdv-insertion

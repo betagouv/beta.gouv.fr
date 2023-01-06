@@ -10,6 +10,7 @@ missions:
     employer: DINUM
 startups:
   - 1000.jours
+  - 1000.premiers.jours.blues
 competences:
   - Développement Frontend
   - Développement Backend

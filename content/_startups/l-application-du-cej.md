@@ -7,7 +7,7 @@ sponsors:
 incubator: sgmas
 link: https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune
 repository: https://github.com/SocialGouv/pass_emploi_app
-contact: contact@pass-emploi.gouv.fr
+contact: contact@pass-emploi.beta.gouv.fr
 usertypes:
   - particulier
   - etat

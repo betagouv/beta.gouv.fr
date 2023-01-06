@@ -33,20 +33,20 @@ jobs:
       run: pip3 install -r requirements.txt
 
     - name: Unit tests
-      run: ruby -e "Dir.glob('rb/test/*.rb').each { |f| require File.expand_path(f) }"
+      run: bundle exec rspec
 
     - name: Check author metadata
-      run: ruby rb/bin/validate rb/schema/authors.yml "content/_authors/*.md"
+      run: ruby bin/validate schema/authors.yml "content/_authors/*.md"
 
     - name: Check startup metadata
-      run: ruby rb/bin/validate rb/schema/startups.yml "content/_startups/*.md"
+      run: ruby bin/validate schema/startups.yml "content/_startups/*.md"
 
     - name: Check organisation metadata
-      run: ruby rb/bin/validate rb/schema/organisations.yml "content/_organisations/*.md"
+      run: ruby bin/validate schema/organisations.yml "content/_organisations/*.md"
 
     - name: "Check authors file name structure (first_name.last_name.md)"
       run: |
-            if ls content/_authors | grep --line-regexp --invert-match '[a-z_-]\+\.[a-z_-]\+\.md'
+            if ls content/_authors | grep --line-regexp --invert-match '[a-z_.-]\+\.[a-z_.-]\+\.md'
             then cat <<EOF
               One or more authors do not have the expected structure.
               Contact a website administrator if your generated author file breaks the validator.

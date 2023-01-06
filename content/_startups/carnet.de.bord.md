@@ -3,7 +3,8 @@ title: Carnet de bord
 mission: "Faciliter la vie des personnes en insertion et de celles et ceux qui
   les accompagnent "
 sponsors:
-  - /organisations/dgefp
+  - /organisations/pole-emploi
+  - /organisations/mtei
 incubator: gip-inclusion
 link: https://carnet-de-bord.fabrique.social.gouv.fr/
 repository: https://github.com/SocialGouv/carnet-de-bord
@@ -63,22 +64,4 @@ Nous espérons aussi que notre outil permette à l'usager de retrouver la maîtr
 * Le respect de la logique du « dites-le nous une fois » pour éviter le découragement des usagers ;
 * La prise en compte de la fracture numérique avec des évolutions fonctionnelles en continu pilotées par l’impact.
 
-## Feuille de route
-
-**D'ici fin 2022, nous visons les objectifs suivants :** 
-
-* Réaliser l’accompagnement des BRSA de bout en bout sur 2 départements (de la phase d'orientation jusqu'aux fins de mandat / cas de réorientation, en passant par la pose du diagnostic et la signature du CER) ; 
-* Couvrir de nouveaux cas d’usage du SPIE (ex : accompagnement du public de Cap emploi, création de carnet pour les demandeurs d’emploi longue durée, public concerné par l'accompagnement global, etc…) sur 3 départements ; 
-* Poursuivre des expérimentations en visant une dizaine de territoires testant l'outil sur différents cas d'usage. 
-
-**Afin d'atteindre ces objectifs, nous allons œuvrer à :**
-
-* Permettre l’articulation des fonctions « d’orientation » , de « diagnostic » et d’accompagnement pour que Carnet de bord permette la prise en charge et l'accompagnement des bénéficiaires « de bout en bout » ; 
-* Enrichir les fonctionnalité de Carnet de bord avec les offres des startups d’État du SPIE (notamment Dora sur la cartographie de l'offre, Immersion facilitée sur les PMSMP ou RDV-Insertion sur l'invitation à prendre rendez-vous des BRSA) ; 
-* Favoriser l’autonomie et le pouvoir d’agir des personnes accompagnées, ce chantier se traduisant notamment par l'ouverture et l'enrichissement de « l'entrée usager » (chaque usager va pouvoir être acteur de son parcours grâce à sa propre interface Carnet de bord).
-
-## Adoptez Carnet de bord dans votre territoire
-
-Vous voulez tester Carnet de bord sur votre territoire ? Vous souhaitez savoir comment opérer concrètement le service ? Nous sommes à votre disposition ! 
-
-> ### **Inscrivez-vous à une démo en cliquant [ici](https://docs.google.com/forms/d/e/1FAIpQLSc035Uma5dJYWnim8q1g97C03b19O7nusr5QBXVEeQnvTS3og/viewform?usp=sf_link)** 
+### [Contactez l'équipe pour une démo du service](https://docs.google.com/forms/d/e/1FAIpQLSc035Uma5dJYWnim8q1g97C03b19O7nusr5QBXVEeQnvTS3og/viewform)

@@ -5,7 +5,7 @@ domaine: Développement
 github: maxgfr
 missions:
   - start: 2021-08-30
-    end: 2022-10-31
+    end: 2023-06-01
     status: independent
     employer: Octo
 startups:

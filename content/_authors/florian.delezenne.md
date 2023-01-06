@@ -25,7 +25,7 @@ previously:
 badges:
   - segur
 teams:
-  - /teams/dinum
+  - /teams/animation-dinum
 ---
 
 [Cliquez ici pour améliorer cette bio]

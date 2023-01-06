@@ -11,7 +11,7 @@ missions:
     status: independent
     employer: Octo
   - start: 2022-09-01
-    end: 2022-12-31
+    end: 2023-05-31
     status: independent
     employer: Scopyleft
   - start: 2022-10-17
@@ -21,6 +21,7 @@ missions:
 startups:
   - cartobio
   - dialogue
+  - place-des-entreprises
 competences:
   - UX
   - UI

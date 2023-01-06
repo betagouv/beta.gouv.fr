@@ -1,14 +1,25 @@
 ---
 title: Les UVF à l'heure du numérique
-mission: Moderniser l'instruction et l'accès à l'Unité de Vie Familiale 
-sponsors: 
- - /organisations/mj 
+mission: Moderniser l'instruction et l'accès à l'Unité de Vie Familiale
+sponsors:
+  - /organisations/mj
 incubator: justice
-phases: 
-  - name: investigation
-    start: 2022-06-29   
-stats: false
 contact: laurent.paturaud@justice.fr
+stats: false
+events:
+  - name: committee
+    date: 2022-06-29
+    comment: Kick-off de l'investigation
+  - name: committee
+    date: 2022-11-30
+    comment: Comité d'investigation, avis non-concluant pour un passage en phase de
+      construction, poursuite dans un cadre local
+phases:
+  - name: investigation
+    start: 2022-06-29
+    end: 2022-11-30
+    comment: Avis non-concluant pour un passage en phase de construction, poursuite
+      dans un cadre local
 ---
 
 ## Contexte

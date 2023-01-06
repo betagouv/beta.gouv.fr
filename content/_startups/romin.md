@@ -1,18 +1,28 @@
 ---
 title: ROMIN
-mission: Faciliter l'accès et l'utilisation des outils d'intervention en Service Pénitentiaire d'Insertion et de Probation (SPIP)
+mission: Faciliter l'accès et l'utilisation des outils d'intervention en Service
+  Pénitentiaire d'Insertion et de Probation (SPIP)
 sponsors:
   - /organisations/mj
 incubator: justice
+repository: https://github.com/betagouv/romin/
 contact: mathieu.le-bouler@justice.fr
 accessibility_status: non conforme
 events:
-  - name: other
+  - name: committee
     date: 2022-06-29
+    comment: Kick-off de l'investigation
+  - name: committee
+    date: 2022-11-17
+    comment: Comité d'investigation, avis concluant pour un passage en phase de
+      construction
 phases:
   - name: investigation
     start: 2022-06-29
-    end: 2022-10-31
+    end: 2022-11-17
+    comment: Investigation concluante pour un passage en phase de construction
+  - name: construction
+    start: 2022-11-17
 ---
 ## Contexte
 
@@ -27,3 +37,23 @@ Cette méthodologie suppose une adaptation des pratiques professionnelles en SPI
 Cette implémentation exige pour les professionnels de pouvoir visualiser 👀 la faisabilité générale de la méthodologie du R.P.O.1. Cela passe notamment par l'accès garanti à des outils d'intervention potentiels permettant de dynamiser l'accompagnement des personnes en cours de désistance.
 
 **Afin de conforter les professionnels quant à l'efficacité de leurs interventions et valoriser leur engagement, l'accès réel à des outils maniables, compréhensibles et vérifiés constitue une exigence à laquelle nous allons répondre.**
+
+## Solution en chantier
+
+En pratique, je suis CPIP, j'évalue le profil de la personne condamnée que j'accompagne puis nous définissons ensemble un plan d'accompagnement. 
+
+Quels outils vais-je utiliser pour chacun des facteurs de risque à travailler?
+Je consulte ROMIN: 1 seul critère à renseigner: le facteur de risque sélectionné.
+
+J'accède à l'ensemble des outils d'intervention répertoriés. Je consulte la fiche outil, je prends connaissance du temps nécessaire à la mise en oeuvre, du mode d'emploi et je télécharge les supports nécessaires.
+Je peux consulter et partager moi-même mon expérience de l'outil en question.
+
+## Prochaines étapes
+
+Rédaction des premières fiches outils par des CPIP de terraine essentiellement.
+
+Construction d'un premier portail numérique de test.
+
+Expérimentation auprès de 4 SPIP
+
+Evaluation de l'appropriation de ROMIN par les CPIP et corrections

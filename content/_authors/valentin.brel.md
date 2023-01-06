@@ -5,7 +5,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/valentin-brel-8b400888/
 missions:
   - start: 2021-01-25
-    end: 2022-12-31
+    end: 2024-12-31
     status: independent
     employer: Octo
 startups:

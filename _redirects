@@ -1,6 +1,4 @@
 # Réécrire les anciens liens vers les pages startups, incubateurs et alpha
-/incubateur/*  /startups/?incubateur=:splat
-/incubateurs/*  /startups/?incubateur=:splat
 /startup/*  /startups/:splat
 /alpha/mooc/*  /approche/formation/mooc/:splat
 

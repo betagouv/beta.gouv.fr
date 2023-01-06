@@ -9,7 +9,7 @@ missions:
     end: 2019-12-04
     status: independent
   - start: 2019-12-11
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
 startups:
   - mon-entreprise

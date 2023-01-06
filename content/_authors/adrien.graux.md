@@ -5,7 +5,7 @@ domaine: Développement
 github: adriengraux
 missions:
   - start: 2021-11-08
-    end: 2022-12-30
+    end: 2023-03-31
     status: service
     employer: Octo
 startups:

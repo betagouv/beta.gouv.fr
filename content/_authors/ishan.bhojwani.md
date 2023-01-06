@@ -35,5 +35,5 @@ previously:
 badges:
   - segur
 teams:
-  - /teams/dinum
+  - /teams/animation-dinum
 ---

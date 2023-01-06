@@ -1,7 +1,7 @@
 ---
 fullname: Celia Aubry
-role: UX/UI Designer
 domaine: Design
+role: UX/UI Designer
 missions:
   - start: 2022-01-01
     end: 2023-06-30
@@ -9,4 +9,8 @@ missions:
     employer: Pôle emploi
 startups:
   - encyclopedie-des-metiers
+  - competence.validee
+competences:
+  - UX
+  - UI
 ---

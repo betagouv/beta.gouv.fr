@@ -1,7 +1,7 @@
 ---
 roles: (SysSecDev)Ops
 startup: Démarches Simplifiées
-open: true
+open: false
 date: 2022-09-06T10:00:00.0Z
 ---
 

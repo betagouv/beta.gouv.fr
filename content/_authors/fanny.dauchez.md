@@ -1,7 +1,7 @@
 ---
 fullname: Fanny Dauchez
 domaine: Déploiement
-role: Chargée de déploiement
+role: Responsable partenariat
 github: FannyDauchez
 link: https://www.linkedin.com/in/fanny-dauchez-9b466461/
 missions:
@@ -15,13 +15,19 @@ missions:
   - status: independent
     start: 2021-07-05
     end: 2023-12-30
+  - status: admin
+    start: 2022-05-01
+    end: 2025-10-31
+teams:
+  - /teams/gip-inclusion
 previously:
   - itou
   - place-de-marche-inclusion
+  - brigade-du-numérique
 badges:
   - segur
 competences:
   - Gestion de Produit
   - Croissance
 ---
-@Brigade du Numérique
+@Plateforme de l'inclusion

@@ -12,12 +12,14 @@ missions:
     start: 2022-03-15
     end: 2023-12-31
     status: admin
+startups:
+  - sparte
+  - authentification
+  - cnr
 previously:
   - tchap
 badges:
   - segur
 ---
 
-Brigade d'Intervention Numérique de BetaGouv
 
-Et retrouvez-moi sur Tchap !

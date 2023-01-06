@@ -5,7 +5,7 @@ domaine: Développement
 github: devthejo
 missions:
   - start: 2020-12-07
-    end: 2022-12-07
+    end: 2023-12-01
     status: independent
     employer: Benext
 startups:

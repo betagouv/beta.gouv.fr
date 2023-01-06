@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Octo
 incubator: sgmas
-startups:
+previously:
   - dora
 competences:
   - Communication

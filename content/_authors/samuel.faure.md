@@ -9,12 +9,12 @@ missions:
     status: admin
     employer: dinum
   - start: 2021-09-01
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
     employer: octo
 startups:
     - api-entreprise
 ---
 
-Rails, Vue.js, Fun and games.
+Rails, Music, Fun and games.
 Such experience, much skill, very work.

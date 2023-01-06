@@ -30,19 +30,20 @@ L'objectif de l'Usine à chatbots est de redonner l'autonomie aux métiers en le
 
 ## Objectifs
 
-* Décharger les agents des questions-réponses choronophages et répétitives
-* Créer un chatbot internet facilement et rapidement sans avoir de connaissances techniques (puis intradef)
-* Pouvoir personnaliser, enrichir et maintenir la base de connaissance du chatbot 
-* Disposer d'une vision globale des chatbots créés au sein du ministère
+* Offrir une solution clé en main, facile à utiliser pour les agents, sans besoin de connaissance technique
+* Décharger les agents des questions-réponses chronophages et répétitives pour qu’ils puissent consacrer plus de temps sur des tâches à plus forte valeur ajoutée
+* Pouvoir personnaliser, faire vivre et maintenir la base de connaissance 
+* Disposer d’une vision globale des chatbots créés au sein du ministère
+
 
 ## Chronologie
 
 **étape 1** (février 2020)
-cadrage du projet, entretiens avec des bots manager
+cadrage du projet, entretiens avec des bots manager<br>
 Livrable : parcours de création de chatbot et de l’interface de gestion
 
 **étape 2** (mars-avril 2020)
-réalisation des wireframes
+réalisation des wireframes<br>
 Livrable : wireframes
 
 **étape 3** (avril 2020)
@@ -61,15 +62,15 @@ homologation bot marine
 homologation de l'usine à chatbots
 
 **étape 8** (juin 2022)
-atterrissage du bot marine sur Intradef
+atterrissage du bot marine sur Intradef (Préproduction)
 
-**étape 9** (octobre 2022)
+**étape 9** (Fin 2022)
 ouverture du service au public sur Intradef
 
 
-## Résultats
+## Livrables
 
-L'usine à chatbot est composée de 6 produits numériques :
+L'Usine à chatbots est composée de 6 produits numériques :
 
 * Un [site vitrine (internet)](https://chatbot.fabnum.fr/) qui présente le produit
 * Une [documentation](https://fabrique-a-chatbots.gitbook.io/fabrique-a-chatbots/)

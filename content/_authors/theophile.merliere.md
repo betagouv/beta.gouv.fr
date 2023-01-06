@@ -3,7 +3,7 @@ domaine: Développement
 github: tmerlier
 missions:
   - start: 2016-06-20
-    end: 2022-12-31
+    end: 2023-06-30
     status: independent
     employer: Living Data
 previously:

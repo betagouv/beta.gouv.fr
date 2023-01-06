@@ -7,7 +7,7 @@ avatar: https://i.goopics.net/pZwkP.jpg
 link: https://totakoko.com
 missions:
   - start: 2018-11-13
-    end: 2022-12-01
+    end: 2023-01-01
     status: independent
     employer: octo
 startups:

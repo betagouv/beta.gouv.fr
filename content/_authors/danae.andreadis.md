@@ -4,7 +4,7 @@ role: Customer Success
 domaine: Autre
 missions:
   - start: 2022-01-03
-    end: 2022-12-30
+    end: 2023-04-30
     status: independent
     employer: DINUM
 startups:

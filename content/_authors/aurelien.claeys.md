@@ -5,7 +5,7 @@ role: Intrapreneur "Impact"
 github: Yenyenc
 missions:
   - start: 2022-01-03
-    end: 2022-12-31
+    end: 2023-12-31
     status: admin
     employer: Direction Générale des Entreprises (DGE)
 badges:
@@ -15,4 +15,6 @@ competences:
   - Gestion de Produit
 startups:
   - plateforme.impact
+
 ---
+null

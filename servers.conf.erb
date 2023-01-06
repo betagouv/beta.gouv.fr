@@ -13,8 +13,6 @@ server {
   index index.html;
 
   # _redirects
-  rewrite ^/incubateur/(.*)$ $scheme://$http_host/startups/?incubateur=$1 redirect;
-  rewrite ^/incubateurs/(.*)$ $scheme://$http_host/startups/?incubateur=$1 redirect;
   rewrite ^/startup/(.*)$ $scheme://$http_host/startups/$1 redirect;
   rewrite ^/alpha/mooc/(.*)$ $scheme://$http_host/approche/formation/mooc/$1 redirect;
 

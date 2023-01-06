@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% assign lang = page.lang | default: site.lang | default: "en" %}
+{%- assign incubators = site.incubators -%}
+
+<section class="section-blue section-main">
+    <div class="fr-container fr-my-6w">
+        <h1>Notre réseau d'incubateurs</h1>
+    </div>
+</section>
+
+<section class="fr-py-2w fr-pt-4w" id="incubateur">
+    <div class="fr-container">
+        {%- for incubator in site.incubators -%}
+            <div id="{{ incubator.id }}">
+                {%- include card-incubator.html incubator=incubator -%}
+                {% unless forloop.last %}
+                <hr class="beta-communaute-hr">
+                {% endunless %}
+            </div>
+        {%- endfor -%}
+    </div>
+</section>

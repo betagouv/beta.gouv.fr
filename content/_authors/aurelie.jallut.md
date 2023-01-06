@@ -6,7 +6,7 @@ github: Aurelie-J
 link: http://www.marquedefabrique.net
 missions:
   - start: 2019-11-12
-    end: 2022-12-31
+    end: 2023-02-28
     status: independent
 startups:
     - données-et-territoires

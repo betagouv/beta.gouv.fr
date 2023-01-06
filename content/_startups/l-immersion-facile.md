@@ -3,8 +3,8 @@ title: Immersion facilitée
 mission: Augmenter le nombre d'immersions professionnelles pour les personnes
   éloignées de l'emploi
 sponsors:
-  - /organisations/dgefp
   - /organisations/pole-emploi
+  - /organisations/mtei
 incubator: gip-inclusion
 link: https://immersion-facile.beta.gouv.fr/
 repository: https://github.com/betagouv/l-immersion-facile
@@ -14,6 +14,11 @@ stats_url: https://immersion-facile-1.gitbook.io/la-page-stats-de-immersion-faci
 phases:
   - name: construction
     start: 2021-07-16
+  - name: acceleration
+    start: 2022-05-31   
+events: 
+  - name: national_impact
+    date: 2021-12-31
 usertypes:
   - particulier
 ---

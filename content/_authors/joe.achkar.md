@@ -7,7 +7,7 @@ avatar:
 link: https://www.linkedin.com/in/joeachkar/
 missions:
   - start: 2020-05-18
-    end: 2022-12-31
+    end: 2024-01-31
     status: independent
     employer: octo
 startups:
