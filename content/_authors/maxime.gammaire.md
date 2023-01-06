@@ -10,6 +10,8 @@ missions:
     employer: Ministère de la Justice
 badges:
   - segur
+startups:
+  - T2BJustice
 
 ---
 Greffier correctionnel - TJ MARSEILLE
