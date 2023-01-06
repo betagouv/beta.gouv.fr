@@ -8,6 +8,8 @@ missions:
     end: 2023-02-28
     status: admin
     employer: MEAE
+teams:
+- /teams/atelier_meae
 ---
 
 Responsable de l'Atelier numérique du MEAE
