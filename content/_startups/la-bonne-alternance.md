@@ -12,7 +12,7 @@ phases:
     start: 2018-03-19
   - name: construction
     start: 2018-03-19
-  - name: accélération
+  - name: acceleration
     start: 2020-12-31   
 events: 
   - name: national_impact
