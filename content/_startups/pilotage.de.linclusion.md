@@ -13,7 +13,7 @@ contact: contact@inclusion.beta.gouv.fr
 phases:
   - name: construction
     start: 2020-06-01
-  - name: accélération
+  - name: acceleration
     start: 2022-05-31   
 events: 
   - name: national_impact
