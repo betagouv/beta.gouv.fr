@@ -1,7 +1,7 @@
 ---
 fullname: Thibaud Chambert-Loir
 domaine: Animation
-role: Chargé de déploiement transverse Incubateur des Territoires
+role: Chargé de déploiement transverse - Incubateur des Territoires
 missions:
   - start: 2021-01-18
     end: 2022-12-31
