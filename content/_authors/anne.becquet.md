@@ -1,7 +1,7 @@
 ---
 fullname: Anne Becquet
 role: Intrapreneuse
-domaine: Intraprenariat
+domaine: independent
 github: Anne-Becquet
 missions:
   - start: 2020-01-01
