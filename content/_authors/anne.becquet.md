@@ -1,12 +1,12 @@
 ---
 fullname: Anne Becquet
 role: Intrapreneuse
-domaine: independent
+domaine: Intraprenariat
 github: Anne-Becquet
 missions:
   - start: 2020-01-01
     end: 2023-06-30
-    status: intrapreneuse
+    status: independent
 startups:
   - tdb-apprentissage
   - la-bonne-alternance
