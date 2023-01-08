@@ -6,13 +6,12 @@ github: Anne-Becquet
 missions:
   - start: 2020-01-01
     end: 2023-06-30
-    status: independent
+    status: intrapreneuse
 startups:
-  - catalogue-apprentissage
-  - Trajpro
-  - uai_siret
   - tdb-apprentissage
   - la-bonne-alternance
+ previously:
+  - catalogue-apprentissage
+  - uai_siret
   - voeux-apprentissage
-  - sirius
 ---
