@@ -28,84 +28,84 @@ layout: default
 {% assign content = split_by_ul | join: '<ul class="fr-pl-4w"' %}
 
 {% capture incubator_info %}
-{% if phase.status == 'success' %}
-  L'équipe a été portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>
-{% else %}
-  L'équipe est portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>
-{% endif %}
+  {% if phase.status == 'success' %}
+    L'équipe a été portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>
+  {% else %}
+    L'équipe est portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>
+  {% endif %}
 {% endcapture %}
 
 {% capture sponsor_info %}
-L'équipe est sponsorisée par
-{% for sponsorId in page.sponsors %}
-  {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
-  {% if forloop.index > 1 %}, {% endif %}{{sponsor.name}}
-{% endfor %}
+  L'équipe est sponsorisée par
+  {% for sponsorId in page.sponsors %}
+    {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
+    {% if forloop.index > 1 %}, {% endif %}{{sponsor.name}}
+  {% endfor %}
 {% endcapture %}
 
 {% capture contact_info %}
-{% if page.contact %}
-  <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
-{% else %}
-  <em><a href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
-{% endif %}
+  {% if page.contact %}
+    <a href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
+  {% else %}
+    <em><a href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
+  {% endif %}
 {% endcapture %}
 
 {% capture statistiques_info %}
-Les statistiques d'usage
-{% if page.stats %}
-  <a href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">sont disponibles</a>.
-{% else %}
-  <em>ne sont pas encore disponibles.</em>
-{% endif %}
+  Les statistiques d'usage
+  {% if page.stats %}
+    <a href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">sont disponibles</a>.
+  {% else %}
+    <em>ne sont pas encore disponibles.</em>
+  {% endif %}
 {% endcapture %}
 
 {% capture source_info %}
-Le code source
-{% if page.repository %}
-  <a href="{{ page.repository }}">est libre</a>.
-{% else %}
-  <em>n'est pas encore ouvert.</em>
-{% endif %}
+  Le code source
+  {% if page.repository %}
+    <a href="{{ page.repository }}">est libre</a>.
+  {% else %}
+    <em>n'est pas encore ouvert.</em>
+  {% endif %}
 {% endcapture %}
 
 {% capture budget_info %}
-{% if page.budget_url %}
-Le budget <a href="{{ page.budget_url }}">est ouvert</a>.
-{% else %}
-L’équipe ne communique pas encore sur son budget.
-{% endif %}
+  {% if page.budget_url %}
+    Le budget <a href="{{ page.budget_url }}">est ouvert</a>.
+  {% else %}
+    L’équipe ne communique pas encore sur son budget.
+  {% endif %}
 {% endcapture %}
 
 {% capture techno_info %}
-Technologies utilisées : {{ page.techno | join: ", " }}
+  Technologies utilisées : {{ page.techno | join: ", " }}
 {% endcapture %}
 
 {% capture analyse_risques %}
-{% if page.analyse_risques_url %}
-<li>L'équipe a réalisé un atelier <a href="{{ page.analyse_risques_url }}" title="Analyse de risques de {{ page.title }}"> d'analyse de risques</a>.</li>
-{% elsif page.analyse_risques %}
-  <li>L'équipe a réalisé un atelier d'analyse de risques mais ne le rend pas encore public.</li>
-{% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
-<li>L'équipe <em>n'a pas encore réalisé ou publié son atelier d'analyse de risques.</em></li>
-{% endif %}
+  {% if page.analyse_risques_url %}
+    <li>L'équipe a réalisé un atelier <a href="{{ page.analyse_risques_url }}" title="Analyse de risques de {{ page.title }}"> d'analyse de risques</a>.</li>
+  {% elsif page.analyse_risques %}
+    <li>L'équipe a réalisé un atelier d'analyse de risques mais ne le rend pas encore public.</li>
+  {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
+    <li>L'équipe <em>n'a pas encore réalisé ou publié son atelier d'analyse de risques.</em></li>
+  {% endif %}
 {% endcapture %}
 
 {% capture dashlord %}
-Le suivi des bonnes pratiques de ce produit
-{% if page.dashlord_url %}
-  est disponible sur <a href="{{ page.dashlord_url }}" title="Dashlord de {{ page.title }}"> Dashlord</a>.
-{% else %}
-  <em>n'est pas encore disponible sur <a href="https://dashlord.incubateur.net" title="Dashlord">Dashlord</a>.</em>
-{% endif %}
+  Le suivi des bonnes pratiques de ce produit
+  {% if page.dashlord_url %}
+    est disponible sur <a href="{{ page.dashlord_url }}" title="Dashlord de {{ page.title }}"> Dashlord</a>.
+  {% else %}
+    <em>n'est pas encore disponible sur <a href="https://dashlord.incubateur.net" title="Dashlord">Dashlord</a>.</em>
+  {% endif %}
 {% endcapture %}
 
 {% capture accessibilite %}
-{% if page.accessibility_status %}
-<li>Le statut d'accessibilité du produit est : <em>{{ page.accessibility_status }}</em></li>
-{% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
-<li>Le statut d'accessibilité du produit est : <em>non-conforme</em></li>
-{% endif %}
+  {% if page.accessibility_status %}
+    <li>Le statut d'accessibilité du produit est : <em>{{ page.accessibility_status }}</em></li>
+  {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
+    <li>Le statut d'accessibilité du produit est : <em>non-conforme</em></li>
+  {% endif %}
 {% endcapture %}
 
 <div class="fr-py-6w section-grey">
@@ -154,49 +154,49 @@ Le suivi des bonnes pratiques de ce produit
 </section>
 
 {% if page.rgpd %}
-<section class="fr-py-6w section-white">
-  <div class="fr-container fr-py-6w">
-    <h2>Protection des données personnelles</h2>
-    <div class="fr-callout">
+  <section class="fr-py-6w section-white">
+    <div class="fr-container fr-py-6w">
+      <h2>Protection des données personnelles</h2>
+      <div class="fr-callout">
         <ul>
           <li>Le responsable du traitement est : <b>{{ page.rgpd.responsable }}</b></li>
           {% if page.rgpd.finalites %}
-          <li>Le traitement a pour finalité(s) :
-            <ul>
-              {% for finalite in page.rgpd.finalites %}
-              <li>{{ finalite }}</li>
-              {% endfor %}
-            </ul>
-          </li>
+            <li>Le traitement a pour finalité(s) :
+              <ul>
+                {% for finalite in page.rgpd.finalites %}
+                  <li>{{ finalite }}</li>
+                {% endfor %}
+              </ul>
+            </li>
           {% else %}
-          <li>La finalité du traitement est : {{ page.mission }}</li>
+            <li>La finalité du traitement est : {{ page.mission }}</li>
           {% endif %}
           <li>Les données personnelles suivantes sont collectées :
             <ul>
               {% for donnee in page.rgpd.donnees %}
-              <li>{{ donnee }}</li>
+                <li>{{ donnee }}</li>
               {% endfor %}
             </ul>
           </li>
           <li>Les mesures suivantes ont été mises en place en vue d'assurer la sécurité :
             <ul>
               {% for controle in page.rgpd.controles %}
-              <li>{{ controle.type }} par {{ controle.intervenant }} le {{ controle.date }}</li>
+                <li>{{ controle.type }} par {{ controle.intervenant }} le {{ controle.date }}</li>
               {% endfor %}
             </ul>
           </li>
           {% if page.rgpd.mesures_securite %}
-          <li>{{ page.rgpd.mesures_securite }}</li>
+            <li>{{ page.rgpd.mesures_securite }}</li>
           {% endif %}
           {% if page.rgpd.validite_homologation %}
-          <li>Ce produit a fait l'objet d'une homologation de sécurité valable jusqu'au {{ page.rgpd.validite_homologation }}</li>
+            <li>Ce produit a fait l'objet d'une homologation de sécurité valable jusqu'au {{ page.rgpd.validite_homologation }}</li>
           {% else %}
-          <li>Ce produit est encore en cours d'obtention de l'homologation de sécurité</li>
+            <li>Ce produit est encore en cours d'obtention de l'homologation de sécurité</li>
           {% endif %}
         </ul>
 
         <p>Pour exercer vos <a href="https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles">droits</a> : <a href="{{ page.rgpd.exercer_vos_droits }}">{{ page.rgpd.exercer_vos_droits }}</a></p>
       </div>
-  </div>
-</section>
+    </div>
+  </section>
 {% endif %}
