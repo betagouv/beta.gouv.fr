@@ -8,7 +8,6 @@ missions:
     status: independent
     employer: NUMA
 startups:
-  - detention.resa.visio.famille
   - jafer
 badges:
   - segur
