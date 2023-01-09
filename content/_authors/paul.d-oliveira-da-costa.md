@@ -5,13 +5,16 @@ domaine: Déploiement
 github: Paul-doliveira-da-costa
 missions:
   - start: 2021-01-15
-    end: 2023-01-10
+    end: 2023-01-23
     status: admin
     employer: DINUM
 startups:
   - data.insertion
+  - carnet.de.bord
 badges:
   - segur
----
 
-Numeric addict! Si j'étais un PNJ mon voyant serait toujours au vert pour ouvrir une nouvelle discussion :)
+---
+>-
+  Numeric addict! Si j'étais un PNJ mon voyant serait toujours au vert pour
+  ouvrir une nouvelle discussion :)
