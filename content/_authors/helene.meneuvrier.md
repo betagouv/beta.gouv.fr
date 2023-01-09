@@ -13,4 +13,4 @@ startups:
 memberType: beta
 ---
 
-Développeuse Php/JS
+Développeuse PHP/JS
