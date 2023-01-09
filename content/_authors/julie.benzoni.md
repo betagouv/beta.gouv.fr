@@ -12,8 +12,8 @@ startups:
   - Trackdechets
 previously:
   - hydrogene
-  - Potentiel
   - carbure
+  - potentiel
 competences:
   - Coaching
 ---
