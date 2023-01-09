@@ -10,6 +10,6 @@ missions:
 startups:
   - lapins
 memberType: beta
----
 
+---
 Product Manager
