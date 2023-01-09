@@ -19,13 +19,12 @@ phases:
     end: 2022-02-01
   - name: construction
     start: 2022-03-01
-    end: ""
 ---
 ### Contexte/problème
 
-Durant la phase d'investigation, le CIAS du Grand Autunois Morvan a fait émerger la problématique du suivi numérique des bénéficiaires dans la structure. 
+Durant la phase d'investigation, le CIAS du Grand Autunois Morvan a fait émerger la problématique du suivi numérique des bénéficiaires dans la structure.
 
-Les agents proposent un accompagnement de qualité mais ne bénéficient pas d'outil de gestion numérique efficace permettant la centralisation et la sécurisation des dossiers. Le manque d'outillage induit une perte de temps considérable pour le suivi des bénéficiaires, la recherche d'information, la production de statistiques ... 
+Les agents proposent un accompagnement de qualité mais ne bénéficient pas d'outil de gestion numérique efficace permettant la centralisation et la sécurisation des dossiers. Le manque d'outillage induit une perte de temps considérable pour le suivi des bénéficiaires, la recherche d'information, la production de statistiques ...
 
 Les outils numériques répondant au besoin sont inaccessibles financièrement pour de nombreux CCAS/CIAS de petite ou moyenne taille.
 
@@ -33,13 +32,13 @@ Les outils numériques répondant au besoin sont inaccessibles financièrement p
 
 Suite à une enquête de terrain, la solution prototypée est un outil numérique à destination des agents : dossier social unique et suivi des interactions avec les bénéficiaires, agenda partagé, gestion des tâches et module statistique.
 
-Ce prototype a été testé auprès d'autres CCAS et les besoins ont été confirmés. 
+Ce prototype a été testé auprès d'autres CCAS et les besoins ont été confirmés.
 
 ### Stratégie
 
 1 - La construction d'une version beta de la solution (**interface agent**) a débuté en mars 2022 et sera mise en test auprès d'une dizaine de structure dans les prochaines semaines.
 
-Les premières fonctionnalités expérimentées porteront sur : 
+Les premières fonctionnalités expérimentées porteront sur :
 
 * Dossier bénéficiaire (fiche bénéficiaire et espace document associé)
 * Suivi des échanges et accompagnements
