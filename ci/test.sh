@@ -11,9 +11,9 @@ time bundle check || bundle install --path vendor/bundle
 time pip3 install -r requirements.txt
 
 echo "# Unit tests"
-time ruby -e "Dir.glob('rb/test/*.rb').each { |f| require File.expand_path(f) }"
-time ruby rb/bin/validate rb/schema/authors.yml "content/_authors/*.md"
-time ruby rb/bin/validate rb/schema/startups.yml "content/_startups/*.md"
+time ruby -e "Dir.glob('test/*.rb').each { |f| require File.expand_path(f) }"
+time ruby bin/validate schema/authors.yml "content/_authors/*.md"
+time ruby bin/validate schema/startups.yml "content/_startups/*.md"
 
 echo "# htmlproofer / jsonlint"
 time bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
