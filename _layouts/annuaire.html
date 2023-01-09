@@ -7,174 +7,174 @@ layout: default
 {% assign lang = page.lang | default: site.lang | default: "en" %}
 {% assign incubators = site.incubators %}
 <script>
-    var members = [
-        {% for current in currents %}
-            { "id"        : "{{ current.id }}",
-                "fullname": "{{ current.fullname}}",
-                "link": "{{ current.link }}",
-                "role": `{{ current.role }}`,
-                {% if current.avatar %} "avatar": "{{ current.avatar }}",{% endif %}
-                {% if current.github %} "github": "{{ current.github }}",{% endif %}
-                "content" : `{{ current.content }}`,
-                "missions": [
-                    {% for mission in current.missions %}
-                        { "start": "{{mission.start}}", "end": "{{mission.end}}", "status": "{{mission.status}}", "employer": "{{mission.employer}}" }{% unless forloop.last %},{% endunless %}
-                    {% endfor %}
-                ],
-                "incubator": "{{ current.incubator }}",
-                "startups": [
-                    {% for startup in current.startups %}
-                        "{{ startup }}",
-                    {% endfor %}
-                ],
-                "previously": [
-                    {% for previous_startup in current.previously %}
-                        "{{ previous_startup }}",
-                    {% endfor %}
-                ],
-            }
-        {% unless forloop.last %},{% endunless %}
-        {% endfor %}
-    ];
-    var alumnis = [
-        {% for alumni in alumnis %}
-            { "id"        : "{{ alumni.id }}",
-                "fullname": "{{ alumni.fullname}}",
-                "link": "{{ alumni.link }}",
-                "role": `{{ alumni.role | escape }}`,
-                {% if alumni.github %} "github": "{{ alumni.github }}",{% endif %}
-                {% if alumni.avatar %} "avatar": "{{ alumni.avatar }}",{% endif %}
-                "content" : `{{ alumni.content | escape  }}`,
-                "missions": [
-                    {% for mission in alumni.missions %}
-                        { "start": "{{mission.start}}", "end": "{{mission.end}}", "status": "{{mission.status}}", "employer": "{{mission.employer}}" }{% unless forloop.last %},{% endunless %}
-                    {% endfor %}
-                ],
-                "startups": [
-                    {% for startup in alumni.startups %}
-                        "{{ startup }}",
-                    {% endfor %}
-                ],
-                "previously": [
-                    {% for previous_startup in alumni.previously %}
-                        "{{ previous_startup }}",
-                    {% endfor %}
-                ],
-            }
-        {% unless forloop.last %},{% endunless %}
-        {% endfor %}
-    ];
-    var incubators = [
-        {% for incubator in incubators %} {
-        id: "{{incubator.id}}".replace('/incubators/', ''),
-        title: "{{incubator.title}}",
-        url: "/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}"
-        },
-        {% endfor %}
-    ];
-    var phases = [
-        {% for phase in site.phases %}
-            {% assign counter_target = phase.id | remove: "/phases/" %}
-            {% assign counter = site.startups | where_phase: counter_target | size %}
-            { "status"        : "{{ phase.status }}"
-            , "label"      : "{{ phase.label }}"
-            , "counter"      : "{{ phase.counter }}"
-            , "type_label" : "{{phase.type_label}}"
-            }
-            {% unless forloop.last %},{% endunless %}
-        {% endfor %}
-    ];
+ var members = [
+     {% for current in currents %}
+     { "id"        : "{{ current.id }}",
+       "fullname": "{{ current.fullname}}",
+       "link": "{{ current.link }}",
+       "role": `{{ current.role }}`,
+       {% if current.avatar %} "avatar": "{{ current.avatar }}",{% endif %}
+         {% if current.github %} "github": "{{ current.github }}",{% endif %}
+         "content" : `{{ current.content }}`,
+       "missions": [
+           {% for mission in current.missions %}
+           { "start": "{{mission.start}}", "end": "{{mission.end}}", "status": "{{mission.status}}", "employer": "{{mission.employer}}" }{% unless forloop.last %},{% endunless %}
+           {% endfor %}
+       ],
+       "incubator": "{{ current.incubator }}",
+       "startups": [
+           {% for startup in current.startups %}
+           "{{ startup }}",
+           {% endfor %}
+       ],
+       "previously": [
+           {% for previous_startup in current.previously %}
+           "{{ previous_startup }}",
+           {% endfor %}
+       ],
+     }
+     {% unless forloop.last %},{% endunless %}
+     {% endfor %}
+ ];
+ var alumnis = [
+     {% for alumni in alumnis %}
+     { "id"        : "{{ alumni.id }}",
+       "fullname": "{{ alumni.fullname}}",
+       "link": "{{ alumni.link }}",
+       "role": `{{ alumni.role | escape }}`,
+       {% if alumni.github %} "github": "{{ alumni.github }}",{% endif %}
+         {% if alumni.avatar %} "avatar": "{{ alumni.avatar }}",{% endif %}
+         "content" : `{{ alumni.content | escape  }}`,
+       "missions": [
+           {% for mission in alumni.missions %}
+           { "start": "{{mission.start}}", "end": "{{mission.end}}", "status": "{{mission.status}}", "employer": "{{mission.employer}}" }{% unless forloop.last %},{% endunless %}
+           {% endfor %}
+       ],
+       "startups": [
+           {% for startup in alumni.startups %}
+           "{{ startup }}",
+           {% endfor %}
+       ],
+       "previously": [
+           {% for previous_startup in alumni.previously %}
+           "{{ previous_startup }}",
+           {% endfor %}
+       ],
+     }
+     {% unless forloop.last %},{% endunless %}
+     {% endfor %}
+ ];
+ var incubators = [
+     {% for incubator in incubators %} {
+         id: "{{incubator.id}}".replace('/incubators/', ''),
+         title: "{{incubator.title}}",
+         url: "/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}"
+     },
+     {% endfor %}
+ ];
+ var phases = [
+     {% for phase in site.phases %}
+     {% assign counter_target = phase.id | remove: "/phases/" %}
+     {% assign counter = site.startups | where_phase: counter_target | size %}
+     { "status"        : "{{ phase.status }}"
+     , "label"      : "{{ phase.label }}"
+     , "counter"      : "{{ phase.counter }}"
+     , "type_label" : "{{phase.type_label}}"
+     }
+     {% unless forloop.last %},{% endunless %}
+     {% endfor %}
+ ];
 
-    var startups = [
-        {% for startup in site.startups %}
-            {% assign startup_id = startup.id | remove: '/startups/' %}
-            {% assign screenshot_files = site.static_files | where: "startups_img", true %}
-            {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
-            {% if screenshot_file %}
-            {% assign screenshot_path = screenshot_file.path %}
-            {% else %}
-            {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
-            {% endif %}
-            {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
-            {% assign incubator = incubators | where:'id', incubator_id | first %}
-            { "id"        : "{{ startup.id | remove: '/startups/' }}"
-            , "type"      : "startup"
-            , "phase": "{{ startup.status }}"
-            , "title"  : "{{ startup.title }}"
-            , "incubator_id" : "{{startup.incubator}}"
-            , "incubator_title": "{{ incubator.title }}"
-            , "attributes":
-                { "name"  : "{{ startup.title }}"
-                , "pitch" : "{{ startup.mission }}"{% if startup.stats %}
-                , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}{% if startup.link %}
-                , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
-                , "repository": "{{ startup.repository}}"{% endif %}
-                , "contact": "{{startup.contact}}"
-                , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
-                , "screenshot-url": "{{ screenshot_path }}"
-                , "phases": [
-                    {% for phase in startup.phases %}
-                        { "name": "{{phase.name}}", "start": "{{phase.start}}", "end": "{{phase.end}}"}{% unless forloop.last %},{% endunless %}
-                    {% endfor %}
-                    ]
-                }
-            , "relationships":
-                { "incubator":
-                    { "data": { "type": "incubator", "id": "{{ startup.incubator}}" }
-                    }
-                }
-            }
-            {% unless forloop.last %},{% endunless %}
-        {% endfor %}
-    ];
-    {%- assign screenshot_files = site.static_files | where: "authors_img", true -%}
-    var staticFiles = [{% for static_file in screenshot_files %}
-        "{{ static_file.path }}",
-    {% endfor %}];
+ var startups = [
+     {% for startup in site.startups %}
+     {% assign startup_id = startup.id | remove: '/startups/' %}
+     {% assign screenshot_files = site.static_files | where: "startups_img", true %}
+     {% assign screenshot_file = screenshot_files | where: 'basename', startup_id | first %}
+     {% if screenshot_file %}
+     {% assign screenshot_path = screenshot_file.path %}
+     {% else %}
+     {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
+     {% endif %}
+     {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
+     {% assign incubator = incubators | where:'id', incubator_id | first %}
+     { "id"        : "{{ startup.id | remove: '/startups/' }}"
+     , "type"      : "startup"
+     , "phase": "{{ startup.status }}"
+     , "title"  : "{{ startup.title }}"
+     , "incubator_id" : "{{startup.incubator}}"
+     , "incubator_title": "{{ incubator.title }}"
+     , "attributes":
+       { "name"  : "{{ startup.title }}"
+       , "pitch" : "{{ startup.mission }}"{% if startup.stats %}
+       , "stats_url": "{% if startup.stats_url %}{{ startup.stats_url }}{% else %}{{ startup.link | strip }}/stats{% endif %}"{% endif %}{% if startup.link %}
+       , "link": "{{ startup.link}}"{% endif %}{% if startup.repository %}
+       , "repository": "{{ startup.repository}}"{% endif %}
+       , "contact": "{{startup.contact}}"
+       , "content_url_encoded_markdown": "{{startup.content_url_encoded_markdown}}"
+       , "screenshot-url": "{{ screenshot_path }}"
+       , "phases": [
+           {% for phase in startup.phases %}
+           { "name": "{{phase.name}}", "start": "{{phase.start}}", "end": "{{phase.end}}"}{% unless forloop.last %},{% endunless %}
+           {% endfor %}
+       ]
+       }
+     , "relationships":
+       { "incubator":
+         { "data": { "type": "incubator", "id": "{{ startup.incubator}}" }
+         }
+       }
+     }
+     {% unless forloop.last %},{% endunless %}
+     {% endfor %}
+ ];
+ {%- assign screenshot_files = site.static_files | where: "authors_img", true -%}
+ var staticFiles = [{% for static_file in screenshot_files %}
+     "{{ static_file.path }}",
+                    {% endfor %}];
 </script>
 {%- include hero-page.html title=page.title -%}
 
 <div class="fr-container">
-    <section class="filters sticky incubator-header fr-mb-2w">
-        <div class="fr-container">
-            <select class="fr-select" id="select-incubateur">
-                <option value="">Tous les incubateurs</option>
-            </select>
-        </div>
-    </section>
-    <div class="fr-tabs">
-        <ul class="fr-tabs__list" role="tablist" aria-label="Changer de vue">
-            <li role="presentation">
-                <button id="tabpanel-currents" class="fr-tabs__tab" tabindex="0" role="tab" aria-selected="true" aria-controls="tabpanel-actifs">Membres actifs</button>
-            </li>
-            <li role="presentation">
-                <button id="tabpanel-alumnis" class="fr-tabs__tab" tabindex="-1" role="tab" aria-selected="false" aria-controls="tabpanel-alumnis">Alumni</button>
-            </li>
-        </ul>
-        <div id="tabpanel-actifs" class="fr-tabs__panel fr-tabs__panel--selected" role="tabpanel" aria-labelledby="tabpanel-currents" tabindex="0">
-            <h2><span id="currents-count">{{ currents | size }}</span> membres actifs</h2>
-            <div class="authors fr-grid-row fr-grid-row--gutters">
-                {%- for author in currents -%}
-                <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
-                {%- endfor -%}
-            </div>
-        </div>
-        <div id="tabpanel-alumnis" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-currents" tabindex="-1">
-            <h2><span id="alumnis-count">{{ alumnis | size }}</span> alumni</h2>
-            <div class="alumnis fr-grid-row fr-grid-row--gutters">
-                {%- for author in alumnis -%}
-                <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
-                {%- endfor -%}
-            </div>
-        </div>
+  <section class="filters sticky incubator-header fr-mb-2w">
+    <div class="fr-container">
+      <select class="fr-select" id="select-incubateur">
+        <option value="">Tous les incubateurs</option>
+      </select>
     </div>
+  </section>
+  <div class="fr-tabs">
+    <ul class="fr-tabs__list" role="tablist" aria-label="Changer de vue">
+      <li role="presentation">
+        <button id="tabpanel-currents" class="fr-tabs__tab" tabindex="0" role="tab" aria-selected="true" aria-controls="tabpanel-actifs">Membres actifs</button>
+      </li>
+      <li role="presentation">
+        <button id="tabpanel-alumnis" class="fr-tabs__tab" tabindex="-1" role="tab" aria-selected="false" aria-controls="tabpanel-alumnis">Alumni</button>
+      </li>
+    </ul>
+    <div id="tabpanel-actifs" class="fr-tabs__panel fr-tabs__panel--selected" role="tabpanel" aria-labelledby="tabpanel-currents" tabindex="0">
+      <h2><span id="currents-count">{{ currents | size }}</span> membres actifs</h2>
+      <div class="authors fr-grid-row fr-grid-row--gutters">
+        {%- for author in currents -%}
+        <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
+        {%- endfor -%}
+      </div>
+    </div>
+    <div id="tabpanel-alumnis" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-currents" tabindex="-1">
+      <h2><span id="alumnis-count">{{ alumnis | size }}</span> alumni</h2>
+      <div class="alumnis fr-grid-row fr-grid-row--gutters">
+        {%- for author in alumnis -%}
+        <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
+        {%- endfor -%}
+      </div>
+    </div>
+  </div>
 </div>
 <!-- Filtres -->
 <script src="/assets/additional/js/search-member.js" type="text/javascript"></script>
 <!-- Configuration -->
 <script>
-    var urlParams = new URLSearchParams(window.location.search);
-    var initValue = urlParams.get('incubateur');
-    members = generateDataWithHtmlCards(members);
-    createIncubatorSelect(members, incubators, initValue);
+ var urlParams = new URLSearchParams(window.location.search);
+ var initValue = urlParams.get('incubateur');
+ members = generateDataWithHtmlCards(members);
+ createIncubatorSelect(members, incubators, initValue);
 </script>
