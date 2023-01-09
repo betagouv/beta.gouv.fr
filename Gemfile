@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.1.1"
+gem "jekyll", "~> 4.0"
 gem "webrick"
 
 group :jekyll_plugins do
@@ -11,7 +11,7 @@ group :test do
   gem 'debug'
   gem 'guard'
   gem 'guard-rspec'
-  gem 'html-proofer'
+  gem 'html-proofer', '~> 3.0'
   gem 'jsonlint'
   gem 'kwalify'
   gem 'opengraph_parser'
