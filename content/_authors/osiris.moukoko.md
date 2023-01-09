@@ -1,6 +1,6 @@
 ---
 fullname: Osiris Moukoko
-role: Juriste
+role: Consultant - Coach
 domaine: Autre
 github: OMoukoko
 missions:
@@ -10,4 +10,3 @@ missions:
     employer: NUMA
 
 ---
-''
