@@ -6,30 +6,30 @@
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="{% if screenshot_file %}fr-col-lg-6{% endif %}">
-          <h1>{{ include.startup.title | escape }}</h1>
-          {% if include.startup.mission %}
+        <h1>{{ include.startup.title | escape }}</h1>
+        {% if include.startup.mission %}
           <p class="hero__startup__mission fr-mt-3w fr-h3">
             {{ include.startup.mission | escape }}
           </p>
-          {% endif %}
-          {% if include.startup.link %}
+        {% endif %}
+        {% if include.startup.link %}
           <a href="{{ include.startup.link }}" title="{{ include.startup.title }} - nouvelle fenêtre" class="fr-link" target="_blank">{{ include.startup.link }}</a>
-          {% endif %}
-          <ul class="fr-mt-3w fr-tags-group">
-            <li>
-              <a class="fr-tag" href="{{ phase.documentation_url }}">Produit {% if phase.id != '/phases/success' %}en{% endif %} {{ phase.label | downcase }}</a>
-            </li>
-          </ul>
+        {% endif %}
+        <ul class="fr-mt-3w fr-tags-group">
+          <li>
+            <a class="fr-tag" href="{{ phase.documentation_url }}">Produit {% if phase.id != '/phases/success' %}en{% endif %} {{ phase.label | downcase }}</a>
+          </li>
+        </ul>
       </div>
       {% if screenshot_file %}
-      <div class="fr-col-12 fr-col-lg-5 fr-pl-0 fr-pl-md-4w fr-pb-0">
+        <div class="fr-col-12 fr-col-lg-5 fr-pl-0 fr-pl-md-4w fr-pb-0">
           <figure class="fr-content-media fr-my-0">
-              <div class="fr-content-media__img">
-                  {% include screenshot.html startup=include.startup %}
-              </div>
+            <div class="fr-content-media__img">
+              {% include screenshot.html startup=include.startup %}
+            </div>
           </figure>
-      </div>
+        </div>
       {% endif %}
-  </div>
+    </div>
   </div>
 </div>
