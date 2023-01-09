@@ -1,7 +1,7 @@
 ---
 fullname: Pierre-Antoine Duchateau
-role: Développeur Produit
 domaine: Développement
+role: Développeur Produit
 github: paduc
 link: null
 missions:
@@ -9,8 +9,10 @@ missions:
     end: 2023-06-15
     status: independent
     employer: Benext/Malt
-startups:
+startups: []
+previously:
   - potentiel
-
+competences:
+  - Développement Backend
 ---
-''
+Développeur
