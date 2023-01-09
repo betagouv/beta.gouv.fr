@@ -4,7 +4,7 @@ role: Chargé de déploiement
 domaine: Animation
 missions:
   - start: 2022-10-10
-    end: 2023-01-16
+    end: 2023-01-31
     status: independent
     employer: Octo
 startups:
