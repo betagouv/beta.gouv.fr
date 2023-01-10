@@ -106,6 +106,7 @@ mapping:
                 - end
             "date":
               type:      date
+              required: yes
             "comment":
               type:      str
   "phases":
