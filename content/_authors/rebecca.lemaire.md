@@ -4,7 +4,7 @@ role: Intrapreneuse
 domaine: Intraprenariat
 missions:
   - start: 2022-06-27
-    end: 2022-09-27
+    end: 2023-07-01
     status: admin
 badges:
   - segur
