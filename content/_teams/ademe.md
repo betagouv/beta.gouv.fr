@@ -1,2 +1,4 @@
+---
 name: Animation
 incubator: ademe
+---
