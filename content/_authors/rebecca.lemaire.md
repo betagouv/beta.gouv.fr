@@ -7,7 +7,7 @@ missions:
     end: 2023-07-01
     status: admin
 startups:
-  - Themis
+  - themis
 badges:
   - segur
 ---
