@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: DISP Marseille
 startups:
-  - Themis
+  - themis
 badges:
   - segur
 ---
