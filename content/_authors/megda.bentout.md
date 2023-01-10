@@ -12,6 +12,6 @@ missions:
 startups:
   - le-taxi
 memberType: beta
----
 
+---
 Cheffe de projets
