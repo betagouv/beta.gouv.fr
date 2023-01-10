@@ -15,18 +15,6 @@ layout: default
 
 {% include hero-startup.html startup=page phase=phase %}
 
-{% assign split_by_h1 = content | split:'<h1' %}
-{% assign content = split_by_h1 | join: '<h1 class="fr-my-3w fr-mt-4w"' %}
-
-{% assign split_by_h2 = content | split:'<h2' %}
-{% assign content = split_by_h2 | join: '<h2 class="fr-my-2w fr-mt-3w"' %}
-
-{% assign split_by_p = content | split:'<p' %}
-{% assign content = split_by_p | join: '<p class="fr-my-2w fr-text"' %}
-
-{% assign split_by_ul = content | split:'<ul' %}
-{% assign content = split_by_ul | join: '<ul class="fr-pl-4w"' %}
-
 {% capture incubator_info %}
   {% if phase.status == 'success' %}
     L'équipe a été portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>
