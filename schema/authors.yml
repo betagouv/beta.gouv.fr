@@ -29,7 +29,7 @@ mapping:
               required:  yes
             "status":
               type:      str
-              assert:    "['service','independent','admin'].include?(val)"
+              enum:    [service, independent, admin]
               required:  yes
             "employer":
               type:      str
@@ -51,7 +51,7 @@ mapping:
             - segur
   "domaine":
     type:      str
-    assert:    "['Animation','Coaching','Déploiement', 'Design', 'Développement', 'Intraprenariat', 'Produit', 'Autre'].include?(val)"
+    enum:      [Animation, Coaching, Déploiement, Design, Développement, Intraprenariat, Produit, Autre]
     required:  yes
   "competences":
     type:      seq
@@ -60,4 +60,4 @@ mapping:
   "teams":
     type:      seq
     sequence:
-        - type:      any  
+        - type:      any
