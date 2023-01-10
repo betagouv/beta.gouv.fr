@@ -13,7 +13,6 @@ missions:
     status: independent
     employer: scopopop
 startups:
-  - monstage
   - demarches-simplifiees.fr
 
 ---

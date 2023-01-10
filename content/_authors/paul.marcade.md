@@ -12,7 +12,6 @@ incubator: ''
 startups:
   - a-just
   - mediature
-  - conseiller-numerique
 previously:
   - justif
   - anct-pni-1
@@ -20,4 +19,3 @@ competences:
   - Coaching
 
 ---
-null

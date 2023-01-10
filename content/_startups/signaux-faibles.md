@@ -7,7 +7,7 @@ sponsors:
     - /organisations/bdf
     - /organisations/acoss
     - /organisations/dinum
-incubator: bercy
+incubator: dinum 
 phases:
   - name: investigation
     start: 2014-05-15

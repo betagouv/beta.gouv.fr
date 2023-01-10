@@ -12,7 +12,6 @@ phases:
     end: 2021-05-31
   - name: construction
     start: 2021-07-09
-    end: ""
 usertypes:
   - etat
 ---
@@ -47,7 +46,7 @@ A﻿ la suite de cette 2ème phase d'expérimentation, et selon les conclusions 
 
 # **Objectifs**
 
-Le produit a pour objectif, au terme de ces expérimentations en lien avec des utilisateurs, d’assurer :  
+Le produit a pour objectif, au terme de ces expérimentations en lien avec des utilisateurs, d’assurer :
 
 * une connaissance rapide de l’état d’avancement d’une procédure pour l’administration
 * la délivrance automatique d’un numéro d’identifiant de procédure à l’administration

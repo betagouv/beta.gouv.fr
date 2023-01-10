@@ -11,8 +11,9 @@ missions:
     employer: Ground
 incubator: mtes
 startups:
-  - cadransolaire
   - potentiel
+previously:
+  - cadransolaire
 badges:
   - segur
 competences:

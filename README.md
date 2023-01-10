@@ -49,6 +49,7 @@ Au vu du public visé, ce site doit être **dégradable** jusqu'à IE11.
 - Il expose une API des membres de la communauté : `https://beta.gouv.fr/api/v1/authors.json`.
 - Un _bot_ ou assistant automatique (dont le code est également [disponible](https://github.com/betagouv/betaGouvBot)) exploite cette API pour faciliter la gestion RH de l'Incubateur.
 - Un app de gestion (dont le code est également [disponible](https://github.com/betagouv/secretariat)) exploite cette API pour faciliter la gestion RH de l'Incubateur.
+- Le contenu statique peut aussi être exploré à travers une console Ruby disponible dans `/bin/beta-rb`.
 
 ## Contribution et développement
 

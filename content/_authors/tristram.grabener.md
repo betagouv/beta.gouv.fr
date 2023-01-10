@@ -21,9 +21,9 @@ missions:
     status: independent
     employer: Codeurs en Liberté
 startups:
-  - données-et-territoires
   - vues-immersives-libres
 previously:
+  - données-et-territoires
   - transport
 ---
 

@@ -9,10 +9,11 @@ missions:
     end: 2023-12-31
     status: independent
 startups:
-  - potentiel
-  - carbure
+  - Trackdechets
 previously:
   - hydrogene
+  - carbure
+  - potentiel
 competences:
   - Coaching
 ---
