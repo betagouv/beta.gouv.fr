@@ -1,4 +1,43 @@
 module Jekyll
+  module StartupFilter
+    def a11y_status(startup)
+      case startup['accessibility_status']
+      when 'conforme' # dream a little dream
+        [:success, 'Accessible']
+      when 'partiellement conforme'
+        [:warning, 'Partiellement accessible']
+      when nil
+        [:warning, 'Accessibilité inconnue']
+      when 'non conforme'
+        [:error, 'Non accessible']
+      end
+    end
+
+    def indicators(startup)
+      if startup['dashlord_url']
+        [:success, 'Bonnes pratiques suivies']
+      else
+        [:warning, 'Suivi des bonnes pratiques inconnu']
+      end
+    end
+
+    def stats(startup)
+      if startup['stats']
+        [:success, "Mesures d'impact disponibles"]
+      else
+        [:warning, "Mesures d'impact non disponibles"]
+      end
+    end
+
+    def security_analysis(startup)
+      if startup['analyse_risques_url']
+        [:success, 'Sécurité analysée']
+      else
+        [:error, 'Niveau de sécurité inconnu']
+      end
+    end
+  end
+
   class RenderStartupsApi < Liquid::Tag
     def render(context)
       result = {}
@@ -55,4 +94,5 @@ module Jekyll
   end
 end
 
+Liquid::Template.register_filter(Jekyll::StartupFilter)
 Liquid::Template.register_tag('render_startups_api', Jekyll::RenderStartupsApi)

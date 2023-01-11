@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% assign startup = page %}
+
 {% assign lang = page.lang | default: site.lang | default: "fr" %}
 {% assign startup_id = page.id | remove: '/startups/' %}
 
@@ -11,25 +13,9 @@ layout: default
 
 {% comment %} Détection de l'incubateur {% endcomment %}
 {% capture incubator_id %}/incubators/{{ page.incubator }}{% endcapture %}
-{% assign incubator = site.incubators | where:'id', incubator_id | first %}
+{% assign incubator = site.incubators | find:'id', incubator_id %}
 
 {% include hero-startup.html startup=page phase=phase %}
-
-{% capture incubator_info %}
-  {% if phase.status == 'success' %}
-    L'équipe a été portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>
-  {% else %}
-    L'équipe est portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>
-  {% endif %}
-{% endcapture %}
-
-{% capture sponsor_info %}
-  L'équipe est sponsorisée par
-  {% for sponsorId in page.sponsors %}
-    {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
-    {% if forloop.index > 1 %}, {% endif %}{{sponsor.name}}
-  {% endfor %}
-{% endcapture %}
 
 {% capture contact_info %}
   {% if page.contact %}
@@ -79,63 +65,58 @@ layout: default
   {% endif %}
 {% endcapture %}
 
-{% capture dashlord %}
-  Le suivi des bonnes pratiques de ce produit
-  {% if page.dashlord_url %}
-    est disponible sur <a href="{{ page.dashlord_url }}" title="Dashlord de {{ page.title }}"> Dashlord</a>.
-  {% else %}
-    <em>n'est pas encore disponible sur <a href="https://dashlord.incubateur.net" title="Dashlord">Dashlord</a>.</em>
-  {% endif %}
-{% endcapture %}
+<hr />
 
-{% capture accessibilite %}
-  {% if page.accessibility_status %}
-    <li>Le statut d'accessibilité du produit est : <em>{{ page.accessibility_status }}</em></li>
-  {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
-    <li>Le statut d'accessibilité du produit est : <em>non-conforme</em></li>
-  {% endif %}
-{% endcapture %}
-
-<div class="fr-py-6w section-grey">
-  <div class="fr-container fr-grid-row fr-grid-row--center">
-    <div class="fr-col-md-8">
-      <ul>
-        <li>{{ incubator_info }}</li>
-        <li>{{ sponsor_info }}</li>
-        <li>{{ contact_info }}</li>
-        {% unless phase.status == 'investigation' %}
-          <li>{{ statistiques_info }}</li>
-          <li>{{ source_info }}</li>
-          <li>{{ budget_info }}</li>
-          {{ accessibilite }}
-          {{ analyse_risques }}
-          <li>{{ dashlord }}</li>
-          {% if page.techno %}
-            <li>{{ techno_info }}</li>
-          {% endif %}
-        {% endunless %}
-      </ul>
+<div class="fr-container startup-info">
+  <div class="fr-grid-row fr-grid-row--gutters">
+    <div class="fr-col-12 fr-col-sm-7 summary">
+      <div class="fr-col-10">
+        {{ content }}
+      </div>
     </div>
+
+    <aside class="fr-col-12 fr-col-sm-4">
+      <div class="fr-p-4w">
+        <p>
+          {% if startup.status == 'success' %}
+            L'équipe a été portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}.</a>
+          {% else %}
+            L'équipe est portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}.</a>
+          {% endif %}
+        </p>
+
+        <p>L'équipe est sponsorisée par :&nbsp;
+          {% for sponsorId in page.sponsors %}
+            {% assign sponsor = site.organisations | find: 'id', sponsorId %}
+            {% if forloop.index > 1 %}, {% endif %}{{sponsor.name}}
+          {% endfor %}
+        </p>
+
+        <p>
+          <a class="fr-link fr-icon-mail-fill fr-link--icon-left"
+             href="mailto:{{ startup.contact }}?subject={{ startup.title | uri_escape }}%20sur%20beta.gouv.fr"
+          >Contacter l’équipe</a>
+        </p>
+
+        <span class="fr-text--bold">Indicateurs de qualité</span>
+
+        <ul class="indicateurs">
+          <li>{{ startup | stats | to_badge }}</li>
+          <li>{{ startup | a11y_status | to_badge }}</li>
+          <li>{{ startup | security_analysis | to_badge }}</li>
+          <li>{{ startup | indicators | to_badge }}</li>
+        </ul>
+
+        <span class="fr-text--bold">Transparence</span>
+        <ul class="indicateurs">
+          <li>{{ startup.dashlord_url | to_link: "Mesures d'impact", 'line-chart' }}</li>
+          <li>{{ startup.respository | to_link: "Code source", 'github' }}</li>
+          <li>{{ startup.stats_url | to_link: "Statistiques", 'pie-chart-2' }}
+        </ul>
+      </div>
+    </aside>
   </div>
 </div>
-
-<section class="fr-py-6w">
-  {% assign jobs = site.jobs | where: 'startup', startup_id | where: 'open', true | sort: 'date' | reverse %}
-  {% if jobs[0] %}
-    <div class="fr-container fr-py-6w">
-      <h2>Postes ouverts</h2>
-      {% for job in jobs %}
-        {% include card-job.html job=job startup=job.startup %}
-      {% endfor %}
-    </div>
-  {% endif %}
-
-  <div class="fr-container fr-py-2w fr-grid-row fr-grid-row--center">
-    <div class="fr-col-md-8">
-      {{ content }}
-    </div>
-  </div>
-</section>
 
 <section class="fr-py-6w section-blue">
   {% include grid-authors.html startup=page %}

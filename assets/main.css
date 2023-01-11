@@ -487,3 +487,17 @@ img.lozad {
   height: 100%;
   width: 100%;
 }
+
+.startup-info aside {
+  background-color: var(--background-open-blue-france);
+}
+
+ul.indicateurs {
+  padding: 0;
+  margin: 1rem 0;
+}
+
+ul.indicateurs li {
+  list-style-type: none;
+  margin: 0.5rem auto;
+}
