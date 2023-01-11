@@ -4,7 +4,7 @@ incubator: lab-innov-anssi
 link: https://www.monservicesecurise.beta.gouv.fr
 repository: https://github.com/betagouv/mon-service-securise
 contact: contact@monservicesecurise.beta.gouv.fr
-title: Mon Service Sécurisé
+title: MonServiceSécurisé
 sponsors:
   - /organisations/anssi
 stats: true
@@ -20,7 +20,7 @@ usertypes:
   - collectivite-territoriale
 dashlord_url: https://dashlord.incubateur.net/url/www-monservicesecurise-beta-gouv-fr/
 ---
-## En cours de construction
+## En phase d'accélération
 
 **Vous êtes intéressé(e) par notre projet et souhaitez tester le service ?
 N’hésitez pas à [nous
