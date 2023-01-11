@@ -1,5 +1,5 @@
 ---
-fullname: Yannick AMEUR
+fullname: Yannick Ameur
 role: Coach de programme agile
 domaine: Coaching
 link: https://www.agiletribu.com/
