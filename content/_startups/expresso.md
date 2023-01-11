@@ -1,7 +1,7 @@
 ---
 title: Expresso
 mission: Faciliter la gestion des ressources humaines dans les établissements à
-  autonomie finanière
+  autonomie finanicère
 sponsors:
   - /organisations/meae
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
