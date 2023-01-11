@@ -1,5 +1,5 @@
 ---
-fullname: emmanuelle cayuela
+fullname: Emmanuelle Cayuela
 role: Intrapreneuse
 domaine: Intraprenariat
 missions:
