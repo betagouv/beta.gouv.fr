@@ -35,43 +35,27 @@ de services publics numériques : médiathèque permettant la réservation en
 ligne de contenus multimédias, caisse des écoles permettant le paiement de la
 cantine, etc.
 
-Ces services numériques peuvent être la cible de cyberattaques aux conséquences
-dommageables. Renforcer la sécurité de ces services est, par conséquent,
+Plusieurs dizaines de milliers à l'échelle nationale,
+ces services numériques sont régulièrement la cible de cyberattaques.
+Renforcer leur sécurité est, par conséquent,
 essentiel afin de les protéger contre ces menaces.
 
-Afin d'y parvenir, la mise en œuvre d'une démarche d'homologation de sécurité
-permet d'identifier les mesures de sécurité adaptées à mettre en œuvre pour
-faire face aux risques auxquels ces services numériques sont soumis. Cette
-démarche est obligatoire pour l'ensemble des entités publiques au titre du
-Règlement Général de Sécurité (RGS).
-
-Désireuses de renforcer la sécurité de leurs services numériques (ou « téléservices »),
+Désireuses de renforcer la sécurité de leurs services numériques (ou « téléservices »)
+et d'homologuer leur sécurité, conformément à la réglementation (RGS, décret 2022-513, RGPD)
 de nombreuses entités publiques et en particulier des collectivités, sont
 aujourd'hui en attente de davantage d'accompagnement.
 
 ## LA SOLUTION
 
-MonServiceSécurisé aide toutes les entités publiques à se mettre en
-conformité avec le RGS et le RGPD (article 32 sur la sécurité des données)
-en sécurisant et en homologuant la sécurité de leurs sites web, applications
-mobiles et API aux besoins de sécurité modérés.
+MonServiceSécurisé est la solution de cybersécurité de l'ANSSI
+pour aider les entités publiques à sécuriser et à homologuer rapidement leurs sites web, applications mobiles et API.
 
-MonServiceSécurisé est une solution de l'ANSSI pensée pour et par les entités
-publiques.
+Gratuit et collaboratif, MonServiceSécurisé permet de référencer un service numérique en projet, en cours de
+développement ou déjà en ligne puis de le décrire en  :
+- Accédant à une liste personnalisée de mesures de sécurité élaborée par l'ANSSI et obtenir une évaluation
+indicative du niveau de sécurité du service concerné (l'indice cyber), sur la base des mesures de sécurité déclarées
+par l'équipe comme ayant été mises en œuvre.
+- Générant en quelques étapes une décision d'homologation de sécurité incluant un ou plusieurs avis des membres
+de l'équipe sur le projet de décision d'homologation et de soumettre cette décision à la signature de l'autorité d'homologation.
 
-Il propose une solution
-- pédagogique : accessible aux novices comme aux spécialistes de la sécurité
-des systèmes d'information.
-- collaborative : métiers, RSSI et DPO peuvent travailler en même temps sur
-des dossiers partagés.
-- personnalisée : chaque démarche d'homologation est personnalisée et basée sur
-le respect d'un socle de sécurité conçu par l'ANSSI.
-
-Sur MonServiceSécurisé, la constitution de chaque dossier d'homologation
-se décompose en 4 grandes étapes :
-- Description du service ;
-- Évaluation des risques de sécurité ;
-- Proposition de mesures de sécurité ;
-- Téléchargement du dossier d'homologation au format PDF.
-
-[Démarrer un projet d'homologation sur MonServiceSécurisé](https://www.monservicesecurise.beta.gouv.fr/connexion)
+[Découvrir MonServiceSécurisé](https://www.monservicesecurise.beta.gouv.fr/)
