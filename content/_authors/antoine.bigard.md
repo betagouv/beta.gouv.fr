@@ -8,8 +8,13 @@ missions:
     end: 2024-04-27
     status: independent
     employer: ut7
+teams:
+  - /teams/mission-apprentissage
 startups:
-  - catalogue-apprentissage
+  - la-bonne-alternance
+  - tdb-apprentissage
+ previously:
+   - catalogue-apprentissage
   - dematapprentissage
   - pop
 ---
