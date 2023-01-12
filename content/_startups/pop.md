@@ -7,6 +7,9 @@ sponsors:
 phases:
   - name: investigation
     start: 2018-04-01
+    end: 2022-12-31
+  - name: construction
+    start: 2023-01-01
 link: https://pop.culture.gouv.fr/
 repository: https://github.com/betagouv/pop
 stats: true
