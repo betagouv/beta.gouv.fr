@@ -26,8 +26,7 @@ phases:
   - name: transfer
     start: 2021-01-01
     end: 2022-05-01
-  - name: alumni
-    start: 2021-04-01
+
 ---
 ## Contexte
 
