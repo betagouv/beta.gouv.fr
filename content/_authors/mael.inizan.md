@@ -9,10 +9,11 @@ missions:
     status: independent
     employer: NUMA
 startups:
-  - collectif_objets
-  - locadocs
   - la.bonne.renov
   - parcours.de.saisine
+previously:
+  - collectif_objets
+  - locadocs
 competences:
   - UX
   - Coaching
