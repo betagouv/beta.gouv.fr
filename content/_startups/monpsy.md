@@ -14,6 +14,9 @@ accessibility_status: non conforme
 phases:
   - name: acceleration
     start: 2022-09-01
+    end: 2023-01-12
+  - name: success
+    start: 2023-01-12
 ---
 ## Contexte
 
