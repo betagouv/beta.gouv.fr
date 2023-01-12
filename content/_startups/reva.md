@@ -18,6 +18,9 @@ phases:
     end: 2021-07-01
   - name: construction
     start: 2021-07-01
+    end: 2023-01-12
+  - name: acceleration
+    start: 2023-01-12
 
 techno:
   - React
