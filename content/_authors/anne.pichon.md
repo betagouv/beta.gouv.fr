@@ -8,9 +8,10 @@ missions:
     end: 2020-01-01
     status: admin
   - start: 2020-01-02
-    end: 2023-06-02
+    end: 2023-06-30
     status: independent
 startups:
+  - monstage
 previously:
   - dora
   - la-bonne-boite
