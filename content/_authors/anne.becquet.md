@@ -1,7 +1,7 @@
 ---
 fullname: Anne Becquet
-role: Directrice
 domaine: Intraprenariat
+role: Directrice
 github: Anne-Becquet
 link: https://fr.linkedin.com/in/annebecquet/fr
 missions:
