@@ -7,6 +7,8 @@ incubator: culture
 phases:
   - name: construction
     start: 2020-04-01
+  - name: acceleration
+    start: 2022-09-15
 link: https://sagascience.com/newaglae/
 repository: https://github.com/betagouv/euphrosyne/
 stats: false
