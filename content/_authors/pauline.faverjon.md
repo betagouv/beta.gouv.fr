@@ -10,7 +10,7 @@ missions:
     end: 2021-12-31
     status: independent
   - start: 2022-03-09
-    end: 2022-12-31
+    end: 2023-02-28
     status: independent
 startups:
   - eva

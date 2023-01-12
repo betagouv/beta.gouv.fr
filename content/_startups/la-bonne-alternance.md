@@ -1,5 +1,5 @@
 ---
-title: La Bonne Alternance
+title: La bonne alternance
 mission: Faciliter la mise en relation entre jeunes, entreprises et CFA
 sponsors:
   - /organisations/menjs
@@ -12,6 +12,8 @@ phases:
     start: 2018-03-19
   - name: construction
     start: 2018-03-19
+  - name: acceleration
+    start: 2020-12-31   
 events: 
   - name: national_impact
     date: 2021-12-31

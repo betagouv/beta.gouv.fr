@@ -17,7 +17,7 @@ missions:
     status: independent
     employer: octo+cadresenmission
   - start: 2021-12-14
-    end: 2022-12-31
+    end: 2023-02-28
     status: independent
     employer: littlebigconnection+cadresenmission
 startups:

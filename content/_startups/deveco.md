@@ -5,11 +5,11 @@ repository: null
 contact: karel.cloarec@beta.gouv.fr
 usertypes:
   - collectivite-territoriale
-stats_url: null
+stats_url: https://deveco.incubateur.anct.gouv.fr/stats
 title: Deveco
 sponsors:
   - /organisations/anct
-link: null
+link: https://deveco.incubateur.anct.gouv.fr
 stats: false
 phases:
   - name: investigation

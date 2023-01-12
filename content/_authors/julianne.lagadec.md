@@ -10,7 +10,7 @@ missions:
 startups:
   - tdb-apprentissage
   - la-bonne-alternance
+previously :
   - voeux-apprentissage
-  - Trajpro
   - dematapprentissage
 ---

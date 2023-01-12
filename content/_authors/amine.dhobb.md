@@ -5,7 +5,7 @@ domaine: Développement
 github: aminedhobb
 missions:
   - start: 2021-04-06
-    end: 2023-01-07
+    end: 2024-01-07
     status: independent
     employer: Octo
 startups:

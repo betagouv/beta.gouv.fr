@@ -6,13 +6,14 @@ github: delphineray
 link: https://www.linkedin.com/in/delphineraymond/
 missions:
   - start: 2022-03-28
-    end: 2022-12-30
+    end: 2023-06-30
     status: independent
     employer: Ground
 incubator: mtes
 startups:
-  - cadransolaire
   - potentiel
+previously:
+  - cadransolaire
 badges:
   - segur
 competences:

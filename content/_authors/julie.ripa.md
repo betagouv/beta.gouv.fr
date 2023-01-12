@@ -1,7 +1,7 @@
 ---
 fullname: Julie Ripa
-role: Intra
-domaine: Intraprenariat
+role: Adjointe - Incubateur des Territoires
+domaine: Animation
 github: julie-ripa
 missions:
   - start: 2021-03-16
@@ -16,6 +16,8 @@ startups:
   - données-et-territoires
 badges:
   - segur
+teams:
+  - /teams/anct
 ---
 
 J'essaie de faire quelque chose pour l'humanité en luttant contre la pauvreté (DIPLP)

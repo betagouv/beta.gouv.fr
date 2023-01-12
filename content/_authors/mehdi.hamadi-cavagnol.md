@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2019-08-23
-    end: 2025-12-31
+    end: 2022-08-31
     status: admin
     employer: ANCT
 startups:

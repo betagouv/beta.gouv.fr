@@ -4,7 +4,7 @@ domaine: Produit
 role: Chargée de déploiement
 missions:
   - start: 2022-05-09
-    end: 2022-12-30
+    end: 2023-02-28
     status: independent
     employer: Haut-commissariat à l'emploi et à l'engagement des entreprises
 startups:

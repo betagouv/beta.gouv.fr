@@ -233,12 +233,12 @@ main .fr-container img {
 
 .filters .fr-container {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   grid-gap: 1em;
 }
 
 .filters #search-input {
-  grid-column: 4;
+  grid-column: 3;
   z-index: 2;
 }
 
@@ -318,10 +318,6 @@ main .fr-container img {
 }
 
 /* Sous-titre de carte */
-
-.h1-card__title-subtitle {
-  margin-top: -0.5rem;
-}
 
 .job-team-animation-container {
   width: 100%;

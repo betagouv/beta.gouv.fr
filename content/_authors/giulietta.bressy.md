@@ -4,7 +4,7 @@ domaine: Produit
 role: Responsable produit
 missions:
   - start: 2021-01-25
-    end: 2022-12-30
+    end: 2023-02-28
     status: independent
     employer: Octo
 startups:

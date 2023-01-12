@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: dinum
   - start: 2022-01-21
-    end: 2022-12-31
+    end: 2023-06-30
     status: independent
     employer: MTES-MCT
 startups:
