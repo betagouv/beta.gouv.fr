@@ -11,6 +11,8 @@ phases:
   - name: construction
     start: 2021-12-31
     end: 2022-06-30
+  - name: alumni
+    start: 2022-07-31
 link:
 repository:
 stats: false
