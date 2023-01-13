@@ -9,4 +9,6 @@ missions:
     status: service
 startups:
     - datagir
+teams:
+  - /teams/ademe
 ---
