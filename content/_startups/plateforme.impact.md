@@ -5,7 +5,7 @@ mission: Le meilleur moyen pour les entreprises de déclarer leur performance
 sponsors:
   - /organisations/dge
 incubator: dinum
-link: ""
+link: https://impact.beta.gouv.fr/
 repository: ""
 contact: aurelien.claeys@finances.gouv.fr
 accessibility_status: non conforme
