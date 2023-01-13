@@ -76,6 +76,7 @@ layout: default
         },
         {% endfor %}
     ];
+    incubators = [incubators.find(i=>i.id=='dinum')].concat(incubators.filter(i=>i.id!='dinum')); 
     var phases = [
         {% for phase in site.phases %}
             {% assign counter_target = phase.id | remove: "/phases/" %}
