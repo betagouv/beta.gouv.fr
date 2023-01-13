@@ -20,6 +20,8 @@ phases:
     end: 2022-11-30
     comment: Avis non-concluant pour un passage en phase de construction, poursuite
       dans un cadre local
+    - name: allumni
+    start: 2022-11-30
 ---
 
 ## Contexte
