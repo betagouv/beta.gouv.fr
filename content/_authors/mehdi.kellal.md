@@ -3,12 +3,14 @@ fullname: Mehdi Kellal
 role: Intrapreneur
 domaine: Intraprenariat
 missions:
-  - start: 2022-10-27
-    end: 2023-01-27
+  - start: 2023-01-01
+    end: 2023-12-31
     status: admin
     employer: DINUM
 badges:
   - segur
+startups:
+  - cnr
 ---
 
 éveillé le jour, tente de dormir la nuit.
