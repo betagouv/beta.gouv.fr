@@ -3,7 +3,7 @@ title: Maison de l'autisme
 mission: Aider les personnes autistes et leurs proches à trouver leurs réponses
   et à mener à bien leurs démarches
 sponsors:
-  - /organisations/solidarite-sante
+  - /organisations/dia-tnd
 incubator: sgmas
 contact: autisme.tnd@pm.gouv.fr
 accessibility_status: null
