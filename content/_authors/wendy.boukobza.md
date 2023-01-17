@@ -14,6 +14,6 @@ missions:
 previously:
   - resorption-bidonvilles
 startups:
-  - oihli
+  - oilhi
 ---
 
