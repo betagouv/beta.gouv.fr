@@ -16,6 +16,9 @@ phases:
     end: 2022-06-01
   - name: alumni
     start: 2022-06-02
+    end: 2023-01-12
+  - name: transfer
+    start: 2023-01-12
 ---
 [Lien vers la synthèse complète de l'investigation](https://docs.google.com/document/d/1k-618voE5U_zWq-zq48U7XnQNvzTiKApMmeZiUxkkZk/edit?usp=sharing)
 
