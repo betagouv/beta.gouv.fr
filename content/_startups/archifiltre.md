@@ -41,6 +41,9 @@ phases:
     comment: Sortie de la 1ère version accessible en ligne gratuitement d'Archifiltre
   - name: acceleration
     start: 2018-03-04
+    end: 2023-01-17
+  - name : success
+    start : 2023-01-17
 ---
 # Le contexte
 
