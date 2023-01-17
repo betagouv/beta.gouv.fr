@@ -32,12 +32,12 @@ Pourquoi ? En grande partie, car l’accès au soin représente un coût financi
 
 ## Solution
 
-MonPsy assure un remboursement des soins psychologiques pour tous à partir de 3 ans, à raison de 8 séances par an. Les séances sont prises en charge :
+MonParcoursPsy assure un remboursement des soins psychologiques pour tous à partir de 3 ans, à raison de 8 séances par an. Les séances sont prises en charge :
 - à 60 % par l’Assurance Maladie
 - et à 40 % par la complémentaire santé ou la mutuelle
 Dans certaines situations, des personnes peuvent bénéficier du Tiers payant obligatoire.
 
-La plateforme MonPsy permet en quelques clics : 
+La plateforme MonParcoursPsy permet en quelques clics : 
 - à tous les psychologues volontaires et de candidater pour intégrer le dispositif ;
 - et aux patients d’identifier un psychologue proche de chez eux sur l'annuaire géolocalisé.
 
@@ -46,7 +46,7 @@ La plateforme MonPsy permet en quelques clics :
 En moins de 5 mois, ce sont plus 20 000 patients qui ont pu être pris en charge et plus de 60 000 séances réalisées.
 
 D'ici 6 mois, nous visons à :
-- Accueillir deux fois plus de psychologues conventionnés au sein de MonPsy
+- Accueillir deux fois plus de psychologues conventionnés au sein de MonParcoursPsy
 - Faire bénéficier du dispositif à plus de 60 000 patients 
-- Faire connaître MonPsy au plus grand nombre : grand public, professionnels de santé et institutionnels.
+- Faire connaître MonParcoursPsy au plus grand nombre : grand public, professionnels de santé et institutionnels.
 
