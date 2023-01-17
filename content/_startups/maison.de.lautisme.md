@@ -6,7 +6,6 @@ sponsors:
   - /organisations/dia-tnd
 incubator: sgmas
 contact: autisme.tnd@pm.gouv.fr
-accessibility_status: null
 phases:
   - name: investigation
     start: 2022-09-05
