@@ -1,5 +1,5 @@
 ---
-title: MonPsy
+title: MonParcoursPsy
 mission: L’accès à un accompagnement psychologique pour tous dès 3 ans
 sponsors:
   - /organisations/solidarite-sante
