@@ -1,22 +1,29 @@
 ---
 title: Plateforme Ouverte du Patrimoine
-mission: Valoriser notre patrimoine culturel auprès du plus grand nombre - Seconde investigation en cours
+mission: >-
+  Valoriser notre patrimoine culturel auprès du plus grand nombre - Seconde
+  investigation en cours
 incubator: culture
-sponsors: 
-    - /organisations/mc
+sponsors:
+  - /organisations/mc
 phases:
   - name: investigation
     start: 2018-04-01
     end: 2022-12-31
   - name: construction
     start: 2023-01-01
+    end: 2023-01-18
+  - name: transfer
+    start: 2023-01-18
 link: https://pop.culture.gouv.fr/
 repository: https://github.com/betagouv/pop
 stats: true
 contact: pop@culture.gouv.fr
 usertypes:
   - particulier
+
 ---
+
 
 ### Mise à jour le 14/09/22 : En septembre 2022, après trois ans de maintenance sur le produit, le Service du Numérique du ministère de la Culture a choisi de lancer une seconde investigation sur POP, avec le concours de la Médiathèque du patrimoine et de la photographie.
 
