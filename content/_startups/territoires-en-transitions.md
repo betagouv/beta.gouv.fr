@@ -22,6 +22,8 @@ phases:
     end: 2020-11-03
   - name: construction
     start: 2020-11-03
+  - name: acceleration
+    start: 2023-01-16
 ---
 
 ## Contexte
