@@ -4,11 +4,12 @@ domaine: Déploiement
 role: Chargé de déploiement
 missions:
   - start: 2022-01-10
-    end: 2022-12-31
+    end: 2022-04-31
     status: independent
-    employer: Octo
-incubator: sgmas
+    employer: scopyleft
 startups:
+  - ma-cantine-egalim
+previously: 
   - dora
 competences:
   - Communication
