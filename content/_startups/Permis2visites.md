@@ -13,6 +13,8 @@ phases:
   - name: investigation
     start: 2022-09-04
     end: 2022-10-31
+  - name: alumni
+    start: 2022-10-31
 ---
 ## Contexte
 Les personnes en détention peuvent recevoir de la visite de leurs proches via les parloirs. Dans ce cadre, les proches doivent demander un permis de visite, prendre rendez-vous auprès de l’établissement et se présenter sur le créneau prévu avec une pièce d’identité pour assurer le contrôle.
