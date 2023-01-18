@@ -1,7 +1,7 @@
 ---
 fullname: Vincent Agnano
 domaine: Développement
-role: Développeur transverse / Chargé de portefeuille
+role: Lead dev & conseil tech @incubateur.anct
 github: vinyll
 avatar: https://vinyll.github.io/images/avatar.jpg
 link: https://vinyll.neomad.org
@@ -10,7 +10,6 @@ missions:
     end: 2023-12-31
     status: service
     employer: lazone
-startups:
 previously:
   - egalite.professionnelle
   - classe-a-12
@@ -22,5 +21,7 @@ competences:
   - Développement Frontend
   - Développement Backend
   - Gestion de Produit
+
 ---
+
 Accompagnant technique à l'Incubateur des Territoires (ANCT), développeur, animateur d'espaces citoyens en zone rurale.
