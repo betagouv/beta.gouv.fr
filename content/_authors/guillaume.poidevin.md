@@ -1,15 +1,16 @@
 ---
 fullname: Guillaume Poidevin
 domaine: Déploiement
-role: Chargé de déploiement
+role: Chargé de déploiement - remontée de données gestionnaires
 missions:
   - start: 2022-01-10
-    end: 2022-12-31
+    end: 2023-04-31
     status: independent
-    employer: Octo
-incubator: sgmas
+    employer: scopyleft
 startups:
-  - dora
+    - ma-cantine-egalim
+previously:
+    - Dora
 competences:
   - Communication
 ---
