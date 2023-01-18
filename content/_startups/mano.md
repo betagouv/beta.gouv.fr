@@ -20,9 +20,6 @@ phases:
     end: 2021-07-31
   - name: acceleration
     start: 2021-08-01
-    end: 2023-01-12
-  - name: success
-    start: 2023-01-12
     
 usertypes:
   - association
