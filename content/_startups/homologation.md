@@ -22,10 +22,9 @@ dashlord_url: https://dashlord.incubateur.net/url/www-monservicesecurise-beta-go
 ---
 ## En phase d'accélération
 
-**Vous êtes intéressé(e) par notre projet et souhaitez tester le service ?
-N’hésitez pas à [nous
-contacter](mailto:contact@monservicesecurise.beta.gouv.fr) ou à [visiter notre
-site](https://www.monservicesecurise.beta.gouv.fr/) !**
+- **Vous souhaitez découvrir le produit ou un accompagnement dans sa prise en main ? [Contactez Antoine et Henri qui se feront un plaisir de vous accompagner](mailto:support@monservicesecurise.beta.gouv.fr).**
+- **Pour toute autre question sur le projet, propositions de partenariats [contactez-nous à cette adresse](mailto:contact@monservicesecurise.beta.gouv.fr).**
+- **[Accéder à MonServiceSécurisé](https://www.monservicesecurise.beta.gouv.fr)**
 
 ## L'ENJEU
 
