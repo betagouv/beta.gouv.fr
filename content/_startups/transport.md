@@ -22,6 +22,7 @@ events:
 link: https://transport.data.gouv.fr
 repository: https://github.com/etalab/transport-site
 stats: true
+budget_url: https://transport.data.gouv.fr/budget
 contact: contact@transport.beta.gouv.fr
 usertypes:
   - collectivite-territoriale

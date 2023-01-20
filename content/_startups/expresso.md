@@ -1,7 +1,7 @@
 ---
 title: Expresso
 mission: Faciliter la gestion des ressources humaines dans les établissements à
-  autonomie finanière
+  autonomie financière
 sponsors:
   - /organisations/meae
 incubator: latelier.numerique.du.ministere.de.leurope.et.des.affaires.etrangeres
@@ -9,7 +9,7 @@ contact: atelier.numerique@diplomatie.gouv.fr
 phases:
   - name: investigation
     start: 2021-09-15
-  - name: acceleration
+  - name: construction
     start: 2022-09-01
 ---
 **Contexte**
@@ -44,4 +44,4 @@ Expresso souhaite permettre aux ADL des EAF de faire valoir leurs droits en leur
 
 **Etat d'avancement et prochaines étapes**
 
-Tout d’abord, une phase d’investigation a été menée grâce à des entretiens réalisés auprès des acteurs RH (tant en IF qu’au MEAE), en prenant en compte la multiplicité des profils d’agents et d’instituts (petits, moyens, grands EAF). Puis, une phase d’expérimentation dans 7 EAF pilotes a permis de tester la méthodologie et la nomenclature Expresso pour numériser et mettre à la disposition des agents leurs dossiers individuels. Cette phase d’expérimentation de la démarche s’accélérera en septembre 2022 avec un périmètre plus vaste et de nouveaux EAF.
+Tout d’abord, une phase d’investigation a été menée grâce à des entretiens réalisés auprès des acteurs RH (tant en IF qu’au MEAE), en prenant en compte la multiplicité des profils d’agents et d’instituts (petits, moyens, grands EAF). Puis, une phase d’expérimentation dans 7 EAF pilotes a permis de tester la méthodologie et la nomenclature Expresso pour numériser et mettre à la disposition des agents leurs dossiers individuels. A cette phase d’expérimentation de la démarche a succédé au dernier trimestre 2022 une nouvelle phase avec un périmètre plus vaste, étendu à 20 EAF supplémentaires dans un premier temps. 

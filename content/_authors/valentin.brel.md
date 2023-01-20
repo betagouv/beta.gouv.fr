@@ -14,5 +14,6 @@ previously:
 badges:
   - segur
 github: valentinbrel
-
+teams:
+  - /teams/animation-dinum
 ---

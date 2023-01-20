@@ -5,7 +5,7 @@ sponsors:
   - /organisations/mtes
 incubator: mtes
 stats: true
-stats_url: https://docs.google.com/presentation/d/1qD3AwJYsq1N_eiZd3KpwR-w0zO5Qk_zh74A7FBYvZrM/edit?usp=sharing
+stats_url: https://metabase.din.developpement-durable.gouv.fr/public/dashboard/0d5bc6b0-068c-42ec-876e-08f0e4573468
 phases:
   - name: investigation
     start: 2021-03-01

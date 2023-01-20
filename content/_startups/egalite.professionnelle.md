@@ -14,9 +14,9 @@ phases:
     comment: Lancement de la startup
   - name: construction
     start: 2019-03-01
-  - name: alumni
+  - name: success
     start: 2021-11-17
-    comment: ""
+      
 usertypes:
   - entreprise
 ---

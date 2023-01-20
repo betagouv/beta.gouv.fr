@@ -7,6 +7,9 @@ incubator: culture
 phases:
   - name: construction
     start: 2020-04-01
+    end: 2022-10-30
+  - name: acceleration
+    start: 2022-11-01
 link: https://www.ellesfontlaculture.beta.gouv.fr/
 repository: https://github.com/betagouv/ellesfontlaphoto
 stats: true

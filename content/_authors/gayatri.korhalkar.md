@@ -13,6 +13,7 @@ missions:
     employer: UT7
 startups:
   - tout-est-permis
+  - inventaireoeuvres
 badges:
   - segur
 ---

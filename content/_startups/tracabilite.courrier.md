@@ -11,6 +11,8 @@ phases:
   - name: investigation
     start: 2022-06-29
     end: 2022-11-14
+  - name: alumni
+    start: 2022-10-31
 ---
 
 

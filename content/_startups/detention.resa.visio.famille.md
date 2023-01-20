@@ -13,6 +13,8 @@ phases:
   - name: investigation
     start: 2022-07-01
     end: 2022-11-30
+  - name: alumni
+    start: 2022-11-30
 ---
 ## Contexte
 
