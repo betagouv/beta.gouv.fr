@@ -56,6 +56,10 @@ Qui ont des conséquences fortes pour :
 
 
 
+#### "Dites le nous une fois"
+
+Nous sommes engagés dans une démarche d’Open Data et rendons disponibles nos données à travers un référentiel commun — partagé par toutes les plateformes et sites web partenaires. Grâce à cette dynamique collective, vous référencez votre offre une seule fois tout en la rendant disponible partout.[ Vous pouvez dès à présent accéder aux données de Dora et les télécharger sur data.gouv.](https://www.data.gouv.fr/fr/datasets/referentiel-de-loffre-dinsertion-liste-des-structures-et-services-dinsertion/)
+
 # le service Dora vous intéresse ?
 
 #### A. Vous représentez un territoire, une collectivité et cherchez à faciliter la coopération des acteurs de l'insertion de votre territoire ?
