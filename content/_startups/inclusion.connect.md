@@ -1,7 +1,7 @@
 ---
 title: Inclusion Connect
-mission: Simplifer l’utilisation des services à destination des professionnels
-  de l’inclusion.
+mission: Connecter 160 000 professionnels de l’inclusion aux services numériques
+  de leur quotidien, d’une manière simple, sécurisée, efficace.
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -14,24 +14,27 @@ phases:
     start: 2022-07-01
     comment: Produit fonctionnel et déployé sur des premiers services
 ---
+## Problème
 
-
-## Contexte
-
-Il existe de nombreux services numériques qui s﻿'adressent aux professionnels de l'inclusion (Les emplois de l'inclusion, DORA, RDV-insertion, le marché de l'inclusion etc.). Pour chacun de ces services, les professionnels doivent se créer un compte. C﻿'est autant de mots de passe, d'identifiants et de comptes qu'ils doivent gérer.
+Les services numériques à destination des professionnels de l’inclusion se multiplient, et avec eux les identifiants et mots de passe. Pour les usagers cela devient complexe et fastidieux et présente de vrais risques de sécurité.
 
 C'est donc une source de friction et une perte de temps pour les utilisateurs au quotidien.
 
-## Solution
+## Notre service
 
-Inclusion Connect est un Single Sign-On (SSO). Avec Inclusion Connect, l'usager se crée un compte unique qu'il peut utiliser pour se connecter à tous les services partenaires.
+Avec Inclusion Connect, nous simplifions la gestion des identifiants et facilitons l’accès au numérique en toute sécurité, grâce à un compte unique basé sur un protocole solidement éprouvé (OpenIdConnect).
 
+## Nos usagers
 
+Tous les professionnels de l’inclusion. Comme les conseillers en insertion professionnelle, les travailleurs sociaux, les référents uniques (ex : PE, Cap emploi, CD, CCAS/CIAS, Missions Locales, associations conventionnées, IAE, centres d’hébergement, etc.), les employeurs solidaires etc.
 
 ## Déploiement
 
-À date, Inclusion Connect est déployé sur les services suivants : 
+À date, Inclusion Connect est déployé sur les services suivants :
 
 * Les emplois de l'inclusion
 * DORA
 * RDV-solidarités
+* M﻿on Suivi Social
+* L﻿a communauté de l'inclusion
+* L﻿es Conseillers Numériques France Service (grands réseaux et structures)
