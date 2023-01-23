@@ -30,7 +30,7 @@ Tous les professionnels de l’inclusion. Comme les conseillers en insertion pro
 
 ## Déploiement
 
-À date, Inclusion Connect est déployé sur les services suivants :
+À ce jour, Inclusion Connect est déployé sur les services suivants :
 
 * Les emplois de l'inclusion
 * DORA
