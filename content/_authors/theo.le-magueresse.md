@@ -6,7 +6,7 @@ link: https://theolemague.github.io
 github: theolemague
 missions:
   - start: 2022-08-01
-    end: 2023-01-01
+    end: 2024-01-01
     status: independent
     employer: Selego
 startups:
