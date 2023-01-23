@@ -1,6 +1,8 @@
 ---
 title: API Entreprise
-mission: Rendre accessibles aux acteurs publics les informations administratives des entreprises et associations, afin de simplifier leurs démarches.
+mission: >-
+  Rendre accessibles aux acteurs publics les informations administratives des
+  entreprises et associations, afin de simplifier leurs démarches.
 sponsors:
   - /organisations/dinum
 incubator: apigouv
@@ -11,6 +13,9 @@ phases:
     start: 2014-01-01
   - name: success
     start: 2019-09-01
+    end: 2023-01-23
+  - name: success
+    start: 2023-01-23
 link: https://entreprise.api.gouv.fr/
 repository: https://github.com/etalab/entreprise.api.gouv.fr
 stats: true
@@ -22,6 +27,7 @@ usertypes:
   - collectivite-territoriale
 
 ---
+
 
 ## Le problème
 
