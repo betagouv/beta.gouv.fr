@@ -14,34 +14,41 @@ phases:
 ---
 DiaLog
 
-## Contexte
+## Le problème 
 
-Gestion du trafic, protection du public et des usagers de la route, préservation des infrastructures... Souvent sans le savoir, nous devons beaucoup à ces courts documents que sont les arrêtés de circulation. Ils sont le support des restrictions de circulation poids lourds qui nous permettent, année après année, de tous bénéficier d'un réseau routier maillé accessible et de bonne qualité. Demain, ce seront aussi ces documents qui permettront de limiter l'accès des véhicules les plus polluants dans les métropoles, et ainsi améliorer la qualité de l'air! Et bien d'autres utilisations encore.
+Aujourd’hui, les chauffeurs de poids lourds sont quotidiennement confrontés à des difficultés dans la planification de leurs trajets. **Pour les poids lourds, connaître leurs conditions de circulation ou de stationnement est difficile.**
 
-Il est donc temps de dépoussiérer l'arrêté de circulation ! Les calculateurs d'itinéraires sont largement plébiscités par les usagers, y faire figurer toutes les restrictions de circulation serait un levier puissant d'amélioration de l'information aux usagers et de la qualité de ces services. La loi Climat et Résilience (article 122-4) dispose ainsi, spécifiquement dans le cas des arrêtés relatifs aux poids-lourds, que les informations disponibles devront être reprises dans les calculateurs d'itinéraire. Charge aux pouvoirs publics de mettre à disposition leurs arrêtés dans un format numérique adapté, et il y a dans certains cas du chemin à parcourir ! En construisant un service d'aide à la rédaction de ces arrêtés, qui permet également de repérer sur une carte les voies et zones concernées, nous pouvons aider les administrations à numériser leurs documents et constituer une base de données accessible en un guichet unique par les services de calcul d'itinéraire.
+Pourtant, ces réglementations de circulation sont primordiales pour :
 
-## Problème
+- **La bonne circulation des poids lourds** (véhicules de secours, approvisionnement de marchandises…).
+- **La sécurité du public** et **la préservation des infrastructures routière.**
 
-Pour une collectivité, la question de la réglementation a trois versants :
+Pour tenter de résoudre ce problème, **Dialog permet aux administrations de numériser ces règles.** La réglementation peut ainsi être diffusée aux *services de calculs d’itinéraires* (GPS).
 
-* La production, depuis un fait générateur (par exemple: “le passage de poids lourds dans cette rue est dangereux, il faut limiter le gabarit”), ensuite on a tout un process, une décision politique d’agir, une instruction technique de ce qu’il faut faire, une validation administrative
-* La publication, pour le moment limitée à l'affichage et la production de panneaux, 
-* Le contrôle, les sanctions et l’évaluation de la mesure qui a été prise.
+## La solution
 
-La publication est la clé de voute d’une mesure qui fonctionne mais cette étape consiste, dans la grande majorité des cas, à installer une signalisation (des panneaux) et transmettre l’information aux policiers responsables du contrôle. Lorsqu'elle est permanente cette réglementation est intégrée dans les SIG (s'ils existent), peut être partagée (ex. de Paris ou Lyon avec Google Maps) ou ouverte (portails open data).
+Dialog est une plateforme pour les administrations. Elles peuvent y **numériser la réglementation des poids lourds** (circulation, stationnement…).
 
-Pourtant, toutes les collectivités interrogées disent continuer d’avoir des problèmes avec le non respect de la réglementation, surtout quand celle-ci est nouvelle ou ponctuelle, c’est par exemple très prégnant dans le cas des travaux.
+**Les données sont ensuite accessibles aux GPS**, sur le principe de l’Open Data. Les GPS sont en charge de les intégrer dans leurs calculateurs d’itinéraires.
 
-Il faut arriver à diffuser plus tôt, plus large - dans les services, entre collectivités, aux entreprises locales, aux entreprises extérieures, à tous les chauffeurs de poids lourds - et de manière plus intelligible. Diffuser un arrêté municipal "sec" n'a que peu d'intérêt s'il n'est pas traduit en terme d'impact pour la circulation et géolocalisé.
+Les données peuvent aussi être communiquées **directement aux acteurs de la logistique et des services d’urgence**, dans des formats adaptés à leurs besoins.
 
-## Solution
+Pour vous rendre sur le site beta, c'est ici : https://dialog.beta.gouv.fr/
 
-Permettre l'intégration de données relatives à la réglementation poids lourds dans les GPS utilisés par les chauffeurs et les logiciels d'exploitation utilisés par les entreprises qui les emploient.
+## Impact
 
-## Stratégie
+DiaLog est en **phase de construction** et de test auprès de deux collectivités : Rennes et Savenay (9000 habitants).
 
-Première étape : l’amélioration de la communication locale avec les entreprises utilisatrices de poids lourds, à partir de 3 pilotes locaux qui associent collectivités et transporteurs : Vitry sur Seine, Rennes et Savenay (44).
+Une première version sera **mise en production pour mars 2023**. Cette version se concentrera sur les réglementations **travaux et poids lourds**.
 
-L’idée serait de récupérer au fil de l’eau les arrêtés émis par des collectivités pilotes, retravailler leurs informations pour les rendre plus lisibles et intelligibles par les chauffeurs de poids lourds en travaillant notamment sur l’impact des dispositions prises sur la circulation ou le stationnement, puis servir cette information à un ensemble de destinataires choisis. Cette étape serait réalisée en collaboration avec des acteurs du GPS afin de s'assurer de leurs besoins en termes de données et d'accès (formats, licences, fraîcheur, validation,...).
+Courant 2023, nous visons le déploiement :
 
-Ce faisant, on prépare la future mise à disposition de l’information réglementaire plus largement dans tous les GPS et on permet à minima une économie de moyens non négligeable pour les collectivités.
+- En Ile-de-France ainsi que dans au moins 5 territoires hors IDF.
+- Dans au moins un service de navigation par GPS.
+
+L’objectif à terme sera de prendre en charge l’ensemble des règles de circulation et de stationnement s’appliquant aux poids lourds.
+
+L’impact sera double :
+
+- Pour les **chauffeurs poids lourds** : des meilleures conditions de travail grâce à une circulation fluidifiée et moins de situations bloquantes.
+- Pour les **collectivités** : une circulation plus fluide et plus sécurisée
