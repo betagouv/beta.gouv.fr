@@ -30,9 +30,9 @@ Les parcours d’insertion sont longs et peu suivis : 
 
 \- Fort taux d’absentéisme aux RDV contractuels du parcours (pilotés par les CD)
 
-\- Délais trop longs (ex : délai moyen d’orientation de 95 jours en 2019*) 
+\- Délais trop longs (ex : délai moyen d’orientation de 95 jours en 2019) 
 
-**\- Risque de rupture de parcours post-signature CER élevé**
+\- Risque de rupture de parcours post-signature CER élevé
 
 
 
