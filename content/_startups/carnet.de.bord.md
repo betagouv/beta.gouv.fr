@@ -33,16 +33,13 @@ phases:
 ---
 ## Le problème
 
-Le champ de l’insertion sociale et professionnelle, et en particulier le domaine de l’accompagnement des usagers, se caractérise par une multiplicité et une grande diversité d’acteurs. La mauvaise connaissance et l'absence de partage de certaines données ne permettent pas aux professionnels de procéder à une bonne évaluation des situations des usagers et un suivi optimal des parcours. Plus précisément, deux problématiques émergent : 
+Le champ de l’insertion sociale et professionnelle, et en particulier le domaine de l’accompagnement des usagers, se caractérise par une multiplicité et une grande diversité d’acteurs. La mauvaise connaissance et l'absence de partage de certaines données ne permettent pas aux professionnels de procéder à une bonne évaluation des situations des usagers et un suivi optimal des parcours. Le déficit de connaissance des éléments de parcours d’insertion d’un usager rend ainsi complexe l’analyse de sa situation et la mise en œuvre d’un parcours efficient entre partenaires. 
 
-1. L’impossibilité pour les accompagnateurs d’avoir une information claire sur les personnes ;
-2. La difficulté pour les personnes à comprendre et à transmettre les informations sur leur parcours.
+## Notre service
 
-Dans ce contexte, comment amplifier la coordination des professionnels autour du parcours de la personne en insertion pour rendre plus efficient son accompagnement ?
+Développé dans le cadre du volet numérique du projet de [Service Public de l'Insertion et de l'Emploi](https://forum.inclusion.beta.gouv.fr/t/le-spie-cest-quoi/2324), l'outil Carnet de bord est un service public qui centralise les données essentielles (éléments de diagnostic socio-professionnel, identité et contact des accompagnateurs, contrats de parcours, objectifs à atteindre et actions initiées, historique de parcours) en une seule page. Il regroupe l’information dans un espace sécurisé permettant un échange accru des données essentielles, entre les accompagnateurs et le bénéficiaire afin d’amplifier la coordination et fluidifier le parcours d’un usager !
 
-## Notre solution
-
-Développé dans le cadre du volet numérique du projet de [Service Public de l'Insertion et de l'Emploi](https://forum.inclusion.beta.gouv.fr/t/le-spie-cest-quoi/2324), l'outil Carnet de bord est un service public qui centralise les données essentielles du parcours en une seule page. Il regroupe l’information dans un espace sécurisé permettant un échange accru des données essentielles, entre les accompagnateurs et le bénéficiaire afin d’amplifier la coordination et fluidifier le parcours d’un usager !
+## Nos publics
 
 **Qui sont les usagers en insertion concernés par l'outil ?** Carnet de bord propose la création de "carnets" d'usagers relevant de différents publics en insertion à l'instar des bénéficiaires du RSA, des demandeurs d'emploi (notamment longue durée, accompagnement global ou concernés par la modalité d'accompagnement "expert handicap"), des jeunes NEET, etc. 
 
