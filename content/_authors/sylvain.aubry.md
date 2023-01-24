@@ -9,9 +9,9 @@ missions:
     end: 2023-10-31
     status: independent
     employer: Octo Technology
-startups:
-  - dora
 badges:
   - segur
+
 ---
+
 
