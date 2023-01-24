@@ -1,8 +1,8 @@
 ---
 title: Bénéfriches
-mission: "Aider les collectivités à monétariser les retombées socio-économiques
-  que les projets de renouvellement urbain sur leurs territoires peuvent générer
-  "
+mission: "Aider les collectivités à monétiser les retombées socio-économiques
+  que les projets de renouvellement urbain sur leurs territoires peuvent
+  générer. "
 sponsors:
   - /organisations/ademe
 incubator: dinum
@@ -13,8 +13,7 @@ phases:
     start: 2023-01-02
     end: 2023-03-20
 ---
-Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
+
 
 ## Contexte
 
@@ -26,13 +25,12 @@ Ce constat repose sur un prisme d’analyse uniquement fondé sur un bilan écon
 
 Ainsi de nombreux projets restent bloqués et la consommation d’espaces naturels, agricoles et forestiers progresse.
 
-
+L’outil BENEFRICHES a été développé pour quantifier et monétiser ces effets et retombées positifs afin que les acteurs de l’aménagement, au premier rang desquels les collectivités, en prenne conscience et les utilisent dans la prise de décision
 
 ## Problème
 
 Hypothèses à investiguer :
 
 * La connaissance des retombées socio économiques permettrait-elle aux collectivités d'engager plus d'actions de réhabilitation des friches ? 
-
-
 * U﻿ne meilleure visibilité sur les actions à déployer augmenterait-elle aussi la prise de décision?
+* L﻿'outil "Bénéfriches" est-il adapté pour y répondre?
