@@ -1,6 +1,9 @@
 ---
+title: Mon suivi social
 mission: Libérer du temps pour l'accompagnement social grâce à une solution
   simple, intuitive et sécurisée.
+sponsors:
+  - /organisations/anct
 incubator: anct
 link: https://monsuivisocial.incubateur.anct.gouv.fr/
 repository: https://gitlab.com/incubateur-territoires/startups/monsuivisocial
@@ -9,9 +12,6 @@ accessibility_status: non conforme
 usertypes:
   - collectivite-territoriale
 stats_url: null
-title: Mon suivi social
-sponsors:
-  - /organisations/anct
 stats: false
 phases:
   - name: investigation
@@ -48,4 +48,4 @@ Le déploiement des fonctionnalités complémentaires sera progressif, et repose
 
 2 - Perspective complémentaire (échéance à définir) :  étude plus approfonfie autour du besoin "bénéficiaire" : coffre-fort numérique, synthèse des RDV et rappels par mails/SMS, suivi de dossier, accès sécurisé pour l'entourage ou les aidants habilités.
 
-![](/img/netlifycms/mon.suivi.social.accueil.png)
+![](blob:https://beta.gouv.fr/7c52d3d7-dfa9-4646-a94a-1504e7ca82a0)
