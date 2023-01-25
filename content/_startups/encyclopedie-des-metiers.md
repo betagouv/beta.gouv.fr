@@ -1,15 +1,14 @@
 ---
-title: Encyclopédie des Métiers
-mission: >-
-  Faciliter l'accès à des informations claires et pratiques sur les métiers et
-  les compétences
+title: MétierScope
+mission: Faciliter l'accès à des informations claires et pratiques sur les
+  métiers et les compétences
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
 contact: isabelle.deschamps@pole-emploi.fr
 usertypes:
   - particulier
-link: 'https://tous-les-metiers.pole-emploi.fr/ '
+link: "https://tous-les-metiers.pole-emploi.fr/ "
 phases:
   - name: investigation
     start: 2021-05-01
@@ -19,7 +18,6 @@ phases:
     end: 2022-10-16
   - name: transfer
     start: 2022-10-16
-
 ---
 
 ### Problème
