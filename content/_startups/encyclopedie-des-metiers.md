@@ -1,21 +1,27 @@
 ---
 title: Encyclopédie des Métiers
-mission: Faciliter l'accès à des informations claires et pratiques sur les métiers et les compétences
+mission: >-
+  Faciliter l'accès à des informations claires et pratiques sur les métiers et
+  les compétences
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
 contact: isabelle.deschamps@pole-emploi.fr
 usertypes:
   - particulier
-link: "https://tous-les-metiers.pole-emploi.fr/ "
+link: 'https://tous-les-metiers.pole-emploi.fr/ '
 phases:
   - name: investigation
     start: 2021-05-01
     end: 2021-11-01
   - name: construction
     start: 2021-11-01
-    end: 2023-03-15
+    end: 2022-10-16
+  - name: transfer
+    start: 2022-10-16
+
 ---
+
 ### Problème
 
 De nombreuses “fiches métiers” existent en ligne, mais elles ne sont pas satisfaisantes pour les utilisateurs (incomplètes, pas à jour, ne parlent pas compétences, etc.), si bien que les utilisateurs doivent naviguer à plusieurs endroits et agir en véritables détectives pour recouper les informations.
