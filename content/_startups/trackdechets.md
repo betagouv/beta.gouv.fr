@@ -13,7 +13,8 @@ sponsors:
   - /organisations/dgpr
 link: https://trackdechets.beta.gouv.fr
 stats: true
-dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/api-trackdechets-beta-gouv-fr/
+dashlord_url: >-
+  https://dashlord.mte.incubateur.net/dashlord/url/api-trackdechets-beta-gouv-fr/
 phases:
   - name: investigation
     start: 2018-11-01
@@ -21,7 +22,12 @@ phases:
     start: 2018-11-01
   - name: acceleration
     start: 2018-11-01
+    end: 2023-01-25
+  - name: acceleration
+    start: 2023-01-25
+
 ---
+
 
 En 2016, 12 millions de tonnes de déchets dangereux ont été produits en France. Il s’agit de déchets contenants des éléments toxiques ou dangereux qui présentent des risques pour la santé et l'environnement. 
 
