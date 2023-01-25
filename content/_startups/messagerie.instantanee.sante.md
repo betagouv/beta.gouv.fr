@@ -9,7 +9,12 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2022-10-24
+    end: 2023-01-02
+  - name: construction
+    start: 2023-01-02
+
 ---
+
 ## Contexte
 
 Pour fluidifier et sécuriser les communications entre professionnels de santé, la DINUM accompagne l’Agence du Numérique en Santé (ANS) dans l’élaboration de services de communication instantanée adaptés à l’échange de données de santé.
