@@ -1,7 +1,8 @@
 ---
 title: Pass Engagement Jeune
-mission: Proposer aux jeunes en CEJ des avantages sur des biens et services
-  essentiels pour lever les freins économiques à l'insertion professionnelle
+mission: >-
+  Proposer aux jeunes en CEJ des avantages sur des biens et services essentiels
+  pour lever les freins économiques à l'insertion professionnelle
 sponsors:
   - /organisations/mtei
 incubator: dinum
@@ -10,8 +11,12 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2022-05-15
-    end: 2022-09-30
+    end: 2022-11-01
+  - name: construction
+    start: 2022-11-01
+
 ---
+
 ## Contexte
 
 Avec le lancement national, en mars 2022, du Contrat d’Engagement Jeune (CEJ), l’Etat réinvente l’accompagnement à l’emploi des jeunes les plus en difficulté. Le CEJ permet aux jeunes 16 à 25 ans, sans emploi ni formation, d’intégrer un parcours d’insertion d’une durée de 6 à 12 mois (jusqu’à 18 mois pour les jeunes les plus en rupture).
