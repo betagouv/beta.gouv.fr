@@ -9,6 +9,9 @@ incubator: sgmas
 contact: aurelie.manginot@fabrique.social.gouv.fr
 accessibility_status: non conforme
 phases:
+  - name: investigation
+    start: 2022-11-01
+    end: 2023-01-25
   - name: construction
     start: 2023-01-25
 ---
