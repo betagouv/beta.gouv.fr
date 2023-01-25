@@ -10,6 +10,5 @@ missions:
     employer: Malt
 startups:
   - a-just
-
+memberType: beta
 ---
-null
