@@ -1,7 +1,8 @@
 ---
 title: infoParquet
-mission: Simplifier la transmission et le suivi des procédures entre
-  Administrations (hors Police et Gendarmerie) et Juridictions
+mission: >-
+  Simplifier la transmission et le suivi des procédures entre Administrations
+  (hors Police et Gendarmerie) et Juridictions
 sponsors:
   - /organisations/mj
 incubator: justice
@@ -12,9 +13,14 @@ phases:
     end: 2021-05-31
   - name: construction
     start: 2021-07-09
+    end: 2021-11-01
+  - name: construction
+    start: 2021-11-01
 usertypes:
   - etat
+
 ---
+
 # **Contexte**
 
 Chaque année, des dizaines de milliers d’administrations saisissent le procureur de la République afin de l’informer de faits pouvant entraîner des poursuites pénales.
