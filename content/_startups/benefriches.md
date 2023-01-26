@@ -4,13 +4,17 @@ mission: Faire prendre conscience des retombées socio-économiques de la
   reconversion de friches pour augmenter le nombre de ces projets
 sponsors:
   - /organisations/ademe
-incubator: dinum
+incubator: ademe
 contact: laurent.chateau@ademe.fr
 accessibility_status: non conforme
+usertypes:
+  - collectivite-territoriale
 phases:
   - name: investigation
     start: 2023-01-03
     end: 2023-03-31
+    
+    
 ---
 ## Contexte
 Le renouvellement urbain et notamment la reconquête des friches est une opportunité pour atteindre les objectifs de zéro artificialisation nette.
