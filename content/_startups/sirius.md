@@ -3,7 +3,6 @@ title: Sirius
 mission: Recueillir et exposer les avis d'apprentis sur leur formation
 sponsors:
   - /organisations/dgefp
-  - /organisations/onisep
 incubator: mission-inserjeunes
 phases:
   - name: construction
