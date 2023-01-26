@@ -1,5 +1,5 @@
 ---
-title: Messagerie Instantanée Santé
+title: Messagerie Instantanée de Santé
 mission: Faciliter et sécuriser les communications des professionnels de santé
 sponsors:
   - /organisations/ans
@@ -17,8 +17,9 @@ phases:
 
 ## Contexte
 
-Pour fluidifier et sécuriser les communications entre professionnels de santé, la DINUM accompagne l’Agence du Numérique en Santé (ANS) dans l’élaboration de services de communication instantanée adaptés à l’échange de données de santé.
+Comment fluidifier et sécuriser les communications instantanées entre professionnels de santé ?
 
+C’est sur cette problématique que beta.gouv.fr et l’Agence du Numérique en Santé collaborent depuis l’automne 2022.
 
 
 ## Problème
@@ -43,4 +44,12 @@ Ces divers modes de communication, malgré leurs avantages respectifs, comporten
 
 ## Stratégie
 
-Une investigation est en cours pour déterminer dans quelle mesure une messagerie instantanée en phase avec les usages des professionnels de santé et les contraintes de sécurité pourrait améliorer la fluidité des échanges tout en assurant leur confidentialité.
+Après plus d'une quarantaine d'entretiens menés avec divers professionnels de l'écosystème santé, une solution est désormais en cours de construction et d'expérimentation.
+
+Les objectifs de cette expérimentation ?
+
+- Mettre en place un environnement d’inter-opérabilité entre les différents outils de messagerie instantanée de santé déjà existants
+- Constituer un référentiel de qualité pour ces outils priorisant les besoins des utilisateurs finaux
+- Tester diverses hypothèses en mettant une application mobile de messagerie instantanée à disposition d'une communauté de beta-testeurs
+
+Cette expérimentation se fait en partenariat avec divers éditeurs de logiciels santé, n'hésitez pas à nous contacter pour participer !
