@@ -1,6 +1,8 @@
 ---
 title: DiaLog
-mission: Faciliter l'intégration de la réglementation poids lourds dans les GPS routiers
+mission: >-
+  Faciliter l'intégration de la réglementation poids lourds dans les GPS
+  routiers
 sponsors:
   - /organisations/dgitm
 incubator: mtes
@@ -9,9 +11,12 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2022-03-21
-    end: 2022-05-18
-    comment: présentation de fin d'investigation le 17/05
+    end: 2022-10-18
+  - name: construction
+    start: 2022-10-18
+
 ---
+
 DiaLog
 
 ## Contexte
