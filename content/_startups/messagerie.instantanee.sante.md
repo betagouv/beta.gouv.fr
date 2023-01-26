@@ -9,10 +9,12 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2022-10-24
-    end: 2022-12-15
+    end: 2023-01-02
   - name: construction
-    start: 2023-01-04
+    start: 2023-01-02
+
 ---
+
 ## Contexte
 
 Comment fluidifier et sécuriser les communications instantanées entre professionnels de santé ?
