@@ -1,10 +1,16 @@
 ---
 title: Panoramax - Base vues immersives libres 
-mission: Participer à la mise en place d'une alternative libre à Google Street View et Mapillary (groupe Meta)
+mission: L’alternative libre pour photo-cartographier les territoires
 sponsors:
   - /organisations/ign
 incubator: fab-geocommuns
-contact: camille.salou@ign.fr
+link: https://panoramax.fr/
+repository: https://github.com/panoramax-project
+contact: panoramax@panoramax.fr
+usertypes: 
+  - collectivite-territoriale
+  - particulier
+  - entreprise
 phases:
   - name: investigation
     start: 2022-06-24
