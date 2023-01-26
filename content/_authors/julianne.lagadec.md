@@ -1,6 +1,6 @@
 ---
 fullname: Julianne Lagadec
-role: Responsable des relations publiques
+role: Responsable des partenariats
 domaine: Déploiement
 github: Julianne-Lagadec
 missions:
@@ -13,4 +13,7 @@ startups:
 previously :
   - voeux-apprentissage
   - dematapprentissage
+teams:
+  - /teams/mission-apprentissage
+  - /teams/mission-inserjeunes
 ---
