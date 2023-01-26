@@ -1,6 +1,6 @@
 ---
 fullname: Anne Becquet
-role: Intrapreneuse
+role: Directrice de la mission interministérielle pour l'apprentissage
 domaine: Intraprenariat
 github: Anne-Becquet
 missions:
