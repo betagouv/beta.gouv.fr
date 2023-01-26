@@ -9,10 +9,10 @@ missions:
     status: independent
 startups:
   - catalogue-apprentissage
-  - Trajpro
   - uai_siret
   - tdb-apprentissage
   - la-bonne-alternance
   - voeux-apprentissage
-  - sirius
+teams:
+  - /teams/mission-apprentissage
 ---
