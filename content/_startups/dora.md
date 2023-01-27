@@ -26,8 +26,13 @@ phases:
     end: 2021-10-29
   - name: acceleration
     start: 2021-11-01
+user_profiles:
+  - "Employeurs solidaires"
+  - "Professionels de l'insertion"
+themes:
+  - "Accompagnement"
 ---
-# Le problème
+## Le problème
 
 Fin septembre 2020, le nombre de bénéficiaires du revenu de solidarité active (RSA), résidant en France entière, est estimé à 2,03 millions de foyers.
 
@@ -50,17 +55,15 @@ Qui ont des conséquences fortes pour :
 * Les bénéficiaires : un délai de retour à l’emploi plus long et une aide qui n’est pas apportée au bon moment
 * Les acteurs publics : pas de visibilité réelle sur la tension offre / demande d’insertion sur les territoires. Difficulté à réajuster les financements ( => *66% des accompagnants interrogés (250 réponses) estiment qu’ils n’arrivent pas à résoudre des problématiques des bénéficiaires car il y a trop peu de partenaires en capacité d’y répondre sur leur territoire.*)
 
-# La solution
+## Notre service
 
 [Dora](https://dora.fabrique.social.gouv.fr/) est un service public numérique qui permet aux structures de l’insertion de référencer simplement et mettre à jour en temps réel leur offre de services, et aux professionnels prescripteurs de rechercher et mobiliser rapidement le service le plus adapté au besoin de leur bénéficiaire. C'est un service gratuit en Opendata et Opensource.
-
-
 
 #### "Dites le nous une fois"
 
 Nous sommes engagés dans une démarche d’Open Data et rendons disponibles nos données à travers un référentiel commun — partagé par toutes les plateformes et sites web partenaires. Grâce à cette dynamique collective, vous référencez votre offre une seule fois tout en la rendant disponible partout.[ Vous pouvez dès à présent accéder aux données de Dora et les télécharger sur data.gouv.](https://www.data.gouv.fr/fr/datasets/referentiel-de-loffre-dinsertion-liste-des-structures-et-services-dinsertion/)
 
-# le service Dora vous intéresse ?
+## Le service Dora vous intéresse ?
 
 #### A. Vous représentez un territoire, une collectivité et cherchez à faciliter la coopération des acteurs de l'insertion de votre territoire ?
 
