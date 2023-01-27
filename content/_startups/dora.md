@@ -26,11 +26,9 @@ phases:
     end: 2021-10-29
   - name: acceleration
     start: 2021-11-01
-user_profiles:
-  - "Employeurs solidaires"
-  - "Professionels de l'insertion"
-themes:
-  - "Accompagnement"
+usertypes:
+  - entreprise
+  - collectivite-territoriale
 ---
 ## Le problème
 
