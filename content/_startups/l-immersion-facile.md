@@ -21,8 +21,9 @@ events:
     date: 2021-12-31
 usertypes:
   - particulier
+  - entreprise
 ---
-### **Le problème :**
+## Le problème
 
 L’immersion professionnelle ou période de mise en situation professionnelle (PMSMP) a été créée en 2014 pour permettre à toute personne en recherche d’emploi ou tout actif occupé de vérifier qu’un métier lui convient afin de sécuriser son projet d’orientation professionnelle. C’est un levier puissant de retour à l’emploi utilisé par les prescripteurs pour aider les usagers à s’orienter, valider une piste professionnelle ou une formation, ou concrétiser un projet d’insertion.
 
@@ -38,7 +39,7 @@ Résultats, des délais très longs pour des immersions d’une durée courte, d
 
 Parce qu’il existe autant de formes de bilan qu’il y a de structures accompagnantes. Qu’il s’agit le plus souvent d’une fiche papier à compléter et à renvoyer par mail et que le bilan est trop peu souvent saisi dans le dossier de la personne concernée.
 
-### La solution :
+### Notre service
 
 Mettre à disposition des acteurs de l’orientation et de l’insertion professionnelle un commun numérique, “l’immersion facilitée.”
 Ce commun proposera :
