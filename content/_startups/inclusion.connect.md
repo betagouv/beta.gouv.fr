@@ -13,13 +13,10 @@ phases:
   - name: construction
     start: 2022-07-01
     comment: Produit fonctionnel et déployé sur des premiers services
-user_profiles:
-  - "Collectivités"
-  - "Employeurs solidaires"
-  - "Professionels de l'insertion"
-  - "Services de l'Etat"
-themes:
-  - "Authentification unique"
+usertypes:
+  - collectivite-territoriale
+  - entreprise
+  - etat
 ---
 ## Le problème
 
