@@ -21,6 +21,7 @@ events:
 usertypes:
   - entreprise
   - etat
+  - collectivite-territoriale
 ---
 ## Contexte
 
@@ -29,13 +30,13 @@ confie une mission d’accompagnement socio-professionnel de personnes en diffic
 
 L'**inclusion dans l'emploi** concerne le vaste dispositif de l'IAE, les [entreprises adaptées](https://travail-emploi.gouv.fr/emploi/emploi-et-handicap/article/emploi-et-handicap-les-entreprises-adaptees-ea) (EA) dont la spécificité est d'employer au moins 80% de travailleurs en situation de handicap, et les [groupements d’employeurs pour l’insertion et la qualification](https://travail-emploi.gouv.fr/emploi/insertion-activite-economique/article/groupements-d-employeurs-pour-l-insertion-et-la-qualification-geiq) (GEIQ).
 
-## Problème
+## Le problème
 
 \=> Les acteurs de l’IAE n’a pas accès à des données de pilotage communes ; 
 
 \=> Les reporting existants nécessitent une lourde charge administrative (collecte et traitement des données)  qui mobilisent des ressourcent chez les employeurs solidaires et leurs partenaires publics.
 
-## Solution
+## Notre service
 
 Nous proposons d'exploiter les données à disposition de l'administration pour automatiser un certain nombre de rapports et analyses et ainsi réduire la charge administrative qui pèse sur les acteurs. 
 

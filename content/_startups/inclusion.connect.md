@@ -13,8 +13,12 @@ phases:
   - name: construction
     start: 2022-07-01
     comment: Produit fonctionnel et déployé sur des premiers services
+usertypes:
+  - collectivite-territoriale
+  - entreprise
+  - etat
 ---
-## Problème
+## Le problème
 
 Les services numériques à destination des professionnels de l’inclusion se multiplient, et avec eux les identifiants et mots de passe. Pour les usagers cela devient complexe et fastidieux et présente de vrais risques de sécurité.
 
