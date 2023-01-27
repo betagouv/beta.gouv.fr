@@ -29,17 +29,17 @@ L’immersion professionnelle ou période de mise en situation professionnelle (
 
 Aujourd’hui, à peine 350 000 immersions professionnelles par an sont réalisées. Quand elles le sont, le bilan qui en est tiré est peu et mal capitalisé. Il est, de ce fait, souvent oublié dans la suite du parcours du bénéficiaire.
 
-### Pourquoi si peu d’immersions ?
+## Pourquoi si peu d’immersions ?
 
 Parce que les personnes qui cherchent à faire une immersion n’ont pas un outil à leur disposition leur permettant d’identifier des entreprises où s’adresser.
 Parce que le process administratif pour avoir l’accord de faire une immersion est lourd et chronophage. Les conseillers des missions locales ou de Pôle emploi demandent un délai minimal de 15 jours entre l’envoi d’une demande et la date de démarrage d’une immersion. Des prescripteurs exigent encore la transmission en mains propres du CERFA de la convention avec signatures originales des parties et cachet de l’entreprise.
 Résultats, des délais très longs pour des immersions d’une durée courte, des déplacements et des abandons avant le démarrage de l’immersion.
 
-### Pourquoi les évaluations sont si mal capitalisées ?
+## Pourquoi les évaluations sont si mal capitalisées ?
 
 Parce qu’il existe autant de formes de bilan qu’il y a de structures accompagnantes. Qu’il s’agit le plus souvent d’une fiche papier à compléter et à renvoyer par mail et que le bilan est trop peu souvent saisi dans le dossier de la personne concernée.
 
-### Notre service
+## Notre service
 
 Mettre à disposition des acteurs de l’orientation et de l’insertion professionnelle un commun numérique, “l’immersion facilitée.”
 Ce commun proposera :
