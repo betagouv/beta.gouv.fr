@@ -1,6 +1,6 @@
 ---
 fullname: Xavier Jouppe
-role: Développeur
+role: Product Owner
 domaine: Développement
 github: XavierJp
 avatar:
