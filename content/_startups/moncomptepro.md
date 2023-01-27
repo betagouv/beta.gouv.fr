@@ -10,12 +10,14 @@ contact: ishan.bhojwani@beta.gouv.fr
 phases:
   - name: investigation
     start: 2018-09-01
-    end: 2019-01-01
-  - name: construction
-    start: 2019-01-02
+    end: 2022-01-01
+  - name: investigation
+    start: 2022-05-02
     end: 2022-04-21
+  - name: construction
+    start: 2022-06-01
   - name: acceleration
-    start: 2022-04-22
+    start: 2022-12-01
 usertypes:
   - etat
   - collectivite-territoriale
