@@ -64,9 +64,12 @@ Afin de garantir que l’apport de la DINUM bénéficiera réellement à un serv
 
 ## Exemples de produits accompagnés
 A titre d’exemple, voici quelques produits qui ont bénéficié du programme d’accélération :
-- [Estime](https://beta.gouv.fr/startups/estime.html), soutenir la reprise d'activité des demandeurs d'emploi en facilitant l'accès à l'information concernant les aides financières
-- [Ma Cantine](https://beta.gouv.fr/startups/ma-cantine-egalim.html), accompagner les acteurs de la restauration collective pour proposer une alimentation de qualité, saine et durable
-- [AccèsLibre](https://beta.gouv.fr/startups/acceslibre.html), collecter et partager les données d'accessibilité des établissements publics
+- [Mon Service Sécurisé](https://www.monservicesecurise.beta.gouv.fr/) : Faciliter la sécurisation et l’homologation des services numériques.
+- [JeVeuxAider](https://www.jeveuxaider.gouv.fr/) : Encourager l’engagement bénévoles grâce à la mise en relation auprès d’associations pour des besoins récurrents ou des grandes causes publiques.
+- [Collectif Objets](https://collectif-objets.beta.gouv.fr/) : Recenser pour mieux protéger les objets du patrimoine des communes (perte, destruction, dégradation, etc.).
+- [APiLos](https://apilos.beta.gouv.fr/) : Réduire la durée de conventionnement des bailleurs sociaux, afin d’éviter le décalage de versement d’APL ou la réévaluation des loyers.
+- [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) : Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté.
+- [Zéro Logements Vacants](https://zerologementvacant.beta.gouv.fr/) : Mobiliser les propriétaires de logements vacants.
 - 
 
 ## Candidater au programme d'accélération FAST !
