@@ -9,11 +9,11 @@ redirect_from:
 
 <img src="https://blog.beta.gouv.fr/img/posts/FAST_2400x448-nom-du-fonds.jpg" alt="Image de présentation du FAST"/>
 
-Le Fonds d’accélération des Startups d’État et de Territoire (FAST) est un **programme d’accélération** proposé par beta.gouv.fr aux produits numériques conçus selon l'approche Startups d'État qui souhaitent bénéficier du soutien de la Direction interministérielle du numérique (DINUM) pour augmenter leur impact et passer à l'échelle. 
+Le Fonds d’accélération des Startups d’État et de Territoire (FAST) est un **programme d’accélération** proposé aux produits numériques qui répondent aux [standards de qualité de beta.gouv.fr](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr) et qui souhaitent bénéficier du soutien de la Direction interministérielle du numérique (DINUM) pour augmenter leur impact et passer à l'échelle. 
 
-Ce programme est structuré autour d’un **accompagnement opérationnel et stratégique** par une équipe d’experts de beta.gouv.fr et d’un **cofinancement** à hauteur de 50% sur l'année, attribué en priorité aux produits rattachés aux chantiers prioritaires du gouvernement qui respectent les critères du programme.
+Ce programme est structuré autour d’un **accompagnement opérationnel et stratégique** par une équipe d’experts de beta.gouv.fr et d’un **cofinancement** à hauteur de 50% sur l'année, attribué en priorité aux produits liés aux chantiers prioritaires du gouvernement qui respectent les critères du programme.
 
-Le programme FAST accompagne 2 promotions de lauréats par an. L’[appel à candidatures](https://www.demarches-simplifiees.fr/commencer/fast-13) pour la 13ème édition est ouvert jusq'au 15 mai 2023.
+Le programme FAST accompagne 2 promotions de lauréats par an. L’[appel à candidatures](https://www.demarches-simplifiees.fr/commencer/fast-13) pour la 13ème édition est ouvert jusqu'au 15 mai 2023.
 
 ## Conditions d'éligibilité
 Pour être éligible au programme d'accélération du FAST, le service publique numérique doit remplir à minima les conditions ci-dessous :
@@ -67,10 +67,6 @@ A titre d’exemple, voici quelques produits qui ont bénéficié du programme d
 - [Mon Service Sécurisé](https://www.monservicesecurise.beta.gouv.fr/) : Faciliter la sécurisation et l’homologation des services numériques.
 - [JeVeuxAider](https://www.jeveuxaider.gouv.fr/) : Encourager l’engagement bénévoles grâce à la mise en relation auprès d’associations pour des besoins récurrents ou des grandes causes publiques.
 - [Collectif Objets](https://collectif-objets.beta.gouv.fr/) : Recenser pour mieux protéger les objets du patrimoine des communes (perte, destruction, dégradation, etc.).
-- [APiLos](https://apilos.beta.gouv.fr/) : Réduire la durée de conventionnement des bailleurs sociaux, afin d’éviter le décalage de versement d’APL ou la réévaluation des loyers.
-- [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) : Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté.
-- [Zéro Logements Vacants](https://zerologementvacant.beta.gouv.fr/) : Mobiliser les propriétaires de logements vacants.
-- 
 
 ## Candidater au programme d'accélération FAST !
 
