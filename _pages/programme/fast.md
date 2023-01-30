@@ -13,7 +13,7 @@ Le Fonds d’accélération des Startups d’État et de Territoire (FAST) est u
 
 Ce programme est structuré autour d’un **accompagnement opérationnel et stratégique** par une équipe d’experts de beta.gouv.fr et d’un **cofinancement** à hauteur de 50% sur l'année, attribué en priorité aux produits liés aux chantiers prioritaires du gouvernement qui respectent les critères du programme.
 
-Le programme FAST accompagne 2 promotions de lauréats par an. L’[appel à candidatures](https://www.demarches-simplifiees.fr/commencer/fast-13) pour la 13ème édition est ouvert jusqu'au 15 mai 2023.
+Le programme FAST accompagne 2 promotions de lauréats par an. **L’[appel à candidatures](https://www.demarches-simplifiees.fr/commencer/fast-13) pour la 13ème édition est ouvert jusqu'au 15 mai 2023.**
 
 ## Conditions d'éligibilité
 Pour être éligible au programme d'accélération du FAST, le service publique numérique doit remplir à minima les conditions ci-dessous :
