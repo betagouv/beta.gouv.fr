@@ -10,9 +10,10 @@ missions:
     employer: dinum
     status: admin
   - start: 2019-07-02
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
 startups:
+  - aides.jeunes
   - annuaire-entreprises
   - apilos
 previously:

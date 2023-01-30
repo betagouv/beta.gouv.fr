@@ -11,7 +11,7 @@ contact: cnr@beta.gouv.fr
 stats: true
 accessibility_status: non conforme
 phases:
-  - name: acceleration
+  - name: construction
     start: 2022-10-27
 ---
  

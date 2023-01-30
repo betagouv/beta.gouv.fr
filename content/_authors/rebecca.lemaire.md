@@ -6,6 +6,8 @@ missions:
   - start: 2022-06-27
     end: 2023-07-01
     status: admin
+startups:
+  - themis
 badges:
   - segur
 ---

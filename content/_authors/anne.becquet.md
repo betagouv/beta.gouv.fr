@@ -1,6 +1,6 @@
 ---
 fullname: Anne Becquet
-role: Intrapreneuse
+role: Directrice de la mission interministérielle pour l'apprentissage
 domaine: Intraprenariat
 github: Anne-Becquet
 missions:
@@ -9,10 +9,10 @@ missions:
     status: independent
 startups:
   - catalogue-apprentissage
-  - Trajpro
   - uai_siret
   - tdb-apprentissage
   - la-bonne-alternance
   - voeux-apprentissage
-  - sirius
+teams:
+  - /teams/mission-apprentissage
 ---

@@ -33,6 +33,7 @@ mapping:
             - /organisations/cnsa
             - /organisations/cstb
             - /organisations/ddd
+            - /organisations/dia-tnd
             - /organisations/departement-oise
             - /organisations/departement-pas-de-calais
             - /organisations/departement-var
@@ -98,7 +99,12 @@ mapping:
           mapping:
             "name":
               type:      str
-              assert:    "['product_launch','committee','other','national_impact','end'].include?(val)"
+              enum:
+                - product_launch
+                - committee
+                - other
+                - national_impact
+                - end
             "date":
               type:      date
             "comment":
@@ -113,11 +119,16 @@ mapping:
             "start":
               type:      date
             "end":
-              type:      any
-              assert:    "val.nil? || val.is_a?(Date) || (val.is_a?(String) && val.empty?)"
+              type:      date
             "name":
               type:      str
-              assert:    "['investigation','construction','acceleration','success','transfer','alumni'].include?(val)"
+              enum:
+                - investigation
+                - construction
+                - acceleration
+                - success
+                - transfer
+                - alumni
             "comment":
               type:      str
   "incubator":

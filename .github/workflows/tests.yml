@@ -8,9 +8,7 @@ on:
 
 jobs:
   test:
-
     runs-on: ubuntu-20.04
-
     steps:
     - uses: actions/checkout@v2
     - name: Set up Ruby
@@ -24,13 +22,6 @@ jobs:
         node-version: 16
         cache: 'npm'
     - run: npm ci
-
-
-    - uses: actions/setup-python@v2
-      with:
-        python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
-    - name: Install python dependencies
-      run: pip3 install -r requirements.txt
 
     - name: Unit tests
       run: bundle exec rspec
@@ -59,17 +50,6 @@ jobs:
               exit 1
             fi
 
-    - name: "Check yaml syntax (yamllint)"
-      run: |
-            ret=0
-            for dir in content/_startups content/_authors ; do
-              set +e
-              echo "Scan $dir/*.md"
-              time ci/check_yaml_front_matter_metadata.sh "$dir/*.md"
-              ret=$?
-            done
-            exit $ret
-
     - name: Check Jekyll configuration
       run: bundle exec jekyll doctor
 
@@ -91,9 +71,6 @@ jobs:
 
     - name: Lint JSON API pages
       run: bundle exec jsonlint _site/api/v*/*.json
-
-    - name: Check Beta Startups and Members details error
-      run: time ci/check_beta_startups_members_details.py
 
     - name: Wait for server to start
       run: |

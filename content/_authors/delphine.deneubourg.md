@@ -8,6 +8,8 @@ missions:
     end: 2023-06-02
     status: admin
     employer: Ministère de la Justice
+teams:
+  - /teams/justice
 startups:
   - justif
 ---

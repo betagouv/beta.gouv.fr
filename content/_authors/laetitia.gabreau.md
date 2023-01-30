@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Benext
   - start: 2021-11-01
-    end: 2023-03-31
+    end: 2023-08-31
     status: independent
     employer: Octo
 startups:
@@ -19,5 +19,7 @@ badges:
   - segur
 competences:
   - Gestion de Produit
+
 ---
+
 Passionnée par l'innovation d'intérêt général, et facilitatrice graphique amatrice

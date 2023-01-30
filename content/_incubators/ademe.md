@@ -1,7 +1,7 @@
 ---
 title: L'Accélérateur de la transition écologique
 owner: /organisations/ademe
-logo: logo_ademe.png
+logo: incubateur-ademe.png
 website:
 github:
 contact: mailto:martin.regner@ademe.fr

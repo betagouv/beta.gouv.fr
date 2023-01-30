@@ -16,12 +16,14 @@ phases:
     end: 2022-06-01
   - name: alumni
     start: 2022-06-02
-    end: ""
+    end: 2023-01-12
+  - name: transfer
+    start: 2023-01-12
 ---
 [Lien vers la synthèse complète de l'investigation](https://docs.google.com/document/d/1k-618voE5U_zWq-zq48U7XnQNvzTiKApMmeZiUxkkZk/edit?usp=sharing)
 
 ## Contexte
-La présente démarche d’investigation s’inscrit dans le cadre de l’appel à idées 2021 de la fabrique numérique de la Direction Numérique des Ministères Sociaux (DNUM). Elle vise à **étudier les difficultés rencontrées par les services déconcentrés de l’Etat et les structures d’insertion dans la gestion des conventionnements IAE** (phase 1) et à **imaginer des hypothèses de solutions dans le but de fluidifier ces démarches et permettre aux acteurs de se concentrer sur leurs missions d’accompagnement** (phase 2). 
+La présente démarche d’investigation s’inscrit dans le cadre de l’appel à idées 2021 de la fabrique numérique de la Direction Numérique des Ministères Sociaux (DNUM). Elle vise à **étudier les difficultés rencontrées par les services déconcentrés de l’Etat et les structures d’insertion dans la gestion des conventionnements IAE** (phase 1) et à **imaginer des hypothèses de solutions dans le but de fluidifier ces démarches et permettre aux acteurs de se concentrer sur leurs missions d’accompagnement** (phase 2).
 
 ## Problème
 L'investigation a identifié deux problèmes principaux :
@@ -29,7 +31,7 @@ L'investigation a identifié deux problèmes principaux :
 1. Les porteurs de projets peinent à trouver toutes les informations nécessaires à leur premier conventionnement et perdent beaucoup de temps.
 
 ## Solution
-Notre investigation a révélé que la DGEFP s'attaque déjà au sujet de la dématérialisation des conventions et des annexes financières afin d'accélérer et de simplifier leur circuit de signature. 
+Notre investigation a révélé que la DGEFP s'attaque déjà au sujet de la dématérialisation des conventions et des annexes financières afin d'accélérer et de simplifier leur circuit de signature.
 
 **Nous avons donc décidé de nous concentrer sur le deuxième problème** pour lequel nous envisageons le développement d'un produit permettant de faciliter le parcours des des porteurs de projets via :
 - **un guide** pour comprendre ce qu’est l’IAE et le rôle des structures,

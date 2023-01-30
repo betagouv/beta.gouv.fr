@@ -4,7 +4,7 @@ mission: "Diminuer les délais de prise en charge, par les espaces de rencontre,
   des mesures judiciaires ordonnant des visites parent/enfant "
 sponsors:
   - /organisations/mj
-incubator: dinum
+incubator: justice
 contact: anissa.jabri@justice.gouv.fr
 accessibility_status: non conforme
 phases:

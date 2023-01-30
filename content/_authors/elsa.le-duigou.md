@@ -15,7 +15,7 @@ missions:
     end: 2025-12-26
     status: admin
     employer: dinum
-startups:
+previously:
   - collectif_objets
 badges:
   - segur

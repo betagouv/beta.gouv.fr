@@ -1,5 +1,5 @@
 ---
-fullname: emmanuelle cayuela
+fullname: Emmanuelle Cayuela
 role: Intrapreneuse
 domaine: Intraprenariat
 missions:
@@ -7,6 +7,8 @@ missions:
     end: 2023-07-01
     status: admin
     employer: DISP Marseille
+startups:
+  - themis
 badges:
   - segur
 ---

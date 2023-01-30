@@ -1,6 +1,7 @@
 ---
-title: Encyclopédie des Métiers
-mission: Faciliter l'accès à des informations claires et pratiques sur les métiers et les compétences
+title: MétierScope
+mission: Faciliter l'accès à des informations claires et pratiques sur les
+  métiers et les compétences
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
@@ -14,7 +15,9 @@ phases:
     end: 2021-11-01
   - name: construction
     start: 2021-11-01
-    end: 2023-03-15
+    end: 2022-10-16
+  - name: transfer
+    start: 2022-10-16
 ---
 ### Problème
 
@@ -22,7 +25,7 @@ De nombreuses “fiches métiers” existent en ligne, mais elles ne sont pas sa
 
 ### Solution
 
-“L’encyclopédie des métiers et des compétences” permet de mettre à disposition les informations sur les emplois et le compétences, de façon complète, à jour et centralisée
+MétierScope permet de mettre à disposition les informations sur les emplois et le compétences, de façon complète, à jour et centralisée
 
 ### Stratégie
 
@@ -36,5 +39,6 @@ Puis :
 * Référencement sur L'emploi store
 * Réorientation du trafic de la fiche ROME (IMT) vers la fiche hébergée sur le produit Encyclopédie
 * Campagne nationale déploiement C4.0
+* I﻿ntégration PE.fr
 
 ##### Cible : Demandeurs en transition professionnelle, 20% des demandeurs d'emploi, soit **un million de personnes**

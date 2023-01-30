@@ -21,8 +21,9 @@ phases:
 usertypes:
   - collectivite-territoriale
   - etat
+  - association
 ---
-# Le problème
+## Le problème
 
 Quand une personne en insertion initie une démarche d'accompagnement par les services publics, c'est bien souvent un parcours long et complexe qui démarre, jusqu'à être efficacement orientée, par exemple vers un emploi ou une formation professionnelle (en moyenne entre un an et deux ans).
 
@@ -30,7 +31,7 @@ Au fil de ce parcours, la personne en insertion va rencontrer un très grand nom
 
 Pourtant, plus le temps passe et plus les risques de découragement voire de détresse sont importants, rendant plus compliqué le retour vers une solution d'insertion pérenne et adaptée.
 
-# Notre contribution à la solution
+## Notre service
 
 data.insertion se fixe pour objectif d'améliorer les parcours d'insertion en facilitant la circulation des données entre les différents acteurs.
 Pour cela, data.insertion améliore la mise à disposition de données de qualité, en répondant au plus près aux problèmes des acteurs de terrain (travailleurs sociaux, conseiller pôle-emploi, responsables associatifs, etc).

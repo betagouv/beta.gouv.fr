@@ -37,4 +37,31 @@ describe BetaDsl::Startup, type: :dsl do
       end
     end
   end
+
+  describe '.last_phase' do
+    let(:investigation) { { start: Date.new(2022, 1), end: Date.new(2022, 2) } }
+    let(:construction)  { { start: Date.new(2022, 2), end: Date.new(2022, 3) } }
+    let(:transfer)      { { start: Date.new(2022, 4) } }
+
+    context 'when there is no ongoing phase' do
+      let(:phases) { [construction, investigation] }
+
+      it 'gives the last chronological phase' do
+        expect(subject.last_phase).to eq investigation
+      end
+    end
+
+    context 'when there is an ongoing phase' do
+      let(:phases) { [construction, investigation, transfer] }
+
+      it 'gives the ongoing phase' do
+        expect(subject.last_phase).to eq transfer
+      end
+    end
+  end
+
+  BetaDsl::Startup::PHASES.each do |phase|
+    it { is_expected.to respond_to "#{phase}_phase" }
+    it { is_expected.to respond_to "#{phase}_phase?" }
+  end
 end

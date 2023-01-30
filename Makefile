@@ -9,6 +9,8 @@ spec:
 	$(DOCKER-RUN) web $(BUNDLE-EXEC) rspec
 guard:
 	$(DOCKER-RUN) web $(BUNDLE-EXEC) guard
+dsl:
+	$(DOCKER-RUN) web ./bin/beta-rb
 up: down
 	docker-compose up -d
 down:
