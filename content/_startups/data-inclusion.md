@@ -1,6 +1,6 @@
 ---
 title: data inclusion
-mission: le référentiel ouvert et partagé des solutions d'insertion
+mission: "Créer un référentiel commun de toutes les données de l’offre d’insertion des territoires"
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
