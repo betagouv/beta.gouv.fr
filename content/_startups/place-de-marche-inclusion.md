@@ -1,7 +1,6 @@
 ---
 title: Marché de l'inclusion (ITOU)
-mission: Promouvoir l'offre commerciale des structures inclusives pour accroître
-  leur capacité d'embauche
+mission: "Aider les structures inclusives à développer leur chiffre d’affaires"
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
