@@ -7,7 +7,7 @@ missions:
   - start: 2020-01-22
     end: 2023-06-30
     status: independent
-    employer: solstice
+    employer: ut7
 startups:
   - tdb-apprentissage
   - catalogue-apprentissage
