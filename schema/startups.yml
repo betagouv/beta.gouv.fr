@@ -172,6 +172,9 @@ mapping:
             - entreprise
             - association
             - etablissement-scolaire
+            - editeur-logiciel
+            - professionnel-de-l-insertion
+            - employeur-solidaire
   "analyse_risques":
     type:      bool
   "analyse_risques_url":
