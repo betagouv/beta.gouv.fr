@@ -1,7 +1,6 @@
 ---
 title: Immersion facilitée
-mission: Augmenter le nombre d'immersions professionnelles pour les personnes
-  éloignées de l'emploi
+mission: "Faciliter la réalisation des immersions professionnelles"
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
