@@ -1,10 +1,10 @@
 ---
 fullname: Alexandra OUJEBBOUR
-role: Ambassadrice métier ou experte métier
+role: Ambassadrice métier/Co PM
 domaine: Autre
 missions:
   - start: 2022-03-01
-    end: 2023-02-28
+    end: 2023-09-01
     status: admin
     employer: Pôle Emploi
 startups:
