@@ -1,7 +1,6 @@
 ---
 title: Inclusion Connect
-mission: Connecter 160 000 professionnels de l’inclusion aux services numériques
-  de leur quotidien, d’une manière simple, sécurisée, efficace.
+mission: "Simplifier l’utilisation des services à destination des professionnels de l’inclusion"
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
