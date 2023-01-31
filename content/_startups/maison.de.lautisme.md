@@ -5,8 +5,10 @@ mission: Aider les personnes autistes et leurs proches à trouver leurs réponse
 sponsors:
   - /organisations/dia-tnd
 incubator: sgmas
+link: https://maisondelautisme.fabrique.social.gouv.fr/
+repository: https://github.com/SocialGouv/mda
 contact: autisme.tnd@pm.gouv.fr
-accessibility_status: null
+accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2022-09-05
@@ -42,7 +44,7 @@ Deuxièmement, elle donnera accès à des services équivalents aux services phy
 
 Troisièmement, elle proposera des ressources et services que seul le digital peut permettre : banque de mooc, sensibilisation/formation, base documentaire… 
 
-Son ouverture bêta est prévue le 31 janvier 2023, et un déploiement officiel au 2 avril 2023.
+Son ouverture bêta a eu lieu le 1er février 2023, et son déploiement officiel est prévu au 2 avril 2023.  
 
 ## À qui ce service s’adresse-t-il ?
 
