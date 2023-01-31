@@ -1,7 +1,6 @@
 ---
 title: Carnet de bord
-mission: "Faciliter la vie des personnes en insertion et de celles et ceux qui
-  les accompagnent "
+mission: Partager le parcours d’insertion pour faciliter les avancées des personnes.
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
