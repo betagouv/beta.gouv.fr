@@ -1,6 +1,5 @@
 ---
-mission: Identifier rapidement les services d’insertion adaptés aux besoins de
-  vos bénéficiaires
+mission: "Recenser et mettre en visibilité les services d’insertion adaptés aux besoins des bénéficiaires"
 incubator: gip-inclusion
 repository: https://github.com/betagouv/dora/
 contact: dora@beta.gouv.fr
