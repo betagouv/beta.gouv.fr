@@ -5,7 +5,7 @@ role: Développeur
 link: https://www.linkedin.com/in/ftaffore/
 missions:
   - start: 2019-05-14
-    end: 2023-01-01
+    end: 2023-06-30
     status: independent
 startups:
   - sepia
