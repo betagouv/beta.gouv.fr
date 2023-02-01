@@ -65,8 +65,8 @@ Le déploiement national de France Chaleur Urbaine passe par :
 * la **prospection** de copropriétaires et propriétaires/gestionnaires de bâtiments tertiaires potentiellement intéressés pour se raccorder ;
 * la mise en place de **partenariats avec des collectivités et exploitants**, utilisant le service et s'en faisant le relais ;
 * une **cartographie interactive à l'échelle nationale** incluant les tracés des réseaux de chaleur mais aussi des données sur les potentiels de raccordement, qui s'enrichit régulièrement pour répondre aux besoins de ses utilisateurs  ;
-* la mise en place régulière de **nouvelles fonctionnalités** pour répondre aux attentes des utilisateurs ;
 * l'organisation régulière d'un comité des partenaires réunissant les principaux acteurs de la filière, ainsi que d'ateliers ouverts aux différentes parties prenantes.
+* la mise en place régulière de **nouvelles fonctionnalités** pour répondre aux attentes des utilisateurs ;
 
 
 ## L'historique du projet
