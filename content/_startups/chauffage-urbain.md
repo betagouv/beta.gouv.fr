@@ -41,9 +41,33 @@ Ainsi, lorsque les chaudières existantes arrivent en fin de vie ou que des trav
 France Chaleur Urbaine vise à faciliter et accélérer les raccordements des bâtiments aux réseaux de chaleur.
 
 * **Pour les copropriétaires, et les propriétaires ou gestionnaires de bâtiments tertiaires**, France Chaleur Urbaine constitue une plateforme d’**informations et de mise en relation directe avec le gestionnaire du réseau local** (par exemple pour solliciter un rendez-vous ou un devis) ;
-* **Pour les exploitants ou collectivités** qui souhaitent agir pour la transition énergétique, France Chaleur Urbaine constitue une plateforme pour **valoriser leur réseau de chaleur**, pour **acquérir de nouveaux prospects** et pour **accéder à des données sur les potentiels de raccordement** sur leur territoire, à l'échelle des bâtiments, via un outil cartographique.
+* **Pour les exploitants ou collectivités**, France Chaleur Urbaine constitue une plateforme pour **valoriser leur réseau de chaleur**, pour **acquérir de nouveaux prospects** et pour **accéder à des données sur les potentiels de raccordement** sur leur territoire, à l'échelle des bâtiments, via un outil cartographique.
 
 Le service est opérationnel en version beta sur https://france-chaleur-urbaine.beta.gouv.fr/
+
+## Impact
+
+- 20 Partenariats effectifs ou en cours de montage avec des collectivités et exploitants
+- 30 Raccordements à l’étude*
+- 2000 Nombre de logements concernés par ces raccordement à l'étude
+~ 2000 Tonnes de CO2 potentiellement économisées par an
+
+Le raccordement à un réseau de chaleur nécessitant un temps relativement long (plusieurs mois), nous estimons l’impact par le nombre de demandes de contact reçues et transférées aux gestionnaires des réseaux, et par le nombre de collectivités et exploitants partenaires du service. La quantité de CO2 évitée par les raccordements à l'étude sera également évaluée.
+
+*Par raccordements à l’étude, on désigne ceux pour lesquels une étude de faisabilité technico-économique est en cours au niveau du gestionnaire du réseau, ou a été transmise à la copropriété ou au bâtiment tertiaire. En copropriété, la proposition du gestionnaire de réseau devra ensuite être votée en AG avant que les travaux ne puissent démarrer.
+
+
+## Stratégie
+
+Le déploiement national de France Chaleur Urbaine passe par : 
+
+* un travail de **promotion des réseaux de chaleur**, encore trop peu connus en France, qui passe notamment par des actions de communication ;
+* la **prospection** de copropriétaires et propriétaires/gestionnaires de bâtiments tertiaires potentiellement intéressés pour se raccorder ;
+* la mise en place de **partenariats avec des collectivités et exploitants**, utilisant le service et s'en faisant le relais ;
+* une **cartographie interactive à l'échelle nationale** incluant les tracés des réseaux de chaleur mais aussi des données sur les potentiels de raccordement, qui s'enrichit régulièrement pour répondre aux besoins de ses utilisateurs  ;
+* la mise en place régulière de **nouvelles fonctionnalités** pour répondre aux attentes des utilisateurs ;
+* l'organisation régulière d'un comité des partenaires réunissant les principaux acteurs de la filière, ainsi que d'ateliers ouverts aux différentes parties prenantes.
+
 
 ## L'historique du projet
 
@@ -61,18 +85,4 @@ Mi-2022, France Chaleur Urbaine est lauréat de France Relance au titre du guich
 
 Ces nouveaux moyens permettent d'élargir le service, qui ne se limite plus aux copropriétés mais cible désormais aussi le secteur tertiaire. Un volet à destination des collectivités et exploitants est également développé, pour les accompagner dans le déploiement de leurs réseaux.
 
-
-
-## Stratégie
-
-Le déploiement national de France Chaleur Urbaine passe par : 
-
-* un travail de **promotion des réseaux de chaleur**, encore trop peu connus en France, qui passe notamment par des actions de communication ;
-* la **prospection** de copropriétaires et propriétaires/gestionnaires de bâtiments tertiaires potentiellement intéressés pour se raccorder ;
-* la mise en place de **partenariats avec des collectivités et exploitants**, utilisant le service et s'en faisant le relais ;
-* une **cartographie interactive à l'échelle nationale** incluant les tracés des réseaux de chaleur mais aussi des données sur les potentiels de raccordement, qui s'enrichit régulièrement pour répondre aux besoins de ses utilisateurs  ;
-* la mise en place régulière de **nouvelles fonctionnalités** pour répondre aux attentes des utilisateurs ;
-* l'organisation régulière d'un comité des partenaires réunissant les principaux acteurs de la filière, ainsi que d'ateliers ouverts aux différentes parties prenantes.
-
-Le raccordement à un réseau de chaleur nécessitant un temps relativement long (plusieurs mois), nous estimons l’impact par le nombre de demandes de contact reçues et transférées aux gestionnaires des réseaux, et par le nombre de collectivités et exploitants partenaires du service. La quantité de CO2 évitée par les raccordements à l'étude sera également évaluée.
 
