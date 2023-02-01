@@ -1,5 +1,6 @@
 ---
 fullname: Félix At
+github: felixat13
 role: Data Analyst
 domaine: Autre
 link: https://www.linkedin.com/in/felixat/
