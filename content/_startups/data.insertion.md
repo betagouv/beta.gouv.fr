@@ -1,7 +1,6 @@
 ---
 title: RDV-Insertion
-mission: Améliorer les parcours d’insertion en facilitant la circulation de
-  données entre les acteurs
+mission: Accélérer les rendez-vous RSA et diminuer le taux d'absentéisme
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -12,6 +11,7 @@ contact: data.insertion@beta.gouv.fr
 usertypes:
   - collectivite-territoriale
   - etat
+  - association
 stats_url: https://betagouv.github.io/stats-data-insertion/
 stats: true
 phases:
@@ -24,8 +24,6 @@ phases:
 ---
 ## Le problème
 
-
-
 Les parcours d’insertion sont longs et peu suivis : 
 
 \- Fort taux d’absentéisme aux RDV contractuels du parcours (pilotés par les CD)
@@ -33,8 +31,6 @@ Les parcours d’insertion sont longs et peu suivis : 
 \- Délais trop longs (ex : délai moyen d’orientation de 95 jours en 2019) 
 
 \- Risque de rupture de parcours post-signature CER élevé
-
-
 
 ## Notre service 
 
