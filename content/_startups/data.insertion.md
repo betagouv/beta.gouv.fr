@@ -1,7 +1,6 @@
 ---
 title: data.insertion
-mission: Améliorer les parcours d’insertion en facilitant la circulation de
-  données entre les acteurs
+mission: Accélérer les rendez-vous RSA et diminuer le taux d'absentéisme
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei

@@ -1,7 +1,6 @@
 ---
 title: Pilotage de l'inclusion (ITOU)
-mission: "Réduire la charge administrative des acteurs de l'inclusion et
-  faciliter le pilotage des politiques publiques "
+mission: "Aider la prise de décision des professionnels grâce à des tableaux de bord"
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei

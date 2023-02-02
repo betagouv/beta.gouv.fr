@@ -1,6 +1,6 @@
 ---
 title: "Emplois de l'inclusion (ITOU)"
-mission: "Favoriser la réussite pour tous"
+mission: "Faciliter la mise en relation avec les employeurs solidaires"
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
