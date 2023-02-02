@@ -1,13 +1,15 @@
 ---
 fullname: Tan Letellier
-role: Animatrice transverse de la Grande Fabrique de Pôle Emploi
+role: Chargée Marketing et Communication à Pôle Emploi
 domaine: Animation
 missions:
   - start: 2022-10-01
-    end: 2023-06-30
+    end: 2023-08-31
     status: admin
     employer: Pôle Emploi
 teams:
   - /teams/PE
+
 ---
+
 
