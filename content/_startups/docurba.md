@@ -21,85 +21,60 @@ usertypes:
   - collectivite-territoriale
   - etat
 ---
-**Environ 1,5 million de demandes d’autorisation d’urbanisme sont réalisées chaque année**. Celles-ci sont instruites au regard des documents d’urbanisme qui sont élaborés par les collectivités territoriales et qui fournissent les règles de planification urbaine.
 
-Ces documents d’urbanisme doivent, d’un côté, incarner un projet politique porté par les élus locaux et, de l’autre, tenir compte de la  réglementation en pleine évolution au niveau national et local (Loi Elan en 2018, ASAP en 2020, Climat et Résilience en 2021). 
 
-En raison de leur très forte transversalité, l’exercice d’élaboration des documents d’urbanisme est complexe et on estime entre 3 et 5 ans la durée de la procédure. Cela représente un coût important pour la collectivité et retarde l’application des lois et des politiques publiques sur le territoire. 
+**Plus de 10 000 collectivités devront décliner la trajectoire d’artificialisation des sols prévue par la loi Climat et Résilience d’ici 2027 dans leurs documents d’urbanisme, lesquels s’imposent aux 1,5 million de demandes d’autorisation d’urbanisme.** Or l’élaboration de ces documents est longue et risquée. Les collectivités mettent entre 3 et 5 ans à élaborer leur document d’urbanisme, et lors de l’approbation la majorité des avis de l’Etat présentent des réserves sur la prise en compte des enjeux environnementaux. À ce titre, la consommation d’espace, l’assainissement ou l’eau potable sont insuffisamment évalués dans ces projets de planification urbaine.  
 
-Il faudra, par exemple, attendre que l’ensemble des documents d’urbanisme soient révisés pour que l’objectif de zéro artificialisation nette puisse s’appliquer sur tout le territoire. 
+
 
 ## Les problèmes rencontrés 
 
-Les directions départementales des territoires (DDT), qui représentent de l’État au niveau local, doivent transmettre la vision et les informations de l’Etat aux collectivités et s’assurer que ces éléments sont bien pris en compte dans les documents d’urbanisme. Pour cela, elles doivent regrouper et mettre en cohérence les enjeux de différents services de l’Etat et les formaliser (notamment à travers le Porter à Connaissance et la note d’enjeux) avant de donner un avis sur le document. 
 
-Elles sont confrontées à une double difficulté pour réaliser cette mission : 
+En ce qui concerne la relation État/collectivité, le début de la procédure est formalisé par le *Porter à Connaissance* (PAC) et par la *note d’enjeux*, documents délivrés par la DDT. La fin de la procédure est, quant à elle, formalisée par l’*avis de l’État*. Entre les deux, **l’accompagnement de la collectivité par les services de l’État n’est pas encadré, ce qui ne permet pas d’assurer la bonne prise en compte des enjeux environnementaux sur le territoire.**  
 
-* Elles ne connaissent pas le calendrier des collectivités et ne peuvent pas anticiper la sollicitation des différents services de l’Etat. 
-* Elles ne savent pas toujours comment interpréter et adapter des textes de lois aux spécificités d’un territoire.
+Ce manque d’outillage dans l’accompagnement de la collectivité engendre différentes contraintes :
 
-Ces difficultés se répercutent sur les collectivités à deux niveaux : 
+* Pour les DDT, **le manque de visibilité sur le calendrier des collectivités complexifie l’accompagnement et ne leur permet pas d’orienter les collectivités aux moments opportuns,** et ainsi anticiper les différents risques tout au long de la procédure. De plus, la réglementation en pleine évolution (exemple avec la loi Elan en 2018 et de la loi Climat et Résilience en 2021) ralentit la mise à disposition du PAC par la DDT.  
 
-* Les éléments transmis arrivent souvent trop tard dans la procédure et ne sont pas systématiquement présentés ou expliqués. Par conséquent, les collectivités, et les bureaux d’études avec lesquels elles travaillent, doivent trouver certaines données ailleurs (sans garantie de validité) et perçoivent les informations de l'État comme des contraintes à traiter plutôt que comme de potentiels atouts pour le développement de leur territoire.
-* Certains enjeux peuvent sembler contradictoires, ce qui crée de l’incompréhension et une défiance des élus vis-à-vis de l’État.
+* **Ces difficultés en DDT se répercutent sur les collectivités car les éléments alors transmis arrivent souvent trop tard dans la procédure, et ne sont pas systématiquement présentés ou expliqués.** Par conséquent, les collectivités, et leurs bureaux d’études, doivent trouver certaines données ailleurs, sans garantie de validité, et perçoivent les informations de l’État comme des contraintes à traiter plutôt que de potentiels atouts pour leur projet de territoire.
 
-## La solution : faciliter l’élaboration et le suivi des documents d’urbanisme afin que les enjeux et les politiques publiques soient plus facilement et rapidement pris en compte
 
-L’objectif de Docurba est d’améliorer le partage d’informations entre les collectivités, DDT et différents services de l’État pour faciliter l’élaboration et le suivi des documents d’urbanisme.
 
-En quelques mots, cet outil est : 
-* DIRECT : > 20% du contenu du porter-à-connaissance disponible dès prescription (ressources et données pour commencer son document)
-* FLUIDE : Navigation facilitée avec un contenu dynamique (recherches, commentaires etc)
-* COLLABORATIF : Échanges facilités entre les Services de l’Etat, collectivités, bureau d’études
-* CENTRAL  : Un maximum d’informations rassemblées au même endroit
+## La solution :  outiller la collaboration entre services de l’État et collectivités pour faciliter l’élaboration et le suivi des documents d’urbanisme, afin que les enjeux environnementaux soient plus rapidement et mieux pris en compte sur le territoire.
 
-Docurba permet :
-* aux collectivités d’accéder à toutes les informations juridiques, à des ressources utiles (conseils, modèles...) et aux données brutes de l’Etat dès le lancement de leur projet. Puis à des informations et commentaires complémentaires, notamment au PAC commenté et à la note d’enjeux si elles en font la demande ;
-* aux DDT de bénéficier d’un socle d’informations déjà pré-rempli, le compléter grâce à une trame harmonisée, intégrer des liens vers les données et gérer les contributions.
 
-Nous avons ainsi lancé en septembre 2021 la plateforme Docurba qui permet aux collectivités et bureaux d’études d’accéder directement au socle d’informations utiles pour élaborer leur document d’urbanisme : cadre juridique, éléments supra-territoriaux, jeux de données, ressources et bientôt une feuille de route partagée.
+Pour cela, Docurba met à disposition :
 
-L’accès pour les Services de l’Etat a été déployé en janvier 2022. Celui-ci permet aux agents en charge des Porter-à-connaissance (PAC) d’avoir accès à :
-* un socle commun avec éléments pré-remplis aux niveaux national et régional, 
-* une introduction et une trame harmonisée pour l'application locale,
-* un outil d’édition pour apporter l’application locale, 
-* un export .pdf du PAC, et une version consultable en ligne pour les collectivités. 
+* **Un socle d’informations utiles à la collectivité et consultables dès le début et tout au long de l’élaboration de son document d’urbanisme.** Appelé “Socle de PAC”, il contient les premiers éléments constitutifs du PAC, avec des éléments harmonisés et mis à jour régulièrement, au niveau national et régional, ainsi que des ****données spécifiques au territoire,
+
+* **Un outil collaboratif en DDT pour l’élaboration des PAC**. Chaque DDT dispose d’une trame de PAC départementale personnalisable avec des éléments pré-remplis au niveau national et régional. La volonté est de permettre aux services de l’État de consacrer plus de temps sur l’application locale et ainsi aider la collectivité à mieux prendre en compte les enjeux du territoire,
+
+* **Une feuille de route partagée.** Qualifiée de guide pour la collectivité, elle permet également aux services de l’État d’obtenir des informations sur l’avancée des procédures tout le territoire. (En cours)
+
+
+Docurba à l’ambition d’être un outil central, direct et collaboratif en proposant des informations utiles rassemblées et accessibles à tout moment, et en permettant la collaboration entre les différentes parties prenantes dans l’élaboration des documents d’urbanisme. 
+
+Se rendre sur Docurba : [http://docurba.beta.gouv.fr/](http://docurba.beta.gouv.fr/)
+
+
 
 ## Impact 
 
-La mission à laquelle contribue Docurba est de permettre de plus rapidement et mieux prendre en compte les enjeux environnementaux sur le territoire. 
 
-Nous mesurons notre impact via trois indicateurs à court/moyen terme : 
-* nombre de DDT reprenant la trame commune de Docurba pour leur PAC, 
-* nombre de PAC consultés par les collectivités via la plateforme.
-* nombre de mois entre la prescription du document d’urbanisme et les premières étapes d’élaboration du document comme la présentation du diagnostic. 
+**Docurba a pour mission de faciliter l’élaboration et le suivi des documents d’urbanisme afin de plus rapidement et mieux prendre en compte les enjeux environnementaux.**
 
-En septembre 2022, notre produit minimum viable est utilisé par 10+ DDT, soit une trentaine d'agents des services de planification urbaine. 
+Notre objectif d’impact d'ici à fin 2023 :
 
-## Stratégie pour les 6 prochains mois
+* 80% des DDT utilisent Docurba pour transmettre le PAC < 6 mois, et suivre leur document d’urbanisme,
+* 33% des collectivités se lançant dans un document d’urbanisme ont été orientées par Docurba.
 
-Septembre 2022:
-* Socle de PAC harmonisé entre DDT d'AuRA et validé par QV4, utilisable sur tout le territoire: validation du produit minimum viable, 
-* Investigation auprès des DDT sur le suivi des documents d'urbanisme, 
-* Conception de la feuille de route partagée pour un suivi collectif des documents d'urbanisme entre les DDT et leurs collectivités, 
-* Évaluation du coup de déploiement par région et système de données, 
-* Transmission aux collectivités d'Auvergne-Rhône-Alpes de PAC réalisés via Docurba. 
+**En janvier 2023, notre produit est utilisé par 37+ DDT, soit 80 agents des services de planification, et une 20aine de collectivités et bureaux d’études.** 
 
-Octobre 2022: 
-* Recherche sur la connexion des jeux de données dans les différentes régions,
-* Déploiement de Docurba à 10+ collectivités en phase de prescription de leur document d'urbanisme et sur un territoire utilisant le même système de données d'AuRA, 
-* Conception et Développement de la feuille de route partagée pour un suivi collectif des documents d'urbanisme entre les DDT et les collectivités-bureaux d'etudes. 
 
-Novembre 2022:
-* Test de la 1ère version de la fonctionnalité "feuille de route partagée",
-* Précision de la stratégie de déploiement aux collectivités, 
-* Amélioration de l'interface de Docurba.
+Nos statistiques via ce lien : [Statistiques de Docurba](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=235&period=range&date=previous30#?idSite=235&period=range&date=2022-12-01,2023-01-09&category=General_Visitors&subcategory=General_Overview)
 
-Décembre 2022 - Février 2023: 
-* Connexion des jeux de données dans les différentes régions,
-* Accélération du déploiement aux DDT et collectivités,
-* Intégration de l'historique des données de suivi des documents d'urbanisme (Sudocuh)
 
-Nous sommes à votre disposition pour toute question ou suggestion. 
+
+
 
 \*source  https://www.cohesion-territoires.gouv.fr/sites/default/files/2020-07/Pre%CC%81sentation%20du%20programme%20De%CC%81mat.ADS_.pdf

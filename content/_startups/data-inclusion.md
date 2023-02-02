@@ -1,6 +1,6 @@
 ---
 title: data·inclusion
-mission: Le patrimoine commun de l'offre d'insertion
+mission: "Créer un référentiel commun de toutes les données de l’offre d’insertion des territoires"
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -26,17 +26,24 @@ phases:
   - name: investigation
     start: 2022-03-17
   - name: construction
-    start: 2022-06-30
+    start: 2022-06-30  
+usertypes:
+  - collectivite-territoriale
+  - entreprise
+  - association
+  - etat
 ---
-data·inclusion est une **démarche collective** visant à créer **un référentiel commun** de toutes les données de l’offre d’insertion des territoires afin de permettre à tous les services numériques recensant et mettant en visibilité leur offre d’être **interopérables** et de **mutualiser les efforts** de recensement et de mise à jour.
-
-### **Le problème auquel data inclusion répond :**
+## Le problème 
 
 Dans le contexte du service public de l’insertion et de l’emploi, de la mise en oeuvre du SPIE, et de l'expérimentation de France Travail, un sujet revient de manière prégnante : l’accès à des données fiables sur les dispositifs et l’offre d’insertion au niveau national et sur chaque territoire. 
 
 Si un grand nombre d’outils existent, dont plusieurs financés par la dépense publique - portails locaux ou nationaux, annuaires d’associations, éditeurs de logiciels, etc. -, **les données elles-mêmes circulent mal d’un outil à l’autre et un grand nombre d’acteurs sont contraints de “réinventer la roue” à leur échelle ou de voir leurs bases de données devenir peu à peu obsolètes.** 
 
 *Le Ministère du Travail, de l'Emploi et de l'Insertion a lancé la création d’un patrimoine commun de l’offre d’insertion en open data où chaque acteur pourra partager son offre de services en matière d’insertion, et récupérer les données des autres.* 
+
+## Notre service
+
+data·inclusion est une **démarche collective** visant à créer **un référentiel commun** de toutes les données de l’offre d’insertion des territoires afin de permettre à tous les services numériques recensant et mettant en visibilité leur offre d’être **interopérables** et de **mutualiser les efforts** de recensement et de mise à jour.
 
 ### **Les objectifs de data·inclusion :**
 
@@ -53,7 +60,7 @@ Mais aussi, les offreurs de services, porteurs de solution qui ont désormais un
 
 Et enfin, les accompagnateurs qui ont des trésors de ressources et bases de données sur les solutions à leur territoire. S’ils contribuent au patrimoine commun, la promesse est de pouvoir utiliser des outils à jour et de gagner du temps en mutualisant nos forces pour le travail fastidieux de collecte et mise à jour des données.
 
-### **Comment contribuer au patrimoine commun ?**
+## Comment contribuer au patrimoine commun ?
 
 ###### Mettre vos données à disposition sur data·inclusion
 

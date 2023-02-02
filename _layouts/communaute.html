@@ -77,10 +77,10 @@ layout: default
         <h2>Nos derniers membres arrivés</h2>
         <div class="authors fr-grid-row fr-grid-row--gutters">
             {%- for author in currents limit:7 -%}
-            <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
+            <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">{%- include card-community.html author=author -%}</div>
             {%- endfor -%}
 
-            <div class="fr-col-6 fr-col-md-3">
+            <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
                 <div class="fr-card">
                     <div class="fr-card__body">
                         <div class="fr-card__content">

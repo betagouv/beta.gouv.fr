@@ -155,7 +155,7 @@ layout: default
             <h2><span id="currents-count">{{ currents | size }}</span> membres actifs</h2>
             <div class="authors fr-grid-row fr-grid-row--gutters">
                 {%- for author in currents -%}
-                <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
+                <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">{%- include card-community.html author=author -%}</div>
                 {%- endfor -%}
             </div>
         </div>
@@ -163,7 +163,7 @@ layout: default
             <h2><span id="alumnis-count">{{ alumnis | size }}</span> alumni</h2>
             <div class="alumnis fr-grid-row fr-grid-row--gutters">
                 {%- for author in alumnis -%}
-                <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author -%}</div>
+                <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">{%- include card-community.html author=author -%}</div>
                 {%- endfor -%}
             </div>
         </div>

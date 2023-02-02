@@ -5,11 +5,11 @@ github: EmilienGuillemot
 domaine: Déploiement
 missions:
   - start: 2021-07-08
-    end: 2023-03-30
+    end: 2023-12-28
     status: independent
-    employer: Scopyleft
+    employer: INETUM - LBC
 startups:
-  - recosante
+  - bat-id
 badges:
   - segur
 

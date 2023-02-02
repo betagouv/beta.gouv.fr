@@ -1,6 +1,6 @@
 ---
 fullname: Marion Jumeau
-role: Customer Success 
+role: Customer Success
 domaine: Animation
 missions:
   - start: 2022-06-20
@@ -9,6 +9,6 @@ missions:
     employer: Malt
 startups:
   - trackdechets
----
 
-Passionnée par le marketing et les voyages. 
+---
+Passionnée par le marketing et les voyages.

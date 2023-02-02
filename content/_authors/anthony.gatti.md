@@ -6,9 +6,13 @@ missions:
   - start: 2022-04-11
     end: 2023-12-31
     status: independent
+    employer: ''
 startups:
-  - le-taxi
+  - mesads
+  - sndv_maritime
 badges:
   - segur
+
 ---
+
 

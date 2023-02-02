@@ -8,6 +8,9 @@ missions:
   - start: 2021-07-16
     end: 2023-06-30
     status: independent
----
+    employer: ''
+startups:
+  - l-immersion-facile
 
+---
 UI Designer @ Les Petits Suisses
