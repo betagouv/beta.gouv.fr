@@ -1,7 +1,6 @@
 ---
 title: Marché de l'inclusion (ITOU)
-mission: Promouvoir l'offre commerciale des structures inclusives pour accroître
-  leur capacité d'embauche
+mission: "Aider les structures inclusives à développer leur chiffre d’affaires"
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -34,7 +33,7 @@ Dans le paysage des structures inclusives, la majorité dépendent de leur resso
 
 Comment peut-on accompagner le développement économique des structures inclusives et lever les freins à l'acte d'achat inclusif ?
 
-## Notre solution
+## Notre service
 
 Face aux 6 grandes catégories d'irritants identifiés, une solution de place de marché numérique commune à l'ensemble de l'inclusion et destinée à des acheteurs professionnels (publics ou privés) a été retenue.
 

@@ -2,7 +2,7 @@
 title: REVA
 mission: Faciliter l'obtention d'un diplôme en Validation des Acquis d'Expérience (VAE)
 sponsors:
-    - /organisations/mtei
+  - /organisations/mtei
 incubator: sgmas
 link: https://reva.beta.gouv.fr
 contact: olivier.gerard@beta.gouv.fr
@@ -11,9 +11,7 @@ phases:
   - name: investigation
     start: 2017-05-01
     end: 2021-05-17
-    comment: Startup d'état AVRIL (Investigation -> Consolidation)
   - name: investigation
-    comment: Phase de préfiguration
     start: 2021-05-17
     end: 2021-07-01
   - name: construction
@@ -21,7 +19,9 @@ phases:
     end: 2023-01-12
   - name: acceleration
     start: 2023-01-12
-
+    end: 2022-09-01
+  - name: success
+    start: 2022-09-01
 techno:
   - React
   - TypeScript
@@ -30,7 +30,9 @@ techno:
   - Scalingo
 usertypes:
   - particulier
+
 ---
+
 ## Contexte
 
 Instaurée par la loi de modernisation sociale du 17/01/2002, la VAE est la 3ᵉ voie d’accès à la certification en France. Elle repose sur un principe fort : celui de reconnaître que les compétences acquises en vie active confèrent les mêmes compétences que celles acquises en formation initiale et continue et en alternance.

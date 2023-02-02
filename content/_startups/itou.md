@@ -1,6 +1,6 @@
 ---
 title: "Emplois de l'inclusion (ITOU)"
-mission: "Favoriser la réussite pour tous"
+mission: "Faciliter la mise en relation avec les employeurs solidaires"
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -67,31 +67,34 @@ usertypes:
 dashlord_url: https://dashlord.incubateur.net/url/emplois-inclusion-beta-gouv-fr/
 accessibility_status: partiellement conforme
 ---
-Aujourd'hui emplois.inclusion.beta.gouv.fr permet de mettre en relation des chercheurs d'emploi (aussi nommés candidats) auprès d'[employeurs solidaires](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/employeurs-solidaires) (entreprises, associations...). Les candidats peuvent également bénéficier de l'aide de [prescripteurs](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/prescripteurs-habilites) (Pôle emploi, Missions locales, Cap Emploi...).
 
-### Besoin d'aide dans l'utilisation du service ? 
-Voici un lien direct vers l'assistance : https://communaute.inclusion.beta.gouv.fr/aide/emplois/
-
-### Contexte
+## Contexte
 
 L’**insertion par l’activité économique** (IAE) est un dispositif dans lequel l’État
 confie une mission d’accompagnement socio-professionnel de personnes en difficulté à plus de 3 700 structures associatives ou privées. Ce dispositif bénéficie à des publics très éloignés de l’emploi (134 000 personnes en parcours d’insertion fin 2017). Il repose sur l’association de trois facteurs-clés : une mise en situation professionnelle, un accompagnement professionnel mais aussi social, et la mobilisation d’actions de formation. 
 
 L'**inclusion dans l'emploi** concerne le vaste dispositif de l'IAE, les [entreprises adaptées](https://travail-emploi.gouv.fr/emploi/emploi-et-handicap/article/emploi-et-handicap-les-entreprises-adaptees-ea) (EA) dont la spécificité est d'employer au moins 80% de travailleurs en situation de handicap, et les [groupements d’employeurs pour l’insertion et la qualification](https://travail-emploi.gouv.fr/emploi/insertion-activite-economique/article/groupements-d-employeurs-pour-l-insertion-et-la-qualification-geiq) (GEIQ).
 
-### Problème
+## Le problème
 
 Plus de 500.000 personnes sont en chômage de très longue durée (2 an ou plus) ([source INSEE](https://www.insee.fr/fr/statistiques/2417491#tableau-figure1)). L'Insertion par l’Activité Economique (IAE) peut être une des solutions, seulement un certain nombre de problèmes ont été soulevés par la [Cour des Comptes](https://www.ccomptes.fr/system/files/2019-01/20190115-rapport-insertion-chomeurs.pdf), nous alertant sur des freins d’accès à l’IAE et sur les modèles économiques des structures, peu connus, aux équilibres fragiles. 
 
 Actuellement il existe des délais entre l’orientation d’une personne et son début de contrat. L'agrément IAE, définissant l'éligibilité d'une personne à l'IAE, doit être fiabilisé et simplifié. Enfin, les entreprises et autres acteurs de l'IAE passent un temps très important à saisir des données ou établir des rapports sur leur activité, charge administrative récurrente et parfois redondante d'un rapport à l'autre.
 
-### Vision & ambition
+## Notre service
+
+Aujourd'hui, emplois.inclusion.beta.gouv.fr permet de mettre en relation des chercheurs d'emploi (aussi nommés candidats) auprès d'[employeurs solidaires](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/employeurs-solidaires) (entreprises, associations...). Les candidats peuvent également bénéficier de l'aide de [prescripteurs](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/prescripteurs-habilites) (Pôle emploi, Missions locales, Cap Emploi...).
+
+## Vision & ambition
 
 Tous les acteurs mobilisés pour l'inclusion doivent pouvoir partager l'information de manière simple, efficace et rapide. C'est la vision portée par inclusion.beta.gouv.fr. Toutes les informations nécessaires pour lever les différentes contraintes du quotidien – la charge administrative, le recrutement des profils éligibles, etc. – pourront y être centralisées, à la manière d'un « guichet unique ».
 
 L'ambition est de proposer une solution numérique intégrée permettant de lever les freins limitant aujourd'hui l'action de l'IAE (insertion par l'activité économique) : problèmes d'accès aux [profils éligibles](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/qui-peut-beneficier-des-contrats-dinsertion-par-lactivite-economique) (« sourcing ») et d'accompagnement vers l'emploi durable, lourdeur administrative, et faible accès à des outils mutualisés de professionnalisation et d'accompagnement des parcours.
 
-### Finalités
+### Besoin d'aide dans l'utilisation du service ? 
+Voici un lien direct vers l'assistance : https://communaute.inclusion.beta.gouv.fr/aide/emplois/
+
+## Finalités
 
 1. **Faciliter l'orientation et l'embauche** de candidats à un emploi accompagné vers des [employeurs solidaires](https://doc.inclusion.beta.gouv.fr/presentation/employeurs-solidaires) (SIAE, GEIQ, EA) en centralisant un registre de l’offre et en refondant l’agrément IAE.
 2. **Réduire la charge administrative** pour tous les acteurs, et **renforcer le pilotage de l’IAE** afin d'optimiser l'offre d'inclusion sur le territoire.

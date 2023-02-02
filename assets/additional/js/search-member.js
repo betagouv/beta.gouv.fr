@@ -23,7 +23,7 @@ function convertDate(inputFormat) {
 
 var createAuthorCard = function (author) {
   var card = document.createElement("div");
-  card.className = "fr-col-6 fr-col-md-3";
+  card.className = "fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3";
   card.id = author.id;
   var totalStartups = [];
   if (author.startups) {

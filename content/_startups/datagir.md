@@ -6,7 +6,7 @@ sponsors:
 incubator: ademe
 link: https://datagir.ademe.fr/
 repository: https://github.com/datagir/datagir-site
-contact: contact@datagir.beta.gouv.fr
+contact: datagir@ademe.fr
 accessibility_status: partiellement conforme
 usertypes:
   - particulier

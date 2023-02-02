@@ -1,7 +1,6 @@
 ---
 title: Immersion facilitée
-mission: Augmenter le nombre d'immersions professionnelles pour les personnes
-  éloignées de l'emploi
+mission: "Faciliter la réalisation des immersions professionnelles"
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -11,10 +10,8 @@ repository: https://github.com/betagouv/l-immersion-facile
 contact: contact@immersion-facile.beta.gouv.fr
 analyse_risques: true
 accessibility_status: partiellement conforme
-usertypes:
-  - particulier
-stats_url: https://immersion-facile-1.gitbook.io/la-page-stats-de-immersion-facilitee/mXyCG0khRml5mCWUU0Pe/la-mesure-de-limpact-dimmersion-facilitee
 stats: true
+stats_url: https://immersion-facile-1.gitbook.io/la-page-stats-de-immersion-facilitee/mXyCG0khRml5mCWUU0Pe/la-mesure-de-limpact-dimmersion-facilitee
 events:
   - name: national_impact
     date: 2021-12-31
@@ -22,7 +19,10 @@ phases:
   - name: construction
     start: 2021-07-16
   - name: acceleration
-    start: 2022-05-31
+    start: 2022-05-31   
+usertypes:
+  - particulier
+  - entreprise
 ---
 ## Le problème
 
@@ -40,7 +40,7 @@ Résultats, des délais très longs pour des immersions d’une durée courte, d
 
 Parce qu’il existe autant de formes de bilan qu’il y a de structures accompagnantes. Il s’agit, le plus souvent, d’une fiche papier à compléter et à renvoyer par mail et trop peu souvent saisi dans le dossier de la personne concernée.
 
-## Nos services
+## Notre service
 
 Mettre à disposition des acteurs de l’orientation et de l’insertion professionnelle un commun numérique, “Immersion facilitée” reposant sur deux piliers :
 

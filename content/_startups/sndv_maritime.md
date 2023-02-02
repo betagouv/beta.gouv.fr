@@ -1,6 +1,7 @@
 ---
-mission: Améliorer le traitement des données de voyages du transport maritime à
-  des fins de contrôle et de sûreté
+mission: >-
+  Améliorer le traitement des données de voyages du transport maritime à des
+  fins de contrôle et de sûreté
 incubator: dinum
 repository: https://gitlab.mim-libre.fr/sndv-maritime/moana
 contact: victor.grange@beta.gouv.fr
@@ -18,8 +19,12 @@ phases:
     end: 2021-06-18
   - name: construction
     start: 2021-09-01
-    end: 2022-02-01
+    end: 2022-09-20
+  - name: acceleration
+    start: 2022-09-20
+
 ---
+
 ## Contexte
 
 L'agence nationale des données de voyage (ANDV), service à compétence nationale interministériel, est en charge de l’amélioration des dispositifs de collecte et traitement des données de voyages à des fins régaliennes. En France, plus de 30 millions de personnes franchissent les frontières maritimes chaque année, hors pandémie. Les transports maritimes (ferries, cargo, croisière, plaisance), font l’objet d’obligations réglementaires de déclaration de données de voyage aux autorités portuaires. 

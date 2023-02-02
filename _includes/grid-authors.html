@@ -15,7 +15,7 @@
 
 {%- for author in team -%}
   {%- capture to_append -%}
-    <div class="fr-col-6 fr-col-md-3">
+    <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
       {%- include card-community.html author=author -%}
     </div>
   {%- endcapture -%}
@@ -37,7 +37,7 @@
 {%- assign team_previous = site.authors | where:"previously", startup_id %}
 {%- for author in team_previous -%}
   {%- capture to_append -%}
-    <div class="fr-col-6 fr-col-md-3">
+    <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">
       {%- include card-community.html author=author -%}
     </div>
   {%- endcapture -%}
