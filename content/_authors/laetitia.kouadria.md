@@ -6,7 +6,7 @@ github: lkouad
 missions:
   - start: 2021-05-18
     end: 2024-12-29
-    status: agent
+    status: admin
 previously:
   - carnet.de.bord
 competences:
