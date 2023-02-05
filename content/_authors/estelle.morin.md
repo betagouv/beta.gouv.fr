@@ -5,10 +5,13 @@ domaine: Autre
 link: https://omnicite.fr/
 missions:
   - start: 2022-06-21
-    end: 2023-01-31
+    end: 2023-06-29
     status: service
+    employer: ''
 badges:
   - segur
+
 ---
+
 
 Conseillère en création et développement d'activité chez Omnicité.
