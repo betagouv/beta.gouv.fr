@@ -6,7 +6,7 @@ mission: >-
 sponsors:
   - /organisations/dgitm
 incubator: mtes
-contact: stephane.schultz@beta.gouv.fr
+contact: dialog@beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
