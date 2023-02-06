@@ -8,6 +8,6 @@ missions:
     end: 2023-05-06
     status: independent
     employer: Malt
-startup:
+startups:
   - aides-jeunes
 ---
