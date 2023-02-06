@@ -2,7 +2,7 @@
 fullname: Yasmine Berrada
 role: Chargée de déploiement
 domaine: Déploiement
-github: 
+github: yasmine-glitch
 missions:
   - start: 2020-03-01
     end: 2021-06-30
