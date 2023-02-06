@@ -1,7 +1,7 @@
 ---
 fullname: Yasmine Berrada
-role: Coach
-domaine: Coaching
+role: Chargée de déploiement
+domaine: Déploiement
 github: 
 missions:
   - start: 2023-02-06
