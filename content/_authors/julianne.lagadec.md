@@ -10,6 +10,7 @@ missions:
 startups:
   - tdb-apprentissage
   - la-bonne-alternance
+  - sirius
 previously :
   - voeux-apprentissage
   - dematapprentissage
