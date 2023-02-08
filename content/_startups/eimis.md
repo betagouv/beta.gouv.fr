@@ -1,5 +1,5 @@
 ---
-title: Messagerie Instantanée de Santé
+title: EIMIS
 mission: Faciliter et sécuriser les communications des professionnels de santé
 sponsors:
   - /organisations/ans
@@ -12,6 +12,8 @@ phases:
     end: 2023-01-02
   - name: construction
     start: 2023-01-02
+redirect_from:
+  - /startups/messagerie.instantanee.sante
 
 ---
 
@@ -19,7 +21,7 @@ phases:
 
 Comment fluidifier et sécuriser les communications instantanées entre professionnels de santé ?
 
-C’est sur cette problématique que beta.gouv.fr et l’Agence du Numérique en Santé collaborent depuis l’automne 2022.
+C’est sur cette problématique que beta.gouv.fr et l’Agence du Numérique en Santé collaborent depuis l’automne 2022, en expérimentant la construction d'un Espace d'Interopérabilité des Messageries Instantanées de Santé (EIMIS)
 
 
 ## Problème
@@ -48,7 +50,7 @@ Après plus d'une quarantaine d'entretiens menés avec divers professionnels de 
 
 Les objectifs de cette expérimentation ?
 
-- Mettre en place un environnement d’inter-opérabilité entre les différents outils de messagerie instantanée de santé déjà existants
+- Mettre en place un espace d’inter-opérabilité entre les différents outils de messagerie instantanée de santé déjà existants
 - Constituer un référentiel de qualité pour ces outils priorisant les besoins des utilisateurs finaux
 - Tester diverses hypothèses en mettant une application mobile de messagerie instantanée à disposition d'une communauté de beta-testeurs
 
