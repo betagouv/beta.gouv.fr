@@ -31,9 +31,8 @@ L'**inclusion dans l'emploi** concerne le vaste dispositif de l'IAE, les [entrep
 
 ## Le problème
 
-\=> Les acteurs de l’IAE n’a pas accès à des données de pilotage communes ; 
-
-\=> Les reporting existants nécessitent une lourde charge administrative (collecte et traitement des données)  qui mobilisent des ressourcent chez les employeurs solidaires et leurs partenaires publics.
+- Les acteurs de l’IAE n’a pas accès à des données de pilotage communes ; 
+- Les reporting existants nécessitent une lourde charge administrative (collecte et traitement des données)  qui mobilisent des ressourcent chez les employeurs solidaires et leurs partenaires publics.
 
 ## Notre service
 
