@@ -7,6 +7,8 @@ missions:
   - start: 2022-03-21
     end: 2023-02-26
     status: independent
+startups:
+  - pilotagevoiepro
 previously:
   - potentiel
 competences:
