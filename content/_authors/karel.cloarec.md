@@ -33,7 +33,7 @@ startups:
   - deveco
   - guichet-entreprises-nc
   - monstage
-  - chantiers.agiles
+  - la.communaute.de.linclusion
 previously:
   - andi
   - urbanvitaliz
@@ -45,6 +45,7 @@ previously:
   - conventionnement.iae
   - rdv.mjd
   - frise.cpip
+  - chantiers.agiles
 badges:
   - segur
 competences:
