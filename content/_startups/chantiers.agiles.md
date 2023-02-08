@@ -8,19 +8,19 @@ sponsors:
 contact: elodie.bonnet@haute-garonne.gouv.fr
 stats: false
 phases:
-  - name: construction
+  - name: investigation
     start: 2022-10-03
+    end: 2023-02-02
+  - name: alumni
+    start: 2023-02-03
+events:
+  - name: end
+    date: 2023-02-03
 usertypes:
   - entreprise
 ---
-## Contexte
-Dans le cadre de l’appel à idées 2021 de la fabrique numérique de la Direction Numérique des Ministères Sociaux (DNUM), une investigation "conventionnement IAE" a été réalisée.
-
-[Lien vers la fiche de l'investigation](https://beta.gouv.fr/startups/conventionnement.iae.html)
-
-Ce projet est entré en construction dans le cadre du [GIP plateforme de l'Inclusion](https://beta.gouv.fr/incubateurs/#/incubators/gip-inclusion). Il a pour objectif d'identifier une solution pour accompagner les ateliers chantiers d'insertion dans la consolidation de leur modèle économique.
-
 ## Le problème
+
 Les Ateliers chantiers d’insertion représentent la moitié des structures d’insertion par l’activité économique et plus de 4 ETP d’insertion sur 10. Financés à plus de 20 000 euros par an par ETP via l’aide au poste, ils bénéficient en outre souvent d’un soutien financier complémentaire de collectivités territoriales ou du FSE (Fond social européen). Les ACI accueillent historiquement des publics très éloignés de l’emploi sur des activités non concurrentielles généralement à forte intensité de main d’œuvre.
 
 Le pacte ambition IAE a permis un développement particulièrement important des Ateliers et chantiers d’insertion :
@@ -35,4 +35,16 @@ Si le DLA (Dispositif local d'accompagnement) et le réseau France Active consti
 
 ## Notre service
 
-Une expérimentation est actuellement en cours et vise à accompagner une dizaine de chantiers d'insertion de fin novembre 2022 à fin mars 2023 afin d'identifier les premières fonctionnalités d'un outil numérique.
+Une expérimentation est actuellement en cours et vise à accompagner une dizaine de chantiers d'insertion de fin novembre 2022 à fin janvier 2023 afin d'identifier les premières fonctionnalités d'un outil numérique de prospection commerciale permettant aux structures de trouver de nouveaux clients localement et de diversifier leur activité.
+
+## Arrêt de l'expérimentation
+
+Nous avons échangé sur le modèle économique des ACI avec 28 chantiers d'insertion, issues de 12 départements et plusieurs acteurs institutionnels.
+
+Sur la base de leurs remontées, nous avons essayé de concevoir un outil numérique pour faciliter les démarches de prospection des ACI. Avec quelques volontaires nous avons testé plusieurs hypothèses de travail jusqu'à réaliser un test "grandeur nature", en particulier sur la région de Dijon.
+
+Nous n'avons pas pu identifier de levier efficace pour aider les chantiers à identifier les entreprises les plus réceptives à l'insertion sur un territoire. 
+
+Par conséquent, en accord avec la plateforme de l'inclusion, il a été décidé de ne pas lancer la construction d'un service numérique dédié.
+
+[Consulter la restitution de l'expérimentation et de ses apprentissages](https://docs.google.com/presentation/d/1B8S3lxQJbsOKix-v_R1UKfYNRGFHIx8gK4vKqUXmEU8/edit?usp=sharing)
