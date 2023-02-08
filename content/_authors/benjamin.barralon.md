@@ -9,6 +9,9 @@ missions:
     status: admin
     employer: AMUE
 startups:
+  - sirius
+  - expositionIJ
+  - pilotagevoiepro
 teams:
   - /teams/mission-inserjeunes
 badges:
