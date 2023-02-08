@@ -35,7 +35,7 @@ Si le DLA (Dispositif local d'accompagnement) et le réseau France Active consti
 
 ## Notre service
 
-Une expérimentation est actuellement en cours et vise à accompagner une dizaine de chantiers d'insertion de fin novembre 2022 à fin janvier 2023 afin d'identifier les premières fonctionnalités d'un outil numérique de prospection commerciale permettant aux structures de trouver de nouveaux clients localement et de diversifier leur activité.
+Une expérimentation a été mise en place et visait à accompagner une dizaine de chantiers d'insertion de fin novembre 2022 à fin janvier 2023 afin d'identifier les premières fonctionnalités d'un outil numérique de prospection commerciale permettant aux structures de trouver de nouveaux clients localement et de diversifier leur activité.
 
 ## Arrêt de l'expérimentation
 
