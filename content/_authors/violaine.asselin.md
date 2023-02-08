@@ -7,10 +7,11 @@ missions:
   - start: 2018-04-01
     end: 2023-12-31
     status: admin
-    employer: pole-emploi
+    employer: independent
 startups:
-    - sirius
+    - pilotagevoiepro
 previously : 
     - tdb-apprentissage
+    - sirius
     - anotea
 ---
