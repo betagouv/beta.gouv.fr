@@ -12,6 +12,8 @@ phases:
     end: 2023-01-02
   - name: construction
     start: 2023-01-02
+redirect_from:
+  - /startups/messagerie.instantanee.sante
 
 ---
 
