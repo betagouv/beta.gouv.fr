@@ -3,13 +3,14 @@ title: Sirius
 mission: Recueillir et exposer les avis d'apprentis sur leur formation
 sponsors:
   - /organisations/dgefp
+  - /organisations/onisep
 incubator: mission-inserjeunes
 phases:
   - name: construction
     start: 2023-01-01  
 stats_url: 
 stats: 
-contact: 
+contact: julianne.lagadec@beta.gouv.fr
 usertypes:
   - particulier
   - etablissement-scolaire
