@@ -1,7 +1,7 @@
 ---
 fullname: karine delforge
 domaine: Coaching
-role: Coach
+role: UX/UI designer
 github: karinedelforge
 link: https://iteract.fr/
 missions:
@@ -17,6 +17,8 @@ missions:
     employer: Mission InserJeunes
     start: 2023-01-23
     end: 2023-12-31
+startups:
+  - pilotagevoiepro
 competences:
   - Coaching
   - UX
