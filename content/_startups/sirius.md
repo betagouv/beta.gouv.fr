@@ -6,7 +6,7 @@ sponsors:
 incubator: mission-inserjeunes
 phases:
   - name: construction
-    start: 2023-01-01  
+    start: 2022-12-01  
 stats_url: 
 stats: 
 contact: julianne.lagadec@beta.gouv.fr
