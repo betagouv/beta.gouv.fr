@@ -3,6 +3,8 @@ title: EIMIS
 mission: Faciliter et sécuriser les communications des professionnels de santé
 sponsors:
   - /organisations/ans
+redirect_from:
+  - /startups/messagerie.instantanee.sante
 incubator: dinum
 contact: juliette.dixmier@beta.gouv.fr
 accessibility_status: non conforme
@@ -12,9 +14,6 @@ phases:
     end: 2023-01-02
   - name: construction
     start: 2023-01-02
-redirect_from:
-  - /startups/messagerie.instantanee.sante
-
 ---
 
 ## Contexte
