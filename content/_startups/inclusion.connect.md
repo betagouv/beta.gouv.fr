@@ -34,7 +34,7 @@ Tous les professionnels de l’inclusion. Comme les conseillers en insertion pro
 
 * Les emplois de l'inclusion
 * DORA
-* RDV-solidarités
+* RDV-solidarités et RDV-aide-numérique
 * M﻿on Suivi Social
 * L﻿a communauté de l'inclusion
 * L﻿es Conseillers Numériques France Service (grands réseaux et structures)
