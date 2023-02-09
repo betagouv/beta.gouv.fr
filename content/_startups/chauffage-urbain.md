@@ -23,13 +23,11 @@ usertypes:
   - particulier
   - collectivite-territoriale
 ---
-## Résumé
-
-**Le problème :**
+# Le problème
 
 Alors que les réseaux de chaleur constituent un mode de chauffage écologique et économique particulièrement adapté au contexte actuel, ils demeurent trop peu connus en France et leur dynamique de développement n'est pas à la hauteur des objectifs fixés par la loi.
 
-**La solution :**
+# La solution
 
 France Chaleur Urbaine a pour objectif de faire connaître les réseaux de chaleur au plus grand nombre, de faciliter les démarches de raccordement en assurant la mise en relation entre prospects et gestionnaires des réseaux, et de mettre des outils à disposition des collectivités pour les aider à déployer leurs réseaux.
 
@@ -37,7 +35,7 @@ L'un des freins au raccordement des bâtiments aux réseaux de chaleur est un ce
 
 https://france-chaleur-urbaine.beta.gouv.fr/
 
-**L'impact :**
+# L'impact
 
 Au 1er janvier 2023, le site enregistre 51 000  visites et 7 833 adresses testées (hors test en masse). Fin janvier 2023, on enregistre près de 800 demandes déposées sur le site et environ 200 raccordements à l'étude. Cela représente environ 15 000 tonnes de CO2 qui seront évitées chaque année si ces raccordements aboutissent (estimation).
 
@@ -49,7 +47,9 @@ Les objectifs à fin 2023 sont de 1 800 demandes et 65 000 tonnes de CO2 évité
 
 https://france-chaleur-urbaine.beta.gouv.fr/stats
 
-## Encore trop de chauffages collectifs aux énergies fossiles
+## En détails
+
+### Encore trop de chauffages collectifs aux énergies fossiles
 
 **Face à l'urgence climatique, à la flambée du prix des énergies et aux tensions relatives à l'approvisionnement en énergies fossiles, les réseaux de chaleur constituent une solution de chauffage d'avenir encore sous-exploitée.**
 
@@ -63,7 +63,7 @@ Malgré ces atouts, les réseaux de chaleur demeurent méconnus du grand public,
 
 Ainsi, lorsque les chaudières existantes arrivent en fin de vie ou que des travaux de rénovation d'immeubles sont prévus, le raccordement à un réseau de chaleur n'est souvent pas envisagé, alors même parfois que le réseau passe au pied de l'immeuble.
 
-## La solution France Chaleur Urbaine
+### La solution France Chaleur Urbaine
 
 France Chaleur Urbaine vise à faciliter et accélérer les raccordements des bâtiments aux réseaux de chaleur.
 
@@ -72,7 +72,7 @@ France Chaleur Urbaine vise à faciliter et accélérer les raccordements des b�
 
 Le service est opérationnel en version beta sur https://france-chaleur-urbaine.beta.gouv.fr/
 
-## L'historique du projet
+### L'historique du projet
 
 Début 2020, Brigitte Loubet, Conseillère spéciale à la Direction Régionale et Interdépartementale de l'Environnement et de l'Energie d'Ile-de-France (DRIEE), est sélectionnée à l'appel à intrapreneurs organisé par la Fabrique Numérique du Ministère de l'Ecologie.
 
@@ -90,7 +90,7 @@ Ces nouveaux moyens permettent d'élargir le service, qui ne se limite plus aux 
 
 
 
-## Stratégie
+### Stratégie
 
 Le déploiement national de France Chaleur Urbaine passe par : 
 
