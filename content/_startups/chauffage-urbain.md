@@ -22,6 +22,32 @@ usertypes:
   - particulier
   - collectivite-territoriale
 ---
+## Résumé
+
+**Le problème :**
+
+Alors que les réseaux de chaleur constituent un mode de chauffage écologique et économique particulièrement adapté au contexte actuel, ils demeurent trop peu connus en France et leur dynamique de développement n'est pas à la hauteur des objectifs fixés par la loi.
+
+**La solution :**
+
+France Chaleur Urbaine a pour objectif de faire connaître les réseaux de chaleur au plus grand nombre, de faciliter les démarches de raccordement en assurant la mise en relation entre prospects et gestionnaires des réseaux, et de mettre des outils à disposition des collectivités pour les aider à déployer leurs réseaux.
+
+L'un des freins au raccordement des bâtiments aux réseaux de chaleur est un certain manque de visibilité et de lisibilité de la filière, chaque réseau ayant ses propres caractéristiques et son propre gestionnaire. France Chaleur Urbaine centralise les informations les plus utiles pour envisager un raccordement. De plus, toute personne qui le souhaite peut vérifier si un réseau de chaleur passe près de son adresse et déposer ses coordonnées pour être mise en relation avec le gestionnaire du réseau le plus proche. Ce dernier pourra alors confirmer la faisabilité du raccordement et fournir une estimation tarifaire. Pour les acteurs en charge de la gestion d'un parc de bâtiments (bailleurs sociaux, bureaux d'étude, groupes tertiaires, ...), il peut être fastidieux de tester une à une la proximité des différentes adresses à un réseau de chaleur, ce qui peut constituer un frein supplémentaire pour s'engager dans cette démarche. Pour répondre à cette problématique, France Chaleur Urbaine offre la possibilité d'effectuer des tests en masse, en téléchargeant une liste d'adresses. Enfin, toujours dans un objectif de facilitation, France Chaleur Urbaine met des outils à disposition des collectivités et exploitants pour les aider dans le déploiement de leurs réseaux. Cela passe notamment par une cartographie interactive vers laquelle les collectivités peuvent orienter leurs administrés pour faire connaître leur réseau de chaleur. Cette cartographie rassemble également des données sur les potentiels de raccordement : elle permet par exemple d'identifier les bâtiments chauffés au gaz ou fioul collectif alors même qu'ils se situent à proximité immédiate d'un réseau.
+
+https://france-chaleur-urbaine.beta.gouv.fr/
+
+**L'impact :**
+
+Au 1er janvier 2023, le site enregistre 51 000  visites et 7 833 adresses testées (hors test en masse). Fin janvier 2023, on enregistre près de 800 demandes déposées sur le site et environ 200 raccordements à l'étude. Cela représente environ 15 000 tonnes de CO2 qui seront évitées chaque année si ces raccordements aboutissent (estimation).
+
+Via la fonctionnalité permettant un test d'adresses en masse mise en place début décembre 2022, plus de 700 000 adresses ont déjà été testées fin janvier 2023, par des bailleurs sociaux, bureaux d'étude, gestionnaires du bâti État... 
+
+Enfin, des partenariats ont été établis avec une cinquantaine de collectivités, et la cartographie compte aujourd'hui plus de 400 réseaux sur les 898 recensés en France.
+
+Les objectifs à fin 2023 sont de 1 800 demandes et 65 000 tonnes de CO2 évitées par an, ainsi que des partenariats établis avec une centaine de collectivités.
+
+https://france-chaleur-urbaine.beta.gouv.fr/stats
+
 ## Encore trop de chauffages collectifs aux énergies fossiles
 
 **Face à l'urgence climatique, à la flambée du prix des énergies et aux tensions relatives à l'approvisionnement en énergies fossiles, les réseaux de chaleur constituent une solution de chauffage d'avenir encore sous-exploitée.**
