@@ -5,9 +5,9 @@ domaine: Développement
 github: bChiquet
 missions:
   - start: 2022-07-18
-    end: 2025-09-10
+    end: 2023-01-31
     status: independent
-startups:
+previously :
   - carnet.de.bord
 ---
 
