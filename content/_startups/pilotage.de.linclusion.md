@@ -1,5 +1,5 @@
 ---
-title: Pilotage de l'inclusion (ITOU)
+title: Pilotage de l'inclusion
 mission: "Aider la prise de décision des professionnels grâce à des tableaux de bord"
 sponsors:
   - /organisations/pole-emploi
