@@ -1,5 +1,5 @@
 ---
-title: "Communauté de l'inclusion (ITOU)"
+title: "Communauté de l'inclusion"
 mission: "Échanger avec et entre professionnels de l’inclusion dans l’emploi"
 sponsors:
   - /organisations/pole-emploi

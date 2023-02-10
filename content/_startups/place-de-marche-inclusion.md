@@ -1,5 +1,5 @@
 ---
-title: Marché de l'inclusion (ITOU)
+title: Marché de l'inclusion
 mission: "Aider les structures inclusives à développer leur chiffre d’affaires"
 sponsors:
   - /organisations/pole-emploi
