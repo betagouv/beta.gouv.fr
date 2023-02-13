@@ -14,9 +14,6 @@ phases:
     start: 2020-06-01
   - name: acceleration
     start: 2022-05-31   
-events: 
-  - name: national_impact
-    date: 2021-12-31
 usertypes:
   - entreprise
   - etat
