@@ -6,7 +6,8 @@ sponsors:
   - /organisations/mj
 incubator: justice
 repository: https://github.com/betagouv/romin/
-contact: mathieu.le-bouler@justice.fr
+contact: contact@romin.beta.gouv.fr
+budget_url: https://resana.numerique.gouv.fr/public/information/consulterAccessUrl?cle_url=1972366922AWsFZVBcAT1UOVA2VjhWdlVrXWACIwJrBm1YZVU0DDIFMQMyUzUDZFJhAjs=
 accessibility_status: non conforme
 events:
   - name: committee
@@ -50,7 +51,7 @@ Je peux consulter et partager moi-même mon expérience de l'outil en question.
 
 ## Prochaines étapes 
 
-Rédaction des premières fiches outils par des CPIP de terraine essentiellement.
+Rédaction des premières fiches outils par des CPIP de terrain essentiellement.
 
 Construction d'un premier portail numérique de test.
 
