@@ -17,6 +17,9 @@ usertypes:
   - particulier
 stats_url: https://www.dossierfacile.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/dossierfacile-fr/
+events:
+  - name: national_impact
+    date: 2022-12-31
 phases:
   - name: investigation
     start: 2018-01-01
