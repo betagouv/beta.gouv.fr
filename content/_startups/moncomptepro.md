@@ -12,6 +12,7 @@ sponsors:
   - /organisations/dinum
 link: https://moncomptepro.beta.gouv.fr
 stats: true
+stats_url: https://moncomptepro.beta.gouv.fr/stats
 phases:
   - name: investigation
     start: 2018-09-01
