@@ -1,6 +1,7 @@
 ---
 fullname: thomas comes
 role: Développeur
+github: Un3x
 domaine: Développement
 missions:
   - start: 2023-02-20
