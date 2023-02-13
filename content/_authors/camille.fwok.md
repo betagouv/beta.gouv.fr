@@ -10,7 +10,7 @@ missions:
     employer: Fabrique numérique des ministères sociaux
 startups:
   - aidantsconnect
-  - France-Chaleur-Urbaine
+  - chauffage-urbain
 badges:
   - segur
 ---
