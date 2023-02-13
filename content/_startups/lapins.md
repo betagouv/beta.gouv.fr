@@ -18,6 +18,9 @@ link: https://www.rdv-solidarites.fr
 stats: true
 budget_url: https://pad.incubateur.net/s/qeT5bzHUM#RDV-Solidarit%C3%A9s
 dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
+events:
+- name: national_impact
+    date: 2022-12-31
 phases:
   - name: investigation
     start: 2018-01-18
