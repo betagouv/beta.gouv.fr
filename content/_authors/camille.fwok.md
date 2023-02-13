@@ -9,8 +9,9 @@ missions:
     status: independent
     employer: Fabrique numérique des ministères sociaux
 startups:
-  - aidantsconnect
   - chauffage-urbain
+previously:
+  - aidantsconnect
 badges:
   - segur
 ---
