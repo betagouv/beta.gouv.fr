@@ -13,26 +13,24 @@ phases:
 ---
 ## Contexte
 
-Le parcours d’une personne en difficulté d’insertion ayant un besoin d’aide à visée professionnelle ou sociale nécessite l’intervention de nombreux acteurs clés de l’insertion et de l’action sociale en fonction de sa complexité.
+Le parcours d’une personne en difficulté d’insertion socio-professionnelle nécessite l’intervention de nombreux acteurs qui ne sont pas nécessairement des professionnels de l’insertion.
 
-La personne peut également faire appel à des acteurs de proximité tels que la famille, les amis, les pairs, les bénévoles, les mentors et les médiateurs, qui sont souvent plus disponibles et accessibles pour fournir un soutien et des conseils vis à vis du besoin d’aide de la personne.
+Parmi eux, des acteurs dites “de proximité” tels que la famille, les amis, les pairs, les bénévoles, les mentors et les médiateurs, qui sont souvent disponibles et accessibles pour fournir un soutien et des conseils.
 
-Cependant, la pluralité d'interventions qui entourent la personne peut parfois se juxtaposer sans cohérence, rendant difficile pour la personne de communiquer ses besoins et de prendre des décisions éclairées au fur et à mesure des échanges.
-
-Pour éviter cela, il est crucial d’inclure tous les acteurs dans le parcours et de maintenir une continuité des actions de terrain. L’engagement actif de la personne est donc essentiel pour garantir une transmission efficace des informations dans ce parcours complexe et favoriser l’inclusion des actions des acteurs de proximité
+Il est crucial d’inclure les acteurs de proximité afin de maintenir une continuité des actions de terrain entreprise au quotidien par la personne en insertion
 
 ## Problème
 
-55% des personnes éloignées de l'emploi ont déclaré que la mauvaise communication avec les intervenants de leur parcours a contribué à retarder la résolution de leurs besoins professionnels ou sociaux.
+34 % des personnes éloignées de l'emploi qui ont droit à des aides sociales y renoncent
+[Source](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/mesurer-regulierement-le-non-recours-au)
 
-## Solution
+## La solution à expérimenter
+Mettre à disposition des personnes un carnet de note lui permettant d’inscrire les actions misent en place avec avec les acteurs de proximités afin d’en assurer la continuité à chaque intervention.
 
-Notre service vise à fournir à la personne un outil qui facilitera ses échanges avec les différents acteurs de son parcours, mais aussi la planification et la réalisation de ses objectifs liés à son insertion professionnelle et sociale.
-
-## Stratégie
+## Mesure d’impact
 
 L’expérimentation sera considérée réussie si :
 
-* 70% des personnes recommandent l’outil à leurs contacts
-* 60% des personnes nous disent qu’une action à été faite par l’intervenant dans la continuité du besoin d’aide mentionné dans l’outil
-* 80% des intervenants nous disent que le temps nécessaire pour remplir l’outil ne dépasse pas celui habituellement utilisés par l’intervenant (sms, post’it, mail, information transmise sur papier…)
+- 70% des personnes en insertion recommanderaient le service à leurs pairs
+- 60% des personnes en insertion nous disent qu’une action à été facilitée par le service, en lien avec un besoin d’aide exprimé
+- 80% des acteurs de proximité nous disent que le temps nécessaire pour remplir l’outil ne dépasse pas celui habituellement utilisés par l’intervenant (sms, post’it, mail, information transmise sur papier…)
