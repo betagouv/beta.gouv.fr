@@ -6,7 +6,7 @@ github: sofiaboulaarab
 link: null
 missions:
   - start: 2020-01-06
-    end: 2023-01-01
+    end: 2023-06-29
     status: independent
     employer: Mission interministérielle pour l'apprentissage
 startups:
@@ -19,4 +19,5 @@ competences:
   - UI
 
 ---
+
 ''
