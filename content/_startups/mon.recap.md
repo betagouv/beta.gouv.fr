@@ -1,7 +1,6 @@
 ---
 title: Mon Récap
-mission: Faciliter la communication des personnes éloignées de l'emploi avec les
-  accompagnateurs
+mission: Entretenir les liens entre les personnes éloignées de l'emploi et les "orienteurs"
 sponsors:
   - /organisations/gip-inclusion
 incubator: gip-inclusion
@@ -15,9 +14,8 @@ phases:
 
 Le parcours d’une personne en difficulté d’insertion socio-professionnelle nécessite l’intervention de nombreux acteurs qui ne sont pas nécessairement des professionnels de l’insertion.
 
-Parmi eux, des acteurs dites “de proximité” tels que la famille, les amis, les pairs, les bénévoles, les mentors et les médiateurs, qui sont souvent disponibles et accessibles pour fournir un soutien et des conseils.
-
-Il est crucial d’inclure les acteurs de proximité afin de maintenir une continuité des actions de terrain entreprise au quotidien par la personne en insertion
+Parmi eux, des acteurs dits “de proximité” tels que la famille, les amis, les pairs, les bénévoles, les mentors et les médiateurs, qui sont souvent disponibles et accessibles pour fournir un soutien et des conseils. 
+Ces "orienteurs" maintiennent une continuité des actions de terrain entreprises au quotidien par une personne en insertion.
 
 ## Problème
 
@@ -25,12 +23,12 @@ Il est crucial d’inclure les acteurs de proximité afin de maintenir une conti
 [Source](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/mesurer-regulierement-le-non-recours-au)
 
 ## La solution à expérimenter
-Mettre à disposition des personnes un carnet de note lui permettant d’inscrire les actions misent en place avec avec les acteurs de proximités afin d’en assurer la continuité à chaque intervention.
+Mettre à disposition d'un groupe de personnes éloignées de l'emploi un carnet de note qui lui permet d’inscrire les actions mises en place avec les orienteurs à chaque intervention.
 
 ## Mesure d’impact
 
 L’expérimentation sera considérée réussie si :
 
-- 70% des personnes en insertion recommanderaient le service à leurs pairs
-- 60% des personnes en insertion nous disent qu’une action à été facilitée par le service, en lien avec un besoin d’aide exprimé
-- 80% des acteurs de proximité nous disent que le temps nécessaire pour remplir l’outil ne dépasse pas celui habituellement utilisés par l’intervenant (sms, post’it, mail, information transmise sur papier…)
+- 70% des usagers de l'expérimentation recommanderaient le service à leurs pairs
+- 60% des usagers de l'expérimentation nous disent qu’une action à été facilitée par le service, en lien avec un besoin d’aide exprimé
+- 80% des acteurs de proximité nous disent que le temps nécessaire pour remplir l’outil ne dépasse pas celui habituellement utilisé par l’intervenant (sms, post’it, mail, information transmise sur papier…)
