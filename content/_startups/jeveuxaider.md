@@ -25,6 +25,6 @@ phases:
 ---
 [JeVeuxAider.gouv.fr](https://www.jeveuxaider.gouv.fr/) est la plateforme publique du bénévolat, proposée par la Réserve Civique.\
 \
-Plus de 10 000 associations, collectivités et organisations publiques y postent des missions, lorsqu'elles ont besoin de renfort. Pour y répondre, elles peuvent compter sur près de 400 000 bénévoles inscrits sur la plateforme. Ceux-ci choisissent parmi des milliers de missions, dans tous les domaines (solidarité, éducation, santé, environnement, sport ...) et partout en France.\
+Plus de 10 000 associations, collectivités et organisations publiques y postent des missions, lorsqu'elles ont besoin de renfort. Pour y répondre, elles peuvent compter sur près de 400 000 bénévoles inscrits sur la plateforme. Ceux-ci choisissent parmi des milliers de missions, dans tous les domaines (solidarité, éducation, santé, environnement, sport, culture...) et partout en France. \
 \
 JeVeuxAider.gouv.fr est ouverte à toutes les personnes résidant en France, âgées de plus de 16 ans. Flexible, accessible et universel, ce service public numérique permet à toutes et à tous de participer à la société de l'engagement, pour plus de solidarité.
