@@ -2,7 +2,8 @@
 title: Mon Récap
 mission: Entretenir les liens entre les personnes éloignées de l'emploi et les "orienteurs"
 sponsors:
-  - /organisations/gip-inclusion
+  - /organisations/pole-emploi
+  - /organisations/mtei
 incubator: gip-inclusion
 contact: laetitia.kouadria@beta.gouv.fr
 accessibility_status: non conforme
