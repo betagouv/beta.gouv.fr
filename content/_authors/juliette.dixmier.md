@@ -10,6 +10,8 @@ missions:
     employer: Octo
 startups:
   - eimis
+previously:
+  - tchap
 badges:
   - segur
 competences:
