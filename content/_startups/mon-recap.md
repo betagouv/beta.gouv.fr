@@ -1,6 +1,6 @@
 ---
 title: Mon Récap
-mission: Entretenir les liens entre les personnes éloignées de l'emploi et les "orienteurs"
+mission: Entretenir les liens entre les personnes éloignées de l'emploi et les « orienteurs »
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -12,14 +12,12 @@ phases:
     start: 2023-02-13
 ---
 ## Contexte
-
 Le parcours d’une personne en difficulté d’insertion socio-professionnelle nécessite l’intervention de nombreux acteurs qui ne sont pas nécessairement des professionnels de l’insertion.
 
 Parmi eux, des acteurs dits “de proximité” tels que la famille, les amis, les pairs, les bénévoles, les mentors et les médiateurs, qui sont souvent disponibles et accessibles pour fournir un soutien et des conseils. 
-Ces "orienteurs" maintiennent une continuité des actions de terrain entreprises au quotidien par une personne en insertion.
+Ces « orienteurs » maintiennent une continuité des actions de terrain entreprises au quotidien par une personne en insertion.
 
 ## Problème
-
 34 % des personnes éloignées de l'emploi qui ont droit à des aides sociales y renoncent
 [Source](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/mesurer-regulierement-le-non-recours-au)
 
