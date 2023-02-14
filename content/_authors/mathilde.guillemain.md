@@ -1,6 +1,6 @@
 ---
 fullname: Mathilde Guillemain
-role: UX Designer
+role: UX Designer / Cheffe de produit
 domaine: Design
 link: https://poulpux.com
 missions:
@@ -10,7 +10,9 @@ missions:
     employer: Scopyleft
 startups:
   - histologe
+
 ---
+
 
 UX Designer & cheffe de produit
 J'aime les jeux de mots et le vert menthe !
