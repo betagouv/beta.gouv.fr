@@ -7,6 +7,8 @@ missions:
     end: 2023-05-16
     status: admin
     employer: MENJ-DNE
+startups:
+  - compte.ressources
 memberType: beta
 ---
 
