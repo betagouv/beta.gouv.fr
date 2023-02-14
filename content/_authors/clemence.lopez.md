@@ -13,11 +13,12 @@ missions:
     end: 2023-12-31
     status: admin
 startups:
+  - compte.ressources
+previously:
+  - tchap
   - sparte
   - authentification
   - cnr
-previously:
-  - tchap
 badges:
   - segur
 ---
