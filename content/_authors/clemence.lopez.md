@@ -13,9 +13,7 @@ missions:
     status: admin
     employer: Dinum
 startups:
-  - sparte
-  - authentification
-  - cnr
+  - comptes.ressources
 previously:
   - tchap
   - sparte
