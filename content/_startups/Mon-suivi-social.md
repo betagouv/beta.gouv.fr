@@ -49,4 +49,4 @@ Le déploiement des fonctionnalités complémentaires sera progressif, et repose
 
 2 - Perspective complémentaire (échéance à définir) :  étude plus approfonfie autour du besoin "bénéficiaire" : coffre-fort numérique, synthèse des RDV et rappels par mails/SMS, suivi de dossier, accès sécurisé pour l'entourage ou les aidants habilités.
 
-![](blob:https://beta.gouv.fr/7c52d3d7-dfa9-4646-a94a-1504e7ca82a0)
+![]()
