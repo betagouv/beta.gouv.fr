@@ -49,4 +49,4 @@ Le déploiement des fonctionnalités complémentaires sera progressif, et repose
 
 2 - Perspective complémentaire (échéance à définir) :  étude plus approfonfie autour du besoin "bénéficiaire" : coffre-fort numérique, synthèse des RDV et rappels par mails/SMS, suivi de dossier, accès sécurisé pour l'entourage ou les aidants habilités.
 
-![](https://monsuivisocial.incubateur.anct.gouv.fr/_nuxt/img/logo.a768e2f.svg)
+![](https://beta.gouv.fr/img/netlifycms/mon.suivi.social.accueil.png)
