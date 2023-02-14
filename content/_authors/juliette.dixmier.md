@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - messagerie.instantanee.sante
+  - eimis
 badges:
   - segur
 competences:
