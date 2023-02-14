@@ -1,18 +1,19 @@
 ---
-title: Mon suivi social
 mission: Libérer du temps pour l'accompagnement social grâce à une solution
   simple, intuitive et sécurisée.
-sponsors:
-  - /organisations/anct
 incubator: anct
-link: https://monsuivisocial.incubateur.anct.gouv.fr/
 repository: https://gitlab.com/incubateur-territoires/startups/monsuivisocial
 contact: contactincubateur@anct.gouv.fr
 accessibility_status: non conforme
 usertypes:
   - collectivite-territoriale
 stats_url: null
+title: Mon suivi social
+sponsors:
+  - /organisations/anct
+link: https://monsuivisocial.incubateur.anct.gouv.fr/
 stats: false
+dashlord_url: https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/monsuivisocial-incubateur-anct-gouv-fr/
 phases:
   - name: investigation
     start: 2021-06-01
