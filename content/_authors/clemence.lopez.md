@@ -1,6 +1,6 @@
 ---
 fullname: Clémence Lopez
-role: Chargée de déploiement
+role: Co-animatrice et responsable de portefeuille - Éducation nationale
 domaine: Produit
 github: clemhacks
 missions:
@@ -8,12 +8,14 @@ missions:
     end: 2022-01-31
     status: service
     employer: Sopra Steria
-  - employer: Dinum
-    start: 2022-03-15
+  - start: 2022-03-15
     end: 2023-12-31
     status: admin
+    employer: Dinum
 startups:
-  - compte.ressources
+  - sparte
+  - authentification
+  - cnr
 previously:
   - tchap
   - sparte
@@ -21,6 +23,8 @@ previously:
   - cnr
 badges:
   - segur
+
 ---
+
 
 
