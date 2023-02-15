@@ -13,10 +13,11 @@ missions:
     start: 2023-02-15
     end: 2023-07-31
 startups:
-  - lapins
+  - place-des-entreprises
 previously:
   - place-des-entreprises
   - demarches-simplifiees.fr
+  - lapins
 competences:
   - Développement Frontend
   - Développement Backend
