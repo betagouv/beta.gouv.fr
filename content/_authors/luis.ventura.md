@@ -1,6 +1,6 @@
 ---
 fullname: Luis VENTURA
-role: Ingénieur Données
+role: Data Scientist
 domaine: Autre
 link: https://www.luisventura.me
 github: Lawiss
@@ -13,4 +13,5 @@ startups:
   - trackdechets
 
 ---
+
 In pizza and data I trust!
