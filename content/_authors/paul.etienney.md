@@ -2,6 +2,7 @@
 fullname: Paul Etienney
 role: Developpeur
 domaine: Développement
+avatar: /img/authors/paul-etienney.jpg
 link: https://donatello.dev
 github: pe-beta
 missions:
