@@ -11,5 +11,6 @@ startups:
   - collectif_objets
 badges:
   - segur
+github: Fantine-py
 ---
 
