@@ -13,6 +13,7 @@ badges:
   - segur
 startups:
   - notifications
+  - valorisation.des.stages.pro
 ---
 
 Lead dev @ Brigade

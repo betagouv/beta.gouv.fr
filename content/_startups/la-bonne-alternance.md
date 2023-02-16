@@ -1,5 +1,5 @@
 ---
-title: La Bonne Alternance
+title: La bonne alternance
 mission: Faciliter la mise en relation entre jeunes, entreprises et CFA
 sponsors:
   - /organisations/menjs
@@ -12,12 +12,14 @@ phases:
     start: 2018-03-19
   - name: construction
     start: 2018-03-19
+  - name: acceleration
+    start: 2020-12-31   
 events: 
   - name: national_impact
     date: 2021-12-31
-link: https://labonnealternance.pole-emploi.fr
+link: https://labonnealternance.apprentissage.beta.gouv.fr
 repository: https://github.com/mission-apprentissage/labonnealternance
-stats_url: https://labonnealternance.pole-emploi.fr/stats
+stats_url: https://labonnealternance.apprentissage.beta.gouv.fr/stats
 stats: true
 contact: labonnealternance@apprentissage.beta.gouv.fr
 redirect_from:
@@ -43,7 +45,7 @@ Une entrée en alternance résulte d’un accord entre un candidat, un employeur
 La plateforme La bonne alternance a été consolidée par différentes données et fonctionnalités. 
 Concernant les données, sont maintenant exposés : 
 - Les offres de formation en apprentissage, issues du [catalogue des formations en apprentissage](https://catalogue.apprentissage.beta.gouv.fr/) ;
-- Les besoins exprimés par de très petites entreprises (TPE) ou des petites et moyennes entreprises (PME) auprès de leur opérateur de compétences (OPCO) ou de sites partenaires grâce [au service de dépôt d'offres simplifié de La bonne alternance](https://labonnealternance.pole-emploi.fr/acces-recruteur) ;
+- Les besoins exprimés par de très petites entreprises (TPE) ou des petites et moyennes entreprises (PME) auprès de leur opérateur de compétences (OPCO) ou de sites partenaires grâce [au service de dépôt d'offres simplifié de La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/acces-recruteur) ;
 - Les offres d’emploi en alternance, issues de [l’API “offres d’emploi”](https://pole-emploi.io/data/api/offres-emploi) de Pôle emploi ;
 - Les entreprises auprès desquelles adresser une candidature spontanée, identifiées grâce à un algorithme prédictif de Pôle emploi, rendant accessible le marché caché de l’emploi en analysant les recrutements passés pour prédire ceux à venir.
 

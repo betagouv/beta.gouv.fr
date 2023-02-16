@@ -5,13 +5,13 @@ domaine: Développement
 github: bjlaa
 missions:
   - start: 2022-09-07
-    end: 2023-01-07
+    end: 2023-03-30
     status: independent
     employer: URSSAF
 startups:
   - mon-entreprise
 badges:
   - segur
----
 
+---
 Développeur Front-End spécialisé en React. Fan de 🚲 🎸 🏊‍♂️  🚣

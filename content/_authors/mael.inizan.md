@@ -1,7 +1,7 @@
 ---
 fullname: Mael Inizan
-role: Coach & Designer de service 
 domaine: Coaching
+role: Coach & Designer de service
 link: https://www.linkedin.com/in/mael-inizan/
 missions:
   - start: 2021-01-11
@@ -9,8 +9,15 @@ missions:
     status: independent
     employer: NUMA
 startups:
+  - la.bonne.renov
+  - parcours.de.saisine
+previously:
   - collectif_objets
   - locadocs
+competences:
+  - UX
+  - Coaching
+  - Croissance
+  - Gestion de Produit
 ---
-
-Depuis +10 ans, j'aide les organisations et les équipes projets à mieux comprendre leurs challenges et à saisir des opportunités pour délivrer de la valeur à leur business, à leurs utilisateurs et à leur collaborateurs. 
+Looking for problems worth solving

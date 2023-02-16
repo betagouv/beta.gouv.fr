@@ -9,6 +9,10 @@ phases:
     start: 2020-01-01 
   - name: construction
     start: 2020-02-01 
+    end: 2023-01-12
+  - name: acceleration
+    start: 2023-01-12
+    
 link: https://www.ozensemble.fr/
 repository: https://github.com/SocialGouv/ozensemble
 stats: true

@@ -4,12 +4,13 @@ domaine: Développement
 role: Administrateur système
 missions:
   - start: 2021-06-15
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
     employer: La Zone
 startups:
   - demarches-simplifiees.fr
 competences:
   - Administration Système
+
 ---
 Un sysadmin qui lit aussi du code, plus ou moins haut niveau.

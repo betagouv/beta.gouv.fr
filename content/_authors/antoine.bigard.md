@@ -11,5 +11,9 @@ missions:
 startups:
   - catalogue-apprentissage
   - dematapprentissage
+previously:
   - pop
+teams:
+  - /teams/mission-apprentissage
+  - /teams/mission-inserjeunes
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Communauté de l'inclusion (ITOU)"
-mission: Faciliter les échanges entre acteurs de l’inclusion
+title: "Communauté de l'inclusion"
+mission: "Échanger avec et entre professionnels de l’inclusion dans l’emploi"
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -15,6 +15,11 @@ events:
 phases:
   - name: construction
     start: 2020-06-01
+usertypes:
+  - collectivite-territoriale
+  - entreprise
+  - association 
+  - etat
 ---
 ## Contexte
 
@@ -23,13 +28,13 @@ confie une mission d’accompagnement socio-professionnel de personnes en diffic
 
 L'**inclusion dans l'emploi** concerne le vaste dispositif de l'IAE, les [entreprises adaptées](https://travail-emploi.gouv.fr/emploi/emploi-et-handicap/article/emploi-et-handicap-les-entreprises-adaptees-ea) (EA) dont la spécificité est d'employer au moins 80% de travailleurs en situation de handicap, et les [groupements d’employeurs pour l’insertion et la qualification](https://travail-emploi.gouv.fr/emploi/insertion-activite-economique/article/groupements-d-employeurs-pour-l-insertion-et-la-qualification-geiq) (GEIQ).
 
-## Problème
+## Le problème
 
 L'univers de l'insertion professionnelle ou de l'inclusion est marqué par la diversité et le cloisonnement des acteurs. Parmi les irritants remontés du terrain : multiplicité des lieux pour trouver de l’information, difficulté à identifier le bon interlocuteur et à le/la contacter, défaut de lien entre acteurs d’un même territoire, ou d’un même réseau, méconnaissance réciproque des acteurs (rôle, activité, périmètre, expertise). \
 \
 Ces irritants sont d'autant plus importants que la mise en réseau des professionnels et le partage des informations est une clé pour la réussite du parcours de la personne en insertion. 
 
-## Solution
+## Notre service
 
 Comment améliorer la collaboration des  professionnels de l’inclusion afin de mieux accompagner leurs publics alors que la multiplicité des acteurs, des outils et des pratiques ne permet pas de connaître tous les leviers d’accompagnement mobilisables ?
 

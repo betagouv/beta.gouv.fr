@@ -6,7 +6,7 @@ github: Red1bush
 link: null
 missions:
   - start: 2018-03-26
-    end: 2022-12-31
+    end: 2023-12-31
     status: independent
     employer: octo
 startups:

@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.1.1"
+gem "jekyll", "~> 4.0"
 gem "webrick"
 
 group :jekyll_plugins do
@@ -8,12 +8,16 @@ group :jekyll_plugins do
 end
 
 group :test do
-  gem 'minitest'
-  gem 'html-proofer'
+  gem 'debug'
+  gem 'guard'
+  gem 'guard-rspec'
+  gem 'html-proofer', '~> 3.0'
   gem 'jsonlint'
   gem 'kwalify'
   gem 'opengraph_parser'
+  gem 'rspec'
 end
+
 gem 'rake', group: [:default, :test]
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

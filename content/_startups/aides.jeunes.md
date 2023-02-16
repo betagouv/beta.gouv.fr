@@ -15,6 +15,10 @@ dashlord_url: https://dashlord.incubateur.net/url/mes-aides-1jeune1solution-beta
 phases:
   - name: construction
     start: 2021-03-15
+    end: 2023-01-13
+  - name: acceleration
+    end: 2023-01-13
+    
 budget_url: https://beta-gouv-fr-budget.netlify.app/?budget=800000&date=2022-07-13&start=2021-03-15&startup=Aides+Jeunes&startupId=aides.jeunes
 ---
 ## Problème

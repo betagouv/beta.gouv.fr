@@ -5,7 +5,7 @@ domaine: Développement
 github: xavfernandez
 missions:
   - start: 2022-11-14
-    end: 2023-02-14
+    end: 2023-08-30
     status: independent
     employer: Octo
 startups:

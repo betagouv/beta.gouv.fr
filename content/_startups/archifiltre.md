@@ -37,23 +37,26 @@ phases:
     comment: Travaux d'investigation dans le cadre du lancement du défi EIG
   - name: construction
     start: 2018-03-02
-    end: ""
+    end: 2018-03-04
     comment: Sortie de la 1ère version accessible en ligne gratuitement d'Archifiltre
   - name: acceleration
     start: 2018-03-04
+    end: 2023-01-17
+  - name : success
+    start : 2023-01-17
 ---
 # Le contexte
 
-Depuis quelques années, la généralisation des outils informatiques et la multiplication des outils de partage et de stockage contribuent à une explosion de la production de fichiers bureautiques. 
+Depuis quelques années, la généralisation des outils informatiques et la multiplication des outils de partage et de stockage contribuent à une explosion de la production de fichiers bureautiques.
 
 # Le problème
 
 Face à ces volumes dont l'ampleur est difficile à matérialiser, les organisations ne réalisent pas l'accumulation et l'engorgement, sur les serveurs, de fichiers très anciens voire obsolètes pour lesquels elles ne savent de toutes façons pas réaliser de tri.
 
-Les conséquences peuvent être de différents ordres pour les agents des administrations: 
-- des espaces serveur surchargés qui coûtent inutilement en terme de stockage (coût financier et écologique), 
+Les conséquences peuvent être de différents ordres pour les agents des administrations:
+- des espaces serveur surchargés qui coûtent inutilement en terme de stockage (coût financier et écologique),
 - une grande difficulté à retrouver des documents perdus dans une organisation difficile à comprendre et souvent redondante
-- un risque juridique à ne pas retrouver l'information pour les besoins de l'administration ou des citoyens 
+- un risque juridique à ne pas retrouver l'information pour les besoins de l'administration ou des citoyens
 - une conservation de données qui devraient être détruites depuis longtemps.
 
 # Notre cible
@@ -68,6 +71,6 @@ Avec Archifiltre, il est désormais possible d'auditer puis d'identifier les tri
 
 # Notre stratégie
 
-Notre stratégie, depuis les débuts, est de développer un outil libre, gratuit, au maximum intuitif afin de rendre son utilisation possible par tou·te·s, y compris les professionnel·le·s de l'information. Des versions sont proposées régulièrement au téléchargement (environ tous les 2 à 3 mois), testées avec les utilisateur·trice·s et augmentées de fonctionnalités au fur et à mesure. 
+Notre stratégie, depuis les débuts, est de développer un outil libre, gratuit, au maximum intuitif afin de rendre son utilisation possible par tou·te·s, y compris les professionnel·le·s de l'information. Des versions sont proposées régulièrement au téléchargement (environ tous les 2 à 3 mois), testées avec les utilisateur·trice·s et augmentées de fonctionnalités au fur et à mesure.
 
 Par ailleurs, la priorisation a toujours été réalisée à partir des demandes d'utilisateur·trice·s issu·e·s de contextes très variés qui permettent de vérifier, en permanence, que les fonctionnalités développées sont adaptées au plus grand nombre (tant dans les administrations de l'Etat que dans les collectivités, chez des opérateurs nationaux ou locaux, comme dans des entreprises ou des associations) grâce aux nombreux retours utilisateurs reçus lors des openlabs et sessions d'échanges (présentations, webinaires, communication réalisée lors des sorties de versions) ou encore via le questionnaire mis en place pour recueillir les attentes.

@@ -13,8 +13,9 @@ missions:
     status: independent
     employer: Little Big Connection
 startups:
-  - carnet.de.bord
   - deveco
+previously:
+  - carnet.de.bord
 competences:
   - Développement Frontend
   - Développement Backend

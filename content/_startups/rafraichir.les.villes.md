@@ -1,5 +1,5 @@
 ---
-title: Rafraîchir les villes
+title: Plus fraîche ma ville
 mission: Accompagner les collectivités dans le choix de solutions de rafraîchissement urbain pérennes et durables
 sponsors:
   - /organisations/ademe

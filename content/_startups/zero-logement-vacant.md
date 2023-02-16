@@ -23,57 +23,58 @@ phases:
   - name: acceleration
     start: 2022-07-01
 ---
-## Le problème
 
-1,1 millions de logements sont vacants depuis au moins deux ans dans le parc privé et ce nombre risque d’augmenter avec l’interdiction progressif de la location des passoires thermiques (près de 2 millions de passoires thermiques potentiellement interdites à la location au 1er janvier 2028). 
+## Le problème sociétal et environnemental
+
+1,1 millions de logements sont vacants depuis au moins deux ans dans le parc privé en France. Il y en aura bientôt plus de 3 millions avec l'interdiction progressive à la location des passoires thermiques d'ici au 1er janvier 2028.
 
 Cette vacance structurelle pénalise les personnes qui cherchent à se loger, dégrade le bâti et contribue à la désaffection des centres-villes. La remise sur le marché de ces logements permettrait :
 
-* Pour les territoires tendus : de constituer une offre abordable complémentaire au parc social (200 000 logements) en lien avec le plan Logement d'Abord ;
-* Pour les territoires moins denses : 
+- Pour les territoires tendus : de constituer une offre abordable complémentaire au parc social (200 000 logements) en lien avec le plan Logement d'Abord ;
+- Pour les territoires moins denses :
+    - de redynamiser les centres-villes et de rénover leur patrimoine en lien avec les programmes Action Coeur de Ville et Petites Villes de Demain,
+    - de se substituer à la construction neuve de logements par artificialisation des sols en contribuant ainsi à l'objectif Zéro Artificialisation Nette.
 
-  * de redynamiser les centres-villes et de rénover leur patrimoine en lien avec les programmes Action Coeur de Ville et le plan Petites Villes de Demain, 
-  * de se substituer à la construction neuve de logements par artificialisation des sols (contribution à l'objectif Zéro Artificialisation Nette). 
+Les aides et dispositifs d’accompagnement des propriétaires sont nombreux pour la rénovation, la mise en location ou la vente des logements… Mais leur complexité freine, d’un côté, la capacité des acteurs du logement à mener des actions conjointes et, de l’autre, la capacité des propriétaires à se mettre en mouvement. En outre, beaucoup de logements et leurs propriétaires sont dans des situations qui ne dépendent pas seulement des aides (succession, attachement au bien, manque de temps,...).
 
-Les aides et dispositifs d’accompagnement des propriétaires sont nombreux pour la rénovation, la mise en location ou la vente des logements… mais leur complexité freine, d’un côté, la capacité des acteurs du logement à mener des actions conjointes et, de l’autre, la capacité des propriétaires à se mettre en mouvement. 
+## Le problème du chargé d'habitat en charge de la lutte contre la vacance
+
+Les chargés d'habitat ont :
+- peu de temps dédié à la vacance (0.5 jour / semaine en moyenne),
+- ils privilégient en règle générale une approche d'étude,
+- ils ont accès à des données LOVAC qui sont mises à jour (jusqu'en 2023) seulement une fois par an et sont donc parfois erronées,
+- enfin ils sont mal outillé sur le plan numérique (utilisation exclusive d'Excel ou de solution sur-mesuré datée en Access)
+
+Sauf incitation forte de l'élu, ils ne font donc pas de la lutte contre la vacance une priorité opérationnelle.
 
 ## La solution Zéro Logement Vacant
 
-Zero Logement Vacant aide les collectivités à mobiliser les propriétaires de logements vacants de longue durée (qui n’engagent pas de démarches par eux-même) pour les faire entrer dans un programme de remise sur le marché (financement de travaux, intermédiation locative…). 
+Zero Logement Vacant aide les chargés d'habitat en particulier, et leurs collectivités en général, à mobiliser ces propriétaires de logements vacants de longue durée pour les faire entrer dans un programme de remise sur le marché (financement de travaux, intermédiation locative, aide juridique…) et à suivre l'état d'avancement des dossiers.
 
-Le produit permet aux collectivités : 
+Le produit permet aux collectivités :
+- de repérer les logements vacants sur leur territoire grâce aux données LOVAC enrichies (données de la taxe d’habitation sur les logements vacants croisées avec les fichiers fonciers)
+- d’isoler des logements prioritaires à contacter et d’entrer en contact avec leurs propriétaires via une campagne de courriers postaux
+- et de suivre l'état des dossiers en renseignant, au fil du projet de sortie de la vacance, les fiches logement et propriétaires.
 
-* de repérer les logements vacants sur leur territoire grâce aux données LOVAC (données de la taxe d’habitation sur les logements vacants croisées avec les fichiers fonciers)
-* de cibler des logements prioritaires et d’entrer en contact avec leurs propriétaires, en adaptant les offres et les arguments aux différentes situations rencontrées.
-* de relancer les propriétaires et de les accompagner tout au long du processus. 
+2021 : première version prototypée en no-code (Airtable) pour tester et ajuster la proposition de valeur auprès de 2-3 dizaines de collectivités utilisatrices.
 
-Il permet aussi, pour les propriétaires, de bénéficier d’un accompagnement humain sur leur logement et, à l’administration centrale, de mieux déployer et évaluer la politique publique nationale. 
-
-Les premières versions ont été développées avec l’outil no-code Airtable pour pouvoir être testées et ajustées rapidement auprès de 2 à 30 collectivités. Nous nous sommes ensuite appuyés sur ces retours d’usages pour construire une solution open-source qui améliore l’expérience utilisateur et permet de déployer le produit à plus large échelle.
+2022 : développement de la solution open-source pour préparer un déploiement à plus large échelle avec 150 collectivités utilisatrices en fin 2022.
 
 ## Impact de la solution
 
-L’impact visé par le produit est la remise sur le marché des logements en situation de vacance structurelle. Le processus de remise sur le marché étant long (1 à 4 ans), nous nous concentrons sur deux objectifs intermédiaires sur lesquels nous avons les moyens d’agir et qui mènent à la remise sur le marché plus rapide de plus de logements : 
+L’impact visé par le produit est la remise sur le marché des logements en situation de vacance structurelle. Le processus de remise sur le marché étant long (1 à 4 ans), nous nous concentrons sur un objectif intermédiaire sur lequel nous avons les moyens d’agir et qui mènent à la remise sur le marché plus rapide de plus de logements :
+- le nombre de logements dont les propriétaires sont engagés dans un processus de remise sur le marché
 
-* mobiliser plus de collectivités et de propriétaires. La sensibilisation des élus et des équipes municipales ainsi que la communication auprès des propriétaires sont les premières étapes vers la remise sur le marché. 
-* améliorer le temps et le taux de conversion entre chaque étape menant à la remise sur le marché (réponse du propriétaire, proposition d’accompagnement par la collectivité, accès à une aide, remise sur le marché).
+## Objectifs et indicateurs pour juin 2023
 
-## Objectifs et indicateurs pour décembre 2022
+Objectif 1 : augmenter le nombre d'intentions de sorties
+- Ouvrir de nouveaux canaux d’acquisition des collectivités et des propriétaires
+- Réduire le temps d’envoi des campagnes
+- Améliorer le ciblage des logements
 
-A horizon 6 mois, nous souhaitons atteindre les objectifs suivants : 
+Objectif 2 : améliorer l’expérience utilisateur et la rétention
+- Améliorer le suivi des dossiers
+- Développer l'infrastructure tech pour intégrer de nouveaux segments de logement (passoires thermiques, propriétaires bailleurs du parc privé)
 
-Objectif 1 : améliorer la pro-activité des collectivités 
-
-* Réduire à moins de 3 mois la fréquence des campagnes (contre 4 mois aujourd’hui). 
-* Réduire à moins de 30% le nombre de contacts non relancés après 3 mois (contre 88% aujourd’hui).  
-* Augmenter à 60 000 le nombre de logements contactés via l’envoi de nouvelles campagnes dans les collectivités actuelles et l’embarquement de nouvelles collectivités.
-
-Objectif 2 : Améliorer l’évaluation de la politique publique
-
-* Mesurer les accompagnements proposées et leur niveau de succès
-* Être en capacité d’effectuer des recommandations d’accompagnement en fonction des situations
-
-Objectif 3 : Tester l’usage de ZLV sur l’anticipation des futurs logements vacants
-
-* Avoir testé l'adaptation de ZLV pour le démarchage de propriétaires de passoires thermiques pour au moins 3 collectivités
-* Préciser la vision long-terme de ZLV grâce aux retours de ces tests.
+Objectif 3 : renouveler le leadership de l'équipe
+- Recruter un nouvel intrapreneur au sein de la DGALN

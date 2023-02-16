@@ -1,7 +1,16 @@
+DOCKER-RUN = docker-compose run --rm
+BUNDLE-EXEC = bundle exec
+
 build:
-	docker-compose run --rm web /bin/bash -c 'ci/build.sh'
+	$(DOCKER-RUN) web /bin/bash -c 'ci/build.sh'
 test:
-	docker-compose run --rm web /bin/bash -c 'ci/test.sh'
+	$(DOCKER-RUN) web /bin/bash -c 'ci/test.sh'
+spec:
+	$(DOCKER-RUN) web $(BUNDLE-EXEC) rspec
+guard:
+	$(DOCKER-RUN) web $(BUNDLE-EXEC) guard
+dsl:
+	$(DOCKER-RUN) web ./bin/beta-rb
 up: down
 	docker-compose up -d
 down:

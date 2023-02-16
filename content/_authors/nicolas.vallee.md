@@ -7,11 +7,13 @@ avatar: null
 link: https://www.linkedin.com/in/nicolasvalleeademe/
 missions:
   - start: 2020-10-21
-    end: 2022-12-31
+    end: 2023-12-31
     status: admin
     employer: ADEME
 startups:
   - territoires-en-transitions
 competences:
   - Administration Publique
+
 ---
+''

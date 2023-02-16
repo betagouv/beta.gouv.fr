@@ -5,10 +5,12 @@ domaine: Déploiement
 github: albacagnina
 missions:
   - start: 2022-03-07
-    end: 2022-12-26
+    end: 2023-02-28
     status: independent
     employer: Malt
 startups:
   - aidantsconnect
+
 ---
 
+''

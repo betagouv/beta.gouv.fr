@@ -1,9 +1,9 @@
 ---
 fullname: Boutié Camara
-role: Chargée de déploiement
+role: Resp accessibilité numérique - Chargée de déploiement
 missions:
   - start: 2021-05-03
-    end: 2022-11-30
+    end: 2023-06-30
     status: independent
     employer: Octo
 startups:
@@ -11,5 +11,7 @@ startups:
 badges:
   - segur
 domaine: Déploiement
+
 ---
+
 

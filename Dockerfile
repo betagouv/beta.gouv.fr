@@ -1,6 +1,6 @@
-FROM ruby:3.1.2-alpine
+FROM ruby:3.1.2
 
-RUN apk add alpine-sdk nodejs npm
+RUN apt-get update && apt-get install -y --no-install-recommends nodejs npm
 
 # minimise rebuilds by isolating Bundler and its files
 WORKDIR /bundler

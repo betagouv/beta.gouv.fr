@@ -17,7 +17,7 @@ phases:
     start: 2017-05-01
   - name: transfer
     start: 2021-06-01
-  - name: alumni
+  - name: success
     start: 2022-11-30
 ---
 

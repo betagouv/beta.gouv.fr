@@ -6,11 +6,11 @@ link: https://malea.dev
 github: cadichris
 missions:
   - start: 2022-10-03
-    end: 2023-01-31
+    end: 2024-01-31
     status: independent
     employer: Omnicité
 startups:
   - homologation
----
 
+---
 Développeur

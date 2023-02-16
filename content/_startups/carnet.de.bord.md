@@ -1,7 +1,6 @@
 ---
 title: Carnet de bord
-mission: "Faciliter la vie des personnes en insertion et de celles et ceux qui
-  les accompagnent "
+mission: Partager le parcours d’insertion pour faciliter les avancées des personnes.
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -33,16 +32,13 @@ phases:
 ---
 ## Le problème
 
-Le champ de l’insertion sociale et professionnelle, et en particulier le domaine de l’accompagnement des usagers, se caractérise par une multiplicité et une grande diversité d’acteurs. La mauvaise connaissance et l'absence de partage de certaines données ne permettent pas aux professionnels de procéder à une bonne évaluation des situations des usagers et un suivi optimal des parcours. Plus précisément, deux problématiques émergent : 
+Le champ de l’insertion sociale et professionnelle, et en particulier le domaine de l’accompagnement des usagers, se caractérise par une multiplicité et une grande diversité d’acteurs. La mauvaise connaissance et l'absence de partage de certaines données ne permettent pas aux professionnels de procéder à une bonne évaluation des situations des usagers et un suivi optimal des parcours. Le déficit de connaissance des éléments de parcours d’insertion d’un usager rend ainsi complexe l’analyse de sa situation et la mise en œuvre d’un parcours efficient entre partenaires. 
 
-1. L’impossibilité pour les accompagnateurs d’avoir une information claire sur les personnes ;
-2. La difficulté pour les personnes à comprendre et à transmettre les informations sur leur parcours.
+## Notre service
 
-Dans ce contexte, comment amplifier la coordination des professionnels autour du parcours de la personne en insertion pour rendre plus efficient son accompagnement ?
+Développé dans le cadre du volet numérique du projet de [Service Public de l'Insertion et de l'Emploi](https://forum.inclusion.beta.gouv.fr/t/le-spie-cest-quoi/2324), l'outil Carnet de bord est un service public qui centralise les données essentielles (éléments de diagnostic socio-professionnel, identité et contact des accompagnateurs, contrats de parcours, objectifs à atteindre et actions initiées, historique de parcours) en une seule page. Il regroupe l’information dans un espace sécurisé permettant un échange accru des données essentielles, entre les accompagnateurs et le bénéficiaire afin d’amplifier la coordination et fluidifier le parcours d’un usager !
 
-## Notre solution
-
-Développé dans le cadre du volet numérique du projet de [Service Public de l'Insertion et de l'Emploi](https://forum.inclusion.beta.gouv.fr/t/le-spie-cest-quoi/2324), l'outil Carnet de bord est un service public qui centralise les données essentielles du parcours en une seule page. Il regroupe l’information dans un espace sécurisé permettant un échange accru des données essentielles, entre les accompagnateurs et le bénéficiaire afin d’amplifier la coordination et fluidifier le parcours d’un usager !
+## Nos publics
 
 **Qui sont les usagers en insertion concernés par l'outil ?** Carnet de bord propose la création de "carnets" d'usagers relevant de différents publics en insertion à l'instar des bénéficiaires du RSA, des demandeurs d'emploi (notamment longue durée, accompagnement global ou concernés par la modalité d'accompagnement "expert handicap"), des jeunes NEET, etc. 
 
@@ -64,22 +60,4 @@ Nous espérons aussi que notre outil permette à l'usager de retrouver la maîtr
 * Le respect de la logique du « dites-le nous une fois » pour éviter le découragement des usagers ;
 * La prise en compte de la fracture numérique avec des évolutions fonctionnelles en continu pilotées par l’impact.
 
-## Feuille de route
-
-**D'ici fin 2022, nous visons les objectifs suivants :** 
-
-* Réaliser l’accompagnement des BRSA de bout en bout sur 2 départements (de la phase d'orientation jusqu'aux fins de mandat / cas de réorientation, en passant par la pose du diagnostic et la signature du CER) ; 
-* Couvrir de nouveaux cas d’usage du SPIE (ex : accompagnement du public de Cap emploi, création de carnet pour les demandeurs d’emploi longue durée, public concerné par l'accompagnement global, etc…) sur 3 départements ; 
-* Poursuivre des expérimentations en visant une dizaine de territoires testant l'outil sur différents cas d'usage. 
-
-**Afin d'atteindre ces objectifs, nous allons œuvrer à :**
-
-* Permettre l’articulation des fonctions « d’orientation » , de « diagnostic » et d’accompagnement pour que Carnet de bord permette la prise en charge et l'accompagnement des bénéficiaires « de bout en bout » ; 
-* Enrichir les fonctionnalité de Carnet de bord avec les offres des startups d’État du SPIE (notamment Dora sur la cartographie de l'offre, Immersion facilitée sur les PMSMP ou RDV-Insertion sur l'invitation à prendre rendez-vous des BRSA) ; 
-* Favoriser l’autonomie et le pouvoir d’agir des personnes accompagnées, ce chantier se traduisant notamment par l'ouverture et l'enrichissement de « l'entrée usager » (chaque usager va pouvoir être acteur de son parcours grâce à sa propre interface Carnet de bord).
-
-## Adoptez Carnet de bord dans votre territoire
-
-Vous voulez tester Carnet de bord sur votre territoire ? Vous souhaitez savoir comment opérer concrètement le service ? Nous sommes à votre disposition ! 
-
-> ### **Inscrivez-vous à une démo en cliquant [ici](https://docs.google.com/forms/d/e/1FAIpQLSc035Uma5dJYWnim8q1g97C03b19O7nusr5QBXVEeQnvTS3og/viewform?usp=sf_link)** 
+### [Contactez l'équipe pour une démo du service](https://docs.google.com/forms/d/e/1FAIpQLSc035Uma5dJYWnim8q1g97C03b19O7nusr5QBXVEeQnvTS3og/viewform)

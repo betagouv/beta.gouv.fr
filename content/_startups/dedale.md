@@ -19,6 +19,9 @@ phases:
     end: 2020-04-01
   - name: construction
     start: 2020-04-01
+    end: 2022-12-31
+  - name: acceleration
+    start: 2023-01-01
 budget_url: https://pad.incubateur.net/s/qeT5bzHUM#Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
 ---
 ## **Retour sur l’investigation**

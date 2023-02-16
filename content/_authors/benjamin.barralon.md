@@ -1,6 +1,6 @@
 ---
 fullname: Benjamin Barralon
-role: Responsable produit (PO)
+role: Responsable de la mission interministérielle InserJeunes
 domaine: Produit
 github: benjaminbarralon
 missions:
@@ -9,7 +9,11 @@ missions:
     status: admin
     employer: AMUE
 startups:
-  - Trajpro
+  - sirius
+  - expositionIJ
+  - pilotagevoiepro
+teams:
+  - /teams/mission-inserjeunes
 badges:
   - segur
 ---

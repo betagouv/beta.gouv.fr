@@ -13,7 +13,7 @@ stats: false
 phases:
   - name: investigation
     start: 2018-03-01
-    end: ""
+    end: 2019-03-01
   - name: construction
     start: 2018-03-01
   - name: acceleration
@@ -30,18 +30,17 @@ phases:
 ## Lutter contre la fraude à l'examen du code
 
 La lutte contre la fraude est nécessaire pour garantir la sécurité routière et l’équité des candidats.
- 
-Depuis 2017, les examens théoriques au permis de conduire (le “code”) sont opérés par des prestataires privés. 
+
+Depuis 2017, les examens théoriques au permis de conduire (le “code”) sont opérés par des prestataires privés.
 
 Les dispositifs contre la fraude doivent être adaptés aux nouvelles conditions de passage.
 
 ## Polex alerte et suit les suspicions de fraude
 
-Polex permet aux délégués à l'éducation routière : 
+Polex permet aux délégués à l'éducation routière :
 
 - d’être alertés d'une suspicion de fraude à partir d'incohérences dans le croisement de données des examens ;
 - d’affiner l'analyse à partir de requêtes préconfigurées pour détecter des patterns de suspicion de fraude ;
 - de suivre les dossiers liés aux alertes pertinentes.
 
 Une version beta a été testée en janvier 2019. La généralisation est intervenue en juin 2019.
-
