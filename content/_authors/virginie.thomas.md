@@ -4,7 +4,7 @@ role: Intrapreneure
 domaine: Intraprenariat
 missions:
   - start: 2022-07-06
-    end: 2023-02-02
+    end: 2023-06-29
     status: admin
     employer: ''
 startups:

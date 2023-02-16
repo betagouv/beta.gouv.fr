@@ -1,5 +1,5 @@
 ---
-title: "Emplois de l'inclusion (ITOU)"
+title: "Emplois de l'inclusion"
 mission: "Faciliter la mise en relation avec les employeurs solidaires"
 sponsors:
   - /organisations/pole-emploi
