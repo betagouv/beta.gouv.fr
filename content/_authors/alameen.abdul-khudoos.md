@@ -6,10 +6,11 @@ avatar: /img/authors/alameen.abdul-khudoos.jpg
 link: https://linkedin.com/in/alameen-abdul-khudoos-269474141
 missions:
   - start: 2019-01-11
-    end: 2023-02-28
+    end: 2023-06-30
     status: independent
 incubator: pole-emploi
 startups:
+  - application.primo.arrivants
   - mes.aides
 previously:
   - zen
