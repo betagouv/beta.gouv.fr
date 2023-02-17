@@ -1,18 +1,21 @@
 ---
 fullname: David Foucher
-role: Développeur
+role: CTO
 domaine: Développement
 github: tyjak
 missions:
   - start: 2020-08-28
-    end: 2023-06-30
+    end: 2024-06-30
     status: service
     employer: Pôle emploi
 startups:
-  - mes-evenements-emploi
+  - application.primo.arrivants
+  - estime.formation
+  - plateforme.rome.4-0
+previously:
   - mobiville
   - encyclopedie-des-metiers
-previously:
+  - mes-evenements-emploi
   - la-bonne-formation
 ---
 
