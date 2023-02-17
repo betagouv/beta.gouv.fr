@@ -9,6 +9,8 @@ missions:
     status: independent
     employer: Arolla
 startups:
+  - estime.formation
+previously:
   - estime
 badges:
   - segur

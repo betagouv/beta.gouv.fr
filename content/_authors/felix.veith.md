@@ -2,6 +2,7 @@
 fullname: Felix Veith
 role: Intrapreneur associé
 domaine: Animation
+avatar: /img/authors/felix-veith.jpg
 link: https://www.linkedin.com/in/f%C3%A9lix-veith-energy-and-climate-engineer/
 github: fe51
 missions:
