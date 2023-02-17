@@ -49,9 +49,9 @@ Bien plus qu'un annuaire, [Dora](https://dora.fabrique.social.gouv.fr/) est un s
 * Offrant la possibilité aux structures d’insertion de référencer simplement et mettre à jour en temps réel leur offre de services. Qui est ensuite diffusée sur toutes les plateformes et sites web partenaires.
 * Permettant ainsi aux professionnels de l'insertion sociale et professionnelle au contact des publics de rechercher et prescrire rapidement les services le plus adaptés aux besoins de leurs bénéficiaires directement depuis l'outil qu'ils utilisent au quotidien
 
-#### "Dites le nous une fois"
+#### "Dites-le nous une fois"
 
-Nous sommes engagés dans une démarche d’Open Data et rendons disponibles nos données à travers un référentiel commun — partagé par toutes les plateformes et sites web partenaires. Grâce à cette dynamique collective, vous référencez votre offre une seule fois tout en la rendant disponible partout.[ Vous pouvez dès à présent accéder aux données de Dora et les télécharger sur data.gouv.](https://www.data.gouv.fr/fr/datasets/referentiel-de-loffre-dinsertion-liste-des-structures-et-services-dinsertion/)
+Nous sommes engagés dans une démarche d’*open data* et rendons disponibles nos données à travers un référentiel commun — partagé par toutes les plateformes et sites web partenaires. Grâce à cette dynamique collective, vous référencez votre offre une seule fois tout en la rendant disponible partout.[ Vous pouvez dès à présent accéder aux données de Dora et les télécharger sur data.gouv.](https://www.data.gouv.fr/fr/datasets/referentiel-de-loffre-dinsertion-liste-des-structures-et-services-dinsertion/)
 
 ## Le service Dora vous intéresse ?
 
