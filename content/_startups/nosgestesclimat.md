@@ -6,6 +6,7 @@ sponsors:
   - /organisations/ademe
 incubator: ademe
 link: https://nosgestesclimat.fr/
+repository: https://github.com/datagir/nosgestesclimat
 contact: contact@nosgestesclimat.fr
 stats: true
 budget_url: https://datagir.ademe.fr/budget/
@@ -16,7 +17,7 @@ phases:
     start: 2022-06-13
     comment: Spin-off de Datagir
 ---
-## C﻿ontexte
+## Contexte
 
 On ne présente plus le changement climatique. 1,5 degrés ou 2 degrés sont des objectifs aujourd'hui bien connus. Seulement, à partir des faits et mécanismes physiques et des chiffres de réchauffement planétaire, comment se traduisent les objectifs de l'accord de Paris dans notre vie quotidienne ? Autrement dit, quelle est *mon* empreinte sur le climat, de quoi est-elle constituée ? Et comment puis-je agir dessus, efficacement ?
 
