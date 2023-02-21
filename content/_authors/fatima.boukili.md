@@ -1,7 +1,7 @@
 ---
 fullname: fatima boukili
 role: Chargée d'études
-domaine: Intraprenariat
+domaine: Déploiement
 missions:
   - start: 2023-02-20
     end: 2023-08-20
