@@ -44,14 +44,18 @@ Ces divers modes de communication, malgré leurs avantages respectifs, comporten
 * perte de temps
 * exposition des données de santé des patients
 
+Il est donc nécéssaire de favoriser l'adoption des outils professionnels, spécifiquement adaptés à l'échange de données de santé. 
+
 ## Stratégie
 
-Après plus d'une quarantaine d'entretiens menés avec divers professionnels de l'écosystème santé, une solution est désormais en cours de construction et d'expérimentation.
+Après plus d'une quarantaine d'entretiens menés avec divers professionnels de l'écosystème de la santé, une solution est désormais en cours de construction et d'expérimentation.
 
-Les objectifs de cette expérimentation ?
+L'objectif de cette expérimentation ? 
 
-- Mettre en place un espace d’inter-opérabilité entre les différents outils de messagerie instantanée de santé déjà existants
-- Constituer un référentiel de qualité pour ces outils priorisant les besoins des utilisateurs finaux
-- Tester diverses hypothèses en mettant une application mobile de messagerie instantanée à disposition d'une communauté de beta-testeurs
+Favoriser l'adoption des outils de messagerie instantanée de santé en s'appuyant sur les leviers suivants :
 
-Cette expérimentation se fait en partenariat avec divers éditeurs de logiciels santé, n'hésitez pas à nous contacter pour participer !
+- Permettre à tous les professionnels de santé de communiquer, même lorsqu'ils utilisent des outils différents, grâce à la mise en oeuvre d'une inter-opérabilité entre les messageries instantanées de santé existantes
+- Constituer un référentiel de qualité pour les outils afin d'offrir une expérience utilisateur répondant aux besoins et usages réels des professionnels de santé
+- Tester diverses hypothèses d'améliorations en mettant une application mobile de messagerie instantanée à disposition d'une communauté de beta-testeurs
+
+Cette expérimentation se fait en partenariat avec les éditeurs de logiciels santé, n'hésitez pas à nous contacter pour participer !
