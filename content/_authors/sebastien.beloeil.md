@@ -3,7 +3,7 @@ fullname: Sebastien Beloeil
 role: DevOPS
 domaine: Déploiement
 missions:
-  - start: 2023-01-30
+  - start: 2023-02-22
     end: 2023-05-23
     status: independent
     employer: Malt
