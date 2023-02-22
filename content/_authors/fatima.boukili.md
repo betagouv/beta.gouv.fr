@@ -10,6 +10,8 @@ missions:
 startups:
   - envergo
 memberType: beta
+
 ---
+
 
 Chargée d'études
