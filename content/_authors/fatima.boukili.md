@@ -1,5 +1,5 @@
 ---
-fullname: fatima boukili
+fullname: Fatima Boukili
 role: Chargée d'études
 domaine: Déploiement
 missions:
