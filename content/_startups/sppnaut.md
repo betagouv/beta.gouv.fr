@@ -1,25 +1,27 @@
 ---
-title: SPPNaut
-mission: Faciliter l'utilisation des publications nautiques en numérisant les données qu'elles contiennent
+mission: Faciliter l'utilisation des publications nautiques en numérisant les
+  données qu'elles contiennent
 sponsors:
   - /organisations/dinum
   - /organisations/shom
 incubator: dinum
+link: null
+repository: https://github.com/betagouv/SPPNautInterface/
+contact: gael.roue@shom.fr
+usertypes:
+  - entreprise
+  - etat
+techno:
+  - Python
+  - PostgreSQL
+  - PostGIS
+title: SPPNaut
+stats: false
 phases:
   - name: investigation
     start: 2021-10-07
   - name: construction
     start: 2022-01-17
-link:
-stats: false
-contact: coralie.monpert@shom.fr
-techno:
-    - Python
-    - PostgreSQL
-    - PostGIS
-usertypes:
-  - entreprise
-  - etat
 ---
 
 ## Le contexte
