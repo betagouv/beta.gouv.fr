@@ -1,6 +1,6 @@
 ---
-title: Pilotage de la carte de formation
-mission: Outiller la révision et l'évolution de l'offre de formation des lycées professionnels
+title: Orion
+mission: Piloter la révision et l'évolution de l'offre de formation des lycées professionnels
 sponsors:
   - /organisations/dgesco
 incubator: mission-inserjeunes
