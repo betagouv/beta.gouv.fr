@@ -39,7 +39,7 @@ L'outil OSCARS permettra à terme de :
 * Centraliser les informations dans un seul outil de planification (vs actuellement, il existe autant de fichiers que d’acteurs),
 * Fluidifier Améliorer la transmission des informations entre les acteurs,
 * Améliorer l’accès aux formations aux demandeurs,
-* Digitaliser les processus de gestion des remplacements des candidats.
+* Numeriser les processus de gestion des remplacements des candidats.
 
 
 
