@@ -13,7 +13,8 @@ phases:
 link:
 stats: false
 repository: https://github.com/betagouv/SPPNautInterface/
-contact: gael.roue@shom.fr techno:
+contact: gael.roue@shom.fr
+techno:
     - Python
     - PostgreSQL
     - PostGIS
