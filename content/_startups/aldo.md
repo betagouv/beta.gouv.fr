@@ -13,12 +13,9 @@ phases:
   - name: investigation
     start: 2023-02-23
 ---
-Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
-
 ## Contexte
 
-La lutte contre le changement climatique est devenue un enjeu majeur des politiques de planification pour les collectivités territoriales. 
+**La lutte contre le changement climatique est devenue un enjeu majeur des politiques de planification pour les collectivités territoriales.** 
 
 Dans le cadre de l’évaluation des émissions de gaz à effet de serre, les stocks et flux de carbone des sols (prairies, cultures, sols forestiers, villes, etc.) et de la biomasse forestière (bois vivant, bois d’œuvre) sont significatifs pour les territoires.
 
@@ -26,15 +23,15 @@ La Loi de Transition Ecologique pour la Croissance Verte a généralisé la mise
 
 ## Problème
 
-Ces stocks et flux sont difficiles à estimer car ils sont très variables d’un territoire à l’autre : ils renvoient à des systèmes et des processus complexes (types de sols et usages agricoles, climat, accroissement des forêts, etc.). Pour une collectivité, une évaluation précise n’est pas compatible en temps et en budget avec l’établissement d’un PCAET. \
+**Ces stocks et flux sont difficiles à estimer** car ils sont très variables d’un territoire à l’autre : ils renvoient à des systèmes et des processus complexes (types de sols et usages agricoles, climat, accroissement des forêts, etc.). Pour une collectivité, une évaluation précise n’est pas compatible en temps et en budget avec l’établissement d’un PCAET. \
 Des références existent mais sont issues de travaux de recherche, à partir de mesures de terrain et de modélisations, et renvoient à différentes sources de données en constante évolution.\
-Or les collectivités et les bureaux d’études qui réalisent des PCAET ont besoin de références fiables et rapidement accessibles.
+**Or les collectivités et les bureaux d’études qui réalisent des PCAET ont besoin de références fiables et rapidement accessibles.**
 
 ## Solution
 
-ALDO est un outil développé par l’ADEME et diffusé depuis 2020, jusqu’à présent en format excel téléchargeable, avec un développement numérique en cours réalisé par DATAGIR (voir https://aldo-carbone.ademe.fr/).
+ALDO est un outil développé par l’ADEME et diffusé depuis 2020, jusqu’à présent en format excel téléchargeable, avec un développement numérique en cours réalisé par DATAGIR.
 
-Simple d’utilisation, open-source et accessible en ligne, il est disponible gratuitement et sans téléchargement. Il n’existe pas d’autre outil de ce type, gratuit et directement disponible pour les utilisateurs.
+Simple d’utilisation, open-source et accessible en ligne, il est disponible gratuitement et sans téléchargement. Il n’existe pas d’autre outil de ce type, gratuit et directement disponible pour les utilisateurs (Chargés de mission Climat dans un territoire, bureaux d'études...).
 
 ALDO centralise des données issues de différentes bases nationales (IGN, INRAE, etc.), et produit des estimations de stocks et flux de carbone de chaque commune, selon des méthodes et référentiels officiels (GIEC, CITEPA...).
 
