@@ -4,16 +4,18 @@ role: Développeur
 domaine: Développement
 github: jrivals
 missions:
-  - employer: octo
+  - start: 2018-11-08
     end: 2021-04-02
-    start: 2018-11-08
     status: independent
-  - employer: octo
-    end: 2023-02-28
-    start: 2021-09-08
+    employer: octo
+  - start: 2021-09-08
+    end: 2023-07-30
     status: independent
+    employer: octo
 startups:
   - zero-logement-vacant
 previously:
   - signalement
+
 ---
+
