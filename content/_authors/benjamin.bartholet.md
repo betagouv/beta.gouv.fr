@@ -6,7 +6,7 @@ github: telohtrab
 link: http://trab.design
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
   - start: 2019-05-01 # date d'arrivée au format ISO (AAAA-MM-JJ) - pense à bien garder les '' !
-    end: 2023-02-28
+    end: 2023-04-30
     status: independent
 startups: # ta ou tes startups actuelles
     - eva # le nom du fichier de la startup dans le répertoire /content/_startups/ sans l'extension .md
