@@ -5,10 +5,12 @@ domaine: Développement
 github: smdsgn
 missions:
   - start: 2022-11-17
-    end: 2023-02-28
+    end: 2023-05-30
     status: independent
     employer: LittleBigConnection
 startups:
   - sparte
+
 ---
+
 
