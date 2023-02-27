@@ -37,7 +37,7 @@ La startup d'Etat permettera au plus grand nombre d’entreprises, via un outil 
 - des dispositifs d'aides associées à leur situation et contexte (sectoriel, économique...) ou, 
 - pour les situations les plus complexes, vers des programmes mis en œuvre par les opérateurs publics.
 
-Nous pourrions repartir de la plateforme [Mission Transition Ecologique](mission-transition.beta.gouv.fr/) de l'EcoLab du CGDD afin de bénéficier des travaux porté et initié par l'[équipe d'entrepreneurs d'intrét général](https://eig.etalab.gouv.fr/defis/france-transition/).
+Nous pourrions repartir de la plateforme [Mission Transition](https://mission-transition.beta.gouv.fr/) de l'EcoLab du CGDD afin de bénéficier des travaux porté et initié par l'[équipe d'entrepreneurs d'intrét général](https://eig.etalab.gouv.fr/defis/france-transition/).
 
 Leur investigation avait permis de distinguer deux catégories de dirigeants qui rencontrent, chacune, des freins propres :
 
