@@ -10,12 +10,14 @@ missions:
     status: service
     employer: AD-HOC Lab
 startups:
-    - diagoriente
-    - la-bonne-alternance
-    - Trajpro
+  - diagoriente
+  - la-bonne-alternance
+  - Trajpro
 previously:
-    - eva
+  - eva
+
 ---
+
 
 
 Ethique/Méthode/Réfutabilité
