@@ -10,4 +10,11 @@ missions:
 incubator: fabnumdef
 competences:
   - Gestion de Produit
+startups:
+  - octopus
+  - oscars
+  - civils-de-la-defense
+  - cassiopee
+
 ---
+
