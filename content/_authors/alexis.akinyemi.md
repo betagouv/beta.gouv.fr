@@ -10,11 +10,11 @@ missions:
     status: service
     employer: AD-HOC Lab
 startups:
-  - eva
-  - diagoriente
-  - la-bonne-alternance
-  - Trajpro
-
+    - diagoriente
+    - la-bonne-alternance
+    - Trajpro
+previously:
+    - eva
 ---
 
 
