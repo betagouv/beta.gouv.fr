@@ -8,13 +8,10 @@ phases:
   - name: construction
     start: 2022-12-01  
 repository: https://github.com/mission-apprentissage/sirius
-stats_url: 
-stats: 
 contact: julianne.lagadec@beta.gouv.fr
 usertypes:
   - particulier
   - etablissement-scolaire
-dashlord_url: 
 ---
 
 L’apprentissage est une voie de formation très dynamique, mais parfois mal connue ou victime de préjugés. Sirius vise à mettre en avant l’expérience des anciens apprentis pour lever les appréhensions des candidats et de leurs parents.
@@ -38,5 +35,3 @@ Ce service, co-construit avec les centres de formation en apprentissage, cherche
 
 - Éclairer les choix des futurs apprentis et leur permettre de répondre à leurs interrogations spécifiques ;
 - Valoriser les bonnes pratiques des centres de formation d'apprentis.
-
-
