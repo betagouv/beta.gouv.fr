@@ -9,7 +9,7 @@ events: []
 phases:
   - name: investigation
     start: 2021-07-09
-    - name: alumni
+  - name: alumni
     start: 2022-12-30
 
 ---
