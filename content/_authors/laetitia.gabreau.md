@@ -16,10 +16,11 @@ missions:
     status: independent
     employer: Malt
 startups:
-  - psyenfantado
   - infoparquet
-  - monpsy
   - dotations locales
+previously:
+  - psyenfantado
+  - monpsy
 badges:
   - segur
 competences:
