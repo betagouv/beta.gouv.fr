@@ -10,6 +10,7 @@ missions:
     employer: octo
 startups:
   - codedutravail
+previously:
   - annuaire-entreprises
   - deveco
 competences:
