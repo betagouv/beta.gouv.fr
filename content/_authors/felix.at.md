@@ -17,4 +17,4 @@ memberType: beta
 
 
 
-Analyser des données, lire des romans et manger des croziflettes.
+Analyser des données, lire des romans et manger des croziflettes. SQL, MongoDB, Metabase...
