@@ -28,14 +28,11 @@ Face à la multipliations des dispositifs d'aides par une multiplicités d'opér
 
 Les dispositifs d’aide à la transition écologique des entreprises sont nombreux et de nature diverse. Répondant à des besoins variés, allant de crédits d’impôts jusqu’à des programmes d’accompagnement individualisés ils sont mis en œuvre par plusieurs opérateurs publics.
 
-Cette situation rend illisible pour le chef d’entreprise, a fortiori de TPE/PME, le parcours à effectuer pour réaliser une démarche complète de transition écologique de son entreprise. Or, les analyses sectorielles, menées sur l’industrie et l’économie de proximité, montrent que près de 2 millions d’entreprises devront verdir leur activité à un degré plus ou moins poussé pour atteindre les objectifs de la SNBC - Stratégie Nationale Bas Carbone. Avec des problématiques relativement similaires, ces entreprises n'ont pas tous le temps et les ressources humaines nécessaire afin de bénéficier des aides proposées par les acteurs publics.
+Cette situation rend illisible pour le chef d’entreprise, a fortiori de TPE/PME, le parcours à effectuer pour réaliser une démarche complète de transition écologique de son entreprise. Or, rien que pour la décarbonation, les analyses sectorielles, menées sur l’industrie et l’économie de proximité, montrent que près de 2 millions d’entreprises devront verdir leur activité à un degré plus ou moins poussé pour atteindre les objectifs de la SNBC - Stratégie Nationale Bas Carbone. Avec des problématiques relativement similaires, ces entreprises n'ont pas tous le temps et les ressources humaines nécessaire afin de bénéficier des aides proposées par les acteurs publics.
 
 ## Solution : Un espace d'accueil numérique et un parcours simplifié au soutien public, répondant aux besoins de l’entreprise-usager.**
 
-La startup d'Etat permettera au plus grand nombre d’entreprises, via un outil d’auto-diagnostic en ligne, d’évaluer leur situation et de réaliser une première orientation « automatique » vers : 
-- des actions à mener de manière autonome, 
-- des dispositifs d'aides associées à leur situation et contexte (sectoriel, économique...) ou, 
-- pour les situations les plus complexes, vers des programmes mis en œuvre par les opérateurs publics.
+La startup d'Etat permettera au plus grand nombre d’entreprises, via un outil d’auto-diagnostic en ligne, d’évaluer leur situation et de réaliser une première orientation « automatique » vers des dispositifs d'aides associées à leur situation et contexte (sectoriel, économique...) ou, pour les situations les plus complexes, vers des programmes mis en œuvre par les opérateurs publics.
 
 Nous pourrions repartir de la plateforme [Mission Transition](https://mission-transition.beta.gouv.fr/) de l'EcoLab du CGDD afin de bénéficier des travaux porté et initié par l'[équipe d'entrepreneurs d'intrét général](https://eig.etalab.gouv.fr/defis/france-transition/).
 
