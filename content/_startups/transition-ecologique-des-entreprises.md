@@ -1,6 +1,6 @@
 ---
 title: Transition Écologique des Entreprises
-mission: Aider les entreprises dans leur transition écologique
+mission: Guider les entreprises dans leur transition écologique
 sponsors: 
  - /organisations/ademe
 incubator: ademe
@@ -18,7 +18,7 @@ contact: jeanbaptiste.ledevehat.ext@ademe.fr
 
 Le service public Transition Écologique des Entreprises est un guichet d'accueil d'aide et d'accompagnement dans la transition écologique des entreprises.
 
-## Problématique : Illisibilité et multiplicité des dispositifs d'aide aux entrperises
+## Problématique : Illisibilité et multiplicité des dispositifs d'aide aux entreprises
 
 Face à la multipliations des dispositifs d'aides par une multiplicités d'opérateurs public (ADEME, BPI, Régions...). Les entreprises ne comprenent pas toujours par quelle porte d'entrée et dans quelles conditions elles peuvent bénéficier d'aide auprès des acteurs publics.
 
@@ -26,7 +26,7 @@ Les dispositifs d’aide à la transition écologique des entreprises sont nombr
 
 Cette situation rend illisible pour le chef d’entreprise, a fortiori de TPE/PME, le parcours à effectuer pour réaliser une démarche complète de transition écologique de son entreprise. Or, rien que pour la décarbonation, les analyses sectorielles, menées sur l’industrie et l’économie de proximité, montrent que près de 2 millions d’entreprises devront verdir leur activité à un degré plus ou moins poussé pour atteindre les objectifs de la SNBC - Stratégie Nationale Bas Carbone. Avec des problématiques relativement similaires, ces entreprises n'ont pas tous le temps et les ressources humaines nécessaire afin de bénéficier des aides proposées par les acteurs publics.
 
-## Solution : Un espace d'accueil numérique et un parcours simplifié au soutien public, répondant aux besoins de l’entreprise-usager.**
+## Solution : Un espace d'accueil numérique et un parcours simplifié au soutien public, répondant aux besoins de l’entreprise-usager.
 
 La startup d'Etat permettera au plus grand nombre d’entreprises, via un outil d’auto-diagnostic en ligne, d’évaluer leur situation et de réaliser une première orientation « automatique » vers des dispositifs d'aides associées à leur situation et contexte (sectoriel, économique...) ou, pour les situations les plus complexes, vers des programmes mis en œuvre par les opérateurs publics.
 
