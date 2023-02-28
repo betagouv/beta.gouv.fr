@@ -1,5 +1,5 @@
 ---
-title: Transition Ecologique des entreprises
+title: Transition Écologique des Entreprises
 mission: Aider les entreprises dans leur transition écologique
 sponsors: 
  - /organisations/ademe
@@ -8,11 +8,7 @@ usertypes:
   - entreprise
 phases: 
   - name: investigation
-    start: 2021-02-27 
-events: 
-  - name: committee
-    date: 2020-03-16
-    comment: Premier comité de financement # Informations complémentaires
+    start: 2023-02-27 
 link: 
 repository: # ou page de description des dépôts s'il y en a plusieurs
 stats: false # mettre à true pour renvoyer vers ta page de stats. Attention, elle doit se trouver sur [url du site]/stats !
