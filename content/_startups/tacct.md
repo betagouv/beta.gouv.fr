@@ -1,6 +1,8 @@
 ---
 title: TACCT
-mission: Proposer une démarche aux territoires pour s'adapter au changement climatique
+mission: "un véritable service autour de la méthodologie TACCT, pour aider les
+  territoires à monter en compétence et gagner en autonomie sur la thématique
+  Adaptation au changement climatique "
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -13,8 +15,6 @@ phases:
     start: 2023-02-01
     end: 2023-03-31
 ---
-
-
 ## Contexte
 
 **L﻿e Changement climatique :** 
@@ -25,12 +25,10 @@ phases:
 
 ## Problème
 
-Les problèmes que vous avez identifiés ou vos hypothèses de problèmes? Qui en souffre ? quels sont les conséquences de ces problèmes ?
+Un constat sans appel sur l’existant : des stratégies d’adaptation au changement climatique se limitant à quelques grandes orientations génériques ; une déclinaison en actions trop généralistes, assez peu opérationnelles, pas à la hauteur des enjeux climatiques ; des blocages dans leur mise en œuvre (difficulté de mobilisation notamment) ; une adaptation réactive (coûteuse) plutôt qu’en anticipation ; un risque de maladaptation pour certains, déjà une réalité pour d’autres. Les raisons ? un diagnostic de vulnérabilité désincarné, une stratégie hors-sol et un plan d’action ‘catalogue’ sans lendemain.
 
 ## Solution
 
-Décrit ta solution en quelques lignes? qui seront/sont les bénéficiaires ?
+Dans tous les cas à destination des chargés de mission en charge de l’adaptation au changement climatique à différentes échelles de territoire.
 
-## Stratégie
-
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
+L’adaptation fait référence à l’idée de mouvement : aidons les territoires à trouver leur chemin !
