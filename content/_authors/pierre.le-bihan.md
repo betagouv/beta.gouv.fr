@@ -1,6 +1,6 @@
 ---
 fullname: PIERRE LE BIHAN
-role: Développeur 
+role: Développeur
 domaine: Développement
 github: naustra
 missions:
@@ -12,6 +12,8 @@ startups:
   - snu
 badges:
   - segur
+
 ---
+
 
 Développeur 
