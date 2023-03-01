@@ -3,7 +3,8 @@ fullname: Loïc Guillois
 domaine: Développement
 role: Développeur
 github: loicguillois
-avatar: https://avatars2.githubusercontent.com/u/55890?s=460&u=6d30adf6bede7d90474e82023d1947aabedd5635&v=4
+avatar: >-
+  https://avatars2.githubusercontent.com/u/55890?s=460&u=6d30adf6bede7d90474e82023d1947aabedd5635&v=4
 missions:
   - start: 2016-11-28
     end: 2019-12-31
@@ -12,12 +13,13 @@ missions:
   - start: 2020-02-05
     end: 2020-03-19
     status: independent
+    employer: ''
   - start: 2020-12-26
-    end: 2023-02-28
+    end: 2023-04-29
     status: independent
     employer: octo
 startups:
-  - conseiller-numerique
+  - pass.engagement.jeune
 previously:
   - jeveuxaider
   - mon-entreprise
@@ -29,5 +31,7 @@ badges:
 competences:
   - Développement Frontend
   - Développement Backend
+
 ---
+
 Développeur Web
