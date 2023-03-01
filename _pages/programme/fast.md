@@ -32,8 +32,10 @@ Les produits numériques présentés au FAST seront évalués à l’aune des cr
 Depuis 2023, la sélection des lauréats respectant les critères ci-dessus sera **attribué en priorité aux produits numériques rattachés aux chantiers prioritaires du gouvernement.**
 
 ## Modalités de co-financement et d'accompagnement 
+- Les lauréats du FAST bénéficient d'un accompagnement sur 4 mois d'une valeur de 30 000€ par un expert en accélération mandaté par la DINUM. L'expert aide à augmenter l'impact de l'équipe par un pilotage centré sur un indicateur unique, la mise en place d'une stratégie itérative pour identifier les meilleurs leviers de croissance et une montée en compétences progressive des équipes.
+- Le financement FAST est réparti entre l'accompagnement d'un expert en accélération et une enveloppe de cofinancement complémentaire pour financer l'accélération du produit numérique.
 - Le FAST apporte 1€ de la DINUM pour 1€ apporté par l'administration partenaire. Les financements éligibles sont justifiés par une convention de partenariat ou une lettre d'engagement, ne doivent pas encore avoir été consommés, et n'incluent pas le temps-agent des personnes impliquées dans le service numérique.
-- Le cofinancement FAST est limité à 300 000 € maximum par produit numérique par an. Depuis 2022, il peut être demandé et obtenu à plusieurs reprises, dans la limite de 1 fois par an, selon les résultats du service et la décision du comité d'investissement FAST. Les produits numériques ayant déjà bénéficié du FAST dans les années précédentes et souhaitant bénéficier à nouveau d'un cofinancement et/ou d'un accompagnement devront présenter un bilan d’impact détaillé qui montre les évolutions du service et de ses résultats depuis le dernier investissement FAST.
+- Le cofinancement FAST est limité à 300 000 € maximum par produit numérique par an. Les produits numériques ayant déjà bénéficié du FAST dans les années précédentes et souhaitant en bénéficier à nouveau devront présenter un bilan d’impact détaillé qui montre les évolutions du service et de ses résultats.
 
 ## Engagements des lauréats du programme d'accélération
 Afin de garantir que l’apport de la DINUM bénéficiera réellement à un service soutenu par l'administration porteuse, les engagements suivants sont demandés aux lauréats du FAST :
