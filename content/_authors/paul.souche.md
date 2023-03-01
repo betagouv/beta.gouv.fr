@@ -11,6 +11,8 @@ missions:
 startups:
   - maison.de.lautisme
 memberType: beta
+
 ---
+
 
 Développeur fullstack
