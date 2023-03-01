@@ -19,9 +19,9 @@ phases:
 
 **L﻿e Changement climatique :** 
 
-\- une réalité qui s’impose à tous - Les impacts du changement climatique, largement relayés par les médias, deviennent difficiles à ignorer. Pourtant chaque nouvel épisode (sécheresses, inondations...) reste l’occasion d’une douloureuse prise de conscience, pour certaines collectivités, de devoir adapter leur territoire au changement climatique ; pour d’autres, s’impose le constat d’une prise en compte a minima ne répondant pas aux enjeux. Les efforts à fournir pour s’adapter au changement climatique sont désormais chiffrés : au moins 2,3 Mds d’euros supplémentaires par an, avec la certitude que tout retard renforcera le coût de la facture finale.
+\- une réalité qui s’impose à tous : Les impacts du changement climatique, largement relayés par les médias, deviennent difficiles à ignorer. Pourtant chaque nouvel épisode (sécheresses, inondations...) reste l’occasion d’une douloureuse prise de conscience, pour certaines collectivités, de devoir adapter leur territoire au changement climatique ; pour d’autres, s’impose le constat d’une prise en compte a minima ne répondant pas aux enjeux. Les efforts à fournir pour s’adapter au changement climatique sont désormais chiffrés : au moins 2,3 Mds d’euros supplémentaires par an, avec la certitude que tout retard renforcera le coût de la facture finale.
 
-\- et une source d’interrogations pour les territoires – Que signifie être adapté aux impacts du changement climatique ? Quelles différences avec la gestion des risques naturels ? Par quelles étapes faut-il passer ? Quelles actions mettre en œuvre aujourd’hui ? Seront-elles toujours efficaces demain ? Suis-je concernée si je suis une petite collectivité, avec peu de moyens et peu de compétences pour agir ?
+\- et une source d’interrogations pour les territoires : Que signifie être adapté aux impacts du changement climatique ? Quelles différences avec la gestion des risques naturels ? Par quelles étapes faut-il passer ? Quelles actions mettre en œuvre aujourd’hui ? Seront-elles toujours efficaces demain ? Suis-je concernée si je suis une petite collectivité, avec peu de moyens et peu de compétences pour agir ?
 
 ## Problème
 
