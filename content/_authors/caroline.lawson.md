@@ -6,12 +6,14 @@ github: caroline-lawson
 link: null
 missions:
   - start: 2021-01-26
-    end: 2023-03-31
+    end: 2023-06-30
     status: independent
-    employer: null
+    employer: ''
 startups:
   - aidantsconnect
   - tchap
 competences:
   - UX
+
 ---
+
