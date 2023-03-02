@@ -15,7 +15,7 @@ missions:
     status: independent
     employer: ''
   - start: 2020-12-26
-    end: 2023-04-29
+    end: 2023-04-30
     status: independent
     employer: octo
 startups:
@@ -33,5 +33,6 @@ competences:
   - Développement Backend
 
 ---
+
 
 Développeur Web
