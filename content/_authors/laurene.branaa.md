@@ -7,8 +7,11 @@ missions:
   - start: 2023-01-03
     end: 2023-08-31
     status: independent
+    employer: ''
 startups:
-  - datagir
+  - nosgestesclimat
 memberType: beta
+
 ---
+
 
