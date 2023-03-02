@@ -9,9 +9,11 @@ missions:
     status: independent
     employer: ''
 startups:
+  - datagir
   - nosgestesclimat
 memberType: beta
 
 ---
+
 
 
