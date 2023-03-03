@@ -5,12 +5,12 @@ domaine: Développement
 link: https://bento.me/bryanberger
 github: BryanBerger98
 missions:
-  - start: 2023-02-20
-    end: 2023-09-03
-    status: service
-    employer: Selego
+    - start: 2023-02-20
+      end: 2024-01-31
+      status: service
+      employer: Selego
 startups:
-  - snu
+    - snu
 memberType: beta
 ---
 
