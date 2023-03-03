@@ -2,17 +2,18 @@
 fullname: Patrick LAMBRET
 domaine: Produit
 role: 'Spécialiste produit : PO, PM, coach'
-github: patrick-coach
+github: patrick-produit
 link: https://www.linkedin.com/in/plambret/
 missions:
   - start: 2021-04-22
-    end: 2023-12-31
+    end: 2024-12-31
     status: independent
     employer: freelance
-incubator: anct
+incubator: mtes
 startups:
   - camino
 previously:
+  - conseiller numérique
   - mobilic
   - dora
   - data-inclusion
