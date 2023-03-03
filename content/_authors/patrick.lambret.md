@@ -13,7 +13,7 @@ incubator: mtes
 startups:
   - camino
 previously:
-  - conseiller numérique
+  - conseiller-numerique
   - mobilic
   - dora
   - data-inclusion
