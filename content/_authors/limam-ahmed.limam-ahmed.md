@@ -1,5 +1,5 @@
 ---
-fullname: Limam Ahmed LIMAM AHMED
+fullname: Limam AHMED
 role:  Chargé de déploiement 
 domaine: Déploiement
 missions:
