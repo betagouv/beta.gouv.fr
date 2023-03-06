@@ -53,9 +53,9 @@ En réunissant l’ensemble des acteurs, nous co-construisons :
 
 **Après des CFA - Effet induit**
 
-    - Améliorer le niveau de qualité des retours sur les CFA et leur permettre de s'emparer de ce sujet.
-    - Déconstruire les aprioris et mieux informer sur l'orientation vers l'apprentissage.
-    - Mettre en avant les bonnes pratiques d’accompagnement des CFA.
+- Améliorer le niveau de qualité des retours sur les CFA et leur permettre de s'emparer de ce sujet.
+- Déconstruire les aprioris et mieux informer sur l'orientation vers l'apprentissage.
+- Mettre en avant les bonnes pratiques d’accompagnement des CFA.
 
 **Auprès des prescripteurs (familles, prof principaux, psyen...) - Effet induit**
 
