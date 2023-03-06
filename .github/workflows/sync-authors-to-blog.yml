@@ -6,7 +6,7 @@ on:
 
 jobs:
   sync:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-22.04
     steps:
     - name: Sync
       uses: adrianjost/files-sync-action@v1.0.1
