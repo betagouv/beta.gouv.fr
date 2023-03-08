@@ -9,9 +9,9 @@ missions:
     status: independent
     employer: Numa
 startups:
-  - territoires-en-transitions
   - rafraichir.les.villes
 previously:
+  - territoires-en-transitions
   - mon-entreprise
   - e-inspé
 competences:
