@@ -13,7 +13,7 @@ Lancé en septembre 2020, **l’Atelier numérique est l’incubateur du minist�
 
 L'approche beta.gouv place les usagères et usagers au cœur de l’action publique et cherche à apporter des **solutions concrètes** pour améliorer leur vie quotidienne. 
 
-Sa contribution a accompagné la création de [dizaines de services numériques](https://beta.gouv.fr/startups/) déjà disponibles ou à venir. Beta.gouv est aussi une [communauté croissante](https://beta.gouv.fr/communaute/) de développeur·euse·s, designer·euse·s, chargé·e·s de produit… qui construisent les services publics numériques de demain au sein d’un **[réseau d’incubateurs publics](https://beta.gouv.fr/incubateurs/)** partageant les mêmes [valeurs](https://beta.gouv.fr/approche/manifeste).
+Sa contribution a accompagné la création de [dizaines de services numériques](https://beta.gouv.fr/startups/) déjà disponibles ou à venir. Beta.gouv est aussi une [communauté croissante](https://beta.gouv.fr/communaute/) de développeur·euse·s, designer·euse·s, chargé·e·s de produit… qui construisent les services publics numériques de demain au sein d’un **[réseau d’incubateurs publics](https://beta.gouv.fr/incubateurs/)** partageant les mêmes [valeurs](https://beta.gouv.fr/manifeste).
 
 
 ## **Le projet : Simplifier l’accès à un document administratif ou judiciaire**

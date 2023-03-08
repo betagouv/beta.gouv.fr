@@ -16,7 +16,7 @@ title: Responsable de produit data.insertion (Service Public de l’Insertion et
 
 ## Missions du / de  la responsable de produit 
 - S'approprier et préciser la feuille de route qui priorisera les API à développer et les objectifs d'impact à court et moyen-terme ;
-- Piloter une équipe pluridisciplinaire selon les principes du [manifeste des startups d'Etat](https://beta.gouv.fr/approche/manifeste) ;
+- Piloter une équipe pluridisciplinaire selon les principes du [manifeste des startups d'Etat](https://beta.gouv.fr/manifeste) ;
 - Développer des relations de confiance avec les partenaires, qu'ils soient fournisseurs de données ou consommateurs de données ; 
 - Mesurer en continu l'impact des travaux réalisés et les communiquer aux décideurs publics. 
 

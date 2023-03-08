@@ -8,7 +8,7 @@ title: "Responsable du produit / Product Manager 'Carnet de bord' (Service Publi
 ## Missions 
 Membre d'une équipe de 3 à 4 personne, vous serez en charge de développer et tester en 6 mois une **première version minimale du Carnet de bord** :
 - Rechercher le plus court chemin avec l'équipe pour mettre en ligne une version minimale du produit et la proposer à une centaine d'utilisateurs  ; 
-- Constituer et piloter une petite équipe pluridisciplinaire selon les principes du [manifeste des startups d’Etat](https://beta.gouv.fr/approche/manifeste) et travailler en binôme avec un agent public intrapreneur qui a conduit la phase d'investigation  ;  
+- Constituer et piloter une petite équipe pluridisciplinaire selon les principes du [manifeste des startups d’Etat](https://beta.gouv.fr/manifeste) et travailler en binôme avec un agent public intrapreneur qui a conduit la phase d'investigation  ;  
 - Mesurer en continu les résultats et l'impact du produit sur le terrain, en lien avec des objectifs à 6 mois ; 
 - Recueillir chaque jour des retours utilisateurs et permettre à l'équipe de livrer une nouvelle version de la solution à un rythme régulier - toutes les semaines, voire tous les jours en fonction de la phase du développement.  
   
