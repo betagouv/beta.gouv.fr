@@ -59,5 +59,3 @@ Nous espérons aussi que notre outil permette à l'usager de retrouver la maîtr
 
 * Le respect de la logique du « dites-le nous une fois » pour éviter le découragement des usagers ;
 * La prise en compte de la fracture numérique avec des évolutions fonctionnelles en continu pilotées par l’impact.
-
-### [Contactez l'équipe pour une démo du service](https://docs.google.com/forms/d/e/1FAIpQLSc035Uma5dJYWnim8q1g97C03b19O7nusr5QBXVEeQnvTS3og/viewform)
