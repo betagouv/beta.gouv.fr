@@ -7,15 +7,12 @@ missions:
   - start: 2022-03-21
     end: 2023-05-25
     status: independent
-    employer: ''
+startups:
+  - pilotagevoiepro
 previously:
   - potentiel
 competences:
   - Développement Frontend
   - Développement Backend
-startups:
-  - pilotagevoiepro
-
 ---
-
 Développeur full stack JS
