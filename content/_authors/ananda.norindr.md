@@ -8,6 +8,8 @@ missions:
   - start: 2023-02-13
     end: 2023-08-14
     status: independent
+startups:
+  - expositionIJ
 memberType: beta
 ---
 

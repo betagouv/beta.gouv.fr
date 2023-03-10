@@ -5,9 +5,13 @@ domaine: Déploiement
 github: Camillefwok
 missions:
   - start: 2020-10-07
-    end: 2023-06-01
+    end: 2023-12-01
     status: independent
-    employer: Octo
+    employer: Fabrique numérique des ministères sociaux
 startups:
+  - chauffage-urbain
+previously:
   - aidantsconnect
+badges:
+  - segur
 ---

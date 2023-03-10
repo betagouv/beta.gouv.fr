@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: INOPS
 startups:
+  - application.primo.arrivants
   - mes.aides
 ---
 

@@ -9,7 +9,8 @@ missions:
     end: 2023-04-30
     status: independent
 startups:
-  - Trajpro
+  - expositionIJ
+  - pilotagevoiepro
 badges: null
 competences:
   - Gestion de Produit

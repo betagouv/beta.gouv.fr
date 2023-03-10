@@ -1,6 +1,6 @@
 ---
 fullname: Charles Dechamps
-role: Chargé de déploiement
+role: Product Manager
 domaine: Déploiement
 github: chdechamps
 missions:
@@ -11,5 +11,7 @@ missions:
 startups:
   - carnet.de.bord
 memberType: beta
+
 ---
+
 

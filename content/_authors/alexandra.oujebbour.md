@@ -8,9 +8,13 @@ missions:
     status: admin
     employer: Pôle Emploi
 startups:
+  - estime.foramtion
+  - estime.formation
+previously:
   - estime
 
 ---
+
 
 
 "La vocation, c'est le bonheur d'avoir pour métier sa passion"

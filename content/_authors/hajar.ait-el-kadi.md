@@ -5,13 +5,15 @@ domaine: Développement
 github: haekadi
 missions:
   - start: 2021-07-07
-    end: 2023-02-28
+    end: 2023-06-29
     status: service
     employer: Octo
 startups:
-    - annuaire-entreprises
+  - annuaire-entreprises
 previously:
-    - openfisca
+  - openfisca
+
 ---
+
 
 Data and Python lover

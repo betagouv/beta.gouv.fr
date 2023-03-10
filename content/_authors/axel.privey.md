@@ -1,15 +1,18 @@
 ---
 fullname: Axel PRIVEY
 domaine: Produit
-role: Urbaniste des systèmes d&#39;information
+role: Intrapreneur sur le domaine régalien
+github: axlpriv
 missions:
   - start: 2021-07-21
-    end: 2023-03-30
+    end: 2023-12-31
     status: admin
-    employer: Service National des Données de Voyage
+    employer: Agence Nationale des Données de Voyage
 startups:
   - sndv_maritime
 competences:
-  - Gestion de Produit
+  - Intrapreneur
+  - Gestion de produit
+  - Gestion de système d'information
 
 ---

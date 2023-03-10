@@ -8,7 +8,7 @@ missions:
     end: 2023-06-01
     status: independent
 startups:
-    - mon-entreprise
 previously:
+    - mon-entreprise
     - aides.jeunes
 ---

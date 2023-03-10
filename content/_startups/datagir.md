@@ -17,6 +17,9 @@ usertypes:
 stats_url: https://datagir.ademe.fr/stats/
 stats: true
 budget_url: https://datagir.ademe.fr/budget/
+events:
+  - name: national_impact
+    date: 2022-12-31
 phases:
   - name: investigation
     start: 2019-01-02

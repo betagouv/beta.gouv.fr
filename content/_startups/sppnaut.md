@@ -12,7 +12,8 @@ phases:
     start: 2022-01-17
 link:
 stats: false
-contact: coralie.monpert@shom.fr
+repository: https://github.com/betagouv/SPPNautInterface/
+contact: gael.roue@shom.fr
 techno:
     - Python
     - PostgreSQL
