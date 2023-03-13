@@ -24,7 +24,7 @@ Le service public Transition Écologique des Entreprises est un guichet d'accuei
 
 En France, nous réduisons lentement nos émissions de gaz à effet de serres et nos consommations d'énergie. C'est bien, mais insuffisant. Le [Haut Conseil pour le Climat](https://www.hautconseilclimat.fr/) et l'[Observatoire Climat-Énergie](https://www.observatoire-climat-energie.fr/) sont là pour nous le rappeler. Nos objectifs de la Stratégie National Bas Carbone (SNBC), et des Programmations pluriannuelles de l'énergie (PPE) n'ont pas été atteint en 2021.
 
-La mise en œuvre de cette stratégie nécessitera des investissements massifs et de nouvelles expertises. Les métiers et les modèles économiques vont devoir se transformer. Les financements publics et privés devront donc augmenter de plusieurs milliards d’euros par an ces prochaines années. 
+La mise en œuvre de cette stratégie nécessitera des investissements massifs et de nouvelles expertises. Les métiers et les modèles économiques vont devoir se transformer. Les financements publics et privés devront donc augmenter de plusieurs milliards d’euros par an ces prochaines années, pour accompagner ces mutations économiques. Comme le dit le rapport du [GIEC](https://www.ipcc.ch/languages-2/francais/) : « Chaque dixième de degré gagné compte »
 
 ### Méconnaissance des enjeux et illisibilité des dispositifs d'aide aux entreprises
 
