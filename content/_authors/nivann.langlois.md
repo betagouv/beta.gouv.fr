@@ -6,7 +6,7 @@ domaine: Déploiement
 link: https://www.linkedin.com/in/nivann-langlois-6b9134b8/
 missions:
   - start: 2022-02-21
-    end: 2023-03-01
+    end: 2023-07-14
     status: independent
     employer: Malt
 startups:
@@ -15,6 +15,7 @@ badges:
   - segur
 
 ---
+
 >-
   Chargé de déploiement, expert en communication, analyste-rédacteur en
   géopolitique, je cherche à donner du sens à chaque projet que j'entreprends !

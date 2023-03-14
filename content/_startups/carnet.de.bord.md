@@ -5,9 +5,9 @@ sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
 incubator: gip-inclusion
-link: https://carnet-de-bord.fabrique.social.gouv.fr/
-repository: https://github.com/SocialGouv/carnet-de-bord
-contact: contact.carnet-de-bord@fabrique.social.gouv.fr
+link: https://carnetdebord.inclusion.beta.gouv.fr/
+repository: https://github.com/gip-inclusion/carnet-de-bord
+contact: contact@carnetdebord.inclusion.beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/url/carnet-de-bord-fabrique-social-gouv-fr/
 analyse_risques: true
@@ -59,5 +59,3 @@ Nous espérons aussi que notre outil permette à l'usager de retrouver la maîtr
 
 * Le respect de la logique du « dites-le nous une fois » pour éviter le découragement des usagers ;
 * La prise en compte de la fracture numérique avec des évolutions fonctionnelles en continu pilotées par l’impact.
-
-### [Contactez l'équipe pour une démo du service](https://docs.google.com/forms/d/e/1FAIpQLSc035Uma5dJYWnim8q1g97C03b19O7nusr5QBXVEeQnvTS3og/viewform)

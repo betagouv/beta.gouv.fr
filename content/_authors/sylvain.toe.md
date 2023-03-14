@@ -8,7 +8,7 @@ avatar: >-
 link: https://github.com/lazybird
 missions:
   - start: 2018-11-09
-    end: 2023-03-31
+    end: 2023-08-31
     status: independent
     employer: Inetum
 startups:
@@ -22,4 +22,5 @@ competences:
   - Développement Frontend
 
 ---
+
 ''

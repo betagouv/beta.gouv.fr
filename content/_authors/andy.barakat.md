@@ -5,8 +5,10 @@ domaine: Développement
 github: AndyBarakat
 missions:
   - start: 2022-11-22
-    end: 2023-03-25
+    end: 2026-03-01
     status: independent
     employer: Mission Numerique DGALN
+
 ---
+
 
