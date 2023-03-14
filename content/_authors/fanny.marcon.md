@@ -9,9 +9,11 @@ missions:
     status: independent
     employer: OCTO
 startups:
-  - trackdechets
+  - plateforme.impact
 badges:
   - segur
+
 ---
+
 
 Chargée de déploiement de Trackdéchets
