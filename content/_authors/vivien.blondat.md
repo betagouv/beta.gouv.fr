@@ -11,6 +11,8 @@ startups:
   - locatio
 badges:
   - segur
+
 ---
+
 
 Slasheur, passionné d'histoire, grimpeur du dimanche [7A], curieux de toute connaissance, j'adore apprendre et expérimenter, allant d'expérience en expérience [...]
