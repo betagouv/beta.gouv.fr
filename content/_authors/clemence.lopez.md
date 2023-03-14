@@ -21,7 +21,8 @@ previously:
   - cnr
 badges:
   - segur
-
+teams:
+  - /teams/animation-dinum
 ---
 
 
