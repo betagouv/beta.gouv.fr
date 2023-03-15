@@ -5,8 +5,11 @@ avatar: https://avatars.githubusercontent.com/u/73835224?v=4
 domaine: Intraprenariat
 missions:
   - start: 2020-09-01
-    end: 2023-03-30
+    end: 2023-12-31
     status: admin
+    employer: ''
 startups:
-    - ma-cantine-egalim
+  - ma-cantine-egalim
+
 ---
+
