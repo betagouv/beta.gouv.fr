@@ -1,6 +1,7 @@
 ---
 fullname: Nicolas Aycirieix
 role: Développeur
+github: nicoayci
 domaine: Développement
 missions:
   - start: 2023-02-13
