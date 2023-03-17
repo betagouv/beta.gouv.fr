@@ -5,7 +5,7 @@ role: Développeur
 github: tglatt
 missions:
   - start: 2021-06-28
-    end: 2023-06-30
+    end: 2023-12-30
     status: independent
     employer: ''
 previously:
@@ -20,5 +20,6 @@ competences:
   - Développement Backend
 
 ---
+
 
 Accompagner les équipes - imaginer collectivement des solutions sobres
