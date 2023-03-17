@@ -1,6 +1,6 @@
 ---
 fullname: Laurent  CHATEAU
-role: Intrapreneur en investigation 
+role: Intrapreneur en investigation
 domaine: Intraprenariat
 missions:
   - start: 2022-12-16
@@ -8,5 +8,7 @@ missions:
     status: admin
     employer: ADEME
 memberType: beta
+
 ---
+
 
