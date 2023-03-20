@@ -5,7 +5,7 @@ domaine: Déploiement
 github: Delphgateau
 missions:
   - start: 2022-12-20
-    end: 2023-09-29
+    end: 2023-06-29
     status: independent
     employer: Malt
 startups:
