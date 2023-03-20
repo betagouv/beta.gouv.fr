@@ -12,6 +12,9 @@ missions:
 startups:
   - civils-de-la-defense
 previously:
+  - aides.jeunes
+  - lapins
+  - demarches-simplifiees.fr
   - civils-de-la-defense
 
 ---
