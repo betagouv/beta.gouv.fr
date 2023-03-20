@@ -8,7 +8,7 @@ phases:
   - name: construction
     start: 2022-12-01  
 repository: https://github.com/mission-apprentissage/sirius
-contact: julianne.lagadec@beta.gouv.fr
+contact: contact@inserjeunes.beta.gouv.fr
 usertypes:
   - particulier
   - etablissement-scolaire
