@@ -10,7 +10,7 @@ phases:
 repository: https://github.com/mission-apprentissage/tjp-pilotage
 stats_url: 
 stats: 
-contact: julianne.lagadec@beta.gouv.fr
+contact: contact@inserjeunes.beta.gouv.fr
 usertypes:
   - etablissement-scolaire
   - etat
