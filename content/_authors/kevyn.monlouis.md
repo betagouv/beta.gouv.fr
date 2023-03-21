@@ -1,6 +1,6 @@
 ---
 fullname: Kevyn MONLOUIS
-role: Tech Lead / Développeur Full-Stack / Architecte / Lead Back-End
+role: Développeur Back-End
 domaine: Développement
 github: kmonlouis
 missions:
