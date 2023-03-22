@@ -17,4 +17,6 @@ startups:
   - urbanvitaliz
 competences:
   - Gestion de Produit
+teams:
+  - /teams/mtes
 ---
