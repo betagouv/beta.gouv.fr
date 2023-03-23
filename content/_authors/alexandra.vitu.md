@@ -5,10 +5,13 @@ domaine: Produit
 link: https://diagoriente.beta.gouv.fr/
 missions:
   - start: 2019-09-19
-    end: 2023-06-23
+    end: 2023-12-31
     status: service
+    employer: ''
 startups:
   - diagoriente
 memberType: beta
+
 ---
+
 
