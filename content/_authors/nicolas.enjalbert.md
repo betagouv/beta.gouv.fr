@@ -1,7 +1,7 @@
 ---
 fullname: Nicolas Enjalbert
 domaine: Coaching
-role: Coach produit & entrepreneur associé
+role: Coach produit, entrepreneur associé
 github: nenj
 link: https://www.linkedin.com/in/nicolas-enjalbert/
 missions:
@@ -12,9 +12,13 @@ missions:
 startups:
   - envergo
   - l-application-du-cej
+  - inclusion.connect
+  - data-inclusion
 competences:
   - Coaching
   - UX
   - Gestion de Produit
+
 ---
+
 Designer de service & coach produit

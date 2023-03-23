@@ -9,7 +9,7 @@ missions:
     end: 2023-06-30
     status: independent
 startups:
-  - Trajpro
+  - expositionIJ
 
 ---
 

@@ -5,7 +5,7 @@ role: Développeuse
 github: elba-octo
 missions:
   - start: 2021-10-25
-    end: 2023-04-01
+    end: 2023-07-01
     status: service
     employer: Octo
 startups:

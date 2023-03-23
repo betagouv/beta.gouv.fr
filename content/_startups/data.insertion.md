@@ -1,6 +1,6 @@
 ---
-title: RDV-Insertion
-mission: Accélérer les rendez-vous RSA et diminuer le taux d'absentéisme
+mission: Accélérer les rendez-vous des usagers en insertion et diminuer le taux
+  d'absentéisme
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -13,6 +13,7 @@ usertypes:
   - etat
   - association
 stats_url: https://betagouv.github.io/stats-data-insertion/
+title: RDV-Insertion
 stats: true
 phases:
   - name: investigation
@@ -26,21 +27,19 @@ phases:
 
 Les parcours d’insertion sont longs et peu suivis : 
 
-\- Fort taux d’absentéisme aux RDV contractuels du parcours (pilotés par les CD)
-
-\- Délais trop longs (ex : délai moyen d’orientation de 95 jours en 2019) 
-
-\- Risque de rupture de parcours post-signature CER élevé
+- Fort taux d’absentéisme aux rendez-vous contractuels du parcours (ex : les rendez-vous RSA pilotés par les CD)
+- Délais trop longs (ex : délai moyen d’orientation des BRSA de 95 jours en 2019) 
+- Risque de rupture de parcours post-signature CER élevé
 
 ## Notre service 
 
 Remplacer la convocation par courrier aux rendez-vous d’insertion par une invitation (mail et SMS) à prendre rendez-vous. L’usager peut alors choisir le créneau qui lui convient le mieux.
 
-Permettre aux agents de gérer une liste d’invitations, sur plusieurs motifs de RDV (ex : orientation, accompagnement, action spécifique d’insertion) et pour plusieurs types d’organisations (ex : CD, MDS, PLIE, Mission locale, associations)
+Permettre aux agents de gérer une liste d’invitations, sur plusieurs motifs de RDV (ex : orientation, accompagnement, action spécifique d’insertion, suivi en IAE) et pour plusieurs types d’organisations (ex : CD, MDS, PLIE, Mission locale, associations, SIAE). 
 
 ## Nos usagers
 
-- Les personnes en insertion (ex. BRSA.)
+- Les personnes en insertion (ex. BRSA, salariés en IAE, etc.)
 - Les agents en charge de l’organisation des rendez-vous d’insertion (dans les CD et structures partenaires)
 
 
@@ -48,7 +47,7 @@ Permettre aux agents de gérer une liste d’invitations, sur plusieurs motifs d
 
 data.insertion aura réussi sa mission si :
 
-1. les délais avant l'orientation (95 jours selon \[l'enquête OARSA 2019 (tableau A6)] de la DREES) et de l'orientation jusqu'à l'accompagnement ont été réduits (53 jours en moyenne entre l'orientation et la signature d'un contrat d'engagement réciproque (CER) selon la même enquête) ;
+1. les délais avant l'orientation des BRSA (95 jours selon \[l'enquête OARSA 2019 (tableau A6)] de la DREES) et de l'orientation jusqu'à l'accompagnement ont été réduits (53 jours en moyenne entre l'orientation et la signature d'un contrat d'engagement réciproque (CER) selon la même enquête) ;
 2. un plus grand nombre de personnes en insertion sont accompagnées ;
 3. la qualité de l'accompagnement est améliorée, vers des solutions plus individualisées et adaptées.
 

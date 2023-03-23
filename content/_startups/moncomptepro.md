@@ -1,12 +1,18 @@
 ---
-title: MonComptePro
 mission: Nous identifions vos utilisateurs professionnels du privé ou du public.
-link: https://moncomptepro.beta.gouv.fr
-repository: https://github.com/betagouv/moncomptepro
 incubator: dinum
+repository: https://github.com/betagouv/moncomptepro
+contact: ishan.bhojwani@beta.gouv.fr
+usertypes:
+  - etat
+  - collectivite-territoriale
+  - entreprise
+title: MonComptePro
 sponsors:
   - /organisations/dinum
-contact: ishan.bhojwani@beta.gouv.fr
+link: https://moncomptepro.beta.gouv.fr
+stats: true
+stats_url: https://moncomptepro.beta.gouv.fr/stats
 phases:
   - name: investigation
     start: 2018-09-01
@@ -18,10 +24,6 @@ phases:
     start: 2022-06-01
   - name: acceleration
     start: 2022-12-01
-usertypes:
-  - etat
-  - collectivite-territoriale
-  - entreprise
 ---
 
 ## Contexte

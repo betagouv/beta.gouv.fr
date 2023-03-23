@@ -12,9 +12,6 @@ analyse_risques: true
 accessibility_status: partiellement conforme
 stats: true
 stats_url: https://immersion-facile-1.gitbook.io/la-page-stats-de-immersion-facilitee/mXyCG0khRml5mCWUU0Pe/la-mesure-de-limpact-dimmersion-facilitee
-events:
-  - name: national_impact
-    date: 2021-12-31
 phases:
   - name: construction
     start: 2021-07-16

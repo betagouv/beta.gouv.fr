@@ -17,5 +17,6 @@ previously:
     - comobi
 startups:
     - datagir
+    - nosgestesclimat
 ---
 

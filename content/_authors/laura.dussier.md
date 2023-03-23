@@ -10,9 +10,9 @@ missions:
     employer: ''
 startups:
   - mon-entreprise
-  - mission-transition-ecologique
 teams:
   - /teams/ademe
 
 ---
+
 UX / UI · Product Designer

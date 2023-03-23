@@ -1,6 +1,7 @@
 ---
 title: Inclusion Connect
-mission: "Simplifier l’utilisation des services à destination des professionnels de l’inclusion"
+mission: Connecter 160 000 professionnels de l’inclusion aux services numériques
+  de leur quotidien, d’une manière simple, sécurisée, efficace.
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -12,10 +13,6 @@ phases:
   - name: construction
     start: 2022-07-01
     comment: Produit fonctionnel et déployé sur des premiers services
-usertypes:
-  - collectivite-territoriale
-  - entreprise
-  - etat
 ---
 ## Le problème
 
@@ -37,7 +34,7 @@ Tous les professionnels de l’inclusion. Comme les conseillers en insertion pro
 
 * Les emplois de l'inclusion
 * DORA
-* RDV-solidarités
+* RDV-solidarités et RDV-aide-numérique
 * M﻿on Suivi Social
 * L﻿a communauté de l'inclusion
 * L﻿es Conseillers Numériques France Service (grands réseaux et structures)

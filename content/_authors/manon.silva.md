@@ -5,10 +5,14 @@ domaine: Animation
 link: https://surlavague.co/
 missions:
   - start: 2022-10-24
-    end: 2023-04-04
+    end: 2023-07-02
     status: independent
     employer: Octo
 badges:
   - segur
+startups:
+  - maison.de.lautisme
+
 ---
+
 

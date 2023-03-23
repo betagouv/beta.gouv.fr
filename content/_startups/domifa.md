@@ -18,7 +18,7 @@ phases:
 link: https://domifa.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/domifa
 stats: true
-stats_url: https://domifa.fabrique.social.gouv.fr
+stats_url: https://domifa.fabrique.social.gouv.fr/stats
 contact: contact.domifa@fabrique.social.gouv.fr
 usertypes:
   - association

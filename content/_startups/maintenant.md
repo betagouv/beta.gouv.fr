@@ -1,22 +1,25 @@
 ---
 title: Maintenant!
 mission: Recruter des gens, pas des CV !
-sponsors: 
+sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
+link: https://maintenant.pole-emploi.fr
+repository: null
+contact: maintenant@pole-emploi.fr
+usertypes:
+  - particulier
+stats_url: https://maintenant.pole-emploi.fr/stats.html
+stats: true
 phases:
   - name: investigation
     start: 2016-02-02
   - name: construction
     start: 2016-02-02
   - name: success
-link: https://maintenant.pole-emploi.fr
-repository: 
-stats: true
-stats_url: https://maintenant.pole-emploi.fr/stats.html
-contact: maintenant@pole-emploi.fr
-usertypes:
-  - particulier
+    start: 2022-12-30
+  - name: alumni
+    start: 2023-02-08
 ---
 
 ## Recrutez des gens, pas des CV !

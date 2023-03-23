@@ -4,12 +4,14 @@ role: Développeur Fullstack
 domaine: Développement
 missions:
   - start: 2021-10-19
-    end: 2023-02-28
+    end: 2023-08-27
     status: independent
     employer: Octo
 startups:
   - potentiel
+
 ---
+
 
 Software/Coach Craftsman
 TDD, BDD et retrogaming addict

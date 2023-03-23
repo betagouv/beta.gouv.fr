@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: Octo
   - start: 2022-12-01
-    end: 2023-02-28
+    end: 2023-06-30
     status: independent
     employer: LBC
 startups:

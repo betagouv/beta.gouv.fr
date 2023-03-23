@@ -5,10 +5,11 @@ role: Product owner et facilitatrice
 avatar: /img/authors/lydia.theresine.jpg
 missions:
   - start: 2020-06-01
-    end: 2021-12-31
+    end: 2023-06-30
     status: admin
     employer: pole-emploi
 startups:
+  - estime.formation
   - la-bonne-boite
 competences:
   - Communication
