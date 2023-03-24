@@ -10,7 +10,6 @@ missions:
     employer: Liberté Living Lab
 startups:
   - romin
-  - uvf-numerique
 previously:
   - justif
   - inca
@@ -20,5 +19,7 @@ competences:
   - Développement Backend
   - Coaching
   - Gestion de Produit
+
 ---
+
 Biologiste, dev, entrepreneur, nocodeur ... Plein de choses que j'aime mettre au service d'idées qui ont du sens.
