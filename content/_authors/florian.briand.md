@@ -5,16 +5,20 @@ role: Coach / Développeur / PO
 github: Nabellaleen
 missions:
   - start: 2021-04-14
-    end: 2023-07-31
+    end: 2022-12-31
     status: service
+    employer: Liberté Living Lab
+  - start: 2023-01-01
+    end: 2023-06-30
+    status: independent
     employer: Liberté Living Lab
 startups:
   - romin
-  - uvf-numerique
 previously:
   - justif
   - inca
   - reva
+  - uvf-numerique
 competences:
   - Développement Frontend
   - Développement Backend
