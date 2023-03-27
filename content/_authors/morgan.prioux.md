@@ -3,16 +3,18 @@ fullname: Morgan Prioux
 role: Développeur
 domaine: Développement
 avatar: https://avatars.githubusercontent.com/u/68907081?v=4
-github: MorganP-projects 
+github: MorganP-projects
 missions:
   - start: 2021-03-22
-    end: 2023-03-31
+    end: 2023-06-30
     status: independent
     employer: Malte
 startups:
-    - conseiller-numerique
+  - conseiller-numerique
 badges:
   - segur
+
 ---
+
 
 Développeur Front End

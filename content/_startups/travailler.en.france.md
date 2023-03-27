@@ -1,5 +1,5 @@
 ---
-title: Application Primo Arrivants
+title: Travailler en France
 mission: Accélérer la dimension de l'insertion dans l’intégration des étrangers.
 sponsors:
   - /organisations/pole-emploi

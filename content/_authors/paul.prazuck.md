@@ -3,10 +3,11 @@ fullname: Paul Prazuck
 role: Chargé de déploiement Bluemind
 domaine: Déploiement
 missions:
-  - start: 2023-03-15
+  - start: 2023-03-27
     end: 2023-06-30
     status: service
-memberType: dinum
+memberType: beta
 ---
 
-DevOps - Octo Technology - Projet Bluemind
+DevOps bluemind
+

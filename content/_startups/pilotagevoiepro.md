@@ -5,12 +5,12 @@ sponsors:
   - /organisations/dgesco
 incubator: mission-inserjeunes
 phases:
-  - name: investigation
+  - name: construction
     start: 2023-01-01  
 repository: https://github.com/mission-apprentissage/tjp-pilotage
 stats_url: 
 stats: 
-contact: julianne.lagadec@beta.gouv.fr
+contact: contact@inserjeunes.beta.gouv.fr
 usertypes:
   - etablissement-scolaire
   - etat
