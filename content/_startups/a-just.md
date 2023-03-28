@@ -6,6 +6,7 @@ sponsors:
   - /organisations/mj
   - /organisations/igj
 incubator: justice
+link: https://a-just.beta.gouv.fr
 repository: https://github.com/betagouv/a-just
 contact: contact@a-just.fr
 accessibility_status: non conforme
