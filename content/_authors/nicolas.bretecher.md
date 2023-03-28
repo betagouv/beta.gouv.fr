@@ -1,6 +1,6 @@
 ---
 fullname: Nicolas Bretécher
-role: Développeur
+role: Développeur web
 domaine: Animation
 github: nicobret
 missions:
@@ -9,8 +9,9 @@ missions:
     status: service
     employer: ''
 startups:
-  - jeveuxaider
+  - snu
 
 ---
+
 
 
