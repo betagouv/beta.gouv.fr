@@ -19,4 +19,5 @@ competences:
 
 ---
 
+
 Designer d'interface, UX, principalement pour des supports web
