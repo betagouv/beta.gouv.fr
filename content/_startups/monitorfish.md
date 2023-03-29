@@ -1,23 +1,23 @@
 ---
+mission: Protéger la ressource halieutique et l’environnement marin en outillant
+  les acteurs du contrôle en mer
+incubator: mtes
+repository: https://github.com/MTES-MCT/monitorfish
+contact: sebastien.touze@developpement-durable.gouv.fr
+usertypes:
+  - etat
+stats_url: https://metabase.din.developpement-durable.gouv.fr/public/dashboard/0d5bc6b0-068c-42ec-876e-08f0e4573468
 title: MonitorFish & MonitorEnv
-mission: Protéger la ressource halieutique et l’environnement marin en outillant les acteurs du contrôle en mer
 sponsors:
   - /organisations/mtes
-incubator: mtes
 stats: true
-stats_url: https://metabase.din.developpement-durable.gouv.fr/public/dashboard/0d5bc6b0-068c-42ec-876e-08f0e4573468
 phases:
   - name: investigation
     start: 2021-03-01
     end: 2021-11-01
   - name: construction
     start: 2021-11-01
-repository: https://github.com/MTES-MCT/monitorfish
-contact: sebastien.touze@developpement-durable.gouv.fr
-usertypes:
-  - etat
 ---
-
 ## Le contexte
 
 Deux centres nationaux au service de la protection des ressources et de l’environnement marins : le Centre National de Surveillance des Pêches (CNSP) et le Centre d’Appui au Contrôle de l’Environnement Marin (CACEM).
@@ -37,17 +37,24 @@ De ce manque de vision globale découle également une difficulté à faire remo
 
 Monitor est là pour optimiser l’effort de contrôle en permettant aux agents de mener des actions les plus efficientes possibles (notion de coût/efficacité de la mission), et ce en valorisant l’ensemble de leurs compétences et des moyens mis à leur disposition.
 Le projet vise à favoriser la réalisation des objectifs des plans de contrôle et améliorer le taux d’infraction des inspections. Le suivi de ces deux indicateurs-clés permet d’objectiver sur le long terme l’impact de la start-up.
- 
+
 La solution se décline en deux outils opérationnels : **MonitorFish** pour la partie “pêche professionnelle” (CNSP), **MonitorEnv** pour la partie “environnement marin” (CACEM).
 
 Plusieurs axes de développement :
-- centraliser toutes les informations importantes sur une carte
-- développer des outils d’aide au ciblage (alertes en temps réel, facteur de risque…)
-- faciliter le partage d’informations entre le CNSP, le CACEM et les agents de terrain
-- outiller une montée en compétence en matière d’analyse de données
+
+* centraliser toutes les informations importantes sur une carte
+* développer des outils d’aide au ciblage (alertes en temps réel, facteur de risque…)
+* faciliter le partage d’informations entre le CNSP, le CACEM et les agents de terrain
+* outiller une montée en compétence en matière d’analyse de données
 
 ## La stratégie et les prochaines étapes
 
 **2020-2022** : conception au plus près du CNSP et du CACEM, pour des outils sur-mesure, prenant en compte toutes les spécificités du contrôle des pêches et de l’environnement.
 
 **2023** : à leur demande, ouverture des outils aux agents de terrain ainsi qu’aux autres acteurs du contrôle – l’outil a déjà été testé et plébiscité par ces nouveaux utilisateurs. Créer un véritable réseau d’échanges et d’exploitation des données, afin de favoriser des actions de contrôle toujours plus pertinentes et ciblées. 
+
+
+
+## Métriques d'impact
+
+Voir les tableaux de bord des indicateurs d'impact de [Monitorfish](https://metabase.din.developpement-durable.gouv.fr/public/dashboard/0d5bc6b0-068c-42ec-876e-08f0e4573468) et [Monitorenv](https://metabase.din.developpement-durable.gouv.fr/public/dashboard/d8d65fbb-1f10-42c8-89f7-f5c6d6a6aca5).
