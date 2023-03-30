@@ -1,6 +1,6 @@
 ---
 fullname: Guillaume Levieux
-role: co-responsable portefeuille produits
+role: Responsable mission numérique DGALN, ex-intra Camino
 domaine: Produit
 github: guillaumelevieux
 missions:
