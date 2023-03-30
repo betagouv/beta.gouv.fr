@@ -1,7 +1,7 @@
 ---
 fullname: William Godbert
-role: Intrapreneur &amp;quot;transformation des ESAT&amp;quot;
-domaine: Intraprenariat
+role: Intrapreneur
+domaine: Intrapreneuriat
 missions:
   - start: 2022-12-06
     end: 2023-04-14
