@@ -1,7 +1,7 @@
 ---
 fullname: William Godbert
 role: Intrapreneur
-domaine: Intrapreneuriat
+domaine: Intraprenariat
 missions:
   - start: 2022-12-06
     end: 2023-04-14
