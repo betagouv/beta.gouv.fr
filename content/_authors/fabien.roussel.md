@@ -5,7 +5,7 @@ domaine: Développement
 github: FabienRoussel
 missions:
   - start: 2022-03-22
-    end: 2023-03-01
+    end: 2023-06-01
     status: service
     employer: OCTO Technology
 startups:
