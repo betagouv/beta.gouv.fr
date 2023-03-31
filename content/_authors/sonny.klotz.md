@@ -5,11 +5,10 @@ domaine: Développement
 github: oni-Sk
 missions:
   - start: 2022-04-05
-    end: 2023-03-31
+    end: 2023-07-31
     status: service
     employer: Octo
 startups:
   - l-application-du-cej
-
 ---
 The only way to go fast is to go well.
