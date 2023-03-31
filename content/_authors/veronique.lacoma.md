@@ -1,6 +1,6 @@
 ---
 fullname: Véronique Lacoma
-role: Chargée de développement
+role: Chargée de déploiement
 domaine: Déploiement
 github: veroAvril
 missions:
@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: ''
   - start: 2021-04-01
-    end: 2023-03-30
+    end: 2023-12-30
     status: independent
     employer: ''
 startups:
@@ -18,5 +18,4 @@ startups:
 previously:
   - eva
   - reva
-
 ---
