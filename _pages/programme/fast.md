@@ -3,13 +3,11 @@ layout: with-sidebar
 title: Fonds d’accélération des Startups d’État et de Territoire (FAST)
 permalink: /approche/fast
 sidebar: sidebar-approche.html
-redirect_from:
-  - /fast
 ---
 
 <img src="https://blog.beta.gouv.fr/img/posts/FAST_2400x448-nom-du-fonds.jpg" alt="Image de présentation du FAST"/>
 
-Le Fonds d’accélération des Startups d’État et de Territoire (FAST) est un **programme d’accélération** proposé aux produits numériques qui répondent aux [standards de qualité de beta.gouv.fr](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr) et qui souhaitent bénéficier du soutien de la Direction interministérielle du numérique (DINUM) pour augmenter leur impact et passer à l'échelle. 
+Le Fonds d’accélération des Startups d’État et de Territoire (FAST) est un **programme d’accélération** proposé aux produits numériques qui répondent aux [standards de qualité de beta.gouv.fr](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr) et qui souhaitent bénéficier du soutien de la Direction interministérielle du numérique (DINUM) pour augmenter leur impact et passer à l'échelle.
 
 Ce programme est structuré autour d’un **accompagnement opérationnel et stratégique** par une équipe d’experts de beta.gouv.fr et d’un **cofinancement** à hauteur de 50% sur l'année, attribué en priorité aux produits liés aux chantiers prioritaires du gouvernement qui respectent les critères du programme.
 

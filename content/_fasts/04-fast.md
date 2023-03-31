@@ -1,6 +1,6 @@
 ---
-title: FAST 4 - Juin 2020 
-sidebar: sidebar-approche.html
+title: FAST 4 - Juin 2020
+sidebar: sidebar-fast.html
 ---
 
 ## **Le comité d'investissement :**

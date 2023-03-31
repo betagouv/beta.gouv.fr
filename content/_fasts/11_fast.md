@@ -1,9 +1,9 @@
 ---
-title: FAST 11 - Juin 2022 
-sidebar: sidebar-approche.html
+title: FAST 11 - Juin 2022
+sidebar: sidebar-fast.html
 ---
 
-### **Le comité d'investissement :** ### 
+### **Le comité d'investissement :** ###
 - Xavier Albouy (DINUM)
 - Florian Delezenne (DINUM)
 
