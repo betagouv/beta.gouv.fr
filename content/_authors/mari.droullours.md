@@ -1,6 +1,6 @@
 ---
 fullname: Mari Droullours
-role: Designer UX-UI
+role: Lead Designer
 domaine: Design
 missions:
   - start: 2021-09-21
@@ -15,5 +15,7 @@ startups:
   - homologation
 badges:
   - segur
+
 ---
+
 

@@ -11,7 +11,5 @@ startups:
   - locatio
 
 ---
+Développeur pramatique, architecte de solutions élégantes et efficaces.
 
-
-Développeur le jour et parfois la nuit.
-J'ai vu l'intégrale de MyLittlePony, Miraculous, Mia et moi, et je suis déjà à la saison 5 de Pokemon.

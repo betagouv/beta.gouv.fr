@@ -1,7 +1,7 @@
 ---
 fullname: Anne-Sophie Tranchet
 domaine: Design
-role: Designer UX/UI
+role: Designer / Accessibilité
 github: astranchet
 avatar: null
 link: https://hello-bokeh.fr
@@ -25,10 +25,11 @@ missions:
 startups:
   - cartobio
   - dialogue
-  - place-des-entreprises
 competences:
   - UX
   - UI
   - Accessibilité
+
 ---
+
 Concevoir pour toutes et tous

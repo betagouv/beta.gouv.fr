@@ -11,8 +11,8 @@ missions:
     employer: Benext
   - status: independent
     start: 2022-11-15
-    end: 2023-02-28
-    employer: OCTO
+    end: 2023-04-30
+    employer: MALT
 startups:
   - l-application-du-cej
   - Pass Engagement Jeune

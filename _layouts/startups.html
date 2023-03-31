@@ -162,7 +162,7 @@ layout: default
                 <h2><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> en {{ phase.label | downcase }}</h2>
             {% endif %}
 
-            <p>{{ phase.short_description }}.</p>
+            <p>{{ phase.short_description }}</p>
 
             <div class="fr-grid-row fr-grid-row--gutters startups">
                 {% assign startups = site.startups | where_phase: phase.status %}

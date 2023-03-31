@@ -11,9 +11,12 @@ missions:
     employer: AD-HOC Lab
 startups:
   - diagoriente
+  - place-des-entreprises
 previously:
   - eva
+
 ---
+
 
 
 Réfutabilité/Méthode/Ethique

@@ -14,7 +14,7 @@ missions:
     status: independent
     employer: OCTO
   - start: 2022-01-01
-    end: 2023-03-31
+    end: 2023-06-30
     status: independent
     employer: Scopyleft
 startups:
@@ -25,4 +25,6 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+
 ---
+
