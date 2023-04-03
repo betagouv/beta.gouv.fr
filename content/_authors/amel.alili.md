@@ -13,7 +13,6 @@ previously:
   - tchap
 badges:
   - segur
-
 ---
 
 
