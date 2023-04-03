@@ -6,7 +6,7 @@ github: jadynekena
 link: https://jadynekena.com
 missions:
   - start: 2022-10-10
-    end: 2023-04-30
+    end: 2023-12-31
     status: independent
 startups:
   - expositionIJ
@@ -14,5 +14,6 @@ startups:
 badges: null
 competences:
   - Gestion de Produit
+  - Développement Backend
 ---
-Analyste de données le jour. Et la nuit aussi.
+Analyste de données le jour. Et la nuit aussi. :)
