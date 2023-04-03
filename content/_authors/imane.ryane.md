@@ -8,5 +8,6 @@ missions:
     status: service
     employer: OCTO
 memberType: beta
+github: imaneryane
 ---
 
