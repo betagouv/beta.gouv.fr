@@ -5,8 +5,9 @@ domaine: Développement
 github: Allan-CodeWorks
 missions:
   - start: 2022-10-17
-    end: 2023-04-17
+    end: 2023-07-17
     status: service
+    employer: ''
 startups:
   - aides.jeunes
 badges:
