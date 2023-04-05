@@ -10,16 +10,16 @@ missions:
     status: admin
     employer: ''
 startups:
-  - tdb-apprentissage
-  - la-bonne-alternance
   - sirius
   - expositionIJ
+  - pilotagevoiepro
 previously:
   - voeux-apprentissage
   - dematapprentissage
+  - tdb-apprentissage
+  - la-bonne-alternance
 teams:
   - /teams/mission-apprentissage
   - /teams/mission-inserjeunes
-
 ---
 
