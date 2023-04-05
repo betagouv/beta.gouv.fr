@@ -19,7 +19,6 @@ previously:
   - tdb-apprentissage
   - la-bonne-alternance
 teams:
-  - /teams/mission-apprentissage
   - /teams/mission-inserjeunes
 ---
 
