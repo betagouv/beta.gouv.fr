@@ -161,7 +161,7 @@ collections:
         collapsed: false
         required: true
         min: 1
-        max: 10 # both min and max are required to be apply 
+        max: 10 # both min and max are required to be apply
         fields:
           - label: Nom de la phase
             name: name
@@ -188,7 +188,7 @@ collections:
         default: >
           Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
 
-          Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
+          Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan:
 
           ## Contexte
 
@@ -205,7 +205,7 @@ collections:
           ## Stratégie
 
           Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
-      
+
   - name: "authors"
     publish: false
     identifier_field: fullname
@@ -227,13 +227,13 @@ collections:
         hint: Dans quel domaine principal interviens-tu ?
         widget: select
         options: [
-          "Animation",  
+          "Animation",
           "Coaching",
           "Déploiement",
-          "Design", 
+          "Design",
           "Développement",
           "Intraprenariat",
-          "Produit", 
+          "Produit",
           "Autre"
         ]
         required: true
@@ -263,7 +263,7 @@ collections:
         name: 'missions'
         widget: 'list'
         min: 1
-        max: 10 # both min and max are required to be apply 
+        max: 10 # both min and max are required to be apply
         collapsed: false
         fields:
           - label: "Statut"
@@ -333,15 +333,15 @@ collections:
         widget: select
         multiple: true
         options: [
-          "UX", 
-          "UI", 
-          "Développement Frontend", 
-          "Développement Backend", 
-          "Administration Système", 
-          "Gestion de Produit", 
-          "Coaching", 
-          "Communication", 
-          "Croissance", 
+          "UX",
+          "UI",
+          "Développement Frontend",
+          "Développement Backend",
+          "Administration Système",
+          "Gestion de Produit",
+          "Coaching",
+          "Communication",
+          "Croissance",
           "Administration Publique"
         ]
   - name: incubators
@@ -417,12 +417,12 @@ collections:
 #           Quel est le titre du poste ? (exemple : "Développeuse - Développeur" ou "Chargée ou chargé de déploiement")
 #         name: roles
 #         widget: string
-#         required: true  
+#         required: true
 #         hint : Penser à inclure le féminin dans vos recrutements. Vous pouvez trouver de l'aide sur l'écriture inclusive sans point médian dans [le guide de beta](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/recommandations#syntaxe) .
 #       - label: Est-ce que le poste est ouvert ?
 #         name: open
 #         widget: boolean
-#         required: true 
+#         required: true
 #       - label: Est-ce que le poste est ouvert au junior ?
 #         name: junior
 #         widget: boolean
@@ -466,7 +466,7 @@ collections:
 #           "Produit",
 #           "Autre"]
 #         multiple: true
-#         required: true 
+#         required: true
 #       - label: Rédiger sa fiche de recrutement
 #         name: body
 #         widget: markdown
@@ -474,7 +474,7 @@ collections:
 #         default: >
 #           Voici un exemple de format - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
 #           Pour t'aider dans la rédaction de ta fiche produit, tu peux t'inspirer des dernières offres disponibles sur le [site de beta](https://beta.gouv.fr/recrutement/) et nous te recommandons de suivre ce plan:
-          
+
 #           ## Le contexte
 #           Quel est le contexte de ta Startup d'Etat ?
 
@@ -613,8 +613,39 @@ collections:
         collection: incubators
         multiple: false
         required: false
-
-
-
-
-
+  - name: press
+    publish: false
+    label: Articles de presse
+    label_singular: Article de presse
+    folder: "content/_press"
+    identifier_field: acronym
+    create: true
+    delete: false
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - label: Titre de l'article
+        name: title
+        widget: string
+        required: true
+      - <<: *date_field_defaults
+        label: Date de parution
+        hint: La date où est paru l'article
+        name: date
+        required: true
+      - label: URL
+        hint : Lien de l'article
+        name: url
+        widget: string
+        required: true
+      - label: Le service numérique concerné
+        name: startup
+        collapsed: false
+        valueField: "/startups/{{slug}}"
+        displayFields: ["{{name}} ({{slug}})"]
+        searchFields: [slug, name]
+        collection: startups
+        <<: *relation_default_options
+        multiple: true
+        required: false

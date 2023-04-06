@@ -71,6 +71,7 @@ collections_dir:
   content
 
 collections:
+  press:
   authors:
   incubators:
   intras:
