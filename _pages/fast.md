@@ -1,0 +1,4 @@
+---
+layout: fast
+permalink: /fast/
+---
