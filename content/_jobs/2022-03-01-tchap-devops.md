@@ -1,6 +1,6 @@
 ---
 roles: DevOps Senior (H/F)
-open: true
+open: false
 startup: tchap
 domaines:
   - Développement
