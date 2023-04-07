@@ -60,7 +60,7 @@ jobs:
       run: test -s _site/index.html
 
     - name: Check HTML common mistakes
-      run: bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
+      run: make html-proofer
 
     - name: HTML5 Validator
       uses: Cyb3r-Jak3/html5validator-action@master
