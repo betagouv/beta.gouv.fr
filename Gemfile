@@ -11,7 +11,7 @@ group :test do
   gem 'debug'
   gem 'guard'
   gem 'guard-rspec'
-  gem 'html-proofer', '~> 3.0'
+  gem 'html-proofer'
   gem 'jsonlint'
   gem 'kwalify'
   gem 'opengraph_parser'
