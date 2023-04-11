@@ -9,6 +9,8 @@ phases:
     start: 2020-04-01
   - name: acceleration
     start: 2022-09-15
+  - name: transfer
+    start: 2023-04-01
 link: https://sagascience.com/newaglae/
 repository: https://github.com/betagouv/euphrosyne/
 stats: false
