@@ -1,7 +1,6 @@
 ---
-mission: Réduire le nombre de rendez-vous annulés dans les maisons
-  départementales de solidarité
-incubator: anct
+mission: Faciliter la prise des rendez-vous entre les services publics et les usagers des territoires
+incubator: Anct
 repository: https://github.com/betagouv/rdv-solidarites.fr
 contact: contact@rdv-solidarites.fr
 analyse_risques: false
@@ -11,7 +10,7 @@ usertypes:
   - particulier
   - association
 stats_url: https://www.rdv-solidarites.fr/stats/
-title: RDV Solidarités
+title: RDV Services Publics
 sponsors:
   - /organisations/anct
 link: https://www.rdv-solidarites.fr
@@ -30,46 +29,92 @@ phases:
     start: 2019-04-01
 ---
 
-### Des milliers de lapins dans les Maisons Départementales de Solidarités ! 🔎
+## Faciliter la prise des rendez-vous entre les services publics et les usagers des territoires
 
-Chaque année, des dizaines de milliers de rendez-vous sont pris dans les Maisons Départementales de Solidarités. Selon nos estimations réalisées dans plusieurs départements, près de 20 % en moyenne ne sont ni honorés, ni excusés : ce sont des lapins. À ces lapins s’ajoutent des rendez-vous annulés et non remplacés, portant la moyenne des rendez-vous vacants à près de 25%.
-
-Face à ce constat, deux travailleuses médico-sociales du Pas-De-Calais sont devenues, en 2019, intrapreneuses du projet. Une **phase d'investigation** s'est lancée afin de définir les problèmes et de déterminer les opportunités d'une solution numérique. 
-
-### Une solution numérique pour faciliter la gestion des rendez-vous ⚙️ 
-
-Après l'investigation, l’équipe s'est engagée dans une **phase de construction**. L'objectif était de caractériser le problème et d'expérimenter des solutions.
-
-Pour intensifier l'expérimentation, un consortium de départements s'est formé. Les départements du consoritum participent activement à l'amélioration du produit. Ils s'engagent à déployer RDV-Solidarités dans leurs services et s'inscrivent dans une démarche de retour terrain en continue. 
-
-Aujourd'hui, RDV-Solidarités permet de : 
-
-- ✅ Réduire l’absentéisme grâce aux rappels sms et mail automatiques aux usagers.
-- ✅ Faciliter la gestion des agents par la saisie unique des informations. 
-- ✅ Accélérer le parcours des usagers par le partage des créneaux disponibles entre les services du territoire. 
-- ✅ Libérer du temps aux agents et leur permettre de l’utiliser pour des tâches à plus forte valeur ajoutée.
-
-Le consortium est composé de 11 départements. En ce moment, 6 autres départements sont en phase d'exploration pour rejoindre le consortium.
-
-![Sans titre - 1](https://user-images.githubusercontent.com/100694638/168599530-97f102b2-a3c0-4d3f-8724-dcc6d232006d.png)
+### Une solution publique de prise de rendez-vous simple à déployer, simple à utiliser
 
 
-### Une solution numérique utile dans d'autres contextes ? 🔭
+### Qui sommes-nous ? 
 
-L'équipe est aujourd'hui dans une **phase d'accélération**. L'objectif est double. Il s'agit d'intensifier le déploiement auprès des Maisons Départementales de Solidarités et d'explorer de nouvelles opportunités dans d'autres cas d'usage. 
+Nous sommes la start-up d’État **RDV Services Publics**, solution numérique portée par l’[Incubateur des Territoires](https://incubateur.anct.gouv.fr) de l’[Agence Nationale de la Cohésion des Territoires](https://agence-cohesion-territoires.gouv.fr). 
 
-Deux cas d'usage complémentaires sont aujourd'hui en cours de déploiement.
+La solution numérique est co-financée par un consortium de départements et par la Ministère de la Justice dans une dynamique de co-gouvernance. 
 
-- 📌 Auprès de [RDV-Insertion](https://beta.gouv.fr/startups/data.insertion.html)
-- 📌 Auprès des [Conseillers Numériques](https://beta.gouv.fr/startups/conseiller-numerique.html)
+Nous suivons l’approche [beta.gouv.fr](https://beta.gouv.fr) qui place l’expérience utilisateur au cœur de la conception produit.
 
-
-D'autres cas d'usage sont en cours d'exploration : 
+D'autres opérateurs nationaux ou locaux sont invités à rejoindre la dynamique pour s'inscrire dans la démarche collective d'un commun numérique. Écrivez-nous ! 
 
 
-- 🧪 Au sein des [Maisons France Services](https://www.cohesion-territoires.gouv.fr/france-services) (dans le Calvados)
-- 🧪 Au sein des communes habilitées aux demandes de [Titre d'Identité](https://passeport.ants.gouv.fr/services/geolocaliser-une-mairie-habilitee) (dans les Côtes-d'Armor) 
-- 🧪 Au sein des structures habilitées à la distribution des [Pass Numériques](https://agence-cohesion-territoires.gouv.fr/pass-numerique-116) (dans le Lot-Et-Garonne)
-- 🧪 Dans le secteur de l'Insertion Professionnelle (dans l'EPCI Grand-Paris-Sud)
+
+### Notre vision 
+
+**Faciliter le contact** entre l'usager et les services publics de son territoire
+
+**Accélérer le parcours** des usagers en permettant aux administrations (collectivités territoriales, opérateurs d'État) de planifier des rendez-vous entre elles. 
+
+**Améliorer** les parcours d’accès aux droits en plaçant l’expérience usager au coeur de la coordination des services publics 
+ 
+
+
+### Notre mission
+
+**Outiller** les services publics avec une solution de gestion des rendez-vous simple à utiliser et simple à déployer.
+
+**Identifier** les limites administratives, techniques et législatives à la simplification et la coordination des parcours d'accès aux droits pour les usagers dans les territoires. 
+
+**Transformer** les démarches et processus des services publics pour faciliter les parcours et améliorer l'expérience usager. 
+
+
+
+### Notre histoire 
+
+**Investigation 🗓️ de 2018 à 2019** 
+
+En collaboration avec la mission beta.gouv.fr de la DINUM, une expérimentation menée par le département du Pas-De-Calais en 2018 a mis en évidence les difficultés de la prise de rendez-vous dans les services médico-sociaux du département et que près de 23% des rendez-vous étaient vacants. La DINUM et 13 départements se sont rapprochés pour former un Consortium et développer une solution numérique commune dénommée **RDV Solidarités**. 
+
+**Construction 🗓️ de 2020 à 2022**
+
+Conscient du potentiel de cette solution numérique au sein des collectivités territoriales et auprès des opérateurs d'État, l’équipe est incubée depuis 2020 par l’Incubateur des Territoires de l’Agence Nationale de la Cohésion des Territoires. Par ce transfert, l’objectif était d’offrir à la start-up les moyens nécessaires à la réussite de sa phase d’accélération, autrement dit, la réussite de sa montée à l’échelle. 
+
+**Préparation à la généralisation 🗓️ depuis 2023** 
+
+Après plusieurs expérimentations au sein d'autres secteurs professionels et auprès d'autres niveaux de collectivités territoriales, **RDV Solidarités** devient **RDV Services Publics**, un outil de gestion et de prise de rendez-vous pour tous les services publics.
+
+
+
+### Nos déploiements
+
+**RDV Aide Numérique 🧑‍💻**
+
+[RDV Aide Numérique](https://rdv-aide-numerique.fr) est le nom de domaine utilisé par notre solution pour outiller les acteurs de la médiation numérique.
+
+**RDV Solidarités🧑‍💼**
+
+[RDV Solidarités](https://rdv-solidarites.fr) est le nom de domaine utilisé par notre solution pour outiller les services médico-sociaux des départements. 
+
+
+
+
+### Nos expérimentations 
+
+**CDAD 🧪**
+Faciliter la gestion des rendez-vous des Centres Départementaux d’Accès aux Droits. Expérimentation menée dans le département de la Moselle jusqu'à fin 2023. 
+
+**Espace France services 🧪**
+Faciliter la gestion des rendez-vous au sein des espaces France services avec les 9 opérateurs France services. Expérimentation en préparation. Lancement programmé en 2023. 
+
+
+
+### Objectifs 2023 
+
+**Une nouvelle mesure d'impact 📊** 
+Généraliser la solution, c'est répondre aux besoins de plusieurs entités administratives et orienter l'ensemble des utilisateurs vers une mesure d'impact commune. 
+
+**Obtenir un haut niveau de sécurité 🔐**
+Généraliser la solution, c’est pouvoir s'adapter aux critères de tous les services publics, surtout, aux enjeux du traitement des données liés à la coordination des rendez-vous entre les services publics.  
+
+**Préparer une augmentation des utilisateurs 📈**
+Généraliser la solution, c’est accueillir de nouveaux utilisateurs et de nouvelles entités administratives. La solution doit permettre et faciliter l’onboarding des nouveaux entrants.
+
 
 
