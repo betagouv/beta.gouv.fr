@@ -14,10 +14,8 @@ phases:
     start: 2023-01-02
 redirect_from:
   - /startups/messagerie.instantanee.sante.html
-
 ---
-
-## Contexte
+## Contexte test
 
 Comment fluidifier et sécuriser les communications instantanées entre professionnels de santé ?
 
