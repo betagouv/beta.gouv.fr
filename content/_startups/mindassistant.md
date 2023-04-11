@@ -11,6 +11,7 @@ phases:
   - name: construction
     start: 2023-04-11
 stats: false
+contact: ateliernumerique.snum@culture.gouv.fr
 usertypes:
   - particulier
 ---
