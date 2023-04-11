@@ -12,12 +12,13 @@ phases:
     end: 2023-01-02
   - name: construction
     start: 2023-01-02
+    end: 2023-04-11
+  - name: transfer
+    start: 2023-04-11
 redirect_from:
   - /startups/messagerie.instantanee.sante.html
-
 ---
-
-## Contexte
+## Contexte test
 
 Comment fluidifier et sécuriser les communications instantanées entre professionnels de santé ?
 
