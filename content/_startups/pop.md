@@ -1,6 +1,6 @@
 ---
 title: Plateforme Ouverte du Patrimoine
-mission: Valoriser notre patrimoine culturel auprès du plus grand nombre - Seconde investigation en cours
+mission: Valoriser notre patrimoine culturel auprès du plus grand nombre
 incubator: culture
 sponsors: 
     - /organisations/mc
