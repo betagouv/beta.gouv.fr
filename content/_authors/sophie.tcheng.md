@@ -4,7 +4,7 @@ role: Intrapreneuse
 domaine: Intraprenariat
 missions:
     - start: 2019-11-01
-      end: 2022-12-31
+      end: 2023-12-31
       status: admin
       employer: DRIEA IF/UD92/SUBD
 startups:
