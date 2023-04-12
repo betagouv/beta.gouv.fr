@@ -18,7 +18,7 @@ missions:
 startups:
   - delta.v 
   - sppnaut
-- place-des-entreprises
+  - place-des-entreprises
   - plateforme.impact
   - homologation
   - signaux-faibles
