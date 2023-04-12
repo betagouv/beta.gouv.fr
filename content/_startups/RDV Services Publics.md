@@ -13,7 +13,7 @@ stats_url: https://www.rdv-solidarites.fr/stats/
 title: RDV Services Publics
 sponsors:
   - /organisations/anct
-link: https://www.rdv-solidarites.fr
+link: https://www.rdv-solidarites.fr, https://rdv-aide-numerique.fr
 stats: true
 budget_url: https://pad.incubateur.net/s/qeT5bzHUM#RDV-Solidarit%C3%A9s
 dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
@@ -29,7 +29,7 @@ phases:
     start: 2019-04-01
 ---
 
-## Faciliter la prise des rendez-vous entre les services publics et les usagers des territoires
+
 
 ### Une solution publique de prise de rendez-vous simple à déployer, simple à utiliser
 
