@@ -1,6 +1,6 @@
 ---
 fullname: Florent de Buck
-role: Chargée de déploiement
+role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-01-10
