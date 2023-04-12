@@ -1,5 +1,5 @@
 ---
-fullname: Delphine BURALI
+fullname: Delphine Burali
 role: Conseillère en insertion professionnelle
 domaine: Autre
 missions:
