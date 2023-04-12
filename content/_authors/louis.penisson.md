@@ -5,14 +5,13 @@ github: Musiquedelouie
 domaine: Déploiement
 missions:
   - start: 2022-04-11
-    end: 2023-04-30
+    end: 2023-12-30
     status: independent
     employer: ''
 startups:
   - data-subvention
 badges:
   - segur
-
 ---
 
 
