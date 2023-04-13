@@ -13,7 +13,7 @@ stats_url: https://www.rdv-solidarites.fr/stats/
 title: RDV Services Publics
 sponsors:
   - /organisations/anct
-link: https://www.rdv-solidarites.fr, https://rdv-aide-numerique.fr
+link: https://www.rdv-solidarites.fr 
 stats: true
 budget_url: https://pad.incubateur.net/s/qeT5bzHUM#RDV-Solidarit%C3%A9s
 dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
@@ -30,7 +30,6 @@ phases:
 ---
 
 
-
 ### Une solution publique de prise de rendez-vous simple à déployer, simple à utiliser
 
 
@@ -38,12 +37,11 @@ phases:
 
 Nous sommes la start-up d’État **RDV Services Publics**, solution numérique portée par l’[Incubateur des Territoires](https://incubateur.anct.gouv.fr) de l’[Agence Nationale de la Cohésion des Territoires](https://agence-cohesion-territoires.gouv.fr). 
 
-La solution numérique est co-financée par un consortium de départements et par la Ministère de la Justice dans une dynamique de co-gouvernance. 
+La solution numérique est co-financée par le programme Société Numérique et 3 partenaires (consortium de départements, GIP de l'Inclusion, et l'incubateur du Ministère de la Justice) dans une dynamique de co-gouvernance. 
 
 Nous suivons l’approche [beta.gouv.fr](https://beta.gouv.fr) qui place l’expérience utilisateur au cœur de la conception produit.
 
 D'autres opérateurs nationaux ou locaux sont invités à rejoindre la dynamique pour s'inscrire dans la démarche collective d'un commun numérique. Écrivez-nous ! 
-
 
 
 ### Notre vision 
@@ -55,16 +53,13 @@ D'autres opérateurs nationaux ou locaux sont invités à rejoindre la dynamique
 **Améliorer** les parcours d’accès aux droits en plaçant l’expérience usager au coeur de la coordination des services publics 
  
 
-
 ### Notre mission
 
 **Outiller** les services publics avec une solution de gestion des rendez-vous simple à utiliser et simple à déployer.
 
 **Identifier** les limites administratives, techniques et législatives à la simplification et la coordination des parcours d'accès aux droits pour les usagers dans les territoires. 
 
-**Transformer** les démarches et processus des services publics pour faciliter les parcours et améliorer l'expérience usager. 
-
-
+**Accompagner** la transformation des démarches et processus des services publics pour faciliter les parcours et améliorer l'expérience usager. 
 
 ### Notre histoire 
 
@@ -80,34 +75,27 @@ Conscient du potentiel de cette solution numérique au sein des collectivités t
 
 Après plusieurs expérimentations au sein d'autres secteurs professionels et auprès d'autres niveaux de collectivités territoriales, **RDV Solidarités** devient **RDV Services Publics**, un outil de gestion et de prise de rendez-vous pour tous les services publics.
 
-
-
 ### Nos déploiements
 
-**RDV Aide Numérique 🧑‍💻**
+**Acteurs du médico-social**
+Outiller les services médico-sociaux des départements. Outillage mené sous le nom de domaine [RDV Solidarités](https://www.rdv-solidarites.fr).
 
-[RDV Aide Numérique](https://rdv-aide-numerique.fr) est le nom de domaine utilisé par notre solution pour outiller les acteurs de la médiation numérique.
+**Acteurs de l'insertion professionnelle**
+Outiller les services de l'insertion des départements. Outillage mené par l'équipe [RDV Insertion](https://beta.gouv.fr/startups/data.insertion.html).
 
-**RDV Solidarités🧑‍💼**
+**Acteurs de la médiation numérique**
+Outiller les conseillers numériques et le réseau d'acteur du dispositif Pass Numérique. Outillage mené sous le nom de domaine [RDV Aide Numérique](https://www.rdv-aide-numerique.fr). 
 
-[RDV Solidarités](https://rdv-solidarites.fr) est le nom de domaine utilisé par notre solution pour outiller les services médico-sociaux des départements. 
-
-
-
-
-### Nos expérimentations 
-
-**CDAD 🧪**
-Faciliter la gestion des rendez-vous des Centres Départementaux d’Accès aux Droits. Expérimentation menée dans le département de la Moselle jusqu'à fin 2023. 
-
-**Espace France services 🧪**
-Faciliter la gestion des rendez-vous au sein des espaces France services avec les 9 opérateurs France services. Expérimentation en préparation. Lancement programmé en 2023. 
-
+**Acteurs des démarches juridiques** 
+Outiller les Centres Départementaux d’Accès aux Droits. Outillage mené dans le cadre d'une expérimentation dans le département de la Moselle.
 
 
 ### Objectifs 2023 
 
-**Une nouvelle mesure d'impact 📊** 
+**Préparer un projet de coordination dans les territoires 📝**
+Généraliser la solution, c'est permettre de nouvelles perspectives dans la coordination des parcours d'accès aux services publics.  
+
+**Définir une nouvelle mesure d'impact 📊** 
 Généraliser la solution, c'est répondre aux besoins de plusieurs entités administratives et orienter l'ensemble des utilisateurs vers une mesure d'impact commune. 
 
 **Obtenir un haut niveau de sécurité 🔐**
@@ -115,6 +103,7 @@ Généraliser la solution, c’est pouvoir s'adapter aux critères de tous les s
 
 **Préparer une augmentation des utilisateurs 📈**
 Généraliser la solution, c’est accueillir de nouveaux utilisateurs et de nouvelles entités administratives. La solution doit permettre et faciliter l’onboarding des nouveaux entrants.
+
 
 
 
