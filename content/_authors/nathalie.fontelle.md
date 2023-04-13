@@ -9,6 +9,6 @@ missions:
     status: service
     employer: ''
 startups:
-  - lapins
+  - rdv-services-publics
 
 ---

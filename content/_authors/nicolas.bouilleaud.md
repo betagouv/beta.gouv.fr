@@ -17,7 +17,7 @@ startups:
 previously:
   - place-des-entreprises
   - demarches-simplifiees.fr
-  - lapins
+  - rdv-services-publics
 competences:
   - Développement Frontend
   - Développement Backend

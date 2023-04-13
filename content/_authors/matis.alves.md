@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: ''
 startups:
-  - lapins
+  - rdv-services-publics
 badges:
   - segur
 

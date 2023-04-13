@@ -13,7 +13,7 @@ startups:
   - civils-de-la-defense
 previously:
   - aides.jeunes
-  - lapins
+  - rdv-services-publics
   - demarches-simplifiees.fr
   - civils-de-la-defense
 

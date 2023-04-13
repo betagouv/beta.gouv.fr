@@ -10,7 +10,7 @@ missions:
 previously:
     - avril
     - clara
-    - lapins
+    - rdv-services-publics
     - maintenant
 ---
 
