@@ -17,7 +17,7 @@ missions:
     end: 2022-06-30
     status: independent
 startups:
-  - lapins
+  - rdv-services-publics
   - metiers-numeriques
 previously:
   - aidantsconnect

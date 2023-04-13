@@ -1,6 +1,6 @@
 ---
 fullname: Nesserine ZAROURI
-role: Chargée de relation utilisateur 
+role: Chargée de relation utilisateur
 domaine: Déploiement
 github: NesserineZarouri
 missions:
@@ -11,6 +11,6 @@ missions:
 badges:
   - segur
 startups:
-  - lapins 
+  - rdv-services-publics
 ---
 
