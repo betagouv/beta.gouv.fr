@@ -7,9 +7,11 @@ missions:
   - start: 2021-03-18
     end: 2021-09-30
     status: independent
+    employer: ''
   - start: 2021-10-28
-    end: 2023-04-30
+    end: 2023-06-30
     status: independent
+    employer: ''
 startups:
   - ma-cantine-egalim
 previously:
