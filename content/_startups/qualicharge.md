@@ -6,7 +6,7 @@ sponsors:
   - /organisations/mtes
 incubator: mtes
 contact: nicolas.forget@developpement-durable.gouv.fr
-stats: false
+stats: true
 accessibility_status: non conforme
 phases:
   - name: investigation
