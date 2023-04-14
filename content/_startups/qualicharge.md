@@ -1,12 +1,12 @@
 ---
 title: QualiCharge
-mission: >-
-  Améliorer la qualité globale du service de recharge pour véhicules électriques
-  en analysant les données de supervision
+mission: Améliorer la qualité globale du service de recharge pour véhicules
+  électriques en analysant les données de supervision
 sponsors:
   - /organisations/mtes
 incubator: mtes
 contact: nicolas.forget@developpement-durable.gouv.fr
+stats: false
 accessibility_status: non conforme
 phases:
   - name: investigation
@@ -14,7 +14,6 @@ phases:
     end: 2022-09-01
   - name: construction
     start: 2022-09-01
-
 ---
 
 ## Contexte
