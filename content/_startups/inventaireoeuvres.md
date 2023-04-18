@@ -7,6 +7,8 @@ incubator: culture
 phases:
   - name: construction
     start: 2022-04-15
+  - name: alumni
+    start: 2023-04-15
 contact: ateliernumerique.snum@culture.gouv.fr
 stats: true
 ---
