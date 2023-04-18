@@ -10,7 +10,7 @@ link: https://maisondelautisme.gouv.fr
 repository: https://github.com/SocialGouv/mda
 contact: autisme.tnd@pm.gouv.fr
 dashlord_url: https://maisondelautisme.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 phases:
   - name: investigation
     start: 2022-09-05
