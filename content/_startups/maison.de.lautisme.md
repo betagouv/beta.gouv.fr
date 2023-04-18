@@ -6,9 +6,10 @@ mission: >-
 sponsors:
   - /organisations/dia-tnd
 incubator: sgmas
-link: https://maisondelautisme.fabrique.social.gouv.fr/
+link: https://maisondelautisme.gouv.fr
 repository: https://github.com/SocialGouv/mda
 contact: autisme.tnd@pm.gouv.fr
+dashlord_url: https://maisondelautisme.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
