@@ -103,7 +103,3 @@ Généraliser la solution, c’est pouvoir s'adapter aux critères de tous les s
 
 **Préparer une augmentation des utilisateurs 📈**
 Généraliser la solution, c’est accueillir de nouveaux utilisateurs et de nouvelles entités administratives. La solution doit permettre et faciliter l’onboarding des nouveaux entrants.
-
-
-
-
