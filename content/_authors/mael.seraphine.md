@@ -1,6 +1,6 @@
 ---
 fullname: Maël Séraphine
-role: Assistant communication
+role: Stagiaire Assistant communication
 domaine: Autre
 github: Mael2008
 missions:
