@@ -28,11 +28,9 @@ A l’origine de l’investigation, le constat se porte sur l’aspect peu colla
 L’investigation cherchera à identifier comment rendre plus efficace les intervenants de la chaîne pénale pour réduire les délais d'exécution des jugements.
 
 ## Apprentissages
-- 10 à 15% de perte de productivité des greffeiers lié à des outils (Calc) peu adaptés (multiples saisies des données, problèmes d'accès en écriture en cas d'ouverture simultanées ...)
-- Des erreurs de saisie qui génèrent des rectifications d’erreurs matériels sur les dossiers
+- 10 à 15% de perte de productivité des greffiers lié à des outils (Calc) peu adaptés (multiples saisies des données, problèmes d'accès en écriture en cas d'ouverture simultanées ...)
 - Des solutions qui existent déjà sur la phase d'audiencement
+- Une perte de temps dans la production des indicateurs et un manque de lisibilité
 
 ## Solution
 MISTRAL Pénal est un service numérique qui simplifie le suivi des dossiers pour les  greffiers et automatise les activités de pilotage (statistiques) pour les DSGJ afin de leur faire gagner du temps au quotidien et leur permettre de se concentrer sur leurs activités à forte valeur ajoutée
-
-Suite à la décision du comité d'investissement, l'investigation est prolongé de 3 mois pour affiner les problèmes rencontrés par les DSGJ.
