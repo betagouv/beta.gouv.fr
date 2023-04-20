@@ -10,15 +10,19 @@ usertypes:
 events:
   - name: end
     date: 2022-10-03
-    comment: "Les jardins partagés restent une priorité de la DEAL Guadeloupe qui
-      poursuit ses actions sur ce sujet. "
+    comment: >-
+      Les jardins partagés restent une priorité de la DEAL Guadeloupe qui
+      poursuit ses actions sur ce sujet. 
 phases:
   - name: investigation
     start: 2021-04-07
     end: 2021-07-07
   - name: construction
     start: 2021-11-08
-    end: 2022-10-03
+    end: 2022-10-07
+  - name: alumni
+    start: 2022-10-07
+pitch: Favoriser le développement de jardins partagés en Guadeloupe
 ---
 ## Contexte 
 
