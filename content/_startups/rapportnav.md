@@ -13,48 +13,58 @@ phases:
     end: 2022-08-16
   - name: construction
     start: 2022-08-16
+    end: 2023-04-21
+  - name: construction
+    start: 2023-04-21
 ---
-
 ## Contexte
+Le Dispositif de Contrôle et de Surveillance (DCS) des Affaires Maritimes englobe l’ensemble des moyens des Affaires Maritimes dédiés aux contrôles des pêches, de l’environnement marin, du travail et de la navigation maritime.
+Ces unités interviennent sur plusieurs politiques publiques avec, pour chacune, plusieurs donneurs d’ordres et centres de coordination nationale, chacun exigeant la transmission d’un rapport à un format spécifique avec les données le concernant.
 
-Le Dispositif de Contrôle et de Surveillance (DCS) des affaires maritimes englobe l’ensemble des moyens des affaires maritimes dédiés aux contrôles des pêches, de l’environnement marin, du travail et de la navigation maritime.
-
-Ces unités interviennent sur plusieurs politiques publiques avec pour chacune plusieurs donneurs d’ordres et centres de coordination nationale, chacun exigeant la transmission d’un rapport à un format spécifique avec les données le concernant.
 
 ## Problème
 
-La multiplication des demandes de rapports avec des modalités et formats différents aux unités du DCS est fortement chronophage pour elles. D'autre part, les modalités de comptabilisation et de rapportage variant au niveau local il est parfois complexe de construire une vision nationale de l'action de l'État. 
+Nous listons plusieurs problèmes: 
+* La multiplication des demandes de rapports avec des modalités et formats différents aux unités  est fortement chronophage pour elles. 
+* Les modalités de comptabilisation et de rapportage variant au niveau local, il est  complexe de construire une vision nationale de l'action de l'État.
+* L'hétérogénéité de la qualité des données collectées ne permet pas une analyse pertinente de la situation sur le terrain 
+* Des outils de rapportage et de ciblage comme Monitor Fish et Monitor Env se développent sur le périmètre de la pêche et de l’environnement marin, mais n’adressent qu’une partie du périmètre d’activités des unités concernées
+
 
 ## Solution
 
-RapportNav est l’application de rédaction de rapport qui vise à remplacer la multiplicité des outils et formats de rapport par un unique compte rendu de mission. L'ensemble des statistiques en sont ensuite extraites. 
+RapportNav est initialement une application de rédaction de rapport qui vise à remplacer la multiplicité des outils et formats de rapport par un unique compte-rendu de mission. L'ensemble des statistiques en sont ensuite extraites. 
+Nous souhaitons refondre l'expérience utilisateur du RapportNav existant afin d'optimiser son usage par les unités terrain, et ainsi la qualité des données saisies. L'engagement des bureaux de la DGAMPA dans l'analyse de ces données permettra d'améliorer les orientations et la coordination des actions des unités sur le terrain, et de maximiser leur impact auprès des citoyens. 
+Les périmètres où nous souhaitons améliorer l’impact de l’action de l'État : la pêche, la protection de l’environnement marin, les conditions de travail des gens de mer, la navigation maritime, la sécurité des navires. 
 
-L'agent est guidé pour rédiger son rapport au fil de sa mission. 
 
 ## Étapes
 
-### Unifier la rédaction des rapports de missions pour les ULAM
+La 1ere version de Rapport Nav a eu plusieurs objectifs: 
+1. Unifier la rédaction des rapports de missions pour les ULAM : le produit s’est d’abord focalisé sur la suppression de rapports existants et redondants rédigés par les agents des Unités Littorales des Affaires Maritimes (ULAM).
+2. Extension aux Patrouilleurs des Affaires Maritimes (PAM) : l’inclusion des Patrouilleurs des Affaires Maritimes (PAM) comme bénéficiaires du produit permet d’aller plus loin dans l’unification du rapportage.
 
-Le produit s’est avant tout focalisé sur la suppression de rapports existants et redondants rédigés par les agents des Unités Littorales des Affaires Maritimes (ULAM) vers différents interlocuteurs, il a permis dans sa première version de supprimer deux rapportages réalisés par les unités et de supprimer les traitements intermédiaires réalisés par les niveaux inter-régionaux et national.
+Sur la base de cet existant, une réflexion pour faire de Rapport Nav une start up d’état a été mise en œuvre. À cette occasion, nous avons retravaillé la trajectoire du produit mais aussi son impact. 
 
-### Extension aux Patrouilleurs des Affaires Maritimes
-
-L’inclusion des Patrouilleurs des Affaires Maritimes (PAM) comme bénéficiaires du produit permet de supprimer les deux rapports réalisés par ceux-ci et de finir la fusion au niveau national de la donnée sur les contrôles de l’ensemble du DCS permettant d’avoir une remontée complète automatisée de l’activité du dispositif au niveau départemental, inter-régional et national. 
-
-### Faciliter le partage inter-ministériel
-
-Une réflexion est en cours au-delà du produit pour faciliter le partage d’information sur les contrôles en inter-ministériel et uniformiser les indicateurs de mesure d’efficacité des contrôles (indicateurs du Rapport annuel de performance)
 
 ## Impact
 
-* Limiter le temps agent dédié à la rédaction de rapports et concentrer leur activité sur du contrôle
-* Uniformiser l’interprétation des directives de rapportage des contrôles 
-* Fiabiliser la donnée pour mieux rendre compte à la fois sur l'activité mais également sur la valorisation financière
-* Faciliter le partage et la diffusion d’information sur les contrôles effectués par les affaires maritimes
+* Faciliter la saisie des informations pour les unités sur le terrain, et donc maximiser la qualité des données collectées 
+* Optimiser la visibilité des activités terrain mais aussi l’utilisation des moyens mis à disposition des unités par l’Etat.
+* Faciliter le partage et la diffusion d’information sur les contrôles effectués par les affaires maritimes, au sein des affaires maritimes ainsi qu’avec les autres administrations. 
+* Permettre aux bureaux concernés de définir des grandes orientations sur les missions de surveillance et contrôle, et de constater les résultats de ces actions 
+* Permettre aux unités de mieux cibler leurs actions sur le terrain
+* le cas échéant, améliorer la réglementation pour la rendre plus applicable
+* Mieux protéger la population halieutique, l’environnement nautique, les gens de mer dans l’exercice de leur activité, les individus pratiquant des activités nautiques de plaisance
+
 
 ## Futurs développements
 
-RapportNav est actuellement utilisé par l’ensemble des agents des ULAM et en cours de déploiement auprès des agents des patrouilleurs en commençant par les commandants de bordées. Les futurs développements doivent permettre :
+Rapport Nav est actuellement utilisé par l’ensemble des agents des ULAM et en partie par les PAM. 
+Les futurs développements doivent permettre :
+* d’améliorer l’expérience utilisateur de l’outil afin de faciliter la saisie des informations,
+* d’harmoniser le schéma de données avec ceux de Monitor Fish et Monitor Env afin que les données soient interopérables, et que ces applications puissent être utilisées de manière complémentaire,
+* de prendre en compte les besoins spécifiques de chacun des bureaux engagés dans la démarche d’amélioration du ciblage des contrôles des unités terrain, en commençant par le bureau des gens de mer.
 
-* Faciliter le rapport sur des politiques publiques partiellement intégrées (travail maritime, pêche)
-* Renforcer l’interopérabilité entre l’outil et des outils externes, notamment le logiciel de remontée d’information interministériel sur la pêche SATIv2.
+Ces futurs développements s’inscrivent dans le cadre d’un changement de procédure pour les unités terrain.
+
