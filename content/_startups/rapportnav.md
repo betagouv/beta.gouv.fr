@@ -4,7 +4,7 @@ mission: Rédiger simplement les compte-rendus de missions des affaires maritime
 sponsors:
   - /organisations/dgitm
 incubator: mtes
-contact: celia.d-herve@developpement-durable.gouv.fr
+contact: camille.nguyen@mer.gouv.fr
 accessibility_status: non conforme
 repository: https://github.com/MTES-MCT/rapportNav
 phases:
@@ -13,9 +13,7 @@ phases:
     end: 2022-08-16
   - name: construction
     start: 2022-08-16
-    end: 2023-04-21
-  - name: construction
-    start: 2023-04-21
+    end: 
 ---
 ## Contexte
 Le Dispositif de Contrôle et de Surveillance (DCS) des Affaires Maritimes englobe l’ensemble des moyens des Affaires Maritimes dédiés aux contrôles des pêches, de l’environnement marin, du travail et de la navigation maritime.
