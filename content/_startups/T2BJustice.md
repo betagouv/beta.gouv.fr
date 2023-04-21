@@ -1,8 +1,7 @@
 ---
 title: Mistral Pénal
 mission: >-
-  Améliorer l'efficacité du partage d'informations tout au long de la chaîne
-  pénale
+  Simplifier le suivi des dossiers pour les greffiers et automatiser les activités de pilotage (statistiques) pour les DSGJ
 sponsors:
   - /organisations/mj
 incubator: justice
@@ -19,11 +18,11 @@ phases:
     start: 2023-03-31
 ---
 ## Contexte
-- [Les enseignements des Etats généraux de la justice](http://www.justice.gouv.fr/plan-daction-pour-la-justice-13010/)
-
+- [Les enseignements des Etats généraux de la justice](http://www.justice.gouv.fr/plan-daction-pour-la-justice-13010/) 
 Le numérique : un levier pour améliorer l’efficience du pilotage de l’activité juridictionnelle  (via une harmonisation et homogénéisation des pratiques)
 
-- [Un enjeu de simplification des outils de travail : Une volonté du Garde des sceaux - Ministre de la justice] (http://www.presse.justice.gouv.fr/discours-10093/discours-de-2023-13026/presentation-du-second-plan-de-transformation-numerique-34759.html)
+- Un enjeu de simplification des outils de travail : 
+[Une volonté du Garde des sceaux - Ministre de la justice](http://www.presse.justice.gouv.fr/discours-10093/discours-de-2023-13026/presentation-du-second-plan-de-transformation-numerique-34759.html)
 
 ## Problème 🛠
 A l’origine de l’investigation, le constat se porte sur l’aspect peu collaboratif des outils utilisés, un partage d’information peu fluide, une redondance dans la saisie des données. Ces irritants quotidiens peuvent se traduire par la perte de plusieurs heures par semaine pour chaque agents en charge de manipuler les données) en particulier les greffiers. 
