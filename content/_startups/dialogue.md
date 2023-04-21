@@ -8,6 +8,10 @@ sponsors:
 incubator: mtes
 contact: dialog@beta.gouv.fr
 accessibility_status: non conforme
+link: https://dialog.beta.gouv.fr/
+repository: https://github.com/MTES-MCT/dialog/
+stats: false
+budget_url: ~
 phases:
   - name: investigation
     start: 2022-03-21
