@@ -9,11 +9,11 @@ phases:
     start: 2019-12-19
   - name: construction
     start: 2019-12-19
-link: https://cartobio.org
+link: https://cartobio.agencebio.org/
 repository: https://github.com/AgenceBio/cartobio-front
 stats: true
 budget_url: ~
-dashlord_url: https://dashlord.incubateur.net/url/cartobio-org/
+dashlord_url: https://dashlord.incubateur.net/url/cartobio-agencebio-org/
 contact: cartobio@beta.gouv.fr
 usertypes:
   - collectivite-territoriale
