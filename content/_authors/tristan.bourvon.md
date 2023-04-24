@@ -9,6 +9,8 @@ missions:
     status: admin
     employer: ADEME
 memberType: beta
+startups:
+    - compte-conso.md
 ---
 
 
