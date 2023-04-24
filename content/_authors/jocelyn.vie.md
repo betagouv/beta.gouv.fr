@@ -1,6 +1,6 @@
 ---
 fullname: jocelyn Vié
-role: Resp. Mission Innovation & Partenariats - DDT31
+role: Resp. Mission Innovation et Partenariats - DDT31
 domaine: Intraprenariat
 missions:
   - start: 2023-12-24
