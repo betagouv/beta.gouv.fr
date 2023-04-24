@@ -11,7 +11,8 @@ missions:
     status: independent
     employer: octo
 startups: 
-    - itou
-    - transition-ecologique-des-entreprises
+  - transition-ecologique-des-entreprises
+previously:
+  - itou
 ---
 Couteau-suisse en transformation de services
