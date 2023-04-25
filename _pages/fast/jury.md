@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 title: Comité du FAST
-permalink: /fast/jury
+permalink: /fast/comité
 sidebar: sidebar-fast.html
 ---
 <p class="fr-text--lead">
@@ -16,7 +16,7 @@ Chaque candidature est évaluée selon les critères suivants.
 
 Le service a démontré son **utilité** :
 
-- le service résout un problème majeur pour les usagers 
+- le service résout un problème majeur pour les usagers
 - l'équipe suit des mesures d'impact
 - les mesures d'impact sont publiques
 
