@@ -1,11 +1,11 @@
 ---
 layout: with-sidebar
-title: Jury du FAST
+title: Comité du FAST
 permalink: /fast/jury
 sidebar: sidebar-fast.html
 ---
 <p class="fr-text--lead">
-  Après la clôture (le 13 mai 2023), le jury se réunit pour étudier les candidatures.
+  Après la clôture (le 15 mai 2023), le comité d'investissement se réunit pour étudier les candidatures.
 </p>
 
 ## Sélection des lauréats
@@ -16,7 +16,7 @@ Chaque candidature est évaluée selon les critères suivants.
 
 Le service a démontré son **utilité** :
 
-- le service a des premiers utilisateurs satisfaits
+- le service résout un problème majeur pour les usagers 
 - l'équipe suit des mesures d'impact
 - les mesures d'impact sont publiques
 
@@ -32,7 +32,8 @@ Le service dispose des **ressources suffisantes pour accélérer** :
 
 Le service peut bénéficier d’une **accélération** :
 
-- le produit numérique un potentiel d’impact par rapport au marché cible à atteindre
+- l'équipe connaît son marché potentiel d'utilisateurs
+- le service numérique peut répondre à ce marché
 - la stratégie de déploiement est pertinente
 
 ## Répartition du budget
