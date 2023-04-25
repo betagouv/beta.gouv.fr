@@ -6,12 +6,12 @@ github: yaf
 link: 'https://elsif.fr'
 missions:
   - employer: Scopyleft
-    end: 2023-12-31
+    end: 2023-03-31
     start: 2018-12-12
     status: service
 startups:
-  - rdv-services-publics
 previously:
+  - rdv-services-publics
   - dossiersco
 ---
 
