@@ -17,7 +17,7 @@ phases:
     start: 2020-09-01
     end: 2022-08-31
 ---
-## Pas d'adresse, pas de chocolat
+## Pas d'adresse, pas de chocolat 
 
 A la campagne ou dans une grande ville, des adresses présentent sur le terrain, connues des habitants et à jour dans les systèmes d'information permettent aux services de se déployer efficacement : se raccorder à la fibre, aider les secours à arriver au plus vite au bon endroit, recevoir ses colis ...
 
