@@ -28,8 +28,8 @@ Le projet est divisé en deux phases principales, les résultats de la première
 
 #### Phase 1 (Mai - Juillet)
 Cette première phase a pour objectif de mieux cerner le problème et de prototyper une solution de prévention des ruptures de contrat d'apprentissage et de remédiation. Les livrables attendus sont :
-- Analyse des données issues de DECA (base des contrats avec l’équipe tableau de bord) et taux de rupture (avec l’équipe d’Inser’jeune)
-- Étude documentaire (avec l’équipe d’Inser’jeune) pour déterminer comment les taux de rupture sont calculés selon les différentes sources
+- Analyse des données issues de DECA (base des contrats avec l’équipe tableau de bord) et taux de rupture (avec l’équipe d’InserJeunes)
+- Étude documentaire (avec l’équipe d’InserJeunes) pour déterminer comment les taux de rupture sont calculés selon les différentes sources
 - Macro synthèse des entretiens utilisateurs pour qualifier les “problèmes” tout au long de leur parcours (matrice des irritants priorisés par type d’utilisateur, macro synthèse des entretiens)
 - Proposition de valeur unique, récits utilisateurs et pistes de solutions
 
