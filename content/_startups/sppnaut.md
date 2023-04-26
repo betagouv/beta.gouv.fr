@@ -1,8 +1,6 @@
 ---
 title: SPPNaut
-mission: >-
-  Faciliter l'utilisation des publications nautiques en numérisant les données
-  qu'elles contiennent
+mission: Faciliter l'utilisation des publications nautiques en numérisant les données qu'elles contiennent
 sponsors:
   - /organisations/dinum
   - /organisations/shom
@@ -17,15 +15,12 @@ stats: false
 repository: https://github.com/betagouv/SPPNautInterface/
 contact: gael.roue@shom.fr
 techno:
-  - Python
-  - PostgreSQL
-  - PostGIS
+    - Python
+    - PostgreSQL
+    - PostGIS
 usertypes:
   - entreprise
   - etat
-pitch: >-
-  Faciliter l'utilisation des publications nautiques en numérisant les données
-  qu'elles contiennent
 ---
 
 ## Le contexte
