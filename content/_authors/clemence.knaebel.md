@@ -4,7 +4,7 @@ role: Coach
 domaine: Coaching
 missions:
   - start: 2022-04-24
-    end: 2022-07-23
+    end: 2023-07-23
     status: independent
     employer: Numa
 memberType: beta
