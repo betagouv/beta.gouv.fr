@@ -23,7 +23,7 @@ phases:
 
 ## Accompagner les communes dans le recensement des adresses du territoire
 
-L﻿a loi 3DS a consacré le rôle des communes dans l'adressage de leur territoire.
+La loi 3DS a consacré le rôle des communes dans l'adressage de leur territoire.
 
 **Le programme Bases Adresses Locales** propose des outils pour permettre aux communes de toute taille de mettre à jour leurs adresses simplement et d'alimenter la [Base Adresse Nationale](https://beta.gouv.fr/startups/ban.html), base officielle des adresses en France appartenant au Service Public de la Donnée.
 
@@ -40,6 +40,6 @@ L﻿a loi 3DS a consacré le rôle des communes dans l'adressage de leur territo
 Aujourd'hui, **plus de 12 000 communes** ont déjà publié leur Base Adresse Locale, près de 50% de la population est couverte. Votre commune est-elle couverte ?
 
 Pour [suivre le déploiement des Bases Adresses Locales](https://adresse.data.gouv.fr/deploiement-bal) en France
-P﻿our [commencer la BAL](https://adresse.data.gouv.fr/gerer-mes-adresses) de sa commune
+Pour [commencer la BAL](https://adresse.data.gouv.fr/gerer-mes-adresses) de sa commune
 
-\#﻿adresses #territoires #opendata #qualité #spd
+\#adresses #territoires #opendata #qualité #spd
