@@ -1,5 +1,6 @@
 ---
-fullname: ISABELLe GOUT
+
+fullname: Isabelle GOUT
 role: GESTIONNAIRE
 domaine: Autre
 missions:

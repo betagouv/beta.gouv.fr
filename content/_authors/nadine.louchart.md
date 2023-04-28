@@ -1,16 +1,15 @@
 ---
 fullname: Nadine Louchart
-role: Product Manager / Product Owner
+role: Product Manager
 domaine: Produit
 missions:
   - start: 2023-01-09
-    end: 2023-09-30
+    end: 2024-12-31
     status: independent
     employer: Mission interministérielle apprentissage
 startups:
   - tdb-apprentissage
 memberType: beta
-
 ---
 
 
