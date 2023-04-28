@@ -60,7 +60,4 @@ En date d'avril 2023, le développement de Reco-co est porté par le produit Urb
 
 Historique : Plusieurs interlocuteurs sur d’autres thématiques (mobilité, eau, agents DDT…) ont manifesté leur intérêt à utiliser Reco-co pour faire de l’accompagnement dans la durée sur d’autres sujets que les friches. Face au manque d’outils sur ce sujet complexe, l’équipe UrbanVitaliz a produit une version minimale de l’outil générique, nommé Reco-Co, qui permet de créer d’autres portails thématiques de recommandations, à l’initiative d’autres métiers et organisations publiques. 
 
-La mise en place d'un portail Reco-Co est réalisée gratuitement pour des administrations publiques qui disposent déjà d'une communauté susceptible de l'utiliser. 
-
-
-Contact de l'équipe : friches@beta.gouv.fr
+La mise en place d'un portail Reco-Co est réalisée gratuitement pour des administrations publiques qui disposent déjà d'une communauté susceptible de l'utiliser.
