@@ -13,8 +13,8 @@ missions:
     end: 2023-04-30
     status: independent
     employer: octo
-  - start: 2020-05-01
-    end: 2023-12-31
+  - start: 2023-05-01
+    end: 2024-30-04
     status: independent
     employer: malt
 startups:
