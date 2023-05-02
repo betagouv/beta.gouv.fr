@@ -5,7 +5,7 @@ domaine: Développement
 github: paulsouche
 missions:
   - start: 2023-03-01
-    end: 2023-04-28
+    end: 2023-06-03
     status: independent
     employer: Opteamis
 startups:
