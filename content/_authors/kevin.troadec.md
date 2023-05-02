@@ -1,6 +1,6 @@
 ---
 fullname: Kevin Troadec
-role: Produc owner
+role: Product owner
 domaine: Produit
 missions:
   - start: 2023-02-27
