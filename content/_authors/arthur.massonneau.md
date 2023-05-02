@@ -1,6 +1,6 @@
 ---
 fullname: Arthur Massonneau
-role: Coacj
+role: Coach
 domaine: Coaching
 link: https://www.linkedin.com/in/arthurmassonneau/
 github: ArtMassonneau
