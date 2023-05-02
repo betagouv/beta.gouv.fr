@@ -7,5 +7,7 @@ missions:
     end: 2023-08-31
     status: admin
 memberType: autre
+startups:
+  - expresso
 ---
 
