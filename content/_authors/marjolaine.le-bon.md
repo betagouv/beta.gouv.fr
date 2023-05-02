@@ -5,7 +5,7 @@ domaine: Développement
 github: MarjolaineLB
 missions:
   - start: 2022-04-19
-    end: 2023-05-31
+    end: 2023-12-31
     status: independent
     employer: Scopyleft
 startups:
