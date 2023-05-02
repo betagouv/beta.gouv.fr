@@ -10,9 +10,13 @@ missions:
     status: independent
     employer: ey
   - start: 2020-02-03
-    end: 2023-06-01
+    end: 2023-04-30
     status: independent
     employer: octo
+  - start: 2020-05-01
+    end: 2023-12-31
+    status: independent
+    employer: malt
 startups:
   - itou
   - inclusion.connect
