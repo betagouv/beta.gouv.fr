@@ -4,12 +4,11 @@ role: UX designer
 domaine: Design
 missions:
   - start: 2022-10-18
-    end: 2023-05-31
+    end: 2023-08-31
     status: independent
     employer: Fairness
 startups:
   - dialogue
-
 ---
 
 
