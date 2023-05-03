@@ -11,6 +11,7 @@ memberType: beta
 startups:
   - 1000.premiers.jours.blues
   - datagir
+  - nosgestesclimat
 
 ---
 
