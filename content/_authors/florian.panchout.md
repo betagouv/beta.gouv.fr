@@ -8,12 +8,8 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ADEME
-startups:
-  - datagir
-  - recosante
 teams:
   - /teams/ademe
 badges:
   - segur
-
 ---
