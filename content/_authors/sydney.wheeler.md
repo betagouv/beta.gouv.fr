@@ -10,5 +10,7 @@ missions:
 startups:
   - zero-logement-vacant
 memberType: beta
+previously:
+  - zero-logement-vacant
 ---
 
