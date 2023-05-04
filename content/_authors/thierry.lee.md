@@ -8,8 +8,6 @@ missions:
     end: 2023-06-03
     status: service
     employer: Octo
-startups:
-  - inca
 memberType: autre
 ---
 
