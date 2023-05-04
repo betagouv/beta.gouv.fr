@@ -16,6 +16,9 @@ phases:
     start: 2023-03-01
     end: 2023-06-30
 ---
+Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
+Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
+
 ## Contexte
 
 L﻿'Annuaire des collectivités est né du constant que **15106 communes ne disposent pas d’un site web**. Et parmi les autres, nombreuses sont celles dont le site web est dysfonctionnel, la donnée obsolète ou peu fiable voire même des sites laissés à l’abandon.
