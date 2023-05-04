@@ -1,5 +1,5 @@
 ---
-fullname: Esil Fainsilber
+fullname: Lise Fainsilber
 role: Designer
 domaine: Design
 missions:
@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: Cerema
 startups:
-  - urbanvitaliz
+  - recoco
 memberType: dinum
 ---
 
