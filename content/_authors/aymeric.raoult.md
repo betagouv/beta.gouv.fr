@@ -10,10 +10,10 @@ missions:
     employer: ''
 startups:
   - T2BJustice
-  - mobicouts
   - apilos
   - compte-conso
 competences:
   - Coaching
-
+previously:
+  - mobicouts
 ---
