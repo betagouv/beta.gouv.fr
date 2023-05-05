@@ -6,10 +6,11 @@ link: https://www.linkedin.com/in/nathalie-rosenberg-086408193/
 github: Natouille
 missions:
   - start: 2022-01-19
-    end: 2023-06-30
+    end: 2023-12-30
     status: independent
     employer: ''
 startups:
+  - reva
   - expositionIJ
 ---
 
