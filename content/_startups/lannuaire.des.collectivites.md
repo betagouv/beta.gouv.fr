@@ -1,6 +1,6 @@
 ---
 title: L'Annuaire des collectivités
-mission: Offrir un site web a chaque commune de France
+mission: Offrir un site web à chaque commune de France
 sponsors:
   - /organisations/anct
 incubator: anct
