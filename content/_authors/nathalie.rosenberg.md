@@ -11,6 +11,7 @@ missions:
     employer: ''
 startups:
   - reva
+previously:
   - expositionIJ
 ---
 
