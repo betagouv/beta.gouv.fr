@@ -40,7 +40,7 @@ La création d'un outil de pilotage partagé entre tous les acteurs (ministères
 
 ## Les bénéfices attendus
 
-- Mettre à disposition les données aux acteurs de la carte des formations ;
+- Moderniser les diplômes pour augmenter leur taux d’insertion et de poursuites d'étude ;
 - Accélérer la révision des certifications au niveau national ;
 - Donner une vision globale des formations disponibles sur un territoire au regard des besoins des entreprises ;
 - Identifier quel est le niveau du diplôme le plus insérant pour une spécialité.
