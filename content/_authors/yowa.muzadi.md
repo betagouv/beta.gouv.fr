@@ -1,6 +1,7 @@
 ---
 fullname: Yowa Muzadi
 role: Responsable de portefeuille
+github: yowamuzadi
 domaine: Animation
 missions:
   - start: 2023-05-09
