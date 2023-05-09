@@ -16,7 +16,5 @@ previously:
   - e-inspé
 competences:
   - Coaching
-teams:
-  - /teams/fast-dinum
 ---
 Accompagnement de produits Gamma et coaching de start-ups
