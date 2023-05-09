@@ -13,7 +13,7 @@ missions:
     status: admin
     employer: Dinum
 startups:
-  - comptes.ressources
+  - compte.ressources
 previously:
   - tchap
   - sparte
