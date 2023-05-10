@@ -1,10 +1,13 @@
 ---
 title: Plus fraîche ma ville
-mission: Accompagner les collectivités dans le choix de solutions de rafraîchissement urbain pérennes et durables
+mission: Accompagner les collectivités dans le choix de solutions de
+  rafraîchissement urbain pérennes et durables
 sponsors:
   - /organisations/ademe
 incubator: ademe
+link: https://plusfraichemaville.fr/
 contact: elodie.briche@ademe.fr
+stats: true
 accessibility_status: non conforme
 phases:
   - name: investigation
