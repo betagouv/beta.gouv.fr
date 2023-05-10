@@ -1,6 +1,6 @@
 ---
 fullname: Michaël Wileczek
-role: Consultant cybersécurité &#x2F; RSSI
+role: Consultant cybersécurité / RSSI
 domaine: Autre
 github: Michael-MWI
 missions:
