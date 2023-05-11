@@ -1,6 +1,6 @@
 ---
 fullname: Audrey HOUSSAIS
-role: Chargée de déploiement dans le domaine du logement social
+role: Simplifier la réglementation sur le conventionnement APL
 domaine: Déploiement
 link: https://www.linkedin.com/in/audrey-houssais/
 github: AudreyH49
@@ -13,6 +13,5 @@ startups:
   - apilos
 badges:
   - segur
-
 ---
 J'aime contribuer et faire avancer les causes et les innovations
