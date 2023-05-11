@@ -27,11 +27,11 @@ La loi 3DS a consacré le rôle des communes dans l'adressage de leur territoire
 
 **Le programme Bases Adresses Locales** propose des outils pour permettre aux communes de toute taille de mettre à jour leurs adresses simplement et d'alimenter la [Base Adresse Nationale](https://beta.gouv.fr/startups/ban.html), base officielle des adresses en France appartenant au Service Public de la Donnée.
 
-* **Outils :** [Mes Adresses](https://mes-adresses.data.gouv.fr/) pour toutes les communes sans aucun prérequis, [autres méthodes](https://adresse.data.gouv.fr/gerer-mes-adresses) pour publier sa BAL
-* **Formations :** un [webinaire](https://adresse.data.gouv.fr/evenements) par semaine à destination des communes
-* **Animation :** la [charte](https://adresse.data.gouv.fr/bases-locales/charte) des communes partenaire et des organismes accompagnants
-* **[Documentation](https://adresse.data.gouv.fr/ressources)**
-* **[Témoignages](https://adresse.data.gouv.fr/blog)**
+* 🔧 **Outils :** [Mes Adresses](https://mes-adresses.data.gouv.fr/) pour toutes les communes sans aucun prérequis, [autres méthodes](https://adresse.data.gouv.fr/gerer-mes-adresses) pour publier sa BAL
+* 🗓️ **Formations :** un [webinaire](https://adresse.data.gouv.fr/evenements) par semaine à destination des communes
+* 🙌 **Animation :** la [charte](https://adresse.data.gouv.fr/bases-locales/charte) des communes partenaire et des organismes accompagnants
+* 📚 **[Documentation](https://adresse.data.gouv.fr/ressources)**
+* 🎤 **[Témoignages](https://adresse.data.gouv.fr/blog)**
 
 ![Interface de Mes Adresses](/img/netlifycms/mesadresses.png "Mes Adresses")
 
@@ -39,7 +39,8 @@ La loi 3DS a consacré le rôle des communes dans l'adressage de leur territoire
 
 Aujourd'hui, **plus de 12 000 communes** ont déjà publié leur Base Adresse Locale, près de 50% de la population est couverte. Votre commune est-elle couverte ?
 
-Pour [suivre le déploiement des Bases Adresses Locales](https://adresse.data.gouv.fr/deploiement-bal) en France
-Pour [commencer la BAL](https://adresse.data.gouv.fr/gerer-mes-adresses) de sa commune
+📍 Pour [suivre le déploiement des Bases Adresses Locales](https://adresse.data.gouv.fr/deploiement-bal) en France
+
+📍 Pour [commencer la BAL](https://adresse.data.gouv.fr/gerer-mes-adresses) de sa commune
 
 \#adresses #territoires #opendata #qualité #spd
