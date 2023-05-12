@@ -16,4 +16,4 @@ badges:
   - segur
 ---
 
-Développeuse web. Friande de justice sociale, de justice climatique et de d20.
+Développeuse web. Rêve de justice sociale, de justice climatique et de d20.
