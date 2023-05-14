@@ -1,6 +1,6 @@
 ---
 fullname: Benjamin Barralon
-role: Responsable de la mission interministérielle InserJeunes
+role: Coordinateur opérationnel de la mission interministérielle InserJeunes
 domaine: Produit
 github: benjaminbarralon
 missions:
