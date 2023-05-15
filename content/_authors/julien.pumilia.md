@@ -1,15 +1,23 @@
 ---
 fullname: Julien Pumilia
-role: Chargé de Croissance
 domaine: Déploiement
-link: https://www.julienpumilia.com/
+role: Chargé d'acquisition
 github: Julien2751
+link: https://fr.linkedin.com/in/growth-hacking-copywriter
 missions:
-  - start: 2022-01-03
+  - start: 2023-05-15
     end: 2022-10-31
     status: independent
-    employer: Octo
+    employer: Omnicité
+incubator: dinum
+startups:
+  - signalement
 previously:
   - dora
+badges:
+  - segur
+competences:
+  - Gestion de Produit
+  - Croissance
+  - Communication
 ---
-
