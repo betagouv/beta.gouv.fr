@@ -1,7 +1,8 @@
 ---
 title: A-JUST
-mission: Aider les juridictions dans l'affectation de leurs ressources humaines
-  pour réduire les délais de justice.
+mission: >-
+  Aider les juridictions dans l'affectation de leurs ressources humaines pour
+  réduire les délais de justice.
 sponsors:
   - /organisations/mj
   - /organisations/igj
@@ -23,8 +24,14 @@ phases:
     comment: Construction sur un périmètre de juridictions restreint.
   - name: acceleration
     start: 2022-11-30
-    comment: "Passage en accélération : amélioration continue du produit et
-      augmentation du nombre d'utilisateurs. "
+    comment: >-
+      Passage en accélération : amélioration continue du produit et augmentation
+      du nombre d'utilisateurs. 
+dashlord_url: https://dashlord.incubateur.net/url/a-just-beta-gouv-fr/
+pitch: >-
+  Aider les juridictions dans l'affectation de leurs ressources humaines pour
+  réduire les délais de justice.
+stats_url: https://a-just.beta.gouv.fr/stats
 ---
 <!--StartFragment-->
 
