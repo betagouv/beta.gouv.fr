@@ -18,11 +18,15 @@ Depuis plusieurs années, l'administration porte une volonté de simplifier les 
 
 ## Problème
 
-L’État souhaite améliorer tant la quantité que la qualité des déclarations statistique et de production aquacoles obligatoires dans le but de mettre en œuvre des politiques de gestion des cultures marines plus durables et intégrées au territoire.
+L’État souhaite améliorer tant la quantité que la qualité des déclarations statistique et de production aquacoles obligatoires dans le but de mettre en œuvre des politiques de gestion des cultures marines plus durables et intégrées au territoire. Les déclarations actuelles, parfois redondantes entre elles, engendrent une lourdeur administrative supplémentaire que des petites entreprises ont peine à remplir. 
 
 ## Solution
 
-Grâce au portail des aquaculteurs marins, chaque entreprise exploitant sur le domaine publique maritime (DPM) pourra saisir chaque année ses données. Les DDTM pourront consulter ces données prévues par la réglementation (autorisation d'exploitation des cultures marines). 
+Grâce au portail des aquaculteurs marins, chaque entreprise exploitant sur le domaine publique maritime (DPM) pourra saisir chaque année ses données. Les DDTM pourront consulter ces données prévues par la réglementation (autorisation d'exploitation des cultures marines) et les valoriser dans leurs missions (contrôle, gestion des concessions, etc.). 
+
+A terme, les professionnels pourront réaliser d'autres démarches administratives et se réapproprier leurs données à des fins de gestion d'entreprise.
+
+## Bénéfiaires
 
 * Aquaculteurs marins (administrés) 
 * Agents des unités cultures marines (DDTM)
@@ -41,4 +45,6 @@ Ce portail facilitera :
 
 ## Stratégie
 
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
+Pour la phase d'investigation, nous avons contacté dans un premier temps un panel de bénéficiaires situés dans les départements de la Charente Maritime, de l'Hérault, de la Manche et du Finistère.
+
+A partir des résultats des entretiens, ces départements feront partie des premiers territoires de déploiement e la solution.
