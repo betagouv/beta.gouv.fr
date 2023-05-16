@@ -26,13 +26,13 @@ Grâce au portail des aquaculteurs marins, chaque entreprise exploitant sur le d
 
 A terme, les professionnels pourront réaliser d'autres démarches administratives et se réapproprier leurs données à des fins de gestion d'entreprise.
 
-## Bénéfiaires
+## Bénéficiaires
 
 * Aquaculteurs marins (administrés) 
 * Agents des unités cultures marines (DDTM)
 * Bureau Aquaculture (DGAMPA) 
 * Service des Statistiques et de la Prospective (SSP/MASA)
-* Interprofession
+* Interprofession 
 
 ## Bénéfices
 
@@ -47,4 +47,4 @@ Ce portail facilitera :
 
 Pour la phase d'investigation, nous avons contacté dans un premier temps un panel de bénéficiaires situés dans les départements de la Charente Maritime, de l'Hérault, de la Manche et du Finistère.
 
-A partir des résultats des entretiens, ces départements feront partie des premiers territoires de déploiement e la solution.
+A partir des résultats des entretiens, ces départements feront partie des premiers territoires de déploiement de la solution.
