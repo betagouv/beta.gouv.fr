@@ -9,10 +9,13 @@ incubator: justice
 link: https://a-just.beta.gouv.fr
 repository: https://github.com/betagouv/a-just
 contact: contact@a-just.fr
+stats: true
+dashlord_url: https://dashlord.incubateur.net/url/a-just-beta-gouv-fr/
+analyse_risques: true
 accessibility_status: non conforme
-stats_url: https://a-just.beta.gouv.fr/stats
 usertypes:
   - etat
+stats_url: https://a-just.beta.gouv.fr/stats
 events: []
 phases:
   - name: investigation
