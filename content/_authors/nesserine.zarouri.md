@@ -5,7 +5,7 @@ domaine: Déploiement
 github: NesserineZarouri
 missions:
   - start: 2022-04-12
-    end: 2023-04-28
+    end: 2023-10-28
     status: independent
     employer: SCOPYLEFT
 badges:
