@@ -7,12 +7,12 @@ accessibility_status: non conforme
 usertypes:
   - association
   - collectivite-territoriale
-stats_url: https://dora.fabrique.social.gouv.fr/stats
+stats_url: https://dora.inclusion.beta.gouv.fr/stats
 title: DORA
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
-link: https://dora.fabrique.social.gouv.fr
+link: https://dora.inclusion.beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/tag/dora/
 events: []
@@ -45,7 +45,7 @@ Ce qui a des conséquences fortes pour :
 
 ## Notre service
 
-Bien plus qu'un annuaire, [Dora](https://dora.fabrique.social.gouv.fr/) est un service public numérique  d'aide à la prescription. 
+Bien plus qu'un annuaire, [Dora](https://dora.inclusion.beta.gouv.fr) est un service public numérique  d'aide à la prescription. 
 * Offrant la possibilité aux structures d’insertion de référencer simplement et mettre à jour en temps réel leur offre de services. Qui est ensuite diffusée sur toutes les plateformes et sites web partenaires.
 * Permettant ainsi aux professionnels de l'insertion sociale et professionnelle au contact des publics de rechercher et prescrire rapidement les services le plus adaptés aux besoins de leurs bénéficiaires directement depuis l'outil qu'ils utilisent au quotidien
 
@@ -63,7 +63,7 @@ Lancez-vous dès aujourd'hui dans le déploiement de cette solution de cartograp
 
 #### B. Vous travaillez pour une structure de l'insertion qui propose des services à des personnes en situation d'insertion ?
 
-Référencez votre offre de service sur [Dora](https://dora.fabrique.social.gouv.fr/) ! 
+Référencez votre offre de service sur [Dora](https://dora.inclusion.beta.gouv.fr) ! 
 
 Pour quoi faire ?
 
@@ -76,9 +76,9 @@ Pour quoi faire ?
 
 le service Dora est déjà implanté sur votre territoire ? 
 
-* rendez-vous sur <https://dora.fabrique.social.gouv.fr/> pour rechercher des services pour lever les freins périphériques des bénéficiaires que vous accompagnez.\
+* rendez-vous sur <https://dora.inclusion.beta.gouv.fr> pour rechercher des services pour lever les freins périphériques des bénéficiaires que vous accompagnez.\
    *Astuce 💡: mettez le lien en favori ⭐ pour gagner du temps en entretien quand un frein périphérique est diagnostiqué.*
-* consultez la [page statistique Dora et la carte d'état du déploiement de l'outil](https://dora.fabrique.social.gouv.fr/stats).
+* consultez la [page statistique Dora et la carte d'état du déploiement de l'outil](https://dora.inclusion.beta.gouv.fr/stats).
 
 - - -
 
@@ -86,4 +86,4 @@ Enfin, pour en savoir plus sur le service Dora :
 
 * 📰 abonnez vous à la [lettre d'information](https://d4c653e7.sibforms.com/serve/MUIEAEkY4naptXBIq5NdRg5UPxP1wmwbGCinne5c1gynY-wfrZ0Dz0QP_NqkXtfyYqhdaq3AO8VFZJ9giRi9ZT0eah7Ut2U0LeKSTVIHQb_5nhvTLUMWXo9ZMeIYCHVlzmjkXGQ66S5ewcYpSADUgV--2RVZ_mrnsRJQoCNwZ8y-sWzfQsEzfKuTA7SLbZ_dWeqaigudym3EaiHT)
 * 🎤 assistez à l'un de [nos webinaires](https://app.livestorm.co/dora-1)
-* 🔎 Consultez notre espace d'[aide et de documentation](https://aide.dora.fabrique.social.gouv.fr/fr/)
+* 🔎 Consultez notre espace d'[aide et de documentation](https://aide.dora.inclusion.beta.gouv.fr/fr/)
