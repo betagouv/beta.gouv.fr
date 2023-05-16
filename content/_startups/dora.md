@@ -45,7 +45,7 @@ Ce qui a des conséquences fortes pour :
 
 ## Notre service
 
-Bien plus qu'un annuaire, [Dora](https://dora.fabrique.social.gouv.fr/) est un service public numérique  d'aide à la prescription. 
+Bien plus qu'un annuaire, [Dora](https://dora.inclusion.beta.gouv.fr) est un service public numérique  d'aide à la prescription. 
 * Offrant la possibilité aux structures d’insertion de référencer simplement et mettre à jour en temps réel leur offre de services. Qui est ensuite diffusée sur toutes les plateformes et sites web partenaires.
 * Permettant ainsi aux professionnels de l'insertion sociale et professionnelle au contact des publics de rechercher et prescrire rapidement les services le plus adaptés aux besoins de leurs bénéficiaires directement depuis l'outil qu'ils utilisent au quotidien
 
@@ -63,7 +63,7 @@ Lancez-vous dès aujourd'hui dans le déploiement de cette solution de cartograp
 
 #### B. Vous travaillez pour une structure de l'insertion qui propose des services à des personnes en situation d'insertion ?
 
-Référencez votre offre de service sur [Dora](https://dora.inclusion.beta.gouv.fr/stats) ! 
+Référencez votre offre de service sur [Dora](https://dora.inclusion.beta.gouv.fr) ! 
 
 Pour quoi faire ?
 
@@ -78,7 +78,7 @@ le service Dora est déjà implanté sur votre territoire ?
 
 * rendez-vous sur <https://dora.inclusion.beta.gouv.fr> pour rechercher des services pour lever les freins périphériques des bénéficiaires que vous accompagnez.\
    *Astuce 💡: mettez le lien en favori ⭐ pour gagner du temps en entretien quand un frein périphérique est diagnostiqué.*
-* consultez la [page statistique Dora et la carte d'état du déploiement de l'outil](https://dora.fabrique.social.gouv.fr/stats).
+* consultez la [page statistique Dora et la carte d'état du déploiement de l'outil](https://dora.inclusion.beta.gouv.fr/stats).
 
 - - -
 
