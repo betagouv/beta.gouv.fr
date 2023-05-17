@@ -3,6 +3,7 @@ fullname: Jonathan Raimond
 domaine: Design
 role: UX/UI Designer
 link: https://www.jonathanraimond.com/
+github: jonathanraimond
 missions:
   - start: 2021-06-14
     end: 2023-06-30

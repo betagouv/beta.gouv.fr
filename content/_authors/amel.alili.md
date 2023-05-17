@@ -1,18 +1,19 @@
 ---
 fullname: Amel Alili
-role: Chargée de déploiement et de support 
+role: Chargée d'assistance et de support à la communauté
 domaine: Autre
 github: amelalili
 missions:
   - start: 2022-09-01
-    end: 2023-02-28
+    end: 2023-06-30
     status: independent
-    employer: MALT
-startups:
-  - tchap
+    employer: LBC
 previously:
   - locatio
+  - tchap
 badges:
   - segur
 ---
+
+
 

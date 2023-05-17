@@ -1,11 +1,11 @@
 ---
 fullname: Aurélien CLAEYS
 domaine: Intraprenariat
-role: Intrapreneur "Impact"
+role: Intrapreneur &quot;Impact&quot;
 github: Yenyenc
 missions:
   - start: 2022-01-03
-    end: 2023-12-31
+    end: 2023-03-31
     status: admin
     employer: Direction Générale des Entreprises (DGE)
 badges:
@@ -17,4 +17,5 @@ startups:
   - plateforme.impact
 
 ---
+
 null

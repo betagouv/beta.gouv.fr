@@ -42,7 +42,7 @@ Les aides et dispositifs d’accompagnement des propriétaires sont nombreux pou
 Les chargés d'habitat ont :
 - peu de temps dédié à la vacance (0.5 jour / semaine en moyenne),
 - ils privilégient en règle générale une approche d'étude,
-- ils ont accès à des données LOVAC qui sont mises à jour (jusqu'en 2023) seulement une fois par an et sont donc parfois erronées,
+- ils ont accès à des données LOVAC qui sont mises à jour seulement une fois par an et sont donc parfois erronées,
 - enfin ils sont mal outillé sur le plan numérique (utilisation exclusive d'Excel ou de solution sur-mesuré datée en Access)
 
 Sauf incitation forte de l'élu, ils ne font donc pas de la lutte contre la vacance une priorité opérationnelle.

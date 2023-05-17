@@ -16,6 +16,7 @@ startups:
   - pau-partage
   - commun.orientation
   - cmachance
+  - dora
 previously:
   - cmachance
 badges:

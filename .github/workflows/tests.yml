@@ -8,13 +8,13 @@ on:
 
 jobs:
   test:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
     - uses: actions/checkout@v2
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.1
+        ruby-version: 3.2
         bundler-cache: true
     - name: Install npm dependencies
       uses: actions/setup-node@v3
@@ -26,14 +26,8 @@ jobs:
     - name: Unit tests
       run: bundle exec rspec
 
-    - name: Check author metadata
-      run: ruby bin/validate schema/authors.yml "content/_authors/*.md"
-
-    - name: Check startup metadata
-      run: ruby bin/validate schema/startups.yml "content/_startups/*.md"
-
-    - name: Check organisation metadata
-      run: ruby bin/validate schema/organisations.yml "content/_organisations/*.md"
+    - name: Check data structure
+      run: make validate
 
     - name: "Check authors file name structure (first_name.last_name.md)"
       run: |
@@ -56,11 +50,8 @@ jobs:
     - name: Jekyll build
       run: bundle exec jekyll build --trace
 
-    - name: Check homepage was compiled
-      run: test -s _site/index.html
-
     - name: Check HTML common mistakes
-      run: bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
+      run: make html-proofer
 
     - name: HTML5 Validator
       uses: Cyb3r-Jak3/html5validator-action@master

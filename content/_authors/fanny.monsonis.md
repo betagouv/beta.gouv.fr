@@ -7,7 +7,7 @@ missions:
     end: 2023-11-01
     status: independent
 startups:
-  - lapins
+  - rdv-services-publics
 memberType: beta
 ---
 

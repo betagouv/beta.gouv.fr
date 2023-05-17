@@ -1,7 +1,7 @@
 ---
 fullname: Sophie Larroumet
 domaine: Produit
-role: Cheffe de produit (Product Manager)
+role: Product Manager
 missions:
   - start: 2022-10-03
     end: 2025-10-02
@@ -10,4 +10,12 @@ missions:
 incubator: fabnumdef
 competences:
   - Gestion de Produit
+startups:
+  - octopus
+  - oscars
+  - civils-de-la-defense
+  - cassiopee
+
 ---
+
+

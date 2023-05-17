@@ -10,6 +10,6 @@ missions:
     status: independent
     employer: PLUP
 startups:
-  - lapins
+  - rdv-services-publics
 ---
 

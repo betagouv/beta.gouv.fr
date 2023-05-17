@@ -2,7 +2,7 @@
 roles: une développeuse ou un développeur web full-stack
 startup: signalement
 techno: React - Scala - Typescript
-open: true
+open: false
 date: 2023-01-10T08:20:03.110Z
 domaines:
   - Développement

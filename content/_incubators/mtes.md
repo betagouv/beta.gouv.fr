@@ -2,7 +2,6 @@
 title: La Fabrique Numérique de l'Ecologie (MTE-MCT)
 owner: /organisations/mtes
 logo: logo_fabnum_mtes.png
-website: https://mtes-mct.github.io/portail
 github: https://github.com/MTES-MCT/
 contact: mailto:samuel.goldszmidt@beta.gouv.fr?subject=Incubateurs
 address: Arche de la Défense, 1 parvis de la Défense, Puteaux

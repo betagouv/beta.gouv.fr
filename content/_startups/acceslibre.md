@@ -1,17 +1,17 @@
 ---
+title: Acceslibre
 mission: Collecter puis diffuser les données d'accessibilité des établissements publics
+sponsors:
+  - /organisations/mtes
 incubator: mtes
+link: https://acceslibre.beta.gouv.fr
 repository: https://github.com/MTES-MCT/acceslibre
-contact: julia.zucker@developpement-durable.gouv.fr
+contact: acceslibre@beta.gouv.fr
 accessibility_status: partiellement conforme
 redirect_from:
   - /startups/access4all
 usertypes:
   - particulier
-title: Acceslibre
-sponsors:
-  - /organisations/mtes
-link: https://acceslibre.beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/url/acceslibre-beta-gouv-fr/
 events:

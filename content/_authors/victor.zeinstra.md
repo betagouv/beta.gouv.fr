@@ -1,14 +1,16 @@
 ---
 fullname: Victor Zeinstra
-role: Développeur
 domaine: Développement
+role: Développeur
 missions:
   - start: 2022-06-13
-    end: 2023-02-28
+    end: 2023-12-31
     status: independent
-    employer: Octo
+    employer: Opteamis
 startups:
   - codedutravail
-
+competences:
+  - Développement Backend
+  - Développement Frontend
 ---
-Développeur la nuit, Développeur le jour
+Développeur fullstack, fan de TDD

@@ -20,11 +20,11 @@ phases:
     start: 2020-09-01
 usertypes:
   - etat
-link: https://e-controle-beta.ccomptes.fr
-repository: https://github.com/betagouv/e-controle
+link: https://e-controle.ccomptes.fr
+repository: https://github.com/ccomptes-fr/e-controle
 stats: true
 stats_url: https://infogram.com/indicateurs-1h0n250kv01l4pe?live
-contact: e-controle-beta@ccomptes.fr
+contact: e-controle@ccomptes.fr
 redirect_from:
   - /startups/startup-jf
 ---
@@ -64,4 +64,4 @@ Découvrez un rapide aperçu d'e.contrôle à travers ces courtes vidéos:
 - ["En tant que membre d'une équipe de contrôle, j'explore les réponses réponses dans mon navigateur windows"](https://drive.google.com/open?id=1IXCktxuOidKJYdsaoguYyO34gHxsOl5y)
 - ["En tant qu'organisme interrogé, je dépose des documents de réponse à une question"](https://drive.google.com/open?id=1KPcRKKeS_HriJpciNE6GZmiuIF5OA-y2)
 
-### 📧 [Contactez nous](mailto:e-controle@beta.gouv.fr)
+### 📧 [Contactez nous](mailto:e-controle@ccomptes.fr)

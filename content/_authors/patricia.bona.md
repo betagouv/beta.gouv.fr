@@ -1,13 +1,15 @@
 ---
-fullname: patricia BONA 
-role: Product Manager 
+fullname: patricia BONA
+role: Product Manager
 domaine: Intraprenariat
 missions:
   - start: 2022-12-20
     end: 2024-12-20
     status: admin
-    employer: POLE EMPLOI 
+    employer: POLE EMPLOI
 memberType: beta
+startups:
+  - estime.formation
 ---
 
-Product Manager junior 
+Product Manager junior

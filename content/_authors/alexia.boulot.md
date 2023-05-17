@@ -11,9 +11,10 @@ badges:
   - segur
 startups:
   - acceslibre
+  - monitorfish
+  - rapportnav
+previously:
   - prev-ac-tion
   - jaden.gwadloup
-  - monitorfish
-
 ---
 null

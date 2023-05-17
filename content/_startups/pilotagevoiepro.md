@@ -1,15 +1,16 @@
 ---
-title: Pilotage de la carte de formation
-mission: Outiller la révision et l'évolution de l'offre de formation des lycées professionnels
+title: Orion
+mission: Contribuer au pilotage de la révision et l'évolution de l'offre de formation des lycées professionnels
 sponsors:
   - /organisations/dgesco
 incubator: mission-inserjeunes
 phases:
-  - name: investigation
+  - name: construction
     start: 2023-01-01  
+repository: https://github.com/mission-apprentissage/tjp-pilotage
 stats_url: 
 stats: 
-contact: julianne.lagadec@beta.gouv.fr
+contact: contact@inserjeunes.beta.gouv.fr
 usertypes:
   - etablissement-scolaire
   - etat
@@ -33,14 +34,14 @@ La création d'un outil de pilotage partagé entre tous les acteurs (ministères
 - La poursuite d’étude ;
 - Le taux et la qualité d’insertion des formations ;
 - La valeur ajoutée des établissements ;
-- La prospectives des métiers et qualification ;
+- La prospective des métiers et qualification ;
 - La demande économique ;
 - Des éléments de contexte du territoire (démographie, mobilité)….
 
 ## Les bénéfices attendus
 
+- Moderniser les diplômes pour augmenter leur taux d’insertion et de poursuites d'étude ;
 - Accélérer la révision des certifications au niveau national ;
-- Moderniser les diplômes pour augmenter leur taux d’insertion ;
 - Donner une vision globale des formations disponibles sur un territoire au regard des besoins des entreprises ;
 - Identifier quel est le niveau du diplôme le plus insérant pour une spécialité.
 

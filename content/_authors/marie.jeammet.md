@@ -16,4 +16,4 @@ badges:
   - segur
 ---
 
-Développeuse back-end. Carbure à la programmation et aux lancers de d20. 
+Développeuse web. Rêve de justice sociale, de justice climatique et de d20.

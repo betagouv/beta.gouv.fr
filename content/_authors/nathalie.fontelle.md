@@ -5,10 +5,10 @@ domaine: Développement
 github: NFontelle
 missions:
   - start: 2022-04-19
-    end: 2023-04-21
+    end: 2023-09-21
     status: service
     employer: ''
 startups:
-  - lapins
+  - rdv-services-publics
 
 ---

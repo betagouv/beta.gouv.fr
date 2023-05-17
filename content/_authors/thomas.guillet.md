@@ -26,11 +26,12 @@ missions:
 startups:
   - aides.jeunes
   - data-inclusion
+  - tous.a.bord
 previously:
   - mes-aides
   - voir-et-localiser
   - data.insertion
-  - lapins
+  - rdv-services-publics
 badges:
   - segur
 ---

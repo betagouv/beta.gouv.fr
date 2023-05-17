@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: INOPS
 startups:
+  - travailler.en.france
   - mes.aides
 ---
 

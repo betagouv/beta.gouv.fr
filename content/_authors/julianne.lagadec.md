@@ -8,14 +8,17 @@ missions:
   - start: 2021-04-01
     end: 2023-07-01
     status: admin
+    employer: ''
 startups:
-  - tdb-apprentissage
-  - la-bonne-alternance
   - sirius
-previously :
+  - expositionIJ
+  - pilotagevoiepro
+previously:
   - voeux-apprentissage
   - dematapprentissage
+  - tdb-apprentissage
+  - la-bonne-alternance
 teams:
-  - /teams/mission-apprentissage
   - /teams/mission-inserjeunes
 ---
+

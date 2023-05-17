@@ -8,7 +8,7 @@ missions:
     end: 2023-02-28
     status: service
     employer: Captive
-startups:
+previously:
   - eva
 ---
 

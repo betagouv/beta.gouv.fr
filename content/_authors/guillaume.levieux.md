@@ -1,11 +1,11 @@
 ---
 fullname: Guillaume Levieux
-role: co-responsable portefeuille produits
+role: Responsable mission numérique DGALN, ex-intra Camino
 domaine: Produit
 github: guillaumelevieux
 missions:
   - start: 2017-12-15
-    end: 2023-09-30
+    end: 2024-09-30
     status: admin
     employer: MTE/DGALN
 startups:
@@ -24,6 +24,8 @@ startups:
     - zero-logement-vacant
 badges:
   - segur
+teams:
+  - /teams/mtes
 ---
 
 Toujours fan des volcans et de ceux qui vivent dessus.

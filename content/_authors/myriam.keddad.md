@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: SCOPYLEFT
 startups:
-  - lapins
+  - rdv-services-publics
 badges:
   - segur
 

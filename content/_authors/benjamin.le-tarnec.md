@@ -4,7 +4,7 @@ domaine: Coaching
 role: Coach
 missions:
   - start: 2022-03-04
-    end: 2023-04-02
+    end: 2023-12-31
     status: independent
     employer: Ground
 startups:

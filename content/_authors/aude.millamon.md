@@ -8,5 +8,5 @@ missions:
     status: admin
     employer: Département du Pas-de-Calais
 startups:
-  - lapins
+  - rdv-services-publics
 ---
