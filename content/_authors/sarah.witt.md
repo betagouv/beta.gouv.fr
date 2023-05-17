@@ -1,12 +1,13 @@
 ---
 fullname: Sarah Witt
-role: Chargée de déploiement 
+role: Chargée de déploiement
 domaine: Déploiement
 link: https://sarah-witt.com/
 missions:
   - start: 2022-03-07
-    end: 2023-05-31
+    end: 2023-06-30
     status: independent
+    employer: ''
 startups:
   - ellesfontlaculture
 badges:
