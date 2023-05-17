@@ -30,6 +30,8 @@ competences:
   - Administration Système
   - Développement Frontend
   - Développement Backend
+teams:
+  - /teams/animation-dinum
 ---
 
-Chercheur de simplicité
+Chercheur en simplicité
