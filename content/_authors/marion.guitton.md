@@ -6,14 +6,13 @@ link: https://hopsagency.com/
 github: Gttnmarion
 missions:
   - start: 2022-10-03
-    end: 2023-06-17
+    end: 2024-01-17
     status: independent
     employer: DINUM - Octo
 startups:
   - data-subvention
 badges:
   - segur
-
 ---
 
 
