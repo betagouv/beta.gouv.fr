@@ -5,7 +5,7 @@ domaine: Développement
 github: thierrylee
 missions:
   - start: 2023-04-03
-    end: 2023-06-03
+    end: 2023-09-02
     status: service
     employer: Octo
 memberType: autre
