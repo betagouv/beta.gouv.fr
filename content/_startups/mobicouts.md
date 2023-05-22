@@ -1,18 +1,20 @@
 ---
 title: MobiCouts
-mission: Quel est le véritable coût de nos mobilités ? 
+mission: Quel est le véritable coût de nos mobilités ?
 sponsors:
   - /organisations/ademe
 incubator: ademe
-contact: helene.dijos@ademe.fr 
+contact: helene.dijos@ademe.fr
 accessibility_status: non conforme
+events:
+  - name: end
+    date: 2023-04-12
 phases:
   - name: investigation
     start: 2022-12-01
     end: 2023-04-12
-events:
-  - name: end
-    date: 2023-04-12
+  - name: alumni
+    start: 2023-04-12
 ---
 
 ## Contexte 
