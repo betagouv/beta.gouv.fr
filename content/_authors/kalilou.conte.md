@@ -1,14 +1,14 @@
 ---
 fullname: Kalilou Conté
-role:  Chargé de déploiement
 domaine: Produit
+role: Chargé de déploiement
 github: Conte
 missions:
   - start: 2023-01-31
     end: 2023-12-31
     status: independent
-startups:
-  - mesads
+startups: []
 memberType: beta
+competences:
+  - Gestion de Produit
 ---
-
