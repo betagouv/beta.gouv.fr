@@ -8,15 +8,15 @@ missions:
   - start: 2019-12-18
     end: 2023-12-31
     status: independent
-    employer: ''
+    employer: ""
 startups:
   - trackdechets
+  - aquaculteurs.marins
 previously:
   - hydrogene
   - carbure
   - potentiel
 competences:
   - Coaching
-
 ---
-Coach produit @ La Fabrique Numérique MTES
+Coach produit - La Fabrique Numérique MTES
