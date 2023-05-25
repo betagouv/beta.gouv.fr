@@ -15,8 +15,8 @@ dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/sparte-beta-gouv-
 phases:
   - name: investigation
     start: 2021-04-08
-  - name: construction
-    start: 2021-09-01
+  - name: acceleration
+    start: 2023-05-25
 ---
 ## Contexte
 
