@@ -4,7 +4,7 @@ role: Porteuse de projet
 domaine: Autre
 missions:
   - start: 2022-01-03
-    end: 2022-06-30
+    end: 2024-06-30
     status: admin
     employer: DINUM
 startups:
