@@ -16,4 +16,7 @@ competences:
   - Coaching
 previously:
   - mobicouts
+  - dotations-locales
+  - qualite-eau
+  - non-recours-spie
 ---
