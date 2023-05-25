@@ -16,4 +16,6 @@ memberType: beta
 fullname: Louis Laroche
 role: Coach
 link: https://ehcor.al
+startups:
+  - mediation.logement
 ---
