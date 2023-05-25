@@ -4,15 +4,7 @@ role: Géomaticien
 domaine: Autre
 github: oliviermarotte
 startups:    
-    - aides-territoires
-    - apilos
-    - bureaux.vacants
-    - camino
-    - docurba
-    - envergo
     - innovation-urbaine
-    - resorption-bidonvilles
-    - sparte
 previously:
     - zero-logement-vacant
 missions:
