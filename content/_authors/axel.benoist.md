@@ -4,7 +4,7 @@ role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-01-10
-    end: 2024-01-10
+    end: 2022-10-30
     status: admin
     employer: DRIEAT
 startups:
