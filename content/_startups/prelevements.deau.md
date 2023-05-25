@@ -1,6 +1,6 @@
 ---
 title: Prélèvements d'eau
-mission: "Facilité la gestion de prélèvements d'eau "
+mission: "Faciliter la gestion des prélèvements d'eau "
 sponsors:
   - /organisations/ademe
 incubator: ademe
