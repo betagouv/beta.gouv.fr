@@ -9,13 +9,7 @@ missions:
     employer: MTE-MCTRCT-Mer - DGALN
 startups:
   - aides-territoires
-  - bureaux.vacants
-  - camino
-  - docurba
-  - envergo
   - innovation-urbaine
-  - resorption-bidonvilles
-  - sparte
 previously:
   - zero-logement-vacant
 competences:
