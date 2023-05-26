@@ -6,8 +6,9 @@ github: natoine
 link: https://natoine.fr
 missions:
   - start: 2021-09-09
-    end: 2023-06-25
+    end: 2023-12-25
     status: independent
+    employer: ''
 startups:
   - data-subvention
 badges:
