@@ -15,6 +15,8 @@ up: down
 	docker-compose up -d
 down:
 	docker-compose down
+sh:
+	$(DOCKER-RUN) web bash
 rm:
 	docker-compose rm -sf
 up-nginx: down-nginx
