@@ -15,7 +15,11 @@ layout: default
       <h1>{{ page.title }}</h1>
 
       <div>
-        {{ content }}
+        {% if page.new-fast %}
+          {% include fast-results.html %}
+        {% else %}
+          {{ content }}
+        {% endif %}
       </div>
 
       <section class="fast-cta fr-p-5w fr-mt-3w">
