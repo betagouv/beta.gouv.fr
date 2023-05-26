@@ -10,6 +10,8 @@ missions:
     employer: Octo
 startups:
   - itou
+previously:
+  - inclusion.connect
 ---
 
 Développeur avec un faible pour le Python 🐍.
