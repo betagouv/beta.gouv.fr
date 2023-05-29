@@ -53,6 +53,20 @@ module Jekyll
       return JSON.pretty_generate(result)
     end
   end
+
+  module FastFilter
+    def fast_promotion(startups, promotion, sort_order = nil)
+      laureates = startups.filter do |startup|
+        startup.data.dig('fast', 'promotion') == promotion
+      end
+
+      return laureates if sort_order.nil?
+
+      laureates.sort_by { |l| l.data.dig('fast', sort_order) }
+    end
+  end
 end
+
+Liquid::Template.register_filter(Jekyll::FastFilter)
 
 Liquid::Template.register_tag('render_startups_api', Jekyll::RenderStartupsApi)
