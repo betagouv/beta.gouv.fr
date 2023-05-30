@@ -4,8 +4,9 @@ role: Rédactrice
 domaine: Autre
 missions:
   - start: 2023-04-09
-    end: 2023-05-30
+    end: 2023-08-31
     status: independent
+    employer: ''
 startups:
   - rafraichir.les.villes
 memberType: beta
