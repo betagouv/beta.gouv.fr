@@ -32,7 +32,7 @@ A terme, les professionnels pourront réaliser d'autres démarches administrativ
 * Agents des unités cultures marines (DDTM)
 * Bureau Aquaculture (DGAMPA) 
 * Service des Statistiques et de la Prospective (SSP/MASA)
-* Interprofession
+* Structures professionnelles
 
 ## Bénéfices
 
