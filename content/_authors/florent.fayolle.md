@@ -1,6 +1,6 @@
 ---
 fullname: Florent FAYOLLE
-role: Dévelopeur
+role: Développeur
 domaine: Développement
 github: fflorent
 missions:
