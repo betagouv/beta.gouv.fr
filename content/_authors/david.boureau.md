@@ -23,4 +23,3 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
-Devweb avec une préférence pour l'ergonomie, le Ruby on Rails et le JavaScript.
