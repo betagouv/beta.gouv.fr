@@ -1,7 +1,7 @@
 ---
 fullname: Clémence MARTIN
-domaine: Déploiement
-role: Chargée de produit et déploiement
+domaine: Produit
+role: Responsable produit Impact CO2
 github: Clem-mrtn
 missions:
   - start: 2021-01-04
@@ -12,6 +12,8 @@ missions:
     start: 2021-07-05
     end: 2023-06-30
 startups:
+  - impact.co2
+previously:
   - datagir
   - la.bonne.renov
 badges:
