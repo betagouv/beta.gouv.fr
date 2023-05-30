@@ -33,6 +33,12 @@ phases:
     start: 2022-06-13
 ---
 
+*La fiche ci-dessous est celle de Datagir de ses débuts à son transfert (2019-2022). **En 2023, Datagir disparaît progressivement au profit de ses deux principaux produits** qui deviennent des startups d'Etat à part entière :*
+ - ***[Nos Gestes Climat](https://beta.gouv.fr/startups/nosgestesclimat.html)***
+ - ***[Impact CO2](https://beta.gouv.fr/startups/impact.co2.html)***
+
+
+
 # (Ré)Concilier défi planétaire et vie quotidienne
 
 Année après année, les français se déclarent de plus en plus nombreux à vouloir agir en faveur de l'environnement, et le placent même pour la première fois en [haut de la liste de leurs préoccupations](https://presse.ademe.fr/2019/12/barometre-les-francais-placent-lenvironnement-pour-la-premiere-fois-en-haut-de-la-liste-de-leurs-preoccupations.html).
