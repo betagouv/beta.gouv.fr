@@ -9,9 +9,9 @@ missions:
     status: independent
     employer: "ADEME "
 startups:
-  - datagir
   - impact.co2
 previously:
+  - datagir
   - faritas
   - attractivite.des.territoires
 badges:
