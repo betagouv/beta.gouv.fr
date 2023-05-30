@@ -12,4 +12,4 @@ startups:
   - l-immersion-facile
 ---
 
-Développeur typescript
+Lead dev typescript
