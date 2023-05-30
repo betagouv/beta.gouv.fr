@@ -31,6 +31,8 @@ phases:
     start: 2021-07-01
   - name: success
     start: 2022-06-13
+  - name: alumni
+    start: 2023-05-03
 ---
 
 *La fiche ci-dessous est celle de Datagir de ses débuts à son transfert (2019-2022). **En 2023, Datagir disparaît progressivement au profit de ses deux principaux produits** qui deviennent des startups d'Etat à part entière :*
