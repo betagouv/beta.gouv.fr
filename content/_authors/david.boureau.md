@@ -1,9 +1,8 @@
 ---
 fullname: David Boureau
-role: Développeur web
 domaine: Développement
-avatar: >-
-  https://res.cloudinary.com/bdavidxyz-com/image/upload/v1471575050/menice3_reoxvv.png
+role: Développeur web
+avatar: https://res.cloudinary.com/bdavidxyz-com/image/upload/v1471575050/menice3_reoxvv.png
 link: http://bdavidxyz.com
 missions:
   - start: 2016-09-15
@@ -15,12 +14,13 @@ missions:
     status: independent
     employer: inop's
 startups:
-  - la-bonne-alternance
+  - impact.co2
 previously:
   - clara
   - pix
-
+  - la-bonne-alternance
+competences:
+  - Développement Frontend
+  - Développement Backend
 ---
-
-
-Développeur web avec une préférence pour l'ergonomie, le Ruby on Rails et le JavaScript.
+Devweb avec une préférence pour l'ergonomie, le Ruby on Rails et le JavaScript.
