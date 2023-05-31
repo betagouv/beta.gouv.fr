@@ -1,5 +1,5 @@
 ---
-fullname: aurelie favart
+fullname: Aurélie Favart
 role: Product Manager
 domaine: Produit
 github: aufavart
@@ -7,7 +7,7 @@ missions:
   - start: 2021-05-20
     end: 2023-12-31
     status: service
-    employer: octo
+    employer: performus
 startups:
   - reva
 previously:
