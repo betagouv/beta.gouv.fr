@@ -1,12 +1,12 @@
 ---
 fullname: Fabien Le Frapper
-role: Développeur 
+role: Développeur
 domaine: Développement
-link: https://fabien.cool 
+link: https://fabien.cool
 github: fabienheureux
 missions:
   - start: 2023-01-19
-    end: 2023-06-30
+    end: 2023-12-31
     status: independent
     employer: Malt
 startups:
@@ -14,4 +14,4 @@ startups:
 memberType: beta
 ---
 
-Développeur full-stack 
+Développeur full-stack
