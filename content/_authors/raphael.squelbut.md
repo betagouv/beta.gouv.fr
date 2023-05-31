@@ -9,6 +9,6 @@ missions:
     employer: SHODO
 startups:
   - signaux-faibles
-domaine: Développement / Ops
+domaine: Développement
 ---
 
