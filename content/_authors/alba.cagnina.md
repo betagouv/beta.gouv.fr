@@ -5,7 +5,7 @@ domaine: Déploiement
 github: albacagnina
 missions:
   - start: 2022-03-07
-    end: 2023-06-30
+    end: 2023-08-30
     status: independent
     employer: Malt
 startups:
