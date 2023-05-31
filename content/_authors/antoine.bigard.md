@@ -15,5 +15,4 @@ previously:
   - pop
 teams:
   - /teams/mission-apprentissage
-  - /teams/mission-inserjeunes
 ---
