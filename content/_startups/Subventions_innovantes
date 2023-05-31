@@ -12,11 +12,9 @@ phases:
   - name: investigation
     start: 2023-05-31
 ---
-
-
 # Renforcer la place des PME et l'impact dans les subventions de l'Etat
 
-# Le problème général
+## Le problème général
 Aujourd’hui, toutes les TPE/PME à très fort potentiel d’innovation ne sollicitent pas le plan France 2030 pour être soutenues (repérées, financées et accompagnées).
 
 ## Le double problème
