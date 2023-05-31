@@ -7,21 +7,9 @@ missions:
   - start: 2017-12-15
     end: 2024-09-30
     status: admin
-    employer: MTE/DGALN
-startups:
-    - acceslibre
-    - aides-territoires
-    - apilos
-    - bureaux.vacants
+    employer: MTE-MCTRCT-Mer - DGALN
+previously:
     - camino
-    - docurba
-    - envergo
-    - urbanvitaliz
-    - innovation-urbaine
-    - locatio
-    - resorption-bidonvilles
-    - sparte
-    - zero-logement-vacant
 badges:
   - segur
 teams:
