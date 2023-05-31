@@ -17,6 +17,9 @@ events:
     date: 2022-11-17
     comment: Comité d'investigation, avis concluant pour un passage en phase de
       construction
+  - name: committee
+    date: 2023-06-28
+    comment: Comité de fin de la 1ère phase de construction
 phases:
   - name: investigation
     start: 2022-06-29
@@ -39,7 +42,7 @@ Cette implémentation exige pour les professionnels de pouvoir visualiser 👀 l
 
 **Afin de conforter les professionnels quant à l'efficacité de leurs interventions et valoriser leur engagement, l'accès réel à des outils maniables, compréhensibles et vérifiés constitue une exigence à laquelle nous allons répondre.**
 
-## Solution en chantier
+## Solution en construction
 
 En pratique, je suis CPIP, j'évalue le profil de la personne condamnée que j'accompagne puis nous définissons ensemble un plan d'accompagnement. 
 
@@ -49,12 +52,16 @@ Je consulte ROMIN 💻   1 seul critère à renseigner: le facteur de risque sé
 J'accède à l'ensemble des outils d'intervention répertoriés. Je consulte la fiche outil, je prends connaissance du temps nécessaire à la mise en oeuvre, du mode d'emploi et je télécharge les supports nécessaires.
 Je peux consulter et partager moi-même mon expérience de l'outil en question.
 
-## Prochaines étapes 
+R﻿OMIN s'intègre à l'environnement professionnel des agents et constitue un équipement supplémentaire de soutien technique, en coordination avec les solutions existantes.
 
-Rédaction des premières fiches outils par des CPIP de terrain essentiellement.
+## Prochaines étapes
 
-Construction d'un premier portail numérique de test.
+**R﻿OMIN est en ligne** et accessible aux premiers utilisateurs. Leurs retours permettent le développement des correctifs requis et des fonctionnalités adaptées à leurs besoins de terrain.
 
-Expérimentation auprès de 4 SPIP
+ROMIN donne accès à plusieurs outils ciblés pour chaque facteur de risque de récidive. Le volume des outils accessible continue de grandir en permanence. Sous peu, au-delà des **outils mobilisables en entretien individuel**, ROMIN donnera accès aux différents **programmes** connus et valorisera les *supports dont l'impact positif a été démontré*. Les méthodes d'intervention courantes seront explicitées de façon synthétique afin de permettre aux agents de gagner en fluidité dans leurs interventions.
 
-◻ Evaluation de l'appropriation de ROMIN par les CPIP et correction
+Au-delà des 3 premiers SPIP embarqués dans l'expérimentation de ROMIN, de nombreux professionnels en SPIP partout en France testent individuellement l'expérience ROMIN. Le déploiement de la solution numérique à l'échelle nationale mobilisera d'abord les professionnels les plus motivés avant de s'étendre à l'ensemble des agents.
+
+**L'impact de ROMIN** se mesure via les données statistiques de consultation auxquelles sont combinées les retours qualitatifs des utilisateurs. ROMIN accompagne le.a CPIP dans le déroulé de l'accompagnement de la personne condamnée. Au-delà, les professionnels chargés du soutien technique (DPIP, psychologues en SPIP et unités de soutien métier comme en DISP notamment) valorisent les données issues de ROMIN pour une satisfaction optimale des besoins des professionnels de terrain. 
+
+L﻿a communauté d'utilisateurs invite à une **extension de l'objet de ROMIN** de la phase d'intervention à l'ensemble de l'accompagnement et particulièrement à la *phase d'évaluation* du profil des personnes condamnées. De même, le besoin d'équipement des agents en supports pratiques facilitant l'*organisation de leur activité* sera satisfait via ROMIN.
