@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Malt
 startups:
-  - mission-transition-ecologique
+  - transition-ecologique-des-entreprises
 memberType: beta
 ---
 
