@@ -11,10 +11,12 @@ guard:
 	$(DOCKER-RUN) web $(BUNDLE-EXEC) guard
 dsl:
 	$(DOCKER-RUN) web ./bin/beta-rb
-up: down
-	docker-compose up -d
+up:
+	docker-compose up
 down:
 	docker-compose down
+sh:
+	$(DOCKER-RUN) web bash
 rm:
 	docker-compose rm -sf
 up-nginx: down-nginx
