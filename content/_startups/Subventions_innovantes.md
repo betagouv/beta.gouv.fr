@@ -4,8 +4,7 @@ mission: Renforcer la place des PME et l'impact dans les subventions de l'Etat
 sponsors:
   - /organisations/dinum
 incubator: dinum
-contact: 
-- benjamin.doberset@beta.gouv.fr
+contact: benjamin.doberset@beta.gouv.fr
 usertypes:
   - entreprise
 phases:
