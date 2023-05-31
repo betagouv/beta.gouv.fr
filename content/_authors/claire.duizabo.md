@@ -1,6 +1,6 @@
 ---
 fullname: Claire Duizabo
-role: Coach growth pour le programme FAST
+role: Expert pour le programme FAST
 domaine: Coaching
 missions:
   - start: 2023-01-09
@@ -12,7 +12,6 @@ startups:
   - 1000.premiers.jours.blues
   - datagir
   - nosgestesclimat
-
 ---
 
 
