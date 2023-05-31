@@ -1,6 +1,6 @@
 ---
 fullname: Julianne Lagadec
-role: Responsable des partenariats
+role: Responsable des relations publiques
 domaine: Déploiement
 github: Julianne-Lagadec
 link: https://fr.linkedin.com/in/julianne-lagadec
