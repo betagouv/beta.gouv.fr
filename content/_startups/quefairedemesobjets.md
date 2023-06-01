@@ -23,7 +23,14 @@ Pour se désencombrer et consommer de manière plus responsable, les citoyens co
 
 Si le recyclage des principaux emballages est désormais bien connu, il est loin d’être généralisé pour tous les objets. De plus, les pratiques de réparation et de partage peinent à s’inscrire de manière pérenne dans les pratiques de citoyens.
 
-Parallèlement, le dispositif des filières de *Responsabilité élargie du producteur* (REP) continue de s’élargir : on comptera ainsi en France 24 filières REP dont la mise en œuvre s’effectue progressivement d’ici fin 2025. Inspiré du principe « pollueur-payeur », le dispositif de REP implique que les acteurs économiques (fabricants, distributeurs, importateurs) sont responsables de l’ensemble du cycle de vie des produits qu’ils mettent sur le marché : produits : l’éco-conception des produits, la prévention des déchets, l’allongement de la durée d’usage, la gestion de fin de vie.
+Parallèlement, le dispositif des filières de *Responsabilité élargie du producteur* (REP) continue de s’élargir : on comptera ainsi en France 24 filières REP dont la mise en œuvre s’effectue progressivement d’ici fin 2025.
+
+Inspiré du principe « pollueur-payeur », le dispositif de REP implique que les **acteurs économiques** (fabricants, distributeurs, importateurs) sont **responsables de l’ensemble du cycle de vie des produits** qu’ils mettent sur le marché : 
+
+* l’éco-conception des produits,
+* la prévention des déchets,
+* l’allongement de la durée d’usage,
+* la gestion de fin de vie.
 
 ## Solution 💡
 
