@@ -39,7 +39,7 @@ A terme, les professionnels pourront réaliser d'autres démarches administrativ
 Ce portail facilitera :
 
 * les démarches administratives pour les aquaculteurs
-* la mise en œuvre des missions de planification et de gestion durable du domaine publique maritime, des DDTM
+* la mise en œuvre des missions de planification et de gestion durable du domaine public maritime, des DDTM
 * améliorer les politiques aquacoles du territoire
 * la transmission de données plus qualitatives auprès des instances européennes 
 
