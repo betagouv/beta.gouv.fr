@@ -11,6 +11,8 @@ missions:
 previously:
   - locatio
   - tchap
+teams:
+  - /teams/communaute-dinum
 badges:
   - segur
 ---
