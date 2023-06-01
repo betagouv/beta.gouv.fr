@@ -9,7 +9,7 @@ missions:
   - start: 2020-01-19 
     end: 2023-12-31 
     status: independent
-    employer: octo
+    employer: Malt
 startups: 
   - transition-ecologique-des-entreprises
 previously:

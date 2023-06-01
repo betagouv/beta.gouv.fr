@@ -92,6 +92,15 @@ mapping:
             - /organisations/sndv
             - /organisations/solidarite-sante
             - /organisations/urssaf
+  "fast":
+    type: map
+    mapping:
+      "promotion":
+        type: int
+        required: yes
+      "montant":
+        type: int
+        required: yes
   "events":
     type:      seq
     sequence:
