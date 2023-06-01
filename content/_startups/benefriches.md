@@ -2,9 +2,9 @@
 title: BENEFRICHES
 mission: >-
   Fournir une solution numérique de calcul des impacts positifs de la 
-  reconversion de friches aux chargés d’opération d’aménagement pour favoriser
-  la prise de décision (pour tout type de projet d’aménagement)
-   et augmenter le nombre de reconversions
+  reconversion de friches aux chargés d’opération d’aménagement pour favoriser 
+  la prise de décision (pour tout type de projet d’aménagement) 
+  et augmenter le nombre de reconversions
 sponsors:
   - /organisations/ademe
 incubator: ademe
