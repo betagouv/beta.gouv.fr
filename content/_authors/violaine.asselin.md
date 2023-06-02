@@ -9,7 +9,6 @@ missions:
     status: admin
     employer: independent
 startups:
-    - pilotagevoiepro
 previously : 
     - tdb-apprentissage
     - sirius
