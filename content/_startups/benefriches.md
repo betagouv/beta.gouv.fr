@@ -1,7 +1,10 @@
 ---
 title: BENEFRICHES
-mission: Faire prendre conscience des retombées socio-économiques de la
-  reconversion de friches pour augmenter le nombre de ces projets
+mission: >-
+  Fournir une solution numérique de calcul des impacts positifs de la 
+  reconversion de friches aux chargés d’opération d’aménagement pour favoriser 
+  la prise de décision (pour tout type de projet d’aménagement) 
+  et augmenter le nombre de reconversions
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -12,9 +15,9 @@ usertypes:
 phases:
   - name: investigation
     start: 2023-01-03
-    end: 2023-03-31
-    
-    
+    end: 2023-04-05
+  - name: construction
+    start: 2023-04-05
 ---
 ## Contexte
 Le renouvellement urbain et notamment la reconquête des friches est une opportunité pour atteindre les objectifs de zéro artificialisation nette.
@@ -24,7 +27,12 @@ Ainsi de nombreux projets restent bloqués et la consommation d’espaces nature
 L’outil BENEFRICHES a été développé pour quantifier et monétariser ces effets et retombées positifs afin que les acteurs de l’aménagement, au premier rang desquels les collectivités, en prennent conscience et les utilisent dans la prise de décision.
 
 ## Investigation
-Les hypothèses à investiguer :
-Est-ce que la quantification des impacts environnementaux et bénéfices socio-économiques, positifs d’un projet est-elle de nature à augmenter le nombre de projet de reconversion de friches ?
-Quels autres besoins ont les collectivités et acteurs de l’aménagement ?
-L’outil BENEFRICHES est-il adapté pour y répondre ?
+Cette phase a montré que les acteurs de l’aménagement ne réhabilitent pas suffisamment de friches, jugées onéreuses, complexes et sans plus-value.
+Aucun outil ne met en lumière les impacts de leurs projets pour prendre une décision objective, éclairée et à 360°.
+
+
+## Construction
+Fournir une solution numérique de calcul des impacts positifs de la reconversion de friche aux chargés d’opération d’aménagement
+pour favoriser la prise de décision pour tout type de projet d’aménagement.
+Il s'agit de concrétiser l’outil BENEFRICHES avec  une architecture numérique fonctionnelle, une interface validée par les utilisateurs, un service opérationnel sur le périmètre, et d'en démarrer le déploiement.
+

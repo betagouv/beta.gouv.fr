@@ -5,11 +5,12 @@ domaine: Développement
 github: JulieMoncorger
 missions:
   - start: 2023-01-19
-    end: 2023-06-30
+    end: 2023-12-31
     status: independent
+    employer: Malt
 startups:
   - sppnaut
 memberType: beta
 ---
 
-Couteau suisse avec des connaissances en cartographie, qualité de service, programmation python et php, développement produit, MOA. 
+Couteau suisse avec des connaissances en cartographie, qualité de service, programmation python et php, développement produit, MOA.

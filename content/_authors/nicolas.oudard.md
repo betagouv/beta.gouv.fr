@@ -6,9 +6,9 @@ link: http://blog.oudard.org
 github: kolok
 missions:
   - start: 2021-06-28
-    end: 2023-06-30
+    end: 2023-12-31
     status: independent
-    employer: Scopyleft
+    employer: Malt
 startups:
   - apilos
   - sppnaut
