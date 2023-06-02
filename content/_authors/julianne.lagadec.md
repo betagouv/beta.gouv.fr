@@ -12,7 +12,6 @@ missions:
 startups:
   - sirius
   - expositionIJ
-  - pilotagevoiepro
 previously:
   - voeux-apprentissage
   - dematapprentissage
