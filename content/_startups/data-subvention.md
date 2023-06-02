@@ -60,7 +60,7 @@ Pour cela, l'équipe collecte les données disponibles dans les différents outi
 
 Elle développe également une API pour exposer ces données, favoriser l’interopérabilité entre les outils, la réutilisation des données et ainsi réduire les répétitions et les problèmes d’actualisation de ces informations.
 
-## Stratégie de déploiement
+## Stratégie pour le déploiement
 
 La startup recrute ses premiers utilisateurs parmi les agents de l'Etat qui recourent déjà à des outils de dématérialisation existants permettant la gestion des demandes de subvention, pour lesquels la solution vient en complément de ces outils.
 
