@@ -25,4 +25,4 @@ Si la supervision de la loyauté et de la qualité (respect des normes d’étiq
 
 ## Investigation en cours
 
-Nous contacter : emmanuelle.mirales@agriculture.gouv.fr, caroline.viste-martin@agriculture.gouv.fr et jennifer.stephan@beta.gouv.fr
+Nous contacter : emmanuelle.miralles@agriculture.gouv.fr, caroline.viste-martin@agriculture.gouv.fr et jennifer.stephan@beta.gouv.fr
