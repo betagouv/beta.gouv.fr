@@ -1,6 +1,6 @@
 ---
 fullname: Alice Andres
-role: Portage
+role: Développeuse
 domaine: Autre
 github: alice-telescoop
 missions:
