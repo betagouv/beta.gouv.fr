@@ -1,7 +1,6 @@
 ---
 title: Data.Subvention
-mission: Améliorer le pilotage des subventions de l’État des associations et
-  simplifier leurs démarches
+mission: Rassembler les informations sur les associations et leurs subventions pour simplifier la vie des associations et des agents publics
 sponsors:
   - /organisations/djepva
 incubator: dinum
@@ -11,10 +10,13 @@ contact: contact@datasubvention.beta.gouv.fr
 usertypes:
   - association
   - etat
+stats: true
+stats_url: https://blog.datasubvention.beta.gouv.fr/statistiques/
+dashlord_url: https://dashlord.incubateur.net/tag/data-subvention/
 phases:
   - name: construction
     start: 2022-01-03
-    end: 2022-11-15
+    end: 2023-07-15
 ---
 ## Contexte
 
@@ -64,7 +66,7 @@ Elle développe également une API pour exposer ces données, favoriser l’inte
 
 La startup recrute ses premiers utilisateurs parmi les agents de l'Etat qui recourent déjà à des outils de dématérialisation existants permettant la gestion des demandes de subvention, pour lesquels la solution vient en complément de ces outils.
 
-Elle déploie aussi la solution dans deux régions pilotes - l'Occitanie et les Pays de la Loire - au sein desquelles elle propose à tous les agents qui sont concernés ou intéressés par l'attribution de subventions à des associations de tester l'outil et de participer à son amélioration.
+Elle déploie aussi la solution dans cinq régions pilotes - l'Occitanie, les Pays de la Loire, la Nouvelle-Aquitaine, la Bretagne et les Hauts-de-France - au sein desquelles elle propose à tous les agents qui sont concernés ou intéressés par l'attribution de subventions à des associations de tester l'outil et de participer à son amélioration.
 
 Elle travaille aussi à la mise en place d'un schéma de données harmonisé concernant les demandes de subvention et les données d'information sur les associations.
 
