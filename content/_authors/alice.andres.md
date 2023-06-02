@@ -10,6 +10,8 @@ missions:
     employer: TelesCoop
 badges:
   - segur
+startups:
+  - data-subvention
 ---
 
 Développeuse chez TelesCoop
