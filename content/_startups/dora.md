@@ -2,7 +2,7 @@
 mission: "Recenser, mettre en visibilité et faciliter la prescription de services d'insertion, adaptés aux besoins des bénéficiaires"
 incubator: gip-inclusion
 repository: https://github.com/betagouv/dora/
-contact: dora@beta.gouv.fr
+contact: contact@dora.inclusion.beta.gouv.fr
 accessibility_status: non conforme
 usertypes:
   - association
