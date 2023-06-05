@@ -10,7 +10,8 @@ missions:
     employer: DINUM
   - status: independent
     start: 2021-07-05
-    end: 2023-06-30
+    end: 2024-06-30
+incubator: ademe
 startups:
   - impact.co2
 previously:
