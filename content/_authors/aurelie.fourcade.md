@@ -1,5 +1,5 @@
 ---
-fullname: Aurélie Favart
+fullname: Aurélie Fourcade
 role: Product Manager
 domaine: Produit
 github: aufavart
