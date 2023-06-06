@@ -1,5 +1,6 @@
 ---
-fullname: Aurélie DEPERNET
+fullname: Aurélie Depernet
+github: Aurelie55
 role: Chargée de déploiement
 domaine: Déploiement
 missions:
