@@ -35,7 +35,7 @@ fast:
     target: /fast/éligibilité
   -
     label: Jury du FAST
-    target: /fast/jury
+    target: /fast/comité
   -
     label: Pendant le FAST
     target: /fast/déroulement

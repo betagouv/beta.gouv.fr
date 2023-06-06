@@ -5,7 +5,7 @@ domaine: Design
 link: https://hyronimus.com/book
 missions:
   - start: 2022-11-21
-    end: 2023-06-30
+    end: 2024-01-31
     status: independent
     employer: Malt
 startups:

@@ -10,7 +10,8 @@ missions:
 startups:
   - signalement
   - monstage
-
+previously:
+  - commun.orientation
 ---
 
 

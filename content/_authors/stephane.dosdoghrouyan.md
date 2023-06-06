@@ -5,7 +5,7 @@ domaine: Produit
 link: https://www.linkedin.com/in/stephane-dosdoghrouyan/
 missions:
   - start: 2023-04-03
-    end: 2023-06-30
+    end: 2023-12-31
     status: independent
     employer: Incubateur des territoires
 memberType: beta

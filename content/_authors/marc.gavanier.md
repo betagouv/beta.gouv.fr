@@ -6,7 +6,7 @@ github: marc-gavanier
 link: https://registry.jsonresume.org/marc-gavanier
 missions:
   - start: 2021-09-15
-    end: 2023-05-30
+    end: 2023-09-30
     status: independent
     employer: Octo
 startups:
@@ -19,7 +19,6 @@ competences:
   - Développement Backend
   - UI
   - Administration Système
-
 ---
 >-
   En tant qu'artisan du logiciel, j'apporte le maximum de valeur aux

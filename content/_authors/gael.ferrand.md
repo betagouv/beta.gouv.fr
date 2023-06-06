@@ -5,12 +5,11 @@ domaine: Développement
 github: GaelFerrand
 missions:
   - start: 2022-11-28
-    end: 2023-05-27
+    end: 2023-08-27
     status: independent
     employer: Malt
 startups:
   - trackdechets
-
 ---
 
 

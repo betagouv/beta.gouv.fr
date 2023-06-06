@@ -1,17 +1,20 @@
 ---
 fullname: Anne Poirot
 domaine: Produit
-role: Chargée de produit
+role: Responsable de portefeuille
 github: annepoirot
 missions:
   - start: 2020-04-03
-    end: 2023-06-01
+    end: 2023-04-01
     status: independent
     employer: littlebigconnection
-startups:
-  - recosante
+  - start: 2023-05-01
+    end: 2023-10-01
+    status: independent
+    employer: numa
 previously:
   - labels-transition
+  - recosante
 competences:
   - Gestion de Produit
 ---

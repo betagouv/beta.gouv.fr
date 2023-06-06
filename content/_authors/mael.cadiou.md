@@ -9,7 +9,6 @@ missions:
     employer: ''
 startups:
   - anct-pni-46
-  - Mon-suivi-social
 memberType: beta
 
 ---

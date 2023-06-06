@@ -8,8 +8,6 @@ phases:
       start: 2020-09-01
     - name: construction
       start: 2021-04-01
-    - name: acceleration
-      start: 2021-12-01
 usertypes:
   - etat
   - entreprise

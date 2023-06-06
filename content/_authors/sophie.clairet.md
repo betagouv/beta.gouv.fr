@@ -5,7 +5,7 @@ role: Chargée de déploiement
 link: https://geosophie.eu
 missions:
   - start: 2020-09-01
-    end: 2023-06-30
+    end: 2023-12-21
     status: independent
     employer: Living Data
 startups:

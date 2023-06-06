@@ -6,9 +6,10 @@ github: AndyBarakat
 missions:
   - start: 2022-11-22
     end: 2026-03-01
-    status: independent
-    employer: Mission Numerique DGALN
-
+    status: admin
+    employer: MTE-MCTRCT-Mer - DGALN
+teams:
+  - /teams/mtes
 ---
 
 

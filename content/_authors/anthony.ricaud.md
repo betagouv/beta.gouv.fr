@@ -6,9 +6,9 @@ link: https://ricaud.me
 github: Rik
 missions:
   - start: 2022-02-21
-    end: 2023-06-30
+    end: 2023-12-31
     status: independent
-    employer: BENEXT
+    employer: Malt
 startups:
   - sppnaut
 ---

@@ -31,20 +31,20 @@ missions:
     status: independent
     employer: ANCT
   - start: 2021-10-25
-    end: 2023-06-30
+    end: 2023-12-31
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
 startups:
-    - open-terms-archive
-    - openfisca
+  - open-terms-archive
+  - openfisca
 previously:
-    - mes-aides
-    - mon-entreprise
-    - fiches-de-banc
-    - api.gouv.fr
-    - openfisca
-    - disinfo
-    - aides.jeunes
+  - mes-aides
+  - mon-entreprise
+  - fiches-de-banc
+  - api.gouv.fr
+  - openfisca
+  - disinfo
+  - aides.jeunes
 ---
 
 Ingénieur transdisciplinaire. Sceptique des aphorismes autobiographiques.

@@ -4,7 +4,7 @@ mission: >-
   fins de contrôle et de sûreté
 incubator: dinum
 repository: https://gitlab.mim-libre.fr/sndv-maritime/moana
-contact: victor.grange@beta.gouv.fr
+contact: andv-moana@interieur.gouv.fr
 usertypes:
   - etat
 title: ANDV - Maritime - MOANA
@@ -27,9 +27,9 @@ phases:
 
 ## Contexte
 
-L'agence nationale des données de voyage (ANDV), service à compétence nationale interministériel, est en charge de l’amélioration des dispositifs de collecte et traitement des données de voyages à des fins régaliennes. En France, plus de 30 millions de personnes franchissent les frontières maritimes chaque année, hors pandémie. Les transports maritimes (ferries, cargo, croisière, plaisance), font l’objet d’obligations réglementaires de déclaration de données de voyage aux autorités portuaires. 
+L'agence nationale des données de voyage (ANDV), service à compétence nationale interministériel, est en charge de l’amélioration des dispositifs de collecte et traitement des données de voyages à des fins régaliennes. En France, plus de 30 millions de personnes franchissent les frontières maritimes chaque année, hors pandémie. Les transports maritimes (cargo, croisière, ferries font l’objet d’obligations réglementaires de déclaration de données de voyage aux autorités portuaires. 
 
-L’objet des travaux de la start-up d’Etat est d’améliorer le traitement de ces données, transmises dans ce cadre.
+L’objet des travaux de la start-up d’Etat est d’améliorer le traitement de ces données transmises dans ce cadre.
 
 ## Investigation préalable
 
@@ -41,7 +41,7 @@ Les activités de contrôle aux frontières sont soumises à des exigences de fl
 
 ## Solution proposée
 
-La solution vise à aligner les usages de la donnée de voyage sur les meilleures pratiques des services utilisateurs, et de permettre aux entités locales des différents ministères de partager des informations utiles pour leurs contrôles. 
+La solution vise à aligner les usages de la donnée de voyage sur les meilleures pratiques des autorités compétentes, et de permettre aux autorités locales des différents ministères de partager des informations utiles pour leurs contrôles. 
 
 ## Stratégie
 

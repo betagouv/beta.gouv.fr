@@ -2,10 +2,10 @@
 fullname: Claire ARNAUD
 role: Product Designer
 domaine: Design
-link:
+link: null
 missions:
   - start: 2022-04-11
-    end: 2023-06-30
+    end: 2023-12-31
     status: independent
     employer: UT7
 startups:

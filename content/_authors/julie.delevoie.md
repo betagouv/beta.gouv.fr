@@ -5,12 +5,12 @@ domaine: Déploiement
 github: juliedelevoie
 missions:
   - start: 2022-07-06
-    end: 2023-06-30
+    end: 2023-03-01
     status: independent
   - start: 2023-03-08
-    end: 2023-12-31
+    end: 2023-03-31
     status: independent    
-startups:
+previously:
   - mon-entreprise
   - dora
 ---

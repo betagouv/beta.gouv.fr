@@ -16,11 +16,14 @@ phases:
 usertypes:
   - collectivite-territoriale
   - etat
+fast:
+  promotion: 12
+  montant: 30000
 ---
 
 ## Contexte
 
-Tchap s'est lancé en avril 2018 et compte aujourd'hui 235 000 utilisateurs. L'application est disponible sur Android, iOS et le web. Tchap est à destination de l'ensemble des agents des trois fonctions publiques (territoriale, hospitalière et centrale). 
+Tchap s'est lancé en avril 2018 et compte aujourd'hui 235 000 utilisateurs. L'application est disponible sur Android, iOS et le web. Tchap est à destination de l'ensemble des agents des trois fonctions publiques (territoriale, hospitalière et centrale).
 
 En mai 2021, BetaGouv reprend Tchap pour accompagner l'équipe dans son accélération.
 
@@ -30,14 +33,14 @@ Le besoin de messagerie instantanée entre agents publics se développe. Ils ont
 
 ## Solution
 
-Logiciel de messagerie sécurisé qui met en relation les agents publics entre eux via un annuaire sécurisé. Il permet la création de salons privés et de forums publics thématiques, ainsi que l'échange direct entre deux personnes. 
+Logiciel de messagerie sécurisé qui met en relation les agents publics entre eux via un annuaire sécurisé. Il permet la création de salons privés et de forums publics thématiques, ainsi que l'échange direct entre deux personnes.
 
 ## Stratégie
 
-* Faciliter la maintenance de l'application en automatisant au maximum les procédures. 
-* Industrialiser la demande d'ajout de domaines autorisés. 
-* Concevoir une stratégie de déploiement envers les administrations non présentes sur Tchap. 
-* Proposer un jeu d'API pour l'interopérabilité de Tchap avec des services externes. 
+* Faciliter la maintenance de l'application en automatisant au maximum les procédures.
+* Industrialiser la demande d'ajout de domaines autorisés.
+* Concevoir une stratégie de déploiement envers les administrations non présentes sur Tchap.
+* Proposer un jeu d'API pour l'interopérabilité de Tchap avec des services externes.
 
 
 ## Indicateurs d'impact
@@ -45,4 +48,4 @@ Les indicateurs d'impact pour Tchap sont les utilisateurs actifs (une connexion 
 Le proxy actuel pour les utilisateurs actifs sont les inscriptions.
 
 Objectif décembre 2021 : 500 000 inscriptions et 6 millions de messages par mois.
-Objectif du produit : 2 millions d'utilisateurs actifs. 
+Objectif du produit : 2 millions d'utilisateurs actifs.

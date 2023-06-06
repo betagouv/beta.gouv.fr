@@ -6,12 +6,12 @@ sponsors:
   - /organisations/mtei
 incubator: gip-inclusion
 link: https://immersion-facile.beta.gouv.fr/
-repository: https://github.com/betagouv/l-immersion-facile
+repository: https://github.com/gip-inclusion/immersion-facile
 contact: contact@immersion-facile.beta.gouv.fr
 analyse_risques: true
 accessibility_status: partiellement conforme
 stats: true
-stats_url: https://immersion-facile-1.gitbook.io/la-page-stats-de-immersion-facilitee/mXyCG0khRml5mCWUU0Pe/la-mesure-de-limpact-dimmersion-facilitee
+stats_url: https://immersion-facile.beta.gouv.fr/stats
 phases:
   - name: construction
     start: 2021-07-16
