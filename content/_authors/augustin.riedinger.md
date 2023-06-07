@@ -11,7 +11,7 @@ missions:
     status: independent
   - status: independent
     start: 2021-09-08
-    end: 2023-07-01
+    end: 2023-12-31
 startups:
   - reva
 previously:
