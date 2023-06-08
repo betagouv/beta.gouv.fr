@@ -13,4 +13,4 @@ startups:
 competences:
   - Gestion de Produit
 ---
-Je ne perds jamais. Soit je gagne, soit j’apprends (Nelson Mandela)
+Heureuse de participer à ce beau projet et d’apporter ma pierre à l’édifice. Ma devise : Je ne perds jamais. Soit je gagne, soit j’apprends. (Nelson Mandela)
