@@ -1,5 +1,5 @@
 ---
-fullname: Sandrine CASSES
+fullname: Sandrine Casses
 domaine: Déploiement
 role: Lead Equipe Support
 github: Sandrine12510
@@ -13,3 +13,4 @@ startups:
 competences:
   - Gestion de Produit
 ---
+Je ne perds jamais. Soit je gagne, soit j’apprends (Nelson Mandela)
