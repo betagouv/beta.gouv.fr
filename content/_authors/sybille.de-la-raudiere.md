@@ -1,8 +1,8 @@
 ---
 fullname: Sybille de La Raudière
-domaine: Déploiement
 role: Chargée de déploiement
-link: https://www.linkedin.com/in/sybilledlr/
+domaine: Déploiement
+github: sybilledlr-beta
 missions:
   - start: 2022-07-05
     end: 2024-06-30
