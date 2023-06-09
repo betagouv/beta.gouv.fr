@@ -43,12 +43,18 @@ Cette (re)mise en perspective des chiffres dans leur contexte, et leur intelligi
 * **Associations** (festivals culturels, challenges citoyens,…)
 * **Pouvoirs publics** (Secrétariat général à la Planification écologique via France Nation Verte,…).
 
+Les ressources disponibles sur Impact CO2 se présentent sous différentes formes : **simulateurs, comparateurs, graphiques, infographies**, etc. 
+
 Nos objectifs pour nos relais sont :
 
 * **Vulgariser l’information environnementale** et communiquer les bons ordres de grandeur relatifs à l’empreinte carbone ;
 * **Tracer, enrichir et valoriser les données sources utilisées** afin de garantir la validité des calculs et leur mise à disposition ;
-* **Outiller nos réutilisateurs** avec des ressources personnalisables sur un large panel de thématiques (Alimentation, Transport, Numérique, Chauffage, etc.) et les fidéliser par le maintien d’une base de contacts privilégiés ; 
+* **Outiller et fidéliser nos réutilisateurs** avec des ressources personnalisables sur un large panel de thématiques (Alimentation, Transport, Numérique, Chauffage, etc.) ; 
 * **Faciliter la diffusion et/ou l’intégration de nos ressources** à de nouveaux contenus de sensibilisation.
+
+Les données sur lesquelles sont basées les ressources sont en *open data* : [jeux de données ouverts de l'ADEME](https://data.ademe.fr/), [](<https://librairie.ademe.fr/>)[études de l'ADEME](https://librairie.ademe.fr/), [base Empreinte](https://base-empreinte.ademe.fr/) et [base Agribalyse](<https://agribalyse.ademe.fr/>).
+
+Le code source du site et la méthodologie de calcul sont entièrement open source et accessibles sur notre [repo GitHub](https://github.com/datagir/impactco2).
 
 ## Stratégie 📈
 
@@ -61,7 +67,7 @@ L'approche est simple :
 * **Toucher les pôles RSE, directions de l’Engagement ou directions Communication des grands groupes et startups Green Tech** ayant entrepris un virage écologique ou désireux de le faire ;
 * **Proposer des formats innovants pour les créateurs et créatrices de contenus** qui abordent l’écologie par les sujets du quotidien auprès d'une cible citoyenne (Instagram, YouTube, etc.).
 
-## Impact 🎯 
+## Impact 🎯
 
 Impact CO2 est un service numérique conçu selon l’**approche Startup d’État** et piloté par l’impact.
 
@@ -98,6 +104,6 @@ Impact CO2 est un service numérique conçu selon l’**approche Startup d’Ét
   * Nombre d’impressions et de partages des posts ;
   * Nombre de mentions d’Impact CO2.
 
-Aujourd'hui, une grande partie de ces métriques d’usage et d’impact sont suivies grâce aux outils Matomo et Hotjar, et une partie d’entre elles est déjà disponible sur la [page de statistiques de Datagir](<https://datagir.ademe.fr/stats/>) (menu déroulant “Impact CO2”). Suite à la fin de Datagir et sa séparation en 2 Startups d'État distinctes, nous souhaitons refondre cette page existante et l'intégrer au site Impact CO2. 
+Aujourd'hui, une grande partie de ces métriques d’usage et d’impact sont suivies grâce aux **outils Matomo et Hotjar**, et une partie d’entre elles est déjà disponible sur la [page de statistiques de Datagir](https://datagir.ademe.fr/stats/) (menu déroulant “Impact CO2”). Suite à la fin de Datagir et sa séparation en 2 Startups d'État distinctes, nous souhaitons refondre cette page existante et l'intégrer au site Impact CO2. 
 
 Un **comité d'investissement**, instance de pilotage principal d'un produit numérique dans le programme beta.gouv.fr, aura lieu tous les 6 mois pour faire le point sur l'impact obtenu par l'équipe et arbitrer sur les objectifs et les investissements consentis pour la poursuite du service.
