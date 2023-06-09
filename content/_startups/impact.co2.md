@@ -18,23 +18,23 @@ phases:
   - name: success
     start: 2022-10-01
 ---
+![](/img/netlifycms/capture.d.e.cran.2023-06-09.a.23.07.15.png)
+
 ## Problème 👀
 
-L’environnement est un **sujet fort et complexe**, de plus en plus adressé sur la scène publique et médiatique, au risque de se retrouver parfois noyé sous un flot d’actualités qui ne facilite pas sa *bonne compréhension* par le grand public.
+L’environnement est un **sujet fort et complexe**, de plus en plus adressé sur la scène publique et médiatique, au risque de se retrouver parfois noyé sous un flot d’actualités qui ne facilite pas sa bonne compréhension par le grand public.
 
 Sur la **thématique de l'impact carbone**, une démarche de compréhension et d'appropriation des données scientifiques est nécessaire pour tous les acteurs qui diffusent de l’information et sensibilisent les citoyens et citoyennes (médias, entreprises, politiques, associations, Éducation, etc.).
 
-Sans expertise ou connaissance forte sur le sujet, cela implique une barrière à l'entrée et un **travail chronophage et fastidieux de retraitement des données** - lorsqu'elles sont accessibles ouvertement et gratuitement - pour les exploiter afin d’en retirer des enseignements à diffuser à leurs cibles directes.
+Sans expertise ou connaissance forte sur le sujet, cela implique une barrière à l'entrée et un **travail chronophage de retraitement des données** - lorsqu'elles sont accessibles ouvertement et gratuitement - pour les exploiter afin d’en retirer des enseignements à diffuser à leurs cibles directes.
 
-En outre, face à la **pluralité des canaux d’information et des formats de communication**, ces acteurs, qui sont des accélérateurs de la transition écologique à l’œuvre, témoignent d'une difficulté à trouver les bonnes ressources adaptées à leur contenu. Or, toute la pertinence et la validité des messages diffusés dépendent de l’accès à une **information scientifique de qualité, ouverte, sourcée, à jour et fiabilisée**.
+En outre, face à la **pluralité des canaux d’information et des formats de communication**, ces acteurs, qui sont des accélérateurs de la transition écologique, témoignent d'une difficulté à trouver les bonnes ressources adaptées à leur contenu. Or toute la pertinence et la validité des messages diffusés dépendent de l’accès à une **information scientifique de qualité, ouverte, sourcée, à jour et fiabilisée**.
 
 L’exemple du numérique est relativement parlant : multiplié par des milliards d’envois, l’impact des e-mails à l’échelle planétaire est nécessairement important. Pour autant, cette information, même chiffrée en tonnes de CO2e, détourne les citoyens des enjeux de taille : garder son smartphone le plus longtemps possible si l’on reste dans le secteur du numérique, ou manger moins de viande si l’on élargit le spectre (30 To de mails stockés 1 an émettent autant que 1 repas au bœuf).
 
 Cette (re)mise en perspective des chiffres dans leur contexte, et leur intelligibilité pour des usages "grand public", est un élément clé de la mobilisation collective. Pouvoir s’emparer rapidement des sujets de la transition écologique grâce à des **ressources à la fois pédagogiques, paramétrables et contextualisées** est donc aujourd’hui un enjeu-clé pour tous ces acteurs.
 
 ## Solution 💡
-
-![](/img/netlifycms/capture.d.e.cran.2023-06-09.a.22.14.06.png)
 
 [impactCO2.fr](http://impactco2.fr/) ambitionne d'être une **bibliothèque de ressources de référence** pour les acteurs qui sont à la recherche de contenus informatifs didactiques et fiabilisés sur l’empreinte carbone : 
 
@@ -52,9 +52,7 @@ Nos objectifs pour nos relais sont :
 * **Outiller et fidéliser nos réutilisateurs** avec des ressources personnalisables sur un large panel de thématiques (Alimentation, Transport, Numérique, Chauffage, etc.) ; 
 * **Faciliter la diffusion et/ou l’intégration de nos ressources** à de nouveaux contenus de sensibilisation.
 
-Les données sur lesquelles sont basées les ressources sont en *open data* : [jeux de données ouverts de l'ADEME](https://data.ademe.fr/), [](<https://librairie.ademe.fr/>)[études de l'ADEME](https://librairie.ademe.fr/), [base Empreinte](https://base-empreinte.ademe.fr/) et [base Agribalyse](<https://agribalyse.ademe.fr/>).
-
-Le code source du site et la méthodologie de calcul sont entièrement open source et accessibles sur notre [repo GitHub](https://github.com/datagir/impactco2).
+Les données sur lesquelles sont basées les ressources sont en *open data* : [jeux de données ouverts de l'ADEME](https://data.ademe.fr/), [](https://librairie.ademe.fr/)[études de l'ADEME](https://librairie.ademe.fr/), [base Empreinte](https://base-empreinte.ademe.fr/) et [base Agribalyse](https://agribalyse.ademe.fr/). Le code source du site et la méthodologie de calcul sont entièrement open source et accessibles sur notre [repo GitHub](https://github.com/datagir/impactco2).
 
 ## Stratégie 📈
 
@@ -62,10 +60,10 @@ Le code source du site et la méthodologie de calcul sont entièrement open sour
 
 L'approche est simple : 
 
-* **Développer des kits de diffusion à destination des cibles prioritaires** pour faciliter la prise en main et la diffusion des ressources disponibles sur le site (partages, téléchargements, *iframe*, etc.) ;
+* **Développer des kits de diffusion** à destination des cibles prioritaires pour faciliter la prise en main et la diffusion des ressources disponibles sur le site (partages, téléchargements, *iframe*, etc.) ;
 * **Entrer en contact avec des journalistes de médias grand public et spécialisés** à l’audience importante, et être à l’écoute de leurs besoins d’outillage au regard de leur calendrier éditorial ;
-* **Toucher les pôles RSE, directions de l’Engagement ou directions Communication des grands groupes et startups Green Tech** ayant entrepris un virage écologique ou désireux de le faire ;
-* **Proposer des formats innovants pour les créateurs et créatrices de contenus** qui abordent l’écologie par les sujets du quotidien auprès d'une cible citoyenne (Instagram, YouTube, etc.).
+* **Toucher les pôles RSE**, directions de l’Engagement ou directions Communication des grands groupes et startups Green Tech ayant entrepris un virage écologique ou désireux de le faire ;
+* **Proposer des formats innovants** pour les créateurs et créatrices de contenus qui abordent l’écologie par les sujets du quotidien auprès d'une cible citoyenne (Instagram, YouTube, etc.).
 
 ## Impact 🎯
 
