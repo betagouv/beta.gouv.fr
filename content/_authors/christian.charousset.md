@@ -8,7 +8,7 @@ missions:
     end: 2023-06-30
     status: independent
     employer: DINUM
-startups:
+previously:
   - trackdechets
 badges:
   - segur
