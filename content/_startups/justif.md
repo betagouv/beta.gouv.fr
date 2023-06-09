@@ -1,5 +1,6 @@
 ---
 title: Mon Suivi Justice
+link: https://mon-suivi-justice.beta.gouv.fr/
 mission: Diminuer les rendez-vous non-honorés des personnes placées sous main de justice
 sponsors:
   - /organisations/mj
@@ -21,6 +22,9 @@ phases:
     end: 2022-03-31
   - name: acceleration
     start: 2022-04-01
+fast:
+  promotion: 12
+  montant: 30000
 ---
 # **Éléments de contexte**
 
@@ -35,10 +39,10 @@ En première ligne de ce service public à forte dimension sociale, les **juges 
 
 La convocation à ces entretiens s’effectue majoritairement par **voie postale**.
 
-Ce suivi en milieu ouvert, volet essentiel de la politique pénale, sert deux enjeux majeurs :  
+Ce suivi en milieu ouvert, volet essentiel de la politique pénale, sert deux enjeux majeurs :
 
 * Permettre aux PPSMJ d’éviter l’incarcération ou le retour en détention ;
-*  Prévenir la récidive par la mise en place d’un parcours de réinsertion et, parallèlement, des mesures de contrôle des condamnés. 
+*  Prévenir la récidive par la mise en place d’un parcours de réinsertion et, parallèlement, des mesures de contrôle des condamnés.
 
 Mon Suivi Justice est la première start-up en phase d’accélération du ministère de la Justice.
 

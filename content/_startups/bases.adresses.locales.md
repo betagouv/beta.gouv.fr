@@ -16,6 +16,9 @@ phases:
   - name: construction
     start: 2020-09-01
     end: 2022-08-31
+fast:
+  promotion: 12
+  montant: 270000
 ---
 ## Pas d'adresse, pas de chocolat
 

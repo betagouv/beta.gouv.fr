@@ -7,8 +7,6 @@ missions:
     end: 2027-06-14
     status: service
     employer: OCTO
-startups:
-  - trackdechets
 badges:
   - segur
 ---
