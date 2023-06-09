@@ -32,10 +32,10 @@ startups:
     - datagir
     - urbanvitaliz
     - territoires-en-transitions
-    - ban
 previously:
     - transport
     - preuve-de-covoiturage
+    - ban
 teams:
   - /teams/animation-dinum
 ---
