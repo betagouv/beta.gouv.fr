@@ -16,7 +16,6 @@ startups:
   - aides-jeunes
   - aides.jeunes
 previously:
-  - trackdechets
   - e-controle
   - aides-territoires
   - AidESS-Relance
