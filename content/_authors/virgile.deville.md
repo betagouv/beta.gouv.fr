@@ -6,7 +6,7 @@ link: https://virgile-dev.github.io
 github: virgile-dev
 missions:
   - start: 2023-05-10
-    end: 2023-07-10
+    end: 2023-12-31
     status: independent
     employer: Numa
 memberType: beta
