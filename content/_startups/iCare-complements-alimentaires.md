@@ -1,6 +1,6 @@
 ---
-title: iCare
-mission: Accompagner les acteurices du marché des compléments alimentaires dans une démarche saine et respectueuse de la santé des consommateurices
+title: Teleicare 2.0
+mission: Fluidifier la déclaration des compléments alimentaires pour un meilleur respect de la réglementation et une transparence accrue au profit de la santé des consommateur-ices
 sponsors: 
   - /organisations/dgal
 incubator: dinum
