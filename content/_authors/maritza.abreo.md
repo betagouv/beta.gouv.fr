@@ -10,8 +10,7 @@ missions:
 startups:
   - 1000.jours
   - 1000.premiers.jours.blues
+  - experts
 competences:
   - Coaching
-previously:
-  - experts
 ---
