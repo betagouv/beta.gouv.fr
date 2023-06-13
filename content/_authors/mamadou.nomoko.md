@@ -4,8 +4,9 @@ role: Développeur
 domaine: Développement
 missions:
   - start: 2022-06-01
-    end: 2023-05-31
+    end: 2024-06-03
     status: independent
+    employer: ''
 ---
 
 Développeur fullstack du Lab Innovation du Ministère de la justice
