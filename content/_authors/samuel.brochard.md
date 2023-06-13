@@ -11,6 +11,8 @@ startups:
   - accesscite
 badges:
   - segur
+previously:
+  - accesscite
 ---
 
 Instructeur contrôleur accessibilité et sécurité, ancien élu et à l'occasion pratiquant le rugby...
