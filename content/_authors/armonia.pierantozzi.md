@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2021-11-09
-    end: 2023-10-30
+    end: 2023-12-30
     status: independent
     employer: ''
 badges:
