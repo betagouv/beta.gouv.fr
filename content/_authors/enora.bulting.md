@@ -10,11 +10,11 @@ missions:
 startups:
   - euphrosyne
   - collectif_objets
-  - locadocs
 competences:
   - UX
   - UI
-
+previously:
+  - locadocs
 ---
 
 Designer UX/UI

@@ -8,16 +8,16 @@ missions:
     status: independent
     employer: Benext
   - start: 2021-11-01
-    end: 2023-09-30
+    end: 2023-10-30
     status: independent
-    employer: Octo
+    employer: Malt
   - start: 2023-02-27
     end: 2023-09-30
     status: independent
     employer: Malt
 startups:
   - infoparquet
-  - dotations locales
+  - dotations-locales
 previously:
   - psyenfantado
   - monpsy

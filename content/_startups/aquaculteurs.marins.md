@@ -22,7 +22,7 @@ L’État souhaite améliorer tant la quantité que la qualité des déclaration
 
 ## Solution
 
-Grâce au portail des aquaculteurs marins, chaque entreprise exploitant sur le domaine publique maritime (DPM) pourra saisir chaque année ses données. Les DDTM pourront consulter ces données prévues par la réglementation (autorisation d'exploitation des cultures marines) et les valoriser dans leurs missions (contrôle, gestion des concessions, etc.). 
+Grâce au portail des aquaculteurs marins, chaque entreprise exploitant sur le domaine public maritime (DPM) pourra saisir chaque année ses données. Les DDTM pourront consulter ces données prévues par la réglementation (autorisation d'exploitation des cultures marines) et les valoriser dans leurs missions (contrôle, gestion des concessions, etc.). 
 
 A terme, les professionnels pourront réaliser d'autres démarches administratives et se réapproprier leurs données à des fins de gestion d'entreprise.
 
@@ -32,14 +32,14 @@ A terme, les professionnels pourront réaliser d'autres démarches administrativ
 * Agents des unités cultures marines (DDTM)
 * Bureau Aquaculture (DGAMPA) 
 * Service des Statistiques et de la Prospective (SSP/MASA)
-* Interprofession
+* Structures professionnelles
 
 ## Bénéfices
 
 Ce portail facilitera :
 
 * les démarches administratives pour les aquaculteurs
-* la mise en œuvre des missions de planification et de gestion durable du domaine publique maritime, des DDTM
+* la mise en œuvre des missions de planification et de gestion durable du domaine public maritime, des DDTM
 * améliorer les politiques aquacoles du territoire
 * la transmission de données plus qualitatives auprès des instances européennes 
 

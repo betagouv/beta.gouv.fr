@@ -13,10 +13,8 @@ missions:
     status: independent
     employer: Malt
 startups:
-  - aides-jeunes
   - aides.jeunes
 previously:
-  - trackdechets
   - e-controle
   - aides-territoires
   - AidESS-Relance

@@ -16,6 +16,9 @@ phases:
   - name: success
     start: 2022-06-13
     comment: Spin-off de Datagir
+fast:
+  promotion: 12
+  montant: 230000
 ---
 ## Contexte
 

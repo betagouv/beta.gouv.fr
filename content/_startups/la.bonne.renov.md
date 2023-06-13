@@ -1,6 +1,6 @@
 ---
 title: La Bonne Rénov'
-mission: "Encourager à la rénovation performante des logements "
+mission: 'Encourager à la rénovation performante des logements '
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -17,6 +17,9 @@ phases:
     end: 2022-09-01
   - name: construction
     start: 2022-11-01
+    end: 2023-06-07
+  - name: alumni
+    start: 2023-06-07
 ---
 ## Le contexte : 
 

@@ -17,6 +17,7 @@ incubator: sgmas
 startups:
   - mano
   - monpsy
+  - tdb-apprentissage
 previously:
   - eac
   - pop
@@ -24,6 +25,5 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
-
 ---
 ''

@@ -5,7 +5,7 @@ domaine: Déploiement
 github: Ariane-Rose
 missions:
   - start: 2020-09-01
-    end: 2023-06-29
+    end: 2023-12-31
     status: admin
     employer: ''
 startups:

@@ -1,6 +1,7 @@
 ---
 title: "Impact CO2 "
-mission: "Démocratiser et vulgariser les données environnementales de l'ADEME "
+mission: Le site internet qui vulgarise et valorise les données
+  environnementales de l'ADEME
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -17,77 +18,90 @@ phases:
   - name: success
     start: 2022-10-01
 ---
-## Constat 👀 
+![](/img/netlifycms/capture.d.e.cran.2023-06-09.a.23.07.15.png)
 
-L’environnement est un **sujet fort et complexe**, de plus en plus adressé sur la scène publique et médiatique, au risque de se retrouver parfois noyé sous un flot d’actualités qui ne facilite pas sa *bonne compréhension* par le grand public.
+## Problème 👀
 
-Pouvoir s’emparer rapidement des sujets de la transition écologique grâce à des **ressources expertes pédagogiques et faciles à prendre en main** est donc aujourd’hui un enjeu-clé pour tous les acteurs qui diffusent de l’information et sensibilisent les citoyens et citoyennes à ces thématiques (médias, entreprises, politiques, associations, Éducation, etc.).
+L’environnement est un **sujet fort et complexe**, de plus en plus adressé sur la scène publique et médiatique, au risque de se retrouver parfois noyé sous un flot d’actualités qui ne facilite pas sa bonne compréhension par le grand public.
 
-Face à la pluralité de canaux d’information et de formats de communication, trouver les *bonnes* *ressources* adaptées à son contenu n’est toutefois pas chose aisée. Or, toute la **pertinence et la validité des messages diffusés** dépendent de l’accès à une *information scientifique* de qualité, ouverte, sourcée, à jour et fiabilisée.
+Sur la **thématique de l'impact carbone**, une démarche de compréhension et d'appropriation des données scientifiques est nécessaire pour tous les acteurs qui diffusent de l’information et sensibilisent les citoyens et citoyennes (médias, entreprises, politiques, associations, Éducation, etc.).
 
-Par ailleurs, l’écologie est une thématique collective qui s’intègre de plus en plus dans les **sujets du quotidien** tels que la consommation, l’alimentation, le transport, le numérique etc., ce qui entraîne une abondance de messages dans lesquels il est souvent difficile de retrouver le *cœur du message* (ex. : quel moyen de transport utiliser pour se rendre à telle destination ? où réside l’essentiel de l'empreinte carbone d'un *smartphone*, entre la construction de l'appareil et son utilisation quotidienne ?).
+Sans expertise ou connaissance forte sur le sujet, cela implique une barrière à l'entrée et un **travail chronophage de retraitement des données** - lorsqu'elles sont accessibles ouvertement et gratuitement - pour les exploiter afin d’en retirer des enseignements à diffuser à leurs cibles directes.
 
-Ceci est le signe que nous n’avons pas toujours à notre disposition les **bons ordres de grandeur** en ce qui concerne l’impact sur le climat des objets et gestes de notre quotidien. Pour pallier cette difficulté, l’ADEME s’est imposée comme un **acteur institutionnel de référence** qui facilite l’accès à ses données et à une information vulgarisée en vue de sensibiliser et d’accompagner sur les enjeux environnementaux.
+En outre, face à la **pluralité des canaux d’information et des formats de communication**, ces acteurs, qui sont des accélérateurs de la transition écologique, témoignent d'une difficulté à trouver les bonnes ressources adaptées à leur contenu. Or toute la pertinence et la validité des messages diffusés dépendent de l’accès à une **information scientifique de qualité, ouverte, sourcée, à jour et fiabilisée**.
 
-## Solution 💡 
+L’exemple du numérique est relativement parlant : multiplié par des milliards d’envois, l’impact des e-mails à l’échelle planétaire est nécessairement important. Pour autant, cette information, même chiffrée en tonnes de CO2e, détourne les citoyens des enjeux de taille : garder son smartphone le plus longtemps possible si l’on reste dans le secteur du numérique, ou manger moins de viande si l’on élargit le spectre (30 To de mails stockés 1 an émettent autant que 1 repas au bœuf).
 
-[impactCO2.fr](http://impactCO2.fr) est un site internet porté par l’ADEME et **destiné à des relais** tels que :
+Cette (re)mise en perspective des chiffres dans leur contexte, et leur intelligibilité pour des usages "grand public", est un élément clé de la mobilisation collective. Pouvoir s’emparer rapidement des sujets de la transition écologique grâce à des **ressources à la fois pédagogiques, paramétrables et contextualisées** est donc aujourd’hui un enjeu-clé pour tous ces acteurs.
 
-* les **médias** (grand public, spécialisés,…) ;
-* les **entreprises** (*startups Green Tech,* pôles RSE, directions de l’engagement,…) ;
-* les **associations** (festivals culturels, challenges citoyens,…) ;
-* les **pouvoirs publics**,…
+## Solution 💡
 
-qui sont à la la recherche de **contenus informatifs paramétrables, fiables et facilement diffusables** sur l’impact carbone des usages du quotidien.
+[impactCO2.fr](http://impactco2.fr/) ambitionne d'être une **bibliothèque de ressources de référence** pour les acteurs qui sont à la recherche de contenus informatifs didactiques et fiabilisés sur l’empreinte carbone : 
 
-Les ressources disponibles sur Impact CO2 se présentent sous différentes formes : **simulateurs, graphiques, infographies**, etc. et ont l’ambition de communiquer les bons ordres de grandeur en rapport avec les différentes catégories du site.
+* **Médias** (grand public, spécialisés,…) ;
+* **Entreprises** (pôles RSE, directions de l’engagement, startups *Green Tech*,…) ;
+* **Associations** (festivals culturels, challenges citoyens,…)
+* **Pouvoirs publics** (Secrétariat général à la Planification écologique via France Nation Verte,…).
 
-Cette bibliothèque de ressources doit permettre :
+Les ressources disponibles sur Impact CO2 se présentent sous différentes formes : **simulateurs, comparateurs, graphiques, infographies**, etc. 
 
-* De **mieux comprendre et s’approprier les sujets de la transition écologique** en lien avec une thématique précise (*Alimentation, Transport, Numérique, Mobilier, Chauffage, etc.).* ;
-* De **s’appuyer sur des ressources graphiques pédagogiques** librement partageables dans un objectif d’information et de sensibilisation citoyennes.
+Nos objectifs pour nos relais sont :
 
-Basées sur les données ouvertes de l’ADEME*, elles offrent également la possibilité, selon le niveau d’expertise, de **jouer avec les données des simulateurs interactifs** et ainsi d’approfondir sa compréhension de l’impact carbone des usages et objets du quotidien.
+* **Vulgariser l’information environnementale** et communiquer les bons ordres de grandeur relatifs à l’empreinte carbone ;
+* **Tracer, enrichir et valoriser les données sources utilisées** afin de garantir la validité des calculs et leur mise à disposition ;
+* **Outiller et fidéliser nos réutilisateurs** avec des ressources personnalisables sur un large panel de thématiques (Alimentation, Transport, Numérique, Chauffage, etc.) ; 
+* **Faciliter la diffusion et/ou l’intégration de nos ressources** à de nouveaux contenus de sensibilisation.
 
-Grâce à un site ergonomique et accessible, nous entendons pour nos relais :
+Les données sur lesquelles sont basées les ressources sont en *open data* : [jeux de données ouverts de l'ADEME](https://data.ademe.fr/), [](https://librairie.ademe.fr/)[études de l'ADEME](https://librairie.ademe.fr/), [base Empreinte](https://base-empreinte.ademe.fr/) et [base Agribalyse](https://agribalyse.ademe.fr/). Le code source du site et la méthodologie de calcul sont entièrement open source et accessibles sur notre [repo GitHub](https://github.com/datagir/impactco2).
 
-* **Vulgariser l’information environnementale** grâce à un contenu informatif vulgarisé et certifié par l’ADEME ;
-* **Outiller nos réutilisateurs** avec des ressources graphiques ludiques personnalisable, sur un large panel de thématiques-clé ;
-* **Tracer et valoriser les sources et l’origine des données** utilisées afin de garantir la pertinence et la validité de la méthodologie de calcul ;
-* **Favoriser le partage et/ou l’intégration** de nos ressources à de nouveaux contenus.
+## Stratégie 📈
 
-Le site et la méthodologie de calcul sont entièrement *open source.*
+[](http://impactco2.fr/)Impact CO2 rassemble aujourd'hui **près d’1 000 000 visites** depuis son lancement en février 2021, et bénéficie d’une visibilité grandissante auprès des acteurs publics et privés. L'impact recherché est donc d’accroître l'utilisation et le partage du site et des contenus proposés, ceci afin d’**accélérer la diffusion de l'information environnementale pour nos relais et le grand public** (approche B2B2C). 
 
-\**Base **[Empreinte](https://base-empreinte.ademe.fr/)**, pour les données relatives aux produits et services de grande consommation*. ***\****Base** [Agribalyse](https://agribalyse.ademe.fr/)**,pour les données relatives aux produits agricoles et alimentaires.*
+L'approche est simple : 
 
-## Stratégie 📈 
+* **Développer des kits de diffusion** à destination des cibles prioritaires pour faciliter la prise en main et la diffusion des ressources disponibles sur le site (partages, téléchargements, *iframe*, etc.) ;
+* **Entrer en contact avec des journalistes de médias grand public et spécialisés** à l’audience importante, et être à l’écoute de leurs besoins d’outillage au regard de leur calendrier éditorial ;
+* **Toucher les pôles RSE**, directions de l’Engagement ou directions Communication des grands groupes et startups Green Tech ayant entrepris un virage écologique ou désireux de le faire ;
+* **Proposer des formats innovants** pour les créateurs et créatrices de contenus qui abordent l’écologie par les sujets du quotidien auprès d'une cible citoyenne (Instagram, YouTube, etc.).
 
-[impactCO2.fr](http://impactCO2.fr) rassemble près de **750 000 visites** depuis son lancement, et bénéficie d’une visibilité exponentielle auprès des acteurs publics et privés depuis la fin 2022.
-
-Aujourd’hui, son objectif est d’être identifié comme la **bibliothèque de ressources personnalisables de référence** sur l’impact environnemental des objets et gestes du quotidien, par le prisme de l’empreinte carbone et sous caution scientifique de l’ADEME.
-
-L’enjeu est triple :
-
-* **Démocratiser et massifier la connaissance des ordres de grandeur** relatifs aux grandes thématiques de la transition écologique ;
-* **Accompagner les relais dans l’appropriation et la réutilisation des ressources** (partage, intégration par *iframe*, traitement de la *data* brute,…) auprès des citoyens et citoyennes ;
-* **Fidéliser les réutilisateurs** par le maintien d’une base de contacts privilégiés, régulièrement tenus informés des nouveautés produit et de l’actualisation des données et ressources disponibles.
-
-L’approche est simple :
-
-* Entrer en contact avec des **médias grand public et spécialisés** à l’audience importante, et être à l’écoute de leurs besoins d’outillage au regard de l’actualité et du calendrier éditorial ;
-* Toucher les pôles RSE, directions de l’Engagement ou directions Communication des **grands groupes et startups Green Tech** ayant entrepris un virage écologique ou désireux de le faire ;
-* Proposer des **formats innovants pour les créateurs et créatrices de contenus** qui abordent l’écologie par les sujets du quotidien et axent leur communication sur la sensibilisation citoyenne.
-
-## 🎯 Impact
+## Impact 🎯
 
 Impact CO2 est un service numérique conçu selon l’**approche Startup d’État** et piloté par l’impact.
 
 #### Indicateur Étoile du Nord ⭐
 
-* Nombre de vues des ressources. 
+* Nombre d’utilisations de nos ressources (vues, téléchargements, partages et intégrations *iframe).*
 
 #### Métriques de suivi 🖋️
 
-* En construction. 
+* **Visites** :
+
+  * Nombre de visites par semaine/mois ;
+  * Nombre de visites depuis le lancement ;
+  * Durée des visites sur le site ;
+  * Taux d'interaction avec les simulateurs.
+* **Téléchargements / intégrations** :
+
+  * Nombre de vues et likes des kits de diffusion ;
+  * Nombre de téléchargement des infographies ;
+  * Nombre de téléchargement des simulations ;
+  * Taux d’*iframisation*.
+* **Réutilisateurs** :
+
+  * Nombre de réutilisateurs des ressources ;
+  * Nombre de mentions d’Impact CO2.
+* **Satisfaction utilisateur** :
+
+  * Taux de satisfaction des utilisateurs ;
+  * Nombre de likes sur une page de ressource (ex. : Kit Média).
+* **Réseaux sociaux** :
+
+  * Nombre d’abonnés ;
+  * Taux d’engagement ;
+  * Nombre d’impressions et de partages des posts ;
+  * Nombre de mentions d’Impact CO2.
+
+Aujourd'hui, une grande partie de ces métriques d’usage et d’impact sont suivies grâce aux **outils Matomo et Hotjar**, et une partie d’entre elles est déjà disponible sur la [page de statistiques de Datagir](https://datagir.ademe.fr/stats/) (menu déroulant “Impact CO2”). Suite à la fin de Datagir et sa séparation en 2 Startups d'État distinctes, nous souhaitons refondre cette page existante et l'intégrer au site Impact CO2. 
 
 Un **comité d'investissement**, instance de pilotage principal d'un produit numérique dans le programme beta.gouv.fr, aura lieu tous les 6 mois pour faire le point sur l'impact obtenu par l'équipe et arbitrer sur les objectifs et les investissements consentis pour la poursuite du service.

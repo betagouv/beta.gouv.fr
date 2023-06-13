@@ -11,5 +11,5 @@ startups:
   - locatio
 
 ---
-Développeur pramatique, architecte de solutions élégantes et efficaces.
+Développeur bienveillant et pragmatique, architecte de solutions élégantes et efficaces.
 
