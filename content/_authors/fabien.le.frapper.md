@@ -11,6 +11,7 @@ missions:
     employer: Malt
 startups:
   - sppnaut
+  - apilos
 memberType: beta
 ---
 
