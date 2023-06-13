@@ -1,7 +1,7 @@
 ---
 fullname: Gauthier Nadaud
 role: Coach
-domaine: Coaching / Fast
+domaine: Coaching - Fast
 missions:
   - start: 2022-06-24
     end: 2023-12-29
