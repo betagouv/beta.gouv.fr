@@ -7,5 +7,7 @@ missions:
     end: 2024-08-30
     status: admin
     employer: Cour d'appel de Nancy
+startups:
+  - experts
 ---
 
