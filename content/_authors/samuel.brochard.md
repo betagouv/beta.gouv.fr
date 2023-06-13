@@ -4,10 +4,11 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2022-04-04
-    end: 2023-06-30
+    end: 2024-06-30
     status: admin
+    employer: ''
 startups:
-    - accesscite
+  - accesscite
 badges:
   - segur
 ---
