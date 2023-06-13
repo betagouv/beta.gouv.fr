@@ -13,7 +13,6 @@ missions:
     status: independent
     employer: Malt
 startups:
-  - aides-jeunes
   - aides.jeunes
 previously:
   - e-controle
