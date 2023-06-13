@@ -1,5 +1,5 @@
 ---
-fullname: eve pougeau
+fullname: Eve Pougeau
 role: assistante de gestion
 domaine: Animation
 missions:
