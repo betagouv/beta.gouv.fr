@@ -8,6 +8,8 @@ missions:
     status: admin
 badges:
   - segur
+startups:
+  - experts
 ---
 
 Magistrat depuis 1995, innovateur depuis 2022
