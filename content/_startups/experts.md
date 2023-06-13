@@ -1,7 +1,8 @@
 ---
 title: EXPERTS
-mission: "Une meilleure gestion des procédures grâce à la pré-sélection et
-  la  désignation dématerialisées du bon expert  "
+mission: >-
+  Une meilleure gestion des procédures grâce à la pré-sélection et la 
+  désignation dématerialisées du bon expert  
 sponsors:
   - /organisations/mj
 incubator: justice
@@ -11,6 +12,7 @@ phases:
   - name: construction
     start: 2023-01-03
     end: 2023-06-30
+link: https://selexpert.anje-justice.fr/
 ---
 ## Problème
 
