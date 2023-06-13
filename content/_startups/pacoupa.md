@@ -20,7 +20,7 @@ Les pompes à chaleur sont un des systèmes de chauffage alternatifs permettant 
 
 
 Les alternatives écologiques aux systèmes de chauffage carbonés existent. Selon les types de bâtiments, les PAC sont plus ou moins adaptées au logement mais une rénovation globale, préalable à l’installation du nouveau système, est très souvent nécessaire. Réduisant les risques de surdimensionnement, de déperdition de chaleur, ces rénovations permettent de diminuer la puissance et le coût du système de pompes à chaleur installé. 
-Pour les utilisateurs, le risque de se sentir de se sentir seul et prioriser le changement de système avant la réalisation des gestes d’isolation est à craindre.
+Pour les utilisateurs, le sentiment de solitude face à la multiplicité des acteurs de la rénovation et la priorisation du changement de système avant la réalisation des gestes d’isolation sont à craindre.
 
 
 ## Investigation
