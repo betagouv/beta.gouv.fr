@@ -17,7 +17,7 @@ missions:
     employer: Malt
 startups:
   - infoparquet
-  - dotations locales
+  - dotations-locales
 previously:
   - psyenfantado
   - monpsy
