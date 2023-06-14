@@ -10,7 +10,7 @@ usertypes:
   - particulier
   - association
 stats_url: https://www.rdv-solidarites.fr/stats/
-title: RDV Services Publics
+title: RDV Service Public
 sponsors:
   - /organisations/anct
 link: https://www.rdv-solidarites.fr
@@ -19,6 +19,7 @@ budget_url: https://pad.incubateur.net/s/qeT5bzHUM#RDV-Solidarit%C3%A9s
 dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
 redirect_from:
   - /startups/lapins
+  - /startups/rdv-services-publics
 events:
   - name: national_impact
     date: 2022-12-31
@@ -37,7 +38,7 @@ phases:
 
 ### Qui sommes-nous ?
 
-Nous sommes la start-up d’État **RDV Services Publics**, solution numérique portée par l’[Incubateur des Territoires](https://incubateur.anct.gouv.fr) de l’[Agence Nationale de la Cohésion des Territoires](https://agence-cohesion-territoires.gouv.fr).
+Nous sommes la start-up d’État **RDV Service Public**, solution numérique portée par l’[Incubateur des Territoires](https://incubateur.anct.gouv.fr) de l’[Agence Nationale de la Cohésion des Territoires](https://agence-cohesion-territoires.gouv.fr).
 
 La solution numérique est co-financée par le programme Société Numérique et 3 partenaires (consortium de départements, GIP de l'Inclusion, et l'incubateur du Ministère de la Justice) dans une dynamique de co-gouvernance.
 
