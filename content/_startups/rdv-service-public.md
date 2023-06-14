@@ -19,7 +19,7 @@ budget_url: https://pad.incubateur.net/s/qeT5bzHUM#RDV-Solidarit%C3%A9s
 dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
 redirect_from:
   - /startups/lapins
-  - /startups/rdv-services-publics
+  - /startups/rdv-service-public
 events:
   - name: national_impact
     date: 2022-12-31

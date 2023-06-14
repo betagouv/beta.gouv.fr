@@ -9,6 +9,6 @@ missions:
     status: independent
     employer: Scopyleft
 startups:
-  - rdv-services-publics
+  - rdv-service-public
 ---
 

@@ -11,7 +11,7 @@ missions:
     status: service
 startups:
 previously:
-  - rdv-services-publics
+  - rdv-service-public
   - dossiersco
 ---
 
