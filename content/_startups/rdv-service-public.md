@@ -1,5 +1,5 @@
 ---
-mission: Faciliter la prise des rendez-vous entre les services publics et les usagers des territoires
+mission: Faciliter la prise des rendez-vous entre le service public et les usagers des territoires
 incubator: anct
 repository: https://github.com/betagouv/rdv-solidarites.fr
 contact: contact@rdv-solidarites.fr
@@ -13,7 +13,7 @@ stats_url: https://www.rdv-solidarites.fr/stats/
 title: RDV Service Public
 sponsors:
   - /organisations/anct
-link: https://www.rdv-solidarites.fr
+link: https://rdv.anct.gouv.fr
 stats: true
 budget_url: https://pad.incubateur.net/s/qeT5bzHUM#RDV-Solidarit%C3%A9s
 dashlord_url: https://dashlord.incubateur.net/url/www-rdv-solidarites-fr/
@@ -35,34 +35,107 @@ phases:
 
 ### Une solution publique de prise de rendez-vous simple à déployer, simple à utiliser
 
+> 💡
+>
+> Vous êtes une commune disposant d’un Dispositif de Recueil (DR) ?
+> Vous pouvez utiliser gratuitement notre solution au sein de vos services 👇
+>
+> [Découvrir la solution ](https://rdv.anct.gouv.fr)
+
+
 
 ### Qui sommes-nous ?
 
-Nous sommes la start-up d’État **RDV Service Public**, solution numérique portée par l’[Incubateur des Territoires](https://incubateur.anct.gouv.fr) de l’[Agence Nationale de la Cohésion des Territoires](https://agence-cohesion-territoires.gouv.fr).
+Nous sommes la start-up d’État **RDV Services Publics**, solution numérique portée par l’[Incubateur des Territoires](https://incubateur.anct.gouv.fr) de l’[Agence Nationale de la Cohésion des Territoires](https://agence-cohesion-territoires.gouv.fr).
 
-La solution numérique est co-financée par le programme Société Numérique et 3 partenaires (consortium de départements, GIP de l'Inclusion, et l'incubateur du Ministère de la Justice) dans une dynamique de co-gouvernance.
+La solution numérique est co-financée par le programme Société Numérique et quatre partenaires (consortium de départements, Direction Intéministérielle du Numérique, GIP de l'Inclusion et l'incubateur du Ministère de la Justice) dans une dynamique de co-gouvernance.
 
 Nous suivons l’approche [beta.gouv.fr](https://beta.gouv.fr) qui place l’expérience utilisateur au cœur de la conception produit.
 
 D'autres opérateurs nationaux ou locaux sont invités à rejoindre la dynamique pour s'inscrire dans la démarche collective d'un commun numérique. Écrivez-nous !
 
 
-### Notre vision
-
-**Faciliter le contact** entre l'usager et les services publics de son territoire
-
-**Accélérer le parcours** des usagers en permettant aux administrations (collectivités territoriales, opérateurs d'État) de planifier des rendez-vous entre elles.
-
-**Améliorer** les parcours d’accès aux droits en plaçant l’expérience usager au coeur de la coordination des services publics
-
 
 ### Notre mission
 
-**Outiller** les services publics avec une solution de gestion des rendez-vous simple à utiliser et simple à déployer.
+**1️⃣ Outiller** le service public avec une solution de gestion des rendez-vous simple à utiliser et simple à déployer.
 
-**Identifier** les limites administratives, techniques et législatives à la simplification et la coordination des parcours d'accès aux droits pour les usagers dans les territoires.
+**2️⃣ Identifier** les limites administratives, techniques et législatives à la coordination des parcours usagers entre les administrations.
 
-**Accompagner** la transformation des démarches et processus des services publics pour faciliter les parcours et améliorer l'expérience usager.
+**3️⃣ Accompagner** la transformation des démarches et processus du service public pour simplifier et accélérer les parcours des usagers.
+
+
+
+
+### Notre stratégie
+
+L’équipe est guidée par une vision : **être la solution de gestion et de prise de rendez-vous du service public en accès libre simple à déployer, simple à utiliser**.
+
+Être une solution générique, c’est être une solution qui sait répondre aux contextes variés du service public.
+
+Pour tendre vers cet objectif, nous travaillons avec nos partenaires pour identifier les besoins de plusieurs secteurs professionnels et de plusieurs administrations afin d’engager des itérations qui répondent aux problèmes du plus grand nombre d’agents publics et ainsi éviter le développement des particularismes métiers.
+
+Aujourd’hui, l’équipe identifie les problèmes communs et développe des solutions communes.
+
+Demain, la solution sera en accès libre à tous les services publics
+
+### Nos déploiements
+
+**Acteurs du médico-social**
+Outiller les services médico-sociaux des départements.
+Outillage mené sous le nom de domaine [RDV Solidarités](https://www.rdv-solidarites.fr).
+Financé par les départements utilisateurs
+
+**Acteurs de l'insertion professionnelle**
+Outiller les services de l'insertion des départements.
+Outillage mené par l'équipe [RDV Insertion](https://beta.gouv.fr/startups/data.insertion.html).
+Financé par le GIP de l'Inclusion et les départements utilisateurs
+
+**Acteurs des Titres Sécurisés**
+Outiller les communes qui possèdent un Dispositif de Recueil (DR).
+Outillage mené sous le nom de domaine [RDV Service Public](https://rdv.anct.gouv.fr)
+Financé par la Direction Intéministérielle du Numérique
+
+**Acteurs de la médiation numérique**
+Outiller les conseillers numériques et le réseau d'acteur du dispositif Pass Numérique.
+Outillage mené sous le nom de domaine [RDV Aide Numérique](https://www.rdv-aide-numerique.fr).
+Financé par le programme Société Numérique
+
+**Acteurs des démarches juridiques**
+Outiller les Centres Départementaux d’Accès aux Droits.
+Outillage mené dans le cadre d'une expérimentation dans le département de la Moselle.
+Financé par l'Incubateur du Ministère de la Justice
+
+
+### Nos fonctionnalités
+
+**👐 Faciliter la prise de rendez-vous**
+
+L'administration rend accessible ses disponibilités en ligne. Les usagers peuvent planifier des rendez-vous d’information téléphonique ou des rendez-vous au guichet.
+
+**😌 Simplifier la gestion de rendez-vous**
+
+Les agents mettent à disposition de leurs collègues leurs disponibilités. Un agent peut planifier des rendez-vous dans les agendas des collègues.
+
+**📱 Envoyer des notifications de rappel**
+
+Des SMS et mail de notifications sont envoyés à chaque planification de rendez-vous. Les usagers peuvent modifier ou annuler le rendez-vous depuis cette notification.
+
+**📊 Obtenir des statistiques**
+
+Une administration peut mesurer et exporter l'activité de ses rendez-vous.
+
+**🔗 Faire de la prescription**
+
+Les administrations d'un territoire peuvent planifier un rendez-vous pour le compte d'un usager entre elles.
+
+### Notre impact
+
+RDV Service Public c'est **1 750 000 rendez-vous planifiés** pour **9000 utilisateurs** avec en moyenne :
+
+➡️ 4x moins de rendez-vous non honorés
+➡️ 2x moins d’attente pour les usagers
+➡️ 3x plus rapide pour l’agent
 
 ### Notre histoire
 
@@ -77,32 +150,3 @@ Conscient du potentiel de cette solution numérique au sein des collectivités t
 **Préparation à la généralisation 🗓️ depuis 2023**
 
 Après plusieurs expérimentations au sein d'autres secteurs professionels et auprès d'autres niveaux de collectivités territoriales, **RDV Solidarités** devient **RDV Services Publics**, un outil de gestion et de prise de rendez-vous pour tous les services publics.
-
-### Nos déploiements
-
-**Acteurs du médico-social**
-Outiller les services médico-sociaux des départements. Outillage mené sous le nom de domaine [RDV Solidarités](https://www.rdv-solidarites.fr).
-
-**Acteurs de l'insertion professionnelle**
-Outiller les services de l'insertion des départements. Outillage mené par l'équipe [RDV Insertion](https://beta.gouv.fr/startups/data.insertion.html).
-
-**Acteurs de la médiation numérique**
-Outiller les conseillers numériques et le réseau d'acteur du dispositif Pass Numérique. Outillage mené sous le nom de domaine [RDV Aide Numérique](https://www.rdv-aide-numerique.fr).
-
-**Acteurs des démarches juridiques**
-Outiller les Centres Départementaux d’Accès aux Droits. Outillage mené dans le cadre d'une expérimentation dans le département de la Moselle.
-
-
-### Objectifs 2023
-
-**Préparer un projet de coordination dans les territoires 📝**
-Généraliser la solution, c'est permettre de nouvelles perspectives dans la coordination des parcours d'accès aux services publics.
-
-**Définir une nouvelle mesure d'impact 📊**
-Généraliser la solution, c'est répondre aux besoins de plusieurs entités administratives et orienter l'ensemble des utilisateurs vers une mesure d'impact commune.
-
-**Obtenir un haut niveau de sécurité 🔐**
-Généraliser la solution, c’est pouvoir s'adapter aux critères de tous les services publics, surtout, aux enjeux du traitement des données liés à la coordination des rendez-vous entre les services publics.
-
-**Préparer une augmentation des utilisateurs 📈**
-Généraliser la solution, c’est accueillir de nouveaux utilisateurs et de nouvelles entités administratives. La solution doit permettre et faciliter l’onboarding des nouveaux entrants.
