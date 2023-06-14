@@ -32,17 +32,19 @@ phases:
     start: 2019-04-01
 ---
 
+<div class="fr-callout fr-fi-information-line">
+    <h3 class="fr-callout__title">
+        Vous êtes une commune disposant d’un Dispositif de Recueil (DR) ?
+    </h3>
+
+    <p class="fr-callout__text">
+        Vous pouvez utiliser gratuitement notre solution au sein de vos services 👇
+    </p>
+
+    <a href="https://rdv.anct.gouv.fr" title="RDV Service Public - nouvelle fenêtre" class="fr-btn" target="_blank">Découvrir la solution</a>
+</div>
 
 ### Une solution publique de prise de rendez-vous simple à déployer, simple à utiliser
-
-> 💡
->
-> Vous êtes une commune disposant d’un Dispositif de Recueil (DR) ?
-> Vous pouvez utiliser gratuitement notre solution au sein de vos services 👇
->
-> [Découvrir la solution ](https://rdv.anct.gouv.fr)
-
-
 
 ### Qui sommes-nous ?
 
