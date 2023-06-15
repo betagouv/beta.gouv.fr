@@ -2,7 +2,7 @@
 mission: Faciliter la prise des rendez-vous entre le service public et les usagers des territoires
 incubator: anct
 repository: https://github.com/betagouv/rdv-solidarites.fr
-contact: contact@rdv-solidarites.fr
+contact: support@rdv-service-public.fr
 analyse_risques: false
 accessibility_status: non conforme
 usertypes:
