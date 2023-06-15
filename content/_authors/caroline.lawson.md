@@ -1,7 +1,7 @@
 ---
 fullname: Caroline Lawson
 domaine: Design
-role: Recherche Utilisateur
+role: Recherche UX
 github: caroline-lawson
 link: null
 missions:
@@ -14,6 +14,5 @@ startups:
   - tchap
 competences:
   - UX
-
 ---
 
