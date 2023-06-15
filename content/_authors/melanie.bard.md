@@ -1,6 +1,6 @@
 ---
 fullname: Mélanie Bard
-role: Business Developer 
+role: Business Developer
 domaine: Développement
 missions:
   - start: 2022-05-02
@@ -11,6 +11,8 @@ startups:
   - reva
 badges:
   - segur
+previously:
+  - reva
 ---
 
 Engagée pour donner à la VAE la place qu'elle mérite !
