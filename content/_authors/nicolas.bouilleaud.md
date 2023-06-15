@@ -17,7 +17,7 @@ startups:
 previously:
   - place-des-entreprises
   - demarches-simplifiees.fr
-  - rdv-services-publics
+  - rdv-service-public
 competences:
   - Développement Frontend
   - Développement Backend

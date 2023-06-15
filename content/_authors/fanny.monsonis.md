@@ -7,7 +7,7 @@ missions:
     end: 2023-11-01
     status: independent
 startups:
-  - rdv-services-publics
+  - rdv-service-public
 memberType: beta
 ---
 

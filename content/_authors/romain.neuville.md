@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - rdv-services-publics
+  - rdv-service-public
   - data.insertion
 ---
 >-

@@ -17,7 +17,7 @@ missions:
     end: 2022-06-30
     status: independent
 startups:
-  - rdv-services-publics
+  - rdv-service-public
   - metiers-numeriques
 previously:
   - aidantsconnect
