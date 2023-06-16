@@ -12,6 +12,7 @@ missions:
 startups:
   - sante-psy-etudiant
   - la.bonne.renov
+  - chauffage-urbain
 previously:
   - aides.jeunes
 competences:
