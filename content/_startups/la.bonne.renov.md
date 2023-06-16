@@ -21,6 +21,22 @@ phases:
   - name: alumni
     start: 2023-06-07
 ---
+## Arrêt de La Bonne Rénov' : 
+
+A la suite du comité d'investissement du 26 avril 2023, la demande de financement de La Bonne Rénov' n'a pas été validée. 
+
+Le service proposé par La Bonne Rénov’ a donc été clôturé et n'est plus accessible.
+
+Cette décision est une conséquence de plusieurs facteurs :
+- L’équipe a constaté la difficulté à acquérir des usagers sur le simulateur de pompe à chaleur via un taux de rebond important
+- Les développements en cours n'ont pas montré de résultats suffisamment encourageants par rapport au temps et à l'argent investis sur le projet
+- L’ADEME a rencontré des problématiques de budget et de renforcement des effectifs nécessaires à la poursuite des développements de l'outil sur le court/moyen terme
+
+Le code source de l'outil est disponible en open data : https://github.com/betagouv/outibat/
+
+La fiche produit reste accessible ci-après.
+
+
 ## Le contexte : 
 
 Dans un contexte de transition écologique et de fortes tensions sur le marché de l’énergie, le gouvernement s’est donné un double objectif : 
