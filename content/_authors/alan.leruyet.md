@@ -4,14 +4,14 @@ role: Développeur full-stack
 domaine: Développement
 avatar: https://avatars3.githubusercontent.com/u/24386934?s=96&v=4
 missions:
-  - start: 2020-04-01
-    end: 2024-06-30
-    status: independent
-    employer: mission-apprentissage
   - start: 2016-03-01
     end: 2020-01-28
     status: independent
     employer: pole-emploi
+  - start: 2020-04-01
+    end: 2024-06-30
+    status: independent
+    employer: mission-apprentissage
 startups:
   - la-bonne-alternance
 previously:
