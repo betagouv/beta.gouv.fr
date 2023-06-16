@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: mission-apprentissage
   - start: 2016-03-01
-    end: 2020-01-28
+    end: 2025-06-30
     status: independent
     employer: pole-emploi
 startups:
