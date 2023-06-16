@@ -11,7 +11,7 @@ missions:
     employer: Fabrique numérique des ministères sociaux
 startups:
   - l-application-du-cej
-  - France-Chaleur-Urbaine
+  - chauffage-urbain
 badges:
   - segur
 ---
