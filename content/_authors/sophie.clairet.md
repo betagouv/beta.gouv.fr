@@ -10,6 +10,7 @@ missions:
     employer: Living Data
 startups:
   - ban
+  - bases.adresses.locales
 badges:
   - segur
 competences:
