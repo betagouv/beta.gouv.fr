@@ -6,7 +6,7 @@ github: raphodn
 link: https://raphodn.github.io
 missions:
   - start: 2020-01-08
-    end: 2023-06-30
+    end: 2023-12-31
     status: independent
     employer: octo
 startups:
