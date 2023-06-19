@@ -1,7 +1,7 @@
 ---
 fullname: Aymeric Faivre
 domaine: Design
-role: Designer
+role: Designer Ux/Ui & Directeur artistique
 github: AymericFaivre
 avatar: null
 link: http://www.aymericfaivre.com
@@ -19,8 +19,8 @@ startups:
   - devoirs-faits-communaute
 previously:
   - mon-entreprise
+  - eac
 competences:
   - UX
   - UI
-
 ---
