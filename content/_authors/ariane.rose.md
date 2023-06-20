@@ -12,6 +12,6 @@ startups:
   - ban
   - infrastructures.numeriques
   - pcrs
-
+  - bases.adresses.locales
 ---
 Accélérer le déploiement de la fibre optique et des Bases Adresses Locales
