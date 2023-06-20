@@ -9,6 +9,7 @@ missions:
     employer: OCTO
 startups:
   - ban
+  - bases.adresses.locales
 badges:
   - segur
 competences:
