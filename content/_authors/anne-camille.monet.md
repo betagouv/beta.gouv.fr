@@ -1,6 +1,6 @@
 ---
 fullname: Anne-Camille Monet
-role: Product manager
+role: product manager
 domaine: Intraprenariat
 missions:
   - start: 2017-04-01
