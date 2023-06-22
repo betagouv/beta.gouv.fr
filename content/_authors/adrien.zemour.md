@@ -1,6 +1,6 @@
 ---
 fullname: Adrien Zemour
-role: Chargé de déploiement
+role: Chargé de déploiement / Coach
 domaine: Développement
 link: https://www.linkedin.com/in/adrien-zemour/
 github: AdrienZmr
@@ -10,10 +10,12 @@ missions:
     status: independent
     employer: Fabrique numérique des ministères sociaux
 startups:
-  - l-application-du-cej
   - chauffage-urbain
+  - pacoupa
 badges:
   - segur
+previously:
+  - l-application-du-cej
 ---
 
 On m'a vu dans le Vercors
