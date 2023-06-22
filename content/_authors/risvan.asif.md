@@ -8,7 +8,6 @@ missions:
     end: 2023-09-22
     status: independent
 startups:
-  - pilotagevoiepro
 memberType: beta
 ---
 
