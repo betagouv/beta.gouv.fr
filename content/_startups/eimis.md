@@ -3,7 +3,7 @@ title: EIMIS
 mission: Faciliter et sécuriser les communications des professionnels de santé
 sponsors:
   - /organisations/ans
-incubator: dinum
+incubator: dinum_produits_interministeriels
 contact: juliette.dixmier@beta.gouv.fr
 accessibility_status: non conforme
 phases:

@@ -1,6 +1,6 @@
 ---
 fullname: Anna-Livia Gomart
-role: Chief Product Officer Tech BetaGouv
+role: Responsable du programme d'incubation de produits interministériels
 domaine: Animation
 github: Anna-Livia
 avatar: 'https://avatars3.githubusercontent.com/Anna-Livia?s=600'
@@ -23,7 +23,7 @@ previously:
   - aidantsconnect
   - tchap
 teams:
-  - /teams/animation-dinum
+  - /teams/dinum_produits_interministeriels
 ---
 
 Minimum effort, maximum impact.

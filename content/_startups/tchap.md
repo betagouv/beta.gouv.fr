@@ -3,7 +3,7 @@ title: Tchap
 mission: Proposer une messagerie instantanée, sécurisée et souveraine aux agents publics
 sponsors:
   - /organisations/dinum
-incubator: dinum
+incubator: dinum_produits_interministeriels
 contact: tchap@beta.gouv.fr
 link: https://tchap.beta.gouv.fr/
 repository: https://github.com/tchapgouv
