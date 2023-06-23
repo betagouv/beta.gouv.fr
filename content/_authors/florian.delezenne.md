@@ -1,6 +1,6 @@
 ---
 fullname: Florian Delezenne
-role: Responsable du département Opérateur de produits interministériels
+role: Co-responsable de l'opérateur, en charge des produits pérennes
 domaine: Animation
 github: Flightan
 link: https://github.com/betagouv/beta.gouv.fr/edit/master/content/_authors/florian.delezenne.md
