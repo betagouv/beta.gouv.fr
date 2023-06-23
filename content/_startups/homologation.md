@@ -1,14 +1,14 @@
 ---
 mission: Faciliter la sécurisation et l'homologation des services numériques
 incubator: lab-innov-anssi
-link: https://www.monservicesecurise.beta.gouv.fr
+link: https://www.monservicesecurise.ssi.gouv.fr
 repository: https://github.com/betagouv/mon-service-securise
 contact: contact@monservicesecurise.beta.gouv.fr
 title: MonServiceSécurisé
 sponsors:
   - /organisations/anssi
 stats: true
-stats_url: https://www.monservicesecurise.beta.gouv.fr/statistiques
+stats_url: https://www.monservicesecurise.ssi.gouv.fr/statistiques
 phases:
   - name: investigation
     start: 2021-01-04
@@ -24,7 +24,7 @@ dashlord_url: https://dashlord.incubateur.net/url/www-monservicesecurise-beta-go
 
 - **Vous souhaitez découvrir le produit ou un accompagnement dans sa prise en main ? [Contactez Antoine et Henri qui se feront un plaisir de vous accompagner](mailto:support@monservicesecurise.beta.gouv.fr).**
 - **Pour toute autre question sur le projet, propositions de partenariats [contactez-nous à cette adresse](mailto:contact@monservicesecurise.beta.gouv.fr).**
-- **[Accéder à MonServiceSécurisé](https://www.monservicesecurise.beta.gouv.fr)**
+- **[Accéder à MonServiceSécurisé](https://www.monservicesecurise.ssi.gouv.fr)**
 
 ## L'ENJEU
 
@@ -57,4 +57,4 @@ par l'équipe comme ayant été mises en œuvre.
 - Générant en quelques étapes une décision d'homologation de sécurité incluant un ou plusieurs avis des membres
 de l'équipe sur le projet de décision d'homologation et de soumettre cette décision à la signature de l'autorité d'homologation.
 
-[Découvrir MonServiceSécurisé](https://www.monservicesecurise.beta.gouv.fr/)
+[Découvrir MonServiceSécurisé](https://www.monservicesecurise.ssi.gouv.fr/)
