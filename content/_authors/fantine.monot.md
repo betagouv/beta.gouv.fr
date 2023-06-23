@@ -12,5 +12,7 @@ startups:
 badges:
   - segur
 github: Fantine-py
+teams:
+  - /teams/communaute-dinum
 ---
 
