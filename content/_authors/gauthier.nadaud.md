@@ -14,6 +14,8 @@ startups:
   - PSPC
 badges:
   - segur
+teams:
+  - /teams/fast-dinum
 
 ---
 >-
