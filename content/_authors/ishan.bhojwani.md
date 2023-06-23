@@ -1,6 +1,6 @@
 ---
 fullname: Ishan Bhojwani
-role: Co-animateur de beta.gouv.fr
+role: Chef du département Incubateur de Services Numériques
 domaine: Animation
 missions:
   - start: 2017-05-23
