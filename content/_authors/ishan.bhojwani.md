@@ -1,6 +1,6 @@
 ---
 fullname: Ishan Bhojwani
-role: Co-animateur de beta.gouv.fr
+role: Responsable de beta.gouv.fr
 domaine: Animation
 missions:
   - start: 2017-05-23
@@ -16,9 +16,6 @@ missions:
     status: admin
 github: IshanB
 startups:
-    - ma-cantine-egalim
-    - recosante
-    - moncomptepro
 previously:
     - urbanvitaliz
     - ban
@@ -32,8 +29,13 @@ previously:
     - peps
     - tutorat_fp
     - cartobio
+    - ma-cantine-egalim
+    - recosante
+    - moncomptepro
 badges:
   - segur
 teams:
   - /teams/animation-dinum
 ---
+
+Chef du département Incubateur de services numériques à la DINUM
