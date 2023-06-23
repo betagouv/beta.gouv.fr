@@ -15,4 +15,4 @@ L'opérateur de produits interministériels (DINUM) assure un environnement de c
 
 Cela concerne aussi bien des outils qui peuvent transformer le quotidien des agents que l’animation d’une offre interministérielle de cloud souverain.
 
-Au sein de la DINUM, ce programme servira également a structurer une offre en tant qu’opérateur de produits, en consacrant la méthode “équipe produit”, et en visant à apporter aux départements ministériels une alternative concurrentielle, évolutive et ergonomique pour les produits de bureautique mais aussi des outils pour les applications (type API). C’est un axe essentiel de souveraineté et d’attractivité de la fonction publique.
+Au sein de la DINUM, ce département se focalisera sur la création d'une suite bureautique numérique évolutive et ergonomique pour tous les agents, entièrement basée sur des produits libres, des protocoles ouverts et documentés publiquement. C’est un axe essentiel de souveraineté et d’attractivité de la fonction publique. 
