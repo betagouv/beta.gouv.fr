@@ -1,5 +1,5 @@
 ---
-title: Programme d'incubation de produits interministériels
+title: Opérateur de produits interministériels
 owner: /organisations/dinum
 website: https://numerique.gouv.fr/
 logo: logo_dinum.png
