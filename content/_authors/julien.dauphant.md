@@ -1,6 +1,6 @@
 ---
 fullname: Julien Dauphant
-role: Intrapreneur Tchap
+role: Directeur technique et produits
 link: 'https://twitter.com/jdauphant'
 github: jdauphant
 missions:
