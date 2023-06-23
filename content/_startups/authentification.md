@@ -3,7 +3,7 @@ title: Authentification
 mission: Proposer un serveur d'authentification centralisé avec notamment un envoi de code par la messagerie Tchap
 sponsors:
   - /organisations/dinum
-incubator: dinum
+incubator: dinum_produits_interministeriels
 contact: tchap@beta.gouv.fr
 link: https://authentification.beta.gouv.fr
 repository: https://github.com/tchapgouv/tchap-identite

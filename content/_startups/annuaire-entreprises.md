@@ -11,7 +11,7 @@ phases:
 usertypes:
   - etat
   - entreprise
-incubator: apigouv
+incubator: dinum_produits_interministeriels
 link: https://annuaire-entreprises.data.gouv.fr
 repository: https://github.com/etalab/annuaire-entreprises.data.gouv.fr
 stats: true

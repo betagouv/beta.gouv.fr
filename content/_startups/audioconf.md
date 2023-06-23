@@ -3,7 +3,7 @@ title: AudioConf
 mission: Conférences téléphoniques pour les agents publics
 sponsors:
   - /organisations/dinum
-incubator: dinum
+incubator: dinum_produits_interministeriels
 contact: support@audioconf.numerique.gouv.fr
 link: https://audioconf.numerique.gouv.fr/
 repository: https://github.com/betagouv/audioconf

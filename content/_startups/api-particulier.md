@@ -3,7 +3,7 @@ title: API Particulier
 mission: Rendre accessibles aux acteurs publics les informations administratives des particuliers, afin de simplifier leurs démarches.
 sponsors:
   - /organisations/dinum
-incubator: apigouv
+incubator: dinum_produits_interministeriels
 phases:
   - name: investigation
     start: 2015-10-11
