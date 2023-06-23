@@ -1,6 +1,6 @@
 ---
 fullname: Anna-Livia Gomart
-role: Responsable du programme d'incubation de produits interministériels
+role: Co-responsable de l'opérateur, en charge du programme d'incubation.
 domaine: Animation
 github: Anna-Livia
 avatar: 'https://avatars3.githubusercontent.com/Anna-Livia?s=600'
