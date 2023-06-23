@@ -11,7 +11,7 @@ redirect_from:
   - /incubators/apigouv
 ---
 
-Le programme d'incubation de produits interministériels de la DINUM assure un environnement de confiance pour la mutualisation de produits numériques essentiels, en étendant son savoir-faire développé en opérant le RIE, FranceConnect, data.gouv.fr et api.gouv.fr.
+L'opérateur de produits interministériels (DINUM) assure un environnement de confiance pour la mutualisation de produits numériques essentiels, en étendant son savoir-faire développé en opérant le RIE, FranceConnect, data.gouv.fr et api.gouv.fr.
 
 Cela concerne aussi bien des outils qui peuvent transformer le quotidien des agents que l’animation d’une offre interministérielle de cloud souverain.
 
