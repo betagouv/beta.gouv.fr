@@ -1,5 +1,5 @@
 ---
-title: signalementenvironnement
+title: signalement environnement
 mission: Permettre de signaler des atteintes à l'environnement
 sponsors:
   - /organisations/dgeb
