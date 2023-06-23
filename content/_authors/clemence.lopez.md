@@ -1,6 +1,6 @@
 ---
 fullname: Clémence Lopez
-role: Co-animatrice et responsable de portefeuille - Éducation nationale
+role: Responsable de portefeuille - Éducation nationale, Vie associative, Sports et Enseignement supérieur 
 domaine: Produit
 github: clemhacks
 missions:
