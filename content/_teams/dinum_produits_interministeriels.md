@@ -1,5 +1,5 @@
 ---
 name: Direction
-mission: La direction du programme d'incubation accompagne et fourni de l'expertise et du soutien aux équipes sur des aspects organisationnels ou de qualité de service (accessibilité, sécurité, juridique).
+mission: L'opérateur de produits interministériels soutient ses équipes produits en leur fournissant de l'expertise et un environnement propice à leur travail.
 incubator: dinum_produits_interministeriels
 ---
