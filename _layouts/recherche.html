@@ -22,6 +22,7 @@ layout: default
 </div>
 
 <script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="https://unpkg.com/jquery/dist/jquery.min.js"></script>
 
 <script>
  function getQueryVariable(variable) {
@@ -57,7 +58,7 @@ layout: default
  }
 
  // Replace to trim the query, removing extra white spaces
- var searchTerm = getQueryVariable('q').replace(/^\s+|\s+$/g, '');
+ var searchTerm = getQueryVariable('q').trim();
 
  const startups = {
      {% for startup in site.startups %}
@@ -195,6 +196,6 @@ layout: default
  document.getElementById('search').setAttribute("value", searchTerm);
 
  var searchPageTitle = document.getElementById('search-page-title');
- searchPageTitle.innerHTML = 'Résultat(s) de recherche pour : <strong>«&nbsp;' + searchTerm + '&nbsp;»</strong>';
+ $(searchPageTitle).text('Résultat(s) de recherche pour : « ' + searchTerm + ' »');
  displaySearchResults(searchTerm, categories);
 </script>
