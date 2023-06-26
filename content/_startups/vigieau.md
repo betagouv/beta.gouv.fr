@@ -31,15 +31,27 @@ Un service public numérique de gestion de la sécheresse et des mesures de sobr
 
 Aussi, le Président de la République a annoncé dans le cadre du « Plan eau », une des priorités de la planification écologique du Gouvernement, la mise en place d'ici l’été d’un instrument de type “Ecowatt” de l'eau partagé avec l'ensemble des acteurs, qui va permettre de responsabiliser chacun. <https://www.elysee.fr/emmanuel-macron/2023/03/30/presentation-du-plan-eau#:~:text=Ce%20plan%20de%20sobri%C3%A9t%C3%A9%20et,eau%20dans%20tous%20les%20secteurs>.  
 
-
-
 ## Problème
 
 Les problèmes que vous avez identifiés ou vos hypothèses de problèmes? Qui en souffre ? quels sont les conséquences de ces problèmes ?
 
+**P﻿articuliers**
+
+* En tant que particulier, je suis conscient qu'il y a un enjeu autour de l'accès à l'eau mais je ne sais pas où aller chercher l'information. Je manque d'information me permettant de quantifier le problème sur mon territoire, je manque également d'information pour comprendre quel impact j'ai moi, quel cible je dois viser, à quel horizon temps. Je manque également d'information sur les leviers d'action à mettre en place
+* Aussi, la consommation d’eau domestique, en France, a baissé depuis 10 ans. Elle est passée de 106 litres par jour et par habitant en 1975, à 165 litres par jour et par habitant en 2004. Aujourd’hui, chaque habitant utilise en moyenne 148 litres d’eau par jour. 
+* Néanmoins, nous parlons ici uniquement de l’impact direct de leur consommation d’eau 
+* Or les particuliers ont un impact indirect sur d’autres usages - en particulier l’agriculture et l’industrie - très consommateurs d’eau. Ils ne sont pas conscients de cela
+
+**D﻿DT**
+
+* En tant que DDT, je perds du temps à entrer l'information dans Propluvia (c'est frustrant car aujourd'hui n'est pas valorisé) suite à (i) je ne sais pas forcément quelle case cocher en fonction de mes restrictions car je ne vois pas comment cela va s'afficher pour l'usager (ii) je n'ai pas la possibilité d'adapter l'arrêté de restriction par rapport à l'arrêté cadre (iii) je n'ai pas la possibilité d'avoir plusieurs zones d'alerte qui se supperposent en fonction de la typologie d'usager (iv) je n'ai pas la possibilité de modifier l'arreté une fois publié
+
 ## Solution
 
-Décrit ta solution en quelques lignes? qui seront/sont les bénéficiaires ?
+Grâce à Vigieau, chaque particulier va pouvoir enfin mesurer sa consommation d'eau, son impact direct et indirect (impact de sa consommation alimentaire, vestimentaire sur sa consommation d'eau). Il va pouvoir ainsi se situer par rapport à un foyer moyen comme le sien et connaître les leviers d'actions à mettre en place. 
+
+
+En quoi se différencie-t-elle de l’offre actuelle ? Pourquoi est-elle unique ? 
 
 ## Stratégie
 
