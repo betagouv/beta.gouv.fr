@@ -11,8 +11,6 @@ missions:
 startups:
   - tchap
 memberType: beta
-previously:
-  - tchap
 ---
 
 
