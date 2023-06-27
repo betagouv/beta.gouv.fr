@@ -10,36 +10,45 @@ contact: basegun@interieur.gouv.fr
 accessibility_status: non conforme
 events: []
 phases:
-  - name: construction
+  - name: investigation
     start: 2022-05-02
+    end: 2023-06-27
+  - name: construction
+    start: 2022-03-01
     end: 2023-06-27
 ---
 ## Contexte
 
-Aujourd’hui, les forces de l’ordre (gendarmes, policiers et policières) saisissent 6 à 7 000 armes par an. Pour chaque catégorie d’armes identifiées, les agents mettent en place la procédure et envisagent les poursuites légales adaptées.
+On estime à environ 20 000 le nombre d’armes saisies par les FSI chaque année, dont 15 à 20% sont mal ou non identifiées.
+Cela engendre des erreurs de catégorisation légale des armes, ce qui influe sur le niveau de permis du possesseur, les conditions de transports, etc.
+Elles ont pour conséquence :
+- une absence de poursuites pénales pour des personnes détenant illégalement des armes 
+
+\- à l’inverse, des poursuites pénales, une dépossession d’armes ou une interdiction de posséder des armes injustifiées
+
+*Source: SCAE 2022 (rassemblement statistiques DGPN, PP et DGGN)*
+
+
 
 ## Problème
 
-Cependant, la méthode actuelle d’identification des armes sur le terrain est chronophage, soumise à interprétation et génératrice d’erreurs. En effet, les agents procèdent de trois façons souvent combinées :
+La méthode actuelle d’identification des armes sur le terrain est chronophage, soumise à interprétation et génératrice d’erreurs. En effet, les agents procèdent de trois façons souvent combinées :
 
 * Ils et elles tentent des rapprochements visuels à partir de recherches internet/intranet autonomes
 * Ils et elles interrogent leurs collègues ou un armurier privé
 * Ils et elles consultent des experts au sein du Ministère de l’Intérieur (SCAE)
 
-La police judiciaire estime que 15 à 20% des armes saisies sont mal ou non identifiées, ce qui conduit à des absences de poursuites ou des poursuites pénales injustifiées.
 
-## Le terrain de jeu
 
-Le défi consiste en la création d’une application terrain qui permettra aux forces de l’ordre d’identifier instantanément une arme à partir de photos. Elle indiquera également la conduite à tenir adaptée. Au-delà de ce cas d’usage identifié, d’autres utilisations connexes d’une telle application (usage de particuliers, armuriers privés, forces de l’ordre européennes) sont à explorer avec l’aide de l’équipe projet.
+## Solution
 
-#### Les défis techniques
+Basegun est un outil permettant de classifier automatiquement une arme à feu découverte lors d’une mission de police ou de gendarmerie via une technologie IA, en la photographiant avec l’outil de fonction.
 
-La solution doit :
+Elle permet de verifier si une arme est factice.
 
-* fournir une réponse instantanée, avec un taux de confiance sur la classification obtenue
-* reposer sur une démarche UX, guidée par le Lead UX du laboratoire d’innovation
-* reposer sur un modèle d’intelligence artificielle entraîné
-* être accessible en mode service (API)
+Elle proposera également des tutoriels permettant de mettre en sécurité les différents type d'armes rencontrés sur le terrain lors de saisies par les FSI.
+
+
 
 ## Impact
 
