@@ -29,6 +29,8 @@ phases:
     start: 2022-11-17
 usertypes:
   - etat
+stats_url: https://stats.beta.gouv.fr/index.php?idSite=14
+stats: true
 ---
 ## Contexte
 
