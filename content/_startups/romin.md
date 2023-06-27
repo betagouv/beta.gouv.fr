@@ -27,6 +27,8 @@ phases:
     comment: Investigation concluante pour un passage en phase de construction
   - name: construction
     start: 2022-11-17
+usertypes:
+  - etat
 ---
 ## Contexte
 
