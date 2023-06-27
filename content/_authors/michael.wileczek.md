@@ -10,6 +10,7 @@ missions:
     employer: GIP Plateforme de l&#x27;inclusion
 startups:
   - inclusion.connect
+  - itou
 memberType: beta
 ---
 
