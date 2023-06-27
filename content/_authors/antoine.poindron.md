@@ -1,6 +1,6 @@
 ---
 fullname: Antoine Poindron
-role: UI Designer
+role: Responsable Design System / UX.I Designer
 domaine: Design
 link: https://www.behance.net/antoinepoindron
 missions:
@@ -12,7 +12,6 @@ startups:
   - itou
 badges:
   - segur
-
 ---
 
 
