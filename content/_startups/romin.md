@@ -7,7 +7,7 @@ sponsors:
 incubator: justice
 repository: https://github.com/betagouv/romin/
 contact: contact@romin.beta.gouv.fr
-budget_url: https://resana.numerique.gouv.fr/public/information/consulterAccessUrl?cle_url=1972366922AWsFZVBcAT1UOVA2VjhWdlVrXWACIwJrBm1YZVU0DDIFMQMyUzUDZFJhAjs=
+budget_url: https://pad.incubateur.net/s/qeT5bzHUM#ROMIN
 accessibility_status: non conforme
 events:
   - name: committee
