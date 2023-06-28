@@ -10,8 +10,8 @@ missions:
     employer: Malt
 startups:
   - inclusion.connect
-previously:
   - itou
+previously:
   - carnet.de.bord
 ---
 

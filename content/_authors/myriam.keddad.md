@@ -5,12 +5,11 @@ domaine: Déploiement
 github: MYRIAMKEDDAD
 missions:
   - start: 2022-02-16
-    end: 2023-06-30
+    end: 2023-08-31
     status: independent
     employer: SCOPYLEFT
 startups:
   - rdv-service-public
 badges:
   - segur
-
 ---

@@ -10,16 +10,20 @@ missions:
   - start: 2019-07-02
     end: 2024-06-30
     status: independent
-    employer: fair-fair.fr
+    employer: academeie-en-ligne.fr
 startups:
   - chauffage-urbain
   - place-des-entreprises
   - signalement
+  - mediature
+  - place-des-entreprises
   - nosgestesclimat
 previously:
   - aides-territoires
   - jeveuxaider
   - mediature
+  - commun.orientation
+  - apilos
 competences:
   - UX
   - Gestion de Produit
