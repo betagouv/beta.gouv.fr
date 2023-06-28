@@ -22,9 +22,9 @@ phases:
 On estime à environ 20 000 le nombre d’armes saisies par les FSI chaque année, dont 15 à 20% sont mal ou non identifiées.
 Cela engendre des erreurs de catégorisation légale des armes, ce qui influe sur le niveau de permis du possesseur, les conditions de transports, etc.
 Elles ont pour conséquence :
-- une absence de poursuites pénales pour des personnes détenant illégalement des armes 
+- une absence de poursuites pénales pour des personnes détenant illégalement des armes
 
-\- à l’inverse, des poursuites pénales, une dépossession d’armes ou une interdiction de posséder des armes injustifiées
+- à l’inverse, des poursuites pénales, une dépossession d’armes ou une interdiction de posséder des armes injustifiées
 
 *Source: SCAE 2022 (rassemblement statistiques DGPN, PP et DGGN)*
 
@@ -42,9 +42,9 @@ La méthode actuelle d’identification des armes sur le terrain est chronophage
 
 ## Solution
 
-Basegun est un outil permettant de classifier automatiquement une arme à feu découverte lors d’une mission de police ou de gendarmerie via une technologie IA, en la photographiant avec l’outil de fonction.
+Basegun est un outil permettant de classifier automatiquement une arme à feu découverte lors d’une mission de police ou de gendarmerie via une technologie IA, en la photographiant avec l’outil de fonction NEO.
 
-Elle permet de verifier si une arme est factice.
+Elle permet de vérifier si une arme est factice.
 
 Elle proposera également des tutoriels permettant de mettre en sécurité les différents type d'armes rencontrés sur le terrain lors de saisies par les FSI.
 
