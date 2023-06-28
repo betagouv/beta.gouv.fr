@@ -1,6 +1,6 @@
 ---
 fullname: Romy Duhem-Verdière
-role: Design UX & a11y
+role: Design UX &amp; a11y
 domaine: Design
 link: http://romy.tetue.net
 missions:
@@ -9,7 +9,7 @@ missions:
     status: service
     employer: octo
   - start: 2022-11-01
-    end: 2023-06-30
+    end: 2023-09-30
     status: service
     employer: octo
 previously:
