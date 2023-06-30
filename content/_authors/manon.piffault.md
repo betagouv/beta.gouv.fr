@@ -1,6 +1,6 @@
 ---
 fullname: Manon Piffault
-role: Chargée de déploiement
+role: Déploiement
 domaine: Déploiement
 missions:
   - start: 2022-09-19
@@ -11,7 +11,6 @@ startups:
   - aidantsconnect
 badges:
   - segur
-
 ---
 
 
