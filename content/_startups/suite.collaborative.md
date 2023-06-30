@@ -29,7 +29,7 @@ Une fois complète, la suite comprendra des services de :
 * Kanban 
 * Documentation des process avec Outline 
 
-Tous ces services seront interconnectés pour en faciliter les usages, à commencer par l'authentification qui sera commune grce au fournisseur d'identité Agent Connect.
+Tous ces services seront interconnectés pour en faciliter les usages, à commencer par l'authentification commune grce au fournisseur d'identité Agent Connect.
 
 ## Stratégie
 
