@@ -5,7 +5,7 @@ domaine: Développement
 github: ccomb
 missions:
   - start: 2023-01-01
-    end: 2023-07-31
+    end: 2023-09-09
     status: independent
     employer: LBC
 startups:
