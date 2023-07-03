@@ -1,4 +1,8 @@
----
+startups :
+- signalconso
+- monstagedetroisieme
+- end : 2024-03-30
+----
 fullname: Ingrid Godefroy
 role: Chargée de déploiement
 domaine: Déploiement
