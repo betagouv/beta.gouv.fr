@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: lazone/scopyleft
   - start: 2021-07-01
-    end: 2023-06-30
+    end: 2023-12-31
     status: independent
     employer: lazone/scopyleft
 startups:
