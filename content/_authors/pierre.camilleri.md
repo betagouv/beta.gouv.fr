@@ -1,7 +1,7 @@
 ---
 fullname: Pierre Camilleri
 domaine: Autre
-role: Data Scientist Signaux-Faibles
+role: Data engineer
 missions:
   - start: 2018-03-01
     end: 2020-02-28
@@ -11,8 +11,14 @@ missions:
     end: 2021-12-31
     status: admin
     employer: Banque de France
+  - start: 2023-07-03
+    end: 2023-12-31
+    status: independent
+    employer: Malt
 startups:
-    - signaux-faibles
+  - transition-ecologique-des-entreprises
+previously:
+  - signaux-faibles
 ---
 
 Data-Scientist
