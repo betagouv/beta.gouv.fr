@@ -1,5 +1,5 @@
 ---
-title: APMa - KBKS - KF
+title: APMa-KBKS-KF
 mission: Dérisquage de projet par l'évaluation environnementale et développement
   d'une approche environnementale systématique des projets.
 sponsors:
