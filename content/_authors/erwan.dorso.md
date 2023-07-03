@@ -10,10 +10,10 @@ missions:
     status: independent
     employer: Scop&co
 startups:
-  - tchap
   - eimis
 memberType: autre
-
+previously:
+  - tchap
 ---
 
 
