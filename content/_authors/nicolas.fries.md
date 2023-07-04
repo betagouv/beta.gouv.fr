@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: Codeurs en Liberté
   - start: 2022-03-28
-    end: 2023-07-31
+    end: 2023-12-31
     status: independent
     employer: Malt
 startups:
