@@ -11,7 +11,7 @@ avatar: # optionnel, voir ci-dessous
 link: https://www.lassembleuse.fr
 missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
   - start: 2020-10-12 # date d'arrivée au format ISO (AAAA-MM-JJ)
-    end: 2023-07-31 # date de fin de contrat au format ISO (AAAA-MM-JJ)
+    end: 2024-07-31 # date de fin de contrat au format ISO (AAAA-MM-JJ)
     status: independent
     employer: octo
 startups: # ta ou tes startups actuelles
