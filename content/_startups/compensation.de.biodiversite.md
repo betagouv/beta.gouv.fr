@@ -21,14 +21,18 @@ Le maintien et le développement de la biodiversité sur les territoires sont de
 
 ## Problème
 
-Or l'analyse qualitative des documents d'urbanisme existant montre une très faible prise en compte de ces enjeux de biodiversité, hormis dans des zones géographiques bien définies (ex de Nantes). Les règles et contraintes fixées sont peu clairs, et les enjeux d'urbanisation prennent souvent le pas sur les enjeux de biodiversité. Conséquence majeure : les acteurs 
+L'analyse qualitative des documents d'urbanisme existant montre une très faible prise en compte de ces enjeux de biodiversité, hormis dans des zones géographiques bien définies (ex de Nantes). Les règles et contraintes fixées sont peu clairs, et les enjeux d'urbanisation prennent souvent le pas sur les enjeux de biodiversité. Cela a des conséquences sur toute la chaine d'acteurs impliqués dans les projets d'aménagement du territoire
 
-Les problèmes que vous avez identifiés ou vos hypothèses de problèmes? Qui en souffre ? quels sont les conséquences de ces problèmes ?
+\- les porteurs de projet d'aménagement n'identifient pas clairement les enjeux et contraintes de biodiversité sur leur territoire et 
+
+\- la portée de leurs initiatives reste limitée par un manque de connaissance de la palette de solutions qui s'offre à eux
+
+\-﻿ les élus éprouvent des difficultés à justifier économiquement la priorisation de projets de préservation de la biodoversoté.
 
 ## Solution
 
-Décrit ta solution en quelques lignes? qui seront/sont les bénéficiaires ?
+Nous sommes actuellement en phase de validation des problématiques, la solution n'a pas encire été étudiée.
 
-## Stratégie
+## Stratégie d'investigation
 
-Comment vous vous y prenez pour atteindre votre usagers ? quel impact chiffré visez-vous ?
+P﻿our notre phase d'investigation, nous avons choisi d'interviewer l'ensemble des acteurs présents sur le cycle partant de la création d'un PLU jusqy'à la mise en place de projets d'amménagement. Notre objectif est de comprendre et valider leurs enjeux et challenges afin d'identier une ou deux sous problématiques à résoudre sous la forme d'un produit numérique.
