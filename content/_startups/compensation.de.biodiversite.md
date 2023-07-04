@@ -12,9 +12,6 @@ phases:
     start: 2023-04-24
     comment: Phase d'entretiens terminée, synthèse des apprentissages en cours
 ---
-Voici un exemple de format  - N'hésite pas à utiliser les outils de mis-en-forme ou à switcher en markdown ☝️.
-Pour t'aider dans la rédaction de ta fiche produit, nous te recommandons de suivre ce plan: 
-
 ## Contexte
 
 Le maintien et le développement de la biodiversité sur les territoires sont des enjeux majeurs au niveau européen, ainsi qu'au niveau de l'état. La stratégie Biodiversité nationale 2030 fixe des objectifs de 10% du territoire en aires protégées et des fonds dédiés sont alloués aux projets liés à la biodiversité, comme le fond vert, financé à hauteur de 2Mds depuis 2022. Les documents d'urbanisme, comme les PLUs, doivent jouer un rôle majeur dans le développement des intitiatives de préservation de la biodiversité, en fixant les contraintes et enjeux clairs à l'échelle locale, respectés par les acteurs porteurs de projet d'aménagement. 
@@ -23,7 +20,7 @@ Le maintien et le développement de la biodiversité sur les territoires sont de
 
 L'analyse qualitative des documents d'urbanisme existant montre une très faible prise en compte de ces enjeux de biodiversité, hormis dans des zones géographiques bien définies (ex de Nantes). Les règles et contraintes fixées sont peu clairs, et les enjeux d'urbanisation prennent souvent le pas sur les enjeux de biodiversité. Cela a des conséquences sur toute la chaine d'acteurs impliqués dans les projets d'aménagement du territoire
 
-\- les porteurs de projet d'aménagement n'identifient pas clairement les enjeux et contraintes de biodiversité sur leur territoire et 
+\- les porteurs de projet d'aménagement n'identifient pas clairement les enjeux et contraintes de biodiversité sur leur territoire et limitent leurs actions
 
 \- la portée de leurs initiatives reste limitée par un manque de connaissance de la palette de solutions qui s'offre à eux
 
@@ -31,8 +28,8 @@ L'analyse qualitative des documents d'urbanisme existant montre une très faible
 
 ## Solution
 
-Nous sommes actuellement en phase de validation des problématiques, la solution n'a pas encire été étudiée.
+Nous sommes actuellement en phase de validation des problématiques, la solution n'a pas encore été étudiée.
 
 ## Stratégie d'investigation
 
-P﻿our notre phase d'investigation, nous avons choisi d'interviewer l'ensemble des acteurs présents sur le cycle partant de la création d'un PLU jusqy'à la mise en place de projets d'amménagement. Notre objectif est de comprendre et valider leurs enjeux et challenges afin d'identier une ou deux sous problématiques à résoudre sous la forme d'un produit numérique.
+P﻿our notre phase d'investigation, nous avons choisi d'interviewer l'ensemble des acteurs présents sur le cycle partant de la création d'un PLU jusqy'à la mise en place de projets d'amménagement. Notre objectif est de comprendre et valider leurs enjeux et challenges afin d'identifier une ou deux sous problématiques à résoudre sous la forme d'un produit numérique.
