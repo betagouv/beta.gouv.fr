@@ -68,10 +68,10 @@ Notre objectif d’impact d'ici à fin 2023 :
 * 80% des DDT utilisent Docurba pour transmettre le PAC < 6 mois, et suivre leur document d’urbanisme,
 * 33% des collectivités se lançant dans un document d’urbanisme ont été orientées par Docurba.
 
-**En janvier 2023, notre produit est utilisé par 37+ DDT, soit 80 agents des services de planification, et une 20aine de collectivités et bureaux d’études.** 
+**En juillet 2023, 70 DDT(M)/DEAL on été embarquées sur Docurba via une session d'information à la suite de quoi +145 agents des services de planification se sont inscrits.** 
 
 
-Nos statistiques via ce lien : [Statistiques de Docurba](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=235&period=range&date=previous30#?idSite=235&period=range&date=2022-12-01,2023-01-09&category=General_Visitors&subcategory=General_Overview)
+Nos statistiques via ce lien : [Statistiques de Docurba](https://docurba.beta.gouv.fr/stats)
 
 
 
