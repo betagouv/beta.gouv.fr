@@ -2,6 +2,8 @@
 fullname: Pierre Camilleri
 domaine: Autre
 role: Data engineer
+github: pierrecamilleri
+link: https://multi.coop
 missions:
   - start: 2018-03-01
     end: 2020-02-28
@@ -21,4 +23,4 @@ previously:
   - signaux-faibles
 ---
 
-Data-Scientist
+Data Full Stack
