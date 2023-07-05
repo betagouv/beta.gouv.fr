@@ -21,6 +21,11 @@ usertypes:
   - collectivite-territoriale
   - etat
 ---
+**L'équipe de [Docurba](https://docurba.beta.gouv.fr/) s'agrandit pour la rentrée de septembre 2023, retrouvez nos offres de missions dans les liens suivants : 
+- [Un(e) 3ème développeur](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/developer-fullstack-pour-docurba-produit-numerique-au-service-des-enjeux-de-l-amenagement-du-territoire_paris)
+- [Un(e) designer d'interface UX/UI](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/designer-ux-ui-pour-docurba-produit-numerique-au-service-des-enjeux-de-l-amenagement-du-territoire_paris)
+- [Un(e) 3ème chargé(e) de déploiement](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/business-developer-oriente-activation-collectivites-bureaux-d-etudes-pour-docurba-produit-numerique-au-service-des-enjeux-de-l-amenagement-du-territoire_paris)
+- [Un(e) expert(e) urbanisme](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/expert-e-urbanisme-pour-docurba-produit-numerique-au-service-des-enjeux-de-l-amenagement-du-territoire_paris)**
 
 
 **Plus de 10 000 collectivités devront décliner la trajectoire d’artificialisation des sols prévue par la loi Climat et Résilience d’ici 2027 dans leurs documents d’urbanisme, lesquels s’imposent aux 1,5 million de demandes d’autorisation d’urbanisme.** Or l’élaboration de ces documents est longue et risquée. Les collectivités mettent entre 3 et 5 ans à élaborer leur document d’urbanisme, et lors de l’approbation la majorité des avis de l’Etat présentent des réserves sur la prise en compte des enjeux environnementaux. À ce titre, la consommation d’espace, l’assainissement ou l’eau potable sont insuffisamment évalués dans ces projets de planification urbaine.  
