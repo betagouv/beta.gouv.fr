@@ -13,8 +13,6 @@ phases:
     comment: "Dénomination initiale du projet : \"Décisions rendues au cas par cas\"
       - Fin de la phase d'investigation programmée en septembre 2023"
 ---
-Intrapreneur : Joel FIGUERES                                                                                           Coach : Emmanuel BELLITY 
-
 ## Contexte
 
 Les demandes d'évaluations environnementales préalables à l'étude d'impact (demandes d'examen au "cas par cas - Projets" représentent un flux national de près de 5.000 dossiers traités annuellement.
