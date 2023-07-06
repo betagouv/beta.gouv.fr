@@ -9,7 +9,7 @@ missions:
 competences:
   - Coaching
 memberType: autre
-fullname: Emmanuel Bellity
+fullname: Emmanuel BELLITY
 role: Coach
 startups:
   - evalpro
