@@ -38,4 +38,4 @@ Il devient donc essentiel de mettre en place des solutions qui permettent la col
 
 La stratégie de mise en place d'une gestion améliorée des prélèvements d'eau consiste à commencer par une expérimentation sur le territoire de La Réunion. Cette île, confrontée à des défis particuliers en matière de gestion de l'eau, offre un contexte propice pour tester des approches novatrices. 
 
-En utilisant cette expérience pilote comme base de référence, l'objectif est ensuite de généraliser et d'étendre cette approche à l'ensemble du territoire.
+dEn utilisant cette expérience pilote comme base de référence, l'objectif est ensuite de généraliser et d'étendre cette approche à l'ensemble du territoire.
