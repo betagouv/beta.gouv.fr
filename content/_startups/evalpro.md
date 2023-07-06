@@ -1,7 +1,8 @@
 ---
 title: EvalPro+
-mission: Dérisquage de projet par l'évaluation environnementale et développement
-  d'une approche environnementale systématique des projets.
+mission: >-
+  Dérisquage de projet par l'évaluation environnementale et développement d'une
+  approche environnementale systématique des projets.
 sponsors:
   - /organisations/mtes
 incubator: mtes
@@ -10,16 +11,17 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-04-24
-    comment: "Dénomination initiale du projet : \"Décisions rendues au cas par cas\"
-      - Fin de la phase d'investigation programmée en septembre 2023"
+    comment: >-
+      Dénomination initiale du projet : "Décisions rendues au cas par cas" - Fin
+      de la phase d'investigation programmée en septembre 2023
 ---
 ## Contexte
-
-Les demandes d'évaluations environnementales préalables à l'étude d'impact (demandes d'examen au "cas par cas - Projets" représentent un flux national de près de 5.000 dossiers traités annuellement.
 
 S'engager dans la réalisation d'un projet agricole ou immobilier implique d'être rapidement confronté à l'obtention préalable d'un certain nombre d'autorisations administratives *(défrichement, mise en culture, autorisations d'urbanisme...)* et de pouvoir anticiper et traiter les incidences environnementales de celui-ci.
 
 Sur la base d'un premier dépôt de dossier, l'usager est sollicité sur l'évaluation environnementale de son projet au travers de la présentation de celui-ci au titre de l'examen au "cas par cas".
+
+Le traitement de ces dossiers représente un flux annuel de près de 5.000 unités au niveau national.
 
 ## Problème
 
@@ -35,9 +37,9 @@ Le taux d’abandon des projets, en fin de course, renforce le recours à des so
 
 D'intégrer l'évaluation environnementale des projets au sein même des procédures d'autorisations administratives sur le principe "dites le nous une fois". Le dépôt d'un dossier "déclenche" la soumission de celui-ci à l'évaluation environnementale au "cas par cas" sans intervention du demandeur.
 
-D'établir une évaluation préalable de la faisabilité d'un projet, agricole  ou immobilier, au regard des principales règles opposables (environnement, urbanisme et risques naturels) adossée aux possibilités d'aides techniques et financières pouvant être mobilisées.
+D'établir une évaluation préalable de la faisabilité d'un projet, agricole  ou immobilier, au regard des principales règles opposables *(environnement, urbanisme et risques naturels)* adossée aux possibilités d'aides techniques et financières pouvant être mobilisées.
 
-D'offrir la possibilité d'évaluer les opportunités de valorisation foncière d'un terrain ou d'un lot de terrains donné avant acquisition / aménagement (informations à destination de futurs acquéreurs / de promoteurs immobiliers)
+D'offrir la possibilité d'évaluer les opportunités de valorisation foncière d'un terrain ou d'un lot de terrains donné avant acquisition / aménagement *(informations à destination de futurs acquéreurs / de promoteurs immobiliers)*.
 
 ## Stratégie
 
@@ -47,7 +49,7 @@ Intervenir en conseil réglementaire dès la prise en compte d'un dépôt de dos
 
 Intervenir en conseil réglementaire dès la prise en compte d'un dépôt de dossier de demande d'autorisation d'urbanisme en fonction des contraintes découlant du code forestier.
 
-Initier une offre de service en "conseil amont" aux particuliers et professionnels de l'immobilier (agents immobiliers et promoteurs).
+Initier une offre de service en "conseil amont" aux particuliers et professionnels de l'immobilier *(agents immobiliers et promoteurs)*.
 
 ## Résultats attendus à six mois
 
