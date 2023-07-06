@@ -14,4 +14,4 @@ role: Intrapreneur
 startups:
   - evalpro
 ---
-Aménageur, bidouilleur Macophile... Surnom : "Stack overflow" ;-)
+Aménageur, bidouilleur Macophile...
