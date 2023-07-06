@@ -1,6 +1,6 @@
 ---
 title: Prélèvements d'eau
-mission: "Faciliter la gestion des prélèvements d'eau "
+mission: Faciliter la délivrance et le contrôle des autorisation de prélèvements d'eau
 sponsors:
   - /organisations/ademe
 incubator: ademe
@@ -18,7 +18,7 @@ Alors que les ressources en eau douce se raréfient et que les pressions sur les
 
 Face à ces enjeux, il est primordial de développer des approches innovantes et intégrées pour optimiser la gestion des prélèvements d'eau et préserver nos écosystèmes aquatiques pour les générations futures.
 
-## Problème 
+## Problème
 
 La gestion des prélèvements d'eau potable dans les collectivités se heurte à plusieurs problèmes critiques. 
 
@@ -32,13 +32,10 @@ En conséquence, les collectivités se retrouvent contraintes de dimensionner le
 
 ## Solution
 
-Il devient donc essentiel de mettre en place des solutions qui permettent la collecte, le traitement, et la centralisation des données de prélèvements d'eau, afin d'améliorer la gestion et de garantir une utilisation durable de cette ressource précieuse.
+Il devient donc essentiel de mettre en place des solutions qui permettent la collecte, le traitement, et la centralisation des données de prélèvements d'eau afin que ces données puissent être analysées et utilisées pour dimensionner les autorisations de prélèvements d'eau et permettre un suivi et un contrôle informé. 
 
 ## Stratégie
 
 La stratégie de mise en place d'une gestion améliorée des prélèvements d'eau consiste à commencer par une expérimentation sur le territoire de La Réunion. Cette île, confrontée à des défis particuliers en matière de gestion de l'eau, offre un contexte propice pour tester des approches novatrices. 
 
-En utilisant cette expérience pilote comme base de référence, l'objectif est ensuite de généraliser et d'étendre cette approche à l'ensemble du territoire. 
-
-
-
+En utilisant cette expérience pilote comme base de référence, l'objectif est ensuite de généraliser et d'étendre cette approche à l'ensemble du territoire.
