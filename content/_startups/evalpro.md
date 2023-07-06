@@ -37,7 +37,7 @@ D'intégrer l'évaluation environnementale des projets au sein même des procéd
 
 D'établir une évaluation préalable de la faisabilité d'un projet, agricole  ou immobilier, au regard des principales règles opposables (environnement, urbanisme et risques naturels) adossée aux possibilités d'aides techniques et financières pouvant être mobilisées.
 
-D'offrir la possibilité d'évaluer les possibilités de valorisation foncière d'un terrain ou d'un lot de terrains donné avant acquisition / aménagement (informations à destination de futurs acquéreurs / de promoteurs immobiliers)
+D'offrir la possibilité d'évaluer les opportunités de valorisation foncière d'un terrain ou d'un lot de terrains donné avant acquisition / aménagement (informations à destination de futurs acquéreurs / de promoteurs immobiliers)
 
 ## Stratégie
 
