@@ -10,7 +10,7 @@ missions:
 previously:
     - avril
     - clara
-    - rdv-services-publics
+    - rdv-service-public
     - maintenant
 ---
 

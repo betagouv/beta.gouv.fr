@@ -8,9 +8,8 @@ missions:
     end: 2023-12-31
     status: admin
     employer: independent
-startups:
-previously : 
-    - tdb-apprentissage
-    - sirius
-    - anotea
+previously:
+  - tdb-apprentissage
+  - sirius
+  - anotea
 ---

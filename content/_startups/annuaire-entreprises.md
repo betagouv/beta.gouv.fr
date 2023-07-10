@@ -11,11 +11,12 @@ phases:
 usertypes:
   - etat
   - entreprise
-incubator: apigouv
+incubator: dinum_produits_interministeriels
 link: https://annuaire-entreprises.data.gouv.fr
 repository: https://github.com/etalab/annuaire-entreprises.data.gouv.fr
 stats: true
 stats_url: https://annuaire-entreprises.data.gouv.fr/stats
+budget_url: https://annuaire-entreprises.data.gouv.fr/budget
 dashlord_url: https://dashlord.incubateur.net/url/annuaire-entreprises-data-gouv-fr/
 contact: annuaire-entreprises@data.gouv.fr
 ---

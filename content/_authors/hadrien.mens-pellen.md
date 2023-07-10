@@ -6,7 +6,7 @@ link: https://hadrienmp.fr
 github: hadrienmp
 missions:
   - start: 2023-04-03
-    end: 2023-07-10
+    end: 2023-09-10
     status: independent
     employer: Malt
 startups:

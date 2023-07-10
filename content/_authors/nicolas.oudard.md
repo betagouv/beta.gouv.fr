@@ -11,6 +11,8 @@ missions:
     employer: Malt
 startups:
   - apilos
+  - quefairedemesobjets
+previously:
   - sppnaut
 badges:
   - segur

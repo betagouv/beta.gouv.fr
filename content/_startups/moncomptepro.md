@@ -1,6 +1,6 @@
 ---
 mission: Nous identifions vos utilisateurs professionnels du privé ou du public.
-incubator: dinum
+incubator: dinum_produits_interministeriels
 repository: https://github.com/betagouv/moncomptepro
 contact: ishan.bhojwani@beta.gouv.fr
 usertypes:

@@ -10,4 +10,6 @@ memberType: beta
 github: fannyblanc
 competences:
   - Communication
+teams:
+  - /teams/communaute-dinum
 ---

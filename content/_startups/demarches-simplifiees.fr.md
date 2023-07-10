@@ -3,7 +3,7 @@ title: Démarches Simplifiées
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
 sponsors:
  - /organisations/dinum
-incubator: dinum
+incubator: dinum_produits_interministeriels
 events:
   - name: national_impact
     date: 2018-01-01

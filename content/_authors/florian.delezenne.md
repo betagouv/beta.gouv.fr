@@ -1,6 +1,6 @@
 ---
 fullname: Florian Delezenne
-role: Responsable du programme beta.gouv.fr à la DINUM
+role: Co-responsable de l'opérateur, en charge des produits pérennes
 domaine: Animation
 github: Flightan
 link: https://github.com/betagouv/beta.gouv.fr/edit/master/content/_authors/florian.delezenne.md
@@ -25,7 +25,7 @@ previously:
 badges:
   - segur
 teams:
-  - /teams/animation-dinum
+  - /teams/dinum_produits_interministeriels
 ---
 
 [Cliquez ici pour améliorer cette bio]

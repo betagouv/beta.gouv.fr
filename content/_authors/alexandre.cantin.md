@@ -13,6 +13,7 @@ startups:
   - dora
 previously:
   - la-bonne-boite
+  - la-bonne-alternance
 ---
 
 Agent de Pôle emploi et développeur pour La Bonne Boite.

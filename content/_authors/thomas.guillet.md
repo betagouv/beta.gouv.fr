@@ -31,7 +31,7 @@ previously:
   - mes-aides
   - voir-et-localiser
   - data.insertion
-  - rdv-services-publics
+  - rdv-service-public
 badges:
   - segur
 ---

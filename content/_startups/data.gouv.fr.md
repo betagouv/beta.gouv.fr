@@ -1,7 +1,7 @@
 ---
 title: data.gouv.fr
 mission: Partager, améliorer et réutiliser les données publiques.
-incubator: dinum
+incubator: dinum_produits_interministeriels
 sponsors:
  - /organisations/dinum
 events:

@@ -1,6 +1,6 @@
 ---
 fullname: Bréanne Mallat
-role: Chargée de déploiement
+role: Responsable de portefeuille Agriculture
 domaine: Autre
 github: bmallat
 missions:
@@ -18,4 +18,6 @@ previously:
   - aides-territoires
   - locatio
   - mon-entreprise
+teams:
+  - /teams/animation-dinum
 ---

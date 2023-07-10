@@ -1,19 +1,20 @@
 ---
 fullname: Christian Charousset
-role: Customer Success Manager
+role: Chargé de déploiement
 domaine: Déploiement
 github: chrischarousset
 missions:
   - start: 2021-12-13
-    end: 2023-06-30
+    end: 2023-12-31
     status: independent
     employer: DINUM
 previously:
   - trackdechets
 badges:
   - segur
-
+startups:
+  - quefairedemesobjets
 ---
 
 
-Et vous, avez-vous créé votre compte Trackdéchets ?
+La circularité, pour préserver nos ressources ♻
