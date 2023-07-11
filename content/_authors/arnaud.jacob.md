@@ -9,6 +9,8 @@ missions:
     employer: OCTO
 memberType: attributaire
 github: arnaud.jacob
+startups:
+  - suite.collaborative
 competences:
   - Développement Backend
   - Développement Frontend
