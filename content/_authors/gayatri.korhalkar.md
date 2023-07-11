@@ -1,6 +1,6 @@
 ---
 fullname: Gayatri Korhalkar
-role: Coach 
+role: Coach
 domaine: Coaching
 missions:
   - start: 2021-01-11
@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: ANCT
   - start: 2022-01-13
-    end: 2023-06-30
+    end: 2023-09-29
     status: independent
     employer: UT7
 startups:
