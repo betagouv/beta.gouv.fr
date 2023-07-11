@@ -17,4 +17,4 @@ badges:
   - segur
 ---
 
-Développeuse web. Justice sociale, justice climatique (et jeux de rôle) pour toustes ✊🏽.
+Développeuse web. À quand les justices sociales et climatiques ?
