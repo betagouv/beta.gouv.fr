@@ -5,7 +5,7 @@ role: Développeur Fullstack Js
 link: https://www.linkedin.com/in/ftaffore/
 missions:
   - start: 2019-05-14
-    end: 2023-06-30
+    end: 2024-02-08
     status: independent
     employer: ''
 startups:
@@ -13,6 +13,5 @@ startups:
   - osirispn
 competences:
   - Développement Frontend
-
 ---
 
