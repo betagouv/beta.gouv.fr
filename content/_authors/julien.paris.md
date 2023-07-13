@@ -6,7 +6,7 @@ link: https://multi.coop
 github: JulienParis
 missions:
   - start: 2023-04-26
-    end: 2023-07-27
+    end: 2023-12-31
     status: service
     employer: Malt
 startups:
