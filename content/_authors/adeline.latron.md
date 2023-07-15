@@ -5,10 +5,11 @@ domaine: Déploiement
 github: adeline-lrn
 missions:
   - start: 2019-02-07
-    end: 2023-07-17
+    end: 2024-07-17
     status: independent
+    employer: ''
 startups:
-    - place-des-entreprises
+  - place-des-entreprises
 ---
 
 
