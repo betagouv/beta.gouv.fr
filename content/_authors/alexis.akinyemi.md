@@ -6,15 +6,15 @@ github: Alexis-Akinyemi
 link: https://www.linkedin.com/in/alexis-akinyemi/
 missions:
   - start: 2019-09-26
-    end: 2023-07-30
+    end: 2023-12-31
     status: service
     employer: AD-HOC Lab
 startups:
-    - diagoriente
-    - la-bonne-alternance
-    - Trajpro
+  - diagoriente
+  - la-bonne-alternance
+  - Trajpro
 previously:
-    - eva
+  - eva
 ---
 
 
