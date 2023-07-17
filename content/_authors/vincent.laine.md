@@ -20,7 +20,7 @@ missions:
 startups:
   - usine-chatbots
   - airvam
-  - vigieau.1
+  - vigieau
 previously:
   - preuve-de-covoiturage
 competences:
