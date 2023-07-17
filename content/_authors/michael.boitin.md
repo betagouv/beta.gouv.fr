@@ -15,7 +15,7 @@ missions:
 startups:
   - locatio
   - a-just
-  - vigieau.1
+  - vigieau
 competences:
   - UX
   - UI
