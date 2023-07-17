@@ -4,7 +4,7 @@ role: Équipe Chargés de déploiement
 domaine: Développement
 missions:
   - start: 2023-04-13
-    end: 2023-12-15
+    end: 2023-12-14
     status: independent
     employer: Scopyleft
 memberType: beta
