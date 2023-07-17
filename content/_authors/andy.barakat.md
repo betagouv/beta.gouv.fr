@@ -11,7 +11,7 @@ missions:
 teams:
   - /teams/mtes
 startups:
-  - vigieau.1
+  - vigieau
 ---
 
 
