@@ -5,7 +5,7 @@ role: Développeur
 github: ArnaudBnd
 missions:
   - start: 2023-02-12
-    end: 2024-09-01
+    end: 2024-09-02
     status: independent
     employer: Malt
 badges:
