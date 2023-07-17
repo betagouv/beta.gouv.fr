@@ -1,8 +1,6 @@
 ---
 title: Valorisation des stages pro
-mission: >-
-  Valoriser les périodes de formation en milieu professionnel (PFMP) réalisées
-  par les lycéens et lycéennes pro.
+mission: Valoriser les périodes de formation en milieu professionnel (PFMP) réalisées par les lycéens et lycéennes pro.
 sponsors:
   - /organisations/dgesco
 incubator: dinum
@@ -13,9 +11,7 @@ phases:
     end: 2023-03-01
   - name: construction
     start: 2023-03-01
-pitch: >-
-  Valoriser les périodes de formation en milieu professionnel (PFMP) réalisées
-  par les lycéens et lycéennes pro.
+pitch: Valoriser les périodes de formation en milieu professionnel (PFMP) réalisées par les lycéens et lycéennes pro.
 repository: https://github.com/betagouv/aplypro
 ---
 ## Contexte
