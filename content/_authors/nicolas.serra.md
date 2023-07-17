@@ -5,7 +5,7 @@ domaine: Développement
 github: ipseidev
 missions:
   - start: 2023-01-30
-    end: 2023-06-30
+    end: 2023-12-31
     status: independent
     employer: Omnicité
 startups:

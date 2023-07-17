@@ -9,13 +9,12 @@ missions:
     status: independent
     employer: octo
   - start: 2021-09-08
-    end: 2023-07-30
+    end: 2023-12-12
     status: independent
     employer: octo
 startups:
   - zero-logement-vacant
 previously:
   - signalement
-
 ---
 
