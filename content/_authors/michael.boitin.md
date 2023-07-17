@@ -23,6 +23,6 @@ competences:
 previously:
   - locatio
   - a-just
-  - vigieau.1
+  - vigieau
 ---
 Ux designer DossierFacile.fr et A-JUST
