@@ -1,7 +1,7 @@
 ---
 fullname: Sophie Larroumet
 domaine: Produit
-role: Cheffe de produit (Product Manager)
+role: Product Manager
 missions:
   - start: 2022-10-03
     end: 2025-10-02
@@ -17,4 +17,5 @@ startups:
   - cassiopee
 
 ---
+
 

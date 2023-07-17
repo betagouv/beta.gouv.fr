@@ -12,6 +12,7 @@ missions:
 startups:
     - ellesfontlaculture
     - ma-cantine-egalim
+    - iCare-compléments-alimentaires
 previously:
     - pop
     - datagir

@@ -1,17 +1,20 @@
 ---
 fullname: Laurent Barbat
 domaine: Design
-role: UX Designer
+role: UX Designer, Coach
 github: laurentux
 missions:
   - start: 2021-09-21
-    end: 2023-07-31
+    end: 2023-12-31
     status: independent
     employer: Ministère de la Transition Écologique / Fabrique numérique
 startups:
-  - attractivite.des.territoires
   - ecobalyse
+  - tacct
 competences:
   - UX
+previously:
+  - attractivite.des.territoires
+  - aldo
 ---
 Designer de service, UX & Facilitation

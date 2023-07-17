@@ -10,7 +10,7 @@ phases:
     start: 2021-10-07
   - name: construction
     start: 2022-01-17
-link:
+link: https://sppnaut.beta.gouv.fr/
 stats: false
 repository: https://github.com/betagouv/SPPNautInterface/
 contact: gael.roue@shom.fr

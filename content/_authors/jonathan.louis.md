@@ -5,7 +5,7 @@ role: Chargé de déploiement
 github: Jonathan2051
 missions:
   - start: 2020-07-20
-    end: 2023-04-29
+    end: 2023-12-31
     status: independent
     employer: octo
 startups:
@@ -14,7 +14,9 @@ startups:
   - deveco
 competences:
   - Communication
-
+previously:
+  - fiche.commune.entreprise.fce
+  - tchap
 ---
 >-
   « La principale difficulté n’est pas de produire un film, un livre ou un site

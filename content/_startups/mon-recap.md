@@ -17,14 +17,12 @@ Le parcours d’une personne en difficulté d’insertion socio-professionnelle 
 Parmi eux, des acteurs dits “de proximité” tels que la famille, les amis, les pairs, les bénévoles, les mentors et les médiateurs, qui sont souvent disponibles et accessibles pour fournir un soutien et des conseils. 
 Ces « orienteurs » maintiennent une continuité des actions de terrain entreprises au quotidien par une personne en insertion.
 
-## Problème
+## Le problème
 34 % des personnes éloignées de l'emploi qui ont droit à des aides sociales y renoncent
 [Source](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/mesurer-regulierement-le-non-recours-au)
 
-## La solution à expérimenter
+## Notre service
 Mettre à disposition d'un groupe de personnes éloignées de l'emploi un carnet de note qui lui permet d’inscrire les actions mises en place avec les orienteurs à chaque intervention.
-
-## Mesure d’impact
 
 L’expérimentation sera considérée réussie si :
 

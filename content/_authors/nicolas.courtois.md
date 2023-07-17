@@ -11,6 +11,10 @@ missions:
     employer: DJEPVA
 startups:
   - jeveuxaider
+  - api-engagement
+previously:
+  - snu
+  - sante-psy-etudiant
 ---
 
 UX/UI Designer

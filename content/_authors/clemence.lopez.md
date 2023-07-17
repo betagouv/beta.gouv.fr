@@ -1,6 +1,6 @@
 ---
 fullname: Clémence Lopez
-role: Co-animatrice et responsable de portefeuille - Éducation nationale
+role: Responsable de portefeuille - Éducation nationale, Vie associative, Sports et Enseignement supérieur 
 domaine: Produit
 github: clemhacks
 missions:
@@ -13,7 +13,7 @@ missions:
     status: admin
     employer: Dinum
 startups:
-  - comptes.ressources
+  - compte.ressources
 previously:
   - tchap
   - sparte
@@ -21,7 +21,8 @@ previously:
   - cnr
 badges:
   - segur
-
+teams:
+  - /teams/animation-dinum
 ---
 
 

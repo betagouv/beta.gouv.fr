@@ -6,7 +6,7 @@ github: nenj
 link: https://www.linkedin.com/in/nicolas-enjalbert/
 missions:
   - start: 2021-04-08
-    end: 2023-06-30
+    end: 2023-10-31
     status: independent
     employer: Benext, NUMA
 startups:
@@ -18,7 +18,6 @@ competences:
   - Coaching
   - UX
   - Gestion de Produit
-
 ---
 
 Designer de service & coach produit

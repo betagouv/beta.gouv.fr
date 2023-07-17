@@ -5,7 +5,7 @@ domaine: Design
 avatar: https://i.goopics.net/rbAWD.png
 missions:
   - start: 2018-01-01
-    end: 2023-03-31
+    end: 2023-06-30
     status: independent
     employer: octo
 startups:
@@ -16,4 +16,6 @@ previously:
   - domifa
   - workinfrance
   - medle
+
 ---
+

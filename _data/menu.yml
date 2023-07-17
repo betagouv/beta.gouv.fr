@@ -2,8 +2,8 @@
 title:
 nav:
   -
-    label: Brigade
-    target: _pages/brigade.md
+    label: FAST
+    target: _pages/fast.md
   -
     label: Incubateurs
     target: _pages/incubateurs.md
@@ -29,3 +29,16 @@ shortcuts:
     label: Espace Membre
     external: true
     url: https://espace-membre.incubateur.net
+fast:
+  -
+    label: Éligibilité au FAST
+    target: /fast/éligibilité
+  -
+    label: Jury du FAST
+    target: /fast/comité
+  -
+    label: Pendant le FAST
+    target: /fast/déroulement
+  -
+    label: Lauréats passés du FAST
+    target: /fast/lauréats

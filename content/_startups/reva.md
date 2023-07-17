@@ -30,7 +30,8 @@ techno:
   - Scalingo
 usertypes:
   - particulier
-
+stats_url: https://metabase.reva.beta.gouv.fr/public/dashboard/f27f670b-31fb-4b3d-8322-52761c4110c2
+stats: true
 ---
 
 ## Contexte

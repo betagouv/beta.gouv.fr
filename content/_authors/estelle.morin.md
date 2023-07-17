@@ -5,12 +5,11 @@ domaine: Autre
 link: https://omnicite.fr/
 missions:
   - start: 2022-06-21
-    end: 2023-06-29
+    end: 2023-12-31
     status: service
     employer: ''
 badges:
   - segur
-
 ---
 
 

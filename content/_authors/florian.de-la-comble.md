@@ -5,17 +5,14 @@ role: Développeur
 github: flodlc
 missions:
   - start: 2022-03-21
-    end: 2023-05-25
+    end: 2023-12-31
     status: independent
-    employer: ''
+startups:
 previously:
   - potentiel
+  - dematapprentissage
 competences:
   - Développement Frontend
   - Développement Backend
-startups:
-  - pilotagevoiepro
-
 ---
-
 Développeur full stack JS

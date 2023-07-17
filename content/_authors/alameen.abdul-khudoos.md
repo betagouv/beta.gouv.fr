@@ -10,7 +10,7 @@ missions:
     status: independent
 incubator: pole-emploi
 startups:
-  - application.primo.arrivants
+  - travailler.en.france
   - mes.aides
 previously:
   - zen

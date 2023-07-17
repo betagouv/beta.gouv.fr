@@ -29,7 +29,8 @@ competences:
   - UX
   - UI
   - Accessibilité
-
+teams:
+  - /teams/communaute-dinum
 ---
 
 Concevoir pour toutes et tous

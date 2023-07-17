@@ -1,6 +1,7 @@
 ---
-title: FAST 1 -  Juin 2019
-sidebar: sidebar-approche.html
+layout: with-sidebar
+title: FAST 1 - Juin 2019
+sidebar: sidebar-fast.html
 ---
 
 ## **Le comité d'investissement :**

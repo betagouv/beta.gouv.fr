@@ -1,13 +1,16 @@
 ---
 title: Prev-AC-TION
 mission: Prévenir les risques et les maladies professionnelles dans le secteur maritime
-sponsors: 
-    - /organisations/dinum
+sponsors:
+  - /organisations/dinum
 incubator: mtes
 contact: Sebastien.MICHEL@developpement-durable.gouv.fr
 phases:
   - name: investigation
     start: 2021-06-29
+    end: 2021-09-30
+  - name: alumni
+    start: 2021-09-30
 ---
 ## Contexte
 

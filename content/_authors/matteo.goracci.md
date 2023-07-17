@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: ANCT
   - start: 2022-09-12
-    end: 2023-05-25
+    end: 2023-08-25
     status: independent
     employer: OCTO
 startups:

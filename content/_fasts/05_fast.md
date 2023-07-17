@@ -1,9 +1,9 @@
 ---
-title: FAST 5 - Octobre 2020 
-sidebar: sidebar-approche.html
+title: FAST 5 - Octobre 2020
+sidebar: sidebar-fast.html
 ---
 
-## **Le comité d'investissement :** 
+## **Le comité d'investissement :**
 - Nadi Bou Hanna (DINUM)
 - Jean-Séverin Lair (DINUM)
 - Florian Delezenne (DINUM)

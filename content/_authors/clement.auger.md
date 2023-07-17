@@ -5,7 +5,7 @@ domaine: Développement
 github: clemog
 missions:
   - start: 2021-10-11
-    end: 2023-06-30
+    end: 2023-12-31
     status: independent
     employer: ''
 startups:
@@ -13,7 +13,6 @@ startups:
   - nosgestesclimat
 badges:
   - segur
-
 ---
 
 

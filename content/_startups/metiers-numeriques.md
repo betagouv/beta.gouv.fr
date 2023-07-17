@@ -3,13 +3,14 @@ title: Métiers du Numérique
 mission: Promouvoir les emplois numériques de l'État pour y attirer les meilleurs talents 
 sponsors:
     - /organisations/dinum
-incubator: dinum
+incubator: dinum_produits_interministeriels
 phases:
   - name: investigation
     start: 2021-03-02
     end: 2021-05-07
   - name: construction
     start: 2021-05-16
+  - name: alumni
 contact: contact@metiers.numerique.gouv.fr
 link: https://metiers.numerique.gouv.fr
 repository: https://github.com/betagouv/metiers-numeriques
