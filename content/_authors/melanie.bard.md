@@ -11,6 +11,8 @@ startups:
   - reva
 badges:
   - segur
+previously:
+  - reva
 ---
 
 Engagée pour donner à la VAE la place qu'elle mérite !
