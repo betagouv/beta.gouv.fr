@@ -1,7 +1,7 @@
 ---
 fullname: Moroine Bentefrit
-role: Développeur
 domaine: Développement
+role: Développeur
 github: moroine
 missions:
   - start: 2023-06-05
@@ -9,5 +9,8 @@ missions:
     status: independent
     employer: UT7
 memberType: beta
+startups:
+  - boite.aux.lettres
+competences:
+  - Administration Système
 ---
-
