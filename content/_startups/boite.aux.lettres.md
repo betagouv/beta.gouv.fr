@@ -10,7 +10,7 @@ sponsors:
   - /organisations/mtfp
 incubator: mission-apprentissage
 contact: apprentissage@beta.gouv.fr
-accessibility_status: non conforme
+accessibility_status: null
 phases:
   - name: construction
     start: 2023-05-01
