@@ -6,12 +6,11 @@ link: https://fairness.coop/
 github: volubyl
 missions:
   - start: 2022-02-11
-    end: 2023-07-23
+    end: 2023-12-31
     status: service
     employer: Fairness
 badges:
   - segur
-
 ---
 
 >-
