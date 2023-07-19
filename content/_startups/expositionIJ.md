@@ -11,7 +11,7 @@ phases:
   - name: construction
     start: 2022-04-01  
 repository: https://github.com/mission-apprentissage/trajectoires-pro
-stats_url: https://trajectoires-pro.apprentissage.beta.gouv.fr/metabase/public/dashboard/f36af223-7466-4ef1-848c-f5c5646f6a54
+stats_url: https://exposition.inserjeunes.beta.gouv.fr/statistiques
 stats: true
 contact: contact@inserjeunes.beta.gouv.fr
 usertypes:
