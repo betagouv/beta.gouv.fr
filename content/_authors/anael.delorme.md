@@ -7,10 +7,12 @@ missions:
   - start: 2023-05-02
     end: 2024-12-31
     status: admin
-    employer: ""
+    employer: ''
 competences:
   - Administration Publique
 memberType: beta
 role: expert métier stats
+startups:
+  - aquaculteurs.marins
 ---
 Statisticien
