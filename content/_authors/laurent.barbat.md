@@ -1,6 +1,7 @@
 ---
 fullname: Laurent Barbat
 domaine: Design
+link: https://www.linkedin.com/in/laurentbarbat/
 role: UX Designer, Coach
 github: laurentux
 missions:
