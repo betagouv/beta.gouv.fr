@@ -5,7 +5,7 @@ domaine: Développement
 github: aleckvincent
 missions:
   - start: 2022-11-03
-    end: 2023-09-01
+    end: 2023-12-31
     status: independent
     employer: DINUM
 startups:
