@@ -6,7 +6,10 @@ sponsors:
   - /organisations/ditp
   - /organisations/dgaln
 incubator: mtes
+link: https://www.oilhi.beta.gouv.fr/
 contact: marie-laurence.leterme@pas-de-calais.gouv.fr
+stats: false
+dashlord_url: https://www.oilhi.beta.gouv.fr/statistiques
 accessibility_status: non conforme
 phases:
   - name: investigation
