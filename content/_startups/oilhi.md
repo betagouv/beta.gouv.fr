@@ -9,7 +9,7 @@ incubator: mtes
 link: https://www.oilhi.beta.gouv.fr/
 contact: marie-laurence.leterme@pas-de-calais.gouv.fr
 stats: false
-dashlord_url: https://www.oilhi.beta.gouv.fr/statistiques
+dashlord_url: ""
 accessibility_status: non conforme
 phases:
   - name: investigation
