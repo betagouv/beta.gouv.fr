@@ -10,6 +10,8 @@ missions:
     status: admin
     employer: pole-emploi
 startups:
+  - pilotagevoiepro
+previously:
   - la-bonne-formation
   - estime
 ---
