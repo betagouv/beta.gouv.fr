@@ -12,6 +12,7 @@ analyse_risques: true
 accessibility_status: partiellement conforme
 stats: true
 stats_url: https://immersion-facile.beta.gouv.fr/stats
+budget_url: https://immersion-facile.beta.gouv.fr/pages/budget
 phases:
   - name: construction
     start: 2021-07-16
