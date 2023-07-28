@@ -6,7 +6,7 @@ missions:
   - start: 2022-10-01
     end: 2023-09-30
     status: admin
-    employer: MTES
+    employer: mtes
 startups: Otelo
 memberType: beta
 ---
