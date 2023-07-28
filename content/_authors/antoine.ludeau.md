@@ -5,7 +5,7 @@ domaine: Développement
 github: antoineludeau
 missions:
   - start: 2022-12-18
-    end: 2023-07-05
+    end: 2023-12-31
     status: independent
     employer: La Zone / Pathtech
 startups:

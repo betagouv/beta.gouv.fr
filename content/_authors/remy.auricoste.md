@@ -8,6 +8,8 @@ missions:
     status: independent
     employer: octo
 startups:
+  - la-bonne-alternance
+previously:
   - maintenant
 ---
 

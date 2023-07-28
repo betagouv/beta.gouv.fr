@@ -18,6 +18,7 @@ missions:
     status: independent
 startups:
   - pcrs
+  - vigieau
 previously:
   - ban
   - api-geo

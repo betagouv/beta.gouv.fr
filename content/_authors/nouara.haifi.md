@@ -4,7 +4,7 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-05-15
-    end: 2023-08-15
+    end: 2023-07-17
     status: independent
     employer: Mission Interministérielle pour l'Apprentissage
 memberType: autre

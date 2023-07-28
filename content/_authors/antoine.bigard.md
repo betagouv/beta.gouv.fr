@@ -1,8 +1,8 @@
 ---
-github: antoinebigard
 fullname: Antoine Bigard
-role: Lead-Développeur
 domaine: Développement
+role: Lead-Développeur
+github: antoinebigard
 missions:
   - start: 2018-09-17
     end: 2027-04-27
@@ -11,8 +11,11 @@ missions:
 startups:
   - catalogue-apprentissage
   - dematapprentissage
+  - boite.aux.lettres
 previously:
   - pop
+competences:
+  - Administration Système
 teams:
   - /teams/mission-apprentissage
 ---

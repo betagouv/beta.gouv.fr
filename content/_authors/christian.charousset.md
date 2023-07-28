@@ -17,4 +17,4 @@ startups:
 ---
 
 
-Et vous, avez-vous créé votre compte Trackdéchets ?
+La circularité, pour préserver nos ressources ♻

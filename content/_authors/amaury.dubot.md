@@ -11,7 +11,6 @@ missions:
 startups:
   - signaux-faibles
   - data.insertion
-  - carnet.de.bord
 badges:
   - segur
 competences:
