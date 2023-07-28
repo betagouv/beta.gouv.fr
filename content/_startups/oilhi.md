@@ -8,6 +8,7 @@ sponsors:
 incubator: mtes
 link: https://oilhi.beta.gouv.fr
 contact: marie-laurence.leterme@pas-de-calais.gouv.fr
+stats_url: https://oilhi.beta.gouv.fr/stats.html
 accessibility_status: non conforme
 phases:
   - name: investigation
