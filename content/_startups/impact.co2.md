@@ -7,7 +7,8 @@ sponsors:
 incubator: ademe
 link: https://impactco2.fr/
 repository: https://github.com/datagir/impactco2
-contact: clemence.martin@beta.gouv.fr
+contact: impactco2@ademe.fr
+dashlord_url: https://dashlord.incubateur.net/url/impactco2-fr/
 accessibility_status: partiellement conforme
 events: []
 phases:
