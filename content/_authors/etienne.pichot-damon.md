@@ -1,6 +1,6 @@
 ---
 fullname: Etienne Pichot Damon
-role: Relations avec les administrations - api.gouv.fr
+role: Coach - Base Adresse Nationale
 domaine: Déploiement
 link: https://medium.com/@etienne.datactivist
 github: etienne0101
@@ -10,9 +10,11 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - api.gouv.fr
+  - ban
 badges:
   - segur
+previously:
+  - api.gouv.fr
 ---
 
 >-
