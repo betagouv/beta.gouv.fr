@@ -4,7 +4,7 @@ domaine: Coaching
 role: Coach
 missions:
   - start: 2020-02-20
-    end: 2023-07-31
+    end: 2024-01-30
     status: service
     employer: Ippon
 startups:
