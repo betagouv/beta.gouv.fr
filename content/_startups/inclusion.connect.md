@@ -38,3 +38,5 @@ Tous les professionnels de l’inclusion. Comme les conseillers en insertion pro
 * M﻿on Suivi Social
 * L﻿a communauté de l'inclusion
 * L﻿es Conseillers Numériques France Service (grands réseaux et structures)
+* Rdv Insertion
+* Immersion facilitée
