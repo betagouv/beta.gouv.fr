@@ -8,6 +8,7 @@ incubator: dinum
 link: https://impact.beta.gouv.fr/
 repository: https://github.com/betagouv/impact
 contact: contact@impact.beta.gouv.fr
+dashlord_url: https://dashlord.incubateur.net/url/impact-beta-gouv-fr/
 accessibility_status: non conforme
 phases:
   - name: investigation
