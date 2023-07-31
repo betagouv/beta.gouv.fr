@@ -15,5 +15,6 @@ previously:
   - memo
   - anotea
   - mes-evenements-emploi
+  - mobiville
 ---
 Passionné par le Design de Service, j'aime co-construire des expériences interactives utilisables satisfaisantes voire mémorables pour nos utilisateurs !
