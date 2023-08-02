@@ -65,7 +65,7 @@ title: Découvrir le programme
             </h3>
             <p class="fr-tile__desc">Pour déterminer notre façon de travailler ensemble.
             <br>
-            <a href="https://beta.gouv.fr/approche/manifeste">Lire notre manifeste</a></p>
+            <a href="https://beta.gouv.fr/manifeste">Lire notre manifeste</a></p>
             </div>
          </div>
       </div>

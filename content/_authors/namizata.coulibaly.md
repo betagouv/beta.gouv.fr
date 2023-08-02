@@ -4,7 +4,7 @@ domaine: Animation
 role: chargée de support transverse
 missions:
   - start: 2022-09-05
-    end: 2023-03-31
+    end: 2023-09-30
     status: independent
     employer: ANCT
 startups:
@@ -14,5 +14,9 @@ badges:
   - segur
 competences:
   - Communication
+previously:
+  - conseiller-numerique
+  - cartographie.nationale
 ---
+
 

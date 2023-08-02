@@ -8,15 +8,16 @@ phases:
       start: 2020-09-01
     - name: construction
       start: 2021-04-01
-    - name: acceleration
-      start: 2021-12-01
 usertypes:
   - etat
-incubator: apigouv
+  - entreprise
+incubator: dinum_produits_interministeriels
 link: https://annuaire-entreprises.data.gouv.fr
 repository: https://github.com/etalab/annuaire-entreprises.data.gouv.fr
 stats: true
-stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=145&period=range&date=previous30&updated=1#?idSite=145&period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1
+stats_url: https://annuaire-entreprises.data.gouv.fr/stats
+budget_url: https://annuaire-entreprises.data.gouv.fr/budget
+dashlord_url: https://dashlord.incubateur.net/url/annuaire-entreprises-data-gouv-fr/
 contact: annuaire-entreprises@data.gouv.fr
 ---
 

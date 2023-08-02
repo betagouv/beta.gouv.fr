@@ -6,6 +6,7 @@ sponsors:
   - /organisations/mtfp
   - /organisations/dgitm
 incubator: dinum
+repository: https://github.com/betagouv/tous-a-bord
 contact: tousabord@beta.gouv.fr
 accessibility_status: non conforme
 events: []

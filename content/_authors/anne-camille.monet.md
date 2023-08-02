@@ -1,18 +1,22 @@
 ---
 fullname: Anne-Camille Monet
-role: Intrapreneuse - product manager
-domaine: Intraprenariat
+domaine: Produit
+role: product manager
+github: Anne-Camille
 missions:
   - start: 2017-04-01
-    end: 2023-06-30
+    end: 2023-12-31
     status: admin
-    employer: pole-emploi
+    employer: ""
+incubator: mission-apprentissage
 startups:
-    - tdb-apprentissage
+  - besoins.opco
 previously:
   - clara
   - la-bonne-alternance
   - dematapprentissage
+  - tdb-apprentissage
+competences:
+  - Gestion de Produit
+  - Administration Publique
 ---
-
-

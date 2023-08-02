@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: octo
 startups:
-    - lapins
+    - rdv-service-public
 previously:
     - demarches-simplifiees.fr
 ---

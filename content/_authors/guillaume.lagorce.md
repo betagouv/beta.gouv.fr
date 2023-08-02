@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: ''
   - start: 2022-09-06
-    end: 2023-02-28
+    end: 2023-06-15
     status: independent
     employer: ''
 startups:
@@ -17,4 +17,5 @@ startups:
   - trait-d-union
 
 ---
+
 ''

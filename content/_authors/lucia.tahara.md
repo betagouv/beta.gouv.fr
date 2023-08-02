@@ -2,6 +2,7 @@
 fullname: Lucia Tahara
 role: coach
 domaine: Coaching
+avatar: /img/authors/lucia-tahara.jpg
 missions:
   - start: 2023-01-24
     end: 2024-02-24

@@ -9,5 +9,6 @@ missions:
     status: independent
 startups:
   - place-des-entreprises
-  - tdb-apprentissage
+  - sparte
+  - docurba
 ---

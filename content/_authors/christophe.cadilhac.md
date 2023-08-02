@@ -2,7 +2,6 @@
 fullname: Christophe CADILHAC
 role: Développeur
 domaine: Développement
-link: https://malea.dev
 github: cadichris
 missions:
   - start: 2022-10-03
@@ -13,4 +12,5 @@ startups:
   - homologation
 
 ---
-Développeur
+Lead Dev du Lab de l'ANSSI.  
+https://www.ssi.gouv.fr/

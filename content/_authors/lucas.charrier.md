@@ -10,7 +10,7 @@ missions:
     status: admin
     employer: DINUM
   - start: 2022-01-04
-    end: 2023-05-18
+    end: 2023-08-18
     status: independent
     employer: Benext
 previously:
@@ -23,7 +23,6 @@ competences:
   - Développement Frontend
 teams:
   - /teams/communaute-dinum
-
 ---
 
 Développeur Web Fullstack

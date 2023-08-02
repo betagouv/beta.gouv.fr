@@ -13,11 +13,12 @@ missions:
     start: 2015-03-10
     status: service
   - employer: Living Data
-    end: 2023-06-30
+    end: 2023-12-31
     start: 2015-09-18
     status: independent
 startups:
   - pcrs
+  - vigieau
 previously:
   - ban
   - api-geo

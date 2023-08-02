@@ -8,7 +8,7 @@ incubator: pole-emploi
 contact: isabelle.deschamps@pole-emploi.fr
 usertypes:
   - particulier
-link: "https://tous-les-metiers.pole-emploi.fr/ "
+link: "https://candidat.pole-emploi.fr/metierscope/"
 phases:
   - name: investigation
     start: 2021-05-01
@@ -39,6 +39,6 @@ Puis :
 * Référencement sur L'emploi store
 * Réorientation du trafic de la fiche ROME (IMT) vers la fiche hébergée sur le produit Encyclopédie
 * Campagne nationale déploiement C4.0
-* I﻿ntégration PE.fr
+* Intégration PE.fr
 
 ##### Cible : Demandeurs en transition professionnelle, 20% des demandeurs d'emploi, soit **un million de personnes**

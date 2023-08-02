@@ -3,7 +3,7 @@ title: Démarches Simplifiées
 mission: Dématérialiser n’importe quelle démarche administrative en quelques minutes
 sponsors:
  - /organisations/dinum
-incubator: dinum
+incubator: dinum_produits_interministeriels
 events:
   - name: national_impact
     date: 2018-01-01
@@ -22,6 +22,9 @@ redirect_from:
 usertypes:
   - particulier
   - etat
+fast:
+  promotion: 12
+  montant: 30000
 ---
 
 demarches-simplifiees.fr est une application entièrement en ligne qui permet à tous les organismes assurant des missions de service public de créer des démarches en quelques minutes et de gérer les demandes des usagers sur une plateforme dédiée.

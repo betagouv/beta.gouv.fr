@@ -1,6 +1,8 @@
 ---
 title: Plateforme CSIRT
-mission: Soutenir le développement de l'écosystème français des équipes de réponse aux cyber attaques
+mission: >-
+  Soutenir le développement de l'écosystème français des équipes de réponse aux
+  cyber attaques
 sponsors:
   - /organisations/anssi
 incubator: lab-innov-anssi
@@ -9,12 +11,17 @@ phases:
     start: 2020-10-01
   - name: alumni
     start: 2021-01-31
-link:
-repository: 
-stats: false 
-stats_url: 
+    end: 2023-03-22
+  - name: acceleration
+    start: 2023-03-22
+link: null
+repository: null
+stats: false
+stats_url: null
 contact: contact@beta.gouv.fr
+
 ---
+
 
 ## Contexte
 

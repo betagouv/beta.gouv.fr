@@ -19,6 +19,9 @@ link: https://adresse.data.gouv.fr
 repository: https://github.com/BaseAdresseNationale
 stats: true
 stats_url: https://api.gouv.fr/api/base-adresse-nationale.html
+events:
+  - name: national_impact
+    date: 2022-12-31
 contact: adresse@data.gouv.fr
 usertypes:
   - collectivite-territoriale

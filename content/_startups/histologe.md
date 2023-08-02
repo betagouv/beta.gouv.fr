@@ -49,4 +49,4 @@ Enfin, en tant qu'outil central, Histologe participe à la construction d'un obs
 
 ## Territoires concernés
 
-Plus de 30 départements déjà couverts, parmi lesquels les Bouches du Rhône, les Alpes Maritimes, les Alpes de Haute Provence, la Corse du Sud, la Gironde, l'Ain, la Haute Garonne,... La liste des territoires est accessible sur la page Statistiques du service
+Plus de 30 départements déjà couverts, parmi lesquels les Bouches du Rhône, les Alpes Maritimes, les Alpes de Haute Provence, la Corse du Sud, la Gironde, l'Ain, la Haute Garonne,... La liste des territoires est accessible sur la page Statistiques du service.

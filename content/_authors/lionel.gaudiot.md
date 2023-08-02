@@ -2,6 +2,7 @@
 fullname: Lionel GAUDIOT
 role: Intrapreneur
 domaine: Intraprenariat
+github: LionelGaudiot
 missions:
   - start: 2022-08-01
     end: 2023-12-31

@@ -1,5 +1,5 @@
 ---
-title: "Emplois de l'inclusion (ITOU)"
+title: "Emplois de l'inclusion"
 mission: "Faciliter la mise en relation avec les employeurs solidaires"
 sponsors:
   - /organisations/pole-emploi
@@ -68,6 +68,9 @@ dashlord_url: https://dashlord.incubateur.net/url/emplois-inclusion-beta-gouv-fr
 accessibility_status: partiellement conforme
 ---
 
+## :question: Une question ou un besoin d'aide dans l'utilisation du service ? 
+Voici un lien direct vers l'assistance : [aide.emplois.inclusion.beta.gouv.fr](https://aide.emplois.inclusion.beta.gouv.fr/)
+
 ## Contexte
 
 L’**insertion par l’activité économique** (IAE) est un dispositif dans lequel l’État
@@ -90,9 +93,6 @@ Aujourd'hui, emplois.inclusion.beta.gouv.fr permet de mettre en relation des che
 Tous les acteurs mobilisés pour l'inclusion doivent pouvoir partager l'information de manière simple, efficace et rapide. C'est la vision portée par inclusion.beta.gouv.fr. Toutes les informations nécessaires pour lever les différentes contraintes du quotidien – la charge administrative, le recrutement des profils éligibles, etc. – pourront y être centralisées, à la manière d'un « guichet unique ».
 
 L'ambition est de proposer une solution numérique intégrée permettant de lever les freins limitant aujourd'hui l'action de l'IAE (insertion par l'activité économique) : problèmes d'accès aux [profils éligibles](https://doc.inclusion.beta.gouv.fr/pourquoi-cette-plateforme/les-acteurs/qui-peut-beneficier-des-contrats-dinsertion-par-lactivite-economique) (« sourcing ») et d'accompagnement vers l'emploi durable, lourdeur administrative, et faible accès à des outils mutualisés de professionnalisation et d'accompagnement des parcours.
-
-### Besoin d'aide dans l'utilisation du service ? 
-Voici un lien direct vers l'assistance : https://communaute.inclusion.beta.gouv.fr/aide/emplois/
 
 ## Finalités
 

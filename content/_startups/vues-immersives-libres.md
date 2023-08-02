@@ -48,19 +48,19 @@ Pendant la phase d'investigation, un nom a été trouvé au "produit" (commun) v
 
 Deux axes forts : 
 * **Créer une boîte à outils numériques de base pour alimenter, gérer et partager Panoramax**
-- Développer un applicatif ou d'une brique logicielle pour créer(déployer) une instance et son catalogue
-- Mettre en place une brique logicielle d'anonymisation des images (floutage personnes et véhicules)
-- Développer des utils/API pour alimenter/interroger la base de vues de Panoramax
-- Proposer une ou plusieurs instances de stockage ouvertes
+    - Développer un applicatif ou d'une brique logicielle pour créer(déployer) une instance et son catalogue
+    - Mettre en place une brique logicielle d'anonymisation des images (floutage personnes et véhicules)
+    - Développer des utils/API pour alimenter/interroger la base de vues de Panoramax
+    - Proposer une ou plusieurs instances de stockage ouvertes
 
 * **Animer le géocommun Panoramax**
-- Définir la gouvernance et ses règles
-- Définir les standards du commun (catalogue, données) et les licences (codes, données)
-- Proposer des guides de bonnes pratiques, des outils de référence et des résultats de tests de ces outils (performance), des tutoriels et des exemples de cas d'usages
-- Mettre en place des argumentaires pour donner envie de contribuer et proposer des modèles économiques adaptés à différentes situations pour faciliter la contribution
-- Organiser des événements pour faire connaître Panoramax et encourager la contribution (GT, Openlabs, Panoramax Party etc.)
-- Réaliser un support technique 
-- Créer un site web vitrine du commun comme point central pour trouver les informations et outils relatifs à Panoramax
+    - Définir la gouvernance et ses règles
+    - Définir les standards du commun (catalogue, données) et les licences (codes, données)
+    - Proposer des guides de bonnes pratiques, des outils de référence et des résultats de tests de ces outils (performance), des tutoriels et des exemples de cas d'usages
+    - Mettre en place des argumentaires pour donner envie de contribuer et proposer des modèles économiques adaptés à différentes situations pour faciliter la contribution
+    - Organiser des événements pour faire connaître Panoramax et encourager la contribution (GT, Openlabs, Panoramax Party etc.)
+    - Réaliser un support technique 
+    - Créer un site web vitrine du commun comme point central pour trouver les informations et outils relatifs à Panoramax
 
 ## Indicateurs
 
