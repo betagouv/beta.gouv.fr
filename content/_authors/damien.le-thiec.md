@@ -9,13 +9,13 @@ missions:
     status: independent
     employer: Telescoop
   - start: 2022-09-12
-    end: 2023-10-30
+    end: 2023-06-01
     status: independent
     employer: Aides Jeunes
-startups:
-  - aides.jeunes
+startups: []
 previously:
   - justif
+  - aides.jeunes
 competences:
   - Développement Backend
   - Développement Frontend
