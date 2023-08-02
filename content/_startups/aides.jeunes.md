@@ -18,7 +18,6 @@ phases:
     start: 2021-03-15
     end: 2023-01-13
   - name: acceleration
-    end: ""
     start: 2023-01-13
 ---
 ## Problème
