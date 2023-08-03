@@ -4,7 +4,7 @@ role: Developpeur
 domaine: Développement
 avatar: /img/authors/paul-etienney.jpg
 link: https://donatello.dev
-github: pe-beta
+github: pauletienney
 missions:
   - start: 2023-02-13
     end: 2023-12-31
