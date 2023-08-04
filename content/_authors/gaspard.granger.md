@@ -9,6 +9,7 @@ missions:
     employer: DGITM
 startups:
   - mobilic
+github: gaspardbetagouv
 competences:
   - Gestion de Produit
   - Administration Publique
