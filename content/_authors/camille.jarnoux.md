@@ -7,9 +7,7 @@ missions:
     end: 2024-02-29
     status: independent
     employer: LBC
-startups:
-  - romin
 memberType: beta
 ---
 
-Chargée de déploiement ROMIN
+Chargée de déploiement
