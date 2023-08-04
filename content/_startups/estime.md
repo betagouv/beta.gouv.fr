@@ -5,7 +5,7 @@ mission: Soutenir la reprise d'activité des personnes en demande d'emploi en
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
-link: https://estime.pole-emploi.fr/
+link: https://candidat.pole-emploi.fr/simucalculreprise
 repository: https://github.com/StartupsPoleEmploi/estime-frontend
 contact: estime@pole-emploi.fr
 usertypes:
