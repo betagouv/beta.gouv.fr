@@ -55,6 +55,8 @@ Développée en collaboration avec les entreprises du secteur et les corps de co
 * D'une interface de contrôle calculant automatiquement les dépassements de seuils ;
 * D'une API pour répondre au besoin d'interfaçage des applications métier/RH des entreprises.
 
+![https://mobilic.beta.gouv.fr/](/img/netlifycms/mobilic-workflow.png)
+
 # Impact
 
 Nous avons sorti le certificat Mobilic en mai 2023. Le certificat atteste qu'une entreprise a un **taux élevé de conformité à la  réglementation** en matière de temps de travail et, qu’elle **utilise Mobilic de manière conforme** (enregistrement du temps de travail au maximum en temps réel, validation régulière des données, modifications exceptionnelles des données du salarié par son employeur).
