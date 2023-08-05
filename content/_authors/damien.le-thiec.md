@@ -1,7 +1,7 @@
 ---
 fullname: Damien Le Thiec
 domaine: Développement
-role: Développeur
+role: Product Manager
 github: damienlethiec
 missions:
   - start: 2022-01-03
@@ -12,10 +12,10 @@ missions:
     end: 2023-10-30
     status: independent
     employer: Aides Jeunes
-startups: 
-  - aides.jeunes
-previously:
+startups:
   - justif
+previously:
+  - aides.jeunes
 competences:
   - Développement Backend
   - Développement Frontend
