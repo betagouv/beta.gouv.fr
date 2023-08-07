@@ -10,8 +10,9 @@ missions:
     employer: Ministère de l&#x27;Intérieur &#x2F; DTNUM &#x2F; SDID &#x2F; Fabrique
       Numérique
 startups:
-  - psij
   - basegun
+previously:
+  - psij
 competences:
   - Développement Frontend
   - Développement Backend
