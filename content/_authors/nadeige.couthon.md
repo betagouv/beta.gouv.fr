@@ -10,6 +10,7 @@ missions:
     employer: Ministère de l'Interieur (DNUM)
 startups:
   - psij
+  - basegun
 competences:
   - Développement Frontend
   - Développement Backend
