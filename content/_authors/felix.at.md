@@ -1,5 +1,6 @@
 ---
 fullname: Félix At
+github: felixat13
 role: Data Analyst
 domaine: Autre
 link: https://www.linkedin.com/in/felixat/
@@ -11,6 +12,10 @@ missions:
 startups:
   - tdb-apprentissage
 memberType: beta
+previously:
+  - tdb-apprentissage
 ---
 
-Analyser des données, lire des romans et manger des croziflettes.
+
+
+Analyser des données, lire des romans et manger des croziflettes. SQL, MongoDB, Metabase...

@@ -5,7 +5,7 @@ domaine: Développement
 github: ornella452
 missions:
   - start: 2021-05-24
-    end: 2023-03-31
+    end: 2023-09-30
     status: independent
     employer: Octo
 startups:
@@ -14,4 +14,5 @@ badges:
   - segur
 
 ---
+
 Développeuse Web full stack

@@ -9,7 +9,6 @@ missions:
     status: independent
     employer: NUMA
 startups:
-  - tout-est-permis
   - sirius
 badges:
   - segur

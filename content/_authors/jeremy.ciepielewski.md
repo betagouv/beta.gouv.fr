@@ -6,7 +6,7 @@ github: jeremyciep
 link: https://www.weplus.fr
 missions:
   - start: 2021-11-16
-    end: 2023-06-30
+    end: 2023-12-30
     status: service
     employer: Mission interministérielle pour l'apprentissage
 startups:
@@ -17,6 +17,5 @@ badges:
 competences:
   - Coaching
   - Communication
-
 ---
 Acteur de l'ESS dans le domaine du numérique 💻

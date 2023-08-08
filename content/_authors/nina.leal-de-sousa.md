@@ -4,7 +4,7 @@ role: UX/UI Designer
 domaine: Design
 missions:
   - start: 2022-03-03
-    end: 2024-01-31
+    end: 2023-03-31
     status: independent
     employer: Malt
 startups:

@@ -1,9 +1,9 @@
 ---
-title: FAST 7 - Mars 2021 
-sidebar: sidebar-approche.html
+title: FAST 7 - Mars 2021
+sidebar: sidebar-fast.html
 ---
 
-### **Le comité d'investissement :** ### 
+### **Le comité d'investissement :** ###
 - Nadi Bou Hanna (DINUM)
 - Xavier Albouy (DINUM)
 - Florian Delezenne (DINUM)

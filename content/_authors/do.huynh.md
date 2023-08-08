@@ -1,10 +1,10 @@
 ---
 fullname: Do  Huynh
-role: Développeur
+role: ML engineer
 domaine: Produit
 missions:
   - start: 2022-10-01
-    end: 2023-03-31
+    end: 2023-08-31
     status: independent
     employer: Malt
 startups:
@@ -12,4 +12,5 @@ startups:
 badges:
   - segur
 ---
+
 

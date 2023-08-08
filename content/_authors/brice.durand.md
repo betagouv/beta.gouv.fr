@@ -1,16 +1,20 @@
 ---
 fullname: Brice Durand
 domaine: Développement
-role: Responsable produit
+role: Développeur
 github: bricedurand
 missions:
   - start: 2018-12-01
     end: 2022-12-31
     status: independent
-    employer: ""
+  - start: 2023-04-24
+    end: 2023-12-31
+    status: independent
 startups:
+  - collectif_objets
+previously:
   - monstage
 competences:
   - Gestion de Produit
-  - Développement Backend
+  - Développement Fullstack
 ---

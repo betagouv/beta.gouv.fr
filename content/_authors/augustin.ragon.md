@@ -9,12 +9,13 @@ missions:
     status: independent
     employer: Octo
   - start: 2022-03-04
-    end: 2023-03-31
+    end: 2023-12-31
     status: independent
     employer: Little Big Connection
 startups:
-  - carnet.de.bord
   - deveco
+previously:
+  - carnet.de.bord
 competences:
   - Développement Frontend
   - Développement Backend

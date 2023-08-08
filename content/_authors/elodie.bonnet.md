@@ -1,13 +1,14 @@
 ---
 fullname: Élodie Bonnet
-role: Intrapreneuse 
+role: Intrapreneuse
 domaine: Intraprenariat
 missions:
   - start: 2022-01-01
-    end: 2023-05-01
+    end: 2023-10-01
     status: admin
+    employer: ''
 startups:
-  - chantiers.agiles
+  - pilotage.de.linclusion
 ---
 
 Responsable du service IAE Haute-Garonne et intrapreneuse au sein du GIP Plateforme de l'inclusion !

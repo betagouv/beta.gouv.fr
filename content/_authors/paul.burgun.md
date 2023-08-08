@@ -1,6 +1,6 @@
 ---
 fullname: Paul Burgun
-role: Co-animateur du programme beta.gouv.fr
+role: Responsable du FAST
 domaine: Animation
 github: paulburgun
 missions:

@@ -62,7 +62,7 @@ Les statistiques d'usage
 
 {% capture source_info %}
 Le code source
-{% if page.repository %}
+{% if page.repository.size > 0 %}
   <a href="{{ page.repository }}">est libre</a>.
 {% else %}
   <em>n'est pas encore ouvert.</em>

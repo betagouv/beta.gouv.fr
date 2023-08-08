@@ -1,18 +1,18 @@
 ---
 fullname: Marianne Hirsch
 domaine: Design
-role: Designer transverse à l'Incubateur des Territoires
+role: Product Designer
 avatar: null
 missions:
   - start: 2021-02-22
-    end: 2023-02-22
+    end: 2024-02-22
     status: independent
-    employer: NUMA
+    employer: DINUM
 competences:
-  - UX
-  - UI
+  - Product design
+  - UX UI
   - Gestion de Produit
   - Coaching
 teams:
-  - /teams/anct
+  - /teams/DINUM
 ---

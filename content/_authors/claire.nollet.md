@@ -8,8 +8,6 @@ missions:
     end: 2023-08-30
     status: admin
     employer: DNUM
-startups:
-  - psij
 ---
 
 Apprentie développeuse au Lab MI

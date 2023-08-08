@@ -1,6 +1,6 @@
 ---
 roles: Un développeur ou une développeuse senior full stack
-open: true
+open: false
 date: 2022-03-01T13:41:32.417Z
 startup: partaj
 domaines:

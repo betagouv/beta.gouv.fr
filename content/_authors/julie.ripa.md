@@ -1,7 +1,7 @@
 ---
 fullname: Julie Ripa
-role: Adjointe - Incubateur des Territoires
 domaine: Animation
+role: Adjointe - Incubateur des Territoires
 github: julie-ripa
 missions:
   - start: 2021-03-16
@@ -14,10 +14,12 @@ missions:
     employer: ANCT
 startups:
   - données-et-territoires
+  - lannuaire.des.collectivites
 badges:
   - segur
+competences:
+  - Administration Publique
 teams:
   - /teams/anct
 ---
-
-J'essaie de faire quelque chose pour l'humanité en luttant contre la pauvreté (DIPLP)
+J'essaie de faire quelque chose pour l'humanité en luttant contre la pauvreté

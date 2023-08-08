@@ -4,15 +4,15 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2015-05-01
-    end: 2023-06-30
+    end: 2023-01-01
     status: admin
     employer: pole-emploi
-startups:
+previously:
+    - la-bonne-formation 
     - dematapprentissage
     - la-bonne-alternance 
     - sirius
-previously:
-    - la-bonne-formation 
+    - tdb-apprentissage
     
 ---
 

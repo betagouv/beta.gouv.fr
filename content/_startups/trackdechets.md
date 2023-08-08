@@ -14,6 +14,9 @@ sponsors:
 link: https://trackdechets.beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.mte.incubateur.net/dashlord/url/api-trackdechets-beta-gouv-fr/
+events:
+  - name: national_impact
+    date: 2022-12-30
 phases:
   - name: investigation
     start: 2018-11-01

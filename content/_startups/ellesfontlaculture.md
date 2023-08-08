@@ -10,6 +10,8 @@ phases:
     end: 2022-10-30
   - name: acceleration
     start: 2022-11-01
+  - name: transfer
+    start: 2023-01-01
 link: https://www.ellesfontlaculture.beta.gouv.fr/
 repository: https://github.com/betagouv/ellesfontlaphoto
 stats: true

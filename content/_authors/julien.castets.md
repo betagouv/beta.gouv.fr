@@ -1,7 +1,7 @@
 ---
 fullname: Julien Castets
-role: Développeur
 domaine: Développement
+role: Développeur
 link: https://github.com/brmzkw
 missions:
   - start: 2019-10-16
@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Codeurs en Liberté
 startups:
-  - le-taxi
   - mesads
-
+competences:
+  - Développement Backend
 ---

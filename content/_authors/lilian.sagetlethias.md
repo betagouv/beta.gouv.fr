@@ -15,6 +15,9 @@ missions:
     employer: Octo
 incubator: sgmas
 startups:
+  - egalite.professionnelle
+  - maison.de.lautisme
+previously:
   - archifiltre
 ---
 

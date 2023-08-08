@@ -1,6 +1,8 @@
 ---
 fullname: Laurie Chapotte
-role: Designer & co-animatrice de l'Atelier numérique du ministère de la Culture 
+role: >-
+  Lead designer & co-animatrice de l'Atelier numérique du ministère de la
+  Culture
 domaine: Design
 github: lauriechap
 missions:
@@ -12,5 +14,8 @@ startups:
   - ellesfontlaculture
 teams:
   - /teams/culture
+
 ---
+
+
 

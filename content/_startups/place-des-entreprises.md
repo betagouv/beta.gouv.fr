@@ -26,6 +26,9 @@ usertypes:
   - entreprise
   - etat
 dashlord_url: https://dashlord.incubateur.net/url/place-des-entreprises-beta-gouv-fr/
+events:
+  - name: national_impact
+    date: 2022-12-31
 accessibility_status: non conforme
 
 ---

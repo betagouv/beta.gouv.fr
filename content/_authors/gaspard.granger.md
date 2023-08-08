@@ -4,11 +4,12 @@ domaine: Intraprenariat
 role: Intrapreneur
 missions:
   - start: 2019-11-20
-    end: 2022-12-31
+    end: 2023-12-31
     status: admin
     employer: DGITM
 startups:
   - mobilic
+github: gaspardbetagouv
 competences:
   - Gestion de Produit
   - Administration Publique

@@ -12,7 +12,7 @@ missions:
     status: independent
     employer: ut7
   - start: 2018-11-13
-    end: 2023-01-01
+    end: 2023-12-31
     status: independent
     employer: octo
 startups:

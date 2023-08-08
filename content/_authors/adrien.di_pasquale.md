@@ -19,7 +19,7 @@ missions:
     status: independent
 startups: [collectif_objets]
 previously:
-  - lapins
+  - rdv-service-public
   - codedutravail
   - enfants-du-spectacle
 competences:
