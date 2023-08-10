@@ -10,6 +10,7 @@ missions:
     employer: Path Tech
 startups:
   - mobilic
+  - territoires-en-transitions
 badges:
   - segur
 ---
