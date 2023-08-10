@@ -5,12 +5,12 @@ domaine: Design
 link: https://www.davidmassiani.com
 github: dmassiani
 startups:
-  - reva
 previously:
   - avril 
+  - reva
 missions:
   - start: 2021-06-17
-    end: 2023-12-31
+    end: 2023-07-31
     status: independent
     employer: freelance
 ---

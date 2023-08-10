@@ -1,10 +1,10 @@
 ---
-title: REVA
+title: France VAE
 mission: Faciliter l'obtention d'un diplôme en Validation des Acquis d'Expérience (VAE)
 sponsors:
   - /organisations/mtei
 incubator: sgmas
-link: https://reva.beta.gouv.fr
+link: https://vae.gouv.fr
 contact: olivier.gerard@beta.gouv.fr
 events: []
 phases:
@@ -30,7 +30,7 @@ techno:
   - Scalingo
 usertypes:
   - particulier
-stats_url: https://metabase.reva.beta.gouv.fr/public/dashboard/f27f670b-31fb-4b3d-8322-52761c4110c2
+stats_url: https://metabase.vae.gouv.fr/public/dashboard/f27f670b-31fb-4b3d-8322-52761c4110c2
 stats: true
 ---
 
@@ -44,7 +44,7 @@ Instaurée par la loi de modernisation sociale du 17/01/2002, la VAE est la 3ᵉ
 
 ## Solution
 
-REVA porte l’ambition de développer et fluidifier l’accès à la VAE et d’engager la société dans un système de reconnaissance des compétences tout au long de la vie.
+France VAE (anciennement REVA) porte l’ambition de développer et fluidifier l’accès à la VAE et d’engager la société dans un système de reconnaissance des compétences tout au long de la vie.
 
 À partir d’un échantillon d’utilisateurs accompagnés de bout en bout, l’expérimentation va permettre la mise en test d’une plateforme numérique partagée entre les certificateurs, les services publics, les organismes de formation et l’utilisateur, qui en sera le pivot central.
 
