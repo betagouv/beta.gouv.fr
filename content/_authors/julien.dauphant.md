@@ -1,6 +1,6 @@
 ---
 fullname: Julien Dauphant
-role: Intrapreneur Tchap
+role: Directeur technique et produits
 link: 'https://twitter.com/jdauphant'
 github: jdauphant
 missions:
@@ -30,6 +30,8 @@ competences:
   - Administration Système
   - Développement Frontend
   - Développement Backend
+teams:
+  - /teams/animation-dinum
 ---
 
-Chercheur de simplicité
+Chercheur en simplicité

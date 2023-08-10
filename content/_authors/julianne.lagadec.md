@@ -3,14 +3,21 @@ fullname: Julianne Lagadec
 role: Responsable des relations publiques
 domaine: Déploiement
 github: Julianne-Lagadec
+link: https://fr.linkedin.com/in/julianne-lagadec
 missions:
   - start: 2021-04-01
-    end: 2023-07-01
+    end: 2024-12-31
     status: admin
+    employer: ''
 startups:
-  - tdb-apprentissage
-  - la-bonne-alternance
-previously :
+  - sirius
+  - expositionIJ
+previously:
   - voeux-apprentissage
   - dematapprentissage
+  - tdb-apprentissage
+  - la-bonne-alternance
+teams:
+  - /teams/mission-inserjeunes
 ---
+

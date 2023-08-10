@@ -6,13 +6,14 @@ link: https://www.linkedin.com/in/chaibmartinez/
 github: chaibax
 missions:
   - start: 2018-06-26
-    end: 2023-12-30
+    end: 2024-12-30
     status: independent
     employer: numa
 startups:
   - cnr
-  - jeveuxaider
-  - zero-logement-vacant
+  - api-engagement
+  - demarches-simplifiees.fr
+  - tchap
 previously:
   - demarches-simplifiees.fr
   - trait-d-union
@@ -23,8 +24,10 @@ previously:
   - metiers-numeriques
   - acceslibre
   - estime
+  - zero-logement-vacant
+  - jeveuxaider
 badges:
-    - segur
+  - segur
 domaine: Coaching
 competences:
   - Croissance

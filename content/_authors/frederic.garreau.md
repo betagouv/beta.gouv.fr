@@ -4,10 +4,12 @@ role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-07-25
-    end: 2023-06-30
+    end: 2023-10-31
     status: independent
     employer: Octo
 startups:
+  - reva
+previously:
   - reva
 ---
 

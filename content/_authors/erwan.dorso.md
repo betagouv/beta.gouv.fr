@@ -1,17 +1,20 @@
 ---
 fullname: Erwan Dorso
-role: DevOps pour Tchap
+role: DevOps / Responsable technique
 domaine: Développement
 link: https://www.erwan-dorso.net/
 github: heroinedor
 missions:
   - start: 2022-12-05
-    end: 2023-02-06
+    end: 2023-12-31
     status: independent
-    employer: Malt
+    employer: Scop&co
 startups:
-  - tchap
+  - eimis
 memberType: autre
+previously:
+  - tchap
 ---
+
 
 DevOps freelance

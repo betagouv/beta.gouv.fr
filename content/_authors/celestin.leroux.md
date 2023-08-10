@@ -5,7 +5,7 @@ role: Responsable produit
 github: celestinleroux
 missions:
   - start: 2022-03-21
-    end: 2023-04-01
+    end: 2023-12-31
     status: independent
     employer: MALT / ANCT
 startups:
@@ -16,4 +16,5 @@ competences:
   - UX
   - Développement Frontend
 ---
+
 J'essaye de glisser le plus loin possible sur la banquise

@@ -18,8 +18,8 @@
     <div class="fr-card__content">
       <div class="fr-card__start">
         <h3 class="fr-card__title fr-mb-2w">
-          {% if author.link %}
-            <a href="{{ author.link }}" target="_blank" rel="noopener" title="Linkedin ou site web de {{author.fullname}} - nouvelle fenêtre">{{ author.fullname }}</a>
+          {% if author.link.size > 0 %}
+            <a href="{{ author.link }}" target="_blank" rel="noopener" title="Site web de {{author.fullname}} - nouvelle fenêtre">{{ author.fullname }}</a>
           {% else %}
             {{ author.fullname }}
           {% endif %}
@@ -40,7 +40,7 @@
             {% assign empty_array = "" | split: "," %}
             {% assign startups = author.startups | default: empty_array %}
             {% assign previously = author.previously | default: empty_array %}
-            {% assign all_startups = startups | concat: previously %}
+            {% assign all_startups = startups | concat: previously | compact %}
 
             {% unless all_startups == empty %}
               <div class="startups">
@@ -48,9 +48,13 @@
                   {% for startup in all_startups, limit: 4 %}
                     {% assign startup_id = "/startups/" | append: startup %}
                     {% assign this_startup = site.startups | find: "id", startup_id %}
-                    <li>
-                      <a class="fr-tag" href="{{ this_startup.url }}" target="_self">{{ this_startup.title }}</a>
-                    </li>
+                    {% if this_startup %}
+                      <li>
+                        <a class="fr-tag" href="{{ this_startup.url }}" target="_self">{{ this_startup.title }}</a>
+                      </li>
+                    {% else %}
+                      {% continue %}
+                    {% endif %}
                   {% endfor %}
                 </ul>
               </div>

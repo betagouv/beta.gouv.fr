@@ -6,7 +6,7 @@ github: MarineChoquin
 avatar: null
 missions:
   - start: 2020-10-01
-    end: 2023-07-01
+    end: 2024-07-01
     status: admin
     employer: ANCT
 competences:

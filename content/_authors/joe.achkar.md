@@ -1,6 +1,6 @@
 ---
 fullname: Joe Achkar
-role: Chargé de déploiement
+role: Responsable des Opérations
 domaine: Déploiement
 github: JoeACHKAR
 avatar:

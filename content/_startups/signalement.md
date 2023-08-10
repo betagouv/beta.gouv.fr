@@ -3,7 +3,7 @@ title: SignalConso
 mission: Faire baisser le nombre d'anomalies rencontrées par les consommateurs
 sponsors:
     - /organisations/dgccrf
-incubator: dinum 
+incubator: dinum
 phases:
   - name: investigation
     start: 2018-06-18
@@ -15,7 +15,7 @@ phases:
     start: 2020-09-01
   - name: success
     start: 2022-01-01
-events: 
+events:
   - name: national_impact
     date: 2021-12-31
 link: https://signal.conso.gouv.fr
@@ -32,6 +32,9 @@ techno:
 usertypes:
   - entreprise
   - etat
+fast:
+  promotion: 12
+  montant: 300000
 ---
 
 Trop d'anomalies aujourd'hui ne sont pas remontées

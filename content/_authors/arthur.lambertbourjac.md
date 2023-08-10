@@ -5,11 +5,12 @@ domaine: Développement
 github: arthurlbrjc
 missions:
   - start: 2021-11-05
-    end: 2023-03-31
+    end: 2023-10-30
     status: service
     employer: OCTO Technology
 startups:
   - l-application-du-cej
 ---
+
 
 Du craft, à manger et du fun.

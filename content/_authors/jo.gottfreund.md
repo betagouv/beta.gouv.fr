@@ -5,11 +5,16 @@ domaine: Développement
 github: devthejo
 missions:
   - start: 2020-12-07
-    end: 2023-12-01
+    end: 2022-01-01
     status: independent
-    employer: Benext
+    employer: Fabrique Numérique des Ministères Sociaux
+  - start: 2022-01-01
+    end: 2030-01-01
+    status: independent
+    employer: Fabrique Numérique des Ministères Sociaux
 startups:
   - e-mjpm
+  - sre
 ---
 
 Open-Source Fanatic 🦊

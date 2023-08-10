@@ -1,16 +1,22 @@
 ---
 title: A-JUST
-mission: Aider les juridictions dans l'affectation de leurs ressources humaines
-  pour réduire les délais de justice.
+mission: >-
+  Aider les juridictions dans l'affectation de leurs ressources humaines pour
+  réduire les délais de justice.
 sponsors:
   - /organisations/mj
   - /organisations/igj
 incubator: justice
+link: https://a-just.beta.gouv.fr
 repository: https://github.com/betagouv/a-just
 contact: contact@a-just.fr
+stats: true
+dashlord_url: https://dashlord.incubateur.net/url/a-just-beta-gouv-fr/
+analyse_risques: true
 accessibility_status: non conforme
 usertypes:
   - etat
+stats_url: https://a-just.beta.gouv.fr/stats
 events: []
 phases:
   - name: investigation
@@ -22,12 +28,15 @@ phases:
     comment: Construction sur un périmètre de juridictions restreint.
   - name: acceleration
     start: 2022-11-30
-    comment: "Passage en accélération : amélioration continue du produit et
-      augmentation du nombre d'utilisateurs. "
+    comment: >-
+      Passage en accélération : amélioration continue du produit et augmentation
+      du nombre d'utilisateurs. 
 ---
 <!--StartFragment-->
 
 ## **Contexte**
+
+[Voir la vidéo de présentation de la démarche](https://vimeo.com/788314426)
 
 La dernière enquête ministérielle sur le fonctionnement de la Justice et la satisfaction des personnes ayant eu un contact direct avec elle a révélé que **95% des français la considéraient trop lente**.
 
@@ -77,11 +86,13 @@ Or, si la durée de traitement des procédures est particulièrement suivie par 
 
 ## **La solution en construction**
 
+[Voir la vidéo de présentation du produit](https://vimeo.com/788716513)
+
 ***Lancement de la phase d'accélération***
 
 Suite à l’investigation menée début 2021, la construction a démarré le 1er septembre 2021. Le sponsor est le chef de l’Inspection Générale de la Justice.
 
-L﻿e passage en phase d'accélération a été validé fin novembre 2022.
+Une deuxième phase d'accélération a été validée le 13 juillet 2023, accompagnée par le [FAST.](https://beta.gouv.fr/fast/)
 
 ***L’objectif***
 

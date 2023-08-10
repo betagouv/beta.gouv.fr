@@ -1,10 +1,10 @@
 ---
 fullname: Cécile Di Marco
-role: Appui Support
+role: Chargée de support utilisateurs
 domaine: Autre
 missions:
   - start: 2023-01-01
-    end: 2023-07-30
+    end: 2023-12-30
     status: admin
     employer: pôle emploi
 startups:

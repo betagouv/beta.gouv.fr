@@ -5,11 +5,13 @@ domaine: Coaching
 link: https://www.linkedin.com/in/inesdartiguenave/
 missions:
   - start: 2021-04-08
-    end: 2023-03-31
+    end: 2023-12-31
     status: independent
     employer: NUMA
 startups:
   - sparte
   - docurba
+
 ---
+
 

@@ -5,7 +5,7 @@ domaine: Développement
 github: paulboosz
 missions:
   - start: 2021-11-14
-    end: 2023-04-14
+    end: 2023-10-14
     status: independent
     employer: INETUM - LBC
 startups:

@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: icc
   - start: 2020-03-02
-    end: 2023-03-01
+    end: 2024-06-14
     status: admin
     employer: dinum
 startups:
@@ -27,6 +27,6 @@ previously:
 badges:
   - segur
 teams:
-  - /teams/animation-dinum
-  - /teams/brigade
+
 ---
+

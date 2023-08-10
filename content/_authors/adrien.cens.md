@@ -6,7 +6,7 @@ link: https://adriencens.com
 github: Alwein
 missions:
   - start: 2022-12-01
-    end: 2023-06-30
+    end: 2024-06-29
     status: service
     employer: Octo
 startups:

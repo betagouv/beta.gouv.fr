@@ -18,6 +18,10 @@ missions:
     end: 2023-06-01
     status: independent
     employer: octo
+  - start: 2022-04-01
+    end: 2023-12-01
+    status: independent
+    employer: scopyleft
 startups:
     - données-et-territoires
     - pilotage.de.linclusion

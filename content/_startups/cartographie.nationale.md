@@ -13,13 +13,18 @@ accessibility_status: non conforme
 events:
   - name: product_launch
     date: 2022-11-21
-    comment: "Première utilisation de notre outil de cartographie sur le site des
-      conseillers numériques : https://carte.conseiller-numerique.gouv.fr/"
+    comment: >-
+      Première utilisation de notre outil de cartographie sur le site des
+      conseillers numériques : https://carte.conseiller-numerique.gouv.fr/
 phases:
   - name: acceleration
     start: 2022-11-01
-    end: 2023-07-01
+    end: 2022-04-01
+  - name: construction
+    start: 2022-04-01
+
 ---
+
 ## Contexte
 
 Plus de **13 millions de Français** ont des difficultés avec les usages numériques.

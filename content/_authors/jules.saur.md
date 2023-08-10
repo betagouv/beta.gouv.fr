@@ -4,11 +4,12 @@ domaine: Déploiement
 role: Chargé de déploiement
 missions:
   - start: 2021-05-10
-    end: 2023-06-30
+    end: 2023-12-30
     status: independent
     employer: OCTO
 startups:
   - ban
+  - bases.adresses.locales
 badges:
   - segur
 competences:

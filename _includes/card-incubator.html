@@ -95,7 +95,7 @@
                         </div>
                         <div class="authors fr-grid-row fr-grid-row--gutters">
                             {%- assign authors = team_authors | where_exp:"item", "item.teams contains team.id" -%} {%- for author in authors -%}
-                            <div class="fr-col-6 fr-col-md-3">{%- include card-community.html author=author hide_details=true -%}</div>
+                            <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-lg-3">{%- include card-community.html author=author hide_details=true -%}</div>
                             {%- endfor -%}
                         </div>
                     </div>

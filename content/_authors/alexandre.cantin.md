@@ -5,14 +5,15 @@ domaine: Développement
 github: AlexandreCantin
 missions:
   - start: 2022-07-04
-    end: 2023-01-31
+    end: 2023-10-31
     status: independent
     employer: Octo
 avatar: /img/authors/alexandre.cantin.jpg
 startups:
   - dora
-previously: 
+previously:
   - la-bonne-boite
+  - la-bonne-alternance
 ---
 
 Agent de Pôle emploi et développeur pour La Bonne Boite.
