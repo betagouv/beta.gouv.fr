@@ -53,6 +53,6 @@ Nous sommes conscients que les filigranes ne sont pas une sécurité infaillible
 Une remarque, une suggestion ?
 Vous avez été très nombreux à nous écrire pour nous faire part de vos suggestions, et nous vous en remercions. Nous prendrons en compte vos remarques afin de prioriser les prochaines évolutions du service.
 
-Actuellement, le service est géré par l’équipe DossierFacile, aussi vous pouvez utiliser le même <a href=www.dossierfacile.fr/contact> formulaire de contact</a> pour nous faire part de vos remarques.
+Actuellement, le service est géré par l’équipe [DossierFacile](https://beta.gouv.fr/startups/locatio.html), aussi vous pouvez utiliser le même [formulaire de contact](https://www.dossierfacile.fr/contact) pour nous faire part de vos remarques.
 
 (mis à jour le 14/08/2023)
