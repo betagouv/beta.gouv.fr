@@ -12,7 +12,8 @@ startups:
   - plateforme.impact
 badges:
   - segur
-
+previously:
+  - trackdechets
 ---
 
 
