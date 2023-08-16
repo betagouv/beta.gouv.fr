@@ -9,6 +9,8 @@ missions:
     employer: Fairness
 startups:
   - dialogue
+previously:
+  - dialogue
 ---
 
 
