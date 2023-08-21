@@ -5,14 +5,13 @@ domaine: Produit
 github: lbranaa
 missions:
   - start: 2023-01-03
-    end: 2023-08-31
+    end: 2023-10-06
     status: independent
     employer: ''
 startups:
   - datagir
   - nosgestesclimat
 memberType: beta
-
 ---
 
 
