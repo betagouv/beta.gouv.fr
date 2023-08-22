@@ -7,7 +7,7 @@ missions:
     end: 2023-12-31
     status: service
     employer: OCTO
-memberType: attributaire
+memberType: beta
 github: arnaudjacob
 startups:
   - suite.collaborative
