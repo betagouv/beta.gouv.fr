@@ -8,7 +8,7 @@ missions:
     status: service
     employer: OCTO
 memberType: attributaire
-github: arnaud.jacob
+github: arnaudjacob
 startups:
   - suite.collaborative
 competences:
