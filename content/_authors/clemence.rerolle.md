@@ -5,13 +5,15 @@ domaine: Déploiement
 github: clemencererolle
 missions:
   - start: 2021-11-18
-    end: 2023-10-30
+    end: 2023-11-01
     status: independent
     employer: Octo
 startups:
-  - tumeplay
+  - eco-euro
 badges:
   - segur
+previously:
+  - tumeplay
 ---
 
 Business developer et podcasteuse
