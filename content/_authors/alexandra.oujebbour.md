@@ -4,7 +4,7 @@ role: Ambassadrice métier/ Co PM
 domaine: Autre
 missions:
   - start: 2022-03-01
-    end: 2023-01-31
+    end: 2024-01-31
     status: admin
     employer: Pôle Emploi
 startups:
