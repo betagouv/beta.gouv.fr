@@ -6,7 +6,7 @@ sponsors:
   - /organisations/dgaln
 incubator: mtes
 repository: https://github.com/MTES-MCT/Docurba
-contact: hermance.gauthier@developpement-durable.gouv.fr
+contact: contact@docurba.beta.gouv.fr
 accessibility_status: non conforme
 stats: true
 stats_url: https://stats.data.gouv.fr
