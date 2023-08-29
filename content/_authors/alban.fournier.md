@@ -3,6 +3,7 @@ fullname: Alban Fournier
 role: Product Manager Confirmé
 domaine: Produit
 link: https://www.linkedin.com/in/albanfournierprenfit/
+avatar: /img/authors/alban.fournier.jpg
 missions:
   - start: 2022-06-01
     end: 2023-12-31
