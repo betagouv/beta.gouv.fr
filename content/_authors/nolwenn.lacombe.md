@@ -1,10 +1,10 @@
 ---
 fullname: Nolwenn LACOMBE
-role: Responsable Méthodes &amp; Outils
+role: Responsable Méthodes &amp;amp; Outils
 domaine: Déploiement
 missions:
   - start: 2023-05-12
-    end: 2023-08-31
+    end: 2026-02-27
     status: admin
     employer: ANSSI
 startups:
