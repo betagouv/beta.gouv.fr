@@ -4,11 +4,9 @@ domaine: Autre
 role: Responsable d'incubateur
 missions:
   - start: 2021-05-12
-    end: 2023-09-15
+    end: 2024-09-15
     status: admin
     employer: DGFiP
-startups:
-  - attractivite.des.territoires
 badges:
   - segur
 competences:
