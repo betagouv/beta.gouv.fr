@@ -1,16 +1,23 @@
 ---
-fullname: SAMY TOLBA
+fullname: Samy Tolba
+domaine: Déploiement
 role: Chargé de déploiement
-domaine: Animation
 missions:
   - start: 2022-10-10
     end: 2023-01-31
     status: independent
     employer: Octo
+  - status: independent
+    start: 2023-09-05
+    end: 2024-01-05
+incubator: dinum
 startups:
+  - sante-psy-etudiant
+previously:
   - archifiltre
 badges:
   - segur
-
+competences:
+  - Communication
 ---
-Consultant en image de marque personnelle et Biz Dev
+Chargé de déploiement
