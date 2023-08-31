@@ -1,19 +1,19 @@
 ---
 title: EvalPro+
-mission: >-
-  Dérisquage de projet par l'évaluation environnementale et développement d'une
-  approche environnementale systématique des projets.
+mission: Dérisquage de projet par l'évaluation environnementale et développement
+  d'une approche environnementale systématique des projets.
 sponsors:
   - /organisations/mtes
 incubator: mtes
+link: https://evalpro.vercel.app/
+repository: https://github.com/cron6502/evalpro
 contact: joel.figueres@beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-04-24
-    comment: >-
-      Dénomination initiale du projet : "Décisions rendues au cas par cas" - Fin
-      de la phase d'investigation programmée en septembre 2023
+    comment: "Dénomination initiale du projet : \"Décisions rendues au cas par cas\"
+      - Fin de la phase d'investigation programmée en septembre 2023"
 ---
 ## Contexte
 
