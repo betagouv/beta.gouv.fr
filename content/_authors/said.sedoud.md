@@ -5,7 +5,7 @@ domaine: Développement
 github: ssedoudbgouv
 missions:
   - start: 2021-06-14
-    end: 2023-09-30
+    end: 2026-09-30
     status: independent
     employer: Octo
 startups:
