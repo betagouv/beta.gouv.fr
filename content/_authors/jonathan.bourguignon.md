@@ -10,7 +10,7 @@ missions:
     employer: Numa
   - status: independent
     start: 2023-05-02
-    end: 2023-09-30
+    end: 2024-03-30
 incubator: ademe
 startups:
   - beges
