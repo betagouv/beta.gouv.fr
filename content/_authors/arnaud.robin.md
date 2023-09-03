@@ -1,6 +1,6 @@
 ---
 fullname: Arnaud Robin
-role: Chargé d&#x27;accélération
+role: Chargé d'accélération
 domaine: Coaching
 github: arnaud-robin
 missions:
@@ -8,7 +8,6 @@ missions:
     end: 2025-09-01
     status: admin
     employer: DINUM
-memberType: attributaire
 ---
 
 Chargé d'accélération FAST
