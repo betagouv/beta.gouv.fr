@@ -8,6 +8,7 @@ missions:
     end: 2025-09-01
     status: admin
     employer: DINUM
+memberType: beta
 ---
 
 Chargé d'accélération FAST
