@@ -1,5 +1,5 @@
 ---
-title: FAST 12 - Juin 2023
+title: FAST 12 - Janvier 2023
 sidebar: sidebar-fast.html
 new-fast: true
 promotion: 12
