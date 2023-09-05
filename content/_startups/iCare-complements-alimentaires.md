@@ -1,6 +1,6 @@
 ---
 title: Teleicare 2.0
-mission: Fluidifier la déclaration des compléments alimentaires pour un meilleur respect de la réglementation et une transparence accrue au profit de la santé des consommateur-ices
+mission: Vers une circulation de compléments alimentaires conformes à la réglementation, sûrs en termes de santé publique et adaptés aux besoins physiologiques des consommateurs
 sponsors: 
   - /organisations/dgal
 incubator: dinum
@@ -13,16 +13,42 @@ usertypes:
   - entreprise
 ---
 
-## Sujet : les compléments alimentaires sont des denrées alimentaires dont le but est de compléter le régime alimentaire normal
+## Le problème : 
 
-Les compléments alimentaires sont des denrées alimentaires dont le but est de compléter le régime alimentaire normal. Compte tenu de leurs caractéristiques, les compléments alimentaires ne sont pas des produits anodins. Ils peuvent présenter des risques pour la santé en cas de mésusage. Il convient donc de bien respecter les conseils d’utilisation (doses journalières, personnes concernées, etc.). Il est également conseillé de porter la plus grande attention aux cumuls de consommation (par exemple, lorsque plusieurs compléments alimentaires sont consommés de manière concomitante) et aux interactions potentielles avec d’autres produits (médicaments).
-C'est un marché de plus de 2,4 Md d'euros en 2022 qui concernent des canaux de distribution variés : les pharmacies (50%), la grande distribution (16%), le e-commerce (8%). 
+Les compléments alimentaires sont des denrées alimentaires dont le but est de compléter un régime alimentaire normal. C'est aujourd'hui un marché de plus de 2,4 Md d'euros en 2022 qui concernent des canaux de distribution variés : les pharmacies (50%), la grande distribution (16%), le e-commerce (8%). 
+Leur consommation connaît une croissance marquée en France, où environ 20% des adultes intègrent ces produits dans leur quotidien; croissance suscitant des réflexions quant à ses implications pour la santé publique et la réglementation.
 
-## Contexte : transfert de compétences pour les compléments alimentaires
+Compte tenu de leurs caractéristiques, les compléments alimentaires ne sont pas des produits anodins. Ils peuvent présenter des risques pour la santé en cas de mésusage. Il convient donc de bien respecter les conseils d’utilisation (doses journalières, personnes concernées, etc.). Il est également conseillé de porter la plus grande attention aux cumuls de consommation (par exemple, lorsque plusieurs compléments alimentaires sont consommés de manière concomitante) et aux interactions potentielles avec d’autres produits (médicaments).
 
-La [réorganisation de la sécurité sanitaire de l’alimentation](https://www.vie-publique.fr/en-bref/287525-une-nouvelle-gouvernance-pour-la-securite-sanitaire-des-aliments#:~:text=Le), basée sur le [Décret n° 2022-840 du 1er juin 2022 relatif aux attributions du ministre de l’agriculture et de la souveraineté alimentaire](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045848194), attribue le suivi des missions relatives à la sécurité sanitaire des aliments et le rôle de [police unique](https://agriculture.gouv.fr/securite-sanitaire-des-aliments-une-police-unique-pour-proteger-le-consommateur) chargée des contrôles de sécurité alimentaire au Ministère de l’agriculture et de la souveraineté alimentaire, et plus précisément à la [DGAL](https://agriculture.gouv.fr/mots-cles/dgal) (Direction Générale de l’Alimentation, qui dépend du dit ministère). Ceci entraine la prise en charge d’un nombre de compétences précédemment attribuées à d’autres administrations, à savoir la [DGCCRF](https://www.economie.gouv.fr/dgccrf) (Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes, qui dépend du ministère en charge de l’économie) pour les compléments alimentaires.
-Si la supervision de la loyauté et de la qualité (respect des normes d’étiquetage, composition, dénomination, et allégations) des compléments alimentaires reste une prérogative de la DGCCRF, tout ce qui est lié à la sécurité, y compris la gestion des déclarations des nouveaux compléments alimentaires, passe sous la tutelle de la DGAL. La DGAL s’occupe de ces aspects par le biais du nouveau bureau BEPIAS (Bureau des Etablissements et Produits des Industries Alimentaires Spécialisées), spécialement établi au sein de la Sous-direction de la sécurité sanitaire des aliments. Le bureau BEPIAS a pour vocation d’élaborer, mettre en œuvre et contrôler la réglementation sanitaire des aliments spécialisés, notamment les compléments alimentaires, les OGM, les aliments enrichis, les nouveaux aliments, et les améliorants (additifs et auxiliaires technologiques, enzymes, arômes et colorants).
+Une différence majeure entre les compléments alimentaires et les médicaments réside dans le processus de régulation. Alors que les médicaments sont soumis à une procédure stricte d'AMM (Autorisation de Mise sur le Marché), les compléments alimentaires échappent à des contraintes similaires. En effet, dès lors qu'un produit contient des ingrédients autorisés, il peut être mis en vente sans procédure d'AMM. Même si un ingrédient n'est ni autorisé ni interdit mais est déjà commercialisé dans l'Union Européenne, une simple déclaration à la DGAl suffit, ce qui soulève des préoccupations sur la vigilance de cette réglementation.
 
-## Investigation en cours
+Distinguer ce qui est autorisé de ce qui ne l'est pas dans le domaine des compléments alimentaires demeure ardu. Les sources d'information sont dispersées, et le grand public peine à trouver des informations fiables. Les industriels, pour leur part, doivent naviguer au sein d'un labyrinthe réglementaire, souvent en recourant à des services "affaires réglementaires" complexes pour s'assurer de la conformité de leurs produits.
+
+
+## Hypothèses de solution : 
+
+Une particularité de la régulation réside dans l'absence d'une liste unique de substances autorisées. Au lieu de cela, plusieurs listes et ressources jalonnent le paysage réglementaire, incluant l'arrêté de 2006 publié au Journal Officiel qui énumère les nutriments utilisables, les avis ponctuels de la CSHPF et de l'ANSES, ainsi que des annexes de textes législatifs français. Cette complexité ajoute une couche d'ambiguïté pour les consommateurs et les industriels.
+
+L'objectif sous-jacent est de garantir un niveau élevé de protection au consommateur, en lui fournissant les informations nécessaires pour faire des choix éclairés, tout en créant des conditions de concurrence équitables pour l'industrie alimentaire. Cette équation délicate nécessite un équilibre entre la promotion de la liberté de choix du consommateur et la protection de sa santé.
+
+Les 3 missions principales que nous nous fixons pendant la phase d'investigation consistent à : 
+- Faciliter et fluidifier l’instruction des dossiers compléments alimentaires afin d'accorder davantage de temps à la veille et actualisation réglementaire
+- Autonomiser et responsabiliser les professionnels du secteur en leur fournissant les ressources et outils nécessaires à une production saine et légale
+- Informer les consommateurs, les rendre acteurs de leur consommation
+
+Les solutions que nous pensons tester auprès de nos usagers-cibles lors de la phase de construction :
+- une info-lettre régulière avec les mises à jour réglementaire à destination des professionnels du secteur (avis des évaluateurs, historiques de consommation,...)
+- une dématérialisation des déclarations à la DGAl via l'outil démarches simplifiées en fluidifiant le parcours
+- la construction d'un catalogue des compléments alimentaires autorisés accessibles à toustes les consommateurs
+
+
+
+## Les différentes phases et étapes de l'investigation : 
+
+L'investigation a été lancée en juin 2023 avec le BEPIAS (Bureau des Etablissements et Produits des Industries Alimentaires Spécialisées) avec deux agentes du bureau, devenues intrapreneuses à hauteur de 1 jour/semaine. Toutes deux sont accompagnées d'une coach, garante de la méthodologie et approche beta.gouv.fr.
+Depuis juin, nous avons pu interroger les 3 instructrices des dossiers de déclarations, 3 syndicats représentants des professionnels, ainsi que 38 industriels du secteur. Notre objectif : comprendre leurs enjeux, les points de friction qu'ielles rencontrent dans leur activité quotidienne et identifier les solutions pour les aider. 
+
+Les prochaines étapes : 
+Le 29 septembre, l'équipe de l'investigation réunira un comité d'investissement afin de présenter les constats et apprentissages de 2 mois d'investigation. Lors de ce comité, seront mis à l'arbitrage les hypothèses de solutions imaginées, les ressources (humaines et financières) à allouer pour les 6 prochains mois, ainsi que les critères de succès à suivre et évaluer aux termes de cette période.  
 
 Nous contacter : emmanuelle.miralles@agriculture.gouv.fr, caroline.viste-martin@agriculture.gouv.fr et jennifer.stephan@beta.gouv.fr
