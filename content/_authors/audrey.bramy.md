@@ -3,12 +3,12 @@ fullname: Audrey Bramy
 role: Développeuse / PO
 domaine: Développement
 github: AudreyBramy
-missions: # ton historique de missions avec nous dans l'ordre chronologique. Remplis déjà la première pour commencer !
+missions:
   - start: 2020-09-01
-    end: 2023-09-13
+    end: 2024-09-13
     status: independent
     employer: scopyleft
-startups: 
+previously:
   - comobi
 ---
 
