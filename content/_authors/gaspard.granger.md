@@ -1,16 +1,19 @@
 ---
 fullname: Gaspard Granger
 domaine: Intraprenariat
-role: Intrapreneur
+role: Responsable de portefeuille
 missions:
-  - start: 2019-11-20
-    end: 2023-12-31
+  - start: 2023-09-01
+    end: 2026-12-31
     status: admin
-    employer: DGITM
-startups:
+    employer: La Fabrique numérique
+previously:
   - mobilic
 github: gaspardbetagouv
 competences:
   - Gestion de Produit
   - Administration Publique
+  - Droit / Affaires juridiques
+teams:
+  - /teams/mtes
 ---
