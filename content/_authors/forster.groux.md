@@ -14,7 +14,7 @@ missions:
     employer: /ut7
 startups:
   - ma-cantine-egalim
-  - Cassiopée
+  - cassiopee
 ---
 
 Développeur passionné d'agilité et d'horizontalité
