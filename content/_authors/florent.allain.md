@@ -1,5 +1,5 @@
 ---
-fullname: florent allain
+fullname: Florent Allain
 role: Développeur frontend
 domaine: Développement
 github: flrnt
@@ -8,6 +8,8 @@ missions:
     end: 2024-01-02
     status: independent
 memberType: beta
+startups:
+  - cassiopee
 ---
 
 développeur frontend
