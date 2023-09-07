@@ -29,5 +29,6 @@ Afin de favoriser la connaissance des modalités d’accueil au sein des espaces
 
 ## Stratégie
 
-* E﻿tendre la couverture géographique aux ressorts avoisinant Lyon.
-* E﻿nrichir fonctionnellement le produit en proposant le "passage de bras".
+\* E﻿tendre la couverture géographique aux ressorts avoisinant Lyon. 
+
+\* E﻿nrichir fonctionnellement le produit en proposant le "passage de bras".
