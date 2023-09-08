@@ -14,7 +14,6 @@ startups:
 previously:
   - justif
   - anct-pni-38
-  - anct-pni-49
   - mediature
 competences:
   - Coaching
