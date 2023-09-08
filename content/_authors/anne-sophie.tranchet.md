@@ -22,15 +22,15 @@ missions:
     end: 2023-12-06
     status: independent
     employer: Octo
-startups:
-  - cartobio
-  - dialogue
 competences:
   - UX
   - UI
   - Accessibilité
 teams:
   - /teams/communaute-dinum
+previously:
+  - cartobio
+  - dialogue
 ---
 
 Concevoir pour toutes et tous
