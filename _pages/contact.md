@@ -48,7 +48,7 @@ Nous pouvons vous aider à organiser cet évènement interne, sélectionner les 
 
 ## Rejoindre les équipes de beta.gouv.fr
 
-Consultez notre [page Recrutement](/recrutement) ou transmettez nous une candidature spontanée à recrutement@beta.gouv.fr. 
+Consultez notre [page Recrutement](/recrutement) ou transmettez nous une [candidature spontanée](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/candidatures-spontanees). 
 Vous pouvez aussi nous suivre sur Twitter à [@BetaGouv](https://twitter.com/BetaGouv).
 
 ## Proposer une idée de service public numérique
