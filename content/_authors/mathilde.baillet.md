@@ -1,15 +1,14 @@
 ---
 fullname: Mathilde Baillet
-role: Coach produit
+role: Coach
 domaine: Coaching
 missions:
   - start: 2022-03-28
-    end: 2023-09-29
+    end: 2024-03-30
     status: independent
     employer: Numa
 startups:
   - mobilic
-
 ---
 
 
