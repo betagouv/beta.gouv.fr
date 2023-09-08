@@ -1,5 +1,5 @@
 ---
-fullname: Andre  Gauthier
+fullname: André Gauthier
 domaine: Déploiement
 role: Chargé de déploiement
 github: gauthierandre
