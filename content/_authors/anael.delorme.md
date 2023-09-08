@@ -12,5 +12,7 @@ competences:
   - Administration Publique
 memberType: beta
 role: expert métier stats
+startups:
+  - aquaculteurs.marins
 ---
 Statisticien
