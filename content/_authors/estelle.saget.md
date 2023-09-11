@@ -9,10 +9,11 @@ missions:
     status: independent
     employer: ''
 startups:
-  - apilos
+  - l-application-du-cej
 badges:
   - segur
-
+previously:
+  - apilos
 ---
 
 Couteau suisse (et bourguignon) de la tech, motivée par les projets à impact
