@@ -5,9 +5,9 @@ domaine: Développement
 github: SarahRubio
 missions:
   - start: 2019-09-17
-    end: 2023-12-01
+    end: 2024-09-13
     status: independent
-    employer: Scopyleft
-startups:
+    employer: scopyleft
+previously:
   - aides-territoires
 ---
