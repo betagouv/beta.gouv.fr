@@ -20,6 +20,9 @@ phases:
 usertypes:
   - collectivite-territoriale
   - etat
+fast:
+  promotion: 13
+  montant: 250000
 ---
 
 

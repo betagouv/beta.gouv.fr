@@ -27,6 +27,9 @@ phases:
     start: 2018-01-01
   - name: acceleration
     start: 2018-01-01
+fast:
+  promotion: 13
+  montant: 300000
 ---
 ## Locatio devient DossierFacile.fr !
 

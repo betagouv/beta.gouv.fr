@@ -17,6 +17,9 @@ phases:
   - name: construction
     start: 2022-01-03
     end: 2023-07-15
+fast:
+  promotion: 13
+  montant: 280000
 ---
 ## Contexte
 

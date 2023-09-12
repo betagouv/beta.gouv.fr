@@ -25,6 +25,9 @@ usertypes:
   - association
 dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/mano-app-fabrique-social-gouv-fr/
 accessibility_status: non conforme
+fast:
+  promotion: 13
+  montant: 100000
 ---
 # **Le problème**
 
