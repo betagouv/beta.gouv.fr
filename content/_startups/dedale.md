@@ -26,6 +26,8 @@ phases:
   - name: transfer
     start: 2023-04-01
     end: 2023-06-30
+  - name: alumni
+    start: 2023-07-01
 ---
 ## **Retour sur l’investigation**
 
