@@ -1,6 +1,6 @@
 ---
 fullname: Yasmine COMETA
-role: intrapreneure Data.subvention
+role: intrapreneure Data.Subvention
 domaine: Intraprenariat
 link: https://www.linkedin.com/in/yasmine-cometa/
 missions:
