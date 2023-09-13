@@ -5,7 +5,7 @@ domaine: Intraprenariat
 link: https://www.linkedin.com/in/yasmine-cometa/
 missions:
   - start: 2022-10-17
-    end: 2023-11-18
+    end: 2024-03-18
     status: admin
     employer: DJEPVA - MIN EDUC
 startups:
