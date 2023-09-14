@@ -5,6 +5,7 @@ mission: >-
   l'Allocation de Rentrée Scolaire (ARS), ou de l'Allocation Adulte Handicapé
   (AAH), ou d'une bourse étudiante.
 incubator: dinum
+contact: clemence.lopez@beta.gouv.fr
 sponsors:
   - /organisations/menjs
 phases:
