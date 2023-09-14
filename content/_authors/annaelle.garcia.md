@@ -2,6 +2,7 @@
 fullname: Annaëlle Garcia
 role: Chargée de déploiement
 domaine: Déploiement
+github: AnnaelleGarcia
 missions:
   - start: 2023-05-03
     end: 2023-10-31
