@@ -14,6 +14,7 @@ missions:
     employer: Dinum
 startups:
   - compte.ressources
+  - pass'sport
 previously:
   - tchap
   - sparte
