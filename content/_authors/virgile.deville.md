@@ -10,6 +10,8 @@ missions:
     status: independent
     employer: Numa
 memberType: beta
+teams:
+  - /teams/accelerateur-initiatives-citoyennes
 ---
 
-Product Manager, co-fondateur d'Open Source Poltics (Decidim), skater 🛹
+Product Manager, Expert commnuns numériques, co-fondateur d'Open Source Poltics (Decidim), skater 🛹
