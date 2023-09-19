@@ -15,4 +15,6 @@ competences:
   - Coaching
 teams:
   - /teams/DINUM
+startups:
+  - expositionIJ
 ---
