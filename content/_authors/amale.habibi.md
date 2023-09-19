@@ -1,6 +1,6 @@
 ---
 fullname: Amale HABIBI
-role: Chargée de déploiement
+role: Expert métier Pôle emploi
 domaine: Déploiement
 missions:
   - start: 2023-07-20
