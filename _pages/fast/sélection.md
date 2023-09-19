@@ -46,7 +46,7 @@ Les services numériques publics doivent bénéficier d’un **soutien** fort de
 L’enveloppe budgétaire du FAST est de 4 millions d’euros en 2023. Cette somme est ensuite répartie entre les lauréats :
 
 1. **Tous les lauréats** bénéficient d’un *accompagnement en accélération*, d’une valeur de 30 000 €.
-2. **Certains lauréats** bénéficient en plus d’un *co-financement*, selon le budget restant. En moyenne 5 ou 6 équipes peuvent recevoir ce financement.
+2. **Certains lauréats** bénéficient en plus d’un *co-financement*, selon le budget restant.
 
 ## Annonce des lauréats
 
