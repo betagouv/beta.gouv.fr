@@ -50,7 +50,7 @@ L’enveloppe budgétaire du FAST est de 4 millions d’euros en 2023. Cette som
 
 ## Annonce des lauréats
 
-L’annonce des lauréats se fait un mois après la clôture des dossiers, le 1er janvier 2024. Les candidats sauront alors si :
+L’annonce des lauréats se fait un mois après la clôture des dossiers, la première quinzaine de janvier 2024. Les candidats sauront alors si :
 
 - leur profil a été retenu
 - combien de fonds leur seront alloués
