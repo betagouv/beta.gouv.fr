@@ -5,7 +5,7 @@ permalink: /fast/sélection
 sidebar: sidebar-fast.html
 ---
 <p class="fr-text--lead">
-Le Fonds d’accélération des Startups d’État et de Territoire (FAST) est destiné aux produits numériques qui veulent augmenter leur impact et passer à l’échelle.
+Le 14ème appel à projet du Fonds d’accélération des Startups d’État et de Territoire est ouvert jusqu'au 1 décembre 2023. Plus de 1,5 million d'euros seront accordés aux produits numériques qui souhaitent augmenter leur impact et passer à l'échelle.
  </p>
 
 ## Critères de sélection
@@ -43,7 +43,7 @@ Les services numériques publics doivent bénéficier d’un **soutien** fort de
 
 ## Répartition du budget
 
-L’enveloppe budgétaire du FAST est de 3 millions d’euros en 2023. Cette somme est ensuite répartie entre les lauréats :
+L’enveloppe budgétaire du FAST est de 4 millions d’euros en 2023. Cette somme est ensuite répartie entre les lauréats :
 
 1. **Tous les lauréats** bénéficient d’un *accompagnement en accélération*, d’une valeur de 30 000 €.
 2. **Certains lauréats** bénéficient en plus d’un *co-financement*, selon le budget restant. En moyenne 5 ou 6 équipes peuvent recevoir ce financement.
