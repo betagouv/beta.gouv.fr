@@ -131,13 +131,15 @@ layout: default
               </li>
               {% endif %}
               <li>
-                <a class="fr-link" href="{{page.analyse_risques_url }}"
+                <a class="fr-link"
+                  {% if page.analyse_risques_url %}href="{{page.analyse_risques_url }}"{% endif %}
                   aria-disabled="{% if page.analyse_risques_url %}false{% else %}true{% endif %}"
                 ><span class="fr-icon-warning-line"></span> Analyse de risque
                 {% unless page.analyse_risques_url %}(non disponibles){% endunless %}</a>
               </li>
               <li>
-                <a class="fr-link" href="{{page.dashlord_url }}"
+                <a class="fr-link"
+                  {% if page.dashlord_url %}href="{{page.dashlord_url }}"{% endif %}
                   aria-disabled="{% if page.dashlord_url %}false{% else %}true{% endif %}"
                 ><span class="fr-icon-info-line"></span> Suivi des bonnes pratiques
                 {% unless page.dashlord_url %}(non disponibles){% endunless %}</a>
