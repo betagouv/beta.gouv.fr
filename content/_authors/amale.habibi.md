@@ -1,14 +1,15 @@
 ---
 fullname: Amale HABIBI
-role: Chargée de déploiement
 domaine: Déploiement
+role: Chargée de déploiement
 missions:
   - start: 2023-07-20
     end: 2024-01-19
     status: admin
     employer: Pôle emploi
 startups:
-  - dora
+  - data-inclusion
 memberType: autre
+competences:
+  - Administration Publique
 ---
-
