@@ -1,7 +1,7 @@
 ---
 fullname: Nour ALLAZKANI
 role: Chef de projet Réfugiés.info
-domaine: Développement
+domaine: Intraprenariat
 link: https://www.linkedin.com/in/luc-nour-allazkani/
 missions:
   - start: 2023-09-13
