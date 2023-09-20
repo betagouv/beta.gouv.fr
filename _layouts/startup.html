@@ -51,7 +51,7 @@ layout: default
             {% endif %}
           </p>
           <p>
-            Ce service numérique est sponsorisée par
+            Ce service numérique est sponsorisé par
             {% for sponsorId in page.sponsors %}
               {% assign sponsor = site.organisations | where: 'id', sponsorId | first %}
               {% if forloop.index > 1 %}, {% endif %}{{sponsor.name}}
