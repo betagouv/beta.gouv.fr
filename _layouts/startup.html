@@ -98,20 +98,23 @@ layout: default
                 <span class="fr-icon-github-fill">
                   Code source</a>
                 </span>
-              {% else %}
+                {% else %}
                 <a class="fr-link" aria-disabled="true" ><span class="fr-icon-github-fill">
                   Code source (non disponible)
-                </span></a>
+                </span>
+                </a>
                 {% endif %}
               </li>
               <li>
                 {% if page.budget_url %}
                 <a class="fr-link" href="{{ page.budget_url }}">
-                <span class="fr-icon-money-euro-circle-line"></span>
-                Budget</a>
-              {% else %}
+                  <span class="fr-icon-money-euro-circle-line"></span>
+                  Budget
+                </a>
+                {% else %}
                 <a class="fr-link" aria-disabled="true" ><span class="fr-icon-money-euro-circle-line"></span>
-                Budget (non disponible)</a>
+                  Budget (non disponible)
+                </a>
               </li>
               {% endif %}
               <li>
@@ -121,8 +124,10 @@ layout: default
                   Statistiques d'usage
                 </a>
                 {% else %}
-                <span class="fr-icon-line-chart-line"></span>
-                <a class="fr-link" aria-disabled="true" >Statistiques d'usage (non disponibles)</a>
+                <a class="fr-link" aria-disabled="true">
+                  <span class="fr-icon-line-chart-line"></span>
+                  Statistiques d'usage (non disponibles)
+                </a>
                 {% endif %}
               </li>
               {% if page.techno %}
@@ -134,15 +139,18 @@ layout: default
                 <a class="fr-link"
                   {% if page.analyse_risques_url %}href="{{page.analyse_risques_url }}"{% endif %}
                   aria-disabled="{% if page.analyse_risques_url %}false{% else %}true{% endif %}"
-                ><span class="fr-icon-warning-line"></span> Analyse de risque
-                {% unless page.analyse_risques_url %}(non disponibles){% endunless %}</a>
+                >
+                <span class="fr-icon-warning-line"></span> Analyse de risque
+                {% unless page.analyse_risques_url %}(non disponibles){% endunless %}
+                </a>
               </li>
               <li>
                 <a class="fr-link"
                   {% if page.dashlord_url %}href="{{page.dashlord_url }}"{% endif %}
                   aria-disabled="{% if page.dashlord_url %}false{% else %}true{% endif %}"
-                ><span class="fr-icon-info-line"></span> Suivi des bonnes pratiques
-                {% unless page.dashlord_url %}(non disponibles){% endunless %}</a>
+                  ><span class="fr-icon-info-line"></span> Suivi des bonnes pratiques
+                  {% unless page.dashlord_url %}(non disponibles){% endunless %}
+                </a>
               </li>
             </ul>
           {% endunless %}

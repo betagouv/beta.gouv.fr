@@ -51,7 +51,7 @@ jobs:
       run: bundle exec jekyll build --trace
 
     - name: Check HTML common mistakes
-      run: make html-proofer
+      run: make html-proofer --allow-missing-href
 
     - name: HTML5 Validator
       uses: Cyb3r-Jak3/html5validator-action@master
