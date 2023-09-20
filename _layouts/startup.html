@@ -36,14 +36,13 @@ layout: default
     </div>
   {% endif %} -->
 
-<div class="fr-container fr-py-2w fr-grid-row fr-grid-row--center">
+<div class="fr-container fr-py-2w fr-grid-row fr-grid-row--center fr-grid-row--gutters">
   <div class="fr-col-md-7">
     {{ content }}
   </div>
   <div class="fr-col-md-5">
     <!-- INFO -->
-    <div class="fr-py-6w fr-mx-2w">
-      <div class="fr-container fr-grid-row">
+    <div class="fr-py-4w fr-px-4w fr-mt-3w" style="border: 1px solid var(--light-border-default-grey, #E5E5E5);">
           <p>
             {% if phase.status == 'success' %}
               <b>{{ page.title }}</b> a été portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>
@@ -66,74 +65,84 @@ layout: default
             {% endif %}
           </p>
           {% unless phase.status == 'investigation' %}
-          <div>
+          <div class="fr-py-1w">
             <b>Indicateurs de qualité</b>
-            <ul style="list-style-type: none;">
-              {% if page.analyse_risques_url %}
-                <li>L'équipe a réalisé un atelier <a href="{{ page.analyse_risques_url }}" title="Analyse de risques de {{ page.title }}"> d'analyse de risques</a>.</li>
-                {% elsif page.analyse_risques %}
-                  <li>L'équipe a réalisé un atelier d'analyse de risques mais ne le rend pas encore public.</li>
-                {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
-                <li>L'équipe <em>n'a pas encore réalisé ou publié son atelier d'analyse de risques.</em></li>
-              {% endif %}
+            <ul style="list-style-type: none; padding: 0">
               {% if page.accessibility_status %}
-                <li><span class="fr-badge fr-badge--success">{{ page.accessibility_status }}</span></li>
+                <li><span class="fr-badge {% if page.accessibility_status == 'conforme' %}fr-badge--success{% elsif page.accessibility_status == 'partiellement conforme' %}fr-badge--warning{% else %}fr-badge--error{% endif %}">Accessibilité : {{ page.accessibility_status }}</span></li>
               {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
-                <li><span class="fr-badge fr-badge--warning">non-conforme</span></li>
+                <li><span class="fr-badge fr-badge--error">Accessibilité : non conforme</span></li>
+              {% endif %}
+              {% if page.analyse_risques_url or page.analyse_risques  %}
+                <li><span class="fr-badge fr-badge--success">Sécurité : niveau connu</span></li>
+              {% else %}
+              <li><span class="fr-badge fr-badge--warning">Sécurité : niveau inconnu</span></li>
               {% endif %}
               {% if page.dashlord_url %}
-              <li><span class="fr-badge fr-badge--success">>Bonnes pratiques : 
-                <a href="{{ page.dashlord_url }}" title="Dashlord de {{ page.title }}"> suivies</a></span>
+              <li><span class="fr-badge fr-badge--success">
+                <span>Bonnes pratiques : suivies</span>
               </li>
               {% else %}
-              <li><span class="fr-badge fr-badge--warning">Bonnes pratiques : 
-                  <em>non suivies</em></span>
+              <li><span class="fr-badge fr-badge--warning">
+                <span>Bonnes pratiques : non suivies</span>
               </li>
               {% endif %}
-              <li class="fr-badge fr-badge--success">
-                Les statistiques d'usage
-                {% if page.stats %}
-                  <a href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">sont disponibles</a>.
-                {% else %}
-                  <em>ne sont pas encore disponibles.</em>
-                {% endif %}
-              </li>
               </ul>
             </div>
-          <div>
+          <div class="fr-py-1w">
             <b>Transparence</b>
-            <ul style="list-style-type: none;">
+            <ul style="list-style-type: none; padding: 0">
+              <li>
                 {% if page.repository.size > 0 %}
-                  <li>
-                    <a class="fr-link" href="{{ page.repository }}">
-                    <span class="fr-icon-github-fill" aria-hidden="true">
-                      Code source</a>
-                    </span>
-                  </li>
-                {% else %}
-                  <li>
-                    <span class="fr-icon-github-fill" aria-hidden="true">
-                      Code source (non disponible)
-                    </span>
-                  </li>
+                <a class="fr-link" href="{{ page.repository }}">
+                <span class="fr-icon-github-fill">
+                  Code source</a>
+                </span>
+              {% else %}
+                <a class="fr-link" aria-disabled="true" ><span class="fr-icon-github-fill">
+                  Code source (non disponible)
+                </span></a>
                 {% endif %}
+              </li>
+              <li>
                 {% if page.budget_url %}
-                <li><a class="fr-link" href="{{ page.budget_url }}">
-                  <span class="fr-icon-money-euro-circle-line" aria-hidden="true"></span>
-                  Budget</a>
-                </li>
+                <a class="fr-link" href="{{ page.budget_url }}">
+                <span class="fr-icon-money-euro-circle-line"></span>
+                Budget</a>
+              {% else %}
+                <a class="fr-link" aria-disabled="true" ><span class="fr-icon-money-euro-circle-line"></span>
+                Budget (non disponible)</a>
+              </li>
+              {% endif %}
+              <li>
+                {% if page.stats %}
+                <a class="fr-link" href="{% if page.stats_url %}{{ page.stats_url }}{% else %}{{ page.link | strip }}/stats{% endif %}" title="Statistiques de {{ page.title }}">
+                  <span class="fr-icon-line-chart-line"></span>
+                  Statistiques d'usage
+                </a>
                 {% else %}
-                <li><span class="fr-icon-money-euro-circle-line" aria-hidden="true"></span>
-                  Budget (non disponible)
-                </li>
+                <span class="fr-icon-line-chart-line"></span>
+                <a class="fr-link" aria-disabled="true" >Statistiques d'usage (non disponibles)</a>
                 {% endif %}
+              </li>
               {% if page.techno %}
-              <li><span class="fr-icon-computer-line" aria-hidden="true"></span>Technoligies utilisées :
+              <li><span class="fr-icon-computer-line"></span>Technoligies utilisées :
                 {{ page.techno | join: " - " }}
               </li>
               {% endif %}
+              <li>
+                <a class="fr-link" href="{{page.analyse_risques_url }}"
+                  aria-disabled="{% if page.analyse_risques_url %}false{% else %}true{% endif %}"
+                ><span class="fr-icon-warning-line"></span> Analyse de risque
+                {% unless page.analyse_risques_url %}(non disponibles){% endunless %}</a>
+              </li>
+              <li>
+                <a class="fr-link" href="{{page.dashlord_url }}"
+                  aria-disabled="{% if page.dashlord_url %}false{% else %}true{% endif %}"
+                ><span class="fr-icon-info-line"></span> Suivi des bonnes pratiques
+                {% unless page.dashlord_url %}(non disponibles){% endunless %}</a>
+              </li>
             </ul>
-          </p>
           {% endunless %}
         </div>
         </div>
