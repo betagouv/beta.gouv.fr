@@ -1,6 +1,7 @@
 ---
 fullname: Amale HABIBI
 domaine: Déploiement
+github: AmaleHb
 role: Chargée de déploiement
 missions:
   - start: 2023-07-20
