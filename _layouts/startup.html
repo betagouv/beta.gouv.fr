@@ -127,7 +127,7 @@ layout: default
                     {% else %}
                     <span class="fr-icon-line-chart-line"></span>
                     <a class="fr-link" aria-disabled="true">
-                      Statistiques d'usage (non disponibles)
+                      Statistiques d'usage (non disponible)
                     </a>
                     {% endif %}
                   </li>
@@ -143,7 +143,7 @@ layout: default
                       aria-disabled="{% if page.analyse_risques_url %}false{% else %}true{% endif %}"
                     >
                     Analyse de risque
-                    {% unless page.analyse_risques_url %}(non disponibles){% endunless %}
+                    {% unless page.analyse_risques_url %}(non disponible){% endunless %}
                     </a>
                   </li>
                   <li>
@@ -152,7 +152,7 @@ layout: default
                       {% if page.dashlord_url %}href="{{page.dashlord_url }}"{% endif %}
                       aria-disabled="{% if page.dashlord_url %}false{% else %}true{% endif %}"
                       >Suivi des bonnes pratiques
-                      {% unless page.dashlord_url %}(non disponibles){% endunless %}
+                      {% unless page.dashlord_url %}(non disponible){% endunless %}
                     </a>
                   </li>
                 </ul>
