@@ -9,6 +9,7 @@ missions:
     employer: Pôle emploi
 startups:
   - data-inclusion
+  - dora
 memberType: autre
 competences:
   - Administration Publique
