@@ -1,8 +1,8 @@
 ---
 fullname: Amale HABIBI
+role: Expert métier Pôle emploi
 domaine: Déploiement
 github: AmaleHb
-role: Chargée de déploiement
 missions:
   - start: 2023-07-20
     end: 2024-01-19
