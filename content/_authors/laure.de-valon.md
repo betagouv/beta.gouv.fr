@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Numa
 startups:
-  - archivesarcheo
+  - versementgetorix
 ---
 
 Designer de service, coach méthodologique et peintre
