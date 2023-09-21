@@ -1,6 +1,6 @@
 {{ content }}
 
-{%- assign startups = site.startups | fast_promotion: 12, "montant" | reverse -%}
+{%- assign startups = site.startups | fast_promotion: page.promotion, "montant" | reverse -%}
 {%- assign incubators = site.incubators %}
 
 <style type="text/css">

@@ -25,13 +25,12 @@ missions:
     status: independent
     employer: octo
 startups:
-  - api.gouv.fr
-  - datapass
   - moncomptepro
+  - annuaire-entreprises
 previously:
   - openfisca
   - aides.jeunes
   - metiers-numeriques
-  - annuaire-entreprises
-  - pass-emploi
+  - api.gouv.fr
+  - datapass
 ---

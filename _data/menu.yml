@@ -31,13 +31,10 @@ shortcuts:
     url: https://espace-membre.incubateur.net
 fast:
   -
-    label: Éligibilité au FAST
-    target: /fast/éligibilité
+    label: Sélection au FAST
+    target: /fast/sélection
   -
-    label: Jury du FAST
-    target: /fast/comité
-  -
-    label: Pendant le FAST
+    label: Déroulement du FAST
     target: /fast/déroulement
   -
     label: Lauréats passés du FAST
