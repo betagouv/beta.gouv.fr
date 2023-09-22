@@ -1,6 +1,6 @@
 ---
 fullname: Nolwenn LACOMBE
-role: Responsable Méthodes, Outils et Projets
+role: Chargée de mission
 domaine: Déploiement
 missions:
   - start: 2023-05-12
