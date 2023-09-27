@@ -10,9 +10,11 @@ phases:
     start: 2021-10-07
   - name: construction
     start: 2022-01-17
+  - name: alumni
+    start: 2023-06-30
 link: https://sppnaut.beta.gouv.fr/
 stats: false
-repository: https://github.com/betagouv/SPPNautInterface/
+repository: https://github.com/betagouv/SPPNautCarting
 contact: gael.roue@shom.fr
 techno:
     - Python
@@ -44,7 +46,7 @@ Notre stratégie a consisté à :
 
 Ce que nous avons réalisé :
 
-- nous avons finalisé un système de publication des ouvrages nautiques plus fiable, pérenne et souple, utilisé actuellement en production par le Shom ;
+- nous avons finalisé un système de publication des ouvrages nautiques plus fiable, pérenne et souple, utilisé actuellement en production par le Shom (c.f. [sources](https://github.com/betagouv/SPPNautSPO));
 - nous avons mis au point un outil de visualisation cartographique des données présentes dans les ouvrages, ainsi qu'un outil de structuration des données conformes aux normes S-100 ;
 - nous avons déclenché une réflexion stratégique du Shom sur les futurs produits qui pourraient remplacer les ouvrages nautiques.
 
@@ -56,7 +58,12 @@ Ce que nous avons appris :
 
 ## Les prochaines hypothèses à explorer
 
+L'équipe SPPNaut a mis fin à son activité de développement en juin 2023.
+
+Elle a émis des recommandation pour le Shom, dans la perspective d'une reprise des travaux par le Shom :
+
 - continuer le travail de confrontation des normes S-100 à la réalité des ouvrages nautiques permettra d'alimenter la réflexion des experts métiers du Shom, qui a leur tour pourront participer activement à l'élaboration des normes, et rendre celles-ci plus pertinentes, mais aussi plus aptes à valoriser les données du Shom ;
 - les outils élaborés pendant ce travail permettront au Shom de publier ses données de manière structurée en avance de phase, et ainsi d'être à la proue des services hydrographiques internationaux ;
 - exploiter les possibilités ouvertes par ce format structuré permettra au Shom de proposer un produit dont on pourra rapidement mesurer l'usage, comme par exemple un extrait personnalisé des ouvrages, un ouvrage interactif, ou un système nautique interactif.
 
+Pour plus de détail, voir les [supports de présentation du retour d'expérience au Shom](https://github.com/betagouv/SPPNautCarting/blob/main/docs/Retex_complet_findemission_20230630.pdf).
