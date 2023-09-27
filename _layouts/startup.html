@@ -59,9 +59,9 @@ layout: default
             {% endfor %}
           </p>
           <p>
-            <span class="fr-icon-mail-fill"></span>
+            <span class="fr-icon-mail-line"></span>
             {% if page.contact %}
-            <a class="fr-link" href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l’équipe</a>.
+            <a class="fr-link" href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter léquipe</a>.
             {% else %}
             <a class="fr-link" href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
             {% endif %}
@@ -70,30 +70,54 @@ layout: default
           <!-- <div class="fr-py-1w">
             <b>Indicateurs de qualité</b>
             <ul style="list-style-type: none; padding: 0">
-              {% if page.accessibility_status %}
-                <li><span class="fr-badge {% if page.accessibility_status == 'conforme' %}fr-badge--success{% elsif page.accessibility_status == 'partiellement conforme' %}fr-badge--warning{% else %}fr-badge--error{% endif %}">Accessibilité : {{ page.accessibility_status }}</span></li>
-              {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
-                <li><span class="fr-badge fr-badge--error">Accessibilité : non conforme</span></li>
-              {% endif %}
-              {% if page.analyse_risques_url or page.analyse_risques  %}
-                <li><span class="fr-badge fr-badge--success">Sécurité : niveau connu</span></li>
+              {% capture accessibilite_indicator %}
+                {% if page.accessibility_status %}
+                  <li><span class="fr-badge {% if page.accessibility_status == 'conforme' %}fr-badge--success{% endif %}">Accessibilité : {{ page.accessibility_status }}</span></li>
+                {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
+                  <li><span class="fr-badge">Accessibilité : non conforme</span></li>
+                {% endif %}
+              {% endcapture %}
+              {% if page.accessibility_status and page.accessibility_status == 'conforme' %}
+                {%- assign indicateurs_qualite_success = indicateurs_qualite_success | append: accessibilite_indicator -%}
               {% else %}
-              <li><span class="fr-badge fr-badge--warning">Sécurité : niveau inconnu</span></li>
+                {%- assign indicateurs_qualite_warning = indicateurs_qualite_warning | append: accessibilite_indicator -%}
               {% endif %}
+              {% capture analyse_risques_indicator %}
+                {% if page.analyse_risques_url or page.analyse_risques  %}
+                  <li><span class="fr-badge fr-badge--success">Sécurité : niveau connu</span></li>
+                {% else %}
+                <li><span class="fr-badge">Sécurité : niveau inconnu</span></li>
+                {% endif %}
+              {% endcapture %}
+              {% if page.analyse_risques_url or page.analyse_risques %}
+                {%- assign indicateurs_qualite_success = indicateurs_qualite_success | append: analyse_risques_indicator -%}
+              {% else %}
+                {%- assign indicateurs_qualite_warning = indicateurs_qualite_warning | append: analyse_risques_indicator -%}
+              {% endif %}
+              {% capture dashlord_indicator %}
+                {% if page.dashlord_url %}
+                <li><span class="fr-badge fr-badge--success">
+                  Bonnes pratiques : suivies</span>
+                </li>
+                {% else %}
+                <li><span class="fr-badge">
+                  Bonnes pratiques : non suivies</span>
+                </li>
+                {% endif %}
+              {% endcapture %}
               {% if page.dashlord_url %}
-              <li><span class="fr-badge fr-badge--success">
-                Bonnes pratiques : suivies</span>
-              </li>
+                {%- assign indicateurs_qualite_success = indicateurs_qualite_success | append: dashlord_indicator -%}
               {% else %}
-              <li><span class="fr-badge fr-badge--warning">
-                Bonnes pratiques : non suivies</span>
-              </li>
+                {%- assign indicateurs_qualite_warning = indicateurs_qualite_warning | append: dashlord_indicator -%}
               {% endif %}
+              {{ indicateurs_qualite_success }}
+              {{ indicateurs_qualite_warning }}
               </ul>
           </div> -->
           <div class="fr-py-1w">
             <b>Transparence</b>
             <ul style="list-style-type: none; padding: 0">
+              {% capture repo %}
               <li>
                 {% if page.repository.size > 0 %}
                 <span class="fr-icon-github-fill"></span>
@@ -105,6 +129,13 @@ layout: default
                 </a>
                 {% endif %}
               </li>
+              {% endcapture %}
+              {% if page.repository.size > 0  %}
+                {%- assign transparence_success = transparence_success | append: repo -%}
+              {% else %}
+                {%- assign transparence_warning = transparence_warning | append: repo -%}
+              {% endif %}
+              {% capture budget %}
               <li>
                 {% if page.budget_url %}
                 <span class="fr-icon-money-euro-circle-line"></span>
@@ -118,6 +149,13 @@ layout: default
                 </a>
               </li>
               {% endif %}
+              {% endcapture %}
+              {% if page.budget_url %}
+               {%- assign transparence_success = transparence_success | append: budget -%}
+              {% else %}
+                {%- assign transparence_warning = transparence_warning | append: budget -%}
+              {% endif %}
+              {% capture stats %}
               <li>
                 {% if page.stats %}
                 <span class="fr-icon-line-chart-line"></span>
@@ -131,11 +169,13 @@ layout: default
                 </a>
                 {% endif %}
               </li>
-              {% if page.techno %}
-              <li><span class="fr-icon-computer-line"></span>Technoligies utilisées :
-                {{ page.techno | join: " - " }}
-              </li>
+              {% endcapture %}
+              {% if page.stats %}
+                {%- assign transparence_success = transparence_success | append: stats -%}
+              {% else %}
+                {%- assign transparence_warning = transparence_warning | append: stats -%}
               {% endif %}
+              {% capture link_risques %}
               <li>
                 <span class="fr-icon-warning-line"></span>
                 <a class="fr-link"
@@ -146,6 +186,13 @@ layout: default
                 {% unless page.analyse_risques_url %}(non disponible){% endunless %}
                 </a>
               </li>
+              {% endcapture %}
+              {% if page.analyse_risques_url %}
+                {%- assign transparence_success = transparence_success | append: link_risques  -%}
+              {% else %}
+                {%- assign transparence_warning = transparence_warning | append: link_risques  -%}
+              {% endif %}
+              {% capture link_bonnes_pratiques %}
               <li>
                 <span class="fr-icon-info-line"></span>
                 <a class="fr-link"
@@ -155,6 +202,19 @@ layout: default
                   {% unless page.dashlord_url %}(non disponible){% endunless %}
                 </a>
               </li>
+              {% endcapture %}
+              {% if page.dashlord_url %}
+                {%- assign transparence_success = transparence_success | append: link_bonnes_pratiques  -%}
+              {% else %}
+                {%- assign transparence_warning = transparence_warning | append: link_bonnes_pratiques  -%}
+              {% endif %}
+              {{ transparence_success }}
+              {% if page.techno %}
+              <li><span class="fr-icon-computer-line"></span>Technoligies utilisées :
+                {{ page.techno | join: " - " }}
+              </li>
+              {% endif %}
+              {{ transparence_warning }}
             </ul>
           </div>
           {% endunless %}
