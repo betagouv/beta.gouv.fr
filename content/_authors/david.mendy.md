@@ -7,7 +7,7 @@ missions:
   - start: 2023-09-04
     end: 2024-08-30
     status: admin
-    employer: DTNUM
+    employer: MIOM
 startups:
   - basegun
 memberType: beta
