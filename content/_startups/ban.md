@@ -14,7 +14,7 @@ usertypes:
   - collectivite-territoriale
   - entreprise
   - etat
-stats_url: https://api.gouv.fr/api/base-adresse-nationale.html
+stats_url: https://adresse.data.gouv.fr/indicateurs
 stats: true
 events:
   - name: national_impact
