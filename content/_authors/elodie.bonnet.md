@@ -1,10 +1,10 @@
 ---
 fullname: Élodie Bonnet
-role: Intrapreneuse
+role: Experte métier IAE
 domaine: Intraprenariat
 missions:
   - start: 2022-01-01
-    end: 2023-10-01
+    end: 2024-01-01
     status: admin
     employer: ''
 startups:
