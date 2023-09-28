@@ -2,6 +2,7 @@
 title: Agora
 link: https://www.agora.beta.gouv.fr/
 mission: La première appli fait dialoguer les citoyens et le Gouvernement
+repository: https://github.com/agora-gouv/agora-app
 sponsors:
   - /organisations/ditp
 incubator: dinum
