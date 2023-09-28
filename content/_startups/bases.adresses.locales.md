@@ -11,11 +11,11 @@ contact: adresse@data.gouv.fr
 accessibility_status: non conforme
 events: []
 phases:
-  - name: acceleration
-    start: 2022-09-01
   - name: construction
     start: 2020-09-01
     end: 2022-08-31
+  - name: acceleration
+    start: 2022-09-01
 fast:
   promotion: 12
   montant: 270000
