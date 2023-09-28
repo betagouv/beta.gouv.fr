@@ -12,6 +12,7 @@ missions:
 startups:
   - sirius
   - expositionIJ
+  - investigationIJ
 previously:
   - voeux-apprentissage
   - dematapprentissage
