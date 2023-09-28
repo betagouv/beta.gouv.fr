@@ -25,5 +25,5 @@ Ils sont 70 % à avoir envie d’utiliser une application qui leur permet de par
 
 Les citoyens aspirent à partager leurs convictions et idées régulièrement, pas seulement à chaque élection : c’est pourquoi Agora propose, pour la première fois, de créer les conditions d’un dialogue démocratique continu entre les citoyens et le Gouvernement.
 
-[Télécharger sur l'AppStore][https://apps.apple.com/app/6449599025]
-[Télécharger sur GooglePlay][https://play.google.com/store/apps/details?id=fr.gouv.agora]
+[Télécharger sur l'AppStore](https://apps.apple.com/app/6449599025)
+[Télécharger sur GooglePlay](https://play.google.com/store/apps/details?id=fr.gouv.agora)
