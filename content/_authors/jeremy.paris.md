@@ -10,6 +10,7 @@ missions:
     employer: ''
 startups:
   - expositionIJ
+  - investigationIJ
 memberType: beta
 ---
 
