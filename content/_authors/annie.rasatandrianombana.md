@@ -11,7 +11,7 @@ missions:
   - start: 2022-02-07
     end: 2024-03-31
     status: independent
-    employer: Octo
+    employer: Malt
 startups:
   - itou
   - pilotage.de.linclusion
