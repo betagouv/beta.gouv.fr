@@ -1,6 +1,6 @@
 ---
 fullname: David Mendy
-role: Développeur web
+role: Apprenti développeur web
 domaine: Développement
 github: nutfdt
 missions:
