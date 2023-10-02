@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Telescoop
   - start: 2022-09-12
-    end: 2023-10-30
+    end: 2024-03-30
     status: independent
     employer: Aides Jeunes
 startups:
