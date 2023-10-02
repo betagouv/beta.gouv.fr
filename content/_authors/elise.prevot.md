@@ -12,6 +12,8 @@ startups:
   - snu
 badges:
   - segur
+previously:
+  - snu
 ---
 
 Product owner
