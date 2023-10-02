@@ -6,7 +6,7 @@ link: https://edgard.fdn.fr
 github: octo-yart
 missions:
   - start: 2023-03-15
-    end: 2023-07-31
+    end: 2024-12-31
     status: service
     employer: Octo
 memberType: autre
