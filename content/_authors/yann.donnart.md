@@ -4,7 +4,7 @@ role: Chargé de déploiement BAN
 domaine: Déploiement
 missions:
   - start: 2023-05-01
-    end: 2023-10-31
+    end: 2024-06-29
     status: admin
     employer: IGN
 startups:
