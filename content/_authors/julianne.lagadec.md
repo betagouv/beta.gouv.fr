@@ -1,6 +1,6 @@
 ---
 fullname: Julianne Lagadec
-role: Responsable des relations publiques
+role: Adjointe au coordinateur de la mission interministérielle InserJeunes - Responsable des relations publiques
 domaine: Déploiement
 github: Julianne-Lagadec
 link: https://fr.linkedin.com/in/julianne-lagadec
