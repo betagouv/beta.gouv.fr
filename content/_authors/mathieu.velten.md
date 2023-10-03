@@ -7,7 +7,7 @@ missions:
   - start: 2023-10-02
     end: 2023-12-31
     status: independent
-    employer: Octo
+    employer: Malt
 startups:
   - tchap
 memberType: beta
