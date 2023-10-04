@@ -12,8 +12,6 @@ phases:
   - name: alumni
     start: 2021-01-31
     end: 2023-03-22
-  - name: acceleration
-    start: 2023-03-22
 link: null
 repository: null
 stats: false
