@@ -50,4 +50,6 @@ Afin de rendre cet objectif possible l’ANSSI fait le choix d’ancrer la trans
 - Stéphane DEHARVENGT LEMOINE (intrapreneur)
 - François BROUSSE (Designer)
 - Bastien GALLAY (Développeur)
+- Alexandre LOPES (ANSSI)
+- Nolwenn LACOMBE (ANSSI)
 - Damien DUFOUR (coach BetaGouv)
