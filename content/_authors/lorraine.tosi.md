@@ -6,8 +6,9 @@ link: https://qyall.fr
 github: ltosi
 missions:
   - start: 2023-08-25
-    end: 2023-11-25
+    end: 2023-12-31
     status: independent
+    employer: ''
 startups:
   - sante-psy-etudiant
 memberType: autre
