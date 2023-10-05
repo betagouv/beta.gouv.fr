@@ -1,5 +1,5 @@
 ---
-mission: valoriser la cybersécurité et ses métiers auprès des jeunes
+mission: Valoriser la cybersécurité et ses métiers auprès des jeunes
 incubator: lab-innov-anssi
 contact: lab-inov@ssi.gouv.fr
 title: DemainSpécialisteCyber
