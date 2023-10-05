@@ -1,6 +1,6 @@
 ---
 fullname: Christophe Combelles
-role: Développeur back
+role: Ingénieur back-end / data
 domaine: Développement
 github: ccomb
 missions:
