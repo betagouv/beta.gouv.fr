@@ -1,7 +1,7 @@
 ---
 fullname: Céline Bagault
 role: Chargée de relation
-domaine: Développement
+domaine: Déploiement
 missions:
   - start: 2023-10-09
     end: 2023-12-18
