@@ -48,7 +48,6 @@ Les solutions que nous pensons tester auprès de nos usagers-cibles lors de la p
 L'investigation a été lancée en juin 2023 avec le BEPIAS (Bureau des Etablissements et Produits des Industries Alimentaires Spécialisées) avec deux agentes du bureau, devenues intrapreneuses à hauteur de 1 jour/semaine. Toutes deux sont accompagnées d'une coach, garante de la méthodologie et approche beta.gouv.fr.
 Depuis juin, nous avons pu interroger les 3 instructrices des dossiers de déclarations, 3 syndicats représentants des professionnels, ainsi que 38 industriels du secteur. Notre objectif : comprendre leurs enjeux, les points de friction qu'ielles rencontrent dans leur activité quotidienne et identifier les solutions pour les aider. 
 
-Les prochaines étapes : 
-Le 29 septembre, l'équipe de l'investigation réunira un comité d'investissement afin de présenter les constats et apprentissages de 2 mois d'investigation. Lors de ce comité, seront mis à l'arbitrage les hypothèses de solutions imaginées, les ressources (humaines et financières) à allouer pour les 6 prochains mois, ainsi que les critères de succès à suivre et évaluer aux termes de cette période.  
+Un comité d'investissement s'est tenu le 29 septembre. L'équipe de l'investigation  y a présenté ses constats et  apprentissages des deux mois d'investigation. Lors de ce comité, les hypothèses de solution imaginées, ainsi que les ressources (humaines et financières) allouées pour les 6 prochains mois ont été validées. Des critères de succès à suivre et à évaluer aux termes de cette période ont également été définis.
 
 Nous contacter : emmanuelle.miralles@agriculture.gouv.fr, caroline.viste-martin@agriculture.gouv.fr et jennifer.stephan@beta.gouv.fr
