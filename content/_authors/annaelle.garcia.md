@@ -1,14 +1,17 @@
 ---
 fullname: Annaëlle Garcia
-role: Chargée de déploiement
+role: Product manager
 domaine: Déploiement
 github: AnnaelleGarcia
 missions:
   - start: 2023-05-03
-    end: 2023-10-31
+    end: 2024-03-29
     status: independent
+    employer: ''
 startups:
-  - dora
+  - mon-recap
 memberType: beta
+previously:
+  - dora
 ---
 
