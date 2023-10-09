@@ -122,9 +122,11 @@ layout: default
                 {% if page.repository.size > 0 %}
                 <span class="fr-icon-github-fill"></span>
                 <a class="fr-link" href="{{ page.repository }}">
-                  Code source</a>
+                  Code source
+                </a>
                 {% else %}
-                <span class="fr-icon-github-fill"></span><a class="fr-link" aria-disabled="true" >
+                <span class="fr-icon-github-fill"></span>
+                <a class="fr-link" aria-disabled="true" >
                   Code source (non disponible)
                 </a>
                 {% endif %}
@@ -210,7 +212,9 @@ layout: default
               {% endif %}
               {{ transparence_success }}
               {% if page.techno %}
-              <li><span class="fr-icon-computer-line"></span>Technologies utilisées :
+              <li>
+                <span class="fr-icon-computer-line"></span>
+                Technologies utilisées :
                 {{ page.techno | join: " - " }}
               </li>
               {% endif %}
