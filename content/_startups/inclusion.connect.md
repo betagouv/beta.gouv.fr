@@ -13,7 +13,7 @@ accessibility_status: partiellement conforme
 stats: true
 stats_url : http://stats.inclusion.beta.gouv.fr/public/dashboard/8895a813-68d0-4d3a-a7e3-f71ef0615a52
 phases:
-  - name: passage à l'échelle
+  - name: acceleration
     start: 2022-07-01
     comment: Produit fonctionnel et déployé sur plusieurs services
 ---
