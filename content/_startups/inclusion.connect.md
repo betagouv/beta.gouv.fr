@@ -8,8 +8,8 @@ sponsors:
 incubator: gip-inclusion
 repository: https://github.com/betagouv/itou-inclusion-connect
 contact: sonia.perelroizen@beta.gouv.fr
-security: en cours d'homologation RGS
-accessibility_status: non évalué
+analyse_risques: true
+accessibility_status: partiellement conforme
 stats: true
 stats_url : http://stats.inclusion.beta.gouv.fr/public/dashboard/8895a813-68d0-4d3a-a7e3-f71ef0615a52
 phases:
