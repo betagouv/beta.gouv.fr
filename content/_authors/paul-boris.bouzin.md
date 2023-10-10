@@ -1,6 +1,6 @@
 ---
 fullname: Paul-Boris Bouzin
-role: Chargé de déploiement Tableau de bord de l&#x27;apprentissage
+role: Chargé de déploiement Tableau de bord de l'apprentissage
 domaine: Déploiement
 github: pbbouzin
 missions:
