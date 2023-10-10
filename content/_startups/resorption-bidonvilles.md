@@ -1,14 +1,14 @@
 ---
-title: Résorption Bidonvilles
-mission: Connaître, partager et agir pour résorber les bidonvilles
-sponsors: 
-    - /organisations/dihal
-incubator: mtes
-repository: https://github.com/MTES-MCT/resorption-bidonvilles
-contact: contact@resorption-bidonvilles.beta.gouv.fr
-stats_url: https://resorption-bidonvilles.beta.gouv.fr/stats
 link: http://resorption-bidonvilles.beta.gouv.fr/
-stats: true
+mission: Connaître, partager et agir pour résorber les bidonvilles
+stats_url: https://resorption-bidonvilles.beta.gouv.fr/stats
+repository: https://github.com/MTES-MCT/resorption-bidonvilles
+incubator: mtes
+title: Résorption Bidonvilles
+contact: contact@resorption-bidonvilles.beta.gouv.fr
+accessibility_status: non conforme
+sponsors:
+  - /organisations/dihal
 phases:
   - name: investigation
     start: 2018-10-01
@@ -20,9 +20,6 @@ phases:
     start: 2020-09-01
   - name: transfer
     start: 2021-09-01
-usertypes:
-  - collectivite-territoriale
-  - etat
 ---
 # **Le constat**
 
