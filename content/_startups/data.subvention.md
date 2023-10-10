@@ -7,6 +7,7 @@ mission: >-
 stats_url: https://blog.datasubvention.beta.gouv.fr/statistiques/
 repository: https://github.com/betagouv/api-subventions-asso
 incubator: dinum
+contact: contact@datasubvention.beta.gouv.fr
 title: Data.Subvention
 accessibility_status: partiellement conforme
 sponsors:
