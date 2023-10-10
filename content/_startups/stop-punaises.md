@@ -1,5 +1,5 @@
 ---
-link: stop-punaises.beta.gouv.fr/
+link: https://stop-punaises.beta.gouv.fr/
 mission: Accompagner les usagers confrontés à une infestation de punaises de lit
 repository: https://github.com/MTES-MCT/stop-punaises
 incubator: mtes
