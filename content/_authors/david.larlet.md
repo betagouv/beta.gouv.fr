@@ -7,7 +7,7 @@ avatar: https://larlet.fr/static/david/david-larlet-avatar.jpg
 link: https://larlet.fr/david/
 missions:
   - start: 2015-04-22
-    end: 2023-04-22
+    end: 2024-04-22
     status: independent
     employer: lazone
 startups:
