@@ -10,6 +10,7 @@ missions:
     employer: Scopyleft
 startups:
   - histologe
+  - stop-punaises
 ---
 
 UX Designer & cheffe de produit
