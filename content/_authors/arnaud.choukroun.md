@@ -10,6 +10,7 @@ missions:
     employer: DINUM
 startups:
   - histologe
+  - stop-punaises
 badges:
   - segur
 ---
