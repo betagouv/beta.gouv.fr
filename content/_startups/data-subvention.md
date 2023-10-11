@@ -25,11 +25,11 @@ fast:
   montant: 280000
 accessibility_status: partiellement conforme
 ---
-**La valeur de Data.Subvention**
+## La valeur de Data.Subvention
 
 La valeur de Data‧Subvention repose sur sa capacité à offrir aux agents publics, en un point centralisé, les données relatives aux subventions associatives les plus diversifiées, les plus riches et les plus régulièrement actualisées possibles, pour le bon accomplissement de leurs missions d’instruction et au bénéfice des associations par la réduction des sollicitations administratives qui leur sont faites.
 
-**Le sujet des subventions publiques aux associations**
+## Le sujet des subventions publiques aux associations
 
 En France, les 1,5 million d’associations mobilisent 12,5 millions de bénévoles - dont 5 millions s’engagent chaque semaine - et font vivre la solidarité, le lien social, le développement et l’animation des territoires. Près de 160 000 d’entre-elles salarient plus d’1,8 millions de personnes soit 9,3% des effectifs salariés de l’ensemble du secteur privé.
 
@@ -37,7 +37,7 @@ En 2020, l’État a soutenu leurs actions à hauteur de 7,3 milliards d’euros
 
 Ces soutiens sont apportés après que les associations les aient demandés, par rédaction d’une demande adressée auprès de différents services de l’État, qui ont de leur coté “instruit” : vérifié éligibilité-complétude, réuni les instances de décision, communiqué et exécuté les décisions de versement ou rejet.
 
-**Problème**
+## Problème
 
 D’un côté, les associations font face à des dossiers de demande de subvention pouvant leur paraitre redondants,  par le fait de devoir renvoyer certaines pièces à chaque démarche. Du point de vue d’une association, ces sur-sollicitations peuvent générer aussi un sentiment d’incompréhension et de lassitude vis-à-vis des démarches administratives.
 
@@ -47,7 +47,7 @@ Aucun service n’a aucune vision globale et partagée de la situation d’une a
 
 Après plusieurs réunions interministérielles en 2021 sur l’enjeu d’améliorer le pilotage des subventions de l’Etat, le Premier ministre a confié à la direction de la jeunesse, de l’éducation populaire et de la vie associative (DJEPVA) et à la direction interministérielle du numérique (DINUM) la responsabilité de bâtir un nouveau service numérique dénommé Data.Subvention, pour collecter et repartager les données sur les associations et leurs subventions auprès de tout agent public.
 
-**Construction**
+## Construction
 
 Depuis le mois de janvier 2022, la startup d’État Data.Subvention, portée par la DJEPVA avec l’appui du programme beta‧gouv de la DINUM, construit ce service destiné aux agents publics qui leur permet concrètement de :
 
@@ -65,7 +65,7 @@ Data‧Subvention a été progressivement déployé au plan national et territor
 
 Deux phases de constructions successives se sont donc tenues : la première entre avril et septembre 2022 dans les régions Occitanie et Pays de la Loire pour tester la solution auprès des agents et l’adapter à leurs besoins et cas d’usages. Cette construction s’est poursuivie entre octobre et juin 2023 sur 3 nouvelles régions : Bretagne, Hauts-de-France et Nouvelle-Aquitaine, avec de nouveaux objectifs, notamment d’inscription de la solution dans les feuilles de route de la donnée pilotées par les SGAR, et l’ouverture de l’outils aux agents des collectivités.
 
-**Solution en Acceleration : Sept 2023 à Février 2024**
+## Solution en Acceleration : Sept 2023 à Février 2024
 
 La phase de construction est achevée. Elle a duré 1 an : elle a permis de tester puis dupliquer des modes opératoires efficaces pour déployer la solution au plan territorial, augmenter le nombre d’utilisateurs, promouvoir le réemploi des données via des Hubs de donnée en lien avec les préfectures de région, expliquer et convaincre de la nécessité du partage des données.
 
