@@ -1,23 +1,24 @@
 ---
-title: Mes autorisations de stationnement 
+title: Mes autorisations de stationnement
 mission: Faciliter la constitution d'une base des licences de taxis en France
 sponsors:
-    - /organisations/dgitm
+  - /organisations/dgitm
 incubator: mtes
 phases:
   - name: investigation
     start: 2020-07-21
   - name: construction
     start: 2021-11-01
-link: 
+link: https://mesads.beta.gouv.fr/
 repository: https://github.com/mesadsfr/mesads
 stats: false
 contact: equipe@le.taxi
 usertypes:
   - entreprise
   - etat
+stats_url: https://mesads.beta.gouv.fr/chiffres-cles
+accessibility_status: non conforme
 ---
-
 ## Problème investigué
 
 A ce jour, les 12 000 gestionnaires d'autorisations de stationnement de taxis (ADS) ne disposent d’aucun outil informatique dédié pour tenir à jour un registre des ADS délivrées, à l’exception des plus importantes d’entre elles (préfecture de police de Paris, métropole de Lyon et ville de Marseille). Le recensement des ADS de 2016, piloté par la DSCR, a permis de mettre en lumière des pratiques archaïques (tenu de registres manuscrits) et des anomalies dans la gestion des ADS (ADS en exploitation non connues par les gestionnaires, ADS non exploitées, absence d’arrêtés pour l’attribution des ADS, etc.), principalement dues à la méconnaissance d'une réglementation ancienne et complexe. 
