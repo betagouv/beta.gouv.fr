@@ -1,8 +1,10 @@
 ---
 title: APiLos
 mission: >-
-  Faciliter l'accès aux logements sociaux par la simplification des
-  conventions. 
+  APiLos facilite l'accès aux logements sociaux par la simplification des
+  conventions. APiLos est le module conventionnement du Système d'information
+  des aides à la pierre (Siap), développé par les équipes du ministère en charge
+  du logement.
 sponsors:
   - /organisations/dgaln
 incubator: mtes
@@ -32,6 +34,8 @@ phases:
     end: 2021-06-30
   - name: acceleration
     start: 2022-04-27
+  - name: transfer
+    start: 2022-06-30
 ---
 # **Problème**
 
