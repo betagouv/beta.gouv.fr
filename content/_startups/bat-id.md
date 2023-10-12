@@ -12,6 +12,8 @@ phases:
     start: 2021-09-01
   - name: construction
     start: 2023-01-01
+link: https://rnb.beta.gouv.fr/
+repository: https://github.com/fab-geocommuns/RNB-site
 ---
 ## Contexte
 
