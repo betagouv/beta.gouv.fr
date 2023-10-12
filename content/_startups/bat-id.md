@@ -5,6 +5,7 @@ sponsors:
   - /organisations/ademe
   - /organisations/cstb
   - /organisations/ign
+  - /organisations/dgaln
 incubator: fab-geocommuns
 contact: rnbd@beta.gouv.fr
 phases:
