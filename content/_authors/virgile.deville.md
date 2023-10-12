@@ -2,7 +2,7 @@
 fullname: Virgile Deville
 role: Coach Produit
 domaine: Coaching
-link: https://virgile-dev.github.io
+link: https://www.linkedin.com/in/virgiledeville/
 github: virgile-dev
 missions:
   - start: 2023-05-10
