@@ -7,7 +7,7 @@ sponsors:
   - /organisations/ign
   - /organisations/dgaln
 incubator: fab-geocommuns
-contact: rnbd@beta.gouv.fr
+contact: rnb@beta.gouv.fr
 phases:
   - name: investigation
     start: 2021-09-01
