@@ -52,7 +52,7 @@ Les parties prenantes :
 - Lancé en septembre 2020, **l’Atelier numérique est l’incubateur du ministère de la Culture.** Il a pour mission d’accompagner les agentes et agents de l’administration dans la conception de services publics numériques itératifs et centrés sur les utilisateurs et utilisatrices.
 - **Beta.gouv.fr** aide les ministères et autres partenaires publics à construire des services numériques simples, faciles à utiliser, à l’impact maximal.
 - L’approche beta.gouv place les usagères et usagers au cœur de l’action publique et cherche à apporter des **solutions concrètes** pour améliorer leur vie quotidienne.
-- Beta.gouv a accompagné la création de [dizaines de services numériques](https://beta.gouv.fr/startups/) déjà disponibles ou à venir. C'est est aussi une [communauté croissante](https://beta.gouv.fr/communaute/) de développeur·euse·s, designer·euse·s, chargé·e·s de produit… qui construisent les services publics numériques de demain au sein d’un **[réseau d’incubateurs publics](https://beta.gouv.fr/incubateurs/)** partageant les mêmes [valeurs](https://beta.gouv.fr/approche/manifeste).
+- Beta.gouv a accompagné la création de [dizaines de services numériques](https://beta.gouv.fr/startups/) déjà disponibles ou à venir. C'est est aussi une [communauté croissante](https://beta.gouv.fr/communaute/) de développeur·euse·s, designer·euse·s, chargé·e·s de produit… qui construisent les services publics numériques de demain au sein d’un **[réseau d’incubateurs publics](https://beta.gouv.fr/incubateurs/)** partageant les mêmes [valeurs](https://beta.gouv.fr/manifeste).
 
 ## **À propos de vous**
 
