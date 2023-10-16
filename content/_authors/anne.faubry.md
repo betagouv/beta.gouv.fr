@@ -1,6 +1,6 @@
 ---
 fullname: Anne Faubry
-role: UX/UI Designer
+role: UX UI Designer
 domaine: Design
 github: AnneFa
 missions:
