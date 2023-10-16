@@ -14,7 +14,6 @@ phases:
     end: 2023-09-27
   - name: construction
     start: 2023-09-27
-    end: ""
     comment: Agrandissement de l'équipe projet
 ---
 ## Contexte
