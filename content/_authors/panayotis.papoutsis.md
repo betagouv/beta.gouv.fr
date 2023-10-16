@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/panayotis-papoutsis/
 github: panayo
 missions:
   - start: 2023-03-20
-    end: 2023-09-30
+    end: 2023-12-30
     status: independent
     employer: Scopopop
 startups:
