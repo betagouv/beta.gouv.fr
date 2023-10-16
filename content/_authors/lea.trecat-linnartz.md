@@ -1,10 +1,10 @@
 ---
 fullname: Léa trecat-linnartz
-role: Business developer 
+role: Product Manager 
 domaine: Développement
 missions:
   - start: 2023-04-01
-    end: 2023-10-01
+    end: 2024-05-01
     status: admin
     employer: pôle emploi
 startups:
@@ -12,4 +12,4 @@ startups:
 memberType: beta
 ---
 
-Business developer junior - conseillère entreprises - facilitatrice 
+PM - conseillère entreprises - facilitatrice 
