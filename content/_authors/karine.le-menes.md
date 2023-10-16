@@ -9,6 +9,7 @@ missions:
     employer: ''
 startups:
   - competence.validee
+  - mes.aides.a.lembauche
 ---
 
 
