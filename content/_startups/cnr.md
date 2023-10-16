@@ -9,7 +9,7 @@ link: https://conseil-refondation.fr/
 repository: https://github.com/betagouv/CNR
 contact: cnr@beta.gouv.fr
 stats: true
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 phases:
   - name: construction
     start: 2022-10-27
