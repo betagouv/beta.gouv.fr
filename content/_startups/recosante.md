@@ -27,7 +27,7 @@ redirect_from:
 usertypes:
   - particulier
 dashlord_url: https://dashlord.incubateur.net/url/recosante-beta-gouv-fr/
-
+accessibility_status: partiellement conforme
 ---
 
 
