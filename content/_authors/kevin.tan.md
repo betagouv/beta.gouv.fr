@@ -6,8 +6,9 @@ missions:
   - start: 2023-09-21
     end: 2023-12-01
     status: independent
+    employer: ''
 startups:
-  - acceslibre
+  - accesscite
 memberType: beta
 ---
 
