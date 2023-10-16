@@ -18,6 +18,9 @@ phases:
     start: 2021-04-08
   - name: construction
     start: 2021-07-13
+fast:
+  promotion: 13
+  montant: 200000
 ---
 ![](/img/netlifycms/screenshot.2022-06-22.at.12.46.58.png)
 

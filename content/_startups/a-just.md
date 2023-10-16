@@ -31,6 +31,9 @@ phases:
     comment: >-
       Passage en accélération : amélioration continue du produit et augmentation
       du nombre d'utilisateurs. 
+fast:
+  promotion: 13
+  montant: 300000
 ---
 <!--StartFragment-->
 

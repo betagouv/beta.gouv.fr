@@ -1,6 +1,6 @@
 ---
 fullname: Amel Alili
-role: Chargée d&#39;assistance et de support à la communauté
+role: Chargée d'assistance et de support à la communauté
 domaine: Autre
 github: amelalili
 missions:

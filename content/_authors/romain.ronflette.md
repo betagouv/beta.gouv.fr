@@ -1,6 +1,6 @@
 ---
 fullname: Romain Ronflette
-role: Product designer - UX/UI
+role: Product designer et product manager
 domaine: Design
 link: https://www.romainronflette.com/
 github: RomainRonflette

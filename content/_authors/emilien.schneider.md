@@ -10,6 +10,7 @@ missions:
     employer: Scopyleft
 startups:
   - histologe
+  - stop-punaises
 ---
 
 Développeur web

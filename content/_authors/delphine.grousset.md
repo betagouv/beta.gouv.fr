@@ -8,8 +8,6 @@ missions:
     employer: GIP de l'Inclusion
 startups:
   - itou
-teams:
-  - /teams/gip-inclusion
 domaine: Déploiement
 ---
 

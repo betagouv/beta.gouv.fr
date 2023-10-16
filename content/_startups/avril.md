@@ -18,7 +18,7 @@ phases:
   - name: transfer
     start: 2021-06-01
   - name: success
-    start: 2022-11-30
+    start: 2022-11-29
 ---
 
 ## Avril simplifie la VAE pour tous !
