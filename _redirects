@@ -20,3 +20,6 @@
 # Redirection de l'ancienne page de recrutement
 
 /postuler/ /contact/
+
+# Redirection url du manifest
+/approche/manifeste /manifeste
