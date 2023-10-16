@@ -7,7 +7,8 @@ repository: https://github.com/refugies-info/karfur
 title: Réfugiés.info
 contact: nour@refugies.info
 incubator: dinum
-sponsor: DIAIR
+sponsors: 
+  - /organisations/DIAIR
 accessibility_status: non conforme
 phases:
   - name: acceleration
