@@ -1,13 +1,14 @@
 ---
 fullname: Mathieu BOBIN
-role: Chargé de la MISEN
-domaine: Animation
+role: Intrapreneur Signalement Atteinte Environnement
+domaine: Intraprenariat
 missions:
-  - start: 2021-11-01
-    end: 2023-08-24
+  - start: 2023-06-04
+    end: 2023-12-04
     status: admin
     employer: DEALM Mayotte
-memberType: beta
+startups:
+  - signalement environnement
 ---
 
 Animateur de la MISEN de Mayotte

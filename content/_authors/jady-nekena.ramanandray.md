@@ -10,7 +10,6 @@ missions:
     status: independent
 startups:
   - expositionIJ
-  - pilotagevoiepro
 badges: null
 competences:
   - Gestion de Produit

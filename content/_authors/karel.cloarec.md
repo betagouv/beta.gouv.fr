@@ -30,10 +30,7 @@ missions:
     status: independent
     employer: LBC
 startups:
-  - deveco
-  - guichet-entreprises-nc
   - monstage
-  - la.communaute.de.linclusion
 previously:
   - andi
   - urbanvitaliz
@@ -46,6 +43,9 @@ previously:
   - rdv.mjd
   - frise.cpip
   - chantiers.agiles
+  - deveco
+  - guichet-entreprises-nc
+  - la.communaute.de.linclusion
 badges:
   - segur
 competences:

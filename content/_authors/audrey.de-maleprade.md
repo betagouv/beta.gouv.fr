@@ -5,14 +5,14 @@ domaine: Design
 github: Audrey-Avenel
 missions:
   - start: 2022-02-03
-    end: 2023-07-31
+    end: 2023-12-31
     status: independent
     employer: Path Tech
 startups:
   - mobilic
+  - territoires-en-transitions
 badges:
   - segur
-
 ---
 
 Product Designer et amatrice de kitesurf

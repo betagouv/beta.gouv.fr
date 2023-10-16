@@ -9,7 +9,7 @@ missions:
     status: service
     employer: Liberté Living Lab
   - start: 2023-01-01
-    end: 2023-06-30
+    end: 2024-01-30
     status: independent
     employer: Liberté Living Lab
 startups:

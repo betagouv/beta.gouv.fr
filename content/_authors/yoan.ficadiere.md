@@ -5,7 +5,7 @@ domaine: Développement
 github: yoanficadiere
 missions:
   - start: 2022-12-01
-    end: 2023-12-30
+    end: 2023-06-30
     status: independent
     employer: MALT
 startups:

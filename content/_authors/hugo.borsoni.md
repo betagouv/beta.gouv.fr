@@ -5,8 +5,9 @@ domaine: Développement
 github: hugoleborso
 missions:
   - start: 2023-03-03
-    end: 2023-06-06
+    end: 2023-07-06
     status: independent
+    employer: ''
 startups:
   - envergo
 memberType: autre

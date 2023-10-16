@@ -18,7 +18,6 @@ missions:
     status: independent
     employer: Mission InserJeunes
 startups:
-  - pilotagevoiepro
 competences:
   - Coaching
   - UX

@@ -3,7 +3,7 @@ title: API Entreprise
 mission: Rendre accessibles aux acteurs publics les informations administratives des entreprises et associations, afin de simplifier leurs démarches.
 sponsors:
   - /organisations/dinum
-incubator: apigouv
+incubator: dinum_produits_interministeriels
 phases:
   - name: investigation
     start: 2014-01-01

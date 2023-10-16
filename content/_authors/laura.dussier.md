@@ -1,12 +1,12 @@
 ---
 domaine: Design
-role: UX/UI Designer & Designer Transverse
+role: Product Designer
 github: supersuperflux
 missions:
   - start: 2022-09-19
-    end: 2023-09-30
+    end: 2024-06-30
     status: independent
-    employer: ""
+    employer: ''
 startups:
   - impact.co2
 previously:

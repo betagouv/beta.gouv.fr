@@ -1,17 +1,17 @@
 ---
-title: Fiche Commune Entreprise
-mission: Faciliter l’accès aux  informations disponibles sur les entreprises et
+mission: Faciliter l’accès aux informations disponibles sur les entreprises et
   les échanges entre les agents publics
-sponsors:
-  - /organisations/solidarite-sante
 incubator: sgmas
-link: https://fce.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/fce
-contact: chloe.mandelblat@dreets.gouv.fr
+contact: bce@travail.gouv.fr
 usertypes:
   - entreprise
   - etat
 stats_url: https://fce.fabrique.social.gouv.fr/statistics
+title: Fiche Commune Entreprise
+sponsors:
+  - /organisations/solidarite-sante
+link: https://fce.fabrique.social.gouv.fr
 stats: true
 phases:
   - name: investigation
@@ -26,7 +26,9 @@ phases:
   - name: transfer
     start: 2021-01-01
     end: 2022-05-01
-
+  - name: success
+    start: 2022-11-30
+    end: 2023-08-23
 ---
 ## Contexte
 
@@ -45,15 +47,18 @@ C’est encore trop souvent le chef d’entreprise qui informe un agent de la Di
 Le manque d'accès et de partage d'informations sur les actions menées auprès des entreprises ont des conséquences :
 
 **1 - Pour les agents**
+
 * Perte de temps et d’efficacité dans la préparation des interventions
 * Perte de temps dans la restitution des actions menées
 * Allocations d’aides inadéquates
 
 **2 - Pour les entreprises**
+
 * Sur-contrôles / contrôles non coordonnés
 * Actions parfois contradictoires
 
 **3 - Pour l'action publique**
+
 * Une image dégradée auprès des entreprises
 
 ## Solution
@@ -85,6 +90,7 @@ Restituer à un décideur (Préfet, Ministre…), en un minimum de temps, une fi
 Mieux connues a priori par l'administration, les entreprises ont une vision d’une administration mieux intégrée et donc plus performante. Elles bénéficient directement de cette meilleure utilisation collective des informations par le biais de contrôles ou d’interventions adaptés à leur situation et à leurs relations avec l’administration.
 
 ## Stratégie
+
 * marketing du produit (logo, slogan, landing page, nouvelles pages)
 * tutos vidéos
 * kit de communication
@@ -95,8 +101,11 @@ Mieux connues a priori par l'administration, les entreprises ont une vision d’
 * publications sur les intranets et lettres d'information
 
 **Objectif visé** :
-- Atteindre 5000 utilisateurs sur les 9000 potentiels de FCE
+
+* Atteindre 5000 utilisateurs sur les 9000 potentiels de FCE
 
 L'équipe poursuit la recherche de ses mesures d'impact.
 
+\----
 
+Le produit a été transféré à la Direction du Numérique des Ministères sociaux fin 2022.

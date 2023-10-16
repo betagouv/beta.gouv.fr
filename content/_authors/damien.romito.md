@@ -5,8 +5,9 @@ domaine: Développement
 github: damienromito
 missions:
   - start: 2022-07-18
-    end: 2023-07-31
+    end: 2024-07-31
     status: independent
+    employer: ''
 startups:
   - carbure
 ---

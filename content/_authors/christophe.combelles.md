@@ -1,15 +1,16 @@
----
+---                                                                                                                        
 fullname: Christophe Combelles
-role: Développeur back
+role: Ingénieur back-end / data
 domaine: Développement
 github: ccomb
-missions:
+link: https://www.gorfou.fr
+missions:                              
   - start: 2023-01-01
-    end: 2023-07-31
+    end: 2023-12-31
     status: independent
-    employer: LBC
-startups:
-  - ecobalyse
+    employer: Pathtech
+startups:               
+  - ecobalyse           
 memberType: beta
 ---
-
+Explorer les apports de l'Open-Source sur le Cloud, l'Environnement et les ERP/PGI

@@ -11,6 +11,7 @@ missions:
     employer: DINUM
 startups:
   - ban
+  - bases.adresses.locales
 memberType: beta
 ---
 

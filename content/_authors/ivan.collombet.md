@@ -13,7 +13,7 @@ previously:
   - eva
   - diagoriente
   - signalement
-  - rdv-services-publics
+  - rdv-service-public
   - monstage
   - trait-d-union
   - gps-usagers

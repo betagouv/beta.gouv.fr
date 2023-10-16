@@ -13,16 +13,16 @@ missions:
     status: independent
     employer: octo
   - start: 2020-12-31
-    end: 2023-06-30
+    end: 2023-10-30
     status: independent
     employer: octo
 startups:
-    - conseiller-numerique
+  - conseiller-numerique
 badges:
   - segur
 previously:
-    - la-bonne-formation
-    - snu
+  - la-bonne-formation
+  - snu
 ---
 
 

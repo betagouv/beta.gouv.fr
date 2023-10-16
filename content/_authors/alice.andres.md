@@ -1,6 +1,6 @@
 ---
 fullname: Alice Andres
-role: Portage
+role: Développeuse
 domaine: Autre
 github: alice-telescoop
 missions:
@@ -10,6 +10,8 @@ missions:
     employer: TelesCoop
 badges:
   - segur
+startups:
+  - data-subvention
 ---
 
 Développeuse chez TelesCoop

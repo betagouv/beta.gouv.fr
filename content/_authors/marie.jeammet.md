@@ -1,5 +1,5 @@
 ---
-fullname: Marie Jeammet
+fullname: Marie Pupo Jeammet
 role: Développeuse web
 domaine: Développement
 github: mjeammet
@@ -9,11 +9,12 @@ missions:
     status: admin
     employer: DINUM
 startups:
-  - tous.a.bord
+  - suite.collaborative
 previously:
   - cnr
+  - tous.a.bord
 badges:
   - segur
 ---
 
-Développeuse web. Rêve de justice sociale, de justice climatique et de d20.
+Développeuse web. À quand les justices sociales et climatiques ?

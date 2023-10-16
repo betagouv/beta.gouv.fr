@@ -5,9 +5,9 @@ domaine: Développement
 github: josephpage
 missions:
   - start: 2023-03-26
-    end: 2023-07-31
+    end: 2023-12-31
     status: service
-    employer: Octo
+    employer: Octo Technology
 memberType: beta
 ---
 

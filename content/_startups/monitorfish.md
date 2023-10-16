@@ -13,7 +13,7 @@ phases:
   - name: construction
     start: 2021-11-01
 repository: https://github.com/MTES-MCT/monitorfish
-contact: sebastien.touze@developpement-durable.gouv.fr
+contact: monitor@beta.gouv.fr
 usertypes:
   - etat
 ---

@@ -1,5 +1,5 @@
 ---
-fullname: Sandra PREZELUS
+fullname: Sandra Prezelus
 role: Coach RH du GIP Plateforme de l'inclusion
 domaine: Coaching
 missions:
@@ -7,8 +7,6 @@ missions:
     end: 2023-09-15
     status: service
     employer: GIP Plateforme de l'inclusion
-teams:
-  - /teams/gip-inclusion
 ---
 
 
