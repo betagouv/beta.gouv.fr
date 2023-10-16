@@ -12,6 +12,8 @@ missions:
 startups:
   - tchap
 memberType: beta
+previously:
+  - tchap
 ---
 
 Développeur iOS senior, runner
