@@ -7,6 +7,8 @@ missions:
   - start: 2023-09-18
     end: 2024-04-01
     status: service
+startups:
+  - Réfugiés.info
     employer: La Mednum
 memberType: beta
 ---
