@@ -7,8 +7,6 @@ repository: https://github.com/refugies-info/karfur
 title: Réfugiés.info
 contact: nour@refugies.info
 accessibility_status: non conforme
-sponsors:
-  - /organisations/DIAIR
 phases:
   - name: acceleration
     start: 2023-09-25
