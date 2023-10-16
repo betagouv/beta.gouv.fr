@@ -14,9 +14,7 @@ missions:
     status: admin
     employer: dinum
 startups:
-  - sante-psy-etudiant
-  - psyenfantado
-  - data-subvention
+  - itou
 previously:
   - jeveuxaider
   - eac
@@ -24,9 +22,11 @@ previously:
   - culture_amateurs
   - e-inspé
   - histologe
+  - data-subvention
+  - sante-psy-etudiant
+  - psyenfantado
 badges:
   - segur
-teams:
-
+teams: null
 ---
 
