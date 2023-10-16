@@ -12,6 +12,9 @@ sponsors:
 phases:
   - name: acceleration
     start: 2023-09-25
+fast:
+  promotion: 13
+  montant: 250000
 ---
 # **Contexte**
 
