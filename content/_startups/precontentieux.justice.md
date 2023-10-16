@@ -4,7 +4,7 @@ mission: >-
   l'administration pour réduire les délais de réponses aux usagers.
 incubator: justice
 title: Précontentieux justice
-contact: lea.genovesi@beta.gouv.fr
+contact: sylvie.voko@justice.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
