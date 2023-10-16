@@ -1,7 +1,7 @@
 ---
-fullname: Thomas bennett
+fullname: Thomas Bennett
 role: Développeur logiciel
-domaine: Animation
+domaine: Développement
 github: tomibennett
 missions:
   - start: 2023-10-16
