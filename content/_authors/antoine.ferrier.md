@@ -1,6 +1,6 @@
 ---
 fullname: Antoine Ferrier
-role: Lead Chargé de déploiement
+role: Responsable de déploiement
 domaine: Déploiement
 link: https://www.linkedin.com/in/aferrierb/
 missions:
