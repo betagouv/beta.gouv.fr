@@ -17,6 +17,7 @@ link: https://pix.fr
 repository: https://github.com/1024pix/pix/
 stats: true
 stats_url: https://pix.fr/statistiques
+accessibility_status: partiellement conforme
 contact: contact@pix.fr
 usertypes:
   - particulier
