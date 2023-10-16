@@ -14,6 +14,7 @@ missions:
 incubator: ademe
 startups:
   - beges
+  - rafraichir.les.villes
 previously:
   - euphrosyne
 competences:

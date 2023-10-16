@@ -1,6 +1,8 @@
 ---
 title: Data.Subvention
-mission: Rassembler les informations sur les associations et leurs subventions pour simplifier la vie des associations et des agents publics
+mission: >-
+  Rassembler les informations sur les associations et leurs subventions pour
+  simplifier la vie des associations et des agents publics
 sponsors:
   - /organisations/djepva
 incubator: dinum
@@ -16,58 +18,62 @@ dashlord_url: https://dashlord.incubateur.net/tag/data-subvention/
 phases:
   - name: construction
     start: 2022-01-03
-    end: 2023-07-15
+  - name: acceleration
+    start: 2023-09-17
+fast:
+  promotion: 13
+  montant: 280000
+accessibility_status: partiellement conforme
 ---
-## Contexte
+## La valeur de Data.Subvention
 
-En France, près d’1,5 million d’associations mobilisent 12,5 millions de bénévoles - dont 5 millions s’engagent chaque semaine - et font vivre la solidarité, le lien social, le développement et l’animation des territoires. En termes d’emploi, près de 160 000 associations salarient plus d’1,8 millions de personnes ce qui représente 9,3% des effectifs salariés de l’ensemble du secteur privé.
+La valeur de Data‧Subvention repose sur sa capacité à offrir aux agents publics, en un point centralisé, les données relatives aux subventions associatives les plus diversifiées, les plus riches et les plus régulièrement actualisées possibles, pour le bon accomplissement de leurs missions d’instruction et au bénéfice des associations par la réduction des sollicitations administratives qui leur sont faites.
 
-Convaincu de longue date de la contribution majeure des associations à la construction et au développement de la société française, l’État a engagé depuis plusieurs années un processus législatif et réglementaire visant à mieux reconnaître l’apport des associations à l’intérêt général et à sécuriser le fait associatif, notamment, en donnant un socle juridique à la subvention publique.
+## Le sujet des subventions publiques aux associations
 
-La subvention publique reconnaît le concours des associations bénéficiaires aux politiques publiques portées par l’État mais également leur capacité d’initiative et leur autonomie d’actions. Dans ce cadre, elle crée des engagements réciproques entre les pouvoirs publics et les associations. 
+En France, les 1,5 million d’associations mobilisent 12,5 millions de bénévoles - dont 5 millions s’engagent chaque semaine - et font vivre la solidarité, le lien social, le développement et l’animation des territoires. Près de 160 000 d’entre-elles salarient plus d’1,8 millions de personnes soit 9,3% des effectifs salariés de l’ensemble du secteur privé.
 
-En 2020, l’État a attribué 7,3 milliards d’euros aux associations sous forme de subventions, représentant plus de 66 000 versements. Chaque année, de nombreuses associations sollicitent une subvention auprès des différents services de l’État qui doivent, au cours de l’instruction de ces demandes, en vérifier l’éligibilité et la conformité et sollicitent à cette fin différentes pièces justificatives aux associations.
+En 2020, l’État a soutenu leurs actions à hauteur de 7,3 milliards d’euros, avec plus de 66 000 versements sous forme de subventions.
 
-De plus, face à l’importance du nombre du subventions versées chaque année et face à la volonté d’accroître le niveau de transparence concernant l’usage de l’argent public, il est essentiel aujourd’hui d’appliquer une politique d’ouverture des données, rendant disponibles et publiques, l’ensemble des subventions publiques versées aux associations.
+Ces soutiens sont apportés après que les associations les aient demandés, par rédaction d’une demande adressée auprès de différents services de l’État, qui ont de leur coté “instruit” : vérifié éligibilité-complétude, réuni les instances de décision, communiqué et exécuté les décisions de versement ou rejet.
 
 ## Problème
 
-D’un côté, les associations, notamment les plus petites ou les moins professionnalisées, peinent à accéder aux subventions publiques car elles manquent de lisibilité et de visibilité sur leur typologie, leurs critères d’éligibilité et les démarches nécessaires pour effectuer une demande. Quand elles parviennent à identifier un type d’aides, elles se heurtent bien souvent à des dossiers de demande qui peuvent leur sembler complexes à renseigner, à la difficulté de réunir les pièces justificatives demandées et à la nécessité de démultiplier leurs démarches. Cela est notamment lié à l’absence d’uniformisation des modalités entre les différents financeurs.  Ces difficultés créent du non-recours par manque d’information ou par renoncement mais génèrent aussi un sentiment d’incompréhension et de distance vis-à-vis des institutions.
+D’un côté, les associations font face à des dossiers de demande de subvention pouvant leur paraitre redondants,  par le fait de devoir renvoyer certaines pièces à chaque démarche. Du point de vue d’une association, ces sur-sollicitations peuvent générer aussi un sentiment d’incompréhension et de lassitude vis-à-vis des démarches administratives.
 
-De l’autre, chaque service public financeur déploie du temps et de l’énergie à communiquer et informer sur ses dispositifs de subvention, à accompagner les associations demandeuses, à opérer des vérifications administratives et réglementaires et à relancer les porteurs de projets quand les dossiers sont incomplets ou non conformes, provoquant de nombreux allers-retours. Pour autant, aucun service n’a aucune vision globale et partagée de la situation d’une association.
+De l’autre, chaque service public financeur déploie du temps et de l’énergie à communiquer sur ses dispositifs de subvention, à accompagner les associations , à opérer des vérifications administratives et réglementaires et à relancer les porteurs de projets quand les dossiers sont incomplets , provoquant de nombreux allers-retours.
 
-Bien que la dématérialisation de certaines démarches ait permis de réelles avancées, la faiblesse de leur interconnexion, en termes de partage de données et d’informations, n’a pas permis de réduire leur cloisonnement et leur complexité et d’atteindre un réel « dites-le-nous une fois ».
+Aucun service n’a aucune vision globale et partagée de la situation d’une association : bien que la dématérialisation de certaines démarches ait permis de réelles avancées, la faiblesse de leur interconnexion, en termes de partage de données et d’informations, n’a pas permis de réduire leur cloisonnement et leur complexité et d’atteindre un réel « dites-le-nous une fois ».
 
-Enfin, bien que les services publics soutiennent les associations au travers de subventions numéraires, les données relatives à ces attributions, leurs bénéficiaires et les projets soutenus ne sont pas toujours rendus publics ou accessibles au public. Or, les citoyens doivent pouvoir savoir ce que finance l’argent public et cette contribution au champ associatif devrait pouvoir être plus valorisée.
+Après plusieurs réunions interministérielles en 2021 sur l’enjeu d’améliorer le pilotage des subventions de l’Etat, le Premier ministre a confié à la direction de la jeunesse, de l’éducation populaire et de la vie associative (DJEPVA) et à la direction interministérielle du numérique (DINUM) la responsabilité de bâtir un nouveau service numérique dénommé Data.Subvention, pour collecter et repartager les données sur les associations et leurs subventions auprès de tout agent public.
 
-## Enseignements de la phase d'investigation
+## Construction
 
-*Pour les agents publics (de l'Etat, opérateurs et collectivités):*
+Depuis le mois de janvier 2022, la startup d’État Data.Subvention, portée par la DJEPVA avec l’appui du programme beta‧gouv de la DINUM, construit ce service destiné aux agents publics qui leur permet concrètement de :
 
-* quand je dois instruire une demande de subvention d’une association, je ne sais pas si celle-ci a déposé des demandes auprès d’autres services et leur décision;
-* je dois parfois effectuer de nombreux aller-retour avec l’association pour avoir un dossier complet et/ou conforme;
-* j’ai du mal à mesurer l’impact du financement attribué.
+- Consulter les informations administratives disponibles sur les associations (administrateurs, agréments)
+- Consulter et prendre connaissance des subventions versées par l’Etat  et des demandes déposées via des outils de gestion auprès d’autres services 
+- Gagner du temps dans la récupération des informations
+- Enrichir les travaux d’observation ou de suivi des bénéficiaires au plan territorial, sous le prisme
 
-*Pour les associations:*
+Data.Subvention est donc composée :
 
-* je perds beaucoup de temps en répétition des démarches, en suivi et en adaptation aux différents formats et outils de dépôt des demandes de subvention;
-* je dois parfois prendre le risque de présenter un projet et de le mettre en œuvre sans avoir de vision certaine sur les financements;
-* j’ai du mal à me projeter et à stabiliser les activités de mon association dans le temps.
+- d’une API : qui collecte les données dans les différents outils de dématérialisation et les APIs existants, favorise la réutilisation des données
+- d’un outil de consultation qui présente ces données de façon simple à tout agent investi d’une mission de service public et inscrit sur https://app.datasubvention.beta.gouv.fr/
 
-## **Solution en construction**
+Data‧Subvention a été progressivement déployé au plan national et territorial, auprès des administrations centrales et déconcentrées et des collectivités territoriales.
 
-Pour répondre à ces enjeux, l'équipe travaille sur la mise en commun, l’échange de données et l’interopérabilité entre les différents outils et les API pour favoriser une vision plus transversale et enrichie des associations et réduire la répétition des informations et leur mise  jour.
+Deux phases de constructions successives se sont donc tenues : la première entre avril et septembre 2022 dans les régions Occitanie et Pays de la Loire pour tester la solution auprès des agents et l’adapter à leurs besoins et cas d’usages. Cette construction s’est poursuivie entre octobre et juin 2023 sur 3 nouvelles régions : Bretagne, Hauts-de-France et Nouvelle-Aquitaine, avec de nouveaux objectifs, notamment d’inscription de la solution dans les feuilles de route de la donnée pilotées par les SGAR, et l’ouverture de l’outils aux agents des collectivités.
 
-Pour cela, l'équipe collecte les données disponibles dans les différents outils de dématérialisation et les APIs existants, qu’elle croise et rend consultables via un outil interministériel. 
+## Solution en Acceleration : Sept 2023 à Février 2024
 
-Elle développe également une API pour exposer ces données, favoriser l’interopérabilité entre les outils, la réutilisation des données et ainsi réduire les répétitions et les problèmes d’actualisation de ces informations.
+La phase de construction est achevée. Elle a duré 1 an : elle a permis de tester puis dupliquer des modes opératoires efficaces pour déployer la solution au plan territorial, augmenter le nombre d’utilisateurs, promouvoir le réemploi des données via des Hubs de donnée en lien avec les préfectures de région, expliquer et convaincre de la nécessité du partage des données.
 
-## Stratégie de déploiement
+Elle s’est clôt sur un travail d’alignement de l’équipe qui a permis de retenir LA mesure d’impact : Le gain de temps lors des instructions de demandes de subventions.
 
-La startup recrute ses premiers utilisateurs parmi les agents de l'Etat qui recourent déjà à des outils de dématérialisation existants permettant la gestion des demandes de subvention, pour lesquels la solution vient en complément de ces outils.
+Si la phase de construction servait essentiellement à améliorer la solution via de nombreux processus de test d’utilisateurs, la phase d’accélération elle, vise à faire décoller le nombre de fidèles. Il s’agit de dépasser le public des primo-utilisateurs et de s’assurer d’une utilisation régulière.
 
-Elle déploie aussi la solution dans cinq régions pilotes - l'Occitanie, les Pays de la Loire, la Nouvelle-Aquitaine, la Bretagne et les Hauts-de-France - au sein desquelles elle propose à tous les agents qui sont concernés ou intéressés par l'attribution de subventions à des associations de tester l'outil et de participer à son amélioration.
+L’équipe travaillera de septembre 2023 à Février 2024 sur un plan d’action basé sur 2 hypothèses :
 
-Elle travaille aussi à la mise en place d'un schéma de données harmonisé concernant les demandes de subvention et les données d'information sur les associations.
-
-Elle expérimente également des modalités de collecte de données relatives aux demandes de subvention provenant de services n'ayant pas encore dématérialisé leur instruction et leur gestion, dont les données peuvent être utiles à partager.
+- Nous pensons que le passage à l’échelle nationale en France métropolitaine et en Outre-mer avec un renforcement des partenariats avec les préfectures, les centrales, les opérateurs; va produire : une augmentation du nombre d’utilisateurs actifs; Et nous pourrons le valider en mesurant la récurrence d’usage : le nombre d’utilisateurs actifs
+- Nous pensons que augmenter le nombre de sources de données; Va produire plus de satisfaction sur la solution marquée une augmentation du nombre d’utilisateurs actifs; Et nous pourrons le valider en mesurant la récurrence d’usages : le nombre d’utilisateurs actif.

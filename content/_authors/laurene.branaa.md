@@ -5,7 +5,7 @@ domaine: Produit
 github: lbranaa
 missions:
   - start: 2023-01-03
-    end: 2023-10-06
+    end: 2024-03-06
     status: independent
     employer: ''
 startups:

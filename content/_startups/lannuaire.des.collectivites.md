@@ -16,6 +16,9 @@ phases:
   - name: acceleration
     start: 2023-03-01
     end: 2023-06-30
+fast:
+  promotion: 13
+  montant: 300000
 ---
 ## Contexte
 
