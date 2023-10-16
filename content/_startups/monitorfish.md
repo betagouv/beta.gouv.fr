@@ -3,7 +3,7 @@ mission: Protéger la ressource halieutique et l’environnement marin en outill
   les acteurs du contrôle en mer
 incubator: mtes
 repository: https://github.com/MTES-MCT/monitorfish
-contact: sebastien.touze@developpement-durable.gouv.fr
+contact: monitor@beta.gouv.fr
 usertypes:
   - etat
 stats_url: https://metabase.din.developpement-durable.gouv.fr/public/dashboard/0d5bc6b0-068c-42ec-876e-08f0e4573468
