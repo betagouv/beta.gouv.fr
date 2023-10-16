@@ -12,7 +12,7 @@ Coralie (intrapreneuse au [Shom](https://www.shom.fr/)) et Raphaël (coach) recr
 
 Notre objectif est de valoriser le patrimoine nautique du Shom en structurant nos informations nautiques en bases de données géographiques pour les rendre disponibles à de nouveaux usages.
 
-Tout reste à construire : l'équipe, l'architecture technique, un premier produit qui fera une différence pour ses utilisateur·rice·s, en s'inscrivant dans le cadre du [manifeste beta.gouv.fr](https://beta.gouv.fr/approche/manifeste).
+Tout reste à construire : l'équipe, l'architecture technique, un premier produit qui fera une différence pour ses utilisateur·rice·s, en s'inscrivant dans le cadre du [manifeste beta.gouv.fr](https://beta.gouv.fr/manifeste).
 
 Vous avez envie de relever le défi avec nous ? Alors contactez-nous pour en discuter.
 

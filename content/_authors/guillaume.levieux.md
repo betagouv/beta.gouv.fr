@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: MTE/DGALN
 previously:
-  - camino
+    - camino
 badges:
   - segur
 teams:

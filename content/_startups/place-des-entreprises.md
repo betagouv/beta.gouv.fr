@@ -29,7 +29,7 @@ dashlord_url: https://dashlord.incubateur.net/url/place-des-entreprises-beta-gou
 events:
   - name: national_impact
     date: 2022-12-31
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 
 ---
 

@@ -7,7 +7,7 @@ incubator: engagement_civique
 link: https://www.jeveuxaider.gouv.fr
 repository: https://github.com/Codeconut/jeveuxaider
 contact: jeveuxaider@beta.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 usertypes:
   - collectivite-territoriale
   - association

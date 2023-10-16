@@ -7,7 +7,7 @@ github: revolunet
 link:
 missions:
   - start: 2017-10-01
-    end:  2023-10-01
+    end:  2024-10-01
     status: admin
     employer: affaires-sociales
 teams:

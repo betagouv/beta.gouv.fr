@@ -18,6 +18,9 @@ phases:
     start: 2019-11-01
   - name: acceleration
     start: 2021-01-01
+fast:
+  promotion: 13
+  montant: 300000
 ---
 Pour répondre aux exigences du droit du travail, **les employeurs ont l’obligation de suivre le temps de travail de leurs salariés**. Dans le secteur des transports routiers, les salariés étant mobiles, le décompte de leur temps de travail ne peut pas se faire au siège de leur entreprise. Il est donc fait par les salariés à l’aide d’un dispositif qu’ils emportent avec eux.
 

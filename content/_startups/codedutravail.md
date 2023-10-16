@@ -16,6 +16,7 @@ phases:
 link: https://code.travail.gouv.fr
 repository: https://github.com/SocialGouv/code-du-travail-numerique
 stats: true
+accessibility_status: partiellement conforme
 contact: codedutravailnumerique@travail.gouv.fr
 techno:
   - Next.js

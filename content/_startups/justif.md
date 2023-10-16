@@ -7,7 +7,7 @@ sponsors:
 incubator: justice
 repository: https://github.com/betagouv/mon-suivi-justice
 contact: contact@mon-suivi-justice.beta.gouv.fr
-stats_url: https://infogram.com/column-stacked-chart-1h7z2l8www5rg6o?live
+stats_url: 
 stats: true
 events:
   - name: product_launch

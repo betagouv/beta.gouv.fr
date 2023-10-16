@@ -11,8 +11,8 @@ missions:
 competences:
   - Administration Publique
 memberType: beta
-role: expert métier stats
+role: Expert métier data
 startups:
   - aquaculteurs.marins
 ---
-Statisticien
+Numérique - Data - Agile

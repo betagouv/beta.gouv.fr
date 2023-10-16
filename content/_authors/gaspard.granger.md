@@ -1,12 +1,12 @@
 ---
 fullname: Gaspard Granger
 domaine: Intraprenariat
-role: Responsable de portefeuille
+role: Responsable de portefeuille - Fabrique numérique du MTECT
 missions:
-  - start: 2023-09-01
-    end: 2026-12-31
+  - start: 2019-11-20
+    end: 2026-08-31
     status: admin
-    employer: La Fabrique numérique
+    employer: DGITM
 previously:
   - mobilic
 github: gaspardbetagouv
