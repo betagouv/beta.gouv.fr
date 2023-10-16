@@ -6,7 +6,7 @@ link: https://www.kairn.io
 github: odelcroi
 missions:
   - start: 2022-04-11
-    end: 2023-09-30
+    end: 2023-12-31
     status: independent
     employer: Malt
 startups:

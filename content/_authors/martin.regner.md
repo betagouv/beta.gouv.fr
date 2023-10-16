@@ -7,8 +7,11 @@ missions:
   - start: 2019-01-10
     end: 2023-12-31
     status: service
-startups:
-    - datagir
+    employer: ''
 teams:
-    - /teams/ademe
+  - /teams/ademe
+previously:
+  - datagir
+  - nosgestesclimat
+  - impact.co2
 ---

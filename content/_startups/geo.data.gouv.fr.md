@@ -3,7 +3,7 @@ title: geo.data.gouv.fr
 mission: Trouver facilement les données géographiques dont vous avez besoin
 sponsors:
   - /organisations/dinum
-incubator: dinum
+incubator: dinum_produits_interministeriels
 phases:
   - name: investigation
     start: 2015-01-01

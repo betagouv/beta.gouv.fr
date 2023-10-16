@@ -11,6 +11,6 @@ missions:
 badges:
   - segur
 startups:
-  - rdv-services-publics
+  - rdv-service-public
 ---
 

@@ -5,7 +5,7 @@ domaine: Déploiement
 github: JehanneDussert
 missions:
   - start: 2022-05-12
-    end: 2022-09-13
+    end: 2024-11-30
     status: independent
     employer: Malt
 startups:

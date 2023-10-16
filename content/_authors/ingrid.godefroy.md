@@ -4,13 +4,14 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2021-07-01
-    end: 2023-06-30
+    end: 2024-03-31
     status: independent
     employer: Octo
 startups:
   - signalement
   - monstage
-
+previously:
+  - commun.orientation
 ---
 
 

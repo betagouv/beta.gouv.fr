@@ -35,14 +35,9 @@ La création d'un outil de pilotage partagé entre tous les acteurs (ministères
 - Le taux et la qualité d’insertion des formations ;
 - La valeur ajoutée des établissements ;
 - La prospective des métiers et qualification ;
+- Des éléments de contexte du territoire (démographie, mobilité) ;
 - La demande économique ;
-- Des éléments de contexte du territoire (démographie, mobilité)….
+- Etc...
 
-## Les bénéfices attendus
-
-- Moderniser les diplômes pour augmenter leur taux d’insertion et de poursuites d'étude ;
-- Accélérer la révision des certifications au niveau national ;
-- Donner une vision globale des formations disponibles sur un territoire au regard des besoins des entreprises ;
-- Identifier quel est le niveau du diplôme le plus insérant pour une spécialité.
 
 

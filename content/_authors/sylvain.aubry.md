@@ -6,12 +6,11 @@ link: https://sylvainaubry.cargo.site/
 github: SylvainAubry1
 missions:
   - start: 2022-06-27
-    end: 2023-05-30
+    end: 2023-12-31
     status: independent
     employer: Octo Technology
 badges:
   - segur
-
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Covoiturage.beta.gouv.fr
+title: Registre de preuve de covoiturage
 mission: Accompagner le développement du covoiturage au quotidien 🚘
 sponsors:
   - /organisations/dgitm
@@ -21,6 +21,9 @@ phases:
     end: 2021-09-01
   - name: acceleration
     start: 2021-09-01
+fast:
+  promotion: 12
+  montant: 300000
 ---
 # 1,43 personnes par véhicule seulement dans les déplacements "courte distance"
 
@@ -37,7 +40,7 @@ covoiturage.beta, c’est à la fois :
 * 🤝 Un tiers de confiance : les territoires peuvent distribuer des incitations en toute confiance grâce aux trajets certifiés envoyés dans le Registre par les opérateurs de covoiturage partenaires ;
 * 📃 Une boîte à outils : le Registre propose un panel d’outils pour aider les collectivité à inciter au covoiturage courte distance sur leur ressort territorial en toute confiance (moteur de campagnes d'incitation, attestations de covoiturage, générateur d'attestations sur l'honneur, observatoire et page statistique).
 
-Cette plateforme technique permet à l'ensemble des opérateurs de covoiturage, volontaires, de faire converger et d'attester les trajets effectués par leurs utilisateurs dans le respect de leur vie privée. Elle permet ainsi aux autorités organisatrices de visualiser les différentes classes de preuve de covoiturage définies en fonction des mécanismes et processus de vérification du trajet mis en place par l’opérateur de covoiturage.  
+Cette plateforme technique permet à l'ensemble des opérateurs de covoiturage, volontaires, de faire converger et d'attester les trajets effectués par leurs utilisateurs dans le respect de leur vie privée. Elle permet ainsi aux autorités organisatrices de visualiser les différentes classes de preuve de covoiturage définies en fonction des mécanismes et processus de vérification du trajet mis en place par l’opérateur de covoiturage.
 
 Grâce au registre, une autorité organisatrice a désormais en main, l’ensemble des cartes lui permettant de mettre en oeuvre une politique incitative efficace en faveur du covoiturage. Ceci peut se concrétiser de diverses manières :
 

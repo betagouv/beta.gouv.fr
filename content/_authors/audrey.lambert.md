@@ -8,7 +8,7 @@ missions:
     status: service
     employer: Ministère des armées
   - start: 2022-11-01
-    end: 2023-12-31
+    end: 2023-06-29
     status: independent
     employer: Malt
 startups:

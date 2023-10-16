@@ -1,7 +1,7 @@
 ---
 fullname: Thibault COLIN
-role: DevOps
 domaine: Développement
+role: DevOps
 github: this-is-tobi
 missions:
   - start: 2020-09-07
@@ -14,6 +14,8 @@ missions:
     employer: Ministère de l'Intérieur
 startups:
   - psij
+competences:
+  - Développement Backend
+  - Administration Système
 ---
-
 🌸

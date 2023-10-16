@@ -14,7 +14,7 @@ missions:
     status: independent
     employer: Benext
   - start: 2023-01-02
-    end: 2023-06-30
+    end: 2023-03-31
     status: independent
     employer: Octo
 startups:

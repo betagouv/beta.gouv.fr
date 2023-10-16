@@ -14,13 +14,16 @@ missions:
     status: independent
     employer: ut7
   - start: 2021-11-01
+    end: 2023-02-28
+    status: service
+    employer: omnicite
+  - start: 2023-06-15
     end: 2023-12-31
     status: service
     employer: omnicite
 startups:
-  - homologation
 previously:
   - eva
+  - homologation
 ---
-
 Programmeur extrême & codexhibitionniste.

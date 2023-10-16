@@ -10,6 +10,6 @@ missions:
     status: independent
     employer: PLUP
 startups:
-  - rdv-services-publics
+  - rdv-service-public
 ---
 

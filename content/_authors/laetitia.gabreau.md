@@ -8,25 +8,24 @@ missions:
     status: independent
     employer: Benext
   - start: 2021-11-01
-    end: 2023-09-30
+    end: 2023-10-30
     status: independent
-    employer: Octo
+    employer: Malt
   - start: 2023-02-27
-    end: 2023-09-30
+    end: 2023-11-05
     status: independent
     employer: Malt
 startups:
   - infoparquet
-  - dotations locales
 previously:
   - psyenfantado
   - monpsy
+  - dotations-locales
 badges:
   - segur
 competences:
   - Gestion de Produit
   - Communication
-
 ---
 
 Passionnée par l'innovation sous toutes ses FoRmEs

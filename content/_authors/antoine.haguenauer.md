@@ -7,7 +7,7 @@ missions:
     end: 2019-12-30
     status: independent
 startups:
-    - rdv-services-publics
+    - rdv-service-public
 ---
 
 Fan de bugs bunny

@@ -1,5 +1,5 @@
 ---
-fullname: Lise Fainsilber
+fullname: Esil Fainsilber
 role: Designer
 domaine: Design
 missions:

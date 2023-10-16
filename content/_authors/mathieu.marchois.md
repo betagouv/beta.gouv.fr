@@ -5,14 +5,13 @@ domaine: Développement
 github: mmarchois
 missions:
   - start: 2022-10-17
-    end: 2023-08-30
+    end: 2023-12-31
     status: service
     employer: Fairness
 startups:
   - dialogue
 badges:
   - segur
-
 ---
 >-
   Co-fondateur de la coopérative Fairness, développeur back (PHP/Symfony &

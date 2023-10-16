@@ -19,7 +19,7 @@ missions:
     status: independent
 startups: [collectif_objets]
 previously:
-  - rdv-services-publics
+  - rdv-service-public
   - codedutravail
   - enfants-du-spectacle
 competences:

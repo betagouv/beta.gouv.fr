@@ -6,9 +6,10 @@ avatar: https://benoitguigal.fr/assets/images/benoit.png
 link: https://benoitguigal.fr
 github: benoitguigal
 missions:
-  - end: 2023-06-30 
-    start: 2019-05-22
+  - start: 2019-05-22
+    end: 2023-12-31
     status: independent
+    employer: ''
 startups:
   - trackdechets
 previously:

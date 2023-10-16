@@ -9,6 +9,6 @@ missions:
     status: service
     employer: ''
 startups:
-  - rdv-services-publics
+  - rdv-service-public
 
 ---

@@ -1,22 +1,22 @@
 ---
-mission: Améliorer la régulation des taxis en France et la qualité du service
-  aux chauffeurs et aux usagers
+title: Mes autorisations de stationnement
+mission: Faciliter la constitution d'une base des licences de taxis en France
+sponsors:
+  - /organisations/dgitm
 incubator: mtes
+phases:
+  - name: investigation
+    start: 2020-07-21
+  - name: construction
+    start: 2021-11-01
+link: https://mesads.beta.gouv.fr/
 repository: https://github.com/mesadsfr/mesads
 contact: equipe@le.taxi
 usertypes:
   - entreprise
   - etat
-title: MesADS
-sponsors:
-  - /organisations/dgitm
-link: null
-stats: false
-phases:
-  - name: investigation
-    start: 2020-07-21
-  - name: acceleration
-    start: 2021-11-01
+stats_url: https://mesads.beta.gouv.fr/chiffres-cles
+accessibility_status: non conforme
 ---
 ## Problème investigué
 

@@ -11,10 +11,12 @@ guard:
 	$(DOCKER-RUN) web $(BUNDLE-EXEC) guard
 dsl:
 	$(DOCKER-RUN) web ./bin/beta-rb
-up: down
-	docker-compose up -d
+up:
+	docker-compose up
 down:
 	docker-compose down
+sh:
+	$(DOCKER-RUN) web bash
 rm:
 	docker-compose rm -sf
 up-nginx: down-nginx
@@ -23,7 +25,7 @@ down-nginx:
 	docker-compose -f docker-compose.nginx.yml down
 
 html-proofer:
-	bundle exec htmlproofer ./_site/ --ignore-files "/recrutement\/*/" --no-enforce-https --disable-external --root_dir _site/
+	bundle exec htmlproofer ./_site/ --ignore-files "/recrutement\/*/" --no-enforce-https --disable-external --root_dir _site/ --allow-missing-href 
 
 .PHONY: validate
 validate:

@@ -8,7 +8,10 @@ usertypes:
   - entreprise
 phases: 
   - name: investigation
-    start: 2023-02-27 
+    start: 2023-02-27
+    end: 2023-03-30
+  - name: construction
+    start: 2023-03-30
 link: 
 repository: # ou page de description des dépôts s'il y en a plusieurs
 stats: false # mettre à true pour renvoyer vers ta page de stats. Attention, elle doit se trouver sur [url du site]/stats !

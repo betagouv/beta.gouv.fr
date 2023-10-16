@@ -10,13 +10,11 @@ missions:
     status: independent
     employer: icc
   - start: 2020-03-02
-    end: 2023-07-02
+    end: 2024-06-14
     status: admin
     employer: dinum
 startups:
-  - sante-psy-etudiant
-  - psyenfantado
-  - data-subvention
+  - itou
 previously:
   - jeveuxaider
   - eac
@@ -24,11 +22,11 @@ previously:
   - culture_amateurs
   - e-inspé
   - histologe
+  - data-subvention
+  - sante-psy-etudiant
+  - psyenfantado
 badges:
   - segur
-teams:
-  - /teams/animation-dinum
-  - /teams/brigade
-
+teams: null
 ---
 

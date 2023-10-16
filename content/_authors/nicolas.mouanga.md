@@ -9,4 +9,6 @@ missions:
     status: independent
 startups:
   - place-des-entreprises
+  - sparte
+  - docurba
 ---

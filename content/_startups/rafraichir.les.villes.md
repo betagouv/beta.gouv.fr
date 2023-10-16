@@ -8,6 +8,7 @@ incubator: ademe
 link: https://plusfraichemaville.fr/
 contact: elodie.briche@ademe.fr
 stats: true
+dashlord_url: https://dashlord.incubateur.net/url/plusfraichemaville-fr/
 accessibility_status: non conforme
 phases:
   - name: investigation

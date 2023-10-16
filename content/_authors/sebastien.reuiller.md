@@ -13,7 +13,12 @@ missions:
     end: 2023-06-30
     status: independent
     employer: LBC
+  - start: 2023-06-26
+    end: 2023-10-26
+    status: independent
+    employer: Malt
 startups:
+  - place-de-marche-inclusion
   - cnr
 previously:
   - la.communaute.de.linclusion

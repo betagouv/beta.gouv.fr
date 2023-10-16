@@ -1,6 +1,4 @@
 ---
-fullname: Emmanuel Bellity
-role: Coach
 domaine: Coaching
 github: ebellity
 missions:
@@ -8,7 +6,12 @@ missions:
     end: 2024-04-24
     status: independent
     employer: NUMA
+competences:
+  - Coaching
 memberType: autre
+fullname: Emmanuel BELLITY
+role: Coach
+startups:
+  - evalpro
 ---
-
 Product coach

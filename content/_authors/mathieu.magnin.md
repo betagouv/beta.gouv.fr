@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: octo
 startups:
-    - rdv-services-publics
+    - rdv-service-public
 previously:
     - demarches-simplifiees.fr
 ---

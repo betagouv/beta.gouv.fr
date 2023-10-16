@@ -4,8 +4,9 @@ role: Intrapreneur OTELO
 domaine: Intraprenariat
 missions:
   - start: 2022-10-01
-    end: 2023-06-30
+    end: 2023-12-31
     status: admin
+    employer: Mtes
 memberType: beta
 ---
 
