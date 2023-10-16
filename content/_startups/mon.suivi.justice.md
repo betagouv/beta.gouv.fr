@@ -21,6 +21,7 @@ phases:
     start: 2022-04-01
   - name: transfer
     start: 2023-10-02
+contact: contact@mon-suivi-justice.beta.gouv.fr
 ---
 # **Éléments de contexte**
 
