@@ -7,7 +7,7 @@ incubator: sgmas
 link: https://mes-aides.1jeune1solution.beta.gouv.fr
 repository: https://github.com/betagouv/aides-jeunes
 contact: aides-jeunes@beta.gouv.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 usertypes:
   - particulier
 stats: true
