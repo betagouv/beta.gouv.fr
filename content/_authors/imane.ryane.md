@@ -4,7 +4,7 @@ role: Développeuse
 domaine: Développement
 missions:
   - start: 2023-03-20
-    end: 2023-10-31
+    end: 2023-12-22
     status: service
     employer: OCTO
 memberType: beta
