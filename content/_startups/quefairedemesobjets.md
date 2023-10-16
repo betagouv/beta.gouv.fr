@@ -7,7 +7,7 @@ sponsors:
 incubator: ademe
 link: https://quefairedemesdechets.ademe.fr/
 contact: martin.regner@ademe.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 events:
   - name: committee
     date: 2023-04-06
