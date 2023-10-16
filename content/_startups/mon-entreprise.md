@@ -12,7 +12,7 @@ phases:
   - name: acceleration
     start: 2019-01-01
   - name: transfer
-    start : 2019-09-01
+    start: 2019-09-01
   - name: success
     start: 2020-03-01
 events:
@@ -26,6 +26,8 @@ stats: true
 contact: contact@mon-entreprise.beta.gouv.fr
 usertypes:
   - entreprise
+stats_url: https://mon-entreprise.urssaf.fr/stats
+accessibility_status: partiellement conforme
 ---
 # Mon-entreprise
 

@@ -5,7 +5,7 @@ domaine: Autre
 github: Lahourba
 missions:
   - start: 2023-03-06
-    end: 2023-06-05
+    end: 2023-12-30
     status: independent
     employer: malt
 startups:

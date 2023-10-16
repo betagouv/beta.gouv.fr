@@ -2,7 +2,7 @@
 mission: Faciliter l'accès et la gestion des données entreprises pour les collectivités
 incubator: anct
 repository: null
-contact: karel.cloarec@beta.gouv.fr
+contact: contact@deveco.incubateur.anct.gouv.fr
 usertypes:
   - collectivite-territoriale
 stats_url: https://deveco.incubateur.anct.gouv.fr/stats

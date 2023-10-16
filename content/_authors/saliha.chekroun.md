@@ -1,7 +1,7 @@
 ---
 fullname: Saliha Chekroun
-role: Cheffe produit
 domaine: Déploiement
+role: Cheffe produit
 github: saaliha
 missions:
   - start: 2021-11-08
@@ -10,9 +10,9 @@ missions:
     employer: DINUM
 startups:
   - le-taxi
-  - mesads
 badges:
   - segur
+competences:
+  - Gestion de Produit
 ---
-
 J'aime voyager, une destination à me recommander ? :)

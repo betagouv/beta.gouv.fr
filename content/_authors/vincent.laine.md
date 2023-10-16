@@ -14,17 +14,17 @@ missions:
     status: independent
     employer: OCTO
   - start: 2022-01-01
-    end: 2023-06-30
+    end: 2023-12-31
     status: independent
     employer: Scopyleft
 startups:
   - usine-chatbots
   - airvam
+  - vigieau
 previously:
   - preuve-de-covoiturage
 competences:
   - Développement Frontend
   - Développement Backend
-
 ---
 

@@ -14,7 +14,12 @@ missions:
     employer: Octo
     start: 2022-01-03
     end: 2022-06-30
-startups: []
+  - status: independent
+    employer: LBC
+    start: 2023-05-02
+    end: 2023-12-31
+startups:
+  - deveco
 previously:
   - camino
   - dora

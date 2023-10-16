@@ -3,7 +3,7 @@ title: api.gouv.fr
 mission: Référencer toutes les APIs du service public
 sponsors: 
     - /organisations/dinum
-incubator: apigouv
+incubator: dinum_produits_interministeriels
 phases:
   - name: investigation
     start: 2016-01-25

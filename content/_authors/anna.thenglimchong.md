@@ -1,16 +1,18 @@
 ---
 fullname: Anna Theng-Lim-Chong
-role: Apprentie UX
 domaine: Design
+role: Apprentie UX
 github: anna-tlc
 missions:
   - start: 2022-02-01
     end: 2024-01-31
     status: admin
     employer: DNUM
-startups:
+startups: []
+previously:
   - psij
 badges:
   - segur
+competences:
+  - UX
 ---
-

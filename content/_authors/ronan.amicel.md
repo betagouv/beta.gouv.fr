@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: lazone
   - start: 2022-06-01
-    end: 2023-05-31
+    end: 2023-11-30
     status: independent
     employer: Scopyleft
 startups:

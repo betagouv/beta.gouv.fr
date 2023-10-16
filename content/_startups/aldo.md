@@ -12,6 +12,9 @@ events: []
 phases:
   - name: investigation
     start: 2023-02-23
+    end: 2023-06-07
+  - name: alumni
+    start: 2023-06-07
 ---
 ## Contexte
 

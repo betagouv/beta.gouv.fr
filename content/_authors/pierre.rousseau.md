@@ -1,16 +1,20 @@
 ---
 fullname: Pierre Rousseau
-role: Chargé de déploiement
-domaine: Déploiement
+domaine: Coaching
+role: Coach
 github: pierrerousseau2312
 missions:
   - start: 2021-02-15
-    end: 2023-12-31
+    end: 2024-12-30
     status: independent
     employer: scopyleft
 startups:
-  - recosante
+  - benefriches
+  - jafer
 badges:
   - segur
+competences:
+  - Coaching
+  - Gestion de Produit
+  - Croissance
 ---
-

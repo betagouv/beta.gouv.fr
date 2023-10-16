@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Scopyleft
 startups:
-  - lapins
+  - rdv-service-public
 memberType: beta
 
 ---

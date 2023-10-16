@@ -5,7 +5,7 @@ role: Intrapreneure
 github: ClairePatch
 missions:
   - start: 2021-01-05
-    end: 2023-06-06
+    end: 2023-12-06
     status: admin
     employer: Ministère de la Culture
 startups:

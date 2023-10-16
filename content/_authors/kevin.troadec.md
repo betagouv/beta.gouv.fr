@@ -1,10 +1,10 @@
 ---
 fullname: Kevin Troadec
-role: Produc owner 
+role: Product owner
 domaine: Produit
 missions:
   - start: 2023-02-27
-    end: 2023-05-31
+    end: 2023-12-31
     status: independent
     employer: MALT / ANCT
 startups:

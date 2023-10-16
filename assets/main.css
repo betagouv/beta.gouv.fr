@@ -1,4 +1,6 @@
-/* En attendant de revoir tous les titres de pages */
+main .fr-container img {
+  width: 100%;
+}
 
 .hero {
   width: 100%;
@@ -216,10 +218,6 @@ ol li p, ul li p {
 
 .startup__title {
   color: #0053b3;
-}
-
-main .fr-container img {
-  width: 100%;
 }
 
 .filters {
@@ -486,4 +484,30 @@ img.lozad {
   background-color: var(--background-contrast-grey);
   height: 100%;
   width: 100%;
+}
+
+:root {
+  --hero-gradient-start: var(--artwork-decorative-blue-france);
+  --hero-gradient-stop: var(--blue-france-975-75);
+}
+
+.hero-section {
+  background: linear-gradient(var(--hero-gradient-start), var(--hero-gradient-stop));
+}
+
+.fr-illu {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 3rem !important;
+  margin: 1rem 0;
+}
+
+.fr-illu img {
+  max-width: 120px;
+}
+
+.fast-cta {
+  background: var(--artwork-decorative-blue-france);
 }

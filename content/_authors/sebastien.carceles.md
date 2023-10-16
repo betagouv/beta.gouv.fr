@@ -6,17 +6,16 @@ link: https://www.linkedin.com/in/sebastiencarceles
 github: sebastiencarceles
 missions:
   - start: 2022-06-01
-    end: 2023-05-26
+    end: 2023-12-31
     status: independent
     employer: ANCT
 startups:
   - civils-de-la-defense
 previously:
   - aides.jeunes
-  - lapins
+  - rdv-service-public
   - demarches-simplifiees.fr
   - civils-de-la-defense
-
 ---
 
 

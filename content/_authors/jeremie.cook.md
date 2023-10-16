@@ -16,6 +16,7 @@ startups:
   - aides.jeunes
   - annuaire-entreprises
   - apilos
+  - nosgestesclimat
 previously:
   - codedutravail
   - mes-aides

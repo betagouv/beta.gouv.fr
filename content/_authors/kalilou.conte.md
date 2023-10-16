@@ -5,7 +5,7 @@ domaine: Produit
 github: Conte
 missions:
   - start: 2023-01-31
-    end: 2023-12-31
+    end: 2023-03-31
     status: independent
 startups:
   - mesads

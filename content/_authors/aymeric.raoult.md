@@ -5,15 +5,18 @@ role: Coach
 github: AymericRlt
 missions:
   - start: 2021-01-04
-    end: 2023-09-30
+    end: 2023-12-31
     status: independent
     employer: ''
 startups:
   - T2BJustice
-  - mobicouts
   - apilos
-  - compte-conso
+  - eco-euro
 competences:
   - Coaching
-
+previously:
+  - mobicouts
+  - dotations-locales
+  - qualite-eau
+  - non-recours-spie
 ---

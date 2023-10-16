@@ -5,7 +5,7 @@ role: Développeur
 github: lionelb
 missions:
   - start: 2018-10-08
-    end: 2023-03-31
+    end: 2023-11-30
     status: independent
     employer: octo
 startups:
@@ -15,6 +15,6 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
-
 ---
+
 null

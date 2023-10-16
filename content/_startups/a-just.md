@@ -1,7 +1,8 @@
 ---
 title: A-JUST
-mission: Aider les juridictions dans l'affectation de leurs ressources humaines
-  pour réduire les délais de justice.
+mission: >-
+  Aider les juridictions dans l'affectation de leurs ressources humaines pour
+  réduire les délais de justice.
 sponsors:
   - /organisations/mj
   - /organisations/igj
@@ -9,9 +10,13 @@ incubator: justice
 link: https://a-just.beta.gouv.fr
 repository: https://github.com/betagouv/a-just
 contact: contact@a-just.fr
+stats: true
+dashlord_url: https://dashlord.incubateur.net/url/a-just-beta-gouv-fr/
+analyse_risques: true
 accessibility_status: non conforme
 usertypes:
   - etat
+stats_url: https://a-just.beta.gouv.fr/stats
 events: []
 phases:
   - name: investigation
@@ -23,8 +28,12 @@ phases:
     comment: Construction sur un périmètre de juridictions restreint.
   - name: acceleration
     start: 2022-11-30
-    comment: "Passage en accélération : amélioration continue du produit et
-      augmentation du nombre d'utilisateurs. "
+    comment: >-
+      Passage en accélération : amélioration continue du produit et augmentation
+      du nombre d'utilisateurs. 
+fast:
+  promotion: 13
+  montant: 300000
 ---
 <!--StartFragment-->
 
@@ -86,7 +95,7 @@ Or, si la durée de traitement des procédures est particulièrement suivie par 
 
 Suite à l’investigation menée début 2021, la construction a démarré le 1er septembre 2021. Le sponsor est le chef de l’Inspection Générale de la Justice.
 
-Le passage en phase d'accélération a été validé fin novembre 2022.
+Une deuxième phase d'accélération a été validée le 13 juillet 2023, accompagnée par le [FAST.](https://beta.gouv.fr/fast/)
 
 ***L’objectif***
 

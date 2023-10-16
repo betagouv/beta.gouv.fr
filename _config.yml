@@ -83,7 +83,7 @@ collections:
   phases:
   fasts:
     output: true
-    permalink: /approche/fast/:title.html
+    permalink: /fast/lauréats/:title.html
   startups:
     output: true
     permalink: /startups/:title.html

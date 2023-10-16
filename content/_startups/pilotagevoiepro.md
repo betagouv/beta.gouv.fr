@@ -1,6 +1,6 @@
 ---
 title: Orion
-mission: Piloter la révision et l'évolution de l'offre de formation des lycées professionnels
+mission: Contribuer au pilotage de la révision et l'évolution de l'offre de formation des lycées professionnels
 sponsors:
   - /organisations/dgesco
 incubator: mission-inserjeunes
@@ -34,15 +34,10 @@ La création d'un outil de pilotage partagé entre tous les acteurs (ministères
 - La poursuite d’étude ;
 - Le taux et la qualité d’insertion des formations ;
 - La valeur ajoutée des établissements ;
-- La prospectives des métiers et qualification ;
+- La prospective des métiers et qualification ;
+- Des éléments de contexte du territoire (démographie, mobilité) ;
 - La demande économique ;
-- Des éléments de contexte du territoire (démographie, mobilité)….
+- Etc...
 
-## Les bénéfices attendus
-
-- Accélérer la révision des certifications au niveau national ;
-- Moderniser les diplômes pour augmenter leur taux d’insertion ;
-- Donner une vision globale des formations disponibles sur un territoire au regard des besoins des entreprises ;
-- Identifier quel est le niveau du diplôme le plus insérant pour une spécialité.
 
 

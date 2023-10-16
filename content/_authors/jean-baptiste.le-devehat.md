@@ -3,15 +3,16 @@ fullname: Jean-Baptiste Le Dévéhat
 role: Designer & Intrapreneur
 domaine: Intraprenariat
 github: jbledevehat
-avatar: https://eig.etalab.gouv.fr/img/jean-baptiste-le-devehat.png
+avatar: https://jbledevehat.fr/wp-content/uploads/2023/02/jb-profil-400x400-1.jpg
 link: https://jbledevehat.fr
 missions: 
   - start: 2020-01-19 
     end: 2023-12-31 
     status: independent
-    employer: octo
+    employer: Malt
 startups: 
-    - itou
-    - transition-ecologique-des-entreprises
+  - transition-ecologique-des-entreprises
+previously:
+  - itou
 ---
 Couteau-suisse en transformation de services
