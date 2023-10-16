@@ -8,7 +8,7 @@ title: Réfugiés.info
 contact: nour@refugies.info
 incubator: dinum
 sponsors: 
-  - /organisations/DIAIR
+  - /organisations/diair
 accessibility_status: non conforme
 phases:
   - name: acceleration
