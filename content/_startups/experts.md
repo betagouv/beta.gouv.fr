@@ -13,6 +13,8 @@ phases:
     start: 2023-01-03
     end: 2023-06-30
 link: https://selexpert.anje-justice.fr/
+stats: true
+stats_url: https://selexpert.anje-justice.fr/stats
 ---
 ## Problème
 
