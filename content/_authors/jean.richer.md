@@ -3,6 +3,7 @@ fullname: jean richer
 role: Intrapreneur
 domaine: Développement
 link: https://www.a-r-t.ong
+startups: rdvif
 missions:
   - start: 2023-01-01
     end: 2023-06-30
