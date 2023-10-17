@@ -7,6 +7,8 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Numa
+startups:
+  - maisondessinpresse
 memberType: beta
 ---
 
