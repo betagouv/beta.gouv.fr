@@ -7,6 +7,7 @@ missions:
     end: 2024-12-31
     status: admin
     employer: ''
+github: Fredericdol
 startups:
   - urgencevie
 ---
