@@ -9,6 +9,10 @@ missions:
     end: 2023-10-31
     status: admin
     employer: MTES/DGALN
+  - start: 2023-11-01
+    end: 2025-10-31
+    employer: dinum
+    status: admin
 startups:
   - locatio
   - filigrane
