@@ -4,11 +4,11 @@ role: intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2023-05-17
-    end: 2023-10-31
+    end: 2023-12-31
     status: admin
     employer: ADEME
 startups:
-- pacocoupa
+  - pacocoupa
 memberType: autre
 ---
 

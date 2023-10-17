@@ -10,6 +10,7 @@ missions:
     employer: ''
 startups:
   - histologe
+  - stop-punaises
 badges:
   - segur
 ---

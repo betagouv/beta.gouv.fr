@@ -9,6 +9,9 @@ phases:
     start: 2019-12-19
   - name: construction
     start: 2019-12-19
+  - name: acceleration
+    start: 2022-11-01
+accessibility_status: non conforme
 link: https://cartobio.agencebio.org/
 repository: https://github.com/AgenceBio/cartobio-front
 stats: true

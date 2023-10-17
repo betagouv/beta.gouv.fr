@@ -6,7 +6,7 @@ sponsors:
   - /organisations/dgaln
   - /organisations/dhup
 incubator: mtes
-link: https://www.dossierfacile.fr/?utm_source=betagouv&utm_medium=referral&utm_campaign=fiche_betagouv
+link: https://www.dossierfacile.logement.gouv.fr/?utm_source=betagouv&utm_medium=referral&utm_campaign=fiche_betagouv
 repository: https://github.com/mtes-mct/locatio
 contact: contact@dossierfacile.fr
 stats: true
@@ -15,7 +15,7 @@ analyse_risques: true
 accessibility_status: partiellement conforme
 usertypes:
   - particulier
-stats_url: https://www.dossierfacile.fr/stats
+stats_url: https://www.dossierfacile.logement.gouv.fr/stats
 dashlord_url: https://dashlord.incubateur.net/url/dossierfacile-fr/
 events:
   - name: national_impact
@@ -31,9 +31,9 @@ fast:
   promotion: 13
   montant: 300000
 ---
-## Locatio devient DossierFacile.fr !
+## DossierFacile.fr devient DossierFacile.logement.gouv.fr !
 
-Pas de panique, le nom change mais notre service reste le même !
+Pas de panique, le nom de domaine change mais notre service reste le même !
 
 ## Une relation tendue
 
@@ -44,7 +44,7 @@ Chez DossierFacile, nous ambitionnons de casser ce cercle vicieux pour remettre 
 ## Un DossierFacile c’est quoi ?
 
 DossierFacile est une plateforme en ligne qui accompagne gratuitement les candidats locataires dans la constitution de leur dossier de location. 
-Un DossierFacile, c'est un dossier simple, en ligne et totalement gratuit qui aide les locataires à rassurer bailleurs et profesionnels de l'immobilier. Pour obtenir son dossier facile rien de plus simple : le locataire dépose ses pièces sur <a href="https://locataire.dossierfacile.fr/login?utm_source=betagouv">www.dossierfacile.fr</a> puis nos équipes effectuent une batterie de tests pour s'assurer que le dossier est clair, complet et cohérent. Quand le dossier a passé tous les tests, il est validé. Le locataire peut alors envoyer ce dossier à n'importe quel bailleur ou professionnel de l'immobilier.
+Un DossierFacile, c'est un dossier simple, en ligne et totalement gratuit qui aide les locataires à rassurer bailleurs et profesionnels de l'immobilier. Pour obtenir son dossier facile rien de plus simple : le locataire dépose ses pièces sur <a href="https://locataire.dossierfacile.logement.gouv.fr/login?utm_source=betagouv">www.dossierfacile.logement.gouv.fr</a> puis nos équipes effectuent une batterie de tests pour s'assurer que le dossier est clair, complet et cohérent. Quand le dossier a passé tous les tests, il est validé. Le locataire peut alors envoyer ce dossier à n'importe quel bailleur ou professionnel de l'immobilier.
 
 Bailleurs et professionnels de l'immobilier, DossierFacile est là pour vous rassurer dans votre choix en synthétisant les informations des différents candidats à la location et en vérifiant les déclarations d’imposition pour éviter mauvaises surprises et fausses déclarations. Notre rôle n’est pas de choisir pour vous mais nous pouvons vous aider à vérifier que tout est bien en ordre.
 

@@ -1,6 +1,6 @@
 ---
 fullname: Pierre  Putois
-role: bizdev
+role: Lead Experimentations
 domaine: Déploiement
 missions:
   - start: 2022-09-18
@@ -9,8 +9,12 @@ missions:
     employer: Octo
 startups:
   - l-immersion-facile
+  - data-inclusion
+  - itou
+  - pilotage.de.linclusion
+  - place-de-marche-inclusion
+  - data.insertion
 badges:
   - segur
-
 ---
 ''

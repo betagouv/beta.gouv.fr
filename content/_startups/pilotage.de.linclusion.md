@@ -18,6 +18,7 @@ usertypes:
   - entreprise
   - etat
   - collectivite-territoriale
+accessibility_status: partiellement conforme
 ---
 ## Contexte
 

@@ -4,11 +4,11 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2020-05-01
-    end: 2023-09-30
+    end: 2023-12-31
     status: independent
-    employer: ''
-startups:
-  - trackdechets
+    employer: 'Numa'
 previously:
   - trackdechets
+teams:
+  - /teams/accelerateur-initiatives-citoyennes
 ---

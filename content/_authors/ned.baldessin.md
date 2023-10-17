@@ -10,6 +10,7 @@ missions:
     employer: Ministère de la Culture
 startups:
   - euphrosyne
+  - pop
 teams:
   - /teams/culture
 ---

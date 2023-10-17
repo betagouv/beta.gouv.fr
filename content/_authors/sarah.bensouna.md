@@ -4,7 +4,7 @@ role: Opératrice de validation
 domaine: Déploiement
 missions:
   - start: 2022-07-10
-    end: 2023-09-30
+    end: 2023-12-31
     status: independent
 startups:
   - locatio

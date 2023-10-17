@@ -17,6 +17,7 @@ link: https://www.data.gouv.fr/
 repository: https://github.com/opendatateam/udata
 stats: true
 stats_url: https://stats.data.gouv.fr
+accessibility_status: partiellement conforme
 contact: info@data.gouv.fr
 redirect_from:
   - /startups/datagouv

@@ -19,7 +19,7 @@ missions:
     status: independent
     employer: Fairness
   - start: 2022-12-06
-    end: 2023-12-06
+    end: 2026-09-30
     status: independent
     employer: Octo
 competences:

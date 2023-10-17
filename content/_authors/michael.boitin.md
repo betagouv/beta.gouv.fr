@@ -5,7 +5,7 @@ role: Ux designer
 github: mickeymick25
 missions:
   - start: 2021-02-08
-    end: 2023-07-31
+    end: 2024-06-30
     status: independent
     employer: ''
   - start: 2022-01-02
