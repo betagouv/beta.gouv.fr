@@ -1,6 +1,6 @@
 ---
 fullname: Raphaël Grossot
-role: Designer de service
+role: Service Designer
 domaine: Design
 avatar: null
 github: raphael-grossot
