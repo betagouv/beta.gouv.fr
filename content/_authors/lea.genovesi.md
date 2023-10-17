@@ -7,6 +7,8 @@ missions:
     end: 2024-10-30
     status: independent
     employer: NUMA
+startups:
+  - rdvif
 badges:
   - segur
 ---
