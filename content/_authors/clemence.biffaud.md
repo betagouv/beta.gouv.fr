@@ -13,7 +13,7 @@ missions:
     status: independent
     employer: Octo
   - start: 2022-09-12
-    end: 2023-10-15
+    end: 2023-12-31
     status: independent
     employer: NUMA
 incubator: fab-geocommuns

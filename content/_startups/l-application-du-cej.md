@@ -1,7 +1,6 @@
 ---
 title: L'application du CEJ
-mission: "Contrat Engagement Jeune : Aider les jeunes les plus éloignés de
-  l'emploi à trouver leur voie"
+mission: Aider les jeunes les plus éloignés de l'emploi à trouver leur voie
 sponsors:
   - /organisations/dgefp
 incubator: sgmas
@@ -22,6 +21,7 @@ phases:
     end: 2022-03-30
   - name: acceleration
     start: 2022-03-01
+accessibility_status: partiellement conforme
 ---
 L’application du Contrat d’Engagement Jeune a pour objectif de faciliter l’accompagnement du jeune par son conseiller (Pôle emploi ou Mission Locale) afin de limiter son décrochage.
 

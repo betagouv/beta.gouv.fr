@@ -6,10 +6,11 @@ sponsors:
   - /organisations/ademe
 incubator: ademe
 link: https://nosgestesclimat.fr/
-repository: https://github.com/datagir/nosgestesclimat
+repository: https://github.com/incubateur-ademe/nosgestesclimat
 contact: contact@nosgestesclimat.fr
 stats: true
-budget_url: https://datagir.ademe.fr/budget/
+budget_url: https://nosgestesclimat.fr/budget
+dashlord_url: https://dashlord.incubateur.net/url/nosgestesclimat-fr/
 accessibility_status: partiellement conforme
 events: []
 phases:
@@ -44,4 +45,4 @@ L’objectif de Nos Gestes Climat est d’être diffusé facilement au niveau in
 
 Un autre axe de diffusion sont les médias Web déjà existants (sites d'associations, médias, blogs, administrations, etc.) via une intégration en quelques clics sous forme d’iframe. Des dizaines d'intégrations ont d’ores et déjà été réalisées.
 
-Nos Gestes Climat compte aujourd’hui près d’un million de tests réalisés (février 2023) et s'est imposé comme un calculateur de référence !
+Nos Gestes Climat compte aujourd’hui plus d’un million de tests réalisés (juillet 2023) et s'est imposé comme un calculateur de référence !

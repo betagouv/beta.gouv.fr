@@ -60,6 +60,7 @@ mapping:
             - /organisations/dgs
             - /organisations/dgt
             - /organisations/dhup
+            - /organisations/diair
             - /organisations/dihal
             - /organisations/dinum
             - /organisations/ditp
@@ -85,6 +86,7 @@ mapping:
             - /organisations/mtei
             - /organisations/mtes
             - /organisations/mtfp
+            - /organisations/msjop
             - /organisations/nouvelle-caledonie
             - /organisations/pole-emploi
             - /organisations/sgdsn

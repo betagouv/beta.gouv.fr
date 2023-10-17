@@ -1,7 +1,7 @@
 ---
 fullname: Anne Poirot
 domaine: Produit
-role: Responsable de portefeuille
+role: Coach transverse
 github: annepoirot
 missions:
   - start: 2020-04-03
@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: littlebigconnection
   - start: 2023-05-01
-    end: 2023-10-01
+    end: 2024-01-01
     status: independent
     employer: numa
 previously:

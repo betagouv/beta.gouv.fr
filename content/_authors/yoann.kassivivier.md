@@ -15,10 +15,12 @@ missions:
     employer: NUMA
 startups:
   - jeveuxaider
+  - investigationIJ
 previously:
   - jeveuxaider
   - api-engagement
   - snu
+  - prevention_ruptures_apprentissage
 badges:
   - segur
 

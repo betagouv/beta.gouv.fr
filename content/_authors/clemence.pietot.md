@@ -1,6 +1,6 @@
 ---
 fullname: Clémence Piétot
-role: Designer
+role: Designer spécialisée en projets urbains
 domaine: Design
 missions:
   - start: 2022-11-14

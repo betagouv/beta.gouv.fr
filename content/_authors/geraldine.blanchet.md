@@ -4,7 +4,7 @@ role: intrapreneuse
 domaine: Intraprenariat
 missions:
   - start: 2023-02-14
-    end: 2023-06-30
+    end: 2023-12-30
     status: admin
     employer: MENJ-DNE
 startups:

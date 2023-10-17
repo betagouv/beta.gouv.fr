@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Ippon/LLL
   - start: 2023-02-06
-    end: 2023-08-31
+    end: 2023-10-31
     status: independent
     employer: Malt
 startups:
@@ -18,4 +18,5 @@ previously:
   - e-controle
   - aides-territoires
   - AidESS-Relance
+  - Trackdéchets
 ---

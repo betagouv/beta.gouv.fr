@@ -1,6 +1,6 @@
 ---
 fullname: Marine Motte
-role: Chargée de déploiement stagiaire
+role: Chargée de déploiement - Stagiaire
 domaine: Déploiement
 missions:
   - start: 2023-05-02

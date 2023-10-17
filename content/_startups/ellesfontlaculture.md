@@ -4,14 +4,21 @@ mission: Réduire les inégalités de genre dans la culture, en commençant par 
 sponsors:
   - /organisations/mc
 incubator: culture
+events:
+  - name: national_impact
+    date: 2023-07-01
 phases:
   - name: construction
     start: 2020-04-01
     end: 2022-10-30
   - name: acceleration
     start: 2022-11-01
+    end: 2022-12-31
   - name: transfer
     start: 2023-01-01
+    end: 2023-06-30
+  - name: success
+    start: 2023-07-01
 link: https://www.ellesfontlaculture.beta.gouv.fr/
 repository: https://github.com/betagouv/ellesfontlaphoto
 stats: true

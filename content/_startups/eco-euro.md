@@ -1,5 +1,5 @@
 ---
-title: Mon Compte Consommation
+title: Eco€
 mission: Comment verdir les habitudes de consommation
 sponsors:
   - /organisations/ademe

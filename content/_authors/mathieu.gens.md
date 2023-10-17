@@ -5,7 +5,7 @@ github: MathieuGens
 domaine: Intraprenariat
 missions:
   - start: 2017-10-16
-    end: 2023-08-31
+    end: 2024-08-31
     status: admin
     employer: DGE
 startups:

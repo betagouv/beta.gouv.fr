@@ -32,6 +32,7 @@ usertypes:
   - entreprise
   - association
   - etat
+accessibility_status: partiellement conforme
 ---
 ## Le problème 
 

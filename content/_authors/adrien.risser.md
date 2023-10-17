@@ -12,7 +12,7 @@ missions:
     end: 2020-09-07
     status: independent
   - start: 2021-02-08
-    end: 2023-09-30
+    end: 2023-12-31
     status: independent
 startups:
   - deveco
