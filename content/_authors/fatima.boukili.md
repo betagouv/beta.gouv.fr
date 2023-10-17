@@ -1,6 +1,6 @@
 ---
 fullname: Fatima Boukili
-role: Chargée d&amp;#39;études
+role: Chargée d'études
 domaine: Déploiement
 missions:
   - start: 2023-02-20
