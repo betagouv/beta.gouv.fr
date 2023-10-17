@@ -11,7 +11,7 @@ stats: true
 accessibility_status: non conforme
 usertypes:
   - collectivite-territoriale
-stats_url: https://app.covoiturage.beta.gouv.fr/stats
+stats_url: https://stats.covoiturage.beta.gouv.fr/embed/dashboard/3bec1692-1456-41c2-95a9-6606af329df9
 dashlord_url: https://dashlord.incubateur.net/url/covoiturage-beta-gouv-fr/
 phases:
   - name: investigation
