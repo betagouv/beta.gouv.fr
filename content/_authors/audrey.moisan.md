@@ -4,7 +4,7 @@ role: Coach produit
 domaine: Coaching
 missions:
   - start: 2023-01-11
-    end: 2024-02-28
+    end: 2024-04-30
     status: service
     employer: Octo technology
 memberType: beta
