@@ -1,11 +1,11 @@
 ---
-title: Projet Impact
+title: Portail RSE
 mission: Le meilleur moyen pour les entreprises de déclarer leur performance
   extra-financière
 sponsors:
   - /organisations/dge
 incubator: dinum
-link: https://impact.beta.gouv.fr/
+link: https://portail-rse.beta.gouv.fr/
 repository: https://github.com/betagouv/impact
 contact: contact@impact.beta.gouv.fr
 dashlord_url: https://dashlord.incubateur.net/url/impact-beta-gouv-fr/
@@ -17,21 +17,21 @@ phases:
   - name: construction
     start: 2022-05-17
 ---
-Le projet « Impact » est un produit numérique en cours de construction ayant pour objectif d'aider toutes les entreprises à déclarer leur performance extra-financière. Il a été lancé en 2021 par la Secrétaire d’État à l’Économie, Sociale, Solidaire et Responsable (ESSR) et est maintenant piloté par la Direction Générale des Entreprises (DGE).
+Le portail RSE est un produit numérique en cours de construction ayant pour objectif d'aider toutes les entreprises à déclarer leur performance extra-financière. Il a été lancé en 2021 par la Secrétaire d’État à l’Économie, Sociale, Solidaire et Responsable (ESSR) et est maintenant piloté par la Direction Générale des Entreprises (DGE).
 
 ## **Contexte**
 
-La nouvelle directive européenne dite « CSRD » (Corporate Sustainability Reporting Directive) s'appliquera en 2025 (sur l'exercice précédent). La CSRD va imposer progressivement aux entreprises de déclarer leur performance extra-financière. Les entreprises devront ainsi renseigner des indicateurs dans les thématiques E, S, G (Environnementales, Sociales, Gouvernance). Le projet Impact doit permettre aux entreprises de s’y préparer, puis de s’y conformer.
+La nouvelle directive européenne dite « CSRD » (Corporate Sustainability Reporting Directive) s'appliquera en 2025 (sur l'exercice précédent). La CSRD va imposer progressivement aux entreprises de déclarer leur performance extra-financière. Les entreprises devront ainsi renseigner des indicateurs dans les thématiques E, S, G (Environnementales, Sociales, Gouvernance). Le portail RSE doit permettre aux entreprises de s’y préparer, puis de s’y conformer.
 
 A la suite d’une phase d’investigation menée en 2022, en se basant sur les méthodologies agiles du programme beta.gouv, la proposition de valeur du projet s’est affinée avec des retours utilisateurs.
 
-Impact devra répondre aux besoins de collecte, centralisation et transmission des indicateurs ESG, mentionnés par les réglementations nationales et européennes. Il conserve comme fil rouge la directive CSRD.
+Portail RSE devra répondre aux besoins de collecte, centralisation et transmission des indicateurs ESG, mentionnés par les réglementations nationales et européennes. Il conserve comme fil rouge la directive CSRD.
 
-Le projet de start-up d’Etat « Impact » est entré en phase de construction depuis juin 2022.
+Le projet de start-up d’Etat « Portail RSE » est entré en phase de construction depuis juin 2022.
 
 ## **Description et vision produit**
 
-Afin d’embarquer un maximum d’usagers, le projet impact propose automatiquement l’identification des réglementations extra-financières nationales (réparties entre plusieurs administrations) et européennes faisant l’objet d’une obligation de déclaration, de transmission ou de publication de la part des entreprises.
+Afin d’embarquer un maximum d’usagers, le portail RSE propose automatiquement l’identification des réglementations extra-financières nationales (réparties entre plusieurs administrations) et européennes faisant l’objet d’une obligation de déclaration, de transmission ou de publication de la part des entreprises.
 
 L’outil réutilise des informations déjà à la disposition de l’administration, pour réduire au maximum la charge de travail des entreprises, mettant ainsi en application le principe « Dites-le nous une fois ». L’utilisateur n'aura plus qu'à renseigner un nombre limité d’indicateurs.
 
@@ -39,7 +39,7 @@ A moyen terme, cette plateforme pourra évoluer pour devenir un espace de collec
 
 **Besoins utilisateurs identifiés**
 
-L’objectif de la plateforme Impact est de répondre à plusieurs besoins rencontrés par les entreprises. A savoir :
+L’objectif du Portail RSE est de répondre à plusieurs besoins rencontrés par les entreprises. A savoir :
 
 _ Disposer dans un seul espace des réglementations extra-financières pour lesquelles les entreprises doivent se conformer ;
 
@@ -54,4 +54,7 @@ Un produit numérique en ligne à destination des entreprises, pour centraliser 
 ## **Feuille de route**
 
 Prototypage de juin à décembre 2022.
+
 Lancement de la bêta : janvier 2023.
+
+Renommage de « Projet Impact » en « Portail RSE » : octobre 2023
