@@ -4,14 +4,15 @@ mission: Accompagner le développement du covoiturage au quotidien 🚘
 sponsors:
   - /organisations/dgitm
 incubator: mtes
-link: http://covoiturage.beta.gouv.fr/
+link: https://covoiturage.beta.gouv.fr/
 repository: https://github.com/betagouv/preuve-covoiturage
 contact: contact@covoiturage.beta.gouv.fr
 stats: true
 accessibility_status: non conforme
 usertypes:
   - collectivite-territoriale
-stats_url: https://stats.covoiturage.beta.gouv.fr/embed/dashboard/3bec1692-1456-41c2-95a9-6606af329df9
+stats_url: >-
+  https://stats.covoiturage.beta.gouv.fr/embed/dashboard/3bec1692-1456-41c2-95a9-6606af329df9
 dashlord_url: https://dashlord.incubateur.net/url/covoiturage-beta-gouv-fr/
 phases:
   - name: investigation
@@ -25,7 +26,6 @@ fast:
   promotion: 12
   montant: 300000
 ---
-
 Un résumé (2 min de lecture)
 
 # 1,43 personnes par véhicule seulement dans les déplacements "courte distance"
