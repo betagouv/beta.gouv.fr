@@ -14,7 +14,7 @@ missions:
     status: independent
     employer: LBC
   - start: 2023-06-26
-    end: 2023-10-26
+    end: 2024-03-31
     status: independent
     employer: Malt
 startups:
