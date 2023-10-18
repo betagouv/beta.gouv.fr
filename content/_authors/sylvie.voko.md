@@ -7,6 +7,8 @@ missions:
     end: 2024-03-15
     status: admin
 memberType: beta
+startups:
+  - precontentieux.justice
 ---
 
 Intrapreneuse incubateur justice
