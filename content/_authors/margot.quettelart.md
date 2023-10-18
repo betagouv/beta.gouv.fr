@@ -7,6 +7,7 @@ missions:
     end: 2023-12-31
     status: independent
     employer: ''
+github: margotqtl
 startups:
   - jeveuxaider
   - api-engagement
