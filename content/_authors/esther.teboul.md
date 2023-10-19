@@ -8,6 +8,6 @@ missions:
     end: 2024-04-16
     status: admin
     employer: DIPLP
-memberType: autre
+memberType: beta
 ---
 
