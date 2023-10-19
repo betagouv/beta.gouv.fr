@@ -5,7 +5,7 @@ role: Coach PM
 link: https://www.linkedin.com/in/boulangerarthur/
 missions:
   - start: 2021-06-21
-    end: 2023-10-15
+    end: 2023-11-30
     status: independent
     employer: Inop's
 startups:
