@@ -65,7 +65,7 @@ additional_js:
   <br>
   <br>
     <div class="fr-col-md-8 fr-col-sm-12 fr-col-lg-8">
-      <h3>Respect des standards de qualité</h3>
+      <h3 id="standards-qualite">Respect des standards de qualité</h3>
       <p>beta.gouv.fr tente d'améliorer la qualité des services numériques publics pour garantir aux citoyennes, citoyens et agents publics des solutions <b>sobres, ouvertes, accessibles, protectrices, sécurisées</b>. Pour cela, beta.gouv.fr a fixé un certain nombre de <b>standards de qualité</b> dont certains sont suivis ci-dessous. 
       </p>
       <p>
