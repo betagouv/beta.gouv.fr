@@ -9,7 +9,8 @@ sponsors:
 incubator: justice
 repository: https://github.com/betagouv/mon-suivi-justice
 contact: contact@mon-suivi-justice.beta.gouv.fr
-stats_url: https://mon-suivi-justice.beta.gouv.fr/stats
+stats_url: >-
+  https://msj-metabase.osc-secnum-fr1.scalingo.io/dashboard/25-page-de-statistiques-globale-publiques
 stats: true
 events:
   - name: product_launch
@@ -28,7 +29,7 @@ phases:
     start: 2022-10-01
   - name: acceleration
     start: 2023-04-01
-  - name: success
+  - name: acceleration
     start: 2023-10-03
 fast:
   promotion: 12
@@ -37,72 +38,63 @@ analyse_risques: true
 ---
 # **Éléments de contexte**
 
-Le suivi de l’insertion et de la probation des personnes qui font l’objet d’une peine alternative à l’incarcération ou de mesures d’aménagement de peine (« Personnes Placées Sous Main de Justice » ou PPSMJ) s’exerce sous la responsabilité conjointe des **tribunaux judiciaires (TJ)** et des **services pénitentiaires d’insertion et de probation (SPIP)**. Ce suivi au sein du « milieu ouvert » (c’est-à-dire en dehors de la détention) présente deux volets :
+Le suivi des probationnaires, géré conjointement par **les tribunaux judiciaires** (TJ) et **les services pénitentiaires d'insertion et de probation (SPIP)**, englobe deux volets essentiels : **la probation**, impliquant la supervision des peines en milieu ouvert (c’est à dire en dehors de la détention), et **l'insertion**, offrant un accompagnement individualisé aux personnes condamnées.
 
-* **La probation** : le contrôle de l’exécution des peines en milieu ouvert, assorties d’obligations (notamment de travail, de soins, d’indemnisation, d’accomplissement de travaux d’intérêt général) et d’interdictions (exemple : de rencontrer la victime, de paraître, de porter une arme).
-* **L’insertion** : le parcours d’exécution de la peine qui leur permet de bénéficier d’un accompagnement individualisé et les oblige à rendre compte de leurs démarches.
+En première ligne de ce service public à forte dimension sociale, les **juges d’application des peines** (JAP) décident de l’aménagement des peines de chaque condamné et **les conseillers pénitentiaires d’insertion et de probation** (CPIP) les accompagnent dans leur parcours individualisé au sein du milieu ouvert, par des rendez-vous réguliers, en général mensuels. À l’occasion de chacun de ces rendez-vous, les probationnaires doivent attester des démarches qu’ils entreprennent en présentant des justificatifs (attestation d’emploi, certificat de domiciliation, certificat médical par exemple). 
 
-En première ligne de ce service public à forte dimension sociale, les **juges d’application des peines** (JAP) décident de l’aménagement des peines de chaque condamné et **les conseillers pénitentiaires d’insertion et de probation** (CPIP) les accompagnent dans leur parcours individualisé au sein du milieu ouvert, par des rendez-vous réguliers, en général mensuels.
+La convocation à ces entretiens s’effectue majoritairement par **voie postale**.
 
-À l’occasion de chacun de ces rendez-vous, les PPSMJ doivent attester des démarches qu’elles entreprennent en présentant des justificatifs (attestation d’emploi, certificat de domiciliation, certificat médical par exemple).
-
-La convocation à ces entretiens s’effectue majoritairement par **voie postale**.
-
-Ce suivi en milieu ouvert, volet essentiel de la politique pénale, sert deux enjeux majeurs :
-
-* Permettre aux PPSMJ d’éviter l’incarcération ou le retour en détention ;
-*  Prévenir la récidive par la mise en place d’un parcours de réinsertion et, parallèlement, des mesures de contrôle des condamnés.
-
-Mon Suivi Justice est la première start-up en phase de transfert du ministère de la Justice.
+Mon Suivi Justice, première start d’Etat du ministère de la Justice, s’est donnée pour mission d’améliorer le suivi des personnes condamnées en milieu ouvert en les accompagnant dans leur (ré)insertion et en contribuant à réduire la récidive par la mise en place d’un parcours de réinsertion et, parallèlement, des mesures de contrôle des condamnés.
 
 # **Le problème**
 
-Chaque année, près de 9 000 convocations judiciaires ne sont pas honorées par les personnes condamnées et suivies par les services judiciaires de notre périmètre d’expérimentation : les Hauts-de-Seine. L’absentéisme des personnes placées sous main de justice est multifactoriel (oubli, mauvaise compréhension, absence de volonté). Ces absences représentent 30 à 40% des rendez-vous avec les CPIP et les JAP.
+L’**absentéisme aux convocations des JAP et des SPIP** représente, de manière globale, 30 à 40 % de l’ensemble des convocations émises par les CPIP et les JAP, créant ainsi une charge importante pour les agents des services d’application des peines (SAP) et des SPIP en charge de leur reconvocation et exposant les probationnaires à un risque de (ré)incarcération. 
 
-Le risque pour les PPSMJ ne se présentant pas aux rendez-vous est la révocation de leur mesure et l’incarcération.
+Chaque année, près de 9 000 convocations judiciaires ne sont pas honorées par les personnes condamnées et suivies par les services judiciaires de notre périmètre d’expérimentation : les Hauts-de-Seine. L’absentéisme des personnes placées sous main de justice est multifactoriel (oubli, mauvaise compréhension, absence de volonté). Ces absences représentent 30 à 40% des convocations des JAP et des CPIP.
 
-Pour les agents du ministère (CPIP, JAP, greffiers), cet absentéisme génère une désorganisation constante et la nécessité de reconvoquer les PPSMJ ce qui crée une surcharge de travail importante, assortie de coûts supplémentaires (courriers recommandés, convocation par officier de police judiciaire) et de délais significatifs.
+Pour les agents du ministère (CPIP, JAP, greffiers), cet absentéisme génère une désorganisation constante et la nécessité de reconvoquer les probationnaires ce qui crée une surcharge de travail importante, assortie de coûts supplémentaires (courriers recommandés, convocation par officier de police judiciaire) et de délais significatifs.
 
-Au-delà, cette inconstance des PPSMJ aux rendez-vous peut conduire à l’échec de la démarche de réinsertion et augmente le risque de récidive.
+Au-delà, cette inconstance des probationnaires aux convocations peut conduire à l’échec de la démarche de réinsertion et augmente le risque de récidive.
+
 
 # **La solution**
 
-Dans un premier temps, la start-up « Mon Suivi Justice » s’est fixée pour objectif de créer une solution permettant aux personnes placées sous main de justice d’honorer plus facilement leur convocation à un rendez-vous judiciaire.
+La start-up « Mon Suivi Justice » s’est fixée pour objectif de créer une solution numérique permettant aux probationnaires d’honorer plus facilement leur convocation devant le juge d’application des peines et le SPIP.
 
-Parmi les solutions identifiées depuis la création de la start-up, l'équipe s’est employée à développer et à tester les quatre outils suivants :
+Parmi les solutions identifiées, l’équipe s’est employée à développer et à tester les quatre outils suivants :
 
-* Un **outil de notification par SMS** et de rappel des convocations judiciaires (SPIP et JAP) ainsi que de la date des prochains rendez-vous ;
-* Une **plateforme destinée aux usagers** lui donnant accès à la fois aux informations des mesures auxquelles il fait face mais aussi aux coordonnées de ses interlocuteurs côté Justice;
-* Un **site public** permettant aux usagers de comprendre les modalités pratiques des convocations telles que les documents à apporter, le lieu, l’accessibilité ;
-* Un **outil de gestion des sorties d’audience** permettant aux agents d’organiser la prise de RDV devant le JAP ou le SPIP dès la condamnation et donnant lieu à l’envoi d’un SMS de convocation et de rappel aux PPSMJ.
-
-A l’écoute de ses usagers, l’équipe « Mon Suivi Justice » apporte des améliorations constantes aux outils développés et déployés.
+- Un **outil de notification et de rappel des convocations judiciaires** (SPIP et JAP) par SMS ;
+- Un **outil de gestion des sorties d’audience** permettant d’organiser la prise de convocations dès la condamnation et donnant lieu à l’envoi d’un SMS de convocation et de rappel aux probationnaires
+- Un **site public** d’information pour faciliter la compréhension et la préparation des convocations ;
+- Une **plateforme** offrant un suivi personnalisé aux probationnaires et l’accès à ses dates de convocations ainsi qu’à ses interlocuteurs.
 
 # **La stratégie**
 
-Un premier niveau de service a été développé sur le périmètre d’expérimentation des Hauts-de-Seine, en partenariat avec les agents du SPIP et du tribunal judiciaire de Nanterre. La solution ayant démontré son intérêt au sein de ce ressort, elle fait l’objet d’un déploiement progressif, actuellement en cours, sur la France entière (métropole et outre-mer).
+A l’issue d’une **expérimentation** à succès dans les Hauts-de-Seine, **trois phases d’accélération** ont permis de faire évoluer notre équipe, notre vision et nos outils, pour répondre aux mieux aux besoins des utilisateurs en fonction de leurs retours.
 
-La première phase de développement du produit a consisté en un test du dispositif sur 2 à 3 mois. Cette phase de test s’est fixé pour objectif de :
+La dernière phase d'accélération qui s’est achevée fin septembre 2023 a été particulièrement marquante. Grâce à l’accompagnement du programme FAST, nous avons repensé l'intégralité de notre processus de déploiement. Résultat : un déploiement simplifié en quelques étapes et pour partie automatisé.
 
-* Mesurer l'efficacité d'une solution de rappel des rendez-vous par SMS ;
-* Toucher un peu plus de 200 personnes suivies par les 5 conseillers de probation du SPIP 92, engagés dans l'expérimentation ;
-* Toucher un peu plus de 200 personnes condamnées par le TJ de Nanterre, en lien avec les juges d'application des peines et le service d’application des peines.
-* Développer un premier niveau de service numérique à destination des PPSMJ.
+Mon Suivi Justice entre désormais **dans une nouvelle phase de son évolution : celle de la pérennisation**. Nous préparons activement l’intégration de nos outils dans l’environnement numérique du ministère de la Justice. Cette étape présente de nombreux enjeux techniques et fonctionnels auxquels l’équipe va chercher à répondre en lien avec les directions métiers concernées.
 
- La deuxième phase dite d’**accélération** a débuté à compter du printemps 2022. Elle consiste à déployer les outils « Mon Suivi Justice » sur tous les ressorts métropolitains et outre-mer. A ce jour, 7 tribunaux judiciaires et 9 SPIP sont effectivement déployés. Dix autres services (SPIP ou TJ) sont en cours de déploiement.
+# **L’impact recherché**
 
-# **L’impact recherché sur les 6 prochains mois**
+Face au constat du fort absentéisme des probationnaires aux convocations devant le JAP et le SPIP, les outils « Mon Suivi Justice » ont notamment permis l’amélioration significative du taux de présence aux convocations (soit 74% de présence et 9% d’absences excusées de manière globale) et d’améliorer le système de prise de convocation en sortie d’audience (en évitant les convocations multiples sur un même horaire, en facilitant la communication entre la juridiction de jugement, le SAP et le SPIP).
 
-Face au constat du fort absentéisme des PPSMJ aux convocations devant le JAP et le SPIP (soit 9 000 rendez-vous manqués sur une année dans le département des Hauts-de-Seine soit 30 à 41% des convocations adressées), les outils « Mon Suivi Justice » ont permis :
+L’accélération du déploiement de nos outils a permis d’étendre considérablement l’utilisation de Mon Suivi Justice par les services ce qui nous a mis au défi de la mise à l’échelle. A cette fin, nous avons conçu un site à destinations des agents permettant à ceux-ci de s’informer et de se former aux outils Mon Suivi Justice, en toute autonomie.
 
-* L’amélioration significative du taux de présence aux convocations (soit 74% de présence et 9% d’absences excusées de manière globale) ;
-* La réduction visible des délais de convocation des PPSMJ en sortie d’audience devant le SPIP et le JAP (soit dans le département du Maine-et-Loire, un délai désormais d’une semaine au lieu d’un mois et demi).
+Avec 85 tribunaux judiciaires et services pénitentiaires déployés à ce jour, plus de 100 000 probationnaires bénéficient aujourd’hui du rappel de convocation par SMS. Près de 4 500 visiteurs s’informent chaque mois sur le déroulé de leur peine et l’accès aux services sur le site public dédié.
 
-Au 15 septembre 2022, c’est plus de 19 000 RDV qui ont été rappelés aux personnes suivies judiciairement soit 11 500 PPSMJ bénéficiaires.
+Enfin, la plateforme dédiée aux probationnaires et le déploiement de la sortie d’audience en inter-ressort (c’est à dire la convocation de la personne condamnée qui réside en dehors de la zone de compétence du tribunal qui l’a condamné), en début d’expérimentation, viennent perfectionner ce dispositif pour un suivi individualisé et efficace sur l’ensemble du territoire national.
 
-La start-up « Mon Suivi Justice » vise désormais à une accélération des déploiements au sein des SPIP et des SAP (service d’application des peines des tribunaux judiciaires), une consolidation de l’utilisation des outils développés dans les services déjà déployés concomitamment à une amélioration constante de ceux-ci. Les objectifs sont ainsi les suivants pour la période de six mois à venir :
+# Nos objectifs :
 
-* Embarquement de 30 nouveaux services dans l’expérience (SPIP ou TJ) et de plus de 50% des PPSMJ de chacun d’entre eux ;
-*  Le référencement sur le site public de l’intégralité des ressorts référencés et la multiplication des visites ;
-*  L’augmentation des activations de leur interface personnalisée par les PPSMJ ;
-*  Le déploiement des agendas partagés de sortie d’audience en inter-ressorts sur les périmètres de deux cour d’appel et le développement des mêmes possibilités en cas de sortie de détention.
+A ce stade, notre principal objectif est de fidéliser nos utilisateurs. La mise en place d’une stratégie de rétention grâce à des points de suivi réguliers, des formations individuelles et une communication actualisée sur nos outils doit nous permettre de maintenir le taux d’utilisation des outils MSJ après leur phase de déploiement.
+
+Nous poursuivons en outre nos efforts de déploiements notamment à l’égard des services localisés dans des zones géographiques ne disposant pas de Mon Suivi Justice ou ne disposant que d’une partie des outils. La recherche d’un taux de couverture intégral des tribunaux judiciaires et SPIP sur le site public complète nos objectifs pour cette période de 6 mois.
+
+# Envie d’en savoir plus ?
+
+Suivez notre parcours et nos réalisations grâce à nos sites publics d’information et de formation :
+
+- [https://mon-suivi-justice.beta.gouv.fr/](), où vous trouverez toutes informations utiles sur les services et le déroulement des peines ;
+- [https://decouvrir.mon-suivi-justice.beta.gouv.fr/](), où vous trouverez des actualités, tutoriels vidéos, témoignages d’utilisateurs pour connaître en détail notre produit.
