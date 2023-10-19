@@ -72,13 +72,13 @@ additional_js:
       Ces tableaux de bords d'animation et de pilotage du réseau beta.gouv.fr de <b>mieux guider leurs efforts et priorités</b> pour aider les produits qui en ont le plus besoin et améliorer ce qui peut l'être.
       </p>
       <div class="fr-highlight">
-        <p class="fr-text">
-          Précisions sur les différentes phases de produit<br><br>
-          - <b>Construction</b> : Nous constituons une équipe pour lancer une solution rapidement et la tester auprès de premiers usagers.<br>
-          - <b>Accélération</b> : L’équipe déploie le service sans cesser de l’améliorer pour en accroître l’impact.<br>
-          - <b>Transfert</b> : Le service, à présent disponible pour tous et mature, rejoint une structure propice à sa pérennisation.<br>
-          - <b>Pérénnisé</b> : Le service est devenu un service public numérique national disponible pour tous.
-        </p>
+        <p class="fr-text">Précisions sur les différentes phases de produit</p>
+          <ul>
+          <li><b>Construction</b> : Nous constituons une équipe pour lancer une solution rapidement et la tester auprès de premiers usagers.</li>
+          <li><b>Accélération</b> : L’équipe déploie le service sans cesser de l’améliorer pour en accroître l’impact.</li>
+          <li><b>Transfert</b> : Le service, à présent disponible pour tous et mature, rejoint une structure propice à sa pérennisation.</li>
+          <li><b>Pérénnisé</b> : Le service est devenu un service public numérique national disponible pour tous.</li>
+        </ul>
       </div>
       <br>
     </div>
