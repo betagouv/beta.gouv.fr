@@ -1,6 +1,7 @@
 ---
 title: Mes aides à l'embauche
-mission: Faciliter le recrutement en informant l’employeur au bon moment sur l'aide la plus adaptée à la situation de son recrutement
+mission: Faciliter le recrutement en informant l’employeur au bon moment sur
+  l'aide la plus adaptée à la situation de son recrutement
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
@@ -18,6 +19,8 @@ phases:
     end: 2022-03-01
   - name: acceleration
     start: 2022-10-03
+  - name: transfer
+    start: 2023-10-20
 ---
 # **Contexte :**
 
