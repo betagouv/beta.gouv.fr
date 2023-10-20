@@ -14,13 +14,13 @@ missions:
     status: admin
     employer: affaires-sociales
 startups:
-    - moncomptepro
+  - moncomptepro
 previously:
-    - e-mjpm
-    - codedutravail
-    - workinfrance
-    - domifa
-    - tremplin
+  - e-mjpm
+  - codedutravail
+  - workinfrance
+  - domifa
+  - tremplin
 
 ---
 
