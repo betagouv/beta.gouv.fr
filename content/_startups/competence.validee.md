@@ -27,6 +27,7 @@ phases:
     end: 2022-08-31
   - name: success
     start: 2022-09-05
+    end: 2023-10-20
   - name: transfer
     start: 2023-06-30
 ---
