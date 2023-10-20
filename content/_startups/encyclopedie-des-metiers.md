@@ -20,7 +20,7 @@ phases:
     start: 2022-10-16
   - name: success
     start: 2023-10-20
-    end: 2023-10-20
+    end: ""
 ---
 ### Problème
 
