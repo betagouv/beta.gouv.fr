@@ -1,54 +1,54 @@
 ---
 title: Médiation logement
-mission: Améliorer la gestion des litiges locatifs
+mission: Résoudre les litiges locatifs entre locataires et bailleurs par la médiation.
 sponsors:
   - /organisations/dgaln
   - /organisations/mtes
 incubator: mtes
-contact: remy.roche@developpement-durable.gouv.fr
+contact: caroline.mulot@developpement-durable.gouv.fr
 stats: false
 accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-05-01
-    end: 2023-07-31
+  - name: construction
+    start: 2023-11-01
 ---
 ## Contexte
+Les Commission Départementales de Conciliation (CDC) aident les propriétaires et les locataires à trouver une solution amiable à leur litige. Sa saisine est gratuite et est obligatoire pour certains types de litiges avant de faire appel au juge.
 
-La commission départementale de conciliation (CDC) est une instance qui aide les propriétaires et les locataires à trouver une solution amiable à leur litige. Elle intervient gratuitement et est obligatoire pour certains types de litiges avant de faire appel au juge.
+Au national, les CDC traitent 8000 dossiers par an (+19% en 6 ans). Les motifs principaux sont le dépôt de garantie (52%), les réparations (19%) et les charges (13%).
 
-## Problèmes
+## Problème
+Le rapport national analyse l'activité des CDC indique que le taux de saisine par rapport à la population globale des département est faible. 
 
-La CDC du 93 constate des problèmes dans la réalisation de ses fonctions à plusieurs égards : 
+Dans le 93 (notre terrain d'expérimentation), 300 dossiers sont envoyés à la CDC chaque année. 
 
-1. Identification et compréhension de la CDC
+Les locataires et bailleurs de logements du 93 n’ayant pas su régler leur différend d’ordre locatif à l’amiable, ne savent pas quoi entreprendre pour le résoudre.
 
-   1. Hypothèse 1.1 : La CDC est très mal connue. Les personnes ayant un litige avec leur bailleur ne savent pas vers quelle instance se tourner pour le traiter.
-   2. Hypothèse 1.2 : Même quand elle est connue, les prérogatives de la CDC sont mal comprises (ex : rôle, limite). Ce que les usagers peuvent attendre de la CDC n’est donc pas clair.
-2. Dépôt et suivi du dossier usager
+La CDC 93 reçoit 300 dossiers par an. Une enquête locale nous a permis d'établir l'ordre de grandeur selon lequel la CDC traiterait environ 1% des conflits locatifs non résolus.
 
-   1. Hypothèse 2.1 : Si l'usager s'écarte du chemin principal de dépôt du dossier*, cela devient une expérience compliquée et exige de faire de nombreux allers-retours, ce qui peut être pénible à la fois pour l'usager et pour la CDC.
+Notamment à cause :
+1. d’une méconnaissance de la CDC et autres outils administratifs,
+2. d’une incompréhension de leurs droits et devoirs, ainsi que leurs possibilités d’action
+3. de craintes d’un résultat décevant et des implications d’une démarche administrative
 
-      \*\* chemin principal : email ou appel direct (pas courrier) à la CDC du 93.*
-   2. Hypothèse 2.2 : Du point de vue de l’usager, il n’existe aucun suivi du dossier entre l’accusé de réception (instruction) et la convocation à la commission.
-3. Traitement du dossier
-
-   1. Hypothèse 3.1 : Le temps de traitement du dossier est perçu comme beaucoup trop long par les usagers. La commission arrivant même parfois trop tard, n’ayant plus de raison d’être (perte de contact voire abandon).
-   2. Hypothèse 3.2 : Les usagers ne sont pas satisfaits par la qualité de traitement de leur dossier par la CDC. Le traitement administratif, l’accompagnement des usagers et/ou l’issue de la commission ne leur donne pas satisfaction. La nature des outils de la CDC a un impact négatif sur la qualité de traitement (générateur d’erreur, et chronophage).
-
-note : Les problèmes et les hypothèses ne sont pas hiérarchisés. Il s’agira de choisir 1 problème à adresser avec notre projet. La sélection se faisant conjointement par la mesure de l’impact potentiel et la volonté de l’équipe à adresser le problème.
 
 ## Solution
+Médiation logement est un produit numérique à destination des locataires et bailleurs en situation de litige. 
 
-A déterminer en fonction des apprentissages et choix stratégiques à venir.
+La solution les aide pour qualifier le litige, leur fournit les informations adaptées et les accompagne vers l’action de résolution.
+
+Lorsque nécessaire, elle assure la réorientation vers la CDC.
+
 
 ## Bénéficiaires
+Notre phase de construction a pour terrain d'expérimentation le 93, ainsi :
 
-* Personnes ayant un litige locatif ayant fait appel ou non à la commission de conciliation (usager/e requérant et potentiel/le usager/e)
-* Instructeur/ice de la CDC
+* Les locataires et bailleurs de logements du 93 qui ont un litiges non résolu.
+* Instructeur/ices de la CDC 93
+
 
 ## Stratégie
 
-Pour la phase d’investigation, nous menons des entretiens structurés avec des usager/es requérants passés en commission, des associations de locataires, et des instructeur/ices de CDC de plusieurs départements.
-
-L'analyse de ces entretiens nous permettra de choisir le problème à adresser, et de commencer à réaliser sa solution.
+En ce début de phase de construction (Novembre 2023), nous comptons aider des parties en litige sans perspective de résolution à hauteur de 20 dossiers par mois à partir du déploiement de la solution. Volume similaire à celui de la CDC 93.
