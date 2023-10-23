@@ -10,7 +10,7 @@ incubator: mission-apprentissage
 link: https://cfas.apprentissage.beta.gouv.fr
 repository:
 contact: tableau-de-bord@apprentissage.beta.gouv.fr
-stats_url: https://cfas.apprentissage.beta.gouv.fr/statistiques
+stats_url: https://cfas.apprentissage.beta.gouv.fr/stats
 stats: true
 events: []
 phases:
