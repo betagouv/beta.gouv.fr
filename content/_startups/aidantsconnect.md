@@ -60,4 +60,4 @@ Ce dispositif permettra un suivi des actions réalisées sur le compte de la per
 ## Pour aller plus loin
 
 Pour en savoir plus, [inscrivez-vous à notre démonstration hebdomadaire de l'outil Aidants Connect](https://app.livestorm.co/incubateur-des-territoires/aidants-connect).
-N'hésitez pas à consulter [le wiki](https://github.com/betagouv/Aidants_Connect/wiki) et à contribuer sur [le forum](https://forum.societenumerique.gouv.fr/category/8/aidants-connect) !..
+N'hésitez pas à consulter [le wiki](https://github.com/betagouv/Aidants_Connect/wiki) et à contribuer sur [le forum](https://forum.societenumerique.gouv.fr/category/8/aidants-connect) !test
