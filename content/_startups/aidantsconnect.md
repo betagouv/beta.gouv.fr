@@ -1,7 +1,9 @@
 ---
 title: Aidants Connect
-mission: Réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule
-sponsors: 
+mission: >-
+  Réaliser des démarches administratives en ligne à la place d’une personne ne
+  parvenant pas à les faire seule
+sponsors:
   - /organisations/anct
 incubator: anct
 phases:
@@ -22,7 +24,6 @@ usertypes:
 dashlord_url: https://dashlord.incubateur.net/url/aidantsconnect-beta-gouv-fr/
 accessibility_status: non conforme
 ---
-
 ## Contexte
 
 Lors de la phase de consultation de la Stratégie Nationale pour un Numérique inclusif a été soulignée l’importance de la sécurisation juridique de l’ensemble des aidants numériques (Haut Conseil du Travail Social, médiateurs numériques, intervenants sociaux, agents d’accueil en collectivité territoriale, etc.) tant pour orienter et accompagner les usagers en difficulté que pour les aider à effectuer leurs démarches administratives.
@@ -59,4 +60,4 @@ Ce dispositif permettra un suivi des actions réalisées sur le compte de la per
 ## Pour aller plus loin
 
 Pour en savoir plus, [inscrivez-vous à notre démonstration hebdomadaire de l'outil Aidants Connect](https://app.livestorm.co/incubateur-des-territoires/aidants-connect).
-N'hésitez pas à consulter [le wiki](https://github.com/betagouv/Aidants_Connect/wiki) et à contribuer sur [le forum](https://forum.societenumerique.gouv.fr/category/8/aidants-connect) !
+N'hésitez pas à consulter [le wiki](https://github.com/betagouv/Aidants_Connect/wiki) et à contribuer sur [le forum](https://forum.societenumerique.gouv.fr/category/8/aidants-connect) !..
