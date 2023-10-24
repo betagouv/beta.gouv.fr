@@ -1,24 +1,25 @@
 ---
 title: Transition Écologique des Entreprises
 mission: Guider les entreprises dans leur transition écologique
-sponsors: 
- - /organisations/ademe
+sponsors:
+  - /organisations/ademe
 incubator: ademe
 usertypes:
   - entreprise
-phases: 
+phases:
   - name: investigation
     start: 2023-02-27
     end: 2023-03-30
   - name: construction
     start: 2023-03-30
-link: 
-repository: # ou page de description des dépôts s'il y en a plusieurs
-stats: false # mettre à true pour renvoyer vers ta page de stats. Attention, elle doit se trouver sur [url du site]/stats !
-stats_url: # optionnel, si stats est à true, alors tu peux indiquer vers quelle URL pointer vers tes stats.
+link: http://mission-transition.beta.gouv.fr/
+repository: https://github.com/betagouv/transition-ecologique-entreprises-widget
+stats: false
+stats_url: >-
+  https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=194&period=day&date=yesterday#?idSite=194&period=day&date=yesterday&segment=&category=Dashboard_Dashboard&subcategory=1
 contact: jeanbaptiste.ledevehat.ext@ademe.fr
+accessibility_status: non conforme
 ---
-
 Le service public Transition Écologique des Entreprises est un guichet d'accueil, d'aide et d'accompagnement dans la transition écologique des entreprises.
 
 ## Problèmes
@@ -59,4 +60,5 @@ La Startup d'Etat est portée par l'ADEME à travers son [incubateur](https://be
 - Apporter un service aux opérateurs (ADEME, BPI, CDC...), à commencer par des statistiques, ayant des offres aux entreprises afin de mieux les cibler et d'avoir également une vision d'ensemble sur les dispositifs existants.
 
 **Mesure d'actionnabilité** : Entreprise qui a été réorienté, a candidaté et a bénéficié d'une aide d'un opérateur public à travers la plateforme
+
 **Mesure d'impact** : Augmenter le nombre d’entreprises qui bascule dans la transition écologique à travers les aides publiques
