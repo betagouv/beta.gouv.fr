@@ -13,6 +13,7 @@ missions:
     end: 2023-12-29
 startups:
   - urbanvitaliz
+  - recoco
 badges: null
 competences:
   - Communication

@@ -13,6 +13,9 @@ startups:
   - itou
   - reva
 memberType: beta
+previously:
+  - itou
+  - inclusion.connect
 ---
 
 Consultant cybersécurité depuis 1998, fan de concerts indie et de voyages

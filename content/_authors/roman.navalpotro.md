@@ -10,6 +10,7 @@ missions:
     employer: NUMA
 startups:
   - zero-logement-vacant
+  - sante-psy-etudiant
 badges:
   - segur
 ---

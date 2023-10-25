@@ -1,6 +1,6 @@
 ---
 fullname: Julien Dauphant
-role: Directeur technique et produits
+role: Directeur Technique et Produits
 link: https://twitter.com/jdauphant
 github: jdauphant
 missions:
@@ -12,15 +12,14 @@ missions:
     end: 2026-08-31
     status: admin
     employer: dinum
-startups:
-  - tchap
-  - authentification
-  - audioconf
 previously:
   - aplus
   - signalement
   - plante-et-moi
   - e-controle
+  - tchap
+  - authentification
+  - audioconf
 badges:
   - segur
 domaine: Animation

@@ -10,11 +10,11 @@ missions:
     status: independent
     employer: UT7
 startups:
-  - sante-psy-etudiant
   - la.bonne.renov
   - chauffage-urbain
 previously:
   - aides.jeunes
+  - sante-psy-etudiant
 competences:
   - Développement Frontend
   - Développement Backend
