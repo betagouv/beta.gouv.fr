@@ -12,5 +12,9 @@ badges:
   - segur
 competences:
   - Croissance
+startups:
+  - oots.once-only.technical.system
+previously:
+  - aidantsconnect
 ---
 
