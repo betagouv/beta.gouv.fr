@@ -13,7 +13,8 @@ missions:
     employer: dinum
 startups:
   - le-taxi
-  - sante-psy-etudiant
+previously:
+ - sante-psy-etudiant
 badges:
   - segur
 teams:
