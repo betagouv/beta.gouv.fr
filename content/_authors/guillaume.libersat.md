@@ -10,6 +10,7 @@ missions:
     employer: ''
 startups:
   - urbanvitaliz
+  - recoco
 domaine: Développement
 ---
 
