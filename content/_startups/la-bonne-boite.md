@@ -1,9 +1,7 @@
 ---
 title: La Bonne Boite
-mission: Mettre en visibilité le marché caché de l'emploi grâce à un service qui
-  favorise les candidatures spontanées des demandeurs d'emploi et qui candidate
-  en suggérant des entreprises à fort potentiel d’embauche selon le lieu
-  géographique choisi
+mission: Favoriser les candidature spontanées en suggérant les entreprises à
+  fort potentiel d'embauche selon le lieu géographie choisi.
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
@@ -28,6 +26,12 @@ phases:
   - name: acceleration
     start: 2023-01-19
 ---
-Le saviez-vous ? Seules 20% des embauches sont le fruit d'une rencontre entre une offre d'emploi et une demande ! **80% du marché de l'emploi est dit « caché »**, et relève des **candidatures spontanées** et des cooptations.
+Le saviez-vous ?Le marché caché de l’emploi représente **plus de 40% des recrutements** ( Sur 7 millions de recrutement , 3 millions s'est fait via la marché caché en 2020)!
 
-Avec La Bonne Boite, ne cherchez plus une offre d'emploi, trouvez plutôt les entreprises qui vont recruter près d'une adresse ! Mieux qu'un simple annuaire, La Bonne Boite cible les entreprises ayant des perspectives d'embauches élevées. Ce ciblage est obtenu par l'analyse de millions de recrutements sur toutes les entreprises. Pour chaque entreprise à fort potentiel d'embauche, des recommandations permettent de choisir le meilleur canal pour obtenir un rendez-vous.
+**L﻿e produit :**
+
+Avec La Bonne Boite, ne cherchez plus une offre d'emploi, trouvez plutôt les entreprises qui vont recruter près d'une adresse !
+
+Mieux qu'un simple annuaire, La Bonne Boite cible les entreprises ayant des perspectives d'embauches élevées. Ce ciblage est obtenu par l'analyse de millions de recrutements sur toutes les entreprises. Pour chaque entreprise à fort potentiel d'embauche, des recommandations permettent de choisir le meilleur canal pour obtenir un rendez-vous.
+
+Depuis novembre 2022, intégration de La bonne boite dans l'application "Mes Offres"  de Pole Emploi. L'application identifie les intérêts de l'utilisateur en fonction des offres qu'il a consultées, et propose un carrousel d’entreprises qui recrutent (issues de La Bonne Boite).
