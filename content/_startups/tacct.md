@@ -1,19 +1,19 @@
 ---
 title: TACCT
-mission: "un véritable service autour de la méthodologie TACCT, pour aider les
+mission: >-
+  un véritable service autour de la méthodologie TACCT, pour aider les
   territoires à monter en compétence et gagner en autonomie sur la thématique
-  Adaptation au changement climatique "
+  Adaptation au changement climatique 
 sponsors:
   - /organisations/ademe
 incubator: ademe
 link: https://tacct.ademe.fr/
-contact: aude.bodiguel@ademe.fr
+contact: tacct@ademe.fr
 accessibility_status: non conforme
 events: []
 phases:
   - name: investigation
     start: 2023-02-01
-    end: 2023-03-31
 ---
 ## Contexte
 
