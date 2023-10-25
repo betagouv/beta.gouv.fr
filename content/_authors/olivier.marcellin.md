@@ -1,6 +1,6 @@
 ---
 fullname: Olivier Marcellin
-role: UX Designer
+role: UX/UI Designer, recherche utilisateurs
 domaine: Design
 github: olivier-marcellin
 missions:
