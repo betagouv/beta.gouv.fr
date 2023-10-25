@@ -9,6 +9,7 @@ missions:
     status: independent
 startups:
     - urbanvitaliz
+    - recoco
 previously:
     - transport
     - cartobio
