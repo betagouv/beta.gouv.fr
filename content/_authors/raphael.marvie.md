@@ -7,6 +7,7 @@ missions:
     status: independent
 startups:
   - urbanvitaliz
+  - recoco
 domaine: Développement
 github: rmarvie
 ---
