@@ -13,8 +13,8 @@ phases:
   - name: construction
     start: 2018-03-19
   - name: acceleration
-    start: 2020-12-31   
-events: 
+    start: 2020-12-31
+events:
   - name: national_impact
     date: 2021-12-31
 link: https://labonnealternance.apprentissage.beta.gouv.fr
@@ -28,9 +28,10 @@ usertypes:
   - particulier
   - entreprise
   - etablissement-scolaire
-dashlord_url: https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
+dashlord_url: >-
+  https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
+accessibility_status: non conforme
 ---
-
 [La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/) est un service destiné à faciliter la mise en relation des jeunes, des centres de formation d’apprentis (CFA) et des entreprises. D’abord développé par Pôle emploi, le service La bonne alternance a été repris en 2020 par la Mission interministérielle pour l’apprentissage et les trajectoires professionnelles dans l’objectif de renforcer l'accompagnement des jeunes intéressés par l'apprentissage, ainsi que des CFA et recruteurs accueillant des apprentis.
 
 ## Le constat
