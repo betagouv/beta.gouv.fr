@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: UT7
   - start: 2021-11-01
-    end: 2024-12-01
+    end: 2023-10-31
     status: independent
     employer: omnicite
 startups:
