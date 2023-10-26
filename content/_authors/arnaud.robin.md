@@ -10,7 +10,7 @@ missions:
     employer: DINUM
 memberType: beta
 teams:
-  - /teams/communaute-dinum
+  - /teams/animation-dinum
   - /teams/fast-dinum
 ---
 
