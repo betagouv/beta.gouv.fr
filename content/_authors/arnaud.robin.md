@@ -9,6 +9,9 @@ missions:
     status: admin
     employer: DINUM
 memberType: beta
+teams:
+  - /teams/communaute-dinum
+  - /teams/fast-dinum
 ---
 
 Chargé d'accélération FAST
