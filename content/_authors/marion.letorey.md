@@ -1,6 +1,6 @@
 ---
 fullname: Marion Letorey
-role: Chargée de portefeuille
+role: Chargée de déploiement
 domaine: Autre
 github: maroox
 missions:
