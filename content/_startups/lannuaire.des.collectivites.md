@@ -15,7 +15,8 @@ phases:
     end: 2023-02-28
   - name: acceleration
     start: 2023-03-01
-    end: 2023-06-30
+    end: 2024-02-29
+    comment: Lauréat du Programme FAST
 fast:
   promotion: 13
   montant: 300000
