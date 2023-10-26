@@ -69,7 +69,7 @@ layout: default
           {% unless phase.status == 'investigation' %}
           <div class="fr-py-1w">
             <b>Indicateurs de qualité</b>
-            <ul style="list-style-type: none; padding: 0; margin-bottom: 0">
+            <ul style="list-style-type: none; padding: 0;">
               {% capture accessibilite_indicator %}
                 {% if page.accessibility_status %}
                   <li><span class="fr-badge fr-text--xs {% if page.accessibility_status == 'conforme' %}fr-badge--success{% endif %}">Accessibilité : {{ page.accessibility_status }}</span></li>
@@ -114,7 +114,7 @@ layout: default
               {{ indicateurs_qualite_warning }}
               </ul>
 
-              <p class="fr-text--xs"><a href="/stats">En savoir plus sur nos indicateurs</a></p>
+              <p class="fr-text--xs"><a class="fr-link--sm" href="/stats">En savoir plus sur nos indicateurs</a></p>
           </div>
           <div class="fr-py-1w">
             <b>Transparence</b>
