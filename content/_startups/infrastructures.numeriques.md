@@ -4,7 +4,7 @@ mission: Outiller les collectivités et les services de l’Etat afin de permett
   numérique.
 incubator: anct
 repository: https://gitlab.com/incubateur-territoires/startups/infrastructures-numeriques/infra-num
-contact: contactincubateur@anct.gouv.fr
+contact: tous-connectes@anct.gouv.fr
 usertypes:
   - collectivite-territoriale
   - etat
