@@ -32,11 +32,11 @@ Il y a une forte attente vis-à-vis des collectivités territoriales pour ouvrir
 
 De même, les collectivités territoriales elles-mêmes sont demandeuses d’utilisation des données pour mieux répondre à leurs missions, sans avoir là non plus toujours les moyens humains et techniques pour le faire
 
-La manipulation de données se fait souvent aujourd’hui de façon isolée (fichiers Excel sur le poste d’un agent), ayant pour conséquence une grande perte de temps dans le traitement de ces données : fichiers non normalisés donc beaucoup d’erreurs, difficile à partager, à corriger, à tenir à jour, etc. 
+La manipulation de données se fait souvent aujourd’hui de façon isolée (fichiers Excel sur le poste d’un agent), ayant pour conséquence une grande perte de temps dans le traitement de ces données : fichiers non normalisés donc beaucoup d’erreurs, difficile à partager, à corriger, à tenir à jour, etc.
 
 Très souvent, les agents doivent saisir de la donnée pour un autre usage que le leur, ce qui est une perte de temps et un motif de frustration, par ailleurs la donnée qu’on saisit sans en comprendre la finalité est souvent mal saisie
 
-Données et Territoires intervient dans le but d'aider à faciliter la remontée d'information et à rendre les données publiques. Cela permet de soulager les personnes devant saisir ou collecter les informations, leur laissant la possibilité de se concentrer sur des questions au cœur de leur métier, et aux personnes devant consulter ces données d'obtenir rapidement les données les plus à jour.
+Données et Territoires intervient dans le but d'aider à faciliter la remontée d'information et à rendre les données publiques. Cela permet de soulager les personnes devant saisir ou collecter les informations, leur laissant la possibilité de se concentrer sur des questions au cœur de leur métier, et à n'importe qui d'obtenir rapidement les données publiques les plus fraîches.
 
 <img width="700" alt="image001" src="https://github.com/betagouv/beta.gouv.fr/assets/371705/ccb0a93f-7dc1-4b03-a678-007c8edd6272">
 
