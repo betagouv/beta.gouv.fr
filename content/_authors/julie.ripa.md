@@ -14,7 +14,6 @@ missions:
     employer: ANCT
 startups:
   - données-et-territoires
-  - lannuaire.des.collectivites
 badges:
   - segur
 competences:
