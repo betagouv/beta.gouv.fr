@@ -13,8 +13,8 @@ phases:
   - name: construction
     start: 2018-03-19
   - name: acceleration
-    start: 2020-12-31   
-events: 
+    start: 2020-12-31
+events:
   - name: national_impact
     date: 2021-12-31
 link: https://labonnealternance.apprentissage.beta.gouv.fr
@@ -28,9 +28,9 @@ usertypes:
   - particulier
   - entreprise
   - etablissement-scolaire
-dashlord_url: https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
+dashlord_url: >-
+  https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
 ---
-
 [La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/) est un service destiné à faciliter la mise en relation des jeunes, des centres de formation d’apprentis (CFA) et des entreprises. D’abord développé par Pôle emploi, le service La bonne alternance a été repris en 2020 par la Mission interministérielle pour l’apprentissage et les trajectoires professionnelles dans l’objectif de renforcer l'accompagnement des jeunes intéressés par l'apprentissage, ainsi que des CFA et recruteurs accueillant des apprentis.
 
 ## Le constat
@@ -55,7 +55,7 @@ Concernant les fonctionnalités, sont développés :
 - [Un service d’envoi de candidatures “Je candidate”](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/faciliter-et-simplifier-la-mise-en-relation-entre-candidats-et-entreprises) : sans création de compte, les candidats peuvent postuler auprès des entreprises qui les intéressent, aussi bien sur les offres d’emploi que sur les entreprises ciblées par nos algorithmes et auprès desquelles il est possible d’émettre une candidature spontanée - ce service offre ensuite aux recruteurs une solution de réponse rapide aux candidats ;
 - [Des modules d’accompagnement](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/accompagner-les-futurs-apprentis) à la prise de contact avec un CFA, la recherche d’une entreprise d’accueil ou encore la préparation à un entretien d’embauche sont proposés sur le parcours des jeunes pour les aider à concrétiser leur envie d’entrer en alternance.
 
-Par ailleurs, afin de faciliter l’accompagnement des parties prenantes de l’alternance, le service La bonne alternance existe sous forme d’API et de widget. Tout ou partie des données sont ainsi exposées sur les sites particulièrement consultés par les jeunes (Parcoursup, Affelnet, 1 jeune 1 solution, ONISEP, ...) ou ceux utilisés par les entreprises (sites des OPCO, de partenaires institutionnels). La documentation sur les API et widgets est à retrouver [ici](https://api.gouv.fr/les-api/api-la-bonne-alternance).
+Par ailleurs, afin de faciliter l’accompagnement des parties prenantes de l’alternance, le service La bonne alternance existe sous forme d’API et de widget. Tout ou partie des données sont ainsi exposées sur les sites particulièrement consultés par les jeunes (Parcoursup, Affelnet, 1 jeune 1 solution, ONISEP, ...) ou ceux utilisés par les entreprises (sites des OPCO,  du Portail de l'alternance, de partenaires institutionnels). La documentation sur les API et widgets est à retrouver [ici](https://api.gouv.fr/les-api/api-la-bonne-alternance).
 
 
 ## Les bénéfices attendus
