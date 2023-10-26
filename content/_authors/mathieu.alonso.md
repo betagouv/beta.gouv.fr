@@ -1,15 +1,18 @@
 ---
 fullname: Mathieu Alonso
-role: Product Manager
 domaine: Produit
+role: Product Manager
 link: https://www.linkedin.com/in/mathieualonso/
 missions:
   - start: 2023-09-11
     end: 2024-03-11
     status: independent
+incubator: anct
+competences:
+  - Gestion de Produit
+  - Communication
+memberType: autre
 startups:
   - lannuaire.des.collectivites
-memberType: autre
 ---
-
-Product Manager. Bordeaux.
+Product Manager basé à Bordeaux
