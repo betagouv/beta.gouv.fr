@@ -9,6 +9,8 @@ missions:
     end: 2024-07-01
     status: admin
     employer: ANCT
+startups:
+  - lannuaire.des.collectivites
 competences:
   - Administration Publique
 teams:
