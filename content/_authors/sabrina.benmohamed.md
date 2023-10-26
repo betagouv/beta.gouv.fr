@@ -8,6 +8,7 @@ missions:
     status: independent
     employer: Dinum
 startups:
+previously:
   - pilotage.de.linclusion
 memberType: beta
 ---
