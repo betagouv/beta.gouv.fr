@@ -1,7 +1,7 @@
 ---
 fullname: Mélodie Dahi
 domaine: Coaching
-role: Coach & Designer de service
+role: Coach d'équipes produit
 github: MelodieDahi
 missions:
   - start: 2018-03-13
@@ -24,16 +24,18 @@ missions:
     end: 2023-12-31
     status: admin
     employer: dinum
+incubator: dinum
 startups:
-  - pass.engagement.jeune
   - valorisation.des.stages.pro
 previously:
   - setaccords
   - territoires-en-transitions
   - zam
   - visam
+  - pass.engagement.jeune
+  - logement-crise
 competences:
   - Coaching
-  - Gestion de produit
-  - Croissance
+  - Gestion de Produit
+  - Administration Publique
 ---
