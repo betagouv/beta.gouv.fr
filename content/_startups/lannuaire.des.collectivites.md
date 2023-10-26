@@ -6,7 +6,7 @@ sponsors:
 incubator: anct
 link: https://collectivite.fr/
 repository: https://gitlab.com/incubateur-territoires/startups/annuaire-des-collectivites
-contact: mathieu.alonso.prestataire@anct.gouv.fr
+contact: contact@collectivite.fr
 dashlord_url: https://dashlord.incubateur.net/tag/anct/
 accessibility_status: partiellement conforme
 phases:
