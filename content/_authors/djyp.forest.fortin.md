@@ -1,17 +1,18 @@
 ---
 fullname: Djyp Forest Fortin
-role: Développeur
 domaine: Développement
-link: http://djyp.tbnk.ca
 github: Djyp
+link: http://djyp.tbnk.ca
 missions:
   - start: 2023-07-01
     end: 2023-12-31
     status: independent
     employer: LittleBig Connection
-startups:
-  - lannuaire.des.collectivites
+competences:
+  - Développement Backend
+  - Développement Frontend
 memberType: beta
+role: Développeur
+startups: []
 ---
-
-Développeur Freelance spécialisé Symfony
+Développeur Freelance Symfony
