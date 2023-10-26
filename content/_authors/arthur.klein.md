@@ -8,7 +8,6 @@ missions:
     status: independent
     employer: Numa
 startups:
-  - maisondessinpresse
 memberType: beta
 ---
 
