@@ -1,20 +1,18 @@
 ---
-mission: >-
-  Libérer du temps pour l'accompagnement social grâce à une solution simple,
-  intuitive et sécurisée.
+title: Mon suivi social
+mission: Libérer du temps pour l'accompagnement social grâce à une solution
+  simple, intuitive et sécurisée.
+sponsors:
+  - /organisations/anct
 incubator: anct
+link: https://monsuivisocial.incubateur.anct.gouv.fr/
 repository: https://gitlab.com/incubateur-territoires/startups/monsuivisocial
 contact: monsuivisocial@anct.gouv.fr
 accessibility_status: non conforme
 usertypes:
   - collectivite-territoriale
-title: Mon suivi social
-sponsors:
-  - /organisations/anct
-link: https://monsuivisocial.incubateur.anct.gouv.fr/
 stats: false
-dashlord_url: >-
-  https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/monsuivisocial-incubateur-anct-gouv-fr/
+dashlord_url: https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/monsuivisocial-incubateur-anct-gouv-fr/
 phases:
   - name: investigation
     start: 2021-06-01
@@ -38,7 +36,7 @@ Ce prototype a été testé auprès d'autres CCAS et les besoins ont été confi
 
 ### Stratégie
 
-1 - La construction d'une version beta de la solution (**interface agent**) a débuté en mars 2022 et sera mise en test auprès d'une dizaine de structure dans les prochaines semaines.
+1 - La construction d'une version beta de la solution (**interface agent**) a débuté en mars 2022 et sera mise en test auprès d'une dizaine de structure dans les prochaines semaines. 
 
 Les premières fonctionnalités expérimentées porteront sur :
 
