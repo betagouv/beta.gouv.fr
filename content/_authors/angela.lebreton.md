@@ -10,8 +10,6 @@ missions:
 startups:
   - jeveuxaider
 memberType: beta
-previously:
-  - jeveuxaider
 ---
 
 Chargée de déploiement JeVeuxAider
