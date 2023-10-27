@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Scopyleft
 startups:
-  - histologe
+  - stop-punaises
 memberType: beta
 ---
 
