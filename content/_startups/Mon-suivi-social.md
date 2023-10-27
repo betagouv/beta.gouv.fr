@@ -3,7 +3,6 @@ mission: >-
   Libérer du temps pour l'accompagnement social grâce à une solution simple,
   intuitive et sécurisée.
 incubator: anct
-repository: https://gitlab.com/incubateur-territoires/startups/monsuivisocial
 contact: monsuivisocial@anct.gouv.fr
 accessibility_status: non conforme
 usertypes:
@@ -21,6 +20,8 @@ phases:
     end: 2022-02-01
   - name: construction
     start: 2022-03-01
+  - name: acceleration
+    start: 2023-09-04
 ---
 ### Contexte/problème
 
