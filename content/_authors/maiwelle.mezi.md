@@ -7,7 +7,7 @@ missions:
     end: 2024-04-28
     status: independent
     employer: Malt 
-startups:
+previously:
   - jeveuxaider
   - api-engagement
 badges:
