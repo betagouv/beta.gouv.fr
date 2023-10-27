@@ -5,7 +5,7 @@ domaine: Animation
 avatar: 
 missions: 
   - start: 2020-01-01
-    end: 2023-12-31
+    end: 2023-04-31
     status: admin
     employer: ANCT
 teams:
