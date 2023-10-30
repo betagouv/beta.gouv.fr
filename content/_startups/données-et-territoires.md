@@ -13,10 +13,9 @@ phases:
 link: https://donnees.incubateur.anct.gouv.fr
 repository: https://datahub.incubateur.tech/infrastructure/
 stats: false
-stats_url:
 contact: donnees@anct.gouv.fr
 accessibility_status: non conforme
-dashlord_url: http://dashlord.incubateur.net/url/donnees-incubateur-anct-gouv-fr-toolbox/ 
+dashlord_url: http://dashlord.incubateur.net/url/donnees-incubateur-anct-gouv-fr-toolbox/
 ---
 ## C’est quoi Données et Territoires ?
 
