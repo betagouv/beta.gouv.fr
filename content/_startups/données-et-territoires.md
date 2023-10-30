@@ -22,7 +22,7 @@ dashlord_url: http://dashlord.incubateur.net/url/donnees-incubateur-anct-gouv-fr
 
 Une **équipe dédiée** à concevoir, développer ou faire évoluer des outils répondant aux besoins en manipulations de données des collectivités et de l'ANCT et développés selon l'approche startup d'état.
 
-Son **guichet donnée** accompagne les autres équipes à l'appropriation des outils et aide à faciliter la remontée et le traitement de données. Sollicitez-le si vous avez un besoin non-couvert par la boîte à outils. [Nous contacter par email](mailto:donnees@anct.gouv.fr).
+Son **guichet données** accompagne les agents à l'utilisation des outils et aide à faciliter la remontée et le traitement de données au sein de l'Agence. Sollicitez-le également si vous avez un besoin non-couvert par nos outils. [Nous contacter par email](mailto:donnees@anct.gouv.fr).
 
 ## Pourquoi Données et Territoires ?
 
