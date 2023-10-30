@@ -10,9 +10,9 @@ missions:
     employer: ''
 startups:
   - ban
-  - infrastructures.numeriques
   - pcrs
   - bases.adresses.locales
+  - données-et-territoires
 teams:
   - /teams/anct
 ---
