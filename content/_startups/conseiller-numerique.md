@@ -2,7 +2,7 @@
 title: Conseiller Numérique
 mission: Former et déployer des conseillers numériques
 sponsors:
-    - /organisations/anct
+  - /organisations/anct
 incubator: anct
 phases:
   - name: construction
@@ -12,7 +12,6 @@ phases:
 link: https://www.conseiller-numerique.gouv.fr
 repository: https://github.com/anct-cnum
 stats: false
-stats_url:
 contact: conseiller-numerique@anct.gouv.fr
 usertypes:
   - collectivite-territoriale
