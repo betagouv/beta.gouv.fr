@@ -1,6 +1,6 @@
 ---
-fullname: Ariane ROSE
-role: Intrapreneur
+fullname: Ariane Rose
+role: Cheffe de projet - Incubateur des Territoires
 domaine: Déploiement
 github: Ariane-Rose
 missions:
