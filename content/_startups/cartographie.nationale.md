@@ -1,5 +1,5 @@
 ---
-title: "Cartographie nationale "
+title: 'Cartographie nationale '
 mission: Orienter les publics vers les structures répondant à leur besoin
 sponsors:
   - /organisations/anct
@@ -13,14 +13,16 @@ accessibility_status: non conforme
 events:
   - name: product_launch
     date: 2022-11-21
-    comment: "Première utilisation de notre outil de cartographie sur le site des
-      conseillers numériques : https://carte.conseiller-numerique.gouv.fr/"
+    comment: >-
+      Première utilisation de notre outil de cartographie sur le site des
+      conseillers numériques : https://carte.conseiller-numerique.gouv.fr/
 phases:
   - name: acceleration
     start: 2022-11-01
     end: 2022-04-01
   - name: construction
     start: 2022-04-01
+stats_url: https://cartographie.societenumerique.gouv.fr//stats
 ---
 ## Contexte
 
