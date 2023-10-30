@@ -10,10 +10,13 @@ phases:
     end: 2020-11-30
   - name: transfer
     start: 2020-12-01
+  - name: success
+    start: 2023-11-30
 link: https://openfisca.org
 repository: https://github.com/openfisca/openfisca-france
 stats: true
-stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=4&period=range&date=previous30
+stats_url: >-
+  https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=4&period=range&date=previous30
 contact: contact@openfisca.org
 techno:
   - Python
@@ -24,7 +27,6 @@ usertypes:
   - association
   - collectivite-territoriale
 ---
-
 OpenFisca est un logiciel libre contributif qui permet de modéliser les systèmes socio-fiscaux, c'est-à-dire de transformer la loi en code exécutable. Cela permet de développer des services publics numériques, d'estimer l’impact de réformes du système socio-fiscal, de décrire le système socio-fiscal français, et de faire émerger d'autres usages encore inconnus.
 
 Dans l'écosystème beta.gouv.fr, de nombreuses Startups d'État utilisent ou ont utilisé OpenFisca : [Mes Aides](https://beta.gouv.fr/startups/mes-aides.html), [Aides Jeunes](https://beta.gouv.fr/startups/aides.jeunes.html), [LexImpact](https://beta.gouv.fr/startups/leximpact.html), [ESTIME](https://beta.gouv.fr/startups/estime.html)…
