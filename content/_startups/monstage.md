@@ -1,6 +1,8 @@
 ---
 title: Mon stage de 3e
-mission: Permettre aux élèves de 3e d'accéder à des stages pertinents pour combattre les déterminismes sociaux
+mission: >-
+  Permettre aux élèves de 3e d'accéder à des stages pertinents pour combattre
+  les déterminismes sociaux
 sponsors:
   - /organisations/anct
 incubator: anct
@@ -20,7 +22,6 @@ usertypes:
 dashlord_url: https://dashlord.incubateur.net/url/www-monstagedetroisieme-fr/
 accessibility_status: non conforme
 ---
-
 **Un constat d’inégalité sociale dès le collège**
 
 Pour les collégien-nes qui ont la chance d’avoir des relations et qui habitent dans des métropoles, choisir un stage de 3e qui correspond à leurs aspirations n’est souvent qu’une formalité.
