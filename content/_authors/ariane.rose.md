@@ -13,5 +13,7 @@ startups:
   - infrastructures.numeriques
   - pcrs
   - bases.adresses.locales
+teams:
+  - /teams/anct
 ---
 Accélérer le déploiement de la fibre optique et des Bases Adresses Locales
