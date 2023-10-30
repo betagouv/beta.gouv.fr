@@ -3,7 +3,7 @@ title: L'Accélérateur de la transition écologique
 owner: /organisations/ademe
 logo: incubateur-ademe.png
 website:
-github:
+github: https://github.com/incubateur-ademe
 contact: mailto:martin.regner@ademe.fr
 address: 155 bis Av. Pierre Brossolette, 92240 Montrouge
 ---
