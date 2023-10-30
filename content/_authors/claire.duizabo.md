@@ -9,10 +9,13 @@ missions:
     employer: Numa
 memberType: beta
 startups:
-  - 1000.premiers.jours.blues
   - nosgestesclimat
+  - refugies.info
+  - mano
 teams:
   - /teams/fast-dinum
+previously:
+  - 1000.premiers.jours.blues
 ---
 
 
