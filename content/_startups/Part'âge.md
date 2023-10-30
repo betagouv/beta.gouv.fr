@@ -1,6 +1,8 @@
 ---
 title: Part'âge
-mission: Résorber lisolement des personnes agées par une autonomisation face aux moyens numériques
+mission: >-
+  Résorber lisolement des personnes agées par une autonomisation face aux moyens
+  numériques
 sponsors:
   - /organisations/anct
 incubator: anct
@@ -9,10 +11,9 @@ phases:
     start: 2021-06-01
   - name: construction
     start: 2021-11-01
-link: 
-repository: 
+  - name: alumni
+    start: 2022-12-31
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - collectivite-territoriale
