@@ -20,7 +20,7 @@ dashlord_url: http://dashlord.incubateur.net/url/donnees-incubateur-anct-gouv-fr
 ---
 ## C’est quoi Données et Territoires ?
 
-Une **équipe dédiée** à concevoir, développer ou faire évoluer des outils répondant aux besoins en manipulations de données des collectivités et de l'ANCT.
+Une **équipe dédiée** à concevoir, développer ou faire évoluer des outils répondant aux besoins en manipulations de données des collectivités et de l'ANCT et développés selon l'approche startup d'état.
 
 Son **guichet donnée** accompagne les autres équipes à l'appropriation des outils et aide à faciliter la remontée et le traitement de données. Sollicitez-le si vous avez un besoin non-couvert par la boîte à outils. [Nous contacter par email](mailto:donnees@anct.gouv.fr).
 
