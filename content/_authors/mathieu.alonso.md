@@ -1,6 +1,7 @@
 ---
 fullname: Mathieu Alonso
 domaine: Produit
+github: mathieualonsobetagouv
 role: Product Manager
 link: https://www.linkedin.com/in/mathieualonso/
 missions:
