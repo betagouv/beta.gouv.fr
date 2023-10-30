@@ -1,6 +1,7 @@
 ---
 title: PCRS
-mission: Accompagner les collectivités pour mettre en place un Plan Corps de Rue
+mission: >-
+  Accompagner les collectivités pour mettre en place un Plan Corps de Rue
   Simplifié
 sponsors:
   - /organisations/anct
