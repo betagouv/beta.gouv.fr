@@ -1,7 +1,7 @@
 ---
 title: Administration+
 mission: Résoudre les blocages administratifs inextricables
-sponsors: 
+sponsors:
   - /organisations/anct
 incubator: anct
 phases:
@@ -17,17 +17,16 @@ stats: true
 stats_url: https://infogram.com/stats-dusage-dadministration-1hmr6gm9mk5o6nl?live
 contact: contact@aplus.beta.gouv.fr
 techno:
-   - Scala
-   - Play Framework
-   - PostgreSQL
-   - Atos Worldine
-   - OpenShift
-   - Mailjet
+  - Scala
+  - Play Framework
+  - PostgreSQL
+  - Atos Worldine
+  - OpenShift
+  - Mailjet
 usertypes:
   - etat
 accessibility_status: non conforme
 ---
-
 ## Avec Administration+, aucun blocage ne vous résiste
 
 **Administration+**, c’est une plateforme qui **met en relation des aidants** comme des travailleurs sociaux **avec des agents d’organismes publics** comme la Caf. Ensemble, ils luttent contre **l’urgence sociale**. Pour cela, ils règlent rapidement et efficacement des **blocages inextricables** dans les dossiers des usagers. Administration+, **c’est le service public VIP pour tous !**
