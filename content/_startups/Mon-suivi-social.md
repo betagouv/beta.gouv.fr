@@ -7,7 +7,7 @@ contact: monsuivisocial@anct.gouv.fr
 accessibility_status: non conforme
 usertypes:
   - collectivite-territoriale
-title: Mon suivi social
+title: Mon Suivi Social
 sponsors:
   - /organisations/anct
 link: https://monsuivisocial.incubateur.anct.gouv.fr/
