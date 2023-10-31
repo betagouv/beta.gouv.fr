@@ -6,6 +6,8 @@ missions:
   - start: 2023-10-30
     end: 2024-03-31
     status: independent
-memberType: autre
+startups:
+  - place-de-marche-inclusion
+memberType: beta
 ---
 
