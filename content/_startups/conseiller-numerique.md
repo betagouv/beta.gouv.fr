@@ -1,6 +1,8 @@
 ---
 title: Conseiller Numérique
-mission: Former et déployer des conseillers numériques pour accompagner les usagers vers l'autonomie numérique.
+mission: >-
+  Former et déployer des conseillers numériques pour accompagner les usagers
+  vers l'autonomie numérique.
 sponsors:
   - /organisations/anct
 incubator: anct
@@ -16,8 +18,6 @@ contact: conseiller-numerique@anct.gouv.fr
 usertypes:
   - collectivite-territoriale
   - particulier
-stats_url: >-
-  https://metabase.conseiller-numerique.gouv.fr/public/dashboard/446208c4-cae2-4c0c-be19-44cb14ce7d06?en_date_du___=2023-07-25
 accessibility_status: partiellement conforme
 ---
 ## Contexte
@@ -41,9 +41,9 @@ Ses missions :
 - Suivre son activité,pouvoir la montrer. 
 - S’outiller tout au long de sa mission
 
-**Le conseiller numérique Coordinateur**
+**Conseiller numérique Coordinateur**
 
-Ses mission 
+Ses missions 
 - Renforcer le maillage et les synergies territoriales
 - Être le relais principal des employeurs, des Conseillers numériques et de l’équipe d’animation nationale
 - Imaginer et mettre en place des collaborations sur la base des besoins de la communauté des Conseillers numériques
@@ -51,7 +51,9 @@ Ses mission
 
 
 
-**Les gestionnaires ** *(Structure employeuse, Préfectures, Hubs) *
+**Gestionnaire** (Structure employeuse, Préfectures, Hubs) *
+
+Ses missions 
 - Recruter des CnFS pour augmenter  l'offre de service sur leur territoire, les coordonner.
 - Adapter son offre de services en fonction des besoins usagers de son territoire
 - Rendre compte de l’activité/impact du dispositif
