@@ -1,8 +1,6 @@
 ---
 title: Conseiller Numérique
-mission: >
-  Former et déployer des conseillers numériques pour accompagner les usagers
-  vers l'autonomie numérique.
+mission: Former et déployer des conseillers numériques pour accompagner les usagers vers l'autonomie numérique.
 sponsors:
   - /organisations/anct
 incubator: anct
