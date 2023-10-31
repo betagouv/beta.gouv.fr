@@ -19,6 +19,8 @@ usertypes:
   - collectivite-territoriale
   - particulier
 accessibility_status: partiellement conforme
+stats_url: >-
+  https://metabase.conseiller-numerique.gouv.fr/public/dashboard/446208c4-cae2-4c0c-be19-44cb14ce7d06
 ---
 ## Contexte
 
@@ -41,9 +43,9 @@ Ses missions :
 - Suivre son activité,pouvoir la montrer. 
 - S’outiller tout au long de sa mission
 
-**Conseiller numérique Coordinateur**
+**Le conseiller numérique Coordinateur**
 
-Ses missions 
+Ses mission 
 - Renforcer le maillage et les synergies territoriales
 - Être le relais principal des employeurs, des Conseillers numériques et de l’équipe d’animation nationale
 - Imaginer et mettre en place des collaborations sur la base des besoins de la communauté des Conseillers numériques
@@ -51,9 +53,7 @@ Ses missions
 
 
 
-**Gestionnaire** (Structure employeuse, Préfectures, Hubs) *
-
-Ses missions 
+**Les gestionnaires ** *(Structure employeuse, Préfectures, Hubs) *
 - Recruter des CnFS pour augmenter  l'offre de service sur leur territoire, les coordonner.
 - Adapter son offre de services en fonction des besoins usagers de son territoire
 - Rendre compte de l’activité/impact du dispositif
