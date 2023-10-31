@@ -1,7 +1,7 @@
 ---
 fullname: Augusta Kamil
-role: Chargée de déploiement
 domaine: Déploiement
+role: Chargée de déploiement
 missions:
   - start: 2020-04-13
     end: 2023-12-31
@@ -9,7 +9,9 @@ missions:
     employer: ANCT
 startups:
   - lannuaire.des.collectivites
+  - espace.sur.demande
 memberType: beta
+competences:
+  - Croissance
 ---
-
-Sales et copywriter, je suis chargée de déploiement à l'incubateur de l'ANCT
+Je suis chargée de déploiement à l'Incubateur de l'ANCT
