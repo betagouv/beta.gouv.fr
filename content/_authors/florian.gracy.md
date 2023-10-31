@@ -9,8 +9,9 @@ missions:
     status: independent
     employer: ''
 startups:
-  - conseiller-numerique
   - cartographie.nationale
+previously :
+  - conseiller-numerique
 badges:
   - segur
 competences:
