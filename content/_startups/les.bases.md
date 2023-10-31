@@ -5,7 +5,6 @@ dashlord_url: >-
 mission: >-
   Faciliter le partage de ressources & de communs pour les acteurs de
   l'inclusion numérique
-stats_url: https://plausible.io/labase.anct.gouv.fr
 repository: https://github.com/inclusion-numerique/la-base
 incubator: anct
 title: Les Bases
