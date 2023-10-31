@@ -12,4 +12,4 @@ startups:
 memberType: beta
 ---
 
-Sales et copywriter, je suis chargée de déploiement à l'incubateur de l'ANCT
+Business Developer et copywriter, je suis chargée de déploiement transverse.
