@@ -1,6 +1,7 @@
 ---
 title: Mon Espace Collectivité
-mission: Réunir à un seul endroit collectivités et Etat local.
+mission: Réunir à un seul endroit collectivités et Etat local pour accélérer les
+  projets et leur impact sur le territoire.
 sponsors:
   - /organisations/anct
 incubator: dinum
