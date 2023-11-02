@@ -11,5 +11,4 @@ missions:
 startups:
   - sndv_maritime
 previously:
-  - sndv_maritime
 ---
