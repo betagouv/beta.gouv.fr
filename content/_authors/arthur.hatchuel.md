@@ -19,4 +19,3 @@ startups:
 competences:
   - Gestion de Produit
 ---
-Ingénieur des Ponts, des Eaux et des Forêts un peu perdu dans ce monde numérique ! Une certaine idée du service public.
