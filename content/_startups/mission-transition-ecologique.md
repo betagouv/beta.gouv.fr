@@ -10,6 +10,8 @@ phases:
     end: 2021-01-01
   - name: construction
     start: 2021-01-01
+  - name: alumni
+    start: 2021-12-01
 link: https://mission-transition-ecologique.beta.gouv.fr/
 redirect_from:
   - /startups/france-transition-ecologique
