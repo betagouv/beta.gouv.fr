@@ -2,19 +2,21 @@
 fullname: Clémence Lanctuit
 domaine: Design
 role: UX Designer
-link: ""
+link: ''
 missions:
   - start: 2022-01-13
     end: 2023-12-31
     status: independent
-    employer: ""
+    employer: ''
 incubator: dinum
 startups:
   - tdb-apprentissage
-  - docurba
+  - api.apprentissage
 previously:
   - dematapprentissage
   - catalogue-apprentissage
+  - api.apprentissage
+  - docurba
 badges:
   - segur
 competences:
