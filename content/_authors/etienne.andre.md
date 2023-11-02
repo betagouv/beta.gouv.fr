@@ -5,7 +5,7 @@ domaine: Produit
 github: etienneandre9
 missions:
   - start: 2022-09-06
-    end: 2023-10-31
+    end: 2024-06-30
     status: service
     employer: CGI
 startups:
