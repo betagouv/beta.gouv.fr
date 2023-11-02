@@ -3,13 +3,13 @@ fullname: Theo Santos
 role: Développeur
 domaine: Animation
 missions:
-  - start: 2022-09-05
-    end: 2023-06-30
+  - start: 2023-11-02
+    end: 2024-01-31
     status: service
     employer: Octo
 startups:
-  - qualicharge
+  - Agora
 memberType: beta
 ---
 
-Data Engineer pour le projet Qualicharge
+Data Engineer pour le projet Agora
