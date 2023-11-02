@@ -15,11 +15,11 @@ missions:
     status: independent
     employer: ''
   - start: 2020-12-26
-    end: 2023-11-01
+    end: 2024-04-29
     status: independent
     employer: octo
 startups:
-  - pass.engagement.jeune
+  - sepia
 previously:
   - jeveuxaider
   - mon-entreprise
