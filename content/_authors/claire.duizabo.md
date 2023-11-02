@@ -1,6 +1,6 @@
 ---
 fullname: Claire Duizabo
-role: Coach growth pour le programme FAST
+role: Coach pour le programme FAST
 domaine: Coaching
 missions:
   - start: 2023-01-09
@@ -9,10 +9,13 @@ missions:
     employer: Numa
 memberType: beta
 startups:
-  - 1000.premiers.jours.blues
   - nosgestesclimat
+  - refugies.info
+  - mano
 teams:
   - /teams/fast-dinum
+previously:
+  - 1000.premiers.jours.blues
 ---
 
 
