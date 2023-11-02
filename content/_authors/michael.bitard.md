@@ -6,7 +6,7 @@ link: https://michael.bitard.fr/
 github: MichaelBitard
 missions:
   - start: 2022-03-07
-    end: 2023-12-01
+    end: 2024-06-30
     status: independent
     employer: BeNext
 startups:
