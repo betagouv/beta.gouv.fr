@@ -22,7 +22,7 @@ server {
 
   # Location block for /assets/ with caching
   location ~* ^/assets/ {
-    expires 30d;
+    expires 1d;
     add_header Cache-Control "public";
     try_files $uri $uri/ =404;
   }
