@@ -22,7 +22,6 @@ competences:
   - Coaching
 previously:
   - locatio
-  - a-just
   - vigieau
 ---
 Ux designer DossierFacile.fr et A-JUST
