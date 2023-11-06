@@ -1,5 +1,6 @@
 ---
 title: Plateformes de l'Engagement Civique
+short_description: Cet incubateur intervient en faveur de <span class="fr-text--bold">l’engagement civique</span>.
 owner: /organisations/djepva
 logo: logo_beta.png
 github: https://github.com/betagouv/

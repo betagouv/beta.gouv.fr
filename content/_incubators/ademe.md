@@ -1,5 +1,6 @@
 ---
 title: L'Accélérateur de la transition écologique
+short_description: Lancé en septembre 2022, cet incubateur porté par l’ADEME fait émerger et soutient les services <span class="fr-text--bold">accélérant la transition</span>.
 owner: /organisations/ademe
 logo: incubateur-ademe.png
 website:

@@ -511,3 +511,45 @@ img.lozad {
 .fast-cta {
   background: var(--artwork-decorative-blue-france);
 }
+
+.fr-tile.tile-highlight {
+  box-shadow: unset;
+  background: transparent;
+}
+
+#incubateurs .hero-section img {
+    max-height: 180px;
+    object-fit: contain;
+}
+
+#incubateurs ul.checkmark-list {
+    list-style-image: url(/assets/images/icons/list-checkmark.svg);
+    padding-inline-start: 2rem;
+}
+
+#incubateurs .incubator-onboarding {
+    border-radius: 0rem 0rem 6rem 0rem;
+}
+
+@media screen and (min-width: 768px) {
+    #incubateurs ul.checkmark-list {
+        columns: 2;
+        column-gap: 40px;
+    }
+}
+
+.fr-card img.incubator-logo {
+    height: 150px;
+    object-fit: contain;
+    background-color: transparent;
+}
+
+#incubator-view img.incubator-logo {
+    max-height: 150px;
+    object-fit: contain;
+    object-position: center;
+}
+
+.blue-background {
+    background: var(--background-alt-blue-france);
+}

@@ -155,7 +155,7 @@ layout: default
         <div id="{{ phase.status }}" class="fr-container-fluid{% if phase.status != 'success' %} fr-my-6w{% endif %}">
             <!-- Les span contenant les class "phase-counter" et "phase-label" permettent d'afficher le counter des startups grâce à des getElementsByClassName dans le fichier javascript dans search-startup.js -->
             {% if phase.status == 'success' %}
-                <h2><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> <span>{{ phase.label | downcase }}{{ plural }}</span></h2> 
+                <h2><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> <span>{{ phase.label | downcase }}{{ plural }}</span></h2>
             {% elsif phase.status == 'alumni' %}
                 <h2>Nos {{ phase.label | downcase }}</h2>
             {% else %}
@@ -167,7 +167,9 @@ layout: default
             <div class="fr-grid-row fr-grid-row--gutters startups">
                 {% assign startups = site.startups | where_phase: phase.status %}
                 {% for startup in startups %}
-                    {% include card-startup.html startup = startup %}
+                    <div class="fr-col-12 fr-col-md-3 fr-mb-2w">
+                        {% include card-startup.html startup = startup %}
+                    </div>
                 {% endfor %}
             </div>
         </div>

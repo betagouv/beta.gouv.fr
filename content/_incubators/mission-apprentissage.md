@@ -1,6 +1,7 @@
 ---
 title: Mission interministérielle pour l’apprentissage
-owner: 
+short_description:
+owner:
 logo: logo_beta.png
 website: https://mission-apprentissage.gitbook.io/general/
 github: https://github.com/mission-apprentissage

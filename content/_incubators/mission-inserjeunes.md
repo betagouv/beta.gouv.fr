@@ -1,10 +1,10 @@
 ---
 title: Mission interministérielle InserJeunes
-owner: 
+short_description:
+owner:
 logo: logo_beta.png
-website: 
-github: 
-contact: 
-
+website:
+github:
+contact:
 ---
 

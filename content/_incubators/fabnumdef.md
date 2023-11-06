@@ -1,5 +1,6 @@
 ---
-title: La Fabrique Numérique du Ministère des armées 
+title: La Fabrique Numérique du Ministère des armées
+short_description:
 owner: /organisations/armees
 logo: logo_fab_num_armee.png
 github: https://github.com/fabnumdef

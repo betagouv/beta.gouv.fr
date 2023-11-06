@@ -1,5 +1,6 @@
 ---
 title: Lab MI
+short_description:
 owner: /organisations/interieur
 logo: logo_lab_mi.png
 website: https://beta.interieur.gouv.fr/

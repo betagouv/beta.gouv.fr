@@ -1,5 +1,6 @@
 ---
 title: L'Incubateur de la Justice
+short_description: Lancé en octobre 2021, cet incubateur s’intéresse aux problèmes rencontrés par <span class="fr-text--bold">les agents ou les justiciables</span>.
 owner: Ministère de la Justice
 logo: justice_logo.png
 website: http://portail.innovation.intranet.justice.gouv.fr/

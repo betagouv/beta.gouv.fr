@@ -1,5 +1,6 @@
 ---
 title: La Fabrique numérique des Finances publiques
+short_description:
 owner: /organisations/dgfip
 website: https://beta.gouv.fr/startups/?incubateur=fabrique-dgfip
 github: https://github.com/maxinesabater

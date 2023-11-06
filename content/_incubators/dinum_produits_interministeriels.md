@@ -1,5 +1,6 @@
 ---
 title: Opérateur de produits interministériels
+short_description:
 owner: /organisations/dinum
 website: https://numerique.gouv.fr/
 logo: logo_dinum.png
@@ -15,4 +16,4 @@ L'opérateur de produits interministériels (DINUM) assure un environnement de c
 
 Cela concerne aussi bien des outils qui peuvent transformer le quotidien des agents que l’animation d’une offre interministérielle de cloud souverain.
 
-Au sein de la DINUM, ce département se focalisera sur la création d'une suite bureautique numérique évolutive et ergonomique pour tous les agents, entièrement basée sur des produits libres, des protocoles ouverts et documentés publiquement. C’est un axe essentiel de souveraineté et d’attractivité de la fonction publique. 
+Au sein de la DINUM, ce département se focalisera sur la création d'une suite bureautique numérique évolutive et ergonomique pour tous les agents, entièrement basée sur des produits libres, des protocoles ouverts et documentés publiquement. C’est un axe essentiel de souveraineté et d’attractivité de la fonction publique.
