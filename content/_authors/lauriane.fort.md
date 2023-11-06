@@ -9,8 +9,10 @@ missions:
     status: independent
     employer: /UT7
 startups:
-  - ellesfontlaculture
+  - vigieau
 badges:
   - segur
+previously:
+  - ellesfontlaculture
 ---
 
