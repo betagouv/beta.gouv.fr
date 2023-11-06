@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: ''
 startups:
-  - justif
+  - mon-suivi-justice
 memberType: beta
 ---
 
