@@ -1,7 +1,7 @@
 ---
 fullname: Arthur Hatchuel
 domaine: Intraprenariat
-role: Intrapreneur et chef de produit
+role: Adjoint au responsable de l'Incubateur de services numériques
 github: hatchuel
 link: https://www.linkedin.com/in/arthur-h-13bb018b/
 missions:
@@ -11,11 +11,14 @@ missions:
     employer: MTES/DGALN
   - start: 2023-11-01
     end: 2025-10-31
-    employer: dinum
     status: admin
+    employer: dinum
 startups:
-  - locatio
-  - filigrane
+  - valorisation.des.stages.pro
+  - agora
 competences:
   - Gestion de Produit
+previously:
+  - locatio
+  - filigrane
 ---
