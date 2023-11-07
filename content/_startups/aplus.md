@@ -14,7 +14,7 @@ phases:
 link: https://aplus.beta.gouv.fr/
 repository: https://github.com/betagouv/aplus
 stats: true
-stats_url: https://infogram.com/stats-dusage-dadministration-1hmr6gm9mk5o6nl?live
+stats_url: https://aplus.beta.gouv.fr/stats
 contact: contact@aplus.beta.gouv.fr
 techno:
   - Scala
