@@ -1,6 +1,6 @@
 ---
 fullname: Matéo Mévollon
-role: SRE
+role: SRE à la Fabrique des Ministères Sociaux
 domaine: Développement
 link: https://gitlab.com/matmut
 github: matmut7
