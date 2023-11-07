@@ -1,12 +1,19 @@
 ---
 title: Elles font la Culture
-mission: Réduire les inégalités de genre dans la culture, en commençant par le secteur de la photographie. 
+mission: Réduire les inégalités de genre dans la culture, en commençant par le
+  secteur de la photographie.
 sponsors:
   - /organisations/mc
 incubator: culture
-events:
-  - name: national_impact
-    date: 2023-07-01
+link: https://ellesfontla.culture.gouv.fr/
+repository: https://github.com/betagouv/ellesfontlaphoto
+contact: ellesfontlaculture@beta.gouv.fr
+usertypes:
+  - particulier
+stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=187&period=range&date=previous30&updated=1#?idSite=187&period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1
+stats: true
+budget_url: https://pad.incubateur.net/s/qeT5bzHUM#Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
+events: []
 phases:
   - name: construction
     start: 2020-04-01
@@ -19,14 +26,6 @@ phases:
     end: 2023-06-30
   - name: success
     start: 2023-07-01
-link: https://ellesfontla.culture.gouv.fr/
-repository: https://github.com/betagouv/ellesfontlaphoto
-stats: true
-stats_url: https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=187&period=range&date=previous30&updated=1#?idSite=187&period=range&date=previous30&category=Dashboard_Dashboard&subcategory=1
-contact: ellesfontlaculture@beta.gouv.fr
-usertypes:
-  - particulier
-budget_url: https://pad.incubateur.net/s/qeT5bzHUM#Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
 ---
 
 # Car encore aujourd’hui, 54% de femmes sont sur les bancs des écoles contre 38% dans la vie professionnelle.
