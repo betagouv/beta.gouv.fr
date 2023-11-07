@@ -4,8 +4,9 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-08-22
-    end: 2023-11-22
+    end: 2024-02-22
     status: independent
+    employer: ''
 startups:
   - justif
 memberType: beta
