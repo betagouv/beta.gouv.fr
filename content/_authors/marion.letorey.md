@@ -9,6 +9,8 @@ missions:
     status: independent
     employer: Malt
 memberType: beta
+startups:
+  - experts
 ---
 
 Chargée de portefeuille à l'incubateur des territoires
