@@ -21,13 +21,13 @@ Voici les questions auxquelles nous nous attelons à répondre dans le cadre de 
 ## Problème
 
 Plusieurs problèmes viennent complexifier la connaissance des ZAE : 
-* **absence de définition commune et unique des ZA en France **: la délimitation de c'est qu'est une ZA varie d'un territoire à un autre, ce qui pose un problème dans le cas de regroupement de communes. En particulier, il n’y a pas de source de données de référence pour connaître les ZA. 
+* **absence de définition commune et unique des ZA en France** : la délimitation de c'est qu'est une ZA varie d'un territoire à un autre, ce qui pose un problème dans le cas de regroupement de communes. En particulier, il n’y a pas de source de données de référence pour connaître les ZA. 
 * **multitude d'acteurs (gestionnaires, maîtres d'œuvre, entreprises, CCI/CMA, élus du territoire, services de l’Etat) et complexité de la gouvernance.** On observe un manque de clarté au niveau des responsabilités concernant les ZA et leur gestion.
 
 
 Par ailleurs, à date, le diagnostic des ZAE n'est pas réalisé de façon homogène au niveau national : 
 
-* **Les collectivités n'ont pas toutes les mêmes moyens d'agir (en termes de temps, ressources dédiés). **Certaines ne savent pas par où commencer.
+* **Les collectivités n'ont pas toutes les mêmes moyens d'agir (en termes de temps, ressources dédiés).** Certaines ne savent pas par où commencer.
 * Cet inventaire est perçu comme une obligation légale à respecter. Néanmoins, les collectivités n'ont **pas de pression car il n'y a pas de sanction si l'inventaire n'est pas réalisé**.
 *  Au-delà de l'inventaire, il n'existe **pas de stratégie sur le foncier à long terme réalisée par les collectivités.**
 
