@@ -12,7 +12,7 @@ phases:
     start: 2019-03-13
   - name: acceleration
     start: 2021-01-01
-  - name : perennisation
+  - name : success
     start: 2023-06-02
 link: https://aidantsconnect.beta.gouv.fr
 repository: https://github.com/betagouv/Aidants_Connect
