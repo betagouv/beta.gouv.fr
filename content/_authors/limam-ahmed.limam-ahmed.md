@@ -4,10 +4,10 @@ role:  Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-10-20
-    end: 2024-08-31
+    end: 2023-08-31
     status: admin
     employer: DGALN/DEB/EARM2
-startups:
+previously:
   - camino
 badges:
   - segur

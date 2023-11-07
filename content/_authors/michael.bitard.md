@@ -8,9 +8,7 @@ missions:
   - start: 2022-03-07
     end: 2024-06-30
     status: independent
-    employer: BeNext
+    employer: ""
 startups:
   - camino
 ---
-
-Développeur
