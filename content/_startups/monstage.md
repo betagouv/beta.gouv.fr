@@ -16,7 +16,7 @@ phases:
 link: https://www.monstagedetroisieme.fr/
 repository: https://github.com/betagouv/monstage
 stats: false
-contact: Yasmina.hafidi@anct.gouv.fr
+contact: support@monstagedetroisieme.fr
 usertypes:
   - particulier
 dashlord_url: https://dashlord.incubateur.net/url/www-monstagedetroisieme-fr/
