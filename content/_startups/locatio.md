@@ -1,14 +1,16 @@
 ---
 title: DossierFacile
-mission: Remettre la confiance au centre de la relation entre propriétaires et
+mission: >-
+  Remettre la confiance au centre de la relation entre propriétaires et
   locataires
 sponsors:
   - /organisations/dgaln
   - /organisations/dhup
 incubator: mtes
-link: https://www.dossierfacile.logement.gouv.fr/?utm_source=betagouv&utm_medium=referral&utm_campaign=fiche_betagouv
+link: >-
+  https://www.dossierfacile.logement.gouv.fr/?utm_source=betagouv&utm_medium=referral&utm_campaign=fiche_betagouv
 repository: https://github.com/mtes-mct/locatio
-contact: contact@dossierfacile.fr
+contact: contact@dossierfacile.logement.gouv.fr
 stats: true
 budget_url: https://beta.gouv.fr/startups/locatio.html
 analyse_risques: true
@@ -24,9 +26,9 @@ phases:
   - name: investigation
     start: 2018-01-01
   - name: construction
-    start: 2018-01-01
+    start: 2018-03-01
   - name: acceleration
-    start: 2018-01-01
+    start: 2019-01-01
 fast:
   promotion: 13
   montant: 300000
