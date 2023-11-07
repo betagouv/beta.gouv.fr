@@ -10,7 +10,7 @@ phases:
   - name: construction
     start: 2019-12-19
   - name: acceleration
-    start: 2022-11-01
+    start: 2023-05-01
 accessibility_status: non conforme
 link: https://cartobio.agencebio.org/
 repository: https://github.com/AgenceBio/cartobio-front
@@ -19,7 +19,9 @@ budget_url: ~
 dashlord_url: https://dashlord.incubateur.net/url/cartobio-agencebio-org/
 contact: cartobio@beta.gouv.fr
 usertypes:
+  - association
   - collectivite-territoriale
+  - etablissement-scolaire
   - etat
 ---
 ## Le problème
