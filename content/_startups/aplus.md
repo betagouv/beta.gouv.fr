@@ -1,6 +1,6 @@
 ---
 title: Administration+
-mission: Résoudre les blocages administratifs inextricables
+mission: Résoudre les blocages administratifs complexes et/ou urgents
 sponsors:
   - /organisations/anct
 incubator: anct
