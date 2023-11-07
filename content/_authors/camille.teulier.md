@@ -7,7 +7,7 @@ missions:
     end: 2023-11-22
     status: independent
 startups:
-  - justif
+  - mon-suivi-justice
 memberType: beta
 ---
 

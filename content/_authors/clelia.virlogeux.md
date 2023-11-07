@@ -9,6 +9,6 @@ missions:
     status: admin
     employer: Ministère de la Justice
 startups:
-  - justif
+  - mon-suivi-justice
 
 ---
