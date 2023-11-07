@@ -1,6 +1,6 @@
 ---
 fullname: Daniel Balmy
-role: Intrapreneur / Mentor / Chargé de développement
+role: Intrapreneur / Mentor / Product Owner
 domaine: Intraprenariat
 missions:
   - start: 2017-09-28
