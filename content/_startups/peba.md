@@ -13,11 +13,11 @@ phases:
 ---
 ## Problème
 
-Dans le cadre de la lutte contre la fraude fiscale et sociale, les administrations effectuent auprès des banques des demandes d'accès aux fichiers des comptes bancaires. La réception de ces fichiers peut prendre plusieurs mois, ce qui ralentit le travail des enquêteurs.
+Dans le cadre de la lutte contre la fraude fiscale et sociale, les administrations effectuent auprès des banques des demandes d'accès aux données bancaires. Ces échanges de données se font actuellement manuellement et les délais peuvent prendre jusqu'à plusieurs mois, ce qui ralenti le travail des enquêteurs et des agents des services de contrôle.
 
 ## Solution
 
-Depuis deux ans, le dispositif PEBA permettant la dématérialisation du droit de communication entre les banques et les administrations a été développé et testé dans la sphère judiciaire. Ce dispositif basé sur un schéma de données unique, permet la transmission des informations bancaires en quelques jours, facilitant le travail des enquêteurs et des banques.
+Depuis deux ans, le dispositif PEBA permettant la dématérialisation du droit de communication entre les banques et les administrations a été développé et testé dans la sphère judiciaire. Ce dispositif basé sur un schéma de données unique, permet la transmission des informations bancaires en moins de 24h, facilitant le travail des enquêteurs et des banques.
 
 ## Stratégie
 
