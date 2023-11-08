@@ -9,7 +9,7 @@ missions:
     end: 2023-12-31
     start: 2019-03-13
     status: admin
-startups:
+previously:
   - aidantsconnect
 ---
 
