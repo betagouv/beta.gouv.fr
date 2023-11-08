@@ -1,5 +1,5 @@
 ---
-title: Zones irrigués et irrigables
+title: Zones irriguées et irrigables
 mission: La préservation de la ressource en eau dans le domaine de l’irrigation agricole
 sponsors:
   - /organisations/ign
@@ -27,7 +27,7 @@ phases:
 * Les organismes de gestion (DRAAF, DDT, ASAs, chambres d'agriculture, organisations professionnelles, etc.) manquent de données fiables et précises pour anticiper les besoins à prévoir, faire des analyses et des recommandations afin d’appuyer des politiques agricoles au niveau régional et national. 
 * Les agriculteurs et les élus manquent des données pour appliquer et faire appliquer les réglementations liées à la consommation de l’eau pour l’irrigation (ex.: zéro artificialisation des zones irriguées).
 
-### L’investigation : 
+### L’investigation 
 
 Le sujet de l’investigation est vaste et pourrait rapidement devenir trop complexe et ample pour le cadre d’une startup d’état. Il est donc important de cerner le cadre où nous pourrions avoir un réel impact au travers d’une solution numérique.
 
