@@ -12,6 +12,8 @@ missions:
 memberType: beta
 teams:
   - /teams/accelerateur-initiatives-citoyennes
+startups:
+  - umap
 ---
 
 Product Manager, Expert commnuns numériques, co-fondateur d'Open Source Poltics (Decidim), skater 🛹

@@ -11,7 +11,7 @@ missions:
     status: independent
     employer: lazone
 startups:
-  - données-et-territoires
+  - umap
 previously:
   - data.gouv.fr
   - api-drones
