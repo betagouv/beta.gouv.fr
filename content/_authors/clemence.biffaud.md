@@ -22,6 +22,7 @@ startups:
   - inventaire.zae
 previously:
   - aides.jeunes
+  - artsducirque
 competences:
   - Coaching
 ---
