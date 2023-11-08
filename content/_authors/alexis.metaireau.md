@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: Scopyleft
 startups:
-  - données-et-territoires
+  - umap
 memberType: autre
 ---
 
