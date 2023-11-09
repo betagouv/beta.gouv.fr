@@ -12,6 +12,7 @@ missions:
 startups:
   - lannuaire.des.collectivites
   - espace.sur.demande
+  - agents.en.intervention
 competences:
   - Administration Publique
 teams:
