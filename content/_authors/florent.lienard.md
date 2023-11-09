@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Dinum
 memberType: beta
-previously:
+startups:
   - agents.en.intervention
 ---
 
