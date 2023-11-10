@@ -1,17 +1,23 @@
 ---
-link: https://monespacecollectivite.incubateur.anct.gouv.fr/
-mission: Une plateforme unique pour la relation entre Etat & collectivités
-repository: https://github.com/inclusion-numerique/mon-espace-collectivite
+link: https://mon-espace-collectivite.recoconseil.fr/
+mission: >-
+  Réunir en un seul endroit collectivités et Etat Local pour accélérer les
+  projets et leur impact sur le territoire.
+repository: https://github.com/betagouv/recoco-portails
 incubator: anct
 title: Mon espae collectivité
-contact: stephane.dosdoghrouyan@gmail.com
+contact: monespacecollectivite@anct.gouv.fr
 sponsors:
   - /organisations/anct
+  - /organisations/mctrct
+  - /organisations/mtes
 phases:
   - name: investigation
-    start: 2023-11-10
+    start: 2023-10-09
+  - name: construction
+    start: 2023-11-01
+accessibility_status: non conforme
 ---
-
 ## Contexte
 
 Annoncée par le président de la République lors de la Conférence nationale des territoires en 2017 et créée par la loi du 22 juillet 2019, l’Agence nationale de la cohésion des territoires (ANCT) a été mise en place le 1er janvier 2020 pour assurer un rôle de « fabrique à projets » afin de permettre aux collectivités de mener à bien leurs projets. 
