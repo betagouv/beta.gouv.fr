@@ -6,8 +6,6 @@ mission: >-
 incubator: sgmas
 title: Téléconsultation assistée
 contact: aurelie.manginot@fabrique.social.gouv.fr
-sponsors:
-  - /organisations/Fabrique Numérique des Ministères Sociaux
 phases:
   - name: investigation
     start: 2023-10-02
