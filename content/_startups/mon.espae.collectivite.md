@@ -5,7 +5,7 @@ mission: >-
   projets et leur impact sur le territoire.
 repository: https://github.com/betagouv/recoco-portails
 incubator: anct
-title: Mon espae collectivité
+title: Mon espace collectivité
 contact: monespacecollectivite@anct.gouv.fr
 sponsors:
   - /organisations/anct
