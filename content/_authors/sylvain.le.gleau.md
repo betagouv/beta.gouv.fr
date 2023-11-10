@@ -10,6 +10,9 @@ missions:
     status: independent
     employer: Scopyleft
 memberType: beta
+startups:
+  - espace.sur.demande
+  - agents.en.intervention
 ---
 
 Développeur mobile et web fullstack

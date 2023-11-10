@@ -2,7 +2,7 @@
 roles: Développeur.se expérimenté.e Ruby / Full Stack MSJ
 open: false
 date: 2021-11-17T15:38:03.465Z
-startup: justif
+startup: mon-suivi-justice
 ---
 ### Tu veux mettre tes compétences au profit de l’amélioration du service public ? Tu as envie de travailler dans une équipe lean, et proche de ses utilisateurs et utilisatrices ?
 

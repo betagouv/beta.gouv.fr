@@ -14,6 +14,7 @@ phases:
   - name: construction
     start: 2023-01-01
 link: https://rnb.beta.gouv.fr/
+budget_url: https://rnb-fr.gitbook.io/documentation/budget
 repository: https://github.com/fab-geocommuns/RNB-site
 ---
 ## Problème

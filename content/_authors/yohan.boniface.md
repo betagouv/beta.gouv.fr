@@ -15,11 +15,12 @@ missions:
     status: independent
     employer: scopyleft
 startups:
-  - données-et-territoires
+  - umap
 previously:
   - ban
   - api-drones
   - la-bonne-formation
   - classe-a-12
   - egalite.professionnelle
+  - données-et-territoires
 ---

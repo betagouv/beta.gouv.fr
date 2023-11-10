@@ -9,5 +9,6 @@ missions:
     employer: Malt
 startups:
   - trackdechets
+  - camino
 ---
 

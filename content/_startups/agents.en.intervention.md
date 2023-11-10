@@ -25,6 +25,7 @@ Le signalement, la création, la résolution, et le suivi de ces interventions d
 
 Les petites collectivités sont souvent dépourvues d’outils numériques de gestion au sein de leurs équipes techniques, ce qui amène plusieurs irritants à leur activité quotidienne : 
 
+
 - Impossibilité d'améliorer la qualité des process métier ;
 - Coût et complexité croissante ;
 - Collaboration et qualité de service impactée ;
@@ -37,6 +38,7 @@ Les petites collectivités sont souvent dépourvues d’outils numériques de ge
 ## Solution
 
 Agents est une application disponible sur mobile et desktop permettant de : 
+
 - Planifier et assigner plus facilement les interventions sur l'ensemble d'une équipe technique ;
 
 - Proposer un format clair de l’essentiel des informations nécessaires sur le terrain (géolocalisation, photos...) ;
@@ -44,7 +46,6 @@ Agents est une application disponible sur mobile et desktop permettant de :
 - Simplifier la remontée et le partage d’informations de toutes les fonctions en direct ;
 
 - Accélérer les processus de gestion et le suivi d'activités, et pouvoir suivre leurs données.
-
 
 ## Stratégie
 
