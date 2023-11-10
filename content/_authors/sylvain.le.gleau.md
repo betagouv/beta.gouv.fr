@@ -13,6 +13,8 @@ memberType: beta
 startups:
   - espace.sur.demande
   - agents.en.intervention
+previously:
+  - mon.espae.collectivite
 ---
 
 Développeur mobile et web fullstack
