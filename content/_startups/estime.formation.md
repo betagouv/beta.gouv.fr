@@ -6,7 +6,7 @@ sponsors:
 link: https://candidat.pole-emploi.fr/simulation-ressources-formation
 incubator: pole-emploi
 contact: estimeformation@beta.pole-emploi.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 stats: true
 phases:
   - name: construction
