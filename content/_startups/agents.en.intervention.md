@@ -24,8 +24,6 @@ Le signalement, la création, la résolution, et le suivi de ces interventions d
 ## Problème
 
 Les petites collectivités sont souvent dépourvues d’outils numériques de gestion au sein de leurs équipes techniques, ce qui amène plusieurs irritants à leur activité quotidienne : 
-
-
 - Impossibilité d'améliorer la qualité des process métier ;
 - Coût et complexité croissante ;
 - Collaboration et qualité de service impactée ;
