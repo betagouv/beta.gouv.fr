@@ -22,5 +22,11 @@ competences:
   - Administration Publique
 teams:
   - /teams/dinum
+startups:
+  - tchap
+previously:
+  - Mon-suivi-social
+  - lannuaire.des.collectivites
+  - dotations-locales
 ---
 J'essaie de faire quelque chose pour l'humanité en luttant contre la pauvreté
