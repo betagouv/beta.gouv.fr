@@ -1,7 +1,7 @@
 ---
 fullname: Julie Ripa
 domaine: Animation
-role: Directrice - Incubateur des Territoires
+role: Intrapreneuse Tchap
 github: julie-ripa
 missions:
   - start: 2021-03-16
