@@ -5,7 +5,7 @@ owner: /organisations/mc
 logo: logo_culture.png
 website:
 github:
-contact: mailto:ateliernumerique.snum@culture.gouv.fr
+contact: ateliernumerique.snum@culture.gouv.fr
 address: 182 rue Saint-Honoré, Paris 1e
 ---
 

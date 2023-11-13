@@ -3,7 +3,7 @@ title: L'Incubateur des Territoires (ANCT)
 short_description: Cet incubateur accompagne les <span class="fr-text--bold">projets territoriaux</span> et instaure des <span class="fr-text--bold">communs numériques</span> entre collectivités territoriales, acteurs de l’économie sociale et solidaire.
 owner: /organisations/anct
 logo: logo_anct.png
-contact: mailto:contactincubateur@anct.gouv.fr
+contact: contactincubateur@anct.gouv.fr
 address: 20 avenue de Ségur, Paris 7e
 address : 21 rue des Ardennes, Paris 19e
 website: https://incubateur.anct.gouv.fr

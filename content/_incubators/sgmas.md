@@ -5,7 +5,7 @@ owner: /organisations/solidarite-sante
 logo: logo_fab_solidarite.png
 website: https://fabrique.social.gouv.fr/
 github: https://github.com/SocialGouv/
-contact: mailto:contact@fabrique.social.gouv.fr?subject=Incubateurs
+contact: contact@fabrique.social.gouv.fr?subject=Incubateurs
 address: 39 quai andré Citroën, Paris 15e
 ---
 

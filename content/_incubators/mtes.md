@@ -4,7 +4,7 @@ short_description: Lancé en 2017, cet incubateur a pour mission de soutenir les
 owner: /organisations/mtes
 logo: logo_fabnum_mtes.png
 github: https://github.com/MTES-MCT/
-contact: mailto:samuel.goldszmidt@beta.gouv.fr?subject=Incubateurs
+contact: samuel.goldszmidt@beta.gouv.fr?subject=Incubateurs
 address: Arche de la Défense, 1 parvis de la Défense, Puteaux
 highlighted_startups:
     - camino

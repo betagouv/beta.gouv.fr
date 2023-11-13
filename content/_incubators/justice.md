@@ -5,7 +5,7 @@ owner: Ministère de la Justice
 logo: justice_logo.png
 website: http://portail.innovation.intranet.justice.gouv.fr/
 github: NA
-contact: mailto:pole-innovation-spg.snum-sg@justice.gouv.fr
+contact: pole-innovation-spg.snum-sg@justice.gouv.fr
 address: 35 rue de la Gare, 75019 Paris
 ---
 

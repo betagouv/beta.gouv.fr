@@ -2,7 +2,7 @@
 title: L'Incubateur de Pôle emploi
 short_description: Depuis 2015, l’incubateur développe des solutions <span class="fr-text--bold">facilitant le retour à l’emploi souhaité et durable</span>.
 github: https://github.com/StartupsPoleEmploi/
-contact: mailto:lafabrique@pole-emploi.fr?subject=Incubateur
+contact: lafabrique@pole-emploi.fr?subject=Incubateur
 logo: logo_fab_pole_emploi.png
 owner: /organisations/pole-emploi
 website: "https://www.pole-emploi.org/accueil/ "

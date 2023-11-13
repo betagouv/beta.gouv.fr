@@ -5,7 +5,7 @@ owner: /organisations/mefr
 logo: logo_mefr.png
 website:
 github: https://github.com/139bercy/
-contact: mailto:amd@finances.gouv.fr?subject=Incubateur_MEFR
+contact: amd@finances.gouv.fr?subject=Incubateur_MEFR
 address: 139 rue de Bercy, Paris 12e
 ---
 

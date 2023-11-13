@@ -45,7 +45,11 @@ layout: default
                     <p class="fr-m-0">{{ content }}</p>
                     <div class="fr-btns-group fr-btns-group--inline">
                         {% if page.contact != nil %}
-                            <a class="fr-btn fr-btn--md fr-btn--secondary" href="mailto:{{ page.contact }}">Nous contacter</a>
+                            {% if page.contact contains "https://" %}
+                                <a class="fr-btn fr-btn--md fr-btn--secondary" href="{{ page.contact }}" target="_blank">Nous contacter</a>
+                            {% else %}
+                                <a class="fr-btn fr-btn--md fr-btn--secondary" href="mailto:{{ page.contact }}">Nous contacter</a>
+                            {% endif %}
                         {% endif %}
                         {% if page.website != nil %}
                             <a class="fr-btn fr-btn--md fr-btn--secondary" href="{{ page.website }}">Voir notre site</a>
@@ -167,7 +171,11 @@ layout: default
             {% if page.contact != nil %}
                 <div class="fr-grid-row">
                     <div class="fr-col">
-                        <a class="fr-btn fr-btn--secondary fr-btn--md fr-mt-2w" href="mailto:{{ page.contact }}"><span class="fr-icon-mail-open-line fr-icon--sm fr-mr-1w"></span> Contacter l’équipe d’animation</a>
+                        {% if page.contact contains "https://" %}
+                            <a class="fr-btn fr-btn--secondary fr-btn--md fr-mt-2w" href="{{ page.contact }}" target="_blank"><span class="fr-icon-mail-open-line fr-icon--sm fr-mr-1w"></span> Contacter l’équipe d’animation</a>
+                        {% else %}
+                            <a class="fr-btn fr-btn--secondary fr-btn--md fr-mt-2w" href="mailto:{{ page.contact }}"><span class="fr-icon-mail-open-line fr-icon--sm fr-mr-1w"></span> Contacter l’équipe d’animation</a>
+                        {% endif %}
                     </div>
                 </div>
             {% endif %}

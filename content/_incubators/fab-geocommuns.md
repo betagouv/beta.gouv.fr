@@ -5,7 +5,7 @@ owner: /organisations/ign
 logo: logo_fabrique_geocommuns.png
 website:
 github:
-contact: mailto:nicolas.berthelot@ign.fr
+contact: nicolas.berthelot@ign.fr
 address: 73 avenue de Paris, 94160 Saint Mandé
 ---
 
