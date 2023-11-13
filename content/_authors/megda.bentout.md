@@ -11,8 +11,8 @@ missions:
     employer: DGITM
 startups:
   - le-taxi
+  - dora
 memberType: beta
-
 ---
 
 
