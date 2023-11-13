@@ -4,7 +4,7 @@ incubator: dinum
 title: Asso'cié
 contact: esther.teboul@beta.gouv.fr
 sponsors:
-  - /organisations/DIPLP
+  - DIPLP
 phases:
   - name: investigation
     start: 2023-10-24
