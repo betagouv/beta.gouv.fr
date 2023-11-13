@@ -7,7 +7,7 @@ sponsors:
   - /organisations/mtei
 incubator: gip-inclusion
 link: https://connect.inclusion.beta.gouv.fr/
-repository: https://github.com/betagouv/itou-inclusion-connect
+repository: https://github.com/gip-inclusion/inclusion-connect
 contact: support@connect.inclusion.beta.gouv.fr
 analyse_risques: true
 accessibility_status: partiellement conforme
@@ -45,7 +45,7 @@ Tous les professionnels de l’inclusion. Comme les conseillers en insertion pro
 * Immersion facilitée
 * Rdv Insertion
 * Portail Emploi Lyon Métropole
-* EVA
+* eva
 
 Et grâce au mécanisme de la fédération d'identité les agents de Pôle emploi peuvent se connecter avec leurs identifiants NEPTUNE via Inlcusion Connect aux services cités ci-dessus.
 
