@@ -4,7 +4,7 @@ short_description: Lancé en octobre 2021, cet incubateur s’intéresse aux pro
 owner: Ministère de la Justice
 logo: justice_logo.png
 website: http://portail.innovation.intranet.justice.gouv.fr/
-github: NA
+github:
 contact: pole-innovation-spg.snum-sg@justice.gouv.fr
 address: 35 rue de la Gare, 75019 Paris
 ---
