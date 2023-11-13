@@ -22,7 +22,7 @@ l’analyse des candidatures, le Comité d’investissement de la 12ème
 <ul>
   <li>
     <h3 class="fr-mb-1w">
-      <a class="fr-link" target="_blank" rel="noopener" href="/incubateurs/#/incubators/ademe">
+      <a class="fr-link" target="_blank" rel="noopener" href="/incubateurs/ademe">
       L'Accélérateur de la transition écologique
       </a>
     </h3>

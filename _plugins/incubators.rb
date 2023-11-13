@@ -24,7 +24,7 @@ module Jekyll
         end
       end
       incubators.docs.each do |incubator|
-        incubatorName = incubator.id.gsub('/incubators/', '')
+        incubatorName = incubator.id.gsub('/incubateurs/', '')
         if !result[incubatorName]
           result[incubatorName] = {}
         end
@@ -39,5 +39,5 @@ module Jekyll
     end
   end
 end
-  
+
   Liquid::Template.register_tag('render_incubators_api', Jekyll::RenderIncubatorsApi)

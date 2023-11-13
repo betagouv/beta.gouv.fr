@@ -66,9 +66,9 @@ layout: default
     ];
     var incubators = [
         {% for incubator in incubators %} {
-        id: "{{incubator.id}}".replace('/incubators/', ''),
+        id: "{{incubator.id}}".replace('/incubateurs/', ''),
         title: "{{incubator.title}}",
-        url: "/startups/?incubateur={{ incubator.id | remove: '/incubators/' }}"
+        url: "/startups/?incubateur={{ incubator.id | remove: '/incubateurs/' }}"
         },
         {% endfor %}
     ];
@@ -95,7 +95,7 @@ layout: default
             {% else %}
             {% assign screenshot_path = "/img/betagouv-rectangle.png" %}
             {% endif %}
-            {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
+            {% capture incubator_id %}/incubateurs/{{ startup.incubator }}{% endcapture %}
             {% assign incubator = incubators | where:'id', incubator_id | first %}
             { "id"        : "{{ startup.id | remove: '/startups/' }}"
             , "type"      : "startup"
