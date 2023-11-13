@@ -9,14 +9,18 @@ missions:
     status: admin
     employer: DIPLP
   - start: 2022-05-16
-    end: 2024-05-16
+    end: 2023-11-10
     status: admin
     employer: ANCT
+  - start: 2023-11-13
+    end: 2025-11-13
+    status: admin
+    employer: DINUM
 badges:
   - segur
 competences:
   - Administration Publique
 teams:
-  - /teams/anct
+  - /teams/dinum
 ---
 J'essaie de faire quelque chose pour l'humanité en luttant contre la pauvreté
