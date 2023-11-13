@@ -1,10 +1,7 @@
 ---
 link: https://agentsenintervention.anct.gouv.fr
-mission: >-
-  "Faciliter jusqu'au terrain le pilotage et la coopération des équipes
-  techniques des collectivités."
-repository: >-
-  https://gitlab.com/incubateur-territoires/startups/agents-intervention/agents-en-intervention
+mission: Faciliter jusqu'au terrain le pilotage et la coopération des équipes techniques des collectivités.
+repository: https://gitlab.com/incubateur-territoires/startups/agents-intervention/agents-en-intervention
 incubator: anct
 title: Agents en intervention
 contact: alexandre.joubert@beta.gouv.fr
