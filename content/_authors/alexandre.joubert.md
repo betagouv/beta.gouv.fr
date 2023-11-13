@@ -11,7 +11,6 @@ missions:
 memberType: beta
 startups:
   - agents.en.intervention
-  - espace.sur.demande
 previously:
   - espace.sur.demande
 ---
