@@ -1,6 +1,6 @@
 ---
-title: Logement Etudiant
-mission: Faciliter l'accès au logement pour les étudiants
+title: Je Deviens Etudiant
+mission: Faciliter l'accès au logement et aux droits pour les étudiants
 sponsors:
   - /organisations/mesr
 incubator: dinum
