@@ -1,19 +1,21 @@
 ---
-title: Que faire de mes objets
-mission: Une liste complète et à jour des lieux pour réparer, recycler,
-  partager, donner, vendre ses objets.
+title: Longue vie aux objets
+mission: >-
+  Une liste complète et à jour des lieux pour réparer, recycler, partager,
+  donner, vendre ses objets.
 sponsors:
   - /organisations/ademe
 incubator: ademe
-link: https://quefairedemesdechets.ademe.fr/
+link: https://longuevieauxobjets.ademe.fr/
 contact: martin.regner@ademe.fr
-accessibility_status: partiellement conforme
+accessibility_status: non conforme
 events:
   - name: committee
     date: 2023-04-06
 phases:
   - name: construction
     start: 2023-05-15
+repository: https://github.com/incubateur-ademe/quefairedemesobjets
 ---
 ## Contexte 👀
 
