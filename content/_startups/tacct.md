@@ -1,9 +1,8 @@
 ---
 title: TACCT
 mission: >-
-  un véritable service autour de la méthodologie TACCT, pour aider les
-  territoires à monter en compétence et gagner en autonomie sur la thématique
-  Adaptation au changement climatique 
+  Aider les territoires à monter en compétence et gagner en autonomie sur la thématique
+  Adaptation au changement climatique selon la méthodologie TACCT 
 sponsors:
   - /organisations/ademe
 incubator: ademe
