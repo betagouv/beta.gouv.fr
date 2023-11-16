@@ -10,5 +10,7 @@ missions:
 startups:
   - stop-punaises
 memberType: beta
+previously:
+  - stop-punaises
 ---
 
