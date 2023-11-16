@@ -42,6 +42,7 @@ images:
   - /img/alpha/visio.png
 ---
 
+<br /><br />
 Vous êtes un agent public et vous souhaitez découvrir la méthode Beta.gouv ? Vous êtes agent public et vous avez identifié un problème à résoudre au sein de vos services ? **La formation Alpha est faite pour vous !**
 
 Depuis novembre 2017, la formation Alpha a pour vocation de diffuser la méthode Beta.gouv au sein de l’État afin d’aider les agents à améliorer le service public de l’intérieur en répondant vraiment aux problèmes des citoyens et agents publics.
