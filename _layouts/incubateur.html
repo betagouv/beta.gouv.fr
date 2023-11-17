@@ -51,7 +51,8 @@ layout: default
                                 <a class="fr-btn fr-btn--md fr-btn--secondary" href="mailto:{{ page.contact }}">Nous contacter</a>
                             {% endif %}
                         {% endif %}
-                        {% if page.website != nil %}
+                        {% if page.website != nil and incubator_id != "dinum" %}
+                            {% comment %} there is no sense to link to DINUM website since it's the current one {% endcomment %}
                             <a class="fr-btn fr-btn--md fr-btn--secondary" href="{{ page.website }}">Voir notre site</a>
                         {% endif %}
                         {% if page.github != nil %}
