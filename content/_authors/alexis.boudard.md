@@ -7,6 +7,8 @@ missions:
     end: 2024-12-27
     status: admin
     employer: ANCT
+teams:
+  - /teams/anct
 memberType: beta
 ---
 
