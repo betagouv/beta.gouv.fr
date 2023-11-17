@@ -3,8 +3,7 @@ layout: default
 ---
 
 {% assign lang = page.lang | default: site.lang | default: "en" %}
-{% comment %} TODO: find a way to sort incubators based on success startups count {% endcomment %}
-{%- assign sortedIncubators = site.incubators -%}
+{%- assign sortedIncubators = site.incubators | sort_incubators_by_active_startups: site.startups -%}
 
 <div id="incubateurs">
     <section class="blue-background">

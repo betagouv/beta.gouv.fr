@@ -1,4 +1,32 @@
 module Jekyll
+  # an active startup is considered being either in:
+  # - investigation
+  # - construction
+  # - acceleration
+  # - transfer
+  #
+  # we add an exception to always consider the main incubator at the top of the list
+  module SortIncubatorsByActiveStartupsFilter
+    def sort_incubators_by_active_startups(incubators, startups)
+      sorted_incubators = incubators.sort_by {|incubator|
+        startups.count { |startup|
+          "/incubateurs/#{startup['incubator']}" === incubator.id &&
+            ['investigation', 'construction', 'acceleration', 'transfer'].include?(get_phase(startup))
+        }
+      }.reverse
+
+      # Place 'dinum' at the top
+      sorted_incubators = (sorted_incubators.partition { |incubator| incubator.id == '/incubateurs/dinum' }).flatten
+
+      sorted_incubators
+    end
+
+    # copied from `_plugins/phases.rb` but it's too tricky to reapply the filter in another separated filter
+    def get_phase(startup)
+      startup['phases'].last['name'] || startup.data['phases']&.last['name']
+    end
+  end
+
   class RenderIncubatorsApi < Liquid::Tag
     def render(context)
       result = {}
@@ -40,4 +68,5 @@ module Jekyll
   end
 end
 
-  Liquid::Template.register_tag('render_incubators_api', Jekyll::RenderIncubatorsApi)
+Liquid::Template.register_filter(Jekyll::SortIncubatorsByActiveStartupsFilter)
+Liquid::Template.register_tag('render_incubators_api', Jekyll::RenderIncubatorsApi)
