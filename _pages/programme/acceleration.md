@@ -32,8 +32,3 @@ La sélection de la Saison 1 de Gamma a eu lieu en septembre 2020. Les équipes 
 - [DossierFacile](https://beta.gouv.fr/startups/locatio.html)
 - [Aides Territoires](https://beta.gouv.fr/startups/aides-territoires.html)
 - [Mon Entreprise](https://beta.gouv.fr/startups/mon-entreprise.html)
-
-La sélection de la Saison 2 de Gamma est ouverte jusqu’au 31 mars 2021. Les candidatures se font en écrivant un mail à gamma@beta.gouv.fr pour fixer un entretien.
-
-Pour contacter l'équipe Gamma : gamma@beta.gouv.fr.
-
