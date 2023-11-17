@@ -5,6 +5,7 @@ redirect_from:
   - /postuler/
 title: Nous contacter
 sidebar: sidebar-contact.html
+hero_title: "Nous contacter"
 ---
 
 <span id="services"></span>
