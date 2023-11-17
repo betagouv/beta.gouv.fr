@@ -1,6 +1,6 @@
 ---
 fullname: Anais Tailhade
-role: Support & Relation partenaires
+role: 'Coordination & Support '
 domaine: Autre
 github: Anais-Tailhade
 missions:
