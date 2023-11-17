@@ -1,6 +1,7 @@
 ---
 title: ROMIN
-mission: Faciliter l'accès et l'utilisation des outils d'intervention en Service
+mission: >-
+  Faciliter l'accès et l'utilisation des outils d'intervention en Service
   Pénitentiaire d'Insertion et de Probation (SPIP)
 sponsors:
   - /organisations/mj
@@ -15,7 +16,8 @@ events:
     comment: Kick-off de l'investigation
   - name: committee
     date: 2022-11-17
-    comment: Comité d'investigation, avis concluant pour un passage en phase de
+    comment: >-
+      Comité d'investigation, avis concluant pour un passage en phase de
       construction
   - name: committee
     date: 2023-06-28
@@ -24,7 +26,6 @@ phases:
   - name: investigation
     start: 2022-06-29
     end: 2022-11-17
-    comment: Investigation concluante pour un passage en phase de construction
   - name: construction
     start: 2022-11-17
 usertypes:
@@ -63,6 +64,6 @@ ROMIN s’intègre à l’environnement professionnel des agents et constitue un
 
 ROMIN donne accès à plusieurs dizaines d’outils ciblés et ce volume continue de grandir en permanence. Sous peu, au-delà des outils mobilisables en entretien individuel, il donnera accès aux différents programmes connus et valorisera les supports dont l’impact positif a été démontré. Les techniques et méthodes d’intervention courantes seront explicitées de façon synthétique afin de permettre aux agents de gagner en fluidité dans leurs interventions.
 
-Au-delà des 3 premiers SPIP embarqués dans l’expérimentation, de nombreux professionnels en SPIP partout en France testent individuellement l’expérience ROMIN. Le déploiement de la solution numérique à plus grande échelle mobilisera d’abord nos meilleurs ambassadeurs avant de s’étendre à l’ensemble des agents.
+Une quinzaine de SPIP participe à l’expérimentation et de nombreux professionnels en SPIP partout en France testent individuellement l’expérience ROMIN. Le déploiement de la solution numérique à plus grande échelle mobilisera d’abord nos meilleurs ambassadeurs avant de s’étendre à l’ensemble des agents.
 
-**L’impact de ROMIN se mesure via les données statistiques de consultation auxquelles sont combinés les retours qualitatifs de nos utilisateurs**, principalement CPIP. Au-delà, les professionnels chargés du soutien technique (directeur pénitentiaire d'insertion et de probation, psychologues en SPIP et unités de soutien métier) contribueront à mesurer notre partipation globale à l’application du modèle efficace et, par conséquent, à la diminution de la récidive.
+**L’impact de ROMIN se mesure via les données statistiques de consultation auxquelles sont combinées les retours qualitatifs de nos utilisateurs**, principalement CPIP. Au-delà, les professionnels chargés du soutien technique (directeur pénitentiaire d'insertion et de probation, psychologues en SPIP et unités de soutien métier) contribueront à mesurer notre participation globale à l’application du modèle efficace et, par conséquent, à la diminution de la récidive.
