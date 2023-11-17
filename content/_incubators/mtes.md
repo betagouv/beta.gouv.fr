@@ -8,6 +8,7 @@ contact: samuel.goldszmidt@beta.gouv.fr?subject=Incubateurs
 address: Arche de la Défense, 1 parvis de la Défense, Puteaux
 highlighted_startups:
     - camino
+    - partaj
     - resorption-bidonvilles
 ---
 

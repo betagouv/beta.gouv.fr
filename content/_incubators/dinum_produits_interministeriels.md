@@ -1,6 +1,6 @@
 ---
 title: Opérateur de produits interministériels
-short_description:
+short_description: Cet incubateur se focalise sur la création d’une suite bureautique numérique pour les agents publics.
 owner: /organisations/dinum
 website: https://numerique.gouv.fr/
 logo: logo_dinum.png
@@ -10,6 +10,10 @@ address: 20 avenue de Ségur, Paris 7e
 redirect_from:
   - /incubateurs/api_dinsic
   - /incubateurs/apigouv
+highlighted_startups:
+    - audioconf
+    - tchap
+    - annuaire-entreprises
 ---
 
 L'opérateur de produits interministériels (DINUM) assure un environnement de confiance pour la mutualisation de produits numériques essentiels, en étendant son savoir-faire développé en opérant le RIE, FranceConnect, data.gouv.fr et api.gouv.fr.

@@ -8,6 +8,10 @@ address: 20 avenue de Ségur, Paris 7e
 address : 21 rue des Ardennes, Paris 19e
 website: https://incubateur.anct.gouv.fr
 github: https://gitlab.com/incubateur-territoires/
+highlighted_startups:
+    - bases.adresses.locales
+    - conseiller-numerique
+    - rdv-service-public
 ---
 
 L’Incubateur des Territoires est un programme de l'Agence national de la cohésion des territoires. Membre du réseau beta.gouv dont il suit et diffuse [l'approche](https://beta.gouv.fr/manifeste), il vise à **accompagner les collectivités territoriales (élus, agents publics, citoyens) dans leurs usages du numérique** en :

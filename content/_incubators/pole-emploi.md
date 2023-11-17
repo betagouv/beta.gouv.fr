@@ -8,6 +8,10 @@ owner: /organisations/pole-emploi
 website: "https://www.pole-emploi.org/accueil/ "
 address: 70 rue de Lagny, Montreuil
 redirect_from: []
+highlighted_startups:
+    - competence.validee
+    - la-bonne-boite
+    - mes.aides
 ---
 
 Depuis 2015, la Fabrique Pôle emploi adresse chaque année à l'ensemble de ses agents [un appel à innover](https://blog.beta.gouv.fr/general/2017/03/22/intrapreneurs-comment-les-trouver/). Des conseillers et conseillères de terrain sont mandatés pour développer des solutions **facilitant le retour à l'emploi souhaité et durable**.
