@@ -17,6 +17,7 @@ phases:
     start: 2022-01-31
 dashlord_url: https://incubateur-territoires.github.io/dashlord/
 repository: https://gitlab.com/incubateur-territoires/startups/deveco/deveco
+stats_url: https://deveco.incubateur.anct.gouv.fr/stats
 ---
 ## Le contexte
 
