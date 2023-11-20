@@ -5,7 +5,7 @@ layout: default
 {% assign lang = page.lang | default: site.lang | default: "en" %}
 
 {% if page.hero_title %}
-  {% include hero-page.html title=page.title subtitle=page.subtitle %}
+  {% include hero-page.html title=page.title subtitle=page.subtitle light=true %}
 {% endif %}
 
 <div class="fr-container fr-pb-6w fr-pt-6w">
