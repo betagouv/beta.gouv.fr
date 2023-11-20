@@ -9,11 +9,9 @@ contact: mathieu.bobin@beta.gouv.fr
 accessibility_status: non conforme
 events: []
 phases:
-  - name: investigation
+  - name: alumni
     start: 2023-06-04
 ---
- 
-
 ## Contexte
 
 A﻿ Mayotte la préservation de l'environnement est un enjeu très important et malgré cela il y a de nombreuses atteintes à l'environnement. 
