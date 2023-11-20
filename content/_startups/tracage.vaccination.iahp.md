@@ -3,15 +3,13 @@ title: Traçage vaccination IAHP
 mission: Comment mettre en place le plan de vaccination national sur le terrain et sa
   traçabilité dans un délai de quatre mois ?
 owner: Ministère de l'Agriculture et de la Souverainté Alimentaire
-repository: https://github.com/MTES-MCT/tracage.vaccination.iahp
-contact: andrea.jimenez-pellicer@agriculture.gouv.fr ; lea.genovesi@beta.gouv.fr
+repository: https://github.com/MTES-MCT/tracage.vaccination.iahp.md
+contact: andrea.jimenez-pellicer@agriculture.gouv.fr
 stats: false
 accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-06-11
-redirect_from:
-    - /startups/access4all
 ---
 
 ## Contexte
