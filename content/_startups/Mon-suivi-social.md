@@ -54,3 +54,5 @@ Les premières fonctionnalités expérimentées portaient sur :
 ### 🥇 Récompenses
 
 Mon Suivi Social a été récompensé lors du Congrès National de l'Union Nationale des Centres Communaux d'Action Sociale (UNCCAS) le 28 mars 2023 à Bourges.
+
+Mon Suivi Social est finaliste du Prix de l'Innovation du Salon des Maires et des Collectivités Locales  2023 dans la catégorie "Numérique Responsable"
