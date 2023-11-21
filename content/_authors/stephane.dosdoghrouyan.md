@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: Incubateur des territoires
 memberType: beta
+github: sdsgh
 ---
 
 9 ans d'expérience en direction de projet numérique et mise en application opérationnelle (De 2 à 50 personnes, sponsors inclus) :

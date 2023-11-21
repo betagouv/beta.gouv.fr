@@ -1,5 +1,5 @@
 ---
-title: EXPERTS
+title: seLEXpert
 mission: >-
   Une meilleure gestion des procédures grâce à la pré-sélection et la 
   désignation dématerialisées du bon expert  
@@ -11,7 +11,6 @@ accessibility_status: non conforme
 phases:
   - name: construction
     start: 2023-01-03
-    end: 2023-06-30
 link: https://selexpert.anje-justice.fr/
 stats: true
 stats_url: https://selexpert.anje-justice.fr/stats

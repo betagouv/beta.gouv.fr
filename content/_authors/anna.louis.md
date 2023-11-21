@@ -9,6 +9,7 @@ missions:
     employer: NUMA
 startups:
   - carbure
+previously:
   - camino
 ---
 >-

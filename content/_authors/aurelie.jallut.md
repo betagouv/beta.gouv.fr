@@ -12,6 +12,7 @@ missions:
 startups:
   - données-et-territoires
   - sndv_maritime
+  - umap
 previously:
   - Aplus
 badges:

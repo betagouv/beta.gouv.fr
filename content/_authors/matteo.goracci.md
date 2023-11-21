@@ -1,6 +1,6 @@
 ---
 fullname: Matteo Goracci
-role: Chargé de support utilisateurs
+role: Chargé de déploiement
 domaine: Déploiement
 missions:
   - start: 2022-01-17
@@ -8,7 +8,7 @@ missions:
     status: admin
     employer: ANCT
   - start: 2022-09-12
-    end: 2023-11-25
+    end: 2024-01-15
     status: independent
     employer: OCTO
 startups:

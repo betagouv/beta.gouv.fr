@@ -19,8 +19,10 @@ missions:
 incubator: fab-geocommuns
 startups:
   - mission.debroussaillement
+  - inventaire.zae
 previously:
   - aides.jeunes
+  - artsducirque
 competences:
   - Coaching
 ---

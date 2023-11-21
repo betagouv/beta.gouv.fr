@@ -10,6 +10,7 @@ missions:
 startups:
   - lannuaire.des.collectivites
   - espace.sur.demande
+  - agents.en.intervention
 memberType: beta
 competences:
   - Croissance

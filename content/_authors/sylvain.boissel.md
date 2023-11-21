@@ -10,6 +10,10 @@ missions:
     status: independent
     employer: Malt
 startups:
+  - suite.collaborative
+previously:
   - aides-territoires
+badges:
+  - segur
 ---
 

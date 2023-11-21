@@ -1,8 +1,9 @@
 ---
 title: NATA
-mission: "Proposer aux femmes enceintes en précarité un parcours éclairé et
-  sécurisant qui prend en compte leurs spécificités, potentialités et facteurs
-  de vulnérabilité "
+mission: >-
+  Proposer aux femmes enceintes en précarité un parcours éclairé et sécurisant
+  qui prend en compte leurs spécificités, potentialités et facteurs de
+  vulnérabilité 
 sponsors:
   - /organisations/solidarite-sante
 incubator: sgmas
@@ -14,6 +15,9 @@ phases:
     end: 2023-01-25
   - name: construction
     start: 2023-01-25
+link: https://nata.fabrique.social.gouv.fr/
+stats_url: >-
+  https://matomo-metabase-nata.fabrique.social.gouv.fr/dashboard/1-nata?lieu=France&granularit%25C3%25A9=month
 ---
 ##### LE PROBLEME
 

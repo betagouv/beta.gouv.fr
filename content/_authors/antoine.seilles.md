@@ -3,7 +3,7 @@ fullname: antoine seilles
 domaine: Coaching
 role: Coach
 github: natoine
-link: https://natoine.fr
+link: https://www.linkedin.com/in/antoineseilles/
 missions:
   - start: 2021-09-09
     end: 2023-12-25

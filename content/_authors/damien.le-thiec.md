@@ -13,7 +13,7 @@ missions:
     status: independent
     employer: Aides Jeunes
 startups:
-  - justif
+  - mon-suivi-justice
 previously:
   - aides.jeunes
 competences:

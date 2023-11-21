@@ -1,21 +1,21 @@
 ---
 title: Athéna
-mission: Consulter plus facilement les procédures liées à la gestion de crise 
+mission: Consulter plus facilement les procédures liées à la gestion de crise
 sponsors:
   - /organisations/armees
 incubator: fabnumdef
 contact: mathieu.mahr@beta.gouv.fr
 phases:
-  - comment: ""
-    name: transfer
+  - name: transfer
     start: 2021-04-01
     end: 2022-06-01
   - name: construction
     start: 2021-10-14
+  - name: transfer
+    start: 2023-11-13
 usertypes:
   - etat
 ---
-
 ## Contexte
 - Équipe sponsorisée par le Ministère des armées et le SGDSN.
 

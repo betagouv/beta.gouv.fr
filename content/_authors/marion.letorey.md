@@ -1,6 +1,6 @@
 ---
 fullname: Marion Letorey
-role: Chargée de portefeuille
+role: Chargée de déploiement
 domaine: Autre
 github: maroox
 missions:
@@ -9,6 +9,8 @@ missions:
     status: independent
     employer: Malt
 memberType: beta
+startups:
+  - experts
 ---
 
 Chargée de portefeuille à l'incubateur des territoires

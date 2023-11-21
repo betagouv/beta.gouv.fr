@@ -12,7 +12,7 @@ phases:
     end: 2023-03-30
   - name: construction
     start: 2023-03-30
-link: http://mission-transition.beta.gouv.fr/
+link: http://mission-transition-ecologique.beta.gouv.fr/
 repository: https://github.com/betagouv/transition-ecologique-entreprises-widget
 stats: false
 stats_url: >-
