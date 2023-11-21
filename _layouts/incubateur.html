@@ -11,7 +11,11 @@ layout: default
 {% assign constructionStartupsCount = incubatorStartups | where_phase: 'construction' | size %}
 {% assign accelerationStartupsCount = incubatorStartups | where_phase: 'acceleration' | size %}
 {% assign inProgressStartupsCount = constructionStartupsCount | plus: accelerationStartupsCount %}
+
+{% assign transferStartupsCount = incubatorStartups | where_phase: 'transfer' | size %}
 {% assign successStartupsCount = incubatorStartups | where_phase: 'success' | size %}
+{% assign nationalsStartupsCount = transferStartupsCount | plus: successStartupsCount %}
+
 
 {%- assign teams = site.teams -%}
 {%- assign current_authors = site.authors | community: 'current', 'alpha' -%}
@@ -76,7 +80,7 @@ layout: default
             </div>
             <div class="fr-grid-row fr-grid-row--gutters">
                 <div class="fr-col-12 fr-col-sm-4">
-                    {% if counter > 1 %}
+                    {% if investigationStartupsCount > 1 %}
                         {% capture title %}{{ investigationStartupsCount }} investigations{% endcapture %}
                     {% else %}
                         {% capture title %}{{ investigationStartupsCount }} investigation{% endcapture %}
@@ -88,26 +92,26 @@ layout: default
                     %}
                 </div>
                 <div class="fr-col-12 fr-col-sm-4">
-                    {% if counter > 1 %}
+                    {% if inProgressStartupsCount > 1 %}
                         {% capture title %}{{ inProgressStartupsCount }} services en construction{% endcapture %}
                     {% else %}
                         {% capture title %}{{ inProgressStartupsCount }} service en construction{% endcapture %}
                     {% endif %}
                     {% include card-highlight.html
                         title=title
-                        description="En phase de construction, l’équipe réalise un service numérique grâce à des apprentissages terrains."
+                        description="En phase de construction et d'accélération, l’équipe réalise un service numérique grâce à des apprentissages terrains."
                         icon="/assets/images/icons/incubateur/in-progress.svg"
                     %}
                 </div>
                 <div class="fr-col-12 fr-col-sm-4">
-                    {% if counter > 1 %}
-                        {% capture title %}{{ successStartupsCount }} services nationaux{% endcapture %}
+                    {% if nationalsStartupsCount > 1 %}
+                        {% capture title %}{{ nationalsStartupsCount }} services nationaux{% endcapture %}
                     {% else %}
-                        {% capture title %}{{ successStartupsCount }} service national{% endcapture %}
+                        {% capture title %}{{ nationalsStartupsCount }} service national{% endcapture %}
                     {% endif %}
                     {% include card-highlight.html
                         title=title
-                        description="En phase d’accélération, les services sont déployés dans toute la France, pour un impact maximal."
+                        description="Les services sont déployés dans toute la France, pour un impact maximal. Ils sont ensuite pérénisés au sein d'une structure adaptée."
                         icon="/assets/images/icons/incubateur/internet.svg"
                     %}
                 </div>
