@@ -1,6 +1,6 @@
 ---
 title: Opérateur de produits interministériels
-short_description: Cet incubateur se focalise sur la création d’une suite bureautique numérique pour les agents publics.
+short_description: Cet incubateur se focalise sur la création d’une <span class="fr-text--bold">suite bureautique numérique pour les agents publics</span>.
 owner: /organisations/dinum
 website: https://numerique.gouv.fr/
 logo: logo_dinum.png

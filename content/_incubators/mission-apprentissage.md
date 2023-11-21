@@ -1,6 +1,6 @@
 ---
 title: Mission interministérielle pour l’apprentissage
-short_description: Cet incubateur développe des services numériques pour faciliter les entrées en apprentissage.
+short_description: Cet incubateur développe des services numériques pour faciliter les <span class="fr-text--bold">entrées en apprentissage</span>.
 owner:
 logo: logo_beta.png
 website: https://mission-apprentissage.gitbook.io/general/

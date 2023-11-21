@@ -1,6 +1,6 @@
 ---
 title: Lab MI
-short_description: Ce lab, lancé en 2018, est la structure d’accompagnement des projets d’innovation numérique du Ministère de l’Intérieur.
+short_description: Ce lab, lancé en 2018, est la structure d’accompagnement des projets d’innovation numérique du <span class="fr-text--bold">Ministère de l’Intérieur</span>.
 owner: /organisations/interieur
 logo: logo_lab_mi.png
 website: https://beta.interieur.gouv.fr/

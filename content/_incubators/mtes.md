@@ -1,6 +1,6 @@
 ---
 title: La Fabrique Numérique de l'Ecologie (MTE-MCT)
-short_description: Lancé en 2017, cet incubateur a pour mission de soutenir les services en faveur de l’écologie et des territoires.
+short_description: Lancé en 2017, cet incubateur a pour mission de soutenir les services en faveur de l’<span class="fr-text--bold">écologie et des territoires</span>.
 owner: /organisations/mtes
 logo: logo_fabnum_mtes.png
 github: https://github.com/MTES-MCT/
