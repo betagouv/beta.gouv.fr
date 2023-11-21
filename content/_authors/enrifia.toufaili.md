@@ -1,6 +1,6 @@
 ---
 fullname: Enrifia Toufaili
-role: Admin - Malt
+role:  Assistant Responsable de compte - Malt
 domaine: Autre
 missions:
   - start: 2023-11-20
