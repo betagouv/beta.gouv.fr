@@ -22,3 +22,4 @@ previously:
   - locatio
   - filigrane
 ---
+Fonctionnaire très attaché aux valeurs du service public, j'aime la gestion de projet et l'action publique efficace. J'écris pas mal sur ce que je fais sur LinkedIn. Sportif et chanteur en-dehors du travail. Passé par Grand Paris Aménagement et DossierFacile.

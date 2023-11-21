@@ -1,6 +1,6 @@
 ---
 fullname: Anais Tailhade
-role: Support & Relation partenaires
+role: 'Coordination & Support '
 domaine: Autre
 github: Anais-Tailhade
 missions:
@@ -18,5 +18,6 @@ startups:
   - annuaire-entreprises
 previously:
   - data.gouv.fr
+  - oots.once-only.technical.system
 ---
 
