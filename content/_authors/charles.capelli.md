@@ -5,7 +5,7 @@ domaine: Développement
 github: Scttpr
 missions:
   - start: 2022-02-22
-    end: 2023-05-30
+    end: 2024-05-30
     status: service
     employer: Incubateur des territoires
 previously:
@@ -15,5 +15,3 @@ competences:
   - Infosec
   - Devops
 ---
-
-
