@@ -6,6 +6,6 @@ missions:
   - start: 2023-11-20
     end: 2024-11-30
     status: independent
-memberType: autre
+memberType: attributaire
 ---
 
