@@ -8,9 +8,9 @@ title: Déclaration d'accessibilité
 
 La DINUM s’engage à rendre son service accessible, conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005.
 
-À cette fin, nous mettons en œuvre la stratégie et les actions suivantes : [Télécharger le schéma pluriannuel de la DINUM au format PDF](https://www.numerique.gouv.fr/uploads/DINUM_SchemaPluriannuel_2020.pdf).
+À cette fin, nous mettons en œuvre la stratégie et les actions suivantes : [voir notre schéma pluriannuel](/accessibilite/schema-pluriannuel).
 
-Cette déclaration d’accessibilité s’applique à beta.gouv.fr.
+Cette déclaration d’accessibilité s’applique au site beta.gouv.fr.
 
 ### État de conformité
 beta.gouv.fr est non conforme avec le RGAA 4.1. Le site n’a pas encore été audité.
@@ -23,7 +23,6 @@ Si vous n’arrivez pas à accéder à un contenu ou à un service, vous pouvez 
 
 - E-mail : [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr)
 - Adresse : DINUM 20 avenue de Ségur 75007 Paris
-- [Notre compte twitter @BetaGouv](https://twitter.com/BetaGouv)
 
 Nous essayons de répondre dans les 2 jours ouvrés.
 
