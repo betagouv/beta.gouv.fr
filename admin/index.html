@@ -63,10 +63,10 @@
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script>
       if(document.location.href.endsWith("/admin")) {
-            window.location.href = "/admin/";   
+            window.location.href = "/admin/";
       }
   </script>
-  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script src="https://unpkg.com/netlify-cms@%5E2.0.0/dist/netlify-cms.js"></script>
   <script type="text/javascript">
     var oldHref = document.location.href;
     var intervalID
@@ -114,7 +114,7 @@
           var searchInput = searchContainer.querySelector('[class*="SearchInput"]');
           searchInput.placeholder = 'Rechercher un produit, un membre, ...'
         }
-        
+
         var createButton = document.querySelector('[class*="CollectionTopNewButton"]');
         if (createButton && createButton.innerText === 'Créer une entrée de type Produit') {
           createButton.innerText = 'Créer une fiche produit'
@@ -144,7 +144,7 @@
     }
     setIntervalCheck()
   </script>
-  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script src="https://unpkg.com/netlify-cms@%5E2.0.0/dist/netlify-cms.js"></script>
   <!-- <script>
       var CategoriesControl = createClass({
         handleChange: async function(e) {
@@ -153,7 +153,7 @@
           this.options = authors
           this.props.onChange(e.target.value.split(separator).map((e) => e.trim()));
         },
-      
+
         render: function() {
           const separator = this.props.field.get('separator', ', ');
           var value = this.props.value;
@@ -169,7 +169,7 @@
           }));
         },
       });
-      
+
       var CategoriesPreview = createClass({
         render: function() {
           console.log('LCS RENDER PREVIEW')
@@ -180,13 +180,13 @@
           );
         }
       });
-      
+
       var schema = {
         properties: {
           separator: { type: 'string' },
         },
       }
-      
+
       CMS.registerWidget('betamembers', CategoriesControl, CategoriesPreview, schema);
   </script> -->
   <script src='/admin/widget-select-async.js'></script>

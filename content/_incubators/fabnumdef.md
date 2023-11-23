@@ -1,6 +1,6 @@
 ---
 title: La Fabrique Numérique du Ministère des armées
-short_description: Lancé en 2019, cet incubateur encourage l’innovation au sein du <span class="fr-text--bold">ministère des Armées<span class="fr-text--bold">.
+short_description: Lancé en 2019, cet incubateur encourage l’innovation au sein du <span class="fr-text--bold">ministère des Armées</span>.
 owner: /organisations/armees
 logo: logo_fab_num_armee.png
 github: https://github.com/fabnumdef

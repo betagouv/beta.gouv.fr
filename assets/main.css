@@ -553,3 +553,11 @@ img.lozad {
 .blue-background {
     background: var(--background-alt-blue-france);
 }
+
+#job-page p {
+    margin: 1.5rem 0 0 0;
+}
+
+#job-page h2, #job-page h3 {
+    margin: 3rem 0 1rem 0;
+}
