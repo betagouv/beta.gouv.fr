@@ -12,7 +12,7 @@ missions:
     status: independent
     employer: ut7
   - start: 2018-11-13
-    end: 2023-12-31
+    end: 2024-05-30
     status: independent
     employer: octo
 previously:
@@ -22,4 +22,6 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+startups:
+  - chauffage-urbain
 ---
