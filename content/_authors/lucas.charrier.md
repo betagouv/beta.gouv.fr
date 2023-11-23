@@ -10,9 +10,9 @@ missions:
     status: admin
     employer: DINUM
   - start: 2022-01-04
-    end: 2023-12-20
+    end: 2024-02-20
     status: independent
-    employer: Benext
+    employer: Scopyleft
 previously:
   - aides.jeunes
 memberType: beta
