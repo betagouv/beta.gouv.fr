@@ -157,21 +157,8 @@ layout: default
                     {%- if team.incubator == incubator_id -%}
                         {%- assign authors = team_authors | where_exp: "item", "item.teams contains team.id" -%}
                         {%- for author in authors -%}
-                            <div class="fr-col-12 fr-col-lg-3 fr-col-md-4 fr-col-sm-6 fr-mb-2w">
-                                <div class="fr-card">
-                                    <div class="fr-card__body">
-                                        <div class="fr-card__content">
-                                            <p class="fr-card__title fr-h6">
-                                                {% if author.link.size > 0 %}
-                                                    <a href="{{ author.link }}" target="_blank" rel="noopener" title="Site web de {{author.fullname}} - nouvelle fenêtre">{{ author.fullname }}</a>
-                                                {% else %}
-                                                    {{ author.fullname }}
-                                                {% endif %}
-                                            </p>
-                                            <p class="fr-card__desc">{{ author.role }}</p>
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="fr-col-6 fr-col-sm-4 fr-col-md-3 fr-col-lg-3">
+                                {%- include card-community.html author=author hide_details=true -%}
                             </div>
                         {%- endfor -%}
                     {%- endif -%}
