@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% assign lang = page.lang | default: site.lang | default: "en" %}
-{%- assign sortedIncubators = site.incubators | sort_incubators_by_active_startups: site.startups -%}
+{%- assign sortedActiveIncubators = site.incubators | sort_incubators_by_active_startups: site.startups | filter_incubators_with_active_startups: site.startups -%}
 
 <div id="incubateurs">
     <section class="blue-background">
@@ -67,7 +67,7 @@ layout: default
     <section class="fr-pb-2w">
         <div class="fr-container">
             <div class="fr-grid-row fr-grid-row--gutters">
-                {%- for incubator in sortedIncubators -%}
+                {%- for incubator in sortedActiveIncubators -%}
                     <div class="fr-col-12 fr-col-md-4 fr-mb-2w">
                         {%- include card-incubator.html incubator=incubator -%}
                     </div>

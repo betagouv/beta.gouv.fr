@@ -6,19 +6,29 @@ module Jekyll
   # - transfer
   #
   # we add an exception to always consider the main incubator at the top of the list
-  module SortIncubatorsByActiveStartupsFilter
+  module ActiveStartupsFilter
     def sort_incubators_by_active_startups(incubators, startups)
       sorted_incubators = incubators.sort_by {|incubator|
-        startups.count { |startup|
-          "/incubateurs/#{startup['incubator']}" === incubator.id &&
-            ['investigation', 'construction', 'acceleration', 'transfer'].include?(get_phase(startup))
-        }
+        count_incubator_active_startups(incubator, startups)
       }.reverse
 
       # Place 'dinum' at the top
       sorted_incubators = (sorted_incubators.partition { |incubator| incubator.id == '/incubateurs/dinum' }).flatten
 
       sorted_incubators
+    end
+
+    def filter_incubators_with_active_startups(incubators, startups)
+      incubators.select {|incubator|
+        count_incubator_active_startups(incubator, startups) > 0
+      }
+    end
+
+    def count_incubator_active_startups(incubator, startups)
+      startups.count { |startup|
+        "/incubateurs/#{startup['incubator']}" === incubator.id &&
+          ['investigation', 'construction', 'acceleration', 'transfer'].include?(get_phase(startup))
+      }
     end
 
     # copied from `_plugins/phases.rb` but it's too tricky to reapply the filter in another separated filter
@@ -68,5 +78,5 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_filter(Jekyll::SortIncubatorsByActiveStartupsFilter)
+Liquid::Template.register_filter(Jekyll::ActiveStartupsFilter)
 Liquid::Template.register_tag('render_incubators_api', Jekyll::RenderIncubatorsApi)
