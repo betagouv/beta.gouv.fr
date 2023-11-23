@@ -4,6 +4,7 @@ layout: default
 
 {% assign lang = page.lang | default: site.lang | default: "en" %}
 {%- assign sortedActiveIncubators = site.incubators | sort_incubators_by_active_startups: site.startups | filter_incubators_with_active_startups: site.startups -%}
+{%- assign activeIncubatorsCount = site.incubators | filter_incubators_with_active_startups: site.startups | size -%}
 
 <div id="incubateurs">
     <section class="blue-background">
@@ -33,7 +34,7 @@ layout: default
                 <div class="fr-col">
                     <ul class="checkmark-list">
                         <li>
-                            <span class="fr-text--bold">18 incubateurs depuis 2014</span>
+                            <span class="fr-text--bold">{{activeIncubatorsCount}} incubateurs depuis 2014</span>
                             <div class="fr-text--sm">Depuis la création du premier incubateur, nous avons accompagné de nombreux ministères à mettre en place leur propre incubateur.</div>
                         </li>
                         <li>
