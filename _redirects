@@ -2,7 +2,8 @@
 /startup/*  /startups/:splat
 /alpha/mooc/*  /approche/formation/mooc/:splat
 
-/startups/logement.etudiant* /startups/je-deviens-etudiant.html
+/startups/logement.etudiant /startups/je-deviens-etudiant.html
+/startups/logement.etudiant.html /startups/je-deviens-etudiant.html
 
 # Gérer la redirection vers blog.beta.gouv.fr
 
