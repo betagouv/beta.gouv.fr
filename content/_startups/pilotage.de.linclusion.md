@@ -15,10 +15,9 @@ phases:
   - name: acceleration
     start: 2022-06-01   
 usertypes:
-  - entreprise solidaire
+  - entreprise
   - etat
   - collectivite-territoriale
-  - prescripteur
 accessibility_status: partiellement conforme
 ---
 ## Contexte
