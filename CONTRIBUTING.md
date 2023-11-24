@@ -24,7 +24,7 @@ Ajouter un image `$id_startup.jpg`ou .png dans le dossier [img/startups](https:/
 
 ## Ajouter un membre à la communauté BetaGouv
 
-En complétant, le formulaire d'onboarding : https://secretariat.incubateur.net/onboarding , une PR sera créé et une fois validé, l'adresse email est créé.
+En complétant, le formulaire d'onboarding : https://espace-membre.incubateur.net/onboarding , une PR sera créé et une fois validé, l'adresse email est créé.
 
 ## Modifier un membre à la communauté BetaGouv
 
