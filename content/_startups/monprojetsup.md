@@ -28,7 +28,7 @@ Plusieurs problèmes existent aujourd’hui autour de l’orientation des lycée
 * un fort coût d’accès à l’information par un phénomène d’excès d’information (infobésité) et de manque de personnalisation de l’accès à cette information,
 * des inégalités d’accès à l’information entre les différentes catégories de lycéens, dans un contexte d’offres privées très visibles de « coaching » Parcoursup.
 
-## Solution
+## Investigation
 
 L’investigation doit permettre de mieux cerner les problématiques liées à l’orientation, afin de comprendre quelles sont les problématiques terrains rencontrées par les lycéens et les parties prenantes qui interviennent dans le processus d’orientation.
 
