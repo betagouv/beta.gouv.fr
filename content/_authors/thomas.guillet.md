@@ -25,9 +25,10 @@ missions:
     employer: Codeurs en Liberté
 startups:
   - aides.jeunes
-  - data-inclusion
+  - je-deviens-etudiant
   - tous.a.bord
 previously:
+  - data-inclusion
   - mes-aides
   - voir-et-localiser
   - data.insertion

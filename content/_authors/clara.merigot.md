@@ -7,7 +7,7 @@ missions:
     end: 2023-12-01
     status: admin
 startups:
-  - logement.etudiant
+  - je-deviens-etudiant
 memberType: beta
 ---
 
