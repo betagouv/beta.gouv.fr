@@ -6,8 +6,8 @@ github: Anais-Tailhade
 missions:
   - start: 2021-11-18
     end: 2023-12-31
-    status: service
-    employer: DINUM
+    status: independent
+    employer: Malt
 badges:
   - segur
 startups:
@@ -20,4 +20,3 @@ previously:
   - data.gouv.fr
   - oots.once-only.technical.system
 ---
-
