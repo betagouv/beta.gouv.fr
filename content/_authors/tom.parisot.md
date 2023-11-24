@@ -1,6 +1,6 @@
 ---
 fullname: Tom Parisot
-role: Responsable de l'accompagnement EIG
+role: Responsable du programme EIG
 domaine: Animation
 missions:
   - start: 2021-08-23
