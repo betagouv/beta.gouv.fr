@@ -12,6 +12,7 @@ startups:
 previously:
     - la-bonne-boite
     - memo
+    - la-bonne-alternance
 teams:
   - /teams/gip-inclusion
 ---

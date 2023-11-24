@@ -1,6 +1,6 @@
 ---
 title: Pilotage de l'inclusion
-mission: "Aider la prise de décision des professionnels grâce à des tableaux de bord"
+mission: "Valoriser et diffuser la donnée pour favoriser les dispositifs d'inclusion"
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
