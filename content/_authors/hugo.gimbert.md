@@ -7,7 +7,7 @@ missions:
     end: 2024-01-31
     status: admin
 startups:
-  - MonProjetSup
+  - monprojetsup
 memberType: beta
 ---
 
