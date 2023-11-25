@@ -20,6 +20,7 @@ incubator: fab-geocommuns
 startups:
   - mission.debroussaillement
   - inventaire.zae
+  - monprojetsup
 previously:
   - aides.jeunes
   - artsducirque
