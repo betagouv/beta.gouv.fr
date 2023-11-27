@@ -33,7 +33,7 @@ Ex : {% include card-job.html job = job %}
       </div>
       <div class="fr-card__end">
         {% if startup.incubator %}
-          {% capture incubator_id %}/incubators/{{ startup.incubator }}{% endcapture %}
+          {% capture incubator_id %}/incubateurs/{{ startup.incubator }}{% endcapture %}
           {% assign incubator = site.incubators | find: 'id', incubator_id %}
           <p class="fr-card__detail fr-icon-map-pin-2-line">
             {{ incubator.title }}

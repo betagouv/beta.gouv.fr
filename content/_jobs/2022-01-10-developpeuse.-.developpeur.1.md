@@ -14,17 +14,17 @@ startup: mobilic
 
 **Pourquoi ?** Aujourd’hui le respect de la réglementation, et donc du droit du travail de ces travailleurs, est assuré par un dispositif papier, le Livret Individuel de Contrôle (LIC). Or, ce dispositif se révèle inadapté et peu utilisé (appelé le « petit menteur »), rendant très difficile la lutte contre la fraude, très importante dans ce secteur hautement concurrentiel.
 
-Ce qui a un impact sur : 
+Ce qui a un impact sur :
 
-* la fraude sociale et fiscale 💵 : le non-respect des plafonds de temps de travail des salariés imposés par la réglementation, résulte dans un écart entre le temps travaillé et la paie effective. 
+* la fraude sociale et fiscale 💵 : le non-respect des plafonds de temps de travail des salariés imposés par la réglementation, résulte dans un écart entre le temps travaillé et la paie effective.
 * la sécurité routière 💀 : le dépassement des plafonds de temps de travail peut avoir de graves conséquences sur la route.
 * la concurrence déloyale ⚖️ : les entreprises non vertueuses ont un avantage comparatif déloyal par rapport aux autres, car leurs salariés sont amenés à travailler plus longtemps.
 
 **Comment ?**
 
 * en permettant aux travailleurs mobiles d’enregistrer leur temps de travail directement depuis leur téléphone, de manière rapide et fiable
-* en améliorant la transparence sur le sujet du temps de travail dans ce secteur, en informant notamment mieux les employés de leurs droits, les employeurs de la réalité du travail et les clients des entreprises du respect des droits sociaux 
-* en améliorant la qualité des contrôles sur route et au sein des établissements 
+* en améliorant la transparence sur le sujet du temps de travail dans ce secteur, en informant notamment mieux les employés de leurs droits, les employeurs de la réalité du travail et les clients des entreprises du respect des droits sociaux
+* en améliorant la qualité des contrôles sur route et au sein des établissements
 
 # 🎯 Rôle et mission
 
@@ -36,7 +36,7 @@ En tant que développeur ou développeuse fullstack de l’équipe Mobilic, tes 
 * Accompagner les acteurs externes dans la prise en main et la connexion à l’API
 * Améliorer et maintenir le tooling et l’infrastructure technique (CI, déploiement, hébergement, monitoring, logs, …)
 * Assurer la bonne qualité du code et maintenir la documentation technique
-* Mettre en œuvre les bonnes pratiques liées à la sécurité des applications web et à leur performance 
+* Mettre en œuvre les bonnes pratiques liées à la sécurité des applications web et à leur performance
 
 mais aussi, d’autre part, des responsabilités quant aux orientations stratégiques du produit et de la proposition de valeur :
 
@@ -83,4 +83,4 @@ Des déplacements sont également à prévoir occasionnellement pour aller à la
 
 # ✍️ Postuler
 
-Pour postuler, envoie nous un petit message à [](mailto:mobilic@beta.gouv.fr)[mobilic@beta.gouv.fr](<mailto:mobilic@beta.gouv.fr?cc=recrutement@beta.gouv.fr&subject=candidature DÉVELOPPEUSE - DÉVELOPPEUR>), avec recrutement@beta.gouv.fr en copie, avec un lien vers ton site perso, profil Github / Gitlab, LinkedIn, Malt ou équivalent.
+Pour postuler, envoie nous un petit message à [](mailto:mobilic@beta.gouv.fr)[mobilic@beta.gouv.fr](<mailto:mobilic@beta.gouv.fr?cc=recrutement@beta.gouv.fr&subject=candidature%20DÉVELOPPEUSE%20-%20DÉVELOPPEUR>), avec recrutement@beta.gouv.fr en copie, avec un lien vers ton site perso, profil Github / Gitlab, LinkedIn, Malt ou équivalent.

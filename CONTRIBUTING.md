@@ -118,6 +118,17 @@ make down
 
 Le site beta.gouv est accessible en local sur `http://localhost:4000`
 
+### Vérifier la structure HTML du code
+
+La pipeline de CI/CD valide la structure du code avec `html5validator`. Si vous voulez tester ces validations en local suivez les instructions sur https://github.com/svenkreiss/html5validator pour installer l'outil.
+
+La ligne à exécuter est :
+```shell
+html5validator --root _site
+```
+
+_Note: you may have some differences between CI/CD errors and locally. If so, try to delete CI/CD caches._
+
 ## Relire les changements
 
 Pour encourager les contributions, éviter les erreurs d'inattention, et se mettre d'accord collectivement sur le contenu publié au nom de l'incubateur, chaque modification doit être relue et approuvée par une autre personne que l'auteur avant d’être intégrée.

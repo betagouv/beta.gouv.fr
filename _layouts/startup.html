@@ -10,7 +10,7 @@ layout: default
 {% assign phase = site.phases | where: "id", phase_id | first %}
 
 {% comment %} Détection de l'incubateur {% endcomment %}
-{% capture incubator_id %}/incubators/{{ page.incubator }}{% endcapture %}
+{% capture incubator_id %}/incubateurs/{{ page.incubator }}{% endcapture %}
 {% assign incubator = site.incubators | where:'id', incubator_id | first %}
 
 {% include hero-startup.html startup=page phase=phase %}
@@ -46,9 +46,9 @@ layout: default
         <div class="fr-py-4w fr-px-4w fr-mt-3w" style="border: 1px solid var(--light-border-default-grey, #E5E5E5);">
           <p>
             {% if phase.status == 'success' %}
-              <b>{{ page.title }}</b> a été portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
+              <b>{{ page.title }}</b> a été portée par <a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
             {% else %}
-              <b>{{ page.title }}</b> est portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
+              <b>{{ page.title }}</b> est portée par <a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
             {% endif %}
           </p>
           <p>
@@ -61,9 +61,9 @@ layout: default
           <p>
             <span class="fr-icon-mail-line"></span>
             {% if page.contact %}
-            <a class="fr-link" href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'équipe</a>.
+            <a class="fr-link" href="mailto:{{ page.contact }}?subject={{ page.title | url_encode }}%20sur%20beta.gouv.fr">Contacter l'équipe</a>.
             {% else %}
-            <a class="fr-link" href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
+            <a class="fr-link" href="mailto:{{ site.email }}?subject={{ page.title | url_encode }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
             {% endif %}
           </p>
           {% unless phase.status == 'investigation' %}

@@ -5,10 +5,10 @@ nav:
     label: FAST
     target: _pages/fast.md
   -
-    label: Incubateurs
+    label: Réseau d'incubateurs
     target: _pages/incubateurs.md
   -
-    label: Réalisations
+    label: Services numériques publics
     target: _pages/startups.md
   -
     label: Communauté
