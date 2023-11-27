@@ -12,7 +12,8 @@ redirect_from:
   - /startups/labels-transition
 usertypes:
   - collectivite-territoriale
-stats_url: https://app.territoiresentransitions.fr/stats
+stats_url: https://www.territoiresentransitions.fr/stats
+budget_url: https://www.territoiresentransitions.fr/budget
 stats: true
 dashlord_url: https://dashlord.incubateur.net/url/app-territoiresentransitions-fr/
 accessibility_status: non conforme
