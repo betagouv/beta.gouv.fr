@@ -9,10 +9,9 @@ missions:
     status: admin
     employer: Gip plateforme de l'inclusion
 incubator: gip-inclusion
-startups:
-  - mon-recap
 previously:
   - carnet.de.bord
+  - mon-recap
 competences:
   - Gestion de Produit
 ---
