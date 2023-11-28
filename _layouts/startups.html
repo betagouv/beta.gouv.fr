@@ -90,10 +90,8 @@ layout: default
     ];
 </script>
 
-<section class="section-blue section-main">
-    <div class="fr-container fr-my-6w">
-        <h1>Nos réalisations</h1>
-    </div>
+<section class="fr-container">
+    <h1 class="fr-h2">Explorer nos services numériques</h1>
 </section>
 
 <section class="filters fr-container fr-my-6w">
@@ -122,18 +120,16 @@ layout: default
 {% assign incubator_id = incubator.id | remove: '/incubateurs/' %}
 {% assign organisation = site.organisations  | where: 'id', incubator.owner | first %}
 
-<section id="{{ incubator_id }}" class="fr-py-6w incubator-header fr-scheme-soft-blue-soft" style="display: none;">
-    <div class="fr-container">
-        <div class="fr-grid-row fr-grid-row--gutters">
-            <div class="fr-col-1 incubator-logo">
-                <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}">
-            </div>
-            <div class="fr-col">
-                <div>
-                    <h1 class="fr-card__title">{{ incubator.title }}</h1>
-                    <p class="fr-card__title-subtitle">{{ organisation.name }}</p>
-                    <div class="markdown">{{ incubator.content }}</div>
-                </div>
+<section id="{{ incubator_id }}" class="incubator-header fr-container" style="display: none;">
+    <div class="fr-grid-row fr-grid-row--gutters  blue-background fr-p-3w fr-m-0">
+        <div class="fr-col-2 incubator-logo">
+            <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}">
+        </div>
+        <div class="fr-col">
+            <div>
+                <h1 class="fr-card__title">{{ incubator.title }}</h1>
+                <p class="fr-card__title-subtitle">{{ organisation.name }}</p>
+                <div class="markdown">{{ incubator.content }}</div>
             </div>
         </div>
     </div>
@@ -167,7 +163,7 @@ layout: default
             <div class="fr-grid-row fr-grid-row--gutters startups">
                 {% assign startups = site.startups | where_phase: phase.status %}
                 {% for startup in startups %}
-                    <div class="fr-col-12 fr-col-md-3 fr-mb-2w">
+                    <div class="fr-col-12 fr-col-md-4 fr-mb-2w">
                         {% include card-startup.html startup = startup %}
                     </div>
                 {% endfor %}

@@ -292,22 +292,6 @@ ol li p, ul li p {
   z-index: 1;
 }
 
-/* Présentations de la section incubateurs sur réalisations */
-
-:root .fr-scheme-soft-blue-soft.incubator-header {
-  background-color: #EDEDF2;
-  padding: 2em 0;
-}
-
-.incubator-header img {
-  width: 100%;
-  height: auto;
-  max-width: 100px;
-  padding: 10px;
-  background-color: var(--grey-1000-50);
-  border: 1px solid #d1d2de;
-}
-
 /* Pour ne pas avoir de marge quand on a une seule ligne de grid-row */
 
 .fr-grid-row--gutters:last-of-type {

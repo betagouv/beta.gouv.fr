@@ -293,22 +293,6 @@ ol li p, ul li p {
   z-index: 1;
 }
 
-/* Présentations de la section incubateurs sur réalisations */
-
-:root .fr-scheme-soft-blue-soft.incubator-header {
-  background-color: #EDEDF2;
-  padding: 2em 0;
-}
-
-.incubator-header img {
-  width: 100%;
-  height: auto;
-  max-width: 100px;
-  padding: 10px;
-  background-color: var(--grey-1000-50);
-  border: 1px solid #d1d2de;
-}
-
 /* Pour ne pas avoir de marge quand on a une seule ligne de grid-row */
 
 .fr-grid-row--gutters:last-of-type {
@@ -515,6 +499,27 @@ img.lozad {
 .fr-tile.tile-highlight {
   box-shadow: unset;
   background: transparent;
+}
+
+mark {
+    background-color: var(--yellow-tournesol-950-100);
+    padding: 0 0.3rem;
+    margin: 0 -0.3rem;
+}
+
+#realisations .hero-section img {
+    max-height: 180px;
+    object-fit: contain;
+}
+
+#realisations ul.checkmark-list {
+    list-style-image: url(/assets/images/icons/list-checkmark.svg);
+    padding-inline-start: 2rem;
+}
+
+#realisations .explore-startups {
+    background-color: var(--yellow-tournesol-975-75);
+    border-radius: 0rem 0rem 6rem 0rem;
 }
 
 #incubateurs .hero-section img {

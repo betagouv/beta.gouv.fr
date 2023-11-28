@@ -34,7 +34,7 @@ var createStartupCard = function (startup) {
     startupUsertypes = '<p class="fr-card__detail">' + startupUsertypes + "</p>";
   }
   card.innerHTML = `
-        <div class="fr-card fr-card--grey fr-enlarge-link">
+        <div class="fr-card fr-enlarge-link">
             <div class="fr-card__body">
                 <h3 class="fr-card__title">
                     <a class="fr-card__link" href="/startups/${startup.id}.html">${startup.attributes.name}</a>
@@ -121,7 +121,7 @@ var updateCards = function (data) {
     }
     var phaseLabel = phaseElement.getElementsByClassName("phase-label")[0];
     if (phaseLabel) {
-      
+
       var currentPhase = phases.filter((p) => p.status === phase)[0];
       var plural = dataToDisplay.length > 1 ? "s" : "";
       if (currentPhase.status === "success") {
