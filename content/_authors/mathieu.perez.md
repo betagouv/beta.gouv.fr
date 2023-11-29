@@ -4,14 +4,10 @@ domaine: Développement
 role: Développeur
 github: maperez42
 missions:
-  - start: 2021-09-13
-    end: 2022-07-08
-    status: admin
-    employer: DTNUM - DGFiP
   - status: service
-    employer: Multi
+    employer: MULTI
     start: 2023-11-27
-    end: 2024-12-31
+    end: 2024-03-27
 incubator: fabnumdef
 startups:
   - anais
