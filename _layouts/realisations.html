@@ -65,8 +65,7 @@ layout: default
                 </div>
                 <div class="fr-grid-row fr-grid-row--gutters fr-pt-3w">
                     <!-- Only take a few in case more are defined -->
-                    {% assign highlighted_startups = "mon-entreprise|pix|camino" | split: "|" %}
-                    {% assign chosen_startups_ids = highlighted_startups | sample: 3 %}
+                    {% assign chosen_startups_ids = site.data.startups.main_highlighted_startups | sample: 3 %}
                     {% for startup_id in chosen_startups_ids %}
                         {% capture startup_full_id %}/startups/{{ startup_id }}{% endcapture %}
                         {% assign startup = site.startups | where: "id", startup_full_id | first %}
@@ -153,11 +152,6 @@ layout: default
                                 </ul>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="fr-grid-row">
-                    <div class="fr-col">
-                        <a class="fr-btn fr-btn--md fr-mt-2w" href="/startups">Voir nos réalisations</a>
                     </div>
                 </div>
             </div>

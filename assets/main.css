@@ -485,6 +485,13 @@ mark {
     margin: 0 -0.3rem;
 }
 
+.search-card {
+    position: sticky !important;
+    height: fit-content !important;
+    top: 3rem;
+    margin-bottom: 3rem;
+}
+
 #realisations .hero-section img {
     max-height: 180px;
     object-fit: contain;
