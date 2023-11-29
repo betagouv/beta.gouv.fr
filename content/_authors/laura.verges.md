@@ -1,7 +1,7 @@
 ---
 fullname: Laura Vergès
 domaine: Autre
-github: https://github.com/Laura-VERGES
+avatar: null
 link: https://laboiteaecrire.fr/
 missions:
   - start: 2023-02-14
