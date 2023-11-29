@@ -125,7 +125,7 @@ layout: default
             {% for incubator in incubators %}
                 {% assign incubator_id = incubator.id | remove: '/incubateurs/' %}
                 {% assign organisation = site.organisations  | where: 'id', incubator.owner | first %}
-                <section id="{{ incubator_id }}" class="incubator-header" style="display: none;">
+                <section id="{{ incubator_id }}" class="incubator-header fr-mb-6w" style="display: none;">
                     <div class="fr-grid-row fr-grid-row--gutters  blue-background fr-p-3w fr-m-0">
                         <div class="fr-col-2 incubator-logo">
                             <img src="../img/incubators/{{ incubator.logo }}" alt="Logo de {{ incubator.title }}">
@@ -141,7 +141,7 @@ layout: default
                 </section>
             {% endfor %}
 
-            <div class="fr-py-6w">
+            <div>
                 <div id="no-data-message" style="display: none;">
                     <p>Il n'y a pas de résultats qui correspondent à ces filtres</p>
                 </div>
