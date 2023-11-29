@@ -263,28 +263,6 @@ ol li p, ul li p {
   .incubator-header .incubator-logo {
     display: none;
   }
-
-  .filters .fr-container {
-    grid-template-columns: auto;
-    grid-template-rows: auto;
-  }
-
-  .filters #select-incubateur {
-    grid-column: 1;
-  }
-
-
-  .filters #select-usertypes {
-    grid-column: 1;
-  }
-
-  .filters #select-phase {
-    grid-column: 1;
-  }
-
-  .filters #search-input {
-    grid-column: 1;
-  }
 }
 
 /* Hack pour que les menus sticky restent visibles */

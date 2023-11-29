@@ -176,5 +176,7 @@ layout: default
     var urlParams = new URLSearchParams(window.location.search);
     var initValue = urlParams.get('incubateur');
     members = generateDataWithHtmlCards(members);
-    createIncubatorSelect(members, incubators, initValue);
+
+    var selectElement = document.getElementById('select-incubateur')
+    createIncubatorSelect(selectElement, members, incubators, initValue);
 </script>
