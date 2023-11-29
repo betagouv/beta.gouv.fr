@@ -91,14 +91,16 @@ var updateCards = function (data) {
   for (var i = 0; i < keys.length; i++) {
     var phase = keys[i];
     var phaseElement = document.getElementById(phase);
-    var optionElement = document.getElementById(phase + "-option");
+    var optionElements = document.querySelectorAll(`.${phase}-option`);
     var grid = phaseElement.getElementsByClassName("startups")[0];
     var documentFragment = document.createDocumentFragment();
     var dataToDisplay = filterCards(data[phase]);
     count = count + dataToDisplay.length;
     if (!dataToDisplay.length) {
       phaseElement.style.display = "none";
-      optionElement.style.display = "none";
+      optionElements.forEach((optionElement) => {
+        optionElement.style.display = "none";
+      });
       var noContentMessage = phaseElement.getElementsByClassName("phase-no-result");
       if (!noContentMessage.length) {
         var noContentMessage = document.createElement("p");
@@ -108,7 +110,9 @@ var updateCards = function (data) {
       }
     } else {
       phaseElement.style.display = "block";
-      optionElement.style.display = "block";
+      optionElements.forEach((optionElement) => {
+        optionElement.style.display = "block";
+      });
       var noContentMessage = phaseElement.getElementsByClassName("phase-no-result");
       if (noContentMessage.length) {
         phaseElement.removeChild(noContentMessage[0]);
