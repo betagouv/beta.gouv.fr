@@ -14,7 +14,6 @@ missions:
     status: independent
     employer: NUMA
 startups:
-  - jeveuxaider
   - investigationIJ
   - api-engagement
 previously:
