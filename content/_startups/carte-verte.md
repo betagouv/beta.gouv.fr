@@ -4,7 +4,7 @@ mission: Comment verdir les habitudes de consommation
 sponsors:
   - /organisations/ademe
 incubator: ademe
-contact: tristan.bourvon@ademe.fr 
+contact: carte-verte@beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
