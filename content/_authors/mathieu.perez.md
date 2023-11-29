@@ -12,6 +12,5 @@ incubator: fabnumdef
 startups:
   - anais
 competences:
-  - Développement Backend
-  - Développement Frontend
+  - Développement 
 ---
