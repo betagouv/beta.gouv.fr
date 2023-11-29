@@ -1,6 +1,6 @@
 ---
 fullname: Romain THEBAUD
-role: Développeuse
+role: Développeur
 domaine: Développement
 github: pitiscarf
 missions:
