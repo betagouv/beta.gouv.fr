@@ -1,5 +1,5 @@
 ---
-fullname: Caroline FARHI
+fullname: Caroline Farhi
 role: Chargé(e) de Support Utilisateurs et Animation de Communauté 
 domaine: Animation
 missions:
