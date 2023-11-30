@@ -1,9 +1,8 @@
 ---
 mission: Améliorer la solidarité entreprises / associations.
 incubator: dinum
-title: Asso'cié
+title: ASSO'CIE
 contact: esther.teboul@beta.gouv.fr
-sponsors:
 phases:
   - name: investigation
     start: 2023-10-24
@@ -34,6 +33,6 @@ D’après [le baromètre 2022 du mécénat d’entreprise en France a été ét
 
 Afin de comprendre au mieux les problèmes rencontrés par les associations et les entreprises pour se rencontrer et développer des collaborations pérennes nous avons sélectionner **deux territoires d’investigations et 1 périmètre national.** 
 
-Nous **échangerons donc avec les acteurs locaux** (associations, antennes locales, TPE, PME, ETI et franchises de grands groupes) de Marseille afin d’observer l’état des relations et les pistes de solutions identifier par les acteurs d’une **métropole**. Le même exercice sera effectué sur le territoire de Bourgogne-Franche-Comté ****afin d’étudier si il y a des différences sur un territoires **rural**. Enfin, il s’agira d’**échanger avec des acteurs nationaux**, afin d’avoir une vision globale de l’existant et de déterminer une possible reproduction au niveau local, dans ce cadre nous échangerons avec des pôles RSE de grandes entreprises, des experts de la collaboration association-entreprise, des associations nationales…)
+Nous **échangerons donc avec les acteurs locaux** (associations, antennes locales, TPE, PME, ETI et franchises de grands groupes) de Marseille afin d’observer l’état des relations et les pistes de solutions identifier par les acteurs d’une **métropole**. Le même exercice sera effectué sur le territoire de Bourgogne-Franche-Comté afin d’étudier si il y a des différences sur un territoires **rural**. Enfin, il s’agira d’**échanger avec des acteurs nationaux**, afin d’avoir une vision globale de l’existant et de déterminer une possible reproduction au niveau local, dans ce cadre nous échangerons avec des pôles RSE de grandes entreprises, des experts de la collaboration association-entreprise, des associations nationales…)
 
 Pour se faire nous mobiliserons plusieurs réseaux, notamment celui de la **DIPLP** (Délégation Interministérielle à la Prévention et à la Lutte contre la Pauvreté) avec la un **réseau associatif fort** et l’appui de la **communauté des entreprises s’engagent.**
