@@ -6,7 +6,7 @@ link: https://mickael-tordjman.com/
 github: micktdj
 missions:
   - start: 2023-06-11
-    end: 2023-12-01
+    end: 2024-07-30
     status: independent
     employer: DINUM
 startups:
