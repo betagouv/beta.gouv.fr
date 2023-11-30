@@ -7,6 +7,8 @@ repository: https://github.com/betagouv/recoco-portails
 incubator: anct
 title: Mon espace collectivité
 contact: monespacecollectivite@anct.gouv.fr
+redirect_from:
+  - /startups/mon.espae.collectivite
 sponsors:
   - /organisations/anct
   - /organisations/mctrct
