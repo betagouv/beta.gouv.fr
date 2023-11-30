@@ -16,6 +16,7 @@ phases:
     end: 2023-03-31
   - name: construction
     start: 2023-03-31
+
 ---
 ## Contexte
 - [Les enseignements des Etats généraux de la justice](http://www.justice.gouv.fr/plan-daction-pour-la-justice-13010/) 
@@ -52,4 +53,34 @@ MISTRAL Pénal améliore l’efficience du pilotage de l’activité juridiction
 - Pour les chefs de juridiction : bénéficiez d'indicateurs de meilleure qualité, plus lisibles et facilement actionnables, pour une organisation optimisée
 
 Embarquez avec MISTRAL Pénal  et naviguez vers une justice plus efficace et agile.
+
+## Apprentissage de la phase de construction #1 : 
+
+Le MVP montre un potentiel de gain de temps important : Prioriser les fonctionnalités sur la base des retours utilisateurs pour maximiser le potentiel d’impact
+
+Trois fonctionnalités prioritaires pour enrichir la proposition de valeur de Mistral :
+- Saisie complète des décisions dans Mistral
+- Documents complémentaires (liées à l’exécution des peines)
+- Mettre à jour les données dans KSP en fin d’audience
+
+## Valider notre impact au cours des 6 prochains mois :
+🎯 Objectifs & ✅ résultats clés pour les greffiers 
+
+- Confirmer le gain de temps du MVP 
+- Mistral peut être utilisé avec des données réelles
+- Mistral est utilisé par ses premiers utilisateurs 
+
+🎯 Objectifs & ✅ résultats clés pour les DSGJ
+- Affiner les besoins de reporting
+- Validation d’un MVP
+- Identifier les DSGJ innovateurs
+
+
+# 🚀 Actualités :
+
+> Comité de l'incubateur justice du 10 octobre 2023 : Passage en phase #2 de construction
+
+> La communauté, en quoi ça consiste ? 
+👉 Un e-mail, 1 à 2 fois par mois, avec les actualités de Mistral et, si vous le souhaitez, la possibilité de donner votre avis sur des réflexions et nouvelles fonctionnalités ! 
+Si cela vous intéresse, écrivez nous !
 
