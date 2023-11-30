@@ -9,13 +9,19 @@ contact: maxime.gammaire@justice.fr
 accessibility_status: non conforme
 events:
   - name: other
-    date: 2022-06-29
+    date: 2022-02-01
+    comment: Appel à projet du Ministère de la justice
 phases:
   - name: investigation
     start: 2022-06-29
-    end: 2023-03-31
+    end: 2023-03-30
   - name: construction
-    start: 2023-03-31
+    start: 2023-03-30
+    end: 2023-10-10   
+    comment: Construction du MVP et test utilisateur sur des cas vidéos
+  - name: construction
+    start: 2023-10-10
+    comment: Construction sur un périmètre de juridictions restreint.
 
 ---
 ## Contexte
@@ -83,4 +89,3 @@ Trois fonctionnalités prioritaires pour enrichir la proposition de valeur de Mi
 > La communauté, en quoi ça consiste ? 
 👉 Un e-mail, 1 à 2 fois par mois, avec les actualités de Mistral et, si vous le souhaitez, la possibilité de donner votre avis sur des réflexions et nouvelles fonctionnalités ! 
 Si cela vous intéresse, écrivez nous !
-
