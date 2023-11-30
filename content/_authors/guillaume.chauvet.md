@@ -4,7 +4,7 @@ role: Développeur
 domaine: Développement
 missions:
   - start: 2023-07-31
-    end: 2023-12-30
+    end: 2024-06-30
     status: service
     employer: Octo
 memberType: autre
