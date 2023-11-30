@@ -20,7 +20,7 @@ usertypes:
   - particulier
 accessibility_status: partiellement conforme
 stats_url: >-
-  https://metabase.conseiller-numerique.gouv.fr/public/dashboard/446208c4-cae2-4c0c-be19-44cb14ce7d06
+  https://metabase.conseiller-numerique.gouv.fr/public/dashboard/446208c4-cae2-4c0c-be19-44cb14ce7d06?en_date_du___=2023-07-25
 ---
 ## Contexte
 
@@ -45,7 +45,7 @@ Ses missions :
 
 **Le conseiller numérique Coordinateur**
 
-Ses mission 
+Ses missions 
 - Renforcer le maillage et les synergies territoriales
 - Être le relais principal des employeurs, des Conseillers numériques et de l’équipe d’animation nationale
 - Imaginer et mettre en place des collaborations sur la base des besoins de la communauté des Conseillers numériques
