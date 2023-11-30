@@ -9,6 +9,6 @@ missions:
     end: 2024-12-31
     status: independent
     employer: Octo
-memberType: attributaire
+memberType: beta
 ---
 
