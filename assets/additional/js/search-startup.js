@@ -146,6 +146,16 @@ var updateCards = function (data) {
       observer.observe();
     }
   }
+
+  // Update global search counter
+  document.querySelectorAll('.global-search-counter').forEach((counterElement) => {
+    counterElement.innerText = count;
+  });
+
+  document.querySelectorAll('.global-search-counter-label').forEach((labelElement) => {
+    labelElement.innerText = count > 1 ? 'services numériques' : 'service numérique';
+  });
+
   if (!count) {
     displayNoDataMessage(true);
   }

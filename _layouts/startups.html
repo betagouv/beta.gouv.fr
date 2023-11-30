@@ -122,6 +122,18 @@ layout: default
                 </div>
             </section>
 
+            <h2>
+                {% assign globalCounter = site.startups | size %}
+                <span class="global-search-counter">{{ globalCounter }}</span>
+                <span class="global-search-counter-label">
+                    {% if globalCounter > 1 %}
+                        services numériques
+                    {% else %}
+                        service numérique
+                    {% endif %}
+                </span>
+            </h2>
+
             {% for incubator in incubators %}
                 {% assign incubator_id = incubator.id | remove: '/incubateurs/' %}
                 {% assign organisation = site.organisations  | where: 'id', incubator.owner | first %}
@@ -145,6 +157,7 @@ layout: default
                 <div id="no-data-message" style="display: none;">
                     <p>Il n'y a pas de résultats qui correspondent à ces filtres</p>
                 </div>
+
                 {% assign phases = site.phases | sort: 'order' %}
                 {% for phase in phases %}
                     {% assign counter_target = phase.id | remove: "/phases/" %}
@@ -156,11 +169,11 @@ layout: default
                     <div id="{{ phase.status }}" class="fr-container-fluid{% if phase.status != 'success' %} fr-my-6w{% endif %}">
                         <!-- Les span contenant les class "phase-counter" et "phase-label" permettent d'afficher le counter des startups grâce à des getElementsByClassName dans le fichier javascript dans search-startup.js -->
                         {% if phase.status == 'success' %}
-                            <h2><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> <span>{{ phase.label | downcase }}{{ plural }}</span></h2>
+                            <h3><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> <span>{{ phase.label | downcase }}{{ plural }}</span></h3>
                         {% elsif phase.status == 'alumni' %}
-                            <h2>Nos {{ phase.label | downcase }}</h2>
+                            <h3>Nos {{ phase.label | downcase }}</h3>
                         {% else %}
-                            <h2><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> en {{ phase.label | downcase }}</h2>
+                            <h3><span class="phase-counter">{{ counter }}</span> <span class="phase-label">{{ phase.type_label }}{{ plural }}</span> en {{ phase.label | downcase }}</h3>
                         {% endif %}
 
                         <p>{{ phase.short_description }}</p>
