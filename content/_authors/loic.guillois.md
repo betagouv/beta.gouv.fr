@@ -15,12 +15,11 @@ missions:
     status: independent
     employer: ''
   - start: 2020-12-26
-    end: 2024-04-29
+    end: 2023-11-29
     status: independent
     employer: octo
-startups:
-  - sepia
 previously:
+  - sepia
   - jeveuxaider
   - mon-entreprise
   - anotea
