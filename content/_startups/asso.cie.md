@@ -4,7 +4,7 @@ incubator: dinum
 title: ASSO'CIE
 contact: esther.teboul@beta.gouv.fr
 sponsors:
-  - /organisations/Délégation interministérielle à la prévention et à la lutte contre la pauvreté
+  - 
 phases:
   - name: investigation
     start: 2023-10-24
