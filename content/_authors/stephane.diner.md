@@ -7,5 +7,7 @@ missions:
     end: 2024-04-01
     status: admin
 memberType: beta
+startups:
+  - decl-bombarbier-eau
 ---
 
