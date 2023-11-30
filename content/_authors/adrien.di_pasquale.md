@@ -15,7 +15,7 @@ missions:
     end: 2021-12-08
     status: independent
   - start: 2022-01-28
-    end: 2023-07-01
+    end: 2024-02-01
     status: independent
 startups: [collectif_objets]
 previously:
