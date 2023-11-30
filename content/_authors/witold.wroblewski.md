@@ -5,7 +5,7 @@ domaine: Développement
 github: wiwski
 missions:
   - start: 2021-09-21
-    end: 2023-12-30
+    end: 2023-04-29
     status: independent
     employer: UT7
 startups:
