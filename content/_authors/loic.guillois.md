@@ -19,7 +19,6 @@ missions:
     status: independent
     employer: octo
 previously:
-  - sepia
   - jeveuxaider
   - mon-entreprise
   - anotea
