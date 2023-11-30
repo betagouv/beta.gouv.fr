@@ -11,4 +11,6 @@ startups:
   - signalement
 badges:
   - segur
+previously:
+  - signalement
 ---
