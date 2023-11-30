@@ -6,7 +6,7 @@ sponsors:
   - /organisations/mj
 incubator: justice
 contact: maxime.gammaire@justice.fr
-accessibility_status: conforme
+accessibility_status: non conforme
 events:
   - name: other
     date: 2022-06-29
@@ -66,14 +66,14 @@ Trois fonctionnalités prioritaires pour enrichir la proposition de valeur de Mi
 ## Valider notre impact au cours des 6 prochains mois :
 🎯 Objectifs & ✅ résultats clés pour les greffiers 
 
-- 🎯 Confirmer le gain de temps du MVP 
-- 🎯 Mistral peut être utilisé avec des données réelles
-- 🎯 Mistral est utilisé par ses premiers utilisateurs 
+- Confirmer le gain de temps du MVP 
+- Mistral peut être utilisé avec des données réelles
+- Mistral est utilisé par ses premiers utilisateurs 
 
 🎯 Objectifs & ✅ résultats clés pour les DSGJ
-- 🎯 Affiner les besoins de reporting
-- 🎯 Validation d’un MVP
-- 🎯 Identifier les DSGJ innovateurs
+- Affiner les besoins de reporting
+- Validation d’un MVP
+- Identifier les DSGJ innovateurs
 
 
 # 🚀 Actualités :
@@ -82,5 +82,5 @@ Trois fonctionnalités prioritaires pour enrichir la proposition de valeur de Mi
 
 > La communauté, en quoi ça consiste ? 
 👉 Un e-mail, 1 à 2 fois par mois, avec les actualités de Mistral et, si vous le souhaitez, la possibilité de donner votre avis sur des réflexions et nouvelles fonctionnalités ! 
-Si cela vous intéresse, inscrivez-vous par ici 👉https://docs.google.com/forms/d/e/1FAIpQLSfpbkAujiF0UgdaIcf-sXuHPg0NUKoJrICIDRyO2n7Ssi4QOA/viewform
+Si cela vous intéresse, écrivez nous !
 
