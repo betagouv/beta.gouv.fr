@@ -25,4 +25,4 @@ L’API Engagement facilite la diffusion des missions de bénévolat et de volon
 
 C’est un service public numérique gratuit qui permet aux plateformes d’engagement publiques et privées de mettre en commun leurs missions. L'API Engagement permet ainsi d'augmenter la visibilité des annonces et le taux d’occupation des places offertes aux potentiels bénévoles et volontaires.
 
-Concrètement, chaque plateforme peut intégrer l’API Engagement pour diffuser ses missions vers les autres plateformes partenaires d'une part, et récupérer les missions disponibles sur les autres plateformes selon des critères spécifiques comme la localisation, le domaine d’action, etc.
+Concrètement, chaque plateforme peut intégrer l’API Engagement pour diffuser ses missions vers les autres plateformes partenaires d'une part, et récupérer les missions disponibles sur les autres plateformes selon des critères spécifiques comme la localisation, le domaine d’action, etc, d'autre part. 
