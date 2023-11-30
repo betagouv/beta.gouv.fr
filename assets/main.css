@@ -493,7 +493,7 @@ mark {
 }
 
 #realisations .hero-section img {
-    max-height: 180px;
+    max-height: 12.5rem;
     object-fit: contain;
 }
 
@@ -508,7 +508,7 @@ mark {
 }
 
 #incubateurs .hero-section img {
-    max-height: 180px;
+    max-height: 12.5rem;
     object-fit: contain;
 }
 
