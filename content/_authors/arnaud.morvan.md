@@ -1,12 +1,13 @@
 ---
 fullname: Arnaud MORVAN
-role: UX&#x2F;UI Designer
+role: UX&amp;#x2F;UI Designer
 domaine: Design
 github: arnaudmorvan
 missions:
   - start: 2023-09-04
-    end: 2023-12-31
+    end: 2024-03-30
     status: independent
+    employer: ''
 startups:
   - territoires-en-transitions
 memberType: beta

@@ -11,5 +11,5 @@ missions:
 startups:
   - Anais
 competences:
-  - Développement Backend
+  - Développement 
 ---

@@ -6,7 +6,7 @@ github: natoine
 link: https://www.linkedin.com/in/antoineseilles/
 missions:
   - start: 2021-09-09
-    end: 2023-12-25
+    end: 2024-06-24
     status: independent
     employer: ''
 startups:

@@ -6,7 +6,7 @@ link: https://www.linkedin.com/in/nicolasviennot/
 github: nicolas-viennot-beta
 missions:
   - start: 2021-08-30
-    end: 2023-12-31
+    end: 2024-12-31
     status: independent
     employer: Scopopop
 startups:

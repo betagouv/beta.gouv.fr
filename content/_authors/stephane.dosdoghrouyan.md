@@ -8,6 +8,8 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Incubateur des territoires
+startups:
+  - mon.espae.collectivite
 memberType: beta
 github: sdsgh
 ---

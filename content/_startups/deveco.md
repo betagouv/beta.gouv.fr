@@ -8,7 +8,7 @@ title: Deveco
 sponsors:
   - /organisations/anct
 link: https://deveco.incubateur.anct.gouv.fr
-stats: false
+stats: true
 phases:
   - name: investigation
     start: 2021-10-14

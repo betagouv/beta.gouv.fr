@@ -29,7 +29,7 @@ Vous travaillez dans la tech et voulez **rejoindre le service public** ? Nos off
 
 Vous avez identifié un problème public ? Vous pensez que le numérique pourrait y apporter une solution ? Vous vous reconnaissez dans le profil d’[intrapreneur](/devenir-intrapreneur) ?
 
-{% include component-button.html label="Contactez-nous" link="mailto:contact@beta.gouv.fr?subject=Proposition d'idée" class="fr-btn--secondary fr-fi-mail-line fr-btn--icon-left" %}
+{% include component-button.html label="Contactez-nous" link="mailto:contact@beta.gouv.fr?subject=Proposition%20d'idée" class="fr-btn--secondary fr-fi-mail-line fr-btn--icon-left" %}
 
 <span id="email"></span>
 ## Nous contacter par email
