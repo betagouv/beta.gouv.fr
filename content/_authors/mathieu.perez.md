@@ -1,16 +1,15 @@
 ---
 fullname: Mathieu Perez
 domaine: Développement
-role: Développeur
-github: maperez42
+github : maperez42
+role: Développeur data-science @ Fabrique Numérique de la Défense - ANAIS
 missions:
-  - status: service
-    employer: MULTI
-    start: 2023-11-27
-    end: 2024-03-27
-incubator: fabnumdef
+  - start: 2023-11-27
+    end: 2024-06-30
+    status: admin
+    employer: FABNUMDEF - Anais
 startups:
-  - anais
+  - Anais
 competences:
   - Développement 
 ---
