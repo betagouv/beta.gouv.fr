@@ -3,8 +3,6 @@ mission: Améliorer la solidarité entreprises / associations.
 incubator: dinum
 title: ASSO'CIE
 contact: esther.teboul@beta.gouv.fr
-sponsors:
-  - /organisations/DIPLP
 phases:
   - name: investigation
     start: 2023-10-24
