@@ -5,6 +5,7 @@ mission: >-
 title: Traçage vaccination IAHP
 contact: andrea.jimenez-pellicer@agriculture.gouv.fr ; lea.genovesi@beta.gouv.fr
 accessibility_status: non conforme
+incubator: en construction
 phases:
   - name: investigation
     start: 2023-06-11
