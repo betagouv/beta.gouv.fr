@@ -9,7 +9,7 @@ nav:
     target: _pages/incubateurs.md
   -
     label: Services numériques publics
-    target: _pages/startups.md
+    target: _pages/realisations.md
   -
     label: Communauté
     target: _pages/communaute.md

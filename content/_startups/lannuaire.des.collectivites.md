@@ -15,23 +15,24 @@ phases:
     end: 2023-02-28
   - name: acceleration
     start: 2023-03-01
+    end: 2024-02-29
 fast:
   promotion: 13
   montant: 300000
 ---
 ## Contexte
 
-L﻿'Annuaire des collectivités est né du constant que **15106 communes ne disposent pas d’un site web**. Et parmi les autres, nombreuses sont celles dont le site web est dysfonctionnel, la donnée obsolète ou peu fiable voire même des sites laissés à l’abandon.
+L﻿'Annuaire des collectivités est né du constat que **15106 communes ne disposent pas d’un site web**. Et parmi les autres, nombreuses sont celles dont le site web est dysfonctionnel, la donnée obsolète ou peu fiable voire même des sites laissés à l’abandon.
 
 ## Problème
 
 Beaucoup de communes sont ainsi limitées par le coût, les compétences techniques nécessaires ou encore le temps disponible. Les habitants ont quoi qu’il en soit besoin d’accéder à certaines informations ou procédures, par exemple les horaires d’ouverture des services pour éviter la déception de trouver un guichet fermé, les démarches en ligne ou la dématérialisation de certains actes.
 
-De plus, des “sites parasites” se placent, en misant sur le référencement, entre les citoyens et les sites officiels permettant d’effectuer les démarches en ligne(CNI, passeport, etc.). Ils comblent parfois un vide en termes d’accompagnement mais font souvent office d’intermédiaire superflu et **payant**. L’image du service public en est alors fortement dégradée.
+De plus, des “sites parasites” se placent, en misant sur le référencement, entre les citoyens et les sites officiels permettant d’effectuer les démarches en ligne (CNI, passeport, etc.). Ils comblent parfois un vide en termes d’accompagnement mais font souvent office d’intermédiaire superflu et **payant**. L’image du service public en est alors fortement dégradée.
 
 ## Solution
 
-Nous souhaitons mettre à disposition des citoyens, notamment ceux des petites communes et communautés de communes, les informations essentielles et fiables relatives à leurs collectivités territoriales et aux démarches de service public qui leurs sont accessibles. Cela passe par un site web sur lequel ces informations sont toujours à jour et accessibles.
+Nous souhaitons mettre à disposition des citoyens, notamment ceux des petites communes et communautés de communes, les informations essentielles et fiables relatives à leurs collectivités territoriales et aux démarches de service public qui leurs sont accessibles. Cela passe par un page web sur laquelle ces informations sont toujours à jour et accessibles.
 
 ## Stratégie
 

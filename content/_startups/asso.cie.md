@@ -33,8 +33,9 @@ D’après [le baromètre 2022 du mécénat d’entreprise en France a été ét
 
 ## Stratégie
 
-Afin de comprendre au mieux les problèmes rencontrés par les associations et les entreprises pour se rencontrer et développer des collaborations pérennes nous avons sélectionner **deux territoires d’investigations et 1 périmètre national.** 
+Nous sommes actuellement en  **phase d'investigation**, il s'agit d'une première étape qui permettra de mieux identifier le problème, s'il existe, et surtout, de déterminer si une solution numérique pourrait permettre de le résoudre.
 
 Nous **échangerons donc avec les acteurs locaux** (associations, antennes locales, TPE, PME, ETI et franchises de grands groupes) de Marseille afin d’observer l’état des relations et les pistes de solutions identifier par les acteurs d’une **métropole**. Le même exercice sera effectué sur le territoire de Bourgogne-Franche-Comté afin d’étudier s'il y a des différences sur un territoires **rural**. Enfin, il s’agira d’**échanger avec des acteurs nationaux**, afin d’avoir une vision globale de l’existant et de déterminer s'il existe des similarités, dans ce cadre nous échangerons avec des pôles RSE de grandes entreprises, des experts de la collaboration association-entreprise, des associations nationales…)
 
 Pour ce faire nous mobiliserons plusieurs réseaux, notamment celui de la **DIPLP** (Délégation Interministérielle à la Prévention et à la Lutte contre la Pauvreté) avec la un **réseau associatif fort** et l’appui de la **communauté Les entreprises s’engagent.**
+

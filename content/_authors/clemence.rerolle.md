@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: Octo
 startups:
-  - eco-euro
+  - carte-verte
 badges:
   - segur
 previously:

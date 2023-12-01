@@ -5,7 +5,7 @@ role: Coach Produit
 github: celinelr
 missions:
   - start: 2021-06-23
-    end: 2023-12-31
+    end: 2024-04-29
     status: service
     employer: OCTO
 startups:

@@ -45,7 +45,7 @@ Ses missions :
 
 **Le conseiller numérique Coordinateur**
 
-Ses mission 
+Ses missions 
 - Renforcer le maillage et les synergies territoriales
 - Être le relais principal des employeurs, des Conseillers numériques et de l’équipe d’animation nationale
 - Imaginer et mettre en place des collaborations sur la base des besoins de la communauté des Conseillers numériques

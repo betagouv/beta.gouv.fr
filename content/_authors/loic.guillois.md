@@ -19,7 +19,6 @@ missions:
     status: independent
     employer: octo
 previously:
-  - jeveuxaider
   - mon-entreprise
   - anotea
   - pass.engagement.jeune

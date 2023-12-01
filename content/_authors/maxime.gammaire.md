@@ -13,4 +13,4 @@ badges:
 startups:
   - T2BJustice
 ---
-Greffier correctionnel - TJ MARSEILLE
+Directeur des services de greffe judiciaires

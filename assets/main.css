@@ -264,49 +264,11 @@ ol li p, ul li p {
   .incubator-header .incubator-logo {
     display: none;
   }
-
-  .filters .fr-container {
-    grid-template-columns: auto;
-    grid-template-rows: auto;
-  }
-
-  .filters #select-incubateur {
-    grid-column: 1;
-  }
-
-
-  .filters #select-usertypes {
-    grid-column: 1;
-  }
-
-  .filters #select-phase {
-    grid-column: 1;
-  }
-
-  .filters #search-input {
-    grid-column: 1;
-  }
 }
 
 /* Hack pour que les menus sticky restent visibles */
 .sticky {
   z-index: 1;
-}
-
-/* Présentations de la section incubateurs sur réalisations */
-
-:root .fr-scheme-soft-blue-soft.incubator-header {
-  background-color: #EDEDF2;
-  padding: 2em 0;
-}
-
-.incubator-header img {
-  width: 100%;
-  height: auto;
-  max-width: 100px;
-  padding: 10px;
-  background-color: var(--grey-1000-50);
-  border: 1px solid #d1d2de;
 }
 
 /* Pour ne pas avoir de marge quand on a une seule ligne de grid-row */
@@ -517,8 +479,36 @@ img.lozad {
   background: transparent;
 }
 
+mark {
+    background-color: var(--yellow-tournesol-950-100);
+    padding: 0 0.3rem;
+    margin: 0 -0.3rem;
+}
+
+.search-card {
+    position: sticky !important;
+    height: fit-content !important;
+    top: 3rem;
+    margin-bottom: 3rem;
+}
+
+#realisations .hero-section img {
+    max-height: 12.5rem;
+    object-fit: contain;
+}
+
+#realisations ul.checkmark-list {
+    list-style-image: url(/assets/images/icons/list-checkmark.svg);
+    padding-inline-start: 2rem;
+}
+
+#realisations .explore-startups {
+    background-color: var(--yellow-tournesol-975-75);
+    border-radius: 0rem 0rem 6rem 0rem;
+}
+
 #incubateurs .hero-section img {
-    max-height: 180px;
+    max-height: 12.5rem;
     object-fit: contain;
 }
 

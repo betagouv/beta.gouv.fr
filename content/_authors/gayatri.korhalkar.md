@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: ANCT
   - start: 2022-01-13
-    end: 2023-11-30
+    end: 2024-04-29
     status: independent
     employer: UT7
 startups:
