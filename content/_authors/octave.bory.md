@@ -10,7 +10,7 @@ missions:
     status: independent
     employer: NUMA
 startups:
-  - plateforme.impact
+  - portail.rse
 previously:
   - acceslibre
   - estime

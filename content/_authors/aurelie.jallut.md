@@ -6,15 +6,16 @@ github: Aurelie-J
 link: http://www.marquedefabrique.net
 missions:
   - start: 2019-11-12
-    end: 2023-12-31
+    end: 2024-03-31
     status: independent
     employer: ''
 startups:
   - données-et-territoires
-  - sndv_maritime
   - umap
 previously:
   - Aplus
+  - sndv_maritime
+  - Designers transverses
 badges:
   - segur
 competences:
