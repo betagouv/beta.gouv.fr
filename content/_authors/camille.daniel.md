@@ -10,7 +10,7 @@ missions:
     status: service
     employer: La Zone
 startups:
-  - plateforme.impact
+  - portail.rse
 ---
 
 Développeuse et associée de Yaal Coop
