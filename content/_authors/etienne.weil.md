@@ -5,7 +5,7 @@ role: Développeur
 github: fitchMitch
 missions:
   - start: 2020-06-02
-    end: 2023-12-31
+    end: 2024-06-29
     status: independent
     employer: Little Big Connection
 startups:
@@ -13,4 +13,6 @@ startups:
 competences:
   - Développement Frontend
   - Développement Backend
+previously:
+  - monstage
 ---

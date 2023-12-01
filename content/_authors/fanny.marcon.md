@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: OCTO
 startups:
-  - plateforme.impact
+  - portail.rse
 badges:
   - segur
 previously:

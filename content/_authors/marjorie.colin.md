@@ -15,7 +15,6 @@ missions:
     employer: ''
 startups:
   - sirius
-  - T2BJustice
 competences:
   - UX
   - Coaching
