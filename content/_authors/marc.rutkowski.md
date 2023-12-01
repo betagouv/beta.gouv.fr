@@ -5,7 +5,7 @@ domaine: Développement
 github: marc-rutkowski
 missions:
   - start: 2022-01-20
-    end: 2023-12-31
+    end: 2024-06-29
     status: independent
     employer: Octo/Malt
 startups:
