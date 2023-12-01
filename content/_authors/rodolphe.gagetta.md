@@ -5,7 +5,7 @@ role: Chargé de Communication
 github: RodolpheGagetta
 missions:
   - start: 2021-01-21
-    end: 2023-12-31
+    end: 2024-03-31
     status: independent
     employer: OCTO
 startups:

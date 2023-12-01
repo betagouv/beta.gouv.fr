@@ -7,9 +7,9 @@ missions:
   - start: 2021-09-13
     end: 2024-11-26
     status: admin
-    employer: DTNUM - DGFiP
+    employer: FABNUMDEF - Anais
 startups:
-  - attractivite.des.territoires
+  - Anais
 competences:
-  - Développement Backend
+  - Développement 
 ---

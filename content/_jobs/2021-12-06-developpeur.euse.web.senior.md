@@ -12,7 +12,7 @@ La solution [DORA](https://dora.fabrique.social.gouv.fr/) est un service public 
 * des résultats qualifiés
 * et des fiches solutions claires et actionnables.
 
-La Startup d’État DORA est portée par le Ministère du Travail, de l’Emploi et de l’Insertion dans la Fabrique Numérique des Ministères Sociaux. 
+La Startup d’État DORA est portée par le Ministère du Travail, de l’Emploi et de l’Insertion dans la Fabrique Numérique des Ministères Sociaux.
 
 La Startup d’État s’agrandit pour accélérer le service et étoffe son équipe en recrutant un·e développeur·euse. Nous sommes attaché·es à la mixité et à la diversité.
 
@@ -31,7 +31,7 @@ Ta mission si tu l’acceptes : nous aider à cracker nos problématiques, const
 
 ## ton rôle
 
-Tu prendras part à la conception du produit en collaboration avec le reste de l’équipe et, selon tes compétences et tes appétences, tu pourras être amené·e à intervenir sur les problématiques suivantes : 
+Tu prendras part à la conception du produit en collaboration avec le reste de l’équipe et, selon tes compétences et tes appétences, tu pourras être amené·e à intervenir sur les problématiques suivantes :
 
 * Améliorer l'ergonomie du front-end en implémentant les maquettes réalisées par notre designer sur Figma
 * Travailler sur l’accessibilité du site
@@ -43,7 +43,7 @@ Tu prendras part à la conception du produit en collaboration avec le reste de l
 
 
 
-Notre stack actuelle : 
+Notre stack actuelle :
 
 * Le backend est en Django 3/PostgreSQL 13, hébergé chez Scalingo
 * Le frontend utilise SvelteKit et tailwindcss
@@ -51,18 +51,18 @@ Notre stack actuelle :
 Si ces technologies ne te sont pas familières, mais que tu as de l’expérience avec d’autres, similaires, ta curiosité et ton envie de les découvrir pourront facilement y palier.
 
 Le développement se fait de façon ouverte, sur GitHub
-<https://github.com/betagouv/dora> 
+<https://github.com/betagouv/dora>
 
-Avant tout, nous recherchons une personne :  
+Avant tout, nous recherchons une personne :
 
   ➡ désireuse d’améliorer les parcours des personnes en situation d’insertion  \
   ➡ animée par la volonté d’améliorer le service public  \
   ➡ consciente des pratiques éthiques (RGPD, accessibilité…)  \
-  ➡ ouverte, souple, autonome et débrouillarde   
+  ➡ ouverte, souple, autonome et débrouillarde
 
 ## les modalités
 
-Tu rejoins une équipe composée de six personnes amenée à grandir : 
+Tu rejoins une équipe composée de six personnes amenée à grandir :
 
 * une chargée de produit (product manager)
 * un coach Beta Gouv
@@ -73,7 +73,7 @@ Tu rejoins une équipe composée de six personnes amenée à grandir :
 
 D’autres recrutements sont prévus au 1er trimestre 2022 : des spécialistes en déploiement et produit.
 
-L’équipe est dispersée à travers la France (Toulouse, Bordeaux, Paris), et travaille principalement à distance, mais on essaye de se retrouver en présentiel (une fois tous les mois et demi environ) et d’aller régulièrement à la rencontre des utilisateurs. 
+L’équipe est dispersée à travers la France (Toulouse, Bordeaux, Paris), et travaille principalement à distance, mais on essaye de se retrouver en présentiel (une fois tous les mois et demi environ) et d’aller régulièrement à la rencontre des utilisateurs.
 
 * Contrat : indépendant (portage possible)
 * TJM envisagé : 550-700 € selon expérience (voir [grille de rémunération Beta Gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/les-differents-statuts/independants-freelances/remuneration#grille-de-taux-journaliers/))
@@ -84,6 +84,6 @@ L’équipe est dispersée à travers la France (Toulouse, Bordeaux, Paris), et 
 
 ## ta candidature
 
-Pour postuler, envoie-nous un petit message à [dora@beta.gouv.fr](<mailto:dora@beta.gouv.fr?cc=recrutement@beta.gouv.fr&subject=candidature dev senior>), avec recrutement@beta.gouv.fr en copie, en nous expliquant ce qui te motive à bosser sur Dora ! Tu peux ajouter au choix : ton CV, un lien vers ton profil github, site perso, LinkedIn, Malt ou équivalent... 
+Pour postuler, envoie-nous un petit message à [dora@beta.gouv.fr](<mailto:dora@beta.gouv.fr?cc=recrutement@beta.gouv.fr&subject=candidature%20dev%20senior>), avec recrutement@beta.gouv.fr en copie, en nous expliquant ce qui te motive à bosser sur Dora ! Tu peux ajouter au choix : ton CV, un lien vers ton profil github, site perso, LinkedIn, Malt ou équivalent...
 
 On te recontactera rapidement par mail pour convenir d’un rendez-vous avec l’équipe !

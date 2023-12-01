@@ -14,7 +14,7 @@ missions:
     employer: Malt
 startups:
   - aides.jeunes
-  - logement.etudiant
+  - je-deviens-etudiant
 previously:
   - e-controle
   - aides-territoires

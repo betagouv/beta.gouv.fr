@@ -1,7 +1,13 @@
 ---
-title: GIP Plateforme de l'inclusion 
+title: Plateforme de l'inclusion
+short_description: Cet incubateur vise à <span class="fr-text--bold">faciliter la vie des personnes en insertion</span> et de celles et ceux qui les accompagnent.
 logo: logo_beta.png
 website: https://inclusion.beta.gouv.fr/
+
+highlighted_startups:
+    - carnet.de.bord
+    - itou
+    - dora
 ---
 
 La Plateforme de l’inclusion développe et améliore des services publics pour faciliter la vie des personnes en insertion et de celles et ceux qui les accompagnent.

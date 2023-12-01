@@ -7,13 +7,13 @@ sponsors:
 incubator: gip-inclusion
 link: https://www.rdv-insertion.fr/
 repository: https://github.com/betagouv/rdv-insertion
-contact: data.insertion@beta.gouv.fr
+contact: rdv-insertion@beta.gouv.fr
 usertypes:
   - collectivite-territoriale
   - etat
   - association
-stats_url: https://betagouv.github.io/stats-data-insertion/
-title: RDV-Insertion
+stats_url: https://www.rdv-insertion.fr/stats
+title: rdv-insertion
 stats: true
 phases:
   - name: investigation
@@ -35,7 +35,8 @@ Les parcours d’insertion sont longs et peu suivis : 
 
 Remplacer la convocation par courrier aux rendez-vous d’insertion par une invitation (mail et SMS) à prendre rendez-vous. L’usager peut alors choisir le créneau qui lui convient le mieux.
 
-Permettre aux agents de gérer une liste d’invitations, sur plusieurs motifs de RDV (ex : orientation, accompagnement, action spécifique d’insertion, suivi en IAE) et pour plusieurs types d’organisations (ex : CD, MDS, PLIE, Mission locale, associations, SIAE). 
+Permettre aux agents de gérer une liste d’invitations, sur plusieurs motifs de RDV (ex : orientation, accompagnement, action spécifique d’insertion, suivi en IAE) et pour plusieurs types d’organisations (ex : CD, MDS, PLIE, Mission locale, associations, SIAE)
+. 
 
 ## Nos usagers
 

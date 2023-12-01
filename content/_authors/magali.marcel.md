@@ -17,4 +17,5 @@ competences:
   - Gestion de Produit
 teams:
   - /teams/mtes
+  - /teams/animation-dinum
 ---

@@ -18,22 +18,10 @@ Le déroulé de la phase d’accélération continue à reposer sur les [3 pilie
 
 Cette phase s’achève par un comité où l’administration porteuse prend la décision, sur la base des résultats du service, de [le pérenniser](https://beta.gouv.fr/approche/transfert) ou non. 
 
-## Le programme Gamma
+## Le programme FAST
 
-Depuis septembre 2020, une équipe spécialisée dans les enjeux de croissance de services numériques est mobilisée par beta.gouv.fr pour apporter un accompagnement ciblé lors la phase d'accélération. Il s'agit d'un programme de 4 à 6 mois qui accompagne 3 équipes par saison et dont les conditions d'éligibilité sont les suivantes : 
-- Faire partie du programme beta.gouv.fr&nbsp;;
-- Avoir atteint l'adéquation de son produit avec son marché&nbsp;;
-- Avoir identifié une mesure d'impact suivie avec les sponsors&nbsp;;
-- Avoir une équipe organisée pour porter la croissance.
+Depuis la 11ème édition du FAST en juin 2022, le Fonds d'Accélération des Startups d'Etat et de Territoire aide les services numériques à accélérer leur impact grâce à du co-financement et un accompagnement sur 4 mois par des experts en accélération.
 
-A chaque promotion, les équipes volontaires peuvent se manifester auprès de l'équipe Gamma et passent des entretiens qui déterminent si le programme est bien adapté au produit.
+Pour bénéficier de cet appui de la DINUM, les services numériques doivent déposer un dossier de candidature et répondre aux critères de sélection du FAST.
 
-La sélection de la Saison 1 de Gamma a eu lieu en septembre 2020. Les équipes accompagnées entre octobre 2020 et mars 2021 sont : 
-- [DossierFacile](https://beta.gouv.fr/startups/locatio.html)
-- [Aides Territoires](https://beta.gouv.fr/startups/aides-territoires.html)
-- [Mon Entreprise](https://beta.gouv.fr/startups/mon-entreprise.html)
-
-La sélection de la Saison 2 de Gamma est ouverte jusqu’au 31 mars 2021. Les candidatures se font en écrivant un mail à gamma@beta.gouv.fr pour fixer un entretien.
-
-Pour contacter l'équipe Gamma : gamma@beta.gouv.fr.
-
+Pour en savoir plus, rendez-vous sur la page https://beta.gouv.fr/fast ou contactez fast@beta.gouv.fr

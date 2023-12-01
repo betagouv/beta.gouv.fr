@@ -12,17 +12,6 @@ L'équipe [Aides-Jeunes](https://beta.gouv.fr/startups/aides.jeunes.html) recher
 
 <!--more-->
 
-<style type="text/css">
-p {
-      margin: 1.5rem 0 0 0;
-}
-
-h2, h3 {
-      margin: 3rem 0 1rem 0;
-}
-</style>
-
-
 ## Le produit, en 3 parties 😁
 
 Demandé par le Premier Ministre en février 2021, le simulateur d'aides pour les jeunes a été [officiellement mis en ligne](https://twitter.com/JeanCASTEX/status/1387065585859715074) à la fin de mois d'avril 2021. Cela a été possible en capitalisant sur de nombreux apprentissages (depuis 2014) et sur la base de code de [Mes Aides](https://beta.gouv.fr/startups/mes-aides.html).
@@ -94,6 +83,6 @@ Points bonus pour :
 - Temps partiel accepté (80 % minimum)
 - Démarrage dès que possible
 
-Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à [aides-jeunes@beta.gouv.fr](mailto:aides-jeunes@beta.gouv.fr?subject=Recrutement dev JS) ou à partir de [l'annonce publiée sur Welcome to the jungle](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/dev-javascript_paris).
+Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre LinkedIn / CV / GitHub, le tout à [aides-jeunes@beta.gouv.fr](mailto:aides-jeunes@beta.gouv.fr?subject=Recrutement%20dev%20JS) ou à partir de [l'annonce publiée sur Welcome to the jungle](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/dev-javascript_paris).
 
 À bientôt ! 😀
