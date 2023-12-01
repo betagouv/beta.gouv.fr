@@ -19,6 +19,4 @@ startups:
 competences:
   - Développement Frontend
   - Gestion de Produit
-previously:
-  - mon-entreprise
 ---
