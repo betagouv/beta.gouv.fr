@@ -1,13 +1,13 @@
 ---
 fullname: Marine Purson
-role: intrapreneure au sein du ministère de la Transition écologique
+role: Responsable des Relations institutionnelles
 domaine: Autre
 github: marinepurson
 missions:
   - start: 2020-05-06
-    end: 2022-12-31
+    end: 2024-06-30
     status: admin
-    employer: MTES
-startups:
+    employer: DINUM
+previously:
     - recosante
 ---
