@@ -6,6 +6,9 @@ missions:
   - start: 2023-12-03
     end: 2024-05-31
     status: service
+    employer: ''
 memberType: autre
+startups:
+  - sante-psy-etudiant
 ---
 
