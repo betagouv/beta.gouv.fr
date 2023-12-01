@@ -7,9 +7,11 @@ missions:
     end: 2024-06-30
     status: independent
     employer: Numa
-startups:Maison du dessin de presse, ma cantine, iCare compléments alimentaires
+startups:
+- Maison du dessin de presse
+- ma cantine
+- iCare compléments alimentaires
 memberType: beta
 ---
-
 
 Designer et coach
