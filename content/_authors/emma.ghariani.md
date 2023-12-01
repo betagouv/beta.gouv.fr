@@ -1,11 +1,11 @@
 ---
 fullname: Emma Ghariani
-role: Responsable de l'AIC
+role: Responsable de l&#39;AIC
 domaine: Animation
 github: Emmaghrr
 missions:
   - start: 2023-02-20
-    end: 2023-12-30
+    end: 2024-12-31
     status: admin
     employer: DINUM
 memberType: dinum
