@@ -1,10 +1,10 @@
 ---
 fullname: Roxann Khelif
-role: Chargée de déploiement &amp; support utilisateur
+role: Chargée de déploiement &amp;amp; support utilisateur
 domaine: Déploiement
 missions:
   - start: 2022-11-02
-    end: 2023-12-31
+    end: 2024-06-29
     status: independent
     employer: ''
 startups:
