@@ -1,17 +1,18 @@
 ---
 fullname: Vikie Ache
 domaine: Intraprenariat
-role: Intrapreneuse
+role: Chargée de communication et déploiement - Ex Intrapreneuse Simone & Co
 github: vikieache
 missions:
   - start: 2018-01-01
-    end: 2023-12-31
+    end: 2024-12-31
     status: admin
     employer: Agglomération de Pau Béarn Pyrénées
 startups:
   - histologe
   - sante-psy-etudiant
-previously: []
+previously:
+  - simone-and-co
 competences:
   - Communication
   - Gestion de Produit
