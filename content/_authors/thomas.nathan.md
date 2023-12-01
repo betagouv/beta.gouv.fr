@@ -5,7 +5,7 @@ domaine: Produit
 github: thomasnpc
 missions:
   - start: 2022-09-05
-    end: 2024-09-26
+    end: 2024-06-27
     status: independent
     employer: DINUM
 startups:
