@@ -1,20 +1,22 @@
 ---
 fullname: Benoit Champy
 domaine: Design
-role: UX Designer
+role: UX Designer & Coach d'investigation
 github: benoitchampy
 link: https://www.linkedin.com/in/benoitchampy/
 missions:
   - start: 2022-10-17
-    end: 2023-12-31
+    end: 2026-12-31
     status: admin
     employer: DINUM
 startups:
-  - cnr
-  - la.bonne.renov
+  - Pass'Sport
 badges:
   - segur
 competences:
   - UI
   - UX
+previously:
+  - cnr
+  - la.bonne.renov
 ---
