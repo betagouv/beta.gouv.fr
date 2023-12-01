@@ -2,6 +2,7 @@
 fullname: Léa Genovesi
 role: Coach
 domaine: Coaching
+github: leageno
 missions:
   - start: 2022-06-29
     end: 2024-10-30
