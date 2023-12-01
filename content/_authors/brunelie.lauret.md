@@ -8,7 +8,7 @@ missions:
     end: 2024-06-30
     status: service
 startups:
-  - plateforme.impact
+  - portail.rse
 memberType: attributaire
 ---
 
