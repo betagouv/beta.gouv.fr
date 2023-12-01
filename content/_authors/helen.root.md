@@ -10,8 +10,9 @@ missions:
     employer: Scopyleft
 startups:
   - ma-cantine-egalim
-  - datagir
 badges:
   - segur
+previously:
+  - datagir
 ---
 
