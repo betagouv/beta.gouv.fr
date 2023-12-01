@@ -1,7 +1,7 @@
 ---
 fullname: Vikie Ache
 domaine: Intraprenariat
-role: Chargée de communication et déploiement - Ex Intrapreneuse Simone&Co
+role: Chargée de communication et déploiement - Ex Intrapreneuse Simone & Co
 github: vikieache
 missions:
   - start: 2018-01-01
