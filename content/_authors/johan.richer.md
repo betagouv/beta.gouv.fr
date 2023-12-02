@@ -6,7 +6,7 @@ link: https://www.multi.coop/
 github: JohanRicher
 missions:
   - start: 2023-06-01
-    end: 2023-12-31
+    end: 2024-06-29
     status: service
     employer: Malt
 startups:
