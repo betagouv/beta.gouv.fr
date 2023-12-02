@@ -9,6 +9,8 @@ sponsors:
 incubator: ademe
 link: https://longuevieauxobjets.ademe.fr/
 contact: longuevieauxobjets@ademe.fr
+redirect_from:
+  - /startups/quefairedemesobjets
 accessibility_status: non conforme
 events:
   - name: committee
