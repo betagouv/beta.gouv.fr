@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: Vioasselin
 missions:
   - start: 2018-04-01
-    end: 2023-12-31
+    end: 2024-12-31
     status: admin
     employer: independent
 previously:
