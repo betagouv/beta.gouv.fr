@@ -3,16 +3,16 @@ fullname: Joe Achkar
 role: Responsable des Opérations
 domaine: Déploiement
 github: JoeACHKAR
-avatar:
+avatar: null
 link: https://www.linkedin.com/in/joeachkar/
 missions:
   - start: 2020-05-18
-    end: 2024-01-31
+    end: 2025-01-31
     status: independent
     employer: octo
 startups:
-    - jeveuxaider
-    - snu
+  - jeveuxaider
+  - snu
 previously:
-    - api-engagement
+  - api-engagement
 ---
