@@ -1,22 +1,23 @@
 ---
 fullname: Gauthier Nadaud
-role: Coach
+role: Coach/Expert Fast
 domaine: Coaching
 missions:
   - start: 2022-06-24
-    end: 2023-12-29
+    end: 2025-06-29
     status: independent
     employer: NUMA
 startups:
-  - jafer
-  - mon suivi justice
-  - registre de preuve de covoiturage
-  - PSPC
+  - data-subvention
+  - ma-cantine-egalim
 badges:
   - segur
 teams:
   - /teams/fast-dinum
-
+previously:
+  - jafer
+  - mon-suivi-justice
+  - preuve-de-covoiturage
 ---
 >-
   Nouveau coach et anciennement CEO & Founder d'une startup d'objets connectés
