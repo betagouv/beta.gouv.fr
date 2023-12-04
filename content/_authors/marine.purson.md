@@ -2,7 +2,7 @@
 fullname: Marine Purson
 role: Responsable des Relations institutionnelles
 domaine: Animation
-github: marinepurson
+github: marinepurson2
 missions:
   - start: 2020-05-06
     end: 2022-12-31
