@@ -5,7 +5,7 @@ role: UX designer
 link: https://irisnaudin.com/
 missions:
   - start: 2022-07-28
-    end: 2023-12-31
+    end: 2024-05-30
     status: service
     employer: Octo Technology
 startups:
