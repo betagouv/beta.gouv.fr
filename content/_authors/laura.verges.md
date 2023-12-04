@@ -5,7 +5,7 @@ avatar: null
 link: https://laboiteaecrire.fr/
 missions:
   - start: 2023-02-14
-    end: 2023-12-31
+    end: 2025-01-31
     status: independent
     employer: La Startup d'État Engagement Civique
 competences:
