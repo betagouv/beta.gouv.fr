@@ -14,6 +14,7 @@ usertypes:
   - collectivite-territoriale
 stats_url: https://www.territoiresentransitions.fr/stats
 budget_url: https://www.territoiresentransitions.fr/budget
+analyse_risques: true
 stats: true
 dashlord_url: https://dashlord.incubateur.net/url/app-territoiresentransitions-fr/
 accessibility_status: non conforme
