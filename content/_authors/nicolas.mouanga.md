@@ -4,11 +4,14 @@ role: Growth Hacker
 domaine: Déploiement
 github: NicolasM92
 missions:
-  - end: 2023-12-31
-    start: 2020-02-10
+  - start: 2020-02-10
+    end: 2025-12-31
     status: independent
+    employer: ''
 startups:
-  - place-des-entreprises
   - sparte
   - docurba
+previously:
+  - place-des-entreprises
+  - codedutravail
 ---
