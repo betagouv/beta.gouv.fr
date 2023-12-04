@@ -5,9 +5,10 @@ domaine: Développement
 github: rsebille
 missions:
   - start: 2022-04-20
-    end: 2023-12-31
+    end: 2024-12-31
     status: independent
-    employer: Octo
+    employer: Malt
 startups:
   - itou
+  - pilotage.de.linclusion
 ---
