@@ -1,5 +1,5 @@
 ---
-title: Conseiller Numérique
+title: Conseiller numérique
 mission: >-
   Former et déployer des conseillers numériques pour accompagner les usagers
   vers l'autonomie numérique.
@@ -19,8 +19,6 @@ usertypes:
   - collectivite-territoriale
   - particulier
 accessibility_status: partiellement conforme
-stats_url: >-
-  https://metabase.conseiller-numerique.gouv.fr/public/dashboard/446208c4-cae2-4c0c-be19-44cb14ce7d06
 ---
 ## Contexte
 
