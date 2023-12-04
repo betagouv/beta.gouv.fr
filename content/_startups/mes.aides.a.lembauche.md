@@ -1,14 +1,15 @@
 ---
 title: Mes aides à l'embauche
-mission: Faciliter le recrutement en informant l’employeur au bon moment sur
-  l'aide la plus adaptée à la situation de son recrutement
+mission: >-
+  Faciliter le recrutement en informant l’employeur au bon moment sur l'aide la
+  plus adaptée à la situation de son recrutement
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
-link: " https://entreprise.pole-emploi.fr/detecteureligibiliteaides/ "
-contact: mickael.rizzi@pole-emploi.fr
+link: ' https://entreprise.pole-emploi.fr/detecteureligibiliteaides/ '
+contact: lea.trecat-linnartz@pole-emploi.fr
 stats: false
-budget_url: " "
+budget_url: ' '
 accessibility_status: partiellement conforme
 phases:
   - name: construction
