@@ -6,6 +6,8 @@ missions:
   - start: 2023-09-04
     end: 2023-12-25
     status: admin
+startups:
+  - inventaire.friches.agricoles
 memberType: beta
 ---
 

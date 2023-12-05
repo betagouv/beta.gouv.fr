@@ -9,9 +9,9 @@ missions:
     status: independent
     employer: octo
 startups:
-  - carnet.de.bord
 previously:
   - codedutravail
+  - carnet.de.bord
 competences:
   - Développement Frontend
   - Développement Backend

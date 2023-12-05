@@ -5,7 +5,7 @@ domaine: Développement
 github: AlexandreCantin
 missions:
   - start: 2022-07-04
-    end: 2023-10-31
+    end: 2023-10-18
     status: independent
     employer: Octo
 avatar: /img/authors/alexandre.cantin.jpg

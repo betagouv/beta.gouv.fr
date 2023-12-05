@@ -7,7 +7,7 @@ avatar:
 link:
 missions:
   - start: 2020-11-16
-    end: 2023-12-31
+    end: 2024-02-28
     status: independent
     employer: Codeurs en liberté
 startups:

@@ -10,6 +10,7 @@ missions:
     employer: Numa
 startups:
   - chauffage-urbain
+previously:
   - Mon-suivi-social
 competences:
   - UX

@@ -2,7 +2,7 @@
 title: Usine à chatbots
 mission: Automatiser la conception de chatbots
 sponsors:
- - /organisations/armees
+  - /organisations/armees
 incubator: fabnumdef
 link: https://chatbot.fabnum.fr/
 contact: fabrique-chatbots@beta.gouv.fr
@@ -19,6 +19,7 @@ phases:
     start: 2022-06-01
 usertypes:
   - etat
+stats_url: https://chatbot.fabnum.fr//stats
 ---
 ## Contexte
 

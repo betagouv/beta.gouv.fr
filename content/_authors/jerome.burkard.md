@@ -1,11 +1,11 @@
 ---
 fullname: Jérôme Burkard
-role: Développeur
+role: Lead dev
 domaine: Développement
 github: jeromebu
 missions:
   - start: 2021-07-16
-    end: 2023-12-31
+    end: 2024-05-30
     status: independent
     employer: La fabrique pôle emploi
 startups:

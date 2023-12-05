@@ -1,6 +1,6 @@
 ---
-fullname: Ariane ROSE
-role: Intrapreneur
+fullname: Ariane Rose
+role: Cheffe de projet - Incubateur des Territoires
 domaine: Déploiement
 github: Ariane-Rose
 missions:
@@ -10,8 +10,10 @@ missions:
     employer: ''
 startups:
   - ban
-  - infrastructures.numeriques
   - pcrs
   - bases.adresses.locales
+  - données-et-territoires
+teams:
+  - /teams/anct
 ---
 Accélérer le déploiement de la fibre optique et des Bases Adresses Locales

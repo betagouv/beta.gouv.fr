@@ -1,5 +1,5 @@
 ---
-title: Aquaculteurs marins
+title: Aquapreneurs
 mission: Simplifier les déclarations de données aquacoles et développer la filière
 sponsors:
   - /organisations/mtes

@@ -12,7 +12,6 @@ startups:
 badges:
   - segur
 previously:
-  - jeveuxaider
   - demarches-simplifiees.fr
 ---
 

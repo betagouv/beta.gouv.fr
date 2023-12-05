@@ -10,8 +10,10 @@ missions:
 competences:
   - UX
   - UI
-memberType: beta
-role: Product Designer
 startups:
   - envergo
+  - seves
+memberType: beta
+previously:
+  - ecobalyse
 ---

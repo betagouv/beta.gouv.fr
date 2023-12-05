@@ -14,10 +14,10 @@ missions:
     status: independent
 startups:
   - aides.jeunes
-  - annuaire-entreprises
   - apilos
   - nosgestesclimat
 previously:
+  - annuaire-entreprises
   - codedutravail
   - mes-aides
   - preuve-de-covoiturage

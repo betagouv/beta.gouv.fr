@@ -4,7 +4,7 @@ role: Dev
 domaine: Développement
 missions:
   - start: 2022-03-02
-    end: 2023-12-02
+    end: 2024-03-02
     status: service
     employer: OCTO
 startups:

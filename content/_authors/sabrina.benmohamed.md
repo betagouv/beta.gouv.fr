@@ -4,10 +4,11 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-05-02
-    end: 2023-11-03
+    end: 2023-10-01
     status: independent
     employer: Dinum
 startups:
+previously:
   - pilotage.de.linclusion
 memberType: beta
 ---

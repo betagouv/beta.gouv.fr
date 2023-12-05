@@ -10,9 +10,8 @@ missions:
     status: independent
     employer: freelance
 incubator: mtes
-startups:
-  - camino
 previously:
+  - camino
   - conseiller-numerique
   - mobilic
   - dora

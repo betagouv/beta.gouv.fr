@@ -1,13 +1,13 @@
 ---
 fullname: Anais Tailhade
-role: Support & Relation partenaires
+role: 'Coordination &amp; Support '
 domaine: Autre
 github: Anais-Tailhade
 missions:
   - start: 2021-11-18
-    end: 2023-12-31
-    status: service
-    employer: DINUM
+    end: 2024-12-31
+    status: independent
+    employer: Malt
 badges:
   - segur
 startups:
@@ -18,5 +18,5 @@ startups:
   - annuaire-entreprises
 previously:
   - data.gouv.fr
+  - oots.once-only.technical.system
 ---
-

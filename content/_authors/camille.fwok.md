@@ -5,7 +5,7 @@ domaine: Déploiement
 github: Camillefwok
 missions:
   - start: 2020-10-07
-    end: 2023-12-01
+    end: 2024-01-07
     status: independent
     employer: Fabrique numérique des ministères sociaux
 startups:

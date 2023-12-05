@@ -14,6 +14,7 @@ missions:
     end: 2024-01-31
 startups:
   - nata
+  - teleconsultation.assistee
 memberType: beta
 competences:
   - Gestion de Produit

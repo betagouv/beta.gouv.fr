@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Ministère de la Justice
 startups:
-  - justif
+  - mon-suivi-justice
 badges:
   - segur
 ---

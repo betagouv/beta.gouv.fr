@@ -1,5 +1,5 @@
 ---
-title: Cartographie nationale
+title: 'Cartographie nationale '
 mission: Orienter les publics vers les structures répondant à leur besoin
 sponsors:
   - /organisations/anct
@@ -7,7 +7,7 @@ incubator: anct
 link: https://cartographie.societenumerique.gouv.fr/
 repository: https://github.com/anct-cartographie-nationale
 contact: cartographie.sonum@anct.gouv.fr
-stats: false
+stats: true
 dashlord_url: https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/
 accessibility_status: non conforme
 events:
@@ -22,9 +22,8 @@ phases:
     end: 2022-04-01
   - name: construction
     start: 2022-04-01
-
+stats_url: https://cartographie.societenumerique.gouv.fr//stats
 ---
-
 ## Contexte
 
 Plus de **13 millions de Français** ont des difficultés avec les usages numériques.
@@ -86,7 +85,9 @@ L'aboutissement de ce travail, le **standard de données des lieux de médiatio
 
 # Référencer ou mettre à jour son offre de service
 
-Pour collecter et mettre à jour ces **données standardisées**, nous faisons appel à [DORA](https://dora.fabrique.social.gouv.fr/), le service public numérique de recensement et mise à jour de l’offre d’insertion.
+**ATTENTION si vous apparaissez déjà sur une cartographie locale pour laquelle vous mettez à jour vos informations, cette section ne vous concerne pas !** Plus d'infos [ici](https://labase.anct.gouv.fr/ressource/1474)
+
+Pour collecter et mettre à jour ces **données standardisées**, nous faisons appel à [DORA](https://dora.fabrique.social.gouv.fr/), le service public numérique de recensement et mise à jour de l’offre d’insertion.
 
 Avec DORA, chaque structure de médiation numérique peut publier dans une démarche d’Open Data et rendre disponibles ses données à travers un référentiel commun — partagé par toutes les plateformes et sites web partenaires.
 
@@ -94,7 +95,7 @@ Avec DORA, chaque structure de médiation numérique peut publier dans une déma
 
 **Grâce à cette dynamique collective, vous référencez votre offre une seule fois tout en la rendant disponible partout.**
 
-[J﻿e souhaite référencer ma structure sur Dora](https://labase.anct.gouv.fr/ressource/975/) 
+J﻿e souhaite référencer ma structure sur Dora 
 
 # Versions locales et personnalisées
 
@@ -102,9 +103,9 @@ Cette cartographie est un **projet open source** (rendez-vous sur [l'organisa
 \
 De cette manière, vous pouvez retrouver la cartographie restreinte aux Conseillers Numériques France Service sur [leur site web](https://carte.conseiller-numerique.gouv.fr/). 
 
-[Comment ajouter la cartographie sur mon site web ?](https://github.com/anct-cartographie-nationale/client-application#documentation)
+Un tutoriel d'aide à l'implémentation sur votre site web est disponible [ici](https://labase.anct.gouv.fr/ressource/993).
 
-## [](https://github.com/anct-cartographie-nationale/client-application#documentation)[](https://dora.fabrique.social.gouv.fr/)Communication
+# [](https://github.com/anct-cartographie-nationale/client-application#documentation)[](https://dora.fabrique.social.gouv.fr/)Inter-opérabilité
 
 L﻿es [Hubs territoriaux pour un numérique inclusif](https://sonum.tlscp.fr/fr/dispositif/hubs-numerique/) jouent le rôle de référent territoriaux auprès des collectivités pour collecter et mettre à jour les données des structures. 
 

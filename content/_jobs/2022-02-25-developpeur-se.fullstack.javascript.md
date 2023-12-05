@@ -75,7 +75,7 @@ Un.e second.e chargé.e de déploiement est également en cours de recrutement.
 ## 📝 Les modalités
 
 * Contrat : indépendant
-* TJM envisagé : entre 400 et 600€ selon expérience (voir [grille de rémunération Beta Gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/remuneration#grille-de-taux-journaliersiller-a-beta-gouv/recrutement/les-differents-statuts/independants-freelances/remuneration#grille-de-taux-journaliers/))
+* TJM envisagé : entre 400 et 600€ selon expérience (voir [grille de rémunération Beta Gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/remuneration#grille-de-taux-journaliers))
 * Charge : 3 à 5 jours par semaine
 * Durée : 3 mois (potentiellement renouvelable)
 * Début souhaité : courant mars 2022

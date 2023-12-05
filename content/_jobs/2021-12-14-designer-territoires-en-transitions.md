@@ -35,30 +35,30 @@ Les principales missions et responsabilités de la personne designeuse UX/UI, en
 - Forte capacité de conviction et de pédagogie
 - Expérience dans l’utilisation de design systems et l'accessibilité
 
-## 👀 À propos de nous 
+## 👀 À propos de nous
 
 ### L'ADEME
 
 À l'[ADEME](https://www.ademe.fr/) - l'Agence de la transition écologique - nous sommes résolument engagés dans la lutte contre le réchauffement climatique et la dégradation des ressources. Sur tous les fronts, nous mobilisons les citoyens, les acteurs économiques et les territoires, leur donnons les moyens de progresser vers une société économe en ressources, plus sobre en carbone, plus juste et harmonieuse.
 Dans tous les domaines - énergie, air, économie circulaire, gaspillage alimentaire, déchets, sols, etc., nous conseillons, facilitons et aidons au financement de nombreux projets, de la recherche jusqu'au partage des solutions. À tous les niveaux, nous mettons nos capacités d'expertise et de prospective au service des politiques publiques.
 
-### 🌱 Le produit 
+### 🌱 Le produit
 
-Portée par l’ADEME et incubée au sein de l’incubateur de la Direction Interministérielle du Numérique sous la forme d’une [Startup d'État](https://beta.gouv.fr) Territoires en Transitions est la nouvelle plateforme d’appui de l’ADEME pour accompagner les territoires engagés en transition écologique. La mission de [Territoires en Transitions](https://territoiresentransitions.fr/) est d’aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique. 
+Portée par l’ADEME et incubée au sein de l’incubateur de la Direction Interministérielle du Numérique sous la forme d’une [Startup d'État](https://beta.gouv.fr) Territoires en Transitions est la nouvelle plateforme d’appui de l’ADEME pour accompagner les territoires engagés en transition écologique. La mission de [Territoires en Transitions](https://territoiresentransitions.fr/) est d’aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique.
 
-* Mission : Aider les collectivités à piloter leur transition écologique en les aidant à définir et prioriser la mise en œuvre des actions les plus impactantes. 
+* Mission : Aider les collectivités à piloter leur transition écologique en les aidant à définir et prioriser la mise en œuvre des actions les plus impactantes.
 
 * Le produit s'appuie sur le programme d'accompagnement [Territoires engagés Transition Écologique](https://territoireengagetransitionecologique.ademe.fr/) de l'ADEME et en particulier sur ses référentiels climat-air-énergie et économie circulaire dans lequel sont déjà engagés plus de 250 collectivités françaises.
 
 Pour qui en priorité ? :
 * Personnes référentes sur la transition écologique dans une collectivité territoriale ([EPCI](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_de_coop%C3%A9ration_intercommunale)/villes)
-* Personnes accompagnatrices des collectivités dans leur transition écologique et processus de labellisation [Conseiller·e·s et auditeurs](https://territoireengagetransitionecologique.ademe.fr/climat-air-energie/labellisation/) 
+* Personnes accompagnatrices des collectivités dans leur transition écologique et processus de labellisation [Conseiller·e·s et auditeurs](https://territoireengagetransitionecologique.ademe.fr/climat-air-energie/labellisation/)
 
 ### L’équipe
 
 L'équipe actuelle est constituée de:
 * Intrapreneur : Nicolas VALLÉE
-* Référente expertise climat air énergie et économie circulaire :  Émeline JOLY 
+* Référente expertise climat air énergie et économie circulaire :  Émeline JOLY
 * Coach : Pénélope LIOT
 * Développeuse : Raphaëlle BERTRAND-LALO
 * Développeur : Florian d'ERFURTH
@@ -77,11 +77,11 @@ L'équipe actuelle est constituée de:
 
 
 ## 🧳 Modalité d'embauche
-* Contrat : freelance / prestation 
+* Contrat : freelance / prestation
 * Début de la mission dès que possible
 * Temps partiel possible (4j/semaine)
 
-Nous échangerons sur les sujets suivants : 
+Nous échangerons sur les sujets suivants :
 * Organisation
 * Capacité
 * Rémunération
@@ -92,7 +92,7 @@ Et nous nous sentons ouverts pour aborder d'autres sujets qui vous sembleront pe
 
 
 ## 📝 Nous contacter
-Pour en savoir plus, échanger avec nous et nous adresser votre candidature : [contact@territoiresentransitions.fr](mailto:contact@territoiresentransitions.fr?subject=Designer Territoires en Transitions)
+Pour en savoir plus, échanger avec nous et nous adresser votre candidature : [contact@territoiresentransitions.fr](mailto:contact@territoiresentransitions.fr?subject=Designer%20Territoires%20en%20Transitions)
 
 À très vite !
 

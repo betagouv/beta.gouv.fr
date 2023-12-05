@@ -22,12 +22,12 @@ l’analyse des candidatures, le Comité d’investissement de la 12ème
 <ul>
   <li>
     <h3 class="fr-mb-1w">
-      <a class="fr-link" target="_blank" rel="noopener" href="/incubateurs/#/incubators/ademe">
+      <a class="fr-link" target="_blank" rel="noopener" href="/incubateurs/ademe">
       L'Accélérateur de la transition écologique
       </a>
     </h3>
     <p class="fr-mb-1w"> Faire émerger et soutenir de nouveaux services à impacts portés par l'ADEME pour accélérer la transition sur les différents champs d'interventions de l'Agence et auprès de toutes ses cibles (collectivités, entreprises, particuliers…).
     </p>
-    <p><strong>Montant</strong>: 200 000 €</p>
+    <p style="display: block;"><strong>Montant</strong>: 200 000 €</p>
   </li>
 </ul>

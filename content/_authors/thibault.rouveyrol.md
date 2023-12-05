@@ -11,6 +11,8 @@ missions:
     employer: thibault.rouveyrol@gmail.com
 badges:
   - segur
+startups:
+  - les.bases
 ---
 
 

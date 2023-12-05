@@ -4,14 +4,12 @@ role: Chargée de déploiement
 domaine: Déploiement
 missions:
   - start: 2023-03-14
-    end: 2023-12-29
+    end: 2024-03-01
     status: independent
     employer: ''
 startups:
   - jeveuxaider
 memberType: beta
-previously:
-  - jeveuxaider
 ---
 
 Chargée de déploiement JeVeuxAider

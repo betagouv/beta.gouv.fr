@@ -4,7 +4,7 @@ role: Chargée de support
 domaine: Déploiement
 missions:
   - start: 2023-08-21
-    end: 2023-12-16
+    end: 2024-03-31
     status: independent
     employer: Opteamis
 startups:

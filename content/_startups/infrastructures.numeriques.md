@@ -1,18 +1,21 @@
 ---
-title: Infrastructures numériques
-mission: Outiller les collectivités et les services de l’Etat afin de permettre
-  aux territoires de suivre et d’agir pour la réduction de la fracture
-  numérique.
-sponsors:
-  - /organisations/anct
+mission: >-
+  Outiller les collectivités et les services de l’Etat afin de permettre aux
+  territoires de suivre et d’agir pour la réduction de la fracture numérique.
 incubator: anct
-contact: contactincubateur@anct.gouv.fr
-phases:
-  - name: construction
-    start: 2022-02-14
+repository: >-
+  https://gitlab.com/incubateur-territoires/startups/infrastructures-numeriques/infra-num
+contact: tous-connectes@anct.gouv.fr
 usertypes:
   - collectivite-territoriale
   - etat
+title: Toutes et tous connecté·e·s
+sponsors:
+  - /organisations/anct
+link: https://tous-connectes.anct.gouv.fr/
+phases:
+  - name: construction
+    start: 2022-02-14
 ---
 # Contexte
 L’amélioration de la couverture fixe, comme mobile est une priorité du Gouvernement afin de permettre à l’ensemble des Français, quel que soit leur lieu de résidence, de bénéficier d’une couverture de qualité. Les programmes France Très Haut Débit et France Mobile ont été conçus en ce sens. Ils pilotent les déploiements d’infrastructure numérique sur le territoire.

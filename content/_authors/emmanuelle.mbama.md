@@ -8,7 +8,7 @@ missions:
     status: independent
 startups: []
 previously:
-  - justif
+  - mon-suivi-justice
 badges:
   - segur
 competences:

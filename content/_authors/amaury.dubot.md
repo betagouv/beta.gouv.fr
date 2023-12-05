@@ -1,17 +1,18 @@
 ---
 fullname: Amaury Dubot
 domaine: Déploiement
-role: Chargé de déploiement
+role: Déploiement - GIP Plateforme de l'inclusion
 github: amaurydubot
 missions:
   - start: 2021-03-01
-    end: 2023-12-31
+    end: 2024-12-31
     status: independent
     employer: Octo
 startups:
   - data.insertion
 previously:
   - signaux-faibles
+  - carnet.de.bord
 badges:
   - segur
 competences:

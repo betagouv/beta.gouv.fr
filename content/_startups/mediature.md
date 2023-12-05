@@ -1,14 +1,12 @@
 ---
 title: Médiature
-mission: Améliorer le suivi des demandes adressées par les citoyens aux
-  médiateurs des collectivités territoriales.
+mission: >-
+  Améliorer le suivi des demandes adressées par les citoyens aux médiateurs des
+  collectivités territoriales.
 sponsors:
-    - /organisations/anct
+  - /organisations/anct
 incubator: anct
-link: null
-repository: null
 contact: contactincubateur@anct.gouv.fr
-stats_url: null
 stats: false
 events: []
 phases:
@@ -16,9 +14,12 @@ phases:
     start: 2021-06-01
   - name: construction
     start: 2021-11-01
+  - name: success
+    start: 2023-06-30
 usertypes:
   - particulier
   - collectivite-territoriale
+link: https://mediature.incubateur.net/
 ---
 Médiature : améliorer le suivi des demandes adressées par les citoyens aux médiateurs des collectivités territoriales.
 

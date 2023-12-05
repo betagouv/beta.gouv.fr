@@ -1,18 +1,17 @@
 ---
 title: Boursoloco
 mission: Recenser et cartographier les acteurs économiques du territoire
-sponsors: 
-    - /organisations/anct
+sponsors:
+  - /organisations/anct
 incubator: anct
 phases:
   - name: investigation
     start: 2021-06-01
   - name: construction
     start: 2021-11-01
-link: 
-repository: 
+  - name: alumni
+    start: 2022-12-31
 stats: false
-stats_url: 
 contact: contactincubateur@anct.gouv.fr
 usertypes:
   - entreprise

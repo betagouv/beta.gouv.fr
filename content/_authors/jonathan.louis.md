@@ -11,12 +11,12 @@ missions:
 startups:
   - codedutravail
   - annuaire-entreprises
-  - deveco
 competences:
   - Communication
 previously:
   - fiche.commune.entreprise.fce
   - tchap
+  - deveco
 ---
 >-
   « La principale difficulté n’est pas de produire un film, un livre ou un site

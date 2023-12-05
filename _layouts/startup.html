@@ -10,7 +10,7 @@ layout: default
 {% assign phase = site.phases | where: "id", phase_id | first %}
 
 {% comment %} Détection de l'incubateur {% endcomment %}
-{% capture incubator_id %}/incubators/{{ page.incubator }}{% endcapture %}
+{% capture incubator_id %}/incubateurs/{{ page.incubator }}{% endcapture %}
 {% assign incubator = site.incubators | where:'id', incubator_id | first %}
 
 {% include hero-startup.html startup=page phase=phase %}
@@ -46,9 +46,9 @@ layout: default
         <div class="fr-py-4w fr-px-4w fr-mt-3w" style="border: 1px solid var(--light-border-default-grey, #E5E5E5);">
           <p>
             {% if phase.status == 'success' %}
-              <b>{{ page.title }}</b> a été portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
+              <b>{{ page.title }}</b> a été portée par <a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
             {% else %}
-              <b>{{ page.title }}</b> est portée par <a href="/incubateurs/#{{ incubator_id}}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
+              <b>{{ page.title }}</b> est portée par <a href="/incubateurs/{{ page.incubator }}" title="{{ incubator.title }}">{{ incubator.title }}</a>.
             {% endif %}
           </p>
           <p>
@@ -61,20 +61,20 @@ layout: default
           <p>
             <span class="fr-icon-mail-line"></span>
             {% if page.contact %}
-            <a class="fr-link" href="mailto:{{ page.contact }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'équipe</a>.
+            <a class="fr-link" href="mailto:{{ page.contact }}?subject={{ page.title | url_encode }}%20sur%20beta.gouv.fr">Contacter l'équipe</a>.
             {% else %}
-            <a class="fr-link" href="mailto:{{ site.email }}?subject={{ page.title | uri_escape }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
+            <a class="fr-link" href="mailto:{{ site.email }}?subject={{ page.title | url_encode }}%20sur%20beta.gouv.fr">Contacter l'incubateur</a>.</em>
             {% endif %}
           </p>
           {% unless phase.status == 'investigation' %}
           <div class="fr-py-1w">
             <b>Indicateurs de qualité</b>
-            <ul style="list-style-type: none; padding: 0">
+            <ul style="list-style-type: none; padding: 0;">
               {% capture accessibilite_indicator %}
                 {% if page.accessibility_status %}
-                  <li><span class="fr-badge {% if page.accessibility_status == 'conforme' %}fr-badge--success{% endif %}">Accessibilité : {{ page.accessibility_status }}</span></li>
+                  <li><span class="fr-badge fr-text--xs {% if page.accessibility_status == 'conforme' %}fr-badge--success{% endif %}">Accessibilité : {{ page.accessibility_status }}</span></li>
                 {% elsif phase.status == 'acceleration' or phase.status == 'success' or phase.status == 'transfer' %}
-                  <li><span class="fr-badge">Accessibilité : non conforme</span></li>
+                  <li><span class="fr-badge fr-text--xs">Accessibilité : non conforme</span></li>
                 {% endif %}
               {% endcapture %}
               {% if page.accessibility_status and page.accessibility_status == 'conforme' %}
@@ -84,9 +84,9 @@ layout: default
               {% endif %}
               {% capture analyse_risques_indicator %}
                 {% if page.analyse_risques_url or page.analyse_risques  %}
-                  <li><span class="fr-badge fr-badge--success">Sécurité : niveau connu</span></li>
+                  <li><span class="fr-badge fr-text--xs fr-badge--success">Sécurité : niveau connu</span></li>
                 {% else %}
-                <li><span class="fr-badge">Sécurité : niveau inconnu</span></li>
+                <li><span class="fr-badge fr-text--xs">Sécurité : niveau inconnu</span></li>
                 {% endif %}
               {% endcapture %}
               {% if page.analyse_risques_url or page.analyse_risques %}
@@ -96,11 +96,11 @@ layout: default
               {% endif %}
               {% capture dashlord_indicator %}
                 {% if page.dashlord_url %}
-                <li><span class="fr-badge fr-badge--success">
+                <li><span class="fr-badge fr-text--xs fr-badge--success">
                   Bonnes pratiques : suivies</span>
                 </li>
                 {% else %}
-                <li><span class="fr-badge">
+                <li><span class="fr-badge fr-text--xs">
                   Bonnes pratiques : non suivies</span>
                 </li>
                 {% endif %}
@@ -113,6 +113,8 @@ layout: default
               {{ indicateurs_qualite_success }}
               {{ indicateurs_qualite_warning }}
               </ul>
+
+              <p class="fr-text--xs"><a class="fr-link--sm" href="/stats">En savoir plus sur nos indicateurs</a></p>
           </div>
           <div class="fr-py-1w">
             <b>Transparence</b>

@@ -14,11 +14,10 @@ missions:
     status: independent
     employer: NUMA
 startups:
-  - jeveuxaider
   - investigationIJ
+  - api-engagement
 previously:
   - jeveuxaider
-  - api-engagement
   - snu
   - prevention_ruptures_apprentissage
 badges:

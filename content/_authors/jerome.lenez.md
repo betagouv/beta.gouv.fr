@@ -5,7 +5,7 @@ role: Product Manager
 github: jrmlnz
 missions:
   - start: 2021-08-02
-    end: 2023-12-31
+    end: 2024-08-30
     status: admin
     employer: DIRISI
 startups:
