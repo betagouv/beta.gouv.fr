@@ -5,7 +5,7 @@ domaine: Développement
 github: marin42
 missions:
   - start: 2023-10-24
-    end: 2024-07-01
+    end: 2025-01-31
     status: independent
     employer: Malt
 startups:
