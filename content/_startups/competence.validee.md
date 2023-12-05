@@ -1,8 +1,9 @@
 ---
 title: Compétences Validées
-mission: Optimiser l’intermédiation entre offre et demande d’emploi en
-  fiabilisant les profils des personnes en demande d'emploi grâce à une
-  validation de compétences
+mission: >-
+  Optimiser l’intermédiation entre offre et demande d’emploi en fiabilisant les
+  profils des personnes en demande d'emploi grâce à une validation de
+  compétences
 sponsors:
   - /organisations/pole-emploi
 incubator: pole-emploi
@@ -21,7 +22,6 @@ phases:
   - name: construction
     start: 2021-02-27
     end: 2021-10-28
-    comment: Construction du MVP
   - name: acceleration
     start: 2021-08-02
     end: 2022-08-31
