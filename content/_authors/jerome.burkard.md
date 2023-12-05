@@ -1,6 +1,6 @@
 ---
 fullname: Jérôme Burkard
-role: Développeur
+role: Lead Développeur
 domaine: Développement
 github: jeromebu
 missions:
