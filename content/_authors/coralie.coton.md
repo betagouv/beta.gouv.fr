@@ -1,6 +1,6 @@
 ---
 fullname: Coralie Coton
-role: Product Designer
+role: Product Designer, designer de service, directrice artistique
 domaine: Design
 link: https://coraliecoton.myportfolio.com/
 github: CoraleCotonPro
@@ -12,7 +12,8 @@ missions:
 startups:
   - envergo
   - seves
-  - ecobalyse
 memberType: beta
+previously:
+  - ecobalyse
 ---
 
