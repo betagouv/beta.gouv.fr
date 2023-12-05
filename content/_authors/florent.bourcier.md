@@ -1,11 +1,11 @@
 ---
 fullname: Florent Bourcier
 role: Développeur
-domaine: Déploiement
+domaine: Développement
 github: IGNFBourcier
 missions:
   - start: 2022-02-23
-    end: 2023-11-30
+    end: 2024-12-31
     status: admin
     employer: IGN
 startups:
