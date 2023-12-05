@@ -1,5 +1,6 @@
 ---
 fullname: Coralie Coton
+role: Product Designer
 domaine: Design
 github: CoraleCotonPro
 link: https://www.linkedin.com/in/coralie-coton/
