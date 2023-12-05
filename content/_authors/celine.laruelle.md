@@ -1,5 +1,6 @@
 ---
 fullname: Céline LARUELLE
+github : celinelaruelle
 role: intrapreneur
 domaine: Intraprenariat
 missions:
