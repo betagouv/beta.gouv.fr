@@ -10,6 +10,7 @@ missions:
 memberType: beta
 startups:
   - agents.en.intervention
+  - espace.sur.demande
 ---
 
 UX/UI Designer
