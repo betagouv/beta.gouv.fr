@@ -5,7 +5,7 @@ domaine: Design
 github: evaspa
 missions:
   - start: 2023-08-29
-    end: 2024-03-31
+    end: 2024-04-30
     status: independent
     employer: Malt
 startups:
