@@ -3,6 +3,7 @@ fullname: Martin GRIFFAULT
 role: Intrapreneur, chargé de mission coordinateur national
 domaine: Intraprenariat
 link: http://www.anlci.gouv.fr/
+github: martin-griffault
 missions:
   - start: 2021-09-01
     end: 2024-12-31
