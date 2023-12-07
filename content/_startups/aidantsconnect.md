@@ -29,7 +29,7 @@ accessibility_status: non conforme
 
 En 2018, lors de la phase de consultation de la Stratégie Nationale pour un Numérique inclusif a été soulignée l’importance de la sécurisation juridique de l’ensemble des aidants numériques (Haut Conseil du Travail Social, médiateurs numériques, intervenants sociaux, agents d’accueil en collectivité territoriale, etc.) tant pour orienter et accompagner les usagers en difficulté que pour les aider à effectuer leurs démarches administratives.
 
-## Solution proposée : Sécuriser les démarches administratives en ligne réalisées avec l'aide d'un tiers professionnel
+## Solution proposée : Sécuriser les démarches administratives en ligne réalisées avec l'aide d'un aidant professionnel
 
 Aidants Connect est un service public numérique qui permet aux personnes en difficulté avec le numérique, d'être accompagnées de manière sécurisée dans la réalisation de leurs démarches administratives en ligne avec l'aide d'un aidant professionnel.
 
