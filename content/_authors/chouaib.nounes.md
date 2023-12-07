@@ -5,7 +5,7 @@ domaine: Intraprenariat
 github: Chouaib64
 missions:
   - start: 2020-01-01
-    end: 2023-12-31
+    end: 2024-09-29
     status: admin
     employer: Agglomération Pau Béarn Pyrénées
 startups:
