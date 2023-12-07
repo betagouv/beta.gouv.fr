@@ -33,7 +33,7 @@ En 2018, lors de la phase de consultation de la Stratégie Nationale pour un Num
 
 Aidants Connect est un service public numérique qui permet aux personnes en difficulté avec le numérique, d'être accompagnées de manière sécurisée dans la réalisation de leurs démarches administratives en ligne avec l'aide d'un aidant professionnel.
 
-Ce dispositif permet à l'aidant d'être sécurisé juridiquement pour l'accompagnement aux démarches en ligne et assure à la personne aidée la sécurisation de ses identifiants de connexion. 
+Ce dispositif permet à l'aidant de sécuriser juridiquement l'accompagnement et assure à la personne aidée la manipulation sécurisée de ses identifiants de connexion en utilisant France Connect. 
 
 ## Etre habilité Aidants Connect
 
