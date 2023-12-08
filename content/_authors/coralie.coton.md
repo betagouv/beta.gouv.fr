@@ -2,7 +2,7 @@
 fullname: Coralie Coton
 role: Product Designer
 domaine: Design
-github: CoraleCotonPro
+github: CoralieCotonPro
 link: https://www.linkedin.com/in/coralie-coton/
 missions:
   - start: 2023-09-18
