@@ -9,7 +9,7 @@ missions:
     end: 2024-12-31
     status: independent
     employer: ''
-startups: sante-psy-etudiant
+startups:
   - sante-psy-etudiant
 memberType: autre
 ---
