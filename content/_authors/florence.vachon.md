@@ -9,6 +9,6 @@ missions:
     employer: Pôle emploi
 startups:
   - mes.aides
-prevously :
+previously:
   - mes-evenements-emploi
 
