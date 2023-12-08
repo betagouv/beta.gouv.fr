@@ -7,12 +7,8 @@ missions:
     end: 2023-12-31
     status: admin
     employer: ''
-startups:
+previously: 
   - la-bonne-boite
   - poe.facilite
   - clara
   - mes-aides
-
----
-
-
