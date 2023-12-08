@@ -9,7 +9,6 @@ missions:
     status: admin
     employer: ADEME
 startups:
-  - pacocoupa
   - pacoupa
 memberType: autre
 ---
