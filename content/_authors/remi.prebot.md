@@ -5,7 +5,7 @@ domaine: Déploiement
 github: rprebot
 missions:
   - start: 2021-01-19
-    end: 2023-11-30
+    end: 2024-03-31
     status: independent
     employer: Octo
 startups:
