@@ -8,6 +8,7 @@ missions:
     end: 2023-12-31
     status: independent
 startups:
+  - pilotagevoiepro
 previously:
   - potentiel
   - dematapprentissage
