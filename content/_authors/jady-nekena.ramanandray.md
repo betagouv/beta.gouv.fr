@@ -9,6 +9,8 @@ missions:
     end: 2024-12-31
     status: independent
 startups:
+  - pilotagevoiepro
+previously:
   - expositionIJ
 badges: null
 competences:
