@@ -6,7 +6,7 @@ github: shamzic
 link: https://www.linkedin.com/in/shamery/
 missions:
   - start: 2022-09-05
-    end: 2023-12-31
+    end: 2024-04-01
     status: independent
     employer: Octo
 startups:

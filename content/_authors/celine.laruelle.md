@@ -1,5 +1,6 @@
 ---
 fullname: Céline LARUELLE
+github : celinelaruelle
 role: intrapreneur
 domaine: Intraprenariat
 missions:
@@ -8,7 +9,6 @@ missions:
     status: admin
     employer: ADEME
 startups:
-  - pacocoupa
   - pacoupa
 memberType: autre
 ---

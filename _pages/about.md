@@ -11,7 +11,7 @@ Incubateur de services numériques de la Direction interministérielle du numér
 Directeur interministériel du numérique
 
 ## Copyright
-Illustrations de la section équipe en page d'accueil : Freepik
+Illustrations des pages accueil (section équipe) et FAST : Freepik
 Toute autre illustration : beta.gouv.fr
 
 ### Plus d’infos ?

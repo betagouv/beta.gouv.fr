@@ -6,9 +6,11 @@ github: jadynekena
 link: https://jadynekena.com
 missions:
   - start: 2022-10-10
-    end: 2023-12-31
+    end: 2024-12-31
     status: independent
 startups:
+  - pilotagevoiepro
+previously:
   - expositionIJ
 badges: null
 competences:

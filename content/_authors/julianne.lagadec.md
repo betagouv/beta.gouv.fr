@@ -13,6 +13,7 @@ startups:
   - sirius
   - expositionIJ
   - investigationIJ
+  - pilotagevoiepro
 previously:
   - voeux-apprentissage
   - dematapprentissage

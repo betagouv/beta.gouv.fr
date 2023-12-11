@@ -8,7 +8,7 @@ avatar: >-
 link: https://github.com/lazybird
 missions:
   - start: 2018-11-09
-    end: 2023-12-29
+    end: 2024-04-29
     status: independent
     employer: Inetum
 startups:

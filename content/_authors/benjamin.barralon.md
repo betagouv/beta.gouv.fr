@@ -11,6 +11,8 @@ missions:
 startups:
   - sirius
   - expositionIJ
+  - investigationIJ
+  - pilotagevoiepro
 teams:
   - /teams/mission-inserjeunes
 badges:

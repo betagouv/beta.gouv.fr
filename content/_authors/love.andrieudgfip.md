@@ -4,7 +4,7 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2021-11-20
-    end: 2025-11-13
+    end: 2023-12-03
     status: admin
     employer: DGFIP
 startups:

@@ -8,6 +8,8 @@ missions:
     end: 2024-01-31
     status: independent
     employer: ''
+startups:
+  - pilotagevoiepro
 memberType: beta
 ---
 
