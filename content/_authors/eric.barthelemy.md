@@ -4,15 +4,15 @@ role: Intrapreneur
 domaine: Intraprenariat
 missions:
   - start: 2015-05-01
-    end: 2023-12-31
+    end: 2024-12-31
     status: admin
     employer: pole-emploi
 startups:
-    - itou
+  - itou
 previously:
-    - la-bonne-boite
-    - memo
-    - la-bonne-alternance
+  - la-bonne-boite
+  - memo
+  - la-bonne-alternance
 teams:
   - /teams/gip-inclusion
 ---
