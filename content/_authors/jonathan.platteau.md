@@ -5,7 +5,7 @@ github: flibustier
 link: https://jonathan.pl
 missions:
   - start: 2023-09-18
-    end: 2023-12-31
+    end: 2023-06-30
     status: independent
     employer: DINUM
 competences:
@@ -16,4 +16,3 @@ role: Développeur Full-Stack
 startups:
   - espace.sur.demande
 ---
-bDb
