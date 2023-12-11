@@ -4,7 +4,7 @@ role: Product Manager
 domaine: Produit
 missions:
   - start: 2022-01-01
-    end: 2023-12-30
+    end: 2024-12-30
     status: admin
     employer: pass Culture
 startups:
