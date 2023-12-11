@@ -4,9 +4,14 @@ role: CTO
 domaine: Autre
 missions:
   - start: 2022-11-03
-    end: 2023-12-31
+    end: 2024-12-31
     status: admin
-    employer: ''
+    employer: 'Pôle emploi'
+previously:
+  - la-bonne-boite
+  - poe.facilite
+  - clara
+  - mes-aides
 ---
 
 
