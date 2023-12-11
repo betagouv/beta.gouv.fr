@@ -5,7 +5,7 @@ domaine: Développement
 github: EmileRolley
 missions:
   - start: 2022-08-29
-    end: 2024-01-01
+    end: 2024-03-01
     status: independent
     employer: ''
 startups:
