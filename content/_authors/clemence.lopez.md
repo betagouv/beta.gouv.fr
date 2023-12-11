@@ -13,13 +13,14 @@ missions:
     status: admin
     employer: Dinum
 startups:
-  - compte.ressources
-  - pass'sport
+
 previously:
   - tchap
   - sparte
   - authentification
   - cnr
+  - compte.ressources
+  - pass'sport
 badges:
   - segur
 teams:

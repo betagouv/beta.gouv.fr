@@ -14,6 +14,7 @@ missions:
     employer: ''
 startups:
   - monstage
+  - inventaire.friches.agricoles
 previously:
   - dora
   - la-bonne-boite

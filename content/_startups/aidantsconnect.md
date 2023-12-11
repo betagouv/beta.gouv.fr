@@ -29,11 +29,11 @@ accessibility_status: non conforme
 
 En 2018, lors de la phase de consultation de la Stratégie Nationale pour un Numérique inclusif a été soulignée l’importance de la sécurisation juridique de l’ensemble des aidants numériques (Haut Conseil du Travail Social, médiateurs numériques, intervenants sociaux, agents d’accueil en collectivité territoriale, etc.) tant pour orienter et accompagner les usagers en difficulté que pour les aider à effectuer leurs démarches administratives.
 
-## Solution proposée : Sécuriser les démarches administratives en ligne réalisées avec l'aide d'un tiers
+## Solution proposée : Sécuriser les démarches administratives en ligne réalisées avec l'aide d'un aidant professionnel
 
-L’objectif est de permettre à un professionnel préalablement habilité, de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule via une connexion sécurisée.
+Aidants Connect est un service public numérique qui permet aux personnes en difficulté avec le numérique, d'être accompagnées de manière sécurisée dans la réalisation de leurs démarches administratives en ligne avec l'aide d'un aidant professionnel.
 
-Ce dispositif permet un suivi des actions réalisées sur le compte de la personne, à destination des usagers et des autorités administratives compétentes, et une protection du professionnel déclarant comme de la personne accompagnée en cas d’erreur. L’enjeu est d’empêcher par un tiers l’utilisation de l’identité numérique d’une personne en difficulté avec les outils numériques (comme cela se fait en pratique, avec inscription des mots de passe dans un carnet papier).
+Ce dispositif permet à l'aidant de sécuriser juridiquement l'accompagnement et assure à la personne aidée la manipulation sécurisée de ses identifiants de connexion en utilisant France Connect. 
 
 ## Etre habilité Aidants Connect
 

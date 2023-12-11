@@ -1,6 +1,7 @@
 ---
 fullname: Roxann Khelif
 role: Chargée de déploiement &amp;amp; support utilisateur
+github : rkhelif
 domaine: Déploiement
 missions:
   - start: 2022-11-02
