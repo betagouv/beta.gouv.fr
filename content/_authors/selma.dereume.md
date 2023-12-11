@@ -1,6 +1,6 @@
 ---
-fullname: Selma Dereume 
-role: Coordinatrice des opérations des services numériques 
+fullname: Selma Dereume
+role: Coordinatrice des opérations des services numériques
 domaine: Autre
 missions:
   - start: 2023-12-11
