@@ -5,11 +5,14 @@ sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
 incubator: gip-inclusion
-contact: laetitia.kouadria@beta.gouv.fr
+contact: annaelle.garcia@beta.gouv.fr
 accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-02-13
+  - start: 2023-09-04
+    name: construction
+stats_url: https://mon-recap.fr/?e-landing-page=page-statistiques
 ---
 ## Contexte
 
