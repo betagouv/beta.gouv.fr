@@ -7,12 +7,13 @@ sponsors:
 incubator: gip-inclusion
 contact: annaelle.garcia@beta.gouv.fr
 accessibility_status: non conforme
+stats: true
+stats_url: https://mon-recap.fr/?e-landing-page=page-statistiques
 phases:
   - name: investigation
     start: 2023-02-13
-  - start: 2023-09-04
-    name: construction
-stats_url: https://mon-recap.fr/?e-landing-page=page-statistiques
+  - name: construction
+    start: 2023-09-04
 ---
 ## Contexte
 
