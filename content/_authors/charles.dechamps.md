@@ -1,14 +1,14 @@
 ---
 fullname: Charles Dechamps
-role: Product Manager
-domaine: Déploiement
+role: Responsable de portefeuille
+domaine: Animation
 github: chdechamps
 missions:
-  - start: 2022-12-01
-    end: 2023-12-01
+  - start: 2023-12-01
+    end: 2024-12-12
     status: admin
-    employer: GIP Plateforme de l'inclusion
-startups:
+    employer: DGEFP
+previously:
   - carnet.de.bord
 memberType: beta
 ---
