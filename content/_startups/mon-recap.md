@@ -5,7 +5,8 @@ sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
 incubator: gip-inclusion
-- contact: laetitia.kouadria@beta.gouv.fr
+contact: laetitia.kouadria@beta.gouv.fr
+accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2023-02-13
